@@ -1,6 +1,0 @@
-# Who Part 2
-
-* who wants `WHOPTS`
-* who was `HOFS`
-* who were `HORP`
-* who would `WHOLD`
