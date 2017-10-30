@@ -1,0 +1,25 @@
+he
+he believe
+he believed
+he believes
+he can
+he could
+he feels
+he felt
+he has
+he recalled
+he recalls
+he recollected
+he recollects
+he remembered
+he remembers
+he said
+he say
+he says
+he should
+he think
+he thinks
+he understand
+he wanted
+he wants
+he was

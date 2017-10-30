@@ -1,0 +1,11 @@
+Medical
+Suffixes
+'^coccus': KOBG/KWRUS or KOBG/US
+'^megaly': PHEG/HREU
+'^scopically': SKOP/KHREU
+'^coccal': KOBG/A*L
+'^occal': OBG/A*L
+'^genicity': SKWREPB/*EUFT or SKWREPB/SEUS/TEU
+'^philicity': TPEULS/TEU or TPHREUFT
+'^phobicity': TPOEB/EUS/TEU
+ignore_characters='^'

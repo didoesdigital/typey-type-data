@@ -1,0 +1,20 @@
+how
+how about
+how can
+how could
+how do
+how does
+how fast
+how it
+how large
+how late
+how long
+how many
+how much
+how often
+how old
+how shall
+how should
+how the
+how was
+how were

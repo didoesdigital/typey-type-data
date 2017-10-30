@@ -1,0 +1,9 @@
+Medical
+Prefixes
+'dorso^': TKORS/KWRO
+'neuro^': TPH*UR
+'neurostimulation': TPH*UR/STEUPL/HRAEUGS
+'somato^': SOEPLT
+'somatosensory': SOEPLT/SO*EURPBS
+'talocancaneal^': TAL/KAPB/KAPB/KWRAL
+ignore_characters='^'

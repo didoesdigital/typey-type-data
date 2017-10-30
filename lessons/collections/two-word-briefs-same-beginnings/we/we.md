@@ -1,0 +1,21 @@
+we
+we are
+we believe
+we believed
+we can
+we could
+we felt
+we find
+we have
+we recalled
+we recollect
+we recollected
+we remember
+we remembered
+we say
+we says
+we should
+we think
+we understand
+we was
+we were

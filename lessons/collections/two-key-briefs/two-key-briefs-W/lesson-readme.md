@@ -1,0 +1,12 @@
+# Two-key Briefs W
+
+* request `KW`
+* about `PW`
+* were `WR`
+* was `WA`
+* would `WO`
+* we `WE`
+* with you `WU`
+* where `W-R`
+* WordPress `W-P`
+* with the `W-T`

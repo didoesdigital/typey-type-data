@@ -1,0 +1,28 @@
+Git
+
+'git': TKPWEUT
+'add .': AD -P
+'add dict.JSON': AD S-P TKEUBGT P-P SKWRO*FPB
+'git add': TKPWA*D
+'status': ST*TS
+'git status': TKPW*EUTS or TKPW*TS
+'log -p': HROG H*PB P*
+'diff': TKEUF
+'diff --cached': TKEUF TK*RB KAERBD
+'git diff': TKPW*F
+'git diff --cached': TKPW*F/KAEURBD
+'commit -v': KPHEUT H*PB SR*
+'git commit -v': TKPWH*EUT or TKPWH*T
+'git commit -v --amend': TKPWH*EUTD or TKPWH*TD
+'push origin master': PURB O*RPBLG PHAFRT
+'pull --rebase': PUL TK*RB RE/PWAEUS
+'checkout -b hotfix': KHEBG/SKWROUT H*PB PW* HOT TK-LS TPEUBGS
+'git checkout': TKPW*OUT
+'git checkout -b': TKPW*OUT/WH*PB
+'reset HEAD^': RE/SET KPA*E/HED KR-RT
+'reset --hard origin/master': RE/SET TK*RB HARD O*RPBLG OEU PHAFRT
+'merge': PHERPBLG
+'git merge': TKPWHERPBLG
+'GitHub': TKPWEUT/HUB
+case_sensitive=true
+notice_spaces=true

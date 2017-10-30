@@ -1,0 +1,143 @@
+More Suffixes
+
+'^itious': EURBS
+'^aceous': AEURBS
+'^licious': HREURBS
+'^ticious': TEURBS
+'^ious': KWROUS
+'^orious': OR/KWROUS
+'^uous': WOUS
+'^rous': ROUS
+'^tous': TOUS
+'^ous': OUS
+'^inous': TPHOUS
+'^us': KWRUS
+'^ulus': HRUS
+'^th': *T (for -th endings too)
+'^ean': AO*EPB or KWRA*PB
+'^tion': SH*UPB
+'^ation': AEUGS
+'^iation': KWRAEUGS
+'^uation': WAEUGS
+'^ulation': HRAEUGS
+'^ication': KAEUGS
+'^mation': PHAEUGS
+'^ration': RA*EUGS
+'^sation': SAEUGS
+'^ization': SA*EUGS
+'^tation': TAEUGS
+'^tization': TAOEUZ/AEUGS
+'^dation': TKAEUGS
+'^ition': EUGS
+'^ician': *EUGS
+'^ibition': PWEUGS
+'^etition': TEUGS
+'^dition': TKEUGS
+'^ification': TPAEUBGS
+'^fication': TPEUBG/A*EUGS
+'^ination': TPHAEUGS
+'^flection': TPHR*EBGS
+'^ion': KWROPB
+'^allian': A*PBL
+'^arian': AEURPB
+'^inian': EUPB/KWRAPB
+'^ian': KWRAPB
+'^itarian': TAEURPB
+'^ing': -G
+'^ating': AEUT/-G
+'^ling': HREUPBG
+'^ulating': HRAEUT/-G
+'^izing': AO*EUFG
+'^imizing': PHAO*EUFG
+'^imizing': PHAOEUFG
+'^nizing': TPHAOEUZ/-G
+'^ening': TPHEUPBG
+'^ifying': TPAOEUG
+'^making': PHA*EUBG/-G or PHA*EUG
+'^keeping': KAO*EP/-G or KAO*ERP
+'^keeper': KAO*EP/*ER
+'^er': *ER
+'^eer': AO*ER
+'^zer': S*ER
+'^ler': HRER
+'^ier': KWRER (or KWRA*U)
+'^bler': PWHRER
+'^ster': STER
+'^ener': TPHER
+'^ever': SKWREFR
+'^over': O*EFR
+'^overs': O*EFRS
+'^inger': EUPBG/*ER
+'^monger': PHO*PBG/*ER or PHOPBG/*ER
+'^made': PHA*ED
+'^make': PHA*EUBG
+'^maker': PHA*EURBG
+'^making': PHA*EUBG/-G or PHA*EUG
+'^meter': PHAO*ERT
+'^ometer': OPL/TER or OPLT/*ER
+'^taker': TA*EURBG
+'^ifier': TPAO*EUR
+'^holder': HO*ERLD
+'^ly': HREU
+'^ally': A*EL
+'^ually': WAEL
+'^ively': EUFL
+'^ularly': HRARL
+'^iorly': KWRORL
+'^ously': O*ULS
+'^itively': TEUFL
+'^arily': AR/HREU
+'^ically': EBG/HREU or KHREU
+'^atically': AT/KHREU
+'^ably': PWHREU
+'^rably': RAEBL
+'^inally': TPHAEL
+'^fully': TPHREU
+'^or': O*R
+'^ior': KWROR
+'^ator': AEUT/O*R
+'^ceptor': SEPT/O*R
+'^inator': TPHAEUT/O*R
+'^able': -BL
+'^ability': -BLT
+'^ibility': EUBLT
+'^izable': AOEUBL
+'^rably': RAEBL
+'^ably': PWHREU
+'^al': A*L
+'^cal': K-L
+'^atical': A*T/K-L
+'^ical': K*L
+'^ural': RAL
+'^ual': WAL
+'^ial': KWRAL
+'^inal': TPHAL
+'^arial': AEURL
+'^ential': EPBL
+'^logical': HR-L
+'^ological': HR-LG
+'^ogical': OPBLG/K-L
+'^hedral': HAOED/RAL
+'^monal': PHOEPBL
+'^cidal': SAO*EUD/A*L or SAOEUD/A*L
+'^ity': TEU
+'^ivity': *EUFT
+'^icity': EUS/TEU
+'^ticity': TEUFT or TEUS/TEU
+'^tivity': T*EUFT
+'^arity': AEURT or AEUR/TEU
+'^ality': ALT or AL/TEU
+'^ility': EULT or EUL/TEU
+'^iality': KWRALT
+'^iority': KWRORT
+'^ularity': HRA*EURT
+'^uosity': WOS/TEU
+'^ness': -PBS
+'^iness': *PBS or *EUPBS
+'^liness': HREUPBS or HR*EUPBS
+'^iveness': EUFPBS
+'^tive': TEUF
+'^ify': TPAOEU
+'^ary': AER
+'^ance': APBS
+ignore_characters='^'

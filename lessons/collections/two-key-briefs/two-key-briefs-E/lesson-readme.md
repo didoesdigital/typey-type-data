@@ -1,0 +1,13 @@
+# Two-key Briefs E
+
+* at the `TE`
+* he can `KE`
+* we `WE`
+* he `E`
+* owe `OE`
+* I `EU`
+* every `EF`
+* ebb `EB`
+* El `EL`
+* egg `EG`
+* easy `EZ`
