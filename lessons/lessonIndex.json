@@ -1,14 +1,14 @@
 [
   {
     "title": "A test lesson",
-    "subtitle": "QWERTY friendly",
-    "category": "Fundamentals",
+    "subtitle": "xxx",
+    "category": "Testing",
     "subcategory": "Testing",
     "path": "/lessons/test-lesson.txt"
   },
   {
     "title": "Belling the Cat",
-    "subtitle": "",
+    "subtitle": "xxx",
     "category": "Stories",
     "subcategory": "Aesop's Fables",
     "path": "/lessons/stories/fables/belling-the-cat/lesson.txt"
@@ -16,37 +16,93 @@
   {
     "title": "Single-stroke-briefs",
     "subtitle": "",
-    "category": "Collections",
+    "category": "Drills",
     "subcategory": "",
-    "path": "/lessons/collections/single-stroke-briefs/lesson.txt"
+    "path": "/lessons/drills/single-stroke-briefs/lesson.txt"
   },
   {
     "title": "Common words",
     "subtitle": "",
-    "category": "Collections",
+    "category": "Drills",
     "subcategory": "",
-    "path": "/lessons/collections/common-words/lesson.txt"
+    "path": "/lessons/drills/common-words/lesson.txt"
   },
   {
     "title": "Top 1,000 English words",
     "subtitle": "",
-    "category": "Collections",
+    "category": "Drills",
     "subcategory": "",
-    "path": "/lessons/collections/google-1000-english/lesson.txt"
+    "path": "/lessons/drills/google-1000-english/lesson.txt"
   },
   {
     "title": "UX",
     "subtitle": "",
-    "category": "Domain specific",
+    "category": "Collections",
     "subcategory": "",
-    "path": "/lessons/domains/ux/lesson.txt"
+    "path": "/lessons/collections/ux/ux-nouns/lesson.txt"
   },
   {
-    "title": "Lesson 1 Exercise 1",
-    "subtitle": "One-syllable words",
-    "category": "Fundamentals",
+    "title": "CSS",
+    "subtitle": "",
+    "category": "Collections",
     "subcategory": "",
-    "path": "/lessons/fundamentals/one-syllable-words/lesson.txt"
+    "path": "/lessons/collections/tech/css/lesson.txt"
+  },
+  {
+    "title": "CSS alignment",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/css-alignment/lesson.txt"
+  },
+  {
+    "title": "CSS media object",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/css-media-object/lesson.txt"
+  },
+  {
+    "title": "Git",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/git/lesson.txt"
+  },
+  {
+    "title": "Haxe",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/haxe/lesson.txt"
+  },
+  {
+    "title": "HTML",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/html/lesson.txt"
+  },
+  {
+    "title": "jQuery",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/jquery/lesson.txt"
+  },
+  {
+    "title": "Markdown",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/markdown/lesson.txt"
+  },
+  {
+    "title": "Ruby",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "",
+    "path": "/lessons/collections/tech/ruby/lesson.txt"
   },
   {
     "title": "FR",
@@ -54,5 +110,54 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/lessons/drills/fr/lesson.txt"
+  },
+  {
+    "title": "Email Salutations and Complimentary Closings",
+    "subtitle": "Nouns",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt"
+  },
+  {
+    "title": "Two-word Briefs, Same Beginnings",
+    "subtitle": "Phrases",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/two-word-briefs-same-beginnings/lesson.txt"
+  },
+  {
+    "title": "Time",
+    "subtitle": "Nouns",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/time/lesson.txt"
+  },
+  {
+    "title": "Two-word Briefs, Same Endings",
+    "subtitle": "Phrases",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/two-word-briefs-same-endings/lesson.txt"
+  },
+  {
+    "title": "Longest Words",
+    "subtitle": "Party tricks",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/longest-words/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "Nouns",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/calendar/lesson.txt"
+  },
+  {
+    "title": "Emotions",
+    "subtitle": "Nouns",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/emotions/lesson.txt"
   }
 ]
