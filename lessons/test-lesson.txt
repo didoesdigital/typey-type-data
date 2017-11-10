@@ -1,9 +1,13 @@
 Test lesson
 
-'qwerty': KW*ERT
-'xxxxxqwerty': KW*ERT
-'qwerty': KW*ERT
+'a': A*
+'as well as': SW-LS
+'and': SKP
+'in': TPH
+'of': -F
+'the': -T
+'to': TO
 case_sensitive=false
 notice_spaces=false
-require_spaces=false
+require_spaces=true
 ignore_characters='x'
