@@ -3,10 +3,6 @@ Test lesson
 'a': A*
 'as well as': SW-LS
 'and': SKP
-'in': TPH
-'of': -F
-'the': -T
-'to': TO
 case_sensitive=false
 notice_spaces=false
 require_spaces=true
