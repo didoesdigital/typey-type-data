@@ -1,5 +1,12 @@
 [
   {
+    "title": "Test lesson",
+    "subtitle": "Test",
+    "category": "Drills",
+    "subcategory": "Test drills",
+    "path": "/lessons/test-lesson.txt"
+  },
+  {
     "title": "The Fairy",
     "subtitle": "",
     "category": "Stories",
