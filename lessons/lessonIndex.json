@@ -7,6 +7,587 @@
     "path": "./lessons/test-lesson.txt"
   },
   {
+    "title": "How",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/how/lesson.txt"
+  },
+  {
+    "title": "That",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/that/lesson.txt"
+  },
+  {
+    "title": "Who",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/who/lesson.txt"
+  },
+  {
+    "title": "You",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/you/lesson.txt"
+  },
+  {
+    "title": "With",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/with/lesson.txt"
+  },
+  {
+    "title": "What",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/what/lesson.txt"
+  },
+  {
+    "title": "The",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/the/lesson.txt"
+  },
+  {
+    "title": "There",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/there/lesson.txt"
+  },
+  {
+    "title": "He",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/he/lesson.txt"
+  },
+  {
+    "title": "On",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/on/lesson.txt"
+  },
+  {
+    "title": "And",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/and/lesson.txt"
+  },
+  {
+    "title": "We",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/we/lesson.txt"
+  },
+  {
+    "title": "Too",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/too/lesson.txt"
+  },
+  {
+    "title": "Where",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/where/lesson.txt"
+  },
+  {
+    "title": "They",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/they/lesson.txt"
+  },
+  {
+    "title": "It",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/it/lesson.txt"
+  },
+  {
+    "title": "Which",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/which/lesson.txt"
+  },
+  {
+    "title": "When",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/when/lesson.txt"
+  },
+  {
+    "title": "This",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/this/lesson.txt"
+  },
+  {
+    "title": "Of",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/of/lesson.txt"
+  },
+  {
+    "title": "Would",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/would/lesson.txt"
+  },
+  {
+    "title": "She",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Beginnings",
+    "path": "./lessons/collections/two-word-briefs-same-beginnings/she/lesson.txt"
+  },
+  {
+    "title": "UX",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "UX",
+    "path": "./lessons/collections/ux/ux-nouns/lesson.txt"
+  },
+  {
+    "title": "jQuery",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/jquery/lesson.txt"
+  },
+  {
+    "title": "Haxe",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/haxe/lesson.txt"
+  },
+  {
+    "title": "CSS alignment",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/css-alignment/lesson.txt"
+  },
+  {
+    "title": "CSS",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/css-media-object/lesson.txt"
+  },
+  {
+    "title": "CSS",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/css/lesson.txt"
+  },
+  {
+    "title": "Ruby",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/ruby/lesson.txt"
+  },
+  {
+    "title": "HTML",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/html/lesson.txt"
+  },
+  {
+    "title": "Git",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/git/lesson.txt"
+  },
+  {
+    "title": "Markdown",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "./lessons/collections/tech/markdown/lesson.txt"
+  },
+  {
+    "title": "Medical",
+    "subtitle": "Suffixes",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "./lessons/collections/medical/medical-suffixes/lesson.txt"
+  },
+  {
+    "title": "Medical",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "./lessons/collections/medical/medical-nouns/lesson.txt"
+  },
+  {
+    "title": "Medical",
+    "subtitle": "Prefixes",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "./lessons/collections/medical/medical-prefixes/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "D",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--D/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "H",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-H/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "R",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-R/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "E",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-E/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "U",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-U/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "K",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-K/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "T",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--T/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "T",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-T/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "R",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--R/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "W",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-W/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "A",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-A/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "P",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-P/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "S, -S and -Z",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "L",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--L/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "B",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--B/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "F",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--F/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "G",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--G/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "P",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs--P/lesson.txt"
+  },
+  {
+    "title": "Two-key Briefs",
+    "subtitle": "O",
+    "category": "Collections",
+    "subcategory": "Two Key Briefs",
+    "path": "./lessons/collections/two-key-briefs/two-key-briefs-O/lesson.txt"
+  },
+  {
+    "title": "In",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/in/lesson.txt"
+  },
+  {
+    "title": "That",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/that/lesson.txt"
+  },
+  {
+    "title": "Be",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/be/lesson.txt"
+  },
+  {
+    "title": "The",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/the/lesson.txt"
+  },
+  {
+    "title": "Had",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/had/lesson.txt"
+  },
+  {
+    "title": "And",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/and/lesson.txt"
+  },
+  {
+    "title": "Is",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/is/lesson.txt"
+  },
+  {
+    "title": "To",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/to/lesson.txt"
+  },
+  {
+    "title": "Of",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two Word Briefs Same Endings",
+    "path": "./lessons/collections/two-word-briefs-same-endings/of/lesson.txt"
+  },
+  {
+    "title": "Time",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Time",
+    "path": "./lessons/drills/time/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words",
+    "subtitle": "Common",
+    "category": "Drills",
+    "subcategory": "Two Letter Words Common",
+    "path": "./lessons/drills/two-letter-words-common/lesson.txt"
+  },
+  {
+    "title": "Longest Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Longest Words",
+    "path": "./lessons/drills/longest-words/lesson.txt"
+  },
+  {
+    "title": "Pronouns and Contractions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Pronouns Contractions",
+    "path": "./lessons/drills/pronouns-contractions/lesson.txt"
+  },
+  {
+    "title": "Single-stroke briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Single Stroke Briefs",
+    "path": "./lessons/drills/single-stroke-briefs/lesson.txt"
+  },
+  {
+    "title": "FR",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Fr",
+    "path": "./lessons/drills/fr/lesson.txt"
+  },
+  {
+    "title": "FR Part 1",
+    "subtitle": "-fer",
+    "category": "Drills",
+    "subcategory": "Fr",
+    "path": "./lessons/drills/fr/fr-part-1/lesson.txt"
+  },
+  {
+    "title": "FR Part 2",
+    "subtitle": "-ver",
+    "category": "Drills",
+    "subcategory": "Fr",
+    "path": "./lessons/drills/fr/fr-part-2/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Calendar",
+    "path": "./lessons/drills/calendar/lesson.txt"
+  },
+  {
+    "title": "Emotions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Emotions",
+    "path": "./lessons/drills/emotions/lesson.txt"
+  },
+  {
+    "title": "Common words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Common Words",
+    "path": "./lessons/drills/common-words/lesson.txt"
+  },
+  {
+    "title": "Email Salutations and Complimentary Closings",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Email Salutations and Complimentary Closings",
+    "path": "./lessons/drills/email-salutations-and-complimentary-closings/lesson.txt"
+  },
+  {
+    "title": "Top 1000 English Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Google 1000 English",
+    "path": "./lessons/drills/google-1000-english/lesson.txt"
+  },
+  {
+    "title": "Superlatives",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Superlatives",
+    "path": "./lessons/drills/superlatives/lesson.txt"
+  },
+  {
+    "title": "Pronouns continued",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Pronouns Continued",
+    "path": "./lessons/drills/pronouns-continued/lesson.txt"
+  },
+  {
+    "title": "Pronouns",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Pronouns",
+    "path": "./lessons/drills/pronouns/lesson.txt"
+  },
+  {
+    "title": "More Endings",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "More Endings",
+    "path": "./lessons/drills/more-endings/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words",
+    "subtitle": "Rare",
+    "category": "Drills",
+    "subcategory": "Two Letter Words Rare",
+    "path": "./lessons/drills/two-letter-words-rare/lesson.txt"
+  },
+  {
+    "title": "Titles",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Titles",
+    "path": "./lessons/drills/titles/lesson.txt"
+  },
+  {
+    "title": "More Suffixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "More Suffixes",
+    "path": "./lessons/drills/more-suffixes/lesson.txt"
+  },
+  {
     "title": "The Fairy",
     "subtitle": "",
     "category": "Stories",
@@ -1272,587 +1853,6 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "./lessons/stories/grimm/the-salad/lesson.txt"
-  },
-  {
-    "title": "How",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/how/lesson.txt"
-  },
-  {
-    "title": "That",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/that/lesson.txt"
-  },
-  {
-    "title": "Who",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/who/lesson.txt"
-  },
-  {
-    "title": "You",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/you/lesson.txt"
-  },
-  {
-    "title": "With",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/with/lesson.txt"
-  },
-  {
-    "title": "What",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/what/lesson.txt"
-  },
-  {
-    "title": "The",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/the/lesson.txt"
-  },
-  {
-    "title": "There",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/there/lesson.txt"
-  },
-  {
-    "title": "He",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/he/lesson.txt"
-  },
-  {
-    "title": "On",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/on/lesson.txt"
-  },
-  {
-    "title": "And",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/and/lesson.txt"
-  },
-  {
-    "title": "We",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/we/lesson.txt"
-  },
-  {
-    "title": "Too",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/too/lesson.txt"
-  },
-  {
-    "title": "Where",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/where/lesson.txt"
-  },
-  {
-    "title": "They",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/they/lesson.txt"
-  },
-  {
-    "title": "It",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/it/lesson.txt"
-  },
-  {
-    "title": "Which",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/which/lesson.txt"
-  },
-  {
-    "title": "When",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/when/lesson.txt"
-  },
-  {
-    "title": "This",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/this/lesson.txt"
-  },
-  {
-    "title": "Of",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/of/lesson.txt"
-  },
-  {
-    "title": "Would",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/would/lesson.txt"
-  },
-  {
-    "title": "She",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Beginnings",
-    "path": "./lessons/collections/two-word-briefs-same-beginnings/she/lesson.txt"
-  },
-  {
-    "title": "UX",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "UX",
-    "path": "./lessons/collections/ux/ux-nouns/lesson.txt"
-  },
-  {
-    "title": "jQuery",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/jquery/lesson.txt"
-  },
-  {
-    "title": "Haxe",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/haxe/lesson.txt"
-  },
-  {
-    "title": "CSS alignment",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/css-alignment/lesson.txt"
-  },
-  {
-    "title": "CSS",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/css-media-object/lesson.txt"
-  },
-  {
-    "title": "CSS",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/css/lesson.txt"
-  },
-  {
-    "title": "Ruby",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/ruby/lesson.txt"
-  },
-  {
-    "title": "HTML",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/html/lesson.txt"
-  },
-  {
-    "title": "Git",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/git/lesson.txt"
-  },
-  {
-    "title": "Markdown",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "./lessons/collections/tech/markdown/lesson.txt"
-  },
-  {
-    "title": "Medical",
-    "subtitle": "Suffixes",
-    "category": "Collections",
-    "subcategory": "Medical",
-    "path": "./lessons/collections/medical/medical-suffixes/lesson.txt"
-  },
-  {
-    "title": "Medical",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Medical",
-    "path": "./lessons/collections/medical/medical-nouns/lesson.txt"
-  },
-  {
-    "title": "Medical",
-    "subtitle": "Prefixes",
-    "category": "Collections",
-    "subcategory": "Medical",
-    "path": "./lessons/collections/medical/medical-prefixes/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "D",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--D/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "H",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-H/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "R",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-R/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "E",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-E/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "U",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-U/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "K",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-K/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "T",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--T/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "T",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-T/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "R",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--R/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "W",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-W/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "A",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-A/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "P",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-P/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "S, -S and -Z",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "L",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--L/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "B",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--B/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "F",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--F/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "G",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--G/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "P",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs--P/lesson.txt"
-  },
-  {
-    "title": "Two-key Briefs",
-    "subtitle": "O",
-    "category": "Collections",
-    "subcategory": "Two Key Briefs",
-    "path": "./lessons/collections/two-key-briefs/two-key-briefs-O/lesson.txt"
-  },
-  {
-    "title": "In",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/in/lesson.txt"
-  },
-  {
-    "title": "That",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/that/lesson.txt"
-  },
-  {
-    "title": "Be",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/be/lesson.txt"
-  },
-  {
-    "title": "The",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/the/lesson.txt"
-  },
-  {
-    "title": "Had",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/had/lesson.txt"
-  },
-  {
-    "title": "And",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/and/lesson.txt"
-  },
-  {
-    "title": "Is",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/is/lesson.txt"
-  },
-  {
-    "title": "To",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/to/lesson.txt"
-  },
-  {
-    "title": "Of",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two Word Briefs Same Endings",
-    "path": "./lessons/collections/two-word-briefs-same-endings/of/lesson.txt"
-  },
-  {
-    "title": "Time",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Time",
-    "path": "./lessons/drills/time/lesson.txt"
-  },
-  {
-    "title": "Two Letter Words",
-    "subtitle": "Common",
-    "category": "Drills",
-    "subcategory": "Two Letter Words Common",
-    "path": "./lessons/drills/two-letter-words-common/lesson.txt"
-  },
-  {
-    "title": "Longest Words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Longest Words",
-    "path": "./lessons/drills/longest-words/lesson.txt"
-  },
-  {
-    "title": "Pronouns and Contractions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Pronouns Contractions",
-    "path": "./lessons/drills/pronouns-contractions/lesson.txt"
-  },
-  {
-    "title": "Single-stroke briefs",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Single Stroke Briefs",
-    "path": "./lessons/drills/single-stroke-briefs/lesson.txt"
-  },
-  {
-    "title": "FR",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Fr",
-    "path": "./lessons/drills/fr/lesson.txt"
-  },
-  {
-    "title": "FR Part 1",
-    "subtitle": "-fer",
-    "category": "Drills",
-    "subcategory": "Fr",
-    "path": "./lessons/drills/fr/fr-part-1/lesson.txt"
-  },
-  {
-    "title": "FR Part 2",
-    "subtitle": "-ver",
-    "category": "Drills",
-    "subcategory": "Fr",
-    "path": "./lessons/drills/fr/fr-part-2/lesson.txt"
-  },
-  {
-    "title": "Calendar",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Calendar",
-    "path": "./lessons/drills/calendar/lesson.txt"
-  },
-  {
-    "title": "Emotions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Emotions",
-    "path": "./lessons/drills/emotions/lesson.txt"
-  },
-  {
-    "title": "Common words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Common Words",
-    "path": "./lessons/drills/common-words/lesson.txt"
-  },
-  {
-    "title": "Email Salutations and Complimentary Closings",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Email Salutations and Complimentary Closings",
-    "path": "./lessons/drills/email-salutations-and-complimentary-closings/lesson.txt"
-  },
-  {
-    "title": "Top 1000 English Words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Google 1000 English",
-    "path": "./lessons/drills/google-1000-english/lesson.txt"
-  },
-  {
-    "title": "Superlatives",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Superlatives",
-    "path": "./lessons/drills/superlatives/lesson.txt"
-  },
-  {
-    "title": "Pronouns continued",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Pronouns Continued",
-    "path": "./lessons/drills/pronouns-continued/lesson.txt"
-  },
-  {
-    "title": "Pronouns",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Pronouns",
-    "path": "./lessons/drills/pronouns/lesson.txt"
-  },
-  {
-    "title": "More Endings",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "More Endings",
-    "path": "./lessons/drills/more-endings/lesson.txt"
-  },
-  {
-    "title": "Two Letter Words",
-    "subtitle": "Rare",
-    "category": "Drills",
-    "subcategory": "Two Letter Words Rare",
-    "path": "./lessons/drills/two-letter-words-rare/lesson.txt"
-  },
-  {
-    "title": "Titles",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Titles",
-    "path": "./lessons/drills/titles/lesson.txt"
-  },
-  {
-    "title": "More Suffixes",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "More Suffixes",
-    "path": "./lessons/drills/more-suffixes/lesson.txt"
   },
   {
     "title": "The Fox and the Grapes",
