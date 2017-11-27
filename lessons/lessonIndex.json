@@ -7,6 +7,146 @@
     "path": "./lessons/test-lesson.txt"
   },
   {
+    "title": "Time",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Time",
+    "path": "./lessons/drills/time/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words",
+    "subtitle": "Common",
+    "category": "Drills",
+    "subcategory": "Two Letter Words Common",
+    "path": "./lessons/drills/two-letter-words-common/lesson.txt"
+  },
+  {
+    "title": "Longest Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Longest Words",
+    "path": "./lessons/drills/longest-words/lesson.txt"
+  },
+  {
+    "title": "Pronouns and Contractions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Pronouns Contractions",
+    "path": "./lessons/drills/pronouns-contractions/lesson.txt"
+  },
+  {
+    "title": "Single-stroke briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Single Stroke Briefs",
+    "path": "./lessons/drills/single-stroke-briefs/lesson.txt"
+  },
+  {
+    "title": "FR",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Fr",
+    "path": "./lessons/drills/fr/lesson.txt"
+  },
+  {
+    "title": "FR Part 1",
+    "subtitle": "-fer",
+    "category": "Drills",
+    "subcategory": "Fr",
+    "path": "./lessons/drills/fr/fr-part-1/lesson.txt"
+  },
+  {
+    "title": "FR Part 2",
+    "subtitle": "-ver",
+    "category": "Drills",
+    "subcategory": "Fr",
+    "path": "./lessons/drills/fr/fr-part-2/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Calendar",
+    "path": "./lessons/drills/calendar/lesson.txt"
+  },
+  {
+    "title": "Emotions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Emotions",
+    "path": "./lessons/drills/emotions/lesson.txt"
+  },
+  {
+    "title": "Common words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Common Words",
+    "path": "./lessons/drills/common-words/lesson.txt"
+  },
+  {
+    "title": "Email Salutations and Complimentary Closings",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Email Salutations and Complimentary Closings",
+    "path": "./lessons/drills/email-salutations-and-complimentary-closings/lesson.txt"
+  },
+  {
+    "title": "Top 1000 English Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Google 1000 English",
+    "path": "./lessons/drills/google-1000-english/lesson.txt"
+  },
+  {
+    "title": "Superlatives",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Superlatives",
+    "path": "./lessons/drills/superlatives/lesson.txt"
+  },
+  {
+    "title": "Pronouns continued",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Pronouns Continued",
+    "path": "./lessons/drills/pronouns-continued/lesson.txt"
+  },
+  {
+    "title": "Pronouns",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Pronouns",
+    "path": "./lessons/drills/pronouns/lesson.txt"
+  },
+  {
+    "title": "More Endings",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "More Endings",
+    "path": "./lessons/drills/more-endings/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words",
+    "subtitle": "Rare",
+    "category": "Drills",
+    "subcategory": "Two Letter Words Rare",
+    "path": "./lessons/drills/two-letter-words-rare/lesson.txt"
+  },
+  {
+    "title": "Titles",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "Titles",
+    "path": "./lessons/drills/titles/lesson.txt"
+  },
+  {
+    "title": "More Suffixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "More Suffixes",
+    "path": "./lessons/drills/more-suffixes/lesson.txt"
+  },
+  {
     "title": "How",
     "subtitle": "",
     "category": "Collections",
@@ -446,146 +586,6 @@
     "category": "Collections",
     "subcategory": "Two Word Briefs Same Endings",
     "path": "./lessons/collections/two-word-briefs-same-endings/of/lesson.txt"
-  },
-  {
-    "title": "Time",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Time",
-    "path": "./lessons/drills/time/lesson.txt"
-  },
-  {
-    "title": "Two Letter Words",
-    "subtitle": "Common",
-    "category": "Drills",
-    "subcategory": "Two Letter Words Common",
-    "path": "./lessons/drills/two-letter-words-common/lesson.txt"
-  },
-  {
-    "title": "Longest Words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Longest Words",
-    "path": "./lessons/drills/longest-words/lesson.txt"
-  },
-  {
-    "title": "Pronouns and Contractions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Pronouns Contractions",
-    "path": "./lessons/drills/pronouns-contractions/lesson.txt"
-  },
-  {
-    "title": "Single-stroke briefs",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Single Stroke Briefs",
-    "path": "./lessons/drills/single-stroke-briefs/lesson.txt"
-  },
-  {
-    "title": "FR",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Fr",
-    "path": "./lessons/drills/fr/lesson.txt"
-  },
-  {
-    "title": "FR Part 1",
-    "subtitle": "-fer",
-    "category": "Drills",
-    "subcategory": "Fr",
-    "path": "./lessons/drills/fr/fr-part-1/lesson.txt"
-  },
-  {
-    "title": "FR Part 2",
-    "subtitle": "-ver",
-    "category": "Drills",
-    "subcategory": "Fr",
-    "path": "./lessons/drills/fr/fr-part-2/lesson.txt"
-  },
-  {
-    "title": "Calendar",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Calendar",
-    "path": "./lessons/drills/calendar/lesson.txt"
-  },
-  {
-    "title": "Emotions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Emotions",
-    "path": "./lessons/drills/emotions/lesson.txt"
-  },
-  {
-    "title": "Common words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Common Words",
-    "path": "./lessons/drills/common-words/lesson.txt"
-  },
-  {
-    "title": "Email Salutations and Complimentary Closings",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Email Salutations and Complimentary Closings",
-    "path": "./lessons/drills/email-salutations-and-complimentary-closings/lesson.txt"
-  },
-  {
-    "title": "Top 1000 English Words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Google 1000 English",
-    "path": "./lessons/drills/google-1000-english/lesson.txt"
-  },
-  {
-    "title": "Superlatives",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Superlatives",
-    "path": "./lessons/drills/superlatives/lesson.txt"
-  },
-  {
-    "title": "Pronouns continued",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Pronouns Continued",
-    "path": "./lessons/drills/pronouns-continued/lesson.txt"
-  },
-  {
-    "title": "Pronouns",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Pronouns",
-    "path": "./lessons/drills/pronouns/lesson.txt"
-  },
-  {
-    "title": "More Endings",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "More Endings",
-    "path": "./lessons/drills/more-endings/lesson.txt"
-  },
-  {
-    "title": "Two Letter Words",
-    "subtitle": "Rare",
-    "category": "Drills",
-    "subcategory": "Two Letter Words Rare",
-    "path": "./lessons/drills/two-letter-words-rare/lesson.txt"
-  },
-  {
-    "title": "Titles",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Titles",
-    "path": "./lessons/drills/titles/lesson.txt"
-  },
-  {
-    "title": "More Suffixes",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "More Suffixes",
-    "path": "./lessons/drills/more-suffixes/lesson.txt"
   },
   {
     "title": "The Fairy",
