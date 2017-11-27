@@ -176,3 +176,7 @@
 * error `RO*ER`
 * gamification `TKPWAEUPL/TPAEUBGS`
 * taxonomy `TABGS/OPB/PHEU`
+* artboard `ART/PWAORD`
+* favicon `TPAF/AOEUBG/O*PB`
+* nav item `TPHA*F/AOEUT/*EP`
+* connectivity `KEBGT/T*EUFT`
