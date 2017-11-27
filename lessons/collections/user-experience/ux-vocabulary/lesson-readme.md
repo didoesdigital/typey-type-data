@@ -129,7 +129,15 @@
 * bar `PWAR`
 * tracking `TRABG/-G`
 * path `PA*T`
-* consistency `KAOPBS`
+* consist `KAO`
+* consists `KAOS`
+* consist of `KAOF`
+* consists of `KAOFS`
+* consisted of `KAOFD`
+* consisting of `KAOFG`
+* consistent `KAOPBT`
+* consistently `KAOPBLT`
+* consistency `KAO/SEU`
 * clarity `KHRAEURT`
 * rapid `RAPD`
 * scroll `SKROL`
