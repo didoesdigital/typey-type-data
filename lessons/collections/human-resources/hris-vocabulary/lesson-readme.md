@@ -4,15 +4,15 @@
 * HR `H*P R*P SP-S`
 * human resources information system `HREURS`
 * HRIS `HR*EURS`
-* HR business partner `H*P R*P PWEUZ PARPB`
+* HR business partner `H*P R*P PWEUS PARPB`
 * HRBP `H*P R*P PW*P P*P SP-S`
 * learning and development `HRERPBG SKP SREPLT`
 * L&D `HR*P SP-PBD TK*P SP-S`
-* applicant tracking system `AP PHREU KAPBT TRABG -G S-PL`
+* applicant tracking system `AP/PHREU/KAPBT TRABG/-G S-PL`
 * ATS `A*P T*P S*P SP-S`
-* organizational development `ORG A*L SREPLT`
+* organizational development `ORG/A*L SREPLT`
 * OD `O* TK* SP-S`
-* organisational development `ORG A*L A*U SREPLT`
+* organisational development `ORG/A*L/A*U SREPLT`
 * learning management system `HRERPBG PH-GT S-PL`
 * LMS `HR*P PR*P S*P SP-S`
 * human `HAOUPL`
@@ -20,7 +20,7 @@
 * people `PAOEPL`
 * person `PERPB`
 * personal `PERPBL`
-* personnel `PERPB/EL`
+* personnel `PERPB/TPHEL`
 * progress `PROG`
 * process `PROEUS`
 * effective `TPEF`
@@ -31,25 +31,26 @@
 * engagement `EPB/TKPWAEUPLT`
 * experience `SPAOERPBS`
 * flourish `TPHRUR/EURB`
-* vulnerable `SRUBL`
+* vulnerable `SRUPBL`
 * authenticity `AUFT/TEUFT`
 * status `ST*TS`
 * certainty `SERPBT`
 * autonomy `AU/TOPB/PHEU`
 * relatedness `RAELTD/-PBS`
 * fairness `TPAEURPBS`
-* mastery `PHAS/TREU`
+* mastery `PHAFRT/KWREU`
 * leadership `HRAOERP`
 * influence `WEPBS`
 * collaboration `KHRAB/RAEUGS`
 * management `PH-GT`
 * talent `THREPBT`
-* labour `HRAEU/PWOUR`
+* labor `HRAEUB`
+* labour `HRAEUB/A*U`
 * workforce `WORBG/TPORS`
 * organization `ORGS`
 * organisation `ORGS/A*U`
 * recruitment `RE/KRAOUPLT`
-* dismissal `TKEUS/PHEUS/AL`
+* dismissal `STKPHEUS/A*L`
 * diversity `TKWEFRT`
 * inclusion `KHRUGS`
 * compensation `KPEPBGS`
@@ -60,7 +61,7 @@
 * interpersonal `SPWR/PERPBL`
 * growth `TKPWRO*UT`
 * mindset `PHAOEUPBD/SET`
-* performance `PORPLS`
+* performance `P-FRPBS`
 * performs `P-FRPLS`
 * equal opportunity `KWAL TAOUPBT`
 * vision `SREUGS`
@@ -104,7 +105,7 @@
 * pro-social behaviour `PROE H-PB SOERBL PWAEUFR/A*U`
 * co-operation `KO* H-PB OERPGS`
 * survey `SOEUF`
-* impact `UPL/PABGT`
+* impact `EUPL/PABGT`
 * communication `KAEUBGS`
 * communicated `KPHAOUPB/KAEUT/-D`
 * communicates `KPHAOUPB/KAEUTS`
@@ -128,10 +129,10 @@
 * integration `TKPWRA*EUGS`
 * Culture Amp `KURPLT`
 * BambooHR `PWAO*PL`
-* Namely `TPHAEUPL/HREU`
-* WorkDay `WO*RBG/TKAEU`
-* ELMO `EL/PHOE`
-* Greenhouse `KPA*/TKPWRAOEPB/HOUS`
+* Namely `KPA/TPHAEUPL/HREU`
+* WorkDay `KPA/WO*RBG/TKAEU`
+* ELMO `EL/PHOE/KPA*EZ`
+* Greenhouse `KPA/TKPWRAOEPB/HOUS`
 * ADP `A*PD`
-* UltiPro `ULT PROE`
+* UltiPro `ULT/PROE`
 * Zenefits `PW*EFS`
