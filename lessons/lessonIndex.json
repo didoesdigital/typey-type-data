@@ -308,11 +308,11 @@
     "path": "./lessons/collections/two-word-briefs-same-beginnings/she/lesson.txt"
   },
   {
-    "title": "UX",
     "subtitle": "",
     "category": "Collections",
-    "subcategory": "UX",
-    "path": "./lessons/collections/ux/ux-nouns/lesson.txt"
+    "title": "UX vocabulary",
+    "subcategory": "UX (user experience)",
+    "path": "./lessons/collections/user-experience/ux-vocabulary/lesson.txt"
   },
   {
     "title": "jQuery",
