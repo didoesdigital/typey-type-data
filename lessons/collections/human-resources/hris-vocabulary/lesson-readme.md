@@ -2,7 +2,7 @@
 
 * human resources `HAOUPL/SRORSZ`
 * HR `H*P R*P SP-S`
-* human resources information system `HREURS`
+* human resource information system `HREURS`
 * HRIS `HR*EURS`
 * HR business partner `H*P R*P PWEUS PARPB`
 * HRBP `H*P R*P PW*P P*P SP-S`
