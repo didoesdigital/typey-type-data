@@ -7,6 +7,41 @@
     "path": "/drills/steno-party-tricks/lesson.txt"
   },
   {
+    "title": "Longest Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/longest-words/lesson.txt"
+  },
+  {
+    "title": "Top 1000 English Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/google-1000-english/lesson.txt"
+  },
+  {
+    "title": "Common words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/common-words/lesson.txt"
+  },
+  {
+    "title": "Single-stroke briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/single-stroke-briefs/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/calendar/lesson.txt"
+  },
+  {
     "title": "Time",
     "subtitle": "",
     "category": "Drills",
@@ -14,18 +49,39 @@
     "path": "/drills/time/lesson.txt"
   },
   {
-    "title": "Two Letter Words",
-    "subtitle": "Common",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/two-letter-words-common/lesson.txt"
-  },
-  {
-    "title": "Longest Words",
+    "title": "Emotions",
     "subtitle": "",
     "category": "Drills",
     "subcategory": "",
-    "path": "/drills/longest-words/lesson.txt"
+    "path": "/drills/emotions/lesson.txt"
+  },
+  {
+    "title": "Email Salutations and Complimentary Closings",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/email-salutations-and-complimentary-closings/lesson.txt"
+  },
+  {
+    "title": "Superlatives",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/superlatives/lesson.txt"
+  },
+  {
+    "title": "Pronouns",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns/lesson.txt"
+  },
+  {
+    "title": "Pronouns continued",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns-continued/lesson.txt"
   },
   {
     "title": "Pronouns and Contractions",
@@ -35,11 +91,11 @@
     "path": "/drills/pronouns-contractions/lesson.txt"
   },
   {
-    "title": "Single-stroke briefs",
+    "title": "Titles",
     "subtitle": "",
     "category": "Drills",
     "subcategory": "",
-    "path": "/drills/single-stroke-briefs/lesson.txt"
+    "path": "/drills/titles/lesson.txt"
   },
   {
     "title": "FR",
@@ -56,62 +112,6 @@
     "path": "/drills/fr-ver/lesson.txt"
   },
   {
-    "title": "Calendar",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/calendar/lesson.txt"
-  },
-  {
-    "title": "Emotions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/emotions/lesson.txt"
-  },
-  {
-    "title": "Common words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/common-words/lesson.txt"
-  },
-  {
-    "title": "Email Salutations and Complimentary Closings",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/email-salutations-and-complimentary-closings/lesson.txt"
-  },
-  {
-    "title": "Top 1000 English Words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/google-1000-english/lesson.txt"
-  },
-  {
-    "title": "Superlatives",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/superlatives/lesson.txt"
-  },
-  {
-    "title": "Pronouns continued",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/pronouns-continued/lesson.txt"
-  },
-  {
-    "title": "Pronouns",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/pronouns/lesson.txt"
-  },
-  {
     "title": "More Endings",
     "subtitle": "",
     "category": "Drills",
@@ -119,25 +119,25 @@
     "path": "/drills/more-endings/lesson.txt"
   },
   {
-    "title": "Two Letter Words",
-    "subtitle": "Rare",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/two-letter-words-rare/lesson.txt"
-  },
-  {
-    "title": "Titles",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/titles/lesson.txt"
-  },
-  {
     "title": "More Suffixes",
     "subtitle": "",
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/more-suffixes/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words",
+    "subtitle": "Common",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/two-letter-words-common/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words",
+    "subtitle": "Rare",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/two-letter-words-rare/lesson.txt"
   },
   {
     "title": "How",
@@ -329,14 +329,14 @@
     "path": "/collections/tech/css-alignment/lesson.txt"
   },
   {
-    "title": "CSS",
+    "title": "CSS media object",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/css-media-object/lesson.txt"
   },
   {
-    "title": "CSS",
+    "title": "CSS properties",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Tech",
@@ -371,7 +371,7 @@
     "path": "/collections/tech/markdown/lesson.txt"
   },
   {
-    "title": "Medical",
+    "title": "Medical Suffixes",
     "subtitle": "Suffixes",
     "category": "Collections",
     "subcategory": "Medical",
