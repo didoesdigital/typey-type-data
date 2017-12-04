@@ -50,24 +50,17 @@
   },
   {
     "title": "FR",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "Fr",
-    "path": "/drills/fr/lesson.txt"
-  },
-  {
-    "title": "FR Part 1",
     "subtitle": "-fer",
     "category": "Drills",
-    "subcategory": "Fr",
-    "path": "/drills/fr/fr-part-1/lesson.txt"
+    "subcategory": "",
+    "path": "/drills/fr-fer/lesson.txt"
   },
   {
-    "title": "FR Part 2",
+    "title": "FR",
     "subtitle": "-ver",
     "category": "Drills",
-    "subcategory": "Fr",
-    "path": "/drills/fr/fr-part-2/lesson.txt"
+    "subcategory": "",
+    "path": "/drills/fr-ver/lesson.txt"
   },
   {
     "title": "Calendar",
