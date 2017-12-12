@@ -1,10 +1,10 @@
 [
   {
-    "title": "Steno party tricks",
+    "title": "Top 1000 English Words",
     "subtitle": "",
     "category": "Drills",
     "subcategory": "",
-    "path": "/drills/steno-party-tricks/lesson.txt"
+    "path": "/drills/google-1000-english/lesson.txt"
   },
   {
     "title": "Longest Words",
@@ -12,13 +12,6 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/longest-words/lesson.txt"
-  },
-  {
-    "title": "Top 1000 English Words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/google-1000-english/lesson.txt"
   },
   {
     "title": "Common words",
@@ -35,39 +28,11 @@
     "path": "/drills/single-stroke-briefs/lesson.txt"
   },
   {
-    "title": "Calendar",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/calendar/lesson.txt"
-  },
-  {
-    "title": "Time",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/time/lesson.txt"
-  },
-  {
-    "title": "Emotions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/emotions/lesson.txt"
-  },
-  {
     "title": "Email Salutations and Complimentary Closings",
     "subtitle": "",
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/email-salutations-and-complimentary-closings/lesson.txt"
-  },
-  {
-    "title": "Superlatives",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/superlatives/lesson.txt"
   },
   {
     "title": "Pronouns",
@@ -96,6 +61,34 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/titles/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/calendar/lesson.txt"
+  },
+  {
+    "title": "Time",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/time/lesson.txt"
+  },
+  {
+    "title": "Emotions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/emotions/lesson.txt"
+  },
+  {
+    "title": "Superlatives",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/superlatives/lesson.txt"
   },
   {
     "title": "FR",
@@ -138,6 +131,13 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/two-letter-words-rare/lesson.txt"
+  },
+  {
+    "title": "Steno party tricks",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/steno-party-tricks/lesson.txt"
   },
   {
     "title": "How",
