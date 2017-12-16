@@ -1,5 +1,145 @@
 [
   {
+    "title": "One-syllable words with simple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-simple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with more consonants",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-more-consonants/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with F as V or S",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with unstressed vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with inversion",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-inversion/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with short I vowel",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with short vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with long vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with diphthongs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with vowel disambiguators",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with left-hand consonants with multiple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with right-hand consonants with multiple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with digraphs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with compound clusters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with multiple strokes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with briefs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with suffixes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with prefixes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with multiple strokes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt"
+  },
+  {
+    "title": "Fingerspelling",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/fingerspelling/lesson.txt"
+  },
+  {
     "title": "Top 1000 English Words",
     "subtitle": "",
     "category": "Drills",
