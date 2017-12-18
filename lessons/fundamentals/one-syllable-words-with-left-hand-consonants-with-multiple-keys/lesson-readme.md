@@ -291,6 +291,7 @@
 * birds `PWEURDZ`
 * Moore `PHAOR`
 * bright `PWRAOEUT`
+* que `KW*E`
 * grid `TKPWREUD`
 * voip `SROEUP`
 * boots `PWAOTS`
@@ -517,6 +518,7 @@
 * briefs `PWRAOEFS`
 * mu `PHU`
 * dip `TKEUP`
+* DUI `TKW*EU`
 * lid `HREUD`
 * deaf `TKEF`
 * mats `PHATS`

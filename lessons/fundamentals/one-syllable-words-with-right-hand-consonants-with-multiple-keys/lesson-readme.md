@@ -15,6 +15,7 @@
 * sign `SAOEUPB`
 * same `SAEUPL`
 * UK `UBG`
+* both `PWO*T`
 * end `EPBD`
 * him `HEUPL`
 * since `SEUPBS`
@@ -49,6 +50,7 @@
 * screen `SKRAOEPB`
 * soon `SAOPB`
 * came `KAEUPL`
+* com `KRO*PL`
 * teens `TAOEPBS`
 * kind `KEUPBD`
 * OK `OBG`
@@ -101,13 +103,16 @@
 * signs `SAOEUPBS`
 * train `TRAEUPL`
 * con `KOPB`
+* zoom `SAO*PL`
 * speak `SPAOEBG`
 * spam `SPAPL`
 * cent `KREPBT`
+* bath `PWA*T`
 * won `WOPB`
 * spent `SPEPBT`
 * scene `SAEPB`
 * whom `WHOPL`
+* math `PHA*T`
 * scheme `SKAOEPL`
 * arms `ARPLS`
 * rom `ROPL`
@@ -143,6 +148,7 @@
 * Kim `KEUPL`
 * twin `TWEUPB`
 * stands `STAPBDZ`
+* smooth `SPHAO*T`
 * strike `STRAOEUBG`
 * hundred `HUPBD`
 * scan `SKAPB`
@@ -150,6 +156,7 @@
 * pounds `POUPBZ`
 * tone `TOEPB`
 * turns `TURPBS`
+* stamps `STA*PLS`
 * pants `PAPBTS`
 * crown `KROUPB`
 * crack `KRABG`
@@ -192,6 +199,7 @@
 * earned `ERPBD`
 * ext `EBGT`
 * tracked `TRABGD`
+* camps `KA*PLZ`
 * packs `PABGZ`
 * spoke `SPOEBG`
 * stroke `STROBG`
@@ -199,6 +207,7 @@
 * steam `STAEPL`
 * tons `TOPBS`
 * stack `STABG`
+* lamps `HRA*PLS`
 * walked `WAUBGD`
 * ins `EUPBS`
 * pointed `POEUPBTD`
@@ -230,6 +239,7 @@
 * wines `WAOEUPBS`
 * poem `POEPL`
 * streams `STRAOEPLS`
+* paths `PA*TS`
 * swim `SWEUPL`
 * struck `STRUBG`
 * rec `REBG`
@@ -243,6 +253,7 @@
 * twins `TWEUPBS`
 * sprint `SPREUPBT`
 * sucks `SUBGZ`
+* booth `PWAO*T`
 * sends `SEPBDZ`
 * skins `SKEUPBS`
 * cons `KOPBS`
@@ -268,8 +279,10 @@
 * worm `WORPL`
 * rounds `ROUPBDZ`
 * keen `KAOEPB`
+* baths `PWA*TS`
 * owns `OEPBS`
 * counted `KOUPBTD`
+* pam `PA*PL`
 * Stan `STAPB`
 * spine `SPAOEUPB`
 * cooked `KAOBGD`

@@ -114,7 +114,6 @@
 * cord `KORD`
 * skiing `SKEUG`
 * twelve `TWEFL`
-* curve `KUFRB`
 * waves `WAFS`
 * tagged `TAGD`
 * pulled `PULD`

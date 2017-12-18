@@ -9,6 +9,5 @@
 * tests `TEFTS`
 * cast `KAFT`
 * prove `PROF`
-* curve `KUFRB`
 * pest `PEFT`
 * trusts `TRUFTS`

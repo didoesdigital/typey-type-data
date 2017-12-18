@@ -1,9 +1,9 @@
 # Multi-syllable words with prefixes
 
-* online `AUPB/HRAOEUB`
+* online `AUPB/HRAOEUPB`
 * email `AOE/PHAEUL`
 * info `EUPB/TPO`
-* review `RE/RAOU`
+* review `RE/SRAOU`
 * reviews `RAOE/SRAOUS`
 * ebay `AOE/PWAEU`
 * details `TKE/TAEULS`

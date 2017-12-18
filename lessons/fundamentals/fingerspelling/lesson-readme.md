@@ -1,7 +1,7 @@
 # Fingerspelling
 
-* a `A*`
-* I `*EUP`
+* a `AEU`
+* I `EU`
 * c `KR*`
 * e `*E`
 * s `S*`
