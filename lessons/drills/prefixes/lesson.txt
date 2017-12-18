@@ -1,0 +1,43 @@
+Prefixes
+
+'un^': UPB
+'in^': EUPB
+'im^': EUPL
+'ir^': EUR
+'re^': RE
+'dis^': TKEUS
+'de^': TKE
+'en^': EPB
+'em^': EPL
+'up^': AUP
+'co-^': KOE
+'co^': KO*E
+'con^': KAUPB
+'out^': AOUT
+'for^': TPAUR
+'fore^': TPOER
+'mis^': PHEUZ
+'pro^': PRO
+'pre-^': PRE
+'pre^': PR*E
+'sub^': SAUB
+'self-^': SEF
+'semi^': SPHEU
+'back^': PWAEBG
+'down^': KWROUPB
+'over^': AUFR
+'under^': UPBD
+'inter^': EUPBT
+'intro^': EURPBT
+'hyper^': HAOEURP
+'micro^': PHAOEURBG
+'super^': SAOUP
+'trans^': TRAPBZ
+'anti^': APB/TEU
+'anti-^': A*EUPBT
+'mid^': PHEUD
+'mid-^': PH*EUD
+'non-^': TPHAUPB
+'non^': TPHA*UPB
+'on^': AUPB
+ignore_characters='^'

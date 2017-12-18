@@ -1,5 +1,9 @@
-More Suffixes
+Suffixes
 
+'^s': TK-LS -S
+'^'s': TK-LS A*ES
+'^ed': TK-LS D
+'^'d': TK-LS *D
 '^itious': EURBS
 '^aceous': AEURBS
 '^licious': HREURBS

@@ -60,6 +60,4 @@ Pronouns continued
 'whatsoever': WHA/SOFR
 'whosoever': WHO/SOFR or WHO/SKWREFR
 'whomsoever': WHOPL/SOFR
-'^ever': SKWREFR (the suffix ^ever)
-ignore_characters='^'
 notice_spaces=true
