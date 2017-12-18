@@ -4,7 +4,7 @@
 * of `-F`
 * and `SKP`
 * to `TO`
-* a `A*`
+* a `AEU`
 * in `TPH`
 * for `TPOR`
 * is `S`
@@ -13,7 +13,7 @@
 * by `PWEU`
 * this `TH`
 * with `W`
-* i `*EU`
+* i `EU`
 * you `U`
 * it `T`
 * not `TPHOT`
