@@ -280,13 +280,6 @@
     "path": "/drills/steno-party-tricks/lesson.txt"
   },
   {
-    "title": "Human Resources vocabulary",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Human resources (HR)",
-    "path": "/collections/human-resources/hris-vocabulary/lesson.txt"
-  },
-  {
     "title": "UX design vocabulary",
     "subtitle": "",
     "category": "Collections",
@@ -376,6 +369,13 @@
     "category": "Collections",
     "subcategory": "Medical",
     "path": "/collections/medical/medical-prefixes/lesson.txt"
+  },
+  {
+    "title": "Human Resources vocabulary",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Human resources (HR)",
+    "path": "/collections/human-resources/hris-vocabulary/lesson.txt"
   },
   {
     "title": "How *",
