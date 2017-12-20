@@ -10,8 +10,8 @@
 "HREFT": "left",
 "PHARPB": "margin",
 "PHA*BGS": "max",
-"PHA*BGS HPB W*EUD": "max-width",
+"PHA*BGS/H-PB/W*EUD": "max-width",
 "PH*PB/PH*PB": "min",
-"PH*PB/PH*PB HPB HAOEUT": "min-height",
+"PH*PB/PH*PB/H-PB/HAOEUT": "min-height",
 "PAGD": "padding"
 }
