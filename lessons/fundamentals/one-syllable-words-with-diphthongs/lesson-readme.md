@@ -13,7 +13,7 @@
 * calls `KAULS`
 * soul `SOUL`
 * route `ROUT`
-* sounds `SOUPDZ`
+* sounds `SOUPBDZ`
 * caused `KAUFD`
 * soil `SOEUL`
 * causes `KAUFS`

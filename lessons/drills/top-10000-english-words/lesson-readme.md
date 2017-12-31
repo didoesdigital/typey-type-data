@@ -2562,7 +2562,7 @@
 * suggestions `SUGS/-S`
 * rural `RURL`
 * shared `SHAEURD`
-* sounds `SOUPDZ`
+* sounds `SOUPBDZ`
 * replacement `RE/PHAEUPLT`
 * tape `TAEUP`
 * strategic `STRAO*EBG`
