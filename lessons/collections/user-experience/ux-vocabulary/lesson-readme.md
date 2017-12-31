@@ -90,7 +90,7 @@
 * expert `SPERT`
 * font `TPOPBT`
 * readability `RAED/-BLT`
-* product `PROUBT`
+* product `PROUBGT`
 * creative `KRAOEF`
 * specification `SPEFBGS`
 * director `TKROR`
