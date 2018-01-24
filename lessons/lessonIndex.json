@@ -157,6 +157,14 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/fingerspelling/lesson.txt",
+    "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
+  },
+  {
+    "title": "Top 10000 Project Gutenberg Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-10000-project-gutenberg-words/lesson.txt",
     "suggestedNext": "/drills/top-10000-english-words/lesson.txt"
   },
   {
