@@ -144,7 +144,7 @@
 * kills `KEULS`
 * trusts `TRUFTS`
 * rolled `ROLD`
-* wrist `WREUS`
+* wrist `WREUFT`
 * wives `WEUFS`
 * sorts `SORTS`
 * hint `HEUPT`

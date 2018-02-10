@@ -23,7 +23,7 @@
 * skilled `SKEULD`
 * twist `TWEUFT`
 * kills `KEULS`
-* wrist `WREUS`
+* wrist `WREUFT`
 * hint `HEUPT`
 * swift `SWEUFT`
 * strips `STREUPS`

@@ -8768,7 +8768,7 @@
 * electro `HRERBGT/KWRO`
 * criterion `KRAOERPB`
 * badge `PWAPBLG`
-* wrist `WREUS`
+* wrist `WREUFT`
 * civilization `SEUFLGS`
 * analyzed `AEPBLD`
 * Vietnamese `SRAOET/PHAOES`
