@@ -5668,7 +5668,7 @@
 * hub `HUB`
 * targeted `TARGTD`
 * organizational `ORG/A*L`
-* skype `SKAOEUP`
+* Skype `SKAOEUP`
 * realized `AEFLD`
 * twelve `TWEFL`
 * founder `TPOURPBD`

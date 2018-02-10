@@ -59,7 +59,7 @@
 * trace `TRAEUS`
 * weird `WAOERD`
 * seeds `SAOEDZ`
-* skype `SKAOEUP`
+* Skype `SKAOEUP`
 * tired `TAOEURD`
 * spears `SPAOERS`
 * stayed `STAEUD`
