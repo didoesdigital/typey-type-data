@@ -1,9 +1,5 @@
 THE OLD CHURCH BELL
-(WRITTEN
-FOR
-THE
-SCHILLER
-ALBUM)
+
 In
 the
 country
