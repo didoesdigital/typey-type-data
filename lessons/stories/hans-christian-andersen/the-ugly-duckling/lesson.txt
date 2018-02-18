@@ -98,7 +98,7 @@ The Ugly Duckling
 'side': SAOEUD
 'grew': TKPWRAOU
 'great': TKPWRAET
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'leaves,': HREFS KW-BG
 'so': SO
 'high,': HAOEU KW-BG
@@ -193,7 +193,7 @@ The Ugly Duckling
 'sit': SEUT
 'under': *UPBD
 'a': AEU
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'leaf,': HRAOEF KW-BG
 'to': TO
 'have': SR
@@ -644,7 +644,7 @@ The Ugly Duckling
 'on': OPB
 'the': -T
 'green': TKPWRAOEPB
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'leaves,': HREFS KW-BG
 'so': SO
 'the': -T
@@ -3454,7 +3454,7 @@ The Ugly Duckling
 'meet': PHAOET
 'him': HEUPL
 'with': W
-'outstretched': XXX outstretched
+'outstretched': AOUT/STREFPD
 'wings.': WEUPBGS TP-PL
 '"Kill': KR-GS KEUL
 'me,"': PHE KW-BG KR-GS
