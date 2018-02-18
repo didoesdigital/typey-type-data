@@ -145,4 +145,4 @@ Suffixes
 '^ary': AER
 '^ance': APBS
 ignore_characters='^'
-warning_message=Hint: use TK-LS between strokes, don't type ^
+warning_message=Hint: use TK-LS between strokes, don’t type ^
