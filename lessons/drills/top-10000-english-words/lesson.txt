@@ -1733,7 +1733,7 @@ Top 10000 English Words
 'lord': HRORD
 'grant': TKPWRAPBT
 'sub': SUB
-'agree': TPWRAE
+'agree': TKPWRAE | w
 'fiction': TP*EUBGS
 'hear': HAER
 'sometimes': STAOEUPLS

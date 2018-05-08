@@ -1733,7 +1733,7 @@
 * lord `HRORD`
 * grant `TKPWRAPBT`
 * sub `SUB`
-* agree `TPWRAE`
+* agree `TKPWRAE`
 * fiction `TP*EUBGS`
 * hear `HAER`
 * sometimes `STAOEUPLS`
