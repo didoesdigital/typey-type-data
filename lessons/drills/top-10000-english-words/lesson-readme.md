@@ -528,7 +528,7 @@
 * financial `TP-PBL`
 * things `THEUPBGS`
 * working `WOG`
-* against `STPWEPBS`
+* against `TKPWEPBS`
 * standard `ST-D`
 * tax `TAGS`
 * person `PERPB`

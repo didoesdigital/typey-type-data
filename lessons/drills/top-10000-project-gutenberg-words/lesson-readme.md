@@ -153,7 +153,7 @@
 * young `KWRUPBG`
 * yet `KWRET`
 * though `THOE`
-* against `STPWEPBS`
+* against `TKPWEPBS`
 * things `THEUPBGS`
 * get `TKPWET`
 * ever `-FR`
