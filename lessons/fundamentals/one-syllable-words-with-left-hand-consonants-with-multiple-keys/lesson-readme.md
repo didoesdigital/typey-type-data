@@ -79,7 +79,7 @@
 * lot `HROT`
 * five `TPEUF`
 * mar `PHAR`
-* France `TPRABS`
+* France `TPRAPBS`
 * bill `PWEUL`
 * nude `TPHAOUD`
 * gifts `TKPWEUFTS`

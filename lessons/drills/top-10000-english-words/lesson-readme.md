@@ -777,7 +777,7 @@
 * done `TKOPB`
 * technical `TEBG/K-L`
 * window `WOEUPBD`
-* France `TPRABS`
+* France `TPRAPBS`
 * pro `PROE`
 * region `RAOEGS`
 * island `AOEULD`

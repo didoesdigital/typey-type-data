@@ -536,7 +536,7 @@
 * copy `KO*EP`
 * husband `HUS`
 * six `SEUBGS`
-* France `TPRABS`
+* France `TPRAPBS`
 * living `HREUFG`
 * peace `PAES`
 * didn `TK/TPH*`
