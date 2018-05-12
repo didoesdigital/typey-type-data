@@ -21,7 +21,7 @@
 * next `TPHEGT`
 * last `HRAFT`
 * most `PHOFT`
-* please `PHREZ`
+* please `PHRES`
 * best `PWEFT`
 * good `TKPWAOD`
 * years `KWRAOERS`

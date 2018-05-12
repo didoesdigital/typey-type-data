@@ -663,7 +663,7 @@
 * plait `PHRA*EUT`
 * plate `PHRAET`
 * pleas `PHRAOEZ`
-* please `PHREZ`
+* please `PHRES`
 * pole `POEL`
 * poll `POL`
 * poor `PAOR`

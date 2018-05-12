@@ -273,7 +273,7 @@ The King of the Golden Mountain
 'much': PHUFP
 'as': AZ
 'you': U
-'please.'': PHREZ TP-PL AE
+'please.'': PHRES TP-PL AE
 'The': -T
 'merchant': PHEFRPBT
 'thought': THAUT
@@ -844,7 +844,7 @@ The King of the Golden Mountain
 'said': SAEUD
 'Heinel,': XXX Heinel KW-BG
 ''so': AE SO
-'please': PHREZ
+'please': PHRES
 'to': TO
 'step': STEP
 'in': TPH

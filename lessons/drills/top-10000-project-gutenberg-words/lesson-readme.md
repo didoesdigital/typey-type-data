@@ -692,7 +692,7 @@
 * outside `OUDZ`
 * secret `SKRET`
 * parts `PARTS`
-* please `PHREZ`
+* please `PHRES`
 * appearance `PAOERPBS`
 * evil `AOEFL`
 * march `PHA*R`

@@ -144,7 +144,7 @@
 * policy `POEULS`
 * number `TPHUPL`
 * such `SUFP`
-* please `PHREZ`
+* please `PHRES`
 * available `SRAEUBL`
 * copyright `KOEP/WRAOEUT`
 * support `SPOR`
