@@ -24,10 +24,10 @@
 * I'd like to know `AOEUD/HAOEUBG/TO/TPHOE`
 * I'll `AOEUL`
 * I'll edit `AOEUL/ETD`
-* I'll look at `AOEUL/HAOBG/AT`
+* I'll look at `AOEUL/HRAOBG/AT`
 * I'll have a `AOEUL/SR*EU`
-* I'll do my best `AOEUL/TO/PHAOEU/PWEFT`
-* I'll do it `AOEUL/TO/T`
+* I'll do my best `AOEUL/TKO/PHAOEU/PWEFT`
+* I'll do it `AOEUL/TKO/T`
 * and I'm `SKPAO*EUPL`
 * I'm big `AOEUPL/HREUG`
 * I'm anxious `AOEUPL/SHUS`
