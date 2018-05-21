@@ -29,7 +29,7 @@
 * I'll do my best `AOEUL/TKO/PHAOEU/PWEFT`
 * I'll do it `AOEUL/TKO/T`
 * and I'm `SKPAO*EUPL`
-* I'm big `AOEUPL/HREUG`
+* I'm big `AOEUPL/PWEUG`
 * I'm anxious `AOEUPL/SHUS`
 * I'm dating `AOEUPL/TKAEUGT`
 * you've `UF`
@@ -95,7 +95,7 @@
 * customers' `KUFT/PHERS/AE`
 * why'd `KWR*D`
 * why's `KWR*S`
-* why it's `KWR/KWR*/T-S`
+* why it's `KWR/T-S`
 * you see what I'm saying `KWRA*EUG`
 * y'all `KWRAUL`
 * you know what I'm saying `KWRAEUG`
@@ -154,7 +154,7 @@
 * po' boy `PO/PWOEU`
 * proprietor's `PRO/PRAOEU/TOR/AES`
 * proprietors' `PROE/PRAOEUT/ORS/AE`
-* project's `PROPBLG/AETS`
+* project's `PROPBLG/AES`
 * builder's remedy `PWEULD/*ER/-S/REPL/TKEU`
 * but you're not `PWU/UR/TPHOT`
 * aren't `R-PBT`
