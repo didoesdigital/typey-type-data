@@ -154,7 +154,7 @@
 * gives `TKPWEUFS`
 * laws `HRAUS`
 * guy `TKPAOEU`
-* NA `TPHA`
+* NA `TPHA*P/A*P`
 * gear `TKPWAOER`
 * lots `HROTS`
 * jump `SKWRUFRP`

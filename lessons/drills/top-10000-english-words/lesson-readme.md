@@ -1832,7 +1832,7 @@
 * pp `P*/P*`
 * suite `SWAO*ET`
 * Vegas `SRAEUG/AS`
-* NA `TPHA`
+* NA `TPHA*P/A*P`
 * square `SKWAEUR`
 * Chris `KREUS`
 * attention `A/T-PBGS`

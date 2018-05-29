@@ -4035,7 +4035,7 @@
 * economy `KPHE`
 * sufferings `SUFRGS`
 * secrets `SKRETS`
-* na `TPHA`
+* NA `TPHA*P/A*P`
 * halted `HAULT/-D`
 * govern `TKPWOFPB`
 * favourable `TPAEUFRBL/A*U`
