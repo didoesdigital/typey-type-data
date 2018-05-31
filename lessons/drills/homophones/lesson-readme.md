@@ -527,7 +527,7 @@
 * lynx `HREUPBGS`
 * lo `HRO`
 * low `HROE`
-* load `HROD`
+* load `HRAOD`
 * lode `HROED`
 * loan `HRAOPB`
 * lone `HROPB`

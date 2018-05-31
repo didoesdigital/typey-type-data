@@ -3760,7 +3760,7 @@
 * descent `TKE/SEPBT`
 * whither `WHEU/THER`
 * envy `EPB/SREU`
-* load `HROD`
+* load `HRAOD`
 * pretend `PRE/TEPBD`
 * folded `TPOELD/-D`
 * brass `PWRAS`

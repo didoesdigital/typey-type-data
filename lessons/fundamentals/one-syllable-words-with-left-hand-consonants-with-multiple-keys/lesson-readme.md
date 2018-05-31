@@ -179,7 +179,7 @@
 * fuel `TPAOUL`
 * dates `TKAEUTS`
 * ga `TKPWA`
-* load `HROD`
+* load `HRAOD`
 * Joe `SKWROE`
 * guys `TKPWEUS`
 * drop `TKROP`

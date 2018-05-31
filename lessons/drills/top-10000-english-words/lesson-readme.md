@@ -2134,7 +2134,7 @@
 * myself `PHAO*EUS`
 * tours `TOR/-S`
 * platform `PHRORPL`
-* load `HROD`
+* load `HRAOD`
 * affiliate `TPEULT`
 * labor `HRAEUB`
 * immediately `PHAOELD`
