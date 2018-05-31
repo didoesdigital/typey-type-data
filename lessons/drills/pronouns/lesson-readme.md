@@ -20,7 +20,7 @@
 * enough `TPHUF`
 * every `EF`
 * everybody `EFB`
-* everyone `EFPB`
+* everyone `EFRPB`
 * everyone else `EFRPB/ELS`
 * everything `EFG`
 * few `TPAOU`

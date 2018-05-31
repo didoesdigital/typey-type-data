@@ -11,10 +11,10 @@
 * anybody's `TPHEUB/AES`
 * else `ELS`
 * else's `ELS/AES`
-* everyone `EFPB`
+* everyone `EFRPB`
 * everyone else `EFRPB/ELS`
 * everyone else's `EFRPB/ELS/AES`
-* everyone's `EFPB/AES`
+* everyone's `EFRPB/AES`
 * he `E`
 * he has `HEZ`
 * he is `HES`

@@ -4102,7 +4102,7 @@
 * seeds `SAOEDZ`
 * naval `TPHAEUFL`
 * foes `TPOE/-S`
-* everyone `EFPB`
+* everyone `EFRPB`
 * longed `HROPBG/-D`
 * abundant `A/PWUPBD/APBT`
 * doubted `TKOUT/-D`

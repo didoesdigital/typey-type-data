@@ -1262,7 +1262,7 @@
 * bed `PWED`
 * comes `KOPLS`
 * police `PHREUS`
-* everyone `EFPB`
+* everyone `EFRPB`
 * independent `PAEPBT`
 * IP `*EUP/P*P`
 * approach `PROEFP`
