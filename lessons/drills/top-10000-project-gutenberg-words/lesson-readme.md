@@ -330,7 +330,7 @@
 * perhaps `PRAPS`
 * sure `SHUR`
 * indeed `TPHAOEPBD`
-* english `TPWHREURB`
+* English `TPWHREURB`
 * open `OEP`
 * body `PWO*ED`
 * itself `T/SEF`
