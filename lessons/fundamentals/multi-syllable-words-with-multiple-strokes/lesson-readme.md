@@ -137,7 +137,7 @@
 * trademarks `TRAEUD/PHARBG/-S`
 * phentermine `TPEPB/TER/PHAOEUPB`
 * battery `PWAT/REU`
-* boston `PWOS/TOPB`
+* Boston `PWOS/TOPB`
 * incest `EUPB/SEFT`
 * keywords `KAOE/WORD/-S`
 * itself `T/SEF`

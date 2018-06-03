@@ -132,6 +132,15 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
     "wordCount": 279,
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with compound clusters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+    "wordCount": 422,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt"
   },
   {
@@ -167,7 +176,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
-    "wordCount": 5234,
+    "wordCount": 5233,
     "suggestedNext": "/fundamentals/fingerspelling/lesson.txt"
   },
   {
@@ -176,7 +185,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/fingerspelling/lesson.txt",
-    "wordCount": 27,
+    "wordCount": 26,
     "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
   },
   {
