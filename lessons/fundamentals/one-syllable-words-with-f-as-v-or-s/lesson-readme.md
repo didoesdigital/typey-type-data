@@ -11,3 +11,5 @@
 * prove `PROF`
 * pest `PEFT`
 * trusts `TRUFTS`
+* stove `STOF`
+* rests `REFTS`

@@ -4,3 +4,5 @@
 * wolf `WOFL`
 * twelve `TWEFL`
 * solved `SOFLD`
+* wolves `WOFLS`
+* twelfth `TWEFLT`

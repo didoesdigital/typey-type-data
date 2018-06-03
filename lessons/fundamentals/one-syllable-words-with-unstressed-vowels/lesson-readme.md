@@ -22,3 +22,17 @@
 * wrapped `WRAPD`
 * pressed `PREFD`
 * stuffed `STUFD`
+* stepped `STEPD`
+* troubled `TRUBLD`
+* poured `PORD`
+* parted `PARTD`
+* waved `WAFD`
+* robbed `ROBD`
+* rubbed `RUBD`
+* proves `PROFS`
+* ragged `RAGD`
+* rugged `RUGD`
+* hurled `HURLD`
+* swelled `SWELD`
+* tapped `TAPD`
+* puffed `PUFD`

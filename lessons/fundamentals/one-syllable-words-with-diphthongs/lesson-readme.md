@@ -13,7 +13,6 @@
 * calls `KAULS`
 * soul `SOUL`
 * route `ROUT`
-* sounds `SOUPBDZ`
 * caused `KAUFD`
 * soil `SOEUL`
 * causes `KAUFS`
@@ -30,3 +29,17 @@
 * scout `SKOUT`
 * souls `SOULS`
 * trout `TROUT`
+* pause `PAUS`
+* stout `STOUT`
+* spoil `SPOEUL`
+* cows `KOUS`
+* spoiled `SPOEULD`
+* Saul `SAUL`
+* rouse `ROUZ`
+* sour `SOUR`
+* spoils `SPOEULS`
+* howl `HOUL`
+* coil `KOEUL`
+* tout `TOUT`
+* soiled `SOEULD`
+* stall `STAUL`
