@@ -171,7 +171,6 @@
 * sits `SEUTS`
 * whip `WHEUP`
 * robbed `ROBD`
-* herd `HERD`
 * corpse `KORPS`
 * tread `TRED`
 * stove `STOF`

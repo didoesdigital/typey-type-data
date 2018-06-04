@@ -171,7 +171,6 @@
 * wept `WEPT`
 * roar `ROR`
 * hut `HUT`
-* herd `HERD`
 * corpse `KORPS`
 * tread `TRED`
 * swell `SWEL`

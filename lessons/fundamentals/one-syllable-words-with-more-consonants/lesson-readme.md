@@ -93,7 +93,6 @@
 * wrought `WROT`
 * curse `KURS`
 * wept `WEPT`
-* herd `HERD`
 * corpse `KORPS`
 * tread `TRED`
 * swell `SWEL`
