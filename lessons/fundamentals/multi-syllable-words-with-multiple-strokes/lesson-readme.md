@@ -36,7 +36,7 @@
 * away `A/WAEU`
 * edition `ED/EUGS`
 * marketing `PHARBGT/-G`
-* updated `AUD/-D`
+* updated `AUP/TKAEUTD`
 * electronics `HREBG/TROPBGS`
 * technical `TEBG/K-L`
 * Microsoft `PHAOEURBG/SOFT`
