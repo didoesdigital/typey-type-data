@@ -78,7 +78,7 @@
 "P-P SKWROEUPB PREPB AE S-PS AE PR*EPB": ".join(' ')",
 "KW-GS AE HA*ERB TPR-BGT HRAOEUPB TPR*BGT AE STPH-FPLT": "\"'#{line}':",
 "HA*ERB TPR-BGT THRAEUGS TPR*BGT KR-GS": "#{translation}\"",
-"KHAS": "class",
+"KHRAS": "class",
 "HR*PB": "<",
 "KAUPB/TEPBTS KPA* KROEL/*ER": "ContentsController",
 "PW-FR RUPBD TPEUL/TER": "before_filter",

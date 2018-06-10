@@ -387,7 +387,7 @@
 * why `KWR`
 * shall `SHAL`
 * property `PROT`
-* class `KHAS`
+* class `KHRAS`
 * CD `KR*D`
 * still `STEUL`
 * money `PHUPB`

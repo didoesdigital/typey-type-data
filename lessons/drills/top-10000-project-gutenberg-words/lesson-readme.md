@@ -1009,7 +1009,7 @@
 * loss `HROS`
 * doctor `TKR`
 * offer `OFR`
-* class `KHAS`
+* class `KHRAS`
 * complete `KPHRAOET`
 * access `SESZ`
 * lower `HROUR`

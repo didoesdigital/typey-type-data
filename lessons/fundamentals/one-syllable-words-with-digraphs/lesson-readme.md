@@ -21,7 +21,7 @@
 * shop `SHOP`
 * change `KHAEUPBG`
 * shall `SHAL`
-* class `KHAS`
+* class `KHRAS`
 * York `KWRORBG`
 * thread `THRED`
 * park `PARBG`
