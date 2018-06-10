@@ -72,7 +72,7 @@
 * Spain `SPAEUPB`
 * rent `REPBT`
 * hands `HAPBDZ`
-* tom `TOPL`
+* Tom `TOPL`
 * ten `TEPB`
 * stand `STAPBD`
 * wind `WEUPBD`

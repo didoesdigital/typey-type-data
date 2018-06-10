@@ -513,6 +513,7 @@
 * neither `TPHAOERT`
 * forward `TPAORD`
 * view `SRAOU`
+* I've `AOEUF`
 * position `POGS`
 * sound `SOUPBD`
 * none `TPHOPB`
