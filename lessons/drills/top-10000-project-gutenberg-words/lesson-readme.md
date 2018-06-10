@@ -418,7 +418,7 @@
 * five `TPEUF`
 * strong `STROPBG`
 * able `ABL`
-* french `TPREFPB`
+* french `TPREFRPB`
 * live `HREUF`
 * lady `HRA*ED`
 * subject `SUBT`

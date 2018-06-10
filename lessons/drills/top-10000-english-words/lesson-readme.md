@@ -992,7 +992,7 @@
 * environmental `SRO*EUL`
 * thought `THAUT`
 * stuff `STUF`
-* French `TPREFPB`
+* French `TPREFRPB`
 * storage `STORPBLG`
 * oh `O*E`
 * Japan `SKWRA/PAPB`

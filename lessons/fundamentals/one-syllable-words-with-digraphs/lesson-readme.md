@@ -46,7 +46,7 @@
 * shows `SHOES`
 * chat `KHAT`
 * thought `THAUT`
-* French `TPREFPB`
+* French `TPREFRPB`
 * shoes `SHAOUS`
 * king `KEUPBG`
 * cash `KARB`
