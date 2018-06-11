@@ -1,4 +1,4 @@
-Top 10000 English Words
+Top 10000 English words
 
 'the': -T
 'of': -F
@@ -29,7 +29,7 @@ Top 10000 English Words
 'new': TPHU
 'more': PHOR
 'an': APB
-'was': WA
+'was': WAS
 'we': WE
 'will': HR
 'home': HOEPL
@@ -187,7 +187,7 @@ Top 10000 English Words
 'user': AOURS
 'said': SAEUD
 'de': TK*E
-'does': TKUS
+'does': TKOS
 'set': SET
 'under': *UPBD
 'general': SKWREPBL
@@ -290,7 +290,7 @@ Top 10000 English Words
 'project': PROPBL
 'same': SAEUPL
 'pages': PAEUPBLGS
-'UK': UBG
+'UK': *UP/K*P
 'version': SRERGS
 'section': SEBGS
 'own': OEPB
@@ -501,7 +501,7 @@ Top 10000 English Words
 'yahoo': KWRA/HAO
 'going': TKPW-G
 'medical': PHED/KAL
-'test': TEF
+'test': TEFT
 'friend': TPREPBD
 'come': KOPL
 'dec': TK*EBG
@@ -724,7 +724,7 @@ Top 10000 English Words
 'marketing': PHARBGT/-G
 'tell': TEL
 'further': TPURT
-'updated': AUD/-D
+'updated': AUP/TKAEUTD
 'association': SOEGS
 'able': ABL
 'having': SR-G
@@ -742,7 +742,7 @@ Top 10000 English Words
 'gold': TKPWOELD
 'feb': TP*EB
 'living': HREUFG
-'sep': S*EPT
+'sep': S*PT
 'collection': KHREBGS
 'called': KAULD
 'short': SHORT
@@ -795,7 +795,7 @@ Top 10000 English Words
 'URL': *URL
 'front': TPROPBT
 'statement': STAEUPLT
-'update': AUD
+'update': AUP/TKAEUT
 'parts': PARTS
 'aug': A*UG
 'ever': -FR
@@ -1162,7 +1162,7 @@ Top 10000 English Words
 'client': KHRAOEUPBT
 'OK': OBG
 'returns': RURPBS
-'capital': KA*L
+'capital': KAPLT
 'follow': TPOL
 'sample': SAFRPL
 'investment': SREFPLT
@@ -1227,7 +1227,7 @@ Top 10000 English Words
 'song': SOPBG
 'cnet': KR*/TPH*/*E/T*
 'ltd': HR*/T*/TK*
-'LOS': HROES
+'Los': HROES
 'hp': H*/P*
 'focus': TPOEUBG
 'late': HRAEUT
@@ -1487,7 +1487,7 @@ Top 10000 English Words
 'alternative': AL/TERPBT
 'processing': PROEUFG
 'responsibility': SPOPBT
-'resolution': REZ/HRAOUGS
+'resolution': RES/HRAOUGS
 'Java': SKWRA/SRA
 'guest': TKPWEFT
 'seems': SAOEPLS
@@ -1678,7 +1678,7 @@ Top 10000 English Words
 'associates': SOERBTS
 'finally': TPHRAOEUPBL
 'az': A*/STKPW*
-'updates': AUDZ
+'updates': AUP/TKAEUTS
 'desktop': TKEFBG/TOP
 'classes': KHRA*FS
 'Paris': PA*EURS
@@ -1722,7 +1722,7 @@ Top 10000 English Words
 'peace': PAES
 'traditional': TRAL
 'campus': KA*PLS
-'tom': TOPL
+'Tom': TOPL
 'showing': SHOEG
 'creative': KRAOEF
 'coast': KOEFT
@@ -1803,7 +1803,7 @@ Top 10000 English Words
 'laws': HRAUS
 'changed': KHAEUPBGD
 'pet': PET
-'heard': HERD
+'heard': HAERD
 'begin': TKPWEUPB
 'individuals': SREUDZ
 'Colorado': KRO*
@@ -1832,7 +1832,7 @@ Top 10000 English Words
 'pp': P*/P*
 'suite': SWAO*ET
 'Vegas': SRAEUG/AS
-'NA': TPHA*P/A*P
+'NA': TPHA
 'square': SKWAEUR
 'Chris': KREUS
 'attention': A/T-PBGS
@@ -1858,7 +1858,7 @@ Top 10000 English Words
 'older': OERLD
 'Illinois': *EUL
 'regulations': RAEUG/-S
-'elements': HREPLTS
+'elements': HR-PLTS
 'species': SPAOES
 'jump': SKWRUFRP
 'cells': KRELS
@@ -1871,7 +1871,7 @@ Top 10000 English Words
 'certificate': SER
 'minister': PHEUPBS/TER
 'motion': PHOEGS
-'looks': HAOBGS
+'looks': HRAOBGS
 'fashion': TPAGS
 'directions': TKREBGS/-S
 'visitors': SREUS/TORS
@@ -1902,7 +1902,7 @@ Top 10000 English Words
 'communities': KPHAOUPBTS
 'clinical': KHR*EUL
 'situation': SWAEUGS
-'sciences': SAOEUPB/EPBS/-S
+'sciences': SKRAOEUPBS/-S
 'markets': PHARBGTS
 'lowest': HROEFT
 'highly': HAOEUL
@@ -2205,7 +2205,7 @@ Top 10000 English Words
 'affiliates': A/TPEUL/KWRAEUTS
 'reasons': R-PBS
 'magic': PHA/SKWREUBG
-'mount': PHOUPT
+'mount': PHOUPBT
 'smart': SPHART
 'talking': TAUG
 'gave': TKPWAEUF
@@ -2364,7 +2364,7 @@ Top 10000 English Words
 'theatre': THAO*ERT
 'laser': HRA*EURS
 'earlier': RERL
-'manufacturers': PHAFRS
+'manufacturers': PH-FRS
 'sponsor': SPOPB/SOR
 'classical': KHRAL
 'icon': AOEU/KOPB
@@ -2730,13 +2730,13 @@ Top 10000 English Words
 'eat': AOET
 'permanent': PERPL
 'agriculture': AG/KULT
-'dell': TKEL
+'Dell': TKEL
 'cleaning': KHRAOEPBG
 'constitutes': STAO*UTS
 'portfolio': POEFL
 'practical': PRABGT/K-L
 'delivered': TKHREUFRD
-'collectibles': KHREBGT/-BL/-S
+'collectibles': KHREBGT/EUBL/-S
 'infrastructure': TPRUBGS
 'exclusive': SKHRAOUS/EUF
 'seat': SAOET
@@ -3340,7 +3340,7 @@ Top 10000 English Words
 'deliver': THREUFR
 'wonder': WOPBD
 'hell': HEL
-'lessons': HR*EFPBS
+'lessons': HROEFPBS
 'fruit': TPRAOUT
 'begins': TKPWEUPBS
 'qualified': KWAFLD
@@ -3464,7 +3464,7 @@ Top 10000 English Words
 'winner': WEURPB
 'Idaho': *EUD
 'contractor': KR-T/TOR
-'ph': PAEUFP
+'pH': PAEUFP
 'episode': EP/SOED
 'examination': KP-GS
 'potter': POT/*ER
@@ -4255,7 +4255,7 @@ Top 10000 English Words
 'gross': TKPWROS
 'strongly': STROPBLG
 'cafe': KAF/AEU
-'valentine': SRAL/TAOEUPB
+'Valentine': SRAL/TAOEUPB
 'Hilton': HEUL/TOPB
 'ken': KEPB
 'proteins': PRAO*EPBS
@@ -4551,7 +4551,7 @@ Top 10000 English Words
 'tourist': TOR/EUFT
 'cocks': KOBG/-S
 'av': A*/SR*
-'mayor': PHAEUR
+'mayor': PHA*EUR
 'murder': PHURD
 'Sean': SHAUPB
 'adequate': AD/KWAT
@@ -4885,7 +4885,7 @@ Top 10000 English Words
 'Thai': TAO*EU
 'emissions': AOE/PHEUGS/-S
 'physicians': TP-GS/-S
-'loaded': HROED/-D
+'loaded': HRAOD/-D
 'Fred': TPRED
 'complaint': KPAEUPBT
 'scenes': SAOEPBS
@@ -5197,7 +5197,7 @@ Top 10000 English Words
 'equipped': KWEUPD
 'stages': STAEUPBLGS
 'encouraged': EPB/KURPBLGD
-'sur': SUR
+'sur': KPA/SUR
 'winds': WEUPBDZ
 'powder': PO*URD
 'broadway': PWROEU
@@ -5319,7 +5319,7 @@ Top 10000 English Words
 'enrollment': EPB/ROL/*PLT
 'duke': TKAOUBG
 'Walter': WAUL/TER
-'ai': A/AO*EU/SP-S
+'ai': SKWRAO*EU
 'pace': PAEUS
 'besides': PW-DZ
 'wage': WAEUPBLG
@@ -5342,7 +5342,7 @@ Top 10000 English Words
 'deleted': TKHRAOETD
 'coat': KOET
 'Mitchell': PHEUFP/EL
-'mrs': PH*/R*/S*
+'Mrs': PH*/R*/S*
 'Rica': RAOE/KA
 'restoration': RE/STORGS
 'convenience': SRAOEPBS
@@ -5501,7 +5501,7 @@ Top 10000 English Words
 'declared': TKE/KHRAEURD
 'dispatched': TKEUS/PAFPD
 'Aaron': AEUR/ROPB
-'handheld': HA*PBD/HELD
+'handheld': HAPBD/H*ELD
 'trace': TRAEUS
 'disposal': TKEUS/POES/AL
 'shut': SHUT
@@ -5910,7 +5910,7 @@ Top 10000 English Words
 'neutral': TPHAOURLT
 'fisher': TP*EURB/ER
 'rat': RAT
-'spears': SPAOERZ
+'spears': SPAOERS
 'prospective': PROS/PEBGT/EUF
 'dildos': TKEUL/TKOE/-S
 'bedding': PWED/-G
@@ -6014,7 +6014,7 @@ Top 10000 English Words
 'espn': *E/S*/P*/TPH*
 'fleet': TPHRAOET
 'untitled': UPB/TAOEUT/-LD
-'bunch': WUFRPB
+'bunch': PWUFRPB
 'totals': TOET/-LS
 'Marriott': PHAEUR/KWROT
 'singing': SEUPBG/-G
@@ -6252,7 +6252,7 @@ Top 10000 English Words
 'spouse': SPOUS
 'exotic': KPOBGT
 'viewer': SRAOUR
-'signup': SAOEUPB/SKWRUP
+'signup': SAOEUPB/SKWR*UP
 'threats': THRETS
 'Luxembourg': HRUBGS/PWURG
 'puzzles': PUFLS
@@ -6614,7 +6614,7 @@ Top 10000 English Words
 'strain': STRAEUPB
 'drag': TKRAG
 'ceremony': SER/PHOEPB
-'somehow': SHOU
+'somehow': SPHOU
 'arrested': A/REFT/-D
 'expanding': EBGS/PAPBGD
 'provincial': PRO/SREUPBL
@@ -6872,7 +6872,7 @@ Top 10000 English Words
 'chronicles': KROPB/K-LS
 'obtaining': OB/TAEUPBG
 'beaver': PWAOEFR
-'updating': AUGD
+'updating': AUP/TKAEUGT
 'distribute': TK-BT
 'readings': RAEGDZ
 'decorative': TKEBG/TEUF
@@ -7611,7 +7611,7 @@ Top 10000 English Words
 'retrieved': RE/TRAOEFD
 'exhibits': KPEUBTS
 'officially': TPEURB/HREU
-'consortium': KORPL
+'consortium': KO*RPL
 'dies': TKAOEUZ
 'terrace': TER/AS
 'bacteria': PWAOERBT
@@ -7747,7 +7747,7 @@ Top 10000 English Words
 'seventh': S*EPBT
 'gods': TKPWODZ
 'une': *U/TPH*/*E
-'welsh': WERB
+'Welsh': WERB
 'belly': PWEL/HREU
 'aggressive': A/TKPWREF
 'tex': TEBGS
@@ -8215,7 +8215,7 @@ Top 10000 English Words
 'borough': PWRO
 'maintains': PHAEUPB/TAEUPBS
 'failing': TPAEULG
-'shortcuts': SHORT/KUT/-S
+'shortcuts': SHORT/KUTS
 'ka': KA/KWRA
 'retained': RAOE/TAEUPBD
 'voyeurweb': SR*/O*/KWR*/*E/*U/R*/W*/*E/PW*
@@ -8281,7 +8281,7 @@ Top 10000 English Words
 'urgent': URGT
 'guarantees': TKPWARPBTS
 'infants': EUPB/TPAPBTS
-'gothic': TKPWOT/EUBG
+'Gothic': TKPWOT/EUBG
 'cylinder': SEUL/TKER
 'witch': WEUFP
 'buck': PWUBG
@@ -8416,7 +8416,7 @@ Top 10000 English Words
 'euros': KWROEURS
 'interstate': EUPBT/STAEUT
 'pirates': PAOEURT/-S
-'aerial': AER/KWRAL
+'aerial': AEUR/KWRAL
 'hawk': HAUBG
 'consequence': KWEPBS
 'rebel': REBL
@@ -8476,7 +8476,7 @@ Top 10000 English Words
 'wax': WABGS
 'Lucy': HRAOU/SEU
 'answering': APBS/-G
-'hans': HAPBS
+'Hans': HAPBS
 'impressed': EUPL/PREFD
 'slope': SHROEP
 'reggae': REG/AE
@@ -8789,7 +8789,7 @@ Top 10000 English Words
 'plastics': PHRAFBGS
 'realm': R*EL
 'corrected': KREBGD
-'jenny': SKWREPB/KWREU
+'Jenny': SKWREPB/KWREU
 'helmet': H*EPLT
 'salaries': SAL/REUS
 'postcard': POFT/KARD
@@ -8914,7 +8914,7 @@ Top 10000 English Words
 'revisions': RE/SREUGS/-S
 'Papua': PAUP/WA
 'restored': RAOE/STORD
-'hint': HEUPT
+'hint': HEUPBT
 'armor': AR/PHOR
 'riders': RAOEURDZ
 'chargers': KHARPBLG/ERS
@@ -9340,7 +9340,7 @@ Top 10000 English Words
 'delight': TKHRAOEUT
 'survivor': SUR/SRAOEUFR
 'Garcia': TKPWAR/SAOE/KWRA
-'cingular': SEUPBG/HRAR
+'cingular': SEUPBG/HRA*R
 'economies': KPHES
 'Alexandria': KPARPBD
 'bacterial': PWAOERL
@@ -9707,7 +9707,7 @@ Top 10000 English Words
 'Persian': PERGS
 'continually': TAEPBL
 'communist': KOPL/TPHEUS
-'collectible': KHREBGT/-BL
+'collectible': KHREBGT/EUBL
 'handmade': HAPBD/PHAED
 'Greene': TKPWRA*EPB
 'entrepreneurs': PRAOURPBS
