@@ -138,7 +138,7 @@
 * an' `APB/AE`
 * man's `PHAPB/AES`
 * etc. `ETS/TP-PL`
-* I'd `EUD/AE`
+* I'd `AOEUD`
 * v. `5R/TP-PL`
 * 'em `AOE/EPL`
 * king's `KEUPBG/AES`
