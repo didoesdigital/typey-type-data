@@ -4258,7 +4258,7 @@
 * solemnly `SOL/EPL/HREU`
 * twenty-four `TWEPBT/H-PB/TPOUR`
 * minor `PHAOEURPB`
-* del `TKEL`
+* del `TK*/*E/HR*`
 * crimson `KREUPL/SOPB`
 * republic `RUBLG`
 * teachers `TAO*EFPS`
