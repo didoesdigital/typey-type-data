@@ -835,7 +835,7 @@
 * hill `HEUL`
 * music `PHAOUFBG`
 * opportunity `TAOUPBT`
-* that's `TH-TS`
+* that's `THATS`
 * German `SKWR*ERPB`
 * afternoon `AFPB`
 * cry `KRAOEU`
@@ -968,7 +968,7 @@
 * nation `TPHA*EUGS`
 * existence `KPEUFS`
 * reply `RE/PHREU`
-* I'd `EUD/AE`
+* I'd `AOEUD`
 * copies `KO*EPS`
 * sky `SKAOEU`
 * touch `TUFP`

@@ -77,7 +77,7 @@
 * now `TPHOU`
 * help `HEP`
 * get `TKPWET`
-* pm `P-PL`
+* pm `P*/PH*`
 * view `SRAOU`
 * online `AUPB/HRAOEUPB`
 * c `KR*`
@@ -5245,7 +5245,7 @@
 * Parker `PA*RBG/ER`
 * determining `TKERPLG`
 * Lebanon `HREB/TPHOPB`
-* corp `KORP`
+* corp `K*/O*/R*/P*`
 * personalized `PERPBL/AOEUZ/-D`
 * Kennedy `KEPB/TKEU`
 * gt `TKPW*/T*`
@@ -6149,7 +6149,7 @@
 * ni `TPH*/*EU`
 * Murphy `PHUR/TPEU`
 * thinks `THEUS`
-* that's `TH-TS`
+* that's `THATS`
 * suggestion `SUGS`
 * hdtv `H*/TK*/T*/SR*`
 * soldier `SHRERPBL`
@@ -8487,7 +8487,7 @@
 * theology `THOLG`
 * nails `TPHAEULS`
 * evident `AEFT`
-* what's `WHA*S`
+* what's `WHATS`
 * rides `RAOEUDZ`
 * rehab `RE/HAB`
 * epic `EP/EUBG`

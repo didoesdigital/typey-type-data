@@ -835,7 +835,7 @@
 * hill `HEUL`
 * music `PHAOUFBG`
 * opportunity `TAOUPBT`
-* that's `TH-TS`
+* that's `THATS`
 * German `SKWR*ERPB`
 * afternoon `AFPB`
 * cry `KRAOEU`
@@ -968,7 +968,7 @@
 * nation `TPHA*EUGS`
 * existence `KPEUFS`
 * reply `RE/PHREU`
-* I'd `EUD/AE`
+* I'd `AOEUD`
 * copies `KO*EPS`
 * sky `SKAOEU`
 * touch `TUFP`
@@ -2434,7 +2434,7 @@
 * alarm `A/HRARPL`
 * nervous `TPHEFRS`
 * beast `PWAOEFT`
-* what's `WHA*S`
+* what's `WHATS`
 * aloud `A/HROUD`
 * independent `PAEPBT`
 * gates `TKPWAETS`
@@ -3625,7 +3625,7 @@
 * largest `HRARPBL/EFT`
 * proceeding `PRAOEGD`
 * impatient `EUPL/PAEURBT`
-* wounds `WAOUBDZ`
+* wounds `WOUPBDZ`
 * warmth `WARPLT`
 * certainty `SERPBT`
 * restless `REFT/-LS`
@@ -3916,7 +3916,7 @@
 * program `PRAPL`
 * reserved `RAOE/SER/-FD`
 * secretly `SKRELT`
-* we've `W*EF`
+* we've `WAOEF`
 * invention `EUPB/SREPBGS`
 * faults `TPAULTS`
 * disagreeable `TKEUS/TKPWRAOEBL`
@@ -6833,7 +6833,7 @@
 * creep `KRAOEP`
 * pleading `PHRAOEGD`
 * disdain `TKEUS/TKAEUPB`
-* pm `P-PL`
+* pm `P*/PH*`
 * sympathies `SEUPL/THEU/KWREU/-S`
 * guides `TKPWAOEUDZ`
 * emergency `PH-PBLG`
