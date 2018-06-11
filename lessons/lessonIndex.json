@@ -204,6 +204,15 @@
     "subcategory": "",
     "path": "/drills/top-100-words/lesson.txt",
     "wordCount": 100,
+    "suggestedNext": "/drills/top-1000-words/lesson.txt"
+  },
+  {
+    "title": "Top 1000 words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-1000-words/lesson.txt",
+    "wordCount": 1000,
     "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
   },
   {
