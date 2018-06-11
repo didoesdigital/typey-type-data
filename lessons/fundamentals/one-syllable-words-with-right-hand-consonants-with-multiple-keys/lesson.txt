@@ -72,7 +72,7 @@ One-syllable words with right-hand consonants with multiple keys
 'Spain': SPAEUPB
 'rent': REPBT
 'hands': HAPBDZ
-'tom': TOPL
+'Tom': TOPL
 'ten': TEPB
 'stand': STAPBD
 'wind': WEUPBD
@@ -293,7 +293,11 @@ One-syllable words with right-hand consonants with multiple keys
 'ind': EUPBD
 'pike': PAOEUBG
 'stake': STAEUBG
-'Tom': TOPL
+'won't': WOEPBT
+'wouldn't': WOPBT
+'couldn't': KOPBT
+'ain't': AEUPBT
+'wasn't': WAEPBT
 'ruin': RAOUPB
 'whence': WHEPBS
 'aunt': AUPBT
@@ -311,6 +315,7 @@ One-syllable words with right-hand consonants with multiple keys
 'warmth': WARPLT
 'spake': SPAEUBG
 'crowned': KROUPBD
+'hasn't': HAEPBT
 'sworn': SWORPB
 'warn': WARPB
 'scent': SKEPBT

@@ -127,7 +127,6 @@
 * wiped `WAOEUPD`
 * piled `PAOEULD`
 * cured `KAOURD`
-* prof `PROEF`
 * coats `KOETS`
 * strode `STROED`
 * ropes `ROEPS`

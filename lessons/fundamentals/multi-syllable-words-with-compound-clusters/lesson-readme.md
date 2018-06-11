@@ -409,7 +409,7 @@
 * quotation `KWOGS`
 * commotion `KPHOEGS`
 * originality `ORPBLGT`
-* belgian `PWELGS`
+* Belgian `PWELGS`
 * crawling `KRAULG`
 * railing `RAEULG`
 * cushion `KUGS`

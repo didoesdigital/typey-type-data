@@ -293,6 +293,11 @@
 * ind `EUPBD`
 * pike `PAOEUBG`
 * stake `STAEUBG`
+* won't `WOEPBT`
+* wouldn't `WOPBT`
+* couldn't `KOPBT`
+* ain't `AEUPBT`
+* wasn't `WAEPBT`
 * ruin `RAOUPB`
 * whence `WHEPBS`
 * aunt `AUPBT`
@@ -310,6 +315,7 @@
 * warmth `WARPLT`
 * spake `SPAEUBG`
 * crowned `KROUPBD`
+* hasn't `HAEPBT`
 * sworn `SWORPB`
 * warn `WARPB`
 * scent `SKEPBT`

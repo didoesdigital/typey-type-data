@@ -10,6 +10,7 @@
 * age `AEUPBLG`
 * fax `TPABGS`
 * makes `PHAEUBGS`
+* French `TPREFRPB`
 * weeks `WAOEBGS`
 * six `SEUBGS`
 * huge `HAOUPBLG`

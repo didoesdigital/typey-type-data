@@ -38,7 +38,6 @@
 * already `HR-R`
 * island `AOEULD`
 * district `TR-T`
-* update `AUP/TKAEUT`
 * either `AOERT`
 * finance `TP-PB`
 * auto `OEUT`
@@ -72,7 +71,6 @@
 * considered `KR-D`
 * opinion `P-PB`
 * interested `TR-D`
-* updates `AUP/TKAEUTS`
 * officer `OEUF`
 * respect `R-PT`
 * transport `TR-PT`
@@ -156,7 +154,6 @@
 * manufacture `PH-F`
 * wordpress `W-P`
 * railroad `R-RD`
-* updating `AUP/TKAEUGT`
 * distribute `TK-BT`
 * observe `OEB`
 * confident `K-FT`
@@ -178,6 +175,7 @@
 * examines `KP-S`
 * altogether `HR-GT`
 * sorrow `SROE`
+* haven't `SR-PB`
 * eager `AOERG`
 * wherein `WR-PB`
 * respecting `R-PG`

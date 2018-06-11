@@ -169,7 +169,7 @@
 * fields `TPAOELDZ`
 * bag `PWAG`
 * foot `TPAOT`
-* Mass `PHAS`
+* mass `PHAS`
 * breast `PWREFT`
 * miss `PHEUS`
 * brought `PWRAUT`
@@ -179,7 +179,7 @@
 * dates `TKAEUTS`
 * ga `TKPWA`
 * load `HRAOD`
-* joe `SKWROE`
+* Joe `SKWROE`
 * guys `TKPWEUS`
 * drop `TKROP`
 * mo `PHO`
@@ -232,7 +232,7 @@
 * dual `TKAOUL`
 * bird `PWEURD`
 * drink `TKREU`
-* dell `TKEL`
+* Dell `TKEL`
 * bids `PWEUDZ`
 * guess `TKPWES`
 * fly `TPHRAOEU`
@@ -278,7 +278,7 @@
 * dear `TKAER`
 * vat `SRAT`
 * beer `PWAOER`
-* jane `SKWHRAEUB`
+* Jane `SKWHRAEUB`
 * doubt `TKOUT`
 * doors `TKAORS`
 * Bruce `PWRAOUS`
@@ -401,7 +401,7 @@
 * grew `TKPWRAOU`
 * brad `PWRAD`
 * nose `TPHOES`
-* jews `SKWRAOUZ`
+* Jews `SKWRAOUZ`
 * fleet `TPHRAOET`
 * gel `SKWREL`
 * Doug `TKOUG`
@@ -412,7 +412,7 @@
 * faced `TPAEUFD`
 * mat `PHAT`
 * laugh `HRAF`
-* joel `SKWROEL`
+* Joel `SKWROEL`
 * yo `KWROE`
 * mate `PHAEUT`
 * blend `PWHREPD`

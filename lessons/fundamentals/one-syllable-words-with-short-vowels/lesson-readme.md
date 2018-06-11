@@ -11,6 +11,7 @@
 * west `WEFT`
 * start `START`
 * cost `KOFT`
+* test `TEFT`
 * cart `KART`
 * staff `STAF`
 * stores `STORS`

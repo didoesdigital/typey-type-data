@@ -46,7 +46,6 @@
 * shows `SHOES`
 * chat `KHAT`
 * thought `THAUT`
-* French `TPREFRPB`
 * shoes `SHAOUS`
 * king `KEUPBG`
 * cash `KARB`
@@ -300,6 +299,7 @@
 * thine `THAOEUPB`
 * shalt `SHALT`
 * stretched `STREFPD`
+* she's `SHAOES`
 * thrust `THRUFT`
 * flung `TPHRUPBG`
 * thence `THEPBS`
@@ -309,7 +309,9 @@
 * drank `TKRAPBG`
 * rang `RAPBG`
 * grasp `TKPWRAFP`
+* they're `THER`
 * flashed `TPHRARBD`
+* shouldn't `SHOPBT`
 * chin `KHEUPB`
 * bark `PWARBG`
 * washed `WARBD`
@@ -340,8 +342,10 @@
 * gasped `TKPWAFPD`
 * clad `KHRAD`
 * sprung `SPRUPBG`
+* mustn't `PHUFPBT`
 * shouts `SHOUTS`
 * preach `PRAOEFP`
+* they'll `THEL`
 * blush `PWHRURB`
 * throng `THROPBG`
 * shocked `SHOBGD`
@@ -354,14 +358,19 @@
 * thrill `THREUL`
 * shrewd `SHRAOUD`
 * touches `TUFPS`
+* she'd `SHAOED`
 * pitched `PEUFPD`
+* she'll `SHAOEL`
 * thieves `THAOEFS`
 * choked `KHOEBGD`
 * crush `KRURB`
+* shan't `SHAPBT`
+* they'd `THED`
 * shrine `SHRAOEUPB`
 * plunge `PHRUPBG`
 * rash `RARB`
 * shawl `SHAUL`
+* they've `THEF`
 * spark `SPARBG`
 * ditch `TKEUFP`
 * fishes `TPEURBS`
@@ -373,7 +382,6 @@
 * rushes `RURBS`
 * hush `HURB`
 * sting `STEUPBG`
-* cong `KAUPBG`
 * pang `PAPBG`
 * sketches `SKEFPS`
 * cling `KHREUPBG`

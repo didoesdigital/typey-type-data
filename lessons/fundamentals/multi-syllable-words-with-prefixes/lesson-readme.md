@@ -11,6 +11,8 @@
 * reply `RE/PHREU`
 * release `RE/HRAOEZ`
 * away `A/WAEU`
+* updated `AUP/TKAEUTD`
+* update `AUP/TKAEUT`
 * subscribe `SAUB/KRAOEUB`
 * along `A/HROPBG`
 * across `A/KROS`
@@ -34,6 +36,7 @@
 * instructions `EUPB/STRUBGS/-S`
 * remove `RE/PHOF`
 * increased `EUPB/KRAOES/-D`
+* updates `AUP/TKAEUTS`
 * unknown `UPB/TPHOEPB`
 * detail `TKE/TAEUL`
 * applied `A/PHRAOEUD`
@@ -316,6 +319,7 @@
 * reactions `RE/-BGS/-S`
 * invalid `EUPB/SRAL/EUD`
 * retain `RE/TAEUPB`
+* updating `AUP/TKAEUGT`
 * enlargement `EPB/HRARPLT`
 * accused `A/KAOUFD`
 * defines `TKE/TPAOEUPBZ`
@@ -622,6 +626,7 @@
 * rebellion `RE/PWEL/KWROPB`
 * dislike `TKEUS/HRAOEUBG`
 * infantry `EUPB/TPAPB/TREU`
+* enemy's `EPB/PHEU/AES`
 * conspicuous `KAUPB/SPEUBG/KWRUS`
 * disgust `TKEUS/TKPWUFT`
 * procure `PRO/KAOUR`
@@ -677,6 +682,7 @@
 * adorned `A/TKORPB/-D`
 * refusal `RE/TPAOUFL`
 * ingenious `EUPB/SKWRAOEPBS`
+* re-use `RE/H-PB/AOUS`
 * discharged `TKEUS/KHARPBLGD`
 * malice `PHAL/EUS`
 * adjoining `A/SKWROEUPBG`
@@ -978,7 +984,6 @@
 * recess `RE/SES`
 * unclean `UPB/KHRAOEPB`
 * averted `A/SRERT/-D`
-* constantine `KAUPB/STAPB/TAOEPB`
 * untouched `UPB/TUFPD`
 * overtaken `AUFR/TAEPB`
 * revealing `RAOE/SRAOELG`

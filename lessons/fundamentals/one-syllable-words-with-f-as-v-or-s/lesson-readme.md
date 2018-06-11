@@ -2,6 +2,7 @@
 
 * west `WEFT`
 * cost `KOFT`
+* test `TEFT`
 * past `PAFT`
 * costs `KOFTS`
 * trust `TRUFT`
