@@ -312,6 +312,7 @@
 * scorn `SKORPB`
 * ruins `RAOUPBS`
 * tomb `TAOUPL`
+* wounds `WOUPBDZ`
 * warmth `WARPLT`
 * spake `SPAEUBG`
 * crowned `KROUPBD`

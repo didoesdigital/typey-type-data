@@ -104,7 +104,6 @@
 * hurt `HURT`
 * cuts `KUTS`
 * caps `KAPS`
-* corp `KORP`
 * Carl `KARL`
 * picked `PEUGD`
 * wrap `WRAP`

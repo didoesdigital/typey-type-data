@@ -116,7 +116,6 @@
 * pot `POT`
 * cuts `KUTS`
 * caps `KAPS`
-* corp `KORP`
 * Carl `KARL`
 * wrap `WRAP`
 * tops `TOPS`

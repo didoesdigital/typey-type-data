@@ -109,7 +109,6 @@
 * prayed `PRAEUD`
 * heels `HAOELS`
 * cares `KAEURS`
-* wounds `WAOUBDZ`
 * spared `SPAEURD`
 * waist `WAEUFT`
 * sweep `SWAOEP`
