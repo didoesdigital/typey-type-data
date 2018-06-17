@@ -530,7 +530,7 @@
 * working `WOG`
 * against `TKPWEPBS`
 * standard `ST-D`
-* tax `TAGS`
+* tax `TABGS`
 * person `PERPB`
 * below `PWHRO`
 * mobile `PHOEBL`
@@ -1433,7 +1433,7 @@
 * authority `THORT`
 * considered `KR-D`
 * told `TOLD`
-* XML `KPOEPL`
+* XML `KPAOEPL`
 * traffic `TRAFBG`
 * programme `PRA*RPL`
 * joined `SKWROEUPBD`
@@ -1832,7 +1832,7 @@
 * pp `P*/P*`
 * suite `SWAO*ET`
 * Vegas `SRAEUG/AS`
-* NA `TPHA`
+* NA `TPH*/A*`
 * square `SKWAEUR`
 * Chris `KREUS`
 * attention `A/T-PBGS`
@@ -2475,7 +2475,7 @@
 * Hong `HOPBG`
 * vice `SRAOEUS`
 * associate `SOERBT`
-* ne `TPHE`
+* ne `TPH*/*E`
 * truck `TRUBG`
 * behavior `PWAEUFR`
 * enlarge `EPB/HRARPBL`
@@ -3345,7 +3345,7 @@
 * begins `TKPWEUPBS`
 * qualified `KWAFLD`
 * reform `RORPL`
-* lens `REPBS`
+* lens `HREPBS`
 * alerts `A/HRERTS`
 * treated `TRAETD`
 * discovery `SKOEFR`
@@ -8875,7 +8875,7 @@
 * accent `KP*EPBT`
 * mysimon `PH*/KWR*/S*/*EU/PH*/O*/TPH*`
 * eleven `HREFPB`
-* wives `WEUFS`
+* wives `WAOEUFS`
 * ambient `APL/KWREPBT`
 * utilize `AOUT/HRAOEUZ`
 * mileage `PHAOEUL/APBLG`

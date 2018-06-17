@@ -1243,7 +1243,7 @@
 * rights `RAOEUTS`
 * amount `APLT`
 * obtain `OB/TAEUPB`
-* tax `TAGS`
+* tax `TABGS`
 * servants `SER/SRAPBTS`
 * sons `SOPBS`
 * cross `KROS`
@@ -2679,7 +2679,7 @@
 * copying `KOP/EUG`
 * apartment `ARPLT`
 * activity `TAEFT`
-* wives `WEUFS`
+* wives `WAOEUFS`
 * parted `PARTD`
 * security `SKURT`
 * cared `KAEURD`
@@ -4076,7 +4076,7 @@
 * economy `KPHE`
 * sufferings `SUFRGS`
 * secrets `SKRETS`
-* na `TPHA`
+* na `TPH*/A*`
 * halted `HAULT/-D`
 * govern `TKPWOFPB`
 * favourable `TPAEUFRBL/A*U`
