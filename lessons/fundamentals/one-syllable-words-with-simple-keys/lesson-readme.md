@@ -191,7 +191,6 @@
 * carts `KARTS`
 * cords `KORDZ`
 * toss `TOSZ`
-* Holt `HOLT`
 * wad `WAD`
 * stroll `STROL`
 * rag `RAG`

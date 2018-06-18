@@ -1902,7 +1902,7 @@ Top 10000 English words
 'communities': KPHAOUPBTS
 'clinical': KHR*EUL
 'situation': SWAEUGS
-'sciences': SKRAOEUPBS/-S
+'sciences': SKRAOEUPBSZ
 'markets': PHARBGTS
 'lowest': HROEFT
 'highly': HAOEUL
@@ -2132,7 +2132,7 @@ Top 10000 English words
 'reporting': RORPG
 'essential': SERBL
 'myself': PHAO*EUS
-'tours': TOR/-S
+'tours': TORS
 'platform': PHRORPL
 'load': HRAOD
 'affiliate': TPEULT
@@ -2380,7 +2380,7 @@ Top 10000 English words
 'evening': AOEPBG
 'assembly': A/SEPL/PWHREU
 'nuclear': TPHAOU/KHRAR
-'taxes': TABGS/-S
+'taxes': TABGSZ
 'mouse': PHOUS
 'signal': STPHAL
 'criminal': KR-L
@@ -2676,7 +2676,7 @@ Top 10000 English words
 'finish': TP*EURB
 'departments': TK-PTS
 'residents': R*EPBTS
-'noted': TPHOT/-D
+'noted': TPHOETD
 'displayed': TKEUS/PRAEUD
 'mom': PHOPL
 'reduced': RAOUFD
@@ -2890,7 +2890,7 @@ Top 10000 English words
 'clothes': KHRO*ETS
 'caused': KAUFD
 'luxury': HRUBGS/REU
-'babes': PWAEUB/-S
+'babes': PWAEUBS
 'frames': TPRAEUPLS
 'viagra': SRAOEUG/RA
 'certainly': SERPBL
@@ -2998,7 +2998,7 @@ Top 10000 English words
 'sexo': S*/*E/KP*/O*
 'ap': A*EP
 'patterns': PAT/ERPBS
-'boxes': PWOBGS/-S
+'boxes': PWOBGSZ
 'Louisiana': HRA*
 'hills': HEULS
 'JavaScript': SKWR*S
@@ -3173,12 +3173,12 @@ Top 10000 English words
 'seek': SAOEBG
 'experiences': SPAOEFRPBS
 'albums': AL/PWUPLS
-'cheats': KHAOET/-S
+'cheats': KHAOETS
 'extremely': KPRAOEPL
 'verzeichnis': SR*/*E/R*/STKPW*/*E/*EU/KR*/H*/TPH*/*EU/S*
 'contracts': KR-TS
 'guests': TKPWEFTS
-'hosted': HOEFT/-D
+'hosted': HOEFTD
 'diseases': STKAOESZ
 'concerning': K-RPBG
 'developers': SREL/ERS
@@ -3420,7 +3420,7 @@ Top 10000 English words
 'showed': SHOED
 'challenges': KHALGS
 'editors': ED/TORS
-'mens': PHEPB/-S
+'mens': PHEPBZ
 'threads': THREDZ
 'bowl': PWOEL
 'supreme': SPRAOEPL
@@ -3933,7 +3933,7 @@ Top 10000 English words
 'Philippines': TPAOEPBS
 'statistical': STATS/K-L
 'beds': PWEDZ
-'breasts': PWREFT/-S
+'breasts': PWREFTS
 'mention': PHEPBG
 'innovation': TPHO*FGS
 'pcs': P*P/KR*P/-S
@@ -4067,7 +4067,7 @@ Top 10000 English words
 'med': PH*ED
 'engineers': EPBG/TPHAOERS
 'entity': T*EPBT
-'cruises': KRAOUZ/-Z
+'cruises': KRAOUSZ
 'gate': TKPWAET
 'holder': HOERLD
 'proposals': PROELS
@@ -4325,7 +4325,7 @@ Top 10000 English words
 'lbs': HR*/PW*/S*
 'lay': HRAEU
 'interpretation': SPWERPGS
-'horses': HORS/-S
+'horses': HORSZ
 'lol': HROL
 'dirty': TKOEURT
 'deck': TKEBG
@@ -4573,7 +4573,7 @@ Top 10000 English words
 'radar': RAEUD/AR
 'rescue': RES/KAOU
 'undergraduate': UPBD/TKPWRAD/WAT
-'losses': HROS/-S
+'losses': HROSZ
 'combat': KPWAT
 'reducing': RAOUFG
 'stopped': STOPD
@@ -4753,7 +4753,7 @@ Top 10000 English words
 'forgotten': TPORGTD
 'acrobat': ABG/PWAT
 'plates': PHRAEUTS
-'acres': AEURBG/-S
+'acres': AEURBGZ
 'venue': SRAOUPB
 'athletic': A*T/HRET/EUBG
 'thermal': TH*ERL
@@ -4916,7 +4916,7 @@ Top 10000 English words
 'trained': TRAEUPBD
 'burn': PWURPB
 'implementing': EUPLT/-G
-'roses': ROES/-S
+'roses': ROESZ
 'labs': HRABS
 'ourselves': OUR/SEFS
 'bread': PWRAED
@@ -5107,7 +5107,7 @@ Top 10000 English words
 'proven': PROFPB
 'schedules': SKEDZ
 'admissions': AD/PHEUGS/-S
-'cached': KAERB/-D
+'cached': KAERBD
 'warren': WA*RPB
 'slip': SHREUP
 'studied': STUD/EUD
@@ -5279,7 +5279,7 @@ Top 10000 English words
 'axis': KPEUS
 'sought': SAUT
 'genes': SKPWRAOEPBS
-'mounted': PHOUPBT/-D
+'mounted': PHOUPBTD
 'habitat': HAB/TAT
 'firewall': TPAOEUR/WAUL
 'median': PHAOED/KWRAPB
@@ -5833,7 +5833,7 @@ Top 10000 English words
 'fewer': TPAOUR
 'sequences': SKWEPBS/-S
 'coupon': KAOUPB
-'nurses': TPHURS/-S
+'nurses': TPHURSZ
 'ssl': S*/S*/HR*
 'stem': STEPL
 'proxy': PROBG/SEU
@@ -6259,7 +6259,7 @@ Top 10000 English words
 'reaching': RAOEFPG
 'vb': SR*/PW*
 'damaged': TKAPBLD
-'cams': KAPL/-S
+'cams': KAPLS
 'receptor': RERPT
 'piss': PEUS
 'laugh': HRAF
@@ -6306,7 +6306,7 @@ Top 10000 English words
 'chef': KHEF
 'tapes': TAEUPS
 'zones': SO*EPBS
-'races': RAEUS/-S
+'races': RAEUSZ
 'isle': AO*EULS
 'stylish': STAOEUL/EURB
 'slim': SHREUPL
@@ -6536,7 +6536,7 @@ Top 10000 English words
 'enhancement': EPB/HAPLT
 'Newcastle': TPHAOU/KA*S/-L
 'clone': KHROEPB
-'dicks': TKEUBG/-S
+'dicks': TKEUBGS
 'velocity': SHROFT
 'lambda': HRAPLD
 'relay': RE/HRAEU
@@ -6865,7 +6865,7 @@ Top 10000 English words
 'patents': PAT/EPBTS
 'copyrights': KO*EP/RAOEUT/-S
 'yn': KWR*/TPH*
-'chaos': KAU/OS
+'chaos': KAEU/OS
 'Lithuania': HR*EUT/WAEUPB/KWRA
 'mastercard': PHAFRT/KARD
 'wheat': WHAOET

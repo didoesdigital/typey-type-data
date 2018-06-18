@@ -86,6 +86,7 @@
 * speeds `SPAOEDZ`
 * tribes `TRAOEUBS`
 * rides `RAOEUDZ`
+* wives `WAOEUFS`
 * pipes `PAOEUPS`
 * pierce `PAOERS`
 * suited `SAOUTD`

@@ -144,7 +144,6 @@
 * trusts `TRUFTS`
 * rolled `ROLD`
 * wrist `WREUFT`
-* wives `WEUFS`
 * sorts `SORTS`
 * wrapped `WRAPD`
 * swift `SWEUFT`
@@ -206,7 +205,6 @@
 * cords `KORDZ`
 * toss `TOSZ`
 * tapped `TAPD`
-* Holt `HOLT`
 * spit `SPEUT`
 * stroll `STROL`
 * puffed `PUFD`

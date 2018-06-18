@@ -153,7 +153,6 @@
 * gives `TKPWEUFS`
 * laws `HRAUS`
 * guy `TKPAOEU`
-* na `TPHA`
 * gear `TKPWAOER`
 * lots `HROTS`
 * jump `SKWRUFRP`
@@ -209,7 +208,6 @@
 * void `SROEUD`
 * Dave `TKAEUF`
 * vice `SRAOEUS`
-* ne `TPHE`
 * votes `SROETS`
 * bear `PWAER`
 * flights `TPHRAOEUTS`

@@ -110,7 +110,6 @@
 * carts `KARTS`
 * cords `KORDZ`
 * toss `TOSZ`
-* Holt `HOLT`
 * stroll `STROL`
 * hurts `HURTS`
 * curl `KURL`

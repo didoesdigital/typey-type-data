@@ -64,7 +64,7 @@
 * round `ROUPBD`
 * wine `WAOEUPB`
 * son `SOPB`
-* XML `KPOEPL`
+* XML `KPAOEPL`
 * seems `SAOEPLS`
 * skin `SKEUPB`
 * sense `SEPBS`
@@ -134,7 +134,6 @@
 * ram `RAPL`
 * arm `ARPL`
 * acts `ABGZ`
-* lens `REPBS`
 * warm `WARPL`
 * suck `SUBG`
 * Sam `SAPL`

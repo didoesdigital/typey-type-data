@@ -6,7 +6,7 @@
 * pages `PAEUPBLGS`
 * box `PWOBGS`
 * large `HRARPBLG`
-* tax `TAGS`
+* tax `TABGS`
 * age `AEUPBLG`
 * fax `TPABGS`
 * makes `PHAEUBGS`

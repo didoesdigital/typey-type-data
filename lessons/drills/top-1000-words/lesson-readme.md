@@ -703,7 +703,7 @@
 * whatever `WHAF`
 * slowly `SHROEL`
 * tears `TAERS`
-* horses `HORS/-S`
+* horses `HORSZ`
 * places `PHRAEUFS`
 * caught `KAUT`
 * stay `STAEU`
