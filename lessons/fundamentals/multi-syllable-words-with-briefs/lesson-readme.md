@@ -136,7 +136,6 @@
 * identifying `AOEUFG`
 * headquarters `H-RS`
 * outer `OURT`
-* Manhattan `PH-PT`
 * somebody `S-B`
 * suicide `S-DZ`
 * automobile `AUBL`

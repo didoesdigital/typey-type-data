@@ -5652,7 +5652,7 @@
 * rivers `REUFRS`
 * commonwealth `KPHOPB/W*ELT`
 * pharmaceutical `TPAO*UL`
-* Manhattan `PH-PT`
+* Manhattan `PH-PBT`
 * tales `TAELS`
 * Katrina `TREUPB`
 * workforce `WORBG/TPORS`
