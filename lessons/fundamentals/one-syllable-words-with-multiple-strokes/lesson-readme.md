@@ -50,7 +50,7 @@
 * races `RAEUSZ`
 * Sept `SEP/-PT`
 * threaded `THRED/-D`
-* dicks `TKEUBGS`
+* dicks `TKEUBG/-S`
 * ist `S-P/EUFT`
 * das `TKA/-S`
 * scsi `SKUZ/SAOE`

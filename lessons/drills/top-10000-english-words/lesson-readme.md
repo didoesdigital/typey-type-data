@@ -6536,7 +6536,7 @@
 * enhancement `EPB/HAPLT`
 * Newcastle `TPHAOU/KA*S/-L`
 * clone `KHROEPB`
-* dicks `TKEUBGS`
+* dicks `TKEUBG/-S`
 * velocity `SHROFT`
 * lambda `HRAPLD`
 * relay `RE/HRAEU`
