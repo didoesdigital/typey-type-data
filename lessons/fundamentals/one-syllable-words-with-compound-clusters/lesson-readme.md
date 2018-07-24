@@ -87,7 +87,7 @@
 * bucks `PWUBGS`
 * badge `PWAPBLG`
 * rouge `RAOUPBLG`
-* pledge `PHREPLG`
+* pledge `PHREPBLG`
 * merge `PHERPBLG`
 * flex `TPHREBGS`
 * brakes `PWRAEUBGS`

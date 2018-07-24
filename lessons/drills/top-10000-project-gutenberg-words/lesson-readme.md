@@ -4986,7 +4986,7 @@
 * stare `STAER`
 * specimens `SPEPLS`
 * ascertain `AS/SERPB`
-* pledge `PHREPLG`
+* pledge `PHREPBLG`
 * earn `ERPB`
 * warfare `WAR/TPAER`
 * supposing `SPOEFG`

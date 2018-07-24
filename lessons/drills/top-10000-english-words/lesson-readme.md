@@ -8885,7 +8885,7 @@
 * auburn `AUB/URPB`
 * unlock `UPB/HROBG`
 * Hyundai `HUPBD/SKWRAOEU`
-* pledge `PHREPLG`
+* pledge `PHREPBLG`
 * vampire `SRAPL/PAOEUR`
 * Angela `APBG/HRA`
 * relates `RAELTS`
