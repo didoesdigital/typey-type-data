@@ -7750,7 +7750,7 @@
 * Welsh `WERB`
 * belly `PWEL/HREU`
 * aggressive `A/TKPWREF`
-* tex `TEBGS`
+* Tex `TEBGS`
 * advertisements `TAOEUPLT/-S`
 * quarters `KWART/ERS`
 * stolen `STOEL/EPB`

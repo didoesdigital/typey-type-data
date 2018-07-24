@@ -75,7 +75,7 @@
 * sage `SAEUPBLG`
 * searched `SEFRPBD`
 * racks `RABGS`
-* tex `TEBGS`
+* Tex `TEBGS`
 * rugs `RUGS`
 * punch `PUFRPB`
 * wax `WABGS`
