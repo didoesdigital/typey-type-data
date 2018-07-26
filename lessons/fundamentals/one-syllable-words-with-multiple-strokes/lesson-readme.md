@@ -66,7 +66,7 @@
 * pins `PEUPB/-S`
 * Leo `HRAOE/WOE`
 * handled `HAPBD/-LD`
-* sims `SEUPL/-S`
+* Sims `SEUPL/-S`
 * prizes `PRAOEUZ/-S`
 * fixes `TPEURBGS/-S`
 * watts `WAT/-S`

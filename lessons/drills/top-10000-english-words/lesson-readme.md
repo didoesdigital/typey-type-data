@@ -7451,7 +7451,7 @@
 * comparable `KPARBL`
 * chick `KHEUBG`
 * advocate `AFD/KAT`
-* sims `SEUPL/-S`
+* Sims `SEUPL/-S`
 * confusion `KAUFGS`
 * copyrighted `KOEP/WRAOEUT/-D`
 * tray `TRAEU`
