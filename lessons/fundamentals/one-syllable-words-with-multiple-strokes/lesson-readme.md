@@ -48,7 +48,7 @@
 * headed `HED/-D`
 * cams `KAPLS`
 * races `RAEUSZ`
-* Sept `SEP/-PT`
+* sept `S-P/S*EPT`
 * threaded `THRED/-D`
 * dicks `TKEUBG/-S`
 * ist `S-P/EUFT`

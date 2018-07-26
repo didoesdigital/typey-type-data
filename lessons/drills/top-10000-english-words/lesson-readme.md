@@ -6383,7 +6383,7 @@
 * equations `AOE/KWAEUGS/-S`
 * Newton `TPHUT/O*PB`
 * oils `OEULS`
-* Sept `SEP/-PT`
+* sept `S-P/S*EPT`
 * exceptional `KPEPGS/AL`
 * anxiety `KPRAOEUT`
 * bingo `PWEUPBG/OE`
