@@ -6881,7 +6881,7 @@
 * compiler `KPAOEURL`
 * enlargement `EPB/HRARPLT`
 * eagles `AOEG/-LS`
-* bases `PWAES/-S`
+* bases `PWAEUS/-S`
 * vii `R-7`
 * accused `A/KAOUFD`
 * bee `PWAOE`

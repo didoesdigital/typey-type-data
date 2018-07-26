@@ -9852,7 +9852,7 @@
 * assassination `A/AS/TPHAEUGS`
 * commissions `KPHEUGS/-S`
 * respectability `R-PT/-BLT`
-* bases `PWAES/-S`
+* bases `PWAEUS/-S`
 * Maxwell `PHABGS/WEL`
 * resounded `RE/SO*UPBD/-D`
 * closest `KHROES/EFT`

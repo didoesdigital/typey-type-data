@@ -56,7 +56,7 @@
 * SCSI `SKUZ/SAOE`
 * guided `TKPWAOEUD/-D`
 * chaos `KAEU/OS`
-* bases `PWAES/-S`
+* bases `PWAEUS/-S`
 * rats `RAT/-S`
 * dresses `TKRES/-S`
 * tanks `TAPB/-BGS`
