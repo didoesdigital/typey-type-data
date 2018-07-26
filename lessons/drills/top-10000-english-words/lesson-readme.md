@@ -6890,7 +6890,7 @@
 * loud `HROUD`
 * conjunction `KUPBGS`
 * bride `PWRAOEUD`
-* rats `RAT/-S`
+* rats `RATS`
 * defines `TKE/TPAOEUPBZ`
 * airports `AEURPS`
 * instances `EUPB/STAPBS/-S`

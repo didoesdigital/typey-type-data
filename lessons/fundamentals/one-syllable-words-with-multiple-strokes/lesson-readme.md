@@ -57,7 +57,7 @@
 * guided `TKPWAOEUD/-D`
 * chaos `KAEU/OS`
 * bases `PWAEUS/-S`
-* rats `RAT/-S`
+* rats `RATS`
 * dresses `TKRES/-S`
 * tanks `TAPB/-BGS`
 * sluts `SHRUT/-S`
