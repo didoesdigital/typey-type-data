@@ -71,7 +71,7 @@
 * fixes `TPEURBGS/-S`
 * watts `WAT/-S`
 * neo `TPHAOE/KWROE/S-P`
-* nat `TPHAT/TPHAT`
+* nat `TPH*/A*/T*`
 * trio `TREU/KWRO`
 * gras `TKPWRA/-S`
 * grande `TKPWRAPBD/SKWRE`
