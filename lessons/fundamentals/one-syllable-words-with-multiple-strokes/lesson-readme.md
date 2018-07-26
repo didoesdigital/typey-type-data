@@ -53,7 +53,7 @@
 * dicks `TKEUBG/-S`
 * ist `S-P/EUFT`
 * das `TKA/-S`
-* scsi `SKUZ/SAOE`
+* SCSI `SKUZ/SAOE`
 * guided `TKPWAOEUD/-D`
 * chaos `KAEU/OS`
 * bases `PWAES/-S`

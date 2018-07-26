@@ -6644,7 +6644,7 @@
 * sophisticated `STPEUT/KAEUFTD`
 * imposed `EUPL/POES/-D`
 * silence `SHREPBS`
-* scsi `SKUZ/SAOE`
+* SCSI `SKUZ/SAOE`
 * focuses `TPOEUBG/-S`
 * soviet `SO*EFT`
 * possession `PEFGS`
