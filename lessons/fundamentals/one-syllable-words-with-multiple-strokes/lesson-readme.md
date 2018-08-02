@@ -73,7 +73,6 @@
 * neo `TPHAOE/KWROE/S-P`
 * nat `TPH*/A*/T*`
 * trio `TREU/KWRO`
-* gras `TKPWRA/-S`
 * grande `TKPWRAPBD/SKWRE`
 * una `AOUPB/KWRA`
 * Clarke `KHRA*RBG/SKWRE`
