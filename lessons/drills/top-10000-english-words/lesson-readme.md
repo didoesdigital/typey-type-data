@@ -8242,7 +8242,7 @@
 * combining `KPWAOEUPBG`
 * Brandon `PWRAPB/TKOPB`
 * instrumental `STRAOUPLT/AL`
-* giants `SKWRAOEUPBT/-S`
+* giants `SKWRAOEUPBTS`
 * organizing `ORG/-G`
 * shed `SHED`
 * balloon `PWHRAOPB`

@@ -81,7 +81,6 @@
 * pubs `PUB/-S`
 * KA `KA/KWRA`
 * Jesse `SKWRES/AOE`
-* giants `SKWRAOEUPBT/-S`
 * lows `HROE/-S`
 * Eva `EF/KWRA`
 * mas `PHA/-S`
@@ -112,7 +111,6 @@
 * spies `SPAOEU/-S`
 * heated `HAOET/-D`
 * bras `PWRA/-S`
-* moses `PHOE/SES`
 * cakes `KAEUBG/-S`
 * abu `AB/SKWRU`
 * titled `TAOEUT/-LD`
@@ -153,6 +151,7 @@
 * landed `HRAPBD/-D`
 * sounded `SOUPBD/-D`
 * beasts `PWAOEFT/-S`
+* moses `PHOE/SES`
 * hatred `HAEU/TRED`
 * startled `START/-LD`
 * mingled `PHEUPBG/-LD`
