@@ -87,7 +87,6 @@
 * mas `PHA/-S`
 * phrases `TPRAEZ/-Z`
 * dans `TKAPB/-S`
-* locks `HROBG/-S`
 * dept `TKE/-PT`
 * eds `ED/-S`
 * disks `TKEUS/-BGS`
