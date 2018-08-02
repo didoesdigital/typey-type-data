@@ -90,7 +90,6 @@
 * locks `HROBG/-S`
 * dept `TKE/-PT`
 * eds `ED/-S`
-* twisted `TWEUFT/-D`
 * disks `TKEUS/-BGS`
 * monte `PHOPB/TAEU`
 * Luis `HRAOU/WAOES`
