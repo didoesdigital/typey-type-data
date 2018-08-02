@@ -8482,7 +8482,7 @@
 * lowly `HROE/HREU`
 * peep `PAOEP`
 * swarm `SWARPL`
-* Clarke `KHRARB/SKWRE`
+* Clarke `KHRA*RBG/SKWRE`
 * joyfully `SKWROEUFL/HREU`
 * engraved `EPB/TKPWRAEUFD`
 * ll `HR*/HR*`

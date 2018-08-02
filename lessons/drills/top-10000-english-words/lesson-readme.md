@@ -8032,7 +8032,7 @@
 * argued `ARGD`
 * dietary `TKAOEU/TREU`
 * symphony `SEUFPL/TPHEU`
-* Clarke `KHRARB/SKWRE`
+* Clarke `KHRA*RBG/SKWRE`
 * sudden `SUD`
 * accepting `SEPG`
 * precipitation `PR*EUPGS`

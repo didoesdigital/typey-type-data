@@ -76,7 +76,7 @@
 * gras `TKPWRA/-S`
 * grande `TKPWRAPBD/SKWRE`
 * una `AOUPB/KWRA`
-* Clarke `KHRARB/SKWRE`
+* Clarke `KHRA*RBG/SKWRE`
 * saints `SAEUPBT/-S`
 * pubs `PUB/-S`
 * KA `KA/KWRA`
