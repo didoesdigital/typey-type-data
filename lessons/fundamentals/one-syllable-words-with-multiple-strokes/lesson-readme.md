@@ -84,11 +84,11 @@
 * Eva `EF/KWRA`
 * mas `PHA/-S`
 * phrases `TPRAEZ/-Z`
-* dans `TKAPB/-S`
+* Dans `TKAPB/-S`
 * dept `TKE/-PT`
-* eds `ED/-S`
+* Eds `ED/-S`
 * disks `TKEUS/-BGS`
-* monte `PHOPB/TAEU`
+* Monte `PHOPB/TAEU`
 * Luis `HRAOU/WAOES`
 * Leone `HRAOE/OEPB`
 * Verde `SRERD/SKWRE`
