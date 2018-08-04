@@ -3467,7 +3467,7 @@
 * jest `SKWREFT`
 * abruptly `A/PWRUPT/HREU`
 * washed `WARBD`
-* comment `KOPLT`
+* comment `KPHEPBT`
 * metal `PH*ELT`
 * preparations `PREPGS/-S`
 * nerves `TPHEFRBZ`
@@ -7877,7 +7877,7 @@
 * quiver `KWEUFR`
 * stocks `STOBGS`
 * mourn `PHOURPB`
-* commented `KOPL/-PLTD`
+* commented `KPHEPBT/-D`
 * redistribute `RE/TKR-B`
 * precipice `PRES/PEUS`
 * outdated `AOUTD/TKAEUTD`

@@ -524,7 +524,7 @@
 * complete `KPHRAOET`
 * street `STRAOET`
 * topic `TOEUPG`
-* comment `KOPLT`
+* comment `KPHEPBT`
 * financial `TP-PBL`
 * things `THEUPBGS`
 * working `WOG`
@@ -8809,7 +8809,7 @@
 * wb `W*/PW*`
 * creatures `KRAOEFPS`
 * coating `KOEGT`
-* commented `KOPL/-PLTD`
+* commented `KPHEPBT/-D`
 * wallet `WALT`
 * cleared `KHRAOERD`
 * smilies `SPHAOEU/HRAOES`
