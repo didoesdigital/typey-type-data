@@ -2865,7 +2865,7 @@
 * butter `PWAOURT`
 * fury `TPAOU/REU`
 * marched `PHAFRPBD`
-* moses `PHOE/SES`
+* Moses `PHOE/SES`
 * writes `WRAOEUTS`
 * issued `*EURBD`
 * sailed `SAEULD`
@@ -3811,7 +3811,7 @@
 * center `STR`
 * faced `TPAEUFD`
 * cheap `KHAEP`
-* saints `SAEUPBT/-S`
+* saints `SAEUPBTS`
 * colonel `KURPBL`
 * Egyptian `E/SKWREUPGS`
 * contest `KAUPB/TEFT`
@@ -4593,7 +4593,7 @@
 * pupil `PAOUPL`
 * enjoying `EPB/SKWROEUG`
 * totally `THROELT`
-* twisted `TWEUFT/-D`
+* twisted `TWEUFTD`
 * discuss `SKUS`
 * firing `TPAOEURG`
 * background `B*K`
@@ -5376,7 +5376,7 @@
 * machines `PH-PBS`
 * bestow `PWE/STOEU`
 * chanced `KHAPBS/-D`
-* locks `HROBG/-S`
+* locks `HROBGZ`
 * honestly `HOPB/EFT/HREU`
 * legitimate `SKWREUT/PHAT`
 * accent `KP*EPBT`
@@ -6623,7 +6623,7 @@
 * factor `TPARBGT`
 * monuments `PHOPB/AOUPLTS`
 * loveliness `HR*UF/HREU/*PBS`
-* handled `HAPBD/-LD`
+* handled `HAPBLD`
 * communities `KPHAOUPBTS`
 * saloon `SHRAOPB`
 * stumbled `STUPL/-BLD`
