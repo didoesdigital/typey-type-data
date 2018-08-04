@@ -2272,7 +2272,7 @@
 * design `STKAOEUPB`
 * displayed `TKEUS/PRAEUD`
 * gets `TKPWETS`
-* commercial `KPERBL`
+* commercial `KPHERBL`
 * forgive `TPAURG`
 * lights `HRAOEUTS`
 * agreeable `TKPWRAOEBL`

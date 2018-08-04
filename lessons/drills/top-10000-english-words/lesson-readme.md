@@ -884,7 +884,7 @@
 * linux `HREUPB/UBGS`
 * jul `SKWR*UL`
 * production `PRUBGS`
-* commercial `KPERBL`
+* commercial `KPHERBL`
 * James `SKWRAEUPLZ`
 * weight `WAET`
 * town `TOUPB`
