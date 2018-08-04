@@ -247,6 +247,7 @@
 * restrictions `STREUBGS/-S`
 * tropical `PROP/K-L`
 * Toyota `TOEUT/KWRA`
+* commentary `KPHEPBT/REU`
 * Larry `HRAR/REU`
 * limousines `HREUPL/SAOEPB/-S`
 * destinations `TKEFT/TPHAEUGS/-S`
@@ -803,6 +804,7 @@
 * internationally `EUPBT/TPHAT/HREU`
 * surrounded `SROUBD/-D`
 * expedia `EBGS/PAOED/KWRA`
+* commented `KPHEPBT/-D`
 * boating `PWOET/-G`
 * corners `KRORPB/-S`
 * contacting `KABGT/-G`

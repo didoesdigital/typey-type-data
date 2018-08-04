@@ -4375,7 +4375,7 @@
 * buffer `PWUFR`
 * purple `PURPL`
 * existence `KPEUFS`
-* commentary `KPHEPB/TAER`
+* commentary `KPHEPBT/REU`
 * Larry `HRAR/REU`
 * limousines `HREUPL/SAOEPB/-S`
 * developments `SREPLTS`

@@ -21,7 +21,6 @@
 * department `TK-PT`
 * country `KREU`
 * really `R-L`
-* issues `*EURBS`
 * standard `ST-D`
 * august `AUG`
 * example `KP-PL`
