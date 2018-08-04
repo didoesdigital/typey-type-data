@@ -91,7 +91,7 @@
 * Monte `PHOPB/TAEU`
 * Luis `HRAOU/WAOES`
 * Leone `HRAOE/OEPB`
-* Verde `SRERD/SKWRE`
+* verde `SRERD/SKWRE`
 * acne `ABG/TPHE`
 * libs `HREUB/-S`
 * gays `TKPWAEU/-S`

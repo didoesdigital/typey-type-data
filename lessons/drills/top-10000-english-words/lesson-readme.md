@@ -8595,7 +8595,7 @@
 * bangbus `PW*/A*/TPH*/TKPW*/PW*/*U/S*`
 * requesting `KW-G`
 * courage `KURPBLG`
-* Verde `SRERD/SKWRE`
+* verde `SRERD/SKWRE`
 * Lauderdale `HRAUD/TKAEUL`
 * scenarios `STPHOEURS`
 * gazette `TKPWA/S*ET`
