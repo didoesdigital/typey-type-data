@@ -2294,7 +2294,7 @@
 * alike `A/HRAOEUBG`
 * mounted `PHOUPBTD`
 * Jane `SKWHRAEUB`
-* issue `*URB`
+* issue `*EURB`
 * key `KAOE`
 * providing `PROEUFGD`
 * majority `PHORPBLG`
@@ -7967,7 +7967,7 @@
 * outset `AOUT/SET`
 * constitutes `STAO*UTS`
 * lament `HRAPLT`
-* tissue `T*URB`
+* tissue `T*EURB`
 * draft `TKRAFT`
 * impelled `EUPL/PELD`
 * epic `EP/EUBG`
