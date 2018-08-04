@@ -63,7 +63,7 @@
 * gauge `TKPWAUPBLG`
 * likes `HRAOEUBGS`
 * brooks `PWRAOBGS`
-* cox `KOBGS`
+* Cox `KOBGS`
 * bench `PWEFRPB`
 * wages `WAEUPBLGS`
 * socks `SOBGS`
@@ -74,6 +74,7 @@
 * walks `WAUBGS`
 * sage `SAEUPBLG`
 * searched `SEFRPBD`
+* fixes `TPEUBGSZ`
 * racks `RABGS`
 * Tex `TEBGS`
 * rugs `RUGS`

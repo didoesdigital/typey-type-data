@@ -143,6 +143,7 @@
 * cups `KUPS`
 * sells `SELZ`
 * tap `TAP`
+* rats `RATS`
 * stat `STAT`
 * spell `SPEL`
 * prep `PREP`
