@@ -9465,7 +9465,7 @@
 * savings `SAFGS`
 * affirmative `A/TPEURPL/TEUF`
 * ills `EUL/-S`
-* applications `PHREUBGS/-S`
+* applications `PAEUBGS/-S`
 * t `T*`
 * dye `TKAO*EU`
 * Gloucester `TKPWHROS/TER`

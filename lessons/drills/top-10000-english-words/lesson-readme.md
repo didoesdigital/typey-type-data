@@ -805,7 +805,7 @@
 * sound `SOUPBD`
 * resource `SRORS`
 * present `PREPBT`
-* applications `PHREUBGS/-S`
+* applications `PAEUBGS/-S`
 * either `AOERT`
 * ago `AG`
 * document `TKOUPLT`

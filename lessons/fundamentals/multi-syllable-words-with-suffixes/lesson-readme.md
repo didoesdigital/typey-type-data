@@ -12,7 +12,7 @@
 * updated `AUP/TKAEUTD`
 * technical `TEBG/K-L`
 * downloads `TKOUPBLD/-S`
-* applications `PHREUBGS/-S`
+* applications `PAEUBGS/-S`
 * India `EUPBD/KWRA`
 * annual `APB/WAL`
 * political `PHREU/K-L`

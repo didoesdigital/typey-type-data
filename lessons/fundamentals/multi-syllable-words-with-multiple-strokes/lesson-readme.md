@@ -43,7 +43,7 @@
 * calendar `KAL/TKAR`
 * update `AUP/TKAEUT`
 * downloads `TKOUPBLD/-S`
-* applications `PHREUBGS/-S`
+* applications `PAEUBGS/-S`
 * subscribe `SAUB/KRAOEUB`
 * Germany `SKWRERPL/TPHEU`
 * linux `HREUPB/UBGS`
