@@ -40,12 +40,12 @@
 * it `T`
 * its `EUTS`
 * it's `T-S`
-* itself `T/SEF`
+* itself `T/SEFL`
 * many `PHAEPB`
 * me `PHE`
 * mine `PHAOEUPB`
 * most `PHO*S`
-* my `PHEU`
+* my `PHAOEU`
 * myself `PHAO*EUS`
 * naught `TPHAUT`
 * neither `TPHAOERT`
