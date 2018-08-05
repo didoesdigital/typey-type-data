@@ -7794,7 +7794,7 @@
 * subsequently `SWEPBT/HREU`
 * om `OPL`
 * Belarus `PWEL/RAOUS`
-* nat `TPHAT/TPHAT`
+* nat `TPH*/A*/T*`
 * zoning `SO*EPBG`
 * gravity `TKPWRA*FT`
 * providence `PROF/TKEPBS`
