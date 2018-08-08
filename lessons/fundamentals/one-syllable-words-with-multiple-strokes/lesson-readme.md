@@ -95,7 +95,7 @@
 * acne `ABG/TPHE`
 * libs `HREUB/-S`
 * gays `TKPWAEU/-S`
-* eos `E/KWROES`
+* Eos `E/KWROES`
 * charms `KHARPL/-S`
 * buses `PWUS/-S`
 * pas `PA/-S`

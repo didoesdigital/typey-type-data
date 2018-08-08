@@ -8749,7 +8749,7 @@
 * dealt `TKELT`
 * Niagara `TPHAOEUG/RA`
 * inf `*EU/TPH*/TP*`
-* eos `E/KWROES`
+* Eos `E/KWROES`
 * warcraft `WAR/KRAFT`
 * charms `KHARPL/-S`
 * catalyst `KAT/HREUFT`
