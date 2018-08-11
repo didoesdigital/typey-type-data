@@ -204,6 +204,15 @@
     "subcategory": "",
     "path": "/fundamentals/fingerspelling/lesson.txt",
     "wordCount": 26,
+    "suggestedNext": "/fundamentals/punctuation/lesson.txt"
+  },
+  {
+    "title": "Punctuation",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/punctuation/lesson.txt",
+    "wordCount": 30,
     "suggestedNext": "/drills/top-100-words/lesson.txt"
   },
   {
@@ -3024,6 +3033,6 @@
     "category": "Stories",
     "subcategory": "Aesop’s Fables",
     "path": "/stories/fables/the-nurse-and-the-wolf/lesson.txt",
-    "suggestedNext": "/drills/top-10000-english-words/lesson.txt"
+    "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
   }
 ]
