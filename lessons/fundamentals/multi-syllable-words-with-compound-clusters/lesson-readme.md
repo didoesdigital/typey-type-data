@@ -36,7 +36,7 @@
 * organization `ORGS`
 * corporation `KORPGS`
 * addition `AGS`
-* decision `SKEUGS`
+* decision `STKEUGS`
 * division `TKWEUGS`
 * registration `REGS`
 * Asian `A*EUGS`
@@ -53,7 +53,7 @@
 * technologies `TOPBLGS`
 * strategy `STRAPBLG`
 * educational `ELGS`
-* likely `HREULG`
+* likely `HRAOEULG`
 * publication `PHRAEUBGS`
 * session `SEGS`
 * republic `RUBLG`
@@ -68,7 +68,7 @@
 * evaluation `*EFLGS`
 * complex `KPHREBGS`
 * references `REFRPBSZ`
-* definition `TKUFGS`
+* definition `TKEUFGS`
 * magazines `PHAGS`
 * packages `PAPBLGS`
 * Russian `R*UGS`

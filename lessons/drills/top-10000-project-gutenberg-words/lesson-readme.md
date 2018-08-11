@@ -921,7 +921,7 @@
 * soft `SOFT`
 * straight `STRAEUT`
 * matters `PHAERTS`
-* likely `HREULG`
+* likely `HRAOEULG`
 * corner `KRORPB`
 * trademark `TRAEUD/PHARBG`
 * justice `SKWRUFS`
@@ -1428,7 +1428,7 @@
 * uncle `UPB/K-L`
 * list `HR*EUS`
 * dangerous `TKAEUPBLGS`
-* august `AUG`
+* August `AUG`
 * calm `KAUPL`
 * genius `SKWRAOEPB/KWROUS`
 * sacred `SKRED`
@@ -2359,7 +2359,7 @@
 * division `TKWEUGS`
 * slavery `SHRAEUF/REU`
 * verse `SRERS`
-* decision `SKEUGS`
+* decision `STKEUGS`
 * probable `PROB`
 * painful `PAEUFL`
 * governor `KOFRPB/O*R`
@@ -6269,7 +6269,7 @@
 * interruption `SPWRUPGS`
 * lance `HRAPBS`
 * payable `PAEUBL`
-* definition `TKUFGS`
+* definition `TKEUFGS`
 * birthday `PWEURT/TKAEU`
 * thumb `THUPL`
 * wolves `WOFLS`
@@ -8217,7 +8217,7 @@
 * liar `HRAOEUR`
 * diminish `TKPHEUPB/EURB`
 * dungeon `TKUPBGS`
-* unit `AOUBT`
+* unit `AOUPBT`
 * pagan `PAEUG/A*PB`
 * Phillips `TPEUL/EUPS`
 * brig `PWR*EUG`
@@ -8474,7 +8474,7 @@
 * knots `TPHO*T/-S`
 * wail `WAEUL`
 * kneel `TPHAOEL`
-* unlikely `UPB/HRAOEUL`
+* unlikely `UPB/HRAOEULG`
 * deceit `TKE/SAOET`
 * challenged `KHALGD`
 * geography `SKWRAOEF`

@@ -22,7 +22,7 @@
 * country `KREU`
 * really `R-L`
 * standard `ST-D`
-* august `AUG`
+* August `AUG`
 * example `KP-PL`
 * something `S-G`
 * issue `*EURB`
@@ -40,7 +40,6 @@
 * either `AOERT`
 * finance `TP-PB`
 * auto `OEUT`
-* unit `AOUBT`
 * license `HR-PB`
 * discount `TK-BG`
 * standards `ST-DZ`

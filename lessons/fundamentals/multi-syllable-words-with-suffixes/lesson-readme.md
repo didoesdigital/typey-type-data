@@ -213,7 +213,7 @@
 * density `TKEPBS/TEU`
 * statistical `STATS/K-L`
 * amended `APLD/-D`
-* definitions `TKEF/TPHEUGS/-S`
+* definitions `TKEUFGS/-S`
 * elections `HREBGS/-S`
 * enhanced `EPB/HAPBS/-D`
 * successfully `SUBG/SES/TPHREU`

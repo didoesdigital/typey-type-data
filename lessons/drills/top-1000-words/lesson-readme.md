@@ -921,7 +921,7 @@
 * soft `SOFT`
 * straight `STRAEUT`
 * matters `PHAERTS`
-* likely `HREULG`
+* likely `HRAOEULG`
 * corner `KRORPB`
 * trademark `TRAEUD/PHARBG`
 * justice `SKWRUFS`

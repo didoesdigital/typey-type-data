@@ -559,7 +559,7 @@ Top 10000 English words
 'performance': PORPLS
 'social': SOERBL
 'q': KW*
-'august': AUG
+'August': AUG
 'quote': KWOET
 'language': HRAPBL
 'story': STOER
@@ -854,7 +854,7 @@ Top 10000 English words
 'fast': TPAFT
 'function': TPUBGS
 'fact': TPABGT
-'unit': AOUBT
+'unit': AOUPBT
 'getting': TKPWEGT
 'global': TKPWHROEBL
 'tech': TEFP
@@ -1127,7 +1127,7 @@ Top 10000 English words
 'career': KRAOER
 'military': PHEUL/TAER
 'rental': REPB/TAL
-'decision': SKEUGS
+'decision': STKEUGS
 'leave': HREF
 'British': PWREURB
 'teens': TAOEPBS
@@ -1480,7 +1480,7 @@ Top 10000 English words
 'funds': TPUPBDZ
 'Mr': PH*P/R*
 'greater': TKPWRAERT
-'likely': HREULG
+'likely': HRAOEULG
 'develop': SREL
 'employees': PHROES
 'artists': TR-FTS
@@ -1785,7 +1785,7 @@ Top 10000 English words
 'critical': KR*EUL
 'frame': TPRAEUPL
 'musical': PHAO*UL
-'definition': TKUFGS
+'definition': TKEUFGS
 'secretary': SEBGT
 'Angeles': A*EPBLG/ES
 'networking': TPHERBG/-G
@@ -3948,7 +3948,7 @@ Top 10000 English words
 'bathroom': PWR-PL
 'stable': STABL
 'opera': OP/RA
-'definitions': TKEF/TPHEUGS/-S
+'definitions': TKEUFGS/-S
 'von': SROPB
 'doctors': TKR-S
 'lesson': HROEFPB
@@ -7055,7 +7055,7 @@ Top 10000 English words
 'Americas': PHERBG/-S
 'connectors': KEBG/TOR/-S
 'twinks': TW*EUPBG/-S
-'unlikely': UPB/HRAOEUL
+'unlikely': UPB/HRAOEULG
 'oe': O*/*E/SP-S
 'gif': SKPR*EUF
 'pros': PROS

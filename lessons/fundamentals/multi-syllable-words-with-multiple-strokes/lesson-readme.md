@@ -651,7 +651,7 @@
 * Honda `HOPB/TKA`
 * amended `APLD/-D`
 * opera `OP/RA`
-* definitions `TKEF/TPHEUGS/-S`
+* definitions `TKEUFGS/-S`
 * cinema `SEUPB/PHA`
 * elections `HREBGS/-S`
 * enhanced `EPB/HAPBS/-D`
@@ -1710,7 +1710,7 @@
 * Shakespeare `SHAUBG/SPAOER`
 * Americas `PHERBG/-S`
 * connectors `KEBG/TOR/-S`
-* unlikely `UPB/HRAOEUL`
+* unlikely `UPB/HRAOEULG`
 * conflicts `TPHREUBGT/-S`
 * techno `TEBG/TPHO`
 * Elvis `EL/SREUS`

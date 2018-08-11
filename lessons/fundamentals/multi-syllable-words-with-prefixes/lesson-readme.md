@@ -333,7 +333,7 @@
 * rebate `RE/PWAEUT`
 * affects `A/TPEBGZ`
 * forecasts `TPOER/KAFT/-S`
-* unlikely `UPB/HRAOEUL`
+* unlikely `UPB/HRAOEULG`
 * incorrect `EUPB/KREBGT`
 * arise `A/RAOEUS`
 * infections `EUPB/TPEBGS/-S`
