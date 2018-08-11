@@ -30,3 +30,4 @@ Punctuation
 '|': PAO*EUP
 '}': TPR*BGT
 '~': T*LD
+warning_message=Hint: use exact spacing setting

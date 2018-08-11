@@ -41,4 +41,4 @@ Prefixes
 'non^': TPHA*UPB
 'on^': AUPB
 ignore_characters='^'
-warning_message=Hint: use TK-LS between strokes, don’t type ^
+warning_message=Hint: use exact spacing setting and don’t type ^
