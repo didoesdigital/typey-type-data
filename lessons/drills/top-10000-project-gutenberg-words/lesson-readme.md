@@ -384,14 +384,14 @@
 * boy `PWOEU`
 * lost `HRO*S`
 * forth `TPO*RT`
-* thousand `THOUZ`
+* thousand `THOEUPB`
 * looking `HRAOG`
 * I'll `AOEUL`
 * family `TPAEPL`
 * soul `SOUL`
 * feel `TPAOEL`
 * coming `KO*G`
-* England `TPWHRAEPBD`
+* England `TKPWHRAEPBD`
 * spirit `SPEURT`
 * question `KWE`
 * care `KAEUR`
@@ -568,7 +568,7 @@
 * opened `OEPD`
 * pleasure `PHRERB`
 * history `HEUFRT`
-* west `WEFT`
+* West `WEFT`
 * pay `PAEU`
 * red `RED`
 * an' `APB/AE`

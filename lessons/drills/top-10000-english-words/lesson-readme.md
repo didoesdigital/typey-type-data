@@ -285,7 +285,7 @@
 * open `OEP`
 * today `TOED`
 * technology `TOPBL`
-* south `SO*UT`
+* South `SO*UT`
 * case `KAEUS`
 * project `PROPBL`
 * same `SAEUPL`
@@ -443,7 +443,7 @@
 * men `PHEPB`
 * categories `KOERGS`
 * advanced `SRAPBS/-D`
-* west `WEFT`
+* West `WEFT`
 * sales `SAELS`
 * look `HRAOBG`
 * English `TKPWHREURB`
@@ -575,7 +575,7 @@
 * important `PORPB`
 * field `TPAOELD`
 * few `TPAOU`
-* east `AOEFT`
+* East `AOEFT`
 * paper `PAEUP`
 * single `SEUPBLG`
 * ii `2-R`
@@ -1170,7 +1170,7 @@
 * shown `SHOEPB`
 * Saturday `SAET`
 * Christmas `KREUS/PHAS`
-* England `TPWHRAEPBD`
+* England `TKPWHRAEPBD`
 * culture `KURLT`
 * band `PWAPBD`
 * flash `TPHRARB`
@@ -4039,7 +4039,7 @@
 * conclusion `KHRAO*UGS`
 * closing `KHROEFG`
 * Tampa `TAPL/PA`
-* thousand `THOUZ`
+* thousand `THOEUPB`
 * meat `PHAET`
 * legend `HREGD`
 * grace `TKPWRAEUS`
