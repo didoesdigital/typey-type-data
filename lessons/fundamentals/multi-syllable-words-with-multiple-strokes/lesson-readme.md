@@ -6,13 +6,13 @@
 * software `SOF/WAEUR`
 * info `EUPB/TPO`
 * review `RE/SRAOU`
-* reviews `RAOE/SRAOUS`
+* reviews `RE/SRAOUS`
 * hotel `HOET/EL`
 * ebay `AOE/PWAEU`
 * details `TKE/TAEULS`
 * hotels `HOE/TELS`
 * address `AD/RES`
-* reserved `RAOE/SER/-FD`
+* reserved `REFRB/-D`
 * resources `RE/SORSZ`
 * reply `RE/PHREU`
 * Canada `KAPB/TKA`
@@ -44,7 +44,7 @@
 * update `AUP/TKAEUT`
 * downloads `TKOUPBLD/-S`
 * applications `PAEUBGS/-S`
-* subscribe `SAUB/KRAOEUB`
+* subscribe `SUB/SKRAOEUB`
 * Germany `SKWRERPL/TPHEU`
 * linux `HREUPB/UBGS`
 * newsletter `TPHUS/HRER`
@@ -99,7 +99,7 @@
 * Carolina `KAR/HRAOEU/TPHA`
 * overview `AUFR/SRAOU`
 * accommodation `ABG/TKAEUGS`
-* Italy `UT/HREU`
+* Italy `EUT/HREU`
 * express `EBGS/PRES`
 * award `A/WARD`
 * ensure `EPB/SHUR`
@@ -1029,6 +1029,7 @@
 * personalized `PERPBL/AOEUZ/-D`
 * Kennedy `KEPB/TKEU`
 * Vincent `SREUPB/SEPBT`
+* answered `AEPBS/-D`
 * increasingly `EUPB/KRAOES/TKPWHREU`
 * migration `PHAOEUG/RAEUGS`
 * routine `RAOU/TAOEPB`

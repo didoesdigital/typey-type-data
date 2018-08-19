@@ -266,7 +266,7 @@
 * plays `PHRAEUZ`
 * boobs `PWAOBS`
 * gray `TKPWRAEU`
-* broad `PWROD`
+* broad `PWRAOD`
 * nights `TPHAOEUTS`
 * loop `HRAOP`
 * foods `TPAODZ`

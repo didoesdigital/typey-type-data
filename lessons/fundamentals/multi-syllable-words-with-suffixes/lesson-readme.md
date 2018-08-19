@@ -23,7 +23,7 @@
 * publications `PUB/KAEUGS/-S`
 * Nokia `TPHOE/KAOE/KWRA`
 * accommodation `ABG/TKAEUGS`
-* Italy `UT/HREU`
+* Italy `EUT/HREU`
 * locations `HROEBGS/-S`
 * Canadian `KA/TPHAEUD/KWRAPB`
 * relations `RAOELGS/-S`
@@ -326,6 +326,7 @@
 * automation `AUT/PHAEUGS`
 * pending `PEPBD/-G`
 * personalized `PERPBL/AOEUZ/-D`
+* answered `AEPBS/-D`
 * titans `TAOEUT/TAPB/-S`
 * median `PHAOED/KWRAPB`
 * animated `APB/PHAEUT/-D`

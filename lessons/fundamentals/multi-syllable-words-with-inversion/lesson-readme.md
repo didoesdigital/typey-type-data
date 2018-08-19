@@ -27,7 +27,7 @@
 * designs `STKAOEUPBS`
 * binding `PWAOEUPBGD`
 * protocol `PROELT`
-* designer `STKAOERPB`
+* designer `STKAOEURPB`
 * drivers `TKRAOEUFRS`
 * slightly `SHRAOEULT`
 * officers `OEUFRS`
