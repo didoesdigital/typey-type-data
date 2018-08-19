@@ -1,6 +1,6 @@
 # One-syllable words with F as V or S
 
-* west `WEFT`
+* West `WEFT`
 * cost `KOFT`
 * test `TEFT`
 * past `PAFT`

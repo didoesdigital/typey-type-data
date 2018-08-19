@@ -8,7 +8,7 @@
 * card `KARD`
 * press `PRES`
 * course `KORS`
-* west `WEFT`
+* West `WEFT`
 * start `START`
 * cost `KOFT`
 * test `TEFT`
