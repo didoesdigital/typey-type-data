@@ -330,7 +330,7 @@
 * perhaps `PRAPS`
 * sure `SHUR`
 * indeed `TPHAOEPBD`
-* English `TPWHREURB`
+* English `TKPWHREURB`
 * open `OEP`
 * body `PWO*ED`
 * itself `T/SEF`
@@ -340,7 +340,7 @@
 * leave `HREF`
 * air `AEUR`
 * nature `TPHAEURT`
-* answered `APBSD`
+* answered `AEPBS/-D`
 * either `AOERT`
 * law `HRAU`
 * help `HEP`
@@ -352,7 +352,7 @@
 * wish `WEURB`
 * fire `TPAOEUR`
 * cried `KRAOEUD`
-* 2 `TWO/TWO*`
+* 2 `#T-`
 * women `WEUPL`
 * speak `SPAOEBG`
 * number `TPHUPL`
@@ -572,7 +572,7 @@
 * pay `PAEU`
 * red `RED`
 * an' `APB/AE`
-* 4 `TPOUR/TPO*UR`
+* 4 `#H`
 * hath `HA*T`
 * note `TPHOET`
 * although `HR*T`

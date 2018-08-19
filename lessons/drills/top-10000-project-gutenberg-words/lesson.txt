@@ -330,7 +330,7 @@ Top 10000 Project Gutenberg words
 'perhaps': PRAPS
 'sure': SHUR
 'indeed': TPHAOEPBD
-'English': TPWHREURB
+'English': TKPWHREURB
 'open': OEP
 'body': PWO*ED
 'itself': T/SEF
@@ -340,7 +340,7 @@ Top 10000 Project Gutenberg words
 'leave': HREF
 'air': AEUR
 'nature': TPHAEURT
-'answered': APBSD
+'answered': AEPBS/-D
 'either': AOERT
 'law': HRAU
 'help': HEP
@@ -352,7 +352,7 @@ Top 10000 Project Gutenberg words
 'wish': WEURB
 'fire': TPAOEUR
 'cried': KRAOEUD
-'2': TWO/TWO*
+'2': #T-
 'women': WEUPL
 'speak': SPAOEBG
 'number': TPHUPL
@@ -572,7 +572,7 @@ Top 10000 Project Gutenberg words
 'pay': PAEU
 'red': RED
 'an'': APB/AE
-'4': TPOUR/TPO*UR
+'4': #H
 'hath': HA*T
 'note': TPHOET
 'although': HR*T
@@ -1480,7 +1480,7 @@ Top 10000 Project Gutenberg words
 'distributed': TKR-BTD
 'e': *E
 'listen': HREUFPB
-'Italy': UT/HREU
+'Italy': EUT/HREU
 'fool': TPAOL
 'becomes': PW-BGS
 'watching': WAFBG
@@ -3914,7 +3914,7 @@ Top 10000 Project Gutenberg words
 'expectation': KP-PT/AEUGS
 'incomplete': EUPB/KPHRAOET
 'program': PRAPL
-'reserved': RAOE/SER/-FD
+'reserved': REFRB/-D
 'secretly': SKRELT
 'we've': WAOEF
 'invention': EUPB/SREPBGS
@@ -4597,7 +4597,7 @@ Top 10000 Project Gutenberg words
 'discuss': SKUS
 'firing': TPAOEURG
 'background': B*K
-'subscribe': SAUB/KRAOEUB
+'subscribe': SUB/SKRAOEUB
 'tenderly': TERPBD/HREU
 'transcribe': TREUB
 'descend': TKE/SEPBD

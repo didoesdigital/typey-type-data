@@ -197,7 +197,7 @@ Top 10000 English words
 'mail': PHAEUL
 'full': TPUL
 'map': PHAP
-'reviews': RAOE/SRAOUS
+'reviews': RE/SRAOUS
 'program': PRAPL
 'life': HRAOEUF
 'know': TPHOE
@@ -257,7 +257,7 @@ Top 10000 English words
 'phone': TPOEPB
 'DVD': TK*FD
 'shipping': SHEUPG
-'reserved': RAOE/SER/-FD
+'reserved': REFRB/-D
 'subject': SUBT
 'between': TWAOEPB
 'forum': TPAURPL
@@ -446,7 +446,7 @@ Top 10000 English words
 'west': WEFT
 'sales': SAELS
 'look': HRAOBG
-'English': TPWHREURB
+'English': TKPWHREURB
 'left': HREFT
 'team': TAEPL
 'estate': ES/TAEUT
@@ -866,7 +866,7 @@ Top 10000 English words
 'projects': PROPBLGZ
 'lyrics': HREURBGS
 'often': OFPB
-'subscribe': SAUB/KRAOEUB
+'subscribe': SUB/SKRAOEUB
 'submit': SPHEUT
 'Germany': SKWRERPL/TPHEU
 'amount': APLT
@@ -1354,7 +1354,7 @@ Top 10000 English words
 'TX': T*P/KP*P
 'excellent': KPHREPBT
 'paid': PAEUD
-'Italy': UT/HREU
+'Italy': EUT/HREU
 'perfect': P-F
 'hair': HAEUR
 'opportunity': TAOUPBT
@@ -2588,7 +2588,7 @@ Top 10000 English words
 'consulting': KULT/-G
 'recreation': RE/KRAEGS
 'offices': OFS/-S
-'designer': STKAOERPB
+'designer': STKAOEURPB
 'remain': RE/PHAUPB
 'managed': PHAPBGD
 'pr': P*/R*
@@ -3515,7 +3515,7 @@ Top 10000 English words
 'Jennifer': SKWREB/TPER
 'Antonio': APB/TOPB/KWROE
 'charged': KHARPBLD
-'broad': PWROD
+'broad': PWRAOD
 'Taiwan': TAOEU/WAPB
 'und': *U/TPH*/TK*
 'chosen': KHOEFPB
@@ -5261,7 +5261,7 @@ Top 10000 English words
 'jam': SKWRAPL
 'secured': SKAOURD
 'unusual': TPHAOURB
-'answered': APBSD
+'answered': AEPBS/-D
 'partnerships': P*EUPS
 'destruction': TKRUBGS
 'slots': SHROTS
