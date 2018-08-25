@@ -317,7 +317,7 @@
 * mad `PHAD`
 * gross `TKPWROS`
 * joy `SKWROEU`
-* lol `HROL`
+* lol `HR*/O*/HR*`
 * dose `TKOES`
 * bet `PWET`
 * moves `PHOFS`
