@@ -884,7 +884,7 @@
 * summer `SAOURPL`
 * provide `PROEFD`
 * study `STO*UD`
-* religion `RE/HREUGS`
+* religion `RE/HR-GS`
 * picture `P*EUFP`
 * walls `WAULS`
 * personal `PERPBL`
@@ -917,7 +917,7 @@
 * turning `TURPBG`
 * century `KROEURPBT`
 * steps `STEPS`
-* intended `EUPB/TED/-D`
+* intended `SPWEPBD/-D`
 * soft `SOFT`
 * straight `STRAEUT`
 * matters `PHAERTS`

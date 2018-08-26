@@ -1664,7 +1664,7 @@ Top 10000 English words
 'block': PWHROBG
 'subjects': SUBTS
 'agents': AEUGTS
-'increased': EUPB/KRAOES/-D
+'increased': EUPB/KRAOEFD
 'repair': RAO*EP
 'fair': TPAEUR
 'civil': SEUFL
@@ -2020,7 +2020,7 @@ Top 10000 English words
 'quickly': KWEULG
 'dollars': TKHRARS
 'websites': WEBTS
-'religion': RE/HREUGS
+'religion': RE/HR-GS
 'claim': KHRAEUPL
 'driving': TKRAOFG
 'permission': PERPLGS
@@ -2192,7 +2192,7 @@ Top 10000 English words
 'seem': SAOEPL
 'affairs': A/TPAEURS
 'touch': TUFP
-'intended': EUPB/TED/-D
+'intended': SPWEPBD/-D
 'towards': TORDZ
 'sa': SA
 'goals': TKOELS
@@ -2232,7 +2232,7 @@ Top 10000 English words
 'procedure': PRAOURD
 'leadership': HRAOERP
 'tables': TAEUBLS
-'define': TKE/TPAOEUB
+'define': TKE/TPAOEUPB
 'racing': RAEFG
 'religious': RE/HREURBS
 'facts': TPABGZ
@@ -2478,7 +2478,7 @@ Top 10000 English words
 'ne': TPH*/*E
 'truck': TRUBG
 'behavior': PWAEUFR
-'enlarge': EPB/HRARPBL
+'enlarge': EPB/HRARPBLG
 'ray': RAEU
 'frequently': TPREL
 'revenue': RAOUFPB
@@ -7599,7 +7599,7 @@ Top 10000 English words
 'collar': KHRAR
 'simultaneously': SPHULT/HREU
 'racial': RAEURBL
-'integrate': TKPWRA*EUT
+'integrate': EUPBT/TKPWRAET
 'Bermuda': PWERPL/TKA
 'Amanda': PHAPB/TKA
 'sociology': SOES/OLG

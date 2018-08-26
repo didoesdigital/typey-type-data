@@ -38,7 +38,7 @@
 * answers `AEPBS/-S`
 * instructions `EUPB/STRUBGS/-S`
 * manual `PHAPB/WAL`
-* increased `EUPB/KRAOES/-D`
+* increased `EUPB/KRAOEFD`
 * beginning `TKPWEUPB/-G`
 * updates `AUP/TKAEUTS`
 * businesses `PWEUS/-S`
@@ -67,7 +67,7 @@
 * bondage `PWOPBD/APBLG`
 * practices `PRABG/TEUS/-S`
 * designated `TKES/TPHAEUT/-D`
-* intended `EUPB/TED/-D`
+* intended `SPWEPBD/-D`
 * approximately `PROBGS/HREU`
 * recommendations `REPLGS/-S`
 * extended `EBGS/TEPBD/-D`

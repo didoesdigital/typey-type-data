@@ -35,7 +35,7 @@
 * awards `A/WARDZ`
 * instructions `EUPB/STRUBGS/-S`
 * remove `RE/PHOF`
-* increased `EUPB/KRAOES/-D`
+* increased `EUPB/KRAOEFD`
 * updates `AUP/TKAEUTS`
 * unknown `UPB/TPHOEPB`
 * detail `TKE/TAEUL`
@@ -46,16 +46,15 @@
 * announcements `A/TPHOUPBS/-PLTS`
 * replies `RE/PHRAOEUS`
 * dictionary `TKEUBGS/REU`
-* religion `RE/HREUGS`
+* religion `RE/HR-GS`
 * alone `A/HROEPB`
 * entries `EPB/TREUS`
 * integrated `EUPB/TKPWRAEUTD`
 * affairs `A/TPAEURS`
-* intended `EUPB/TED/-D`
 * affiliates `A/TPEUL/KWRAEUTS`
 * avoid `A/SROEUD`
 * interactive `EUPBT/ABGT/EUFT`
-* define `TKE/TPAOEUB`
+* define `TKE/TPAOEUPB`
 * religious `RE/HREURBS`
 * attack `A/TABG`
 * approval `A/PROFL`
@@ -65,7 +64,7 @@
 * alert `A/HRERT`
 * interview `EUPBT/SRAOU`
 * installed `EUPB/STAEUL`
-* enlarge `EPB/HRARPBL`
+* enlarge `EPB/HRARPBLG`
 * provisions `PRO/SREUGS/-S`
 * replacement `RE/PHAEUPLT`
 * recreation `RE/KRAEGS`

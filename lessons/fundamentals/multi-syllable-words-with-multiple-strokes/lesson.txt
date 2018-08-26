@@ -150,7 +150,7 @@ Multi-syllable words with multiple strokes
 'remove': RE/PHOF
 'martin': PHART/EUPB
 'manual': PHAPB/WAL
-'increased': EUPB/KRAOES/-D
+'increased': EUPB/KRAOEFD
 'beginning': TKPWEUPB/-G
 'updates': AUP/TKAEUTS
 'desktop': TKEFBG/TOP
@@ -201,7 +201,7 @@ Multi-syllable words with multiple strokes
 'sections': SEBGS/-S
 'apparel': AP/PARL
 'Johnson': SKWROPB/SOPB
-'religion': RE/HREUGS
+'religion': RE/HR-GS
 'generation': SKWREB/RAEUGS
 'Santa': SAPB/TA
 'Israel': EUZ/RAEL
@@ -227,14 +227,14 @@ Multi-syllable words with multiple strokes
 'porno': PO/TPHOE
 'Motorola': PHOET/ROE/HRA
 'affairs': A/TPAEURS
-'intended': EUPB/TED/-D
+'intended': SPWEPBD/-D
 'affiliates': A/TPEUL/KWRAEUTS
 'magic': PHA/SKWREUBG
 'Latin': HRA/TEUPB
 'avoid': A/SROEUD
 'interactive': EUPBT/ABGT/EUFT
 'quarter': KWAR/TER
-'define': TKE/TPAOEUB
+'define': TKE/TPAOEUPB
 'religious': RE/HREURBS
 'breakfast': PWREBG/TPAFT
 'approximately': PROBGS/HREU
@@ -282,7 +282,7 @@ Multi-syllable words with multiple strokes
 'installed': EUPB/STAEUL
 'credits': KRED/EUTS
 'Diego': TKAOEG/TKPWOE
-'enlarge': EPB/HRARPBL
+'enlarge': EPB/HRARPBLG
 'changing': KHAPBG/-G
 'discussions': SKUGS/-S
 'festival': SREFT/SRAL
@@ -1916,6 +1916,7 @@ Multi-syllable words with multiple strokes
 'attitudes': AD/TAOUDZ
 'berry': PWER/REU
 'simultaneously': SPHULT/HREU
+'integrate': EUPBT/TKPWRAET
 'Bermuda': PWERPL/TKA
 'Amanda': PHAPB/TKA
 'sociology': SOES/OLG
