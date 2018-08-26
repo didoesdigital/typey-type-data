@@ -201,7 +201,7 @@
 * sections `SEBGS/-S`
 * apparel `AP/PARL`
 * Johnson `SKWROPB/SOPB`
-* religion `RE/HRUGS`
+* religion `RE/HREUGS`
 * generation `SKWREB/RAEUGS`
 * Santa `SAPB/TA`
 * Israel `EUZ/RAEL`

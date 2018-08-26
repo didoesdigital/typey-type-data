@@ -2020,7 +2020,7 @@
 * quickly `KWEULG`
 * dollars `TKHRARS`
 * websites `WEBTS`
-* religion `RE/HRUGS`
+* religion `RE/HREUGS`
 * claim `KHRAEUPL`
 * driving `TKRAOFG`
 * permission `PERPLGS`

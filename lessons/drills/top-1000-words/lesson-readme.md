@@ -884,7 +884,7 @@
 * summer `SAOURPL`
 * provide `PROEFD`
 * study `STO*UD`
-* religion `RE/HRUGS`
+* religion `RE/HREUGS`
 * picture `P*EUFP`
 * walls `WAULS`
 * personal `PERPBL`

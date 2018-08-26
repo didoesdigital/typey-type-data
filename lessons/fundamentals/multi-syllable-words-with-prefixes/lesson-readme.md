@@ -46,7 +46,7 @@
 * announcements `A/TPHOUPBS/-PLTS`
 * replies `RE/PHRAOEUS`
 * dictionary `TKEUBGS/REU`
-* religion `RE/HRUGS`
+* religion `RE/HREUGS`
 * alone `A/HROEPB`
 * entries `EPB/TREUS`
 * integrated `EUPB/TKPWRAEUTD`
