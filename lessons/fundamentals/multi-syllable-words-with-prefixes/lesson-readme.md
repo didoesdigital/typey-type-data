@@ -66,10 +66,10 @@
 * installed `EUPB/STAEUL`
 * enlarge `EPB/HRARPBLG`
 * provisions `PRO/SREUGS/-S`
-* replacement `RE/PHAEUPLT`
+* replacement `RE/PHRAEUPLT`
 * recreation `RE/KRAEGS`
 * remain `RE/PHAUPB`
-* displayed `TKEUS/PRAEUD`
+* displayed `TKEUS/PHRAEUD`
 * reviewed `RAOE/SRAOUD`
 * forecast `TPOER/KAFT`
 * removed `RE/PHOFD`
@@ -83,13 +83,13 @@
 * amendment `A/PHEPLT`
 * adobe `A/TKOEB`
 * improved `EUPL/PROFD`
-* achieve `A/HAOEF`
+* achieve `A/KHAOEF`
 * removal `RE/PHOFL`
 * relief `RE/HRAOEF`
 * revision `RE/SREUGS`
 * aware `A/WAEUR`
 * remains `RE/PHAEUPBS`
-* encyclopedia `EPB/SAOEUBG/AOED/KWRA`
+* encyclopedia `EPB/SAOEUBG/PAOED/KWRA`
 * interracial `SPWR/RAEURBL`
 * attempt `A/TEPLT`
 * accordance `A/KORD/APBS`
@@ -99,7 +99,6 @@
 * agenda `A/SKWREPBD/A`
 * unlimited `UPB/HREUPLT/-D`
 * enforcement `EPB/TPORPLT`
-* unix `AOUPB/EUBGS`
 * attractions `A/TRABGS/-S`
 * attached `A/TAFPD`
 * adopted `A/TKOPTD`

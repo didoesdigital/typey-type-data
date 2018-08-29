@@ -2563,7 +2563,7 @@
 * rural `RURL`
 * shared `SHAEURD`
 * sounds `SOUPBDZ`
-* replacement `RE/PHAEUPLT`
+* replacement `RE/PHRAEUPLT`
 * tape `TAEUP`
 * strategic `STRAO*EBG`
 * judge `SKWRUPBL`
@@ -2677,7 +2677,7 @@
 * departments `TK-PTS`
 * residents `R*EPBTS`
 * noted `TPHOETD`
-* displayed `TKEUS/PRAEUD`
+* displayed `TKEUS/PHRAEUD`
 * mom `PHOPL`
 * reduced `RAOUFD`
 * physics `TPEUZ/EUBGS`
@@ -2865,7 +2865,7 @@
 * improved `EUPL/PROFD`
 * trees `TRAOES`
 * avg `A*/SR*/TKPW*`
-* achieve `A/HAOEF`
+* achieve `A/KHAOEF`
 * positions `POGS/-S`
 * dress `TKRES`
 * subscription `SKR*EUPGS`
@@ -3029,7 +3029,7 @@
 * operator `PROERT`
 * structures `STRAOUFPS`
 * generic `SKWREPB/ERBG`
-* encyclopedia `EPB/SAOEUBG/AOED/KWRA`
+* encyclopedia `EPB/SAOEUBG/PAOED/KWRA`
 * usage `AO*UPBLG`
 * cap `KAP`
 * ink `*UPBG`
@@ -3258,7 +3258,7 @@
 * celebrity `SHREBT`
 * styles `STAOEULS`
 * Denver `TKEPB/SRER`
-* unix `AOUPB/EUBGS`
+* UNIX `AOUPB/EUBGS`
 * filled `TPEULD`
 * bond `PWOPBD`
 * channels `KHAPBLS`

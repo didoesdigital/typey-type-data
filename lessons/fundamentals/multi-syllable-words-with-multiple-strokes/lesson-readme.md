@@ -299,7 +299,7 @@
 * expression `EBGS/PREGS`
 * provisions `PRO/SREUGS/-S`
 * suggestions `SUGS/-S`
-* replacement `RE/PHAEUPLT`
+* replacement `RE/PHRAEUPLT`
 * obtain `OB/TAEUPB`
 * consulting `KULT/-G`
 * recreation `RE/KRAEGS`
@@ -318,7 +318,7 @@
 * Miami `PHOEUPL/PHEU`
 * postal `POS/TAL`
 * representative `REP/TEUF`
-* displayed `TKEUS/PRAEUD`
+* displayed `TKEUS/PHRAEUD`
 * physics `TPEUZ/EUBGS`
 * reviewed `RAOE/SRAOUD`
 * forecast `TPOER/KAFT`
@@ -364,7 +364,7 @@
 * adobe `A/TKOEB`
 * Alabama `AL/PWAPL`
 * improved `EUPL/PROFD`
-* achieve `A/HAOEF`
+* achieve `A/KHAOEF`
 * positions `POGS/-S`
 * Panasonic `PAPB/SOPB/EUBG`
 * permalink `PERPL/KWRA/HREUPBG`
@@ -401,7 +401,7 @@
 * remains `RE/PHAEUPBS`
 * greatest `TKPWRAET/EFT`
 * generic `SKWREPB/ERBG`
-* encyclopedia `EPB/SAOEUBG/AOED/KWRA`
+* encyclopedia `EPB/SAOEUBG/PAOED/KWRA`
 * census `KEPBS/US`
 * interracial `SPWR/RAEURBL`
 * tracking `TRABG/-G`
@@ -459,7 +459,7 @@
 * booking `PWAOBG/-G`
 * glossary `TKPWHROS/REU`
 * Denver `TKEPB/SRER`
-* unix `AOUPB/EUBGS`
+* UNIX `AOUPB/EUBGS`
 * appendix `PEPBD/EUBGS`
 * chocolate `KHOBG/HRAT`
 * cotton `KOT/OPB`

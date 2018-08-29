@@ -2270,7 +2270,7 @@
 * render `RERPBD`
 * career `KRAOER`
 * design `STKAOEUPB`
-* displayed `TKEUS/PRAEUD`
+* displayed `TKEUS/PHRAEUD`
 * gets `TKPWETS`
 * commercial `KPHERBL`
 * forgive `TPAURG`
@@ -2338,7 +2338,7 @@
 * files `TPAOEULS`
 * reasonable `R-PBL`
 * sugar `SHURG`
-* replacement `RE/PHAEUPLT`
+* replacement `RE/PHRAEUPLT`
 * sigh `SAOEU`
 * humanity `HAOUPLT`
 * thrust `THRUFT`
@@ -7321,7 +7321,7 @@
 * watches `WAFPS`
 * cong. `KAUPBG/TP-PL`
 * episode `EP/SOED`
-* achieve `A/HAOEF`
+* achieve `A/KHAOEF`
 * populace `POP/HRAS`
 * Sherman `SHER/PHAPB`
 * incense `EUPB/SEPBS`
