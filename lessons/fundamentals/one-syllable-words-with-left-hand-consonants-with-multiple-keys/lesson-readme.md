@@ -465,7 +465,7 @@
 * mere `PHAOER`
 * dig `TKEUG`
 * fate `TPAEUT`
-* gui `TKPWRAOEU`
+* GUI `TKPWRAOEU`
 * breeds `PWRAOEDZ`
 * mess `PHES`
 * lit `HREUT`
@@ -479,7 +479,7 @@
 * graphs `TKPWRAFS`
 * smell `SPHEL`
 * Jill `SKWREUL`
-* nerve `TPHEFB`
+* nerve `TPHEFRB`
 * jar `SKWRAR`
 * dare `TKAEUR`
 * ui `KWRAOEU`
