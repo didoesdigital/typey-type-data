@@ -3926,7 +3926,7 @@
 * antiques `APB/TAOEBG/-S`
 * density `TKEPBS/TEU`
 * hundred `HUPBD`
-* Ryan `RAOEU/A*PB`
+* Ryan `RAOEUPB`
 * operators `PRAEUT/TORS`
 * strange `STRAEUPBG`
 * sustainable `STAEUPBL`
@@ -8133,7 +8133,7 @@
 * screensavers `SKRAOEPB/SAFRS`
 * subdivision `SUB/TKWEUGS`
 * tribes `TRAOEUBS`
-* vip `SREUP`
+* VIP `SREUP`
 * defeat `TKE/TPAOET`
 * clicks `KHREUBGS`
 * distinction `TKWEUPBGS`
@@ -8376,7 +8376,7 @@
 * savannah `SA/SRA/TPHA`
 * barrel `PWARL`
 * typing `TAOEUPG`
-* nerve `TPHEFB`
+* nerve `TPHEFRB`
 * Dans `TKAPB/-S`
 * planets `PHRA*PBTS`
 * deficit `TK*EFT`
@@ -8441,7 +8441,7 @@
 * centuries `KREPBT/REUS`
 * gl `TKPW*/HR*`
 * magnitude `PHAG/TAOUD`
-* UI `*U/AO*EU`
+* UI `*UP/*EUP`
 * Richardson `HREUFP/ARD/SO*PB`
 * Hindu `HEUPB/TKAOU`
 * dh `TK*/H*`
@@ -8758,7 +8758,7 @@
 * allowance `HROUPBS`
 * vcr `SR-RBGS/KR*R`
 * denial `TKE/TPHAOEUL`
-* uri `KWRUR`
+* URI `*UP/R*P/AO*EUP`
 * designation `TKEZ/TPHAEUGS`
 * thrown `THROEPB`
 * prepaid `PRAOE/PAEUD`

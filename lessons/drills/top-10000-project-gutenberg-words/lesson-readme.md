@@ -4979,7 +4979,7 @@
 * Austrian `AUFRT/KWRAP`
 * Saxon `SABGS/O*PB`
 * congregation `KOPBG/TKPWAEUGS`
-* nerve `TPHEFB`
+* nerve `TPHEFRB`
 * undertaking `UPBD/TAEUG/-G`
 * disclaimer `TKEUS/KHRAEURPL`
 * characteristics `KREUBGS`
@@ -5927,7 +5927,7 @@
 * circular `SEUR/KHRAR`
 * securing `SKAOURG`
 * possibilities `POBLTS`
-* Rhine `RAOEUPB`
+* Rhine `RAO*EUPB`
 * alert `A/HRERT`
 * neighboring `TPHAEUB/-G`
 * democratic `TKEPL/RAT/EUBG`

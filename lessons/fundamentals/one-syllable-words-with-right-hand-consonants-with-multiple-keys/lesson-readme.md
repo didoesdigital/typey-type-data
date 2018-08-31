@@ -330,7 +330,6 @@
 * stamped `STA*PLD`
 * hedge `HEPBL`
 * storms `STORPLS`
-* Rhine `RAOEUPB`
 * pint `PAOEUPBT`
 * crowns `KROUPBS`
 * scream `SKRAOEPL`

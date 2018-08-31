@@ -473,13 +473,12 @@
 * grave `TKPWRAEUF`
 * duo `TKWOE`
 * fog `TPOG`
-* vip `SREUP`
+* VIP `SREUP`
 * mild `PHAOEULD`
 * fur `TPUR`
 * graphs `TKPWRAFS`
 * smell `SPHEL`
 * Jill `SKWREUL`
-* nerve `TPHEFB`
 * jar `SKWRAR`
 * dare `TKAEUR`
 * nails `TPHAEULS`
@@ -495,7 +494,6 @@
 * fears `TPAOERZ`
 * dressed `TKREFD`
 * dealt `TKELT`
-* uri `KWRUR`
 * yeast `KWRAOEFT`
 * bite `PWAOEUT`
 * gig `TKPWEUG`
