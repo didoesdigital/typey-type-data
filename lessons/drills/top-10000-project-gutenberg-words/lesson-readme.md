@@ -3766,7 +3766,7 @@
 * travelled `TRAFLD/A*U`
 * ward `WARD`
 * nephew `TPHEF/AOU`
-* ms `PHOEUS`
+* MS `PHOEUS`
 * cheer `KHAOER`
 * bloody `PWHRAO/TKEU`
 * siege `SAOEPBLG`

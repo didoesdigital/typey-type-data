@@ -479,10 +479,9 @@
 * graphs `TKPWRAFS`
 * smell `SPHEL`
 * Jill `SKWREUL`
-* nerve `TPHEFRB`
+* nerve `TPHEFB`
 * jar `SKWRAR`
 * dare `TKAEUR`
-* ui `KWRAOEU`
 * nails `TPHAEULS`
 * nut `TPHUT`
 * builds `PWEULDZ`

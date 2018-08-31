@@ -1174,7 +1174,7 @@
 * culture `KURLT`
 * band `PWAPBD`
 * flash `TPHRARB`
-* ms `PHOEUS`
+* MS `PHOEUS`
 * lead `HRAED`
 * George `SKWRORPBLG`
 * choice `KHOEUS`
@@ -7898,7 +7898,7 @@
 * Minolta `PH*P/*EU/TPH*/O*/HR*/T*/A*`
 * republicans `RE/PUB/HREUBG/APB/-S`
 * discusses `SK*UFS`
-* gui `TKPWRAOEU`
+* GUI `TKPWRAOEU`
 * porter `POR/TER`
 * gras `TKPWRAZ`
 * jungle `SKWRUPBG/-L`
@@ -8441,7 +8441,7 @@
 * centuries `KREPBT/REUS`
 * gl `TKPW*/HR*`
 * magnitude `PHAG/TAOUD`
-* ui `KWRAOEU`
+* UI `*U/AO*EU`
 * Richardson `HREUFP/ARD/SO*PB`
 * Hindu `HEUPB/TKAOU`
 * dh `TK*/H*`
