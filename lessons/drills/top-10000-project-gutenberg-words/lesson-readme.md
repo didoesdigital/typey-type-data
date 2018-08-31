@@ -5702,7 +5702,7 @@
 * diseases `STKAOESZ`
 * Ferdinand `TPERD/TPHAPBD`
 * obedient `OE/PWAOEPBT`
-* draught `TKRAUT`
+* draught `TKRAUFT`
 * wondrous `WOPBD/ROUS`
 * await `A/WAEUT`
 * armour `AR/PHOUR`

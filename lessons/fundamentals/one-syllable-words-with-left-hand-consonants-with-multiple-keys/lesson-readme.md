@@ -624,7 +624,7 @@
 * dug `TKUG`
 * Jove `SKWROEF`
 * drift `TKREUFT`
-* draught `TKRAUT`
+* draught `TKRAUFT`
 * glare `TKPWHRAEUR`
 * freed `TPRAOED`
 * bud `PWUD`
