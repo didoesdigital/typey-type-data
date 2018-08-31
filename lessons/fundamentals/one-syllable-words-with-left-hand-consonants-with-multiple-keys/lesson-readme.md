@@ -110,7 +110,7 @@
 * bid `PWEUD`
 * move `PHOF`
 * nice `TPHAOEUS`
-* ms `PHOEUS`
+* MS `PHOEUS`
 * lead `HRAED`
 * mode `PHOED`
 * Los `HROES`
