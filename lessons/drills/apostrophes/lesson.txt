@@ -1,17 +1,17 @@
 Apostrophes
 
 'don't': TKOEPBT
-'that's': TH-TS
-'what's': WHA*S
+'that's': THATS
+'what's': WHATS
 'no one's': TPHO/W*UPBS
 'he'll': *EL
-''em': *EPL
+''em': AOE/EPL
 ''em think': *EPL/THEU
 'you'd': UD
 ''60s': A*E/0EU6/-S
 ''70s': A*E/0EU7/-S
 ''50s': A*E/50/-S
-''60': A*E/OEUF
+''60': A*E/0EU6
 ''burb': AE/PWURB
 ''burbs': AE/PWURB/-S
 ''s': AES/ES
@@ -20,7 +20,7 @@ Apostrophes
 'he'd': HAOED
 'I've': AOEUF
 'I'm': AOEUPL
-'I'd': EUD/AE
+'I'd': AOEUD
 'I'd like to know': AOEUD/HAOEUBG/TO/TPHOE
 'I'll': AOEUL
 'I'll edit': AOEUL/ETD
@@ -33,14 +33,14 @@ Apostrophes
 'I'm anxious': AOEUPL/SHUS
 'I'm dating': AOEUPL/TKAEUGT
 'you've': UF
-'he didn't': E/TKEUBT
+'he didn't': E/TKEUPBT
 'everything's': EFRGS
 'else's': ELS/AES
 'early '80': ERL/AE/0EU8
 'insured's': STPHURD/AES
 'it'll': T-L
 'it'd': T*D
-'it's': T*S
+'it's': T-S
 'hadn't': H-PBT
 'hadn't seen it': H-PBT/STAOEPB
 'hasn't': HAEPBT
@@ -68,7 +68,7 @@ Apostrophes
 'husbands'': HUS/-S/AE
 'husband's': HUS/AES
 'company's': K-P/AES
-'can't': KAPBT
+'can't': K-PBT
 'companies'': K-PS/AE
 ''cause': KAUS/AE
 'coup d'etat': KAOUD/TA
@@ -207,7 +207,7 @@ Apostrophes
 'c'est': SKR*EFT
 'c'est moi': SKR*EFT/PHOEU
 'jack o'lantern': SKWRABG/OE/HRAPBT/ERPB
-'gentleman's': SKWRA*PL AES
+'gentleman's': SKWRA*PL/AES
 'gentlemen's': SKWRE/AES
 'jury's': SKWREUR/AES
 's'more': SPHOR
@@ -259,7 +259,7 @@ Apostrophes
 'that's one': THAT/WUPB
 'that's just the': THATS/SKWR*UF/-T
 'that's how it': THATS/THOU
-'that's because': THATSZ/PW-S
+'that's because': THATS/PWAU
 'that you're': THAUR
 'they can't': THEBG/-PBT
 'they haven't': THEFPBT
@@ -352,12 +352,12 @@ Apostrophes
 'you're at': UR/ALT
 'you're looking': UR/RAOBG/-G
 'you aren't': URPBT
-'we've': W*EF
+'we've': WAOEF
 'one's': W*UPBS
 'where'd': W-RD
 'weren't': WR-PBT
 'where's': W-RS
-'wasn't': WUPBT
+'wasn't': WAEPBT
 'we'll': WAOEL
 'we've got': WAOE/TKPWOFT
 'we'd': WAOED
@@ -406,7 +406,7 @@ Apostrophes
 'workers' comp': WOFRP
 'workers' compensation': WOFRPGS
 'wouldn't': WOPBT
-'woman's': WOPL AES
+'woman's': WOPL/AES
 'workman's': WORBG/PHAPB/AES
 'workmen's': WORBG/PHEPB/AES
 'world's': WORLD/AES
@@ -418,6 +418,6 @@ Apostrophes
 'where you haven't': WRUFPBT
 'where you aren't': WRURPBT
 'one's self': WUPB/AES/SEFL
-'counsellor's': KOUPBL/A*U AES
+'counsellor's': KOUPBL/A*U/AES
 'g'day': TKPW* AE TKAEU
 'driver's licence': TKR-LS/A*U
