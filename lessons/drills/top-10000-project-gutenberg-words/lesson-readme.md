@@ -4324,7 +4324,7 @@
 * suspended `SUS/PEPBD/-D`
 * reform `RORPL`
 * mob `PHOB`
-* thirst `THUFRT`
+* thirst `THEUFRT`
 * unnecessary `UPB/TPHES`
 * treasures `TR-RBS`
 * asks `SK-S`
@@ -7645,7 +7645,7 @@
 * taxation `TA*EUBGS`
 * frenzy `TPREPB/SEU`
 * horizontal `SO*PBL`
-* thirsty `THURS/TEU`
+* thirsty `THEURS/TEU`
 * disputed `TKEUS/PAOUT/-D`
 * charter `KHAR/TER`
 * redistribution `TKEUZ/TKR-BGS`
