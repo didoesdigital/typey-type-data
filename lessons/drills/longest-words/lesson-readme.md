@@ -42,7 +42,7 @@
 * misrepresentation `PHEUS/REPGS`
 * misunderstandings `PHURPBGDZ`
 * multigenerational `PHULT/SKWREPB/RAEUGS/A*L`
-* telecommunication `T*EL/KAEUBGS`
+* telecommunication `TEL/KPHAOUPB/KAEUGS`
 * transgenerational `TRAPBS/SKWREPB/RAEUGS/A*L`
 * ultraconservative `URLT/KAUPB/SEFRB/TEUF`
 * Transatlanticism `TRAPBS/AT/HRAPBG/EUFPL`
