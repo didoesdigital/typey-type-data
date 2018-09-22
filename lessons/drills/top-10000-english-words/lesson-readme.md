@@ -5566,7 +5566,7 @@
 * merely `PHAOERL`
 * calendars `KAL/TKARS`
 * arrangement `ARPBG/*PLT`
-* conclusions `KAUPB/KHRAOUG/-S`
+* conclusions `KHRAOUPBGSZ`
 * passes `PA*FS`
 * bibliography `PWUBL/OG/TPEU`
 * pointer `POEURPBT`
