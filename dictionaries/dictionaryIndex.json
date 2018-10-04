@@ -1,6 +1,7 @@
 [
   {
-    "title": "Typey Type",
+    "author": "Typey Type",
+    "title": "Dictionary",
     "subtitle": "",
     "category": "Typey Type",
     "subcategory": "",
@@ -9,7 +10,8 @@
     "path": "/dictionaries/typey-type/typey-type.json"
   },
   {
-    "title": "Plover main Aug 16, 2017",
+    "author": "Plover",
+    "title": "Main Aug 16, 2017",
     "subtitle": "",
     "category": "Plover",
     "subcategory": "",
@@ -18,6 +20,17 @@
     "path": "/dictionaries/plover/main-16-aug-2017.json"
   },
   {
+    "author": "Di Does Digital",
+    "title": "Navigation",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "",
+    "tagline": "Di Does Digital’s Mac navigation dictionary lets you switch tabs, windows, and apps, as well as navigate and edit text efficiently. You can move your cursor by letter, word, or line, select while doing so, and also backspace or forward delete by character, word, or line.",
+    "link": "https://github.com/dimonster/plover-dictionaries#navigation-dictionary",
+    "path": "/dictionaries/didoesdigital/navigation.json"
+  },
+  {
+    "author": "Typey Type",
     "title": "One-syllable words with simple keys",
     "subtitle": "",
     "category": "Fundamentals",
@@ -25,6 +38,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with more consonants",
     "subtitle": "",
     "category": "Fundamentals",
@@ -32,6 +46,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-more-consonants/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with F as V or S",
     "subtitle": "",
     "category": "Fundamentals",
@@ -39,6 +54,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with unstressed vowels",
     "subtitle": "",
     "category": "Fundamentals",
@@ -46,6 +62,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with inversion",
     "subtitle": "",
     "category": "Fundamentals",
@@ -53,6 +70,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-inversion/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with short I vowel",
     "subtitle": "",
     "category": "Fundamentals",
@@ -60,6 +78,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with short vowels",
     "subtitle": "",
     "category": "Fundamentals",
@@ -67,6 +86,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-short-vowels/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with long vowels",
     "subtitle": "",
     "category": "Fundamentals",
@@ -74,6 +94,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-long-vowels/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with diphthongs",
     "subtitle": "",
     "category": "Fundamentals",
@@ -81,6 +102,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with vowel disambiguators",
     "subtitle": "",
     "category": "Fundamentals",
@@ -88,6 +110,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with left-hand consonants with multiple keys",
     "subtitle": "",
     "category": "Fundamentals",
@@ -95,6 +118,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with right-hand consonants with multiple keys",
     "subtitle": "",
     "category": "Fundamentals",
@@ -102,6 +126,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with digraphs",
     "subtitle": "",
     "category": "Fundamentals",
@@ -109,6 +134,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with compound clusters",
     "subtitle": "",
     "category": "Fundamentals",
@@ -116,6 +142,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "One-syllable words with multiple strokes",
     "subtitle": "",
     "category": "Fundamentals",
@@ -123,6 +150,7 @@
     "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Multi-syllable words with compound clusters",
     "subtitle": "",
     "category": "Fundamentals",
@@ -130,6 +158,7 @@
     "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Multi-syllable words with inversion",
     "subtitle": "",
     "category": "Fundamentals",
@@ -137,6 +166,7 @@
     "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Multi-syllable words with briefs",
     "subtitle": "",
     "category": "Fundamentals",
@@ -144,6 +174,7 @@
     "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Multi-syllable words with prefixes",
     "subtitle": "",
     "category": "Fundamentals",
@@ -151,6 +182,7 @@
     "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Multi-syllable words with suffixes",
     "subtitle": "",
     "category": "Fundamentals",
@@ -158,6 +190,7 @@
     "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Multi-syllable words with doubled consonant letters",
     "subtitle": "",
     "category": "Fundamentals",
@@ -165,6 +198,7 @@
     "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Multi-syllable words with multiple strokes",
     "subtitle": "",
     "category": "Fundamentals",
@@ -172,6 +206,7 @@
     "path": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Fingerspelling",
     "subtitle": "",
     "category": "Fundamentals",
@@ -179,6 +214,7 @@
     "path": "/lessons/fundamentals/fingerspelling/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Punctuation",
     "subtitle": "",
     "category": "Fundamentals",
@@ -186,6 +222,7 @@
     "path": "/lessons/fundamentals/punctuation/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Numbers",
     "subtitle": "",
     "category": "Fundamentals",
@@ -193,6 +230,7 @@
     "path": "/lessons/fundamentals/numbers/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Top 100 words",
     "subtitle": "",
     "category": "Drills",
@@ -200,6 +238,7 @@
     "path": "/lessons/drills/top-100-words/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Top 1000 words",
     "subtitle": "",
     "category": "Drills",
@@ -207,6 +246,7 @@
     "path": "/lessons/drills/top-1000-words/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Top 10000 Project Gutenberg words",
     "subtitle": "",
     "category": "Drills",
@@ -214,6 +254,7 @@
     "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Top 10000 English words",
     "subtitle": "",
     "category": "Drills",
@@ -221,6 +262,7 @@
     "path": "/lessons/drills/top-10000-english-words/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Longest Words",
     "subtitle": "",
     "category": "Drills",
@@ -228,6 +270,7 @@
     "path": "/lessons/drills/longest-words/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Common Words",
     "subtitle": "",
     "category": "Drills",
@@ -235,6 +278,7 @@
     "path": "/lessons/drills/common-words/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Single-Stroke Briefs",
     "subtitle": "",
     "category": "Drills",
@@ -242,6 +286,7 @@
     "path": "/lessons/drills/single-stroke-briefs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Apostrophes",
     "subtitle": "",
     "category": "Drills",
@@ -249,6 +294,7 @@
     "path": "/lessons/drills/apostrophes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Email Salutations and Complimentary Closings",
     "subtitle": "",
     "category": "Drills",
@@ -256,6 +302,7 @@
     "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Homophones",
     "subtitle": "",
     "category": "Drills",
@@ -263,6 +310,7 @@
     "path": "/lessons/drills/homophones/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Pronouns",
     "subtitle": "",
     "category": "Drills",
@@ -270,6 +318,7 @@
     "path": "/lessons/drills/pronouns/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Pronouns continued",
     "subtitle": "",
     "category": "Drills",
@@ -277,6 +326,7 @@
     "path": "/lessons/drills/pronouns-continued/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Pronouns and Contractions",
     "subtitle": "",
     "category": "Drills",
@@ -284,6 +334,7 @@
     "path": "/lessons/drills/pronouns-contractions/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Titles",
     "subtitle": "",
     "category": "Drills",
@@ -291,6 +342,7 @@
     "path": "/lessons/drills/titles/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Calendar",
     "subtitle": "",
     "category": "Drills",
@@ -298,6 +350,7 @@
     "path": "/lessons/drills/calendar/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Time",
     "subtitle": "",
     "category": "Drills",
@@ -305,6 +358,7 @@
     "path": "/lessons/drills/time/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Emotions",
     "subtitle": "",
     "category": "Drills",
@@ -312,6 +366,7 @@
     "path": "/lessons/drills/emotions/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Superlatives",
     "subtitle": "",
     "category": "Drills",
@@ -319,6 +374,7 @@
     "path": "/lessons/drills/superlatives/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "FR: -fer",
     "subtitle": "",
     "category": "Drills",
@@ -326,6 +382,7 @@
     "path": "/lessons/drills/fr-fer/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "FR: -ver",
     "subtitle": "",
     "category": "Drills",
@@ -333,6 +390,7 @@
     "path": "/lessons/drills/fr-ver/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Prefixes",
     "subtitle": "",
     "category": "Drills",
@@ -340,6 +398,7 @@
     "path": "/lessons/drills/prefixes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Suffixes",
     "subtitle": "",
     "category": "Drills",
@@ -347,6 +406,7 @@
     "path": "/lessons/drills/suffixes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Suffix and prefix briefs",
     "subtitle": "",
     "category": "Drills",
@@ -354,6 +414,7 @@
     "path": "/lessons/drills/suffix-and-prefix-briefs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Two Letter Words: Common",
     "subtitle": "",
     "category": "Drills",
@@ -361,6 +422,7 @@
     "path": "/lessons/drills/two-letter-words-common/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Two Letter Words: Rare",
     "subtitle": "",
     "category": "Drills",
@@ -368,6 +430,7 @@
     "path": "/lessons/drills/two-letter-words-rare/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Steno party tricks",
     "subtitle": "",
     "category": "Drills",
@@ -375,6 +438,7 @@
     "path": "/lessons/drills/steno-party-tricks/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "UX design vocabulary",
     "subtitle": "",
     "category": "Collections",
@@ -382,6 +446,7 @@
     "path": "/lessons/collections/user-experience/ux-vocabulary/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "jQuery",
     "subtitle": "",
     "category": "Collections",
@@ -389,6 +454,7 @@
     "path": "/lessons/collections/tech/jquery/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Haxe",
     "subtitle": "",
     "category": "Collections",
@@ -396,6 +462,7 @@
     "path": "/lessons/collections/tech/haxe/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "CSS alignment",
     "subtitle": "",
     "category": "Collections",
@@ -403,6 +470,7 @@
     "path": "/lessons/collections/tech/css-alignment/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "CSS media object",
     "subtitle": "",
     "category": "Collections",
@@ -410,6 +478,7 @@
     "path": "/lessons/collections/tech/css-media-object/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "CSS declarations",
     "subtitle": "",
     "category": "Collections",
@@ -417,6 +486,7 @@
     "path": "/lessons/collections/tech/css-declarations/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Ruby",
     "subtitle": "",
     "category": "Collections",
@@ -424,6 +494,7 @@
     "path": "/lessons/collections/tech/ruby/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "HTML",
     "subtitle": "",
     "category": "Collections",
@@ -431,6 +502,7 @@
     "path": "/lessons/collections/tech/html/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Git",
     "subtitle": "",
     "category": "Collections",
@@ -438,6 +510,7 @@
     "path": "/lessons/collections/tech/git/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Markdown",
     "subtitle": "",
     "category": "Collections",
@@ -445,6 +518,7 @@
     "path": "/lessons/collections/tech/markdown/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Medical suffixes",
     "subtitle": "",
     "category": "Collections",
@@ -452,6 +526,7 @@
     "path": "/lessons/collections/medical/medical-suffixes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Medical nouns",
     "subtitle": "",
     "category": "Collections",
@@ -459,6 +534,7 @@
     "path": "/lessons/collections/medical/medical-nouns/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Medical prefixes",
     "subtitle": "",
     "category": "Collections",
@@ -466,6 +542,7 @@
     "path": "/lessons/collections/medical/medical-prefixes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Human Resources vocabulary",
     "subtitle": "",
     "category": "Collections",
@@ -473,6 +550,7 @@
     "path": "/lessons/collections/human-resources/hris-vocabulary/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "How *",
     "subtitle": "",
     "category": "Collections",
@@ -480,6 +558,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/how/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "That *",
     "subtitle": "",
     "category": "Collections",
@@ -487,6 +566,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/that/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Who *",
     "subtitle": "",
     "category": "Collections",
@@ -494,6 +574,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/who/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "You *",
     "subtitle": "",
     "category": "Collections",
@@ -501,6 +582,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/you/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "With *",
     "subtitle": "",
     "category": "Collections",
@@ -508,6 +590,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/with/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "What *",
     "subtitle": "",
     "category": "Collections",
@@ -515,6 +598,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/what/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The *",
     "subtitle": "",
     "category": "Collections",
@@ -522,6 +606,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/the/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "There *",
     "subtitle": "",
     "category": "Collections",
@@ -529,6 +614,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/there/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "He *",
     "subtitle": "",
     "category": "Collections",
@@ -536,6 +622,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/he/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "On *",
     "subtitle": "",
     "category": "Collections",
@@ -543,6 +630,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/on/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "And *",
     "subtitle": "",
     "category": "Collections",
@@ -550,6 +638,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/and/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "We *",
     "subtitle": "",
     "category": "Collections",
@@ -557,6 +646,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/we/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Too *",
     "subtitle": "",
     "category": "Collections",
@@ -564,6 +654,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/too/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Where *",
     "subtitle": "",
     "category": "Collections",
@@ -571,6 +662,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/where/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "They *",
     "subtitle": "",
     "category": "Collections",
@@ -578,6 +670,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/they/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "It *",
     "subtitle": "",
     "category": "Collections",
@@ -585,6 +678,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/it/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Which *",
     "subtitle": "",
     "category": "Collections",
@@ -592,6 +686,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/which/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "When *",
     "subtitle": "",
     "category": "Collections",
@@ -599,6 +694,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/when/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "This *",
     "subtitle": "",
     "category": "Collections",
@@ -606,6 +702,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/this/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Of *",
     "subtitle": "",
     "category": "Collections",
@@ -613,6 +710,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/of/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Would",
     "subtitle": "",
     "category": "Collections",
@@ -620,6 +718,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/would/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "She",
     "subtitle": "",
     "category": "Collections",
@@ -627,6 +726,7 @@
     "path": "/lessons/collections/two-word-briefs-same-beginnings/she/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-D",
     "subtitle": "",
     "category": "Collections",
@@ -634,6 +734,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--D/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "H-*",
     "subtitle": "",
     "category": "Collections",
@@ -641,6 +742,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-H/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "R-*",
     "subtitle": "",
     "category": "Collections",
@@ -648,6 +750,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-R/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*E*",
     "subtitle": "",
     "category": "Collections",
@@ -655,6 +758,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-E/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*U*",
     "subtitle": "",
     "category": "Collections",
@@ -662,6 +766,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-U/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "K-*",
     "subtitle": "",
     "category": "Collections",
@@ -669,6 +774,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-K/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-T",
     "subtitle": "",
     "category": "Collections",
@@ -676,6 +782,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--T/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "T-*",
     "subtitle": "",
     "category": "Collections",
@@ -683,6 +790,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-T/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-R",
     "subtitle": "",
     "category": "Collections",
@@ -690,6 +798,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--R/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "W-*",
     "subtitle": "",
     "category": "Collections",
@@ -697,6 +806,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-W/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*A*",
     "subtitle": "",
     "category": "Collections",
@@ -704,6 +814,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-A/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "P-*",
     "subtitle": "",
     "category": "Collections",
@@ -711,6 +822,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-P/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "S-*, *-S, and *-Z",
     "subtitle": "",
     "category": "Collections",
@@ -718,6 +830,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-L",
     "subtitle": "",
     "category": "Collections",
@@ -725,6 +838,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--L/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-B",
     "subtitle": "",
     "category": "Collections",
@@ -732,6 +846,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--B/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-F",
     "subtitle": "",
     "category": "Collections",
@@ -739,6 +854,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--F/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-G",
     "subtitle": "",
     "category": "Collections",
@@ -746,6 +862,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--G/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*-P",
     "subtitle": "",
     "category": "Collections",
@@ -753,6 +870,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs--P/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "*O*",
     "subtitle": "",
     "category": "Collections",
@@ -760,6 +878,7 @@
     "path": "/lessons/collections/two-key-briefs/two-key-briefs-O/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* in",
     "subtitle": "",
     "category": "Collections",
@@ -767,6 +886,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/in/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* that",
     "subtitle": "",
     "category": "Collections",
@@ -774,6 +894,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/that/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* be",
     "subtitle": "",
     "category": "Collections",
@@ -781,6 +902,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/be/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* the",
     "subtitle": "",
     "category": "Collections",
@@ -788,6 +910,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/the/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* had",
     "subtitle": "",
     "category": "Collections",
@@ -795,6 +918,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/had/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* and",
     "subtitle": "",
     "category": "Collections",
@@ -802,6 +926,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/and/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* is",
     "subtitle": "",
     "category": "Collections",
@@ -809,6 +934,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/is/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* to",
     "subtitle": "",
     "category": "Collections",
@@ -816,6 +942,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/to/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "* of",
     "subtitle": "",
     "category": "Collections",
@@ -823,6 +950,7 @@
     "path": "/lessons/collections/two-word-briefs-same-endings/of/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fairy",
     "subtitle": "",
     "category": "Stories",
@@ -830,6 +958,7 @@
     "path": "/lessons/stories/charles-perrault/the-fairy/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Little Red Riding-Hood",
     "subtitle": "",
     "category": "Stories",
@@ -837,6 +966,7 @@
     "path": "/lessons/stories/charles-perrault/little-red-riding-hood/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Cinderilla or the Little Glass Slipper",
     "subtitle": "",
     "category": "Stories",
@@ -844,6 +974,7 @@
     "path": "/lessons/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Blue Beard",
     "subtitle": "",
     "category": "Stories",
@@ -851,6 +982,7 @@
     "path": "/lessons/stories/charles-perrault/blue-beard/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Ridiculous Wishes",
     "subtitle": "",
     "category": "Stories",
@@ -858,6 +990,7 @@
     "path": "/lessons/stories/charles-perrault/the-ridiculous-wishes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Donkey-Skin",
     "subtitle": "",
     "category": "Stories",
@@ -865,6 +998,7 @@
     "path": "/lessons/stories/charles-perrault/donkey-skin/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Sleeping Beauty in the Wood",
     "subtitle": "",
     "category": "Stories",
@@ -872,6 +1006,7 @@
     "path": "/lessons/stories/charles-perrault/the-sleeping-beauty-in-the-wood/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Little Thumb",
     "subtitle": "",
     "category": "Stories",
@@ -879,6 +1014,7 @@
     "path": "/lessons/stories/charles-perrault/little-thumb/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Riquet With the Tuft",
     "subtitle": "",
     "category": "Stories",
@@ -886,6 +1022,7 @@
     "path": "/lessons/stories/charles-perrault/riquet-with-the-tuft/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Master Cat or Puss in Boots",
     "subtitle": "",
     "category": "Stories",
@@ -893,6 +1030,7 @@
     "path": "/lessons/stories/charles-perrault/the-master-cat-or-puss-in-boots/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Ugly Duckling",
     "subtitle": "",
     "category": "Stories",
@@ -900,6 +1038,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-ugly-duckling/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Angel",
     "subtitle": "",
     "category": "Stories",
@@ -907,6 +1046,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-angel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Tinder-Box",
     "subtitle": "",
     "category": "Stories",
@@ -914,6 +1054,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-tinder-box/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Drop of Water",
     "subtitle": "",
     "category": "Stories",
@@ -921,6 +1062,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-drop-of-water/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Ole-Luk-Oie, the Dream-God",
     "subtitle": "",
     "category": "Stories",
@@ -928,6 +1070,7 @@
     "path": "/lessons/stories/hans-christian-andersen/ole-luk-oie--the-dream-god/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "A Great Grief",
     "subtitle": "",
     "category": "Stories",
@@ -935,6 +1078,7 @@
     "path": "/lessons/stories/hans-christian-andersen/a-great-grief/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Jewish Maiden",
     "subtitle": "",
     "category": "Stories",
@@ -942,6 +1086,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-jewish-maiden/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Psyche",
     "subtitle": "",
     "category": "Stories",
@@ -949,6 +1094,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-psyche/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Everything in the Right Place",
     "subtitle": "",
     "category": "Stories",
@@ -956,6 +1102,7 @@
     "path": "/lessons/stories/hans-christian-andersen/everything-in-the-right-place/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Thorny Road of Honor",
     "subtitle": "",
     "category": "Stories",
@@ -963,6 +1110,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-thorny-road-of-honor/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "A Story",
     "subtitle": "",
     "category": "Stories",
@@ -970,6 +1118,7 @@
     "path": "/lessons/stories/hans-christian-andersen/a-story/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Dumb Book",
     "subtitle": "",
     "category": "Stories",
@@ -977,6 +1126,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-dumb-book/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Two Brothers",
     "subtitle": "",
     "category": "Stories",
@@ -984,6 +1134,7 @@
     "path": "/lessons/stories/hans-christian-andersen/two-brothers/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Portuguese Duck",
     "subtitle": "",
     "category": "Stories",
@@ -991,6 +1142,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-portuguese-duck/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Little Tiny or Thumbelina",
     "subtitle": "",
     "category": "Stories",
@@ -998,6 +1150,7 @@
     "path": "/lessons/stories/hans-christian-andersen/little-tiny-or-thumbelina/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Jack the Dullard",
     "subtitle": "",
     "category": "Stories",
@@ -1005,6 +1158,7 @@
     "path": "/lessons/stories/hans-christian-andersen/jack-the-dullard/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Child in the Grave",
     "subtitle": "",
     "category": "Stories",
@@ -1012,6 +1166,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-child-in-the-grave/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bird of Popular Song",
     "subtitle": "",
     "category": "Stories",
@@ -1019,6 +1174,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-bird-of-popular-song/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Girl Who Trod on the Loaf",
     "subtitle": "",
     "category": "Stories",
@@ -1026,6 +1182,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Beetle Who Went on His Travels",
     "subtitle": "",
     "category": "Stories",
@@ -1033,6 +1190,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Puppet-Show Man",
     "subtitle": "",
     "category": "Stories",
@@ -1040,6 +1198,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-puppet-show-man/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Old House",
     "subtitle": "",
     "category": "Stories",
@@ -1047,6 +1206,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-old-house/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Swineherd",
     "subtitle": "",
     "category": "Stories",
@@ -1054,6 +1214,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-swineherd/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "There Is No Doubt About It",
     "subtitle": "",
     "category": "Stories",
@@ -1061,6 +1222,7 @@
     "path": "/lessons/stories/hans-christian-andersen/there-is-no-doubt-about-it/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Neighbouring Families",
     "subtitle": "",
     "category": "Stories",
@@ -1068,6 +1230,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-neighbouring-families/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Pea Blossom",
     "subtitle": "",
     "category": "Stories",
@@ -1075,6 +1238,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-pea-blossom/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Red Shoes",
     "subtitle": "",
     "category": "Stories",
@@ -1082,6 +1246,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-red-shoes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Shirt-Collar",
     "subtitle": "",
     "category": "Stories",
@@ -1089,6 +1254,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-shirt-collar/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Snail and the Rose-Tree",
     "subtitle": "",
     "category": "Stories",
@@ -1096,6 +1262,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-snail-and-the-rose-tree/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Golden Treasure",
     "subtitle": "",
     "category": "Stories",
@@ -1103,6 +1270,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-golden-treasure/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Beauty of Form and Beauty of Mind",
     "subtitle": "",
     "category": "Stories",
@@ -1110,6 +1278,7 @@
     "path": "/lessons/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Butterfly",
     "subtitle": "",
     "category": "Stories",
@@ -1117,6 +1286,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-butterfly/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "She Was Good for Nothing",
     "subtitle": "",
     "category": "Stories",
@@ -1124,6 +1294,7 @@
     "path": "/lessons/stories/hans-christian-andersen/she-was-good-for-nothing/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Top and Ball",
     "subtitle": "",
     "category": "Stories",
@@ -1131,6 +1302,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-top-and-ball/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Phoenix Bird",
     "subtitle": "",
     "category": "Stories",
@@ -1138,6 +1310,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-phoenix-bird/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Little Elder-Tree Mother",
     "subtitle": "",
     "category": "Stories",
@@ -1145,6 +1318,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-little-elder-tree-mother/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Loveliest Rose in the World",
     "subtitle": "",
     "category": "Stories",
@@ -1152,6 +1326,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Elf of the Rose",
     "subtitle": "",
     "category": "Stories",
@@ -1159,6 +1334,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-elf-of-the-rose/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Goblin and the Huckster",
     "subtitle": "",
     "category": "Stories",
@@ -1166,6 +1342,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-goblin-and-the-huckster/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Two Maidens",
     "subtitle": "",
     "category": "Stories",
@@ -1173,6 +1350,7 @@
     "path": "/lessons/stories/hans-christian-andersen/two-maidens/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Farm-Yard Cock and the Weather-Cock",
     "subtitle": "",
     "category": "Stories",
@@ -1180,6 +1358,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Toad",
     "subtitle": "",
     "category": "Stories",
@@ -1187,6 +1366,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-toad/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Sunbeam and the Captive",
     "subtitle": "",
     "category": "Stories",
@@ -1194,6 +1374,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-sunbeam-and-the-captive/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Old Grave-Stone",
     "subtitle": "",
     "category": "Stories",
@@ -1201,6 +1382,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-old-grave-stone/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Saucy Boy",
     "subtitle": "",
     "category": "Stories",
@@ -1208,6 +1390,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-saucy-boy/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Last Pearl",
     "subtitle": "",
     "category": "Stories",
@@ -1215,6 +1398,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-last-pearl/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Something",
     "subtitle": "",
     "category": "Stories",
@@ -1222,6 +1406,7 @@
     "path": "/lessons/stories/hans-christian-andersen/something/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bell",
     "subtitle": "",
     "category": "Stories",
@@ -1229,6 +1414,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-bell/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Grandmother",
     "subtitle": "",
     "category": "Stories",
@@ -1236,6 +1422,7 @@
     "path": "/lessons/stories/hans-christian-andersen/grandmother/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Flax",
     "subtitle": "",
     "category": "Stories",
@@ -1243,6 +1430,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-flax/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Flying Trunk",
     "subtitle": "",
     "category": "Stories",
@@ -1250,6 +1438,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-flying-trunk/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Storks",
     "subtitle": "",
     "category": "Stories",
@@ -1257,6 +1446,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-storks/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Will-O-the Wisp Is in the Town, Says the Moor Woman",
     "subtitle": "",
     "category": "Stories",
@@ -1264,6 +1454,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town--says-the-moor-woman/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Snow Man",
     "subtitle": "",
     "category": "Stories",
@@ -1271,6 +1462,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-snow-man/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Silver Shilling",
     "subtitle": "",
     "category": "Stories",
@@ -1278,6 +1470,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-silver-shilling/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Snowdrop",
     "subtitle": "",
     "category": "Stories",
@@ -1285,6 +1478,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-snowdrop/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Last Dream of the Old Oak",
     "subtitle": "",
     "category": "Stories",
@@ -1292,6 +1486,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Holger Danske",
     "subtitle": "",
     "category": "Stories",
@@ -1299,6 +1494,7 @@
     "path": "/lessons/stories/hans-christian-andersen/holger-danske/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Little Tuk",
     "subtitle": "",
     "category": "Stories",
@@ -1306,6 +1502,7 @@
     "path": "/lessons/stories/hans-christian-andersen/little-tuk/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Ib and Little Christina",
     "subtitle": "",
     "category": "Stories",
@@ -1313,6 +1510,7 @@
     "path": "/lessons/stories/hans-christian-andersen/ib-and-little-christina/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Happy Family",
     "subtitle": "",
     "category": "Stories",
@@ -1320,6 +1518,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-happy-family/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Old Church Bell",
     "subtitle": "",
     "category": "Stories",
@@ -1327,6 +1526,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-old-church-bell/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Little Ida's Flowers",
     "subtitle": "",
     "category": "Stories",
@@ -1334,6 +1534,7 @@
     "path": "/lessons/stories/hans-christian-andersen/little-ida-s-flowers/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Our Aunt",
     "subtitle": "",
     "category": "Stories",
@@ -1341,6 +1542,7 @@
     "path": "/lessons/stories/hans-christian-andersen/our-aunt/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Races",
     "subtitle": "",
     "category": "Stories",
@@ -1348,6 +1550,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-races/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Pen and the Inkstand",
     "subtitle": "",
     "category": "Stories",
@@ -1355,6 +1558,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-pen-and-the-inkstand/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Little Match-Seller",
     "subtitle": "",
     "category": "Stories",
@@ -1362,6 +1566,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-little-match-seller/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Story of the Wind",
     "subtitle": "",
     "category": "Stories",
@@ -1369,6 +1574,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-story-of-the-wind/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bell-Deep",
     "subtitle": "",
     "category": "Stories",
@@ -1376,6 +1582,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-bell-deep/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Thistle's Experiences",
     "subtitle": "",
     "category": "Stories",
@@ -1383,6 +1590,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-thistle-s-experiences/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Ole the Tower-Keeper",
     "subtitle": "",
     "category": "Stories",
@@ -1390,6 +1598,7 @@
     "path": "/lessons/stories/hans-christian-andersen/ole-the-tower-keeper/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bishop of Borglum and His Warriors",
     "subtitle": "",
     "category": "Stories",
@@ -1397,6 +1606,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Children's Prattle",
     "subtitle": "",
     "category": "Stories",
@@ -1404,6 +1614,7 @@
     "path": "/lessons/stories/hans-christian-andersen/children-s-prattle/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Story of the Year",
     "subtitle": "",
     "category": "Stories",
@@ -1411,6 +1622,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-story-of-the-year/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Money-Box",
     "subtitle": "",
     "category": "Stories",
@@ -1418,6 +1630,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-money-box/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Swan's Nest",
     "subtitle": "",
     "category": "Stories",
@@ -1425,6 +1638,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-swan-s-nest/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "By the Almshouse Window",
     "subtitle": "",
     "category": "Stories",
@@ -1432,6 +1646,7 @@
     "path": "/lessons/stories/hans-christian-andersen/by-the-almshouse-window/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Story of a Mother",
     "subtitle": "",
     "category": "Stories",
@@ -1439,6 +1654,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-story-of-a-mother/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "A Leaf From Heaven",
     "subtitle": "",
     "category": "Stories",
@@ -1446,6 +1662,7 @@
     "path": "/lessons/stories/hans-christian-andersen/a-leaf-from-heaven/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "In the Uttermost Parts of the Sea",
     "subtitle": "",
     "category": "Stories",
@@ -1453,6 +1670,7 @@
     "path": "/lessons/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "In the Nursery",
     "subtitle": "",
     "category": "Stories",
@@ -1460,6 +1678,7 @@
     "path": "/lessons/stories/hans-christian-andersen/in-the-nursery/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Nightingale",
     "subtitle": "",
     "category": "Stories",
@@ -1467,6 +1686,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-nightingale/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Delaying Is Not Forgetting",
     "subtitle": "",
     "category": "Stories",
@@ -1474,6 +1694,7 @@
     "path": "/lessons/stories/hans-christian-andersen/delaying-is-not-forgetting/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fir Tree",
     "subtitle": "",
     "category": "Stories",
@@ -1481,6 +1702,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-fir-tree/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Elfin Hill",
     "subtitle": "",
     "category": "Stories",
@@ -1488,6 +1710,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-elfin-hill/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Buckwheat",
     "subtitle": "",
     "category": "Stories",
@@ -1495,6 +1718,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-buckwheat/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Jumper",
     "subtitle": "",
     "category": "Stories",
@@ -1502,6 +1726,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-jumper/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Emperor's New Suit",
     "subtitle": "",
     "category": "Stories",
@@ -1509,6 +1734,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-emperor-s-new-suit/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Darning-Needle",
     "subtitle": "",
     "category": "Stories",
@@ -1516,6 +1742,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-darning-needle/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Shadow",
     "subtitle": "",
     "category": "Stories",
@@ -1523,6 +1750,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-shadow/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Windmill",
     "subtitle": "",
     "category": "Stories",
@@ -1530,6 +1758,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-windmill/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "What the Old Man Does Is Always Right",
     "subtitle": "",
     "category": "Stories",
@@ -1537,6 +1766,7 @@
     "path": "/lessons/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Storm Shakes the Shield",
     "subtitle": "",
     "category": "Stories",
@@ -1544,6 +1774,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-storm-shakes-the-shield/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Shepherdess and the Sheep",
     "subtitle": "",
     "category": "Stories",
@@ -1551,6 +1782,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Little Claus and Big Claus",
     "subtitle": "",
     "category": "Stories",
@@ -1558,6 +1790,7 @@
     "path": "/lessons/stories/hans-christian-andersen/little-claus-and-big-claus/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Shepherd's Story of the Bond of Friendship",
     "subtitle": "",
     "category": "Stories",
@@ -1565,6 +1798,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-shepherd-s-story-of-the-bond-of-friendship/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "A Rose From Homer's Grave",
     "subtitle": "",
     "category": "Stories",
@@ -1572,6 +1806,7 @@
     "path": "/lessons/stories/hans-christian-andersen/a-rose-from-homer-s-grave/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Daisy",
     "subtitle": "",
     "category": "Stories",
@@ -1579,6 +1814,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-daisy/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Brave Tin Soldier",
     "subtitle": "",
     "category": "Stories",
@@ -1586,6 +1822,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-brave-tin-soldier/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "What One Can Invent",
     "subtitle": "",
     "category": "Stories",
@@ -1593,6 +1830,7 @@
     "path": "/lessons/stories/hans-christian-andersen/what-one-can-invent/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Old Street Lamp",
     "subtitle": "",
     "category": "Stories",
@@ -1600,6 +1838,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-old-street-lamp/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Anne Lisbeth",
     "subtitle": "",
     "category": "Stories",
@@ -1607,6 +1846,7 @@
     "path": "/lessons/stories/hans-christian-andersen/anne-lisbeth/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wicked Prince",
     "subtitle": "",
     "category": "Stories",
@@ -1614,6 +1854,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-wicked-prince/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "In a Thousand Years",
     "subtitle": "",
     "category": "Stories",
@@ -1621,6 +1862,7 @@
     "path": "/lessons/stories/hans-christian-andersen/in-a-thousand-years/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Conceited Apple-Branch",
     "subtitle": "",
     "category": "Stories",
@@ -1628,6 +1870,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-conceited-apple-branch/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Metal Pig",
     "subtitle": "",
     "category": "Stories",
@@ -1635,6 +1878,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-metal-pig/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Mail-Coach Passengers",
     "subtitle": "",
     "category": "Stories",
@@ -1642,6 +1886,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-mail-coach-passengers/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "A Cheerful Temper",
     "subtitle": "",
     "category": "Stories",
@@ -1649,6 +1894,7 @@
     "path": "/lessons/stories/hans-christian-andersen/a-cheerful-temper/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Princess and the Pea",
     "subtitle": "",
     "category": "Stories",
@@ -1656,6 +1902,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-princess-and-the-pea/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bottle Neck",
     "subtitle": "",
     "category": "Stories",
@@ -1663,6 +1910,7 @@
     "path": "/lessons/stories/hans-christian-andersen/the-bottle-neck/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Little Peasant",
     "subtitle": "",
     "category": "Stories",
@@ -1670,6 +1918,7 @@
     "path": "/lessons/stories/grimm/the-little-peasant/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Turnip",
     "subtitle": "",
     "category": "Stories",
@@ -1677,6 +1926,7 @@
     "path": "/lessons/stories/grimm/the-turnip/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Four Clever Brothers",
     "subtitle": "",
     "category": "Stories",
@@ -1684,6 +1934,7 @@
     "path": "/lessons/stories/grimm/the-four-clever-brothers/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Golden Goose",
     "subtitle": "",
     "category": "Stories",
@@ -1691,6 +1942,7 @@
     "path": "/lessons/stories/grimm/the-golden-goose/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Clever Hans",
     "subtitle": "",
     "category": "Stories",
@@ -1698,6 +1950,7 @@
     "path": "/lessons/stories/grimm/clever-hans/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Elves and the Shoemaker",
     "subtitle": "",
     "category": "Stories",
@@ -1705,6 +1958,7 @@
     "path": "/lessons/stories/grimm/the-elves-and-the-shoemaker/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Adventures of Chanticleer and Partlet",
     "subtitle": "",
     "category": "Stories",
@@ -1712,6 +1966,7 @@
     "path": "/lessons/stories/grimm/the-adventures-of-chanticleer-and-partlet/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Willow-Wren and the Bear",
     "subtitle": "",
     "category": "Stories",
@@ -1719,6 +1974,7 @@
     "path": "/lessons/stories/grimm/the-willow-wren-and-the-bear/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Fundevogel",
     "subtitle": "",
     "category": "Stories",
@@ -1726,6 +1982,7 @@
     "path": "/lessons/stories/grimm/fundevogel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Clever Elsie",
     "subtitle": "",
     "category": "Stories",
@@ -1733,6 +1990,7 @@
     "path": "/lessons/stories/grimm/clever-elsie/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Horse",
     "subtitle": "",
     "category": "Stories",
@@ -1740,6 +1998,7 @@
     "path": "/lessons/stories/grimm/the-fox-and-the-horse/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Blue Light",
     "subtitle": "",
     "category": "Stories",
@@ -1747,6 +2006,7 @@
     "path": "/lessons/stories/grimm/the-blue-light/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Valiant Little Tailor",
     "subtitle": "",
     "category": "Stories",
@@ -1754,6 +2014,7 @@
     "path": "/lessons/stories/grimm/the-valiant-little-tailor/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Cat",
     "subtitle": "",
     "category": "Stories",
@@ -1761,6 +2022,7 @@
     "path": "/lessons/stories/grimm/the-fox-and-the-cat/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Water of Life",
     "subtitle": "",
     "category": "Stories",
@@ -1768,6 +2030,7 @@
     "path": "/lessons/stories/grimm/the-water-of-life/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Hansel and Gretel",
     "subtitle": "",
     "category": "Stories",
@@ -1775,6 +2038,7 @@
     "path": "/lessons/stories/grimm/hansel-and-gretel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wedding of Mrs Fox",
     "subtitle": "",
     "category": "Stories",
@@ -1782,6 +2046,7 @@
     "path": "/lessons/stories/grimm/the-wedding-of-mrs-fox/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wolf and the Seven Little Kids",
     "subtitle": "",
     "category": "Stories",
@@ -1789,6 +2054,7 @@
     "path": "/lessons/stories/grimm/the-wolf-and-the-seven-little-kids/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Twelve Huntsmen",
     "subtitle": "",
     "category": "Stories",
@@ -1796,6 +2062,7 @@
     "path": "/lessons/stories/grimm/the-twelve-huntsmen/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Clever Gretel",
     "subtitle": "",
     "category": "Stories",
@@ -1803,6 +2070,7 @@
     "path": "/lessons/stories/grimm/clever-gretel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Hans in Luck",
     "subtitle": "",
     "category": "Stories",
@@ -1810,6 +2078,7 @@
     "path": "/lessons/stories/grimm/hans-in-luck/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fisherman and His Wife",
     "subtitle": "",
     "category": "Stories",
@@ -1817,6 +2086,7 @@
     "path": "/lessons/stories/grimm/the-fisherman-and-his-wife/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Sweetheart Roland",
     "subtitle": "",
     "category": "Stories",
@@ -1824,6 +2094,7 @@
     "path": "/lessons/stories/grimm/sweetheart-roland/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Goose-Girl",
     "subtitle": "",
     "category": "Stories",
@@ -1831,6 +2102,7 @@
     "path": "/lessons/stories/grimm/the-goose-girl/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Jorinda and Jorindel",
     "subtitle": "",
     "category": "Stories",
@@ -1838,6 +2110,7 @@
     "path": "/lessons/stories/grimm/jorinda-and-jorindel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Miser in the Bush",
     "subtitle": "",
     "category": "Stories",
@@ -1845,6 +2118,7 @@
     "path": "/lessons/stories/grimm/the-miser-in-the-bush/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Old Man and His Grandson",
     "subtitle": "",
     "category": "Stories",
@@ -1852,6 +2126,7 @@
     "path": "/lessons/stories/grimm/the-old-man-and-his-grandson/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Iron Hans",
     "subtitle": "",
     "category": "Stories",
@@ -1859,6 +2134,7 @@
     "path": "/lessons/stories/grimm/iron-hans/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Lily and the Lion",
     "subtitle": "",
     "category": "Stories",
@@ -1866,6 +2142,7 @@
     "path": "/lessons/stories/grimm/lily-and-the-lion/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Snow-White and Rose-Red",
     "subtitle": "",
     "category": "Stories",
@@ -1873,6 +2150,7 @@
     "path": "/lessons/stories/grimm/snow-white-and-rose-red/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Travelling Musicians",
     "subtitle": "",
     "category": "Stories",
@@ -1880,6 +2158,7 @@
     "path": "/lessons/stories/grimm/the-travelling-musicians/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Mouse, the Bird, and the Sausage",
     "subtitle": "",
     "category": "Stories",
@@ -1887,6 +2166,7 @@
     "path": "/lessons/stories/grimm/the-mouse--the-bird--and-the-sausage/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Golden Bird",
     "subtitle": "",
     "category": "Stories",
@@ -1894,6 +2174,7 @@
     "path": "/lessons/stories/grimm/the-golden-bird/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Queen Bee",
     "subtitle": "",
     "category": "Stories",
@@ -1901,6 +2182,7 @@
     "path": "/lessons/stories/grimm/the-queen-bee/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
     "subtitle": "",
     "category": "Stories",
@@ -1908,6 +2190,7 @@
     "path": "/lessons/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Doctor Knowall",
     "subtitle": "",
     "category": "Stories",
@@ -1915,6 +2198,7 @@
     "path": "/lessons/stories/grimm/doctor-knowall/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Tom Thumb",
     "subtitle": "",
     "category": "Stories",
@@ -1922,6 +2206,7 @@
     "path": "/lessons/stories/grimm/tom-thumb/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Briar Rose",
     "subtitle": "",
     "category": "Stories",
@@ -1929,6 +2214,7 @@
     "path": "/lessons/stories/grimm/briar-rose/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Rapunzel",
     "subtitle": "",
     "category": "Stories",
@@ -1936,6 +2222,7 @@
     "path": "/lessons/stories/grimm/rapunzel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Cat-Skin",
     "subtitle": "",
     "category": "Stories",
@@ -1943,6 +2230,7 @@
     "path": "/lessons/stories/grimm/cat-skin/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Straw, the Coal, and the Bean",
     "subtitle": "",
     "category": "Stories",
@@ -1950,6 +2238,7 @@
     "path": "/lessons/stories/grimm/the-straw--the-coal--and-the-bean/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The White Snake",
     "subtitle": "",
     "category": "Stories",
@@ -1957,6 +2246,7 @@
     "path": "/lessons/stories/grimm/the-white-snake/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Old Sultan",
     "subtitle": "",
     "category": "Stories",
@@ -1964,6 +2254,7 @@
     "path": "/lessons/stories/grimm/old-sultan/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Frog-Prince",
     "subtitle": "",
     "category": "Stories",
@@ -1971,6 +2262,7 @@
     "path": "/lessons/stories/grimm/the-frog-prince/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Three Languages",
     "subtitle": "",
     "category": "Stories",
@@ -1978,6 +2270,7 @@
     "path": "/lessons/stories/grimm/the-three-languages/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Rumpelstiltskin",
     "subtitle": "",
     "category": "Stories",
@@ -1985,6 +2278,7 @@
     "path": "/lessons/stories/grimm/rumpelstiltskin/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "King Grisly-Beard",
     "subtitle": "",
     "category": "Stories",
@@ -1992,6 +2286,7 @@
     "path": "/lessons/stories/grimm/king-grisly-beard/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Twelve Dancing Princesses",
     "subtitle": "",
     "category": "Stories",
@@ -1999,6 +2294,7 @@
     "path": "/lessons/stories/grimm/the-twelve-dancing-princesses/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The King of the Golden Mountain",
     "subtitle": "",
     "category": "Stories",
@@ -2006,6 +2302,7 @@
     "path": "/lessons/stories/grimm/the-king-of-the-golden-mountain/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Snowdrop",
     "subtitle": "",
     "category": "Stories",
@@ -2013,6 +2310,7 @@
     "path": "/lessons/stories/grimm/snowdrop/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Dog and the Sparrow",
     "subtitle": "",
     "category": "Stories",
@@ -2020,6 +2318,7 @@
     "path": "/lessons/stories/grimm/the-dog-and-the-sparrow/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Cat and Mouse in Partnership",
     "subtitle": "",
     "category": "Stories",
@@ -2027,6 +2326,7 @@
     "path": "/lessons/stories/grimm/cat-and-mouse-in-partnership/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Raven",
     "subtitle": "",
     "category": "Stories",
@@ -2034,6 +2334,7 @@
     "path": "/lessons/stories/grimm/the-raven/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Mother Holle",
     "subtitle": "",
     "category": "Stories",
@@ -2041,6 +2342,7 @@
     "path": "/lessons/stories/grimm/mother-holle/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Juniper-Tree",
     "subtitle": "",
     "category": "Stories",
@@ -2048,6 +2350,7 @@
     "path": "/lessons/stories/grimm/the-juniper-tree/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Frederick and Catherine",
     "subtitle": "",
     "category": "Stories",
@@ -2055,6 +2358,7 @@
     "path": "/lessons/stories/grimm/frederick-and-catherine/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Pink",
     "subtitle": "",
     "category": "Stories",
@@ -2062,6 +2366,7 @@
     "path": "/lessons/stories/grimm/the-pink/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Ashputtel",
     "subtitle": "",
     "category": "Stories",
@@ -2069,6 +2374,7 @@
     "path": "/lessons/stories/grimm/ashputtel/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Seven Ravens",
     "subtitle": "",
     "category": "Stories",
@@ -2076,6 +2382,7 @@
     "path": "/lessons/stories/grimm/the-seven-ravens/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Robber Bridegroom",
     "subtitle": "",
     "category": "Stories",
@@ -2083,6 +2390,7 @@
     "path": "/lessons/stories/grimm/the-robber-bridegroom/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Salad",
     "subtitle": "",
     "category": "Stories",
@@ -2090,6 +2398,7 @@
     "path": "/lessons/stories/grimm/the-salad/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Grapes",
     "subtitle": "",
     "category": "Stories",
@@ -2097,6 +2406,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-grapes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bundle of Sticks",
     "subtitle": "",
     "category": "Stories",
@@ -2104,6 +2414,7 @@
     "path": "/lessons/stories/fables/the-bundle-of-sticks/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Cock and the Pearl",
     "subtitle": "",
     "category": "Stories",
@@ -2111,6 +2422,7 @@
     "path": "/lessons/stories/fables/the-cock-and-the-pearl/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Belling the Cat",
     "subtitle": "",
     "category": "Stories",
@@ -2118,6 +2430,7 @@
     "path": "/lessons/stories/fables/belling-the-cat/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Old Woman and the Wine-Jar",
     "subtitle": "",
     "category": "Stories",
@@ -2125,6 +2438,7 @@
     "path": "/lessons/stories/fables/the-old-woman-and-the-wine-jar/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Hare and the Tortoise",
     "subtitle": "",
     "category": "Stories",
@@ -2132,6 +2446,7 @@
     "path": "/lessons/stories/fables/the-hare-and-the-tortoise/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Lion in Love",
     "subtitle": "",
     "category": "Stories",
@@ -2139,6 +2454,7 @@
     "path": "/lessons/stories/fables/the-lion-in-love/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Hart and the Hunter",
     "subtitle": "",
     "category": "Stories",
@@ -2146,6 +2462,7 @@
     "path": "/lessons/stories/fables/the-hart-and-the-hunter/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Sick Lion",
     "subtitle": "",
     "category": "Stories",
@@ -2153,6 +2470,7 @@
     "path": "/lessons/stories/fables/the-sick-lion/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Lion and the Statue",
     "subtitle": "",
     "category": "Stories",
@@ -2160,6 +2478,7 @@
     "path": "/lessons/stories/fables/the-lion-and-the-statue/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Hare With Many Friends",
     "subtitle": "",
     "category": "Stories",
@@ -2167,6 +2486,7 @@
     "path": "/lessons/stories/fables/the-hare-with-many-friends/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Lion",
     "subtitle": "",
     "category": "Stories",
@@ -2174,6 +2494,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-lion/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Belly and the Members",
     "subtitle": "",
     "category": "Stories",
@@ -2181,6 +2502,7 @@
     "path": "/lessons/stories/fables/the-belly-and-the-members/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Frogs Desiring a King",
     "subtitle": "",
     "category": "Stories",
@@ -2188,6 +2510,7 @@
     "path": "/lessons/stories/fables/the-frogs-desiring-a-king/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Cat",
     "subtitle": "",
     "category": "Stories",
@@ -2195,6 +2518,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-cat/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Lion and the Mouse",
     "subtitle": "",
     "category": "Stories",
@@ -2202,6 +2526,7 @@
     "path": "/lessons/stories/fables/the-lion-and-the-mouse/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Avaricious and Envious",
     "subtitle": "",
     "category": "Stories",
@@ -2209,6 +2534,7 @@
     "path": "/lessons/stories/fables/avaricious-and-envious/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Labourer and the Nightingale",
     "subtitle": "",
     "category": "Stories",
@@ -2216,6 +2542,7 @@
     "path": "/lessons/stories/fables/the-labourer-and-the-nightingale/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Androcles",
     "subtitle": "",
     "category": "Stories",
@@ -2223,6 +2550,7 @@
     "path": "/lessons/stories/fables/androcles/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Serpent and the File",
     "subtitle": "",
     "category": "Stories",
@@ -2230,6 +2558,7 @@
     "path": "/lessons/stories/fables/the-serpent-and-the-file/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wolf and the Crane",
     "subtitle": "",
     "category": "Stories",
@@ -2237,6 +2566,7 @@
     "path": "/lessons/stories/fables/the-wolf-and-the-crane/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Trumpeter Taken Prisoner",
     "subtitle": "",
     "category": "Stories",
@@ -2244,6 +2574,7 @@
     "path": "/lessons/stories/fables/the-trumpeter-taken-prisoner/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Buffoon and the Countryman",
     "subtitle": "",
     "category": "Stories",
@@ -2251,6 +2582,7 @@
     "path": "/lessons/stories/fables/the-buffoon-and-the-countryman/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bald Man and the Fly",
     "subtitle": "",
     "category": "Stories",
@@ -2258,6 +2590,7 @@
     "path": "/lessons/stories/fables/the-bald-man-and-the-fly/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Frog and the Ox",
     "subtitle": "",
     "category": "Stories",
@@ -2265,6 +2598,7 @@
     "path": "/lessons/stories/fables/the-frog-and-the-ox/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Lion's Share",
     "subtitle": "",
     "category": "Stories",
@@ -2272,6 +2606,7 @@
     "path": "/lessons/stories/fables/the-lions-share/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Young Thief and His Mother",
     "subtitle": "",
     "category": "Stories",
@@ -2279,6 +2614,7 @@
     "path": "/lessons/stories/fables/the-young-thief-and-his-mother/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Ass and the Lapdog",
     "subtitle": "",
     "category": "Stories",
@@ -2286,6 +2622,7 @@
     "path": "/lessons/stories/fables/the-ass-and-the-lapdog/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Man, the Boy, and the Donkey",
     "subtitle": "",
     "category": "Stories",
@@ -2293,6 +2630,7 @@
     "path": "/lessons/stories/fables/the-man-the-boy-and-the-donkey/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Miser and His Gold",
     "subtitle": "",
     "category": "Stories",
@@ -2300,6 +2638,7 @@
     "path": "/lessons/stories/fables/the-miser-and-his-gold/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Crow",
     "subtitle": "",
     "category": "Stories",
@@ -2307,6 +2646,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-crow/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Shepherd's Boy",
     "subtitle": "",
     "category": "Stories",
@@ -2314,6 +2654,7 @@
     "path": "/lessons/stories/fables/the-shepherds-boy/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Four Oxen and the Lion",
     "subtitle": "",
     "category": "Stories",
@@ -2321,6 +2662,7 @@
     "path": "/lessons/stories/fables/the-four-oxen-and-the-lion/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Hares and the Frogs",
     "subtitle": "",
     "category": "Stories",
@@ -2328,6 +2670,7 @@
     "path": "/lessons/stories/fables/the-hares-and-the-frogs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Milkmaid and Her Pail",
     "subtitle": "",
     "category": "Stories",
@@ -2335,6 +2678,7 @@
     "path": "/lessons/stories/fables/the-milkmaid-and-her-pail/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Two Crabs",
     "subtitle": "",
     "category": "Stories",
@@ -2342,6 +2686,7 @@
     "path": "/lessons/stories/fables/the-two-crabs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Crow and the Pitcher",
     "subtitle": "",
     "category": "Stories",
@@ -2349,6 +2694,7 @@
     "path": "/lessons/stories/fables/the-crow-and-the-pitcher/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Swallow and the Other Birds",
     "subtitle": "",
     "category": "Stories",
@@ -2356,6 +2702,7 @@
     "path": "/lessons/stories/fables/the-swallow-and-the-other-birds/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Man and the Satyr",
     "subtitle": "",
     "category": "Stories",
@@ -2363,6 +2710,7 @@
     "path": "/lessons/stories/fables/the-man-and-the-satyr/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The One-Eyed Doe",
     "subtitle": "",
     "category": "Stories",
@@ -2370,6 +2718,7 @@
     "path": "/lessons/stories/fables/the-one-eyed-doe/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Mountains in Labour",
     "subtitle": "",
     "category": "Stories",
@@ -2377,6 +2726,7 @@
     "path": "/lessons/stories/fables/the-mountains-in-labour/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Horse and the Ass",
     "subtitle": "",
     "category": "Stories",
@@ -2384,6 +2734,7 @@
     "path": "/lessons/stories/fables/the-horse-and-the-ass/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fisher",
     "subtitle": "",
     "category": "Stories",
@@ -2391,6 +2742,7 @@
     "path": "/lessons/stories/fables/the-fisher/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Ant and the Grasshopper",
     "subtitle": "",
     "category": "Stories",
@@ -2398,6 +2750,7 @@
     "path": "/lessons/stories/fables/the-ant-and-the-grasshopper/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Eagle and the Arrow",
     "subtitle": "",
     "category": "Stories",
@@ -2405,6 +2758,7 @@
     "path": "/lessons/stories/fables/the-eagle-and-the-arrow/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Town Mouse and the Country Mouse",
     "subtitle": "",
     "category": "Stories",
@@ -2412,6 +2766,7 @@
     "path": "/lessons/stories/fables/the-town-mouse-and-the-country-mouse/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Two Pots",
     "subtitle": "",
     "category": "Stories",
@@ -2419,6 +2774,7 @@
     "path": "/lessons/stories/fables/the-two-pots/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wind and the Sun",
     "subtitle": "",
     "category": "Stories",
@@ -2426,6 +2782,7 @@
     "path": "/lessons/stories/fables/the-wind-and-the-sun/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Old Man and Death",
     "subtitle": "",
     "category": "Stories",
@@ -2433,6 +2790,7 @@
     "path": "/lessons/stories/fables/the-old-man-and-death/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Bat, the Birds and the Beasts",
     "subtitle": "",
     "category": "Stories",
@@ -2440,6 +2798,7 @@
     "path": "/lessons/stories/fables/the-bat-the-birds-and-the-beasts/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Horse, Hunter, and Stag",
     "subtitle": "",
     "category": "Stories",
@@ -2447,6 +2806,7 @@
     "path": "/lessons/stories/fables/the-horse-hunter-and-stag/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "Hercules and the Waggoner",
     "subtitle": "",
     "category": "Stories",
@@ -2454,6 +2814,7 @@
     "path": "/lessons/stories/fables/hercules-and-the-waggoner/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wolf and the Kid",
     "subtitle": "",
     "category": "Stories",
@@ -2461,6 +2822,7 @@
     "path": "/lessons/stories/fables/the-wolf-and-the-kid/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Mask",
     "subtitle": "",
     "category": "Stories",
@@ -2468,6 +2830,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-mask/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Ass's Brains",
     "subtitle": "",
     "category": "Stories",
@@ -2475,6 +2838,7 @@
     "path": "/lessons/stories/fables/the-asss-brains/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Goat",
     "subtitle": "",
     "category": "Stories",
@@ -2482,6 +2846,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-goat/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Dog and the Wolf",
     "subtitle": "",
     "category": "Stories",
@@ -2489,6 +2854,7 @@
     "path": "/lessons/stories/fables/the-dog-and-the-wolf/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Man and His Two Wives",
     "subtitle": "",
     "category": "Stories",
@@ -2496,6 +2862,7 @@
     "path": "/lessons/stories/fables/the-man-and-his-two-wives/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Peacock and Juno",
     "subtitle": "",
     "category": "Stories",
@@ -2503,6 +2870,7 @@
     "path": "/lessons/stories/fables/the-peacock-and-juno/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Lion, the Fox, and the Beasts",
     "subtitle": "",
     "category": "Stories",
@@ -2510,6 +2878,7 @@
     "path": "/lessons/stories/fables/the-lion-the-fox-and-the-beasts/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wolf in Sheep's Clothing",
     "subtitle": "",
     "category": "Stories",
@@ -2517,6 +2886,7 @@
     "path": "/lessons/stories/fables/the-wolf-in-sheeps-clothing/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Wolf and the Lamb",
     "subtitle": "",
     "category": "Stories",
@@ -2524,6 +2894,7 @@
     "path": "/lessons/stories/fables/the-wolf-and-the-lamb/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Ass in the Lion's Skin",
     "subtitle": "",
     "category": "Stories",
@@ -2531,6 +2902,7 @@
     "path": "/lessons/stories/fables/the-ass-in-the-lions-skin/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Dog in the Manger",
     "subtitle": "",
     "category": "Stories",
@@ -2538,6 +2910,7 @@
     "path": "/lessons/stories/fables/the-dog-in-the-manger/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Jay and the Peacock",
     "subtitle": "",
     "category": "Stories",
@@ -2545,6 +2918,7 @@
     "path": "/lessons/stories/fables/the-jay-and-the-peacock/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Mosquitoes",
     "subtitle": "",
     "category": "Stories",
@@ -2552,6 +2926,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-mosquitoes/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fisher and the Little Fish",
     "subtitle": "",
     "category": "Stories",
@@ -2559,6 +2934,7 @@
     "path": "/lessons/stories/fables/the-fisher-and-the-little-fish/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox, the Cock, and the Dog",
     "subtitle": "",
     "category": "Stories",
@@ -2566,6 +2942,7 @@
     "path": "/lessons/stories/fables/the-fox-the-cock-and-the-dog/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Man and the Wood",
     "subtitle": "",
     "category": "Stories",
@@ -2573,6 +2950,7 @@
     "path": "/lessons/stories/fables/the-man-and-the-wood/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Cat-Maiden",
     "subtitle": "",
     "category": "Stories",
@@ -2580,6 +2958,7 @@
     "path": "/lessons/stories/fables/the-cat-maiden/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Woodman and the Serpent",
     "subtitle": "",
     "category": "Stories",
@@ -2587,6 +2966,7 @@
     "path": "/lessons/stories/fables/the-woodman-and-the-serpent/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Tree and the Reed",
     "subtitle": "",
     "category": "Stories",
@@ -2594,6 +2974,7 @@
     "path": "/lessons/stories/fables/the-tree-and-the-reed/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox and the Stork",
     "subtitle": "",
     "category": "Stories",
@@ -2601,6 +2982,7 @@
     "path": "/lessons/stories/fables/the-fox-and-the-stork/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Dog and the Shadow",
     "subtitle": "",
     "category": "Stories",
@@ -2608,6 +2990,7 @@
     "path": "/lessons/stories/fables/the-dog-and-the-shadow/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Tortoise and the Birds",
     "subtitle": "",
     "category": "Stories",
@@ -2615,6 +2998,7 @@
     "path": "/lessons/stories/fables/the-tortoise-and-the-birds/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Two Fellows and the Bear",
     "subtitle": "",
     "category": "Stories",
@@ -2622,6 +3006,7 @@
     "path": "/lessons/stories/fables/the-two-fellows-and-the-bear/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Hart in the Ox-Stall",
     "subtitle": "",
     "category": "Stories",
@@ -2629,6 +3014,7 @@
     "path": "/lessons/stories/fables/the-hart-in-the-ox-stall/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Man and the Serpent",
     "subtitle": "",
     "category": "Stories",
@@ -2636,6 +3022,7 @@
     "path": "/lessons/stories/fables/the-man-and-the-serpent/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Fox Without a Tail",
     "subtitle": "",
     "category": "Stories",
@@ -2643,6 +3030,7 @@
     "path": "/lessons/stories/fables/the-fox-without-a-tail/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Goose With the Golden Eggs",
     "subtitle": "",
     "category": "Stories",
@@ -2650,6 +3038,7 @@
     "path": "/lessons/stories/fables/the-goose-with-the-golden-eggs/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Man and the Wooden God",
     "subtitle": "",
     "category": "Stories",
@@ -2657,6 +3046,7 @@
     "path": "/lessons/stories/fables/the-man-and-the-wooden-god/lesson.txt"
   },
   {
+    "author": "Typey Type",
     "title": "The Nurse and the Wolf",
     "subtitle": "",
     "category": "Stories",
