@@ -1,0 +1,2666 @@
+[
+  {
+    "title": "Typey Type",
+    "subtitle": "",
+    "category": "Typey Type",
+    "subcategory": "",
+    "tagline": "Typey&nbsp;Type’s dictionary is a version of the Plover dictionary with misstrokes removed for the top 10,000 words.",
+    "link": "/typey-type/support#typey-type-dictionary",
+    "path": "/dictionaries/typey-type/typey-type.json"
+  },
+  {
+    "title": "Plover main Aug 16, 2017",
+    "subtitle": "",
+    "category": "Plover",
+    "subcategory": "",
+    "tagline": "Plover’s main dictionary from 16 August 2017",
+    "link": "https://github.com/openstenoproject/plover/blob/5ae5bb98a6776daf5e3aee75cc5b24720e872c7c/plover/assets/main.json",
+    "path": "/dictionaries/plover/main-16-aug-2017.json"
+  },
+  {
+    "title": "One-syllable words with simple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with more consonants",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-more-consonants/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with F as V or S",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with unstressed vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with inversion",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-inversion/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with short I vowel",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with short vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-short-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with long vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-long-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with diphthongs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with vowel disambiguators",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with left-hand consonants with multiple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with right-hand consonants with multiple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with digraphs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with compound clusters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with multiple strokes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with compound clusters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with inversion",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with briefs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with prefixes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with suffixes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with doubled consonant letters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with multiple strokes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt"
+  },
+  {
+    "title": "Fingerspelling",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/fingerspelling/lesson.txt"
+  },
+  {
+    "title": "Punctuation",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/punctuation/lesson.txt"
+  },
+  {
+    "title": "Numbers",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/lessons/fundamentals/numbers/lesson.txt"
+  },
+  {
+    "title": "Top 100 words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/top-100-words/lesson.txt"
+  },
+  {
+    "title": "Top 1000 words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/top-1000-words/lesson.txt"
+  },
+  {
+    "title": "Top 10000 Project Gutenberg words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt"
+  },
+  {
+    "title": "Top 10000 English words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/top-10000-english-words/lesson.txt"
+  },
+  {
+    "title": "Longest Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/longest-words/lesson.txt"
+  },
+  {
+    "title": "Common Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/common-words/lesson.txt"
+  },
+  {
+    "title": "Single-Stroke Briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/single-stroke-briefs/lesson.txt"
+  },
+  {
+    "title": "Apostrophes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/apostrophes/lesson.txt"
+  },
+  {
+    "title": "Email Salutations and Complimentary Closings",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt"
+  },
+  {
+    "title": "Homophones",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/homophones/lesson.txt"
+  },
+  {
+    "title": "Pronouns",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/pronouns/lesson.txt"
+  },
+  {
+    "title": "Pronouns continued",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/pronouns-continued/lesson.txt"
+  },
+  {
+    "title": "Pronouns and Contractions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/pronouns-contractions/lesson.txt"
+  },
+  {
+    "title": "Titles",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/titles/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/calendar/lesson.txt"
+  },
+  {
+    "title": "Time",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/time/lesson.txt"
+  },
+  {
+    "title": "Emotions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/emotions/lesson.txt"
+  },
+  {
+    "title": "Superlatives",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/superlatives/lesson.txt"
+  },
+  {
+    "title": "FR: -fer",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/fr-fer/lesson.txt"
+  },
+  {
+    "title": "FR: -ver",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/fr-ver/lesson.txt"
+  },
+  {
+    "title": "Prefixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/prefixes/lesson.txt"
+  },
+  {
+    "title": "Suffixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/suffixes/lesson.txt"
+  },
+  {
+    "title": "Suffix and prefix briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/suffix-and-prefix-briefs/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words: Common",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/two-letter-words-common/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words: Rare",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/two-letter-words-rare/lesson.txt"
+  },
+  {
+    "title": "Steno party tricks",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/lessons/drills/steno-party-tricks/lesson.txt"
+  },
+  {
+    "title": "UX design vocabulary",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "User experience design",
+    "path": "/lessons/collections/user-experience/ux-vocabulary/lesson.txt"
+  },
+  {
+    "title": "jQuery",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/jquery/lesson.txt"
+  },
+  {
+    "title": "Haxe",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/haxe/lesson.txt"
+  },
+  {
+    "title": "CSS alignment",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/css-alignment/lesson.txt"
+  },
+  {
+    "title": "CSS media object",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/css-media-object/lesson.txt"
+  },
+  {
+    "title": "CSS declarations",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/css-declarations/lesson.txt"
+  },
+  {
+    "title": "Ruby",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/ruby/lesson.txt"
+  },
+  {
+    "title": "HTML",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/html/lesson.txt"
+  },
+  {
+    "title": "Git",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/git/lesson.txt"
+  },
+  {
+    "title": "Markdown",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/lessons/collections/tech/markdown/lesson.txt"
+  },
+  {
+    "title": "Medical suffixes",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "/lessons/collections/medical/medical-suffixes/lesson.txt"
+  },
+  {
+    "title": "Medical nouns",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "/lessons/collections/medical/medical-nouns/lesson.txt"
+  },
+  {
+    "title": "Medical prefixes",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "/lessons/collections/medical/medical-prefixes/lesson.txt"
+  },
+  {
+    "title": "Human Resources vocabulary",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Human resources (HR)",
+    "path": "/lessons/collections/human-resources/hris-vocabulary/lesson.txt"
+  },
+  {
+    "title": "How *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/how/lesson.txt"
+  },
+  {
+    "title": "That *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/that/lesson.txt"
+  },
+  {
+    "title": "Who *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/who/lesson.txt"
+  },
+  {
+    "title": "You *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/you/lesson.txt"
+  },
+  {
+    "title": "With *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/with/lesson.txt"
+  },
+  {
+    "title": "What *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/what/lesson.txt"
+  },
+  {
+    "title": "The *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/the/lesson.txt"
+  },
+  {
+    "title": "There *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/there/lesson.txt"
+  },
+  {
+    "title": "He *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/he/lesson.txt"
+  },
+  {
+    "title": "On *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/on/lesson.txt"
+  },
+  {
+    "title": "And *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/and/lesson.txt"
+  },
+  {
+    "title": "We *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/we/lesson.txt"
+  },
+  {
+    "title": "Too *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/too/lesson.txt"
+  },
+  {
+    "title": "Where *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/where/lesson.txt"
+  },
+  {
+    "title": "They *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/they/lesson.txt"
+  },
+  {
+    "title": "It *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/it/lesson.txt"
+  },
+  {
+    "title": "Which *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/which/lesson.txt"
+  },
+  {
+    "title": "When *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/when/lesson.txt"
+  },
+  {
+    "title": "This *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/this/lesson.txt"
+  },
+  {
+    "title": "Of *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/of/lesson.txt"
+  },
+  {
+    "title": "Would",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/would/lesson.txt"
+  },
+  {
+    "title": "She",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/lessons/collections/two-word-briefs-same-beginnings/she/lesson.txt"
+  },
+  {
+    "title": "*-D",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--D/lesson.txt"
+  },
+  {
+    "title": "H-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-H/lesson.txt"
+  },
+  {
+    "title": "R-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-R/lesson.txt"
+  },
+  {
+    "title": "*E*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-E/lesson.txt"
+  },
+  {
+    "title": "*U*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-U/lesson.txt"
+  },
+  {
+    "title": "K-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-K/lesson.txt"
+  },
+  {
+    "title": "*-T",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--T/lesson.txt"
+  },
+  {
+    "title": "T-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-T/lesson.txt"
+  },
+  {
+    "title": "*-R",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--R/lesson.txt"
+  },
+  {
+    "title": "W-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-W/lesson.txt"
+  },
+  {
+    "title": "*A*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-A/lesson.txt"
+  },
+  {
+    "title": "P-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-P/lesson.txt"
+  },
+  {
+    "title": "S-*, *-S, and *-Z",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt"
+  },
+  {
+    "title": "*-L",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--L/lesson.txt"
+  },
+  {
+    "title": "*-B",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--B/lesson.txt"
+  },
+  {
+    "title": "*-F",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--F/lesson.txt"
+  },
+  {
+    "title": "*-G",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--G/lesson.txt"
+  },
+  {
+    "title": "*-P",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs--P/lesson.txt"
+  },
+  {
+    "title": "*O*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/lessons/collections/two-key-briefs/two-key-briefs-O/lesson.txt"
+  },
+  {
+    "title": "* in",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/in/lesson.txt"
+  },
+  {
+    "title": "* that",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/that/lesson.txt"
+  },
+  {
+    "title": "* be",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/be/lesson.txt"
+  },
+  {
+    "title": "* the",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/the/lesson.txt"
+  },
+  {
+    "title": "* had",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/had/lesson.txt"
+  },
+  {
+    "title": "* and",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/and/lesson.txt"
+  },
+  {
+    "title": "* is",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/is/lesson.txt"
+  },
+  {
+    "title": "* to",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/to/lesson.txt"
+  },
+  {
+    "title": "* of",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/lessons/collections/two-word-briefs-same-endings/of/lesson.txt"
+  },
+  {
+    "title": "The Fairy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/the-fairy/lesson.txt"
+  },
+  {
+    "title": "Little Red Riding-Hood",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/little-red-riding-hood/lesson.txt"
+  },
+  {
+    "title": "Cinderilla or the Little Glass Slipper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/lesson.txt"
+  },
+  {
+    "title": "Blue Beard",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/blue-beard/lesson.txt"
+  },
+  {
+    "title": "The Ridiculous Wishes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/the-ridiculous-wishes/lesson.txt"
+  },
+  {
+    "title": "Donkey-Skin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/donkey-skin/lesson.txt"
+  },
+  {
+    "title": "The Sleeping Beauty in the Wood",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/the-sleeping-beauty-in-the-wood/lesson.txt"
+  },
+  {
+    "title": "Little Thumb",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/little-thumb/lesson.txt"
+  },
+  {
+    "title": "Riquet With the Tuft",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/riquet-with-the-tuft/lesson.txt"
+  },
+  {
+    "title": "The Master Cat or Puss in Boots",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/lessons/stories/charles-perrault/the-master-cat-or-puss-in-boots/lesson.txt"
+  },
+  {
+    "title": "The Ugly Duckling",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-ugly-duckling/lesson.txt"
+  },
+  {
+    "title": "The Angel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-angel/lesson.txt"
+  },
+  {
+    "title": "The Tinder-Box",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-tinder-box/lesson.txt"
+  },
+  {
+    "title": "The Drop of Water",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-drop-of-water/lesson.txt"
+  },
+  {
+    "title": "Ole-Luk-Oie, the Dream-God",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/ole-luk-oie--the-dream-god/lesson.txt"
+  },
+  {
+    "title": "A Great Grief",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/a-great-grief/lesson.txt"
+  },
+  {
+    "title": "The Jewish Maiden",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-jewish-maiden/lesson.txt"
+  },
+  {
+    "title": "The Psyche",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-psyche/lesson.txt"
+  },
+  {
+    "title": "Everything in the Right Place",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/everything-in-the-right-place/lesson.txt"
+  },
+  {
+    "title": "The Thorny Road of Honor",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-thorny-road-of-honor/lesson.txt"
+  },
+  {
+    "title": "A Story",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/a-story/lesson.txt"
+  },
+  {
+    "title": "The Dumb Book",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-dumb-book/lesson.txt"
+  },
+  {
+    "title": "Two Brothers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/two-brothers/lesson.txt"
+  },
+  {
+    "title": "The Portuguese Duck",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-portuguese-duck/lesson.txt"
+  },
+  {
+    "title": "Little Tiny or Thumbelina",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/little-tiny-or-thumbelina/lesson.txt"
+  },
+  {
+    "title": "Jack the Dullard",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/jack-the-dullard/lesson.txt"
+  },
+  {
+    "title": "The Child in the Grave",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-child-in-the-grave/lesson.txt"
+  },
+  {
+    "title": "The Bird of Popular Song",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-bird-of-popular-song/lesson.txt"
+  },
+  {
+    "title": "The Girl Who Trod on the Loaf",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/lesson.txt"
+  },
+  {
+    "title": "The Beetle Who Went on His Travels",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/lesson.txt"
+  },
+  {
+    "title": "The Puppet-Show Man",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-puppet-show-man/lesson.txt"
+  },
+  {
+    "title": "The Old House",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-old-house/lesson.txt"
+  },
+  {
+    "title": "The Swineherd",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-swineherd/lesson.txt"
+  },
+  {
+    "title": "There Is No Doubt About It",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/there-is-no-doubt-about-it/lesson.txt"
+  },
+  {
+    "title": "The Neighbouring Families",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-neighbouring-families/lesson.txt"
+  },
+  {
+    "title": "The Pea Blossom",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-pea-blossom/lesson.txt"
+  },
+  {
+    "title": "The Red Shoes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-red-shoes/lesson.txt"
+  },
+  {
+    "title": "The Shirt-Collar",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-shirt-collar/lesson.txt"
+  },
+  {
+    "title": "The Snail and the Rose-Tree",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-snail-and-the-rose-tree/lesson.txt"
+  },
+  {
+    "title": "The Golden Treasure",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-golden-treasure/lesson.txt"
+  },
+  {
+    "title": "Beauty of Form and Beauty of Mind",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/lesson.txt"
+  },
+  {
+    "title": "The Butterfly",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-butterfly/lesson.txt"
+  },
+  {
+    "title": "She Was Good for Nothing",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/she-was-good-for-nothing/lesson.txt"
+  },
+  {
+    "title": "The Top and Ball",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-top-and-ball/lesson.txt"
+  },
+  {
+    "title": "The Phoenix Bird",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-phoenix-bird/lesson.txt"
+  },
+  {
+    "title": "The Little Elder-Tree Mother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-little-elder-tree-mother/lesson.txt"
+  },
+  {
+    "title": "The Loveliest Rose in the World",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/lesson.txt"
+  },
+  {
+    "title": "The Elf of the Rose",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-elf-of-the-rose/lesson.txt"
+  },
+  {
+    "title": "The Goblin and the Huckster",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-goblin-and-the-huckster/lesson.txt"
+  },
+  {
+    "title": "Two Maidens",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/two-maidens/lesson.txt"
+  },
+  {
+    "title": "The Farm-Yard Cock and the Weather-Cock",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/lesson.txt"
+  },
+  {
+    "title": "The Toad",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-toad/lesson.txt"
+  },
+  {
+    "title": "The Sunbeam and the Captive",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-sunbeam-and-the-captive/lesson.txt"
+  },
+  {
+    "title": "The Old Grave-Stone",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-old-grave-stone/lesson.txt"
+  },
+  {
+    "title": "The Saucy Boy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-saucy-boy/lesson.txt"
+  },
+  {
+    "title": "The Last Pearl",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-last-pearl/lesson.txt"
+  },
+  {
+    "title": "Something",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/something/lesson.txt"
+  },
+  {
+    "title": "The Bell",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-bell/lesson.txt"
+  },
+  {
+    "title": "Grandmother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/grandmother/lesson.txt"
+  },
+  {
+    "title": "The Flax",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-flax/lesson.txt"
+  },
+  {
+    "title": "The Flying Trunk",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-flying-trunk/lesson.txt"
+  },
+  {
+    "title": "The Storks",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-storks/lesson.txt"
+  },
+  {
+    "title": "The Will-O-the Wisp Is in the Town, Says the Moor Woman",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town--says-the-moor-woman/lesson.txt"
+  },
+  {
+    "title": "The Snow Man",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-snow-man/lesson.txt"
+  },
+  {
+    "title": "The Silver Shilling",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-silver-shilling/lesson.txt"
+  },
+  {
+    "title": "The Snowdrop",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-snowdrop/lesson.txt"
+  },
+  {
+    "title": "The Last Dream of the Old Oak",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/lesson.txt"
+  },
+  {
+    "title": "Holger Danske",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/holger-danske/lesson.txt"
+  },
+  {
+    "title": "Little Tuk",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/little-tuk/lesson.txt"
+  },
+  {
+    "title": "Ib and Little Christina",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/ib-and-little-christina/lesson.txt"
+  },
+  {
+    "title": "The Happy Family",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-happy-family/lesson.txt"
+  },
+  {
+    "title": "The Old Church Bell",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-old-church-bell/lesson.txt"
+  },
+  {
+    "title": "Little Ida's Flowers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/little-ida-s-flowers/lesson.txt"
+  },
+  {
+    "title": "Our Aunt",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/our-aunt/lesson.txt"
+  },
+  {
+    "title": "The Races",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-races/lesson.txt"
+  },
+  {
+    "title": "The Pen and the Inkstand",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-pen-and-the-inkstand/lesson.txt"
+  },
+  {
+    "title": "The Little Match-Seller",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-little-match-seller/lesson.txt"
+  },
+  {
+    "title": "The Story of the Wind",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-story-of-the-wind/lesson.txt"
+  },
+  {
+    "title": "The Bell-Deep",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-bell-deep/lesson.txt"
+  },
+  {
+    "title": "The Thistle's Experiences",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-thistle-s-experiences/lesson.txt"
+  },
+  {
+    "title": "Ole the Tower-Keeper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/ole-the-tower-keeper/lesson.txt"
+  },
+  {
+    "title": "The Bishop of Borglum and His Warriors",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/lesson.txt"
+  },
+  {
+    "title": "Children's Prattle",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/children-s-prattle/lesson.txt"
+  },
+  {
+    "title": "The Story of the Year",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-story-of-the-year/lesson.txt"
+  },
+  {
+    "title": "The Money-Box",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-money-box/lesson.txt"
+  },
+  {
+    "title": "The Swan's Nest",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-swan-s-nest/lesson.txt"
+  },
+  {
+    "title": "By the Almshouse Window",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/by-the-almshouse-window/lesson.txt"
+  },
+  {
+    "title": "The Story of a Mother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-story-of-a-mother/lesson.txt"
+  },
+  {
+    "title": "A Leaf From Heaven",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/a-leaf-from-heaven/lesson.txt"
+  },
+  {
+    "title": "In the Uttermost Parts of the Sea",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/lesson.txt"
+  },
+  {
+    "title": "In the Nursery",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/in-the-nursery/lesson.txt"
+  },
+  {
+    "title": "The Nightingale",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-nightingale/lesson.txt"
+  },
+  {
+    "title": "Delaying Is Not Forgetting",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/delaying-is-not-forgetting/lesson.txt"
+  },
+  {
+    "title": "The Fir Tree",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-fir-tree/lesson.txt"
+  },
+  {
+    "title": "The Elfin Hill",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-elfin-hill/lesson.txt"
+  },
+  {
+    "title": "The Buckwheat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-buckwheat/lesson.txt"
+  },
+  {
+    "title": "The Jumper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-jumper/lesson.txt"
+  },
+  {
+    "title": "The Emperor's New Suit",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-emperor-s-new-suit/lesson.txt"
+  },
+  {
+    "title": "The Darning-Needle",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-darning-needle/lesson.txt"
+  },
+  {
+    "title": "The Shadow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-shadow/lesson.txt"
+  },
+  {
+    "title": "The Windmill",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-windmill/lesson.txt"
+  },
+  {
+    "title": "What the Old Man Does Is Always Right",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/lesson.txt"
+  },
+  {
+    "title": "The Storm Shakes the Shield",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-storm-shakes-the-shield/lesson.txt"
+  },
+  {
+    "title": "The Shepherdess and the Sheep",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/lesson.txt"
+  },
+  {
+    "title": "Little Claus and Big Claus",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/little-claus-and-big-claus/lesson.txt"
+  },
+  {
+    "title": "The Shepherd's Story of the Bond of Friendship",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-shepherd-s-story-of-the-bond-of-friendship/lesson.txt"
+  },
+  {
+    "title": "A Rose From Homer's Grave",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/a-rose-from-homer-s-grave/lesson.txt"
+  },
+  {
+    "title": "The Daisy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-daisy/lesson.txt"
+  },
+  {
+    "title": "The Brave Tin Soldier",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-brave-tin-soldier/lesson.txt"
+  },
+  {
+    "title": "What One Can Invent",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/what-one-can-invent/lesson.txt"
+  },
+  {
+    "title": "The Old Street Lamp",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-old-street-lamp/lesson.txt"
+  },
+  {
+    "title": "Anne Lisbeth",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/anne-lisbeth/lesson.txt"
+  },
+  {
+    "title": "The Wicked Prince",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-wicked-prince/lesson.txt"
+  },
+  {
+    "title": "In a Thousand Years",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/in-a-thousand-years/lesson.txt"
+  },
+  {
+    "title": "The Conceited Apple-Branch",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-conceited-apple-branch/lesson.txt"
+  },
+  {
+    "title": "The Metal Pig",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-metal-pig/lesson.txt"
+  },
+  {
+    "title": "The Mail-Coach Passengers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-mail-coach-passengers/lesson.txt"
+  },
+  {
+    "title": "A Cheerful Temper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/a-cheerful-temper/lesson.txt"
+  },
+  {
+    "title": "The Princess and the Pea",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-princess-and-the-pea/lesson.txt"
+  },
+  {
+    "title": "The Bottle Neck",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/lessons/stories/hans-christian-andersen/the-bottle-neck/lesson.txt"
+  },
+  {
+    "title": "The Little Peasant",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-little-peasant/lesson.txt"
+  },
+  {
+    "title": "The Turnip",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-turnip/lesson.txt"
+  },
+  {
+    "title": "The Four Clever Brothers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-four-clever-brothers/lesson.txt"
+  },
+  {
+    "title": "The Golden Goose",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-golden-goose/lesson.txt"
+  },
+  {
+    "title": "Clever Hans",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/clever-hans/lesson.txt"
+  },
+  {
+    "title": "The Elves and the Shoemaker",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-elves-and-the-shoemaker/lesson.txt"
+  },
+  {
+    "title": "The Adventures of Chanticleer and Partlet",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-adventures-of-chanticleer-and-partlet/lesson.txt"
+  },
+  {
+    "title": "The Willow-Wren and the Bear",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-willow-wren-and-the-bear/lesson.txt"
+  },
+  {
+    "title": "Fundevogel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/fundevogel/lesson.txt"
+  },
+  {
+    "title": "Clever Elsie",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/clever-elsie/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Horse",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-fox-and-the-horse/lesson.txt"
+  },
+  {
+    "title": "The Blue Light",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-blue-light/lesson.txt"
+  },
+  {
+    "title": "The Valiant Little Tailor",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-valiant-little-tailor/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Cat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-fox-and-the-cat/lesson.txt"
+  },
+  {
+    "title": "The Water of Life",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-water-of-life/lesson.txt"
+  },
+  {
+    "title": "Hansel and Gretel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/hansel-and-gretel/lesson.txt"
+  },
+  {
+    "title": "The Wedding of Mrs Fox",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-wedding-of-mrs-fox/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Seven Little Kids",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-wolf-and-the-seven-little-kids/lesson.txt"
+  },
+  {
+    "title": "The Twelve Huntsmen",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-twelve-huntsmen/lesson.txt"
+  },
+  {
+    "title": "Clever Gretel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/clever-gretel/lesson.txt"
+  },
+  {
+    "title": "Hans in Luck",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/hans-in-luck/lesson.txt"
+  },
+  {
+    "title": "The Fisherman and His Wife",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-fisherman-and-his-wife/lesson.txt"
+  },
+  {
+    "title": "Sweetheart Roland",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/sweetheart-roland/lesson.txt"
+  },
+  {
+    "title": "The Goose-Girl",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-goose-girl/lesson.txt"
+  },
+  {
+    "title": "Jorinda and Jorindel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/jorinda-and-jorindel/lesson.txt"
+  },
+  {
+    "title": "The Miser in the Bush",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-miser-in-the-bush/lesson.txt"
+  },
+  {
+    "title": "The Old Man and His Grandson",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-old-man-and-his-grandson/lesson.txt"
+  },
+  {
+    "title": "Iron Hans",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/iron-hans/lesson.txt"
+  },
+  {
+    "title": "Lily and the Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/lily-and-the-lion/lesson.txt"
+  },
+  {
+    "title": "Snow-White and Rose-Red",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/snow-white-and-rose-red/lesson.txt"
+  },
+  {
+    "title": "The Travelling Musicians",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-travelling-musicians/lesson.txt"
+  },
+  {
+    "title": "The Mouse, the Bird, and the Sausage",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-mouse--the-bird--and-the-sausage/lesson.txt"
+  },
+  {
+    "title": "The Golden Bird",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-golden-bird/lesson.txt"
+  },
+  {
+    "title": "The Queen Bee",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-queen-bee/lesson.txt"
+  },
+  {
+    "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/lesson.txt"
+  },
+  {
+    "title": "Doctor Knowall",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/doctor-knowall/lesson.txt"
+  },
+  {
+    "title": "Tom Thumb",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/tom-thumb/lesson.txt"
+  },
+  {
+    "title": "Briar Rose",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/briar-rose/lesson.txt"
+  },
+  {
+    "title": "Rapunzel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/rapunzel/lesson.txt"
+  },
+  {
+    "title": "Cat-Skin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/cat-skin/lesson.txt"
+  },
+  {
+    "title": "The Straw, the Coal, and the Bean",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-straw--the-coal--and-the-bean/lesson.txt"
+  },
+  {
+    "title": "The White Snake",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-white-snake/lesson.txt"
+  },
+  {
+    "title": "Old Sultan",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/old-sultan/lesson.txt"
+  },
+  {
+    "title": "The Frog-Prince",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-frog-prince/lesson.txt"
+  },
+  {
+    "title": "The Three Languages",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-three-languages/lesson.txt"
+  },
+  {
+    "title": "Rumpelstiltskin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/rumpelstiltskin/lesson.txt"
+  },
+  {
+    "title": "King Grisly-Beard",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/king-grisly-beard/lesson.txt"
+  },
+  {
+    "title": "The Twelve Dancing Princesses",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-twelve-dancing-princesses/lesson.txt"
+  },
+  {
+    "title": "The King of the Golden Mountain",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-king-of-the-golden-mountain/lesson.txt"
+  },
+  {
+    "title": "Snowdrop",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/snowdrop/lesson.txt"
+  },
+  {
+    "title": "The Dog and the Sparrow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-dog-and-the-sparrow/lesson.txt"
+  },
+  {
+    "title": "Cat and Mouse in Partnership",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/cat-and-mouse-in-partnership/lesson.txt"
+  },
+  {
+    "title": "The Raven",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-raven/lesson.txt"
+  },
+  {
+    "title": "Mother Holle",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/mother-holle/lesson.txt"
+  },
+  {
+    "title": "The Juniper-Tree",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-juniper-tree/lesson.txt"
+  },
+  {
+    "title": "Frederick and Catherine",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/frederick-and-catherine/lesson.txt"
+  },
+  {
+    "title": "The Pink",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-pink/lesson.txt"
+  },
+  {
+    "title": "Ashputtel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/ashputtel/lesson.txt"
+  },
+  {
+    "title": "The Seven Ravens",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-seven-ravens/lesson.txt"
+  },
+  {
+    "title": "The Robber Bridegroom",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-robber-bridegroom/lesson.txt"
+  },
+  {
+    "title": "The Salad",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/lessons/stories/grimm/the-salad/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Grapes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-grapes/lesson.txt"
+  },
+  {
+    "title": "The Bundle of Sticks",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-bundle-of-sticks/lesson.txt"
+  },
+  {
+    "title": "The Cock and the Pearl",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-cock-and-the-pearl/lesson.txt"
+  },
+  {
+    "title": "Belling the Cat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/belling-the-cat/lesson.txt"
+  },
+  {
+    "title": "The Old Woman and the Wine-Jar",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-old-woman-and-the-wine-jar/lesson.txt"
+  },
+  {
+    "title": "The Hare and the Tortoise",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-hare-and-the-tortoise/lesson.txt"
+  },
+  {
+    "title": "The Lion in Love",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-lion-in-love/lesson.txt"
+  },
+  {
+    "title": "The Hart and the Hunter",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-hart-and-the-hunter/lesson.txt"
+  },
+  {
+    "title": "The Sick Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-sick-lion/lesson.txt"
+  },
+  {
+    "title": "The Lion and the Statue",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-lion-and-the-statue/lesson.txt"
+  },
+  {
+    "title": "The Hare With Many Friends",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-hare-with-many-friends/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-lion/lesson.txt"
+  },
+  {
+    "title": "The Belly and the Members",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-belly-and-the-members/lesson.txt"
+  },
+  {
+    "title": "The Frogs Desiring a King",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-frogs-desiring-a-king/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Cat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-cat/lesson.txt"
+  },
+  {
+    "title": "The Lion and the Mouse",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-lion-and-the-mouse/lesson.txt"
+  },
+  {
+    "title": "Avaricious and Envious",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/avaricious-and-envious/lesson.txt"
+  },
+  {
+    "title": "The Labourer and the Nightingale",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-labourer-and-the-nightingale/lesson.txt"
+  },
+  {
+    "title": "Androcles",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/androcles/lesson.txt"
+  },
+  {
+    "title": "The Serpent and the File",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-serpent-and-the-file/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Crane",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-wolf-and-the-crane/lesson.txt"
+  },
+  {
+    "title": "The Trumpeter Taken Prisoner",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-trumpeter-taken-prisoner/lesson.txt"
+  },
+  {
+    "title": "The Buffoon and the Countryman",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-buffoon-and-the-countryman/lesson.txt"
+  },
+  {
+    "title": "The Bald Man and the Fly",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-bald-man-and-the-fly/lesson.txt"
+  },
+  {
+    "title": "The Frog and the Ox",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-frog-and-the-ox/lesson.txt"
+  },
+  {
+    "title": "The Lion's Share",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-lions-share/lesson.txt"
+  },
+  {
+    "title": "The Young Thief and His Mother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-young-thief-and-his-mother/lesson.txt"
+  },
+  {
+    "title": "The Ass and the Lapdog",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-ass-and-the-lapdog/lesson.txt"
+  },
+  {
+    "title": "The Man, the Boy, and the Donkey",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-man-the-boy-and-the-donkey/lesson.txt"
+  },
+  {
+    "title": "The Miser and His Gold",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-miser-and-his-gold/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Crow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-crow/lesson.txt"
+  },
+  {
+    "title": "The Shepherd's Boy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-shepherds-boy/lesson.txt"
+  },
+  {
+    "title": "The Four Oxen and the Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-four-oxen-and-the-lion/lesson.txt"
+  },
+  {
+    "title": "The Hares and the Frogs",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-hares-and-the-frogs/lesson.txt"
+  },
+  {
+    "title": "The Milkmaid and Her Pail",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-milkmaid-and-her-pail/lesson.txt"
+  },
+  {
+    "title": "The Two Crabs",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-two-crabs/lesson.txt"
+  },
+  {
+    "title": "The Crow and the Pitcher",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-crow-and-the-pitcher/lesson.txt"
+  },
+  {
+    "title": "The Swallow and the Other Birds",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-swallow-and-the-other-birds/lesson.txt"
+  },
+  {
+    "title": "The Man and the Satyr",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-man-and-the-satyr/lesson.txt"
+  },
+  {
+    "title": "The One-Eyed Doe",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-one-eyed-doe/lesson.txt"
+  },
+  {
+    "title": "The Mountains in Labour",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-mountains-in-labour/lesson.txt"
+  },
+  {
+    "title": "The Horse and the Ass",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-horse-and-the-ass/lesson.txt"
+  },
+  {
+    "title": "The Fisher",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fisher/lesson.txt"
+  },
+  {
+    "title": "The Ant and the Grasshopper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-ant-and-the-grasshopper/lesson.txt"
+  },
+  {
+    "title": "The Eagle and the Arrow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-eagle-and-the-arrow/lesson.txt"
+  },
+  {
+    "title": "The Town Mouse and the Country Mouse",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-town-mouse-and-the-country-mouse/lesson.txt"
+  },
+  {
+    "title": "The Two Pots",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-two-pots/lesson.txt"
+  },
+  {
+    "title": "The Wind and the Sun",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-wind-and-the-sun/lesson.txt"
+  },
+  {
+    "title": "The Old Man and Death",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-old-man-and-death/lesson.txt"
+  },
+  {
+    "title": "The Bat, the Birds and the Beasts",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-bat-the-birds-and-the-beasts/lesson.txt"
+  },
+  {
+    "title": "The Horse, Hunter, and Stag",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-horse-hunter-and-stag/lesson.txt"
+  },
+  {
+    "title": "Hercules and the Waggoner",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/hercules-and-the-waggoner/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Kid",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-wolf-and-the-kid/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Mask",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-mask/lesson.txt"
+  },
+  {
+    "title": "The Ass's Brains",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-asss-brains/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Goat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-goat/lesson.txt"
+  },
+  {
+    "title": "The Dog and the Wolf",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-dog-and-the-wolf/lesson.txt"
+  },
+  {
+    "title": "The Man and His Two Wives",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-man-and-his-two-wives/lesson.txt"
+  },
+  {
+    "title": "The Peacock and Juno",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-peacock-and-juno/lesson.txt"
+  },
+  {
+    "title": "The Lion, the Fox, and the Beasts",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-lion-the-fox-and-the-beasts/lesson.txt"
+  },
+  {
+    "title": "The Wolf in Sheep's Clothing",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-wolf-in-sheeps-clothing/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Lamb",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-wolf-and-the-lamb/lesson.txt"
+  },
+  {
+    "title": "The Ass in the Lion's Skin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-ass-in-the-lions-skin/lesson.txt"
+  },
+  {
+    "title": "The Dog in the Manger",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-dog-in-the-manger/lesson.txt"
+  },
+  {
+    "title": "The Jay and the Peacock",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-jay-and-the-peacock/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Mosquitoes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-mosquitoes/lesson.txt"
+  },
+  {
+    "title": "The Fisher and the Little Fish",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fisher-and-the-little-fish/lesson.txt"
+  },
+  {
+    "title": "The Fox, the Cock, and the Dog",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-the-cock-and-the-dog/lesson.txt"
+  },
+  {
+    "title": "The Man and the Wood",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-man-and-the-wood/lesson.txt"
+  },
+  {
+    "title": "The Cat-Maiden",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-cat-maiden/lesson.txt"
+  },
+  {
+    "title": "The Woodman and the Serpent",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-woodman-and-the-serpent/lesson.txt"
+  },
+  {
+    "title": "The Tree and the Reed",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-tree-and-the-reed/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Stork",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-and-the-stork/lesson.txt"
+  },
+  {
+    "title": "The Dog and the Shadow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-dog-and-the-shadow/lesson.txt"
+  },
+  {
+    "title": "The Tortoise and the Birds",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-tortoise-and-the-birds/lesson.txt"
+  },
+  {
+    "title": "The Two Fellows and the Bear",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-two-fellows-and-the-bear/lesson.txt"
+  },
+  {
+    "title": "The Hart in the Ox-Stall",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-hart-in-the-ox-stall/lesson.txt"
+  },
+  {
+    "title": "The Man and the Serpent",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-man-and-the-serpent/lesson.txt"
+  },
+  {
+    "title": "The Fox Without a Tail",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-fox-without-a-tail/lesson.txt"
+  },
+  {
+    "title": "The Goose With the Golden Eggs",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-goose-with-the-golden-eggs/lesson.txt"
+  },
+  {
+    "title": "The Man and the Wooden God",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-man-and-the-wooden-god/lesson.txt"
+  },
+  {
+    "title": "The Nurse and the Wolf",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/lessons/stories/fables/the-nurse-and-the-wolf/lesson.txt"
+  }
+]
