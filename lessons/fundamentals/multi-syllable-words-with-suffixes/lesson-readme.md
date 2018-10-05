@@ -356,7 +356,7 @@
 * messaging `PHEPBLG/-G`
 * largely `HRARPBG/HREU`
 * additions `A/TKEUGS/-S`
-* conclusions `KAUPB/KHRAOUG/-S`
+* conclusions `KHRAOUPBGSZ`
 * bibliography `PWUBL/OG/TPEU`
 * permits `PERPLT/-S`
 * cooperative `KWOP/TEUF`

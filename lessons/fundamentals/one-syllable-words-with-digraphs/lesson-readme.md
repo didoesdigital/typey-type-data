@@ -334,7 +334,7 @@
 * riches `REUFPS`
 * sketch `SKEFP`
 * thief `THAOEF`
-* thirst `THUFRT`
+* thirst `THEUFRT`
 * clung `KHRUPBG`
 * couch `KOUFP`
 * wretch `WREFP`

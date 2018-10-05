@@ -1148,7 +1148,7 @@
 * canyon `KAPB/KWROPB`
 * goto `TKPW/TK-LS/TO`
 * calendars `KAL/TKARS`
-* conclusions `KAUPB/KHRAOUG/-S`
+* conclusions `KHRAOUPBGSZ`
 * bibliography `PWUBL/OG/TPEU`
 * Durham `TKUR/HAPL`
 * furthermore `TPURT/PHOR`
@@ -4339,7 +4339,7 @@
 * overheard `AUFR/HAERD`
 * exporting `EBGS/PORT/-G`
 * frenzy `TPREPB/SEU`
-* thirsty `THURS/TEU`
+* thirsty `THEURS/TEU`
 * disputed `TKEUS/PAOUT/-D`
 * redistribution `TKEUZ/TKR-BGS`
 * eminently `EPL/TPHEPBT/HREU`
