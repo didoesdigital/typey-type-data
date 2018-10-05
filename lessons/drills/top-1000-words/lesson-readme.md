@@ -764,7 +764,7 @@
 * society `SOET`
 * fight `TPAOEUT`
 * wall `WAUL`
-* result `RUL`
+* result `RULT`
 * heaven `HEFPB`
 * William `WOEUPL`
 * started `STARTD`

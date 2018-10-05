@@ -4259,7 +4259,7 @@
 * restrict `REUBGT`
 * restriction `REUBGS`
 * restroom `R*ERPL`
-* result `RUL`
+* result `RULT`
 * resume `RAOUPL`
 * resumed `RAOUPLD`
 * retch `REFP`

@@ -610,7 +610,7 @@
 * court `KORT`
 * February `TPEB`
 * always `AULS`
-* result `RUL`
+* result `RULT`
 * audio `O*EUD`
 * light `HRAOEUT`
 * write `WREU`
