@@ -15,6 +15,7 @@
 * update `AUP/TKAEUT`
 * subscribe `SUB/SKRAOEUB`
 * along `A/HROPBG`
+* increase `EUPB/KRAES`
 * across `A/KROS`
 * improve `EUPL/PROF`
 * impact `EUPL/PABGT`
@@ -528,6 +529,7 @@
 * unwrap `UPB/WRAP`
 * resist `RE/SEUFT`
 * insertion `EUPB/SERGS`
+* constraint `KAUPB/STRAEUPBT`
 * outlets `AOUT/HRET/-S`
 * inhabitants `EUPB/HABT/APBTS`
 * arose `A/ROES`
@@ -861,7 +863,7 @@
 * enduring `EPB/TKAOURG`
 * proclaim `PRO/KHRAEUPL`
 * impossibility `EUPL/POBLT`
-* discontinue `TKEUS/P-PB`
+* discontinue `TKEUS/T-PB`
 * disturbing `TKEUS/TURBG`
 * abyss `A/PWEUS`
 * abominable `A/PWOPL/TPHABL`

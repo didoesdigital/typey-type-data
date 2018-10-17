@@ -49,7 +49,7 @@
 * Spanish `SPAPB/EURB`
 * highest `HAOEU/EFT`
 * networking `TPHERBG/-G`
-* largest `HRARPBL/EFT`
+* largest `HRARPBLG/EFT`
 * regulations `RAEUG/-S`
 * facility `TPAS/EULT`
 * directions `TKREBGS/-S`
@@ -163,6 +163,7 @@
 * dimensions `TKPHEPGS/-S`
 * regulatory `REG/TOER`
 * contributions `KR-BGS/-S`
+* continuous `T-PB/WOUS`
 * resulting `RULT/-G`
 * initiative `TPH-RB/TEUF`
 * extensive `STEPBS/EUF`
@@ -354,7 +355,7 @@
 * Romania `RO/PHAEUPB/KWRA`
 * blogging `PWHROG/-G`
 * messaging `PHEPBLG/-G`
-* largely `HRARPBG/HREU`
+* largely `HRARPBLG/HREU`
 * additions `A/TKEUGS/-S`
 * conclusions `KHRAOUPBGSZ`
 * bibliography `PWUBL/OG/TPEU`
