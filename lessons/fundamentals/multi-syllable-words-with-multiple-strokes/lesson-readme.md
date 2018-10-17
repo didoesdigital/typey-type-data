@@ -11,7 +11,7 @@
 * ebay `AOE/PWAEU`
 * details `TKE/TAEULS`
 * hotels `HOE/TELS`
-* address `AD/RES`
+* address `A/TKRES`
 * reserved `REFRB/-D`
 * resources `RE/SORSZ`
 * reply `RE/PHREU`

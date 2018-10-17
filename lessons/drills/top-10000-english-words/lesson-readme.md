@@ -248,7 +248,7 @@
 * take `TAEUBG`
 * posted `POEFTD`
 * Internet `STPH*ET`
-* address `AD/RES`
+* address `A/TKRES`
 * community `KPHUPBT`
 * within `W-PB`
 * states `STAEUTS`

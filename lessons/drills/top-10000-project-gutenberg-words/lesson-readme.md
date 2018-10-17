@@ -1551,7 +1551,7 @@
 * inhabitants `EUPB/HABT/APBTS`
 * series `SAOERZ`
 * laughing `HRAFG`
-* address `AD/RES`
+* address `A/TKRES`
 * relief `RE/HRAOEF`
 * bird `PWEURD`
 * owner `OERPB`

@@ -5,7 +5,7 @@
 * message `PHEPBLG`
 * comments `KPHEPBTS`
 * office `OFS`
-* address `AD/RES`
+* address `A/TKRES`
 * community `KPHUPBT`
 * shipping `SHEUPG`
 * following `TPOLG`

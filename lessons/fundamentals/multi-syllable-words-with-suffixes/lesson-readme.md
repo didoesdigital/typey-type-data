@@ -1,6 +1,5 @@
 # Multi-syllable words with suffixes
 
-* address `AD/RES`
 * advanced `SRAPBS/-D`
 * gallery `TKPWAL/REU`
 * register `REPLG/STER`
