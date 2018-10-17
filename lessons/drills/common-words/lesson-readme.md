@@ -162,7 +162,7 @@
 * chest `KHEFT`
 * child `KHAOEULD`
 * children `KHEURPB`
-* chuckle `KHUBG/-L`
+* chuckle `KHUBG/*L`
 * city `STEU`
 * class `KHRAS`
 * clean `KHAOEPB`
@@ -338,7 +338,7 @@
 * gaze `TKPWAEZ`
 * gently `SKWREPBT/HREU`
 * get `TKPWET`
-* giggle `TKPWEUG/-L`
+* giggle `TKPWEUG/*L`
 * girl `TKPWEURL`
 * girlfriend `TKPWOEUF`
 * give `TKPWEUF`

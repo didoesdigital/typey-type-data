@@ -1926,7 +1926,7 @@
 * dilate `TKHRAEUT`
 * dilated `TKHRAEUTD`
 * dilating `TKHRAEUGT`
-* dilation `TKAOEULGS`
+* dilation `TKHRAEUGS`
 * dill `TKEUL`
 * dilute `KHRAOUT`
 * diluted `TKHRAOUTD`

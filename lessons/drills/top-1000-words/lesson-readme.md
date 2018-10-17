@@ -936,7 +936,7 @@
 * passage `PAFPBLG`
 * eight `AET`
 * closed `KHROEFD`
-* ourselves `OUR/SEFS`
+* ourselves `O*URSZ`
 * gives `TKPWEUFS`
 * dress `TKRES`
 * passing `PAFG`
