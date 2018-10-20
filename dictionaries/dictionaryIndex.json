@@ -21,13 +21,63 @@
   },
   {
     "author": "Di Does Digital",
-    "title": "Navigation",
+    "title": "Australian English with extra strokes",
     "subtitle": "",
     "category": "Di Does Digital",
     "subcategory": "",
+    "tagline": "Di Does Digital’s Australian English with extra strokes dictionary lets you write Australian/UK/International English variants of words by appending /A*U to strokes.",
+    "link": "https://github.com/dimonster/plover-dictionaries#australian-english-dictionaries",
+    "path": "/dictionaries/didoesdigital/dict_en_AU_with_extra_stroke.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Navigation",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Commands",
     "tagline": "Di Does Digital’s Mac navigation dictionary lets you switch tabs, windows, and apps, as well as navigate and edit text efficiently. You can move your cursor by letter, word, or line, select while doing so, and also backspace or forward delete by character, word, or line.",
     "link": "https://github.com/dimonster/plover-dictionaries#navigation-dictionary",
     "path": "/dictionaries/didoesdigital/navigation.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Punctuation",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Punctuation",
+    "tagline": "Di Does Digital’s punctuation dictionary lets you write general punctuation for regular prose.",
+    "link": "https://github.com/dimonster/plover-dictionaries#punctuation-dictionary",
+    "path": "/dictionaries/didoesdigital/punctuation.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Symbols",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Symbols",
+    "tagline": "Di Does Digital’s symbols dictionary lets you write general symbols, such as copyright and trademark characters.",
+    "link": "https://github.com/dimonster/plover-dictionaries#symbols-dictionaries",
+    "path": "/dictionaries/didoesdigital/symbols.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Currency symbols",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Symbols",
+    "tagline": "Di Does Digital’s currency symbols dictionary lets you write lots of different currency symbols, such as €.",
+    "link": "https://github.com/dimonster/plover-dictionaries#symbols-dictionaries",
+    "path": "/dictionaries/didoesdigital/symbols_currency.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Vim",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Code",
+    "tagline": "Di Does Digital’s Vim dictionary lets you use steno and Vim together.",
+    "link": "https://github.com/dimonster/plover-dictionaries#vim-dictionary",
+    "path": "/dictionaries/didoesdigital/vim.json"
   },
   {
     "author": "Typey Type",
