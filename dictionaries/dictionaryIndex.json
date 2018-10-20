@@ -5,7 +5,7 @@
     "subtitle": "",
     "category": "Typey Type",
     "subcategory": "",
-    "tagline": "Typey&nbsp;Type’s dictionary is a version of the Plover dictionary with misstrokes removed for the top 10,000 words.",
+    "tagline": "Typey Type’s dictionary is a version of the Plover dictionary with misstrokes removed for the top 10,000 words.",
     "link": "/typey-type/support#typey-type-dictionary",
     "path": "/dictionaries/typey-type/typey-type.json"
   },
@@ -15,7 +15,7 @@
     "subtitle": "",
     "category": "Plover",
     "subcategory": "",
-    "tagline": "Plover’s main dictionary from 16 August 2017",
+    "tagline": "Plover’s main dictionary from 16 August 2017.",
     "link": "https://github.com/openstenoproject/plover/blob/5ae5bb98a6776daf5e3aee75cc5b24720e872c7c/plover/assets/main.json",
     "path": "/dictionaries/plover/main-16-aug-2017.json"
   },
