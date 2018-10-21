@@ -1,6 +1,6 @@
 The Man and the Satyr
 
-'A': AEU
+'A': KPA*/AEU
 'Man': PHAPB
 'had': H
 'lost': HRO*S
@@ -15,7 +15,7 @@ The Man and the Satyr
 'night.': TPHAOEUT TP-PL
 'As': AZ
 'he': E
-'was': WA
+'was': WAS
 'roaming': ROEPLG
 'about,': PW KW-BG
 'a': AEU
@@ -42,12 +42,12 @@ The Man and the Satyr
 'the': -T
 'night,': TPHAOEUT KW-BG
 'and': SKP
-'guide': TPWAOEUD
+'guide': TKPWAOEUD
 'him': HEUPL
 'out': OUT
 'of': -F
 'the': -T
-'forest': TPO*RS
+'forest': TPOEFRT
 'in': TPH
 'the': -T
 'morning.': PHORPBG TP-PL
@@ -89,7 +89,7 @@ The Man and the Satyr
 'numb': TPH*UPL
 'with': W
 'the': -T
-'cold,"': KOELD KW-RBGTS
+'cold,"': KOELD KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Man,': PHAPB KW-BG
@@ -132,7 +132,7 @@ The Man and the Satyr
 'began': TKPWAPB
 'blowing': PWHROEG
 'upon': POPB
-'it.': T-FP
+'it.': T TP-PL
 '"And': KR-GS SKP
 'what': WHA
 'do': TKO
@@ -153,17 +153,17 @@ The Man and the Satyr
 'breath': PWR*ET
 'will': HR
 'cool': KAOL
-'it."': T-FP KR-GS
+'it."': T TP-PL KR-GS
 '"Out': KR-GS OUT
 'you': U
-'go,"': TKPW KW-RBGTS
+'go,"': TKPW KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Satyr.': SAEURT TP-PL
 '"I': KR-GS EU
 'will': HR
 'have': SR
-'nought': TPH*/OT
+'nought': TPHA*UT
 'to': TO
 'do': TKO
 'with': W

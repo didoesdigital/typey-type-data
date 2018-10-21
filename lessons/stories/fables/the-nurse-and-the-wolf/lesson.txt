@@ -2,7 +2,7 @@ The Nurse and the Wolf
 
 '"Be': KR-GS -B
 'quiet': KWAO*EUT
-'now,"': TPHOU KW-RBGTS
+'now,"': TPHOU KW-BG KR-GS
 'said': SAEUD
 'an': APB
 'old': OLD
@@ -10,13 +10,13 @@ The Nurse and the Wolf
 'to': TO
 'a': AEU
 'child': KHAOEULD
-'sitting': SAO*EGT
+'sitting': SEUGT
 'on': OPB
 'her': HER
 'lap.': HRAP TP-PL
 '"If': KR-GS TP
 'you': U
-'make': PAEUBG
+'make': PHAEUBG
 'that': THA
 'noise': TPHOEUS
 'again': TKPWEPB
@@ -33,15 +33,15 @@ The Nurse and the Wolf
 'that': THA
 'a': AEU
 'Wolf': WOFL
-'was': WA
+'was': WAS
 'passing': PAFG
 'close': KHROES
-'under': TPH-PB
+'under': *UPBD
 'the': -T
 'window': WOEUPBD
 'as': AZ
 'this': TH
-'was': WA
+'was': WAS
 'said.': SAEUD TP-PL
 'So': SO
 'he': E
@@ -60,7 +60,7 @@ The Nurse and the Wolf
 'in': TPH
 'good': TKPWAOD
 'luck': HRUBG
-'to-day,"': TO H-PB TKAEU KW-RBGTS
+'to-day,"': TO H-PB TKAEU KW-BG KR-GS
 'thought': THAUT
 'he.': E TP-PL
 '"It': KR-GS T
@@ -74,13 +74,13 @@ The Nurse and the Wolf
 'daintier': TKAEUPBT/KWRER
 'morsel': PHOR/SEL
 'I': EU
-'haven't': SR-PBT
+'haven't': SR-PB
 'had': H
 'for': TPOR
 'many': PHAEPB
 'a': AEU
 'long': HROPBG
-'day."': TKAEUFP KR-GS
+'day."': TKAEU TP-PL KR-GS
 'So': SO
 'he': E
 'waited,': WAEUTD KW-BG
@@ -120,7 +120,7 @@ The Nurse and the Wolf
 'the': -T
 'Nurse': TPHURS
 'did': TK
-'was': WA
+'was': WAS
 'to': TO
 'shut': SHUT
 'down': TKOUPB
@@ -139,7 +139,7 @@ The Nurse and the Wolf
 'came': KAEUPL
 'rushing': RURBG
 'out.': OUT TP-PL
-'"Ah,"': KR-GS AERBGS KR-GS
+'"Ah,"': KR-GS HA*E KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Wolf': WOFL

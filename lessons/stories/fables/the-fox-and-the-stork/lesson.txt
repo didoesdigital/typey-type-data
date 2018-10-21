@@ -74,7 +74,7 @@ The Fox and the Stork
 'began.': TKPWAPB TP-PL
 '"I': KR-GS EU
 'am': APL
-'sorry,"': SO*ER KW-RBGTS
+'sorry,"': SOER KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Fox,': TPOBGS KW-BG
@@ -88,7 +88,7 @@ The Fox and the Stork
 '"Pray': KR-GS PRAEU
 'do': TKO
 'not': TPHOT
-'apologise,"': POLZ KW-RBGTS
+'apologise,"': POLZ/A*U KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Stork.': STORBG TP-PL
@@ -98,7 +98,7 @@ The Fox and the Stork
 'will': HR
 'return': RURPB
 'this': TH
-'visit,': SREUT KW-BG
+'visit,': SREUFT KW-BG
 'and': SKP
 'come': KOPL
 'and': SKP
@@ -109,13 +109,13 @@ The Fox and the Stork
 'So': SO
 'a': AEU
 'day': TKAEU
-'was': WA
+'was': WAS
 'appointed': POEUPBD
 'when': WHEPB
 'the': -T
 'Fox': TPOBGS
 'should': SHO
-'visit': SREUT
+'visit': SREUFT
 'the': -T
 'Stork;': STORBG STPH*FPLT
 'but': PWUT
@@ -127,20 +127,20 @@ The Fox and the Stork
 'table': TAEUBL
 'all': AUL
 'that': THA
-'was': WA
+'was': WAS
 'for': TPOR
 'their': THAEUR
 'dinner': TKEURPB
-'was': WA
-'contained': KAUPB/TAEUPBD
+'was': WAS
+'contained': TAEUPBD
 'in': TPH
 'a': AEU
 'very': SRE
-'long-necked': HROPBG H-PB TPHEBGD
+'long-necked': HROPBG H-PB TPHEBG/-D
 'jar': SKWRAR
 'with': W
 'a': AEU
-'narrow': TPHAR/OE
+'narrow': TPHO*EUR
 'mouth,': PHO*UT KW-BG
 'in': TPH
 'which': WEU
@@ -158,7 +158,7 @@ The Fox and the Stork
 'manage': PHAPBG
 'to': TO
 'do': TKO
-'was': WA
+'was': WAS
 'to': TO
 'lick': HREUBG
 'the': -T
@@ -169,10 +169,10 @@ The Fox and the Stork
 '"I': KR-GS EU
 'will': HR
 'not': TPHOT
-'apologise': POLZ
+'apologise': POLZ/A*U
 'for': TPOR
 'the': -T
-'dinner,"': TKEURPB KW-RBGTS
+'dinner,"': TKEURPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Stork:': STORBG STPH-FPLT

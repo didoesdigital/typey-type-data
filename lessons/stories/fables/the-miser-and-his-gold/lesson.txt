@@ -5,7 +5,7 @@ The Miser and His Gold
 'a': AEU
 'time': TAOEUPL
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'Miser': PHAOEUZ/ER
 'who': WHO
@@ -39,11 +39,11 @@ The Miser and His Gold
 'over': OEFR
 'his': HEUS
 'gains.': TKPWAEUPBS TP-PL
-'A': AEU
+'A': KPA*/AEU
 'robber,': ROB/ER KW-BG
 'who': WHO
 'had': H
-'noticed': TPH-TS/-D
+'noticed': TPH-TSD
 'this,': TH KW-BG
 'went': WEPBT
 'and': SKP
@@ -54,7 +54,7 @@ The Miser and His Gold
 'and': SKP
 'decamped': TKE/KAPL/-PD
 'with': W
-'it.': T-FP
+'it.': T TP-PL
 'When': WHEPB
 'the': -T
 'Miser': PHAOEUZ/ER
@@ -84,7 +84,7 @@ The Miser and His Gold
 'that': THA
 'all': AUL
 'the': -T
-'neighbours': TPHAEUBS
+'neighbours': TPHAEUBS/A*U
 'came': KAEUPL
 'around': ARPBD
 'him,': HEUPL KW-BG
@@ -98,7 +98,7 @@ The Miser and His Gold
 'to': TO
 'come': KOPL
 'and': SKP
-'visit': SREUT
+'visit': SREUFT
 'his': HEUS
 'gold.': TKPWOELD TP-PL
 '"Did': KR-GS TK
@@ -113,7 +113,7 @@ The Miser and His Gold
 'one': WUPB
 'of': -F
 'them.': THEPL TP-PL
-'"Nay,"': KR-GS TPHAEU KW-RBGTS
+'"Nay,"': KR-GS TPHAEU KW-BG KR-GS
 'said': SAEUD
 'he,': E KW-BG
 '"I': KR-GS EU
@@ -122,7 +122,7 @@ The Miser and His Gold
 'to': TO
 'look': HRAOBG
 'at': AT
-'it."': T-FP KR-GS
+'it."': T TP-PL KR-GS
 '"Then': KR-GS THEPB
 'come': KOPL
 'again': TKPWEPB
@@ -130,10 +130,10 @@ The Miser and His Gold
 'look': HRAOBG
 'at': AT
 'the': -T
-'hole,"': HOEL KW-RBGTS
+'hole,"': HOEL KW-BG KR-GS
 'said': SAEUD
 'a': AEU
-'neighbour;': TPHAEUB STPH*FPLT
+'neighbour;': TPHAEUB/A*U STPH*FPLT
 '"it': KR-GS T
 'will': HR
 'do': TKO
@@ -148,4 +148,4 @@ The Miser and His Gold
 'as': AZ
 'well': WEL
 'not': TPHOT
-'exist.': KP*EUS TP-PL
+'exist.': KPEUFT TP-PL

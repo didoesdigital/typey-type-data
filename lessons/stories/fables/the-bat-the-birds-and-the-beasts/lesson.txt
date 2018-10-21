@@ -1,9 +1,9 @@
 The Bat, the Birds and the Beasts
 
-'A': AEU
-'great': TKWRAET
+'A': KPA*/AEU
+'great': TKPWRAET
 'conflict': TPHREUBGT
-'was': WA
+'was': WAS
 'about': PW
 'to': TO
 'come': KOPL
@@ -13,7 +13,7 @@ The Bat, the Birds and the Beasts
 'Birds': PWEURDZ
 'and': SKP
 'the': -T
-'Beasts.': PWAOEFTS TP-PL
+'Beasts.': PWAOEFT/-S TP-PL
 'When': WHEPB
 'the': -T
 'two': TWO
@@ -43,15 +43,15 @@ The Bat, the Birds and the Beasts
 '"I': KR-GS EU
 'am': APL
 'a': AEU
-'Beast."': PWAO*ES TP-PL KR-GS
+'Beast."': PWAOEFT TP-PL KR-GS
 'Later': HRAEURT
 'on,': OPB KW-BG
 'some': SOPL
-'Beasts': PWAOEFTS
+'Beasts': PWAOEFT/-S
 'who': WHO
 'were': WR
 'passing': PAFG
-'underneath': UPBD/TPHAO*ET
+'underneath': UPBD/TPHO*ET
 'him': HEUPL
 'looked': HRAOBGD
 'up': UP
@@ -73,7 +73,7 @@ The Bat, the Birds and the Beasts
 'last': HRAFT
 'moment': PHOEPLT
 'peace': PAES
-'was': WA
+'was': WAS
 'made,': PHAED KW-BG
 'and': SKP
 'no': TPHO
@@ -93,7 +93,7 @@ The Bat, the Birds and the Beasts
 'join': SKWROEUPB
 'in': TPH
 'the': -T
-'rejoicings,': RE/SKWROEUFGS KW-BG
+'rejoicings,': RE/SKWROEUFG/-S KW-BG
 'but': PWUT
 'they': THE
 'all': AUL
@@ -105,13 +105,13 @@ The Bat, the Birds and the Beasts
 'had': H
 'to': TO
 'fly': TPHRAOEU
-'away.': A/WAEUFP
+'away.': A/WAEU TP-PL
 'He': E
 'then': THEPB
 'went': WEPBT
 'to': TO
 'the': -T
-'Beasts,': PWAOEFTS KW-BG
+'Beasts,': PWAOEFT/-S KW-BG
 'but': PWUT
 'soon': SAOPB
 'had': H
@@ -128,7 +128,7 @@ The Bat, the Birds and the Beasts
 'him': HEUPL
 'to': TO
 'pieces.': PAOEFS TP-PL
-'"Ah,"': KR-GS AERBGS KR-GS
+'"Ah,"': KR-GS HA*E KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Bat,': PWAT KW-BG

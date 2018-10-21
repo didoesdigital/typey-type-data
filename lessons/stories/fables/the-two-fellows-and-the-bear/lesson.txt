@@ -1,9 +1,9 @@
 The Two Fellows and the Bear
 
 'Two': TWO
-'Fellows': TPEL/OES
+'Fellows': TPO*EULS
 'were': WR
-'travelling': TRAFLG
+'travelling': TRAFLG/A*U
 'together': TOGT
 'through': THRU
 'a': AEU
@@ -18,7 +18,7 @@ The Two Fellows and the Bear
 'One': WUPB
 'of': -F
 'the': -T
-'travellers': TRA*FL/ERS
+'travellers': TRA*FL/ERS/A*U
 'happened': HAPD
 'to': TO
 'be': -B
@@ -59,7 +59,7 @@ The Two Fellows and the Bear
 'face': TPAEUS
 'in': TPH
 'the': -T
-'dust.': TK*US TP-PL
+'dust.': TKUFT TP-PL
 'The': -T
 'Bear,': PWAER KW-BG
 'coming': KO*G
@@ -99,7 +99,7 @@ The Two Fellows and the Bear
 'meat.': PHAET TP-PL
 'Then': THEPB
 'the': -T
-'fellow': TPEL/OE
+'fellow': TPO*EUL
 'in': TPH
 'the': -T
 'tree': TRAOE
@@ -112,17 +112,17 @@ The Two Fellows and the Bear
 'laughing,': HRAFG KW-BG
 'said': SAEUD
 '"What': KR-GS WHA
-'was': WA
+'was': WAS
 'it': T
 'that': THA
 'Master': PHAFRT
-'Bruin': PB*P R* *U *EU TPH*
+'Bruin': PB*P/R*/*U/*EU/TPH*
 'whispered': WHEUS/PERD
 'to': TO
 'you?"': U H-F KR-GS
 '"He': KR-GS E
 'told': TOLD
-'me,"': PHE KW-RBGTS
+'me,"': PHE KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'other,': OER KW-BG

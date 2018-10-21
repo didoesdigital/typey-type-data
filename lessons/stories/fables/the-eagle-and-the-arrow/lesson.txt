@@ -1,8 +1,8 @@
 The Eagle and the Arrow
 
 'An': APB
-'Eagle': AOEG/-L
-'was': WA
+'Eagle': AOEG/*L
+'was': WAS
 'soaring': SAORG
 'through': THRU
 'the': -T
@@ -10,7 +10,7 @@ The Eagle and the Arrow
 'when': WHEPB
 'suddenly': SULD
 'it': T
-'heard': HERD
+'heard': HAERD
 'the': -T
 'whizz': WEUZ/STKPW*
 'of': -F
@@ -31,11 +31,11 @@ The Eagle and the Arrow
 'earth,': *ERT KW-BG
 'with': W
 'its': EUTS
-'life-blood': HRAOEUF H-PB PHRAOD
+'life-blood': HRAOEUF H-PB PWHRAOD
 'pouring': PORG
 'out': OUT
 'of': -F
-'it.': T-FP
+'it.': T TP-PL
 'Looking': HRAOG
 'down': TKOUPB
 'upon': POPB
@@ -63,7 +63,7 @@ The Eagle and the Arrow
 'of': -F
 'its': EUTS
 'own': OEPB
-'plumes.': PHRAOUPL/-FPS
+'plumes.': PHRAOUPL/-S TP-PL
 '"Alas!"': KR-GS A/HRAS SKHRAPL KR-GS
 'it': T
 'cried,': KRAOEUD KW-BG
@@ -80,4 +80,4 @@ The Eagle and the Arrow
 'for': TPOR
 'our': OUR
 'own': OEPB
-'destruction."': STKRUGS TP-PL KR-GS
+'destruction."': TKRUBGS TP-PL KR-GS

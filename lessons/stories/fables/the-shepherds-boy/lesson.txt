@@ -1,7 +1,7 @@
 The Shepherd's Boy
 
 'There': THR
-'was': WA
+'was': WAS
 'once': WUPBS
 'a': AEU
 'young': KWRUPBG
@@ -19,10 +19,10 @@ The Shepherd's Boy
 'mountain': PHOUPB/TAEUPB
 'near': TPHAOER
 'a': AEU
-'dark': TARBG
-'forest.': TPO*RS TP-PL
+'dark': TKARBG
+'forest.': TPOEFRT TP-PL
 'It': T
-'was': WA
+'was': WAS
 'rather': RAER
 'lonely': HROPBL
 'for': TPOR
@@ -55,7 +55,7 @@ The Shepherd's Boy
 'calling': KAULG
 'out': OUT
 '"Wolf,': KR-GS WOFL KW-BG
-'Wolf,"': WOFL KW-RBGTS
+'Wolf,"': WOFL KW-BG KR-GS
 'and': SKP
 'the': -T
 'villagers': SREUL/APBLG/ERS
@@ -73,7 +73,7 @@ The Shepherd's Boy
 'him': HEUPL
 'for': TPOR
 'a': AEU
-'considerable': K-RBL
+'considerable': KR-BL
 'time.': TAOEUPL TP-PL
 'This': TH
 'pleased': PHRAOEFD
@@ -111,7 +111,7 @@ The Shepherd's Boy
 'out': OUT
 'from': TPR
 'the': -T
-'forest,': TPO*RS KW-BG
+'forest,': TPOEFRT KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -126,7 +126,7 @@ The Shepherd's Boy
 'cried': KRAOEUD
 'out': OUT
 '"Wolf,': KR-GS WOFL KW-BG
-'Wolf,"': WOFL KW-RBGTS
+'Wolf,"': WOFL KW-BG KR-GS
 'still': STEUL
 'louder': HROURD
 'than': THAPB
@@ -145,7 +145,7 @@ The Shepherd's Boy
 'thought': THAUT
 'the': -T
 'boy': PWOEU
-'was': WA
+'was': WAS
 'again': TKPWEPB
 'deceiving': TKE/SAOEFG
 'them,': THEPL KW-BG
@@ -166,7 +166,7 @@ The Shepherd's Boy
 'meal': PHAOEL
 'off': OF
 'the': -T
-'boy's': PWOEU AE S
+'boy's': PWOEU AES
 'flock,': TPHROBG KW-BG
 'and': SKP
 'when': WHEPB
@@ -180,7 +180,7 @@ The Shepherd's Boy
 'the': -T
 'village': SREULG
 'said:': SAEUD STPH-FPLT
-'"A': KR-GS A
+'"A': KR-GS KPA*/AEU
 'liar': HRAOEUR
 'will': HR
 'not': TPHOT
@@ -191,4 +191,4 @@ The Shepherd's Boy
 'he': E
 'speaks': SPAOEBGS
 'the': -T
-'truth."': TRAOUT TP-PL KR-GS
+'truth."': TRAO*UT TP-PL KR-GS

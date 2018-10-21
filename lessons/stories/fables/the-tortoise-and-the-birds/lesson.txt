@@ -1,6 +1,6 @@
 The Tortoise and the Birds
 
-'A': AEU
+'A': KPA*/AEU
 'Tortoise': TOR/TOS
 'desired': STKAOEURD
 'to': TO
@@ -25,7 +25,7 @@ The Tortoise and the Birds
 'her': HER
 'a': AEU
 'rich': REUFP
-'reward': RE/W-RD
+'reward': RE/WARD
 'for': TPOR
 'her': HER
 'trouble.': TRUBL TP-PL
@@ -64,7 +64,7 @@ The Tortoise and the Birds
 'shell': SHEL
 'is': S
 'too': TAO
-'hard,"': HARD KW-RBGTS
+'hard,"': HARD KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Eagle': AOEG/*L
@@ -76,19 +76,19 @@ The Tortoise and the Birds
 'soon': SAOPB
 'crack': KRABG
 'the': -T
-'shell,"': SHEL KW-RBGTS
-'was': WA
+'shell,"': SHEL KW-BG KR-GS
+'was': WAS
 'the': -T
-'Crow's': KROE AE S
+'Crow's': KROE AES
 'answer;': AEPBS STPH*FPLT
 'and': SKP
 'the': -T
 'Eagle,': AOEG/*L KW-BG
 'taking': TAEUG
 'the': -T
-'hint,': HEUPT KW-BG
+'hint,': HEUPBT KW-BG
 'let': HRET
-'fall': TPAL
+'fall': TPAUL
 'the': -T
 'Tortoise': TOR/TOS
 'on': OPB
@@ -111,5 +111,5 @@ The Tortoise and the Birds
 'aloft': A/HROFT
 'on': OPB
 'an': APB
-'enemy's': EPB/PHEU AE S
-'pinions.': PEUPB/KWROPB/-FPS
+'enemy's': EPB/PHEU/AES
+'pinions.': PEUPB/KWROPB/-S TP-PL

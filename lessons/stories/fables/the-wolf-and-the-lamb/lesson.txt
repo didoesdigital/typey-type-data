@@ -6,7 +6,7 @@ The Wolf and the Lamb
 'time': TAOEUPL
 'a': AEU
 'Wolf': WOFL
-'was': WA
+'was': WAS
 'lapping': HRAPG
 'at': AT
 'a': AEU
@@ -25,16 +25,16 @@ The Wolf and the Lamb
 'a': AEU
 'Lamb': HRAPL
 'just': SKWRUFT
-'beginning': STKPWEUPG
+'beginning': TKPWEUPB/-G
 'to': TO
 'drink': TKREU
 'a': AEU
 'little': HREUL
-'lower': HROER
+'lower': HROUR
 'down.': TKOUPB TP-PL
-'"There's': KR-GS THR AE S
+'"There's': KR-GS THR AES
 'my': PHEU
-'supper,"': SAOURP KW-RBGTS
+'supper,"': SAOURP KW-BG KR-GS
 'thought': THAUT
 'he,': E KW-BG
 '"if': KR-GS TP
@@ -43,10 +43,10 @@ The Wolf and the Lamb
 'can': K
 'find': TPEUPBD
 'some': SOPL
-'excuse': KPAOUS
+'excuse': SKAOUS
 'to': TO
 'seize': SAOEZ
-'it."': T-FP KR-GS
+'it."': T TP-PL KR-GS
 'then': THEPB
 'he': E
 'called': KAULD
@@ -67,14 +67,14 @@ The Wolf and the Lamb
 'drinking?"': TKREUG H-F KR-GS
 '"Nay,': KR-GS TPHAEU KW-BG
 'master,': PHAFRT KW-BG
-'nay,"': TPHAEU KW-RBGTS
+'nay,"': TPHAEU KW-BG KR-GS
 'said': SAEUD
 'Lambikin;': HRAPL/SKWREU/K*EUPB STPH*FPLT
 '"if': KR-GS TP
 'the': -T
 'water': WAUR
 'be': -B
-'muddy': PHUD/TKEU
+'muddy': PHUD/KWREU
 'up': UP
 'there,': THR KW-BG
 'I': EU
@@ -86,14 +86,14 @@ The Wolf and the Lamb
 'it,': T KW-BG
 'for': TPOR
 'it': T
-'runs': RUPS
+'runs': RUPBS
 'down': TKOUPB
 'from': TPR
 'you': U
 'to': TO
 'me."': PHE TP-PL KR-GS
 '"Well,': KR-GS WEL KW-BG
-'then,"': THEPB KW-RBGTS
+'then,"': THEPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Wolf,': WOFL KW-BG
@@ -107,10 +107,10 @@ The Wolf and the Lamb
 'this': TH
 'time': TAOEUPL
 'last': HRAFT
-'year?"': WRAOER H-F KR-GS
+'year?"': KWRAOER H-F KR-GS
 '"That': KR-GS THA
 'cannot': K/TPHOT
-'be,"': -B KW-RBGTS
+'be,"': -B KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Lamb;': HRAPL STPH*FPLT
@@ -118,21 +118,21 @@ The Wolf and the Lamb
 'am': APL
 'only': OEPBL
 'six': SEUBGS
-'months': PHO*PTS
+'months': PHO*PBTS
 'old."': OLD TP-PL KR-GS
 '"I': KR-GS EU
 'don't': TKOEPBT
-'care,"': KAEUR KW-RBGTS
+'care,"': KAEUR KW-BG KR-GS
 'snarled': STPHARPLD
 'the': -T
 'Wolf;': WOFL STPH*FPLT
 '"if': KR-GS TP
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'you': U
 'it': T
-'was': WA
+'was': WAS
 'your': KWROUR
 'father;"': TPAER STPH*FPLT KR-GS
 'and': SKP
@@ -151,8 +151,8 @@ The Wolf and the Lamb
 'all': AUL
 'up.': UP TP-PL
 'Any': TPHEU
-'excuse': KPAOUS
+'excuse': SKAOUS
 'will': HR
-'serve': SEFB
+'serve': SEFRB
 'a': AEU
 'tyrant.': TAOEURPBT TP-PL

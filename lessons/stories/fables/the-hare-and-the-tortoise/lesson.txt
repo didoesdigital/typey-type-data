@@ -2,9 +2,9 @@ The Hare and the Tortoise
 
 'The': -T
 'Hare': HA*ER
-'was': WA
+'was': WAS
 'once': WUPBS
-'boasting': PWO*ES/-G
+'boasting': PWOEFT/-G
 'of': -F
 'his': HEUS
 'speed': SPAOED
@@ -17,7 +17,7 @@ The Hare and the Tortoise
 'never': TPHEF
 'yet': KWRET
 'been': PW-PB
-'beaten,"': PWAOET/EPB KW-RBGTS
+'beaten,"': PWAOET/EPB KW-BG KR-GS
 'said': SAEUD
 'he,': E KW-BG
 '"when': KR-GS WHEPB
@@ -48,7 +48,7 @@ The Hare and the Tortoise
 'is': S
 'a': AEU
 'good': TKPWAOD
-'joke,"': SKWROEBG KW-RBGTS
+'joke,"': SKWROEBG KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Hare;': HA*ER STPH*FPLT
@@ -59,14 +59,14 @@ The Hare and the Tortoise
 'you': U
 'all': AUL
 'the': -T
-'way."': WAEUFP KR-GS
+'way."': WAEU TP-PL KR-GS
 '"Keep': KR-GS KAOEP
 'your': KWROUR
-'boasting': PWO*ES/-G
+'boasting': PWOEFT/-G
 'till': T*EUL
 'you've': UF
-'beaten,"': PWAOET/EPB KW-RBGTS
-'answered': APBSD
+'beaten,"': PWAOET/EPB KW-BG KR-GS
+'answered': AEPBS/-D
 'the': -T
 'Tortoise.': TOR/TOS TP-PL
 '"Shall': KR-GS SHAL
@@ -75,12 +75,12 @@ The Hare and the Tortoise
 'So': SO
 'a': AEU
 'course': KORS
-'was': WA
+'was': WAS
 'fixed': TPEUFD
 'and': SKP
 'a': AEU
 'start': START
-'was': WA
+'was': WAS
 'made.': PHAED TP-PL
 'The': -T
 'Hare': HA*ER
@@ -130,7 +130,7 @@ The Hare and the Tortoise
 'just': SKWRUFT
 'near': TPHAOER
 'the': -T
-'winning-post': WA*EPBG H-PB POEFT
+'winning-post': WAOEPBG H-PB POEFT
 'and': SKP
 'could': KO
 'not': TPHOT

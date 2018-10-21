@@ -4,7 +4,7 @@ The Lion and the Mouse
 'when': WHEPB
 'a': AEU
 'Lion': HRO*EUPB
-'was': WA
+'was': WAS
 'asleep': A/HRAOEP
 'a': AEU
 'little': HREUL
@@ -18,7 +18,7 @@ The Lion and the Mouse
 'him;': HEUPL STPH*FPLT
 'this': TH
 'soon': SAOPB
-'wakened': WAEUBG/-PBD
+'wakened': WAEUBG/EPBD
 'the': -T
 'Lion,': HRO*EUPB KW-BG
 'who': WHO
@@ -34,11 +34,11 @@ The Lion and the Mouse
 'big': PWEUG
 'jaws': SKWRAUS
 'to': TO
-'swallow': SWAL/OE
+'swallow': SWO*EUL
 'him.': HEUPL TP-PL
 '"Pardon,': KR-GS PARD KW-BG
-'O': O
-'King,"': KEUPBG KW-RBGTS
+'O': O*P
+'King,"': KEUPBG KW-BG KR-GS
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
@@ -57,7 +57,7 @@ The Lion and the Mouse
 'but': PWUT
 'what': WHA
 'I': EU
-'may': PHAEU
+'may': PHAE
 'be': -B
 'able': ABL
 'to': TO
@@ -71,9 +71,9 @@ The Lion and the Mouse
 'days?"': TKAEUS H-F KR-GS
 'The': -T
 'Lion': HRO*EUPB
-'was': WA
+'was': WAS
 'so': SO
-'tickled': TEUBG/*LD
+'tickled': TEUBG/-LD
 'at': AT
 'the': -T
 'idea': KWR-D
@@ -94,13 +94,13 @@ The Lion and the Mouse
 'and': SKP
 'let': HRET
 'him': HEUPL
-'go.': TKPW-FP
+'go.': TKPW TP-PL
 'Some': SOPL
 'time': TAOEUPL
 'after': AF
 'the': -T
 'Lion': HRO*EUPB
-'was': WA
+'was': WAS
 'caught': KAUT
 'in': TPH
 'a': AEU
@@ -147,12 +147,12 @@ The Lion and the Mouse
 'seeing': SAOEG
 'the': -T
 'sad': SAD
-'plight': PHRAO*EUT
+'plight': PHRAOEUGT
 'in': TPH
 'which': WEU
 'the': -T
 'Lion': HRO*EUPB
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'went': WEPBT
 'up': UP
 'to': TO
@@ -169,8 +169,8 @@ The Lion and the Mouse
 'King': KEUPBG
 'of': -F
 'the': -T
-'Beasts.': PWAOEFTS TP-PL
-'"Was': KR-GS WA
+'Beasts.': PWAOEFT/-S TP-PL
+'"Was': KR-GS WAS
 'I': EU
 'not': TPHOT
 'right?"': RAOEUT H-F KR-GS
@@ -180,7 +180,7 @@ The Lion and the Mouse
 'Mouse.': PHOUS TP-PL
 'Little': HREUL
 'friends': TPREPBDZ
-'may': PHAEU
+'may': PHAE
 'prove': PROF
-'great': TKWRAET
+'great': TKPWRAET
 'friends.': TPREPBDZ TP-PL

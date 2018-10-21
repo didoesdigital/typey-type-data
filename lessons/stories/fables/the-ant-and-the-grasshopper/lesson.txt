@@ -8,9 +8,9 @@ The Ant and the Grasshopper
 'day': TKAEU
 'a': AEU
 'Grasshopper': TKPWHR*FRPBLG
-'was': WA
+'was': WAS
 'hopping': HOPG
-'about,': P KW-BG
+'about,': PW KW-BG
 'chirping': KHEURP/-G
 'and': SKP
 'singing': SEUPBG/-G
@@ -25,14 +25,14 @@ The Ant and the Grasshopper
 'bearing': PWAERG
 'along': A/HROPBG
 'with': W
-'great': TKWRAET
+'great': TKPWRAET
 'toil': TOEUL
 'an': APB
 'ear': AOER
 'of': -F
 'corn': KORPB
 'he': E
-'was': WA
+'was': WAS
 'taking': TAEUG
 'to': TO
 'the': -T
@@ -43,7 +43,7 @@ The Ant and the Grasshopper
 'and': SKP
 'chat': KHAT
 'with': W
-'me,"': PHE KW-RBGTS
+'me,"': PHE KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Grasshopper,': TKPWHR*FRPBLG KW-BG
@@ -64,7 +64,7 @@ The Ant and the Grasshopper
 'food': TPAOD
 'for': TPOR
 'the': -T
-'winter,"': WEURPBT KW-RBGTS
+'winter,"': WEURPBT KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Ant,': A*PBT KW-BG

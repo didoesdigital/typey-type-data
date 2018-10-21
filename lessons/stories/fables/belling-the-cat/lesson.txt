@@ -18,7 +18,7 @@ Belling the Cat
 'to': TO
 'outwit': AOUT/WEUT
 'their': THAEUR
-'common': KPHOB
+'common': KPHOPB
 'enemy,': EPB/PHEU KW-BG
 'the': -T
 'Cat.': KAT TP-PL
@@ -44,7 +44,7 @@ Belling the Cat
 'a': AEU
 'proposal': PROEL
 'to': TO
-'make,': PAEUBG KW-BG
+'make,': PHAEUBG KW-BG
 'which': WEU
 'he': E
 'thought': THAUT
@@ -55,7 +55,7 @@ Belling the Cat
 '"You': KR-GS U
 'will': HR
 'all': AUL
-'agree,"': TKPWRAE KW-RBGTS
+'agree,"': TKPWRAE KW-BG KR-GS
 'said': SAEUD
 'he,': E KW-BG
 '"that': KR-GS THA
@@ -88,17 +88,17 @@ Belling the Cat
 'we': WE
 'could': KO
 'easily': AOELS
-'escape': E/SKAEUP
+'escape': SKA*EUP
 'from': TPR
 'her.': HER TP-PL
 'I': EU
-'venture,': SREPB/TUR KW-BG
+'venture,': SREPBT/UR KW-BG
 'therefore,': TH-FR KW-BG
 'to': TO
 'propose': PROEP
 'that': THA
 'a': AEU
-'small': SPHAUL
+'small': SPHAL
 'bell': PWEL
 'be': -B
 'procured,': PROE/KAOURD KW-BG
@@ -122,18 +122,18 @@ Belling the Cat
 'know': TPHOE
 'when': WHEPB
 'she': SHE
-'was': WA
-'about,': P KW-BG
+'was': WAS
+'about,': PW KW-BG
 'and': SKP
 'could': KO
 'easily': AOELS
 'retire': RAO*EUR
 'while': WHAOEUL
 'she': SHE
-'was': WA
+'was': WAS
 'in': TPH
 'the': -T
-'neighbourhood."': TPHAOD TP-PL KR-GS
+'neighbourhood."': TPHAOD/A*U TP-PL KR-GS
 'This': TH
 'proposal': PROEL
 'met': PHET

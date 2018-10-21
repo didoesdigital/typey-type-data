@@ -12,7 +12,7 @@ The Frogs Desiring a King
 'in': TPH
 'a': AEU
 'marshy': PHAR/SHEU
-'swamp': SWA*PL
+'swamp': SWAFRP
 'that': THA
 'just': SKWRUFT
 'suited': SAOUTD
@@ -36,7 +36,7 @@ The Frogs Desiring a King
 'thought': THAUT
 'that': THA
 'this': TH
-'was': WA
+'was': WAS
 'not': TPHOT
 'right,': RAOEUT KW-BG
 'that': THA
@@ -66,7 +66,7 @@ The Frogs Desiring a King
 'they': THE
 'wanted.': WAPBTD TP-PL
 '"Mighty': KR-GS PHAOEU/TEU
-'Jove,"': SKWROEF KW-RBGTS
+'Jove,"': SKWROEF KW-BG KR-GS
 'they': THE
 'cried,': KRAOEUD KW-BG
 '"send': KR-GS SEPBD
@@ -94,7 +94,7 @@ The Frogs Desiring a King
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'swamp': SWA*PL
+'swamp': SWAFRP
 'a': AEU
 'huge': HAOUPBLG
 'Log,': HROG KW-BG
@@ -104,11 +104,11 @@ The Frogs Desiring a King
 'splashing': SPHRARBG
 'into': TPHAO
 'the': -T
-'swamp.': SWA*PL TP-PL
+'swamp.': SWAFRP TP-PL
 'The': -T
 'Frogs': TPROGS
 'were': WR
-'frightened': TPRAOEUFPBD
+'frightened': TPRAOEUPBD
 'out': OUT
 'of': -F
 'their': THAEUR
@@ -131,7 +131,7 @@ The Frogs Desiring a King
 'at': AT
 'the': -T
 'horrible': HORBL
-'monster;': PHOPBS/TER STPH*FPLT
+'monster;': PHOPB/STER STPH*FPLT
 'but': PWUT
 'after': AF
 'a': AEU
@@ -150,7 +150,7 @@ The Frogs Desiring a King
 'boldest': PWOLD/EFT
 'of': -F
 'them': THEPL
-'ventured': SREPB/TAOURD
+'ventured': SREPB/KHURD
 'out': OUT
 'towards': TORDZ
 'the': -T
@@ -245,7 +245,7 @@ The Frogs Desiring a King
 'one': WUPB
 'that': THA
 'will': HR
-'really': HROERL
+'really': R-L
 'rule': RAOUL
 'over': OEFR
 'us."': US TP-PL KR-GS
@@ -274,7 +274,7 @@ The Frogs Desiring a King
 'Then': THEPB
 'the': -T
 'Frogs': TPROGS
-'repented': RE/PEPBT
+'repented': RE/PEPBT/-D
 'when': WHEPB
 'too': TAO
 'late.': HRAEUT TP-PL

@@ -1,6 +1,6 @@
 The Fox and the Mosquitoes
 
-'A': AEU
+'A': KPA*/AEU
 'Fox': TPOBGS
 'after': AF
 'crossing': KROFG
@@ -9,7 +9,7 @@ The Fox and the Mosquitoes
 'got': TKPWOT
 'its': EUTS
 'tail': TAEUL
-'entangled': EPB/TAPBG/-LD
+'entangled': SPWAPBG/-LD
 'in': TPH
 'a': AEU
 'bush,': PWURB KW-BG
@@ -17,13 +17,13 @@ The Fox and the Mosquitoes
 'could': KO
 'not': TPHOT
 'move.': PHOF TP-PL
-'A': AEU
+'A': KPA*/AEU
 'number': TPHUPL
 'of': -F
 'Mosquitoes': PHOFBG/TOES
 'seeing': SAOEG
 'its': EUTS
-'plight': PHRAO*EUT
+'plight': PHRAOEUGT
 'settled': S*ELTD
 'upon': POPB
 'it': T
@@ -36,7 +36,7 @@ The Fox and the Mosquitoes
 'by': PWEU
 'its': EUTS
 'tail.': TAEUL TP-PL
-'A': AEU
+'A': KPA*/AEU
 'hedgehog': HEPBLG/HOG
 'strolling': STROELG
 'by': PWEU
@@ -56,7 +56,7 @@ The Fox and the Mosquitoes
 'a': AEU
 'bad': PWAD
 'way,': WAEU KW-BG
-'neighbour,"': TPHAEUB KW-RBGTS
+'neighbour,"': TPHAEUB/A*U KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'hedgehog;': HEPBLG/HOG STPH*FPLT
@@ -73,11 +73,11 @@ The Fox and the Mosquitoes
 'are': R
 'sucking': SUBG/-G
 'your': KWROUR
-'blood?"': PHRAOD H-F KR-GS
+'blood?"': PWHRAOD H-F KR-GS
 '"Thank': KR-GS THAPBG
 'you,': U KW-BG
 'Master': PHAFRT
-'Hedgehog,"': HEPBLG/HOG KW-RBGTS
+'Hedgehog,"': HEPBLG/HOG KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Fox,': TPOBGS KW-BG
@@ -85,7 +85,7 @@ The Fox and the Mosquitoes
 'I': EU
 'would': WO
 'rather': RAER
-'not."': PHOT TP-PL KR-GS
+'not."': TPHOT TP-PL KR-GS
 '"Why,': KR-GS KWR KW-BG
 'how': HOU
 'is': S
@@ -95,8 +95,8 @@ The Fox and the Mosquitoes
 'hedgehog.': HEPBLG/HOG TP-PL
 '"Well,': KR-GS WEL KW-BG
 'you': U
-'see,"': SAOE KW-RBGTS
-'was': WA
+'see,"': SAOE KW-BG KR-GS
+'was': WAS
 'the': -T
 'answer,': AEPBS KW-BG
 '"these': KR-GS THEZ

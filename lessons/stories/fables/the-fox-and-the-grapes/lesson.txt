@@ -2,11 +2,11 @@ The Fox and the Grapes
 
 'One': WUPB
 'hot': HOT
-'summer's': SAOURPL AE S
+'summer's': SAOURPL AES
 'day': TKAEU
 'a': AEU
 'Fox': TPOBGS
-'was': WA
+'was': WAS
 'strolling': STROELG
 'through': THRU
 'an': APB
@@ -16,7 +16,7 @@ The Fox and the Grapes
 'came': KAEUPL
 'to': TO
 'a': AEU
-'bunch': PWUFPB
+'bunch': PWUFRPB
 'of': -F
 'Grapes': TKPWRAEUPS
 'just': SKWRUFT
@@ -30,7 +30,7 @@ The Fox and the Grapes
 'trained': TRAEUPBD
 'over': OEFR
 'a': AEU
-'lofty': HRO*FT/KWREU
+'lofty': HROF/TEU
 'branch.': PWRAFRPB TP-PL
 '"Just': KR-GS SKWRUFT
 'the': -T
@@ -38,7 +38,7 @@ The Fox and the Grapes
 'to': TO
 'quench': KWEFRPB
 'my': PHEU
-'thirst,"': THEUFRT KW-RBGTS
+'thirst,"': THEUFRT KW-BG KR-GS
 'quoth': KWO*ET
 'he.': E TP-PL
 'Drawing': TKRAUG
@@ -52,12 +52,12 @@ The Fox and the Grapes
 'run': RUPB
 'and': SKP
 'a': AEU
-'jump,': SKWR*UPL KW-BG
+'jump,': SKWRUFRP KW-BG
 'and': SKP
 'just': SKWRUFT
 'missed': PHEUFD
 'the': -T
-'bunch.': PWUFPB TP-PL
+'bunch.': PWUFRPB TP-PL
 'Turning': TURPBG
 'round': ROUPBD
 'again': TKPWEPB
@@ -65,7 +65,7 @@ The Fox and the Grapes
 'a': AEU
 'One,': WUPB KW-BG
 'Two,': TWO KW-BG
-'Three,': THRE KW-BG
+'Three,': THRAOE KW-BG
 'he': E
 'jumped': SKWR*UPLD
 'up,': UP KW-BG
@@ -81,7 +81,7 @@ The Fox and the Grapes
 'tried': TRAOEUD
 'after': AF
 'the': -T
-'tempting': TEPLGT
+'tempting': TEPLT/-G
 'morsel,': PHOR/SEL KW-BG
 'but': PWUT
 'at': AT

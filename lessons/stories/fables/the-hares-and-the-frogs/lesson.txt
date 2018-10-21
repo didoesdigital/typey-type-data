@@ -8,14 +8,14 @@ The Hares and the Frogs
 'by': PWEU
 'the': -T
 'other': OER
-'beasts,': PWAOEFTS KW-BG
+'beasts,': PWAOEFT/-S KW-BG
 'they': THE
 'did': TK
 'not': TPHOT
 'know': TPHOE
 'where': W-R
 'to': TO
-'go.': TKPW-FP
+'go.': TKPW TP-PL
 'As': AZ
 'soon': SAOPB
 'as': AZ
@@ -39,9 +39,9 @@ The Hares and the Frogs
 'troop': TRAOP
 'of': -F
 'wild': WAOEULD
-'Horses': HORS/-S
+'Horses': HORSZ
 'stampeding': STA*PLD/-G
-'about,': P KW-BG
+'about,': PW KW-BG
 'and': SKP
 'in': TPH
 'quite': KWAOEUT
@@ -68,7 +68,7 @@ The Hares and the Frogs
 'such': SUFP
 'a': AEU
 'continual': T-PB/WAL
-'state': STA*ET
+'state': STAEUT
 'of': -F
 'fear.': TPAOER TP-PL
 'But': PWUT
@@ -86,7 +86,7 @@ The Hares and the Frogs
 'troop': TRAOP
 'of': -F
 'Frogs,': TPROGS KW-BG
-'frightened': TPRAOEUFPBD
+'frightened': TPRAOEUPBD
 'in': TPH
 'their': THAEUR
 'turn': TURPB
@@ -103,13 +103,13 @@ The Hares and the Frogs
 'into': TPHAO
 'the': -T
 'water.': WAUR TP-PL
-'"Truly,"': KR-GS TRAOUL KW-RBGTS
+'"Truly,"': KR-GS TRAOUL KW-BG KR-GS
 'said': SAEUD
 'one': WUPB
 'of': -F
 'the': -T
 'Hares,': HA*ER/-S KW-BG
-'"things': KR-GS THEUBGS
+'"things': KR-GS THEUPBGS
 'are': R
 'not': TPHOT
 'so': SO
@@ -120,7 +120,7 @@ The Hares and the Frogs
 '"There': KR-GS THR
 'is': S
 'always': AULS
-'someone': SWUPB
+'someone': SPH-PB
 'worse': WORS
 'off': OF
 'than': THAPB

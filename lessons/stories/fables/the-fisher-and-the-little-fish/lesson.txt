@@ -4,7 +4,7 @@ The Fisher and the Little Fish
 'happened': HAPD
 'that': THA
 'a': AEU
-'Fisher,': TPEURB/*ER KW-BG
+'Fisher,': TP*EURB/ER KW-BG
 'after': AF
 'fishing': TPEURBG
 'all': AUL
@@ -18,7 +18,7 @@ The Fisher and the Little Fish
 'let': HRET
 'me': PHE
 'go,': TKPW KW-BG
-'master,"': PHAFRT KW-RBGTS
+'master,"': PHAFRT KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Fish.': TPEURB TP-PL
@@ -26,7 +26,7 @@ The Fisher and the Little Fish
 'am': APL
 'much': PHUFP
 'too': TAO
-'small': SPHAUL
+'small': SPHAL
 'for': TPOR
 'your': KWROUR
 'eating': AOEGT
@@ -47,7 +47,7 @@ The Fisher and the Little Fish
 'then': THEPB
 'you': U
 'can': K
-'make': PAEUBG
+'make': PHAEUBG
 'a': AEU
 'fine': TPAOEUPB
 'meal': PHAOEL
@@ -57,21 +57,21 @@ The Fisher and the Little Fish
 'nay,': TPHAEU KW-BG
 'my': PHEU
 'little': HREUL
-'Fish,"': TPEURB KW-RBGTS
+'Fish,"': TPEURB KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Fisher,': TPEURB/*ER KW-BG
+'Fisher,': TP*EURB/ER KW-BG
 '"I': KR-GS EU
 'have': SR
 'you': U
 'now.': TPHOU TP-PL
 'I': EU
-'may': PHAEU
+'may': PHAE
 'not': TPHOT
 'catch': KAFP
 'you': U
-'hereafter."': HAOER/A*F TP-PL KR-GS
-'A': AEU
+'hereafter."': HAOER/AFR TP-PL KR-GS
+'A': KPA*/AEU
 'little': HREUL
 'thing': THEUPBG
 'in': TPH
@@ -81,7 +81,7 @@ The Fisher and the Little Fish
 'more': PHOR
 'than': THAPB
 'a': AEU
-'great': TKWRAET
+'great': TKPWRAET
 'thing': THEUPBG
 'in': TPH
 'prospect.': PRO/SPEBGT TP-PL

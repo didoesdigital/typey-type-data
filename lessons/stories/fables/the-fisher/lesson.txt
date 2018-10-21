@@ -1,11 +1,11 @@
 The Fisher
 
-'A': AEU
-'Fisher': TPEURB/*ER
+'A': KPA*/AEU
+'Fisher': TP*EURB/ER
 'once': WUPBS
 'took': TAOBG
 'his': HEUS
-'bagpipes': PWAG/PAOEUPZ
+'bagpipes': PWAG/PAOEUP/-S
 'to': TO
 'the': -T
 'bank': PWA*PBG
@@ -37,7 +37,7 @@ The Fisher
 'water.': WAUR TP-PL
 'So': SO
 'he': E
-'cast': KA*S
+'cast': KAFT
 'his': HEUS
 'net': TPHET
 'into': TPHAO
@@ -55,7 +55,7 @@ The Fisher
 'he': E
 'took': TAOBG
 'his': HEUS
-'bagpipes': PWAG/PAOEUPZ
+'bagpipes': PWAG/PAOEUP/-S
 'again,': TKPWEPB KW-BG
 'and,': SKP KW-BG
 'as': AZ
@@ -68,16 +68,16 @@ The Fisher
 'in': TPH
 'the': -T
 'net.': TPHET TP-PL
-'"Ah,': KR-GS AERBGS
+'"Ah,': KR-GS HA*E KW-BG
 'you': U
 'dance': TKAPBS
 'now': TPHOU
 'when': WHEPB
 'I': EU
-'play,"': PHRAEU KW-RBGTS
+'play,"': PHRAEU KW-BG KR-GS
 'said': SAEUD
 'he.': E TP-PL
-'"Yes,"': KR-GS KWRE KW-RBGTS
+'"Yes,"': KR-GS KWRE KW-BG KR-GS
 'said': SAEUD
 'an': APB
 'old': OLD
@@ -87,7 +87,7 @@ The Fisher
 'are': R
 'in': TPH
 'a': AEU
-'man's': PHAPB AE S
+'man's': PHAPB/AES
 'power': POUR
 'you': U
 'must': PHUFT

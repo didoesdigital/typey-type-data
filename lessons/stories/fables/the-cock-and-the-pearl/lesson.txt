@@ -1,8 +1,8 @@
 The Cock and the Pearl
 
-'A': AEU
+'A': KPA*/AEU
 'cock': KOBG
-'was': WA
+'was': WAS
 'once': WUPBS
 'strutting': STRUT/-G
 'up': UP
@@ -12,23 +12,23 @@ The Cock and the Pearl
 'farmyard': TPARPL/KWRARD
 'among': PHOPBG
 'the': -T
-'hens': HEPBZ
+'hens': HEPB/-S
 'when': WHEPB
 'suddenly': SULD
 'he': E
-'espied': AOE/SPAOEUD
+'espied': E/SPAOEUD
 'something': S-G
 'shining': SHAOEUPBG
 'amid': A/PHEUD
 'the': -T
 'straw.': STRAU TP-PL
-'"Ho!': KR-GS HO* SKHRAPL
-'ho!"': HO* SKHRAPL KR-GS
+'"Ho!': KR-GS HO*E SKHRAPL
+'ho!"': HO*E SKHRAPL KR-GS
 'quoth': KWO*ET
 'he,': E KW-BG
-'"that's': KR-GS THA AE S
+'"that's': KW-GS/THATS
 'for': TPOR
-'me,"': PHE KW-RBGTS
+'me,"': PHE KW-BG KR-GS
 'and': SKP
 'soon': SAOPB
 'rooted': RAOT/-D
@@ -59,10 +59,10 @@ The Cock and the Pearl
 'the': -T
 'yard?': KWRARD H-F
 '"You': KR-GS U
-'may': PHAEU
+'may': PHAE
 'be': -B
 'a': AEU
-'treasure,"': TR-RB KW-RBGTS
+'treasure,"': TRERB KW-BG KR-GS
 'quoth': KWO*ET
 'Master': PHAFRT
 'Cock,': KOBG KW-BG
@@ -87,7 +87,7 @@ The Cock and the Pearl
 'of': -F
 'pearls."': PERLS TP-PL KR-GS
 'Precious': PRERBS
-'things': THEUBGS
+'things': THEUPBGS
 'are': R
 'for': TPOR
 'those': THOZ

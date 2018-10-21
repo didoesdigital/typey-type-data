@@ -1,12 +1,12 @@
 The Labourer and the Nightingale
 
-'A': AEU
-'Labourer': HRAEUB/*ER
+'A': KPA*/AEU
+'Labourer': HRAEUB/RER/A*U
 'lay': HRAEU
 'listening': HR-PBG
 'to': TO
 'a': AEU
-'Nightingale's': TPHAOEUT/-G/TKPWAEL AE S
+'Nightingale's': TPHAOEUT/-G/TKPWAEL AES
 'song': SOPBG
 'throughout': THROUT
 'the': -T
@@ -14,7 +14,7 @@ The Labourer and the Nightingale
 'night.': TPHAOEUT TP-PL
 'So': SO
 'pleased': PHRAOEFD
-'was': WA
+'was': WAS
 'he': E
 'with': W
 'it': T
@@ -30,16 +30,16 @@ The Labourer and the Nightingale
 'it': T
 'and': SKP
 'captured': KA*FPD
-'it.': T-FP
+'it.': T TP-PL
 '"Now': KR-GS TPHOU
 'that': THA
 'I': EU
 'have': SR
 'caught': KAUT
-'thee,"': THAOE KW-RBGTS
+'thee,"': THAOE KW-BG KR-GS
 'he': E
 'cried,': KRAOEUD KW-BG
-'"thou': KR-GS THOU
+'"thou': KR-GS THO*U
 'shalt': SHALT
 'always': AULS
 'sing': SEUPBG
@@ -61,11 +61,11 @@ The Labourer and the Nightingale
 'thee."': THAOE TP-PL KR-GS
 'said': SAEUD
 'the': -T
-'Labourer.': HRAEUB/*ER TP-PL
+'Labourer.': HRAEUB/RER/A*U TP-PL
 '"I': KR-GS EU
 'have': SR
 'always': AULS
-'heard': HERD
+'heard': HAERD
 'say': SAEU
 'that': THA
 'a': AEU
@@ -78,7 +78,7 @@ The Labourer and the Nightingale
 '"Nay,': KR-GS TPHAEU KW-BG
 'kill': KEUL
 'me': PHE
-'not,"': PHOT KW-RBGTS
+'not,"': TPHOT KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'Nightingale;': TPHAOEUT/-G/TKPWAEL STPH*FPLT
@@ -90,8 +90,8 @@ The Labourer and the Nightingale
 'I'll': AOEUL
 'tell': TEL
 'thee': THAOE
-'three': THRE
-'things': THEUBGS
+'three': THRAOE
+'things': THEUPBGS
 'far': TPAR
 'better': PWOERT
 'worth': WO*RT
@@ -100,7 +100,7 @@ The Labourer and the Nightingale
 'poor': PAOR
 'body."': PWO*ED TP-PL KR-GS
 'The': -T
-'Labourer': HRAEUB/*ER
+'Labourer': HRAEUB/RER/A*U
 'let': HRET
 'him': HEUPL
 'loose,': HRAOS KW-BG
@@ -117,11 +117,11 @@ The Labourer and the Nightingale
 'and': SKP
 'said:': SAEUD STPH-FPLT
 '"Never': KR-GS TPHEF
-'believe': PHREF
+'believe': PWHREF
 'a': AEU
-'captive's': KAPT/EUF AE S
+'captive's': KAPT/EUF AES
 'promise;': PROPLS STPH*FPLT
-'that's': THA AE S
+'that's': THATS
 'one': WUPB
 'thing.': THEUPBG TP-PL
 'Then': THEPB
@@ -147,4 +147,4 @@ The Labourer and the Nightingale
 'the': -T
 'song-bird': SOPBG H-PB PWEURD
 'flew': TPHRAOU
-'away.': A/WAEUFP
+'away.': A/WAEU TP-PL
