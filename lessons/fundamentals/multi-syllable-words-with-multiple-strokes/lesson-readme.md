@@ -4137,7 +4137,7 @@
 * headlong `HED/HROPBG`
 * outfit `AOUT/TPEUT`
 * insolence `EUPB/SHREPBS`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HRUBG/KWREU`
 * relaxed `RE/HRAGD`
 * mentions `PHEPBGS/-S`
 * attacking `A/TABG/-G`

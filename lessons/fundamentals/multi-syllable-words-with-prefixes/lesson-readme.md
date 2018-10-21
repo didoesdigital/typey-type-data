@@ -836,7 +836,7 @@
 * confinement `KAUPB/TPAOEUPLT`
 * outfit `AOUT/TPEUT`
 * insolence `EUPB/SHREPBS`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HRUBG/KWREU`
 * relaxed `RE/HRAGD`
 * attacking `A/TABG/-G`
 * refinement `RE/TPAOEUPLT`
