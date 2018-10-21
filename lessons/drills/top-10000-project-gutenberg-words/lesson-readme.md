@@ -7099,7 +7099,7 @@
 * insolence `EUPB/SHREPBS`
 * secrecy `SKRAES`
 * thereupon `THRUP`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HRUBG/KWREU`
 * eighth `A*ET`
 * valour `SRAL/HROR/A*U`
 * grammar `TKPWRARPL`
