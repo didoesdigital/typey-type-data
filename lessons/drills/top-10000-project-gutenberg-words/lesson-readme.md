@@ -2641,7 +2641,7 @@
 * northern `TPHORPB`
 * nurse `TPHURS`
 * profound `PRO/TPOUPBD`
-* hungry `UPBG/REU`
+* hungry `HUPBG/REU`
 * Scott `SKOT`
 * sisters `ST-RS`
 * assure `A/SHUR`

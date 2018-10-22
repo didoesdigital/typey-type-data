@@ -2412,7 +2412,7 @@
 * enhancing `EPB/HAPBS/-G`
 * alike `A/HRAOEUBG`
 * homeless `HOEPL/-LS`
-* hungry `UPBG/REU`
+* hungry `HUPBG/REU`
 * metallic `PHET/ALG`
 * interference `EUPBT/TPAOERPBS`
 * warriors `WAR/KWRORS`

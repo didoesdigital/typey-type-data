@@ -2,7 +2,7 @@
 
 * by `PWEU`
 * an `APB`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HRUBG/KWREU`
 * chance `KHAPBS`
 * a `AEU`
 * Fox `TPOBGS`

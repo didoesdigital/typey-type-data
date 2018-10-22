@@ -47,7 +47,7 @@
 * left `HREFT`
 * meal `PHAOEL`
 * as `AZ`
-* hungry `UPBG/REU`
+* hungry `HUPBG/REU`
 * when `WHEPB`
 * she `SHE`
 * began. `TKPWAPB TP-PL`

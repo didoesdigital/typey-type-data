@@ -8709,7 +8709,7 @@
 * walt `WA*LT`
 * homeless `HOEPL/-LS`
 * horrible `HORBL`
-* hungry `UPBG/REU`
+* hungry `HUPBG/REU`
 * metallic `PHET/ALG`
 * acne `ABG/TPHE`
 * blocked `PWHROBGD`

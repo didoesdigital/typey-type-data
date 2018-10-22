@@ -102,7 +102,7 @@
 * "the `KR-GS -T`
 * Lord `HRORD`
 * hath `HA*T`
-* "Train `KR-GS TRAEUPL`
+* "Train `KR-GS TRAEUPB`
 * up `UP`
 * child `KHAOEULD`
 * way `WAEU`

@@ -39,7 +39,7 @@
 * still `STEUL`
 * remained `RE/PHAEUPBD`
 * as `AZ`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HRUBG/KWREU`
 * ever. `-FR TP-PL`
 * one `WUPB`
 * day `TKAEU`

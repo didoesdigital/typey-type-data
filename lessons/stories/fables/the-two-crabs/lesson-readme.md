@@ -24,7 +24,7 @@
 * are `R`
 * walking `WAUG`
 * very `SRE`
-* ungracefully. `UPB/TKPWRAEUS/-FL/HREU TP-PL`
+* ungracefully. `UPB/TKPWRAEUS/TPHREU TP-PL`
 * You `U`
 * should `SHO`
 * accustom `A/KUS/TOPL`

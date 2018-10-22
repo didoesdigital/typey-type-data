@@ -4,7 +4,7 @@
 * wintry `WEUPBT/REU`
 * day `TKAEU`
 * a `AEU`
-* Woodman `KPA/WAOD TK-LS PHAP`
+* Woodman `KPA/WAOD/TK-LS/PHAPB`
 * was `WAS`
 * tramping `TRAPL/-PG`
 * home `HOEPL`
