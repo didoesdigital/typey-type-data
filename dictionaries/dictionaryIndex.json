@@ -6,7 +6,7 @@
     "category": "Typey Type",
     "subcategory": "",
     "tagline": "Typey Type’s dictionary is a version of the Plover dictionary with misstrokes removed for the top 10,000 words.",
-    "link": "/typey-type/support#typey-type-dictionary",
+    "link": "/support#typey-type-dictionary",
     "path": "/dictionaries/typey-type/typey-type.json"
   },
   {
@@ -85,6 +85,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with simple keys dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-simple-keys/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-simple-keys/one-syllable-words-with-simple-keys.json"
   },
@@ -94,6 +95,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with more consonants dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-more-consonants/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-more-consonants/one-syllable-words-with-more-consonants.json"
   },
@@ -103,6 +105,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with F as V or S dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/one-syllable-words-with-f-as-v-or-s.json"
   },
@@ -112,6 +115,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with unstressed vowels dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/one-syllable-words-with-unstressed-vowels.json"
   },
@@ -121,6 +125,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with inversion dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-inversion/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-inversion/one-syllable-words-with-inversion.json"
   },
@@ -130,6 +135,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with short I vowel dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-short-i-vowel/one-syllable-words-with-short-i-vowel.json"
   },
@@ -139,6 +145,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with short vowels dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-short-vowels/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-short-vowels/one-syllable-words-with-short-vowels.json"
   },
@@ -148,6 +155,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with long vowels dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-long-vowels/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-long-vowels/one-syllable-words-with-long-vowels.json"
   },
@@ -157,6 +165,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with diphthongs dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-diphthongs/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-diphthongs/one-syllable-words-with-diphthongs.json"
   },
@@ -166,6 +175,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with vowel disambiguators dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/one-syllable-words-with-vowel-disambiguators.json"
   },
@@ -175,6 +185,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with left-hand consonants with multiple keys dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/one-syllable-words-with-left-hand-consonants-with-multiple-keys.json"
   },
@@ -184,6 +195,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with right-hand consonants with multiple keys dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/one-syllable-words-with-right-hand-consonants-with-multiple-keys.json"
   },
@@ -193,6 +205,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with digraphs dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-digraphs/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-digraphs/one-syllable-words-with-digraphs.json"
   },
@@ -202,6 +215,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with compound clusters dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-compound-clusters/one-syllable-words-with-compound-clusters.json"
   },
@@ -211,6 +225,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s One-syllable words with multiple strokes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/one-syllable-words-with-multiple-strokes/one-syllable-words-with-multiple-strokes.json"
   },
@@ -220,6 +235,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Multi-syllable words with compound clusters dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/multi-syllable-words-with-compound-clusters/multi-syllable-words-with-compound-clusters.json"
   },
@@ -229,6 +245,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Multi-syllable words with inversion dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/multi-syllable-words-with-inversion/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/multi-syllable-words-with-inversion/multi-syllable-words-with-inversion.json"
   },
@@ -238,6 +255,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Multi-syllable words with briefs dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/multi-syllable-words-with-briefs/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/multi-syllable-words-with-briefs/multi-syllable-words-with-briefs.json"
   },
@@ -247,6 +265,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Multi-syllable words with prefixes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/multi-syllable-words-with-prefixes/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/multi-syllable-words-with-prefixes/multi-syllable-words-with-prefixes.json"
   },
@@ -256,6 +275,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Multi-syllable words with suffixes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/multi-syllable-words-with-suffixes/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/multi-syllable-words-with-suffixes/multi-syllable-words-with-suffixes.json"
   },
@@ -265,6 +285,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Multi-syllable words with doubled consonant letters dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/multi-syllable-words-with-doubled-consonant-letters.json"
   },
@@ -274,6 +295,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Multi-syllable words with multiple strokes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/multi-syllable-words-with-multiple-strokes.json"
   },
@@ -283,6 +305,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Fingerspelling dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/fingerspelling/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/fingerspelling/fingerspelling.json"
   },
@@ -292,6 +315,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Punctuation dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/punctuation/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/punctuation/punctuation.json"
   },
@@ -301,6 +325,7 @@
     "subtitle": "",
     "category": "Fundamentals",
     "tagline": "Typey Type’s Numbers dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/numbers/",
     "subcategory": "",
     "path": "/dictionaries/lessons/fundamentals/numbers/numbers.json"
   },
@@ -310,6 +335,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Top 100 words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/top-100-words/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/top-100-words/top-100-words.json"
   },
@@ -319,6 +345,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Top 1000 words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/top-1000-words/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/top-1000-words/top-1000-words.json"
   },
@@ -328,6 +355,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Top 10000 Project Gutenberg words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/top-10000-project-gutenberg-words/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/top-10000-project-gutenberg-words/top-10000-project-gutenberg-words.json"
   },
@@ -337,6 +365,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Top 10000 English words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/top-10000-english-words/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/top-10000-english-words/top-10000-english-words.json"
   },
@@ -346,6 +375,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Longest Words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/longest-words/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/longest-words/longest-words.json"
   },
@@ -355,6 +385,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Common Words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/common-words/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/common-words/common-words.json"
   },
@@ -364,6 +395,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Single-Stroke Briefs dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/single-stroke-briefs/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/single-stroke-briefs/single-stroke-briefs.json"
   },
@@ -373,6 +405,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Apostrophes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/apostrophes/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/apostrophes/apostrophes.json"
   },
@@ -382,6 +415,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Email Salutations and Complimentary Closings dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/email-salutations-and-complimentary-closings/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/email-salutations-and-complimentary-closings/email-salutations-and-complimentary-closings.json"
   },
@@ -391,6 +425,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Homophones dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/homophones/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/homophones/homophones.json"
   },
@@ -400,6 +435,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Pronouns dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/pronouns/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/pronouns/pronouns.json"
   },
@@ -409,6 +445,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Pronouns continued dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/pronouns-continued/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/pronouns-continued/pronouns-continued.json"
   },
@@ -418,6 +455,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Pronouns and Contractions dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/pronouns-contractions/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/pronouns-contractions/pronouns-contractions.json"
   },
@@ -427,6 +465,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Titles dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/titles/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/titles/titles.json"
   },
@@ -436,6 +475,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Calendar dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/calendar/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/calendar/calendar.json"
   },
@@ -445,6 +485,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Time dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/time/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/time/time.json"
   },
@@ -454,6 +495,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Emotions dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/emotions/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/emotions/emotions.json"
   },
@@ -463,6 +505,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Superlatives dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/superlatives/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/superlatives/superlatives.json"
   },
@@ -472,6 +515,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s FR: -fer dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/fr-fer/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/fr-fer/fr-fer.json"
   },
@@ -481,6 +525,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s FR: -ver dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/fr-ver/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/fr-ver/fr-ver.json"
   },
@@ -490,6 +535,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Prefixes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/prefixes/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/prefixes/prefixes.json"
   },
@@ -499,6 +545,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Suffixes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/suffixes/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/suffixes/suffixes.json"
   },
@@ -508,6 +555,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Suffix and prefix briefs dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/suffix-and-prefix-briefs/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/suffix-and-prefix-briefs/suffix-and-prefix-briefs.json"
   },
@@ -517,6 +565,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Two Letter Words: Common dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/two-letter-words-common/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/two-letter-words-common/two-letter-words-common.json"
   },
@@ -526,6 +575,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Two Letter Words: Rare dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/two-letter-words-rare/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/two-letter-words-rare/two-letter-words-rare.json"
   },
@@ -535,6 +585,7 @@
     "subtitle": "",
     "category": "Drills",
     "tagline": "Typey Type’s Steno party tricks dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/steno-party-tricks/",
     "subcategory": "",
     "path": "/dictionaries/lessons/drills/steno-party-tricks/steno-party-tricks.json"
   },
@@ -544,6 +595,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s UX design vocabulary dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/user-experience/ux-vocabulary/",
     "subcategory": "User experience design",
     "path": "/dictionaries/lessons/collections/user-experience/ux-vocabulary/ux-vocabulary.json"
   },
@@ -553,6 +605,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s jQuery dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/jquery/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/jquery/jquery.json"
   },
@@ -562,6 +615,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Haxe dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/haxe/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/haxe/haxe.json"
   },
@@ -571,6 +625,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s CSS alignment dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/css-alignment/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/css-alignment/css-alignment.json"
   },
@@ -580,6 +635,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s CSS media object dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/css-media-object/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/css-media-object/css-media-object.json"
   },
@@ -589,6 +645,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s CSS declarations dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/css-declarations/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/css-declarations/css-declarations.json"
   },
@@ -598,6 +655,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Ruby dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/ruby/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/ruby/ruby.json"
   },
@@ -607,6 +665,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s HTML dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/html/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/html/html.json"
   },
@@ -616,6 +675,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Git dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/git/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/git/git.json"
   },
@@ -625,6 +685,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Markdown dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/markdown/",
     "subcategory": "Tech",
     "path": "/dictionaries/lessons/collections/tech/markdown/markdown.json"
   },
@@ -634,6 +695,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Medical suffixes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/medical/medical-suffixes/",
     "subcategory": "Medical",
     "path": "/dictionaries/lessons/collections/medical/medical-suffixes/medical-suffixes.json"
   },
@@ -643,6 +705,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Medical nouns dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/medical/medical-nouns/",
     "subcategory": "Medical",
     "path": "/dictionaries/lessons/collections/medical/medical-nouns/medical-nouns.json"
   },
@@ -652,6 +715,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Medical prefixes dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/medical/medical-prefixes/",
     "subcategory": "Medical",
     "path": "/dictionaries/lessons/collections/medical/medical-prefixes/medical-prefixes.json"
   },
@@ -661,6 +725,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Human Resources vocabulary dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/human-resources/hris-vocabulary/",
     "subcategory": "Human resources (HR)",
     "path": "/dictionaries/lessons/collections/human-resources/hris-vocabulary/hris-vocabulary.json"
   },
@@ -670,6 +735,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s How * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/how/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/how/how.json"
   },
@@ -679,6 +745,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s That * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/that/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/that/that.json"
   },
@@ -688,6 +755,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Who * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/who/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/who/who.json"
   },
@@ -697,6 +765,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s You * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/you/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/you/you.json"
   },
@@ -706,6 +775,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s With * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/with/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/with/with.json"
   },
@@ -715,6 +785,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s What * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/what/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/what/what.json"
   },
@@ -724,6 +795,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s The * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/the/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/the/the.json"
   },
@@ -733,6 +805,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s There * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/there/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/there/there.json"
   },
@@ -742,6 +815,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s He * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/he/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/he/he.json"
   },
@@ -751,6 +825,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s On * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/on/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/on/on.json"
   },
@@ -760,6 +835,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s And * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/and/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/and/and.json"
   },
@@ -769,6 +845,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s We * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/we/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/we/we.json"
   },
@@ -778,6 +855,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Too * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/too/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/too/too.json"
   },
@@ -787,6 +865,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Where * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/where/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/where/where.json"
   },
@@ -796,6 +875,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s They * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/they/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/they/they.json"
   },
@@ -805,6 +885,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s It * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/it/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/it/it.json"
   },
@@ -814,6 +895,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Which * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/which/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/which/which.json"
   },
@@ -823,6 +905,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s When * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/when/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/when/when.json"
   },
@@ -832,6 +915,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s This * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/this/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/this/this.json"
   },
@@ -841,6 +925,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Of * dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/of/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/of/of.json"
   },
@@ -850,6 +935,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s Would dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/would/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/would/would.json"
   },
@@ -859,6 +945,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s She dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-beginnings/she/",
     "subcategory": "Two-word briefs, same beginnings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-beginnings/she/she.json"
   },
@@ -868,6 +955,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-D dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--D/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--D/two-key-briefs--D.json"
   },
@@ -877,6 +965,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s H-* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-H/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-H/two-key-briefs-H.json"
   },
@@ -886,6 +975,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s R-* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-R/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-R/two-key-briefs-R.json"
   },
@@ -895,6 +985,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *E* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-E/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-E/two-key-briefs-E.json"
   },
@@ -904,6 +995,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *U* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-U/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-U/two-key-briefs-U.json"
   },
@@ -913,6 +1005,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s K-* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-K/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-K/two-key-briefs-K.json"
   },
@@ -922,6 +1015,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-T dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--T/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--T/two-key-briefs--T.json"
   },
@@ -931,6 +1025,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s T-* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-T/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-T/two-key-briefs-T.json"
   },
@@ -940,6 +1035,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-R dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--R/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--R/two-key-briefs--R.json"
   },
@@ -949,6 +1045,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s W-* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-W/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-W/two-key-briefs-W.json"
   },
@@ -958,6 +1055,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *A* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-A/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-A/two-key-briefs-A.json"
   },
@@ -967,6 +1065,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s P-* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-P/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-P/two-key-briefs-P.json"
   },
@@ -976,6 +1075,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s S-*, *-S, and *-Z dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/two-key-briefs-S--S--Z.json"
   },
@@ -985,6 +1085,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-L dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--L/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--L/two-key-briefs--L.json"
   },
@@ -994,6 +1095,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-B dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--B/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--B/two-key-briefs--B.json"
   },
@@ -1003,6 +1105,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-F dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--F/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--F/two-key-briefs--F.json"
   },
@@ -1012,6 +1115,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-G dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--G/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--G/two-key-briefs--G.json"
   },
@@ -1021,6 +1125,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *-P dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs--P/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs--P/two-key-briefs--P.json"
   },
@@ -1030,6 +1135,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s *O* dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-key-briefs/two-key-briefs-O/",
     "subcategory": "Two-key briefs",
     "path": "/dictionaries/lessons/collections/two-key-briefs/two-key-briefs-O/two-key-briefs-O.json"
   },
@@ -1039,6 +1145,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * in dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/in/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/in/in.json"
   },
@@ -1048,6 +1155,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * that dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/that/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/that/that.json"
   },
@@ -1057,6 +1165,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * be dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/be/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/be/be.json"
   },
@@ -1066,6 +1175,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * the dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/the/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/the/the.json"
   },
@@ -1075,6 +1185,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * had dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/had/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/had/had.json"
   },
@@ -1084,6 +1195,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * and dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/and/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/and/and.json"
   },
@@ -1093,6 +1205,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * is dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/is/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/is/is.json"
   },
@@ -1102,6 +1215,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * to dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/to/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/to/to.json"
   },
@@ -1111,6 +1225,7 @@
     "subtitle": "",
     "category": "Collections",
     "tagline": "Typey Type’s * of dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/two-word-briefs-same-endings/of/",
     "subcategory": "Two-word briefs, same endings",
     "path": "/dictionaries/lessons/collections/two-word-briefs-same-endings/of/of.json"
   },
@@ -1120,6 +1235,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fairy dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/the-fairy/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/the-fairy/the-fairy.json"
   },
@@ -1129,6 +1245,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Little Red Riding-Hood dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/little-red-riding-hood/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/little-red-riding-hood/little-red-riding-hood.json"
   },
@@ -1138,6 +1255,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Cinderilla or the Little Glass Slipper dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/cinderilla-or-the-little-glass-slipper.json"
   },
@@ -1147,6 +1265,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Blue Beard dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/blue-beard/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/blue-beard/blue-beard.json"
   },
@@ -1156,6 +1275,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Ridiculous Wishes dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/the-ridiculous-wishes/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/the-ridiculous-wishes/the-ridiculous-wishes.json"
   },
@@ -1165,6 +1285,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Donkey-Skin dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/donkey-skin/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/donkey-skin/donkey-skin.json"
   },
@@ -1174,6 +1295,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Sleeping Beauty in the Wood dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/the-sleeping-beauty-in-the-wood/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/the-sleeping-beauty-in-the-wood/the-sleeping-beauty-in-the-wood.json"
   },
@@ -1183,6 +1305,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Little Thumb dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/little-thumb/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/little-thumb/little-thumb.json"
   },
@@ -1192,6 +1315,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Riquet With the Tuft dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/riquet-with-the-tuft/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/riquet-with-the-tuft/riquet-with-the-tuft.json"
   },
@@ -1201,6 +1325,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Master Cat or Puss in Boots dictionary lets you write all the words needed for that lesson from Charles Perrault’s Fairy Tales.",
+    "link": "/lessons/stories/charles-perrault/the-master-cat-or-puss-in-boots/",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/charles-perrault/the-master-cat-or-puss-in-boots/the-master-cat-or-puss-in-boots.json"
   },
@@ -1210,6 +1335,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Ugly Duckling dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-ugly-duckling/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-ugly-duckling/the-ugly-duckling.json"
   },
@@ -1219,6 +1345,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Angel dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-angel/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-angel/the-angel.json"
   },
@@ -1228,6 +1355,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Tinder-Box dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-tinder-box/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-tinder-box/the-tinder-box.json"
   },
@@ -1237,6 +1365,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Drop of Water dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-drop-of-water/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-drop-of-water/the-drop-of-water.json"
   },
@@ -1246,6 +1375,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Ole-Luk-Oie, the Dream-God dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/ole-luk-oie--the-dream-god/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/ole-luk-oie--the-dream-god/ole-luk-oie--the-dream-god.json"
   },
@@ -1255,6 +1385,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s A Great Grief dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/a-great-grief/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/a-great-grief/a-great-grief.json"
   },
@@ -1264,6 +1395,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Jewish Maiden dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-jewish-maiden/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-jewish-maiden/the-jewish-maiden.json"
   },
@@ -1273,6 +1405,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Psyche dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-psyche/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-psyche/the-psyche.json"
   },
@@ -1282,6 +1415,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Everything in the Right Place dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/everything-in-the-right-place/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/everything-in-the-right-place/everything-in-the-right-place.json"
   },
@@ -1291,6 +1425,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Thorny Road of Honor dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-thorny-road-of-honor/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-thorny-road-of-honor/the-thorny-road-of-honor.json"
   },
@@ -1300,6 +1435,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s A Story dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/a-story/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/a-story/a-story.json"
   },
@@ -1309,6 +1445,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Dumb Book dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-dumb-book/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-dumb-book/the-dumb-book.json"
   },
@@ -1318,6 +1455,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Two Brothers dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/two-brothers/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/two-brothers/two-brothers.json"
   },
@@ -1327,6 +1465,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Portuguese Duck dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-portuguese-duck/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-portuguese-duck/the-portuguese-duck.json"
   },
@@ -1336,6 +1475,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Little Tiny or Thumbelina dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/little-tiny-or-thumbelina/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/little-tiny-or-thumbelina/little-tiny-or-thumbelina.json"
   },
@@ -1345,6 +1485,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Jack the Dullard dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/jack-the-dullard/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/jack-the-dullard/jack-the-dullard.json"
   },
@@ -1354,6 +1495,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Child in the Grave dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-child-in-the-grave/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-child-in-the-grave/the-child-in-the-grave.json"
   },
@@ -1363,6 +1505,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bird of Popular Song dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-bird-of-popular-song/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-bird-of-popular-song/the-bird-of-popular-song.json"
   },
@@ -1372,6 +1515,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Girl Who Trod on the Loaf dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/the-girl-who-trod-on-the-loaf.json"
   },
@@ -1381,6 +1525,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Beetle Who Went on His Travels dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/the-beetle-who-went-on-his-travels.json"
   },
@@ -1390,6 +1535,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Puppet-Show Man dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-puppet-show-man/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-puppet-show-man/the-puppet-show-man.json"
   },
@@ -1399,6 +1545,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Old House dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-old-house/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-old-house/the-old-house.json"
   },
@@ -1408,6 +1555,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Swineherd dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-swineherd/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-swineherd/the-swineherd.json"
   },
@@ -1417,6 +1565,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s There Is No Doubt About It dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/there-is-no-doubt-about-it/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/there-is-no-doubt-about-it/there-is-no-doubt-about-it.json"
   },
@@ -1426,6 +1575,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Neighbouring Families dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-neighbouring-families/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-neighbouring-families/the-neighbouring-families.json"
   },
@@ -1435,6 +1585,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Pea Blossom dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-pea-blossom/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-pea-blossom/the-pea-blossom.json"
   },
@@ -1444,6 +1595,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Red Shoes dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-red-shoes/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-red-shoes/the-red-shoes.json"
   },
@@ -1453,6 +1605,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Shirt-Collar dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-shirt-collar/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-shirt-collar/the-shirt-collar.json"
   },
@@ -1462,6 +1615,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Snail and the Rose-Tree dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-snail-and-the-rose-tree/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-snail-and-the-rose-tree/the-snail-and-the-rose-tree.json"
   },
@@ -1471,6 +1625,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Golden Treasure dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-golden-treasure/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-golden-treasure/the-golden-treasure.json"
   },
@@ -1480,6 +1635,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Beauty of Form and Beauty of Mind dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/beauty-of-form-and-beauty-of-mind.json"
   },
@@ -1489,6 +1645,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Butterfly dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-butterfly/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-butterfly/the-butterfly.json"
   },
@@ -1498,6 +1655,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s She Was Good for Nothing dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/she-was-good-for-nothing/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/she-was-good-for-nothing/she-was-good-for-nothing.json"
   },
@@ -1507,6 +1665,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Top and Ball dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-top-and-ball/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-top-and-ball/the-top-and-ball.json"
   },
@@ -1516,6 +1675,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Phoenix Bird dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-phoenix-bird/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-phoenix-bird/the-phoenix-bird.json"
   },
@@ -1525,6 +1685,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Little Elder-Tree Mother dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-little-elder-tree-mother/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-little-elder-tree-mother/the-little-elder-tree-mother.json"
   },
@@ -1534,6 +1695,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Loveliest Rose in the World dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/the-loveliest-rose-in-the-world.json"
   },
@@ -1543,6 +1705,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Elf of the Rose dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-elf-of-the-rose/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-elf-of-the-rose/the-elf-of-the-rose.json"
   },
@@ -1552,6 +1715,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Goblin and the Huckster dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-goblin-and-the-huckster/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-goblin-and-the-huckster/the-goblin-and-the-huckster.json"
   },
@@ -1561,6 +1725,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Two Maidens dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/two-maidens/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/two-maidens/two-maidens.json"
   },
@@ -1570,6 +1735,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Farm-Yard Cock and the Weather-Cock dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/the-farm-yard-cock-and-the-weather-cock.json"
   },
@@ -1579,6 +1745,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Toad dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-toad/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-toad/the-toad.json"
   },
@@ -1588,6 +1755,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Sunbeam and the Captive dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-sunbeam-and-the-captive/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-sunbeam-and-the-captive/the-sunbeam-and-the-captive.json"
   },
@@ -1597,6 +1765,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Old Grave-Stone dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-old-grave-stone/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-old-grave-stone/the-old-grave-stone.json"
   },
@@ -1606,6 +1775,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Saucy Boy dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-saucy-boy/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-saucy-boy/the-saucy-boy.json"
   },
@@ -1615,6 +1785,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Last Pearl dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-last-pearl/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-last-pearl/the-last-pearl.json"
   },
@@ -1624,6 +1795,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Something dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/something/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/something/something.json"
   },
@@ -1633,6 +1805,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bell dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-bell/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-bell/the-bell.json"
   },
@@ -1642,6 +1815,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Grandmother dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/grandmother/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/grandmother/grandmother.json"
   },
@@ -1651,6 +1825,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Flax dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-flax/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-flax/the-flax.json"
   },
@@ -1660,6 +1835,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Flying Trunk dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-flying-trunk/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-flying-trunk/the-flying-trunk.json"
   },
@@ -1669,6 +1845,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Storks dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-storks/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-storks/the-storks.json"
   },
@@ -1678,6 +1855,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Will-O-the Wisp Is in the Town, Says the Moor Woman dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town--says-the-moor-woman/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town--says-the-moor-woman/the-will-o-the-wisp-is-in-the-town--says-the-moor-woman.json"
   },
@@ -1687,6 +1865,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Snow Man dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-snow-man/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-snow-man/the-snow-man.json"
   },
@@ -1696,6 +1875,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Silver Shilling dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-silver-shilling/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-silver-shilling/the-silver-shilling.json"
   },
@@ -1705,6 +1885,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Snowdrop dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-snowdrop/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-snowdrop/the-snowdrop.json"
   },
@@ -1714,6 +1895,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Last Dream of the Old Oak dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/the-last-dream-of-the-old-oak.json"
   },
@@ -1723,6 +1905,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Holger Danske dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/holger-danske/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/holger-danske/holger-danske.json"
   },
@@ -1732,6 +1915,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Little Tuk dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/little-tuk/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/little-tuk/little-tuk.json"
   },
@@ -1741,6 +1925,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Ib and Little Christina dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/ib-and-little-christina/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/ib-and-little-christina/ib-and-little-christina.json"
   },
@@ -1750,6 +1935,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Happy Family dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-happy-family/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-happy-family/the-happy-family.json"
   },
@@ -1759,6 +1945,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Old Church Bell dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-old-church-bell/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-old-church-bell/the-old-church-bell.json"
   },
@@ -1768,6 +1955,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Little Ida's Flowers dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/little-ida-s-flowers/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/little-ida-s-flowers/little-ida-s-flowers.json"
   },
@@ -1777,6 +1965,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Our Aunt dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/our-aunt/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/our-aunt/our-aunt.json"
   },
@@ -1786,6 +1975,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Races dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-races/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-races/the-races.json"
   },
@@ -1795,6 +1985,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Pen and the Inkstand dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-pen-and-the-inkstand/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-pen-and-the-inkstand/the-pen-and-the-inkstand.json"
   },
@@ -1804,6 +1995,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Little Match-Seller dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-little-match-seller/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-little-match-seller/the-little-match-seller.json"
   },
@@ -1813,6 +2005,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Story of the Wind dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-story-of-the-wind/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-story-of-the-wind/the-story-of-the-wind.json"
   },
@@ -1822,6 +2015,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bell-Deep dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-bell-deep/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-bell-deep/the-bell-deep.json"
   },
@@ -1831,6 +2025,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Thistle's Experiences dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-thistle-s-experiences/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-thistle-s-experiences/the-thistle-s-experiences.json"
   },
@@ -1840,6 +2035,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Ole the Tower-Keeper dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/ole-the-tower-keeper/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/ole-the-tower-keeper/ole-the-tower-keeper.json"
   },
@@ -1849,6 +2045,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bishop of Borglum and His Warriors dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/the-bishop-of-borglum-and-his-warriors.json"
   },
@@ -1858,6 +2055,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Children's Prattle dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/children-s-prattle/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/children-s-prattle/children-s-prattle.json"
   },
@@ -1867,6 +2065,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Story of the Year dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-story-of-the-year/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-story-of-the-year/the-story-of-the-year.json"
   },
@@ -1876,6 +2075,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Money-Box dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-money-box/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-money-box/the-money-box.json"
   },
@@ -1885,6 +2085,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Swan's Nest dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-swan-s-nest/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-swan-s-nest/the-swan-s-nest.json"
   },
@@ -1894,6 +2095,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s By the Almshouse Window dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/by-the-almshouse-window/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/by-the-almshouse-window/by-the-almshouse-window.json"
   },
@@ -1903,6 +2105,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Story of a Mother dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-story-of-a-mother/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-story-of-a-mother/the-story-of-a-mother.json"
   },
@@ -1912,6 +2115,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s A Leaf From Heaven dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/a-leaf-from-heaven/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/a-leaf-from-heaven/a-leaf-from-heaven.json"
   },
@@ -1921,6 +2125,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s In the Uttermost Parts of the Sea dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/in-the-uttermost-parts-of-the-sea.json"
   },
@@ -1930,6 +2135,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s In the Nursery dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/in-the-nursery/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/in-the-nursery/in-the-nursery.json"
   },
@@ -1939,6 +2145,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Nightingale dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-nightingale/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-nightingale/the-nightingale.json"
   },
@@ -1948,6 +2155,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Delaying Is Not Forgetting dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/delaying-is-not-forgetting/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/delaying-is-not-forgetting/delaying-is-not-forgetting.json"
   },
@@ -1957,6 +2165,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fir Tree dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-fir-tree/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-fir-tree/the-fir-tree.json"
   },
@@ -1966,6 +2175,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Elfin Hill dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-elfin-hill/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-elfin-hill/the-elfin-hill.json"
   },
@@ -1975,6 +2185,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Buckwheat dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-buckwheat/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-buckwheat/the-buckwheat.json"
   },
@@ -1984,6 +2195,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Jumper dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-jumper/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-jumper/the-jumper.json"
   },
@@ -1993,6 +2205,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Emperor's New Suit dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-emperor-s-new-suit/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-emperor-s-new-suit/the-emperor-s-new-suit.json"
   },
@@ -2002,6 +2215,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Darning-Needle dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-darning-needle/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-darning-needle/the-darning-needle.json"
   },
@@ -2011,6 +2225,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Shadow dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-shadow/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-shadow/the-shadow.json"
   },
@@ -2020,6 +2235,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Windmill dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-windmill/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-windmill/the-windmill.json"
   },
@@ -2029,6 +2245,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s What the Old Man Does Is Always Right dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/what-the-old-man-does-is-always-right.json"
   },
@@ -2038,6 +2255,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Storm Shakes the Shield dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-storm-shakes-the-shield/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-storm-shakes-the-shield/the-storm-shakes-the-shield.json"
   },
@@ -2047,6 +2265,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Shepherdess and the Sheep dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/the-shepherdess-and-the-sheep.json"
   },
@@ -2056,6 +2275,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Little Claus and Big Claus dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/little-claus-and-big-claus/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/little-claus-and-big-claus/little-claus-and-big-claus.json"
   },
@@ -2065,6 +2285,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Shepherd's Story of the Bond of Friendship dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-shepherd-s-story-of-the-bond-of-friendship/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-shepherd-s-story-of-the-bond-of-friendship/the-shepherd-s-story-of-the-bond-of-friendship.json"
   },
@@ -2074,6 +2295,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s A Rose From Homer's Grave dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/a-rose-from-homer-s-grave/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/a-rose-from-homer-s-grave/a-rose-from-homer-s-grave.json"
   },
@@ -2083,6 +2305,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Daisy dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-daisy/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-daisy/the-daisy.json"
   },
@@ -2092,6 +2315,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Brave Tin Soldier dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-brave-tin-soldier/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-brave-tin-soldier/the-brave-tin-soldier.json"
   },
@@ -2101,6 +2325,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s What One Can Invent dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/what-one-can-invent/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/what-one-can-invent/what-one-can-invent.json"
   },
@@ -2110,6 +2335,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Old Street Lamp dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-old-street-lamp/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-old-street-lamp/the-old-street-lamp.json"
   },
@@ -2119,6 +2345,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Anne Lisbeth dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/anne-lisbeth/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/anne-lisbeth/anne-lisbeth.json"
   },
@@ -2128,6 +2355,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wicked Prince dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-wicked-prince/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-wicked-prince/the-wicked-prince.json"
   },
@@ -2137,6 +2365,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s In a Thousand Years dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/in-a-thousand-years/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/in-a-thousand-years/in-a-thousand-years.json"
   },
@@ -2146,6 +2375,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Conceited Apple-Branch dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-conceited-apple-branch/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-conceited-apple-branch/the-conceited-apple-branch.json"
   },
@@ -2155,6 +2385,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Metal Pig dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-metal-pig/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-metal-pig/the-metal-pig.json"
   },
@@ -2164,6 +2395,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Mail-Coach Passengers dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-mail-coach-passengers/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-mail-coach-passengers/the-mail-coach-passengers.json"
   },
@@ -2173,6 +2405,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s A Cheerful Temper dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/a-cheerful-temper/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/a-cheerful-temper/a-cheerful-temper.json"
   },
@@ -2182,6 +2415,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Princess and the Pea dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-princess-and-the-pea/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-princess-and-the-pea/the-princess-and-the-pea.json"
   },
@@ -2191,6 +2425,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bottle Neck dictionary lets you write all the words needed for that lesson from Hans Christian Andersen’s Fairy Tales.",
+    "link": "/lessons/stories/hans-christian-andersen/the-bottle-neck/",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/dictionaries/lessons/stories/hans-christian-andersen/the-bottle-neck/the-bottle-neck.json"
   },
@@ -2200,6 +2435,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Little Peasant dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-little-peasant/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-little-peasant/the-little-peasant.json"
   },
@@ -2209,6 +2445,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Turnip dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-turnip/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-turnip/the-turnip.json"
   },
@@ -2218,6 +2455,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Four Clever Brothers dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-four-clever-brothers/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-four-clever-brothers/the-four-clever-brothers.json"
   },
@@ -2227,6 +2465,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Golden Goose dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-golden-goose/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-golden-goose/the-golden-goose.json"
   },
@@ -2236,6 +2475,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Clever Hans dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/clever-hans/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/clever-hans/clever-hans.json"
   },
@@ -2245,6 +2485,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Elves and the Shoemaker dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-elves-and-the-shoemaker/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-elves-and-the-shoemaker/the-elves-and-the-shoemaker.json"
   },
@@ -2254,6 +2495,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Adventures of Chanticleer and Partlet dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-adventures-of-chanticleer-and-partlet/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-adventures-of-chanticleer-and-partlet/the-adventures-of-chanticleer-and-partlet.json"
   },
@@ -2263,6 +2505,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Willow-Wren and the Bear dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-willow-wren-and-the-bear/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-willow-wren-and-the-bear/the-willow-wren-and-the-bear.json"
   },
@@ -2272,6 +2515,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Fundevogel dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/fundevogel/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/fundevogel/fundevogel.json"
   },
@@ -2281,6 +2525,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Clever Elsie dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/clever-elsie/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/clever-elsie/clever-elsie.json"
   },
@@ -2290,6 +2535,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Horse dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-fox-and-the-horse/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-fox-and-the-horse/the-fox-and-the-horse.json"
   },
@@ -2299,6 +2545,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Blue Light dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-blue-light/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-blue-light/the-blue-light.json"
   },
@@ -2308,6 +2555,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Valiant Little Tailor dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-valiant-little-tailor/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-valiant-little-tailor/the-valiant-little-tailor.json"
   },
@@ -2317,6 +2565,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Cat dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-fox-and-the-cat/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-fox-and-the-cat/the-fox-and-the-cat.json"
   },
@@ -2326,6 +2575,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Water of Life dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-water-of-life/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-water-of-life/the-water-of-life.json"
   },
@@ -2335,6 +2585,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Hansel and Gretel dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/hansel-and-gretel/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/hansel-and-gretel/hansel-and-gretel.json"
   },
@@ -2344,6 +2595,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wedding of Mrs Fox dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-wedding-of-mrs-fox/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-wedding-of-mrs-fox/the-wedding-of-mrs-fox.json"
   },
@@ -2353,6 +2605,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wolf and the Seven Little Kids dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-wolf-and-the-seven-little-kids/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-wolf-and-the-seven-little-kids/the-wolf-and-the-seven-little-kids.json"
   },
@@ -2362,6 +2615,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Twelve Huntsmen dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-twelve-huntsmen/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-twelve-huntsmen/the-twelve-huntsmen.json"
   },
@@ -2371,6 +2625,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Clever Gretel dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/clever-gretel/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/clever-gretel/clever-gretel.json"
   },
@@ -2380,6 +2635,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Hans in Luck dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/hans-in-luck/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/hans-in-luck/hans-in-luck.json"
   },
@@ -2389,6 +2645,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fisherman and His Wife dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-fisherman-and-his-wife/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-fisherman-and-his-wife/the-fisherman-and-his-wife.json"
   },
@@ -2398,6 +2655,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Sweetheart Roland dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/sweetheart-roland/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/sweetheart-roland/sweetheart-roland.json"
   },
@@ -2407,6 +2665,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Goose-Girl dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-goose-girl/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-goose-girl/the-goose-girl.json"
   },
@@ -2416,6 +2675,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Jorinda and Jorindel dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/jorinda-and-jorindel/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/jorinda-and-jorindel/jorinda-and-jorindel.json"
   },
@@ -2425,6 +2685,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Miser in the Bush dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-miser-in-the-bush/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-miser-in-the-bush/the-miser-in-the-bush.json"
   },
@@ -2434,6 +2695,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Old Man and His Grandson dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-old-man-and-his-grandson/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-old-man-and-his-grandson/the-old-man-and-his-grandson.json"
   },
@@ -2443,6 +2705,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Iron Hans dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/iron-hans/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/iron-hans/iron-hans.json"
   },
@@ -2452,6 +2715,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Lily and the Lion dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/lily-and-the-lion/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/lily-and-the-lion/lily-and-the-lion.json"
   },
@@ -2461,6 +2725,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Snow-White and Rose-Red dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/snow-white-and-rose-red/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/snow-white-and-rose-red/snow-white-and-rose-red.json"
   },
@@ -2470,6 +2735,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Travelling Musicians dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-travelling-musicians/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-travelling-musicians/the-travelling-musicians.json"
   },
@@ -2479,6 +2745,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Mouse, the Bird, and the Sausage dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-mouse--the-bird--and-the-sausage/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-mouse--the-bird--and-the-sausage/the-mouse--the-bird--and-the-sausage.json"
   },
@@ -2488,6 +2755,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Golden Bird dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-golden-bird/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-golden-bird/the-golden-bird.json"
   },
@@ -2497,6 +2765,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Queen Bee dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-queen-bee/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-queen-bee/the-queen-bee.json"
   },
@@ -2506,6 +2775,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Story of the Youth Who Went Forth to Learn What Fear Was dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was.json"
   },
@@ -2515,6 +2785,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Doctor Knowall dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/doctor-knowall/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/doctor-knowall/doctor-knowall.json"
   },
@@ -2524,6 +2795,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Tom Thumb dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/tom-thumb/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/tom-thumb/tom-thumb.json"
   },
@@ -2533,6 +2805,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Briar Rose dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/briar-rose/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/briar-rose/briar-rose.json"
   },
@@ -2542,6 +2815,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Rapunzel dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/rapunzel/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/rapunzel/rapunzel.json"
   },
@@ -2551,6 +2825,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Cat-Skin dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/cat-skin/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/cat-skin/cat-skin.json"
   },
@@ -2560,6 +2835,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Straw, the Coal, and the Bean dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-straw--the-coal--and-the-bean/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-straw--the-coal--and-the-bean/the-straw--the-coal--and-the-bean.json"
   },
@@ -2569,6 +2845,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The White Snake dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-white-snake/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-white-snake/the-white-snake.json"
   },
@@ -2578,6 +2855,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Old Sultan dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/old-sultan/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/old-sultan/old-sultan.json"
   },
@@ -2587,6 +2865,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Frog-Prince dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-frog-prince/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-frog-prince/the-frog-prince.json"
   },
@@ -2596,6 +2875,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Three Languages dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-three-languages/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-three-languages/the-three-languages.json"
   },
@@ -2605,6 +2885,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Rumpelstiltskin dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/rumpelstiltskin/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/rumpelstiltskin/rumpelstiltskin.json"
   },
@@ -2614,6 +2895,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s King Grisly-Beard dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/king-grisly-beard/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/king-grisly-beard/king-grisly-beard.json"
   },
@@ -2623,6 +2905,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Twelve Dancing Princesses dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-twelve-dancing-princesses/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-twelve-dancing-princesses/the-twelve-dancing-princesses.json"
   },
@@ -2632,6 +2915,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The King of the Golden Mountain dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-king-of-the-golden-mountain/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-king-of-the-golden-mountain/the-king-of-the-golden-mountain.json"
   },
@@ -2641,6 +2925,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Snowdrop dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/snowdrop/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/snowdrop/snowdrop.json"
   },
@@ -2650,6 +2935,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Dog and the Sparrow dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-dog-and-the-sparrow/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-dog-and-the-sparrow/the-dog-and-the-sparrow.json"
   },
@@ -2659,6 +2945,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Cat and Mouse in Partnership dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/cat-and-mouse-in-partnership/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/cat-and-mouse-in-partnership/cat-and-mouse-in-partnership.json"
   },
@@ -2668,6 +2955,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Raven dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-raven/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-raven/the-raven.json"
   },
@@ -2677,6 +2965,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Mother Holle dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/mother-holle/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/mother-holle/mother-holle.json"
   },
@@ -2686,6 +2975,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Juniper-Tree dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-juniper-tree/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-juniper-tree/the-juniper-tree.json"
   },
@@ -2695,6 +2985,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Frederick and Catherine dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/frederick-and-catherine/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/frederick-and-catherine/frederick-and-catherine.json"
   },
@@ -2704,6 +2995,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Pink dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-pink/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-pink/the-pink.json"
   },
@@ -2713,6 +3005,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Ashputtel dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/ashputtel/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/ashputtel/ashputtel.json"
   },
@@ -2722,6 +3015,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Seven Ravens dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-seven-ravens/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-seven-ravens/the-seven-ravens.json"
   },
@@ -2731,6 +3025,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Robber Bridegroom dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-robber-bridegroom/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-robber-bridegroom/the-robber-bridegroom.json"
   },
@@ -2740,6 +3035,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Salad dictionary lets you write all the words needed for that lesson from Grimms’ Fairy Tales.",
+    "link": "/lessons/stories/grimm/the-salad/",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/dictionaries/lessons/stories/grimm/the-salad/the-salad.json"
   },
@@ -2749,6 +3045,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Grapes dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-grapes/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-grapes/the-fox-and-the-grapes.json"
   },
@@ -2758,6 +3055,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bundle of Sticks dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-bundle-of-sticks/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-bundle-of-sticks/the-bundle-of-sticks.json"
   },
@@ -2767,6 +3065,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Cock and the Pearl dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-cock-and-the-pearl/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-cock-and-the-pearl/the-cock-and-the-pearl.json"
   },
@@ -2776,6 +3075,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Belling the Cat dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/belling-the-cat/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/belling-the-cat/belling-the-cat.json"
   },
@@ -2785,6 +3085,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Old Woman and the Wine-Jar dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-old-woman-and-the-wine-jar/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-old-woman-and-the-wine-jar/the-old-woman-and-the-wine-jar.json"
   },
@@ -2794,6 +3095,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Hare and the Tortoise dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-hare-and-the-tortoise/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-hare-and-the-tortoise/the-hare-and-the-tortoise.json"
   },
@@ -2803,6 +3105,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Lion in Love dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-lion-in-love/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-lion-in-love/the-lion-in-love.json"
   },
@@ -2812,6 +3115,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Hart and the Hunter dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-hart-and-the-hunter/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-hart-and-the-hunter/the-hart-and-the-hunter.json"
   },
@@ -2821,6 +3125,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Sick Lion dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-sick-lion/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-sick-lion/the-sick-lion.json"
   },
@@ -2830,6 +3135,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Lion and the Statue dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-lion-and-the-statue/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-lion-and-the-statue/the-lion-and-the-statue.json"
   },
@@ -2839,6 +3145,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Hare With Many Friends dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-hare-with-many-friends/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-hare-with-many-friends/the-hare-with-many-friends.json"
   },
@@ -2848,6 +3155,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Lion dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-lion/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-lion/the-fox-and-the-lion.json"
   },
@@ -2857,6 +3165,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Belly and the Members dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-belly-and-the-members/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-belly-and-the-members/the-belly-and-the-members.json"
   },
@@ -2866,6 +3175,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Frogs Desiring a King dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-frogs-desiring-a-king/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-frogs-desiring-a-king/the-frogs-desiring-a-king.json"
   },
@@ -2875,6 +3185,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Cat dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-cat/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-cat/the-fox-and-the-cat.json"
   },
@@ -2884,6 +3195,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Lion and the Mouse dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-lion-and-the-mouse/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-lion-and-the-mouse/the-lion-and-the-mouse.json"
   },
@@ -2893,6 +3205,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Avaricious and Envious dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/avaricious-and-envious/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/avaricious-and-envious/avaricious-and-envious.json"
   },
@@ -2902,6 +3215,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Labourer and the Nightingale dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-labourer-and-the-nightingale/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-labourer-and-the-nightingale/the-labourer-and-the-nightingale.json"
   },
@@ -2911,6 +3225,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Androcles dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/androcles/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/androcles/androcles.json"
   },
@@ -2920,6 +3235,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Serpent and the File dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-serpent-and-the-file/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-serpent-and-the-file/the-serpent-and-the-file.json"
   },
@@ -2929,6 +3245,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wolf and the Crane dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-wolf-and-the-crane/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-wolf-and-the-crane/the-wolf-and-the-crane.json"
   },
@@ -2938,6 +3255,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Trumpeter Taken Prisoner dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-trumpeter-taken-prisoner/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-trumpeter-taken-prisoner/the-trumpeter-taken-prisoner.json"
   },
@@ -2947,6 +3265,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Buffoon and the Countryman dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-buffoon-and-the-countryman/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-buffoon-and-the-countryman/the-buffoon-and-the-countryman.json"
   },
@@ -2956,6 +3275,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bald Man and the Fly dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-bald-man-and-the-fly/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-bald-man-and-the-fly/the-bald-man-and-the-fly.json"
   },
@@ -2965,6 +3285,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Frog and the Ox dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-frog-and-the-ox/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-frog-and-the-ox/the-frog-and-the-ox.json"
   },
@@ -2974,6 +3295,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Lion's Share dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-lions-share/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-lions-share/the-lions-share.json"
   },
@@ -2983,6 +3305,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Young Thief and His Mother dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-young-thief-and-his-mother/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-young-thief-and-his-mother/the-young-thief-and-his-mother.json"
   },
@@ -2992,6 +3315,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Ass and the Lapdog dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-ass-and-the-lapdog/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-ass-and-the-lapdog/the-ass-and-the-lapdog.json"
   },
@@ -3001,6 +3325,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Man, the Boy, and the Donkey dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-man-the-boy-and-the-donkey/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-man-the-boy-and-the-donkey/the-man-the-boy-and-the-donkey.json"
   },
@@ -3010,6 +3335,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Miser and His Gold dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-miser-and-his-gold/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-miser-and-his-gold/the-miser-and-his-gold.json"
   },
@@ -3019,6 +3345,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Crow dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-crow/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-crow/the-fox-and-the-crow.json"
   },
@@ -3028,6 +3355,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Shepherd's Boy dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-shepherds-boy/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-shepherds-boy/the-shepherds-boy.json"
   },
@@ -3037,6 +3365,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Four Oxen and the Lion dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-four-oxen-and-the-lion/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-four-oxen-and-the-lion/the-four-oxen-and-the-lion.json"
   },
@@ -3046,6 +3375,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Hares and the Frogs dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-hares-and-the-frogs/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-hares-and-the-frogs/the-hares-and-the-frogs.json"
   },
@@ -3055,6 +3385,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Milkmaid and Her Pail dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-milkmaid-and-her-pail/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-milkmaid-and-her-pail/the-milkmaid-and-her-pail.json"
   },
@@ -3064,6 +3395,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Two Crabs dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-two-crabs/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-two-crabs/the-two-crabs.json"
   },
@@ -3073,6 +3405,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Crow and the Pitcher dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-crow-and-the-pitcher/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-crow-and-the-pitcher/the-crow-and-the-pitcher.json"
   },
@@ -3082,6 +3415,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Swallow and the Other Birds dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-swallow-and-the-other-birds/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-swallow-and-the-other-birds/the-swallow-and-the-other-birds.json"
   },
@@ -3091,6 +3425,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Man and the Satyr dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-man-and-the-satyr/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-man-and-the-satyr/the-man-and-the-satyr.json"
   },
@@ -3100,6 +3435,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The One-Eyed Doe dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-one-eyed-doe/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-one-eyed-doe/the-one-eyed-doe.json"
   },
@@ -3109,6 +3445,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Mountains in Labour dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-mountains-in-labour/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-mountains-in-labour/the-mountains-in-labour.json"
   },
@@ -3118,6 +3455,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Horse and the Ass dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-horse-and-the-ass/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-horse-and-the-ass/the-horse-and-the-ass.json"
   },
@@ -3127,6 +3465,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fisher dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fisher/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fisher/the-fisher.json"
   },
@@ -3136,6 +3475,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Ant and the Grasshopper dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-ant-and-the-grasshopper/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-ant-and-the-grasshopper/the-ant-and-the-grasshopper.json"
   },
@@ -3145,6 +3485,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Eagle and the Arrow dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-eagle-and-the-arrow/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-eagle-and-the-arrow/the-eagle-and-the-arrow.json"
   },
@@ -3154,6 +3495,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Town Mouse and the Country Mouse dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-town-mouse-and-the-country-mouse/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-town-mouse-and-the-country-mouse/the-town-mouse-and-the-country-mouse.json"
   },
@@ -3163,6 +3505,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Two Pots dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-two-pots/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-two-pots/the-two-pots.json"
   },
@@ -3172,6 +3515,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wind and the Sun dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-wind-and-the-sun/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-wind-and-the-sun/the-wind-and-the-sun.json"
   },
@@ -3181,6 +3525,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Old Man and Death dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-old-man-and-death/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-old-man-and-death/the-old-man-and-death.json"
   },
@@ -3190,6 +3535,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Bat, the Birds and the Beasts dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-bat-the-birds-and-the-beasts/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-bat-the-birds-and-the-beasts/the-bat-the-birds-and-the-beasts.json"
   },
@@ -3199,6 +3545,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Horse, Hunter, and Stag dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-horse-hunter-and-stag/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-horse-hunter-and-stag/the-horse-hunter-and-stag.json"
   },
@@ -3208,6 +3555,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s Hercules and the Waggoner dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/hercules-and-the-waggoner/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/hercules-and-the-waggoner/hercules-and-the-waggoner.json"
   },
@@ -3217,6 +3565,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wolf and the Kid dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-wolf-and-the-kid/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-wolf-and-the-kid/the-wolf-and-the-kid.json"
   },
@@ -3226,6 +3575,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Mask dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-mask/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-mask/the-fox-and-the-mask.json"
   },
@@ -3235,6 +3585,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Ass's Brains dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-asss-brains/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-asss-brains/the-asss-brains.json"
   },
@@ -3244,6 +3595,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Goat dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-goat/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-goat/the-fox-and-the-goat.json"
   },
@@ -3253,6 +3605,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Dog and the Wolf dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-dog-and-the-wolf/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-dog-and-the-wolf/the-dog-and-the-wolf.json"
   },
@@ -3262,6 +3615,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Man and His Two Wives dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-man-and-his-two-wives/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-man-and-his-two-wives/the-man-and-his-two-wives.json"
   },
@@ -3271,6 +3625,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Peacock and Juno dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-peacock-and-juno/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-peacock-and-juno/the-peacock-and-juno.json"
   },
@@ -3280,6 +3635,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Lion, the Fox, and the Beasts dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-lion-the-fox-and-the-beasts/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-lion-the-fox-and-the-beasts/the-lion-the-fox-and-the-beasts.json"
   },
@@ -3289,6 +3645,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wolf in Sheep's Clothing dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-wolf-in-sheeps-clothing/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-wolf-in-sheeps-clothing/the-wolf-in-sheeps-clothing.json"
   },
@@ -3298,6 +3655,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Wolf and the Lamb dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-wolf-and-the-lamb/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-wolf-and-the-lamb/the-wolf-and-the-lamb.json"
   },
@@ -3307,6 +3665,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Ass in the Lion's Skin dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-ass-in-the-lions-skin/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-ass-in-the-lions-skin/the-ass-in-the-lions-skin.json"
   },
@@ -3316,6 +3675,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Dog in the Manger dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-dog-in-the-manger/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-dog-in-the-manger/the-dog-in-the-manger.json"
   },
@@ -3325,6 +3685,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Jay and the Peacock dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-jay-and-the-peacock/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-jay-and-the-peacock/the-jay-and-the-peacock.json"
   },
@@ -3334,6 +3695,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Mosquitoes dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-mosquitoes/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-mosquitoes/the-fox-and-the-mosquitoes.json"
   },
@@ -3343,6 +3705,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fisher and the Little Fish dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fisher-and-the-little-fish/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fisher-and-the-little-fish/the-fisher-and-the-little-fish.json"
   },
@@ -3352,6 +3715,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox, the Cock, and the Dog dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-the-cock-and-the-dog/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-the-cock-and-the-dog/the-fox-the-cock-and-the-dog.json"
   },
@@ -3361,6 +3725,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Man and the Wood dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-man-and-the-wood/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-man-and-the-wood/the-man-and-the-wood.json"
   },
@@ -3370,6 +3735,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Cat-Maiden dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-cat-maiden/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-cat-maiden/the-cat-maiden.json"
   },
@@ -3379,6 +3745,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Woodman and the Serpent dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-woodman-and-the-serpent/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-woodman-and-the-serpent/the-woodman-and-the-serpent.json"
   },
@@ -3388,6 +3755,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Tree and the Reed dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-tree-and-the-reed/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-tree-and-the-reed/the-tree-and-the-reed.json"
   },
@@ -3397,6 +3765,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox and the Stork dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-and-the-stork/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-and-the-stork/the-fox-and-the-stork.json"
   },
@@ -3406,6 +3775,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Dog and the Shadow dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-dog-and-the-shadow/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-dog-and-the-shadow/the-dog-and-the-shadow.json"
   },
@@ -3415,6 +3785,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Tortoise and the Birds dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-tortoise-and-the-birds/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-tortoise-and-the-birds/the-tortoise-and-the-birds.json"
   },
@@ -3424,6 +3795,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Two Fellows and the Bear dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-two-fellows-and-the-bear/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-two-fellows-and-the-bear/the-two-fellows-and-the-bear.json"
   },
@@ -3433,6 +3805,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Hart in the Ox-Stall dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-hart-in-the-ox-stall/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-hart-in-the-ox-stall/the-hart-in-the-ox-stall.json"
   },
@@ -3442,6 +3815,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Man and the Serpent dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-man-and-the-serpent/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-man-and-the-serpent/the-man-and-the-serpent.json"
   },
@@ -3451,6 +3825,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Fox Without a Tail dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-fox-without-a-tail/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-fox-without-a-tail/the-fox-without-a-tail.json"
   },
@@ -3460,6 +3835,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Goose With the Golden Eggs dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-goose-with-the-golden-eggs/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-goose-with-the-golden-eggs/the-goose-with-the-golden-eggs.json"
   },
@@ -3469,6 +3845,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Man and the Wooden God dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-man-and-the-wooden-god/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-man-and-the-wooden-god/the-man-and-the-wooden-god.json"
   },
@@ -3478,6 +3855,7 @@
     "subtitle": "",
     "category": "Stories",
     "tagline": "Typey Type’s The Nurse and the Wolf dictionary lets you write all the words needed for that lesson from Aesop’s Fables.",
+    "link": "/lessons/stories/fables/the-nurse-and-the-wolf/",
     "subcategory": "Aesop’s Fables",
     "path": "/dictionaries/lessons/stories/fables/the-nurse-and-the-wolf/the-nurse-and-the-wolf.json"
   }
