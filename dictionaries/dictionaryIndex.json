@@ -47,7 +47,7 @@
     "subcategory": "",
     "tagline": "Di Does Digital’s Australian English with extra strokes dictionary lets you write Australian/UK/International English variants of words used in stories by appending /A*U to strokes.",
     "link": "https://github.com/dimonster/plover-dictionaries#australian-english-dictionaries",
-    "path": "/dictionaries/didoesdigital/dict_en_AU_with_extra_stroke.json"
+    "path": "/dictionaries/didoesdigital/dict-en-AU-with-extra-stroke.json"
   },
   {
     "author": "Di Does Digital",
@@ -87,7 +87,7 @@
     "subcategory": "Symbols",
     "tagline": "Di Does Digital’s currency symbols dictionary lets you write lots of different currency symbols, such as €.",
     "link": "https://github.com/dimonster/plover-dictionaries#symbols-dictionaries",
-    "path": "/dictionaries/didoesdigital/symbols_currency.json"
+    "path": "/dictionaries/didoesdigital/symbols-currency.json"
   },
   {
     "author": "Di Does Digital",
