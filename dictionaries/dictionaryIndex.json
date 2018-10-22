@@ -11,13 +11,33 @@
   },
   {
     "author": "Plover",
-    "title": "Main Aug 16, 2017",
+    "title": "Main Jun 3, 2018 (latest)",
     "subtitle": "",
     "category": "Plover",
     "subcategory": "",
-    "tagline": "Plover’s main dictionary from 16 August 2017.",
-    "link": "https://github.com/openstenoproject/plover/blob/5ae5bb98a6776daf5e3aee75cc5b24720e872c7c/plover/assets/main.json",
-    "path": "/dictionaries/plover/main-16-aug-2017.json"
+    "tagline": "Plover’s main dictionary from Jun 3, 2018. This shipped with Plover version weekly-v4.0.0.dev8 on 3 Jul 2018.",
+    "link": "https://github.com/openstenoproject/plover/blob/284398377a8fdcb36e1a632c193665339484fc43/plover/assets/main.json",
+    "path": "/dictionaries/plover/main-3-jun-2018.json"
+  },
+  {
+    "author": "Plover",
+    "title": "Main Oct 5, 2016",
+    "subtitle": "",
+    "category": "Plover",
+    "subcategory": "",
+    "tagline": "Plover’s main dictionary from Oct 5, 2016. This shipped with Plover version weekly-v4.0.0.dev1 on 21 Apr 2017.",
+    "link": "https://github.com/openstenoproject/plover/blob/d4d0bd02e380da1ee38381e20145b2e2b52064d3/plover/assets/main.json",
+    "path": "/dictionaries/plover/main-5-oct-2016.json"
+  },
+  {
+    "author": "Plover",
+    "title": "Commands Jun 3, 2018 (latest)",
+    "subtitle": "",
+    "category": "Plover",
+    "subcategory": "",
+    "tagline": "Plover’s main dictionary from Jun 3, 2018. This shipped with Plover version weekly-v4.0.0.dev8 on 3 Jul 2018.",
+    "link": "https://github.com/openstenoproject/plover/blob/284398377a8fdcb36e1a632c193665339484fc43/plover/assets/commands.json",
+    "path": "/dictionaries/plover/commands-3-jun-2018.json"
   },
   {
     "author": "Di Does Digital",
