@@ -18,6 +18,6 @@
 "PH-FPL/EFPL/SEUS/PH*FPL": "*emphasis*",
 "PH-FPLS/STROPBG/PH*FPLS": "**strong**",
 "PH-FPLSZ/STROPBG/EFPL/SEUS/PH*FPLSZ": "***strong emphasis***",
-"*BS/STPH-FPLT/SKPH/STA*R/PW*P/S*P": "action: \*BS",
-"S*P/T*P/A*P/SKPH*/STA*R/R*P": "STA\*R"
+"*BS/STPH-FPLT/SKPH/STA*R/PW*P/S*P": "action: \\*BS",
+"S*P/T*P/A*P/SKPH*/STA*R/R*P": "STA\\*R"
 }
