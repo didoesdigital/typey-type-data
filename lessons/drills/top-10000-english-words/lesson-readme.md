@@ -2504,7 +2504,7 @@
 * logged `HROGD`
 * laptop `HRAP/TOP`
 * vintage `SREUPBT/APBLG`
-* train `TRAEUPL`
+* train `TRAEUPB`
 * exactly `ELG`
 * dry `TKRAOEU`
 * explore `SPHROR`

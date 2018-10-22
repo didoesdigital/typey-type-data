@@ -892,7 +892,7 @@
 * town `TOUPB`
 * track `TRABG`
 * trail `TRAEUL`
-* train `TRAEUPL`
+* train `TRAEUPB`
 * tree `TRAOE`
 * trip `TREUP`
 * trouble `TRUBL`

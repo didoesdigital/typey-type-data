@@ -1053,7 +1053,7 @@
 * servant `SEFB/APBT`
 * pride `PRAOEUD`
 * crowd `KROUD`
-* train `TRAEUPL`
+* train `TRAEUPB`
 * wonderful `WUFL`
 * moral `PHORL`
 * instant `STPHAPBT`

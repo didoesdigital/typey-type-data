@@ -100,7 +100,7 @@
 * wants `WAPBTS`
 * truck `TRUBG`
 * signs `SAOEUPBS`
-* train `TRAEUPL`
+* train `TRAEUPB`
 * con `KOPB`
 * zoom `SAO*PL`
 * speak `SPAOEBG`

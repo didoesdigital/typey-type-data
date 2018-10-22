@@ -6016,7 +6016,7 @@
 * traffic `TRAFBG`
 * tragedy `TRAPBLG`
 * trail `TRAEUL`
-* train `TRAEUPL`
+* train `TRAEUPB`
 * trainer `TRAEURPB`
 * training `TRAEUPG`
 * traipse `TRAEUPS`
