@@ -5250,7 +5250,7 @@
 * ignoble `EUG/TPHOEBL`
 * lamentations `HRAPLT/TAEUGS/-S`
 * Moslem `PHOS/HREPL`
-* adjective `AD/SKWREBG/EUF`
+* adjective `AD/SKWREBG/TEUF`
 * invade `EUPB/SRAEUD`
 * buggy `PWUG/KWREU`
 * prolong `PRO/HROPBG`

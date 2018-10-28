@@ -485,7 +485,7 @@
 * supplements `S*UPLTS`
 * tranny `TRAPB/TPHEU`
 * tobacco `TPWABG`
-* gonna `KPW*G`
+* gonna `TKPW*G`
 * Billy `PWEUL/HREU`
 * Johnny `SKWROPB/KWREU`
 * passion `PAGS`

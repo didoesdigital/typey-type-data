@@ -35,7 +35,7 @@
 * Man's `PHAPB AES`
 * hair `HAEUR`
 * turning `TURPBG`
-* grey, `TKPRAEU KW-BG`
+* grey, `TKPWRA*EU KW-BG`
 * which `WEU`
 * young `KWRUPBG`
 * did `TK`
@@ -65,7 +65,7 @@
 * saw `SAU`
 * husband `HUS`
 * growing `TKPWROEG`
-* grey `TKPRAEU`
+* grey `TKPWRA*EU`
 * with `W`
 * great `TKPWRAET`
 * pleasure, `PHRERB KW-BG`

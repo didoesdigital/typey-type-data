@@ -137,7 +137,7 @@
 * boys `PWOEUS`
 * deep `TKAOEP`
 * boards `PWORDZ`
-* goods `TKPAODZ`
+* goods `TKPWAODZ`
 * places `PHRAEUFS`
 * debt `TKET`
 * le `HRE`
@@ -152,7 +152,7 @@
 * flow `TPHROE`
 * gives `TKPWEUFS`
 * laws `HRAUS`
-* guy `TKPAOEU`
+* guy `TKPWAOEU`
 * gear `TKPWAOER`
 * lots `HROTS`
 * jump `SKWRUFRP`
@@ -294,7 +294,6 @@
 * plot `PHROT`
 * missed `PHEUFD`
 * beds `PWEDZ`
-* grey `TKPRAEU`
 * bills `PWEULS`
 * bold `PWOLD`
 * lived `HREUFD`
@@ -693,7 +692,7 @@
 * vase `SRAS`
 * nets `TPHETS`
 * lore `HROR`
-* grate `KPWRAEUT`
+* grate `TKPWRAEUT`
 * farce `TPARS`
 * Bart `PWART`
 * greed `TKPWRAOED`

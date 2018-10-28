@@ -1824,7 +1824,7 @@
 * wintry `WEUPBT/REU`
 * apprehensive `AP/HEPBS/EUF`
 * lamentations `HRAPLT/TAEUGS/-S`
-* adjective `AD/SKWREBG/EUF`
+* adjective `AD/SKWREBG/TEUF`
 * buggy `PWUG/KWREU`
 * enchanting `EPB/KHAPBT/-G`
 * purified `PAOUR/TPAOEUD`

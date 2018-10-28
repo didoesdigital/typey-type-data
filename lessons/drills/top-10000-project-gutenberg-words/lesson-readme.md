@@ -1753,7 +1753,7 @@
 * smith `SPH*EUT`
 * connected `KEBGTD`
 * degrees `TKEGS`
-* gain `TKPAEUPB`
+* gain `TKPWAEUPB`
 * addition `AGS`
 * committed `KPHEUTD`
 * chamber `KHAEURPL`
@@ -1804,11 +1804,11 @@
 * brief `PWRAOEF`
 * bringing `PWREUG`
 * worship `WOR/SH-P`
-* goods `TKPAODZ`
+* goods `TKPWAODZ`
 * tale `TAEL`
 * skin `SKEUPB`
 * roof `RAOF`
-* grey `TKPRAEU`
+* grey `TKPWRA*EU`
 * highly `HAOEUL`
 * crown `KROUPB`
 * castle `KAFL`
@@ -4562,7 +4562,7 @@
 * respected `R-PTD`
 * sublime `SPWHRAOEUPL`
 * dropping `TROPG`
-* guy `TKPAOEU`
+* guy `TKPWAOEU`
 * behaviour `PWAEUFR/A*U`
 * desolate `TKES/HRAT`
 * penny `PEPB/TPHEU`
@@ -4584,7 +4584,7 @@
 * inheritance `EUPB/HER/TAPBS`
 * latest `HRAEUT/EFT`
 * leap `HRAOEP`
-* games `TKPAEUPLS`
+* games `TKPWAEUPLS`
 * apple `A*EPL`
 * visiting `SREUFT/-G`
 * travellers `TRA*FL/ERS/A*U`
@@ -9237,7 +9237,7 @@
 * aggressive `A/TKPWREF`
 * predicted `PREUBGTD`
 * Quaker `KWAEURBG`
-* grate `KPWRAEUT`
+* grate `TKPWRAEUT`
 * lease `HRAOES`
 * ponderous `POPBD/ROUS`
 * maketh `PHAEUBG/*T`
@@ -9978,7 +9978,7 @@
 * lamentations `HRAPLT/TAEUGS/-S`
 * Moslem `PHOS/HREPL`
 * ware `WAEUR`
-* adjective `AD/SKWREBG/EUF`
+* adjective `AD/SKWREBG/TEUF`
 * glen `TKPWHREPB`
 * invade `EUPB/SRAEUD`
 * livid `HR*EUFD`

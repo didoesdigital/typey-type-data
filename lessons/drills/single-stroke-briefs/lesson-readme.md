@@ -2182,10 +2182,9 @@
 * dysfunction `TK*UPBGS`
 * dyslexia `TKHR*EUBGS`
 * dyslexic `TKHREUBG`
-* games `TKPAEUPLS`
+* games `TKPWAEUPLS`
 * gang `TKPWAPBG`
 * ganglia `TKPWHRA*`
-* ganglion `KPWHROPB`
 * ganglionic `TKPWHRO*PBG`
 * gap `TKPWAP`
 * gape `TKPWAEUP`
@@ -2334,7 +2333,7 @@
 * golfer `TKPWOFR`
 * gone `TKPWOPB`
 * gong `TKPWOPBG`
-* gonna `KPW*G`
+* gonna `TKPW*G`
 * goo `TKPWAO`
 * good `TKPWAOD`
 * good-bye `TKPWAOB`
@@ -2396,7 +2395,7 @@
 * grasp `TKPWRAFP`
 * grass `TKPWRAS`
 * grasshopper `TKPWHR*FRPBLG`
-* grate `KPWRAEUT`
+* grate `TKPWRAEUT`
 * grateful `TKPWRA*EUFL`
 * grating `TKPWRAEUGT`
 * grave `TKPWRAEUF`
@@ -2487,7 +2486,7 @@
 * gunpoint `TKPWUPT`
 * gush `TKPWURB`
 * gust `TKPWUFT`
-* gut `KPWUT`
+* gut `TKPWUT`
 * gutter `TKPWOURT`
 * gym `SKWREUPL`
 * gyp `SKWREUP`

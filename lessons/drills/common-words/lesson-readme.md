@@ -350,7 +350,7 @@
 * go `TKPW`
 * god `TKPWOD`
 * gone `TKPWOPB`
-* gonna `KPW*G`
+* gonna `TKPW*G`
 * good `TKPWAOD`
 * got `TKPWOT`
 * gotten `TKPW*PB`
@@ -358,7 +358,7 @@
 * great `TKPWRAET`
 * green `TKPWRAOEPB`
 * greet `TKPWRAOET`
-* grey `TKPRAEU`
+* grey `TKPWRA*EU`
 * grin `TKPWREUPB`
 * grip `TKPWREUP`
 * groan `TKPWRAOPB`
@@ -368,7 +368,7 @@
 * guard `TKPWARD`
 * guess `TKPWES`
 * gun `TKPW-PB`
-* guy `TKPAOEU`
+* guy `TKPWAOEU`
 * had `H`
 * hadn't `H-PBT`
 * hair `HAEUR`

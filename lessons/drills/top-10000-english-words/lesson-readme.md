@@ -201,7 +201,7 @@
 * program `PRAPL`
 * life `HRAOEUF`
 * know `TPHOE`
-* games `TKPAEUPLS`
+* games `TKPWAEUPLS`
 * way `WAEU`
 * days `TKAEUS`
 * management `PH-GT`
@@ -1573,7 +1573,7 @@
 * released `RE/HRAOEFD`
 * stage `STAEUPBLG`
 * internal `SPWERPBL`
-* goods `TKPAODZ`
+* goods `TKPWAODZ`
 * recommended `REPLD`
 * born `PWORPB`
 * unless `TPH-LS`
@@ -1813,7 +1813,7 @@
 * Russian `R*UGS`
 * largest `HRARPBLG/EFT`
 * African `A*FRPB`
-* guy `TKPAOEU`
+* guy `TKPWAOEU`
 * titles `TAOEULTS`
 * relevant `REFLT`
 * guidelines `TKPWHRAOEUPBS`
@@ -2490,7 +2490,7 @@
 * looked `HRAOBGD`
 * discussions `SKUGS/-S`
 * bear `PWAER`
-* gain `TKPAEUPB`
+* gain `TKPWAEUPB`
 * festival `SREFT/SRAL`
 * laboratory `HROERB`
 * ocean `OEGS`
@@ -3938,7 +3938,7 @@
 * innovation `TPHO*FGS`
 * pcs `P*P/KR*P/-S`
 * employers `PHROEURS`
-* grey `TKPRAEU`
+* grey `TKPWRA*EU`
 * parallel `PHREL`
 * Honda `HOPB/TKA`
 * amended `APLD/-D`
@@ -4926,7 +4926,7 @@
 * tough `TUF`
 * Roberts `ROBTS`
 * incident `STK*EPBT`
-* gonna `KPW*G`
+* gonna `TKPW*G`
 * dynamics `TKAOEUPB/PHEUBGS`
 * lie `HRAOEU`
 * CRM `KR*P/R*P/PH*P`
