@@ -485,7 +485,7 @@
 * eye `AOEU`
 * ety `*E/T*/KWR*`
 * sun `SUPB`
-* information `TP-FGS`
+* information `TPH-FGS`
 * later `HRAEURT`
 * everything `EFG`
 * reached `RAOEFPD`
@@ -559,7 +559,7 @@
 * laid `HRAEUD`
 * pass `PAS`
 * led `HRED`
-* copyright `KOEP/WRAOEUT`
+* copyright `KO*EP/RAOEUT`
 * doing `TK*G`
 * army `AERPL`
 * run `RUPB`
@@ -2055,7 +2055,7 @@
 * limited `HREUPLTD`
 * wings `WEUPBGS`
 * stepped `STEPD`
-* services `S-FPS`
+* services `S-FSZ`
 * library `HRAOEURB`
 * remaining `RE/PHAEPBG`
 * containing `KAUPB/TAEUPBG`
@@ -2152,7 +2152,7 @@
 * disease `TK-Z`
 * formerly `TPORPL/ERL`
 * spend `SPEPBD`
-* production `PRUBGS`
+* production `PROUBGS`
 * source `S-RS`
 * mankind `PHAPB/KAOEUPBD`
 * universal `AOUFRL`
@@ -3973,7 +3973,7 @@
 * fragments `TPRAPLTS`
 * rushing `RURBG`
 * attractive `A/TRAF`
-* product `PRUBGT`
+* product `PROUBGT`
 * economic `KPHEBG`
 * sickness `SEUBG/-PBS`
 * uses `AOUSZ`

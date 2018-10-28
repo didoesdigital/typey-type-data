@@ -485,7 +485,7 @@
 * eye `AOEU`
 * ety `*E/T*/KWR*`
 * sun `SUPB`
-* information `TP-FGS`
+* information `TPH-FGS`
 * later `HRAEURT`
 * everything `EFG`
 * reached `RAOEFPD`
@@ -559,7 +559,7 @@
 * laid `HRAEUD`
 * pass `PAS`
 * led `HRED`
-* copyright `KOEP/WRAOEUT`
+* copyright `KO*EP/RAOEUT`
 * doing `TK*G`
 * army `AERPL`
 * run `RUPB`

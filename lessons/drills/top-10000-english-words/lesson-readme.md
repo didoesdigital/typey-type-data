@@ -48,7 +48,7 @@
 * other `OER`
 * do `TKO`
 * no `TPHO`
-* information `TP-FGS`
+* information `TPH-FGS`
 * time `TAOEUPL`
 * they `THE`
 * site `SAO*EUT`
@@ -90,7 +90,7 @@
 * were `WR`
 * me `PHE`
 * s `S*`
-* services `S-FPS`
+* services `S-FSZ`
 * some `SOPL`
 * these `THEZ`
 * click `KHREUBG`
@@ -134,7 +134,7 @@
 * make `PHAEUBG`
 * them `THEPL`
 * should `SHO`
-* product `PRUBGT`
+* product `PROUBGT`
 * system `S-PL`
 * post `POEFT`
 * her `HER`
@@ -146,7 +146,7 @@
 * such `SUFP`
 * please `PHRES`
 * available `SRAEUBL`
-* copyright `KOEP/WRAOEUT`
+* copyright `KO*EP/RAOEUT`
 * support `SPOR`
 * message `PHEPBLG`
 * after `AF`
@@ -883,7 +883,7 @@
 * words `WORDZ`
 * linux `HREUPB/UBGS`
 * jul `SKWR*UL`
-* production `PRUBGS`
+* production `PROUBGS`
 * commercial `KPHERBL`
 * James `SKWRAEUPLZ`
 * weight `WAET`
@@ -4216,7 +4216,7 @@
 * comic `KO*BG`
 * carefully `KA*EUFL`
 * jet `SKWRET`
-* productivity `PRUBGT/EUFT`
+* productivity `PROUBGT/EUFT`
 * investors `SREFRS`
 * crown `KROUPB`
 * par `PAR`
@@ -7453,7 +7453,7 @@
 * advocate `AFD/KAT`
 * Sims `SEUPL/-S`
 * confusion `KAUFGS`
-* copyrighted `KOEP/WRAOEUT/-D`
+* copyrighted `KO*EP/RAOEUT/-D`
 * tray `TRAEU`
 * inputs `EUPB/PUTS`
 * warranties `WARPB/TEU/-S`

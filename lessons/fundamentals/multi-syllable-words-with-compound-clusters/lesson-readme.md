@@ -22,7 +22,7 @@
 * topics `TOEUPGS`
 * function `TPUBGS`
 * projects `PROPBLGZ`
-* production `PRUBGS`
+* production `PROUBGS`
 * knowledge `TPHOPBLG`
 * construction `KRUBGS`
 * protection `PREBGS`

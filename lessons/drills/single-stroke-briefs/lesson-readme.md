@@ -2845,7 +2845,7 @@
 * influential `WEPBL`
 * influenza `W*EPBZ`
 * inform `TPH-F`
-* information `TP-FGS`
+* information `TPH-FGS`
 * infrastructure `TPRUBGS`
 * infrequently `TPHRELG`
 * infusing `TPHAOUFG`
@@ -3851,8 +3851,8 @@
 * producer `PROUR`
 * producers `PROURS`
 * producing `PROUG`
-* product `PRUBGT`
-* production `PRUBGS`
+* product `PROUBGT`
+* production `PROUBGS`
 * prof `PROEF`
 * profession `PREGS`
 * professional `PREPBL`

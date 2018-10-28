@@ -2,7 +2,6 @@
 
 * online `AUPB/HRAOEUPB`
 * email `AOE/PHAEUL`
-* copyright `KOEP/WRAOEUT`
 * software `SOF/WAEUR`
 * info `EUPB/TPO`
 * review `RE/SRAOU`
@@ -725,7 +724,7 @@
 * Columbus `KHRUPL/PWUS`
 * hurricane `HUR/KAEUPB`
 * postage `POS/TAPBLG`
-* productivity `PRUBGT/EUFT`
+* productivity `PROUBGT/EUFT`
 * underground `UPBD/TKPWROUPBD`
 * vacations `SRAEU/KAEUGS/-S`
 * fetish `TPET/EURB`
@@ -1857,7 +1856,6 @@
 * Windsor `WEUPB/SOR`
 * webshots `WEB/TK-LS/SHOTS`
 * advocate `AFD/KAT`
-* copyrighted `KOEP/WRAOEUT/-D`
 * inputs `EUPB/PUTS`
 * warranties `WARPB/TEU/-S`
 * genome `SKWRE/TPHOEPL`
