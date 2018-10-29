@@ -258,6 +258,15 @@
     "subcategory": "",
     "path": "/drills/top-10000-english-words/lesson.txt",
     "wordCount": 10000,
+    "suggestedNext": "/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt"
+  },
+  {
+    "title": "Project Gutenberg sentences using top 100 words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+    "wordCount": 20566,
     "suggestedNext": "/drills/longest-words/lesson.txt"
   },
   {
