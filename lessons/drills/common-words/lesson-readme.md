@@ -816,7 +816,7 @@
 * struggle `STRULG`
 * stuck `STUBG`
 * student `STAUPB`
-* study `STO*UD`
+* study `STAO*UD`
 * stuff `STUF`
 * stupid `STAOUPD`
 * such `SUFP`

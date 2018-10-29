@@ -877,13 +877,13 @@
 * ways `WAEUS`
 * officers `OEUFRS`
 * offered `OFRD`
-* original `ORPBL`
+* original `ORPBLG`
 * happiness `HAEP/-PBS`
 * flowers `TPHRO*URS`
 * produced `PRO*UD`
 * summer `SAOURPL`
 * provide `PROEFD`
-* study `STO*UD`
+* study `STAO*UD`
 * religion `RE/HR-GS`
 * picture `P*EUFP`
 * walls `WAULS`
@@ -994,7 +994,7 @@
 * religious `RE/HREURBS`
 * surprise `SPRAOEUS`
 * minute `PHEUPB`
-* roman `RO*EPB`
+* Roman `RO*EPB`
 * cases `KAEUSZ`
 * shot `SHOT`
 * lead `HRAED`
@@ -2293,7 +2293,7 @@
 * approaching `A/PROEFPG`
 * alike `A/HRAOEUBG`
 * mounted `PHOUPBTD`
-* Jane `SKWHRAEUB`
+* Jane `SKWRAEUPB`
 * issue `*EURB`
 * key `KAOE`
 * providing `PROEUFGD`

@@ -3253,7 +3253,7 @@
 * orient `OEURPBT`
 * oriental `OEURPBL`
 * origin `O*RPBLG`
-* original `ORPBL`
+* original `ORPBLG`
 * originality `ORPBLGT`
 * osteoarthritis `SRAO*EUTS`
 * osteoporosis `PROEFS`

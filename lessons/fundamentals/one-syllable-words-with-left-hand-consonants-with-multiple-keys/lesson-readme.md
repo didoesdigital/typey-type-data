@@ -276,7 +276,6 @@
 * dear `TKAER`
 * vat `SRAT`
 * beer `PWAOER`
-* Jane `SKWHRAEUB`
 * doubt `TKOUT`
 * doors `TKAORS`
 * Bruce `PWRAOUS`
@@ -289,7 +288,7 @@
 * bright `PWRAOEUT`
 * que `KW*E`
 * grid `TKPWREUD`
-* voip `SROEUP`
+* VoIP `SROEUP`
 * boots `PWAOTS`
 * plot `PHROT`
 * missed `PHEUFD`

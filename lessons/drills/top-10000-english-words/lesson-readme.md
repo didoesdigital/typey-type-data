@@ -507,7 +507,7 @@
 * dec `TK*EBG`
 * server `SER/SRER`
 * PC `P*P/KR*P`
-* study `STO*UD`
+* study `STAO*UD`
 * application `PAEUBGS`
 * cart `KART`
 * staff `STAF`
@@ -690,7 +690,7 @@
 * president `P*T`
 * notice `TPH-TS`
 * god `TKPWOD`
-* original `ORPBL`
+* original `ORPBLG`
 * head `HED`
 * radio `ROEUD`
 * until `TPH-L`
@@ -3635,7 +3635,7 @@
 * solar `SOEL/AR`
 * Jose `HOE/SAEU`
 * catch `KAFP`
-* Jane `SKWHRAEUB`
+* Jane `SKWRAEUPB`
 * Pakistan `PABG/STAPB`
 * ps `P*/SP-S/-S`
 * reliable `RE/HREUBL`
@@ -3776,7 +3776,7 @@
 * plasma `PHROUFPL`
 * allowing `HRO*UG`
 * earnings `ERPBGS`
-* voip `SROEUP`
+* VoIP `SROEUP`
 * mystery `PHOEUFRT`
 * landscape `HRAPB/SKAEUP`
 * dependent `TKEPBD`
