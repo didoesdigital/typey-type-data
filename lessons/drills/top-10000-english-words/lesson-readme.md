@@ -52,7 +52,7 @@
 * time `TAOEUPL`
 * they `THE`
 * site `SAO*EUT`
-* he `E`
+* he `HE`
 * up `UP`
 * may `PHAE`
 * what `WHA`

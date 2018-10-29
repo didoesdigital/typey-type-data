@@ -9,7 +9,7 @@
 * that `THA`
 * was `WAS`
 * his `HEUS`
-* he `E`
+* he `HE`
 * it `T`
 * with `W`
 * is `S`
