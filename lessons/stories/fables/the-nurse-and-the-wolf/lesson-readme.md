@@ -38,7 +38,7 @@
 * this `TH`
 * said. `SAEUD TP-PL`
 * So `SO`
-* he `E`
+* he `HE`
 * crouched `KROUFPD`
 * down `TKOUPB`
 * by `PWEU`
@@ -54,7 +54,7 @@
 * luck `HRUBG`
 * to-day," `TO H-PB TKAEU KW-BG KR-GS`
 * thought `THAUT`
-* he. `E TP-PL`
+* he. `HE TP-PL`
 * "It `KR-GS T`
 * is `S`
 * sure `SHUR`

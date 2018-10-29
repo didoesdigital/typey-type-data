@@ -25,7 +25,7 @@
 * often `OFPB`
 * Wooden `WAOD/EPB`
 * idol `AOEUD/OL`
-* he `E`
+* he `HE`
 * received `SAOEFD`
 * from `TPR`
 * his `HEUS`

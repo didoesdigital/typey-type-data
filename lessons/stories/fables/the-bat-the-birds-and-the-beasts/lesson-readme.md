@@ -32,7 +32,7 @@
 * with `W`
 * us"; `US KR-GS STPH*FPLT`
 * but `PWUT`
-* He `E`
+* He `HE`
 * "I `KR-GS EU`
 * am `APL`
 * a `AEU`
@@ -88,7 +88,7 @@
 * Bat, `PWAT KW-BG`
 * see `SAOE`
 * now, `TPHOU KW-BG`
-* "He `KR-GS E`
+* "He `KR-GS HE`
 * is `S`
 * neither `TPHAOERT`
 * one `WUPB`

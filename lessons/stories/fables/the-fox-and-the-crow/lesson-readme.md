@@ -30,7 +30,7 @@
 * said `SAEUD`
 * Master `PHAFRT`
 * Reynard, `RAEU/TPHARD KW-BG`
-* he `E`
+* he `HE`
 * walked `WAUBGD`
 * up `UP`
 * to `TO`
@@ -94,7 +94,7 @@
 * "That `KR-GS THA`
 * will `HR`
 * do," `TKO KW-BG KR-GS`
-* he. `E TP-PL`
+* he. `HE TP-PL`
 * was `WAS`
 * all `AUL`
 * wanted. `WAPBTD TP-PL`

@@ -14,7 +14,7 @@
 * way. `WAEU TP-PL`
 * At `AT`
 * last `HRAFT`
-* he `E`
+* he `HE`
 * came `KAEUPL`
 * to `TO`
 * part `PART`
@@ -52,7 +52,7 @@
 * hour `HOUR`
 * distress," `STKRES KW-BG KR-GS`
 * quoth `KWO*ET`
-* he. `E TP-PL`
+* he. `HE TP-PL`
 * But `PWUT`
 * appeared `A/PAOERD`
 * him, `HEUPL KW-BG`

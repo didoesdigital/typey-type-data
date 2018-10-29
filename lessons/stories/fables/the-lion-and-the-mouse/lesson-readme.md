@@ -65,7 +65,7 @@
 * being `-BG`
 * help `HEP`
 * that `THA`
-* he `E`
+* he `HE`
 * lifted `HREUFTD`
 * let `HRET`
 * him `HEUPL`

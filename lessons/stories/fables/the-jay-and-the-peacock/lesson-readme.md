@@ -25,7 +25,7 @@
 * they `THE`
 * were `WR`
 * moulting. `PHOULT/-G TP-PL`
-* he `E`
+* he `HE`
 * tied `TAO*EUD`
 * them `THEPL`
 * all `AUL`

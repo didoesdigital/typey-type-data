@@ -142,7 +142,7 @@
 * us." `US TP-PL KR-GS`
 * Now `TPHOU`
 * angry, `APBG/REU KW-BG`
-* he `E`
+* he `HE`
 * among `PHOPBG`
 * big `PWEUG`
 * Stork `STORBG`

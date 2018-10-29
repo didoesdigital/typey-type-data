@@ -33,7 +33,7 @@
 * "Why, `KR-GS KWR KW-BG`
 * what `WHA`
 * is `S`
-* he `E`
+* he `HE`
 * doing?" `TK*G H-F KR-GS`
 * said `SAEUD`
 * others. `OERS TP-PL`

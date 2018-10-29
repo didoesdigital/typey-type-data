@@ -23,7 +23,7 @@
 * but `PWUT`
 * every `EF`
 * week `WAOEBG`
-* he `E`
+* he `HE`
 * go `TKPW`
 * and `SKP`
 * dig `TKEUG`
@@ -78,7 +78,7 @@
 * them. `THEPL TP-PL`
 * "Nay," `KR-GS TPHAEU KW-BG KR-GS`
 * said `SAEUD`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "I `KR-GS EU`
 * only `OEPBL`
 * look `HRAOBG`

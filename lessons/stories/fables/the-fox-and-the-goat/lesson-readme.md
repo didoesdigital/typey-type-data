@@ -12,7 +12,7 @@
 * well `WEL`
 * from `TPR`
 * which `WEU`
-* he `E`
+* he `HE`
 * could `KO`
 * not `TPHOT`
 * get `TKPWET`

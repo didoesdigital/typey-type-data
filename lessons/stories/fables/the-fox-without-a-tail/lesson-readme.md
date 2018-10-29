@@ -23,7 +23,7 @@
 * stump. `STUFRP TP-PL`
 * at `AT`
 * first `TPEUFRT`
-* He `E`
+* He `HE`
 * was `WAS`
 * ashamed `A/SHAEUPLD`
 * show `SHOE`

@@ -24,7 +24,7 @@
 * him `HEUPL`
 * death `TK*T`
 * when `WHEPB`
-* he `E`
+* he `HE`
 * begged `PWEGD`
 * them `THEPL`
 * hear `HAER`
@@ -37,7 +37,7 @@
 * not `TPHOT`
 * fight," `TPAOEUT KW-BG KR-GS`
 * said `SAEUD`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "and `KR-GS SKP`
 * indeed `TPHAOEPBD`
 * carry `KAER`

@@ -14,7 +14,7 @@
 * hens `HEPB/-S`
 * when `WHEPB`
 * suddenly `SULD`
-* he `E`
+* he `HE`
 * espied `E/SPAOEUD`
 * something `S-G`
 * shining `SHAOEUPBG`
@@ -23,7 +23,7 @@
 * "Ho! `KR-GS HO*E SKHRAPL`
 * ho!" `HO*E SKHRAPL KR-GS`
 * quoth `KWO*ET`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "that's `KW-GS/THATS`
 * for `TPOR`
 * me," `PHE KW-BG KR-GS`

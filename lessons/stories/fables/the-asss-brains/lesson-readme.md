@@ -36,7 +36,7 @@
 * alliance. `A/HRAOEUPBS TP-PL`
 * but `PWUT`
 * When `WHEPB`
-* he `E`
+* he `HE`
 * there `THR`
 * simply `SAO*EPL`
 * pounced `POUPBS/-D`

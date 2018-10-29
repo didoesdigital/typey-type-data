@@ -32,7 +32,7 @@
 * mouse `PHOUS`
 * got `TKPWOT`
 * up `UP`
-* he `E`
+* he `HE`
 * proposal `PROEL`
 * make, `PHAEUBG KW-BG`
 * which `WEU`
@@ -44,7 +44,7 @@
 * will `HR`
 * all `AUL`
 * agree," `TKPWRAE KW-BG KR-GS`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "That `KR-GS THA`
 * our `OUR`
 * chief `KHAOEF`

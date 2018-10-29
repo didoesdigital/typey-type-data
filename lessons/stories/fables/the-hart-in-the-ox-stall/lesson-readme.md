@@ -66,7 +66,7 @@
 * unusual `TPHAOURB`
 * taken `TAEPB`
 * place. `PHRAEUS TP-PL`
-* He `E`
+* He `HE`
 * pointed `POEUPBTD`
 * hay `HA*EU`
 * said: `SAEUD STPH-FPLT`

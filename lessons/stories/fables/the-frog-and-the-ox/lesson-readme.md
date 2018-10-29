@@ -51,7 +51,7 @@
 * isn't `S-PBT`
 * So `SO`
 * either; `AOERT STPH*FPLT`
-* he `E`
+* he `HE`
 * may `PHAE`
 * be `-B`
 * bit `PWEUT`
@@ -76,7 +76,7 @@
 * "Was `KR-GS WAS`
 * that?" `THA H-F KR-GS`
 * asked `SK-D`
-* he. `E TP-PL`
+* he. `HE TP-PL`
 * "Oh, `KR-GS O*E KW-BG`
 * much `PHUFP`
 * bigger `PWEURG`

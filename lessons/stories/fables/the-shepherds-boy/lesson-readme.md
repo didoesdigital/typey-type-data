@@ -27,7 +27,7 @@
 * all `AUL`
 * day, `TKAEU KW-BG`
 * So `SO`
-* he `E`
+* he `HE`
 * thought `THAUT`
 * upon `POPB`
 * plan `PHRAPB`

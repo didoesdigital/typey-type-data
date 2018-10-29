@@ -6,7 +6,7 @@
 * gave `TKPWAEUF`
 * out `OUT`
 * that `THA`
-* he `E`
+* he `HE`
 * was `WAS`
 * sick `SEUBG`
 * unto `UPB/TO`

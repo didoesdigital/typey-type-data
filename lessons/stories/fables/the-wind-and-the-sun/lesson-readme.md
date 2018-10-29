@@ -54,7 +54,7 @@
 * traveller. `TRAFL/HRER/A*U TP-PL`
 * But `PWUT`
 * harder `HARD/*ER`
-* he `E`
+* he `HE`
 * blew `PWHRAOU`
 * more `PHOR`
 * closely `KHROELS`

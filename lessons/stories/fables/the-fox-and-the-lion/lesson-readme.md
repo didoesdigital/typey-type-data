@@ -6,7 +6,7 @@
 * Fox `TPOBGS`
 * saw `SAU`
 * Lion `HRO*EUPB`
-* he `E`
+* he `HE`
 * was `WAS`
 * terribly `TERBL/HREU`
 * frightened, `TPRAOEUPBD KW-BG`

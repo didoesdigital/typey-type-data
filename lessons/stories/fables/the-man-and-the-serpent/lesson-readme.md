@@ -17,7 +17,7 @@
 * him `HEUPL`
 * So `SO`
 * that `THA`
-* he `E`
+* he `HE`
 * died. `TKAOEUD TP-PL`
 * the `-T`
 * father `TPAER`

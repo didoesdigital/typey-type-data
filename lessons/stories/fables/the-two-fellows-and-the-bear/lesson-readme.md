@@ -24,7 +24,7 @@
 * in `TPH`
 * front, `TPROPBT KW-BG`
 * and `SKP`
-* he `E`
+* he `HE`
 * seized `SAOEZ/-D`
 * hold `HOLD`
 * branch `PWRAFRPB`
@@ -87,7 +87,7 @@
 * Bruin `PB*P/R*/*U/*EU/TPH*`
 * whispered `WHEUS/PERD`
 * you?" `U H-F KR-GS`
-* "He `KR-GS E`
+* "He `KR-GS HE`
 * told `TOLD`
 * me," `PHE KW-BG KR-GS`
 * "Never `KR-GS TPHEF`

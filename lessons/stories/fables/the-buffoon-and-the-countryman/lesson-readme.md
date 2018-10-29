@@ -19,7 +19,7 @@
 * of `-F`
 * various `SRAEURS`
 * animals. `PHAPBLS TP-PL`
-* he `E`
+* he `HE`
 * finished `TP*EURBD`
 * off `OF`
 * squeaking `SKWAOEBG/-G`

@@ -20,7 +20,7 @@
 * under `*UPBD`
 * him. `HEUPL TP-PL`
 * Immediately `PHAOELD`
-* he `E`
+* he `HE`
 * began `TKPWAPB`
 * to `TO`
 * revile `RE/SRAOEUL`

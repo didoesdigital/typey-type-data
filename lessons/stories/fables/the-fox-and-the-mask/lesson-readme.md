@@ -14,7 +14,7 @@
 * a `AEU`
 * theatre. `THAO*ERT TP-PL`
 * Suddenly `SULD`
-* he `E`
+* he `HE`
 * observed `OEBD`
 * face `TPAEUS`
 * glaring `TKPWHRARG`

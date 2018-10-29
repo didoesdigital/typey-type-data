@@ -19,7 +19,7 @@
 * whole `WHOEL`
 * bag `PWAG`
 * tricks," `TREUBGS KW-BG KR-GS`
-* he `E`
+* he `HE`
 * said, `SAEUD KW-BG`
 * "which `KR-GS WEU`
 * contains `KAUPB/TAEUPBS`

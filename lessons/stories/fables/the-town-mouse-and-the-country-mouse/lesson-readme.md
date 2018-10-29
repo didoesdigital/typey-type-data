@@ -20,7 +20,7 @@
 * in `TPH`
 * the `-T`
 * country. `KREU TP-PL`
-* he `E`
+* he `HE`
 * was `WAS`
 * rough `RUF`
 * and `SKP`

@@ -17,7 +17,7 @@
 * forest. `TPOEFRT TP-PL`
 * At `AT`
 * last `HRAFT`
-* he `E`
+* he `HE`
 * grew `TKPWRAOU`
 * so `SO`
 * tired `TAOEURD`

@@ -20,7 +20,7 @@
 * and `SKP`
 * glittering. `TKPWHREUT/ERG TP-PL`
 * When `WHEPB`
-* he `E`
+* he `HE`
 * took `TAOBG`
 * it `T`
 * up `UP`

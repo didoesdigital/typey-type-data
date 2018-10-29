@@ -97,7 +97,7 @@
 * insert `EUPB/SERT`
 * his `HEUS`
 * snout, `STPHOUT KW-BG`
-* he `E`
+* he `HE`
 * manage `PHAPBG`
 * lick `HREUBG`
 * outside `OUDZ`

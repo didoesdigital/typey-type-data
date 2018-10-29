@@ -35,7 +35,7 @@
 * might `PHAOEUT`
 * have `SR`
 * whatever `WHAF`
-* he `E`
+* he `HE`
 * wished `WEURBD`
 * for `TPOR`
 * himself, `H*EUPLS KW-BG`

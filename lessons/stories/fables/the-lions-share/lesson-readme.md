@@ -90,7 +90,7 @@
 * "Humph," `KR-GS KPA/H*UFRP KW-BG KR-GS`
 * grumbled `TKPWRUPL/-BLD`
 * Fox `TPOBGS`
-* he `E`
+* he `HE`
 * walked `WAUBGD`
 * away `A/WAEU`
 * tail `TAEUL`

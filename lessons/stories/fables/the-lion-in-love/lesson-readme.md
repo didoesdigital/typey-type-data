@@ -85,7 +85,7 @@
 * was `WAS`
 * so `SO`
 * much `PHUFP`
-* he `E`
+* he `HE`
 * had `H`
 * his `HEUS`
 * trimmed `TREUPLD`

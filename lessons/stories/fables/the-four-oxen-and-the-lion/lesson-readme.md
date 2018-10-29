@@ -15,7 +15,7 @@
 * dwell. `TKWEL TP-PL`
 * Many `PHAEPB`
 * time `TAOEUPL`
-* he `E`
+* he `HE`
 * tried `TRAOEUD`
 * attack `A/TABG`
 * them; `THEPL STPH*FPLT`

@@ -18,7 +18,7 @@
 * been `PW-PB`
 * beaten," `PWAOET/EPB KW-BG KR-GS`
 * said `SAEUD`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "when `KR-GS WHEPB`
 * I `EU`
 * put `PUT`
@@ -89,7 +89,7 @@
 * awoke `A/WOEBG`
 * from `TPR`
 * nap, `TPHAP KW-BG`
-* he `E`
+* he `HE`
 * saw `SAU`
 * just `SKWRUFT`
 * near `TPHAOER`

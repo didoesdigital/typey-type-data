@@ -10,7 +10,7 @@
 * of `-F`
 * residence, `R*EPBS KW-BG`
 * so `SO`
-* he `E`
+* he `HE`
 * asked `SK-D`
 * an `APB`
 * Eagle `AOEG/*L`

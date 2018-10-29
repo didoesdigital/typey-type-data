@@ -15,7 +15,7 @@
 * So `SO`
 * pleased `PHRAOEFD`
 * was `WAS`
-* he `E`
+* he `HE`
 * with `W`
 * it `T`
 * that `THA`

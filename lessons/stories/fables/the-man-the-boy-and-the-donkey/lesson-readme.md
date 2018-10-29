@@ -50,7 +50,7 @@
 * that `THA`
 * lazy `HRAEZ`
 * youngster, `KWRUPBG/STER KW-BG`
-* he `E`
+* he `HE`
 * lets `HR*ETS`
 * father `TPAER`
 * walk `WAUBG`

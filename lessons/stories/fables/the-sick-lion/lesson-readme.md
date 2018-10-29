@@ -29,7 +29,7 @@
 * drew `TKRAOU`
 * nearer `TPHAOER/*ER`
 * as `AZ`
-* he `E`
+* he `HE`
 * grew `TKPWRAOU`
 * more `PHOR`
 * helpless. `HEP/-LS TP-PL`

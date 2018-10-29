@@ -17,7 +17,7 @@
 * general. `SKWREPBL TP-PL`
 * contended `KAUPB/TEPBD/-D`
 * that `THA`
-* he `E`
+* he `HE`
 * his `HEUS`
 * fellows `TPO*EULS`
 * stronger `STRORPBG`

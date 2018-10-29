@@ -49,7 +49,7 @@
 * sat `SAT`
 * down `TKOUPB`
 * while `WHAOEUL`
-* he `E`
+* he `HE`
 * orders `ORDZ`
 * servants. `SER/SRAPBTS TP-PL`
 * jumped `SKWR*UPLD`

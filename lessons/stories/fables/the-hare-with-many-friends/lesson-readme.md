@@ -42,7 +42,7 @@
 * on `OPB`
 * his `HEUS`
 * back. `PWABG TP-PL`
-* He `E`
+* He `HE`
 * declined, `TKE/KHRAOEUPBD KW-BG`
 * stating `STAEUGT`
 * that `THA`
@@ -52,7 +52,7 @@
 * do `TKO`
 * for `TPOR`
 * master. `PHAFRT TP-PL`
-* "He `KR-GS E`
+* "He `KR-GS HE`
 * felt `TPELT`
 * sure," `SHUR KW-BG KR-GS`
 * said, `SAEUD KW-BG`

@@ -55,7 +55,7 @@
 * leading `HRAEGD`
 * little `HREUL`
 * apart, `A/PARD KW-BG`
-* he `E`
+* he `HE`
 * soon `SAOPB`
 * made `PHAED`
 * meal `PHAOEL`

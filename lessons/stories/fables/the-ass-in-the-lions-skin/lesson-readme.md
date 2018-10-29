@@ -17,7 +17,7 @@
 * sun `SUPB`
 * to `TO`
 * dry. `TKRAOEU TP-PL`
-* he `E`
+* he `HE`
 * put `PUT`
 * it `T`
 * on `OPB`

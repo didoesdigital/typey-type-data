@@ -29,7 +29,7 @@
 * ear `AOER`
 * of `-F`
 * corn `KORPB`
-* he `E`
+* he `HE`
 * taking `TAEUG`
 * the `-T`
 * nest. `TPHEFT TP-PL`

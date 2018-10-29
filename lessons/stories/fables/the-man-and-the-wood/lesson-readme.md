@@ -25,7 +25,7 @@
 * small `SPHAL`
 * branch `PWRAFRPB`
 * which `WEU`
-* he `E`
+* he `HE`
 * wanted `WAPBTD`
 * for `TPOR`
 * particular `PHRAR`

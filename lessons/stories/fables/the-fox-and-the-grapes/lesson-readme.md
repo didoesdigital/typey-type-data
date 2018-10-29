@@ -12,7 +12,7 @@
 * an `APB`
 * orchard `OR/KHARD`
 * till `T*EUL`
-* he `E`
+* he `HE`
 * came `KAEUPL`
 * to `TO`
 * bunch `PWUFRPB`
@@ -36,7 +36,7 @@
 * my `PHEU`
 * thirst," `THEUFRT KW-BG KR-GS`
 * quoth `KWO*ET`
-* he. `E TP-PL`
+* he. `HE TP-PL`
 * Drawing `TKRAUG`
 * back `PWABG`
 * few `TPAOU`

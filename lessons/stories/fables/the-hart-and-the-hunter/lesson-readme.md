@@ -12,12 +12,12 @@
 * admiring `AD/PHAOEURG`
 * noble `TPHOEBL`
 * figure `TPEUG`
-* he `E`
+* he `HE`
 * made `PHAED`
 * there. `THR TP-PL`
 * "Ah," `KR-GS HA*E KW-BG KR-GS`
 * said `SAEUD`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "where `KR-GS W-R`
 * can `K`
 * you `U`

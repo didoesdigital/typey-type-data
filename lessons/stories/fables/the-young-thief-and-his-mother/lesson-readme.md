@@ -19,7 +19,7 @@
 * executed `SKAOUTD`
 * for `TPOR`
 * it. `T TP-PL`
-* he `E`
+* he `HE`
 * expressed `EBGS/PREFD`
 * his `HEUS`
 * desire `STKAOEUR`
@@ -94,7 +94,7 @@
 * am `APL`
 * here `HAOER`
 * to-day." `TO H-PB TKAEU TP-PL KR-GS`
-* "He `KR-GS E`
+* "He `KR-GS HE`
 * right, `RAOEUT KW-BG`
 * woman," `WOPL KW-BG KR-GS`
 * said `SAEUD`

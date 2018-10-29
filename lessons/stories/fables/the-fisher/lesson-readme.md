@@ -29,7 +29,7 @@
 * out `OUT`
 * water. `WAUR TP-PL`
 * So `SO`
-* he `E`
+* he `HE`
 * cast `KAFT`
 * net `TPHET`
 * into `TPHAO`
@@ -57,7 +57,7 @@
 * I `EU`
 * play," `PHRAEU KW-BG KR-GS`
 * said `SAEUD`
-* he. `E TP-PL`
+* he. `HE TP-PL`
 * "Yes," `KR-GS KWRE KW-BG KR-GS`
 * an `APB`
 * old `OLD`

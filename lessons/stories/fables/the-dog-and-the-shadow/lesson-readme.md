@@ -23,7 +23,7 @@
 * Now `TPHOU`
 * on `OPB`
 * way `WAEU`
-* he `E`
+* he `HE`
 * cross `KROS`
 * plank `PHRA*PBG`
 * lying `HRAOEUG`

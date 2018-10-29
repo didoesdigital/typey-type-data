@@ -15,7 +15,7 @@
 * the `-T`
 * forest. `TPOEFRT TP-PL`
 * as `AZ`
-* he `E`
+* he `HE`
 * was `WAS`
 * wandering `WAPBGD`
 * about `PW`

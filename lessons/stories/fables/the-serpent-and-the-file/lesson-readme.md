@@ -14,7 +14,7 @@
 * armourer's `AR/PHOUR/*ER AES`
 * shop. `SHOP TP-PL`
 * As `AZ`
-* he `E`
+* he `HE`
 * glided `TKPWHRAOEUD/-D`
 * over `OEFR`
 * floor `TPHRAOR`

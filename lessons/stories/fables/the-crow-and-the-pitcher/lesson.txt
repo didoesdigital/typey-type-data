@@ -29,7 +29,7 @@ The Crow and the Pitcher
 'of': -F
 'the': -T
 'Pitcher': PEUFP/*ER
-'he': E
+'he': HE
 'found': TPOUPBD
 'that': THA
 'only': OEPBL
@@ -42,7 +42,7 @@ The Crow and the Pitcher
 'it,': T KW-BG
 'and': SKP
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'reach': RAOEFP
@@ -53,10 +53,10 @@ The Crow and the Pitcher
 'get': TKPWET
 'at': AT
 'it.': T TP-PL
-'He': E
+'He': HE
 'tried,': TRAOEUD KW-BG
 'and': SKP
-'he': E
+'he': HE
 'tried,': TRAOEUD KW-BG
 'but': PWUT
 'at': AT
@@ -74,7 +74,7 @@ The Crow and the Pitcher
 'to': TO
 'him,': HEUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'took': TAOBG
 'a': AEU
 'pebble': PEBL
@@ -85,7 +85,7 @@ The Crow and the Pitcher
 'the': -T
 'Pitcher.': PEUFP/*ER TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'another': TPHOER
 'pebble': PEBL
@@ -96,7 +96,7 @@ The Crow and the Pitcher
 'the': -T
 'Pitcher.': PEUFP/*ER TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'another': TPHOER
 'pebble': PEBL
@@ -107,7 +107,7 @@ The Crow and the Pitcher
 'the': -T
 'Pitcher.': PEUFP/*ER TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'another': TPHOER
 'pebble': PEBL
@@ -118,7 +118,7 @@ The Crow and the Pitcher
 'the': -T
 'Pitcher.': PEUFP/*ER TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'another': TPHOER
 'pebble': PEBL
@@ -129,7 +129,7 @@ The Crow and the Pitcher
 'the': -T
 'Pitcher.': PEUFP/*ER TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'another': TPHOER
 'pebble': PEBL
@@ -143,7 +143,7 @@ The Crow and the Pitcher
 'last,': HRAFT KW-BG
 'at': AT
 'last,': HRAFT KW-BG
-'he': E
+'he': HE
 'saw': SAU
 'the': -T
 'water': WAUR
@@ -159,7 +159,7 @@ The Crow and the Pitcher
 'few': TPAOU
 'more': PHOR
 'pebbles': PEBLS
-'he': E
+'he': HE
 'was': WAS
 'able': ABL
 'to': TO

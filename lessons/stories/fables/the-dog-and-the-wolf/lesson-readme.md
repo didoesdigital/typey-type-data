@@ -9,7 +9,7 @@
 * with `W`
 * hunger `HURPBG`
 * when `WHEPB`
-* he `E`
+* he `HE`
 * happened `HAPD`
 * to `TO`
 * meet `PHAOET`

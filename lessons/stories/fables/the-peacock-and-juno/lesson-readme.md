@@ -24,7 +24,7 @@
 * refused `RAO*UFD`
 * request. `KW TP-PL`
 * When `WHEPB`
-* he `E`
+* he `HE`
 * persisted, `PER/SEUFTD KW-BG`
 * and `SKP`
 * pointed `POEUPBTD`

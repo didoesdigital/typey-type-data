@@ -16,7 +16,7 @@
 * up, `UP KW-BG`
 * what `WHA`
 * should `SHO`
-* he `E`
+* he `HE`
 * see `SAOE`
 * but `PWUT`
 * Lamb `HRAPL`
@@ -31,7 +31,7 @@
 * my `PHEU`
 * supper," `SAOURP KW-BG KR-GS`
 * thought `THAUT`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "if `KR-GS TP`
 * only `OEPBL`
 * I `EU`

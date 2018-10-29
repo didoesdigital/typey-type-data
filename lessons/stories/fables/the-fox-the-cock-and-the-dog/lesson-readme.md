@@ -23,7 +23,7 @@
 * news, `TPHUS KW-BG`
 * good `TKPWAOD`
 * news!" `TPHUS SKHRAPL KR-GS`
-* he `E`
+* he `HE`
 * cried. `KRAOEUD TP-PL`
 * "Why, `KR-GS KWR KW-BG`
 * what `WHA`

@@ -19,7 +19,7 @@
 * some `SOPL`
 * parting `PART/-G`
 * advice. `SREUS TP-PL`
-* he `E`
+* he `HE`
 * ordered `ORD/-D`
 * servants `SER/SRAPBTS`
 * bring `PWREU`

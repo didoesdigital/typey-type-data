@@ -8,7 +8,7 @@
 * on `OPB`
 * an `APB`
 * animal `PHAPBL`
-* he `E`
+* he `HE`
 * killed, `KEULD KW-BG`
 * when `WHEPB`
 * suddenly `SULD`
@@ -53,7 +53,7 @@
 * give `TKPWEUF`
 * anything," `TPHEUG KW-BG KR-GS`
 * said `SAEUD`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "if `KR-GS TP`
 * You `U`
 * take `TAEUBG`

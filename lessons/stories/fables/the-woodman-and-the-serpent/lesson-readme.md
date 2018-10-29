@@ -12,7 +12,7 @@
 * his `HEUS`
 * work `WORBG`
 * When `WHEPB`
-* he `E`
+* he `HE`
 * saw `SAU`
 * something `S-G`
 * black `PWHRABG`
@@ -76,7 +76,7 @@
 * two. `TWO TP-PL`
 * "Ah," `KR-GS HA*E KW-BG KR-GS`
 * said `SAEUD`
-* he, `E KW-BG`
+* he, `HE KW-BG`
 * "No `KR-GS TPHO`
 * gratitude `TKPWRAT/TAOUD`
 * wicked." `WEUBGD TP-PL KR-GS`

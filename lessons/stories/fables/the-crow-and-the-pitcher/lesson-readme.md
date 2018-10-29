@@ -25,7 +25,7 @@
 * beak `PWAOEBG`
 * into `TPHAO`
 * mouth `PHO*UT`
-* he `E`
+* he `HE`
 * found `TPOUPBD`
 * that `THA`
 * only `OEPBL`
