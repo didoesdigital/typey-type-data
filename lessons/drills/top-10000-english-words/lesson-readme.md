@@ -1493,7 +1493,7 @@
 * seems `SAOEPLS`
 * publication `PHRAEUBGS`
 * pass `PAS`
-* relations `RAOELGS/-S`
+* relations `RELGS/-S`
 * trust `TRUFT`
 * van `SRAPB`
 * contains `KAUPB/TAEUPBS`
@@ -2316,7 +2316,7 @@
 * profit `PROFT`
 * leaders `HRAOERDZ`
 * posters `POEFRTS`
-* institutions `EUPBS/TAOUGS/-S`
+* institutions `STPHAOUGS/-S`
 * assistant `SEUFPBT`
 * variable `SRAEURB`
 * ave `A*/SR*/*E`
@@ -9970,7 +9970,7 @@
 * constraint `KAUPB/STRAEUPBT`
 * groundwater `TKPWROUPBD/WAUR`
 * touched `TUFPD`
-* strengthening `SPEPBG/*EPB/-G`
+* strengthening `STREPBG/-G`
 * cologne `KOL/OEPB`
 * gzip `SKWRAOE/S*EUP`
 * wishing `WEURBG`

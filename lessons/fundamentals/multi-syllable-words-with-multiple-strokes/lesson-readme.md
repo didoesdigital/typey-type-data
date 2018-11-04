@@ -114,7 +114,7 @@
 * alternative `AULT/TEUF`
 * resolution `RES/HRAOUGS`
 * Java `SKWRA/SRA`
-* relations `RAOELGS/-S`
+* relations `RELGS/-S`
 * contains `KAUPB/TAEUPBS`
 * multi `PHUL/TEU`
 * academic `ABG/TKEBG`
@@ -248,7 +248,7 @@
 * approval `A/PROFL`
 * Jesus `SKWRAOES/US`
 * Jackson `SKWRABG/SOPB`
-* institutions `EUPBS/TAOUGS/-S`
+* institutions `STPHAOUGS/-S`
 * parking `PARBG/-G`
 * headlines `HED/HRAOEUPB/-S`
 * wholesale `WHOEL/SAEL`
@@ -2931,6 +2931,7 @@
 * Wagner `WAG/TPHER`
 * constraint `KAUPB/STRAEUPBT`
 * groundwater `TKPWROUPBD/WAUR`
+* strengthening `STREPBG/-G`
 * cologne `KOL/OEPB`
 * ranger `RAEUPBG/ER`
 * smallest `SPHAUL/EFT`
