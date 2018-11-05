@@ -7,7 +7,6 @@
 * ebay `AOE/PWAEU`
 * details `TKE/TAEULS`
 * address `A/TKRES`
-* reserved `REFRB/-D`
 * resources `RE/SORSZ`
 * reply `RE/PHREU`
 * release `RE/HRAOEZ`

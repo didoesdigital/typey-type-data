@@ -11,7 +11,6 @@
 * details `TKE/TAEULS`
 * hotels `HOE/TELS`
 * address `A/TKRES`
-* reserved `REFRB/-D`
 * resources `RE/SORSZ`
 * reply `RE/PHREU`
 * Canada `KAPB/TKA`
