@@ -3914,7 +3914,7 @@
 * expectation `KP-PT/AEUGS`
 * incomplete `EUPB/KPHRAOET`
 * program `PRAPL`
-* reserved `REFRB/-D`
+* reserved `REFRBD`
 * secretly `SKRELT`
 * we've `WAOEF`
 * invention `EUPB/SREPBGS`

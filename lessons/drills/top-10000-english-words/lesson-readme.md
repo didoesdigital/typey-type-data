@@ -257,7 +257,7 @@
 * phone `TPOEPB`
 * DVD `TK*FD`
 * shipping `SHEUPG`
-* reserved `REFRB/-D`
+* reserved `REFRBD`
 * subject `SUBT`
 * between `TWAOEPB`
 * forum `TPAURPL`
@@ -290,7 +290,7 @@
 * project `PROPBL`
 * same `SAEUPL`
 * pages `PAEUPBLGS`
-* UK `*UP/K*P`
+* UK `AOUBG`
 * version `SRERGS`
 * section `SEBGS`
 * own `OEPB`
