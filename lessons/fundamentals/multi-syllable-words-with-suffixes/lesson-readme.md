@@ -961,7 +961,7 @@
 * configurations `TKPWRAEUGS/-S`
 * exclaimed `SKHRAEUPL/-D`
 * scarcely `SKAEURS/HREU`
-* servant `SEFB/APBT`
+* servant `SEFRB/APBT`
 * possessed `POS/ES/-D`
 * succeeded `SUBG/SAOED/-D`
 * pity `PEUT/TEU`

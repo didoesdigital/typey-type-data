@@ -508,7 +508,7 @@
 * taking `TAEUG`
 * blood `PWHRAOD`
 * rose `ROEZ`
-* south `SO*UT`
+* south `SOUT`
 * beyond `KWROPBD`
 * cold `KOELD`
 * neither `TPHAOERT`
@@ -568,7 +568,7 @@
 * opened `OEPD`
 * pleasure `PHRERB`
 * history `HEUFRT`
-* West `WEFT`
+* west `WEFT`
 * pay `PAEU`
 * red `RED`
 * an' `APB/AE`
@@ -1042,7 +1042,7 @@
 * shown `SHOEPB`
 * directly `TKREL`
 * James `SKWRAEUPLZ`
-* hart `HA*RT`
+* Hart `HA*RT`
 * serious `SAOERS`
 * hat `HAT`
 * dog `TKOG`
@@ -1050,7 +1050,7 @@
 * sufficient `SUF`
 * main `PHAEUPB`
 * mentioned `PHEPBGS/-D`
-* servant `SEFB/APBT`
+* servant `SEFRB/APBT`
 * pride `PRAOEUD`
 * crowd `KROUD`
 * train `TRAEUPB`
@@ -1059,7 +1059,7 @@
 * instant `STPHAPBT`
 * associated `SOERBD`
 * path `PA*T`
-* Greek `KWRAOEBG`
+* Greek `TKPWRAOEBG`
 * meaning `PHAOEPBG`
 * fit `TPEUT`
 * ordered `ORD/-D`

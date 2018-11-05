@@ -2946,7 +2946,8 @@
 * blockquote `PWHROBG/TK-LS/KWOET`
 * exclaimed `SKHRAEUPL/-D`
 * scarcely `SKAEURS/HREU`
-* servant `SEFB/APBT`
+* father's `TPA*ER/AES`
+* servant `SEFRB/APBT`
 * obliged `OE/PWHRAOEUPBLGD`
 * possessed `POS/ES/-D`
 * servants `SER/SRAPBTS`

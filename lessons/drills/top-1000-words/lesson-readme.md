@@ -508,7 +508,7 @@
 * taking `TAEUG`
 * blood `PWHRAOD`
 * rose `ROEZ`
-* South `SO*UT`
+* south `SOUT`
 * beyond `KWROPBD`
 * cold `KOELD`
 * neither `TPHAOERT`
@@ -568,7 +568,7 @@
 * opened `OEPD`
 * pleasure `PHRERB`
 * history `HEUFRT`
-* West `WEFT`
+* west `WEFT`
 * pay `PAEU`
 * red `RED`
 * an' `APB/AE`
@@ -787,7 +787,7 @@
 * duke `TKAOUBG`
 * covered `KOFRD`
 * bound `PWOUPBD`
-* East `AOEFT`
+* east `AOEFT`
 * wood `WAOD`
 * stone `STOEPB`
 * quickly `KWEULG`

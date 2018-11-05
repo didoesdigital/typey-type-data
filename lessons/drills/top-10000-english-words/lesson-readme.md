@@ -285,7 +285,7 @@
 * open `OEP`
 * today `TOED`
 * technology `TOPBL`
-* South `SO*UT`
+* south `SOUT`
 * case `KAEUS`
 * project `PROPBL`
 * same `SAEUPL`
@@ -443,7 +443,7 @@
 * men `PHEPB`
 * categories `KOERGS`
 * advanced `SRAPBS/-D`
-* West `WEFT`
+* west `WEFT`
 * sales `SAELS`
 * look `HRAOBG`
 * English `TKPWHREURB`
@@ -575,7 +575,7 @@
 * important `PORPB`
 * field `TPAOELD`
 * few `TPAOU`
-* East `AOEFT`
+* east `AOEFT`
 * paper `PAEUP`
 * single `SEUPBLG`
 * ii `2-R`
@@ -3073,7 +3073,7 @@
 * pin `PEUPB`
 * playstation `PHRAEU/STA*EUGS`
 * alcohol `KHOL`
-* Greek `KWRAOEBG`
+* Greek `TKPWRAOEBG`
 * instruction `STRUBGS`
 * managing `PHAPBG/-G`
 * annotation `APB/TAEUGS`
@@ -7697,7 +7697,7 @@
 * watts `WATS`
 * Duncan `TKUPB/KAPB`
 * reprints `RAOE/PREUPBTS`
-* hart `HA*RT`
+* Hart `HA*RT`
 * Bernard `PWERPB/ARD`
 * resolutions `RES/HRAOUGS/-S`
 * ment `PH*EPBT`

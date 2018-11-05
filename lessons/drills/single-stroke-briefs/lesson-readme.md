@@ -5115,7 +5115,7 @@
 * source `S-RS`
 * sourness `SO*URPBS`
 * souse `SOUS`
-* south `SO*UT`
+* south `SOUT`
 * southbound `S*B`
 * southeast `SO*ES`
 * southeastern `SOERPB`
