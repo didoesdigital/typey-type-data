@@ -46,7 +46,7 @@
     "category": "Di Does Digital",
     "subcategory": "",
     "tagline": "Di Does Digital’s Australian English with extra strokes dictionary lets you write Australian/UK/International English variants of words used in stories by appending /A*U to strokes.",
-    "link": "https://github.com/dimonster/plover-dictionaries#australian-english-dictionaries",
+    "link": "https://github.com/didoesdigital/steno-dictionaries#australian-english-dictionaries",
     "path": "/dictionaries/didoesdigital/dict-en-AU-with-extra-stroke.json"
   },
   {
@@ -55,9 +55,19 @@
     "subtitle": "",
     "category": "Di Does Digital",
     "subcategory": "Commands",
-    "tagline": "Di Does Digital’s Mac navigation dictionary lets you switch tabs, windows, and apps, as well as navigate and edit text efficiently. You can move your cursor by letter, word, or line, select while doing so, and also backspace or forward delete by character, word, or line.",
-    "link": "https://github.com/dimonster/plover-dictionaries#navigation-dictionary",
+    "tagline": "Di Does Digital’s Mac navigation dictionary lets you navigate and edit text efficiently. You can move your cursor by letter, word, or line, select while doing so, and also backspace or forward delete by character, word, or line.",
+    "link": "https://github.com/didoesdigital/steno-dictionaries#navigation-and-tabbing-dictionaries",
     "path": "/dictionaries/didoesdigital/navigation.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Tabbing",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Commands",
+    "tagline": "Di Does Digital’s Mac navigation dictionary lets you switch tabs, windows, and apps.",
+    "link": "https://github.com/didoesdigital/steno-dictionaries#navigation-and-tabbing-dictionaries",
+    "path": "/dictionaries/didoesdigital/tabbing.json"
   },
   {
     "author": "Di Does Digital",
@@ -66,7 +76,7 @@
     "category": "Di Does Digital",
     "subcategory": "Punctuation",
     "tagline": "Di Does Digital’s punctuation dictionary lets you write general punctuation for regular prose.",
-    "link": "https://github.com/dimonster/plover-dictionaries#punctuation-dictionary",
+    "link": "https://github.com/didoesdigital/steno-dictionaries#punctuation-dictionary",
     "path": "/dictionaries/didoesdigital/punctuation.json"
   },
   {
@@ -76,7 +86,7 @@
     "category": "Di Does Digital",
     "subcategory": "Symbols",
     "tagline": "Di Does Digital’s symbols dictionary lets you write general symbols, such as copyright and trademark characters.",
-    "link": "https://github.com/dimonster/plover-dictionaries#symbols-dictionaries",
+    "link": "https://github.com/didoesdigital/steno-dictionaries#symbols-dictionaries",
     "path": "/dictionaries/didoesdigital/symbols.json"
   },
   {
@@ -86,7 +96,7 @@
     "category": "Di Does Digital",
     "subcategory": "Symbols",
     "tagline": "Di Does Digital’s currency symbols dictionary lets you write lots of different currency symbols, such as €.",
-    "link": "https://github.com/dimonster/plover-dictionaries#symbols-dictionaries",
+    "link": "https://github.com/didoesdigital/steno-dictionaries#symbols-dictionaries",
     "path": "/dictionaries/didoesdigital/symbols-currency.json"
   },
   {
@@ -96,8 +106,28 @@
     "category": "Di Does Digital",
     "subcategory": "Code",
     "tagline": "Di Does Digital’s Vim dictionary lets you use steno and Vim together.",
-    "link": "https://github.com/dimonster/plover-dictionaries#vim-dictionary",
+    "link": "https://github.com/didoesdigital/steno-dictionaries#vim-dictionary",
     "path": "/dictionaries/didoesdigital/vim.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Modifiers",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Commands",
+    "tagline": "Di Does Digital’s modifiers dictionary lets you use key modifiers like Shift (⇧) or Control (⌃).",
+    "link": "https://github.com/didoesdigital/steno-dictionaries",
+    "path": "/dictionaries/didoesdigital/modifiers.json"
+  },
+  {
+    "author": "Di Does Digital",
+    "title": "Single-stroke modifiers",
+    "subtitle": "",
+    "category": "Di Does Digital",
+    "subcategory": "Commands",
+    "tagline": "Di Does Digital’s modifiers dictionary lets you use key modifiers like Shift (⇧) or Control (⌃) with single-stroke shortcuts.",
+    "link": "https://github.com/didoesdigital/steno-dictionaries",
+    "path": "/dictionaries/didoesdigital/modifiers-single-stroke.json"
   },
   {
     "author": "Typey Type",
