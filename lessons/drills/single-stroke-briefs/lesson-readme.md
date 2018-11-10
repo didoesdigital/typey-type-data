@@ -3438,7 +3438,7 @@
 * per `PER`
 * perceive `SPAOEF`
 * perceived `SPAOEFD`
-* percent `PWERS`
+* percent `PERS`
 * perception `PERPGS`
 * perch `PEFRPB`
 * perfection `P-FRGS`

@@ -4,7 +4,7 @@
 * " `KR-GS`
 * # `HA*ERB`
 * $ `TK*PL`
-* % `PERS`
+* % `P*ERS`
 * & `SP-PBD`
 * ' `AE`
 * ( `PREPB`

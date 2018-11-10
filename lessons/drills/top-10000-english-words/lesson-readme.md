@@ -850,7 +850,7 @@
 * edit `ETD`
 * together `TOGT`
 * videos `SRO*EUDZ`
-* percent `PWERS`
+* percent `PERS`
 * fast `TPAFT`
 * function `TPUBGS`
 * fact `TPABGT`
