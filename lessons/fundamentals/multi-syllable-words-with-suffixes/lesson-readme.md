@@ -79,7 +79,7 @@
 * hentai `HEPB/TA/SKWREU`
 * harry `HAR/REU`
 * identified `AOEUD/TPAOEUD`
-* decided `TKAOE/SAOEUD/-D`
+* decided `STKAOEUD/-D`
 * tourism `TOR/EUFPL`
 * changing `KHAPBG/-G`
 * discussions `SKUGS/-S`
@@ -653,6 +653,7 @@
 * subsequently `SWEPBT/HREU`
 * guitars `TKPWEU/TAR/-S`
 * essence `ES/EPBS`
+* mighty `PHAOEUT/KWREU`
 * complications `KPHREU/KAEUGS/-S`
 * scripting `SKREUPT/-G`
 * synthetic `SEPB/THET/EUBG`
@@ -1206,6 +1207,7 @@
 * coldly `KOELD/HREU`
 * blazing `PWHRAEUZ/-G`
 * youngest `KWRUPBG/EFT`
+* decidedly `STKAOEUD/-D/HREU`
 * successive `SUBG/SES/EUF`
 * subjected `SUBT/-D`
 * trousers `TROUZ/ERS`

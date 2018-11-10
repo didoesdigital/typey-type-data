@@ -2869,7 +2869,7 @@
 * injuries `SKWR*RS`
 * injuring `SKWR-RG`
 * injury `SKWRAOUR`
-* ink `*UPBG`
+* ink `*EUPBG`
 * inn `TPH*PB`
 * inner `EURPB`
 * innervate `TPHEFRBT`

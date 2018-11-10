@@ -51,7 +51,7 @@
 * give `TKPWEUF`
 * what `WHA`
 * wanted. `WAPBTD TP-PL`
-* "Mighty `KR-GS PHAOEU/TEU`
+* "Mighty `KR-GS PHAOEUT/KWREU`
 * Jove," `SKWROEF KW-BG KR-GS`
 * cried, `KRAOEUD KW-BG`
 * "send `KR-GS SEPBD`

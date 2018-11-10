@@ -33,7 +33,7 @@
 * had `H`
 * legs `HREGS`
 * more `PHOR`
-* worthy `WOR/TH*EU`
+* worthy `WO*RT/KWREU`
 * to `TO`
 * bear `PWAER`
 * crown; `KROUPB STPH*FPLT`

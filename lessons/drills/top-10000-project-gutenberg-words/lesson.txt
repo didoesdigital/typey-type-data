@@ -1084,17 +1084,17 @@ Top 10000 Project Gutenberg words
 'grace': TKPWRAEUS
 'official': TPEURBL
 'dream': TKRAOEPL
-'worthy': WOR/TH*EU
+'worthy': WO*RT/KWREU
 'rock': ROBG
 'jack': SKWRABG
 'provided': PROE/SRAOUD/-D
 'special': SPERBL
 'shook': SHAOBG
 'request': KW
-'mighty': PHAOEU/TEU
+'mighty': PHAOEUT/KWREU
 'glance': TKPWHRAPBS
 'heads': HEDZ
-'movement': PHOFPL
+'movement': PHOFPLT
 'fee': TPAOE
 'share': SHAEUR
 'expect': KP-PT
@@ -1106,10 +1106,10 @@ Top 10000 Project Gutenberg words
 'twelve': TWEFL
 'space': SPAEUS
 'engaged': EPB/TKPWAEUBLG/-D
-'peter': PAOERT
+'Peter': PAOERT
 'wine': WAOEUPB
 'ordinary': OERD
-'mountains': PHOUPBT/APBS
+'mountains': PHOUPB/TAEUPBS
 'taste': TAEUFT
 'iron': AOEURPB
 'isn't': S-PBT
@@ -1121,7 +1121,7 @@ Top 10000 Project Gutenberg words
 'forced': TPOFRD
 'advantage': SRAPBG
 'ideas': KWR-DZ
-'decided': TKAOE/SAOEUD/-D
+'decided': STKAOEUD/-D
 'using': AOUFG
 'officer': OEUF
 'rate': RAEUT
@@ -1425,7 +1425,7 @@ Top 10000 Project Gutenberg words
 'noticed': TPH-TSD
 'aware': A/WAEUR
 'Thomas': THOPLS
-'uncle': UPB/K-L
+'uncle': *UPBG
 'list': HR*EUS
 'dangerous': TKAEUPBLGS
 'August': AUG
@@ -1868,7 +1868,7 @@ Top 10000 Project Gutenberg words
 'older': OERLD
 'requirements': RAOEURPLTS
 'custom': KUFPL
-'apart': A/PARD
+'apart': A/PART
 'bow': PWOE
 'awful': AUFL
 'everybody': EFB
@@ -2969,7 +2969,7 @@ Top 10000 Project Gutenberg words
 'gloomy': TKPWHRAO/PH*EU
 'conception': KEPGS
 'clerk': KHRERBG
-'decide': TK-DZ
+'decide': STKAOEUD
 'drunk': TKR*UPBG
 'victim': SREUPL
 'reflected': TPHREBGTD
@@ -4411,7 +4411,7 @@ Top 10000 Project Gutenberg words
 'porch': POFRPB
 'lieutenant': HRAO*UT
 'surprising': SPRAOEUG
-'fountain': TPOUPB/TAPB
+'fountain': TPOUPB/TAEUPB
 'sustained': STAEPBD
 'appropriate': PROET
 'Ford': TPORD
@@ -4636,7 +4636,7 @@ Top 10000 Project Gutenberg words
 'dreary': TKRAOE/REU
 'serving': SEFRBG
 'complexion': KPHR*EBGS
-'engage': EPB/TKPWAEUPBL
+'engage': EPB/TKPWAEUPBLG
 'tents': TEPBT/-S
 'herd': HE*RD
 'attain': A/TAEUPB
@@ -5255,7 +5255,7 @@ Top 10000 Project Gutenberg words
 'Florida': TP*L
 'lecture': HREBG
 'parlor': PAR/HROR
-'decidedly': TKE/SAOEUD/TKHREU
+'decidedly': STKAOEUD/-D/HREU
 'whereby': WR-B
 'Gordon': TKPWORD/O*PB
 'reverend': REFRPBD
@@ -5695,7 +5695,7 @@ Top 10000 Project Gutenberg words
 'astonishing': A/STOPB/EURBG
 'competition': KPEGS
 'suggestions': SUGS/-S
-'ink': *UPBG
+'ink': *EUPBG
 'oft': O*FT
 'crystal': KREUFL
 'shower': SHOUR

@@ -28,7 +28,7 @@
 * after `AF`
 * long `HROPBG`
 * discussion, `SKUGS KW-BG`
-* decided `TKAOE/SAOEUD/-D`
+* decided `STKAOEUD/-D`
 * strike `STRAOEUBG`
 * till `T*EUL`
 * consented `KEFPBT/-D`

@@ -54,7 +54,7 @@
 * so, `SO KW-BG`
 * leading `HRAEGD`
 * little `HREUL`
-* apart, `A/PARD KW-BG`
+* apart, `A/PART KW-BG`
 * he `HE`
 * soon `SAOPB`
 * made `PHAED`

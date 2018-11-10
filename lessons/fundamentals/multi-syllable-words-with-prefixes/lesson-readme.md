@@ -149,7 +149,7 @@
 * applies `A/PHRAOEUS`
 * apache `A/PAFP/KHAOE`
 * incorporated `EUPB/KORPD`
-* apart `A/PARD`
+* apart `A/PART`
 * elected `AOE/HREBGD`
 * addressed `A/TKREFD`
 * alive `A/HRAOEUF`
@@ -257,7 +257,7 @@
 * assault `A/SAULT`
 * atomic `A/TOPL/EUBG`
 * protecting `PRO/TEBGT/-G`
-* engage `EPB/TKPWAEUPBL`
+* engage `EPB/TKPWAEUPBLG`
 * imports `EUPL/PORTS`
 * adjacent `A/SKWRAEUPBT`
 * offshore `AUF/SHOR`
@@ -345,7 +345,7 @@
 * enquiry `EPB/KWAOEUR/KWREU`
 * enrolled `EPB/ROELD`
 * incentive `EUPB/SEPBT/EUF`
-* uncle `UPB/K-L`
+* uncle `*UPBG`
 * defining `TKE/TPAOEUPBG`
 * accompanied `A/K-PD`
 * assure `A/SHUR`
@@ -690,7 +690,6 @@
 * assert `A/SERT`
 * dismay `TKEUS/PHAEU`
 * imperfect `EUPL/PER`
-* decidedly `TKE/SAOEUD/TKHREU`
 * superstition `SAOUP/STEUGS`
 * prolonged `PRO/HROPBGD`
 * emerged `AOE/PHERPBLGD`

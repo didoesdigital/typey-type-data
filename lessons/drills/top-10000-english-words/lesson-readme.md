@@ -1369,7 +1369,7 @@
 * award `A/WARD`
 * distance `STKAPBS`
 * tree `TRAOE`
-* peter `PAOERT`
+* Peter `PAOERT`
 * assessment `SEFPLT`
 * ensure `EPB/SHUR`
 * thus `THUS`
@@ -2292,7 +2292,7 @@
 * native `TPHAEUFT`
 * fill `TPEUL`
 * Williams `WOEUPLS`
-* movement `PHOFPL`
+* movement `PHOFPLT`
 * printing `PREUPBT/-G`
 * baseball `PWAEUBL`
 * owned `OEPBD`
@@ -2413,7 +2413,7 @@
 * appears `A/PAOERS`
 * carry `KAER`
 * flag `TPHRAG`
-* decided `TKAOE/SAOEUD/-D`
+* decided `STKAOEUD/-D`
 * nj `TPH*/SKWR*`
 * covers `KOFRS`
 * hr `H*P R*P SP-S`
@@ -3032,7 +3032,7 @@
 * encyclopedia `EPB/SAOEUBG/PAOED/KWRA`
 * usage `AO*UPBLG`
 * cap `KAP`
-* ink `*UPBG`
+* ink `*EUPBG`
 * charts `KHARTS`
 * continuing `T-PBG`
 * mixed `PHEUGD`
@@ -3567,7 +3567,7 @@
 * tomorrow `TORPL`
 * purchased `PUFPD`
 * milk `PHEULG`
-* decide `TK-DZ`
+* decide `STKAOEUD`
 * consent `KEFPBT`
 * drama `TKRA/PHA`
 * visiting `SREUFT/-G`
@@ -4243,7 +4243,7 @@
 * craft `KRAFT`
 * cake `KAEUBG`
 * notebooks `TPHOEBGS`
-* apart `A/PARD`
+* apart `A/PART`
 * fellow `TPO*EUL`
 * blind `PWHRAOEUPBD`
 * lounge `HROUPBG`
@@ -4396,7 +4396,7 @@
 * everyday `EFRD`
 * apparently `A/PARPBLT`
 * surrounding `SROUPBGD`
-* mountains `PHOUPBT/APBS`
+* mountains `PHOUPB/TAEUPBS`
 * moves `PHOFS`
 * popularity `PHRA*RT`
 * inquiry `KW*R`
@@ -6219,7 +6219,7 @@
 * chains `KHAEUPBS`
 * Kingston `KEUPBGS/TOPB`
 * sixth `S*BGS`
-* engage `EPB/TKPWAEUPBL`
+* engage `EPB/TKPWAEUPBLG`
 * deviant `TKAOEF/KWRAPBT`
 * noon `TPHAOPB`
 * switching `SWEUFPG`
@@ -7223,7 +7223,7 @@
 * numerical `TPHAOUPL/K-L`
 * ons `OPB/-S`
 * geek `TKPWAOEBG`
-* uncle `UPB/K-L`
+* uncle `*UPBG`
 * defining `TKE/TPAOEUPBG`
 * xnxx `KP*/TPH*/KP*/KP*`
 * counting `KOUPBGT`
@@ -7809,7 +7809,7 @@
 * lightweight `HRAOEUT/WAET`
 * Ethiopia `AO*ET/KWROEP/KWRA`
 * tp `T*/P*`
-* mighty `PHAOEU/TEU`
+* mighty `PHAOEUT/KWREU`
 * athletes `A*T/HRAOETS`
 * humanity `HAOUPLT`
 * transcription `TREUPGS`
@@ -8062,7 +8062,7 @@
 * incomplete `EUPB/KPHRAOET`
 * vocals `SROELG/-S`
 * chronicle `KROPB/K-L`
-* fountain `TPOUPB/TAPB`
+* fountain `TPOUPB/TAEUPB`
 * chubby `KHUB/PWEU`
 * grave `TKPWRAEUF`
 * legitimate `SKWREUT/PHAT`
@@ -8084,7 +8084,7 @@
 * nightlife `TPHAOEUT/HRAOEUF`
 * footage `TPAOT/APBLG`
 * howto `HOU/TK-LS/TO`
-* worthy `WOR/TH*EU`
+* worthy `WO*RT/KWREU`
 * reveals `RE/SRAOELS`
 * architects `TREBGZ`
 * saints `SAEUPBTS`

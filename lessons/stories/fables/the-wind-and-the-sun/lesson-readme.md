@@ -22,7 +22,7 @@
 * see `SAOE`
 * way `WAEU`
 * to `TO`
-* decide `TK-DZ`
+* decide `STKAOEUD`
 * our `OUR`
 * dispute. `STKPAOUT TP-PL`
 * Whichever `KH-FR`

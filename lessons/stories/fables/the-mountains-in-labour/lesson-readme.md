@@ -6,7 +6,7 @@
 * Countrymen `KUPB/TREU/PHEPB`
 * noticed `TPH-TSD`
 * that `THA`
-* Mountains `PHOUPBT/APBS`
+* Mountains `PHOUPB/TAEUPBS`
 * were `WR`
 * in `TPH`
 * labour; `HRAEU/PWOUR STPH*FPLT`
@@ -61,7 +61,7 @@
 * gap `TKPWAP`
 * appeared `A/PAOERD`
 * side `SAOEUD`
-* Mountains. `PHOUPBT/APBS TP-PL`
+* Mountains. `PHOUPB/TAEUPBS TP-PL`
 * fell `TPEL`
 * down `TKOUPB`
 * upon `POPB`

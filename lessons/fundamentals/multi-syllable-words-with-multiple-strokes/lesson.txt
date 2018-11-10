@@ -266,7 +266,7 @@ Multi-syllable words with multiple strokes
 'personnel': PERPB/EL
 'identified': AOEUD/TPAOEUD
 'appears': A/PAOERS
-'decided': TKAOE/SAOEUD/-D
+'decided': STKAOEUD/-D
 'hello': HEL/HRO
 'maintain': PHEUPB/TAEUPB
 'tourism': TOR/EUFPL
@@ -732,7 +732,7 @@ Multi-syllable words with multiple strokes
 'apache': A/PAFP/KHAOE
 'filters': TPEULT/ERS
 'incorporated': EUPB/KORPD
-'apart': A/PARD
+'apart': A/PART
 'Valentine': SRAL/TAOEUPB
 'Hilton': HEUL/TOPB
 'horror': HOR/O*R
@@ -768,7 +768,7 @@ Multi-syllable words with multiple strokes
 'pipeline': PAOEUP/HROEUPB
 'syntax': SEUPB/TABGS
 'apparently': A/PARPBLT
-'mountains': PHOUPBT/APBS
+'mountains': PHOUPB/TAEUPBS
 'sierra': SAOER/RA
 'oldest': OELD/EFT
 'busty': PWUFT/KWREU
@@ -1370,7 +1370,7 @@ Multi-syllable words with multiple strokes
 'transmitted': TRAPBS/PHEUTD
 'screenshots': SKRAOEPB/SHOTS
 'Kingston': KEUPBGS/TOPB
-'engage': EPB/TKPWAEUPBL
+'engage': EPB/TKPWAEUPBLG
 'deviant': TKAOEF/KWRAPBT
 'adapters': AD/AP/TER/-S
 'imports': EUPL/PORTS
@@ -1770,7 +1770,7 @@ Multi-syllable words with multiple strokes
 'swingers': SWEUPBG/ERS
 'headers': HED/ERS
 'numerical': TPHAOUPL/K-L
-'uncle': UPB/K-L
+'uncle': *UPBG
 'defining': TKE/TPAOEUPBG
 'accompanied': A/K-PD
 'assure': A/SHUR
@@ -1993,7 +1993,7 @@ Multi-syllable words with multiple strokes
 'guitars': TKPWEU/TAR/-S
 'essence': ES/EPBS
 'lightweight': HRAOEUT/WAET
-'mighty': PHAOEU/TEU
+'mighty': PHAOEUT/KWREU
 'complications': KPHREU/KAEUGS/-S
 'scripting': SKREUPT/-G
 'galaxy': TKPWAL/ABG/SEU
@@ -2119,7 +2119,7 @@ Multi-syllable words with multiple strokes
 'incomplete': EUPB/KPHRAOET
 'vocals': SROELG/-S
 'chronicle': KROPB/K-L
-'fountain': TPOUPB/TAPB
+'fountain': TPOUPB/TAEUPB
 'chubby': KHUB/PWEU
 'legitimate': SKWREUT/PHAT
 'biographies': PWOG/TPEU/KWREU/-S
@@ -3563,7 +3563,7 @@ Multi-syllable words with multiple strokes
 'blazing': PWHRAEUZ/-G
 'youngest': KWRUPBG/EFT
 'parlor': PAR/HROR
-'decidedly': TKE/SAOEUD/TKHREU
+'decidedly': STKAOEUD/-D/HREU
 'successive': SUBG/SES/EUF
 'piety': PAOEUT/TEU
 'superstition': SAOUP/STEUGS
