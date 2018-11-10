@@ -18,14 +18,14 @@ The Puppet-Show Man
 'that,': THA KW-BG
 'if': TP
 'it': T
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'an': APB
 'index': TKEUPBGS
 'of': -F
 'his': HEUS
 'mind,': PHAOEUPBD KW-BG
-'he': E
+'he': HE
 'must': PHUFT
 'have': SR
 'been': PW-PB
@@ -36,29 +36,29 @@ The Puppet-Show Man
 'creation;': KRAEGS STPH*FPLT
 'and': SKP
 'indeed': TPHAOEPBD
-'he': E
+'he': HE
 'considered': KR-D
 'himself': H*EUPLS
 'so,': SO KW-BG
 'for': TPOR
 'I': EU
-'heard': HERD
+'heard': HAERD
 'it': T
 'from': TPR
 'his': HEUS
 'own': OEPB
 'mouth.': PHO*UT TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'a': AEU
 'Dane,': TKA*EUPB KW-BG
 'the': -T
 'owner': OERPB
 'of': -F
 'a': AEU
-'travelling': TRAFLG
-'theatre.': THAOERT TP-PL
-'He': E
+'travelling': TRAFLG/A*U
+'theatre.': THAO*ERT TP-PL
+'He': HE
 'had': H
 'all': AUL
 'his': HEUS
@@ -70,17 +70,17 @@ The Puppet-Show Man
 'large': HRARPBLG
 'box,': PWOBGS KW-BG
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'the': -T
 'proprietor': PRO/PRAOEU/TOR
 'of': -F
 'a': AEU
 'puppet-show.': PUPT H-PB SHOE TP-PL
 'His': HEUS
-'inborn': XXX inborn
-'cheerfulness,': XXX cheerfulness KW-BG
-'he': E
+'inborn': xxx inborn
+'cheerfulness,': KHAOER/-FL/-PBS KW-BG
+'he': HE
 'said,': SAEUD KW-BG
 'had': H
 'been': PW-PB
@@ -104,13 +104,13 @@ The Puppet-Show Man
 'did': TK
 'not': TPHOT
 'at': AT
-'first': TPEURS
+'first': TPEUFRT
 'understand': URPBD
 'all': AUL
 'this,': TH KW-BG
 'but': PWUT
 'afterwards': A*FRDZ
-'he': E
+'he': HE
 'explained': SPHRAEUPBD
 'the': -T
 'whole': WHOEL
@@ -122,11 +122,11 @@ The Puppet-Show Man
 'it': T
 'is:—': S STPH-FPLT EPL/TKA*RB
 '"I': KR-GS EU
-'was': WA
+'was': WAS
 'giving': TKPWEUFG
 'a': AEU
 'representation,"': REPGS KW-BG KR-GS
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 '"in': KR-GS TPH
 'the': -T
@@ -139,9 +139,9 @@ The Puppet-Show Man
 'little': HREUL
 'town': TOUPB
 'of': -F
-'Slagelse;': XXX Slagelse STPH*FPLT
+'Slagelse;': xxx Slagelse STPH*FPLT
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'splendid': SPHREPBD/EUD
 'audience,': AUPBS KW-BG
@@ -167,7 +167,7 @@ The Puppet-Show Man
 'and': SKP
 'sat': SAT
 'down;': TKOUPB STPH*FPLT
-'he': E
+'he': HE
 'laughed': HRAFD
 'aloud': A/HROUD
 'at': AT
@@ -182,7 +182,7 @@ The Puppet-Show Man
 'proper': PROR
 'time.': TAOEUPL TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'a': AEU
 'very': SRE
 'unusual': TPHAOURB
@@ -196,13 +196,13 @@ The Puppet-Show Man
 'to': TO
 'know': TPHOE
 'who': WHO
-'he': E
-'was.': WA TP-PL
+'he': HE
+'was.': WAS TP-PL
 'I': EU
-'heard': HERD
+'heard': HAERD
 'that': THA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'a': AEU
 'member': PHEB
 'of': -F
@@ -270,7 +270,7 @@ The Puppet-Show Man
 'his': HEUS
 'audience.': AUPBS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'wonderful': WUFL
 'both': PWO*T
 'to': TO
@@ -283,7 +283,7 @@ The Puppet-Show Man
 'part': PART
 'of': -F
 'it': T
-'was': WA
+'was': WAS
 'beyond': KWROPBD
 'my': PHEU
 'comprehension,': KPREPBGS KW-BG
@@ -305,7 +305,7 @@ The Puppet-Show Man
 'must': PHUFT
 'surely': SHURL
 'be': -B
-'intended': EUPB/TED/-D
+'intended': SPWEPBD/-D
 'to': TO
 'last': HRAFT
 'longer': HRORPBG
@@ -314,7 +314,7 @@ The Puppet-Show Man
 'little': HREUL
 'span': SPAPB
 'which': WEU
-'extends': EBGS/TEPBDZ
+'extends': ST*EPBDZ
 'only': OEPBL
 'to': TO
 'the': -T
@@ -334,7 +334,7 @@ The Puppet-Show Man
 'miracles': PHEUR/K-LS
 'on': OPB
 'a': AEU
-'small': SPAUL
+'small': SPHAL
 'scale,': SKAEL KW-BG
 'and': SKP
 'yet': KWRET
@@ -352,7 +352,7 @@ The Puppet-Show Man
 'the': -T
 'time': TAOEUPL
 'of': -F
-'Moses': PHOE/SES
+'Moses': PHOES/ES
 'and': SKP
 'the': -T
 'prophets,': PRO*FT/-S KW-BG
@@ -391,7 +391,7 @@ The Puppet-Show Man
 'and': SKP
 'the': -T
 'next': TPHEGT
-'evening': AOEPG
+'evening': AOEPBG
 'when': WHEPB
 'I': EU
 'gave': TKPWAEUF
@@ -400,10 +400,10 @@ The Puppet-Show Man
 'and': SKP
 'the': -T
 'lecturer': HREBG/KHUR/ER
-'was': WA
+'was': WAS
 'present,': PREPBT KW-BG
 'I': EU
-'was': WA
+'was': WAS
 'in': TPH
 'one': WUPB
 'of': -F
@@ -412,13 +412,13 @@ The Puppet-Show Man
 'moods.': PHAODZ TP-PL
 '"I': KR-GS EU
 'once': WUPBS
-'heard': HERD
+'heard': HAERD
 'of': -F
 'an': APB
 'actor,': ARBGT KW-BG
 'who,': WHO KW-BG
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'to': TO
 'act': ABGT
@@ -427,7 +427,7 @@ The Puppet-Show Man
 'of': -F
 'a': AEU
 'lover,': HRUFR KW-BG
-'always': AULZ
+'always': AULS
 'thought': THAUT
 'of': -F
 'one': WUPB
@@ -436,7 +436,7 @@ The Puppet-Show Man
 'in': TPH
 'the': -T
 'audience;': AUPBS STPH*FPLT
-'he': E
+'he': HE
 'only': OEPBL
 'played': PHRAEUD
 'for': TPOR
@@ -454,7 +454,7 @@ The Puppet-Show Man
 'the': -T
 'Polytechnic': POL/TEBG/TPHEUBG
 'lecturer': HREBG/KHUR/ER
-'was': WA
+'was': WAS
 'my': PHEU
 'she,': SHE KW-BG
 'my': PHEU
@@ -468,7 +468,7 @@ The Puppet-Show Man
 '"When': KR-GS WHEPB
 'the': -T
 'performance': PORPLS
-'was': WA
+'was': WAS
 'over,': OEFR KW-BG
 'and': SKP
 'the': -T
@@ -491,7 +491,7 @@ The Puppet-Show Man
 'glass': TKPWHRAS
 'of': -F
 'wine.': WAOEUPB TP-PL
-'He': E
+'He': HE
 'talked': TAUBGD
 'of': -F
 'my': PHEU
@@ -518,17 +518,17 @@ The Puppet-Show Man
 'it,': T KW-BG
 'for': TPOR
 'there': THR
-'was': WA
+'was': WAS
 'much': PHUFP
 'in': TPH
 'what': WHA
-'he': E
+'he': HE
 'did': TK
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
-'always': AULZ
+'always': AULS
 'explain': SPHRAEUPB
 'to': TO
 'me.': PHE TP-PL
@@ -574,7 +574,7 @@ The Puppet-Show Man
 'about': PW
 'on': OPB
 'this': TH
-'spherical': STPER/KAL
+'spherical': STPER/K-L
 'globe': TKPWHROEB
 'till': T*EUL
 'the': -T
@@ -624,7 +624,7 @@ The Puppet-Show Man
 'everyday': EFRD
 'matters.'': PHAERTS TP-PL AE
 'And': SKP
-'he': E
+'he': HE
 'went': WEPBT
 'on': OPB
 'explaining': SPHRAEUPBG
@@ -675,7 +675,7 @@ The Puppet-Show Man
 'everything,': EFG KW-BG
 'although': HR*T
 'I': EU
-'was': WA
+'was': WAS
 'one': WUPB
 'of': -F
 'the': -T
@@ -692,12 +692,12 @@ The Puppet-Show Man
 'as': AZ
 'if': TP
 'the': -T
-'idea': KWRUD
+'idea': KWR-D
 'pleased': PHRAOEFD
 'him;': HEUPL STPH*FPLT
 ''are': AE R
 'you': U
-'really': HROERL
+'really': R-L
 'happy?'': HAEP H-F AE
 '"'Yes,'': KR-GS AE KWRE KW-BG AE
 'I': EU
@@ -743,7 +743,7 @@ The Puppet-Show Man
 'of': -F
 'a': AEU
 'real': RAEL
-'theatre,': THAOERT KW-BG
+'theatre,': THAO*ERT KW-BG
 'and': SKP
 'the': -T
 'director': TKROR
@@ -757,7 +757,7 @@ The Puppet-Show Man
 'women.'': WEUPL TP-PL AE
 '"'I': KR-GS AE EU
 'understand,'': URPBD KW-BG AE
-'he': E
+'he': HE
 'said;': SAEUD STPH*FPLT
 ''you': AE U
 'would': WO
@@ -793,7 +793,7 @@ The Puppet-Show Man
 'believed': PWHREFD
 'so.': SO TP-PL
 'But': PWUT
-'he': E
+'he': HE
 'did': TK
 'not;': TPHOT STPH*FPLT
 'and': SKP
@@ -816,8 +816,8 @@ The Puppet-Show Man
 'However,': HOUF KW-BG
 'the': -T
 'wine': WAOEUPB
-'was': WA
-'excellent,': SKHREPBT KW-BG
+'was': WAS
+'excellent,': KPHREPBT KW-BG
 'and': SKP
 'we': WE
 'clanked': KHRA*PBG/-D
@@ -831,7 +831,7 @@ The Puppet-Show Man
 'must': PHUFT
 'have': SR
 'been': PW-PB
-'magic': PHA/SKWREUBG
+'magic': PHAPBLG/EUBG
 'in': TPH
 'it,': T KW-BG
 'or': OR
@@ -857,7 +857,7 @@ The Puppet-Show Man
 'a': AEU
 'kind': KEUPBD
 'of': -F
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'filled': TPEULD
 'the': -T
 'room,': RAOPL KW-BG
@@ -900,7 +900,7 @@ The Puppet-Show Man
 'to': TO
 'him,': HEUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'smiled;': SPHAOEULD STPH*FPLT
 'and': SKP
 'I': EU
@@ -908,8 +908,8 @@ The Puppet-Show Man
 'have': SR
 'sworn': SWORPB
 'that': THA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'one': WUPB
 'of': -F
 'these': THEZ
@@ -922,7 +922,7 @@ The Puppet-Show Man
 'all': AUL
 'events,': AOEPBTS KW-BG
 'that': THA
-'he': E
+'he': HE
 'belonged': PWHROPBGD
 'to': TO
 'the': -T
@@ -931,19 +931,19 @@ The Puppet-Show Man
 'the': -T
 'gods.': TKPWODZ TP-PL
 'The': -T
-'result': RUL
+'result': RULT
 'seemed': SAOEPLD
 'to': TO
 'prove': PROF
 'I': EU
-'was': WA
+'was': WAS
 'right': RAOEUT
 'in': TPH
 'my': PHEU
 'suspicions;': SUS/PEUGS/-S STPH*FPLT
 'for': TPOR
 'it': T
-'was': WA
+'was': WAS
 'arranged': ARPBG/-D
 'that': THA
 'my': PHEU
@@ -964,7 +964,7 @@ The Puppet-Show Man
 'and': SKP
 'that': THA
 'I': EU
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'the': -T
@@ -983,7 +983,7 @@ The Puppet-Show Man
 'our': OUR
 'glasses.': TKPWHRAFS TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'packed': PABGD
 'all': AUL
 'my': PHEU
@@ -1050,16 +1050,16 @@ The Puppet-Show Man
 'said': SAEUD
 'themselves—and': TH*EPLS EPL/TKA*RB SKP
 'I': EU
-'was': WA
+'was': WAS
 'their': THAEUR
 'director.': TKROR TP-PL
 '"When': KR-GS WHEPB
 'all': AUL
-'was': WA
-'ready': R*ED
+'was': WAS
+'ready': R-D
 'for': TPOR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'representation,': REPGS KW-BG
 'the': -T
 'whole': WHOEL
@@ -1092,10 +1092,10 @@ The Puppet-Show Man
 'leg;': HREG STPH*FPLT
 'for': TPOR
 'she': SHE
-'was': WA
+'was': WAS
 'a': AEU
 'great': TKPWRAET
-'genius,': SKWRAOEPB/KWROUS KW-BG
+'genius,': SKWRAOEPBS/KWRUS KW-BG
 'and': SKP
 'begged': PWEGD
 'to': TO
@@ -1142,7 +1142,7 @@ The Puppet-Show Man
 'whose': WHOZ
 'duty': TKAOUT
 'it': T
-'was': WA
+'was': WAS
 'to': TO
 'deliver': THREUFR
 'a': AEU
@@ -1153,18 +1153,18 @@ The Puppet-Show Man
 'many': PHAEPB
 'airs': AEUR/-S
 'as': AZ
-'he': E
+'he': HE
 'who': WHO
 'took': TAOBG
 'the': -T
 'part': PART
 'of': -F
-'first': TPEURS
+'first': TPEUFRT
 'lover': HRUFR
 'in': TPH
 'the': -T
 'piece;': PAOES STPH*FPLT
-'he': E
+'he': HE
 'declared': TKE/KHRAEURD
 'that': THA
 'the': -T
@@ -1200,7 +1200,7 @@ The Puppet-Show Man
 'part': PART
 'containing': KAUPB/TAEUPBG
 'points': POEUPBTS
-'likely': HREULG
+'likely': HRAOEULG
 'to': TO
 'bring': PWREU
 'down': TKOUPB
@@ -1233,7 +1233,7 @@ The Puppet-Show Man
 'her': HER
 'complexion.': KPHR*EBGS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'like': HRAOEUBG
 'a': AEU
 'company': K-P
@@ -1244,7 +1244,7 @@ The Puppet-Show Man
 'bottle,': PWO*LT KW-BG
 'and': SKP
 'I': EU
-'was': WA
+'was': WAS
 'in': TPH
 'the': -T
 'bottle': PWO*LT
@@ -1252,12 +1252,12 @@ The Puppet-Show Man
 'them;': THEPL STPH*FPLT
 'for': TPOR
 'I': EU
-'was': WA
+'was': WAS
 'their': THAEUR
 'director.': TKROR TP-PL
 'My': PHEU
 'breath': PWR*ET
-'was': WA
+'was': WAS
 'taken': TAEPB
 'away,': A/WAEU KW-BG
 'my': PHEU
@@ -1265,7 +1265,7 @@ The Puppet-Show Man
 'whirled,': WHEURL/-D KW-BG
 'and': SKP
 'I': EU
-'was': WA
+'was': WAS
 'as': AZ
 'miserable': PHEUZ/-BL
 'as': AZ
@@ -1274,7 +1274,7 @@ The Puppet-Show Man
 'could': KO
 'be.': -B TP-PL
 'It': T
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'a': AEU
 'novel,': TPHOFL KW-BG
@@ -1354,12 +1354,12 @@ The Puppet-Show Man
 'the': -T
 'Polytechnic': POL/TEBG/TPHEUBG
 'professor,': PROEFR KW-BG
-'he': E
+'he': HE
 'may': PHAE
 'perhaps': PRAPS
 'know,': TPHOE KW-BG
 'I': EU
-'don't.': TKO*PB AE T*/SP-S TP-PL
+'don't.': TKO*PB AE T* TP-PL
 'The': -T
 'moon': PHAOPB
 'shone': SHO*EPB
@@ -1382,9 +1382,9 @@ The Puppet-Show Man
 'confusion;': KAUFGS STPH*FPLT
 'but': PWUT
 'I': EU
-'was': WA
+'was': WAS
 'not': TPHOT
-'idle.': AOEUD/-L TP-PL
+'idle.': AOEUD/*L TP-PL
 'I': EU
 'jumped': SKWR*UPLD
 'off': OF
@@ -1444,12 +1444,12 @@ The Puppet-Show Man
 'quite': KWAOEUT
 'light,': HRAOEUT KW-BG
 'my': PHEU
-'cheerfulness': XXX cheerfulness
+'cheerfulness': KHAOER/-FL/-PBS
 'had': H
 'returned,': RURPBD KW-BG
 'and': SKP
 'I': EU
-'was': WA
+'was': WAS
 'the': -T
 'happiest': HAP/KWREFT
 'of': -F
@@ -1462,7 +1462,7 @@ The Puppet-Show Man
 'cured': KAOURD
 'me.': PHE TP-PL
 'I': EU
-'was': WA
+'was': WAS
 'as': AZ
 'happy': HAEP
 'as': AZ
@@ -1479,7 +1479,7 @@ The Puppet-Show Man
 'morning—correctly': PHORPBG EPL/TKA*RB KREBT/HREU
 'speaking,': SPAOEG KW-BG
 'it': T
-'was': WA
+'was': WAS
 'noon,': TPHAOPB KW-BG
 'for': TPOR
 'I': EU
@@ -1491,7 +1491,7 @@ The Puppet-Show Man
 'found': TPOUPBD
 'myself': PHAO*EUS
 'still': STEUL
-'sitting': SAO*EGT
+'sitting': SEUGT
 'there,': THR KW-BG
 'in': TPH
 'happy': HAEP
@@ -1512,12 +1512,12 @@ The Puppet-Show Man
 'Polytechnic': POL/TEBG/TPHEUBG
 'professor;': PROEFR STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'had': H
 'disappeared': TKEUS/PAOERD
 'like': HRAOEUBG
 'the': -T
-'Greek': KWRAOEBG
+'Greek': TKPWRAOEBG
 'and': SKP
 'Roman': RO*EPB
 'gods;': TKPWODZ STPH*FPLT
@@ -1551,7 +1551,7 @@ The Puppet-Show Man
 'either,': AOERT KW-BG
 'for': TPOR
 'I': EU
-'always': AULZ
+'always': AULS
 'make': PHAEUBG
 'them': THEPL
 'merry.': PHER/REU TP-PL
@@ -1642,7 +1642,7 @@ The Puppet-Show Man
 'shorter,': SHORT/*ER KW-BG
 'for': TPOR
 'the': -T
-'youngsters': KWRUPBG/STERS
+'youngsters': KWR*UPBGS/ERS
 'don't': TKOEPBT
 'like': HRAOEUBG
 'long': HROPBG

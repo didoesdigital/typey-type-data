@@ -3,7 +3,7 @@ The Wedding of Mrs Fox
 'FIRST': TPEURS
 'STORY': STOER
 'There': THR
-'was': WA
+'was': WAS
 'once': WUPBS
 'upon': POPB
 'a': AEU
@@ -19,7 +19,7 @@ The Wedding of Mrs Fox
 'that': THA
 'his': HEUS
 'wife': WAOEUF
-'was': WA
+'was': WAS
 'not': TPHOT
 'faithful': TPA*EUT/-FL
 'to': TO
@@ -31,8 +31,8 @@ The Wedding of Mrs Fox
 'her': HER
 'to': TO
 'the': -T
-'test.': TEF TP-PL
-'He': E
+'test.': TEFT TP-PL
+'He': HE
 'stretched': STREFPD
 'himself': H*EUPLS
 'out': OUT
@@ -48,11 +48,11 @@ The Wedding of Mrs Fox
 'behaved': PWHAEUFD
 'as': AZ
 'if': TP
-'he': E
+'he': HE
 'were': WR
 'stone': STOEPB
 'dead.': TKED TP-PL
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox': TPOBGS
 'went': WEPBT
 'up': UP
@@ -83,15 +83,15 @@ The Wedding of Mrs Fox
 'the': -T
 'old': OLD
 'fox': TPOBGS
-'was': WA
+'was': WAS
 'dead,': TKED KW-BG
 'suitors': SAOU/TOR/-S
 'presented': PREPBTD
 'themselves.': TH*EPLS TP-PL
 'The': -T
 'maid': PHAEUD
-'heard': HERD
-'someone': SWUPB
+'heard': HAERD
+'someone': SPH-PB
 'standing': STAPBG
 'at': AT
 'the': -T
@@ -104,7 +104,7 @@ The Wedding of Mrs Fox
 'it,': T KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'young': KWRUPBG
 'fox,': TPOBGS KW-BG
@@ -125,7 +125,7 @@ The Wedding of Mrs Fox
 'you': U
 'wake?'': WAEUBG H-F AE
 'She': SHE
-'answered:': APBSD STPH-FPLT
+'answered:': AEPBS/-D STPH-FPLT
 ''I': AE EU
 'am': APL
 'not': TPHOT
@@ -163,7 +163,7 @@ The Wedding of Mrs Fox
 'fox,': TPOBGS KW-BG
 ''what': AE WHA
 'is': S
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox': TPOBGS
 'doing?'': TK*G H-F AE
 'The': -T
@@ -171,7 +171,7 @@ The Wedding of Mrs Fox
 'replied:': RE/PHRAOEUD STPH-FPLT
 ''She': AE SHE
 'is': S
-'sitting': SAO*EGT
+'sitting': SEUGT
 'in': TPH
 'her': HER
 'room,': RAOPL KW-BG
@@ -187,7 +187,7 @@ The Wedding of Mrs Fox
 'red,': RED KW-BG
 'Because': PWAU
 'old': OLD
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox': TPOBGS
 'is': S
 'dead.'': TKED TP-PL AE
@@ -232,16 +232,16 @@ The Wedding of Mrs Fox
 'are': R
 'you': U
 'inside?'': TPH-DZ H-F AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'yes,': KWRE KW-BG
 'my': PHEU
 'little': HREUL
 'cat,'': KAT KW-BG AE
 'she': SHE
 'cried.': KRAOEUD TP-PL
-''A': AE AEU
+''A': AE KPA*/AEU
 'wooer': WAO/*ER
-'he': E
+'he': HE
 'stands': STAPBDZ
 'at': AT
 'the': -T
@@ -250,13 +250,13 @@ The Wedding of Mrs Fox
 'there.'': THR TP-PL AE
 ''What': AE WHA
 'does': TKOS
-'he': E
+'he': HE
 'look': HRAOBG
 'like,': HRAOEUBG KW-BG
 'my': PHEU
 'dear?'': TKAER H-F AE
 ''Has': AE HAS
-'he': E
+'he': HE
 'nine': TPHAOEUPB
 'as': AZ
 'beautiful': PWAOUFL
@@ -264,14 +264,14 @@ The Wedding of Mrs Fox
 'as': AZ
 'the': -T
 'late': HRAEUT
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox?'': TPOBGS H-F AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'no,'': TPHO KW-BG AE
-'answered': APBSD
+'answered': AEPBS/-D
 'the': -T
 'cat,': KAT KW-BG
-''he': AE E
+''he': AE HE
 'has': HAS
 'only': OEPBL
 'one.'': WUPB TP-PL AE
@@ -293,13 +293,13 @@ The Wedding of Mrs Fox
 'Soon': SAOPB
 'afterwards': A*FRDZ
 'there': THR
-'was': WA
+'was': WAS
 'another': TPHOER
 'knock,': TPHOBG KW-BG
 'and': SKP
 'another': TPHOER
 'fox': TPOBGS
-'was': WA
+'was': WAS
 'at': AT
 'the': -T
 'door': TKAOR
@@ -307,21 +307,21 @@ The Wedding of Mrs Fox
 'wished': WEURBD
 'to': TO
 'woo': WAO
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox.': TPOBGS TP-PL
-'He': E
+'He': HE
 'had': H
 'two': TWO
 'tails,': TAEULS KW-BG
 'but': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'fare': TPA*ER
 'better': PWOERT
 'than': THAPB
 'the': -T
-'first.': TPEURS TP-PL
+'first.': TPEUFRT TP-PL
 'After': AF
 'this': TH
 'still': STEUL
@@ -352,12 +352,12 @@ The Wedding of Mrs Fox
 'tails,': TAEULS KW-BG
 'like': HRAOEUBG
 'old': OLD
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox.': TPOBGS TP-PL
 'When': WHEPB
 'the': -T
 'widow': WO*EUD
-'heard': HERD
+'heard': HAERD
 'that,': THA KW-BG
 'she': SHE
 'said': SAEUD
@@ -376,7 +376,7 @@ The Wedding of Mrs Fox
 'And': SKP
 'carry': KAER
 'old': OLD
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox': TPOBGS
 'outside.'': OUDZ TP-PL AE
 'But': PWUT
@@ -384,13 +384,13 @@ The Wedding of Mrs Fox
 'as': AZ
 'the': -T
 'wedding': WEGD
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'be': -B
-'solemnized,': XXX solemnized KW-BG
+'solemnized,': xxx solemnized KW-BG
 'old': OLD
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox': TPOBGS
 'stirred': STEURD
 'under': *UPBD
@@ -405,7 +405,7 @@ The Wedding of Mrs Fox
 'drove': TKROEF
 'them': THEPL
 'and': SKP
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox': TPOBGS
 'out': OUT
 'of': -F
@@ -415,9 +415,9 @@ The Wedding of Mrs Fox
 'STORY': STOER
 'When': WHEPB
 'old': OLD
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox': TPOBGS
-'was': WA
+'was': WAS
 'dead,': TKED KW-BG
 'the': -T
 'wolf': WOFL
@@ -434,10 +434,10 @@ The Wedding of Mrs Fox
 'the': -T
 'cat': KAT
 'who': WHO
-'was': WA
-'servant': SEFB/APBT
+'was': WAS
+'servant': SEFRB/APBT
 'to': TO
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox,': TPOBGS KW-BG
 'opened': OEPD
 'it': T
@@ -451,10 +451,10 @@ The Wedding of Mrs Fox
 'said:': SAEUD STPH-FPLT
 ''Good': AE TKPWAOD
 'day,': TKAEU KW-BG
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Cat': KAT
 'of': -F
-'Kehrewit,': XXX Kehrewit KW-BG
+'Kehrewit,': xxx Kehrewit KW-BG
 'How': HOU
 'comes': KOPLS
 'it': T
@@ -487,13 +487,13 @@ The Wedding of Mrs Fox
 ''No,': AE TPHO KW-BG
 'thank': THAPBG
 'you,': U KW-BG
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Cat,'': KAT KW-BG AE
-'answered': APBSD
+'answered': AEPBS/-D
 'the': -T
 'wolf.': WOFL TP-PL
 ''Is': AE S
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox': TPOBGS
 'not': TPHOT
 'at': AT
@@ -507,25 +507,25 @@ The Wedding of Mrs Fox
 'in': TPH
 'her': HER
 'room,': RAOPL KW-BG
-'Bewailing': XXX Bewailing
+'Bewailing': xxx Bewailing
 'her': HER
 'sorrowful': SOR/ROEFL
 'doom,': TKAOPL KW-BG
-'Bewailing': XXX Bewailing
+'Bewailing': xxx Bewailing
 'her': HER
 'trouble': TRUBL
 'so': SO
 'sore,': SOR KW-BG
 'For': TPOR
 'old': OLD
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox': TPOBGS
 'is': S
 'no': TPHO
 'more.'': PHOR TP-PL AE
 'The': -T
 'wolf': WOFL
-'answered:': APBSD STPH-FPLT
+'answered:': AEPBS/-D STPH-FPLT
 ''If': AE TP
 'she's': SHAOES
 'in': TPH
@@ -544,7 +544,7 @@ The Wedding of Mrs Fox
 'below?'': PWHRO H-F AE
 'The': -T
 'cat': KAT
-'runs': RUPS
+'runs': RUPBS
 'quickly': KWEULG
 'up': UP
 'the': -T
@@ -562,7 +562,7 @@ The Wedding of Mrs Fox
 'comes': KOPLS
 'to': TO
 'the': -T
-'parlour': PAR/HROUR
+'parlour': PAR/HROUR/A*U
 'door.': TKAOR TP-PL
 'With': W
 'her': HER
@@ -581,7 +581,7 @@ The Wedding of Mrs Fox
 'Mistress': PHEUS/TRES
 'Fox?': TPOBGS H-F
 'If': TP
-'you're': U AE XXX re
+'you're': UR
 'in': TPH
 'want': WAPBT
 'of': -F
@@ -596,7 +596,7 @@ The Wedding of Mrs Fox
 'to': TO
 'step': STEP
 'below?': PWHRO H-F
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox': TPOBGS
 'asked:': SK-D STPH-FPLT
 ''Has': AE HAS
@@ -607,16 +607,16 @@ The Wedding of Mrs Fox
 'on,': OPB KW-BG
 'and': SKP
 'has': HAS
-'he': E
+'he': HE
 'a': AEU
-'pointed': POEUPTD
+'pointed': POEUPBTD
 'mouth?'': PHO*UT H-F AE
 ''No,'': AE TPHO KW-BG AE
-'answered': APBSD
+'answered': AEPBS/-D
 'the': -T
 'cat.': KAT TP-PL
 ''Then': AE THEPB
-'he': E
+'he': HE
 'won't': WOEPBT
 'do': TKO
 'for': TPOR
@@ -624,7 +624,7 @@ The Wedding of Mrs Fox
 'When': WHEPB
 'the': -T
 'wolf': WOFL
-'was': WA
+'was': WAS
 'gone,': TKPWOPB KW-BG
 'came': KAEUPL
 'a': AEU
@@ -656,12 +656,12 @@ The Wedding of Mrs Fox
 'qualities': KWALTS
 'which': WEU
 'old': OLD
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox': TPOBGS
 'had': H
 'possessed,': POS/ES/-D KW-BG
-'was': WA
-'always': AULZ
+'was': WAS
+'always': AULS
 'lacking,': HRABG/-G KW-BG
 'and': SKP
 'the': -T
@@ -680,7 +680,7 @@ The Wedding of Mrs Fox
 'young': KWRUPBG
 'fox.': TPOBGS TP-PL
 'Then': THEPB
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox': TPOBGS
 'said:': SAEUD STPH-FPLT
 ''Has': AE HAS
@@ -693,13 +693,13 @@ The Wedding of Mrs Fox
 'has': HAS
 'a': AEU
 'little': HREUL
-'pointed': POEUPTD
+'pointed': POEUPBTD
 'mouth?'': PHO*UT H-F AE
 ''Yes,'': AE KWRE KW-BG AE
 'said': SAEUD
 'the': -T
 'cat,': KAT KW-BG
-''he': AE E
+''he': AE HE
 'has.'': HAS TP-PL AE
 ''Then': AE THEPB
 'let': HRET
@@ -707,12 +707,12 @@ The Wedding of Mrs Fox
 'come': KOPL
 'upstairs,'': UP/STA*EURS KW-BG AE
 'said': SAEUD
-'Mrs': XXX Mrs
+'Mrs': PH*/R*/S*
 'Fox,': TPOBGS KW-BG
 'and': SKP
 'ordered': ORD/-D
 'the': -T
-'servant': SEFB/APBT
+'servant': SEFRB/APBT
 'to': TO
 'prepare': PRAEP
 'the': -T
@@ -742,13 +742,13 @@ The Wedding of Mrs Fox
 'fine': TPAOEUPB
 'fat': TPAT
 'mouse': PHOUS
-'he': E
+'he': HE
 'brought,': PWRAUT KW-BG
 'Yet': KWRET
 'of': -F
 'his': HEUS
 'wife': WAOEUF
-'he': E
+'he': HE
 'never': TPHEF
 'thought,': THAUT KW-BG
 'But': PWUT
@@ -756,20 +756,20 @@ The Wedding of Mrs Fox
 'up': UP
 'every': EF
 'one': WUPB
-'he': E
+'he': HE
 'caught.'': KAUT TP-PL AE
 'Then': THEPB
 'the': -T
 'wedding': WEGD
-'was': WA
-'solemnized': XXX solemnized
+'was': WAS
+'solemnized': xxx solemnized
 'with': W
 'young': KWRUPBG
-'Mr': XXX Mr
+'Mr': PH*P/R*
 'Fox,': TPOBGS KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'much': PHUFP
 'rejoicing': RE/SKWROEUFG
 'and': SKP

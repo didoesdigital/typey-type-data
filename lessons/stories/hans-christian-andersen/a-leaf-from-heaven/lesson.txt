@@ -9,7 +9,7 @@ A Leaf From Heaven
 'air': AEUR
 'flew': TPHRAOU
 'an': APB
-'angel,': APBG/EL KW-BG
+'angel,': A*EPBLG KW-BG
 'with': W
 'a': AEU
 'flower': TPHRO*UR
@@ -20,8 +20,8 @@ A Leaf From Heaven
 'of': -F
 'heaven.': HEFPB TP-PL
 'As': AZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'kissing': KEUFG
 'the': -T
 'flower': TPHRO*UR
@@ -68,7 +68,7 @@ A Leaf From Heaven
 '"No': KR-GS TPHO
 'one': WUPB
 'will': HR
-'recognise': REZ
+'recognise': REZ/A*U
 'it;': T STPH*FPLT
 'not': TPHOT
 'even': AOEPB
@@ -76,7 +76,7 @@ A Leaf From Heaven
 'thistle': THEUFL
 'nor': TPH-R
 'the': -T
-'stinging-nettle."': STEUPBG/-G H-PB TPHET/-L TP-PL KR-GS
+'stinging-nettle."': STEUPBG/-G H-PB TPHET/*L TP-PL KR-GS
 '"It': KR-GS T
 'must': PHUFT
 'be': -B
@@ -141,7 +141,7 @@ A Leaf From Heaven
 'and': SKP
 'the': -T
 'plant': PHRAPBT
-'was': WA
+'was': WAS
 'covered': KOFRD
 'with': W
 'snow,': STPHOE KW-BG
@@ -155,7 +155,7 @@ A Leaf From Heaven
 'if': TP
 'it': T
 'had': H
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'beneath': TPHAO*ET
 'as': AZ
 'well': WEL
@@ -169,7 +169,7 @@ A Leaf From Heaven
 'appeared': A/PAOERD
 'in': TPH
 'full': TPUL
-'bloom:': PHRAOPL STPH-FPLT
+'bloom:': PWHRAOPL STPH-FPLT
 'a': AEU
 'more': PHOR
 'beautiful': PWAOUFL
@@ -199,7 +199,7 @@ A Leaf From Heaven
 'black': PWHRABG
 'and': SKP
 'white.': WHAOEUT TP-PL
-'He': E
+'He': HE
 'examined': KP-D
 'and': SKP
 'tested': TEFTD
@@ -209,7 +209,7 @@ A Leaf From Heaven
 'it': T
 'did': TK
 'not': TPHOT
-'belong': PWHROPG
+'belong': PWHROPBG
 'to': TO
 'his': HEUS
 'system': S-PL
@@ -217,7 +217,7 @@ A Leaf From Heaven
 'botany,': PWOT/TPHEU KW-BG
 'nor': TPH-R
 'could': KO
-'he': E
+'he': HE
 'possibly': POBL
 'find': TPEUPBD
 'out': OUT
@@ -226,7 +226,7 @@ A Leaf From Heaven
 'class': KHRAS
 'it': T
 'did': TK
-'belong.': PWHROPG TP-PL
+'belong.': PWHROPBG TP-PL
 '"It': KR-GS T
 'must': PHUFT
 'be': -B
@@ -234,7 +234,7 @@ A Leaf From Heaven
 'degenerate': TKE/SKWREPB/RAT
 'species,"': SPAOES KW-BG KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 '"I': KR-GS EU
 'do': TKO
 'not': TPHOT
@@ -270,7 +270,7 @@ A Leaf From Heaven
 'the': -T
 'plant': PHRAPBT
 'and': SKP
-'heard': HERD
+'heard': HAERD
 'the': -T
 'remarks,': RARBG/-S KW-BG
 'but': PWUT
@@ -304,12 +304,12 @@ A Leaf From Heaven
 'girl;': TKPWEURL STPH*FPLT
 'her': HER
 'heart': HART
-'was': WA
+'was': WAS
 'pure,': PAOUR KW-BG
 'and': SKP
 'her': HER
 'understanding': URPBGD
-'increased': EUPB/KRAOES/-D
+'increased': EUPB/KRAOEFD
 'by': PWEU
 'her': HER
 'faith.': PHA*EUT TP-PL
@@ -330,7 +330,7 @@ A Leaf From Heaven
 'its': EUTS
 'pages': PAEUPBLGS
 'she': SHE
-'heard': HERD
+'heard': HAERD
 'the': -T
 'voice': SROEUS
 'of': -F
@@ -344,10 +344,10 @@ A Leaf From Heaven
 'to': TO
 'remember': REB
 'what': WHA
-'was': WA
+'was': WAS
 'said': SAEUD
 'of': -F
-'Joseph's': SKWROEZ/EF AE S*/SP-S
+'Joseph's': SKWROEZ/EF AES
 'brethren': PWR*ET/REPB
 'when': WHEPB
 'persons': PERPBZ
@@ -383,7 +383,7 @@ A Leaf From Heaven
 'of': -F
 'Him': HEUPL
 'who': WHO
-'was': WA
+'was': WAS
 'pure': PAOUR
 'and': SKP
 'holy,': HOEUL KW-BG
@@ -434,7 +434,7 @@ A Leaf From Heaven
 'sparkled': SPAR/K-LD
 'in': TPH
 'the': -T
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'like': HRAOEUBG
 'colored': KHRORD
 'flames,': TPHRAEUPLS KW-BG
@@ -557,7 +557,7 @@ A Leaf From Heaven
 'green,': TKPWRAOEPB KW-BG
 'fresh,': TPRERB KW-BG
 'and': SKP
-'unfading.': XXX unfading TP-PL
+'unfading.': xxx unfading TP-PL
 'Between': TWAOEPB
 'the': -T
 'pages': PAEUPBLGS
@@ -574,17 +574,17 @@ A Leaf From Heaven
 'afterwards,': A*FRDZ KW-BG
 'that': THA
 'Bible': PWAOEUBL
-'was': WA
+'was': WAS
 'laid': HRAEUD
 'under': *UPBD
 'the': -T
 'young': KWRUPBG
-'girl's': TKPWEURL AE S*/SP-S
+'girl's': TKPWEURL/AES
 'head': HED
 'in': TPH
 'her': HER
 'coffin.': KOFPB TP-PL
-'A': AEU
+'A': KPA*/AEU
 'holy': HOEUL
 'calm': KAUPL
 'rested': REFT/-D
@@ -620,7 +620,7 @@ A Leaf From Heaven
 'still': STEUL
 'continued': T-PBD
 'to': TO
-'bloom': PHRAOPL
+'bloom': PWHRAOPL
 'till': T*EUL
 'it': T
 'grew': TKPWRAOU
@@ -651,12 +651,12 @@ A Leaf From Heaven
 'thistles': THEUS/-LS
 'and': SKP
 'the': -T
-'burdocks.': XXX burdocks TP-PL
+'burdocks.': PW*/*U/R*/TK-LS/TKOBG/-S TP-PL
 '"We': KR-GS WE
 'can': K
 'never': TPHEF
 'conduct': KUBGT
-'ourselves': OUR/SEFS
+'ourselves': O*URSZ
 'like': HRAOEUBG
 'that': THA
 'in': TPH
@@ -675,9 +675,9 @@ A Leaf From Heaven
 'Then': THEPB
 'came': KAEUPL
 'the': -T
-'swineherd;': XXX swineherd STPH*FPLT
-'he': E
-'was': WA
+'swineherd;': xxx swineherd STPH*FPLT
+'he': HE
+'was': WAS
 'collecting': KHREBGT/-G
 'thistles': THEUS/-LS
 'and': SKP
@@ -688,7 +688,7 @@ A Leaf From Heaven
 'for': TPOR
 'the': -T
 'ashes.': ARBS TP-PL
-'He': E
+'He': HE
 'pulled': PULD
 'up': UP
 'the': -T
@@ -710,12 +710,12 @@ A Leaf From Heaven
 'useful': AOUFL
 'as': AZ
 'any,"': TPHEU KW-BG KR-GS
-'he': E
+'he': HE
 'said;': SAEUD STPH*FPLT
 'so': SO
 'the': -T
 'plant': PHRAPBT
-'was': WA
+'was': WAS
 'carried': KAERD
 'away.': A/WAEU TP-PL
 'Not': TPHOT
@@ -731,8 +731,8 @@ A Leaf From Heaven
 'the': -T
 'deepest': TKAOEP/EFT
 'melancholy.': PHEL/KOL/HREU TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'diligent': TKEUL/SKWREPBT
 'and': SKP
 'industrious,': STREUS KW-BG
@@ -781,7 +781,7 @@ A Leaf From Heaven
 'the': -T
 'world,': WORLD KW-BG
 'and': SKP
-'he': E
+'he': HE
 'sent': SEPBT
 'them': THEPL
 'a': AEU
@@ -790,7 +790,7 @@ A Leaf From Heaven
 'say': SAEU
 'that': THA
 'there': THR
-'was': WA
+'was': WAS
 'one': WUPB
 'remedy': REPL/TKEU
 'which': WEU
@@ -802,7 +802,7 @@ A Leaf From Heaven
 'and': SKP
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'plant': PHRAPBT
 'of': -F
@@ -815,7 +815,7 @@ A Leaf From Heaven
 'forest': TPOEFRT
 'in': TPH
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'own': OEPB
 'dominions.': TKPHEUPB/KWROPB/-S TP-PL
 'The': -T
@@ -834,7 +834,7 @@ A Leaf From Heaven
 'Then': THEPB
 'said': SAEUD
 'the': -T
-'swineherd,': XXX swineherd KW-BG
+'swineherd,': xxx swineherd KW-BG
 '"I': KR-GS EU
 'am': APL
 'afraid': A/TPRAEUD
@@ -877,7 +877,7 @@ A Leaf From Heaven
 'indeed!"': TPHAOEPBD SKHRAPL KR-GS
 'The': -T
 'poor': PAOR
-'swineherd': XXX swineherd
+'swineherd': xxx swineherd
 'took': TAOBG
 'these': THEZ
 'words': WORDZ
@@ -889,7 +889,7 @@ A Leaf From Heaven
 'addressed': A/TKREFD
 'to': TO
 'him;': HEUPL STPH*FPLT
-'he': E
+'he': HE
 'knew': TPHAOU
 'not': TPHOT
 'that': THA
@@ -911,7 +911,7 @@ A Leaf From Heaven
 'be': -B
 'found.': TPOUPBD TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'one,': WUPB KW-BG
 'but': PWUT
 'it': T
@@ -948,7 +948,7 @@ A Leaf From Heaven
 'the': -T
 'plant': PHRAPBT
 'stood,"': STAOD KW-BG KR-GS
-'he': E
+'he': HE
 'said;': SAEUD STPH*FPLT
 '"it': KR-GS T
 'is': S
@@ -956,7 +956,7 @@ A Leaf From Heaven
 'sacred': SKRED
 'place."': PHRAEUS TP-PL KR-GS
 'Then': THEPB
-'he': E
+'he': HE
 'ordered': ORD/-D
 'that': THA
 'the': -T
@@ -988,9 +988,9 @@ A Leaf From Heaven
 'and': SKP
 'for': TPOR
 'this': TH
-'he': E
-'was': WA
-'loaded': HROED/-D
+'he': HE
+'was': WAS
+'loaded': HRAOD/-D
 'with': W
 'gold,': TKPWOELD KW-BG
 'which': WEU
@@ -1006,7 +1006,7 @@ A Leaf From Heaven
 'this': TH
 'part': PART
 'is': S
-'really': HROERL
+'really': R-L
 'the': -T
 'most': PHOFT
 'pleasant': PHREFPBT
@@ -1033,8 +1033,8 @@ A Leaf From Heaven
 'the': -T
 'sentry': SEPBT/REU
 'said': SAEUD
-'he': E
+'he': HE
 'had': H
-'always': AULZ
+'always': AULS
 'been': PW-PB
 'so.': SO TP-PL

@@ -2,7 +2,7 @@ Cinderilla or the Little Glass Slipper
 
 'Once': WUPBS
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'gentleman': SKWRA*PL
 'who': WHO
@@ -18,7 +18,7 @@ Cinderilla or the Little Glass Slipper
 'haughty': HAU/TEU
 'woman': WOPL
 'that': THA
-'was': WA
+'was': WAS
 'ever': -FR
 'seen.': SAOEPB TP-PL
 'She': SHE
@@ -32,7 +32,7 @@ Cinderilla or the Little Glass Slipper
 'of': -F
 'her': HER
 'own': OEPB
-'humour': HAOURPL
+'humour': HAOURPL/A*U
 'and': SKP
 'they': THE
 'were': WR
@@ -43,7 +43,7 @@ Cinderilla or the Little Glass Slipper
 'in': TPH
 'all': AUL
 'things.': THEUPBGS TP-PL
-'He': E
+'He': HE
 'had': H
 'likewise,': HRAOEUBG/WAOEUS KW-BG
 'by': PWEU
@@ -57,7 +57,7 @@ Cinderilla or the Little Glass Slipper
 'unparalleled': UPB/PA*R/HRELD
 'goodness': TKPWAOD/-PBS
 'and': SKP
-'sweetness': XXX sweetness
+'sweetness': SWAOET/-PBS
 'of': -F
 'temper,': TEPL/PER KW-BG
 'which': WEU
@@ -67,7 +67,7 @@ Cinderilla or the Little Glass Slipper
 'her': HER
 'mother,': PHOER KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'the': -T
 'best': PWEFT
 'creature': KRAOEFP
@@ -88,11 +88,11 @@ Cinderilla or the Little Glass Slipper
 'stepmother': STEP/PHOER
 'began': TKPWAPB
 'to': TO
-'shew': XXX shew
+'shew': S*/H*/*E/W*
 'herself': H*ERS
 'in': TPH
 'her': HER
-'colours.': KHROURS TP-PL
+'colours.': KHROURS/A*U TP-PL
 'She': SHE
 'could': KO
 'not': TPHOT
@@ -132,10 +132,10 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'dishes,': TKEURBS KW-BG
 'tables,': TAEUBLS KW-BG
-'&c.': XXX &c TP-PL
+'&c.': SP-PBD KR* TP-PL
 'and': SKP
 'rubbed': RUBD
-'Madam's': PHAD/APL AE S*/SP-S
+'Madam's': PHAD/APL AES
 'chamber,': KHAEURPL KW-BG
 'and': SKP
 'those': THOZ
@@ -148,7 +148,7 @@ Cinderilla or the Little Glass Slipper
 'up': UP
 'in': TPH
 'a': AEU
-'sorry': SO*ER
+'sorry': SOER
 'garret,': TKPWAEUR/RET KW-BG
 'upon': POPB
 'a': AEU
@@ -164,7 +164,7 @@ Cinderilla or the Little Glass Slipper
 'with': W
 'floors': THRAORS
 'all': AUL
-'inlaid,': XXX inlaid KW-BG
+'inlaid,': xxx inlaid KW-BG
 'upon': POPB
 'beds': PWEDZ
 'of': -F
@@ -197,7 +197,7 @@ Cinderilla or the Little Glass Slipper
 'girl': TKPWEURL
 'bore': PWOR
 'all': AUL
-'patiently,': PAEURBT/HREU KW-BG
+'patiently,': PAEURBLT KW-BG
 'and': SKP
 'dared': TKAEURD
 'not': TPHOT
@@ -215,7 +215,7 @@ Cinderilla or the Little Glass Slipper
 'wife': WAOEUF
 'governed': TKPWOFRPBD
 'him': HEUPL
-'intirely.': XXX intirely TP-PL
+'intirely.': EUPB/TAOEUR/HREU TP-PL
 'When': WHEPB
 'she': SHE
 'had': H
@@ -247,36 +247,36 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'youngest,': KWRUPBG/EFT KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'not': TPHOT
 'so': SO
 'rude': RAOUD
 'and': SKP
-'uncivil': XXX uncivil
+'uncivil': xxx uncivil
 'as': AZ
 'the': -T
 'eldest,': ELD/EFT KW-BG
 'called': KAULD
 'her': HER
-'Cinderilla.': XXX Cinderilla TP-PL
+'Cinderilla.': xxx Cinderilla TP-PL
 'However,': HOUF KW-BG
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 'notwithstanding': TPHAPBG
 'her': HER
 'mean': PHAOEPB
-'apparel,': AP/PARL KW-BG
-'was': WA
+'apparel,': A/PAEURL KW-BG
+'was': WAS
 'a': AEU
 'hundred': HUPBD
 'times': TAOEUPLS
-'handsomer': XXX handsomer
+'handsomer': xxx handsomer
 'than': THAPB
 'her': HER
 'sisters,': ST-RS KW-BG
 'tho'': THO* AE
 'they': THE
 'were': WR
-'always': AULZ
+'always': AULS
 'dressed': TKREFD
 'very': SRE
 'richly.': REUFP/HREU TP-PL
@@ -284,7 +284,7 @@ Cinderilla or the Little Glass Slipper
 'happened': HAPD
 'that': THA
 'the': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
 'gave': TKPWAEUF
 'a': AEU
@@ -315,7 +315,7 @@ Cinderilla or the Little Glass Slipper
 'quality.': KWALT TP-PL
 'They': THE
 'were': WR
-'mightily': XXX mightily
+'mightily': PHAOEUT/HREU
 'delighted': TKHRAOEUTD
 'at': AT
 'this': TH
@@ -324,7 +324,7 @@ Cinderilla or the Little Glass Slipper
 'wonderfully': WOPBD/TPHREU
 'busy': PW-Z
 'in': TPH
-'chusing': XXX chusing
+'chusing': xxx chusing
 'out': OUT
 'such': SUFP
 'gowns,': TKPWOUPBS KW-BG
@@ -337,15 +337,15 @@ Cinderilla or the Little Glass Slipper
 'become': PW-BG
 'them.': THEPL TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'a': AEU
 'new': TPHU
 'trouble': TRUBL
 'to': TO
-'Cinderilla;': XXX Cinderilla STPH*FPLT
+'Cinderilla;': xxx Cinderilla STPH*FPLT
 'for': TPOR
 'it': T
-'was': WA
+'was': WAS
 'she': SHE
 'who': WHO
 'ironed': AOEURPBD
@@ -409,7 +409,7 @@ Cinderilla or the Little Glass Slipper
 'on': OPB
 'my': PHEU
 'gold-flowered': TKPWOELD H-PB TPHROU/ERD
-'manteau,': XXX manteau KW-BG
+'manteau,': xxx manteau KW-BG
 'and': SKP
 'my': PHEU
 'diamond': TKAOEUPLD
@@ -434,7 +434,7 @@ Cinderilla or the Little Glass Slipper
 'tire-woman': TAOEUR H-PB WOPL
 'they': THE
 'could': KO
-'get,': TKPW-T KW-BG
+'get,': TKPWET KW-BG
 'to': TO
 'make': PHAEUBG
 'up': UP
@@ -443,7 +443,7 @@ Cinderilla or the Little Glass Slipper
 'and': SKP
 'adjust': A/KWRUFT
 'their': THAEUR
-'double-pinners,': TKUBL H-PB XXX pinners KW-BG
+'double-pinners,': TKUBL H-PB xxx pinners KW-BG
 'their': THAEUR
 'red': RED
 'brushes,': PWRURBS KW-BG
@@ -453,14 +453,14 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'fashionable': TPAGS/-BL
 'maker.': PHAEURBG TP-PL
-''Double-pinners'--with': AE TKUBL H-PB XXX pinners AE H-PB H-PB W
+''Double-pinners'--with': AE TKUBL H-PB xxx pinners AE H-PB H-PB W
 'two': TWO
 'side-flaps': SAOEUD H-PB TPHRAPS
 'on': OPB
 'each': AOEFP
 'side--accurately': SAOEUD H-PB H-PB ABG/RAT/HREU
-'Cinderilla': XXX Cinderilla
-'was': WA
+'Cinderilla': xxx Cinderilla
+'was': WAS
 'likewise': HRAOEUBG/WAOEUS
 'called': KAULD
 'up': UP
@@ -476,12 +476,12 @@ Cinderilla or the Little Glass Slipper
 'for': TPOR
 'she': SHE
 'had': H
-'excellent': SKHREPBT
+'excellent': KPHREPBT
 'notions,': TPHOEG/-S KW-BG
 'and': SKP
 'advised': SRAOEUFD
 'them': THEPL
-'always': AULZ
+'always': AULS
 'for': TPOR
 'the': -T
 'best,': PWEFT KW-BG
@@ -504,14 +504,14 @@ Cinderilla or the Little Glass Slipper
 'do.': TKO TP-PL
 'As': AZ
 'she': SHE
-'was': WA
+'was': WAS
 'doing': TK*G
 'this,': TH KW-BG
 'they': THE
 'said': SAEUD
 'to': TO
 'her:': HER STPH-FPLT
-'"Cinderilla,': KR-GS XXX Cinderilla KW-BG
+'"Cinderilla,': KR-GS xxx Cinderilla KW-BG
 'would': WO
 'you': U
 'not': TPHOT
@@ -566,7 +566,7 @@ Cinderilla or the Little Glass Slipper
 'Any': TPHEU
 'one': WUPB
 'but': PWUT
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'would': WO
 'have': SR
 'dressed': TKREFD
@@ -575,7 +575,7 @@ Cinderilla or the Little Glass Slipper
 'awry,': AU/REU KW-BG
 'but': PWUT
 'she': SHE
-'was': WA
+'was': WAS
 'very': SRE
 'good,': TKPWAOD KW-BG
 'and': SKP
@@ -637,7 +637,7 @@ Cinderilla or the Little Glass Slipper
 'to': TO
 'Court,': KORT KW-BG
 'and': SKP
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'followed': TPOLD
 'them': THEPL
 'with': W
@@ -670,7 +670,7 @@ Cinderilla or the Little Glass Slipper
 'asked': SK-D
 'her': HER
 'what': WHA
-'was': WA
+'was': WAS
 'the': -T
 'matter.': PHAERT TP-PL
 '"I': KR-GS EU
@@ -682,7 +682,7 @@ Cinderilla or the Little Glass Slipper
 'I': EU
 'could--;"': KO H-PB H-PB STPH*FPLT KR-GS
 'she': SHE
-'was': WA
+'was': WAS
 'not': TPHOT
 'able': ABL
 'to': TO
@@ -701,7 +701,7 @@ Cinderilla or the Little Glass Slipper
 'of': -F
 'hers,': HERS KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'a': AEU
 'Fairy,': TPAEUR/REU KW-BG
 'said': SAEUD
@@ -719,9 +719,9 @@ Cinderilla or the Little Glass Slipper
 'it': T
 'not': TPHOT
 'so?"': SO H-F KR-GS
-'"Y--es,"': KR-GS KWR*/SP-S H-PB H-PB *E/SP-S/-S KW-BG KR-GS
+'"Y--es,"': KR-GS KWR*P H-PB H-PB AOE/-S KW-BG KR-GS
 'cried': KRAOEUD
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 'with': W
 'a': AEU
 'great': TKPWRAET
@@ -763,7 +763,7 @@ Cinderilla or the Little Glass Slipper
 'me': PHE
 'a': AEU
 'pumpkin."': PUPL/KEUPB TP-PL KR-GS
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'went': WEPBT
 'immediately': PHAOELD
 'to': TO
@@ -772,7 +772,7 @@ Cinderilla or the Little Glass Slipper
 'finest': TPAOEUPB/EFT
 'she': SHE
 'could': KO
-'get,': TKPW-T KW-BG
+'get,': TKPWET KW-BG
 'and': SKP
 'brought': PWRAUT
 'it': T
@@ -819,7 +819,7 @@ Cinderilla or the Little Glass Slipper
 'and': SKP
 'the': -T
 'pumpkin': PUPL/KEUPB
-'was': WA
+'was': WAS
 'instantly': EUPB/STAPBT/HREU
 'turned': TURPBD
 'into': TPHAO
@@ -848,7 +848,7 @@ Cinderilla or the Little Glass Slipper
 'alive,': A/HRAOEUF KW-BG
 'and': SKP
 'ordered': ORD/-D
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'to': TO
 'lift': HREUFT
 'up': UP
@@ -872,7 +872,7 @@ Cinderilla or the Little Glass Slipper
 'wand,': WAPBD KW-BG
 'the': -T
 'mouse': PHOUS
-'was': WA
+'was': WAS
 'at': AT
 'that': THA
 'moment': PHOEPLT
@@ -890,12 +890,12 @@ Cinderilla or the Little Glass Slipper
 'set': SET
 'of': -F
 'six': SEUBGS
-'horses': HORS/-S
+'horses': HORSZ
 'of': -F
 'a': AEU
 'beautiful': PWAOUFL
-'mouse-coloured': PHOUS H-PB KHROURD
-'dapple-grey.': TKAP/-L H-PB TKPRAEU TP-PL
+'mouse-coloured': PHOUS H-PB KHROURD/A*U
+'dapple-grey.': TKAP/-L H-PB TKPWRA*EU TP-PL
 'Being': -BG
 'at': AT
 'a': AEU
@@ -909,7 +909,7 @@ Cinderilla or the Little Glass Slipper
 'and': SKP
 'see,"': SAOE KW-BG KR-GS
 'says': SEZ
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 '"if': KR-GS TP
 'there': THR
 'be': -B
@@ -938,7 +938,7 @@ Cinderilla or the Little Glass Slipper
 '"go': KR-GS TKPW
 'and': SKP
 'look."': HRAOBG TP-PL KR-GS
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'brought': PWRAUT
 'the': -T
 'trap': TRAP
@@ -955,7 +955,7 @@ Cinderilla or the Little Glass Slipper
 'The': -T
 'Fairy': TPAEUR/REU
 'made': PHAED
-'choice': KHOUS
+'choice': KHOEUS
 'of': -F
 'one': WUPB
 'of': -F
@@ -964,7 +964,7 @@ Cinderilla or the Little Glass Slipper
 'which': WEU
 'had': H
 'the': -T
-'largest': HRARPBL/EFT
+'largest': HRARPBLG/EFT
 'beard,': PWAERD KW-BG
 'and,': SKP KW-BG
 'having': SR-G
@@ -973,8 +973,8 @@ Cinderilla or the Little Glass Slipper
 'with': W
 'her': HER
 'wand,': WAPBD KW-BG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'turned': TURPBD
 'into': TPHAO
 'a': AEU
@@ -988,7 +988,7 @@ Cinderilla or the Little Glass Slipper
 'whiskers': WHEUS/KER/-S
 'eyes': AO*EUS
 'ever': -FR
-'beheld.': XXX beheld TP-PL
+'beheld.': PWE/HELD TP-PL
 'After': AF
 'that,': THA KW-BG
 'she': SHE
@@ -1027,7 +1027,7 @@ Cinderilla or the Little Glass Slipper
 'them': THEPL
 'into': TPHAO
 'six': SEUBGS
-'footmen,': XXX footmen KW-BG
+'footmen,': xxx footmen KW-BG
 'who': WHO
 'skipped': SKEUPD
 'up': UP
@@ -1039,7 +1039,7 @@ Cinderilla or the Little Glass Slipper
 'their': THAEUR
 'liveries': HR*EUF/REU/KWREU/-S
 'all': AUL
-'bedaubed': XXX bedaubed
+'bedaubed': xxx bedaubed
 'with': W
 'gold': TKPWOELD
 'and': SKP
@@ -1065,13 +1065,13 @@ Cinderilla or the Little Glass Slipper
 'then': THEPB
 'said': SAEUD
 'to': TO
-'Cinderilla:': XXX Cinderilla STPH-FPLT
+'Cinderilla:': xxx Cinderilla STPH-FPLT
 '"Well,': KR-GS WEL KW-BG
 'you': U
 'see': SAOE
 'here': HAOER
 'an': APB
-'equipage': XXX equipage
+'equipage': xxx equipage
 'fit': TPEUT
 'to': TO
 'go': TKPW
@@ -1085,7 +1085,7 @@ Cinderilla or the Little Glass Slipper
 'pleased': PHRAOEFD
 'with': W
 'it?"': T H-F KR-GS
-'"O': KR-GS O*/SP-S
+'"O': KR-GS O*P
 'yes,"': KWRE KW-BG KR-GS
 'cried': KRAOEUD
 'she,': SHE KW-BG
@@ -1155,17 +1155,17 @@ Cinderilla or the Little Glass Slipper
 'this': TH
 'ancient': AEURBT
 'tale': TAEL
-'Cinderilla': XXX Cinderilla
-'was': WA
+'Cinderilla': xxx Cinderilla
+'was': WAS
 'given': TKPWEUFPB
-'_pantoufles': RUPBD XXX pantoufles
+'_pantoufles': RUPBD xxx pantoufles
 'de': TK*E
-'vair_--_i.e._,': XXX vair RUPBD H-PB H-PB RUPBD EU TP-PL *E/SP-S TP-PL RUPBD KW-BG
+'vair_--_i.e._,': xxx vair RUPBD H-PB H-PB RUPBD *EU TP-PL *E TP-PL RUPBD KW-BG
 'of': -F
 'a': AEU
-'grey,': TKPRAEU KW-BG
+'grey,': TKPWRA*EU KW-BG
 'or': OR
-'grey': TKPRAEU
+'grey': TKPWRA*EU
 'and': SKP
 'white,': WHAOEUT KW-BG
 'fur,': TPUR KW-BG
@@ -1182,10 +1182,10 @@ Cinderilla or the Little Glass Slipper
 'controversy,': KROEFR KW-BG
 'but': PWUT
 'which': WEU
-'was': WA
+'was': WAS
 'probably': PROBL
 'a': AEU
-'grey': TKPRAEU
+'grey': TKPWRA*EU
 'squirrel.': SKWEURL TP-PL
 'Long': HROPBG
 'before': PW-F
@@ -1194,7 +1194,7 @@ Cinderilla or the Little Glass Slipper
 'century': KROEURPBT
 'the': -T
 'word': WORD
-'_vair_': RUPBD XXX vair RUPBD
+'_vair_': RUPBD xxx vair RUPBD
 'had': H
 'passed': PAFD
 'out': OUT
@@ -1203,13 +1203,13 @@ Cinderilla or the Little Glass Slipper
 'except': KPEPT
 'as': AZ
 'a': AEU
-'heraldic': XXX heraldic
+'heraldic': xxx heraldic
 'term,': TERPL KW-BG
 'and': SKP
 'had': H
 'ceased': KRAES/-D
 'to': TO
-'convey': KAUP/SRAEU
+'convey': KAUPB/SREU
 'any': TPHEU
 'meaning': PHAOEPBG
 'to': TO
@@ -1217,9 +1217,9 @@ Cinderilla or the Little Glass Slipper
 'people.': PAOEPL TP-PL
 'Thus': THUS
 'the': -T
-'_pantoufles': RUPBD XXX pantoufles
+'_pantoufles': RUPBD xxx pantoufles
 'de': TK*E
-'vair_': XXX vair RUPBD
+'vair_': xxx vair RUPBD
 'of': -F
 'the': -T
 'fairy': TPAEUR/REU
@@ -1231,9 +1231,9 @@ Cinderilla or the Little Glass Slipper
 'tradition,': TRAGS KW-BG
 'the': -T
 'homonymous': HO/PHO/TPHEUPL/OUS
-'_pantoufles': RUPBD XXX pantoufles
+'_pantoufles': RUPBD xxx pantoufles
 'de': TK*E
-'verre_,': XXX verre RUPBD KW-BG
+'verre_,': xxx verre RUPBD KW-BG
 'or': OR
 'glass': TKPWHRAS
 'slippers,': SHREUP/ERS KW-BG
@@ -1287,14 +1287,14 @@ Cinderilla or the Little Glass Slipper
 'pumpkin': PUPL/KEUPB
 'again,': TKPWEPB KW-BG
 'her': HER
-'horses': HORS/-S
+'horses': HORSZ
 'mice,': PHAOEUS KW-BG
 'her': HER
 'coachman': KOEFP/PHAPB
 'a': AEU
 'rat,': RAT KW-BG
 'her': HER
-'footmen': XXX footmen
+'footmen': xxx footmen
 'lizards,': HREUZ/ARDZ KW-BG
 'and': SKP
 'her': HER
@@ -1332,10 +1332,10 @@ Cinderilla or the Little Glass Slipper
 'for': TPOR
 'joy.': SKWROEU TP-PL
 'The': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son,': SOPB KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'told': TOLD
 'that': THA
 'a': AEU
@@ -1344,14 +1344,14 @@ Cinderilla or the Little Glass Slipper
 'whom': WHOPL
 'nobody': TPHOEB
 'knew,': TPHAOU KW-BG
-'was': WA
+'was': WAS
 'come,': KOPL KW-BG
 'ran': RAPB
 'out': OUT
 'to': TO
 'receive': SAOEF
 'her;': HER STPH*FPLT
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'her': HER
 'his': HEUS
@@ -1374,7 +1374,7 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'company.': K-P TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'immediately': PHAOELD
 'a': AEU
 'profound': PRO/TPOUPBD
@@ -1391,11 +1391,11 @@ Cinderilla or the Little Glass Slipper
 'play,': PHRAEU KW-BG
 'so': SO
 'attentive': A/TEPBT/EUF
-'was': WA
+'was': WAS
 'every': EF
 'one': WUPB
 'to': TO
-'contemplate': KAUPBT/PHRAEUT
+'contemplate': KAUPB/TPHRAEUT
 'the': -T
 'singular': SEUPBG/HRAR
 'beauty': PWAOUT
@@ -1405,20 +1405,20 @@ Cinderilla or the Little Glass Slipper
 'new': TPHU
 'comer.': KOPL/ER TP-PL
 'Nothing': TPHOG
-'was': WA
+'was': WAS
 'then': THEPB
-'heard': HERD
+'heard': HAERD
 'but': PWUT
 'a': AEU
 'confused': KAOUFD
 'noise': TPHOEUS
 'of,': -F KW-BG
-'"Ha!': KR-GS HAE SKHRAPL
+'"Ha!': KR-GS HA SKHRAPL
 'how': HOU
 'handsome': HAPBD/SOPL
 'she': SHE
 'is!': S SKHRAPL
-'Ha!': HAE SKHRAPL
+'Ha!': HA SKHRAPL
 'how': HOU
 'handsome': HAPBD/SOPL
 'she': SHE
@@ -1428,8 +1428,8 @@ Cinderilla or the Little Glass Slipper
 'himself,': H*EUPLS KW-BG
 'old': OLD
 'as': AZ
-'he': E
-'was,': WA KW-BG
+'he': HE
+'was,': WAS KW-BG
 'could': KO
 'not': TPHOT
 'help': HEP
@@ -1442,12 +1442,12 @@ Cinderilla or the Little Glass Slipper
 'softly,': SOFT/HREU KW-BG
 '"that': KR-GS THA
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'long': HROPBG
 'time': TAOEUPL
 'since': SEUPBS
-'he': E
+'he': HE
 'had': H
 'seen': SAOEPB
 'so': SO
@@ -1460,7 +1460,7 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'ladies': HRAEUDZ
 'were': WR
-'busied': XXX busied
+'busied': xxx busied
 'in': TPH
 'considering': KR-G
 'her': HER
@@ -1478,7 +1478,7 @@ Cinderilla or the Little Glass Slipper
 'after': AF
 'the': -T
 'same': SAEUPL
-'pattern,': AT/TERPB KW-BG
+'pattern,': PA*RPBT KW-BG
 'provided': PROE/SRAOUD/-D
 'they': THE
 'could': KO
@@ -1495,14 +1495,14 @@ Cinderilla or the Little Glass Slipper
 'make': PHAEUBG
 'them.': THEPL TP-PL
 'The': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
 'conducted': KUBGTD
 'her': HER
 'to': TO
 'the': -T
 'most': PHOFT
-'honourable': HOPB/RABL
+'honourable': HO*UPB/RABL
 'seat,': SAOET KW-BG
 'and': SKP
 'afterwards': A*FRDZ
@@ -1526,10 +1526,10 @@ Cinderilla or the Little Glass Slipper
 'more': PHOR
 'admired': AD/PHAOEURD
 'her.': HER TP-PL
-'A': AEU
+'A': KPA*/AEU
 'fine': TPAOEUPB
 'collation': KOL/HRAEUGS
-'was': WA
+'was': WAS
 'served': SEFRBD
 'up,': UP KW-BG
 'whereof': WROF
@@ -1542,9 +1542,9 @@ Cinderilla or the Little Glass Slipper
 'morsel,': PHOR/SEL KW-BG
 'so': SO
 'intently': EUPB/TEPBT/HREU
-'was': WA
-'he': E
-'busied': XXX busied
+'was': WAS
+'he': HE
+'busied': xxx busied
 'in': TPH
 'gazing': TKPWAEUFG
 'on': OPB
@@ -1557,10 +1557,10 @@ Cinderilla or the Little Glass Slipper
 'by': PWEU
 'her': HER
 'sisters,': ST-RS KW-BG
-'shewing': XXX shewing
+'shewing': S*/H*/*E/W*/-G
 'them': THEPL
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'civilities,': SEUFLT/KWREU/-S KW-BG
 'giving': TKPWEUFG
 'them': THEPL
@@ -1589,14 +1589,14 @@ Cinderilla or the Little Glass Slipper
 'know': TPHOE
 'her.': HER TP-PL
 'While': WHAOEUL
-'Cinderilla': XXX Cinderilla
-'was': WA
+'Cinderilla': xxx Cinderilla
+'was': WAS
 'thus': THUS
 'amusing': A/PHAOUFG
 'her': HER
 'sisters,': ST-RS KW-BG
 'she': SHE
-'heard': HERD
+'heard': HAERD
 'the': -T
 'clock': KHROBG
 'strike': STRAOEUBG
@@ -1609,12 +1609,12 @@ Cinderilla or the Little Glass Slipper
 'immediately': PHAOELD
 'made': PHAED
 'a': AEU
-'curtesy': XXX curtesy
+'curtesy': xxx curtesy
 'to': TO
 'the': -T
 'company,': K-P KW-BG
 'and': SKP
-'hasted': HAEUFT/-D
+'hasted': HA*FT/-D
 'away': A/WAEU
 'as': AZ
 'fast': TPAFT
@@ -1654,14 +1654,14 @@ Cinderilla or the Little Glass Slipper
 'ball,': PWAUL KW-BG
 'because': PWAU
 'the': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
 'had': H
 'desired': STKAOEURD
 'her."': HER TP-PL KR-GS
 'As': AZ
 'she': SHE
-'was': WA
+'was': WAS
 'eagerly': AOERLG
 'telling': TELG
 'her': HER
@@ -1680,7 +1680,7 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'door': TKAOR
 'which': WEU
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'ran': RAPB
 'and': SKP
 'opened.': OEPD TP-PL
@@ -1691,7 +1691,7 @@ Cinderilla or the Little Glass Slipper
 'stayed,"': STAEUD KW-BG KR-GS
 'cried': KRAOEUD
 'she,': SHE KW-BG
-'gaping,': TKPWAP/-G KW-BG
+'gaping,': TKPWAEUP/-G KW-BG
 'rubbing': RUBG
 'her': HER
 'eyes,': AO*EUS KW-BG
@@ -1726,7 +1726,7 @@ Cinderilla or the Little Glass Slipper
 'home.': HOEPL TP-PL
 '"If': KR-GS TP
 'thou': THO*U
-'hadst': XXX hadst
+'hadst': xxx hadst
 'been': PW-PB
 'at': AT
 'the': -T
@@ -1737,7 +1737,7 @@ Cinderilla or the Little Glass Slipper
 'her': HER
 'sisters,': ST-RS KW-BG
 '"thou': KR-GS THO*U
-'wouldst': XXX wouldst
+'wouldst': WO/S*/T*
 'not': TPHOT
 'have': SR
 'been': PW-PB
@@ -1754,16 +1754,16 @@ Cinderilla or the Little Glass Slipper
 'most': PHOFT
 'beautiful': PWAOUFL
 'ever': -FR
-'was': WA
+'was': WAS
 'seen': SAOEPB
 'with': W
 'mortal': PHOR/TAL
 'eyes;': AO*EUS STPH*FPLT
 'she': SHE
-'shewed': XXX shewed
+'shewed': S*/H*/*E/W*/-D
 'us': US
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'civilities,': SEUFLT/KWREU/-S KW-BG
 'and': SKP
 'gave': TKPWAEUF
@@ -1771,8 +1771,8 @@ Cinderilla or the Little Glass Slipper
 'oranges': ORPBGS
 'and': SKP
 'citrons."': SEUT/ROPB/-S TP-PL KR-GS
-'Cinderilla': XXX Cinderilla
-'was': WA
+'Cinderilla': xxx Cinderilla
+'was': WAS
 'transported': TR-PTD
 'with': W
 'joy;': SKWROEU STPH*FPLT
@@ -1796,9 +1796,9 @@ Cinderilla or the Little Glass Slipper
 'and': SKP
 'that': THA
 'the': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
-'was': WA
+'was': WAS
 'very': SRE
 'anxious': KPUS
 'to': TO
@@ -1814,10 +1814,10 @@ Cinderilla or the Little Glass Slipper
 'know': TPHOE
 'who': WHO
 'she': SHE
-'was.': WA TP-PL
+'was.': WAS TP-PL
 'At': AT
 'this': TH
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 'smiling,': SPHAOEULG KW-BG
 'replied:': RE/PHRAOEUD STPH-FPLT
 '"She': KR-GS SHE
@@ -1849,13 +1849,13 @@ Cinderilla or the Little Glass Slipper
 'yellow': KWREL/OE
 'suit': SAOUT
 'of': -F
-'cloaths': XXX cloaths
+'cloaths': xxx cloaths
 'which': WEU
 'you': U
 'wear': WAER
 'every': EF
 'day!"': TKAEU SKHRAPL KR-GS
-'"Ay,': KR-GS XXX Ay KW-BG
+'"Ay,': KR-GS A/KWR*/SP-S KW-BG
 'to': TO
 'be': -B
 'sure!"': SHUR SKHRAPL KR-GS
@@ -1864,7 +1864,7 @@ Cinderilla or the Little Glass Slipper
 'Charlotte,': KHARL/OT KW-BG
 '"lend': KR-GS HREPBD
 'my': PHEU
-'cloaths': XXX cloaths
+'cloaths': xxx cloaths
 'to': TO
 'such': SUFP
 'a': AEU
@@ -1873,18 +1873,18 @@ Cinderilla or the Little Glass Slipper
 'as': AZ
 'thou': THO*U
 'art;': ART STPH*FPLT
-'who's': WHO*S
+'who's': WHOES
 'the': -T
 'fool': TPAOL
 'then?"': THEPB H-F KR-GS
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 'indeed,': TPHAOEPBD KW-BG
 'expected': KP-PTD
 'some': SOPL
 'such': SUFP
 'answer,': AEPBS KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'very': SRE
 'glad': TKPWHRAD
 'of': -F
@@ -1909,7 +1909,7 @@ Cinderilla or the Little Glass Slipper
 'she': SHE
 'asked': SK-D
 'for': TPOR
-'jestingly.': XXX jestingly TP-PL
+'jestingly.': xxx jestingly TP-PL
 'The': -T
 'next': TPHEGT
 'day': TKAEU
@@ -1922,8 +1922,8 @@ Cinderilla or the Little Glass Slipper
 'ball,': PWAUL KW-BG
 'and': SKP
 'so': SO
-'was': WA
-'Cinderilla,': XXX Cinderilla KW-BG
+'was': WAS
+'Cinderilla,': xxx Cinderilla KW-BG
 'but': PWUT
 'dressed': TKREFD
 'more': PHOR
@@ -1931,10 +1931,10 @@ Cinderilla or the Little Glass Slipper
 'than': THAPB
 'before.': PW-F TP-PL
 'The': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
-'was': WA
-'always': AULZ
+'was': WAS
+'always': AULS
 'by': PWEU
 'her,': HER KW-BG
 'and': SKP
@@ -1951,7 +1951,7 @@ Cinderilla or the Little Glass Slipper
 'whom': WHOPL
 'all': AUL
 'this': TH
-'was': WA
+'was': WAS
 'so': SO
 'far': TPAR
 'from': TPR
@@ -2033,13 +2033,13 @@ Cinderilla or the Little Glass Slipper
 'without': WOUT
 'coach': KOEFP
 'or': OR
-'footmen,': XXX footmen KW-BG
+'footmen,': xxx footmen KW-BG
 'and': SKP
 'in': TPH
 'her': HER
 'nasty': TPHAS/TEU
 'old': OLD
-'cloaths,': XXX cloaths KW-BG
+'cloaths,': xxx cloaths KW-BG
 'having': SR-G
 'nothing': TPHOG
 'left': HREFT
@@ -2113,7 +2113,7 @@ Cinderilla or the Little Glass Slipper
 'from': TPR
 'the': -T
 'ball,': PWAUL KW-BG
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'asked': SK-D
 'them': THEPL
 'if': TP
@@ -2166,13 +2166,13 @@ Cinderilla or the Little Glass Slipper
 'and': SKP
 'which': WEU
 'the': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
 'had': H
 'taken': TAEPB
 'up;': UP STPH*FPLT
 'that': THA
-'he': E
+'he': HE
 'had': H
 'done': TKOPB
 'nothing': TPHOG
@@ -2192,8 +2192,8 @@ Cinderilla or the Little Glass Slipper
 'that': THA
 'most': PHOFT
 'certainly': SERPBL
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'very': SRE
 'much': PHUFP
 'in': TPH
@@ -2210,7 +2210,7 @@ Cinderilla or the Little Glass Slipper
 'What': WHA
 'they': THE
 'said': SAEUD
-'was': WA
+'was': WAS
 'very': SRE
 'true;': TRAOU STPH*FPLT
 'for': TPOR
@@ -2219,7 +2219,7 @@ Cinderilla or the Little Glass Slipper
 'days': TKAEUS
 'after,': AF KW-BG
 'the': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
 'caused': KAUFD
 'it': T
@@ -2231,7 +2231,7 @@ Cinderilla or the Little Glass Slipper
 'of': -F
 'trumpet,': TRUPLT KW-BG
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'marry': PHAER
 'her': HER
@@ -2244,7 +2244,7 @@ Cinderilla or the Little Glass Slipper
 'fit.': TPEUT TP-PL
 'They': THE
 'whom': WHOPL
-'he': E
+'he': HE
 'employed': PHOEUD
 'began': TKPWAPB
 'to': TO
@@ -2265,7 +2265,7 @@ Cinderilla or the Little Glass Slipper
 'in': TPH
 'vain.': SRA*EUPB TP-PL
 'It': T
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'to': TO
 'the': -T
@@ -2288,9 +2288,9 @@ Cinderilla or the Little Glass Slipper
 'they': THE
 'could': KO
 'not': TPHOT
-'effect': TPEBT
+'effect': EFBGT
 'it.': T TP-PL
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 'who': WHO
 'saw': SAU
 'all': AUL
@@ -2325,7 +2325,7 @@ Cinderilla or the Little Glass Slipper
 'The': -T
 'gentleman': SKWRA*PL
 'who': WHO
-'was': WA
+'was': WAS
 'sent': SEPBT
 'to': TO
 'try': TREU
@@ -2334,7 +2334,7 @@ Cinderilla or the Little Glass Slipper
 'looked': HRAOBGD
 'earnestly': ERPB/EFT/HREU
 'at': AT
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 'and': SKP
 'finding': TPAOEPBGD
 'her': HER
@@ -2342,7 +2342,7 @@ Cinderilla or the Little Glass Slipper
 'handsome,': HAPBD/SOPL KW-BG
 'said': SAEUD
 'it': T
-'was': WA
+'was': WAS
 'but': PWUT
 'just': SKWRUFT
 'that': THA
@@ -2351,7 +2351,7 @@ Cinderilla or the Little Glass Slipper
 'try,': TREU KW-BG
 'and': SKP
 'that': THA
-'he': E
+'he': HE
 'had': H
 'orders': ORDZ
 'to': TO
@@ -2359,10 +2359,10 @@ Cinderilla or the Little Glass Slipper
 'every': EF
 'one': WUPB
 'make': PHAEUBG
-'tryal.': XXX tryal TP-PL
-'He': E
+'tryal.': xxx tryal TP-PL
+'He': HE
 'invited': EUPB/SRAOEUTD
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'to': TO
 'sit': SEUT
 'down,': TKOUPB KW-BG
@@ -2373,7 +2373,7 @@ Cinderilla or the Little Glass Slipper
 'to': TO
 'her': HER
 'foot,': TPAOT KW-BG
-'he': E
+'he': HE
 'found': TPOUPBD
 'it': T
 'went': WEPBT
@@ -2398,7 +2398,7 @@ Cinderilla or the Little Glass Slipper
 'sisters': ST-RS
 'were': WR
 'in': TPH
-'was': WA
+'was': WAS
 'excessively': KPES/EUFL
 'great,': TKPWRAET KW-BG
 'but': PWUT
@@ -2406,7 +2406,7 @@ Cinderilla or the Little Glass Slipper
 'abundantly': A/PWUPBD/APBT/HREU
 'greater,': TKPWRAERT KW-BG
 'when': WHEPB
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'pulled': PULD
 'out': OUT
 'of': -F
@@ -2432,8 +2432,8 @@ Cinderilla or the Little Glass Slipper
 'with': W
 'her': HER
 'wand,': WAPBD KW-BG
-'Cinderilla's': XXX Cinderilla AE S*/SP-S
-'cloaths,': XXX cloaths KW-BG
+'Cinderilla's': xxx Cinderilla AES
+'cloaths,': xxx cloaths KW-BG
 'made': PHAED
 'them': THEPL
 'richer': REUFP/*ER
@@ -2486,7 +2486,7 @@ Cinderilla or the Little Glass Slipper
 'made': PHAED
 'her': HER
 'undergo.': UPBD/TKPW TP-PL
-'Cinderilla': XXX Cinderilla
+'Cinderilla': xxx Cinderilla
 'took': TAOBG
 'them': THEPL
 'up,': UP KW-BG
@@ -2507,12 +2507,12 @@ Cinderilla or the Little Glass Slipper
 'and': SKP
 'desired': STKAOEURD
 'them': THEPL
-'always': AULZ
+'always': AULS
 'to': TO
 'love': HRUF
 'her.': HER TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'conducted': KUBGTD
 'to': TO
 'the': -T
@@ -2521,8 +2521,8 @@ Cinderilla or the Little Glass Slipper
 'dressed': TKREFD
 'as': AZ
 'she': SHE
-'was;': WA STPH*FPLT
-'he': E
+'was;': WAS STPH*FPLT
+'he': HE
 'thought': THAUT
 'her': HER
 'more': PHOR
@@ -2536,9 +2536,9 @@ Cinderilla or the Little Glass Slipper
 'after,': AF KW-BG
 'married': PHAERD
 'her.': HER TP-PL
-'Cinderilla,': XXX Cinderilla KW-BG
+'Cinderilla,': xxx Cinderilla KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'no': TPHO
 'less': HRES
 'good': TKPWAOD

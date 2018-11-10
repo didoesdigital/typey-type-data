@@ -7,7 +7,7 @@ The Thorny Road of Honor
 'lives': HREUFS
 'of': -F
 'the': -T
-'"Thorny': KR-GS THOR/TPH*EU
+'"Thorny': KR-GS THORPB/KWREU
 'Road': RAOD
 'of': -F
 'Honor,"': HO*RPB KW-BG KR-GS
@@ -63,7 +63,7 @@ The Thorny Road of Honor
 'has': HAS
 'its': EUTS
 'harmonious': AR/PHOEPB/KWROUS
-'explanation': SHRAPBGS
+'explanation': SPHRAPBGS
 'here': HAOER
 'on': OPB
 'earth,': *ERT KW-BG
@@ -89,7 +89,7 @@ The Thorny Road of Honor
 'is': S
 'like': HRAOEUBG
 'a': AEU
-'magic': PHA/SKWREUBG
+'magic': PHAPBLG/EUBG
 'lantern': HRAPB/TERPB
 'that': THA
 'displays': TKPHRAEU/-S
@@ -113,11 +113,11 @@ The Thorny Road of Honor
 'the': -T
 'martyrs': PHART/ERS
 'of': -F
-'genius,': SKWRAOEPB/KWROUS KW-BG
+'genius,': SKWRAOEPBS/KWRUS KW-BG
 'wandered': WAPBD/-D
 'along': A/HROPBG
 'the': -T
-'thorny': THOR/TPH*EU
+'thorny': THORPB/KWREU
 'road': RAOD
 'of': -F
 'honor.': HO*RPB TP-PL
@@ -159,7 +159,7 @@ The Thorny Road of Honor
 'victories.': SREUBGT/REUS TP-PL
 'Let': HRET
 'us': US
-'contemplate': KAUPBT/PHRAEUT
+'contemplate': KAUPB/TPHRAEUT
 'here': HAOER
 'and': SKP
 'there': THR
@@ -188,7 +188,7 @@ The Thorny Road of Honor
 'upon': POPB
 'a': AEU
 'crowded': KROUD/-D
-'amphitheatre.': A*PL/THAOERT TP-PL
+'amphitheatre.': A*PL/THAOERT/A*U TP-PL
 'Out': OUT
 'of': -F
 'the': -T
@@ -216,14 +216,14 @@ The Thorny Road of Honor
 'man': PHAPB
 'in': TPH
 'Athens,': AT/*EPBS KW-BG
-'he': E
+'he': HE
 'who': WHO
 'had': H
 'been': PW-PB
 'the': -T
 'shield': SHAOELD
 'and': SKP
-'defence': TKEFPB
+'defence': TKEFPB/A*U
 'of': -F
 'the': -T
 'people': PAOEPL
@@ -251,7 +251,7 @@ The Thorny Road of Honor
 'battle,': PWA*LT KW-BG
 'and': SKP
 'whose': WHOZ
-'genius': SKWRAOEPB/KWROUS
+'genius': SKWRAOEPBS/KWRUS
 'soared': SAORD
 'far': TPAR
 'above': PWOF
@@ -260,16 +260,16 @@ The Thorny Road of Honor
 'of': -F
 'the': -T
 'ancients.': AEURBT/-S TP-PL
-'He': E
+'He': HE
 'himself': H*EUPLS
 'is': S
 'present;': PREPBT STPH*FPLT
-'he': E
+'he': HE
 'has': HAS
 'risen': REUFPB
 'from': TPR
 'the': -T
-'spectator's': SPEBGT/AEURT AE S*/SP-S
+'spectator's': SPEBGT/AEURT AES
 'bench,': PWEFRPB KW-BG
 'and': SKP
 'has': HAS
@@ -288,12 +288,12 @@ The Thorny Road of Honor
 'himself': H*EUPLS
 'and': SKP
 'the': -T
-'caricature': KARBG/KHUR
+'caricature': KARBG/TAOUR
 'on': OPB
 'the': -T
 'stage.': STAEUPBLG TP-PL
 'There': THR
-'he': E
+'he': HE
 'stands': STAPBDZ
 'before': PW-F
 'them,': THEPL KW-BG
@@ -342,12 +342,12 @@ The Thorny Road of Honor
 'at': AT
 'him': HEUPL
 'as': AZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'in': TPH
 'his': HEUS
 'lifetime.': HRAOEUF/TAOEUPL TP-PL
-'He': E
+'He': HE
 'wanders': WAPBD/ERS
 'on': OPB
 'foot': TPAOT
@@ -366,11 +366,11 @@ The Thorny Road of Honor
 'for': TPOR
 'the': -T
 'morrow': PHOR/ROE
-'turns': TURPS
+'turns': TURPBS
 'his': HEUS
 'hair': HAEUR
 'gray!': TKPWRAEU SKHRAPL
-'He,': E KW-BG
+'He,': HE KW-BG
 'the': -T
 'great': TKPWRAET
 'seer,': SAOER KW-BG
@@ -385,7 +385,7 @@ The Thorny Road of Honor
 'thorn': THORPB
 'tears': TAERS
 'the': -T
-'mantle': PHAPBT/-L
+'mantle': PHAPBT/*L
 'of': -F
 'the': -T
 'king': KEUPBG
@@ -437,7 +437,7 @@ The Thorny Road of Honor
 'portion': PORGS
 'of': -F
 'the': -T
-'thorny': THOR/TPH*EU
+'thorny': THORPB/KWREU
 'road': RAOD
 'of': -F
 'honor,': HO*RPB KW-BG
@@ -496,7 +496,7 @@ The Thorny Road of Honor
 'of': -F
 'the': -T
 'country.': KREU TP-PL
-'He': E
+'He': HE
 'whom': WHOPL
 'envy': EPB/SREU
 'and': SKP
@@ -517,11 +517,11 @@ The Thorny Road of Honor
 'town': TOUPB
 'in': TPH
 'which': WEU
-'he': E
+'he': HE
 'has': HAS
 'taken': TAEPB
 'refuge.': RAF/AOUPBLG TP-PL
-'A': AEU
+'A': KPA*/AEU
 'poor': PAOR
 'corpse': KORPS
 'is': S
@@ -544,18 +544,18 @@ The Thorny Road of Honor
 'dead': TKED
 'man': PHAPB
 'is': S
-'he': E
+'he': HE
 'whom': WHOPL
 'they': THE
 'have': SR
 'been': PW-PB
 'sent': SEPBT
 'to': TO
-'seek—Firdusi—who': SAOEBG EPL/TKA*RB XXX Firdusi EPL/TKA*RB WHO
+'seek—Firdusi—who': SAOEBG EPL/TKA*RB xxx Firdusi EPL/TKA*RB WHO
 'has': HAS
 'wandered': WAPBD/-D
 'the': -T
-'Thorny': THOR/TPH*EU
+'Thorny': THORPB/KWREU
 'road': RAOD
 'of': -F
 'honor': HO*RPB
@@ -583,18 +583,18 @@ The Thorny Road of Honor
 'palace': PAL/AS
 'in': TPH
 'the': -T
-'capital': KA*L
+'capital': KAPLT
 'of': -F
 'Portugal,': PORT/TPWAL KW-BG
 'and': SKP
 'begs.': PWEGS TP-PL
-'He': E
+'He': HE
 'is': S
 'the': -T
 'submissive': SPHEUS/EUF
 'slave': SHRAEUF
 'of': -F
-'Camoens,': XXX Camoens KW-BG
+'Camoens,': xxx Camoens KW-BG
 'and': SKP
 'but': PWUT
 'for': TPOR
@@ -616,7 +616,7 @@ The Thorny Road of Honor
 'poet': POET
 'of': -F
 'the': -T
-'"Lusiad,"': KR-GS XXX Lusiad KW-BG KR-GS
+'"Lusiad,"': KR-GS xxx Lusiad KW-BG KR-GS
 'would': WO
 'die': TKAOEU
 'of': -F
@@ -629,7 +629,7 @@ The Thorny Road of Honor
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Camoens.': XXX Camoens TP-PL
+'Camoens.': xxx Camoens TP-PL
 'There': THR
 'is': S
 'a': AEU
@@ -654,7 +654,7 @@ The Thorny Road of Honor
 'made': PHAED
 'a': AEU
 'discovery,"': SKOEFR KW-BG KR-GS
-'he': E
+'he': HE
 'says,': SEZ KW-BG
 '"the': KR-GS -T
 'greatest': TKPWRAET/EFT
@@ -681,21 +681,21 @@ The Thorny Road of Honor
 'is': S
 'the': -T
 'man?': PHAPB H-F
-'"A': KR-GS AEU
+'"A': KR-GS KPA*/AEU
 'madman,"': PHAD/PHAPB KW-BG KR-GS
 'replies': RE/PHRAOEUS
 'the': -T
 'keeper': KAOEP/*ER
 'of': -F
 'the': -T
-'madhouse.': XXX madhouse TP-PL
+'madhouse.': xxx madhouse TP-PL
 '"What': KR-GS WHA
-'whimsical': WEUPL/SKAL
-'ideas': KWRADZ
+'whimsical': WEUPLS/K-L
+'ideas': KWR-DZ
 'these': THEZ
 'lunatics': HRAOUPB/TEUBGS
 'have!': SR SKHRAPL
-'He': E
+'He': HE
 'imagines': PHAPBLGS
 'that': THA
 'one': WUPB
@@ -728,13 +728,13 @@ The Thorny Road of Honor
 'not': TPHOT
 'understood': *URPBD
 'by': PWEU
-'Richelieu;': XXX Richelieu STPH*FPLT
+'Richelieu;': xxx Richelieu STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'dies': TKAOEUZ
 'in': TPH
 'the': -T
-'madhouse.': XXX madhouse TP-PL
+'madhouse.': xxx madhouse TP-PL
 'Here': HAOER
 'stands': STAPBDZ
 'Columbus,': KHRUPL/PWUS KW-BG
@@ -749,7 +749,7 @@ The Thorny Road of Honor
 'and': SKP
 'jeer,': SKWRAOER KW-BG
 'because': PWAU
-'he': E
+'he': HE
 'wanted': WAPBTD
 'to': TO
 'discover': SKOFR
@@ -757,7 +757,7 @@ The Thorny Road of Honor
 'new': TPHU
 'world;': WORLD STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'has': HAS
 'discovered': SKOFD
 'it.': T TP-PL
@@ -768,7 +768,7 @@ The Thorny Road of Honor
 'him': HEUPL
 'from': TPR
 'the': -T
-'breasts': PWREFT/-S
+'breasts': PWREFTS
 'of': -F
 'all,': AUL KW-BG
 'and': SKP
@@ -798,7 +798,7 @@ The Thorny Road of Honor
 'discoverer': SKOFR/*ER
 'of': -F
 'a': AEU
-'world—he': WORLD EPL/TKA*RB E
+'world—he': WORLD EPL/TKA*RB HE
 'who': WHO
 'lifted': HREUFTD
 'the': -T
@@ -813,13 +813,13 @@ The Thorny Road of Honor
 'it': T
 'to': TO
 'his': HEUS
-'king—he': KEUPBG EPL/TKA*RB E
+'king—he': KEUPBG EPL/TKA*RB HE
 'is': S
 'rewarded': RE/WARD/-D
 'with': W
 'iron': AOEURPB
 'chains.': KHAEUPBS TP-PL
-'He': E
+'He': HE
 'wishes': WEURBS
 'that': THA
 'these': THEZ
@@ -842,7 +842,7 @@ The Thorny Road of Honor
 'in': TPH
 'which': WEU
 'a': AEU
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'contemporaries': KPAER/KWREU/-S
 'reward': RE/WARD
 'good': TKPWAOD
@@ -855,7 +855,7 @@ The Thorny Road of Honor
 'crowding': KROUD/-G
 'on;': OPB STPH*FPLT
 'the': -T
-'thorny': THOR/TPH*EU
+'thorny': THORPB/KWREU
 'path': PA*T
 'of': -F
 'honor': HO*RPB
@@ -874,11 +874,11 @@ The Thorny Road of Honor
 'who': WHO
 'measured': PH-RBD
 'the': -T
-'mountains': PHOUPBT/APBS
+'mountains': PHOUPB/TAEUPBS
 'in': TPH
 'the': -T
 'moon;': PHAOPB STPH*FPLT
-'he': E
+'he': HE
 'who': WHO
 'forced': TPOFRD
 'his': HEUS
@@ -892,9 +892,9 @@ The Thorny Road of Honor
 'stars': STARS
 'and': SKP
 'planets;': PHRA*PBTS STPH*FPLT
-'he,': E KW-BG
+'he,': HE KW-BG
 'the': -T
-'mighty': PHAOEU/TEU
+'mighty': PHAOEUT/KWREU
 'man': PHAPB
 'who': WHO
 'understood': *URPBD
@@ -913,7 +913,7 @@ The Thorny Road of Honor
 'Blind': PWHRAOEUPBD
 'and': SKP
 'deaf': TKEF
-'he': E
+'he': HE
 'sits—an': SEUTS EPL/TKA*RB APB
 'old': OLD
 'man': PHAPB
@@ -950,7 +950,7 @@ The Thorny Road of Honor
 'denied': TKAOEPBD
 'the': -T
 'truth,': TRAO*UT KW-BG
-'he': E
+'he': HE
 'stamped': STA*PLD
 'upon': POPB
 'the': -T
@@ -966,7 +966,7 @@ The Thorny Road of Honor
 'a': AEU
 'woman': WOPL
 'of': -F
-'childlike': XXX childlike
+'childlike': xxx childlike
 'mind,': PHAOEUPBD KW-BG
 'yet': KWRET
 'full': TPUL
@@ -986,7 +986,7 @@ The Thorny Road of Honor
 'army,': AERPL KW-BG
 'and': SKP
 'brings': PWREUS
-'victory': SREUBG/TREU
+'victory': SREUBGT/REU
 'and': SKP
 'salvation': AL/SRAEUGS
 'to': TO
@@ -1028,14 +1028,14 @@ The Thorny Road of Honor
 'intellect,': SPWHREBGT KW-BG
 'writes': WRAOEUTS
 '"La': KR-GS HRA
-'Pucelle."': XXX Pucelle TP-PL KR-GS
+'Pucelle."': xxx Pucelle TP-PL KR-GS
 'At': AT
 'the': -T
 'Thing': THEUPBG
 'or': OR
 'Assembly': A/SEPL/PWHREU
 'at': AT
-'Viborg,': XXX Viborg KW-BG
+'Viborg,': xxx Viborg KW-BG
 'the': -T
 'Danish': TKAEUPB/EURB
 'nobles': TPHOEBLS
@@ -1054,7 +1054,7 @@ The Thorny Road of Honor
 'period': PAOERD
 'and': SKP
 'the': -T
-'lawgiver,': XXX lawgiver KW-BG
+'lawgiver,': xxx lawgiver KW-BG
 'and': SKP
 'throw': THROE
 'a': AEU
@@ -1076,7 +1076,7 @@ The Thorny Road of Honor
 'With': W
 'his': HEUS
 'finger': TPURPBG
-'he': E
+'he': HE
 'marks': PHARBGS
 'out': OUT
 'a': AEU
@@ -1103,7 +1103,7 @@ The Thorny Road of Honor
 'friend': TPREPBD
 'of': -F
 'the': -T
-'citizen': SEUT/SEPB
+'citizen': SEUT/*EPB
 'and': SKP
 'the': -T
 'peasant.': PEFPBT TP-PL
@@ -1132,7 +1132,7 @@ The Thorny Road of Honor
 'forget': TPERGT
 'his': HEUS
 'crime.': KRAOEUPL TP-PL
-'A': AEU
+'A': KPA*/AEU
 'ship': SHEUP
 'sails': SAEULS
 'away,': A/WAEU KW-BG
@@ -1140,7 +1140,7 @@ The Thorny Road of Honor
 'the': -T
 'Danish': TKAEUPB/EURB
 'shores.': SHORS TP-PL
-'A': AEU
+'A': KPA*/AEU
 'man': PHAPB
 'leans': HRAOEPBS
 'against': TKPWEPBS
@@ -1153,12 +1153,12 @@ The Thorny Road of Honor
 'towards': TORDZ
 'the': -T
 'Island': AOEULD
-'Hueen.': XXX Hueen TP-PL
+'Hueen.': xxx Hueen TP-PL
 'It': T
 'is': S
-'Tycho': XXX Tycho
-'Brahe.': XXX Brahe TP-PL
-'He': E
+'Tycho': xxx Tycho
+'Brahe.': xxx Brahe TP-PL
+'He': HE
 'raised': RA*EUFD
 'the': -T
 'name': TPHAEUPL
@@ -1168,14 +1168,14 @@ The Thorny Road of Honor
 'the': -T
 'stars,': STARS KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'rewarded': RE/WARD/-D
 'with': W
 'injury,': SKWRAOUR KW-BG
 'loss': HROS
 'and': SKP
 'sorrow.': SROE TP-PL
-'He': E
+'He': HE
 'is': S
 'going': TKPW-G
 'to': TO
@@ -1190,7 +1190,7 @@ The Thorny Road of Honor
 'above': PWOF
 'me': PHE
 'everywhere,"': WEFR KW-BG KR-GS
-'he': E
+'he': HE
 'says,': SEZ KW-BG
 '"and': KR-GS SKP
 'what': WHA
@@ -1205,7 +1205,7 @@ The Thorny Road of Honor
 'famous': TPAEUPLS
 'Dane,': TKA*EUPB KW-BG
 'the': -T
-'astronomer,': AS/TROPB/PHER KW-BG
+'astronomer,': A/STROPB/PHER KW-BG
 'to': TO
 'live': HREUF
 'honored': HOPB/ORD
@@ -1215,7 +1215,7 @@ The Thorny Road of Honor
 'a': AEU
 'strange': STRAEUPBG
 'land.': HRAPBD TP-PL
-'"Ay,': KR-GS XXX Ay KW-BG
+'"Ay,': KR-GS A/KWR*/SP-S KW-BG
 'free,': TPRAOE KW-BG
 'if': TP
 'only': OEPBL
@@ -1240,7 +1240,7 @@ The Thorny Road of Honor
 'What': WHA
 'a': AEU
 'picture!': P*EUFP SKHRAPL
-'Griffenfeldt,': XXX Griffenfeldt KW-BG
+'Griffenfeldt,': xxx Griffenfeldt KW-BG
 'a': AEU
 'Danish': TKAEUPB/EURB
 'Prometheus,': PRO/PHAO*ET/KWRUS KW-BG
@@ -1250,7 +1250,7 @@ The Thorny Road of Honor
 'rocky': ROBG/KEU
 'island': AOEULD
 'of': -F
-'Munkholm.': XXX Munkholm TP-PL
+'Munkholm.': xxx Munkholm TP-PL
 'We': WE
 'are': R
 'in': TPH
@@ -1262,7 +1262,7 @@ The Thorny Road of Honor
 'one': WUPB
 'of': -F
 'the': -T
-'largest': HRARPBL/EFT
+'largest': HRARPBLG/EFT
 'rivers;': REUFRS STPH*FPLT
 'an': APB
 'innumerable': EUPB/TPHAOUPL/RABL
@@ -1288,12 +1288,12 @@ The Thorny Road of Honor
 'defiance': TKE/TPAOEUPBS
 'to': TO
 'the': -T
-'elements.': HREPLTS TP-PL
+'elements.': HR-PLTS TP-PL
 'The': -T
 'man': PHAPB
 'who': WHO
 'thinks': THEUS
-'he': E
+'he': HE
 'can': K
 'solve': SOF
 'the': -T
@@ -1301,7 +1301,7 @@ The Thorny Road of Honor
 'is': S
 'named': TPHAEUPLD
 'Robert': ROBT
-'Fulton.': TP*UL/TOPB TP-PL
+'Fulton.': TPULT/O*PB TP-PL
 'The': -T
 'ship': SHEUP
 'begins': TKPWEUPBS
@@ -1328,7 +1328,7 @@ The Thorny Road of Honor
 'whistles': WHEUFLS
 'with': W
 'the': -T
-'rest.': REFT TP-PL
+'rest.': REFT/TP-PL
 '"Conceit!': KR-GS KOPB/SAOET SKHRAPL
 'Foolery!"': TPAOL/REU SKHRAPL KR-GS
 'is': S
@@ -1339,7 +1339,7 @@ The Thorny Road of Honor
 'happened': HAPD
 'just': SKWRUFT
 'as': AZ
-'he': E
+'he': HE
 'deserved.': TKAOE/SER/-FD TP-PL
 'Put': PUT
 'the': -T
@@ -1397,13 +1397,13 @@ The Thorny Road of Honor
 'far': TPAR
 'lands': HRAPBDZ
 'from': TPR
-'hours': HAURS
+'hours': HOURS
 'into': TPHAO
 'minutes.': PHEUBS TP-PL
-'O': O*/SP-S
+'O': O*P
 'human': HAOUPL
 'race,': RAEUS KW-BG
-'canst': XXX canst
+'canst': K/*T
 'thou': THO*U
 'grasp': TKPWRAFP
 'the': -T
@@ -1441,10 +1441,10 @@ The Thorny Road of Honor
 'into': TPHAO
 'health': H*ELT
 'and': SKP
-'strength': STREPG
+'strength': STREPBG
 'and': SKP
 'clearness—when': KHRAO*ERPBS EPL/TKA*RB WHEPB
-'discord': XXX discord
+'discord': TKEUZ/KORD
 'is': S
 'converted': KWERTD
 'to': TO
@@ -1455,7 +1455,7 @@ The Thorny Road of Honor
 'men': PHEPB
 'seem': SAOEPL
 'to': TO
-'recognise': REZ
+'recognise': REZ/A*U
 'the': -T
 'manifestation': PHAPB/TPEFT/AUGS
 'of': -F
@@ -1476,7 +1476,7 @@ The Thorny Road of Honor
 'all?': AUL H-F
 'Thus': THUS
 'the': -T
-'thorny': THOR/TPH*EU
+'thorny': THORPB/KWREU
 'path': PA*T
 'of': -F
 'honor': HO*RPB
@@ -1493,7 +1493,7 @@ The Thorny Road of Honor
 'beams.': PWAOEPLS TP-PL
 'Thrice': THRAOEUS
 'happy': HAEP
-'he': E
+'he': HE
 'who': WHO
 'is': S
 'chosen': KHOEFPB
@@ -1526,7 +1526,7 @@ The Thorny Road of Honor
 'human': HAOUPL
 'race.': RAEUS TP-PL
 'On': OPB
-'mighty': PHAOEU/TEU
+'mighty': PHAOEUT/KWREU
 'wings': WEUPBGS
 'the': -T
 'spirit': SPEURT
@@ -1548,13 +1548,13 @@ The Thorny Road of Honor
 'the': -T
 'dark': TKARBG
 'nightly': TPHAOEUT/HREU
-'background,': PW-GD KW-BG
+'background,': B*K KW-BG
 'but': PWUT
 'in': TPH
 'gleaming': TKPWHRAOEPL/-G
 'pictures,': P*EUFPS KW-BG
 'the': -T
-'thorny': THOR/TPH*EU
+'thorny': THORPB/KWREU
 'path': PA*T
 'of': -F
 'honor,': HO*RPB KW-BG
@@ -1567,7 +1567,7 @@ The Thorny Road of Honor
 'tale,': TAEL KW-BG
 'end': EPBD
 'in': TPH
-'brilliancy': XXX brilliancy
+'brilliancy': PWREUL/KWRAPBS/KWREU
 'and': SKP
 'joy': SKWROEU
 'here': HAOER

@@ -1,6 +1,6 @@
 The Portuguese Duck
 
-'A': AEU
+'A': KPA*/AEU
 'duck': TKUBG
 'once': WUPBS
 'arrived': A/REUFD
@@ -26,7 +26,7 @@ The Portuguese Duck
 'all': AUL
 'events,': AOEPBTS KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'called': KAULD
 'the': -T
 '"Portuguese,"': KR-GS PORT/TKWAOES KW-BG KR-GS
@@ -34,13 +34,13 @@ The Portuguese Duck
 'she': SHE
 'laid': HRAEUD
 'eggs,': EGS KW-BG
-'was': WA
+'was': WAS
 'killed,': KEULD KW-BG
 'and': SKP
 'cooked,': KAOBGD KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'an': APB
 'end': EPBD
 'of': -F
@@ -76,7 +76,7 @@ The Portuguese Duck
 'remained': RE/PHAEUPBD
 'in': TPH
 'the': -T
-'duckyard,': XXX duckyard KW-BG
+'duckyard,': xxx duckyard KW-BG
 'which': WEU
 'may': PHAE
 'be': -B
@@ -96,9 +96,9 @@ The Portuguese Duck
 'in': TPH
 'a': AEU
 'very': SRE
-'hostile': HOS/TEUL
+'hostile': HOFT/*L
 'manner.': PHAERPB TP-PL
-'"He': KR-GS E
+'"He': KR-GS HE
 'annoys': A/TPHOEUS
 'me': PHE
 'with': W
@@ -124,7 +124,7 @@ The Portuguese Duck
 'not': TPHOT
 'a': AEU
 'drake.': TKRAEUBG TP-PL
-'He': E
+'He': HE
 'ought': OT
 'to': TO
 'moderate': PHOD/RAT
@@ -144,7 +144,7 @@ The Portuguese Duck
 'there': THR
 'in': TPH
 'our': OUR
-'neighbor's': TPHAEUB AE S*/SP-S
+'neighbor's': TPHAEUB AES
 'garden,': TKPWA*RPB KW-BG
 'but': PWUT
 'that': THA
@@ -194,7 +194,7 @@ The Portuguese Duck
 'to': TO
 'him,': HEUPL KW-BG
 'for': TPOR
-'it's': T*S
+'it's': T-S
 'in': TPH
 'my': PHEU
 'nature,': TPHAEURT KW-BG
@@ -204,7 +204,7 @@ The Portuguese Duck
 'blood."': PWHRAOD TP-PL KR-GS
 'While': WHAOEUL
 'she': SHE
-'was': WA
+'was': WAS
 'speaking,': SPAOEG KW-BG
 'one': WUPB
 'of': -F
@@ -224,11 +224,11 @@ The Portuguese Duck
 'yard.': KWRARD TP-PL
 'The': -T
 'cat': KAT
-'was': WA
+'was': WAS
 'after': AF
 'him,': HEUPL KW-BG
 'but': PWUT
-'he': E
+'he': HE
 'had': H
 'escaped': ES/KAEUPD
 'from': TPR
@@ -244,7 +244,7 @@ The Portuguese Duck
 'into': TPHAO
 'the': -T
 'yard.': KWRARD TP-PL
-'"That's': KR-GS THA AE S*/SP-S
+'"That's': KW-GS/KPA*/THATS
 'just': SKWRUFT
 'like': HRAOEUBG
 'the': -T
@@ -361,7 +361,7 @@ The Portuguese Duck
 'the': -T
 'little': HREUL
 'fellow;': TPO*EUL STPH*FPLT
-'it's': T*S
+'it's': T-S
 'my': PHEU
 'duty;"': TKAOUT STPH*FPLT KR-GS
 'and': SKP
@@ -382,7 +382,7 @@ The Portuguese Duck
 'that': THA
 'the': -T
 'bird': PWEURD
-'was': WA
+'was': WAS
 'nearly': TPHAOERL
 'drowned': TKROUPBD
 'by': PWEU
@@ -407,7 +407,7 @@ The Portuguese Duck
 'others': OERS
 'will': HR
 'take': TAEUBG
-'example': KP-L
+'example': KP-PL
 'by': PWEU
 'it."': T TP-PL KR-GS
 '"Tweet,': KR-GS TWAOET KW-BG
@@ -423,7 +423,7 @@ The Portuguese Duck
 'wings': WEUPBGS
 'being': -BG
 'broken,': PWROEPB KW-BG
-'he': E
+'he': HE
 'found': TPOUPBD
 'it': T
 'difficult': TKEUFL
@@ -431,17 +431,17 @@ The Portuguese Duck
 'shake': SHAEUBG
 'himself;': H*EUPLS STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'quite': KWAOEUT
 'understood': *URPBD
 'that': THA
 'the': -T
 'bath': PWA*T
-'was': WA
+'was': WAS
 'meant': PHEPBT
 'kindly,': KAOEUPBD/HREU KW-BG
 'and': SKP
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 '"You': KR-GS U
 'are': R
@@ -449,7 +449,7 @@ The Portuguese Duck
 'kind-hearted,': KEUPBD H-PB HART/-D KW-BG
 'madam;"': PHAD/APL STPH*FPLT KR-GS
 'but': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'wish': WEURB
@@ -515,7 +515,7 @@ The Portuguese Duck
 'myself': PHAO*EUS
 'from': TPR
 'a': AEU
-'foreign': TPOERP
+'foreign': TPOERPB
 'country,': KREU KW-BG
 'as': AZ
 'you': U
@@ -523,7 +523,7 @@ The Portuguese Duck
 'see': SAOE
 'by': PWEU
 'my': PHEU
-'feathery': XXX feathery
+'feathery': xxx feathery
 'dress.': TKRES TP-PL
 'My': PHEU
 'drake': TKRAEUBG
@@ -561,18 +561,18 @@ The Portuguese Duck
 'am': APL
 'that': THA
 'person."': PERPB TP-PL KR-GS
-'"She's': KR-GS SHE AE S*/SP-S
+'"She's': KR-GS SHE AES
 'quite': KWAOEUT
 'full': TPUL
 'of': -F
-''Portulak,'"': AE XXX Portulak KW-BG AE KR-GS
+''Portulak,'"': AE xxx Portulak KW-BG AE KR-GS
 'said': SAEUD
 'a': AEU
 'little': HREUL
 'common': KPHOPB
 'duck,': TKUBG KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'witty.': WEUT/TEU TP-PL
 'All': AUL
 'the': -T
@@ -581,7 +581,7 @@ The Portuguese Duck
 'considered': KR-D
 'the': -T
 'word': WORD
-'"Portulak"': KR-GS XXX Portulak KR-GS
+'"Portulak"': KR-GS xxx Portulak KR-GS
 'a': AEU
 'good': TKPWAOD
 'joke,': SKWROEBG KW-BG
@@ -598,7 +598,7 @@ The Portuguese Duck
 'said,': SAEUD KW-BG
 '"Quack!': KR-GS KWA*BG SKHRAPL
 'that': THA
-'was': WA
+'was': WAS
 'witty!"': WEUT/TEU SKHRAPL KR-GS
 'Then': THEPB
 'the': -T
@@ -723,7 +723,7 @@ The Portuguese Duck
 'as': AZ
 'others': OERS
 'do."': TKO TP-PL KR-GS
-'"Don't': KR-GS TKO*PB AE T*/SP-S
+'"Don't': KR-GS TKO*PB AE T*
 'plague': PHRAEUG
 'him': HEUPL
 'so,"': SO KW-BG KR-GS
@@ -731,7 +731,7 @@ The Portuguese Duck
 'the': -T
 'Portuguese': PORT/TKWAOES
 'duck;': TKUBG STPH*FPLT
-'"he': KR-GS E
+'"he': KR-GS HE
 'requires': RAOEURS
 'rest': REFT
 'and': SKP
@@ -749,7 +749,7 @@ The Portuguese Duck
 'bath': PWA*T
 'for': TPOR
 'you?"': U H-F KR-GS
-'"Oh,': KR-GS O*ERBGS KW-BG
+'"Oh,': KR-GS O*E KW-BG
 'no!': TPHO SKHRAPL
 'no!': TPHO SKHRAPL
 'pray': PRAEU
@@ -798,8 +798,8 @@ The Portuguese Duck
 'There': THR
 'are': R
 'two': TWO
-'Cochin': XXX Cochin
-'Chinese': KHAOEUPB/AOES
+'Cochin': xxx Cochin
+'Chinese': KHAOEUPB/AOEZ
 'amongst': PHOPBGS
 'them;': THEPL STPH*FPLT
 'they': THE
@@ -840,7 +840,7 @@ The Portuguese Duck
 'and': SKP
 'the': -T
 'cock': KOBG
-'was': WA
+'was': WAS
 'polite': PHRAOEUT
 'enough': TPHUF
 'to-day': TO H-PB TKAEU
@@ -853,8 +853,8 @@ The Portuguese Duck
 'are': R
 'a': AEU
 'real': RAEL
-'songster,"': XXX songster KW-BG KR-GS
-'he': E
+'songster,"': xxx songster KW-BG KR-GS
+'he': HE
 'said,': SAEUD KW-BG
 '"you': KR-GS U
 'do': TKO
@@ -876,7 +876,7 @@ The Portuguese Duck
 'more': PHOR
 'noise': TPHOEUS
 'and': SKP
-'shrillness': XXX shrillness
+'shrillness': xxx shrillness
 'in': TPH
 'any': TPHEU
 'one': WUPB
@@ -887,11 +887,11 @@ The Portuguese Duck
 'be': -B
 'known': TPHOEPB
 'who': WHO
-'he': E
+'he': HE
 'is."': S TP-PL KR-GS
 'The': -T
 'two': TWO
-'Chinese': KHAOEUPB/AOES
+'Chinese': KHAOEUPB/AOEZ
 'were': WR
 'quite': KWAOEUT
 'enchanted': EPB/HAPBT/-D
@@ -912,7 +912,7 @@ The Portuguese Duck
 'bath,': PWA*T KW-BG
 'so': SO
 'that': THA
-'he': E
+'he': HE
 'seemed': SAOEPLD
 'to': TO
 'them': THEPL
@@ -920,9 +920,9 @@ The Portuguese Duck
 'like': HRAOEUBG
 'a': AEU
 'tiny': TOEUPB
-'Chinese': KHAOEUPB/AOES
+'Chinese': KHAOEUPB/AOEZ
 'fowl.': TPO*UL TP-PL
-'"He's': KR-GS E AE S*/SP-S
+'"He's': KR-GS HE AES
 'charming,"': KHARPL/-G KW-BG KR-GS
 'they': THE
 'said': SAEUD
@@ -941,7 +941,7 @@ The Portuguese Duck
 'the': -T
 'most': PHOFT
 'aristocratic': A/REUFT/KRAT/EUBG
-'Chinese': KHAOEUPB/AOES
+'Chinese': KHAOEUPB/AOEZ
 'dialect:': TKAOEU/HREBGT STPH-FPLT
 '"We': KR-GS WE
 'are': R
@@ -1024,7 +1024,7 @@ The Portuguese Duck
 'the': -T
 'rest,': REFT KW-BG
 'whose': WHOZ
-'ideas': KWRADZ
+'ideas': KWR-DZ
 'are': R
 'certainly': SERPBL
 'not': TPHOT
@@ -1056,7 +1056,7 @@ The Portuguese Duck
 'none': TPHOPB
 'exists.': KPEUFTS TP-PL
 'Except': KPEPT
-'ourselves': OUR/SEFS
+'ourselves': O*URSZ
 'and': SKP
 'the': -T
 'cock': KOBG
@@ -1129,7 +1129,7 @@ The Portuguese Duck
 'though': THOE
 'she': SHE
 'is': S
-'always': AULZ
+'always': AULS
 'in': TPH
 'the': -T
 'wrong.': WROPBG TP-PL
@@ -1191,7 +1191,7 @@ The Portuguese Duck
 'what': WHA
 'those': THOZ
 'two': TWO
-'Chinese': KHAOEUPB/AOES
+'Chinese': KHAOEUPB/AOEZ
 'are': R
 'whispering': WHEUS/PERG
 'about,"': PW KW-BG KR-GS
@@ -1202,7 +1202,7 @@ The Portuguese Duck
 'another;': TPHOER STPH*FPLT
 '"they': KR-GS THE
 'are': R
-'always': AULZ
+'always': AULS
 'doing': TK*G
 'it,': T KW-BG
 'and': SKP
@@ -1220,12 +1220,12 @@ The Portuguese Duck
 'came': KAEUPL
 'up,': UP KW-BG
 'and': SKP
-'he': E
+'he': HE
 'thought': THAUT
 'the': -T
 'little': HREUL
 'singing-bird': SEUPBG/-G H-PB PWEURD
-'was': WA
+'was': WAS
 'a': AEU
 'sparrow.': SPAEUR/ROE TP-PL
 '"Well,': KR-GS WEL KW-BG
@@ -1234,7 +1234,7 @@ The Portuguese Duck
 'understand': URPBD
 'the': -T
 'difference,"': TKEUFRPBS KW-BG KR-GS
-'he': E
+'he': HE
 'said;': SAEUD STPH*FPLT
 '"it': KR-GS T
 'appears': A/PAOERS
@@ -1243,7 +1243,7 @@ The Portuguese Duck
 'all': AUL
 'the': -T
 'same.': SAEUPL TP-PL
-'He's': E AE S*/SP-S
+'He's': HE AES
 'only': OEPBL
 'a': AEU
 'plaything,': PHRAEU/THEUPBG KW-BG
@@ -1258,18 +1258,18 @@ The Portuguese Duck
 'them,': THEPL KW-BG
 'I': EU
 'say."': SAEU TP-PL KR-GS
-'"Don't': KR-GS TKO*PB AE T*/SP-S
+'"Don't': KR-GS TKO*PB AE T*
 'take': TAEUBG
 'any': TPHEU
 'notice': TPH-TS
 'of': -F
 'what': WHA
-'he': E
+'he': HE
 'says,"': SEZ KW-BG KR-GS
 'whispered': WHEUS/PERD
 'the': -T
 'Portuguese;': PORT/TKWAOES STPH*FPLT
-'"he's': KR-GS E AE S*/SP-S
+'"he's': KR-GS HE AES
 'very': SRE
 'well': WEL
 'in': TPH
@@ -1294,7 +1294,7 @@ The Portuguese Duck
 'have': SR
 'a': AEU
 'little': HREUL
-'rest.': REFT TP-PL
+'rest.': REFT/TP-PL
 'It': T
 'is': S
 'a': AEU
@@ -1302,7 +1302,7 @@ The Portuguese Duck
 'we': WE
 'owe': OE
 'to': TO
-'ourselves': OUR/SEFS
+'ourselves': O*URSZ
 'that': THA
 'we': WE
 'may': PHAE
@@ -1352,7 +1352,7 @@ The Portuguese Duck
 'The': -T
 'little': HREUL
 'singing-bird': SEUPBG/-G H-PB PWEURD
-'busied': XXX busied
+'busied': xxx busied
 'himself': H*EUPLS
 'for': TPOR
 'some': SOPL
@@ -1364,7 +1364,7 @@ The Portuguese Duck
 'and': SKP
 'at': AT
 'last': HRAFT
-'he': E
+'he': HE
 'lay': HRAEU
 'down,': TKOUPB KW-BG
 'too,': TAO KW-BG
@@ -1372,7 +1372,7 @@ The Portuguese Duck
 'close': KHROES
 'to': TO
 'his': HEUS
-'protectress.': XXX protectress TP-PL
+'protectress.': xxx protectress TP-PL
 'The': -T
 'sun': SUPB
 'shone': SHO*EPB
@@ -1380,12 +1380,12 @@ The Portuguese Duck
 'and': SKP
 'bright,': PWRAOEUT KW-BG
 'and': SKP
-'he': E
+'he': HE
 'found': TPOUPBD
 'out': OUT
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'very': SRE
 'good': TKPWAOD
@@ -1411,7 +1411,7 @@ The Portuguese Duck
 'visit': SREUFT
 'to': TO
 'the': -T
-'duckyard,': XXX duckyard KW-BG
+'duckyard,': xxx duckyard KW-BG
 'simply': SAO*EPL
 'and': SKP
 'solely': SOEL/HREU
@@ -1421,10 +1421,10 @@ The Portuguese Duck
 'for': TPOR
 'themselves.': TH*EPLS TP-PL
 'The': -T
-'Chinese': KHAOEUPB/AOES
+'Chinese': KHAOEUPB/AOEZ
 'were': WR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'to': TO
 'leave,': HREF KW-BG
 'and': SKP
@@ -1446,12 +1446,12 @@ The Portuguese Duck
 'the': -T
 'old': OLD
 'lady': HRA*ED
-'was': WA
+'was': WAS
 'getting': TKPWEGT
 'quite': KWAOEUT
 'a': AEU
 '"doting': KR-GS TKOT/-G
-'ducky,"': XXX ducky KW-BG KR-GS
+'ducky,"': xxx ducky KW-BG KR-GS
 'All': AUL
 'the': -T
 'other': OER
@@ -1460,11 +1460,11 @@ The Portuguese Duck
 'at': AT
 'this.': TH TP-PL
 '"Doting': KR-GS TKOT/-G
-'ducky,"': XXX ducky KW-BG KR-GS
+'ducky,"': xxx ducky KW-BG KR-GS
 'they': THE
 'whispered.': WHEUS/PERD TP-PL
-'"Oh,': KR-GS O*ERBGS KW-BG
-'that's': TH-TS
+'"Oh,': KR-GS O*E KW-BG
+'that's': THATS
 'too': TAO
 ''witty!'"': AE WEUT/TEU SKHRAPL AE KR-GS
 'And': SKP
@@ -1475,11 +1475,11 @@ The Portuguese Duck
 'former': TPORPL/*ER
 'joke': SKWROEBG
 'about': PW
-'"Portulak,"': KR-GS XXX Portulak KW-BG KR-GS
+'"Portulak,"': KR-GS xxx Portulak KW-BG KR-GS
 'and': SKP
 'declared': TKE/KHRAEURD
 'it': T
-'was': WA
+'was': WAS
 'most': PHOFT
 'amusing.': A/PHAOUFG TP-PL
 'Then': THEPB
@@ -1502,7 +1502,7 @@ The Portuguese Duck
 'when': WHEPB
 'suddenly': SULD
 'something': S-G
-'was': WA
+'was': WAS
 'thrown': THROEPB
 'into': TPHAO
 'the': -T
@@ -1549,7 +1549,7 @@ The Portuguese Duck
 'little': HREUL
 'singing-bird.': SEUPBG/-G H-PB PWEURD TP-PL
 '"Tweet,"': KR-GS TWAOET KW-BG KR-GS
-'he': E
+'he': HE
 'cried;': KRAOEUD STPH*FPLT
 '"you': KR-GS U
 'trod': TROD
@@ -1568,13 +1568,13 @@ The Portuguese Duck
 'my': PHEU
 'way?"': WAEU H-F KR-GS
 'she': SHE
-'retorted,': XXX retorted KW-BG
+'retorted,': RE/TORT/-D KW-BG
 '"you': KR-GS U
 'must': PHUFT
 'not': TPHOT
 'be': -B
 'so': SO
-'touchy.': TUFP/KHEU TP-PL
+'touchy.': TUFP/KWREU TP-PL
 'I': EU
 'have': SR
 'nerves': TPHEFRBZ
@@ -1587,7 +1587,7 @@ The Portuguese Duck
 'not': TPHOT
 'cry': KRAOEU
 ''tweet.'"': AE TWAOET TP-PL AE KR-GS
-'"Don't': KR-GS TKO*PB AE T*/SP-S
+'"Don't': KR-GS TKO*PB AE T*
 'be': -B
 'angry,"': APBG/REU KW-BG KR-GS
 'said': SAEUD
@@ -1644,13 +1644,13 @@ The Portuguese Duck
 'sing,—': SEUPBG KW-BG EPL/TKA*RB
 '"Chirp': KR-GS KHEURP
 'and': SKP
-'twitter,': TWUT/*ER KW-BG
+'twitter,': TWEURT KW-BG
 'The': -T
 'dew-drops': TKAO*U H-PB TKROPS
 'glitter,': TKPWHREUT KW-BG
 'In': TPH
 'the': -T
-'hours': HAURS
+'hours': HOURS
 'of': -F
 'sunny': SAOUPB
 'spring,': SPREUPBG KW-BG
@@ -1681,7 +1681,7 @@ The Portuguese Duck
 'Portuguese;': PORT/TKWAOES STPH*FPLT
 '"you': KR-GS U
 'must': PHUFT
-'conform': KOPB/TPORPL
+'conform': KORPL
 'to': TO
 'the': -T
 'rules': RAOULS
@@ -1700,12 +1700,12 @@ The Portuguese Duck
 'The': -T
 'little': HREUL
 'bird': PWEURD
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'taken': TAEPB
 'aback,': A/PWABG KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'meant': PHEPBT
 'it': T
 'kindly.': KAOEUPBD/HREU TP-PL
@@ -1714,7 +1714,7 @@ The Portuguese Duck
 'awoke': A/WOEBG
 'afterwards,': A*FRDZ KW-BG
 'there': THR
-'he': E
+'he': HE
 'stood': STAOD
 'before': PW-F
 'her': HER
@@ -1722,7 +1722,7 @@ The Portuguese Duck
 'a': AEU
 'little': HREUL
 'corn': KORPB
-'he': E
+'he': HE
 'had': H
 'found,': TPOUPBD KW-BG
 'and': SKP
@@ -1739,7 +1739,7 @@ The Portuguese Duck
 'slept': SHREPD
 'well,': WEL KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'naturally': TPHRARL
 'in': TPH
 'a': AEU
@@ -1755,7 +1755,7 @@ The Portuguese Duck
 '"and': KR-GS SKP
 'don't': TKOEPBT
 'be': -B
-'always': AULZ
+'always': AULS
 'standing': STAPBG
 'in': TPH
 'my': PHEU
@@ -1797,8 +1797,8 @@ The Portuguese Duck
 'that': THA
 'fact."': TPABGT TP-PL KR-GS
 '"It': KR-GS T
-'was': WA
-'sunshine': S*UPB/SHAOEUPB
+'was': WAS
+'sunshine': SUPB/SHAO*EUPB
 'here': HAOER
 'yesterday,"': KWRED KW-BG KR-GS
 'said': SAEUD
@@ -1825,14 +1825,14 @@ The Portuguese Duck
 'I': EU
 'fancy,"': TPAPB/SEU KW-BG KR-GS
 'she': SHE
-'retorted,': XXX retorted KW-BG
+'retorted,': RE/TORT/-D KW-BG
 '"the': KR-GS -T
 'day': TKAEU
 'is': S
 'not': TPHOT
 'over': OEFR
 'yet.': KWRET TP-PL
-'Don't': TKO*PB AE T*/SP-S
+'Don't': TKO*PB AE T*
 'stand': STAPBD
 'there,': THR KW-BG
 'looking': HRAOG
@@ -1873,7 +1873,7 @@ The Portuguese Duck
 'beast': PWAOEFT
 'of': -F
 'prey?': PRA*EU H-F
-'There's': THR AE S*/SP-S
+'There's': THR AES
 'not': TPHOT
 'a': AEU
 'drop': TKROP
@@ -1902,10 +1902,10 @@ The Portuguese Duck
 'at': AT
 'the': -T
 'little': HREUL
-'singing-bird's': SEUPBG/-G H-PB PWEURD AE S*/SP-S
+'singing-bird's': SEUPBG/-G H-PB PWEURD AES
 'head,': HED KW-BG
 'and': SKP
-'he': E
+'he': HE
 'fell': TPEL
 'dead': TKED
 'on': OPB
@@ -1921,7 +1921,7 @@ The Portuguese Duck
 'she': SHE
 'said;': SAEUD STPH*FPLT
 '"could': KR-GS KO
-'he': E
+'he': HE
 'not': TPHOT
 'bear': PWAER
 'even': AOEPB
@@ -1935,8 +1935,8 @@ The Portuguese Duck
 'him?': HEUPL H-F
 'Then': THEPB
 'certainly': SERPBL
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'not': TPHOT
 'made': PHAED
 'for': TPOR
@@ -1973,7 +1973,7 @@ The Portuguese Duck
 'with': W
 'steam-engine': STAEPL H-PB TPH-PBLG
 'power.': POUR TP-PL
-'"You'll': KR-GS U AE XXX ll
+'"You'll': KR-GS U AE HR*/HR*
 'kill': KEUL
 'me': PHE
 'with': W
@@ -1981,11 +1981,11 @@ The Portuguese Duck
 'crowing,"': KROE/-G KW-BG KR-GS
 'she': SHE
 'cried,': KRAOEUD KW-BG
-'"it's': KR-GS T AE S*/SP-S
+'"it's': KR-GS T AES
 'all': AUL
 'your': KWROUR
 'fault.': TPALT TP-PL
-'He's': E AE S*/SP-S
+'He's': HE AES
 'lost': HRO*S
 'his': HEUS
 'life,': HRAOEUF KW-BG
@@ -1995,7 +1995,7 @@ The Portuguese Duck
 'near': TPHAOER
 'losing': HRAOUFG
 'mine."': PHAOEUPB TP-PL KR-GS
-'"There's': KR-GS THR AE S*/SP-S
+'"There's': KR-GS THR AES
 'not': TPHOT
 'much': PHUFP
 'of': -F
@@ -2015,17 +2015,17 @@ The Portuguese Duck
 'Portuguese': PORT/TKWAOES
 'duck,': TKUBG KW-BG
 '"for': KR-GS TPOR
-'he': E
+'he': HE
 'had': H
 'manners': PHAERPBS
 'and': SKP
 'education,': TKAEUBGS KW-BG
 'and': SKP
-'he': E
+'he': HE
 'could': KO
 'sing.': SEUPBG TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'affectionate': A*FBGS/TPHAT
 'and': SKP
 'gentle,': SKWR*EPBLT KW-BG
@@ -2068,7 +2068,7 @@ The Portuguese Duck
 'or': OR
 'pity.': PEUT/TEU TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'nothing': TPHOG
 'to': TO
 'envy': EPB/SREU
@@ -2085,7 +2085,7 @@ The Portuguese Duck
 'even': AOEPB
 'the': -T
 'two': TWO
-'Chinese.': KHAOEUPB/AOES TP-PL
+'Chinese.': KHAOEUPB/AOEZ TP-PL
 '"We': KR-GS WE
 'shall': SHAL
 'never': TPHEF
@@ -2095,11 +2095,11 @@ The Portuguese Duck
 'again': TKPWEPB
 'amongst': PHOPBGS
 'us;': US STPH*FPLT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'almost': HR-PL
 'a': AEU
-'Chinese,"': KHAOEUPB/AOES KW-BG KR-GS
+'Chinese,"': KHAOEUPB/AOEZ KW-BG KR-GS
 'they': THE
 'whispered,': WHEUS/PERD KW-BG
 'and': SKP
@@ -2168,7 +2168,7 @@ The Portuguese Duck
 'said': SAEUD
 'the': -T
 'drake,': TKRAEUBG KW-BG
-'"that's': KR-GS THA AE S*/SP-S
+'"that's': KW-GS/THATS
 'the': -T
 'most': PHOFT
 'important': PORPB

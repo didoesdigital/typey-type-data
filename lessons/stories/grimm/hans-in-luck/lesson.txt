@@ -23,7 +23,7 @@ Hans in Luck
 'is': S
 'so': SO
 'much': PHUFP
-'gain--all': TKPAEUPB H-PB H-PB AUL
+'gain--all': TKPWAEUPB H-PB H-PB AUL
 'their': THAEUR
 'geese': TKPWAOES
 'are': R
@@ -39,7 +39,7 @@ Hans in Luck
 'will,': HR KW-BG
 'they': THE
 'will': HR
-'always,': AULZ KW-BG
+'always,': AULS KW-BG
 'like': HRAOEUBG
 'poor': PAOR
 'puss,': PUSZ KW-BG
@@ -59,9 +59,9 @@ Hans in Luck
 'world': WORLD
 'may': PHAE
 'very': SRE
-'likely': HREULG
+'likely': HRAOEULG
 'not': TPHOT
-'always': AULZ
+'always': AULS
 'think': THEU
 'of': -F
 'them': THEPL
@@ -89,13 +89,13 @@ Hans in Luck
 'these': THEZ
 'lucky': HROEUBG
 'beings': -BGZ
-'was': WA
-'neighbour': TPHAEUB
+'was': WAS
+'neighbour': TPHAEUB/A*U
 'Hans.': HAPBS TP-PL
 'Seven': SEFPB
 'long': HROPBG
 'years': KWRAOERS
-'he': E
+'he': HE
 'had': H
 'worked': WORBGD
 'hard': HARD
@@ -104,7 +104,7 @@ Hans in Luck
 'master.': PHAFRT TP-PL
 'At': AT
 'last': HRAFT
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 ''Master,': AE PHAFRT KW-BG
 'my': PHEU
@@ -143,7 +143,7 @@ Hans in Luck
 'faithful': TPA*EUT/-FL
 'and': SKP
 'good': TKPWAOD
-'servant,': SEFB/APBT KW-BG
+'servant,': SEFRB/APBT KW-BG
 'Hans,': HAPBS KW-BG
 'so': SO
 'your': KWROUR
@@ -152,7 +152,7 @@ Hans in Luck
 'be': -B
 'handsome.'': HAPBD/SOPL TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
@@ -189,7 +189,7 @@ Hans in Luck
 'road': RAOD
 'homewards.': HOEPL/WARDZ TP-PL
 'As': AZ
-'he': E
+'he': HE
 'went': WEPBT
 'lazily': HRAEUZ/HREU
 'on,': OPB KW-BG
@@ -208,7 +208,7 @@ Hans in Luck
 'along': A/HROPBG
 'on': OPB
 'a': AEU
-'capital': KA*L
+'capital': KAPLT
 'horse.': HORS TP-PL
 ''Ah!'': AE HA*E SKHRAPL AE
 'said': SAEUD
@@ -225,7 +225,7 @@ Hans in Luck
 'on': OPB
 'horseback!': HORS/PWABG SKHRAPL
 'There': THR
-'he': E
+'he': HE
 'sits': SEUTS
 'as': AZ
 'easy': EZ
@@ -233,8 +233,8 @@ Hans in Luck
 'happy': HAEP
 'as': AZ
 'if': TP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'at': AT
 'home,': HOEPL KW-BG
 'in': TPH
@@ -243,7 +243,7 @@ Hans in Luck
 'by': PWEU
 'his': HEUS
 'fireside;': TPAOEUR/SAOEUD STPH*FPLT
-'he': E
+'he': HE
 'trips': TREUPS
 'against': TKPWEPBS
 'no': TPHO
@@ -253,7 +253,7 @@ Hans in Luck
 'and': SKP
 'gets': TKPWETS
 'on': OPB
-'he': E
+'he': HE
 'hardly': HA*RLD
 'knows': TPHOEZ
 'how.'': HOU TP-PL AE
@@ -266,7 +266,7 @@ Hans in Luck
 'but': PWUT
 'the': -T
 'horseman': HORS/PHAPB
-'heard': HERD
+'heard': HAERD
 'it': T
 'all,': AUL KW-BG
 'and': SKP
@@ -282,7 +282,7 @@ Hans in Luck
 'then?'': THEPB H-F AE
 ''Ah!'': AE HA*E SKHRAPL AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''I': AE EU
 'have': SR
 'this': TH
@@ -404,7 +404,7 @@ Hans in Luck
 'gave': TKPWAEUF
 'him': HEUPL
 'the': -T
-'bridle': PWRAOEUD/-L
+'bridle': PWRAOEUD/*L
 'into': TPHAO
 'one': WUPB
 'hand': HAPBD
@@ -430,12 +430,12 @@ Hans in Luck
 'together,': TOGT KW-BG
 'and': SKP
 'cry': KRAOEU
-'"Jip!"'': KR-GS XXX Jip SKHRAPL KR-GS AE
+'"Jip!"'': KR-GS xxx Jip SKHRAPL KR-GS AE
 'Hans': HAPBS
-'was': WA
+'was': WAS
 'delighted': TKHRAOEUTD
 'as': AZ
-'he': E
+'he': HE
 'sat': SAT
 'on': OPB
 'the': -T
@@ -471,12 +471,12 @@ Hans in Luck
 'and': SKP
 'no': TPHO
 'sorrow,': SROE KW-BG
-'A': AEU
+'A': KPA*/AEU
 'fig': TP*EUG
 'for': TPOR
 'the': -T
 'morrow!': PHOR/ROE SKHRAPL
-'We'll': WE AE XXX ll
+'We'll': WE AE HR*/HR*
 'laugh': HRAF
 'and': SKP
 'be': -B
@@ -484,13 +484,13 @@ Hans in Luck
 'Sing': SEUPBG
 'neigh': TPHAEUG
 'down': TKOUPB
-'derry!'': XXX derry SKHRAPL AE
+'derry!'': xxx derry SKHRAPL AE
 'After': AF
 'a': AEU
 'time': TAOEUPL
-'he': E
+'he': HE
 'thought': THAUT
-'he': E
+'he': HE
 'should': SHO
 'like': HRAOEUBG
 'to': TO
@@ -499,13 +499,13 @@ Hans in Luck
 'little': HREUL
 'faster,': TPA*FRT KW-BG
 'so': SO
-'he': E
+'he': HE
 'smacked': SPHABGD
 'his': HEUS
 'lips': HREUPS
 'and': SKP
 'cried': KRAOEUD
-''Jip!'': AE XXX Jip SKHRAPL AE
+''Jip!'': AE xxx Jip SKHRAPL AE
 'Away': A/WAEU
 'went': WEPBT
 'the': -T
@@ -517,11 +517,11 @@ Hans in Luck
 'Hans': HAPBS
 'knew': TPHAOU
 'what': WHA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'about,': PW KW-BG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'thrown': THROEPB
 'off,': OF KW-BG
 'and': SKP
@@ -542,7 +542,7 @@ Hans in Luck
 'a': AEU
 'shepherd': SHEP/ERD
 'who': WHO
-'was': WA
+'was': WAS
 'coming': KO*G
 'by,': PWEU KW-BG
 'driving': TKRAOFG
@@ -705,7 +705,7 @@ Hans in Luck
 'good': TKPWAOD
 'to': TO
 'my': PHEU
-'neighbours,': TPHAEUBS KW-BG
+'neighbours,': TPHAEUBS/A*U KW-BG
 'even': AOEPB
 'though': THOE
 'I': EU
@@ -726,7 +726,7 @@ Hans in Luck
 'man': PHAPB
 'has!'': HAS SKHRAPL AE
 'thought': THAUT
-'he.': E TP-PL
+'he.': HE TP-PL
 'Then': THEPB
 'the': -T
 'shepherd': SHEP/ERD
@@ -743,7 +743,7 @@ Hans in Luck
 'morning,': PHORPBG KW-BG
 'and': SKP
 'away': A/WAEU
-'he': E
+'he': HE
 'rode.': ROED TP-PL
 'Hans': HAPBS
 'brushed': PWRURBD
@@ -784,7 +784,7 @@ Hans in Luck
 'I': EU
 'certainly': SERPBL
 'shall': SHAL
-'always': AULZ
+'always': AULS
 'be': -B
 'able': ABL
 'to': TO
@@ -806,7 +806,7 @@ Hans in Luck
 'when': WHEPB
 'I': EU
 'am': APL
-'thirsty': THURS/TEU
+'thirsty': THEURS/TEU
 'I': EU
 'can': K
 'milk': PHEULG
@@ -824,12 +824,12 @@ Hans in Luck
 'for': TPOR
 'more?'': PHOR H-F AE
 'When': WHEPB
-'he': E
+'he': HE
 'came': KAEUPL
 'to': TO
 'an': APB
 'inn,': TPH*PB KW-BG
-'he': E
+'he': HE
 'halted,': HAULT/-D KW-BG
 'ate': AEUT
 'up': UP
@@ -848,11 +848,11 @@ Hans in Luck
 'of': -F
 'beer.': PWAOER TP-PL
 'When': WHEPB
-'he': E
+'he': HE
 'had': H
 'rested': REFT/-D
 'himself': H*EUPLS
-'he': E
+'he': HE
 'set': SET
 'off': OF
 'again,': TKPWEPB KW-BG
@@ -861,7 +861,7 @@ Hans in Luck
 'cow': KO*U
 'towards': TORDZ
 'his': HEUS
-'mother's': PHOER AE S*/SP-S
+'mother's': PHOER/AES
 'village.': SREULG TP-PL
 'But': PWUT
 'the': -T
@@ -878,7 +878,7 @@ Hans in Luck
 'at': AT
 'last,': HRAFT KW-BG
 'as': AZ
-'he': E
+'he': HE
 'found': TPOUPBD
 'himself': H*EUPLS
 'on': OPB
@@ -895,7 +895,7 @@ Hans in Luck
 'hour': HOUR
 'to': TO
 'cross,': KROS KW-BG
-'he': E
+'he': HE
 'began': TKPWAPB
 'to': TO
 'be': -B
@@ -921,7 +921,7 @@ Hans in Luck
 'for': TPOR
 'this,'': TH KW-BG AE
 'thought': THAUT
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 ''now': AE TPHOU
 'I': EU
 'will': HR
@@ -931,9 +931,9 @@ Hans in Luck
 'and': SKP
 'quench': KWEFRPB
 'my': PHEU
-'thirst':': THUFRT AE STPH-FPLT
+'thirst':': THEUFRT AE STPH-FPLT
 'so': SO
-'he': E
+'he': HE
 'tied': TAO*EUD
 'her': HER
 'to': TO
@@ -945,7 +945,7 @@ Hans in Luck
 'and': SKP
 'held': HELD
 'his': HEUS
-'leathern': XXX leathern
+'leathern': xxx leathern
 'cap': KAP
 'to': TO
 'milk': PHEULG
@@ -954,7 +954,7 @@ Hans in Luck
 'not': TPHOT
 'a': AEU
 'drop': TKROP
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'had.': H TP-PL
@@ -966,7 +966,7 @@ Hans in Luck
 'this': TH
 'cow,': KO*U KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'to': TO
 'bring': PWREU
 'him': HEUPL
@@ -975,7 +975,7 @@ Hans in Luck
 'butter': PWAOURT
 'and': SKP
 'cheese,': KHAOES KW-BG
-'was': WA
+'was': WAS
 'all': AUL
 'that': THA
 'time': TAOEUPL
@@ -990,8 +990,8 @@ Hans in Luck
 'to': TO
 'that.': THA TP-PL
 'While': WHAOEUL
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'trying': TRAOEUG
 'his': HEUS
 'luck': HRUBG
@@ -1004,7 +1004,7 @@ Hans in Luck
 'very': SRE
 'clumsily,': KHRUPLS/HREU KW-BG
 'the': -T
-'uneasy': XXX uneasy
+'uneasy': UPB/EZ
 'beast': PWAOEFT
 'began': TKPWAPB
 'to': TO
@@ -1029,7 +1029,7 @@ Hans in Luck
 'down;': TKOUPB STPH*FPLT
 'and': SKP
 'there': THR
-'he': E
+'he': HE
 'lay': HRAEU
 'a': AEU
 'long': HROPBG
@@ -1059,7 +1059,7 @@ Hans in Luck
 'the': -T
 'butcher,': PWUFP/ER KW-BG
 'as': AZ
-'he': E
+'he': HE
 'helped': HEPD
 'him': HEUPL
 'up.': UP TP-PL
@@ -1070,8 +1070,8 @@ Hans in Luck
 'had': H
 'happened,': HAPD KW-BG
 'how': HOU
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'dry,': TKRAOEU KW-BG
 'and': SKP
 'wanted': WAPBTD
@@ -1083,7 +1083,7 @@ Hans in Luck
 'found': TPOUPBD
 'the': -T
 'cow': KO*U
-'was': WA
+'was': WAS
 'dry': TKRAOEU
 'too.': TAO TP-PL
 'Then': THEPB
@@ -1211,7 +1211,7 @@ Hans in Luck
 'do': TKO
 'a': AEU
 'kind,': KEUPBD KW-BG
-'neighbourly': TPHAEUB/HREU
+'neighbourly': TPHAEUB/A*U/HREU
 'thing.': THEUPBG TP-PL
 'To': TO
 'please': PHRES
@@ -1240,7 +1240,7 @@ Hans in Luck
 'said': SAEUD
 'Hans,': HAPBS KW-BG
 'as': AZ
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'the': -T
 'butcher': PWUFP/ER
@@ -1262,14 +1262,14 @@ Hans in Luck
 'the': -T
 'string': STREUPBG
 'that': THA
-'was': WA
+'was': WAS
 'tied': TAO*EUD
 'to': TO
 'its': EUTS
 'leg.': HREG TP-PL
 'So': SO
 'on': OPB
-'he': E
+'he': HE
 'jogged,': SKWROGD KW-BG
 'and': SKP
 'all': AUL
@@ -1280,7 +1280,7 @@ Hans in Luck
 'right': RAOEUT
 'with': W
 'him:': HEUPL STPH-FPLT
-'he': E
+'he': HE
 'had': H
 'met': PHET
 'with': W
@@ -1290,8 +1290,8 @@ Hans in Luck
 'be': -B
 'sure;': SHUR STPH*FPLT
 'but': PWUT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'now': TPHOU
 'well': WEL
 'repaid': RE/PAEUD
@@ -1305,10 +1305,10 @@ Hans in Luck
 'with': W
 'such': SUFP
 'a': AEU
-'travelling': TRAFLG
+'travelling': TRAFLG/A*U
 'companion': KPAPB/KWROPB
 'as': AZ
-'he': E
+'he': HE
 'had': H
 'at': AT
 'last': HRAFT
@@ -1316,24 +1316,24 @@ Hans in Luck
 'The': -T
 'next': TPHEGT
 'man': PHAPB
-'he': E
+'he': HE
 'met': PHET
-'was': WA
+'was': WAS
 'a': AEU
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'carrying': KAERG
 'a': AEU
 'fine': TPAOEUPB
 'white': WHAOEUT
 'goose.': TKPWAOS TP-PL
 'The': -T
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'stopped': STOPD
 'to': TO
 'ask': SK
 'what': WHA
-'was': WA
-'o'clock;': O*/SP-S AE KHROBG STPH*FPLT
+'was': WAS
+'o'clock;': O* AE KHROBG STPH*FPLT
 'this': TH
 'led': HRED
 'to': TO
@@ -1347,12 +1347,12 @@ Hans in Luck
 'his': HEUS
 'luck,': HRUBG KW-BG
 'how': HOU
-'he': E
+'he': HE
 'had': H
 'so': SO
 'many': PHAEPB
 'good': TKPWAOD
-'bargains,': PWARG/AEUPB/-S KW-BG
+'bargains,': PWAR/TKPWAEUPBS KW-BG
 'and': SKP
 'how': HOU
 'all': AUL
@@ -1365,7 +1365,7 @@ Hans in Luck
 'with': W
 'him.': HEUPL TP-PL
 'The': -T
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'then': THEPB
 'began': TKPWAPB
 'to': TO
@@ -1374,8 +1374,8 @@ Hans in Luck
 'tale,': TAEL KW-BG
 'and': SKP
 'said': SAEUD
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'going': TKPW-G
 'to': TO
 'take': TAEUBG
@@ -1383,10 +1383,10 @@ Hans in Luck
 'goose': TKPWAOS
 'to': TO
 'a': AEU
-'christening.': KREUS/-PBG TP-PL
+'christening.': KREUFPB/-G TP-PL
 ''Feel,'': AE TPAOEL KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''how': AE HOU
 'heavy': HOEUF
 'it': T
@@ -1416,12 +1416,12 @@ Hans in Luck
 'lived': HREUFD
 'so': SO
 'well!'': WEL SKHRAPL AE
-''You're': AE U AE XXX re
+''You're': AE U AE RE/SP-S
 'right,'': RAOEUT KW-BG AE
 'said': SAEUD
 'Hans,': HAPBS KW-BG
 'as': AZ
-'he': E
+'he': HE
 'weighed': WA*ED
 'it': T
 'in': TPH
@@ -1440,7 +1440,7 @@ Hans in Luck
 'trifle.'': TRAOEUFL TP-PL AE
 'Meantime': PHAO*EPB/TAOEUPL
 'the': -T
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'began': TKPWAPB
 'to': TO
 'look': HRAOBG
@@ -1450,11 +1450,11 @@ Hans in Luck
 'his': HEUS
 'head.': HED TP-PL
 ''Hark': AE HARBG
-'ye!'': XXX ye SKHRAPL AE
+'ye!'': KWR*/*E/SP-S SKHRAPL AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''my': AE PHEU
-'worthy': WOR/TH*EU
+'worthy': WO*RT/KWREU
 'friend,': TPREPBD KW-BG
 'you': U
 'seem': SAOEPL
@@ -1499,7 +1499,7 @@ Hans in Luck
 'his': HEUS
 'sty.': STAOEU TP-PL
 'I': EU
-'was': WA
+'was': WAS
 'dreadfully': TKRED/-FL/KWREU
 'afraid': A/TPRAEUD
 'when': WHEPB
@@ -1511,7 +1511,7 @@ Hans in Luck
 'had': H
 'got': TKPWOT
 'the': -T
-'squire's': SKWAOEUR AE S*/SP-S
+'squire's': SKWAOEUR AES
 'pig.': PEUG TP-PL
 'If': TP
 'you': U
@@ -1546,13 +1546,13 @@ Hans in Luck
 'swim?'': SWEUPL H-F AE
 'Poor': PAOR
 'Hans': HAPBS
-'was': WA
+'was': WAS
 'sadly': SAD/HREU
 'frightened.': TPRAOEUPBD TP-PL
 ''Good': AE TKPWAOD
 'man,'': PHAPB KW-BG AE
 'cried': KRAOEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''pray': AE PRAEU
 'get': TKPWET
 'me': PHE
@@ -1567,18 +1567,18 @@ Hans in Luck
 'where': W-R
 'the': -T
 'pig': PEUG
-'was': WA
+'was': WAS
 'either': AOERT
 'bred': PWRED
 'or': OR
 'born;': PWORPB STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'may': PHAE
 'have': SR
 'been': PW-PB
 'the': -T
-'squire's': SKWAOEUR AE S*/SP-S
+'squire's': SKWAOEUR AES
 'for': TPOR
 'aught': AUT
 'I': EU
@@ -1610,7 +1610,7 @@ Hans in Luck
 'bargain,'': PWARG/AEUPB KW-BG AE
 'said': SAEUD
 'the': -T
-'countryman;': XXX countryman STPH*FPLT
+'countryman;': KREU/PHA*PB STPH*FPLT
 ''give': AE TKPWEUF
 'a': AEU
 'fat': TPAT
@@ -1619,7 +1619,7 @@ Hans in Luck
 'a': AEU
 'pig,': PEUG KW-BG
 'indeed!': TPHAOEPBD SKHRAPL
-''Tis': AE XXX Tis
+''Tis': AE T*/SKWREU/-S
 'not': TPHOT
 'everyone': EFRPB
 'would': WO
@@ -1644,7 +1644,7 @@ Hans in Luck
 'in': TPH
 'trouble.'': TRUBL TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'the': -T
 'string': STREUPBG
@@ -1673,7 +1673,7 @@ Hans in Luck
 ''After': AE AF
 'all,'': AUL KW-BG AE
 'thought': THAUT
-'he,': E KW-BG
+'he,': HE KW-BG
 ''that': AE THA
 'chap': KHAP
 'is': S
@@ -1715,7 +1715,7 @@ Hans in Luck
 'will': HR
 'be': -B
 'a': AEU
-'capital': KA*L
+'capital': KAPLT
 'roast;': ROEFT STPH*FPLT
 'then': THEPB
 'the': -T
@@ -1773,13 +1773,13 @@ Hans in Luck
 'fat': TPAT
 'goose.'': TKPWAOS TP-PL AE
 'As': AZ
-'he': E
+'he': HE
 'came': KAEUPL
 'to': TO
 'the': -T
 'next': TPHEGT
 'village,': SREULG KW-BG
-'he': E
+'he': HE
 'saw': SAU
 'a': AEU
 'scissor-grinder': SEUS/O*R H-PB TKPWREUPBD/*ER
@@ -1789,10 +1789,10 @@ Hans in Luck
 'working': WOG
 'and': SKP
 'singing,': SEUPBG/-G KW-BG
-''O'er': AE O*/SP-S AE XXX er
+''O'er': AE O*P AE ER/SP-S
 'hill': HEUL
 'and': SKP
-'o'er': O*/SP-S AE XXX er
+'o'er': OE/*ER
 'dale': TKAEL
 'So': SO
 'happy': HAEP
@@ -1812,7 +1812,7 @@ Hans in Luck
 'Then': THEPB
 'who': WHO
 'so': SO
-'blythe,': XXX blythe KW-BG
+'blythe,': xxx blythe KW-BG
 'so': SO
 'merry': PHER/REU
 'as': AZ
@@ -1925,7 +1925,7 @@ Hans in Luck
 ''And': AE SKP
 'the': -T
 'silver?'': SEUL/SRER H-F AE
-''Oh!': AE O*ERBGS SKHRAPL
+''Oh!': AE O*E SKHRAPL
 'I': EU
 'worked': WORBGD
 'hard': HARD
@@ -2064,7 +2064,7 @@ Hans in Luck
 'the': -T
 'grinder,': TKPWREUPBD/*ER KW-BG
 'as': AZ
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
@@ -2080,7 +2080,7 @@ Hans in Luck
 'is': S
 'a': AEU
 'most': PHOFT
-'capital': KA*L
+'capital': KAPLT
 'stone;': STOEPB STPH*FPLT
 'do': TKO
 'but': PWUT
@@ -2116,7 +2116,7 @@ Hans in Luck
 'for': TPOR
 'joy,': SKWROEU KW-BG
 'and': SKP
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'himself,': H*EUPLS KW-BG
@@ -2146,14 +2146,14 @@ Hans in Luck
 'kind;': KEUPBD STPH*FPLT
 'they': THE
 'seem': SAOEPL
-'really': HROERL
+'really': R-L
 'to': TO
 'think': THEU
 'I': EU
 'do': TKO
 'them': THEPL
 'a': AEU
-'favour': TPAEUFR
+'favour': TPAEU/SROUR
 'in': TPH
 'letting': HR*EGT
 'them': THEPL
@@ -2164,18 +2164,18 @@ Hans in Luck
 'giving': TKPWEUFG
 'me': PHE
 'good': TKPWAOD
-'bargains.'': PWARG/AEUPB/-S TP-PL AE
+'bargains.'': PWAR/TKPWAEUPBS TP-PL AE
 'Meantime': PHAO*EPB/TAOEUPL
-'he': E
+'he': HE
 'began': TKPWAPB
 'to': TO
 'be': -B
 'tired,': TAOEURD KW-BG
 'and': SKP
-'hungry': UPBG/REU
+'hungry': HUPBG/REU
 'too,': TAO KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'had': H
 'given': TKPWEUFPB
 'away': A/WAEU
@@ -2191,7 +2191,7 @@ Hans in Luck
 'cow.': KO*U TP-PL
 'At': AT
 'last': HRAFT
-'he': E
+'he': HE
 'could': KO
 'go': TKPW
 'no': TPHO
@@ -2203,7 +2203,7 @@ Hans in Luck
 'him': HEUPL
 'sadly:': SAD/HREU STPH-FPLT
 'and': SKP
-'he': E
+'he': HE
 'dragged': TKRAGD
 'himself': H*EUPLS
 'to': TO
@@ -2213,7 +2213,7 @@ Hans in Luck
 'a': AEU
 'river,': REUFR KW-BG
 'that': THA
-'he': E
+'he': HE
 'might': PHAOEUT
 'take': TAEUBG
 'a': AEU
@@ -2225,7 +2225,7 @@ Hans in Luck
 'a': AEU
 'while.': WHAOEUL TP-PL
 'So': SO
-'he': E
+'he': HE
 'laid': HRAEUD
 'the': -T
 'stone': STOEPB
@@ -2238,12 +2238,12 @@ Hans in Luck
 'bank:': PWA*PBG STPH-FPLT
 'but,': PWUT KW-BG
 'as': AZ
-'he': E
+'he': HE
 'stooped': STAOPD
 'down': TKOUPB
 'to': TO
 'drink,': TKREU KW-BG
-'he': E
+'he': HE
 'forgot': TPAURGT
 'it,': T KW-BG
 'pushed': PURBD
@@ -2261,7 +2261,7 @@ Hans in Luck
 'For': TPOR
 'a': AEU
 'while': WHAOEUL
-'he': E
+'he': HE
 'watched': WAFPD
 'it': T
 'sinking': SEUPB/K-G
@@ -2309,9 +2309,9 @@ Hans in Luck
 'am': APL
 'I!'': EU SKHRAPL AE
 'cried': KRAOEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 ''nobody': AE TPHOEB
-'was': WA
+'was': WAS
 'ever': -FR
 'so': SO
 'lucky': HROEUBG
@@ -2319,7 +2319,7 @@ Hans in Luck
 'I.'': EU TP-PL AE
 'Then': THEPB
 'up': UP
-'he': E
+'he': HE
 'got': TKPWOT
 'with': W
 'a': AEU
@@ -2334,10 +2334,10 @@ Hans in Luck
 'walked': WAUBGD
 'on': OPB
 'till': T*EUL
-'he': E
+'he': HE
 'reached': RAOEFPD
 'his': HEUS
-'mother's': PHOER AE S*/SP-S
+'mother's': PHOER/AES
 'house,': HOUS KW-BG
 'and': SKP
 'told': TOLD
@@ -2350,4 +2350,4 @@ Hans in Luck
 'to': TO
 'good': TKPWAOD
 'luck': HRUBG
-'was.': WA TP-PL
+'was.': WAS TP-PL

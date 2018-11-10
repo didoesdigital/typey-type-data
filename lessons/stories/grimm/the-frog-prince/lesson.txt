@@ -2,7 +2,7 @@ The Frog-Prince
 
 'One': WUPB
 'fine': TPAOEUPB
-'evening': AOEPG
+'evening': AOEPBG
 'a': AEU
 'young': KWRUPBG
 'princess': PREUPB/ES
@@ -59,14 +59,14 @@ The Frog-Prince
 'her': HER
 'hand,': HAPBD KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'her': HER
-'favourite': TPAEUFRT
+'favourite': TPAEUFRT/A*U
 'plaything;': PHRAEU/THEUPBG STPH*FPLT
 'and': SKP
 'she': SHE
-'was': WA
-'always': AULZ
+'was': WAS
+'always': AULS
 'tossing': TOFG
 'it': T
 'up': UP
@@ -128,7 +128,7 @@ The Frog-Prince
 'ball,': PWAUL KW-BG
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'very': SRE
 'deep,': TKAOEP KW-BG
 'so': SO
@@ -146,7 +146,7 @@ The Frog-Prince
 'she': SHE
 'began': TKPWAPB
 'to': TO
-'bewail': XXX bewail
+'bewail': xxx bewail
 'her': HER
 'loss,': HROS KW-BG
 'and': SKP
@@ -179,7 +179,7 @@ The Frog-Prince
 'world.'': WORLD TP-PL AE
 'Whilst': WHAOEULS
 'she': SHE
-'was': WA
+'was': WAS
 'speaking,': SPAOEG KW-BG
 'a': AEU
 'frog': TPROG
@@ -215,7 +215,7 @@ The Frog-Prince
 'golden': TKOELD/*EPB
 'ball': PWAUL
 'has': HAS
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'into': TPHAO
 'the': -T
 'spring.'': SPREUPBG TP-PL AE
@@ -273,7 +273,7 @@ The Frog-Prince
 'frog': TPROG
 'is': S
 'talking!': TAUG SKHRAPL
-'He': E
+'He': HE
 'can': K
 'never': TPHEF
 'even': AOEPB
@@ -286,7 +286,7 @@ The Frog-Prince
 'visit': SREUFT
 'me,': PHE KW-BG
 'though': THOE
-'he': E
+'he': HE
 'may': PHAE
 'be': -B
 'able': ABL
@@ -302,11 +302,11 @@ The Frog-Prince
 'will': HR
 'tell': TEL
 'him': HEUPL
-'he': E
+'he': HE
 'shall': SHAL
 'have': SR
 'what': WHA
-'he': E
+'he': HE
 'asks.'': SK-S TP-PL AE
 'So': SO
 'she': SHE
@@ -346,7 +346,7 @@ The Frog-Prince
 'a': AEU
 'little': HREUL
 'while': WHAOEUL
-'he': E
+'he': HE
 'came': KAEUPL
 'up': UP
 'again,': TKPWEPB KW-BG
@@ -382,9 +382,9 @@ The Frog-Prince
 'up;': UP STPH*FPLT
 'and': SKP
 'she': SHE
-'was': WA
+'was': WAS
 'so': SO
-'overjoyed': XXX overjoyed
+'overjoyed': AUFR/SKWROEUD
 'to': TO
 'have': SR
 'it': T
@@ -446,15 +446,15 @@ The Frog-Prince
 'to': TO
 'dinner,': TKEURPB KW-BG
 'she': SHE
-'heard': HERD
+'heard': HAERD
 'a': AEU
 'strange': STRAEUPBG
 'noise--tap,': TPHOEUS H-PB H-PB TAP KW-BG
-'tap--plash,': TAP H-PB H-PB XXX plash KW-BG
-'plash--as': XXX plash H-PB H-PB AZ
+'tap--plash,': TAP H-PB H-PB xxx plash KW-BG
+'plash--as': xxx plash H-PB H-PB AZ
 'if': TP
 'something': S-G
-'was': WA
+'was': WAS
 'coming': KO*G
 'up': UP
 'the': -T
@@ -464,7 +464,7 @@ The Frog-Prince
 'soon': SAOPB
 'afterwards': A*FRDZ
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'gentle': SKWR*EPBLT
 'knock': TPHOBG
@@ -504,11 +504,11 @@ The Frog-Prince
 'said': SAEUD
 'By': PWEU
 'the': -T
-'fountain': TPOUPB/TAPB
+'fountain': TPOUPB/TAEUPB
 'cool,': KAOL KW-BG
 'in': TPH
 'the': -T
-'greenwood': XXX greenwood
+'greenwood': xxx greenwood
 'shade.'': SHAEUD TP-PL AE
 'Then': THEPB
 'the': -T
@@ -535,7 +535,7 @@ The Frog-Prince
 'this': TH
 'sight': SAOEUT
 'she': SHE
-'was': WA
+'was': WAS
 'sadly': SAD/HREU
 'frightened,': TPRAOEUPBD KW-BG
 'and': SKP
@@ -565,7 +565,7 @@ The Frog-Prince
 'asked': SK-D
 'her': HER
 'what': WHA
-'was': WA
+'was': WAS
 'the': -T
 'matter.': PHAERT TP-PL
 ''There': AE THR
@@ -594,7 +594,7 @@ The Frog-Prince
 'told': TOLD
 'him': HEUPL
 'that': THA
-'he': E
+'he': HE
 'should': SHO
 'live': HREUF
 'with': W
@@ -602,7 +602,7 @@ The Frog-Prince
 'here,': HAOER KW-BG
 'thinking': THEUG
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'never': TPHEF
 'get': TKPWET
@@ -612,20 +612,20 @@ The Frog-Prince
 'spring;': SPREUPBG STPH*FPLT
 'but': PWUT
 'there': THR
-'he': E
+'he': HE
 'is': S
 'at': AT
 'the': -T
 'door,': TKAOR KW-BG
 'and': SKP
-'he': E
+'he': HE
 'wants': WAPBTS
 'to': TO
 'come': KOPL
 'in.'': TPH TP-PL AE
 'While': WHAOEUL
 'she': SHE
-'was': WA
+'was': WAS
 'speaking': SPAOEG
 'the': -T
 'frog': TPROG
@@ -661,11 +661,11 @@ The Frog-Prince
 'said': SAEUD
 'By': PWEU
 'the': -T
-'fountain': TPOUPB/TAPB
+'fountain': TPOUPB/TAEUPB
 'cool,': KAOL KW-BG
 'in': TPH
 'the': -T
-'greenwood': XXX greenwood
+'greenwood': xxx greenwood
 'shade.'': SHAEUD TP-PL AE
 'Then': THEPB
 'the': -T
@@ -705,8 +705,8 @@ The Frog-Prince
 'then': THEPB
 'straight': STRAEUT
 'on--tap,': OPB H-PB H-PB TAP KW-BG
-'tap--plash,': TAP H-PB H-PB XXX plash KW-BG
-'plash--from': XXX plash H-PB H-PB TPR
+'tap--plash,': TAP H-PB H-PB xxx plash KW-BG
+'plash--from': xxx plash H-PB H-PB TPR
 'the': -T
 'bottom': PWOPLT
 'of': -F
@@ -716,7 +716,7 @@ The Frog-Prince
 'the': -T
 'top,': TOP KW-BG
 'till': T*EUL
-'he': E
+'he': HE
 'came': KAEUPL
 'up': UP
 'close': KHROES
@@ -733,7 +733,7 @@ The Frog-Prince
 'upon': POPB
 'chair,'': KHAEUR KW-BG AE
 'said': SAEUD
-'he': E
+'he': HE
 'to': TO
 'the': -T
 'princess,': PREUPB/ES KW-BG
@@ -772,15 +772,15 @@ The Frog-Prince
 'did,': TK KW-BG
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'eaten': AOET/EPB
 'as': AZ
 'much': PHUFP
 'as': AZ
-'he': E
+'he': HE
 'could,': KO KW-BG
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 ''Now': AE TPHOU
 'I': EU
@@ -818,7 +818,7 @@ The Frog-Prince
 'own': OEPB
 'bed,': PWED KW-BG
 'where': W-R
-'he': E
+'he': HE
 'slept': SHREPD
 'all': AUL
 'night': TPHAOEUT
@@ -827,9 +827,9 @@ The Frog-Prince
 'soon': SAOPB
 'as': AZ
 'it': T
-'was': WA
+'was': WAS
 'light': HRAOEUT
-'he': E
+'he': HE
 'jumped': SKWR*UPLD
 'up,': UP KW-BG
 'hopped': HOPD
@@ -847,7 +847,7 @@ The Frog-Prince
 'princess,': PREUPB/ES KW-BG
 ''at': AE AT
 'last': HRAFT
-'he': E
+'he': HE
 'is': S
 'gone,': TKPWOPB KW-BG
 'and': SKP
@@ -861,7 +861,7 @@ The Frog-Prince
 'more.'': PHOR TP-PL AE
 'But': PWUT
 'she': SHE
-'was': WA
+'was': WAS
 'mistaken;': SPHA*EUPB STPH*FPLT
 'for': TPOR
 'when': WHEPB
@@ -869,7 +869,7 @@ The Frog-Prince
 'came': KAEUPL
 'again': TKPWEPB
 'she': SHE
-'heard': HERD
+'heard': HAERD
 'the': -T
 'same': SAEUPL
 'tapping': TAPG
@@ -909,11 +909,11 @@ The Frog-Prince
 'said': SAEUD
 'By': PWEU
 'the': -T
-'fountain': TPOUPB/TAPB
+'fountain': TPOUPB/TAEUPB
 'cool,': KAOL KW-BG
 'in': TPH
 'the': -T
-'greenwood': XXX greenwood
+'greenwood': xxx greenwood
 'shade.'': SHAEUD TP-PL AE
 'And': SKP
 'when': WHEPB
@@ -941,7 +941,7 @@ The Frog-Prince
 'the': -T
 'third': THEURD
 'night': TPHAOEUT
-'he': E
+'he': HE
 'did': TK
 'the': -T
 'same.': SAEUPL TP-PL
@@ -955,7 +955,7 @@ The Frog-Prince
 'following': TPOLG
 'morning': PHORPBG
 'she': SHE
-'was': WA
+'was': WAS
 'astonished': A/STOPB/EURBD
 'to': TO
 'see,': SAOE KW-BG
@@ -986,11 +986,11 @@ The Frog-Prince
 'of': -F
 'her': HER
 'bed.': PWED TP-PL
-'He': E
+'He': HE
 'told': TOLD
 'her': HER
 'that': THA
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'enchanted': EPB/HAPBT/-D
@@ -1007,7 +1007,7 @@ The Frog-Prince
 'frog;': TPROG STPH*FPLT
 'and': SKP
 'that': THA
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'fated': TPAT/-D
@@ -1065,7 +1065,7 @@ The Frog-Prince
 'me': PHE
 'into': TPHAO
 'my': PHEU
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'kingdom,': KEUPBG/TKOPL KW-BG
 'where': W-R
 'I': EU
@@ -1087,7 +1087,7 @@ The Frog-Prince
 'may': PHAE
 'be': -B
 'sure,': SHUR KW-BG
-'was': WA
+'was': WAS
 'not': TPHOT
 'long': HROPBG
 'in': TPH
@@ -1108,7 +1108,7 @@ The Frog-Prince
 'with': W
 'eight': AET
 'beautiful': PWAOUFL
-'horses,': HORS/-S KW-BG
+'horses,': HORSZ KW-BG
 'decked': TKEBG/-D
 'with': W
 'plumes': PHRAOUPL/-S
@@ -1124,13 +1124,13 @@ The Frog-Prince
 'coach': KOEFP
 'rode': ROED
 'the': -T
-'prince's': PREUPBS AE S*/SP-S
-'servant,': SEFB/APBT KW-BG
+'prince's': PREUPBS AES
+'servant,': SEFRB/APBT KW-BG
 'faithful': TPA*EUT/-FL
-'Heinrich,': XXX Heinrich KW-BG
+'Heinrich,': xxx Heinrich KW-BG
 'who': WHO
 'had': H
-'bewailed': XXX bewailed
+'bewailed': xxx bewailed
 'the': -T
 'misfortunes': PHEUS/TPOR/TAOUPB/-S
 'of': -F
@@ -1165,7 +1165,7 @@ The Frog-Prince
 'coach': KOEFP
 'with': W
 'eight': AET
-'horses,': HORS/-S KW-BG
+'horses,': HORSZ KW-BG
 'and': SKP
 'all': AUL
 'set': SET
@@ -1177,7 +1177,7 @@ The Frog-Prince
 'merriment,': PHER/*PLT KW-BG
 'for': TPOR
 'the': -T
-'prince's': PREUPBS AE S*/SP-S
+'prince's': PREUPBS AES
 'kingdom,': KEUPBG/TKOPL KW-BG
 'which': WEU
 'they': THE

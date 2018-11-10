@@ -1,7 +1,7 @@
 The Conceited Apple-Branch
 
 'It': T
-'was': WA
+'was': WAS
 'the': -T
 'month': PHO*PBT
 'of': -F
@@ -62,7 +62,7 @@ The Conceited Apple-Branch
 'that': THA
 'were': WR
 'just': SKWRUFT
-'ready': R*ED
+'ready': R-D
 'to': TO
 'open.': OEP TP-PL
 'The': -T
@@ -72,7 +72,7 @@ The Conceited Apple-Branch
 'how': HOU
 'beautiful': PWAOUFL
 'it': T
-'was;': WA STPH*FPLT
+'was;': WAS STPH*FPLT
 'this': TH
 'knowledge': TPHOPBLG
 'exists': KPEUFTS
@@ -86,13 +86,13 @@ The Conceited Apple-Branch
 'the': -T
 'blood;': PWHRAOD STPH*FPLT
 'I': EU
-'was': WA
+'was': WAS
 'therefore': TH-FR
 'not': TPHOT
 'surprised': SPRAOEUFD
 'when': WHEPB
 'a': AEU
-'nobleman's': XXX nobleman AE S*/SP-S
+'nobleman's': TPHOEBL/PHA*PB AES
 'carriage,': KAEURPBLG KW-BG
 'in': TPH
 'which': WEU
@@ -111,7 +111,7 @@ The Conceited Apple-Branch
 'that': THA
 'an': APB
 'apple-branch': A*EPL H-PB PWRAFRPB
-'was': WA
+'was': WAS
 'a': AEU
 'most': PHOFT
 'lovely': HROFL
@@ -129,7 +129,7 @@ The Conceited Apple-Branch
 'Then': THEPB
 'the': -T
 'branch': PWRAFRPB
-'was': WA
+'was': WAS
 'broken': PWROEPB
 'off': OF
 'for': TPOR
@@ -195,11 +195,11 @@ The Conceited Apple-Branch
 'out': OUT
 'of': -F
 'newly': TPHAOUL
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'snow,': STPHOE KW-BG
 'the': -T
 'apple-branch': A*EPL H-PB PWRAFRPB
-'was': WA
+'was': WAS
 'placed,': PHRAEUFD KW-BG
 'among': PHOPBG
 'some': SOPL
@@ -209,7 +209,7 @@ The Conceited Apple-Branch
 'of': -F
 'beech.': PWAOEFP TP-PL
 'It': T
-'was': WA
+'was': WAS
 'a': AEU
 'charming': KHARPL/-G
 'sight.': SAOEUT TP-PL
@@ -219,7 +219,7 @@ The Conceited Apple-Branch
 'became': PWAEUPL
 'proud,': PROUD KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'very': SRE
 'much': PHUFP
 'like': HRAOEUBG
@@ -245,7 +245,7 @@ The Conceited Apple-Branch
 'to': TO
 'express': EBGS/PRES
 'their': THAEUR
-'admiration.': AD/PHEU/RAEUGS TP-PL
+'admiration.': AD/PHEUR/AEUGS TP-PL
 'Some': SOPL
 'few': TPAOU
 'said': SAEUD
@@ -264,7 +264,7 @@ The Conceited Apple-Branch
 'understand': URPBD
 'that': THA
 'there': THR
-'was': WA
+'was': WAS
 'as': AZ
 'much': PHUFP
 'difference': TKEUFRPBS
@@ -316,7 +316,7 @@ The Conceited Apple-Branch
 'the': -T
 'apple-branch,': A*EPL H-PB PWRAFRPB KW-BG
 'as': AZ
-'he': E
+'he': HE
 'stood': STAOD
 'before': PW-F
 'the': -T
@@ -324,7 +324,7 @@ The Conceited Apple-Branch
 'window,': WOEUPBD KW-BG
 'from': TPR
 'which': WEU
-'he': E
+'he': HE
 'could': KO
 'see': SAOE
 'out': OUT
@@ -363,7 +363,7 @@ The Conceited Apple-Branch
 'apple-branch;': A*EPL H-PB PWRAFRPB STPH*FPLT
 '"there': KR-GS THR
 'is': S
-'really': HROERL
+'really': R-L
 'a': AEU
 'difference': TKEUFRPBS
 'between': TWAOEPB
@@ -505,13 +505,13 @@ The Conceited Apple-Branch
 'be': -B
 'a': AEU
 'difference."': TKEUFRPBS TP-PL KR-GS
-'"A': KR-GS AEU
+'"A': KR-GS KPA*/AEU
 'difference!"': TKEUFRPBS SKHRAPL KR-GS
 'cried': KRAOEUD
 'the': -T
 'sunbeam,': SUPB/PWAOEPL KW-BG
 'as': AZ
-'he': E
+'he': HE
 'kissed': K*EUFD
 'the': -T
 'blooming': PWHRAOPL/-G
@@ -553,7 +553,7 @@ The Conceited Apple-Branch
 'of': -F
 'God,': TKPWOD KW-BG
 'which': WEU
-'extends': EBGS/TEPBDZ
+'extends': ST*EPBDZ
 'over': OEFR
 'all': AUL
 'the': -T
@@ -572,7 +572,7 @@ The Conceited Apple-Branch
 'being': -BG
 'in': TPH
 'Him;': HEUPL STPH*FPLT
-'he': E
+'he': HE
 'had': H
 'never': TPHEF
 'thought': THAUT
@@ -619,7 +619,7 @@ The Conceited Apple-Branch
 'nor': TPH-R
 'very': SRE
 'clearly,"': KAOERL KW-BG KR-GS
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'the': -T
@@ -635,7 +635,7 @@ The Conceited Apple-Branch
 'pity?"': PEUT/TEU H-F KR-GS
 '"The': KR-GS -T
 'dandelion,"': TKAPBD/HRAOEUPB KW-BG KR-GS
-'he': E
+'he': HE
 'replied.': RE/PHRAOEUD TP-PL
 '"No': KR-GS TPHO
 'one': WUPB
@@ -648,7 +648,7 @@ The Conceited Apple-Branch
 'it': T
 'is': S
 'often': OFPB
-'trodden': XXX trodden
+'trodden': TROD/*EPB
 'under': *UPBD
 'foot,': TPAOT KW-BG
 'there': THR
@@ -696,15 +696,15 @@ The Conceited Apple-Branch
 'must': PHUFT
 'be': -B
 'weeds.': WAOEDZ TP-PL
-'O,': O*/SP-S KW-BG
+'O,': O*P KW-BG
 'I': EU
 'am': APL
-'really': HROERL
+'really': R-L
 'very': SRE
 'thankful': THAPB/K-FL
 'that': THA
 'I': EU
-'was': WA
+'was': WAS
 'not': TPHOT
 'made': PHAED
 'like': HRAOEUBG
@@ -727,9 +727,9 @@ The Conceited Apple-Branch
 'youngest': KWRUPBG/EFT
 'of': -F
 'whom': WHOPL
-'was': WA
+'was': WAS
 'so': SO
-'small': SPAUL
+'small': SPHAL
 'that': THA
 'it': T
 'had': H
@@ -741,8 +741,8 @@ The Conceited Apple-Branch
 'others;': OERS STPH*FPLT
 'and': SKP
 'when': WHEPB
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'seated': SAOETD
 'on': OPB
 'the': -T
@@ -751,7 +751,7 @@ The Conceited Apple-Branch
 'the': -T
 'yellow': KWREL/OE
 'flowers,': TPHRO*URS KW-BG
-'he': E
+'he': HE
 'laughed': HRAFD
 'aloud': A/HROUD
 'with': W
@@ -771,7 +771,7 @@ The Conceited Apple-Branch
 'kissed': K*EUFD
 'them': THEPL
 'in': TPH
-'childlike': XXX childlike
+'childlike': xxx childlike
 'innocence.': TPHEPBS TP-PL
 'The': -T
 'elder': ELD/ER
@@ -795,7 +795,7 @@ The Conceited Apple-Branch
 'links,': HR*EUPBGS KW-BG
 'and': SKP
 'made': PHAED
-'first': TPEURS
+'first': TPEUFRT
 'a': AEU
 'chain': KHAEUPB
 'for': TPOR
@@ -854,7 +854,7 @@ The Conceited Apple-Branch
 'stem': STEPL
 'of': -F
 'which': WEU
-'was': WA
+'was': WAS
 'grouped': TKPWRAOUPD
 'together': TOGT
 'the': -T
@@ -865,7 +865,7 @@ The Conceited Apple-Branch
 'of': -F
 'a': AEU
 'white': WHAOEUT
-'feathery': XXX feathery
+'feathery': xxx feathery
 'coronal.': KROEPBL TP-PL
 'These': THEZ
 'loose,': HRAOS KW-BG
@@ -931,7 +931,7 @@ The Conceited Apple-Branch
 'The': -T
 'despised': STKPAOEUZ/-D
 'flower': TPHRO*UR
-'was': WA
+'was': WAS
 'by': PWEU
 'this': TH
 'raised': RA*EUFD
@@ -1009,7 +1009,7 @@ The Conceited Apple-Branch
 'of': -F
 'these': THEZ
 'she': SHE
-'intended': EUPB/TED/-D
+'intended': SPWEPBD/-D
 'to': TO
 'make': PHAEUBG
 'tea': TAE
@@ -1019,7 +1019,7 @@ The Conceited Apple-Branch
 'the': -T
 'rest': REFT
 'she': SHE
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'sell': SEL
@@ -1154,7 +1154,7 @@ The Conceited Apple-Branch
 'flower.': TPHRO*UR TP-PL
 'The': -T
 'object': OBT
-'was': WA
+'was': WAS
 'hidden': HEUD/EPB
 'by': PWEU
 'two': TWO
@@ -1171,7 +1171,7 @@ The Conceited Apple-Branch
 'so': SO
 'that': THA
 'no': TPHO
-'draught': TRAFT
+'draught': TKRAUFT
 'or': OR
 'gust': TKPWUFT
 'of': -F
@@ -1181,7 +1181,7 @@ The Conceited Apple-Branch
 'it,': T KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'carried': KAERD
 'more': PHOR
 'carefully': KA*EUFL
@@ -1202,14 +1202,14 @@ The Conceited Apple-Branch
 'there': THR
 'appeared': A/PAOERD
 'the': -T
-'feathery': XXX feathery
+'feathery': xxx feathery
 'seed-crown': SAOED H-PB KROUPB
 'of': -F
 'the': -T
 'despised': STKPAOEUZ/-D
 'dandelion.': TKAPBD/HRAOEUPB TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'what': WHA
 'the': -T
 'lady': HRA*ED
@@ -1230,14 +1230,14 @@ The Conceited Apple-Branch
 'of': -F
 'the': -T
 'delicate': TKEL/KAT
-'feathery': XXX feathery
+'feathery': xxx feathery
 'arrows': AR/OES
 'of': -F
 'which': WEU
 'its': EUTS
 'mist-like': PHEUFT H-PB HRAOEUBG
 'shape': SHAEUP
-'was': WA
+'was': WAS
 'so': SO
 'lightly': HRAOEULT
 'formed,': TPORPLD KW-BG
@@ -1250,7 +1250,7 @@ The Conceited Apple-Branch
 'it': T
 'forth': TPO*RT
 'quite': KWAOEUT
-'uninjured,': XXX uninjured KW-BG
+'uninjured,': xxx uninjured KW-BG
 'and': SKP
 'wondered': WOPBD/-D
 'at': AT
@@ -1259,7 +1259,7 @@ The Conceited Apple-Branch
 'form,': TPORPL KW-BG
 'and': SKP
 'airy': AEUR/REU
-'lightness,': XXX lightness KW-BG
+'lightness,': HRAOEUT/-PBS KW-BG
 'and': SKP
 'singular': SEUPBG/HRAR
 'construction,': KRUBGS KW-BG
@@ -1285,7 +1285,7 @@ The Conceited Apple-Branch
 'flower.': TPHRO*UR TP-PL
 'I': EU
 'will': HR
-'paint': PAEUPT
+'paint': PAEUPBT
 'it': T
 'with': W
 'the': -T
@@ -1336,7 +1336,7 @@ The Conceited Apple-Branch
 'lowly': HROE/HREU
 'flower,': TPHRO*UR KW-BG
 'and': SKP
-'he': E
+'he': HE
 'kissed': K*EUFD
 'the': -T
 'blooming': PWHRAOPL/-G

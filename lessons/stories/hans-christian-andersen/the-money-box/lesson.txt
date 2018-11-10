@@ -23,7 +23,7 @@ The Money-Box
 'high': HAOEU
 'wardrobe.': WARD/ROEB TP-PL
 'It': T
-'was': WA
+'was': WAS
 'made': PHAED
 'of': -F
 'clay': KHRAEU
@@ -46,7 +46,7 @@ The Money-Box
 'of': -F
 'the': -T
 'pig': PEUG
-'was': WA
+'was': WAS
 'a': AEU
 'slit,': SHREUT KW-BG
 'and': SKP
@@ -79,10 +79,10 @@ The Money-Box
 'a': AEU
 'number': TPHUPL
 'of': -F
-'pence.': XXX pence TP-PL
+'pence.': xxx pence TP-PL
 'The': -T
 'money-pig': PHUPB H-PB PEUG
-'was': WA
+'was': WAS
 'stuffed': STUFD
 'so': SO
 'full': TPUL
@@ -106,7 +106,7 @@ The Money-Box
 'can': K
 'attain.': A/TAEUPB TP-PL
 'There': THR
-'he': E
+'he': HE
 'stood': STAOD
 'upon': POPB
 'the': -T
@@ -122,12 +122,12 @@ The Money-Box
 'in': TPH
 'the': -T
 'room.': RAOPL TP-PL
-'He': E
+'He': HE
 'knew': TPHAOU
 'very': SRE
 'well': WEL
 'that': THA
-'he': E
+'he': HE
 'had': H
 'enough': TPHUF
 'inside': TPH-DZ
@@ -174,7 +174,7 @@ The Money-Box
 'to': TO
 'talk': TAUBG
 'about.': PW TP-PL
-'A': AEU
+'A': KPA*/AEU
 'large': HRARPBLG
 'doll,': TKOL KW-BG
 'still': STEUL
@@ -195,7 +195,7 @@ The Money-Box
 'the': -T
 'drawers': TKRAURS
 'which': WEU
-'was': WA
+'was': WAS
 'partly': PARLT
 'open.': OEP TP-PL
 'She': SHE
@@ -223,7 +223,7 @@ The Money-Box
 'Upon': POPB
 'this': TH
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'great': TKPWRAET
 'uproar;': UP/ROR STPH*FPLT
@@ -260,7 +260,7 @@ The Money-Box
 'least': HRAOEFT
 'intention': SPWEPBGS
 'to': TO
-'expose': SPOEG
+'expose': SPOES
 'themselves': TH*EPLS
 'in': TPH
 'this': TH
@@ -272,7 +272,7 @@ The Money-Box
 'the': -T
 'game.': TKPWAEUPL TP-PL
 'It': T
-'was': WA
+'was': WAS
 'late': HRAEUT
 'at': AT
 'night,': TPHAOEUT KW-BG
@@ -295,7 +295,7 @@ The Money-Box
 'as': AZ
 'the': -T
 'game': TKPWAEUPL
-'was': WA
+'was': WAS
 'now': TPHOU
 'to': TO
 'begin,': TKPWEUPB KW-BG
@@ -330,7 +330,7 @@ The Money-Box
 'cannot': K/TPHOT
 'all': AUL
 'be': -B
-'noblemen;': XXX noblemen STPH*FPLT
+'noblemen;': xxx noblemen STPH*FPLT
 'there': THR
 'must': PHUFT
 'be': -B
@@ -341,7 +341,7 @@ The Money-Box
 'work."': WORBG TP-PL KR-GS
 'The': -T
 'money-pig': PHUPB H-PB PEUG
-'was': WA
+'was': WAS
 'the': -T
 'only': OEPBL
 'one': WUPB
@@ -350,7 +350,7 @@ The Money-Box
 'a': AEU
 'written': WREUPB
 'invitation.': EUPB/SREU/TAEUGS TP-PL
-'He': E
+'He': HE
 'stood': STAOD
 'so': SO
 'high': HAOEU
@@ -358,7 +358,7 @@ The Money-Box
 'they': THE
 'were': WR
 'afraid': A/TPRAEUD
-'he': E
+'he': HE
 'would': WO
 'not': TPHOT
 'accept': SEP
@@ -369,16 +369,16 @@ The Money-Box
 'in': TPH
 'his': HEUS
 'reply,': RE/PHREU KW-BG
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 'if': TP
-'he': E
+'he': HE
 'had': H
 'to': TO
 'take': TAEUBG
 'a': AEU
 'part,': PART KW-BG
-'he': E
+'he': HE
 'must': PHUFT
 'enjoy': TPHOEUPBLG
 'the': -T
@@ -404,7 +404,7 @@ The Money-Box
 'little': HREUL
 'toy': TOEU
 'theatre': THAO*ERT
-'was': WA
+'was': WAS
 'therefore': TH-FR
 'put': PUT
 'up': UP
@@ -446,14 +446,14 @@ The Money-Box
 'with': W
 'the': -T
 'latter': HRAERT
-'first.': TPEURS TP-PL
+'first.': TPEUFRT TP-PL
 'The': -T
 'rocking-horse': ROBG/-G H-PB HORS
 'spoke': SPOEBG
 'of': -F
 'training': TRAEUPG
 'and': SKP
-'races;': RAEUS/-S STPH*FPLT
+'races;': RAEUSZ STPH*FPLT
 'the': -T
 'wagon': WAG/OPB
 'of': -F
@@ -472,7 +472,7 @@ The Money-Box
 'professions,': PROEFGS/-S KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'right': RAOEUT
 'they': THE
 'should': SHO
@@ -484,23 +484,23 @@ The Money-Box
 'talked': TAUBGD
 'politics—"tick,': PHREUBGS EPL/TKA*RB KR-GS TEUBG KW-BG
 'tick;"': TEUBG STPH*FPLT KR-GS
-'he': E
+'he': HE
 'professed': PROF/ES/-D
 'to': TO
 'know': TPHOE
 'what': WHA
-'was': WA
+'was': WAS
 'the': -T
 'time': TAOEUPL
 'of': -F
 'day,': TKAEU KW-BG
 'but': PWUT
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'whisper': WEUS/PER
 'that': THA
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'go': TKPW
@@ -514,8 +514,8 @@ The Money-Box
 'stiff': STEUF
 'and': SKP
 'proud:': PROUD STPH-FPLT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'vain': SRA*EUPB
 'of': -F
 'his': HEUS
@@ -570,7 +570,7 @@ The Money-Box
 'the': -T
 'riding-whip': RAOEUD/-G H-PB WHEUP
 'said': SAEUD
-'he': E
+'he': HE
 'never': TPHEF
 'cracked': KRABGD
 'for': TPOR
@@ -608,13 +608,13 @@ The Money-Box
 'went': WEPBT
 'on.': OPB TP-PL
 'It': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'worth': WO*RT
 'much,': PHUFP KW-BG
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'very': SRE
 'well': WEL
 'played,': PHRAEUD KW-BG
@@ -642,7 +642,7 @@ The Money-Box
 'side.': SAOEUD TP-PL
 'The': -T
 'acting': A*G
-'was': WA
+'was': WAS
 'wonderful,': WUFL KW-BG
 'excepting': KPEPT/-G
 'that': THA
@@ -668,7 +668,7 @@ The Money-Box
 'had': H
 'been': PW-PB
 'darned,': TKARPB/-D KW-BG
-'was': WA
+'was': WAS
 'so': SO
 'excited': KPAOEUTD
 'that': THA
@@ -682,7 +682,7 @@ The Money-Box
 'the': -T
 'money-pig': PHUPB H-PB PEUG
 'declared': TKE/KHRAEURD
-'he': E
+'he': HE
 'must': PHUFT
 'do': TKO
 'something': S-G
@@ -700,7 +700,7 @@ The Money-Box
 'so': SO
 'much.': PHUFP TP-PL
 'So': SO
-'he': E
+'he': HE
 'made': PHAED
 'up': UP
 'his': HEUS
@@ -752,7 +752,7 @@ The Money-Box
 'carried': KAERD
 'out': OUT
 'their': THAEUR
-'idea': KWRUD
+'idea': KWR-D
 'of': -F
 'intellectual': SPWHREBGT/WAL
 'amusement,': A/PHAOUS/*PLT KW-BG
@@ -766,14 +766,14 @@ The Money-Box
 'women;': WEUPL STPH*FPLT
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'nothing': TPHOG
 'wrong': WROPBG
 'about': PW
 'it,': T KW-BG
 'for': TPOR
 'it': T
-'was': WA
+'was': WAS
 'only': OEPBL
 'play.': PHRAEU TP-PL
 'All': AUL
@@ -798,7 +798,7 @@ The Money-Box
 'were': WR
 'on,': OPB KW-BG
 'as': AZ
-'he': E
+'he': HE
 'supposed,': SPOED KW-BG
 'a': AEU
 'very': SRE
@@ -823,13 +823,13 @@ The Money-Box
 'Certainly': SERPBL
 'sooner': SAORPB
 'than': THAPB
-'he': E
+'he': HE
 'expected—for': KP-PTD EPL/TKA*RB TPOR
 'all': AUL
 'at': AT
 'once': WUPBS
 'down': TKOUPB
-'he': E
+'he': HE
 'came': KAEUPL
 'from': TPR
 'the': -T
@@ -842,7 +842,7 @@ The Money-Box
 'the': -T
 'ground,': TKPWROUPBD KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'broken': PWROEPB
 'to': TO
 'pieces.': PAOEFS TP-PL
@@ -894,7 +894,7 @@ The Money-Box
 'world,': WORLD KW-BG
 'and': SKP
 'now': TPHOU
-'he': E
+'he': HE
 'had': H
 'his': HEUS
 'wish': WEURB
@@ -950,7 +950,7 @@ The Money-Box
 'not': TPHOT
 'rattle.': RA*LT TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'the': -T
 'beginning': TKPWEUPB/-G
 'with': W

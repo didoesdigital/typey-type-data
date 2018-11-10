@@ -1,7 +1,7 @@
 Cat-Skin
 
 'There': THR
-'was': WA
+'was': WAS
 'once': WUPBS
 'a': AEU
 'king,': KEUPBG KW-BG
@@ -14,13 +14,13 @@ Cat-Skin
 'purest': PAOUR/EFT
 'gold,': TKPWOELD KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'so': SO
 'beautiful': PWAOUFL
 'that': THA
 'her': HER
 'match': PHAFP
-'was': WA
+'was': WAS
 'not': TPHOT
 'to': TO
 'be': -B
@@ -104,7 +104,7 @@ Cat-Skin
 'But': PWUT
 'the': -T
 'king': KEUPBG
-'was': WA
+'was': WAS
 'not': TPHOT
 'to': TO
 'be': -B
@@ -162,7 +162,7 @@ Cat-Skin
 'queen.': KWAOEPB TP-PL
 'But': PWUT
 'there': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'princess': PREUPB/ES
 'in': TPH
@@ -177,7 +177,7 @@ Cat-Skin
 'been,': PW-PB KW-BG
 'still': STEUL
 'there': THR
-'was': WA
+'was': WAS
 'not': TPHOT
 'one': WUPB
 'to': TO
@@ -207,7 +207,7 @@ Cat-Skin
 'a': AEU
 'daughter,': TKAUR KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'as': AZ
 'beautiful': PWAOUFL
@@ -223,7 +223,7 @@ Cat-Skin
 'And': SKP
 'when': WHEPB
 'she': SHE
-'was': WA
+'was': WAS
 'grown': TKPWROEPB
 'up,': UP KW-BG
 'the': -T
@@ -235,18 +235,18 @@ Cat-Skin
 'saw': SAU
 'that': THA
 'she': SHE
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'like': HRAOEUBG
 'this': TH
 'late': HRAEUT
 'queen:': KWAOEPB STPH-FPLT
 'then': THEPB
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'his': HEUS
-'courtiers,': XXX courtiers KW-BG
+'courtiers,': KORT/KWRERS KW-BG
 ''May': AE PHAE
 'I': EU
 'not': TPHOT
@@ -286,8 +286,8 @@ Cat-Skin
 'queen.'': KWAOEPB TP-PL AE
 'When': WHEPB
 'the': -T
-'courtiers': XXX courtiers
-'heard': HERD
+'courtiers': KORT/KWRERS
+'heard': HAERD
 'this': TH
 'they': THE
 'were': WR
@@ -316,7 +316,7 @@ Cat-Skin
 'And': SKP
 'his': HEUS
 'daughter': TKAUR
-'was': WA
+'was': WAS
 'also': HR-S
 'shocked,': SHOBGD KW-BG
 'but': PWUT
@@ -374,10 +374,10 @@ Cat-Skin
 'I': EU
 'want': WAPBT
 'a': AEU
-'mantle': PHAPBT/-L
+'mantle': PHAPBT/*L
 'of': -F
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'different': TKEUFRT
 'kinds': KEUPBDZ
 'of': -F
@@ -402,7 +402,7 @@ Cat-Skin
 'thus': THUS
 'she': SHE
 'thought': THAUT
-'he': E
+'he': HE
 'would': WO
 'think': THEU
 'of': -F
@@ -416,7 +416,7 @@ Cat-Skin
 'made': PHAED
 'the': -T
 'most': PHOFT
-'skilful': XXX skilful
+'skilful': SKEUL/*FL
 'workmen': WORBG/PHEPB
 'in': TPH
 'his': HEUS
@@ -431,7 +431,7 @@ Cat-Skin
 'the': -T
 'sun;': SUPB STPH*FPLT
 'another': TPHOER
-'silvery,': XXX silvery KW-BG
+'silvery,': SEUL/SRER/KWREU KW-BG
 'like': HRAOEUBG
 'the': -T
 'moon;': PHAOPB STPH*FPLT
@@ -469,17 +469,17 @@ Cat-Skin
 'and': SKP
 'thus': THUS
 'a': AEU
-'mantle': PHAPBT/-L
+'mantle': PHAPBT/*L
 'of': -F
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'furs': TPUR/-S
-'was': WA
+'was': WAS
 'made.': PHAED TP-PL
 'When': WHEPB
 'all': AUL
 'were': WR
-'ready,': R*ED KW-BG
+'ready,': R-D KW-BG
 'the': -T
 'king': KEUPBG
 'sent': SEPBT
@@ -534,7 +534,7 @@ Cat-Skin
 'up': UP
 'in': TPH
 'the': -T
-'mantle': PHAPBT/-L
+'mantle': PHAPBT/*L
 'made': PHAED
 'of': -F
 'all': AUL
@@ -542,7 +542,7 @@ Cat-Skin
 'of': -F
 'fur,': TPUR KW-BG
 'and': SKP
-'besmeared': XXX besmeared
+'besmeared': xxx besmeared
 'her': HER
 'face': TPAEUS
 'and': SKP
@@ -580,7 +580,7 @@ Cat-Skin
 'wood.': WAOD TP-PL
 'As': AZ
 'she': SHE
-'was': WA
+'was': WAS
 'very': SRE
 'tired,': TAOEURD KW-BG
 'she': SHE
@@ -604,7 +604,7 @@ Cat-Skin
 'on': OPB
 'till': T*EUL
 'it': T
-'was': WA
+'was': WAS
 'midday.': PHEUD/TKAEU TP-PL
 'Now': TPHOU
 'as': AZ
@@ -615,7 +615,7 @@ Cat-Skin
 'the': -T
 'wood': WAOD
 'belonged': PWHROPBGD
-'was': WA
+'was': WAS
 'hunting': HUPBT/-G
 'in': TPH
 'it,': T KW-BG
@@ -691,7 +691,7 @@ Cat-Skin
 'be': -B
 'of': -F
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'kinds': KEUPBDZ
 'of': -F
 'fur,': TPUR KW-BG
@@ -729,7 +729,7 @@ Cat-Skin
 'maiden': PHAEUD/*EPB
 'awoke': A/WOEBG
 'and': SKP
-'was': WA
+'was': WAS
 'greatly': TKPWRAELT
 'frightened,': TPRAOEUPBD KW-BG
 'and': SKP
@@ -792,7 +792,7 @@ Cat-Skin
 'home': HOEPL
 'to': TO
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'palace.': PAL/AS TP-PL
 'Then': THEPB
 'they': THE
@@ -823,7 +823,7 @@ Cat-Skin
 'there.'': THR TP-PL AE
 'And': SKP
 'she': SHE
-'was': WA
+'was': WAS
 'sent': SEPBT
 'into': TPHAO
 'the': -T
@@ -882,13 +882,13 @@ Cat-Skin
 'that': THA
 'a': AEU
 'feast': TPAOEFT
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'held': HELD
 'in': TPH
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'castle,': KAFL KW-BG
 'so': SO
 'she': SHE
@@ -933,7 +933,7 @@ Cat-Skin
 'in': TPH
 'half': HAF
 'an': APB
-'hour's': HOUR AE S*/SP-S
+'hour's': HOUR AES
 'time,': TAOEUPL KW-BG
 'to': TO
 'rake': RAEUBG
@@ -1022,7 +1022,7 @@ Cat-Skin
 'less': HRES
 'than': THAPB
 'a': AEU
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter.': TKAUR TP-PL
 'But': PWUT
 'the': -T
@@ -1041,7 +1041,7 @@ Cat-Skin
 'with': W
 'her;': HER STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'thought': THAUT
 'in': TPH
 'his': HEUS
@@ -1057,12 +1057,12 @@ Cat-Skin
 'When': WHEPB
 'the': -T
 'dance': TKAPBS
-'was': WA
+'was': WAS
 'at': AT
 'an': APB
 'end': EPBD
 'she': SHE
-'curtsied;': XXX curtsied STPH*FPLT
+'curtsied;': xxx curtsied STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -1072,7 +1072,7 @@ Cat-Skin
 'for': TPOR
 'her,': HER KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'gone,': TKPWOPB KW-BG
 'no': TPHO
 'one': WUPB
@@ -1097,7 +1097,7 @@ Cat-Skin
 'one.': WUPB TP-PL
 'The': -T
 'truth': TRAO*UT
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'that': THA
 'she': SHE
 'had': H
@@ -1121,7 +1121,7 @@ Cat-Skin
 'fur-skin': TPUR H-PB SKEUPB
 'cloak,': KHROEBG KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'Cat-skin': KAT H-PB SKEUPB
 'again.': TKPWEPB TP-PL
 'When': WHEPB
@@ -1151,7 +1151,7 @@ Cat-Skin
 'and': SKP
 'heat': HAOET
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'soup;': SOUP STPH*FPLT
 'I': EU
 'should': SHO
@@ -1195,7 +1195,7 @@ Cat-Skin
 'Cat-skin': KAT H-PB SKEUPB
 'heated': HAOET/-D
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'soup,': SOUP KW-BG
 'and': SKP
 'toasted': TOEFT/-D
@@ -1203,7 +1203,7 @@ Cat-Skin
 'slice': SHRAOEUS
 'of': -F
 'bread': PWRAED
-'first,': TPEURS KW-BG
+'first,': TPEUFRT KW-BG
 'as': AZ
 'nicely': TPHAOEULS
 'as': AZ
@@ -1213,8 +1213,8 @@ Cat-Skin
 'and': SKP
 'when': WHEPB
 'it': T
-'was': WA
-'ready,': R*ED KW-BG
+'was': WAS
+'ready,': R-D KW-BG
 'she': SHE
 'went': WEPBT
 'and': SKP
@@ -1237,11 +1237,11 @@ Cat-Skin
 'which': WEU
 'the': -T
 'soup': SOUP
-'was.': WA TP-PL
+'was.': WAS TP-PL
 'When': WHEPB
 'the': -T
 'dance': TKAPBS
-'was': WA
+'was': WAS
 'over,': OEFR KW-BG
 'the': -T
 'king': KEUPBG
@@ -1259,9 +1259,9 @@ Cat-Skin
 'so': SO
 'well,': WEL KW-BG
 'that': THA
-'he': E
+'he': HE
 'thought': THAUT
-'he': E
+'he': HE
 'had': H
 'never': TPHEF
 'tasted': TAEUFT/-D
@@ -1272,7 +1272,7 @@ Cat-Skin
 'At': AT
 'the': -T
 'bottom': PWOPLT
-'he': E
+'he': HE
 'saw': SAU
 'a': AEU
 'gold': TKPWOELD
@@ -1280,7 +1280,7 @@ Cat-Skin
 'lying;': HRAOEUG STPH*FPLT
 'and': SKP
 'as': AZ
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'make': PHAEUBG
@@ -1290,7 +1290,7 @@ Cat-Skin
 'had': H
 'got': TKPWOT
 'there,': THR KW-BG
-'he': E
+'he': HE
 'ordered': ORD/-D
 'the': -T
 'cook': KAOBG
@@ -1300,11 +1300,11 @@ Cat-Skin
 'for.': TPOR TP-PL
 'The': -T
 'cook': KAOBG
-'was': WA
+'was': WAS
 'frightened': TPRAOEUPBD
 'when': WHEPB
-'he': E
-'heard': HERD
+'he': HE
+'heard': HAERD
 'the': -T
 'order,': ORD KW-BG
 'and': SKP
@@ -1332,13 +1332,13 @@ Cat-Skin
 'good': TKPWAOD
 'beating.'': PWAEGT TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'went': WEPBT
 'before': PW-F
 'the': -T
 'king,': KEUPBG KW-BG
 'and': SKP
-'he': E
+'he': HE
 'asked': SK-D
 'him': HEUPL
 'who': WHO
@@ -1348,7 +1348,7 @@ Cat-Skin
 'soup.': SOUP TP-PL
 ''I': AE EU
 'did,'': TK KW-BG AE
-'answered': APBSD
+'answered': AEPBS/-D
 'the': -T
 'cook.': KAOBG TP-PL
 'But': PWUT
@@ -1360,7 +1360,7 @@ Cat-Skin
 'not': TPHOT
 'true;': TRAOU STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'better': PWOERT
 'done': TKOPB
 'than': THAPB
@@ -1369,8 +1369,8 @@ Cat-Skin
 'do': TKO
 'it.'': T TP-PL AE
 'Then': THEPB
-'he': E
-'answered,': APBSD KW-BG
+'he': HE
+'answered,': AEPBS/-D KW-BG
 ''To': AE TO
 'tell': TEL
 'the': -T
@@ -1395,7 +1395,7 @@ Cat-Skin
 'when': WHEPB
 'she': SHE
 'came': KAEUPL
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'her,': HER KW-BG
@@ -1423,7 +1423,7 @@ Cat-Skin
 'my': PHEU
 'palace?'': PAL/AS H-F AE
 'asked': SK-D
-'he.': E TP-PL
+'he.': HE TP-PL
 ''I': AE EU
 'am': APL
 'good': TKPWAOD
@@ -1434,13 +1434,13 @@ Cat-Skin
 ''but': AE PWUT
 'to': TO
 'be': -B
-'scullion-girl,': XXX scullion H-PB TKPWEURL KW-BG
+'scullion-girl,': xxx scullion H-PB TKPWEURL KW-BG
 'and': SKP
 'to': TO
 'have': SR
 'boots': PWAOTS
 'and': SKP
-'shoes': SHAOS
+'shoes': SHAOUS
 'thrown': THROEPB
 'at': AT
 'my': PHEU
@@ -1453,7 +1453,7 @@ Cat-Skin
 'the': -T
 'ring': REUPBG
 'that': THA
-'was': WA
+'was': WAS
 'in': TPH
 'the': -T
 'soup?'': SOUP H-F AE
@@ -1486,7 +1486,7 @@ Cat-Skin
 'a': AEU
 'time': TAOEUPL
 'there': THR
-'was': WA
+'was': WAS
 'another': TPHOER
 'feast,': TPAOEFT KW-BG
 'and': SKP
@@ -1506,7 +1506,7 @@ Cat-Skin
 'before.': PW-F TP-PL
 ''Yes,'': AE KWRE KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''but': AE PWUT
 'come': KOPL
 'again': TKPWEPB
@@ -1521,7 +1521,7 @@ Cat-Skin
 'the': -T
 'soup': SOUP
 'that': THA
-'he': E
+'he': HE
 'likes': HRAOEUBGS
 'so': SO
 'much.'': PHUFP TP-PL AE
@@ -1541,8 +1541,8 @@ Cat-Skin
 'dress': TKRES
 'out': OUT
 'which': WEU
-'was': WA
-'silvery': XXX silvery
+'was': WAS
+'silvery': SEUL/SRER/KWREU
 'as': AZ
 'the': -T
 'moon,': PHAOPB KW-BG
@@ -1558,7 +1558,7 @@ Cat-Skin
 'looking': HRAOG
 'like': HRAOEUBG
 'a': AEU
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter,': TKAUR KW-BG
 'the': -T
 'king': KEUPBG
@@ -1577,14 +1577,14 @@ Cat-Skin
 'the': -T
 'dance': TKAPBS
 'began': TKPWAPB
-'he': E
+'he': HE
 'danced': TKAPBS/-D
 'with': W
 'her.': HER TP-PL
 'After': AF
 'the': -T
 'dance': TKAPBS
-'was': WA
+'was': WAS
 'at': AT
 'an': APB
 'end': EPBD
@@ -1603,7 +1603,7 @@ Cat-Skin
 'see': SAOE
 'where': W-R
 'she': SHE
-'was': WA
+'was': WAS
 'gone;': TKPWOPB STPH*FPLT
 'but': PWUT
 'she': SHE
@@ -1630,7 +1630,7 @@ Cat-Skin
 'Whilst': WHAOEULS
 'the': -T
 'cook': KAOBG
-'was': WA
+'was': WAS
 'above': PWOF
 'stairs,': STAEURS KW-BG
 'she': SHE
@@ -1646,7 +1646,7 @@ Cat-Skin
 'soup;': SOUP STPH*FPLT
 'then': THEPB
 'it': T
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'to': TO
 'the': -T
@@ -1663,13 +1663,13 @@ Cat-Skin
 'as': AZ
 'before;': PW-F STPH*FPLT
 'so': SO
-'he': E
+'he': HE
 'sent': SEPBT
 'for': TPOR
 'the': -T
 'cook,': KAOBG KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'again': TKPWEPB
 'forced': TPOFRD
 'to': TO
@@ -1681,7 +1681,7 @@ Cat-Skin
 'cooked': KAOBGD
 'it.': T TP-PL
 'Cat-skin': KAT H-PB SKEUPB
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'again': TKPWEPB
 'before': PW-F
@@ -1694,14 +1694,14 @@ Cat-Skin
 'him': HEUPL
 'that': THA
 'she': SHE
-'was': WA
+'was': WAS
 'only': OEPBL
 'fit': TPEUT
 'to': TO
 'have': SR
 'boots': PWAOTS
 'and': SKP
-'shoes': SHAOS
+'shoes': SHAOUS
 'thrown': THROEPB
 'at': AT
 'her': HER
@@ -1717,7 +1717,7 @@ Cat-Skin
 'to': TO
 'be': -B
 'got': TKPWOT
-'ready': R*ED
+'ready': R-D
 'for': TPOR
 'the': -T
 'third': THEURD
@@ -1740,7 +1740,7 @@ Cat-Skin
 'cook;': KAOBG STPH*FPLT
 ''for': AE TPOR
 'you': U
-'always': AULZ
+'always': AULS
 'put': PUT
 'something': S-G
 'into': TPHAO
@@ -1756,7 +1756,7 @@ Cat-Skin
 'than': THAPB
 'mine.'': PHAOEUPB TP-PL AE
 'However,': HOUF KW-BG
-'he': E
+'he': HE
 'let': HRET
 'her': HER
 'go': TKPW
@@ -1802,12 +1802,12 @@ Cat-Skin
 'then.': THEPB TP-PL
 'So': SO
 'whilst': WHAOEULS
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'dancing': TKAPBS/-G
 'with': W
 'her,': HER KW-BG
-'he': E
+'he': HE
 'put': PUT
 'a': AEU
 'gold': TKPWOELD
@@ -1833,11 +1833,11 @@ Cat-Skin
 'time.': TAOEUPL TP-PL
 'When': WHEPB
 'it': T
-'was': WA
+'was': WAS
 'at': AT
 'an': APB
 'end,': EPBD KW-BG
-'he': E
+'he': HE
 'would': WO
 'have': SR
 'held': HELD
@@ -1858,7 +1858,7 @@ Cat-Skin
 'the': -T
 'crowd': KROUD
 'that': THA
-'he': E
+'he': HE
 'lost': HRO*S
 'sight': SAOEUT
 'of': -F
@@ -1906,7 +1906,7 @@ Cat-Skin
 'threw': THRAOU
 'her': HER
 'fur': TPUR
-'mantle': PHAPBT/-L
+'mantle': PHAPBT/*L
 'over': OEFR
 'it,': T KW-BG
 'and': SKP
@@ -1937,7 +1937,7 @@ Cat-Skin
 'and': SKP
 'cooked': KAOBGD
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'soup;': SOUP STPH*FPLT
 'and': SKP
 'as': AZ
@@ -1945,7 +1945,7 @@ Cat-Skin
 'as': AZ
 'the': -T
 'cook': KAOBG
-'was': WA
+'was': WAS
 'gone,': TKPWOPB KW-BG
 'she': SHE
 'put': PUT
@@ -1962,7 +1962,7 @@ Cat-Skin
 'to': TO
 'the': -T
 'bottom,': PWOPLT KW-BG
-'he': E
+'he': HE
 'ordered': ORD/-D
 'Cat-skin': KAT H-PB SKEUPB
 'to': TO
@@ -1980,7 +1980,7 @@ Cat-Skin
 'the': -T
 'ring': REUPBG
 'that': THA
-'he': E
+'he': HE
 'had': H
 'put': PUT
 'on': OPB
@@ -1990,7 +1990,7 @@ Cat-Skin
 'were': WR
 'dancing:': TKAPBS/-G STPH-FPLT
 'so': SO
-'he': E
+'he': HE
 'seized': SAOEZ/-D
 'her': HER
 'hand,': HAPBD KW-BG
@@ -2028,7 +2028,7 @@ Cat-Skin
 'underneath': UPBD/TPHO*ET
 'it.': T TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'got': TKPWOT
 'hold': HOLD
 'of': -F
@@ -2102,18 +2102,18 @@ Cat-Skin
 'the': -T
 'wedding': WEGD
 'feast': TPAOEFT
-'was': WA
+'was': WAS
 'held,': HELD KW-BG
 'and': SKP
 'a': AEU
 'merry': PHER/REU
 'day': TKAEU
 'it': T
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'as': AZ
 'ever': -FR
-'was': WA
-'heard': HERD
+'was': WAS
+'heard': HAERD
 'of': -F
 'or': OR
 'seen': SAOEPB

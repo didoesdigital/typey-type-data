@@ -1,13 +1,13 @@
 The Miser in the Bush
 
-'A': AEU
+'A': KPA*/AEU
 'farmer': TPAR/PHER
 'had': H
 'a': AEU
 'faithful': TPA*EUT/-FL
 'and': SKP
 'diligent': TKEUL/SKWREPBT
-'servant,': SEFB/APBT KW-BG
+'servant,': SEFRB/APBT KW-BG
 'who': WHO
 'had': H
 'worked': WORBGD
@@ -28,10 +28,10 @@ The Miser in the Bush
 'came': KAEUPL
 'into': TPHAO
 'the': -T
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'head': HED
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'not': TPHOT
 'go': TKPW
@@ -42,7 +42,7 @@ The Miser in the Bush
 'any': TPHEU
 'longer;': HRORPBG STPH*FPLT
 'so': SO
-'he': E
+'he': HE
 'went': WEPBT
 'to': TO
 'his': HEUS
@@ -76,7 +76,7 @@ The Miser in the Bush
 'trouble.'': TRUBL TP-PL AE
 'The': -T
 'farmer': TPAR/PHER
-'was': WA
+'was': WAS
 'a': AEU
 'sad': SAD
 'miser,': PHAOEUZ/ER KW-BG
@@ -85,20 +85,20 @@ The Miser in the Bush
 'that': THA
 'his': HEUS
 'man': PHAPB
-'was': WA
+'was': WAS
 'very': SRE
 'simple-hearted;': S*EUPL H-PB HART/-D STPH*FPLT
 'so': SO
-'he': E
+'he': HE
 'took': TAOBG
 'out': OUT
-'threepence,': XXX threepence KW-BG
+'threepence,': xxx threepence KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'him': HEUPL
 'for': TPOR
 'every': EF
-'year's': KWRAOER AE S*/SP-S
+'year's': KWRAOER AES
 'service': S-FS
 'a': AEU
 'penny.': PEPB/TPHEU TP-PL
@@ -107,7 +107,7 @@ The Miser in the Bush
 'fellow': TPO*EUL
 'thought': THAUT
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'great': TKPWRAET
 'deal': TKAOEL
@@ -146,7 +146,7 @@ The Miser in the Bush
 'merry.'': PHER/REU TP-PL AE
 'With': W
 'that': THA
-'he': E
+'he': HE
 'put': PUT
 'his': HEUS
 'money': PHUPB
@@ -162,7 +162,7 @@ The Miser in the Bush
 'and': SKP
 'valley.': SRAL/HREU TP-PL
 'As': AZ
-'he': E
+'he': HE
 'jogged': SKWROGD
 'along': A/HROPBG
 'over': OEFR
@@ -191,7 +191,7 @@ The Miser in the Bush
 'me': PHE
 'down-hearted?'': TKOUPB H-PB HART/-D H-F AE
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 ''I': AE EU
 'am': APL
 'sound': SOUPBD
@@ -233,10 +233,10 @@ The Miser in the Bush
 'little': HREUL
 'man.': PHAPB TP-PL
 ''Full': AE TPUL
-'threepence,'': XXX threepence KW-BG AE
+'threepence,'': xxx threepence KW-BG AE
 'replied': RE/PHRAOEUD
 'the': -T
-'countryman.': XXX countryman TP-PL
+'countryman.': KREU/PHA*PB TP-PL
 ''I': AE EU
 'wish': WEURB
 'you': U
@@ -261,7 +261,7 @@ The Miser in the Bush
 'gave': TKPWAEUF
 'him': HEUPL
 'all': AUL
-'he': E
+'he': HE
 'had;': H STPH*FPLT
 'and': SKP
 'the': -T
@@ -294,7 +294,7 @@ The Miser in the Bush
 'like.'': HRAOEUBG TP-PL AE
 'Then': THEPB
 'the': -T
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'rejoiced': RE/SKWROEUS/-D
 'at': AT
 'his': HEUS
@@ -309,7 +309,7 @@ The Miser in the Bush
 'better': PWOERT
 'than': THAPB
 'money:': PHUPB STPH-FPLT
-'first,': TPEURS KW-BG
+'first,': TPEUFRT KW-BG
 'I': EU
 'will': HR
 'have': SR
@@ -352,14 +352,14 @@ The Miser in the Bush
 'The': -T
 'dwarf': TKWAFR
 'said': SAEUD
-'he': E
+'he': HE
 'should': SHO
 'have': SR
 'his': HEUS
 'three': THRAOE
 'wishes;': WEURBS STPH*FPLT
 'so': SO
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'him': HEUPL
 'the': -T
@@ -380,24 +380,24 @@ The Miser in the Bush
 'too;': TAO STPH*FPLT
 'and': SKP
 'if': TP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'merry': PHER/REU
 'before,': PW-F KW-BG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'now': TPHOU
 'ten': TEPB
 'times': TAOEUPLS
 'more': PHOR
 'so.': SO TP-PL
-'He': E
+'He': HE
 'had': H
 'not': TPHOT
 'gone': TKPWOPB
 'far': TPAR
 'before': PW-F
-'he': E
+'he': HE
 'met': PHET
 'an': APB
 'old': OLD
@@ -420,7 +420,7 @@ The Miser in the Bush
 'away': A/WAEU
 'most': PHOFT
 'joyfully.': SKWROEUFL/HREU TP-PL
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'what': WHA
 'a': AEU
 'pretty': PREUT
@@ -442,11 +442,11 @@ The Miser in the Bush
 'a': AEU
 'one.'': WUPB TP-PL AE
 ''If': AE TP
-'that's': TH-TS
+'that's': THATS
 'all,'': AUL KW-BG AE
 'said': SAEUD
 'the': -T
-'countryman,': XXX countryman KW-BG
+'countryman,': KREU/PHA*PB KW-BG
 ''I': AE EU
 'will': HR
 'soon': SAOPB
@@ -454,7 +454,7 @@ The Miser in the Bush
 'it': T
 'down.'': TKOUPB TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'up': UP
 'his': HEUS
@@ -484,7 +484,7 @@ The Miser in the Bush
 'it;': T STPH*FPLT
 'but': PWUT
 'directly': TKREL
-'he': E
+'he': HE
 'had': H
 'got': TKPWOT
 'into': TPHAO
@@ -532,9 +532,9 @@ The Miser in the Bush
 'about': PW
 'him,': HEUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'himself': H*EUPLS
-'was': WA
+'was': WAS
 'all': AUL
 'scratched': SKRAFPD
 'and': SKP
@@ -545,9 +545,9 @@ The Miser in the Bush
 'blood': PWHRAOD
 'ran': RAPB
 'down.': TKOUPB TP-PL
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'for': TPOR
-'heaven's': HEFPB AE S*/SP-S
+'heaven's': HEFPB AES
 'sake!'': SAEUBG SKHRAPL AE
 'cried': KRAOEUD
 'the': -T
@@ -567,7 +567,7 @@ The Miser in the Bush
 'deserve': TKEFRB
 'this?'': TH H-F AE
 ''Thou': AE THO*U
-'hast': XXX hast
+'hast': HA*FT
 'shaved': SHAEUFD
 'many': PHAEPB
 'a': AEU
@@ -585,7 +585,7 @@ The Miser in the Bush
 'thy': THAO*EU
 'reward':': RE/WARD AE STPH-FPLT
 'so': SO
-'he': E
+'he': HE
 'played': PHRAEUD
 'up': UP
 'another': TPHOER
@@ -605,20 +605,20 @@ The Miser in the Bush
 'his': HEUS
 'liberty;': HREURBT STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'come': KOPL
 'up': UP
 'to': TO
 'the': -T
-'musician's': PHAOUGS AE S*/SP-S
+'musician's': PHAOUGS AES
 'price': PRAOEUS
 'for': TPOR
 'some': SOPL
 'time,': TAOEUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'danced': TKAPBS/-D
 'him': HEUPL
 'along': A/HROPBG
@@ -635,15 +635,15 @@ The Miser in the Bush
 'till': T*EUL
 'at': AT
 'last': HRAFT
-'he': E
+'he': HE
 'offered': OFRD
 'a': AEU
 'round': ROUPBD
 'hundred': HUPBD
 'of': -F
-'florins': XXX florins
+'florins': xxx florins
 'that': THA
-'he': E
+'he': HE
 'had': H
 'in': TPH
 'his': HEUS
@@ -659,12 +659,12 @@ The Miser in the Bush
 'fellow.': TPO*EUL TP-PL
 'When': WHEPB
 'the': -T
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'saw': SAU
 'so': SO
 'much': PHUFP
 'money,': PHUPB KW-BG
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 ''I': AE EU
 'will': HR
@@ -673,7 +673,7 @@ The Miser in the Bush
 'your': KWROUR
 'proposal.'': PROEL TP-PL AE
 'So': SO
-'he': E
+'he': HE
 'took': TAOBG
 'the': -T
 'purse,': PURS KW-BG
@@ -682,7 +682,7 @@ The Miser in the Bush
 'his': HEUS
 'fiddle,': TP*EULD KW-BG
 'and': SKP
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'on': OPB
 'very': SRE
 'pleased': PHRAOEFD
@@ -708,13 +708,13 @@ The Miser in the Bush
 'to': TO
 'ponder': POPB/TKER
 'how': HOU
-'he': E
+'he': HE
 'should': SHO
 'take': TAEUBG
 'his': HEUS
 'revenge,': RE/SREPBG KW-BG
 'and': SKP
-'serve': SEFB
+'serve': SEFRB
 'his': HEUS
 'late': HRAEUT
 'companion': KPAPB/KWROPB
@@ -722,7 +722,7 @@ The Miser in the Bush
 'trick.': TREUBG TP-PL
 'At': AT
 'last': HRAFT
-'he': E
+'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
@@ -731,7 +731,7 @@ The Miser in the Bush
 'complained': KPHRAEUPBD
 'that': THA
 'a': AEU
-'rascal': RAS/KAL
+'rascal': RAS/K-L
 'had': H
 'robbed': ROBD
 'him': HEUPL
@@ -782,8 +782,8 @@ The Miser in the Bush
 'find': TPEUPBD
 'him;': HEUPL STPH*FPLT
 'and': SKP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'soon': SAOPB
 'caught': KAUT
 'and': SKP
@@ -801,7 +801,7 @@ The Miser in the Bush
 'tale,': TAEL KW-BG
 'and': SKP
 'said': SAEUD
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'robbed': ROBD
@@ -821,16 +821,16 @@ The Miser in the Bush
 'you.'': U TP-PL AE
 'said': SAEUD
 'the': -T
-'countryman;': XXX countryman STPH*FPLT
+'countryman;': KREU/PHA*PB STPH*FPLT
 'but': PWUT
 'the': -T
 'judge': SKWRUPBL
 'told': TOLD
 'him': HEUPL
 'that': THA
-'was': WA
+'was': WAS
 'not': TPHOT
-'likely,': HREULG KW-BG
+'likely,': HRAOEULG KW-BG
 'and': SKP
 'cut': KUT
 'the': -T
@@ -845,17 +845,17 @@ The Miser in the Bush
 'gallows.': TKPWAL/HROE/-S TP-PL
 'So': SO
 'away': A/WAEU
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'taken;': TAEPB STPH*FPLT
 'but': PWUT
 'as': AZ
-'he': E
+'he': HE
 'stood': STAOD
 'on': OPB
 'the': -T
 'steps': STEPS
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 ''My': AE PHEU
 'Lord': HRORD
@@ -874,7 +874,7 @@ The Miser in the Bush
 'other.': OER TP-PL
 ''No,'': AE TPHO KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''I': AE EU
 'do': TKO
 'not': TPHOT
@@ -897,11 +897,11 @@ The Miser in the Bush
 'miser': PHAOEUZ/ER
 'cried': KRAOEUD
 'out,': OUT KW-BG
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'no!': TPHO SKHRAPL
 'no!': TPHO SKHRAPL
 'for': TPOR
-'heaven's': HEFPB AE S*/SP-S
+'heaven's': HEFPB AES
 'sake': SAEUBG
 'don't': TKOEPBT
 'listen': HREUFPB
@@ -920,15 +920,15 @@ The Miser in the Bush
 'only': OEPBL
 'this': TH
 'once,': WUPBS KW-BG
-'he': E
+'he': HE
 'will': HR
 'soon': SAOPB
 'have': SR
 'done.'': TKOPB TP-PL AE
 'The': -T
 'fact': TPABGT
-'was,': WA KW-BG
-'he': E
+'was,': WAS KW-BG
+'he': HE
 'could': KO
 'not': TPHOT
 'refuse': REF/AOUS
@@ -938,7 +938,7 @@ The Miser in the Bush
 'account': K-T
 'of': -F
 'the': -T
-'dwarf's': TKWAFR AE S*/SP-S
+'dwarf's': TKWAFR AES
 'third': THEURD
 'gift.': TKPWEUFT TP-PL
 'Then': THEPB
@@ -952,11 +952,11 @@ The Miser in the Bush
 'me': PHE
 'fast,': TPAFT KW-BG
 'for': TPOR
-'pity's': PEUT/TEU AE S*/SP-S
+'pity's': PEUT/TEU AES
 'sake.'': SAEUBG TP-PL AE
 'But': PWUT
 'the': -T
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'seized': SAOEZ/-D
 'his': HEUS
 'fiddle,': TP*EULD KW-BG
@@ -968,7 +968,7 @@ The Miser in the Bush
 'and': SKP
 'at': AT
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'note': TPHOET
 'judge,': SKWRUPBL KW-BG
 'clerks,': KHRERBGS KW-BG
@@ -992,7 +992,7 @@ The Miser in the Bush
 'second': SEBGD
 'note': TPHOET
 'the': -T
-'hangman': XXX hangman
+'hangman': xxx hangman
 'let': HRET
 'his': HEUS
 'prisoner': PREURZ
@@ -1004,11 +1004,11 @@ The Miser in the Bush
 'by': PWEU
 'the': -T
 'time': TAOEUPL
-'he': E
+'he': HE
 'had': H
 'played': PHRAEUD
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'bar': PWAR
 'of': -F
 'the': -T
@@ -1031,10 +1031,10 @@ The Miser in the Bush
 'look': HRAOBG
 'on.': OPB TP-PL
 'At': AT
-'first': TPEURS
+'first': TPEUFRT
 'the': -T
 'thing': THEUPBG
-'was': WA
+'was': WAS
 'merry': PHER/REU
 'and': SKP
 'pleasant': PHREFPBT
@@ -1070,7 +1070,7 @@ The Miser in the Bush
 'leave': HREF
 'off;': OF STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'stopped': STOPD
 'not': TPHOT
 'a': AEU
@@ -1096,9 +1096,9 @@ The Miser in the Bush
 'him': HEUPL
 'the': -T
 'hundred': HUPBD
-'florins.': XXX florins TP-PL
+'florins.': xxx florins TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'called': KAULD
 'to': TO
 'the': -T
@@ -1151,7 +1151,7 @@ The Miser in the Bush
 'fairly.'': TPAEURL TP-PL AE
 'Then': THEPB
 'the': -T
-'countryman': XXX countryman
+'countryman': KREU/PHA*PB
 'stopped': STOPD
 'his': HEUS
 'fiddle,': TP*EULD KW-BG

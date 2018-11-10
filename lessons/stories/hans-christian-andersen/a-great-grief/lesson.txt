@@ -2,13 +2,13 @@ A Great Grief
 
 'This': TH
 'story': STOER
-'really': HROERL
+'really': R-L
 'consists': KAOS
 'of': -F
 'two': TWO
 'parts.': PARTS TP-PL
 'The': -T
-'first': TPEURS
+'first': TPEUFRT
 'part': PART
 'might': PHAOEUT
 'be': -B
@@ -33,7 +33,7 @@ A Great Grief
 'country': KREU
 'at': AT
 'a': AEU
-'gentleman's': SKWRA*PL AE S*/SP-S
+'gentleman's': SKWRA*PL/AES
 'seat,': SAOET KW-BG
 'where': W-R
 'it': T
@@ -41,7 +41,7 @@ A Great Grief
 'that': THA
 'the': -T
 'master': PHAFRT
-'was': WA
+'was': WAS
 'absent': AB/SEPBT
 'for': TPOR
 'a': AEU
@@ -105,9 +105,9 @@ A Great Grief
 'the': -T
 'estate,': ES/TAEUT KW-BG
 '"General': KR-GS SKWREPBL
-'War-Commissary': WAR H-PB KOPL/SAER
+'War-Commissary': WAR H-PB KPHEUS/REU
 'Knight,"': TPHAO*EUT KW-BG KR-GS
-'&c.': XXX &c TP-PL
+'&c.': SP-PBD KR* TP-PL
 'She': SHE
 'listened': HREUFPBD
 'to': TO
@@ -151,7 +151,7 @@ A Great Grief
 'a': AEU
 'woman!"': WOPL SKHRAPL KR-GS
 'Her': HER
-'Puggie': XXX Puggie
+'Puggie': xxx Puggie
 'had': H
 'seated': SAOETD
 'itself': T/SEF
@@ -195,7 +195,7 @@ A Great Grief
 'His': HEUS
 'outward': AOUT/WARD
 'appearance': PAOERPBS
-'was': WA
+'was': WAS
 'characterized': KARBG/TRAOEUZ/-D
 'by': PWEU
 'a': AEU
@@ -206,17 +206,17 @@ A Great Grief
 'very': SRE
 'fat': TPAT
 'back.': PWABG TP-PL
-'"He': KR-GS E
+'"He': KR-GS HE
 'doesn't': TKOPBT
 'bite,"': PWAOEUT KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'lady;': HRA*ED STPH*FPLT
-'"he': KR-GS E
+'"he': KR-GS HE
 'has': HAS
 'no': TPHO
 'teeth.': TAO*ET TP-PL
-'He': E
+'He': HE
 'is': S
 'like': HRAOEUBG
 'one': WUPB
@@ -231,7 +231,7 @@ A Great Grief
 'latter': HRAERT
 'is': S
 'my': PHEU
-'grandchildren's': TKPWR-PB AE S*/SP-S
+'grandchildren's': TKPWR-PB AES
 'fault,': TPALT KW-BG
 'for': TPOR
 'they': THE
@@ -253,7 +253,7 @@ A Great Grief
 'the': -T
 'bridesmaid,': PWRAOEUDZ/PHAEUD KW-BG
 'and': SKP
-'that's': TH-TS
+'that's': THATS
 'too': TAO
 'much': PHUFP
 'for': TPOR
@@ -268,7 +268,7 @@ A Great Grief
 'papers,': PAEUPS KW-BG
 'and': SKP
 'took': TAOBG
-'Puggie': XXX Puggie
+'Puggie': xxx Puggie
 'upon': POPB
 'her': HER
 'arm.': ARPL TP-PL
@@ -276,7 +276,7 @@ A Great Grief
 'this': TH
 'is': S
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'part': PART
 'of': -F
 'the': -T
@@ -287,14 +287,14 @@ A Great Grief
 'been': PW-PB
 'left': HREFT
 'out.': OUT TP-PL
-'PUGGIE': XXX PUGGIE
+'PUGGIE': xxx PUGGIE
 'DIED!!': TKAOEUD SKHRAPL SKHRAPL
-'That's': THA AE S*/SP-S
+'That's': THA AES
 'the': -T
 'second': SEBGD
 'part.': PART TP-PL
 'It': T
-'was': WA
+'was': WAS
 'about': PW
 'a': AEU
 'week': WAOEBG
@@ -317,7 +317,7 @@ A Great Grief
 'the': -T
 'tan-yard,': TAPB H-PB KWRARD KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'divided': TKWAOEUTD
 'into': TPHAO
 'two': TWO
@@ -339,7 +339,7 @@ A Great Grief
 'and': SKP
 'tanned.': TAPB/-D TP-PL
 'Here': HAOER
-'was': WA
+'was': WAS
 'all': AUL
 'the': -T
 'apparatus': AP/RATS
@@ -355,14 +355,14 @@ A Great Grief
 'to': TO
 'the': -T
 'widow.': WO*EUD TP-PL
-'Puggie': XXX Puggie
+'Puggie': xxx Puggie
 'had': H
 'died': TKAOEUD
 'in': TPH
 'the': -T
 'morning,': PHORPBG KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'buried': PWUR/EUD
@@ -381,10 +381,10 @@ A Great Grief
 'is,': S KW-BG
 'of': -F
 'the': -T
-'tanner's': TAPB/ER AE S*/SP-S
+'tanner's': TAPB/ER AES
 'widow,': WO*EUD KW-BG
 'for': TPOR
-'Puggie': XXX Puggie
+'Puggie': xxx Puggie
 'had': H
 'never': TPHEF
 'been': PW-PB
@@ -395,7 +395,7 @@ A Great Grief
 'grave,': TKPWRAEUF KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'beautiful': PWAOUFL
 'grave—it': TKPWRAEUF EPL/TKA*RB T
@@ -409,7 +409,7 @@ A Great Grief
 'there.': THR TP-PL
 'The': -T
 'grave': TKPWRAEUF
-'was': WA
+'was': WAS
 'bordered': PWORD/ERD
 'with': W
 'pieces': PAOEFS
@@ -438,7 +438,7 @@ A Great Grief
 'upwards,': UP/WARDZ KW-BG
 'and': SKP
 'that': THA
-'was': WA
+'was': WAS
 'not': TPHOT
 'at': AT
 'all': AUL
@@ -459,7 +459,7 @@ A Great Grief
 'them,': THEPL KW-BG
 'a': AEU
 'practical': PRABGT/K-L
-'youngster': KWRUPBGS/TER
+'youngster': KWRUPBG/STER
 'of': -F
 'seven': SEFPB
 'years,': KWRAOERS KW-BG
@@ -473,7 +473,7 @@ A Great Grief
 'an': APB
 'exhibition': KPEUBGS
 'of': -F
-'Puggie's': XXX Puggie AE S*/SP-S
+'Puggie's': xxx Puggie AES
 'burial-place': PWUR/KWRAL H-PB PHRAEUS
 'for': TPOR
 'all': AUL
@@ -486,7 +486,7 @@ A Great Grief
 'price': PRAOEUS
 'of': -F
 'admission': AD/PHEUGS
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'a': AEU
@@ -513,7 +513,7 @@ A Great Grief
 'girl.': TKPWEURL TP-PL
 'This': TH
 'proposal': PROEL
-'was': WA
+'was': WAS
 'adopted': A/TKOPTD
 'by': PWEU
 'acclamation.': ABG/HRA/PHAEUGS TP-PL
@@ -560,12 +560,12 @@ A Great Grief
 'they': THE
 'had': H
 'seen': SAOEPB
-'Puggie's': XXX Puggie AE S*/SP-S
+'Puggie's': xxx Puggie AES
 'grave,': TKPWRAEUF KW-BG
 'and': SKP
 'the': -T
 'sight': SAOEUT
-'was': WA
+'was': WAS
 'worth': WO*RT
 'much': PHUFP
 'more.': PHOR TP-PL
@@ -602,7 +602,7 @@ A Great Grief
 'clear': KHRAOER
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'pleasure': PHRERB
 'to': TO
@@ -625,7 +625,7 @@ A Great Grief
 'the': -T
 'little': HREUL
 'door': TKAOR
-'was': WA
+'was': WAS
 'opened': OEPD
 'she': SHE
 'gave': TKPWAEUF
@@ -686,10 +686,10 @@ A Great Grief
 'had': H
 'not': TPHOT
 'seen': SAOEPB
-'Puggie's': XXX Puggie AE S*/SP-S
+'Puggie's': xxx Puggie AES
 'grave.': TKPWRAEUF TP-PL
 'It': T
-'was': WA
+'was': WAS
 'a': AEU
 'grief': TKPWRAOEF
 'as': AZ

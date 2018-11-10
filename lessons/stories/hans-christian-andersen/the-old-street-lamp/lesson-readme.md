@@ -1,0 +1,987 @@
+# The Old Street Lamp
+
+* did `TK`
+* you `U`
+* ever `-FR`
+* hear `HAER`
+* the `-T`
+* story `STOER`
+* of `-F`
+* old `OLD`
+* street `STRAOET`
+* lamp? `HRAFRP H-F`
+* It `T`
+* is `S`
+* not `TPHOT`
+* remarkably `RARBG/PWHREU`
+* interesting, `TR-G KW-BG`
+* but `PWUT`
+* for `TPOR`
+* once `WUPBS`
+* in `TPH`
+* a `AEU`
+* way `WAEU`
+* may `PHAE`
+* as `AZ`
+* well `WEL`
+* listen `HREUFPB`
+* to `TO`
+* it. `T TP-PL`
+* was `WAS`
+* most `PHOFT`
+* respectable `R-PT/-BL`
+* lamp, `HRAFRP KW-BG`
+* which `WEU`
+* had `H`
+* seen `SAOEPB`
+* many, `PHAEPB KW-BG`
+* many `PHAEPB`
+* years `KWRAOERS`
+* service, `S-FS KW-BG`
+* and `SKP`
+* now `TPHOU`
+* retire `RAO*EUR`
+* with `W`
+* pension. `PEPBGS TP-PL`
+* this `TH`
+* evening `AOEPBG`
+* at `AT`
+* its `EUTS`
+* post `POEFT`
+* last `HRAFT`
+* time, `TAOEUPL KW-BG`
+* giving `TKPWEUFG`
+* light `HRAOEUT`
+* street. `STRAOET TP-PL`
+* his `HEUS`
+* feelings `TPAOELGS`
+* were `WR`
+* something `S-G`
+* like `HRAOEUBG`
+* those `THOZ`
+* an `APB`
+* dancer `TKARPBS`
+* theatre, `THAO*ERT KW-BG`
+* who `WHO`
+* dancing `TKAPBS/-G`
+* knows `TPHOEZ`
+* that `THA`
+* on `OPB`
+* morrow `PHOR/ROE`
+* she `SHE`
+* will `HR`
+* be `-B`
+* her `HER`
+* garret, `TKPWAEUR/RET KW-BG`
+* alone `A/HROEPB`
+* forgotten. `TPORGTD TP-PL`
+* lamp `HRAFRP`
+* very `SRE`
+* great `TKPWRAET`
+* anxiety `KPRAOEUT`
+* about `PW`
+* next `TPHEGT`
+* day, `TKAEU KW-BG`
+* he `HE`
+* knew `TPHAOU`
+* appear `A/PAOER`
+* first `TPEUFRT`
+* time `TAOEUPL`
+* town `TOUPB`
+* hall, `HAUL KW-BG`
+* inspected `TPH-PD`
+* by `PWEU`
+* mayor `PHA*EUR`
+* council, `KUPB/SEUL KW-BG`
+* decide `STKAOEUD`
+* if `TP`
+* fit `TPEUT`
+* further `TPURT`
+* service `S-FS`
+* or `OR`
+* not;—whether `TPHOT STPH*FPLT EPL/TKA*RB WHR`
+* good `TKPWAOD`
+* enough `TPHUF`
+* used `AOUFD`
+* inhabitants `EUPB/HABT/APBTS`
+* one `WUPB`
+* suburbs, `SPWURBS KW-BG`
+* country, `KREU KW-BG`
+* some `SOPL`
+* factory; `TPABGT/REU STPH*FPLT`
+* not, `TPHOT KW-BG`
+* would `WO`
+* sent `SEPBT`
+* iron `AOEURPB`
+* foundry, `TPOUPBD/REU KW-BG`
+* melted `PHELT/-D`
+* down. `TKOUPB TP-PL`
+* latter `HRAERT`
+* case `KAEUS`
+* might `PHAOEUT`
+* turned `TURPBD`
+* into `TPHAO`
+* anything, `TPHEUG KW-BG`
+* wondered `WOPBD/-D`
+* much `PHUFP`
+* whether `WHR`
+* Then `THEPB`
+* able `ABL`
+* remember `REB`
+* been `PW-PB`
+* troubled `TRUBLD`
+* him `HEUPL`
+* exceedingly. `EBGS/AOED/TKPWHREU TP-PL`
+* Whatever `WHAF`
+* happen, `HAP KW-BG`
+* thing `THEUPBG`
+* seemed `SAOEPLD`
+* certain, `SERPB KW-BG`
+* separated `SERPTD`
+* from `TPR`
+* watchman `WAFP/PHAPB`
+* wife, `WAOEUF KW-BG`
+* whose `WHOZ`
+* family `TPAEPL`
+* looked `HRAOBGD`
+* upon `POPB`
+* own. `OEPB TP-PL`
+* hung `HUPBG`
+* up `UP`
+* watchman, `WAFP/PHAPB KW-BG`
+* robust `RO/PWUFT`
+* young `KWRUPBG`
+* man, `PHAPB KW-BG`
+* entered `SPWR-D`
+* duties `TKAOUT/KWREU/-S`
+* office. `OFS TP-PL`
+* Ah, `HA*E KW-BG`
+* Well, `WEL KW-BG`
+* long `HROPBG`
+* since `SEUPBS`
+* became `PWAEUPL`
+* other `OER`
+* watchman. `WAFP/PHAPB TP-PL`
+* wife `WAOEUF`
+* little `HREUL`
+* pride `PRAOEUD`
+* days; `TKAEUS STPH*FPLT`
+* seldom `SELD/OPL`
+* condescended `KOPBD/SEPBD/-D`
+* glance `TKPWHRAPBS`
+* excepting `KPEPT/-G`
+* when `WHEPB`
+* passed `PAFD`
+* evening, `AOEPBG KW-BG`
+* never `TPHEF`
+* daytime. `TKAEUPLT TP-PL`
+* later `HRAEURT`
+* years, `KWRAOERS KW-BG`
+* all `AUL`
+* these,—the `THEZ KW-BG EPL/TKA*RB -T`
+* lamp—had `HRAFRP EPL/TKA*RB H`
+* grown `TKPWROEPB`
+* old, `OLD KW-BG`
+* attended `A/TEPBD/-D`
+* it, `T KW-BG`
+* cleaned `KHRAOEPBD`
+* supplied `SPHRAOEUD`
+* oil. `OEUL TP-PL`
+* people `PAOEPL`
+* thoroughly `THORL`
+* honest, `HO*PBS KW-BG`
+* they `THE`
+* cheated `KHAOETD`
+* single `SEUPBLG`
+* drop `TKROP`
+* oil `OEUL`
+* provided `PROE/SRAOUD/-D`
+* lamp's `HRAFRP AES`
+* night `TPHAOEUT`
+* street, `STRAOET KW-BG`
+* to-morrow `TO H-PB PHOR/ROE`
+* must `PHUFT`
+* go `TKPW`
+* town-hall,—two `TOUPB H-PB HAUL KW-BG EPL/TKA*RB TWO`
+* dark `TKARBG`
+* things `THEUPBGS`
+* think `THEU`
+* of. `-F/TP-PL`
+* no `TPHO`
+* wonder `WOPBD`
+* burn `PWURPB`
+* brightly. `PWRAOEULT TP-PL`
+* thoughts `THAUTS`
+* also `HR-S`
+* through `THRU`
+* mind. `PHAOEUPBD TP-PL`
+* how `HOU`
+* persons `PERPBZ`
+* lighted `HRAOEUT/-D`
+* their `THAEUR`
+* way, `WAEU KW-BG`
+* seen; `SAOEPB STPH*FPLT`
+* much, `PHUFP KW-BG`
+* likely, `HRAOEULG KW-BG`
+* corporation `KORPGS`
+* themselves! `TH*EPLS SKHRAPL`
+* None `TPHOPB`
+* these `THEZ`
+* uttered `UT/ERD`
+* aloud, `A/HROUD KW-BG`
+* however; `HOUF STPH*FPLT`
+* good, `TKPWAOD KW-BG`
+* honorable `HOPB/RABL`
+* willingly `HR-G/HREU`
+* do `TKO`
+* harm `HARPL`
+* any `TPHEU`
+* one, `WUPB KW-BG`
+* especially `EPS`
+* authority. `THORT TP-PL`
+* recalled `-RLD`
+* mind, `PHAOEUPBD KW-BG`
+* flash `TPHRARB`
+* sudden `SUD`
+* brightness; `PWRAOEUT/-PBS STPH*FPLT`
+* had, `H KW-BG`
+* such `SUFP`
+* moments, `PHOEPLTS KW-BG`
+* conviction `K-FBGS`
+* remembered. `RERD TP-PL`
+* "There `KR-GS THR`
+* handsome `HAPBD/SOPL`
+* man `PHAPB`
+* once," `WUPBS KW-BG KR-GS`
+* thought `THAUT`
+* he; `HE STPH*FPLT`
+* "it `KR-GS T`
+* certainly `SERPBL`
+* while `WHAOEUL`
+* ago, `AG KW-BG`
+* I `EU`
+* note, `TPHOET KW-BG`
+* written `WREUPB`
+* pink `P*EUPBG`
+* paper `PAEUP`
+* gold `TKPWOELD`
+* edge; `EPBG STPH*FPLT`
+* writing `WREUG`
+* elegant, `EL/TKPWAPBT KW-BG`
+* evidently `AEFD/HREU`
+* lady's `HRAEUD/KWREU/AES`
+* hand: `HAPBD STPH-FPLT`
+* twice `TWAOEUS`
+* read `RAED`
+* through, `THRU KW-BG`
+* kissed `K*EUFD`
+* me, `PHE KW-BG`
+* eyes `AO*EUS`
+* said `SAEUD`
+* quite `KWAOEUT`
+* plainly, `PHRAEUPBL KW-BG`
+* 'I `AE EU`
+* am `APL`
+* happiest `HAP/KWREFT`
+* men!' `PHEPB SKHRAPL AE`
+* only `OEPBL`
+* know `TPHOE`
+* what `WHA`
+* letter `HRERT`
+* lady-love. `HRA*ED H-PB HRUF TP-PL`
+* yes, `KWRE KW-BG`
+* there `THR`
+* another `TPHOER`
+* pair `PAEUR`
+* remember,—it `REB KW-BG EPL/TKA*RB T`
+* really `R-L`
+* wonderful `WUFL`
+* jump `SKWRUFRP`
+* another! `TPHOER SKHRAPL`
+* A `KPA*/AEU`
+* funeral `TPAOUPBL`
+* street; `STRAOET STPH*FPLT`
+* beautiful `PWAOUFL`
+* woman `WOPL`
+* lay `HRAEU`
+* bier, `PWEUR KW-BG`
+* decked `TKEBG/-D`
+* garlands `TKPWAR/HRAPBDZ`
+* flowers, `TPHRO*URS KW-BG`
+* torches, `TOR/-FPS KW-BG`
+* overpowered `AUFR/POUR/-D`
+* my `PHEU`
+* light. `HRAOEUT TP-PL`
+* along `A/HROPBG`
+* stood `STAOD`
+* houses, `HO*UFS KW-BG`
+* crowds, `KROUDZ KW-BG`
+* ready `R-D`
+* join `SKWROEUPB`
+* procession. `PRO/SEGS TP-PL`
+* torches `TOR/-FPS`
+* before `PW-F`
+* could `KO`
+* look `HRAOBG`
+* round, `ROUPBD KW-BG`
+* saw `SAU`
+* person `PERPB`
+* alone, `A/HROEPB KW-BG`
+* standing, `STAPBG KW-BG`
+* leaning `HRAOEPBG`
+* against `TKPWEPBS`
+* post, `POEFT KW-BG`
+* weeping. `WAOEP/-G TP-PL`
+* shall `SHAL`
+* forget `TPERGT`
+* sorrowful `SOR/ROEFL`
+* me." `PHE TP-PL KR-GS`
+* similar `SHRAR`
+* reflections `RE/TPHREBG/SHUPBS`
+* occupied `OUPD`
+* shine. `SHAOEUPB TP-PL`
+* sentry, `SEPBT/REU KW-BG`
+* relieved `RE/HREFD`
+* least `HRAOEFT`
+* succeed `SKAOED`
+* him, `HEUPL KW-BG`
+* whisper `WEUS/PER`
+* few `TPAOU`
+* words `WORDZ`
+* successor, `SUBG/SES/O*R KW-BG`
+* have `SR`
+* given `TKPWEUFPB`
+* hints `HEUPBTS`
+* respecting `R-PG`
+* rain, `RAEUPB KW-BG`
+* mist, `PHEUFT KW-BG`
+* informed `TPH-FD`
+* far `TPAR`
+* moon's `PHAOPB AES`
+* rays `RA*ES`
+* rest `REFT`
+* pavement, `PAEUFPLT KW-BG`
+* side `SAOEUD`
+* wind `WEUPBD`
+* generally `SKWRERPBL`
+* blew, `PWHRAOU KW-BG`
+* so `SO`
+* on. `OPB TP-PL`
+* bridge `PWREUPBLG`
+* over `OEFR`
+* canal `KAPBL`
+* three `THRAOE`
+* persons, `PERPBZ KW-BG`
+* wished `WEURBD`
+* recommend `REPL`
+* themselves `TH*EPLS`
+* give `TKPWEUF`
+* office `OFS`
+* whomsoever `WHOPL/SOFR`
+* chose. `KHOES TP-PL`
+* herring's `HER/-G AES`
+* head, `HED KW-BG`
+* emit `E/PHEUT`
+* darkness. `TKARBG/-PBS TP-PL`
+* remarked `RARBGD`
+* saving `SAFG`
+* placed `PHRAEUFD`
+* lamp-post. `HRAFRP H-PB POEFT TP-PL`
+* Number `TPHUPL`
+* two `TWO`
+* piece `PAOES`
+* rotten `ROT/EPB`
+* wood, `WAOD KW-BG`
+* shines `SHAOEUPBS`
+* dark. `TKARBG TP-PL`
+* considered `KR-D`
+* himself `H*EUPLS`
+* descended `TKAOE/SEPBD/-D`
+* stem, `STEPL KW-BG`
+* forest. `TPOEFRT TP-PL`
+* third `THEURD`
+* glow-worm, `TKPWHROE H-PB WORPL KW-BG`
+* found `TPOUPBD`
+* imagine, `PHAPBLG KW-BG`
+* yet `KWRET`
+* was, `WAS KW-BG`
+* others. `OERS TP-PL`
+* wood `WAOD`
+* head `HED`
+* declared `TKE/KHRAEURD`
+* solemnly, `SOL/EPL/HREU KW-BG`
+* held `HELD`
+* sacred, `SKRED KW-BG`
+* glow-worm `TKPWHROE H-PB WORPL`
+* gave `TKPWAEUF`
+* certain `SERPB`
+* times, `TAOEUPLS KW-BG`
+* allowed `HRO*UD`
+* compete `KPAOET`
+* themselves. `TH*EPLS TP-PL`
+* assured `A/SHURD`
+* them `THEPL`
+* sufficient `SUF`
+* fill `TPEUL`
+* position `POGS`
+* lamp; `HRAFRP STPH*FPLT`
+* believe `PWHREF`
+* nothing `TPHOG`
+* said. `SAEUD TP-PL`
+* discovered `SKOFD`
+* power `POUR`
+* naming `TPH*P/A*/PH*/-G`
+* glad `TKPWHRAD`
+* too `TAO`
+* worn-out `WORPB H-PB OUT`
+* make `PHAEUBG`
+* proper `PROR`
+* choice. `KHOEUS TP-PL`
+* moment `PHOEPLT`
+* came `KAEUPL`
+* rushing `RURBG`
+* round `ROUPBD`
+* corner `KRORPB`
+* air-holes `AEUR H-PB HOELS`
+* lamp. `HRAFRP TP-PL`
+* "What `KR-GS WHA`
+* hear?" `HAER H-F KR-GS`
+* "That `KR-GS THA`
+* are `R`
+* going `TKPW-G`
+* away `A/WAEU`
+* to-morrow? `TO H-PB PHOR/ROE H-F`
+* we `WE`
+* meet? `PHAOET H-F`
+* present `PREPBT`
+* farewell `TPAER/WEL`
+* gift. `TKPWEUFT TP-PL`
+* blow `PWHROE`
+* your `KWROUR`
+* brain, `PWRAEUPB KW-BG`
+* future `TPAOURT`
+* heard `HAERD`
+* past, `PAFT KW-BG`
+* within `W-PB`
+* bright, `PWRAOEUT KW-BG`
+* understand `URPBD`
+* done `TKOPB`
+* presence." `PREPBS TP-PL KR-GS`
+* "Oh, `KR-GS O*E KW-BG`
+* very, `SRE KW-BG`
+* gift," `TKPWEUFT KW-BG KR-GS`
+* "I `KR-GS EU`
+* thank `THAPBG`
+* heartily. `HART/HREU TP-PL`
+* hope `HOEP`
+* down." `TKOUPB TP-PL KR-GS`
+* likely `HRAOEULG`
+* happen `HAP`
+* yet," `KWRET KW-BG KR-GS`
+* wind; `WEUPBD STPH*FPLT`
+* "and `KR-GS SKP`
+* memory `PHOEURPL`
+* you, `U KW-BG`
+* should `SHO`
+* receive `SAOEF`
+* presents `PREPBTS`
+* age `AEUPBLG`
+* pass `PAS`
+* pleasantly." `PHRES/APBT/HREU TP-PL KR-GS`
+* down," `TKOUPB KW-BG KR-GS`
+* "but `KR-GS PWUT`
+* still `STEUL`
+* retain `RE/TAEUPB`
+* memory?" `PHOEURPL H-F KR-GS`
+* "Do `KR-GS TKO`
+* reasonable, `R-PBL KW-BG`
+* lamp," `HRAFRP KW-BG KR-GS`
+* wind, `WEUPBD KW-BG`
+* puffing `PUFG`
+* away. `A/WAEU TP-PL`
+* moon `PHAOPB`
+* burst `PWUFRT`
+* forth `TPO*RT`
+* clouds. `KHROUDZ TP-PL`
+* lamp?" `HRAFRP H-F KR-GS`
+* asked `SK-D`
+* wind. `WEUPBD TP-PL`
+* can `K`
+* nothing," `TPHOG KW-BG KR-GS`
+* replied; `RE/PHRAOEUD STPH*FPLT`
+* wane, `WAEPB KW-BG`
+* lamps `HRA*PLS`
+* me `PHE`
+* frequently `TPREL`
+* shone `SHO*EPB`
+* them." `THEPL TP-PL KR-GS`
+* hid `HEUD`
+* herself `H*ERS`
+* again `TKPWEPB`
+* behind `HEUPBD`
+* clouds, `KHROUDZ KW-BG`
+* saved `SAFD`
+* importunities. `xxx importunities TP-PL`
+* Just `SKWRUFT`
+* fell `TPEL`
+* roof `RAOF`
+* house, `HOUS KW-BG`
+* explained `SPHRAEUPBD`
+* gift `TKPWEUFT`
+* gray `TKPWRAEU`
+* perhaps `PRAPS`
+* best `PWEFT`
+* gifts. `TKPWEUFTS TP-PL`
+* penetrate `PEPB/TRAEUT`
+* thoroughly," `THORL KW-BG KR-GS`
+* said, `SAEUD KW-BG`
+* becoming `PW-BG/-G`
+* rusty, `RUS/TEU KW-BG`
+* and, `SKP KW-BG`
+* wish `WEURB`
+* crumble `KRUPL/-BL`
+* dust `TKUFT`
+* night." `TPHAOEUT TP-PL KR-GS`
+* shabby `SHAB/KWREU`
+* present, `PREPBT KW-BG`
+* too. `TAO TP-PL`
+* "Does `KR-GS TKOS`
+* more? `PHOR H-F`
+* more?" `PHOR H-F KR-GS`
+* shouted `SHOUT/-D`
+* breath `PWR*ET`
+* loud `HROUD`
+* could. `KO TP-PL`
+* bright `PWRAOEUT`
+* falling `TPAULG`
+* star `STAR`
+* down, `TKOUPB KW-BG`
+* leaving `HREFG`
+* broad, `PWRAOD KW-BG`
+* luminous `HRAOUPL/TPHUS`
+* streak `STRAOEBG`
+* that?" `THA H-F KR-GS`
+* cried `KRAOEUD`
+* head. `HED TP-PL`
+* "Did `KR-GS TK`
+* fall? `TPAUL H-F`
+* went `WEPBT`
+* Certainly, `SERPBL KW-BG`
+* high-born `HAOEU H-PB PWORPB`
+* personages `PERPB/APBLG/-S`
+* try `TREU`
+* office, `OFS KW-BG`
+* say `SAEU`
+* 'Good-night,' `AE TKPWAOD H-PB TPHAOEUT KW-BG AE`
+* home." `HOEPL TP-PL KR-GS`
+* did, `TK KW-BG`
+* three, `THRAOE KW-BG`
+* threw `THRAOU`
+* wonderfully `WOPBD/TPHREU`
+* strong `STROPBG`
+* around `ARPBD`
+* him. `HEUPL TP-PL`
+* "This `KR-GS TH`
+* glorious `TKPWHRORS`
+* "the `KR-GS -T`
+* stars `STARS`
+* always `AULS`
+* joy `SKWROEU`
+* more `PHOR`
+* brilliantly `PWREULT/HREU`
+* than `THAPB`
+* shine, `SHAOEUPB KW-BG`
+* though `THOE`
+* tried `TRAOEUD`
+* whole `WHOEL`
+* might; `PHAOEUT STPH*FPLT`
+* noticed `TPH-TSD`
+* poor `PAOR`
+* enable `TPHAEUBL`
+* see `SAOE`
+* clearly `KAOERL`
+* everything `EFG`
+* remember, `REB KW-BG`
+* love `HRUF`
+* me. `PHE TP-PL`
+* herein `HAOERPB`
+* lies `HRAO*EUS`
+* truest `TRAOU/*ES`
+* pleasure, `PHRERB KW-BG`
+* cannot `K/TPHOT`
+* share `SHAEUR`
+* others `OERS`
+* half `HAF`
+* enjoyed." `EPB/SKWROEUD TP-PL KR-GS`
+* sentiment `SEPT/*PLT`
+* does `TKOS`
+* honor," `HO*RPB KW-BG KR-GS`
+* purpose `PURP`
+* wax `WABGS`
+* lights `HRAOEUTS`
+* necessary. `TPHES TP-PL`
+* particular `PHRAR`
+* faculties `TPABG/UT/KWREU/-S`
+* benefit `PWEF`
+* least. `HRAOEFT TP-PL`
+* this; `TH STPH*FPLT`
+* suppose `SPOS`
+* every `EF`
+* taper: `TAEURP STPH-FPLT`
+* down `TKOUPB`
+* now." `TPHOU TP-PL KR-GS`
+* laid `HRAEUD`
+* rest. `REFT/TP-PL`
+* "Wax `KR-GS WABGS`
+* tapers, `TAEURPS KW-BG`
+* indeed!" `TPHAOEPBD SKHRAPL KR-GS`
+* these, `THEZ KW-BG`
+* nor `TPH-R`
+* shall. `SHAL TP-PL`
+* sure `SHUR`
+* being `-BG`
+* down!" `TKOUPB SKHRAPL KR-GS`
+* day. `TKAEU TP-PL`
+* better `PWOERT`
+* come, `KOPL KW-BG`
+* resting `REFT/-G`
+* grandfather's `TKPWR-F AES`
+* chair, `KHAEUR KW-BG`
+* guess `TKPWES`
+* where! `W-R SKHRAPL`
+* Why, `KWR KW-BG`
+* watchman's `WAFP/PHAPB AES`
+* house. `HOUS TP-PL`
+* begged, `PWEGD KW-BG`
+* favor, `TPAEUFR KW-BG`
+* allow `HROU`
+* keep `KAOEP`
+* consideration `K-RGS`
+* faithful `TPA*EUT/-FL`
+* lit `HREUT`
+* day `TKAEU`
+* commenced `KPHEPBS/-D`
+* duties, `TKAOUT/KWREU/-S KW-BG`
+* four-and-twenty `TPOUR H-PB SKP H-PB TWEPBT`
+* ago. `AG TP-PL`
+* almost `HR-PL`
+* own `OEPB`
+* child; `KHAOEULD STPH*FPLT`
+* children, `KHEURPB KW-BG`
+* arm-chair `ARPL H-PB KHAEUR`
+* near `TPHAOER`
+* warm `WARPL`
+* stove. `STOF TP-PL`
+* larger, `HRARPBLG/ER KW-BG`
+* appeared `A/PAOERD`
+* chair. `KHAEUR TP-PL`
+* sat `SAT`
+* supper, `SAOURP KW-BG`
+* casting `KAFT/-G`
+* friendly `TPREPBLD`
+* glances `TKPWHRAPBS/-S`
+* whom `WHOPL`
+* admitted `AD/PHEUTD`
+* place `PHRAEUS`
+* table. `TAEUBL TP-PL`
+* true `TRAOU`
+* dwelt `TKWELT`
+* cellar, `SEL/AR KW-BG`
+* yards `KWRARDZ`
+* deep `TKAOEP`
+* earth, `*ERT KW-BG`
+* cross `KROS`
+* stone `STOEPB`
+* passage `PAFPBLG`
+* get `TKPWET`
+* room, `RAOPL KW-BG`
+* comfortable `K-BL`
+* strips `STREUPS`
+* list `HR*EUS`
+* nailed `TPHAEULD`
+* door. `TKAOR TP-PL`
+* bed `PWED`
+* window `WOEUPBD`
+* curtains, `KUR/TEUPBS KW-BG`
+* clean `KHAOEPB`
+* neat. `TPHAOET TP-PL`
+* seat `SAOET`
+* curious `KAOURS`
+* flower-pots `TPHRO*UR H-PB POTS`
+* sailor, `SAEU/HROR KW-BG`
+* named `TPHAEUPLD`
+* Christian, `KREUGS KW-BG`
+* brought `PWRAUT`
+* East `AOEFT`
+* West `WEFT`
+* Indies. `*EU/TPH*/TK*/*EU/*E/S* TP-PL`
+* clay, `KHRAEU KW-BG`
+* form `TPORPL`
+* elephants, `EL/TPAPBTS KW-BG`
+* open `OEP`
+* backs; `PWABGS STPH*FPLT`
+* hollow `HOL/OE`
+* filled `TPEULD`
+* space `SPAEUS`
+* flowers `TPHRO*URS`
+* bloomed. `PWHRAOPL/-D TP-PL`
+* grew `TKPWRAOU`
+* fine `TPAOEUPB`
+* chives `KHAOEUFS`
+* leeks; `HRAOEBG/-S STPH*FPLT`
+* kitchen `K-FP`
+* garden. `TKPWA*RPB TP-PL`
+* elephant, `EL/TPAPBT KW-BG`
+* contained `TAEUPBD`
+* geranium, `SKWRER/AEUPB/KWRUPL KW-BG`
+* called `KAULD`
+* flower `TPHRO*UR`
+* wall `WAUL`
+* large `HRARPBLG`
+* colored `KHRORD`
+* print, `PREUPBT KW-BG`
+* representing `REPG`
+* congress `KO*PBG`
+* Vienna, `SRAOEPB/TPHA KW-BG`
+* kings `KEUPBGZ`
+* emperors `EPL/ROR/-S`
+* once. `WUPBS TP-PL`
+* clock, `KHROBG KW-BG`
+* heavy `HOEUF`
+* weights, `WAETS KW-BG`
+* "tick, `KR-GS TEUBG KW-BG`
+* tick," `TEUBG KW-BG KR-GS`
+* steadily `STED/HREU`
+* enough; `TPHUF STPH*FPLT`
+* rather `RAER`
+* fast, `TPAFT KW-BG`
+* which, `WEU KW-BG`
+* however, `HOUF KW-BG`
+* slow. `SHROE TP-PL`
+* eating `AOEGT`
+* heard, `HAERD KW-BG`
+* world `WORLD`
+* round; `ROUPBD STPH*FPLT`
+* after `AF`
+* spoke `SPOEBG`
+* both `PWO*T`
+* gone `TKPWOPB`
+* together,—in `TOGT KW-BG EPL/TKA*RB TPH`
+* rain `RAEUPB`
+* fog; `TPOG STPH*FPLT`
+* during `TKURG`
+* short `SHORT`
+* nights `TPHAOEUTS`
+* summer, `SAOURPL KW-BG`
+* winter `WEURPBT`
+* nights, `TPHAOEUTS KW-BG`
+* drifting `TKREUFT/-G`
+* snow-storms, `STPHOE H-PB STORPLS KW-BG`
+* longed `HROPBG/-D`
+* home `HOEPL`
+* cellar. `SEL/AR TP-PL`
+* felt `TPELT`
+* right `RAOEUT`
+* again. `TKPWEPB TP-PL`
+* happened `HAPD`
+* clearly, `KAOERL KW-BG`
+* passing `PAFG`
+* Surely `SHURL`
+* excellent `KPHREPBT`
+* active `TAEF`
+* industrious, `STREUS KW-BG`
+* idle `AOEUD/*L`
+* even `AOEPB`
+* hour. `HOUR TP-PL`
+* Sunday `SUPBD`
+* afternoons `AFPB/-S`
+* bring `PWREU`
+* out `OUT`
+* books, `PWAOBGS KW-BG`
+* book `PWAOBG`
+* travels `TRAFLS`
+* fond `TPOPBD`
+* aloud `A/HROUD`
+* Africa, `AFR/KA KW-BG`
+* forests `TPOEFRT/-S`
+* wild `WAOEULD`
+* attentively, `A/TEPBT/EUFL KW-BG`
+* stealing `STAELG`
+* clay `KHRAEU`
+* served `SEFRBD`
+* flower-pots. `TPHRO*UR H-PB POTS TP-PL`
+* imagine `PHAPBLG`
+* seeing `SAOEG`
+* all," `AUL KW-BG KR-GS`
+* said; `SAEUD STPH*FPLT`
+* taper `TAEURP`
+* smallest `SPHAUL/EFT`
+* detail `TKE/TAEUL`
+* himself. `H*EUPLS TP-PL`
+* lofty `HROF/TEU`
+* trees, `TRAOES KW-BG`
+* thickly `THEUBG/HREU`
+* entwined `EPB/TWAOEUPB/-D`
+* branches, `PWRAFPBS KW-BG`
+* naked `TPHAEUBGD`
+* negroes `TPHAOE/TKPWROE/-S`
+* horseback, `HORS/PWABG KW-BG`
+* herds `HERDZ`
+* elephants `EL/TPAPBTS`
+* treading `TRAOED/-G`
+* bamboo `PWAPL/PWAO`
+* thickets `THEUBGT/-S`
+* feet. `TPAOET TP-PL`
+* use `AOUS`
+* capabilities," `KAEUBLTS KW-BG KR-GS`
+* sighed `SAOEU/-D`
+* "when `KR-GS WHEPB`
+* obtain `OB/TAEUPB`
+* lights; `HRAOEUTS STPH*FPLT`
+* tallow `TAL/HROE`
+* here, `HAOER KW-BG`
+* do." `TKO TP-PL KR-GS`
+* heap `HAOEP`
+* wax-candle `WABGS H-PB KA*PBLD`
+* ends `EPDZ`
+* larger `HRARPBLG/ER`
+* pieces `PAOEFS`
+* burnt, `PWURPBT KW-BG`
+* smaller `SPHAURL`
+* ones `WUPBZ`
+* kept `KEPT`
+* waxing `WABGS/-G`
+* thread. `THRED TP-PL`
+* candles `KAPBD/-LS`
+* enough, `TPHUF KW-BG`
+* occurred `KROEURD`
+* put `PUT`
+* "Here `KR-GS HAOER`
+* rare `RAEUR`
+* powers," `POURS KW-BG KR-GS`
+* them; `THEPL STPH*FPLT`
+* cover `KOFR`
+* white `WHAOEUT`
+* walls `WAULS`
+* tapestry, `TAPS/TREU KW-BG`
+* change `KHAEUPBG`
+* noble `TPHOEBL`
+* forests, `TPOEFRT/-S KW-BG`
+* or, `OR KW-BG`
+* indeed, `TPHAOEPBD KW-BG`
+* anything `TPHEUG`
+* else `ELS`
+* for." `TPOR TP-PL KR-GS`
+* shining `SHAOEUPBG`
+* where `W-R`
+* attracted `A/TRABGD`
+* eyes. `AO*EUS TP-PL`
+* Strangers `STRAEUPB/SKWRERS`
+* lumber, `HRUPL/PWER KW-BG`
+* care `KAEUR`
+* that; `THA STPH*FPLT`
+* loved `HROFD`
+* day—it `TKAEU EPL/TKA*RB T`
+* birthday—the `PWEURT/TKAEU EPL/TKA*RB -T`
+* approached `A/PROEFPD`
+* smiling `SPHAOEULG`
+* herself, `H*ERS KW-BG`
+* illumination `HRUPL/TPHAEUGS`
+* to-day `TO H-PB TKAEU`
+* honor `HO*RPB`
+* man." `PHAPB TP-PL KR-GS`
+* rattled `RAT/-LD`
+* metal `PH*ELT`
+* frame, `TPRAEUPL KW-BG`
+* thought, `THAUT KW-BG`
+* "Now `KR-GS TPHOU`
+* me," `PHE KW-BG KR-GS`
+* usual. `URBL TP-PL`
+* burned `PWURPBD`
+* began `TKPWAPB`
+* perceive `SPAOEF`
+* remain `RE/PHAUPB`
+* hidden `HEUD/EPB`
+* treasure `TRERB`
+* life. `HRAOEUF TP-PL`
+* dream; `TKRAOEPL STPH*FPLT`
+* for, `TPOR KW-BG`
+* faculties, `TPABG/UT/KWREU/-S KW-BG`
+* dreaming `TKRAOEPLG`
+* difficulty. `TKOEUFLT TP-PL`
+* dead, `TKED KW-BG`
+* taken `TAEPB`
+* foundry `TPOUPBD/REU`
+* caused `KAUFD`
+* council `KUPB/SEUL`
+* town-hall. `TOUPB H-PB HAUL TP-PL`
+* endowed `EPB/TKOU/-D`
+* decay `TKE/KAEU`
+* rust `RUFT`
+* pleased, `PHRAOEFD KW-BG`
+* therefore `TH-FR`
+* melting-furnace `PHELT/-G H-PB TPURPBS`
+* changed `KHAEUPBGD`
+* elegant `EL/TKPWAPBT`
+* candlestick `xxx candlestick`
+* see, `SAOE KW-BG`
+* intended `SPWEPBD/-D`
+* hold `HOLD`
+* taper. `TAEURP TP-PL`
+* angel `A*EPBLG`
+* holding `HOELGD`
+* nosegay, `TPHOES/TKPWAEU KW-BG`
+* centre `STR/A*U`
+* placed. `PHRAEUFD TP-PL`
+* stand `STAPBD`
+* green `TKPWRAOEPB`
+* table, `TAEUBL KW-BG`
+* pleasant `PHREFPBT`
+* room; `RAOPL STPH*FPLT`
+* books `PWAOBGS`
+* scattered `SKAT/ERD`
+* about, `PW KW-BG`
+* splendid `SPHREPBD/EUD`
+* paintings `PAEUPBGS`
+* walls. `WAULS TP-PL`
+* owner `OERPB`
+* room `RAOPL`
+* poet, `POET KW-BG`
+* intellect; `SPWHREBGT STPH*FPLT`
+* wrote `WRO`
+* pictured `P*EUFPD`
+* Nature `TPHAEURT`
+* showed `SHOED`
+* sometimes `STAOEUPLS`
+* cheerful `KHAOER/-FL`
+* meadows `PHED/OES`
+* storks `STORBG/-S`
+* strutting `STRUT/-G`
+* deck `TKEBG`
+* ship `SHEUP`
+* sailing `SAEULG`
+* across `A/KROS`
+* foaming `TPOEPLG`
+* sea `SAE`
+* clear, `KHRAOER KW-BG`
+* blue `PWHRU`
+* sky `SKAOEU`
+* above, `PWOF KW-BG`
+* glittering `TKPWHREUT/ERG`
+* stars. `STARS TP-PL`
+* powers `POURS`
+* possess!" `PESZ SKHRAPL KR-GS`
+* awaking `A/WAEUBG/-G`
+* down; `TKOUPB STPH*FPLT`
+* no, `TPHO KW-BG`
+* live. `HREUF TP-PL`
+* myself `PHAO*EUS`
+* supply `SPHAOEU`
+* off `OF`
+* picture `P*EUFP`
+* congress, `KO*PBG KW-BG`
+* take `TAEUBG`
+* pleasure." `PHRERB TP-PL KR-GS`
+* himself, `H*EUPLS KW-BG`
+* deserved `TKAOE/SER/-FD`
+* be. `-B TP-PL`

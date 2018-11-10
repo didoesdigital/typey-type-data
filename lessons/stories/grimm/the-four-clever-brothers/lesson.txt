@@ -30,7 +30,7 @@ The Four Clever Brothers
 'luck.': HRUBG TP-PL
 'Begin': TKPWEUPB
 'by': PWEU
-'learning': HRERPG
+'learning': HRERPBG
 'some': SOPL
 'craft': KRAFT
 'or': OR
@@ -48,7 +48,7 @@ The Four Clever Brothers
 'brothers': PWROERS
 'took': TAOBG
 'their': THAEUR
-'walking-sticks': WAUG H-PB STEUBGZ
+'walking-sticks': WAUG H-PB STEUBGS
 'in': TPH
 'their': THAEUR
 'hands,': HAPBDZ KW-BG
@@ -118,7 +118,7 @@ The Four Clever Brothers
 'must': PHUFT
 'try': TREU
 'what': WHA
-'he': E
+'he': HE
 'can': K
 'do': TKO
 'for': TPOR
@@ -133,7 +133,7 @@ The Four Clever Brothers
 'as': AZ
 'the': -T
 'eldest': ELD/EFT
-'was': WA
+'was': WAS
 'hastening': HAEUS/-PBG
 'on': OPB
 'a': AEU
@@ -144,12 +144,12 @@ The Four Clever Brothers
 'asked': SK-D
 'him': HEUPL
 'where': W-R
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'going,': TKPW-G KW-BG
 'and': SKP
 'what': WHA
-'he': E
+'he': HE
 'wanted.': WAPBTD TP-PL
 ''I': AE EU
 'am': APL
@@ -167,13 +167,13 @@ The Four Clever Brothers
 'to': TO
 'begin': TKPWEUPB
 'by': PWEU
-'learning': HRERPG
+'learning': HRERPBG
 'some': SOPL
 'art': ART
 'or': OR
 'trade,'': TRAEUD KW-BG AE
-'answered': APBSD
-'he.': E TP-PL
+'answered': AEPBS/-D
+'he.': HE TP-PL
 ''Then,'': AE THEPB KW-BG AE
 'said': SAEUD
 'the': -T
@@ -193,7 +193,7 @@ The Four Clever Brothers
 'thief': THAOEF
 'that': THA
 'ever': -FR
-'was.'': WA TP-PL AE
+'was.'': WAS TP-PL AE
 ''No,'': AE TPHO KW-BG AE
 'said': SAEUD
 'the': -T
@@ -219,7 +219,7 @@ The Four Clever Brothers
 'but': PWUT
 'the': -T
 'gallows?'': TKPWAL/HROE/-S H-F AE
-''Oh!'': AE O*ERBGS SKHRAPL AE
+''Oh!'': AE O*E SKHRAPL AE
 'said': SAEUD
 'the': -T
 'man,': PHAPB KW-BG
@@ -243,7 +243,7 @@ The Four Clever Brothers
 'fair': TPAEUR
 'game:': TKPWAEUPL STPH-FPLT
 'I': EU
-'meddle': PHED/-L
+'meddle': PHED/*L
 'with': W
 'nothing': TPHOG
 'but': PWUT
@@ -275,7 +275,7 @@ The Four Clever Brothers
 'his': HEUS
 'trade,': TRAEUD KW-BG
 'and': SKP
-'he': E
+'he': HE
 'soon': SAOPB
 'showed': SHOED
 'himself': H*EUPLS
@@ -284,10 +284,10 @@ The Four Clever Brothers
 'that': THA
 'nothing': TPHOG
 'could': KO
-'escape': E/SKAEUP
+'escape': SKA*EUP
 'him': HEUPL
 'that': THA
-'he': E
+'he': HE
 'had': H
 'once': WUPBS
 'set': SET
@@ -303,12 +303,12 @@ The Four Clever Brothers
 'man,': PHAPB KW-BG
 'who,': WHO KW-BG
 'when': WHEPB
-'he': E
+'he': HE
 'found': TPOUPBD
 'out': OUT
 'what': WHA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'setting': SEGT
 'out': OUT
 'upon,': POPB KW-BG
@@ -316,7 +316,7 @@ The Four Clever Brothers
 'him': HEUPL
 'what': WHA
 'craft': KRAFT
-'he': E
+'he': HE
 'meant': PHEPBT
 'to': TO
 'follow.': TPOL TP-PL
@@ -326,7 +326,7 @@ The Four Clever Brothers
 'know': TPHOE
 'yet,'': KWRET KW-BG AE
 'said': SAEUD
-'he.': E TP-PL
+'he.': HE TP-PL
 ''Then': AE THEPB
 'come': KOPL
 'with': W
@@ -334,7 +334,7 @@ The Four Clever Brothers
 'and': SKP
 'be': -B
 'a': AEU
-'star-gazer.': STAR H-PB XXX gazer TP-PL
+'star-gazer.': STAR H-PB xxx gazer TP-PL
 'It': T
 'is': S
 'a': AEU
@@ -359,16 +359,16 @@ The Four Clever Brothers
 'him': HEUPL
 'much,': PHUFP KW-BG
 'and': SKP
-'he': E
+'he': HE
 'soon': SAOPB
 'became': PWAEUPL
 'such': SUFP
 'a': AEU
-'skilful': XXX skilful
-'star-gazer,': STAR H-PB XXX gazer KW-BG
+'skilful': SKEUL/*FL
+'star-gazer,': STAR H-PB xxx gazer KW-BG
 'that': THA
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'served': SEFRBD
 'out': OUT
@@ -380,7 +380,7 @@ The Four Clever Brothers
 'leave': HREF
 'his': HEUS
 'master,': PHAFRT KW-BG
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
@@ -414,7 +414,7 @@ The Four Clever Brothers
 'brother': PWROER
 'met': PHET
 'a': AEU
-'huntsman,': XXX huntsman KW-BG
+'huntsman,': xxx huntsman KW-BG
 'who': WHO
 'took': TAOBG
 'him': HEUPL
@@ -431,7 +431,7 @@ The Four Clever Brothers
 'to': TO
 'hunting,': HUPBT/-G KW-BG
 'that': THA
-'he': E
+'he': HE
 'became': PWAEUPL
 'very': SRE
 'clever': KHREFR
@@ -443,11 +443,11 @@ The Four Clever Brothers
 'woods;': WAODZ STPH*FPLT
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'left': HREFT
 'his': HEUS
 'master': PHAFRT
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
@@ -478,7 +478,7 @@ The Four Clever Brothers
 'asked': SK-D
 'him': HEUPL
 'what': WHA
-'he': E
+'he': HE
 'wished': WEURBD
 'to': TO
 'do.': TKO TP-PL
@@ -487,18 +487,18 @@ The Four Clever Brothers
 'you': U
 'like,'': HRAOEUBG KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''to': AE TO
 'be': -B
 'a': AEU
 'tailor?'': TAEURL H-F AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'no!'': TPHO SKHRAPL AE
 'said': SAEUD
 'the': -T
 'young': KWRUPBG
 'man;': PHAPB STPH*FPLT
-''sitting': AE SAO*EGT
+''sitting': AE SEUGT
 'cross-legged': KROS H-PB HREG/-D
 'from': TPR
 'morning': PHORPBG
@@ -517,8 +517,8 @@ The Four Clever Brothers
 'never': TPHEF
 'suit': SAOUT
 'me.'': PHE TP-PL AE
-''Oh!'': AE O*ERBGS SKHRAPL AE
-'answered': APBSD
+''Oh!'': AE O*E SKHRAPL AE
+'answered': AEPBS/-D
 'the': -T
 'man,': PHAPB KW-BG
 ''that': AE THA
@@ -548,24 +548,24 @@ The Four Clever Brothers
 'better': PWOERT
 'to': TO
 'do,': TKO KW-BG
-'he': E
+'he': HE
 'came': KAEUPL
 'into': TPHAO
 'the': -T
 'plan,': PHRAPB KW-BG
 'and': SKP
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'tailoring': TAEUL/ORG
 'from': TPR
 'the': -T
 'beginning;': TKPWEUPB/-G STPH*FPLT
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'left': HREFT
 'his': HEUS
 'master,': PHAFRT KW-BG
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
@@ -631,7 +631,7 @@ The Four Clever Brothers
 'off': OF
 'towards': TORDZ
 'their': THAEUR
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'home,': HOEPL KW-BG
 'where': W-R
 'they': THE
@@ -656,7 +656,7 @@ The Four Clever Brothers
 'as': AZ
 'they': THE
 'were': WR
-'sitting': SAO*EGT
+'sitting': SEUGT
 'before': PW-F
 'the': -T
 'house': HOUS
@@ -683,7 +683,7 @@ The Four Clever Brothers
 'this': TH
 'way.'': WAEU TP-PL AE
 'So': SO
-'he': E
+'he': HE
 'looked': HRAOBGD
 'up,': UP KW-BG
 'and': SKP
@@ -701,7 +701,7 @@ The Four Clever Brothers
 'there': THR
 'is': S
 'a': AEU
-'chaffinch's': XXX chaffinch AE S*/SP-S
+'chaffinch's': xxx chaffinch AES
 'nest;': TPHEFT STPH*FPLT
 'tell': TEL
 'me': PHE
@@ -713,7 +713,7 @@ The Four Clever Brothers
 'in': TPH
 'it.'': T TP-PL AE
 'The': -T
-'star-gazer': STAR H-PB XXX gazer
+'star-gazer': STAR H-PB xxx gazer
 'took': TAOBG
 'his': HEUS
 'glass,': TKPWHRAS KW-BG
@@ -740,7 +740,7 @@ The Four Clever Brothers
 'bird': PWEURD
 'that': THA
 'is': S
-'sitting': SAO*EGT
+'sitting': SEUGT
 'upon': POPB
 'them': THEPL
 'and': SKP
@@ -781,12 +781,12 @@ The Four Clever Brothers
 'or': OR
 'felt': TPELT
 'what': WHA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'doing,': TK*G KW-BG
 'but': PWUT
 'kept': KEPT
-'sitting': SAO*EGT
+'sitting': SEUGT
 'on': OPB
 'at': AT
 'its': EUTS
@@ -816,7 +816,7 @@ The Four Clever Brothers
 'said': SAEUD
 'to': TO
 'the': -T
-'huntsman,': XXX huntsman KW-BG
+'huntsman,': xxx huntsman KW-BG
 ''Cut': AE KUT
 'all': AUL
 'the': -T
@@ -828,7 +828,7 @@ The Four Clever Brothers
 'one': WUPB
 'shot.'': SHOT TP-PL AE
 'The': -T
-'huntsman': XXX huntsman
+'huntsman': xxx huntsman
 'took': TAOBG
 'up': UP
 'his': HEUS
@@ -851,7 +851,7 @@ The Four Clever Brothers
 'your': KWROUR
 'turn,'': TURPB KW-BG AE
 'said': SAEUD
-'he': E
+'he': HE
 'to': TO
 'the': -T
 'young': KWRUPBG
@@ -889,17 +889,17 @@ The Four Clever Brothers
 'the': -T
 'eggs': EGS
 'as': AZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'told;': TOLD STPH*FPLT
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'done,': TKOPB KW-BG
 'the': -T
 'thief': THAOEF
-'was': WA
+'was': WAS
 'sent': SEPBT
 'to': TO
 'take': TAEUBG
@@ -922,7 +922,7 @@ The Four Clever Brothers
 'she': SHE
 'went': WEPBT
 'on': OPB
-'sitting,': SAO*EGT KW-BG
+'sitting,': SEUGT KW-BG
 'and': SKP
 'hatched': HAFPD
 'them:': THEPL STPH-FPLT
@@ -967,7 +967,7 @@ The Four Clever Brothers
 'your': KWROUR
 'time,': TAOEUPL KW-BG
 'and': SKP
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'something': S-G
 'worth': WO*RT
 'the': -T
@@ -986,7 +986,7 @@ The Four Clever Brothers
 'have': SR
 'the': -T
 'prize.': PRAOEUZ TP-PL
-'Oh,': O*ERBGS KW-BG
+'Oh,': O*E KW-BG
 'that': THA
 'a': AEU
 'time': TAOEUPL
@@ -1007,7 +1007,7 @@ The Four Clever Brothers
 'after': AF
 'this': TH
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'great': TKPWRAET
 'bustle': PWUFL
@@ -1016,7 +1016,7 @@ The Four Clever Brothers
 'country;': KREU STPH*FPLT
 'for': TPOR
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter': TKAUR
 'had': H
 'been': PW-PB
@@ -1024,7 +1024,7 @@ The Four Clever Brothers
 'off': OF
 'by': PWEU
 'a': AEU
-'mighty': PHAOEU/TEU
+'mighty': PHAOEUT/KWREU
 'dragon,': TKRAG/O*PB KW-BG
 'and': SKP
 'the': -T
@@ -1098,15 +1098,15 @@ The Four Clever Brothers
 'however,'': HOUF KW-BG AE
 'said': SAEUD
 'the': -T
-'star-gazer,': STAR H-PB XXX gazer KW-BG
+'star-gazer,': STAR H-PB xxx gazer KW-BG
 'as': AZ
-'he': E
+'he': HE
 'looked': HRAOBGD
 'through': THRU
 'his': HEUS
 'glass;': TKPWHRAS STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'soon': SAOPB
 'cried': KRAOEUD
 'out,': OUT KW-BG
@@ -1115,7 +1115,7 @@ The Four Clever Brothers
 'her': HER
 'afar': A/TPAR
 'off,': OF KW-BG
-'sitting': SAO*EGT
+'sitting': SEUGT
 'upon': POPB
 'a': AEU
 'rock': ROBG
@@ -1133,7 +1133,7 @@ The Four Clever Brothers
 'guarding': TKPWARD/-G
 'her.'': HER TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
@@ -1167,10 +1167,10 @@ The Four Clever Brothers
 'found': TPOUPBD
 'the': -T
 'princess': PREUPB/ES
-'sitting,': SAO*EGT KW-BG
+'sitting,': SEUGT KW-BG
 'as': AZ
 'the': -T
-'star-gazer': STAR H-PB XXX gazer
+'star-gazer': STAR H-PB xxx gazer
 'had': H
 'said,': SAEUD KW-BG
 'on': OPB
@@ -1179,7 +1179,7 @@ The Four Clever Brothers
 'and': SKP
 'the': -T
 'dragon': TKRAG/O*PB
-'was': WA
+'was': WAS
 'lying': HRAOEUG
 'asleep,': A/HRAOEP KW-BG
 'with': W
@@ -1196,7 +1196,7 @@ The Four Clever Brothers
 'him,'': HEUPL KW-BG AE
 'said': SAEUD
 'the': -T
-'huntsman,': XXX huntsman KW-BG
+'huntsman,': xxx huntsman KW-BG
 ''for': AE TPOR
 'I': EU
 'should': SHO
@@ -1267,7 +1267,7 @@ The Four Clever Brothers
 'the': -T
 'air;': AEUR STPH*FPLT
 'for': TPOR
-'he': E
+'he': HE
 'awoke': A/WOEBG
 'and': SKP
 'missed': PHEUFD
@@ -1275,7 +1275,7 @@ The Four Clever Brothers
 'princess.': PREUPB/ES TP-PL
 'But': PWUT
 'when': WHEPB
-'he': E
+'he': HE
 'got': TKPWOT
 'over': OEFR
 'the': -T
@@ -1292,7 +1292,7 @@ The Four Clever Brothers
 'the': -T
 'princess,': PREUPB/ES KW-BG
 'the': -T
-'huntsman': XXX huntsman
+'huntsman': xxx huntsman
 'took': TAOBG
 'up': UP
 'his': HEUS
@@ -1306,7 +1306,7 @@ The Four Clever Brothers
 'heart': HART
 'so': SO
 'that': THA
-'he': E
+'he': HE
 'fell': TPEL
 'down': TKOUPB
 'dead.': TKED TP-PL
@@ -1316,8 +1316,8 @@ The Four Clever Brothers
 'not': TPHOT
 'safe;': SAEUF STPH*FPLT
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'such': SUFP
 'a': AEU
 'great': TKPWRAET
@@ -1326,8 +1326,8 @@ The Four Clever Brothers
 'in': TPH
 'his': HEUS
 'fall': TPAUL
-'he': E
-'overset': XXX overset
+'he': HE
+'overset': xxx overset
 'the': -T
 'boat,': PWOET KW-BG
 'and': SKP
@@ -1362,7 +1362,7 @@ The Four Clever Brothers
 'planks': PHRAPB/-BGS
 'together;': TOGT STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'sat': SAT
 'down': TKOUPB
 'upon': POPB
@@ -1388,9 +1388,9 @@ The Four Clever Brothers
 'that': THA
 'the': -T
 'boat': PWOET
-'was': WA
+'was': WAS
 'soon': SAOPB
-'ready,': R*ED KW-BG
+'ready,': R-D KW-BG
 'and': SKP
 'they': THE
 'then': THEPB
@@ -1412,11 +1412,11 @@ The Four Clever Brothers
 'her': HER
 'father,': TPAER KW-BG
 'there': THR
-'was': WA
+'was': WAS
 'great': TKPWRAET
 'rejoicing;': RE/SKWROEUFG STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'the': -T
@@ -1448,7 +1448,7 @@ The Four Clever Brothers
 'them;': THEPL STPH*FPLT
 'and': SKP
 'the': -T
-'star-gazer': STAR H-PB XXX gazer
+'star-gazer': STAR H-PB xxx gazer
 'said,': SAEUD KW-BG
 ''If': AE TP
 'I': EU
@@ -1507,7 +1507,7 @@ The Four Clever Brothers
 'mine,'': PHAOEUPB KW-BG AE
 'said': SAEUD
 'the': -T
-'huntsman;': XXX huntsman STPH*FPLT
+'huntsman;': xxx huntsman STPH*FPLT
 ''for': AE TPOR
 'if': TP
 'I': EU
@@ -1516,7 +1516,7 @@ The Four Clever Brothers
 'killed': KEULD
 'the': -T
 'dragon,': TKRAG/O*PB KW-BG
-'he': E
+'he': HE
 'would,': WO KW-BG
 'after': AF
 'all,': AUL KW-BG
@@ -1632,7 +1632,7 @@ The Four Clever Brothers
 'better': PWOERT
 'than': THAPB
 'either': AOERT
-'quarrelling': KWAULG
+'quarrelling': KWAULG/A*U
 'or': OR
 'marrying': PHAR/REU/-G
 'a': AEU
@@ -1655,7 +1655,7 @@ The Four Clever Brothers
 'a': AEU
 'kingdom,': KEUPBG/TKOPL KW-BG
 'as': AZ
-'he': E
+'he': HE
 'had': H
 'said;': SAEUD STPH*FPLT
 'and': SKP
@@ -1694,7 +1694,7 @@ The Four Clever Brothers
 'one': WUPB
 'of': -F
 'the': -T
-'craftsmen': XXX craftsmen
+'craftsmen': xxx craftsmen
 'have': SR
 'her': HER
 'again.': TKPWEPB TP-PL

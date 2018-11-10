@@ -1,7 +1,7 @@
 The Mail-Coach Passengers
 
 'It': T
-'was': WA
+'was': WAS
 'bitterly': PWEURLT
 'cold,': KOELD KW-BG
 'the': -T
@@ -17,11 +17,11 @@ The Mail-Coach Passengers
 '"Bump"—an': KR-GS PWUFRP KR-GS EPL/TKA*RB APB
 'old': OLD
 'pot': POT
-'was': WA
+'was': WAS
 'thrown': THROEPB
 'at': AT
 'a': AEU
-'neighbor's': TPHAEUB AE S*/SP-S
+'neighbor's': TPHAEUB AES
 'door;': TKAOR STPH*FPLT
 'and': SKP
 '"bang,': KR-GS PWAPBG KW-BG
@@ -37,15 +37,15 @@ The Mail-Coach Passengers
 'New': TPHU
 'Year.': KWRAOER TP-PL
 'It': T
-'was': WA
+'was': WAS
 'New': TPHU
-'Year's': KWRAOER AE S*/SP-S
+'Year's': KWRAOER AES
 'Eve,': AOEF KW-BG
 'and': SKP
 'the': -T
 'church': KHUFRPB
 'clock': KHROBG
-'was': WA
+'was': WAS
 'striking': STRAOEUG
 'twelve.': TWEFL TP-PL
 '"Tan-ta-ra-ra,': KR-GS TAPB H-PB TAEU H-PB RA H-PB RA KW-BG
@@ -98,7 +98,7 @@ The Mail-Coach Passengers
 'the': -T
 'New': TPHU
 'Year': KWRAOER
-'was': WA
+'was': WAS
 'being': -BG
 'welcomed;': W-BGD STPH*FPLT
 'and': SKP
@@ -122,11 +122,11 @@ The Mail-Coach Passengers
 'the': -T
 'new': TPHU
 'comer.': KOPL/ER TP-PL
-'"A': KR-GS AEU
+'"A': KR-GS KPA*/AEU
 'happy': HAEP
 'New': TPHU
 'Year,"': KWRAOER KW-BG KR-GS
-'was': WA
+'was': WAS
 'the': -T
 'cry;': KRAOEU STPH*FPLT
 '"a': KR-GS AEU
@@ -244,7 +244,7 @@ The Mail-Coach Passengers
 'one': WUPB
 'who': WHO
 'alighted': A/HRAOEUT/-D
-'first': TPEURS
+'first': TPEUFRT
 'from': TPR
 'the': -T
 'carriage.': KAEURPBLG TP-PL
@@ -254,7 +254,7 @@ The Mail-Coach Passengers
 'in': TPH
 'the': -T
 'passport,"': PAS/PORT KW-BG KR-GS
-'he': E
+'he': HE
 'replied.': RE/PHRAOEUD TP-PL
 '"I': KR-GS EU
 'am': APL
@@ -263,7 +263,7 @@ The Mail-Coach Passengers
 'a': AEU
 'famous': TPAEUPLS
 'fellow': TPO*EUL
-'he': E
+'he': HE
 'looked,': HRAOBGD KW-BG
 'arrayed': A/RAEU/-D
 'in': TPH
@@ -292,13 +292,13 @@ The Mail-Coach Passengers
 'you': U
 'a': AEU
 'New': TPHU
-'Year's': KWRAOER AE S*/SP-S
+'Year's': KWRAOER AES
 'present.': PREPBT TP-PL
 'I': EU
 'throw': THROE
 'shillings': SHEUL/-GS
 'and': SKP
-'pence': XXX pence
+'pence': xxx pence
 'among': PHOPBG
 'the': -T
 'people;': PAOEPL STPH*FPLT
@@ -354,18 +354,18 @@ The Mail-Coach Passengers
 'the': -T
 'second': SEBGD
 'alighted.': A/HRAOEUT/-D TP-PL
-'He': E
+'He': HE
 'seemed': SAOEPLD
 'a': AEU
 'merry': PHER/REU
 'fellow.': TPO*EUL TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'a': AEU
 'director': TKROR
 'of': -F
 'a': AEU
-'theatre,': THAOERT KW-BG
+'theatre,': THAO*ERT KW-BG
 'a': AEU
 'manager': PHARPBG
 'of': -F
@@ -388,7 +388,7 @@ The Mail-Coach Passengers
 'a': AEU
 'great': TKPWRAET
 'cask.': KAFBG TP-PL
-'"We'll': KR-GS WE AE XXX ll
+'"We'll': KR-GS WE AE HR*/HR*
 'dance': TKAPBS
 'the': -T
 'bung': PWUPBG
@@ -400,8 +400,8 @@ The Mail-Coach Passengers
 'carnival': KARPB/SRAL
 'time,"': TAOEUPL KW-BG KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
-'"I'll': KR-GS EU AE XXX ll
+'he;': HE STPH*FPLT
+'"I'll': KR-GS EU AE HR*/HR*
 'prepare': PRAEP
 'a': AEU
 'merry': PHER/REU
@@ -427,7 +427,7 @@ The Mail-Coach Passengers
 'my': PHEU
 'whole': WHOEL
 'family—only': TPAEPL EPL/TKA*RB OEPBL
-'twenty-eight': TWEPBT H-PB AET
+'twenty-eight': TWEPBT/H-PB/AET
 'days.': TKAEUS TP-PL
 'Sometimes': STAOEUPLS
 'they': THE
@@ -436,7 +436,7 @@ The Mail-Coach Passengers
 'in': TPH
 'a': AEU
 'day': TKAEU
-'extra;': TRAEBGS STPH*FPLT
+'extra;': KPRA STPH*FPLT
 'but': PWUT
 'I': EU
 'trouble': TRUBL
@@ -458,13 +458,13 @@ The Mail-Coach Passengers
 'I': EU
 'may': PHAE
 'shout,"': SHOUT KW-BG KR-GS
-'retorted': XXX retorted
+'retorted': RE/TORT/-D
 'the': -T
 'man;': PHAPB STPH*FPLT
-'"I'm': KR-GS EU AE PH*/SP-S
+'"I'm': KR-GS EU AE PH*
 'Prince': PREUPBS
 'Carnival,': KARPB/SRAL KW-BG
-'travelling': TRAFLG
+'travelling': TRAFLG/A*U
 'under': *UPBD
 'the': -T
 'name': TPHAEUPL
@@ -475,29 +475,29 @@ The Mail-Coach Passengers
 'now': TPHOU
 'got': TKPWOT
 'out.': OUT TP-PL
-'He': E
+'He': HE
 'looked': HRAOBGD
 'a': AEU
 'personification': PERPB/TPEU/KAEUGS
 'of': -F
 'fasting;': TPAFT/-G STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'carried': KAERD
 'his': HEUS
 'nose': TPHOES
 'very': SRE
 'high,': HAOEU KW-BG
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'related': RAELTD
 'to': TO
 'the': -T
 '"forty': KR-GS TPOURT
-'(k)nights,"': PREPB XXX k PR*EPB TPHAOEUTS KW-BG KR-GS
+'(k)nights,"': PREPB K* PR*EPB TPHAOEUTS KW-BG KR-GS
 'and': SKP
-'was': WA
+'was': WAS
 'a': AEU
 'weather': WHR*
 'prophet.': PRO*FT TP-PL
@@ -511,26 +511,26 @@ The Mail-Coach Passengers
 'office,': OFS KW-BG
 'and': SKP
 'therefore': TH-FR
-'he': E
+'he': HE
 'praised': PRA*EUFD
 'fasting.': TPAFT/-G TP-PL
 'In': TPH
 'his': HEUS
 'button-hole': PW*UPBT H-PB HOEL
-'he': E
+'he': HE
 'carried': KAERD
 'a': AEU
 'little': HREUL
-'bunch': WUFRPB
+'bunch': PWUFRPB
 'of': -F
 'violets,': SROEULT/-S KW-BG
 'but': PWUT
 'they': THE
 'were': WR
 'very': SRE
-'small.': SPAUL TP-PL
+'small.': SPHAL TP-PL
 '"MARCH,': KR-GS PHA*R KW-BG
-'March,"': PHA*R KW-BG KR-GS
+'March,"': PHAFRPB KW-BG KR-GS
 'the': -T
 'fourth': TPO*URT
 'called': KAULD
@@ -541,7 +541,7 @@ The Mail-Coach Passengers
 'on': OPB
 'the': -T
 'shoulder,': SHOURLD KW-BG
-'"don't': KR-GS TKO*PB AE T*/SP-S
+'"don't': KR-GS TKO*PB AE T*
 'you': U
 'smell': SPHEL
 'something?': S-G H-F
@@ -555,7 +555,7 @@ The Mail-Coach Passengers
 'drinking': TKREUG
 'punch': PUFRPB
 'there;': THR STPH*FPLT
-'that's': TH-TS
+'that's': THATS
 'your': KWROUR
 'favorite': TPAEUFRT
 'drink.': TKREU TP-PL
@@ -568,10 +568,10 @@ The Mail-Coach Passengers
 'already.': HR-R TP-PL
 'Forward,': TPAORD KW-BG
 'Master': PHAFRT
-'March."': PHA*R TP-PL KR-GS
+'March."': PHAFRPB TP-PL KR-GS
 'But': PWUT
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'true;': TRAOU STPH*FPLT
 'the': -T
@@ -602,7 +602,7 @@ The Mail-Coach Passengers
 'began': TKPWAPB
 'his': HEUS
 'career.': KRAOER TP-PL
-'He': E
+'He': HE
 'looked': HRAOBGD
 'very': SRE
 'jovial,': SKWROEF/KWRAL KW-BG
@@ -624,7 +624,7 @@ The Mail-Coach Passengers
 'more': PHOR
 'settled,"': S*ELTD KW-BG KR-GS
 'said': SAEUD
-'he:': E STPH-FPLT
+'he:': HE STPH-FPLT
 '"but': KR-GS PWUT
 'sometimes': STAOEUPLS
 'I'm': AOEUPL
@@ -646,7 +646,7 @@ The Mail-Coach Passengers
 'now': TPHOU
 'rain,': RAEUPB KW-BG
 'now': TPHOU
-'sunshine.': S*UPB/SHAOEUPB TP-PL
+'sunshine.': SUPB/SHAO*EUPB TP-PL
 'I'm': AOEUPL
 'kind': KEUPBD
 'of': -F
@@ -696,7 +696,7 @@ The Mail-Coach Passengers
 'out': OUT
 'walking': WAUG
 'in': TPH
-'shoes': SHAOS
+'shoes': SHAOUS
 'and': SKP
 'white': WHAOEUT
 'silk': S*EULG
@@ -724,10 +724,10 @@ The Mail-Coach Passengers
 'summer': SAOURPL
 'dress': TKRES
 'and': SKP
-'overshoes;': XXX overshoes STPH*FPLT
+'overshoes;': xxx overshoes STPH*FPLT
 'her': HER
 'dress': TKRES
-'was': WA
+'was': WAS
 'a': AEU
 'light': HRAOEUT
 'green,': TKPWRAOEPB KW-BG
@@ -739,7 +739,7 @@ The Mail-Coach Passengers
 'her': HER
 'hair.': HAEUR TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'so': SO
 'scented': SKREPBT/-D
 'with': W
@@ -756,7 +756,7 @@ The Mail-Coach Passengers
 'God': TKPWOD
 'bless': PWRES
 'you,"': U KW-BG KR-GS
-'was': WA
+'was': WAS
 'her': HER
 'salutation': SAL/TAEUGS
 'to': TO
@@ -764,7 +764,7 @@ The Mail-Coach Passengers
 'How': HOU
 'pretty': PREUT
 'she': SHE
-'was!': WA SKHRAPL
+'was!': WAS SKHRAPL
 'and': SKP
 'such': SUFP
 'a': AEU
@@ -822,7 +822,7 @@ The Mail-Coach Passengers
 'and': SKP
 'pretty.': PREUT TP-PL
 'It': T
-'was': WA
+'was': WAS
 'Mistress': PHEUS/TRES
 'JUNE,': SKWRUPB KW-BG
 'in': TPH
@@ -836,7 +836,7 @@ The Mail-Coach Passengers
 'of': -F
 'sleeping': SHRAOEPG
 'for': TPOR
-'hours.': HAURS TP-PL
+'hours.': HOURS TP-PL
 'She': SHE
 'gives': TKPWEUFS
 'a': AEU
@@ -874,7 +874,7 @@ The Mail-Coach Passengers
 'but': PWUT
 'still': STEUL
 'she': SHE
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'by': PWEU
 'the': -T
 'mail,': PHAEUL KW-BG
@@ -888,12 +888,12 @@ The Mail-Coach Passengers
 'show': SHOE
 'that': THA
 'she': SHE
-'was': WA
+'was': WAS
 'not': TPHOT
 'high-minded.': HAOEU H-PB PHAOEUPBD/-D TP-PL
 'But': PWUT
 'she': SHE
-'was': WA
+'was': WAS
 'not': TPHOT
 'without': WOUT
 'a': AEU
@@ -902,11 +902,11 @@ The Mail-Coach Passengers
 'younger': KWRURPBG
 'brother,': PWROER KW-BG
 'JULY,': SKWRUL KW-BG
-'was': WA
+'was': WAS
 'with': W
 'her.': HER TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'a': AEU
 'plump': PHRUFRP
 'young': KWRUPBG
@@ -920,7 +920,7 @@ The Mail-Coach Passengers
 'a': AEU
 'straw': STRAU
 'hat.': HAT TP-PL
-'He': E
+'He': HE
 'had': H
 'but': PWUT
 'very': SRE
@@ -930,14 +930,14 @@ The Mail-Coach Passengers
 'him,': HEUPL KW-BG
 'because': PWAU
 'it': T
-'was': WA
+'was': WAS
 'so': SO
 'cumbersome': KUPL/PWER/SPH
 'in': TPH
 'the': -T
 'great': TKPWRAET
 'heat;': HAOET STPH*FPLT
-'he': E
+'he': HE
 'had,': H KW-BG
 'however,': HOUF KW-BG
 'swimming-trousers': SWEUPLG H-PB TROUZ/ERS
@@ -975,7 +975,7 @@ The Mail-Coach Passengers
 'land': HRAPBD
 'cultivator.': KULT/SRAEU/TOR TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'fat': TPAT
 'and': SKP
 'heated,': HAOET/-D KW-BG
@@ -1020,19 +1020,19 @@ The Mail-Coach Passengers
 'work,': WORBG KW-BG
 'came': KAEUPL
 'the': -T
-'recreations,': REBG/RAEGS/-S KW-BG
+'recreations,': RE/KRAEGS/-S KW-BG
 'dancing': TKAPBS/-G
 'and': SKP
 'playing': PHRA*EUG
 'in': TPH
 'the': -T
-'greenwood,': XXX greenwood KW-BG
+'greenwood,': xxx greenwood KW-BG
 'and': SKP
 'the': -T
 '"harvest': KR-GS HAR/SREFT
 'homes."': HOEPLS TP-PL KR-GS
 'She': SHE
-'was': WA
+'was': WAS
 'a': AEU
 'thorough': THRO
 'housewife.': HOUS/WAOEUF TP-PL
@@ -1049,7 +1049,7 @@ The Mail-Coach Passengers
 'is': S
 'a': AEU
 'painter;': PA*EURPBT STPH*FPLT
-'he': E
+'he': HE
 'is': S
 'the': -T
 'great': TKPWRAET
@@ -1071,7 +1071,7 @@ The Mail-Coach Passengers
 'its': EUTS
 'colors': KHRORS
 'when': WHEPB
-'he': E
+'he': HE
 'wished': WEURBD
 'it;': T STPH*FPLT
 'and': SKP
@@ -1080,7 +1080,7 @@ The Mail-Coach Passengers
 'are': R
 'the': -T
 'colors': KHRORS
-'he': E
+'he': HE
 'chooses!': KHAOFS SKHRAPL
 'The': -T
 'woods': WAODZ
@@ -1102,8 +1102,8 @@ The Mail-Coach Passengers
 'like': HRAOEUBG
 'a': AEU
 'blackbird.': PWHRABG/PWEURD TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'quick': KWEUBG
 'in': TPH
 'his': HEUS
@@ -1122,14 +1122,14 @@ The Mail-Coach Passengers
 'beer': PWAOER
 'jug.': SKWRUG TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'an': APB
 'ornament': ORPB/APLT
 'to': TO
 'the': -T
 'jug,': SKWRUG KW-BG
 'and': SKP
-'he': E
+'he': HE
 'has': HAS
 'a': AEU
 'great': TKPWRAET
@@ -1137,7 +1137,7 @@ The Mail-Coach Passengers
 'for': TPOR
 'ornament.': ORPB/APLT TP-PL
 'There': THR
-'he': E
+'he': HE
 'stood': STAOD
 'with': W
 'his': HEUS
@@ -1148,13 +1148,13 @@ The Mail-Coach Passengers
 'hand,': HAPBD KW-BG
 'and': SKP
 'that': THA
-'was': WA
+'was': WAS
 'the': -T
 'whole': WHOEL
 'of': -F
 'his': HEUS
 'luggage.': HRUG/APBLG TP-PL
-'A': AEU
+'A': KPA*/AEU
 'land-owner': HRAPBD H-PB OERPB
 'followed,': TPOLD KW-BG
 'who': WHO
@@ -1167,9 +1167,9 @@ The Mail-Coach Passengers
 'attended': A/TEPBD/-D
 'to': TO
 'the': -T
-'ploughing': PHROUG
+'ploughing': PHROUG/A*U
 'and': SKP
-'was': WA
+'was': WAS
 'fond': TPOPBD
 'of': -F
 'field': TPAOELD
@@ -1193,7 +1193,7 @@ The Mail-Coach Passengers
 'bag.': PWAG TP-PL
 '"Crack,': KR-GS KRABG KW-BG
 'crack."': KRABG TP-PL KR-GS
-'He': E
+'He': HE
 'had': H
 'a': AEU
 'great': TKPWRAET
@@ -1202,20 +1202,20 @@ The Mail-Coach Passengers
 'luggage,': HRUG/APBLG KW-BG
 'even': AOEPB
 'an': APB
-'English': TPWHREURB
-'plough.': PHROU TP-PL
-'He': E
+'English': TKPWHREURB
+'plough.': PHROU/A*U TP-PL
+'He': HE
 'spoke': SPOEBG
 'of': -F
 'farming,': TPARPLG KW-BG
 'but': PWUT
 'what': WHA
-'he': E
+'he': HE
 'said': SAEUD
 'could': KO
 'scarcely': SKAEURS/HREU
 'be': -B
-'heard': HERD
+'heard': HAERD
 'for': TPOR
 'the': -T
 'coughing': KOFG
@@ -1225,16 +1225,16 @@ The Mail-Coach Passengers
 'his': HEUS
 'neighbor.': TPHAEUB TP-PL
 'It': T
-'was': WA
+'was': WAS
 'NOVEMBER,': TPHOF KW-BG
 'who': WHO
 'coughed': KOFD
 'violently': SRAOEUL/HREPBT/HREU
 'as': AZ
-'he': E
+'he': HE
 'got': TKPWOT
 'out.': OUT TP-PL
-'He': E
+'He': HE
 'had': H
 'a': AEU
 'cold,': KOELD KW-BG
@@ -1248,14 +1248,14 @@ The Mail-Coach Passengers
 'continually;': TAEPBL STPH*FPLT
 'and': SKP
 'yet': KWRET
-'he': E
+'he': HE
 'said': SAEUD
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'accompany': A/K-P
-'servant': SEFB/APBT
+'servant': SEFRB/APBT
 'girls': TKPWEURLS
 'to': TO
 'their': THAEUR
@@ -1268,9 +1268,9 @@ The Mail-Coach Passengers
 'their': THAEUR
 'winter': WEURPBT
 'service.': S-FS TP-PL
-'He': E
+'He': HE
 'said': SAEUD
-'he': E
+'he': HE
 'thought': THAUT
 'his': HEUS
 'cold': KOELD
@@ -1279,13 +1279,13 @@ The Mail-Coach Passengers
 'leave': HREF
 'him': HEUPL
 'when': WHEPB
-'he': E
+'he': HE
 'went': WEPBT
 'out': OUT
 'woodcutting,': WAOD/K*UT/-G KW-BG
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'a': AEU
 'master': PHAFRT
 'sawyer,': SAUR KW-BG
@@ -1298,7 +1298,7 @@ The Mail-Coach Passengers
 'the': -T
 'whole': WHOEL
 'parish.': PAR/EURB TP-PL
-'He': E
+'He': HE
 'spent': SPEPBT
 'his': HEUS
 'evenings': AOEPBGS
@@ -1308,9 +1308,9 @@ The Mail-Coach Passengers
 'for': TPOR
 'skates,': SKAEUTS KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'knew,': TPHAOU KW-BG
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 'that': THA
 'in': TPH
@@ -1318,7 +1318,7 @@ The Mail-Coach Passengers
 'few': TPAOU
 'weeks': WAOEBGS
 'these': THEZ
-'shoes': SHAOS
+'shoes': SHAOUS
 'would': WO
 'be': -B
 'wanted': WAPBTD
@@ -1342,7 +1342,7 @@ The Mail-Coach Passengers
 'fire-stool.': TPAOEUR H-PB STOL TP-PL
 'The': -T
 'dame': TKAEUPL
-'was': WA
+'was': WAS
 'very': SRE
 'old,': OLD KW-BG
 'but': PWUT
@@ -1364,7 +1364,7 @@ The Mail-Coach Passengers
 'a': AEU
 'little': HREUL
 'fir-tree': TPEUR H-PB TRAOE
-'was': WA
+'was': WAS
 'growing.': TKPWROEG TP-PL
 '"This': KR-GS TH
 'tree': TRAOE
@@ -1451,8 +1451,8 @@ The Mail-Coach Passengers
 'and': SKP
 'the': -T
 'little': HREUL
-'waxen': XXX waxen
-'angel': APBG/EL
+'waxen': xxx waxen
+'angel': A*EPBLG
 'at': AT
 'the': -T
 'top': TOP
@@ -1469,7 +1469,7 @@ The Mail-Coach Passengers
 'his': HEUS
 'green': TKPWRAOEPB
 'perch.': PEFRPB TP-PL
-'He': E
+'He': HE
 'will': HR
 'kiss': KEUS
 'every': EF
@@ -1479,7 +1479,7 @@ The Mail-Coach Passengers
 'room,': RAOPL KW-BG
 'great': TKPWRAET
 'and': SKP
-'small;': SPAUL STPH*FPLT
+'small;': SPHAL STPH*FPLT
 'yes,': KWRE KW-BG
 'even': AOEPB
 'the': -T
@@ -1520,7 +1520,7 @@ The Mail-Coach Passengers
 'twelve.': TWEFL TP-PL
 'Let': HRET
 'the': -T
-'horses': HORS/-S
+'horses': HORSZ
 'be': -B
 'put': PUT
 'up."': UP TP-PL KR-GS
@@ -1568,7 +1568,7 @@ The Mail-Coach Passengers
 'on': OPB
 'his': HEUS
 'passport.': PAS/PORT TP-PL
-'Mr.': XXX Mr TP-PL
+'Mr.': PHR-FPLT
 'JANUARY,': SKWRAPB KW-BG
 'have': SR
 'the': -T
@@ -1577,7 +1577,7 @@ The Mail-Coach Passengers
 'come': KOPL
 'here."': HAOER TP-PL KR-GS
 'And': SKP
-'Mr.': XXX Mr TP-PL
+'Mr.': PHR-FPLT
 'January': SKWRAPB
 'stepped': STEPD
 'forward.': TPAORD TP-PL

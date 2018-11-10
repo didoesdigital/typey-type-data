@@ -17,12 +17,12 @@ Little Red Riding-Hood
 'the': -T
 'prettiest': PRET/KWREFT
 'creature': KRAOEFP
-'was': WA
+'was': WAS
 'ever': -FR
 'seen.': SAOEPB TP-PL
 'Her': HER
 'mother': PHOER
-'was': WA
+'was': WAS
 'excessively': KPES/EUFL
 'fond': TPOPBD
 'of': -F
@@ -30,7 +30,7 @@ Little Red Riding-Hood
 'and': SKP
 'her': HER
 'grand-mother': TKPWRAPBD H-PB PHOER
-'doated': XXX doated
+'doated': xxx doated
 'on': OPB
 'her': HER
 'much': PHUFP
@@ -68,7 +68,7 @@ Little Red Riding-Hood
 'having': SR-G
 'made': PHAED
 'some': SOPL
-'girdle-cakes,': TKPWEURD/-L H-PB KAEUBG/-S KW-BG
+'girdle-cakes,': TKPWEURD/*L H-PB KAEUBG/-S KW-BG
 'said': SAEUD
 'to': TO
 'her:': HER STPH-FPLT
@@ -92,7 +92,7 @@ Little Red Riding-Hood
 'carry': KAER
 'her': HER
 'a': AEU
-'girdle-cake,': TKPWEURD/-L H-PB KAEUBG KW-BG
+'girdle-cake,': TKPWEURD/*L H-PB KAEUBG KW-BG
 'and': SKP
 'this': TH
 'little': HREUL
@@ -117,9 +117,9 @@ Little Red Riding-Hood
 'village.': SREULG TP-PL
 'As': AZ
 'she': SHE
-'was': WA
+'was': WAS
 'going': TKPW-G
-'thro'': XXX thro AE
+'thro'': xxx thro AE
 'the': -T
 'wood,': WAOD KW-BG
 'she': SHE
@@ -138,8 +138,8 @@ Little Red Riding-Hood
 'her': HER
 'up,': UP KW-BG
 'but': PWUT
-'he': E
-'durst': XXX durst
+'he': HE
+'durst': TK*/*U/R*/S*/T*
 'not,': TPHOT KW-BG
 'because': PWAU
 'of': -F
@@ -150,12 +150,12 @@ Little Red Riding-Hood
 'in': TPH
 'the': -T
 'forest.': TPOEFRT TP-PL
-'He': E
+'He': HE
 'asked': SK-D
 'her': HER
 'whither': WHEU/THER
 'she': SHE
-'was': WA
+'was': WAS
 'going.': TKPW-G TP-PL
 'The': -T
 'poor': PAOR
@@ -166,7 +166,7 @@ Little Red Riding-Hood
 'know': TPHOE
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'dangerous': TKAEUPBLGS
 'to': TO
 'stay': STAEU
@@ -189,7 +189,7 @@ Little Red Riding-Hood
 'carry': KAER
 'her': HER
 'a': AEU
-'girdle-cake,': TKPWEURD/-L H-PB KAEUBG KW-BG
+'girdle-cake,': TKPWEURD/*L H-PB KAEUBG KW-BG
 'and': SKP
 'a': AEU
 'little': HREUL
@@ -207,9 +207,9 @@ Little Red Riding-Hood
 'said': SAEUD
 'the': -T
 'Wolf.': WOFL TP-PL
-'"Oh!': KR-GS O*ERBGS SKHRAPL
-'ay,"': XXX ay KW-BG KR-GS
-'answered': APBSD
+'"Oh!': KR-GS O*E SKHRAPL
+'ay,"': A/KWR*/SP-S KW-BG KR-GS
+'answered': AEPBS/-D
 'Little': HREUL
 'Red': RED
 'Riding-Hood,': RAOEUD/-G H-PB HAOD KW-BG
@@ -223,7 +223,7 @@ Little Red Riding-Hood
 'there,': THR KW-BG
 'at': AT
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'house': HOUS
 'in': TPH
 'the': -T
@@ -264,7 +264,7 @@ Little Red Riding-Hood
 'as': AZ
 'fast': TPAFT
 'as': AZ
-'he': E
+'he': HE
 'could,': KO KW-BG
 'taking': TAEUG
 'the': -T
@@ -277,7 +277,7 @@ Little Red Riding-Hood
 'went': WEPBT
 'by': PWEU
 'that': THA
-'farthest': TPAR/TH*ES
+'farthest': TPA*RT/EFT
 'about,': PW KW-BG
 'diverting': TKWERT/-G
 'herself': H*ERS
@@ -300,25 +300,25 @@ Little Red Riding-Hood
 'with.': W TP-PL
 'The': -T
 'Wolf': WOFL
-'was': WA
+'was': WAS
 'not': TPHOT
 'long': HROPBG
 'before': PW-F
-'he': E
+'he': HE
 'got': TKPWOT
 'to': TO
 'the': -T
 'old': OLD
-'woman's': WOPL AE S*/SP-S
+'woman's': WOPL/AES
 'house:': HOUS STPH-FPLT
-'he': E
+'he': HE
 'knocked': TPHOBGD
 'at': AT
 'the': -T
 'door,': TKAOR KW-BG
 '_tap,': RUPBD TAP KW-BG
 'tap_.': TAP RUPBD TP-PL
-'"Who's': KR-GS WHO AE S*/SP-S
+'"Who's': KR-GS WHO AES
 'there?"': THR H-F KR-GS
 '"Your': KR-GS KWROUR
 'grand-child,': TKPWRAPBD H-PB KHAOEULD KW-BG
@@ -336,7 +336,7 @@ Little Red Riding-Hood
 'brought': PWRAUT
 'you': U
 'a': AEU
-'girdle-cake,': TKPWEURD/-L H-PB KAEUBG KW-BG
+'girdle-cake,': TKPWEURD/*L H-PB KAEUBG KW-BG
 'and': SKP
 'a': AEU
 'little': HREUL
@@ -351,7 +351,7 @@ Little Red Riding-Hood
 'good': TKPWAOD
 'grand-mother,': TKPWRAPBD H-PB PHOER KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'in': TPH
 'bed,': PWED KW-BG
 'because': PWAU
@@ -360,7 +360,7 @@ Little Red Riding-Hood
 'herself': H*ERS
 'somewhat': SWHA
 'ill,': EUL KW-BG
-'cry'd': KRAOEU AE SP-S/TK*
+'cry'd': KRAOEU AE TK*
 'out:': OUT STPH-FPLT
 '"Pull': KR-GS PUL
 'the': -T
@@ -369,10 +369,10 @@ Little Red Riding-Hood
 'the': -T
 'bolt': PWOLT
 'will': HR
-'fall."': TPAL TP-PL KR-GS
+'fall."': TPAUL TP-PL KR-GS
 'The': -T
 'Wolf': WOFL
-'pull'd': PUL AE SP-S/TK*
+'pull'd': PUL AE TK*
 'the': -T
 'peg,': PEG KW-BG
 'and': SKP
@@ -382,7 +382,7 @@ Little Red Riding-Hood
 'and': SKP
 'then': THEPB
 'presently': PREPBLT
-'he': E
+'he': HE
 'fell': TPEL
 'upon': POPB
 'the': -T
@@ -397,18 +397,18 @@ Little Red Riding-Hood
 'moment;': PHOEPLT STPH*FPLT
 'for': TPOR
 'it': T
-'was': WA
+'was': WAS
 'above': PWOF
 'three': THRAOE
 'days': TKAEUS
 'that': THA
-'he': E
+'he': HE
 'had': H
 'not': TPHOT
 'touched': TUFPD
 'a': AEU
 'bit.': PWEUT TP-PL
-'He': E
+'He': HE
 'then': THEPB
 'shut': SHUT
 'the': -T
@@ -417,7 +417,7 @@ Little Red Riding-Hood
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'grand-mother's': TKPWRAPBD H-PB PHOER AE S*/SP-S
+'grand-mother's': TKPWRAPBD H-PB PHOER AES
 'bed,': PWED KW-BG
 'expecting': EBGS/PEG
 'Little': HREUL
@@ -429,13 +429,13 @@ Little Red Riding-Hood
 'time': TAOEUPL
 'afterwards,': A*FRDZ KW-BG
 'and': SKP
-'knock'd': TPHOBG AE SP-S/TK*
+'knock'd': TPHOBG AE TK*
 'at': AT
 'the': -T
 'door,': TKAOR KW-BG
 '_tap,': RUPBD TAP KW-BG
 'tap_.': TAP RUPBD TP-PL
-'"Who's': KR-GS WHO AE S*/SP-S
+'"Who's': KR-GS WHO AES
 'there?"': THR H-F KR-GS
 'Little': HREUL
 'Red': RED
@@ -447,9 +447,9 @@ Little Red Riding-Hood
 'of': -F
 'the': -T
 'Wolf,': WOFL KW-BG
-'was': WA
+'was': WAS
 'at': AT
-'first': TPEURS
+'first': TPEUFRT
 'afraid;': A/TPRAEUD STPH*FPLT
 'but': PWUT
 'believing': PWHREFG
@@ -460,10 +460,10 @@ Little Red Riding-Hood
 'a': AEU
 'cold,': KOELD KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'hoarse,': HAORS KW-BG
-'answered:': APBSD STPH-FPLT
-'"'Tis': KR-GS AE XXX Tis
+'answered:': AEPBS/-D STPH-FPLT
+'"'Tis': KR-GS AE T*/SKWREU/-S
 'your': KWROUR
 'grand-child,': TKPWRAPBD H-PB KHAOEULD KW-BG
 'Little': HREUL
@@ -474,7 +474,7 @@ Little Red Riding-Hood
 'brought': PWRAUT
 'you': U
 'a': AEU
-'girdle-cake,': TKPWEURD/-L H-PB KAEUBG KW-BG
+'girdle-cake,': TKPWEURD/*L H-PB KAEUBG KW-BG
 'and': SKP
 'a': AEU
 'little': HREUL
@@ -496,7 +496,7 @@ Little Red Riding-Hood
 'as': AZ
 'much': PHUFP
 'as': AZ
-'he': E
+'he': HE
 'could,': KO KW-BG
 '"Pull': KR-GS PUL
 'the': -T
@@ -505,7 +505,7 @@ Little Red Riding-Hood
 'the': -T
 'bolt': PWOLT
 'will': HR
-'fall."': TPAL TP-PL KR-GS
+'fall."': TPAUL TP-PL KR-GS
 'Little': HREUL
 'Red': RED
 'Riding-Hood': RAOEUD/-G H-PB HAOD
@@ -529,7 +529,7 @@ Little Red Riding-Hood
 'himself': H*EUPLS
 'under': *UPBD
 'the': -T
-'bedclothes:': XXX bedclothes STPH-FPLT
+'bedclothes:': xxx bedclothes STPH-FPLT
 '"Put': KR-GS PUT
 'the': -T
 'cake,': KAEUBG KW-BG
@@ -570,7 +570,7 @@ Little Red Riding-Hood
 'looked': HRAOBGD
 'in': TPH
 'her': HER
-'night-cloaths,': TPHAOEUT H-PB XXX cloaths KW-BG
+'night-cloaths,': TPHAOEUT H-PB xxx cloaths KW-BG
 'she': SHE
 'said': SAEUD
 'to': TO

@@ -1,7 +1,7 @@
 The Happy Family
 
 'The': -T
-'largest': HRARPBL/EFT
+'largest': HRARPBLG/EFT
 'green': TKPWRAOEPB
 'leaf': HRAOEF
 'in': TPH
@@ -10,7 +10,7 @@ The Happy Family
 'is': S
 'certainly': SERPBL
 'the': -T
-'burdock-leaf.': XXX burdock H-PB HRAOEF TP-PL
+'burdock-leaf.': PW*/*U/R*/TK-LS/TKOBG H-PB HRAOEF TP-PL
 'If': TP
 'you': U
 'hold': HOLD
@@ -47,8 +47,8 @@ The Happy Family
 'so': SO
 'wonderfully': WOPBD/TPHREU
 'large.': HRARPBLG TP-PL
-'A': AEU
-'burdock': XXX burdock
+'A': KPA*/AEU
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'never': TPHEF
 'grows': TKPWRO*ES
 'alone;': A/HROEPB STPH*FPLT
@@ -81,14 +81,14 @@ The Happy Family
 'grand': TKPWRAPBD
 'people': PAOEPL
 'in': TPH
-'olden': XXX olden
+'olden': OLD/*EPB
 'times': TAOEUPLS
 'used': AOUFD
 'to': TO
 'have': SR
 'made': PHAED
 'into': TPHAO
-'fricassees;': XXX fricassees STPH*FPLT
+'fricassees;': xxx fricassees STPH*FPLT
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -98,7 +98,7 @@ The Happy Family
 'they': THE
 'would': WO
 'say,': SAEU KW-BG
-'"O,': KR-GS O*/SP-S KW-BG
+'"O,': KR-GS O*P KW-BG
 'what': WHA
 'a': AEU
 'delicious': TKHREUGS
@@ -106,7 +106,7 @@ The Happy Family
 'for': TPOR
 'these': THEZ
 'people': PAOEPL
-'really': HROERL
+'really': R-L
 'thought': THAUT
 'them': THEPL
 'good;': TKPWAOD STPH*FPLT
@@ -115,16 +115,16 @@ The Happy Family
 'snails': STPHAEUL/-S
 'lived': HREUFD
 'on': OPB
-'burdock-leaves,': XXX burdock H-PB HREFS KW-BG
+'burdock-leaves,': PW*/*U/R*/TK-LS/TKOBG H-PB HREFS KW-BG
 'and': SKP
 'for': TPOR
 'them': THEPL
 'the': -T
-'burdock': XXX burdock
-'was': WA
+'burdock': PW*/*U/R*/TK-LS/TKOBG
+'was': WAS
 'planted.': PHRAPBT/-D TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'once': WUPBS
 'an': APB
 'old': OLD
@@ -146,7 +146,7 @@ The Happy Family
 'out,': OUT KW-BG
 'but': PWUT
 'the': -T
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'still': STEUL
 'flourished;': TPHROR/EURB/-D STPH*FPLT
 'it': T
@@ -172,7 +172,7 @@ The Happy Family
 'a': AEU
 'forest': TPOEFRT
 'of': -F
-'burdocks.': XXX burdocks TP-PL
+'burdocks.': PW*/*U/R*/TK-LS/TKOBG/-S TP-PL
 'Here': HAOER
 'and': SKP
 'there': THR
@@ -197,8 +197,8 @@ The Happy Family
 'a': AEU
 'garden.': TKPWA*RPB TP-PL
 'It': T
-'was': WA
-'burdock': XXX burdock
+'was': WAS
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'from': TPR
 'one': WUPB
 'end': EPBD
@@ -247,7 +247,7 @@ The Happy Family
 'which': WEU
 'came': KAEUPL
 'from': TPR
-'foreign': TPOERP
+'foreign': TPOERPB
 'lands,': HRAPBDZ KW-BG
 'and': SKP
 'that': THA
@@ -276,13 +276,13 @@ The Happy Family
 'another': TPHOER
 'place': PHRAEUS
 'once': WUPBS
-'existed': KPEUFT/-D
+'existed': KPEUFTD
 'in': TPH
 'the': -T
 'world,': WORLD KW-BG
 'called': KAULD
 'the': -T
-'Duke's': TKAOUBG AE S*/SP-S
+'Duke's': TKAOUBG AES
 'Palace': PAL/AS
 'Castle,': KAFL KW-BG
 'in': TPH
@@ -290,7 +290,7 @@ The Happy Family
 'some': SOPL
 'of': -F
 'their': THAEUR
-'relations': RAOELGS/-S
+'relations': RELGS/-S
 'had': H
 'been': PW-PB
 'boiled': PWOEULD
@@ -308,7 +308,7 @@ The Happy Family
 'dish;': TKEURB STPH*FPLT
 'but': PWUT
 'what': WHA
-'was': WA
+'was': WAS
 'done': TKOPB
 'afterwards': A*FRDZ
 'they': THE
@@ -337,7 +337,7 @@ The Happy Family
 'no': TPHO
 'doubt': TKOUT
 'it': T
-'was': WA
+'was': WAS
 'something': S-G
 'very': SRE
 'fine': TPAOEUPB
@@ -346,7 +346,7 @@ The Happy Family
 'genteel.': SKWREPB/TAOEL TP-PL
 'Neither': TPHAOERT
 'the': -T
-'cockchafer,': XXX cockchafer KW-BG
+'cockchafer,': xxx cockchafer KW-BG
 'nor': TPH-R
 'the': -T
 'toad,': TAOD KW-BG
@@ -363,12 +363,12 @@ The Happy Family
 'them': THEPL
 'the': -T
 'least': HRAOEFT
-'information;': TP-FGS STPH*FPLT
+'information;': TPH-FGS STPH*FPLT
 'for': TPOR
 'none': TPHOPB
 'of': -F
 'their': THAEUR
-'relations': RAOELGS/-S
+'relations': RELGS/-S
 'had': H
 'ever': -FR
 'been': PW-PB
@@ -402,11 +402,11 @@ The Happy Family
 'them,': THEPL KW-BG
 'and': SKP
 'the': -T
-'nobleman's': XXX nobleman AE S*/SP-S
+'nobleman's': TPHOEBL/PHA*PB AES
 'castle': KAFL
 'had': H
 'been': PW-PB
-'built': PEULT
+'built': PWEULT
 'entirely': SPWAOEURL
 'that': THA
 'they': THE
@@ -456,8 +456,8 @@ The Happy Family
 'not': TPHOT
 'grow,': TKPWROE KW-BG
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'only': OEPBL
 'a': AEU
 'common': KPHOPB
@@ -476,14 +476,14 @@ The Happy Family
 'easily': AOELS
 'see': SAOE
 'how': HOU
-'he': E
+'he': HE
 'grew;': TKPWRAOU STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
 'father': TPAER
 'said': SAEUD
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'perceive': SPAOEF
@@ -495,10 +495,10 @@ The Happy Family
 'feel': TPAOEL
 'the': -T
 'little': HREUL
-'snail's': STPHAEUL AE S*/SP-S
+'snail's': STPHAEUL AES
 'shell,': SHEL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'did': TK
 'so,': SO KW-BG
 'and': SKP
@@ -506,7 +506,7 @@ The Happy Family
 'that': THA
 'the': -T
 'mother': PHOER
-'was': WA
+'was': WAS
 'right.': RAOEUT TP-PL
 'One': WUPB
 'day': TKAEU
@@ -522,7 +522,7 @@ The Happy Family
 'is': S
 'on': OPB
 'the': -T
-'burdock-leaves;': XXX burdock H-PB HREFS STPH*FPLT
+'burdock-leaves;': PW*/*U/R*/TK-LS/TKOBG H-PB HREFS STPH*FPLT
 'turn,': TURPB KW-BG
 'turn,': TURPB KW-BG
 'turn;': TURPB STPH*FPLT
@@ -575,7 +575,7 @@ The Happy Family
 'There': THR
 'has': HAS
 'been': PW-PB
-'really': HROERL
+'really': R-L
 'more': PHOR
 'done': TKOPB
 'for': TPOR
@@ -607,7 +607,7 @@ The Happy Family
 'birth,': PW*EURT KW-BG
 'and': SKP
 'the': -T
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'forest': TPOEFRT
 'has': HAS
 'been': PW-PB
@@ -624,7 +624,7 @@ The Happy Family
 'how': HOU
 'far': TPAR
 'it': T
-'extends,': EBGS/TEPBDZ KW-BG
+'extends,': ST*EPBDZ KW-BG
 'and': SKP
 'what': WHA
 'lies': HRAO*EUS
@@ -672,7 +672,7 @@ The Happy Family
 'silver': SEUL/SRER
 'dish,': TKEURB KW-BG
 'as': AZ
-'was': WA
+'was': WAS
 'done': TKOPB
 'to': TO
 'all': AUL
@@ -690,11 +690,11 @@ The Happy Family
 'very': SRE
 'uncommon."': UPB/KPHOPB TP-PL KR-GS
 '"The': KR-GS -T
-'nobleman's': XXX nobleman AE S*/SP-S
+'nobleman's': TPHOEBL/PHA*PB AES
 'castle,': KAFL KW-BG
 'perhaps,': PRAPS KW-BG
 'has': HAS
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'to': TO
 'decay,"': TKE/KAEU KW-BG KR-GS
 'said': SAEUD
@@ -702,7 +702,7 @@ The Happy Family
 'snail-father,': STPHAEUL H-PB TPAER KW-BG
 '"or': KR-GS OR
 'the': -T
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'wood': WAOD
 'may': PHAE
 'have': SR
@@ -717,18 +717,18 @@ The Happy Family
 'hurry;': HUR/REU STPH*FPLT
 'you': U
 'are': R
-'always': AULZ
+'always': AULS
 'so': SO
 'impatient,': EUPL/PAEURBT KW-BG
 'and': SKP
 'the': -T
-'youngster': KWRUPBGS/TER
+'youngster': KWRUPBG/STER
 'is': S
 'getting': TKPWEGT
 'just': SKWRUFT
 'the': -T
 'same.': SAEUPL TP-PL
-'He': E
+'He': HE
 'has': HAS
 'been': PW-PB
 'three': THRAOE
@@ -743,7 +743,7 @@ The Happy Family
 'I': EU
 'feel': TPAOEL
 'quite': KWAOEUT
-'giddy': TKPWEUD/TKEU
+'giddy': TKPWEUD/KWREU
 'when': WHEPB
 'I': EU
 'look': HRAOBG
@@ -757,12 +757,12 @@ The Happy Family
 'said': SAEUD
 'the': -T
 'mother-snail;': PHOER H-PB STPHAEUL STPH*FPLT
-'"he': KR-GS E
+'"he': KR-GS HE
 'creeps': KRAOEPS
 'so': SO
 'very': SRE
 'carefully.': KA*EUFL TP-PL
-'He': E
+'He': HE
 'will': HR
 'be': -B
 'the': -T
@@ -831,7 +831,7 @@ The Happy Family
 'so': SO
 'vulgar': SROL/TKPWAR
 'and': SKP
-'conceited': KOPB/SAOET/-D
+'conceited': KAUPB/SAOET/-D
 'too.': TAO TP-PL
 'But': PWUT
 'we': WE
@@ -840,7 +840,7 @@ The Happy Family
 'the': -T
 'ants': A*PBT/-S
 'a': AEU
-'commission;': KPHEUG STPH*FPLT
+'commission;': KPHEUGS STPH*FPLT
 'they': THE
 'run': RUPB
 'here': HAOER
@@ -859,7 +859,7 @@ The Happy Family
 'through.': THRU TP-PL
 'They,': THE KW-BG
 'most': PHOFT
-'likely,': HREULG KW-BG
+'likely,': HRAOEULG KW-BG
 'will': HR
 'know': TPHOE
 'of': -F
@@ -867,7 +867,7 @@ The Happy Family
 'wife': WAOEUF
 'for': TPOR
 'our': OUR
-'youngster."': KWRUPBGS/TER TP-PL KR-GS
+'youngster."': KWRUPBG/STER TP-PL KR-GS
 '"I': KR-GS EU
 'certainly': SERPBL
 'know': TPHOE
@@ -943,7 +943,7 @@ The Happy Family
 'will': HR
 'give': TKPWEUF
 'the': -T
-'commission': KPHEUG
+'commission': KPHEUGS
 'to': TO
 'the': -T
 'white': WHAOEUT
@@ -954,11 +954,11 @@ The Happy Family
 'in': TPH
 'rain': RAEUPB
 'and': SKP
-'sunshine;': S*UPB/SHAOEUPB STPH*FPLT
+'sunshine;': SUPB/SHAO*EUPB STPH*FPLT
 'they': THE
 'know': TPHOE
 'the': -T
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'wood': WAOD
 'from': TPR
 'one': WUPB
@@ -988,7 +988,7 @@ The Happy Family
 'with': W
 'a': AEU
 'house,': HOUS KW-BG
-'sitting': SAO*EGT
+'sitting': SEUGT
 'on': OPB
 'a': AEU
 'gooseberry-bush;': TKPWAOS/PWER/REU H-PB PWURB STPH*FPLT
@@ -1020,11 +1020,11 @@ The Happy Family
 'the': -T
 'old': OLD
 'people.': PAOEPL TP-PL
-'"He': KR-GS E
+'"He': KR-GS HE
 'has': HAS
 'the': -T
 'whole': WHOEL
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'forest;': TPOEFRT STPH*FPLT
 'she': SHE
 'has': HAS
@@ -1047,7 +1047,7 @@ The Happy Family
 'journey;': SKWRURPB STPH*FPLT
 'but': PWUT
 'that': THA
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'as': AZ
 'it': T
@@ -1085,7 +1085,7 @@ The Happy Family
 'other': OER
 'respects': R-PTS
 'it': T
-'was': WA
+'was': WAS
 'all': AUL
 'very': SRE
 'quiet;': KWAO*EUT STPH*FPLT
@@ -1104,7 +1104,7 @@ The Happy Family
 'a': AEU
 'beautiful': PWAOUFL
 'speech': SPAOEFP
-'was': WA
+'was': WAS
 'made': PHAED
 'by': PWEU
 'the': -T
@@ -1114,8 +1114,8 @@ The Happy Family
 'could': KO
 'not': TPHOT
 'speak;': SPAOEBG STPH*FPLT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'too': TAO
 'much': PHUFP
 'overcome.': AUFR/KOPL TP-PL
@@ -1124,7 +1124,7 @@ The Happy Family
 'gave': TKPWAEUF
 'the': -T
 'whole': WHOEL
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'forest': TPOEFRT
 'to': TO
 'the': -T
@@ -1143,7 +1143,7 @@ The Happy Family
 'said,': SAEUD KW-BG
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'the': -T
 'finest': TPAOEUPB/EFT
 'place': PHRAEUS
@@ -1162,7 +1162,7 @@ The Happy Family
 'and': SKP
 'their': THAEUR
 'family': TPAEPL
-'increased,': EUPB/KRAOES/-D KW-BG
+'increased,': EUPB/KRAOEFD KW-BG
 'they': THE
 'and': SKP
 'their': THAEUR
@@ -1174,7 +1174,7 @@ The Happy Family
 'taken': TAEPB
 'to': TO
 'the': -T
-'nobleman's': XXX nobleman AE S*/SP-S
+'nobleman's': TPHOEBL/PHA*PB AES
 'palace,': PAL/AS KW-BG
 'to': TO
 'be': -B
@@ -1240,7 +1240,7 @@ The Happy Family
 'the': -T
 'castle': KAFL
 'had': H
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'into': TPHAO
 'decay,': TKE/KAEU KW-BG
 'and': SKP
@@ -1270,7 +1270,7 @@ The Happy Family
 'fell': TPEL
 'upon': POPB
 'the': -T
-'burdock-leaves,': XXX burdock H-PB HREFS KW-BG
+'burdock-leaves,': PW*/*U/R*/TK-LS/TKOBG H-PB HREFS KW-BG
 'to': TO
 'play': PHRAEU
 'the': -T
@@ -1282,11 +1282,11 @@ The Happy Family
 'sun': SUPB
 'shone': SHO*EPB
 'to': TO
-'paint': PAEUPT
+'paint': PAEUPBT
 'colors': KHRORS
 'on': OPB
 'the': -T
-'burdock': XXX burdock
+'burdock': PW*/*U/R*/TK-LS/TKOBG
 'forest': TPOEFRT
 'for': TPOR
 'them,': THEPL KW-BG

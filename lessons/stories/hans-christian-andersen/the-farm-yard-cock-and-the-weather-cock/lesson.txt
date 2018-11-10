@@ -27,7 +27,7 @@ The Farm-Yard Cock and the Weather-Cock
 'Tell': TEL
 'us': US
 'your': KWROUR
-'opinion—we'll': P-PB EPL/TKA*RB WE AE XXX ll
+'opinion—we'll': P-PB EPL/TKA*RB WE AE HR*/HR*
 'keep': KAOEP
 'to': TO
 'ours': OURS
@@ -38,7 +38,7 @@ The Farm-Yard Cock and the Weather-Cock
 'The': -T
 'poultry': POL/TREU
 'yard': KWRARD
-'was': WA
+'was': WAS
 'divided': TKWAOEUTD
 'by': PWEU
 'some': SOPL
@@ -49,7 +49,7 @@ The Farm-Yard Cock and the Weather-Cock
 'in': TPH
 'which': WEU
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'dung-hill,': TKUPBG H-PB HEUL KW-BG
 'and': SKP
@@ -63,7 +63,7 @@ The Farm-Yard Cock and the Weather-Cock
 'large': HRARPBLG
 'cucumber': KAOUBG/PWER
 'which': WEU
-'was': WA
+'was': WAS
 'conscious': K-RBS
 'of': -F
 'being': -BG
@@ -120,7 +120,7 @@ The Farm-Yard Cock and the Weather-Cock
 'on': OPB
 'the': -T
 'plank;': PHRA*PBG STPH*FPLT
-'he': E
+'he': HE
 'is': S
 'certainly': SERPBL
 'of': -F
@@ -162,7 +162,7 @@ The Farm-Yard Cock and the Weather-Cock
 'yard': KWRARD
 'cock': KOBG
 'is': S
-'really': HROERL
+'really': R-L
 'a': AEU
 'cock!': KOBG SKHRAPL
 'His': HEUS
@@ -176,7 +176,7 @@ The Farm-Yard Cock and the Weather-Cock
 'music,': PHAOUFBG KW-BG
 'and': SKP
 'wherever': W-FR
-'he': E
+'he': HE
 'goes': TKPW-S
 'one': WUPB
 'knows': TPHOEZ
@@ -186,7 +186,7 @@ The Farm-Yard Cock and the Weather-Cock
 'is': S
 'like!': HRAOEUBG SKHRAPL
 'If': TP
-'he': E
+'he': HE
 'would': WO
 'only': OEPBL
 'come': KOPL
@@ -194,7 +194,7 @@ The Farm-Yard Cock and the Weather-Cock
 'here!': HAOER SKHRAPL
 'Even': AOEPB
 'if': TP
-'he': E
+'he': HE
 'ate': AEUT
 'me': PHE
 'up': UP
@@ -223,7 +223,7 @@ The Farm-Yard Cock and the Weather-Cock
 'the': -T
 'night': TPHAOEUT
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'terrible': TERBL
 'storm.': STORPL TP-PL
@@ -259,20 +259,20 @@ The Farm-Yard Cock and the Weather-Cock
 'weather-cock': WHR* H-PB KOBG
 'sat': SAT
 'firm.': TPEURPL TP-PL
-'He': E
+'He': HE
 'did': TK
 'not': TPHOT
 'even': AOEPB
 'turn': TURPB
 'round,': ROUPBD KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'could': KO
 'not;': TPHOT STPH*FPLT
 'and': SKP
 'yet': KWRET
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'young': KWRUPBG
 'and': SKP
 'freshly': TPRERBL
@@ -281,7 +281,7 @@ The Farm-Yard Cock and the Weather-Cock
 'prudent': PRAOUPBT
 'and': SKP
 'sedate.': STKAEUT TP-PL
-'He': E
+'He': HE
 'had': H
 'been': PW-PB
 'born': PWORPB
@@ -303,7 +303,7 @@ The Farm-Yard Cock and the Weather-Cock
 'the': -T
 'swallows;': SWAL/OES STPH*FPLT
 'no,': TPHO KW-BG
-'he': E
+'he': HE
 'despised': STKPAOEUZ/-D
 'them,': THEPL KW-BG
 'these': THEZ
@@ -314,7 +314,7 @@ The Farm-Yard Cock and the Weather-Cock
 'these': THEZ
 'common': KPHOPB
 'whistlers.': WHEUS/HRER/-S TP-PL
-'He': E
+'He': HE
 'admitted': AD/PHEUTD
 'that': THA
 'the': -T
@@ -325,7 +325,7 @@ The Farm-Yard Cock and the Weather-Cock
 'and': SKP
 'shining': SHAOEUPBG
 'like': HRAOEUBG
-'mother-o'-pearl,': PHOER H-PB O*/SP-S AE H-PB PERL KW-BG
+'mother-o'-pearl,': PHOER H-PB O* AE H-PB PERL KW-BG
 'looked': HRAOBGD
 'like': HRAOEUBG
 'a': AEU
@@ -343,7 +343,7 @@ The Farm-Yard Cock and the Weather-Cock
 'their': THAEUR
 'thoughts': THAUTS
 'and': SKP
-'endeavours': EPB/TKEUFRS
+'endeavours': EPB/TKEUFRS/A*U
 'were': WR
 'directed': TKREBGD
 'to': TO
@@ -375,7 +375,7 @@ The Farm-Yard Cock and the Weather-Cock
 'told': TOLD
 'him': HEUPL
 'of': -F
-'foreign': TPOERP
+'foreign': TPOERPB
 'countries,': KUPBTS KW-BG
 'of': -F
 'airy': AEUR/REU
@@ -392,7 +392,7 @@ The Farm-Yard Cock and the Weather-Cock
 'end.': EPBD TP-PL
 'All': AUL
 'this': TH
-'was': WA
+'was': WAS
 'new': TPHU
 'and': SKP
 'interesting;': TR-G STPH*FPLT
@@ -400,7 +400,7 @@ The Farm-Yard Cock and the Weather-Cock
 'is,': S KW-BG
 'for': TPOR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'time,': TAOEUPL KW-BG
 'but': PWUT
 'afterwards,': A*FRDZ KW-BG
@@ -413,18 +413,18 @@ The Farm-Yard Cock and the Weather-Cock
 'repeated': RE/PAOETD
 'themselves': TH*EPLS
 'and': SKP
-'always': AULZ
+'always': AULS
 'told': TOLD
 'the': -T
 'same': SAEUPL
 'stories,': STOERS KW-BG
 'and': SKP
-'that's': TH-TS
+'that's': THATS
 'very': SRE
 'tedious,': TAOED/KWRUS KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'one': WUPB
 'with': W
@@ -439,13 +439,13 @@ The Farm-Yard Cock and the Weather-Cock
 'were': WR
 'stale': STAEUL
 'and': SKP
-'small-minded.': SPAUL H-PB PHAOEUPBD/-D TP-PL
+'small-minded.': SPHAL H-PB PHAOEUPBD/-D TP-PL
 '"The': KR-GS -T
 'world': WORLD
 'is': S
 'no': TPHO
 'good!"': TKPWAOD SKHRAPL KR-GS
-'he': E
+'he': HE
 'said.': SAEUD TP-PL
 '"Everything': KR-GS EFG
 'in': TPH
@@ -455,7 +455,7 @@ The Farm-Yard Cock and the Weather-Cock
 'stupid."': STAOUPD TP-PL KR-GS
 'The': -T
 'weather-cock': WHR* H-PB KOBG
-'was': WA
+'was': WAS
 'puffed': PUFD
 'up,': UP KW-BG
 'and': SKP
@@ -487,7 +487,7 @@ The Farm-Yard Cock and the Weather-Cock
 'yard': KWRARD
 'cock,': KOBG KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'now': TPHOU
 'in': TPH
 'the': -T
@@ -503,7 +503,7 @@ The Farm-Yard Cock and the Weather-Cock
 'but': PWUT
 'the': -T
 'storm': STORPL
-'was': WA
+'was': WAS
 'over.': OEFR TP-PL
 '"What': KR-GS WHA
 'do': TKO
@@ -522,7 +522,7 @@ The Farm-Yard Cock and the Weather-Cock
 'and': SKP
 'chickens.': KHEU/KEPB/-S TP-PL
 '"It': KR-GS T
-'was': WA
+'was': WAS
 'a': AEU
 'little': HREUL
 'rough—it': RUF EPL/TKA*RB T
@@ -548,7 +548,7 @@ The Farm-Yard Cock and the Weather-Cock
 'lord.': HRORD TP-PL
 '"Garden': KR-GS TKPWA*RPB
 'plant!"': PHRAPBT SKHRAPL KR-GS
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'the': -T
@@ -560,15 +560,15 @@ The Farm-Yard Cock and the Weather-Cock
 'word': WORD
 'his': HEUS
 'deep': TKAOEP
-'learning': HRERPG
+'learning': HRERPBG
 'showed': SHOED
 'itself,': T/SEF KW-BG
 'and': SKP
 'it': T
 'forgot': TPAURGT
 'that': THA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'pecking': PEBG/-G
 'at': AT
 'her': HER
@@ -576,7 +576,7 @@ The Farm-Yard Cock and the Weather-Cock
 'eating': AOEGT
 'it': T
 'up.': UP TP-PL
-'"A': KR-GS AEU
+'"A': KR-GS KPA*/AEU
 'happy': HAEP
 'death!"': TK*T SKHRAPL KR-GS
 'The': -T
@@ -588,7 +588,7 @@ The Farm-Yard Cock and the Weather-Cock
 'for': TPOR
 'where': W-R
 'one': WUPB
-'runs': RUPS
+'runs': RUPBS
 'the': -T
 'others': OERS
 'run': RUPB
@@ -606,13 +606,13 @@ The Farm-Yard Cock and the Weather-Cock
 'were': WR
 'proud': PROUD
 'that': THA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'of': -F
 'their': THAEUR
 'kind.': KEUPBD TP-PL
-'"Cock-a-doodle-doo!"': KR-GS KOBG H-PB AEU H-PB TKAOD/-L H-PB TKAO SKHRAPL KR-GS
-'he': E
+'"Cock-a-doodle-doo!"': KR-GS KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO SKHRAPL KR-GS
+'he': HE
 'crowed,': KROE/-D KW-BG
 '"the': KR-GS -T
 'chickens': KHEU/KEPB/-S
@@ -651,7 +651,7 @@ The Farm-Yard Cock and the Weather-Cock
 'piece': PAOES
 'of': -F
 'news.': TPHUS TP-PL
-'"A': KR-GS AEU
+'"A': KR-GS KPA*/AEU
 'cock': KOBG
 'can': K
 'lay': HRAEU
@@ -661,12 +661,12 @@ The Farm-Yard Cock and the Weather-Cock
 'do': TKO
 'you': U
 'know': TPHOE
-'what's': WHA*S
+'what's': WHATS
 'in': TPH
 'that': THA
 'egg?': EG H-F
-'A': AEU
-'basilisk.': XXX basilisk TP-PL
+'A': KPA*/AEU
+'basilisk.': xxx basilisk TP-PL
 'No': TPHO
 'one': WUPB
 'can': K
@@ -694,7 +694,7 @@ The Farm-Yard Cock and the Weather-Cock
 'and': SKP
 'what': WHA
 'a': AEU
-'champion': KHAPL/PAOEPB
+'champion': KHAPL/KWROPB
 'of': -F
 'all': AUL
 'cocks': KOBG/-S
@@ -735,10 +735,10 @@ The Farm-Yard Cock and the Weather-Cock
 'of': -F
 'their': THAEUR
 'number': TPHUPL
-'was': WA
+'was': WAS
 'such': SUFP
 'a': AEU
-'champion': KHAPL/PAOEPB
+'champion': KHAPL/KWROPB
 'of': -F
 'all': AUL
 'cocks.': KOBG/-S TP-PL
@@ -749,12 +749,12 @@ The Farm-Yard Cock and the Weather-Cock
 'till': T*EUL
 'the': -T
 'weather-cock': WHR* H-PB KOBG
-'heard;': HERD STPH*FPLT
-'he': E
-'heard': HERD
+'heard;': HAERD STPH*FPLT
+'he': HE
+'heard': HAERD
 'it;': T STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'stir.': STEUR TP-PL
@@ -817,7 +817,7 @@ The Farm-Yard Cock and the Weather-Cock
 'broke': PWROEBG
 'off;': OF STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'kill': KEUL

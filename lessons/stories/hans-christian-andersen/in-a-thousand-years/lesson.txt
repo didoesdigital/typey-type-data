@@ -3,7 +3,7 @@ In a Thousand Years
 'Yes,': KWRE KW-BG
 'in': TPH
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'years': KWRAOERS
 'people': PAOEPL
 'will': HR
@@ -58,14 +58,14 @@ In a Thousand Years
 'pilgrimages': PEUL/TKPWREUPL/APBLGS
 'to': TO
 'the': -T
-'tottering': XXX tottering
+'tottering': xxx tottering
 'splendors': SHREPBD/O*R/-S
 'of': -F
 'Southern': SORPB
 'Asia.': A*ERB TP-PL
 'In': TPH
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'years': KWRAOERS
 'they': THE
 'will': HR
@@ -73,15 +73,15 @@ In a Thousand Years
 'The': -T
 'Thames,': TEPLS KW-BG
 'the': -T
-'Danube,': XXX Danube KW-BG
+'Danube,': TK*P/A*/TPH*/*U/PW*/*E KW-BG
 'and': SKP
 'the': -T
-'Rhine': RAOEUPB
+'Rhine': RAO*EUPB
 'still': STEUL
 'roll': ROL
 'their': THAEUR
 'course,': KORS KW-BG
-'Mont': XXX Mont
+'Mont': xxx Mont
 'Blanc': PWHRA*PB
 'stands': STAPBDZ
 'firm': TPEURPL
@@ -111,7 +111,7 @@ In a Thousand Years
 'rows': RO*EZ
 'of': -F
 'the': -T
-'mighty': PHAOEU/TEU
+'mighty': PHAOEUT/KWREU
 'of': -F
 'the': -T
 'moment': PHOEPLT
@@ -135,12 +135,12 @@ In a Thousand Years
 'it': T
 'is,': S KW-BG
 'has': HAS
-'built': PEULT
+'built': PWEULT
 'a': AEU
 'bench,': PWEFRPB KW-BG
 'on': OPB
 'which': WEU
-'he': E
+'he': HE
 'can': K
 'sit': SEUT
 'and': SKP
@@ -193,7 +193,7 @@ In a Thousand Years
 'by': PWEU
 'sea.': SAE TP-PL
 'The': -T
-'electro-magnetic': XXX electro H-PB PHAPBG/EUBG
+'electro-magnetic': HRERBGT/KWRO H-PB PHAPBG/EUBG
 'wire': WAOEUR
 'under': *UPBD
 'the': -T
@@ -205,7 +205,7 @@ In a Thousand Years
 'number': TPHUPL
 'of': -F
 'the': -T
-'aerial': AER/KWRAL
+'aerial': AEUR/KWRAL
 'caravan.': KAR/SRAPB TP-PL
 'Europe': AO*URP
 'is': S
@@ -236,11 +236,11 @@ In a Thousand Years
 'are': R
 'exactly': ELG
 'over': OEFR
-'England.': TPWHRAEPBD TP-PL
+'England.': TKPWHRAEPBD TP-PL
 'There': THR
 'they': THE
 'will': HR
-'first': TPEURS
+'first': TPEUFRT
 'step': STEP
 'on': OPB
 'European': UR/PAOEPB
@@ -249,7 +249,7 @@ In a Thousand Years
 'the': -T
 'land': HRAPBD
 'of': -F
-'Shakespeare,': SHAEUBGS/PAER KW-BG
+'Shakespeare,': SHAUBG/SPAOER KW-BG
 'as': AZ
 'the': -T
 'educated': TAEUBGTD
@@ -290,7 +290,7 @@ In a Thousand Years
 'the': -T
 'whole': WHOEL
 'of': -F
-'England': TPWHRAEPBD
+'England': TKPWHRAEPBD
 'and': SKP
 'Scotland.': SKOT/HRAPBD TP-PL
 'Then': THEPB
@@ -303,7 +303,7 @@ In a Thousand Years
 'tunnel': TUPBL
 'under': *UPBD
 'the': -T
-'English': TPWHREURB
+'English': TKPWHREURB
 'Channel,': KHAPBL KW-BG
 'to': TO
 'France,': TPRAPBS KW-BG
@@ -313,7 +313,7 @@ In a Thousand Years
 'Charlemagne': KHARL/PHAEUPB
 'and': SKP
 'Napoleon.': PHA/POEL/KWROPB TP-PL
-'Moliere': XXX Moliere
+'Moliere': xxx Moliere
 'is': S
 'named,': TPHAEUPLD KW-BG
 'the': -T
@@ -359,14 +359,14 @@ In a Thousand Years
 'in': TPH
 'Paris,': PA*EURS KW-BG
 'the': -T
-'centre': STR
+'centre': STR/A*U
 'of': -F
 'Europe,': AO*URP KW-BG
 'and': SKP
 'elsewhere.': ELS/W-R TP-PL
 'The': -T
 'air': AEUR
-'steamboat': XXX steamboat
+'steamboat': xxx steamboat
 'flies': TPHRAOEUS
 'over': OEFR
 'the': -T
@@ -377,18 +377,18 @@ In a Thousand Years
 'forth,': TPO*RT KW-BG
 'where': W-R
 'Cortez': KOR/TEZ
-'was': WA
+'was': WAS
 'born,': PWORPB KW-BG
 'and': SKP
 'where': W-R
-'Calderon': XXX Calderon
+'Calderon': xxx Calderon
 'sang': SAPBG
 'dramas': TKRA/PHAS
 'in': TPH
 'sounding': SOUPBD/-G
 'verse.': SRERS TP-PL
 'Beautiful': PWAOUFL
-'black-eyed': PWHRABG H-PB KWRAOEUD
+'black-eyed': PWHRABG H-PB AO*EUD
 'women': WEUPL
 'live': HREUF
 'still': STEUL
@@ -403,7 +403,7 @@ In a Thousand Years
 'speak': SPAOEBG
 'of': -F
 'the': -T
-'Cid': XXX Cid
+'Cid': xxx Cid
 'and': SKP
 'the': -T
 'Alhambra.': AL/HAPL/RA TP-PL
@@ -415,12 +415,12 @@ In a Thousand Years
 'the': -T
 'sea,': SAE KW-BG
 'to': TO
-'Italy,': UT/HREU KW-BG
+'Italy,': EUT/HREU KW-BG
 'where': W-R
 'once': WUPBS
 'lay': HRAEU
 'old,': OLD KW-BG
-'everlasting': XXX everlasting
+'everlasting': *FR/HRAFT/-G
 'Rome.': RO*EPL TP-PL
 'It': T
 'has': HAS
@@ -429,7 +429,7 @@ In a Thousand Years
 'Campagna': KAPL/PAPB/KWRA
 'lies': HRAO*EUS
 'desert.': STK*ERT TP-PL
-'A': AEU
+'A': KPA*/AEU
 'single': SEUPBLG
 'ruined': RAOUPBD
 'wall': WAUL
@@ -439,8 +439,8 @@ In a Thousand Years
 'the': -T
 'remains': RE/PHAEUPBS
 'of': -F
-'St.': XXX St TP-PL
-'Peter's,': PAOERT AE S*/SP-S KW-BG
+'St.': ST* TP-PL
+'Peter's,': PAOERT AE S* KW-BG
 'but': PWUT
 'there': THR
 'is': S
@@ -466,7 +466,7 @@ In a Thousand Years
 'the': -T
 'top': TOP
 'of': -F
-'Mount': PHOUPT
+'Mount': PHOUPBT
 'Olympus,': O/HREUPL/PUS KW-BG
 'to': TO
 'say': SAEU
@@ -488,7 +488,7 @@ In a Thousand Years
 'there': THR
 'a': AEU
 'few': TPAOU
-'hours,': HAURS KW-BG
+'hours,': HOURS KW-BG
 'and': SKP
 'see': SAOE
 'the': -T
@@ -522,12 +522,12 @@ In a Thousand Years
 'the': -T
 'remains': RE/PHAEUPBS
 'of': -F
-'mighty': PHAOEU/TEU
+'mighty': PHAOEUT/KWREU
 'cities': STEUS
 'on': OPB
 'the': -T
-'broad': PWROD
-'Danube,': XXX Danube KW-BG
+'broad': PWRAOD
+'Danube,': TK*P/A*/TPH*/*U/PW*/*E KW-BG
 'cities': STEUS
 'which': WEU
 'we': WE
@@ -537,7 +537,7 @@ In a Thousand Years
 'know': TPHOE
 'not,': TPHOT KW-BG
 'the': -T
-'travellers': TRA*FL/ERS
+'travellers': TRA*FL/ERS/A*U
 'pass;': PAS STPH*FPLT
 'but': PWUT
 'here': HAOER
@@ -567,7 +567,7 @@ In a Thousand Years
 'lies': HRAO*EUS
 'Germany,': SKWRERPL/TPHEU KW-BG
 'that': THA
-'was': WA
+'was': WAS
 'once': WUPBS
 'covered': KOFRD
 'with': W
@@ -591,7 +591,7 @@ In a Thousand Years
 'once': WUPBS
 'held': HELD
 'the': -T
-'sceptre': SEP/TER
+'sceptre': SEP/TER/A*U
 'of': -F
 'harmony.': HAR/PHOEPB TP-PL
 'Great': TKPWRAET
@@ -625,7 +625,7 @@ In a Thousand Years
 'of': -F
 'Oersted': *ERS/-D
 'and': SKP
-'Linnaeus,': XXX Linnaeus KW-BG
+'Linnaeus,': xxx Linnaeus KW-BG
 'and': SKP
 'for': TPOR
 'Norway,': TPHOR/WAEU KW-BG
@@ -651,7 +651,7 @@ In a Thousand Years
 'burn': PWURPB
 'no': TPHO
 'more,': PHOR KW-BG
-'Hecla': XXX Hecla
+'Hecla': xxx Hecla
 'is': S
 'an': APB
 'extinct': EBGS/TEUPBG
@@ -679,7 +679,7 @@ In a Thousand Years
 'poetry.': POEURT TP-PL
 '"There': KR-GS THR
 'is': S
-'really': HROERL
+'really': R-L
 'a': AEU
 'great': TKPWRAET
 'deal': TKAOEL
@@ -707,10 +707,10 @@ In a Thousand Years
 'of': -F
 'the': -T
 'great': TKPWRAET
-'traveller"': TRAFL/HRER KR-GS
+'traveller"': TRAFL/HRER/A*U KR-GS
 '(and': PREPB SKP
 'here': HAOER
-'he': E
+'he': HE
 'mentions': PHEPBGS/-S
 'the': -T
 'name': TPHAEUPL

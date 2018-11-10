@@ -23,7 +23,7 @@ The Daisy
 'it': T
 'yourself.': KWRO*URS TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'a': AEU
 'little': HREUL
 'flower': TPHRO*UR
@@ -31,14 +31,14 @@ The Daisy
 'with': W
 'painted': PAEUPBTD
 'wooden': WAOD/EPB
-'palings': XXX palings
+'palings': xxx palings
 'in': TPH
 'front': TPROPBT
 'of': -F
 'it;': T STPH*FPLT
 'close': KHROES
 'by': PWEU
-'was': WA
+'was': WAS
 'a': AEU
 'ditch,': TKEUFP KW-BG
 'on': OPB
@@ -85,7 +85,7 @@ The Daisy
 'round': ROUPBD
 'the': -T
 'yellow': KWREL/OE
-'centre,': STR KW-BG
+'centre,': STR/A*U KW-BG
 'like': HRAOEUBG
 'the': -T
 'rays': RA*ES
@@ -106,7 +106,7 @@ The Daisy
 'and': SKP
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'poor': PAOR
 'despised': STKPAOEUZ/-D
@@ -115,7 +115,7 @@ The Daisy
 'the': -T
 'contrary,': KRAER KW-BG
 'it': T
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'happy,': HAEP KW-BG
 'and': SKP
@@ -141,7 +141,7 @@ The Daisy
 'The': -T
 'little': HREUL
 'daisy': TKAEU/SEU
-'was': WA
+'was': WAS
 'as': AZ
 'happy': HAEP
 'as': AZ
@@ -152,10 +152,10 @@ The Daisy
 'been': PW-PB
 'a': AEU
 'great': TKPWRAET
-'holiday,': OL/TKAEU KW-BG
+'holiday,': HOL/TKEU KW-BG
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'only': OEPBL
 'Monday.': PHOPBD TP-PL
 'All': AUL
@@ -168,14 +168,14 @@ The Daisy
 'while': WHAOEUL
 'they': THE
 'were': WR
-'sitting': SAO*EGT
+'sitting': SEUGT
 'on': OPB
 'the': -T
 'forms': TPORPLS
 'and': SKP
-'learning': HRERPG
+'learning': HRERPBG
 'their': THAEUR
-'lessons,': HR*EFPBS KW-BG
+'lessons,': HROEFPBS KW-BG
 'it': T
 'sat': SAT
 'on': OPB
@@ -184,7 +184,7 @@ The Daisy
 'green': TKPWRAOEPB
 'stalk': STAUBG
 'and': SKP
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'from': TPR
 'the': -T
 'sun': SUPB
@@ -296,7 +296,7 @@ The Daisy
 'larger': HRARPBLG/ER
 'than': THAPB
 'the': -T
-'roses,': ROES/-S KW-BG
+'roses,': ROESZ KW-BG
 'but': PWUT
 'size': SAOEUZ
 'is': S
@@ -307,7 +307,7 @@ The Daisy
 'had': H
 'the': -T
 'finest': TPAOEUPB/EFT
-'colours,': KHROURS KW-BG
+'colours,': KHROURS/A*U KW-BG
 'and': SKP
 'they': THE
 'knew': TPHAOU
@@ -379,12 +379,12 @@ The Daisy
 'see': SAOE
 'all': AUL
 'the': -T
-'splendour."': SHREPBD/O*UR TP-PL KR-GS
+'splendour."': SHREPBD/O*UR/A*U TP-PL KR-GS
 'And': SKP
 'while': WHAOEUL
 'the': -T
 'daisy': TKAEU/SEU
-'was': WA
+'was': WAS
 'still': STEUL
 'thinking,': THEUG KW-BG
 'the': -T
@@ -410,7 +410,7 @@ The Daisy
 'daisy.': TKAEU/SEU TP-PL
 'Its': EUTS
 'joy': SKWROEU
-'was': WA
+'was': WAS
 'so': SO
 'great': TKPWRAET
 'that': THA
@@ -453,7 +453,7 @@ The Daisy
 'here."': HAOER TP-PL KR-GS
 'The': -T
 'yellow': KWREL/OE
-'centre': STR
+'centre': STR/A*U
 'in': TPH
 'the': -T
 'daisy': TKAEU/SEU
@@ -475,13 +475,13 @@ The Daisy
 'happy': HAEP
 'the': -T
 'daisy': TKAEU/SEU
-'was!': WA SKHRAPL
+'was!': WAS SKHRAPL
 'No': TPHO
 'one': WUPB
 'has': HAS
 'the': -T
 'least': HRAOEFT
-'idea.': KWRUD TP-PL
+'idea.': KWR-D TP-PL
 'The': -T
 'bird': PWEURD
 'kissed': K*EUFD
@@ -502,7 +502,7 @@ The Daisy
 'blue': PWHRU
 'sky.': SKAOEU TP-PL
 'It': T
-'was': WA
+'was': WAS
 'certainly': SERPBL
 'more': PHOR
 'than': THAPB
@@ -563,7 +563,7 @@ The Daisy
 'their': THAEUR
 'faces': TPAEUFS
 'were': WR
-'pointed': POEUPTD
+'pointed': POEUPBTD
 'and': SKP
 'red,': RED KW-BG
 'because': PWAU
@@ -573,9 +573,9 @@ The Daisy
 'The': -T
 'peonies': PE/KWRO/TPHAOES
 'were': WR
-'sulky;': XXX sulky STPH*FPLT
+'sulky;': xxx sulky STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'well': WEL
 'that': THA
 'they': THE
@@ -656,16 +656,16 @@ The Daisy
 'away.': A/WAEU TP-PL
 'The': -T
 'daisy': TKAEU/SEU
-'was': WA
+'was': WAS
 'glad': TKPWHRAD
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'outside,': OUDZ KW-BG
 'and': SKP
 'only': OEPBL
 'a': AEU
-'small': SPAUL
+'small': SPHAL
 'flower—it': TPHRO*UR EPL/TKA*RB T
 'felt': TPELT
 'very': SRE
@@ -680,7 +680,7 @@ The Daisy
 'fell': TPEL
 'asleep,': A/HRAOEP KW-BG
 'and': SKP
-'dreamt': XXX dreamt
+'dreamt': TKREPLT
 'all': AUL
 'night': TPHAOEUT
 'of': -F
@@ -714,9 +714,9 @@ The Daisy
 'light,': HRAOEUT KW-BG
 'the': -T
 'daisy': TKAEU/SEU
-'recognised': REFD
+'recognised': REFD/A*U
 'the': -T
-'bird's': PWEURD AE S*/SP-S
+'bird's': PWEURD AES
 'voice,': SROEUS KW-BG
 'but': PWUT
 'what': WHA
@@ -785,7 +785,7 @@ The Daisy
 'The': -T
 'poor': PAOR
 'lark': HRARBG
-'was': WA
+'was': WAS
 'most': PHOFT
 'unhappy': UPB/HAEP
 'as': AZ
@@ -812,13 +812,13 @@ The Daisy
 'done?': TKOPB H-F
 'Indeed,': TPHAOEPBD KW-BG
 'that': THA
-'was': WA
+'was': WAS
 'very': SRE
 'difficult': TKEUFL
 'for': TPOR
 'such': SUFP
 'a': AEU
-'small': SPAUL
+'small': SPHAL
 'flower': TPHRO*UR
 'to': TO
 'find': TPEUPBD
@@ -831,12 +831,12 @@ The Daisy
 'everything': EFG
 'around': ARPBD
 'it': T
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'how': HOU
 'warmly': WARPL/HREU
 'the': -T
 'sun': SUPB
-'was': WA
+'was': WAS
 'shining,': SHAOEUPBG KW-BG
 'and': SKP
 'how': HOU
@@ -933,7 +933,7 @@ The Daisy
 'remained': RE/PHAEUPBD
 'in': TPH
 'the': -T
-'centre': STR
+'centre': STR/A*U
 'of': -F
 'the': -T
 'grass.': TKPWRAS TP-PL
@@ -969,7 +969,7 @@ The Daisy
 'live,': HREUF KW-BG
 'as': AZ
 'it': T
-'was': WA
+'was': WAS
 'to': TO
 'go': TKPW
 'with': W
@@ -981,7 +981,7 @@ The Daisy
 'the': -T
 'poor': PAOR
 'captive': KAPT/EUF
-'lark's': HRARBG AE S*/SP-S
+'lark's': HRARBG AES
 'cage.': KAEUPBLG TP-PL
 '"No': KR-GS TPHO
 'let': HRET
@@ -992,7 +992,7 @@ The Daisy
 'other': OER
 'boy,': PWOEU KW-BG
 '"it': KR-GS T
-'looks': HAOBGS
+'looks': HRAOBGS
 'so': SO
 'pretty."': PREUT TP-PL KR-GS
 'And': SKP
@@ -1000,16 +1000,16 @@ The Daisy
 'it': T
 'stayed,': STAEUD KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'into': TPHAO
 'the': -T
-'lark's': HRARBG AE S*/SP-S
+'lark's': HRARBG AES
 'cage.': KAEUPBLG TP-PL
 'The': -T
 'poor': PAOR
 'bird': PWEURD
-'was': WA
+'was': WAS
 'lamenting': HRAPLT/-G
 'its': EUTS
 'lost': HRO*S
@@ -1031,7 +1031,7 @@ The Daisy
 'or': OR
 'utter': UT/ER
 'a': AEU
-'consoling': KOPB/SOEL/-G
+'consoling': KAUPB/SOEL/-G
 'word,': WORD KW-BG
 'much': PHUFP
 'as': AZ
@@ -1044,7 +1044,7 @@ The Daisy
 'so.': SO TP-PL
 'So': SO
 'the': -T
-'forenoon': XXX forenoon
+'forenoon': TPOER/TPHAOPB
 'passed.': PAFD TP-PL
 '"I': KR-GS EU
 'have': SR
@@ -1099,7 +1099,7 @@ The Daisy
 'with': W
 'the': -T
 'warm': WARPL
-'sunshine,': S*UPB/SHAOEUPB KW-BG
+'sunshine,': SUPB/SHAO*EUPB KW-BG
 'the': -T
 'fresh': TPRERB
 'green': TKPWRAOEPB
@@ -1210,7 +1210,7 @@ The Daisy
 'wish': WEURB
 'I': EU
 'could': KO
-'console': KOPB/SOEL
+'console': KAUPB/SOEL
 'the': -T
 'poor': PAOR
 'lark,"': HRARBG KW-BG KR-GS
@@ -1235,7 +1235,7 @@ The Daisy
 'streamed': STRAOEPL/-D
 'forth,': TPO*RT KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'much': PHUFP
 'stronger': STRORPBG
 'than': THAPB
@@ -1249,10 +1249,10 @@ The Daisy
 'it,': T KW-BG
 'although': HR*T
 'it': T
-'was': WA
+'was': WAS
 'dying': TKAOEUG
 'with': W
-'thirst,': THUFRT KW-BG
+'thirst,': THEUFRT KW-BG
 'and': SKP
 'in': TPH
 'its': EUTS
@@ -1271,7 +1271,7 @@ The Daisy
 'the': -T
 'flower.': TPHRO*UR TP-PL
 'The': -T
-'evening': AOEPG
+'evening': AOEPBG
 'came,': KAEUPL KW-BG
 'and': SKP
 'nobody': TPHOEB
@@ -1302,7 +1302,7 @@ The Daisy
 'mournful': PHOURPB/-FL
 '"Tweet,': KR-GS TWAOET KW-BG
 'tweet,"': TWAOET KW-BG KR-GS
-'was': WA
+'was': WAS
 'all': AUL
 'it': T
 'could': KO
@@ -1332,7 +1332,7 @@ The Daisy
 'on': OPB
 'the': -T
 'previous': PRAOEF
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'fold': TPOELD
 'up': UP
 'its': EUTS
@@ -1372,9 +1372,9 @@ The Daisy
 'with': W
 'flowers.': TPHRO*URS TP-PL
 'The': -T
-'bird's': PWEURD AE S*/SP-S
+'bird's': PWEURD AES
 'body': PWO*ED
-'was': WA
+'was': WAS
 'placed': PHRAEUFD
 'in': TPH
 'a': AEU
@@ -1388,10 +1388,10 @@ The Daisy
 'it': T
 'with': W
 'royal': ROEUL
-'honours.': HO*URPBS TP-PL
+'honours.': HO*URPBS/A*U TP-PL
 'While': WHAOEUL
 'it': T
-'was': WA
+'was': WAS
 'alive': A/HRAOEUF
 'and': SKP
 'sang': SAPBG
@@ -1426,7 +1426,7 @@ The Daisy
 'daisy': TKAEU/SEU
 'in': TPH
 'it,': T KW-BG
-'was': WA
+'was': WAS
 'thrown': THROEPB
 'out': OUT
 'on': OPB

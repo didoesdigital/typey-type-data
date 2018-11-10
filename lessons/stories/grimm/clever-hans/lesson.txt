@@ -9,13 +9,13 @@ Clever Hans
 'away,': A/WAEU KW-BG
 'Hans?'': HAPBS H-F AE
 'Hans': HAPBS
-'answered:': APBSD STPH-FPLT
+'answered:': AEPBS/-D STPH-FPLT
 ''To': AE TO
 'Gretel.'': TKPWRET/EL TP-PL AE
 ''Behave': AE PWAEUF
 'well,': WEL KW-BG
 'Hans.'': HAPBS TP-PL AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'I'll': AOEUL
 'behave': PWAEUF
 'well.': WEL TP-PL
@@ -66,7 +66,7 @@ Clever Hans
 'takes': TAEUBGS
 'the': -T
 'needle,': TPHAO*ELD KW-BG
-'sticks': STEUBGZ
+'sticks': STEUBGS
 'it': T
 'into': TPHAO
 'a': AEU
@@ -77,10 +77,10 @@ Clever Hans
 'cart': KART
 'home.': HOEPL TP-PL
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'mother.'': PHOER TP-PL AE
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'Hans.': HAPBS TP-PL
 'Where': W-R
 'have': SR
@@ -118,7 +118,7 @@ Clever Hans
 'the': -T
 'hay-cart.'': HA*EU H-PB KART TP-PL AE
 ''That': AE THA
-'was': WA
+'was': WAS
 'ill': EUL
 'done,': TKOPB KW-BG
 'Hans.': HAPBS TP-PL
@@ -147,7 +147,7 @@ Clever Hans
 ''Behave': AE PWAEUF
 'well,': WEL KW-BG
 'Hans.'': HAPBS TP-PL AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'I'll': AOEUL
 'behave': PWAEUF
 'well.': WEL TP-PL
@@ -197,7 +197,7 @@ Clever Hans
 'takes': TAEUBGS
 'the': -T
 'knife,': TPHAOEUF KW-BG
-'sticks': STEUBGZ
+'sticks': STEUBGS
 'it': T
 'in': TPH
 'his': HEUS
@@ -206,10 +206,10 @@ Clever Hans
 'goes': TKPW-S
 'home.': HOEPL TP-PL
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'mother.'': PHOER TP-PL AE
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'Hans.': HAPBS TP-PL
 'Where': W-R
 'have': SR
@@ -247,7 +247,7 @@ Clever Hans
 'in': TPH
 'my': PHEU
 'sleeve.'': SHRAOEF TP-PL AE
-''That's': AE THA AE S*/SP-S
+''That's': AE THA AES
 'ill': EUL
 'done,': TKOPB KW-BG
 'Hans,': HAPBS KW-BG
@@ -276,7 +276,7 @@ Clever Hans
 ''Behave': AE PWAEUF
 'well,': WEL KW-BG
 'Hans.'': HAPBS TP-PL AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'I'll': AOEUL
 'behave': PWAEUF
 'well.': WEL TP-PL
@@ -333,17 +333,17 @@ Clever Hans
 'his': HEUS
 'pocket.': POBGT TP-PL
 'When': WHEPB
-'he': E
+'he': HE
 'gets': TKPWETS
 'home': HOEPL
 'it': T
 'is': S
 'suffocated.': SUF/KAEUT/-D TP-PL
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'mother.'': PHOER TP-PL AE
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'Hans.': HAPBS TP-PL
 'Where': W-R
 'have': SR
@@ -383,7 +383,7 @@ Clever Hans
 'my': PHEU
 'pocket.'': POBGT TP-PL AE
 ''That': AE THA
-'was': WA
+'was': WAS
 'ill': EUL
 'done,': TKOPB KW-BG
 'Hans,': HAPBS KW-BG
@@ -395,7 +395,7 @@ Clever Hans
 'rope': ROEP
 'round': ROUPBD
 'the': -T
-'goat's': TKPWO*ET AE S*/SP-S
+'goat's': TKPWO*ET AES
 'neck.'': TPHEBG TP-PL AE
 ''Never': AE TPHEF
 'mind,': PHAOEUPBD KW-BG
@@ -413,7 +413,7 @@ Clever Hans
 ''Behave': AE PWAEUF
 'well,': WEL KW-BG
 'Hans.'': HAPBS TP-PL AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'I'll': AOEUL
 'behave': PWAEUF
 'well.': WEL TP-PL
@@ -480,10 +480,10 @@ Clever Hans
 'the': -T
 'bacon.': PWAEU/KOPB TP-PL
 'When': WHEPB
-'he': E
+'he': HE
 'gets': TKPWETS
 'home,': HOEPL KW-BG
-'he': E
+'he': HE
 'has': HAS
 'the': -T
 'rope': ROEP
@@ -501,10 +501,10 @@ Clever Hans
 'to': TO
 'it.': T TP-PL
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'mother.'': PHOER TP-PL AE
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'Hans.': HAPBS TP-PL
 'Where': W-R
 'have': SR
@@ -554,7 +554,7 @@ Clever Hans
 'took': TAOBG
 'it.'': T TP-PL AE
 ''That': AE THA
-'was': WA
+'was': WAS
 'ill': EUL
 'done,': TKOPB KW-BG
 'Hans,': HAPBS KW-BG
@@ -583,7 +583,7 @@ Clever Hans
 ''Behave': AE PWAEUF
 'well,': WEL KW-BG
 'Hans.'': HAPBS TP-PL AE
-''I'll': AE EU AE XXX ll
+''I'll': AE EU AE HR*/HR*
 'behave': PWAEUF
 'well.': WEL TP-PL
 'Goodbye,': TKPW-B KW-BG
@@ -640,10 +640,10 @@ Clever Hans
 'his': HEUS
 'face.': TPAEUS TP-PL
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'mother.'': PHOER TP-PL AE
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'Hans.': HAPBS TP-PL
 'Where': W-R
 'have': SR
@@ -669,7 +669,7 @@ Clever Hans
 'Gretel': TKPWRET/EL
 'give': TKPWEUF
 'you?'': U H-F AE
-''A': AE AEU
+''A': AE KPA*/AEU
 'calf.'': KA*FL TP-PL AE
 ''Where': AE W-R
 'have': SR
@@ -689,7 +689,7 @@ Clever Hans
 'my': PHEU
 'face.'': TPAEUS TP-PL AE
 ''That': AE THA
-'was': WA
+'was': WAS
 'ill': EUL
 'done,': TKOPB KW-BG
 'Hans,': HAPBS KW-BG
@@ -721,7 +721,7 @@ Clever Hans
 ''Behave': AE PWAEUF
 'well,': WEL KW-BG
 'Hans.'': HAPBS TP-PL AE
-''I'll': AE EU AE XXX ll
+''I'll': AE EU AE HR*/HR*
 'behave': PWAEUF
 'well.': WEL TP-PL
 'Goodbye,': TKPW-B KW-BG
@@ -785,10 +785,10 @@ Clever Hans
 'his': HEUS
 'mother.': PHOER TP-PL
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'mother.'': PHOER TP-PL AE
 ''Good': AE TKPWAOD
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'Hans.': HAPBS TP-PL
 'Where': W-R
 'have': SR
@@ -841,7 +841,7 @@ Clever Hans
 'for': TPOR
 'her.'': HER TP-PL AE
 ''That': AE THA
-'was': WA
+'was': WAS
 'ill': EUL
 'done,': TKOPB KW-BG
 'Hans,': HAPBS KW-BG
@@ -869,13 +869,13 @@ Clever Hans
 'the': -T
 'calves'': KA*F/-S AE
 'and': SKP
-'sheep's': SHAOEP AE S*/SP-S
+'sheep's': SHAOEP AES
 'eyes,': AO*EUS KW-BG
 'and': SKP
 'threw': THRAOU
 'them': THEPL
 'in': TPH
-'Gretel's': TKPWRET/EL AE S*/SP-S
+'Gretel's': TKPWRET/EL AES
 'face.': TPAEUS TP-PL
 'Then': THEPB
 'Gretel': TKPWRET/EL
@@ -888,7 +888,7 @@ Clever Hans
 'ran': RAPB
 'away,': A/WAEU KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'no': TPHO
 'longer': HRORPBG
 'the': -T

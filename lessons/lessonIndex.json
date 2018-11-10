@@ -967,6 +967,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/the-fairy/lesson.txt",
+    "wordCount": 913,
     "suggestedNext": "/stories/charles-perrault/little-red-riding-hood/lesson.txt"
   },
   {
@@ -975,6 +976,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/little-red-riding-hood/lesson.txt",
+    "wordCount": 667,
     "suggestedNext": "/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/lesson.txt"
   },
   {
@@ -983,6 +985,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/lesson.txt",
+    "wordCount": 2566,
     "suggestedNext": "/stories/charles-perrault/blue-beard/lesson.txt"
   },
   {
@@ -991,6 +994,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/blue-beard/lesson.txt",
+    "wordCount": 1853,
     "suggestedNext": "/stories/charles-perrault/the-ridiculous-wishes/lesson.txt"
   },
   {
@@ -999,6 +1003,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/the-ridiculous-wishes/lesson.txt",
+    "wordCount": 1048,
     "suggestedNext": "/stories/charles-perrault/donkey-skin/lesson.txt"
   },
   {
@@ -1007,6 +1012,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/donkey-skin/lesson.txt",
+    "wordCount": 4813,
     "suggestedNext": "/stories/charles-perrault/the-sleeping-beauty-in-the-wood/lesson.txt"
   },
   {
@@ -1015,6 +1021,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/the-sleeping-beauty-in-the-wood/lesson.txt",
+    "wordCount": 3702,
     "suggestedNext": "/stories/charles-perrault/little-thumb/lesson.txt"
   },
   {
@@ -1023,6 +1030,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/little-thumb/lesson.txt",
+    "wordCount": 3729,
     "suggestedNext": "/stories/charles-perrault/riquet-with-the-tuft/lesson.txt"
   },
   {
@@ -1031,6 +1039,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/riquet-with-the-tuft/lesson.txt",
+    "wordCount": 2585,
     "suggestedNext": "/stories/charles-perrault/the-master-cat-or-puss-in-boots/lesson.txt"
   },
   {
@@ -1039,6 +1048,7 @@
     "category": "Stories",
     "subcategory": "Charles Perrault’s Fairy Tales",
     "path": "/stories/charles-perrault/the-master-cat-or-puss-in-boots/lesson.txt",
+    "wordCount": 1719,
     "suggestedNext": "/stories/hans-christian-andersen/the-ugly-duckling/lesson.txt"
   },
   {
@@ -1047,6 +1057,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-ugly-duckling/lesson.txt",
+    "wordCount": 3773,
     "suggestedNext": "/stories/hans-christian-andersen/the-angel/lesson.txt"
   },
   {
@@ -1055,6 +1066,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-angel/lesson.txt",
+    "wordCount": 954,
     "suggestedNext": "/stories/hans-christian-andersen/the-tinder-box/lesson.txt"
   },
   {
@@ -1063,6 +1075,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-tinder-box/lesson.txt",
+    "wordCount": 2882,
     "suggestedNext": "/stories/hans-christian-andersen/the-drop-of-water/lesson.txt"
   },
   {
@@ -1071,14 +1084,16 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-drop-of-water/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/ole-luk-oie--the-dream-god/lesson.txt"
+    "wordCount": 588,
+    "suggestedNext": "/stories/hans-christian-andersen/ole-luk-oie-the-dream-god/lesson.txt"
   },
   {
     "title": "Ole-Luk-Oie, the Dream-God",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/ole-luk-oie--the-dream-god/lesson.txt",
+    "path": "/stories/hans-christian-andersen/ole-luk-oie-the-dream-god/lesson.txt",
+    "wordCount": 3937,
     "suggestedNext": "/stories/hans-christian-andersen/a-great-grief/lesson.txt"
   },
   {
@@ -1087,6 +1102,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/a-great-grief/lesson.txt",
+    "wordCount": 748,
     "suggestedNext": "/stories/hans-christian-andersen/the-jewish-maiden/lesson.txt"
   },
   {
@@ -1095,6 +1111,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-jewish-maiden/lesson.txt",
+    "wordCount": 1842,
     "suggestedNext": "/stories/hans-christian-andersen/the-psyche/lesson.txt"
   },
   {
@@ -1103,6 +1120,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-psyche/lesson.txt",
+    "wordCount": 4693,
     "suggestedNext": "/stories/hans-christian-andersen/everything-in-the-right-place/lesson.txt"
   },
   {
@@ -1111,6 +1129,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/everything-in-the-right-place/lesson.txt",
+    "wordCount": 3125,
     "suggestedNext": "/stories/hans-christian-andersen/the-thorny-road-of-honor/lesson.txt"
   },
   {
@@ -1119,6 +1138,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-thorny-road-of-honor/lesson.txt",
+    "wordCount": 1582,
     "suggestedNext": "/stories/hans-christian-andersen/a-story/lesson.txt"
   },
   {
@@ -1127,6 +1147,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/a-story/lesson.txt",
+    "wordCount": 1729,
     "suggestedNext": "/stories/hans-christian-andersen/the-dumb-book/lesson.txt"
   },
   {
@@ -1135,6 +1156,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-dumb-book/lesson.txt",
+    "wordCount": 697,
     "suggestedNext": "/stories/hans-christian-andersen/two-brothers/lesson.txt"
   },
   {
@@ -1143,6 +1165,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/two-brothers/lesson.txt",
+    "wordCount": 730,
     "suggestedNext": "/stories/hans-christian-andersen/the-portuguese-duck/lesson.txt"
   },
   {
@@ -1151,6 +1174,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-portuguese-duck/lesson.txt",
+    "wordCount": 2185,
     "suggestedNext": "/stories/hans-christian-andersen/little-tiny-or-thumbelina/lesson.txt"
   },
   {
@@ -1159,6 +1183,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/little-tiny-or-thumbelina/lesson.txt",
+    "wordCount": 4331,
     "suggestedNext": "/stories/hans-christian-andersen/jack-the-dullard/lesson.txt"
   },
   {
@@ -1167,6 +1192,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/jack-the-dullard/lesson.txt",
+    "wordCount": 1617,
     "suggestedNext": "/stories/hans-christian-andersen/the-child-in-the-grave/lesson.txt"
   },
   {
@@ -1175,6 +1201,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-child-in-the-grave/lesson.txt",
+    "wordCount": 1758,
     "suggestedNext": "/stories/hans-christian-andersen/the-bird-of-popular-song/lesson.txt"
   },
   {
@@ -1183,6 +1210,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-bird-of-popular-song/lesson.txt",
+    "wordCount": 1193,
     "suggestedNext": "/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/lesson.txt"
   },
   {
@@ -1191,6 +1219,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/lesson.txt",
+    "wordCount": 2449,
     "suggestedNext": "/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/lesson.txt"
   },
   {
@@ -1199,6 +1228,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/lesson.txt",
+    "wordCount": 2997,
     "suggestedNext": "/stories/hans-christian-andersen/the-puppet-show-man/lesson.txt"
   },
   {
@@ -1207,6 +1237,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-puppet-show-man/lesson.txt",
+    "wordCount": 1660,
     "suggestedNext": "/stories/hans-christian-andersen/the-old-house/lesson.txt"
   },
   {
@@ -1215,6 +1246,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-old-house/lesson.txt",
+    "wordCount": 3089,
     "suggestedNext": "/stories/hans-christian-andersen/the-swineherd/lesson.txt"
   },
   {
@@ -1223,6 +1255,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-swineherd/lesson.txt",
+    "wordCount": 1511,
     "suggestedNext": "/stories/hans-christian-andersen/there-is-no-doubt-about-it/lesson.txt"
   },
   {
@@ -1231,6 +1264,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/there-is-no-doubt-about-it/lesson.txt",
+    "wordCount": 843,
     "suggestedNext": "/stories/hans-christian-andersen/the-neighbouring-families/lesson.txt"
   },
   {
@@ -1239,6 +1273,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-neighbouring-families/lesson.txt",
+    "wordCount": 3628,
     "suggestedNext": "/stories/hans-christian-andersen/the-pea-blossom/lesson.txt"
   },
   {
@@ -1247,6 +1282,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-pea-blossom/lesson.txt",
+    "wordCount": 1314,
     "suggestedNext": "/stories/hans-christian-andersen/the-red-shoes/lesson.txt"
   },
   {
@@ -1255,6 +1291,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-red-shoes/lesson.txt",
+    "wordCount": 2270,
     "suggestedNext": "/stories/hans-christian-andersen/the-shirt-collar/lesson.txt"
   },
   {
@@ -1263,6 +1300,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-shirt-collar/lesson.txt",
+    "wordCount": 930,
     "suggestedNext": "/stories/hans-christian-andersen/the-snail-and-the-rose-tree/lesson.txt"
   },
   {
@@ -1271,6 +1309,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-snail-and-the-rose-tree/lesson.txt",
+    "wordCount": 854,
     "suggestedNext": "/stories/hans-christian-andersen/the-golden-treasure/lesson.txt"
   },
   {
@@ -1279,6 +1318,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-golden-treasure/lesson.txt",
+    "wordCount": 3082,
     "suggestedNext": "/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/lesson.txt"
   },
   {
@@ -1287,6 +1327,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/lesson.txt",
+    "wordCount": 2742,
     "suggestedNext": "/stories/hans-christian-andersen/the-butterfly/lesson.txt"
   },
   {
@@ -1295,6 +1336,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-butterfly/lesson.txt",
+    "wordCount": 965,
     "suggestedNext": "/stories/hans-christian-andersen/she-was-good-for-nothing/lesson.txt"
   },
   {
@@ -1303,6 +1345,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/she-was-good-for-nothing/lesson.txt",
+    "wordCount": 3013,
     "suggestedNext": "/stories/hans-christian-andersen/the-top-and-ball/lesson.txt"
   },
   {
@@ -1311,6 +1354,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-top-and-ball/lesson.txt",
+    "wordCount": 896,
     "suggestedNext": "/stories/hans-christian-andersen/the-phoenix-bird/lesson.txt"
   },
   {
@@ -1319,6 +1363,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-phoenix-bird/lesson.txt",
+    "wordCount": 499,
     "suggestedNext": "/stories/hans-christian-andersen/the-little-elder-tree-mother/lesson.txt"
   },
   {
@@ -1327,6 +1372,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-little-elder-tree-mother/lesson.txt",
+    "wordCount": 2974,
     "suggestedNext": "/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/lesson.txt"
   },
   {
@@ -1335,6 +1381,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/lesson.txt",
+    "wordCount": 820,
     "suggestedNext": "/stories/hans-christian-andersen/the-elf-of-the-rose/lesson.txt"
   },
   {
@@ -1343,6 +1390,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-elf-of-the-rose/lesson.txt",
+    "wordCount": 1985,
     "suggestedNext": "/stories/hans-christian-andersen/the-goblin-and-the-huckster/lesson.txt"
   },
   {
@@ -1351,6 +1399,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-goblin-and-the-huckster/lesson.txt",
+    "wordCount": 1536,
     "suggestedNext": "/stories/hans-christian-andersen/two-maidens/lesson.txt"
   },
   {
@@ -1359,6 +1408,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/two-maidens/lesson.txt",
+    "wordCount": 663,
     "suggestedNext": "/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/lesson.txt"
   },
   {
@@ -1367,6 +1417,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/lesson.txt",
+    "wordCount": 849,
     "suggestedNext": "/stories/hans-christian-andersen/the-toad/lesson.txt"
   },
   {
@@ -1375,6 +1426,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-toad/lesson.txt",
+    "wordCount": 2829,
     "suggestedNext": "/stories/hans-christian-andersen/the-sunbeam-and-the-captive/lesson.txt"
   },
   {
@@ -1383,6 +1435,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-sunbeam-and-the-captive/lesson.txt",
+    "wordCount": 364,
     "suggestedNext": "/stories/hans-christian-andersen/the-old-grave-stone/lesson.txt"
   },
   {
@@ -1391,6 +1444,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-old-grave-stone/lesson.txt",
+    "wordCount": 1276,
     "suggestedNext": "/stories/hans-christian-andersen/the-saucy-boy/lesson.txt"
   },
   {
@@ -1399,6 +1453,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-saucy-boy/lesson.txt",
+    "wordCount": 762,
     "suggestedNext": "/stories/hans-christian-andersen/the-last-pearl/lesson.txt"
   },
   {
@@ -1407,6 +1462,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-last-pearl/lesson.txt",
+    "wordCount": 948,
     "suggestedNext": "/stories/hans-christian-andersen/something/lesson.txt"
   },
   {
@@ -1415,6 +1471,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/something/lesson.txt",
+    "wordCount": 2778,
     "suggestedNext": "/stories/hans-christian-andersen/the-bell/lesson.txt"
   },
   {
@@ -1423,6 +1480,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-bell/lesson.txt",
+    "wordCount": 1959,
     "suggestedNext": "/stories/hans-christian-andersen/grandmother/lesson.txt"
   },
   {
@@ -1431,6 +1489,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/grandmother/lesson.txt",
+    "wordCount": 734,
     "suggestedNext": "/stories/hans-christian-andersen/the-flax/lesson.txt"
   },
   {
@@ -1439,6 +1498,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-flax/lesson.txt",
+    "wordCount": 1732,
     "suggestedNext": "/stories/hans-christian-andersen/the-flying-trunk/lesson.txt"
   },
   {
@@ -1447,6 +1507,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-flying-trunk/lesson.txt",
+    "wordCount": 2194,
     "suggestedNext": "/stories/hans-christian-andersen/the-storks/lesson.txt"
   },
   {
@@ -1455,14 +1516,16 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-storks/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town--says-the-moor-woman/lesson.txt"
+    "wordCount": 1883,
+    "suggestedNext": "/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town-says-the-moor-woman/lesson.txt"
   },
   {
     "title": "The Will-O-the Wisp Is in the Town, Says the Moor Woman",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town--says-the-moor-woman/lesson.txt",
+    "path": "/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town-says-the-moor-woman/lesson.txt",
+    "wordCount": 4585,
     "suggestedNext": "/stories/hans-christian-andersen/the-snow-man/lesson.txt"
   },
   {
@@ -1471,6 +1534,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-snow-man/lesson.txt",
+    "wordCount": 1963,
     "suggestedNext": "/stories/hans-christian-andersen/the-silver-shilling/lesson.txt"
   },
   {
@@ -1479,6 +1543,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-silver-shilling/lesson.txt",
+    "wordCount": 1903,
     "suggestedNext": "/stories/hans-christian-andersen/the-snowdrop/lesson.txt"
   },
   {
@@ -1487,6 +1552,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-snowdrop/lesson.txt",
+    "wordCount": 1497,
     "suggestedNext": "/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/lesson.txt"
   },
   {
@@ -1495,6 +1561,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/lesson.txt",
+    "wordCount": 2220,
     "suggestedNext": "/stories/hans-christian-andersen/holger-danske/lesson.txt"
   },
   {
@@ -1503,6 +1570,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/holger-danske/lesson.txt",
+    "wordCount": 1743,
     "suggestedNext": "/stories/hans-christian-andersen/little-tuk/lesson.txt"
   },
   {
@@ -1511,6 +1579,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/little-tuk/lesson.txt",
+    "wordCount": 1583,
     "suggestedNext": "/stories/hans-christian-andersen/ib-and-little-christina/lesson.txt"
   },
   {
@@ -1519,6 +1588,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/ib-and-little-christina/lesson.txt",
+    "wordCount": 4737,
     "suggestedNext": "/stories/hans-christian-andersen/the-happy-family/lesson.txt"
   },
   {
@@ -1527,6 +1597,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-happy-family/lesson.txt",
+    "wordCount": 1303,
     "suggestedNext": "/stories/hans-christian-andersen/the-old-church-bell/lesson.txt"
   },
   {
@@ -1535,14 +1606,16 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-old-church-bell/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/little-ida-s-flowers/lesson.txt"
+    "wordCount": 2053,
+    "suggestedNext": "/stories/hans-christian-andersen/little-idas-flowers/lesson.txt"
   },
   {
     "title": "Little Ida's Flowers",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/little-ida-s-flowers/lesson.txt",
+    "path": "/stories/hans-christian-andersen/little-idas-flowers/lesson.txt",
+    "wordCount": 2945,
     "suggestedNext": "/stories/hans-christian-andersen/our-aunt/lesson.txt"
   },
   {
@@ -1551,6 +1624,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/our-aunt/lesson.txt",
+    "wordCount": 2295,
     "suggestedNext": "/stories/hans-christian-andersen/the-races/lesson.txt"
   },
   {
@@ -1559,6 +1633,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-races/lesson.txt",
+    "wordCount": 1199,
     "suggestedNext": "/stories/hans-christian-andersen/the-pen-and-the-inkstand/lesson.txt"
   },
   {
@@ -1567,6 +1642,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-pen-and-the-inkstand/lesson.txt",
+    "wordCount": 886,
     "suggestedNext": "/stories/hans-christian-andersen/the-little-match-seller/lesson.txt"
   },
   {
@@ -1575,6 +1651,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-little-match-seller/lesson.txt",
+    "wordCount": 989,
     "suggestedNext": "/stories/hans-christian-andersen/the-story-of-the-wind/lesson.txt"
   },
   {
@@ -1583,6 +1660,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-story-of-the-wind/lesson.txt",
+    "wordCount": 4313,
     "suggestedNext": "/stories/hans-christian-andersen/the-bell-deep/lesson.txt"
   },
   {
@@ -1591,14 +1669,16 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-bell-deep/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/the-thistle-s-experiences/lesson.txt"
+    "wordCount": 1297,
+    "suggestedNext": "/stories/hans-christian-andersen/the-thistles-experiences/lesson.txt"
   },
   {
     "title": "The Thistle's Experiences",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/the-thistle-s-experiences/lesson.txt",
+    "path": "/stories/hans-christian-andersen/the-thistles-experiences/lesson.txt",
+    "wordCount": 1437,
     "suggestedNext": "/stories/hans-christian-andersen/ole-the-tower-keeper/lesson.txt"
   },
   {
@@ -1607,6 +1687,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/ole-the-tower-keeper/lesson.txt",
+    "wordCount": 4157,
     "suggestedNext": "/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/lesson.txt"
   },
   {
@@ -1615,14 +1696,16 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/children-s-prattle/lesson.txt"
+    "wordCount": 2479,
+    "suggestedNext": "/stories/hans-christian-andersen/childrens-prattle/lesson.txt"
   },
   {
     "title": "Children's Prattle",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/children-s-prattle/lesson.txt",
+    "path": "/stories/hans-christian-andersen/childrens-prattle/lesson.txt",
+    "wordCount": 828,
     "suggestedNext": "/stories/hans-christian-andersen/the-story-of-the-year/lesson.txt"
   },
   {
@@ -1631,6 +1714,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-story-of-the-year/lesson.txt",
+    "wordCount": 3329,
     "suggestedNext": "/stories/hans-christian-andersen/the-money-box/lesson.txt"
   },
   {
@@ -1639,14 +1723,16 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-money-box/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/the-swan-s-nest/lesson.txt"
+    "wordCount": 965,
+    "suggestedNext": "/stories/hans-christian-andersen/the-swans-nest/lesson.txt"
   },
   {
     "title": "The Swan's Nest",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/the-swan-s-nest/lesson.txt",
+    "path": "/stories/hans-christian-andersen/the-swans-nest/lesson.txt",
+    "wordCount": 531,
     "suggestedNext": "/stories/hans-christian-andersen/by-the-almshouse-window/lesson.txt"
   },
   {
@@ -1655,6 +1741,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/by-the-almshouse-window/lesson.txt",
+    "wordCount": 672,
     "suggestedNext": "/stories/hans-christian-andersen/the-story-of-a-mother/lesson.txt"
   },
   {
@@ -1663,6 +1750,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-story-of-a-mother/lesson.txt",
+    "wordCount": 2032,
     "suggestedNext": "/stories/hans-christian-andersen/a-leaf-from-heaven/lesson.txt"
   },
   {
@@ -1671,6 +1759,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/a-leaf-from-heaven/lesson.txt",
+    "wordCount": 1038,
     "suggestedNext": "/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/lesson.txt"
   },
   {
@@ -1679,6 +1768,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/lesson.txt",
+    "wordCount": 905,
     "suggestedNext": "/stories/hans-christian-andersen/in-the-nursery/lesson.txt"
   },
   {
@@ -1687,6 +1777,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/in-the-nursery/lesson.txt",
+    "wordCount": 1138,
     "suggestedNext": "/stories/hans-christian-andersen/the-nightingale/lesson.txt"
   },
   {
@@ -1695,6 +1786,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-nightingale/lesson.txt",
+    "wordCount": 3537,
     "suggestedNext": "/stories/hans-christian-andersen/delaying-is-not-forgetting/lesson.txt"
   },
   {
@@ -1703,6 +1795,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/delaying-is-not-forgetting/lesson.txt",
+    "wordCount": 1052,
     "suggestedNext": "/stories/hans-christian-andersen/the-fir-tree/lesson.txt"
   },
   {
@@ -1711,6 +1804,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-fir-tree/lesson.txt",
+    "wordCount": 3236,
     "suggestedNext": "/stories/hans-christian-andersen/the-elfin-hill/lesson.txt"
   },
   {
@@ -1719,6 +1813,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-elfin-hill/lesson.txt",
+    "wordCount": 2497,
     "suggestedNext": "/stories/hans-christian-andersen/the-buckwheat/lesson.txt"
   },
   {
@@ -1727,6 +1822,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-buckwheat/lesson.txt",
+    "wordCount": 640,
     "suggestedNext": "/stories/hans-christian-andersen/the-jumper/lesson.txt"
   },
   {
@@ -1735,14 +1831,16 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-jumper/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/the-emperor-s-new-suit/lesson.txt"
+    "wordCount": 668,
+    "suggestedNext": "/stories/hans-christian-andersen/the-emperors-new-suit/lesson.txt"
   },
   {
     "title": "The Emperor's New Suit",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/the-emperor-s-new-suit/lesson.txt",
+    "path": "/stories/hans-christian-andersen/the-emperors-new-suit/lesson.txt",
+    "wordCount": 1584,
     "suggestedNext": "/stories/hans-christian-andersen/the-darning-needle/lesson.txt"
   },
   {
@@ -1751,6 +1849,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-darning-needle/lesson.txt",
+    "wordCount": 1191,
     "suggestedNext": "/stories/hans-christian-andersen/the-shadow/lesson.txt"
   },
   {
@@ -1759,6 +1858,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-shadow/lesson.txt",
+    "wordCount": 4934,
     "suggestedNext": "/stories/hans-christian-andersen/the-windmill/lesson.txt"
   },
   {
@@ -1767,6 +1867,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-windmill/lesson.txt",
+    "wordCount": 905,
     "suggestedNext": "/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/lesson.txt"
   },
   {
@@ -1775,6 +1876,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/lesson.txt",
+    "wordCount": 2075,
     "suggestedNext": "/stories/hans-christian-andersen/the-storm-shakes-the-shield/lesson.txt"
   },
   {
@@ -1783,6 +1885,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-storm-shakes-the-shield/lesson.txt",
+    "wordCount": 1629,
     "suggestedNext": "/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/lesson.txt"
   },
   {
@@ -1791,6 +1894,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/lesson.txt",
+    "wordCount": 1769,
     "suggestedNext": "/stories/hans-christian-andersen/little-claus-and-big-claus/lesson.txt"
   },
   {
@@ -1799,22 +1903,25 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/little-claus-and-big-claus/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/the-shepherd-s-story-of-the-bond-of-friendship/lesson.txt"
+    "wordCount": 4430,
+    "suggestedNext": "/stories/hans-christian-andersen/the-shepherds-story-of-the-bond-of-friendship/lesson.txt"
   },
   {
     "title": "The Shepherd's Story of the Bond of Friendship",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/the-shepherd-s-story-of-the-bond-of-friendship/lesson.txt",
-    "suggestedNext": "/stories/hans-christian-andersen/a-rose-from-homer-s-grave/lesson.txt"
+    "path": "/stories/hans-christian-andersen/the-shepherds-story-of-the-bond-of-friendship/lesson.txt",
+    "wordCount": 3265,
+    "suggestedNext": "/stories/hans-christian-andersen/a-rose-from-homers-grave/lesson.txt"
   },
   {
     "title": "A Rose From Homer's Grave",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
-    "path": "/stories/hans-christian-andersen/a-rose-from-homer-s-grave/lesson.txt",
+    "path": "/stories/hans-christian-andersen/a-rose-from-homers-grave/lesson.txt",
+    "wordCount": 488,
     "suggestedNext": "/stories/hans-christian-andersen/the-daisy/lesson.txt"
   },
   {
@@ -1823,6 +1930,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-daisy/lesson.txt",
+    "wordCount": 1454,
     "suggestedNext": "/stories/hans-christian-andersen/the-brave-tin-soldier/lesson.txt"
   },
   {
@@ -1831,6 +1939,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-brave-tin-soldier/lesson.txt",
+    "wordCount": 1732,
     "suggestedNext": "/stories/hans-christian-andersen/what-one-can-invent/lesson.txt"
   },
   {
@@ -1839,6 +1948,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/what-one-can-invent/lesson.txt",
+    "wordCount": 1267,
     "suggestedNext": "/stories/hans-christian-andersen/the-old-street-lamp/lesson.txt"
   },
   {
@@ -1847,6 +1957,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-old-street-lamp/lesson.txt",
+    "wordCount": 2822,
     "suggestedNext": "/stories/hans-christian-andersen/anne-lisbeth/lesson.txt"
   },
   {
@@ -1855,6 +1966,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/anne-lisbeth/lesson.txt",
+    "wordCount": 4364,
     "suggestedNext": "/stories/hans-christian-andersen/the-wicked-prince/lesson.txt"
   },
   {
@@ -1863,6 +1975,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-wicked-prince/lesson.txt",
+    "wordCount": 978,
     "suggestedNext": "/stories/hans-christian-andersen/in-a-thousand-years/lesson.txt"
   },
   {
@@ -1871,6 +1984,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/in-a-thousand-years/lesson.txt",
+    "wordCount": 731,
     "suggestedNext": "/stories/hans-christian-andersen/the-conceited-apple-branch/lesson.txt"
   },
   {
@@ -1879,6 +1993,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-conceited-apple-branch/lesson.txt",
+    "wordCount": 1348,
     "suggestedNext": "/stories/hans-christian-andersen/the-metal-pig/lesson.txt"
   },
   {
@@ -1887,6 +2002,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-metal-pig/lesson.txt",
+    "wordCount": 4217,
     "suggestedNext": "/stories/hans-christian-andersen/the-mail-coach-passengers/lesson.txt"
   },
   {
@@ -1895,6 +2011,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-mail-coach-passengers/lesson.txt",
+    "wordCount": 1628,
     "suggestedNext": "/stories/hans-christian-andersen/a-cheerful-temper/lesson.txt"
   },
   {
@@ -1903,6 +2020,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/a-cheerful-temper/lesson.txt",
+    "wordCount": 1591,
     "suggestedNext": "/stories/hans-christian-andersen/the-princess-and-the-pea/lesson.txt"
   },
   {
@@ -1911,6 +2029,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-princess-and-the-pea/lesson.txt",
+    "wordCount": 379,
     "suggestedNext": "/stories/hans-christian-andersen/the-bottle-neck/lesson.txt"
   },
   {
@@ -1919,6 +2038,7 @@
     "category": "Stories",
     "subcategory": "Hans Christian Andersen’s Fairy Tales",
     "path": "/stories/hans-christian-andersen/the-bottle-neck/lesson.txt",
+    "wordCount": 4375,
     "suggestedNext": "/stories/grimm/the-little-peasant/lesson.txt"
   },
   {
@@ -1927,6 +2047,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-little-peasant/lesson.txt",
+    "wordCount": 2069,
     "suggestedNext": "/stories/grimm/the-turnip/lesson.txt"
   },
   {
@@ -1935,6 +2056,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-turnip/lesson.txt",
+    "wordCount": 1153,
     "suggestedNext": "/stories/grimm/the-four-clever-brothers/lesson.txt"
   },
   {
@@ -1943,6 +2065,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-four-clever-brothers/lesson.txt",
+    "wordCount": 1698,
     "suggestedNext": "/stories/grimm/the-golden-goose/lesson.txt"
   },
   {
@@ -1951,6 +2074,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-golden-goose/lesson.txt",
+    "wordCount": 1582,
     "suggestedNext": "/stories/grimm/clever-hans/lesson.txt"
   },
   {
@@ -1959,6 +2083,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/clever-hans/lesson.txt",
+    "wordCount": 895,
     "suggestedNext": "/stories/grimm/the-elves-and-the-shoemaker/lesson.txt"
   },
   {
@@ -1967,6 +2092,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-elves-and-the-shoemaker/lesson.txt",
+    "wordCount": 743,
     "suggestedNext": "/stories/grimm/the-adventures-of-chanticleer-and-partlet/lesson.txt"
   },
   {
@@ -1975,6 +2101,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-adventures-of-chanticleer-and-partlet/lesson.txt",
+    "wordCount": 1871,
     "suggestedNext": "/stories/grimm/the-willow-wren-and-the-bear/lesson.txt"
   },
   {
@@ -1983,6 +2110,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-willow-wren-and-the-bear/lesson.txt",
+    "wordCount": 908,
     "suggestedNext": "/stories/grimm/fundevogel/lesson.txt"
   },
   {
@@ -1991,6 +2119,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/fundevogel/lesson.txt",
+    "wordCount": 938,
     "suggestedNext": "/stories/grimm/clever-elsie/lesson.txt"
   },
   {
@@ -1999,6 +2128,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/clever-elsie/lesson.txt",
+    "wordCount": 1335,
     "suggestedNext": "/stories/grimm/the-fox-and-the-horse/lesson.txt"
   },
   {
@@ -2007,6 +2137,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-fox-and-the-horse/lesson.txt",
+    "wordCount": 490,
     "suggestedNext": "/stories/grimm/the-blue-light/lesson.txt"
   },
   {
@@ -2015,6 +2146,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-blue-light/lesson.txt",
+    "wordCount": 1739,
     "suggestedNext": "/stories/grimm/the-valiant-little-tailor/lesson.txt"
   },
   {
@@ -2023,6 +2155,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-valiant-little-tailor/lesson.txt",
+    "wordCount": 3336,
     "suggestedNext": "/stories/grimm/the-fox-and-the-cat/lesson.txt"
   },
   {
@@ -2031,6 +2164,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-fox-and-the-cat/lesson.txt",
+    "wordCount": 292,
     "suggestedNext": "/stories/grimm/the-water-of-life/lesson.txt"
   },
   {
@@ -2039,6 +2173,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-water-of-life/lesson.txt",
+    "wordCount": 2822,
     "suggestedNext": "/stories/grimm/hansel-and-gretel/lesson.txt"
   },
   {
@@ -2047,6 +2182,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/hansel-and-gretel/lesson.txt",
+    "wordCount": 2929,
     "suggestedNext": "/stories/grimm/the-wedding-of-mrs-fox/lesson.txt"
   },
   {
@@ -2055,6 +2191,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-wedding-of-mrs-fox/lesson.txt",
+    "wordCount": 785,
     "suggestedNext": "/stories/grimm/the-wolf-and-the-seven-little-kids/lesson.txt"
   },
   {
@@ -2063,6 +2200,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-wolf-and-the-seven-little-kids/lesson.txt",
+    "wordCount": 1099,
     "suggestedNext": "/stories/grimm/the-twelve-huntsmen/lesson.txt"
   },
   {
@@ -2071,6 +2209,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-twelve-huntsmen/lesson.txt",
+    "wordCount": 1059,
     "suggestedNext": "/stories/grimm/clever-gretel/lesson.txt"
   },
   {
@@ -2079,6 +2218,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/clever-gretel/lesson.txt",
+    "wordCount": 932,
     "suggestedNext": "/stories/grimm/hans-in-luck/lesson.txt"
   },
   {
@@ -2087,6 +2227,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/hans-in-luck/lesson.txt",
+    "wordCount": 2351,
     "suggestedNext": "/stories/grimm/the-fisherman-and-his-wife/lesson.txt"
   },
   {
@@ -2095,6 +2236,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-fisherman-and-his-wife/lesson.txt",
+    "wordCount": 2115,
     "suggestedNext": "/stories/grimm/sweetheart-roland/lesson.txt"
   },
   {
@@ -2103,6 +2245,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/sweetheart-roland/lesson.txt",
+    "wordCount": 1473,
     "suggestedNext": "/stories/grimm/the-goose-girl/lesson.txt"
   },
   {
@@ -2111,6 +2254,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-goose-girl/lesson.txt",
+    "wordCount": 2220,
     "suggestedNext": "/stories/grimm/jorinda-and-jorindel/lesson.txt"
   },
   {
@@ -2119,6 +2263,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/jorinda-and-jorindel/lesson.txt",
+    "wordCount": 1133,
     "suggestedNext": "/stories/grimm/the-miser-in-the-bush/lesson.txt"
   },
   {
@@ -2127,6 +2272,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-miser-in-the-bush/lesson.txt",
+    "wordCount": 1166,
     "suggestedNext": "/stories/grimm/the-old-man-and-his-grandson/lesson.txt"
   },
   {
@@ -2135,6 +2281,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-old-man-and-his-grandson/lesson.txt",
+    "wordCount": 249,
     "suggestedNext": "/stories/grimm/iron-hans/lesson.txt"
   },
   {
@@ -2143,6 +2290,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/iron-hans/lesson.txt",
+    "wordCount": 3208,
     "suggestedNext": "/stories/grimm/lily-and-the-lion/lesson.txt"
   },
   {
@@ -2151,6 +2299,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/lily-and-the-lion/lesson.txt",
+    "wordCount": 2336,
     "suggestedNext": "/stories/grimm/snow-white-and-rose-red/lesson.txt"
   },
   {
@@ -2159,6 +2308,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/snow-white-and-rose-red/lesson.txt",
+    "wordCount": 2421,
     "suggestedNext": "/stories/grimm/the-travelling-musicians/lesson.txt"
   },
   {
@@ -2167,14 +2317,16 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-travelling-musicians/lesson.txt",
-    "suggestedNext": "/stories/grimm/the-mouse--the-bird--and-the-sausage/lesson.txt"
+    "wordCount": 1361,
+    "suggestedNext": "/stories/grimm/the-mouse-the-bird-and-the-sausage/lesson.txt"
   },
   {
     "title": "The Mouse, the Bird, and the Sausage",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
-    "path": "/stories/grimm/the-mouse--the-bird--and-the-sausage/lesson.txt",
+    "path": "/stories/grimm/the-mouse-the-bird-and-the-sausage/lesson.txt",
+    "wordCount": 704,
     "suggestedNext": "/stories/grimm/the-golden-bird/lesson.txt"
   },
   {
@@ -2183,6 +2335,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-golden-bird/lesson.txt",
+    "wordCount": 2527,
     "suggestedNext": "/stories/grimm/the-queen-bee/lesson.txt"
   },
   {
@@ -2191,6 +2344,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-queen-bee/lesson.txt",
+    "wordCount": 850,
     "suggestedNext": "/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/lesson.txt"
   },
   {
@@ -2199,6 +2353,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/lesson.txt",
+    "wordCount": 3780,
     "suggestedNext": "/stories/grimm/doctor-knowall/lesson.txt"
   },
   {
@@ -2207,6 +2362,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/doctor-knowall/lesson.txt",
+    "wordCount": 778,
     "suggestedNext": "/stories/grimm/tom-thumb/lesson.txt"
   },
   {
@@ -2215,6 +2371,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/tom-thumb/lesson.txt",
+    "wordCount": 2501,
     "suggestedNext": "/stories/grimm/briar-rose/lesson.txt"
   },
   {
@@ -2223,6 +2380,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/briar-rose/lesson.txt",
+    "wordCount": 1510,
     "suggestedNext": "/stories/grimm/rapunzel/lesson.txt"
   },
   {
@@ -2231,6 +2389,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/rapunzel/lesson.txt",
+    "wordCount": 1401,
     "suggestedNext": "/stories/grimm/cat-skin/lesson.txt"
   },
   {
@@ -2239,14 +2398,16 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/cat-skin/lesson.txt",
-    "suggestedNext": "/stories/grimm/the-straw--the-coal--and-the-bean/lesson.txt"
+    "wordCount": 2125,
+    "suggestedNext": "/stories/grimm/the-straw-the-coal-and-the-bean/lesson.txt"
   },
   {
     "title": "The Straw, the Coal, and the Bean",
     "subtitle": "",
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
-    "path": "/stories/grimm/the-straw--the-coal--and-the-bean/lesson.txt",
+    "path": "/stories/grimm/the-straw-the-coal-and-the-bean/lesson.txt",
+    "wordCount": 503,
     "suggestedNext": "/stories/grimm/the-white-snake/lesson.txt"
   },
   {
@@ -2255,6 +2416,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-white-snake/lesson.txt",
+    "wordCount": 1601,
     "suggestedNext": "/stories/grimm/old-sultan/lesson.txt"
   },
   {
@@ -2263,6 +2425,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/old-sultan/lesson.txt",
+    "wordCount": 870,
     "suggestedNext": "/stories/grimm/the-frog-prince/lesson.txt"
   },
   {
@@ -2271,6 +2434,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-frog-prince/lesson.txt",
+    "wordCount": 1192,
     "suggestedNext": "/stories/grimm/the-three-languages/lesson.txt"
   },
   {
@@ -2279,6 +2443,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-three-languages/lesson.txt",
+    "wordCount": 946,
     "suggestedNext": "/stories/grimm/rumpelstiltskin/lesson.txt"
   },
   {
@@ -2287,6 +2452,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/rumpelstiltskin/lesson.txt",
+    "wordCount": 1138,
     "suggestedNext": "/stories/grimm/king-grisly-beard/lesson.txt"
   },
   {
@@ -2295,6 +2461,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/king-grisly-beard/lesson.txt",
+    "wordCount": 1469,
     "suggestedNext": "/stories/grimm/the-twelve-dancing-princesses/lesson.txt"
   },
   {
@@ -2303,6 +2470,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-twelve-dancing-princesses/lesson.txt",
+    "wordCount": 1601,
     "suggestedNext": "/stories/grimm/the-king-of-the-golden-mountain/lesson.txt"
   },
   {
@@ -2311,6 +2479,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-king-of-the-golden-mountain/lesson.txt",
+    "wordCount": 2468,
     "suggestedNext": "/stories/grimm/snowdrop/lesson.txt"
   },
   {
@@ -2319,6 +2488,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/snowdrop/lesson.txt",
+    "wordCount": 2380,
     "suggestedNext": "/stories/grimm/the-dog-and-the-sparrow/lesson.txt"
   },
   {
@@ -2327,6 +2497,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-dog-and-the-sparrow/lesson.txt",
+    "wordCount": 1342,
     "suggestedNext": "/stories/grimm/cat-and-mouse-in-partnership/lesson.txt"
   },
   {
@@ -2335,6 +2506,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/cat-and-mouse-in-partnership/lesson.txt",
+    "wordCount": 975,
     "suggestedNext": "/stories/grimm/the-raven/lesson.txt"
   },
   {
@@ -2343,6 +2515,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-raven/lesson.txt",
+    "wordCount": 2412,
     "suggestedNext": "/stories/grimm/mother-holle/lesson.txt"
   },
   {
@@ -2351,6 +2524,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/mother-holle/lesson.txt",
+    "wordCount": 2651,
     "suggestedNext": "/stories/grimm/the-juniper-tree/lesson.txt"
   },
   {
@@ -2359,6 +2533,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-juniper-tree/lesson.txt",
+    "wordCount": 3077,
     "suggestedNext": "/stories/grimm/frederick-and-catherine/lesson.txt"
   },
   {
@@ -2367,6 +2542,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/frederick-and-catherine/lesson.txt",
+    "wordCount": 1902,
     "suggestedNext": "/stories/grimm/the-pink/lesson.txt"
   },
   {
@@ -2375,6 +2551,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-pink/lesson.txt",
+    "wordCount": 1800,
     "suggestedNext": "/stories/grimm/ashputtel/lesson.txt"
   },
   {
@@ -2383,6 +2560,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/ashputtel/lesson.txt",
+    "wordCount": 2563,
     "suggestedNext": "/stories/grimm/the-seven-ravens/lesson.txt"
   },
   {
@@ -2391,6 +2569,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-seven-ravens/lesson.txt",
+    "wordCount": 1008,
     "suggestedNext": "/stories/grimm/the-robber-bridegroom/lesson.txt"
   },
   {
@@ -2399,6 +2578,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-robber-bridegroom/lesson.txt",
+    "wordCount": 1474,
     "suggestedNext": "/stories/grimm/the-salad/lesson.txt"
   },
   {
@@ -2407,6 +2587,7 @@
     "category": "Stories",
     "subcategory": "Grimms’ Fairy Tales",
     "path": "/stories/grimm/the-salad/lesson.txt",
+    "wordCount": 2189,
     "suggestedNext": "/stories/fables/androcles/lesson.txt"
   },
   {

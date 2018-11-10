@@ -30,7 +30,7 @@ The Old Street Lamp
 'to': TO
 'it.': T TP-PL
 'It': T
-'was': WA
+'was': WAS
 'a': AEU
 'most': PHOFT
 'respectable': R-PT/-BL
@@ -46,16 +46,16 @@ The Old Street Lamp
 'service,': S-FS KW-BG
 'and': SKP
 'now': TPHOU
-'was': WA
+'was': WAS
 'to': TO
 'retire': RAO*EUR
 'with': W
 'a': AEU
 'pension.': PEPBGS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'this': TH
-'evening': AOEPG
+'evening': AOEPBG
 'at': AT
 'its': EUTS
 'post': POEFT
@@ -80,7 +80,7 @@ The Old Street Lamp
 'dancer': TKARPBS
 'at': AT
 'the': -T
-'theatre,': THAOERT KW-BG
+'theatre,': THAO*ERT KW-BG
 'who': WHO
 'is': S
 'dancing': TKAPBS/-G
@@ -114,16 +114,16 @@ The Old Street Lamp
 'next': TPHEGT
 'day,': TKAEU KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'knew': TPHAOU
 'that': THA
-'he': E
+'he': HE
 'had': H
 'to': TO
 'appear': A/PAOER
 'for': TPOR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'time': TAOEUPL
 'at': AT
 'the': -T
@@ -134,16 +134,16 @@ The Old Street Lamp
 'inspected': TPH-PD
 'by': PWEU
 'the': -T
-'mayor': PHAEUR
+'mayor': PHA*EUR
 'and': SKP
 'the': -T
 'council,': KUPB/SEUL KW-BG
 'who': WHO
 'were': WR
 'to': TO
-'decide': TK-DZ
+'decide': STKAOEUD
 'if': TP
-'he': E
+'he': HE
 'were': WR
 'fit': TPEUT
 'for': TPOR
@@ -153,7 +153,7 @@ The Old Street Lamp
 'not;—whether': TPHOT STPH*FPLT EPL/TKA*RB WHR
 'the': -T
 'lamp': HRAFRP
-'was': WA
+'was': WAS
 'good': TKPWAOD
 'enough': TPHUF
 'to': TO
@@ -203,12 +203,12 @@ The Old Street Lamp
 'into': TPHAO
 'anything,': TPHEUG KW-BG
 'and': SKP
-'he': E
+'he': HE
 'wondered': WOPBD/-D
 'very': SRE
 'much': PHUFP
 'whether': WHR
-'he': E
+'he': HE
 'would': WO
 'then': THEPB
 'be': -B
@@ -216,7 +216,7 @@ The Old Street Lamp
 'to': TO
 'remember': REB
 'that': THA
-'he': E
+'he': HE
 'had': H
 'once': WUPBS
 'been': PW-PB
@@ -236,7 +236,7 @@ The Old Street Lamp
 'seemed': SAOEPLD
 'certain,': SERPB KW-BG
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'be': -B
 'separated': SERPTD
@@ -248,7 +248,7 @@ The Old Street Lamp
 'wife,': WAOEUF KW-BG
 'whose': WHOZ
 'family': TPAEPL
-'he': E
+'he': HE
 'looked': HRAOBGD
 'upon': POPB
 'as': AZ
@@ -257,14 +257,14 @@ The Old Street Lamp
 'The': -T
 'lamp': HRAFRP
 'had': H
-'first': TPEURS
+'first': TPEUFRT
 'been': PW-PB
 'hung': HUPBG
 'up': UP
 'on': OPB
 'that': THA
 'very': SRE
-'evening': AOEPG
+'evening': AOEPBG
 'that': THA
 'the': -T
 'watchman,': WAFP/PHAPB KW-BG
@@ -284,7 +284,7 @@ The Old Street Lamp
 'Ah,': HA*E KW-BG
 'well,': WEL KW-BG
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'very': SRE
 'long': HROPBG
@@ -323,7 +323,7 @@ The Old Street Lamp
 'by': PWEU
 'in': TPH
 'the': -T
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'never': TPHEF
 'in': TPH
 'the': -T
@@ -378,9 +378,9 @@ The Old Street Lamp
 'for': TPOR
 'it.': T TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'the': -T
-'lamp's': HRAFRP AE S*/SP-S
+'lamp's': HRAFRP AES
 'last': HRAFT
 'night': TPHAOEUT
 'in': TPH
@@ -388,7 +388,7 @@ The Old Street Lamp
 'street,': STRAOET KW-BG
 'and': SKP
 'to-morrow': TO H-PB PHOR/ROE
-'he': E
+'he': HE
 'must': PHUFT
 'go': TKPW
 'to': TO
@@ -399,10 +399,10 @@ The Old Street Lamp
 'things': THEUPBGS
 'to': TO
 'think': THEU
-'of.': -F TP-PL
+'of.': -F/TP-PL
 'No': TPHO
 'wonder': WOPBD
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'burn': PWURPB
@@ -418,7 +418,7 @@ The Old Street Lamp
 'How': HOU
 'many': PHAEPB
 'persons': PERPBZ
-'he': E
+'he': HE
 'had': H
 'lighted': HRAOEUT/-D
 'on': OPB
@@ -427,16 +427,16 @@ The Old Street Lamp
 'and': SKP
 'how': HOU
 'much': PHUFP
-'he': E
+'he': HE
 'had': H
 'seen;': SAOEPB STPH*FPLT
 'as': AZ
 'much,': PHUFP KW-BG
 'very': SRE
-'likely,': HREULG KW-BG
+'likely,': HRAOEULG KW-BG
 'as': AZ
 'the': -T
-'mayor': PHAEUR
+'mayor': PHA*EUR
 'and': SKP
 'corporation': KORPGS
 'themselves!': TH*EPLS SKHRAPL
@@ -449,8 +449,8 @@ The Old Street Lamp
 'aloud,': A/HROUD KW-BG
 'however;': HOUF STPH*FPLT
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'a': AEU
 'good,': TKPWAOD KW-BG
 'honorable': HOPB/RABL
@@ -485,8 +485,8 @@ The Old Street Lamp
 'up': UP
 'with': W
 'sudden': SUD
-'brightness;': XXX brightness STPH*FPLT
-'he': E
+'brightness;': PWRAOEUT/-PBS STPH*FPLT
+'he': HE
 'had,': H KW-BG
 'at': AT
 'such': SUFP
@@ -494,19 +494,19 @@ The Old Street Lamp
 'a': AEU
 'conviction': K-FBGS
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'be': -B
 'remembered.': RERD TP-PL
 '"There': KR-GS THR
-'was': WA
+'was': WAS
 'a': AEU
 'handsome': HAPBD/SOPL
 'young': KWRUPBG
 'man': PHAPB
 'once,"': WUPBS KW-BG KR-GS
 'thought': THAUT
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 '"it': KR-GS T
 'is': S
 'certainly': SERPBL
@@ -517,7 +517,7 @@ The Old Street Lamp
 'but': PWUT
 'I': EU
 'remember': REB
-'he': E
+'he': HE
 'had': H
 'a': AEU
 'little': HREUL
@@ -532,14 +532,14 @@ The Old Street Lamp
 'edge;': EPBG STPH*FPLT
 'the': -T
 'writing': WREUG
-'was': WA
+'was': WAS
 'elegant,': EL/TKPWAPBT KW-BG
 'evidently': AEFD/HREU
 'a': AEU
-'lady's': HRA*ED AE S*/SP-S
+'lady's': HRAEUD/KWREU/AES
 'hand:': HAPBD STPH-FPLT
 'twice': TWAOEUS
-'he': E
+'he': HE
 'read': RAED
 'it': T
 'through,': THRU KW-BG
@@ -565,17 +565,17 @@ The Old Street Lamp
 'of': -F
 'men!'': PHEPB SKHRAPL AE
 'Only': OEPBL
-'he': E
+'he': HE
 'and': SKP
 'I': EU
 'know': TPHOE
 'what': WHA
-'was': WA
+'was': WAS
 'written': WREUPB
 'on': OPB
 'this': TH
 'his': HEUS
-'first': TPEURS
+'first': TPEUFRT
 'letter': HRERT
 'from': TPR
 'his': HEUS
@@ -584,7 +584,7 @@ The Old Street Lamp
 'yes,': KWRE KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'another': TPHOER
 'pair': PAEUR
 'of': -F
@@ -593,7 +593,7 @@ The Old Street Lamp
 'I': EU
 'remember,—it': REB KW-BG EPL/TKA*RB T
 'is': S
-'really': HROERL
+'really': R-L
 'wonderful': WUFL
 'how': HOU
 'the': -T
@@ -604,7 +604,7 @@ The Old Street Lamp
 'thing': THEUPBG
 'to': TO
 'another!': TPHOER SKHRAPL
-'A': AEU
+'A': KPA*/AEU
 'funeral': TPAOUPBL
 'passed': PAFD
 'through': THRU
@@ -645,7 +645,7 @@ The Old Street Lamp
 'houses,': HO*UFS KW-BG
 'in': TPH
 'crowds,': KROUDZ KW-BG
-'ready': R*ED
+'ready': R-D
 'to': TO
 'join': SKWROEUPB
 'the': -T
@@ -710,7 +710,7 @@ The Old Street Lamp
 'The': -T
 'sentry,': SEPBT/REU KW-BG
 'when': WHEPB
-'he': E
+'he': HE
 'is': S
 'relieved': RE/HREFD
 'from': TPR
@@ -738,9 +738,9 @@ The Old Street Lamp
 'not': TPHOT
 'know': TPHOE
 'his': HEUS
-'successor,': SUBG/SES/SOR KW-BG
+'successor,': SUBG/SES/O*R KW-BG
 'or': OR
-'he': E
+'he': HE
 'could': KO
 'have': SR
 'given': TKPWEUFPB
@@ -760,7 +760,7 @@ The Old Street Lamp
 'how': HOU
 'far': TPAR
 'the': -T
-'moon's': PHAOPB AE S*/SP-S
+'moon's': PHAOPB AES
 'rays': RA*ES
 'would': WO
 'rest': REFT
@@ -798,20 +798,20 @@ The Old Street Lamp
 'for': TPOR
 'they': THE
 'thought': THAUT
-'he': E
+'he': HE
 'could': KO
 'give': TKPWEUF
 'the': -T
 'office': OFS
 'to': TO
 'whomsoever': WHOPL/SOFR
-'he': E
+'he': HE
 'chose.': KHOES TP-PL
 'The': -T
-'first': TPEURS
-'was': WA
+'first': TPEUFRT
+'was': WAS
 'a': AEU
-'herring's': HER/-G AE S*/SP-S
+'herring's': HER/-G AES
 'head,': HED KW-BG
 'which': WEU
 'could': KO
@@ -820,7 +820,7 @@ The Old Street Lamp
 'in': TPH
 'the': -T
 'darkness.': TKARBG/-PBS TP-PL
-'He': E
+'He': HE
 'remarked': RARBGD
 'that': THA
 'it': T
@@ -840,7 +840,7 @@ The Old Street Lamp
 'lamp-post.': HRAFRP H-PB POEFT TP-PL
 'Number': TPHUPL
 'two': TWO
-'was': WA
+'was': WAS
 'a': AEU
 'piece': PAOES
 'of': -F
@@ -852,7 +852,7 @@ The Old Street Lamp
 'in': TPH
 'the': -T
 'dark.': TKARBG TP-PL
-'He': E
+'He': HE
 'considered': KR-D
 'himself': H*EUPLS
 'descended': TKAOE/SEPBD/-D
@@ -868,12 +868,12 @@ The Old Street Lamp
 'forest.': TPOEFRT TP-PL
 'The': -T
 'third': THEURD
-'was': WA
+'was': WAS
 'a': AEU
 'glow-worm,': TKPWHROE H-PB WORPL KW-BG
 'and': SKP
 'how': HOU
-'he': E
+'he': HE
 'found': TPOUPBD
 'his': HEUS
 'way': WAEU
@@ -885,11 +885,11 @@ The Old Street Lamp
 'imagine,': PHAPBLG KW-BG
 'yet': KWRET
 'there': THR
-'he': E
-'was,': WA KW-BG
+'he': HE
+'was,': WAS KW-BG
 'and': SKP
 'could': KO
-'really': HROERL
+'really': R-L
 'give': TKPWEUF
 'light': HRAOEUT
 'as': AZ
@@ -903,7 +903,7 @@ The Old Street Lamp
 'wood': WAOD
 'and': SKP
 'the': -T
-'herring's': HER/-G AE S*/SP-S
+'herring's': HER/-G AES
 'head': HED
 'declared': TKE/KHRAEURD
 'most': PHOFT
@@ -958,22 +958,22 @@ The Old Street Lamp
 'would': WO
 'believe': PWHREF
 'nothing': TPHOG
-'he': E
+'he': HE
 'said.': SAEUD TP-PL
 'And': SKP
 'when': WHEPB
 'they': THE
 'discovered': SKOFD
 'that': THA
-'he': E
+'he': HE
 'had': H
 'not': TPHOT
 'the': -T
 'power': POUR
 'of': -F
-'naming': TPHAEUPL/-G
+'naming': TPH*P/A*/PH*/-G
 'his': HEUS
-'successor,': SUBG/SES/SOR KW-BG
+'successor,': SUBG/SES/O*R KW-BG
 'they': THE
 'said': SAEUD
 'they': THE
@@ -986,7 +986,7 @@ The Old Street Lamp
 'for': TPOR
 'the': -T
 'lamp': HRAFRP
-'was': WA
+'was': WAS
 'too': TAO
 'old': OLD
 'and': SKP
@@ -995,7 +995,7 @@ The Old Street Lamp
 'make': PHAEUBG
 'a': AEU
 'proper': PROR
-'choice.': KHOUS TP-PL
+'choice.': KHOEUS TP-PL
 'At': AT
 'this': TH
 'moment': PHOEPLT
@@ -1023,7 +1023,7 @@ The Old Street Lamp
 'I': EU
 'hear?"': HAER H-F KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 '"that': KR-GS THA
 'you': U
 'are': R
@@ -1032,7 +1032,7 @@ The Old Street Lamp
 'to-morrow?': TO H-PB PHOR/ROE H-F
 'Is': S
 'this': TH
-'evening': AOEPG
+'evening': AOEPBG
 'the': -T
 'last': HRAFT
 'time': TAOEUPL
@@ -1072,7 +1072,7 @@ The Old Street Lamp
 'have': SR
 'seen': SAOEPB
 'or': OR
-'heard': HERD
+'heard': HAERD
 'in': TPH
 'the': -T
 'past,': PAFT KW-BG
@@ -1100,10 +1100,10 @@ The Old Street Lamp
 'in': TPH
 'your': KWROUR
 'presence."': PREPBS TP-PL KR-GS
-'"Oh,': KR-GS O*ERBGS KW-BG
+'"Oh,': KR-GS O*E KW-BG
 'that': THA
 'is': S
-'really': HROERL
+'really': R-L
 'a': AEU
 'very,': SRE KW-BG
 'very': SRE
@@ -1130,7 +1130,7 @@ The Old Street Lamp
 '"That': KR-GS THA
 'is': S
 'not': TPHOT
-'likely': HREULG
+'likely': HRAOEULG
 'to': TO
 'happen': HAP
 'yet,"': KWRET KW-BG KR-GS
@@ -1257,7 +1257,7 @@ The Old Street Lamp
 'saved': SAFD
 'from': TPR
 'further': TPURT
-'importunities.': XXX importunities TP-PL
+'importunities.': xxx importunities TP-PL
 'Just': SKWRUFT
 'then': THEPB
 'a': AEU
@@ -1277,8 +1277,8 @@ The Old Street Lamp
 'drop': TKROP
 'explained': SPHRAEUPBD
 'that': THA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'a': AEU
 'gift': TKPWEUFT
 'from': TPR
@@ -1298,7 +1298,7 @@ The Old Street Lamp
 'you': U
 'so': SO
 'thoroughly,"': THORL KW-BG KR-GS
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 '"that': KR-GS THA
 'you': U
@@ -1329,7 +1329,7 @@ The Old Street Lamp
 'lamp': HRAFRP
 'a': AEU
 'very': SRE
-'shabby': SHAB/PWEU
+'shabby': SHAB/KWREU
 'present,': PREPBT KW-BG
 'and': SKP
 'the': -T
@@ -1369,25 +1369,25 @@ The Old Street Lamp
 'down,': TKOUPB KW-BG
 'leaving': HREFG
 'a': AEU
-'broad,': PWROD KW-BG
+'broad,': PWRAOD KW-BG
 'luminous': HRAOUPL/TPHUS
 'streak': STRAOEBG
 'behind': HEUPBD
 'it.': T TP-PL
 '"What': KR-GS WHA
-'was': WA
+'was': WAS
 'that?"': THA H-F KR-GS
 'cried': KRAOEUD
 'the': -T
-'herring's': HER/-G AE S*/SP-S
+'herring's': HER/-G AES
 'head.': HED TP-PL
 '"Did': KR-GS TK
 'not': TPHOT
 'a': AEU
 'star': STAR
-'fall?': TPAL H-F
+'fall?': TPAUL H-F
 'I': EU
-'really': HROERL
+'really': R-L
 'believe': PWHREF
 'it': T
 'went': WEPBT
@@ -1398,7 +1398,7 @@ The Old Street Lamp
 'when': WHEPB
 'such': SUFP
 'high-born': HAOEU H-PB PWORPB
-'personages': XXX personages
+'personages': PERPB/APBLG/-S
 'try': TREU
 'for': TPOR
 'the': -T
@@ -1436,12 +1436,12 @@ The Old Street Lamp
 'glorious': TKPWHRORS
 'gift,"': TKPWEUFT KW-BG KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 '"the': KR-GS -T
 'bright': PWRAOEUT
 'stars': STARS
 'have': SR
-'always': AULZ
+'always': AULS
 'been': PW-PB
 'a': AEU
 'joy': SKWROEU
@@ -1449,7 +1449,7 @@ The Old Street Lamp
 'me,': PHE KW-BG
 'and': SKP
 'have': SR
-'always': AULZ
+'always': AULS
 'shone': SHO*EPB
 'more': PHOR
 'brilliantly': PWREULT/HREU
@@ -1589,11 +1589,11 @@ The Old Street Lamp
 'down': TKOUPB
 'now."': TPHOU TP-PL KR-GS
 'So': SO
-'he': E
+'he': HE
 'laid': HRAEUD
 'himself': H*EUPLS
 'to': TO
-'rest.': REFT TP-PL
+'rest.': REFT/TP-PL
 '"Wax': KR-GS WABGS
 'tapers,': TAEURPS KW-BG
 'indeed!"': TPHAOEPBD SKHRAPL KR-GS
@@ -1609,7 +1609,7 @@ The Old Street Lamp
 'nor': TPH-R
 'is': S
 'it': T
-'likely': HREULG
+'likely': HRAOEULG
 'I': EU
 'ever': -FR
 'shall.': SHAL TP-PL
@@ -1638,28 +1638,28 @@ The Old Street Lamp
 'next': TPHEGT
 'day.': TKAEU TP-PL
 'The': -T
-'evening': AOEPG
+'evening': AOEPBG
 'had': H
 'come,': KOPL KW-BG
 'and': SKP
 'the': -T
 'lamp': HRAFRP
-'was': WA
+'was': WAS
 'resting': REFT/-G
 'in': TPH
 'a': AEU
-'grandfather's': TKPWR-F AE S*/SP-S
+'grandfather's': TKPWR-F AES
 'chair,': KHAEUR KW-BG
 'and': SKP
-'guess': TKWES
+'guess': TKPWES
 'where!': W-R SKHRAPL
 'Why,': KWR KW-BG
 'at': AT
 'the': -T
 'old': OLD
-'watchman's': WAFP/PHAPB AE S*/SP-S
+'watchman's': WAFP/PHAPB AES
 'house.': HOUS TP-PL
-'He': E
+'He': HE
 'had': H
 'begged,': PWEGD KW-BG
 'as': AZ
@@ -1667,7 +1667,7 @@ The Old Street Lamp
 'favor,': TPAEUFR KW-BG
 'that': THA
 'the': -T
-'mayor': PHAEUR
+'mayor': PHA*EUR
 'and': SKP
 'corporation': KORPGS
 'would': WO
@@ -1687,7 +1687,7 @@ The Old Street Lamp
 'faithful': TPA*EUT/-FL
 'service,': S-FS KW-BG
 'as': AZ
-'he': E
+'he': HE
 'had': H
 'himself': H*EUPLS
 'hung': HUPBG
@@ -1699,15 +1699,15 @@ The Old Street Lamp
 'on': OPB
 'the': -T
 'day': TKAEU
-'he': E
-'first': TPEURS
+'he': HE
+'first': TPEUFRT
 'commenced': KPHEPBS/-D
 'his': HEUS
 'duties,': TKAOUT/KWREU/-S KW-BG
 'four-and-twenty': TPOUR H-PB SKP H-PB TWEPBT
 'years': KWRAOERS
 'ago.': AG TP-PL
-'He': E
+'He': HE
 'looked': HRAOBGD
 'upon': POPB
 'it': T
@@ -1716,14 +1716,14 @@ The Old Street Lamp
 'his': HEUS
 'own': OEPB
 'child;': KHAOEULD STPH*FPLT
-'he': E
+'he': HE
 'had': H
 'no': TPHO
 'children,': KHEURPB KW-BG
 'so': SO
 'the': -T
 'lamp': HRAFRP
-'was': WA
+'was': WAS
 'given': TKPWEUFPB
 'to': TO
 'him.': HEUPL TP-PL
@@ -1814,7 +1814,7 @@ The Old Street Lamp
 'but': PWUT
 'within': W-PB
 'it': T
-'was': WA
+'was': WAS
 'warm': WARPL
 'and': SKP
 'comfortable': K-BL
@@ -1863,7 +1863,7 @@ The Old Street Lamp
 'East': AOEFT
 'or': OR
 'West': WEFT
-'Indies.': XXX Indies TP-PL
+'Indies.': *EU/TPH*/TK*/*EU/*E/S* TP-PL
 'They': THE
 'were': WR
 'of': -F
@@ -1891,7 +1891,7 @@ The Old Street Lamp
 'open': OEP
 'space': SPAEUS
 'flowers': TPHRO*URS
-'bloomed.': PHRAOPL/-D TP-PL
+'bloomed.': PWHRAOPL/-D TP-PL
 'In': TPH
 'one': WUPB
 'grew': TKPWRAOU
@@ -1902,7 +1902,7 @@ The Old Street Lamp
 'or': OR
 'leeks;': HRAOEBG/-S STPH*FPLT
 'this': TH
-'was': WA
+'was': WAS
 'the': -T
 'kitchen': K-FP
 'garden.': TKPWA*RPB TP-PL
@@ -1929,7 +1929,7 @@ The Old Street Lamp
 'print,': PREUPBT KW-BG
 'representing': REPG
 'the': -T
-'congress': KOPBG
+'congress': KO*PBG
 'of': -F
 'Vienna,': SRAOEPB/TPHA KW-BG
 'and': SKP
@@ -1940,7 +1940,7 @@ The Old Street Lamp
 'emperors': EPL/ROR/-S
 'at': AT
 'once.': WUPBS TP-PL
-'A': AEU
+'A': KPA*/AEU
 'clock,': KHROBG KW-BG
 'with': W
 'heavy': HOEUF
@@ -1957,8 +1957,8 @@ The Old Street Lamp
 'enough;': TPHUF STPH*FPLT
 'yet': KWRET
 'it': T
-'was': WA
-'always': AULZ
+'was': WAS
+'always': AULS
 'rather': RAER
 'too': TAO
 'fast,': TPAFT KW-BG
@@ -1968,7 +1968,7 @@ The Old Street Lamp
 'old': OLD
 'people': PAOEPL
 'said': SAEUD
-'was': WA
+'was': WAS
 'better': PWOERT
 'than': THAPB
 'being': -BG
@@ -1988,11 +1988,11 @@ The Old Street Lamp
 'as': AZ
 'we': WE
 'have': SR
-'heard,': HERD KW-BG
+'heard,': HAERD KW-BG
 'lay': HRAEU
 'in': TPH
 'the': -T
-'grandfather's': TKPWR-F AE S*/SP-S
+'grandfather's': TKPWR-F AES
 'arm-chair': ARPL H-PB KHAEUR
 'near': TPHAOER
 'the': -T
@@ -2053,7 +2053,7 @@ The Old Street Lamp
 'drifting': TKREUFT/-G
 'snow-storms,': STPHOE H-PB STORPLS KW-BG
 'when': WHEPB
-'he': E
+'he': HE
 'longed': HROPBG/-D
 'to': TO
 'be': -B
@@ -2067,11 +2067,11 @@ The Old Street Lamp
 'lamp': HRAFRP
 'felt': TPELT
 'it': T
-'was': WA
+'was': WAS
 'all': AUL
 'right': RAOEUT
 'again.': TKPWEPB TP-PL
-'He': E
+'He': HE
 'saw': SAU
 'everything': EFG
 'that': THA
@@ -2093,7 +2093,7 @@ The Old Street Lamp
 'given': TKPWEUFPB
 'him': HEUPL
 'an': APB
-'excellent': SKHREPBT
+'excellent': KPHREPBT
 'gift.': TKPWEUFT TP-PL
 'The': -T
 'old': OLD
@@ -2106,7 +2106,7 @@ The Old Street Lamp
 'they': THE
 'were': WR
 'never': TPHEF
-'idle': AOEUD/-L
+'idle': AOEUD/*L
 'for': TPOR
 'even': AOEPB
 'a': AEU
@@ -2131,7 +2131,7 @@ The Old Street Lamp
 'were': WR
 'very': SRE
 'fond': TPOPBD
-'of.': -F TP-PL
+'of.': -F/TP-PL
 'The': -T
 'old': OLD
 'man': PHAPB
@@ -2208,7 +2208,7 @@ The Old Street Lamp
 'as': AZ
 'clearly': KAOERL
 'as': AZ
-'he': E
+'he': HE
 'did': TK
 'himself.': H*EUPLS TP-PL
 'The': -T
@@ -2235,7 +2235,7 @@ The Old Street Lamp
 'thickets': THEUBGT/-S
 'with': W
 'their': THAEUR
-'broad,': PWROD KW-BG
+'broad,': PWRAOD KW-BG
 'heavy': HOEUF
 'feet.': TPAOET TP-PL
 '"What': KR-GS WHA
@@ -2374,8 +2374,8 @@ The Old Street Lamp
 'The': -T
 'lamp,': HRAFRP KW-BG
 'however,': HOUF KW-BG
-'was': WA
-'always': AULZ
+'was': WAS
+'always': AULS
 'kept': KEPT
 'clean': KHAOEPB
 'and': SKP
@@ -2409,9 +2409,9 @@ The Old Street Lamp
 'lamp.': HRAFRP TP-PL
 'One': WUPB
 'day—it': TKAEU EPL/TKA*RB T
-'was': WA
+'was': WAS
 'the': -T
-'watchman's': WAFP/PHAPB AE S*/SP-S
+'watchman's': WAFP/PHAPB AES
 'birthday—the': PWEURT/TKAEU EPL/TKA*RB -T
 'old': OLD
 'woman': WOPL
@@ -2444,7 +2444,7 @@ The Old Street Lamp
 'metal': PH*ELT
 'frame,': TPRAEUPL KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'thought,': THAUT KW-BG
 '"Now': KR-GS TPHOU
 'at': AT
@@ -2462,7 +2462,7 @@ The Old Street Lamp
 'no': TPHO
 'wax': WABGS
 'light': HRAOEUT
-'was': WA
+'was': WAS
 'placed': PHRAEUFD
 'in': TPH
 'the': -T
@@ -2477,7 +2477,7 @@ The Old Street Lamp
 'through': THRU
 'the': -T
 'whole': WHOEL
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -2499,7 +2499,7 @@ The Old Street Lamp
 'his': HEUS
 'life.': HRAOEUF TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'had': H
 'a': AEU
 'dream;': TKRAOEPL STPH*FPLT
@@ -2510,7 +2510,7 @@ The Old Street Lamp
 'his': HEUS
 'faculties,': TPABG/UT/KWREU/-S KW-BG
 'dreaming': TKRAOEPLG
-'was': WA
+'was': WAS
 'no': TPHO
 'difficulty.': TKOEUFLT TP-PL
 'It': T
@@ -2525,7 +2525,7 @@ The Old Street Lamp
 'dead,': TKED KW-BG
 'and': SKP
 'that': THA
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'taken': TAEPB
@@ -2549,7 +2549,7 @@ The Old Street Lamp
 'the': -T
 'day': TKAEU
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'called': KAULD
@@ -2558,7 +2558,7 @@ The Old Street Lamp
 'appear': A/PAOER
 'before': PW-F
 'the': -T
-'mayor': PHAEUR
+'mayor': PHA*EUR
 'and': SKP
 'the': -T
 'council': KUPB/SEUL
@@ -2567,7 +2567,7 @@ The Old Street Lamp
 'town-hall.': TOUPB H-PB HAUL TP-PL
 'But': PWUT
 'though': THOE
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'endowed': EPB/TKOU/-D
@@ -2581,17 +2581,17 @@ The Old Street Lamp
 'from': TPR
 'rust': RUFT
 'when': WHEPB
-'he': E
+'he': HE
 'pleased,': PHRAOEFD KW-BG
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'make': PHAEUBG
 'use': AOUS
 'of': -F
 'it.': T TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'therefore': TH-FR
 'put': PUT
 'into': TPHAO
@@ -2604,7 +2604,7 @@ The Old Street Lamp
 'elegant': EL/TKPWAPBT
 'an': APB
 'iron': AOEURPB
-'candlestick': XXX candlestick
+'candlestick': xxx candlestick
 'as': AZ
 'you': U
 'could': KO
@@ -2612,38 +2612,38 @@ The Old Street Lamp
 'to': TO
 'see,': SAOE KW-BG
 'one': WUPB
-'intended': EUPB/TED/-D
+'intended': SPWEPBD/-D
 'to': TO
 'hold': HOLD
 'a': AEU
 'wax': WABGS
 'taper.': TAEURP TP-PL
 'The': -T
-'candlestick': XXX candlestick
-'was': WA
+'candlestick': xxx candlestick
+'was': WAS
 'in': TPH
 'the': -T
 'form': TPORPL
 'of': -F
 'an': APB
-'angel': APBG/EL
+'angel': A*EPBLG
 'holding': HOELGD
 'a': AEU
 'nosegay,': TPHOES/TKPWAEU KW-BG
 'in': TPH
 'the': -T
-'centre': STR
+'centre': STR/A*U
 'of': -F
 'which': WEU
 'the': -T
 'wax': WABGS
 'taper': TAEURP
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'placed.': PHRAEUFD TP-PL
 'It': T
-'was': WA
+'was': WAS
 'to': TO
 'stand': STAPBD
 'on': OPB
@@ -2673,7 +2673,7 @@ The Old Street Lamp
 'of': -F
 'the': -T
 'room': RAOPL
-'was': WA
+'was': WAS
 'a': AEU
 'poet,': POET KW-BG
 'and': SKP
@@ -2682,11 +2682,11 @@ The Old Street Lamp
 'of': -F
 'intellect;': SPWHREBGT STPH*FPLT
 'everything': EFG
-'he': E
+'he': HE
 'thought': THAUT
 'or': OR
 'wrote': WRO
-'was': WA
+'was': WAS
 'pictured': P*EUFPD
 'around': ARPBD
 'him.': HEUPL TP-PL
@@ -2790,7 +2790,7 @@ The Old Street Lamp
 'picture': P*EUFP
 'of': -F
 'the': -T
-'congress,': KOPBG KW-BG
+'congress,': KO*PBG KW-BG
 'in': TPH
 'which': WEU
 'they': THE
@@ -2802,7 +2802,7 @@ The Old Street Lamp
 'from': TPR
 'that': THA
 'time': TAOEUPL
-'he': E
+'he': HE
 'felt': TPELT
 'at': AT
 'rest': REFT
@@ -2818,7 +2818,7 @@ The Old Street Lamp
 'honorable': HOPB/RABL
 'old': OLD
 'lamp': HRAFRP
-'really': HROERL
+'really': R-L
 'deserved': TKAOE/SER/-FD
 'to': TO
 'be.': -B TP-PL

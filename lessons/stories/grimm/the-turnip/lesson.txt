@@ -10,7 +10,7 @@ The Turnip
 'soldiers;': SHRERPBLGS STPH*FPLT
 'the': -T
 'one': WUPB
-'was': WA
+'was': WAS
 'rich': REUFP
 'and': SKP
 'the': -T
@@ -20,7 +20,7 @@ The Turnip
 'poor': PAOR
 'man': PHAPB
 'thought': THAUT
-'he': E
+'he': HE
 'would': WO
 'try': TREU
 'to': TO
@@ -32,7 +32,7 @@ The Turnip
 'his': HEUS
 'red': RED
 'coat,': KOET KW-BG
-'he': E
+'he': HE
 'became': PWAEUPL
 'a': AEU
 'gardener,': TKPWARD/TPHER KW-BG
@@ -50,7 +50,7 @@ The Turnip
 'came': KAEUPL
 'up,': UP KW-BG
 'there': THR
-'was': WA
+'was': WAS
 'one': WUPB
 'plant': PHRAPBT
 'bigger': PWEURG
@@ -88,7 +88,7 @@ The Turnip
 'for': TPOR
 'there': THR
 'never': TPHEF
-'was': WA
+'was': WAS
 'such': SUFP
 'a': AEU
 'one': WUPB
@@ -101,7 +101,7 @@ The Turnip
 'At': AT
 'last': HRAFT
 'it': T
-'was': WA
+'was': WAS
 'so': SO
 'big': PWEUG
 'that': THA
@@ -143,7 +143,7 @@ The Turnip
 'him.': HEUPL TP-PL
 'One': WUPB
 'day': TKAEU
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'himself,': H*EUPLS KW-BG
@@ -194,7 +194,7 @@ The Turnip
 'of': -F
 'respect.'': R-PT TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'yoked': KWRO*EBG/-D
 'his': HEUS
 'oxen,': OBGS/*EPB KW-BG
@@ -227,7 +227,7 @@ The Turnip
 'but': PWUT
 'such': SUFP
 'a': AEU
-'monster': PHOPBS/TER
+'monster': PHOPB/STER
 'as': AZ
 'this': TH
 'I': EU
@@ -257,7 +257,7 @@ The Turnip
 'fortune.'': TP-RPB TP-PL AE
 ''Ah,': AE HA*E KW-BG
 'no!'': TPHO SKHRAPL AE
-'answered': APBSD
+'answered': AEPBS/-D
 'the': -T
 'gardener,': TKPWARD/TPHER KW-BG
 ''I': AE EU
@@ -351,7 +351,7 @@ The Turnip
 'your': KWROUR
 'brother.'': PWROER TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'him': HEUPL
 'gold': TKPWOELD
@@ -366,7 +366,7 @@ The Turnip
 'rich': REUFP
 'that': THA
 'his': HEUS
-'brother's': PWROER AE S*/SP-S
+'brother's': PWROER/AES
 'fortune': TP-RPB
 'could': KO
 'not': TPHOT
@@ -379,7 +379,7 @@ The Turnip
 'When': WHEPB
 'the': -T
 'brother': PWROER
-'heard': HERD
+'heard': HAERD
 'of': -F
 'all': AUL
 'this,': TH KW-BG
@@ -393,15 +393,15 @@ The Turnip
 'gardener': TKPWARD/TPHER
 'so': SO
 'rich,': REUFP KW-BG
-'he': E
+'he': HE
 'envied': EPB/SREUD
 'him': HEUPL
 'sorely,': SORL KW-BG
 'and': SKP
-'bethought': XXX bethought
+'bethought': PWE/THAUT
 'himself': H*EUPLS
 'how': HOU
-'he': E
+'he': HE
 'could': KO
 'contrive': KAUPB/TRAOEUF
 'to': TO
@@ -413,7 +413,7 @@ The Turnip
 'for': TPOR
 'himself.': H*EUPLS TP-PL
 'However,': HOUF KW-BG
-'he': E
+'he': HE
 'determined': TKERPLD
 'to': TO
 'manage': PHAPBG
@@ -432,13 +432,13 @@ The Turnip
 'gold': TKPWOELD
 'and': SKP
 'fine': TPAOEUPB
-'horses': HORS/-S
+'horses': HORSZ
 'for': TPOR
 'the': -T
 'king;': KEUPBG STPH*FPLT
 'and': SKP
 'thought': THAUT
-'he': E
+'he': HE
 'must': PHUFT
 'have': SR
 'a': AEU
@@ -474,7 +474,7 @@ The Turnip
 'graciously,': TKPWRAEURBS/HREU KW-BG
 'and': SKP
 'said': SAEUD
-'he': E
+'he': HE
 'knew': TPHAOU
 'not': TPHOT
 'what': WHA
@@ -493,7 +493,7 @@ The Turnip
 'so': SO
 'the': -T
 'soldier': SHRERPBL
-'was': WA
+'was': WAS
 'forced': TPOFRD
 'to': TO
 'put': PUT
@@ -508,10 +508,10 @@ The Turnip
 'with': W
 'him.': HEUPL TP-PL
 'When': WHEPB
-'he': E
+'he': HE
 'reached': RAOEFPD
 'home,': HOEPL KW-BG
-'he': E
+'he': HE
 'knew': TPHAOU
 'not': TPHOT
 'upon': POPB
@@ -532,14 +532,14 @@ The Turnip
 'his': HEUS
 'head,': HED KW-BG
 'and': SKP
-'he': E
+'he': HE
 'resolved': RO*FLD
 'to': TO
 'kill': KEUL
 'his': HEUS
 'brother.': PWROER TP-PL
 'So': SO
-'he': E
+'he': HE
 'hired': HEURD
 'some': SOPL
 'villains': SREUL/APBS
@@ -555,7 +555,7 @@ The Turnip
 'lie': HRAOEU
 'in': TPH
 'ambush,': APL/PWURB KW-BG
-'he': E
+'he': HE
 'went': WEPBT
 'to': TO
 'his': HEUS
@@ -589,7 +589,7 @@ The Turnip
 'suspicions': SUS/PEUGS/-S
 'of': -F
 'his': HEUS
-'roguery:': XXX roguery STPH-FPLT
+'roguery:': xxx roguery STPH-FPLT
 'so': SO
 'they': THE
 'went': WEPBT
@@ -599,7 +599,7 @@ The Turnip
 'as': AZ
 'they': THE
 'were': WR
-'travelling': TRAFLG
+'travelling': TRAFLG/A*U
 'along,': A/HROPBG KW-BG
 'the': -T
 'murderers': PHURD/RER/-S
@@ -624,9 +624,9 @@ The Turnip
 'were': WR
 'getting': TKPWEGT
 'all': AUL
-'ready,': R*ED KW-BG
+'ready,': R-D KW-BG
 'they': THE
-'heard': HERD
+'heard': HAERD
 'the': -T
 'trampling': TRAFRP/-LG
 'of': -F
@@ -670,13 +670,13 @@ The Turnip
 'ran': RAPB
 'away.': A/WAEU TP-PL
 'Meantime': PHAO*EPB/TAOEUPL
-'he': E
+'he': HE
 'worked': WORBGD
 'and': SKP
 'worked': WORBGD
 'away,': A/WAEU KW-BG
 'till': T*EUL
-'he': E
+'he': HE
 'made': PHAED
 'a': AEU
 'hole': HOEL
@@ -692,7 +692,7 @@ The Turnip
 'horseman': HORS/PHAPB
 'came': KAEUPL
 'up,': UP KW-BG
-'he': E
+'he': HE
 'proved': PROFD
 'to': TO
 'be': -B
@@ -702,7 +702,7 @@ The Turnip
 'merry': PHER/REU
 'fellow,': TPO*EUL KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'journeying': SKWRURPB/EUG
 'along': A/HROPBG
 'on': OPB
@@ -711,7 +711,7 @@ The Turnip
 'and': SKP
 'singing': SEUPBG/-G
 'as': AZ
-'he': E
+'he': HE
 'went.': WEPBT TP-PL
 'As': AZ
 'soon': SAOPB
@@ -727,7 +727,7 @@ The Turnip
 'under': *UPBD
 'the': -T
 'tree,': TRAOE KW-BG
-'he': E
+'he': HE
 'cried': KRAOEUD
 'out,': OUT KW-BG
 ''Good': AE TKPWAOD
@@ -766,13 +766,13 @@ The Turnip
 'in': TPH
 'the': -T
 'tree': TRAOE
-'answered,': APBSD KW-BG
+'answered,': AEPBS/-D KW-BG
 ''Lift': AE HREUFT
 'up': UP
 'thine': THAOEUPB
 'eyes,': AO*EUS KW-BG
 'for': TPOR
-'behold': XXX behold
+'behold': PWE/HOLD
 'here': HAOER
 'I': EU
 'sit': SEUT
@@ -799,7 +799,7 @@ The Turnip
 'seat,': SAOET KW-BG
 'all': AUL
 'the': -T
-'learning': HRERPG
+'learning': HRERPBG
 'of': -F
 'the': -T
 'schools': SKAOLS
@@ -807,7 +807,7 @@ The Turnip
 'as': AZ
 'empty': EPLT
 'air.': AEUR TP-PL
-'A': AEU
+'A': KPA*/AEU
 'little': HREUL
 'longer,': HRORPBG KW-BG
 'and': SKP
@@ -872,7 +872,7 @@ The Turnip
 'of': -F
 'precious': PRERBS
 'stones.': STOEPBS TP-PL
-'Wert': XXX Wert
+'Wert': W*/*E/R*/T*
 'thou': THO*U
 'but': PWUT
 'once': WUPBS
@@ -880,7 +880,7 @@ The Turnip
 'my': PHEU
 'friend,': TPREPBD KW-BG
 'though': THOE
-'wouldst': XXX wouldst
+'wouldst': WO/S*/T*
 'feel': TPAOEL
 'and': SKP
 'own': OEPB
@@ -899,7 +899,7 @@ The Turnip
 'much;': PHUFP STPH*FPLT
 'at': AT
 'last': HRAFT
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 ''Blessed': AE PWHR*EFD
 'be': -B
@@ -927,12 +927,12 @@ The Turnip
 'Then': THEPB
 'the': -T
 'other': OER
-'answered,': APBSD KW-BG
+'answered,': AEPBS/-D KW-BG
 'as': AZ
 'if': TP
 'very': SRE
 'unwillingly,': TPH-LG/HREU KW-BG
-''A': AE AEU
+''A': AE KPA*/AEU
 'little': HREUL
 'space': SPAEUS
 'I': EU
@@ -963,7 +963,7 @@ The Turnip
 'till': T*EUL
 'I': EU
 'have': SR
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'some': SOPL
 'little': HREUL
 'matters': PHAERTS
@@ -991,20 +991,20 @@ The Turnip
 'upon': POPB
 'him,': HEUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'begged': PWEGD
 'earnestly': ERPB/EFT/HREU
 'that': THA
-'he': E
+'he': HE
 'might': PHAOEUT
 'ascend': A/SEPBD
 'forthwith,': TPA*URT/W KW-BG
 'for': TPOR
 'his': HEUS
-'thirst': THUFRT
+'thirst': THEUFRT
 'for': TPOR
 'knowledge': TPHOPBLG
-'was': WA
+'was': WAS
 'great.': TKPWRAET TP-PL
 'Then': THEPB
 'the': -T
@@ -1048,13 +1048,13 @@ The Turnip
 ''Now': AE TPHOU
 'then,'': THEPB KW-BG AE
 'cried': KRAOEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''let': AE HRET
 'me': PHE
 'ascend': A/SEPBD
 'quickly.'': KWEULG TP-PL AE
 'As': AZ
-'he': E
+'he': HE
 'began': TKPWAPB
 'to': TO
 'put': PUT
@@ -1063,7 +1063,7 @@ The Turnip
 'the': -T
 'sack': SABG
 'heels': HAOELS
-'first,': TPEURS KW-BG
+'first,': TPEUFRT KW-BG
 ''Wait': AE WAEUT
 'a': AEU
 'while,'': WHAOEUL KW-BG AE
@@ -1076,12 +1076,12 @@ The Turnip
 'the': -T
 'way.'': WAEU TP-PL AE
 'Then': THEPB
-'he': E
+'he': HE
 'pushed': PURBD
 'him': HEUPL
 'in': TPH
 'head': HED
-'first,': TPEURS KW-BG
+'first,': TPEUFRT KW-BG
 'tied': TAO*EUD
 'up': UP
 'the': -T
@@ -1105,8 +1105,8 @@ The Turnip
 'thee,': THAOE KW-BG
 'friend?'': TPREPBD H-F AE
 'said': SAEUD
-'he,': E KW-BG
-''dost': AE XXX dost
+'he,': HE KW-BG
+''dost': AE TKO/*T
 'thou': THO*U
 'not': TPHOT
 'feel': TPAOEL
@@ -1127,15 +1127,15 @@ The Turnip
 'man': PHAPB
 'than': THAPB
 'thou': THO*U
-'wert.'': XXX wert TP-PL AE
+'wert.'': W*/*E/R*/T* TP-PL AE
 'So': SO
 'saying,': SAEUG KW-BG
-'he': E
+'he': HE
 'trotted': TROT/-D
 'off': OF
 'on': OPB
 'the': -T
-'student's': STAUPB AE S*/SP-S
+'student's': STAUPB AES
 'nag,': TPHAG KW-BG
 'and': SKP
 'left': HREFT

@@ -31,11 +31,11 @@ The Shadow
 'with': W
 'black': PWHRABG
 'skins.': SKEUPBS TP-PL
-'A': AEU
+'A': KPA*/AEU
 'learned': HRERPBD
 'man': PHAPB
 'once': WUPBS
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'into': TPHAO
 'one': WUPB
 'of': -F
@@ -51,31 +51,31 @@ The Shadow
 'north,': TPHORT KW-BG
 'and': SKP
 'thought': THAUT
-'he': E
+'he': HE
 'would': WO
 'roam': ROEPL
 'about': PW
 'as': AZ
-'he': E
+'he': HE
 'did': TK
 'at': AT
 'home;': HOEPL STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'soon': SAOPB
 'had': H
 'to': TO
 'change': KHAEUPBG
 'his': HEUS
 'opinion.': P-PB TP-PL
-'He': E
+'He': HE
 'found': TPOUPBD
 'that,': THA KW-BG
 'like': HRAOEUBG
 'all': AUL
 'sensible': SEPBS/-BL
 'people,': PAOEPL KW-BG
-'he': E
+'he': HE
 'must': PHUFT
 'remain': RE/PHAUPB
 'in': TPH
@@ -113,7 +113,7 @@ The Shadow
 'street': STRAOET
 'in': TPH
 'which': WEU
-'he': E
+'he': HE
 'lived': HREUFD
 'were': WR
 'so': SO
@@ -127,7 +127,7 @@ The Shadow
 'from': TPR
 'morning': PHORPBG
 'till': T*EUL
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'and': SKP
 'it': T
 'became': PWAEUPL
@@ -140,7 +140,7 @@ The Shadow
 'the': -T
 'cold': KOELD
 'regions': RAOE/SKWROPBS
-'was': WA
+'was': WAS
 'young': KWRUPBG
 'as': AZ
 'well': WEL
@@ -153,14 +153,14 @@ The Shadow
 'him': HEUPL
 'as': AZ
 'if': TP
-'he': E
+'he': HE
 'were': WR
-'sitting': SAO*EGT
+'sitting': SEUGT
 'in': TPH
 'an': APB
 'oven,': OEFPB KW-BG
 'and': SKP
-'he': E
+'he': HE
 'became': PWAEUPL
 'quite': KWAOEUT
 'exhausted': KPAUFTD
@@ -173,7 +173,7 @@ The Shadow
 'that': THA
 'his': HEUS
 'shadow': SHO*EUD
-'shrivelled': SHR*EUFLD
+'shrivelled': SHR*EUFLD/A*U
 'up,': UP KW-BG
 'and': SKP
 'became': PWAEUPL
@@ -191,24 +191,24 @@ The Shadow
 'away': A/WAEU
 'even': AOEPB
 'what': WHA
-'was': WA
+'was': WAS
 'left': HREFT
 'of': -F
 'it,': T KW-BG
 'and': SKP
-'he': E
+'he': HE
 'saw': SAU
 'nothing': TPHOG
 'of': -F
 'it': T
 'till': T*EUL
 'the': -T
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'after': AF
 'sunset.': SAUPB/SET TP-PL
 'It': T
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'a': AEU
 'pleasure,': PHRERB KW-BG
 'as': AZ
@@ -236,11 +236,11 @@ The Shadow
 'ceiling,': KAOELG KW-BG
 'so': SO
 'tall': TAUL
-'was': WA
+'was': WAS
 'it;': T STPH*FPLT
 'and': SKP
 'it': T
-'really': HROERL
+'really': R-L
 'wanted': WAPBTD
 'a': AEU
 'good': TKPWAOD
@@ -248,7 +248,7 @@ The Shadow
 'to': TO
 'recover': ROFR
 'its': EUTS
-'strength.': STREPG TP-PL
+'strength.': STREPBG TP-PL
 'The': -T
 'learned': HRERPBD
 'man': PHAPB
@@ -276,7 +276,7 @@ The Shadow
 'clear,': KHRAOER KW-BG
 'beautiful': PWAOUFL
 'sky,': SKAOEU KW-BG
-'he': E
+'he': HE
 'felt': TPELT
 'revived.': RE/SRAOEUFD TP-PL
 'People': PAOEPL
@@ -311,7 +311,7 @@ The Shadow
 'breathe': PWRAO*ET
 'the': -T
 'fresh': TPRERB
-'evening': AOEPG
+'evening': AOEPBG
 'air,': AEUR KW-BG
 'which': WEU
 'is': S
@@ -344,7 +344,7 @@ The Shadow
 'appearance.': PAOERPBS TP-PL
 'Here': HAOER
 'were': WR
-'shoemakers,': XXX shoemakers KW-BG
+'shoemakers,': xxx shoemakers KW-BG
 'and': SKP
 'tailors,': TAEUL/ORS KW-BG
 'and': SKP
@@ -352,7 +352,7 @@ The Shadow
 'sorts': SORTS
 'of': -F
 'people': PAOEPL
-'sitting.': SAO*EGT TP-PL
+'sitting.': SEUGT TP-PL
 'In': TPH
 'the': -T
 'street': STRAOET
@@ -390,8 +390,8 @@ The Shadow
 'on': OPB
 'the': -T
 'harness,': HARPBS KW-BG
-'"tingle,': KR-GS TEUPBG/-L KW-BG
-'tingle,"': TEUPBG/-L KW-BG KR-GS
+'"tingle,': KR-GS TEUPBG/*L KW-BG
+'tingle,"': TEUPBG/*L KW-BG KR-GS
 'as': AZ
 'they': THE
 'went.': WEPBT TP-PL
@@ -417,7 +417,7 @@ The Shadow
 'church': KHUFRPB
 'bells.': PWELS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'indeed': TPHAOEPBD
 'a': AEU
 'scene': SAEPB
@@ -431,7 +431,7 @@ The Shadow
 'house': HOUS
 'only,': OEPBL KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'opposite': OP/SEUT
 'to': TO
@@ -440,7 +440,7 @@ The Shadow
 'in': TPH
 'which': WEU
 'the': -T
-'foreign': TPOERP
+'foreign': TPOERPB
 'learned': HRERPBD
 'man': PHAPB
 'lived,': HREUFD KW-BG
@@ -452,7 +452,7 @@ The Shadow
 'this,': TH KW-BG
 'for': TPOR
 'it': T
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'still;': STEUL STPH*FPLT
 'and': SKP
@@ -506,7 +506,7 @@ The Shadow
 'opened': OEPD
 'in': TPH
 'the': -T
-'evening;': AOEPG STPH*FPLT
+'evening;': AOEPBG STPH*FPLT
 'and': SKP
 'although': HR*T
 'in': TPH
@@ -514,12 +514,12 @@ The Shadow
 'front': TPROPBT
 'room': RAOPL
 'all': AUL
-'was': WA
+'was': WAS
 'dark,': TKARBG KW-BG
 'music': PHAOUFBG
 'could': KO
 'be': -B
-'heard': HERD
+'heard': HAERD
 'from': TPR
 'the': -T
 'interior': SPWER/KWROR
@@ -527,7 +527,7 @@ The Shadow
 'the': -T
 'house.': HOUS TP-PL
 'The': -T
-'foreign': TPOERP
+'foreign': TPOERPB
 'learned': HRERPBD
 'man': PHAPB
 'considered': KR-D
@@ -537,8 +537,8 @@ The Shadow
 'delightful;': TKHRAOEUT/-FL STPH*FPLT
 'but': PWUT
 'perhaps': PRAPS
-'he': E
-'fancied': XXX fancied
+'he': HE
+'fancied': TPAPB/SEU/-D
 'it;': T STPH*FPLT
 'for': TPOR
 'everything': EFG
@@ -555,10 +555,10 @@ The Shadow
 'the': -T
 'sun.': SUPB TP-PL
 'The': -T
-'foreign': TPOERP
+'foreign': TPOERPB
 'landlord': HR-LD
 'said': SAEUD
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'know': TPHOE
@@ -568,7 +568,7 @@ The Shadow
 'the': -T
 'opposite': OP/SEUT
 'house—nobody': HOUS EPL/TKA*RB TPHOEB
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'seen': SAOEPB
@@ -578,7 +578,7 @@ The Shadow
 'to': TO
 'the': -T
 'music,': PHAOUFBG KW-BG
-'he': E
+'he': HE
 'thought': THAUT
 'it': T
 'seemed': SAOEPLD
@@ -596,27 +596,27 @@ The Shadow
 'if': TP
 'some': SOPL
 'one': WUPB
-'was': WA
-'practising': PRABG/TEUS/-G
+'was': WAS
+'practising': PRABG/TEUS/-G/A*U
 'a': AEU
 'piece': PAOES
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'manage;': PHAPBG STPH*FPLT
 'it': T
 'is': S
-'always': AULZ
+'always': AULS
 'the': -T
 'same': SAEUPL
 'piece.': PAOES TP-PL
-'He': E
+'He': HE
 'thinks,': THEUS KW-BG
 'I': EU
 'suppose,': SPOS KW-BG
 'that': THA
-'he': E
+'he': HE
 'will': HR
 'be': -B
 'able': ABL
@@ -633,7 +633,7 @@ The Shadow
 'so,': SO KW-BG
 'however': HOUF
 'long': HROPBG
-'he': E
+'he': HE
 'may': PHAE
 'play': PHRAEU
 'it."': T TP-PL KR-GS
@@ -644,7 +644,7 @@ The Shadow
 'in': TPH
 'the': -T
 'night.': TPHAOEUT TP-PL
-'He': E
+'He': HE
 'slept': SHREPD
 'with': W
 'the': -T
@@ -668,7 +668,7 @@ The Shadow
 'appeared': A/PAOERD
 'a': AEU
 'wonderful': WUFL
-'brightness': XXX brightness
+'brightness': PWRAOEUT/-PBS
 'over': OEFR
 'all': AUL
 'in': TPH
@@ -698,7 +698,7 @@ The Shadow
 'slender': SHRERPBD
 'maiden.': PHAEUD/*EPB TP-PL
 'It': T
-'was': WA
+'was': WAS
 'to': TO
 'him': HEUPL
 'as': AZ
@@ -713,14 +713,14 @@ The Shadow
 'eyes;': AO*EUS STPH*FPLT
 'but': PWUT
 'then': THEPB
-'he': E
+'he': HE
 'had': H
 'only': OEPBL
 'just': SKWRUFT
 'opened': OEPD
 'them,': THEPL KW-BG
 'as': AZ
-'he': E
+'he': HE
 'awoke': A/WOEBG
 'from': TPR
 'his': HEUS
@@ -728,8 +728,8 @@ The Shadow
 'With': W
 'one': WUPB
 'spring': SPREUPBG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'out': OUT
 'of': -F
 'bed,': PWED KW-BG
@@ -741,9 +741,9 @@ The Shadow
 'curtain.': KUR/TAPB TP-PL
 'But': PWUT
 'she': SHE
-'was': WA
+'was': WAS
 'gone—the': TKPWOPB EPL/TKA*RB -T
-'brightness': XXX brightness
+'brightness': PWRAOEUT/-PBS
 'had': H
 'disappeared;': TKEUS/PAOERD STPH*FPLT
 'the': -T
@@ -788,14 +788,14 @@ The Shadow
 'the': -T
 'senses': SEPBS/-S
 'with': W
-'magic': PHA/SKWREUBG
+'magic': PHAPBLG/EUBG
 'power.': POUR TP-PL
 'Who': WHO
 'could': KO
 'live': HREUF
 'there?': THR H-F
 'Where': W-R
-'was': WA
+'was': WAS
 'the': -T
 'real': RAEL
 'entrance?': SPWRAPBS H-F
@@ -815,7 +815,7 @@ The Shadow
 'whole': WHOEL
 'ground': TKPWROUPBD
 'floor': TPHRAOR
-'was': WA
+'was': WAS
 'a': AEU
 'continuation': T-PB/WAEUGS
 'of': -F
@@ -824,22 +824,22 @@ The Shadow
 'people': PAOEPL
 'could': KO
 'not': TPHOT
-'always': AULZ
+'always': AULS
 'be': -B
 'passing': PAFG
 'through': THRU
 'them.': THEPL TP-PL
 'One': WUPB
-'evening': AOEPG
+'evening': AOEPBG
 'the': -T
 'foreigner': TPORPB/ER
 'sat': SAT
 'in': TPH
 'the': -T
 'balcony.': PWAL/KOEPB TP-PL
-'A': AEU
+'A': KPA*/AEU
 'light': HRAOEUT
-'was': WA
+'was': WAS
 'burning': PWURPBG
 'in': TPH
 'his': HEUS
@@ -849,7 +849,7 @@ The Shadow
 'behind': HEUPBD
 'him.': HEUPL TP-PL
 'It': T
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'natural,': TPHARL KW-BG
 'therefore,': TH-FR KW-BG
@@ -868,7 +868,7 @@ The Shadow
 'so': SO
 'that,': THA KW-BG
 'as': AZ
-'he': E
+'he': HE
 'sat': SAT
 'amongst': PHOPBGS
 'the': -T
@@ -877,7 +877,7 @@ The Shadow
 'his': HEUS
 'balcony,': PWAL/KOEPB KW-BG
 'when': WHEPB
-'he': E
+'he': HE
 'moved,': PHOFD KW-BG
 'his': HEUS
 'shadow': SHO*EUD
@@ -936,7 +936,7 @@ The Shadow
 'tell': TEL
 'me': PHE
 'what': WHA
-'he': E
+'he': HE
 'has': HAS
 'seen.': SAOEPB TP-PL
 'You': U
@@ -948,8 +948,8 @@ The Shadow
 'this': TH
 'way,"': WAEU KW-BG KR-GS
 'said': SAEUD
-'he,': E KW-BG
-'jokingly;': SKWROEBG/TKPWHREU STPH*FPLT
+'he,': HE KW-BG
+'jokingly;': SKWROEBG/-G/HREU STPH*FPLT
 '"be': KR-GS -B
 'so': SO
 'good': TKPWAOD
@@ -962,7 +962,7 @@ The Shadow
 'you?"': U H-F KR-GS
 'and': SKP
 'then': THEPB
-'he': E
+'he': HE
 'nodded': TPHOD/-D
 'to': TO
 'the': -T
@@ -1027,7 +1027,7 @@ The Shadow
 'the': -T
 'learned': HRERPBD
 'man': PHAPB
-'re-entered': XXX re H-PB SPWR-D
+'re-entered': RE/SP-S H-PB SPWR-D
 'his': HEUS
 'own': OEPB
 'room,': RAOPL KW-BG
@@ -1035,11 +1035,11 @@ The Shadow
 'let': HRET
 'the': -T
 'curtain': KUR/TAPB
-'fall.': TPAL TP-PL
+'fall.': TPAUL TP-PL
 'The': -T
 'next': TPHEGT
 'morning': PHORPBG
-'he': E
+'he': HE
 'went': WEPBT
 'out': OUT
 'to': TO
@@ -1053,14 +1053,14 @@ The Shadow
 '"How': KR-GS HOU
 'is': S
 'this?"': TH H-F KR-GS
-'he': E
+'he': HE
 'exclaimed,': SKHRAEUPL/-D KW-BG
 'as': AZ
-'he': E
+'he': HE
 'stood': STAOD
 'in': TPH
 'the': -T
-'sunshine.': S*UPB/SHAOEUPB TP-PL
+'sunshine.': SUPB/SHAO*EUPB TP-PL
 '"I': KR-GS EU
 'have': SR
 'lost': HRO*S
@@ -1068,12 +1068,12 @@ The Shadow
 'shadow.': SHO*EUD TP-PL
 'So': SO
 'it': T
-'really': HROERL
+'really': R-L
 'did': TK
 'go': TKPW
 'away': A/WAEU
 'yesterday': KWRED
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'and': SKP
 'it': T
 'has': HAS
@@ -1095,14 +1095,14 @@ The Shadow
 'because': PWAU
 'the': -T
 'shadow': SHO*EUD
-'was': WA
+'was': WAS
 'gone,': TKPWOPB KW-BG
 'but': PWUT
 'because': PWAU
-'he': E
+'he': HE
 'knew': TPHAOU
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'story': STOER
 'of': -F
@@ -1124,7 +1124,7 @@ The Shadow
 'story;': STOER STPH*FPLT
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'returned,': RURPBD KW-BG
 'and': SKP
 'related': RAELTD
@@ -1135,12 +1135,12 @@ The Shadow
 'would': WO
 'say': SAEU
 'it': T
-'was': WA
+'was': WAS
 'only': OEPBL
 'an': APB
 'imitation;': EUPL/TAEUGS STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'had': H
 'no': TPHO
 'desire': STKAOEUR
@@ -1153,8 +1153,8 @@ The Shadow
 'of': -F
 'him.': HEUPL TP-PL
 'So': SO
-'he': E
-'decided': TKAOE/SAOEUD/-D
+'he': HE
+'decided': STKAOEUD/-D
 'not': TPHOT
 'to': TO
 'speak': SPAOEBG
@@ -1163,15 +1163,15 @@ The Shadow
 'at': AT
 'all,': AUL KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'a': AEU
 'very': SRE
 'sensible': SEPBS/-BL
 'determination.': TKERPLGS TP-PL
 'In': TPH
 'the': -T
-'evening': AOEPG
-'he': E
+'evening': AOEPBG
+'he': HE
 'went': WEPBT
 'out': OUT
 'again': TKPWEPB
@@ -1187,12 +1187,12 @@ The Shadow
 'behind': HEUPBD
 'him;': HEUPL STPH*FPLT
 'for': TPOR
-'he': E
+'he': HE
 'knew': TPHAOU
 'that': THA
 'a': AEU
 'shadow': SHO*EUD
-'always': AULZ
+'always': AULS
 'wants': WAPBTS
 'his': HEUS
 'master': PHAFRT
@@ -1200,41 +1200,41 @@ The Shadow
 'a': AEU
 'screen;': SKRAOEPB STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'entice': SPWAOEUS
 'him': HEUPL
 'out.': OUT TP-PL
-'He': E
+'He': HE
 'made': PHAED
 'himself': H*EUPLS
 'little,': HREUL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'made': PHAED
 'himself': H*EUPLS
 'tall;': TAUL STPH*FPLT
 'but': PWUT
 'there': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'shadow,': SHO*EUD KW-BG
 'and': SKP
 'no': TPHO
 'shadow': SHO*EUD
 'came.': KAEUPL TP-PL
-'He': E
+'He': HE
 'said,': SAEUD KW-BG
 '"Hem,': KR-GS HEPL KW-BG
 'a-hem;"': AEU H-PB HEPL STPH*FPLT KR-GS
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'all': AUL
 'useless.': AOUS/-LS TP-PL
 'That': THA
-'was': WA
+'was': WAS
 'very': SRE
 'vexatious;': SREBGS/AEURBS STPH*FPLT
 'but': PWUT
@@ -1251,7 +1251,7 @@ The Shadow
 'week': WAOEBG
 'had': H
 'passed,': PAFD KW-BG
-'he': E
+'he': HE
 'saw,': SAU KW-BG
 'to': TO
 'his': HEUS
@@ -1261,17 +1261,17 @@ The Shadow
 'a': AEU
 'new': TPHU
 'shadow': SHO*EUD
-'was': WA
+'was': WAS
 'growing': TKPWROEG
 'from': TPR
 'his': HEUS
 'feet,': TPAOET KW-BG
 'when': WHEPB
-'he': E
+'he': HE
 'walked': WAUBGD
 'in': TPH
 'the': -T
-'sunshine;': S*UPB/SHAOEUPB STPH*FPLT
+'sunshine;': SUPB/SHAO*EUPB STPH*FPLT
 'so': SO
 'that': THA
 'the': -T
@@ -1282,7 +1282,7 @@ The Shadow
 'After': AF
 'three': THRAOE
 'weeks,': WAOEBGS KW-BG
-'he': E
+'he': HE
 'had': H
 'quite': KWAOEUT
 'a': AEU
@@ -1306,7 +1306,7 @@ The Shadow
 'so': SO
 'large': HRARPBLG
 'that': THA
-'he': E
+'he': HE
 'might': PHAOEUT
 'very': SRE
 'well': WEL
@@ -1322,7 +1322,7 @@ The Shadow
 'arrived': A/REUFD
 'at': AT
 'home,': HOEPL KW-BG
-'he': E
+'he': HE
 'wrote': WRO
 'books': PWAOBGS
 'about': PW
@@ -1350,31 +1350,31 @@ The Shadow
 'many': PHAEPB
 'years.': KWRAOERS TP-PL
 'One': WUPB
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'as': AZ
-'he': E
+'he': HE
 'sat': SAT
 'in': TPH
 'his': HEUS
-'study,': STO*UD KW-BG
+'study,': STAO*UD KW-BG
 'a': AEU
 'very': SRE
 'gentle': SKWR*EPBLT
 'tap': TAP
-'was': WA
-'heard': HERD
+'was': WAS
+'heard': HAERD
 'at': AT
 'the': -T
 'door.': TKAOR TP-PL
 '"Come': KR-GS KOPL
 'in,"': TPH KW-BG KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 'but': PWUT
 'no': TPHO
 'one': WUPB
 'came.': KAEUPL TP-PL
-'He': E
+'He': HE
 'opened': OEPD
 'the': -T
 'door,': TKAOR KW-BG
@@ -1389,15 +1389,15 @@ The Shadow
 'remarkably': RARBG/PWHREU
 'thin': THEUPB
 'that': THA
-'he': E
+'he': HE
 'felt': TPELT
 'seriously': SAOERLS
 'troubled': TRUBLD
 'at': AT
 'his': HEUS
 'appearance.': PAOERPBS TP-PL
-'He': E
-'was,': WA KW-BG
+'He': HE
+'was,': WAS KW-BG
 'however,': HOUF KW-BG
 'very': SRE
 'well': WEL
@@ -1416,13 +1416,13 @@ The Shadow
 'of': -F
 'speaking?"': SPAOEG H-F KR-GS
 'said': SAEUD
-'he.': E TP-PL
+'he.': HE TP-PL
 '"Ah,': KR-GS HA*E KW-BG
 'I': EU
 'hoped': HOEPD
 'you': U
 'would': WO
-'recognise': REZ
+'recognise': REZ/A*U
 'me,"': PHE KW-BG KR-GS
 'said': SAEUD
 'the': -T
@@ -1457,7 +1457,7 @@ The Shadow
 'Do': TKO
 'you': U
 'not': TPHOT
-'recognise': REZ
+'recognise': REZ/A*U
 'your': KWROUR
 'old': OLD
 'shadow?': SHO*EUD H-F
@@ -1475,12 +1475,12 @@ The Shadow
 'All': AUL
 'has': HAS
 'been': PW-PB
-'prosperous': PROS/PRUS
+'prosperous': PROFP/ROUS
 'with': W
 'me': PHE
 'since': SEUPBS
 'I': EU
-'was': WA
+'was': WAS
 'with': W
 'you': U
 'last;': HRAFT STPH*FPLT
@@ -1508,9 +1508,9 @@ The Shadow
 'so."': SO TP-PL KR-GS
 'And': SKP
 'as': AZ
-'he': E
+'he': HE
 'spoke': SPOEBG
-'he': E
+'he': HE
 'rattled': RAT/-LD
 'between': TWAOEPB
 'his': HEUS
@@ -1527,7 +1527,7 @@ The Shadow
 'thick': THEUBG
 'gold': TKPWOELD
 'watch-chain': WAFP H-PB KHAEUPB
-'he': E
+'he': HE
 'wore': WOR
 'round': ROUPBD
 'his': HEUS
@@ -1540,7 +1540,7 @@ The Shadow
 'fingers,': TPEURPBGS KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'all': AUL
 'real.': RAEL TP-PL
 '"I': KR-GS EU
@@ -1595,7 +1595,7 @@ The Shadow
 'that': THA
 'I': EU
 'have': SR
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'enough': TPHUF
 'to': TO
 'be': -B
@@ -1641,7 +1641,7 @@ The Shadow
 'for': TPOR
 'there': THR
 'is': S
-'always': AULZ
+'always': AULS
 'a': AEU
 'clinging': KHREUPBG/-G
 'to': TO
@@ -1676,7 +1676,7 @@ The Shadow
 '"No!': KR-GS TPHO SKHRAPL
 'Is': S
 'it': T
-'really': HROERL
+'really': R-L
 'you?"': U H-F KR-GS
 'said': SAEUD
 'the': -T
@@ -1694,7 +1694,7 @@ The Shadow
 'possible': POB
 'that': THA
 'a': AEU
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'old': OLD
 'shadow': SHO*EUD
 'could': KO
@@ -1801,7 +1801,7 @@ The Shadow
 'said': SAEUD
 'the': -T
 'shadow,': SHO*EUD KW-BG
-'sitting': SAO*EGT
+'sitting': SEUGT
 'down;': TKOUPB STPH*FPLT
 '"but': KR-GS PWUT
 'then': THEPB
@@ -1857,7 +1857,7 @@ The Shadow
 'one': WUPB
 'who': WHO
 'you': U
-'really': HROERL
+'really': R-L
 'are.': R TP-PL
 'Here': HAOER
 'is': S
@@ -1882,29 +1882,29 @@ The Shadow
 'the': -T
 'shadow;': SHO*EUD STPH*FPLT
 'for': TPOR
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'help': HEP
 'saying': SAEUG
 'so.': SO TP-PL
 'It': T
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'most': PHOFT
 'remarkable': RARBG/-BL
 'how': HOU
 'very': SRE
 'much': PHUFP
-'he': E
+'he': HE
 'had': H
 'become': PW-BG
 'a': AEU
 'man': PHAPB
 'in': TPH
 'appearance.': PAOERPBS TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'dressed': TKREFD
 'in': TPH
 'a': AEU
@@ -1951,10 +1951,10 @@ The Shadow
 'rings': REUPBGS
 'already': HR-R
 'spoken': SPOEPB
-'of.': -F TP-PL
+'of.': -F/TP-PL
 'The': -T
 'shadow': SHO*EUD
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'in': TPH
 'fact,': TPABGT KW-BG
 'very': SRE
@@ -2011,10 +2011,10 @@ The Shadow
 'feet': TPAOET
 'like': HRAOEUBG
 'a': AEU
-'poodle': PAOD/-L
+'poodle': PAOD/*L
 'dog.': TKOG TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'done,': TKOPB KW-BG
 'it': T
 'might': PHAOEUT
@@ -2089,7 +2089,7 @@ The Shadow
 'the': -T
 'world?': WORLD H-F
 'It': T
-'was': WA
+'was': WAS
 'poetry.': POEURT TP-PL
 'I': EU
 'remained': RE/PHAEUPBD
@@ -2098,11 +2098,11 @@ The Shadow
 'weeks,': WAOEBGS KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'more': PHOR
 'like': HRAOEUBG
 'three': THRAOE
-'thousand': THOUZ
+'thousand': THOEUPB
 'years,': KWRAOERS KW-BG
 'for': TPOR
 'I': EU
@@ -2127,7 +2127,7 @@ The Shadow
 'I': EU
 'saw': SAU
 'and': SKP
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'everything."': EFG TP-PL KR-GS
 '"Poetry!"': KR-GS POEURT SKHRAPL KR-GS
 'exclaimed': SKHRAEUPL/-D
@@ -2171,7 +2171,7 @@ The Shadow
 'the': -T
 'radiant': RAEUD/KWRAPBT
 'aurora': AU/ROE/RA
-'borealis,': XXX borealis KW-BG
+'borealis,': xxx borealis KW-BG
 'surrounded': SROUBD/-D
 'with': W
 'flowers': TPHRO*URS
@@ -2187,7 +2187,7 @@ The Shadow
 'the': -T
 'balcony': PWAL/KOEPB
 'that': THA
-'evening;': AOEPG STPH*FPLT
+'evening;': AOEPBG STPH*FPLT
 'you': U
 'went': WEPBT
 'through': THRU
@@ -2218,7 +2218,7 @@ The Shadow
 'the': -T
 'room.': RAOPL TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'light,': HRAOEUT KW-BG
 'or': OR
@@ -2263,7 +2263,7 @@ The Shadow
 'myself,': PHAO*EUS KW-BG
 'but': PWUT
 'I': EU
-'was': WA
+'was': WAS
 'cautious,': KAURBS KW-BG
 'and': SKP
 'took': TAOBG
@@ -2278,7 +2278,7 @@ The Shadow
 'do."': TKO TP-PL KR-GS
 '"And': KR-GS SKP
 'what': WHA
-'didst': XXX didst
+'didst': TKEU/*T
 'thou': THO*U
 'see?"': SAOE H-F KR-GS
 'asked': SK-D
@@ -2293,7 +2293,7 @@ The Shadow
 'shall': SHAL
 'hear.': HAER TP-PL
 'But—it': PWUT EPL/TKA*RB T
-'really': HROERL
+'really': R-L
 'is': S
 'not': TPHOT
 'pride': PRAOEUD
@@ -2379,7 +2379,7 @@ The Shadow
 'know': TPHOE
 'everything."': EFG TP-PL KR-GS
 '"What': KR-GS WHA
-'was': WA
+'was': WAS
 'the': -T
 'appearance': PAOERPBS
 'of': -F
@@ -2389,7 +2389,7 @@ The Shadow
 'asked': SK-D
 'the': -T
 'scholar.': SKHRAR TP-PL
-'"Was': KR-GS WA
+'"Was': KR-GS WAS
 'it': T
 'there': THR
 'like': HRAOEUBG
@@ -2417,7 +2417,7 @@ The Shadow
 'high': HAOEU
 'mountain?"': PHOUPB/TAEUPB H-F KR-GS
 '"It': KR-GS T
-'was': WA
+'was': WAS
 'all': AUL
 'that': THA
 'you': U
@@ -2440,7 +2440,7 @@ The Shadow
 'the': -T
 'ante-room—but': APB/TAOE H-PB RAOPL EPL/TKA*RB PWUT
 'I': EU
-'was': WA
+'was': WAS
 'in': TPH
 'a': AEU
 'very': SRE
@@ -2452,7 +2452,7 @@ The Shadow
 'hear': HAER
 'all': AUL
 'that': THA
-'was': WA
+'was': WAS
 'going': TKPW-G
 'on': OPB
 'in': TPH
@@ -2511,7 +2511,7 @@ The Shadow
 'saw': SAU
 'everything': EFG
 'that': THA
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'seen.': SAOEPB TP-PL
@@ -2545,7 +2545,7 @@ The Shadow
 'inner': EURPB
 'being,': -BG KW-BG
 'my': PHEU
-'inborn': XXX inborn
+'inborn': xxx inborn
 'affinity': A/TPEUPBT
 'to': TO
 'the': -T
@@ -2564,7 +2564,7 @@ The Shadow
 'it': T
 'while': WHAOEUL
 'I': EU
-'was': WA
+'was': WAS
 'with': W
 'you,': U KW-BG
 'but': PWUT
@@ -2573,8 +2573,8 @@ The Shadow
 'remember': REB
 'that': THA
 'I': EU
-'was': WA
-'always': AULZ
+'was': WAS
+'always': AULS
 'much': PHUFP
 'larger': HRARPBLG/ER
 'at': AT
@@ -2603,7 +2603,7 @@ The Shadow
 'the': -T
 'ante-room': APB/TAOE H-PB RAOPL
 'it': T
-'was': WA
+'was': WAS
 'revealed': RE/SRAOELD
 'to': TO
 'me.': PHE TP-PL
@@ -2683,10 +2683,10 @@ The Shadow
 'she': SHE
 'concealed.': KAUPB/SAOELD TP-PL
 'It': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'till': T*EUL
-'evening': AOEPG
+'evening': AOEPBG
 'that': THA
 'I': EU
 'ventured': SREPB/KHURD
@@ -2782,7 +2782,7 @@ The Shadow
 'between': TWAOEPB
 'husbands': HUZ/-Z
 'and': SKP
-'wives,': WEUFS KW-BG
+'wives,': WAOEUFS KW-BG
 'parents': PARPBTS
 'and': SKP
 'children,—sweet,': KHEURPB KW-BG EPL/TKA*RB SWAOET KW-BG
@@ -2894,7 +2894,7 @@ The Shadow
 'declared': TKE/KHRAEURD
 'that': THA
 'I': EU
-'was': WA
+'was': WAS
 'handsome,': HAPBD/SOPL KW-BG
 'and': SKP
 'so': SO
@@ -2926,12 +2926,12 @@ The Shadow
 'the': -T
 'street,': STRAOET KW-BG
 'and': SKP
-'always': AULZ
+'always': AULS
 'stay': STAEU
 'at': AT
 'home': HOEPL
 'in': TPH
-'rainy': RAEU/TPH*EU
+'rainy': RAEUPB/KWREU
 'weather."': WHR* TP-PL KR-GS
 'And': SKP
 'the': -T
@@ -2964,7 +2964,7 @@ The Shadow
 'going': TKPW-G
 'on': OPB
 'now?"': TPHOU H-F KR-GS
-'he': E
+'he': HE
 'asked.': SK-D TP-PL
 '"Ah!"': KR-GS HA*E SKHRAPL KR-GS
 'said': SAEUD
@@ -2995,7 +2995,7 @@ The Shadow
 'am': APL
 'quite': KWAOEUT
 'in': TPH
-'despair,': TKES/PAEUR KW-BG
+'despair,': TKE/SPAEUR KW-BG
 'for': TPOR
 'I': EU
 'take': TAEUBG
@@ -3061,7 +3061,7 @@ The Shadow
 'should': SHO
 'like': HRAOEUBG
 'a': AEU
-'travelling': TRAFLG
+'travelling': TRAFLG/A*U
 'companion;': KPAPB/KWROPB STPH*FPLT
 'will': HR
 'you': U
@@ -3082,7 +3082,7 @@ The Shadow
 'will': HR
 'pay': PAEU
 'all': AUL
-'expenses."': SPEBS/-S TP-PL KR-GS
+'expenses."': SPEPBS/-S TP-PL KR-GS
 '"Are': KR-GS R
 'you': U
 'going': TKPW-G
@@ -3147,11 +3147,11 @@ The Shadow
 'the': -T
 'shadow,': SHO*EUD KW-BG
 '"and': KR-GS SKP
-'always': AULZ
+'always': AULS
 'will': HR
 'be."': -B TP-PL KR-GS
 'Then': THEPB
-'he': E
+'he': HE
 'went': WEPBT
 'away.': A/WAEU TP-PL
 'Everything': EFG
@@ -3168,7 +3168,7 @@ The Shadow
 'him,': HEUPL KW-BG
 'and': SKP
 'what': WHA
-'he': E
+'he': HE
 'said': SAEUD
 'about': PW
 'the': -T
@@ -3178,7 +3178,7 @@ The Shadow
 'and': SKP
 'the': -T
 'true,': TRAOU KW-BG
-'was': WA
+'was': WAS
 'of': -F
 'as': AZ
 'much': PHUFP
@@ -3196,11 +3196,11 @@ The Shadow
 'cow.': KO*U TP-PL
 'At': AT
 'length': HREPBG
-'he': E
+'he': HE
 'fell': TPEL
 'ill.': EUL TP-PL
 '"You': KR-GS U
-'really': HROERL
+'really': R-L
 'look': HRAOBG
 'like': HRAOEUBG
 'a': AEU
@@ -3219,7 +3219,7 @@ The Shadow
 'over': OEFR
 'him,': HEUPL KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'had': H
 'his': HEUS
 'own': OEPB
@@ -3228,7 +3228,7 @@ The Shadow
 'the': -T
 'subject.': SUBT TP-PL
 '"You': KR-GS U
-'really': HROERL
+'really': R-L
 'ought': OT
 'to': TO
 'go': TKPW
@@ -3265,7 +3265,7 @@ The Shadow
 'will': HR
 'pay': PAEU
 'the': -T
-'expenses': SPEBS/-S
+'expenses': SPEPBS/-S
 'of': -F
 'your': KWROUR
 'journey,': SKWRURPB KW-BG
@@ -3331,7 +3331,7 @@ The Shadow
 'together.': TOGT TP-PL
 'The': -T
 'shadow': SHO*EUD
-'was': WA
+'was': WAS
 'master': PHAFRT
 'now,': TPHOU KW-BG
 'and': SKP
@@ -3372,7 +3372,7 @@ The Shadow
 'sun.': SUPB TP-PL
 'The': -T
 'shadow': SHO*EUD
-'always': AULZ
+'always': AULS
 'knew': TPHAOU
 'when': WHEPB
 'to': TO
@@ -3391,13 +3391,13 @@ The Shadow
 'of': -F
 'it,': T KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'had': H
 'a': AEU
 'good': TKPWAOD
 'heart,': HART KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'exceedingly': EBGS/AOED/TKPWHREU
 'mild': PHAOEULD
 'and': SKP
@@ -3424,7 +3424,7 @@ The Shadow
 'we': WE
 'have': SR
 'become': PW-BG
-'travelling': TRAFLG
+'travelling': TRAFLG/A*U
 'companions,': KPAPB/KWROPBS KW-BG
 'shall': SHAL
 'we': WE
@@ -3433,7 +3433,7 @@ The Shadow
 'to': TO
 'our': OUR
 'good': TKPWAOD
-'fellowship,': TPEL/OE/SHEUP KW-BG
+'fellowship,': TPEL/HROE/SH-P KW-BG
 'and': SKP
 'say': SAEU
 'thee': THAOE
@@ -3455,9 +3455,9 @@ The Shadow
 'the': -T
 'shadow,': SHO*EUD KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'now': TPHOU
-'really': HROERL
+'really': R-L
 'master.': PHAFRT TP-PL
 '"I': KR-GS EU
 'will': HR
@@ -3613,7 +3613,7 @@ The Shadow
 'to': TO
 'him,': HEUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'is': S
 'to': TO
 'say': SAEU
@@ -3621,8 +3621,8 @@ The Shadow
 'to': TO
 'me."': PHE TP-PL KR-GS
 'However,': HOUF KW-BG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'submit.': SPHEUT TP-PL
@@ -3657,7 +3657,7 @@ The Shadow
 'every': EF
 'one': WUPB
 'very': SRE
-'uneasy.': XXX uneasy TP-PL
+'uneasy.': UPB/EZ TP-PL
 'She': SHE
 'saw': SAU
 'at': AT
@@ -3666,7 +3666,7 @@ The Shadow
 'the': -T
 'new': TPHU
 'comer': KOPL/ER
-'was': WA
+'was': WAS
 'very': SRE
 'different': TKEUFRT
 'to': TO
@@ -3675,7 +3675,7 @@ The Shadow
 'else.': ELS TP-PL
 '"They': KR-GS THE
 'say': SAEU
-'he': E
+'he': HE
 'is': S
 'here': HAOER
 'to': TO
@@ -3691,7 +3691,7 @@ The Shadow
 'the': -T
 'real': RAEL
 'cause,': KAUS KW-BG
-'he': E
+'he': HE
 'is': S
 'unable': TPHA*EUBL
 'to': TO
@@ -3725,7 +3725,7 @@ The Shadow
 'a': AEU
 'princess,': PREUPB/ES KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'not': TPHOT
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
@@ -3766,7 +3766,7 @@ The Shadow
 'your': KWROUR
 'illness,"': HR*PBS KW-BG KR-GS
 'said': SAEUD
-'he.': E TP-PL
+'he.': HE TP-PL
 '"I': KR-GS EU
 'know': TPHOE
 'your': KWROUR
@@ -3800,7 +3800,7 @@ The Shadow
 'person': PERPB
 'who': WHO
 'is': S
-'always': AULZ
+'always': AULS
 'at': AT
 'my': PHEU
 'side?': SAOEUD H-F
@@ -3868,7 +3868,7 @@ The Shadow
 'princess;': PREUPB/ES STPH*FPLT
 '"am': KR-GS APL
 'I': EU
-'really': HROERL
+'really': R-L
 'cured?': KAOURD H-F
 'This': TH
 'must': PHUFT
@@ -3902,9 +3902,9 @@ The Shadow
 'be': -B
 'amusing.': A/PHAOUFG TP-PL
 'This': TH
-'foreign': TPOERP
+'foreign': TPOERPB
 'prince—for': PREUPBS EPL/TKA*RB TPOR
-'he': E
+'he': HE
 'must': PHUFT
 'be': -B
 'a': AEU
@@ -3921,14 +3921,14 @@ The Shadow
 'won't': WOEPBT
 'grow,': TKPWROE KW-BG
 'or': OR
-'he': E
+'he': HE
 'will': HR
 'leave': HREF
 'at': AT
 'once."': WUPBS TP-PL KR-GS
 'In': TPH
 'the': -T
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'the': -T
 'princess': PREUPB/ES
 'and': SKP
@@ -3942,11 +3942,11 @@ The Shadow
 'assembly': A/SEPL/PWHREU
 'rooms.': RAOPLS TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'light,': HRAOEUT KW-BG
 'but': PWUT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'lighter': HRAOEURT
 'still;': STEUL STPH*FPLT
 'she': SHE
@@ -3968,7 +3968,7 @@ The Shadow
 'come,': KOPL KW-BG
 'and': SKP
 'found': TPOUPBD
-'he': E
+'he': HE
 'knew': TPHAOU
 'it': T
 'and': SKP
@@ -3979,10 +3979,10 @@ The Shadow
 'not': TPHOT
 'while': WHAOEUL
 'she': SHE
-'was': WA
+'was': WAS
 'at': AT
 'home.': HOEPL TP-PL
-'He': E
+'He': HE
 'had': H
 'looked': HRAOBGD
 'into': TPHAO
@@ -3990,7 +3990,7 @@ The Shadow
 'windows': WO*EUPBDZ
 'of': -F
 'her': HER
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'palace,': PAL/AS KW-BG
 'both': PWO*T
 'the': -T
@@ -3999,7 +3999,7 @@ The Shadow
 'the': -T
 'lower': HROUR
 'windows;': WO*EUPBDZ STPH*FPLT
-'he': E
+'he': HE
 'had': H
 'seen': SAOEPB
 'many': PHAEPB
@@ -4019,7 +4019,7 @@ The Shadow
 'her.': HER TP-PL
 'She': SHE
 'thought': THAUT
-'he': E
+'he': HE
 'must': PHUFT
 'be': -B
 'the': -T
@@ -4071,7 +4071,7 @@ The Shadow
 'more,': PHOR KW-BG
 'and': SKP
 'she': SHE
-'was': WA
+'was': WAS
 'nearly': TPHAOERL
 'telling': TELG
 'him,': HEUPL KW-BG
@@ -4101,7 +4101,7 @@ The Shadow
 'have': SR
 'to': TO
 'rule.': RAOUL TP-PL
-'"He': KR-GS E
+'"He': KR-GS HE
 'is': S
 'a': AEU
 'clever': KHREFR
@@ -4116,7 +4116,7 @@ The Shadow
 'good': TKPWAOD
 'thing,': THEUPBG KW-BG
 'and': SKP
-'he': E
+'he': HE
 'dances': TKAPBS/-S
 'admirably,': AD/PHEUR/PWHREU KW-BG
 'which': WEU
@@ -4125,7 +4125,7 @@ The Shadow
 'good.': TKPWAOD TP-PL
 'But': PWUT
 'has': HAS
-'he': E
+'he': HE
 'well-grounded': WEL H-PB TKPWROUPBD/-D
 'knowledge?': TPHOPBLG H-F
 'that': THA
@@ -4151,7 +4151,7 @@ The Shadow
 'could': KO
 'not': TPHOT
 'have': SR
-'answered': APBSD
+'answered': AEPBS/-D
 'it,': T KW-BG
 'and': SKP
 'the': -T
@@ -4169,14 +4169,14 @@ The Shadow
 'the': -T
 'princess.': PREUPB/ES TP-PL
 '"I': KR-GS EU
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'something': S-G
 'about': PW
 'it': T
 'in': TPH
 'my': PHEU
 'childhood,"': KHAOEULD/H*D KW-BG KR-GS
-'he': E
+'he': HE
 'replied;': RE/PHRAOEUD STPH*FPLT
 '"and': KR-GS SKP
 'believe': PWHREF
@@ -4221,11 +4221,11 @@ The Shadow
 'to': TO
 'believe': PWHREF
 'that': THA
-'he': E
+'he': HE
 'can': K
 'do': TKO
 'so.': SO TP-PL
-'He': E
+'He': HE
 'has': HAS
 'followed': TPOLD
 'me': PHE
@@ -4235,7 +4235,7 @@ The Shadow
 'years,': KWRAOERS KW-BG
 'and': SKP
 'has': HAS
-'heard': HERD
+'heard': HAERD
 'so': SO
 'much': PHUFP
 'from': TPR
@@ -4246,7 +4246,7 @@ The Shadow
 'it': T
 'is': S
 'very': SRE
-'likely.': HREULG TP-PL
+'likely.': HRAOEULG TP-PL
 'But': PWUT
 'your': KWROUR
 'royal': ROEUL
@@ -4257,7 +4257,7 @@ The Shadow
 'to': TO
 'observe,': OEB KW-BG
 'that': THA
-'he': E
+'he': HE
 'is': S
 'very': SRE
 'proud': PROUD
@@ -4276,11 +4276,11 @@ The Shadow
 'humor,': HAOURPL KW-BG
 'so': SO
 'that': THA
-'he': E
+'he': HE
 'may': PHAE
 'answer': AEPBS
 'correctly,': KREBT/HREU KW-BG
-'he': E
+'he': HE
 'must': PHUFT
 'be': -B
 'treated': TRAETD
@@ -4347,7 +4347,7 @@ The Shadow
 'a': AEU
 'wonderful': WUFL
 'man': PHAPB
-'he': E
+'he': HE
 'must': PHUFT
 'be,': -B KW-BG
 'to': TO
@@ -4396,7 +4396,7 @@ The Shadow
 'but': PWUT
 'no': TPHO
 'one': WUPB
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'told': TOLD
@@ -4423,7 +4423,7 @@ The Shadow
 'own': OEPB
 'shadow;"': SHO*EUD STPH*FPLT KR-GS
 'and': SKP
-'he': E
+'he': HE
 'had': H
 'very': SRE
 'particular': PHRAR
@@ -4498,7 +4498,7 @@ The Shadow
 'have': SR
 'a': AEU
 'hundred': HUPBD
-'thousand': THOUZ
+'thousand': THOEUPB
 'dollars': TKHRARS
 'a': AEU
 'year;': KWRAOER STPH*FPLT
@@ -4536,7 +4536,7 @@ The Shadow
 'balcony': PWAL/KOEPB
 'in': TPH
 'the': -T
-'sunshine,': S*UPB/SHAOEUPB KW-BG
+'sunshine,': SUPB/SHAO*EUPB KW-BG
 'you': U
 'must': PHUFT
 'lie': HRAOEU
@@ -4568,9 +4568,9 @@ The Shadow
 'take': TAEUBG
 'place': PHRAEUS
 'this': TH
-'evening."': AOEPG TP-PL KR-GS
+'evening."': AOEPBG TP-PL KR-GS
 '"Now,': KR-GS TPHOU KW-BG
-'really,': HROERL KW-BG
+'really,': R-L KW-BG
 'this': TH
 'is': S
 'too': TAO
@@ -4620,7 +4620,7 @@ The Shadow
 'dressed': TKREFD
 'up': UP
 'in': TPH
-'men's': PHEPB AE S*/SP-S
+'men's': PHEPB/AES
 'clothes."': KHRO*ETS TP-PL KR-GS
 '"No': KR-GS TPHO
 'one': WUPB
@@ -4655,7 +4655,7 @@ The Shadow
 'shall': SHAL
 'be': -B
 'there': THR
-'first,"': TPEURS KW-BG KR-GS
+'first,"': TPEUFRT KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'shadow,': SHO*EUD KW-BG
@@ -4680,13 +4680,13 @@ The Shadow
 'as': AZ
 'they': THE
 'knew': TPHAOU
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'going': TKPW-G
 'to': TO
 'marry': PHAER
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter.': TKAUR TP-PL
 '"You': KR-GS U
 'tremble,"': TREPL/-BL KW-BG KR-GS
@@ -4710,7 +4710,7 @@ The Shadow
 'to-day,': TO H-PB TKAEU KW-BG
 'for': TPOR
 'this': TH
-'evening': AOEPG
+'evening': AOEPBG
 'our': OUR
 'wedding': WEGD
 'will': HR
@@ -4749,10 +4749,10 @@ The Shadow
 'not': TPHOT
 'bear': PWAER
 'much;': PHUFP STPH*FPLT
-'he': E
+'he': HE
 'fancies': TPAPB/SEU/KWREU/-S
 'that': THA
-'he': E
+'he': HE
 'has': HAS
 'become': PW-BG
 'a': AEU
@@ -4771,16 +4771,16 @@ The Shadow
 'the': -T
 'princess;': PREUPB/ES STPH*FPLT
 '"is': KR-GS S
-'he': E
+'he': HE
 'locked': HROBGD
 'up?"': UP H-F KR-GS
-'"Oh': KR-GS O*ERBGS
+'"Oh': KR-GS O*E
 'yes,': KWRE KW-BG
 'certainly;': SERPBL STPH*FPLT
 'for': TPOR
 'I': EU
 'fear': TPAOER
-'he': E
+'he': HE
 'will': HR
 'never': TPHEF
 'recover."': ROFR TP-PL KR-GS
@@ -4797,7 +4797,7 @@ The Shadow
 'him;': HEUPL STPH*FPLT
 'it': T
 'would': WO
-'really': HROERL
+'really': R-L
 'be': -B
 'a': AEU
 'good': TKPWAOD
@@ -4850,16 +4850,16 @@ The Shadow
 'upon': POPB
 'him,': HEUPL KW-BG
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'a': AEU
 'faithful': TPA*EUT/-FL
-'servant,"': SEFB/APBT KW-BG KR-GS
+'servant,"': SEFRB/APBT KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'shadow;': SHO*EUD STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'pretended': PRE/TEPBD/-D
 'to': TO
 'sigh.': SAOEU TP-PL
@@ -4878,11 +4878,11 @@ The Shadow
 'him.': HEUPL TP-PL
 'In': TPH
 'the': -T
-'evening': AOEPG
+'evening': AOEPBG
 'the': -T
 'whole': WHOEL
 'town': TOUPB
-'was': WA
+'was': WAS
 'illuminated,': EUL/AOUPL/TPHAEUT/-D KW-BG
 'and': SKP
 'cannons': KAPB/TPHOPB/-S
@@ -4894,7 +4894,7 @@ The Shadow
 'presented': PREPBTD
 'arms.': ARPLS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'indeed': TPHAOEPBD
 'a': AEU
 'grand': TKPWRAPBD
@@ -4922,15 +4922,15 @@ The Shadow
 'the': -T
 'learned': HRERPBD
 'man': PHAPB
-'heard': HERD
+'heard': HAERD
 'nothing': TPHOG
 'of': -F
 'all': AUL
 'these': THEZ
 'festivities,': TPEFT/EUFT/TEU/-S KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'had': H
 'already': HR-R
 'been': PW-PB
-'executed.': SKAOUT/-D TP-PL
+'executed.': SKAOUTD TP-PL

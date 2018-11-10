@@ -1,8 +1,8 @@
 Tom Thumb
 
-'A': AEU
+'A': KPA*/AEU
 'poor': PAOR
-'woodman': XXX woodman
+'woodman': KPA/WAOD/TK-LS/PHAPB
 'sat': SAT
 'in': TPH
 'his': HEUS
@@ -29,9 +29,9 @@ Tom Thumb
 'is,': S KW-BG
 'wife,'': WAOEUF KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 'as': AZ
-'he': E
+'he': HE
 'puffed': PUFD
 'out': OUT
 'a': AEU
@@ -47,7 +47,7 @@ Tom Thumb
 'sit': SEUT
 'here': HAOER
 'by': PWEU
-'ourselves,': OUR/SEFS KW-BG
+'ourselves,': O*URSZ KW-BG
 'without': WOUT
 'any': TPHEU
 'children': KHEURPB
@@ -99,7 +99,7 @@ Tom Thumb
 'were': WR
 'ever': -FR
 'so': SO
-'small--nay,': SPAUL H-PB H-PB TPHAEU KW-BG
+'small--nay,': SPHAL H-PB H-PB TPHAEU KW-BG
 'if': TP
 'it': T
 'were': WR
@@ -128,9 +128,9 @@ Tom Thumb
 'that': THA
 'this': TH
 'good': TKPWAOD
-'woman's': WOPL AE S*/SP-S
+'woman's': WOPL/AES
 'wish': WEURB
-'was': WA
+'was': WAS
 'fulfilled,': TPUL/TPEULD KW-BG
 'just': SKWRUFT
 'in': TPH
@@ -151,13 +151,13 @@ Tom Thumb
 'little': HREUL
 'boy,': PWOEU KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'healthy': HOEUFLT
 'and': SKP
 'strong,': STROPBG KW-BG
 'but': PWUT
-'was': WA
+'was': WAS
 'not': TPHOT
 'much': PHUFP
 'bigger': PWEURG
@@ -182,7 +182,7 @@ Tom Thumb
 'and,': SKP KW-BG
 'little': HREUL
 'as': AZ
-'he': E
+'he': HE
 'is,': S KW-BG
 'we': WE
 'will': HR
@@ -207,7 +207,7 @@ Tom Thumb
 'they': THE
 'could': KO
 'do': TKO
-'he': E
+'he': HE
 'never': TPHEF
 'grew': TKPWRAOU
 'bigger,': PWEURG KW-BG
@@ -218,12 +218,12 @@ Tom Thumb
 'same': SAEUPL
 'size': SAOEUZ
 'as': AZ
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'when': WHEPB
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'born.': PWORPB TP-PL
 'Still,': STEUL KW-BG
 'his': HEUS
@@ -233,7 +233,7 @@ Tom Thumb
 'and': SKP
 'sparkling,': SPAR/K-LG KW-BG
 'and': SKP
-'he': E
+'he': HE
 'soon': SAOPB
 'showed': SHOED
 'himself': H*EUPLS
@@ -244,21 +244,21 @@ Tom Thumb
 'little': HREUL
 'fellow,': TPO*EUL KW-BG
 'who': WHO
-'always': AULZ
+'always': AULS
 'knew': TPHAOU
 'well': WEL
 'what': WHA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'about.': PW TP-PL
 'One': WUPB
 'day,': TKAEU KW-BG
 'as': AZ
 'the': -T
-'woodman': XXX woodman
-'was': WA
+'woodman': KPA/WAOD/TK-LS/PHAPB
+'was': WAS
 'getting': TKPWEGT
-'ready': R*ED
+'ready': R-D
 'to': TO
 'go': TKPW
 'into': TPHAO
@@ -267,13 +267,13 @@ Tom Thumb
 'to': TO
 'cut': KUT
 'fuel,': TPAOUL KW-BG
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 ''I': AE EU
 'wish': WEURB
 'I': EU
 'had': H
-'someone': SWUPB
+'someone': SPH-PB
 'to': TO
 'bring': PWREU
 'the': -T
@@ -286,7 +286,7 @@ Tom Thumb
 'to': TO
 'make': PHAEUBG
 'haste.'': HAEUFT TP-PL AE
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'father,'': TPAER KW-BG AE
 'cried': KRAOEUD
 'Tom,': TOPL KW-BG
@@ -311,7 +311,7 @@ Tom Thumb
 'it.'': T TP-PL AE
 'Then': THEPB
 'the': -T
-'woodman': XXX woodman
+'woodman': KPA/WAOD/TK-LS/PHAPB
 'laughed,': HRAFD KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
@@ -325,8 +325,8 @@ Tom Thumb
 'up': UP
 'to': TO
 'the': -T
-'horse's': HORS AE S*/SP-S
-'bridle.'': PWRAOEUD/-L TP-PL AE
+'horse's': HORS AES
+'bridle.'': PWRAOEUD/*L TP-PL AE
 ''Never': AE TPHEF
 'mind': PHAOEUPBD
 'that,': THA KW-BG
@@ -383,7 +383,7 @@ Tom Thumb
 'ear;': AOER STPH*FPLT
 'and': SKP
 'as': AZ
-'he': E
+'he': HE
 'sat': SAT
 'there': THR
 'the': -T
@@ -402,7 +402,7 @@ Tom Thumb
 'and': SKP
 ''Stop!'': AE STOP SKHRAPL AE
 'as': AZ
-'he': E
+'he': HE
 'wanted:': WAPBTD STPH-FPLT
 'and': SKP
 'thus': THUS
@@ -416,7 +416,7 @@ Tom Thumb
 'as': AZ
 'if': TP
 'the': -T
-'woodman': XXX woodman
+'woodman': KPA/WAOD/TK-LS/PHAPB
 'had': H
 'driven': TKREUFPB
 'it': T
@@ -430,7 +430,7 @@ Tom Thumb
 'as': AZ
 'the': -T
 'horse': HORS
-'was': WA
+'was': WAS
 'going': TKPW-G
 'a': AEU
 'little': HREUL
@@ -438,7 +438,7 @@ Tom Thumb
 'fast,': TPAFT KW-BG
 'and': SKP
 'Tom': TOPL
-'was': WA
+'was': WAS
 'calling': KAULG
 'out,': OUT KW-BG
 ''Gently!': AE SKWREPBT/HREU SKHRAPL
@@ -511,8 +511,8 @@ Tom Thumb
 'place': PHRAEUS
 'where': W-R
 'the': -T
-'woodman': XXX woodman
-'was.': WA TP-PL
+'woodman': KPA/WAOD/TK-LS/PHAPB
+'was.': WAS TP-PL
 'Then': THEPB
 'Tom': TOPL
 'Thumb,': THUPL KW-BG
@@ -558,7 +558,7 @@ Tom Thumb
 'out': OUT
 'of': -F
 'the': -T
-'horse's': HORS AE S*/SP-S
+'horse's': HORS AES
 'ear,': AOER KW-BG
 'and': SKP
 'put': PUT
@@ -568,7 +568,7 @@ Tom Thumb
 'a': AEU
 'straw,': STRAU KW-BG
 'where': W-R
-'he': E
+'he': HE
 'sat': SAT
 'as': AZ
 'merry': PHER/REU
@@ -635,19 +635,19 @@ Tom Thumb
 'up': UP
 'to': TO
 'the': -T
-'woodman,': XXX woodman KW-BG
+'woodman,': KPA/WAOD/TK-LS/PHAPB KW-BG
 'and': SKP
 'asked': SK-D
 'him': HEUPL
 'what': WHA
-'he': E
+'he': HE
 'would': WO
 'take': TAEUBG
 'for': TPOR
 'the': -T
 'little': HREUL
 'man.': PHAPB TP-PL
-''He': AE E
+''He': AE HE
 'will': HR
 'be': -B
 'better': PWOERT
@@ -699,7 +699,7 @@ Tom Thumb
 'crept': KREPT
 'up': UP
 'his': HEUS
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'coat': KOET
 'to': TO
 'his': HEUS
@@ -726,11 +726,11 @@ Tom Thumb
 'you.'': U TP-PL AE
 'So': SO
 'the': -T
-'woodman': XXX woodman
+'woodman': KPA/WAOD/TK-LS/PHAPB
 'at': AT
 'last': HRAFT
 'said': SAEUD
-'he': E
+'he': HE
 'would': WO
 'sell': SEL
 'Tom': TOPL
@@ -758,7 +758,7 @@ Tom Thumb
 'one': WUPB
 'of': -F
 'them.': THEPL TP-PL
-''Oh,': AE O*ERBGS KW-BG
+''Oh,': AE O*E KW-BG
 'put': PUT
 'me': PHE
 'on': OPB
@@ -792,7 +792,7 @@ Tom Thumb
 'they': THE
 'did': TK
 'as': AZ
-'he': E
+'he': HE
 'wished;': WEURBD STPH*FPLT
 'and': SKP
 'when': WHEPB
@@ -848,7 +848,7 @@ Tom Thumb
 'earth,': *ERT KW-BG
 'in': TPH
 'a': AEU
-'ploughed': PHROUD
+'ploughed': PHROUD/A*U
 'field': TPAOELD
 'by': PWEU
 'the': -T
@@ -876,8 +876,8 @@ Tom Thumb
 'my': PHEU
 'masters!'': PHAFT/ERS SKHRAPL AE
 'said': SAEUD
-'he,': E KW-BG
-''I'm': AE EU AE PH*/SP-S
+'he,': HE KW-BG
+''I'm': AE EU AE PH*
 'off!': OF SKHRAPL
 'mind': PHAOEUPBD
 'and': SKP
@@ -902,7 +902,7 @@ Tom Thumb
 'ends': EPDZ
 'of': -F
 'their': THAEUR
-'sticks': STEUBGZ
+'sticks': STEUBGS
 'into': TPHAO
 'the': -T
 'mouse-hole,': PHOUS H-PB HOEL KW-BG
@@ -937,7 +937,7 @@ Tom Thumb
 'their': THAEUR
 'prize,': PRAOEUZ KW-BG
 'as': AZ
-'sulky': XXX sulky
+'sulky': xxx sulky
 'as': AZ
 'could': KO
 'be.': -B TP-PL
@@ -947,7 +947,7 @@ Tom Thumb
 'they': THE
 'were': WR
 'gone,': TKPWOPB KW-BG
-'he': E
+'he': HE
 'came': KAEUPL
 'out': OUT
 'of': -F
@@ -959,10 +959,10 @@ Tom Thumb
 'it': T
 'is,'': S KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''in': AE TPH
 'this': TH
-'ploughed': PHROUD
+'ploughed': PHROUD/A*U
 'field!': TPAOELD SKHRAPL
 'If': TP
 'I': EU
@@ -986,7 +986,7 @@ Tom Thumb
 'by': PWEU
 'good': TKPWAOD
 'luck,': HRUBG KW-BG
-'he': E
+'he': HE
 'found': TPOUPBD
 'a': AEU
 'large': HRARPBLG
@@ -996,7 +996,7 @@ Tom Thumb
 'is': S
 'lucky,'': HROEUBG KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''I': AE EU
 'can': K
 'sleep': SHRAOEP
@@ -1005,16 +1005,16 @@ Tom Thumb
 'well';': WEL AE STPH*FPLT
 'and': SKP
 'in': TPH
-'he': E
+'he': HE
 'crept.': KREPT TP-PL
 'Just': SKWRUFT
 'as': AZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'falling': TPAULG
 'asleep,': A/HRAOEP KW-BG
-'he': E
-'heard': HERD
+'he': HE
+'heard': HAERD
 'two': TWO
 'men': PHEPB
 'passing': PAFG
@@ -1033,31 +1033,31 @@ Tom Thumb
 'rob': ROB
 'that': THA
 'rich': REUFP
-'parson's': PAR/SOPB AE S*/SP-S
+'parson's': PAR/SOPB AES
 'house': HOUS
 'of': -F
 'his': HEUS
 'silver': SEUL/SRER
 'and': SKP
 'gold?'': TKPWOELD H-F AE
-''I'll': AE EU AE XXX ll
+''I'll': AE EU AE HR*/HR*
 'tell': TEL
 'you!'': U SKHRAPL AE
 'cried': KRAOEUD
 'Tom.': TOPL TP-PL
 ''What': AE WHA
 'noise': TPHOEUS
-'was': WA
+'was': WAS
 'that?'': THA H-F AE
 'said': SAEUD
 'the': -T
 'thief,': THAOEF KW-BG
 'frightened;': TPRAOEUPBD STPH*FPLT
-''I'm': AE EU AE PH*/SP-S
+''I'm': AE EU AE PH*
 'sure': SHUR
 'I': EU
-'heard': HERD
-'someone': SWUPB
+'heard': HAERD
+'someone': SPH-PB
 'speak.'': SPAOEBG TP-PL AE
 'They': THE
 'stood': STAOD
@@ -1079,7 +1079,7 @@ Tom Thumb
 'to': TO
 'get': TKPWET
 'the': -T
-'parson's': PAR/SOPB AE S*/SP-S
+'parson's': PAR/SOPB AES
 'money.'': PHUPB TP-PL AE
 ''But': AE PWUT
 'where': W-R
@@ -1092,8 +1092,8 @@ Tom Thumb
 'on': OPB
 'the': -T
 'ground,'': TKPWROUPBD KW-BG AE
-'answered': APBSD
-'he,': E KW-BG
+'answered': AEPBS/-D
+'he,': HE KW-BG
 ''and': AE SKP
 'listen': HREUFPB
 'where': W-R
@@ -1136,7 +1136,7 @@ Tom Thumb
 'window-bars': WOEUPBD H-PB PWARS
 'of': -F
 'the': -T
-'parson's': PAR/SOPB AE S*/SP-S
+'parson's': PAR/SOPB AES
 'house,': HOUS KW-BG
 'and': SKP
 'throw': THROE
@@ -1145,7 +1145,7 @@ Tom Thumb
 'whatever': WHAF
 'you': U
 'want.'': WAPBT TP-PL AE
-''That's': AE THA AE S*/SP-S
+''That's': AE THA AES
 'a': AEU
 'good': TKPWAOD
 'thought,'': THAUT KW-BG AE
@@ -1166,7 +1166,7 @@ Tom Thumb
 'came': KAEUPL
 'to': TO
 'the': -T
-'parson's': PAR/SOPB AE S*/SP-S
+'parson's': PAR/SOPB AES
 'house,': HOUS KW-BG
 'Tom': TOPL
 'slipped': SHREUPD
@@ -1183,7 +1183,7 @@ Tom Thumb
 'as': AZ
 'loud': HROUD
 'as': AZ
-'he': E
+'he': HE
 'could': KO
 'bawl,': PWA*UL KW-BG
 ''Will': AE HR
@@ -1216,7 +1216,7 @@ Tom Thumb
 'seemed': SAOEPLD
 'as': AZ
 'if': TP
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'understand': URPBD
@@ -1324,7 +1324,7 @@ Tom Thumb
 'as': AZ
 'loud': HROUD
 'as': AZ
-'he': E
+'he': HE
 'could,': KO KW-BG
 ''Very': AE SRE
 'well!': WEL SKHRAPL
@@ -1336,7 +1336,7 @@ Tom Thumb
 'comes.'': KOPLS TP-PL AE
 'The': -T
 'cook': KAOBG
-'heard': HERD
+'heard': HAERD
 'this': TH
 'quite': KWAOEUT
 'plain,': PHRAEUPB KW-BG
@@ -1360,7 +1360,7 @@ Tom Thumb
 'if': TP
 'a': AEU
 'wolf': WOFL
-'was': WA
+'was': WAS
 'at': AT
 'their': THAEUR
 'tails:': TAEULS STPH-FPLT
@@ -1438,11 +1438,11 @@ Tom Thumb
 'to': TO
 'finish': TP*EURB
 'his': HEUS
-'night's': TPHAOEUT AE S*/SP-S
+'night's': TPHAOEUT AES
 'rest': REFT
 'in;': TPH STPH*FPLT
 'so': SO
-'he': E
+'he': HE
 'laid': HRAEUD
 'himself': H*EUPLS
 'down,': TKOUPB KW-BG
@@ -1466,8 +1466,8 @@ Tom Thumb
 'alas!': A/HRAS SKHRAPL
 'how': HOU
 'woefully': WOE/TPHREU
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'undone!': UPB/TKOPB SKHRAPL
 'what': WHA
 'crosses': KROFS
@@ -1515,7 +1515,7 @@ Tom Thumb
 'it,': T KW-BG
 'fast': TPAFT
 'asleep.': A/HRAOEP TP-PL
-'He': E
+'He': HE
 'still,': STEUL KW-BG
 'however,': HOUF KW-BG
 'slept': SHREPD
@@ -1525,7 +1525,7 @@ Tom Thumb
 'not': TPHOT
 'awake': A/WAEUBG
 'till': T*EUL
-'he': E
+'he': HE
 'found': TPOUPBD
 'himself': H*EUPLS
 'in': TPH
@@ -1543,7 +1543,7 @@ Tom Thumb
 'hay': HA*EU
 'into': TPHAO
 'the': -T
-'cow's': KO*U AE S*/SP-S
+'cow's': KO*U AES
 'rick,': REUBG KW-BG
 'and': SKP
 'the': -T
@@ -1554,13 +1554,13 @@ Tom Thumb
 'up': UP
 'in': TPH
 'a': AEU
-'mouthful': XXX mouthful
+'mouthful': xxx mouthful
 'of': -F
 'it.': T TP-PL
 ''Good': AE TKPWAOD
 'lack-a-day!'': HRABG H-PB AEU H-PB TKAEU SKHRAPL AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 ''how': AE HOU
 'came': KAEUPL
 'I': EU
@@ -1570,16 +1570,16 @@ Tom Thumb
 'the': -T
 'mill?'': PHEUL H-F AE
 'But': PWUT
-'he': E
+'he': HE
 'soon': SAOPB
 'found': TPOUPBD
 'out': OUT
 'where': W-R
-'he': E
-'really': HROERL
-'was;': WA STPH*FPLT
+'he': HE
+'really': R-L
+'was;': WAS STPH*FPLT
 'and': SKP
-'was': WA
+'was': WAS
 'forced': TPOFRD
 'to': TO
 'have': SR
@@ -1589,13 +1589,13 @@ Tom Thumb
 'about': PW
 'him,': HEUPL KW-BG
 'that': THA
-'he': E
+'he': HE
 'might': PHAOEUT
 'not': TPHOT
 'get': TKPWET
 'between': TWAOEPB
 'the': -T
-'cow's': KO*U AE S*/SP-S
+'cow's': KO*U AES
 'teeth,': TAO*ET KW-BG
 'and': SKP
 'so': SO
@@ -1606,7 +1606,7 @@ Tom Thumb
 'At': AT
 'last': HRAFT
 'down': TKOUPB
-'he': E
+'he': HE
 'went': WEPBT
 'into': TPHAO
 'her': HER
@@ -1616,11 +1616,11 @@ Tom Thumb
 'rather': RAER
 'dark,'': TKARBG KW-BG AE
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 ''they': AE THE
 'forgot': TPAURGT
 'to': TO
-'build': PEULD
+'build': PWEULD
 'windows': WO*EUPBDZ
 'in': TPH
 'this': TH
@@ -1638,7 +1638,7 @@ Tom Thumb
 'bad': PWAD
 'thing.'': THEUPBG TP-PL AE
 'Though': THOE
-'he': E
+'he': HE
 'made': PHAED
 'the': -T
 'best': PWEFT
@@ -1646,7 +1646,7 @@ Tom Thumb
 'his': HEUS
 'bad': PWAD
 'luck,': HRUBG KW-BG
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'like': HRAOEUBG
@@ -1659,14 +1659,14 @@ Tom Thumb
 'worst': WOFRT
 'of': -F
 'it': T
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'that': THA
 'more': PHOR
 'and': SKP
 'more': PHOR
 'hay': HA*EU
-'was': WA
-'always': AULZ
+'was': WAS
+'always': AULS
 'coming': KO*G
 'down,': TKOUPB KW-BG
 'and': SKP
@@ -1681,21 +1681,21 @@ Tom Thumb
 'smaller.': SPHAURL TP-PL
 'At': AT
 'last': HRAFT
-'he': E
+'he': HE
 'cried': KRAOEUD
 'out': OUT
 'as': AZ
 'loud': HROUD
 'as': AZ
-'he': E
+'he': HE
 'could,': KO KW-BG
-''Don't': AE TKO*PB AE T*/SP-S
+''Don't': AE TKO*PB AE T*
 'bring': PWREU
 'me': PHE
 'any': TPHEU
 'more': PHOR
 'hay!': HA*EU SKHRAPL
-'Don't': TKO*PB AE T*/SP-S
+'Don't': TKO*PB AE T*
 'bring': PWREU
 'me': PHE
 'any': TPHEU
@@ -1713,7 +1713,7 @@ Tom Thumb
 'cow;': KO*U STPH*FPLT
 'and': SKP
 'hearing': HAERG
-'someone': SWUPB
+'someone': SPH-PB
 'speak,': SPAOEBG KW-BG
 'but': PWUT
 'seeing': SAOEG
@@ -1724,19 +1724,19 @@ Tom Thumb
 'quite': KWAOEUT
 'sure': SHUR
 'it': T
-'was': WA
+'was': WAS
 'the': -T
 'same': SAEUPL
 'voice': SROEUS
 'that': THA
 'she': SHE
 'had': H
-'heard': HERD
+'heard': HAERD
 'in': TPH
 'the': -T
 'night,': TPHAOEUT KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'so': SO
 'frightened': TPRAOEUPBD
 'that': THA
@@ -1746,7 +1746,7 @@ Tom Thumb
 'her': HER
 'stool,': STOL KW-BG
 'and': SKP
-'overset': XXX overset
+'overset': xxx overset
 'the': -T
 'milk-pail.': PHEULG H-PB PAEUL TP-PL
 'As': AZ
@@ -1792,7 +1792,7 @@ Tom Thumb
 'surely': SHURL
 'mad!'': PHAD SKHRAPL AE
 'However,': HOUF KW-BG
-'he': E
+'he': HE
 'went': WEPBT
 'with': W
 'her': HER
@@ -1804,7 +1804,7 @@ Tom Thumb
 'and': SKP
 'see': SAOE
 'what': WHA
-'was': WA
+'was': WAS
 'the': -T
 'matter.': PHAERT TP-PL
 'Scarcely': SKAEURS/HREU
@@ -1819,7 +1819,7 @@ Tom Thumb
 'Tom': TOPL
 'called': KAULD
 'out,': OUT KW-BG
-''Don't': AE TKO*PB AE T*/SP-S
+''Don't': AE TKO*PB AE T*
 'bring': PWREU
 'me': PHE
 'any': TPHEU
@@ -1829,13 +1829,13 @@ Tom Thumb
 'the': -T
 'parson': PAR/SOPB
 'himself': H*EUPLS
-'was': WA
+'was': WAS
 'frightened;': TPRAOEUPBD STPH*FPLT
 'and': SKP
 'thinking': THEUG
 'the': -T
 'cow': KO*U
-'was': WA
+'was': WAS
 'surely': SHURL
 'bewitched,': PWE/WEUFP/-D KW-BG
 'told': TOLD
@@ -1850,7 +1850,7 @@ Tom Thumb
 'So': SO
 'the': -T
 'cow': KO*U
-'was': WA
+'was': WAS
 'killed,': KEULD KW-BG
 'and': SKP
 'cut': KUT
@@ -1862,12 +1862,12 @@ Tom Thumb
 'which': WEU
 'Tom': TOPL
 'lay,': HRAEU KW-BG
-'was': WA
+'was': WAS
 'thrown': THROEPB
 'out': OUT
 'upon': POPB
 'a': AEU
-'dunghill.': XXX dunghill TP-PL
+'dunghill.': xxx dunghill TP-PL
 'Tom': TOPL
 'soon': SAOPB
 'set': SET
@@ -1878,7 +1878,7 @@ Tom Thumb
 'get': TKPWET
 'out,': OUT KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'not': TPHOT
 'a': AEU
 'very': SRE
@@ -1889,7 +1889,7 @@ Tom Thumb
 'last,': HRAFT KW-BG
 'just': SKWRUFT
 'as': AZ
-'he': E
+'he': HE
 'had': H
 'made': PHAED
 'room': RAOPL
@@ -1900,10 +1900,10 @@ Tom Thumb
 'out,': OUT KW-BG
 'fresh': TPRERB
 'ill-luck': EUL H-PB HRUBG
-'befell': XXX befell
+'befell': PWE/TPEL
 'him.': HEUPL TP-PL
-'A': AEU
-'hungry': UPBG/REU
+'A': KPA*/AEU
+'hungry': HUPBG/REU
 'wolf': WOFL
 'sprang': SPRAPBG
 'out,': OUT KW-BG
@@ -1919,13 +1919,13 @@ Tom Thumb
 'it,': T KW-BG
 'at': AT
 'one': WUPB
-'gulp,': TKPWUL/-P KW-BG
+'gulp,': TKPWUL/*P KW-BG
 'and': SKP
 'ran': RAPB
 'away.': A/WAEU TP-PL
 'Tom,': TOPL KW-BG
 'however,': HOUF KW-BG
-'was': WA
+'was': WAS
 'still': STEUL
 'not': TPHOT
 'disheartened;': TKEUS/HART/*EPB/-D STPH*FPLT
@@ -1942,11 +1942,11 @@ Tom Thumb
 'with': W
 'him': HEUPL
 'as': AZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'going': TKPW-G
 'along,': A/HROPBG KW-BG
-'he': E
+'he': HE
 'called': KAULD
 'out,': OUT KW-BG
 ''My': AE PHEU
@@ -1959,7 +1959,7 @@ Tom Thumb
 'a': AEU
 'famous': TPAEUPLS
 'treat.'': TRAOET TP-PL AE
-''Where's': AE W-R AE S*/SP-S
+''Where's': AE W-R AES
 'that?'': THA H-F AE
 'said': SAEUD
 'the': -T
@@ -1975,7 +1975,7 @@ Tom Thumb
 'describing': SKREUG
 'his': HEUS
 'own': OEPB
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'house.': HOUS TP-PL
 ''You': AE U
 'can': K
@@ -1990,7 +1990,7 @@ Tom Thumb
 'then': THEPB
 'into': TPHAO
 'the': -T
-'pantry,': PAPB/TREU KW-BG
+'pantry,': PAPBT/REU KW-BG
 'and': SKP
 'there': THR
 'you': U
@@ -2024,7 +2024,7 @@ Tom Thumb
 'that': THA
 'very': SRE
 'night': TPHAOEUT
-'he': E
+'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
@@ -2041,7 +2041,7 @@ Tom Thumb
 'then': THEPB
 'into': TPHAO
 'the': -T
-'pantry,': PAPB/TREU KW-BG
+'pantry,': PAPBT/REU KW-BG
 'and': SKP
 'ate': AEUT
 'and': SKP
@@ -2049,28 +2049,28 @@ Tom Thumb
 'there': THR
 'to': TO
 'his': HEUS
-'heart's': HART AE S*/SP-S
+'heart's': HART AES
 'content.': KAUPBT TP-PL
 'As': AZ
 'soon': SAOPB
 'as': AZ
-'he': E
+'he': HE
 'had': H
 'had': H
 'enough': TPHUF
-'he': E
+'he': HE
 'wanted': WAPBTD
 'to': TO
 'get': TKPWET
 'away;': A/WAEU STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'had': H
 'eaten': AOET/EPB
 'so': SO
 'much': PHUFP
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'go': TKPW
@@ -2079,11 +2079,11 @@ Tom Thumb
 'the': -T
 'same': SAEUPL
 'way': WAEU
-'he': E
+'he': HE
 'came': KAEUPL
 'in.': TPH TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'what': WHA
 'Tom': TOPL
@@ -2092,7 +2092,7 @@ Tom Thumb
 'upon;': POPB STPH*FPLT
 'and': SKP
 'now': TPHOU
-'he': E
+'he': HE
 'began': TKPWAPB
 'to': TO
 'set': SET
@@ -2104,7 +2104,7 @@ Tom Thumb
 'all': AUL
 'the': -T
 'noise': TPHOEUS
-'he': E
+'he': HE
 'could.': KO TP-PL
 ''Will': AE HR
 'you': U
@@ -2113,7 +2113,7 @@ Tom Thumb
 'said': SAEUD
 'the': -T
 'wolf;': WOFL STPH*FPLT
-''you'll': AE U AE XXX ll
+''you'll': AE U AE HR*/HR*
 'awaken': A/WA*EUPB
 'everybody': EFB
 'in': TPH
@@ -2125,7 +2125,7 @@ Tom Thumb
 'such': SUFP
 'a': AEU
 'clatter.'': KHRAT/ER TP-PL AE
-''What's': AE WHA AE S*/SP-S
+''What's': AE WHA AES
 'that': THA
 'to': TO
 'me?'': PHE H-F AE
@@ -2147,7 +2147,7 @@ Tom Thumb
 'merry': PHER/REU
 'myself';': PHAO*EUS AE STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'began,': TKPWAPB KW-BG
 'singing': SEUPBG/-G
 'and': SKP
@@ -2155,10 +2155,10 @@ Tom Thumb
 'as': AZ
 'loud': HROUD
 'as': AZ
-'he': E
+'he': HE
 'could.': KO TP-PL
 'The': -T
-'woodman': XXX woodman
+'woodman': KPA/WAOD/TK-LS/PHAPB
 'and': SKP
 'his': HEUS
 'wife,': WAOEUF KW-BG
@@ -2180,7 +2180,7 @@ Tom Thumb
 'saw': SAU
 'a': AEU
 'wolf': WOFL
-'was': WA
+'was': WAS
 'there,': THR KW-BG
 'you': U
 'may': PHAE
@@ -2193,7 +2193,7 @@ Tom Thumb
 'frightened;': TPRAOEUPBD STPH*FPLT
 'and': SKP
 'the': -T
-'woodman': XXX woodman
+'woodman': KPA/WAOD/TK-LS/PHAPB
 'ran': RAPB
 'for': TPOR
 'his': HEUS
@@ -2210,7 +2210,7 @@ Tom Thumb
 'behind,'': HEUPBD KW-BG AE
 'said': SAEUD
 'the': -T
-'woodman,': XXX woodman KW-BG
+'woodman,': KPA/WAOD/TK-LS/PHAPB KW-BG
 ''and': AE SKP
 'when': WHEPB
 'I': EU
@@ -2229,7 +2229,7 @@ Tom Thumb
 'the': -T
 'scythe.'': SKRAOEUT TP-PL AE
 'Tom': TOPL
-'heard': HERD
+'heard': HAERD
 'all': AUL
 'this,': TH KW-BG
 'and': SKP
@@ -2260,7 +2260,7 @@ Tom Thumb
 'child': KHAOEULD
 'again';': TKPWEPB AE STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'told': TOLD
 'his': HEUS
 'wife': WAOEUF
@@ -2276,7 +2276,7 @@ Tom Thumb
 'hurt': HURT
 'him.': HEUPL TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'aimed': AEUPLD
 'a': AEU
 'great': TKPWRAET
@@ -2296,8 +2296,8 @@ Tom Thumb
 'spot!': SPOT SKHRAPL
 'and': SKP
 'when': WHEPB
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'dead': TKED
 'they': THE
 'cut': KUT
@@ -2321,11 +2321,11 @@ Tom Thumb
 'you!'': U SKHRAPL AE
 ''Yes,': AE KWRE KW-BG
 'father,'': TPAER KW-BG AE
-'answered': APBSD
-'he;': E STPH*FPLT
+'answered': AEPBS/-D
+'he;': HE STPH*FPLT
 ''I': AE EU
 'have': SR
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'all': AUL
 'over': OEFR
 'the': -T
@@ -2373,11 +2373,11 @@ Tom Thumb
 'snail-shell--and': STPHAEUL H-PB SHEL H-PB H-PB SKP
 'down': TKOUPB
 'a': AEU
-'cow's': KO*U AE S*/SP-S
+'cow's': KO*U AES
 'throat--and': THROET H-PB H-PB SKP
 'in': TPH
 'the': -T
-'wolf's': WOFL AE S*/SP-S
+'wolf's': WOFL AES
 'belly;': PWEL/HREU STPH*FPLT
 'and': SKP
 'yet': KWRET
@@ -2427,10 +2427,10 @@ Tom Thumb
 'and': SKP
 'drink,': TKREU KW-BG
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'very': SRE
-'hungry;': UPBG/REU STPH*FPLT
+'hungry;': HUPBG/REU STPH*FPLT
 'and': SKP
 'then': THEPB
 'they': THE
@@ -2465,13 +2465,13 @@ Tom Thumb
 'peace;': PAES STPH*FPLT
 'for': TPOR
 'though': THOE
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'so': SO
 'great': TKPWRAET
 'a': AEU
-'traveller,': TRAFL/HRER KW-BG
+'traveller,': TRAFL/HRER/A*U KW-BG
 'and': SKP
 'had': H
 'done': TKOPB
@@ -2482,7 +2482,7 @@ Tom Thumb
 'fine': TPAOEUPB
 'things,': THEUPBGS KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'fond': TPOPBD
 'enough': TPHUF
 'of': -F
@@ -2490,8 +2490,8 @@ Tom Thumb
 'the': -T
 'whole': WHOEL
 'story,': STOER KW-BG
-'he': E
-'always': AULZ
+'he': HE
+'always': AULS
 'agreed': TKPWRAED
 'that,': THA KW-BG
 'after': AF

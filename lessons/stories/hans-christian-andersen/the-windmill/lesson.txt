@@ -1,6 +1,6 @@
 The Windmill
 
-'A': AEU
+'A': KPA*/AEU
 'windmill': WEUPBD/PHEUL
 'stood': STAOD
 'upon': POPB
@@ -12,7 +12,7 @@ The Windmill
 'at,': AT KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'proud': PROUD
 'too.': TAO TP-PL
 '"I': KR-GS EU
@@ -52,9 +52,9 @@ The Windmill
 'bargain': PWARG/AEUPB
 'I': EU
 'have': SR
-'stearine': XXX stearine
+'stearine': xxx stearine
 'candles,': KAPBD/-LS KW-BG
-'train': TRAEUPL
+'train': TRAEUPB
 'oil': OEUL
 'and': SKP
 'lamps,': HRA*PLS KW-BG
@@ -77,7 +77,7 @@ The Windmill
 'well': WEL
 'constructed': KRUBGTD
 'that': THA
-'it's': T*S
+'it's': T-S
 'quite': KWAOEUT
 'delightful.': TKHRAOEUT/-FL TP-PL
 'I': EU
@@ -121,7 +121,7 @@ The Windmill
 'I': EU
 'am': APL
 'a': AEU
-'Dutchman': TK*UFP/PHAPB
+'Dutchman': TKUFP/PHA*PB
 'by': PWEU
 'birth,': PW*EURT KW-BG
 'that': THA
@@ -132,7 +132,7 @@ The Windmill
 'my': PHEU
 'figure—a': TPEUG EPL/TKA*RB AEU
 'flying': TPHRAOEUG
-'Dutchman.': TK*UFP/PHAPB TP-PL
+'Dutchman.': TKUFP/PHA*PB TP-PL
 'They': THE
 'are': R
 'considered': KR-D
@@ -157,7 +157,7 @@ The Windmill
 'house-room': HOUS H-PB RAOPL
 'beneath': TPHAO*ET
 'it;': T STPH*FPLT
-'that's': TH-TS
+'that's': THATS
 'where': W-R
 'my': PHEU
 'thoughts': THAUTS
@@ -178,10 +178,10 @@ The Windmill
 'in': TPH
 'the': -T
 'Mill.'': PHEUL TP-PL AE
-'He': E
+'He': HE
 'knows': TPHOEZ
 'what': WHA
-'he': E
+'he': HE
 'wants,': WAPBTS KW-BG
 'and': SKP
 'is': S
@@ -193,7 +193,7 @@ The Windmill
 'the': -T
 'bran;': PWRAPB STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'has': HAS
 'his': HEUS
 'companion,': KPAPB/KWROPB KW-BG
@@ -323,19 +323,19 @@ The Windmill
 'to': TO
 'see': SAOE
 'what': WHA
-'was': WA
+'was': WAS
 'going': TKPW-G
 'on': OPB
 'there,—for': THR KW-BG EPL/TKA*RB TPOR
 'something': S-G
 'in': TPH
 'me': PHE
-'was': WA
+'was': WAS
 'out': OUT
 'of': -F
 'order,': ORD KW-BG
 'and': SKP
-'it's': T*S
+'it's': T-S
 'well': WEL
 'to': TO
 'examine': KP
@@ -400,7 +400,7 @@ The Windmill
 'myself;': PHAO*EUS STPH*FPLT
 'but': PWUT
 'the': -T
-'wingless': XXX wingless
+'wingless': xxx wingless
 'houses,': HO*UFS KW-BG
 'whose': WHOZ
 'throats': THROETS
@@ -425,7 +425,7 @@ The Windmill
 'it': T
 'is': S
 'called.': KAULD TP-PL
-'It's': T AE S*/SP-S
+'It's': T AES
 'wonderful': WUFL
 'enough—yes,': TPHUF EPL/TKA*RB KWRE KW-BG
 'there': THR
@@ -467,7 +467,7 @@ The Windmill
 'a': AEU
 'more': PHOR
 'affectionate': A*FBGS/TPHAT
-'helpmate—so': XXX helpmate EPL/TKA*RB SO
+'helpmate—so': xxx helpmate EPL/TKA*RB SO
 'young': KWRUPBG
 'and': SKP
 'good,': TKPWAOD KW-BG
@@ -486,7 +486,7 @@ The Windmill
 'of': -F
 'time.': TAOEUPL TP-PL
 'What': WHA
-'was': WA
+'was': WAS
 'bitter': PWEURT
 'has': HAS
 'passed': PAFD
@@ -540,7 +540,7 @@ The Windmill
 'I': EU
 'may': PHAE
 'be': -B
-'built': PEULT
+'built': PWEULT
 'up': UP
 'again;': TKPWEPB STPH*FPLT
 'I': EU
@@ -562,7 +562,7 @@ The Windmill
 'remain': RE/PHAUPB
 'the': -T
 'same!': SAEUPL SKHRAPL
-'That's': THA AE S*/SP-S
+'That's': THA AES
 'difficult': TKEUFL
 'for': TPOR
 'me': PHE
@@ -576,8 +576,8 @@ The Windmill
 'with': W
 'sun,': SUPB KW-BG
 'moon,': PHAOPB KW-BG
-'stearine,': XXX stearine KW-BG
-'train': TRAEUPL
+'stearine,': xxx stearine KW-BG
+'train': TRAEUPB
 'oil,': OEUL KW-BG
 'and': SKP
 'tallow.': TAL/HROE TP-PL
@@ -674,7 +674,7 @@ The Windmill
 'me,': PHE KW-BG
 'and': SKP
 'say,': SAEU KW-BG
-''There's': AE THR AE S*/SP-S
+''There's': AE THR AES
 'the': -T
 'mill': PHEUL
 'on': OPB
@@ -718,7 +718,7 @@ The Windmill
 'went,': WEPBT KW-BG
 'and': SKP
 'yesterday': KWRED
-'was': WA
+'was': WAS
 'the': -T
 'last': HRAFT
 'day.': TKAEU TP-PL
@@ -799,7 +799,7 @@ The Windmill
 'this': TH
 'story.': STOER TP-PL
 'The': -T
-'miller's': PH*EUL/ER AE S*/SP-S
+'miller's': PHEUL/HRER AES
 'family—one': TPAEPL EPL/TKA*RB WUPB
 'soul,': SOUL KW-BG
 'many': PHAEPB
@@ -807,18 +807,18 @@ The Windmill
 'and': SKP
 'yet': KWRET
 'only': OEPBL
-'one—built': WUPB EPL/TKA*RB PEULT
+'one—built': WUPB EPL/TKA*RB PWEULT
 'a': AEU
 'new,': TPHU KW-BG
 'a': AEU
 'splendid': SPHREPBD/EUD
 'mill,': PHEUL KW-BG
 'which': WEU
-'answered': APBSD
+'answered': AEPBS/-D
 'its': EUTS
 'purpose.': PURP TP-PL
 'It': T
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'like': HRAOEUBG
 'the': -T
@@ -842,7 +842,7 @@ The Windmill
 'But': PWUT
 'this': TH
 'mill': PHEUL
-'was': WA
+'was': WAS
 'better': PWOERT
 'arranged,': ARPBG/-D KW-BG
 'more': PHOR

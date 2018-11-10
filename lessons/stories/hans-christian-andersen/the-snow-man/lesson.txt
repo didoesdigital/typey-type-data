@@ -15,7 +15,7 @@ The Snow Man
 'my': PHEU
 'whole': WHOEL
 'body': PWO*ED
-'crackle.': KRABG/-L TP-PL
+'crackle.': KRABG/*L TP-PL
 'This': TH
 'is': S
 'just': SKWRUFT
@@ -39,12 +39,12 @@ The Snow Man
 'staring': STAERG
 'at': AT
 'me!"': PHE SKHRAPL KR-GS
-'He': E
+'He': HE
 'meant': PHEPBT
 'the': -T
 'sun,': SUPB KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'setting.': SEGT TP-PL
 '"It': KR-GS T
@@ -60,7 +60,7 @@ The Snow Man
 'keep': KAOEP
 'the': -T
 'pieces."': PAOEFS TP-PL KR-GS
-'He': E
+'He': HE
 'had': H
 'two': TWO
 'triangular': TRAOEUPBG/HRAR
@@ -75,7 +75,7 @@ The Snow Man
 'eyes;': AO*EUS STPH*FPLT
 'his': HEUS
 'mouth': PHO*UT
-'was': WA
+'was': WAS
 'made': PHAED
 'of': -F
 'an': APB
@@ -83,13 +83,13 @@ The Snow Man
 'broken': PWROEPB
 'rake,': RAEUBG KW-BG
 'and': SKP
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'of': -F
 'course,': KORS KW-BG
 'furnished': TPURPB/EURBD
 'with': W
 'teeth.': TAO*ET TP-PL
-'He': E
+'He': HE
 'had': H
 'been': PW-PB
 'brought': PWRAUT
@@ -144,7 +144,7 @@ The Snow Man
 'supposed': SPOED
 'the': -T
 'sun': SUPB
-'was': WA
+'was': WAS
 'showing': SHOEG
 'himself': H*EUPLS
 'once': WUPBS
@@ -158,7 +158,7 @@ The Snow Man
 'staring,': STAERG KW-BG
 'though;': THOE STPH*FPLT
 'now': TPHOU
-'he': E
+'he': HE
 'may': PHAE
 'hang': HAPBG
 'up': UP
@@ -193,7 +193,7 @@ The Snow Man
 'could,': KO KW-BG
 'I': EU
 'would': WO
-'slide': SHAOEUD
+'slide': SHRAOEUD
 'along': A/HROPBG
 'yonder': KWROPBD/ER
 'on': OPB
@@ -224,8 +224,8 @@ The Snow Man
 'the': -T
 'old': OLD
 'yard-dog.': KWRARD H-PB TKOG TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'quite': KWAOEUT
 'hoarse,': HAORS KW-BG
 'and': SKP
@@ -235,7 +235,7 @@ The Snow Man
 '"Bow': KR-GS PWOE
 'wow"': WO*U KR-GS
 'properly.': PRORL TP-PL
-'He': E
+'He': HE
 'had': H
 'once': WUPBS
 'been': PW-PB
@@ -248,7 +248,7 @@ The Snow Man
 'the': -T
 'fire,': TPAOEUR KW-BG
 'and': SKP
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'hoarse': HAORS
@@ -269,11 +269,11 @@ The Snow Man
 'winter,': WEURPBT KW-BG
 'make': PHAEUBG
 'your': KWROUR
-'predecessor': PRED/SES/SOR
+'predecessor': PRED/SES/O*R
 'run,': RUPB KW-BG
 'and': SKP
 'his': HEUS
-'predecessor': PRED/SES/SOR
+'predecessor': PRED/SES/O*R
 'before': PW-F
 'him.': HEUPL TP-PL
 'Away,': A/WAEU KW-BG
@@ -350,7 +350,7 @@ The Snow Man
 'one': WUPB
 'before': PW-F
 'it': T
-'was': WA
+'was': WAS
 'the': -T
 'sun.': SUPB TP-PL
 'It': T
@@ -360,7 +360,7 @@ The Snow Man
 'to-morrow,': TO H-PB PHOR/ROE KW-BG
 'and': SKP
 'most': PHOFT
-'likely': HREULG
+'likely': HRAOEULG
 'teach': TAOEFP
 'you': U
 'to': TO
@@ -418,7 +418,7 @@ The Snow Man
 'a': AEU
 'feeling': TPAOELG
 'that': THA
-'he': E
+'he': HE
 'is': S
 'talking': TAUG
 'of': -F
@@ -434,7 +434,7 @@ The Snow Man
 'now,': TPHOU KW-BG
 'and': SKP
 'whom': WHOPL
-'he': E
+'he': HE
 'calls': KAULS
 'the': -T
 'sun,': SUPB KW-BG
@@ -454,7 +454,7 @@ The Snow Man
 'yard-dog,': KWRARD H-PB TKOG KW-BG
 'and': SKP
 'then': THEPB
-'he': E
+'he': HE
 'turned': TURPBD
 'round': ROUPBD
 'three': THRAOE
@@ -467,8 +467,8 @@ The Snow Man
 'to': TO
 'sleep.': SHRAOEP TP-PL
 'There': THR
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'a': AEU
 'change': KHAEUPBG
 'in': TPH
@@ -505,7 +505,7 @@ The Snow Man
 'rose,': ROEZ KW-BG
 'the': -T
 'sight': SAOEUT
-'was': WA
+'was': WAS
 'splendid.': SPHREPBD/EUD TP-PL
 'Trees': TRAOES
 'and': SKP
@@ -573,7 +573,7 @@ The Snow Man
 'and': SKP
 'its': EUTS
 'appearance': PAOERPBS
-'was': WA
+'was': WAS
 'wondrously': WOPBD/ROUS/HREU
 'beautiful.': PWAOUFL TP-PL
 'And': SKP
@@ -620,7 +620,7 @@ The Snow Man
 'itself.': T/SEF TP-PL
 '"This': KR-GS TH
 'is': S
-'really': HROERL
+'really': R-L
 'beautiful,"': PWAOUFL KW-BG KR-GS
 'said': SAEUD
 'a': AEU
@@ -680,14 +680,14 @@ The Snow Man
 'the': -T
 'young': KWRUPBG
 'man,': PHAPB KW-BG
-'pointing': POEUPBLT
+'pointing': POEUPBGT
 'to': TO
 'the': -T
 'Snow': STPHOE
 'Man;': PHAPB STPH*FPLT
-'"he': KR-GS E
+'"he': KR-GS HE
 'is': S
-'capital."': KA*L TP-PL KR-GS
+'capital."': KAPLT TP-PL KR-GS
 'The': -T
 'girl': TKPWEURL
 'laughed,': HRAFD KW-BG
@@ -762,7 +762,7 @@ The Snow Man
 'many': PHAEPB
 'times,': TAOEUPLS KW-BG
 'and': SKP
-'he': E
+'he': HE
 'has': HAS
 'given': TKPWEUFPB
 'me': PHE
@@ -786,7 +786,7 @@ The Snow Man
 '"They': KR-GS THE
 'are': R
 'lovers,"': HRUFRS KW-BG KR-GS
-'he': E
+'he': HE
 'replied;': RE/PHRAOEUD STPH*FPLT
 '"they': KR-GS THE
 'will': HR
@@ -823,12 +823,12 @@ The Snow Man
 'Man.': PHAPB TP-PL
 '"Well,': KR-GS WEL KW-BG
 'they': THE
-'belong': PWHROPG
+'belong': PWHROPBG
 'to': TO
 'the': -T
 'same': SAEUPL
 'master,"': PHAFRT KW-BG KR-GS
-'retorted': XXX retorted
+'retorted': RE/TORT/-D
 'the': -T
 'yard-dog.': KWRARD H-PB TKOG TP-PL
 '"Certainly': KR-GS SERPBL
@@ -864,7 +864,7 @@ The Snow Man
 'I': EU
 'know': TPHOE
 'there': THR
-'was': WA
+'was': WAS
 'once': WUPBS
 'a': AEU
 'time': TAOEUPL
@@ -921,13 +921,13 @@ The Snow Man
 'barked': PWARBGD
 'the': -T
 'yard-dog;': KWRARD H-PB TKOG STPH*FPLT
-'"I'll': KR-GS EU AE XXX ll
+'"I'll': KR-GS EU AE HR*/HR*
 'tell': TEL
 'you;': U STPH*FPLT
 'they': THE
 'said': SAEUD
 'I': EU
-'was': WA
+'was': WAS
 'a': AEU
 'pretty': PREUT
 'little': HREUL
@@ -945,13 +945,13 @@ The Snow Man
 'up': UP
 'at': AT
 'the': -T
-'master's': PHAFRT AE S*/SP-S
+'master's': PHAFRT AES
 'house,': HOUS KW-BG
 'and': SKP
 'sit': SEUT
 'in': TPH
 'the': -T
-'mistress's': PHEUS/TRES AE S*/SP-S
+'mistress's': PHEUS/TRES AES
 'lap.': HRAP TP-PL
 'They': THE
 'used': AOUFD
@@ -969,13 +969,13 @@ The Snow Man
 'handkerchief,': HAPB/KER/KHEF KW-BG
 'and': SKP
 'I': EU
-'was': WA
+'was': WAS
 'called': KAULD
-''Ami,': AE XXX Ami KW-BG
+''Ami,': AE xxx Ami KW-BG
 'dear': TKAER
-'Ami,': XXX Ami KW-BG
+'Ami,': xxx Ami KW-BG
 'sweet': SWAOET
-'Ami.'': XXX Ami TP-PL AE
+'Ami.'': xxx Ami TP-PL AE
 'But': PWUT
 'after': AF
 'a': AEU
@@ -993,7 +993,7 @@ The Snow Man
 'away': A/WAEU
 'to': TO
 'the': -T
-'housekeeper's': HOUS/KAOEP/ER AE S*/SP-S
+'housekeeper's': HOUS/KAOEP/ER AES
 'room;': RAOPL STPH*FPLT
 'so': SO
 'I': EU
@@ -1018,19 +1018,19 @@ The Snow Man
 'see': SAOE
 'where': W-R
 'I': EU
-'was': WA
+'was': WAS
 'master': PHAFRT
 'once;': WUPBS STPH*FPLT
 'for': TPOR
 'I': EU
-'was': WA
+'was': WAS
 'indeed': TPHAOEPBD
 'master': PHAFRT
 'to': TO
 'the': -T
 'housekeeper.': HOUS/KAOEP/ER TP-PL
 'It': T
-'was': WA
+'was': WAS
 'certainly': SERPBL
 'a': AEU
 'smaller': SPHAURL
@@ -1041,12 +1041,12 @@ The Snow Man
 'stairs;': STAEURS STPH*FPLT
 'but': PWUT
 'I': EU
-'was': WA
+'was': WAS
 'more': PHOR
 'comfortable;': K-BL STPH*FPLT
 'for': TPOR
 'I': EU
-'was': WA
+'was': WAS
 'not': TPHOT
 'being': -BG
 'continually': TAEPBL
@@ -1079,7 +1079,7 @@ The Snow Man
 'cushion,': KUGS KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'stove—it': STOF EPL/TKA*RB T
 'is': S
@@ -1142,7 +1142,7 @@ The Snow Man
 'said': SAEUD
 'the': -T
 'dog;': TKOG STPH*FPLT
-'"it's': KR-GS T AE S*/SP-S
+'"it's': KR-GS T AES
 'as': AZ
 'black': PWHRABG
 'as': AZ
@@ -1227,17 +1227,17 @@ The Snow Man
 'over': OEFR
 'him;': HEUPL STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'very': SRE
 'odd,': OD KW-BG
-'he': E
+'he': HE
 'knew': TPHAOU
 'not': TPHOT
 'what': WHA
 'it': T
 'meant,': PHEPBT KW-BG
 'and': SKP
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'account': K-T
@@ -1292,7 +1292,7 @@ The Snow Man
 'comfortable': K-BL
 'place?"': PHRAEUS H-F KR-GS
 '"I': KR-GS EU
-'was': WA
+'was': WAS
 'obliged,"': OE/PWHRAOEUPBLGD KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
@@ -1315,19 +1315,19 @@ The Snow Man
 'youngest': KWRUPBG/EFT
 'of': -F
 'my': PHEU
-'master's': PHAFRT AE S*/SP-S
+'master's': PHAFRT AES
 'sons': SOPBS
 'in': TPH
 'the': -T
 'leg,': HREG KW-BG
 'because': PWAU
-'he': E
+'he': HE
 'kicked': KEUBGD
 'away': A/WAEU
 'the': -T
 'bone': PWOEPB
 'I': EU
-'was': WA
+'was': WAS
 'gnawing.': TPHAU/-G TP-PL
 ''Bone': AE PWOEPB
 'for': TPOR
@@ -1354,7 +1354,7 @@ The Snow Man
 'lost': HRO*S
 'my': PHEU
 'bone.': PWOEPB TP-PL
-'Don't': TKO*PB AE T*/SP-S
+'Don't': TKO*PB AE T*
 'you': U
 'hear': HAER
 'how': HOU
@@ -1384,21 +1384,21 @@ The Snow Man
 'the': -T
 'Snow': STPHOE
 'Man': PHAPB
-'was': WA
+'was': WAS
 'no': TPHO
 'longer': HRORPBG
 'listening.': HR-PBG TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'looking': HRAOG
 'into': TPHAO
 'the': -T
-'housekeeper's': HOUS/KAOEP/ER AE S*/SP-S
+'housekeeper's': HOUS/KAOEP/ER AES
 'room': RAOPL
 'on': OPB
 'the': -T
 'lower': HROUR
-'storey;': XXX storey STPH*FPLT
+'storey;': STOR/KWREU STPH*FPLT
 'where': W-R
 'the': -T
 'stove': STOF
@@ -1426,7 +1426,7 @@ The Snow Man
 'feel': TPAOEL
 'within': W-PB
 'me,"': PHE KW-BG KR-GS
-'he': E
+'he': HE
 'said.': SAEUD TP-PL
 '"Shall': KR-GS SHAL
 'I': EU
@@ -1563,7 +1563,7 @@ The Snow Man
 'of': -F
 'the': -T
 'stove': STOF
-'was': WA
+'was': WAS
 'opened,': OEPD KW-BG
 'the': -T
 'flames': TPHRAEUPLS
@@ -1605,11 +1605,11 @@ The Snow Man
 'no': TPHO
 'longer,"': HRORPBG KW-BG KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 '"how': KR-GS HOU
 'beautiful': PWAOUFL
 'it': T
-'looks': HAOBGS
+'looks': HRAOBGS
 'when': WHEPB
 'it': T
 'stretches': STREFPS
@@ -1618,7 +1618,7 @@ The Snow Man
 'tongue?"': TUPBG H-F KR-GS
 'The': -T
 'night': TPHAOEUT
-'was': WA
+'was': WAS
 'long,': HROPBG KW-BG
 'but': PWUT
 'did': TK
@@ -1648,7 +1648,7 @@ The Snow Man
 'window-panes': WOEUPBD H-PB PAEPBS
 'of': -F
 'the': -T
-'housekeeper's': HOUS/KAOEP/ER AE S*/SP-S
+'housekeeper's': HOUS/KAOEP/ER AES
 'room': RAOPL
 'were': WR
 'covered': KOFRD
@@ -1676,7 +1676,7 @@ The Snow Man
 'not': TPHOT
 'thaw,': THA*U KW-BG
 'and': SKP
-'he': E
+'he': HE
 'could': KO
 'see': SAOE
 'nothing': TPHOG
@@ -1684,7 +1684,7 @@ The Snow Man
 'the': -T
 'stove,': STOF KW-BG
 'which': WEU
-'he': E
+'he': HE
 'pictured': P*EUFPD
 'to': TO
 'himself,': H*EUPLS KW-BG
@@ -1707,7 +1707,7 @@ The Snow Man
 'around': ARPBD
 'him;': HEUPL STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'the': -T
 'kind': KEUPBD
@@ -1721,7 +1721,7 @@ The Snow Man
 'thoroughly': THORL
 'enjoy.': TPHOEUPBLG TP-PL
 'But': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'enjoy': TPHOEUPBLG
@@ -1729,12 +1729,12 @@ The Snow Man
 'how,': HOU KW-BG
 'indeed,': TPHAOEPBD KW-BG
 'could': KO
-'he': E
+'he': HE
 'enjoy': TPHOEUPBLG
 'anything': TPHEUG
 'when': WHEPB
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 '"stove': KR-GS STOF
 'sick?"': SEUBG H-F KR-GS
 '"That': KR-GS THA
@@ -1761,11 +1761,11 @@ The Snow Man
 'it.': T TP-PL
 'Away,': A/WAEU KW-BG
 'away,"': A/WAEU KW-BG KR-GS
-'he': E
+'he': HE
 'barked': PWARBGD
 'and': SKP
 'then': THEPB
-'he': E
+'he': HE
 'added,': AD/-D KW-BG
 '"the': KR-GS -T
 'weather': WHR*
@@ -1785,12 +1785,12 @@ The Snow Man
 'As': AZ
 'the': -T
 'warmth': WARPLT
-'increased,': EUPB/KRAOES/-D KW-BG
+'increased,': EUPB/KRAOEFD KW-BG
 'the': -T
 'Snow': STPHOE
 'Man': PHAPB
 'decreased.': TE/KRAOES/-D TP-PL
-'He': E
+'He': HE
 'said': SAEUD
 'nothing': TPHOG
 'and': SKP
@@ -1804,16 +1804,16 @@ The Snow Man
 'sign.': SAOEUPB TP-PL
 'One': WUPB
 'morning': PHORPBG
-'he': E
+'he': HE
 'broke,': PWROEBG KW-BG
 'and': SKP
 'sunk': S*UPBG
 'down': TKOUPB
 'altogether;': HR-GT STPH*FPLT
 'and,': SKP KW-BG
-'behold,': XXX behold KW-BG
+'behold,': PWE/HOLD KW-BG
 'where': W-R
-'he': E
+'he': HE
 'had': H
 'stood,': STAOD KW-BG
 'something': S-G
@@ -1827,7 +1827,7 @@ The Snow Man
 'the': -T
 'ground.': TKPWROUPBD TP-PL
 'It': T
-'was': WA
+'was': WAS
 'the': -T
 'pole': POEL
 'round': ROUPBD
@@ -1835,7 +1835,7 @@ The Snow Man
 'the': -T
 'boys': PWOEUS
 'had': H
-'built': PEULT
+'built': PWEULT
 'him': HEUPL
 'up.': UP TP-PL
 '"Ah,': KR-GS HA*E KW-BG
@@ -1843,7 +1843,7 @@ The Snow Man
 'I': EU
 'understand': URPBD
 'why': KWR
-'he': E
+'he': HE
 'had': H
 'such': SUFP
 'a': AEU
@@ -1882,13 +1882,13 @@ The Snow Man
 'his': HEUS
 'body;': PWO*ED STPH*FPLT
 'that': THA
-'was': WA
+'was': WAS
 'what': WHA
 'moved': PHOFD
 'him': HEUPL
 'so.': SO TP-PL
 '"But': KR-GS PWUT
-'it's': T*S
+'it's': T-S
 'all': AUL
 'over': OEFR
 'now.': TPHOU TP-PL

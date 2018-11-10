@@ -1,7 +1,7 @@
 The Fairy
 
 'There': THR
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'once': WUPBS
 'upon': POPB
 'a': AEU
@@ -14,7 +14,7 @@ The Fairy
 'daughters.': TKAURS TP-PL
 'The': -T
 'eldest': ELD/EFT
-'was': WA
+'was': WAS
 'so': SO
 'much': PHUFP
 'like': HRAOEUBG
@@ -23,7 +23,7 @@ The Fairy
 'the': -T
 'face': TPAEUS
 'and': SKP
-'humour,': HAOURPL KW-BG
+'humour,': HAOURPL/A*U KW-BG
 'that': THA
 'whoever': WHOFR
 'looked': HRAOBGD
@@ -43,7 +43,7 @@ The Fairy
 'proud,': PROUD KW-BG
 'that': THA
 'there': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'living': HREUFG
 'with': W
@@ -51,7 +51,7 @@ The Fairy
 'The': -T
 'youngest,': KWRUPBG/EFT KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'the': -T
 'very': SRE
 'picture': P*EUFP
@@ -61,11 +61,11 @@ The Fairy
 'for': TPOR
 'courtesy': KURT/SEU
 'and': SKP
-'sweetness': XXX sweetness
+'sweetness': SWAOET/-PBS
 'of': -F
 'temper,': TEPL/PER KW-BG
-'was': WA
-'withal': XXX withal
+'was': WAS
+'withal': W/A*L
 'one': WUPB
 'of': -F
 'the': -T
@@ -84,7 +84,7 @@ The Fairy
 'this': TH
 'mother': PHOER
 'even': AOEPB
-'doated': XXX doated
+'doated': xxx doated
 'on': OPB
 'her': HER
 'eldest': ELD/EFT
@@ -117,7 +117,7 @@ The Fairy
 'this': TH
 'poor': PAOR
 'child': KHAOEULD
-'was': WA
+'was': WAS
 'forced': TPOFRD
 'twice': TWAOEUS
 'a': AEU
@@ -146,10 +146,10 @@ The Fairy
 'day,': TKAEU KW-BG
 'as': AZ
 'she': SHE
-'was': WA
+'was': WAS
 'at': AT
 'this': TH
-'fountain,': TPOUPB/TAPB KW-BG
+'fountain,': TPOUPB/TAEUPB KW-BG
 'there': THR
 'came': KAEUPL
 'to': TO
@@ -165,8 +165,8 @@ The Fairy
 'let': HRET
 'her': HER
 'drink.': TKREU TP-PL
-'"O': KR-GS O*/SP-S
-'ay,': XXX ay KW-BG
+'"O': KR-GS O*P
+'ay,': A/KWR*/SP-S KW-BG
 'with': W
 'all': AUL
 'my': PHEU
@@ -192,7 +192,7 @@ The Fairy
 'place': PHRAEUS
 'of': -F
 'the': -T
-'fountain,': TPOUPB/TAPB KW-BG
+'fountain,': TPOUPB/TAEUPB KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'it': T
@@ -241,7 +241,7 @@ The Fairy
 'gift"': TKPWEUFT KR-GS
 '(for': PREPB TPOR
 'this': TH
-'was': WA
+'was': WAS
 'a': AEU
 'Fairy,': TPAEUR/REU KW-BG
 'who': WHO
@@ -313,7 +313,7 @@ The Fairy
 'long': HROPBG
 'at': AT
 'the': -T
-'fountain.': TPOUPB/TAPB TP-PL
+'fountain.': TPOUPB/TAEUPB TP-PL
 '"I': KR-GS EU
 'beg': PWEG
 'your': KWROUR
@@ -340,7 +340,7 @@ The Fairy
 'her': HER
 'mouth': PHO*UT
 'two': TWO
-'roses,': ROES/-S KW-BG
+'roses,': ROESZ KW-BG
 'two': TWO
 'pearls,': PERLS KW-BG
 'and': SKP
@@ -367,16 +367,16 @@ The Fairy
 'out': OUT
 'of': -F
 'the': -T
-'girl's': TKPWEURL AE S*/SP-S
+'girl's': TKPWEURL/AES
 'mouth!': PHO*UT SKHRAPL
 'How': HOU
 'happens': HABS
 'this,': TH KW-BG
 'child?"': KHAOEULD H-F KR-GS
 '(This': PREPB TH
-'was': WA
+'was': WAS
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'time': TAOEUPL
 'she': SHE
 'ever': -FR
@@ -388,7 +388,7 @@ The Fairy
 'creature': KRAOEFP
 'told': TOLD
 'her': HER
-'frankly': TPRAPB/KHREU
+'frankly': TPHRAPBG/HREU
 'all': AUL
 'the': -T
 'matter,': PHAERT KW-BG
@@ -421,12 +421,12 @@ The Fairy
 'out': OUT
 'of': -F
 'thy': THAO*EU
-'sister's': ST-R AE S*/SP-S
+'sister's': ST-R AES
 'mouth': PHO*UT
 'when': WHEPB
 'she': SHE
 'speaks!': SPAOEBGS SKHRAPL
-'Would'st': WO AE XXX st
+'Would'st': WO AE ST*
 'not': TPHOT
 'thou': THO*U
 'be': -B
@@ -442,7 +442,7 @@ The Fairy
 'to': TO
 'thee?': THAOE H-F
 'Thou': THO*U
-'hast': XXX hast
+'hast': HA*FT
 'nothing': TPHOG
 'else': ELS
 'to': TO
@@ -455,7 +455,7 @@ The Fairy
 'out': OUT
 'of': -F
 'the': -T
-'fountain,': TPOUPB/TAPB KW-BG
+'fountain,': TPOUPB/TAEUPB KW-BG
 'and': SKP
 'when': WHEPB
 'a': AEU
@@ -485,7 +485,7 @@ The Fairy
 'said': SAEUD
 'this': TH
 'ill-bred': EUL H-PB PWRED
-'minx,': XXX minx KW-BG
+'minx,': xxx minx KW-BG
 '"to': KR-GS TO
 'see': SAOE
 'me': PHE
@@ -495,7 +495,7 @@ The Fairy
 '"You': KR-GS U
 'shall': SHAL
 'go,': TKPW KW-BG
-'hussey,"': XXX hussey KW-BG KR-GS
+'hussey,"': xxx hussey KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'mother,': PHOER KW-BG
@@ -522,12 +522,12 @@ The Fairy
 'the': -T
 'house.': HOUS TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'no': TPHO
 'sooner': SAORPB
 'at': AT
 'the': -T
-'fountain,': TPOUPB/TAPB KW-BG
+'fountain,': TPOUPB/TAEUPB KW-BG
 'than': THAPB
 'she': SHE
 'saw': SAU
@@ -551,7 +551,7 @@ The Fairy
 'to': TO
 'drink.': TKREU TP-PL
 'This': TH
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'you': U
 'must': PHUFT
 'know,': TPHOE KW-BG
@@ -579,7 +579,7 @@ The Fairy
 'how': HOU
 'far': TPAR
 'this': TH
-'girl's': TKPWEURL AE S*/SP-S
+'girl's': TKPWEURL/AES
 'rudeness': RAOUD/-PBS
 'would': WO
 'go.': TKPW TP-PL
@@ -593,7 +593,7 @@ The Fairy
 'saucy': SAU/SEU
 'slut,': SHRUT KW-BG
 '"to': KR-GS TO
-'serve': SEFB
+'serve': SEFRB
 'you': U
 'with': W
 'water,': WAUR KW-BG
@@ -603,13 +603,13 @@ The Fairy
 'the': -T
 'silver': SEUL/SRER
 'tankard': TAPB/KARD
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'purely': PAOURL
 'for': TPOR
 'your': KWROUR
-'ladyship,': XXX ladyship KW-BG
-'was': WA
+'ladyship,': xxx ladyship KW-BG
+'was': WAS
 'it?': T H-F
 'However,': HOUF KW-BG
 'you': U
@@ -630,7 +630,7 @@ The Fairy
 'and': SKP
 'above': PWOF
 'mannerly,"': PHAERPB/HREU KW-BG KR-GS
-'answered': APBSD
+'answered': AEPBS/-D
 'the': -T
 'Fairy,': TPAEUR/REU KW-BG
 'without': WOUT
@@ -650,7 +650,7 @@ The Fairy
 'and': SKP
 'are': R
 'so': SO
-'disobliging,': XXX disobliging KW-BG
+'disobliging,': xxx disobliging KW-BG
 'I': EU
 'give': TKPWEUF
 'you': U
@@ -689,10 +689,10 @@ The Fairy
 'daughter?"': TKAUR H-F KR-GS
 '"Well,': KR-GS WEL KW-BG
 'mother?"': PHOER H-F KR-GS
-'answered': APBSD
+'answered': AEPBS/-D
 'the': -T
 'pert': PERT
-'hussey,': XXX hussey KW-BG
+'hussey,': xxx hussey KW-BG
 'throwing': THROEG
 'out': OUT
 'of': -F
@@ -703,7 +703,7 @@ The Fairy
 'and': SKP
 'two': TWO
 'toads.': TOEDZ TP-PL
-'"O': KR-GS O*/SP-S
+'"O': KR-GS O*P
 'mercy!"': PHER/SEU SKHRAPL KR-GS
 'cried': KRAOEUD
 'the': -T
@@ -713,7 +713,7 @@ The Fairy
 'it': T
 'I': EU
 'see!': SAOE SKHRAPL
-'O,': O*/SP-S KW-BG
+'O,': O*P KW-BG
 'it': T
 'is': S
 'that': THA
@@ -758,7 +758,7 @@ The Fairy
 'from': TPR
 'thence.': THEPBS TP-PL
 'The': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son,': SOPB KW-BG
 'then': THEPB
 'on': OPB
@@ -796,7 +796,7 @@ The Fairy
 'of': -F
 'doors."': TKAORS TP-PL KR-GS
 'The': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son,': SOPB KW-BG
 'who': WHO
 'saw': SAU
@@ -831,7 +831,7 @@ The Fairy
 'and': SKP
 'so': SO
 'the': -T
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'son': SOPB
 'fell': TPEL
 'in': TPH
@@ -846,7 +846,7 @@ The Fairy
 'such': SUFP
 'a': AEU
 'gift': TKPWEUFT
-'was': WA
+'was': WAS
 'worth': WO*RT
 'more': PHOR
 'than': THAPB

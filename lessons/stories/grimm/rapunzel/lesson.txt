@@ -24,7 +24,7 @@ Rapunzel
 'hoped': HOEPD
 'that': THA
 'God': TKPWOD
-'was': WA
+'was': WAS
 'about': PW
 'to': TO
 'grant': TKPWRAPBT
@@ -51,7 +51,7 @@ Rapunzel
 'be': -B
 'seen,': SAOEPB KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'full': TPUL
 'of': -F
 'the': -T
@@ -61,7 +61,7 @@ Rapunzel
 'and': SKP
 'herbs.': HERBS TP-PL
 'It': T
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'however,': HOUF KW-BG
 'surrounded': SROUBD/-D
 'by': PWEU
@@ -87,7 +87,7 @@ Rapunzel
 'great': TKPWRAET
 'power': POUR
 'and': SKP
-'was': WA
+'was': WAS
 'dreaded': TKRED/-D
 'by': PWEU
 'all': AUL
@@ -97,7 +97,7 @@ Rapunzel
 'day': TKAEU
 'the': -T
 'woman': WOPL
-'was': WA
+'was': WAS
 'standing': STAPBG
 'by': PWEU
 'this': TH
@@ -114,13 +114,13 @@ Rapunzel
 'a': AEU
 'bed': PWED
 'which': WEU
-'was': WA
+'was': WAS
 'planted': PHRAPBT/-D
 'with': W
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'rampion': XXX rampion
+'rampion': xxx rampion
 '(rapunzel),': PREPB RA/PUPB/S*EL PR*EPB KW-BG
 'and': SKP
 'it': T
@@ -148,7 +148,7 @@ Rapunzel
 'Then': THEPB
 'her': HER
 'husband': HUS
-'was': WA
+'was': WAS
 'alarmed,': A/HRARPLD KW-BG
 'and': SKP
 'asked:': SK-D STPH-FPLT
@@ -167,7 +167,7 @@ Rapunzel
 'some': SOPL
 'of': -F
 'the': -T
-'rampion,': XXX rampion KW-BG
+'rampion,': xxx rampion KW-BG
 'which': WEU
 'is': S
 'in': TPH
@@ -196,7 +196,7 @@ Rapunzel
 'some': SOPL
 'of': -F
 'the': -T
-'rampion': XXX rampion
+'rampion': xxx rampion
 'yourself,': KWRO*URS KW-BG
 'let': HRET
 'it': T
@@ -206,7 +206,7 @@ Rapunzel
 'will.'': HR TP-PL AE
 'At': AT
 'twilight,': TWAOEULGT KW-BG
-'he': E
+'he': HE
 'clambered': KHRAPL/ERD
 'down': TKOUPB
 'over': OEFR
@@ -223,7 +223,7 @@ Rapunzel
 'a': AEU
 'handful': HAPBD/-FL
 'of': -F
-'rampion,': XXX rampion KW-BG
+'rampion,': xxx rampion KW-BG
 'and': SKP
 'took': TAOBG
 'it': T
@@ -266,8 +266,8 @@ Rapunzel
 'as': AZ
 'before.': PW-F TP-PL
 'If': TP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'to': TO
 'have': SR
 'any': TPHEU
@@ -285,27 +285,27 @@ Rapunzel
 'the': -T
 'gloom': TKPWHRAOPL
 'of': -F
-'evening': AOEPG
+'evening': AOEPBG
 'therefore,': TH-FR KW-BG
-'he': E
+'he': HE
 'let': HRET
 'himself': H*EUPLS
 'down': TKOUPB
 'again;': TKPWEPB STPH*FPLT
 'but': PWUT
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'clambered': KHRAPL/ERD
 'down': TKOUPB
 'the': -T
 'wall': WAUL
-'he': E
-'was': WA
-'terribly': TER/PWHREU
+'he': HE
+'was': WAS
+'terribly': TERBL/HREU
 'afraid,': A/TPRAEUD KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'saw': SAU
 'the': -T
 'enchantress': EPB/KHAPBT/RES
@@ -328,7 +328,7 @@ Rapunzel
 'and': SKP
 'steal': STAEL
 'my': PHEU
-'rampion': XXX rampion
+'rampion': xxx rampion
 'like': HRAOEUBG
 'a': AEU
 'thief?': THAOEF H-F
@@ -338,8 +338,8 @@ Rapunzel
 'for': TPOR
 'it!'': T SKHRAPL AE
 ''Ah,'': AE HA*E KW-BG AE
-'answered': APBSD
-'he,': E KW-BG
+'answered': AEPBS/-D
+'he,': HE KW-BG
 ''let': AE HRET
 'mercy': PHER/SEU
 'take': TAEUBG
@@ -363,7 +363,7 @@ Rapunzel
 'wife': WAOEUF
 'saw': SAU
 'your': KWROUR
-'rampion': XXX rampion
+'rampion': xxx rampion
 'from': TPR
 'the': -T
 'window,': WOEUPBD KW-BG
@@ -418,7 +418,7 @@ Rapunzel
 'you': U
 'as': AZ
 'much': PHUFP
-'rampion': XXX rampion
+'rampion': xxx rampion
 'as': AZ
 'you': U
 'will,': HR KW-BG
@@ -459,7 +459,7 @@ Rapunzel
 'man': PHAPB
 'in': TPH
 'his': HEUS
-'terror': TER/ROR
+'terror': TER/O*R
 'consented': KEFPBT/-D
 'to': TO
 'everything,': EFG KW-BG
@@ -467,7 +467,7 @@ Rapunzel
 'when': WHEPB
 'the': -T
 'woman': WOPL
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'to': TO
 'bed,': PWED KW-BG
@@ -501,7 +501,7 @@ Rapunzel
 'sun.': SUPB TP-PL
 'When': WHEPB
 'she': SHE
-'was': WA
+'was': WAS
 'twelve': TWEFL
 'years': KWRAOERS
 'old,': OLD KW-BG
@@ -528,7 +528,7 @@ Rapunzel
 'at': AT
 'the': -T
 'top': TOP
-'was': WA
+'was': WAS
 'a': AEU
 'little': HREUL
 'window.': WOEUPBD TP-PL
@@ -566,14 +566,14 @@ Rapunzel
 'and': SKP
 'when': WHEPB
 'she': SHE
-'heard': HERD
+'heard': HAERD
 'the': -T
 'voice': SROEUS
 'of': -F
 'the': -T
 'enchantress': EPB/KHAPBT/RES
 'she': SHE
-'unfastened': XXX unfastened
+'unfastened': xxx unfastened
 'her': HER
 'braided': PWRAEUD/-D
 'tresses,': TRESZ/-S KW-BG
@@ -594,7 +594,7 @@ Rapunzel
 'hair': HAEUR
 'fell': TPEL
 'twenty': TWEPBT
-'ells': XXX ells
+'ells': xxx ells
 'down,': TKOUPB KW-BG
 'and': SKP
 'the': -T
@@ -614,7 +614,7 @@ Rapunzel
 'pass': PAS
 'that': THA
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
 'rode': ROED
 'through': THRU
@@ -626,22 +626,22 @@ Rapunzel
 'the': -T
 'tower.': TOUR TP-PL
 'Then': THEPB
-'he': E
-'heard': HERD
+'he': HE
+'heard': HAERD
 'a': AEU
 'song,': SOPBG KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'so': SO
 'charming': KHARPL/-G
 'that': THA
-'he': E
+'he': HE
 'stood': STAOD
 'still': STEUL
 'and': SKP
 'listened.': HREUFPBD TP-PL
 'This': TH
-'was': WA
+'was': WAS
 'Rapunzel,': RA/PUPB/S*EL KW-BG
 'who': WHO
 'in': TPH
@@ -657,7 +657,7 @@ Rapunzel
 'voice': SROEUS
 'resound.': RE/SO*UPBD TP-PL
 'The': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
 'wanted': WAPBTD
 'to': TO
@@ -675,11 +675,11 @@ Rapunzel
 'tower,': TOUR KW-BG
 'but': PWUT
 'none': TPHOPB
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'found.': TPOUPBD TP-PL
-'He': E
+'He': HE
 'rode': ROED
 'home,': HOEPL KW-BG
 'but': PWUT
@@ -694,7 +694,7 @@ Rapunzel
 'that': THA
 'every': EF
 'day': TKAEU
-'he': E
+'he': HE
 'went': WEPBT
 'out': OUT
 'into': TPHAO
@@ -706,14 +706,14 @@ Rapunzel
 'it.': T TP-PL
 'Once': WUPBS
 'when': WHEPB
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'thus': THUS
 'standing': STAPBG
 'behind': HEUPBD
 'a': AEU
 'tree,': TRAOE KW-BG
-'he': E
+'he': HE
 'saw': SAU
 'that': THA
 'an': APB
@@ -721,8 +721,8 @@ Rapunzel
 'came': KAEUPL
 'there,': THR KW-BG
 'and': SKP
-'he': E
-'heard': HERD
+'he': HE
+'heard': HAERD
 'how': HOU
 'she': SHE
 'cried:': KRAOEUD STPH-FPLT
@@ -766,7 +766,7 @@ Rapunzel
 'my': PHEU
 'fortune,'': TP-RPB KW-BG AE
 'said': SAEUD
-'he,': E KW-BG
+'he,': HE KW-BG
 'and': SKP
 'the': -T
 'next': TPHEGT
@@ -777,7 +777,7 @@ Rapunzel
 'to': TO
 'grow': TKPWROE
 'dark,': TKARBG KW-BG
-'he': E
+'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
@@ -799,15 +799,15 @@ Rapunzel
 'down': TKOUPB
 'and': SKP
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
 'climbed': KHRAOEUPLD
 'up.': UP TP-PL
 'At': AT
-'first': TPEURS
+'first': TPEUFRT
 'Rapunzel': RA/PUPB/S*EL
-'was': WA
-'terribly': TER/PWHREU
+'was': WAS
+'terribly': TERBL/HREU
 'frightened': TPRAOEUPBD
 'when': WHEPB
 'a': AEU
@@ -819,13 +819,13 @@ Rapunzel
 'had': H
 'never': TPHEF
 'yet': KWRET
-'beheld,': XXX beheld KW-BG
+'beheld,': PWE/HELD KW-BG
 'came': KAEUPL
 'to': TO
 'her;': HER STPH*FPLT
 'but': PWUT
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
 'began': TKPWAPB
 'to': TO
@@ -855,7 +855,7 @@ Rapunzel
 'no': TPHO
 'rest,': REFT KW-BG
 'and': SKP
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'forced': TPOFRD
@@ -869,7 +869,7 @@ Rapunzel
 'fear,': TPAOER KW-BG
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'asked': SK-D
 'her': HER
 'if': TP
@@ -884,14 +884,14 @@ Rapunzel
 'she': SHE
 'saw': SAU
 'that': THA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'young': KWRUPBG
 'and': SKP
 'handsome,': HAPBD/SOPL KW-BG
 'she': SHE
 'thought:': THAUT STPH-FPLT
-''He': AE E
+''He': AE HE
 'will': HR
 'love': HRUF
 'me': PHE
@@ -899,7 +899,7 @@ Rapunzel
 'than': THAPB
 'old': OLD
 'Dame': TKAEUPL
-'Gothel': XXX Gothel
+'Gothel': xxx Gothel
 'does';': TKOS AE STPH*FPLT
 'and': SKP
 'she': SHE
@@ -953,7 +953,7 @@ Rapunzel
 'when': WHEPB
 'that': THA
 'is': S
-'ready': R*ED
+'ready': R-D
 'I': EU
 'will': HR
 'descend,': TKE/SEPBD KW-BG
@@ -971,13 +971,13 @@ Rapunzel
 'until': TPH-L
 'that': THA
 'time': TAOEUPL
-'he': E
+'he': HE
 'should': SHO
 'come': KOPL
 'to': TO
 'her': HER
 'every': EF
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'for': TPOR
 'the': -T
 'old': OLD
@@ -1000,7 +1000,7 @@ Rapunzel
 ''Tell': AE TEL
 'me,': PHE KW-BG
 'Dame': TKAEUPL
-'Gothel,': XXX Gothel KW-BG
+'Gothel,': xxx Gothel KW-BG
 'how': HOU
 'it': T
 'happens': HABS
@@ -1018,8 +1018,8 @@ Rapunzel
 'than': THAPB
 'the': -T
 'young': KWRUPBG
-'king's': KEUPBG AE S*/SP-S
-'son--he': SOPB H-PB H-PB E
+'king's': KEUPBG/AES
+'son--he': SOPB H-PB H-PB HE
 'is': S
 'with': W
 'me': PHE
@@ -1060,7 +1060,7 @@ Rapunzel
 'anger': ARPBG
 'she': SHE
 'clutched': KHRUFPD
-'Rapunzel's': RA/PUPB/S*EL AE S*/SP-S
+'Rapunzel's': RA/PUPB/S*EL AES
 'beautiful': PWAOUFL
 'tresses,': TRESZ/-S KW-BG
 'wrapped': WRAPD
@@ -1095,7 +1095,7 @@ Rapunzel
 'ground.': TKPWROUPBD TP-PL
 'And': SKP
 'she': SHE
-'was': WA
+'was': WAS
 'so': SO
 'pitiless': PEUT/*EULS
 'that': THA
@@ -1147,7 +1147,7 @@ Rapunzel
 'and': SKP
 'when': WHEPB
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
 'came': KAEUPL
 'and': SKP
@@ -1166,7 +1166,7 @@ Rapunzel
 'hair': HAEUR
 'down.': TKOUPB TP-PL
 'The': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
 'ascended,': A/SEPBD/-D KW-BG
 'but': PWUT
@@ -1176,7 +1176,7 @@ Rapunzel
 'his': HEUS
 'dearest': TKAER/EFT
 'Rapunzel,': RA/PUPB/S*EL KW-BG
-'he': E
+'he': HE
 'found': TPOUPBD
 'the': -T
 'enchantress,': EPB/KHAPBT/RES KW-BG
@@ -1188,8 +1188,8 @@ Rapunzel
 'wicked': WEUBGD
 'and': SKP
 'venomous': SREPB/PHOUS
-'looks.': HAOBGS TP-PL
-''Aha!'': AE XXX Aha SKHRAPL AE
+'looks.': HRAOBGS TP-PL
+''Aha!'': AE xxx Aha SKHRAPL AE
 'she': SHE
 'cried': KRAOEUD
 'mockingly,': PHOBG/-G/HREU KW-BG
@@ -1234,9 +1234,9 @@ Rapunzel
 'her': HER
 'again.'': TKPWEPB TP-PL AE
 'The': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
-'was': WA
+'was': WAS
 'beside': PWE/SAOEUD
 'himself': H*EUPLS
 'with': W
@@ -1244,14 +1244,14 @@ Rapunzel
 'and': SKP
 'in': TPH
 'his': HEUS
-'despair': TKES/PAEUR
-'he': E
+'despair': TKE/SPAEUR
+'he': HE
 'leapt': HREPT
 'down': TKOUPB
 'from': TPR
 'the': -T
 'tower.': TOUR TP-PL
-'He': E
+'He': HE
 'escaped': ES/KAEUPD
 'with': W
 'his': HEUS
@@ -1261,13 +1261,13 @@ Rapunzel
 'thorns': THORPB/-S
 'into': TPHAO
 'which': WEU
-'he': E
+'he': HE
 'fell': TPEL
 'pierced': PAOERS/-D
 'his': HEUS
 'eyes.': AO*EUS TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'wandered': WAPBD/-D
 'quite': KWAOEUT
 'blind': PWHRAOEUPBD
@@ -1295,7 +1295,7 @@ Rapunzel
 'dearest': TKAER/EFT
 'wife.': WAOEUF TP-PL
 'Thus': THUS
-'he': E
+'he': HE
 'roamed': ROEPLD
 'about': PW
 'in': TPH
@@ -1328,9 +1328,9 @@ Rapunzel
 'girl,': TKPWEURL KW-BG
 'lived': HREUFD
 'in': TPH
-'wretchedness.': XXX wretchedness TP-PL
-'He': E
-'heard': HERD
+'wretchedness.': KREFPD/-PBS TP-PL
+'He': HE
+'heard': HAERD
 'a': AEU
 'voice,': SROEUS KW-BG
 'and': SKP
@@ -1341,13 +1341,13 @@ Rapunzel
 'to': TO
 'him': HEUPL
 'that': THA
-'he': E
+'he': HE
 'went': WEPBT
 'towards': TORDZ
 'it,': T KW-BG
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'approached,': A/PROEFPD KW-BG
 'Rapunzel': RA/PUPB/S*EL
 'knew': TPHAOU
@@ -1372,22 +1372,22 @@ Rapunzel
 'clear': KHRAOER
 'again,': TKPWEPB KW-BG
 'and': SKP
-'he': E
+'he': HE
 'could': KO
 'see': SAOE
 'with': W
 'them': THEPL
 'as': AZ
 'before.': PW-F TP-PL
-'He': E
+'He': HE
 'led': HRED
 'her': HER
 'to': TO
 'his': HEUS
 'kingdom': KEUPBG/TKOPL
 'where': W-R
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'joyfully': SKWROEUFL/HREU
 'received,': SAOEFD KW-BG
 'and': SKP

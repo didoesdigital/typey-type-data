@@ -1,7 +1,7 @@
 There Is No Doubt About It
 
 '"That': KR-GS THA
-'was': WA
+'was': WAS
 'a': AEU
 'terrible': TERBL
 'affair!"': A/TPAEUR SKHRAPL KR-GS
@@ -23,7 +23,7 @@ There Is No Doubt About It
 'taken': TAEPB
 'place.': PHRAEUS TP-PL
 '"That': KR-GS THA
-'was': WA
+'was': WAS
 'a': AEU
 'terrible': TERBL
 'affair': A/TPAEUR
@@ -67,11 +67,11 @@ There Is No Doubt About It
 'up,': UP KW-BG
 'and': SKP
 'the': -T
-'cock's': KOBG AE S*/SP-S
+'cock's': KOBG AES
 'comb': KOEPL
-'fall.': TPAL TP-PL
+'fall.': TPAUL TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'doubt': TKOUT
 'about': PW
@@ -100,7 +100,7 @@ There Is No Doubt About It
 'town.': TOUPB TP-PL
 'The': -T
 'sun': SUPB
-'was': WA
+'was': WAS
 'setting,': SEGT KW-BG
 'and': SKP
 'the': -T
@@ -129,7 +129,7 @@ There Is No Doubt About It
 'the': -T
 'regulations,': RAEUG/-S KW-BG
 'and': SKP
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'as': AZ
 'a': AEU
 'hen,': HEPB KW-BG
@@ -139,7 +139,7 @@ There Is No Doubt About It
 'way.': WAEU TP-PL
 'As': AZ
 'she': SHE
-'was': WA
+'was': WAS
 'flying': TPHRAOEUG
 'upon': POPB
 'the': -T
@@ -170,14 +170,14 @@ There Is No Doubt About It
 'beautiful': PWAOUFL
 'do': TKO
 'I': EU
-'get."': TKPW-T TP-PL KR-GS
+'get."': TKPWET TP-PL KR-GS
 'She': SHE
 'said': SAEUD
 'this': TH
 'merrily,': PHER/HREU KW-BG
 'for': TPOR
 'she': SHE
-'was': WA
+'was': WAS
 'the': -T
 'best': PWEFT
 'of': -F
@@ -198,7 +198,7 @@ There Is No Doubt About It
 'to': TO
 'sleep.': SHRAOEP TP-PL
 'It': T
-'was': WA
+'was': WAS
 'dark': TKARBG
 'all': AUL
 'around,': ARPBD KW-BG
@@ -217,17 +217,17 @@ There Is No Doubt About It
 'to': TO
 'her': HER
 'merry': PHER/REU
-'neighbour': TPHAEUB
+'neighbour': TPHAEUB/A*U
 'did': TK
 'not': TPHOT
 'sleep.': SHRAOEP TP-PL
 'She': SHE
 'had': H
-'heard': HERD
+'heard': HAERD
 'and': SKP
 'yet': KWRET
 'not': TPHOT
-'heard,': HERD KW-BG
+'heard,': HAERD KW-BG
 'as': AZ
 'we': WE
 'are': R
@@ -252,7 +252,7 @@ There Is No Doubt About It
 'it': T
 'from': TPR
 'her': HER
-'neighbour': TPHAEUB
+'neighbour': TPHAEUB/A*U
 'on': OPB
 'the': -T
 'other': OER
@@ -263,7 +263,7 @@ There Is No Doubt About It
 'you': U
 'hear': HAER
 'what': WHA
-'was': WA
+'was': WAS
 'said?': SAEUD H-F
 'I': EU
 'mention': PHEPBG
@@ -316,12 +316,12 @@ There Is No Doubt About It
 'and': SKP
 'they': THE
 'all': AUL
-'heard': HERD
+'heard': HAERD
 'every': EF
 'word': WORD
 'that': THA
 'their': THAEUR
-'neighbour': TPHAEUB
+'neighbour': TPHAEUB/A*U
 'had': H
 'said.': SAEUD TP-PL
 'They': THE
@@ -335,7 +335,7 @@ There Is No Doubt About It
 'her': HER
 'wings,': WEUPBGS KW-BG
 'said:': SAEUD STPH-FPLT
-'"Don't': KR-GS TKO*PB AE T*/SP-S
+'"Don't': KR-GS TKO*PB AE T*
 'listen': HREUFPB
 'to': TO
 'her!': HER SKHRAPL
@@ -343,12 +343,12 @@ There Is No Doubt About It
 'I': EU
 'suppose': SPOS
 'you': U
-'heard': HERD
+'heard': HAERD
 'what': WHA
-'was': WA
+'was': WAS
 'said?': SAEUD H-F
 'I': EU
-'heard': HERD
+'heard': HAERD
 'it': T
 'with': W
 'my': PHEU
@@ -396,10 +396,10 @@ There Is No Doubt About It
 'cock': KOBG
 'see': SAOE
 'it."': T TP-PL KR-GS
-'"Prenez': KR-GS XXX Prenez
-'garde': XXX garde
-'aux': XXX aux
-'enfants!"': XXX enfants SKHRAPL KR-GS
+'"Prenez': KR-GS xxx Prenez
+'garde': xxx garde
+'aux': A*UBGS
+'enfants!"': xxx enfants SKHRAPL KR-GS
 'said': SAEUD
 'father': TPAER
 'owl;': OUL STPH*FPLT
@@ -414,7 +414,7 @@ There Is No Doubt About It
 'must': PHUFT
 'tell': TEL
 'our': OUR
-'neighbour': TPHAEUB
+'neighbour': TPHAEUB/A*U
 'owl': OUL
 'about': PW
 'it;': T STPH*FPLT
@@ -440,7 +440,7 @@ There Is No Doubt About It
 'hooted': HAOT/-D
 'into': TPHAO
 'the': -T
-'neighbour's': TPHAEUB AE S*/SP-S
+'neighbour's': TPHAEUB/A*U AES
 'dove-cot': TKOF H-PB KOT
 'to': TO
 'the': -T
@@ -448,10 +448,10 @@ There Is No Doubt About It
 'inside.': TPH-DZ TP-PL
 '"Have': KR-GS SR
 'you': U
-'heard?': HERD H-F
+'heard?': HAERD H-F
 'Have': SR
 'you': U
-'heard?': HERD H-F
+'heard?': HAERD H-F
 'Too-whoo!': TAO H-PB WHAO SKHRAPL
 'There': THR
 'is': S
@@ -489,7 +489,7 @@ There Is No Doubt About It
 'doves.': TKOFS TP-PL
 '"In': KR-GS TPH
 'the': -T
-'neighbour's': TPHAEUB AE S*/SP-S
+'neighbour's': TPHAEUB/A*U AES
 'yard.': KWRARD TP-PL
 'I': EU
 'have': SR
@@ -502,7 +502,7 @@ There Is No Doubt About It
 'It': T
 'is': S
 'almost': HR-PL
-'unbecoming': XXX unbecoming
+'unbecoming': xxx unbecoming
 'to': TO
 'tell': TEL
 'the': -T
@@ -598,14 +598,14 @@ There Is No Doubt About It
 'his': HEUS
 'board.': PWAORD TP-PL
 'Sleep': SHRAOEP
-'was': WA
+'was': WAS
 'still': STEUL
 'in': TPH
 'his': HEUS
 'eyes,': AO*EUS KW-BG
 'but': PWUT
 'yet': KWRET
-'he': E
+'he': HE
 'crowed': KROE/-D
 'out:': OUT STPH-FPLT
 '"Three': KR-GS THRAOE
@@ -671,7 +671,7 @@ There Is No Doubt About It
 'way': WAEU
 'the': -T
 'story': STOER
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'from': TPR
 'poultry-yard': POL/TREU H-PB KWRARD
 'to': TO
@@ -688,7 +688,7 @@ There Is No Doubt About It
 'which': WEU
 'it': T
 'had': H
-'really': HROERL
+'really': R-L
 'started.': STARTD TP-PL
 '"Five': KR-GS TPEUF
 'hens,"': HEPB/-S KW-BG KR-GS
@@ -760,7 +760,7 @@ There Is No Doubt About It
 'naturally': TPHRARL
 'did': TK
 'not': TPHOT
-'recognise': REZ
+'recognise': REZ/A*U
 'her': HER
 'own': OEPB
 'story,': STOER KW-BG
@@ -825,7 +825,7 @@ There Is No Doubt About It
 'the': -T
 'papers,': PAEUPS KW-BG
 'it': T
-'was': WA
+'was': WAS
 'printed;': PREUPBTD STPH*FPLT
 'and': SKP
 'there': THR

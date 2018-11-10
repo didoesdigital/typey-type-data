@@ -44,7 +44,7 @@ A Story
 'and': SKP
 'licked': HREUBG/-D
 'the': -T
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'from': TPR
 'its': EUTS
 'own': OEPB
@@ -70,9 +70,9 @@ A Story
 'comparison!': KPAEURPB SKHRAPL
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
-'twittering': TWUT/*ER/-G
+'twittering': TWEURT/-G
 'and': SKP
 'a': AEU
 'fluttering': TPHRUT/ERG
@@ -92,10 +92,10 @@ A Story
 'and': SKP
 'so': SO
 'it': T
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'for': TPOR
 'it': T
-'was': WA
+'was': WAS
 'Sunday.': SUPBD TP-PL
 'All': AUL
 'the': -T
@@ -118,16 +118,16 @@ A Story
 'best': PWEFT
 'clothes.': KHRO*ETS TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'a': AEU
 'look': HRAOBG
 'of': -F
-'cheerfulness': XXX cheerfulness
+'cheerfulness': KHAOER/-FL/-PBS
 'on': OPB
 'everything.': EFG TP-PL
 'The': -T
 'day': TKAEU
-'was': WA
+'was': WAS
 'so': SO
 'warm': WARPL
 'and': SKP
@@ -138,7 +138,7 @@ A Story
 'well': WEL
 'have': SR
 'said:': SAEUD STPH-FPLT
-'"God's': KR-GS TKPWOD AE S*/SP-S
+'"God's': KR-GS TKPWOD AES
 'kindness': KEUPBD/-PBS
 'to': TO
 'us': US
@@ -163,7 +163,7 @@ A Story
 'loudly': HROUD/HREU
 'and': SKP
 'angrily.': APBL/REU/HREU TP-PL
-'He': E
+'He': HE
 'said': SAEUD
 'that': THA
 'all': AUL
@@ -196,7 +196,7 @@ A Story
 'ever': -FR
 'and': SKP
 'ever.': -FR TP-PL
-'He': E
+'He': HE
 'spoke': SPOEBG
 'very': SRE
 'excitedly,': KPAOEUT/TKHREU KW-BG
@@ -220,14 +220,14 @@ A Story
 'should': SHO
 'never': TPHEF
 'find': TPEUPBD
-'rest.': REFT TP-PL
+'rest.': REFT/TP-PL
 'That': THA
-'was': WA
+'was': WAS
 'terrible': TERBL
 'to': TO
 'hear,': HAER KW-BG
 'and': SKP
-'he': E
+'he': HE
 'said': SAEUD
 'it': T
 'in': TPH
@@ -236,7 +236,7 @@ A Story
 'tone': TOEPB
 'of': -F
 'conviction;': K-FBGS STPH*FPLT
-'he': E
+'he': HE
 'described': KREUFD
 'hell': HEL
 'to': TO
@@ -254,18 +254,18 @@ A Story
 'world': WORLD
 'gathers.': TKPWAERS TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'air': AEUR
 'beside': PWE/SAOEUD
 'the': -T
 'hot': HOT
 'burning': PWURPBG
-'sulphur': SUL/TPER
+'sulphur': SUL/TPER/A*U
 'flame,': TPHRAEUPL KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'ground': TKPWROUPBD
 'under': *UPBD
@@ -285,7 +285,7 @@ A Story
 'surrounded': SROUBD/-D
 'them!': THEPL SKHRAPL
 'It': T
-'was': WA
+'was': WAS
 'dreadful': TKRED/*FL
 'to': TO
 'hear': HAER
@@ -316,7 +316,7 @@ A Story
 'and': SKP
 'the': -T
 'sun': SUPB
-'was': WA
+'was': WAS
 'shining': SHAOEUPBG
 'so': SO
 'beautifully': PWAOUFL/HREU
@@ -341,17 +341,17 @@ A Story
 'Indeed,': TPHAOEPBD KW-BG
 'outside': OUDZ
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'at': AT
 'all': AUL
 'like': HRAOEUBG
 'the': -T
-'pastor's': PAS/TOR AE S*/SP-S
+'pastor's': PAS/TOR AES
 'sermon.': SER/PHOPB TP-PL
 'The': -T
 'same': SAEUPL
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'upon': POPB
 'going': TKPW-G
 'to': TO
@@ -361,7 +361,7 @@ A Story
 'noticed': TPH-TSD
 'his': HEUS
 'wife': WAOEUF
-'sitting': SAO*EGT
+'sitting': SEUGT
 'there': THR
 'quiet': KWAO*EUT
 'and': SKP
@@ -372,7 +372,7 @@ A Story
 'matter': PHAERT
 'with': W
 'you?"': U H-F KR-GS
-'he': E
+'he': HE
 'asked': SK-D
 'her.': HER TP-PL
 '"Well,': KR-GS WEL KW-BG
@@ -462,7 +462,7 @@ A Story
 'knows': TPHOEZ
 'how': HOU
 'the': -T
-'wickedness': XXX wickedness
+'wickedness': WEUBGD/-PBS
 'comes': KOPLS
 'from': TPR
 'without': WOUT
@@ -480,7 +480,7 @@ A Story
 'say': SAEU
 'so."': SO TP-PL KR-GS
 'It': T
-'was': WA
+'was': WAS
 'autumn;': AU/UPL STPH*FPLT
 'the': -T
 'trees': TRAOES
@@ -500,7 +500,7 @@ A Story
 'a': AEU
 'dying': TKAOEUG
 'person.': PERPB TP-PL
-'A': AEU
+'A': KPA*/AEU
 'pious,': PAOEU/OUS KW-BG
 'faithful': TPA*EUT/-FL
 'soul': SOUL
@@ -510,9 +510,9 @@ A Story
 'for': TPOR
 'ever;': -FR STPH*FPLT
 'she': SHE
-'was': WA
+'was': WAS
 'the': -T
-'pastor's': PAS/TOR AE S*/SP-S
+'pastor's': PAS/TOR AES
 'wife.': WAOEUF TP-PL
 '..."If': TP-PL TP-PL TP-PL KR-GS TP
 'any': TPHEU
@@ -536,7 +536,7 @@ A Story
 'said': SAEUD
 'the': -T
 'pastor.': PAS/TOR TP-PL
-'He': E
+'He': HE
 'folded': TPOELD/-D
 'her': HER
 'hands': HAPBDZ
@@ -549,7 +549,7 @@ A Story
 'dead': TKED
 'woman.': WOPL TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'buried;': PWUR/EUD STPH*FPLT
 'two': TWO
 'large': HRARPBLG
@@ -567,7 +567,7 @@ A Story
 'the': -T
 'parsonage': PARS/TPHAPBLG
 'it': T
-'was': WA
+'was': WAS
 'empty': EPLT
 'and': SKP
 'still,': STEUL KW-BG
@@ -583,17 +583,17 @@ A Story
 'gone': TKPWOPB
 'home.': HOEPL TP-PL
 'It': T
-'was': WA
+'was': WAS
 'night.': TPHAOEUT TP-PL
-'A': AEU
+'A': KPA*/AEU
 'cold': KOELD
 'wind': WEUPBD
 'swept': SWEPT
 'over': OEFR
 'the': -T
-'pastor's': PAS/TOR AE S*/SP-S
+'pastor's': PAS/TOR AES
 'head;': HED STPH*FPLT
-'he': E
+'he': HE
 'opened': OEPD
 'his': HEUS
 'eyes,': AO*EUS KW-BG
@@ -606,18 +606,18 @@ A Story
 'if': TP
 'the': -T
 'moon': PHAOPB
-'was': WA
+'was': WAS
 'shining': SHAOEUPBG
 'into': TPHAO
 'his': HEUS
 'room.': RAOPL TP-PL
 'It': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'so,': SO KW-BG
 'however;': HOUF STPH*FPLT
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'being': -BG
 'standing': STAPBG
@@ -714,7 +714,7 @@ A Story
 'for': TPOR
 'you?"': U H-F KR-GS
 '"Yes,"': KR-GS KWRE KW-BG KR-GS
-'was': WA
+'was': WAS
 'the': -T
 'answer.': AEPBS TP-PL
 '"And': KR-GS SKP
@@ -745,7 +745,7 @@ A Story
 'whom': WHOPL
 'God': TKPWOD
 'will': HR
-'condemn': KOPB/TKEPL
+'condemn': KAUPB/TKEPL
 'to': TO
 'eternal': E/TERPBL
 'punishment': PUPLT
@@ -766,7 +766,7 @@ A Story
 'pure,': PAOUR KW-BG
 'pious': PAOEU/OUS
 'woman,"': WOPL KW-BG KR-GS
-'he': E
+'he': HE
 'said.': SAEUD TP-PL
 '"Follow': KR-GS TPOL
 'me,"': PHE KW-BG KR-GS
@@ -826,7 +826,7 @@ A Story
 'the': -T
 'cock': KOBG
 'crows': KROE/-S
-'he': E
+'he': HE
 'must': PHUFT
 'be': -B
 'found!"': TPOUPBD SKHRAPL KR-GS
@@ -866,7 +866,7 @@ A Story
 'short,': SHORT KW-BG
 'the': -T
 'whole': WHOEL
-'seven-coloured': SEFPB H-PB KHROURD
+'seven-coloured': SEFPB H-PB KHROURD/A*U
 'bow': PWOE
 'of': -F
 'sin.': SEUPB TP-PL
@@ -902,7 +902,7 @@ A Story
 'illuminated': EUL/AOUPL/TPHAEUT/-D
 'gate;': TKPWAET STPH*FPLT
 'the': -T
-'broad': PWROD
+'broad': PWRAOD
 'steps': STEPS
 'were': WR
 'adorned': A/TKORPB/-D
@@ -913,13 +913,13 @@ A Story
 'and': SKP
 'dance': TKAPBS
 'music': PHAOUFBG
-'was': WA
+'was': WAS
 'sounding': SOUPBD/-G
 'through': THRU
 'the': -T
 'festive': TPES/TEUF
 'halls.': HAULS TP-PL
-'A': AEU
+'A': KPA*/AEU
 'footman': TPAOT/PHAPB
 'dressed': TKREFD
 'in': TPH
@@ -930,7 +930,7 @@ A Story
 'with': W
 'a': AEU
 'large': HRARPBLG
-'silver-mounted': SEUL/SRER H-PB PHOUPBT/-D
+'silver-mounted': SEUL/SRER H-PB PHOUPBTD
 'rod': ROD
 'near': TPHAOER
 'the': -T
@@ -939,16 +939,16 @@ A Story
 'ball': PWAUL
 'can': K
 'compare': KPAR
-'favourably': TPAEUF/PWHREU
+'favourably': TPAEUF/PWHREU/A*U
 'with': W
 'the': -T
-'king's,"': KEUPBG AE S*/SP-S KW-BG KR-GS
-'he': E
+'king's,"': KEUPBG AE S* KW-BG KR-GS
+'he': HE
 'said,': SAEUD KW-BG
 'and': SKP
 'turned': TURPBD
 'with': W
-'contempt': KOPB/TEPLT
+'contempt': KAUPB/TEPLT
 'towards': TORDZ
 'the': -T
 'gazing': TKPWAEUFG
@@ -957,9 +957,9 @@ A Story
 'the': -T
 'street.': STRAOET TP-PL
 'What': WHA
-'he': E
+'he': HE
 'thought': THAUT
-'was': WA
+'was': WAS
 'sufficiently': SUFL
 'expressed': EBGS/PREFD
 'in': TPH
@@ -994,7 +994,7 @@ A Story
 'asked': SK-D
 'the': -T
 'pastor.': PAS/TOR TP-PL
-'"He': KR-GS E
+'"He': KR-GS HE
 'is': S
 'but': PWUT
 'a': AEU
@@ -1048,7 +1048,7 @@ A Story
 'the': -T
 'old': OLD
 'man': PHAPB
-'was': WA
+'was': WAS
 'clinging': KHREUPBG/-G
 'with': W
 'all': AUL
@@ -1106,14 +1106,14 @@ A Story
 'clammy': KHRAPL/PH*EU
 'fingers': TPEURPBGS
 'trembled.': TREPL/-BLD TP-PL
-'"He': KR-GS E
+'"He': KR-GS HE
 'is': S
 'ill!': EUL SKHRAPL
 'That': THA
 'is': S
 'madness—a': PHAD/-PBS EPL/TKA*RB AEU
-'joyless': XXX joyless
-'madness—besieged': PHAD/-PBS EPL/TKA*RB XXX besieged
+'joyless': xxx joyless
+'madness—besieged': PHAD/-PBS EPL/TKA*RB PWE/SAOEPBLG/-D
 'by': PWEU
 'fear': TPAOER
 'and': SKP
@@ -1170,7 +1170,7 @@ A Story
 'ribs': REUBS
 'with': W
 'his': HEUS
-'pointed': POEUPTD
+'pointed': POEUPBTD
 'elbow,': EL/PWOE KW-BG
 'and': SKP
 'this': TH
@@ -1182,7 +1182,7 @@ A Story
 'sleep:': SHRAOEP STPH-FPLT
 '"Be': KR-GS -B
 'quiet,': KWAO*EUT KW-BG
-'monster—sleep!': PHOPBS/TER EPL/TKA*RB SHRAOEP SKHRAPL
+'monster—sleep!': PHOPB/STER EPL/TKA*RB SHRAOEP SKHRAPL
 'This': TH
 'happens': HABS
 'every': EF
@@ -1195,7 +1195,7 @@ A Story
 '"Yes,': KR-GS KWRE KW-BG
 'every': EF
 'night': TPHAOEUT
-'he': E
+'he': HE
 'comes': KOPLS
 'and': SKP
 'tortures': TOR/KHURS
@@ -1210,7 +1210,7 @@ A Story
 'and': SKP
 'that.': THA TP-PL
 'I': EU
-'was': WA
+'was': WAS
 'born': PWORPB
 'with': W
 'an': APB
@@ -1359,7 +1359,7 @@ A Story
 'when': WHEPB
 'I': EU
 'have': SR
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'asleep,': A/HRAOEP KW-BG
 'the': -T
 'great': TKPWRAET
@@ -1412,7 +1412,7 @@ A Story
 'the': -T
 'excited': KPAOEUTD
 'criminal;': KR-L STPH*FPLT
-'he': E
+'he': HE
 'threw': THRAOU
 'himself': H*EUPLS
 'upon': POPB
@@ -1429,7 +1429,7 @@ A Story
 'the': -T
 'face.': TPAEUS TP-PL
 '"Wicked': KR-GS WEUBGD
-'Matz': XXX Matz
+'Matz': xxx Matz
 'has': HAS
 'become': PW-BG
 'mad': PHAD
@@ -1489,7 +1489,7 @@ A Story
 'pastor,': PAS/TOR KW-BG
 'and': SKP
 'as': AZ
-'he': E
+'he': HE
 'stretched': STREFPD
 'out': OUT
 'his': HEUS
@@ -1524,7 +1524,7 @@ A Story
 'before': PW-F
 'them.': THEPL TP-PL
 'An': APB
-'angel': APBG/EL
+'angel': A*EPBLG
 'of': -F
 'justice': SKWRUFS
 'read': RAED
@@ -1532,17 +1532,17 @@ A Story
 'crimes': KRAOEUPLS
 'and': SKP
 'their': THAEUR
-'defence;': TKEFPB STPH*FPLT
+'defence;': TKEFPB/A*U STPH*FPLT
 'the': -T
 'latter': HRAERT
-'was': WA
+'was': WAS
 'not': TPHOT
 'a': AEU
 'brilliant': PWREULT
 'one,': WUPB KW-BG
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'read': RAED
 'before': PW-F
 'God,': TKPWOD KW-BG
@@ -1554,7 +1554,7 @@ A Story
 'knows': TPHOEZ
 'everything,': EFG KW-BG
 'the': -T
-'wickedness': XXX wickedness
+'wickedness': WEUBGD/-PBS
 'that': THA
 'comes': KOPLS
 'from': TPR
@@ -1569,16 +1569,16 @@ A Story
 'love': HRUF
 'personified.': PER/SOPB/TPAOEU/-D TP-PL
 'The': -T
-'pastor's': PAS/TOR AE S*/SP-S
+'pastor's': PAS/TOR AES
 'hand': HAPBD
 'trembled;': TREPL/-BLD STPH*FPLT
-'he': E
+'he': HE
 'dared': TKAEURD
 'not': TPHOT
 'stretch': STREFP
 'it': T
 'out,': OUT KW-BG
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'venture': SREPBT/UR
@@ -1589,7 +1589,7 @@ A Story
 'out': OUT
 'of': -F
 'the': -T
-'sinner's': SEUPB/ER AE S*/SP-S
+'sinner's': SEUPB/ER AES
 'head.': HED TP-PL
 'And': SKP
 'tears': TAERS
@@ -1632,7 +1632,7 @@ A Story
 'peace': PAES
 'that': THA
 'I': EU
-'was': WA
+'was': WAS
 'unable': TPHA*EUBL
 'to': TO
 'procure': PRO/KAOUR
@@ -1647,12 +1647,12 @@ A Story
 'dead': TKED
 'woman.': WOPL TP-PL
 '"It': KR-GS T
-'was': WA
+'was': WAS
 'your': KWROUR
 'hard': HARD
 'words,': WORDZ KW-BG
 'your': KWROUR
-'despair': TKES/PAEUR
+'despair': TKE/SPAEUR
 'of': -F
 'mankind,': PHAPB/KAOEUPBD KW-BG
 'your': KWROUR
@@ -1685,7 +1685,7 @@ A Story
 'this': TH
 'extinguishes': STKPWAO*URB/-S
 'and': SKP
-'conquers': KOPB/KER/-S
+'conquers': KAUPB/KER/-S
 'the': -T
 'flame': TPHRAEUPL
 'of': -F
@@ -1703,7 +1703,7 @@ A Story
 'of': -F
 'light': HRAOEUT
 'surrounded': SROUBD/-D
-'him—God's': HEUPL EPL/TKA*RB TKPWOD AE S*/SP-S
+'him—God's': HEUPL EPL/TKA*RB TKPWOD AES
 'bright': PWRAOEUT
 'sun': SUPB
 'shone': SHO*EPB

@@ -10,7 +10,7 @@ The Bird of Popular Song
 'snowy': STPHOE/WEU
 'garment,': TKPWARPLT KW-BG
 'and': SKP
-'looks': HAOBGS
+'looks': HRAOBGS
 'like': HRAOEUBG
 'marble': PHAERBL
 'hewn': HAOUPB
@@ -101,9 +101,9 @@ The Bird of Popular Song
 'the': -T
 'open': OEP
 'sea': SAE
-'was': WA
+'was': WAS
 'a': AEU
-'giant's': SKWRAOEUPBT AE S*/SP-S
+'giant's': SKWRAOEUPBT AES
 'grave;': TKPWRAEUF STPH*FPLT
 'and': SKP
 'on': OPB
@@ -125,7 +125,7 @@ The Bird of Popular Song
 'king.': KEUPBG TP-PL
 'The': -T
 'golden': TKOELD/*EPB
-'circlet': XXX circlet
+'circlet': xxx circlet
 'gleamed': TKPWHRAOEPL/-D
 'on': OPB
 'his': HEUS
@@ -137,14 +137,14 @@ The Bird of Popular Song
 'the': -T
 'wind,': WEUPBD KW-BG
 'and': SKP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'clad': KHRAD
 'in': TPH
 'steel': STAOEL
 'and': SKP
 'iron.': AOEURPB TP-PL
-'He': E
+'He': HE
 'bent': PWEPBT
 'his': HEUS
 'head': HED
@@ -156,7 +156,7 @@ The Bird of Popular Song
 'sorrow,': SROE KW-BG
 'as': AZ
 'an': APB
-'unquiet': XXX unquiet
+'unquiet': xxx unquiet
 'spirit': SPEURT
 'might': PHAOEUT
 'sigh.': SAOEU TP-PL
@@ -176,11 +176,11 @@ The Bird of Popular Song
 'landed.': HRAPBD/-D TP-PL
 'Among': PHOPBG
 'them': THEPL
-'was': WA
+'was': WAS
 'a': AEU
 'singer,': SEURPBG KW-BG
 'and': SKP
-'he': E
+'he': HE
 'approached': A/PROEFPD
 'the': -T
 'royal': ROEUL
@@ -192,7 +192,7 @@ The Bird of Popular Song
 'thou,': THO*U KW-BG
 'and': SKP
 'wherefore': W-R/TPOR
-'dost': XXX dost
+'dost': TKO/*T
 'thou': THO*U
 'suffer': SUFR
 'thus?"': THUS H-F KR-GS
@@ -200,7 +200,7 @@ The Bird of Popular Song
 'the': -T
 'dead': TKED
 'man': PHAPB
-'answered,': APBSD KW-BG
+'answered,': AEPBS/-D KW-BG
 '"No': KR-GS TPHO
 'one': WUPB
 'has': HAS
@@ -239,7 +239,7 @@ The Bird of Popular Song
 'no': TPHO
 'peace."': PAES TP-PL KR-GS
 'And': SKP
-'he': E
+'he': HE
 'spoke': SPOEBG
 'of': -F
 'his': HEUS
@@ -262,7 +262,7 @@ The Bird of Popular Song
 'sung,': SUPBG KW-BG
 'because': PWAU
 'there': THR
-'was': WA
+'was': WAS
 'no': TPHO
 'singer': SEURPBG
 'among': PHOPBG
@@ -289,7 +289,7 @@ The Bird of Popular Song
 'hero,': HOEUR KW-BG
 'of': -F
 'the': -T
-'strength': STREPG
+'strength': STREPBG
 'of': -F
 'the': -T
 'man,': PHAPB KW-BG
@@ -341,14 +341,14 @@ The Bird of Popular Song
 'northern': TPHORPB
 'light.': HRAOEUT TP-PL
 'Nought': TPHA*UT
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'seen': SAOEPB
 'but': PWUT
 'the': -T
 'green': TKPWRAOEPB
-'turfy': XXX turfy
+'turfy': xxx turfy
 'mound,': PHOUPBD KW-BG
 'with': W
 'the': -T
@@ -356,7 +356,7 @@ The Bird of Popular Song
 'on': OPB
 'which': WEU
 'no': TPHO
-'Runic': XXX Runic
+'Runic': xxx Runic
 'record': RORD
 'has': HAS
 'been': PW-PB
@@ -376,7 +376,7 @@ The Bird of Popular Song
 'hill,': HEUL KW-BG
 'as': AZ
 'though': THOE
-'he': E
+'he': HE
 'had': H
 'fluttered': TPHRUT/ERD
 'from': TPR
@@ -415,7 +415,7 @@ The Bird of Popular Song
 'voice': SROEUS
 'that': THA
 'is': S
-'heard': HERD
+'heard': HAERD
 'by': PWEU
 'the': -T
 'bird': PWEURD
@@ -432,8 +432,8 @@ The Bird of Popular Song
 'over': OEFR
 'field': TPAOELD
 'and': SKP
-'wood—he': WAOD EPL/TKA*RB E
-'was': WA
+'wood—he': WAOD EPL/TKA*RB HE
+'was': WAS
 'the': -T
 'Bird': PWEURD
 'of': -F
@@ -474,7 +474,7 @@ The Bird of Popular Song
 'requiem': REBG/WEPL
 'of': -F
 'heroes;': HOEURS STPH*FPLT
-'he': E
+'he': HE
 'sings': SEUPBGS
 'also': HR-S
 'sweet': SWAOET
@@ -492,7 +492,7 @@ The Bird of Popular Song
 'fidelity': TPEUD/ELT
 'and': SKP
 'truth.': TRAO*UT TP-PL
-'He': E
+'He': HE
 'has': HAS
 'stories': STOERS
 'in': TPH
@@ -500,7 +500,7 @@ The Bird of Popular Song
 'and': SKP
 'in': TPH
 'tones;': TOEPBS STPH*FPLT
-'he': E
+'he': HE
 'has': HAS
 'proverbs': PROFRB/-S
 'and': SKP
@@ -515,7 +515,7 @@ The Bird of Popular Song
 'under': *UPBD
 'a': AEU
 'dead': TKED
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'tongue,': TUPBG KW-BG
 'force': TPORS
 'him': HEUPL
@@ -546,7 +546,7 @@ The Bird of Popular Song
 'the': -T
 'popular': PHRA*R
 'speech': SPAOEFP
-'was': WA
+'was': WAS
 'enshrined': EPB/SHAOEUPBD
 'in': TPH
 'the': -T
@@ -572,7 +572,7 @@ The Bird of Popular Song
 'when': WHEPB
 'only': OEPBL
 'might': PHAOEUT
-'was': WA
+'was': WAS
 'right,': RAOEUT KW-BG
 'and': SKP
 'a': AEU
@@ -645,8 +645,8 @@ The Bird of Popular Song
 'wood,': WAOD KW-BG
 'and': SKP
 'the': -T
-'travelling': TRAFLG
-'peddler': PED/HRAR
+'travelling': TRAFLG/A*U
+'peddler': PED/HRER
 'who': WHO
 'went': WEPBT
 'wandering': WAPBGD
@@ -663,7 +663,7 @@ The Bird of Popular Song
 'around': ARPBD
 'them,': THEPL KW-BG
 'with': W
-'twittering': TWUT/*ER/-G
+'twittering': TWEURT/-G
 'and': SKP
 'song,': SOPBG KW-BG
 'the': -T
@@ -687,11 +687,11 @@ The Bird of Popular Song
 'his': HEUS
 'foot': TPAOT
 'may': PHAE
-'rest.': REFT TP-PL
+'rest.': REFT/TP-PL
 'And': SKP
 'now': TPHOU
-'he': E
-'looks': HAOBGS
+'he': HE
+'looks': HRAOBGS
 'in': TPH
 'upon': POPB
 'us': US
@@ -704,7 +704,7 @@ The Bird of Popular Song
 'and': SKP
 'the': -T
 'snow-storm.': STPHOE H-PB STORPL TP-PL
-'He': E
+'He': HE
 'lays': HRAEUZ
 'the': -T
 'Runes': RAO*UPB/-S
@@ -747,7 +747,7 @@ The Bird of Popular Song
 'with': W
 'a': AEU
 'fresh': TPRERB
-'lustre,': HRUS/TER KW-BG
+'lustre,': HRUS/TER/A*U KW-BG
 'and': SKP
 'story': STOER
 'and': SKP
@@ -756,7 +756,7 @@ The Bird of Popular Song
 'us': US
 'a': AEU
 'blessed': PWHR*EFD
-'draught': TRAFT
+'draught': TKRAUFT
 'which': WEU
 'lifts': HREUFTS
 'up': UP
@@ -768,7 +768,7 @@ The Bird of Popular Song
 'so': SO
 'that': THA
 'the': -T
-'evening': AOEPG
+'evening': AOEPBG
 'becomes': PW-BGS
 'as': AZ
 'a': AEU
@@ -787,11 +787,11 @@ The Bird of Popular Song
 'rules': RAOULS
 'without,': WOUT KW-BG
 'for': TPOR
-'he': E
+'he': HE
 'has': HAS
 'the': -T
 'might,': PHAOEUT KW-BG
-'he': E
+'he': HE
 'is': S
 'lord—but': HRORD EPL/TKA*RB PWUT
 'not': TPHOT
@@ -881,7 +881,7 @@ The Bird of Popular Song
 'in': TPH
 'the': -T
 'bright': PWRAOEUT
-'sunshine.': S*UPB/SHAOEUPB TP-PL
+'sunshine.': SUPB/SHAO*EUPB TP-PL
 'And': SKP
 'over': OEFR
 'the': -T
@@ -893,12 +893,12 @@ The Bird of Popular Song
 'of': -F
 'heaven,': HEFPB KW-BG
 'the': -T
-'small': SPAUL
+'small': SPHAL
 'and': SKP
 'the': -T
 'great;': TKPWRAET STPH*FPLT
 'they': THE
-'twitter': TWUT/*ER
+'twitter': TWEURT
 'and': SKP
 'they': THE
 'sing': SEUPBG
@@ -958,9 +958,9 @@ The Bird of Popular Song
 'in': TPH
 'it': T
 'is': S
-'piep!': XXX piep SKHRAPL
-'piep!': XXX piep SKHRAPL
-'piep!"': XXX piep SKHRAPL KR-GS
+'piep!': xxx piep SKHRAPL
+'piep!': xxx piep SKHRAPL
+'piep!"': xxx piep SKHRAPL KR-GS
 'The': -T
 'black': PWHRABG
 'ravens': RA*EUF/-PBS
@@ -976,7 +976,7 @@ The Bird of Popular Song
 'grub!"': TKPWRUB SKHRAPL KR-GS
 'they': THE
 'cried.': KRAOEUD TP-PL
-'"There's': KR-GS THR AE S*/SP-S
+'"There's': KR-GS THR AES
 'something': S-G
 'to': TO
 'be': -B
@@ -987,10 +987,10 @@ The Bird of Popular Song
 'to': TO
 'swallow,': SWO*EUL KW-BG
 'and': SKP
-'that's': TH-TS
+'that's': THATS
 'most': PHOFT
 'important.': PORPB TP-PL
-'That's': THA AE S*/SP-S
+'That's': THA AES
 'the': -T
 'opinion': P-PB
 'of': -F
@@ -1054,7 +1054,7 @@ The Bird of Popular Song
 'notes': TPHOETS
 'that': THA
 'swell': SWEL
-'onward': XXX onward
+'onward': AOPB/WA*RD
 'like': HRAOEUBG
 'the': -T
 'tones': TOEPBS
@@ -1074,7 +1074,7 @@ The Bird of Popular Song
 'the': -T
 'songs': SOPBGS
 'of': -F
-'Ossian,': XXX Ossian KW-BG
+'Ossian,': xxx Ossian KW-BG
 'like': HRAOEUBG
 'the': -T
 'rushing': RURBG
@@ -1127,7 +1127,7 @@ The Bird of Popular Song
 'in': TPH
 'the': -T
 'snowy': STPHOE/WEU
-'mountains,': PHOUPBT/APBS KW-BG
+'mountains,': PHOUPB/TAEUPBS KW-BG
 'the': -T
 'sun': SUPB
 'shines': SHAOEUPBS
@@ -1143,7 +1143,7 @@ The Bird of Popular Song
 'returning,': RURPBG KW-BG
 'and': SKP
 'new': TPHU
-'races': RAEUS/-S
+'races': RAEUSZ
 'are': R
 'coming': KO*G
 'with': W

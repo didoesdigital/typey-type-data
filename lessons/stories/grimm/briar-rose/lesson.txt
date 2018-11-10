@@ -1,6 +1,6 @@
 Briar Rose
 
-'A': AEU
+'A': KPA*/AEU
 'king': KEUPBG
 'and': SKP
 'queen': KWAOEPB
@@ -82,7 +82,7 @@ Briar Rose
 'as': AZ
 'the': -T
 'queen': KWAOEPB
-'was': WA
+'was': WAS
 'walking': WAUG
 'by': PWEU
 'the': -T
@@ -207,7 +207,7 @@ Briar Rose
 'joy,': SKWROEU KW-BG
 'and': SKP
 'said': SAEUD
-'he': E
+'he': HE
 'would': WO
 'hold': HOLD
 'a': AEU
@@ -225,7 +225,7 @@ Briar Rose
 'the': -T
 'land.': HRAPBD TP-PL
 'So': SO
-'he': E
+'he': HE
 'asked': SK-D
 'his': HEUS
 'kinsmen,': KEUPBS/PHEPB KW-BG
@@ -234,7 +234,7 @@ Briar Rose
 'and': SKP
 'friends,': TPREPBDZ KW-BG
 'and': SKP
-'neighbours.': TPHAEUBS TP-PL
+'neighbours.': TPHAEUBS/A*U TP-PL
 'But': PWUT
 'the': -T
 'queen': KWAOEPB
@@ -308,7 +308,7 @@ Briar Rose
 'head,': HED KW-BG
 'and': SKP
 'red': RED
-'shoes': SHAOS
+'shoes': SHAOUS
 'with': W
 'high': HAOEU
 'heels': HAOELS
@@ -327,7 +327,7 @@ Briar Rose
 'after': AF
 'the': -T
 'feast': TPAOEFT
-'was': WA
+'was': WAS
 'over': OEFR
 'they': THE
 'gathered': TKPWAERD
@@ -361,7 +361,7 @@ Briar Rose
 'had': H
 'all': AUL
 'that': THA
-'was': WA
+'was': WAS
 'good': TKPWAOD
 'in': TPH
 'the': -T
@@ -378,20 +378,20 @@ Briar Rose
 'a': AEU
 'great': TKPWRAET
 'noise': TPHOEUS
-'was': WA
-'heard': HERD
+'was': WAS
+'heard': HAERD
 'in': TPH
 'the': -T
 'courtyard,': KORT/KWRARD KW-BG
 'and': SKP
 'word': WORD
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'that': THA
 'the': -T
 'thirteenth': THRAOEPBT
 'fairy': TPAEUR/REU
-'was': WA
+'was': WAS
 'come,': KOPL KW-BG
 'with': W
 'a': AEU
@@ -402,7 +402,7 @@ Briar Rose
 'head,': HED KW-BG
 'and': SKP
 'black': PWHRABG
-'shoes': SHAOS
+'shoes': SHAOUS
 'on': OPB
 'her': HER
 'feet,': TPAOET KW-BG
@@ -431,7 +431,7 @@ Briar Rose
 'the': -T
 'feast': TPAOEFT
 'she': SHE
-'was': WA
+'was': WAS
 'very': SRE
 'angry,': APBG/REU KW-BG
 'and': SKP
@@ -455,7 +455,7 @@ Briar Rose
 'cried': KRAOEUD
 'out,': OUT KW-BG
 ''The': AE -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter': TKAUR
 'shall,': SHAL KW-BG
 'in': TPH
@@ -506,10 +506,10 @@ Briar Rose
 'so': SO
 'her': HER
 'gift': TKPWEUFT
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'that': THA
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter,': TKAUR KW-BG
 'when': WHEPB
 'the': -T
@@ -518,7 +518,7 @@ Briar Rose
 'her,': HER KW-BG
 'should': SHO
 'not': TPHOT
-'really': HROERL
+'really': R-L
 'die,': TKAOEU KW-BG
 'but': PWUT
 'should': SHO
@@ -545,7 +545,7 @@ Briar Rose
 'threatened': THREFPBD
 'evil;': AOEFL STPH*FPLT
 'so': SO
-'he': E
+'he': HE
 'ordered': ORD/-D
 'that': THA
 'all': AUL
@@ -566,7 +566,7 @@ Briar Rose
 'gifts': TKPWEUFTS
 'of': -F
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'eleven': HREFPB
 'fairies': TPAEUR/REU/KWREU/-S
 'were': WR
@@ -577,7 +577,7 @@ Briar Rose
 'for': TPOR
 'the': -T
 'princess': PREUPB/ES
-'was': WA
+'was': WAS
 'so': SO
 'beautiful,': PWAOUFL KW-BG
 'and': SKP
@@ -602,7 +602,7 @@ Briar Rose
 'very': SRE
 'day': TKAEU
 'she': SHE
-'was': WA
+'was': WAS
 'fifteen': TPEUF/TAOEPB
 'years': KWRAOERS
 'old,': OLD KW-BG
@@ -616,7 +616,7 @@ Briar Rose
 'home,': HOEPL KW-BG
 'and': SKP
 'she': SHE
-'was': WA
+'was': WAS
 'left': HREFT
 'alone': A/HROEPB
 'in': TPH
@@ -648,7 +648,7 @@ Briar Rose
 'to': TO
 'which': WEU
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'narrow': TPHO*EUR
 'staircase': STAEUR/KAEUS
@@ -661,7 +661,7 @@ Briar Rose
 'the': -T
 'door': TKAOR
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'golden': TKOELD/*EPB
 'key,': KAOE KW-BG
@@ -719,7 +719,7 @@ Briar Rose
 'that': THA
 'little': HREUL
 'thing': THEUPBG
-'turns': TURPS
+'turns': TURPBS
 'round!'': ROUPBD SKHRAPL AE
 'said': SAEUD
 'the': -T
@@ -742,9 +742,9 @@ Briar Rose
 'it,': T KW-BG
 'before': PW-F
 'the': -T
-'fairy's': TPAEUR/REU AE S*/SP-S
+'fairy's': TPAEUR/REU AES
 'prophecy': PROF/KREU
-'was': WA
+'was': WAS
 'fulfilled;': TPUL/TPEULD STPH*FPLT
 'the': -T
 'spindle': S*EUPBLD
@@ -760,13 +760,13 @@ Briar Rose
 'ground.': TKPWROUPBD TP-PL
 'However,': HOUF KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'not': TPHOT
 'dead,': TKED KW-BG
 'but': PWUT
 'had': H
 'only': OEPBL
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'into': TPHAO
 'a': AEU
 'deep': TKAOEP
@@ -791,7 +791,7 @@ Briar Rose
 'too;': TAO STPH*FPLT
 'and': SKP
 'the': -T
-'horses': HORS/-S
+'horses': HORSZ
 'slept': SHREPD
 'in': TPH
 'the': -T
@@ -835,7 +835,7 @@ Briar Rose
 'the': -T
 'spit': SPEUT
 'that': THA
-'was': WA
+'was': WAS
 'turning': TURPBG
 'about': PW
 'with': W
@@ -845,7 +845,7 @@ Briar Rose
 'it': T
 'for': TPOR
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'dinner': TKEURPB
 'stood': STAOD
 'still;': STEUL STPH*FPLT
@@ -853,7 +853,7 @@ Briar Rose
 'the': -T
 'cook,': KAOBG KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'at': AT
 'that': THA
 'moment': PHOEPLT
@@ -873,7 +873,7 @@ Briar Rose
 'ear': AOER
 'for': TPOR
 'something': S-G
-'he': E
+'he': HE
 'had': H
 'done': TKOPB
 'amiss,': A/PHEUS KW-BG
@@ -887,7 +887,7 @@ Briar Rose
 'the': -T
 'butler,': PWUT/HRER KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'slyly': SHRAOEU/HREU
 'tasting': TAEUFT/-G
 'the': -T
@@ -908,7 +908,7 @@ Briar Rose
 'and': SKP
 'slept': SHREPD
 'soundly.': SOUPBD/HREU TP-PL
-'A': AEU
+'A': KPA*/AEU
 'large': HRARPBLG
 'hedge': HEPBL
 'of': -F
@@ -932,7 +932,7 @@ Briar Rose
 'the': -T
 'old': OLD
 'palace': PAL/AS
-'was': WA
+'was': WAS
 'surrounded': SROUBD/-D
 'and': SKP
 'hidden,': HEUD/EPB KW-BG
@@ -966,9 +966,9 @@ Briar Rose
 '(for': PREPB TPOR
 'so': SO
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter': TKAUR
-'was': WA
+'was': WAS
 'called):': KAULD PR*EPB STPH-FPLT
 'so': SO
 'that,': THA KW-BG
@@ -1027,7 +1027,7 @@ Briar Rose
 'there': THR
 'came': KAEUPL
 'a': AEU
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'son': SOPB
 'into': TPHAO
 'that': THA
@@ -1069,13 +1069,13 @@ Briar Rose
 'all': AUL
 'her': HER
 'court.': KORT TP-PL
-'He': E
+'He': HE
 'told,': TOLD KW-BG
 'too,': TAO KW-BG
 'how': HOU
-'he': E
+'he': HE
 'had': H
-'heard': HERD
+'heard': HAERD
 'from': TPR
 'his': HEUS
 'grandfather': TKPWR-F
@@ -1131,8 +1131,8 @@ Briar Rose
 'hinder': HEUPBD/ER
 'him,': HEUPL KW-BG
 'but': PWUT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'bent': PWEPBT
 'upon': POPB
 'going.': TKPW-G TP-PL
@@ -1153,7 +1153,7 @@ Briar Rose
 'to': TO
 'the': -T
 'thicket': THEUBGT
-'he': E
+'he': HE
 'saw': SAU
 'nothing': TPHOG
 'but': PWUT
@@ -1162,7 +1162,7 @@ Briar Rose
 'shrubs,': SHRUBS KW-BG
 'through': THRU
 'which': WEU
-'he': E
+'he': HE
 'went': WEPBT
 'with': W
 'ease,': AOES KW-BG
@@ -1177,7 +1177,7 @@ Briar Rose
 'as': AZ
 'ever.': -FR TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'came': KAEUPL
 'at': AT
 'last': HRAFT
@@ -1195,7 +1195,7 @@ Briar Rose
 'asleep;': A/HRAOEP STPH*FPLT
 'and': SKP
 'the': -T
-'horses': HORS/-S
+'horses': HORSZ
 'were': WR
 'standing': STAPBG
 'in': TPH
@@ -1218,7 +1218,7 @@ Briar Rose
 'wings.': WEUPBGS TP-PL
 'And': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'came': KAEUPL
 'into': TPHAO
 'the': -T
@@ -1232,7 +1232,7 @@ Briar Rose
 'walls;': WAULS STPH*FPLT
 'the': -T
 'spit': SPEUT
-'was': WA
+'was': WAS
 'standing': STAPBG
 'still;': STEUL STPH*FPLT
 'the': -T
@@ -1249,7 +1249,7 @@ Briar Rose
 'to': TO
 'drink': TKREU
 'a': AEU
-'draught;': TRAFT STPH*FPLT
+'draught;': TKRAUFT STPH*FPLT
 'the': -T
 'maid': PHAEUD
 'sat': SAT
@@ -1259,7 +1259,7 @@ Briar Rose
 'in': TPH
 'her': HER
 'lap': HRAP
-'ready': R*ED
+'ready': R-D
 'to': TO
 'be': -B
 'plucked;': PHRUBGD STPH*FPLT
@@ -1269,7 +1269,7 @@ Briar Rose
 'in': TPH
 'the': -T
 'kitchen': K-FP
-'was': WA
+'was': WAS
 'still': STEUL
 'holding': HOELGD
 'up': UP
@@ -1278,35 +1278,35 @@ Briar Rose
 'as': AZ
 'if': TP
 'she': SHE
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'beat': PWAET
 'the': -T
 'boy.': PWOEU TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'went': WEPBT
 'on': OPB
 'still': STEUL
 'farther,': TPA*RT KW-BG
 'and': SKP
 'all': AUL
-'was': WA
+'was': WAS
 'so': SO
 'still': STEUL
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'hear': HAER
 'every': EF
 'breath': PWR*ET
-'he': E
+'he': HE
 'drew;': TKRAOU STPH*FPLT
 'till': T*EUL
 'at': AT
 'last': HRAFT
-'he': E
+'he': HE
 'came': KAEUPL
 'to': TO
 'the': -T
@@ -1324,7 +1324,7 @@ Briar Rose
 'which': WEU
 'Briar': PWRAOEUR
 'Rose': ROEZ
-'was;': WA STPH*FPLT
+'was;': WAS STPH*FPLT
 'and': SKP
 'there': THR
 'she': SHE
@@ -1342,7 +1342,7 @@ Briar Rose
 'so': SO
 'beautiful': PWAOUFL
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'take': TAEUBG
@@ -1351,7 +1351,7 @@ Briar Rose
 'off': OF
 'her,': HER KW-BG
 'so': SO
-'he': E
+'he': HE
 'stooped': STAOPD
 'down': TKOUPB
 'and': SKP
@@ -1362,7 +1362,7 @@ Briar Rose
 'But': PWUT
 'the': -T
 'moment': PHOEPLT
-'he': E
+'he': HE
 'kissed': K*EUFD
 'her': HER
 'she': SHE
@@ -1402,7 +1402,7 @@ Briar Rose
 'wonder.': WOPBD TP-PL
 'And': SKP
 'the': -T
-'horses': HORS/-S
+'horses': HORSZ
 'shook': SHAOBG
 'themselves,': TH*EPLS KW-BG
 'and': SKP
@@ -1457,7 +1457,7 @@ Briar Rose
 'goose': TKPWAOS
 'for': TPOR
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'dinner': TKEURPB
 'upon': POPB
 'it;': T STPH*FPLT
@@ -1465,7 +1465,7 @@ Briar Rose
 'butler': PWUT/HRER
 'finished': TP*EURBD
 'his': HEUS
-'draught': TRAFT
+'draught': TKRAUFT
 'of': -F
 'ale;': AEL STPH*FPLT
 'the': -T
@@ -1499,7 +1499,7 @@ Briar Rose
 'the': -T
 'wedding': WEGD
 'feast': TPAOEFT
-'was': WA
+'was': WAS
 'given;': TKPWEUFPB STPH*FPLT
 'and': SKP
 'they': THE

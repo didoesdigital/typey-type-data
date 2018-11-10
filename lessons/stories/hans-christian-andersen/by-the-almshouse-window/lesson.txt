@@ -5,7 +5,7 @@ By the Almshouse Window
 'grass-covered': TKPWRAS H-PB KOFRD
 'rampart': RAFRP/ART
 'which': WEU
-'encircles': XXX encircles
+'encircles': xxx encircles
 'Copenhagen': KOEP/*EPB/HAG
 'lies': HRAO*EUS
 'a': AEU
@@ -46,7 +46,7 @@ By the Almshouse Window
 'building': PW-LG
 'is': S
 'the': -T
-'Warton': XXX Warton
+'Warton': xxx Warton
 'Almshouse.': AUPLS/HOUS TP-PL
 'Look!': HRAOBG SKHRAPL
 'at': AT
@@ -66,7 +66,7 @@ By the Almshouse Window
 'the': -T
 'balsam,': PWAL/SAPL KW-BG
 'and': SKP
-'looks': HAOBGS
+'looks': HRAOBGS
 'at': AT
 'the': -T
 'grass-covered': TKPWRAS H-PB KOFRD
@@ -84,12 +84,12 @@ By the Almshouse Window
 'maid': PHAEUD
 'thinking': THEUG
 'of?': -F H-F
-'A': AEU
+'A': KPA*/AEU
 'whole': WHOEL
 'life': HRAOEUF
 'drama': TKRA/PHA
 'is': S
-'unfolding': XXX unfolding
+'unfolding': xxx unfolding
 'itself': T/SEF
 'before': PW-F
 'her': HER
@@ -114,13 +114,13 @@ By the Almshouse Window
 'cheeks': KHAOEBGS
 'and': SKP
 'what': WHA
-'angels'': APBG/EL/-S AE
+'angels'': A*EPBLG/-S AE
 'eyes!': AO*EUS SKHRAPL
 'but': PWUT
 'they': THE
 'have': SR
 'no': TPHO
-'shoes': SHAOS
+'shoes': SHAOUS
 'nor': TPH-R
 'stockings.': STOBG/-G/-S TP-PL
 'They': THE
@@ -141,13 +141,13 @@ By the Almshouse Window
 'story,': STOER KW-BG
 'the': -T
 'ground': TKPWROUPBD
-'always': AULZ
+'always': AULS
 'sank': SA*PBG
 'in,': TPH KW-BG
 'and': SKP
 'where': W-R
 'a': AEU
-'sportive,': XXX sportive KW-BG
+'sportive,': xxx sportive KW-BG
 'frolicsome': TPROL/EUBG/SPH
 'child': KHAOEULD
 'had': H
@@ -159,18 +159,18 @@ By the Almshouse Window
 'flowers,': TPHRO*URS KW-BG
 'toys': TOEUS
 'and': SKP
-'sweetmeats': XXX sweetmeats
+'sweetmeats': xxx sweetmeats
 'into': TPHAO
 'an': APB
 'open': OEP
 'grave': TKPWRAEUF
-'ready': R*ED
+'ready': R-D
 'dug': TKUG
 'for': TPOR
 'it,': T KW-BG
 'and': SKP
 'which': WEU
-'was': WA
+'was': WAS
 'afterwards': A*FRDZ
 'closed': KHROEFD
 'over': OEFR
@@ -197,7 +197,7 @@ By the Almshouse Window
 'and': SKP
 'fast,': TPAFT KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'quickly': KWEULG
 'covered': KOFRD
 'with': W
@@ -224,7 +224,7 @@ By the Almshouse Window
 'they': THE
 'fancy': TPAPB/SEU
 'they': THE
-'heard': HERD
+'heard': HAERD
 'a': AEU
 'child': KHAOEULD
 'crying': KRAOEUG
@@ -234,7 +234,7 @@ By the Almshouse Window
 'earth,': *ERT KW-BG
 'and': SKP
 'the': -T
-'dewdrops': XXX dewdrops
+'dewdrops': xxx dewdrops
 'on': OPB
 'each': AOEFP
 'blade': PWHRAEUD
@@ -272,9 +272,9 @@ By the Almshouse Window
 'all': AUL
 'his': HEUS
 'trembling': TREPL/-BLG
-'courtiers': XXX courtiers
+'courtiers': KORT/KWRERS
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'hold': HOLD
 'out': OUT
@@ -283,7 +283,7 @@ By the Almshouse Window
 'citizens': SEUT/SEPBS
 'of': -F
 'his': HEUS
-'capital,': KA*L KW-BG
+'capital,': KAPLT KW-BG
 'and': SKP
 'die': TKAOEU
 'here': HAOER
@@ -373,7 +373,7 @@ By the Almshouse Window
 'green': TKPWRAOEPB
 'rampart.': RAFRP/ART TP-PL
 'Thou': THO*U
-'hast': XXX hast
+'hast': HA*FT
 'a': AEU
 'white': WHAOEUT
 'frock': TPROBG
@@ -478,7 +478,7 @@ By the Almshouse Window
 'how.': HOU TP-PL
 'You': U
 'met,': PHET KW-BG
-'oh,': O*ERBGS KW-BG
+'oh,': O*E KW-BG
 'how': HOU
 'often!': OFPB SKHRAPL
 'You': U
@@ -545,7 +545,7 @@ By the Almshouse Window
 'beautiful': PWAOUFL
 'Castle': KAFL
 'of': -F
-'Rosenberg,': XXX Rosenberg KW-BG
+'Rosenberg,': xxx Rosenberg KW-BG
 'there': THR
 'is': S
 'a': AEU
@@ -553,7 +553,7 @@ By the Almshouse Window
 'bright': PWRAOEUT
 'with': W
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'green': TKPWRAOEPB
 'buds.': PWUDZ TP-PL
 'Every': EF
@@ -593,7 +593,7 @@ By the Almshouse Window
 'Poor': PAOR
 'child!': KHAOEULD SKHRAPL
 'thy': THAO*EU
-'friend's': TPREPBD AE S*/SP-S
+'friend's': TPREPBD/AES
 'bridal': PWRAOEU/TKAL
 'chamber': KHAEURPL
 'is': S
@@ -602,7 +602,7 @@ By the Almshouse Window
 'coffin,': KOFPB KW-BG
 'and': SKP
 'thou': THO*U
-'becomest': XXX becomest
+'becomest': xxx becomest
 'an': APB
 'old': OLD
 'maid.': PHAEUD TP-PL
@@ -643,7 +643,7 @@ By the Almshouse Window
 'maid': PHAEUD
 'while': WHAOEUL
 'she': SHE
-'looks': HAOBGS
+'looks': HRAOBGS
 'out': OUT
 'upon': POPB
 'the': -T
@@ -661,7 +661,7 @@ By the Almshouse Window
 'cheeks': KHAOEBGS
 'and': SKP
 'bare': PWAEUR
-'shoeless': XXX shoeless
+'shoeless': xxx shoeless
 'feet,': TPAOET KW-BG
 'are': R
 'rejoicing': RE/SKWROEUFG

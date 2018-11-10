@@ -10,22 +10,22 @@ The Phoenix Bird
 'Tree': TRAOE
 'of': -F
 'Knowledge,': TPHOPBLG KW-BG
-'bloomed': PHRAOPL/-D
+'bloomed': PWHRAOPL/-D
 'a': AEU
 'rose': ROEZ
 'bush.': PWURB TP-PL
 'Here,': HAOER KW-BG
 'in': TPH
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'rose,': ROEZ KW-BG
 'a': AEU
 'bird': PWEURD
-'was': WA
+'was': WAS
 'born.': PWORPB TP-PL
 'His': HEUS
 'flight': TPHRAOEUT
-'was': WA
+'was': WAS
 'like': HRAOEUBG
 'the': -T
 'flashing': TPHRARBG
@@ -33,7 +33,7 @@ The Phoenix Bird
 'light,': HRAOEUT KW-BG
 'his': HEUS
 'plumage': PHRAOUPL/APBLG
-'was': WA
+'was': WAS
 'beauteous,': PWAOUT/KWROUS KW-BG
 'and': SKP
 'his': HEUS
@@ -111,7 +111,7 @@ The Phoenix Bird
 'fable': TPAEUBL
 'tells': TELS
 'that': THA
-'he': E
+'he': HE
 'dwells': TKWEL/-S
 'in': TPH
 'Arabia,': A/RAEUB/KWRA KW-BG
@@ -120,7 +120,7 @@ The Phoenix Bird
 'every': EF
 'hundred': HUPBD
 'years,': KWRAOERS KW-BG
-'he': E
+'he': HE
 'burns': PWURPBZ
 'himself': H*EUPLS
 'to': TO
@@ -166,9 +166,9 @@ The Phoenix Bird
 'sits': SEUTS
 'by': PWEU
 'her': HER
-'infant's': EUPB/TPAPT AE S*/SP-S
-'cradle,': KRAEUD/-L KW-BG
-'he': E
+'infant's': EUPB/TPAPT AES
+'cradle,': KRAEUD/*L KW-BG
+'he': HE
 'stands': STAPBDZ
 'on': OPB
 'the': -T
@@ -182,9 +182,9 @@ The Phoenix Bird
 'glory': TKPWHROER
 'around': ARPBD
 'the': -T
-'infant's': EUPB/TPAPT AE S*/SP-S
+'infant's': EUPB/TPAPT AES
 'head.': HED TP-PL
-'He': E
+'He': HE
 'flies': TPHRAOEUS
 'through': THRU
 'the': -T
@@ -193,7 +193,7 @@ The Phoenix Bird
 'content,': KAUPBT KW-BG
 'and': SKP
 'brings': PWREUS
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'into': TPHAO
 'it,': T KW-BG
 'and': SKP
@@ -216,7 +216,7 @@ The Phoenix Bird
 'of': -F
 'Arabia': A/RAEUB/KWRA
 'alone.': A/HROEPB TP-PL
-'He': E
+'He': HE
 'wings': WEUPBGS
 'his': HEUS
 'way': WAEU
@@ -231,7 +231,7 @@ The Phoenix Bird
 'the': -T
 'plains': PHRAEUPBS
 'of': -F
-'Lapland,': XXX Lapland KW-BG
+'Lapland,': xxx Lapland KW-BG
 'and': SKP
 'hops': HOPS
 'among': PHOPBG
@@ -241,19 +241,19 @@ The Phoenix Bird
 'in': TPH
 'the': -T
 'short': SHORT
-'Greenland': TKPWRAO*EPB/HRAPBD
+'Greenland': TKPWRAOEPB/HRA*PBD
 'summer.': SAOURPL TP-PL
 'Beneath': TPHAO*ET
 'the': -T
 'copper': KOP/ER
-'mountains': PHOUPBT/APBS
+'mountains': PHOUPB/TAEUPBS
 'of': -F
-'Fablun,': XXX Fablun KW-BG
+'Fablun,': xxx Fablun KW-BG
 'and': SKP
-'England's': TPWHRAEPBD AE S*/SP-S
+'England's': TKPWHRAEPBD AES
 'coal': KOEL
 'mines,': PHAOEUPBS KW-BG
-'he': E
+'he': HE
 'flies,': TPHRAOEUS KW-BG
 'in': TPH
 'the': -T
@@ -264,7 +264,7 @@ The Phoenix Bird
 'moth,': PHO*T KW-BG
 'over': OEFR
 'the': -T
-'hymnbook': XXX hymnbook
+'hymnbook': xxx hymnbook
 'that': THA
 'rests': REFTS
 'on': OPB
@@ -278,7 +278,7 @@ The Phoenix Bird
 'a': AEU
 'lotus': HROE/TUS
 'leaf': HRAOEF
-'he': E
+'he': HE
 'floats': TPHROETS
 'down': TKOUPB
 'the': -T
@@ -292,18 +292,18 @@ The Phoenix Bird
 'eye': AOEU
 'of': -F
 'the': -T
-'Hindoo': XXX Hindoo
+'Hindoo': xxx Hindoo
 'maid': PHAEUD
 'gleams': TKPWHRAOEPL/-S
 'bright': PWRAOEUT
 'when': WHEPB
 'she': SHE
-'beholds': XXX beholds
+'beholds': PWE/HOLD/-S
 'him.': HEUPL TP-PL
 'The': -T
 'Phoenix': TPAOEPBGS
 'bird,': PWEURD KW-BG
-'dost': XXX dost
+'dost': TKO/*T
 'thou': THO*U
 'not': TPHOT
 'know': TPHOE
@@ -321,8 +321,8 @@ The Phoenix Bird
 'the': -T
 'car': KAR
 'of': -F
-'Thespis': XXX Thespis
-'he': E
+'Thespis': xxx Thespis
+'he': HE
 'sat': SAT
 'in': TPH
 'the': -T
@@ -350,25 +350,25 @@ The Phoenix Bird
 'Iceland': AOEUS/HRAPBD
 'swept': SWEPT
 'the': -T
-'swan's': SWAPB AE S*/SP-S
+'swan's': SWAPB AES
 'red': RED
 'beak;': PWAOEBG STPH*FPLT
 'on': OPB
-'Shakspeare's': XXX Shakspeare AE S*/SP-S
+'Shakspeare's': xxx Shakspeare AES
 'shoulder': SHOURLD
-'he': E
+'he': HE
 'sat': SAT
 'in': TPH
 'the': -T
 'guise': TKPWAOEUZ
 'of': -F
-'Odin's': XXX Odin AE S*/SP-S
+'Odin's': xxx Odin AES
 'raven,': RAFPB KW-BG
 'and': SKP
 'whispered': WHEUS/PERD
 'in': TPH
 'the': -T
-'poet's': POET AE S*/SP-S
+'poet's': POET AES
 'ear': AOER
 '"Immortality!"': KR-GS EUPL/POR/TALT SKHRAPL KR-GS
 'and': SKP
@@ -376,31 +376,31 @@ The Phoenix Bird
 'the': -T
 'minstrels'': PHEUPBS/TREL/-S AE
 'feast': TPAOEFT
-'he': E
+'he': HE
 'fluttered': TPHRUT/ERD
 'through': THRU
 'the': -T
 'halls': HAULS
 'of': -F
 'the': -T
-'Wartburg.': XXX Wartburg TP-PL
+'Wartburg.': xxx Wartburg TP-PL
 'The': -T
 'Phoenix': TPAOEPBGS
 'bird,': PWEURD KW-BG
-'dost': XXX dost
+'dost': TKO/*T
 'thou': THO*U
 'not': TPHOT
 'know': TPHOE
 'him?': HEUPL H-F
-'He': E
+'He': HE
 'sang': SAPBG
 'to': TO
 'thee': THAOE
 'the': -T
-'Marseillaise,': XXX Marseillaise KW-BG
+'Marseillaise,': xxx Marseillaise KW-BG
 'and': SKP
 'thou': THO*U
-'kissedst': XXX kissedst
+'kissedst': xxx kissedst
 'the': -T
 'pen': PEPB
 'that': THA
@@ -408,7 +408,7 @@ The Phoenix Bird
 'from': TPR
 'his': HEUS
 'wing;': WEUPBG STPH*FPLT
-'he': E
+'he': HE
 'came': KAEUPL
 'in': TPH
 'the': -T
@@ -418,7 +418,7 @@ The Phoenix Bird
 'and': SKP
 'perchance': PER/KHAPBS
 'thou': THO*U
-'didst': XXX didst
+'didst': TKEU/*T
 'turn': TURPB
 'away': A/WAEU
 'from': TPR
@@ -461,7 +461,7 @@ The Phoenix Bird
 'thou': THO*U
 'thyself': THAOEU/SEFL
 'often': OFPB
-'fliest': XXX fliest
+'fliest': xxx fliest
 'around,': ARPBD KW-BG
 'lonely': HROPBL
 'and': SKP
@@ -475,11 +475,11 @@ The Phoenix Bird
 'Paradise,': PAR/TKAOEUZ KW-BG
 'when': WHEPB
 'thou': THO*U
-'wert': XXX wert
+'wert': W*/*E/R*/T*
 'born': PWORPB
 'in': TPH
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'rose,': ROEZ KW-BG
 'beneath': TPHAO*ET
 'the': -T
@@ -487,14 +487,14 @@ The Phoenix Bird
 'of': -F
 'Knowledge,': TPHOPBLG KW-BG
 'thou': THO*U
-'receivedst': XXX receivedst
+'receivedst': xxx receivedst
 'a': AEU
 'kiss,': KEUS KW-BG
 'and': SKP
 'thy': THAO*EU
 'right': RAOEUT
 'name': TPHAEUPL
-'was': WA
+'was': WAS
 'given': TKPWEUFPB
 'thee—thy': THAOE EPL/TKA*RB THAO*EU
 'name,': TPHAEUPL KW-BG

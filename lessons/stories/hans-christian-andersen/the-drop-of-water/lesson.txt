@@ -40,7 +40,7 @@ The Drop of Water
 'his': HEUS
 'eye,': AOEU KW-BG
 'and': SKP
-'looks': HAOBGS
+'looks': HRAOBGS
 'at': AT
 'a': AEU
 'drop': TKROP
@@ -50,11 +50,11 @@ The Drop of Water
 'the': -T
 'pond': POPBD
 'yonder,': KWROPBD/ER KW-BG
-'he': E
+'he': HE
 'sees': SAO*ES
 'above': PWOF
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'wonderful': WUFL
 'creatures': KRAOEFPS
 'that': THA
@@ -76,7 +76,7 @@ The Drop of Water
 'delusion.': TKHRAOUGS TP-PL
 'It': T
 'almost': HR-PL
-'looks': HAOBGS
+'looks': HRAOBGS
 'like': HRAOEUBG
 'a': AEU
 'great': TKPWRAET
@@ -97,7 +97,7 @@ The Drop of Water
 'tear': TAER
 'off': OF
 'each': AOEFP
-'other's': OER AE S*/SP-S
+'other's': OER/AES
 'legs': HREGS
 'and': SKP
 'arms': ARPLS
@@ -119,7 +119,7 @@ The Drop of Water
 'Now,': TPHOU KW-BG
 'there': THR
 'once': WUPBS
-'was': WA
+'was': WAS
 'an': APB
 'old': OLD
 'man': PHAPB
@@ -128,14 +128,14 @@ The Drop of Water
 'the': -T
 'people': PAOEPL
 'called': KAULD
-'Kribble-Krabble,': XXX Kribble H-PB XXX Krabble KW-BG
+'Kribble-Krabble,': xxx Kribble H-PB xxx Krabble KW-BG
 'for': TPOR
 'that': THA
-'was': WA
+'was': WAS
 'his': HEUS
 'name.': TPHAEUPL TP-PL
-'He': E
-'always': AULZ
+'He': HE
+'always': AULS
 'wanted': WAPBTD
 'the': -T
 'best': PWEFT
@@ -143,19 +143,19 @@ The Drop of Water
 'everything,': EFG KW-BG
 'and': SKP
 'when': WHEPB
-'he': E
+'he': HE
 'could': KO
 'not': TPHOT
 'manage': PHAPBG
 'it': T
 'otherwise,': O*ERZ KW-BG
-'he': E
+'he': HE
 'did': TK
 'it': T
 'by': PWEU
-'magic.': PHA/SKWREUBG TP-PL
+'magic.': PHAPBLG/EUBG TP-PL
 'There': THR
-'he': E
+'he': HE
 'sat': SAT
 'one': WUPB
 'day,': TKAEU KW-BG
@@ -187,10 +187,10 @@ The Drop of Water
 'But': PWUT
 'what': WHA
 'a': AEU
-'kribbling': XXX kribbling
+'kribbling': xxx kribbling
 'and': SKP
-'krabbling': XXX krabbling
-'was': WA
+'krabbling': xxx krabbling
+'was': WAS
 'there!': THR SKHRAPL
 'All': AUL
 'the': -T
@@ -216,7 +216,7 @@ The Drop of Water
 'horrible!"': HORBL SKHRAPL KR-GS
 'said': SAEUD
 'old': OLD
-'Kribble-Krabble.': XXX Kribble H-PB XXX Krabble TP-PL
+'Kribble-Krabble.': xxx Kribble H-PB xxx Krabble TP-PL
 '"Can': KR-GS K
 'one': WUPB
 'not': TPHOT
@@ -227,7 +227,7 @@ The Drop of Water
 'in': TPH
 'peace': PAES
 'and': SKP
-'quietness,': XXX quietness KW-BG
+'quietness,': xxx quietness KW-BG
 'so': SO
 'that': THA
 'each': AOEFP
@@ -238,7 +238,7 @@ The Drop of Water
 'own': OEPB
 'business?"': PWEUS H-F KR-GS
 'And': SKP
-'he': E
+'he': HE
 'thought': THAUT
 'it': T
 'over': OEFR
@@ -251,11 +251,11 @@ The Drop of Water
 'do,': TKO KW-BG
 'and': SKP
 'so': SO
-'he': E
+'he': HE
 'had': H
 'recourse': RAOERBGS
 'to': TO
-'magic.': PHA/SKWREUBG TP-PL
+'magic.': PHAPBLG/EUBG TP-PL
 '"I': KR-GS EU
 'must': PHUFT
 'give': TKPWEUF
@@ -269,9 +269,9 @@ The Drop of Water
 'more': PHOR
 'plainly,"': PHRAEUPBL KW-BG KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'poured': PORD
 'something': S-G
 'like': HRAOEUBG
@@ -288,7 +288,7 @@ The Drop of Water
 'water,': WAUR KW-BG
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'witches'': WEUFP/-S AE
 'blood': PWHRAOD
 'from': TPR
@@ -301,7 +301,7 @@ The Drop of Water
 'finest': TPAOEUPB/EFT
 'kind,': KEUPBD KW-BG
 'at': AT
-'ninepence': XXX ninepence
+'ninepence': xxx ninepence
 'a': AEU
 'drop.': TKROP TP-PL
 'And': SKP
@@ -337,7 +337,7 @@ The Drop of Water
 'no': TPHO
 'name—and': TPHAEUPL EPL/TKA*RB SKP
 'that': THA
-'was': WA
+'was': WAS
 'the': -T
 'best': PWEFT
 'thing': THEUPBG
@@ -347,13 +347,13 @@ The Drop of Water
 'if': TP
 'you': U
 'can': K
-'guess': TKWES
+'guess': TKPWES
 'what': WHA
 'it': T
 'is,"': S KW-BG KR-GS
 'said': SAEUD
-'Kribble-Krabble,': XXX Kribble H-PB XXX Krabble KW-BG
-'"I'll': KR-GS EU AE XXX ll
+'Kribble-Krabble,': xxx Kribble H-PB xxx Krabble KW-BG
+'"I'll': KR-GS EU AE HR*/HR*
 'make': PHAEUBG
 'you': U
 'a': AEU
@@ -387,7 +387,7 @@ The Drop of Water
 'magnifying-glass.': PHAG/TPAOEUG H-PB TKPWHRAS TP-PL
 'It': T
 'looked': HRAOBGD
-'really': HROERL
+'really': R-L
 'like': HRAOEUBG
 'a': AEU
 'great': TKPWRAET
@@ -405,11 +405,11 @@ The Drop of Water
 'without': WOUT
 'clothes.': KHRO*ETS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'terrible!': TERBL SKHRAPL
 'But': PWUT
 'it': T
-'was': WA
+'was': WAS
 'still': STEUL
 'more': PHOR
 'terrible': TERBL
@@ -499,9 +499,9 @@ The Drop of Water
 'bruise.': PWRAOUZ TP-PL
 'And': SKP
 'there': THR
-'was': WA
+'was': WAS
 'one': WUPB
-'sitting': SAO*EGT
+'sitting': SEUGT
 'as': AZ
 'still': STEUL
 'as': AZ
@@ -514,7 +514,7 @@ The Drop of Water
 'for': TPOR
 'peace': PAES
 'and': SKP
-'quietness.': XXX quietness TP-PL
+'quietness.': xxx quietness TP-PL
 'But': PWUT
 'now': TPHOU
 'she': SHE
@@ -535,7 +535,7 @@ The Drop of Water
 'ate': AEUT
 'her': HER
 'up.': UP TP-PL
-'"That's': KR-GS THA AE S*/SP-S
+'"That's': KW-GS/KPA*/THATS
 'funny!"': TPAOUPB SKHRAPL KR-GS
 'said': SAEUD
 'the': -T
@@ -549,7 +549,7 @@ The Drop of Water
 'it': T
 'is?"': S H-F KR-GS
 'said': SAEUD
-'Kribble-Krabble.': XXX Kribble H-PB XXX Krabble TP-PL
+'Kribble-Krabble.': xxx Kribble H-PB xxx Krabble TP-PL
 '"Can': KR-GS K
 'you': U
 'find': TPEUPBD
@@ -565,7 +565,7 @@ The Drop of Water
 'said': SAEUD
 'the': -T
 'other.': OER TP-PL
-'"That's': KR-GS THA AE S*/SP-S
+'"That's': KW-GS/KPA*/THATS
 'Paris,': PA*EURS KW-BG
 'or': OR
 'some': SOPL
@@ -576,15 +576,15 @@ The Drop of Water
 'they're': THER
 'all': AUL
 'alike.': A/HRAOEUBG TP-PL
-'It's': T AE S*/SP-S
+'It's': T AES
 'a': AEU
 'great': TKPWRAET
 'city!"': STEU SKHRAPL KR-GS
-'"It's': KR-GS T AE S*/SP-S
+'"It's': KR-GS T AES
 'a': AEU
 'drop': TKROP
 'of': -F
 'puddle': P*ULD
 'water!"': WAUR SKHRAPL KR-GS
 'said': SAEUD
-'Kribble-Krabble.': XXX Kribble H-PB XXX Krabble TP-PL
+'Kribble-Krabble.': xxx Kribble H-PB xxx Krabble TP-PL

@@ -5,7 +5,7 @@ Donkey-Skin
 'a': AEU
 'time': TAOEUPL
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'King,': KEUPBG KW-BG
 'so': SO
@@ -21,7 +21,7 @@ Donkey-Skin
 'by': PWEU
 'all': AUL
 'his': HEUS
-'neighbours': TPHAEUBS
+'neighbours': TPHAEUBS/A*U
 'and': SKP
 'allies': AL/HRAOEUS
 'that': THA
@@ -29,8 +29,8 @@ Donkey-Skin
 'might': PHAOEUT
 'almost': HR-PL
 'say': SAEU
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'the': -T
 'happiest': HAP/KWREFT
 'monarch': PHOPB/ARBG
@@ -38,14 +38,14 @@ Donkey-Skin
 'His': HEUS
 'good': TKPWAOD
 'fortune': TP-RPB
-'was': WA
+'was': WAS
 'made': PHAED
 'even': AOEPB
 'greater': TKPWRAERT
 'by': PWEU
 'the': -T
-'choice': KHOUS
-'he': E
+'choice': KHOEUS
+'he': HE
 'had': H
 'made': PHAED
 'for': TPOR
@@ -57,11 +57,11 @@ Donkey-Skin
 'beautiful': PWAOUFL
 'as': AZ
 'she': SHE
-'was': WA
+'was': WAS
 'virtuous,': SREURT/WOUS KW-BG
 'with': W
 'whom': WHOPL
-'he': E
+'he': HE
 'lived': HREUFD
 'in': TPH
 'perfect': P-F
@@ -71,7 +71,7 @@ Donkey-Skin
 'this': TH
 'chaste': KHAEUFT
 'marriage': PHAERPBLG
-'was': WA
+'was': WAS
 'born': PWORPB
 'a': AEU
 'daughter': TKAUR
@@ -111,7 +111,7 @@ Donkey-Skin
 'virtuous': SREURT/WOUS
 'and': SKP
 'devoted': TKWOETD
-'courtiers,': XXX courtiers KW-BG
+'courtiers,': KORT/KWRERS KW-BG
 'faithful': TPA*EUT/-FL
 'and': SKP
 'diligent': TKEUL/SKWREPBT
@@ -125,7 +125,7 @@ Donkey-Skin
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'horses': HORS/-S
+'horses': HORSZ
 'in': TPH
 'the': -T
 'world,': WORLD KW-BG
@@ -133,7 +133,7 @@ Donkey-Skin
 'coverts': KOEFRT/-S
 'of': -F
 'rich': REUFP
-'caparison;': XXX caparison STPH*FPLT
+'caparison;': xxx caparison STPH*FPLT
 'but': PWUT
 'what': WHA
 'most': PHOFT
@@ -144,7 +144,7 @@ Donkey-Skin
 'to': TO
 'admire': AD/PHAOEUR
 'them': THEPL
-'was': WA
+'was': WAS
 'to': TO
 'see,': SAOE KW-BG
 'in': TPH
@@ -153,14 +153,14 @@ Donkey-Skin
 'stall,': STAUL KW-BG
 'a': AEU
 'master': PHAFRT
-'donkey,': TKOPB/KAOE KW-BG
+'donkey,': TKOPB/KEU KW-BG
 'with': W
 'great': TKPWRAET
 'long': HROPBG
 'ears.': AOERS TP-PL
 'Now,': TPHOU KW-BG
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'for': TPOR
 'a': AEU
@@ -176,7 +176,7 @@ Donkey-Skin
 'had': H
 'given': TKPWEUFPB
 'this': TH
-'donkey': TKOPB/KAOE
+'donkey': TKOPB/KEU
 'a': AEU
 'particular': PHRAR
 'and': SKP
@@ -213,7 +213,7 @@ Donkey-Skin
 'of': -F
 'other': OER
 'donkeys,': TKO*PBG/KWREU/-S KW-BG
-'was': WA
+'was': WAS
 'covered': KOFRD
 'every': EF
 'morning': PHORPBG
@@ -226,7 +226,7 @@ Donkey-Skin
 'crowns,': KROUPBS KW-BG
 'and': SKP
 'golden': TKOELD/*EPB
-'louis': HRAOU/WEUS
+'louis': HRAO*U/EUS
 'of': -F
 'every': EF
 'kind,': KEUPBD KW-BG
@@ -251,17 +251,17 @@ Donkey-Skin
 'and': SKP
 'good': TKPWAOD
 'is': S
-'always': AULZ
+'always': AULS
 'mingled': PHEUPBG/-LD
 'with': W
 'ill,': EUL KW-BG
 'it': T
 'so': SO
-'befell': XXX befell
+'befell': PWE/TPEL
 'that': THA
 'the': -T
 'Queen': KWAOEPB
-'was': WA
+'was': WAS
 'suddenly': SULD
 'attacked': A/TABGD
 'by': PWEU
@@ -285,7 +285,7 @@ Donkey-Skin
 'be': -B
 'found.': TPOUPBD TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'great': TKPWRAET
 'mourning': PHOURPBG
 'throughout': THROUT
@@ -305,19 +305,19 @@ Donkey-Skin
 'tomb': TAOUPL
 'of': -F
 'love,': HRUF KW-BG
-'was': WA
+'was': WAS
 'deeply': TKAO*EPL
 'attached': A/TAFPD
 'to': TO
 'his': HEUS
 'wife,': WAOEUF KW-BG
-'was': WA
+'was': WAS
 'distressed': STKREFD
 'beyond': KWROPBD
 'measure': PH*ERB
 'and': SKP
 'made': PHAED
-'fervent': TPER/SREPBT
+'fervent': TPEFRB/EPBT
 'vows': SROUS
 'to': TO
 'all': AUL
@@ -339,7 +339,7 @@ Donkey-Skin
 'beloved': PWHROFD
 'consort;': KOPB/SORT STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'invoked': EUPB/SROEBGD
 'the': -T
 'gods': TKPWODZ
@@ -360,7 +360,7 @@ Donkey-Skin
 'her': HER
 'husband,': HUS KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'dissolved': TKEUS/SOL/*FD
 'in': TPH
 'tears:': TAERS STPH-FPLT
@@ -399,7 +399,7 @@ Donkey-Skin
 'cries,': KRAOEUS KW-BG
 'took': TAOBG
 'his': HEUS
-'wife's': WAOEUF AE S*/SP-S
+'wife's': WAOEUF/AES
 'hands': HAPBDZ
 'in': TPH
 'his': HEUS
@@ -409,7 +409,7 @@ Donkey-Skin
 'her': HER
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'useless': AOUS/-LS
 'to': TO
 'speak': SPAOEBG
@@ -423,7 +423,7 @@ Donkey-Skin
 'my': PHEU
 'dear': TKAER
 'spouse,"': SPOUS KW-BG KR-GS
-'he': E
+'he': HE
 'said': SAEUD
 'at': AT
 'last,': HRAFT KW-BG
@@ -447,7 +447,7 @@ Donkey-Skin
 'finality': TPAOEUPBLT
 'which': WEU
 'but': PWUT
-'increased': EUPB/KRAOES/-D
+'increased': EUPB/KRAOEFD
 'the': -T
 'laments': HRAPLT/-S
 'of': -F
@@ -471,7 +471,7 @@ Donkey-Skin
 'urge': URPBLG
 'you': U
 'to': TO
-'beget': XXX beget
+'beget': xxx beget
 'sons': SOPBS
 'who': WHO
 'resemble': REPL/*BL
@@ -534,7 +534,7 @@ Donkey-Skin
 'believing': PWHREFG
 'that': THA
 'there': THR
-'was': WA
+'was': WAS
 'not': TPHOT
 'her': HER
 'equal': KWAL
@@ -580,7 +580,7 @@ Donkey-Skin
 'and': SKP
 'the': -T
 'punctilious': PUPBG/TEUL/KWROUS
-'fulfilment': TPUL/TPEUPLT
+'fulfilment': TPUL/TPEUPLT/A*U
 'of': -F
 'the': -T
 'rites': RAO*EUT/-S
@@ -589,7 +589,7 @@ Donkey-Skin
 'even': AOEPB
 'the': -T
 'smallest,': SPHAUL/EFT KW-BG
-'was': WA
+'was': WAS
 'his': HEUS
 'sole': SOEL
 'occupation.': OUPGS TP-PL
@@ -623,7 +623,7 @@ Donkey-Skin
 'another': TPHOER
 'wife.': WAOEUF TP-PL
 'At': AT
-'first': TPEURS
+'first': TPEUFRT
 'this': TH
 'request': KW
 'seemed': SAOEPLD
@@ -636,11 +636,11 @@ Donkey-Skin
 'shed': SHED
 'fresh': TPRERB
 'tears.': TAERS TP-PL
-'He': E
+'He': HE
 'pleaded': PHRAOED/-D
 'the': -T
 'vows': SROUS
-'he': E
+'he': HE
 'had': H
 'made': PHAED
 'to': TO
@@ -649,7 +649,7 @@ Donkey-Skin
 'and': SKP
 'defied': TKAOE/TPAOEUD
 'his': HEUS
-'counsellors': KOUPBL/-S
+'counsellors': KOUPBL/A*U/-S
 'to': TO
 'find': TPEUPBD
 'a': AEU
@@ -660,7 +660,7 @@ Donkey-Skin
 'better': PWOERT
 'fashioned': TPAGS/-D
 'than': THAPB
-'was': WA
+'was': WAS
 'she,': SHE KW-BG
 'thinking': THEUG
 'this': TH
@@ -746,7 +746,7 @@ Donkey-Skin
 'the': -T
 'other': OER
 'hand,': HAPBD KW-BG
-'he': E
+'he': HE
 'remained': RE/PHAEUPBD
 'in': TPH
 'her': HER
@@ -778,7 +778,7 @@ Donkey-Skin
 'of': -F
 'his': HEUS
 'name,': TPHAEUPL KW-BG
-'neighbouring': TPHAEUB/-G
+'neighbouring': TPHAEUB/-G/A*U
 'peoples': PAOEPLS
 'would': WO
 'stir': STEUR
@@ -798,7 +798,7 @@ Donkey-Skin
 'considerations,': K-RGS/-S KW-BG
 'promised': PROPLS/-D
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'think': THEU
 'over': OEFR
@@ -807,7 +807,7 @@ Donkey-Skin
 'And': SKP
 'so': SO
 'search': SEFRPB
-'was': WA
+'was': WAS
 'made': PHAED
 'among': PHOPBG
 'all': AUL
@@ -843,8 +843,8 @@ Donkey-Skin
 'coming': KO*G
 'to': TO
 'a': AEU
-'decision': SKEUGS
-'he': E
+'decision': STKEUGS
+'he': HE
 'brooded': PWRAO*D/-D
 'over': OEFR
 'his': HEUS
@@ -860,7 +860,7 @@ Donkey-Skin
 'In': TPH
 'his': HEUS
 'delusions': TKHRAOUGS/-S
-'he': E
+'he': HE
 'imagined': PHAPBLGD
 'himself': H*EUPLS
 'once': WUPBS
@@ -868,7 +868,7 @@ Donkey-Skin
 'a': AEU
 'young': KWRUPBG
 'man;': PHAPB STPH*FPLT
-'he': E
+'he': HE
 'thought': THAUT
 'the': -T
 'Princess': PREUPB/ES
@@ -879,11 +879,11 @@ Donkey-Skin
 'youth': KWRAO*UT
 'and': SKP
 'beauty,': PWAOUT KW-BG
-'was': WA
+'was': WAS
 'his': HEUS
 'Queen': KWAOEPB
 'as': AZ
-'he': E
+'he': HE
 'had': H
 'known': TPHOEPB
 'her': HER
@@ -892,14 +892,14 @@ Donkey-Skin
 'days': TKAEUS
 'of': -F
 'their': THAEUR
-'courtship,': XXX courtship KW-BG
+'courtship,': xxx courtship KW-BG
 'and': SKP
 'living': HREUFG
 'thus': THUS
 'in': TPH
 'the': -T
 'past': PAFT
-'he': E
+'he': HE
 'urged': URPBLGD
 'the': -T
 'unhappy': UPB/HAEP
@@ -913,7 +913,7 @@ Donkey-Skin
 'young': KWRUPBG
 'Princess,': PREUPB/ES KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'virtuous': SREURT/WOUS
 'and': SKP
 'chaste,': KHAEUFT KW-BG
@@ -939,7 +939,7 @@ Donkey-Skin
 'command,': KPHAPBD KW-BG
 'not': TPHOT
 'to': TO
-'constrain': KOPB/STRAEUPB
+'constrain': KAUPB/STRAEUPB
 'her': HER
 'to': TO
 'consent': KEFPBT
@@ -959,7 +959,7 @@ Donkey-Skin
 'reason': R-PB
 'of': -F
 'her': HER
-'desperate': TKEFB/RAT
+'desperate': TKEFP/RAT
 'reluctance,': RE/HRUBG/TAPBS KW-BG
 'and': SKP
 'asked': SK-D
@@ -974,7 +974,7 @@ Donkey-Skin
 'the': -T
 'Princess': PREUPB/ES
 'at': AT
-'rest.': REFT TP-PL
+'rest.': REFT/TP-PL
 'Now': TPHOU
 'this': TH
 'Druid,': TKRAOUD KW-BG
@@ -991,7 +991,7 @@ Donkey-Skin
 'virtue': SRAOURT
 'to': TO
 'the': -T
-'favour': TPAEUFR
+'favour': TPAEU/SROUR
 'of': -F
 'so': SO
 'great': TKPWRAET
@@ -1009,7 +1009,7 @@ Donkey-Skin
 'his': HEUS
 'right': RAOEUT
 'mind,': PHAOEUPBD KW-BG
-'he': E
+'he': HE
 'encouraged': EPB/KURPBLGD
 'him': HEUPL
 'in': TPH
@@ -1024,7 +1024,7 @@ Donkey-Skin
 'misery,': PHEUS/REU KW-BG
 'at': AT
 'last': HRAFT
-'bethought': XXX bethought
+'bethought': PWE/THAUT
 'her': HER
 'of': -F
 'the': -T
@@ -1094,7 +1094,7 @@ Donkey-Skin
 'faithfully': TPA*EUT/TPHREU
 'fulfilled': TPUL/TPEULD
 'the': -T
-'Fairy's': TPAEUR/REU AE S*/SP-S
+'Fairy's': TPAEUR/REU AES
 'injunctions.': EUPB/SKWRUPBGS/-S TP-PL
 '"For,': KR-GS TPOR KW-BG
 'my': PHEU
@@ -1114,7 +1114,7 @@ Donkey-Skin
 'submit': SPHEUT
 'to': TO
 'your': KWROUR
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'wishes,': WEURBS KW-BG
 'but': PWUT
 'you': U
@@ -1134,14 +1134,14 @@ Donkey-Skin
 'whim': WHEUPL
 'you': U
 'have,': SR KW-BG
-'he': E
+'he': HE
 'must': PHUFT
 'give': TKPWEUF
 'you': U
 'a': AEU
 'dress': TKRES
 'the': -T
-'colour': KROUR
+'colour': KHROUR
 'of': -F
 'the': -T
 'weather.': WHR* TP-PL
@@ -1156,7 +1156,7 @@ Donkey-Skin
 'his': HEUS
 'power': POUR
 'will': HR
-'he': E
+'he': HE
 'be': -B
 'able': ABL
 'to': TO
@@ -1183,7 +1183,7 @@ Donkey-Skin
 'the': -T
 'Fairy': TPAEUR/REU
 'had': H
-'counselled': KOUPBD
+'counselled': KOUPBD/A*U
 'her,': HER KW-BG
 'and': SKP
 'protested': PROE/TEFT/-D
@@ -1195,26 +1195,26 @@ Donkey-Skin
 'her': HER
 'hand': HAPBD
 'unless': TPH-LS
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'her': HER
 'a': AEU
 'dress': TKRES
 'the': -T
-'colour': KROUR
+'colour': KHROUR
 'of': -F
 'the': -T
 'weather.': WHR* TP-PL
 'The': -T
 'King,': KEUPBG KW-BG
-'overjoyed': XXX overjoyed
+'overjoyed': AUFR/SKWROEUD
 'and': SKP
 'hopeful,': HOEFL KW-BG
 'called': KAULD
 'together': TOGT
 'the': -T
 'most': PHOFT
-'skilful': XXX skilful
+'skilful': SKEUL/*FL
 'workmen,': WORBG/PHEPB KW-BG
 'and': SKP
 'demanded': TKPAPBD/-D
@@ -1228,8 +1228,8 @@ Donkey-Skin
 'be': -B
 'hanged.': HAPBGD TP-PL
 'But': PWUT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'saved': SAFD
 'from': TPR
 'resorting': RE/SORT/-G
@@ -1265,17 +1265,17 @@ Donkey-Skin
 'of': -F
 'gold,': TKPWOELD KW-BG
 'than': THAPB
-'was': WA
+'was': WAS
 'that': THA
 'lovely': HROFL
 'dress': TKRES
 'when': WHEPB
 'it': T
-'was': WA
-'unfolded.': XXX unfolded TP-PL
+'was': WAS
+'unfolded.': xxx unfolded TP-PL
 'The': -T
 'Princess': PREUPB/ES
-'was': WA
+'was': WAS
 'very': SRE
 'sad': SAD
 'because': PWAU
@@ -1312,7 +1312,7 @@ Donkey-Skin
 'another': TPHOER
 'gown': TKPWOUPB
 'the': -T
-'colour': KROUR
+'colour': KHROUR
 'of': -F
 'the': -T
 'moon.': PHAOPB TP-PL
@@ -1334,13 +1334,13 @@ Donkey-Skin
 'a': AEU
 'dress': TKRES
 'the': -T
-'colour': KROUR
+'colour': KHROUR
 'of': -F
 'the': -T
 'moon;': PHAOPB STPH*FPLT
 'and': SKP
 'woe': WOE
-'betide': XXX betide
+'betide': PWE/TAOEUD
 'them': THEPL
 'if': TP
 'between': TWAOEPB
@@ -1357,8 +1357,8 @@ Donkey-Skin
 'dress': TKRES
 'more': PHOR
 'than': THAPB
-'twenty-four': TWEPBT H-PB TPOUR
-'hours': HAURS
+'twenty-four': TWEPBT/H-PB/TPOUR
+'hours': HOURS
 'should': SHO
 'elapse.': E/HRAPS TP-PL
 'The': -T
@@ -1370,7 +1370,7 @@ Donkey-Skin
 'dress': TKRES
 'when': WHEPB
 'it': T
-'was': WA
+'was': WAS
 'delivered,': TKHREUFRD KW-BG
 'gave': TKPWAEUF
 'way': WAEU
@@ -1378,7 +1378,7 @@ Donkey-Skin
 'distress': STKRES
 'when': WHEPB
 'she': SHE
-'was': WA
+'was': WAS
 'with': W
 'her': HER
 'women': WEUPL
@@ -1413,7 +1413,7 @@ Donkey-Skin
 'a': AEU
 'dress': TKRES
 'the': -T
-'colour': KROUR
+'colour': KHROUR
 'of': -F
 'the': -T
 'sun': SUPB
@@ -1442,7 +1442,7 @@ Donkey-Skin
 'case': KAEUS
 'we': WE
 'should': SHO
-'gain': TKPAEUPB
+'gain': TKPWAEUPB
 'time."': TAOEUPL TP-PL KR-GS
 'So': SO
 'the': -T
@@ -1466,7 +1466,7 @@ Donkey-Skin
 'daughter': TKAUR
 'nothing,': TPHOG KW-BG
 'and': SKP
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'without': WOUT
 'regret': RE/TKPWRET
@@ -1484,7 +1484,7 @@ Donkey-Skin
 'superb': SPERB
 'work;': WORBG STPH*FPLT
 'nothing': TPHOG
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'spared': SPAEURD
@@ -1507,7 +1507,7 @@ Donkey-Skin
 'all': AUL
 'those': THOZ
 'who': WHO
-'unfolded': XXX unfolded
+'unfolded': xxx unfolded
 'it': T
 'were': WR
 'obliged': OE/PWHRAOEUPBLGD
@@ -1534,7 +1534,7 @@ Donkey-Skin
 'that': THA
 'time.': TAOEUPL TP-PL
 'What': WHA
-'was': WA
+'was': WAS
 'the': -T
 'Princess': PREUPB/ES
 'to': TO
@@ -1551,7 +1551,7 @@ Donkey-Skin
 'been': PW-PB
 'seen.': SAOEPB TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'dumb-founded,': TKUPL H-PB TPOUPBD/-D KW-BG
 'and': SKP
 'pretending': PRE/TEPBD/-G
@@ -1587,7 +1587,7 @@ Donkey-Skin
 'red': RED
 'with': W
 'rage.': RAEUPBLG TP-PL
-'"Oh!': KR-GS O*ERBGS SKHRAPL
+'"Oh!': KR-GS O*E SKHRAPL
 'this': TH
 'time,': TAOEUPL KW-BG
 'my': PHEU
@@ -1612,7 +1612,7 @@ Donkey-Skin
 'madness': PHAD/-PBS
 'I': EU
 'think': THEU
-'he': E
+'he': HE
 'will': HR
 'be': -B
 'a': AEU
@@ -1632,7 +1632,7 @@ Donkey-Skin
 'it': T
 'is': S
 'that': THA
-'he': E
+'he': HE
 'should': SHO
 'give': TKPWEUF
 'you': U
@@ -1641,7 +1641,7 @@ Donkey-Skin
 'of': -F
 'that': THA
 'ass': A*S
-'he': E
+'he': HE
 'loves': HRUFS
 'so': SO
 'dearly,': TKAERL KW-BG
@@ -1658,7 +1658,7 @@ Donkey-Skin
 'paying': PAEUG
 'all': AUL
 'his': HEUS
-'expenses.': SPEBS/-S TP-PL
+'expenses.': SPEPBS/-S TP-PL
 'Go,': TKPW KW-BG
 'and': SKP
 'do': TKO
@@ -1674,14 +1674,14 @@ Donkey-Skin
 'skin."': SKEUPB TP-PL KR-GS
 'The': -T
 'Princess,': PREUPB/ES KW-BG
-'overjoyed': XXX overjoyed
+'overjoyed': AUFR/SKWROEUD
 'at': AT
 'finding': TPAOEPBGD
 'yet': KWRET
 'another': TPHOER
 'avenue': AFP
 'of': -F
-'escape;': E/SKAEUP STPH*FPLT
+'escape;': SKA*EUP STPH*FPLT
 'for': TPOR
 'she': SHE
 'thought': THAUT
@@ -1701,7 +1701,7 @@ Donkey-Skin
 'find': TPEUPBD
 'him,': HEUPL KW-BG
 'and': SKP
-'unfolded': XXX unfolded
+'unfolded': xxx unfolded
 'to': TO
 'him': HEUPL
 'her': HER
@@ -1710,12 +1710,12 @@ Donkey-Skin
 'Although': HR*T
 'the': -T
 'King': KEUPBG
-'was': WA
+'was': WAS
 'astonished': A/STOPB/EURBD
 'by': PWEU
 'this': TH
 'whim,': WHEUPL KW-BG
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'hesitate': HES/TAEUT
@@ -1725,7 +1725,7 @@ Donkey-Skin
 'the': -T
 'poor': PAOR
 'ass': A*S
-'was': WA
+'was': WAS
 'sacrificed': SARBG/TPAOEUFD
 'and': SKP
 'the': -T
@@ -1746,8 +1746,8 @@ Donkey-Skin
 'avoiding': A/SROEUGD
 'her': HER
 'ill-fortune,': EUL H-PB TP-RPB KW-BG
-'was': WA
-'desperate.': TKEFB/RAT TP-PL
+'was': WAS
+'desperate.': TKEFP/RAT TP-PL
 'At': AT
 'that': THA
 'moment': PHOEPLT
@@ -1925,7 +1925,7 @@ Donkey-Skin
 'palace': PAL/AS
 'without': WOUT
 'being': -BG
-'recognised': REFD
+'recognised': REFD/A*U
 'by': PWEU
 'a': AEU
 'single': SEUPBLG
@@ -1950,9 +1950,9 @@ Donkey-Skin
 'to': TO
 'be': -B
 'prepared,': PRAOEPD KW-BG
-'was': WA
+'was': WAS
 'inconsolable.': EUPB/KAUPBS/HRABL TP-PL
-'He': E
+'He': HE
 'sent': SEPBT
 'out': OUT
 'more': PHOR
@@ -1964,7 +1964,7 @@ Donkey-Skin
 'more': PHOR
 'than': THAPB
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'musketeers': PHUFBG/TAOER/-S
 'in': TPH
 'quest': KWEFT
@@ -1979,7 +1979,7 @@ Donkey-Skin
 'to': TO
 'the': -T
 'cleverest': KHR*EFR/*ES
-'seekers,': XXX seekers KW-BG
+'seekers,': SAOEBG/*ERS KW-BG
 'and': SKP
 'thus': THUS
 'she': SHE
@@ -2015,7 +2015,7 @@ Donkey-Skin
 'her': HER
 'food,': TPAOD KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'so': SO
 'dishevelled': TKEURB/EFL/-D
 'and': SKP
@@ -2040,13 +2040,13 @@ Donkey-Skin
 'gate': TKPWAET
 'of': -F
 'which': WEU
-'was': WA
+'was': WAS
 'a': AEU
-'small': SPAUL
+'small': SPHAL
 'farm.': TPARPL TP-PL
 'Now': TPHOU
 'the': -T
-'farmer's': TPAR/PHER AE S*/SP-S
+'farmer's': TPAR/PHER AES
 'wife': WAOEUF
 'had': H
 'need': TPHAOED
@@ -2074,19 +2074,19 @@ Donkey-Skin
 'vagrant': SRAEUG/RAPBT
 'offered': OFRD
 'to': TO
-'engage': EPB/TKPWAEUPBL
+'engage': EPB/TKPWAEUPBLG
 'her.': HER TP-PL
 'The': -T
 'Princess,': PREUPB/ES KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'now': TPHOU
 'much': PHUFP
 'fatigued,': TPA/TAOEGD KW-BG
 'accepted': SEPD
 'joyfully.': SKWROEUFL/HREU TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'put': PUT
 'into': TPHAO
 'a': AEU
@@ -2097,10 +2097,10 @@ Donkey-Skin
 'where': W-R
 'for': TPOR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'days': TKAEUS
 'she': SHE
-'was': WA
+'was': WAS
 'subjected': SUBT/-D
 'to': TO
 'the': -T
@@ -2115,7 +2115,7 @@ Donkey-Skin
 'unpleasant': UPB/PHR*EPBT
 'did': TK
 'the': -T
-'donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'donkey-skin': TKOPB/KEU H-PB SKEUPB
 'make': PHAEUBG
 'her': HER
 'appear.': A/PAOER TP-PL
@@ -2128,7 +2128,7 @@ Donkey-Skin
 'pleasantries;': PHRES/TREUS STPH*FPLT
 'moreover': PHROEFR
 'she': SHE
-'was': WA
+'was': WAS
 'so': SO
 'attentive': A/TEPBT/EUF
 'to': TO
@@ -2136,7 +2136,7 @@ Donkey-Skin
 'work': WORBG
 'that': THA
 'the': -T
-'farmer's': TPAR/PHER AE S*/SP-S
+'farmer's': TPAR/PHER AES
 'wife': WAOEUF
 'took': TAOBG
 'her': HER
@@ -2153,7 +2153,7 @@ Donkey-Skin
 'up': UP
 'when': WHEPB
 'it': T
-'was': WA
+'was': WAS
 'necessary,': TPHES KW-BG
 'and': SKP
 'she': SHE
@@ -2183,18 +2183,18 @@ Donkey-Skin
 'beautiful': PWAOUFL
 'hands': HAPBDZ
 'undertook': UPBD/TAOBG
-'was': WA
+'was': WAS
 'done': TKOPB
 'well.': WEL TP-PL
 'One': WUPB
 'day': TKAEU
 'she': SHE
-'was': WA
-'sitting': SAO*EGT
+'was': WAS
+'sitting': SEUGT
 'near': TPHAOER
 'a': AEU
 'clear': KHRAOER
-'fountain': TPOUPB/TAPB
+'fountain': TPOUPB/TAEUPB
 'where': W-R
 'she': SHE
 'often': OFPB
@@ -2217,7 +2217,7 @@ Donkey-Skin
 'water.': WAUR TP-PL
 'The': -T
 'horrible': HORBL
-'donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'donkey-skin': TKOPB/KEU H-PB SKEUPB
 'which': WEU
 'covered': KOFRD
 'her': HER
@@ -2225,7 +2225,7 @@ Donkey-Skin
 'head': HED
 'to': TO
 'toe': TO*E
-'revolted': XXX revolted
+'revolted': RE/SROLT/-D
 'her.': HER TP-PL
 'Ashamed,': A/SHAEUPLD KW-BG
 'she': SHE
@@ -2249,7 +2249,7 @@ Donkey-Skin
 'took': TAOBG
 'its': EUTS
 'natural': TPHARL
-'freshness.': XXX freshness TP-PL
+'freshness.': TPRERB/-PBS TP-PL
 'The': -T
 'joy': SKWROEU
 'of': -F
@@ -2296,7 +2296,7 @@ Donkey-Skin
 'to': TO
 'be': -B
 'a': AEU
-'holiday,': OL/TKAEU KW-BG
+'holiday,': HOL/TKEU KW-BG
 'and': SKP
 'so': SO
 'she': SHE
@@ -2309,7 +2309,7 @@ Donkey-Skin
 'chest': KHEFT
 'with': W
 'the': -T
-'fairy's': TPAEUR/REU AE S*/SP-S
+'fairy's': TPAEUR/REU AES
 'wand,': WAPBD KW-BG
 'arrange': A/RAEUPBG
 'her': HER
@@ -2325,21 +2325,21 @@ Donkey-Skin
 'lovely': HROFL
 'gown': TKPWOUPB
 'which': WEU
-'was': WA
+'was': WAS
 'the': -T
-'colour': KROUR
+'colour': KHROUR
 'of': -F
 'the': -T
 'weather;': WHR* STPH*FPLT
 'but': PWUT
 'the': -T
 'room': RAOPL
-'was': WA
+'was': WAS
 'so': SO
-'small': SPAUL
+'small': SPHAL
 'that': THA
 'the': -T
-'train': TRAEUPL
+'train': TRAEUPB
 'could': KO
 'not': TPHOT
 'be': -B
@@ -2422,7 +2422,7 @@ Donkey-Skin
 'in': TPH
 'the': -T
 'horrible': HORBL
-'donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'donkey-skin': TKOPB/KEU H-PB SKEUPB
 'after': AF
 'which': WEU
 'she': SHE
@@ -2433,14 +2433,14 @@ Donkey-Skin
 'the': -T
 'farm.': TPARPL TP-PL
 'One': WUPB
-'holiday': OL/TKAEU
+'holiday': HOL/TKEU
 'when': WHEPB
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'had': H
 'put': PUT
 'on': OPB
 'her': HER
-'sun-hued': SUPB H-PB HAOU/-D
+'sun-hued': SUPB H-PB H*/*U/-D
 'dress,': TKRES KW-BG
 'the': -T
 'son': SOPB
@@ -2464,7 +2464,7 @@ Donkey-Skin
 'hunt.': HUPBT TP-PL
 'This': TH
 'Prince': PREUPBS
-'was': WA
+'was': WAS
 'young': KWRUPBG
 'and': SKP
 'handsome,': HAPBD/SOPL KW-BG
@@ -2484,7 +2484,7 @@ Donkey-Skin
 'the': -T
 'people.': PAOEPL TP-PL
 'After': AF
-'he': E
+'he': HE
 'had': H
 'partaken': PAR/TAEUBG/EPB
 'of': -F
@@ -2492,10 +2492,10 @@ Donkey-Skin
 'simple': S*EUPL
 'collation': KOL/HRAEUGS
 'which': WEU
-'was': WA
+'was': WAS
 'offered': OFRD
 'him': HEUPL
-'he': E
+'he': HE
 'set': SET
 'out': OUT
 'to': TO
@@ -2515,21 +2515,21 @@ Donkey-Skin
 'place': PHRAEUS
 'to': TO
 'place,': PHRAEUS KW-BG
-'he': E
+'he': HE
 'entered': SPWR-D
 'a': AEU
 'dark': TKARBG
-'alley': AL/HRAOE
+'alley': AL/KWREU
 'at': AT
 'the': -T
 'bottom': PWOPLT
 'of': -F
 'which': WEU
-'was': WA
+'was': WAS
 'a': AEU
 'closed': KHROEFD
 'door.': TKAOR TP-PL
-'Curiosity': KUR/KWROFT
+'Curiosity': KAOURS/TEU
 'made': PHAED
 'him': HEUPL
 'put': PUT
@@ -2552,16 +2552,16 @@ Donkey-Skin
 'richly': REUFP/HREU
 'dressed,': TKREFD KW-BG
 'and': SKP
-'withal': XXX withal
+'withal': W/A*L
 'of': -F
 'so': SO
 'noble': TPHOEBL
 'and': SKP
 'dignified': TKEUG/TPHEU/TPAOEUD
 'a': AEU
-'mien,': XXX mien KW-BG
+'mien,': PH*/*EU/*E/TPH* KW-BG
 'that': THA
-'he': E
+'he': HE
 'took': TAOBG
 'her': HER
 'to': TO
@@ -2569,7 +2569,7 @@ Donkey-Skin
 'a': AEU
 'divinity.': TKWEPBT TP-PL
 'The': -T
-'impetuosity': XXX impetuosity
+'impetuosity': xxx impetuosity
 'of': -F
 'his': HEUS
 'feelings': TPAOELGS
@@ -2598,17 +2598,17 @@ Donkey-Skin
 'filled': TPEULD
 'him.': HEUPL TP-PL
 'It': T
-'was': WA
+'was': WAS
 'with': W
 'difficulty': TKOEUFLT
 'that': THA
-'he': E
+'he': HE
 'withdrew': WRAOU
 'from': TPR
 'this': TH
 'gloomy': TKPWHRAO/PH*EU
 'little': HREUL
-'alley,': AL/HRAOE KW-BG
+'alley,': AL/KWREU KW-BG
 'intent': SPWEPBT
 'on': OPB
 'discovering': SKOFRG
@@ -2621,28 +2621,28 @@ Donkey-Skin
 'room': RAOPL
 'might': PHAOEUT
 'be.': -B TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'told': TOLD
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
-'scullion': XXX scullion
+'scullion': xxx scullion
 'called': KAULD
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'because': PWAU
 'of': -F
 'the': -T
 'skin': SKEUPB
 'which': WEU
 'she': SHE
-'always': AULZ
+'always': AULS
 'wore,': WOR KW-BG
 'and': SKP
 'that': THA
 'she': SHE
-'was': WA
+'was': WAS
 'so': SO
 'dirty': TKOEURT
 'and': SKP
@@ -2680,7 +2680,7 @@ Donkey-Skin
 'satisfied': SAED
 'by': PWEU
 'this': TH
-'information,': TP-FGS KW-BG
+'information,': TPH-FGS KW-BG
 'saw': SAU
 'that': THA
 'these': THEZ
@@ -2692,13 +2692,13 @@ Donkey-Skin
 'and': SKP
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'useless': AOUS/-LS
 'to': TO
 'question': KWE
 'them.': THEPL TP-PL
 'So': SO
-'he': E
+'he': HE
 'returned': RURPBD
 'to': TO
 'the': -T
@@ -2724,19 +2724,19 @@ Donkey-Skin
 'the': -T
 'goddess': TKPWOD/ES
 'whom': WHOPL
-'he': E
+'he': HE
 'had': H
 'seen': SAOEPB
 'through': THRU
 'the': -T
 'keyhole.': KAOE/HOEL TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'full': TPUL
 'of': -F
 'regret': RE/TKPWRET
 'that': THA
-'he': E
+'he': HE
 'had': H
 'not': TPHOT
 'knocked': TPHOBGD
@@ -2747,7 +2747,7 @@ Donkey-Skin
 'promised': PROPLS/-D
 'himself': H*EUPLS
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'not': TPHOT
 'fail': TPAEUL
@@ -2758,7 +2758,7 @@ Donkey-Skin
 'time.': TAOEUPL TP-PL
 'But': PWUT
 'the': -T
-'fervency': XXX fervency
+'fervency': xxx fervency
 'of': -F
 'his': HEUS
 'love': HRUF
@@ -2771,18 +2771,18 @@ Donkey-Skin
 'the': -T
 'same': SAEUPL
 'night': TPHAOEUT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'seized': SAOEZ/-D
 'by': PWEU
 'a': AEU
 'terrible': TERBL
 'fever,': TPAOEF KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'soon': SAOPB
 'at': AT
-'death's': TK*T AE S*/SP-S
+'death's': TK*T AES
 'door.': TKAOR TP-PL
 'The': -T
 'Queen,': KWAOEPB KW-BG
@@ -2791,9 +2791,9 @@ Donkey-Skin
 'no': TPHO
 'other': OER
 'child,': KHAOEULD KW-BG
-'was': WA
+'was': WAS
 'in': TPH
-'despair': TKES/PAEUR
+'despair': TKE/SPAEUR
 'because': PWAU
 'all': AUL
 'remedies': REPL/TKEUS
@@ -2822,7 +2822,7 @@ Donkey-Skin
 'At': AT
 'last': HRAFT
 'they': THE
-'decided': TKAOE/SAOEUD/-D
+'decided': STKAOEUD/-D
 'that': THA
 'some': SOPL
 'great': TKPWRAET
@@ -2860,7 +2860,7 @@ Donkey-Skin
 'even': AOEPB
 'if': TP
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'matter': PHAERT
 'of': -F
@@ -2880,7 +2880,7 @@ Donkey-Skin
 'regret;': RE/TKPWRET STPH*FPLT
 'or': OR
 'if': TP
-'he': E
+'he': HE
 'desired': STKAOEURD
 'some': SOPL
 'Princess,': PREUPB/ES KW-BG
@@ -2909,7 +2909,7 @@ Donkey-Skin
 'to': TO
 'obtain': OB/TAEUPB
 'what': WHA
-'he': E
+'he': HE
 'wished.': WEURBD TP-PL
 'She': SHE
 'implored': EUPL/PHROR/-D
@@ -2940,7 +2940,7 @@ Donkey-Skin
 'to': TO
 'tears.': TAERS TP-PL
 '"Madam,"': KR-GS PHAD/APL KW-BG KR-GS
-'he': E
+'he': HE
 'said': SAEUD
 'at': AT
 'last,': HRAFT KW-BG
@@ -2975,7 +2975,7 @@ Donkey-Skin
 'that': THA
 'I': EU
 'may': PHAE
-'always': AULZ
+'always': AULS
 'be': -B
 'the': -T
 'most': PHOFT
@@ -3018,7 +3018,7 @@ Donkey-Skin
 'shall': SHAL
 'obey': O/PWAEU
 'you': U
-'always,': AULZ KW-BG
+'always,': AULS KW-BG
 'even': AOEPB
 'though': THOE
 'it': T
@@ -3069,7 +3069,7 @@ Donkey-Skin
 'it."': T TP-PL KR-GS
 '"Well,': KR-GS WEL KW-BG
 'Madam,"': PHAD/APL KW-BG KR-GS
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 '"since': KR-GS SEUPBS
 'you': U
@@ -3105,7 +3105,7 @@ Donkey-Skin
 'that': THA
 'I': EU
 'wish': WEURB
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'to': TO
 'make': PHAEUBG
 'me': PHE
@@ -3121,7 +3121,7 @@ Donkey-Skin
 'when': WHEPB
 'it': T
 'is': S
-'ready."': R*ED TP-PL KR-GS
+'ready."': R-D TP-PL KR-GS
 'The': -T
 'Queen,': KWAOEPB KW-BG
 'astonished': A/STOPB/EURBD
@@ -3131,7 +3131,7 @@ Donkey-Skin
 'name,': TPHAEUPL KW-BG
 'asked': SK-D
 'who': WHO
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'might': PHAOEUT
 'be.': -B TP-PL
 '"It': KR-GS T
@@ -3155,7 +3155,7 @@ Donkey-Skin
 'most': PHOFT
 'ugly': ULG
 'creature': KRAOEFP
-'imaginable': PHAPBLG/ABL
+'imaginable': PHAPBLG/-BL
 'after': AF
 'the': -T
 'wolf,': WOFL KW-BG
@@ -3210,9 +3210,9 @@ Donkey-Skin
 'I': EU
 'wish': WEURB
 'that': THA
-'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KEU H-PB SKEUPB KW-BG
 'since': SEUPBS
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'it': T
 'is,': S KW-BG
 'make': PHAEUBG
@@ -3220,7 +3220,7 @@ Donkey-Skin
 'presently': PREPBLT
 'a': AEU
 'cake."': KAEUBG TP-PL KR-GS
-'A': AEU
+'A': KPA*/AEU
 'messenger': PHAEPBG
 'ran': RAPB
 'to': TO
@@ -3228,10 +3228,10 @@ Donkey-Skin
 'farm': TPARPL
 'and': SKP
 'told': TOLD
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'that': THA
 'she': SHE
-'was': WA
+'was': WAS
 'to': TO
 'make': PHAEUBG
 'a': AEU
@@ -3249,7 +3249,7 @@ Donkey-Skin
 'some': SOPL
 'believe': PWHREF
 'that': THA
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'had': H
 'been': PW-PB
 'aware': A/WAEUR
@@ -3263,7 +3263,7 @@ Donkey-Skin
 'the': -T
 'moment': PHOEPLT
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'put': PUT
 'his': HEUS
@@ -3313,21 +3313,21 @@ Donkey-Skin
 'as': AZ
 'it': T
 'may,': PHAE KW-BG
-'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KEU H-PB SKEUPB KW-BG
 'either': AOERT
 'having': SR-G
 'seen': SAOEPB
 'him,': HEUPL KW-BG
 'or': OR
 'having': SR-G
-'heard': HERD
+'heard': HAERD
 'him': HEUPL
 'spoken': SPOEPB
 'of': -F
 'with': W
 'praise,': PRAEUS KW-BG
-'was': WA
-'overjoyed': XXX overjoyed
+'was': WAS
+'overjoyed': AUFR/SKWROEUD
 'to': TO
 'think': THEU
 'that': THA
@@ -3361,7 +3361,7 @@ Donkey-Skin
 'on': OPB
 'a': AEU
 'beautiful': PWAOUFL
-'corsage': KOR/SAPBLG
+'corsage': KORS/APBLG
 'of': -F
 'bright': PWRAOEUT
 'silver,': SEUL/SRER KW-BG
@@ -3394,7 +3394,7 @@ Donkey-Skin
 'and': SKP
 'while': WHAOEUL
 'she': SHE
-'was': WA
+'was': WAS
 'working': WOG
 'them,': THEPL KW-BG
 'whether': WHR
@@ -3415,14 +3415,14 @@ Donkey-Skin
 'the': -T
 'cake': KAEUBG
 'and': SKP
-'was': WA
+'was': WAS
 'mixed': PHEUGD
 'in': TPH
 'it.': T TP-PL
 'When': WHEPB
 'the': -T
 'cooking': KAOG
-'was': WA
+'was': WAS
 'done': TKOPB
 'she': SHE
 'muffled': PHUFLD
@@ -3471,7 +3471,7 @@ Donkey-Skin
 'greedily': TKPWRAOED/HREU
 'from': TPR
 'the': -T
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'hands,': HAPBDZ KW-BG
 'and': SKP
 'ate': AEUT
@@ -3493,7 +3493,7 @@ Donkey-Skin
 'that': THA
 'this': TH
 'haste': HAEUFT
-'was': WA
+'was': WAS
 'not': TPHOT
 'a': AEU
 'good': TKPWAOD
@@ -3510,7 +3510,7 @@ Donkey-Skin
 'the': -T
 'ring,': REUPBG KW-BG
 'which': WEU
-'he': E
+'he': HE
 'nearly': TPHAOERL
 'swallowed,': SWAL/OED KW-BG
 'in': TPH
@@ -3521,7 +3521,7 @@ Donkey-Skin
 'of': -F
 'cake.': KAEUBG TP-PL
 'But': PWUT
-'he': E
+'he': HE
 'drew': TKRAOU
 'it': T
 'cleverly': KHREFRL
@@ -3534,10 +3534,10 @@ Donkey-Skin
 'for': TPOR
 'the': -T
 'cake': KAEUBG
-'was': WA
+'was': WAS
 'forgotten': TPORGTD
 'as': AZ
-'he': E
+'he': HE
 'examined': KP-D
 'the': -T
 'fine': TPAOEUPB
@@ -3550,9 +3550,9 @@ Donkey-Skin
 'a': AEU
 'ring': REUPBG
 'so': SO
-'small': SPAUL
+'small': SPHAL
 'that': THA
-'he': E
+'he': HE
 'knew': TPHAOU
 'it': T
 'could': KO
@@ -3567,12 +3567,12 @@ Donkey-Skin
 'in': TPH
 'the': -T
 'world.': WORLD TP-PL
-'He': E
+'He': HE
 'kissed': K*EUFD
 'the': -T
 'ring': REUPBG
 'a': AEU
-'thousand': THOUZ
+'thousand': THOEUPB
 'times,': TAOEUPLS KW-BG
 'put': PUT
 'it': T
@@ -3586,19 +3586,19 @@ Donkey-Skin
 'every': EF
 'moment': PHOEPLT
 'that': THA
-'he': E
+'he': HE
 'thought': THAUT
 'himself': H*EUPLS
-'unobserved.': XXX unobserved TP-PL
+'unobserved.': xxx unobserved TP-PL
 'The': -T
 'torment': TORPLT
 'that': THA
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'himself,': H*EUPLS KW-BG
 'planning': PHRAPBG
 'how': HOU
-'he': E
+'he': HE
 'might': PHAOEUT
 'see': SAOE
 'her': HER
@@ -3613,10 +3613,10 @@ Donkey-Skin
 'believe': PWHREF
 'that': THA
 'if': TP
-'he': E
+'he': HE
 'asked': SK-D
 'for': TPOR
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
 'she': SHE
 'would': WO
 'be': -B
@@ -3630,7 +3630,7 @@ Donkey-Skin
 'speak': SPAOEBG
 'of': -F
 'what': WHA
-'he': E
+'he': HE
 'had': H
 'seen': SAOEPB
 'through': THRU
@@ -3639,7 +3639,7 @@ Donkey-Skin
 'for': TPOR
 'fear': TPAOER
 'that': THA
-'he': E
+'he': HE
 'would': WO
 'be': -B
 'laughed': HRAFD
@@ -3668,16 +3668,16 @@ Donkey-Skin
 'Queen': KWAOEPB
 'that': THA
 'the': -T
-'Prince's': PREUPBS AE S*/SP-S
+'Prince's': PREUPBS AES
 'malady': PHAL/TKEU
-'was': WA
+'was': WAS
 'love,': HRUF KW-BG
 'whereupon': WRUP
 'the': -T
 'Queen': KWAOEPB
 'and': SKP
 'the': -T
-'disconsolate': XXX disconsolate
+'disconsolate': xxx disconsolate
 'King': KEUPBG
 'ran': RAPB
 'to': TO
@@ -3769,7 +3769,7 @@ Donkey-Skin
 'under': *UPBD
 'his': HEUS
 'pillow': PEUL/OE
-'he': E
+'he': HE
 'added:': AD/-D STPH-FPLT
 '"To': KR-GS TO
 'prove': PROF
@@ -3790,7 +3790,7 @@ Donkey-Skin
 'It': T
 'is': S
 'not': TPHOT
-'likely': HREULG
+'likely': HRAOEULG
 'that': THA
 'she': SHE
 'who': WHO
@@ -3801,7 +3801,7 @@ Donkey-Skin
 'ring': REUPBG
 'is': S
 'a': AEU
-'rustic': RUS/TEUBG
+'rustic': RUFT/EUBG
 'or': OR
 'a': AEU
 'peasant."': PEFPBT TP-PL KR-GS
@@ -3817,7 +3817,7 @@ Donkey-Skin
 'it': T
 'with': W
 'great': TKPWRAET
-'curiosity,': KUR/KWROFT KW-BG
+'curiosity,': KAOURS/TEU KW-BG
 'and': SKP
 'agreed': TKPWRAED
 'with': W
@@ -3827,7 +3827,7 @@ Donkey-Skin
 'it': T
 'could': KO
 'only': OEPBL
-'belong': PWHROPG
+'belong': PWHROPBG
 'to': TO
 'the': -T
 'daughter': TKAUR
@@ -3850,12 +3850,12 @@ Donkey-Skin
 'well,': WEL KW-BG
 'went': WEPBT
 'out.': OUT TP-PL
-'He': E
+'He': HE
 'ordered': ORD/-D
 'the': -T
 'drums': TKRUPLS
 'and': SKP
-'fifes': XXX fifes
+'fifes': xxx fifes
 'and': SKP
 'trumpets': TRUPL/PET/-S
 'to': TO
@@ -3909,7 +3909,7 @@ Donkey-Skin
 'make': PHAEUBG
 'their': THAEUR
 'fingers': TPEURPBGS
-'small,': SPAUL KW-BG
+'small,': SPHAL KW-BG
 'none': TPHOPB
 'could': KO
 'put': PUT
@@ -3941,7 +3941,7 @@ Donkey-Skin
 'The': -T
 'Prince,': PREUPBS KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'feeling': TPAOELG
 'better,': PWOERT KW-BG
 'made': PHAED
@@ -3951,7 +3951,7 @@ Donkey-Skin
 'At': AT
 'last': HRAFT
 'it': T
-'was': WA
+'was': WAS
 'the': -T
 'turn': TURPB
 'of': -F
@@ -3975,7 +3975,7 @@ Donkey-Skin
 'the': -T
 'kitchen-maids,': K-FP H-PB PHAEUDZ KW-BG
 'the': -T
-'scullions,': XXX scullions KW-BG
+'scullions,': xxx scullions KW-BG
 'and': SKP
 'the': -T
 'sheep-girls.': SHAOEP H-PB TKPWEURLS TP-PL
@@ -4009,7 +4009,7 @@ Donkey-Skin
 'not': TPHOT
 'brought': PWRAUT
 'that': THA
-'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KEU H-PB SKEUPB KW-BG
 'who': WHO
 'made': PHAED
 'me': PHE
@@ -4027,10 +4027,10 @@ Donkey-Skin
 'dirty': TKOEURT
 'and': SKP
 'unpleasant': UPB/PHR*EPBT
-'was': WA
+'was': WAS
 'she.': SHE TP-PL
 '"Let': KR-GS HRET
-'someone': SWUPB
+'someone': SPH-PB
 'fetch': TPEFP
 'her': HER
 'at': AT
@@ -4048,7 +4048,7 @@ Donkey-Skin
 'left': HREFT
 'out': OUT
 'the': -T
-'lowliest."': XXX lowliest TP-PL KR-GS
+'lowliest."': xxx lowliest TP-PL KR-GS
 'And': SKP
 'the': -T
 'servants': SER/SRAPBTS
@@ -4064,7 +4064,7 @@ Donkey-Skin
 'Princess,': PREUPB/ES KW-BG
 'who': WHO
 'had': H
-'heard': HERD
+'heard': HAERD
 'the': -T
 'drums': TKRUPLS
 'and': SKP
@@ -4079,7 +4079,7 @@ Donkey-Skin
 'that': THA
 'the': -T
 'ring': REUPBG
-'was': WA
+'was': WAS
 'the': -T
 'cause': KAUS
 'of': -F
@@ -4095,13 +4095,13 @@ Donkey-Skin
 'true': TRAOU
 'love': HRUF
 'is': S
-'timorous': XXX timorous
+'timorous': xxx timorous
 'and': SKP
 'has': HAS
 'no': TPHO
 'vanity,': SRAPBT KW-BG
 'she': SHE
-'was': WA
+'was': WAS
 'in': TPH
 'perpetual': PER/PET/WAL
 'fear': TPAOER
@@ -4117,12 +4117,12 @@ Donkey-Skin
 'a': AEU
 'finger': TPURPBG
 'as': AZ
-'small': SPAUL
+'small': SPHAL
 'as': AZ
 'hers.': HERS TP-PL
 'Great,': TKPWRAET KW-BG
 'then,': THEPB KW-BG
-'was': WA
+'was': WAS
 'her': HER
 'joy': SKWROEU
 'when': WHEPB
@@ -4172,13 +4172,13 @@ Donkey-Skin
 'her': HER
 'beautiful': PWAOUFL
 'silver': SEUL/SRER
-'corsage,': KOR/SAPBLG KW-BG
+'corsage,': KORS/APBLG KW-BG
 'and': SKP
 'the': -T
 'petticoat': PET/KOET
 'full': TPUL
 'of': -F
-'furbelows': XXX furbelows
+'furbelows': xxx furbelows
 'and': SKP
 'silver': SEUL/SRER
 'lace': HRAEUS
@@ -4187,7 +4187,7 @@ Donkey-Skin
 'emeralds.': EPL/RALDZ TP-PL
 'At': AT
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'knock': TPHOBG
 'she': SHE
 'quickly': KWEULG
@@ -4196,7 +4196,7 @@ Donkey-Skin
 'finery': TPAOEUPB/REU
 'with': W
 'the': -T
-'donkey-skin': TKOPB/KAOE H-PB SKEUPB
+'donkey-skin': TKOPB/KEU H-PB SKEUPB
 'and': SKP
 'opened': OEPD
 'the': -T
@@ -4235,7 +4235,7 @@ Donkey-Skin
 'the': -T
 'Prince,': PREUPBS KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'astonished': A/STOPB/EURBD
 'at': AT
 'the': -T
@@ -4249,21 +4249,21 @@ Donkey-Skin
 'believe': PWHREF
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'she': SHE
 'whom': WHOPL
-'he': E
+'he': HE
 'had': H
 'seen': SAOEPB
 'so': SO
-'majestic': PHA/SKWRES/TEUBG
+'majestic': PHA/SKWREFT/EUBG
 'and': SKP
 'so': SO
 'beautiful.': PWAOUFL TP-PL
 'Sad': SAD
 'and': SKP
 'confounded,': KOPB/TPOUPBD/-D KW-BG
-'he': E
+'he': HE
 'said,': SAEUD KW-BG
 '"Is': KR-GS S
 'it': T
@@ -4276,7 +4276,7 @@ Donkey-Skin
 'of': -F
 'that': THA
 'dark': TKARBG
-'alley': AL/HRAOE
+'alley': AL/KWREU
 'in': TPH
 'the': -T
 'third': THEURD
@@ -4306,7 +4306,7 @@ Donkey-Skin
 'how': HOU
 'astonished': A/STOPB/EURBD
 'everyone': EFRPB
-'was!': WA SKHRAPL
+'was!': WAS SKHRAPL
 'The': -T
 'King': KEUPBG
 'and': SKP
@@ -4317,7 +4317,7 @@ Donkey-Skin
 'and': SKP
 'all': AUL
 'the': -T
-'courtiers': XXX courtiers
+'courtiers': KORT/KWRERS
 'were': WR
 'dumb-founded,': TKUPL H-PB TPOUPBD/-D KW-BG
 'when': WHEPB
@@ -4355,7 +4355,7 @@ Donkey-Skin
 'by': PWEU
 'a': AEU
 'little': HREUL
-'movement': PHOFPL
+'movement': PHOFPLT
 'which': WEU
 'the': -T
 'Princess': PREUPB/ES
@@ -4369,7 +4369,7 @@ Donkey-Skin
 'and': SKP
 'so': SO
 'enchanting': EPB/KHAPBT/-G
-'was': WA
+'was': WAS
 'her': HER
 'guise,': TKPWAOEUZ KW-BG
 'that': THA
@@ -4377,8 +4377,8 @@ Donkey-Skin
 'Prince,': PREUPBS KW-BG
 'weak': WAEBG
 'though': THOE
-'he': E
-'was,': WA KW-BG
+'he': HE
+'was,': WAS KW-BG
 'fell': TPEL
 'on': OPB
 'his': HEUS
@@ -4393,7 +4393,7 @@ Donkey-Skin
 'blushed.': PWHRURB/-D TP-PL
 'But': PWUT
 'that': THA
-'was': WA
+'was': WAS
 'scarcely': SKAEURS/HREU
 'noticed,': TPH-TSD KW-BG
 'for': TPOR
@@ -4432,7 +4432,7 @@ Donkey-Skin
 'handsome': HAPBD/SOPL
 'young': KWRUPBG
 'Prince,': PREUPBS KW-BG
-'was': WA
+'was': WAS
 'about': PW
 'to': TO
 'thank': THAPBG
@@ -4467,18 +4467,18 @@ Donkey-Skin
 'charm,': KHARPL KW-BG
 'told': TOLD
 'the': -T
-'Princess's': PREUPB/ES AE S*/SP-S
+'Princess's': PREUPB/ES AES
 'story.': STOER TP-PL
 'The': -T
 'King': KEUPBG
 'and': SKP
 'Queen,': KWAOEPB KW-BG
-'overjoyed': XXX overjoyed
+'overjoyed': AUFR/SKWROEUD
 'to': TO
 'know': TPHOE
 'that': THA
-'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
-'was': WA
+'Donkey-skin': TKOPB/KEU H-PB SKEUPB
+'was': WAS
 'a': AEU
 'great': TKPWRAET
 'Princess': PREUPB/ES
@@ -4488,7 +4488,7 @@ Donkey-Skin
 'but': PWUT
 'the': -T
 'Prince': PREUPBS
-'was': WA
+'was': WAS
 'even': AOEPB
 'more': PHOR
 'sensible': SEPBS/-BL
@@ -4498,24 +4498,24 @@ Donkey-Skin
 'and': SKP
 'his': HEUS
 'love': HRUF
-'increased': EUPB/KRAOES/-D
+'increased': EUPB/KRAOEFD
 'as': AZ
 'the': -T
 'Fairy': TPAEUR/REU
-'unfolded': XXX unfolded
+'unfolded': xxx unfolded
 'her': HER
 'tale.': TAEL TP-PL
 'His': HEUS
-'impatience': XXX impatience
+'impatience': EUPL/PAEURBS
 'to': TO
 'marry': PHAER
 'her,': HER KW-BG
 'indeed,': TPHAOEPBD KW-BG
-'was': WA
+'was': WAS
 'so': SO
 'great': TKPWRAET
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'scarcely': SKAEURS/HREU
 'allow': HROU
@@ -4529,7 +4529,7 @@ Donkey-Skin
 'grand': TKPWRAPBD
 'wedding': WEGD
 'which': WEU
-'was': WA
+'was': WAS
 'their': THAEUR
 'due.': TKAOU TP-PL
 'The': -T
@@ -4565,10 +4565,10 @@ Donkey-Skin
 'her': HER
 'father,': TPAER KW-BG
 'so,': SO KW-BG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'to': TO
 'whom': WHOPL
 'an': APB
@@ -4576,10 +4576,10 @@ Donkey-Skin
 'to': TO
 'the': -T
 'wedding': WEGD
-'was': WA
+'was': WAS
 'sent;': SEPBT STPH*FPLT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'not,': TPHOT KW-BG
 'however,': HOUF KW-BG
 'told': TOLD
@@ -4592,7 +4592,7 @@ Donkey-Skin
 'Lilac-fairy,': HRAOEUL/ABG H-PB TPAEUR/REU KW-BG
 'who,': WHO KW-BG
 'as': AZ
-'was': WA
+'was': WAS
 'right,': RAOEUT KW-BG
 'presided': PRAOE/SAOEUD/-D
 'over': OEFR
@@ -4642,13 +4642,13 @@ Donkey-Skin
 'glorious': TKPWHRORS
 'of': -F
 'all': AUL
-'was': WA
+'was': WAS
 'the': -T
 'father': TPAER
 'of': -F
 'the': -T
 'Princess.': PREUPB/ES TP-PL
-'He': E
+'He': HE
 'had': H
 'happily': HAP/HREU
 'recovered': ROFRD
@@ -4660,7 +4660,7 @@ Donkey-Skin
 'a': AEU
 'Queen': KWAOEPB
 'who': WHO
-'was': WA
+'was': WAS
 'a': AEU
 'widow': WO*EUD
 'and': SKP
@@ -4669,7 +4669,7 @@ Donkey-Skin
 'but': PWUT
 'by': PWEU
 'whom': WHOPL
-'he': E
+'he': HE
 'had': H
 'no': TPHO
 'child.': KHAOEULD TP-PL
@@ -4679,8 +4679,8 @@ Donkey-Skin
 'to': TO
 'him,': HEUPL KW-BG
 'and': SKP
-'he': E
-'recognised': REFD
+'he': HE
+'recognised': REFD/A*U
 'her': HER
 'at': AT
 'once': WUPBS
@@ -4714,7 +4714,7 @@ Donkey-Skin
 'happiness': HAEP/-PBS
 'of': -F
 'all': AUL
-'was': WA
+'was': WAS
 'complete.': KPHRAOET TP-PL
 'The': -T
 'nuptials': TPHUP/-RBLS
@@ -4722,7 +4722,7 @@ Donkey-Skin
 'celebrated': SEL/PWRAEUT/-D
 'with': W
 'all': AUL
-'imaginable': PHAPBLG/ABL
+'imaginable': PHAPBLG/-BL
 'pomp,': POFRP KW-BG
 'but': PWUT
 'the': -T
@@ -4753,7 +4753,7 @@ Donkey-Skin
 'young': KWRUPBG
 'man,': PHAPB KW-BG
 'the': -T
-'Prince's': PREUPBS AE S*/SP-S
+'Prince's': PREUPBS AES
 'father': TPAER
 'caused': KAUFD
 'his': HEUS
@@ -4807,7 +4807,7 @@ Donkey-Skin
 'age,': AEUPBLG KW-BG
 'so': SO
 'great': TKPWRAET
-'was': WA
+'was': WAS
 'their': THAEUR
 'affection': A*FBGS
 'for': TPOR

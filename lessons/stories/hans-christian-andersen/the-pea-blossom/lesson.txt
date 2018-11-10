@@ -13,7 +13,7 @@ The Pea Blossom
 'green,': TKPWRAOEPB KW-BG
 'the': -T
 'shell': SHEL
-'was': WA
+'was': WAS
 'green,': TKPWRAOEPB KW-BG
 'and': SKP
 'so': SO
@@ -28,7 +28,7 @@ The Pea Blossom
 'green': TKPWRAOEPB
 'also,': HR-S KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'a': AEU
 'very': SRE
 'natural': TPHARL
@@ -41,7 +41,7 @@ The Pea Blossom
 'peas': PAOEZ
 'grew,': TKPWRAOU KW-BG
 'they': THE
-'accommodated': AEU/KOPL/TKAEUT/-D
+'accommodated': ABG/TKAEUTD
 'themselves': TH*EPLS
 'to': TO
 'their': THAEUR
@@ -69,12 +69,12 @@ The Pea Blossom
 'and': SKP
 'transparent;': TRAEUPBT STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'mild': PHAOEULD
 'and': SKP
 'agreeable': TKPWRAOEBL
 'in': TPH
-'broad': PWROD
+'broad': PWRAOD
 'daylight,': TKAEULT KW-BG
 'and': SKP
 'dark': TKARBG
@@ -127,7 +127,7 @@ The Pea Blossom
 'become': PW-BG
 'hard': HARD
 'by': PWEU
-'sitting': SAO*EGT
+'sitting': SEUGT
 'so': SO
 'long?': HROPBG H-F
 'It': T
@@ -182,7 +182,7 @@ The Pea Blossom
 'the': -T
 'shell;': SHEL STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'torn': TORPB
 'off,': OF KW-BG
 'and': SKP
@@ -246,7 +246,7 @@ The Pea Blossom
 'happen,"': HAP KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'largest': HRARPBL/EFT
+'largest': HRARPBLG/EFT
 'pea.': PAE TP-PL
 '"Crack"': KR-GS KRABG KR-GS
 'went': WEPBT
@@ -264,18 +264,18 @@ The Pea Blossom
 'into': TPHAO
 'the': -T
 'bright': PWRAOEUT
-'sunshine.': S*UPB/SHAOEUPB TP-PL
+'sunshine.': SUPB/SHAO*EUPB TP-PL
 'There': THR
 'they': THE
 'lay': HRAEU
 'in': TPH
 'a': AEU
-'child's': KHAOEULD AE S*/SP-S
+'child's': KHAOEULD/AES
 'hand.': HAPBD TP-PL
-'A': AEU
+'A': KPA*/AEU
 'little': HREUL
 'boy': PWOEU
-'was': WA
+'was': WAS
 'holding': HOELGD
 'them': THEPL
 'tightly,': TAO*EULT KW-BG
@@ -290,7 +290,7 @@ The Pea Blossom
 'pea-shooter.': PAE H-PB SHAORT TP-PL
 'And': SKP
 'immediately': PHAOELD
-'he': E
+'he': HE
 'put': PUT
 'one': WUPB
 'in': TPH
@@ -308,15 +308,15 @@ The Pea Blossom
 'wide': WAOEUD
 'world,"': WORLD KW-BG KR-GS
 'said': SAEUD
-'he;': E STPH*FPLT
+'he;': HE STPH*FPLT
 '"catch': KR-GS KAFP
 'me': PHE
 'if': TP
 'you': U
 'can;"': K STPH*FPLT KR-GS
 'and': SKP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'gone': TKPWOPB
 'in': TPH
 'a': AEU
@@ -349,7 +349,7 @@ The Pea Blossom
 'exactly;"': ELG STPH*FPLT KR-GS
 'and': SKP
 'away': A/WAEU
-'he': E
+'he': HE
 'went.': WEPBT TP-PL
 '"We': KR-GS WE
 'will': HR
@@ -359,7 +359,7 @@ The Pea Blossom
 'wherever': W-FR
 'we': WE
 'find': TPEUPBD
-'ourselves,"': OUR/SEFS KW-BG KR-GS
+'ourselves,"': O*URSZ KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'two': TWO
@@ -414,8 +414,8 @@ The Pea Blossom
 'the': -T
 'last,': HRAFT KW-BG
 'as': AZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'shot': SHOT
 'out': OUT
 'of': -F
@@ -423,9 +423,9 @@ The Pea Blossom
 'pea-shooter;': PAE H-PB SHAORT STPH*FPLT
 'and': SKP
 'as': AZ
-'he': E
+'he': HE
 'spoke': SPOEBG
-'he': E
+'he': HE
 'flew': TPHRAOU
 'up': UP
 'against': TKPWEPBS
@@ -442,7 +442,7 @@ The Pea Blossom
 'little': HREUL
 'crevice,': KREFS KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'almost': HR-PL
 'filled': TPEULD
 'up': UP
@@ -459,7 +459,7 @@ The Pea Blossom
 'him,': HEUPL KW-BG
 'and': SKP
 'there': THR
-'he': E
+'he': HE
 'lay,': HRAEU KW-BG
 'a': AEU
 'captive': KAPT/EUF
@@ -476,7 +476,7 @@ The Pea Blossom
 'will': HR
 'happen,"': HAP KW-BG KR-GS
 'said': SAEUD
-'he': E
+'he': HE
 'to': TO
 'himself.': H*EUPLS TP-PL
 'Within': W-PB
@@ -496,7 +496,7 @@ The Pea Blossom
 'chop': KHOP
 'wood': WAOD
 'into': TPHAO
-'small': SPAUL
+'small': SPHAL
 'pieces': PAOEFS
 'and': SKP
 'perform': PORPL
@@ -505,14 +505,14 @@ The Pea Blossom
 'work,': WORBG KW-BG
 'for': TPOR
 'she': SHE
-'was': WA
+'was': WAS
 'strong': STROPBG
 'and': SKP
 'industrious.': STREUS TP-PL
 'Yet': KWRET
 'she': SHE
 'remained': RE/PHAEUPBD
-'always': AULZ
+'always': AULS
 'poor,': PAOR KW-BG
 'and': SKP
 'at': AT
@@ -571,7 +571,7 @@ The Pea Blossom
 'children,': KHEURPB KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'an': APB
 'easy': EZ
@@ -609,7 +609,7 @@ The Pea Blossom
 'the': -T
 'other': OER
 'that': THA
-'was': WA
+'was': WAS
 'left': HREFT
 'to': TO
 'me,': PHE KW-BG
@@ -642,10 +642,10 @@ The Pea Blossom
 'remained': RE/PHAEUPBD
 'where': W-R
 'she': SHE
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'quietly': KWAO*EULT
 'and': SKP
-'patiently': PAEURBT/HREU
+'patiently': PAEURBLT
 'she': SHE
 'lay': HRAEU
 'all': AUL
@@ -655,7 +655,7 @@ The Pea Blossom
 'while': WHAOEUL
 'her': HER
 'mother': PHOER
-'was': WA
+'was': WAS
 'away': A/WAEU
 'from': TPR
 'home': HOEPL
@@ -690,7 +690,7 @@ The Pea Blossom
 'as': AZ
 'the': -T
 'mother': PHOER
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'her': HER
@@ -739,7 +739,7 @@ The Pea Blossom
 'half': HAF
 'opened': OEPD
 'it.': T TP-PL
-'"Oh!"': KR-GS O*ERBGS SKHRAPL KR-GS
+'"Oh!"': KR-GS O*E SKHRAPL KR-GS
 'she': SHE
 'said,': SAEUD KW-BG
 '"there': KR-GS THR
@@ -787,7 +787,7 @@ The Pea Blossom
 'the': -T
 'sick': SEUBG
 'girl': TKPWEURL
-'was': WA
+'was': WAS
 'drawn': TKRAUPB
 'nearer': TPHAOER/*ER
 'to': TO
@@ -821,7 +821,7 @@ The Pea Blossom
 'child': KHAOEULD
 'in': TPH
 'the': -T
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 '"the': KR-GS -T
 'sun': SUPB
 'has': HAS
@@ -853,7 +853,7 @@ The Pea Blossom
 'into': TPHAO
 'the': -T
 'warm': WARPL
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'again."': TKPWEPB TP-PL KR-GS
 '"God': KR-GS TKPWOD
 'grant': TKPWRAPBT
@@ -948,7 +948,7 @@ The Pea Blossom
 'to': TO
 'day.': TKAEU TP-PL
 '"Now': KR-GS TPHOU
-'really': HROERL
+'really': R-L
 'here': HAOER
 'is': S
 'a': AEU
@@ -975,7 +975,7 @@ The Pea Blossom
 'sick': SEUBG
 'daughter': TKAUR
 'might': PHAOEUT
-'really': HROERL
+'really': R-L
 'recover.': ROFR TP-PL
 'She': SHE
 'remembered': RERD
@@ -1018,7 +1018,7 @@ The Pea Blossom
 'a': AEU
 'single': SEUPBLG
 'pea-plant.': PAE H-PB PHRAPBT TP-PL
-'A': AEU
+'A': KPA*/AEU
 'week': WAOEBG
 'after,': AF KW-BG
 'the': -T
@@ -1027,7 +1027,7 @@ The Pea Blossom
 'up': UP
 'for': TPOR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'time': TAOEUPL
 'a': AEU
 'whole': WHOEL
@@ -1042,7 +1042,7 @@ The Pea Blossom
 'in': TPH
 'the': -T
 'warm': WARPL
-'sunshine,': S*UPB/SHAOEUPB KW-BG
+'sunshine,': SUPB/SHAO*EUPB KW-BG
 'while': WHAOEUL
 'outside': OUDZ
 'grew': TKPWRAOU
@@ -1057,7 +1057,7 @@ The Pea Blossom
 'pea-blossom': PAE H-PB PWHROFPL
 'in': TPH
 'full': TPUL
-'bloom.': PHRAOPL TP-PL
+'bloom.': PWHRAOPL TP-PL
 'The': -T
 'little': HREUL
 'maiden': PHAEUD/*EPB
@@ -1071,7 +1071,7 @@ The Pea Blossom
 'leaves.': HREFS TP-PL
 'This': TH
 'day': TKAEU
-'was': WA
+'was': WAS
 'to': TO
 'her': HER
 'like': HRAOEUBG
@@ -1119,7 +1119,7 @@ The Pea Blossom
 'had': H
 'been': PW-PB
 'an': APB
-'angel': APBG/EL
+'angel': A*EPBLG
 'from': TPR
 'God.': TKPWOD TP-PL
 'But': PWUT
@@ -1215,7 +1215,7 @@ The Pea Blossom
 'and': SKP
 'weeks,': WAOEBGS KW-BG
 'till': T*EUL
-'he': E
+'he': HE
 'had': H
 'swelled': SWELD
 'to': TO
@@ -1301,7 +1301,7 @@ The Pea Blossom
 'God': TKPWOD
 'for': TPOR
 'what': WHA
-'He': E
+'He': HE
 'had': H
 'done.': TKOPB TP-PL
 '"I,"': KR-GS EU KW-BG KR-GS

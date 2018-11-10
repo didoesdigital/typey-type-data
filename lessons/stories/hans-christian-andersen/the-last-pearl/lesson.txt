@@ -65,7 +65,7 @@ The Last Pearl
 'material.': TERL TP-PL
 'The': -T
 'carpet': KARPT
-'was': WA
+'was': WAS
 'thick': THEUBG
 'and': SKP
 'soft,': SOFT KW-BG
@@ -110,7 +110,7 @@ The Last Pearl
 'blessing.': PWHR*EFG TP-PL
 'The': -T
 'guardian': TKPWARD/KWRAPB
-'angel': APBG/EL
+'angel': A*EPBLG
 'of': -F
 'the': -T
 'house': HOUS
@@ -125,7 +125,7 @@ The Last Pearl
 'over': OEFR
 'the': -T
 'child': KHAOEULD
-'was': WA
+'was': WAS
 'spread,': SPRED KW-BG
 'as': AZ
 'it': T
@@ -138,7 +138,7 @@ The Last Pearl
 'and': SKP
 'each': AOEFP
 'star': STAR
-'was': WA
+'was': WAS
 'a': AEU
 'pearl': PERL
 'of': -F
@@ -186,7 +186,7 @@ The Last Pearl
 'said': SAEUD
 'the': -T
 'guardian': TKPWARD/KWRAPB
-'angel.': APBG/EL TP-PL
+'angel.': A*EPBLG TP-PL
 '"No,': KR-GS TPHO KW-BG
 'not': TPHOT
 'everything,"': EFG KW-BG KR-GS
@@ -199,7 +199,7 @@ The Last Pearl
 'of': -F
 'the': -T
 'good': TKPWAOD
-'angel': APBG/EL
+'angel': A*EPBLG
 'of': -F
 'the': -T
 'child;': KHAOEULD STPH*FPLT
@@ -236,7 +236,7 @@ The Last Pearl
 'cried': KRAOEUD
 'the': -T
 'guardian': TKPWARD/KWRAPB
-'angel;': APBG/EL STPH*FPLT
+'angel;': A*EPBLG STPH*FPLT
 '"nothing': KR-GS TPHOG
 'must': PHUFT
 'be': -B
@@ -270,7 +270,7 @@ The Last Pearl
 'come': KOPL
 'some': SOPL
 'day': TKAEU
-'unsought!"': XXX unsought SKHRAPL KR-GS
+'unsought!"': xxx unsought SKHRAPL KR-GS
 '"Her': KR-GS HER
 'pearl': PERL
 'must': PHUFT
@@ -302,7 +302,7 @@ The Last Pearl
 'said': SAEUD
 'the': -T
 'guardian': TKPWARD/KWRAPB
-'angel.': APBG/EL TP-PL
+'angel.': A*EPBLG TP-PL
 '"Tell': KR-GS TEL
 'me,': PHE KW-BG
 'and': SKP
@@ -318,7 +318,7 @@ The Last Pearl
 'replied': RE/PHRAOEUD
 'the': -T
 'good': TKPWAOD
-'angel': APBG/EL
+'angel': A*EPBLG
 'of': -F
 'the': -T
 'child.': KHAOEULD TP-PL
@@ -351,7 +351,7 @@ The Last Pearl
 'she': SHE
 'enters': SPWR-S
 'the': -T
-'peasant's': PEFPBT AE S*/SP-S
+'peasant's': PEFPBT AES
 'humble': UPL/-BL
 'cot;': KOT STPH*FPLT
 'she': SHE
@@ -424,11 +424,11 @@ The Last Pearl
 'where': W-R
 'the': -T
 'fairy': TPAEUR/REU
-'was': WA
+'was': WAS
 'now': TPHOU
 'lingering.': HREUPBG/ERG TP-PL
 'It': T
-'was': WA
+'was': WAS
 'in': TPH
 'a': AEU
 'large': HRARPBLG
@@ -443,9 +443,9 @@ The Last Pearl
 'which': WEU
 'a': AEU
 'peculiar': PE/KAOUL/HRAR
-'stillness': XXX stillness
+'stillness': STEUL/-PBS
 'reigned.': RAEPB/-D TP-PL
-'A': AEU
+'A': KPA*/AEU
 'whole': WHOEL
 'row': ROE
 'of': -F
@@ -478,7 +478,7 @@ The Last Pearl
 'air.': AEUR TP-PL
 'In': TPH
 'the': -T
-'centre': STR
+'centre': STR/A*U
 'of': -F
 'one': WUPB
 'of': -F
@@ -499,14 +499,14 @@ The Last Pearl
 'still': STEUL
 'in': TPH
 'the': -T
-'bloom': PHRAOPL
+'bloom': PWHRAOPL
 'of': -F
 'youth': KWRAO*UT
 'and': SKP
 'very': SRE
 'beautiful.': PWAOUFL TP-PL
 'Fresh': TPRERB
-'roses': ROES/-S
+'roses': ROESZ
 'were': WR
 'scattered': SKAT/ERD
 'over': OEFR
@@ -554,7 +554,7 @@ The Last Pearl
 'youngest': KWRUPBG/EFT
 'in': TPH
 'the': -T
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'arms.': ARPLS TP-PL
 'They': THE
 'were': WR
@@ -616,7 +616,7 @@ The Last Pearl
 'not': TPHOT
 'a': AEU
 'word': WORD
-'was': WA
+'was': WAS
 'spoken.': SPOEPB TP-PL
 'The': -T
 'silence': SHREPBS
@@ -637,7 +637,7 @@ The Last Pearl
 'left': HREFT
 'the': -T
 'room.': RAOPL TP-PL
-'A': AEU
+'A': KPA*/AEU
 'burning': PWURPBG
 'light': HRAOEUT
 'remained': RE/PHAEUPBD
@@ -658,7 +658,7 @@ The Last Pearl
 'fluttered': TPHRUT/ERD
 'in': TPH
 'the': -T
-'draught': TRAFT
+'draught': TKRAUFT
 'of': -F
 'air.': AEUR TP-PL
 'Strange': STRAEUPBG
@@ -707,7 +707,7 @@ The Last Pearl
 'asked': SK-D
 'the': -T
 'guardian': TKPWARD/KWRAPB
-'angel.': APBG/EL TP-PL
+'angel.': A*EPBLG TP-PL
 '"Here': KR-GS HAOER
 'dwells': TKWEL/-S
 'no': TPHO
@@ -734,8 +734,8 @@ The Last Pearl
 'hour,"': HOUR KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'angel,': APBG/EL KW-BG
-'pointing': POEUPBLT
+'angel,': A*EPBLG KW-BG
+'pointing': POEUPBGT
 'to': TO
 'a': AEU
 'corner': KRORPB
@@ -783,11 +783,11 @@ The Last Pearl
 'spread': SPRED
 'joy': SKWROEU
 'and': SKP
-'cheerfulness': XXX cheerfulness
+'cheerfulness': KHAOER/-FL/-PBS
 'around': ARPBD
 'her,': HER KW-BG
 'the': -T
-'centre': STR
+'centre': STR/A*U
 'and': SKP
 'heart': HART
 'of': -F
@@ -817,15 +817,15 @@ The Last Pearl
 'and': SKP
 'mother.': PHOER TP-PL
 'It': T
-'was': WA
+'was': WAS
 'the': -T
 'fairy,': TPAEUR/REU KW-BG
 'and': SKP
 'her': HER
 'name': TPHAEUPL
-'was': WA
+'was': WAS
 '"Sorrow."': KR-GS SROE TP-PL KR-GS
-'A': AEU
+'A': KPA*/AEU
 'hot': HOT
 'tear': TAER
 'rolled': ROLD
@@ -847,7 +847,7 @@ The Last Pearl
 'the': -T
 'rainbow.': RAEUPB/PWOE TP-PL
 'The': -T
-'angel': APBG/EL
+'angel': A*EPBLG
 'seized': SAOEZ/-D
 'it:': T STPH-FPLT
 'the': -T
@@ -872,7 +872,7 @@ The Last Pearl
 'wanting,': WAPBGT KW-BG
 'increases': EUPB/KRAOEFS
 'the': -T
-'lustre,': HRUS/TER KW-BG
+'lustre,': HRUS/TER/A*U KW-BG
 'and': SKP
 'explains': SPHRAEUPBS
 'the': -T
@@ -901,7 +901,7 @@ The Last Pearl
 'been': PW-PB
 'a': AEU
 'bridge': PWREUPBLG
-'built': PEULT
+'built': PWEULT
 'between': TWAOEPB
 'this': TH
 'world': WORLD

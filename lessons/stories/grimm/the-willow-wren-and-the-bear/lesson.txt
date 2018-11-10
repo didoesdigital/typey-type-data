@@ -16,14 +16,14 @@ The Willow-Wren and the Bear
 'and': SKP
 'the': -T
 'bear': PWAER
-'heard': HERD
+'heard': HAERD
 'a': AEU
 'bird': PWEURD
 'singing': SEUPBG/-G
 'so': SO
 'beautifully': PWAOUFL/HREU
 'that': THA
-'he': E
+'he': HE
 'said:': SAEUD STPH-FPLT
 ''Brother': AE PWROER
 'wolf,': WOFL KW-BG
@@ -54,11 +54,11 @@ The Willow-Wren and the Bear
 'reality': RAOELT
 'the': -T
 'bird': PWEURD
-'was': WA
+'was': WAS
 'the': -T
 'willow-wren.': WEUL/HROE H-PB WREPB TP-PL
 ''IF': AE TP
-'that's': TH-TS
+'that's': THATS
 'the': -T
 'case,'': KAEUS KW-BG AE
 'said': SAEUD
@@ -178,7 +178,7 @@ The Willow-Wren and the Bear
 'not': TPHOT
 'rest': REFT
 'until': TPH-L
-'he': E
+'he': HE
 'had': H
 'seen': SAOEPB
 'the': -T
@@ -204,7 +204,7 @@ The Willow-Wren and the Bear
 'flown': TPHROEPB
 'out,': OUT KW-BG
 'so': SO
-'he': E
+'he': HE
 'peeped': PAOEPD
 'in': TPH
 'and': SKP
@@ -233,7 +233,7 @@ The Willow-Wren and the Bear
 'you': U
 'are': R
 'not': TPHOT
-'King's': KEUPBG AE S*/SP-S
+'King's': KEUPBG AES
 'children,': KHEURPB KW-BG
 'you': U
 'are': R
@@ -243,7 +243,7 @@ The Willow-Wren and the Bear
 'the': -T
 'young': KWRUPBG
 'wrens': WREPB/-S
-'heard': HERD
+'heard': HAERD
 'that,': THA KW-BG
 'they': THE
 'were': WR
@@ -275,7 +275,7 @@ The Willow-Wren and the Bear
 'the': -T
 'wolf': WOFL
 'grew': TKPWRAOU
-'uneasy,': XXX uneasy KW-BG
+'uneasy,': UPB/EZ KW-BG
 'and': SKP
 'turned': TURPBD
 'back': PWABG
@@ -310,7 +310,7 @@ The Willow-Wren and the Bear
 'as': AZ
 'touch': TUFP
 'one': WUPB
-'fly's': TPHRAOEU AE S*/SP-S
+'fly's': TPHRAOEU AES
 'leg,': HREG KW-BG
 'no,': TPHO KW-BG
 'not': TPHOT
@@ -347,12 +347,12 @@ The Willow-Wren and the Bear
 'said:': SAEUD STPH-FPLT
 ''Be': AE -B
 'easy,': EZ KW-BG
-'he': E
+'he': HE
 'shall': SHAL
 'be': -B
 'punished,'': PUPBD KW-BG AE
 'and': SKP
-'he': E
+'he': HE
 'at': AT
 'once': WUPBS
 'flew': TPHRAOU
@@ -361,7 +361,7 @@ The Willow-Wren and the Bear
 'Queen': KWAOEPB
 'to': TO
 'the': -T
-'bear's': PWAER AE S*/SP-S
+'bear's': PWAER AES
 'cave,': KAF KW-BG
 'and': SKP
 'called': KAULD
@@ -388,7 +388,7 @@ The Willow-Wren and the Bear
 'war.'': WAR TP-PL AE
 'Thus': THUS
 'war': WAR
-'was': WA
+'was': WAS
 'announced': A/TPHOUPBS/-D
 'to': TO
 'the': -T
@@ -430,7 +430,7 @@ The Willow-Wren and the Bear
 'birds,': PWEURDZ KW-BG
 'large': HRARPBLG
 'and': SKP
-'small,': SPAUL KW-BG
+'small,': SPHAL KW-BG
 'but': PWUT
 'midges,': PHEUPBLG/-S KW-BG
 'and': SKP
@@ -458,14 +458,14 @@ The Willow-Wren and the Bear
 'to': TO
 'discover': SKOFR
 'who': WHO
-'was': WA
+'was': WAS
 'the': -T
-'enemy's': EPB/PHEU AE S*/SP-S
+'enemy's': EPB/PHEU/AES
 'commander-in-chief.': KPHAPB/TKER H-PB TPH H-PB KHAOEF TP-PL
 'The': -T
 'gnat,': TPHA*T KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'the': -T
 'most': PHOFT
 'crafty,': KRAF/TEU KW-BG
@@ -476,7 +476,7 @@ The Willow-Wren and the Bear
 'where': W-R
 'the': -T
 'enemy': EPB/PHEU
-'was': WA
+'was': WAS
 'assembled,': A/SEPL/-BLD KW-BG
 'and': SKP
 'hid': HEUD
@@ -490,7 +490,7 @@ The Willow-Wren and the Bear
 'where': W-R
 'the': -T
 'password': PAS/WORD
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'announced.': A/TPHOUPBS/-D TP-PL
@@ -499,7 +499,7 @@ The Willow-Wren and the Bear
 'the': -T
 'bear,': PWAER KW-BG
 'and': SKP
-'he': E
+'he': HE
 'called': KAULD
 'the': -T
 'fox': TPOBGS
@@ -547,11 +547,11 @@ The Willow-Wren and the Bear
 'a': AEU
 'fine': TPAOEUPB
 'long': HROPBG
-'bushy': PWURB/SHEU
+'bushy': PWURB/KWREU
 'tail,': TAEUL KW-BG
 'which': WEU
 'almost': HR-PL
-'looks': HAOBGS
+'looks': HRAOBGS
 'like': HRAOEUBG
 'a': AEU
 'plume': PHRAOUPL
@@ -573,7 +573,7 @@ The Willow-Wren and the Bear
 'and': SKP
 'you': U
 'must': PHUFT
-'charge;': KH STPH*FPLT
+'charge;': KHARPBLG STPH*FPLT
 'but': PWUT
 'if': TP
 'I': EU
@@ -592,7 +592,7 @@ The Willow-Wren and the Bear
 'the': -T
 'gnat': TPHA*T
 'had': H
-'heard': HERD
+'heard': HAERD
 'that,': THA KW-BG
 'she': SHE
 'flew': TPHRAOU
@@ -604,7 +604,7 @@ The Willow-Wren and the Bear
 'down': TKOUPB
 'to': TO
 'the': -T
-'minutest': XXX minutest
+'minutest': xxx minutest
 'detail,': TKE/TAEUL KW-BG
 'to': TO
 'the': -T
@@ -615,7 +615,7 @@ The Willow-Wren and the Bear
 'and': SKP
 'the': -T
 'battle': PWA*LT
-'was': WA
+'was': WAS
 'to': TO
 'begin,': TKPWEUPB KW-BG
 'all': AUL
@@ -655,8 +655,8 @@ The Willow-Wren and the Bear
 'that': THA
 'every': EF
 'one': WUPB
-'was': WA
-'uneasy': XXX uneasy
+'was': WAS
+'uneasy': UPB/EZ
 'and': SKP
 'afraid,': A/TPRAEUD KW-BG
 'and': SKP
@@ -681,7 +681,7 @@ The Willow-Wren and the Bear
 'settle': S*ELT
 'beneath': TPHAO*ET
 'the': -T
-'fox's': TPOBGS AE S*/SP-S
+'fox's': TPOBGS AES
 'tail,': TAEUL KW-BG
 'and': SKP
 'sting': STEUPBG
@@ -694,20 +694,20 @@ The Willow-Wren and the Bear
 'fox': TPOBGS
 'felt': TPELT
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'string,': STREUPBG KW-BG
-'he': E
+'he': HE
 'started': STARTD
 'so': SO
 'that': THA
-'he': E
+'he': HE
 'lifted': HREUFTD
 'one': WUPB
 'leg,': HREG KW-BG
 'from': TPR
 'pain,': PAEUPB KW-BG
 'but': PWUT
-'he': E
+'he': HE
 'bore': PWOR
 'it,': T KW-BG
 'and': SKP
@@ -723,8 +723,8 @@ The Willow-Wren and the Bear
 'the': -T
 'second': SEBGD
 'sting,': STEUPBG KW-BG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'forced': TPOFRD
 'to': TO
 'put': PUT
@@ -736,7 +736,7 @@ The Willow-Wren and the Bear
 'at': AT
 'the': -T
 'third,': THEURD KW-BG
-'he': E
+'he': HE
 'could': KO
 'hold': HOLD
 'out': OUT
@@ -758,7 +758,7 @@ The Willow-Wren and the Bear
 'they': THE
 'thought': THAUT
 'all': AUL
-'was': WA
+'was': WAS
 'lost,': HRO*S KW-BG
 'and': SKP
 'began': TKPWAPB
@@ -794,7 +794,7 @@ The Willow-Wren and the Bear
 'drink': TKREU
 'to': TO
 'your': KWROUR
-'heart's': HART AE S*/SP-S
+'heart's': HART AES
 'content,': KAUPBT KW-BG
 'we': WE
 'have': SR
@@ -827,7 +827,7 @@ The Willow-Wren and the Bear
 'that': THA
 'we': WE
 'are': R
-'honourable': HOPB/RABL
+'honourable': HO*UPB/RABL
 'children,': KHEURPB KW-BG
 'before': PW-F
 'we': WE
@@ -840,7 +840,7 @@ The Willow-Wren and the Bear
 'flew': TPHRAOU
 'to': TO
 'the': -T
-'bear's': PWAER AE S*/SP-S
+'bear's': PWAER AES
 'hole': HOEL
 'and': SKP
 'cried:': KRAOEUD STPH-FPLT

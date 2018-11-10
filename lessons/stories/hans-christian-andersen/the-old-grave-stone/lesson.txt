@@ -36,7 +36,7 @@ The Old Grave-Stone
 'their': THAEUR
 'old': OLD
 'home.': HOEPL TP-PL
-'A': AEU
+'A': KPA*/AEU
 'lamp': HRAFRP
 'burned': PWURPBD
 'on': OPB
@@ -45,7 +45,7 @@ The Old Grave-Stone
 'although': HR*T
 'the': -T
 'weather': WHR*
-'was': WA
+'was': WAS
 'mild': PHAOEULD
 'and': SKP
 'warm,': WARPL KW-BG
@@ -127,7 +127,7 @@ The Old Grave-Stone
 'on': OPB
 'it.': T TP-PL
 'It': T
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'in': TPH
 'fact,': TPABGT KW-BG
 'an': APB
@@ -156,7 +156,7 @@ The Old Grave-Stone
 'the': -T
 'convent': KOPB/SREPBT
 'which': WEU
-'was': WA
+'was': WAS
 'pulled': PULD
 'down,': TKOUPB KW-BG
 'and': SKP
@@ -188,7 +188,7 @@ The Old Grave-Stone
 'that': THA
 'one': WUPB
 'stone': STOEPB
-'was': WA
+'was': WAS
 'preserved': PREFBD
 'whole,': WHOEL KW-BG
 'and': SKP
@@ -223,7 +223,7 @@ The Old Grave-Stone
 'figure': TPEUG
 'of': -F
 'an': APB
-'angel': APBG/EL
+'angel': A*EPBLG
 'can': K
 'still': STEUL
 'be': -B
@@ -239,11 +239,11 @@ The Old Grave-Stone
 'excepting': KPEPT/-G
 'the': -T
 'name': TPHAEUPL
-''Preben,'': AE XXX Preben KW-BG AE
+''Preben,'': AE xxx Preben KW-BG AE
 'and': SKP
 'a': AEU
 'large': HRARPBLG
-''S'': AE S*/SP-S AE
+''S'': AE S*P AE
 'close': KHROES
 'by': PWEU
 'it,': T KW-BG
@@ -292,8 +292,8 @@ The Old Grave-Stone
 'the': -T
 'grave-stone': TKPWRAEUF H-PB STOEPB
 'of': -F
-'Preben': XXX Preben
-'Schwane': XXX Schwane
+'Preben': xxx Preben
+'Schwane': xxx Schwane
 'and': SKP
 'his': HEUS
 'wife."': WAOEUF TP-PL KR-GS
@@ -317,7 +317,7 @@ The Old Grave-Stone
 'the': -T
 'room.': RAOPL TP-PL
 '"Yes,"': KR-GS KWRE KW-BG KR-GS
-'he': E
+'he': HE
 'continued,': T-PBD KW-BG
 '"these': KR-GS THEZ
 'people': PAOEPL
@@ -339,7 +339,7 @@ The Old Grave-Stone
 'were': WR
 'a': AEU
 'very': SRE
-'worthy': WOR/TH*EU
+'worthy': WO*RT/KWREU
 'old': OLD
 'couple,': KUPL KW-BG
 'I': EU
@@ -383,7 +383,7 @@ The Old Grave-Stone
 'yet': KWRET
 'they': THE
 'were': WR
-'always': AULZ
+'always': AULS
 'very': SRE
 'plainly': PHRAEUPBL
 'dressed,': TKREFD KW-BG
@@ -398,7 +398,7 @@ The Old Grave-Stone
 'the': -T
 'purest': PAOUR/EFT
 'whiteness.': WHAOEUT/-PBS TP-PL
-'Preben': XXX Preben
+'Preben': xxx Preben
 'and': SKP
 'Martha': PHAR/THA
 'were': WR
@@ -432,7 +432,7 @@ The Old Grave-Stone
 'branches': PWRAFPBS
 'of': -F
 'the': -T
-'linden-tree': XXX linden H-PB TRAOE
+'linden-tree': xxx linden H-PB TRAOE
 'waving': WAFG
 'above': PWOF
 'them,': THEPL KW-BG
@@ -447,7 +447,7 @@ The Old Grave-Stone
 'passers': PASZ/ERS
 'by,': PWEU KW-BG
 'it': T
-'really': HROERL
+'really': R-L
 'made': PHAED
 'one': WUPB
 'feel': TPAOEL
@@ -471,7 +471,7 @@ The Old Grave-Stone
 'their': THAEUR
 'benevolence': PWEPBL/SREPBS
 'there': THR
-'was': WA
+'was': WAS
 'judgment': SKWRUPLT
 'as': AZ
 'well': WEL
@@ -482,7 +482,7 @@ The Old Grave-Stone
 'old': OLD
 'woman': WOPL
 'died': TKAOEUD
-'first;': TPEURS STPH*FPLT
+'first;': TPEUFRT STPH*FPLT
 'that': THA
 'day': TKAEU
 'is': S
@@ -493,7 +493,7 @@ The Old Grave-Stone
 'my': PHEU
 'eyes.': AO*EUS TP-PL
 'I': EU
-'was': WA
+'was': WAS
 'a': AEU
 'little': HREUL
 'boy,': PWOEU KW-BG
@@ -505,11 +505,11 @@ The Old Grave-Stone
 'to': TO
 'the': -T
 'old': OLD
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'house.': HOUS TP-PL
 'Martha': PHAR/THA
 'had': H
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'into': TPHAO
 'the': -T
 'sleep': SHRAOEP
@@ -538,7 +538,7 @@ The Old Grave-Stone
 'the': -T
 'old': OLD
 'man': PHAPB
-'was': WA
+'was': WAS
 'in': TPH
 'great': TKPWRAET
 'distress': STKRES
@@ -547,7 +547,7 @@ The Old Grave-Stone
 'like': HRAOEUBG
 'a': AEU
 'child.': KHAOEULD TP-PL
-'He': E
+'He': HE
 'spoke': SPOEBG
 'to': TO
 'my': PHEU
@@ -563,12 +563,12 @@ The Old Grave-Stone
 'of': -F
 'how': HOU
 'lonely': HROPBL
-'he': E
+'he': HE
 'should': SHO
 'feel': TPAOEL
 'now': TPHOU
 'she': SHE
-'was': WA
+'was': WAS
 'gone,': TKPWOPB KW-BG
 'and': SKP
 'how': HOU
@@ -600,13 +600,13 @@ The Old Grave-Stone
 'become': PW-BG
 'acquainted,': A/KWAEUPBTD KW-BG
 'and': SKP
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'to': TO
 'love': HRUF
 'each': AOEFP
 'other.': OER TP-PL
 'I': EU
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'as': AZ
 'I': EU
 'have': SR
@@ -649,37 +649,37 @@ The Old Grave-Stone
 'his': HEUS
 'cheeks': KHAOEBGS
 'as': AZ
-'he': E
+'he': HE
 'spoke': SPOEBG
 'of': -F
 'the': -T
 'days': TKAEUS
 'of': -F
 'their': THAEUR
-'courtship,': XXX courtship KW-BG
+'courtship,': xxx courtship KW-BG
 'of': -F
 'how': HOU
 'beautiful': PWAOUFL
 'she': SHE
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'and': SKP
 'how': HOU
 'many': PHAEPB
 'little': HREUL
 'tricks': TREUBGS
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'guilty': TKPW-LT
 'of,': -F KW-BG
 'that': THA
-'he': E
+'he': HE
 'might': PHAOEUT
 'meet': PHAOET
 'her.': HER TP-PL
 'And': SKP
 'then': THEPB
-'he': E
+'he': HE
 'talked': TAUBGD
 'of': -F
 'his': HEUS
@@ -687,9 +687,9 @@ The Old Grave-Stone
 'and': SKP
 'his': HEUS
 'eyes': AO*EUS
-'brightened,': XXX brightened KW-BG
+'brightened,': xxx brightened KW-BG
 'and': SKP
-'he': E
+'he': HE
 'seemed': SAOEPLD
 'to': TO
 'be': -B
@@ -706,7 +706,7 @@ The Old Grave-Stone
 'yet': KWRET
 'there': THR
 'she': SHE
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'lying': HRAOEUG
 'in': TPH
 'the': -T
@@ -716,8 +716,8 @@ The Old Grave-Stone
 'old': OLD
 'woman,': WOPL KW-BG
 'and': SKP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'an': APB
 'old': OLD
 'man,': PHAPB KW-BG
@@ -737,7 +737,7 @@ The Old Grave-Stone
 'is;': S STPH*FPLT
 'then': THEPB
 'I': EU
-'was': WA
+'was': WAS
 'but': PWUT
 'a': AEU
 'child,': KHAOEULD KW-BG
@@ -749,10 +749,10 @@ The Old Grave-Stone
 'as': AZ
 'old': OLD
 'as': AZ
-'Preben': XXX Preben
-'Schwane': XXX Schwane
+'Preben': xxx Preben
+'Schwane': xxx Schwane
 'then': THEPB
-'was.': WA TP-PL
+'was.': WAS TP-PL
 'Time': TAOEUPL
 'passes': PA*FS
 'away,': A/WAEU KW-BG
@@ -770,18 +770,18 @@ The Old Grave-Stone
 'on': OPB
 'which': WEU
 'she': SHE
-'was': WA
+'was': WAS
 'buried,': PWUR/EUD KW-BG
 'and': SKP
 'how': HOU
 'Old': OLD
-'Preben': XXX Preben
+'Preben': xxx Preben
 'walked': WAUBGD
 'close': KHROES
 'behind': HEUPBD
 'the': -T
 'coffin.': KOFPB TP-PL
-'"A': KR-GS AEU
+'"A': KR-GS KPA*/AEU
 'few': TPAOU
 'years': KWRAOERS
 'before': PW-F
@@ -807,10 +807,10 @@ The Old Grave-Stone
 'date.': TKAEUT TP-PL
 'In': TPH
 'the': -T
-'evening': AOEPG
+'evening': AOEPBG
 'the': -T
 'stone': STOEPB
-'was': WA
+'was': WAS
 'taken': TAEPB
 'to': TO
 'the': -T
@@ -820,16 +820,16 @@ The Old Grave-Stone
 'on': OPB
 'the': -T
 'grave.': TKPWRAEUF TP-PL
-'A': AEU
+'A': KPA*/AEU
 'year': KWRAOER
 'later': HRAEURT
 'it': T
-'was': WA
+'was': WAS
 'taken': TAEPB
 'up,': UP KW-BG
 'that': THA
 'Old': OLD
-'Preben': XXX Preben
+'Preben': xxx Preben
 'might': PHAOEUT
 'be': -B
 'laid': HRAEUD
@@ -860,7 +860,7 @@ The Old Grave-Stone
 'possessed;': POS/ES/-D STPH*FPLT
 'what': WHA
 'there': THR
-'was': WA
+'was': WAS
 'went': WEPBT
 'to': TO
 'families': TPAEPLS
@@ -876,7 +876,7 @@ The Old Grave-Stone
 'one': WUPB
 'had': H
 'ever': -FR
-'heard.': HERD TP-PL
+'heard.': HAERD TP-PL
 'The': -T
 'old': OLD
 'house,': HOUS KW-BG
@@ -884,7 +884,7 @@ The Old Grave-Stone
 'its': EUTS
 'balcony': PWAL/KOEPB
 'of': -F
-'wickerwork,': XXX wickerwork KW-BG
+'wickerwork,': xxx wickerwork KW-BG
 'and': SKP
 'the': -T
 'bench': PWEFRPB
@@ -898,7 +898,7 @@ The Old Grave-Stone
 'under': *UPBD
 'the': -T
 'lime-tree,': HRAOEUPL H-PB TRAOE KW-BG
-'was': WA
+'was': WAS
 'considered,': KR-D KW-BG
 'by': PWEU
 'the': -T
@@ -916,25 +916,25 @@ The Old Grave-Stone
 'the': -T
 'same': SAEUPL
 'fate': TPAEUT
-'befell': XXX befell
+'befell': PWE/TPEL
 'the': -T
 'convent': KOPB/SREPBT
 'church,': KHUFRPB KW-BG
 'and': SKP
 'the': -T
 'graveyard': TKPWRAEUF/KWRARD
-'was': WA
+'was': WAS
 'destroyed,': TKROEUD KW-BG
 'the': -T
 'grave-stone': TKPWRAEUF H-PB STOEPB
 'of': -F
-'Preben': XXX Preben
+'Preben': xxx Preben
 'and': SKP
 'Martha,': PHAR/THA KW-BG
 'like': HRAOEUBG
 'everything': EFG
 'else,': ELS KW-BG
-'was': WA
+'was': WAS
 'sold': SOELD
 'to': TO
 'whoever': WHOFR
@@ -948,7 +948,7 @@ The Old Grave-Stone
 'that': THA
 'this': TH
 'stone': STOEPB
-'was': WA
+'was': WAS
 'not': TPHOT
 'cut': KUT
 'in': TPH
@@ -988,7 +988,7 @@ The Old Grave-Stone
 'place': PHRAEUS
 'of': -F
 'Old': OLD
-'Preben': XXX Preben
+'Preben': xxx Preben
 'and': SKP
 'his': HEUS
 'wife;': WAOEUF STPH*FPLT
@@ -1044,7 +1044,7 @@ The Old Grave-Stone
 'large,': HRARPBLG KW-BG
 'earnest': ERPB/EFT
 'eyes,': AO*EUS KW-BG
-'mounted': PHOUPBT/-D
+'mounted': PHOUPBTD
 'upon': POPB
 'a': AEU
 'chair': KHAEUR
@@ -1061,7 +1061,7 @@ The Old Grave-Stone
 'where': W-R
 'the': -T
 'moon': PHAOPB
-'was': WA
+'was': WAS
 'pouring': PORG
 'a': AEU
 'flood': TPHRAOD
@@ -1074,7 +1074,7 @@ The Old Grave-Stone
 'stone': STOEPB
 'that': THA
 'had': H
-'always': AULZ
+'always': AULS
 'appeared': A/PAOERD
 'to': TO
 'him': HEUPL
@@ -1102,10 +1102,10 @@ The Old Grave-Stone
 'the': -T
 'boy': PWOEU
 'had': H
-'heard': HERD
+'heard': HAERD
 'of': -F
 'Old': OLD
-'Preben': XXX Preben
+'Preben': xxx Preben
 'and': SKP
 'his': HEUS
 'wife': WAOEUF
@@ -1117,7 +1117,7 @@ The Old Grave-Stone
 'stone,': STOEPB KW-BG
 'and': SKP
 'as': AZ
-'he': E
+'he': HE
 'gazed': TKPWAEZ/-D
 'on': OPB
 'it,': T KW-BG
@@ -1134,13 +1134,13 @@ The Old Grave-Stone
 'pure': PAOUR
 'air,': AEUR KW-BG
 'it': T
-'was': WA
+'was': WAS
 'as': AZ
 'if': TP
 'the': -T
 'light': HRAOEUT
 'of': -F
-'God's': TKPWOD AE S*/SP-S
+'God's': TKPWOD AES
 'countenance': KOUPBT/TPHAPBS
 'beamed': PWAEPL/-D
 'over': OEFR
@@ -1270,7 +1270,7 @@ The Old Grave-Stone
 'forgotten,': TPORGTD KW-BG
 'they': THE
 'live': HREUF
-'always': AULZ
+'always': AULS
 'in': TPH
 'story': STOER
 'or': OR

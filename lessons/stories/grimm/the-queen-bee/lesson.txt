@@ -38,7 +38,7 @@ The Queen Bee
 'their': THAEUR
 'brother,': PWROER KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'a': AEU
 'little': HREUL
 'insignificant': EUPB/SEUG
@@ -52,7 +52,7 @@ The Queen Bee
 'brothers:': PWROERS STPH-FPLT
 'but': PWUT
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'found': TPOUPBD
 'them': THEPL
@@ -64,9 +64,9 @@ The Queen Bee
 'to': TO
 'think': THEU
 'that': THA
-'he,': E KW-BG
+'he,': HE KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'so': SO
 'young': KWRUPBG
 'and': SKP
@@ -207,7 +207,7 @@ The Queen Bee
 'tree,': TRAOE KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'so': SO
 'much': PHUFP
 'honey': HUPB/KWREU
@@ -278,7 +278,7 @@ The Queen Bee
 'they': THE
 'saw': SAU
 'fine': TPAOEUPB
-'horses': HORS/-S
+'horses': HORSZ
 'standing': STAPBG
 'there,': THR KW-BG
 'but': PWUT
@@ -289,7 +289,7 @@ The Queen Bee
 'and': SKP
 'no': TPHO
 'man': PHAPB
-'was': WA
+'was': WAS
 'to': TO
 'be': -B
 'seen.': SAOEPB TP-PL
@@ -310,7 +310,7 @@ The Queen Bee
 'which': WEU
 'were': WR
 'three': THRAOE
-'locks:': HROBG/-S STPH-FPLT
+'locks:': HROBGZ STPH-FPLT
 'but': PWUT
 'in': TPH
 'the': -T
@@ -318,7 +318,7 @@ The Queen Bee
 'of': -F
 'the': -T
 'door': TKAOR
-'was': WA
+'was': WAS
 'a': AEU
 'wicket,': WEUBGT KW-BG
 'so': SO
@@ -335,10 +335,10 @@ The Queen Bee
 'saw': SAU
 'a': AEU
 'little': HREUL
-'grey': TKPRAEU
+'grey': TKPWRA*EU
 'old': OLD
 'man': PHAPB
-'sitting': SAO*EGT
+'sitting': SEUGT
 'at': AT
 'a': AEU
 'table;': TAEUBL STPH*FPLT
@@ -351,7 +351,7 @@ The Queen Bee
 'or': OR
 'twice,': TWAOEUS KW-BG
 'but': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'hear:': HAER STPH-FPLT
@@ -363,14 +363,14 @@ The Queen Bee
 'time,': TAOEUPL KW-BG
 'and': SKP
 'then': THEPB
-'he': E
+'he': HE
 'rose': ROEZ
 'and': SKP
 'came': KAEUPL
 'out': OUT
 'to': TO
 'them.': THEPL TP-PL
-'He': E
+'He': HE
 'said': SAEUD
 'nothing,': TPHOG KW-BG
 'but': PWUT
@@ -399,7 +399,7 @@ The Queen Bee
 'eaten': AOET/EPB
 'and': SKP
 'drunk,': TKR*UPBG KW-BG
-'he': E
+'he': HE
 'showed': SHOED
 'each': AOEFP
 'of': -F
@@ -410,7 +410,7 @@ The Queen Bee
 'The': -T
 'next': TPHEGT
 'morning': PHORPBG
-'he': E
+'he': HE
 'came': KAEUPL
 'to': TO
 'the': -T
@@ -441,7 +441,7 @@ The Queen Bee
 'be': -B
 'disenchanted.': TKEUS/EPB/KHAPBT/-D TP-PL
 'The': -T
-'first': TPEURS
+'first': TPEUFRT
 'tablet': TABLT
 'said:': SAEUD STPH-FPLT
 ''In': AE TPH
@@ -452,12 +452,12 @@ The Queen Bee
 'moss,': PHOS KW-BG
 'lie': HRAOEU
 'the': -T
-'thousand': THOUZ
+'thousand': THOEUPB
 'pearls': PERLS
 'belonging': PWAOE/HROPBG/-G
 'to': TO
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'daughter;': TKAUR STPH*FPLT
 'they': THE
 'must': PHUFT
@@ -473,7 +473,7 @@ The Queen Bee
 'set': SET
 'of': -F
 'sun,': SUPB KW-BG
-'he': E
+'he': HE
 'who': WHO
 'seeks': SAOEBGS
 'them': THEPL
@@ -497,19 +497,19 @@ The Queen Bee
 'day:': TKAEU STPH-FPLT
 'but': PWUT
 'the': -T
-'evening': AOEPG
+'evening': AOEPBG
 'came,': KAEUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'had': H
 'not': TPHOT
 'found': TPOUPBD
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'hundred:': HUPBD STPH-FPLT
 'so': SO
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'turned': TURPBD
 'into': TPHAO
 'stone': STOEPB
@@ -528,15 +528,15 @@ The Queen Bee
 'the': -T
 'task;': TAFBG STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'succeeded': SUBG/SAOED/-D
 'no': TPHO
 'better': PWOERT
 'than': THAPB
 'the': -T
-'first;': TPEURS STPH*FPLT
+'first;': TPEUFRT STPH*FPLT
 'for': TPOR
-'he': E
+'he': HE
 'could': KO
 'only': OEPBL
 'find': TPEUPBD
@@ -548,9 +548,9 @@ The Queen Bee
 'pearls;': PERLS STPH*FPLT
 'and': SKP
 'therefore': TH-FR
-'he': E
+'he': HE
 'too': TAO
-'was': WA
+'was': WAS
 'turned': TURPBD
 'into': TPHAO
 'stone.': STOEPB TP-PL
@@ -559,17 +559,17 @@ The Queen Bee
 'came': KAEUPL
 'the': -T
 'little': HREUL
-'dwarf's': TKWAFR AE S*/SP-S
+'dwarf's': TKWAFR AES
 'turn;': TURPB STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'looked': HRAOBGD
 'in': TPH
 'the': -T
 'moss;': PHOS STPH*FPLT
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'so': SO
 'hard': HARD
 'to': TO
@@ -579,10 +579,10 @@ The Queen Bee
 'and': SKP
 'the': -T
 'job': SKWROB
-'was': WA
+'was': WAS
 'so': SO
 'tiresome!--so': TAOEUR/SO*PL SKHRAPL H-PB H-PB SO
-'he': E
+'he': HE
 'sat': SAT
 'down': TKOUPB
 'upon': POPB
@@ -592,7 +592,7 @@ The Queen Bee
 'cried.': KRAOEUD TP-PL
 'And': SKP
 'as': AZ
-'he': E
+'he': HE
 'sat': SAT
 'there,': THR KW-BG
 'the': -T
@@ -602,7 +602,7 @@ The Queen Bee
 'ants': A*PBT/-S
 '(whose': PREPB WHOZ
 'life': HRAOEUF
-'he': E
+'he': HE
 'had': H
 'saved)': SAFD PR*EPB
 'came': KAEUPL
@@ -611,11 +611,11 @@ The Queen Bee
 'him,': HEUPL KW-BG
 'with': W
 'five': TPEUF
-'thousand': THOUZ
+'thousand': THOEUPB
 'ants;': A*PBT/-S STPH*FPLT
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'long': HROPBG
 'before': PW-F
@@ -639,7 +639,7 @@ The Queen Bee
 'key': KAOE
 'of': -F
 'the': -T
-'princess's': PREUPB/ES AE S*/SP-S
+'princess's': PREUPB/ES AES
 'bed-chamber': PWED H-PB KHAEURPL
 'must': PHUFT
 'be': -B
@@ -659,14 +659,14 @@ The Queen Bee
 'brink': PWR*EUPBG
 'of': -F
 'it,': T KW-BG
-'he': E
+'he': HE
 'saw': SAU
 'the': -T
 'two': TWO
 'ducks': TKUBGZ
 'whose': WHOZ
 'lives': HREUFS
-'he': E
+'he': HE
 'had': H
 'saved': SAFD
 'swimming': SWEUPLG
@@ -687,11 +687,11 @@ The Queen Bee
 'The': -T
 'third': THEURD
 'task': TAFBG
-'was': WA
+'was': WAS
 'the': -T
 'hardest.': HARD/EFT TP-PL
 'It': T
-'was': WA
+'was': WAS
 'to': TO
 'choose': KHAOS
 'out': OUT
@@ -702,7 +702,7 @@ The Queen Bee
 'best': PWEFT
 'of': -F
 'the': -T
-'king's': KEUPBG AE S*/SP-S
+'king's': KEUPBG/AES
 'three': THRAOE
 'daughters.': TKAURS TP-PL
 'Now': TPHOU
@@ -715,8 +715,8 @@ The Queen Bee
 'exactly': ELG
 'alike:': A/HRAOEUBG STPH-FPLT
 'but': PWUT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'told': TOLD
 'that': THA
 'the': -T
@@ -736,17 +736,17 @@ The Queen Bee
 'the': -T
 'youngest': KWRUPBG/EFT
 'a': AEU
-'spoonful': XXX spoonful
+'spoonful': xxx spoonful
 'of': -F
 'honey;': HUPB/KWREU STPH*FPLT
 'so': SO
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'to': TO
-'guess': TKWES
+'guess': TKPWES
 'which': WEU
 'it': T
-'was': WA
+'was': WAS
 'that': THA
 'had': H
 'eaten': AOET/EPB
@@ -800,13 +800,13 @@ The Queen Bee
 'dwarf': TKWAFR
 'knew': TPHAOU
 'which': WEU
-'was': WA
+'was': WAS
 'the': -T
 'youngest.': KWRUPBG/EFT TP-PL
 'Thus': THUS
 'the': -T
 'spell': SPEL
-'was': WA
+'was': WAS
 'broken,': PWROEPB KW-BG
 'and': SKP
 'all': AUL
@@ -835,11 +835,11 @@ The Queen Bee
 'the': -T
 'princesses,': PREUPB/ES/-S KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'king': KEUPBG
 'after': AF
 'her': HER
-'father's': TPAER AE S*/SP-S
+'father's': TPA*ER/AES
 'death;': TK*T STPH*FPLT
 'but': PWUT
 'his': HEUS

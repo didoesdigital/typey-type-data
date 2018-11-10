@@ -1,8 +1,8 @@
 The Little Match-Seller
 
 'It': T
-'was': WA
-'terribly': TER/PWHREU
+'was': WAS
+'terribly': TERBL/HREU
 'cold': KOELD
 'and': SKP
 'nearly': TPHAOERL
@@ -10,7 +10,7 @@ The Little Match-Seller
 'on': OPB
 'the': -T
 'last': HRAFT
-'evening': AOEPG
+'evening': AOEPBG
 'of': -F
 'the': -T
 'old': OLD
@@ -18,7 +18,7 @@ The Little Match-Seller
 'and': SKP
 'the': -T
 'snow': STPHOE
-'was': WA
+'was': WAS
 'falling': TPAULG
 'fast.': TPAFT TP-PL
 'In': TPH
@@ -123,15 +123,15 @@ The Little Match-Seller
 'it,': T KW-BG
 'saying': SAEUG
 'that': THA
-'he': E
+'he': HE
 'could': KO
 'use': AOUS
 'it': T
 'as': AZ
 'a': AEU
-'cradle,': KRAEUD/-L KW-BG
+'cradle,': KRAEUD/*L KW-BG
 'when': WHEPB
-'he': E
+'he': HE
 'had': H
 'children': KHEURPB
 'of': -F
@@ -240,7 +240,7 @@ The Little Match-Seller
 'window,': WOEUPBD KW-BG
 'and': SKP
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'savory': SAEUFR/REU
 'smell': SPHEL
@@ -249,8 +249,8 @@ The Little Match-Seller
 'goose,': TKPWAOS KW-BG
 'for': TPOR
 'it': T
-'was': WA
-'New-year's': TPHU H-PB KWRAOER AE S*/SP-S
+'was': WAS
+'New-year's': TPHU H-PB KWRAOER AES
 'eve—yes,': AOEF EPL/TKA*RB KWRE KW-BG
 'she': SHE
 'remembered': RERD
@@ -321,7 +321,7 @@ The Little Match-Seller
 'her;': HER STPH*FPLT
 'besides,': PW-DZ KW-BG
 'it': T
-'was': WA
+'was': WAS
 'almost': HR-PL
 'as': AZ
 'cold': KOELD
@@ -345,7 +345,7 @@ The Little Match-Seller
 'howled,': HOUL/-D KW-BG
 'although': HR*T
 'the': -T
-'largest': HRARPBL/EFT
+'largest': HRARPBLG/EFT
 'holes': HOELS
 'had': H
 'been': PW-PB
@@ -420,8 +420,8 @@ The Little Match-Seller
 'over': OEFR
 'it.': T TP-PL
 'It': T
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'a': AEU
 'wonderful': WUFL
 'light.': HRAOEUT TP-PL
@@ -433,8 +433,8 @@ The Little Match-Seller
 'girl': TKPWEURL
 'that': THA
 'she': SHE
-'was': WA
-'sitting': SAO*EGT
+'was': WAS
+'sitting': SEUGT
 'by': PWEU
 'a': AEU
 'large': HRARPBLG
@@ -530,7 +530,7 @@ The Little Match-Seller
 'room.': RAOPL TP-PL
 'The': -T
 'table': TAEUBL
-'was': WA
+'was': WAS
 'covered': KOFRD
 'with': W
 'a': AEU
@@ -557,7 +557,7 @@ The Little Match-Seller
 'plums.': PHR*UPL/-S TP-PL
 'And': SKP
 'what': WHA
-'was': WA
+'was': WAS
 'still': STEUL
 'more': PHOR
 'wonderful,': WUFL KW-BG
@@ -611,13 +611,13 @@ The Little Match-Seller
 'she': SHE
 'found': TPOUPBD
 'herself': H*ERS
-'sitting': SAO*EGT
+'sitting': SEUGT
 'under': *UPBD
 'a': AEU
 'beautiful': PWAOUFL
 'Christmas-tree.': KREUS/PHAS H-PB TRAOE TP-PL
 'It': T
-'was': WA
+'was': WAS
 'larger': HRARPBLG/ER
 'and': SKP
 'more': PHOR
@@ -637,7 +637,7 @@ The Little Match-Seller
 'at': AT
 'the': -T
 'rich': REUFP
-'merchant's.': PHEFRPBT AE S*/SP-S TP-PL
+'merchant's.': PHEFRPBT AE S* TP-PL
 'Thousands': THOEUPBS
 'of': -F
 'tapers': TAEURPS
@@ -700,7 +700,7 @@ The Little Match-Seller
 'saw': SAU
 'a': AEU
 'star': STAR
-'fall,': TPAL KW-BG
+'fall,': TPAUL KW-BG
 'leaving': HREFG
 'behind': HEUPBD
 'it': T
@@ -731,7 +731,7 @@ The Little Match-Seller
 'her,': HER KW-BG
 'and': SKP
 'who': WHO
-'was': WA
+'was': WAS
 'now': TPHOU
 'dead,': TKED KW-BG
 'had': H
@@ -744,7 +744,7 @@ The Little Match-Seller
 'falls,': TPAULZ KW-BG
 'a': AEU
 'soul': SOUL
-'was': WA
+'was': WAS
 'going': TKPW-G
 'up': UP
 'to': TO
@@ -765,7 +765,7 @@ The Little Match-Seller
 'her;': HER STPH*FPLT
 'in': TPH
 'the': -T
-'brightness': XXX brightness
+'brightness': PWRAOEUT/-PBS
 'stood': STAOD
 'her': HER
 'old': OLD
@@ -785,7 +785,7 @@ The Little Match-Seller
 'the': -T
 'little': HREUL
 'one,': WUPB KW-BG
-'"O': KR-GS O*/SP-S
+'"O': KR-GS O*P
 'take': TAEUBG
 'me': PHE
 'with': W
@@ -843,7 +843,7 @@ The Little Match-Seller
 'a': AEU
 'light': HRAOEUT
 'that': THA
-'was': WA
+'was': WAS
 'brighter': PWRAOEURT
 'than': THAPB
 'the': -T
@@ -873,7 +873,7 @@ The Little Match-Seller
 'flew': TPHRAOU
 'upwards': UP/WARDZ
 'in': TPH
-'brightness': XXX brightness
+'brightness': PWRAOEUT/-PBS
 'and': SKP
 'joy': SKWROEU
 'far': TPAR
@@ -882,7 +882,7 @@ The Little Match-Seller
 'earth,': *ERT KW-BG
 'where': W-R
 'there': THR
-'was': WA
+'was': WAS
 'neither': TPHAOERT
 'cold': KOELD
 'nor': TPH-R
@@ -924,13 +924,13 @@ The Little Match-Seller
 'on': OPB
 'the': -T
 'last': HRAFT
-'evening': AOEPG
+'evening': AOEPBG
 'of': -F
 'the': -T
 'year;': KWRAOER STPH*FPLT
 'and': SKP
 'the': -T
-'New-year's': TPHU H-PB KWRAOER AE S*/SP-S
+'New-year's': TPHU H-PB KWRAOER AES
 'sun': SUPB
 'rose': ROEZ
 'and': SKP
@@ -958,7 +958,7 @@ The Little Match-Seller
 'bundle': PWUPBLD
 'of': -F
 'which': WEU
-'was': WA
+'was': WAS
 'burnt.': PWURPBT TP-PL
 '"She': KR-GS SHE
 'tried': TRAOEUD
@@ -987,5 +987,5 @@ The Little Match-Seller
 'her': HER
 'grandmother,': TKPWR-PL KW-BG
 'on': OPB
-'New-year's': TPHU H-PB KWRAOER AE S*/SP-S
+'New-year's': TPHU H-PB KWRAOER AES
 'day.': TKAEU TP-PL

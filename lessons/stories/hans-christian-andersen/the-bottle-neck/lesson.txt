@@ -37,7 +37,7 @@ The Bottle Neck
 'direction.': TKREBGS TP-PL
 'This': TH
 'house': HOUS
-'was': WA
+'was': WAS
 'inhabited': EUPB/HABT/-D
 'by': PWEU
 'poor': PAOR
@@ -46,7 +46,7 @@ The Bottle Neck
 'the': -T
 'deepest': TKAOEP/EFT
 'poverty': POFRT
-'was': WA
+'was': WAS
 'apparent': A/PARPBT
 'in': TPH
 'the': -T
@@ -68,7 +68,7 @@ The Bottle Neck
 'hung': HUPBG
 'in': TPH
 'the': -T
-'sunshine,': S*UPB/SHAOEUPB KW-BG
+'sunshine,': SUPB/SHAO*EUPB KW-BG
 'which': WEU
 'had': H
 'not': TPHOT
@@ -103,7 +103,7 @@ The Bottle Neck
 'with': W
 'which': WEU
 'it': T
-'was': WA
+'was': WAS
 'filled.': TPEULD TP-PL
 'An': APB
 'old': OLD
@@ -115,7 +115,7 @@ The Bottle Neck
 'she': SHE
 'had': H
 'hung': HUPBG
-'chickweed': XXX chickweed
+'chickweed': xxx chickweed
 'over': OEFR
 'the': -T
 'cage,': KAEUPBLG KW-BG
@@ -134,10 +134,10 @@ The Bottle Neck
 'and': SKP
 'sang': SAPBG
 'and': SKP
-'twittered': TWUT/*ER/-D
+'twittered': TWEURT/-D
 'merrily.': PHER/HREU TP-PL
 '"Yes,': KR-GS KWRE KW-BG
-'it's': T*S
+'it's': T-S
 'all': AUL
 'very': SRE
 'well': WEL
@@ -151,10 +151,10 @@ The Bottle Neck
 'neck:': TPHEBG STPH-FPLT
 'that': THA
 'is,': S KW-BG
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
-'really': HROERL
+'really': R-L
 'speak': SPAOEBG
 'the': -T
 'words': WORDZ
@@ -170,7 +170,7 @@ The Bottle Neck
 'cannot': K/TPHOT
 'speak;': SPAOEBG STPH*FPLT
 'but': PWUT
-'he': E
+'he': HE
 'thought': THAUT
 'them': THEPL
 'to': TO
@@ -198,7 +198,7 @@ The Bottle Neck
 'all': AUL
 'your': KWROUR
 'limbs': HREUPLS
-'uninjured;': XXX uninjured STPH*FPLT
+'uninjured;': xxx uninjured STPH*FPLT
 'you': U
 'should': SHO
 'feel': TPAOEL
@@ -269,7 +269,7 @@ The Bottle Neck
 'but': PWUT
 'when': WHEPB
 'I': EU
-'was': WA
+'was': WAS
 'a': AEU
 'whole': WHOEL
 'bottle,': PWO*LT KW-BG
@@ -303,14 +303,14 @@ The Bottle Neck
 'picnic': PEUBG/TPHEUBG
 'with': W
 'the': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'family,': TPAEPL KW-BG
 'on': OPB
 'the': -T
 'day': TKAEU
 'his': HEUS
 'daughter': TKAUR
-'was': WA
+'was': WAS
 'betrothed,—it': PWE/TRO*T/-D KW-BG EPL/TKA*RB T
 'seems': SAOEPLS
 'as': AZ
@@ -353,7 +353,7 @@ The Bottle Neck
 'earth,': *ERT KW-BG
 'and': SKP
 'have': SR
-'mounted': PHOUPBT/-D
+'mounted': PHOUPBTD
 'higher': HAOEUR
 'in': TPH
 'the': -T
@@ -376,8 +376,8 @@ The Bottle Neck
 'air': AEUR
 'and': SKP
 'the': -T
-'sunshine.': S*UPB/SHAOEUPB TP-PL
-'Oh,': O*ERBGS KW-BG
+'sunshine.': SUPB/SHAO*EUPB TP-PL
+'Oh,': O*E KW-BG
 'indeed,': TPHAOEPBD KW-BG
 'it': T
 'would': WO
@@ -409,11 +409,11 @@ The Bottle Neck
 'his': HEUS
 'history,': HEUFRT KW-BG
 'which': WEU
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'rather': RAER
 'remarkable;': RARBG/-BL STPH*FPLT
-'he,': E KW-BG
+'he,': HE KW-BG
 'in': TPH
 'fact,': TPABGT KW-BG
 'related': RAELTD
@@ -442,7 +442,7 @@ The Bottle Neck
 'street': STRAOET
 'below': PWHRO
 'there': THR
-'was': WA
+'was': WAS
 'driving': TKRAOFG
 'and': SKP
 'running': R*UPBG
@@ -468,7 +468,7 @@ The Bottle Neck
 'neck': TPHEBG
 'thought': THAUT
 'deeply.': TKAO*EPL TP-PL
-'He': E
+'He': HE
 'thought': THAUT
 'of': -F
 'the': -T
@@ -478,21 +478,21 @@ The Bottle Neck
 'the': -T
 'factory,': TPABGT/REU KW-BG
 'where': W-R
-'he': E
+'he': HE
 'had': H
 'been': PW-PB
 'blown': PWHROEPB
 'into': TPHAO
 'life;': HRAOEUF STPH*FPLT
-'he': E
+'he': HE
 'remembered': RERD
 'how': HOU
 'hot': HOT
 'it': T
 'felt': TPELT
 'when': WHEPB
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'placed': PHRAEUFD
 'in': TPH
 'the': -T
@@ -502,11 +502,11 @@ The Bottle Neck
 'home': HOEPL
 'from': TPR
 'which': WEU
-'he': E
+'he': HE
 'sprang,': SPRAPBG KW-BG
 'and': SKP
 'that': THA
-'he': E
+'he': HE
 'had': H
 'a': AEU
 'strong': STROPBG
@@ -524,12 +524,12 @@ The Bottle Neck
 'became': PWAEUPL
 'cooler,': KAORL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'found': TPOUPBD
 'himself': H*EUPLS
 'very': SRE
 'comfortable.': K-BL TP-PL
-'He': E
+'He': HE
 'had': H
 'been': PW-PB
 'placed': PHRAEUFD
@@ -604,7 +604,7 @@ The Bottle Neck
 'decay': TKE/KAEU
 'it': T
 'may': PHAE
-'always': AULZ
+'always': AULS
 'be': -B
 'seen': SAOEPB
 'whether': WHR
@@ -637,7 +637,7 @@ The Bottle Neck
 'packed': PABGD
 'our': OUR
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'packed': PABGD
 'amongst': PHOPBGS
 'them;': THEPL STPH*FPLT
@@ -662,7 +662,7 @@ The Bottle Neck
 'water-glass': WAUR H-PB TKPWHRAS
 'to': TO
 'a': AEU
-'bird's-cage,': PWEURD AE S*/SP-S H-PB KAEUPBLG KW-BG
+'bird's-cage,': PWEURD AE S* H-PB KAEUPBLG KW-BG
 'which': WEU
 'is,': S KW-BG
 'after': AF
@@ -686,7 +686,7 @@ The Bottle Neck
 'bottle': PWO*LT
 'did': TK
 'not': TPHOT
-'behold': XXX behold
+'behold': PWE/HOLD
 'the': -T
 'light': HRAOEUT
 'of': -F
@@ -694,7 +694,7 @@ The Bottle Neck
 'again,': TKPWEPB KW-BG
 'until': TPH-L
 'it': T
-'was': WA
+'was': WAS
 'unpacked': UPB/PABGD
 'with': W
 'the': -T
@@ -702,12 +702,12 @@ The Bottle Neck
 'in': TPH
 'the': -T
 'wine': WAOEUPB
-'merchant's': PHEFRPBT AE S*/SP-S
+'merchant's': PHEFRPBT AES
 'cellar,': SEL/AR KW-BG
 'and,': SKP KW-BG
 'for': TPOR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'time,': TAOEUPL KW-BG
 'rinsed': REUPBS/-D
 'with': W
@@ -744,7 +744,7 @@ The Bottle Neck
 'At': AT
 'last': HRAFT
 'it': T
-'was': WA
+'was': WAS
 'filled': TPEULD
 'with': W
 'rich': REUFP
@@ -753,7 +753,7 @@ The Bottle Neck
 'wine,': WAOEUPB KW-BG
 'a': AEU
 'cork': KORBG
-'was': WA
+'was': WAS
 'placed': PHRAEUFD
 'in': TPH
 'it,': T KW-BG
@@ -762,9 +762,9 @@ The Bottle Neck
 'down.': TKOUPB TP-PL
 'Then': THEPB
 'it': T
-'was': WA
-'labelled': HRAEUBLD
-'"first': KR-GS TPEURS
+'was': WAS
+'labelled': HRAEUBLD/A*U
+'"first': KR-GS TPEUFRT
 'quality,"': KWALT KW-BG KR-GS
 'as': AZ
 'if': TP
@@ -773,7 +773,7 @@ The Bottle Neck
 'carried': KAERD
 'off': OF
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'prize': PRAOEUZ
 'at': AT
 'an': APB
@@ -814,7 +814,7 @@ The Bottle Neck
 'of': -F
 'green': TKPWRAOEPB
 'sunny': SAOUPB
-'mountains,': PHOUPBT/APBS KW-BG
+'mountains,': PHOUPB/TAEUPBS KW-BG
 'where': W-R
 'the': -T
 'vines': SRAOEUPBS
@@ -851,7 +851,7 @@ The Bottle Neck
 'of': -F
 'a': AEU
 'young': KWRUPBG
-'poet's': POET AE S*/SP-S
+'poet's': POET AES
 'brain,': PWRAEUPB KW-BG
 'who': WHO
 'often': OFPB
@@ -876,10 +876,10 @@ The Bottle Neck
 'purchaser': PUR
 'in': TPH
 'the': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'apprentice,': A/PEPBT/EUS KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'told': TOLD
 'to': TO
 'bring': PWREU
@@ -891,7 +891,7 @@ The Bottle Neck
 'of': -F
 'wine.': WAOEUPB TP-PL
 'It': T
-'was': WA
+'was': WAS
 'placed': PHRAEUFD
 'in': TPH
 'the': -T
@@ -918,7 +918,7 @@ The Bottle Neck
 'basket': PWAFBGT
 'by': PWEU
 'the': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'daughter': TKAUR
 'herself,': H*ERS KW-BG
 'for': TPOR
@@ -926,7 +926,7 @@ The Bottle Neck
 'packed': PABGD
 'it.': T TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'young': KWRUPBG
 'and': SKP
 'pretty;': PREUT STPH*FPLT
@@ -957,7 +957,7 @@ The Bottle Neck
 'and': SKP
 'her': HER
 'neck': TPHEBG
-'was': WA
+'was': WAS
 'whiter': WHAOEURT
 'still.': STEUL TP-PL
 'It': T
@@ -967,7 +967,7 @@ The Bottle Neck
 'seen': SAOEPB
 'that': THA
 'she': SHE
-'was': WA
+'was': WAS
 'a': AEU
 'very': SRE
 'lovely': HROFL
@@ -976,7 +976,7 @@ The Bottle Neck
 'as': AZ
 'yet': KWRET
 'she': SHE
-'was': WA
+'was': WAS
 'not': TPHOT
 'engaged.': EPB/TKPWAEUBLG/-D TP-PL
 'The': -T
@@ -1015,7 +1015,7 @@ The Bottle Neck
 'white': WHAOEUT
 'napkin.': TPHAP/KEUPB TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'the': -T
 'red': RED
 'wax': WABGS
@@ -1030,7 +1030,7 @@ The Bottle Neck
 'at': AT
 'the': -T
 'young': KWRUPBG
-'girl's': TKPWEURL AE S*/SP-S
+'girl's': TKPWEURL/AES
 'face,': TPAEUS KW-BG
 'and': SKP
 'also': HR-S
@@ -1045,8 +1045,8 @@ The Bottle Neck
 'sat': SAT
 'near': TPHAOER
 'her.': HER TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'a': AEU
 'young': KWRUPBG
 'friend,': TPREPBD KW-BG
@@ -1056,7 +1056,7 @@ The Bottle Neck
 'a': AEU
 'portrait': POR/TRAT
 'painter.': PA*EURPBT TP-PL
-'He': E
+'He': HE
 'had': H
 'lately': HRAEULT
 'passed': PAFD
@@ -1070,8 +1070,8 @@ The Bottle Neck
 'the': -T
 'next': TPHEGT
 'morning': PHORPBG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'to': TO
 'sail': SAEUL
 'in': TPH
@@ -1095,7 +1095,7 @@ The Bottle Neck
 'while': WHAOEUL
 'the': -T
 'basket': PWAFBGT
-'was': WA
+'was': WAS
 'being': -BG
 'packed,': PABGD KW-BG
 'and': SKP
@@ -1109,7 +1109,7 @@ The Bottle Neck
 'mouth': PHO*UT
 'of': -F
 'the': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'daughter': TKAUR
 'did': TK
 'not': TPHOT
@@ -1141,8 +1141,8 @@ The Bottle Neck
 'not': TPHOT
 'say,': SAEU KW-BG
 'for': TPOR
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'in': TPH
 'the': -T
 'provision': PREUFGS
@@ -1158,7 +1158,7 @@ The Bottle Neck
 'at': AT
 'last': HRAFT
 'it': T
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'forth': TPO*RT
 'it': T
@@ -1172,10 +1172,10 @@ The Bottle Neck
 'for': TPOR
 'every': EF
 'one': WUPB
-'was': WA
+'was': WAS
 'laughing;': HRAFG STPH*FPLT
 'the': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'daughter': TKAUR
 'laughed': HRAFD
 'too,': TAO KW-BG
@@ -1190,7 +1190,7 @@ The Bottle Neck
 'were': WR
 'like': HRAOEUBG
 'two': TWO
-'roses.': ROES/-S TP-PL
+'roses.': ROESZ TP-PL
 'Then': THEPB
 'her': HER
 'father': TPAER
@@ -1208,7 +1208,7 @@ The Bottle Neck
 'strange': STRAEUPBG
 'sensation': STPHAEUGS
 'it': T
-'was': WA
+'was': WAS
 'to': TO
 'have': SR
 'the': -T
@@ -1216,7 +1216,7 @@ The Bottle Neck
 'drawn': TKRAUPB
 'for': TPOR
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'time!': TAOEUPL SKHRAPL
 'The': -T
 'bottle': PWO*LT
@@ -1232,7 +1232,7 @@ The Bottle Neck
 'moment;': PHOEPLT STPH*FPLT
 'indeed': TPHAOEPBD
 'there': THR
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'a': AEU
 'convulsion': KWULGS
@@ -1250,7 +1250,7 @@ The Bottle Neck
 'as': AZ
 'the': -T
 'wine': WAOEUPB
-'was': WA
+'was': WAS
 'poured': PORD
 'forth': TPO*RT
 'into': TPHAO
@@ -1267,7 +1267,7 @@ The Bottle Neck
 'and': SKP
 'every': EF
 'glass': TKPWHRAS
-'was': WA
+'was': WAS
 'emptied': EPL/TEUD
 'to': TO
 'the': -T
@@ -1309,7 +1309,7 @@ The Bottle Neck
 'day': TKAEU
 'next': TPHEGT
 'year,"': KWRAOER KW-BG KR-GS
-'he': E
+'he': HE
 'cried;': KRAOEUD STPH*FPLT
 'and': SKP
 'when': WHEPB
@@ -1317,7 +1317,7 @@ The Bottle Neck
 'glasses': TKPWHRAFS
 'were': WR
 'empty': EPLT
-'he': E
+'he': HE
 'took': TAOBG
 'the': -T
 'bottle,': PWO*LT KW-BG
@@ -1328,7 +1328,7 @@ The Bottle Neck
 'and': SKP
 'said,': SAEUD KW-BG
 '"Thou': KR-GS THO*U
-'hast': XXX hast
+'hast': HA*FT
 'been': PW-PB
 'present': PREPBT
 'here': HAOER
@@ -1348,7 +1348,7 @@ The Bottle Neck
 'others!"': OERS SKHRAPL KR-GS
 'So': SO
 'saying,': SAEUG KW-BG
-'he': E
+'he': HE
 'hurled': HURLD
 'it': T
 'high': HAOEU
@@ -1356,7 +1356,7 @@ The Bottle Neck
 'the': -T
 'air.': AEUR TP-PL
 'The': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'daughter': TKAUR
 'thought': THAUT
 'she': SHE
@@ -1367,7 +1367,7 @@ The Bottle Neck
 'again,': TKPWEPB KW-BG
 'but': PWUT
 'she': SHE
-'was': WA
+'was': WAS
 'mistaken.': SPHA*EUPB TP-PL
 'It': T
 'fell': TPEL
@@ -1401,9 +1401,9 @@ The Bottle Neck
 'they': THE
 'gave': TKPWAEUF
 'me': PHE
-'muddy': PHUD/TKEU
+'muddy': PHUD/KWREU
 'water,"': WAUR KW-BG KR-GS
-'he': E
+'he': HE
 'had': H
 'said': SAEUD
 'to': TO
@@ -1412,11 +1412,11 @@ The Bottle Neck
 'I': EU
 'suppose': SPOS
 'it': T
-'was': WA
+'was': WAS
 'all': AUL
 'well': WEL
 'meant."': PHEPBT TP-PL KR-GS
-'He': E
+'He': HE
 'could': KO
 'no': TPHO
 'longer': HRORPBG
@@ -1434,7 +1434,7 @@ The Bottle Neck
 'a': AEU
 'long': HROPBG
 'time': TAOEUPL
-'he': E
+'he': HE
 'could': KO
 'hear': HAER
 'them': THEPL
@@ -1476,7 +1476,7 @@ The Bottle Neck
 'once': WUPBS
 'more': PHOR
 'it': T
-'was': WA
+'was': WAS
 'provided': PROE/SRAOUD/-D
 'for.': TPOR TP-PL
 'At': AT
@@ -1494,7 +1494,7 @@ The Bottle Neck
 'a': AEU
 'sailor,': SAEU/HROR KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'about': PW
 'to': TO
 'start': START
@@ -1502,7 +1502,7 @@ The Bottle Neck
 'a': AEU
 'long': HROPBG
 'voyage.': SROEUPBLG TP-PL
-'He': E
+'He': HE
 'had': H
 'been': PW-PB
 'there': THR
@@ -1515,7 +1515,7 @@ The Bottle Neck
 'and': SKP
 'his': HEUS
 'mother': PHOER
-'was': WA
+'was': WAS
 'now': TPHOU
 'very': SRE
 'busy': PW-Z
@@ -1534,10 +1534,10 @@ The Bottle Neck
 'voyage.': SROEUPBLG TP-PL
 'In': TPH
 'the': -T
-'evening': AOEPG
+'evening': AOEPBG
 'his': HEUS
 'father': TPAER
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'carry': KAER
@@ -1561,8 +1561,8 @@ The Bottle Neck
 'from': TPR
 'his': HEUS
 'mother.': PHOER TP-PL
-'A': AEU
-'small': SPAUL
+'A': KPA*/AEU
+'small': SPHAL
 'bottle': PWO*LT
 'had': H
 'already': HR-R
@@ -1573,7 +1573,7 @@ The Bottle Neck
 'tea,': TAE KW-BG
 'mixed': PHEUGD
 'with': W
-'brandy,': PWRAPBD/TKEU KW-BG
+'brandy,': PWRAPBD/KWREU KW-BG
 'and': SKP
 'wrapped': WRAPD
 'in': TPH
@@ -1614,7 +1614,7 @@ The Bottle Neck
 'all': AUL
 'said': SAEUD
 'the': -T
-'brandy': PWRAPBD/TKEU
+'brandy': PWRAPBD/KWREU
 'would': WO
 'be': -B
 'so': SO
@@ -1627,10 +1627,10 @@ The Bottle Neck
 'especially': EPS
 'as': AZ
 'it': T
-'was': WA
+'was': WAS
 'mixed': PHEUGD
 'with': W
-'medical': PHED/KAL
+'medical': PHED/K-L
 'herbs.': HERBS TP-PL
 'The': -T
 'liquid': KWEULD
@@ -1641,7 +1641,7 @@ The Bottle Neck
 'into': TPHAO
 'the': -T
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'not': TPHOT
 'like': HRAOEUBG
 'the': -T
@@ -1671,7 +1671,7 @@ The Bottle Neck
 'new': TPHU
 'large': HRARPBLG
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'to': TO
 'go,': TKPW KW-BG
 'not': TPHOT
@@ -1688,14 +1688,14 @@ The Bottle Neck
 'its': EUTS
 'travels.': TRAFLS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'taken': TAEPB
 'on': OPB
 'board': PWAORD
 '(for': PREPB TPOR
 'Peter': PAOERT
 'Jensen': SKWREPB/S*EPB
-'was': WA
+'was': WAS
 'one': WUPB
 'of': -F
 'the': -T
@@ -1709,7 +1709,7 @@ The Bottle Neck
 'the': -T
 'young': KWRUPBG
 'mate': PHAEUT
-'was': WA
+'was': WAS
 'to': TO
 'sail.': SAEUL TP-PL
 'But': PWUT
@@ -1722,9 +1722,9 @@ The Bottle Neck
 'bottle:': PWO*LT STPH-FPLT
 'indeed,': TPHAOEPBD KW-BG
 'if': TP
-'he': E
+'he': HE
 'had': H
-'he': E
+'he': HE
 'would': WO
 'not': TPHOT
 'have': SR
@@ -1733,7 +1733,7 @@ The Bottle Neck
 'or': OR
 'supposed': SPOED
 'it': T
-'was': WA
+'was': WAS
 'the': -T
 'one': WUPB
 'out': OUT
@@ -1787,7 +1787,7 @@ The Bottle Neck
 'it': T
 'out,': OUT KW-BG
 'his': HEUS
-'messmates': XXX messmates
+'messmates': xxx messmates
 'gave': TKPWAEUF
 'it': T
 'the': -T
@@ -1806,7 +1806,7 @@ The Bottle Neck
 'the': -T
 'stomach,': STUPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'gave': TKPWAEUF
 'it': T
 'out': OUT
@@ -1834,13 +1834,13 @@ The Bottle Neck
 'cork,': KORBG KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'called': KAULD
 'a': AEU
 'great': TKPWRAET
 'lark,': HRARBG KW-BG
 '"Peter': KR-GS PAOERT
-'Jensen's': SKWREPB/S*EPB AE S*/SP-S
+'Jensen's': SKWREPB/S*EPB AES
 'lark."': HRARBG TP-PL KR-GS
 'Long': HROPBG
 'days': TKAEUS
@@ -1878,7 +1878,7 @@ The Bottle Neck
 'been': PW-PB
 'ashore.': A/SHOR TP-PL
 'It': T
-'was': WA
+'was': WAS
 'a': AEU
 'terrible': TERBL
 'storm,': STORPL KW-BG
@@ -1897,7 +1897,7 @@ The Bottle Neck
 'The': -T
 'main': PHAEUPB
 'mast': PHAFT
-'was': WA
+'was': WAS
 'split': SPHREUT
 'asunder,': AS/UPBD/ER KW-BG
 'the': -T
@@ -1913,7 +1913,7 @@ The Bottle Neck
 'while': WHAOEUL
 'all': AUL
 'around': ARPBD
-'was': WA
+'was': WAS
 'black': PWHRABG
 'as': AZ
 'night.': TPHAOEUT TP-PL
@@ -1924,7 +1924,7 @@ The Bottle Neck
 'when': WHEPB
 'the': -T
 'ship': SHEUP
-'was': WA
+'was': WAS
 'sinking,': SEUPB/K-G KW-BG
 'the': -T
 'young': KWRUPBG
@@ -1939,12 +1939,12 @@ The Bottle Neck
 'are': R
 'going': TKPW-G
 'down:': TKOUPB STPH-FPLT
-'God's': TKPWOD AE S*/SP-S
+'God's': TKPWOD AES
 'will': HR
 'be': -B
 'done."': TKOPB TP-PL KR-GS
 'Then': THEPB
-'he': E
+'he': HE
 'wrote': WRO
 'the': -T
 'name': TPHAEUPL
@@ -1960,7 +1960,7 @@ The Bottle Neck
 'the': -T
 'ship.': SHEUP TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'put': PUT
 'the': -T
 'leaf': HRAOEF
@@ -1985,12 +1985,12 @@ The Bottle Neck
 'the': -T
 'foaming': TPOEPLG
 'sea.': SAE TP-PL
-'He': E
+'He': HE
 'knew': TPHAOU
 'not': TPHOT
 'that': THA
 'it': T
-'was': WA
+'was': WAS
 'the': -T
 'very': SRE
 'same': SAEUPL
@@ -2012,7 +2012,7 @@ The Bottle Neck
 'and': SKP
 'now': TPHOU
 'it': T
-'was': WA
+'was': WAS
 'tossing': TOFG
 'on': OPB
 'the': -T
@@ -2072,7 +2072,7 @@ The Bottle Neck
 'time': TAOEUPL
 'of': -F
 'its': EUTS
-'first': TPEURS
+'first': TPEUFRT
 'existence,': KPEUFS KW-BG
 'when': WHEPB
 'in': TPH
@@ -2099,7 +2099,7 @@ The Bottle Neck
 'against': TKPWEPBS
 'no': TPHO
 'rocks,': ROBGS KW-BG
-'was': WA
+'was': WAS
 'not': TPHOT
 'devoured': TKWOURD
 'by': PWEU
@@ -2127,7 +2127,7 @@ The Bottle Neck
 'carried': KAERD
 'it.': T TP-PL
 'It': T
-'was': WA
+'was': WAS
 'in': TPH
 'all': AUL
 'other': OER
@@ -2197,13 +2197,13 @@ The Bottle Neck
 'Ah,': HA*E KW-BG
 'yes!': KWRE SKHRAPL
 'where': W-R
-'was': WA
+'was': WAS
 'the': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'daughter?': TKAUR H-F
 'and': SKP
 'where': W-R
-'was': WA
+'was': WAS
 'the': -T
 'land': HRAPBD
 'which': WEU
@@ -2218,10 +2218,10 @@ The Bottle Neck
 'knew': TPHAOU
 'not,': TPHOT KW-BG
 'it': T
-'travelled': TRAFLD
-'onward': XXX onward
+'travelled': TRAFLD/A*U
+'onward': AOPB/WA*RD
 'and': SKP
-'onward,': XXX onward KW-BG
+'onward,': AOPB/WA*RD KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -2235,7 +2235,7 @@ The Bottle Neck
 'all': AUL
 'events': AOEPBTS
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'its': EUTS
 'usual': URBL
@@ -2251,7 +2251,7 @@ The Bottle Neck
 'it': T
 'reached': RAOEFPD
 'land—a': HRAPBD EPL/TKA*RB AEU
-'foreign': TPOERP
+'foreign': TPOERPB
 'country.': KREU TP-PL
 'Not': TPHOT
 'a': AEU
@@ -2265,14 +2265,14 @@ The Bottle Neck
 'bottle': PWO*LT
 'understand;': URPBD STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'language': HRAPBL
 'it': T
 'had': H
 'never': TPHEF
 'before': PW-F
-'heard,': HERD KW-BG
+'heard,': HAERD KW-BG
 'and': SKP
 'it': T
 'is': S
@@ -2289,7 +2289,7 @@ The Bottle Neck
 'language.': HRAPBL TP-PL
 'The': -T
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'fished': TPEURBD
 'out': OUT
 'of': -F
@@ -2306,14 +2306,14 @@ The Bottle Neck
 'contained': TAEUPBD
 'within': W-PB
 'it': T
-'was': WA
+'was': WAS
 'discovered,': SKOFD KW-BG
 'taken': TAEPB
 'out,': OUT KW-BG
 'and': SKP
 'turned': TURPBD
 'and': SKP
-'twisted': TWEUFT/-D
+'twisted': TWEUFTD
 'in': TPH
 'every': EF
 'direction;': TKREBGS STPH*FPLT
@@ -2324,7 +2324,7 @@ The Bottle Neck
 'not': TPHOT
 'understand': URPBD
 'what': WHA
-'was': WA
+'was': WAS
 'written': WREUPB
 'upon': POPB
 'it.': T TP-PL
@@ -2339,7 +2339,7 @@ The Bottle Neck
 'had': H
 'been': PW-PB
 'thrown': THROEPB
-'overboard': XXX overboard
+'overboard': AUFR/PWAO*RD
 'from': TPR
 'a': AEU
 'vessel,': SREFL KW-BG
@@ -2348,22 +2348,22 @@ The Bottle Neck
 'something': S-G
 'about': PW
 'it': T
-'was': WA
+'was': WAS
 'written': WREUPB
 'on': OPB
 'this': TH
 'paper:': PAEUP STPH-FPLT
 'but': PWUT
 'what': WHA
-'was': WA
+'was': WAS
 'written?': WREUPB H-F
 'that': THA
-'was': WA
+'was': WAS
 'the': -T
 'question,—so': KWE KW-BG EPL/TKA*RB SO
 'the': -T
 'paper': PAEUP
-'was': WA
+'was': WAS
 'put': PUT
 'back': PWABG
 'into': TPHAO
@@ -2394,7 +2394,7 @@ The Bottle Neck
 'arrived,': A/REUFD KW-BG
 'the': -T
 'paper': PAEUP
-'was': WA
+'was': WAS
 'taken': TAEPB
 'out': OUT
 'and': SKP
@@ -2407,7 +2407,7 @@ The Bottle Neck
 'the': -T
 'address,': A/TKRES KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'only': OEPBL
 'written': WREUPB
 'in': TPH
@@ -2442,7 +2442,7 @@ The Bottle Neck
 'and': SKP
 'then': THEPB
 'it': T
-'was': WA
+'was': WAS
 'taken': TAEPB
 'up': UP
 'to': TO
@@ -2522,19 +2522,19 @@ The Bottle Neck
 'that': THA
 'the': -T
 'house': HOUS
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'be': -B
 'rebuilt.': RE/PWEULT TP-PL
 'The': -T
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'discovered': SKOFD
 'when': WHEPB
 'the': -T
 'roof': RAOF
-'was': WA
+'was': WAS
 'taken': TAEPB
 'off;': OF STPH*FPLT
 'they': THE
@@ -2555,7 +2555,7 @@ The Bottle Neck
 'not': TPHOT
 'to': TO
 'be': -B
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'by': PWEU
 'living': HREUFG
 'in': TPH
@@ -2580,18 +2580,18 @@ The Bottle Neck
 '"I': KR-GS EU
 'might': PHAOEUT
 'have': SR
-'learnt': HRERPBT
+'learnt': HRERPBT/A*U
 'it."': T TP-PL KR-GS
 'It': T
-'was': WA
+'was': WAS
 'now': TPHOU
 'washed': WARBD
 'and': SKP
 'rinsed,': REUPBS/-D KW-BG
 'which': WEU
 'process': PROEUS
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'quite': KWAOEUT
 'necessary,': TPHES KW-BG
 'and': SKP
@@ -2618,7 +2618,7 @@ The Bottle Neck
 'carried': KAERD
 'so': SO
 'faithfully': TPA*EUT/TPHREU
-'was': WA
+'was': WAS
 'destroyed': TKROEUD
 'in': TPH
 'the': -T
@@ -2666,7 +2666,7 @@ The Bottle Neck
 'much': PHUFP
 'less': HRES
 'the': -T
-'brightness': XXX brightness
+'brightness': PWRAOEUT/-PBS
 'of': -F
 'the': -T
 'sun': SUPB
@@ -2703,7 +2703,7 @@ The Bottle Neck
 'as': AZ
 'important;': PORPB STPH*FPLT
 'it': T
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'to': TO
 'the': -T
 'place': PHRAEUS
@@ -2711,7 +2711,7 @@ The Bottle Neck
 'its': EUTS
 'destination,': TKEFT/TPHAEUGS KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'unpacked.': UPB/PABGD TP-PL
 '"What': KR-GS WHA
 'trouble': TRUBL
@@ -2727,7 +2727,7 @@ The Bottle Neck
 'one,': WUPB KW-BG
 '"and': KR-GS SKP
 'very': SRE
-'likely': HREULG
+'likely': HRAOEULG
 'it': T
 'is': S
 'broken': PWROEPB
@@ -2736,7 +2736,7 @@ The Bottle Neck
 'But': PWUT
 'the': -T
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'not': TPHOT
 'broken,': PWROEPB KW-BG
 'and,': SKP KW-BG
@@ -2747,13 +2747,13 @@ The Bottle Neck
 'every': EF
 'word': WORD
 'that': THA
-'was': WA
+'was': WAS
 'said:': SAEUD STPH-FPLT
 'this': TH
 'language': HRAPBL
 'it': T
 'had': H
-'heard': HERD
+'heard': HAERD
 'at': AT
 'the': -T
 'furnaces': TPURPBS/-S
@@ -2761,7 +2761,7 @@ The Bottle Neck
 'at': AT
 'the': -T
 'wine': WAOEUPB
-'merchant's;': PHEFRPBT AE S*/SP-S STPH*FPLT
+'merchant's;': PHEFRPBT AE S* STPH*FPLT
 'in': TPH
 'the': -T
 'forest': TPOEFRT
@@ -2769,7 +2769,7 @@ The Bottle Neck
 'on': OPB
 'the': -T
 'ship,—it': SHEUP KW-BG EPL/TKA*RB T
-'was': WA
+'was': WAS
 'the': -T
 'only': OEPBL
 'good': TKPWAOD
@@ -2785,7 +2785,7 @@ The Bottle Neck
 'and': SKP
 'the': -T
 'language': HRAPBL
-'was': WA
+'was': WAS
 'as': AZ
 'a': AEU
 'welcome': WELG
@@ -2795,12 +2795,12 @@ The Bottle Neck
 'joy,': SKWROEU KW-BG
 'it': T
 'felt': TPELT
-'ready': R*ED
+'ready': R-D
 'to': TO
 'jump': SKWRUFRP
 'out': OUT
 'of': -F
-'people's': PAOEPL AE S*/SP-S
+'people's': PAOEPL/AES
 'hands,': HAPBDZ KW-BG
 'and': SKP
 'scarcely': SKAEURS/HREU
@@ -2813,7 +2813,7 @@ The Bottle Neck
 'drawn,': TKRAUPB KW-BG
 'and': SKP
 'its': EUTS
-'contents': KAUPB/TEPBTS
+'contents': KAUPBTS
 'emptied': EPL/TEUD
 'out,': OUT KW-BG
 'till': T*EUL
@@ -2830,14 +2830,14 @@ The Bottle Neck
 'there': THR
 'and': SKP
 'forgotten.': TPORGTD TP-PL
-'"There's': KR-GS THR AE S*/SP-S
+'"There's': KR-GS THR AES
 'no': TPHO
 'place': PHRAEUS
 'like': HRAOEUBG
 'home,': HOEPL KW-BG
 'even': AOEPB
 'if': TP
-'it's': T*S
+'it's': T-S
 'a': AEU
 'cellar."': SEL/AR TP-PL KR-GS
 'It': T
@@ -2848,13 +2848,13 @@ The Bottle Neck
 'to': TO
 'think': THEU
 'that': THA
-'he': E
+'he': HE
 'might': PHAOEUT
 'lie': HRAOEU
 'there': THR
 'for': TPOR
 'years,': KWRAOERS KW-BG
-'he': E
+'he': HE
 'felt': TPELT
 'so': SO
 'comfortable.': K-BL TP-PL
@@ -2862,7 +2862,7 @@ The Bottle Neck
 'many': PHAEPB
 'long': HROPBG
 'years': KWRAOERS
-'he': E
+'he': HE
 'remained': RE/PHAEUPBD
 'in': TPH
 'the': -T
@@ -2888,7 +2888,7 @@ The Bottle Neck
 'the': -T
 'garden': TKPWA*RPB
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'great': TKPWRAET
 'festival.': SREFT/SRAL TP-PL
@@ -2916,10 +2916,10 @@ The Bottle Neck
 'transparent': TRAEUPBT
 'tulips.': TAOU/HREUPS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'a': AEU
 'beautiful': PWAOUFL
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'and': SKP
 'the': -T
 'weather': WHR*
@@ -2938,8 +2938,8 @@ The Bottle Neck
 'form': TPORPL
 'of': -F
 'a': AEU
-'crescent,': KRE/SEPBT KW-BG
-'was': WA
+'crescent,': KRES/EPBT KW-BG
+'was': WAS
 'surrounded': SROUBD/-D
 'by': PWEU
 'the': -T
@@ -2960,7 +2960,7 @@ The Bottle Neck
 'golden': TKOELD/*EPB
 'rim:': REUPL STPH-FPLT
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'beautiful': PWAOUFL
 'sight': SAOEUT
@@ -3018,7 +3018,7 @@ The Bottle Neck
 'whose': WHOZ
 'fate': TPAEUT
 'it': T
-'was,': WA KW-BG
+'was,': WAS KW-BG
 'one': WUPB
 'day,': TKAEU KW-BG
 'to': TO
@@ -3029,13 +3029,13 @@ The Bottle Neck
 'neck,': TPHEBG KW-BG
 'and': SKP
 'to': TO
-'serve': SEFB
+'serve': SEFRB
 'as': AZ
 'a': AEU
 'water-glass': WAUR H-PB TKPWHRAS
 'to': TO
 'a': AEU
-'bird's-cage.': PWEURD AE S*/SP-S H-PB KAEUPBLG TP-PL
+'bird's-cage.': PWEURD AE S* H-PB KAEUPBLG TP-PL
 'Everything': EFG
 'here': HAOER
 'appeared': A/PAOERD
@@ -3045,7 +3045,7 @@ The Bottle Neck
 'bottle,': PWO*LT KW-BG
 'for': TPOR
 'it': T
-'was': WA
+'was': WAS
 'again': TKPWEPB
 'in': TPH
 'the': -T
@@ -3057,7 +3057,7 @@ The Bottle Neck
 'feasting;': TPAOEFT/-G STPH*FPLT
 'again': TKPWEPB
 'it': T
-'heard': HERD
+'heard': HAERD
 'music': PHAOUFBG
 'and': SKP
 'song,': SOPBG KW-BG
@@ -3084,7 +3084,7 @@ The Bottle Neck
 'the': -T
 'paper': PAEUP
 'lanterns': HRAPB/TERPB/-S
-'displayed': TKEUS/PRAEUD
+'displayed': TKEUS/PHRAEUD
 'their': THAEUR
 'brilliant': PWREULT
 'colors.': KHRORS TP-PL
@@ -3107,12 +3107,12 @@ The Bottle Neck
 'a': AEU
 'light;': HRAOEUT STPH*FPLT
 'and': SKP
-'was': WA
+'was': WAS
 'at': AT
 'once': WUPBS
 'useful': AOUFL
 'and': SKP
-'ornamental.': ORPB/-PLT/TAL TP-PL
+'ornamental.': ORPB/-PLT/A*L TP-PL
 'In': TPH
 'such': SUFP
 'an': APB
@@ -3158,7 +3158,7 @@ The Bottle Neck
 'mate': PHAEUT
 'and': SKP
 'the': -T
-'furrier's': TPUR/KWRER AE S*/SP-S
+'furrier's': TPUR/KWRER AES
 'daughter—who': TKAUR EPL/TKA*RB WHO
 'had': H
 'so': SO
@@ -3175,7 +3175,7 @@ The Bottle Neck
 'bottle': PWO*LT
 'as': AZ
 'if': TP
-'he': E
+'he': HE
 'were': WR
 'living': HREUFG
 'that': THA
@@ -3221,7 +3221,7 @@ The Bottle Neck
 'the': -T
 'world.': WORLD TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'thinking,': THEUG KW-BG
 'like': HRAOEUBG
 'the': -T
@@ -3243,7 +3243,7 @@ The Bottle Neck
 'with': W
 'herself;': H*ERS STPH*FPLT
 'she': SHE
-'was': WA
+'was': WAS
 'thinking': THEUG
 'of': -F
 'that': THA
@@ -3270,7 +3270,7 @@ The Bottle Neck
 'betrothed': PWE/TRO*T/-D
 'pair;': PAEUR STPH*FPLT
 'such': SUFP
-'hours': HAURS
+'hours': HOURS
 'are': R
 'never': TPHEF
 'to': TO
@@ -3289,7 +3289,7 @@ The Bottle Neck
 'she': SHE
 'did': TK
 'not': TPHOT
-'recognise': REZ
+'recognise': REZ/A*U
 'the': -T
 'bottle,': PWO*LT KW-BG
 'neither': TPHAOERT
@@ -3326,7 +3326,7 @@ The Bottle Neck
 'town.': TOUPB TP-PL
 'The': -T
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'taken': TAEPB
 'from': TPR
 'the': -T
@@ -3340,7 +3340,7 @@ The Bottle Neck
 'merchant,': PHEFRPBT KW-BG
 'where': W-R
 'it': T
-'was': WA
+'was': WAS
 'once': WUPBS
 'more': PHOR
 'filled': TPEULD
@@ -3350,9 +3350,9 @@ The Bottle Neck
 'sold': SOELD
 'to': TO
 'an': APB
-'aeronaut,': XXX aeronaut KW-BG
+'aeronaut,': xxx aeronaut KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'to': TO
 'make': PHAEUBG
 'an': APB
@@ -3364,7 +3364,7 @@ The Bottle Neck
 'the': -T
 'following': TPOLG
 'Sunday.': SUPBD TP-PL
-'A': AEU
+'A': KPA*/AEU
 'great': TKPWRAET
 'crowd': KROUD
 'assembled': A/SEPL/-BLD
@@ -3392,7 +3392,7 @@ The Bottle Neck
 'basket': PWAFBGT
 'in': TPH
 'which': WEU
-'he': E
+'he': HE
 'lay': HRAEU
 'close': KHROES
 'to': TO
@@ -3401,15 +3401,15 @@ The Bottle Neck
 'rabbit.': RABT TP-PL
 'The': -T
 'rabbit': RABT
-'was': WA
+'was': WAS
 'quite': KWAOEUT
 'excited': KPAOEUTD
 'because': PWAU
-'he': E
+'he': HE
 'knew': TPHAOU
 'that': THA
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'to': TO
 'be': -B
 'taken': TAEPB
@@ -3432,13 +3432,13 @@ The Bottle Neck
 'or': OR
 'the': -T
 '"down;"': KR-GS TKOUPB STPH*FPLT KR-GS
-'he': E
+'he': HE
 'saw': SAU
 'only': OEPBL
 'that': THA
 'the': -T
 'balloon': PWHRAOPB
-'was': WA
+'was': WAS
 'swelling': SWELG
 'larger': HRARPBLG/ER
 'and': SKP
@@ -3467,7 +3467,7 @@ The Bottle Neck
 'through,': THRU KW-BG
 'and': SKP
 'the': -T
-'aerial': AER/KWRAL
+'aerial': AEUR/KWRAL
 'ship': SHEUP
 'rose': ROEZ
 'in': TPH
@@ -3475,7 +3475,7 @@ The Bottle Neck
 'air': AEUR
 'with': W
 'the': -T
-'aeronaut': XXX aeronaut
+'aeronaut': xxx aeronaut
 'and': SKP
 'the': -T
 'basket': PWAFBGT
@@ -3538,7 +3538,7 @@ The Bottle Neck
 'old': OLD
 'maid': PHAEUD
 'who': WHO
-'was': WA
+'was': WAS
 'in': TPH
 'the': -T
 'garden': TKPWA*RPB
@@ -3569,7 +3569,7 @@ The Bottle Neck
 'no': TPHO
 'water-glass,': WAUR H-PB TKPWHRAS KW-BG
 'but': PWUT
-'was': WA
+'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'be': -B
@@ -3607,7 +3607,7 @@ The Bottle Neck
 'the': -T
 'old': OLD
 'maid': PHAEUD
-'was': WA
+'was': WAS
 'leaning': HRAOEPBG
 'out': OUT
 'of': -F
@@ -3623,13 +3623,13 @@ The Bottle Neck
 'see': SAOE
 'distinctly': TKEUS/TEUPBGT/HREU
 'the': -T
-'aeronaut': XXX aeronaut
+'aeronaut': xxx aeronaut
 'in': TPH
 'the': -T
 'balloon,': PWHRAOPB KW-BG
 'and': SKP
 'how': HOU
-'he': E
+'he': HE
 'let': HRET
 'down': TKOUPB
 'the': -T
@@ -3646,7 +3646,7 @@ The Bottle Neck
 'of': -F
 'all': AUL
 'the': -T
-'spectators': SPEBG/TAEUT/TORS
+'spectators': SPEBG/TAEUT/O*RS
 'in': TPH
 'the': -T
 'wine': WAOEUPB
@@ -3656,7 +3656,7 @@ The Bottle Neck
 'After': AF
 'doing': TK*G
 'this,': TH KW-BG
-'he': E
+'he': HE
 'hurled': HURLD
 'it': T
 'high': HAOEU
@@ -3669,7 +3669,7 @@ The Bottle Neck
 'thought': THAUT
 'that': THA
 'this': TH
-'was': WA
+'was': WAS
 'the': -T
 'very': SRE
 'same': SAEUPL
@@ -3711,7 +3711,7 @@ The Bottle Neck
 'and': SKP
 'before': PW-F
 'it': T
-'was': WA
+'was': WAS
 'aware,': A/WAEUR KW-BG
 'it': T
 'reached': RAOEFPD
@@ -3768,7 +3768,7 @@ The Bottle Neck
 'unfettered,': UPB/TPET/ERD KW-BG
 'although': HR*T
 'it': T
-'was': WA
+'was': WAS
 'half': HAF
 'full': TPUL
 'of': -F
@@ -3783,7 +3783,7 @@ The Bottle Neck
 'a': AEU
 'journey': SKWRURPB
 'it': T
-'was!': WA SKHRAPL
+'was!': WAS SKHRAPL
 'All': AUL
 'the': -T
 'people': PAOEPL
@@ -3799,7 +3799,7 @@ The Bottle Neck
 'it.': T TP-PL
 'The': -T
 'balloon': PWHRAOPB
-'was': WA
+'was': WAS
 'already': HR-R
 'far': TPAR
 'away,': A/WAEU KW-BG
@@ -3808,7 +3808,7 @@ The Bottle Neck
 'soon': SAOPB
 'the': -T
 'bottle': PWO*LT
-'was': WA
+'was': WAS
 'far': TPAR
 'away': A/WAEU
 'also;': HR-S STPH*FPLT
@@ -3829,7 +3829,7 @@ The Bottle Neck
 'got': TKPWOT
 'such': SUFP
 'an': APB
-'impetus': EUFRP/TUS
+'impetus': *EUPL/TUS
 'in': TPH
 'them,': THEPL KW-BG
 'that': THA
@@ -3871,7 +3871,7 @@ The Bottle Neck
 'whole,': WHOEL KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'broken': PWROEPB
 'off': OF
 'as': AZ
@@ -3889,8 +3889,8 @@ The Bottle Neck
 'would': WO
 'make': PHAEUBG
 'a': AEU
-'capital': KA*L
-'bird's': PWEURD AE S*/SP-S
+'capital': KAPLT
+'bird's': PWEURD AES
 'glass,"': TKPWHRAS KW-BG KR-GS
 'said': SAEUD
 'one': WUPB
@@ -3910,7 +3910,7 @@ The Bottle Neck
 'cage,': KAEUPBLG KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'to': TO
 'be': -B
@@ -3948,7 +3948,7 @@ The Bottle Neck
 'bird,': PWEURD KW-BG
 'and': SKP
 'it': T
-'really': HROERL
+'really': R-L
 'might': PHAOEUT
 'be': -B
 'useful': AOUFL
@@ -3958,7 +3958,7 @@ The Bottle Neck
 'the': -T
 'bottle': PWO*LT
 'neck': TPHEBG
-'was': WA
+'was': WAS
 'provided': PROE/SRAOUD/-D
 'with': W
 'a': AEU
@@ -3981,13 +3981,13 @@ The Bottle Neck
 'had': H
 'been': PW-PB
 'uppermost': UP/ER/PHOEFT
-'was': WA
+'was': WAS
 'now': TPHOU
 'turned': TURPBD
 'downwards,': TKOUPB/WARDZ KW-BG
 'and': SKP
 'it': T
-'was': WA
+'was': WAS
 'filled': TPEULD
 'with': W
 'fresh': TPRERB
@@ -4006,7 +4006,7 @@ The Bottle Neck
 'who': WHO
 'sang': SAPBG
 'and': SKP
-'twittered': TWUT/*ER/-D
+'twittered': TWEURT/-D
 'more': PHOR
 'merrily': PHER/HREU
 'than': THAPB
@@ -4023,7 +4023,7 @@ The Bottle Neck
 'bottle': PWO*LT
 'neck,': TPHEBG KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'looked': HRAOBGD
 'upon': POPB
 'as': AZ
@@ -4039,7 +4039,7 @@ The Bottle Neck
 'balloon;': PWHRAOPB STPH*FPLT
 'nothing': TPHOG
 'further': TPURT
-'was': WA
+'was': WAS
 'known': TPHOEPB
 'of': -F
 'its': EUTS
@@ -4050,7 +4050,7 @@ The Bottle Neck
 'there': THR
 'in': TPH
 'the': -T
-'bird's-cage,': PWEURD AE S*/SP-S H-PB KAEUPBLG KW-BG
+'bird's-cage,': PWEURD AE S* H-PB KAEUPBLG KW-BG
 'it': T
 'could': KO
 'hear': HAER
@@ -4106,12 +4106,12 @@ The Bottle Neck
 'you': U
 'must': PHUFT
 'not': TPHOT
-'spend': SPEBD
+'spend': SPEPBD
 'a': AEU
-'dollar': TKHR-R
+'dollar': TKHRAR
 'for': TPOR
 'your': KWROUR
-'daughter's': TKAUR AE S*/SP-S
+'daughter's': TKAUR/AES
 'bridal': PWRAOEU/TKAL
 'bouquet,"': PWOE/KAEU KW-BG KR-GS
 'said': SAEUD
@@ -4124,7 +4124,7 @@ The Bottle Neck
 'a': AEU
 'beautiful': PWAOUFL
 'little': HREUL
-'bunch': WUFRPB
+'bunch': PWUFRPB
 'for': TPOR
 'a': AEU
 'nosegay,': TPHOES/TKPWAEU KW-BG
@@ -4165,7 +4165,7 @@ The Bottle Neck
 'from': TPR
 'which': WEU
 'I': EU
-'was': WA
+'was': WAS
 'to': TO
 'make': PHAEUBG
 'my': PHEU
@@ -4251,7 +4251,7 @@ The Bottle Neck
 'tree,': TRAOE KW-BG
 'and': SKP
 'a': AEU
-'bunch': WUFRPB
+'bunch': PWUFRPB
 'of': -F
 'the': -T
 'blossoms': PWROS/SOPL/-S
@@ -4315,12 +4315,12 @@ The Bottle Neck
 'that': THA
 'very': SRE
 'window,': WOEUPBD KW-BG
-'was': WA
+'was': WAS
 'a': AEU
 'remembrance': RERPBS
 'of': -F
 'those': THOZ
-'olden': XXX olden
+'olden': OLD/*EPB
 'times,—the': TAOEUPLS KW-BG EPL/TKA*RB -T
 'neck': TPHEBG
 'of': -F
@@ -4352,11 +4352,11 @@ The Bottle Neck
 'neck': TPHEBG
 'did': TK
 'not': TPHOT
-'recognise': REZ
+'recognise': REZ/A*U
 'the': -T
 'old': OLD
 'maid;': PHAEUD STPH*FPLT
-'he': E
+'he': HE
 'had': H
 'not': TPHOT
 'been': PW-PB
@@ -4368,8 +4368,8 @@ The Bottle Neck
 'related,': RAELTD KW-BG
 'perhaps': PRAPS
 'because': PWAU
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'thinking': THEUG
 'so': SO
 'much': PHUFP

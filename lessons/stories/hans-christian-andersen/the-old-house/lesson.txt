@@ -1,6 +1,6 @@
 The Old House
 
-'A': AEU
+'A': KPA*/AEU
 'very': SRE
 'old': OLD
 'house': HOUS
@@ -50,7 +50,7 @@ The Old House
 'the': -T
 'old': OLD
 'house': HOUS
-'was': WA
+'was': WAS
 'nearly': TPHAOERL
 'three': THRAOE
 'hundred': HUPBD
@@ -64,7 +64,7 @@ The Old House
 'the': -T
 'windows': WO*EUPBDZ
 'in': TPH
-'old-fashioned': OLD H-PB TPAGS/-D
+'old-fashioned': OLD/H-PB/TPAGS/-D
 'letters,': HRERTS KW-BG
 'and': SKP
 'grotesque': TKPWROE/TEFBG
@@ -97,21 +97,21 @@ The Old House
 'gutter,': TKPWOURT KW-BG
 'with': W
 'a': AEU
-'dragon's': TKRAG/O*PB AE S*/SP-S
+'dragon's': TKRAG/O*PB AES
 'head': HED
 'at': AT
 'the': -T
 'end.': EPBD TP-PL
 'The': -T
 'rain': RAEUPB
-'was': WA
-'intended': EUPB/TED/-D
+'was': WAS
+'intended': SPWEPBD/-D
 'to': TO
 'pour': POR
 'out': OUT
 'at': AT
 'the': -T
-'dragon's': TKRAG/O*PB AE S*/SP-S
+'dragon's': TKRAG/O*PB AES
 'mouth,': PHO*UT KW-BG
 'but': PWUT
 'it': T
@@ -123,7 +123,7 @@ The Old House
 'instead,': STPHED KW-BG
 'for': TPOR
 'there': THR
-'was': WA
+'was': WAS
 'a': AEU
 'hole': HOEL
 'in': TPH
@@ -139,7 +139,7 @@ The Old House
 'new': TPHU
 'and': SKP
 'well': WEL
-'built,': PEULT KW-BG
+'built,': PWEULT KW-BG
 'with': W
 'large': HRARPBLG
 'window': WOEUPBD
@@ -181,7 +181,7 @@ The Old House
 'whole': WHOEL
 'street.': STRAOET TP-PL
 'The': -T
-'parapet': XXX parapet
+'parapet': PRA/PET
 'projects': PROPBLGZ
 'so': SO
 'far': TPAR
@@ -206,7 +206,7 @@ The Old House
 'stairs': STAEURS
 'are': R
 'as': AZ
-'broad': PWROD
+'broad': PWRAOD
 'as': AZ
 'the': -T
 'staircase': STAEUR/KAEUS
@@ -226,7 +226,7 @@ The Old House
 'The': -T
 'iron': AOEURPB
 'railing': RAEULG
-'looks': HAOBGS
+'looks': HRAOBGS
 'like': HRAOEUBG
 'the': -T
 'gate': TKPWAET
@@ -242,7 +242,7 @@ The Old House
 'it.': T TP-PL
 'It': T
 'is': S
-'really': HROERL
+'really': R-L
 'too': TAO
 'ridiculous."': REULGS TP-PL KR-GS
 'Opposite': OP/SEUT
@@ -284,7 +284,7 @@ The Old House
 'sparkling': SPAR/K-LG
 'eyes,': AO*EUS KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'very': SRE
 'fond': TPOPBD
 'of': -F
@@ -292,11 +292,11 @@ The Old House
 'old': OLD
 'house,': HOUS KW-BG
 'in': TPH
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'or': OR
 'in': TPH
 'moonlight.': PHAOLGT TP-PL
-'He': E
+'He': HE
 'would': WO
 'sit': SEUT
 'and': SKP
@@ -312,7 +312,7 @@ The Old House
 'in': TPH
 'some': SOPL
 'places': PHRAEUFS
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'off,': OF KW-BG
 'and': SKP
 'fancy': TPAPB/SEU
@@ -348,7 +348,7 @@ The Old House
 'at': AT
 'the': -T
 'spout.': SPOUT TP-PL
-'He': E
+'He': HE
 'could': KO
 'even': AOEPB
 'see': SAOE
@@ -356,10 +356,10 @@ The Old House
 'walking': WAUG
 'about': PW
 'with': W
-'halberds.': XXX halberds TP-PL
+'halberds.': xxx halberds TP-PL
 'Certainly': SERPBL
 'it': T
-'was': WA
+'was': WAS
 'a': AEU
 'very': SRE
 'good': TKPWAOD
@@ -392,7 +392,7 @@ The Old House
 'one': WUPB
 'could': KO
 'see': SAOE
-'was': WA
+'was': WAS
 'a': AEU
 'real': RAEL
 'wig.': WEUG TP-PL
@@ -427,7 +427,7 @@ The Old House
 'the': -T
 'house.': HOUS TP-PL
 'Sometimes': STAOEUPLS
-'he': E
+'he': HE
 'came': KAEUPL
 'to': TO
 'one': WUPB
@@ -468,7 +468,7 @@ The Old House
 'other;': OER STPH*FPLT
 'but': PWUT
 'that': THA
-'was': WA
+'was': WAS
 'of': -F
 'no': TPHO
 'consequence.': KWEPBS TP-PL
@@ -477,7 +477,7 @@ The Old House
 'boy': PWOEU
 'one': WUPB
 'day': TKAEU
-'heard': HERD
+'heard': HAERD
 'his': HEUS
 'parents': PARPBTS
 'say,': SAEU KW-BG
@@ -491,7 +491,7 @@ The Old House
 'off,': OF KW-BG
 'but': PWUT
 'is': S
-'terribly': TER/PWHREU
+'terribly': TERBL/HREU
 'lonely."': HROPBL TP-PL KR-GS
 'The': -T
 'next': TPHEGT
@@ -553,16 +553,16 @@ The Old House
 'of': -F
 'them,': THEPL KW-BG
 'and': SKP
-'he': E
+'he': HE
 'shall': SHAL
 'have': SR
 'it,': T KW-BG
 'because': PWAU
 'I': EU
 'know': TPHOE
-'he': E
+'he': HE
 'is': S
-'terribly': TER/PWHREU
+'terribly': TERBL/HREU
 'lonely."': HROPBL TP-PL KR-GS
 'And': SKP
 'the': -T
@@ -575,7 +575,7 @@ The Old House
 'pleased,': PHRAOEFD KW-BG
 'and': SKP
 'then': THEPB
-'he': E
+'he': HE
 'carried': KAERD
 'the': -T
 'tin': TEUPB
@@ -584,8 +584,8 @@ The Old House
 'the': -T
 'house.': HOUS TP-PL
 'Afterwards': A*FRDZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'sent': SEPBT
 'over': OEFR
 'to': TO
@@ -594,7 +594,7 @@ The Old House
 'little': HREUL
 'boy': PWOEU
 'if': TP
-'he': E
+'he': HE
 'would': WO
 'not': TPHOT
 'like': HRAOEUBG
@@ -611,9 +611,9 @@ The Old House
 'and': SKP
 'so': SO
 'it': T
-'was': WA
+'was': WAS
 'that': THA
-'he': E
+'he': HE
 'gained': TKPWAEUPBD
 'admission': AD/PHEUGS
 'to': TO
@@ -648,7 +648,7 @@ The Old House
 'door': TKAOR
 'were': WR
 'carved': KAFRBD
-'trumpeters': XXX trumpeters
+'trumpeters': xxx trumpeters
 'standing': STAPBG
 'in': TPH
 'tulips,': TAOU/HREUPS KW-BG
@@ -734,11 +734,11 @@ The Old House
 'a': AEU
 'balcony,': PWAL/KOEPB KW-BG
 'which': WEU
-'was': WA
+'was': WAS
 'in': TPH
 'a': AEU
 'very': SRE
-'ruinous': XXX ruinous
+'ruinous': RAOUPB/OUS
 'state.': STAEUT TP-PL
 'There': THR
 'were': WR
@@ -765,7 +765,7 @@ The Old House
 'walls': WAULS
 'were': WR
 'so': SO
-'overgrown': XXX overgrown
+'overgrown': AUFR/TKPWROEPB
 'with': W
 'green': TKPWRAOEPB
 'that': THA
@@ -844,7 +844,7 @@ The Old House
 'flower': TPHRO*UR
 'for': TPOR
 'next': TPHEGT
-'Sunday—really': SUPBD EPL/TKA*RB HROERL
+'Sunday—really': SUPBD EPL/TKA*RB R-L
 'for': TPOR
 'next': TPHEGT
 'Sunday."': SUPBD TP-PL KR-GS
@@ -913,7 +913,7 @@ The Old House
 'say,': SAEU KW-BG
 '"Sit': KR-GS SEUT
 'down.': TKOUPB TP-PL
-'Oh': O*ERBGS
+'Oh': O*E
 'dear,': TKAER KW-BG
 'how': HOU
 'I': EU
@@ -979,7 +979,7 @@ The Old House
 'the': -T
 'furniture.': TPURPBT TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'so': SO
 'much': PHUFP
 'that': THA
@@ -990,7 +990,7 @@ The Old House
 'stood': STAOD
 'in': TPH
 'each': AOEFP
-'other's': OER AE S*/SP-S
+'other's': OER/AES
 'way': WAEU
 'to': TO
 'get': TKPWET
@@ -1005,7 +1005,7 @@ The Old House
 'wall': WAUL
 'near': TPHAOER
 'the': -T
-'centre': STR
+'centre': STR/A*U
 'of': -F
 'the': -T
 'room': RAOPL
@@ -1025,7 +1025,7 @@ The Old House
 'fashion': TPAGS
 'of': -F
 'the': -T
-'olden': XXX olden
+'olden': OLD/*EPB
 'times,': TAOEUPLS KW-BG
 'with': W
 'powdered': POURD/-D
@@ -1055,7 +1055,7 @@ The Old House
 'eyes;': AO*EUS STPH*FPLT
 'and': SKP
 'then': THEPB
-'he': E
+'he': HE
 'said': SAEUD
 'to': TO
 'the': -T
@@ -1071,7 +1071,7 @@ The Old House
 'the': -T
 'shop': SHOP
 'opposite,"': OP/SEUT KW-BG KR-GS
-'he': E
+'he': HE
 'replied.': RE/PHRAOEUD TP-PL
 '"Many': KR-GS PHAEPB
 'portraits': POR/TRAT/-S
@@ -1185,7 +1185,7 @@ The Old House
 'are': R
 'very': SRE
 'lonely."': HROPBL TP-PL KR-GS
-'"Oh,"': KR-GS O*ERBGS KW-BG KR-GS
+'"Oh,"': KR-GS O*E KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'old': OLD
@@ -1216,7 +1216,7 @@ The Old House
 'very': SRE
 'pleasant."': PHREFPBT TP-PL KR-GS
 'Then': THEPB
-'he': E
+'he': HE
 'took': TAOBG
 'from': TPR
 'the': -T
@@ -1269,7 +1269,7 @@ The Old House
 'and': SKP
 'on': OPB
 'the': -T
-'shoemakers'': XXX shoemakers AE
+'shoemakers'': xxx shoemakers AE
 'flag': TPHRAG
 'there': THR
 'were': WR
@@ -1277,13 +1277,13 @@ The Old House
 'boots,': PWAOTS KW-BG
 'but': PWUT
 'an': APB
-'eagle': AOEG/-L
+'eagle': AOEG/*L
 'with': W
 'two': TWO
 'heads,': HEDZ KW-BG
 'for': TPOR
 'the': -T
-'shoemakers': XXX shoemakers
+'shoemakers': xxx shoemakers
 'must': PHUFT
 'have': SR
 'everything': EFG
@@ -1301,7 +1301,7 @@ The Old House
 'a': AEU
 'picture-book': P*EUFP H-PB PWAOBG
 'it': T
-'was;': WA STPH*FPLT
+'was;': WAS STPH*FPLT
 'and': SKP
 'then': THEPB
 'the': -T
@@ -1317,7 +1317,7 @@ The Old House
 'and': SKP
 'nuts.': TPHUTS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'very': SRE
 'pleasant,': PHREFPBT KW-BG
 'certainly,': SERPBL KW-BG
@@ -1376,7 +1376,7 @@ The Old House
 'enough,': TPHUF KW-BG
 'but': PWUT
 'the': -T
-'evening': AOEPG
+'evening': AOEPBG
 'is': S
 'longer.': HRORPBG TP-PL
 'It': T
@@ -1385,7 +1385,7 @@ The Old House
 'here': HAOER
 'like': HRAOEUBG
 'it': T
-'was': WA
+'was': WAS
 'in': TPH
 'your': KWROUR
 'house': HOUS
@@ -1419,28 +1419,28 @@ The Old House
 'in': TPH
 'the': -T
 'old': OLD
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'house.': HOUS TP-PL
 'Do': TKO
 'you': U
 'think': THEU
-'he': E
+'he': HE
 'gets': TKPWETS
 'any': TPHEU
 'kisses?': KEUS/-S H-F
 'Do': TKO
 'you': U
 'think': THEU
-'he': E
+'he': HE
 'ever': -FR
 'has': HAS
 'friendly': TPREPBLD
-'looks,': HAOBGS KW-BG
+'looks,': HRAOBGS KW-BG
 'or': OR
 'a': AEU
 'Christmas': KREUS/PHAS
 'tree?': TRAOE H-F
-'He': E
+'He': HE
 'will': HR
 'have': SR
 'nothing': TPHOG
@@ -1448,7 +1448,7 @@ The Old House
 'but': PWUT
 'the': -T
 'grave.': TKPWRAEUF TP-PL
-'Oh,': O*ERBGS KW-BG
+'Oh,': O*E KW-BG
 'I': EU
 'cannot': K/TPHOT
 'bear': PWAER
@@ -1555,10 +1555,10 @@ The Old House
 'the': -T
 'little': HREUL
 'boy': PWOEU
-'was;': WA STPH*FPLT
+'was;': WAS STPH*FPLT
 'and': SKP
 'after': AF
-'he': E
+'he': HE
 'returned': RURPBD
 'home,': HOEPL KW-BG
 'and': SKP
@@ -1592,7 +1592,7 @@ The Old House
 'visit.': SREUFT TP-PL
 'The': -T
 'carved': KAFRBD
-'trumpeters': XXX trumpeters
+'trumpeters': xxx trumpeters
 'blew': PWHRAOU
 '"Tanta-ra-ra.': KR-GS TAPBT/SKWRA H-PB RA H-PB RA TP-PL
 'There': THR
@@ -1608,7 +1608,7 @@ The Old House
 'on': OPB
 'the': -T
 'old': OLD
-'knight's': TPHAO*EUT AE S*/SP-S
+'knight's': TPHAO*EUT AES
 'pictures': P*EUFPS
 'rattled.': RAT/-LD TP-PL
 'The': -T
@@ -1634,12 +1634,12 @@ The Old House
 'cried,': KRAOEUD KW-BG
 '"Creak;"': KR-GS KRAEBG STPH*FPLT KR-GS
 'it': T
-'was': WA
+'was': WAS
 'all': AUL
 'exactly': ELG
 'like': HRAOEUBG
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'time;': TAOEUPL STPH*FPLT
 'for': TPOR
 'in': TPH
@@ -1733,7 +1733,7 @@ The Old House
 'altogether': HR-GT
 'pleasant.': PHREFPBT TP-PL
 'I': EU
-'was': WA
+'was': WAS
 'very': SRE
 'nearly': TPHAOERL
 'jumping': SKWRUPL/-PG
@@ -1752,10 +1752,10 @@ The Old House
 'if': TP
 'you': U
 'were': WR
-'really': HROERL
+'really': R-L
 'present.': PREPBT TP-PL
 'It': T
-'was': WA
+'was': WAS
 'Sunday': SUPBD
 'morning,': PHORPBG KW-BG
 'and': SKP
@@ -1819,7 +1819,7 @@ The Old House
 'two': TWO
 'years': KWRAOERS
 'old,': OLD KW-BG
-'was': WA
+'was': WAS
 'brought': PWRAUT
 'into': TPHAO
 'the': -T
@@ -1827,7 +1827,7 @@ The Old House
 'You': U
 'know': TPHOE
 'she': SHE
-'always': AULZ
+'always': AULS
 'dances': TKAPBS/-S
 'when': WHEPB
 'she': SHE
@@ -1864,13 +1864,13 @@ The Old House
 'because': PWAU
 'the': -T
 'tune': TAOUPB
-'was': WA
+'was': WAS
 'so': SO
 'slow;': SHROE STPH*FPLT
 'so': SO
 'she': SHE
 'stood': STAOD
-'first': TPEURS
+'first': TPEUFRT
 'on': OPB
 'one': WUPB
 'leg': HREG
@@ -1900,7 +1900,7 @@ The Old House
 'grave,': TKPWRAEUF KW-BG
 'although': HR*T
 'it': T
-'was': WA
+'was': WAS
 'very': SRE
 'difficult': TKEUFL
 'to': TO
@@ -1930,7 +1930,7 @@ The Old House
 'I': EU
 'know': TPHOE
 'it': T
-'was': WA
+'was': WAS
 'not': TPHOT
 'right': RAOEUT
 'to': TO
@@ -1991,8 +1991,8 @@ The Old House
 'tin': TEUPB
 'soldier.': SHRERPBL TP-PL
 'Ah,': HA*E KW-BG
-'really': HROERL
-'he': E
+'really': R-L
+'he': HE
 'must': PHUFT
 'be': -B
 'very': SRE
@@ -2013,7 +2013,7 @@ The Old House
 '"you': KR-GS U
 'must': PHUFT
 'stay.': STAEU TP-PL
-'Don't': TKO*PB AE T*/SP-S
+'Don't': TKO*PB AE T*
 'you': U
 'see': SAOE
 'that?"': THA H-F KR-GS
@@ -2034,7 +2034,7 @@ The Old House
 'show': SHOE
 'him.': HEUPL TP-PL
 'Rouge-pots,': RAOUPBLG H-PB POTS KW-BG
-'scent-boxes,': SKEPBT H-PB PWOBGS/-S KW-BG
+'scent-boxes,': SKEPBT H-PB PWOBGSZ KW-BG
 'and': SKP
 'old': OLD
 'cards,': KARDZ KW-BG
@@ -2058,14 +2058,14 @@ The Old House
 'there': THR
 'were': WR
 'smaller': SPHAURL
-'boxes': PWOBGS/-S
+'boxes': PWOBGSZ
 'to': TO
 'look': HRAOBG
 'at,': AT KW-BG
 'and': SKP
 'the': -T
 'piano': PAPB/TPHOE
-'was': WA
+'was': WAS
 'opened,': OEPD KW-BG
 'and': SKP
 'inside': TPH-DZ
@@ -2088,24 +2088,24 @@ The Old House
 'of': -F
 'tune.': TAOUPB TP-PL
 'Then': THEPB
-'he': E
+'he': HE
 'looked': HRAOBGD
 'at': AT
 'the': -T
 'picture': P*EUFP
-'he': E
+'he': HE
 'had': H
 'bought': PWAUT
 'at': AT
 'the': -T
-'broker's,': PWROERBG AE S*/SP-S KW-BG
+'broker's,': PWROERBG AE S* KW-BG
 'and': SKP
 'his': HEUS
 'eyes': AO*EUS
 'sparkled': SPAR/K-LD
 'brightly': PWRAOEULT
 'as': AZ
-'he': E
+'he': HE
 'nodded': TPHOD/-D
 'at': AT
 'it,': T KW-BG
@@ -2136,7 +2136,7 @@ The Old House
 'as': AZ
 'loud': HROUD
 'as': AZ
-'he': E
+'he': HE
 'could,': KO KW-BG
 'and': SKP
 'threw': THRAOU
@@ -2147,9 +2147,9 @@ The Old House
 'floor.': TPHRAOR TP-PL
 'Where': W-R
 'could': KO
-'he': E
+'he': HE
 'have': SR
-'fallen?': TPAL/-PB H-F
+'fallen?': TPAUL/-PB H-F
 'The': -T
 'old': OLD
 'man': PHAPB
@@ -2160,8 +2160,8 @@ The Old House
 'boy': PWOEU
 'searched,': SEFRPBD KW-BG
 'but': PWUT
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'gone,': TKPWOPB KW-BG
 'and': SKP
 'could': KO
@@ -2178,7 +2178,7 @@ The Old House
 'old': OLD
 'man,': PHAPB KW-BG
 'but': PWUT
-'he': E
+'he': HE
 'did': TK
 'not': TPHOT
 'find': TPEUPBD
@@ -2198,7 +2198,7 @@ The Old House
 'tin': TEUPB
 'soldier': SHRERPBL
 'had': H
-'fallen': TPAUL/*EPB
+'fallen': TPAUL/-PB
 'through': THRU
 'a': AEU
 'crack': KRABG
@@ -2231,7 +2231,7 @@ The Old House
 'more': PHOR
 'weeks.': WAOEBGS TP-PL
 'It': T
-'was': WA
+'was': WAS
 'winter,': WEURPBT KW-BG
 'and': SKP
 'the': -T
@@ -2243,7 +2243,7 @@ The Old House
 'the': -T
 'little': HREUL
 'boy': PWOEU
-'was': WA
+'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'breathe': PWRAO*ET
@@ -2290,17 +2290,17 @@ The Old House
 'And': SKP
 'indeed': TPHAOEPBD
 'nobody': TPHOEB
-'was': WA
+'was': WAS
 'home,': HOEPL KW-BG
 'for': TPOR
 'the': -T
 'old': OLD
 'man': PHAPB
-'was': WA
+'was': WAS
 'dead.': TKED TP-PL
 'In': TPH
 'the': -T
-'evening,': AOEPG KW-BG
+'evening,': AOEPBG KW-BG
 'a': AEU
 'hearse': HA*ERS
 'stopped': STOPD
@@ -2314,12 +2314,12 @@ The Old House
 'in': TPH
 'his': HEUS
 'coffin': KOFPB
-'was': WA
+'was': WAS
 'placed': PHRAEUFD
 'in': TPH
 'it.': T TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'to': TO
 'be': -B
 'taken': TAEPB
@@ -2366,12 +2366,12 @@ The Old House
 'away': A/WAEU
 'with': W
 'it.': T TP-PL
-'A': AEU
+'A': KPA*/AEU
 'few': TPAOU
 'days': TKAEUS
 'after,': AF KW-BG
 'there': THR
-'was': WA
+'was': WAS
 'an': APB
 'auction': AUBGS
 'at': AT
@@ -2425,7 +2425,7 @@ The Old House
 'at': AT
 'the': -T
 'picture': P*EUFP
-'dealer's,': TKAOERL AE S*/SP-S KW-BG
+'dealer's,': TKAOERL AE S* KW-BG
 'went': WEPBT
 'back': PWABG
 'again': TKPWEPB
@@ -2504,14 +2504,14 @@ The Old House
 'for': TPOR
 'it': T
 'looked': HRAOBGD
-'ready': R*ED
+'ready': R-D
 'to': TO
-'fall,': TPAL KW-BG
+'fall,': TPAUL KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
 'it': T
-'was': WA
+'was': WAS
 'cleared': KHRAOERD
 'away': A/WAEU
 'altogether.': HR-GT TP-PL
@@ -2529,8 +2529,8 @@ The Old House
 'fine': TPAOEUPB
 'new': TPHU
 'house': HOUS
-'was': WA
-'built': PEULT
+'was': WAS
+'built': PWEULT
 'farther': TPA*RT
 'back': PWABG
 'from': TPR
@@ -2553,12 +2553,12 @@ The Old House
 'the': -T
 'old': OLD
 'house': HOUS
-'really': HROERL
+'really': R-L
 'stood,': STAOD KW-BG
 'a': AEU
 'little': HREUL
 'garden': TKPWA*RPB
-'was': WA
+'was': WAS
 'planted,': PHRAPBT/-D KW-BG
 'and': SKP
 'wild': WAOEULD
@@ -2638,13 +2638,13 @@ The Old House
 'the': -T
 'little': HREUL
 'boy': PWOEU
-'was': WA
+'was': WAS
 'now': TPHOU
 'a': AEU
 'man,': PHAPB KW-BG
 'and': SKP
 'a': AEU
-'really': HROERL
+'really': R-L
 'good': TKPWAOD
 'man': PHAPB
 'too,': TAO KW-BG
@@ -2656,8 +2656,8 @@ The Old House
 'proud': PROUD
 'of': -F
 'him.': HEUPL TP-PL
-'He': E
-'was': WA
+'He': HE
+'was': WAS
 'just': SKWRUFT
 'married,': PHAERD KW-BG
 'and': SKP
@@ -2682,7 +2682,7 @@ The Old House
 'it,': T KW-BG
 'and': SKP
 'now': TPHOU
-'he': E
+'he': HE
 'stood': STAOD
 'there': THR
 'by': PWEU
@@ -2700,7 +2700,7 @@ The Old House
 'very': SRE
 'pretty.': PREUT TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'planting': PHRAPBT/-G
 'it': T
 'herself': H*ERS
@@ -2716,10 +2716,10 @@ The Old House
 'with': W
 'her': HER
 'fingers.': TPEURPBGS TP-PL
-'"Oh': KR-GS O*ERBGS
+'"Oh': KR-GS O*E
 'dear,': TKAER KW-BG
 'what': WHA
-'was': WA
+'was': WAS
 'that?"': THA H-F KR-GS
 'she': SHE
 'exclaimed,': SKHRAEUPL/-D KW-BG
@@ -2733,14 +2733,14 @@ The Old House
 'soft': SOFT
 'earth': *ERT
 'something': S-G
-'was': WA
+'was': WAS
 'sticking': STEUG
 'up.': UP TP-PL
 'It': T
-'was—only': WA EPL/TKA*RB OEPBL
+'was—only': WAS EPL/TKA*RB OEPBL
 'think!—it': THEU SKHRAPL EPL/TKA*RB T
-'was': WA
-'really': HROERL
+'was': WAS
+'really': R-L
 'the': -T
 'tin': TEUPB
 'soldier,': SHRERPBL KW-BG
@@ -2755,7 +2755,7 @@ The Old House
 'in': TPH
 'the': -T
 'old': OLD
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'room,': RAOPL KW-BG
 'and': SKP
 'had': H
@@ -2791,7 +2791,7 @@ The Old House
 'wiped': WAOEUPD
 'the': -T
 'soldier,': SHRERPBL KW-BG
-'first': TPEURS
+'first': TPEUFRT
 'with': W
 'a': AEU
 'green': TKPWRAOEPB
@@ -2815,8 +2815,8 @@ The Old House
 'felt': TPELT
 'as': AZ
 'if': TP
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'recovering': ROFRG
 'from': TPR
 'a': AEU
@@ -2832,7 +2832,7 @@ The Old House
 'man,': PHAPB KW-BG
 'and': SKP
 'then': THEPB
-'he': E
+'he': HE
 'smiled': SPHAOEULD
 'and': SKP
 'shook': SHAOBG
@@ -2862,13 +2862,13 @@ The Old House
 'soldiers': SHRERPBLGS
 'when': WHEPB
 'I': EU
-'was': WA
+'was': WAS
 'a': AEU
 'little': HREUL
 'boy."': PWOEU TP-PL KR-GS
 'And': SKP
 'then': THEPB
-'he': E
+'he': HE
 'told': TOLD
 'his': HEUS
 'wife': WAOEUF
@@ -2886,20 +2886,20 @@ The Old House
 'tin': TEUPB
 'soldier': SHRERPBL
 'which': WEU
-'he': E
+'he': HE
 'had': H
 'sent': SEPBT
 'across,': A/KROS KW-BG
 'because': PWAU
-'he': E
+'he': HE
 'thought': THAUT
 'the': -T
 'old': OLD
 'man': PHAPB
-'was': WA
+'was': WAS
 'lonely;': HROPBL STPH*FPLT
 'and': SKP
-'he': E
+'he': HE
 'related': RAELTD
 'the': -T
 'story': STOER
@@ -2926,11 +2926,11 @@ The Old House
 '"It': KR-GS T
 'is': S
 'very': SRE
-'likely': HREULG
+'likely': HRAOEULG
 'that': THA
 'this': TH
 'is': S
-'really': HROERL
+'really': R-L
 'the': -T
 'same': SAEUPL
 'soldier,"': SHRERPBL KW-BG KR-GS
@@ -2944,7 +2944,7 @@ The Old House
 'of': -F
 'him,': HEUPL KW-BG
 'and': SKP
-'always': AULZ
+'always': AULS
 'remember': REB
 'what': WHA
 'you': U
@@ -2960,7 +2960,7 @@ The Old House
 'me': PHE
 'the': -T
 'old': OLD
-'man's': PHAPB AE S*/SP-S
+'man's': PHAPB/AES
 'grave."': TKPWRAEUF TP-PL KR-GS
 '"I': KR-GS EU
 'don't': TKOEPBT
@@ -2968,7 +2968,7 @@ The Old House
 'where': W-R
 'it': T
 'is,"': S KW-BG KR-GS
-'he': E
+'he': HE
 'replied;': RE/PHRAOEUD STPH*FPLT
 '"no': KR-GS TPHO
 'one': WUPB
@@ -2986,23 +2986,23 @@ The Old House
 'him,': HEUPL KW-BG
 'and': SKP
 'I': EU
-'was': WA
+'was': WAS
 'only': OEPBL
 'a': AEU
 'little': HREUL
 'boy."': PWOEU TP-PL KR-GS
-'"Oh,': KR-GS O*ERBGS KW-BG
+'"Oh,': KR-GS O*E KW-BG
 'how': HOU
 'dreadfully': TKRED/-FL/KWREU
 'lonely': HROPBL
-'he': E
+'he': HE
 'must': PHUFT
 'have': SR
 'been,"': PW-PB KW-BG KR-GS
 'said': SAEUD
 'she.': SHE TP-PL
 '"Yes,': KR-GS KWRE KW-BG
-'terribly': TER/PWHREU
+'terribly': TERBL/HREU
 'lonely,"': HROPBL KW-BG KR-GS
 'cried': KRAOEUD
 'the': -T

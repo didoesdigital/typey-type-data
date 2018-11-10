@@ -1,7 +1,7 @@
 Delaying Is Not Forgetting
 
 'There': THR
-'was': WA
+'was': WAS
 'an': APB
 'old': OLD
 'mansion': PHAPBGS
@@ -14,7 +14,7 @@ Delaying Is Not Forgetting
 'a': AEU
 'drawbridge': TKRAU/PWREUPBLG
 'which': WEU
-'was': WA
+'was': WAS
 'but': PWUT
 'seldom': SELD/OPL
 'let': HRET
@@ -46,7 +46,7 @@ Delaying Is Not Forgetting
 'the': -T
 'enemy,': EPB/PHEU KW-BG
 'should': SHO
-'he': E
+'he': HE
 'approach.': PROEFP TP-PL
 'Inside': TPH-DZ
 'the': -T
@@ -63,7 +63,7 @@ Delaying Is Not Forgetting
 'beams,': PWAOEPLS KW-BG
 'and': SKP
 'that': THA
-'was': WA
+'was': WAS
 'very': SRE
 'useful': AOUFL
 'considering': KR-G
@@ -86,7 +86,7 @@ Delaying Is Not Forgetting
 'logs': HROGS
 'of': -F
 'wood': WAOD
-'smouldered.': SPHOLD/ERD TP-PL
+'smouldered.': SPHOLD/ERD/A*U TP-PL
 'On': OPB
 'the': -T
 'walls': WAULS
@@ -111,12 +111,12 @@ Delaying Is Not Forgetting
 'about': PW
 'alive.': A/HRAOEUF TP-PL
 'She': SHE
-'was': WA
+'was': WAS
 'called': KAULD
 'Meta': PHE/TA
-'Mogen;': XXX Mogen STPH*FPLT
+'Mogen;': xxx Mogen STPH*FPLT
 'she': SHE
-'was': WA
+'was': WAS
 'the': -T
 'mistress': PHEUS/TRES
 'of': -F
@@ -129,7 +129,7 @@ Delaying Is Not Forgetting
 'castle.': KAFL TP-PL
 'Towards': TORDZ
 'the': -T
-'evening': AOEPG
+'evening': AOEPBG
 'robbers': RORBS
 'came;': KAEUPL STPH*FPLT
 'they': THE
@@ -144,7 +144,7 @@ Delaying Is Not Forgetting
 'yard-dog,': KWRARD H-PB TKOG KW-BG
 'and': SKP
 'attached': A/TAFPD
-'Mrs.': XXX Mrs TP-PL
+'Mrs.': PHR-S
 'Meta': PHE/TA
 'to': TO
 'the': -T
@@ -173,9 +173,9 @@ Delaying Is Not Forgetting
 'of': -F
 'her': HER
 'cellar.': SEL/AR TP-PL
-'Mrs.': XXX Mrs TP-PL
+'Mrs.': PHR-S
 'Meta': PHE/TA
-'was': WA
+'was': WAS
 'now': TPHOU
 'on': OPB
 'the': -T
@@ -188,7 +188,7 @@ Delaying Is Not Forgetting
 'But': PWUT
 'lo!': HRO SKHRAPL
 'the': -T
-'servant': SEFB/APBT
+'servant': SEFRB/APBT
 'of': -F
 'one': WUPB
 'of': -F
@@ -208,9 +208,9 @@ Delaying Is Not Forgetting
 'have': SR
 'killed': KEULD
 'him.': HEUPL TP-PL
-'"Mrs.': KR-GS XXX Mrs TP-PL
+'"Mrs.': KR-GS PH*/R*/S* TP-PL
 'Meta': PHE/TA
-'Mogen,"': XXX Mogen KW-BG KR-GS
+'Mogen,"': xxx Mogen KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'fellow,': TPO*EUL KW-BG
@@ -224,7 +224,7 @@ Delaying Is Not Forgetting
 'when': WHEPB
 'your': KWROUR
 'husband': HUS
-'was': WA
+'was': WAS
 'still': STEUL
 'alive,': A/HRAOEUF KW-BG
 'had': H
@@ -240,18 +240,18 @@ Delaying Is Not Forgetting
 'him,': HEUPL KW-BG
 'but': PWUT
 'it': T
-'was': WA
+'was': WAS
 'no': TPHO
 'good,': TKPWAOD KW-BG
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'to': TO
 'ride': RAOEUD
 'until': TPH-L
 'his': HEUS
 'limbs': HREUPLS
 'were': WR
-'paralysed;': PA*R/HRAOEUFD STPH*FPLT
+'paralysed;': PA*R/HRAOEUFD/A*U STPH*FPLT
 'but': PWUT
 'you': U
 'stole': STOEL
@@ -275,7 +275,7 @@ Delaying Is Not Forgetting
 'his': HEUS
 'feet': TPAOET
 'that': THA
-'he': E
+'he': HE
 'might': PHAOEUT
 'have': SR
 'support,': SPOR KW-BG
@@ -314,14 +314,14 @@ Delaying Is Not Forgetting
 'will': HR
 'free': TPRAOE
 'you,': U KW-BG
-'Mrs.': XXX Mrs TP-PL
+'Mrs.': PHR-S
 'Meta': PHE/TA
-'Mogen!"': XXX Mogen SKHRAPL KR-GS
+'Mogen!"': xxx Mogen SKHRAPL KR-GS
 'Then': THEPB
 'they': THE
 'pulled': PULD
 'the': -T
-'horses': HORS/-S
+'horses': HORSZ
 'out': OUT
 'of': -F
 'the': -T
@@ -341,19 +341,19 @@ Delaying Is Not Forgetting
 'friends.': TPREPBDZ TP-PL
 '"Thus': KR-GS THUS
 'the': -T
-'small': SPAUL
+'small': SPHAL
 'service': S-FS
 'done': TKOPB
 'to': TO
 'the': -T
 'old': OLD
 'man': PHAPB
-'was': WA
+'was': WAS
 'richly': REUFP/HREU
 'rewarded!"': RE/WARD/-D SKHRAPL KR-GS
 'said': SAEUD
 'Meta': PHE/TA
-'Mogen.': XXX Mogen TP-PL
+'Mogen.': xxx Mogen TP-PL
 '"Delaying': KR-GS TKHRAEUG
 'is': S
 'not': TPHOT
@@ -366,7 +366,7 @@ Delaying Is Not Forgetting
 'were': WR
 'hanged.': HAPBGD TP-PL
 'There': THR
-'was': WA
+'was': WAS
 'an': APB
 'old': OLD
 'mansion,': PHAPBGS KW-BG
@@ -377,11 +377,11 @@ Delaying Is Not Forgetting
 'it': T
 'did': TK
 'not': TPHOT
-'belong': PWHROPG
+'belong': PWHROPBG
 'to': TO
-'Mrs.': XXX Mrs TP-PL
+'Mrs.': PHR-S
 'Meta': PHE/TA
-'Mogen,': XXX Mogen KW-BG
+'Mogen,': xxx Mogen KW-BG
 'it': T
 'belonged': PWHROPBGD
 'to': TO
@@ -427,7 +427,7 @@ Delaying Is Not Forgetting
 'the': -T
 'garden': TKPWA*RPB
 'grow': TKPWROE
-'roses;': ROES/-S STPH*FPLT
+'roses;': ROESZ STPH*FPLT
 'the': -T
 'mistress': PHEUS/TRES
 'of': -F
@@ -489,7 +489,7 @@ Delaying Is Not Forgetting
 'lives': HREUFS
 'a': AEU
 'poor': PAOR
-'paralysed': PA*R/HRAOEUFD
+'paralysed': PA*R/HRAOEUFD/A*U
 'girl;': TKPWEURL STPH*FPLT
 'the': -T
 'window': WOEUPBD
@@ -497,7 +497,7 @@ Delaying Is Not Forgetting
 'her': HER
 'little': HREUL
 'room': RAOPL
-'looks': HAOBGS
+'looks': HRAOBGS
 'northward,': TPHO*RT/WARD KW-BG
 'the': -T
 'sun': SUPB
@@ -511,7 +511,7 @@ Delaying Is Not Forgetting
 'only': OEPBL
 'see': SAOE
 'a': AEU
-'small': SPAUL
+'small': SPHAL
 'piece': PAOES
 'of': -F
 'field': TPAOELD
@@ -551,15 +551,15 @@ Delaying Is Not Forgetting
 'formerly': TPORPL/ERL
 'the': -T
 'wall': WAUL
-'was.': WA TP-PL
+'was.': WAS TP-PL
 'The': -T
-'paralysed': PA*R/HRAOEUFD
+'paralysed': PA*R/HRAOEUFD/A*U
 'girl': TKPWEURL
 'sits': SEUTS
 'in': TPH
 'the': -T
 'warm': WARPL
-'sunshine': S*UPB/SHAOEUPB
+'sunshine': SUPB/SHAO*EUPB
 'and': SKP
 'can': K
 'see': SAOE
@@ -591,13 +591,13 @@ Delaying Is Not Forgetting
 'mansion.': PHAPBGS TP-PL
 '"The': KR-GS -T
 'word': WORD
-'was': WA
+'was': WAS
 'so': SO
 'easy,': EZ KW-BG
 'the': -T
 'deed': TKAOED
 'so': SO
-'small,"': SPAUL KW-BG KR-GS
+'small,"': SPHAL KW-BG KR-GS
 'she': SHE
 'said,': SAEUD KW-BG
 '"the': KR-GS -T
@@ -605,7 +605,7 @@ Delaying Is Not Forgetting
 'it': T
 'afforded': A/TPORD/-D
 'me': PHE
-'was': WA
+'was': WAS
 'infinitely': EUPB/TPEUPBT/HREU
 'great': TKPWRAET
 'and': SKP
@@ -657,7 +657,7 @@ Delaying Is Not Forgetting
 'stood': STAOD
 'there;': THR STPH*FPLT
 'it': T
-'was': WA
+'was': WAS
 'in': TPH
 'the': -T
 'large': HRARPBLG
@@ -707,17 +707,17 @@ Delaying Is Not Forgetting
 'beeswax;': PWAOES/WABGS STPH*FPLT
 'the': -T
 'sink': S*EUPBG
-'looks': HAOBGS
+'looks': HRAOBGS
 'like': HRAOEUBG
 'a': AEU
 'freshly': TPRERBL
 'scoured': SKOUR/-D
-'meatboard.': XXX meatboard TP-PL
+'meatboard.': xxx meatboard TP-PL
 'All': AUL
 'this': TH
 'a': AEU
 'single': SEUPBLG
-'servant': SEFB/APBT
+'servant': SEFRB/APBT
 'has': HAS
 'done,': TKOPB KW-BG
 'and': SKP
@@ -760,7 +760,7 @@ Delaying Is Not Forgetting
 'nor': TPH-R
 'mother,': PHOER KW-BG
 'neither': TPHAOERT
-'relations': RAOELGS/-S
+'relations': RELGS/-S
 'nor': TPH-R
 'sweetheart.': SWAOET/HART TP-PL
 'She': SHE
@@ -771,7 +771,7 @@ Delaying Is Not Forgetting
 'One': WUPB
 'day': TKAEU
 'she': SHE
-'was': WA
+'was': WAS
 'engaged': EPB/TKPWAEUBLG/-D
 'to': TO
 'a': AEU
@@ -784,7 +784,7 @@ Delaying Is Not Forgetting
 'dearly.': TKAERL TP-PL
 'One': WUPB
 'day': TKAEU
-'he': E
+'he': HE
 'came': KAEUPL
 'to': TO
 'her': HER
@@ -879,7 +879,7 @@ Delaying Is Not Forgetting
 'in': TPH
 'the': -T
 'street;': STRAOET STPH*FPLT
-'he': E
+'he': HE
 'looked': HRAOBGD
 'ill': EUL
 'and': SKP
@@ -900,7 +900,7 @@ Delaying Is Not Forgetting
 'in': TPH
 'every': EF
 'respect,"': R-PT KW-BG KR-GS
-'he': E
+'he': HE
 'said;': SAEUD STPH*FPLT
 '"the': KR-GS -T
 'woman': WOPL
@@ -937,7 +937,7 @@ Delaying Is Not Forgetting
 'meet': PHAOET
 'before': PW-F
 'God!"': TKPWOD SKHRAPL KR-GS
-'A': AEU
+'A': KPA*/AEU
 'week': WAOEBG
 'has': HAS
 'passed;': PAFD STPH*FPLT
@@ -945,7 +945,7 @@ Delaying Is Not Forgetting
 'morning': PHORPBG
 'his': HEUS
 'death': TK*T
-'was': WA
+'was': WAS
 'in': TPH
 'the': -T
 'newspaper,': TPHUP KW-BG
@@ -955,7 +955,7 @@ Delaying Is Not Forgetting
 'reason': R-PB
 'of': -F
 'the': -T
-'girl's': TKPWEURL AE S*/SP-S
+'girl's': TKPWEURL/AES
 'mourning!': PHOURPBG SKHRAPL
 'Her': HER
 'old': OLD
@@ -993,7 +993,7 @@ Delaying Is Not Forgetting
 'signifies': SEUPBG/TPAOEU/-S
 'mourning,': PHOURPBG KW-BG
 'the': -T
-'girl's': TKPWEURL AE S*/SP-S
+'girl's': TKPWEURL/AES
 'face': TPAEUS
 'points': POEUPBTS
 'to': TO
@@ -1042,7 +1042,7 @@ Delaying Is Not Forgetting
 'In': TPH
 'the': -T
 'little': HREUL
-'heartbook': XXX heartbook
+'heartbook': xxx heartbook
 'are': R
 'many': PHAEPB
 'more': PHOR

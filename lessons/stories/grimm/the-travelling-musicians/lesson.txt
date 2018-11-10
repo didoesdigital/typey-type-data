@@ -12,7 +12,7 @@ The Travelling Musicians
 'been': PW-PB
 'a': AEU
 'faithful': TPA*EUT/-FL
-'servant': SEFB/APBT
+'servant': SEFRB/APBT
 'to': TO
 'him': HEUPL
 'a': AEU
@@ -20,7 +20,7 @@ The Travelling Musicians
 'many': PHAEPB
 'years,': KWRAOERS KW-BG
 'but': PWUT
-'was': WA
+'was': WAS
 'now': TPHOU
 'growing': TKPWROEG
 'old': OLD
@@ -36,7 +36,7 @@ The Travelling Musicians
 'His': HEUS
 'master': PHAFRT
 'therefore': TH-FR
-'was': WA
+'was': WAS
 'tired': TAOEURD
 'of': -F
 'keeping': KAOEPG
@@ -59,7 +59,7 @@ The Travelling Musicians
 'that': THA
 'some': SOPL
 'mischief': PHEUS/KHEF
-'was': WA
+'was': WAS
 'in': TPH
 'the': -T
 'wind,': WEUPBD KW-BG
@@ -78,19 +78,19 @@ The Travelling Musicians
 ''For': AE TPOR
 'there,'': THR KW-BG AE
 'thought': THAUT
-'he,': E KW-BG
+'he,': HE KW-BG
 ''I': AE EU
 'may': PHAE
 'turn': TURPB
 'musician.'': PHAOUGS TP-PL AE
 'After': AF
-'he': E
+'he': HE
 'had': H
-'travelled': TRAFLD
+'travelled': TRAFLD/A*U
 'a': AEU
 'little': HREUL
 'way,': WAEU KW-BG
-'he': E
+'he': HE
 'spied': SPAOEUD
 'a': AEU
 'dog': TKOG
@@ -102,7 +102,7 @@ The Travelling Musicians
 'panting': PAPBT/-G
 'as': AZ
 'if': TP
-'he': E
+'he': HE
 'were': WR
 'tired.': TAOEURD TP-PL
 ''What': AE WHA
@@ -121,7 +121,7 @@ The Travelling Musicians
 'dog,': TKOG KW-BG
 ''my': AE PHEU
 'master': PHAFRT
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'knock': TPHOBG
@@ -160,7 +160,7 @@ The Travelling Musicians
 'my': PHEU
 'livelihood?'': HRAOFD H-F AE
 ''Hark': AE HARBG
-'ye!'': XXX ye SKHRAPL AE
+'ye!'': KWR*/*E/SP-S SKHRAPL AE
 'said': SAEUD
 'the': -T
 'ass,': A*S KW-BG
@@ -192,8 +192,8 @@ The Travelling Musicians
 'The': -T
 'dog': TKOG
 'said': SAEUD
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'willing,': -LG KW-BG
 'and': SKP
 'they': THE
@@ -210,7 +210,7 @@ The Travelling Musicians
 'saw': SAU
 'a': AEU
 'cat': KAT
-'sitting': SAO*EGT
+'sitting': SEUGT
 'in': TPH
 'the': -T
 'middle': PH*EULD
@@ -230,7 +230,7 @@ The Travelling Musicians
 'said': SAEUD
 'the': -T
 'ass,': A*S KW-BG
-''what's': AE WHA AE S*/SP-S
+''what's': AE WHA AES
 'the': -T
 'matter': PHAERT
 'with': W
@@ -291,7 +291,7 @@ The Travelling Musicians
 'of': -F
 'me,': PHE KW-BG
 'and': SKP
-'was': WA
+'was': WAS
 'going': TKPW-G
 'to': TO
 'drown': TKROUPB
@@ -318,7 +318,7 @@ The Travelling Musicians
 'to': TO
 'live': HREUF
 'upon.'': POPB TP-PL AE
-''Oh,'': AE O*ERBGS KW-BG AE
+''Oh,'': AE O*E KW-BG AE
 'said': SAEUD
 'the': -T
 'ass,': A*S KW-BG
@@ -348,7 +348,7 @@ The Travelling Musicians
 'musician.'': PHAOUGS TP-PL AE
 'The': -T
 'cat': KAT
-'was': WA
+'was': WAS
 'pleased': PHRAOEFD
 'with': W
 'the': -T
@@ -406,7 +406,7 @@ The Travelling Musicians
 'the': -T
 'cock,': KOBG KW-BG
 ''I': AE EU
-'was': WA
+'was': WAS
 'just': SKWRUFT
 'now': TPHOU
 'saying': SAEUG
@@ -462,7 +462,7 @@ The Travelling Musicians
 'with': W
 'us': US
 'Master': PHAFRT
-'Chanticleer;': XXX Chanticleer STPH*FPLT
+'Chanticleer;': xxx Chanticleer STPH*FPLT
 'it': T
 'will': HR
 'be': -B
@@ -527,7 +527,7 @@ The Travelling Musicians
 'great': TKPWRAET
 'city': STEU
 'the': -T
-'first': TPEURS
+'first': TPEUFRT
 'day;': TKAEU STPH*FPLT
 'so': SO
 'when': WHEPB
@@ -568,11 +568,11 @@ The Travelling Musicians
 'that': THA
 'the': -T
 'higher': HAOEUR
-'he': E
+'he': HE
 'sat': SAT
 'the': -T
 'safer': SAEUFR
-'he': E
+'he': HE
 'should': SHO
 'be,': -B KW-BG
 'flew': TPHRAOU
@@ -591,7 +591,7 @@ The Travelling Musicians
 'his': HEUS
 'custom,': KUFPL KW-BG
 'before': PW-F
-'he': E
+'he': HE
 'went': WEPBT
 'to': TO
 'sleep,': SHRAOEP KW-BG
@@ -606,12 +606,12 @@ The Travelling Musicians
 'see': SAOE
 'that': THA
 'everything': EFG
-'was': WA
+'was': WAS
 'well.': WEL TP-PL
 'In': TPH
 'doing': TK*G
 'this,': TH KW-BG
-'he': E
+'he': HE
 'saw': SAU
 'afar': A/TPAR
 'off': OF
@@ -692,7 +692,7 @@ The Travelling Musicians
 'the': -T
 'spot': SPOT
 'where': W-R
-'Chanticleer': XXX Chanticleer
+'Chanticleer': xxx Chanticleer
 'had': H
 'seen': SAOEPB
 'the': -T
@@ -740,9 +740,9 @@ The Travelling Musicians
 'peeped': PAOEPD
 'in.': TPH TP-PL
 ''Well,': AE WEL KW-BG
-'Donkey,'': TKOPB/KAOE KW-BG AE
+'Donkey,'': TKOPB/KEU KW-BG AE
 'said': SAEUD
-'Chanticleer,': XXX Chanticleer KW-BG
+'Chanticleer,': xxx Chanticleer KW-BG
 ''what': AE WHA
 'do': TKO
 'you': U
@@ -768,7 +768,7 @@ The Travelling Musicians
 'things,': THEUPBGS KW-BG
 'and': SKP
 'robbers': RORBS
-'sitting': SAO*EGT
+'sitting': SEUGT
 'round': ROUPBD
 'it': T
 'making': PHAEUG
@@ -843,7 +843,7 @@ The Travelling Musicians
 'up': UP
 'to': TO
 'the': -T
-'dog's': TKOG AE S*/SP-S
+'dog's': TKOG AES
 'shoulders,': SHOURLDZ KW-BG
 'and': SKP
 'the': -T
@@ -854,15 +854,15 @@ The Travelling Musicians
 'sat': SAT
 'upon': POPB
 'the': -T
-'cat's': KAT AE S*/SP-S
+'cat's': KAT AES
 'head.': HED TP-PL
 'When': WHEPB
 'all': AUL
-'was': WA
-'ready': R*ED
+'was': WAS
+'ready': R-D
 'a': AEU
 'signal': STPHAL
-'was': WA
+'was': WAS
 'given,': TKPWEUFPB KW-BG
 'and': SKP
 'they': THE
@@ -946,7 +946,7 @@ The Travelling Musicians
 'once': WUPBS
 'clear,': KHRAOER KW-BG
 'our': OUR
-'travellers': TRA*FL/ERS
+'travellers': TRA*FL/ERS/A*U
 'soon': SAOPB
 'sat': SAT
 'down': TKOUPB
@@ -998,7 +998,7 @@ The Travelling Musicians
 'own': OEPB
 'liking.': HRAO*EUG TP-PL
 'The': -T
-'donkey': TKOPB/KAOE
+'donkey': TKOPB/KEU
 'laid': HRAEUD
 'himself': H*EUPLS
 'down': TKOUPB
@@ -1099,7 +1099,7 @@ The Travelling Musicians
 'of': -F
 'them,': THEPL KW-BG
 'who': WHO
-'was': WA
+'was': WAS
 'bolder': PWOERLD
 'than': THAPB
 'the': -T
@@ -1108,13 +1108,13 @@ The Travelling Musicians
 'to': TO
 'see': SAOE
 'what': WHA
-'was': WA
+'was': WAS
 'going': TKPW-G
 'on.': OPB TP-PL
 'Finding': TPAOEPBGD
 'everything': EFG
 'still,': STEUL KW-BG
-'he': E
+'he': HE
 'marched': PHAFRPBD
 'into': TPHAO
 'the': -T
@@ -1123,7 +1123,7 @@ The Travelling Musicians
 'groped': TKPWROEPD
 'about': PW
 'till': T*EUL
-'he': E
+'he': HE
 'found': TPOUPBD
 'a': AEU
 'match': PHAFP
@@ -1143,8 +1143,8 @@ The Travelling Musicians
 'of': -F
 'the': -T
 'cat,': KAT KW-BG
-'he': E
-'mistook': XXX mistook
+'he': HE
+'mistook': PHEUZ/TAOBG
 'them': THEPL
 'for': TPOR
 'live': HREUF
@@ -1181,7 +1181,7 @@ The Travelling Musicians
 'dreadfully,': TKRED/-FL/KWREU KW-BG
 'and': SKP
 'away': A/WAEU
-'he': E
+'he': HE
 'ran': RAPB
 'to': TO
 'the': -T
@@ -1201,8 +1201,8 @@ The Travelling Musicians
 'leg;': HREG STPH*FPLT
 'and': SKP
 'as': AZ
-'he': E
-'was': WA
+'he': HE
+'was': WAS
 'crossing': KROFG
 'over': OEFR
 'the': -T
@@ -1235,7 +1235,7 @@ The Travelling Musicians
 'as': AZ
 'fast': TPAFT
 'as': AZ
-'he': E
+'he': HE
 'could': KO
 'to': TO
 'his': HEUS
@@ -1265,7 +1265,7 @@ The Travelling Musicians
 'with': W
 'her': HER
 'long': HROPBG
-'bony': PWOE/TPH*EU
+'bony': PWOEPB/KWREU
 'fingers;': TPEURPBGS STPH*FPLT
 'how': HOU
 'a': AEU
@@ -1291,7 +1291,7 @@ The Travelling Musicians
 'how': HOU
 'a': AEU
 'black': PWHRABG
-'monster': PHOPBS/TER
+'monster': PHOPB/STER
 'stood': STAOD
 'in': TPH
 'the': -T
@@ -1319,7 +1319,7 @@ The Travelling Musicians
 'out,': OUT KW-BG
 ''Throw': AE THROE
 'the': -T
-'rascal': RAS/KAL
+'rascal': RAS/K-L
 'up': UP
 'here!'': HAOER SKHRAPL AE
 'After': AF
