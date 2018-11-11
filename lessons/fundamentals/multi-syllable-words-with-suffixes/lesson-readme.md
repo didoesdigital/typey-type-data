@@ -223,7 +223,7 @@
 * animation `APB/PHAEUGS`
 * productions `PROUBGS/-S`
 * aviation `AEUF/KWRAEUGS`
-* telecommunications `TEL/KPHAOUPB/KAEUGS/-S`
+* telecommunications `T*EL/KAEUBGSZ`
 * bestiality `PWAOEFT/KWRALT`
 * voltage `SRALT/APBLG`
 * imaging `EUPBLG/-G`

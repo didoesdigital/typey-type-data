@@ -15,7 +15,7 @@
 * interdevelopmental `EUPBT/SREPLT/KWRA*L`
 * parliamentarianism `PARL/-PLT/TAEUR/TPHEUFPL`
 * oversimplification `AUFR/SEUPL/KAEUGS`
-* telecommunications `TEL/KPHAOUPB/KAEUGS/-S`
+* telecommunications `T*EL/KAEUBGSZ`
 * transubstantiation `TRAPBS/SAUBS/AEUGS`
 * ultraconservatives `UL/TRA/KOPB/SEFRB/T*EUFS`
 * Transcendentalism `TRAPBS/EPBD/EPBT/A*L/EUFPL`

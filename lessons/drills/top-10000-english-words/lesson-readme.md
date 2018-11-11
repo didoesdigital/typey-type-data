@@ -4137,7 +4137,7 @@
 * console `KAUPB/SOEL`
 * commands `KPHAPBDZ`
 * jr `SKWR*/R*`
-* telecommunications `TEL/KPHAOUPB/KAEUGS/-S`
+* telecommunications `T*EL/KAEUBGSZ`
 * instructor `STRUBG/TOR`
 * giant `SKWRAOEUPBT`
 * achieved `A/KHAOEFD`

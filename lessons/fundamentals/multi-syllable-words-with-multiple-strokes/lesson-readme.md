@@ -693,7 +693,7 @@
 * hobbies `HOB/EUS`
 * disaster `STKAS/TER`
 * console `KAUPB/SOEL`
-* telecommunications `TEL/KPHAOUPB/KAEUGS/-S`
+* telecommunications `T*EL/KAEUBGSZ`
 * instructor `STRUBG/TOR`
 * achieved `A/KHAOEFD`
 * bestiality `PWAOEFT/KWRALT`
