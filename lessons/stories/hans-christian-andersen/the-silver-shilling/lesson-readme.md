@@ -579,7 +579,7 @@
 * him, `HEUPL KW-BG`
 * an `APB`
 * impartial `EUPL/PARBL`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * "A `KR-GS KPA*/AEU`
 * way `WAEU`
 * changed `KHAEUPBGD`

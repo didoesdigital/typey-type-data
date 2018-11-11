@@ -2566,7 +2566,7 @@
 * replacement `RE/PHRAEUPLT`
 * tape `TAEUP`
 * strategic `STRAO*EBG`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * spam `SPAPL`
 * economics `KPHEBGS`
 * acid `SA*EUD`

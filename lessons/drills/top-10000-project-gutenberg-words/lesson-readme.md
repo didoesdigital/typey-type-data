@@ -1130,7 +1130,7 @@
 * feelings `TPAOELGS`
 * native `TPHAEUFT`
 * promised `PROPLS/-D`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * difference `TKEUFRPBS`
 * working `WOG`
 * anxious `KPUS`

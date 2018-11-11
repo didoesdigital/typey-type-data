@@ -26,6 +26,7 @@
 * bridge `PWREUPBLG`
 * mix `PHEUBGS`
 * fix `TPEUBGS`
+* judge `SKWRUPBLG`
 * bags `PWAGS`
 * dogs `TKOGS`
 * ages `AEPBLGS`

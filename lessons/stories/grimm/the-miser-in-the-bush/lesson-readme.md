@@ -338,7 +338,7 @@
 * serve `SEFRB`
 * late `HRAEUT`
 * trick. `TREUBG TP-PL`
-* judge, `SKWRUPBL KW-BG`
+* judge, `SKWRUPBLG KW-BG`
 * complained `KPHRAEUPBD`
 * rascal `RAS/K-L`
 * robbed `ROBD`
@@ -347,7 +347,7 @@
 * carried `KAERD`
 * back `PWABG`
 * neck. `TPHEBG TP-PL`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * sent `SEPBT`
 * officers `OEUFRS`
 * accused `A/KAOUFD`
@@ -433,7 +433,7 @@
 * also, `HR-S KW-BG`
 * time `TAOEUPL`
 * bar `PWAR`
-* together--judge, `TOGT H-PB H-PB SKWRUPBL KW-BG`
+* together--judge, `TOGT H-PB H-PB SKWRUPBLG KW-BG`
 * court, `KORT KW-BG`
 * people `PAOEPL`
 * followed `TPOLD`

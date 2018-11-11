@@ -217,7 +217,7 @@
 * minister `PHEUPB/STER`
 * weavers," `WAOEFR/-S KW-BG KR-GS`
 * can `K`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * best `PWEFT`
 * looks, `HRAOBGS KW-BG`
 * intelligent, `SPWEPBLGT KW-BG`

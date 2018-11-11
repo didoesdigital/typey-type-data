@@ -370,7 +370,7 @@
 * often `OFPB`
 * so. `SO TP-PL`
 * easily `AOELS`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * one's `W*UPBS`
 * own `OEPB`
 * swiftness. `xxx swiftness TP-PL`

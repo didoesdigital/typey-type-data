@@ -63,7 +63,7 @@
 * this `TH`
 * mother `PHOER`
 * even `AOEPB`
-* doated `xxx doated`
+* doated `TKOET/A*U/-D`
 * on `OPB`
 * daughter, `TKAUR KW-BG`
 * at `AT`
@@ -265,12 +265,12 @@
 * sight `SAOEUT`
 * indeed," `TPHAOEPBD KW-BG KR-GS`
 * ill-bred `EUL H-PB PWRED`
-* minx, `xxx minx KW-BG`
+* minx, `PH*/*EU/TPH*/KP* KW-BG`
 * "to `KR-GS TO`
 * me `PHE`
 * water!" `WAUR SKHRAPL KR-GS`
 * go, `TKPW KW-BG`
-* hussey," `xxx hussey KW-BG KR-GS`
+* hussey," `H*/*U/S*/S*/*E/KWR* KW-BG KR-GS`
 * "and `KR-GS SKP`
 * minute." `PHEUPB TP-PL KR-GS`
 * away `A/WAEU`
@@ -310,7 +310,7 @@
 * suppose `SPOS`
 * brought `PWRAUT`
 * purely `PAOURL`
-* ladyship, `xxx ladyship KW-BG`
+* ladyship, `HRA*ED/SH-P KW-BG`
 * it? `T H-F`
 * However, `HOUF KW-BG`
 * may `PHAE`
@@ -328,7 +328,7 @@
 * since `SEUPBS`
 * little `HREUL`
 * breeding, `PWRAOED/-G KW-BG`
-* disobliging, `xxx disobliging KW-BG`
+* disobliging, `TKEUS/OBL/AOEUPBLG/-G KW-BG`
 * gift, `TKPWEUFT KW-BG`
 * speak `SPAOEBG`
 * snake `STPHAEUBG`
@@ -340,7 +340,7 @@
 * daughter?" `TKAUR H-F KR-GS`
 * mother?" `PHOER H-F KR-GS`
 * pert `PERT`
-* hussey, `xxx hussey KW-BG`
+* hussey, `H*/*U/S*/S*/*E/KWR* KW-BG`
 * throwing `THROEG`
 * vipers `SRAOEUP/ERS`
 * toads. `TOEDZ TP-PL`

@@ -308,7 +308,7 @@
 * go `TKPW`
 * bind `PWEUPBD`
 * carry `KAER`
-* judge.' `SKWRUPBL TP-PL AE`
+* judge.' `SKWRUPBLG TP-PL AE`
 * short `SHORT`
 * like `HRAOEUBG`
 * wind, `WEUPBD KW-BG`
@@ -592,7 +592,7 @@
 * though `THOE`
 * nothing `TPHOG`
 * wicked, `WEUBGD KW-BG`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * condemned `KOPB/TKEPL/-D`
 * forth `TPO*RT`
 * die, `TKAOEU KW-BG`

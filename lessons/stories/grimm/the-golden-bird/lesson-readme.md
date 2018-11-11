@@ -397,7 +397,7 @@
 * king. `KEUPBG TP-PL`
 * next `TPHEGT`
 * court `KORT`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * him; `HEUPL STPH*FPLT`
 * heard, `HAERD KW-BG`
 * sentenced `STPH-PBD`

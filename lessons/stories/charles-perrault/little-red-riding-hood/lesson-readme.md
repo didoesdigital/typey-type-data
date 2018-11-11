@@ -26,7 +26,7 @@
 * her; `HER STPH*FPLT`
 * and `SKP`
 * grand-mother `TKPWRAPBD H-PB PHOER`
-* doated `xxx doated`
+* doated `TKOET/A*U/-D`
 * on `OPB`
 * much `PHUFP`
 * more. `PHOR TP-PL`

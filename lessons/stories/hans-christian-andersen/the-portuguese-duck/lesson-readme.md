@@ -340,7 +340,7 @@
 * give `TKPWEUF`
 * much `PHUFP`
 * do. `TKO TP-PL`
-* judge `SKWRUPBL`
+* judge `SKWRUPBLG`
 * your `KWROUR`
 * keep `KAOEP`
 * beak `PWAOEBG`

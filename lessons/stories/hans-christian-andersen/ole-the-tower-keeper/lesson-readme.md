@@ -899,7 +899,7 @@
 * wit, `WEUT KW-BG`
 * far `TPAR`
 * wits `WEUT/-S`
-* judge. `SKWRUPBL TP-PL`
+* judge. `SKWRUPBLG TP-PL`
 * fourth `TPO*URT`
 * herb, `ERB KW-BG`
 * bird, `PWEURD KW-BG`
