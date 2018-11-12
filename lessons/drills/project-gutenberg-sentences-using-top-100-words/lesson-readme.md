@@ -1,6 +1,6 @@
 # Project Gutenberg sentences using top 100 words
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * man! `PHAPB SKHRAPL`
 * man. `PHAPB TP-PL`
 * man? `PHAPB H-F`
