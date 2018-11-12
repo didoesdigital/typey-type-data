@@ -1,6 +1,6 @@
 # The Crow and the Pitcher
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Crow, `KROE KW-BG`
 * half-dead `HAF H-PB TKED`
 * with `W`

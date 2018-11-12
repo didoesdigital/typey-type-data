@@ -157,7 +157,7 @@
 * lay `HRAEU`
 * child's `KHAOEULD/AES`
 * hand. `HAPBD TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * little `HREUL`
 * boy `PWOEU`
 * holding `HOELGD`

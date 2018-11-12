@@ -371,7 +371,7 @@
 * inscriptions `EUPB/KREUPGS/-S`
 * announcements `A/TPHOUPBS/-PLTS`
 * bargain. `PWARG/AEUPB TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * person `PERPB`
 * walk `WAUBG`
 * whole `WHOEL`

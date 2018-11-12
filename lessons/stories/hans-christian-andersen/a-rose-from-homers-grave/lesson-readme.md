@@ -131,7 +131,7 @@
 * Then `THEPB`
 * himself `H*EUPLS`
 * death. `TK*T TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * camel-driver `KAPL/EL H-PB TKREUFR`
 * came `KAEUPL`
 * by, `PWEU KW-BG`

@@ -173,7 +173,7 @@
 * calf `KA*FL`
 * kicks `KEUBGS`
 * face. `TPAEUS TP-PL`
-* 'A `AE KPA*/AEU`
+* 'A `AE KPA/AEU`
 * calf.' `KA*FL TP-PL AE`
 * set `SET`
 * head `HED`

@@ -155,7 +155,7 @@
 * yes, `KWRE KW-BG`
 * Cat,' `KAT KW-BG AE`
 * cried. `KRAOEUD TP-PL`
-* 'A `AE KPA*/AEU`
+* 'A `AE KPA/AEU`
 * wooer `WAO/*ER`
 * stands `STAPBDZ`
 * there.' `THR TP-PL AE`

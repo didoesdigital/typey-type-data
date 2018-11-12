@@ -971,7 +971,7 @@
 * call `KAUL`
 * 'antiques,' `AE APB/TAOEBG/-S KW-BG AE`
 * damaged. `TKAPBLD TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * ought `OT`
 * perfect, `P-F KW-BG`
 * perfect `P-F`

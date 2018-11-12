@@ -1,6 +1,6 @@
 # The Fox and the Cat
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Fox `TPOBGS`
 * was `WAS`
 * boasting `PWOEFT/-G`

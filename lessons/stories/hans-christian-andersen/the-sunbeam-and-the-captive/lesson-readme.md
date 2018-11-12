@@ -84,7 +84,7 @@
 * criminals `KR-LS`
 * are `R`
 * confined. `KAUPB/TPAOEUPBD TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * ray `RAEU`
 * setting `SEGT`
 * sun `SUPB`

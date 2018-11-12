@@ -1,6 +1,6 @@
 # The Wolf and the Crane
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Wolf `WOFL`
 * had `H`
 * been `PW-PB`

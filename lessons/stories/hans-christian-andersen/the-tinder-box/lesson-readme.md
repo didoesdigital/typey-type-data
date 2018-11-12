@@ -1,6 +1,6 @@
 # The Tinder-Box
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * soldier `SHRERPBL`
 * came `KAEUPL`
 * marching `PHAFRP/-G`

@@ -40,7 +40,7 @@
 * of `-F`
 * parent `PARPBT`
 * birds. `PWEURDZ TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * way `WAEU`
 * off, `OF KW-BG`
 * edge `EPBG`

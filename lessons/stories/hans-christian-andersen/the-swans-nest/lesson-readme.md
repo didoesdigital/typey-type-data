@@ -133,7 +133,7 @@
 * seen `SAOEPB`
 * fly `TPHRAOEU`
 * nest. `TPHEFT TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * light `HRAOEUT`
 * shone `SHO*EPB`
 * far `TPAR`

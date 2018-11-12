@@ -1,6 +1,6 @@
 # The Man and the Serpent
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Countryman's `KREU/PHA*PB AES`
 * son `SOPB`
 * by `PWEU`

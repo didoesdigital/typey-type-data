@@ -894,7 +894,7 @@
 * visit, `SREUFT KW-BG`
 * spend `SPEPBD`
 * day. `TKAEU TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Herning `xxx Herning`
 * village, `SREULG KW-BG`
 * opportunity `TAOUPBT`

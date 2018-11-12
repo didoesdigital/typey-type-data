@@ -84,7 +84,7 @@
 * nights, `TPHAOEUTS KW-BG`
 * put `PUT`
 * death. `TK*T TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * king's `KEUPBG/AES`
 * son `SOPB`
 * soon `SAOPB`

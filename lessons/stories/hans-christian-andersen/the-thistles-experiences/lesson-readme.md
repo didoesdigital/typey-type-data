@@ -375,7 +375,7 @@
 * expecting `EBGS/PEG`
 * moment `PHOEPLT`
 * fence." `TPEPBS TP-PL KR-GS`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * few `TPAOU`
 * innocent `TPH-PBT`
 * daisies, `TKAEUS/KWREU/-S KW-BG`

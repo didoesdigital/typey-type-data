@@ -497,7 +497,7 @@
 * "and `KR-GS SKP`
 * must `PHUFT`
 * honoured." `HOPB/OURD/A*U TP-PL KR-GS`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * elapsed. `AOE/HRAPS/-D TP-PL`
 * own `OEPB`
 * days; `TKAEUS STPH*FPLT`

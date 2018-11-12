@@ -62,7 +62,7 @@
 * maid `PHAEUD`
 * thinking `THEUG`
 * of? `-F H-F`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * whole `WHOEL`
 * life `HRAOEUF`
 * drama `TKRA/PHA`

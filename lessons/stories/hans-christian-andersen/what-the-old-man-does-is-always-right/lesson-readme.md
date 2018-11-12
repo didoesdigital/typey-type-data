@@ -668,7 +668,7 @@
 * still `STEUL`
 * before `PW-F`
 * fowl." `TPO*UL TP-PL KR-GS`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * fowl! `TPO*UL SKHRAPL`
 * exchange," `KPAEUPBG KW-BG KR-GS`
 * "The `KR-GS -T`

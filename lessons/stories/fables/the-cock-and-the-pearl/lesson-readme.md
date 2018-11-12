@@ -1,6 +1,6 @@
 # The Cock and the Pearl
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * cock `KOBG`
 * was `WAS`
 * once `WUPBS`

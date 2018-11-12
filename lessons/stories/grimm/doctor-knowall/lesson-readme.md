@@ -86,7 +86,7 @@
 * buy `PWAOEU`
 * yourself `KWRO*URS`
 * an `APB`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * B `PW*P`
 * C `KR*P`
 * book `PWAOBG`

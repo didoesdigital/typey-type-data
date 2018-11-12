@@ -77,7 +77,7 @@
 * There `THR`
 * real `RAEL`
 * that. `THA TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * man `PHAPB`
 * gains `TKPWAEUPBS`
 * position, `POGS KW-BG`

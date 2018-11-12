@@ -787,7 +787,7 @@
 * poet, `POET KW-BG`
 * cutting `KUGT`
 * open.' `OEP TP-PL AE`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * jewel!" `SKWRAOUL SKHRAPL KR-GS`
 * seem `SAOEPL`
 * deal `TKAOEL`

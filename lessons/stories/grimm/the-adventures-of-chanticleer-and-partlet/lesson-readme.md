@@ -417,7 +417,7 @@
 * replied, `RE/PHRAOEUD KW-BG`
 * our `OUR`
 * way `WAEU`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * pay `PAEU`
 * Korbes, `xxx Korbes KW-BG`
 * fox, `TPOBGS KW-BG`

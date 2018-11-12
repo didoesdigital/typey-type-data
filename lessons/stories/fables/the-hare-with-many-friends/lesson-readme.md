@@ -1,6 +1,6 @@
 # The Hare With Many Friends
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Hare `HA*ER`
 * was `WAS`
 * very `SRE`

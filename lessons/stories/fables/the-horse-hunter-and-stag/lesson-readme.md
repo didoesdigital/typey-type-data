@@ -1,6 +1,6 @@
 # The Horse, Hunter, and Stag
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * quarrel `KWARL`
 * had `H`
 * arisen `A/RAOEUZ/-D`

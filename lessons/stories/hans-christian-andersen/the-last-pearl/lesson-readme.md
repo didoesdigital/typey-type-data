@@ -248,7 +248,7 @@
 * peculiar `PE/KAOUL/HRAR`
 * stillness `STEUL/-PBS`
 * reigned. `RAEPB/-D TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * whole `WHOEL`
 * row `ROE`
 * stood `STAOD`

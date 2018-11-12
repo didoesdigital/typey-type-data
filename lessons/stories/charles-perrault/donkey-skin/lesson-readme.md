@@ -1094,7 +1094,7 @@
 * Donkey-skin, `TKOPB/KEU H-PB SKEUPB KW-BG`
 * presently `PREPBLT`
 * cake." `KAEUBG TP-PL KR-GS`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * messenger `PHAEPBG`
 * ran `RAPB`
 * cake `KAEUBG`

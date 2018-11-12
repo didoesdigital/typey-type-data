@@ -892,7 +892,7 @@
 * sounding `SOUPBD/-G`
 * above `PWOF`
 * sea! `SAE SKHRAPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * approaches `A/PROEFPS`
 * calling `KAULG`
 * aloud `A/HROUD`

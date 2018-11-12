@@ -26,7 +26,7 @@
 * with `W`
 * black `PWHRABG`
 * skins. `SKEUPBS TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * learned `HRERPBD`
 * man `PHAPB`
 * once `WUPBS`

@@ -1,6 +1,6 @@
 # The Serpent and the File
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Serpent `SERP/EPBT`
 * In `TPH`
 * the `-T`

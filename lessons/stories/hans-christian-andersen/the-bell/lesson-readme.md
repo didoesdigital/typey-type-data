@@ -90,7 +90,7 @@
 * with `W`
 * devout `TKWOUT`
 * feelings. `TPAOELGS TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * considerable `KR-BL`
 * time `TAOEUPL`
 * elapsed: `AOE/HRAPS/-D STPH-FPLT`

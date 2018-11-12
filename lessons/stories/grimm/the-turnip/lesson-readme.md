@@ -370,7 +370,7 @@
 * schools `SKAOLS`
 * empty `EPLT`
 * air. `AEUR TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * longer, `HRORPBG KW-BG`
 * know `TPHOE`
 * can `K`
@@ -419,7 +419,7 @@
 * me `PHE`
 * while?' `WHAOEUL H-F AE`
 * unwillingly, `TPH-LG/HREU KW-BG`
-* 'A `AE KPA*/AEU`
+* 'A `AE KPA/AEU`
 * space `SPAEUS`
 * may `PHAE`
 * allow `HROU`

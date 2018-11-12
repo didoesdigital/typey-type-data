@@ -831,7 +831,7 @@
 * forest `TPOEFRT`
 * rest `REFT`
 * disappeared! `TKEUS/PAOERD SKHRAPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * spark `SPARBG`
 * fireworks `TPAOEUR/WORBGS`
 * set `SET`

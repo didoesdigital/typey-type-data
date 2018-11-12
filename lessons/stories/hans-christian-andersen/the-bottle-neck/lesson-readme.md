@@ -620,7 +620,7 @@
 * farewell `TPAER/WEL`
 * greeting `TKPWRAOET/-G`
 * mother. `PHOER TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * small `SPHAL`
 * already `HR-R`
 * herb `ERB`

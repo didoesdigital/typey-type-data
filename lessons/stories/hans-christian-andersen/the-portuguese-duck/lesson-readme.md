@@ -1,6 +1,6 @@
 # The Portuguese Duck
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * duck `TKUBG`
 * once `WUPBS`
 * arrived `A/REUFD`

@@ -1,6 +1,6 @@
 # The Lion in Love
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Lion `HRO*EUPB`
 * once `WUPBS`
 * fell `TPEL`

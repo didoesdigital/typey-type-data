@@ -268,7 +268,7 @@
 * bedside `PWED/SAOEUD`
 * dying `TKAOEUG`
 * person. `PERPB TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * pious, `PAOEU/OUS KW-BG`
 * faithful `TPA*EUT/-FL`
 * soul `SOUL`

@@ -538,7 +538,7 @@
 * colored `KHRORD`
 * fiery `TPAOEU/REU`
 * sparks. `SPARBGS TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * record `RORD`
 * display `TKPHRAEU`
 * will `HR`

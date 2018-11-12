@@ -1,6 +1,6 @@
 # The Fox and the Mask
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Fox `TPOBGS`
 * had `H`
 * by `PWEU`

@@ -34,7 +34,7 @@
 * or `OR`
 * no. `TPHO TP-PL`
 * see `SAOE`
-* A. `KPA*/AEU TP-PL`
+* A. `KPA/AEU TP-PL`
 * so `SO`
 * on. `OPB TP-PL`
 * to `TO`
@@ -126,7 +126,7 @@
 * who `WHO`
 * you `U`
 * do? `TKO H-F`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * man!" `PHAPB SKHRAPL KR-GS`
 * man." `PHAPB TP-PL KR-GS`
 * two." `TWO TP-PL KR-GS`
@@ -266,7 +266,7 @@
 * 'It `AE T`
 * 'Not `AE TPHOT`
 * 'Was `AE WAS`
-* "'A `KR-GS AE KPA*/AEU`
+* "'A `KR-GS AE KPA/AEU`
 * was." `WAS TP-PL KR-GS`
 * what?" `WHA H-F KR-GS`
 * "And `KR-GS SKP`
@@ -435,7 +435,7 @@
 * woman!" `WOPL SKHRAPL KR-GS`
 * woman." `WOPL TP-PL KR-GS`
 * woman?" `WOPL H-F KR-GS`
-* "A--a--a!" `KR-GS KPA*/AEU H-PB H-PB AEU H-PB H-PB AEU SKHRAPL KR-GS`
+* "A--a--a!" `KR-GS KPA/AEU H-PB H-PB AEU H-PB H-PB AEU SKHRAPL KR-GS`
 * "All `KR-GS AUL`
 * out!" `OUT SKHRAPL KR-GS`
 * out?" `OUT H-F KR-GS`
@@ -1186,7 +1186,7 @@
 * by-and-by? `PWEU H-PB SKP H-PB PWEU H-F`
 * any!" `TPHEU SKHRAPL KR-GS`
 * woman--who `WOPL H-PB H-PB WHO`
-* ...................A `TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL KPA*/AEU`
+* ...................A `TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL KPA/AEU`
 * him.... `HEUPL TP-PL TP-PL TP-PL TP-PL`
 * after… `AF SKWR*RBGS`
 * be--that `-B H-PB H-PB THA`

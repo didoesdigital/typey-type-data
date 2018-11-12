@@ -184,7 +184,7 @@
 * or `OR`
 * domestic `PHEFBG`
 * drama?" `TKRA/PHA H-F KR-GS`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * drama, `TKRA/PHA KW-BG`
 * please," `PHRES KW-BG KR-GS`
 * "for `KR-GS TPOR`
@@ -230,7 +230,7 @@
 * it: `T STPH-FPLT`
 * Pipe-head `PAOEUP H-PB HED`
 * HEAD `HED`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Family `TPAEPL`
 * Drama `TKRA/PHA`
 * characters `KRARS`

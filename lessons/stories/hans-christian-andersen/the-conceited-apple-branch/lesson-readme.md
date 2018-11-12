@@ -277,7 +277,7 @@
 * name; `TPHAEUPL STPH*FPLT`
 * men,—there `PHEPB KW-BG EPL/TKA*RB THR`
 * difference." `TKEUFRPBS TP-PL KR-GS`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * difference!" `TKEUFRPBS SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * sunbeam, `SUPB/PWAOEPL KW-BG`

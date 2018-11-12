@@ -656,7 +656,7 @@
 * paused `PAUS/-D`
 * about, `PW KW-BG`
 * fighting. `TPAOEUGT TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * third `THEURD`
 * cause `KAUS`
 * dispute `STKPAOUT`

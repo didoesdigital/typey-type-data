@@ -1,6 +1,6 @@
 # The Young Thief and His Mother
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * young `KWRUPBG`
 * Man `PHAPB`
 * had `H`

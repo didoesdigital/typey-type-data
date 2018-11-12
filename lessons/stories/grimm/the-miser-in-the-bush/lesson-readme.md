@@ -1,6 +1,6 @@
 # The Miser in the Bush
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * farmer `TPAR/PHER`
 * had `H`
 * a `AEU`

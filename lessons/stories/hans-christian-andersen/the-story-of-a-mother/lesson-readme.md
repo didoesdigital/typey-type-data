@@ -1,6 +1,6 @@
 # The Story of a Mother
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * mother `PHOER`
 * sat `SAT`
 * by `PWEU`

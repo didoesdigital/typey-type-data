@@ -939,7 +939,7 @@
 * curtains `KUR/TEUPBS`
 * heavy `HOEUF`
 * tassels. `TAFL/-S TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * window `WOEUPBD`
 * open, `OEP KW-BG`
 * moon `PHAOPB`

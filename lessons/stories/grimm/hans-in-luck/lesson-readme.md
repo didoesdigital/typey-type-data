@@ -268,7 +268,7 @@
 * singing, `SEUPBG/-G KW-BG`
 * 'No `AE TPHO`
 * sorrow, `SROE KW-BG`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * fig `TP*EUG`
 * morrow! `PHOR/ROE SKHRAPL`
 * We'll `WE AE HR*/HR*`

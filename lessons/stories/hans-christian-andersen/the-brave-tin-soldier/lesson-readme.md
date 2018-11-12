@@ -555,7 +555,7 @@
 * Oh `O*E`
 * inside `TPH-DZ`
 * fish! `TPEURB SKHRAPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * deal `TKAOEL`
 * darker `TKA*ERBG`
 * tunnel, `TUPBL KW-BG`

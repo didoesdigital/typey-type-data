@@ -488,7 +488,7 @@
 * any `TPHEU`
 * other: `OER STPH-FPLT`
 * it. `T TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * low `HROE`
 * sigh `SAOEU`
 * heard. `HAERD TP-PL`

@@ -124,7 +124,7 @@
 * that `THA`
 * deep, `TKAOEP KW-BG`
 * solitude! `SOL/TAOUD SKHRAPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * fire `TPAOEUR`
 * kindled `KEUPBD/-LD`
 * midst `PHEUDZ`

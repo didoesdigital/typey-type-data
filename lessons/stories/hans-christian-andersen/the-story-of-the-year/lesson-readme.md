@@ -701,7 +701,7 @@
 * sang, `SAPBG KW-BG`
 * laughed, `HRAFD KW-BG`
 * grew. `TKPWRAOU TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * gentle `SKWR*EPBLT`
 * rain `RAEUPB`
 * notice `TPH-TS`

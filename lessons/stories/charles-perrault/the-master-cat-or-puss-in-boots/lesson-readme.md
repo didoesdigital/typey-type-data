@@ -538,7 +538,7 @@
 * ill-suited `EUL H-PB SAOUTD`
 * walking `WAUG`
 * tiles. `TAOEULS TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * little `HREUL`
 * saw `SAU`
 * resumed `RAOUPLD`

@@ -29,7 +29,7 @@
 * their `THAEUR`
 * old `OLD`
 * home. `HOEPL TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * lamp `HRAFRP`
 * burned `PWURPBD`
 * on `OPB`
@@ -367,7 +367,7 @@
 * walked `WAUBGD`
 * behind `HEUPBD`
 * coffin. `KOFPB TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * couple `KUPL`
 * prepared, `PRAOEPD KW-BG`
 * names, `TPHAEUPLS KW-BG`

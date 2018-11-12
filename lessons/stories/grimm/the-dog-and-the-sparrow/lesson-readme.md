@@ -1,6 +1,6 @@
 # The Dog and the Sparrow
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * shepherd's `SHEP/ERD AES`
 * dog `TKOG`
 * had `H`

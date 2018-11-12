@@ -110,7 +110,7 @@
 * wise `WAOEUS`
 * man `PHAPB`
 * said: `SAEUD STPH-FPLT`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * liar `HRAOEUR`
 * will `HR`
 * not `TPHOT`

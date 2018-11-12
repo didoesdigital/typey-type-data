@@ -26,7 +26,7 @@
 * had `H`
 * human `HAOUPL`
 * form. `TPORPL TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Fairy, `TPAEUR/REU KW-BG`
 * at `AT`
 * his `HEUS`
@@ -692,7 +692,7 @@
 * man `PHAPB`
 * myself `PHAO*EUS`
 * loss. `HROS TP-PL`
-* 'A `AE KPA*/AEU`
+* 'A `AE KPA/AEU`
 * always `AULS`
 * observes `OEBS`
 * word,' `WORD KW-BG AE`

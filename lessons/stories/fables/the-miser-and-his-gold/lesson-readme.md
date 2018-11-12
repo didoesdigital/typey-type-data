@@ -32,7 +32,7 @@
 * gloat `TKPWHROET`
 * over `OEFR`
 * gains. `TKPWAEUPBS TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * robber, `ROB/ER KW-BG`
 * had `H`
 * noticed `TPH-TSD`

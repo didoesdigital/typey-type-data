@@ -665,7 +665,7 @@
 * gracefully, `TKPWRAEUS/-FL/HREU KW-BG`
 * admired `AD/PHAOEURD`
 * her. `HER TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * collation `KOL/HRAEUGS`
 * served `SEFRBD`
 * up, `UP KW-BG`

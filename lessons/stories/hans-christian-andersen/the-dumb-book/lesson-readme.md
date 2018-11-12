@@ -212,7 +212,7 @@
 * sunbeam `SUPB/PWAOEPL`
 * fell `TPEL`
 * it. `T TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * swallow `SWO*EUL`
 * flew `TPHRAOU`
 * swiftness `xxx swiftness`

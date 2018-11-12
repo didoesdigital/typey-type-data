@@ -1,6 +1,6 @@
 # The Old House
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * very `SRE`
 * old `OLD`
 * house `HOUS`

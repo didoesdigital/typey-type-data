@@ -56,7 +56,7 @@ Project Gutenberg sentences using top 100 words
 'Or': OR
 'no.': TPHO TP-PL
 'See': SAOE
-'A.': KPA*/AEU TP-PL
+'A.': KPA/AEU TP-PL
 'So': SO
 'on.': OPB TP-PL
 'To': TO
@@ -318,11 +318,11 @@ Project Gutenberg sentences using top 100 words
 'do.': TKO TP-PL
 'You': U
 'do?': TKO H-F
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'man!"': PHAPB SKHRAPL KR-GS
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'man."': PHAPB TP-PL KR-GS
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'two."': TWO TP-PL KR-GS
 '"At': KR-GS AT
 'me?"': PHE H-F KR-GS
@@ -371,13 +371,13 @@ Project Gutenberg sentences using top 100 words
 'it?': T H-F
 '--It': H-PB H-PB T
 'is.': S TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'what?'': WHA H-F AE
-'A': KPA*/AEU
+'A': KPA/AEU
 'woman!': WOPL SKHRAPL
-'A': KPA*/AEU
+'A': KPA/AEU
 'woman.': WOPL TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'woman?': WOPL H-F
 'All': AUL
 'are.': R TP-PL
@@ -772,9 +772,9 @@ Project Gutenberg sentences using top 100 words
 'me.': PHE TP-PL
 ''Was': AE WAS
 'it?': T H-F
-'"'A': KR-GS AE KPA*/AEU
+'"'A': KR-GS AE KPA/AEU
 'was."': WAS TP-PL KR-GS
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'what?"': WHA H-F KR-GS
 '"And': KR-GS SKP
 'he?"': HE H-F KR-GS
@@ -922,9 +922,9 @@ Project Gutenberg sentences using top 100 words
 'he?': HE H-F
 '--Who': H-PB H-PB WHO
 'is?': S H-F
-'A': KPA*/AEU
+'A': KPA/AEU
 'little.': HREUL TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'woman?'': WOPL H-F AE
 'About': PW
 'it!': T SKHRAPL
@@ -1445,13 +1445,13 @@ Project Gutenberg sentences using top 100 words
 'me!'': PHE SKHRAPL AE
 ''Not': AE TPHOT
 'me.'': PHE TP-PL AE
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'woman!"': WOPL SKHRAPL KR-GS
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'woman."': WOPL TP-PL KR-GS
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'woman?"': WOPL H-F KR-GS
-'"A--a--a!"': KR-GS KPA*/AEU H-PB H-PB AEU H-PB H-PB AEU SKHRAPL KR-GS
+'"A--a--a!"': KR-GS KPA/AEU H-PB H-PB AEU H-PB H-PB AEU SKHRAPL KR-GS
 '"All': KR-GS AUL
 'out!"': OUT SKHRAPL KR-GS
 '"All': KR-GS AUL
@@ -2258,9 +2258,9 @@ Project Gutenberg sentences using top 100 words
 'know?': TPHOE H-F
 '".And': KR-GS TP-PL SKP
 'now!"': TPHOU SKHRAPL KR-GS
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'little."': HREUL TP-PL KR-GS
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'little?"': HREUL H-F KR-GS
 '"About': KR-GS PW
 'me."': PHE TP-PL KR-GS
@@ -2553,7 +2553,7 @@ Project Gutenberg sentences using top 100 words
 ':': STPH-FPLT
 'Are': R
 'they?': THE H-F
-'A': KPA*/AEU
+'A': KPA/AEU
 'good': TKPWAOD
 'man.': PHAPB TP-PL
 'About': PW
@@ -3526,7 +3526,7 @@ Project Gutenberg sentences using top 100 words
 'was.)': WAS TP-PL PR*EPB
 '--Very': H-PB H-PB SRE
 'good.': TKPWAOD TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'great': TKPWRAET
 'man?': PHAPB H-F
 'About': PW
@@ -5689,10 +5689,10 @@ Project Gutenberg sentences using top 100 words
 '.You': TP-PL U
 'will': HR
 'see!': SAOE SKHRAPL
-'A': KPA*/AEU
+'A': KPA/AEU
 'little': HREUL
 'more!': PHOR SKHRAPL
-'A': KPA*/AEU
+'A': KPA/AEU
 'little': HREUL
 'time.': TAOEUPL TP-PL
 'About': PW
@@ -6789,7 +6789,7 @@ Project Gutenberg sentences using top 100 words
 '--Who': H-PB H-PB WHO
 'could': KO
 'be?': -B H-F
-'A': KPA*/AEU
+'A': KPA/AEU
 'little': HREUL
 'woman.': WOPL TP-PL
 'All:': AUL STPH-FPLT
@@ -9205,7 +9205,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'it': T
 'now?': TPHOU H-F
-'A': KPA*/AEU
+'A': KPA/AEU
 'little': HREUL
 'or': OR
 'much?': PHUFP H-F
@@ -10658,17 +10658,17 @@ Project Gutenberg sentences using top 100 words
 'Are': R
 'you': U
 'there?': THR H-F
-'A': KPA*/AEU
+'A': KPA/AEU
 'man': PHAPB
 'was': WAS
 'with': W
 'me.': PHE TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'man,': PHAPB KW-BG
 'as': AZ
 'you': U
 'are.': R TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'woman': WOPL
 'and': SKP
 'a': AEU
@@ -11473,7 +11473,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'it,': T KW-BG
 'now?'': TPHOU H-F AE
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'man': PHAPB
 'or': OR
 'a': AEU
@@ -11914,12 +11914,12 @@ Project Gutenberg sentences using top 100 words
 'had': H
 'not': TPHOT
 'then.': THEPB TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'little': HREUL
 'at': AT
 'a': AEU
 'time.': TAOEUPL TP-PL
-'A': KPA*/AEU
+'A': KPA/AEU
 'woman': WOPL
 'and': SKP
 'a': AEU
@@ -14225,7 +14225,7 @@ Project Gutenberg sentences using top 100 words
 'it': T
 'is': S
 'an': APB
-'A.': KPA*/AEU TP-PL
+'A.': KPA/AEU TP-PL
 'This': TH
 'was': WAS
 'one': WUPB
@@ -17433,7 +17433,7 @@ Project Gutenberg sentences using top 100 words
 'which': WEU
 'is': S
 'which?'': WEU H-F AE
-'"A': KR-GS KPA*/AEU
+'"A': KR-GS KPA/AEU
 'little;': HREUL STPH*FPLT
 'a': AEU
 'very': SRE
@@ -18210,7 +18210,7 @@ Project Gutenberg sentences using top 100 words
 'to': TO
 'do,': TKO KW-BG
 'then?"': THEPB H-F KR-GS
-'...................A': TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL KPA*/AEU
+'...................A': TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL KPA/AEU
 'woman.': WOPL TP-PL
 'After': AF
 'that': THA

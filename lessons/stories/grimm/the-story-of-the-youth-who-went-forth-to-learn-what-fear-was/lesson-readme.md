@@ -1,6 +1,6 @@
 # The Story of the Youth Who Went Forth to Learn What Fear Was
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * certain `SERPB`
 * father `TPAER`
 * had `H`

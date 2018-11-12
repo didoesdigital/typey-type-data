@@ -298,7 +298,7 @@
 * wonderful `WUFL`
 * jump `SKWRUFRP`
 * another! `TPHOER SKHRAPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * funeral `TPAOUPBL`
 * street; `STRAOET STPH*FPLT`
 * beautiful `PWAOUFL`

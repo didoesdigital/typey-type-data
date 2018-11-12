@@ -332,7 +332,7 @@
 * can `K`
 * endure `EPB/TKAOUR`
 * long. `HROPBG TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * heap `HAOEP`
 * mud `PHUD`
 * palace `PAL/AS`

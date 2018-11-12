@@ -1,6 +1,6 @@
 # Tom Thumb
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * poor `PAOR`
 * woodman `KPA/WAOD/TK-LS/PHAPB`
 * sat `SAT`

@@ -430,7 +430,7 @@
 * him. `HEUPL TP-PL`
 * who `WHO`
 * says `SEZ`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * B, `PW*P KW-BG`
 * likewise, `HRAOEUBG/WAOEUS KW-BG`
 * yielded `KWRAOELD/-D`

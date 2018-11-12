@@ -33,7 +33,7 @@
 * so `SO`
 * wonderfully `WOPBD/TPHREU`
 * large. `HRARPBLG TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * burdock `PW*/*U/R*/TK-LS/TKOBG`
 * never `TPHEF`
 * grows `TKPWRO*ES`

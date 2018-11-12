@@ -134,7 +134,7 @@
 * Tiny, `TOEUPB KW-BG`
 * because `PWAU`
 * small. `SPHAL TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * walnut-shell, `WAL/TPHUT H-PB SHEL KW-BG`
 * elegantly `EL/TKPWAPBT/HREU`
 * polished, `POL/EURBD KW-BG`

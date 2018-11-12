@@ -433,7 +433,7 @@
 * might `PHAOEUT`
 * passers `PASZ/ERS`
 * tree!" `TRAOE SKHRAPL KR-GS`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * short `SHORT`
 * before `PW-F`
 * Christmas, `KREUS/PHAS KW-BG`
@@ -658,7 +658,7 @@
 * apple `A*EPL`
 * fig `TP*EUG`
 * forgotten. `TPORGTD TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * story, `STOER KW-BG`
 * story," `STOER KW-BG KR-GS`
 * cried `KRAOEUD`

@@ -23,7 +23,7 @@
 * paving-stones `PAEUFG H-PB STOEPBS`
 * in `TPH`
 * roads. `ROEDZ TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * maiden `PHAEUD/*EPB`
 * of `-F`
 * this `TH`

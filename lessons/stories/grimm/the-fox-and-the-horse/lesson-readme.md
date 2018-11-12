@@ -1,6 +1,6 @@
 # The Fox and the Horse
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * farmer `TPAR/PHER`
 * had `H`
 * a `AEU`
@@ -153,7 +153,7 @@
 * close `KHROES`
 * by, `PWEU KW-BG`
 * him, `HEUPL KW-BG`
-* 'A `AE KPA*/AEU`
+* 'A `AE KPA/AEU`
 * way `WAEU`
 * lies `HRAO*EUS`
 * dead `TKED`

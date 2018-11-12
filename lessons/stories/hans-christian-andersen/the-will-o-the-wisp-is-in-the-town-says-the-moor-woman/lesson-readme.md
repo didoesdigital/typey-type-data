@@ -1072,7 +1072,7 @@
 * marsh! `PHA*RB SKHRAPL`
 * christening `KREUFPB/-G`
 * feast! `TPAOEFT SKHRAPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Will-o'-the-Wisp `HR H-PB O* AE H-PB -T H-PB W*EUFP`
 * born `PWORPB`
 * here—in `HAOER EPL/TKA*RB TPH`

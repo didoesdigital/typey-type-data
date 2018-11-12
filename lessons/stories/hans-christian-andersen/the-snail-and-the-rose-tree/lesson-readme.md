@@ -141,7 +141,7 @@
 * head, `HED KW-BG`
 * into `TPHAO`
 * ground. `TKPWROUPBD TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * new `TPHU`
 * began; `TKPWAPB STPH*FPLT`
 * made `PHAED`

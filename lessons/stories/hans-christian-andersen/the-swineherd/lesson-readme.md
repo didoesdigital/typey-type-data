@@ -308,7 +308,7 @@
 * boil `PWOEUL`
 * play `PHRAEU`
 * tune: `TAOUPB STPH-FPLT`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * jolly `SKWROL/HREU`
 * sow `SWO`
 * sty, `STAOEU KW-BG`

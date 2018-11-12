@@ -283,7 +283,7 @@
 * came `KAEUPL`
 * galloping `TKPWAL/OP/-G`
 * watered. `WAURD TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * peasant `PEFPBT`
 * boy `PWOEU`
 * rode `ROED`
@@ -809,7 +809,7 @@
 * bloom `PWHRAOPL`
 * ruined `RAOUPBD`
 * passer-by. `PAS/*ER H-PB PWEU TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * pleasanter `PHREFPBT/*ER`
 * imagined. `PHAPBLGD TP-PL`
 * that." `THA TP-PL KR-GS`

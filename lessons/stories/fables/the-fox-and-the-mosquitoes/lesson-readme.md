@@ -1,6 +1,6 @@
 # The Fox and the Mosquitoes
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Fox `TPOBGS`
 * after `AF`
 * crossing `KROFG`

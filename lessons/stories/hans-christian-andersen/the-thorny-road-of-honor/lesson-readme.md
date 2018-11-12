@@ -299,7 +299,7 @@
 * town `TOUPB`
 * taken `TAEPB`
 * refuge. `RAF/AOUPBLG TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * poor `PAOR`
 * corpse `KORPS`
 * carried `KAERD`
@@ -371,7 +371,7 @@
 * twenty `TWEPBT`
 * years!" `KWRAOERS SKHRAPL KR-GS`
 * man? `PHAPB H-F`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * madman," `PHAD/PHAPB KW-BG KR-GS`
 * replies `RE/PHRAOEUS`
 * keeper `KAOEP/*ER`

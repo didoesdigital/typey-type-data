@@ -447,7 +447,7 @@
 * meet `PHAOET`
 * before `PW-F`
 * God!" `TKPWOD SKHRAPL KR-GS`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * week `WAOEBG`
 * morning `PHORPBG`
 * death `TK*T`

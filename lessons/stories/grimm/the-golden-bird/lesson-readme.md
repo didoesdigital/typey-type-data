@@ -1,6 +1,6 @@
 # The Golden Bird
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * certain `SERPB`
 * king `KEUPBG`
 * had `H`

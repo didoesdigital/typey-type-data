@@ -310,7 +310,7 @@
 * electric `HREBG/TREUBG`
 * wire `WAOEUR`
 * room. `RAOPL TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * telegram `TEL/TKPWRAPL`
 * dispatched `TKEUS/PAFPD`
 * coffee-time, `KOF/AOE H-PB TAOEUPL KW-BG`

@@ -869,7 +869,7 @@
 * Peter?" `PAOERT H-F KR-GS`
 * asked `SK-D`
 * home. `HOEPL TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * capital `KAPLT`
 * piece `PAOES`
 * news. `TPHUS TP-PL`
@@ -979,7 +979,7 @@
 * foolish `TPAOL/EURB`
 * affair, `A/TPAEUR KW-BG`
 * wife." `WAOEUF TP-PL KR-GS`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * heart `HART`
 * soul `SOUL`
 * poor `PAOR`

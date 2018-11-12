@@ -621,7 +621,7 @@
 * cried, `KRAOEUD KW-BG`
 * 'Bless `AE PWRES`
 * hailing.' `HAEUL/-G TP-PL AE`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * little `HREUL`
 * after, `AF KW-BG`
 * still `STEUL`

@@ -504,7 +504,7 @@
 * cry `KRAOEU`
 * pressed `PREFD`
 * him `HEUPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * glorious `TKPWHRORS`
 * strain `STRAEUPB`
 * music `PHAOUFBG`

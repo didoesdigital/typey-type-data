@@ -279,7 +279,7 @@
 * pretended `PRE/TEPBD/-D`
 * despise `STKPAOEUZ`
 * love-making. `HRUF H-PB PHAEUG TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * long `HROPBG`
 * time `TAOEUPL`
 * passed, `PAFD KW-BG`

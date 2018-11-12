@@ -1,6 +1,6 @@
 # The Jay and the Peacock
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Jay `SKWRAEU`
 * venturing `SREPB/KHURG`
 * into `TPHAO`

@@ -48,7 +48,7 @@
 * hear `HAER`
 * one `WUPB`
 * stories. `STOERS TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * short `SHORT`
 * time `TAOEUPL`
 * ago"—the `AG KR-GS EPL/TKA*RB -T`
@@ -543,7 +543,7 @@
 * it," `T KW-BG KR-GS`
 * continued `T-PBD`
 * noble. `TPHOEBL TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * new `TPHU`
 * era `E/RA`
 * arisen `A/RAOEUZ/-D`

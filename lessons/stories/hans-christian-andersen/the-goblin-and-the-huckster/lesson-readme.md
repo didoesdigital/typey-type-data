@@ -24,7 +24,7 @@
 * occupied `OUPD`
 * ground `TKPWROUPBD`
 * floor. `TPHRAOR TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * goblin `TKPWOB/HREUPB`
 * with `W`
 * because `PWAU`

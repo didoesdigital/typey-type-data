@@ -77,7 +77,7 @@
 * reason `R-PB`
 * wearing `WAURG`
 * shoes. `SHAOUS TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * beetle `PWAO*ELT`
 * came `KAEUPL`
 * creeping `KRAOEPG`

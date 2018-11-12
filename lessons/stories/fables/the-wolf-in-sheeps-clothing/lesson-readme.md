@@ -1,6 +1,6 @@
 # The Wolf in Sheep's Clothing
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Wolf `WOFL`
 * found `TPOUPBD`
 * great `TKPWRAET`

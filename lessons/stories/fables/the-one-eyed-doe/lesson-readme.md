@@ -1,6 +1,6 @@
 # The One-Eyed Doe
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Doe `TKO*E`
 * had `H`
 * the `-T`

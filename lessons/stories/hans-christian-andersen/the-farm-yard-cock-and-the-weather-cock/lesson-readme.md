@@ -292,7 +292,7 @@
 * her `HER`
 * eating `AOEGT`
 * up. `UP TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * death!" `TK*T SKHRAPL KR-GS`
 * came, `KAEUPL KW-BG`
 * where `W-R`
@@ -324,7 +324,7 @@
 * know `TPHOE`
 * what's `WHATS`
 * egg? `EG H-F`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * basilisk. `xxx basilisk TP-PL`
 * sight `SAOEUT`
 * such `SUFP`

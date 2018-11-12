@@ -395,7 +395,7 @@
 * ever `-FR`
 * impertinence `xxx impertinence`
 * this! `TH SKHRAPL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * plague `PHRAEUG`
 * shrew `SHRAOU`
 * pudding! `PUD/-G SKHRAPL`

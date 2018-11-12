@@ -321,7 +321,7 @@
 * girl's `TKPWEURL/AES`
 * head `HED`
 * coffin. `KOFPB TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * holy `HOEUL`
 * calm `KAUPL`
 * rested `REFT/-D`

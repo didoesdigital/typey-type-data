@@ -109,7 +109,7 @@
 * things `THEUPBGS`
 * talk `TAUBG`
 * about. `PW TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * large `HRARPBLG`
 * doll, `TKOL KW-BG`
 * still `STEUL`

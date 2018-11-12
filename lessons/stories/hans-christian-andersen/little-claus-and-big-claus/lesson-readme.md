@@ -645,7 +645,7 @@
 * swim `SWEUPL`
 * against `TKPWEPBS`
 * stream. `STRAOEPL TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * new `TPHU`
 * bridge `PWREUPBLG`
 * lately `HRAEULT`
@@ -756,7 +756,7 @@
 * tanners `TAPB/ERS`
 * running, `R*UPBG KW-BG`
 * wanted `WAPBTD`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * each," `AOEFP KW-BG KR-GS`
 * "Are `KR-GS R`
 * mad?" `PHAD H-F KR-GS`

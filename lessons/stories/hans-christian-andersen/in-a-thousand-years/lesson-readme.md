@@ -234,7 +234,7 @@
 * Campagna `KAPL/PAPB/KWRA`
 * lies `HRAO*EUS`
 * desert. `STK*ERT TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * single `SEUPBLG`
 * ruined `RAOUPBD`
 * wall `WAUL`

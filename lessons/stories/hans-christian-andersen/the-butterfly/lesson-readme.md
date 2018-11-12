@@ -103,7 +103,7 @@
 * me?—Ardently? `PHE H-F EPL/TKA*RB ARD/EPBT/HREU H-F`
 * Distractedly? `TKEUS/TRABGD/HREU H-F`
 * much? `PHUFP H-F`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * little? `HREUL H-F`
 * all?" `AUL H-F KR-GS`
 * on. `OPB TP-PL`

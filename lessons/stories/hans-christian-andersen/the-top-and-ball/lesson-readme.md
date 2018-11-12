@@ -1,6 +1,6 @@
 # The Top and Ball
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * whipping `WHEUPG`
 * top `TOP`
 * and `SKP`

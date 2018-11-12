@@ -1,6 +1,6 @@
 # Cat and Mouse in Partnership
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * certain `SERPB`
 * cat `KAT`
 * had `H`

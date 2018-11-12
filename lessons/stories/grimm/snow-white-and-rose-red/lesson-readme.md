@@ -474,7 +474,7 @@
 * quickly, `KWEULG KW-BG`
 * sight `SAOEUT`
 * trees. `TRAOES TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * short `SHORT`
 * time `TAOEUPL`
 * afterwards `A*FRDZ`

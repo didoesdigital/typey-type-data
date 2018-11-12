@@ -297,7 +297,7 @@
 * angel's `A*EPBLG AES`
 * face `TPAEUS`
 * appeared. `A/PAOERD TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * maiden `PHAEUD/*EPB`
 * knelt `TPHELT`
 * altar, `AL/TAR KW-BG`

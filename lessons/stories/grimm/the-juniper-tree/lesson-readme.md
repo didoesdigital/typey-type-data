@@ -98,7 +98,7 @@
 * feeling `TPAOELG`
 * glad `TKPWHRAD`
 * comforted. `K-FRTD TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * month `PHO*PBT`
 * passed, `PAFD KW-BG`
 * snow `STPHOE`

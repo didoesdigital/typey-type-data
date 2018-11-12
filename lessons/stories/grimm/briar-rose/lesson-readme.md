@@ -1,6 +1,6 @@
 # Briar Rose
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * king `KEUPBG`
 * and `SKP`
 * queen `KWAOEPB`

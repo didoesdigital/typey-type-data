@@ -1,6 +1,6 @@
 # The Races
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * prize, `PRAOEUZ KW-BG`
 * or `OR`
 * rather `RAER`

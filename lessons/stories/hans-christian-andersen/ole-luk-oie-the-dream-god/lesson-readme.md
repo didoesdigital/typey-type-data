@@ -1047,7 +1047,7 @@
 * rites `RAO*EUT/-S`
 * together `TOGT`
 * bind `PWEUPBD`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * loving `HRUFG`
 * though `THOE`
 * kid, `KEUD KW-BG`

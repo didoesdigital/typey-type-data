@@ -1,6 +1,6 @@
 # Lily and the Lion
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * merchant, `PHEFRPBT KW-BG`
 * who `WHO`
 * had `H`
@@ -139,7 +139,7 @@
 * looked `HRAOBGD`
 * dreary `TKRAOE/REU`
 * buried `PWUR/EUD`
-* 'A `AE KPA*/AEU`
+* 'A `AE KPA/AEU`
 * lucky `HROEUBG`
 * hit!' `HEUT SKHRAPL AE`
 * he, `HE KW-BG`

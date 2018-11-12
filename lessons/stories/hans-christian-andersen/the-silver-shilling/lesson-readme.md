@@ -168,7 +168,7 @@
 * imagine `PHAPBLG`
 * what `WHA`
 * meant. `PHEPBT TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * man `PHAPB`
 * cannot `K/TPHOT`
 * see `SAOE`
@@ -580,7 +580,7 @@
 * an `APB`
 * impartial `EUPL/PARBL`
 * judge `SKWRUPBLG`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * way `WAEU`
 * changed `KHAEUPBGD`
 * hand `HAPBD`

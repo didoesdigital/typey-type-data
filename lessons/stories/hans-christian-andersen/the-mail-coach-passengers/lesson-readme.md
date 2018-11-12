@@ -82,7 +82,7 @@
 * drink `TKREU`
 * success `SKES`
 * comer. `KOPL/ER TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * happy `HAEP`
 * Year," `KWRAOER KW-BG KR-GS`
 * cry; `KRAOEU STPH*FPLT`
@@ -575,7 +575,7 @@
 * color `KROR`
 * hand, `HAPBD KW-BG`
 * luggage. `HRUG/APBLG TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * land-owner `HRAPBD H-PB OERPB`
 * followed, `TPOLD KW-BG`
 * month `PHO*PBT`

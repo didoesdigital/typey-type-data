@@ -395,7 +395,7 @@
 * pray; `PRAEU STPH*FPLT`
 * ripe,' `RAOEUP KW-BG AE`
 * cried. `KRAOEUD TP-PL`
-* 'A `AE KPA*/AEU`
+* 'A `AE KPA/AEU`
 * nice `TPHAOEUS`
 * ask `SK`
 * head,' `HED KW-BG AE`

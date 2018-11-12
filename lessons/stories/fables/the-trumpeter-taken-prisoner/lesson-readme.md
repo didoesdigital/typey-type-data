@@ -1,6 +1,6 @@
 # The Trumpeter Taken Prisoner
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Trumpeter `TRUPLT/*ER`
 * during `TKURG`
 * a `AEU`

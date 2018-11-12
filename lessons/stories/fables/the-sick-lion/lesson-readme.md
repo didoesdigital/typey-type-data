@@ -1,6 +1,6 @@
 # The Sick Lion
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Lion `HRO*EUPB`
 * had `H`
 * come `KOPL`

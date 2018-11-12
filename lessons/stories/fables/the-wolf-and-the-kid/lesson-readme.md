@@ -1,6 +1,6 @@
 # The Wolf and the Kid
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * Kid `KEUD`
 * was `WAS`
 * perched `PER/-FPD`

@@ -56,7 +56,7 @@
 * not `TPHOT`
 * catch `KAFP`
 * hereafter." `HAOER/AFR TP-PL KR-GS`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * thing `THEUPBG`
 * in `TPH`
 * hand `HAPBD`

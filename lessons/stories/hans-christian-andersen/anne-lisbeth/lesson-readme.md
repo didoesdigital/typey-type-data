@@ -345,7 +345,7 @@
 * wood, `WAOD KW-BG`
 * painted `PAEUPBTD`
 * blue. `PWHRU TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * comfort, `K-FRT KW-BG`
 * better `PWOERT`
 * still, `STEUL KW-BG`
@@ -1099,7 +1099,7 @@
 * sign `SAOEUPB`
 * such `SUFP`
 * creatures. `KRAOEFPS TP-PL`
-* "A `KR-GS KPA*/AEU`
+* "A `KR-GS KPA/AEU`
 * grave! `TKPWRAEUF SKHRAPL`
 * dig `TKEUG`
 * grave!" `TKPWRAEUF SKHRAPL KR-GS`

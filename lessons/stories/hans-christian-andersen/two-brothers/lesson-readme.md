@@ -300,7 +300,7 @@
 * air, `AEUR KW-BG`
 * why `KWR`
 * rose. `ROEZ TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * shooting `SHAOGT`
 * star `STAR`
 * lit `HREUT`

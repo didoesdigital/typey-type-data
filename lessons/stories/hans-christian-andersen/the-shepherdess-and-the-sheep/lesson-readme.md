@@ -356,7 +356,7 @@
 * theatre, `THAO*ERT KW-BG`
 * built `PWEULT`
 * neatly. `TPHAO*ELT TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * comedy `KOPL/TKEU`
 * performed `PORPLD`
 * queens `KWAOEPBS`

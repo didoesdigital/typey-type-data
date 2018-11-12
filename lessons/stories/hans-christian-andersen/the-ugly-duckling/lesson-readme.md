@@ -768,7 +768,7 @@
 * quietly, `KWAO*EULT KW-BG`
 * shelter `SHELT`
 * night. `TPHAOEUT TP-PL`
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * woman, `WOPL KW-BG`
 * tom `TOPL`
 * cat, `KAT KW-BG`

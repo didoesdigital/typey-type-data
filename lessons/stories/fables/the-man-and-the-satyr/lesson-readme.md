@@ -1,6 +1,6 @@
 # The Man and the Satyr
 
-* A `KPA*/AEU`
+* A `KPA/AEU`
 * man `PHAPB`
 * had `H`
 * lost `HRO*S`
