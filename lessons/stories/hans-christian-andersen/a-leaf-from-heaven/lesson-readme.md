@@ -210,7 +210,7 @@
 * her, `HER KW-BG`
 * telling `TELG`
 * remember `REB`
-* Joseph's `SKWROEZ/EF AES`
+* Joseph's `SKWROE/SEF AES`
 * brethren `PWR*ET/REPB`
 * persons `PERPBZ`
 * wished `WEURBD`

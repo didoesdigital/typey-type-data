@@ -305,7 +305,7 @@
 * Korea `KRAOE/KWRA`
 * Kelly `KEL/HREU`
 * Toronto `TROPB/TO`
-* Joseph `SKWROEZ/EF`
+* Joseph `SKWROE/SEF`
 * ministry `PH*EUPBS/REU`
 * birthday `PWEURT/TKAEU`
 * gratis `TKPWRAT/EUS`

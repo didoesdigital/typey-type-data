@@ -2621,7 +2621,7 @@
 * assets `SA*ET/-S`
 * injury `SKWRAOUR`
 * mt `PH*/T*`
-* Joseph `SKWROEZ/EF`
+* Joseph `SKWROE/SEF`
 * ministry `PH*EUPBS/REU`
 * drivers `TKRAOEUFRS`
 * lawyer `HRAUR`
@@ -7145,7 +7145,7 @@
 * drill `TKREUL`
 * offense `OFPBS`
 * threesome `THRAOE/SPH`
-* Bryan `PWRAO*EU/A*PB`
+* Bryan `PWRAOEU/KWRAPB`
 * cet `KR*/*E/T*`
 * protest `PRO/TEFT`
 * handjob `H*/A*/TPH*/TK*/SKWR*/O*/PW*`

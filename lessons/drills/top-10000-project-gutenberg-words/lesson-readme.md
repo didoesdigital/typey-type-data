@@ -2044,7 +2044,7 @@
 * excuse `SKAOUS`
 * triumph `TRAOEUFPL`
 * origin `O*RPBLG`
-* Joseph `SKWROEZ/EF`
+* Joseph `SKWROE/SEF`
 * slept `SHREPD`
 * eternal `E/TERPBL`
 * thine `THAOEUPB`
