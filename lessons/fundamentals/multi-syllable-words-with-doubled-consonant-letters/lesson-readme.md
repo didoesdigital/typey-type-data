@@ -250,7 +250,7 @@
 * batteries `PWAT/REUS`
 * carried `KAERD`
 * happen `HAP`
-* miller `PHEUL/HRER`
+* Miller `PHEUL/HRER`
 * adding `AGD`
 * hidden `HEUD/EPB`
 * tennis `TEPB/EUS`

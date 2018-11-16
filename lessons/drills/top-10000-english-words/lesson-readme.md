@@ -2884,7 +2884,7 @@
 * signature `SEURG`
 * gambling `TKPWAPL/-BLG`
 * refer `REFR`
-* miller `PHEUL/HRER`
+* Miller `PHEUL/HRER`
 * provision `PREUFGS`
 * outdoors `OUT/TKAORS`
 * clothes `KHRO*ETS`

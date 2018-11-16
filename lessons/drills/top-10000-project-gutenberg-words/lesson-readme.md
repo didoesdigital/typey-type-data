@@ -5399,7 +5399,7 @@
 * Santa `SAPB/TA`
 * approve `A/PROF`
 * cautiously `KAURBS/HREU`
-* miller `PHEUL/HRER`
+* Miller `PHEUL/HRER`
 * afflicted `A/TPHREUBGD`
 * lodgings `HROPBLG/-G/-S`
 * petition `PE/TEUGS`
