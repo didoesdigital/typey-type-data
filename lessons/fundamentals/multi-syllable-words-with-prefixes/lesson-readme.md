@@ -445,6 +445,7 @@
 * alike `A/HRAOEUBG`
 * undo `UPB/TKO`
 * denial `TKE/TPHAOEUL`
+* electro `HRERBGT/KWRO`
 * encountered `EPB/KOURPBTD`
 * internationally `EUPBT/TPHAT/HREU`
 * aquatic `A/KWAT/EUBG`
