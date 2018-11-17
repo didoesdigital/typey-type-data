@@ -257,7 +257,7 @@
 * mill `PHEUL`
 * begged `PWEGD`
 * shelter. `SHELT TP-PL`
-* miller's `PHEUL/*ER AES`
+* miller's `HRO*ER/PHEUL/HRER AES`
 * alone `A/HROEPB`
 * house, `HOUS KW-BG`
 * peasant: `PEFPBT STPH-FPLT`
@@ -343,7 +343,7 @@
 * coming `KO*G`
 * an `APB`
 * end.' `EPBD TP-PL AE`
-* miller `PHEUL/*ER`
+* miller `HRO*ER/PHEUL/HRER`
 * saw `SAU`
 * lying `HRAOEUG`
 * straw, `STRAU KW-BG`
@@ -400,7 +400,7 @@
 * foretell `TPOER/TEL`
 * anything `TPHEUG`
 * me?' `PHE H-F AE`
-* miller. `PHEUL/*ER TP-PL`
+* miller. `HRO*ER/PHEUL/HRER TP-PL`
 * 'Why `AE KPA/KWR`
 * not?' `TPHOT H-F AE`
 * answered `AEPBS/-D`
@@ -429,7 +429,7 @@
 * 'Bless `AE KPA/PWRES`
 * me!' `PHE SKHRAPL AE`
 * cried `KRAOEUD`
-* miller, `PHEUL/*ER KW-BG`
+* miller, `HRO*ER/PHEUL/HRER KW-BG`
 * found `TPOUPBD`
 * 'Now `AE KPA/TPHOU`
 * on,' `OPB KW-BG AE`

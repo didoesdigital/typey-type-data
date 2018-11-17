@@ -78,7 +78,7 @@
 * with `W`
 * pretty `PREUT`
 * flowers `TPHRO*URS`
-* bowers `PWOUR/-S`
+* bowers `HRO*ER/PWO*URS`
 * like `HRAOEUBG`
 * little `HREUL`
 * dolls' `TKOLS AE`
@@ -122,7 +122,7 @@
 * dwells `TKWEL/-S`
 * water `WAUR`
 * spirit, `SPEURT KW-BG`
-* "Au-mann." `KR-GS xxx Au H-PB xxx mann TP-PL KR-GS`
+* "Au-mann." `KR-GS xxx Au H-PB HRO*ER/PHAPB/PHAPB TP-PL KR-GS`
 * This `KPA/TH`
 * spirit `SPEURT`
 * sleeps `SHRAOEPS`
@@ -222,7 +222,7 @@
 * nor `TPH-R`
 * sleep. `SHRAOEP TP-PL`
 * Down `KPA/TKOUPB`
-* Au-mann's `xxx Au H-PB xxx mann AES`
+* Au-mann's `xxx Au H-PB HRO*ER/PHAPB/PHAPB AES`
 * haunt `HAUPBT`
 * rings, `REUPBGS KW-BG`
 * so `SO`
@@ -243,7 +243,7 @@
 * true, `TRAOU KW-BG`
 * only `OEPBL`
 * talking `TAUG`
-* Au-mann, `xxx Au H-PB xxx mann KW-BG`
+* Au-mann, `xxx Au H-PB HRO*ER/PHAPB/PHAPB KW-BG`
 * who `WHO`
 * longer `HRORPBG`
 * alone. `A/HROEPB TP-PL`
@@ -524,7 +524,7 @@
 * broke, `PWROEBG KW-BG`
 * gleaming `TKPWHRAOEPL/-G`
 * deepest, `TKAOEP/EFT KW-BG`
-* Au-mann `xxx Au H-PB xxx mann`
+* Au-mann `xxx Au H-PB HRO*ER/PHAPB/PHAPB`
 * lives, `HREUFS KW-BG`
 * alone; `A/HROEPB STPH*FPLT`
 * know. `TPHOE TP-PL`

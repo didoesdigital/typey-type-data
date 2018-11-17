@@ -240,7 +240,7 @@
 * reading `RAEGD`
 * it: `T STPH-FPLT`
 * PIPE-HEAD `KPA/PAOEUP H-PB KPA/HED`
-* AND `KPA/SKP`
+* AND `HRO*ER/AFPBD`
 * GOOD `KPA/TKPWAOD`
 * HEAD `KPA/HED`
 * A `KPA/AEU`
@@ -248,7 +248,7 @@
 * Drama `KPA/TKRA/PHA`
 * Act `A*BGT`
 * CHARACTERS `KPA/KRARS`
-* MR. `xxx MR TP-PL`
+* MR. `HRO*ER/PH*P/R* TP-PL`
 * PIPE-HEAD, `KPA/PAOEUP H-PB KPA/HED KW-BG`
 * father. `TPAER TP-PL`
 * WAISTCOAT, `KPA/WA*EUS/KOET KW-BG`
@@ -304,7 +304,7 @@
 * his `HEUS`
 * upper `AOURP`
 * part `PART`
-* morocco, `xxx morocco KW-BG`
+* morocco, `HRO*ER/PHORBG/KOE KW-BG`
 * bargain. `PWARG/AEUPB TP-PL`
 * Snikke, `xxx Snikke KW-BG`
 * snakke, `xxx snakke KW-BG`

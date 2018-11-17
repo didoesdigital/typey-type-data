@@ -176,7 +176,7 @@
 * there `THR`
 * days `TKAEUS`
 * week. `WAOEBG TP-PL`
-* MONDAY `xxx MONDAY`
+* MONDAY `HRO*ER/PHOPBD`
 * "Now `KR-GS KPA/TPHOU`
 * pay `PAEU`
 * attention," `A/T-PBGS KW-BG KR-GS`
@@ -358,7 +358,7 @@
 * wretched `KREFPD`
 * awkward `AUBG/WARD`
 * ever. `-FR TP-PL`
-* TUESDAY `xxx TUESDAY`
+* TUESDAY `HRO*ER/TAOUZ`
 * touched, `TUFPD KW-BG`
 * magic `PHAPBLG/EUBG`
 * wand, `WAPBD KW-BG`
@@ -604,7 +604,7 @@
 * stems, `STEPLS KW-BG`
 * telling `TELG`
 * well. `WEL TP-PL`
-* WEDNESDAY `xxx WEDNESDAY`
+* WEDNESDAY `HRO*ER/W*ED`
 * How `KPA/HOU`
 * did `TK`
 * pour `POR`
@@ -799,7 +799,7 @@
 * wonderful `WUFL`
 * journey `SKWRURPB`
 * take `TAEUBG`
-* THURSDAY `xxx THURSDAY`
+* THURSDAY `HRO*ER/THURD`
 * think `THEU`
 * got `TKPWOT`
 * here?" `HAOER H-F KR-GS`
@@ -963,7 +963,7 @@
 * society; `SOET STPH*FPLT`
 * obliged `OE/PWHRAOEUPBLGD`
 * creep `KRAOEP`
-* FRIDAY `xxx FRIDAY`
+* FRIDAY `HRO*ER/TPREU`
 * incredible `TPHEBL`
 * people `PAOEPL`
 * glad `TKPWHRAD`
@@ -1200,7 +1200,7 @@
 * gate, `TKPWAET KW-BG`
 * garden." `TKPWA*RPB TP-PL KR-GS`
 * settled `S*ELTD`
-* SATURDAY `xxx SATURDAY`
+* SATURDAY `HRO*ER/SAET`
 * "Am `KR-GS KPA/APL`
 * stories?" `STOERS H-F KR-GS`
 * sent `SEPBT`
@@ -1302,7 +1302,7 @@
 * grumbled `TKPWRUPL/-BLD`
 * portrait. `POR/TRAT TP-PL`
 * woke `WOEBG`
-* SUNDAY `xxx SUNDAY`
+* SUNDAY `HRO*ER/SUPBD`
 * "Good `KR-GS KPA/TKPWAOD`
 * nodded, `TPHOD/-D KW-BG`
 * sprang `SPRAPBG`

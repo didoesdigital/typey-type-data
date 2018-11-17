@@ -134,7 +134,7 @@
 * eat `AOET`
 * cabbage-leaf `KAB/APBLG H-PB HRAOEF`
 * hands, `HAPBDZ KW-BG`
-* roe `xxx roe`
+* roe `HRO*ER/RO*E`
 * grazed `TKPWRAEUZ/-D`
 * side, `SAOEUD KW-BG`
 * stag `STAG`

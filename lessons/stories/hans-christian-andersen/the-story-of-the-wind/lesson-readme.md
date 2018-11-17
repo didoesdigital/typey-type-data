@@ -1417,7 +1417,7 @@
 * canon's `KA/TPHOPB AES`
 * gentle `SKWR*EPBLT`
 * bay-window, `PWAEU H-PB WOEUPBD KW-BG`
-* hawthorn `xxx hawthorn`
+* hawthorn `HRO*ER/HA*U/THORPB`
 * hedge `HEPBL`
 * heath. `HAO*ET TP-PL`
 * at? `AT H-F`

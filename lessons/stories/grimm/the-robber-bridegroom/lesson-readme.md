@@ -4,7 +4,7 @@
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
-* miller `PHEUL/*ER`
+* miller `HRO*ER/PHEUL/HRER`
 * who `WHO`
 * had `H`
 * one `WUPB`

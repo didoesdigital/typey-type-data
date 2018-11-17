@@ -209,7 +209,7 @@
 * it `T`
 * warm `WARPL`
 * comfortable. `K-BL TP-PL`
-* JANUARY. `xxx JANUARY TP-PL`
+* JANUARY. `HRO*ER/SKWRAPB TP-PL`
 * I'm `AOEUPL`
 * merchant, `PHEFRPBT KW-BG`
 * generally `SKWRERPBL`
@@ -284,7 +284,7 @@
 * Carnival, `KPA/KARPB/SRAL KW-BG`
 * travelling `TRAFLG/A*U`
 * under `*UPBD`
-* FEBRUARY." `xxx FEBRUARY TP-PL KR-GS`
+* FEBRUARY." `HRO*ER/TPEB TP-PL KR-GS`
 * third `THEURD`
 * now `TPHOU`
 * got `TKPWOT`
@@ -311,7 +311,7 @@
 * bunch `PWUFRPB`
 * violets, `SROEULT/-S KW-BG`
 * small. `SPHAL TP-PL`
-* "MARCH, `KR-GS KPA/PHA*R KW-BG`
+* "MARCH, `KR-GS HRO*ER/PHA*R KW-BG`
 * March," `PHAFRPB KW-BG KR-GS`
 * fourth `TPO*URT`
 * called `KAULD`
@@ -349,7 +349,7 @@
 * name, `TPHAEUPL KW-BG`
 * make `PHAEUBG`
 * an `APB`
-* APRIL `xxx APRIL`
+* APRIL `HRO*ER/PREUL`
 * fool `TPAOL`
 * fun `TPUPB`
 * began `TKPWAPB`
@@ -407,7 +407,7 @@
 * She `KPA/SHE`
 * herself `H*ERS`
 * Miss `KPA/PHEUS`
-* MAY. `KPA/PHAE TP-PL`
+* MAY. `HRO*ER/PHAE TP-PL`
 * wore `WOR`
 * dress `TKRES`
 * overshoes; `xxx overshoes STPH*FPLT`
@@ -459,7 +459,7 @@
 * proud, `PROUD KW-BG`
 * pretty. `PREUT TP-PL`
 * Mistress `KPA/PHEUS/TRES`
-* JUNE, `xxx JUNE KW-BG`
+* JUNE, `HRO*ER/SKWRUPB KW-BG`
 * whose `WHOZ`
 * service `S-FS`
 * become `PW-BG`
@@ -492,7 +492,7 @@
 * protector; `PREBG/TOR STPH*FPLT`
 * younger `KWRURPBG`
 * brother, `PWROER KW-BG`
-* JULY, `xxx JULY KW-BG`
+* JULY, `HRO*ER/SKWRUL KW-BG`
 * her. `HER TP-PL`
 * plump `PHRUFRP`
 * fellow, `TPO*EUL KW-BG`
@@ -513,7 +513,7 @@
 * herself, `H*ERS KW-BG`
 * crinoline, `KREUPB/HREUPB KW-BG`
 * Madame `PHA*/TKAPL`
-* AUGUST, `KPA/A*UG KW-BG`
+* AUGUST, `HRO*ER/AUG KW-BG`
 * wholesale `WHOEL/SAEL`
 * dealer `TKAOERL`
 * fruit, `TPRAOUT KW-BG`
@@ -558,7 +558,7 @@
 * master `PHAFRT`
 * colors, `KHRORS KW-BG`
 * named `TPHAEUPLD`
-* SEPTEMBER. `xxx SEPTEMBER TP-PL`
+* SEPTEMBER. `HRO*ER/SEPT TP-PL`
 * arrival, `A/RAOEUFL KW-BG`
 * change `KHAEUPBG`
 * its `EUTS`
@@ -607,7 +607,7 @@
 * field `TPAOELD`
 * sports. `SPORTS TP-PL`
 * Squire `KPA/SKWAOEUR`
-* OCTOBER `xxx OCTOBER`
+* OCTOBER `HRO*ER/OBGT`
 * dog `TKOG`
 * gun `TKPW-PB`
 * nuts `TPHUTS`
@@ -626,7 +626,7 @@
 * coughing `KOFG`
 * gasping `TKPWAS/-PG`
 * neighbor. `TPHAEUB TP-PL`
-* NOVEMBER, `xxx NOVEMBER KW-BG`
+* NOVEMBER, `HRO*ER/TPHOF KW-BG`
 * coughed `KOFD`
 * violently `SRAOEUL/HREPBT/HREU`
 * caused `KAUFD`
@@ -644,7 +644,7 @@
 * never `TPHEF`
 * leave `HREF`
 * woodcutting, `WAOD/K*UT/-G KW-BG`
-* sawyer, `xxx sawyer KW-BG`
+* sawyer, `HRO*ER/SAUR KW-BG`
 * supply `SPHAOEU`
 * wood `WAOD`
 * parish. `PAR/EURB TP-PL`
@@ -666,7 +666,7 @@
 * passenger `PAEPBG`
 * appearance,—old `PAOERPBS KW-BG EPL/TKA*RB OLD`
 * Mother `KPA/PHOER`
-* DECEMBER, `xxx DECEMBER KW-BG`
+* DECEMBER, `HRO*ER/TKAOES KW-BG`
 * fire-stool. `TPAOEUR H-PB STOL TP-PL`
 * dame `TKAEUPL`
 * old, `OLD KW-BG`
@@ -757,7 +757,7 @@
 * each `AOEFP`
 * passport. `PAS/PORT TP-PL`
 * Mr. `PHR-FPLT`
-* JANUARY, `xxx JANUARY KW-BG`
+* JANUARY, `HRO*ER/SKWRAPB KW-BG`
 * goodness `TKPWAOD/-PBS`
 * here." `HAOER TP-PL KR-GS`
 * January `SKWRAPB`

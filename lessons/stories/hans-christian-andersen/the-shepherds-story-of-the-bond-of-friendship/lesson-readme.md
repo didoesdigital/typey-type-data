@@ -197,7 +197,7 @@
 * dewdrops; `xxx dewdrops STPH*FPLT`
 * came `KAEUPL`
 * by `PWEU`
-* roebuck, `xxx roebuck KW-BG`
+* roebuck, `HRO*ER/ROE/PWUBG KW-BG`
 * said, `SAEUD KW-BG`
 * 'What `AE KPA/WHA`
 * ailest `AEUL/EFT`
@@ -229,14 +229,14 @@
 * islands!' `AOEU/HRAPBDZ SKHRAPL AE`
 * cried `KRAOEUD`
 * young `KWRUPBG`
-* roebuck; `xxx roebuck STPH*FPLT`
+* roebuck; `HRO*ER/ROE/PWUBG STPH*FPLT`
 * islands `AOEU/HRAPBDZ`
 * into `TPHAO`
 * deep `TKAOEP`
 * sea.' `SAE TP-PL AE`
 * But `KPA/PWUT`
 * before `PW-F`
-* roebuck `xxx roebuck`
+* roebuck `HRO*ER/ROE/PWUBG`
 * slain, `SHRAEUPB KW-BG`
 * night `TPHAOEUT`
 * hunted `HUPBT/-D`
@@ -624,7 +624,7 @@
 * Outside, `KPA/OUDZ KW-BG`
 * women `WEUPL`
 * roasting `ROEFT/-G`
-* paschal `xxx paschal`
+* paschal `HRO*ER/PAS/KHAL`
 * lamb. `HRAPL TP-PL`
 * invited `EUPB/SRAOEUTD`
 * partake; `PAR/TAEUBG STPH*FPLT`
@@ -804,7 +804,7 @@
 * throat `THROET`
 * issues `*EURBS`
 * wolf `WOFL`
-* jackal; `xxx jackal STPH*FPLT`
+* jackal; `HRO*ER/SKWRA*BG/A*L STPH*FPLT`
 * us, `US KW-BG`
 * considered `KR-D`
 * presence `PREPBS`

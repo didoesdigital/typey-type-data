@@ -683,7 +683,7 @@
 * amiable, `APL/KWRABL KW-BG`
 * sing,— `SEUPBG KW-BG EPL/TKA*RB`
 * "Chirp `KR-GS KPA/KHEURP`
-* twitter, `xxx twitter KW-BG`
+* twitter, `HRO*ER/TWEURT KW-BG`
 * dew-drops `TKAO*U H-PB TKROPS`
 * glitter, `TKPWHREUT KW-BG`
 * In `KPA/TPH`

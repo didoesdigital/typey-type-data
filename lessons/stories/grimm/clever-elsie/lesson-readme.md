@@ -396,7 +396,7 @@
 * lying `HRAOEUG`
 * hastened `HAEUS/-PBD`
 * brought `PWRAUT`
-* fowler's `TPO*UL/*ER AES`
+* fowler's `HRO*ER/TPOUL/*ER AES`
 * net `TPHET`
 * little `HREUL`
 * bells `PWELS`

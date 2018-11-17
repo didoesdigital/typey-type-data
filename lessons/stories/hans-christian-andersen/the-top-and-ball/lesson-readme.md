@@ -31,7 +31,7 @@
 * wore `WOR`
 * dress `TKRES`
 * of `-F`
-* morocco `xxx morocco`
+* morocco `HRO*ER/PHORBG/KOE`
 * leather, `HRE/THER KW-BG`
 * thought `THAUT`
 * much `PHUFP`
@@ -363,7 +363,7 @@
 * can `K`
 * talk," `TAUBG KW-BG KR-GS`
 * examining `KP-G`
-* morocco," `xxx morocco KW-BG KR-GS`
+* morocco," `HRO*ER/PHORBG/KOE KW-BG KR-GS`
 * said. `SAEUD TP-PL`
 * sewn `SWEPB`
 * body; `PWO*ED STPH*FPLT`

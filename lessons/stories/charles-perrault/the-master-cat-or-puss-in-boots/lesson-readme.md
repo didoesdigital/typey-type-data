@@ -3,7 +3,7 @@
 * There `KPA/THR`
 * was `WAS`
 * a `AEU`
-* miller, `PHEUL/*ER KW-BG`
+* miller, `HRO*ER/PHEUL/HRER KW-BG`
 * who `WHO`
 * left `HREFT`
 * no `TPHO`

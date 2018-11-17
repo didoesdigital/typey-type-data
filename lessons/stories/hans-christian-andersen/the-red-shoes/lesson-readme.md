@@ -179,7 +179,7 @@
 * golden `TKOELD/*EPB`
 * crown, `KROUPB KW-BG`
 * beautiful `PWAOUFL`
-* morocco `xxx morocco`
+* morocco `HRO*ER/PHORBG/KOE`
 * shoes; `SHAOUS STPH*FPLT`
 * indeed `TPHAOEPBD`
 * much `PHUFP`

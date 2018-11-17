@@ -2,7 +2,7 @@
 
 * A `KPA/AEU`
 * poor `PAOR`
-* woodman `xxx woodman`
+* woodman `HRO*ER/KPA/WAOD/TK-LS/PHAPB`
 * sat `SAT`
 * in `TPH`
 * his `HEUS`
@@ -318,7 +318,7 @@
 * must `PHUFT`
 * buy `PWAOEU`
 * him.' `HEUPL TP-PL AE`
-* woodman, `xxx woodman KW-BG`
+* woodman, `HRO*ER/KPA/WAOD/TK-LS/PHAPB KW-BG`
 * asked `SK-D`
 * would `WO`
 * man. `PHAPB TP-PL`
@@ -622,7 +622,7 @@
 * cow; `KO*U STPH*FPLT`
 * hay `HA*EU`
 * cow's `KO*U AES`
-* rick, `xxx rick KW-BG`
+* rick, `HRO*ER/REUBG KW-BG`
 * cow `KO*U`
 * mouthful `xxx mouthful`
 * it. `T TP-PL`

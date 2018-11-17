@@ -676,7 +676,7 @@
 * clack.' `KHRABG TP-PL AE`
 * Inside `KPA/TPH-DZ`
 * twenty `TWEPBT`
-* miller's `PHEUL/*ER AES`
+* miller's `HRO*ER/PHEUL/HRER AES`
 * men `PHEPB`
 * hewing `HAO*U/-G`
 * stone, `STOEPB KW-BG`

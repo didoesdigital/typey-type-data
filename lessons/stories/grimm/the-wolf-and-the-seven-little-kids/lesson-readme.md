@@ -176,7 +176,7 @@
 * when `WHEPB`
 * rubbed `RUBD`
 * over, `OEFR KW-BG`
-* miller `PHEUL/*ER`
+* miller `HRO*ER/PHEUL/HRER`
 * 'Strew `AE KPA/STRAOU`
 * white `WHAOEUT`
 * meal `PHAOEL`

@@ -21,12 +21,12 @@
 * stood `STAOD`
 * mill. `PHEUL TP-PL`
 * The `KPA/-T`
-* miller's `PHEUL/*ER AES`
+* miller's `HRO*ER/PHEUL/HRER AES`
 * house `HOUS`
 * was `WAS`
 * close `KHROES`
 * by, `PWEU KW-BG`
-* miller, `PHEUL/*ER KW-BG`
+* miller, `HRO*ER/PHEUL/HRER KW-BG`
 * you `U`
 * must `PHUFT`
 * know, `TPHOE KW-BG`
@@ -39,7 +39,7 @@
 * moreover, `PHROEFR KW-BG`
 * shrewd `SHRAOUD`
 * clever; `KHREFR STPH*FPLT`
-* miller `PHEUL/*ER`
+* miller `HRO*ER/PHEUL/HRER`
 * so `SO`
 * proud `PROUD`
 * her, `HER KW-BG`
@@ -335,10 +335,10 @@
 * ones. `WUPBZ TP-PL`
 * next `TPHEGT`
 * came, `KAEUPL KW-BG`
-* TIMOTHY, `xxx TIMOTHY KW-BG`
-* ICHABOD, `xxx ICHABOD KW-BG`
-* BENJAMIN, `xxx BENJAMIN KW-BG`
-* JEREMIAH, `xxx JEREMIAH KW-BG`
+* TIMOTHY, `HRO*ER/TEUPL/THEU KW-BG`
+* ICHABOD, `HRO*ER/EUBG/PWOD KW-BG`
+* BENJAMIN, `HRO*ER/PWEPBG/PHEUPB KW-BG`
+* JEREMIAH, `HRO*ER/SKWRER/PHAOEU/KWRA KW-BG`
 * remember; `REB STPH*FPLT`
 * each `AOEFP`
 * them `THEPL`
@@ -430,11 +430,11 @@
 * lady, `HRA*ED KW-BG`
 * name?' `TPHAEUPL H-F AE`
 * 'Is `AE KPA/S`
-* JOHN?' `KPA/SKWROPB H-F AE`
+* JOHN?' `HRO*ER/SKWROPB H-F AE`
 * asked `SK-D`
 * 'No, `AE KPA/TPHO KW-BG`
 * madam!' `PHAD/APL SKHRAPL AE`
-* TOM?' `xxx TOM H-F AE`
+* TOM?' `HRO*ER/TOPL H-F AE`
 * JEMMY?' `xxx JEMMY H-F AE`
 * 'It `AE KPA/T`
 * not.' `TPHOT TP-PL AE`
@@ -471,4 +471,4 @@
 * merry `PHER/REU`
 * feast, `TPAOEFT KW-BG`
 * Mr `PH*P/R*`
-* RUMPLESTILTSKIN!' `xxx RUMPLESTILTSKIN SKHRAPL AE`
+* RUMPLESTILTSKIN!' `HRO*ER/R*UPL/*L/STEUT/SKEUPB SKHRAPL AE`

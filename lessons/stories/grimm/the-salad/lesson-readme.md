@@ -648,7 +648,7 @@
 * window. `WOEUPBD TP-PL`
 * 'What's `AE KPA/WHA AES`
 * matter?' `PHAERT H-F AE`
-* miller. `PHEUL/*ER TP-PL`
+* miller. `HRO*ER/PHEUL/HRER TP-PL`
 * tiresome `TAOEUR/SO*PL`
 * beasts `PWAOEFT/-S`
 * here,' `HAOER KW-BG AE`
@@ -662,7 +662,7 @@
 * ask.' `SK TP-PL AE`
 * 'With `AE KPA/W`
 * heart,' `HART KW-BG AE`
-* miller; `PHEUL/*ER STPH*FPLT`
+* miller; `HRO*ER/PHEUL/HRER STPH*FPLT`
 * 'but `AE PWUT`
 * how `HOU`
 * them?' `THEPL H-F AE`
@@ -684,7 +684,7 @@
 * wanted. `WAPBTD TP-PL`
 * Some `KPA/SOPL`
 * after, `AF KW-BG`
-* miller `PHEUL/*ER`
+* miller `HRO*ER/PHEUL/HRER`
 * dead; `TKED STPH*FPLT`
 * 'The `AE KPA/-T`
 * two,' `TWO KW-BG AE`

@@ -805,7 +805,7 @@
 * fate `TPAEUT`
 * grease, `TKPWRAES KW-BG`
 * all." `AUL TP-PL KR-GS`
-* SECOND `KPA/SEBGD`
+* SECOND `HRO*ER/S*EBG/OPBD`
 * went `WEPBT`
 * tower. `TOUR TP-PL`
 * toasts `TOEFTS`

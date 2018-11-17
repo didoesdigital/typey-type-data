@@ -619,7 +619,7 @@
 * around `ARPBD`
 * green `TKPWRAOEPB`
 * meadows, `PHED/OES KW-BG`
-* hart `xxx hart`
+* hart `HRO*ER/HA*RT`
 * hind `HAOEUPBD`
 * grass. `TKPWRAS TP-PL`
 * There `KPA/THR`

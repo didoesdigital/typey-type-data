@@ -325,7 +325,7 @@
 * wind, `WEUPBD KW-BG`
 * riding `RAOEUD/-G`
 * wild `WAOEULD`
-* tom-cat `xxx tom H-PB KAT`
+* tom-cat `HRO*ER/TOPL H-PB KAT`
 * screaming `SKRAOEPLG`
 * frightfully. `TPRAOEUT/-FL/HREU TP-PL`
 * Nor `KPA/TPH-R`

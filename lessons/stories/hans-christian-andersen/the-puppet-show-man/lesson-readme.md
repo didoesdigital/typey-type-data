@@ -536,7 +536,7 @@
 * applause `A/PHRAUS`
 * house. `HOUS TP-PL`
 * 'prima `AE PREU/PHA`
-* donna' `xxx donna AE`
+* donna' `HRO*ER/TKOPB/TPHA AE`
 * lights `HRAOEUTS`
 * red, `RED KW-BG`
 * blue `PWHRU`

@@ -568,7 +568,7 @@
 * garden, `TKPWA*RPB KW-BG`
 * wild `WAOEULD`
 * raspberries `RAZ/PWER/KWREUS`
-* hart's-tongue `HRO*ER/HA*RT AES H-PB TUPBG`
+* hart's-tongue `HRO*ER/HA*RT AE S* H-PB TUPBG`
 * ferns `TPERPB/-S`
 * throve, `xxx throve KW-BG`
 * mistletoe `PHEUS/-L/TOE`
@@ -636,7 +636,7 @@
 * tops, `TOPS KW-BG`
 * books `PWAOBGS`
 * bound `PWOUPBD`
-* morocco `xxx morocco`
+* morocco `HRO*ER/PHORBG/KOE`
 * gilt `TKPW*EULT`
 * edges. `EPBLGS TP-PL`
 * Indeed, `KPA/TPHAOEPBD KW-BG`

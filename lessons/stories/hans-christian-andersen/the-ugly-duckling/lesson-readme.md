@@ -799,7 +799,7 @@
 * night. `TPHAOEUT TP-PL`
 * A `KPA/AEU`
 * woman, `WOPL KW-BG`
-* tom `xxx tom`
+* tom `HRO*ER/TOPL`
 * cat, `KAT KW-BG`
 * hen `HEPB`
 * lived `HREUFD`

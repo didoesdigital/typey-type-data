@@ -408,10 +408,10 @@
 * tricks. `TREUBGS TP-PL`
 * 2. `#T- TP-PL`
 * CHANTICLEER `xxx CHANTICLEER`
-* AND `KPA/SKP`
+* AND `HRO*ER/AFPBD`
 * PARTLET `xxx PARTLET`
 * VISIT `KPA/SREUFT`
-* MR `xxx MR`
+* MR `HRO*ER/PH*P/R*`
 * KORBES `xxx KORBES`
 * Another `KPA/TPHOER`
 * wished `WEURBD`

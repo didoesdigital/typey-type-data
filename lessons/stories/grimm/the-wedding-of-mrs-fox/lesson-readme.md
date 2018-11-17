@@ -243,7 +243,7 @@
 * them `THEPL`
 * of `-F`
 * house. `HOUS TP-PL`
-* SECOND `KPA/SEBGD`
+* SECOND `HRO*ER/S*EBG/OPBD`
 * wolf `WOFL`
 * suitor, `SAOU/TOR KW-BG`
 * knocked `TPHOBGD`

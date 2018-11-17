@@ -166,7 +166,7 @@
 * if `TP`
 * fell `TPEL`
 * tremendous `TREPLD`
-* somerset `xxx somerset`
+* somerset `HRO*ER/SOPL/ER/SET`
 * over `OEFR`
 * trees. `TRAOES TP-PL`
 * However, `KPA/HOUF KW-BG`

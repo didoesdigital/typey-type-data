@@ -410,7 +410,7 @@
 * for `TPOR`
 * might, `PHAOEUT KW-BG`
 * lord—but `HRORD EPL/TKA*RB PWUT`
-* LORD `KPA/HRORD`
+* LORD `HRO*ER/HRO*RD`
 * OF `KPA/-F`
 * ALL. `KPA/AUL TP-PL`
 * It `KPA/T`
@@ -446,7 +446,7 @@
 * heaven, `HEFPB KW-BG`
 * small `SPHAL`
 * great; `TKPWRAET STPH*FPLT`
-* twitter `xxx twitter`
+* twitter `HRO*ER/TWEURT`
 * sing `SEUPBG`
 * best `PWEFT`
 * may, `PHAE KW-BG`

@@ -116,7 +116,7 @@
 * towards `TORDZ`
 * grating, `TKPWRAEUGT KW-BG`
 * birds `PWEURDZ`
-* twitter `xxx twitter`
+* twitter `HRO*ER/TWEURT`
 * to `TO`
 * just `SKWRUFT`
 * as `AZ`

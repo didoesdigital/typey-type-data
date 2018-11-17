@@ -28,14 +28,14 @@ Rumpelstiltskin
 'a': AEU
 'mill.': PHEUL TP-PL
 'The': KPA/-T
-'miller's': PHEUL/*ER AES
+'miller's': HRO*ER/PHEUL/HRER AES
 'house': HOUS
 'was': WAS
 'close': KHROES
 'by,': PWEU KW-BG
 'and': SKP
 'the': -T
-'miller,': PHEUL/*ER KW-BG
+'miller,': HRO*ER/PHEUL/HRER KW-BG
 'you': U
 'must': PHUFT
 'know,': TPHOE KW-BG
@@ -53,7 +53,7 @@ Rumpelstiltskin
 'clever;': KHREFR STPH*FPLT
 'and': SKP
 'the': -T
-'miller': PHEUL/*ER
+'miller': HRO*ER/PHEUL/HRER
 'was': WAS
 'so': SO
 'proud': PROUD
@@ -100,7 +100,7 @@ Rumpelstiltskin
 'he': HE
 'heard': HAERD
 'the': -T
-'miller's': PHEUL/*ER AES
+'miller's': HRO*ER/PHEUL/HRER AES
 'boast': PWOEFT
 'his': HEUS
 'greediness': TKPWRAOE/TKEU/*PBS
@@ -354,7 +354,7 @@ Rumpelstiltskin
 'up': UP
 'the': -T
 'poor': PAOR
-'miller's': PHEUL/*ER AES
+'miller's': HRO*ER/PHEUL/HRER AES
 'daughter': TKAUR
 'again': TKPWEPB
 'with': W
@@ -462,7 +462,7 @@ Rumpelstiltskin
 'he': HE
 'took': TAOBG
 'the': -T
-'miller's': PHEUL/*ER AES
+'miller's': HRO*ER/PHEUL/HRER AES
 'daughter': TKAUR
 'to': TO
 'a': AEU
@@ -545,7 +545,7 @@ Rumpelstiltskin
 'be,'': -B KW-BG AE
 'thought': THAUT
 'the': -T
-'miller's': PHEUL/*ER AES
+'miller's': HRO*ER/PHEUL/HRER AES
 'daughter:': TKAUR STPH-FPLT
 'and': SKP
 'as': AZ
@@ -607,7 +607,7 @@ Rumpelstiltskin
 'he': HE
 'married': PHAERD
 'the': -T
-'miller's': PHEUL/*ER AES
+'miller's': HRO*ER/PHEUL/HRER AES
 'daughter,': TKAUR KW-BG
 'and': SKP
 'she': SHE
@@ -760,10 +760,10 @@ Rumpelstiltskin
 'she': SHE
 'began': TKPWAPB
 'with': W
-'TIMOTHY,': xxx TIMOTHY KW-BG
-'ICHABOD,': xxx ICHABOD KW-BG
-'BENJAMIN,': xxx BENJAMIN KW-BG
-'JEREMIAH,': xxx JEREMIAH KW-BG
+'TIMOTHY,': HRO*ER/TEUPL/THEU KW-BG
+'ICHABOD,': HRO*ER/EUBG/PWOD KW-BG
+'BENJAMIN,': HRO*ER/PWEPBG/PHEUPB KW-BG
+'JEREMIAH,': HRO*ER/SKWRER/PHAOEU/KWRA KW-BG
 'and': SKP
 'all': AUL
 'the': -T
@@ -1024,14 +1024,14 @@ Rumpelstiltskin
 'name?'': TPHAEUPL H-F AE
 ''Is': AE KPA/S
 'it': T
-'JOHN?'': KPA/SKWROPB H-F AE
+'JOHN?'': HRO*ER/SKWROPB H-F AE
 'asked': SK-D
 'she.': SHE TP-PL
 ''No,': AE KPA/TPHO KW-BG
 'madam!'': PHAD/APL SKHRAPL AE
 ''Is': AE KPA/S
 'it': T
-'TOM?'': xxx TOM H-F AE
+'TOM?'': HRO*ER/TOPL H-F AE
 ''No,': AE KPA/TPHO KW-BG
 'madam!'': PHAD/APL SKHRAPL AE
 ''Is': AE KPA/S
@@ -1137,4 +1137,4 @@ Rumpelstiltskin
 'merry': PHER/REU
 'feast,': TPAOEFT KW-BG
 'Mr': PH*P/R*
-'RUMPLESTILTSKIN!'': xxx RUMPLESTILTSKIN SKHRAPL AE
+'RUMPLESTILTSKIN!'': HRO*ER/R*UPL/*L/STEUT/SKEUPB SKHRAPL AE

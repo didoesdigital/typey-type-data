@@ -1363,7 +1363,7 @@
 * chooses `KHAOFS`
 * turn `TURPB`
 * pages. `PAEUPBLGS TP-PL`
-* dell `xxx dell`
+* dell `HRO*ER/TKEL`
 * Trinita `TRAO*EU/TPH*EUT/SKWRA`
 * slender `SHRERPBD`
 * pillar, `PEUL/AR KW-BG`

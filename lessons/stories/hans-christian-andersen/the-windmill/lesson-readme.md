@@ -390,7 +390,7 @@
 * do `TKO`
 * this `TH`
 * story. `STOER TP-PL`
-* miller's `PHEUL/*ER AES`
+* miller's `HRO*ER/PHEUL/HRER AES`
 * family—one `TPAEPL EPL/TKA*RB WUPB`
 * soul, `SOUL KW-BG`
 * one—built `WUPB EPL/TKA*RB PWEULT`

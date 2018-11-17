@@ -29,7 +29,7 @@
 * to `TO`
 * shoot `SHAOT`
 * him `HEUPL`
-* roe, `xxx roe KW-BG`
+* roe, `HRO*ER/RO*E KW-BG`
 * but `PWUT`
 * did `TK`
 * not `TPHOT`
