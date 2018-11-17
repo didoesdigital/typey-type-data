@@ -671,7 +671,7 @@
 * by, `PWEU KW-BG`
 * knew `TPHAOU`
 * whence, `WHEPBS KW-BG`
-* twittered `xxx twittered`
+* twittered `HRO*ER/TWEUT/*ER/-D`
 * chirped, `KHEURP/-D KW-BG`
 * singing `SEUPBG/-G`
 * "Spring `KR-GS KPA/SPREUPBG`
@@ -1253,7 +1253,7 @@
 * sunshine `SUPB/SHAO*EUPB`
 * warmer, `WARPL/*ER KW-BG`
 * melted, `PHELT/-D KW-BG`
-* twittered, `xxx twittered KW-BG`
+* twittered, `HRO*ER/TWEUT/*ER/-D KW-BG`
 * coming!" `KO*G SKHRAPL KR-GS`
 * stork, `STORBG KW-BG`
 * followed; `TPOLD STPH*FPLT`

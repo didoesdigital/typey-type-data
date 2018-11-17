@@ -88,7 +88,7 @@
 * from `TPR`
 * perch `PEFRPB`
 * sang `SAPBG`
-* twittered `xxx twittered`
+* twittered `HRO*ER/TWEUT/*ER/-D`
 * merrily. `PHER/HREU TP-PL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * it's `T-S`

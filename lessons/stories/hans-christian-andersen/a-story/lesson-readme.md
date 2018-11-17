@@ -53,7 +53,7 @@
 * there `THR`
 * was `WAS`
 * a `AEU`
-* twittering `xxx twittering`
+* twittering `HRO*ER/TWEUT/*ERG`
 * fluttering `TPHRUT/ERG`
 * of `-F`
 * little `HREUL`

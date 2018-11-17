@@ -249,7 +249,7 @@
 * rolling `ROLG`
 * pearls; `PERLS STPH*FPLT`
 * birds `PWEURDZ`
-* twittering `xxx twittering`
+* twittering `HRO*ER/TWEUT/*ERG`
 * chorus, `KHOERS KW-BG`
 * then `THEPB`
 * rising `RAOEUFG`

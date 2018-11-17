@@ -742,7 +742,7 @@
 * died `TKAOEUD`
 * sad `SAD`
 * birds; `PWEURDZ STPH*FPLT`
-* twittered `xxx twittered`
+* twittered `HRO*ER/TWEUT/*ER/-D`
 * beautifully. `PWAOUFL/HREU TP-PL`
 * aside `A/SAOEUD`
 * crooked `KRAOBGD`
@@ -769,7 +769,7 @@
 * man!" `PHAPB SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * use `AOUS`
-* twittering, `xxx twittering KW-BG`
+* twittering, `HRO*ER/TWEUT/*ERG KW-BG`
 * winter `WEURPBT`
 * comes `KOPLS`
 * either `AOERT`

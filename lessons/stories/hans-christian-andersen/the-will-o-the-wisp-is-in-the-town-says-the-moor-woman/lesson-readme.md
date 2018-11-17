@@ -399,7 +399,7 @@
 * almost `HR-PL`
 * angrily `APBL/REU/HREU`
 * spring, `SPREUPBG KW-BG`
-* twittering `xxx twittering`
+* twittering `HRO*ER/TWEUT/*ERG`
 * birds, `PWEURDZ KW-BG`
 * cheerful `KHAOER/-FL`
 * green; `TKPWRAOEPB STPH*FPLT`

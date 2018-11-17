@@ -116,7 +116,7 @@
 * towards `TORDZ`
 * grating, `TKPWRAEUGT KW-BG`
 * birds `PWEURDZ`
-* twitter `HRO*ER/TWEURT`
+* twitter `HRO*ER/TWEUT/*ER`
 * to `TO`
 * just `SKWRUFT`
 * as `AZ`
@@ -195,7 +195,7 @@
 * Still `KPA/STEUL`
 * shone `SHO*EPB`
 * heart, `HART KW-BG`
-* twittering `xxx twittering`
+* twittering `HRO*ER/TWEUT/*ERG`
 * touched `TUFPD`
 * it. `T TP-PL`
 * Sound `KPA/SOUPBD`

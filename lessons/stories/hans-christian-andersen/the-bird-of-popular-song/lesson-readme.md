@@ -358,7 +358,7 @@
 * tales, `TAELS KW-BG`
 * around `ARPBD`
 * them, `THEPL KW-BG`
-* twittering `xxx twittering`
+* twittering `HRO*ER/TWEUT/*ERG`
 * song, `SOPBG KW-BG`
 * dies `TKAOEUZ`
 * long `HROPBG`
@@ -446,7 +446,7 @@
 * heaven, `HEFPB KW-BG`
 * small `SPHAL`
 * great; `TKPWRAET STPH*FPLT`
-* twitter `HRO*ER/TWEURT`
+* twitter `HRO*ER/TWEUT/*ER`
 * sing `SEUPBG`
 * best `PWEFT`
 * may, `PHAE KW-BG`

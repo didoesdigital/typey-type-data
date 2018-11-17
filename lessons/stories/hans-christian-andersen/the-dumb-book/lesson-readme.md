@@ -225,7 +225,7 @@
 * arbour, `AR/PWOUR/A*U KW-BG`
 * turning `TURPBG`
 * flight, `TPHRAOEUT KW-BG`
-* twittered `xxx twittered`
+* twittered `HRO*ER/TWEUT/*ER/-D`
 * head. `HED TP-PL`
 * What `KPA/WHA`
 * strange `STRAEUPBG`

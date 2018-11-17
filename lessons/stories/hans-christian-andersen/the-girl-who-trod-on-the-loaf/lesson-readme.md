@@ -864,7 +864,7 @@
 * shone `SHO*EPB`
 * corn, `KORPB KW-BG`
 * number `TPHUPL`
-* twittering `xxx twittering`
+* twittering `HRO*ER/TWEUT/*ERG`
 * birds. `PWEURDZ TP-PL`
 * Then, `KPA/THEPB KW-BG`
 * hole `HOEL`
