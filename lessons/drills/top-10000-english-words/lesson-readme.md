@@ -6595,7 +6595,7 @@
 * electron `HREBG/TROPB`
 * loads `HRAODZ`
 * friendship `TPREP`
-* heather `H*ET/ER`
+* heather `H*ET/*ER`
 * passport `PAS/PORT`
 * motel `PHOE/TEL`
 * unions `AOUPB/KWROPBS`

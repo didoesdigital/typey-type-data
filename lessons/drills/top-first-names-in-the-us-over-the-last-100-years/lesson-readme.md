@@ -51,7 +51,7 @@
 * Emma `EPL/PHA`
 * Carolyn `KA*R/HREUPB`
 * Maria `PHA/REU/KWRA`
-* Heather `KPA/H*ET/ER`
+* Heather `KPA/H*ET/*ER`
 * Diane `TKAOEU/A*PB`
 * Julie `SKWRAOU/HRAOE`
 * Joyce `SKWROEUS`
