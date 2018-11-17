@@ -239,24 +239,25 @@
 * read `RAED`
 * reading `RAEGD`
 * it: `T STPH-FPLT`
-* PIPE-HEAD `KPA/PAOEUP H-PB KPA/HED`
-* AND `HRO*ER/AFPBD`
-* GOOD `KPA/TKPWAOD`
-* HEAD `KPA/HED`
+* THE `*URP/-T`
+* PIPE-HEAD `*URP/PAOEUP H-PB *URP/HED`
+* AND `*URP/SKP`
+* GOOD `*URP/TKPWAOD`
+* HEAD `*URP/HED`
 * A `KPA/AEU`
 * Family `KPA/TPAEPL`
 * Drama `KPA/TKRA/PHA`
 * Act `A*BGT`
-* CHARACTERS `KPA/KRARS`
-* MR. `HRO*ER/PH*P/R* TP-PL`
-* PIPE-HEAD, `KPA/PAOEUP H-PB KPA/HED KW-BG`
+* CHARACTERS `*URP/KRARS`
+* MR. `*URP/PH*P/R* TP-PL`
+* PIPE-HEAD, `*URP/PAOEUP H-PB *URP/HED KW-BG`
 * father. `TPAER TP-PL`
-* WAISTCOAT, `KPA/WA*EUS/KOET KW-BG`
-* Miss `KPA/PHEUS`
-* Glove, `KPA/TKPWHROF KW-BG`
+* WAISTCOAT, `*URP/WA*EUS/KOET KW-BG`
+* MISS `*URP/PHEUS`
+* GLOVE, `*URP/TKPWHROF KW-BG`
 * daughter. `TKAUR TP-PL`
-* DE `KPA/TK*E`
-* Boots, `KPA/PWAOTS KW-BG`
+* DE `*URP/TK*E`
+* BOOTS, `*URP/PWAOTS KW-BG`
 * suitor. `SAOU/TOR TP-PL`
 * "And `KR-GS AFPBD`
 * we're `WAOER`
@@ -377,6 +378,8 @@
 * way. `WAEU TP-PL`
 * Just `KPA/SKWRUFT`
 * look `HRAOBG`
+* Miss `KPA/PHEUS`
+* Glove, `KPA/TKPWHROF KW-BG`
 * she's `SHAOES`
 * pointing `POEUPBGT`
 * fingers! `TPEURPBGS SKHRAPL`
@@ -416,6 +419,7 @@
 * sworn `SWORPB`
 * it!' `T SKHRAPL AE`
 * "Mr. `KR-GS PH*P/R* TP-PL`
+* Boots, `KPA/PWAOTS KW-BG`
 * hearing `HAERG`
 * this, `TH KW-BG`
 * kicks `KEUBGS`

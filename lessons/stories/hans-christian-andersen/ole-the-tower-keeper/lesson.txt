@@ -424,8 +424,8 @@ Ole the Tower-Keeper
 'can': K
 'remember': REB
 'them.': THEPL TP-PL
-'FIRST': KPA/TPEURS
-'VISIT': KPA/SREUFT
+'FIRST': *URP/TPEURS
+'VISIT': *URP/SREUFT
 'Among': KPA/PHOPBG
 'the': -T
 'books': PWAOBGS
@@ -1870,8 +1870,8 @@ Ole the Tower-Keeper
 'grease,': TKPWRAES KW-BG
 'after': AF
 'all."': AUL TP-PL KR-GS
-'SECOND': HRO*ER/S*EBG/OPBD
-'VISIT': KPA/SREUFT
+'SECOND': *URP/SEBGD
+'VISIT': *URP/SREUFT
 'It': KPA/T
 'was': WAS
 'New': KPA/TPHU
@@ -2576,8 +2576,8 @@ Ole the Tower-Keeper
 'you': U
 'with': W
 'both!"': PWO*T SKHRAPL KR-GS
-'THIRD': KPA/THEURD
-'VISIT': KPA/SREUFT
+'THIRD': *URP/THEURD
+'VISIT': *URP/SREUFT
 'On': KPA/OPB
 'this': TH
 'occasion': KWAEUGS
@@ -3826,7 +3826,7 @@ Ole the Tower-Keeper
 'there': THR
 'was': WAS
 'Louis': HRAO*U/EUS
-'XI.': KPA/KPEU TP-PL
+'XI.': *URP/KPEU TP-PL
 'I': EU
 'have': SR
 'remembered': RERD
@@ -4054,7 +4054,7 @@ Ole the Tower-Keeper
 'them': THEPL
 'to': TO
 'Louis': HRAO*U/EUS
-'XI,': KPA/KPEU KW-BG
+'XI,': *URP/KPEU KW-BG
 'to': TO
 'carry': KAER
 'with': W

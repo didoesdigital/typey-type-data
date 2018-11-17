@@ -469,12 +469,12 @@
 * would, `WO KW-BG`
 * stuck `STUBG`
 * lived. `HREUFD TP-PL`
-* Little `KPA/HREUL`
-* RED-CAP `KPA/RED H-PB KA*P`
-* [LITTLE `PWR-BGT KPA/HREUL`
-* RED `KPA/RED`
-* RIDING `KPA/RAOEUD/-G`
-* HOOD] `KPA/HAOD PWR*BGT`
+* LITTLE `*URP/HREUL`
+* RED-CAP `*URP/RED H-PB KA*P`
+* [LITTLE `PWR-BGT *URP/HREUL`
+* RED `*URP/RED`
+* RIDING `*URP/RAOEUD/-G`
+* HOOD] `*URP/HAOD PWR*BGT`
 * everyone `EFRPB`
 * looked `HRAOBGD`
 * most `PHOFT`
@@ -493,6 +493,7 @@
 * Red-Cap.' `KPA/RED H-PB KPA/KAP TP-PL AE`
 * One `KPA/WUPB`
 * 'Come, `AE KPA/KOPL KW-BG`
+* Little `KPA/HREUL`
 * Red-Cap, `KPA/RED H-PB KPA/KAP KW-BG`
 * here `HAOER`
 * piece `PAOES`

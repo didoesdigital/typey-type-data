@@ -248,8 +248,8 @@
 * whenever `WHEFR`
 * remember `REB`
 * them. `THEPL TP-PL`
-* FIRST `KPA/TPEURS`
-* VISIT `KPA/SREUFT`
+* FIRST `*URP/TPEURS`
+* VISIT `*URP/SREUFT`
 * Among `KPA/PHOPBG`
 * lately `HRAEULT`
 * one `WUPB`
@@ -805,7 +805,7 @@
 * fate `TPAEUT`
 * grease, `TKPWRAES KW-BG`
 * all." `AUL TP-PL KR-GS`
-* SECOND `HRO*ER/S*EBG/OPBD`
+* SECOND `*URP/SEBGD`
 * went `WEPBT`
 * tower. `TOUR TP-PL`
 * toasts `TOEFTS`
@@ -1041,7 +1041,7 @@
 * tower-keeper `TOUR H-PB KAOEP/*ER`
 * lacquer `HRABG/ER`
 * both!" `PWO*T SKHRAPL KR-GS`
-* THIRD `KPA/THEURD`
+* THIRD `*URP/THEURD`
 * occasion `KWAEUGS`
 * "moving-day" `KR-GS PHOFG H-PB TKAEU KR-GS`
 * visit `SREUFT`
@@ -1375,7 +1375,7 @@
 * butterfly, `PW*URT/TPHRAOEU KW-BG`
 * Thus, `KPA/THUS KW-BG`
 * Louis `HRAO*U/EUS`
-* XI. `KPA/KPEU TP-PL`
+* XI. `*URP/KPEU TP-PL`
 * remembered `RERD`
 * remembers `RERS`
 * bad—a `PWAD EPL/TKA*RB AEU`
@@ -1434,7 +1434,7 @@
 * brought `PWRAUT`
 * silver `SEUL/SRER`
 * plate; `PHRAET STPH*FPLT`
-* XI, `KPA/KPEU KW-BG`
+* XI, `*URP/KPEU KW-BG`
 * immortality; `EUPL/POR/TALT STPH*FPLT`
 * fly `TPHRAOEU`
 * shine `SHAOEUPB`

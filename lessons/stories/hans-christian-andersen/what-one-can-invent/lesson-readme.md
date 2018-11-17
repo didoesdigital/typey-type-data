@@ -354,7 +354,7 @@
 * understood `*URPBD`
 * plant `PHRAPBT`
 * us. `US TP-PL`
-* ONE `KPA/WUPB`
+* One `KPA/WUPB`
 * dug `TKUG`
 * hole `HOEL`
 * threw `THRAOU`
@@ -393,7 +393,7 @@
 * have; `SR STPH*FPLT`
 * we, `WE KW-BG`
 * one." `WUPB TP-PL KR-GS`
-* WHAT `KPA/WHA`
+* What `KPA/WHA`
 * was! `WAS SKHRAPL`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * will `HR`
@@ -581,5 +581,7 @@
 * because `PWAU`
 * himself. `H*EUPLS TP-PL`
 * We `KPA/WE`
-* CAN `KPA/K`
-* INVENT. `KPA/EUPB/SREPT TP-PL`
+* WHAT `*URP/WHA`
+* ONE `*URP/WUPB`
+* CAN `*URP/K`
+* INVENT. `*URP/EUPB/SREPT TP-PL`

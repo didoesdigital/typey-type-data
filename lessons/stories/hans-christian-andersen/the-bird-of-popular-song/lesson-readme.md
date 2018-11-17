@@ -410,9 +410,9 @@
 * for `TPOR`
 * might, `PHAOEUT KW-BG`
 * lord—but `HRORD EPL/TKA*RB PWUT`
-* LORD `HRO*ER/HRO*RD`
-* OF `KPA/-F`
-* ALL. `KPA/AUL TP-PL`
+* LORD `*URP/HRORD`
+* OF `*URP/-F`
+* ALL. `*URP/AUL TP-PL`
 * It `KPA/T`
 * winter `WEURPBT`
 * time. `TAOEUPL TP-PL`

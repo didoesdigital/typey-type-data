@@ -1,15 +1,15 @@
 The Adventures of Chanticleer and Partlet
 
 '1.': #S TP-PL
-'HOW': KPA/HOU
-'THEY': KPA/THE
-'WENT': KPA/WEPBT
-'TO': KPA/TO
-'THE': KPA/-T
-'MOUNTAINS': KPA/PHOUPB/TAEUPBS
-'TO': KPA/TO
-'EAT': KPA/AOET
-'NUTS': KPA/TPHUTS
+'HOW': *URP/HOU
+'THEY': *URP/THE
+'WENT': *URP/WEPBT
+'TO': *URP/TO
+'THE': *URP/-T
+'MOUNTAINS': *URP/PHOUPB/TAEUPBS
+'TO': *URP/TO
+'EAT': *URP/AOET
+'NUTS': *URP/TPHUTS
 ''The': AE KPA/-T
 'nuts': TPHUTS
 'are': R
@@ -848,14 +848,14 @@ The Adventures of Chanticleer and Partlet
 'apish': xxx apish
 'tricks.': TREUBGS TP-PL
 '2.': #T- TP-PL
-'HOW': KPA/HOU
+'HOW': *URP/HOU
 'CHANTICLEER': xxx CHANTICLEER
-'AND': HRO*ER/AFPBD
+'AND': *URP/SKP
 'PARTLET': xxx PARTLET
-'WENT': KPA/WEPBT
-'TO': KPA/TO
-'VISIT': KPA/SREUFT
-'MR': HRO*ER/PH*P/R*
+'WENT': *URP/WEPBT
+'TO': *URP/TO
+'VISIT': *URP/SREUFT
+'MR': *URP/PH*P/R*
 'KORBES': xxx KORBES
 'Another': KPA/TPHOER
 'day,': TKAEU KW-BG
@@ -1212,18 +1212,18 @@ The Adventures of Chanticleer and Partlet
 'the': -T
 'spot.': SPOT TP-PL
 '3.': #P- TP-PL
-'HOW': KPA/HOU
+'HOW': *URP/HOU
 'PARTLET': xxx PARTLET
-'DIED': KPA/TKAOEUD
-'AND': HRO*ER/AFPBD
-'WAS': KPA/WAS
-'BURIED,': KPA/PWUR/EUD KW-BG
-'AND': HRO*ER/AFPBD
-'HOW': KPA/HOU
+'DIED': *URP/TKAOEUD
+'AND': *URP/SKP
+'WAS': *URP/WAS
+'BURIED,': *URP/PWUR/EUD KW-BG
+'AND': *URP/SKP
+'HOW': *URP/HOU
 'CHANTICLEER': xxx CHANTICLEER
-'DIED': KPA/TKAOEUD
-'OF': KPA/-F
-'GRIEF': KPA/TKPWRAOEF
+'DIED': *URP/TKAOEUD
+'OF': *URP/-F
+'GRIEF': *URP/TKPWRAOEF
 'Another': KPA/TPHOER
 'day': TKAEU
 'Chanticleer': xxx Chanticleer

@@ -1,7 +1,7 @@
 # The Wedding of Mrs Fox
 
-* FIRST `KPA/TPEURS`
-* STORY `KPA/STOER`
+* FIRST `*URP/TPEURS`
+* STORY `*URP/STOER`
 * There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
@@ -243,7 +243,7 @@
 * them `THEPL`
 * of `-F`
 * house. `HOUS TP-PL`
-* SECOND `HRO*ER/S*EBG/OPBD`
+* SECOND `*URP/SEBGD`
 * wolf `WOFL`
 * suitor, `SAOU/TOR KW-BG`
 * knocked `TPHOBGD`

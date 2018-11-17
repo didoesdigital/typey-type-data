@@ -1,14 +1,14 @@
 # The Adventures of Chanticleer and Partlet
 
 * 1. `#S TP-PL`
-* HOW `KPA/HOU`
-* THEY `KPA/THE`
-* WENT `KPA/WEPBT`
-* To `KPA/TO`
-* The `KPA/-T`
-* MOUNTAINS `KPA/PHOUPB/TAEUPBS`
-* EAT `KPA/AOET`
-* NUTS `KPA/TPHUTS`
+* HOW `*URP/HOU`
+* THEY `*URP/THE`
+* WENT `*URP/WEPBT`
+* TO `*URP/TO`
+* THE `*URP/-T`
+* MOUNTAINS `*URP/PHOUPB/TAEUPBS`
+* EAT `*URP/AOET`
+* NUTS `*URP/TPHUTS`
 * 'The `AE KPA/-T`
 * nuts `TPHUTS`
 * are `R`
@@ -408,10 +408,10 @@
 * tricks. `TREUBGS TP-PL`
 * 2. `#T- TP-PL`
 * CHANTICLEER `xxx CHANTICLEER`
-* AND `HRO*ER/AFPBD`
+* AND `*URP/SKP`
 * PARTLET `xxx PARTLET`
-* VISIT `KPA/SREUFT`
-* MR `HRO*ER/PH*P/R*`
+* VISIT `*URP/SREUFT`
+* MR `*URP/PH*P/R*`
 * KORBES `xxx KORBES`
 * Another `KPA/TPHOER`
 * wished `WEURBD`
@@ -439,6 +439,7 @@
 * A `KPA/AEU`
 * visit `SREUFT`
 * pay `PAEU`
+* To `KPA/TO`
 * Mr `PH*P/R*`
 * Korbes, `xxx Korbes KW-BG`
 * fox, `TPOBGS KW-BG`
@@ -514,11 +515,11 @@
 * killed `KEULD`
 * spot. `SPOT TP-PL`
 * 3. `#P- TP-PL`
-* DIED `KPA/TKAOEUD`
-* WAS `KPA/WAS`
-* BURIED, `KPA/PWUR/EUD KW-BG`
-* OF `KPA/-F`
-* GRIEF `KPA/TKPWRAOEF`
+* DIED `*URP/TKAOEUD`
+* WAS `*URP/WAS`
+* BURIED, `*URP/PWUR/EUD KW-BG`
+* OF `*URP/-F`
+* GRIEF `*URP/TKPWRAOEF`
 * day `TKAEU`
 * mountains `PHOUPB/TAEUPBS`
 * nuts; `TPHUTS STPH*FPLT`
@@ -550,6 +551,7 @@
 * mountain, `PHOUPB/TAEUPB KW-BG`
 * choked `KHOEBGD`
 * nut.' `TPHUT TP-PL AE`
+* The `KPA/-T`
 * river `REUFR`
 * 'Run `AE KPA/RUPB`
 * bride, `PWRAOEUD KW-BG`

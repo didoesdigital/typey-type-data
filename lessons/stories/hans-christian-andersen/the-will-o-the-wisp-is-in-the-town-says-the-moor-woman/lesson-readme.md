@@ -545,7 +545,7 @@
 * six-sided `SEUBGS H-PB SAOEUD/-D`
 * poultry-yard `POL/TREU H-PB KWRARD`
 * duck-yard. `TKUBG H-PB KWRARD TP-PL`
-* IN `KPA/TPH`
+* In `KPA/TPH`
 * middle `PH*EULD`
 * room `RAOPL`
 * woman `WOPL`
@@ -1063,8 +1063,10 @@
 * important' `PORPB AE`
 * thing `THEUPBG`
 * hear. `HAER TP-PL`
-* WILL-O'-THE-WISP'S `HRO*ER/W*EUL H-PB O*P AE H-PB KPA/-T H-PB KPA/W*EUFP AE S*P`
-* TOWN! `KPA/TOUPB SKHRAPL`
+* THE `*URP/-T`
+* WILL-O'-THE-WISP'S `*URP/HR H-PB O*P AE H-PB *URP/-T H-PB *URP/W*EUFP AE S*P`
+* IN `*URP/TPH`
+* TOWN! `*URP/TOUPB SKHRAPL`
 * That's `KPA/THA AES`
 * consequence `KWEPBS`
 * stories. `STOERS TP-PL`

@@ -179,7 +179,7 @@
 * been `PW-PB`
 * out. `OUT TP-PL`
 * PUGGIE `xxx PUGGIE`
-* DIED!! `KPA/TKAOEUD SKHRAPL SKHRAPL`
+* DIED!! `*URP/TKAOEUD SKHRAPL SKHRAPL`
 * That's `KPA/THA AES`
 * second `SEBGD`
 * part. `PART TP-PL`

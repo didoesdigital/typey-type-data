@@ -338,7 +338,7 @@ The Mail-Coach Passengers
 'My': KPA/PHEU
 'name': TPHAEUPL
 'is': S
-'JANUARY.': HRO*ER/SKWRAPB TP-PL
+'JANUARY.': *URP/SKWRAPB TP-PL
 'I'm': AOEUPL
 'a': AEU
 'merchant,': PHEFRPBT KW-BG
@@ -469,7 +469,7 @@ The Mail-Coach Passengers
 'the': -T
 'name': TPHAEUPL
 'of': -F
-'FEBRUARY."': HRO*ER/TPEB TP-PL KR-GS
+'FEBRUARY."': *URP/TPEB TP-PL KR-GS
 'The': KPA/-T
 'third': THEURD
 'now': TPHOU
@@ -529,7 +529,7 @@ The Mail-Coach Passengers
 'were': WR
 'very': SRE
 'small.': SPHAL TP-PL
-'"MARCH,': KR-GS HRO*ER/PHA*R KW-BG
+'"MARCH,': KR-GS *URP/PHA*R KW-BG
 'March,"': PHAFRPB KW-BG KR-GS
 'the': -T
 'fourth': TPO*URT
@@ -588,7 +588,7 @@ The Mail-Coach Passengers
 'to': TO
 'make': PHAEUBG
 'an': APB
-'APRIL': HRO*ER/PREUL
+'APRIL': *URP/PREUL
 'fool': TPAOL
 'of': -F
 'him;': HEUPL STPH*FPLT
@@ -717,7 +717,7 @@ The Mail-Coach Passengers
 'called': KAULD
 'herself': H*ERS
 'Miss': KPA/PHEUS
-'MAY.': HRO*ER/PHAE TP-PL
+'MAY.': *URP/PHAE TP-PL
 'She': KPA/SHE
 'wore': WOR
 'a': AEU
@@ -824,7 +824,7 @@ The Mail-Coach Passengers
 'It': KPA/T
 'was': WAS
 'Mistress': KPA/PHEUS/TRES
-'JUNE,': HRO*ER/SKWRUPB KW-BG
+'JUNE,': *URP/SKWRUPB KW-BG
 'in': TPH
 'whose': WHOZ
 'service': S-FS
@@ -901,7 +901,7 @@ The Mail-Coach Passengers
 'her': HER
 'younger': KWRURPBG
 'brother,': PWROER KW-BG
-'JULY,': HRO*ER/SKWRUL KW-BG
+'JULY,': *URP/SKWRUL KW-BG
 'was': WAS
 'with': W
 'her.': HER TP-PL
@@ -956,7 +956,7 @@ The Mail-Coach Passengers
 'in': TPH
 'crinoline,': KREUPB/HREUPB KW-BG
 'Madame': PHA*/TKAPL
-'AUGUST,': HRO*ER/AUG KW-BG
+'AUGUST,': *URP/A*UG KW-BG
 'a': AEU
 'wholesale': WHOEL/SAEL
 'dealer': TKAOERL
@@ -1059,7 +1059,7 @@ The Mail-Coach Passengers
 'and': SKP
 'is': S
 'named': TPHAEUPLD
-'SEPTEMBER.': HRO*ER/SEPT TP-PL
+'SEPTEMBER.': *URP/SEPT TP-PL
 'The': KPA/-T
 'forest,': TPOEFRT KW-BG
 'on': OPB
@@ -1175,7 +1175,7 @@ The Mail-Coach Passengers
 'field': TPAOELD
 'sports.': SPORTS TP-PL
 'Squire': KPA/SKWAOEUR
-'OCTOBER': HRO*ER/OBGT
+'OCTOBER': *URP/OBGT
 'brought': PWRAUT
 'his': HEUS
 'dog': TKOG
@@ -1226,7 +1226,7 @@ The Mail-Coach Passengers
 'neighbor.': TPHAEUB TP-PL
 'It': KPA/T
 'was': WAS
-'NOVEMBER,': HRO*ER/TPHOF KW-BG
+'NOVEMBER,': *URP/TPHOF KW-BG
 'who': WHO
 'coughed': KOFD
 'violently': SRAOEUL/HREPBT/HREU
@@ -1336,7 +1336,7 @@ The Mail-Coach Passengers
 'her': HER
 'appearance,—old': PAOERPBS KW-BG EPL/TKA*RB OLD
 'Mother': KPA/PHOER
-'DECEMBER,': HRO*ER/TKAOES KW-BG
+'DECEMBER,': *URP/TKAOES KW-BG
 'with': W
 'her': HER
 'fire-stool.': TPAOEUR H-PB STOL TP-PL
@@ -1569,7 +1569,7 @@ The Mail-Coach Passengers
 'his': HEUS
 'passport.': PAS/PORT TP-PL
 'Mr.': PHR-FPLT
-'JANUARY,': HRO*ER/SKWRAPB KW-BG
+'JANUARY,': *URP/SKWRAPB KW-BG
 'have': SR
 'the': -T
 'goodness': TKPWAOD/-PBS

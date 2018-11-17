@@ -1400,7 +1400,7 @@
 * parable `PAEURBL`
 * intrusted `xxx intrusted`
 * talent! `THREPBT SKHRAPL`
-* MASTER, `KPA/PHAFRT KW-BG`
+* MASTER, `*URP/PHAFRT KW-BG`
 * parable, `PAEURBL KW-BG`
 * truth! `TRAO*UT SKHRAPL`
 * gained? `TKPWAEUPBD H-F`

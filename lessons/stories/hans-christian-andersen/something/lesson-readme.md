@@ -1020,5 +1020,5 @@
 * better," `PWOERT KW-BG KR-GS`
 * critic; `KREUT/EUBG STPH*FPLT`
 * aloud, `A/HROUD KW-BG`
-* SOMETHING, `KPA/S-G KW-BG`
+* SOMETHING, `*URP/S-G KW-BG`
 * all. `AUL TP-PL`

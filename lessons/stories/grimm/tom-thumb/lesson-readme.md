@@ -876,4 +876,4 @@
 * agreed `TKPWRAED`
 * all, `AUL KW-BG`
 * there's `THR-S`
-* HOME! `KPA/HOEPL SKHRAPL`
+* HOME! `*URP/HOEPL SKHRAPL`
