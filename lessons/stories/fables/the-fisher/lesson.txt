@@ -35,7 +35,7 @@ The Fisher
 'of': -F
 'the': -T
 'water.': WAUR TP-PL
-'So': SO
+'So': KPA/SO
 'he': HE
 'cast': KAFT
 'his': HEUS
@@ -51,7 +51,7 @@ The Fisher
 'filled': TPEULD
 'with': W
 'fish.': TPEURB TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
 'his': HEUS
@@ -68,7 +68,7 @@ The Fisher
 'in': TPH
 'the': -T
 'net.': TPHET TP-PL
-'"Ah,': KR-GS HA*E KW-BG
+'"Ah,': KR-GS KPA/HA*E KW-BG
 'you': U
 'dance': TKAPBS
 'now': TPHOU
@@ -77,12 +77,12 @@ The Fisher
 'play,"': PHRAEU KW-BG KR-GS
 'said': SAEUD
 'he.': HE TP-PL
-'"Yes,"': KR-GS KWRE KW-BG KR-GS
+'"Yes,"': KR-GS KPA/KWRE KW-BG KR-GS
 'said': SAEUD
 'an': APB
 'old': OLD
-'Fish:': TPEURB STPH-FPLT
-'"When': KR-GS WHEPB
+'Fish:': KPA/TPEURB STPH-FPLT
+'"When': KR-GS KPA/WHEPB
 'you': U
 'are': R
 'in': TPH

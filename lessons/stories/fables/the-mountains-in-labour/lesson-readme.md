@@ -1,12 +1,12 @@
 # The Mountains in Labour
 
-* one `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
 * the `-T`
-* Countrymen `KUPB/TREU/PHEPB`
+* Countrymen `KPA/KUPB/TREU/PHEPB`
 * noticed `TPH-TSD`
 * that `THA`
-* Mountains `PHOUPB/TAEUPBS`
+* Mountains `KPA/PHOUPB/TAEUPBS`
 * were `WR`
 * in `TPH`
 * labour; `HRAEU/PWOUR STPH*FPLT`
@@ -27,7 +27,7 @@
 * huge `HAOUPBLG`
 * rocks `ROBGS`
 * tumbling. `TUPL/-BLG TP-PL`
-* they `THE`
+* They `KPA/THE`
 * felt `TPELT`
 * sure `SHUR`
 * something `S-G`
@@ -38,6 +38,7 @@
 * all `AUL`
 * gathered `TKPWAERD`
 * together `TOGT`
+* one `WUPB`
 * place `PHRAEUS`
 * see `SAOE`
 * what `WHA`
@@ -47,10 +48,12 @@
 * could `KO`
 * be. `-B TP-PL`
 * waited `WAEUTD`
+* they `THE`
 * waited, `WAEUTD KW-BG`
 * but `PWUT`
 * nothing `TPHOG`
 * came. `KAEUPL TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * there `THR`
 * a `AEU`
@@ -61,7 +64,7 @@
 * gap `TKPWAP`
 * appeared `A/PAOERD`
 * side `SAOEUD`
-* Mountains. `PHOUPB/TAEUPBS TP-PL`
+* Mountains. `KPA/PHOUPB/TAEUPBS TP-PL`
 * fell `TPEL`
 * down `TKOUPB`
 * upon `POPB`
@@ -83,6 +86,6 @@
 * after `AF`
 * used `AOUFD`
 * say: `SAEU STPH-FPLT`
-* "Much `KR-GS PHUFP`
+* "Much `KR-GS KPA/PHUFP`
 * outcry, `AOUT/KRAOEU KW-BG`
 * outcome." `KWUPL TP-PL KR-GS`

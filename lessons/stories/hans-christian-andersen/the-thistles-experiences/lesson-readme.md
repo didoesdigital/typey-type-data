@@ -1,6 +1,6 @@
 # The Thistle's Experiences
 
-* Belonging `PWAOE/HROPBG/-G`
+* Belonging `KPA/PWAOE/HROPBG/-G`
 * to `TO`
 * the `-T`
 * lordly `HRORD/HREU`
@@ -41,7 +41,7 @@
 * pay `PAEU`
 * visits `SREUFTS`
 * it. `T TP-PL`
-* outside `OUDZ`
+* Outside `KPA/OUDZ`
 * by `PWEU`
 * palings `xxx palings`
 * at `AT`
@@ -50,7 +50,7 @@
 * a `AEU`
 * great `TKPWRAET`
 * mighty `PHAOEUT/KWREU`
-* Thistle, `THEUFL KW-BG`
+* Thistle, `KPA/THEUFL KW-BG`
 * which `WEU`
 * spread `SPRED`
 * out `OUT`
@@ -59,30 +59,30 @@
 * directions `TKREBGS/-S`
 * root, `RAOT KW-BG`
 * so `SO`
-* That `THA`
+* that `THA`
 * it `T`
 * might `PHAOEUT`
 * have `SR`
 * been `PW-PB`
 * called `KAULD`
-* Thistle `THEUFL`
-* Bush. `PWURB TP-PL`
-* nobody `TPHOEB`
+* thistle `THEUFL`
+* bush. `PWURB TP-PL`
+* Nobody `KPA/TPHOEB`
 * looked `HRAOBGD`
 * it, `T KW-BG`
 * except `KPEPT`
 * old `OLD`
-* Ass `A*S`
+* Ass `KPA/A*S`
 * drew `TKRAOU`
 * milk-maid's `PHEULG H-PB PHAEUD AES`
 * cart. `KART TP-PL`
-* this `TH`
+* This `KPA/TH`
 * stretch `STREFP`
 * his `HEUS`
 * neck `TPHEBG`
 * towards `TORDZ`
 * say, `SAEU KW-BG`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * are `R`
 * beautiful; `PWAOUFL STPH*FPLT`
 * I `EU`
@@ -90,7 +90,7 @@
 * like `HRAOEUBG`
 * eat `AOET`
 * you!" `U SKHRAPL KR-GS`
-* But `PWUT`
+* But `KPA/PWUT`
 * halter `HAL/TER`
 * not `TPHOT`
 * long `HROPBG`
@@ -98,7 +98,7 @@
 * let `HRET`
 * him `HEUPL`
 * reach `RAOEFP`
-* There `THR`
+* There `KPA/THR`
 * company `K-P`
 * manor-house—some `PHA/TPHOR H-PB HOUS EPL/TKA*RB SOPL`
 * very `SRE`
@@ -112,7 +112,7 @@
 * lady `HRA*ED`
 * who `WHO`
 * distance. `STKAPBS TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * had `H`
 * come `KOPL`
 * Scotland, `SKOT/HRAPBD KW-BG`
@@ -132,6 +132,7 @@
 * mothers `PHOERS`
 * same `SAEUPL`
 * thing. `THEUPBG TP-PL`
+* The `KPA/-T`
 * amused `A/PHAOUS/-D`
 * themselves `TH*EPLS`
 * lawn, `HRAUPB KW-BG`
@@ -140,7 +141,7 @@
 * they `THE`
 * wandered `WAPBD/-D`
 * flowers, `TPHRO*URS KW-BG`
-* Each `AOEFP`
+* each `AOEFP`
 * girls `TKPWEURLS`
 * broke `PWROEBG`
 * off `OF`
@@ -148,20 +149,20 @@
 * fastened `TPAS/-PBD`
 * gentleman's `SKWRA*PL/AES`
 * buttonhole. `PW*UPBT/HOEL TP-PL`
-* Scotch `SKOFP`
+* Scotch `SKO*FP`
 * round, `ROUPBD KW-BG`
 * for `TPOR`
 * time, `TAOEUPL KW-BG`
 * an `APB`
 * undecided `UPB/STKAOEUD/-D`
 * way. `WAEU TP-PL`
-* None `TPHOPB`
+* None `KPA/TPHOPB`
 * flowers `TPHRO*URS`
 * seemed `SAOEPLD`
 * suit `SAOUT`
 * her `HER`
 * taste. `TAEUFT TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * eye `AOEU`
 * glanced `TKPWHRAPBS/-D`
 * across `A/KROS`
@@ -169,6 +170,7 @@
 * bush, `PWURB KW-BG`
 * reddish-blue, `RED/EURB H-PB PWHRU KW-BG`
 * sturdy `STUR/TKEU`
+* she `SHE`
 * saw `SAU`
 * them, `THEPL KW-BG`
 * smiled, `SPHAOEULD KW-BG`
@@ -176,7 +178,7 @@
 * house `HOUS`
 * pluck `PHRUBG`
 * her. `HER TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * is `S`
 * flower `TPHRO*UR`
 * Scotland," `SKOT/HRAPBD KW-BG KR-GS`
@@ -185,11 +187,12 @@
 * scutcheon `xxx scutcheon`
 * my `PHEU`
 * country. `KREU TP-PL`
-* Give `TKPWEUF`
+* Give `KPA/TKPWEUF`
 * me `PHE`
 * yonder `KWROPBD/ER`
 * flower." `TPHRO*UR TP-PL KR-GS`
-* He `HE`
+* And `AFPBD`
+* he `HE`
 * brought `PWRAUT`
 * fairest `TPAEUR/EFT`
 * blossom, `PWHROFPL KW-BG`
@@ -200,7 +203,7 @@
 * if `TP`
 * grown `TKPWROEPB`
 * sharpest `SHARP/EFT`
-* rose `ROEZ`
+* rose `ROES`
 * placed `PHRAEUFD`
 * thistle-flower `THEUFL H-PB TPHRO*UR`
 * buttonhole `PW*UPBT/HOEL`
@@ -209,6 +212,7 @@
 * himself `H*EUPLS`
 * highly `HAOEUL`
 * honored. `HOPB/ORD TP-PL`
+* Each `KPA/AOEFP`
 * other `OER`
 * gentlemen `SKWR*EPL`
 * would `WO`
@@ -217,6 +221,7 @@
 * own `OEPB`
 * beautiful `PWAOUFL`
 * worn `WORPB`
+* this `TH`
 * one, `WUPB KW-BG`
 * presented `PREPBTD`
 * fair `TPAEUR`
@@ -227,7 +232,9 @@
 * what `WHA`
 * were `WR`
 * feelings `TPAOELGS`
+* Thistle `KPA/THEUFL`
 * bush? `PWURB H-F`
+* It `KPA/T`
 * dew `TKAO*U`
 * sunshine `SUPB/SHAO*EUPB`
 * streaming `STRAOEPL/-G`
@@ -246,9 +253,11 @@
 * inside `TPH-DZ`
 * palings, `xxx palings KW-BG`
 * outside. `OUDZ TP-PL`
+* One `KPA/WUPB`
 * often `OFPB`
 * strangely `STRAEUPBG/HREU`
 * world; `WORLD STPH*FPLT`
+* but `PWUT`
 * now `TPHOU`
 * least `HRAOEFT`
 * managed `PHAPBGD`
@@ -269,7 +278,7 @@
 * before `PW-F`
 * heard, `HAERD KW-BG`
 * men, `PHEPB KW-BG`
-* twittering `TWEURT/-G`
+* twittering `xxx twittering`
 * birds, `PWEURDZ KW-BG`
 * air `AEUR`
 * stores `STORS`
@@ -292,16 +301,18 @@
 * also `HR-S`
 * heart `HART`
 * question. `KWE TP-PL`
+* They `KPA/THE`
 * handsome `HAPBD/SOPL`
 * pair—it `PAEUR EPL/TKA*RB T`
 * good `TKPWAOD`
 * match. `PHAFP TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * match `PHAFP`
 * made `PHAED`
 * up!" `UP SKHRAPL KR-GS`
-* Thistle; `THEUFL STPH*FPLT`
+* Thistle; `KPA/THEUFL STPH*FPLT`
 * thought `THAUT`
+* Every `KPA/EF`
 * opened `OEPD`
 * heard `HAERD`
 * occurrence. `KAOURPBS TP-PL`
@@ -316,6 +327,7 @@
 * pot, `POT KW-BG`
 * crowds `KROUDZ`
 * in. `TPH TP-PL`
+* That `KPA/THA`
 * greatest `TKPWRAET/EFT`
 * all `AUL`
 * honors." `HO*RPBS TP-PL KR-GS`
@@ -353,13 +365,13 @@
 * dowry `TKOU/REU`
 * took `TAOBG`
 * left `HREFT`
-* Where `W-R`
+* where `W-R`
 * was. `WAS TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * thievish `xxx thievish`
 * rabble!" `RABL SKHRAPL KR-GS`
-* Thistle. `THEUFL TP-PL`
-* "If `KR-GS TP`
+* Thistle. `KPA/THEUFL TP-PL`
+* "If `KR-GS KPA/TP`
 * only `OEPBL`
 * stab `STAB`
 * them! `THEPL SKHRAPL`
@@ -407,16 +419,17 @@
 * see, `SAOE KW-BG`
 * has `HAS`
 * thought. `THAUT TP-PL`
-* "One `KR-GS WUPB`
+* "One `KR-GS KPA/WUPB`
 * grand `TKPWRAPBD`
 * family, `TPAEPL KW-BG`
 * may `PHAE`
 * know `TPHOE`
 * it," `T KW-BG KR-GS`
-* Nettle, `TPHET/*L KW-BG`
+* Nettle, `KPA/TPHET/*L KW-BG`
 * grew `TKPWRAOU`
 * close `KHROES`
 * by. `PWEU TP-PL`
+* He `KPA/HE`
 * kind `KEUPBD`
 * idea `KWR-D`
 * cambric `KAPL/PWREUBG`
@@ -436,7 +449,7 @@
 * boy `PWOEU`
 * sang `SAPBG`
 * palings: `xxx palings STPH-FPLT`
-* "Up `KR-GS UP`
+* "Up `KR-GS KPA/UP`
 * hill, `HEUL KW-BG`
 * down `TKOUPB`
 * dale `TKAEL`
@@ -451,9 +464,10 @@
 * Christmas, `KREUS/PHAS KW-BG`
 * Christmas `KREUS/PHAS`
 * yet. `KWRET TP-PL`
-* "Here `KR-GS HAOER`
+* "Here `KR-GS KPA/HAOER`
 * standing `STAPBG`
 * yet!" `KWRET SKHRAPL KR-GS`
+* nobody `TPHOEB`
 * me, `PHE KW-BG`
 * yet `KWRET`
 * betrothed, `PWE/TRO*T/-D KW-BG`
@@ -466,6 +480,7 @@
 * step-because `STEP H-PB PWAU`
 * can't." `K AE T* TP-PL KR-GS`
 * weeks `WAOEBGS`
+* there `THR`
 * large `HRARPBLG`
 * full. `TPUL TP-PL`
 * shot `SHOT`
@@ -487,12 +502,12 @@
 * along `A/HROPBG`
 * paling, `PAL/-G KW-BG`
 * wife `WAOEUF`
-* "There's `KR-GS THR AES`
+* "There's `KR-GS KPA/THR AES`
 * still `STEUL`
 * growing," `TKPWROEG KW-BG KR-GS`
 * no `TPHO`
 * now." `TPHOU TP-PL KR-GS`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * yes, `KWRE KW-BG`
 * ghost `TKPWOEFT`
 * still," `STEUL KW-BG KR-GS`
@@ -503,7 +518,7 @@
 * themselves. `TH*EPLS TP-PL`
 * pretty, `PREUT KW-BG`
 * certainly," `SERPBL KW-BG KR-GS`
-* "Such `KR-GS SUFP`
+* "Such `KR-GS KPA/SUFP`
 * must `PHUFT`
 * carved `KAFRBD`
 * frame `TPRAEUPL`
@@ -513,12 +528,14 @@
 * again, `TKPWEPB KW-BG`
 * break `PWRAEBG`
 * calyx `KAEULGS`
+* thistle. `THEUFL TP-PL`
 * fingers, `TPEURPBGS KW-BG`
+* then `THEPB`
 * ghost. `TKPWOEFT TP-PL`
 * thistle-calyx `THEUFL H-PB KAEULGS`
 * drawing-room. `TKRAUG H-PB RAOPL TP-PL`
-* picture—"Young `P*EUFP EPL/TKA*RB KR-GS KWRUPBG`
-* Couple." `KUPL TP-PL KR-GS`
+* picture—"Young `P*EUFP EPL/TKA*RB KR-GS KWR*UPBG`
+* Couple." `KPA/KUPL TP-PL KR-GS`
 * painted `PAEUPBTD`
 * bridegroom. `PWRAOEUD/TKPWRAOPL TP-PL`
 * spoke `SPOEBG`
@@ -535,15 +552,17 @@
 * spoken `SPOEPB`
 * away, `A/WAEU KW-BG`
 * away. `A/WAEU TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * can `K`
 * experience!" `SPAOERPBS SKHRAPL KR-GS`
-* "My `KR-GS PHEU`
+* Bush. `PW*URB TP-PL`
+* "My `KR-GS KPA/PHEU`
 * first `TPEUFRT`
 * born `PWORPB`
 * youngest `KWRUPBG/EFT`
+* Where `KPA/W-R`
 * go?" `TKPW H-F KR-GS`
-* "Come `KR-GS KOPL`
+* "Come `KR-GS KPA/KOPL`
 * nibble `TPHEUBL`
 * darling!" `TKARLG SKHRAPL KR-GS`
 * can't `K-PBT`
@@ -559,14 +578,15 @@
 * good, `TKPWAOD KW-BG`
 * do `TKO`
 * mind `PHAOEUPBD`
+* outside `OUDZ`
 * garden `TKPWA*RPB`
 * pale." `PAEL TP-PL KR-GS`
 * "That's `KW-GS/KPA*/THATS`
 * honorable `HOPB/RABL`
 * thought," `THAUT KW-BG KR-GS`
-* Sunbeam. `SUPB/PWAOEPL TP-PL`
+* Sunbeam. `KPA/SUPB/PWAOEPL TP-PL`
 * place." `PHRAEUS TP-PL KR-GS`
-* "In `KR-GS TPH`
+* "In `KR-GS KPA/TPH`
 * pot `POT`
 * or `OR`
 * frame?" `TPRAEUPL H-F KR-GS`

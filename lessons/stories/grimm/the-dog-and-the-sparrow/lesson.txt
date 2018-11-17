@@ -20,7 +20,7 @@ The Dog and the Sparrow
 'the': -T
 'greatest': TKPWRAET/EFT
 'hunger.': HURPBG TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'he': HE
 'could': KO
@@ -45,7 +45,7 @@ The Dog and the Sparrow
 'and': SKP
 'sorrowful': SOR/ROEFL
 'mood.': PHAOD TP-PL
-'On': OPB
+'On': KPA/OPB
 'the': -T
 'road': RAOD
 'he': HE
@@ -56,14 +56,14 @@ The Dog and the Sparrow
 'said': SAEUD
 'to': TO
 'him,': HEUPL KW-BG
-''Why': AE KWR
+''Why': AE KPA/KWR
 'are': R
 'you': U
 'so': SO
 'sad,': SAD KW-BG
 'my': PHEU
 'friend?'': TPREPBD H-F AE
-''Because,'': AE PWAU KW-BG AE
+''Because,'': AE KPA/PWAU KW-BG AE
 'said': SAEUD
 'the': -T
 'dog,': TKOG KW-BG
@@ -77,7 +77,7 @@ The Dog and the Sparrow
 'nothing': TPHOG
 'to': TO
 'eat.'': AOET TP-PL AE
-''If': AE TP
+''If': AE KPA/TP
 'that': THA
 'be': -B
 'all,'': AUL KW-BG AE
@@ -100,7 +100,7 @@ The Dog and the Sparrow
 'plenty': PHREPBT
 'of': -F
 'food.'': TPAOD TP-PL AE
-'So': SO
+'So': KPA/SO
 'on': OPB
 'they': THE
 'went': WEPBT
@@ -122,7 +122,7 @@ The Dog and the Sparrow
 'to': TO
 'the': -T
 'dog,': TKOG KW-BG
-''Stand': AE STAPBD
+''Stand': AE KPA/STAPBD
 'there': THR
 'a': AEU
 'little': HREUL
@@ -136,7 +136,7 @@ The Dog and the Sparrow
 'piece': PAOES
 'of': -F
 'meat.'': PHAET TP-PL AE
-'So': SO
+'So': KPA/SO
 'the': -T
 'sparrow': SPAEUR/ROE
 'perched': PER/-FPD
@@ -178,7 +178,7 @@ The Dog and the Sparrow
 'down': TKOUPB
 'it': T
 'fell.': TPEL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'dog': TKOG
 'snapped': STPHAPD
@@ -199,7 +199,7 @@ The Dog and the Sparrow
 'it': T
 'all': AUL
 'up.': UP TP-PL
-''Well,'': AE WEL KW-BG AE
+''Well,'': AE KPA/WEL KW-BG AE
 'said': SAEUD
 'the': -T
 'sparrow,': SPAEUR/ROE KW-BG
@@ -227,7 +227,7 @@ The Dog and the Sparrow
 'down': TKOUPB
 'another': TPHOER
 'steak.'': STAEBG TP-PL AE
-'When': WHEPB
+'When': KPA/WHEPB
 'the': -T
 'dog': TKOG
 'had': H
@@ -239,7 +239,7 @@ The Dog and the Sparrow
 'said': SAEUD
 'to': TO
 'him,': HEUPL KW-BG
-''Well,': AE WEL KW-BG
+''Well,': AE KPA/WEL KW-BG
 'my': PHEU
 'good': TKPWAOD
 'friend,': TPREPBD KW-BG
@@ -270,7 +270,7 @@ The Dog and the Sparrow
 'eat': AOET
 'after': AF
 'it.'': T TP-PL AE
-''Come': AE KOPL
+''Come': AE KPA/KOPL
 'with': W
 'me': PHE
 'then,'': THEPB KW-BG AE
@@ -284,7 +284,7 @@ The Dog and the Sparrow
 'have': SR
 'that': THA
 'too.'': TAO TP-PL AE
-'So': SO
+'So': KPA/SO
 'she': SHE
 'took': TAOBG
 'him': HEUPL
@@ -327,7 +327,7 @@ The Dog and the Sparrow
 'more': PHOR
 'for': TPOR
 'him.': HEUPL TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'that': THA
 'was': WAS
 'eaten,': AOET/EPB KW-BG
@@ -341,7 +341,7 @@ The Dog and the Sparrow
 'had': H
 'enough': TPHUF
 'now.': TPHOU TP-PL
-''Yes,'': AE KWRE KW-BG AE
+''Yes,'': AE KPA/KWRE KW-BG AE
 'said': SAEUD
 'he;': HE STPH*FPLT
 ''and': AE SKP
@@ -358,7 +358,7 @@ The Dog and the Sparrow
 'of': -F
 'the': -T
 'town.'': TOUPB TP-PL AE
-'So': SO
+'So': KPA/SO
 'they': THE
 'both': PWO*T
 'went': WEPBT
@@ -393,7 +393,7 @@ The Dog and the Sparrow
 'take': TAEUBG
 'a': AEU
 'nap.'': TPHAP TP-PL AE
-''Very': AE SRE
+''Very': AE KPA/SRE
 'well,'': WEL KW-BG AE
 'answered': AEPBS/-D
 'the': -T
@@ -410,7 +410,7 @@ The Dog and the Sparrow
 'upon': POPB
 'that': THA
 'bush.'': PWURB TP-PL AE
-'So': SO
+'So': KPA/SO
 'the': -T
 'dog': TKOG
 'stretched': STREFPD
@@ -423,7 +423,7 @@ The Dog and the Sparrow
 'fell': TPEL
 'fast': TPAFT
 'asleep.': A/HRAOEP TP-PL
-'Whilst': WHAOEULS
+'Whilst': KPA/WHAOEULS
 'he': HE
 'slept,': SHREPD KW-BG
 'there': THR
@@ -445,7 +445,7 @@ The Dog and the Sparrow
 'casks': KAS/-BGS
 'of': -F
 'wine.': WAOEUPB TP-PL
-'The': -T
+'The': KPA/-T
 'sparrow,': SPAEUR/ROE KW-BG
 'seeing': SAOEG
 'that': THA
@@ -478,7 +478,7 @@ The Dog and the Sparrow
 'him,': HEUPL KW-BG
 'called': KAULD
 'out,': OUT KW-BG
-''Stop!': AE STOP SKHRAPL
+''Stop!': AE KPA/STOP SKHRAPL
 'stop!': STOP SKHRAPL
 'Mr': PH*P/R*
 'Carter,': KA*RT/ER KW-BG
@@ -490,13 +490,13 @@ The Dog and the Sparrow
 'worse': WORS
 'for': TPOR
 'you.'': U TP-PL AE
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'carter,': KA*RT/ER KW-BG
 'grumbling': TKPWRUPL/-BLG
 'to': TO
 'himself,': H*EUPLS KW-BG
-''You': AE U
+''You': AE KPA/U
 'make': PHAEUBG
 'it': T
 'the': -T
@@ -527,7 +527,7 @@ The Dog and the Sparrow
 'him': HEUPL
 'to': TO
 'death.': TK*T TP-PL
-''There,'': AE THR KW-BG AE
+''There,'': AE KPA/THR KW-BG AE
 'cried': KRAOEUD
 'the': -T
 'sparrow,': SPAEUR/ROE KW-BG
@@ -541,12 +541,12 @@ The Dog and the Sparrow
 'friend': TPREPBD
 'the': -T
 'dog.': TKOG TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'mind': PHAOEUPBD
 'what': WHA
 'I': EU
 'say.': SAEU TP-PL
-'This': TH
+'This': KPA/TH
 'deed': TKAOED
 'of': -F
 'thine': THAOEUPB
@@ -557,7 +557,7 @@ The Dog and the Sparrow
 'thou': THO*U
 'art': ART
 'worth.'': WO*RT TP-PL AE
-''Do': AE TKO
+''Do': AE KPA/TKO
 'your': KWROUR
 'worst,': WOFRT KW-BG
 'and': SKP
@@ -574,7 +574,7 @@ The Dog and the Sparrow
 'and': SKP
 'passed': PAFD
 'on.': OPB TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'sparrow': SPAEUR/ROE
 'crept': KREPT
@@ -610,7 +610,7 @@ The Dog and the Sparrow
 'carter': KA*RT/ER
 'seeing': SAOEG
 'it.': T TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'he': HE
 'looked': HRAOBGD
@@ -627,7 +627,7 @@ The Dog and the Sparrow
 'cask': KAFBG
 'quite': KWAOEUT
 'empty.': EPLT TP-PL
-''What': AE WHA
+''What': AE KPA/WHA
 'an': APB
 'unlucky': UPB/HRUBG/KWREU
 'wretch': WREFP
@@ -635,7 +635,7 @@ The Dog and the Sparrow
 'am!'': APL SKHRAPL AE
 'cried': KRAOEUD
 'he.': HE TP-PL
-''Not': AE TPHOT
+''Not': AE KPA/TPHOT
 'wretch': WREFP
 'enough': TPHUF
 'yet!'': KWRET SKHRAPL AE
@@ -663,7 +663,7 @@ The Dog and the Sparrow
 'up': UP
 'and': SKP
 'kicked.': KEUBGD TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'the': -T
 'carter': KA*RT/ER
 'saw': SAU
@@ -705,21 +705,21 @@ The Dog and the Sparrow
 'fell': TPEL
 'down': TKOUPB
 'dead.': TKED TP-PL
-''Unlucky': AE UPB/HRUBG/KWREU
+''Unlucky': AE KPA/UPB/HRUBG/KWREU
 'wretch': WREFP
 'that': THA
 'I': EU
 'am!'': APL SKHRAPL AE
 'cried': KRAOEUD
 'he.': HE TP-PL
-''Not': AE TPHOT
+''Not': AE KPA/TPHOT
 'wretch': WREFP
 'enough': TPHUF
 'yet!'': KWRET SKHRAPL AE
 'said': SAEUD
 'the': -T
 'sparrow.': SPAEUR/ROE TP-PL
-'And': SKP
+'And': AFPBD
 'as': AZ
 'the': -T
 'carter': KA*RT/ER
@@ -755,7 +755,7 @@ The Dog and the Sparrow
 'wine': WAOEUPB
 'ran': RAPB
 'out.': OUT TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'the': -T
 'carter': KA*RT/ER
 'saw': SAU
@@ -764,16 +764,16 @@ The Dog and the Sparrow
 'again': TKPWEPB
 'cried': KRAOEUD
 'out,': OUT KW-BG
-''Miserable': AE PHEUZ/-BL
+''Miserable': AE KPA/PHEUZ/-BL
 'wretch': WREFP
 'that': THA
 'I': EU
 'am!'': APL SKHRAPL AE
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'sparrow': SPAEUR/ROE
 'answered,': AEPBS/-D KW-BG
-''Not': AE TPHOT
+''Not': AE KPA/TPHOT
 'wretch': WREFP
 'enough': TPHUF
 'yet!'': KWRET SKHRAPL AE
@@ -791,7 +791,7 @@ The Dog and the Sparrow
 'at': AT
 'him': HEUPL
 'too.': TAO TP-PL
-'The': -T
+'The': KPA/-T
 'carter': KA*RT/ER
 'ran': RAPB
 'up': UP
@@ -821,14 +821,14 @@ The Dog and the Sparrow
 'on': OPB
 'the': -T
 'spot.': SPOT TP-PL
-''Unlucky': AE UPB/HRUBG/KWREU
+''Unlucky': AE KPA/UPB/HRUBG/KWREU
 'wretch': WREFP
 'that': THA
 'I': EU
 'am!'': APL SKHRAPL AE
 'said': SAEUD
 'he.': HE TP-PL
-''Not': AE TPHOT
+''Not': AE KPA/TPHOT
 'wretch': WREFP
 'enough': TPHUF
 'yet!'': KWRET SKHRAPL AE
@@ -847,7 +847,7 @@ The Dog and the Sparrow
 'peck': PEBG
 'him': HEUPL
 'too.': TAO TP-PL
-'The': -T
+'The': KPA/-T
 'carter': KA*RT/ER
 'was': WAS
 'mad': PHAD
@@ -880,7 +880,7 @@ The Dog and the Sparrow
 'the': -T
 'other': OER
 'two.': TWO TP-PL
-''Alas!': AE A/HRAS SKHRAPL
+''Alas!': AE KPA/A/HRAS SKHRAPL
 'miserable': PHEUZ/-BL
 'wretch': WREFP
 'that': THA
@@ -888,7 +888,7 @@ The Dog and the Sparrow
 'am!'': APL SKHRAPL AE
 'cried': KRAOEUD
 'he.': HE TP-PL
-''Not': AE TPHOT
+''Not': AE KPA/TPHOT
 'wretch': WREFP
 'enough': TPHUF
 'yet!'': KWRET SKHRAPL AE
@@ -910,7 +910,7 @@ The Dog and the Sparrow
 'thy': THAO*EU
 'own': OEPB
 'house.'': HOUS TP-PL AE
-'The': -T
+'The': KPA/-T
 'carter': KA*RT/ER
 'was': WAS
 'forced': TPOFRD
@@ -931,7 +931,7 @@ The Dog and the Sparrow
 'rage': RAEUPBLG
 'and': SKP
 'vexation.': SREBGS/AEUGS TP-PL
-''Alas!'': AE A/HRAS SKHRAPL AE
+''Alas!'': AE KPA/A/HRAS SKHRAPL AE
 'said': SAEUD
 'he': HE
 'to': TO
@@ -953,7 +953,7 @@ The Dog and the Sparrow
 'all': AUL
 'three': THRAOE
 'dead.'': TKED TP-PL AE
-''Alas!': AE A/HRAS SKHRAPL
+''Alas!': AE KPA/A/HRAS SKHRAPL
 'husband,'': HUS KW-BG AE
 'replied': RE/PHRAOEUD
 'she,': SHE KW-BG
@@ -999,7 +999,7 @@ The Dog and the Sparrow
 'such': SUFP
 'a': AEU
 'rate!'': RAEUT SKHRAPL AE
-'Away': A/WAEU
+'Away': KPA/A/WAEU
 'ran': RAPB
 'the': -T
 'husband': HUS
@@ -1025,7 +1025,7 @@ The Dog and the Sparrow
 'midst': PHEUDZ
 'of': -F
 'them.': THEPL TP-PL
-''Unlucky': AE UPB/HRUBG/KWREU
+''Unlucky': AE KPA/UPB/HRUBG/KWREU
 'wretch': WREFP
 'that': THA
 'I': EU
@@ -1043,7 +1043,7 @@ The Dog and the Sparrow
 'almost': HR-PL
 'all': AUL
 'gone.': TKPWOPB TP-PL
-''Not': AE TPHOT
+''Not': AE KPA/TPHOT
 'wretch': WREFP
 'enough': TPHUF
 'yet!'': KWRET SKHRAPL AE
@@ -1062,7 +1062,7 @@ The Dog and the Sparrow
 'away': A/WAEU
 'she': SHE
 'flew.': TPHRAOU TP-PL
-'The': -T
+'The': KPA/-T
 'carter': KA*RT/ER
 'seeing': SAOEG
 'that': THA
@@ -1099,7 +1099,7 @@ The Dog and the Sparrow
 'the': -T
 'chimney': KHEUPL/TPHEU
 'corner.': KRORPB TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'sparrow': SPAEUR/ROE
 'sat': SAT
@@ -1119,7 +1119,7 @@ The Dog and the Sparrow
 'thee': THAOE
 'thy': THAO*EU
 'life!'': HRAOEUF SKHRAPL AE
-'With': W
+'With': KPA/W
 'that': THA
 'he': HE
 'jumped': SKWR*UPLD
@@ -1145,7 +1145,7 @@ The Dog and the Sparrow
 'broke': PWROEBG
 'the': -T
 'window.': WOEUPBD TP-PL
-'The': -T
+'The': KPA/-T
 'sparrow': SPAEUR/ROE
 'now': TPHOU
 'hopped': HOPD
@@ -1163,7 +1163,7 @@ The Dog and the Sparrow
 'thee': THAOE
 'thy': THAO*EU
 'life!'': HRAOEUF SKHRAPL AE
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'became': PWAEUPL
 'mad': PHAD
@@ -1223,7 +1223,7 @@ The Dog and the Sparrow
 'bird': PWEURD
 'at': AT
 'all.': AUL TP-PL
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'end,': EPBD KW-BG
 'however,': HOUF KW-BG
@@ -1234,13 +1234,13 @@ The Dog and the Sparrow
 'the': -T
 'wife': WAOEUF
 'said,': SAEUD KW-BG
-''Shall': AE SHAL
+''Shall': AE KPA/SHAL
 'I': EU
 'kill': KEUL
 'her': HER
 'at': AT
 'once?'': WUPBS H-F AE
-''No,'': AE TPHO KW-BG AE
+''No,'': AE KPA/TPHO KW-BG AE
 'cried': KRAOEUD
 'he,': HE KW-BG
 ''that': AE THA
@@ -1262,7 +1262,7 @@ The Dog and the Sparrow
 'will': HR
 'eat': AOET
 'her.'': HER TP-PL AE
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'sparrow': SPAEUR/ROE
 'began': TKPWAPB
@@ -1284,7 +1284,7 @@ The Dog and the Sparrow
 'thy': THAO*EU
 'life': HRAOEUF
 'yet!'': KWRET SKHRAPL AE
-'With': W
+'With': KPA/W
 'that': THA
 'he': HE
 'could': KO
@@ -1300,7 +1300,7 @@ The Dog and the Sparrow
 'hatchet,': HABGT KW-BG
 'and': SKP
 'cried,': KRAOEUD KW-BG
-''Wife,': AE WAOEUF KW-BG
+''Wife,': AE KPA/WAOEUF KW-BG
 'strike': STRAOEUBG
 'at': AT
 'the': -T
@@ -1311,7 +1311,7 @@ The Dog and the Sparrow
 'in': TPH
 'my': PHEU
 'hand.'': HAPBD TP-PL AE
-'And': SKP
+'And': AFPBD
 'the': -T
 'wife': WAOEUF
 'struck;': STRUBG STPH*FPLT

@@ -1,6 +1,6 @@
 # The Queen Bee
 
-* two `TWO`
+* Two `KPA/TWO`
 * kings' `KEUPBGZ AE`
 * sons `SOPBS`
 * once `WUPBS`
@@ -31,7 +31,7 @@
 * return `RURPB`
 * home `HOEPL`
 * again. `TKPWEPB TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * brother, `PWROER KW-BG`
 * who `WHO`
 * was `WAS`
@@ -69,7 +69,7 @@
 * unable `TPHA*EUBL`
 * get `TKPWET`
 * on. `OPB TP-PL`
-* however, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * all `AUL`
 * set `SET`
 * on `OPB`
@@ -79,6 +79,8 @@
 * last `HRAFT`
 * an `APB`
 * ant-hill. `A*PBT H-PB HEUL TP-PL`
+* The `KPA/-T`
+* two `TWO`
 * elder `ELD/ER`
 * brothers `PWROERS`
 * would `WO`
@@ -98,9 +100,10 @@
 * carry `KAER`
 * off `OF`
 * eggs. `EGS TP-PL`
+* But `KPA/PWUT`
 * dwarf `TKWAFR`
 * said, `SAEUD KW-BG`
-* 'Let `AE HRET`
+* 'Let `AE KPA/HRET`
 * things `THEUPBGS`
 * enjoy `TPHOEUPBLG`
 * themselves, `TH*EPLS KW-BG`
@@ -110,6 +113,7 @@
 * you `U`
 * trouble `TRUBL`
 * them.' `THEPL TP-PL AE`
+* So `KPA/SO`
 * went, `WEPBT KW-BG`
 * lake `HRAEUBG`
 * where `W-R`
@@ -124,7 +128,7 @@
 * them. `THEPL TP-PL`
 * shall `SHAL`
 * kill `KEUL`
-* next `TPHEGT`
+* Next `KPA/TPHEGT`
 * bees'-nest `PWAOES AE H-PB TPHEFT`
 * hollow `HOL/OE`
 * tree, `TRAOE KW-BG`
@@ -147,6 +151,7 @@
 * cannot `K/TPHOT`
 * let `HRET`
 * burn `PWURPB`
+* At `KPA/AT`
 * length `HREPBG`
 * three `THRAOE`
 * castle: `KAFL STPH-FPLT`
@@ -171,7 +176,9 @@
 * middle `PH*EULD`
 * wicket, `WEUBGT KW-BG`
 * look `HRAOBG`
+* next `TPHEGT`
 * room. `RAOPL TP-PL`
+* There `KPA/THR`
 * grey `TKPWRA*EU`
 * old `OLD`
 * sitting `SEUGT`
@@ -182,9 +189,12 @@
 * twice, `TWAOEUS KW-BG`
 * did `TK`
 * hear: `HAER STPH-FPLT`
+* however, `HOUF KW-BG`
 * third `THEURD`
 * time, `TAOEUPL KW-BG`
-* rose `ROEZ`
+* then `THEPB`
+* rose `ROES`
+* He `KPA/HE`
 * said `SAEUD`
 * nothing, `TPHOG KW-BG`
 * took `TAOBG`
@@ -216,7 +226,7 @@
 * first `TPEUFRT`
 * tablet `TABLT`
 * said: `SAEUD STPH-FPLT`
-* 'In `AE TPH`
+* 'In `AE KPA/TPH`
 * wood, `WAOD KW-BG`
 * moss, `PHOS KW-BG`
 * lie `HRAOEU`
@@ -268,6 +278,7 @@
 * tiresome!--so `TAOEUR/SO*PL SKHRAPL H-PB H-PB SO`
 * sat `SAT`
 * cried. `KRAOEUD TP-PL`
+* And `AFPBD`
 * king `KEUPBG`
 * (whose `PREPB WHOZ`
 * life `HRAOEUF`
@@ -279,7 +290,7 @@
 * before `PW-F`
 * laid `HRAEUD`
 * heap. `HAOEP TP-PL`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * key `KAOE`
 * princess's `PREUPB/ES AES`
 * bed-chamber `PWED H-PB KHAEURPL`
@@ -298,11 +309,12 @@
 * bottom. `PWOPLT TP-PL`
 * task `TAFBG`
 * hardest. `HARD/EFT TP-PL`
+* It `KPA/T`
 * choose `KHAOS`
 * youngest `KWRUPBG/EFT`
 * best `PWEFT`
 * daughters. `TKAURS TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * beautiful, `PWAOUFL KW-BG`
 * exactly `ELG`
 * alike: `A/HRAOEUBG STPH-FPLT`
@@ -324,7 +336,7 @@
 * honey: `HUPB/KWREU STPH-FPLT`
 * knew `TPHAOU`
 * youngest. `KWRUPBG/EFT TP-PL`
-* Thus `THUS`
+* Thus `KPA/THUS`
 * spell `SPEL`
 * broken, `PWROEPB KW-BG`
 * stones `STOEPBS`
@@ -332,7 +344,7 @@
 * proper `PROR`
 * forms. `TPORPLS TP-PL`
 * married `PHAERD`
-* princesses, `PREUPB/ES/-S KW-BG`
+* princesses, `PREUPB/SES/-S KW-BG`
 * after `AF`
 * her `HER`
 * father's `TPA*ER/AES`

@@ -1,6 +1,6 @@
 # The Child in the Grave
 
-* it `T`
+* It `KPA/T`
 * was `WAS`
 * a `AEU`
 * very `SRE`
@@ -28,7 +28,7 @@
 * his `HEUS`
 * parents, `PARPBTS KW-BG`
 * dead. `TKED TP-PL`
-* Two `TWO`
+* Two `KPA/TWO`
 * daughters, `TKAURS KW-BG`
 * elder `ELD/ER`
 * whom `WHOPL`
@@ -51,6 +51,7 @@
 * seems `SAOEPLS`
 * dearest; `TKAER/EFT STPH*FPLT`
 * when `WHEPB`
+* it `T`
 * is `S`
 * youngest, `KWRUPBG/EFT KW-BG`
 * son, `SOPB KW-BG`
@@ -58,6 +59,7 @@
 * trial `TRAOEUL`
 * more `PHOR`
 * heavy. `HOEUF TP-PL`
+* The `KPA/-T`
 * sisters `ST-RS`
 * mourned `PHOURPB/-D`
 * as `AZ`
@@ -81,7 +83,7 @@
 * under `*UPBD`
 * deep `TKAOEP`
 * grief. `TKPWRAOEF TP-PL`
-* day `TKAEU`
+* Day `KPA/TKAEU`
 * night `TPHAOEUT`
 * she `SHE`
 * had `H`
@@ -93,6 +95,7 @@
 * bosom, `PWUZ/OPL KW-BG`
 * part `PART`
 * herself. `H*ERS TP-PL`
+* She `KPA/SHE`
 * could `KO`
 * not `TPHOT`
 * realize `RAEFL`
@@ -105,7 +108,7 @@
 * rest `REFT`
 * ground. `TKPWROUPBD TP-PL`
 * thought `THAUT`
-* God `TKPWOD`
+* God `TKPWO*D`
 * take `TAEUBG`
 * darling `TKARLG`
 * little `HREUL`
@@ -125,11 +128,11 @@
 * said `SAEUD`
 * feverish `TPAOEFR/EURB`
 * agony, `AG/TPHEU KW-BG`
-* "God `KR-GS TKPWOD`
+* "God `KR-GS TKPWO*D`
 * does `TKOS`
 * know `TPHOE`
 * it. `T TP-PL`
-* He `HE`
+* He `KPA/HE`
 * has `HAS`
 * hard-hearted `HARD H-PB HART/-D`
 * ministering `PH*EUPBS/ERG`
@@ -143,13 +146,13 @@
 * heed `HAO*ED`
 * mother's `PHOER/AES`
 * prayers." `PRAEURS TP-PL KR-GS`
-* Thus `THUS`
+* Thus `KPA/THUS`
 * great `TKPWRAET`
 * grief `TKPWRAOEF`
 * fell `TPEL`
 * away `A/WAEU`
 * faith `PHA*EUT`
-* God, `TKPWOD KW-BG`
+* God, `TKPWO*D KW-BG`
 * dark `TKARBG`
 * thoughts `THAUTS`
 * arose `A/ROES`
@@ -167,6 +170,7 @@
 * all `AUL`
 * existence `KPEUFS`
 * ended. `EPBD/-D TP-PL`
+* But `KPA/PWUT`
 * these `THEZ`
 * doubts `TKOUTS`
 * support `SPOR`
@@ -178,6 +182,7 @@
 * fathomless `xxx fathomless`
 * depths `TK*EPTS`
 * despair. `TKE/SPAEUR TP-PL`
+* In `KPA/TPH`
 * darkest `TKARBG/EFT`
 * hours `HOURS`
 * ceased `KRAES/-D`
@@ -199,11 +204,13 @@
 * up `UP`
 * remembrances `RERPBS/-S`
 * innocent `TPH-PBT`
-* Word `WORD`
+* word `WORD`
 * uttered. `UT/ERD TP-PL`
+* day `TKAEU`
 * child's `KHAOEULD/AES`
 * funeral `TPAOUPBL`
 * came. `KAEUPL TP-PL`
+* For `KPA/TPOR`
 * nights `TPHAOEUTS`
 * previously `PRAOEFL`
 * slept, `SHREPD KW-BG`
@@ -222,23 +229,24 @@
 * hear `HAER`
 * blows `PWHROES`
 * hammer. `HAERPL TP-PL`
+* When `KPA/WHEPB`
 * awoke, `A/WOEBG KW-BG`
 * wanted `WAPBTD`
 * see `SAOE`
 * husband, `HUS KW-BG`
 * tears, `TAERS KW-BG`
 * said, `SAEUD KW-BG`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * have `SR`
 * closed `KHROEFD`
 * coffin; `KOFPB STPH*FPLT`
 * necessary `TPHES`
 * so." `SO TP-PL KR-GS`
-* "When `KR-GS WHEPB`
+* "When `KR-GS KPA/WHEPB`
 * so `SO`
 * hard `HARD`
 * me, `PHE KW-BG`
-* How `HOU`
+* how `HOU`
 * I `EU`
 * expect `KP-PT`
 * men `PHEPB`
@@ -269,6 +277,7 @@
 * compass `KPAS`
 * or `OR`
 * rudder. `RUD/ER TP-PL`
+* So `KPA/SO`
 * passed `PAFD`
 * away, `A/WAEU KW-BG`
 * similar `SHRAR`
@@ -277,6 +286,7 @@
 * dark, `TKARBG KW-BG`
 * wearisome `WAOE/REU/SPH`
 * pain. `PAEUPB TP-PL`
+* With `KPA/W`
 * tearful `TAER/-FL`
 * eyes `AO*EUS`
 * mournful `PHOURPB/-FL`
@@ -284,7 +294,7 @@
 * sorrowing `SROE/-G`
 * afflicted `A/TPHREUBGD`
 * upon `POPB`
-* Would `WO`
+* would `WO`
 * words `WORDZ`
 * comfort; `K-FRT STPH*FPLT`
 * and, `SKP KW-BG`
@@ -308,13 +318,16 @@
 * poured `PORD`
 * peace `PAES`
 * soul. `SOUL TP-PL`
+* They `KPA/THE`
 * last `HRAFT`
 * persuaded `PER/SWAEUD/-D`
 * lie `HRAOEU`
-* Then `THEPB`
+* then `THEPB`
 * slept. `SHREPD TP-PL`
+* One `KPA/WUPB`
 * night, `TPHAOEUT KW-BG`
 * listened, `HREUFPBD KW-BG`
+* he `HE`
 * often `OFPB`
 * did, `TK KW-BG`
 * breathing, `PWRAO*EGT KW-BG`
@@ -351,6 +364,7 @@
 * field `TPAOELD`
 * led `HRED`
 * churchyard. `KH*URPBLG/KWRARD TP-PL`
+* No `KPA/TPHO`
 * walked, `WAUBGD KW-BG`
 * nor `TPH-R`
 * any `TPHEU`
@@ -392,6 +406,7 @@
 * even `AOEPB`
 * sick-bed, `SEUBG H-PB PWED KW-BG`
 * forget. `TPERGT TP-PL`
+* How `KPA/HOU`
 * meaning `PHAOEPBG`
 * glance `TKPWHRAPBS`
 * been, `PW-PB KW-BG`
@@ -404,13 +419,14 @@
 * longer `HRORPBG`
 * strength `STREPBG`
 * raise! `RAEUZ SKHRAPL`
+* As `KPA/AZ`
 * cot, `KOT KW-BG`
-* Now `TPHOU`
+* now `TPHOU`
 * grave; `TKPWRAEUF STPH*FPLT`
 * here `HAOER`
 * weep `WAOEP`
 * freely, `TPRAOEL KW-BG`
-* "Thou `KR-GS THO*U`
+* "Thou `KR-GS KPA/THO*U`
 * wouldst `WO/S*/T*`
 * gladly `TKPWHRAD/HREU`
 * down `TKOUPB`
@@ -441,7 +457,7 @@
 * beamed `PWAEPL/-D`
 * youthful `KWRAO*UT/-FL`
 * radiance. `RAEUD/KWRAPBS TP-PL`
-* "Down `KR-GS TKOUPB`
+* "Down `KR-GS KPA/TKOUPB`
 * my `PHEU`
 * repeated; `RE/PAOETD STPH*FPLT`
 * tones `TOEPBS`
@@ -456,10 +472,11 @@
 * form. `TPORPL TP-PL`
 * "I `KR-GS EU`
 * am `APL`
-* Death." `TK*T TP-PL KR-GS`
+* Death." `KPA/TK*T TP-PL KR-GS`
 * token `TO*EPB`
 * assent. `ASZ/EPBT TP-PL`
-* Suddenly `SULD`
+* Then `KPA/THEPB`
+* suddenly `SULD`
 * appeared `A/PAOERD`
 * stars `STARS`
 * shining `SHAOEUPBG`
@@ -511,6 +528,7 @@
 * sounded—now `SOUPBD/-D EPL/TKA*RB TPHOU`
 * distant, `STKAPBT KW-BG`
 * near. `TPHAOER TP-PL`
+* Never `KPA/TPHEF`
 * listened `HREUFPBD`
 * such `SUFP`
 * these; `THEZ STPH*FPLT`
@@ -521,7 +539,7 @@
 * regions `RAOE/SKWROPBS`
 * land `HRAPBD`
 * eternity. `AOE/TERPBT TP-PL`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * sweet, `SWAOET KW-BG`
 * mother," `PHOER KW-BG KR-GS`
 * heard `HAERD`
@@ -536,12 +554,12 @@
 * delight. `TKHRAOEUT TP-PL`
 * pointed `POEUPBTD`
 * curtain. `KUR/TAPB TP-PL`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * here. `HAOER TP-PL`
-* Mother, `PHOER KW-BG`
+* Mother, `KPA/PHOER KW-BG`
 * you `U`
 * all? `AUL H-F`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * happiness `HAEP/-PBS`
 * indeed." `TPHAOEPBD TP-PL KR-GS`
 * out, `OUT KW-BG`
@@ -549,10 +567,11 @@
 * earthly `*ERT/HREU`
 * saw,—he `SAU KW-BG EPL/TKA*RB HE`
 * called `KAULD`
-* Himself. `H*EUPLS TP-PL`
+* Himself. `KPA/H*EUPLS TP-PL`
 * sounds `SOUPBDZ`
 * music, `PHAOUFBG KW-BG`
 * words, `WORDZ KW-BG`
+* Word `WORD/WORD`
 * trust. `TRUFT TP-PL`
 * fly `TPHRAOEU`
 * now, `TPHOU KW-BG`
@@ -560,7 +579,7 @@
 * happy `HAEP`
 * children `KHEURPB`
 * presence `PREPBS`
-* Almighty. `AL/PHAOEUT/KWREU TP-PL`
+* Almighty. `A*L/PHAOEUT/KWREU TP-PL`
 * fain `TPA*EUPB`
 * now; `TPHOU STPH*FPLT`
 * me `PHE`
@@ -568,6 +587,7 @@
 * weeping `WAOEP/-G`
 * may `PHAE`
 * again. `TKPWEPB TP-PL`
+* And `AFPBD`
 * gladly. `TKPWHRAD/HREU TP-PL`
 * away? `A/WAEU H-F`
 * will `HR`
@@ -576,7 +596,7 @@
 * not, `TPHOT KW-BG`
 * dear `TKAER`
 * mother?" `PHOER H-F KR-GS`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * stay, `STAEU KW-BG`
 * stay!" `STAEU SKHRAPL KR-GS`
 * implored `EUPL/PHROR/-D`
@@ -592,15 +612,16 @@
 * heart." `HART TP-PL KR-GS`
 * kissed `K*EUFD`
 * fondled `TPOPBD/-LD`
+* Suddenly `KPA/SULD`
 * name `TPHAEUPL`
 * above; `PWOF STPH*FPLT`
 * mean? `PHAOEPB H-F`
 * uttered `UT/ERD`
 * plaintive `PHRAEUPB/T*EUF`
 * voice. `SROEUS TP-PL`
-* "Hearest `KR-GS HAER/EFT`
+* "Hearest `KR-GS xxx Hearest`
 * thou?" `THO*U H-F KR-GS`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * father `TPAER`
 * calls `KAULS`
 * thee." `THAOE TP-PL KR-GS`
@@ -609,9 +630,9 @@
 * sighs `SAOEU/-S`
 * heard, `HAERD KW-BG`
 * weeping. `WAOEP/-G TP-PL`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * sisters," `ST-RS KW-BG KR-GS`
-* "mother, `KR-GS PHOER KW-BG`
+* "Mother, `KR-GS KPA/PHOER KW-BG`
 * surely `SHURL`
 * forgotten `TPORGTD`
 * them." `THEPL TP-PL KR-GS`
@@ -620,7 +641,7 @@
 * behind, `HEUPBD KW-BG`
 * terror `TER/O*R`
 * night. `TPHAOEUT TP-PL`
-* Dim `TKEUPL`
+* Dim `KPA/TKEUPL`
 * forms `TPORPLS`
 * flitted `TPHREUT/-D`
 * by. `PWEU TP-PL`
@@ -630,18 +651,20 @@
 * towards `TORDZ`
 * curtain, `KUR/TAPB KW-BG`
 * vanished. `SRAPB/EURBD TP-PL`
+* Would `KPA/WO`
 * flit `TPHREUT`
 * past? `PAFT H-F`
-* No; `TPHO STPH*FPLT`
+* No; `KPA/TPHO STPH*FPLT`
 * lamentations `HRAPLT/TAEUGS/-S`
 * nearly `TPHAOERL`
 * sake `SAEUBG`
 * bells `PWELS`
 * heaven `HEFPB`
 * ringing," `REUPBG/-G KW-BG KR-GS`
+* "mother, `KR-GS PHOER KW-BG`
 * sun `SUPB`
 * rise." `RAOEUZ TP-PL KR-GS`
-* An `APB`
+* An `KPA/APB`
 * overpowering `AUFR/POURPBG`
 * light `HRAOEUT`
 * streamed `STRAOEPL/-D`
@@ -649,11 +672,12 @@
 * being `-BG`
 * borne `PWOERPB`
 * upwards. `UP/WARDZ TP-PL`
+* All `KPA/AUL`
 * cold; `KOELD STPH*FPLT`
 * lifted `HREUFTD`
 * head, `HED KW-BG`
 * lying `HRAOEUG`
-* Lord, `HRORD KW-BG`
+* Lord, `HRO*RD KW-BG`
 * dream, `TKRAOEPL KW-BG`
 * guide `TKPWAOEUD`
 * feet `TPAOET`
@@ -680,7 +704,7 @@
 * church-bells `KHUFRPB H-PB PWELS`
 * early `ERL`
 * service. `S-FS TP-PL`
-* Everything `EFG`
+* Everything `KPA/EFG`
 * holy, `HOEUL KW-BG`
 * chastened. `KHAEUFPB/-D TP-PL`
 * acknowledged `ABG/TPHOPBLGD`
@@ -696,15 +720,16 @@
 * love `HRUF`
 * lips `HREUPS`
 * both. `PWO*T TP-PL`
+* Now `KPA/TPHOU`
 * strong `STROPBG`
 * be; `-B STPH*FPLT`
 * faith: `PHA*EUT STPH-FPLT`
-* "Whatever `KR-GS WHAF`
+* "Whatever `KR-GS KPA/WHAF`
 * doeth `xxx doeth`
 * right `RAOEUT`
 * best." `PWEFT TP-PL KR-GS`
 * asked, `SK-D KW-BG`
-* "From `KR-GS TPR`
+* "From `KR-GS KPA/TPR`
 * whence `WHEPBS`
 * hast `HA*FT`
 * derived `TKRAOEUFD`

@@ -1,7 +1,7 @@
 The Dog in the Manger
 
 'A': KPA/AEU
-'Dog': TKOG
+'Dog': KPA/TKOG
 'looking': HRAOG
 'out': OUT
 'for': TPOR
@@ -11,10 +11,10 @@ The Dog in the Manger
 'jumped': SKWR*UPLD
 'into': TPHAO
 'the': -T
-'Manger': PHAEUPB/SKWRER
+'Manger': KPA/PHAEUPB/SKWRER
 'of': -F
 'an': APB
-'Ox': O*BGS
+'Ox': KPA/O*BGS
 'and': SKP
 'lay': HRAEU
 'there': THR
@@ -22,10 +22,10 @@ The Dog in the Manger
 'upon': POPB
 'the': -T
 'straw.': STRAU TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'soon': SAOPB
 'the': -T
-'Ox,': O*BGS KW-BG
+'Ox,': KPA/O*BGS KW-BG
 'returning': RURPBG
 'from': TPR
 'its': EUTS
@@ -35,7 +35,7 @@ The Dog in the Manger
 'up': UP
 'to': TO
 'the': -T
-'Manger': PHAEUPB/SKWRER
+'Manger': KPA/PHAEUPB/SKWRER
 'and': SKP
 'wanted': WAPBTD
 'to': TO
@@ -44,8 +44,8 @@ The Dog in the Manger
 'of': -F
 'the': -T
 'straw.': STRAU TP-PL
-'The': -T
-'Dog': TKOG
+'The': KPA/-T
+'Dog': KPA/TKOG
 'in': TPH
 'a': AEU
 'rage,': RAEUPBLG KW-BG
@@ -60,7 +60,7 @@ The Dog in the Manger
 'barked': PWARBGD
 'at': AT
 'the': -T
-'Ox,': O*BGS KW-BG
+'Ox,': KPA/O*BGS KW-BG
 'and': SKP
 'whenever': WHEFR
 'it': T
@@ -70,10 +70,10 @@ The Dog in the Manger
 'to': TO
 'bite': PWAOEUT
 'it.': T TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'the': -T
-'Ox': O*BGS
+'Ox': KPA/O*BGS
 'had': H
 'to': TO
 'give': TKPWEUF
@@ -89,7 +89,7 @@ The Dog in the Manger
 'went': WEPBT
 'away': A/WAEU
 'muttering:': PHUT/*ER/-G STPH-FPLT
-'"Ah,': KR-GS HA*E KW-BG
+'"Ah,': KR-GS KPA/HA*E KW-BG
 'people': PAOEPL
 'often': OFPB
 'grudge': TKPWRUPBLG

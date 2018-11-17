@@ -1,10 +1,11 @@
 # The Travelling Musicians
 
-* an `APB`
+* An `KPA/APB`
 * honest `HO*PBS`
 * farmer `TPAR/PHER`
 * had `H`
 * once `WUPBS`
+* an `APB`
 * ass `A*S`
 * that `THA`
 * been `PW-PB`
@@ -28,8 +29,8 @@
 * unfit `UPB/TPEUT`
 * for `TPOR`
 * work. `WORBG TP-PL`
-* his `HEUS`
-* Master `PHAFRT`
+* His `KPA/HEUS`
+* master `PHAFRT`
 * therefore `TH-FR`
 * tired `TAOEURD`
 * of `-F`
@@ -51,10 +52,11 @@
 * himself `H*EUPLS`
 * slyly `SHRAOEU/HREU`
 * off, `OF KW-BG`
+* his `HEUS`
 * journey `SKWRURPB`
 * towards `TORDZ`
 * city, `STEU KW-BG`
-* 'For `AE TPOR`
+* 'For `AE KPA/TPOR`
 * there,' `THR KW-BG AE`
 * thought `THAUT`
 * he, `HE KW-BG`
@@ -62,7 +64,7 @@
 * may `PHAE`
 * turn `TURPB`
 * musician.' `PHAOUGS TP-PL AE`
-* After `AF`
+* After `KPA/AF`
 * he `HE`
 * travelled `TRAFLD/A*U`
 * little `HREUL`
@@ -77,7 +79,7 @@
 * if `TP`
 * were `WR`
 * tired. `TAOEURD TP-PL`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * makes `PHAEUBGS`
 * you `U`
 * pant `PAPBT`
@@ -86,7 +88,7 @@
 * friend?' `TPREPBD H-F AE`
 * said `SAEUD`
 * ass. `A*S TP-PL`
-* 'Alas!' `AE A/HRAS SKHRAPL AE`
+* 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * dog, `TKOG KW-BG`
 * 'my `AE PHEU`
 * going `TKPW-G`
@@ -94,7 +96,7 @@
 * me `PHE`
 * on `OPB`
 * head, `HED KW-BG`
-* Because `PWAU`
+* because `PWAU`
 * I `EU`
 * am `APL`
 * weak, `WAEBG KW-BG`
@@ -112,7 +114,7 @@
 * do `TKO`
 * earn `ERPB`
 * livelihood?' `HRAOFD H-F AE`
-* 'Hark `AE HARBG`
+* 'Hark `AE KPA/HARBG`
 * ye!' `KWR*/*E/SP-S SKHRAPL AE`
 * city `STEU`
 * musician: `PHAOUGS STPH-FPLT`
@@ -123,10 +125,12 @@
 * try `TREU`
 * same `SAEUPL`
 * way?' `WAEU H-F AE`
+* The `KPA/-T`
 * willing, `-LG KW-BG`
 * they `THE`
 * jogged `SKWROGD`
 * together. `TOGT TP-PL`
+* They `KPA/THE`
 * not `TPHOT`
 * gone `TKPWOPB`
 * far `TPAR`
@@ -139,17 +143,18 @@
 * most `PHOFT`
 * rueful `RAOUFL`
 * face. `TPAEUS TP-PL`
-* 'Pray, `AE PRAEU KW-BG`
+* 'Pray, `AE KPA/PRAEU KW-BG`
 * good `TKPWAOD`
 * lady,' `HRA*ED KW-BG AE`
 * 'what's `AE WHA AES`
 * matter `PHAERT`
 * you? `U H-F`
+* You `KPA/U`
 * look `HRAOBG`
 * quite `KWAOEUT`
 * out `OUT`
 * spirits!' `SPEURTS SKHRAPL AE`
-* 'Ah, `AE HA*E KW-BG`
+* 'Ah, `AE KPA/HA*E KW-BG`
 * me!' `PHE SKHRAPL AE`
 * cat, `KAT KW-BG`
 * 'how `AE HOU`
@@ -161,6 +166,7 @@
 * life `HRAOEUF`
 * is `S`
 * danger? `TKAEUPBLG H-F`
+* Because `KPA/PWAU`
 * beginning `TKPWEUPB/-G`
 * grow `TKPWROE`
 * old, `OLD KW-BG`
@@ -173,6 +179,7 @@
 * run `RUPB`
 * about `PW`
 * house `HOUS`
+* after `AF`
 * mice, `PHAOEUS KW-BG`
 * mistress `PHEUS/TRES`
 * laid `HRAEUD`
@@ -190,7 +197,7 @@
 * know `TPHOE`
 * live `HREUF`
 * upon.' `POPB TP-PL AE`
-* 'Oh,' `AE O*E KW-BG AE`
+* 'Oh,' `AE KPA/O*E KW-BG AE`
 * 'by `AE PWEU`
 * all `AUL`
 * means `PHAOEPBS`
@@ -205,7 +212,7 @@
 * thought, `THAUT KW-BG`
 * joined `SKWROEUPBD`
 * party. `PAERT TP-PL`
-* soon `SAOPB`
+* Soon `KPA/SAOPB`
 * afterwards, `A*FRDZ KW-BG`
 * passing `PAFG`
 * farmyard, `TPARPL/KWRARD KW-BG`
@@ -216,7 +223,7 @@
 * screaming `SKRAOEPLG`
 * might `PHAOEUT`
 * main. `PHAEUPB TP-PL`
-* 'Bravo!' `AE PWRA/SRO SKHRAPL AE`
+* 'Bravo!' `AE KPA/PWRA/SRO SKHRAPL AE`
 * ass; `A*S STPH*FPLT`
 * 'upon `AE POPB`
 * word, `WORD KW-BG`
@@ -225,7 +232,7 @@
 * pray `PRAEU`
 * this `TH`
 * about?' `PW H-F AE`
-* 'Why,' `AE KWR KW-BG AE`
+* 'Why,' `AE KPA/KWR KW-BG AE`
 * cock, `KOBG KW-BG`
 * just `SKWRUFT`
 * saying `SAEUG`
@@ -249,9 +256,10 @@
 * guests `TKPWEFTS`
 * coming `KO*G`
 * Sunday!' `SUPBD SKHRAPL AE`
-* 'Heaven `AE HEFPB`
+* 'Heaven `AE KPA/HEFPB`
 * forbid!' `TPORBD SKHRAPL AE`
 * 'come `AE KOPL`
+* Master `KPA/PHAFRT`
 * Chanticleer; `xxx Chanticleer STPH*FPLT`
 * it `T`
 * will `HR`
@@ -261,8 +269,9 @@
 * staying `STAEUG`
 * here `HAOER`
 * off! `OF SKHRAPL`
-* Besides, `PW-DZ KW-BG`
+* Besides, `KPA/PW-DZ KW-BG`
 * knows? `TPHOEZ H-F`
+* If `KPA/TP`
 * care `KAEUR`
 * sing `SEUPBG`
 * tune, `TAOUPB KW-BG`
@@ -272,7 +281,7 @@
 * come `KOPL`
 * along `A/HROPBG`
 * us.' `US TP-PL AE`
-* 'With `AE W`
+* 'With `AE KPA/W`
 * heart,' `HART KW-BG AE`
 * cock: `KOBG STPH-FPLT`
 * four `TPOUR`
@@ -313,6 +322,7 @@
 * see `SAOE`
 * everything `EFG`
 * well. `WEL TP-PL`
+* In `KPA/TPH`
 * doing `TK*G`
 * this, `TH KW-BG`
 * afar `A/TPAR`
@@ -322,11 +332,11 @@
 * calling `KAULG`
 * companions `KPAPB/KWROPBS`
 * said, `SAEUD KW-BG`
-* 'There `AE THR`
+* 'There `AE KPA/THR`
 * must `PHUFT`
 * way `WAEU`
 * light.' `HRAOEUT TP-PL AE`
-* 'if `AE TP`
+* 'If `AE KPA/TP`
 * case,' `KAEUS KW-BG AE`
 * 'we `AE WE`
 * better `PWOERT`
@@ -335,7 +345,7 @@
 * lodging `HROPBLG/-G`
 * best `PWEFT`
 * world!' `WORLD SKHRAPL AE`
-* 'Besides,' `AE PW-DZ KW-BG AE`
+* 'Besides,' `AE KPA/PW-DZ KW-BG AE`
 * added `AD/-D`
 * worse `WORS`
 * bone `PWOEPB`
@@ -343,6 +353,7 @@
 * two, `TWO KW-BG`
 * bit `PWEUT`
 * meat.' `PHAET TP-PL AE`
+* So `KPA/SO`
 * walked `WAUBGD`
 * together `TOGT`
 * spot `SPOT`
@@ -369,24 +380,26 @@
 * window `WOEUPBD`
 * peeped `PAOEPD`
 * in. `TPH TP-PL`
-* 'Well, `AE WEL KW-BG`
-* Donkey,' `TKOPB/KEU KW-BG AE`
+* 'Well, `AE KPA/WEL KW-BG`
+* Donkey,' `KPA/TKOPB/KEU KW-BG AE`
 * Chanticleer, `xxx Chanticleer KW-BG`
+* 'what `AE WHA`
 * see?' `SAOE H-F AE`
 * replied `RE/PHRAOEUD`
-* 'Why, `AE KWR KW-BG`
+* 'Why, `AE KPA/KWR KW-BG`
 * table `TAEUBL`
 * spread `SPRED`
 * kinds `KEUPBDZ`
 * things, `THEUPBGS KW-BG`
 * round `ROUPBD`
 * merry.' `PHER/REU TP-PL AE`
-* 'That `AE THA`
+* 'That `AE KPA/THA`
 * would `WO`
 * noble `TPHOEBL`
 * us,' `US KW-BG AE`
 * cock. `KOBG TP-PL`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
+* 'if `AE TP`
 * only `OEPBL`
 * in'; `TPH AE STPH*FPLT`
 * consulted `KULTD`
@@ -410,6 +423,7 @@
 * shoulders, `SHOURLDZ KW-BG`
 * cat's `KAT AES`
 * head. `HED TP-PL`
+* When `KPA/WHEPB`
 * ready `R-D`
 * signal `STPHAL`
 * given, `TKPWEUFPB KW-BG`
@@ -444,6 +458,7 @@
 * coast `KOEFT`
 * clear, `KHRAOER KW-BG`
 * travellers `TRA*FL/ERS/A*U`
+* soon `SAOPB`
 * dispatched `TKEUS/PAFPD`
 * left, `HREFT KW-BG`
 * much `PHUFP`
@@ -452,6 +467,7 @@
 * eat `AOET`
 * again `TKPWEPB`
 * month. `PHO*PBT TP-PL`
+* As `KPA/AZ`
 * satisfied `SAED`
 * themselves, `TH*EPLS KW-BG`
 * put `PUT`
@@ -480,6 +496,7 @@
 * journey, `SKWRURPB KW-BG`
 * fell `TPEL`
 * asleep. `A/HRAOEP TP-PL`
+* But `KPA/PWUT`
 * midnight, `PHAOEUPBT KW-BG`
 * lights `HRAOEUTS`
 * seemed `SAOEPLD`
@@ -489,7 +506,7 @@
 * bolder `PWOERLD`
 * rest, `REFT KW-BG`
 * on. `OPB TP-PL`
-* Finding `TPAOEPBGD`
+* Finding `KPA/TPAOEPBGD`
 * still, `STEUL KW-BG`
 * kitchen, `K-FP KW-BG`
 * groped `TKPWROEPD`
@@ -514,6 +531,7 @@
 * spat, `SPAT KW-BG`
 * scratched `SKRAFPD`
 * him. `HEUPL TP-PL`
+* This `KPA/TH`
 * dreadfully, `TKRED/-FL/KWREU KW-BG`
 * back `PWABG`
 * door; `TKAOR STPH*FPLT`
@@ -528,6 +546,7 @@
 * noise, `TPHOEUS KW-BG`
 * crowed `KROE/-D`
 * might. `PHAOEUT TP-PL`
+* At `KPA/AT`
 * robber `ROB/ER`
 * comrades, `KOPL/RADZ KW-BG`
 * told `TOLD`
@@ -554,7 +573,7 @@
 * devil `TKEFL`
 * cried `KRAOEUD`
 * out, `OUT KW-BG`
-* 'Throw `AE THROE`
+* 'Throw `AE KPA/THROE`
 * rascal `RAS/K-L`
 * here!' `HAOER SKHRAPL AE`
 * never `TPHEF`

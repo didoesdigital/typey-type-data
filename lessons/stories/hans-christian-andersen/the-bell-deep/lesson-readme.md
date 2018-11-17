@@ -1,16 +1,16 @@
 # The Bell-Deep
 
-* "Ding-dong! `KR-GS TKEUPBG H-PB TKOPBG SKHRAPL`
+* "Ding-dong! `KR-GS KPA/TKEUPBG H-PB TKOPBG SKHRAPL`
 * ding-dong!" `TKEUPBG H-PB TKOPBG SKHRAPL KR-GS`
-* it `T`
+* It `KPA/T`
 * sounds `SOUPBDZ`
 * up `UP`
 * from `TPR`
 * the `-T`
 * "bell-deep" `KR-GS PWEL H-PB TKAOEP KR-GS`
 * in `TPH`
-* Odense-Au. `xxx Odense H-PB A*P/*UP TP-PL`
-* Every `EF`
+* Odense-Au. `xxx Odense H-PB xxx Au TP-PL`
+* Every `KPA/EF`
 * child `KHAOEULD`
 * old `OLD`
 * town `TOUPB`
@@ -20,7 +20,7 @@
 * island `AOEULD`
 * Funen, `xxx Funen KW-BG`
 * knows `TPHOEZ`
-* Au, `A*P/*UP KW-BG`
+* Au, `xxx Au KW-BG`
 * which `WEU`
 * washes `WARBS`
 * gardens `TKPWARD/-PBS`
@@ -35,7 +35,8 @@
 * dam `TKAPL`
 * to `TO`
 * water-mill. `WAUR H-PB PHEUL TP-PL`
-* Au `A*P/*UP`
+* In `KPA/TPH`
+* Au `xxx Au`
 * grow `TKPWROE`
 * yellow `KWREL/OE`
 * water-lilies `WAUR H-PB HREUL/KWREU/KWREU/-S`
@@ -65,7 +66,7 @@
 * bleaching `PWHRAEFPG`
 * ground; `TKPWROUPBD STPH*FPLT`
 * but `PWUT`
-* Opposite `OP/SEUT`
+* opposite `OP/SEUT`
 * there `THR`
 * are `R`
 * upon `POPB`
@@ -77,7 +78,7 @@
 * with `W`
 * pretty `PREUT`
 * flowers `TPHRO*URS`
-* bowers `PWO*URS`
+* bowers `PWOUR/-S`
 * like `HRAOEUBG`
 * little `HREUL`
 * dolls' `TKOLS AE`
@@ -111,6 +112,7 @@
 * oar `AOR`
 * can `K`
 * fathom. `TPA/THOPL TP-PL`
+* Opposite `KPA/OP/SEUT`
 * nunnery `xxx nunnery`
 * is `S`
 * deepest `TKAOEP/EFT`
@@ -120,8 +122,8 @@
 * dwells `TKWEL/-S`
 * water `WAUR`
 * spirit, `SPEURT KW-BG`
-* "Au-mann." `KR-GS A*P/*UP H-PB PHAPB/PHAPB TP-PL KR-GS`
-* this `TH`
+* "Au-mann." `KR-GS xxx Au H-PB xxx mann TP-PL KR-GS`
+* This `KPA/TH`
 * spirit `SPEURT`
 * sleeps `SHRAOEPS`
 * through `THRU`
@@ -137,15 +139,17 @@
 * he `HE`
 * shows `SHOES`
 * himself. `H*EUPLS TP-PL`
+* He `KPA/HE`
 * very `SRE`
 * old. `OLD TP-PL`
-* grandmother `TKPWR-PL`
+* Grandmother `KPA/TKPWR-PL`
 * says `SEZ`
 * she `SHE`
 * has `HAS`
 * heard `HAERD`
 * her `HER`
 * own `OEPB`
+* grandmother `TKPWR-PL`
 * tell `TEL`
 * him; `HEUPL STPH*FPLT`
 * said `SAEUD`
@@ -154,14 +158,14 @@
 * solitary `SOL/TAER`
 * life, `HRAOEUF KW-BG`
 * have `SR`
-* Nobody `TPHOEB`
+* nobody `TPHOEB`
 * whom `WHOPL`
 * converse `KWERS`
 * save `SAF`
 * church `KHUFRPB`
-* Bell. `PWEL TP-PL`
-* Once `WUPBS`
-* Bell `PWEL`
+* Bell. `PWEL/PWEL TP-PL`
+* Once `KPA/WUPBS`
+* Bell `PWEL/PWEL`
 * hung `HUPBG`
 * tower; `TOUR STPH*FPLT`
 * now `TPHOU`
@@ -172,10 +176,10 @@
 * or `OR`
 * church, `KHUFRPB KW-BG`
 * was `WAS`
-* St. `ST* TP-PL`
+* St. `KPA/ST* TP-PL`
 * Alban's. `xxx Alban AE S* TP-PL`
 * sounded `SOUPBD/-D`
-* Bell, `PWEL KW-BG`
+* Bell, `PWEL/PWEL KW-BG`
 * when `WHEPB`
 * still `STEUL`
 * stood `STAOD`
@@ -186,6 +190,7 @@
 * swinging `SWEUPBG/-G`
 * away `A/WAEU`
 * bravely, `PWRAEUFL KW-BG`
+* it `T`
 * broke `PWROEBG`
 * loose `HRAOS`
 * came `KAEUPL`
@@ -196,25 +201,28 @@
 * shining `SHAOEUPBG`
 * ruddy `RUD/TKEU`
 * beam. `PWAEPL TP-PL`
-* Ding-dong! `TKEUPBG H-PB TKOPBG SKHRAPL`
+* ding-dong! `TKEUPBG H-PB TKOPBG SKHRAPL`
+* Now `KPA/TPHOU`
 * I'll `AOEUL`
 * retire `RAO*EUR`
 * rest!" `REFT SKHRAPL KR-GS`
 * sang `SAPBG`
 * flew `TPHRAOU`
 * into `TPHAO`
-* Odense-Au, `xxx Odense H-PB A*P/*UP KW-BG`
+* Odense-Au, `xxx Odense H-PB xxx Au KW-BG`
 * where `W-R`
 * deepest; `TKAOEP/EFT STPH*FPLT`
 * why `KWR`
 * place `PHRAEUS`
 * "bell-deep." `KR-GS PWEL H-PB TKAOEP TP-PL KR-GS`
+* But `KPA/PWUT`
 * got `TKPWOT`
 * neither `TPHAOERT`
 * rest `REFT`
 * nor `TPH-R`
 * sleep. `SHRAOEP TP-PL`
-* Au-mann's `A*P/*UP H-PB PHAPB/PHAPB AES`
+* Down `KPA/TKOUPB`
+* Au-mann's `xxx Au H-PB xxx mann AES`
 * haunt `HAUPBT`
 * rings, `REUPBGS KW-BG`
 * so `SO`
@@ -235,10 +243,11 @@
 * true, `TRAOU KW-BG`
 * only `OEPBL`
 * talking `TAUG`
-* Au-mann, `A*P/*UP H-PB PHAPB/PHAPB KW-BG`
+* Au-mann, `xxx Au H-PB xxx mann KW-BG`
 * who `WHO`
 * longer `HRORPBG`
 * alone. `A/HROEPB TP-PL`
+* And `AFPBD`
 * what `WHA`
 * telling? `TELG H-F`
 * old, `OLD KW-BG`
@@ -260,7 +269,7 @@
 * hose `HOES`
 * eel-skin, `AOEL H-PB SKEUPB KW-BG`
 * scaly `SKAEU/HREU`
-* Jacket `SKWRABGT`
+* Jacket `KPA/SKWRABGT`
 * lilies `HREUL/KWREU/KWREU/-S`
 * buttons, `PW*UPBTS KW-BG`
 * wreath `WRAO*ET`
@@ -271,7 +280,9 @@
 * looks `HRAOBGS`
 * all `AUL`
 * that. `THA TP-PL`
+* What `KPA/WHA`
 * tells? `TELS H-F`
+* To `KPA/TO`
 * repeat `RE/PAOET`
 * would `WO`
 * require `RAOEUR`
@@ -288,7 +299,7 @@
 * times, `TAOEUPLS KW-BG`
 * hard `HARD`
 * thus: `THUS STPH-FPLT`
-* "In `KR-GS TPH`
+* "In `KR-GS KPA/TPH`
 * Alban, `xxx Alban KW-BG`
 * monk `PHO*PBG`
 * had `H`
@@ -326,10 +337,12 @@
 * beat `PWAET`
 * quicker `KW*EURBG`
 * thought. `THAUT TP-PL`
-* Yes, `KWRE KW-BG`
+* Ding-dong! `KPA/TKEUPBG H-PB TKOPBG SKHRAPL`
+* Yes, `KPA/KWRE KW-BG`
+* this `TH`
 * story `STOER`
 * told. `TOLD TP-PL`
-* "Into `KR-GS TPHAO`
+* "Into `KR-GS KPA/TPHAO`
 * also `HR-S`
 * dapper `TKAP/ER`
 * man-servant `PHAPB H-PB SEFRB/APBT`
@@ -358,7 +371,7 @@
 * stringed `STREUPBG/-D`
 * instrument; `STRUPLT STPH*FPLT`
 * it. `T TP-PL`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * may `PHAE`
 * sing `SEUPBG`
 * aloud, `A/HROUD KW-BG`
@@ -371,25 +384,30 @@
 * behind `HEUPBD`
 * lock `HROBG`
 * bars. `PWARS TP-PL`
-* Yonder `KWROPBD/ER`
+* Yonder `KPA/KWROPBD/ER`
 * cold `KOELD`
 * wet. `WET TP-PL`
+* The `KPA/-T`
 * rats `RATS`
 * eating `AOEGT`
 * alive! `A/HRAOEUF SKHRAPL`
+* Nobody `KPA/TPHOEB`
 * it! `T SKHRAPL`
 * hears `HAERS`
+* Not `KPA/TPHOT`
 * even `AOEPB`
 * now, `TPHOU KW-BG`
+* bell `PWEL`
 * ringing `REUPBG/-G`
 * singing `SEUPBG/-G`
 * loud `HROUD`
-* Ding-dong, `TKEUPBG H-PB TKOPBG KW-BG`
+* Ding-dong, `KPA/TKEUPBG H-PB TKOPBG KW-BG`
 * ding-dong!' `TKEUPBG H-PB TKOPBG SKHRAPL AE`
-* "There `KR-GS THR`
-* King `KEUPBG`
+* "There `KR-GS KPA/THR`
+* King `KO*EUPBG`
 * those `THOZ`
 * days. `TKAEUS TP-PL`
+* They `KPA/THE`
 * him `HEUPL`
 * Canute. `xxx Canute TP-PL`
 * bowed `PWOE/-D`
@@ -445,7 +463,7 @@
 * guard `TKPWARD`
 * drawn `TKRAUPB`
 * swords; `SOERDZ STPH*FPLT`
-* King's `KEUPBG AES`
+* King's `KO*EUPBG AES`
 * servant, `SEFRB/APBT KW-BG`
 * treacherous `TREFP/ROUS`
 * Blake, `PWHRAEUBG KW-BG`
@@ -455,7 +473,7 @@
 * knew `TPHAOU`
 * could `KO`
 * hit `HEUT`
-* King, `KEUPBG KW-BG`
+* King, `KO*EUPBG KW-BG`
 * them `THEPL`
 * flung `TPHRUPBG`
 * stone `STOEPB`
@@ -470,8 +488,8 @@
 * birds `PWEURDZ`
 * joined `SKWROEUPBD`
 * also; `HR-S STPH*FPLT`
-* 'Ding-dong! `AE TKEUPBG H-PB TKOPBG SKHRAPL`
-* "The `KR-GS -T`
+* 'Ding-dong! `AE KPA/TKEUPBG H-PB TKOPBG SKHRAPL`
+* "The `KR-GS KPA/-T`
 * hangs `HAPBGS`
 * high, `HAOEU KW-BG`
 * around, `ARPBD KW-BG`
@@ -489,7 +507,7 @@
 * tongue, `TUPBG KW-BG`
 * rings `REUPBGS`
 * world, `WORLD KW-BG`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * too `TAO`
 * much `PHUFP`
 * me `PHE`
@@ -506,13 +524,14 @@
 * broke, `PWROEBG KW-BG`
 * gleaming `TKPWHRAOEPL/-G`
 * deepest, `TKAOEP/EFT KW-BG`
-* Au-mann `A*P/*UP H-PB PHAPB/PHAPB`
+* Au-mann `xxx Au H-PB xxx mann`
 * lives, `HREUFS KW-BG`
 * alone; `A/HROEPB STPH*FPLT`
 * know. `TPHOE TP-PL`
-* Thus `THUS`
+* Thus `KPA/THUS`
 * complainingly `KPHRAEUPBG/HREU`
 * bell-deep `PWEL H-PB TKAOEP`
+* That `KPA/THA`
 * told `TOLD`
 * us. `US TP-PL`
 * schoolmaster `xxx schoolmaster`
@@ -537,7 +556,7 @@
 * agreed `TKPWRAED`
 * point, `POEUPBT KW-BG`
 * sure. `SHUR TP-PL`
-* "Be `KR-GS -B`
+* "Be `KR-GS KPA/-B`
 * cautious, `KAURBS KW-BG`
 * take `TAEUBG`
 * good `TKPWAOD`
@@ -554,7 +573,7 @@
 * speaks `SPAOEBGS`
 * does `TKOS`
 * depths `TK*EPTS`
-* Odense-Au `xxx Odense H-PB A*P/*UP`
+* Odense-Au `xxx Odense H-PB xxx Au`
 * dwells. `TKWEL/-S TP-PL`
 * vault `SRALT`
 * heaven, `HEFPB KW-BG`

@@ -1,11 +1,11 @@
 # The Fox and the Grapes
 
-* One `WUPB`
+* One `KPA/WUPB`
 * hot `HOT`
 * summer's `SAOURPL AES`
 * day `TKAEU`
 * a `AEU`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * was `WAS`
 * strolling `STROELG`
 * through `THRU`
@@ -17,7 +17,7 @@
 * to `TO`
 * bunch `PWUFRPB`
 * of `-F`
-* Grapes `TKPWRAEUPS`
+* Grapes `KPA/TKPWRAEUPS`
 * just `SKWRUFT`
 * ripening `RAOEUP/-PBG`
 * on `OPB`
@@ -29,7 +29,7 @@
 * over `OEFR`
 * lofty `HROF/TEU`
 * branch. `PWRAFRPB TP-PL`
-* "Just `KR-GS SKWRUFT`
+* "Just `KR-GS KPA/SKWRUFT`
 * the `-T`
 * thing `THEUPBG`
 * quench `KWEFRPB`
@@ -37,7 +37,7 @@
 * thirst," `THEUFRT KW-BG KR-GS`
 * quoth `KWO*ET`
 * he. `HE TP-PL`
-* Drawing `TKRAUG`
+* Drawing `KPA/TKRAUG`
 * back `PWABG`
 * few `TPAOU`
 * paces, `PAEUS/-S KW-BG`
@@ -47,19 +47,20 @@
 * jump, `SKWRUFRP KW-BG`
 * missed `PHEUFD`
 * bunch. `PWUFRPB TP-PL`
-* Turning `TURPBG`
+* Turning `KPA/TURPBG`
 * round `ROUPBD`
 * again `TKPWEPB`
 * with `W`
-* One, `WUPB KW-BG`
-* Two, `TWO KW-BG`
-* Three, `THRAOE KW-BG`
+* One, `KPA/WUPB KW-BG`
+* Two, `KPA/TWO KW-BG`
+* Three, `KPA/THRAOE KW-BG`
 * jumped `SKWR*UPLD`
 * up, `UP KW-BG`
 * but `PWUT`
 * no `TPHO`
 * greater `TKPWRAERT`
 * success. `SKES TP-PL`
+* Again `KPA/TKPWEPB`
 * tried `TRAOEUD`
 * after `AF`
 * tempting `TEPLT/-G`
@@ -67,7 +68,7 @@
 * at `AT`
 * last `HRAFT`
 * give `TKPWEUF`
-* It `T`
+* it `T`
 * walked `WAUBGD`
 * away `A/WAEU`
 * his `HEUS`
@@ -81,6 +82,7 @@
 * they `THE`
 * are `R`
 * sour." `SOUR TP-PL KR-GS`
+* It `KPA/T`
 * is `S`
 * easy `EZ`
 * despise `STKPAOEUZ`

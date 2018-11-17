@@ -1,7 +1,7 @@
 # The Peacock and Juno
 
 * A `KPA/AEU`
-* Peacock `PAE/KOBG`
+* Peacock `KPA/PAE/KOBG`
 * once `WUPBS`
 * placed `PHRAEUFD`
 * a `AEU`
@@ -23,7 +23,7 @@
 * but `PWUT`
 * refused `RAO*UFD`
 * request. `KW TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * he `HE`
 * persisted, `PER/SEUFTD KW-BG`
 * and `SKP`
@@ -36,7 +36,7 @@
 * bird, `PWEURD KW-BG`
 * she `SHE`
 * said: `SAEUD STPH-FPLT`
-* "Be `KR-GS -B`
+* "Be `KR-GS KPA/-B`
 * content `KAUPBT`
 * with `W`
 * your `KWROUR`

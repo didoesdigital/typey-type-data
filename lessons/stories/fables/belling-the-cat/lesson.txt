@@ -1,6 +1,6 @@
 Belling the Cat
 
-'Long': HROPBG
+'Long': KPA/HROPBG
 'ago,': AG KW-BG
 'the': -T
 'mice': PHAOEUS
@@ -21,8 +21,8 @@ Belling the Cat
 'common': KPHOPB
 'enemy,': EPB/PHEU KW-BG
 'the': -T
-'Cat.': KAT TP-PL
-'Some': SOPL
+'Cat.': KPA/KAT TP-PL
+'Some': KPA/SOPL
 'said': SAEUD
 'this,': TH KW-BG
 'and': SKP
@@ -52,7 +52,7 @@ Belling the Cat
 'meet': PHAOET
 'the': -T
 'case.': KAEUS TP-PL
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'will': HR
 'all': AUL
 'agree,"': TKPWRAE KW-BG KR-GS
@@ -75,7 +75,7 @@ Belling the Cat
 'enemy': EPB/PHEU
 'approaches': A/PROEFPS
 'us.': US TP-PL
-'Now,': TPHOU KW-BG
+'Now,': KPA/TPHOU KW-BG
 'if': TP
 'we': WE
 'could': KO
@@ -112,8 +112,8 @@ Belling the Cat
 'neck': TPHEBG
 'of': -F
 'the': -T
-'Cat.': KAT TP-PL
-'By': PWEU
+'Cat.': KPA/KAT TP-PL
+'By': KPA/PWEU
 'this': TH
 'means': PHAOEPBS
 'we': WE
@@ -134,7 +134,7 @@ Belling the Cat
 'in': TPH
 'the': -T
 'neighbourhood."': TPHAOD/A*U TP-PL KR-GS
-'This': TH
+'This': KPA/TH
 'proposal': PROEL
 'met': PHET
 'with': W
@@ -148,7 +148,7 @@ Belling the Cat
 'up': UP
 'and': SKP
 'said:': SAEUD STPH-FPLT
-'"That': KR-GS THA
+'"That': KR-GS KPA/THA
 'is': S
 'all': AUL
 'very': SRE
@@ -159,8 +159,8 @@ Belling the Cat
 'to': TO
 'bell': PWEL
 'the': -T
-'Cat?"': KAT H-F KR-GS
-'The': -T
+'Cat?"': KPA/KAT H-F KR-GS
+'The': KPA/-T
 'mice': PHAOEUS
 'looked': HRAOBGD
 'at': AT
@@ -169,12 +169,12 @@ Belling the Cat
 'and': SKP
 'nobody': TPHOEB
 'spoke.': SPOEBG TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'old': OLD
 'mouse': PHOUS
 'said:': SAEUD STPH-FPLT
-'"It': KR-GS T
+'"It': KR-GS KPA/T
 'is': S
 'easy': EZ
 'to': TO

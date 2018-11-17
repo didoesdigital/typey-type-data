@@ -1,13 +1,13 @@
 The Buffoon and the Countryman
 
-'At': AT
+'At': KPA/AT
 'a': AEU
 'country': KREU
 'fair': TPAEUR
 'there': THR
 'was': WAS
 'a': AEU
-'Buffoon': PWU/TPAOPB
+'Buffoon': KPA/PWU/TPAOPB
 'who': WHO
 'made': PHAED
 'all': AUL
@@ -21,7 +21,7 @@ The Buffoon and the Countryman
 'of': -F
 'various': SRAEURS
 'animals.': PHAPBLS TP-PL
-'He': HE
+'He': KPA/HE
 'finished': TP*EURBD
 'off': OF
 'by': PWEU
@@ -42,22 +42,22 @@ The Buffoon and the Countryman
 'concealed': KAUPB/SAOELD
 'about': PW
 'him.': HEUPL TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'a': AEU
-'Countryman': KREU/PHA*PB
+'Countryman': KPA/KREU/PHA*PB
 'who': WHO
 'stood': STAOD
 'by': PWEU
 'said:': SAEUD STPH-FPLT
-'"Call': KR-GS KAUL
+'"Call': KR-GS KPA/KAUL
 'that': THA
 'a': AEU
 'pig's': PEUG AES
 'squeak!': SKWAOEBG SKHRAPL
-'Nothing': TPHOG
+'Nothing': KPA/TPHOG
 'like': HRAOEUBG
 'it.': T TP-PL
-'You': U
+'You': KPA/U
 'give': TKPWEUF
 'me': PHE
 'till': T*EUL
@@ -70,7 +70,7 @@ The Buffoon and the Countryman
 'what': WHA
 'it's': T-S
 'like."': HRAOEUBG TP-PL KR-GS
-'The': -T
+'The': KPA/-T
 'audience': AUPBS
 'laughed,': HRAFD KW-BG
 'but': PWUT
@@ -79,7 +79,7 @@ The Buffoon and the Countryman
 'sure': SHUR
 'enough,': TPHUF KW-BG
 'the': -T
-'Countryman': KREU/PHA*PB
+'Countryman': KPA/KREU/PHA*PB
 'appeared': A/PAOERD
 'on': OPB
 'the': -T
@@ -105,7 +105,7 @@ The Buffoon and the Countryman
 'make': PHAEUBG
 'him': HEUPL
 'stop.': STOP TP-PL
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'fools!"': TPAOLS SKHRAPL KR-GS
 'he': HE
 'cried,': KRAOEUD KW-BG
@@ -133,7 +133,7 @@ The Buffoon and the Countryman
 'utter': UT/ER
 'the': -T
 'squeals.': SKWAOELS TP-PL
-'Men': PHEPB
+'Men': KPA/PHEPB
 'often': OFPB
 'applaud': A/PHRAUD
 'an': APB

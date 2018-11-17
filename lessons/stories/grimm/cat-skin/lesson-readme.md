@@ -1,6 +1,6 @@
 # Cat-Skin
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -28,7 +28,7 @@
 * whole `WHOEL`
 * face `TPAEUS`
 * earth. `*ERT TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * this `TH`
 * fell `TPEL`
 * ill, `EUL KW-BG`
@@ -41,7 +41,7 @@
 * called `KAULD`
 * king `KEUPBG`
 * said, `SAEUD KW-BG`
-* 'Promise `AE PROPLS`
+* 'Promise `AE KPA/PROPLS`
 * me `PHE`
 * you `U`
 * will `HR`
@@ -60,7 +60,7 @@
 * golden `TKOELD/*EPB`
 * like `HRAOEUBG`
 * mine.' `PHAOEUPB TP-PL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * in `TPH`
 * his `HEUS`
 * grief `TKPWRAOEF`
@@ -78,9 +78,9 @@
 * taking `TAEUG`
 * another `TPHOER`
 * wife. `WAOEUF TP-PL`
-* at `AT`
+* At `KPA/AT`
 * last, `HRAFT KW-BG`
-* However, `HOUF KW-BG`
+* however, `HOUF KW-BG`
 * wise `WAOEUS`
 * men `PHEPB`
 * 'this `AE TH`
@@ -90,6 +90,7 @@
 * may `PHAE`
 * have `SR`
 * queen.' `KWAOEPB TP-PL AE`
+* So `KPA/SO`
 * messengers `PHAEPBG/-S`
 * were `WR`
 * sent `SEPBT`
@@ -99,6 +100,7 @@
 * bride `PWRAOEUD`
 * late `HRAEUT`
 * queen. `KWAOEPB TP-PL`
+* there `THR`
 * no `TPHO`
 * princess `PREUPB/ES`
 * world `WORLD`
@@ -114,22 +116,26 @@
 * their `THAEUR`
 * trouble `TRUBL`
 * nothing. `TPHOG TP-PL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * daughter, `TKAUR KW-BG`
 * just `SKWRUFT`
 * mother, `PHOER KW-BG`
 * same `SAEUPL`
+* And `AFPBD`
 * grown `TKPWROEPB`
 * up, `UP KW-BG`
 * looked `HRAOBGD`
+* at `AT`
 * saw `SAU`
 * queen: `KWAOEPB STPH-FPLT`
+* then `THEPB`
 * he `HE`
 * said `SAEUD`
 * courtiers, `KORT/KWRERS KW-BG`
 * 'May `AE PHAE`
 * my `PHEU`
 * daughter? `TKAUR H-F`
+* She `KPA/SHE`
 * very `SRE`
 * image `EUPBLG`
 * dead `TKED`
@@ -141,16 +147,17 @@
 * upon `POPB`
 * earth, `*ERT KW-BG`
 * say `SAEU`
+* When `KPA/WHEPB`
 * courtiers `KORT/KWRERS`
 * heard `HAERD`
 * they `THE`
 * shocked, `SHOBGD KW-BG`
-* 'Heaven `AE HEFPB`
+* 'Heaven `AE KPA/HEFPB`
 * forbid `TPORBD`
 * father `TPAER`
 * should `SHO`
 * daughter! `TKAUR SKHRAPL`
-* out `OUT`
+* Out `KPA/OUT`
 * great `TKPWRAET`
 * sin `SEUPB`
 * good `TKPWAOD`
@@ -158,6 +165,7 @@
 * come.' `KOPL TP-PL AE`
 * daughter `TKAUR`
 * also `HR-S`
+* but `PWUT`
 * hoped `HOEPD`
 * would `WO`
 * soon `SAOPB`
@@ -166,7 +174,7 @@
 * such `SUFP`
 * thoughts; `THAUTS STPH*FPLT`
 * him, `HEUPL KW-BG`
-* 'Before `AE PW-F`
+* 'Before `AE KPA/PW-F`
 * anyone `TPHEUPB`
 * three `THRAOE`
 * dresses: `TKRES/-S STPH-FPLT`
@@ -193,7 +201,7 @@
 * kingdom `KEUPBG/TKOPL`
 * part `PART`
 * skin.' `SKEUPB TP-PL AE`
-* Thus `THUS`
+* thus `THUS`
 * think `THEU`
 * matter `PHAERT`
 * more. `PHOR TP-PL`
@@ -208,6 +216,7 @@
 * hunters `HURPBTS`
 * told `TOLD`
 * hunt `HUPBT`
+* out `OUT`
 * beasts `PWAOEFT/-S`
 * kingdom, `KEUPBG/TKOPL KW-BG`
 * take `TAEUBG`
@@ -240,7 +249,7 @@
 * hands `HAPBDZ`
 * soot. `SAOT TP-PL`
 * threw `THRAOU`
-* Heaven `HEFPB`
+* Heaven `KPA/HEFPB`
 * help `HEP`
 * need, `TPHAOED KW-BG`
 * went `WEPBT`
@@ -251,6 +260,7 @@
 * last `HRAFT`
 * large `HRARPBLG`
 * wood. `WAOD TP-PL`
+* As `KPA/AZ`
 * tired, `TAOEURD KW-BG`
 * sat `SAT`
 * down `TKOUPB`
@@ -274,7 +284,7 @@
 * round `ROUPBD`
 * round, `ROUPBD KW-BG`
 * bark. `PWARBG TP-PL`
-* 'Look `AE HRAOBG`
+* 'Look `AE KPA/HRAOBG`
 * sharp!' `SHARP SKHRAPL AE`
 * huntsmen, `HUPBTS/PH*EPB KW-BG`
 * 'and `AE SKP`
@@ -287,7 +297,7 @@
 * huntsmen `HUPBTS/PH*EPB`
 * back `PWABG`
 * again `TKPWEPB`
-* 'In `AE TPH`
+* 'In `AE KPA/TPH`
 * wonderful `WUFL`
 * beast, `PWAOEFT KW-BG`
 * before; `PW-F STPH*FPLT`
@@ -296,7 +306,7 @@
 * seems `SAOEPLS`
 * fast `TPAFT`
 * asleep.' `A/HRAOEP TP-PL AE`
-* 'See,' `AE SAOE KW-BG AE`
+* 'See,' `AE KPA/SAOE KW-BG AE`
 * 'if `AE TP`
 * catch `KAFP`
 * alive, `A/HRAOEUF KW-BG`
@@ -315,9 +325,9 @@
 * left; `HREFT STPH*FPLT`
 * pity `PEUT/TEU`
 * you.' `U TP-PL AE`
-* 'Yes, `AE KWRE KW-BG`
-* Miss `PHEUS`
-* Cat-skin, `KAT H-PB SKEUPB KW-BG`
+* 'Yes, `AE KPA/KWRE KW-BG`
+* Miss `KPA/PHEUS`
+* Cat-skin, `KPA/KAT H-PB SKEUPB KW-BG`
 * do `TKO`
 * kitchen; `K-FP STPH*FPLT`
 * sweep `SWAOEP`
@@ -340,7 +350,7 @@
 * ever `-FR`
 * peeped `PAOEPD`
 * in, `TPH KW-BG`
-* 'Cat-skin, `AE KAT H-PB SKEUPB KW-BG`
+* 'Cat-skin, `AE KPA/KAT H-PB SKEUPB KW-BG`
 * lie `HRAOEU`
 * sleep `SHRAOEP`
 * kitchen, `K-FP KW-BG`
@@ -355,14 +365,16 @@
 * sift `SEUFT`
 * dirty `TKOEURT`
 * work. `WORBG TP-PL`
-* Cat-skin `KAT H-PB SKEUPB`
+* Thus `KPA/THUS`
+* Cat-skin `KPA/KAT H-PB SKEUPB`
 * lived `HREUFD`
 * sorrowfully. `SOR/ROEFL/HREU TP-PL`
-* 'Ah! `AE HA*E SKHRAPL`
+* 'Ah! `AE KPA/HA*E SKHRAPL`
 * pretty `PREUT`
 * princess!' `PREUPB/ES SKHRAPL AE`
 * she, `SHE KW-BG`
 * 'what `AE WHA`
+* now `TPHOU`
 * become `PW-BG`
 * thee?' `THAOE H-F AE`
 * happened `HAPD`
@@ -404,7 +416,7 @@
 * brought `PWRAUT`
 * dress `TKRES`
 * feast. `TPAOEFT TP-PL`
-* Everyone `EFRPB`
+* Everyone `KPA/EFRPB`
 * way `WAEU`
 * nobody `TPHOEB`
 * knew `TPHAOU`
@@ -420,6 +432,7 @@
 * curtsied; `xxx curtsied STPH*FPLT`
 * gone, `TKPWOPB KW-BG`
 * wither. `W*EUT/ER TP-PL`
+* The `KPA/-T`
 * guards `TKPWARDZ`
 * stood `STAOD`
 * castle `KAFL`
@@ -437,7 +450,7 @@
 * again. `TKPWEPB TP-PL`
 * kitchen `K-FP`
 * work, `WORBG KW-BG`
-* 'Let `AE HRET`
+* 'Let `AE KPA/HRET`
 * alone `A/HROEPB`
 * morning, `PHORPBG KW-BG`
 * heat `HAOET`
@@ -480,7 +493,7 @@
 * for. `TPOR TP-PL`
 * frightened `TPRAOEUPBD`
 * order, `ORD KW-BG`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * so, `SO KW-BG`
 * beating.' `PWAEGT TP-PL AE`
 * before `PW-F`
@@ -490,28 +503,29 @@
 * did,' `TK KW-BG AE`
 * answered `AEPBS/-D`
 * cook. `KAOBG TP-PL`
-* 'that `AE THA`
+* 'That `AE KPA/THA`
 * true; `TRAOU STPH*FPLT`
 * better `PWOERT`
 * done `TKOPB`
 * it.' `T TP-PL AE`
 * answered, `AEPBS/-D KW-BG`
-* 'To `AE TO`
+* 'To `AE KPA/TO`
 * tell `TEL`
 * did `TK`
 * did.' `TK TP-PL AE`
-* 'Then `AE THEPB`
+* 'Then `AE KPA/THEPB`
 * come `KOPL`
 * up,' `UP KW-BG AE`
 * king: `KEUPBG STPH-FPLT`
-* 'Who `AE WHO`
+* 'Who `AE KPA/WHO`
 * are `R`
 * you?' `U H-F AE`
 * child,' `KHAOEULD KW-BG AE`
+* 'that `AE THA`
 * lost `HRO*S`
 * both `PWO*T`
 * mother.' `PHOER TP-PL AE`
-* 'How `AE HOU`
+* 'How `AE KPA/HOU`
 * palace?' `PAL/AS H-F AE`
 * he. `HE TP-PL`
 * nothing,' `TPHOG KW-BG AE`
@@ -521,6 +535,7 @@
 * shoes `SHAOUS`
 * thrown `THROEPB`
 * head.' `HED TP-PL AE`
+* 'But `AE KPA/PWUT`
 * get `TKPWET`
 * soup?' `SOUP H-F AE`
 * king. `KEUPBG TP-PL`
@@ -530,9 +545,9 @@
 * ring; `REUPBG STPH*FPLT`
 * away `A/WAEU`
 * business. `PWEUS TP-PL`
-* After `AF`
+* After `KPA/AF`
 * feast, `TPAOEFT KW-BG`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * he, `HE KW-BG`
 * hour, `HOUR KW-BG`
 * likes `HRAOEUBGS`
@@ -551,7 +566,7 @@
 * slyly `SHRAOEU/HREU`
 * gone; `TKPWOPB STPH*FPLT`
 * sprang `SPRAPBG`
-* whilst `WHAOEULS`
+* Whilst `KPA/WHAOEULS`
 * above `PWOF`
 * stairs, `STAEURS KW-BG`
 * necklace `TPHEBG/HRAS`
@@ -565,18 +580,20 @@
 * head. `HED TP-PL`
 * ready `R-D`
 * witch, `WEUFP KW-BG`
-* Cat-skin,' `KAT H-PB SKEUPB KW-BG AE`
+* Cat-skin,' `KPA/KAT H-PB SKEUPB KW-BG AE`
 * cook; `KAOBG STPH*FPLT`
 * 'for `AE TPOR`
 * always `AULS`
 * something `S-G`
 * your `KWROUR`
 * pleases `PHRAOES/-S`
+* However, `KPA/HOUF KW-BG`
 * sparkled `SPAR/K-LD`
 * stars, `STARS KW-BG`
 * ball-room `PWAUL H-PB RAOPL`
 * it; `T STPH*FPLT`
 * then. `THEPB TP-PL`
+* whilst `WHAOEULS`
 * dancing `TKAPBS/-G`
 * finger `TPURPBG`
 * without `WOUT`

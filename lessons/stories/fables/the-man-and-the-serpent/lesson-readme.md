@@ -1,25 +1,25 @@
 # The Man and the Serpent
 
 * A `KPA/AEU`
-* Countryman's `KREU/PHA*PB AES`
+* Countryman's `KPA/KREU/PHA*PB AES`
 * son `SOPB`
 * by `PWEU`
 * accident `STKEPB`
 * trod `TROD`
 * upon `POPB`
 * a `AEU`
-* Serpent's `SERP/EPBT AES`
+* Serpent's `KPA/SERP/EPBT AES`
 * tail, `TAEUL KW-BG`
 * which `WEU`
 * turned `TURPBD`
 * and `SKP`
 * bit `PWEUT`
 * him `HEUPL`
-* So `SO`
+* so `SO`
 * that `THA`
 * he `HE`
 * died. `TKAOEUD TP-PL`
-* the `-T`
+* The `KPA/-T`
 * father `TPAER`
 * in `TPH`
 * rage `RAEUPBLG`
@@ -27,25 +27,27 @@
 * his `HEUS`
 * axe, `ABGS KW-BG`
 * pursuing `PUR/SAOUG`
-* Serpent, `SERP/EPBT KW-BG`
+* the `-T`
+* Serpent, `KPA/SERP/EPBT KW-BG`
 * cut `KUT`
 * off `OF`
 * part `PART`
 * of `-F`
 * its `EUTS`
 * tail. `TAEUL TP-PL`
-* Serpent `SERP/EPBT`
+* So `KPA/SO`
+* Serpent `KPA/SERP/EPBT`
 * revenge `RE/SREPBG`
 * began `TKPWAPB`
 * stinging `STEUPBG/-G`
 * several `SEFRL`
-* Farmer's `TPAR/PHER AES`
+* Farmer's `KPA/TPAR/PHER AES`
 * cattle `KA*LT`
 * caused `KAUFD`
 * severe `SWAOER`
 * loss. `HROS TP-PL`
-* Well, `WEL KW-BG`
-* Farmer `TPAR/PHER`
+* Well, `KPA/WEL KW-BG`
+* Farmer `KPA/TPAR/PHER`
 * thought `THAUT`
 * it `T`
 * best `PWEFT`
@@ -60,7 +62,7 @@
 * lair, `HRA*EUR KW-BG`
 * said `SAEUD`
 * it: `T STPH-FPLT`
-* "Let's `KR-GS HRET AES`
+* "Let's `KR-GS KPA/HRET AES`
 * forget `TPERGT`
 * forgive; `TPAURG STPH*FPLT`
 * perhaps `PRAPS`
@@ -91,9 +93,9 @@
 * be `-B`
 * friends `TPREPBDZ`
 * again?" `TKPWEPB H-F KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * no," `TPHO KW-BG KR-GS`
-* Serpent; `SERP/EPBT STPH*FPLT`
+* Serpent; `KPA/SERP/EPBT STPH*FPLT`
 * "take `KR-GS TAEUBG`
 * away `A/WAEU`
 * your `KWROUR`
@@ -104,7 +106,7 @@
 * nor `TPH-R`
 * loss `HROS`
 * tail." `TAEUL TP-PL KR-GS`
-* Injuries `SKWR*RS`
+* Injuries `KPA/SKWR*RS`
 * may `PHAE`
 * forgiven, `TPAURGD KW-BG`
 * forgotten. `TPORGTD TP-PL`

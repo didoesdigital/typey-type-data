@@ -2,7 +2,7 @@ The Dog and the Wolf
 
 'A': KPA/AEU
 'gaunt': TKPWAUPBT
-'Wolf': WOFL
+'Wolf': KPA/WOFL
 'was': WAS
 'almost': HR-PL
 'dead': TKED
@@ -14,16 +14,16 @@ The Dog and the Wolf
 'to': TO
 'meet': PHAOET
 'a': AEU
-'House-dog': HOUS H-PB TKOG
+'House-dog': KPA/HOUS H-PB TKOG
 'who': WHO
 'was': WAS
 'passing': PAFG
 'by.': PWEU TP-PL
-'"Ah,': KR-GS HA*E KW-BG
-'Cousin,"': KUZ KW-BG KR-GS
+'"Ah,': KR-GS KPA/HA*E KW-BG
+'Cousin,"': KPA/KUZ KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Dog.': TKOG TP-PL
+'Dog.': KPA/TKOG TP-PL
 '"I': KR-GS EU
 'knew': TPHAOU
 'how': HOU
@@ -40,7 +40,7 @@ The Dog and the Wolf
 'ruin': RAOUPB
 'of': -F
 'you.': U TP-PL
-'Why': KWR
+'Why': KPA/KWR
 'do': TKO
 'you': U
 'not': TPHOT
@@ -64,7 +64,7 @@ The Dog and the Wolf
 'objection,"': OBGS KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Wolf,': WOFL KW-BG
+'Wolf,': KPA/WOFL KW-BG
 '"if': KR-GS TP
 'I': EU
 'could': KO
@@ -81,7 +81,7 @@ The Dog and the Wolf
 'you,"': U KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Dog;': TKOG STPH*FPLT
+'Dog;': KPA/TKOG STPH*FPLT
 '"come': KR-GS KOPL
 'with': W
 'me': PHE
@@ -94,23 +94,23 @@ The Dog and the Wolf
 'share': SHAEUR
 'my': PHEU
 'work."': WORBG TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'the': -T
-'Wolf': WOFL
+'Wolf': KPA/WOFL
 'and': SKP
 'the': -T
-'Dog': TKOG
+'Dog': KPA/TKOG
 'went': WEPBT
 'towards': TORDZ
 'the': -T
 'town': TOUPB
 'together.': TOGT TP-PL
-'On': OPB
+'On': KPA/OPB
 'the': -T
 'way': WAEU
 'there': THR
 'the': -T
-'Wolf': WOFL
+'Wolf': KPA/WOFL
 'noticed': TPH-TSD
 'that': THA
 'the': -T
@@ -121,7 +121,7 @@ The Dog and the Wolf
 'part': PART
 'of': -F
 'the': -T
-'Dog's': TKOG AES
+'Dog's': KPA/TKOG AES
 'neck': TPHEBG
 'was': WAS
 'very': SRE
@@ -137,14 +137,14 @@ The Dog and the Wolf
 'had': H
 'come': KOPL
 'about.': PW TP-PL
-'"Oh,': KR-GS O*E KW-BG
+'"Oh,': KR-GS KPA/O*E KW-BG
 'it': T
 'is': S
 'nothing,"': TPHOG KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Dog.': TKOG TP-PL
-'"That': KR-GS THA
+'Dog.': KPA/TKOG TP-PL
+'"That': KR-GS KPA/THA
 'is': S
 'only': OEPBL
 'the': -T
@@ -172,19 +172,19 @@ The Dog and the Wolf
 'used': AOUFD
 'to': TO
 'it."': T TP-PL KR-GS
-'"Is': KR-GS S
+'"Is': KR-GS KPA/S
 'that': THA
 'all?"': AUL H-F KR-GS
 'said': SAEUD
 'the': -T
-'Wolf.': WOFL TP-PL
-'"Then': KR-GS THEPB
+'Wolf.': KPA/WOFL TP-PL
+'"Then': KR-GS KPA/THEPB
 'good-bye': TKPWAOB
 'to': TO
 'you,': U KW-BG
-'Master': PHAFRT
-'Dog."': TKOG TP-PL KR-GS
-'Better': PWOERT
+'Master': KPA/PHAFRT
+'Dog."': KPA/TKOG TP-PL KR-GS
+'Better': KPA/PWOERT
 'starve': STAFRB
 'free': TPRAOE
 'than': THAPB

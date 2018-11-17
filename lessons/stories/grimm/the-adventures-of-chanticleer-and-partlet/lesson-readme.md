@@ -1,21 +1,23 @@
 # The Adventures of Chanticleer and Partlet
 
 * 1. `#S TP-PL`
-* HOW `HOU`
-* they `THE`
-* went `WEPBT`
-* to `TO`
-* the `-T`
-* mountains `PHOUPB/TAEUPBS`
-* eat `AOET`
+* HOW `KPA/HOU`
+* THEY `KPA/THE`
+* WENT `KPA/WEPBT`
+* To `KPA/TO`
+* The `KPA/-T`
+* MOUNTAINS `KPA/PHOUPB/TAEUPBS`
+* EAT `KPA/AOET`
+* NUTS `KPA/TPHUTS`
+* 'The `AE KPA/-T`
 * nuts `TPHUTS`
-* 'The `AE -T`
 * are `R`
 * quite `KWAOEUT`
 * ripe `RAOEUP`
 * now,' `TPHOU KW-BG AE`
 * said `SAEUD`
 * Chanticleer `xxx Chanticleer`
+* to `TO`
 * his `HEUS`
 * wife `WAOEUF`
 * Partlet, `xxx Partlet KW-BG`
@@ -23,8 +25,10 @@
 * we `WE`
 * go `TKPW`
 * together `TOGT`
+* the `-T`
 * mountains, `PHOUPB/TAEUPBS KW-BG`
 * and `SKP`
+* eat `AOET`
 * as `AZ`
 * many `PHAEPB`
 * can, `K KW-BG`
@@ -34,7 +38,7 @@
 * them `THEPL`
 * all `AUL`
 * away.' `A/WAEU TP-PL AE`
-* 'With `AE W`
+* 'With `AE KPA/W`
 * my `PHEU`
 * heart,' `HART KW-BG AE`
 * 'let `AE HRET`
@@ -45,7 +49,9 @@
 * of `-F`
 * it `T`
 * together.' `TOGT TP-PL AE`
-* so `SO`
+* So `KPA/SO`
+* they `THE`
+* went `WEPBT`
 * mountains; `PHOUPB/TAEUPBS STPH*FPLT`
 * was `WAS`
 * lovely `HROFL`
@@ -54,11 +60,12 @@
 * there `THR`
 * till `T*EUL`
 * evening. `AOEPBG TP-PL`
-* Now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * whether `WHR`
 * that `THA`
 * had `H`
 * eaten `AOET/EPB`
+* so `SO`
 * could `KO`
 * not `TPHOT`
 * walk, `WAUBG KW-BG`
@@ -97,7 +104,7 @@
 * draw `TKRAU`
 * her `HER`
 * home. `HOEPL TP-PL`
-* 'That's `AE THA AES`
+* 'That's `AE KPA/THA AES`
 * good `TKPWAOD`
 * joke!' `SKWROEBG SKHRAPL AE`
 * Chanticleer; `xxx Chanticleer STPH*FPLT`
@@ -120,7 +127,7 @@
 * like, `HRAOEUBG KW-BG`
 * but `PWUT`
 * draw.' `TKRAU TP-PL AE`
-* While `WHAOEUL`
+* While `KPA/WHAOEUL`
 * this `TH`
 * passing, `PAFG KW-BG`
 * duck `TKUBG`
@@ -129,7 +136,7 @@
 * up `UP`
 * cried `KRAOEUD`
 * out, `OUT KW-BG`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * thieving `THAOEF/-G`
 * vagabonds, `SRAG/PWOPBDZ KW-BG`
 * what `WHA`
@@ -147,6 +154,7 @@
 * fell `TPEL`
 * most `PHOFT`
 * lustily. `HR*US/HREU TP-PL`
+* But `KPA/PWUT`
 * no `TPHO`
 * coward, `KOURD KW-BG`
 * returned `RURPBD`
@@ -156,7 +164,7 @@
 * sharp `SHARP`
 * spurs `SPURS`
 * fiercely `TPAOERS/HREU`
-* Soon `SAOPB`
+* soon `SAOPB`
 * cry `KRAOEU`
 * out `OUT`
 * mercy; `PHER/SEU STPH*FPLT`
@@ -165,21 +173,23 @@
 * granted `TKPWRAPBTD`
 * condition `K-PB`
 * them. `THEPL TP-PL`
+* This `KPA/TH`
 * agreed `TKPWRAED`
 * got `TKPWOT`
 * box, `PWOBGS KW-BG`
 * drove, `TKROEF KW-BG`
 * crying, `KRAOEUG KW-BG`
-* 'Now, `AE TPHOU KW-BG`
+* 'Now, `AE KPA/TPHOU KW-BG`
 * duck, `TKUBG KW-BG`
 * get `TKPWET`
 * fast `TPAFT`
 * can.' `K TP-PL AE`
+* And `AFPBD`
 * away `A/WAEU`
 * at `AT`
 * pretty `PREUT`
 * pace. `PAEUS TP-PL`
-* after `AF`
+* After `KPA/AF`
 * travelled `TRAFLD/A*U`
 * along `A/HROPBG`
 * way, `WAEU KW-BG`
@@ -188,7 +198,7 @@
 * pin `PEUPB`
 * walking `WAUG`
 * road: `RAOD STPH-FPLT`
-* 'Stop, `AE STOP KW-BG`
+* 'Stop, `AE KPA/STOP KW-BG`
 * stop!' `STOP SKHRAPL AE`
 * dark `TKARBG`
 * hardly `HA*RLD`
@@ -207,7 +217,8 @@
 * off, `OF KW-BG`
 * drinking `TKREUG`
 * forgotten `TPORGTD`
-* Late `HRAEUT`
+* how `HOU`
+* late `HRAEUT`
 * was; `WAS STPH*FPLT`
 * begged `PWEGD`
 * therefore `TH-FR`
@@ -229,10 +240,11 @@
 * wheels `WHAOELS`
 * getting `TKPWEGT`
 * in, `TPH KW-BG`
-* Nor `TPH-R`
+* nor `TPH-R`
 * tread `TRED`
 * Partlet's `xxx Partlet AES`
 * toes. `TO*ES TP-PL`
+* Late `KPA/HRAEUT`
 * night `TPHAOEUT`
 * arrived `A/REUFD`
 * an `APB`
@@ -283,7 +295,7 @@
 * spent `SPEPBT`
 * evening `AOEPBG`
 * jollily. `SKWROL/HREU/HREU TP-PL`
-* Early `ERL`
+* Early `KPA/ERL`
 * morning, `PHORPBG KW-BG`
 * light, `HRAOEUT KW-BG`
 * nobody `TPHOEB`
@@ -302,7 +314,7 @@
 * threw `THRAOU`
 * shells `SHELS`
 * fireplace: `TPAOEUR/PHRAEUS STPH-FPLT`
-* Then `THEPB`
+* then `THEPB`
 * needle, `TPHAO*ELD KW-BG`
 * asleep, `A/HRAOEP KW-BG`
 * seizing `SAOEZ/-G`
@@ -319,6 +331,7 @@
 * crept `KREPT`
 * softly `SOFT/HREU`
 * possible. `POB TP-PL`
+* However, `KPA/HOUF KW-BG`
 * slept `SHREPD`
 * open `OEP`
 * air `AEUR`
@@ -331,6 +344,7 @@
 * close `KHROES`
 * swam `SWAPL`
 * reach. `RAOEFP TP-PL`
+* An `KPA/APB`
 * hour `HOUR`
 * two `TWO`
 * afterwards `A*FRDZ`
@@ -351,10 +365,10 @@
 * almost `HR-PL`
 * blinded `PWHRAOEUPBD/-D`
 * him. `HEUPL TP-PL`
-* 'Bless `AE PWRES`
+* 'Bless `AE KPA/PWRES`
 * me!' `PHE SKHRAPL AE`
 * he, `HE KW-BG`
-* 'All `AE AUL`
+* 'all `AE AUL`
 * world `WORLD`
 * seems `SAOEPLS`
 * design `STKAOEUPB`
@@ -371,13 +385,15 @@
 * time `TAOEUPL`
 * pain `PAEUPB`
 * head. `HED TP-PL`
-* Now `TPHOU`
+* He `KPA/HE`
+* now `TPHOU`
 * great `TKPWRAET`
 * passion, `PAGS KW-BG`
 * suspecting `SUS/PEBGT/-G`
 * company `K-P`
 * before, `PW-F KW-BG`
 * look `HRAOBG`
+* after `AF`
 * them, `THEPL KW-BG`
 * off; `OF STPH*FPLT`
 * swore `SWOR`
@@ -392,11 +408,12 @@
 * tricks. `TREUBGS TP-PL`
 * 2. `#T- TP-PL`
 * CHANTICLEER `xxx CHANTICLEER`
+* AND `KPA/SKP`
 * PARTLET `xxx PARTLET`
-* visit `SREUFT`
-* Mr `PH*P/R*`
+* VISIT `KPA/SREUFT`
+* MR `xxx MR`
 * KORBES `xxx KORBES`
-* Another `TPHOER`
+* Another `KPA/TPHOER`
 * wished `WEURBD`
 * ride `RAOEUD`
 * together; `TOGT STPH*FPLT`
@@ -410,19 +427,24 @@
 * it; `T STPH*FPLT`
 * carriage, `KAEURPBLG KW-BG`
 * drove. `TKROEF TP-PL`
+* Soon `KPA/SAOPB`
 * cat `KAT`
 * said, `SAEUD KW-BG`
-* 'Where `AE W-R`
+* 'Where `AE KPA/W-R`
 * going?' `TKPW-G H-F AE`
 * replied, `RE/PHRAOEUD KW-BG`
+* 'All `AE KPA/AUL`
 * our `OUR`
 * way `WAEU`
 * A `KPA/AEU`
+* visit `SREUFT`
 * pay `PAEU`
+* Mr `PH*P/R*`
 * Korbes, `xxx Korbes KW-BG`
 * fox, `TPOBGS KW-BG`
 * today.' `TOED TP-PL AE`
-* 'Take `AE TAEUBG`
+* Then `KPA/THEPB`
+* 'Take `AE KPA/TAEUBG`
 * me `PHE`
 * you,' `U KW-BG AE`
 * heart: `HART STPH-FPLT`
@@ -433,15 +455,19 @@
 * care `KAEUR`
 * coach `KOEFP`
 * mine, `PHAOEUPB KW-BG`
+* Nor `KPA/TPH-R`
 * fine! `TPAOEUPB SKHRAPL`
 * mice, `PHAOEUS KW-BG`
 * ready, `R-D KW-BG`
+* And, `AFPBD KW-BG`
 * run `RUPB`
 * steady! `STAED SKHRAPL`
+* For `KPA/TPOR`
 * going `TKPW-G`
 * millstone, `PHEUL/STOEPB KW-BG`
 * pin; `PEUPB STPH*FPLT`
 * leave `HREF`
+* When `KPA/WHEPB`
 * Korbes's `xxx Korbes AES`
 * house, `HOUS KW-BG`
 * drew `TKRAOU`
@@ -488,10 +514,13 @@
 * killed `KEULD`
 * spot. `SPOT TP-PL`
 * 3. `#P- TP-PL`
-* died `TKAOEUD`
-* BURIED, `PWUR/EUD KW-BG`
-* GRIEF `TKPWRAOEF`
+* DIED `KPA/TKAOEUD`
+* WAS `KPA/WAS`
+* BURIED, `KPA/PWUR/EUD KW-BG`
+* OF `KPA/-F`
+* GRIEF `KPA/TKPWRAOEF`
 * day `TKAEU`
+* mountains `PHOUPB/TAEUPBS`
 * nuts; `TPHUTS STPH*FPLT`
 * settled `S*ELTD`
 * found `TPOUPBD`
@@ -499,6 +528,7 @@
 * shared `SHAEURD`
 * equally `KWAEL`
 * between `TWAOEPB`
+* Now `KPA/TPHOU`
 * large `HRARPBLG`
 * nut; `TPHUT STPH*FPLT`
 * Chanticleer, `xxx Chanticleer KW-BG`
@@ -508,26 +538,26 @@
 * swallow `SWO*EUL`
 * throat. `THROET TP-PL`
 * fright, `TPRAOEUT KW-BG`
-* 'Pray `AE PRAEU`
+* 'Pray `AE KPA/PRAEU`
 * fetch `TPEFP`
 * some `SOPL`
 * water, `WAUR KW-BG`
 * shall `SHAL`
 * choked.' `KHOEBGD TP-PL AE`
 * river, `REUFR KW-BG`
-* 'River, `AE REUFR KW-BG`
+* 'River, `AE KPA/REUFR KW-BG`
 * lies `HRAO*EUS`
 * mountain, `PHOUPB/TAEUPB KW-BG`
 * choked `KHOEBGD`
 * nut.' `TPHUT TP-PL AE`
 * river `REUFR`
-* 'Run `AE RUPB`
+* 'Run `AE KPA/RUPB`
 * bride, `PWRAOEUD KW-BG`
 * ask `SK`
 * silken `SEUL/KEPB`
 * cord `KORD`
 * water.' `WAUR TP-PL AE`
-* 'Bride, `AE PWRAOEUD KW-BG`
+* 'Bride, `AE KPA/PWRAOEUD KW-BG`
 * must `PHUFT`
 * cord, `KORD KW-BG`
 * carry `KAER`
@@ -565,17 +595,18 @@
 * ready `R-D`
 * themselves `TH*EPLS`
 * drove `TKROEF`
+* On `KPA/OPB`
 * fox. `TPOBGS TP-PL`
 * going, `TKPW-G KW-BG`
 * Chanticleer?' `xxx Chanticleer H-F AE`
 * he. `HE TP-PL`
-* 'To `AE TO`
+* 'To `AE KPA/TO`
 * bury `PWUR/REU`
 * Partlet,' `xxx Partlet KW-BG AE`
 * other. `OER TP-PL`
 * 'May `AE PHAE`
 * you?' `U H-F AE`
-* 'Yes; `AE KWRE STPH*FPLT`
+* 'Yes; `AE KPA/KWRE STPH*FPLT`
 * horses `HORSZ`
 * able `ABL`
 * you.' `U TP-PL AE`
@@ -590,7 +621,7 @@
 * hearse. `HA*ERS TP-PL`
 * rapid `RAPD`
 * stream. `STRAOEPL TP-PL`
-* 'How `AE HOU`
+* 'How `AE KPA/HOU`
 * over?' `OEFR H-F AE`
 * Chanticleer. `xxx Chanticleer TP-PL`
 * straw, `STRAU KW-BG`
@@ -604,6 +635,7 @@
 * straw `STRAU`
 * slipped `SHREUPD`
 * drowned. `TKROUPBD TP-PL`
+* What `KPA/WHA`
 * done? `TKOPB H-F`
 * log `HROG`
 * wood `WAOD`
@@ -629,7 +661,7 @@
 * heavy, `HOEUF KW-BG`
 * back `PWABG`
 * stream `STRAOEPL`
-* Thus `THUS`
+* Thus `KPA/THUS`
 * left `HREFT`
 * alone `A/HROEPB`
 * dead `TKED`
@@ -640,5 +672,6 @@
 * her. `HER TP-PL`
 * grave, `TKPWRAEUF KW-BG`
 * mourned, `PHOURPB/-D KW-BG`
+* died `TKAOEUD`
 * too; `TAO STPH*FPLT`
 * dead. `TKED TP-PL`

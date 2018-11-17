@@ -1,7 +1,7 @@
 # The Wolf in Sheep's Clothing
 
 * A `KPA/AEU`
-* Wolf `WOFL`
+* Wolf `KPA/WOFL`
 * found `TPOUPBD`
 * great `TKPWRAET`
 * difficulty `TKOEUFLT`
@@ -18,7 +18,7 @@
 * and `SKP`
 * his `HEUS`
 * dogs. `TKOGS TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * one `WUPB`
 * day `TKAEU`
 * it `T`
@@ -41,7 +41,8 @@
 * down `TKOUPB`
 * among `PHOPBG`
 * sheep. `SHAOEP TP-PL`
-* Lamb `HRAPL`
+* The `KPA/-T`
+* Lamb `KPA/HRAPL`
 * belonged `PWHROPBGD`
 * sheep, `SHAOEP KW-BG`
 * whose `WHOZ`
@@ -49,7 +50,7 @@
 * wearing, `WAURG KW-BG`
 * began `TKPWAPB`
 * follow `TPOL`
-* Sheep's `SHAOEP AES`
+* Sheep's `KPA/SHAOEP AES`
 * clothing; `KHRO*ET/-G STPH*FPLT`
 * so, `SO KW-BG`
 * leading `HRAEGD`
@@ -69,6 +70,6 @@
 * enjoying `EPB/SKWROEUG`
 * hearty `HAR/TEU`
 * meals. `PHAOELS TP-PL`
-* Appearances `A/PAOERPBS/-S`
+* Appearances `KPA/A/PAOERPBS/-S`
 * are `R`
 * deceptive. `TKE/SEPT/EUF TP-PL`

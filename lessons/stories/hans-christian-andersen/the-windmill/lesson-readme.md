@@ -73,6 +73,7 @@
 * just `SKWRUFT`
 * beneath `TPHAO*ET`
 * hat. `HAT TP-PL`
+* The `KPA/-T`
 * birds `PWEURDZ`
 * only `OEPBL`
 * two `TWO`
@@ -91,7 +92,7 @@
 * figure—a `TPEUG EPL/TKA*RB AEU`
 * flying `TPHRAOEUG`
 * Dutchman. `TKUFP/PHA*PB TP-PL`
-* They `THE`
+* They `KPA/THE`
 * considered `KR-D`
 * supernatural `SAOUP/TPHARL`
 * beings, `-BGZ KW-BG`
@@ -106,6 +107,7 @@
 * where `W-R`
 * thoughts `THAUTS`
 * dwell. `TKWEL TP-PL`
+* My `KPA/PHEU`
 * strongest `STROPBG/EFT`
 * thought, `THAUT KW-BG`
 * who `WHO`
@@ -114,26 +116,28 @@
 * is `S`
 * called `KAULD`
 * others `OERS`
-* 'The `AE -T`
-* Man `PHAPB`
-* Mill.' `PHEUL TP-PL AE`
-* he `HE`
+* 'The `AE KPA/-T`
+* Man `KPA/PHAPB`
+* Mill.' `PHEUL/PHEUL TP-PL AE`
+* He `KPA/HE`
 * knows `TPHOEZ`
 * what `WHA`
+* he `HE`
 * wants, `WAPBTS KW-BG`
 * lord `HRORD`
 * over `OEFR`
 * meal `PHAOEL`
 * bran; `PWRAPB STPH*FPLT`
-* But `PWUT`
+* but `PWUT`
 * has `HAS`
 * his `HEUS`
 * companion, `KPAPB/KWROPB KW-BG`
 * too, `TAO KW-BG`
-* She `SHE`
+* she `SHE`
 * calls `KAULS`
 * herself `H*ERS`
-* 'Mother.' `AE PHOER TP-PL AE`
+* 'Mother.' `AE KPA/PHOER TP-PL AE`
+* She `KPA/SHE`
 * heart `HART`
 * of `-F`
 * me. `PHE TP-PL`
@@ -163,12 +167,13 @@
 * one. `WUPB TP-PL`
 * two, `TWO KW-BG`
 * one; `WUPB STPH*FPLT`
+* they `THE`
 * each `AOEFP`
 * call `KAUL`
 * other `OER`
-* 'My `AE PHEU`
+* 'My `AE KPA/PHEU`
 * half.' `HAF TP-PL AE`
-* these `THEZ`
+* These `KPA/THEZ`
 * some `SOPL`
 * little `HREUL`
 * boys, `PWOEUS KW-BG`
@@ -179,7 +184,7 @@
 * keep `KAOEP`
 * everything `EFG`
 * order. `ORD TP-PL`
-* When, `WHEPB KW-BG`
+* When, `KPA/WHEPB KW-BG`
 * lately, `HRAEULT KW-BG`
 * wisdom, `WEUZ/TKOPL KW-BG`
 * let `HRET`
@@ -190,7 +195,7 @@
 * see `SAOE`
 * going `TKPW-G`
 * there,—for `THR KW-BG EPL/TKA*RB TPOR`
-* Something `S-G`
+* something `S-G`
 * me `PHE`
 * out `OUT`
 * order, `ORD KW-BG`
@@ -226,19 +231,22 @@
 * make `PHAEUBG`
 * no `TPHO`
 * noise, `TPHOEUS KW-BG`
+* these `THEZ`
 * love `HRUF`
 * them, `THEPL KW-BG`
 * called. `KAULD TP-PL`
-* It's `T AES`
+* It's `KPA/T AES`
 * wonderful `WUFL`
 * enough—yes, `TPHUF EPL/TKA*RB KWRE KW-BG`
 * many `PHAEPB`
 * things. `THEUPBGS TP-PL`
+* Something `KPA/S-G`
 * me, `PHE KW-BG`
 * or `OR`
 * me,—something `PHE KW-BG EPL/TKA*RB S-G`
 * changed `KHAEUPBGD`
 * mill-work. `PHEUL H-PB WORBG TP-PL`
+* It `KPA/T`
 * seems `SAOEPLS`
 * if `TP`
 * one `WUPB`
@@ -258,19 +266,20 @@
 * through `THRU`
 * course `KORS`
 * time. `TAOEUPL TP-PL`
+* What `KPA/WHA`
 * bitter `PWEURT`
 * passed `PAFD`
 * away, `A/WAEU KW-BG`
 * whole `WHOEL`
 * comfortable. `K-BL TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * days `TKAEUS`
 * go `TKPW`
 * on, `OPB KW-BG`
 * nearer `TPHAOER/*ER`
 * clearness `KHRAO*ERPBS`
 * joy; `SKWROEU STPH*FPLT`
-* Then `THEPB`
+* then `THEPB`
 * day `TKAEU`
 * will `HR`
 * when `WHEPB`
@@ -286,11 +295,12 @@
 * cease, `SAOES KW-BG`
 * live `HREUF`
 * on. `OPB TP-PL`
+* To `KPA/TO`
 * become `PW-BG`
 * different `TKEUFRT`
 * remain `RE/PHAUPB`
 * same! `SAEUPL SKHRAPL`
-* That's `THA AES`
+* That's `KPA/THA AES`
 * difficult `TKEUFL`
 * understand, `URPBD KW-BG`
 * however `HOUF`
@@ -319,7 +329,7 @@
 * must, `PHUFT KW-BG`
 * refrain `RE/TPRAEUPB`
 * it. `T TP-PL`
-* "And `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * also `HR-S`
 * 'myself,' `AE PHAO*EUS KW-BG AE`
 * body; `PWO*ED STPH*FPLT`
@@ -329,25 +339,28 @@
 * nor `TPH-R`
 * could `KO`
 * say, `SAEU KW-BG`
-* 'There's `AE THR AES`
+* 'There's `AE KPA/THR AES`
 * mill `PHEUL`
 * all.'" `AUL TP-PL AE KR-GS`
+* That `KPA/THA`
 * said. `SAEUD TP-PL`
-* Indeed, `TPHAOEPBD KW-BG`
+* Indeed, `KPA/TPHAOEPBD KW-BG`
 * said `SAEUD`
 * more, `PHOR KW-BG`
 * most `PHOFT`
 * important `PORPB`
 * part. `PART TP-PL`
+* And `AFPBD`
 * came, `KAEUPL KW-BG`
 * went, `WEPBT KW-BG`
 * yesterday `KWRED`
 * last `HRAFT`
 * day. `TKAEU TP-PL`
+* Then `KPA/THEPB`
 * caught `KAUT`
 * fire. `TPAOEUR TP-PL`
 * flames `TPHRAEUPLS`
-* rose `ROEZ`
+* rose `ROES`
 * high, `HAOEU KW-BG`
 * beat `PWAET`
 * in, `TPH KW-BG`
@@ -369,7 +382,7 @@
 * wind `WEUPBD`
 * carried `KAERD`
 * away. `A/WAEU TP-PL`
-* Whatever `WHAF`
+* Whatever `KPA/WHAF`
 * been `PW-PB`
 * alive `A/HRAOEUF`
 * remained, `RE/PHAEUPBD KW-BG`
@@ -377,7 +390,7 @@
 * do `TKO`
 * this `TH`
 * story. `STOER TP-PL`
-* miller's `PHEUL/HRER AES`
+* miller's `PHEUL/*ER AES`
 * family—one `TPAEPL EPL/TKA*RB WUPB`
 * soul, `SOUL KW-BG`
 * one—built `WUPB EPL/TKA*RB PWEULT`
@@ -389,9 +402,10 @@
 * purpose. `PURP TP-PL`
 * one, `WUPB KW-BG`
 * people `PAOEPL`
-* "Why, `KR-GS KWR KW-BG`
+* "Why, `KR-GS KPA/KWR KW-BG`
 * yonder `KWROPBD/ER`
 * at!" `AT SKHRAPL KR-GS`
+* But `KPA/PWUT`
 * arranged, `ARPBG/-D KW-BG`
 * according `KORG`
 * time `TAOEUPL`

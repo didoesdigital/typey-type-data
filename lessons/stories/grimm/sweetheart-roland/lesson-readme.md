@@ -1,6 +1,6 @@
 # Sweetheart Roland
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * upon `POPB`
@@ -28,11 +28,12 @@
 * good, `TKPWAOD KW-BG`
 * hated, `HAEUT/-D KW-BG`
 * stepdaughter. `STEP/TKAUR TP-PL`
-* the `-T`
+* The `KPA/-T`
 * stepdaughter `STEP/TKAUR`
 * pretty `PREUT`
 * apron, `AEUP/ROPB KW-BG`
 * which `WEU`
+* the `-T`
 * other `OER`
 * fancied `TPAPB/SEU/-D`
 * so `SO`
@@ -46,7 +47,7 @@
 * would `WO`
 * have `SR`
 * apron. `AEUP/ROPB TP-PL`
-* 'Be `AE -B`
+* 'Be `AE KPA/-B`
 * quiet, `KWAO*EUT KW-BG`
 * my `PHEU`
 * child,' `KHAOEULD KW-BG AE`
@@ -57,7 +58,7 @@
 * you `U`
 * shall `SHAL`
 * it. `T TP-PL`
-* Your `KWROUR`
+* Your `KPA/KWROUR`
 * stepsister `STEP/ST-R`
 * has `HAS`
 * long `HROPBG`
@@ -73,7 +74,7 @@
 * cut `KUT`
 * head `HED`
 * off. `OF TP-PL`
-* only `OEPBL`
+* Only `KPA/OEPBL`
 * be `-B`
 * careful `KAEUFL`
 * are `R`
@@ -86,7 +87,7 @@
 * well `WEL`
 * to `TO`
 * front.' `TPROPBT TP-PL AE`
-* it `T`
+* It `KPA/T`
 * been `PW-PB`
 * all `AUL`
 * over `OEFR`
@@ -96,12 +97,13 @@
 * if `TP`
 * not `TPHOT`
 * just `SKWRUFT`
-* Then `THEPB`
+* then `THEPB`
 * standing `STAPBG`
 * in `TPH`
 * corner, `KRORPB KW-BG`
 * heard `HAERD`
 * everything. `EFG TP-PL`
+* All `KPA/AUL`
 * day `TKAEU`
 * dared `TKAEURD`
 * go `TKPW`
@@ -118,7 +120,7 @@
 * as `AZ`
 * lie `HRAOEU`
 * side, `SAOEUD KW-BG`
-* But `PWUT`
+* but `PWUT`
 * asleep, `A/HRAOEP KW-BG`
 * pushed `PURBD`
 * gently `SKWREPBT/HREU`
@@ -131,6 +133,7 @@
 * close `KHROES`
 * by `PWEU`
 * wall. `WAUL TP-PL`
+* In `KPA/TPH`
 * night, `TPHAOEUT KW-BG`
 * came `KAEUPL`
 * creeping `KRAOEPG`
@@ -151,6 +154,7 @@
 * both `PWO*T`
 * hands, `HAPBDZ KW-BG`
 * child's `KHAOEULD/AES`
+* When `KPA/WHEPB`
 * gone `TKPWOPB`
 * away, `A/WAEU KW-BG`
 * up `UP`
@@ -164,7 +168,7 @@
 * he `HE`
 * out, `OUT KW-BG`
 * him: `HEUPL STPH-FPLT`
-* 'Listen, `AE HREUFPB KW-BG`
+* 'Listen, `AE KPA/HREUFPB KW-BG`
 * dearest `TKAER/EFT`
 * we `WE`
 * fly `TPHRAOEU`
@@ -181,7 +185,7 @@
 * what `WHA`
 * done, `TKOPB KW-BG`
 * lost.' `HRO*S TP-PL AE`
-* 'But,' `AE PWUT KW-BG AE`
+* 'But,' `AE KPA/PWUT KW-BG AE`
 * 'I `AE EU`
 * counsel `KOUPB`
 * first `TPEUFRT`
@@ -207,6 +211,7 @@
 * front `TPROPBT`
 * kitchen, `K-FP KW-BG`
 * stairs. `STAEURS TP-PL`
+* Then `KPA/THEPB`
 * hurried `HUR/EUD`
 * lover. `HRUFR TP-PL`
 * next `TPHEGT`
@@ -215,9 +220,9 @@
 * did `TK`
 * come. `KOPL TP-PL`
 * cried: `KRAOEUD STPH-FPLT`
-* 'Where `AE W-R`
+* 'Where `AE KPA/W-R`
 * you?' `U H-F AE`
-* 'Here, `AE HAOER KW-BG`
+* 'Here, `AE KPA/HAOER KW-BG`
 * stairs, `STAEURS KW-BG`
 * am `APL`
 * sweeping,' `SWAOEPG KW-BG AE`
@@ -228,19 +233,22 @@
 * no `TPHO`
 * cried `KRAOEUD`
 * again: `TKPWEPB STPH-FPLT`
-* 'Here `AE HAOER`
+* 'Here `AE KPA/HAOER`
 * warming `WARPLG`
 * myself,' `PHAO*EUS KW-BG AE`
 * second `SEBGD`
+* She `KPA/SHE`
 * found `TPOUPBD`
 * one. `WUPB TP-PL`
-* 'Ah, `AE HA*E KW-BG`
+* 'Ah, `AE KPA/HA*E KW-BG`
 * here `HAOER`
 * sleeping,' `SHRAOEPG KW-BG AE`
 * third `THEURD`
 * room `RAOPL`
 * bed. `PWED TP-PL`
+* What `KPA/WHA`
 * there? `THR H-F`
+* Her `KPA/HER`
 * child, `KHAOEULD KW-BG`
 * whose `WHOZ`
 * off, `OF KW-BG`
@@ -258,7 +266,7 @@
 * hurrying `HUR/REU/-G`
 * sweetheart `SWAOET/HART`
 * Roland. `RO/HRAPBD TP-PL`
-* 'That `AE THA`
+* 'That `AE KPA/THA`
 * help `HEP`
 * you,' `U KW-BG AE`
 * she, `SHE KW-BG`
@@ -274,6 +282,7 @@
 * walk `WAUBG`
 * every `EF`
 * step, `STEP KW-BG`
+* it `T`
 * before `PW-F`
 * overtook `AUFR/TAOBG`
 * them. `THEPL TP-PL`
@@ -300,6 +309,7 @@
 * enticed, `EPB/TAOEUS/-D KW-BG`
 * home `HOEPL`
 * night `TPHAOEUT`
+* At `KPA/AT`
 * resumed `RAOUPLD`
 * their `THAEUR`
 * natural `TPHARL`
@@ -319,18 +329,19 @@
 * fiddler. `TPEUD/HRER TP-PL`
 * them, `THEPL KW-BG`
 * musician: `PHAOUGS STPH-FPLT`
-* 'Dear `AE TKAER`
+* 'Dear `AE KPA/TKAER`
 * musician, `PHAOUGS KW-BG`
 * may `PHAE`
 * pluck `PHRUBG`
 * myself?' `PHAO*EUS H-F AE`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * yes,' `KWRE KW-BG AE`
 * replied, `RE/PHRAOEUD KW-BG`
 * play `PHRAEU`
 * while `WHAOEUL`
 * do `TKO`
 * it.' `T TP-PL AE`
+* As `KPA/AZ`
 * hastily `HAEUFT/HREU`
 * hedge `HEPBL`
 * going `TKPW-G`
@@ -369,11 +380,11 @@
 * set `SET`
 * free, `TPRAOE KW-BG`
 * said: `SAEUD STPH-FPLT`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * father `TPAER`
 * arrange `A/RAEUPBG`
 * wedding.' `WEGD TP-PL AE`
-* 'Then `AE THEPB`
+* 'Then `AE KPA/THEPB`
 * meantime `PHAO*EPB/TAOEUPL`
 * stay `STAEU`
 * wait `WAEUT`
@@ -388,6 +399,7 @@
 * field `TPAOELD`
 * waited `WAEUTD`
 * beloved. `PWHROFD TP-PL`
+* But `KPA/PWUT`
 * home, `HOEPL KW-BG`
 * snares `STPHAEURS`
 * another, `TPHOER KW-BG`
@@ -396,13 +408,14 @@
 * forgot `TPAURGT`
 * maiden. `PHAEUD/*EPB TP-PL`
 * remained `RE/PHAEUPBD`
+* there `THR`
 * time, `TAOEUPL KW-BG`
 * length, `HREPBG KW-BG`
 * return `RURPB`
 * all, `AUL KW-BG`
 * sad, `SAD KW-BG`
 * thought: `THAUT STPH-FPLT`
-* 'Someone `AE SPH-PB`
+* 'Someone `AE KPA/SPH-PB`
 * surely `SHURL`
 * way, `WAEU KW-BG`
 * trample `TRAFRPL`
@@ -418,6 +431,7 @@
 * him, `HEUPL KW-BG`
 * laid `HRAEUD`
 * chest. `KHEFT TP-PL`
+* From `KPA/TPR`
 * forth, `TPO*RT KW-BG`
 * strange `STRAEUPBG`
 * things `THEUPBGS`
@@ -441,6 +455,7 @@
 * good `TKPWAOD`
 * dinner `TKEURPB`
 * served. `SEFRBD TP-PL`
+* He `KPA/HE`
 * conceive `KAUPB/SAOEF`
 * how `HOU`
 * pass, `PAS KW-BG`
@@ -458,7 +473,7 @@
 * wise `WAOEUS`
 * asked `SK-D`
 * advice. `SREUS TP-PL`
-* 'There `AE THR`
+* 'There `AE KPA/THR`
 * some `SOPL`
 * enchantment `EPB/KHAPLT`
 * behind `HEUPBD`
@@ -481,8 +496,8 @@
 * chest `KHEFT`
 * open, `OEP KW-BG`
 * out. `OUT TP-PL`
-* Swiftly `SWEUFT/HREU`
-* Instantly `EUPB/STAPBT/HREU`
+* Swiftly `KPA/SWEUFT/HREU`
+* Instantly `KPA/EUPB/STAPBT/HREU`
 * transformation `TRA*EUGS`
 * end, `EPBD KW-BG`
 * admitted `AD/PHEUTD`
@@ -491,18 +506,19 @@
 * story, `STOER KW-BG`
 * marry `PHAER`
 * answered: `AEPBS/-D STPH-FPLT`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * remain `RE/PHAUPB`
 * faithful `TPA*EUT/-FL`
 * although `HR*T`
 * deserted `STK*ERT/-D`
 * her. `HER TP-PL`
-* Nevertheless, `TPHEFRLS KW-BG`
+* Nevertheless, `KPA/TPHEFRLS KW-BG`
 * promised `PROPLS/-D`
 * continue `T-PB`
 * keeping `KAOEPG`
 * house `HOUS`
 * shepherd. `SHEP/ERD TP-PL`
+* And `AFPBD`
 * drew `TKRAOU`
 * near `TPHAOER`
 * Roland's `RO/HRAPBD AES`
@@ -529,6 +545,7 @@
 * turn `TURPB`
 * sing, `SEUPBG KW-BG`
 * stepped `STEPD`
+* only `OEPBL`
 * left, `HREFT KW-BG`
 * refuse. `REF/AOUS TP-PL`
 * song, `SOPBG KW-BG`
@@ -539,7 +556,7 @@
 * true `TRAOU`
 * bride, `PWRAOEUD KW-BG`
 * other!' `OER SKHRAPL AE`
-* Everything `EFG`
+* Everything `KPA/EFG`
 * forgotten, `TPORGTD KW-BG`
 * vanished `SRAPB/EURBD`
 * mind, `PHAOEUPBD KW-BG`

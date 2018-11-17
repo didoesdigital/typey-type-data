@@ -1,6 +1,6 @@
 # The Dumb Book
 
-* in `TPH`
+* In `KPA/TPH`
 * the `-T`
 * high-road `HAOEU H-PB RAOD`
 * which `WEU`
@@ -12,11 +12,13 @@
 * solitary `SOL/TAER`
 * farm-house; `TPARPL H-PB HOUS STPH*FPLT`
 * road, `RAOD KW-BG`
+* in `TPH`
 * fact, `TPABGT KW-BG`
 * ran `RAPB`
 * right `RAOEUT`
 * its `EUTS`
 * yard. `KWRARD TP-PL`
+* The `KPA/-T`
 * sun `SUPB`
 * was `WAS`
 * shining `SHAOEUPBG`
@@ -53,7 +55,7 @@
 * buried `PWUR/EUD`
 * that `THA`
 * afternoon. `AFPB TP-PL`
-* Nobody `TPHOEB`
+* Nobody `KPA/TPHOEB`
 * shed `SHED`
 * tear `TAER`
 * over `OEFR`
@@ -91,22 +93,22 @@
 * according `KORG`
 * own `OEPB`
 * wish. `WEURB TP-PL`
-* every `EF`
+* Every `KPA/EF`
 * one `WUPB`
 * connected `KEBGTD`
 * some `SOPL`
 * chapter `KHAPT`
 * life. `HRAOEUF TP-PL`
-* "Who `KR-GS WHO`
+* "Who `KR-GS KPA/WHO`
 * is `S`
 * man?" `PHAPB H-F KR-GS`
 * we `WE`
 * asked. `SK-D TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * old `OLD`
 * student," `STAUPB KW-BG KR-GS`
 * reply. `RE/PHREU TP-PL`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * say `SAEU`
 * once `WUPBS`
 * energetic `TPH-RG/EUBG`
@@ -129,7 +131,7 @@
 * drink, `TKREU KW-BG`
 * body `PWO*ED`
 * mind. `PHAOEUPBD TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * at `AT`
 * last `HRAFT`
 * ruined `RAOUPBD`
@@ -138,12 +140,13 @@
 * him `HEUPL`
 * into `TPHAO`
 * country, `KREU KW-BG`
-* Where `W-R`
+* where `W-R`
 * someone `SPH-PB`
 * paid `PAEUD`
 * for `TPOR`
 * board `PWAORD`
 * residence. `R*EPBS TP-PL`
+* He `KPA/HE`
 * gentle `SKWR*EPBLT`
 * as `AZ`
 * child `KHAOEULD`
@@ -154,6 +157,7 @@
 * not `TPHOT`
 * come `KOPL`
 * but `PWUT`
+* when `WHEPB`
 * came `KAEUPL`
 * fierce, `TPAOERS KW-BG`
 * became `PWAEUPL`
@@ -163,6 +167,7 @@
 * like `HRAOEUBG`
 * chased `KHAEUS/-D`
 * deer. `TKAOER TP-PL`
+* But `KPA/PWUT`
 * succeeded `SUBG/SAOED/-D`
 * bringing `PWREUG`
 * home, `HOEPL KW-BG`
@@ -185,9 +190,9 @@
 * tears `TAERS`
 * rolled `ROLD`
 * cheeks. `KHAOEBGS TP-PL`
-* God `TKPWOD`
+* God `TKPWO*D`
 * knows `TPHOEZ`
-* What `WHA`
+* what `WHA`
 * mind; `PHAOEUPBD STPH*FPLT`
 * requested `KW-D`
 * us `US`
@@ -220,8 +225,9 @@
 * arbour, `AR/PWOUR/A*U KW-BG`
 * turning `TURPBG`
 * flight, `TPHRAOEUT KW-BG`
-* twittered `TWEURT/-D`
+* twittered `xxx twittered`
 * head. `HED TP-PL`
+* What `KPA/WHA`
 * strange `STRAEUPBG`
 * feeling `TPAOELG`
 * is—surely `S EPL/TKA*RB SHURL`
@@ -239,7 +245,7 @@
 * were, `WR KW-BG`
 * hopes `HOEPS`
 * sorrows. `SROE/-S TP-PL`
-* How `HOU`
+* How `KPA/HOU`
 * whom `WHOPL`
 * those `THOZ`
 * days `TKAEUS`
@@ -264,6 +270,7 @@
 * memories `PHOEURPLS`
 * ever, `-FR KW-BG`
 * share `SHAEUR`
+* every `EF`
 * joy `SKWROEU`
 * sorrow `SROE`
 * them. `THEPL TP-PL`
@@ -282,6 +289,7 @@
 * vowed `SROUD`
 * eternal `E/TERPBL`
 * friendship. `TPREP TP-PL`
+* Where `KPA/W-R`
 * does `TKOS`
 * dwell `TKWEL`
 * now? `TPHOU H-F`
@@ -290,16 +298,18 @@
 * no `TPHO`
 * longer `HRORPBG`
 * exist. `KPEUFT TP-PL`
+* Here `KPA/HAOER`
 * foreign `TPOERPB`
 * hothouse `xxx hothouse`
 * too `TAO`
 * tender `TERPBD`
 * gardens `TKPWARD/-PBS`
-* North. `TPHORT TP-PL`
+* North. `TPHOERT TP-PL`
+* It `KPA/T`
 * almost `HR-PL`
 * smelt `SPHELT`
 * sweet! `SWAOET SKHRAPL`
-* She `SHE`
+* She `KPA/SHE`
 * her `HER`
 * garden—a `TKPWA*RPB EPL/TKA*RB AEU`
 * nobleman's `TPHOEBL/PHA*PB AES`
@@ -312,6 +322,7 @@
 * tears—a `TAERS EPL/TKA*RB AEU`
 * lily `HREUL/KWREU`
 * water. `WAUR TP-PL`
+* And `AFPBD`
 * nettle: `TPHET/*L STPH-FPLT`
 * may `PHAE`
 * tell `TEL`

@@ -1,11 +1,11 @@
 # The Swan's Nest
 
-* between `TWAOEPB`
+* Between `KPA/TWAOEPB`
 * the `-T`
 * Baltic `PWALT/EUBG`
 * and `SKP`
-* North `TPHORT`
-* Sea `SAE`
+* North `TPHOERT`
+* Sea `KPA/SAE`
 * there `THR`
 * lies `HRAO*EUS`
 * an `APB`
@@ -22,7 +22,7 @@
 * shall `SHAL`
 * never `TPHEF`
 * die. `TKAOEU TP-PL`
-* in `TPH`
+* In `KPA/TPH`
 * olden `OLD/*EPB`
 * times `TAOEUPLS`
 * a `AEU`
@@ -41,12 +41,12 @@
 * was `WAS`
 * delightful `TKHRAOEUT/-FL`
 * dwell. `TKWEL TP-PL`
-* This `TH`
+* This `KPA/TH`
 * flight `TPHRAOEUT`
 * men `PHEPB`
 * called `KAULD`
 * Lombards. `HROPL/PWARD/-S TP-PL`
-* Another `TPHOER`
+* Another `KPA/TPHOER`
 * flock, `TPHROBG KW-BG`
 * with `W`
 * shining `SHAOEUPBG`
@@ -60,7 +60,7 @@
 * themselves `TH*EPLS`
 * close `KHROES`
 * by `PWEU`
-* Emperor's `EPL/ROR AES`
+* Emperor's `KPA/EPL/ROR AES`
 * throne, `THRO*EPB KW-BG`
 * spread `SPRED`
 * their `THAEUR`
@@ -70,11 +70,11 @@
 * shields `SHAOELDZ`
 * protect `PREBGT`
 * him. `HEUPL TP-PL`
-* they `THE`
+* They `KPA/THE`
 * received `SAOEFD`
 * name `TPHAEUPL`
 * Varangians. `xxx Varangians TP-PL`
-* on `OPB`
+* On `KPA/OPB`
 * coast `KOEFT`
 * France `TPRAPBS`
 * sounded `SOUPBD/-D`
@@ -89,7 +89,7 @@
 * wings; `WEUPBGS STPH*FPLT`
 * people `PAOEPL`
 * prayed, `PRAEUD KW-BG`
-* "Heaven `KR-GS HEFPB`
+* "Heaven `KR-GS KPA/HEFPB`
 * deliver `THREUFR`
 * us `US`
 * wild `WAOEULD`
@@ -105,6 +105,7 @@
 * crown `KROUPB`
 * three `THRAOE`
 * kingdoms `KEUPBG/TKOPL/-S`
+* on `OPB`
 * his `HEUS`
 * head; `HED STPH*FPLT`
 * he `HE`
@@ -113,15 +114,17 @@
 * golden `TKOELD/*EPB`
 * sceptre `SEP/TER/A*U`
 * land. `HRAPBD TP-PL`
+* The `KPA/-T`
 * heathens `HAO*ET/-PBS`
 * Pomerian `xxx Pomerian`
 * bent `PWEPBT`
 * knee, `TPHAOE KW-BG`
 * banner `PWAERPB`
-* Cross `KROS`
+* Cross `KPA/KROS`
 * drawn `TKRAUPB`
 * sword. `SOERD TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
+* in `TPH`
 * very `SRE`
 * times," `TAOEUPLS KW-BG KR-GS`
 * you `U`
@@ -154,28 +157,29 @@
 * if `TP`
 * nearer `TPHAOER/*ER`
 * earth. `*ERT TP-PL`
+* That `KPA/THA`
 * Tycho `xxx Tycho`
 * Brahe. `xxx Brahe TP-PL`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * then," `THEPB KW-BG KR-GS`
 * say; `SAEU STPH*FPLT`
 * "but `KR-GS PWUT`
 * our `OUR`
 * own `OEPB`
 * days?" `TKAEUS H-F KR-GS`
-* We `WE`
+* We `KPA/WE`
 * after `AF`
 * soar `SAOR`
 * glorious `TKPWHRORS`
 * flight. `TPHRAOEUT TP-PL`
-* One `WUPB`
+* One `KPA/WUPB`
 * let `HRET`
 * pinions `PEUPB/KWROPB/-S`
 * glide `TKPWHRAOEUD`
 * strings `STREUPBGS`
 * harp, `HARP KW-BG`
 * resounded `RE/SO*UPBD/-D`
-* North. `TPHORT TP-PL`
+* North. `TPHOERT TP-PL`
 * Norway's `TPHOR/WAEU AES`
 * mountains `PHOUPB/TAEUPBS`
 * seemed `SAOEPLD`
@@ -190,7 +194,7 @@
 * trees `TRAOES`
 * birches; `PWEUR/-FPS STPH*FPLT`
 * gods `TKPWODZ`
-* North, `TPHORT KW-BG`
+* North, `TPHOERT KW-BG`
 * heroes, `HOEURS KW-BG`
 * noble `TPHOEBL`
 * women, `WEUPL KW-BG`
@@ -232,10 +236,12 @@
 * lightning `HRAOEUT/TPHEUPBG`
 * speed `SPAOED`
 * land `HRAPBD`
-* Lord `HRORD`
+* And `AFPBD`
+* Lord `HRO*RD`
 * loves `HRUFS`
 * nest `TPHEFT`
-* Sea. `SAE TP-PL`
+* between `TWAOEPB`
+* Sea. `KPA/SAE TP-PL`
 * when `WHEPB`
 * birds `PWEURDZ`
 * come `KOPL`
@@ -255,10 +261,11 @@
 * struck `STRUBG`
 * blood `PWHRAOD`
 * flows, `TPHROES KW-BG`
+* they `THE`
 * bear `PWAER`
 * strike `STRAOEUBG`
 * claws. `KHRAU/-S TP-PL`
-* Centuries `KREPBT/REUS`
+* Centuries `KPA/KREPBT/REUS`
 * will `HR`
 * pass `PAS`
 * by, `PWEU KW-BG`
@@ -270,7 +277,7 @@
 * said `SAEUD`
 * spirit `SPEURT`
 * truth, `TRAO*UT KW-BG`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * last `HRAFT`
 * swan—the `SWAPB EPL/TKA*RB -T`
 * song `SOPBG`

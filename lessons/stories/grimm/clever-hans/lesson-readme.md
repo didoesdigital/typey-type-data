@@ -1,33 +1,33 @@
 # Clever Hans
 
-* the `-T`
+* The `KPA/-T`
 * mother `PHOER`
 * of `-F`
 * Hans `HAPBS`
 * said: `SAEUD STPH-FPLT`
-* 'Whither `AE WHEU/THER`
+* 'Whither `AE KPA/WHEU/THER`
 * away, `A/WAEU KW-BG`
 * Hans?' `HAPBS H-F AE`
 * answered: `AEPBS/-D STPH-FPLT`
-* 'To `AE TO`
+* 'To `AE KPA/TO`
 * Gretel.' `TKPWRET/EL TP-PL AE`
-* 'Behave `AE PWAEUF`
+* 'Behave `AE KPA/PWAEUF`
 * well, `WEL KW-BG`
 * Hans.' `HAPBS TP-PL AE`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * I'll `AOEUL`
 * behave `PWAEUF`
 * well. `WEL TP-PL`
-* Goodbye, `TKPW-B KW-BG`
+* Goodbye, `KPA/TKPW-B KW-BG`
 * mother.' `PHOER TP-PL AE`
-* 'Goodbye, `AE TKPW-B KW-BG`
+* 'Goodbye, `AE KPA/TKPW-B KW-BG`
 * comes `KOPLS`
 * to `TO`
 * Gretel. `TKPWRET/EL TP-PL`
-* 'Good `AE TKPWAOD`
+* 'Good `AE KPA/TKPWAOD`
 * day, `TKAEU KW-BG`
 * Hans. `HAPBS TP-PL`
-* What `WHA`
+* What `KPA/WHA`
 * do `TKO`
 * you `U`
 * bring `PWREU`
@@ -49,6 +49,7 @@
 * needle, `TPHAO*ELD KW-BG`
 * says: `SEZ STPH-FPLT`
 * takes `TAEUBGS`
+* the `-T`
 * sticks `STEUBGS`
 * it `T`
 * into `TPHAO`
@@ -58,35 +59,36 @@
 * cart `KART`
 * home. `HOEPL TP-PL`
 * evening, `AOEPBG KW-BG`
-* Where `W-R`
+* Where `KPA/W-R`
 * been?' `PW-PB H-F AE`
-* 'With `AE W`
-* 'What `AE WHA`
+* 'With `AE KPA/W`
+* 'What `AE KPA/WHA`
 * did `TK`
 * take `TAEUBG`
 * her?' `HER H-F AE`
-* 'Took `AE TAOBG`
+* 'Took `AE KPA/TAOBG`
 * nothing; `TPHOG STPH*FPLT`
 * had `H`
 * give `TKPWEUF`
 * you?' `U H-F AE`
-* 'Gave `AE TKPWAEUF`
+* 'Gave `AE KPA/TKPWAEUF`
 * me `PHE`
 * needle.' `TPHAO*ELD TP-PL AE`
-* 'Where `AE W-R`
-* 'Stuck `AE STUBG`
+* 'Where `AE KPA/W-R`
+* 'Stuck `AE KPA/STUBG`
 * in `TPH`
 * hay-cart.' `HA*EU H-PB KART TP-PL AE`
-* 'That `AE THA`
+* 'That `AE KPA/THA`
 * was `WAS`
 * ill `EUL`
 * done, `TKOPB KW-BG`
+* You `KPA/U`
 * should `SHO`
 * stuck `STUBG`
 * needle `TPHAO*ELD`
 * your `KWROUR`
 * sleeve.' `SHRAOEF TP-PL AE`
-* 'Never `AE TPHEF`
+* 'Never `AE KPA/TPHEF`
 * mind, `PHAOEUPBD KW-BG`
 * better `PWOERT`
 * next `TPHEGT`
@@ -104,7 +106,7 @@
 * something.' `S-G TP-PL AE`
 * knife.' `TPHAOEUF TP-PL AE`
 * my `PHEU`
-* 'That's `AE THA AES`
+* 'That's `AE KPA/THA AES`
 * Hans, `HAPBS KW-BG`
 * put `PUT`
 * knife `TPHAOEUF`
@@ -121,14 +123,14 @@
 * legs, `HREGS KW-BG`
 * puts `PUTS`
 * pocket. `POBGT TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * he `HE`
 * gets `TKPWETS`
 * home `HOEPL`
 * suffocated. `SUF/KAEUT/-D TP-PL`
-* 'She `AE SHE`
+* 'She `AE KPA/SHE`
 * goat.' `TKPWO*ET TP-PL AE`
-* 'Put `AE PUT`
+* 'Put `AE KPA/PUT`
 * rope `ROEP`
 * round `ROUPBD`
 * goat's `TKPWO*ET AES`
@@ -189,7 +191,7 @@
 * rack, `RABG KW-BG`
 * binds `PWAOEUPBDZ`
 * fast. `TPAFT TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * mother. `PHOER TP-PL`
 * nothing.' `TPHOG TP-PL AE`
 * came `KAEUPL`

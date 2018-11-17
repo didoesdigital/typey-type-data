@@ -1,6 +1,6 @@
 # The Princess and the Pea
 
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * upon `POPB`
 * a `AEU`
 * time `TAOEUPL`
@@ -19,7 +19,7 @@
 * be `-B`
 * real `RAEL`
 * princess. `PREUPB/ES TP-PL`
-* he `HE`
+* He `KPA/HE`
 * travelled `TRAFLD/A*U`
 * all `AUL`
 * over `OEFR`
@@ -29,11 +29,13 @@
 * one, `WUPB KW-BG`
 * nowhere `TPHO/WR`
 * could `KO`
+* he `HE`
 * get `TKPWET`
 * what `WHA`
 * wanted. `WAPBTD TP-PL`
+* There `KPA/THR`
 * were `WR`
-* princesses `PREUPB/ES/-S`
+* princesses `PREUPB/SES/-S`
 * enough, `TPHUF KW-BG`
 * it `T`
 * difficult `TKEUFL`
@@ -50,7 +52,7 @@
 * as `AZ`
 * should `SHO`
 * be. `-B TP-PL`
-* So `SO`
+* So `KPA/SO`
 * came `KAEUPL`
 * home `HOEPL`
 * again `TKPWEPB`
@@ -60,7 +62,7 @@
 * liked `HRAOEUBGD`
 * very `SRE`
 * much `PHUFP`
-* one `WUPB`
+* One `KPA/WUPB`
 * evening `AOEPBG`
 * terrible `TERBL`
 * storm `STORPL`
@@ -72,7 +74,7 @@
 * down `TKOUPB`
 * in `TPH`
 * torrents. `TORPBT/-S TP-PL`
-* Suddenly `SULD`
+* Suddenly `KPA/SULD`
 * knocking `TPHOBG/-G`
 * heard `HAERD`
 * at `AT`
@@ -83,12 +85,13 @@
 * went `WEPBT`
 * open `OEP`
 * it. `T TP-PL`
+* It `KPA/T`
 * princess `PREUPB/ES`
 * standing `STAPBG`
 * front `TPROPBT`
 * of `-F`
 * gate. `TKPWAET TP-PL`
-* But, `PWUT KW-BG`
+* But, `KPA/PWUT KW-BG`
 * good `TKPWAOD`
 * gracious! `TKPWRAURBS SKHRAPL`
 * sight `SAOEUT`
@@ -97,6 +100,7 @@
 * made `PHAED`
 * her `HER`
 * look. `HRAOBG TP-PL`
+* The `KPA/-T`
 * water `WAUR`
 * ran `RAPB`
 * from `TPR`
@@ -106,14 +110,16 @@
 * toes `TO*ES`
 * shoes `SHAOUS`
 * heels. `HAOELS TP-PL`
+* And `AFPBD`
 * yet `KWRET`
 * said `SAEUD`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * we'll `WAOEL`
 * soon `SAOPB`
 * out," `OUT KW-BG KR-GS`
 * thought `THAUT`
 * queen. `KWAOEPB TP-PL`
+* But `KPA/PWUT`
 * nothing, `TPHOG KW-BG`
 * bed-room, `PWED H-PB RAOPL KW-BG`
 * took `TAOBG`
@@ -132,14 +138,16 @@
 * beds `PWEDZ`
 * top `TOP`
 * mattresses. `PHAT/TRES/-S TP-PL`
+* On `KPA/OPB`
 * this `TH`
 * lie `HRAOEU`
 * night. `TPHAOEUT TP-PL`
+* In `KPA/TPH`
 * morning `PHORPBG`
 * asked `SK-D`
 * how `HOU`
 * slept. `SHREPD TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * badly!" `PWAD/HREU SKHRAPL KR-GS`
 * she. `SHE TP-PL`
 * "I `KR-GS EU`
@@ -147,31 +155,33 @@
 * closed `KHROEFD`
 * my `PHEU`
 * eyes `AO*EUS`
-* Heaven `HEFPB`
+* Heaven `KPA/HEFPB`
 * only `OEPBL`
 * knows `TPHOEZ`
 * bed, `PWED KW-BG`
 * I `EU`
 * lying `HRAOEUG`
 * hard, `HARD KW-BG`
+* so `SO`
 * am `APL`
 * black `PWHRABG`
 * blue `PWHRU`
 * body. `PWO*ED TP-PL`
-* It's `T AES`
+* It's `KPA/T AES`
 * horrible!" `HORBL SKHRAPL KR-GS`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * knew `TPHAOU`
 * because `PWAU`
 * felt `TPELT`
 * right `RAOEUT`
 * through `THRU`
 * beds. `PWEDZ TP-PL`
-* Nobody `TPHOEB`
+* Nobody `KPA/TPHOEB`
 * sensitive `SEPBT/TEUF`
 * that. `THA TP-PL`
 * his `HEUS`
 * wife, `WAOEUF KW-BG`
+* now `TPHOU`
 * put `PUT`
 * museum, `PHAOUPL KW-BG`
 * where `W-R`
@@ -180,9 +190,10 @@
 * seen, `SAOEPB KW-BG`
 * if `TP`
 * no `TPHO`
+* one `WUPB`
 * has `HAS`
 * stolen `STOEL/EPB`
-* There, `THR KW-BG`
+* There, `KPA/THR KW-BG`
 * is `S`
 * true `TRAOU`
 * story. `STOER TP-PL`

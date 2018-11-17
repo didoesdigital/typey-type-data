@@ -1,6 +1,6 @@
 # Grandmother
 
-* Grandmother `TKPWR-PL`
+* Grandmother `KPA/TKPWR-PL`
 * is `S`
 * very `SRE`
 * old, `OLD KW-BG`
@@ -11,13 +11,13 @@
 * hair `HAEUR`
 * quite `KWAOEUT`
 * white; `WHAOEUT STPH*FPLT`
-* But `PWUT`
-* Eyes `AO*EUS`
+* but `PWUT`
+* eyes `AO*EUS`
 * are `R`
 * like `HRAOEUBG`
 * two `TWO`
 * stars, `STARS KW-BG`
-* They `THE`
+* they `THE`
 * have `SR`
 * a `AEU`
 * mild, `PHAOEULD KW-BG`
@@ -33,7 +33,7 @@
 * does `TKOS`
 * you `U`
 * good. `TKPWAOD TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * wears `WAERS`
 * dress `TKRES`
 * of `-F`
@@ -48,7 +48,9 @@
 * it; `T STPH*FPLT`
 * it `T`
 * rustles `RUS/-LS`
+* she `SHE`
 * moves. `PHOFS TP-PL`
+* And `AFPBD`
 * then `THEPB`
 * can `K`
 * tell `TEL`
@@ -76,7 +78,7 @@
 * between `TWAOEPB`
 * leaves, `HREFS KW-BG`
 * lies `HRAO*EUS`
-* rose, `ROEZ KW-BG`
+* rose, `ROES KW-BG`
 * flat `TPHRAT`
 * dry; `TKRAOEU STPH*FPLT`
 * not `TPHOT`
@@ -97,6 +99,7 @@
 * "I `KR-GS EU`
 * wonder `WOPBD`
 * why `KWR`
+* grandmother `TKPWR-PL`
 * looks `HRAOBGS`
 * withered `WEU/THER/-D`
 * flower `TPHRO*UR`
@@ -104,15 +107,15 @@
 * book `PWAOBG`
 * that `THA`
 * way? `WAEU H-F`
-* do `TKO`
+* Do `KPA/TKO`
 * know?" `TPHOE H-F KR-GS`
-* Why, `KWR KW-BG`
+* Why, `KPA/KWR KW-BG`
 * grandmother's `TKPWR-PL AES`
 * fall `TPAUL`
 * upon `POPB`
 * looking `HRAOG`
 * it, `T KW-BG`
-* rose `ROEZ`
+* rose `ROES`
 * revives, `RAOE/SRAOEUFS KW-BG`
 * fills `TPEULS`
 * room `RAOPL`
@@ -155,6 +158,7 @@
 * left `HREFT`
 * to `TO`
 * grandmother. `TKPWR-PL TP-PL`
+* At `KPA/AT`
 * side `SAOEUD`
 * sits `SEUTS`
 * man, `PHAPB KW-BG`
@@ -166,7 +170,7 @@
 * cannot `K/TPHOT`
 * smile `SPHAOEUL`
 * now. `TPHOU TP-PL`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * smiling `SPHAOEULG`
 * memory `PHOEURPL`
 * day, `TKAEU KW-BG`
@@ -200,7 +204,7 @@
 * back `PWABG`
 * sleep `SHRAOEP`
 * awhile. `A/WHAOEUL TP-PL`
-* we `WE`
+* We `KPA/WE`
 * could `KO`
 * hear `HAER`
 * breathing `PWRAO*EGT`
@@ -213,6 +217,7 @@
 * beamed `PWAEPL/-D`
 * happiness `HAEP/-PBS`
 * peace. `PAES TP-PL`
+* It `KPA/T`
 * if `TP`
 * lighted `HRAOEUT/-D`
 * up `UP`
@@ -251,6 +256,7 @@
 * such `SUFP`
 * dear, `TKAER KW-BG`
 * good `TKPWAOD`
+* The `KPA/-T`
 * hymn-book, `H*EUPL H-PB PWAOBG KW-BG`
 * still `STEUL`
 * lay, `HRAEU KW-BG`
@@ -259,13 +265,14 @@
 * head, `HED KW-BG`
 * wished `WEURBD`
 * buried `PWUR/EUD`
+* On `KPA/OPB`
 * grave, `TKPWRAEUF KW-BG`
 * close `KHROES`
 * by `PWEU`
 * churchyard `KH*URPBLG/KWRARD`
 * wall, `WAUL KW-BG`
 * planted `PHRAPBT/-D`
-* rose-tree; `ROEZ H-PB TRAOE STPH*FPLT`
+* rose-tree; `ROES H-PB TRAOE STPH*FPLT`
 * soon `SAOPB`
 * full `TPUL`
 * roses, `ROESZ KW-BG`
@@ -276,7 +283,7 @@
 * sang `SAPBG`
 * over `OEFR`
 * grave. `TKPWRAEUF TP-PL`
-* from `TPR`
+* From `KPA/TPR`
 * organ `O*RPBG`
 * church `KHUFRPB`
 * sounded `SOUPBD/-D`
@@ -293,12 +300,16 @@
 * safely, `SAEUFL KW-BG`
 * night, `TPHAOEUT KW-BG`
 * pluck `PHRUBG`
+* from `TPR`
 * tree `TRAOE`
 * wall. `WAUL TP-PL`
 * know `TPHOE`
 * more `PHOR`
 * than `THAPB`
+* we `WE`
+* do `TKO`
 * living. `HREUFG TP-PL`
+* They `KPA/THE`
 * what `WHA`
 * terror `TER/O*R`
 * would `WO`
@@ -325,6 +336,7 @@
 * crumbled `KRUPL/-BLD`
 * dust `TKUFT`
 * also. `HR-S TP-PL`
+* But `KPA/PWUT`
 * grave `TKPWRAEUF`
 * bloom, `PWHRAOPL KW-BG`
 * sings, `SEUPBGS KW-BG`
@@ -335,9 +347,10 @@
 * loving, `HRUFG KW-BG`
 * always `AULS`
 * young. `KWRUPBG TP-PL`
+* Eyes `KPA/AO*EUS`
 * never `TPHEF`
 * die. `TKAOEU TP-PL`
-* Ours `OURS`
+* Ours `KPA/OURS`
 * will `HR`
 * behold `PWE/HOLD`
 * dear `TKAER`

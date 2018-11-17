@@ -1,6 +1,6 @@
 # The Elves and the Shoemaker
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -26,7 +26,7 @@
 * all `AUL`
 * had `H`
 * in `TPH`
-* The `-T`
+* the `-T`
 * world `WORLD`
 * gone, `TKPWOPB KW-BG`
 * save `SAF`
@@ -37,7 +37,7 @@
 * pair `PAEUR`
 * of `-F`
 * shoes. `SHAOUS TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * cut `KUT`
 * his `HEUS`
 * out, `OUT KW-BG`
@@ -50,6 +50,7 @@
 * early `ERL`
 * morning `PHORPBG`
 * work. `WORBG TP-PL`
+* His `KPA/HEUS`
 * conscience `KAUPBGS`
 * clear `KHRAOER`
 * heart `HART`
@@ -62,10 +63,11 @@
 * bed, `PWED KW-BG`
 * left `HREFT`
 * cares `KAEURS`
-* Heaven, `HEFPB KW-BG`
+* Heaven, `KPA/HEFPB KW-BG`
 * soon `SAOPB`
 * fell `TPEL`
 * asleep. `A/HRAOEP TP-PL`
+* In `KPA/TPH`
 * after `AF`
 * said `SAEUD`
 * prayers, `PRAEURS KW-BG`
@@ -76,11 +78,13 @@
 * when, `WHEPB KW-BG`
 * great `TKPWRAET`
 * wonder, `WOPBD KW-BG`
+* there `THR`
 * stood `STAOD`
 * shoes `SHAOUS`
 * made, `PHAED KW-BG`
 * upon `POPB`
 * table. `TAEUBL TP-PL`
+* The `KPA/-T`
 * good `TKPWAOD`
 * man `PHAPB`
 * knew `TPHAOU`
@@ -93,6 +97,7 @@
 * odd `OD`
 * thing `THEUPBG`
 * happening. `HAPG TP-PL`
+* He `KPA/HE`
 * looked `HRAOBGD`
 * workmanship; `WORBG/PHEPB/SH-P STPH*FPLT`
 * false `TPALS`
@@ -145,6 +150,7 @@
 * work `WORBG`
 * done `TKOPB`
 * hand. `HAPBD TP-PL`
+* Soon `KPA/SAOPB`
 * buyers, `PWAOEURS KW-BG`
 * handsomely `HAPBD/SOPL/HREU`
 * goods, `TKPWAODZ KW-BG`
@@ -162,11 +168,12 @@
 * by `PWEU`
 * daybreak, `TKAEU/PWRAEBG KW-BG`
 * became `PWAEUPL`
-* thriving `THAOEUFG`
+* thriving `THRAOEUFG`
 * off `OF`
 * again. `TKPWEPB TP-PL`
+* One `KPA/WUPB`
 * evening, `AOEPBG KW-BG`
-* About `PW`
+* about `PW`
 * Christmas-time, `KREUS/PHAS H-PB TAOEUPL KW-BG`
 * wife `WAOEUF`
 * were `WR`
@@ -205,6 +212,7 @@
 * watched `WAFPD`
 * would `WO`
 * happen. `HAP TP-PL`
+* As `KPA/AZ`
 * midnight, `PHAOEUPBT KW-BG`
 * little `HREUL`
 * naked `TPHAEUBGD`
@@ -225,20 +233,22 @@
 * take `TAEUBG`
 * eyes `AO*EUS`
 * them. `THEPL TP-PL`
+* And `AFPBD`
 * went, `WEPBT KW-BG`
 * till `T*EUL`
 * job `SKWROB`
 * done, `TKOPB KW-BG`
 * use `AOUS`
-* This `TH`
+* This `KPA/TH`
 * long `HROPBG`
 * before `PW-F`
 * daybreak; `TKAEU/PWRAEBG STPH*FPLT`
+* then `THEPB`
 * bustled `PWUS/-LD`
 * quick `KWEUBG`
 * lightning. `HRAOEUT/TPHEUPBG TP-PL`
 * shoemaker. `xxx shoemaker TP-PL`
-* 'These `AE THEZ`
+* 'These `AE KPA/THEZ`
 * wights `WAO*EUT/-S`
 * have `SR`
 * made `PHAED`
@@ -290,6 +300,7 @@
 * themselves, `TH*EPLS KW-BG`
 * elves `EFLS`
 * do. `TKO TP-PL`
+* About `KPA/PW`
 * midnight `PHAOEUPBT`
 * came, `KAEUPL KW-BG`
 * dancing `TKAPBS/-G`

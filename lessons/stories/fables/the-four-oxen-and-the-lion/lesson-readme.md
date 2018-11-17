@@ -1,7 +1,7 @@
 # The Four Oxen and the Lion
 
 * A `KPA/AEU`
-* Lion `HRO*EUPB`
+* Lion `KPA/HRO*EUPB`
 * used `AOUFD`
 * to `TO`
 * prowl `PROUL`
@@ -10,10 +10,10 @@
 * field `TPAOELD`
 * in `TPH`
 * which `WEU`
-* Four `TPOUR`
-* Oxen `OBGS/*EPB`
+* Four `KPA/TPOUR`
+* Oxen `KPA/OBGS/*EPB`
 * dwell. `TKWEL TP-PL`
-* Many `PHAEPB`
+* Many `KPA/PHAEPB`
 * time `TAOEUPL`
 * he `HE`
 * tried `TRAOEUD`
@@ -42,7 +42,7 @@
 * horns `HORPBS`
 * of `-F`
 * them. `THEPL TP-PL`
-* At `AT`
+* At `KPA/AT`
 * last, `HRAFT KW-BG`
 * however, `HOUF KW-BG`
 * fell `TPEL`
@@ -58,7 +58,7 @@
 * separate `SERPT`
 * corner `KRORPB`
 * field. `TPAOELD TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * attacked `A/TABGD`
 * soon `SAOPB`
 * made `PHAED`
@@ -66,7 +66,7 @@
 * end `EPBD`
 * all `AUL`
 * four. `TPOUR TP-PL`
-* United `AOUPBTD`
+* United `KWRAOEUPBTD`
 * we `WE`
 * stand, `STAPBD KW-BG`
 * divided `TKWAOEUTD`

@@ -1,6 +1,6 @@
 # The Puppet-Show Man
 
-* on `OPB`
+* On `KPA/OPB`
 * board `PWAORD`
 * a `AEU`
 * steamer `STAOEPL/*ER`
@@ -42,6 +42,7 @@
 * from `TPR`
 * own `OEPB`
 * mouth. `PHO*UT TP-PL`
+* He `KPA/HE`
 * Dane, `TKA*EUPB KW-BG`
 * owner `OERPB`
 * travelling `TRAFLG/A*U`
@@ -54,14 +55,15 @@
 * box, `PWOBGS KW-BG`
 * proprietor `PRO/PRAOEU/TOR`
 * puppet-show. `PUPT H-PB SHOE TP-PL`
+* His `KPA/HEUS`
 * inborn `xxx inborn`
 * cheerfulness, `KHAOER/-FL/-PBS KW-BG`
 * said, `SAEUD KW-BG`
 * tested `TEFTD`
 * by `PWEU`
 * member `PHEB`
-* Polytechnic `POL/TEBG/TPHEUBG`
-* Institution, `STPHAOUG KW-BG`
+* Polytechnic `KPA/POL/TEBG/TPHEUBG`
+* Institution, `STPHAO*UGS KW-BG`
 * experiment `SPERPLT`
 * made `PHAED`
 * completely `KPHRELT`
@@ -72,7 +74,7 @@
 * first `TPEUFRT`
 * understand `URPBD`
 * this, `TH KW-BG`
-* But `PWUT`
+* but `PWUT`
 * afterwards `A*FRDZ`
 * explained `SPHRAEUPBD`
 * whole `WHOEL`
@@ -90,7 +92,7 @@
 * little `HREUL`
 * town `TOUPB`
 * Slagelse; `xxx Slagelse STPH*FPLT`
-* There `THR`
+* there `THR`
 * splendid `SPHREPBD/EUD`
 * audience, `AUPBS KW-BG`
 * entirely `SPWAOEURL`
@@ -99,6 +101,7 @@
 * two `TWO`
 * respectable `R-PT/-BL`
 * matrons. `PHAEU/TROPB/-S TP-PL`
+* All `KPA/AUL`
 * once, `WUPBS KW-BG`
 * person `PERPB`
 * black, `PWHRABG KW-BG`
@@ -116,7 +119,7 @@
 * quite `KWAOEUT`
 * proper `PROR`
 * time. `TAOEUPL TP-PL`
-* this `TH`
+* This `KPA/TH`
 * very `SRE`
 * unusual `TPHAOURB`
 * spectator `SPEBGT/AEURT`
@@ -127,14 +130,14 @@
 * who `WHO`
 * was. `WAS TP-PL`
 * that `THA`
-* Institution `STPHAOUG`
+* Institution `STPHAO*UGS`
 * Copenhagen, `KOEP/*EPB/HAG KW-BG`
 * sent `SEPBT`
 * out `OUT`
 * lecture `HREBG`
 * people `PAOEPL`
 * provinces. `PROFPBS/-S TP-PL`
-* Punctually `PUPBG/TWAEL`
+* Punctually `KPA/PUPBG/TWAEL`
 * eight `AET`
 * o'clock `KHRO*BG`
 * my `PHEU`
@@ -149,30 +152,32 @@
 * consult `KULT`
 * convenience `SRAOEPBS`
 * public. `PHREUBG TP-PL`
-* "At `KR-GS AT`
+* "At `KR-GS KPA/AT`
 * nine `TPHAOEUPB`
 * lecturer `HREBG/KHUR/ER`
 * commenced `KPHEPBS/-D`
 * experiments, `SPERPLTS KW-BG`
-* Then `THEPB`
+* then `THEPB`
 * formed `TPORPLD`
 * part `PART`
 * audience. `AUPBS TP-PL`
+* It `KPA/T`
 * wonderful `WUFL`
 * both `PWO*T`
 * hear `HAER`
 * see. `SAOE TP-PL`
+* The `KPA/-T`
 * greater `TKPWRAERT`
 * beyond `KWROPBD`
 * comprehension, `KPREPBGS KW-BG`
 * led `HRED`
 * me `PHE`
 * think `THEU`
-* We `WE`
+* we `WE`
 * men `PHEPB`
 * can `K`
 * acquire `A/KWAOEU`
-* So `SO`
+* so `SO`
 * much, `PHUFP KW-BG`
 * surely `SHURL`
 * be `-B`
@@ -194,6 +199,7 @@
 * experiments `SPERPLTS`
 * were `WR`
 * miracles `PHEUR/K-LS`
+* on `OPB`
 * small `SPHAL`
 * scale, `SKAEL KW-BG`
 * yet `KWRET`
@@ -203,6 +209,7 @@
 * naturally `TPHRARL`
 * water `WAUR`
 * lips. `HREUPS TP-PL`
+* At `KPA/AT`
 * Moses `PHOES/ES`
 * prophets, `PRO*FT/-S KW-BG`
 * man `PHAPB`
@@ -216,12 +223,12 @@
 * they `THE`
 * burnt `PWURPBT`
 * stake. `STAEUBG TP-PL`
-* "All `KR-GS AUL`
+* "All `KR-GS KPA/AUL`
 * night `TPHAOEUT`
 * long `HROPBG`
 * could `KO`
 * sleep; `SHRAOEP STPH*FPLT`
-* Next `TPHEGT`
+* next `TPHEGT`
 * evening `AOEPBG`
 * gave `TKPWAEUF`
 * another `TPHOER`
@@ -249,7 +256,7 @@
 * whom `WHOPL`
 * alone `A/HROEPB`
 * played. `PHRAEUD TP-PL`
-* "When `KR-GS WHEPB`
+* "When `KR-GS KPA/WHEPB`
 * over, `OEFR KW-BG`
 * puppets `PUPT/-S`
 * removed `RE/PHOFD`
@@ -267,11 +274,13 @@
 * believe `PWHREF`
 * equally `KWAEL`
 * pleased. `PHRAOEFD TP-PL`
+* But `KPA/PWUT`
 * it, `T KW-BG`
 * much `PHUFP`
 * what `WHA`
 * explain `SPHRAEUPB`
 * me. `PHE TP-PL`
+* For `KPA/TPOR`
 * instance, `STPHAPBS KW-BG`
 * why `KWR`
 * piece `PAOES`
@@ -282,8 +291,9 @@
 * should `SHO`
 * become `PW-BG`
 * magnetic. `PHAPBG/EUBG TP-PL`
-* how `HOU`
+* How `KPA/HOU`
 * does `TKOS`
+* this `TH`
 * happen? `HAP H-F`
 * magnetic `PHAPBG/EUBG`
 * sparks `SPARBGS`
@@ -306,7 +316,7 @@
 * Luther, `HRAO*UT/*ER KW-BG`
 * some `SOPL`
 * kind. `KEUPBD TP-PL`
-* "'The `KR-GS AE -T`
+* "'The `KR-GS AE KPA/-T`
 * world `WORLD`
 * series `SAOERZ`
 * miracles,' `PHEUR/K-LS KW-BG AE`
@@ -318,6 +328,7 @@
 * call `KAUL`
 * everyday `EFRD`
 * matters.' `PHAERTS TP-PL AE`
+* And `AFPBD`
 * went `WEPBT`
 * explaining `SPHRAEUPBG`
 * things `THEUPBGS`
@@ -336,7 +347,7 @@
 * everything, `EFG KW-BG`
 * although `HR*T`
 * men. `PHEPB TP-PL`
-* "'One `KR-GS AE WUPB`
+* "'One `KR-GS AE KPA/WUPB`
 * happiest!' `HAP/KWREFT SKHRAPL AE`
 * idea `KWR-D`
 * pleased `PHRAOEFD`
@@ -344,7 +355,7 @@
 * 'are `AE R`
 * you `U`
 * happy?' `HAEP H-F AE`
-* "'Yes,' `KR-GS AE KWRE KW-BG AE`
+* "'Yes,' `KR-GS AE KPA/KWRE KW-BG AE`
 * replied; `RE/PHRAOEUD STPH*FPLT`
 * 'for `AE TPOR`
 * am `APL`
@@ -387,7 +398,7 @@
 * ways, `WAEUS KW-BG`
 * agree `TKPWRAE`
 * subject. `SUBT TP-PL`
-* However, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * wine `WAOEUPB`
 * excellent, `KPHREPBT KW-BG`
 * clanked `KHRA*PBG/-D`
@@ -395,6 +406,7 @@
 * glasses `TKPWHRAFS`
 * together `TOGT`
 * drank. `TKRAPBG TP-PL`
+* There `KPA/THR`
 * magic `PHAPBLG/EUBG`
 * most `PHOFT`
 * tipsy; `TEUP/SEU STPH*FPLT`
@@ -421,7 +433,7 @@
 * him, `HEUPL KW-BG`
 * smiled; `SPHAOEULD STPH*FPLT`
 * sworn `SWORPB`
-* These `THEZ`
+* these `THEZ`
 * ancient `AEURBT`
 * deities `TKAOET/KWREUS`
 * disguise, `STKPWAOEUS KW-BG`
@@ -440,9 +452,11 @@
 * gifted `TKPWEUFT/-D`
 * life, `HRAOEUF KW-BG`
 * company. `K-P TP-PL`
+* We `KPA/WE`
 * drank `TKRAPBG`
 * success, `SKES KW-BG`
 * glasses. `TKPWHRAFS TP-PL`
+* Then `KPA/THEPB`
 * packed `PABGD`
 * dolls `TKOLS`
 * fastened `TPAS/-PBD`
@@ -522,7 +536,7 @@
 * applause `A/PHRAUS`
 * house. `HOUS TP-PL`
 * 'prima `AE PREU/PHA`
-* donna' `TKOPB/TPHA AE`
+* donna' `xxx donna AE`
 * lights `HRAOEUTS`
 * red, `RED KW-BG`
 * blue `PWHRU`
@@ -534,6 +548,7 @@
 * bottle, `PWO*LT KW-BG`
 * bottle `PWO*LT`
 * them; `THEPL STPH*FPLT`
+* My `KPA/PHEU`
 * breath `PWR*ET`
 * taken `TAEPB`
 * away, `A/WAEU KW-BG`
@@ -550,6 +565,7 @@
 * box `PWOBGS`
 * again, `TKPWEPB KW-BG`
 * never `TPHEF`
+* So `KPA/SO`
 * told `TOLD`
 * roundly `ROUPBD/HREU`
 * after `AF`
@@ -557,9 +573,11 @@
 * nothing `TPHOG`
 * puppets; `PUPT/-S STPH*FPLT`
 * killed `KEULD`
+* After `KPA/AF`
 * while `WHAOEUL`
 * bed `PWED`
 * room; `RAOPL STPH*FPLT`
+* how `HOU`
 * got `TKPWOT`
 * there, `THR KW-BG`
 * professor, `PROEFR KW-BG`
@@ -582,7 +600,7 @@
 * shut `SHUT`
 * lid, `HREUD KW-BG`
 * seated `SAOETD`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * you'll `UL`
 * stay,' `STAEU KW-BG AE`
 * I, `EU KW-BG`
@@ -602,6 +620,7 @@
 * happy `HAEP`
 * king, `KEUPBG KW-BG`
 * sleep `SHRAOEP`
+* Next `KPA/TPHEGT`
 * morning—correctly `PHORPBG EPL/TKA*RB KREBT/HREU`
 * speaking, `SPAOEG KW-BG`
 * noon, `TPHAOPB KW-BG`
@@ -640,7 +659,7 @@
 * best, `PWEFT KW-BG`
 * no `TPHO`
 * offended. `OE/TPEPBD/-D TP-PL`
-* Plays `PHRAEUZ`
+* Plays `KPA/PHRAEUZ`
 * neglected `TPHEGD`
 * now-a-days `TPHOU H-PB AEU H-PB TKAEUS`
 * ran `RAPB`
@@ -650,6 +669,7 @@
 * listened `HREUFPBD`
 * tears `TAERS`
 * cheeks `KHAOEBGS`
+* These `KPA/THEZ`
 * forward. `TPAORD TP-PL`
 * place `PHRAEUS`
 * cry `KRAOEU`

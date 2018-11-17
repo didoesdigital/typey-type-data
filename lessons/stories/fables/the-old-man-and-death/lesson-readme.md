@@ -1,6 +1,6 @@
 # The Old Man and Death
 
-* An `APB`
+* An `KPA/APB`
 * old `OLD`
 * labourer, `HRAEUB/RER/A*U KW-BG`
 * bent `PWEPBT`
@@ -15,7 +15,7 @@
 * in `TPH`
 * a `AEU`
 * forest. `TPOEFRT TP-PL`
-* At `AT`
+* At `KPA/AT`
 * last `HRAFT`
 * he `HE`
 * grew `TKPWRAOU`
@@ -38,33 +38,33 @@
 * life `HRAOEUF`
 * any `TPHEU`
 * longer. `HRORPBG TP-PL`
-* Ah, `HA*E KW-BG`
+* Ah, `KPA/HA*E KW-BG`
 * I `EU`
 * wish `WEURB`
-* Death `TK*T`
+* Death `KPA/TK*T`
 * would `WO`
 * only `OEPBL`
 * come `KOPL`
 * take `TAEUBG`
 * me!" `PHE SKHRAPL KR-GS`
-* As `AZ`
+* As `KPA/AZ`
 * spoke, `SPOEBG KW-BG`
-* Death, `TK*T KW-BG`
+* Death, `KPA/TK*T KW-BG`
 * grisly `TKPWREUS/HREU`
 * skeleton, `SKEL/TOPB KW-BG`
 * appeared `A/PAOERD`
 * said `SAEUD`
 * to `TO`
 * him: `HEUPL STPH-FPLT`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * wouldst `WO/S*/T*`
 * thou, `THO*U KW-BG`
-* Mortal? `PHOR/TAL H-F`
+* Mortal? `KPA/PHOR/TAL H-F`
 * heard `HAERD`
 * thee `THAOE`
 * call `KAUL`
 * me." `PHE TP-PL KR-GS`
-* "Please, `KR-GS PHRES KW-BG`
+* "Please, `KR-GS KPA/PHRES KW-BG`
 * sir," `SEUR KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * woodcutter, `WAOD/KUT/*ER KW-BG`
@@ -78,7 +78,7 @@
 * on `OPB`
 * my `PHEU`
 * shoulder?" `SHOURLD H-F KR-GS`
-* We `WE`
+* We `KPA/WE`
 * often `OFPB`
 * be `-B`
 * sorry `SOER`

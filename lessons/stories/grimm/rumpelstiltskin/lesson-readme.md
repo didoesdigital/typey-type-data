@@ -1,6 +1,6 @@
 # Rumpelstiltskin
 
-* by `PWEU`
+* By `KPA/PWEU`
 * the `-T`
 * side `SAOEUD`
 * of `-F`
@@ -20,12 +20,13 @@
 * there `THR`
 * stood `STAOD`
 * mill. `PHEUL TP-PL`
-* miller's `PHEUL/HRER AES`
+* The `KPA/-T`
+* miller's `PHEUL/*ER AES`
 * house `HOUS`
 * was `WAS`
 * close `KHROES`
 * by, `PWEU KW-BG`
-* miller, `PHEUL/HRER KW-BG`
+* miller, `PHEUL/*ER KW-BG`
 * you `U`
 * must `PHUFT`
 * know, `TPHOE KW-BG`
@@ -33,12 +34,12 @@
 * very `SRE`
 * beautiful `PWAOUFL`
 * daughter. `TKAUR TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * was, `WAS KW-BG`
 * moreover, `PHROEFR KW-BG`
 * shrewd `SHRAOUD`
 * clever; `KHREFR STPH*FPLT`
-* miller `PHEUL/HRER`
+* miller `PHEUL/*ER`
 * so `SO`
 * proud `PROUD`
 * her, `HER KW-BG`
@@ -61,11 +62,11 @@
 * gold `TKPWOELD`
 * out `OUT`
 * straw. `STRAU TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * this `TH`
 * fond `TPOPBD`
 * money; `PHUPB STPH*FPLT`
-* When `WHEPB`
+* when `WHEPB`
 * heard `HAERD`
 * boast `PWOEFT`
 * greediness `TKPWRAOE/TKEU/*PBS`
@@ -77,7 +78,7 @@
 * brought `PWRAUT`
 * before `PW-F`
 * him. `HEUPL TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * led `HRED`
 * her `HER`
 * chamber `KHAEURPL`
@@ -89,7 +90,7 @@
 * gave `TKPWAEUF`
 * spinning-wheel, `SPEUPBG H-PB WHAOEL KW-BG`
 * said, `SAEUD KW-BG`
-* 'All `AE AUL`
+* 'All `AE KPA/AUL`
 * spun `SPUPB`
 * into `TPHAO`
 * morning, `PHORPBG KW-BG`
@@ -97,19 +98,21 @@
 * love `HRUF`
 * your `KWROUR`
 * life.' `HRAOEUF TP-PL AE`
-* it `T`
+* It `KPA/T`
 * vain `SRA*EUPB`
 * poor `PAOR`
 * maiden `PHAEUD/*EPB`
 * said `SAEUD`
+* it `T`
 * only `OEPBL`
 * silly `SEUL/HREU`
 * father, `TPAER KW-BG`
+* she `SHE`
 * do `TKO`
 * no `TPHO`
 * such `SUFP`
 * thing `THEUPBG`
-* Straw `STRAU`
+* straw `STRAU`
 * gold: `TKPWOELD STPH-FPLT`
 * door `TKAOR`
 * locked, `HROBGD KW-BG`
@@ -131,7 +134,7 @@
 * man `PHAPB`
 * hobbled `HOB/-LD`
 * in, `TPH KW-BG`
-* 'Good `AE TKPWAOD`
+* 'Good `AE KPA/TKPWAOD`
 * morrow `PHOR/ROE`
 * you, `U KW-BG`
 * my `PHEU`
@@ -141,7 +144,7 @@
 * are `R`
 * weeping `WAOEP/-G`
 * for?' `TPOR H-F AE`
-* 'Alas!' `AE A/HRAS SKHRAPL AE`
+* 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * she, `SHE KW-BG`
 * 'I `AE EU`
 * gold, `TKPWOELD KW-BG`
@@ -149,17 +152,18 @@
 * know `TPHOE`
 * not `TPHOT`
 * how.' `HOU TP-PL AE`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * will `HR`
 * give `TKPWEUF`
 * me,' `PHE KW-BG AE`
 * hobgoblin, `HOB/TKPWOB/HREUPB KW-BG`
 * 'to `AE TO`
 * you?' `U H-F AE`
-* 'My `AE PHEU`
+* 'My `AE KPA/PHEU`
 * necklace,' `TPHEBG/HRAS KW-BG AE`
 * replied `RE/PHRAOEUD`
 * maiden. `PHAEUD/*EPB TP-PL`
+* He `KPA/HE`
 * took `TAOBG`
 * at `AT`
 * word, `WORD KW-BG`
@@ -167,14 +171,17 @@
 * wheel, `WHAOEL KW-BG`
 * whistled `WHEUS/-LD`
 * sang: `SAPBG STPH-FPLT`
-* 'Round `AE ROUPBD`
+* 'Round `AE KPA/ROUPBD`
 * about, `PW KW-BG`
 * round `ROUPBD`
-* Lo `HRO`
+* Lo `KPA/HRO`
 * behold! `PWE/HOLD SKHRAPL`
-* reel `RAOEL`
+* Reel `KPA/RAOEL`
 * away, `A/WAEU KW-BG`
+* reel `RAOEL`
+* Straw `KPA/STRAU`
 * gold!' `TKPWOELD SKHRAPL AE`
+* And `AFPBD`
 * about `PW`
 * wheel `WHAOEL`
 * went `WEPBT`
@@ -184,6 +191,7 @@
 * done, `TKOPB KW-BG`
 * all `AUL`
 * gold. `TKPWOELD TP-PL`
+* When `KPA/WHEPB`
 * came `KAEUPL`
 * saw `SAU`
 * this, `TH KW-BG`
@@ -213,10 +221,11 @@
 * door, `TKAOR KW-BG`
 * me `PHE`
 * task?' `TAFBG H-F AE`
-* 'the `AE -T`
+* 'The `AE KPA/-T`
 * ring `REUPBG`
 * finger,' `TPURPBG KW-BG AE`
 * she. `SHE TP-PL`
+* So `KPA/SO`
 * friend `TPREPBD`
 * ring, `REUPBG KW-BG`
 * again, `TKPWEPB KW-BG`
@@ -236,19 +245,21 @@
 * is, `S KW-BG`
 * shall `SHAL`
 * queen.' `KWAOEPB TP-PL AE`
+* As `KPA/AZ`
 * alone `A/HROEPB`
 * third `THEURD`
 * time?' `TAOEUPL H-F AE`
 * have `SR`
 * nothing `TPHOG`
 * left,' `HREFT KW-BG AE`
-* 'Then `AE THEPB`
+* 'Then `AE KPA/THEPB`
 * say `SAEU`
 * man, `PHAPB KW-BG`
+* 'the `AE -T`
 * first `TPEUFRT`
 * child `KHAOEULD`
 * may `PHAE`
-* 'That `AE THA`
+* 'That `AE KPA/THA`
 * never `TPHEF`
 * be,' `-B KW-BG AE`
 * thought `THAUT`
@@ -258,6 +269,7 @@
 * task `TAFBG`
 * would `WO`
 * asked. `SK-D TP-PL`
+* Round `KPA/ROUPBD`
 * old `OLD`
 * song, `SOPBG KW-BG`
 * manikin `xxx manikin`
@@ -272,11 +284,13 @@
 * really `R-L`
 * became `PWAEUPL`
 * queen. `KWAOEPB TP-PL`
+* At `KPA/AT`
 * birth `PW*EURT`
 * glad, `TKPWHRAD KW-BG`
 * forgot `TPAURGT`
 * dwarf, `TKWAFR KW-BG`
 * said. `SAEUD TP-PL`
+* But `KPA/PWUT`
 * sitting `SEUGT`
 * playing `PHRA*EUG`
 * baby, `PWAEB KW-BG`
@@ -321,23 +335,23 @@
 * ones. `WUPBZ TP-PL`
 * next `TPHEGT`
 * came, `KAEUPL KW-BG`
-* TIMOTHY, `TEUPL/THEU KW-BG`
-* ICHABOD, `EUBG/PWOD KW-BG`
-* BENJAMIN, `PWEPBG/PHEUPB KW-BG`
-* JEREMIAH, `SKWRER/PHAOEU/KWRA KW-BG`
+* TIMOTHY, `xxx TIMOTHY KW-BG`
+* ICHABOD, `xxx ICHABOD KW-BG`
+* BENJAMIN, `xxx BENJAMIN KW-BG`
+* JEREMIAH, `xxx JEREMIAH KW-BG`
 * remember; `REB STPH*FPLT`
 * each `AOEFP`
 * them `THEPL`
-* 'Madam, `AE PHAD/APL KW-BG`
+* 'Madam, `AE PHA*D/APL KW-BG`
 * is `S`
 * name.' `TPHAEUPL TP-PL AE`
 * second `SEBGD`
 * comical `KOPL/K-L`
 * hear `HAER`
 * of, `-F KW-BG`
-* BANDY-LEGS, `PWAPB/TKEU H-PB HREGS KW-BG`
+* BANDY-LEGS, `KPA/PWAPB/TKEU H-PB KPA/HREGS KW-BG`
 * HUNCHBACK, `xxx HUNCHBACK KW-BG`
-* CROOK-SHANKS, `KRAOBG H-PB SHAPB/-BGS KW-BG`
+* CROOK-SHANKS, `KPA/KRAOBG H-PB KPA/SHAPB/-BGS KW-BG`
 * on; `OPB STPH*FPLT`
 * gentleman `SKWRA*PL`
 * every `EF`
@@ -369,19 +383,21 @@
 * dancing `TKAPBS/-G`
 * leg, `HREG KW-BG`
 * singing: `SEUPBG/-G STPH-FPLT`
-* "Merrily `KR-GS PHER/HREU`
+* "Merrily `KR-GS KPA/PHER/HREU`
 * feast `TPAOEFT`
 * I'll `AOEUL`
 * make. `PHAEUBG TP-PL`
-* Today `TOED`
+* Today `KPA/TOED`
 * brew, `PWRAOU KW-BG`
 * tomorrow `TORPL`
 * bake; `PWAEUBG STPH*FPLT`
-* Merrily `PHER/HREU`
+* Merrily `KPA/PHER/HREU`
 * dance `TKAPBS`
 * sing, `SEUPBG KW-BG`
+* For `KPA/TPOR`
 * stranger `STRAEURPBG`
 * bring. `PWREU TP-PL`
+* Little `KPA/HREUL`
 * does `TKOS`
 * lady `HRA*ED`
 * dream `TKRAOEPL`
@@ -395,6 +411,7 @@
 * enjoy `TPHOEUPBLG`
 * fun; `TPUPB STPH*FPLT`
 * nurse `TPHURS`
+* by `PWEU`
 * baby `PWAEB`
 * arms, `ARPLS KW-BG`
 * quite `KWAOEUT`
@@ -409,23 +426,23 @@
 * woods; `WAODZ STPH*FPLT`
 * cried `KRAOEUD`
 * out, `OUT KW-BG`
-* 'Now, `AE TPHOU KW-BG`
+* 'Now, `AE KPA/TPHOU KW-BG`
 * lady, `HRA*ED KW-BG`
 * name?' `TPHAEUPL H-F AE`
-* 'Is `AE S`
-* JOHN?' `SKWROPB H-F AE`
+* 'Is `AE KPA/S`
+* JOHN?' `KPA/SKWROPB H-F AE`
 * asked `SK-D`
-* 'No, `AE TPHO KW-BG`
+* 'No, `AE KPA/TPHO KW-BG`
 * madam!' `PHAD/APL SKHRAPL AE`
-* TOM?' `TOPL H-F AE`
+* TOM?' `xxx TOM H-F AE`
 * JEMMY?' `xxx JEMMY H-F AE`
-* 'It `AE T`
+* 'It `AE KPA/T`
 * not.' `TPHOT TP-PL AE`
-* 'Can `AE K`
+* 'Can `AE KPA/K`
 * name `TPHAEUPL`
 * RUMPELSTILTSKIN?' `xxx RUMPELSTILTSKIN H-F AE`
 * slyly. `SHRAOEU/HREU TP-PL`
-* 'Some `AE SOPL`
+* 'Some `AE KPA/SOPL`
 * witch `WEUFP`
 * that!--some `THA SKHRAPL H-PB H-PB SOPL`
 * that!' `THA SKHRAPL AE`
@@ -449,9 +466,9 @@
 * much `PHUFP`
 * trouble `TRUBL`
 * nothing, `TPHOG KW-BG`
-* 'We `AE WE`
+* 'We `AE KPA/WE`
 * wish `WEURB`
 * merry `PHER/REU`
 * feast, `TPAOEFT KW-BG`
 * Mr `PH*P/R*`
-* RUMPLESTILTSKIN!' `R*UPL/*L/STEUT/SKEUPB SKHRAPL AE`
+* RUMPLESTILTSKIN!' `xxx RUMPLESTILTSKIN SKHRAPL AE`

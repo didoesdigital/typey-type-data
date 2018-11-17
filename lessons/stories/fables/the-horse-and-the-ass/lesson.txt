@@ -1,15 +1,15 @@
 The Horse and the Ass
 
 'A': KPA/AEU
-'Horse': HORS
+'Horse': KPA/HORS
 'and': SKP
 'an': APB
-'Ass': A*S
+'Ass': KPA/A*S
 'were': WR
 'travelling': TRAFLG/A*U
 'together,': TOGT KW-BG
 'the': -T
-'Horse': HORS
+'Horse': KPA/HORS
 'prancing': PRAPBS/-G
 'along': A/HROPBG
 'in': TPH
@@ -17,7 +17,7 @@ The Horse and the Ass
 'fine': TPAOEUPB
 'trappings,': TRAPG/-S KW-BG
 'the': -T
-'Ass': A*S
+'Ass': KPA/A*S
 'carrying': KAERG
 'with': W
 'difficulty': TKOEUFLT
@@ -34,7 +34,7 @@ The Horse and the Ass
 'you,"': U KW-BG KR-GS
 'sighed': SAOEU/-D
 'the': -T
-'Ass;': A*S STPH*FPLT
+'Ass;': KPA/A*S STPH*FPLT
 '"nothing': KR-GS TPHOG
 'to': TO
 'do': TKO
@@ -48,7 +48,7 @@ The Horse and the Ass
 'harness': HARPBS
 'upon': POPB
 'you."': U TP-PL KR-GS
-'Next': TPHEGT
+'Next': KPA/TPHEGT
 'day,': TKAEU KW-BG
 'however,': HOUF KW-BG
 'there': THR
@@ -58,7 +58,7 @@ The Horse and the Ass
 'battle,': PWA*LT KW-BG
 'and': SKP
 'the': -T
-'Horse': HORS
+'Horse': KPA/HORS
 'was': WAS
 'wounded': WOUPBD/-D
 'to': TO
@@ -70,10 +70,10 @@ The Horse and the Ass
 'of': -F
 'the': -T
 'day.': TKAEU TP-PL
-'His': HEUS
+'His': KPA/HEUS
 'friend,': TPREPBD KW-BG
 'the': -T
-'Ass,': A*S KW-BG
+'Ass,': KPA/A*S KW-BG
 'happened': HAPD
 'to': TO
 'pass': PAS
@@ -93,8 +93,8 @@ The Horse and the Ass
 'wrong,"': WROPBG KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Ass:': A*S STPH-FPLT
-'"Better': KR-GS PWOERT
+'Ass:': KPA/A*S STPH-FPLT
+'"Better': KR-GS KPA/PWOERT
 'humble': UPL/-BL
 'security': SKURT
 'than': THAPB

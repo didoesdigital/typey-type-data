@@ -1,6 +1,6 @@
 # The Loveliest Rose in the World
 
-* there `THR`
+* There `KPA/THR`
 * lived `HREUFD`
 * once `WUPBS`
 * a `AEU`
@@ -23,11 +23,12 @@
 * every `EF`
 * land `HRAPBD`
 * world. `WORLD TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * specially `SPERBL/HREU`
 * loved `HROFD`
 * roses, `ROESZ KW-BG`
 * therefore `TH-FR`
+* she `SHE`
 * possessed `POS/ES/-D`
 * beautiful `PWAOUFL`
 * varieties `SRAOEURTS`
@@ -35,15 +36,15 @@
 * this `TH`
 * flower, `TPHRO*UR KW-BG`
 * wild `WAOEULD`
-* hedge-rose, `HEPBL H-PB ROEZ KW-BG`
+* hedge-rose, `HEPBL H-PB ROES KW-BG`
 * with `W`
 * its `EUTS`
 * apple-scented `A*EPL H-PB SKREPBT/-D`
 * leaves, `HREFS KW-BG`
 * to `TO`
 * Provence `xxx Provence`
-* rose. `ROEZ TP-PL`
-* they `THE`
+* rose. `ROES TP-PL`
+* They `KPA/THE`
 * grew `TKPWRAOU`
 * near `TPHAOER`
 * shelter `SHELT`
@@ -61,7 +62,7 @@
 * halls. `HAULS TP-PL`
 * fragrance `TPRAEUG/RAPBS`
 * color. `KROR TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * care `KAEUR`
 * sorrow `SROE`
 * dwelt `TKWELT`
@@ -78,7 +79,7 @@
 * that `THA`
 * must `PHUFT`
 * die. `TKAOEU TP-PL`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * is `S`
 * still `STEUL`
 * one `WUPB`
@@ -90,10 +91,10 @@
 * wisest `WAOEUZ/*ES`
 * among `PHOPBG`
 * them. `THEPL TP-PL`
-* "Bring `KR-GS PWREU`
+* "Bring `KR-GS KPA/PWREU`
 * her `HER`
 * loveliest `HROFL/KWREFT`
-* rose `ROEZ`
+* rose `ROES`
 * world; `WORLD STPH*FPLT`
 * which `WEU`
 * exhibits `KPEUBTS`
@@ -109,7 +110,7 @@
 * will `HR`
 * not `TPHOT`
 * die." `TKAOEU TP-PL KR-GS`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * parts `PARTS`
 * came `KAEUPL`
 * those `THOZ`
@@ -117,18 +118,22 @@
 * roses `ROESZ`
 * bloomed `PWHRAOPL/-D`
 * garden, `TKPWA*RPB KW-BG`
+* but `PWUT`
+* they `THE`
 * right `RAOEUT`
 * sort. `SORT TP-PL`
+* The `KPA/-T`
 * flower `TPHRO*UR`
 * be `-B`
 * love; `HRUF STPH*FPLT`
+* there `THR`
 * showed `SHOED`
 * forth `TPO*RT`
 * highest `HAOEU/EFT`
 * love? `HRUF H-F`
 * poets `POETS`
 * sang `SAPBG`
-* rose, `ROEZ KW-BG`
+* rose, `ROES KW-BG`
 * world, `WORLD KW-BG`
 * each `AOEFP`
 * named `TPHAEUPLD`
@@ -148,7 +153,7 @@
 * class, `KHRAS KW-BG`
 * age, `AEUPBLG KW-BG`
 * condition. `K-PB TP-PL`
-* "No `KR-GS TPHO`
+* "No `KR-GS KPA/TPHO`
 * has `HAS`
 * yet `KWRET`
 * flower," `TPHRO*UR KW-BG KR-GS`
@@ -160,6 +165,7 @@
 * where `W-R`
 * blooms `PWHRAOPL/-S`
 * splendor. `SHREPBD/O*R TP-PL`
+* It `KPA/T`
 * coffin `KOFPB`
 * Romeo `ROEPL/KWROE`
 * Juliet, `SKWRAOUL/ET KW-BG`
@@ -180,7 +186,7 @@
 * hero `HOEUR`
 * dies `TKAOEUZ`
 * for `TPOR`
-* His `HEUS`
+* his `HEUS`
 * country `KREU`
 * sacred, `SKRED KW-BG`
 * memory `PHOEURPL`
@@ -190,9 +196,9 @@
 * redder `RED/ER`
 * than `THAPB`
 * veins. `SRAEUPBS TP-PL`
-* Neither `TPHAOERT`
+* Neither `KPA/TPHAOERT`
 * magic `PHAPBLG/EUBG`
-* Science, `SKRAOEUPBS KW-BG`
+* Science, `KPA/SKRAOEUPBS KW-BG`
 * obtain `OB/TAEUPB`
 * wondrous `WOPBD/ROUS`
 * man `PHAPB`
@@ -240,13 +246,13 @@
 * me `PHE`
 * childlike `xxx childlike`
 * affection." `A*FBGS TP-PL KR-GS`
-* "This `KR-GS TH`
-* rose," `ROEZ KW-BG KR-GS`
+* "This `KR-GS KPA/TH`
+* rose," `ROES KW-BG KR-GS`
 * man; `PHAPB STPH*FPLT`
 * "but `KR-GS PWUT`
 * more `PHOR`
 * lovely." `HROFL TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * lovely," `HROFL KW-BG KR-GS`
 * women. `WEUPL TP-PL`
 * have `SR`
@@ -258,7 +264,7 @@
 * white, `WHAOEUT KW-BG`
 * like `HRAOEUBG`
 * leaves `HREFS`
-* blush-rose. `PWHRURB H-PB ROEZ TP-PL`
+* blush-rose. `PWHRURB H-PB ROES TP-PL`
 * I `EU`
 * saw `SAU`
 * had `H`
@@ -280,15 +286,15 @@
 * mother `PHOER`
 * pray `PRAEU`
 * anguish." `APBG/WEURB TP-PL KR-GS`
-* "Holy `KR-GS HOEUL`
+* "Holy `KR-GS KPA/HOEUL`
 * wonderful `WUFL`
 * might `PHAOEUT`
 * white `WHAOEUT`
 * grief, `TKPWRAOEF KW-BG`
 * we `WE`
 * seek." `SAOEBG TP-PL KR-GS`
-* "No; `KR-GS TPHO STPH*FPLT`
-* Lord's `HRORD AES`
+* "No; `KR-GS KPA/TPHO STPH*FPLT`
+* Lord's `HRO*RD AES`
 * table," `TAEUBL KW-BG KR-GS`
 * good `TKPWAOD`
 * old `OLD`
@@ -325,7 +331,7 @@
 * queen's `KWAOEPB AES`
 * little `HREUL`
 * son. `SOPB TP-PL`
-* Tears `TAERS`
+* Tears `KPA/TAERS`
 * stood `STAOD`
 * glistened `TKPWHREUS/-PBD`
 * cheeks; `KHAOEBGS STPH*FPLT`
@@ -334,17 +340,18 @@
 * velvet, `SREL/SRET KW-BG`
 * silver `SEUL/SRER`
 * clasps. `KHRAS/-PS TP-PL`
-* "Mother," `KR-GS PHOER KW-BG KR-GS`
+* "Mother," `KR-GS KPA/PHOER KW-BG KR-GS`
 * cried `KRAOEUD`
 * boy; `PWOEU STPH*FPLT`
 * "only `KR-GS OEPBL`
 * hear `HAER`
 * read." `RAED TP-PL KR-GS`
+* And `AFPBD`
 * seated `SAOETD`
 * himself `H*EUPLS`
 * bedside, `PWED/SAOEUD KW-BG`
 * read `RAED`
-* Him `HEUPL`
+* Him `KPA/HEUPL`
 * suffered `SUFRD`
 * death `TK*T`
 * cross `KROS`
@@ -352,8 +359,9 @@
 * even `AOEPB`
 * are `R`
 * unborn. `UPB/PWORPB TP-PL`
+* He `KPA/HE`
 * read, `RAED KW-BG`
-* "Greater `KR-GS TKPWRAERT`
+* "Greater `KR-GS KPA/TKPWRAERT`
 * hath `HA*T`
 * this," `TH KW-BG KR-GS`
 * roseate `xxx roseate`
@@ -367,11 +375,12 @@
 * forth, `TPO*RT KW-BG`
 * type `TAOEUP`
 * shed `SHED`
+* His `KPA/HEUS`
 * cross. `KROS TP-PL`
 * see `SAOE`
 * it," `T KW-BG KR-GS`
 * said. `SAEUD TP-PL`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * beholds `PWE/HOLD/-S`
 * this, `TH KW-BG`
 * earth, `*ERT KW-BG`

@@ -7,7 +7,7 @@
 * faithful `TPA*EUT/-FL`
 * dog, `TKOG KW-BG`
 * called `KAULD`
-* Sultan, `SUL/TAPB KW-BG`
+* Sultan, `KPA/SUL/TAPB KW-BG`
 * who `WHO`
 * was `WAS`
 * grown `TKPWROEPB`
@@ -18,6 +18,7 @@
 * all `AUL`
 * his `HEUS`
 * teeth. `TAO*ET TP-PL`
+* And `AFPBD`
 * one `WUPB`
 * day `TKAEU`
 * when `WHEPB`
@@ -33,7 +34,7 @@
 * will `HR`
 * shoot `SHAOT`
 * old `OLD`
-* Sultan `SUL/TAPB`
+* Sultan `KPA/SUL/TAPB`
 * tomorrow `TORPL`
 * morning, `PHORPBG KW-BG`
 * for `TPOR`
@@ -43,8 +44,8 @@
 * no `TPHO`
 * use `AOUS`
 * now.' `TPHOU TP-PL AE`
-* but `PWUT`
-* 'Pray `AE PRAEU`
+* But `KPA/PWUT`
+* 'Pray `AE KPA/PRAEU`
 * let `HRET`
 * poor `PAOR`
 * creature `KRAOEFP`
@@ -64,7 +65,7 @@
 * livelihood `HRAOFD`
 * rest `REFT`
 * days.' `TKAEUS TP-PL AE`
-* 'But `AE PWUT`
+* 'But `AE KPA/PWUT`
 * what `WHA`
 * can `K`
 * do `TKO`
@@ -85,7 +86,8 @@
 * be `-B`
 * sure `SHUR`
 * us, `US KW-BG`
-* Then `THEPB`
+* but `PWUT`
+* then `THEPB`
 * did `TK`
 * it `T`
 * earn `ERPB`
@@ -96,6 +98,7 @@
 * depend `TK-P`
 * upon `POPB`
 * it.' `T TP-PL AE`
+* Poor `KPA/PAOR`
 * lying `HRAOEUG`
 * close `KHROES`
 * by `PWEU`
@@ -108,7 +111,7 @@
 * think `THEU`
 * would `WO`
 * day; `TKAEU STPH*FPLT`
-* So `SO`
+* so `SO`
 * evening `AOEPBG`
 * went `WEPBT`
 * good `TKPWAOD`
@@ -123,13 +126,13 @@
 * meant `PHEPBT`
 * kill `KEUL`
 * morning. `PHORPBG TP-PL`
-* 'Make `AE PHAEUBG`
+* 'Make `AE KPA/PHAEUBG`
 * yourself `KWRO*URS`
 * easy,' `EZ KW-BG AE`
 * you `U`
 * some `SOPL`
 * advice. `SREUS TP-PL`
-* your `KWROUR`
+* Your `KPA/KWROUR`
 * master, `PHAFRT KW-BG`
 * know, `TPHOE KW-BG`
 * goes `TKPW-S`
@@ -152,7 +155,7 @@
 * while `WHAOEUL`
 * are `R`
 * work. `WORBG TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * lie `HRAOEU`
 * child, `KHAOEULD KW-BG`
 * pretend `PRE/TEPBD`
@@ -179,6 +182,7 @@
 * thankful `THAPB/K-FL`
 * long `HROPBG`
 * live.' `HREUF TP-PL AE`
+* The `KPA/-T`
 * dog `TKOG`
 * liked `HRAOEUBGD`
 * this `TH`
@@ -198,9 +202,10 @@
 * thing `THEUPBG`
 * back `PWABG`
 * mistress. `PHEUS/TRES TP-PL`
+* Then `KPA/THEPB`
 * patted `PAT/-D`
 * on `OPB`
-* 'Old `AE OLD`
+* 'Old `AE KPA/OLD`
 * our `OUR`
 * from `TPR`
 * therefore `TH-FR`
@@ -209,7 +214,7 @@
 * of, `-F KW-BG`
 * plenty `PHREPBT`
 * eat. `AOET TP-PL`
-* Wife, `WAOEUF KW-BG`
+* Wife, `KPA/WAOEUF KW-BG`
 * go `TKPW`
 * home, `HOEPL KW-BG`
 * dinner, `TKEURPB KW-BG`
@@ -217,20 +222,23 @@
 * cushion `KUGS`
 * sleep `SHRAOEP`
 * lives.' `HREUFS TP-PL AE`
+* So `KPA/SO`
 * time `TAOEUPL`
 * forward `TPAORD`
 * could `KO`
 * wish `WEURB`
 * for. `TPOR TP-PL`
+* Soon `KPA/SAOPB`
 * afterwards `A*FRDZ`
 * came `KAEUPL`
 * wished `WEURBD`
 * joy, `SKWROEU KW-BG`
-* 'Now, `AE TPHOU KW-BG`
+* 'Now, `AE KPA/TPHOU KW-BG`
 * fellow, `TPO*EUL KW-BG`
 * tell `TEL`
 * tales, `TAELS KW-BG`
 * turn `TURPB`
+* your `KWROUR`
 * head `HED`
 * other `OER`
 * way `WAEU`
@@ -240,11 +248,11 @@
 * fine `TPAOEUPB`
 * fat `TPAT`
 * sheep.' `SHAOEP TP-PL AE`
-* 'No,' `AE TPHO KW-BG AE`
-* Sultan; `SUL/TAPB STPH*FPLT`
+* 'No,' `AE KPA/TPHO KW-BG AE`
+* Sultan; `KPA/SUL/TAPB STPH*FPLT`
 * true `TRAOU`
 * master.' `PHAFRT TP-PL AE`
-* however, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * thought `THAUT`
 * joke, `SKWROEBG KW-BG`
 * night `TPHAOEUT`
@@ -321,6 +329,7 @@
 * wondered `WOPBD/-D`
 * there. `THR TP-PL`
 * boar, `PWO*R KW-BG`
+* however, `HOUF KW-BG`
 * quite `KWAOEUT`
 * hidden `HEUD/EPB`
 * himself, `H*EUPLS KW-BG`
@@ -342,7 +351,7 @@
 * away, `A/WAEU KW-BG`
 * roaring `RAORG`
 * out, `OUT KW-BG`
-* 'Look `AE HRAOBG`
+* 'Look `AE KPA/HRAOBG`
 * tree, `TRAOE KW-BG`
 * there `THR`
 * sits `SEUTS`
@@ -359,4 +368,4 @@
 * promised `PROPLS/-D`
 * friends `TPREPBDZ`
 * again `TKPWEPB`
-* Sultan. `SUL/TAPB TP-PL`
+* Sultan. `KPA/SUL/TAPB TP-PL`

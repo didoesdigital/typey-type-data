@@ -1,6 +1,6 @@
 # The Money-Box
 
-* in `TPH`
+* In `KPA/TPH`
 * a `AEU`
 * nursery `TPHURS/REU`
 * where `W-R`
@@ -18,10 +18,11 @@
 * very `SRE`
 * high `HAOEU`
 * wardrobe. `WARD/ROEB TP-PL`
-* it `T`
+* It `KPA/T`
 * was `WAS`
 * made `PHAED`
 * clay `KHRAEU`
+* in `TPH`
 * shape `SHAEUP`
 * pig, `PEUG KW-BG`
 * and `SKP`
@@ -32,7 +33,7 @@
 * back `PWABG`
 * pig `PEUG`
 * slit, `SHREUT KW-BG`
-* This `TH`
+* this `TH`
 * slit `SHREUT`
 * enlarged `EPB/HRARPBLGD`
 * with `W`
@@ -54,9 +55,11 @@
 * box, `PWOBGS KW-BG`
 * besides `PW-DZ`
 * pence. `xxx pence TP-PL`
+* The `KPA/-T`
 * money-pig `PHUPB H-PB PEUG`
 * stuffed `STUFD`
 * full `TPUL`
+* it `T`
 * could `KO`
 * no `TPHO`
 * longer `HRORPBG`
@@ -69,8 +72,9 @@
 * to `TO`
 * can `K`
 * attain. `A/TAEUPB TP-PL`
+* There `KPA/THR`
 * he `HE`
-* Upon `POPB`
+* upon `POPB`
 * cupboard, `WUP/PWORD KW-BG`
 * lofty, `HROF/TEU KW-BG`
 * looking `HRAOG`
@@ -78,6 +82,7 @@
 * everything `EFG`
 * else `ELS`
 * room. `RAOPL TP-PL`
+* He `KPA/HE`
 * knew `TPHAOU`
 * well `WEL`
 * enough `TPHUF`
@@ -124,11 +129,11 @@
 * drawers `TKRAURS`
 * partly `PARLT`
 * open. `OEP TP-PL`
-* She `SHE`
+* She `KPA/SHE`
 * called `KAULD`
 * out `OUT`
 * others, `OERS KW-BG`
-* "Let `KR-GS HRET`
+* "Let `KR-GS KPA/HRET`
 * us `US`
 * have `SR`
 * game `TKPWAEUPL`
@@ -140,6 +145,7 @@
 * worth `WO*RT`
 * playing `PHRA*EUG`
 * at." `AT TP-PL KR-GS`
+* Upon `KPA/POPB`
 * great `TKPWRAET`
 * uproar; `UP/ROR STPH*FPLT`
 * even `AOEPB`
@@ -173,6 +179,7 @@
 * light `HRAOEUT`
 * cheap `KHAEP`
 * rate. `RAEUT TP-PL`
+* And `AFPBD`
 * now `TPHOU`
 * begin, `TKPWEUPB KW-BG`
 * invited `EUPB/SRAOEUTD`
@@ -180,11 +187,11 @@
 * part `PART`
 * children's `KHEURPBS`
 * wagon, `WAG/OPB KW-BG`
-* Certainly `SERPBL`
+* certainly `SERPBL`
 * belonged `PWHROPBGD`
 * coarser `KAORS/ER`
 * playthings. `PHRAEU/THEUPBG/-S TP-PL`
-* "Each `KR-GS AOEFP`
+* "Each `KR-GS KPA/AOEFP`
 * has `HAS`
 * its `EUTS`
 * value," `SRAOUL KW-BG KR-GS`
@@ -195,7 +202,7 @@
 * be `-B`
 * noblemen; `xxx noblemen STPH*FPLT`
 * must `PHUFT`
-* Some `SOPL`
+* some `SOPL`
 * do `TKO`
 * work." `WORBG TP-PL KR-GS`
 * only `OEPBL`
@@ -208,6 +215,7 @@
 * accept `SEP`
 * verbal `SRERBL`
 * message. `PHEPBLG TP-PL`
+* But `KPA/PWUT`
 * reply, `RE/PHREU KW-BG`
 * said, `SAEUD KW-BG`
 * if `TP`
@@ -230,6 +238,7 @@
 * directly `TKREL`
 * into `TPHAO`
 * it. `T TP-PL`
+* Some `KPA/SOPL`
 * wanted `WAPBTD`
 * begin `TKPWEUPB`
 * comedy, `KOPL/TKEU KW-BG`
@@ -284,7 +293,7 @@
 * cushions, `KURB/OPBS KW-BG`
 * pretty `PREUT`
 * stupid. `STAOUPD TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * play `PHRAEU`
 * began, `TKPWAPB KW-BG`
 * sat `SAT`
@@ -294,6 +303,7 @@
 * applaud `A/PHRAUD`
 * stamp, `STAFRP KW-BG`
 * crack, `KRABG KW-BG`
+* when `WHEPB`
 * felt `TPELT`
 * gratified `TKPWRAT/TPAOEUD`
 * saw. `SAU TP-PL`
@@ -309,7 +319,7 @@
 * crack `KRABG`
 * everybody," `EFB KW-BG KR-GS`
 * cracker. `KRABG/*ER TP-PL`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * fine `TPAOEUPB`
 * noise `TPHOEUS`
 * you `U`
@@ -344,6 +354,7 @@
 * players, `PHRAEURS KW-BG`
 * pleased `PHRAOEFD`
 * much. `PHUFP TP-PL`
+* So `KPA/SO`
 * mind `PHAOEUPBD`
 * remember `REB`
 * them `THEPL`
@@ -354,6 +365,7 @@
 * whenever `WHEFR`
 * event `EFPBT`
 * happen. `HAP TP-PL`
+* They `KPA/THE`
 * enjoyed `EPB/SKWROEUD`
 * comedy `KOPL/TKEU`
 * thoughts `THAUTS`
@@ -366,10 +378,12 @@
 * nothing `TPHOG`
 * about `PW`
 * play. `PHRAEU TP-PL`
+* All `KPA/AUL`
 * while, `WHAOEUL KW-BG`
 * most `PHOFT`
 * himself, `H*EUPLS KW-BG`
 * thinking. `THEUG TP-PL`
+* His `KPA/HEUS`
 * on, `OPB KW-BG`
 * supposed, `SPOED KW-BG`
 * distant `STKAPBT`
@@ -378,6 +392,7 @@
 * burial, `PWUR/KWRAL KW-BG`
 * come `KOPL`
 * pass. `PAS TP-PL`
+* Certainly `KPA/SERPBL`
 * sooner `SAORPB`
 * than `THAPB`
 * expected—for `KP-PTD EPL/TKA*RB TPOR`
@@ -387,7 +402,7 @@
 * ground, `TKPWROUPBD KW-BG`
 * broken `PWROEPB`
 * pieces. `PAOEFS TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * pennies `PEPB/EUS`
 * hopped `HOPD`
 * danced `TKAPBS/-D`
@@ -418,6 +433,7 @@
 * therefore, `TH-FR KW-BG`
 * one, `WUPB KW-BG`
 * rattle. `RA*LT TP-PL`
+* This `KPA/TH`
 * beginning `TKPWEUPB/-G`
 * him, `HEUPL KW-BG`
 * we `WE`

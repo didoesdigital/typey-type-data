@@ -1,6 +1,6 @@
 # The Buckwheat
 
-* very `SRE`
+* Very `KPA/SRE`
 * often, `OFPB KW-BG`
 * after `AF`
 * a `AEU`
@@ -21,12 +21,12 @@
 * passed `PAFD`
 * over `OEFR`
 * it. `T TP-PL`
-* the `-T`
+* The `KPA/-T`
 * country `KREU`
 * people `PAOEPL`
 * say `SAEU`
 * that `THA`
-* This `TH`
+* this `TH`
 * appearance `PAOERPBS`
 * is `S`
 * caused `KAUFD`
@@ -37,7 +37,8 @@
 * will `HR`
 * tell `TEL`
 * you `U`
-* What `WHA`
+* what `WHA`
+* the `-T`
 * sparrow `SPAEUR/ROE`
 * says, `SEZ KW-BG`
 * heard `HAERD`
@@ -50,8 +51,9 @@
 * grew `TKPWRAOU`
 * near `TPHAOER`
 * buckwheat, `PWUBG/WHAOET KW-BG`
-* There `THR`
+* there `THR`
 * still. `STEUL TP-PL`
+* It `KPA/T`
 * large `HRARPBLG`
 * venerable `SREPB/-BL`
 * tree, `TRAOE KW-BG`
@@ -82,7 +84,7 @@
 * like `HRAOEUBG`
 * green `TKPWRAOEPB`
 * hair. `HAEUR TP-PL`
-* corn `KORPB`
+* Corn `KPA/KORPB`
 * grows `TKPWRO*ES`
 * in `TPH`
 * surrounding `SROUPBGD`
@@ -103,6 +105,7 @@
 * sitting `SEUGT`
 * on `OPB`
 * bough. `PWO*U TP-PL`
+* corn `KORPB`
 * smiling `SPHAOEULG`
 * heaviest `HEF/KWREFT`
 * richest `REUFP/EFTS`
@@ -113,7 +116,7 @@
 * low `HROE`
 * pious `PAOEU/OUS`
 * humility. `HAOUPL/EULT TP-PL`
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * was `WAS`
 * also `HR-S`
 * exactly `ELG`
@@ -125,7 +128,7 @@
 * erected `AOE/REBGD`
 * its `EUTS`
 * head `HED`
-* Proudly `PROUD/HREU`
+* proudly `PROUD/HREU`
 * stiffly `STEUF/HREU`
 * stem. `STEPL TP-PL`
 * "I `KR-GS EU`
@@ -148,7 +151,7 @@
 * pleasure `PHRERB`
 * at `AT`
 * us. `US TP-PL`
-* do `TKO`
+* Do `KPA/TKO`
 * know `TPHOE`
 * anything `TPHEUG`
 * prettier `PRET/KWRER`
@@ -156,27 +159,31 @@
 * we `WE`
 * are, `R KW-BG`
 * willow-tree?" `WEUL/HROE H-PB TRAOE H-F KR-GS`
+* And `AFPBD`
 * nodded `TPHOD/-D`
 * his `HEUS`
 * head, `HED KW-BG`
 * he `HE`
 * would `WO`
 * say, `SAEU KW-BG`
-* "Indeed `KR-GS TPHAOEPBD`
+* "Indeed `KR-GS KPA/TPHAOEPBD`
 * do." `TKO TP-PL KR-GS`
+* But `KPA/PWUT`
 * spread `SPRED`
 * itself `T/SEF`
 * with `W`
 * pride, `PRAOEUD KW-BG`
 * said, `SAEUD KW-BG`
-* "Stupid `KR-GS STAOUPD`
+* "Stupid `KR-GS KPA/STAOUPD`
 * tree; `TRAOE STPH*FPLT`
 * so `SO`
 * body." `PWO*ED TP-PL KR-GS`
+* There `KPA/THR`
 * arose `A/ROES`
+* very `SRE`
 * terrible `TERBL`
 * storm. `STORPL TP-PL`
-* all `AUL`
+* All `KPA/AUL`
 * field-flowers `TPAOELD H-PB TPHRO*URS`
 * folded `TPOELD/-D`
 * leaves `HREFS`
@@ -190,13 +197,14 @@
 * stood `STAOD`
 * erect `ER/EBGT`
 * pride. `PRAOEUD TP-PL`
-* "Bend `KR-GS PWEPBD`
+* "Bend `KR-GS KPA/PWEPBD`
 * your `KWROUR`
 * do," `TKO KW-BG KR-GS`
 * flowers. `TPHRO*URS TP-PL`
 * have `SR`
 * no `TPHO`
 * occasion `KWAEUGS`
+* do `TKO`
 * so," `SO KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * buckwheat. `PWUBG/WHAOET TP-PL`
@@ -210,17 +218,18 @@
 * above `PWOF`
 * earth `*ERT`
 * beneath. `TPHAO*ET TP-PL`
+* He `KPA/HE`
 * strike `STRAOEUBG`
 * before `PW-F`
 * can `K`
 * cry `KRAOEU`
 * for `TPOR`
 * mercy." `PHER/SEU TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * head," `HED KW-BG KR-GS`
-* "Close `KR-GS KHROES`
+* "Close `KR-GS KPA/KHROES`
 * leaves," `HREFS KW-BG KR-GS`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * lightning `HRAOEUT/TPHEUPBG`
 * cloud `KHROUD`
 * bursts; `PWUFRTS STPH*FPLT`
@@ -228,6 +237,7 @@
 * men `PHEPB`
 * cannot `K/TPHOT`
 * that. `THA TP-PL`
+* In `KPA/TPH`
 * flash `TPHRARB`
 * heaven `HEFPB`
 * opens, `OEPS KW-BG`
@@ -236,7 +246,8 @@
 * human `HAOUPL`
 * beings `-BGZ`
 * blind. `PWHRAOEUPBD TP-PL`
-* Then `THEPB`
+* What `KPA/WHA`
+* then `THEPB`
 * must `PHUFT`
 * happen `HAP`
 * us, `US KW-BG`
@@ -246,13 +257,14 @@
 * inferior `OEUFPB`
 * venture `SREPBT/UR`
 * so?" `SO H-F KR-GS`
-* "Inferior, `KR-GS OEUFPB KW-BG`
+* "Inferior, `KR-GS KPA/OEUFPB KW-BG`
 * indeed!" `TPHAOEPBD SKHRAPL KR-GS`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * intend `SPWEPBD`
 * peep `PAOEP`
 * into `TPHAO`
 * heaven." `HEFPB TP-PL KR-GS`
+* Proudly `KPA/PROUD/HREU`
 * boldly `PWOLD/HREU`
 * looked `HRAOBGD`
 * up, `UP KW-BG`
@@ -262,6 +274,7 @@
 * world `WORLD`
 * were `WR`
 * flames. `TPHRAEUPLS TP-PL`
+* When `KPA/WHEPB`
 * dreadful `TKRED/*FL`
 * passed, `PAFD KW-BG`
 * raised `RA*EUFD`
@@ -283,15 +296,17 @@
 * fell `TPEL`
 * willow `WEUL/HROE`
 * weeping. `WAOEP/-G TP-PL`
+* Then `KPA/THEPB`
 * sparrows `SPAEUR/ROE/-S`
 * asked `SK-D`
 * why `KWR`
 * weeping, `WAOEP/-G KW-BG`
+* all `AUL`
 * around `ARPBD`
 * him `HEUPL`
 * seemed `SAOEPLD`
 * cheerful. `KHAOER/-FL TP-PL`
-* "See," `KR-GS SAOE KW-BG KR-GS`
+* "See," `KR-GS KPA/SAOE KW-BG KR-GS`
 * they `THE`
 * "how `KR-GS HOU`
 * sun `SUPB`
@@ -305,7 +320,7 @@
 * perfume `PER/TPAOUPL`
 * flower `TPHRO*UR`
 * bush? `PWURB H-F`
-* Wherefore `W-R/TPOR`
+* Wherefore `KPA/W-R/TPOR`
 * weep, `WAOEP KW-BG`
 * told `TOLD`
 * them `THEPL`
@@ -314,6 +329,7 @@
 * punishment `PUPLT`
 * followed `TPOLD`
 * consequence. `KWEPBS TP-PL`
+* This `KPA/TH`
 * story `STOER`
 * me `PHE`
 * one `WUPB`

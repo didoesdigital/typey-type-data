@@ -1,6 +1,6 @@
 # The Storks
 
-* on `OPB`
+* On `KPA/OPB`
 * the `-T`
 * last `HRAFT`
 * house `HOUS`
@@ -32,7 +32,7 @@
 * beaks, `PWAOEBG/-S KW-BG`
 * which `WEU`
 * not `TPHOT`
-* Yet `KWRET`
+* yet `KWRET`
 * turned `TURPBD`
 * red `RED`
 * like `HRAOEUBG`
@@ -43,6 +43,7 @@
 * A `KPA/AEU`
 * way `WAEU`
 * off, `OF KW-BG`
+* on `OPB`
 * edge `EPBG`
 * roof, `RAOF KW-BG`
 * stood `STAOD`
@@ -55,13 +56,13 @@
 * to `TO`
 * be `-B`
 * idle, `AOEUD/*L KW-BG`
-* He `HE`
+* he `HE`
 * drew `TKRAOU`
 * up `UP`
 * one `WUPB`
 * leg, `HREG KW-BG`
 * other, `OER KW-BG`
-* So `SO`
+* so `SO`
 * still `STEUL`
 * that `THA`
 * seemed `SAOEPLD`
@@ -71,7 +72,7 @@
 * were `WR`
 * carved `KAFRBD`
 * wood. `WAOD TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * must `PHUFT`
 * look `HRAOBG`
 * very `SRE`
@@ -85,12 +86,13 @@
 * sentry `SEPBT/REU`
 * guarding `TKPWARD/-G`
 * nest. `TPHEFT TP-PL`
-* they `THE`
+* They `KPA/THE`
 * do `TKO`
 * know `TPHOE`
 * I `EU`
 * am `APL`
 * husband; `HUS STPH*FPLT`
+* they `THE`
 * will `HR`
 * think `THEU`
 * been `PW-PB`
@@ -102,6 +104,7 @@
 * continued `T-PBD`
 * standing `STAPBG`
 * leg. `HREG TP-PL`
+* In `KPA/TPH`
 * street `STRAOET`
 * below `PWHRO`
 * number `TPHUPL`
@@ -125,11 +128,11 @@
 * joined `SKWROEUPBD`
 * by `PWEU`
 * rest. `REFT/TP-PL`
-* These `THEZ`
+* These `KPA/THEZ`
 * are `R`
 * words `WORDZ`
 * song, `SOPBG KW-BG`
-* But `PWUT`
+* but `PWUT`
 * each `AOEFP`
 * only `OEPBL`
 * sang `SAPBG`
@@ -140,42 +143,47 @@
 * his `HEUS`
 * own `OEPB`
 * way. `WAEU TP-PL`
-* "Stork, `KR-GS STORBG KW-BG`
+* "Stork, `KR-GS KPA/STORBG KW-BG`
 * fly `TPHRAOEU`
 * away, `A/WAEU KW-BG`
+* Stand `KPA/STAPBD`
 * pray, `PRAEU KW-BG`
-* see `SAOE`
+* See `KPA/SAOE`
 * your `KWROUR`
+* With `KPA/W`
 * ones `WUPBZ`
 * hang `HAPBG`
 * one, `WUPB KW-BG`
+* And `AFPBD`
 * fry `TPRAOEU`
 * another; `TPHOER STPH*FPLT`
 * shoot `SHAOT`
 * third, `THEURD KW-BG`
 * roast `ROEFT`
 * brother." `PWROER TP-PL KR-GS`
-* "Just `KR-GS SKWRUFT`
+* "Just `KR-GS KPA/SKWRUFT`
 * hear `HAER`
 * singing," `SEUPBG/-G KW-BG KR-GS`
 * said `SAEUD`
 * storks; `STORBG/-S STPH*FPLT`
-* "They `KR-GS THE`
+* "they `KR-GS THE`
 * say `SAEU`
 * we `WE`
 * shall `SHAL`
 * hanged `HAPBGD`
 * roasted." `ROEFT/-D TP-PL KR-GS`
-* "Never `KR-GS TPHEF`
+* "Never `KR-GS KPA/TPHEF`
 * mind `PHAOEUPBD`
 * say; `SAEU STPH*FPLT`
 * you `U`
 * need `TPHAOED`
 * listen," `HREUFPB KW-BG KR-GS`
 * mother. `PHOER TP-PL`
+* "They `KR-GS KPA/THE`
 * can `K`
 * no `TPHO`
 * harm." `HARPL TP-PL KR-GS`
+* But `KPA/PWUT`
 * went `WEPBT`
 * singing `SEUPBG/-G`
 * pointing `POEUPBGT`
@@ -191,18 +199,19 @@
 * would `WO`
 * join `SKWROEUPB`
 * all. `AUL TP-PL`
+* The `KPA/-T`
 * comforted `K-FRTD`
 * told `TOLD`
 * mind. `PHAOEUPBD TP-PL`
-* "See," `KR-GS SAOE KW-BG KR-GS`
+* "See," `KR-GS KPA/SAOE KW-BG KR-GS`
 * she `SHE`
 * said, `SAEUD KW-BG`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * quiet `KWAO*EUT`
 * stands, `STAPBDZ KW-BG`
 * although `HR*T`
 * leg." `HREG TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * much `PHUFP`
 * frightened," `TPRAOEUPBD KW-BG KR-GS`
 * back `PWABG`
@@ -216,11 +225,11 @@
 * saw `SAU`
 * again— `TKPWEPB EPL/TKA*RB`
 * another." `TPHOER TP-PL KR-GS`
-* "Shall `KR-GS SHAL`
+* "Shall `KR-GS KPA/SHAL`
 * roasted?" `ROEFT/-D H-F KR-GS`
 * asked `SK-D`
 * storks. `STORBG/-S TP-PL`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * certainly `SERPBL`
 * not," `TPHOT KW-BG KR-GS`
 * "I `KR-GS EU`
@@ -236,15 +245,15 @@
 * us `US`
 * water, `WAUR KW-BG`
 * cry `KRAOEU`
-* 'Croak, `AE KROEBG KW-BG`
+* 'Croak, `AE KPA/KROEBG KW-BG`
 * croak,' `KROEBG KW-BG AE`
-* Then `THEPB`
+* then `THEPB`
 * eat `AOET`
 * up; `UP STPH*FPLT`
 * fun." `TPUPB TP-PL KR-GS`
-* "And `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * next?" `TPHEGT H-F KR-GS`
-* "Then," `KR-GS THEPB KW-BG KR-GS`
+* "Then," `KR-GS KPA/THEPB KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * mother, `PHOER KW-BG`
 * "all `KR-GS AUL`
@@ -259,31 +268,32 @@
 * every `EF`
 * how `HOU`
 * properly. `PRORL TP-PL`
+* If `KPA/TP`
 * not, `TPHOT KW-BG`
 * general `SKWREPBL`
 * thrust `THRUFT`
 * beak, `PWAOEBG KW-BG`
 * kill `KEUL`
 * them. `THEPL TP-PL`
-* Therefore `TH-FR`
+* Therefore `KPA/TH-FR`
 * take `TAEUBG`
 * pains `PAEUPBS`
 * learn, `HRERPB KW-BG`
 * ready `R-D`
 * drilling `TKREULG`
 * begins." `TKPWEUPBS TP-PL KR-GS`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * may `PHAE`
 * killed `KEULD`
 * after `AF`
 * all, `AUL KW-BG`
 * hark! `HARBG SKHRAPL`
 * again." `TKPWEPB TP-PL KR-GS`
-* "Listen `KR-GS HREUFPB`
+* "Listen `KR-GS KPA/HREUFPB`
 * me, `PHE KW-BG`
 * them," `THEPL KW-BG KR-GS`
 * stork. `STORBG TP-PL`
-* "After `KR-GS AF`
+* "After `KR-GS KPA/AF`
 * great `TKPWRAET`
 * review `RE/SRAOU`
 * over, `OEFR KW-BG`
@@ -297,7 +307,9 @@
 * there `THR`
 * mountains `PHOUPB/TAEUPBS`
 * forests. `TPOEFRT/-S TP-PL`
+* To `KPA/TO`
 * Egypt, `E/SKWREUPT KW-BG`
+* see `SAOE`
 * three-cornered `THRAOE H-PB KRORPB/-D`
 * houses `HO*UFS`
 * stone, `STOEPB KW-BG`
@@ -306,7 +318,7 @@
 * nearly `TPHAOERL`
 * clouds. `KHROUDZ TP-PL`
 * called `KAULD`
-* Pyramids, `PEUR/PHEUDZ KW-BG`
+* Pyramids, `KPA/PEUR/PHEUDZ KW-BG`
 * older `OERLD`
 * than `THAPB`
 * imagine; `PHAPBLG STPH*FPLT`
@@ -324,10 +336,10 @@
 * about, `PW KW-BG`
 * frogs `TPROGS`
 * abundance." `PWUPB/TKAPBS TP-PL KR-GS`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * o—h!" `O* EPL/TKA*RB H* SKHRAPL KR-GS`
 * cried `KRAOEUD`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * delightful `TKHRAOEUT/-FL`
 * place; `PHRAEUS STPH*FPLT`
 * all `AUL`
@@ -355,11 +367,12 @@
 * explain `SPHRAEUPB`
 * any `TPHEU`
 * other `OER`
-* "Will `KR-GS HR`
+* "Will `KR-GS W*EUL`
 * naughty `TPHAU/TEU`
 * freeze `TPRAOEZ`
 * pieces?" `PAOEFS H-F KR-GS`
 * pieces," `PAOEFS KW-BG KR-GS`
+* "but `KR-GS PWUT`
 * cold, `KOELD KW-BG`
 * obliged `OE/PWHRAOEUPBLGD`
 * sit `SEUT`
@@ -372,7 +385,7 @@
 * blooming `PWHRAOPL/-G`
 * flowers `TPHRO*URS`
 * sunshine." `SUPB/SHAO*EUPB TP-PL KR-GS`
-* time `TAOEUPL`
+* Time `KPA/TAOEUPL`
 * passed `PAFD`
 * on, `OPB KW-BG`
 * grew `TKPWRAOU`
@@ -390,6 +403,7 @@
 * tricks `TREUBGS`
 * perform `PORPL`
 * amuse `A/PHAOUS`
+* He `KPA/HE`
 * lay `HRAEU`
 * head `HED`
 * round `ROUPBD`
@@ -401,14 +415,14 @@
 * stories `STOERS`
 * marshes `PHAR/-RBS`
 * fens. `TPEPB/-S TP-PL`
-* "Come," `KR-GS KOPL KW-BG KR-GS`
-* "Now `KR-GS TPHOU`
+* "Come," `KR-GS KPA/KOPL KW-BG KR-GS`
+* "Now `KR-GS KPA/TPHOU`
 * learn `HRERPB`
 * fly." `TPHRAOEU TP-PL KR-GS`
 * come `KOPL`
 * top `TOP`
 * roof. `RAOF TP-PL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * tottered `xxx tottered`
 * first, `TPEUFRT KW-BG`
 * balance `PWAL`
@@ -417,23 +431,25 @@
 * fallen `TPAUL/-PB`
 * ground `TKPWROUPBD`
 * below. `PWHRO TP-PL`
-* "Look `KR-GS HRAOBG`
+* "Look `KR-GS KPA/HRAOBG`
 * me," `PHE KW-BG KR-GS`
-* "You `KR-GS U`
+* "you `KR-GS U`
 * hold `HOLD`
 * way, `WAEU KW-BG`
 * place `PHRAEUS`
 * feet `TPAOET`
 * so. `SO TP-PL`
-* once, `WUPBS KW-BG`
+* Once, `KPA/WUPBS KW-BG`
 * twice, `TWAOEUS KW-BG`
+* once, `WUPBS KW-BG`
 * twice—that `TWAOEUS EPL/TKA*RB THA`
 * it. `T TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * able `ABL`
 * care `KAEUR`
 * yourselves `KWRO*URSZ`
 * world." `WORLD TP-PL KR-GS`
+* Then `KPA/THEPB`
 * flew `TPHRAOU`
 * distance `STKAPBS`
 * made `PHAED`
@@ -452,7 +468,7 @@
 * creeping `KRAOEPG`
 * going `TKPW-G`
 * countries." `KUPBTS TP-PL KR-GS`
-* "Would `KR-GS WO`
+* "Would `KR-GS KPA/WO`
 * stay `STAEU`
 * here `HAOER`
 * winter `WEURPBT`
@@ -461,16 +477,17 @@
 * till `T*EUL`
 * comes `KOPLS`
 * you, `U KW-BG`
-* you?—Well `U H-F EPL/TKA*RB WEL`
+* you?—Well `U H-F EPL/TKA*RB KPA/WEL`
 * I'll `AOEUL`
 * call `KAUL`
 * them." `THEPL TP-PL KR-GS`
-* "Oh `KR-GS O*E`
+* "Oh `KR-GS KPA/O*E`
 * no, `TPHO KW-BG`
 * no," `TPHO KW-BG KR-GS`
 * jumping `SKWRUPL/-PG`
 * roof `RAOF`
 * others; `OERS STPH*FPLT`
+* now `TPHOU`
 * attentive, `A/TEPBT/EUF KW-BG`
 * third `THEURD`
 * little. `HREUL TP-PL`
@@ -493,19 +510,21 @@
 * pick `PEUBG`
 * eyes `AO*EUS`
 * out?" `OUT H-F KR-GS`
-* "No; `KR-GS TPHO STPH*FPLT`
+* "No; `KR-GS KPA/TPHO STPH*FPLT`
 * leave `HREF`
 * alone," `A/HROEPB KW-BG KR-GS`
 * me; `PHE STPH*FPLT`
 * more `PHOR`
 * important. `PORPB TP-PL`
 * then. `THEPB TP-PL`
-* One-two-three. `WUPB H-PB TWO H-PB THRAOE TP-PL`
+* One-two-three. `KPA/WUPB H-PB TWO H-PB THRAOE TP-PL`
 * right. `RAOEUT TP-PL`
 * left, `HREFT KW-BG`
 * chimney. `KHEUPL/TPHEU TP-PL`
+* There `KPA/THR`
 * now, `TPHOU KW-BG`
 * good. `TKPWAOD TP-PL`
+* That `KPA/THA`
 * easy `EZ`
 * graceful, `TKPWRAEUS/-FL KW-BG`
 * give `TKPWEUF`
@@ -519,6 +538,7 @@
 * show `SHOE`
 * best `PWEFT`
 * present. `PREPBT TP-PL`
+* You `KPA/U`
 * strut `STRUT`
 * proudly—it `PROUD/HREU EPL/TKA*RB T`
 * respected." `R-PTD TP-PL KR-GS`
@@ -537,13 +557,15 @@
 * an `APB`
 * apple `A*EPL`
 * eat." `AOET TP-PL KR-GS`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * revenge `RE/SREPBG`
 * ourselves," `O*URSZ KW-BG KR-GS`
 * whispered `WHEUS/PERD`
 * exercising. `KPER/SAOEUZ/-G TP-PL`
+* Of `KPA/-F`
 * determined `TKERPLD`
 * first `TPEUFRT`
+* Yet `KPA/KWRET`
 * fellow `TPO*EUL`
 * six `SEUBGS`
 * years `KWRAOERS`
@@ -559,6 +581,7 @@
 * grown-up `TKPWR*UP`
 * people `PAOEPL`
 * are. `R TP-PL`
+* So `KPA/SO`
 * boy, `PWOEU KW-BG`
 * because `PWAU`
 * keep `KAOEP`
@@ -574,7 +597,7 @@
 * grand `TKPWRAPBD`
 * review," `RE/SRAOU KW-BG KR-GS`
 * she. `SHE TP-PL`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * get `TKPWET`
 * badly `PWAD/HREU`
 * beak `PWAOEBG`
@@ -585,6 +608,7 @@
 * manner. `PHAERPB TP-PL`
 * wait `WAEUT`
 * see." `SAOE TP-PL KR-GS`
+* "You `KR-GS KPA/U`
 * see," `SAOE KW-BG KR-GS`
 * birds, `PWEURDZ KW-BG`
 * took `TAOBG`
@@ -593,6 +617,7 @@
 * pleasure `PHRERB`
 * lightly `HRAOEULT`
 * prettily. `PRET/HREU TP-PL`
+* As `KPA/AZ`
 * arrived, `A/REUFD KW-BG`
 * together `TOGT`
 * before `PW-F`
@@ -631,7 +656,9 @@
 * sweetly `SWAOET/HREU`
 * ever `-FR`
 * dream `TKRAOEPL`
+* time `TAOEUPL`
 * come. `KOPL TP-PL`
+* All `KPA/AUL`
 * parents `PARPBTS`
 * glad `TKPWHRAD`
 * child, `KHAOEULD KW-BG`
@@ -644,7 +671,7 @@
 * game `TKPWAEUPL`
 * storks." `STORBG/-S TP-PL KR-GS`
 * him?" `HEUPL H-F KR-GS`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * lies `HRAO*EUS`
 * dead `TKED`
 * has `HAS`

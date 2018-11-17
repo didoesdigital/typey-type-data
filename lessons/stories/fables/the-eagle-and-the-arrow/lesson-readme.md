@@ -1,7 +1,7 @@
 # The Eagle and the Arrow
 
-* an `APB`
-* Eagle `AOEG/*L`
+* An `KPA/APB`
+* Eagle `KPA/AOEG/*L`
 * was `WAS`
 * soaring `SAORG`
 * through `THRU`
@@ -13,14 +13,15 @@
 * heard `HAERD`
 * whizz `WEUZ/STKPW*`
 * of `-F`
-* Arrow, `AR/OE KW-BG`
+* an `APB`
+* Arrow, `KPA/AR/OE KW-BG`
 * and `SKP`
 * felt `TPELT`
 * itself `T/SEF`
 * wounded `WOUPBD/-D`
 * to `TO`
 * death. `TK*T TP-PL`
-* Slowly `SHROEL`
+* Slowly `KPA/SHROEL`
 * fluttered `TPHRUT/ERD`
 * down `TKOUPB`
 * earth, `*ERT KW-BG`
@@ -30,9 +31,9 @@
 * pouring `PORG`
 * out `OUT`
 * it. `T TP-PL`
-* Looking `HRAOG`
+* Looking `KPA/HRAOG`
 * upon `POPB`
-* Arrow `AR/OE`
+* Arrow `KPA/AR/OE`
 * which `WEU`
 * had `H`
 * been `PW-PB`
@@ -44,11 +45,11 @@
 * one `WUPB`
 * own `OEPB`
 * plumes. `PHRAOUPL/-S TP-PL`
-* "Alas!" `KR-GS A/HRAS SKHRAPL KR-GS`
+* "Alas!" `KR-GS KPA/A/HRAS SKHRAPL KR-GS`
 * cried, `KRAOEUD KW-BG`
 * as `AZ`
 * died, `TKAOEUD KW-BG`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * often `OFPB`
 * give `TKPWEUF`
 * our `OUR`

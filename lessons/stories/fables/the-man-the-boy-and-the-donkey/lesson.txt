@@ -1,7 +1,7 @@
 The Man, the Boy, and the Donkey
 
 'A': KPA/AEU
-'Man': PHAPB
+'Man': KPA/PHAPB
 'and': SKP
 'his': HEUS
 'son': SOPB
@@ -10,10 +10,10 @@ The Man, the Boy, and the Donkey
 'going': TKPW-G
 'with': W
 'their': THAEUR
-'Donkey': TKOPB/KEU
+'Donkey': KPA/TKOPB/KEU
 'to': TO
 'market.': PHARBGT TP-PL
-'As': AZ
+'As': KPA/AZ
 'they': THE
 'were': WR
 'walking': WAUG
@@ -27,33 +27,33 @@ The Man, the Boy, and the Donkey
 'them': THEPL
 'and': SKP
 'said:': SAEUD STPH-FPLT
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'fools,': TPAOLS KW-BG
 'what': WHA
 'is': S
 'a': AEU
-'Donkey': TKOPB/KEU
+'Donkey': KPA/TKOPB/KEU
 'for': TPOR
 'but': PWUT
 'to': TO
 'ride': RAOEUD
 'upon?"': POPB H-F KR-GS
-'So': SO
+'So': KPA/SO
 'the': -T
-'Man': PHAPB
+'Man': KPA/PHAPB
 'put': PUT
 'the': -T
-'Boy': PWOEU
+'Boy': KPA/PWOEU
 'on': OPB
 'the': -T
-'Donkey': TKOPB/KEU
+'Donkey': KPA/TKOPB/KEU
 'and': SKP
 'they': THE
 'went': WEPBT
 'on': OPB
 'their': THAEUR
 'way.': WAEU TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'soon': SAOPB
 'they': THE
 'passed': PAFD
@@ -65,7 +65,7 @@ The Man, the Boy, and the Donkey
 'of': -F
 'whom': WHOPL
 'said:': SAEUD STPH-FPLT
-'"See': KR-GS SAOE
+'"See': KR-GS KPA/SAOE
 'that': THA
 'lazy': HRAEZ
 'youngster,': KWRUPBG/STER KW-BG
@@ -77,12 +77,12 @@ The Man, the Boy, and the Donkey
 'while': WHAOEUL
 'he': HE
 'rides."': RAOEUDZ TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'the': -T
-'Man': PHAPB
+'Man': KPA/PHAPB
 'ordered': ORD/-D
 'his': HEUS
-'Boy': PWOEU
+'Boy': KPA/PWOEU
 'to': TO
 'get': TKPWET
 'off,': OF KW-BG
@@ -90,7 +90,7 @@ The Man, the Boy, and the Donkey
 'got': TKPWOT
 'on': OPB
 'himself.': H*EUPLS TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'they': THE
 'hadn't': H-PBT
 'gone': TKPWOPB
@@ -107,7 +107,7 @@ The Man, the Boy, and the Donkey
 'to': TO
 'the': -T
 'other:': OER STPH-FPLT
-'"Shame': KR-GS SHAEUPL
+'"Shame': KR-GS KPA/SHAEUPL
 'on': OPB
 'that': THA
 'lazy': HRAEZ
@@ -120,9 +120,9 @@ The Man, the Boy, and the Donkey
 'son': SOPB
 'trudge': TRUPBLG
 'along."': A/HROPBG TP-PL KR-GS
-'Well,': WEL KW-BG
+'Well,': KPA/WEL KW-BG
 'the': -T
-'Man': PHAPB
+'Man': KPA/PHAPB
 'didn't': TK-PBT
 'know': TPHOE
 'what': WHA
@@ -134,14 +134,14 @@ The Man, the Boy, and the Donkey
 'he': HE
 'took': TAOBG
 'his': HEUS
-'Boy': PWOEU
+'Boy': KPA/PWOEU
 'up': UP
 'before': PW-F
 'him': HEUPL
 'on': OPB
 'the': -T
-'Donkey.': TKOPB/KEU TP-PL
-'By': PWEU
+'Donkey.': KPA/TKOPB/KEU TP-PL
+'By': KPA/PWEU
 'this': TH
 'time': TAOEUPL
 'they': THE
@@ -160,8 +160,8 @@ The Man, the Boy, and the Donkey
 'point': POEUPBT
 'at': AT
 'them.': THEPL TP-PL
-'The': -T
-'Man': PHAPB
+'The': KPA/-T
+'Man': KPA/PHAPB
 'stopped': STOPD
 'and': SKP
 'asked': SK-D
@@ -170,10 +170,10 @@ The Man, the Boy, and the Donkey
 'were': WR
 'scoffing': SKOF/-G
 'at.': AT TP-PL
-'The': -T
+'The': KPA/-T
 'men': PHEPB
 'said:': SAEUD STPH-FPLT
-'"Aren't': KR-GS R-/TPH* AE T*
+'"Aren't': KR-GS KPA/R-/TPH* AE T*
 'you': U
 'ashamed': A/SHAEUPLD
 'of': -F
@@ -190,10 +190,10 @@ The Man, the Boy, and the Donkey
 'your': KWROUR
 'hulking': HULG/-G
 'son?"': SOPB H-F KR-GS
-'The': -T
-'Man': PHAPB
+'The': KPA/-T
+'Man': KPA/PHAPB
 'and': SKP
-'Boy': PWOEU
+'Boy': KPA/PWOEU
 'got': TKPWOT
 'off': OF
 'and': SKP
@@ -203,7 +203,7 @@ The Man, the Boy, and the Donkey
 'what': WHA
 'to': TO
 'do.': TKO TP-PL
-'They': THE
+'They': KPA/THE
 'thought': THAUT
 'and': SKP
 'they': THE
@@ -232,7 +232,7 @@ The Man, the Boy, and the Donkey
 'to': TO
 'their': THAEUR
 'shoulders.': SHOURLDZ TP-PL
-'They': THE
+'They': KPA/THE
 'went': WEPBT
 'along': A/HROPBG
 'amid': A/PHEUD
@@ -247,11 +247,11 @@ The Man, the Boy, and the Donkey
 'they': THE
 'came': KAEUPL
 'to': TO
-'Market': PHARBGT
-'Bridge,': PWREUPBLG KW-BG
+'Market': KPA/PHARBGT
+'Bridge,': KPA/PWREUPBLG KW-BG
 'when': WHEPB
 'the': -T
-'Donkey,': TKOPB/KEU KW-BG
+'Donkey,': KPA/TKOPB/KEU KW-BG
 'getting': TKPWEGT
 'one': WUPB
 'of': -F
@@ -263,7 +263,7 @@ The Man, the Boy, and the Donkey
 'and': SKP
 'caused': KAUFD
 'the': -T
-'Boy': PWOEU
+'Boy': KPA/PWOEU
 'to': TO
 'drop': TKROP
 'his': HEUS
@@ -271,11 +271,11 @@ The Man, the Boy, and the Donkey
 'of': -F
 'the': -T
 'pole.': POEL TP-PL
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'struggle': STRULG
 'the': -T
-'Donkey': TKOPB/KEU
+'Donkey': KPA/TKOPB/KEU
 'fell': TPEL
 'over': OEFR
 'the': -T
@@ -289,7 +289,7 @@ The Man, the Boy, and the Donkey
 'he': HE
 'was': WAS
 'drowned.': TKROUPBD TP-PL
-'"That': KR-GS THA
+'"That': KR-GS KPA/THA
 'will': HR
 'teach': TAOEFP
 'you,"': U KW-BG KR-GS
@@ -301,7 +301,7 @@ The Man, the Boy, and the Donkey
 'had': H
 'followed': TPOLD
 'them:': THEPL STPH-FPLT
-'"Please': KR-GS PHRES
+'"Please': KR-GS KPA/PHRES
 'all,': AUL KW-BG
 'and': SKP
 'you': U

@@ -1,7 +1,7 @@
 # The Two Pots
 
-* Two `TWO`
-* Pots `POTS`
+* Two `KPA/TWO`
+* Pots `KPA/POTS`
 * had `H`
 * been `PW-PB`
 * left `HREFT`
@@ -15,16 +15,16 @@
 * brass, `PWRAS KW-BG`
 * and `SKP`
 * earthenware. `*ERT/*EPB/WA*EUR TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * tide `TAOEUD`
-* rose `ROEZ`
+* rose `ROES`
 * they `THE`
 * both `PWO*T`
 * floated `TPHROET/-D`
 * off `OF`
 * down `TKOUPB`
 * stream. `STRAOEPL TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * earthenware `*ERT/*EPB/WA*EUR`
 * pot `POT`
 * tried `TRAOEUD`
@@ -39,7 +39,7 @@
 * which `WEU`
 * cried `KRAOEUD`
 * out: `OUT STPH-FPLT`
-* "Fear `KR-GS TPAOER`
+* "Fear `KR-GS KPA/TPAOER`
 * nothing, `TPHOG KW-BG`
 * friend, `TPREPBD KW-BG`
 * I `EU`
@@ -47,7 +47,7 @@
 * not `TPHOT`
 * strike `STRAOEUBG`
 * you." `U TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * may `PHAE`
 * come `KOPL`
 * in `TPH`
@@ -69,6 +69,7 @@
 * suffer `SUFR`
 * for `TPOR`
 * it." `T TP-PL KR-GS`
+* The `KPA/-T`
 * strong `STROPBG`
 * weak `WAEBG`
 * cannot `K/TPHOT`

@@ -1,6 +1,6 @@
 # Cinderilla or the Little Glass Slipper
 
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * there `THR`
 * was `WAS`
 * a `AEU`
@@ -20,7 +20,7 @@
 * that `THA`
 * ever `-FR`
 * seen. `SAOEPB TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * had, `H KW-BG`
 * by `PWEU`
 * former `TPORPL/*ER`
@@ -39,7 +39,7 @@
 * in `TPH`
 * all `AUL`
 * things. `THEUPBGS TP-PL`
-* he `HE`
+* He `KPA/HE`
 * had `H`
 * likewise, `HRAOEUBG/WAOEUS KW-BG`
 * another `TPHOER`
@@ -51,13 +51,14 @@
 * sweetness `SWAOET/-PBS`
 * temper, `TEPL/PER KW-BG`
 * which `WEU`
+* she `SHE`
 * took `TAOBG`
 * from `TPR`
 * mother, `PHOER KW-BG`
 * best `PWEFT`
 * creature `KRAOEFP`
 * world. `WORLD TP-PL`
-* no `TPHO`
+* No `KPA/TPHO`
 * sooner `SAORPB`
 * ceremonies `SER/PHOEP/-S`
 * wedding `WEGD`
@@ -91,10 +92,10 @@
 * tables, `TAEUBLS KW-BG`
 * &c. `SP-PBD KR* TP-PL`
 * rubbed `RUBD`
-* Madam's `PHAD/APL AES`
+* Madam's `PHA*D/APL AES`
 * chamber, `KHAEURPL KW-BG`
 * those `THOZ`
-* Misses, `PHEUFZ KW-BG`
+* Misses, `KPA/PHEUFZ KW-BG`
 * daughters; `TKAURS STPH*FPLT`
 * lay `HRAEU`
 * up `UP`
@@ -103,7 +104,7 @@
 * upon `POPB`
 * wretched `KREFPD`
 * straw-bed, `STRAU H-PB PWED KW-BG`
-* While `WHAOEUL`
+* while `WHAOEUL`
 * sisters `ST-RS`
 * fine `TPAOEUPB`
 * rooms, `RAOPLS KW-BG`
@@ -127,6 +128,7 @@
 * length, `HREPBG KW-BG`
 * head `HED`
 * foot. `TPAOT TP-PL`
+* The `KPA/-T`
 * poor `PAOR`
 * girl `TKPWEURL`
 * bore `PWOR`
@@ -142,7 +144,7 @@
 * governed `TKPWOFRPBD`
 * him `HEUPL`
 * intirely. `EUPB/TAOEUR/HREU TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * done `TKOPB`
 * work, `WORBG KW-BG`
 * used `AOUFD`
@@ -157,14 +159,14 @@
 * commonly `KPHOPBL`
 * be `-B`
 * called `KAULD`
-* Cinder-breech; `SEUPBD/ER H-PB PWRAOEFP STPH*FPLT`
+* Cinder-breech; `KPA/SEUPBD/ER H-PB PWRAOEFP STPH*FPLT`
 * youngest, `KWRUPBG/EFT KW-BG`
 * rude `RAOUD`
 * uncivil `xxx uncivil`
 * as `AZ`
 * eldest, `ELD/EFT KW-BG`
 * Cinderilla. `xxx Cinderilla TP-PL`
-* however, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * Cinderilla, `xxx Cinderilla KW-BG`
 * notwithstanding `TPHAPBG`
 * mean `PHAOEPB`
@@ -178,9 +180,9 @@
 * always `AULS`
 * dressed `TKREFD`
 * richly. `REUFP/HREU TP-PL`
-* it `T`
+* It `KPA/T`
 * happened `HAPD`
-* King's `KEUPBG AES`
+* King's `KO*EUPBG AES`
 * son `SOPB`
 * gave `TKPWAEUF`
 * ball, `PWAUL KW-BG`
@@ -188,7 +190,7 @@
 * persons `PERPBZ`
 * fashion `TPAGS`
 * it. `T TP-PL`
-* Our `OUR`
+* Our `KPA/OUR`
 * misses `PHEUFZ`
 * also `HR-S`
 * invited; `EUPB/SRAOEUTD STPH*FPLT`
@@ -196,6 +198,7 @@
 * grand `TKPWRAPBD`
 * figure `TPEUG`
 * quality. `KWALT TP-PL`
+* They `KPA/THE`
 * mightily `PHAOEUT/HREU`
 * delighted `TKHRAOEUTD`
 * invitation, `EUPB/SREU/TAEUGS KW-BG`
@@ -209,9 +212,11 @@
 * head-clothes `HED H-PB KHRO*ETS`
 * become `PW-BG`
 * them. `THEPL TP-PL`
+* This `KPA/TH`
 * new `TPHU`
 * trouble `TRUBL`
 * Cinderilla; `xxx Cinderilla STPH*FPLT`
+* it `T`
 * ironed `AOEURPBD`
 * sisters' `ST-RS AE`
 * linen, `HREUPB/-PB KW-BG`
@@ -224,7 +229,7 @@
 * how `HOU`
 * should `SHO`
 * dressed. `TKREFD TP-PL`
-* "For `KR-GS TPOR`
+* "For `KR-GS KPA/TPOR`
 * my `PHEU`
 * part," `PART KW-BG KR-GS`
 * said `SAEUD`
@@ -236,7 +241,7 @@
 * suit, `SAOUT KW-BG`
 * French `TPREFRPB`
 * trimming." `TREUPLG TP-PL KR-GS`
-* "And `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * I," `EU KW-BG KR-GS`
 * "shall `KR-GS SHAL`
 * only `OEPBL`
@@ -264,12 +269,12 @@
 * get, `TKPWET KW-BG`
 * head-dresses, `HED H-PB TKRES/-S KW-BG`
 * adjust `A/KWRUFT`
-* double-pinners, `TKUBL H-PB xxx pinners KW-BG`
+* double-pinners, `TKUBL H-PB PEUPB/*ERS KW-BG`
 * brushes, `PWRURBS KW-BG`
 * patches `PAFPS`
 * fashionable `TPAGS/-BL`
 * maker. `PHAEURBG TP-PL`
-* 'Double-pinners'--with `AE TKUBL H-PB xxx pinners AE H-PB H-PB W`
+* 'Double-pinners'--with `AE KPA/TKUBL H-PB PEUPB/*ERS AE H-PB H-PB W`
 * side-flaps `SAOEUD H-PB TPHRAPS`
 * each `AOEFP`
 * side--accurately `SAOEUD H-PB H-PB ABG/RAT/HREU`
@@ -290,6 +295,7 @@
 * heads, `HEDZ KW-BG`
 * willing `-LG`
 * do. `TKO TP-PL`
+* As `KPA/AZ`
 * doing `TK*G`
 * this, `TH KW-BG`
 * her: `HER STPH-FPLT`
@@ -297,14 +303,14 @@
 * you `U`
 * glad `TKPWHRAD`
 * ball?" `PWAUL H-F KR-GS`
-* "Ah!" `KR-GS HA*E SKHRAPL KR-GS`
+* "Ah!" `KR-GS KPA/HA*E SKHRAPL KR-GS`
 * she, `SHE KW-BG`
 * "you `KR-GS U`
 * jeer `SKWRAOER`
 * me; `PHE STPH*FPLT`
 * am `APL`
 * thither." `TH*EURT TP-PL KR-GS`
-* "thou `KR-GS THO*U`
+* "Thou `KR-GS KPA/THO*U`
 * art `ART`
 * right `RAOEUT`
 * it," `T KW-BG KR-GS`
@@ -313,9 +319,9 @@
 * "it `KR-GS T`
 * people `PAOEPL`
 * laugh `HRAF`
-* Cinder-breech `SEUPBD/ER H-PB PWRAOEFP`
+* Cinder-breech `KPA/SEUPBD/ER H-PB PWRAOEFP`
 * ball." `PWAUL TP-PL KR-GS`
-* any `TPHEU`
+* Any `KPA/TPHEU`
 * heads `HEDZ`
 * awry, `AU/REU KW-BG`
 * good, `TKPWAOD KW-BG`
@@ -339,23 +345,26 @@
 * shape, `SHAEUP KW-BG`
 * continually `TAEPBL`
 * looking-glass. `HRAOG H-PB TKPWHRAS TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * happy `HAEP`
 * came; `KAEUPL STPH*FPLT`
 * went `WEPBT`
-* Court, `KORT KW-BG`
+* Court, `KO*RT KW-BG`
 * followed `TPOLD`
 * eyes `AO*EUS`
 * could, `KO KW-BG`
+* when `WHEPB`
 * lost `HRO*S`
 * sight `SAOEUT`
 * fell `TPEL`
 * a-crying. `AEU H-PB KRAOEUG TP-PL`
+* Her `KPA/HER`
 * godmother, `TKPWOD/PHOER KW-BG`
 * saw `SAU`
 * tears, `TAERS KW-BG`
 * asked `SK-D`
-* What `WHA`
+* what `WHA`
 * matter. `PHAERT TP-PL`
 * wish `WEURB`
 * could----, `KO H-PB H-PB H-PB H-PB KW-BG`
@@ -368,7 +377,7 @@
 * sobbing. `SOB/-G TP-PL`
 * godmother `TKPWOD/PHOER`
 * hers, `HERS KW-BG`
-* Fairy, `TPAEUR/REU KW-BG`
+* Fairy, `KPA/TPAEUR/REU KW-BG`
 * wishest `WEURB/EFT`
 * thou `THO*U`
 * couldest `KO/EFT`
@@ -377,14 +386,14 @@
 * cried `KRAOEUD`
 * great `TKPWRAET`
 * sigh. `SAOEU TP-PL`
-* "Well," `KR-GS WEL KW-BG KR-GS`
+* "Well," `KR-GS KPA/WEL KW-BG KR-GS`
 * "be `KR-GS -B`
 * girl, `TKPWEURL KW-BG`
 * contrive `KAUPB/TRAOEUF`
 * shalt `SHALT`
 * go." `TKPW TP-PL KR-GS`
-* then `THEPB`
-* "Run `KR-GS RUPB`
+* Then `KPA/THEPB`
+* "Run `KR-GS KPA/RUPB`
 * garden, `TKPWA*RPB KW-BG`
 * bring `PWREU`
 * me `PHE`
@@ -410,6 +419,7 @@
 * gilded `TKPWEULD/-D`
 * over `OEFR`
 * gold. `TKPWOELD TP-PL`
+* then `THEPB`
 * look `HRAOBG`
 * mouse-trap, `PHOUS H-PB TRAP KW-BG`
 * found `TPOUPBD`
@@ -434,11 +444,12 @@
 * beautiful `PWAOUFL`
 * mouse-coloured `PHOUS H-PB KHROURD/A*U`
 * dapple-grey. `TKAP/-L H-PB TKPWRA*EU TP-PL`
+* Being `KPA/-BG`
 * loss `HROS`
 * coachman, `KOEFP/PHAPB KW-BG`
 * see," `SAOE KW-BG KR-GS`
 * says `SEZ`
-* "If `KR-GS TP`
+* "if `KR-GS TP`
 * never `TPHEF`
 * rat `RAT`
 * rat-trap, `RAT H-PB TRAP KW-BG`
@@ -448,14 +459,14 @@
 * him." `HEUPL TP-PL KR-GS`
 * right," `RAOEUT KW-BG KR-GS`
 * godmother; `TKPWOD/PHOER STPH*FPLT`
-* "Go `KR-GS TKPW`
+* "go `KR-GS TKPW`
 * look." `HRAOBG TP-PL KR-GS`
 * trap `TRAP`
 * her, `HER KW-BG`
 * three `THRAOE`
 * huge `HAOUPBLG`
 * rats. `RATS TP-PL`
-* fairy `TPAEUR/REU`
+* Fairy `KPA/TPAEUR/REU`
 * choice `KHOEUS`
 * three, `THRAOE KW-BG`
 * largest `HRARPBLG/EFT`
@@ -463,12 +474,14 @@
 * and, `SKP KW-BG`
 * having `SR-G`
 * touched `TUFPD`
+* he `HE`
 * fat `TPAT`
 * jolly `SKWROL/HREU`
 * smartest `SPHART/EFT`
 * whiskers `WHEUS/KER/-S`
 * beheld. `PWE/HELD TP-PL`
-* after `AF`
+* After `KPA/AF`
+* "Go `KR-GS KPA/TKPW`
 * again `TKPWEPB`
 * find `TPEUPBD`
 * lizards `HREUZ/ARDZ`
@@ -476,6 +489,7 @@
 * watering `WAURPBG`
 * pot; `POT STPH*FPLT`
 * me." `PHE TP-PL KR-GS`
+* no `TPHO`
 * so, `SO KW-BG`
 * footmen, `xxx footmen KW-BG`
 * skipped `SKEUPD`
@@ -490,7 +504,7 @@
 * whole `WHOEL`
 * lives. `HREUFS TP-PL`
 * Cinderilla: `xxx Cinderilla STPH-FPLT`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * here `HAOER`
 * an `APB`
 * equipage `xxx equipage`
@@ -541,6 +555,7 @@
 * controversy, `KROEFR KW-BG`
 * probably `PROBL`
 * squirrel. `SKWEURL TP-PL`
+* Long `KPA/HROPBG`
 * before `PW-F`
 * seventeenth `STPAOEPBT`
 * century `KROEURPBT`
@@ -553,10 +568,12 @@
 * term, `TERPL KW-BG`
 * ceased `KRAES/-D`
 * convey `KAUPB/SREU`
+* any `TPHEU`
 * meaning `PHAOEPBG`
 * people. `PAOEPL TP-PL`
-* thus `THUS`
+* Thus `KPA/THUS`
 * vair_ `xxx vair RUPBD`
+* fairy `TPAEUR/REU`
 * became, `PWAEUPL KW-BG`
 * oral `ORL`
 * tradition, `TRAGS KW-BG`
@@ -565,6 +582,7 @@
 * glass `TKPWHRAS`
 * slippers, `SHREUP/ERS KW-BG`
 * delightful `TKHRAOEUT/-FL`
+* thus `THUS`
 * decked `TKEBG/-D`
 * got `TKPWOT`
 * coach; `KOEFP STPH*FPLT`
@@ -572,6 +590,7 @@
 * commanded `KPHAPBD/-D`
 * stay `STAEU`
 * till `T*EUL`
+* after `AF`
 * midnight, `PHAOEUPBT KW-BG`
 * telling `TELG`
 * time, `TAOEUPL KW-BG`
@@ -594,7 +613,7 @@
 * joy. `SKWROEU TP-PL`
 * son, `SOPB KW-BG`
 * told `TOLD`
-* Princess, `PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/ES KW-BG`
 * whom `WHOPL`
 * nobody `TPHOEB`
 * knew, `TPHAOU KW-BG`
@@ -607,6 +626,7 @@
 * led `HRED`
 * hall, `HAUL KW-BG`
 * company. `K-P TP-PL`
+* There `KPA/THR`
 * profound `PRO/TPOUPBD`
 * silence, `SHREPBS KW-BG`
 * left `HREFT`
@@ -621,22 +641,23 @@
 * beauty `PWAOUT`
 * unknown `UPB/TPHOEPB`
 * comer. `KOPL/ER TP-PL`
+* Nothing `KPA/TPHOG`
 * heard `HAERD`
 * confused `KAOUFD`
 * noise `TPHOEUS`
 * of, `-F KW-BG`
-* "Ha! `KR-GS HA SKHRAPL`
+* "Ha! `KR-GS KPA/HA SKHRAPL`
 * handsome `HAPBD/SOPL`
 * is! `S SKHRAPL`
-* Ha! `HA SKHRAPL`
+* Ha! `KPA/HA SKHRAPL`
 * is!" `S SKHRAPL KR-GS`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * himself, `H*EUPLS KW-BG`
 * old `OLD`
 * was, `WAS KW-BG`
 * help `HEP`
 * ogling `OG/-LG`
-* Queen `KWAOEPB`
+* Queen `KWAO*EPB`
 * softly, `SOFT/HREU KW-BG`
 * "that `KR-GS THA`
 * time `TAOEUPL`
@@ -644,6 +665,7 @@
 * seen `SAOEPB`
 * lovely `HROFL`
 * creature." `KRAOEFP TP-PL KR-GS`
+* All `KPA/AUL`
 * ladies `HRAEUDZ`
 * busied `xxx busied`
 * considering `KR-G`
@@ -670,7 +692,7 @@
 * served `SEFRBD`
 * up, `UP KW-BG`
 * whereof `WROF`
-* Prince `PREUPBS`
+* Prince `PR*EUPBS`
 * ate `AEUT`
 * morsel, `PHOR/SEL KW-BG`
 * intently `EUPB/TEPBT/HREU`
@@ -687,6 +709,7 @@
 * them, `THEPL KW-BG`
 * did `TK`
 * know `TPHOE`
+* While `KPA/WHAOEUL`
 * amusing `A/PHAOUFG`
 * clock `KHROBG`
 * strike `STRAOEUBG`
@@ -702,7 +725,7 @@
 * seek `SAOEBG`
 * thanked `THAPBGD`
 * said, `SAEUD KW-BG`
-* "She `KR-GS SHE`
+* "she `KR-GS SHE`
 * heartily `HART/HREU`
 * desired `STKAOEURD`
 * her." `HER TP-PL KR-GS`
@@ -711,7 +734,7 @@
 * knocked `TPHOBGD`
 * door `TKAOR`
 * opened. `OEPD TP-PL`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * stayed," `STAEUD KW-BG KR-GS`
 * gaping, `TKPWAEUP/-G KW-BG`
 * rubbing `RUBG`
@@ -720,12 +743,15 @@
 * awaked `A/WAEUBG/-D`
 * sleep; `SHRAOEP STPH*FPLT`
 * not, `TPHOT KW-BG`
+* however, `HOUF KW-BG`
 * manner `PHAERPB`
 * inclination `EUPBG/TPHAEUGS`
 * sleep `SHRAOEP`
 * home. `HOEPL TP-PL`
+* "If `KR-GS KPA/TP`
 * hadst `xxx hadst`
 * ball," `PWAUL KW-BG KR-GS`
+* "thou `KR-GS THO*U`
 * wouldst `WO/S*/T*`
 * tired `TAOEURD`
 * it; `T STPH*FPLT`
@@ -736,7 +762,7 @@
 * us `US`
 * citrons." `SEUT/ROPB/-S TP-PL KR-GS`
 * name `TPHAEUPL`
-* Princess; `PREUPB/ES STPH*FPLT`
+* Princess; `KPA/PREUPB/ES STPH*FPLT`
 * anxious `KPUS`
 * learn `HRERPB`
 * give `TKPWEUF`
@@ -744,13 +770,14 @@
 * was. `WAS TP-PL`
 * smiling, `SPHAOEULG KW-BG`
 * replied: `RE/PHRAOEUD STPH-FPLT`
+* "She `KR-GS KPA/SHE`
 * indeed; `TPHAOEPBD STPH*FPLT`
-* Lord! `HRORD SKHRAPL`
+* Lord! `HRO*RD SKHRAPL`
 * been; `PW-PB STPH*FPLT`
 * her? `HER H-F`
-* Ah! `HA*E SKHRAPL`
+* Ah! `KPA/HA*E SKHRAPL`
 * dear `TKAER`
-* Miss `PHEUS`
+* Miss `KPA/PHEUS`
 * Charlotte, `KHARL/OT KW-BG`
 * do `TKO`
 * lend `HREPBD`
@@ -759,7 +786,7 @@
 * suit `SAOUT`
 * cloaths `xxx cloaths`
 * day!" `TKAEU SKHRAPL KR-GS`
-* "Ay, `KR-GS A/KWR*/SP-S KW-BG`
+* "Ay, `KR-GS KPA/A/KWR*/SP-S KW-BG`
 * sure!" `SHUR SKHRAPL KR-GS`
 * "lend `KR-GS HREPBD`
 * dirty `TKOEURT`
@@ -788,7 +815,7 @@
 * striking `STRAOEUG`
 * twelve, `TWEFL KW-BG`
 * eleven; `HREFPB STPH*FPLT`
-* rose `ROEZ`
+* rose `ROES`
 * fled `TPHRED`
 * nimble `TPHEUPL/*L`
 * deer. `TKAOER TP-PL`
@@ -803,7 +830,7 @@
 * guards `TKPWARDZ`
 * palace `PAL/AS`
 * gate `TKPWAET`
-* Princess `PREUPB/ES`
+* Princess `KPA/PREUPB/ES`
 * out; `OUT STPH*FPLT`
 * meanly `PHAOEPB/HREU`
 * dressed, `TKREFD KW-BG`
@@ -816,7 +843,7 @@
 * diverted, `TKWERT/-D KW-BG`
 * lady `HRA*ED`
 * there. `THR TP-PL`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * hurried `HUR/EUD`
 * haste, `HAEUFT KW-BG`
 * dropped `TKROPD`
@@ -830,6 +857,7 @@
 * person `PERPB`
 * owned `OEPBD`
 * slipper. `SHREUP/ER TP-PL`
+* What `KPA/WHA`
 * true; `TRAOU STPH*FPLT`
 * few `TPAOU`
 * after, `AF KW-BG`
@@ -843,7 +871,7 @@
 * slipper `SHREUP/ER`
 * fit. `TPEUT TP-PL`
 * try `TREU`
-* Princesses, `PREUPB/ES/-S KW-BG`
+* Princesses, `KPA/PREUPB/SES/-S KW-BG`
 * duchesses, `TKUFP/ES/-S KW-BG`
 * vain. `SRA*EUPB TP-PL`
 * possibly `POBL`
@@ -853,7 +881,7 @@
 * effect `EFBGT`
 * knew `TPHAOU`
 * laughing: `HRAFG STPH-FPLT`
-* "Let `KR-GS HRET`
+* "Let `KR-GS KPA/HRET`
 * me?" `PHE H-F KR-GS`
 * burst `PWUFRT`
 * a-laughing, `AEU H-PB HRAFG KW-BG`
@@ -881,11 +909,12 @@
 * pulled `PULD`
 * pocket `POBGT`
 * other `OER`
-* Thereupon, `THRUP KW-BG`
+* Thereupon, `KPA/THRUP KW-BG`
 * touched, `TUFPD KW-BG`
 * Cinderilla's `xxx Cinderilla AES`
 * richer `REUFP/*ER`
 * magnificent `PHAFPBT`
+* And `AFPBD`
 * now `TPHOU`
 * threw `THRAOU`
 * feet, `TPAOET KW-BG`
@@ -897,7 +926,7 @@
 * embraced `EPL/PWRAEUFD`
 * forgave `TPA*URG`
 * heart, `HART KW-BG`
-* Prince, `PREUPBS KW-BG`
+* Prince, `PR*EUPBS KW-BG`
 * was; `WAS STPH*FPLT`
 * thought `THAUT`
 * charming `KHARPL/-G`

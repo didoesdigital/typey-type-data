@@ -1,9 +1,9 @@
 # The Master Cat or Puss in Boots
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * a `AEU`
-* miller, `PHEUL/HRER KW-BG`
+* miller, `PHEUL/*ER KW-BG`
 * who `WHO`
 * left `HREFT`
 * no `TPHO`
@@ -17,21 +17,22 @@
 * had, `H KW-BG`
 * than `THAPB`
 * his `HEUS`
-* Mill, `PHEUL KW-BG`
-* Ass, `A*S KW-BG`
+* Mill, `PHEUL/PHEUL KW-BG`
+* Ass, `KPA/A*S KW-BG`
 * and `SKP`
-* Cat. `KAT TP-PL`
+* Cat. `KPA/KAT TP-PL`
+* The `KPA/-T`
 * partition `PAR/TEUGS`
 * soon `SAOPB`
 * made. `PHAED TP-PL`
-* Neither `TPHAOERT`
+* Neither `KPA/TPHAOERT`
 * scrivener `SKR*EUF/TPHER`
 * nor `TPH-R`
 * attorney `TOERPB`
 * were `WR`
 * sent `SEPBT`
 * for. `TPOR TP-PL`
-* they `THE`
+* They `KPA/THE`
 * would `WO`
 * have `SR`
 * eaten `AOET/EPB`
@@ -53,7 +54,7 @@
 * having `SR-G`
 * so `SO`
 * lot. `HROT TP-PL`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * brothers," `PWROERS KW-BG KR-GS`
 * said `SAEUD`
 * he, `HE KW-BG`
@@ -72,7 +73,7 @@
 * part, `PART KW-BG`
 * when `WHEPB`
 * I `EU`
-* Cat, `KAT KW-BG`
+* Cat, `KPA/KAT KW-BG`
 * made `PHAED`
 * me `PHE`
 * muff `PHUF`
@@ -92,7 +93,7 @@
 * grave `TKPWRAEUF`
 * serious `SAOERS`
 * air: `AEUR STPH-FPLT`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * not `TPHOT`
 * thus `THUS`
 * afflict `A/TPHREUBGT`
@@ -117,8 +118,8 @@
 * bad `PWAD`
 * portion `PORGS`
 * imagine." `PHAPBLG TP-PL KR-GS`
-* tho' `THO* AE`
-* Cat's `KAT AES`
+* Tho' `KPA/THO* AE`
+* Cat's `KPA/KAT AES`
 * master `PHAFRT`
 * build `PWEULD`
 * very `SRE`
@@ -154,7 +155,8 @@
 * help `HEP`
 * miserable `PHEUZ/-BL`
 * condition. `K-PB TP-PL`
-* Cat `KAT`
+* When `KPA/WHEPB`
+* Cat `KPA/KAT`
 * asked `SK-D`
 * for, `TPOR KW-BG`
 * booted `PWAOT/-D`
@@ -175,6 +177,7 @@
 * where `W-R`
 * abundance `PWUPB/TKAPBS`
 * rabbits. `RABTS TP-PL`
+* He `KPA/HE`
 * put `PUT`
 * bran `PWRAPB`
 * sow-thistle `SWO H-PB THEUFL`
@@ -192,7 +195,7 @@
 * come `KOPL`
 * rummage `RUPL/APBLG`
 * it. `T TP-PL`
-* Scarce `SKAEURS`
+* Scarce `KPA/SKAEURS`
 * lain `HRAEUPB`
 * down, `TKOUPB KW-BG`
 * wanted; `WAPBTD STPH*FPLT`
@@ -200,8 +203,8 @@
 * foolish `TPAOL/EURB`
 * rabbit `RABT`
 * jumped `SKWR*UPLD`
-* Monsieur `PHES/KWRUR`
-* Puss, `PUSZ KW-BG`
+* Monsieur `PHOPB/SAOUR`
+* Puss, `KPA/PUSZ KW-BG`
 * immediately `PHAOELD`
 * drawing `TKRAUG`
 * close `KHROES`
@@ -210,14 +213,14 @@
 * killed `KEULD`
 * without `WOUT`
 * pity. `PEUT/TEU TP-PL`
-* Proud `PROUD`
+* Proud `KPA/PROUD`
 * prey, `PRA*EU KW-BG`
 * palace, `PAL/AS KW-BG`
 * speak `SPAOEBG`
-* Majesty. `PHAPBLG/STEU TP-PL`
+* Majesty. `KPA/PHAPBLG/STEU TP-PL`
 * shewed `S*/H*/*E/W*/-D`
 * stairs `STAEURS`
-* King's `KEUPBG AES`
+* King's `KO*EUPBG AES`
 * apartment, `ARPLT KW-BG`
 * and, `SKP KW-BG`
 * making `PHAEUG`
@@ -235,27 +238,27 @@
 * Carabas" `xxx Carabas KR-GS`
 * (for `PREPB TPOR`
 * title `TAOEULT`
-* Puss `PUSZ`
+* Puss `KPA/PUSZ`
 * pleased `PHRAOEFD`
 * master) `PHAFRT PR*EPB`
 * "has `KR-GS HAS`
 * commanded `KPHAPBD/-D`
 * present `PREPBT`
 * your `KWROUR`
-* Majesty `PHAPBLG/STEU`
+* Majesty `KPA/PHAPBLG/STEU`
 * from `TPR`
 * him." `HEUPL TP-PL KR-GS`
-* "Tell `KR-GS TEL`
+* "Tell `KR-GS KPA/TEL`
 * thy `THAO*EU`
 * master," `PHAFRT KW-BG KR-GS`
-* King, `KEUPBG KW-BG`
+* King, `KO*EUPBG KW-BG`
 * "that `KR-GS THA`
 * thank `THAPBG`
 * him, `HEUPL KW-BG`
 * does `TKOS`
 * deal `TKAOEL`
 * pleasure." `PHRERB TP-PL KR-GS`
-* Another `TPHOER`
+* Another `KPA/TPHOER`
 * time `TAOEUPL`
 * hid `HEUD`
 * among `PHOPBG`
@@ -276,7 +279,7 @@
 * done `TKOPB`
 * before `PW-F`
 * warren. `WA*RPB TP-PL`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * like `HRAOEUBG`
 * manner `PHAERPB`
 * received `SAOEFD`
@@ -287,12 +290,12 @@
 * continued `T-PBD`
 * months, `PHO*PBTS KW-BG`
 * carry `KAER`
-* Majesty, `PHAPBLG/STEU KW-BG`
+* Majesty, `KPA/PHAPBLG/STEU KW-BG`
 * time, `TAOEUPL KW-BG`
 * game `TKPWAEUPL`
 * master's `PHAFRT AES`
 * taking. `TAEUG TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
 * particular, `PHRAR KW-BG`
 * knew `TPHAOU`
@@ -305,9 +308,9 @@
 * daughter, `TKAUR KW-BG`
 * most `PHOFT`
 * beautiful `PWAOUFL`
-* Princess `PREUPB/ES`
+* Princess `KPA/PREUPB/ES`
 * master: `PHAFRT STPH-FPLT`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * will `HR`
 * follow `TPOL`
 * advice, `SREUS KW-BG`
@@ -331,7 +334,7 @@
 * knowing `TPHOEG`
 * why `KWR`
 * wherefore. `W-R/TPOR TP-PL`
-* while `WHAOEUL`
+* While `KPA/WHAOEUL`
 * washing, `WARBG KW-BG`
 * passed `PAFD`
 * by, `PWEU KW-BG`
@@ -340,9 +343,10 @@
 * out, `OUT KW-BG`
 * loud `HROUD`
 * could: `KO STPH-FPLT`
-* "Help, `KR-GS HEP KW-BG`
+* "Help, `KR-GS KPA/HEP KW-BG`
 * help, `HEP KW-BG`
 * drowning." `TKROUPBG TP-PL KR-GS`
+* At `KPA/AT`
 * this `TH`
 * noise `TPHOEUS`
 * head `HED`
@@ -355,24 +359,30 @@
 * assistance `SEUFPBS`
 * lordship `HRORD/SH-P`
 * Carabas. `xxx Carabas TP-PL`
+* they `THE`
 * came `KAEUPL`
 * coach, `KOEFP KW-BG`
 * told `TOLD`
+* while `WHAOEUL`
+* there `THR`
 * rogues, `ROEG/-S KW-BG`
 * off `OF`
 * clothes, `KHRO*ETS KW-BG`
+* tho' `THO* AE`
 * cried `KRAOEUD`
-* "Thieves, `KR-GS THAOEFS KW-BG`
+* "Thieves, `KR-GS KPA/THAOEFS KW-BG`
 * thieves," `THAOEFS KW-BG KR-GS`
 * several `SEFRL`
 * times, `TAOEUPLS KW-BG`
 * could. `KO TP-PL`
+* This `KPA/TH`
 * hidden `HEUD/EPB`
 * under `*UPBD`
 * stone. `STOEPB TP-PL`
 * officers `OEUFRS`
 * wardrobe `WARD/ROEB`
 * fetch `TPEFP`
+* one `WUPB`
 * best `PWEFT`
 * suits `SAOUTS`
 * kindness, `KEUPBD/-PBS KW-BG`
@@ -413,7 +423,7 @@
 * mowing `PHOEG`
 * meadow, `PHED/OE KW-BG`
 * them: `THEPL STPH-FPLT`
-* "Good `KR-GS TKPWAOD`
+* "Good `KR-GS KPA/TKPWAOD`
 * people, `PAOEPL KW-BG`
 * are `R`
 * mowing, `PHOEG KW-BG`
@@ -432,19 +442,19 @@
 * mowers, `PHO*ER/-S KW-BG`
 * whom `WHOPL`
 * belonged. `PWHROPBGD TP-PL`
-* "To `KR-GS TO`
+* "To `KR-GS KPA/TO`
 * Carabas," `xxx Carabas KW-BG KR-GS`
 * answered `AEPBS/-D`
 * threats `THRETS`
 * terribly `TERBL/HREU`
 * afraid. `A/TPRAEUD TP-PL`
-* "Truly `KR-GS TRAOUL`
+* "Truly `KR-GS KPA/TRAOUL`
 * estate," `ES/TAEUT KW-BG KR-GS`
-* "you `KR-GS U`
+* "You `KR-GS KPA/U`
 * see, `SAOE KW-BG`
 * sir," `SEUR KW-BG KR-GS`
 * Marquis, `PHAR/KWEUS KW-BG`
-* "This `KR-GS TH`
+* "this `KR-GS TH`
 * never `TPHEF`
 * fails `TPAEULS`
 * yield `KWRAOELD`
@@ -452,6 +462,7 @@
 * harvest `HAR/SREFT`
 * every `EF`
 * year." `KWRAOER TP-PL KR-GS`
+* Master `KPA/PHAFRT`
 * met `PHET`
 * reapers, `xxx reapers KW-BG`
 * reaping, `RAOEPG KW-BG`
@@ -478,7 +489,7 @@
 * stately `STAEULT`
 * castle, `KAFL KW-BG`
 * an `APB`
-* Ogre, `OERG KW-BG`
+* Ogre, `KPA/OERG KW-BG`
 * richest `REUFP/EFTS`
 * ever `-FR`
 * known; `TPHOEPB STPH*FPLT`
@@ -490,7 +501,7 @@
 * taken `TAEPB`
 * care `KAEUR`
 * inform `TPH-F`
-* Ogre `OERG`
+* Ogre `KPA/OERG`
 * was, `WAS KW-BG`
 * could `KO`
 * saying, `SAEUG KW-BG`
@@ -518,6 +529,7 @@
 * lion, `HRO*EUPB KW-BG`
 * elephant, `EL/TPAPBT KW-BG`
 * like." `HRAOEUBG TP-PL KR-GS`
+* "This `KR-GS KPA/TH`
 * true," `TRAOU KW-BG KR-GS`
 * briskly, `PWREUS/KHREU KW-BG`
 * "and `KR-GS SKP`
@@ -560,7 +572,8 @@
 * mouse; `PHOUS STPH*FPLT`
 * own `OEPB`
 * impossible." `EUPL/POB TP-PL KR-GS`
-* "Impossible?" `KR-GS EUPL/POB H-F KR-GS`
+* "Impossible?" `KR-GS KPA/EUPL/POB H-F KR-GS`
+* "you `KR-GS U`
 * presently," `PREPBLT KW-BG KR-GS`
 * changed `KHAEUPBGD`
 * mouse, `PHOUS KW-BG`
@@ -568,19 +581,19 @@
 * perceived `SPAOEFD`
 * ate `AEUT`
 * up. `UP TP-PL`
-* Meanwhile `PHAOEPB/WHAOEUL`
+* Meanwhile `KPA/PHAOEPB/WHAOEUL`
 * passed, `PAFD KW-BG`
 * castle `KAFL`
-* Ogre's, `OERG AE S* KW-BG`
-* Majesty's `PHAPBLG/STEU AES`
+* Ogre's, `KPA/OERG AE S* KW-BG`
+* Majesty's `KPA/PHAPBLG/STEU AES`
 * coach `KOEFP`
 * running `R*UPBG`
 * drawbridge, `TKRAU/PWREUPBLG KW-BG`
-* King: `KEUPBG STPH-FPLT`
-* "Your `KR-GS KWROUR`
+* King: `KO*EUPBG STPH-FPLT`
+* "Your `KR-GS KPA/KWROUR`
 * welcome `WELG`
 * Carabas." `xxx Carabas TP-PL KR-GS`
-* "What! `KR-GS WHA SKHRAPL`
+* "What! `KR-GS KPA/WHA SKHRAPL`
 * Marquis?" `PHAR/KWEUS H-F KR-GS`
 * belong `PWHROPBG`
 * you? `U H-F`
@@ -595,7 +608,7 @@
 * please." `PHRES TP-PL KR-GS`
 * gave `TKPWAEUF`
 * hand `HAPBD`
-* Princess, `PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/ES KW-BG`
 * followed `TPOLD`
 * first. `TPEUFRT TP-PL`
 * spacious `SPAERBS`
@@ -609,6 +622,7 @@
 * dared `TKAEURD`
 * enter `SPWER`
 * there. `THR TP-PL`
+* His `KPA/HEUS`
 * perfectly `P-FRL`
 * charmed `KHARPL/-D`
 * qualities `KWALTS`
@@ -622,7 +636,7 @@
 * five `TPEUF`
 * six `SEUBGS`
 * glasses: `TKPWHRAFS STPH-FPLT`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * owing `OU/-G`
 * only, `OEPBL KW-BG`
 * son-in-law." `SOPB H-PB TPH H-PB HRAU TP-PL KR-GS`
@@ -632,7 +646,7 @@
 * forthwith, `TPA*URT/W KW-BG`
 * day, `TKAEU KW-BG`
 * married `PHAERD`
-* Princess. `PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/ES TP-PL`
 * became `PWAEUPL`
 * lord, `HRORD KW-BG`
 * mice `PHAOEUS`

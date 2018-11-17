@@ -1,13 +1,13 @@
 The Ant and the Grasshopper
 
-'In': TPH
+'In': KPA/TPH
 'a': AEU
 'field': TPAOELD
 'one': WUPB
 'summer's': SAOURPL AES
 'day': TKAEU
 'a': AEU
-'Grasshopper': TKPWHR*FRPBLG
+'Grasshopper': KPA/TKPWHR*FRPBLG
 'was': WAS
 'hopping': HOPG
 'about,': PW KW-BG
@@ -18,8 +18,8 @@ The Ant and the Grasshopper
 'its': EUTS
 'heart's': HART AES
 'content.': KAUPBT TP-PL
-'An': APB
-'Ant': A*PBT
+'An': KPA/APB
+'Ant': KPA/A*PBT
 'passed': PAFD
 'by,': PWEU KW-BG
 'bearing': PWAERG
@@ -37,7 +37,7 @@ The Ant and the Grasshopper
 'to': TO
 'the': -T
 'nest.': TPHEFT TP-PL
-'"Why': KR-GS KWR
+'"Why': KR-GS KPA/KWR
 'not': TPHOT
 'come': KOPL
 'and': SKP
@@ -46,7 +46,7 @@ The Ant and the Grasshopper
 'me,"': PHE KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Grasshopper,': TKPWHR*FRPBLG KW-BG
+'Grasshopper,': KPA/TKPWHR*FRPBLG KW-BG
 '"instead': KR-GS STPHED
 'of': -F
 'toiling': TOEUL/-G
@@ -67,7 +67,7 @@ The Ant and the Grasshopper
 'winter,"': WEURPBT KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Ant,': A*PBT KW-BG
+'Ant,': KPA/A*PBT KW-BG
 '"and': KR-GS SKP
 'recommend': REPL
 'you': U
@@ -75,13 +75,13 @@ The Ant and the Grasshopper
 'do': TKO
 'the': -T
 'same."': SAEUPL TP-PL KR-GS
-'"Why': KR-GS KWR
+'"Why': KR-GS KPA/KWR
 'bother': PWOER
 'about': PW
 'winter?"': WEURPBT H-F KR-GS
 'said': SAEUD
 'the': -T
-'Grasshopper;': TKPWHR*FRPBLG STPH*FPLT
+'Grasshopper;': KPA/TKPWHR*FRPBLG STPH*FPLT
 'we': WE
 'have': SR
 'got': TKPWOT
@@ -90,9 +90,9 @@ The Ant and the Grasshopper
 'food': TPAOD
 'at': AT
 'present."': PREPBT TP-PL KR-GS
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
-'Ant': A*PBT
+'Ant': KPA/A*PBT
 'went': WEPBT
 'on': OPB
 'its': EUTS
@@ -101,12 +101,12 @@ The Ant and the Grasshopper
 'continued': T-PBD
 'its': EUTS
 'toil.': TOEUL TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'the': -T
 'winter': WEURPBT
 'came': KAEUPL
 'the': -T
-'Grasshopper': TKPWHR*FRPBLG
+'Grasshopper': KPA/TKPWHR*FRPBLG
 'had': H
 'no': TPHO
 'food': TPAOD
@@ -136,11 +136,11 @@ The Ant and the Grasshopper
 'in': TPH
 'the': -T
 'summer.': SAOURPL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
-'Grasshopper': TKPWHR*FRPBLG
+'Grasshopper': KPA/TKPWHR*FRPBLG
 'knew:': TPHAOU STPH-FPLT
-'It': T
+'It': KPA/T
 'is': S
 'best': PWEFT
 'to': TO

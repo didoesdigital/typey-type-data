@@ -1,6 +1,6 @@
 # The Jewish Maiden
 
-* in `TPH`
+* In `KPA/TPH`
 * a `AEU`
 * charity `KHAEURT`
 * school, `SKAOL KW-BG`
@@ -11,7 +11,7 @@
 * little `HREUL`
 * Jewish `SKWRAOURB`
 * girl. `TKPWEURL TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * was `WAS`
 * good, `TKPWAOD KW-BG`
 * intelligent `SPWEPBLGT`
@@ -23,8 +23,9 @@
 * her `HER`
 * lessons; `HROEFPBS STPH*FPLT`
 * but `PWUT`
-* Scripture-lesson `SKR*EUFP H-PB HROEFPB`
+* Scripture-lesson `SKR*EUP/KHUR H-PB HROEFPB`
 * class `KHRAS`
+* she `SHE`
 * not `TPHOT`
 * allowed `HRO*UD`
 * to `TO`
@@ -33,7 +34,7 @@
 * this `TH`
 * Christian `KREUGS`
 * school. `SKAOL TP-PL`
-* During `TKURG`
+* During `KPA/TKURG`
 * hour `HOUR`
 * of `-F`
 * lesson, `HROEFPB KW-BG`
@@ -61,7 +62,7 @@
 * listening `HR-PBG`
 * words `WORDZ`
 * teacher. `TAO*EFP TP-PL`
-* He `HE`
+* He `KPA/HE`
 * soon `SAOPB`
 * became `PWAEUPL`
 * aware `A/WAEUR`
@@ -71,16 +72,18 @@
 * more `PHOR`
 * attention `A/T-PBGS`
 * what `WHA`
+* he `HE`
 * said `SAEUD`
 * than `THAPB`
 * most `PHOFT`
 * other `OER`
 * children. `KHEURPB TP-PL`
-* "Read `KR-GS RAED`
+* "Read `KR-GS KPA/RAED`
 * your `KWROUR`
 * book, `PWAOBG KW-BG`
 * Sarah," `SA/RA KW-BG KR-GS`
 * gently. `SKWREPBT/HREU TP-PL`
+* But `KPA/PWUT`
 * again `TKPWEPB`
 * saw `SAU`
 * dark, `TKARBG KW-BG`
@@ -94,18 +97,20 @@
 * question, `KWE KW-BG`
 * could `KO`
 * answer `AEPBS`
-* Him `HEUPL`
+* him `HEUPL`
 * even `AOEPB`
 * better `PWOERT`
 * had `H`
 * only `OEPBL`
 * heard, `HAERD KW-BG`
 * understood `*URPBD`
-* His `HEUS`
+* his `HEUS`
 * words, `WORDZ KW-BG`
 * pondered `POPBD/ERD`
 * them `THEPL`
+* in `TPH`
 * heart. `HART TP-PL`
+* Her `KPA/HER`
 * father, `TPAER KW-BG`
 * poor `PAOR`
 * honest `HO*PBS`
@@ -139,6 +144,7 @@
 * evident `AEFT`
 * go `TKPW`
 * on. `OPB TP-PL`
+* The `KPA/-T`
 * teacher `TAO*EFP`
 * went `WEPBT`
 * advised `SRAOEUFD`
@@ -164,7 +170,7 @@
 * longing `HROPBG/-G`
 * gospel," `TKPWOS/PEL KW-BG KR-GS`
 * he. `HE TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * father `TPAER`
 * burst `PWUFRT`
 * into `TPHAO`
@@ -195,10 +201,11 @@
 * me `PHE`
 * covenant `KOFPBT`
 * with `W`
-* God `TKPWOD`
-* Himself." `H*EUPLS TP-PL KR-GS`
+* God `TKPWO*D`
+* Himself." `KPA/H*EUPLS TP-PL KR-GS`
+* And `AFPBD`
 * left `HREFT`
-* years `KWRAOERS`
+* Years `KPA/KWRAOERS`
 * rolled `ROLD`
 * by. `PWEU TP-PL`
 * smallest `SPHAUL/EFT`
@@ -216,13 +223,14 @@
 * eye `AOEU`
 * dark `TKARBG`
 * night, `TPHAOEUT KW-BG`
-* Yet `KWRET`
+* yet `KWRET`
 * full `TPUL`
 * light `HRAOEUT`
 * brilliancy `PWREUL/KWRAPBS/KWREU`
 * peculiar `PE/KAOUL/HRAR`
 * daughters `TKAURS`
 * east. `AOEFT TP-PL`
+* It `KPA/T`
 * Sarah. `SA/RA TP-PL`
 * expression `EBGS/PREGS`
 * face `TPAEUS`
@@ -233,7 +241,7 @@
 * schoolroom `xxx schoolroom`
 * form `TPORPL`
 * thoughtful `THAUFL`
-* Every `EF`
+* Every `KPA/EF`
 * Sunday `SUPBD`
 * there `THR`
 * sounded `SOUPBD/-D`
@@ -255,7 +263,7 @@
 * performed `PORPLD`
 * household `HOUS/HOLD`
 * duties. `TKAOUT/KWREU/-S TP-PL`
-* "Thou `KR-GS THO*U`
+* "Thou `KR-GS KPA/THO*U`
 * shalt `SHALT`
 * Sabbath `SAB/A*T`
 * holy," `HOEUL KW-BG KR-GS`
@@ -264,13 +272,14 @@
 * working `WOG`
 * day `TKAEU`
 * Christians, `KREUGS/-S KW-BG`
-* Great `TKPWRAET`
+* great `TKPWRAET`
 * trouble `TRUBL`
 * her. `HER TP-PL`
+* then `THEPB`
 * thought `THAUT`
 * arose `A/ROES`
 * mind, `PHAOEUPBD KW-BG`
-* "Does `KR-GS TKOS`
+* "Does `KR-GS KPA/TKOS`
 * reckon `REBG/-PB`
 * days `TKAEUS`
 * hours?" `HOURS H-F KR-GS`
@@ -292,14 +301,14 @@
 * itself `T/SEF`
 * sacred `SKRED`
 * would `WO`
-* old `OLD`
-* Testament, `TES/TAPLT KW-BG`
+* Old `KPA/OLD`
+* Testament, `TEFT/TPH-PL/*PLT KW-BG`
 * treasure `TRERB`
 * people, `PAOEPL KW-BG`
 * indeed `TPHAOEPBD`
-* Scriptures `SKR*EUFPS`
+* Scriptures `SKR*EUP/KHURS`
 * read. `RAED TP-PL`
-* Faithfully `TPA*EUT/TPHREU`
+* Faithfully `KPA/TPA*EUT/TPHREU`
 * inmost `xxx inmost`
 * thoughts `THAUTS`
 * kept `KEPT`
@@ -308,8 +317,8 @@
 * dying `TKAOEUG`
 * receive `SAOEF`
 * baptism. `PWAPT/EUFPL TP-PL`
-* New `TPHU`
-* Testament `TES/TAPLT`
+* New `KPA/TPHU`
+* Testament `TEFT/TPH-PL/*PLT`
 * remain `RE/PHAUPB`
 * sealed `SAOELD`
 * knew `TPHAOU`
@@ -322,6 +331,7 @@
 * lingered `HREUPBG/ERD`
 * recollections `REBGT/-G/-S`
 * childhood. `KHAOEULD/H*D TP-PL`
+* One `KPA/WUPB`
 * evening `AOEPBG`
 * sitting `SEUGT`
 * corner `KRORPB`
@@ -329,6 +339,7 @@
 * master `PHAFRT`
 * aloud. `A/HROUD TP-PL`
 * read, `RAED KW-BG`
+* old `OLD`
 * story-book; `STOER H-PB PWAOBG STPH*FPLT`
 * therefore `TH-FR`
 * stay `STAEU`
@@ -380,11 +391,11 @@
 * released `RE/HRAOEFD`
 * slavery `SHRAEUF/REU`
 * misery. `PHEUS/REU TP-PL`
-* sick `SEUBG`
+* Sick `KPA/SEUBG`
 * exhausted, `KPAUFTD KW-BG`
 * reached `RAOEFPD`
 * home. `HOEPL TP-PL`
-* Ere `ER/*E`
+* Ere `KPA/ER/*E`
 * long `HROPBG`
 * came `KAEUPL`
 * summons `SPHUPBZ`
@@ -419,7 +430,7 @@
 * stood `STAOD`
 * captive `KAPT/EUF`
 * inquired, `EUPB/KWAOEURD KW-BG`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * do `TKO`
 * you `U`
 * suppose `SPOS`
@@ -429,14 +440,14 @@
 * replied `RE/PHRAOEUD`
 * pasha; `xxx pasha STPH*FPLT`
 * "retribution." `KR-GS RET/PWAOUGS TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * retribution `RET/PWAOUGS`
 * Christian," `KREUGS KW-BG KR-GS`
 * knight. `TPHAO*EUT TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * teaching `TAOEFPG`
 * Christ, `KRAOEUFT KW-BG`
-* Teacher, `TAO*EFP KW-BG`
+* Teacher, `KPA/TAO*EFP KW-BG`
 * commands `KPHAPBDZ`
 * us `US`
 * forgive `TPAURG`
@@ -444,7 +455,7 @@
 * love `HRUF`
 * neighbors; `TPHAEUBS STPH*FPLT`
 * love. `HRUF TP-PL`
-* Depart `TKPART`
+* Depart `KPA/TKPART`
 * peace: `PAES STPH-FPLT`
 * return `RURPB`
 * thy `THAO*EU`
@@ -460,7 +471,7 @@
 * trouble." `TRUBL TP-PL KR-GS`
 * tears, `TAERS KW-BG`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
-* "Oh `KR-GS O*E`
+* "Oh `KR-GS KPA/O*E`
 * how `HOU`
 * imagine `PHAPBLG`
 * mercy `PHER/SEU`
@@ -483,21 +494,22 @@
 * destroy `TKROEU`
 * me. `PHE TP-PL`
 * die! `TKAOEU SKHRAPL`
-* Nothing `TPHOG`
+* Nothing `KPA/TPHOG`
 * can `K`
 * save `SAF`
 * me! `PHE SKHRAPL`
 * die, `TKAOEU KW-BG`
 * explain `SPHRAEUPB`
 * mercy, `PHER/SEU KW-BG`
-* God-like. `TKPWOD H-PB HRAOEUBG TP-PL`
-* Oh, `O*E KW-BG`
+* God-like. `TKPWO*D H-PB HRAOEUBG TP-PL`
+* Oh, `KPA/O*E KW-BG`
 * may `PHAE`
 * hear `HAER`
 * die `TKAOEU`
 * Christian!" `KREUGS SKHRAPL KR-GS`
 * prayer `PRAEUR`
 * granted. `TKPWRAPBTD TP-PL`
+* This `KPA/TH`
 * legend `HREGD`
 * story-book. `STOER H-PB PWAOBG TP-PL`
 * present `PREPBT`
@@ -510,7 +522,8 @@
 * heart `HART`
 * burn `PWURPB`
 * excitement. `KPAOEUPLT TP-PL`
-* Tears `TAERS`
+* Great `KPA/TKPWRAET`
+* tears `TAERS`
 * shining `SHAOEUPBG`
 * eyes; `AO*EUS STPH*FPLT`
 * gentle `SKWR*EPBLT`
@@ -522,11 +535,11 @@
 * down `TKOUPB`
 * cheeks. `KHAOEBGS TP-PL`
 * last `HRAFT`
-* rose `ROEZ`
-* "Let `KR-GS HRET`
+* rose `ROES`
+* "Let `KR-GS KPA/HRET`
 * Christian;" `KREUGS STPH*FPLT KR-GS`
 * law, `HRAU KW-BG`
-* "Honor `KR-GS HO*RPB`
+* "Honor `KR-GS HO*PB/O*R`
 * mother." `PHOER TP-PL KR-GS`
 * am `APL`
 * admitted `AD/PHEUTD`
@@ -545,7 +558,7 @@
 * burning `PWURPBG`
 * altar, `AL/TAR KW-BG`
 * singing. `SEUPBG/-G TP-PL`
-* Ever `-FR`
+* Ever `KPA/-FR`
 * since `SEUPBS`
 * school-bench `SKAOL H-PB PWEFRPB`
 * power `POUR`
@@ -566,9 +579,11 @@
 * unfaithful `UPB/TPA*EUT/-FL`
 * father's `TPA*ER/AES`
 * vow. `SROU TP-PL`
-* Bible `PWAOEUBL`
+* Bible `PWAO*EUBL`
 * fathers, `TPAURS KW-BG`
+* Him `KPA/HEUPL`
 * trust." `TRUFT TP-PL KR-GS`
+* years `KWRAOERS`
 * passed `PAFD`
 * died, `TKAOEUD KW-BG`
 * widow `WO*EUD`
@@ -595,11 +610,13 @@
 * their `THAEUR`
 * daily `TKAEUL`
 * bread. `PWRAED TP-PL`
+* Not `KPA/TPHOT`
 * relative `REL/TEUF`
 * forward `TPAORD`
 * assist `S*EUFT`
 * them, `THEPL KW-BG`
 * confined `KAUPB/TPAOEUPBD`
+* sick `SEUBG`
 * bed `PWED`
 * months `PHO*PBTS`
 * grew `TKPWRAOU`
@@ -616,7 +633,7 @@
 * angel `A*EPBLG`
 * blessing `PWHR*EFG`
 * poverty. `POFRT TP-PL`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * lies `HRAO*EUS`
 * table `TAEUBL`
 * yonder," `KWROPBD/ER KW-BG KR-GS`
@@ -629,7 +646,7 @@
 * spirit `SPEURT`
 * thirsts `THEUFRT/-S`
 * word `WORD`
-* God." `TKPWOD TP-PL KR-GS`
+* God." `TKPWO*D TP-PL KR-GS`
 * bowed `PWOE/-D`
 * head. `HED TP-PL`
 * folded `TPOELD/-D`
@@ -638,36 +655,39 @@
 * opened `OEPD`
 * it, `T KW-BG`
 * woman. `WOPL TP-PL`
+* Tears `KPA/TAERS`
 * they `THE`
 * shone `SHO*EPB`
 * brightness, `PWRAOEUT/-PBS KW-BG`
 * light. `HRAOEUT TP-PL`
-* "Mother," `KR-GS PHOER KW-BG KR-GS`
+* "Mother," `KR-GS KPA/PHOER KW-BG KR-GS`
 * murmured, `PHUR/PHUR/-D KW-BG`
 * "thy `KR-GS THAO*EU`
 * baptism, `PWAPT/EUFPL KW-BG`
 * people. `PAOEPL TP-PL`
-* Thou `THO*U`
+* Thou `KPA/THO*U`
 * hast `HA*FT`
 * willed `HR-D`
 * respect `R-PT`
 * command. `KPHAPBD TP-PL`
-* we `WE`
+* We `KPA/WE`
 * united `AOUPBTD`
 * here `HAOER`
 * earth; `*ERT STPH*FPLT`
 * world `WORLD`
 * higher `HAOEUR`
 * union, `TPHAOUPB KW-BG`
-* Himself, `H*EUPLS KW-BG`
+* Himself, `KPA/H*EUPLS KW-BG`
 * leads `HRAEDZ`
 * guides `TKPWAOEUDZ`
+* His `KPA/HEUS`
 * people `PAOEPL`
 * death. `TK*T TP-PL`
 * heaven `HEFPB`
 * earth `*ERT`
 * suffer `SUFR`
 * us, `US KW-BG`
+* we `WE`
 * bring `PWREU`
 * fruits `TPRAOUTS`
 * repentance. `RE/PEPB/TAPBS TP-PL`
@@ -678,9 +698,10 @@
 * unless `TPH-LS`
 * name `TPHAEUPL`
 * Christ." `KRAOEUFT TP-PL KR-GS`
+* Yet `KPA/KWRET`
 * trembled `TREPL/-BLD`
 * pronounced `PRO/TPHUPBS/-D`
-* Holy `HOEUL`
+* holy `HOEUL`
 * name. `TPHAEUPL TP-PL`
 * struggled `STRULGD`
 * these `THEZ`
@@ -699,13 +720,14 @@
 * sank `SA*PBG`
 * fainting `TPAEUPBT/-G`
 * bedside `PWED/SAOEUD`
-* "Poor `KR-GS PAOR`
+* "Poor `KR-GS KPA/PAOR`
 * "she `KR-GS SHE`
 * overcome `AUFR/KOPL`
 * hard `HARD`
 * watching." `WAFBG TP-PL KR-GS`
 * hospital `HOPT`
 * poor. `PAOR TP-PL`
+* There `KPA/THR`
 * died; `TKAOEUD STPH*FPLT`
 * bore `PWOR`
 * resting-place `REFT/-G H-PB PHRAEUS`
@@ -716,10 +738,10 @@
 * grave `TKPWRAEUF`
 * outside `OUDZ`
 * wall. `WAUL TP-PL`
-* God's `TKPWOD AES`
+* God's `TKPWO*D AES`
 * sun, `SUPB KW-BG`
 * shines `SHAOEUPBS`
-* graves `TKRA*EUFS`
+* graves `TKPWRAEUFS`
 * also `HR-S`
 * throws `THROES`
 * beams `PWAOEPLS`
@@ -737,10 +759,11 @@
 * worthy `WO*RT/KWREU`
 * resurrection, `RES/REBGS KW-BG`
 * Christ `KRAOEUFT`
-* Lord, `HRORD KW-BG`
+* Lord, `HRO*RD KW-BG`
 * disciples, `TKEUS/AOEUPLTS KW-BG`
 * "John `KR-GS SKWROPB`
 * baptized `PAPT/AOEUZ/-D`
 * water, `WAUR KW-BG`
 * baptize `PWAPT/AOEUZ`
-* Ghost." `TKPWOEFT TP-PL KR-GS`
+* Holy `KPA/HOEUL`
+* Ghost." `KPA/TKPWOEFT TP-PL KR-GS`

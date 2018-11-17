@@ -2,7 +2,7 @@
 
 * A `KPA/AEU`
 * great `TKPWRAET`
-* King `KEUPBG`
+* king `KEUPBG`
 * of `-F`
 * a `AEU`
 * land `HRAPBD`
@@ -10,7 +10,7 @@
 * away `A/WAEU`
 * in `TPH`
 * the `-T`
-* East `AOEFT`
+* East `AO*EFT`
 * had `H`
 * daughter `TKAUR`
 * who `WHO`
@@ -35,12 +35,12 @@
 * enough `TPHUF`
 * for `TPOR`
 * her, `HER KW-BG`
-* She `SHE`
+* she `SHE`
 * only `OEPBL`
 * made `PHAED`
 * sport `SPORT`
 * them. `THEPL TP-PL`
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * upon `POPB`
 * time `TAOEUPL`
 * held `HELD`
@@ -62,7 +62,7 @@
 * counts, `KOUPBTS KW-BG`
 * barons, `PWAR/ROPB/-S KW-BG`
 * knights. `TPHAO*EUT/-S TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * princess `PREUPB/ES`
 * in, `TPH KW-BG`
 * as `AZ`
@@ -74,17 +74,18 @@
 * say `SAEU`
 * every `EF`
 * one. `WUPB TP-PL`
+* The `KPA/-T`
 * first `TPEUFRT`
 * too `TAO`
 * fat: `TPAT STPH-FPLT`
-* 'He's `AE HE AES`
+* 'He's `AE KPA/HE AES`
 * round `ROUPBD`
 * tub,' `TUB KW-BG AE`
 * said `SAEUD`
 * she. `SHE TP-PL`
-* Next `TPHEGT`
+* next `TPHEGT`
 * tall: `TAUL STPH-FPLT`
-* 'what `AE WHA`
+* 'What `AE KPA/WHA`
 * maypole!' `xxx maypole SKHRAPL AE`
 * short: `SHORT STPH-FPLT`
 * dumpling!' `TKUPL/P-LG SKHRAPL AE`
@@ -95,7 +96,7 @@
 * 'Wallface.' `AE xxx Wallface TP-PL AE`
 * fifth `TP*EUT`
 * red, `RED KW-BG`
-* 'Coxcomb.' `AE KOBGS/KOEPL TP-PL AE`
+* 'Coxcomb.' `AE KPA/KOBGS/KOEPL TP-PL AE`
 * sixth `S*BGS`
 * not `TPHOT`
 * straight `STRAEUT`
@@ -110,7 +111,8 @@
 * over `OEFR`
 * baker's `PWAEURBG AES`
 * oven. `OEFPB TP-PL`
-* Thus `THUS`
+* And `AFPBD`
+* thus `THUS`
 * some `SOPL`
 * joke `SKWROEBG`
 * crack `KRABG`
@@ -120,7 +122,7 @@
 * than `THAPB`
 * at `AT`
 * there. `THR TP-PL`
-* 'Look `AE HRAOBG`
+* 'Look `AE KPA/HRAOBG`
 * him,' `HEUPL KW-BG AE`
 * she; `SHE STPH*FPLT`
 * 'his `AE HEUS`
@@ -131,10 +133,12 @@
 * mop; `PHOP STPH*FPLT`
 * shall `SHAL`
 * be `-B`
-* Grisly-beard.' `TKPWREUS/HREU H-PB PWAERD TP-PL AE`
+* Grisly-beard.' `KPA/TKPWREUS/HREU H-PB PWAERD TP-PL AE`
+* So `KPA/SO`
 * got `TKPWOT`
 * nickname `TPHEUBG/TPHAEUPL`
-* Grisly-beard. `TKPWREUS/HREU H-PB PWAERD TP-PL`
+* Grisly-beard. `KPA/TKPWREUS/HREU H-PB PWAERD TP-PL`
+* But `KPA/PWUT`
 * angry `APBG/REU`
 * when `WHEPB`
 * saw `SAU`
@@ -154,7 +158,7 @@
 * prince `PREUPBS`
 * beggar, `PWEG/ER KW-BG`
 * door. `TKAOR TP-PL`
-* two `TWO`
+* Two `KPA/TWO`
 * days `TKAEUS`
 * after `AF`
 * there `THR`
@@ -169,7 +173,7 @@
 * heard `HAERD`
 * him, `HEUPL KW-BG`
 * said, `SAEUD KW-BG`
-* 'Let `AE HRET`
+* 'Let `AE KPA/HRET`
 * come `KOPL`
 * in.' `TPH TP-PL AE`
 * brought `PWRAUT`
@@ -180,7 +184,7 @@
 * princess, `PREUPB/ES KW-BG`
 * begged `PWEGD`
 * boon. `PWAOPB TP-PL`
-* 'you `AE U`
+* 'You `AE KPA/U`
 * have `SR`
 * well, `WEL KW-BG`
 * I `EU`
@@ -206,8 +210,9 @@
 * for, `TPOR KW-BG`
 * married `PHAERD`
 * fiddler. `TPEUD/HRER TP-PL`
+* When `KPA/WHEPB`
 * this `TH`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * get `TKPWET`
 * ready `R-D`
 * go--you `TKPW H-PB H-PB U`
@@ -224,53 +229,57 @@
 * took `TAOBG`
 * soon `SAOPB`
 * wood. `WAOD TP-PL`
-* 'Pray,' `AE PRAEU KW-BG AE`
+* 'Pray,' `AE KPA/PRAEU KW-BG AE`
 * she, `SHE KW-BG`
-* 'Whose `AE WHOZ`
+* 'whose `AE WHOZ`
 * wood?' `WAOD H-F AE`
-* 'It `AE T`
+* 'It `AE KPA/T`
 * belongs `PWHROPBGS`
-* Grisly-beard,' `TKPWREUS/HREU H-PB PWAERD KW-BG AE`
+* King `KO*EUPBG`
+* Grisly-beard,' `KPA/TKPWREUS/HREU H-PB PWAERD KW-BG AE`
 * answered `AEPBS/-D`
 * he; `HE STPH*FPLT`
 * 'hadst `AE xxx hadst`
 * thou `THO*U`
 * taken `TAEPB`
 * thine.' `THAOEUPB TP-PL AE`
-* 'Ah! `AE HA*E SKHRAPL`
+* 'Ah! `AE KPA/HA*E SKHRAPL`
 * unlucky `UPB/HRUBG/KWREU`
 * wretch `WREFP`
 * am!' `APL SKHRAPL AE`
 * sighed `SAOEU/-D`
 * 'would `AE WO`
-* Grisly-beard!' `TKPWREUS/HREU H-PB PWAERD SKHRAPL AE`
+* Grisly-beard!' `KPA/TKPWREUS/HREU H-PB PWAERD SKHRAPL AE`
+* Next `KPA/TPHEGT`
 * fine `TPAOEUPB`
 * meadows. `PHED/OES TP-PL`
+* 'Whose `AE KPA/WHOZ`
 * are `R`
 * these `THEZ`
 * beautiful `PWAOUFL`
 * meadows?' `PHED/OES H-F AE`
-* 'They `AE THE`
+* 'They `AE KPA/THE`
 * belong `PWHROPBG`
-* Grisly-beard, `TKPWREUS/HREU H-PB PWAERD KW-BG`
+* Grisly-beard, `KPA/TKPWREUS/HREU H-PB PWAERD KW-BG`
 * hadst `xxx hadst`
 * city. `STEU TP-PL`
 * noble `TPHOEBL`
 * city?' `STEU H-F AE`
-* Grisly-beard; `TKPWREUS/HREU H-PB PWAERD STPH*FPLT`
+* Grisly-beard; `KPA/TKPWREUS/HREU H-PB PWAERD STPH*FPLT`
 * it `T`
 * 'why `AE KWR`
 * did `TK`
-* Grisly-beard?' `TKPWREUS/HREU H-PB PWAERD H-F AE`
-* 'That `AE THA`
+* Grisly-beard?' `KPA/TKPWREUS/HREU H-PB PWAERD H-F AE`
+* 'That `AE KPA/THA`
 * business `PWEUS`
 * mine,' `PHAOEUPB KW-BG AE`
 * fiddler: `TPEUD/HRER STPH-FPLT`
 * wish `WEURB`
 * another `TPHOER`
 * husband? `HUS H-F`
-* am `APL`
+* Am `KPA/APL`
 * you?' `U H-F AE`
+* At `KPA/AT`
 * last `HRAFT`
 * small `SPHAL`
 * cottage. `KOT/APBLG TP-PL`
@@ -287,21 +296,23 @@
 * where `W-R`
 * we `WE`
 * live.' `HREUF TP-PL AE`
-* 'Where `AE W-R`
+* 'Where `AE KPA/W-R`
 * servants?' `SER/SRAPBTS H-F AE`
 * cried `KRAOEUD`
 * do `TKO`
 * want `WAPBT`
+* 'you `AE U`
 * yourself `KWRO*URS`
 * whatever `WHAF`
 * done. `TKOPB TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * make `PHAEUBG`
 * fire, `TPAOEUR KW-BG`
 * put `PUT`
 * water `WAUR`
 * cook `KAOBG`
 * supper, `SAOURP KW-BG`
+* am `APL`
 * tired.' `TAOEURD TP-PL AE`
 * knew `TPHAOU`
 * nothing `TPHOG`
@@ -320,11 +331,13 @@
 * morning `PHORPBG`
 * clean `KHAOEPB`
 * house. `HOUS TP-PL`
+* Thus `KPA/THUS`
 * lived `HREUFD`
+* two `TWO`
 * days: `TKAEUS STPH-FPLT`
 * cottage, `KOT/APBLG KW-BG`
 * man `PHAPB`
-* 'Wife, `AE WAOEUF KW-BG`
+* 'Wife, `AE KPA/WAOEUF KW-BG`
 * can't `K-PBT`
 * go `TKPW`
 * thus, `THUS KW-BG`
@@ -332,6 +345,7 @@
 * money `PHUPB`
 * earning `ERPBG`
 * nothing. `TPHOG TP-PL`
+* You `KPA/U`
 * learn `HRERPB`
 * weave `WEF`
 * baskets.' `PWAFBGT/-S TP-PL AE`
@@ -358,7 +372,7 @@
 * till `T*EUL`
 * blood `PWHRAOD`
 * ran. `RAPB TP-PL`
-* 'See `AE SAOE`
+* 'See `AE KPA/SAOE`
 * now,' `TPHOU KW-BG AE`
 * nothing; `TPHOG STPH*FPLT`
 * can `K`
@@ -366,7 +380,7 @@
 * what `WHA`
 * bargain `PWARG/AEUPB`
 * got! `TKPWOT SKHRAPL`
-* However, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * I'll `AOEUL`
 * try `TREU`
 * set `SET`
@@ -377,7 +391,7 @@
 * market `PHARBGT`
 * sell `SEL`
 * them.' `THEPL TP-PL AE`
-* 'Alas!' `AE A/HRAS SKHRAPL AE`
+* 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * 'if `AE TP`
 * any `TPHEU`
 * father's `TPA*ER/AES`
@@ -407,8 +421,10 @@
 * thinking `THEUG`
 * taking `TAEUG`
 * goods. `TKPWAODZ TP-PL`
+* They `KPA/THE`
 * long `HROPBG`
 * lasted; `HRAFT/-D STPH*FPLT`
+* then `THEPB`
 * bought `PWAUT`
 * fresh `TPRERB`
 * lot `HROT`
@@ -432,12 +448,13 @@
 * do. `TKO TP-PL`
 * become `PW-BG`
 * me?' `PHE H-F AE`
+* 'what `AE WHA`
 * say?' `SAEU H-F AE`
 * ran `RAPB`
 * home `HOEPL`
 * told `TOLD`
 * all. `AUL TP-PL`
-* 'Who `AE WHO`
+* 'Who `AE KPA/WHO`
 * would `WO`
 * thought `THAUT`
 * silly,' `SEUL/HREU KW-BG AE`
@@ -469,6 +486,7 @@
 * meat `PHAET`
 * left, `HREFT KW-BG`
 * lived. `HREUFD TP-PL`
+* She `KPA/SHE`
 * eldest `ELD/EFT`
 * son `SOPB`
 * passing `PAFG`
@@ -478,7 +496,7 @@
 * windows `WO*EUPBDZ`
 * looked `HRAOBGD`
 * out. `OUT TP-PL`
-* Everything `EFG`
+* Everything `KPA/EFG`
 * ready, `R-D KW-BG`
 * pomp `POFRP`
 * brightness `PWRAOEUT/-PBS`
@@ -494,6 +512,7 @@
 * meats, `PHAETS KW-BG`
 * basket `PWAFBGT`
 * home. `HOEPL TP-PL`
+* All `KPA/AUL`
 * sudden, `SUD KW-BG`
 * out, `OUT KW-BG`
 * golden `TKOELD/*EPB`
@@ -527,10 +546,10 @@
 * run `RUPB`
 * away; `A/WAEU STPH*FPLT`
 * steps `STEPS`
-* Grisly-beard `TKPWREUS/HREU H-PB PWAERD`
+* Grisly-beard `KPA/TKPWREUS/HREU H-PB PWAERD`
 * overtook `AUFR/TAOBG`
 * back `PWABG`
-* 'Fear `AE TPAOER`
+* 'Fear `AE KPA/TPAOER`
 * not! `TPHOT SKHRAPL`
 * has `HAS`
 * hut. `HUT TP-PL`
@@ -554,7 +573,7 @@
 * hold `HOLD`
 * our `OUR`
 * feast.' `TPAOEFT TP-PL AE`
-* chamberlains `KHAPL/PWER/HREUPB/-S`
+* chamberlains `KHAEURPL/TK-LS/HRAEUPB/-S`
 * most `PHOFT`
 * robes; `ROEB/-S STPH*FPLT`
 * father `TPAER`
@@ -562,7 +581,7 @@
 * already, `HR-R KW-BG`
 * welcomed `W-BGD`
 * marriage. `PHAERPBLG TP-PL`
-* Joy `SKWROEU`
+* Joy `KPA/SKWROEU`
 * face `TPAEUS`
 * heart. `HART TP-PL`
 * feast `TPAOEFT`

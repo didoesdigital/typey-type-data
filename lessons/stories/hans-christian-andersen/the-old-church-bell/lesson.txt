@@ -1,7 +1,7 @@
 The Old Church Bell
 
 '': 
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'country': KREU
 'of': -F
@@ -41,7 +41,7 @@ The Old Church Bell
 'town': TOUPB
 'of': -F
 'Marbach.': xxx Marbach TP-PL
-'As': AZ
+'As': KPA/AZ
 'is': S
 'often': OFPB
 'the': -T
@@ -84,7 +84,7 @@ The Old Church Bell
 'the': -T
 'stately': STAEULT
 'Rhine.': RAO*EUPB TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'late': HRAEUT
 'in': TPH
@@ -125,7 +125,7 @@ The Old Church Bell
 'sharp': SHARP
 'and': SKP
 'strong.': STROPBG TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'not': TPHOT
 'at': AT
@@ -135,7 +135,7 @@ The Old Church Bell
 'for': TPOR
 'the': -T
 'poor.': PAOR TP-PL
-'The': -T
+'The': KPA/-T
 'days': TKAEUS
 'grew': TKPWRAOU
 'shorter': SHORT/*ER
@@ -166,7 +166,7 @@ The Old Church Bell
 'of': -F
 'the': -T
 'village.': SREULG TP-PL
-'The': -T
+'The': KPA/-T
 'gable': TKPWAEUBL
 'end': EPBD
 'of': -F
@@ -188,7 +188,7 @@ The Old Church Bell
 'very': SRE
 'mean': PHAOEPB
 'appearance.': PAOERPBS TP-PL
-'The': -T
+'The': KPA/-T
 'family': TPAEPL
 'who': WHO
 'dwelt': TKWELT
@@ -206,14 +206,14 @@ The Old Church Bell
 'the': -T
 'fear': TPAOER
 'of': -F
-'God': TKPWOD
+'God': TKPWO*D
 'in': TPH
 'their': THAEUR
 'innermost': EUPB/ER/PHO*ES
 'hearts.': HARTS TP-PL
-'And': SKP
+'And': AFPBD
 'now': TPHOU
-'He': HE
+'He': KPA/HE
 'was': WAS
 'about': PW
 'to': TO
@@ -221,7 +221,7 @@ The Old Church Bell
 'them': THEPL
 'a': AEU
 'child.': KHAOEULD TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'the': -T
 'hour': HOUR
@@ -242,7 +242,7 @@ The Old Church Bell
 'of': -F
 'festive': TPES/TEUF
 'bells.': PWELS TP-PL
-'In': TPH
+'In': KPA/TPH
 'that': THA
 'solemn': SHREPL
 'hour': HOUR
@@ -308,7 +308,7 @@ The Old Church Bell
 'church': KHUFRPB
 'bells'': PWELS AE
 'chime.': KHAOEUPL TP-PL
-'The': -T
+'The': KPA/-T
 'little': HREUL
 'one,': WUPB KW-BG
 'with': W
@@ -327,7 +327,7 @@ The Old Church Bell
 'dark': TKARBG
 'November': TPHOF
 'day.': TKAEU TP-PL
-'Its': EUTS
+'Its': KPA/EUTS
 'parents': PARPBTS
 'kissed': K*EUFD
 'it': T
@@ -340,19 +340,19 @@ The Old Church Bell
 'words': WORDZ
 'in': TPH
 'the': -T
-'Bible,': PWAOEUBL KW-BG
-'"On': KR-GS OPB
+'Bible,': PWAO*EUBL KW-BG
+'"On': KR-GS KPA/OPB
 'the': -T
 'tenth': TA*EPBT
 'of': -F
 'November,': TPHOF KW-BG
 '1759,': xxx 1759 KW-BG
-'God': TKPWOD
+'God': TKPWO*D
 'sent': SEPBT
 'us': US
 'a': AEU
 'son."': SOPB TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'a': AEU
 'short': SHORT
 'time': TAOEUPL
@@ -373,7 +373,7 @@ The Old Church Bell
 '"John': KR-GS SKWROPB
 'Christopher': KHEUFT/TPER
 'Frederick."': TPRED/REUBG TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'what': WHA
 'became': PWAEUPL
 'of': -F
@@ -388,7 +388,7 @@ The Old Church Bell
 'town': TOUPB
 'of': -F
 'Marbach?': xxx Marbach H-F
-'Ah,': HA*E KW-BG
+'Ah,': KPA/HA*E KW-BG
 'indeed,': TPHAOEPBD KW-BG
 'there': THR
 'was': WAS
@@ -427,9 +427,9 @@ The Old Church Bell
 'beautiful': PWAOUFL
 'song': SOPBG
 'of': -F
-'"The': KR-GS -T
-'Bell."': PWEL TP-PL KR-GS
-'The': -T
+'"The': KR-GS KPA/-T
+'Bell."': PWEL/PWEL TP-PL KR-GS
+'The': KPA/-T
 'boy': PWOEU
 'grew': TKPWRAOU
 'apace,': xxx apace KW-BG
@@ -439,7 +439,7 @@ The Old Church Bell
 'advanced': SRAPBS/-D
 'with': W
 'him.': HEUPL TP-PL
-'While': WHAOEUL
+'While': KPA/WHAOEUL
 'he': HE
 'was': WAS
 'yet': KWRET
@@ -487,7 +487,7 @@ The Old Church Bell
 'the': -T
 'little': HREUL
 'town.': TOUPB TP-PL
-'The': -T
+'The': KPA/-T
 'boy': PWOEU
 'was': WAS
 'at': AT
@@ -507,12 +507,12 @@ The Old Church Bell
 'out': OUT
 'of': -F
 'the': -T
-'Bible,': PWAOEUBL KW-BG
+'Bible,': PWAO*EUBL KW-BG
 'and': SKP
 'several': SEFRL
 'religious': RE/HREURBS
 'psalms.': SAUPL/-S TP-PL
-'While': WHAOEUL
+'While': KPA/WHAOEUL
 'seated': SAOETD
 'in': TPH
 'the': -T
@@ -537,9 +537,9 @@ The Old Church Bell
 'Klopstock's': xxx Klopstock AES
 'grand': TKPWRAPBD
 'poem,': POEPL KW-BG
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'Messiah."': PHE/SAOEU/KWRA TP-PL KR-GS
-'He': HE
+'He': KPA/HE
 'and': SKP
 'his': HEUS
 'sister,': ST-R KW-BG
@@ -557,7 +557,7 @@ The Old Church Bell
 'the': -T
 'story': STOER
 'of': -F
-'Him': HEUPL
+'Him': KPA/HEUPL
 'who': WHO
 'suffered': SUFRD
 'death': TK*T
@@ -567,7 +567,7 @@ The Old Church Bell
 'for': TPOR
 'us': US
 'all.': AUL TP-PL
-'On': OPB
+'On': KPA/OPB
 'his': HEUS
 'first': TPEUFRT
 'visit': SREUFT
@@ -592,7 +592,7 @@ The Old Church Bell
 'to': TO
 'be': -B
 'forgotten.': TPORGTD TP-PL
-'The': -T
+'The': KPA/-T
 'house,': HOUS KW-BG
 'with': W
 'its': EUTS
@@ -616,7 +616,7 @@ The Old Church Bell
 'in': TPH
 'former': TPORPL/*ER
 'times.': TAOEUPLS TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'in': TPH
 'the': -T
 'churchyard': KH*URPBLG/KWRARD
@@ -624,7 +624,7 @@ The Old Church Bell
 'were': WR
 'several': SEFRL
 'new': TPHU
-'graves;': TKRA*EUFS STPH*FPLT
+'graves;': TKPWRAEUFS STPH*FPLT
 'and': SKP
 'there': THR
 'also,': HR-S KW-BG
@@ -640,7 +640,7 @@ The Old Church Bell
 'old': OLD
 'church': KHUFRPB
 'bell!': PWEL SKHRAPL
-'It': T
+'It': KPA/T
 'had': H
 'been': PW-PB
 'taken': TAEPB
@@ -672,7 +672,7 @@ The Old Church Bell
 'occupied': OUPD
 'its': EUTS
 'place.': PHRAEUS TP-PL
-'The': -T
+'The': KPA/-T
 'mother': PHOER
 'and': SKP
 'son': SOPB
@@ -695,7 +695,7 @@ The Old Church Bell
 'look': HRAOBG
 'at': AT
 'it.': T TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'mother': PHOER
 'reminded': RE/PHAOEUPBD/T-D
@@ -714,7 +714,7 @@ The Old Church Bell
 'many': PHAEPB
 'hundred': HUPBD
 'years.': KWRAOERS TP-PL
-'It': T
+'It': KPA/T
 'had': H
 'chimed': KHAOEUPL/-D
 'for': TPOR
@@ -736,7 +736,7 @@ The Old Church Bell
 'case': KAEUS
 'of': -F
 'fire.': TPAOEUR TP-PL
-'With': W
+'With': KPA/W
 'every': EF
 'event': EFPBT
 'in': TPH
@@ -751,7 +751,7 @@ The Old Church Bell
 'its': EUTS
 'voice': SROEUS
 'heard.': HAERD TP-PL
-'His': HEUS
+'His': KPA/HEUS
 'mother': PHOER
 'also': HR-S
 'told': TOLD
@@ -788,7 +788,7 @@ The Old Church Bell
 'given': TKPWEUFPB
 'to': TO
 'her.': HER TP-PL
-'And': SKP
+'And': AFPBD
 'the': -T
 'boy': PWOEU
 'gazed': TKPWAEZ/-D
@@ -801,7 +801,7 @@ The Old Church Bell
 'the': -T
 'deepest': TKAOEP/EFT
 'interest.': TR TP-PL
-'He': HE
+'He': KPA/HE
 'bowed': PWOE/-D
 'his': HEUS
 'head': HED
@@ -826,7 +826,7 @@ The Old Church Bell
 'grass': TKPWRAS
 'and': SKP
 'nettles.': TPHET/-LS TP-PL
-'The': -T
+'The': KPA/-T
 'boy': PWOEU
 'never': TPHEF
 'forgot': TPAURGT
@@ -850,7 +850,7 @@ The Old Church Bell
 'he': HE
 'reached': RAOEFPD
 'manhood.': PHAPB/HAOD TP-PL
-'In': TPH
+'In': KPA/TPH
 'such': SUFP
 'sweet': SWAOET
 'remembrance': RERPBS
@@ -898,7 +898,7 @@ The Old Church Bell
 'career': KRAOER
 'to': TO
 'be?': -B H-F
-'His': HEUS
+'His': KPA/HEUS
 'career': KRAOER
 'was': WAS
 'to': TO
@@ -909,7 +909,7 @@ The Old Church Bell
 'future': TPAOURT
 'life': HRAOEUF
 'enviable.': EPB/SREUBL TP-PL
-'We': WE
+'We': KPA/WE
 'find': TPEUPBD
 'him': HEUPL
 'taking': TAEUG
@@ -943,7 +943,7 @@ The Old Church Bell
 'say,': SAEU KW-BG
 'good': TKPWAOD
 'luck.': HRUBG TP-PL
-'He': HE
+'He': KPA/HE
 'wore': WOR
 'gaiters,': TKPWAEUT/*ER/-S KW-BG
 'stiff': STEUF
@@ -970,7 +970,7 @@ The Old Church Bell
 'command—"March!': KPHAPBD EPL/TKA*RB KR-GS PHAFRPB SKHRAPL
 'halt!': HALT SKHRAPL
 'front!"': TPROPBT SKHRAPL KR-GS
-'The': -T
+'The': KPA/-T
 'old': OLD
 'church': KHUFRPB
 'bell': PWEL
@@ -1000,14 +1000,14 @@ The Old Church Bell
 'it': T
 'was': WAS
 'before.': PW-F TP-PL
-'No': TPHO
+'No': KPA/TPHO
 'one': WUPB
 'could': KO
 'possibly': POBL
 'have': SR
 'foretold': TPOER/TOLD
 'this.': TH TP-PL
-'Equally': KWAEL
+'Equally': KPA/KWAEL
 'impossible': EUPL/POB
 'would': WO
 'it': T
@@ -1052,7 +1052,7 @@ The Old Church Bell
 'over': OEFR
 'the': -T
 'world.': WORLD TP-PL
-'They': THE
+'They': KPA/THE
 'had': H
 'already': HR-R
 'been': PW-PB
@@ -1073,7 +1073,7 @@ The Old Church Bell
 '"March!': KR-GS PHAFRPB SKHRAPL
 'halt!': HALT SKHRAPL
 'front!"': TPROPBT SKHRAPL KR-GS
-'They': THE
+'They': KPA/THE
 'had': H
 'chimed': KHAOEUPL/-D
 'so': SO
@@ -1103,7 +1103,7 @@ The Old Church Bell
 'of': -F
 'the': -T
 'country.': KREU TP-PL
-'He': HE
+'He': KPA/HE
 'was': WAS
 'not': TPHOT
 'a': AEU
@@ -1121,7 +1121,7 @@ The Old Church Bell
 'clothes': KHRO*ETS
 'or': OR
 'food.': TPAOD TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'he': HE
 'had': H
 'his': HEUS
@@ -1159,7 +1159,7 @@ The Old Church Bell
 'duties': TKAOUT/KWREU/-S
 'are': R
 'understood.': *URPBD TP-PL
-'It': T
+'It': KPA/T
 'is': S
 'by': PWEU
 'pressure': PRERB
@@ -1168,7 +1168,7 @@ The Old Church Bell
 'jewel': SKWRAOUL
 'is': S
 'stamped.': STA*PLD TP-PL
-'The': -T
+'The': KPA/-T
 'pressure': PRERB
 'of': -F
 'regularity': REGT
@@ -1187,7 +1187,7 @@ The Old Church Bell
 'so': SO
 'well': WEL
 'knew.': TPHAOU TP-PL
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'chief': KHAOEF
 'town': TOUPB
@@ -1200,7 +1200,7 @@ The Old Church Bell
 'was': WAS
 'being': -BG
 'celebrated.': SEL/PWRAEUT/-D TP-PL
-'The': -T
+'The': KPA/-T
 'light': HRAOEUT
 'streamed': STRAOEPL/-D
 'forth': TPO*RT
@@ -1252,7 +1252,7 @@ The Old Church Bell
 'tears': TAERS
 'and': SKP
 'sorrow.': SROE TP-PL
-'He': HE
+'He': KPA/HE
 'had': H
 'dared': TKAEURD
 'to': TO
@@ -1282,7 +1282,7 @@ The Old Church Bell
 'of': -F
 'common': KPHOPB
 'life.': HRAOEUF TP-PL
-'The': -T
+'The': KPA/-T
 'old': OLD
 'church': KHUFRPB
 'bell': PWEL
@@ -1307,7 +1307,7 @@ The Old Church Bell
 'now': TPHOU
 'quite': KWAOEUT
 'forgotten.': TPORGTD TP-PL
-'The': -T
+'The': KPA/-T
 'wind': WEUPBD
 'roared': RAORD
 'around': ARPBD
@@ -1373,7 +1373,7 @@ The Old Church Bell
 'leaf': HRAOEF
 'from': TPR
 '"Fiesco."': KR-GS xxx Fiesco TP-PL KR-GS
-'The': -T
+'The': KPA/-T
 'wind': WEUPBD
 'could': KO
 'have': SR
@@ -1405,7 +1405,7 @@ The Old Church Bell
 'at': AT
 'nine-pins': TPHAOEUPB H-PB PEUPB/-S
 'together.': TOGT TP-PL
-'The': -T
+'The': KPA/-T
 'wind': WEUPBD
 'could': KO
 'also': HR-S
@@ -1442,7 +1442,7 @@ The Old Church Bell
 'their': THAEUR
 'own': OEPB
 'way.': WAEU TP-PL
-'And': SKP
+'And': AFPBD
 'he,': HE KW-BG
 'the': -T
 'pale': PAEL
@@ -1451,7 +1451,7 @@ The Old Church Bell
 'of': -F
 'the': -T
 'ideal.': KWR-L TP-PL
-'For': TPOR
+'For': KPA/TPOR
 'many': PHAEPB
 'heavy': HOEUF
 'days': TKAEUS
@@ -1478,7 +1478,7 @@ The Old Church Bell
 'the': -T
 'minstrel': PHEUPBS/TREL
 'sing.': SEUPBG TP-PL
-'Dark': TKARBG
+'Dark': KPA/TKARBG
 'days': TKAEUS
 'and': SKP
 'cold': KOELD
@@ -1508,7 +1508,7 @@ The Old Church Bell
 'a': AEU
 'gloomy': TKPWHRAO/PH*EU
 'time.': TAOEUPL TP-PL
-'What': WHA
+'What': KPA/WHA
 'would': WO
 'become': PW-BG
 'of': -F
@@ -1523,7 +1523,7 @@ The Old Church Bell
 'the': -T
 'old': OLD
 'bell?': PWEL H-F
-'The': -T
+'The': KPA/-T
 'old': OLD
 'bell': PWEL
 'was,': WAS KW-BG
@@ -1568,7 +1568,7 @@ The Old Church Bell
 'had': H
 'never': TPHEF
 'wandered.': WAPBD/-D TP-PL
-'The': -T
+'The': KPA/-T
 'tones': TOEPBS
 'went': WEPBT
 'forth': TPO*RT
@@ -1583,7 +1583,7 @@ The Old Church Bell
 'the': -T
 'round': ROUPBD
 'world.': WORLD TP-PL
-'We': WE
+'We': KPA/WE
 'will': HR
 'now': TPHOU
 'follow': TPOL
@@ -1593,7 +1593,7 @@ The Old Church Bell
 'the': -T
 'old': OLD
 'bell.': PWEL TP-PL
-'It': T
+'It': KPA/T
 'was,': WAS KW-BG
 'as': AZ
 'we': WE
@@ -1620,11 +1620,11 @@ The Old Church Bell
 'in': TPH
 'a': AEU
 'furnace.': TPURPBS TP-PL
-'And': SKP
+'And': AFPBD
 'then': THEPB
 'what': WHA
 'happened?': HAPD H-F
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'royal': ROEUL
 'city': STEU
@@ -1670,7 +1670,7 @@ The Old Church Bell
 'land': HRAPBD
 'could': KO
 'produce.': PROU TP-PL
-'And': SKP
+'And': AFPBD
 'now': TPHOU
 'we': WE
 'see': SAOE
@@ -1679,14 +1679,14 @@ The Old Church Bell
 'things': THEUPBGS
 'are': R
 'ordered.': ORD/-D TP-PL
-'Strange': STRAEUPBG
+'Strange': KPA/STRAEUPBG
 'things': THEUPBGS
 'sometimes': STAOEUPLS
 'happen': HAP
 'in': TPH
 'this': TH
 'world.': WORLD TP-PL
-'In': TPH
+'In': KPA/TPH
 'Denmark,': TKEPB/PHARBG KW-BG
 'in': TPH
 'one': WUPB
@@ -1708,7 +1708,7 @@ The Old Church Bell
 'where': W-R
 'many': PHAEPB
 'Huns'': xxx Huns AE
-'graves': TKRA*EUFS
+'graves': TKPWRAEUFS
 'may': PHAE
 'be': -B
 'seen,': SAOEPB KW-BG
@@ -1717,7 +1717,7 @@ The Old Church Bell
 'poor': PAOR
 'boy': PWOEU
 'born.': PWORPB TP-PL
-'He': HE
+'He': KPA/HE
 'wore': WOR
 'wooden': WAOD/EPB
 'shoes,': SHAOUS KW-BG
@@ -1745,7 +1745,7 @@ The Old Church Bell
 'him': HEUPL
 'every': EF
 'day.': TKAEU TP-PL
-'This': TH
+'This': KPA/TH
 'poor': PAOR
 'child': KHAOEULD
 'was': WAS
@@ -1768,7 +1768,7 @@ The Old Church Bell
 'astonished': A/STOPB/EURBD
 'the': -T
 'world.[1]': WORLD TP-PL PWR-BGT #S PWR*BGT
-'To': TO
+'To': KPA/TO
 'him': HEUPL
 'was': WAS
 'offered': OFRD
@@ -1799,8 +1799,8 @@ The Old Church Bell
 'father': TPAER
 'in': TPH
 'the': -T
-'Bible.': PWAOEUBL TP-PL
-'The': -T
+'Bible.': PWAO*EUBL TP-PL
+'The': KPA/-T
 'bust': PWUFT
 'was': WAS
 'cast': KAFT
@@ -1834,7 +1834,7 @@ The Old Church Bell
 'home': HOEPL
 'and': SKP
 'elsewhere.': ELS/W-R TP-PL
-'The': -T
+'The': KPA/-T
 'metal,': PH*ELT KW-BG
 'glowing': TKPWHROEG
 'with': W
@@ -1864,7 +1864,7 @@ The Old Church Bell
 'the': -T
 'old': OLD
 'castle.': KAFL TP-PL
-'The': -T
+'The': KPA/-T
 'statue': STOEUT
 'represented': REPD
 'in': TPH
@@ -1913,15 +1913,15 @@ The Old Church Bell
 'Switzerland's': SWEUZ/HRAPBD AES
 'deliverer,': THREUFR/*ER KW-BG
 'William': WOEUPL
-'Tell,': TEL KW-BG
+'Tell,': KPA/TEL KW-BG
 'and': SKP
 'of': -F
 'the': -T
 'heaven-inspired': HEFPB H-PB EUPB/SPAOEURD
-'Maid': PHAEUD
+'Maid': KPA/PHAEUD
 'of': -F
 'Orleans.': AUR/HRAOEPB/-S TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'a': AEU
 'beautiful': PWAOUFL
@@ -1946,7 +1946,7 @@ The Old Church Bell
 'a': AEU
 'joyous': SKWROEU/KWROUS
 'peal.': PA*EL TP-PL
-'One': WUPB
+'One': KPA/WUPB
 'bell': PWEL
 'was': WAS
 'silent;': SHREPBT STPH*FPLT
@@ -1975,7 +1975,7 @@ The Old Church Bell
 'formed': TPORPLD
 'a': AEU
 'part.': PART TP-PL
-'On': OPB
+'On': KPA/OPB
 'this': TH
 'day,': TKAEU KW-BG
 'just': SKWRUFT
@@ -2049,7 +2049,7 @@ The Old Church Bell
 'Frederick': TPRED/REUBG
 'Schiller!': xxx Schiller SKHRAPL
 '[1]': PWR-BGT #S PWR*BGT
-'The': -T
+'The': KPA/-T
 'Danish': TKAEUPB/EURB
 'sculptor': SKAO*UFP
 'Thorwaldsen.': xxx Thorwaldsen TP-PL

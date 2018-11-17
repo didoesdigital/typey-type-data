@@ -7,7 +7,7 @@
 * from `TPR`
 * Portugal, `PORT/TPWAL KW-BG`
 * but `PWUT`
-* There `THR`
+* there `THR`
 * were `WR`
 * some `SOPL`
 * who `WHO`
@@ -21,7 +21,7 @@
 * the `-T`
 * same `SAEUPL`
 * thing. `THEUPBG TP-PL`
-* at `AT`
+* At `KPA/AT`
 * all `AUL`
 * events, `AOEPBTS KW-BG`
 * was `WAS`
@@ -36,6 +36,7 @@
 * end `EPBD`
 * of `-F`
 * her. `HER TP-PL`
+* But `KPA/PWUT`
 * ducklings `TKUBG/-LGS`
 * crept `KREPT`
 * forth `TPO*RT`
@@ -62,7 +63,7 @@
 * very `SRE`
 * hostile `HOFT/*L`
 * manner. `PHAERPB TP-PL`
-* "he `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * annoys `A/TPHOEUS`
 * me `PHE`
 * with `W`
@@ -83,7 +84,7 @@
 * although `HR*T`
 * not `TPHOT`
 * drake. `TKRAEUBG TP-PL`
-* he `HE`
+* He `KPA/HE`
 * ought `OT`
 * to `TO`
 * moderate `PHOD/RAT`
@@ -103,7 +104,7 @@
 * acquired `KWAOEURD`
 * polite `PHRAOEUT`
 * society. `SOET TP-PL`
-* How `HOU`
+* How `KPA/HOU`
 * sweetly `SWAOET/HREU`
 * they `THE`
 * sing `SEUPBG`
@@ -116,7 +117,7 @@
 * I `EU`
 * call `KAUL`
 * singing. `SEUPBG/-G TP-PL`
-* If `TP`
+* If `KPA/TP`
 * had `H`
 * such `SUFP`
 * singing-bird, `SEUPBG/-G H-PB PWEURD KW-BG`
@@ -130,7 +131,7 @@
 * my `PHEU`
 * nature, `TPHAEURT KW-BG`
 * blood." `PWHRAOD TP-PL KR-GS`
-* while `WHAOEUL`
+* While `KPA/WHAOEUL`
 * speaking, `SPAOEG KW-BG`
 * singing-birds `SEUPBG/-G H-PB PWEURDZ`
 * tumbling `TUPL/-BLG`
@@ -139,8 +140,10 @@
 * roof `RAOF`
 * into `TPHAO`
 * yard. `KWRARD TP-PL`
+* The `KPA/-T`
 * cat `KAT`
 * after `AF`
+* he `HE`
 * escaped `ES/KAEUPD`
 * her `HER`
 * broken `PWROEPB`
@@ -170,17 +173,18 @@
 * allow `HROU`
 * things `THEUPBGS`
 * Portugal." `PORT/TPWAL TP-PL KR-GS`
+* She `KPA/SHE`
 * pitied `PEUT/EUD`
 * did `TK`
 * other `OER`
 * ducks `TKUBGZ`
 * Portuguese. `PORT/TKWAOES TP-PL`
-* "Poor `KR-GS PAOR`
+* "Poor `KR-GS KPA/PAOR`
 * creature!" `KRAOEFP SKHRAPL KR-GS`
 * said, `SAEUD KW-BG`
 * another, `TPHOER KW-BG`
 * up. `UP TP-PL`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * can't `K-PBT`
 * sing, `SEUPBG KW-BG`
 * certainly; `SERPBL STPH*FPLT`
@@ -196,7 +200,7 @@
 * though `THOE`
 * talk `TAUBG`
 * it." `T TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * talk," `TAUBG KW-BG KR-GS`
 * "and `KR-GS SKP`
 * I'll `AOEUL`
@@ -216,7 +220,7 @@
 * shower-bath; `SHOUR H-PB PWA*T STPH*FPLT`
 * meant `PHEPBT`
 * kindly. `KAOEUPBD/HREU TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * deed," `TKAOED KW-BG KR-GS`
 * said; `SAEUD STPH*FPLT`
 * hope `HOEP`
@@ -224,7 +228,7 @@
 * will `HR`
 * take `TAEUBG`
 * example `KP-PL`
-* "Tweet, `KR-GS TWAOET KW-BG`
+* "Tweet, `KR-GS KPA/TWAOET KW-BG`
 * tweet!" `TWAOET SKHRAPL KR-GS`
 * being `-BG`
 * broken, `PWROEPB KW-BG`
@@ -235,7 +239,7 @@
 * understood `*URPBD`
 * bath `PWA*T`
 * kindly, `KAOEUPBD/HREU KW-BG`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * kind-hearted, `KEUPBD H-PB HART/-D KW-BG`
 * madam;" `PHAD/APL STPH*FPLT KR-GS`
 * wish `WEURB`
@@ -246,10 +250,11 @@
 * heart," `HART KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * duck, `TKUBG KW-BG`
+* "but `KR-GS PWUT`
 * know `TPHOE`
 * love `HRUF`
 * fellow-creatures, `TPO*EUL H-PB KRAOEFPS KW-BG`
-* Except `KPEPT`
+* except `KPEPT`
 * nobody `TPHOEB`
 * expect `KP-PT`
 * her, `HER KW-BG`
@@ -260,6 +265,7 @@
 * pray `PRAEU`
 * make `PHAEUBG`
 * yourself `KWRO*URS`
+* at `AT`
 * home; `HOEPL STPH*FPLT`
 * easy `EZ`
 * one's `W*UPBS`
@@ -273,6 +279,7 @@
 * see `SAOE`
 * feathery `xxx feathery`
 * dress. `TKRES TP-PL`
+* My `KPA/PHEU`
 * drake `TKRAEUBG`
 * native `TPHAEUFT`
 * these `THEZ`
@@ -288,32 +295,34 @@
 * say `SAEU`
 * positively `P*EUFL`
 * person." `PERPB TP-PL KR-GS`
-* "She's `KR-GS SHE AES`
+* "She's `KR-GS KPA/SHE AES`
 * full `TPUL`
 * 'Portulak,'" `AE xxx Portulak KW-BG AE KR-GS`
 * common `KPHOPB`
 * witty. `WEUT/TEU TP-PL`
+* All `KPA/AUL`
 * considered `KR-D`
 * word `WORD`
 * "Portulak" `KR-GS xxx Portulak KR-GS`
 * joke, `SKWROEBG KW-BG`
 * sounded `SOUPBD/-D`
 * Portugal. `PORT/TPWAL TP-PL`
+* They `KPA/THE`
 * nudged `TPHUPBLG/-D`
 * each `AOEFP`
 * other, `OER KW-BG`
-* "Quack! `KR-GS KWA*BG SKHRAPL`
+* "Quack! `KR-GS KPA/KWA*BG SKHRAPL`
 * witty!" `WEUT/TEU SKHRAPL KR-GS`
-* then `THEPB`
+* Then `KPA/THEPB`
 * began `TKPWAPB`
 * notice `TPH-TS`
 * bird. `PWEURD TP-PL`
-* "the `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * certainly `SERPBL`
 * great `TKPWRAET`
 * flow `TPHROE`
 * language," `HRAPBL KW-BG KR-GS`
-* "for `KR-GS TPOR`
+* "For `KR-GS KPA/TPOR`
 * part `PART`
 * care `KAEUR`
 * fill `TPEUL`
@@ -333,7 +342,7 @@
 * voice," `SROEUS KW-BG KR-GS`
 * eldest `ELD/EFT`
 * ducks; `TKUBGZ STPH*FPLT`
-* "It `KR-GS T`
+* "it `KR-GS T`
 * must `PHUFT`
 * satisfaction `SAEBGS`
 * able `ABL`
@@ -354,6 +363,7 @@
 * him `HEUPL`
 * so," `SO KW-BG KR-GS`
 * interposed `EUPBT/POES/-D`
+* "he `KR-GS HE`
 * requires `RAOEURS`
 * rest `REFT`
 * nursing. `TPHURBGS TP-PL`
@@ -361,7 +371,7 @@
 * prepare `PRAEP`
 * another `TPHOER`
 * you?" `U H-F KR-GS`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * no! `TPHO SKHRAPL`
 * let `HRET`
 * dry," `TKRAOEU KW-BG KR-GS`
@@ -370,7 +380,7 @@
 * remedy `REPL/TKEU`
 * me, `PHE KW-BG`
 * well," `WEL KW-BG KR-GS`
-* "Amusement, `KR-GS A/PHAOUS/*PLT KW-BG`
+* "Amusement, `KR-GS KPA/A/PHAOUS/*PLT KW-BG`
 * too, `TAO KW-BG`
 * beneficial. `PWEURBL TP-PL`
 * fowls `TPO*UL/-S`
@@ -378,6 +388,7 @@
 * soon `SAOPB`
 * pay `PAEU`
 * visit. `SREUFT TP-PL`
+* There `KPA/THR`
 * Cochin `xxx Cochin`
 * Chinese `KHAOEUPB/AOEZ`
 * amongst `PHOPBGS`
@@ -403,6 +414,7 @@
 * rude. `RAOUD TP-PL`
 * real `RAEL`
 * songster," `xxx songster KW-BG KR-GS`
+* "you `KR-GS U`
 * voice `SROEUS`
 * possible `POB`
 * do; `TKO STPH*FPLT`
@@ -415,12 +427,13 @@
 * enchanted `EPB/HAPBT/-D`
 * appearance `PAOERPBS`
 * singing-bird. `SEUPBG/-G H-PB PWEURD TP-PL`
+* His `KPA/HEUS`
 * ruffled `R*UFL/-D`
 * bath, `PWA*T KW-BG`
 * seemed `SAOEPLD`
 * tiny `TOEUPB`
 * fowl. `TPO*UL TP-PL`
-* "he's `KR-GS HE AES`
+* "He's `KR-GS KPA/HE AES`
 * charming," `KHARPL/-G KW-BG KR-GS`
 * conversation `K-FRGS`
 * whispers, `WHEUS/PERS KW-BG`
@@ -437,6 +450,7 @@
 * aquatic `A/KWAT/EUBG`
 * birds, `PWEURDZ KW-BG`
 * noticed. `TPH-TSD TP-PL`
+* You `KPA/U`
 * us `US`
 * yet,—very `KWRET KW-BG EPL/TKA*RB SRE`
 * few `TPAOU`
@@ -474,10 +488,12 @@
 * where `W-R`
 * none `TPHOPB`
 * exists. `KPEUFTS TP-PL`
+* Except `KPA/KPEPT`
 * ourselves `O*URSZ`
 * yard `KWRARD`
 * talented `TAL/EPBT/-D`
 * polite. `PHRAOEUT TP-PL`
+* It `KPA/T`
 * cannot `K/TPHOT`
 * warn `WARPB`
 * trust `TRUFT`
@@ -498,6 +514,7 @@
 * word, `WORD KW-BG`
 * always `AULS`
 * wrong. `WROPBG TP-PL`
+* That `KPA/THA`
 * fat `TPAT`
 * yonder `KWROPBD/ER`
 * speaks `SPAOEBGS`
@@ -526,16 +543,18 @@
 * doing `TK*G`
 * it, `T KW-BG`
 * me. `PHE TP-PL`
+* We `KPA/WE`
 * them." `THEPL TP-PL KR-GS`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * up, `UP KW-BG`
 * sparrow. `SPAEUR/ROE TP-PL`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * difference," `TKEUFRPBS KW-BG KR-GS`
 * appears `A/PAOERS`
 * same. `SAEUPL TP-PL`
-* He's `HE AES`
+* He's `KPA/HE AES`
 * plaything, `PHRAEU/THEUPBG KW-BG`
+* if `TP`
 * people `PAOEPL`
 * playthings, `PHRAEU/THEUPBG/-S KW-BG`
 * why `KWR`
@@ -543,12 +562,14 @@
 * say." `SAEU TP-PL KR-GS`
 * says," `SEZ KW-BG KR-GS`
 * Portuguese; `PORT/TKWAOES STPH*FPLT`
+* "he's `KR-GS HE AES`
 * matters `PHAERTS`
 * business, `PWEUS KW-BG`
 * business `PWEUS`
 * placed `PHRAEUFD`
 * before `PW-F`
 * everything. `EFG TP-PL`
+* now `TPHOU`
 * shall `SHAL`
 * lie `HRAOEU`
 * down `TKOUPB`
@@ -561,6 +582,7 @@
 * sage `SAEUPBLG`
 * onions `OPB/KWROPBS`
 * apples." `APLS TP-PL KR-GS`
+* So `KPA/SO`
 * herself `H*ERS`
 * sun `SUPB`
 * winked `WEUPB/-BGD`
@@ -598,13 +620,16 @@
 * old `OLD`
 * lady `HRA*ED`
 * getting `TKPWEGT`
-* "Doting `KR-GS TKOT/-G`
+* "doting `KR-GS TKOT/-G`
 * ducky," `xxx ducky KW-BG KR-GS`
 * laughed `HRAFD`
 * this. `TH TP-PL`
+* "Doting `KR-GS xxx Doting`
 * whispered. `WHEUS/PERD TP-PL`
 * that's `THATS`
 * 'witty!'" `AE WEUT/TEU SKHRAPL AE KR-GS`
+* And `AFPBD`
+* then `THEPB`
 * repeated `RE/PAOETD`
 * former `TPORPL/*ER`
 * joke `SKWROEBG`
@@ -628,7 +653,7 @@
 * rushed `RURBD`
 * side: `SAOEUD STPH-FPLT`
 * trod `TROD`
-* "Tweet," `KR-GS TWAOET KW-BG KR-GS`
+* "Tweet," `KR-GS KPA/TWAOET KW-BG KR-GS`
 * cried; `KRAOEUD STPH*FPLT`
 * hard `HARD`
 * madam." `PHAD/APL TP-PL KR-GS`
@@ -642,6 +667,7 @@
 * 'tweet.'" `AE TWAOET TP-PL AE KR-GS`
 * angry," `APBG/REU KW-BG KR-GS`
 * bird; `PWEURD STPH*FPLT`
+* "the `KR-GS -T`
 * 'tweet' `AE TWAOET AE`
 * slipped `SHREUPD`
 * unawares." `AUPB/WAOEUR/-S TP-PL KR-GS`
@@ -650,28 +676,32 @@
 * could, `KO KW-BG`
 * made `PHAED`
 * meal. `PHAOEL TP-PL`
+* When `KPA/WHEPB`
 * finished, `TP*EURBD KW-BG`
 * again, `TKPWEPB KW-BG`
 * wished `WEURBD`
 * amiable, `APL/KWRABL KW-BG`
 * sing,— `SEUPBG KW-BG EPL/TKA*RB`
-* "Chirp `KR-GS KHEURP`
-* twitter, `TWEURT KW-BG`
+* "Chirp `KR-GS KPA/KHEURP`
+* twitter, `xxx twitter KW-BG`
 * dew-drops `TKAO*U H-PB TKROPS`
 * glitter, `TKPWHREUT KW-BG`
+* In `KPA/TPH`
 * hours `HOURS`
 * sunny `SAOUPB`
 * spring, `SPREUPBG KW-BG`
 * best, `PWEFT KW-BG`
-* Till `T*EUL`
+* Till `KPA/T*EUL`
+* With `KPA/W`
 * behind `HEUPBD`
 * wing." `WEUPBG TP-PL KR-GS`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * want `WAPBT`
 * dinner," `TKEURPB KW-BG KR-GS`
 * conform `KORPL`
 * rules `RAOULS`
 * house `HOUS`
+* while `WHAOEUL`
 * here. `HAOER TP-PL`
 * sleep `SHRAOEP`
 * now." `TPHOU TP-PL KR-GS`
@@ -688,21 +718,22 @@
 * naturally `TPHRARL`
 * bad `PWAD`
 * temper. `TEPL/PER TP-PL`
-* "Give `KR-GS TKPWEUF`
+* "Give `KR-GS KPA/TKPWEUF`
 * chicken," `KHEU/KEPB KW-BG KR-GS`
 * standing `STAPBG`
 * way." `WAEU TP-PL KR-GS`
-* "Why `KR-GS KWR`
+* "Why `KR-GS KPA/KWR`
 * angry `APBG/REU`
 * me?" `PHE H-F KR-GS`
 * "what `KR-GS WHA`
 * done?" `TKOPB H-F KR-GS`
-* "Done!" `KR-GS TKOPB SKHRAPL KR-GS`
+* "Done!" `KR-GS KPA/TKOPB SKHRAPL KR-GS`
 * "your `KR-GS KWROUR`
 * mode `PHOED`
 * expressing `EBGS/PRES/-G`
 * attention `A/T-PBGS`
 * fact." `TPABGT TP-PL KR-GS`
+* "It `KR-GS KPA/T`
 * sunshine `SUPB/SHAO*EUPB`
 * yesterday," `KWRED KW-BG KR-GS`
 * cloudy `KHROU/TKEU`
@@ -721,7 +752,7 @@
 * eyes `AO*EUS`
 * looked `HRAOBGD`
 * yesterday." `KWRED TP-PL KR-GS`
-* "Impertinent `KR-GS EUPL/PERT/TPHEPBT`
+* "Impertinent `KR-GS KPA/EUPL/PERT/TPHEPBT`
 * exclaimed `SKHRAEUPL/-D`
 * duck: `TKUBG STPH-FPLT`
 * "would `KR-GS WO`
@@ -729,7 +760,7 @@
 * cat—that `KAT EPL/TKA*RB THA`
 * beast `PWAOEFT`
 * prey? `PRA*EU H-F`
-* There's `THR AES`
+* There's `KPA/THR AES`
 * drop `TKROP`
 * malicious `PHAL/EURBS`
 * blood `PWHRAOD`
@@ -760,7 +791,7 @@
 * crowed `KROE/-D`
 * steam-engine `STAEPL H-PB TPH-PBLG`
 * power. `POUR TP-PL`
-* "You'll `KR-GS U AE HR*/HR*`
+* "You'll `KR-GS KPA/U AE HR*/HR*`
 * kill `KEUL`
 * cried, `KRAOEUD KW-BG`
 * "it's `KR-GS T AES`
@@ -771,12 +802,13 @@
 * near `TPHAOER`
 * losing `HRAOUFG`
 * mine." `PHAOEUPB TP-PL KR-GS`
-* "There's `KR-GS THR AES`
+* "There's `KR-GS KPA/THR AES`
 * there," `THR KW-BG KR-GS`
 * observed `OEBD`
 * cock. `KOBG TP-PL`
-* "Speak `KR-GS SPAOEBG`
+* "Speak `KR-GS KPA/SPAOEBG`
 * respect," `R-PT KW-BG KR-GS`
+* "for `KR-GS TPOR`
 * manners `PHAERPBS`
 * could `KO`
 * sing. `SEUPBG TP-PL`
@@ -789,6 +821,7 @@
 * beings." `-BGZ TP-PL KR-GS`
 * crowding `KROUD/-G`
 * round `ROUPBD`
+* Ducks `KPA/TKUBGZ`
 * strong `STROPBG`
 * passions, `PAGS/-S KW-BG`
 * whether `WHR`
@@ -815,11 +848,11 @@
 * "nobody `KR-GS TPHOEB`
 * deny `TKOEUPB`
 * that." `THA TP-PL KR-GS`
-* "Hearts!" `KR-GS HARTS SKHRAPL KR-GS`
+* "Hearts!" `KR-GS KPA/HARTS SKHRAPL KR-GS`
 * "indeed `KR-GS TPHAOEPBD`
 * have, `SR KW-BG`
 * tender `TERPBD`
-* "Let `KR-GS HRET`
+* "Let `KR-GS KPA/HRET`
 * satisfy `SAEF`
 * hunger," `HURPBG KW-BG KR-GS`
 * drake, `TKRAEUBG KW-BG`

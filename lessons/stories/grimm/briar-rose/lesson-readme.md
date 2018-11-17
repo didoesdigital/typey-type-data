@@ -20,7 +20,7 @@
 * those `THOZ`
 * days `TKAEUS`
 * fairies. `TPAEUR/REU/KWREU/-S TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * this `TH`
 * had `H`
 * plenty `PHREPBT`
@@ -39,7 +39,7 @@
 * out `OUT`
 * every `EF`
 * day: `TKAEU STPH-FPLT`
-* But `PWUT`
+* but `PWUT`
 * though `THOE`
 * they `THE`
 * been `PW-PB`
@@ -53,7 +53,8 @@
 * very `SRE`
 * much `PHUFP`
 * indeed. `TPHAOEPBD TP-PL`
-* One `WUPB`
+* But `KPA/PWUT`
+* one `WUPB`
 * day `TKAEU`
 * as `AZ`
 * the `-T`
@@ -80,7 +81,7 @@
 * dead `TKED`
 * on `OPB`
 * bank. `PWA*PBG TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * took `TAOBG`
 * pity `PEUT/TEU`
 * threw `THRAOU`
@@ -99,7 +100,7 @@
 * said, `SAEUD KW-BG`
 * 'I `AE EU`
 * know `TPHOE`
-* What `WHA`
+* what `WHA`
 * your `KWROUR`
 * wish `WEURB`
 * is, `S KW-BG`
@@ -114,6 +115,7 @@
 * soon `SAOPB`
 * have `SR`
 * daughter.' `TKAUR TP-PL AE`
+* What `KPA/WHA`
 * fish `TPEURB`
 * foretold `TPOER/TOLD`
 * came `KAEUPL`
@@ -137,6 +139,7 @@
 * child `KHAOEULD`
 * all `AUL`
 * land. `HRAPBD TP-PL`
+* So `KPA/SO`
 * asked `SK-D`
 * his `HEUS`
 * kinsmen, `KEUPBS/PHEPB KW-BG`
@@ -185,13 +188,14 @@
 * best `PWEFT`
 * gifts `TKPWEUFTS`
 * princess. `PREUPB/ES TP-PL`
+* One `KPA/WUPB`
 * goodness, `TKPWAOD/-PBS KW-BG`
 * another `TPHOER`
 * beauty, `PWAOUT KW-BG`
 * riches, `REUFPS KW-BG`
 * till `T*EUL`
 * world. `WORLD TP-PL`
-* just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * eleven `HREFPB`
 * done `TKOPB`
 * blessing `PWHR*EFG`
@@ -209,7 +213,7 @@
 * presently `PREPBLT`
 * up `UP`
 * dining-hall. `TKAOEUPBG H-PB HAUL TP-PL`
-* now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * angry, `APBG/REU KW-BG`
 * scolded `SKOLD/-D`
 * much, `PHUFP KW-BG`
@@ -219,7 +223,7 @@
 * revenge. `RE/SREPBG TP-PL`
 * cried `KRAOEUD`
 * out, `OUT KW-BG`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * king's `KEUPBG/AES`
 * daughter `TKAUR`
 * shall, `SHAL KW-BG`
@@ -253,7 +257,7 @@
 * asleep `A/HRAOEP`
 * hundred `HUPBD`
 * years. `KWRAOERS TP-PL`
-* however, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * hoped `HOEPD`
 * still `STEUL`
 * save `SAF`
@@ -279,6 +283,7 @@
 * everyone `EFRPB`
 * knew `TPHAOU`
 * loved `HROFD`
+* It `KPA/T`
 * happened `HAPD`
 * that, `THA KW-BG`
 * fifteen `TPEUF/TAOEPB`
@@ -302,6 +307,7 @@
 * staircase `STAEUR/KAEUS`
 * ending `EPBGD`
 * door. `TKAOR TP-PL`
+* In `KPA/TPH`
 * door `TKAOR`
 * key, `KAOE KW-BG`
 * turned `TURPBD`
@@ -311,8 +317,9 @@
 * lady `HRA*ED`
 * spinning `SPEUPBG`
 * busily. `PWEUZ/HREU TP-PL`
-* 'Why, `AE KWR KW-BG`
+* 'Why, `AE KPA/KWR KW-BG`
 * how `HOU`
+* now, `TPHOU KW-BG`
 * mother,' `PHOER KW-BG AE`
 * princess; `PREUPB/ES STPH*FPLT`
 * 'what `AE WHA`
@@ -320,7 +327,7 @@
 * you `U`
 * doing `TK*G`
 * there?' `THR H-F AE`
-* 'Spinning,' `AE SPEUPBG KW-BG AE`
+* 'Spinning,' `AE KPA/SPEUPBG KW-BG AE`
 * lady, `HRA*ED KW-BG`
 * nodded `TPHOD/-D`
 * humming `HUPL/-G`
@@ -329,7 +336,7 @@
 * buzz! `PWUZ SKHRAPL`
 * went `WEPBT`
 * wheel. `WHAOEL TP-PL`
-* 'How `AE HOU`
+* 'How `AE KPA/HOU`
 * prettily `PRET/HREU`
 * thing `THEUPBG`
 * turns `TURPBS`
@@ -351,6 +358,7 @@
 * deep `TKAOEP`
 * sleep; `SHRAOEP STPH*FPLT`
 * queen, `KWAOEPB KW-BG`
+* just `SKWRUFT`
 * come `KOPL`
 * court, `KORT KW-BG`
 * too; `TAO STPH*FPLT`
@@ -362,7 +370,7 @@
 * house-top, `HOUS H-PB TOP KW-BG`
 * flies `TPHRAOEUS`
 * walls. `WAULS TP-PL`
-* even `AOEPB`
+* Even `KPA/AOEPB`
 * fire `TPAOEUR`
 * hearth `HAERT`
 * off `OF`
@@ -412,6 +420,7 @@
 * palace `PAL/AS`
 * surrounded `SROUBD/-D`
 * hidden, `HEUD/EPB KW-BG`
+* even `AOEPB`
 * roof `RAOF`
 * or `OR`
 * chimneys `KHEUPL/TPHEU/-S`
@@ -420,8 +429,8 @@
 * through `THRU`
 * land `HRAPBD`
 * sleeping `SHRAOEPG`
-* Briar `PWRAOEUR`
-* Rose `ROEZ`
+* Briar `KPA/PWRAOEUR`
+* Rose `RO*ES`
 * (for `PREPB TPOR`
 * called): `KAULD PR*EPB STPH-FPLT`
 * time, `TAOEUPL KW-BG`
@@ -431,7 +440,8 @@
 * tried `TRAOEUD`
 * break `PWRAEBG`
 * thicket `THEUBGT`
-* This, `TH KW-BG`
+* This, `KPA/TH KW-BG`
+* however, `HOUF KW-BG`
 * none `TPHOPB`
 * ever `-FR`
 * do; `TKO STPH*FPLT`
@@ -443,6 +453,7 @@
 * fast, `TPAFT KW-BG`
 * died `TKAOEUD`
 * wretchedly. `KREFPD/HREU TP-PL`
+* After `KPA/AF`
 * many, `PHAEPB KW-BG`
 * son `SOPB`
 * land: `HRAPBD STPH-FPLT`
@@ -453,9 +464,10 @@
 * behind `HEUPBD`
 * wonderful `WUFL`
 * called `KAULD`
-* Rose, `ROEZ KW-BG`
+* Rose, `RO*ES KW-BG`
 * asleep, `A/HRAOEP KW-BG`
 * court. `KORT TP-PL`
+* He `KPA/HE`
 * told, `TOLD KW-BG`
 * too, `TAO KW-BG`
 * grandfather `TKPWR-F`
@@ -465,13 +477,14 @@
 * died. `TKAOEUD TP-PL`
 * young `KWRUPBG`
 * prince `PREUPBS`
-* 'All `AE AUL`
+* 'All `AE KPA/AUL`
 * frighten `TPRAOEUFPB`
 * me; `PHE STPH*FPLT`
 * I `EU`
 * go `TKPW`
 * see `SAOE`
-* Rose.' `ROEZ TP-PL AE`
+* Rose.' `RO*ES TP-PL AE`
+* The `KPA/-T`
 * hinder `HEUPBD/ER`
 * him, `HEUPL KW-BG`
 * bent `PWEPBT`
@@ -490,6 +503,7 @@
 * heads `HEDZ`
 * under `*UPBD`
 * wings. `WEUPBGS TP-PL`
+* And `AFPBD`
 * walls; `WAULS STPH*FPLT`
 * butler `PWUT/HRER`
 * ale `AEL`
@@ -519,6 +533,7 @@
 * lay, `HRAEU KW-BG`
 * couch `KOUFP`
 * window. `WOEUPBD TP-PL`
+* She `KPA/SHE`
 * eyes `AO*EUS`
 * stooped `STAOPD`
 * kiss. `KEUS TP-PL`
@@ -553,6 +568,7 @@
 * fowl; `TPO*UL STPH*FPLT`
 * boy `PWOEU`
 * ear. `AOER TP-PL`
+* then `THEPB`
 * married, `PHAERD KW-BG`
 * wedding `WEGD`
 * given; `TKPWEUFPB STPH*FPLT`

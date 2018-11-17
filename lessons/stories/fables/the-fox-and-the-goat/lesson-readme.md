@@ -1,11 +1,11 @@
 # The Fox and the Goat
 
-* by `PWEU`
+* By `KPA/PWEU`
 * an `APB`
 * unlucky `UPB/HRUBG/KWREU`
 * chance `KHAPBS`
 * a `AEU`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * fell `TPEL`
 * into `TPHAO`
 * deep `TKAOEP`
@@ -17,8 +17,9 @@
 * not `TPHOT`
 * get `TKPWET`
 * out. `OUT TP-PL`
-* Goat `TKPWO*ET`
+* Goat `KPA/TKPWO*ET`
 * passed `PAFD`
+* by `PWEU`
 * shortly `SHORLT`
 * afterwards, `A*FRDZ KW-BG`
 * and `SKP`
@@ -29,12 +30,12 @@
 * doing `TK*G`
 * down `TKOUPB`
 * there. `THR TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * have `SR`
 * you `U`
 * heard?" `HAERD H-F KR-GS`
 * said `SAEUD`
-* Fox; `TPOBGS STPH*FPLT`
+* Fox; `KPA/TPOBGS STPH*FPLT`
 * "there `KR-GS THR`
 * is `S`
 * going `TKPW-G`
@@ -51,16 +52,17 @@
 * sure `SHUR`
 * water `WAUR`
 * me. `PHE TP-PL`
-* Why `KWR`
+* Why `KPA/KWR`
 * don't `TKOEPBT`
 * come `KOPL`
 * too?" `TAO H-F KR-GS`
+* The `KPA/-T`
 * thought `THAUT`
 * of `-F`
 * this `TH`
 * advice, `SREUS KW-BG`
 * well. `WEL TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * immediately `PHAOELD`
 * on `OPB`
 * her `HER`
@@ -74,13 +76,13 @@
 * jump `SKWRUFRP`
 * up `UP`
 * edge `EPBG`
-* "Good-bye, `KR-GS TKPWAOD H-PB PWAO*EU KW-BG`
+* "Good-bye, `KR-GS KPA/TKPWAOD H-PB PWAO*EU KW-BG`
 * friend," `TPREPBD KW-BG KR-GS`
-* Fox, `TPOBGS KW-BG`
+* Fox, `KPA/TPOBGS KW-BG`
 * "remember `KR-GS REB`
 * next `TPHEGT`
 * time, `TAOEUPL KW-BG`
-* "Never `KR-GS TPHEF`
+* "Never `KR-GS KPA/TPHEF`
 * trust `TRUFT`
 * advice `SREUS`
 * man `PHAPB`

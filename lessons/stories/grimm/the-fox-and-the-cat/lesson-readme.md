@@ -1,6 +1,6 @@
 # The Fox and the Cat
 
-* It `T`
+* It `KPA/T`
 * happened `HAPD`
 * that `THA`
 * the `-T`
@@ -16,7 +16,7 @@
 * thought `THAUT`
 * to `TO`
 * herself: `H*ERS STPH-FPLT`
-* 'He `AE HE`
+* 'He `AE KPA/HE`
 * is `S`
 * clever `KHREFR`
 * full `TPUL`
@@ -29,14 +29,15 @@
 * him `HEUPL`
 * friendly `TPREPBLD`
 * way. `WAEU TP-PL`
-* 'Good `AE TKPWAOD`
+* 'Good `AE KPA/TKPWAOD`
 * day, `TKAEU KW-BG`
 * dear `TKAER`
 * Mr `PH*P/R*`
-* Fox, `TPOBGS KW-BG`
+* Fox, `KPA/TPOBGS KW-BG`
 * how `HOU`
 * are `R`
 * you? `U H-F`
+* How `KPA/HOU`
 * all `AUL`
 * with `W`
 * you `U`
@@ -45,6 +46,8 @@
 * these `THEZ`
 * hard `HARD`
 * times?' `TAOEUPLS H-F AE`
+* The `KPA/-T`
+* fox, `TPOBGS KW-BG`
 * kinds `KEUPBDZ`
 * arrogance, `AR/TKPWAPBS KW-BG`
 * looked `HRAOBGD`
@@ -66,26 +69,29 @@
 * answer `AEPBS`
 * or `OR`
 * not. `TPHOT TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * said: `SAEUD STPH-FPLT`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * wretched `KREFPD`
 * beard-cleaner, `PWAERD H-PB KHRAOERPB KW-BG`
 * piebald `PAOEU/PWAULD`
 * fool, `TPAOL KW-BG`
 * hungry `HUPBG/REU`
 * mouse-hunter, `PHOUS H-PB HURPBT KW-BG`
-* What `WHA`
+* what `WHA`
 * can `K`
 * be `-B`
 * thinking `THEUG`
 * of? `-F H-F`
-* have `SR`
+* Have `KPA/SR`
 * cheek `KHAOEBG`
 * ask `SK`
 * I `EU`
 * am `APL`
 * on? `OPB H-F`
+* What `KPA/WHA`
+* have `SR`
 * learnt? `HRERPBT/A*U H-F`
 * many `PHAEPB`
 * arts `ARTS`
@@ -98,12 +104,12 @@
 * replied `RE/PHRAOEUD`
 * cat, `KAT KW-BG`
 * modestly. `PHOD/EFT/HREU TP-PL`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * art `ART`
 * that?' `THA H-F AE`
 * asked `SK-D`
 * fox. `TPOBGS TP-PL`
-* 'When `AE WHEPB`
+* 'When `AE KPA/WHEPB`
 * hounds `HOUPBDZ`
 * following `TPOLG`
 * me, `PHE KW-BG`
@@ -112,7 +118,7 @@
 * tree `TRAOE`
 * save `SAF`
 * myself.' `PHAO*EUS TP-PL AE`
-* 'Is `AE S`
+* 'Is `AE KPA/S`
 * all?' `AUL H-F AE`
 * said `SAEUD`
 * master `PHAFRT`
@@ -121,6 +127,7 @@
 * bargain `PWARG/AEUPB`
 * sackful `SABG/-FL`
 * cunning. `KUPBG TP-PL`
+* You `KPA/U`
 * make `PHAEUBG`
 * me `PHE`
 * sorry `SOER`
@@ -132,7 +139,7 @@
 * get `TKPWET`
 * away `A/WAEU`
 * hounds.' `HOUPBDZ TP-PL AE`
-* Just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * then `THEPB`
 * came `KAEUPL`
 * hunter `HURPBT`
@@ -152,7 +159,7 @@
 * quite `KWAOEUT`
 * concealed `KAUPB/SAOELD`
 * her. `HER TP-PL`
-* 'Open `AE OEP`
+* 'Open `AE KPA/OEP`
 * your `KWROUR`
 * sack, `SABG KW-BG`
 * open `OEP`
@@ -160,18 +167,19 @@
 * cried `KRAOEUD`
 * him, `HEUPL KW-BG`
 * dogs `TKOGS`
-* Had `H`
+* had `H`
 * already `HR-R`
 * seized `SAOEZ/-D`
 * were `WR`
 * holding `HOELGD`
 * fast. `TPAFT TP-PL`
-* 'Ah, `AE HA*E KW-BG`
-* Fox,' `TPOBGS KW-BG AE`
+* 'Ah, `AE KPA/HA*E KW-BG`
+* Fox,' `KPA/TPOBGS KW-BG AE`
 * cat. `KAT TP-PL`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * left `HREFT`
 * lurch! `HRUFRPB SKHRAPL`
+* Had `KPA/H`
 * been `PW-PB`
 * able `ABL`
 * climb `KHRAOEUPL`

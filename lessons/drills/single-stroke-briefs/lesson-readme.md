@@ -270,7 +270,7 @@
 * audit `AUTD`
 * aught `AUT`
 * augment `A*UPLT`
-* august `AUG`
+* august `A*UG`
 * aural `AURL`
 * auscultate `AUS`
 * authenticate `THAUBGT`
@@ -3011,7 +3011,7 @@
 * jay `SKWRAEU`
 * jazz `SKWRAZ`
 * jealous `SKWR*ELS`
-* jean `SKWRAUPB`
+* jean `SKWRAEPB`
 * jeep `SKWRAOEP`
 * jeer `SKWRAOER`
 * jeez `SKWRAOEZ`
@@ -3036,7 +3036,7 @@
 * joked `SKWROEBGD`
 * joking `SKWROEG`
 * jolt `SKWROLT`
-* josh `SKWRORB`
+* josh `SKWRAURB`
 * jostle `SKWROFL`
 * jot `SKWROT`
 * joule `SKWRAO*UL`
@@ -3612,7 +3612,7 @@
 * plonk `PHRO*PBG`
 * plop `PHROP`
 * plot `PHROT`
-* plover `PHROFR`
+* plover `PHRO*FR`
 * plow `PHROU`
 * ploy `PHRO*EU`
 * pluck `PHRUBG`
@@ -3785,7 +3785,7 @@
 * preservative `PREFRBT`
 * preserve `PREFRB`
 * preserved `PREFBD`
-* president `P*T`
+* president `PREZ`
 * pressure `PRERB`
 * pressured `PR*ERBD`
 * presume `PRAOUPL`
@@ -4655,7 +4655,7 @@
 * serene `SRAO*EPB`
 * serenity `SR*EPBT`
 * serf `S*EFR`
-* serge `SERG`
+* serge `SERPBLG`
 * sergeant `S-GT`
 * serial `SAO*ERL`
 * series `SAOERZ`
@@ -5366,7 +5366,7 @@
 * sternum `STERPL`
 * steroid `STRO*EUD`
 * stet `STET`
-* stew `ST*U`
+* stew `STAOU`
 * steward `STAOURD`
 * sticky `STO*EUBG`
 * stiff `STEUF`
@@ -5609,7 +5609,7 @@
 * swam `SWAPL`
 * swamp `SWAFRP`
 * swan `SWAPB`
-* swank `SWAPBG`
+* swank `SWA*PBG`
 * swap `SWAP`
 * swapped `SWAPD`
 * swapping `SWAPG`
@@ -5873,7 +5873,7 @@
 * thrill `THREUL`
 * thrive `THRAOEUF`
 * thriver `THRAO*EUFR`
-* thriving `THAOEUFG`
+* thriving `THRAOEUFG`
 * throat `THROET`
 * throb `THROB`
 * throbbed `THROBD`
@@ -6217,7 +6217,7 @@
 * universal `AOUFRL`
 * universalize `AOUFRLZ`
 * universe `AOUFRS`
-* university `*UFRT`
+* university `AOUFRT`
 * unless `TPH-LS`
 * unwilling `TPH-LG`
 * upgrade `UPGD`

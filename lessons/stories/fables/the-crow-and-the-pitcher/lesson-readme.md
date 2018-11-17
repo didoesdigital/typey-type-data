@@ -1,14 +1,14 @@
 # The Crow and the Pitcher
 
 * A `KPA/AEU`
-* Crow, `KROE KW-BG`
+* Crow, `KPA/KROE KW-BG`
 * half-dead `HAF H-PB TKED`
 * with `W`
 * thirst, `THEUFRT KW-BG`
 * came `KAEUPL`
 * upon `POPB`
 * a `AEU`
-* Pitcher `PEUFP/*ER`
+* Pitcher `KPA/PEUFP/*ER`
 * which `WEU`
 * had `H`
 * once `WUPBS`
@@ -19,7 +19,7 @@
 * but `PWUT`
 * when `WHEPB`
 * the `-T`
-* Crow `KROE`
+* Crow `KPA/KROE`
 * put `PUT`
 * its `EUTS`
 * beak `PWAOEBG`
@@ -47,20 +47,22 @@
 * get `TKPWET`
 * at `AT`
 * it. `T TP-PL`
+* He `KPA/HE`
 * tried, `TRAOEUD KW-BG`
 * last `HRAFT`
 * give `TKPWEUF`
 * up `UP`
 * despair. `TKE/SPAEUR TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * thought `THAUT`
 * him, `HEUPL KW-BG`
 * took `TAOBG`
 * pebble `PEBL`
 * dropped `TKROPD`
 * it `T`
-* Pitcher. `PEUFP/*ER TP-PL`
+* Pitcher. `KPA/PEUFP/*ER TP-PL`
 * another `TPHOER`
+* At `KPA/AT`
 * last, `HRAFT KW-BG`
 * saw `SAU`
 * mount `PHOUPBT`
@@ -76,6 +78,7 @@
 * thirst `THEUFRT`
 * save `SAF`
 * life. `HRAOEUF TP-PL`
+* Little `KPA/HREUL`
 * by `PWEU`
 * does `TKOS`
 * trick. `TREUBG TP-PL`

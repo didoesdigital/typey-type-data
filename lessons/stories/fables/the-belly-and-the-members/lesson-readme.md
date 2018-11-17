@@ -1,15 +1,15 @@
 # The Belly and the Members
 
-* One `WUPB`
+* One `KPA/WUPB`
 * fine `TPAOEUPB`
 * day `TKAEU`
 * it `T`
 * occurred `KROEURD`
 * to `TO`
 * the `-T`
-* Members `PHEPLS`
+* Members `KPA/PHEPLS`
 * of `-F`
-* Body `PWO*ED`
+* Body `KPA/PWO*ED`
 * that `THA`
 * they `THE`
 * were `WR`
@@ -17,11 +17,11 @@
 * all `AUL`
 * work `WORBG`
 * and `SKP`
-* Belly `PWEL/HREU`
+* Belly `KPA/PWEL/HREU`
 * was `WAS`
 * having `SR-G`
 * food. `TPAOD TP-PL`
-* So `SO`
+* So `KPA/SO`
 * held `HELD`
 * a `AEU`
 * meeting, `PHAOEGT KW-BG`
@@ -40,13 +40,13 @@
 * for `TPOR`
 * or `OR`
 * two, `TWO KW-BG`
-* Hands `HAPBDZ`
+* Hands `KPA/HAPBDZ`
 * refused `RAO*UFD`
 * food, `TPAOD KW-BG`
-* Mouth `PHO*UT`
+* Mouth `KPA/PHO*UT`
 * receive `SAOEF`
 * it, `T KW-BG`
-* Teeth `TAO*ET`
+* Teeth `KPA/TAO*ET`
 * had `H`
 * no `TPHO`
 * do. `TKO TP-PL`
@@ -66,7 +66,7 @@
 * parched `PAR/-FPD`
 * dry, `TKRAOEU KW-BG`
 * while `WHAOEUL`
-* Legs `HREGS`
+* Legs `KPA/HREGS`
 * unable `TPHA*EUBL`
 * support `SPOR`
 * rest. `REFT/TP-PL`
@@ -77,7 +77,7 @@
 * quiet `KWAO*EUT`
 * way `WAEU`
 * necessary `TPHES`
-* Body, `PWO*ED KW-BG`
+* Body, `KPA/PWO*ED KW-BG`
 * must `PHUFT`
 * together `TOGT`
 * will `HR`

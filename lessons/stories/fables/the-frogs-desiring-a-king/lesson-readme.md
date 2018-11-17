@@ -1,7 +1,7 @@
 # The Frogs Desiring a King
 
-* the `-T`
-* Frogs `TPROGS`
+* The `KPA/-T`
+* Frogs `KPA/TPROGS`
 * were `WR`
 * living `HREUFG`
 * as `AZ`
@@ -27,7 +27,7 @@
 * troubling `TRUBLG`
 * with `W`
 * them. `THEPL TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * some `SOPL`
 * of `-F`
 * them `THEPL`
@@ -38,7 +38,7 @@
 * right, `RAOEUT KW-BG`
 * should `SHO`
 * have `SR`
-* King `KEUPBG`
+* king `KEUPBG`
 * proper `PROR`
 * constitution, `TAOUGS KW-BG`
 * so `SO`
@@ -51,7 +51,7 @@
 * give `TKPWEUF`
 * what `WHA`
 * wanted. `WAPBTD TP-PL`
-* "Mighty `KR-GS PHAOEUT/KWREU`
+* "Mighty `KR-GS KPA/PHAOEUT/KWREU`
 * Jove," `SKWROEF KW-BG KR-GS`
 * cried, `KRAOEUD KW-BG`
 * "send `KR-GS SEPBD`
@@ -69,8 +69,9 @@
 * threw `THRAOU`
 * down `TKOUPB`
 * into `TPHAO`
+* the `-T`
 * huge `HAOUPBLG`
-* Log, `HROG KW-BG`
+* Log, `KPA/HROG KW-BG`
 * which `WEU`
 * came `KAEUPL`
 * swamp. `SWAFRP TP-PL`
@@ -87,6 +88,7 @@
 * look `HRAOBG`
 * horrible `HORBL`
 * monster; `PHOPB/STER STPH*FPLT`
+* but `PWUT`
 * after `AF`
 * time, `TAOEUPL KW-BG`
 * seeing `SAOEG`
@@ -105,12 +107,12 @@
 * it; `T STPH*FPLT`
 * still `STEUL`
 * move. `PHOF TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * greatest `TKPWRAET/EFT`
 * hero `HOEUR`
 * jumped `SKWR*UPLD`
 * upon `POPB`
-* Log `HROG`
+* Log `KPA/HROG`
 * commenced `KPHEPBS/-D`
 * dancing `TKAPBS/-G`
 * it, `T KW-BG`
@@ -125,6 +127,7 @@
 * slightest `SHRAOEUT/EFT`
 * notice `TPH-TS`
 * new `TPHU`
+* King `KO*EUPBG`
 * lying `HRAOEUG`
 * midst. `PHEUDZ TP-PL`
 * suit `SAOUT`
@@ -134,18 +137,18 @@
 * Jove, `SKWROEF KW-BG`
 * said `SAEUD`
 * him, `HEUPL KW-BG`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * want `WAPBT`
 * real `RAEL`
 * king; `KEUPBG STPH*FPLT`
 * really `R-L`
 * us." `US TP-PL KR-GS`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * angry, `APBG/REU KW-BG`
 * he `HE`
 * among `PHOPBG`
 * big `PWEUG`
-* Stork `STORBG`
+* Stork `KPA/STORBG`
 * soon `SAOPB`
 * set `SET`
 * work `WORBG`
@@ -155,7 +158,7 @@
 * when `WHEPB`
 * too `TAO`
 * late. `HRAEUT TP-PL`
-* Better `PWOERT`
+* Better `KPA/PWOERT`
 * no `TPHO`
 * than `THAPB`
 * cruel `KRAOUL`

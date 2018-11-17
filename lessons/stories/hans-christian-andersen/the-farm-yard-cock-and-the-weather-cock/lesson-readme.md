@@ -1,6 +1,6 @@
 # The Farm-Yard Cock and the Weather-Cock
 
-* there `THR`
+* There `KPA/THR`
 * were `WR`
 * two `TWO`
 * cocks—one `KOBG/-S EPL/TKA*RB WUPB`
@@ -9,7 +9,7 @@
 * dung-hill, `TKUPBG H-PB HEUL KW-BG`
 * other `OER`
 * roof. `RAOF TP-PL`
-* They `THE`
+* They `KPA/THE`
 * both `PWO*T`
 * arrogant, `AR/TKPWAPBT KW-BG`
 * but `PWUT`
@@ -18,7 +18,7 @@
 * rendered `REPBD/TKERD`
 * most `PHOFT`
 * service? `S-FS H-F`
-* Tell `TEL`
+* Tell `KPA/TEL`
 * us `US`
 * your `KWROUR`
 * opinion—we'll `P-PB EPL/TKA*RB WE AE HR*/HR*`
@@ -28,6 +28,7 @@
 * just `SKWRUFT`
 * same `SAEUPL`
 * though. `THOE TP-PL`
+* The `KPA/-T`
 * poultry `POL/TREU`
 * yard `KWRARD`
 * was `WAS`
@@ -38,6 +39,7 @@
 * from `TPR`
 * another `TPHOER`
 * in `TPH`
+* there `THR`
 * a `AEU`
 * and `SKP`
 * dung-hill `TKUPBG H-PB HEUL`
@@ -49,13 +51,13 @@
 * being `-BG`
 * hot-bed `HOT H-PB PWED`
 * plant. `PHRAPBT TP-PL`
-* "One `KR-GS WUPB`
+* "One `KR-GS KPA/WUPB`
 * is `S`
 * born `PWORPB`
 * that," `THA KW-BG KR-GS`
 * said `SAEUD`
 * itself. `T/SEF TP-PL`
-* "Not `KR-GS TPHOT`
+* "Not `KR-GS KPA/TPHOT`
 * all `AUL`
 * can `K`
 * be `-B`
@@ -69,7 +71,7 @@
 * next `TPHEGT`
 * are `R`
 * creatures `KRAOEFPS`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * I `EU`
 * have `SR`
 * great `TKPWRAET`
@@ -103,10 +105,10 @@
 * himself `H*EUPLS`
 * perspires `PER/SPAOEUR/-S`
 * verdigris. `SRERD/TKPWRAOE TP-PL`
-* no, `TPHO KW-BG`
+* No, `KPA/TPHO KW-BG`
 * really `R-L`
 * cock! `KOBG SKHRAPL`
-* his `HEUS`
+* His `KPA/HEUS`
 * step `STEP`
 * dance! `TKAPBS SKHRAPL`
 * crowing `KROE/-G`
@@ -118,10 +120,12 @@
 * what `WHA`
 * trumpeter `TRUPLT/*ER`
 * like! `HRAOEUBG SKHRAPL`
-* if `TP`
+* If `KPA/TP`
 * would `WO`
 * come `KOPL`
 * here! `HAOER SKHRAPL`
+* Even `KPA/AOEPB`
+* if `TP`
 * ate `AEUT`
 * me `PHE`
 * up `UP`
@@ -130,11 +134,13 @@
 * all, `AUL KW-BG`
 * had `H`
 * dissolve `TKEUS/OFL`
+* his `HEUS`
 * body, `PWO*ED KW-BG`
 * it `T`
 * happy `HAEP`
 * death," `TK*T KW-BG KR-GS`
 * cucumber. `KAOUBG/PWER TP-PL`
+* In `KPA/TPH`
 * night `TPHAOEUT`
 * terrible `TERBL`
 * storm. `STORPL TP-PL`
@@ -145,7 +151,7 @@
 * down `TKOUPB`
 * between `TWAOEPB`
 * yards `KWRARDZ`
-* With `W`
+* with `W`
 * crash; `KRARB STPH*FPLT`
 * tiles `TAOEULS`
 * came `KAEUPL`
@@ -153,6 +159,7 @@
 * down, `TKOUPB KW-BG`
 * sat `SAT`
 * firm. `TPEURPL TP-PL`
+* He `KPA/HE`
 * did `TK`
 * not `TPHOT`
 * turn `TURPB`
@@ -175,6 +182,7 @@
 * air—the `AEUR EPL/TKA*RB -T`
 * sparrows, `SPAEUR/ROE/-S KW-BG`
 * swallows; `SWAL/OES STPH*FPLT`
+* no, `TPHO KW-BG`
 * despised `STKPAOEUZ/-D`
 * them, `THEPL KW-BG`
 * these `THEZ`
@@ -194,6 +202,7 @@
 * looked `HRAOBGD`
 * kind `KEUPBD`
 * weather-cock; `WHR* H-PB KOBG STPH*FPLT`
+* they `THE`
 * fat `TPAT`
 * stupid, `STAOUPD KW-BG`
 * their `THAEUR`
@@ -225,6 +234,7 @@
 * hair `HAEUR`
 * stand `STAPBD`
 * end. `EPBD TP-PL`
+* All `KPA/AUL`
 * this `TH`
 * new `TPHU`
 * interesting; `TR-G STPH*FPLT`
@@ -246,11 +256,11 @@
 * associate, `SOERBT KW-BG`
 * stale `STAEUL`
 * small-minded. `SPHAL H-PB PHAOEUPBD/-D TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * world `WORLD`
 * good!" `TKPWAOD SKHRAPL KR-GS`
 * said. `SAEUD TP-PL`
-* "Everything `KR-GS EFG`
+* "Everything `KR-GS KPA/EFG`
 * stupid." `STAOUPD TP-PL KR-GS`
 * puffed `PUFD`
 * up, `UP KW-BG`
@@ -260,26 +270,28 @@
 * known `TPHOEPB`
 * it, `T KW-BG`
 * cock, `KOBG KW-BG`
+* now `TPHOU`
 * it. `T TP-PL`
 * blown `PWHROEPB`
 * planks, `PHRAPB/-BGS KW-BG`
 * storm `STORPL`
 * over. `OEFR TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * do `TKO`
 * you `U`
 * think `THEU`
 * crowing?" `KROE/-G H-F KR-GS`
 * chickens. `KHEU/KEPB/-S TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * rough—it `RUF EPL/TKA*RB T`
 * wanted `WAPBTD`
 * elegance." `EL/TKPWAPBS TP-PL KR-GS`
+* And `AFPBD`
 * chickens `KHEU/KEPB/-S`
 * strutted `STRUT/-D`
 * about `PW`
 * lord. `HRORD TP-PL`
-* "Garden `KR-GS TKPWA*RPB`
+* "Garden `KR-GS KPA/TKPWA*RPB`
 * plant!" `PHRAPBT SKHRAPL KR-GS`
 * cucumber, `KAOUBG/PWER KW-BG`
 * word `WORD`
@@ -304,8 +316,9 @@
 * chirped, `KHEURP/-D KW-BG`
 * proud `PROUD`
 * kind. `KEUPBD TP-PL`
-* "Cock-a-doodle-doo!" `KR-GS KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO SKHRAPL KR-GS`
+* "Cock-a-doodle-doo!" `KR-GS KPA/KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO SKHRAPL KR-GS`
 * crowed, `KROE/-D KW-BG`
+* "the `KR-GS -T`
 * will `HR`
 * grow `TKPWROE`
 * into `TPHAO`
@@ -326,6 +339,7 @@
 * egg? `EG H-F`
 * A `KPA/AEU`
 * basilisk. `xxx basilisk TP-PL`
+* No `KPA/TPHO`
 * sight `SAOEUT`
 * such `SUFP`
 * thing; `THEUPBG STPH*FPLT`
@@ -336,6 +350,7 @@
 * champion `KHAPL/KWROPB`
 * cocks `KOBG/-S`
 * am!" `APL SKHRAPL KR-GS`
+* With `KPA/W`
 * flapped `TPHRAPD`
 * wings, `WEUPBGS KW-BG`
 * comb `KOEPL`
@@ -362,8 +377,9 @@
 * so; `SO STPH*FPLT`
 * liked, `HRAOEUBGD KW-BG`
 * wind-egg. `WEUPBD H-PB EG TP-PL`
+* But `KPA/PWUT`
 * worth `WO*RT`
-* Everything `EFG`
+* Everything `KPA/EFG`
 * stupid! `STAOUPD SKHRAPL`
 * don't `TKOEPBT`
 * want `WAPBT`
@@ -377,7 +393,7 @@
 * although `HR*T`
 * intention. `SPWEPBGS TP-PL`
 * moral? `PHORL H-F`
-* "Better `KR-GS PWOERT`
+* "Better `KR-GS KPA/PWOERT`
 * crow `KROE`
 * break `PWRAEBG`
 * off!" `OF SKHRAPL KR-GS`

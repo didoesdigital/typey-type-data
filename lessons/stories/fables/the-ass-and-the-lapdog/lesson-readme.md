@@ -1,7 +1,7 @@
 # The Ass and the Lapdog
 
 * A `KPA/AEU`
-* Farmer `TPAR/PHER`
+* Farmer `KPA/TPAR/PHER`
 * one `WUPB`
 * day `TKAEU`
 * came `KAEUPL`
@@ -17,7 +17,7 @@
 * them `THEPL`
 * was `WAS`
 * favourite `TPAEUFRT/A*U`
-* Ass, `A*S KW-BG`
+* Ass, `KPA/A*S KW-BG`
 * that `THA`
 * always `AULS`
 * well `WEL`
@@ -26,7 +26,7 @@
 * often `OFPB`
 * carried `KAERD`
 * master. `PHAFRT TP-PL`
-* with `W`
+* With `KPA/W`
 * Lapdog, `KPA/HRAP/TK-LS/TKOG KW-BG`
 * who `WHO`
 * danced `TKAPBS/-D`
@@ -38,6 +38,7 @@
 * happy `HAEP`
 * could `KO`
 * be. `-B TP-PL`
+* The `KPA/-T`
 * felt `TPELT`
 * in `TPH`
 * pocket, `POBGT KW-BG`
@@ -74,16 +75,17 @@
 * not `TPHOT`
 * hold `HOLD`
 * sides `SAOEUDZ`
+* with `W`
 * laughter, `HRAFR KW-BG`
 * so `SO`
-* Ass `A*S`
+* Ass `KPA/A*S`
 * went `WEPBT`
 * up `UP`
 * him, `HEUPL KW-BG`
 * putting `PUGT`
 * feet `TPAOET`
 * upon `POPB`
-* Farmer's `TPAR/PHER AES`
+* Farmer's `KPA/TPAR/PHER AES`
 * shoulder `SHOURLD`
 * attempted `A/TEPL/-D`
 * climb `KHRAOEUPL`
@@ -95,7 +97,7 @@
 * soon `SAOPB`
 * taught `TAUT`
 * that: `THA STPH-FPLT`
-* Clumsy `KHRUPL/SEU`
+* Clumsy `KPA/KHRUPL/SEU`
 * jesting `SKWREFT/-G`
 * is `S`
 * no `TPHO`

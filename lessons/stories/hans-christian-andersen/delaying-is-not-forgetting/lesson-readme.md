@@ -1,8 +1,8 @@
 # Delaying Is Not Forgetting
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
-* An `APB`
+* an `APB`
 * old `OLD`
 * mansion `PHAPBGS`
 * surrounded `SROUBD/-D`
@@ -17,12 +17,12 @@
 * seldom `SELD/OPL`
 * let `HRET`
 * down:—not `TKOUPB STPH-FPLT EPL/TKA*RB TPHOT`
-* All `AUL`
+* all `AUL`
 * guests `TKPWEFTS`
 * are `R`
 * good `TKPWAOD`
 * people. `PAOEPL TP-PL`
-* under `*UPBD`
+* Under `KPA/*UPBD`
 * the `-T`
 * roof `RAOF`
 * were `WR`
@@ -44,7 +44,7 @@
 * should `SHO`
 * he `HE`
 * approach. `PROEFP TP-PL`
-* Inside `TPH-DZ`
+* Inside `KPA/TPH-DZ`
 * house `HOUS`
 * rooms `RAOPLS`
 * very `SRE`
@@ -59,7 +59,7 @@
 * great `TKPWRAET`
 * deal `TKAOEL`
 * smoke `SPHOEBG`
-* rose `ROEZ`
+* rose `ROES`
 * up `UP`
 * from `TPR`
 * chimney `KHEUPL/TPHEU`
@@ -70,11 +70,12 @@
 * logs `HROGS`
 * wood `WAOD`
 * smouldered. `SPHOLD/ERD/A*U TP-PL`
+* On `KPA/OPB`
 * walls `WAULS`
 * hung `HUPBG`
 * pictures `P*EUFPS`
 * knights `TPHAO*EUT/-S`
-* In `TPH`
+* in `TPH`
 * armour `AR/PHOUR`
 * proud `PROUD`
 * ladies `HRAEUDZ`
@@ -85,16 +86,17 @@
 * walked `WAUBGD`
 * about `PW`
 * alive. `A/HRAOEUF TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * called `KAULD`
-* Meta `PHE/TA`
+* Meta `KPA/PHE/TA`
 * Mogen; `xxx Mogen STPH*FPLT`
+* she `SHE`
 * mistress `PHEUS/TRES`
 * house, `HOUS KW-BG`
-* Her `HER`
+* her `HER`
 * belonged `PWHROPBGD`
 * castle. `KAFL TP-PL`
-* Towards `TORDZ`
+* Towards `KPA/TORDZ`
 * evening `AOEPBG`
 * robbers `RORBS`
 * came; `KAEUPL STPH*FPLT`
@@ -122,6 +124,7 @@
 * could `KO`
 * not `TPHOT`
 * bark. `PWARBG TP-PL`
+* But `KPA/PWUT`
 * lo! `HRO SKHRAPL`
 * servant `SEFRB/APBT`
 * one `WUPB`
@@ -153,6 +156,7 @@
 * ride `RAOEUD`
 * wooden `WAOD/EPB`
 * horse? `HORS H-F`
+* You `KPA/U`
 * prayed `PRAEUD`
 * for `TPOR`
 * him, `HEUPL KW-BG`
@@ -172,6 +176,7 @@
 * put `PUT`
 * little `HREUL`
 * stones `STOEPBS`
+* under `*UPBD`
 * each `AOEFP`
 * feet `TPAOET`
 * might `PHAOEUT`
@@ -183,6 +188,7 @@
 * young `KWRUPBG`
 * gracious `TKPWRAURBS`
 * mistress. `PHEUS/TRES TP-PL`
+* My `KPA/PHEU`
 * father `TPAER`
 * has `HAS`
 * told `TOLD`
@@ -190,9 +196,11 @@
 * this, `TH KW-BG`
 * forgotten `TPORGTD`
 * it! `T SKHRAPL`
+* Now `KPA/TPHOU`
 * will `HR`
 * free `TPRAOE`
 * Mogen!" `xxx Mogen SKHRAPL KR-GS`
+* Then `KPA/THEPB`
 * pulled `PULD`
 * horses `HORSZ`
 * stable `STABL`
@@ -203,7 +211,7 @@
 * obtain `OB/TAEUPB`
 * assistance `SEUFPBS`
 * friends. `TPREPBDZ TP-PL`
-* "Thus `KR-GS THUS`
+* "Thus `KR-GS KPA/THUS`
 * small `SPHAL`
 * service `S-FS`
 * done `TKOPB`
@@ -211,10 +219,11 @@
 * richly `REUFP/HREU`
 * rewarded!" `RE/WARD/-D SKHRAPL KR-GS`
 * Mogen. `xxx Mogen TP-PL`
-* "Delaying `KR-GS TKHRAEUG`
+* "Delaying `KR-GS KPA/TKHRAEUG`
 * is `S`
 * forgetting," `TPERGT/-G KW-BG KR-GS`
 * fellow. `TPO*EUL TP-PL`
+* The `KPA/-T`
 * hanged. `HAPBGD TP-PL`
 * mansion, `PHAPBGS KW-BG`
 * there; `THR STPH*FPLT`
@@ -224,7 +233,7 @@
 * another `TPHOER`
 * noble `TPHOEBL`
 * family. `TPAEPL TP-PL`
-* we `WE`
+* We `KPA/WE`
 * present `PREPBT`
 * time. `TAOEUPL TP-PL`
 * sun `SUPB`
@@ -243,6 +252,7 @@
 * swimming `SWEUPLG`
 * round `ROUPBD`
 * them. `THEPL TP-PL`
+* In `KPA/TPH`
 * garden `TKPWA*RPB`
 * grow `TKPWROE`
 * roses; `ROESZ STPH*FPLT`
@@ -259,14 +269,15 @@
 * heart, `HART KW-BG`
 * what `WHA`
 * preserved `PREFBD`
+* there `THR`
 * forgotten. `TPORGTD TP-PL`
-* Delaying `TKHRAEUG`
+* Delaying `KPA/TKHRAEUG`
 * forgetting! `TPERGT/-G SKHRAPL`
 * goes `TKPW-S`
 * peasant `PEFPBT`
 * hut `HUT`
 * field. `TPAOELD TP-PL`
-* Therein `THR-PB`
+* Therein `KPA/THR-PB`
 * lives `HREUFS`
 * poor `PAOR`
 * paralysed `PA*R/HRAOEUFD/A*U`
@@ -289,7 +300,7 @@
 * here—the `HAOER EPL/TKA*RB -T`
 * warm, `WARPL KW-BG`
 * beautiful `PWAOUFL`
-* God `TKPWOD`
+* God `TKPWO*D`
 * within `W-PB`
 * room; `RAOPL STPH*FPLT`
 * comes `KOPLS`
@@ -312,14 +323,16 @@
 * word `WORD`
 * kind `KEUPBD`
 * mansion. `PHAPBGS TP-PL`
-* "the `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * easy, `EZ KW-BG`
 * deed `TKAOED`
 * small," `SPHAL KW-BG KR-GS`
 * said, `SAEUD KW-BG`
+* "the `KR-GS -T`
 * afforded `A/TPORD/-D`
 * infinitely `EUPB/TPEUPBT/HREU`
 * sweet!" `SWAOET SKHRAPL KR-GS`
+* And `AFPBD`
 * therefore `TH-FR`
 * many `PHAEPB`
 * deed, `TKAOED KW-BG`
@@ -330,12 +343,14 @@
 * mansions, `PHAPBGS/-S KW-BG`
 * afflicted `A/TPHREUBGD`
 * ones. `WUPBZ TP-PL`
+* It `KPA/T`
 * concealed `KAUPB/SAOELD`
 * hidden, `HEUD/EPB KW-BG`
 * forget `TPERGT`
 * it. `T TP-PL`
-* Delayed `TKHRAEUD`
+* Delayed `KPA/TKHRAEUD`
 * forgotten! `TPORGTD SKHRAPL`
+* An `KPA/APB`
 * stood `STAOD`
 * large `HRARPBLG`
 * town `TOUPB`
@@ -343,7 +358,8 @@
 * busy `PW-Z`
 * traffic. `TRAFBG TP-PL`
 * halls `HAULS`
-* Do `TKO`
+* we `WE`
+* do `TKO`
 * them, `THEPL KW-BG`
 * remain `RE/PHAUPB`
 * kitchen, `K-FP KW-BG`
@@ -361,6 +377,7 @@
 * freshly `TPRERBL`
 * scoured `SKOUR/-D`
 * meatboard. `xxx meatboard TP-PL`
+* All `KPA/AUL`
 * this `TH`
 * done, `TKOPB KW-BG`
 * yet `KWRET`
@@ -383,6 +400,7 @@
 * relations `RELGS/-S`
 * sweetheart. `SWAOET/HART TP-PL`
 * girl. `TKPWEURL TP-PL`
+* One `KPA/WUPB`
 * day `TKAEU`
 * engaged `EPB/TKPWAEUBLG/-D`
 * fellow; `TPO*EUL STPH*FPLT`
@@ -391,7 +409,7 @@
 * dearly. `TKAERL TP-PL`
 * came `KAEUPL`
 * said: `SAEUD STPH-FPLT`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * both `PWO*T`
 * nothing! `TPHOG SKHRAPL`
 * widow `WO*EUD`
@@ -409,7 +427,7 @@
 * think `THEU`
 * turn `TURPB`
 * happiness," `HAEP/-PBS KW-BG KR-GS`
-* "Be `KR-GS -B`
+* "Be `KR-GS KPA/-B`
 * her, `HER KW-BG`
 * this; `TH STPH*FPLT`
 * hour `HOUR`
@@ -417,7 +435,7 @@
 * shall `SHAL`
 * never `TPHEF`
 * again." `TKPWEPB TP-PL KR-GS`
-* Years `KWRAOERS`
+* Years `KPA/KWRAOERS`
 * passed; `PAFD STPH*FPLT`
 * met `PHET`
 * friend `TPREPBD`
@@ -428,9 +446,9 @@
 * miserable, `PHEUZ/-BL KW-BG`
 * help `HEP`
 * asking `SK-G`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * you?" `U H-F KR-GS`
-* "Rich `KR-GS REUFP`
+* "Rich `KR-GS R*EUFP`
 * prospering `PROS/PERG`
 * every `EF`
 * respect," `R-PT KW-BG KR-GS`
@@ -446,7 +464,7 @@
 * again `TKPWEPB`
 * meet `PHAOET`
 * before `PW-F`
-* God!" `TKPWOD SKHRAPL KR-GS`
+* God!" `TKPWO*D SKHRAPL KR-GS`
 * A `KPA/AEU`
 * week `WAOEBG`
 * morning `PHORPBG`
@@ -455,6 +473,7 @@
 * reason `R-PB`
 * girl's `TKPWEURL/AES`
 * mourning! `PHOURPBG SKHRAPL`
+* Her `KPA/HER`
 * dead `TKED`
 * left `HREFT`
 * wife `WAOEUF`
@@ -472,11 +491,12 @@
 * higher `HAOEUR`
 * degree; `TKEG STPH*FPLT`
 * heart `HART`
-* These `THEZ`
+* These `KPA/THEZ`
 * stories `STOERS`
 * see, `SAOE KW-BG`
 * leaves `HREFS`
 * stalk. `STAUBG TP-PL`
+* Do `KPA/TKO`
 * wish `WEURB`
 * some `SOPL`
 * more `PHOR`

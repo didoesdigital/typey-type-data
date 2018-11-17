@@ -1,6 +1,6 @@
 # The Wicked Prince
 
-* there `THR`
+* There `KPA/THR`
 * lived `HREUFD`
 * once `WUPBS`
 * upon `POPB`
@@ -56,7 +56,7 @@
 * singed `SEUPB/-PBLGD`
 * black `PWHRABG`
 * trees. `TRAOES TP-PL`
-* many `PHAEPB`
+* Many `KPA/PHAEPB`
 * poor `PAOR`
 * mother `PHOER`
 * fled, `TPHRED KW-BG`
@@ -71,10 +71,11 @@
 * cottage; `KOT/APBLG STPH*FPLT`
 * but `PWUT`
 * also `HR-S`
+* there `THR`
 * followed `TPOLD`
 * her, `HER KW-BG`
 * when `WHEPB`
-* They `THE`
+* they `THE`
 * found `TPOUPBD`
 * she `SHE`
 * served `SEFRBD`
@@ -93,8 +94,9 @@
 * worse `WORS`
 * things `THEUPBGS`
 * than `THAPB`
-* These `THEZ`
+* these `THEZ`
 * soldiers! `SHRERPBLGS SKHRAPL`
+* The `KPA/-T`
 * was `WAS`
 * opinion `P-PB`
 * this `TH`
@@ -106,6 +108,7 @@
 * which `WEU`
 * ought `OT`
 * take. `TAEUBG TP-PL`
+* His `KPA/HEUS`
 * power `POUR`
 * increased `EUPB/KRAOEFD`
 * day `TKAEU`
@@ -116,6 +119,7 @@
 * fortune `TP-RPB`
 * favoured `TPAEUFRD/A*U`
 * deeds. `TKAOEDZ TP-PL`
+* He `KPA/HE`
 * brought `PWRAUT`
 * enormous `TPHO*RPLS`
 * wealth `W*ELT`
@@ -143,9 +147,10 @@
 * treasures `TR-RBS`
 * exclaimed `SKHRAEUPL/-D`
 * admiringly: `AD/PHAOEURG/HREU STPH-FPLT`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * mighty `PHAOEUT/KWREU`
 * prince!" `PREUPBS SKHRAPL KR-GS`
+* But `KPA/PWUT`
 * did `TK`
 * know `TPHOE`
 * what `WHA`
@@ -158,7 +163,7 @@
 * hear `HAER`
 * sighs `SAOEU/-S`
 * lamentations `HRAPLT/TAEUGS/-S`
-* rose `ROEZ`
+* rose `ROES`
 * debris `TKEB/REU`
 * cities. `STEUS TP-PL`
 * often `OFPB`
@@ -174,7 +179,7 @@
 * must `PHUFT`
 * more—much `PHOR EPL/TKA*RB PHUFP`
 * more. `PHOR TP-PL`
-* no `TPHO`
+* No `KPA/TPHO`
 * earth `*ERT`
 * equal `KWAL`
 * mine, `PHAOEUPB KW-BG`
@@ -196,6 +201,7 @@
 * through `THRU`
 * streets `STRAOETS`
 * city. `STEU TP-PL`
+* These `KPA/THEZ`
 * kneel `TPHAOEL`
 * at `AT`
 * courtiers' `KORT/KWRERS AE`
@@ -205,6 +211,7 @@
 * live `HREUF`
 * morsels `PHOR/SEL/-S`
 * left. `HREFT TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * own `OEPB`
 * statue `STOEUT`
@@ -222,11 +229,11 @@
 * opposed `PO*EFD`
 * him, `HEUPL KW-BG`
 * saying: `SAEUG STPH-FPLT`
-* "Prince, `KR-GS PREUPBS KW-BG`
+* "Prince, `KR-GS PR*EUPBS KW-BG`
 * you `U`
 * are `R`
 * indeed, `TPHAOEPBD KW-BG`
-* God's `TKPWOD AES`
+* God's `TKPWO*D AES`
 * is `S`
 * much `PHUFP`
 * greater `TKPWRAERT`
@@ -236,14 +243,15 @@
 * obey `O/PWAEU`
 * your `KWROUR`
 * orders." `ORDZ TP-PL KR-GS`
-* "Well," `KR-GS WEL KW-BG KR-GS`
+* "Well," `KR-GS KPA/WEL KW-BG KR-GS`
 * said `SAEUD`
 * prince. `PREUPBS TP-PL`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * will `HR`
 * conquer `KAUPB/KER`
-* God `TKPWOD`
+* God `TKPWO*D`
 * too." `TAO TP-PL KR-GS`
+* And `AFPBD`
 * haughtiness `HAUT/*EUPBS`
 * foolish `TPAOL/EURB`
 * presumption `PRUPGS`
@@ -255,6 +263,7 @@
 * gorgeously `TKPWORBS/HREU`
 * fitted `TPEUTD`
 * out `OUT`
+* many `PHAEPB`
 * colours; `KHROURS/A*U STPH*FPLT`
 * tail `TAEUL`
 * peacock, `PAE/KOBG KW-BG`
@@ -278,7 +287,7 @@
 * guns `TKPW-PBS`
 * loaded `HRAOD/-D`
 * again. `TKPWEPB TP-PL`
-* Hundreds `HUPBS`
+* Hundreds `KPA/HUPBS`
 * eagles `AOEG/-LS`
 * attached `A/TAFPD`
 * swiftness `xxx swiftness`
@@ -307,9 +316,10 @@
 * disappeared `TKEUS/PAOERD`
 * mist `PHEUFT`
 * clouds. `KHROUDZ TP-PL`
+* Higher `KPA/HAOEUR`
 * higher `HAOEUR`
 * into `TPHAO`
-* Then `THEPB`
+* then `THEPB`
 * sent `SEPBT`
 * one `WUPB`
 * numberless `xxx numberless`
@@ -323,6 +333,7 @@
 * fell `TPEL`
 * ordinary `OERD`
 * hailstones. `HAEUL/STOEPB/-S TP-PL`
+* One `KPA/WUPB`
 * drop `TKROP`
 * blood, `PWHRAOD KW-BG`
 * single `SEUPBLG`
@@ -380,7 +391,7 @@
 * tree `TRAOE`
 * wood. `WAOD TP-PL`
 * "I `KR-GS EU`
-* God!" `TKPWOD SKHRAPL KR-GS`
+* God!" `TKPWO*D SKHRAPL KR-GS`
 * sworn `SWORPB`
 * it: `T STPH-FPLT`
 * my `PHEU`
@@ -405,6 +416,7 @@
 * space `SPAEUS`
 * several `SEFRL`
 * miles. `PHAOEULS TP-PL`
+* They `KPA/THE`
 * entered `SPWR-D`
 * approaching `A/PROEFPG`
 * own, `OEPB KW-BG`
@@ -423,6 +435,7 @@
 * touched `TUFPD`
 * air `AEUR`
 * hit `HEUT`
+* Then `KPA/THEPB`
 * servants `SER/SRAPBTS`
 * bring `PWREU`
 * costly `KOFT/HREU`
@@ -432,6 +445,7 @@
 * them, `THEPL KW-BG`
 * gnats `TPHA*T/-S`
 * might `PHAOEUT`
+* no `TPHO`
 * longer `HRORPBG`
 * able `ABL`
 * reach `RAOEFP`
@@ -447,7 +461,7 @@
 * place `PHRAEUS`
 * poison `POEUGS`
 * blood. `PWHRAOD TP-PL`
-* mad `PHAD`
+* Mad `KPA/PHAD`
 * pain, `PAEUPB KW-BG`
 * tore `TO*R`
 * clothes `KHRO*ETS`
@@ -463,7 +477,8 @@
 * soldiers, `SHRERPBLGS KW-BG`
 * now `TPHOU`
 * mocked `PHOBG/-D`
+* mad `PHAD`
 * prince, `PREUPBS KW-BG`
-* God, `TKPWOD KW-BG`
+* God, `TKPWO*D KW-BG`
 * overcome `AUFR/KOPL`
 * gnat. `TPHA*T TP-PL`

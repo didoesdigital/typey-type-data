@@ -16,7 +16,7 @@ What the Old Man Does Is Always Right
 'a': AEU
 'little': HREUL
 'boy.': PWOEU TP-PL
-'Every': EF
+'Every': KPA/EF
 'time': TAOEUPL
 'I': EU
 'thought': THAUT
@@ -78,7 +78,7 @@ What the Old Man Does Is Always Right
 'wild': WAOEULD
 'upon': POPB
 'it.': T TP-PL
-'There': THR
+'There': KPA/THR
 'is': S
 'a': AEU
 'stork's': STORBG AES
@@ -96,7 +96,7 @@ What the Old Man Does Is Always Right
 'without': WOUT
 'the': -T
 'stork.': STORBG TP-PL
-'The': -T
+'The': KPA/-T
 'walls': WAULS
 'of': -F
 'the': -T
@@ -118,7 +118,7 @@ What the Old Man Does Is Always Right
 'made': PHAED
 'to': TO
 'open.': OEP TP-PL
-'The': -T
+'The': KPA/-T
 'baking-oven': PWAEUBG/-G H-PB OEFPB
 'sticks': STEUBGS
 'out': OUT
@@ -129,7 +129,7 @@ What the Old Man Does Is Always Right
 'a': AEU
 'great': TKPWRAET
 'knob.': TPHOB TP-PL
-'An': APB
+'An': KPA/APB
 'elder-tree': ELD/ER H-PB TRAOE
 'hangs': HAPBGS
 'over': OEFR
@@ -158,7 +158,7 @@ What the Old Man Does Is Always Right
 'are': R
 'disporting': xxx disporting
 'themselves.': TH*EPLS TP-PL
-'There': THR
+'There': KPA/THR
 'is': S
 'a': AEU
 'yard-dog': KWRARD H-PB TKOG
@@ -168,7 +168,7 @@ What the Old Man Does Is Always Right
 'at': AT
 'all': AUL
 'corners.': KRORPB/-S TP-PL
-'Just': SKWRUFT
+'Just': KPA/SKWRUFT
 'such': SUFP
 'a': AEU
 'farmhouse': TPARPL/HOUS
@@ -191,7 +191,7 @@ What the Old Man Does Is Always Right
 'and': SKP
 'his': HEUS
 'wife.': WAOEUF TP-PL
-'Small': SPHAL
+'Small': KPA/SPHAL
 'as': AZ
 'their': THAEUR
 'possessions': POE/SEGS/-S
@@ -227,7 +227,7 @@ What the Old Man Does Is Always Right
 'the': -T
 'high': HAOEU
 'road.': RAOD TP-PL
-'The': -T
+'The': KPA/-T
 'old': OLD
 'peasant': PEFPBT
 'rode': ROED
@@ -260,7 +260,7 @@ What the Old Man Does Is Always Right
 'the': -T
 'old': OLD
 'couple.': KUPL TP-PL
-'After': AF
+'After': KPA/AF
 'a': AEU
 'time': TAOEUPL
 'they': THE
@@ -286,13 +286,13 @@ What the Old Man Does Is Always Right
 'useful': AOUFL
 'to': TO
 'them.': THEPL TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'what': WHA
 'might': PHAOEUT
 'this': TH
 'something': S-G
 'be?': -B H-F
-'"You'll': KR-GS U AE HR*/HR*
+'"You'll': KR-GS KPA/U AE HR*/HR*
 'know': TPHOE
 'best,': PWEFT KW-BG
 'old': OLD
@@ -300,7 +300,7 @@ What the Old Man Does Is Always Right
 'said': SAEUD
 'the': -T
 'wife.': WAOEUF TP-PL
-'"It': KR-GS T
+'"It': KR-GS KPA/T
 'is': S
 'fair-day': TPAEUR H-PB TKAEU
 'to-day;': TO H-PB TKAEU STPH*FPLT
@@ -334,7 +334,7 @@ What the Old Man Does Is Always Right
 'to': TO
 'the': -T
 'fair."': TPAEUR TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'she': SHE
 'fastened': TPAS/-PBD
 'his': HEUS
@@ -362,7 +362,7 @@ What the Old Man Does Is Always Right
 'a': AEU
 'double': TKUBL
 'bow.': PWOE TP-PL
-'She': SHE
+'She': KPA/SHE
 'also': HR-S
 'smoothed': SPHAO*T/-D
 'his': HEUS
@@ -381,7 +381,7 @@ What the Old Man Does Is Always Right
 'him': HEUPL
 'a': AEU
 'kiss.': KEUS TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'rode': ROED
 'away': A/WAEU
@@ -398,7 +398,7 @@ What the Old Man Does Is Always Right
 'for': TPOR
 'something': S-G
 'else.': ELS TP-PL
-'Yes,': KWRE KW-BG
+'Yes,': KPA/KWRE KW-BG
 'the': -T
 'old': OLD
 'man': PHAPB
@@ -407,7 +407,7 @@ What the Old Man Does Is Always Right
 'he': HE
 'was': WAS
 'about.': PW TP-PL
-'The': -T
+'The': KPA/-T
 'sun': SUPB
 'shone': SHO*EPB
 'with': W
@@ -424,7 +424,7 @@ What the Old Man Does Is Always Right
 'in': TPH
 'the': -T
 'sky.': SKAOEU TP-PL
-'The': -T
+'The': KPA/-T
 'road': RAOD
 'was': WAS
 'very': SRE
@@ -446,7 +446,7 @@ What the Old Man Does Is Always Right
 'walking': WAUG
 'upon': POPB
 'it.': T TP-PL
-'There': THR
+'There': KPA/THR
 'was': WAS
 'no': TPHO
 'shelter': SHELT
@@ -455,7 +455,7 @@ What the Old Man Does Is Always Right
 'the': -T
 'hot': HOT
 'sunshine.': SUPB/SHAO*EUPB TP-PL
-'Among': PHOPBG
+'Among': KPA/PHOPBG
 'the': -T
 'rest': REFT
 'a': AEU
@@ -470,7 +470,7 @@ What the Old Man Does Is Always Right
 'to': TO
 'the': -T
 'fair.': TPAEUR TP-PL
-'The': -T
+'The': KPA/-T
 'cow': KO*U
 'was': WAS
 'as': AZ
@@ -482,7 +482,7 @@ What the Old Man Does Is Always Right
 'cow': KO*U
 'could': KO
 'be.': -B TP-PL
-'"She': KR-GS SHE
+'"She': KR-GS KPA/SHE
 'gives': TKPWEUFS
 'good': TKPWAOD
 'milk,': PHEULG KW-BG
@@ -494,7 +494,7 @@ What the Old Man Does Is Always Right
 'peasant': PEFPBT
 'to': TO
 'himself.': H*EUPLS TP-PL
-'"That': KR-GS THA
+'"That': KR-GS KPA/THA
 'would': WO
 'be': -B
 'a': AEU
@@ -549,7 +549,7 @@ What the Old Man Does Is Always Right
 'like,': HRAOEUBG KW-BG
 'we'll': WAOEL
 'exchange."': KPAEUPBG TP-PL KR-GS
-'"To': KR-GS TO
+'"To': KR-GS KPA/TO
 'be': -B
 'sure': SHUR
 'I': EU
@@ -557,7 +557,7 @@ What the Old Man Does Is Always Right
 'said': SAEUD
 'the': -T
 'man.': PHAPB TP-PL
-'Accordingly': A/KORD/-G/HREU
+'Accordingly': KPA/A/KORD/TKPWHREU
 'the': -T
 'exchange': KPAEUPBG
 'was': WAS
@@ -584,7 +584,7 @@ What the Old Man Does Is Always Right
 'came': KAEUPL
 'to': TO
 'do.': TKO TP-PL
-'But,': PWUT KW-BG
+'But,': KPA/PWUT KW-BG
 'having': SR-G
 'made': PHAED
 'up': UP
@@ -618,7 +618,7 @@ What the Old Man Does Is Always Right
 'with': W
 'his': HEUS
 'cow.': KO*U TP-PL
-'Leading': HRAEGD
+'Leading': KPA/HRAEGD
 'the': -T
 'animal,': PHAPBL KW-BG
 'he': HE
@@ -638,7 +638,7 @@ What the Old Man Does Is Always Right
 'driving': TKRAOFG
 'a': AEU
 'sheep.': SHAOEP TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'a': AEU
 'good': TKPWAOD
@@ -663,7 +663,7 @@ What the Old Man Does Is Always Right
 'peasant': PEFPBT
 'to': TO
 'himself.': H*EUPLS TP-PL
-'"There': KR-GS THR
+'"There': KR-GS KPA/THR
 'is': S
 'plenty': PHREPBT
 'of': -F
@@ -686,7 +686,7 @@ What the Old Man Does Is Always Right
 'room': RAOPL
 'with': W
 'us.': US TP-PL
-'Perhaps': PRAPS
+'Perhaps': KPA/PRAPS
 'it': T
 'would': WO
 'be': -B
@@ -699,10 +699,10 @@ What the Old Man Does Is Always Right
 'than': THAPB
 'a': AEU
 'cow.': KO*U TP-PL
-'Shall': SHAL
+'Shall': KPA/SHAL
 'I': EU
 'exchange?"': KPAEUPBG H-F KR-GS
-'The': -T
+'The': KPA/-T
 'man': PHAPB
 'with': W
 'the': -T
@@ -716,7 +716,7 @@ What the Old Man Does Is Always Right
 'was': WAS
 'quickly': KWEULG
 'made.': PHAED TP-PL
-'And': SKP
+'And': AFPBD
 'then': THEPB
 'our': OUR
 'peasant': PEFPBT
@@ -729,7 +729,7 @@ What the Old Man Does Is Always Right
 'with': W
 'his': HEUS
 'sheep.': SHAOEP TP-PL
-'Soon': SAOPB
+'Soon': KPA/SAOPB
 'after': AF
 'this,': TH KW-BG
 'he': HE
@@ -754,7 +754,7 @@ What the Old Man Does Is Always Right
 'under': *UPBD
 'his': HEUS
 'arm.': ARPL TP-PL
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'a': AEU
 'heavy': HOEUF
 'creature': KRAOEFP
@@ -789,7 +789,7 @@ What the Old Man Does Is Always Right
 'at': AT
 'our': OUR
 'place.': PHRAEUS TP-PL
-'That': THA
+'That': KPA/THA
 'would': WO
 'be': -B
 'very': SRE
@@ -808,19 +808,19 @@ What the Old Man Does Is Always Right
 'out': OUT
 'of': -F
 'it.': T TP-PL
-'How': HOU
+'How': KPA/HOU
 'often': OFPB
 'she': SHE
 'has': HAS
 'said,': SAEUD KW-BG
-''If': AE TP
+''If': AE KPA/TP
 'now': TPHOU
 'we': WE
 'only': OEPBL
 'had': H
 'a': AEU
 'goose!'': TKPWAOS SKHRAPL AE
-'Now': TPHOU
+'Now': KPA/TPHOU
 'here': HAOER
 'is': S
 'an': APB
@@ -834,7 +834,7 @@ What the Old Man Does Is Always Right
 'it': T
 'for': TPOR
 'her.': HER TP-PL
-'Shall': SHAL
+'Shall': KPA/SHAL
 'we': WE
 'exchange?': KPAEUPBG H-F
 'I': EU
@@ -851,7 +851,7 @@ What the Old Man Does Is Always Right
 'into': TPHAO
 'the': -T
 'bargain."': PWARG/AEUPB TP-PL KR-GS
-'The': -T
+'The': KPA/-T
 'other': OER
 'had': H
 'not': TPHOT
@@ -872,7 +872,7 @@ What the Old Man Does Is Always Right
 'of': -F
 'the': -T
 'goose.': TKPWAOS TP-PL
-'By': PWEU
+'By': KPA/PWEU
 'this': TH
 'time': TAOEUPL
 'he': HE
@@ -882,7 +882,7 @@ What the Old Man Does Is Always Right
 'near': TPHAOER
 'the': -T
 'town.': TOUPB TP-PL
-'The': -T
+'The': KPA/-T
 'crowd': KROUD
 'on': OPB
 'the': -T
@@ -902,7 +902,7 @@ What the Old Man Does Is Always Right
 'men': PHEPB
 'and': SKP
 'cattle.': KA*LT TP-PL
-'The': -T
+'The': KPA/-T
 'cattle': KA*LT
 'walked': WAUBGD
 'on': OPB
@@ -951,7 +951,7 @@ What the Old Man Does Is Always Right
 'and': SKP
 'get': TKPWET
 'lost.': HRO*S TP-PL
-'The': -T
+'The': KPA/-T
 'tail-feathers': TAEUL H-PB TP*ET/ERS
 'of': -F
 'the': -T
@@ -973,9 +973,9 @@ What the Old Man Does Is Always Right
 'as': AZ
 'it': T
 'said': SAEUD
-'"Cluck,': KR-GS KHRUBG KW-BG
+'"Cluck,': KR-GS KPA/KHRUBG KW-BG
 'cluck."': KHRUBG TP-PL KR-GS
-'What': WHA
+'What': KPA/WHA
 'were': WR
 'the': -T
 'thoughts': THAUTS
@@ -999,7 +999,7 @@ What the Old Man Does Is Always Right
 'it,': T KW-BG
 'he': HE
 'thought,': THAUT KW-BG
-'"Why': KR-GS KWR
+'"Why': KR-GS KPA/KWR
 'that's': THATS
 'the': -T
 'finest': TPAOEUPB/EFT
@@ -1027,7 +1027,7 @@ What the Old Man Does Is Always Right
 'have': SR
 'that': THA
 'fowl.': TPO*UL TP-PL
-'Fowls': TPO*UL/-S
+'Fowls': xxx Fowls
 'can': K
 'always': AULS
 'pick': PEUBG
@@ -1058,14 +1058,14 @@ What the Old Man Does Is Always Right
 'for': TPOR
 'my': PHEU
 'goose.': TKPWAOS TP-PL
-'Shall': SHAL
+'Shall': KPA/SHAL
 'we': WE
 'exchange?"': KPAEUPBG H-F KR-GS
 'he': HE
 'asked': SK-D
 'the': -T
 'toll-keeper.': TOL H-PB KAOEP/*ER TP-PL
-'"Exchange,"': KR-GS KPAEUPBG KW-BG KR-GS
+'"Exchange,"': KR-GS KPA/KPAEUPBG KW-BG KR-GS
 'repeated': RE/PAOETD
 'the': -T
 'man;': PHAPB STPH*FPLT
@@ -1077,7 +1077,7 @@ What the Old Man Does Is Always Right
 'a': AEU
 'bad': PWAD
 'thing."': THEUPBG TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'so': SO
 'they': THE
 'made': PHAED
@@ -1097,7 +1097,7 @@ What the Old Man Does Is Always Right
 'off': OF
 'the': -T
 'fowl.': TPO*UL TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'he': HE
 'had': H
 'really': R-L
@@ -1119,7 +1119,7 @@ What the Old Man Does Is Always Right
 'hot': HOT
 'and': SKP
 'tired.': TAOEURD TP-PL
-'He': HE
+'He': KPA/HE
 'wanted': WAPBTD
 'something': S-G
 'to': TO
@@ -1140,7 +1140,7 @@ What the Old Man Does Is Always Right
 'to': TO
 'an': APB
 'inn.': TPH*PB TP-PL
-'He': HE
+'He': KPA/HE
 'was': WAS
 'just': SKWRUFT
 'about': PW
@@ -1157,13 +1157,13 @@ What the Old Man Does Is Always Right
 'at': AT
 'the': -T
 'door.': TKAOR TP-PL
-'The': -T
+'The': KPA/-T
 'ostler': xxx ostler
 'was': WAS
 'carrying': KAERG
 'a': AEU
 'sack.': SABG TP-PL
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'have': SR
 'you': U
 'in': TPH
@@ -1172,7 +1172,7 @@ What the Old Man Does Is Always Right
 'asked': SK-D
 'the': -T
 'peasant.': PEFPBT TP-PL
-'"Rotten': KR-GS ROT/EPB
+'"Rotten': KR-GS KPA/ROT/EPB
 'apples,"': APLS KW-BG KR-GS
 'answered': AEPBS/-D
 'the': -T
@@ -1182,7 +1182,7 @@ What the Old Man Does Is Always Right
 'sackful': SABG/-FL
 'of': -F
 'them.': THEPL TP-PL
-'They': THE
+'They': KPA/THE
 'will': HR
 'do': TKO
 'to': TO
@@ -1190,7 +1190,7 @@ What the Old Man Does Is Always Right
 'the': -T
 'pigs': PAO*EGS
 'with."': W TP-PL KR-GS
-'"Why': KR-GS KWR
+'"Why': KR-GS KPA/KWR
 'that': THA
 'will': HR
 'be': -B
@@ -1209,7 +1209,7 @@ What the Old Man Does Is Always Right
 'my': PHEU
 'old': OLD
 'woman.': WOPL TP-PL
-'Last': HRAFT
+'Last': KPA/HRAFT
 'year': KWRAOER
 'the': -T
 'old': OLD
@@ -1235,7 +1235,7 @@ What the Old Man Does Is Always Right
 'withered': WEU/THER/-D
 'and': SKP
 'rotten.': ROT/EPB TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'always': AULS
 'property,': PROT KW-BG
@@ -1263,7 +1263,7 @@ What the Old Man Does Is Always Right
 'them': THEPL
 'to': TO
 'her."': HER TP-PL KR-GS
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'will': HR
 'you': U
 'give': TKPWEUF
@@ -1274,11 +1274,11 @@ What the Old Man Does Is Always Right
 'asked': SK-D
 'the': -T
 'ostler.': xxx ostler TP-PL
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'will': HR
 'I': EU
 'give?': TKPWEUF H-F
-'Well,': WEL KW-BG
+'Well,': KPA/WEL KW-BG
 'I': EU
 'will': HR
 'give': TKPWEUF
@@ -1287,7 +1287,7 @@ What the Old Man Does Is Always Right
 'fowl': TPO*UL
 'in': TPH
 'exchange."': KPAEUPBG TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'he': HE
 'gave': TKPWAEUF
 'up': UP
@@ -1304,7 +1304,7 @@ What the Old Man Does Is Always Right
 'the': -T
 'inn': TPH*PB
 'parlor.': PAR/HROR TP-PL
-'He': HE
+'He': KPA/HE
 'leaned': HRAOEPBD
 'the': -T
 'sack': SABG
@@ -1318,7 +1318,7 @@ What the Old Man Does Is Always Right
 'to': TO
 'the': -T
 'table.': TAEUBL TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'stove': STOF
 'was': WAS
@@ -1330,7 +1330,7 @@ What the Old Man Does Is Always Right
 'thought': THAUT
 'of': -F
 'that.': THA TP-PL
-'Many': PHAEPB
+'Many': KPA/PHAEPB
 'guests': TKPWEFTS
 'were': WR
 'present—horse': PREPBT EPL/TKA*RB HORS
@@ -1340,7 +1340,7 @@ What the Old Man Does Is Always Right
 'and': SKP
 'two': TWO
 'Englishmen.': EPBG/HREURB/PHEPB TP-PL
-'The': -T
+'The': KPA/-T
 'Englishmen': EPBG/HREURB/PHEPB
 'were': WR
 'so': SO
@@ -1365,33 +1365,33 @@ What the Old Man Does Is Always Right
 'you': U
 'shall': SHAL
 'hear.': HAER TP-PL
-'"Hiss-s-s,': KR-GS HEUSZ H-PB S* H-PB S* KW-BG
+'"Hiss-s-s,': KR-GS KPA/HEUSZ H-PB S* H-PB S* KW-BG
 'hiss-s-s."': HEUSZ H-PB S* H-PB S* TP-PL KR-GS
-'What': WHA
+'What': KPA/WHA
 'could': KO
 'that': THA
 'be': -B
 'by': PWEU
 'the': -T
 'stove?': STOF H-F
-'The': -T
+'The': KPA/-T
 'apples': APLS
 'were': WR
 'beginning': TKPWEUPB/-G
 'to': TO
 'roast.': ROEFT TP-PL
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'is': S
 'that?"': THA H-F KR-GS
 'asked': SK-D
 'one.': WUPB TP-PL
-'"Why,': KR-GS KWR KW-BG
+'"Why,': KR-GS KPA/KWR KW-BG
 'do': TKO
 'you': U
 'know"—said': TPHOE KR-GS EPL/TKA*RB SAEUD
 'our': OUR
 'peasant.': PEFPBT TP-PL
-'And': SKP
+'And': AFPBD
 'then': THEPB
 'he': HE
 'told': TOLD
@@ -1419,7 +1419,7 @@ What the Old Man Does Is Always Right
 'to': TO
 'the': -T
 'apples.': APLS TP-PL
-'"Well,': KR-GS WEL KW-BG
+'"Well,': KR-GS KPA/WEL KW-BG
 'your': KWROUR
 'old': OLD
 'woman': WOPL
@@ -1437,19 +1437,19 @@ What the Old Man Does Is Always Right
 'of': -F
 'the': -T
 'Englishmen.': EPBG/HREURB/PHEPB TP-PL
-'"Won't': KR-GS WOPB AE T*
+'"Won't': KR-GS KPA/WOPB AE T*
 'there': THR
 'be': -B
 'a': AEU
 'noise?"': TPHOEUS H-F KR-GS
-'"What!': KR-GS WHA SKHRAPL
-'Give': TKPWEUF
+'"What!': KR-GS KPA/WHA SKHRAPL
+'Give': KPA/TKPWEUF
 'me': PHE
 'what?"': WHA H-F KR-GS
 'said': SAEUD
 'the': -T
 'peasant.': PEFPBT TP-PL
-'"Why,': KR-GS KWR KW-BG
+'"Why,': KR-GS KPA/KWR KW-BG
 'she': SHE
 'will': HR
 'kiss': KEUS
@@ -1464,7 +1464,7 @@ What the Old Man Does Is Always Right
 'is': S
 'always': AULS
 'right.'"': RAOEUT TP-PL AE KR-GS
-'"Let': KR-GS HRET
+'"Let': KR-GS KPA/HRET
 'us': US
 'lay': HRAEU
 'a': AEU
@@ -1474,7 +1474,7 @@ What the Old Man Does Is Always Right
 'said': SAEUD
 'the': -T
 'Englishmen.': EPBG/HREURB/PHEPB TP-PL
-'"We'll': KR-GS WE AE HR*/HR*
+'"We'll': KR-GS KPA/WE AE HR*/HR*
 'wager': WAEUPBLG/ER
 'you': U
 'a': AEU
@@ -1488,7 +1488,7 @@ What the Old Man Does Is Always Right
 'to': TO
 'the': -T
 'hundred-weight."': HUPBD H-PB WAET TP-PL KR-GS
-'"No;': KR-GS TPHO STPH*FPLT
+'"No;': KR-GS KPA/TPHO STPH*FPLT
 'a': AEU
 'bushel': PWURB/EL
 'will': HR
@@ -1526,7 +1526,7 @@ What the Old Man Does Is Always Right
 'measure,': PH*ERB KW-BG
 'I': EU
 'fancy."': TPAPB/SEU TP-PL KR-GS
-'"Done!': KR-GS TKOPB SKHRAPL
+'"Done!': KR-GS KPA/TKOPB SKHRAPL
 'taken!"': TAEPB SKHRAPL KR-GS
 'and': SKP
 'so': SO
@@ -1534,7 +1534,7 @@ What the Old Man Does Is Always Right
 'bet': PWET
 'was': WAS
 'made.': PHAED TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'landlord's': HR-LD AES
 'coach': KOEFP
@@ -1564,11 +1564,11 @@ What the Old Man Does Is Always Right
 'the': -T
 'peasant's': PEFPBT AES
 'hut.': HUT TP-PL
-'"Good': KR-GS TKPWAOD
+'"Good': KR-GS KPA/TKPWAOD
 'evening,': AOEPBG KW-BG
 'old': OLD
 'woman."': WOPL TP-PL KR-GS
-'"Good': KR-GS TKPWAOD
+'"Good': KR-GS KPA/TKPWAOD
 'evening,': AOEPBG KW-BG
 'old': OLD
 'man."': PHAPB TP-PL KR-GS
@@ -1576,7 +1576,7 @@ What the Old Man Does Is Always Right
 'made': PHAED
 'the': -T
 'exchange."': KPAEUPBG TP-PL KR-GS
-'"Ah,': KR-GS HA*E KW-BG
+'"Ah,': KR-GS KPA/HA*E KW-BG
 'well,': WEL KW-BG
 'you': U
 'understand': URPBD
@@ -1586,7 +1586,7 @@ What the Old Man Does Is Always Right
 'said': SAEUD
 'the': -T
 'woman.': WOPL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'she': SHE
 'embraced': EPL/PWRAEUFD
 'him,': HEUPL KW-BG
@@ -1612,11 +1612,11 @@ What the Old Man Does Is Always Right
 'for': TPOR
 'the': -T
 'horse."': HORS TP-PL KR-GS
-'"Thank': KR-GS THAPBG
-'Heaven,"': HEFPB KW-BG KR-GS
+'"Thank': KR-GS KPA/THAPBG
+'Heaven,"': KPA/HEFPB KW-BG KR-GS
 'said': SAEUD
 'she.': SHE TP-PL
-'"Now': KR-GS TPHOU
+'"Now': KR-GS KPA/TPHOU
 'we': WE
 'shall': SHAL
 'have': SR
@@ -1630,12 +1630,12 @@ What the Old Man Does Is Always Right
 'on': OPB
 'the': -T
 'table.': TAEUBL TP-PL
-'That': THA
+'That': KPA/THA
 'was': WAS
 'a': AEU
 'capital': KAPLT
 'exchange."': KPAEUPBG TP-PL KR-GS
-'"Yes,': KR-GS KWRE KW-BG
+'"Yes,': KR-GS KPA/KWRE KW-BG
 'but': PWUT
 'I': EU
 'changed': KHAEUPBGD
@@ -1644,13 +1644,13 @@ What the Old Man Does Is Always Right
 'for': TPOR
 'a': AEU
 'sheep."': SHAOEP TP-PL KR-GS
-'"Ah,': KR-GS HA*E KW-BG
+'"Ah,': KR-GS KPA/HA*E KW-BG
 'better': PWOERT
 'still!"': STEUL SKHRAPL KR-GS
 'cried': KRAOEUD
 'the': -T
 'wife.': WAOEUF TP-PL
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'always': AULS
 'think': THEU
 'of': -F
@@ -1663,7 +1663,7 @@ What the Old Man Does Is Always Right
 'for': TPOR
 'a': AEU
 'sheep.': SHAOEP TP-PL
-'Ewe's': AO*U AES
+'Ewe's': KPA/AO*U AES
 'milk': PHEULG
 'and': SKP
 'cheese,': KHAOES KW-BG
@@ -1671,7 +1671,7 @@ What the Old Man Does Is Always Right
 'jackets': SKWRABGTS
 'and': SKP
 'stockings!': STOBG/-G/-S SKHRAPL
-'The': -T
+'The': KPA/-T
 'cow': KO*U
 'could': KO
 'not': TPHOT
@@ -1684,12 +1684,12 @@ What the Old Man Does Is Always Right
 'only': OEPBL
 'falls': TPAULZ
 'off.': OF TP-PL
-'How': HOU
+'How': KPA/HOU
 'you': U
 'think': THEU
 'of': -F
 'everything!"': EFG SKHRAPL KR-GS
-'"But': KR-GS PWUT
+'"But': KR-GS KPA/PWUT
 'I': EU
 'changed': KHAEUPBGD
 'away': A/WAEU
@@ -1698,7 +1698,7 @@ What the Old Man Does Is Always Right
 'for': TPOR
 'a': AEU
 'goose."': TKPWAOS TP-PL KR-GS
-'"Then': KR-GS THEPB
+'"Then': KR-GS KPA/THEPB
 'we': WE
 'shall': SHAL
 'have': SR
@@ -1708,7 +1708,7 @@ What the Old Man Does Is Always Right
 'eat': AOET
 'this': TH
 'year.': KWRAOER TP-PL
-'You': U
+'You': KPA/U
 'dear': TKAER
 'old': OLD
 'man,': PHAPB KW-BG
@@ -1721,10 +1721,10 @@ What the Old Man Does Is Always Right
 'to': TO
 'please': PHRES
 'me.': PHE TP-PL
-'This': TH
+'This': KPA/TH
 'is': S
 'delightful.': TKHRAOEUT/-FL TP-PL
-'We': WE
+'We': KPA/WE
 'can': K
 'let': HRET
 'the': -T
@@ -1748,7 +1748,7 @@ What the Old Man Does Is Always Right
 'we': WE
 'roast': ROEFT
 'her."': HER TP-PL KR-GS
-'"But': KR-GS PWUT
+'"But': KR-GS KPA/PWUT
 'I': EU
 'gave': TKPWAEUF
 'away': A/WAEU
@@ -1759,7 +1759,7 @@ What the Old Man Does Is Always Right
 'fowl."': TPO*UL TP-PL KR-GS
 '"A': KR-GS KPA/AEU
 'fowl!': TPO*UL SKHRAPL
-'Well,': WEL KW-BG
+'Well,': KPA/WEL KW-BG
 'that': THA
 'was': WAS
 'a': AEU
@@ -1768,7 +1768,7 @@ What the Old Man Does Is Always Right
 'replied': RE/PHRAOEUD
 'the': -T
 'woman.': WOPL TP-PL
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'fowl': TPO*UL
 'will': HR
 'lay': HRAEU
@@ -1787,7 +1787,7 @@ What the Old Man Does Is Always Right
 'have': SR
 'a': AEU
 'poultry-yard.': POL/TREU H-PB KWRARD TP-PL
-'Oh,': O*E KW-BG
+'Oh,': KPA/O*E KW-BG
 'this': TH
 'is': S
 'just': SKWRUFT
@@ -1796,7 +1796,7 @@ What the Old Man Does Is Always Right
 'was': WAS
 'wishing': WEURBG
 'for."': TPOR TP-PL KR-GS
-'"Yes,': KR-GS KWRE KW-BG
+'"Yes,': KR-GS KPA/KWRE KW-BG
 'but': PWUT
 'I': EU
 'exchanged': KPAEUPBG/-D
@@ -1808,7 +1808,7 @@ What the Old Man Does Is Always Right
 'of': -F
 'shrivelled': SHR*EUFLD/A*U
 'apples."': APLS TP-PL KR-GS
-'"What!': KR-GS WHA SKHRAPL
+'"What!': KR-GS KPA/WHA SKHRAPL
 'I': EU
 'really': R-L
 'must': PHUFT
@@ -1821,7 +1821,7 @@ What the Old Man Does Is Always Right
 'exclaimed': SKHRAEUPL/-D
 'the': -T
 'wife.': WAOEUF TP-PL
-'"My': KR-GS PHEU
+'"My': KR-GS KPA/PHEU
 'dear,': TKAER KW-BG
 'good': TKPWAOD
 'husband,': HUS KW-BG
@@ -1830,7 +1830,7 @@ What the Old Man Does Is Always Right
 'tell': TEL
 'you': U
 'something.': S-G TP-PL
-'Do': TKO
+'Do': KPA/TKO
 'you': U
 'know,': TPHOE KW-BG
 'almost': HR-PL
@@ -1915,7 +1915,7 @@ What the Old Man Does Is Always Right
 'handful': HAPBD/-FL
 'of': -F
 'herbs.': HERBS TP-PL
-''Lend!'': AE HREPBD SKHRAPL AE
+''Lend!'': AE KPA/HREPBD SKHRAPL AE
 'she': SHE
 'exclaimed,': SKHRAEUPL/-D KW-BG
 ''I': AE EU
@@ -1947,7 +1947,7 @@ What the Old Man Does Is Always Right
 'my': PHEU
 'dear': TKAER
 'woman.': WOPL TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'now': TPHOU
 'I': EU
 'can': K
@@ -1979,7 +1979,7 @@ What the Old Man Does Is Always Right
 'a': AEU
 'hearty': HAR/TEU
 'kiss.': KEUS TP-PL
-'"Well,': KR-GS WEL KW-BG
+'"Well,': KR-GS KPA/WEL KW-BG
 'I': EU
 'like': HRAOEUBG
 'all': AUL
@@ -2004,7 +2004,7 @@ What the Old Man Does Is Always Right
 'to': TO
 'see': SAOE
 'it."': T TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'they': THE
 'paid': PAEUD
 'a': AEU
@@ -2023,7 +2023,7 @@ What the Old Man Does Is Always Right
 'scolded': SKOLD/-D
 'but': PWUT
 'kissed.': K*EUFD TP-PL
-'Yes,': KWRE KW-BG
+'Yes,': KPA/KWRE KW-BG
 'it': T
 'always': AULS
 'pays': PAEUZ
@@ -2045,7 +2045,7 @@ What the Old Man Does Is Always Right
 'does': TKOS
 'is': S
 'right.': RAOEUT TP-PL
-'That': THA
+'That': KPA/THA
 'is': S
 'a': AEU
 'story': STOER
@@ -2067,7 +2067,7 @@ What the Old Man Does Is Always Right
 'and': SKP
 'know': TPHOE
 'that': THA
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'the': -T
 'old': OLD
 'man': PHAPB

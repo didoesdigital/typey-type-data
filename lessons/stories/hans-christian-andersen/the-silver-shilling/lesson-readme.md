@@ -1,6 +1,6 @@
 # The Silver Shilling
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -14,20 +14,22 @@
 * springing `SPREUPBG/-G`
 * and `SKP`
 * shouting, `SHOUGT KW-BG`
-* "Hurrah! `KR-GS HUR/RA SKHRAPL`
+* "Hurrah! `KR-GS KPA/HUR/RA SKHRAPL`
 * now `TPHOU`
 * I `EU`
-* Am `APL`
+* am `APL`
 * going `TKPW-G`
 * out `OUT`
 * into `TPHAO`
 * wide `WAOEUD`
 * world." `WORLD TP-PL KR-GS`
+* And `AFPBD`
 * truly `TRAOUL`
 * it `T`
 * did `TK`
 * go `TKPW`
 * world. `WORLD TP-PL`
+* The `KPA/-T`
 * children `KHEURPB`
 * held `HELD`
 * with `W`
@@ -43,7 +45,7 @@
 * about, `PW KW-BG`
 * goodness `TKPWAOD/-PBS`
 * knows `TPHOEZ`
-* How `HOU`
+* how `HOU`
 * many `PHAEPB`
 * times, `TAOEUPLS KW-BG`
 * while `WHAOEUL`
@@ -75,7 +77,7 @@
 * year `KWRAOER`
 * country `KREU`
 * coined. `KOEUPBD TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * day, `TKAEU KW-BG`
 * really `R-L`
 * world, `WORLD KW-BG`
@@ -86,10 +88,10 @@
 * travel `TRAFL`
 * foreign `TPOERPB`
 * lands. `HRAPBDZ TP-PL`
-* this `TH`
+* This `KPA/TH`
 * not `TPHOT`
 * aware `A/WAEUR`
-* That `THA`
+* that `THA`
 * lay `HRAEU`
 * at `AT`
 * bottom `PWOPLT`
@@ -98,11 +100,12 @@
 * he `HE`
 * started, `STARTD KW-BG`
 * till `T*EUL`
+* one `WUPB`
 * day `TKAEU`
 * found `TPOUPBD`
 * between `TWAOEPB`
 * fingers. `TPEURPBGS TP-PL`
-* "Why," `KR-GS KWR KW-BG KR-GS`
+* "Why," `KR-GS KPA/KWR KW-BG KR-GS`
 * cried `KRAOEUD`
 * he, `HE KW-BG`
 * "here `KR-GS HAOER`
@@ -122,7 +125,7 @@
 * back `PWABG`
 * again `TKPWEPB`
 * purse. `PURS TP-PL`
-* Here `HAOER`
+* Here `KPA/HAOER`
 * among `PHOPBG`
 * number `TPHUPL`
 * companions, `KPAPB/KWROPBS KW-BG`
@@ -141,6 +144,7 @@
 * certainly `SERPBL`
 * mark `PHARBG`
 * distinction. `TKWEUPBGS TP-PL`
+* Many `KPA/PHAEPB`
 * weeks `WAOEBGS`
 * passed, `PAFD KW-BG`
 * during `TKURG`
@@ -152,13 +156,15 @@
 * knowing `TPHOEG`
 * where `W-R`
 * was. `WAS TP-PL`
+* He `KPA/HE`
 * other `OER`
 * coins `KOEUPBS`
 * French `TPREFRPB`
 * Italian; `TA*PBL STPH*FPLT`
 * coin `KOEUPB`
 * said `SAEUD`
-* They `THE`
+* they `THE`
+* this `TH`
 * town, `TOUPB KW-BG`
 * another `TPHOER`
 * that, `THA KW-BG`
@@ -179,6 +185,7 @@
 * bag, `PWAG KW-BG`
 * shilling's `SHEULG AES`
 * fate. `TPAEUT TP-PL`
+* But `KPA/PWUT`
 * as `AZ`
 * lying `HRAOEUG`
 * noticed `TPH-TSD`
@@ -199,6 +206,7 @@
 * brings `PWREUS`
 * own `OEPB`
 * punishment. `PUPLT TP-PL`
+* In `KPA/TPH`
 * eagerness, `AOEG/ERPBS KW-BG`
 * edge `EPBG`
 * pocket `POBGT`
@@ -211,6 +219,7 @@
 * behind `HEUPBD`
 * corner `KRORPB`
 * fallen. `TPAUL/-PB TP-PL`
+* As `KPA/AZ`
 * clothes `KHRO*ETS`
 * being `-BG`
 * carried `KAERD`
@@ -232,7 +241,7 @@
 * again; `TKPWEPB STPH*FPLT`
 * remained `RE/PHAEUPBD`
 * floor. `TPHRAOR TP-PL`
-* after `AF`
+* After `KPA/AF`
 * time `TAOEUPL`
 * found, `TPOUPBD KW-BG`
 * good `TKPWAOD`
@@ -240,7 +249,7 @@
 * placed `PHRAEUFD`
 * three `THRAOE`
 * coins. `KOEUPBS TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * thought `THAUT`
 * "this `KR-GS TH`
 * pleasant; `PHREFPBT STPH*FPLT`
@@ -250,25 +259,27 @@
 * people, `PAOEPL KW-BG`
 * learn `HRERPB`
 * customs." `KUFPLS TP-PL KR-GS`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * you `U`
 * call `KAUL`
 * shilling?" `SHEULG H-F KR-GS`
-* Some `SOPL`
+* some `SOPL`
 * moment. `PHOEPLT TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * genuine `SKWREB/WEUPB`
 * country,—it `KREU KW-BG EPL/TKA*RB T`
 * false; `TPALS STPH*FPLT`
 * nothing." `TPHOG TP-PL KR-GS`
+* Now `KPA/TPHOU`
 * begins `TKPWEUPBS`
 * story `STOER`
 * afterwards `A*FRDZ`
 * related `RAELTD`
 * himself. `H*EUPLS TP-PL`
-* "'False! `KR-GS AE TPALS SKHRAPL`
+* "'False! `KR-GS AE KPA/TPALS SKHRAPL`
 * nothing!' `TPHOG SKHRAPL AE`
 * he. `HE TP-PL`
+* That `KPA/THA`
 * remark `RARBG`
 * went `WEPBT`
 * through `THRU`
@@ -279,29 +290,30 @@
 * ring, `REUPBG KW-BG`
 * mine `PHAOEUPB`
 * stamp. `STAFRP TP-PL`
-* these `THEZ`
-* All `AUL`
+* These `KPA/THEZ`
+* all `AUL`
 * events `AOEPBTS`
 * be `-B`
 * wrong, `WROPBG KW-BG`
 * could `KO`
 * mean `PHAOEPB`
 * me. `PHE TP-PL`
-* Yes, `KWRE KW-BG`
+* yes, `KWRE KW-BG`
 * called `KAULD`
 * 'false, `AE TPALS KW-BG`
 * nothing.' `TPHOG TP-PL AE`
-* "'Then `KR-GS AE THEPB`
+* "'Then `KR-GS AE KPA/THEPB`
 * pay `PAEU`
 * dark,' `TKARBG KW-BG AE`
 * received `SAOEFD`
+* So `KPA/SO`
 * got `TKPWOT`
 * rid `REUD`
 * darkness, `TKARBG/-PBS KW-BG`
 * insulted `EUPB/SULT/-D`
 * broad `PWRAOD`
 * daylight. `TKAEULT TP-PL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * contrive `KAUPB/TRAOEUF`
 * get `TKPWET`
 * lost, `HRO*S KW-BG`
@@ -314,15 +326,17 @@
 * off `OF`
 * slyly `SHRAOEU/HREU`
 * country. `KREU TP-PL`
-* Ah! `HA*E SKHRAPL`
+* Ah! `KPA/HA*E SKHRAPL`
 * unhappy `UPB/HAEP`
 * was! `WAS SKHRAPL`
+* Of `KPA/-F`
 * use `AOUS`
 * my `PHEU`
 * stamp, `STAFRP KW-BG`
 * real `RAEL`
 * value `SRAOUL`
 * here, `HAOER KW-BG`
+* these `THEZ`
 * qualities `KWALTS`
 * worthless. `WO*RT/-L TP-PL`
 * eyes `AO*EUS`
@@ -332,6 +346,7 @@
 * opinion `P-PB`
 * formed `TPORPLD`
 * him. `HEUPL TP-PL`
+* It `KPA/T`
 * shocking `SHOBG/-G`
 * thing `THEUPBG`
 * guilty `TKPW-LT`
@@ -354,6 +369,7 @@
 * table `TAEUBL`
 * false `TPALS`
 * pretender. `PRE/TEPBD/*ER TP-PL`
+* At `KPA/AT`
 * length `HREPBG`
 * paid `PAEUD`
 * poor `PAOR`
@@ -388,11 +404,12 @@
 * better `PWOERT`
 * than `THAPB`
 * can. `K TP-PL`
-* But, `PWUT KW-BG`
+* But, `KPA/PWUT KW-BG`
+* after `AF`
 * all, `AUL KW-BG`
 * right `RAOEUT`
 * do.' `TKO TP-PL AE`
-* "'Ah!' `KR-GS AE HA*E SKHRAPL AE`
+* "'Ah!' `KR-GS AE KPA/HA*E SKHRAPL AE`
 * sighed `SAOEU/-D`
 * myself, `PHAO*EUS KW-BG`
 * 'am `AE APL`
@@ -400,6 +417,7 @@
 * burden `PWURD`
 * conscience `KAUPBGS`
 * woman? `WOPL H-F`
+* Am `KPA/APL`
 * then `THEPB`
 * days `TKAEUS`
 * completely `KPHRELT`
@@ -413,6 +431,7 @@
 * almost `HR-PL`
 * woman's `WOPL/AES`
 * face. `TPAEUS TP-PL`
+* She `KPA/SHE`
 * bread `PWRAED`
 * felt `TPELT`
 * grieved `TKPWRAOEF/-D`
@@ -437,7 +456,7 @@
 * looking `HRAOG`
 * earnestly, `ERPB/EFT/HREU KW-BG`
 * said, `SAEUD KW-BG`
-* 'No, `AE TPHO KW-BG`
+* 'No, `AE KPA/TPHO KW-BG`
 * try `TREU`
 * deceive `STKAOEF`
 * thee `THAOE`
@@ -455,6 +474,7 @@
 * why `KWR`
 * do `TKO`
 * that? `THA H-F`
+* Very `KPA/SRE`
 * likely `HRAOEULG`
 * lucky `HROEUBG`
 * has `HAS`
@@ -462,6 +482,7 @@
 * so, `SO KW-BG`
 * believe `PWHREF`
 * it. `T TP-PL`
+* Yes, `KPA/KWRE KW-BG`
 * shilling,' `SHEULG KW-BG AE`
 * she, `SHE KW-BG`
 * 'and `AE SKP`
@@ -476,7 +497,7 @@
 * neck, `TPHEBG KW-BG`
 * shilling.' `SHEULG TP-PL AE`
 * drilled `TKREULD`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * pleasant `PHREFPBT`
 * bored `PWORD`
 * one, `WUPB KW-BG`
@@ -491,6 +512,7 @@
 * became `PWAEUPL`
 * kind `KEUPBD`
 * medal. `PH*ELD TP-PL`
+* They `KPA/THE`
 * hung `HUPBG`
 * neck `TPHEBG`
 * child, `KHAOEULD KW-BG`
@@ -503,23 +525,24 @@
 * warm, `WARPL KW-BG`
 * breast `PWREFT`
 * child. `KHAOEULD TP-PL`
-* "In `KR-GS TPH`
+* "In `KR-GS KPA/TPH`
 * child's `KHAOEULD/AES`
 * mother `PHOER`
 * fingers, `TPEURPBGS KW-BG`
 * certain `SERPB`
 * thoughts `THAUTS`
 * out. `OUT TP-PL`
-* First, `TPEURS KW-BG`
+* First, `KPA/TPEURS KW-BG`
 * looked `HRAOBGD`
 * pair `PAEUR`
 * scissors, `SEUS/ORS KW-BG`
 * cut `KUT`
 * string. `STREUPBG TP-PL`
-* "'Lucky `KR-GS AE HROEUBG`
+* "'Lucky `KR-GS AE KPA/HROEUBG`
 * shilling!' `SHEULG SKHRAPL AE`
 * 'certainly `AE SERPBL`
 * try.' `TREU TP-PL AE`
+* Then `KPA/THEPB`
 * laid `HRAEUD`
 * vinegar `SREUPB/TKPWAR`
 * green, `TKPWRAOEPB KW-BG`
@@ -537,7 +560,8 @@
 * ticket, `TEUBGT KW-BG`
 * bring `PWREU`
 * luck. `HRUBG TP-PL`
-* Everything `EFG`
+* How `KPA/HOU`
+* everything `EFG`
 * seemed `SAOEPLD`
 * trouble. `TRUBL TP-PL`
 * collector `KHREBG/TOR`
@@ -546,6 +570,7 @@
 * false, `TPALS KW-BG`
 * away,—that `A/WAEU KW-BG EPL/TKA*RB THA`
 * knew; `TPHAOU STPH*FPLT`
+* there `THR`
 * shillings `SHEUL/-GS`
 * inscriptions `EUPB/KREUPGS/-S`
 * stamps `STA*PLS`
@@ -555,11 +580,12 @@
 * were, `WR KW-BG`
 * avoided `A/SROEUD/-D`
 * shame. `SHAEUPL TP-PL`
+* With `KPA/W`
 * several `SEFRL`
 * men `PHEPB`
 * do, `TKO KW-BG`
 * chest, `KHEFT KW-BG`
-* "Whether `KR-GS WHR`
+* "Whether `KR-GS KPA/WHR`
 * ticket `TEUBGT`
 * gained `TKPWAEUPBD`
 * prize, `PRAOEUZ KW-BG`
@@ -569,10 +595,11 @@
 * after, `AF KW-BG`
 * recognised `REFD/A*U`
 * aside. `A/SAOEUD TP-PL`
+* Everything `KPA/EFG`
 * happened `HAPD`
 * add `AD`
 * sorrow. `SROE TP-PL`
-* Even `AOEPB`
+* Even `KPA/AOEPB`
 * character, `KRAR KW-BG`
 * him `HEUPL`
 * deny `TKOEUPB`
@@ -592,7 +619,7 @@
 * confidence `K-F`
 * dark `TKARBG`
 * time. `TAOEUPL TP-PL`
-* "At `KR-GS AT`
+* "At `KR-GS KPA/AT`
 * passed `PAFD`
 * traveller, `TRAFL/HRER/A*U KW-BG`
 * foreigner, `TPORPB/ER KW-BG`
@@ -604,7 +631,7 @@
 * me? `PHE H-F`
 * hear `HAER`
 * outcry, `AOUT/KRAOEU KW-BG`
-* 'False! `AE TPALS SKHRAPL`
+* 'False! `AE KPA/TPALS SKHRAPL`
 * good-for-nothing!' `TKPWAOD H-PB TPOR H-PB TPHOG SKHRAPL AE`
 * traveller `TRAFL/HRER/A*U`
 * examined `KP-D`
@@ -620,20 +647,21 @@
 * such `SUFP`
 * face `TPAEUS`
 * his. `HEUS TP-PL`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * singular,' `SEUPBG/HRAR KW-BG AE`
 * 'it `AE T`
 * country; `KREU STPH*FPLT`
 * good, `TKPWAOD KW-BG`
 * true, `TRAOU KW-BG`
 * home. `HOEPL TP-PL`
+* Some `KPA/SOPL`
 * doubt `TKOUT`
 * false. `TPALS TP-PL`
 * curious `KAOURS`
 * come `KOPL`
 * hands. `HAPBDZ TP-PL`
 * house.' `HOUS TP-PL AE`
-* "Joy `KR-GS SKWROEU`
+* "Joy `KR-GS KPA/SKWROEU`
 * thrilled `THREULD`
 * heard `HAERD`
 * this. `TH TP-PL`
@@ -643,13 +671,13 @@
 * each `AOEFP`
 * recognise `REZ/A*U`
 * glad `TKPWHRAD`
-* Joy `SKWROEU`
+* joy `SKWROEU`
 * throw `THROE`
 * sparks `SPARBGS`
 * fire, `TPAOEUR KW-BG`
 * nature `TPHAEURT`
 * sparkle. `SPAR/K-L TP-PL`
-* Steel `STAOEL`
+* Steel `KPA/STAOEL`
 * silver. `SEUL/SRER TP-PL`
 * wrapped `WRAPD`
 * fine, `TPAOEUPB KW-BG`
@@ -675,8 +703,10 @@
 * say `SAEU`
 * themselves. `TH*EPLS TP-PL`
 * reached `RAOEFPD`
+* All `KPA/AUL`
 * cares `KAEURS`
 * end. `EPBD TP-PL`
+* Joy `KPA/SKWROEU`
 * overwhelmed `AUFR/KHEPLD`
 * stamp? `STAFRP H-F`
 * insults `EUPB/SULTS`

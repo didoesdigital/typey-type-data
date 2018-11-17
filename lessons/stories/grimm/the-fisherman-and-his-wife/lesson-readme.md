@@ -1,6 +1,6 @@
 # The Fisherman and His Wife
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -16,15 +16,16 @@
 * by `PWEU`
 * the `-T`
 * seaside. `SAE/SAOEUD TP-PL`
+* The `KPA/-T`
 * used `AOUFD`
 * to `TO`
-* Go `TKPW`
+* go `TKPW`
 * out `OUT`
 * all `AUL`
 * day `TKAEU`
 * long `HROPBG`
 * a-fishing; `AEU H-PB TPEURBG STPH*FPLT`
-* And `SKP`
+* and `SKP`
 * one `WUPB`
 * day, `TKAEU KW-BG`
 * as `AZ`
@@ -52,10 +53,10 @@
 * pulled `PULD`
 * great `TKPWRAET`
 * fish. `TPEURB TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * fish `TPEURB`
 * said, `SAEUD KW-BG`
-* 'Pray `AE PRAEU`
+* 'Pray `AE KPA/PRAEU`
 * let `HRET`
 * me `PHE`
 * live! `HREUF SKHRAPL`
@@ -71,7 +72,7 @@
 * water `WAUR`
 * again, `TKPWEPB KW-BG`
 * go!' `TKPW SKHRAPL AE`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * ho!' `HO*E SKHRAPL AE`
 * said `SAEUD`
 * man, `PHAPB KW-BG`
@@ -83,7 +84,7 @@
 * words `WORDZ`
 * about `PW`
 * matter; `PHAERT STPH*FPLT`
-* Will `HR`
+* will `HR`
 * have `SR`
 * nothing `TPHOG`
 * do `TKO`
@@ -96,7 +97,7 @@
 * soon `SAOPB`
 * you `U`
 * please!' `PHRES SKHRAPL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * him `HEUPL`
 * back `PWABG`
 * water, `WAUR KW-BG`
@@ -110,7 +111,7 @@
 * blood `PWHRAOD`
 * behind `HEUPBD`
 * wave. `WAF TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * went `WEPBT`
 * home `HOEPL`
 * told `TOLD`
@@ -124,12 +125,12 @@
 * hearing `HAERG`
 * speak, `SPAOEBG KW-BG`
 * again. `TKPWEPB TP-PL`
-* 'Did `AE TK`
+* 'Did `AE KPA/TK`
 * ask `SK`
 * for `TPOR`
 * anything?' `TPHEUG H-F AE`
 * wife, `WAOEUF KW-BG`
-* 'We `AE WE`
+* 'we `AE WE`
 * live `HREUF`
 * very `SRE`
 * wretchedly `KREFPD/HREU`
@@ -150,10 +151,13 @@
 * business: `PWEUS STPH-FPLT`
 * however, `HOUF KW-BG`
 * seashore; `SAE/SHOR STPH*FPLT`
+* when `WHEPB`
 * came `KAEUPL`
+* there `THR`
 * looked `HRAOBGD`
 * yellow `KWREL/OE`
 * green. `TKPWRAOEPB TP-PL`
+* And `AFPBD`
 * stood `STAOD`
 * water's `WAUR AES`
 * edge, `EPBG KW-BG`
@@ -161,10 +165,11 @@
 * 'O `AE O*P`
 * man `PHAPB`
 * sea! `SAE SKHRAPL`
-* Hearken `HARBG/*EPB`
+* Hearken `KPA/HARBG/*EPB`
 * me! `PHE SKHRAPL`
-* My `PHEU`
+* My `KPA/PHEU`
 * Ilsabill `xxx Ilsabill`
+* Will `W*EUL`
 * own `OEPB`
 * will, `HR KW-BG`
 * hath `HA*T`
@@ -174,14 +179,15 @@
 * thee!' `THAOE SKHRAPL AE`
 * swimming `SWEUPLG`
 * him, `HEUPL KW-BG`
-* 'Well, `AE WEL KW-BG`
+* 'Well, `AE KPA/WEL KW-BG`
 * what `WHA`
 * is `S`
 * will? `HR H-F`
+* What `KPA/WHA`
 * does `TKOS`
 * your `KWROUR`
 * want?' `WAPBT H-F AE`
-* 'Ah!' `AE HA*E SKHRAPL AE`
+* 'Ah!' `AE KPA/HA*E SKHRAPL AE`
 * fisherman, `TPEURB/ER/PHAPB KW-BG`
 * 'she `AE SHE`
 * says `SEZ`
@@ -196,18 +202,19 @@
 * any `TPHEU`
 * longer `HRORPBG`
 * wants `WAPBTS`
-* 'Go `AE TKPW`
+* 'Go `AE KPA/TKPW`
 * home, `HOEPL KW-BG`
 * then,' `THEPB KW-BG AE`
 * cottage `KOT/APBLG`
 * already!' `HR-R SKHRAPL AE`
+* So `KPA/SO`
 * saw `SAU`
 * standing `STAPBG`
 * door `TKAOR`
 * nice `TPHAOEUS`
 * trim `TREUPL`
 * cottage. `KOT/APBLG TP-PL`
-* 'Come `AE KOPL`
+* 'Come `AE KPA/KOPL`
 * in, `TPH KW-BG`
 * come `KOPL`
 * in!' `TPH SKHRAPL AE`
@@ -235,17 +242,19 @@
 * happily `HAP/HREU`
 * shall `SHAL`
 * now!' `TPHOU SKHRAPL AE`
+* 'We `AE KPA/WE`
 * try `TREU`
 * so, `SO KW-BG`
 * least,' `HRAOEFT KW-BG AE`
 * wife. `WAOEUF TP-PL`
-* Everything `EFG`
+* Everything `KPA/EFG`
 * right `RAOEUT`
 * week `WAOEBG`
 * or `OR`
 * two, `TWO KW-BG`
-* Dame `TKAEUPL`
-* 'Husband, `AE HUS KW-BG`
+* then `THEPB`
+* Dame `KPA/TKAEUPL`
+* 'Husband, `AE KPA/HUS KW-BG`
 * near `TPHAOER`
 * room `RAOPL`
 * enough `TPHUF`
@@ -264,7 +273,7 @@
 * again `TKPWEPB`
 * give `TKPWEUF`
 * castle.' `KAFL TP-PL AE`
-* 'Wife,' `AE WAOEUF KW-BG AE`
+* 'Wife,' `AE KPA/WAOEUF KW-BG AE`
 * 'I `AE EU`
 * don't `TKOEPBT`
 * perhaps `PRAPS`
@@ -273,7 +282,7 @@
 * easy `EZ`
 * pretty `PREUT`
 * in.' `TPH TP-PL AE`
-* 'Nonsense!' `AE TPHOPB/SEPBS SKHRAPL AE`
+* 'Nonsense!' `AE KPA/TPHOPB/SEPBS SKHRAPL AE`
 * wife; `WAOEUF STPH*FPLT`
 * 'he `AE HE`
 * willingly, `HR-G/HREU KW-BG`
@@ -281,6 +290,7 @@
 * along `A/HROPBG`
 * try!' `TREU SKHRAPL AE`
 * went, `WEPBT KW-BG`
+* but `PWUT`
 * heart `HART`
 * heavy: `HOEUF STPH-FPLT`
 * sea, `SAE KW-BG`
@@ -297,9 +307,10 @@
 * already.' `HR-R TP-PL AE`
 * found `TPOUPBD`
 * castle. `KAFL TP-PL`
-* 'See,' `AE SAOE KW-BG AE`
+* 'See,' `AE KPA/SAOE KW-BG AE`
 * she, `SHE KW-BG`
 * grand?' `TKPWRAPBD H-F AE`
+* With `KPA/W`
 * they `THE`
 * together, `TOGT KW-BG`
 * servants `SER/SRAPBTS`
@@ -322,7 +333,7 @@
 * were `WR`
 * stables `STAEUBLS`
 * cow-houses. `KO*U H-PB HO*UFS TP-PL`
-* 'Well,' `AE WEL KW-BG AE`
+* 'Well,' `AE KPA/WEL KW-BG AE`
 * 'now `AE TPHOU`
 * cheerful `KHAOER/-FL`
 * happy `HAEP`
@@ -330,7 +341,7 @@
 * rest `REFT`
 * our `OUR`
 * lives.' `HREUFS TP-PL AE`
-* 'Perhaps `AE PRAPS`
+* 'Perhaps `AE KPA/PRAPS`
 * may,' `PHAE KW-BG AE`
 * 'but `AE PWUT`
 * sleep `SHRAOEP`
@@ -346,7 +357,7 @@
 * daylight, `TKAEULT KW-BG`
 * jogged `SKWROGD`
 * elbow, `EL/PWOE KW-BG`
-* 'Get `AE TKPW-T`
+* 'Get `AE KPA/TKPW-T`
 * up, `UP KW-BG`
 * husband, `HUS KW-BG`
 * bestir `xxx bestir`
@@ -354,20 +365,20 @@
 * must `PHUFT`
 * king `KEUPBG`
 * land.' `HRAPBD TP-PL AE`
-* 'Wife, `AE WAOEUF KW-BG`
+* 'Wife, `AE KPA/WAOEUF KW-BG`
 * wife,' `WAOEUF KW-BG AE`
 * 'why `AE KWR`
 * wish `WEURB`
 * king? `KEUPBG H-F`
 * king.' `KEUPBG TP-PL AE`
-* 'Then `AE THEPB`
+* 'Then `AE KPA/THEPB`
 * will,' `HR KW-BG AE`
 * she. `SHE TP-PL`
-* 'But, `AE PWUT KW-BG`
+* 'But, `AE KPA/PWUT KW-BG`
 * king--the `KEUPBG H-PB H-PB -T`
 * cannot `K/TPHOT`
 * king?' `KEUPBG H-F AE`
-* 'Husband,' `AE HUS KW-BG AE`
+* 'Husband,' `AE KPA/HUS KW-BG AE`
 * 'say `AE SAEU`
 * no `TPHO`
 * more `PHOR`
@@ -376,6 +387,7 @@
 * sorrowful `SOR/ROEFL`
 * think `THEU`
 * king. `KEUPBG TP-PL`
+* This `KPA/TH`
 * time `TAOEUPL`
 * sea `SAE`
 * dark `TKARBG`
@@ -388,7 +400,7 @@
 * cried `KRAOEUD`
 * out: `OUT STPH-FPLT`
 * would `WO`
-* 'Alas!' `AE A/HRAS SKHRAPL AE`
+* 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * poor `PAOR`
 * home,' `HOEPL KW-BG AE`
 * home; `HOEPL STPH*FPLT`
@@ -414,14 +426,14 @@
 * taller `TAURL`
 * other. `OER TP-PL`
 * 'are `AE R`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * time, `TAOEUPL KW-BG`
-* 'Ah, `AE HA*E KW-BG`
+* 'Ah, `AE KPA/HA*E KW-BG`
 * wife! `WAOEUF SKHRAPL`
 * fine `TPAOEUPB`
 * thing `THEUPBG`
 * king! `KEUPBG SKHRAPL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * never `TPHEF`
 * anything `TPHEUG`
 * live.' `HREUF TP-PL AE`
@@ -436,10 +448,11 @@
 * tired `TAOEURD`
 * that, `THA KW-BG`
 * emperor.' `EPL/ROR TP-PL AE`
-* 'Alas, `AE A/HRAS KW-BG`
+* 'Alas, `AE KPA/A/HRAS KW-BG`
 * why `KWR`
 * emperor?' `EPL/ROR H-F AE`
 * fisherman. `TPEURB/ER/PHAPB TP-PL`
+* 'go `AE TKPW`
 * fish! `TPEURB SKHRAPL`
 * say `SAEU`
 * wife!' `WAOEUF SKHRAPL AE`
@@ -452,17 +465,19 @@
 * king,' `KEUPBG KW-BG AE`
 * Ilsabill, `xxx Ilsabill KW-BG`
 * 'and `AE SKP`
+* my `PHEU`
 * slave; `SHRAEUF STPH*FPLT`
 * once!' `WUPBS SKHRAPL AE`
 * forced `TPOFRD`
 * muttered `PHUT/*ER/-D`
 * along, `A/HROPBG KW-BG`
-* 'This `AE TH`
+* 'This `AE KPA/TH`
 * good, `TKPWAOD KW-BG`
 * ask; `SK STPH*FPLT`
 * last, `HRAFT KW-BG`
 * sorry `SOER`
 * done.' `TKOPB TP-PL AE`
+* He `KPA/HE`
 * black `PWHRABG`
 * muddy, `PHUD/KWREU KW-BG`
 * mighty `PHAOEUT/KWREU`
@@ -474,7 +489,7 @@
 * about, `PW KW-BG`
 * could `KO`
 * brink, `PWR*EUPBG KW-BG`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * emperor `EPL/ROR`
 * again; `TKPWEPB STPH*FPLT`
 * lofty `HROF/TEU`
@@ -500,6 +515,7 @@
 * earls: `*ERL/-S STPH-FPLT`
 * gazed `TKPWAEZ/-D`
 * her, `HER KW-BG`
+* 'what `AE WHA`
 * emperor!' `EPL/ROR SKHRAPL AE`
 * stop `STOP`
 * being `-BG`
@@ -510,7 +526,7 @@
 * pope? `POEP H-F`
 * Christendom.' `KREUGS/TKO*PL TP-PL AE`
 * day.' `TKAEU TP-PL AE`
-* 'But,' `AE PWUT KW-BG AE`
+* 'But,' `AE KPA/PWUT KW-BG AE`
 * pope.' `POEP TP-PL AE`
 * nonsense!' `TPHOPB/SEPBS SKHRAPL AE`
 * 'if `AE TP`
@@ -526,6 +542,7 @@
 * fearfully `TPAOER/TPHREU`
 * tops `TOPS`
 * billows. `PWEUL/HROE/-S TP-PL`
+* In `KPA/TPH`
 * middle `PH*EULD`
 * heavens `HEFPBS`
 * piece `PAOES`
@@ -537,6 +554,7 @@
 * dreadful `TKRED/*FL`
 * storm `STORPL`
 * rising. `RAOEUFG TP-PL`
+* At `KPA/AT`
 * sight `SAOEUT`
 * dreadfully `TKRED/-FL/KWREU`
 * frightened, `TPRAOEUPBD KW-BG`
@@ -553,7 +571,7 @@
 * head, `HED KW-BG`
 * pomp `POFRP`
 * power `POUR`
-* Church. `KHUFRPB TP-PL`
+* Church. `KH*UFRPB TP-PL`
 * rows `RO*EZ`
 * burning `PWURPBG`
 * lights, `HRAOEUTS KW-BG`
@@ -572,6 +590,7 @@
 * 'it `AE T`
 * grand `TKPWRAPBD`
 * pope; `POEP STPH*FPLT`
+* now `TPHOU`
 * easy, `EZ KW-BG`
 * greater.' `TKPWRAERT TP-PL AE`
 * that,' `THA KW-BG AE`
@@ -583,8 +602,8 @@
 * asleep, `A/HRAOEP KW-BG`
 * broke, `PWROEBG KW-BG`
 * sun `SUPB`
-* rose. `ROEZ TP-PL`
-* 'Ha!' `AE HA SKHRAPL AE`
+* rose. `ROES TP-PL`
+* 'Ha!' `AE KPA/HA SKHRAPL AE`
 * thought `THAUT`
 * woke `WOEBG`
 * through `THRU`
@@ -600,12 +619,13 @@
 * started `STARTD`
 * fell `TPEL`
 * 'cannot `AE K/TPHOT`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * uneasy `UPB/EZ`
 * moon `PHAOPB`
 * rise `RAOEUZ`
 * without `WOUT`
 * leave. `HREF TP-PL`
+* Go `KPA/TKPW`
 * shivering `SH*EUFR/-G`
 * fear; `TPAOER STPH*FPLT`
 * going `TKPW-G`

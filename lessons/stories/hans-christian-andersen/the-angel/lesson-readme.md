@@ -1,6 +1,6 @@
 # The Angel
 
-* "Whenever `KR-GS WHEFR`
+* "Whenever `KR-GS KPA/WHEFR`
 * a `AEU`
 * good `TKPWAOD`
 * child `KHAOEULD`
@@ -8,7 +8,7 @@
 * an `APB`
 * angel `A*EPBLG`
 * of `-F`
-* God `TKPWOD`
+* God `TKPWO*D`
 * comes `KOPLS`
 * down `TKOUPB`
 * from `TPR`
@@ -17,7 +17,7 @@
 * the `-T`
 * dead `TKED`
 * in `TPH`
-* His `HEUS`
+* his `HEUS`
 * arms, `ARPLS KW-BG`
 * spreads `SPREDZ`
 * out `OUT`
@@ -34,10 +34,10 @@
 * which `WEU`
 * had `H`
 * loved `HROFD`
-* During `TKURG`
+* during `TKURG`
 * life. `HRAOEUF TP-PL`
-* Then `THEPB`
-* He `HE`
+* Then `KPA/THEPB`
+* he `HE`
 * gathers `TKPWAERS`
 * large `HRARPBLG`
 * handful `HAPBD/-FL`
@@ -45,9 +45,9 @@
 * carries `KAERS`
 * up `UP`
 * to `TO`
-* Almighty, `AL/PHAOEUT/KWREU KW-BG`
+* Almighty, `A*L/PHAOEUT/KWREU KW-BG`
 * that `THA`
-* They `THE`
+* they `THE`
 * may `PHAE`
 * bloom `PWHRAOPL`
 * more `PHOR`
@@ -57,14 +57,18 @@
 * do `TKO`
 * on `OPB`
 * earth. `*ERT TP-PL`
-* Almighty `AL/PHAOEUT/KWREU`
+* And `AFPBD`
+* Almighty `A*L/PHAOEUT/KWREU`
 * presses `PRES/-S`
 * flowers `TPHRO*URS`
+* His `KPA/HEUS`
 * heart, `HART KW-BG`
 * but `PWUT`
+* He `KPA/HE`
 * kisses `KEUS/-S`
 * flower `TPHRO*UR`
 * pleases `PHRAOES/-S`
+* Him `KPA/HEUPL`
 * best, `PWEFT KW-BG`
 * it `T`
 * receives `SAOEFS`
@@ -75,12 +79,12 @@
 * song `SOPBG`
 * chorus `KHOERS`
 * bliss." `PWHREUS TP-PL KR-GS`
-* these `THEZ`
+* These `KPA/THEZ`
 * words `WORDZ`
 * were `WR`
 * spoken `SPOEPB`
 * by `PWEU`
-* God, `TKPWOD KW-BG`
+* God, `TKPWO*D KW-BG`
 * as `AZ`
 * carried `KAERD`
 * listened `HREUFPBD`
@@ -100,7 +104,8 @@
 * full `TPUL`
 * lovely `HROFL`
 * flowers. `TPHRO*URS TP-PL`
-* "Which `KR-GS WEU`
+* "Which `KR-GS KPA/WEU`
+* these `THEZ`
 * shall `SHAL`
 * we `WE`
 * take `TAEUBG`
@@ -110,11 +115,11 @@
 * there?" `THR H-F KR-GS`
 * asked `SK-D`
 * angel. `A*EPBLG TP-PL`
-* Close `KHROES`
+* Close `KPA/KHROES`
 * grew `TKPWRAOU`
 * slender, `SHRERPBD KW-BG`
 * beautiful, `PWAOUFL KW-BG`
-* rose-bush, `ROEZ H-PB PWURB KW-BG`
+* rose-bush, `ROES H-PB PWURB KW-BG`
 * some `SOPL`
 * wicked `WEUBGD`
 * hand `HAPBD`
@@ -127,16 +132,18 @@
 * withered `WEU/THER/-D`
 * trailing `TRAEULG`
 * branches. `PWRAFPBS TP-PL`
-* "Poor `KR-GS PAOR`
-* rose-bush!" `ROEZ H-PB PWURB SKHRAPL KR-GS`
+* "Poor `KR-GS KPA/PAOR`
+* rose-bush!" `ROES H-PB PWURB SKHRAPL KR-GS`
 * said `SAEUD`
 * child, `KHAOEULD KW-BG`
 * "let `KR-GS HRET`
 * above `PWOF`
-* God's `TKPWOD AES`
+* God's `TKPWO*D AES`
 * garden." `TKPWA*RPB TP-PL KR-GS`
+* The `KPA/-T`
 * took `TAOBG`
-* rose-bush; `ROEZ H-PB PWURB STPH*FPLT`
+* rose-bush; `ROES H-PB PWURB STPH*FPLT`
+* then `THEPB`
 * kissed `K*EUFD`
 * half `HAF`
 * opened `OEPD`
@@ -148,7 +155,7 @@
 * humble `UPL/-BL`
 * buttercups `PWUT/*ER/KUP/-S`
 * heart's-ease. `HART AE S* H-PB AOES TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * have `SR`
 * enough," `TPHUF KW-BG KR-GS`
 * child; `KHAOEULD STPH*FPLT`
@@ -159,12 +166,13 @@
 * fly `TPHRAOEU`
 * upward `AUP/WARBD`
 * heaven. `HEFPB TP-PL`
+* It `KPA/T`
 * was `WAS`
 * night, `TPHAOEUT KW-BG`
 * quite `KWAOEUT`
 * still `STEUL`
 * town. `TOUPB TP-PL`
-* Here `HAOER`
+* Here `KPA/HAOER`
 * remained, `RE/PHAEUPBD KW-BG`
 * hovered `HOFRD`
 * small, `SPHAL KW-BG`
@@ -179,7 +187,7 @@
 * people `PAOEPL`
 * who `WHO`
 * removed. `RE/PHOFD TP-PL`
-* There `THR`
+* There `KPA/THR`
 * fragments `TPRAPLTS`
 * plates, `PHRAEUTS KW-BG`
 * pieces `PAOEFS`
@@ -191,7 +199,7 @@
 * rubbish `RUB/EURB`
 * pleasant `PHREFPBT`
 * see. `SAOE TP-PL`
-* Amidst `A/PHEUTDZ`
+* Amidst `KPA/A/PHEUTDZ`
 * this `TH`
 * confusion, `KAUFGS KW-BG`
 * pointed `POEUPBTD`
@@ -208,7 +216,7 @@
 * thrown `THROEPB`
 * amongst `PHOPBGS`
 * rubbish. `RUB/EURB TP-PL`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * will `HR`
 * us," `US KW-BG KR-GS`
 * angel, `A*EPBLG KW-BG`
@@ -220,7 +228,7 @@
 * flew `TPHRAOU`
 * related `RAELTD`
 * history. `HEUFRT TP-PL`
-* "Down `KR-GS TKOUPB`
+* "Down `KR-GS KPA/TKOUPB`
 * lane, `HRAEPB KW-BG`
 * low `HROE`
 * cellar, `SEL/AR KW-BG`
@@ -244,6 +252,7 @@
 * twice, `TWAOEUS KW-BG`
 * no `TPHO`
 * more. `PHOR TP-PL`
+* During `KPA/TKURG`
 * summer, `SAOURPL KW-BG`
 * sunbeams `SUPB/PWAOEPL/-S`
 * would `WO`
@@ -253,6 +262,7 @@
 * for `TPOR`
 * about `PW`
 * hour. `HOUR TP-PL`
+* In `KPA/TPH`
 * spot `SPOT`
 * boy `PWOEU`
 * sit `SEUT`
@@ -284,6 +294,7 @@
 * brought `PWRAUT`
 * bough `PWO*U`
 * beech-tree. `PWAOEFP H-PB TRAOE TP-PL`
+* This `KPA/TH`
 * place `PHRAEUS`
 * head, `HED KW-BG`
 * fancy `TPAPB/SEU`
@@ -294,6 +305,7 @@
 * birds `PWEURDZ`
 * carolled `KAEURL/-D`
 * gayly. `TKPWAEU/HREU TP-PL`
+* One `KPA/WUPB`
 * day `TKAEU`
 * field-flowers, `TPAOELD H-PB TPHRO*URS KW-BG`
 * among `PHOPBG`
@@ -347,12 +359,12 @@
 * turned, `TURPBD KW-BG`
 * death, `TK*T KW-BG`
 * when `WHEPB`
-* Lord `HRORD`
+* Lord `HRO*RD`
 * called `KAULD`
 * him. `HEUPL TP-PL`
 * has `HAS`
 * year `KWRAOER`
-* God. `TKPWOD TP-PL`
+* God. `TKPWO*D TP-PL`
 * time `TAOEUPL`
 * stood `STAOD`
 * window, `WOEUPBD KW-BG`
@@ -374,7 +386,7 @@
 * most `PHOFT`
 * garden `TKPWA*RPB`
 * queen." `KWAOEPB TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * how `HOU`
 * know `TPHOE`
 * this?" `TH H-F KR-GS`
@@ -419,6 +431,7 @@
 * circle, `KOEURBG KW-BG`
 * equally `KWAEL`
 * happy. `HAEP TP-PL`
+* They `KPA/THE`
 * praise, `PRAEUS KW-BG`
 * both `PWO*T`
 * small,—the `SPHAL KW-BG EPL/TKA*RB -T`

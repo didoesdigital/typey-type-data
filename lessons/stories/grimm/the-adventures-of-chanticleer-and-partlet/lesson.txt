@@ -1,16 +1,16 @@
 The Adventures of Chanticleer and Partlet
 
 '1.': #S TP-PL
-'HOW': HOU
-'THEY': THE
-'WENT': WEPBT
-'TO': TO
-'THE': -T
-'MOUNTAINS': PHOUPB/TAEUPBS
-'TO': TO
-'EAT': AOET
-'NUTS': TPHUTS
-''The': AE -T
+'HOW': KPA/HOU
+'THEY': KPA/THE
+'WENT': KPA/WEPBT
+'TO': KPA/TO
+'THE': KPA/-T
+'MOUNTAINS': KPA/PHOUPB/TAEUPBS
+'TO': KPA/TO
+'EAT': KPA/AOET
+'NUTS': KPA/TPHUTS
+''The': AE KPA/-T
 'nuts': TPHUTS
 'are': R
 'quite': KWAOEUT
@@ -43,7 +43,7 @@ The Adventures of Chanticleer and Partlet
 'them': THEPL
 'all': AUL
 'away.'': A/WAEU TP-PL AE
-''With': AE W
+''With': AE KPA/W
 'all': AUL
 'my': PHEU
 'heart,'': HART KW-BG AE
@@ -59,7 +59,7 @@ The Adventures of Chanticleer and Partlet
 'of': -F
 'it': T
 'together.'': TOGT TP-PL AE
-'So': SO
+'So': KPA/SO
 'they': THE
 'went': WEPBT
 'to': TO
@@ -78,7 +78,7 @@ The Adventures of Chanticleer and Partlet
 'till': T*EUL
 'the': -T
 'evening.': AOEPBG TP-PL
-'Now,': TPHOU KW-BG
+'Now,': KPA/TPHOU KW-BG
 'whether': WHR
 'it': T
 'was': WAS
@@ -124,7 +124,7 @@ The Adventures of Chanticleer and Partlet
 'home': HOEPL
 'on': OPB
 'foot.': TPAOT TP-PL
-'So': SO
+'So': KPA/SO
 'Chanticleer': xxx Chanticleer
 'began': TKPWAPB
 'to': TO
@@ -157,7 +157,7 @@ The Adventures of Chanticleer and Partlet
 'draw': TKRAU
 'her': HER
 'home.': HOEPL TP-PL
-''That's': AE THA AES
+''That's': AE KPA/THA AES
 'a': AEU
 'good': TKPWAOD
 'joke!'': SKWROEBG SKHRAPL AE
@@ -190,7 +190,7 @@ The Adventures of Chanticleer and Partlet
 'I'll': AOEUL
 'not': TPHOT
 'draw.'': TKRAU TP-PL AE
-'While': WHAOEUL
+'While': KPA/WHAOEUL
 'this': TH
 'was': WAS
 'passing,': PAFG KW-BG
@@ -202,7 +202,7 @@ The Adventures of Chanticleer and Partlet
 'and': SKP
 'cried': KRAOEUD
 'out,': OUT KW-BG
-''You': AE U
+''You': AE KPA/U
 'thieving': THAOEF/-G
 'vagabonds,': SRAG/PWOPBDZ KW-BG
 'what': WHA
@@ -229,7 +229,7 @@ The Adventures of Chanticleer and Partlet
 'Chanticleer': xxx Chanticleer
 'most': PHOFT
 'lustily.': HR*US/HREU TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'Chanticleer': xxx Chanticleer
 'was': WAS
 'no': TPHO
@@ -270,7 +270,7 @@ The Adventures of Chanticleer and Partlet
 'home': HOEPL
 'for': TPOR
 'them.': THEPL TP-PL
-'This': TH
+'This': KPA/TH
 'she': SHE
 'agreed': TKPWRAED
 'to': TO
@@ -284,7 +284,7 @@ The Adventures of Chanticleer and Partlet
 'and': SKP
 'drove,': TKROEF KW-BG
 'crying,': KRAOEUG KW-BG
-''Now,': AE TPHOU KW-BG
+''Now,': AE KPA/TPHOU KW-BG
 'duck,': TKUBG KW-BG
 'get': TKPWET
 'on': OPB
@@ -293,7 +293,7 @@ The Adventures of Chanticleer and Partlet
 'as': AZ
 'you': U
 'can.'': K TP-PL AE
-'And': SKP
+'And': AFPBD
 'away': A/WAEU
 'they': THE
 'went': WEPBT
@@ -302,7 +302,7 @@ The Adventures of Chanticleer and Partlet
 'pretty': PREUT
 'good': TKPWAOD
 'pace.': PAEUS TP-PL
-'After': AF
+'After': KPA/AF
 'they': THE
 'had': H
 'travelled': TRAFLD/A*U
@@ -327,7 +327,7 @@ The Adventures of Chanticleer and Partlet
 'needle': TPHAO*ELD
 'cried': KRAOEUD
 'out,': OUT KW-BG
-''Stop,': AE STOP KW-BG
+''Stop,': AE KPA/STOP KW-BG
 'stop!'': STOP SKHRAPL AE
 'and': SKP
 'said': SAEUD
@@ -445,7 +445,7 @@ The Adventures of Chanticleer and Partlet
 'on': OPB
 'Partlet's': xxx Partlet AES
 'toes.': TO*ES TP-PL
-'Late': HRAEUT
+'Late': KPA/HRAEUT
 'at': AT
 'night': TPHAOEUT
 'they': THE
@@ -567,7 +567,7 @@ The Adventures of Chanticleer and Partlet
 'evening': AOEPBG
 'very': SRE
 'jollily.': SKWROL/HREU/HREU TP-PL
-'Early': ERL
+'Early': KPA/ERL
 'in': TPH
 'the': -T
 'morning,': PHORPBG KW-BG
@@ -650,7 +650,7 @@ The Adventures of Chanticleer and Partlet
 'softly': SOFT/HREU
 'as': AZ
 'possible.': POB TP-PL
-'However,': HOUF KW-BG
+'However,': KPA/HOUF KW-BG
 'the': -T
 'duck,': TKUBG KW-BG
 'who': WHO
@@ -682,7 +682,7 @@ The Adventures of Chanticleer and Partlet
 'of': -F
 'their': THAEUR
 'reach.': RAOEFP TP-PL
-'An': APB
+'An': KPA/APB
 'hour': HOUR
 'or': OR
 'two': TWO
@@ -737,7 +737,7 @@ The Adventures of Chanticleer and Partlet
 'almost': HR-PL
 'blinded': PWHRAOEUPBD/-D
 'him.': HEUPL TP-PL
-''Bless': AE PWRES
+''Bless': AE KPA/PWRES
 'me!'': PHE SKHRAPL AE
 'said': SAEUD
 'he,': HE KW-BG
@@ -783,7 +783,7 @@ The Adventures of Chanticleer and Partlet
 'in': TPH
 'his': HEUS
 'head.': HED TP-PL
-'He': HE
+'He': KPA/HE
 'now': TPHOU
 'flew': TPHRAOU
 'into': TPHAO
@@ -848,16 +848,16 @@ The Adventures of Chanticleer and Partlet
 'apish': xxx apish
 'tricks.': TREUBGS TP-PL
 '2.': #T- TP-PL
-'HOW': HOU
+'HOW': KPA/HOU
 'CHANTICLEER': xxx CHANTICLEER
-'AND': SKP
+'AND': KPA/SKP
 'PARTLET': xxx PARTLET
-'WENT': WEPBT
-'TO': TO
-'VISIT': SREUFT
-'MR': PH*P/R*
+'WENT': KPA/WEPBT
+'TO': KPA/TO
+'VISIT': KPA/SREUFT
+'MR': xxx MR
 'KORBES': xxx KORBES
-'Another': TPHOER
+'Another': KPA/TPHOER
 'day,': TKAEU KW-BG
 'Chanticleer': xxx Chanticleer
 'and': SKP
@@ -896,7 +896,7 @@ The Adventures of Chanticleer and Partlet
 'away': A/WAEU
 'they': THE
 'drove.': TKROEF TP-PL
-'Soon': SAOPB
+'Soon': KPA/SAOPB
 'afterwards': A*FRDZ
 'a': AEU
 'cat': KAT
@@ -904,14 +904,14 @@ The Adventures of Chanticleer and Partlet
 'them,': THEPL KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
-''Where': AE W-R
+''Where': AE KPA/W-R
 'are': R
 'you': U
 'going?'': TKPW-G H-F AE
-'And': SKP
+'And': AFPBD
 'Chanticleer': xxx Chanticleer
 'replied,': RE/PHRAOEUD KW-BG
-''All': AE AUL
+''All': AE KPA/AUL
 'on': OPB
 'our': OUR
 'way': WAEU
@@ -919,23 +919,23 @@ The Adventures of Chanticleer and Partlet
 'visit': SREUFT
 'to': TO
 'pay': PAEU
-'To': TO
+'To': KPA/TO
 'Mr': PH*P/R*
 'Korbes,': xxx Korbes KW-BG
 'the': -T
 'fox,': TPOBGS KW-BG
 'today.'': TOED TP-PL AE
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'cat': KAT
 'said,': SAEUD KW-BG
-''Take': AE TAEUBG
+''Take': AE KPA/TAEUBG
 'me': PHE
 'with': W
 'you,'': U KW-BG AE
 'Chanticleer': xxx Chanticleer
 'said,': SAEUD KW-BG
-''With': AE W
+''With': AE KPA/W
 'all': AUL
 'my': PHEU
 'heart:': HART STPH-FPLT
@@ -950,7 +950,7 @@ The Adventures of Chanticleer and Partlet
 'not': TPHOT
 'fall': TPAUL
 'off.'': OF TP-PL AE
-''Take': AE TAEUBG
+''Take': AE KPA/TAEUBG
 'care': KAEUR
 'of': -F
 'this': TH
@@ -958,7 +958,7 @@ The Adventures of Chanticleer and Partlet
 'coach': KOEFP
 'of': -F
 'mine,': PHAOEUPB KW-BG
-'Nor': TPH-R
+'Nor': KPA/TPH-R
 'dirty': TKOEURT
 'my': PHEU
 'pretty': PREUT
@@ -966,15 +966,15 @@ The Adventures of Chanticleer and Partlet
 'wheels': WHAOELS
 'so': SO
 'fine!': TPAOEUPB SKHRAPL
-'Now,': TPHOU KW-BG
+'Now,': KPA/TPHOU KW-BG
 'mice,': PHAOEUS KW-BG
 'be': -B
 'ready,': R-D KW-BG
-'And,': SKP KW-BG
+'And,': AFPBD KW-BG
 'wheels,': WHAOELS KW-BG
 'run': RUPB
 'steady!': STAED SKHRAPL
-'For': TPOR
+'For': KPA/TPOR
 'we': WE
 'are': R
 'going': TKPW-G
@@ -982,13 +982,13 @@ The Adventures of Chanticleer and Partlet
 'visit': SREUFT
 'to': TO
 'pay': PAEU
-'To': TO
+'To': KPA/TO
 'Mr': PH*P/R*
 'Korbes,': xxx Korbes KW-BG
 'the': -T
 'fox,': TPOBGS KW-BG
 'today.'': TOED TP-PL AE
-'Soon': SAOPB
+'Soon': KPA/SAOPB
 'after': AF
 'came': KAEUPL
 'up': UP
@@ -1016,7 +1016,7 @@ The Adventures of Chanticleer and Partlet
 'go': TKPW
 'with': W
 'them.': THEPL TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'they': THE
 'arrived': A/REUFD
 'at': AT
@@ -1083,7 +1083,7 @@ The Adventures of Chanticleer and Partlet
 'in': TPH
 'the': -T
 'towel.': TOUL TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'Mr': PH*P/R*
 'Korbes': xxx Korbes
 'came': KAEUPL
@@ -1148,7 +1148,7 @@ The Adventures of Chanticleer and Partlet
 'face': TPAEUS
 'and': SKP
 'eyes.': AO*EUS TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'was': WAS
 'very': SRE
@@ -1212,19 +1212,19 @@ The Adventures of Chanticleer and Partlet
 'the': -T
 'spot.': SPOT TP-PL
 '3.': #P- TP-PL
-'HOW': HOU
+'HOW': KPA/HOU
 'PARTLET': xxx PARTLET
-'DIED': TKAOEUD
-'AND': SKP
-'WAS': WAS
-'BURIED,': PWUR/EUD KW-BG
-'AND': SKP
-'HOW': HOU
+'DIED': KPA/TKAOEUD
+'AND': KPA/SKP
+'WAS': KPA/WAS
+'BURIED,': KPA/PWUR/EUD KW-BG
+'AND': KPA/SKP
+'HOW': KPA/HOU
 'CHANTICLEER': xxx CHANTICLEER
-'DIED': TKAOEUD
-'OF': -F
-'GRIEF': TKPWRAOEF
-'Another': TPHOER
+'DIED': KPA/TKAOEUD
+'OF': KPA/-F
+'GRIEF': KPA/TKPWRAOEF
+'Another': KPA/TPHOER
 'day': TKAEU
 'Chanticleer': xxx Chanticleer
 'and': SKP
@@ -1256,7 +1256,7 @@ The Adventures of Chanticleer and Partlet
 'equally': KWAEL
 'between': TWAOEPB
 'them.': THEPL TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'Partlet': xxx Partlet
 'found': TPOUPBD
 'a': AEU
@@ -1294,7 +1294,7 @@ The Adventures of Chanticleer and Partlet
 'in': TPH
 'her': HER
 'throat.': THROET TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'she': SHE
 'was': WAS
 'in': TPH
@@ -1306,7 +1306,7 @@ The Adventures of Chanticleer and Partlet
 'out': OUT
 'to': TO
 'Chanticleer,': xxx Chanticleer KW-BG
-''Pray': AE PRAEU
+''Pray': AE KPA/PRAEU
 'run': RUPB
 'as': AZ
 'fast': TPAFT
@@ -1335,7 +1335,7 @@ The Adventures of Chanticleer and Partlet
 'river,': REUFR KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
-''River,': AE REUFR KW-BG
+''River,': AE KPA/REUFR KW-BG
 'give': TKPWEUF
 'me': PHE
 'some': SOPL
@@ -1354,10 +1354,10 @@ The Adventures of Chanticleer and Partlet
 'a': AEU
 'great': TKPWRAET
 'nut.'': TPHUT TP-PL AE
-'The': -T
+'The': KPA/-T
 'river': REUFR
 'said,': SAEUD KW-BG
-''Run': AE RUPB
+''Run': AE KPA/RUPB
 'first': TPEUFRT
 'to': TO
 'the': -T
@@ -1381,7 +1381,7 @@ The Adventures of Chanticleer and Partlet
 'bride,': PWRAOEUD KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
-''Bride,': AE PWRAOEUD KW-BG
+''Bride,': AE KPA/PWRAOEUD KW-BG
 'you': U
 'must': PHUFT
 'give': TKPWEUF
@@ -1418,11 +1418,11 @@ The Adventures of Chanticleer and Partlet
 'a': AEU
 'great': TKPWRAET
 'nut.'': TPHUT TP-PL AE
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'bride': PWRAOEUD
 'said,': SAEUD KW-BG
-''Run': AE RUPB
+''Run': AE KPA/RUPB
 'first,': TPEUFRT KW-BG
 'and': SKP
 'bring': PWREU
@@ -1438,7 +1438,7 @@ The Adventures of Chanticleer and Partlet
 'in': TPH
 'the': -T
 'garden.'': TKPWA*RPB TP-PL AE
-'Then': THEPB
+'Then': KPA/THEPB
 'Chanticleer': xxx Chanticleer
 'ran': RAPB
 'to': TO
@@ -1511,7 +1511,7 @@ The Adventures of Chanticleer and Partlet
 'moved': PHOFD
 'any': TPHEU
 'more.': PHOR TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'Chanticleer': xxx Chanticleer
 'was': WAS
 'very': SRE
@@ -1531,7 +1531,7 @@ The Adventures of Chanticleer and Partlet
 'over': OEFR
 'poor': PAOR
 'Partlet.': xxx Partlet TP-PL
-'And': SKP
+'And': AFPBD
 'six': SEUBGS
 'mice': PHAOEUS
 'built': PWEULT
@@ -1558,21 +1558,21 @@ The Adventures of Chanticleer and Partlet
 'Chanticleer': xxx Chanticleer
 'drove': TKROEF
 'them.': THEPL TP-PL
-'On': OPB
+'On': KPA/OPB
 'the': -T
 'way': WAEU
 'they': THE
 'met': PHET
 'the': -T
 'fox.': TPOBGS TP-PL
-''Where': AE W-R
+''Where': AE KPA/W-R
 'are': R
 'you': U
 'going,': TKPW-G KW-BG
 'Chanticleer?'': xxx Chanticleer H-F AE
 'said': SAEUD
 'he.': HE TP-PL
-''To': AE TO
+''To': AE KPA/TO
 'bury': PWUR/REU
 'my': PHEU
 'Partlet,'': xxx Partlet KW-BG AE
@@ -1587,7 +1587,7 @@ The Adventures of Chanticleer and Partlet
 'said': SAEUD
 'the': -T
 'fox.': TPOBGS TP-PL
-''Yes;': AE KWRE STPH*FPLT
+''Yes;': AE KPA/KWRE STPH*FPLT
 'but': PWUT
 'you': U
 'must': PHUFT
@@ -1604,7 +1604,7 @@ The Adventures of Chanticleer and Partlet
 'to': TO
 'draw': TKRAU
 'you.'': U TP-PL AE
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'fox': TPOBGS
 'got': TKPWOT
@@ -1631,7 +1631,7 @@ The Adventures of Chanticleer and Partlet
 'upon': POPB
 'the': -T
 'hearse.': HA*ERS TP-PL
-'So': SO
+'So': KPA/SO
 'on': OPB
 'they': THE
 'went': WEPBT
@@ -1642,14 +1642,14 @@ The Adventures of Chanticleer and Partlet
 'a': AEU
 'rapid': RAPD
 'stream.': STRAOEPL TP-PL
-''How': AE HOU
+''How': AE KPA/HOU
 'shall': SHAL
 'we': WE
 'get': TKPWET
 'over?'': OEFR H-F AE
 'said': SAEUD
 'Chanticleer.': xxx Chanticleer TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'said': SAEUD
 'a': AEU
 'straw,': STRAU KW-BG
@@ -1665,7 +1665,7 @@ The Adventures of Chanticleer and Partlet
 'over': OEFR
 'upon': POPB
 'me.'': PHE TP-PL AE
-'But': PWUT
+'But': KPA/PWUT
 'as': AZ
 'the': -T
 'mice': PHAOEUS
@@ -1691,12 +1691,12 @@ The Adventures of Chanticleer and Partlet
 'and': SKP
 'were': WR
 'drowned.': TKROUPBD TP-PL
-'What': WHA
+'What': KPA/WHA
 'was': WAS
 'to': TO
 'be': -B
 'done?': TKOPB H-F
-'Then': THEPB
+'Then': KPA/THEPB
 'a': AEU
 'large': HRARPBLG
 'log': HROG
@@ -1723,7 +1723,7 @@ The Adventures of Chanticleer and Partlet
 'over': OEFR
 'upon': POPB
 'me.'': PHE TP-PL AE
-'So': SO
+'So': KPA/SO
 'he': HE
 'laid': HRAEUD
 'himself': H*EUPLS
@@ -1747,7 +1747,7 @@ The Adventures of Chanticleer and Partlet
 'by': PWEU
 'the': -T
 'stream.': STRAOEPL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'a': AEU
 'stone,': STOEPB KW-BG
 'who': WHO
@@ -1821,7 +1821,7 @@ The Adventures of Chanticleer and Partlet
 'stream': STRAOEPL
 'and': SKP
 'drowned.': TKROUPBD TP-PL
-'Thus': THUS
+'Thus': KPA/THUS
 'Chanticleer': xxx Chanticleer
 'was': WAS
 'left': HREFT
@@ -1849,7 +1849,7 @@ The Adventures of Chanticleer and Partlet
 'hillock': HEUL/OBG
 'over': OEFR
 'her.': HER TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'sat': SAT
 'down': TKOUPB

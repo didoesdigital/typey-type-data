@@ -1,13 +1,13 @@
 # A Great Grief
 
-* this `TH`
+* This `KPA/TH`
 * story `STOER`
 * really `R-L`
 * consists `KAOS`
 * of `-F`
 * two `TWO`
 * parts. `PARTS TP-PL`
-* the `-T`
+* The `KPA/-T`
 * first `TPEUFRT`
 * part `PART`
 * might `PHAOEUT`
@@ -25,22 +25,24 @@
 * these `THEZ`
 * are `R`
 * useful. `AOUFL TP-PL`
-* We `WE`
+* We `KPA/WE`
 * were `WR`
 * staying `STAEUG`
 * in `TPH`
+* the `-T`
 * country `KREU`
 * at `AT`
 * gentleman's `SKWRA*PL/AES`
 * seat, `SAOET KW-BG`
 * where `W-R`
 * happened `HAPD`
-* That `THA`
+* that `THA`
 * master `PHAFRT`
 * was `WAS`
 * absent `AB/SEPBT`
 * for `TPOR`
 * days. `TKAEUS TP-PL`
+* In `KPA/TPH`
 * meantime, `PHAO*EPB/TAOEUPL KW-BG`
 * there `THR`
 * arrived `A/REUFD`
@@ -61,7 +63,9 @@
 * shares `SHAEURS`
 * her `HER`
 * tan-yard. `TAPB H-PB KWRARD TP-PL`
+* She `KPA/SHE`
 * papers `PAEUPS`
+* we `WE`
 * advised `SRAOEUFD`
 * put `PUT`
 * them `THEPL`
@@ -72,9 +76,9 @@
 * address `A/TKRES`
 * proprietor `PRO/PRAOEU/TOR`
 * estate, `ES/TAEUT KW-BG`
-* "General `KR-GS SKWREPBL`
-* War-Commissary `WAR H-PB KPHEUS/REU`
-* Knight," `TPHAO*EUT KW-BG KR-GS`
+* "General `KR-GS SKWR*EPBL`
+* War-Commissary `WA*R H-PB KPA/KPHEUS/REU`
+* Knight," `KPA/TPHAO*EUT KW-BG KR-GS`
 * &c. `SP-PBD KR* TP-PL`
 * listened `HREUFPBD`
 * attentively, `A/TEPBT/EUFL KW-BG`
@@ -88,7 +92,7 @@
 * complied, `KPHRAOEUD KW-BG`
 * wrote; `WRO STPH*FPLT`
 * midst `PHEUDZ`
-* War-" `WAR H-PB KR-GS`
+* War-" `WA*R H-PB KR-GS`
 * struck `STRUBG`
 * fast, `TPAFT KW-BG`
 * sighed `SAOEU/-D`
@@ -97,6 +101,7 @@
 * am `APL`
 * only `OEPBL`
 * woman!" `WOPL SKHRAPL KR-GS`
+* Her `KPA/HER`
 * Puggie `xxx Puggie`
 * seated `SAOETD`
 * itself `T/SEF`
@@ -117,7 +122,7 @@
 * not `TPHOT`
 * offered `OFRD`
 * visitor. `SREUZ/TOR TP-PL`
-* His `HEUS`
+* His `KPA/HEUS`
 * outward `AOUT/WARD`
 * appearance `PAOERPBS`
 * characterized `KARBG/TRAOEUZ/-D`
@@ -127,14 +132,15 @@
 * very `SRE`
 * fat `TPAT`
 * back. `PWABG TP-PL`
-* "he `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * doesn't `TKOPBT`
 * bite," `PWAOEUT KW-BG KR-GS`
 * said `SAEUD`
+* "he `KR-GS HE`
 * has `HAS`
 * no `TPHO`
 * teeth. `TAO*ET TP-PL`
-* He `HE`
+* He `KPA/HE`
 * is `S`
 * like `HRAOEUBG`
 * one `WUPB`
@@ -162,26 +168,29 @@
 * poor `PAOR`
 * old `OLD`
 * fellow." `TPO*EUL TP-PL KR-GS`
+* And `AFPBD`
 * delivered `TKHREUFRD`
 * papers, `PAEUPS KW-BG`
 * took `TAOBG`
 * upon `POPB`
 * arm. `ARPL TP-PL`
+* this `TH`
 * which `WEU`
 * been `PW-PB`
 * out. `OUT TP-PL`
 * PUGGIE `xxx PUGGIE`
-* DIED!! `TKAOEUD SKHRAPL SKHRAPL`
-* That's `THA AES`
+* DIED!! `KPA/TKAOEUD SKHRAPL SKHRAPL`
+* That's `KPA/THA AES`
 * second `SEBGD`
 * part. `PART TP-PL`
+* It `KPA/T`
 * about `PW`
 * week `WAOEBG`
 * afterwards `A*FRDZ`
 * town, `TOUPB KW-BG`
 * up `UP`
 * inn. `TPH*PB TP-PL`
-* our `OUR`
+* Our `KPA/OUR`
 * windows `WO*EUPBDZ`
 * looked `HRAOBGD`
 * into `TPHAO`
@@ -196,7 +205,7 @@
 * hides, `HAOEUDZ KW-BG`
 * raw `RAU`
 * tanned. `TAPB/-D TP-PL`
-* Here `HAOER`
+* Here `KPA/HAOER`
 * all `AUL`
 * apparatus `AP/RATS`
 * necessary `TPHES`
@@ -283,6 +292,7 @@
 * place, `PHRAEUS KW-BG`
 * gave `TKPWAEUF`
 * button. `PW*UPBT TP-PL`
+* Many `KPA/PHAEPB`
 * noticed `TPH-TSD`
 * go `TKPW`
 * afternoon `AFPB`
@@ -291,6 +301,7 @@
 * sight `SAOEUT`
 * worth `WO*RT`
 * more. `PHOR TP-PL`
+* But `KPA/PWUT`
 * front `TPROPBT`
 * close `KHROES`
 * entrance, `SPWRAPBS KW-BG`
@@ -356,9 +367,11 @@
 * above; `PWOF STPH*FPLT`
 * above, `PWOF KW-BG`
 * how `HOU`
+* our `OUR`
 * own `OEPB`
 * make `PHAEUBG`
 * smile! `SPHAOEUL SKHRAPL`
+* That `KPA/THA`
 * story, `STOER KW-BG`
 * whoever `WHOFR`
 * does `TKOS`

@@ -1,6 +1,6 @@
 # By the Almshouse Window
 
-* Near `TPHAOER`
+* Near `KPA/TPHAOER`
 * the `-T`
 * grass-covered `TKPWRAS H-PB KOFRD`
 * rampart `RAFRP/ART`
@@ -12,13 +12,13 @@
 * great `TKPWRAET`
 * red `RED`
 * house. `HOUS TP-PL`
-* Balsams `PWAL/SAPL/-S`
+* Balsams `xxx Balsams`
 * and `SKP`
 * other `OER`
 * flowers `TPHRO*URS`
 * greet `TKPWRAOET`
 * us `US`
-* From `TPR`
+* from `TPR`
 * long `HROPBG`
 * rows `RO*EZ`
 * of `-F`
@@ -30,24 +30,25 @@
 * is `S`
 * sufficiently `SUFL`
 * poverty-stricken; `POFRT H-PB STREUPB STPH*FPLT`
-* Poor `PAOR`
+* poor `PAOR`
 * old `OLD`
 * are `R`
-* People `PAOEPL`
+* people `PAOEPL`
 * who `WHO`
 * inhabit `TPHABT`
 * it. `T TP-PL`
+* The `KPA/-T`
 * building `PW-LG`
 * Warton `xxx Warton`
-* Almshouse. `AUPLS/HOUS TP-PL`
-* Look! `HRAOBG SKHRAPL`
+* Almshouse. `KPA/AUPLS/HOUS TP-PL`
+* Look! `KPA/HRAOBG SKHRAPL`
 * at `AT`
 * window `WOEUPBD`
 * there `THR`
 * leans `HRAOEPBS`
 * an `APB`
 * maid. `PHAEUD TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * plucks `PHRUBG/-S`
 * withered `WEU/THER/-D`
 * leaf `HRAOEF`
@@ -58,7 +59,7 @@
 * many `PHAEPB`
 * children `KHEURPB`
 * playing. `PHRA*EUG TP-PL`
-* what `WHA`
+* What `KPA/WHA`
 * maid `PHAEUD`
 * thinking `THEUG`
 * of? `-F H-F`
@@ -72,7 +73,7 @@
 * her `HER`
 * inward `EUPB/WARD`
 * gaze. `TKPWAEZ TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * little `HREUL`
 * children, `KHEURPB KW-BG`
 * how `HOU`
@@ -84,14 +85,16 @@
 * romp `ROFRP`
 * together! `TOGT SKHRAPL`
 * cheeks `KHAOEBGS`
+* what `WHA`
 * angels' `A*EPBLG/-S AE`
 * eyes! `AO*EUS SKHRAPL`
 * but `PWUT`
 * have `SR`
 * no `TPHO`
 * shoes `SHAOUS`
-* Nor `TPH-R`
+* nor `TPH-R`
 * stockings. `STOBG/-G/-S TP-PL`
+* They `KPA/THE`
 * dance `TKAPBS`
 * green `TKPWRAOEPB`
 * just `SKWRUFT`
@@ -164,10 +167,11 @@
 * them `THEPL`
 * tears `TAERS`
 * woe. `WOE TP-PL`
+* Nor `KPA/TPH-R`
 * do `TKO`
 * anything `TPHEUG`
 * Danish `TKAEUPB/EURB`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * here, `HAOER KW-BG`
 * face `TPAEUS`
 * coming `KO*G`
@@ -200,16 +204,17 @@
 * snow `STPHOE`
 * surprise `SPRAOEUS`
 * city. `STEU TP-PL`
-* "No! `KR-GS TPHO SKHRAPL`
+* "No! `KR-GS KPA/TPHO SKHRAPL`
 * ones `WUPBZ`
 * playing `PHRA*EUG`
 * light, `HRAOEUT KW-BG`
 * childish `KHAOEUL/TKEURB`
 * spirits. `SPEURTS TP-PL`
+* Play `KPA/PHRAEU`
 * on, `OPB KW-BG`
 * thou `THO*U`
 * maiden! `PHAEUD/*EPB SKHRAPL`
-* Soon `SAOPB`
+* Soon `KPA/SAOPB`
 * years `KWRAOERS`
 * will `HR`
 * come—yes, `KOPL EPL/TKA*RB KWRE KW-BG`
@@ -224,11 +229,12 @@
 * hand `HAPBD`
 * walk `WAUBG`
 * rampart. `RAFRP/ART TP-PL`
+* Thou `KPA/THO*U`
 * hast `HA*FT`
 * white `WHAOEUT`
 * frock `TPROBG`
 * on; `OPB STPH*FPLT`
-* It `T`
+* it `T`
 * has `HAS`
 * cost `KOFT`
 * thy `THAO*EU`
@@ -242,7 +248,7 @@
 * thee `THAOE`
 * larger `HRARPBLG/ER`
 * dress! `TKRES SKHRAPL`
-* You `U`
+* You `KPA/U`
 * also `HR-S`
 * wear `WAER`
 * shawl; `SHAUL STPH*FPLT`
@@ -251,6 +257,7 @@
 * too `TAO`
 * far `TPAR`
 * down? `TKOUPB H-F`
+* People `KPA/PAOEPL`
 * see `SAOE`
 * large, `HRARPBLG KW-BG`
 * very `SRE`
@@ -258,16 +265,17 @@
 * is. `S TP-PL`
 * your `KWROUR`
 * dress, `TKRES KW-BG`
-* Giver `TKPWEUFR`
+* Giver `KPA/TKPWEUFR`
 * good—so `TKPWAOD EPL/TKA*RB SO`
 * wander `WAERPBD`
 * rampart! `RAFRP/ART SKHRAPL`
-* "And `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * roll `ROL`
 * by; `PWEU STPH*FPLT`
 * lack `HRABG`
-* Dark `TKARBG`
+* dark `TKARBG`
 * days, `TKAEUS KW-BG`
+* you `U`
 * cheerful `KHAOER/-FL`
 * young `KWRUPBG`
 * spirit, `SPEURT KW-BG`
@@ -297,27 +305,29 @@
 * song `SOPBG`
 * praise `PRAEUS`
 * spring. `SPREUPBG TP-PL`
-* "Scarcely `KR-GS SKAEURS/HREU`
+* "Scarcely `KR-GS KPA/SKAEURS/HREU`
 * violets `SROEULT/-S`
 * forth, `TPO*RT KW-BG`
 * opposite `OP/SEUT`
 * beautiful `PWAOUFL`
-* Castle `KAFL`
+* Castle `KPA/KAFL`
 * Rosenberg, `xxx Rosenberg KW-BG`
 * tree `TRAOE`
 * bright `PWRAOEUT`
 * first `TPEUFRT`
 * buds. `PWUDZ TP-PL`
-* Every `EF`
+* Every `KPA/EF`
 * year `KWRAOER`
 * this `TH`
 * sends `SEPBDZ`
 * forth `TPO*RT`
 * shoots. `SHAOTS TP-PL`
-* Alas! `A/HRAS SKHRAPL`
+* Alas! `KPA/A/HRAS SKHRAPL`
+* It `KPA/T`
 * so `SO`
 * human `HAOUPL`
 * heart! `HART SKHRAPL`
+* Dark `KPA/TKARBG`
 * mists, `PHEUFT/-S KW-BG`
 * more `PHOR`
 * number `TPHUPL`
@@ -327,6 +337,7 @@
 * skies, `SKAOEUS KW-BG`
 * cloud `KHROUD`
 * heart. `HART TP-PL`
+* Poor `KPA/PAOR`
 * child! `KHAOEULD SKHRAPL`
 * friend's `TPREPBD/AES`
 * bridal `PWRAOEU/TKAL`
@@ -334,6 +345,7 @@
 * black `PWHRABG`
 * coffin, `KOFPB KW-BG`
 * becomest `xxx becomest`
+* From `KPA/TPR`
 * almshouse `AUPLS/HOUS`
 * window, `WOEUPBD KW-BG`
 * behind `HEUPBD`
@@ -346,8 +358,10 @@
 * own `OEPB`
 * history `HEUFRT`
 * renewed." `RE/TPHAOUD TP-PL KR-GS`
+* And `AFPBD`
 * passes `PA*FS`
 * while `WHAOEUL`
+* she `SHE`
 * green, `TKPWRAOEPB KW-BG`
 * sunny `SAOUPB`
 * their `THAEUR`

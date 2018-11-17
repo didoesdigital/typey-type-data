@@ -1,6 +1,6 @@
 # The Snail and the Rose-Tree
 
-* Round `ROUPBD`
+* Round `KPA/ROUPBD`
 * about `PW`
 * the `-T`
 * garden `TKPWA*RPB`
@@ -14,19 +14,19 @@
 * fields `TPAOELDZ`
 * and `SKP`
 * meadows `PHED/OES`
-* With `W`
+* with `W`
 * cows `KOUS`
 * sheep; `SHAOEP STPH*FPLT`
 * but `PWUT`
 * in `TPH`
 * middle `PH*EULD`
 * stood `STAOD`
-* rose-tree `ROEZ H-PB TRAOE`
+* Rose-tree `RO*ES H-PB TRAOE`
 * bloom, `PWHRAOPL KW-BG`
 * under `*UPBD`
 * which `WEU`
 * sat `SAT`
-* Snail, `STPHAEUL KW-BG`
+* Snail, `KPA/STPHAEUL KW-BG`
 * whose `WHOZ`
 * shell `SHEL`
 * contained `TAEUPBD`
@@ -34,7 +34,7 @@
 * deal—that `TKAOEL EPL/TKA*RB THA`
 * is, `S KW-BG`
 * himself. `H*EUPLS TP-PL`
-* "Only `KR-GS OEPBL`
+* "Only `KR-GS KPA/OEPBL`
 * wait `WAEUT`
 * till `T*EUL`
 * my `PHEU`
@@ -43,7 +43,7 @@
 * he `HE`
 * said; `SAEUD STPH*FPLT`
 * "I `KR-GS EU`
-* Shall `SHAL`
+* shall `SHAL`
 * do `TKO`
 * more `PHOR`
 * than `THAPB`
@@ -62,26 +62,27 @@
 * from `TPR`
 * you," `U KW-BG KR-GS`
 * said `SAEUD`
-* rose-tree. `ROEZ H-PB TRAOE TP-PL`
+* rose-tree. `ROES H-PB TRAOE TP-PL`
 * "May `KR-GS PHAE`
 * I `EU`
 * ask `SK`
 * when `WHEPB`
-* It `T`
+* it `T`
 * will `HR`
 * appear?" `A/PAOER H-F KR-GS`
 * take `TAEUBG`
 * time," `TAOEUPL KW-BG KR-GS`
 * snail. `STPHAEUL TP-PL`
-* "You're `KR-GS U AE RE/SP-S`
+* "You're `KR-GS KPA/U AE RE/SP-S`
 * always `AULS`
 * such `SUFP`
 * hurry. `HUR/REU TP-PL`
-* That `THA`
+* That `KPA/THA`
 * does `TKOS`
 * not `TPHOT`
 * excite `KPAOEUT`
 * expectation." `KP-PT/AEUGS TP-PL KR-GS`
+* The `KPA/-T`
 * following `TPOLG`
 * year `KWRAOER`
 * snail `STPHAEUL`
@@ -90,7 +91,7 @@
 * same `SAEUPL`
 * spot, `SPOT KW-BG`
 * sunshine `SUPB/SHAO*EUPB`
-* rose-tree, `ROEZ H-PB TRAOE KW-BG`
+* rose-tree, `ROES H-PB TRAOE KW-BG`
 * was `WAS`
 * again `TKPWEPB`
 * budding `PWUD/-G`
@@ -102,7 +103,7 @@
 * ever. `-FR TP-PL`
 * crept `KREPT`
 * half `HAF`
-* Out `OUT`
+* out `OUT`
 * his `HEUS`
 * shell, `SHEL KW-BG`
 * stretched `STREFPD`
@@ -110,19 +111,21 @@
 * drew `TKRAOU`
 * them `THEPL`
 * again. `TKPWEPB TP-PL`
-* "Everything `KR-GS EFG`
+* "Everything `KR-GS KPA/EFG`
 * is `S`
 * just `SKWRUFT`
 * last `HRAFT`
 * year! `KWRAOER SKHRAPL`
-* no `TPHO`
+* No `KPA/TPHO`
 * progress `PROG`
 * at `AT`
 * all; `AUL STPH*FPLT`
+* rose-tree `ROES H-PB TRAOE`
 * sticks `STEUBGS`
 * to `TO`
 * its `EUTS`
 * gets `TKPWETS`
+* no `TPHO`
 * farther." `TPA*RT TP-PL KR-GS`
 * summer `SAOURPL`
 * autumn `AU/UPL`
@@ -135,7 +138,7 @@
 * became `PWAEUPL`
 * raw `RAU`
 * wet; `WET STPH*FPLT`
-* Then `THEPB`
+* then `THEPB`
 * bent `PWEPBT`
 * down `TKOUPB`
 * head, `HED KW-BG`
@@ -148,7 +151,7 @@
 * their `THAEUR`
 * appearance, `PAOERPBS KW-BG`
 * too. `TAO TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * are `R`
 * an `APB`
 * old `OLD`
@@ -157,11 +160,13 @@
 * make `PHAEUBG`
 * haste `HAEUFT`
 * die. `TKAOEU TP-PL`
-* you `U`
+* You `KPA/U`
 * have `SR`
 * given `TKPWEUFPB`
 * world `WORLD`
 * all `AUL`
+* that `THA`
+* you `U`
 * had `H`
 * you; `U STPH*FPLT`
 * whether `WHR`
@@ -170,6 +175,7 @@
 * question `KWE`
 * think `THEU`
 * about. `PW TP-PL`
+* But `KPA/PWUT`
 * this `TH`
 * clear `KHRAOER`
 * plain, `PHRAEUPB KW-BG`
@@ -183,6 +189,7 @@
 * produced `PRO*UD`
 * something `S-G`
 * else. `ELS TP-PL`
+* Have `KPA/SR`
 * anything `TPHEUG`
 * say `SAEU`
 * defence? `TKEFPB/A*U H-F`
@@ -191,16 +198,17 @@
 * be `-B`
 * nothing `TPHOG`
 * stick. `STEUBG TP-PL`
+* Do `KPA/TKO`
 * understand `URPBD`
-* What `WHA`
+* what `WHA`
 * say?" `SAEU H-F KR-GS`
 * frighten `TPRAOEUFPB`
 * me," `PHE KW-BG KR-GS`
-* rose—tree. `ROEZ EPL/TKA*RB TRAOE TP-PL`
+* rose—tree. `ROES EPL/TKA*RB TRAOE TP-PL`
 * never `TPHEF`
 * thought `THAUT`
 * that." `THA TP-PL KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * taken `TAEPB`
 * trouble `TRUBL`
 * all. `AUL TP-PL`
@@ -215,7 +223,7 @@
 * about—why `PW EPL/TKA*RB KWR`
 * way `WAEU`
 * other?" `OER H-F KR-GS`
-* "No," `KR-GS TPHO KW-BG KR-GS`
+* "No," `KR-GS KPA/TPHO KW-BG KR-GS`
 * bloom `PWHRAOPL`
 * gladness, `TKPWHRAD/-PBS KW-BG`
 * because `PWAU`
@@ -234,6 +242,7 @@
 * rain. `RAEUPB TP-PL`
 * breathed `PWRAO*ETD`
 * lived! `HREUFD SKHRAPL`
+* Out `KPA/OUT`
 * earth `*ERT`
 * there `THR`
 * arose `A/ROES`
@@ -261,14 +270,14 @@
 * easy `EZ`
 * life," `HRAOEUF KW-BG KR-GS`
 * remarked `RARBGD`
-* "Certainly. `KR-GS SERPBL TP-PL`
-* Everything `EFG`
-* "But `KR-GS PWUT`
+* "Certainly. `KR-GS KPA/SERPBL TP-PL`
+* Everything `KPA/EFG`
+* "But `KR-GS KPA/PWUT`
 * still `STEUL`
 * you. `U TP-PL`
-* Yours `KWROURS`
+* Yours `KPA/KWROURS`
 * one `WUPB`
-* Those `THOZ`
+* those `THOZ`
 * deep-thinking `TKAOEP H-PB THEUG`
 * natures, `TPHAEURTS KW-BG`
 * highly `HAOEUL`
@@ -280,8 +289,9 @@
 * intention `SPWEPBGS`
 * doing `TK*G`
 * so," `SO KW-BG KR-GS`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * me. `PHE TP-PL`
+* What `KPA/WHA`
 * world? `WORLD H-F`
 * enough `TPHUF`
 * myself, `PHAO*EUS KW-BG`
@@ -296,6 +306,7 @@
 * offer `OFR`
 * lies `HRAO*EUS`
 * power? `POUR H-F`
+* It `KPA/T`
 * true, `TRAOU KW-BG`
 * only `OEPBL`
 * roses. `ROESZ TP-PL`
@@ -305,7 +316,7 @@
 * richly `REUFP/HREU`
 * endowed—what `EPB/TKOU/-D EPL/TKA*RB WHA`
 * it?" `T H-F KR-GS`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * given? `TKPWEUFPB H-F`
 * am `APL`
 * going `TKPW-G`
@@ -316,10 +327,11 @@
 * good `TKPWAOD`
 * nothing, `TPHOG KW-BG`
 * concern `K-RPB`
+* For `KPA/TPOR`
 * part, `PART KW-BG`
 * may `PHAE`
 * roses; `ROESZ STPH*FPLT`
-* Let `HRET`
+* Let `KPA/HRET`
 * hazel `HAEUZ/EL`
 * bush `PWURB`
 * sheep `SHAOEP`
@@ -333,19 +345,21 @@
 * myself `PHAO*EUS`
 * stop. `STOP TP-PL`
 * me." `PHE TP-PL KR-GS`
+* With `KPA/W`
 * withdrew `WRAOU`
 * house `HOUS`
 * blocked `PWHROBGD`
 * entrance. `SPWRAPBS TP-PL`
 * "That's `KW-GS/KPA*/THATS`
 * sad," `SAD KW-BG KR-GS`
-* rose `ROEZ`
+* rose `ROES`
 * tree. `TRAOE TP-PL`
 * creep `KRAOEP`
 * however `HOUF`
 * might `PHAOEUT`
 * wish `WEURB`
 * so; `SO STPH*FPLT`
+* Then `KPA/THEPB`
 * drop `TKROP`
 * leaves, `HREFS KW-BG`
 * blown `PWHROEPB`
@@ -374,8 +388,10 @@
 * good; `TKPWAOD STPH*FPLT`
 * real `RAEL`
 * blessing. `PWHR*EFG TP-PL`
+* Those `KPA/THOZ`
 * recollections, `REBGT/-G/-S KW-BG`
 * life." `HRAOEUF TP-PL KR-GS`
+* And `AFPBD`
 * tree `TRAOE`
 * went `WEPBT`
 * innocence, `TPHEPBS KW-BG`
@@ -383,12 +399,12 @@
 * idling `AOEUD/-LG`
 * house—the `HOUS EPL/TKA*RB -T`
 * him. `HEUPL TP-PL`
-* Years `KWRAOERS`
+* Years `KPA/KWRAOERS`
 * passed `PAFD`
 * by. `PWEU TP-PL`
 * turned `TURPBD`
 * earth, `*ERT KW-BG`
-* Even `AOEPB`
+* Even `KPA/AOEPB`
 * souvenir `SOF/TPHAOER`
 * hymn-book `H*EUPL H-PB PWAOBG`
 * faded, `TPAEUD/-D KW-BG`
@@ -400,6 +416,7 @@
 * spat `SPAT`
 * world, `WORLD KW-BG`
 * them. `THEPL TP-PL`
+* Shall `KPA/SHAL`
 * read `RAED`
 * story `STOER`
 * over `OEFR`

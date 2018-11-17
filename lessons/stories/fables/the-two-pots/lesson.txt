@@ -1,7 +1,7 @@
 The Two Pots
 
-'Two': TWO
-'Pots': POTS
+'Two': KPA/TWO
+'Pots': KPA/POTS
 'had': H
 'been': PW-PB
 'left': HREFT
@@ -18,10 +18,10 @@ The Two Pots
 'one': WUPB
 'of': -F
 'earthenware.': *ERT/*EPB/WA*EUR TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'the': -T
 'tide': TAOEUD
-'rose': ROEZ
+'rose': ROES
 'they': THE
 'both': PWO*T
 'floated': TPHROET/-D
@@ -29,7 +29,7 @@ The Two Pots
 'down': TKOUPB
 'the': -T
 'stream.': STRAOEPL TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'the': -T
 'earthenware': *ERT/*EPB/WA*EUR
 'pot': POT
@@ -46,7 +46,7 @@ The Two Pots
 'which': WEU
 'cried': KRAOEUD
 'out:': OUT STPH-FPLT
-'"Fear': KR-GS TPAOER
+'"Fear': KR-GS KPA/TPAOER
 'nothing,': TPHOG KW-BG
 'friend,': TPREPBD KW-BG
 'I': EU
@@ -54,7 +54,7 @@ The Two Pots
 'not': TPHOT
 'strike': STRAOEUBG
 'you."': U TP-PL KR-GS
-'"But': KR-GS PWUT
+'"But': KR-GS KPA/PWUT
 'I': EU
 'may': PHAE
 'come': KOPL
@@ -84,7 +84,7 @@ The Two Pots
 'suffer': SUFR
 'for': TPOR
 'it."': T TP-PL KR-GS
-'The': -T
+'The': KPA/-T
 'strong': STROPBG
 'and': SKP
 'the': -T

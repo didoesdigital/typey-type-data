@@ -1,12 +1,12 @@
 # The Flax
 
-* the `-T`
+* The `KPA/-T`
 * flax `TPHRA*BGS`
 * was `WAS`
 * in `TPH`
 * full `TPUL`
 * bloom; `PWHRAOPL STPH*FPLT`
-* It `T`
+* it `T`
 * had `H`
 * pretty `PREUT`
 * little `HREUL`
@@ -14,6 +14,7 @@
 * flowers `TPHRO*URS`
 * as `AZ`
 * delicate `TKEL/KAT`
+* the `-T`
 * wings `WEUPBGS`
 * of `-F`
 * a `AEU`
@@ -37,12 +38,12 @@
 * to `TO`
 * be `-B`
 * washed `WARBD`
-* Then `THEPB`
+* then `THEPB`
 * kissed `K*EUFD`
 * by `PWEU`
 * their `THAEUR`
 * mother. `PHOER TP-PL`
-* they `THE`
+* They `KPA/THE`
 * look `HRAOBG`
 * much `PHUFP`
 * prettier `PRET/KWRER`
@@ -50,7 +51,7 @@
 * so `SO`
 * did `TK`
 * flax. `TPHRA*BGS TP-PL`
-* "People `KR-GS PAOEPL`
+* "People `KR-GS KPA/PAOEPL`
 * say `SAEU`
 * that `THA`
 * I `EU`
@@ -67,7 +68,7 @@
 * beautiful `PWAOUFL`
 * piece `PAOES`
 * linen. `HREUPB/-PB TP-PL`
-* How `HOU`
+* How `KPA/HOU`
 * fortunate `TP-RPBT`
 * am; `APL STPH*FPLT`
 * makes `PHAEUBGS`
@@ -84,21 +85,22 @@
 * sunshine `SUPB/SHAO*EUPB`
 * cheers `KHAOERS`
 * me, `PHE KW-BG`
+* how `HOU`
 * sweet `SWAOET`
 * refreshing `RE/TPRERB/-G`
 * rain; `RAEUPB STPH*FPLT`
 * my `PHEU`
 * happiness `HAEP/-PBS`
 * overpowers `AUFR/POUR/-S`
-* No `TPHO`
+* no `TPHO`
 * one `WUPB`
 * world `WORLD`
 * feel `TPAOEL`
 * happier `HAP/KWRER`
 * than `THAPB`
 * am." `APL TP-PL KR-GS`
-* "Ah, `KR-GS HA*E KW-BG`
-* Yes, `KWRE KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
+* yes, `KWRE KW-BG`
 * doubt," `TKOUT KW-BG KR-GS`
 * fern, `TPERPB KW-BG`
 * "but `KR-GS PWUT`
@@ -114,16 +116,16 @@
 * sung `SUPBG`
 * quite `KWAOEUT`
 * mournfully— `PHOURPB/-FL/HREU EPL/TKA*RB`
-* "Snip, `KR-GS STPHEUP KW-BG`
+* "Snip, `KR-GS KPA/STPHEUP KW-BG`
 * snap, `STPHAP KW-BG`
 * snurre, `xxx snurre KW-BG`
 * Basse `xxx Basse`
 * lurre: `xxx lurre STPH-FPLT`
 * song `SOPBG`
 * ended." `EPBD/-D TP-PL KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * ended," `EPBD/-D KW-BG KR-GS`
-* "To-morrow `KR-GS TO H-PB PHOR/ROE`
+* "To-morrow `KR-GS KPA/TO H-PB PHOR/ROE`
 * will `HR`
 * shine, `SHAOEUPB KW-BG`
 * rain `RAEUPB`
@@ -133,10 +135,10 @@
 * happiest `HAP/KWREFT`
 * all `AUL`
 * creatures." `KRAOEFPS TP-PL KR-GS`
-* Well, `WEL KW-BG`
+* Well, `KPA/WEL KW-BG`
 * day `TKAEU`
 * some `SOPL`
-* People `PAOEPL`
+* people `PAOEPL`
 * came, `KAEUPL KW-BG`
 * who `WHO`
 * took `TAOBG`
@@ -148,6 +150,7 @@
 * laid `HRAEUD`
 * water `WAUR`
 * if `TP`
+* they `THE`
 * intended `SPWEPBD/-D`
 * drown `TKROUPB`
 * and, `SKP KW-BG`
@@ -160,7 +163,7 @@
 * roasted; `ROEFT/-D STPH*FPLT`
 * very `SRE`
 * shocking. `SHOBG/-G TP-PL`
-* "we `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * cannot `K/TPHOT`
 * expect `KP-PT`
 * happy `HAEP`
@@ -173,10 +176,12 @@
 * we `WE`
 * become `PW-BG`
 * wise." `WAOEUS TP-PL KR-GS`
+* And `AFPBD`
 * certainly `SERPBL`
 * there `THR`
 * plenty `PHREPBT`
 * store `STOR`
+* It `KPA/T`
 * steeped, `STAOEP/-D KW-BG`
 * roasted, `ROEFT/-D KW-BG`
 * broken, `PWROEPB KW-BG`
@@ -184,10 +189,10 @@
 * indeed, `TPHAOEPBD KW-BG`
 * scarcely `SKAEURS/HREU`
 * knew `TPHAOU`
-* What `WHA`
+* what `WHA`
 * done `TKOPB`
 * it. `T TP-PL`
-* at `AT`
+* At `KPA/AT`
 * last `HRAFT`
 * put `PUT`
 * on `OPB`
@@ -202,7 +207,7 @@
 * collect `KHREBGT`
 * its `EUTS`
 * thoughts. `THAUTS TP-PL`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * have `SR`
 * been `PW-PB`
 * happy," `HAEP KW-BG KR-GS`
@@ -220,6 +225,7 @@
 * loom, `HRAOPL KW-BG`
 * became `PWAEUPL`
 * white `WHAOEUT`
+* All `KPA/AUL`
 * stalk, `STAUBG KW-BG`
 * used `AOUFD`
 * making `PHAEUG`
@@ -231,9 +237,9 @@
 * fortune. `TP-RPB TP-PL`
 * fern `TPERPB`
 * wrong `WROPBG`
-* 'Snip, `AE STPHEUP KW-BG`
+* 'Snip, `AE KPA/STPHEUP KW-BG`
 * lurre.' `xxx lurre TP-PL AE`
-* But `PWUT`
+* But `KPA/PWUT`
 * ended `EPBD/-D`
 * yet, `KWRET KW-BG`
 * sure; `SHUR STPH*FPLT`
@@ -242,6 +248,7 @@
 * wonderful `WUFL`
 * is, `S KW-BG`
 * suffered, `SUFRD KW-BG`
+* at `AT`
 * last; `HRAFT STPH*FPLT`
 * luckiest `HRUBG/KWREFT`
 * person `PERPB`
@@ -250,12 +257,14 @@
 * fine; `TPAOEUPB STPH*FPLT`
 * white, `WHAOEUT KW-BG`
 * length! `HREPBG SKHRAPL`
+* This `KPA/TH`
 * different `TKEUFRT`
 * being `-BG`
 * mere `PHAOER`
 * plant `PHRAPBT`
 * bearing `PWAERG`
 * flowers. `TPHRO*URS TP-PL`
+* Then `KPA/THEPB`
 * attention, `A/T-PBGS KW-BG`
 * nor `TPH-R`
 * any `TPHEU`
@@ -266,7 +275,7 @@
 * taken `TAEPB`
 * care `KAEUR`
 * of. `-F/TP-PL`
-* every `EF`
+* Every `KPA/EF`
 * morning `PHORPBG`
 * maid `PHAEUD`
 * turns `TURPBS`
@@ -274,7 +283,9 @@
 * shower-bath `SHOUR H-PB PWA*T`
 * from `TPR`
 * watering-pot `WAURPBG H-PB POT`
+* every `EF`
 * evening. `AOEPBG TP-PL`
+* Yes, `KPA/KWRE KW-BG`
 * clergyman's `KHRERPBLG/PHAPB AES`
 * wife `WAOEUF`
 * noticed `TPH-TSD`
@@ -283,6 +294,7 @@
 * whole `WHOEL`
 * parish. `PAR/EURB TP-PL`
 * now." `TPHOU TP-PL KR-GS`
+* After `KPA/AF`
 * time, `TAOEUPL KW-BG`
 * into `TPHAO`
 * house, `HOUS KW-BG`
@@ -294,6 +306,7 @@
 * pricked `PREUBGD`
 * needles. `TPHAO*ELDZ TP-PL`
 * pleasant; `PHREFPBT STPH*FPLT`
+* but `PWUT`
 * twelve `TWEFL`
 * garments `TKPWARPLTS`
 * kind `KEUPBD`
@@ -303,13 +316,13 @@
 * everybody `EFB`
 * wear `WAER`
 * one. `WUPB TP-PL`
-* "See, `KR-GS SAOE KW-BG`
+* "See, `KR-GS KPA/SAOE KW-BG`
 * then," `THEPB KW-BG KR-GS`
 * "I `KR-GS EU`
 * importance. `PORPBS TP-PL`
 * destiny; `TKEFT/TPHEU STPH*FPLT`
 * blessing. `PWHR*EFG TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * use `AOUS`
 * world, `WORLD KW-BG`
 * everyone `EFRPB`
@@ -317,23 +330,25 @@
 * be; `-B STPH*FPLT`
 * way `WAEU`
 * happy. `HAEP TP-PL`
+* now `TPHOU`
 * divided `TKWAOEUTD`
 * same `SAEUPL`
 * dozen. `TKOZ TP-PL`
 * most `PHOFT`
 * extraordinary `KPRORD`
 * fortune." `TP-RPB TP-PL KR-GS`
-* Years `KWRAOERS`
+* Years `KPA/KWRAOERS`
 * passed `PAFD`
 * away, `A/WAEU KW-BG`
 * worn `WORPB`
 * together. `TOGT TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * end `EPBD`
 * soon," `SAOPB KW-BG KR-GS`
 * pieces `PAOEFS`
-* Each `AOEFP`
+* each `AOEFP`
 * other; `OER STPH*FPLT`
+* "we `KR-GS WE`
 * would `WO`
 * gladly `TKPWHRAD/HREU`
 * held `HELD`
@@ -406,7 +421,7 @@
 * understand `URPBD`
 * myself, `PHAO*EUS KW-BG`
 * really `R-L`
-* Heaven `HEFPB`
+* Heaven `KPA/HEFPB`
 * knows `TPHOEZ`
 * nothing `TPHOG`
 * obliged `OE/PWHRAOEUPBLGD`
@@ -417,6 +432,7 @@
 * promoted `PROEPLTD`
 * honor `HO*RPB`
 * another. `TPHOER TP-PL`
+* Each `KPA/AOEFP`
 * time `TAOEUPL`
 * think `THEU`
 * ended; `EPBD/-D STPH*FPLT`
@@ -459,7 +475,7 @@
 * half `HAF`
 * through `THRU`
 * journey. `SKWRURPB TP-PL`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * wisest `WAOEUZ/*ES`
 * plan," `PHRAPB KW-BG KR-GS`
 * that. `THA TP-PL`
@@ -474,6 +490,7 @@
 * good. `TKPWAOD TP-PL`
 * wandered `WAPBD/-D`
 * do. `TKO TP-PL`
+* Yet `KPA/KWRET`
 * wrote `WRO`
 * has `HAS`
 * looked `HRAOBGD`
@@ -491,7 +508,7 @@
 * tub `TUB`
 * stood `STAOD`
 * washhouse. `xxx washhouse TP-PL`
-* "After `KR-GS AF`
+* "After `KR-GS KPA/AF`
 * work, `WORBG KW-BG`
 * rest," `REFT KW-BG KR-GS`
 * opportunity `TAOUPBT`
@@ -503,7 +520,9 @@
 * self `S*EF`
 * true `TRAOU`
 * progress. `PROG TP-PL`
+* What `KPA/WHA`
 * wonder? `WOPBD H-F`
+* No `KPA/TPHO`
 * doubt `TKOUT`
 * still `STEUL`
 * forward. `TPAORD TP-PL`
@@ -515,6 +534,7 @@
 * out, `OUT KW-BG`
 * hearth `HAERT`
 * burnt. `PWURPBT TP-PL`
+* People `KPA/PAOEPL`
 * sold `SOELD`
 * shop, `SHOP KW-BG`
 * wrap `WRAP`
@@ -551,7 +571,7 @@
 * often `OFPB`
 * come; `KOPL STPH*FPLT`
 * cry, `KRAOEU KW-BG`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * goes `TKPW-S`
 * schoolmaster;" `xxx schoolmaster STPH*FPLT KR-GS`
 * next `TPHEGT`
@@ -562,7 +582,7 @@
 * beautifully. `PWAOUFL/HREU TP-PL`
 * where `W-R`
 * to! `TO SKHRAPL`
-* Perhaps `PRAPS`
+* Perhaps `KPA/PRAPS`
 * find `TPEUPBD`
 * day, `TKAEU KW-BG`
 * don't `TKOEPBT`
@@ -570,7 +590,7 @@
 * fire, `TPAOEUR KW-BG`
 * soon `SAOPB`
 * alight. `A/HRAOEUT TP-PL`
-* "Ugh," `KR-GS UG KW-BG KR-GS`
+* "Ugh," `KR-GS KPA/UG KW-BG KR-GS`
 * cried `KRAOEUD`
 * burst `PWUFRT`
 * bright `PWRAOEUT`
@@ -591,7 +611,7 @@
 * moment, `PHOEPLT KW-BG`
 * turned `TURPBD`
 * fire. `TPAOEUR TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * mounting `PHOUPBT/-G`
 * straight `STRAEUT`
 * sun," `SUPB KW-BG KR-GS`
@@ -623,7 +643,7 @@
 * whenever `WHEFR`
 * touched `TUFPD`
 * appeared. `A/PAOERD TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * schoolmaster `xxx schoolmaster`
 * all," `AUL KW-BG KR-GS`
 * children. `KHEURPB TP-PL`

@@ -1,6 +1,6 @@
 # The Fisher and the Little Fish
 
-* It `T`
+* It `KPA/T`
 * happened `HAPD`
 * that `THA`
 * a `AEU`
@@ -12,14 +12,15 @@
 * caught `KAUT`
 * only `OEPBL`
 * little `HREUL`
-* Fish. `TPEURB TP-PL`
-* "Pray, `KR-GS PRAEU KW-BG`
+* fish. `TPEURB TP-PL`
+* "Pray, `KR-GS KPA/PRAEU KW-BG`
 * let `HRET`
 * me `PHE`
 * go, `TKPW KW-BG`
 * master," `PHAFRT KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`
+* Fish. `KPA/TPEURB TP-PL`
 * "I `KR-GS EU`
 * am `APL`
 * much `PHUFP`
@@ -30,7 +31,7 @@
 * eating `AOEGT`
 * just `SKWRUFT`
 * now. `TPHOU TP-PL`
-* If `TP`
+* If `KPA/TP`
 * you `U`
 * put `PUT`
 * back `PWABG`
@@ -47,10 +48,10 @@
 * meal `PHAOEL`
 * off `OF`
 * me." `PHE TP-PL KR-GS`
-* "Nay, `KR-GS TPHAEU KW-BG`
+* "Nay, `KR-GS KPA/TPHAEU KW-BG`
 * nay, `TPHAEU KW-BG`
 * my `PHEU`
-* Fish," `TPEURB KW-BG KR-GS`
+* Fish," `KPA/TPEURB KW-BG KR-GS`
 * have `SR`
 * may `PHAE`
 * not `TPHOT`

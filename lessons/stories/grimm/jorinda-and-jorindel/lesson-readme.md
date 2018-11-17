@@ -1,9 +1,9 @@
 # Jorinda and Jorindel
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
-* An `APB`
+* an `APB`
 * old `OLD`
 * castle, `KAFL KW-BG`
 * that `THA`
@@ -20,7 +20,7 @@
 * castle `KAFL`
 * lived `HREUFD`
 * fairy. `TPAEUR/REU TP-PL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * this `TH`
 * fairy `TPAEUR/REU`
 * could `KO`
@@ -29,7 +29,7 @@
 * shape `SHAEUP`
 * she `SHE`
 * pleased. `PHRAOEFD TP-PL`
-* all `AUL`
+* All `KPA/AUL`
 * day `TKAEU`
 * long `HROPBG`
 * flew `TPHRAOU`
@@ -48,7 +48,7 @@
 * became `PWAEUPL`
 * woman `WOPL`
 * again. `TKPWEPB TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * young `KWRUPBG`
 * man `PHAPB`
 * came `KAEUPL`
@@ -76,7 +76,9 @@
 * never `TPHEF`
 * to `TO`
 * come `KOPL`
+* there `THR`
 * again: `TKPWEPB STPH-FPLT`
+* when `WHEPB`
 * pretty `PREUT`
 * maiden `PHAEUD/*EPB`
 * space `SPAEUS`
@@ -94,6 +96,7 @@
 * these `THEZ`
 * cages `KAEUPBLGS`
 * hanging `HAPBG/-G`
+* all `AUL`
 * with `W`
 * beautiful `PWAOUFL`
 * birds `PWEURDZ`
@@ -101,6 +104,7 @@
 * whose `WHOZ`
 * name `TPHAEUPL`
 * Jorinda. `xxx Jorinda TP-PL`
+* She `KPA/SHE`
 * prettier `PRET/KWRER`
 * than `THAPB`
 * girls `TKPWEURLS`
@@ -117,14 +121,14 @@
 * soon `SAOPB`
 * be `-B`
 * married. `PHAERD TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * went `WEPBT`
 * walk `WAUBG`
 * might `PHAOEUT`
 * alone; `A/HROEPB STPH*FPLT`
 * Jorindel `xxx Jorindel`
 * said, `SAEUD KW-BG`
-* 'We `AE WE`
+* 'We `AE KPA/WE`
 * must `PHUFT`
 * care `KAEUR`
 * we `WE`
@@ -134,7 +138,7 @@
 * near `TPHAOER`
 * fairy's `TPAEUR/REU AES`
 * castle.' `KAFL TP-PL AE`
-* it `T`
+* It `KPA/T`
 * evening; `AOEPBG STPH*FPLT`
 * last `HRAFT`
 * rays `RA*ES`
@@ -147,7 +151,7 @@
 * trees `TRAOES`
 * upon `POPB`
 * green `TKPWRAOEPB`
-* underwood `UPBD/WAOD`
+* underwood `xxx underwood`
 * beneath, `TPHAO*ET KW-BG`
 * turtle-doves `TURLT H-PB TKOFS`
 * sang `SAPBG`
@@ -166,13 +170,16 @@
 * sad, `SAD KW-BG`
 * knew `TPHAOU`
 * why; `KWR STPH*FPLT`
+* it `T`
 * seemed `SAOEPLD`
 * as `AZ`
 * if `TP`
 * parted `PARTD`
+* one `WUPB`
 * another `TPHOER`
 * for `TPOR`
 * ever. `-FR TP-PL`
+* They `KPA/THE`
 * wandered `WAPBD/-D`
 * way; `WAEU STPH*FPLT`
 * looked `HRAOBGD`
@@ -187,6 +194,7 @@
 * what `WHA`
 * path `PA*T`
 * take. `TAEUBG TP-PL`
+* The `KPA/-T`
 * fast, `TPAFT KW-BG`
 * already `HR-R`
 * half `HAF`
@@ -207,7 +215,7 @@
 * close `KHROES`
 * under `*UPBD`
 * walls `WAULS`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * shrank `SHRA*PBG`
 * fear, `TPAOER KW-BG`
 * turned `TURPBD`
@@ -215,16 +223,17 @@
 * trembled. `TREPL/-BLD TP-PL`
 * just `SKWRUFT`
 * singing, `SEUPBG/-G KW-BG`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * ring-dove `REUPBG H-PB TKOF`
 * willow `WEUL/HROE`
 * spray, `SPRAEU KW-BG`
-* Well-a-day! `WEL H-PB AEU H-PB TKAEU SKHRAPL`
+* Well-a-day! `KPA/WEL H-PB AEU H-PB TKAEU SKHRAPL`
+* He `KPA/HE`
 * mourn'd `PHOURPB AE TK*`
 * fate `TPAEUT`
 * darling `TKARLG`
 * mate, `PHAEUT KW-BG`
-* Well-a-day!' `WEL H-PB AEU H-PB TKAEU SKHRAPL AE`
+* Well-a-day!' `KPA/WEL H-PB AEU H-PB TKAEU SKHRAPL AE`
 * song `SOPBG`
 * stopped `STOPD`
 * suddenly. `SULD TP-PL`
@@ -236,6 +245,7 @@
 * mournful `PHOURPB/-FL`
 * _jug, `RUPBD SKWRUG KW-BG`
 * jug_. `SKWRUG RUPBD TP-PL`
+* An `KPA/APB`
 * owl `OUL`
 * fiery `TPAOEU/REU`
 * eyes `AO*EUS`
@@ -244,9 +254,9 @@
 * round `ROUPBD`
 * them, `THEPL KW-BG`
 * screamed: `SKRAOEPLD STPH-FPLT`
-* 'Tu `AE T*/*U`
+* 'Tu `AE KPA/T*/*U`
 * whu! `xxx whu SKHRAPL`
-* Tu `T*/*U`
+* Tu `KPA/T*/*U`
 * whu!' `xxx whu SKHRAPL AE`
 * move; `PHOF STPH*FPLT`
 * fixed `TPEUFD`
@@ -258,6 +268,8 @@
 * stir `STEUR`
 * hand `HAPBD`
 * foot. `TPAOT TP-PL`
+* And `AFPBD`
+* now `TPHOU`
 * down; `TKOUPB STPH*FPLT`
 * came; `KAEUPL STPH*FPLT`
 * bush; `PWURB STPH*FPLT`
@@ -279,23 +291,24 @@
 * seized `SAOEZ/-D`
 * away `A/WAEU`
 * hand. `HAPBD TP-PL`
-* Poor `PAOR`
+* Poor `KPA/PAOR`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * gone--but `TKPWOPB H-PB H-PB PWUT`
 * do? `TKO H-F`
 * spot `SPOT`
 * where `W-R`
 * stood. `STAOD TP-PL`
+* At `KPA/AT`
 * back `PWABG`
 * hoarse `HAORS`
 * voice: `SROEUS STPH-FPLT`
-* 'Till `AE T*EUL`
+* 'Till `AE KPA/T*EUL`
 * prisoner `PREURZ`
 * is `S`
 * doom `TKAOPL`
 * cast, `KAFT KW-BG`
 * stay! `STAEU SKHRAPL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * charm `KHARPL`
 * around `ARPBD`
 * spell `SPEL`
@@ -304,6 +317,7 @@
 * Hie `xxx Hie`
 * away! `A/WAEU SKHRAPL`
 * away!' `A/WAEU SKHRAPL AE`
+* On `KPA/OPB`
 * himself `H*EUPLS`
 * free. `TPRAOE TP-PL`
 * fell `TPEL`
@@ -317,12 +331,13 @@
 * laughed `HRAFD`
 * said `SAEUD`
 * again; `TKPWEPB STPH*FPLT`
+* then `THEPB`
 * way. `WAEU TP-PL`
 * prayed, `PRAEUD KW-BG`
 * wept, `WEPT KW-BG`
 * sorrowed, `SROE/-D KW-BG`
 * vain. `SRA*EUPB TP-PL`
-* 'Alas!' `AE A/HRAS SKHRAPL AE`
+* 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * 'what `AE WHA`
 * will `HR`
 * become `PW-BG`
@@ -333,7 +348,7 @@
 * employed `PHOEUD`
 * keeping `KAOEPG`
 * sheep. `SHAOEP TP-PL`
-* many `PHAEPB`
+* Many `KPA/PHAEPB`
 * time `TAOEUPL`
 * did `TK`
 * hated `HAEUT/-D`
@@ -352,6 +367,7 @@
 * everything `EFG`
 * touched `TUFPD`
 * disenchanted, `TKEUS/EPB/KHAPBT/-D KW-BG`
+* In `KPA/TPH`
 * morning `PHORPBG`
 * awoke, `A/WOEBG KW-BG`
 * began `TKPWAPB`
@@ -388,6 +404,7 @@
 * open; `OEP STPH*FPLT`
 * court, `KORT KW-BG`
 * listened `HREUFPBD`
+* many `PHAEPB`
 * singing. `SEUPBG/-G TP-PL`
 * sat, `SAT KW-BG`
 * singing `SEUPBG/-G`
@@ -407,7 +424,7 @@
 * how `HOU`
 * find `TPEUPBD`
 * Jorinda? `xxx Jorinda H-F`
-* While `WHAOEUL`
+* While `KPA/WHAOEUL`
 * thinking `THEUG`
 * do, `TKO KW-BG`
 * taken `TAEPB`

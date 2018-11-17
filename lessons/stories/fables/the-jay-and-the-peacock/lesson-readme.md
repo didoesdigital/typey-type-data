@@ -1,13 +1,13 @@
 # The Jay and the Peacock
 
 * A `KPA/AEU`
-* Jay `SKWRAEU`
+* Jay `SKWRA*EU`
 * venturing `SREPB/KHURG`
 * into `TPHAO`
 * a `AEU`
 * yard `KWRARD`
 * where `W-R`
-* Peacocks `PAE/KOBG/-S`
+* Peacocks `xxx Peacocks`
 * used `AOUFD`
 * to `TO`
 * walk, `WAUBG KW-BG`
@@ -21,11 +21,11 @@
 * fallen `TPAUL/-PB`
 * from `TPR`
 * the `-T`
-* When `WHEPB`
+* when `WHEPB`
 * they `THE`
 * were `WR`
 * moulting. `PHOULT/-G TP-PL`
-* he `HE`
+* He `KPA/HE`
 * tied `TAO*EUD`
 * them `THEPL`
 * all `AUL`
@@ -35,7 +35,9 @@
 * strutted `STRUT/-D`
 * down `TKOUPB`
 * towards `TORDZ`
-* Peacocks. `PAE/KOBG/-S TP-PL`
+* Peacocks. `xxx Peacocks TP-PL`
+* When `KPA/WHEPB`
+* he `HE`
 * came `KAEUPL`
 * near `TPHAOER`
 * soon `SAOPB`
@@ -50,7 +52,7 @@
 * away `A/WAEU`
 * borrowed `PWO*ERD`
 * plumes. `PHRAOUPL/-S TP-PL`
-* So `SO`
+* So `KPA/SO`
 * could `KO`
 * do `TKO`
 * no `TPHO`
@@ -59,7 +61,7 @@
 * go `TKPW`
 * back `PWABG`
 * other `OER`
-* Jays, `SKWRAEU/-S KW-BG`
+* Jays, `SKWRA*EU/-S KW-BG`
 * who `WHO`
 * watched `WAFPD`
 * behaviour `PWAEUFR/A*U`
@@ -71,7 +73,7 @@
 * him, `HEUPL KW-BG`
 * told `TOLD`
 * him: `HEUPL STPH-FPLT`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * is `S`
 * not `TPHOT`
 * only `OEPBL`

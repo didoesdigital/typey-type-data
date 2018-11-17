@@ -1,7 +1,7 @@
 The Fox and the Mask
 
 'A': KPA/AEU
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'had': H
 'by': PWEU
 'some': SOPL
@@ -13,7 +13,7 @@ The Fox and the Mask
 'of': -F
 'a': AEU
 'theatre.': THAO*ERT TP-PL
-'Suddenly': SULD
+'Suddenly': KPA/SULD
 'he': HE
 'observed': OEBD
 'a': AEU
@@ -38,7 +38,7 @@ The Fox and the Mask
 'was': WAS
 'only': OEPBL
 'a': AEU
-'Mask': PHAFBG
+'Mask': KPA/PHAFBG
 'such': SUFP
 'as': AZ
 'actors': A*RBGTS
@@ -48,10 +48,10 @@ The Fox and the Mask
 'over': OEFR
 'their': THAEUR
 'face.': TPAEUS TP-PL
-'"Ah,"': KR-GS HA*E KW-BG KR-GS
+'"Ah,"': KR-GS KPA/HA*E KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Fox,': TPOBGS KW-BG
+'Fox,': KPA/TPOBGS KW-BG
 '"you': KR-GS U
 'look': HRAOBG
 'very': SRE
@@ -66,7 +66,7 @@ The Fox and the Mask
 'got': TKPWOT
 'any': TPHEU
 'brains."': PWRAEUPBS TP-PL KR-GS
-'Outside': OUDZ
+'Outside': KPA/OUDZ
 'show': SHOE
 'is': S
 'a': AEU

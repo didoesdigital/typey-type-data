@@ -1,6 +1,6 @@
 # The Storm Shakes the Shield
 
-* in `TPH`
+* In `KPA/TPH`
 * the `-T`
 * old `OLD`
 * days, `TKAEUS KW-BG`
@@ -14,6 +14,7 @@
 * and `SKP`
 * ran `RAPB`
 * about `PW`
+* in `TPH`
 * red `RED`
 * breeches `PWRAOEFP/-S`
 * coat, `KOET KW-BG`
@@ -37,7 +38,7 @@
 * what `WHA`
 * are `R`
 * now. `TPHOU TP-PL`
-* There `THR`
+* There `KPA/THR`
 * often `OFPB`
 * good `TKPWAOD`
 * deal `TKAOEL`
@@ -50,14 +51,14 @@
 * see `SAOE`
 * nowadays, `TPHOU/TKAEUS KW-BG`
 * because `PWAU`
-* It `T`
+* it `T`
 * has `HAS`
 * been `PW-PB`
 * abolished `A/PWOL/EURBD`
 * as `AZ`
 * too `TAO`
 * old-fashioned. `OLD H-PB TPAGS/-D TP-PL`
-* Still, `STEUL KW-BG`
+* Still, `KPA/STEUL KW-BG`
 * is `S`
 * interesting `TR-G`
 * to `TO`
@@ -65,6 +66,7 @@
 * grandfather `TKPWR-F`
 * tell `TEL`
 * it. `T TP-PL`
+* It `KPA/T`
 * must `PHUFT`
 * really `R-L`
 * have `SR`
@@ -78,6 +80,7 @@
 * shield, `SHAOELD KW-BG`
 * court-house `KORT H-PB HOUS`
 * changed. `KHAEUPBGD TP-PL`
+* The `KPA/-T`
 * silken `SEUL/KEPB`
 * flag `TPHRAG`
 * waved `WAFD`
@@ -151,7 +154,7 @@
 * brass. `PWRAS TP-PL`
 * front `TPROPBT`
 * procession `PRO/SEGS`
-* Harlequin, `HARL/KEUPB KW-BG`
+* Harlequin, `KPA/HARL/KEUPB KW-BG`
 * clothes `KHRO*ETS`
 * made `PHAED`
 * kinds `KEUPBDZ`
@@ -167,7 +170,7 @@
 * like `HRAOEUBG`
 * sledge `SHREPBLG`
 * horse. `HORS TP-PL`
-* he `HE`
+* He `KPA/HE`
 * beat `PWAET`
 * people `PAOEPL`
 * bat, `PWAT KW-BG`
@@ -187,6 +190,7 @@
 * again `TKPWEPB`
 * next `TPHEGT`
 * moment. `PHOEPLT TP-PL`
+* Little `KPA/HREUL`
 * girls `TKPWEURLS`
 * fell `TPEL`
 * own `OEPB`
@@ -201,7 +205,7 @@
 * sour, `SOUR KW-BG`
 * took `TAOBG`
 * snuff. `STPHUF TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * laughed, `HRAFD KW-BG`
 * another `TPHOER`
 * chatted; `KHAT/-D STPH*FPLT`
@@ -223,10 +227,13 @@
 * thought `THAUT`
 * blessing `PWHR*EFG`
 * country. `KREU TP-PL`
+* And `AFPBD`
 * stories `STOERS`
 * could `KO`
 * tell! `TEL SKHRAPL`
+* As `KPA/AZ`
 * boy `PWOEU`
+* he `HE`
 * seen `SAOEPB`
 * these `THEZ`
 * fine `TPAOEUPB`
@@ -285,7 +292,9 @@
 * whom `WHOPL`
 * caught `KAUT`
 * up. `UP TP-PL`
+* Grandfather `KPA/TKPWR-F`
 * possessor `PESZ/SOR`
+* one `WUPB`
 * glasses, `TKPWHRAFS KW-BG`
 * given `TKPWEUFPB`
 * him `HEUPL`
@@ -294,14 +303,14 @@
 * who `WHO`
 * managed `PHAPBGD`
 * catch `KAFP`
-* Such `SUFP`
+* Such `KPA/SUFP`
 * scene `SAEPB`
 * pleasant; `PHREFPBT STPH*FPLT`
 * new `TPHU`
 * flowers `TPHRO*URS`
 * green `TKPWRAOEPB`
 * wreaths. `WRAO*ET/-S TP-PL`
-* "One `KR-GS WUPB`
+* "One `KR-GS KPA/WUPB`
 * never `TPHEF`
 * forgets `TPORGTS`
 * feast `TPAOEFT`
@@ -311,7 +320,7 @@
 * grow," `TKPWROE KW-BG KR-GS`
 * said `SAEUD`
 * grandfather. `TKPWR-F TP-PL`
-* nor `TPH-R`
+* Nor `KPA/TPH-R`
 * did `TK`
 * forget `TPERGT`
 * it, `T KW-BG`
@@ -327,7 +336,7 @@
 * pleasant `PHREFPBT`
 * town `TOUPB`
 * court-house. `KORT H-PB HOUS TP-PL`
-* Once, `WUPBS KW-BG`
+* Once, `KPA/WUPBS KW-BG`
 * gone `TKPWOPB`
 * parents `PARPBTS`
 * this `TH`
@@ -346,6 +355,7 @@
 * pictures, `P*EUFPS KW-BG`
 * inside `TPH-DZ`
 * outside. `OUDZ TP-PL`
+* At `KPA/AT`
 * tailor's `TAEURL AES`
 * pictures `P*EUFPS`
 * clothing, `KHRO*ET/-G KW-BG`
@@ -361,6 +371,7 @@
 * just `SKWRUFT`
 * do `TKO`
 * reality; `RAOELT STPH*FPLT`
+* there `THR`
 * signs `SAOEUPBS`
 * painted `PAEUPBTD`
 * butter, `PWAOURT KW-BG`
@@ -420,6 +431,7 @@
 * ever `-FR`
 * recorded `RORD/-D`
 * newspapers—a `TPHUPS EPL/TKA*RB AEU`
+* such `SUFP`
 * none `TPHOPB`
 * before `PW-F`
 * experienced. `SPAOERPBD TP-PL`
@@ -442,7 +454,7 @@
 * storm. `STORPL TP-PL`
 * water `WAUR`
 * canal `KAPBL`
-* rose `ROEZ`
+* rose `ROES`
 * banks, `PWA*PBGS KW-BG`
 * not `TPHOT`
 * where `W-R`
@@ -512,7 +524,7 @@
 * call `KAUL`
 * lady `HRA*ED`
 * "the `KR-GS -T`
-* Razor" `RAEUZ/SOR KR-GS`
+* Razor" `KPA/RAEUZ/SOR KR-GS`
 * she `SHE`
 * sharp `SHARP`
 * knew `TPHAOU`
@@ -528,6 +540,7 @@
 * man `PHAPB`
 * wrote `WRO`
 * newspaper. `TPHUP TP-PL`
+* That `KPA/THA`
 * poor `PAOR`
 * joke `SKWROEBG`
 * perpetrated `PERP/TRAEUT/-D`
@@ -567,7 +580,7 @@
 * theatre, `THAO*ERT KW-BG`
 * nobody `TPHOEB`
 * went. `WEPBT TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * ridiculous `REULGS`
 * list—horse-radish, `HR*EUS EPL/TKA*RB HORS H-PB RAD/EURB KW-BG`
 * soup, `SOUP KW-BG`
@@ -596,9 +609,9 @@
 * an `APB`
 * example." `KP-PL TP-PL KR-GS`
 * inscription `EUPB/KREUPGS`
-* "Institution `KR-GS STPHAOUG`
-* Superior `SPOEUR`
-* Education" `TKAEUBGS KR-GS`
+* "Institution `KR-GS STPHAO*UGS`
+* Superior `KPA/SPOEUR`
+* Education" `KPA/TKAEUBGS KR-GS`
 * near `TPHAOER`
 * billiard `PWEUL/KWRARD`
 * club, `KHRUB KW-BG`
@@ -606,9 +619,9 @@
 * resort `RE/SORT`
 * further `TPURT`
 * words, `WORDZ KW-BG`
-* "Children `KR-GS KHEURPB`
+* "Children `KR-GS KPA/KHEURPB`
 * hand." `HAPBD TP-PL KR-GS`
-* Now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * witty; `WEUT/TEU STPH*FPLT`
 * but, `PWUT KW-BG`
 * you `U`
@@ -638,9 +651,10 @@
 * making `PHAEUG`
 * mistakes `SPHAEUBGS`
 * see; `SAOE STPH*FPLT`
+* nor `TPH-R`
 * avoided, `A/SROEUD/-D KW-BG`
 * according `KORG`
-* Thus, `THUS KW-BG`
+* Thus, `KPA/THUS KW-BG`
 * instance, `STPHAPBS KW-BG`
 * go `TKPW`
 * grave `TKPWRAEUF`
@@ -667,7 +681,7 @@
 * day; `TKAEU STPH*FPLT`
 * grandpapa's `xxx grandpapa AES`
 * boy. `PWOEU TP-PL`
-* Perhaps `PRAPS`
+* Perhaps `KPA/PRAPS`
 * shall `SHAL`
 * experience `SPAOERPBS`
 * kind, `KEUPBD KW-BG`

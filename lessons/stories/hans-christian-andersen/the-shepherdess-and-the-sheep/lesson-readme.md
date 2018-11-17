@@ -1,6 +1,6 @@
 # The Shepherdess and the Sheep
 
-* have `SR`
+* Have `KPA/SR`
 * you `U`
 * ever `-FR`
 * seen `SAOEPB`
@@ -18,7 +18,7 @@
 * foliage `TPOEL/APBLG`
 * curious `KAOURS`
 * figures? `TPEUGS H-F`
-* Well, `WEL KW-BG`
+* Well, `KPA/WEL KW-BG`
 * just `SKWRUFT`
 * such `SUFP`
 * a `AEU`
@@ -35,7 +35,7 @@
 * legacy `HREG/SEU`
 * by `PWEU`
 * great-grandmother. `TKPWRAET H-PB TKPWR-PL TP-PL`
-* it `T`
+* It `KPA/T`
 * was `WAS`
 * covered `KOFRD`
 * from `TPR`
@@ -57,6 +57,7 @@
 * stags' `STAG/-S AE`
 * heads, `HEDZ KW-BG`
 * antlers. `APBT/HRER/-S TP-PL`
+* In `KPA/TPH`
 * middle `PH*EULD`
 * door `TKAOR`
 * figure `TPEUG`
@@ -64,7 +65,7 @@
 * ridiculous `REULGS`
 * look `HRAOBG`
 * at. `AT TP-PL`
-* he `HE`
+* He `KPA/HE`
 * grinned `TKPWREUPB/-D`
 * at `AT`
 * you, `U KW-BG`
@@ -73,6 +74,7 @@
 * one `WUPB`
 * could `KO`
 * call `KAUL`
+* it `T`
 * laughing. `HRAFG TP-PL`
 * goat's `TKPWO*ET AES`
 * legs, `HREGS KW-BG`
@@ -87,7 +89,7 @@
 * always `AULS`
 * called `KAULD`
 * him, `HEUPL KW-BG`
-* "Major `KR-GS PHOEUPBLG`
+* "Major `KR-GS KPA/PHOEUPBLG`
 * general-field-sergeant-commander `SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
 * Billy-goat's-legs." `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL KR-GS`
 * certainly `SERPBL`
@@ -106,6 +108,7 @@
 * seemed `SAOEPLD`
 * wonderful `WUFL`
 * how `HOU`
+* he `HE`
 * came `KAEUPL`
 * be `-B`
 * all; `AUL STPH*FPLT`
@@ -120,15 +123,16 @@
 * shepherdess `xxx shepherdess`
 * made `PHAED`
 * china. `KWHRAOEUPB TP-PL`
-* her `HER`
+* Her `KPA/HER`
 * shoes `SHAOUS`
 * gilt, `TKPW*EULT KW-BG`
+* her `HER`
 * dress `TKRES`
 * red `RED`
-* rose `ROEZ`
+* rose `ROES`
 * or `OR`
 * ornament. `ORPB/APLT TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * wore `WOR`
 * hat, `HAT KW-BG`
 * carried `KAERD`
@@ -139,7 +143,7 @@
 * looked `HRAOBGD`
 * bright `PWRAOEUT`
 * pretty. `PREUT TP-PL`
-* Close `KHROES`
+* Close `KPA/KHROES`
 * side `SAOEUD`
 * chimney-sweep, `KHEUPL/TPHEU H-PB SWAOEP KW-BG`
 * coal, `KOEL KW-BG`
@@ -156,12 +160,13 @@
 * workers `WORBG/ERS`
 * might `PHAOEUT`
 * well `WEL`
+* have `SR`
 * him `HEUPL`
 * prince, `PREUPBS KW-BG`
 * they `THE`
 * felt `TPELT`
 * inclined `EUPB/KHRAOEUPBD`
-* Do `TKO`
+* do `TKO`
 * so. `SO TP-PL`
 * holding `HOELGD`
 * ladder `HRAERD`
@@ -178,6 +183,7 @@
 * marks `PHARBGS`
 * it. `T TP-PL`
 * placed `PHRAEUFD`
+* close `KHROES`
 * together, `TOGT KW-BG`
 * side; `SAOEUD STPH*FPLT`
 * and, `SKP KW-BG`
@@ -215,8 +221,8 @@
 * over `OEFR`
 * her, `HER KW-BG`
 * therefore `TH-FR`
-* When `WHEPB`
-* "Major-general-field-sergeant-commander `KR-GS PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
+* when `WHEPB`
+* "Major-general-field-sergeant-commander `KR-GS KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
 * Billy-goat's-legs" `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS KR-GS`
 * asked `SK-D`
 * wife, `WAOEUF KW-BG`
@@ -224,7 +230,7 @@
 * head `HED`
 * show `SHOE`
 * consented. `KEFPBT/-D TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * will `HR`
 * husband," `HUS KW-BG KR-GS`
 * said `SAEUD`
@@ -237,7 +243,7 @@
 * mahogany. `PHA/HOG/TPHEU TP-PL`
 * make `PHAEUBG`
 * lady `HRA*ED`
-* Major-general-field-sergeant-commander `PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
+* Major-general-field-sergeant-commander `KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
 * Billy-goat's-legs. `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL`
 * has `HAS`
 * whole `WHOEL`
@@ -261,21 +267,22 @@
 * eleven `HREFPB`
 * wives `WAOEUFS`
 * already." `HR-R TP-PL KR-GS`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * shall `SHAL`
 * twelfth," `TWEFLT KW-BG KR-GS`
 * Chinaman. `xxx Chinaman TP-PL`
-* "To-night `KR-GS TO H-PB TPHAOEUT`
+* "To-night `KR-GS KPA/TO H-PB TPHAOEUT`
 * soon `SAOPB`
 * hear `HAER`
 * rattling `RAT/-LG`
 * cupboard, `WUP/PWORD KW-BG`
 * married, `PHAERD KW-BG`
 * true `TRAOU`
-* Am `APL`
+* am `APL`
 * Chinaman;" `xxx Chinaman STPH*FPLT KR-GS`
 * fell `TPEL`
 * asleep. `A/HRAOEP TP-PL`
+* Then `KPA/THEPB`
 * cried, `KRAOEUD KW-BG`
 * sweetheart, `SWAOET/HART KW-BG`
 * chimney-sweep. `KHEUPL/TPHEU H-PB SWAOEP TP-PL`
@@ -302,7 +309,7 @@
 * maintain `PHEUPB/TAEUPB`
 * my `PHEU`
 * profession." `PREGS TP-PL KR-GS`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * safely `SAEUFL`
 * down `TKOUPB`
 * table!" `TAEUBL SKHRAPL KR-GS`
@@ -323,9 +330,11 @@
 * contrived `KAUPB/TRAOEUFD`
 * reach `RAOEFP`
 * floor. `TPHRAOR TP-PL`
+* But `KPA/PWUT`
 * saw `SAU`
 * all `AUL`
 * uproar. `UP/ROR TP-PL`
+* The `KPA/-T`
 * stags `STAG/-S`
 * pushed `PURBD`
 * their `THAEUR`
@@ -337,7 +346,7 @@
 * sprung `SPRUPBG`
 * air; `AEUR STPH*FPLT`
 * cried `KRAOEUD`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * running `R*UPBG`
 * away! `A/WAEU SKHRAPL`
 * away!" `A/WAEU SKHRAPL KR-GS`
@@ -347,7 +356,7 @@
 * jumped `SKWR*UPLD`
 * drawer `TKRAUR`
 * window-seat. `WOEUPBD H-PB SAOET TP-PL`
-* here `HAOER`
+* Here `KPA/HAOER`
 * four `TPOUR`
 * packs `PABGZ`
 * cards `KARDZ`
@@ -403,9 +412,10 @@
 * body, `PWO*ED KW-BG`
 * once `WUPBS`
 * "plump." `KR-GS PHRUFRP TP-PL KR-GS`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * coming," `KO*G KW-BG KR-GS`
 * fright, `TPRAOEUT KW-BG`
+* she `SHE`
 * knee. `TPHAOE TP-PL`
 * thought `THAUT`
 * something," `S-G KW-BG KR-GS`
@@ -416,15 +426,15 @@
 * corner; `KRORPB STPH*FPLT`
 * can `K`
 * lie `HRAOEU`
-* rose-leaves `ROEZ H-PB HREFS`
+* rose-leaves `ROES H-PB HREFS`
 * lavender, `HRAF/TKER KW-BG`
 * throw `THROE`
 * salt `SALT`
-* If `TP`
+* if `TP`
 * comes `KOPLS`
 * near `TPHAOER`
 * us." `US TP-PL KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * never `TPHEF`
 * do," `TKO KW-BG KR-GS`
 * "because `KR-GS PWAU`
@@ -438,24 +448,27 @@
 * those `THOZ`
 * intimate `SPWEU/PHAT`
 * that. `THA TP-PL`
-* No, `TPHO KW-BG`
+* No, `KPA/TPHO KW-BG`
 * nothing `TPHOG`
-* "have `KR-GS SR`
+* "Have `KR-GS KPA/SR`
 * courage `KURPBLG`
 * enough `TPHUF`
 * world `WORLD`
 * me?" `PHE H-F KR-GS`
+* "have `KR-GS SR`
 * is, `S KW-BG`
 * come `KOPL`
 * back `PWABG`
+* here `HAOER`
 * again?" `TKPWEPB H-F KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * have," `SR KW-BG KR-GS`
 * replied. `RE/PHRAOEUD TP-PL`
+* When `KPA/WHEPB`
 * chimney-sweep `KHEUPL/TPHEU H-PB SWAOEP`
 * firm, `TPEURPL KW-BG`
 * said, `SAEUD KW-BG`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * way `WAEU`
 * through `THRU`
 * stove `STOF`
@@ -467,21 +480,23 @@
 * chimney `KHEUPL/TPHEU`
 * manage `PHAPBG`
 * well. `WEL TP-PL`
+* We `KPA/WE`
 * climb `KHRAOEUPL`
 * too `TAO`
 * high `HAOEU`
 * us, `US KW-BG`
 * hole `HOEL`
+* So `KPA/SO`
 * led `HRED`
 * stove. `STOF TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * looks `HRAOBGS`
 * dark," `TKARBG KW-BG KR-GS`
 * still `STEUL`
 * went `WEPBT`
 * pipe, `PAOEUP KW-BG`
 * pitch. `PEUFP TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * chimney," `KHEUPL/TPHEU KW-BG KR-GS`
 * he; `HE STPH*FPLT`
 * "and `KR-GS SKP`
@@ -519,6 +534,7 @@
 * stars, `STARS KW-BG`
 * roofs `RAOFS`
 * town. `TOUPB TP-PL`
+* They `KPA/THE`
 * see `SAOE`
 * distance `STKAPBS`
 * poor `PAOR`
@@ -532,17 +548,17 @@
 * different `TKEUFRT`
 * what `WHA`
 * expected. `KP-PTD TP-PL`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * much," `PHUFP KW-BG KR-GS`
 * said; `SAEUD STPH*FPLT`
 * large. `HRARPBLG TP-PL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * wish `WEURB`
 * safe `SAEUF`
 * again, `TKPWEPB KW-BG`
 * glass; `TKPWHRAS STPH*FPLT`
 * again. `TKPWEPB TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * followed `TPOLD`
 * take `TAEUBG`
 * back, `PWABG KW-BG`
@@ -560,6 +576,7 @@
 * asked, `SK-D KW-BG`
 * foolish `TPAOL/EURB`
 * was. `WAS TP-PL`
+* And `AFPBD`
 * so, `SO KW-BG`
 * deal `TKAOEL`
 * trouble, `TRUBL KW-BG`
@@ -572,9 +589,10 @@
 * door, `TKAOR KW-BG`
 * going `TKPW-G`
 * room. `RAOPL TP-PL`
+* As `KPA/AZ`
 * quiet, `KWAO*EUT KW-BG`
 * out. `OUT TP-PL`
-* Alas! `A/HRAS SKHRAPL`
+* Alas! `KPA/A/HRAS SKHRAPL`
 * lay `HRAEU`
 * floor; `TPHRAOR STPH*FPLT`
 * fallen `TPAUL/-PB`
@@ -600,10 +618,13 @@
 * this;" `TH STPH*FPLT KR-GS`
 * wrung `WRUPBG`
 * hands. `HAPBDZ TP-PL`
-* "he `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * riveted," `R*EUFT/-D KW-BG KR-GS`
+* "he `KR-GS HE`
 * riveted. `R*EUFT/-D TP-PL`
+* Do `KPA/TKO`
 * hasty. `HAEUS/TEU TP-PL`
+* If `KPA/TP`
 * cement `SEPLT`
 * put `PUT`
 * good `TKPWAOD`
@@ -614,9 +635,9 @@
 * disagreeable `TKEUS/TKPWRAOEBL`
 * things `THEUPBGS`
 * ever." `-FR TP-PL KR-GS`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * so?" `SO H-F KR-GS`
-* "As `KR-GS AZ`
+* "As `KR-GS KPA/AZ`
 * done `TKOPB`
 * good," `TKPWAOD KW-BG KR-GS`
 * "we `KR-GS WE`
@@ -626,7 +647,7 @@
 * taking `TAEUG`
 * much `PHUFP`
 * trouble." `TRUBL TP-PL KR-GS`
-* "Will `KR-GS HR`
+* "Will `KR-GS W*EUL`
 * cost `KOFT`
 * much, `PHUFP KW-BG`
 * wonder?" `WOPBD H-F KR-GS`
@@ -647,6 +668,7 @@
 * give `TKPWEUF`
 * yourself `KWRO*URS`
 * airs. `AEUR/-S TP-PL`
+* Am `KPA/APL`
 * not?" `TPHOT H-F KR-GS`
 * piteously `PEUT/KWROUS/HREU`
 * afraid `A/TPRAEUD`

@@ -1,8 +1,8 @@
 # The Serpent and the File
 
 * A `KPA/AEU`
-* Serpent `SERP/EPBT`
-* In `TPH`
+* Serpent `KPA/SERP/EPBT`
+* in `TPH`
 * the `-T`
 * course `KORS`
 * of `-F`
@@ -13,7 +13,7 @@
 * an `APB`
 * armourer's `AR/PHOUR/*ER AES`
 * shop. `SHOP TP-PL`
-* As `AZ`
+* As `KPA/AZ`
 * he `HE`
 * glided `TKPWHRAOEUD/-D`
 * over `OEFR`
@@ -27,11 +27,12 @@
 * file `TPAOEUL`
 * lying `HRAOEUG`
 * there. `THR TP-PL`
+* In `KPA/TPH`
 * rage `RAEUPBLG`
 * turned `TURPBD`
 * round `ROUPBD`
 * upon `POPB`
-* It `T`
+* it `T`
 * and `SKP`
 * tried `TRAOEUD`
 * to `TO`
@@ -49,6 +50,7 @@
 * soon `SAOPB`
 * give `TKPWEUF`
 * wrath. `WRA*T TP-PL`
+* It `KPA/T`
 * is `S`
 * useless `AOUS/-LS`
 * attacking `A/TABG/-G`

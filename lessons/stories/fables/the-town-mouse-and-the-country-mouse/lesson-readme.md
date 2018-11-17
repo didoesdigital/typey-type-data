@@ -1,13 +1,13 @@
 # The Town Mouse and the Country Mouse
 
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * you `U`
 * must `PHUFT`
 * know `TPHOE`
 * that `THA`
 * a `AEU`
-* Town `TOUPB`
-* Mouse `PHOUS`
+* Town `KPA/TOUPB`
+* Mouse `KPA/PHOUS`
 * once `WUPBS`
 * upon `POPB`
 * time `TAOEUPL`
@@ -20,21 +20,23 @@
 * in `TPH`
 * the `-T`
 * country. `KREU TP-PL`
-* he `HE`
+* He `KPA/HE`
 * was `WAS`
 * rough `RUF`
 * and `SKP`
 * ready, `R-D KW-BG`
 * this `TH`
-* Cousin, `KUZ KW-BG`
+* cousin, `KUZ KW-BG`
 * but `PWUT`
+* he `HE`
 * loved `HROFD`
+* town `TOUPB`
 * friend `TPREPBD`
 * made `PHAED`
 * him `HEUPL`
 * heartily `HART/HREU`
 * welcome. `WELG TP-PL`
-* beans `PWAEPBS`
+* Beans `KPA/PWAEPBS`
 * bacon, `PWAEU/KOPB KW-BG`
 * cheese `KHAOES`
 * bread, `PWRAED KW-BG`
@@ -45,18 +47,20 @@
 * offered `OFRD`
 * them `THEPL`
 * freely. `TPRAOEL TP-PL`
+* The `KPA/-T`
 * rather `RAER`
 * turned `TURPBD`
 * up `UP`
 * long `HROPBG`
 * nose `TPHOES`
 * at `AT`
-* Country `KREU`
+* country `KREU`
 * fare, `TPA*ER KW-BG`
 * said: `SAEUD STPH-FPLT`
 * "I `KR-GS EU`
 * cannot `K/TPHOT`
 * understand, `URPBD KW-BG`
+* Cousin, `KPA/KUZ KW-BG`
 * how `HOU`
 * can `K`
 * put `PUT`
@@ -78,7 +82,7 @@
 * will `HR`
 * show `SHOE`
 * live. `HREUF TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * have `SR`
 * been `PW-PB`
 * week `WAOEBG`
@@ -87,7 +91,7 @@
 * ever `-FR`
 * stood `STAOD`
 * life." `HRAOEUF TP-PL KR-GS`
-* No `TPHO`
+* No `KPA/TPHO`
 * sooner `SAORPB`
 * said `SAEUD`
 * than `THAPB`
@@ -98,11 +102,11 @@
 * off `OF`
 * for `TPOR`
 * arrived `A/REUFD`
-* Mouse's `PHOUS AES`
+* Mouse's `KPA/PHOUS AES`
 * residence `R*EPBS`
 * late `HRAEUT`
 * night. `TPHAOEUT TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * want `WAPBT`
 * some `SOPL`
 * refreshment `RE/TPREPLT`
@@ -110,12 +114,12 @@
 * our `OUR`
 * journey," `SKWRURPB KW-BG KR-GS`
 * polite `PHRAOEUT`
-* Mouse, `PHOUS KW-BG`
+* Mouse, `KPA/PHOUS KW-BG`
 * took `TAOBG`
 * into `TPHAO`
 * grand `TKPWRAPBD`
 * dining-room. `TKAOEUPBG H-PB RAOPL TP-PL`
-* There `THR`
+* There `KPA/THR`
 * they `THE`
 * found `TPOUPBD`
 * remains `RE/PHAEUPBS`
@@ -126,28 +130,29 @@
 * jellies `SKWREL/HREU/KWREU/-S`
 * cakes `KAEUBG/-S`
 * nice. `TPHAOEUS TP-PL`
-* Suddenly `SULD`
+* Suddenly `KPA/SULD`
 * heard `HAERD`
 * growling `TKPWROUL/-G`
 * barking. `PWARBG/-G TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * is `S`
 * that?" `THA H-F KR-GS`
-* Mouse. `PHOUS TP-PL`
-* "It `KR-GS T`
+* Country `KPA/KREU`
+* Mouse. `KPA/PHOUS TP-PL`
+* "It `KR-GS KPA/T`
 * only `OEPBL`
 * dogs `TKOGS`
 * house," `HOUS KW-BG KR-GS`
 * answered `AEPBS/-D`
 * other. `OER TP-PL`
-* "Only!" `KR-GS OEPBL SKHRAPL KR-GS`
+* "Only!" `KR-GS KPA/OEPBL SKHRAPL KR-GS`
 * do `TKO`
 * not `TPHOT`
 * like `HRAOEUBG`
 * music `PHAOUFBG`
 * my `PHEU`
 * dinner." `TKEURPB TP-PL KR-GS`
-* Just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * moment `PHOEPLT`
 * door `TKAOR`
 * flew `TPHRAOU`
@@ -159,15 +164,16 @@
 * down `TKOUPB`
 * run `RUPB`
 * off. `OF TP-PL`
-* "Good-bye, `KR-GS TKPWAOD H-PB PWAO*EU KW-BG`
-* Cousin," `KUZ KW-BG KR-GS`
-* "What! `KR-GS WHA SKHRAPL`
+* "Good-bye, `KR-GS KPA/TKPWAOD H-PB PWAO*EU KW-BG`
+* Cousin," `KPA/KUZ KW-BG KR-GS`
+* "What! `KR-GS KPA/WHA SKHRAPL`
 * going `TKPW-G`
 * so `SO`
 * soon?" `SAOPB H-F KR-GS`
-* "Yes," `KR-GS KWRE KW-BG KR-GS`
+* "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * replied; `RE/PHRAOEUD STPH*FPLT`
-* "Better `KR-GS PWOERT`
+* "Better `KR-GS KPA/PWOERT`
+* beans `PWAEPBS`
 * bacon `PWAEU/KOPB`
 * peace `PAES`
 * ale `AEL`

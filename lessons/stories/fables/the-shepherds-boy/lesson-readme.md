@@ -1,12 +1,12 @@
 # The Shepherd's Boy
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
 * young `KWRUPBG`
-* Shepherd `SHEP/ERD`
-* boy `PWOEU`
+* Shepherd `KPA/SHEP/ERD`
+* Boy `KPA/PWOEU`
 * who `WHO`
 * tended `TEPBD/-D`
 * his `HEUS`
@@ -19,14 +19,14 @@
 * near `TPHAOER`
 * dark `TKARBG`
 * forest. `TPOEFRT TP-PL`
-* It `T`
+* It `KPA/T`
 * rather `RAER`
 * lonely `HROPBL`
 * for `TPOR`
 * him `HEUPL`
 * all `AUL`
 * day, `TKAEU KW-BG`
-* So `SO`
+* so `SO`
 * he `HE`
 * thought `THAUT`
 * upon `POPB`
@@ -40,14 +40,15 @@
 * and `SKP`
 * some `SOPL`
 * excitement. `KPAOEUPLT TP-PL`
+* He `KPA/HE`
 * rushed `RURBD`
 * down `TKOUPB`
 * towards `TORDZ`
 * village `SREULG`
 * calling `KAULG`
 * out `OUT`
-* "Wolf, `KR-GS WOFL KW-BG`
-* Wolf," `WOFL KW-BG KR-GS`
+* "Wolf, `KR-GS KPA/WOFL KW-BG`
+* Wolf," `KPA/WOFL KW-BG KR-GS`
 * villagers `SREUL/APBLG/ERS`
 * came `KAEUPL`
 * to `TO`
@@ -58,8 +59,9 @@
 * with `W`
 * considerable `KR-BL`
 * time. `TAOEUPL TP-PL`
-* this `TH`
+* This `KPA/TH`
 * pleased `PHRAOEFD`
+* boy `PWOEU`
 * much `PHUFP`
 * that `THA`
 * few `TPAOU`
@@ -70,10 +72,11 @@
 * trick, `TREUBG KW-BG`
 * again `TKPWEPB`
 * help. `HEP TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * shortly `SHORLT`
 * after `AF`
-* Wolf `WOFL`
+* this `TH`
+* Wolf `KPA/WOFL`
 * actually `TAOULT`
 * did `TK`
 * come `KOPL`
@@ -99,6 +102,7 @@
 * them, `THEPL KW-BG`
 * nobody `TPHOEB`
 * stirred `STEURD`
+* So `KPA/SO`
 * made `PHAED`
 * good `TKPWAOD`
 * meal `PHAOEL`

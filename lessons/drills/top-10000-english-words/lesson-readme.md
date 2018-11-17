@@ -192,7 +192,7 @@
 * under `*UPBD`
 * general `SKWREPBL`
 * research `REFRPB`
-* university `*UFRT`
+* university `AOUFRT`
 * January `SKWRAPB`
 * mail `PHAEUL`
 * full `TPUL`
@@ -687,7 +687,7 @@
 * welcome `WELG`
 * central `STRAL`
 * images `EUPBGS`
-* president `P*T`
+* president `PREZ`
 * notice `TPH-TS`
 * god `TKPWOD`
 * original `ORPBLG`
@@ -1773,7 +1773,7 @@
 * parent `PARPBT`
 * Spanish `SPAPB/EURB`
 * Michigan `PH*EU`
-* Columbia `KHRUPL/WRA`
+* Columbia `KHRUPL/KWRA`
 * setting `SEGT`
 * Dr `TK*P/R*`
 * scale `SKAEL`
@@ -1832,7 +1832,7 @@
 * pp `P*/P*`
 * suite `SWAO*ET`
 * Vegas `SRAEUG/AS`
-* NA `TPH*/A*`
+* NA `TPH*P/A*P`
 * square `SKWAEUR`
 * Chris `KREUS`
 * attention `A/T-PBGS`
@@ -2074,7 +2074,7 @@
 * supported `SPORD`
 * pocket `POBGT`
 * saint `SAEUPBT`
-* rose `ROEZ`
+* rose `ROES`
 * freedom `TPRAOEPLD`
 * argument `ARGT`
 * competition `KPEGS`
@@ -3320,7 +3320,7 @@
 * commitment `KPHUPLT`
 * specialty `SPERPL`
 * bears `PWAERS`
-* jean `SKWRAUPB`
+* jean `SKWRAEPB`
 * hop `HOP`
 * carrier `KAR/KWRER`
 * edited `ED/EUT/-D`
@@ -4124,7 +4124,7 @@
 * jacket `SKWRABGT`
 * determination `TKERPLGS`
 * animation `APB/PHAEUGS`
-* oracle `AUR/K-L`
+* oracle `OR/K-L`
 * er `ER/SP-S`
 * Matthew `PH*T/AOU`
 * lease `HRAOES`
@@ -5197,7 +5197,7 @@
 * equipped `KWEUPD`
 * stages `STAEUPBLGS`
 * encouraged `EPB/KURPBLGD`
-* sur `KPA/SUR`
+* sur `HRO*ER/SUR`
 * winds `WEUPBDZ`
 * powder `PO*URD`
 * broadway `PWROEU`
@@ -5319,7 +5319,7 @@
 * enrollment `EPB/ROL/*PLT`
 * duke `TKAOUBG`
 * Walter `WALT/*ER`
-* ai `SKWRAO*EU`
+* ai `A/AO*EU/SP-S`
 * pace `PAEUS`
 * besides `PW-DZ`
 * wage `WAEUPBLG`
@@ -5910,7 +5910,7 @@
 * neutral `TPHAOURLT`
 * fisher `TP*EURB/ER`
 * rat `RAT`
-* spears `SPAOERS`
+* spears `SPAOERZ`
 * prospective `PROS/PEBGT/EUF`
 * dildos `TKEUL/TKOE/-S`
 * bedding `PWED/-G`
@@ -6435,7 +6435,7 @@
 * cms `KR-PLS`
 * mason `PHAEU/SOPB`
 * diagram `TKPRA*EPL`
-* burns `PWURPBZ`
+* burns `PWURPBS`
 * pumps `P*UPLS`
 * slut `SHRUT`
 * ejaculation `SKWRABG/HRAEUGS`
@@ -7359,7 +7359,7 @@
 * guild `TKPWEULD`
 * correlation `KOR/RELGS`
 * gorgeous `TKPWORBS`
-* capitol `KAPT/OL`
+* capitol `KAP/TOL`
 * sim `S*/*EU/PH*`
 * dishes `TKEURBS`
 * rna `R*P/TPH*P/A*P`
@@ -8869,7 +8869,7 @@
 * ensemble `EPB/SEPL/-BL`
 * insulin `SHREUPB`
 * assured `A/SHURD`
-* biblical `PWEUBL/K-L`
+* biblical `PWEUBL/KAL`
 * weed `WAO*ED`
 * conscious `K-RBS`
 * accent `KP*EPBT`
@@ -9198,7 +9198,7 @@
 * concentrate `SKRAEUT`
 * intimate `SPWEU/PHAT`
 * reproductive `RE/PROU/EUF`
-* Preston `PREFT/O*PB`
+* Preston `PRES/TO*PB`
 * deadly `TKED/HREU`
 * cunt `K*UPBT`
 * feof `TP*/*E/O*/TP*`

@@ -1,13 +1,13 @@
 # The Lion and the Mouse
 
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * when `WHEPB`
 * a `AEU`
-* Lion `HRO*EUPB`
+* Lion `KPA/HRO*EUPB`
 * was `WAS`
 * asleep `A/HRAOEP`
-* Little `HREUL`
-* Mouse `PHOUS`
+* little `HREUL`
+* Mouse `KPA/PHOUS`
 * began `TKPWAPB`
 * running `R*UPBG`
 * up `UP`
@@ -19,7 +19,7 @@
 * soon `SAOPB`
 * wakened `WAEUBG/EPBD`
 * the `-T`
-* Lion, `HRO*EUPB KW-BG`
+* Lion, `KPA/HRO*EUPB KW-BG`
 * who `WHO`
 * placed `PHRAEUFD`
 * his `HEUS`
@@ -32,11 +32,11 @@
 * to `TO`
 * swallow `SWO*EUL`
 * him. `HEUPL TP-PL`
-* "Pardon, `KR-GS PARD KW-BG`
+* "Pardon, `KR-GS KPA/PARD KW-BG`
 * O `O*P`
-* King," `KEUPBG KW-BG KR-GS`
+* King," `KO*EUPBG KW-BG KR-GS`
 * cried `KRAOEUD`
-* Mouse: `PHOUS STPH-FPLT`
+* Mouse: `KPA/PHOUS STPH-FPLT`
 * "forgive `KR-GS TPAURG`
 * me `PHE`
 * time, `TAOEUPL KW-BG`
@@ -54,10 +54,11 @@
 * do `TKO`
 * you `U`
 * turn `TURPB`
-* Some `SOPL`
+* some `SOPL`
 * of `-F`
 * these `THEZ`
 * days?" `TKAEUS H-F KR-GS`
+* The `KPA/-T`
 * so `SO`
 * tickled `TEUBG/-LD`
 * at `AT`
@@ -70,6 +71,7 @@
 * let `HRET`
 * him `HEUPL`
 * go. `TKPW TP-PL`
+* Some `KPA/SOPL`
 * time `TAOEUPL`
 * after `AF`
 * caught `KAUT`
@@ -79,7 +81,7 @@
 * desired `STKAOEURD`
 * carry `KAER`
 * alive `A/HRAOEUF`
-* King, `KEUPBG KW-BG`
+* King, `KO*EUPBG KW-BG`
 * tied `TAO*EUD`
 * tree `TRAOE`
 * while `WHAOEUL`
@@ -88,7 +90,7 @@
 * search `SEFRPB`
 * waggon `WAG/TKPWOPB`
 * on. `OPB TP-PL`
-* Just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * then `THEPB`
 * happened `HAPD`
 * pass `PAS`
@@ -102,13 +104,14 @@
 * away `A/WAEU`
 * ropes `ROEPS`
 * bound `PWOUPBD`
-* King `KEUPBG`
-* Beasts. `PWAOEFT/-S TP-PL`
-* "Was `KR-GS WAS`
+* King `KO*EUPBG`
+* Beasts. `KPA/PWAOEFT/-S TP-PL`
+* "Was `KR-GS KPA/WAS`
 * not `TPHOT`
 * right?" `RAOEUT H-F KR-GS`
 * said `SAEUD`
-* Mouse. `PHOUS TP-PL`
+* Mouse. `KPA/PHOUS TP-PL`
+* Little `KPA/HREUL`
 * friends `TPREPBDZ`
 * prove `PROF`
 * great `TKPWRAET`

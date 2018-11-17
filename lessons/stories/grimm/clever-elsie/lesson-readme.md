@@ -1,6 +1,6 @@
 # Clever Elsie
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -9,9 +9,9 @@
 * had `H`
 * daughter `TKAUR`
 * called `KAULD`
-* Clever `KHREFR`
+* Clever `KPA/KHREFR`
 * Elsie. `EL/SEU TP-PL`
-* and `SKP`
+* And `AFPBD`
 * when `WHEPB`
 * she `SHE`
 * grown `TKPWROEPB`
@@ -19,11 +19,11 @@
 * her `HER`
 * father `TPAER`
 * said: `SAEUD STPH-FPLT`
-* 'We `AE WE`
+* 'We `AE KPA/WE`
 * will `HR`
 * get `TKPWET`
 * married.' `PHAERD TP-PL AE`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * said `SAEUD`
 * the `-T`
 * mother, `PHOER KW-BG`
@@ -34,11 +34,12 @@
 * come `KOPL`
 * have `SR`
 * her.' `HER TP-PL AE`
-* at `AT`
+* At `KPA/AT`
 * length `HREPBG`
 * came `KAEUPL`
 * from `TPR`
 * distance `STKAPBS`
+* and `SKP`
 * wooed `WAO/-D`
 * her, `HER KW-BG`
 * Hans; `HAPBS STPH*FPLT`
@@ -51,7 +52,7 @@
 * be `-B`
 * really `R-L`
 * smart. `SPHART TP-PL`
-* 'Oh,' `AE O*E KW-BG AE`
+* 'Oh,' `AE KPA/O*E KW-BG AE`
 * father, `TPAER KW-BG`
 * 'she `AE SHE`
 * has `HAS`
@@ -60,7 +61,7 @@
 * good `TKPWAOD`
 * sense'; `SEPBS AE STPH*FPLT`
 * mother `PHOER`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * can `K`
 * see `SAOE`
 * wind `WEUPBD`
@@ -69,16 +70,18 @@
 * hear `HAER`
 * flies `TPHRAOEUS`
 * coughing.' `KOFG TP-PL AE`
-* 'Well,' `AE WEL KW-BG AE`
+* 'Well,' `AE KPA/WEL KW-BG AE`
 * Hans, `HAPBS KW-BG`
 * is `S`
 * not `TPHOT`
 * smart, `SPHART KW-BG`
 * I `EU`
 * won't `WOEPBT`
+* When `KPA/WHEPB`
 * they `THE`
 * were `WR`
 * sitting `SEUGT`
+* at `AT`
 * dinner `TKEURPB`
 * eaten, `AOET/EPB KW-BG`
 * 'Elsie, `AE EL/SEU KW-BG`
@@ -88,7 +91,7 @@
 * fetch `TPEFP`
 * some `SOPL`
 * beer.' `PWAOER TP-PL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * took `TAOBG`
 * pitcher `PEUFP/*ER`
 * wall, `WAUL KW-BG`
@@ -134,7 +137,7 @@
 * eyes `AO*EUS`
 * idle, `AOEUD/*L KW-BG`
 * looked `HRAOBGD`
-* After `AF`
+* after `AF`
 * much `PHUFP`
 * peering `PAO*ERG`
 * here `HAOER`
@@ -150,6 +153,7 @@
 * there. `THR TP-PL`
 * began `TKPWAPB`
 * weep `WAOEP`
+* 'If `AE KPA/TP`
 * we `WE`
 * child, `KHAOEULD KW-BG`
 * grows `TKPWRO*ES`
@@ -158,6 +162,7 @@
 * him `HEUPL`
 * draw `TKRAU`
 * beer, `PWAOER KW-BG`
+* then `THEPB`
 * fall `TPAUL`
 * on `OPB`
 * his `HEUS`
@@ -175,7 +180,7 @@
 * misfortune `PHEUS/TPOR/TAOUPB`
 * lay `HRAEU`
 * her. `HER TP-PL`
-* those `THOZ`
+* Those `KPA/THOZ`
 * upstairs `UP/STA*EURS`
 * waited `WAEUTD`
 * for `TPOR`
@@ -184,10 +189,11 @@
 * come. `KOPL TP-PL`
 * woman `WOPL`
 * servant: `SEFRB/APBT STPH-FPLT`
-* 'Just `AE SKWRUFT`
+* 'Just `AE KPA/SKWRUFT`
 * down `TKOUPB`
 * where `W-R`
 * is.' `S TP-PL AE`
+* The `KPA/-T`
 * maid `PHAEUD`
 * found `TPOUPBD`
 * in `TPH`
@@ -201,40 +207,45 @@
 * weep?' `WAOEP H-F AE`
 * asked `SK-D`
 * maid. `PHAEUD TP-PL`
-* 'Ah,' `AE HA*E KW-BG AE`
+* 'Ah,' `AE KPA/HA*E KW-BG AE`
 * answered, `AEPBS/-D KW-BG`
 * 'have `AE SR`
 * reason `R-PB`
 * weep? `WAOEP H-F`
-* if `TP`
+* If `KPA/TP`
 * here, `HAOER KW-BG`
 * perhaps `PRAPS`
 * head, `HED KW-BG`
 * maid: `PHAEUD STPH-FPLT`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
+* clever `KHREFR`
 * have!' `SR SKHRAPL AE`
 * beside `PWE/SAOEUD`
 * loudly `HROUD/HREU`
 * misfortune. `PHEUS/TPOR/TAOUPB TP-PL`
+* After `KPA/AF`
 * while, `WHAOEUL KW-BG`
 * back, `PWABG KW-BG`
+* those `THOZ`
 * thirsty `THEURS/TEU`
 * boy: `PWOEU STPH-FPLT`
 * girl `TKPWEURL`
 * are.' `R TP-PL AE`
 * boy `PWOEU`
 * down, `TKOUPB KW-BG`
+* there `THR`
 * both `PWO*T`
 * weeping `WAOEP/-G`
 * together. `TOGT TP-PL`
 * asked: `SK-D STPH-FPLT`
-* 'Why `AE KWR`
+* 'Why `AE KPA/KWR`
 * are `R`
 * weeping?' `WAOEP/-G H-F AE`
 * Elsie, `EL/SEU KW-BG`
 * by `PWEU`
 * likewise `HRAOEUBG/WAOEUS`
 * howl `HOUL`
+* Upstairs `KPA/UP/STA*EURS`
 * boy, `PWOEU KW-BG`
 * return, `RURPB KW-BG`
 * woman: `WOPL STPH-FPLT`
@@ -267,6 +278,7 @@
 * 'I `AE EU`
 * must `PHUFT`
 * myself `PHAO*EUS`
+* But `KPA/PWUT`
 * got `TKPWOT`
 * together `TOGT`
 * crying, `KRAOEUG KW-BG`
@@ -278,6 +290,7 @@
 * one `WUPB`
 * world `WORLD`
 * day, `TKAEU KW-BG`
+* if `TP`
 * happen `HAP`
 * beneath `TPHAO*ET`
 * it, `T KW-BG`
@@ -292,7 +305,7 @@
 * long `HROPBG`
 * time; `TAOEUPL STPH*FPLT`
 * thought: `THAUT STPH-FPLT`
-* 'They `AE THE`
+* 'They `AE KPA/THE`
 * waiting `WAEUGT`
 * me `PHE`
 * below: `PWHRO STPH-FPLT`
@@ -309,7 +322,7 @@
 * happened `HAPD`
 * then?' `THEPB H-F AE`
 * he. `HE TP-PL`
-* 'Ah, `AE HA*E KW-BG`
+* 'Ah, `AE KPA/HA*E KW-BG`
 * dear `TKAER`
 * Hans,' `HAPBS KW-BG AE`
 * marry `PHAER`
@@ -319,7 +332,7 @@
 * dash `TKARB`
 * brains `PWRAEUPBS`
 * out `OUT`
-* 'Come,' `AE KOPL KW-BG AE`
+* 'Come,' `AE KPA/KOPL KW-BG AE`
 * 'more `AE PHOR`
 * understanding `URPBGD`
 * than `THAPB`
@@ -333,7 +346,7 @@
 * him, `HEUPL KW-BG`
 * married `PHAERD`
 * Hans `HAPBS`
-* 'Wife, `AE WAOEUF KW-BG`
+* 'Wife, `AE KPA/WAOEUF KW-BG`
 * am `APL`
 * going `TKPW-G`
 * work `WORBG`
@@ -345,7 +358,7 @@
 * corn `KORPB`
 * may `PHAE`
 * bread.' `PWRAED TP-PL AE`
-* 'Yes, `AE KWRE KW-BG`
+* 'Yes, `AE KPA/KWRE KW-BG`
 * that.' `THA TP-PL AE`
 * gone `TKPWOPB`
 * away, `A/WAEU KW-BG`
@@ -357,7 +370,7 @@
 * first, `TPEUFRT KW-BG`
 * eat `AOET`
 * first? `TPEUFRT H-F`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * first.' `TPEUFRT TP-PL AE`
 * drank `TKRAPBG`
 * cup `KUP`
@@ -365,6 +378,7 @@
 * satisfied, `SAED KW-BG`
 * more `PHOR`
 * do? `TKO H-F`
+* Shall `KPA/SHAL`
 * sleep `SHRAOEP`
 * among `PHOPBG`
 * asleep. `A/HRAOEP TP-PL`
@@ -382,7 +396,7 @@
 * lying `HRAOEUG`
 * hastened `HAEUS/-PBD`
 * brought `PWRAUT`
-* fowler's `TPOUL/*ER AES`
+* fowler's `TPO*UL/*ER AES`
 * net `TPHET`
 * little `HREUL`
 * bells `PWELS`
@@ -408,7 +422,7 @@
 * uncertain `UPB/SERPB`
 * whether `WHR`
 * not, `TPHOT KW-BG`
-* 'Is `AE S`
+* 'Is `AE KPA/S`
 * I, `EU KW-BG`
 * I?' `EU H-F AE`
 * knew `TPHAOU`
@@ -420,6 +434,7 @@
 * ask `SK`
 * sure `SHUR`
 * know.' `TPHOE TP-PL AE`
+* She `KPA/SHE`
 * door `TKAOR`
 * own `OEPB`
 * house, `HOUS KW-BG`

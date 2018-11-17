@@ -1,6 +1,6 @@
 # The Straw, the Coal, and the Bean
 
-* in `TPH`
+* In `KPA/TPH`
 * a `AEU`
 * village `SREULG`
 * dwelt `TKWELT`
@@ -19,7 +19,7 @@
 * to `TO`
 * cook `KAOBG`
 * them. `THEPL TP-PL`
-* so `SO`
+* So `KPA/SO`
 * she `SHE`
 * made `PHAED`
 * fire `TPAOEUR`
@@ -27,7 +27,7 @@
 * her `HER`
 * hearth, `HAERT KW-BG`
 * that `THA`
-* It `T`
+* it `T`
 * might `PHAOEUT`
 * burn `PWURPB`
 * the `-T`
@@ -36,7 +36,7 @@
 * with `W`
 * handful `HAPBD/-FL`
 * straw. `STRAU TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * was `WAS`
 * emptying `EPL/TEUG`
 * into `TPHAO`
@@ -58,17 +58,18 @@
 * leapt `HREPT`
 * down `TKOUPB`
 * two. `TWO TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * straw `STRAU`
 * began `TKPWAPB`
 * said: `SAEUD STPH-FPLT`
-* 'Dear `AE TKAER`
+* 'Dear `AE KPA/TKAER`
 * friends, `TPREPBDZ KW-BG`
 * whence `WHEPBS`
 * do `TKO`
 * you `U`
 * come `KOPL`
 * here?' `HAOER H-F AE`
+* The `KPA/-T`
 * replied: `RE/PHRAOEUD STPH-FPLT`
 * 'I `AE EU`
 * fortunately `TP-RPBL`
@@ -104,17 +105,18 @@
 * mercy, `PHER/SEU KW-BG`
 * like `HRAOEUBG`
 * comrades.' `KOPL/RADZ TP-PL AE`
-* 'And `AE SKP`
+* 'And `AE AFPBD`
 * better `PWOERT`
 * fate `TPAEUT`
 * fallen `TPAUL/-PB`
 * lot?' `HROT H-F AE`
 * said `SAEUD`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * has `HAS`
 * destroyed `TKROEUD`
 * all `AUL`
 * brethren `PWR*ET/REPB`
+* in `TPH`
 * smoke; `SPHOEBG STPH*FPLT`
 * seized `SAOEZ/-D`
 * sixty `SEUBGT`
@@ -128,7 +130,7 @@
 * slipped `SHREUPD`
 * through `THRU`
 * fingers.' `TPEURPBGS TP-PL AE`
-* 'But `AE PWUT`
+* 'But `AE KPA/PWUT`
 * what `WHA`
 * are `R`
 * we `WE`
@@ -139,6 +141,7 @@
 * bean, `PWAEPB KW-BG`
 * 'that `AE THA`
 * as `AZ`
+* so `SO`
 * death, `TK*T KW-BG`
 * keep `KAOEP`
 * good `TKPWAOD`
@@ -163,7 +166,7 @@
 * set `SET`
 * way `WAEU`
 * together. `TOGT TP-PL`
-* Soon, `SAOPB KW-BG`
+* Soon, `KPA/SAOPB KW-BG`
 * however, `HOUF KW-BG`
 * came `KAEUPL`
 * little `HREUL`
@@ -186,6 +189,7 @@
 * myself `PHAO*EUS`
 * straight `STRAEUT`
 * across, `A/KROS KW-BG`
+* then `THEPB`
 * can `K`
 * walk `WAUBG`
 * bridge.' `PWREUPBLG TP-PL AE`
@@ -203,6 +207,8 @@
 * boldly `PWOLD/HREU`
 * newly-built `TPHAOUL H-PB PWEULT`
 * bridge. `PWREUPBLG TP-PL`
+* But `KPA/PWUT`
+* when `WHEPB`
 * reached `RAOEFPD`
 * middle, `PH*EULD KW-BG`
 * heard `HAERD`
@@ -238,6 +244,7 @@
 * laughed `HRAFD`
 * heartily `HART/HREU`
 * burst. `PWUFRT TP-PL`
+* It `KPA/T`
 * likewise, `HRAOEUBG/WAOEUS KW-BG`
 * if, `TP KW-BG`
 * fortune, `TP-RPB KW-BG`
@@ -248,6 +255,7 @@
 * sat `SAT`
 * rest `REFT`
 * brook. `PWRAOBG TP-PL`
+* As `KPA/AZ`
 * he `HE`
 * compassionate `KPAGS/TPHAT`
 * heart `HART`

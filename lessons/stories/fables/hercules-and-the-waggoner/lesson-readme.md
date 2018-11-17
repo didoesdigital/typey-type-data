@@ -1,7 +1,7 @@
 # Hercules and the Waggoner
 
 * A `KPA/AEU`
-* Waggoner `WAG/TKPWOPB/*ER`
+* Waggoner `xxx Waggoner`
 * was `WAS`
 * once `WUPBS`
 * driving `TKRAOFG`
@@ -12,14 +12,14 @@
 * very `SRE`
 * muddy `PHUD/KWREU`
 * way. `WAEU TP-PL`
-* At `AT`
+* At `KPA/AT`
 * last `HRAFT`
 * he `HE`
 * came `KAEUPL`
 * to `TO`
 * part `PART`
 * of `-F`
-* The `-T`
+* the `-T`
 * road `RAOD`
 * where `W-R`
 * wheels `WHAOELS`
@@ -33,7 +33,7 @@
 * pulled, `PULD KW-BG`
 * deeper `TKAOERP`
 * wheels. `WHAOELS TP-PL`
-* So `SO`
+* So `KPA/SO`
 * threw `THRAOU`
 * down `TKOUPB`
 * his `HEUS`
@@ -41,7 +41,7 @@
 * knelt `TPHELT`
 * prayed `PRAEUD`
 * Hercules `HERBG/HRES`
-* Strong. `STROPBG TP-PL`
+* Strong. `KPA/STROPBG TP-PL`
 * "O `KR-GS O*P`
 * Hercules, `HERBG/HRES KW-BG`
 * help `HEP`
@@ -53,7 +53,7 @@
 * distress," `STKRES KW-BG KR-GS`
 * quoth `KWO*ET`
 * he. `HE TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * appeared `A/PAOERD`
 * him, `HEUPL KW-BG`
 * said: `SAEUD STPH-FPLT`
@@ -62,12 +62,13 @@
 * don't `TKOEPBT`
 * sprawl `SPRAUL`
 * there. `THR TP-PL`
-* Get `TKPW-T`
+* Get `KPA/TKPW-T`
 * up `UP`
 * put `PUT`
 * your `KWROUR`
 * shoulder `SHOURLD`
 * wheel." `WHAOEL TP-PL KR-GS`
+* The `KPA/-T`
 * gods `TKPWODZ`
 * them `THEPL`
 * that `THA`

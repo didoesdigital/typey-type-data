@@ -1,6 +1,6 @@
 # The Old Man and His Grandson
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -40,6 +40,7 @@
 * run `RUPB`
 * out `OUT`
 * mouth. `PHO*UT TP-PL`
+* His `KPA/HEUS`
 * son `SOPB`
 * son's `SOPB AES`
 * wife `WAOEUF`
@@ -66,19 +67,21 @@
 * even `AOEPB`
 * enough `TPHUF`
 * it. `T TP-PL`
+* And `AFPBD`
 * used `AOUFD`
 * look `HRAOBG`
 * towards `TORDZ`
 * with `W`
 * full `TPUL`
 * tears. `TAERS TP-PL`
-* Once, `WUPBS KW-BG`
+* Once, `KPA/WUPBS KW-BG`
 * too, `TAO KW-BG`
 * trembling `TREPL/-BLG`
 * hands `HAPBDZ`
 * fell `TPEL`
 * ground `TKPWROUPBD`
 * broke. `PWROEBG TP-PL`
+* The `KPA/-T`
 * young `KWRUPBG`
 * scolded `SKOLD/-D`
 * him, `HEUPL KW-BG`
@@ -87,7 +90,7 @@
 * nothing `TPHOG`
 * only `OEPBL`
 * sighed. `SAOEU/-D TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * brought `PWRAUT`
 * wooden `WAOD/EPB`
 * bowl `PWOEL`
@@ -96,6 +99,7 @@
 * half-pence, `HAF H-PB xxx pence KW-BG`
 * which `WEU`
 * eat. `AOET TP-PL`
+* They `KPA/THE`
 * sitting `SEUGT`
 * thus `THUS`
 * little `HREUL`
@@ -109,7 +113,7 @@
 * bits `PWEUTS`
 * wood `WAOD`
 * ground. `TKPWROUPBD TP-PL`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * are `R`
 * you `U`
 * doing `TK*G`

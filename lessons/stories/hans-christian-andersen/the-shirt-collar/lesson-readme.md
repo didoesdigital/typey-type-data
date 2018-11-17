@@ -1,6 +1,6 @@
 # The Shirt-Collar
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -12,7 +12,7 @@
 * other `OER`
 * things `THEUPBGS`
 * boot-jack `PWAOT H-PB SKWRABG`
-* And `SKP`
+* and `SKP`
 * hair-brush; `HAEUR H-PB PWRURB STPH*FPLT`
 * but `PWUT`
 * he `HE`
@@ -32,6 +32,7 @@
 * to `TO`
 * hear `HAER`
 * story. `STOER TP-PL`
+* The `KPA/-T`
 * become `PW-BG`
 * so `SO`
 * old `OLD`
@@ -49,7 +50,7 @@
 * washing-tub `WARBG H-PB TUB`
 * as `AZ`
 * garter. `TKPWAR/TER TP-PL`
-* "Upon `KR-GS POPB`
+* "Upon `KR-GS KPA/POPB`
 * my `PHEU`
 * word," `WORD KW-BG KR-GS`
 * said `SAEUD`
@@ -75,15 +76,16 @@
 * tell `TEL`
 * you," `U KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
-* "Where `KR-GS W-R`
+* "Where `KR-GS KPA/W-R`
 * do `TKO`
-* You `U`
+* you `U`
 * reside `RE/SAOEUD`
 * when `WHEPB`
 * at `AT`
 * home?" `HOEPL H-F KR-GS`
 * asked `SK-D`
 * shirt-collar. `SHEURT H-PB KHRAR TP-PL`
+* But `KPA/PWUT`
 * garter `TKPWAR/TER`
 * naturally `TPHRARL`
 * shy, `SHAOEU KW-BG`
@@ -105,7 +107,7 @@
 * ornamental, `ORPB/-PLT/A*L KW-BG`
 * little `HREUL`
 * lady." `HRA*ED TP-PL KR-GS`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * must `PHUFT`
 * speak `SPAOEBG`
 * me," `PHE KW-BG KR-GS`
@@ -114,18 +116,19 @@
 * any `TPHEU`
 * encouragement `EPB/KORPLT`
 * so." `SO TP-PL KR-GS`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * is `S`
 * beautiful `PWAOUFL`
 * are," `R KW-BG KR-GS`
 * "is `KR-GS S`
 * enough?" `TPHUF H-F KR-GS`
-* "Get `KR-GS TKPW-T`
+* "Get `KR-GS KPA/TKPW-T`
 * away; `A/WAEU STPH*FPLT`
 * don't `TKOEPBT`
 * come `KOPL`
 * near `TPHAOER`
 * garter, `TKPWAR/TER KW-BG`
+* "you `KR-GS U`
 * appear `A/PAOER`
 * me `PHE`
 * quite `KWAOEUT`
@@ -135,6 +138,7 @@
 * certainly," `SERPBL KW-BG KR-GS`
 * possess `PESZ`
 * hair-brush." `HAEUR H-PB PWRURB TP-PL KR-GS`
+* This `KPA/TH`
 * true, `TRAOU KW-BG`
 * for `TPOR`
 * these `THEZ`
@@ -145,9 +149,9 @@
 * "Don't `KR-GS TKO*PB AE T*`
 * accustomed `A/KUFPD`
 * it." `T TP-PL KR-GS`
-* "Affectation!" `KR-GS AFBG/TAEUGS SKHRAPL KR-GS`
-* then `THEPB`
-* They `THE`
+* "Affectation!" `KR-GS KPA/AFBG/TAEUGS SKHRAPL KR-GS`
+* Then `KPA/THEPB`
+* they `THE`
 * were `WR`
 * taken `TAEPB`
 * out `OUT`
@@ -157,14 +161,16 @@
 * over `OEFR`
 * chair `KHAEUR`
 * sunshine, `SUPB/SHAO*EUPB KW-BG`
+* then `THEPB`
 * laid `HRAEUD`
 * on `OPB`
 * ironing-board. `AOEURPBG H-PB PWAORD TP-PL`
+* And `AFPBD`
 * now `TPHOU`
 * came `KAEUPL`
 * glowing `TKPWHROEG`
 * iron. `AOEURPB TP-PL`
-* "Mistress `KR-GS PHEUS/TRES`
+* "Mistress `KR-GS KPA/PHEUS/TRES`
 * widow," `WO*EUD KW-BG KR-GS`
 * "little `KR-GS HREUL`
 * mistress `PHEUS/TRES`
@@ -173,12 +179,13 @@
 * warm. `WARPL TP-PL`
 * changing, `KHAPBG/-G KW-BG`
 * losing `HRAOUFG`
-* All `AUL`
+* all `AUL`
 * creases. `KRAOES/-S TP-PL`
+* You `KPA/U`
 * burning `PWURPBG`
 * hole `HOEL`
 * me. `PHE TP-PL`
-* Ugh! `UG SKHRAPL`
+* Ugh! `KPA/UG SKHRAPL`
 * propose `PROEP`
 * you." `U TP-PL KR-GS`
 * rag," `RAG KW-BG KR-GS`
@@ -204,7 +211,7 @@
 * cut `KUT`
 * them `THEPL`
 * smooth. `SPHAO*T TP-PL`
-* "Oh!" `KR-GS O*E SKHRAPL KR-GS`
+* "Oh!" `KR-GS KPA/O*E SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * "what `KR-GS WHA`
 * first-rate `TPEUFRT H-PB RAEUT`
@@ -240,7 +247,7 @@
 * an `APB`
 * estate `ES/TAEUT`
 * sake." `SAEUBG TP-PL KR-GS`
-* "What! `KR-GS WHA SKHRAPL`
+* "What! `KR-GS KPA/WHA SKHRAPL`
 * going `TKPW-G`
 * me?" `PHE H-F KR-GS`
 * scissors, `SEUS/ORS KW-BG`
@@ -258,12 +265,13 @@
 * thought `THAUT`
 * remarked `RARBGD`
 * day, `TKAEU KW-BG`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * wonderful `WUFL`
 * what `WHA`
 * hair `HAEUR`
 * have, `SR KW-BG`
 * lady. `HRA*ED TP-PL`
+* Have `KPA/SR`
 * engaged?" `EPB/TKPWAEUBLG/-D H-F KR-GS`
 * might `PHAOEUT`
 * it," `T KW-BG KR-GS`
@@ -271,9 +279,10 @@
 * brush; `PWRURB STPH*FPLT`
 * engaged `EPB/TKPWAEUBLG/-D`
 * boot-jack." `PWAOT H-PB SKWRABG TP-PL KR-GS`
-* "Engaged!" `KR-GS EPB/TKPWAEUBLG/-D SKHRAPL KR-GS`
+* "Engaged!" `KR-GS KPA/EPB/TKPWAEUBLG/-D SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * "now `KR-GS TPHOU`
+* there `THR`
 * left `HREFT`
 * to;" `TO STPH*FPLT KR-GS`
 * pretended `PRE/TEPBD/-D`
@@ -285,7 +294,7 @@
 * passed, `PAFD KW-BG`
 * bag `PWAG`
 * paper-mill. `PAEUP H-PB PHEUL TP-PL`
-* Here `HAOER`
+* Here `KPA/HAOER`
 * large `HRARPBLG`
 * company `K-P`
 * rags, `RAG/-S KW-BG`
@@ -296,6 +305,7 @@
 * from `TPR`
 * coarser, `KAORS/ER KW-BG`
 * be. `-B TP-PL`
+* They `KPA/THE`
 * many `PHAEPB`
 * relate, `RELT KW-BG`
 * especially `EPS`
@@ -306,6 +316,7 @@
 * affairs," `A/TPAEURS KW-BG KR-GS`
 * "no `KR-GS TPHO`
 * peace. `PAES TP-PL`
+* It `KPA/T`
 * true `TRAOU`
 * very `SRE`
 * gentleman; `SKWRA*PL STPH*FPLT`
@@ -342,14 +353,14 @@
 * still `STEUL`
 * suffer, `SUFR KW-BG`
 * passionate. `PAGS/AT TP-PL`
-* even `AOEPB`
+* Even `KPA/AOEPB`
 * own `OEPB`
 * hair-brush `HAEUR H-PB PWRURB`
 * lost `HRO*S`
 * through `THRU`
 * neglected `TPHEGD`
 * love. `HRUF TP-PL`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * great `TKPWRAET`
 * experience `SPAOERPBS`
 * kind, `KEUPBD KW-BG`
@@ -367,6 +378,7 @@
 * white `WHAOEUT`
 * paper." `PAEUP TP-PL KR-GS`
 * last. `HRAFT TP-PL`
+* All `KPA/AUL`
 * rags `RAG/-S`
 * made `PHAED`
 * paper, `PAEUP KW-BG`
@@ -393,6 +405,7 @@
 * whole `WHOEL`
 * history `HEUFRT`
 * written, `WREUPB KW-BG`
+* even `AOEPB`
 * its `EUTS`
 * most `PHOFT`
 * secret `SKRET`

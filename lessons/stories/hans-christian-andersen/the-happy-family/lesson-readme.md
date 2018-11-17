@@ -1,6 +1,6 @@
 # The Happy Family
 
-* the `-T`
+* The `KPA/-T`
 * largest `HRARPBLG/EFT`
 * green `TKPWRAOEPB`
 * leaf `HRAOEF`
@@ -9,8 +9,9 @@
 * country `KREU`
 * is `S`
 * certainly `SERPBL`
+* the `-T`
 * burdock-leaf. `PW*/*U/R*/TK-LS/TKOBG H-PB HRAOEF TP-PL`
-* if `TP`
+* If `KPA/TP`
 * you `U`
 * hold `HOLD`
 * it `T`
@@ -23,6 +24,7 @@
 * an `APB`
 * apron; `AEUP/ROPB STPH*FPLT`
 * and `SKP`
+* if `TP`
 * over `OEFR`
 * your `KWROUR`
 * head, `HED KW-BG`
@@ -86,6 +88,7 @@
 * burdock-leaves, `PW*/*U/R*/TK-LS/TKOBG H-PB HREFS KW-BG`
 * was `WAS`
 * planted. `PHRAPBT/-D TP-PL`
+* There `KPA/THR`
 * once `WUPBS`
 * old `OLD`
 * estate `ES/TAEUT`
@@ -98,7 +101,7 @@
 * owners `OERPBS`
 * died `TKAOEUD`
 * out, `OUT KW-BG`
-* But `PWUT`
+* but `PWUT`
 * still `STEUL`
 * flourished; `TPHROR/EURB/-D STPH*FPLT`
 * grew `TKPWRAOU`
@@ -113,7 +116,7 @@
 * quite `KWAOEUT`
 * forest `TPOEFRT`
 * burdocks. `PW*/*U/R*/TK-LS/TKOBG/-S TP-PL`
-* here `HAOER`
+* Here `KPA/HAOER`
 * stood `STAOD`
 * apple `A*EPL`
 * or `OR`
@@ -124,11 +127,14 @@
 * ever `-FR`
 * been `PW-PB`
 * garden. `TKPWA*RPB TP-PL`
+* It `KPA/T`
 * from `TPR`
 * end `EPBD`
 * other; `OER STPH*FPLT`
+* here `HAOER`
 * two `TWO`
 * surviving `SUR/SRAOEUFG`
+* They `KPA/THE`
 * knew `TPHAOU`
 * not `TPHOT`
 * themselves `TH*EPLS`
@@ -154,16 +160,16 @@
 * existed `KPEUFTD`
 * world, `WORLD KW-BG`
 * called `KAULD`
-* Duke's `TKAOUBG AES`
-* Palace `PAL/AS`
-* castle, `KAFL KW-BG`
+* Duke's `TKAO*UBG AES`
+* Palace `KPA/PAL/AS`
+* Castle, `KPA/KAFL KW-BG`
 * some `SOPL`
 * their `THAEUR`
 * relations `RELGS/-S`
 * boiled `PWOEULD`
 * till `T*EUL`
 * black, `PWHRABG KW-BG`
-* Then `THEPB`
+* then `THEPB`
 * laid `HRAEUD`
 * silver `SEUL/SRER`
 * dish; `TKEURB STPH*FPLT`
@@ -171,7 +177,7 @@
 * afterwards `A*FRDZ`
 * did `TK`
 * know. `TPHOE TP-PL`
-* Besides, `PW-DZ KW-BG`
+* Besides, `KPA/PW-DZ KW-BG`
 * imagine `PHAPBLG`
 * exactly `ELG`
 * felt `TPELT`
@@ -183,7 +189,7 @@
 * fine `TPAOEUPB`
 * highly `HAOEUL`
 * genteel. `SKWREPB/TAOEL TP-PL`
-* Neither `TPHAOERT`
+* Neither `KPA/TPHAOERT`
 * cockchafer, `xxx cockchafer KW-BG`
 * nor `TPH-R`
 * toad, `TAOD KW-BG`
@@ -230,7 +236,7 @@
 * particularly `PHRARL`
 * mother-snail, `PHOER H-PB STPHAEUL KW-BG`
 * declared `TKE/KHRAEURD`
-* She `SHE`
+* she `SHE`
 * easily `AOELS`
 * see `SAOE`
 * grew; `TKPWRAOU STPH*FPLT`
@@ -246,17 +252,18 @@
 * found `TPOUPBD`
 * mother `PHOER`
 * right. `RAOEUT TP-PL`
+* One `KPA/WUPB`
 * day `TKAEU`
 * rained `RAEUPBD`
 * fast. `TPAFT TP-PL`
-* "Listen, `KR-GS HREUFPB KW-BG`
+* "Listen, `KR-GS KPA/HREUFPB KW-BG`
 * drumming `TKRUPL/-G`
 * burdock-leaves; `PW*/*U/R*/TK-LS/TKOBG H-PB HREFS STPH*FPLT`
 * turn, `TURPB KW-BG`
 * turn; `TURPB STPH*FPLT`
 * turn," `TURPB KW-BG KR-GS`
 * father-snail. `TPAER H-PB STPHAEUL TP-PL`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * come `KOPL`
 * drops," `TKROPS KW-BG KR-GS`
 * mother; `PHOER STPH*FPLT`
@@ -264,13 +271,14 @@
 * trickling `TREUBG/-LG`
 * down `TKOUPB`
 * stalks. `STAUBGS TP-PL`
-* we `WE`
+* We `KPA/WE`
 * shall `SHAL`
 * wet `WET`
 * presently. `PREPBLT TP-PL`
 * I `EU`
 * am `APL`
 * glad `TKPWHRAD`
+* we `WE`
 * such `SUFP`
 * houses, `HO*UFS KW-BG`
 * has `HAS`
@@ -305,7 +313,7 @@
 * "I `KR-GS EU`
 * wish `WEURB`
 * more." `PHOR TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * do," `TKO KW-BG KR-GS`
 * taken `TAEPB`
 * palace, `PAL/AS KW-BG`
@@ -317,7 +325,8 @@
 * sure `SHUR`
 * must `PHUFT`
 * uncommon." `UPB/KPHOPB TP-PL KR-GS`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
+* castle, `KAFL KW-BG`
 * perhaps, `PRAPS KW-BG`
 * fallen `TPAUL/-PB`
 * decay," `TKE/KAEU KW-BG KR-GS`
@@ -326,6 +335,7 @@
 * wood `WAOD`
 * grown `TKPWROEPB`
 * out. `OUT TP-PL`
+* You `KPA/U`
 * need `TPHAOED`
 * hurry; `HUR/REU STPH*FPLT`
 * always `AULS`
@@ -334,6 +344,7 @@
 * getting `TKPWEGT`
 * just `SKWRUFT`
 * same. `SAEUPL TP-PL`
+* He `KPA/HE`
 * three `THRAOE`
 * days `TKAEUS`
 * creeping `KRAOEPG`
@@ -342,11 +353,11 @@
 * giddy `TKPWEUD/KWREU`
 * look `HRAOBG`
 * him." `HEUPL TP-PL KR-GS`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * scold `SKOLD`
 * him," `HEUPL KW-BG KR-GS`
 * mother-snail; `PHOER H-PB STPHAEUL STPH*FPLT`
-* "He `KR-GS HE`
+* "he `KR-GS HE`
 * creeps `KRAOEPS`
 * carefully. `KA*EUFL TP-PL`
 * will `HR`
@@ -356,10 +367,11 @@
 * else `ELS`
 * live `HREUF`
 * for. `TPOR TP-PL`
+* But `KPA/PWUT`
 * get `TKPWET`
 * wife `WAOEUF`
 * him? `HEUPL H-F`
-* Do `TKO`
+* Do `KPA/TKO`
 * think `THEU`
 * farther `TPA*RT`
 * out `OUT`
@@ -379,7 +391,7 @@
 * there, `THR KW-BG`
 * business `PWEUS`
 * through. `THRU TP-PL`
-* They, `THE KW-BG`
+* They, `KPA/THE KW-BG`
 * likely, `HRAOEULG KW-BG`
 * youngster." `KWRUPBG/STER TP-PL KR-GS`
 * beautiful `PWAOUFL`
@@ -389,12 +401,12 @@
 * fear `TPAOER`
 * do, `TKO KW-BG`
 * queen." `KWAOEPB TP-PL KR-GS`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * does `TKOS`
 * matter," `PHAERT KW-BG KR-GS`
 * "has `KR-GS HAS`
 * house?" `HOUS H-F KR-GS`
-* "She `KR-GS SHE`
+* "She `KR-GS KPA/SHE`
 * palace," `PAL/AS KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * ant,—"a `A*PBT KW-BG EPL/TKA*RB KR-GS AEU`
@@ -403,7 +415,7 @@
 * seven `SEFPB`
 * hundred `HUPBD`
 * passages." `PA*PBLGS TP-PL KR-GS`
-* "Thank-you," `KR-GS THAPBG H-PB U KW-BG KR-GS`
+* "Thank-you," `KR-GS KPA/THAPBG H-PB U KW-BG KR-GS`
 * boy `PWOEU`
 * go `TKPW`
 * ant-hill. `A*PBT H-PB HEUL TP-PL`
@@ -414,7 +426,7 @@
 * rain `RAEUPB`
 * sunshine; `SUPB/SHAO*EUPB STPH*FPLT`
 * other." `OER TP-PL KR-GS`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * "a `KR-GS AEU`
 * man-steps `PHAPB H-PB STEPS`
 * snail `STPHAEUL`
@@ -424,13 +436,16 @@
 * alone, `A/HROEPB KW-BG`
 * married. `PHAERD TP-PL`
 * here." `HAOER TP-PL KR-GS`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * let `HRET`
 * her `HER`
 * people. `PAOEPL TP-PL`
+* "He `KR-GS KPA/HE`
 * forest; `TPOEFRT STPH*FPLT`
 * bush." `PWURB TP-PL KR-GS`
+* So `KPA/SO`
 * lady-snail. `HRA*ED H-PB STPHAEUL TP-PL`
+* She `KPA/SHE`
 * took `TAOBG`
 * eight `AET`
 * perform `PORPL`
@@ -440,8 +455,9 @@
 * showed `SHOED`
 * right `RAOEUT`
 * breeding. `PWRAOED/-G TP-PL`
+* And `AFPBD`
 * wedding. `WEGD TP-PL`
-* Six `SEUBGS`
+* Six `KPA/SEUBGS`
 * glow-worms `TKPWHROE H-PB WORPLS`
 * gave `TKPWAEUF`
 * light `HRAOEUT`
@@ -457,6 +473,7 @@
 * speak; `SPAOEBG STPH*FPLT`
 * too `TAO`
 * overcome. `AUFR/KOPL TP-PL`
+* Then `KPA/THEPB`
 * young `KWRUPBG`
 * inheritance, `EUPB/HER/TAPBS KW-BG`
 * repeated `RE/PAOETD`

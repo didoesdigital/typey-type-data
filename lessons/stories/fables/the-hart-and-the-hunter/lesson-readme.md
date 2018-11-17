@@ -1,6 +1,6 @@
 # The Hart and the Hunter
 
-* the `-T`
+* The `KPA/-T`
 * Hart `HA*RT`
 * was `WAS`
 * once `WUPBS`
@@ -10,12 +10,13 @@
 * pool `PAOL`
 * and `SKP`
 * admiring `AD/PHAOEURG`
+* the `-T`
 * noble `TPHOEBL`
 * figure `TPEUG`
 * he `HE`
 * made `PHAED`
 * there. `THR TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * said `SAEUD`
 * he, `HE KW-BG`
 * "where `KR-GS W-R`
@@ -45,7 +46,7 @@
 * so `SO`
 * slim `SHREUPL`
 * slight." `SHRAOEUT TP-PL KR-GS`
-* At `AT`
+* At `KPA/AT`
 * that `THA`
 * moment `PHOEPLT`
 * Hunter `HURPBT`
@@ -56,7 +57,7 @@
 * whistling `WHEUS/-LG`
 * after `AF`
 * him. `HEUPL TP-PL`
-* Away `A/WAEU`
+* Away `KPA/A/WAEU`
 * bounded `PWOUPBD/-D`
 * Hart, `HA*RT KW-BG`
 * soon, `SAOPB KW-BG`
@@ -91,11 +92,11 @@
 * time `TAOEUPL`
 * come `KOPL`
 * up. `UP TP-PL`
-* "Alas! `KR-GS A/HRAS SKHRAPL`
+* "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
 * alas!" `A/HRAS SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * Hart: `HA*RT STPH-FPLT`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * often `OFPB`
 * despise `STKPAOEUZ`
 * what `WHA`

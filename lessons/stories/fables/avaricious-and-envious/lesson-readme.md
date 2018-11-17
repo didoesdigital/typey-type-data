@@ -1,6 +1,6 @@
 # Avaricious and Envious
 
-* two `TWO`
+* Two `KPA/TWO`
 * neighbours `TPHAEUBS/A*U`
 * came `KAEUPL`
 * before `PW-F`
@@ -13,7 +13,7 @@
 * their `THAEUR`
 * hearts' `HARTS AE`
 * desire. `STKAOEUR TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * the `-T`
 * one `WUPB`
 * was `WAS`
@@ -25,7 +25,7 @@
 * up `UP`
 * with `W`
 * envy. `EPB/SREU TP-PL`
-* So `SO`
+* So `KPA/SO`
 * punish `P-RB`
 * them `THEPL`
 * both, `PWO*T KW-BG`
@@ -49,12 +49,13 @@
 * twice `TWAOEUS`
 * as `AZ`
 * much. `PHUFP TP-PL`
-* Avaricious `AFR/EURBS`
+* The `KPA/-T`
+* Avaricious `KPA/AFR/EURBS`
 * man `PHAPB`
 * a `AEU`
 * room `RAOPL`
 * gold. `TKPWOELD TP-PL`
-* No `TPHO`
+* No `KPA/TPHO`
 * sooner `SAORPB`
 * said `SAEUD`
 * than `THAPB`
@@ -65,12 +66,13 @@
 * grief `TKPWRAOEF`
 * when `WHEPB`
 * found `TPOUPBD`
+* two `TWO`
 * rooms `RAOPLS`
 * precious `PRERBS`
 * metal. `PH*ELT TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * turn `TURPB`
-* Envious `EPB/SROUS`
+* Envious `KPA/EPB/SROUS`
 * man, `PHAPB KW-BG`
 * who `WHO`
 * could `KO`
@@ -92,6 +94,6 @@
 * become `PW-BG`
 * totally `THROELT`
 * blind. `PWHRAOEUPBD TP-PL`
-* Vices `SRAOEUS/-S`
+* Vices `KPA/SRAOEUS/-S`
 * are `R`
 * punishment. `PUPLT TP-PL`

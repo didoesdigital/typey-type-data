@@ -1,6 +1,6 @@
 The Ugly Duckling
 
-'It': T
+'It': KPA/T
 'was': WAS
 'lovely': HROFL
 'summer': SAOURPL
@@ -25,7 +25,7 @@ The Ugly Duckling
 'meadows': PHED/OES
 'looked': HRAOBGD
 'beautiful.': PWAOUFL TP-PL
-'The': -T
+'The': KPA/-T
 'stork': STORBG
 'walking': WAUG
 'about': PW
@@ -46,7 +46,7 @@ The Ugly Duckling
 'from': TPR
 'his': HEUS
 'mother.': PHOER TP-PL
-'The': -T
+'The': KPA/-T
 'corn-fields': KORPB H-PB TPAOELDZ
 'and': SKP
 'meadows': PHED/OES
@@ -63,7 +63,7 @@ The Ugly Duckling
 'were': WR
 'deep': TKAOEP
 'pools.': PAOLS TP-PL
-'It': T
+'It': KPA/T
 'was,': WAS KW-BG
 'indeed,': TPHAOEPBD KW-BG
 'delightful': TKHRAOEUT/-FL
@@ -73,7 +73,7 @@ The Ugly Duckling
 'in': TPH
 'the': -T
 'country.': KREU TP-PL
-'In': TPH
+'In': KPA/TPH
 'a': AEU
 'sunny': SAOUPB
 'spot': SPOT
@@ -114,7 +114,7 @@ The Ugly Duckling
 'could': KO
 'stand': STAPBD
 'upright.': UP/RAOEUGT TP-PL
-'The': -T
+'The': KPA/-T
 'spot': SPOT
 'was': WAS
 'as': AZ
@@ -126,7 +126,7 @@ The Ugly Duckling
 'a': AEU
 'thick': THEUBG
 'wood.': WAOD TP-PL
-'In': TPH
+'In': KPA/TPH
 'this': TH
 'snug': STPHUG
 'retreat': RE/TRAOET
@@ -171,7 +171,7 @@ The Ugly Duckling
 'had': H
 'any': TPHEU
 'visitors.': SREUS/TORS TP-PL
-'The': -T
+'The': KPA/-T
 'other': OER
 'ducks': TKUBGZ
 'liked': HRAOEUBGD
@@ -201,7 +201,7 @@ The Ugly Duckling
 'gossip': TKPWOFP
 'with': W
 'her.': HER TP-PL
-'At': AT
+'At': KPA/AT
 'length': HREPBG
 'one': WUPB
 'shell': SHEL
@@ -223,9 +223,9 @@ The Ugly Duckling
 'head': HED
 'and': SKP
 'cried,': KRAOEUD KW-BG
-'"Peep,': KR-GS PAOEP KW-BG
+'"Peep,': KR-GS KPA/PAOEP KW-BG
 'peep."': PAOEP TP-PL KR-GS
-'"Quack,': KR-GS KWA*BG KW-BG
+'"Quack,': KR-GS KPA/KWA*BG KW-BG
 'quack,"': KWA*BG KW-BG KR-GS
 'said': SAEUD
 'the': -T
@@ -252,7 +252,7 @@ The Ugly Duckling
 'large': HRARPBLG
 'green': TKPWRAOEPB
 'leaves.': HREFS TP-PL
-'Their': THAEUR
+'Their': KPA/THAEUR
 'mother': PHOER
 'allowed': HRO*UD
 'them': THEPL
@@ -270,7 +270,7 @@ The Ugly Duckling
 'for': TPOR
 'the': -T
 'eyes.': AO*EUS TP-PL
-'"How': KR-GS HOU
+'"How': KR-GS KPA/HOU
 'large': HRARPBLG
 'the': -T
 'world': WORLD
@@ -296,7 +296,7 @@ The Ugly Duckling
 'inside': TPH-DZ
 'the': -T
 'egg-shell.': EG H-PB SHEL TP-PL
-'"Do': KR-GS TKO
+'"Do': KR-GS KPA/TKO
 'you': U
 'imagine': PHAPBLG
 'this': TH
@@ -307,7 +307,7 @@ The Ugly Duckling
 'asked': SK-D
 'the': -T
 'mother;': PHOER STPH*FPLT
-'"Wait': KR-GS WAEUT
+'"Wait': KR-GS KPA/WAEUT
 'till': T*EUL
 'you': U
 'have': SR
@@ -332,14 +332,14 @@ The Ugly Duckling
 'such': SUFP
 'a': AEU
 'distance.': STKAPBS TP-PL
-'Are': R
+'Are': KPA/R
 'you': U
 'all': AUL
 'out?"': OUT H-F KR-GS
 'she': SHE
 'continued,': T-PBD KW-BG
 'rising;': RAOEUFG STPH*FPLT
-'"No,': KR-GS TPHO KW-BG
+'"No,': KR-GS KPA/TPHO KW-BG
 'I': EU
 'declare,': TKE/KHRAR KW-BG
 'the': -T
@@ -370,7 +370,7 @@ The Ugly Duckling
 'on': OPB
 'the': -T
 'nest.': TPHEFT TP-PL
-'"Well,': KR-GS WEL KW-BG
+'"Well,': KR-GS KPA/WEL KW-BG
 'how': HOU
 'are': R
 'you': U
@@ -385,7 +385,7 @@ The Ugly Duckling
 'her': HER
 'a': AEU
 'visit.': SREUFT TP-PL
-'"One': KR-GS WUPB
+'"One': KR-GS KPA/WUPB
 'egg': EG
 'is': S
 'not': TPHOT
@@ -398,7 +398,7 @@ The Ugly Duckling
 'will': HR
 'not': TPHOT
 'break.': PWRAEBG TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'just': SKWRUFT
 'look': HRAOBG
 'at': AT
@@ -415,7 +415,7 @@ The Ugly Duckling
 'you': U
 'ever': -FR
 'saw?': SAU H-F
-'They': THE
+'They': KPA/THE
 'are': R
 'the': -T
 'image': EUPBLG
@@ -431,7 +431,7 @@ The Ugly Duckling
 'comes': KOPLS
 'to': TO
 'see."': SAOE TP-PL KR-GS
-'"Let': KR-GS HRET
+'"Let': KR-GS KPA/HRET
 'me': PHE
 'see': SAOE
 'the': -T
@@ -493,13 +493,13 @@ The Ugly Duckling
 'to': TO
 'venture': SREPBT/UR
 'in.': TPH TP-PL
-'Let': HRET
+'Let': KPA/HRET
 'me': PHE
 'look': HRAOBG
 'at': AT
 'the': -T
 'egg.': EG TP-PL
-'Yes,': KWRE KW-BG
+'Yes,': KPA/KWRE KW-BG
 'that': THA
 'is': S
 'a': AEU
@@ -547,7 +547,7 @@ The Ugly Duckling
 'will': HR
 'be': -B
 'nothing."': TPHOG TP-PL KR-GS
-'"Please': KR-GS PHRES
+'"Please': KR-GS KPA/PHRES
 'yourself,"': KWRO*URS KW-BG KR-GS
 'said': SAEUD
 'the': -T
@@ -557,7 +557,7 @@ The Ugly Duckling
 'she': SHE
 'went': WEPBT
 'away.': A/WAEU TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'the': -T
 'large': HRARPBLG
@@ -570,22 +570,22 @@ The Ugly Duckling
 'crept': KREPT
 'forth': TPO*RT
 'crying,': KRAOEUG KW-BG
-'"Peep,': KR-GS PAOEP KW-BG
+'"Peep,': KR-GS KPA/PAOEP KW-BG
 'peep."': PAOEP TP-PL KR-GS
-'It': T
+'It': KPA/T
 'was': WAS
 'very': SRE
 'large': HRARPBLG
 'and': SKP
 'ugly.': ULG TP-PL
-'The': -T
+'The': KPA/-T
 'duck': TKUBG
 'stared': STAERD
 'at': AT
 'it': T
 'and': SKP
 'exclaimed,': SKHRAEUPL/-D KW-BG
-'"It': KR-GS T
+'"It': KR-GS KPA/T
 'is': S
 'very': SRE
 'large': HRARPBLG
@@ -604,7 +604,7 @@ The Ugly Duckling
 'is': S
 'a': AEU
 'turkey.': TUR/KAE TP-PL
-'We': WE
+'We': KPA/WE
 'shall': SHAL
 'soon': SAOPB
 'find': TPEUPBD
@@ -617,7 +617,7 @@ The Ugly Duckling
 'to': TO
 'the': -T
 'water.': WAUR TP-PL
-'It': T
+'It': KPA/T
 'must': PHUFT
 'go': TKPW
 'in,': TPH KW-BG
@@ -628,7 +628,7 @@ The Ugly Duckling
 'push': PURB
 'it': T
 'myself."': PHAO*EUS TP-PL KR-GS
-'On': OPB
+'On': KPA/OPB
 'the': -T
 'next': TPHEGT
 'day': TKAEU
@@ -664,7 +664,7 @@ The Ugly Duckling
 'with': W
 'a': AEU
 'splash.': SPHRARB TP-PL
-'"Quack,': KR-GS KWA*BG KW-BG
+'"Quack,': KR-GS KPA/KWA*BG KW-BG
 'quack,"': KWA*BG KW-BG KR-GS
 'cried': KRAOEUD
 'she,': SHE KW-BG
@@ -677,7 +677,7 @@ The Ugly Duckling
 'ducklings': TKUBG/-LGS
 'jumped': SKWR*UPLD
 'in.': TPH TP-PL
-'The': -T
+'The': KPA/-T
 'water': WAUR
 'closed': KHROEFD
 'over': OEFR
@@ -718,7 +718,7 @@ The Ugly Duckling
 'swimming': SWEUPLG
 'with': W
 'them.': THEPL TP-PL
-'"Oh,"': KR-GS O*E KW-BG KR-GS
+'"Oh,"': KR-GS KPA/O*E KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'mother,': PHOER KW-BG
@@ -739,7 +739,7 @@ The Ugly Duckling
 'he': HE
 'holds': HOLDZ
 'himself!': H*EUPLS SKHRAPL
-'He': HE
+'He': KPA/HE
 'is': S
 'my': PHEU
 'own': OEPB
@@ -759,7 +759,7 @@ The Ugly Duckling
 'at': AT
 'him': HEUPL
 'properly.': PRORL TP-PL
-'Quack,': KWA*BG KW-BG
+'Quack,': KPA/KWA*BG KW-BG
 'quack!': KWA*BG SKHRAPL
 'come': KOPL
 'with': W
@@ -798,7 +798,7 @@ The Ugly Duckling
 'of': -F
 'the': -T
 'cat."': KAT TP-PL KR-GS
-'When': WHEPB
+'When': KPA/WHEPB
 'they': THE
 'reached': RAOEFPD
 'the': -T
@@ -825,7 +825,7 @@ The Ugly Duckling
 'by': PWEU
 'the': -T
 'cat.': KAT TP-PL
-'"See,': KR-GS SAOE KW-BG
+'"See,': KR-GS KPA/SAOE KW-BG
 'children,': KHEURPB KW-BG
 'that': THA
 'is': S
@@ -850,7 +850,7 @@ The Ugly Duckling
 'eel's': AOEL AES
 'head': HED
 'herself.': H*ERS TP-PL
-'"Come,': KR-GS KOPL KW-BG
+'"Come,': KR-GS KPA/KOPL KW-BG
 'now,': TPHOU KW-BG
 'use': AOUS
 'your': KWROUR
@@ -864,7 +864,7 @@ The Ugly Duckling
 'you': U
 'can': K
 'behave.': PWAEUF TP-PL
-'You': U
+'You': KPA/U
 'must': PHUFT
 'bow': PWOE
 'your': KWROUR
@@ -937,7 +937,7 @@ The Ugly Duckling
 'man': PHAPB
 'and': SKP
 'beast.': PWAOEFT TP-PL
-'Come,': KOPL KW-BG
+'Come,': KPA/KOPL KW-BG
 'now,': TPHOU KW-BG
 'don't': TKOEPBT
 'turn': TURPB
@@ -967,7 +967,7 @@ The Ugly Duckling
 'and': SKP
 'say': SAEU
 ''quack.'"': AE KWA*BG TP-PL AE KR-GS
-'The': -T
+'The': KPA/-T
 'ducklings': TKUBG/-LGS
 'did': TK
 'as': AZ
@@ -981,7 +981,7 @@ The Ugly Duckling
 'stared,': STAERD KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
-'"Look,': KR-GS HRAOBG KW-BG
+'"Look,': KR-GS KPA/HRAOBG KW-BG
 'here': HAOER
 'comes': KOPLS
 'another': TPHOER
@@ -1021,7 +1021,7 @@ The Ugly Duckling
 'in': TPH
 'the': -T
 'neck.': TPHEBG TP-PL
-'"Let': KR-GS HRET
+'"Let': KR-GS KPA/HRET
 'him': HEUPL
 'alone,"': A/HROEPB KW-BG KR-GS
 'said': SAEUD
@@ -1033,7 +1033,7 @@ The Ugly Duckling
 'doing': TK*G
 'any': TPHEU
 'harm."': HARPL TP-PL KR-GS
-'"Yes,': KR-GS KWRE KW-BG
+'"Yes,': KR-GS KPA/KWRE KW-BG
 'but': PWUT
 'he': HE
 'is': S
@@ -1052,7 +1052,7 @@ The Ugly Duckling
 'be': -B
 'turned': TURPBD
 'out."': OUT TP-PL KR-GS
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'others': OERS
 'are': R
 'very': SRE
@@ -1081,7 +1081,7 @@ The Ugly Duckling
 'him': HEUPL
 'a': AEU
 'little."': HREUL TP-PL KR-GS
-'"That': KR-GS THA
+'"That': KR-GS KPA/THA
 'is': S
 'impossible,': EUPL/POB KW-BG
 'your': KWROUR
@@ -1148,7 +1148,7 @@ The Ugly Duckling
 'the': -T
 'feathers,': TP*ET/ERS KW-BG
 'saying,': SAEUG KW-BG
-'"It': KR-GS T
+'"It': KR-GS KPA/T
 'is': S
 'a': AEU
 'drake,': TKRAEUBG KW-BG
@@ -1173,7 +1173,7 @@ The Ugly Duckling
 'care': KAEUR
 'of': -F
 'himself."': H*EUPLS TP-PL KR-GS
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'other': OER
 'ducklings': TKUBG/-LGS
 'are': R
@@ -1183,7 +1183,7 @@ The Ugly Duckling
 'the': -T
 'old': OLD
 'duck.': TKUBG TP-PL
-'"Now': KR-GS TPHOU
+'"Now': KR-GS KPA/TPHOU
 'make': PHAEUBG
 'yourself': KWRO*URS
 'at': AT
@@ -1202,7 +1202,7 @@ The Ugly Duckling
 'it': T
 'to': TO
 'me."': PHE TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'so': SO
 'they': THE
 'made': PHAED
@@ -1244,7 +1244,7 @@ The Ugly Duckling
 'all': AUL
 'the': -T
 'poultry.': POL/TREU TP-PL
-'"He': KR-GS HE
+'"He': KR-GS KPA/HE
 'is': S
 'too': TAO
 'big,"': PWEUG KW-BG KR-GS
@@ -1321,7 +1321,7 @@ The Ugly Duckling
 'the': -T
 'whole': WHOEL
 'farmyard.': TPARPL/KWRARD TP-PL
-'So': SO
+'So': KPA/SO
 'it': T
 'went': WEPBT
 'on': OPB
@@ -1335,7 +1335,7 @@ The Ugly Duckling
 'worse': WORS
 'and': SKP
 'worse.': WORS TP-PL
-'The': -T
+'The': KPA/-T
 'poor': PAOR
 'duckling': TKUBG/-LG
 'was': WAS
@@ -1356,7 +1356,7 @@ The Ugly Duckling
 'and': SKP
 'would': WO
 'say,': SAEU KW-BG
-'"Ah,': KR-GS HA*E KW-BG
+'"Ah,': KR-GS KPA/HA*E KW-BG
 'you': U
 'ugly': ULG
 'creature,': KRAOEFP KW-BG
@@ -1378,7 +1378,7 @@ The Ugly Duckling
 'never': TPHEF
 'been': PW-PB
 'born.': PWORPB TP-PL
-'The': -T
+'The': KPA/-T
 'ducks': TKUBGZ
 'pecked': PEBGD
 'him,': HEUPL KW-BG
@@ -1398,7 +1398,7 @@ The Ugly Duckling
 'with': W
 'her': HER
 'feet.': TPAOET TP-PL
-'So': SO
+'So': KPA/SO
 'at': AT
 'last': HRAFT
 'he': HE
@@ -1417,7 +1417,7 @@ The Ugly Duckling
 'over': OEFR
 'the': -T
 'palings.': xxx palings TP-PL
-'"They': KR-GS THE
+'"They': KR-GS KPA/THE
 'are': R
 'afraid': A/TPRAEUD
 'of': -F
@@ -1428,7 +1428,7 @@ The Ugly Duckling
 'ugly,"': ULG KW-BG KR-GS
 'he': HE
 'said.': SAEUD TP-PL
-'So': SO
+'So': KPA/SO
 'he': HE
 'closed': KHROEFD
 'his': HEUS
@@ -1449,7 +1449,7 @@ The Ugly Duckling
 'by': PWEU
 'wild': WAOEULD
 'ducks.': TKUBGZ TP-PL
-'Here': HAOER
+'Here': KPA/HAOER
 'he': HE
 'remained': RE/PHAEUPBD
 'the': -T
@@ -1460,14 +1460,14 @@ The Ugly Duckling
 'tired': TAOEURD
 'and': SKP
 'sorrowful.': SOR/ROEFL TP-PL
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'morning,': PHORPBG KW-BG
 'when': WHEPB
 'the': -T
 'wild': WAOEULD
 'ducks': TKUBGZ
-'rose': ROEZ
+'rose': ROES
 'in': TPH
 'the': -T
 'air,': AEUR KW-BG
@@ -1477,7 +1477,7 @@ The Ugly Duckling
 'their': THAEUR
 'new': TPHU
 'comrade.': KOPL/RAD TP-PL
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'sort': SORT
 'of': -F
 'a': AEU
@@ -1490,7 +1490,7 @@ The Ugly Duckling
 'coming': KO*G
 'round': ROUPBD
 'him.': HEUPL TP-PL
-'He': HE
+'He': KPA/HE
 'bowed': PWOE/-D
 'to': TO
 'them,': THEPL KW-BG
@@ -1510,7 +1510,7 @@ The Ugly Duckling
 'to': TO
 'their': THAEUR
 'question.': KWE TP-PL
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'are': R
 'exceedingly': EBGS/AOED/TKPWHREU
 'ugly,"': ULG KW-BG KR-GS
@@ -1534,7 +1534,7 @@ The Ugly Duckling
 'of': -F
 'our': OUR
 'family."': TPAEPL TP-PL KR-GS
-'Poor': PAOR
+'Poor': KPA/PAOR
 'thing!': THEUPBG SKHRAPL
 'he': HE
 'had': H
@@ -1561,7 +1561,7 @@ The Ugly Duckling
 'on': OPB
 'the': -T
 'moor.': PHO*R TP-PL
-'After': AF
+'After': KPA/AF
 'he': HE
 'had': H
 'been': PW-PB
@@ -1592,7 +1592,7 @@ The Ugly Duckling
 'were': WR
 'very': SRE
 'saucy.': SAU/SEU TP-PL
-'"Listen,': KR-GS HREUFPB KW-BG
+'"Listen,': KR-GS KPA/HREUFPB KW-BG
 'friend,"': TPREPBD KW-BG KR-GS
 'said': SAEUD
 'one': WUPB
@@ -1611,7 +1611,7 @@ The Ugly Duckling
 'you': U
 'very': SRE
 'well.': WEL TP-PL
-'Will': HR
+'Will': W*EUL
 'you': U
 'go': TKPW
 'with': W
@@ -1622,7 +1622,7 @@ The Ugly Duckling
 'bird': PWEURD
 'of': -F
 'passage?': PAFPBLG H-F
-'Not': TPHOT
+'Not': KPA/TPHOT
 'far': TPAR
 'from': TPR
 'here': HAOER
@@ -1639,7 +1639,7 @@ The Ugly Duckling
 'geese,': TKPWAOES KW-BG
 'all': AUL
 'unmarried.': UPB/PHAEUR/EUD TP-PL
-'It': T
+'It': KPA/T
 'is': S
 'a': AEU
 'chance': KHAPBS
@@ -1657,7 +1657,7 @@ The Ugly Duckling
 'as': AZ
 'you': U
 'are."': R TP-PL KR-GS
-'"Pop,': KR-GS POP KW-BG
+'"Pop,': KR-GS KPA/POP KW-BG
 'pop,"': POP KW-BG KR-GS
 'sounded': SOUPBD/-D
 'in': TPH
@@ -1680,7 +1680,7 @@ The Ugly Duckling
 'tinged': TEUPB/-PBLGD
 'with': W
 'blood.': PWHRAOD TP-PL
-'"Pop,': KR-GS POP KW-BG
+'"Pop,': KR-GS KPA/POP KW-BG
 'pop,"': POP KW-BG KR-GS
 'echoed': EBG/OE/-D
 'far': TPAR
@@ -1695,12 +1695,12 @@ The Ugly Duckling
 'of': -F
 'wild': WAOEULD
 'geese': TKPWAOES
-'rose': ROEZ
+'rose': ROES
 'up': UP
 'from': TPR
 'the': -T
 'rushes.': RURBS TP-PL
-'The': -T
+'The': KPA/-T
 'sound': SOUPBD
 'continued': T-PBD
 'from': TPR
@@ -1724,13 +1724,13 @@ The Ugly Duckling
 'overlooking': AUFR/HRAOBG/-G
 'the': -T
 'rushes.': RURBS TP-PL
-'The': -T
+'The': KPA/-T
 'blue': PWHRU
 'smoke': SPHOEBG
 'from': TPR
 'the': -T
 'guns': TKPW-PBS
-'rose': ROEZ
+'rose': ROES
 'like': HRAOEUBG
 'clouds': KHROUDZ
 'over': OEFR
@@ -1762,13 +1762,13 @@ The Ugly Duckling
 'wherever': W-FR
 'they': THE
 'went.': WEPBT TP-PL
-'How': HOU
+'How': KPA/HOU
 'they': THE
 'terrified': TER/TPAOEUD
 'the': -T
 'poor': PAOR
 'duckling!': TKUBG/-LG SKHRAPL
-'He': HE
+'He': KPA/HE
 'turned': TURPBD
 'away': A/WAEU
 'his': HEUS
@@ -1792,7 +1792,7 @@ The Ugly Duckling
 'quite': KWAOEUT
 'near': TPHAOER
 'him.': HEUPL TP-PL
-'His': HEUS
+'His': KPA/HEUS
 'jaws': SKWRAUS
 'were': WR
 'open,': OEP KW-BG
@@ -1807,7 +1807,7 @@ The Ugly Duckling
 'eyes': AO*EUS
 'glared': TKPWHRAEURD
 'fearfully.': TPAOER/TPHREU TP-PL
-'He': HE
+'He': KPA/HE
 'thrust': THRUFT
 'his': HEUS
 'nose': TPHOES
@@ -1831,7 +1831,7 @@ The Ugly Duckling
 'without': WOUT
 'touching': TUFPG
 'him,': HEUPL KW-BG
-'"Oh,"': KR-GS O*E KW-BG KR-GS
+'"Oh,"': KR-GS KPA/O*E KW-BG KR-GS
 'sighed': SAOEU/-D
 'the': -T
 'duckling,': TKUBG/-LG KW-BG
@@ -1850,7 +1850,7 @@ The Ugly Duckling
 'not': TPHOT
 'bite': PWAOEUT
 'me."': PHE TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'so': SO
 'he': HE
 'lay': HRAEU
@@ -1871,7 +1871,7 @@ The Ugly Duckling
 'fired': TPAOEURD
 'over': OEFR
 'him.': HEUPL TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'late': HRAEUT
 'in': TPH
@@ -1893,7 +1893,7 @@ The Ugly Duckling
 'dare': TKAEUR
 'to': TO
 'move.': PHOF TP-PL
-'He': HE
+'He': KPA/HE
 'waited': WAEUTD
 'quietly': KWAO*EULT
 'for': TPOR
@@ -1916,7 +1916,7 @@ The Ugly Duckling
 'as': AZ
 'he': HE
 'could.': KO TP-PL
-'He': HE
+'He': KPA/HE
 'ran': RAPB
 'over': OEFR
 'field': TPAOELD
@@ -1933,7 +1933,7 @@ The Ugly Duckling
 'struggle': STRULG
 'against': TKPWEPBS
 'it.': T TP-PL
-'Towards': TORDZ
+'Towards': KPA/TORDZ
 'evening,': AOEPBG KW-BG
 'he': HE
 'reached': RAOEFPD
@@ -1961,7 +1961,7 @@ The Ugly Duckling
 'to': TO
 'fall': TPAUL
 'first.': TPEUFRT TP-PL
-'The': -T
+'The': KPA/-T
 'storm': STORPL
 'continued': T-PBD
 'so': SO
@@ -2000,7 +2000,7 @@ The Ugly Duckling
 'having': SR-G
 'given': TKPWEUFPB
 'way.': WAEU TP-PL
-'There': THR
+'There': KPA/THR
 'was': WAS
 'therefore': TH-FR
 'a': AEU
@@ -2031,7 +2031,7 @@ The Ugly Duckling
 'A': KPA/AEU
 'woman,': WOPL KW-BG
 'a': AEU
-'tom': TOPL
+'tom': xxx tom
 'cat,': KAT KW-BG
 'and': SKP
 'a': AEU
@@ -2040,14 +2040,14 @@ The Ugly Duckling
 'in': TPH
 'this': TH
 'cottage.': KOT/APBLG TP-PL
-'The': -T
-'tom': TOPL
+'The': KPA/-T
+'tom': xxx tom
 'cat,': KAT KW-BG
 'whom': WHOPL
 'the': -T
 'mistress': PHEUS/TRES
 'called,': KAULD KW-BG
-'"My': KR-GS PHEU
+'"My': KR-GS KPA/PHEU
 'little': HREUL
 'son,"': SOPB KW-BG KR-GS
 'was': WAS
@@ -2077,7 +2077,7 @@ The Ugly Duckling
 'the': -T
 'wrong': WROPBG
 'way.': WAEU TP-PL
-'The': -T
+'The': KPA/-T
 'hen': HEPB
 'had': H
 'very': SRE
@@ -2090,7 +2090,7 @@ The Ugly Duckling
 '"Chickie': KR-GS xxx Chickie
 'short': SHORT
 'legs."': HREGS TP-PL KR-GS
-'She': SHE
+'She': KPA/SHE
 'laid': HRAEUD
 'good': TKPWAOD
 'eggs,': EGS KW-BG
@@ -2107,7 +2107,7 @@ The Ugly Duckling
 'her': HER
 'own': OEPB
 'child.': KHAOEULD TP-PL
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'morning,': PHORPBG KW-BG
 'the': -T
@@ -2117,7 +2117,7 @@ The Ugly Duckling
 'discovered,': SKOFD KW-BG
 'and': SKP
 'the': -T
-'tom': TOPL
+'tom': xxx tom
 'cat': KAT
 'began': TKPWAPB
 'to': TO
@@ -2127,7 +2127,7 @@ The Ugly Duckling
 'hen': HEPB
 'to': TO
 'cluck.': KHRUBG TP-PL
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'is': S
 'that': THA
 'noise': TPHOEUS
@@ -2166,7 +2166,7 @@ The Ugly Duckling
 'strayed': STRAEUD
 'from': TPR
 'home.': HOEPL TP-PL
-'"Oh': KR-GS O*E
+'"Oh': KR-GS KPA/O*E
 'what': WHA
 'a': AEU
 'prize!"': PRAOEUZ SKHRAPL KR-GS
@@ -2192,7 +2192,7 @@ The Ugly Duckling
 'wait': WAEUT
 'and': SKP
 'see."': SAOE TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'the': -T
 'duckling': TKUBG/-LG
 'was': WAS
@@ -2209,9 +2209,9 @@ The Ugly Duckling
 'were': WR
 'no': TPHO
 'eggs.': EGS TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'the': -T
-'tom': TOPL
+'tom': xxx tom
 'cat': KAT
 'was': WAS
 'the': -T
@@ -2228,7 +2228,7 @@ The Ugly Duckling
 'they': THE
 'always': AULS
 'said,': SAEUD KW-BG
-'"We': KR-GS WE
+'"We': KR-GS KPA/WE
 'and': SKP
 'the': -T
 'world,"': WORLD KW-BG KR-GS
@@ -2246,7 +2246,7 @@ The Ugly Duckling
 'better': PWOERT
 'half': HAF
 'too.': TAO TP-PL
-'The': -T
+'The': KPA/-T
 'duckling': TKUBG/-LG
 'thought': THAUT
 'that': THA
@@ -2268,14 +2268,14 @@ The Ugly Duckling
 'to': TO
 'such': SUFP
 'doubts.': TKOUTS TP-PL
-'"Can': KR-GS K
+'"Can': KR-GS KPA/K
 'you': U
 'lay': HRAEU
 'eggs?"': EGS H-F KR-GS
 'she': SHE
 'asked.': SK-D TP-PL
-'"No."': KR-GS TPHO TP-PL KR-GS
-'"Then': KR-GS THEPB
+'"No."': KR-GS KPA/TPHO TP-PL KR-GS
+'"Then': KR-GS KPA/THEPB
 'have': SR
 'the': -T
 'goodness': TKPWAOD/-PBS
@@ -2283,7 +2283,7 @@ The Ugly Duckling
 'hold': HOLD
 'your': KWROUR
 'tongue."': TUPBG TP-PL KR-GS
-'"Can': KR-GS K
+'"Can': KR-GS KPA/K
 'you': U
 'raise': RAEUZ
 'your': KWROUR
@@ -2296,10 +2296,10 @@ The Ugly Duckling
 'sparks?"': SPARBGS H-F KR-GS
 'said': SAEUD
 'the': -T
-'tom': TOPL
+'tom': xxx tom
 'cat.': KAT TP-PL
-'"No."': KR-GS TPHO TP-PL KR-GS
-'"Then': KR-GS THEPB
+'"No."': KR-GS KPA/TPHO TP-PL KR-GS
+'"Then': KR-GS KPA/THEPB
 'you': U
 'have': SR
 'no': TPHO
@@ -2313,7 +2313,7 @@ The Ugly Duckling
 'people': PAOEPL
 'are': R
 'speaking."': SPAOEG TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'the': -T
 'duckling': TKUBG/-LG
 'sat': SAT
@@ -2363,14 +2363,14 @@ The Ugly Duckling
 'telling': TELG
 'the': -T
 'hen.': HEPB TP-PL
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'an': APB
 'absurd': AB/SURD
 'idea,"': KWR-D KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'hen.': HEPB TP-PL
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'have': SR
 'nothing': TPHOG
 'else': ELS
@@ -2381,7 +2381,7 @@ The Ugly Duckling
 'have': SR
 'foolish': TPAOL/EURB
 'fancies.': TPAPB/SEU/KWREU/-S TP-PL
-'If': TP
+'If': KPA/TP
 'you': U
 'could': KO
 'purr': P*UR
@@ -2392,7 +2392,7 @@ The Ugly Duckling
 'would': WO
 'pass': PAS
 'away."': A/WAEU TP-PL KR-GS
-'"But': KR-GS PWUT
+'"But': KR-GS KPA/PWUT
 'it': T
 'is': S
 'so': SO
@@ -2423,7 +2423,7 @@ The Ugly Duckling
 'to': TO
 'the': -T
 'bottom."': PWOPLT TP-PL KR-GS
-'"Delightful,': KR-GS TKHRAOEUT/-FL KW-BG
+'"Delightful,': KR-GS KPA/TKHRAOEUT/-FL KW-BG
 'indeed!"': TPHAOEPBD SKHRAPL KR-GS
 'said': SAEUD
 'the': -T
@@ -2433,7 +2433,7 @@ The Ugly Duckling
 'must': PHUFT
 'be': -B
 'crazy!': KRAEZ SKHRAPL
-'Ask': SK
+'Ask': KPA/SK
 'the': -T
 'cat,': KAT KW-BG
 'he': HE
@@ -2486,7 +2486,7 @@ The Ugly Duckling
 'than': THAPB
 'she': SHE
 'is.': S TP-PL
-'Do': TKO
+'Do': KPA/TKO
 'you': U
 'think': THEU
 'she': SHE
@@ -2503,24 +2503,24 @@ The Ugly Duckling
 'over': OEFR
 'her': HER
 'head?"': HED H-F KR-GS
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'don't': TKOEPBT
 'understand': URPBD
 'me,"': PHE KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'duckling.': TKUBG/-LG TP-PL
-'"We': KR-GS WE
+'"We': KR-GS KPA/WE
 'don't': TKOEPBT
 'understand': URPBD
 'you?': U H-F
-'Who': WHO
+'Who': KPA/WHO
 'can': K
 'understand': URPBD
 'you,': U KW-BG
 'I': EU
 'wonder?': WOPBD H-F
-'Do': TKO
+'Do': KPA/TKO
 'you': U
 'consider': KR
 'yourself': KWRO*URS
@@ -2555,7 +2555,7 @@ The Ugly Duckling
 'been': PW-PB
 'received': SAOEFD
 'here.': HAOER TP-PL
-'Are': R
+'Are': KPA/R
 'you': U
 'not': TPHOT
 'in': TPH
@@ -2571,7 +2571,7 @@ The Ugly Duckling
 'may': PHAE
 'learn': HRERPB
 'something.': S-G TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'you': U
 'are': R
 'a': AEU
@@ -2583,7 +2583,7 @@ The Ugly Duckling
 'not': TPHOT
 'very': SRE
 'agreeable.': TKPWRAOEBL TP-PL
-'Believe': PWHREF
+'Believe': KPA/PWHREF
 'me,': PHE KW-BG
 'I': EU
 'speak': SPAOEBG
@@ -2634,12 +2634,12 @@ The Ugly Duckling
 'said': SAEUD
 'the': -T
 'duckling.': TKUBG/-LG TP-PL
-'"Yes,': KR-GS KWRE KW-BG
+'"Yes,': KR-GS KPA/KWRE KW-BG
 'do,"': TKO KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'hen.': HEPB TP-PL
-'So': SO
+'So': KPA/SO
 'the': -T
 'duckling': TKUBG/-LG
 'left': HREFT
@@ -2668,7 +2668,7 @@ The Ugly Duckling
 'its': EUTS
 'ugly': ULG
 'appearance.': PAOERPBS TP-PL
-'Autumn': AU/UPL
+'Autumn': KPA/AU/UPL
 'came,': KAEUPL KW-BG
 'and': SKP
 'the': -T
@@ -2681,7 +2681,7 @@ The Ugly Duckling
 'orange': ORPBG
 'and': SKP
 'gold.': TKPWOELD TP-PL
-'Then,': THEPB KW-BG
+'Then,': KPA/THEPB KW-BG
 'as': AZ
 'winter': WEURPBT
 'approached,': A/PROEFPD KW-BG
@@ -2699,7 +2699,7 @@ The Ugly Duckling
 'the': -T
 'cold': KOELD
 'air.': AEUR TP-PL
-'The': -T
+'The': KPA/-T
 'clouds,': KHROUDZ KW-BG
 'heavy': HOEUF
 'with': W
@@ -2719,9 +2719,9 @@ The Ugly Duckling
 'the': -T
 'ferns': TPERPB/-S
 'crying,': KRAOEUG KW-BG
-'"Croak,': KR-GS KROEBG KW-BG
+'"Croak,': KR-GS KPA/KROEBG KW-BG
 'croak."': KROEBG TP-PL KR-GS
-'It': T
+'It': KPA/T
 'made': PHAED
 'one': WUPB
 'shiver': SHEUFR
@@ -2731,7 +2731,7 @@ The Ugly Duckling
 'look': HRAOBG
 'at': AT
 'him.': HEUPL TP-PL
-'All': AUL
+'All': KPA/AUL
 'this': TH
 'was': WAS
 'very': SRE
@@ -2741,7 +2741,7 @@ The Ugly Duckling
 'poor': PAOR
 'little': HREUL
 'duckling.': TKUBG/-LG TP-PL
-'One': WUPB
+'One': KPA/WUPB
 'evening,': AOEPBG KW-BG
 'just': SKWRUFT
 'as': AZ
@@ -2763,7 +2763,7 @@ The Ugly Duckling
 'of': -F
 'the': -T
 'bushes.': PWURBS TP-PL
-'The': -T
+'The': KPA/-T
 'duckling': TKUBG/-LG
 'had': H
 'never': TPHEF
@@ -2772,7 +2772,7 @@ The Ugly Duckling
 'like': HRAOEUBG
 'them': THEPL
 'before.': PW-F TP-PL
-'They': THE
+'They': KPA/THE
 'were': WR
 'swans,': SWAPBS KW-BG
 'and': SKP
@@ -2789,7 +2789,7 @@ The Ugly Duckling
 'with': W
 'dazzling': TKAZ/-LG
 'whiteness.': WHAOEUT/-PBS TP-PL
-'They': THE
+'They': KPA/THE
 'uttered': UT/ERD
 'a': AEU
 'singular': SEUPBG/HRAR
@@ -2813,7 +2813,7 @@ The Ugly Duckling
 'across': A/KROS
 'the': -T
 'sea.': SAE TP-PL
-'As': AZ
+'As': KPA/AZ
 'they': THE
 'mounted': PHOUPBTD
 'higher': HAOEUR
@@ -2835,7 +2835,7 @@ The Ugly Duckling
 'he': HE
 'watched': WAFPD
 'them.': THEPL TP-PL
-'He': HE
+'He': KPA/HE
 'whirled': WHEURL/-D
 'himself': H*EUPLS
 'in': TPH
@@ -2860,7 +2860,7 @@ The Ugly Duckling
 'it': T
 'frightened': TPRAOEUPBD
 'himself.': H*EUPLS TP-PL
-'Could': KO
+'Could': KPA/KO
 'he': HE
 'ever': -FR
 'forget': TPERGT
@@ -2884,14 +2884,14 @@ The Ugly Duckling
 'the': -T
 'water,': WAUR KW-BG
 'and': SKP
-'rose': ROEZ
+'rose': ROES
 'again': TKPWEPB
 'almost': HR-PL
 'beside': PWE/SAOEUD
 'himself': H*EUPLS
 'with': W
 'excitement.': KPAOEUPLT TP-PL
-'He': HE
+'He': KPA/HE
 'knew': TPHAOU
 'not': TPHOT
 'the': -T
@@ -2921,7 +2921,7 @@ The Ugly Duckling
 'in': TPH
 'the': -T
 'world.': WORLD TP-PL
-'He': HE
+'He': KPA/HE
 'was': WAS
 'not': TPHOT
 'envious': EPB/SROUS
@@ -2937,7 +2937,7 @@ The Ugly Duckling
 'lovely': HROFL
 'as': AZ
 'they.': THE TP-PL
-'Poor': PAOR
+'Poor': KPA/PAOR
 'ugly': ULG
 'creature,': KRAOEFP KW-BG
 'how': HOU
@@ -2956,7 +2956,7 @@ The Ugly Duckling
 'given': TKPWEUFPB
 'him': HEUPL
 'encouragement.': EPB/KORPLT TP-PL
-'The': -T
+'The': KPA/-T
 'winter': WEURPBT
 'grew': TKPWRAOU
 'colder': KOERLD
@@ -2989,7 +2989,7 @@ The Ugly Duckling
 'smaller': SPHAURL
 'and': SKP
 'smaller.': SPHAURL TP-PL
-'At': AT
+'At': KPA/AT
 'length': HREPBG
 'it': T
 'froze': TPROEZ
@@ -3026,7 +3026,7 @@ The Ugly Duckling
 'from': TPR
 'closing': KHROEFG
 'up.': UP TP-PL
-'He': HE
+'He': KPA/HE
 'became': PWAEUPL
 'exhausted': KPAUFTD
 'at': AT
@@ -3041,7 +3041,7 @@ The Ugly Duckling
 'in': TPH
 'the': -T
 'ice.': AOEUS TP-PL
-'Early': ERL
+'Early': KPA/ERL
 'in': TPH
 'the': -T
 'morning,': PHORPBG KW-BG
@@ -3055,7 +3055,7 @@ The Ugly Duckling
 'what': WHA
 'had': H
 'happened.': HAPD TP-PL
-'He': HE
+'He': KPA/HE
 'broke': PWROEBG
 'the': -T
 'ice': AOEUS
@@ -3073,7 +3073,7 @@ The Ugly Duckling
 'to': TO
 'his': HEUS
 'wife.': WAOEUF TP-PL
-'The': -T
+'The': KPA/-T
 'warmth': WARPLT
 'revived': RE/SRAOEUFD
 'the': -T
@@ -3115,7 +3115,7 @@ The Ugly Duckling
 'about': PW
 'the': -T
 'room.': RAOPL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'woman': WOPL
 'clapped': KHRAP/-D
@@ -3126,7 +3126,7 @@ The Ugly Duckling
 'him': HEUPL
 'still': STEUL
 'more.': PHOR TP-PL
-'He': HE
+'He': KPA/HE
 'flew': TPHRAOU
 'first': TPEUFRT
 'into': TPHAO
@@ -3139,13 +3139,13 @@ The Ugly Duckling
 'and': SKP
 'out': OUT
 'again.': TKPWEPB TP-PL
-'What': WHA
+'What': KPA/WHA
 'a': AEU
 'condition': K-PB
 'he': HE
 'was': WAS
 'in!': TPH SKHRAPL
-'The': -T
+'The': KPA/-T
 'woman': WOPL
 'screamed,': SKRAOEPLD KW-BG
 'and': SKP
@@ -3175,7 +3175,7 @@ The Ugly Duckling
 'luckily': HRULG
 'he': HE
 'escaped.': ES/KAEUPD TP-PL
-'The': -T
+'The': KPA/-T
 'door': TKAOR
 'stood': STAOD
 'open;': OEP STPH*FPLT
@@ -3201,7 +3201,7 @@ The Ugly Duckling
 'newly': TPHAOUL
 'fallen': TPAUL/-PB
 'snow.': STPHOE TP-PL
-'It': T
+'It': KPA/T
 'would': WO
 'be': -B
 'very': SRE
@@ -3242,7 +3242,7 @@ The Ugly Duckling
 'amongst': PHOPBGS
 'the': -T
 'rushes.': RURBS TP-PL
-'He': HE
+'He': KPA/HE
 'felt': TPELT
 'the': -T
 'warm': WARPL
@@ -3261,7 +3261,7 @@ The Ugly Duckling
 'was': WAS
 'beautiful': PWAOUFL
 'spring.': SPREUPBG TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'young': KWRUPBG
 'bird': PWEURD
@@ -3279,12 +3279,12 @@ The Ugly Duckling
 'his': HEUS
 'sides,': SAOEUDZ KW-BG
 'and': SKP
-'rose': ROEZ
+'rose': ROES
 'high': HAOEU
 'into': TPHAO
 'the': -T
 'air.': AEUR TP-PL
-'They': THE
+'They': KPA/THE
 'bore': PWOR
 'him': HEUPL
 'onwards,': OPB/WARDZ KW-BG
@@ -3304,7 +3304,7 @@ The Ugly Duckling
 'it': T
 'had': H
 'happened.': HAPD TP-PL
-'The': -T
+'The': KPA/-T
 'apple-trees': A*EPL H-PB TRAOES
 'were': WR
 'in': TPH
@@ -3329,7 +3329,7 @@ The Ugly Duckling
 'a': AEU
 'smooth': SPHAO*T
 'lawn.': HRAUPB TP-PL
-'Everything': EFG
+'Everything': KPA/EFG
 'looked': HRAOBGD
 'beautiful,': PWAOUFL KW-BG
 'in': TPH
@@ -3338,7 +3338,7 @@ The Ugly Duckling
 'of': -F
 'early': ERL
 'spring.': SPREUPBG TP-PL
-'From': TPR
+'From': KPA/TPR
 'a': AEU
 'thicket': THEUBGT
 'close': KHROES
@@ -3358,7 +3358,7 @@ The Ugly Duckling
 'the': -T
 'smooth': SPHAO*T
 'water.': WAUR TP-PL
-'The': -T
+'The': KPA/-T
 'duckling': TKUBG/-LG
 'remembered': RERD
 'the': -T
@@ -3430,7 +3430,7 @@ The Ugly Duckling
 'in': TPH
 'the': -T
 'winter."': WEURPBT TP-PL KR-GS
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'flew': TPHRAOU
 'to': TO
@@ -3442,7 +3442,7 @@ The Ugly Duckling
 'the': -T
 'beautiful': PWAOUFL
 'swans.': SWAPBS TP-PL
-'The': -T
+'The': KPA/-T
 'moment': PHOEPLT
 'they': THE
 'espied': E/SPAOEUD
@@ -3456,7 +3456,7 @@ The Ugly Duckling
 'with': W
 'outstretched': AOUT/STREFPD
 'wings.': WEUPBGS TP-PL
-'"Kill': KR-GS KEUL
+'"Kill': KR-GS KPA/KEUL
 'me,"': PHE KW-BG KR-GS
 'said': SAEUD
 'the': -T
@@ -3477,7 +3477,7 @@ The Ugly Duckling
 'and': SKP
 'awaited': A/WAEUT/-D
 'death.': TK*T TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'what': WHA
 'did': TK
 'he': HE
@@ -3487,7 +3487,7 @@ The Ugly Duckling
 'clear': KHRAOER
 'stream': STRAOEPL
 'below?': PWHRO H-F
-'His': HEUS
+'His': KPA/HEUS
 'own': OEPB
 'image;': EUPBLG STPH*FPLT
 'no': TPHO
@@ -3508,7 +3508,7 @@ The Ugly Duckling
 'and': SKP
 'beautiful': PWAOUFL
 'swan.': SWAPB TP-PL
-'To': TO
+'To': KPA/TO
 'be': -B
 'born': PWORPB
 'in': TPH
@@ -3533,7 +3533,7 @@ The Ugly Duckling
 'a': AEU
 'swan's': SWAPB AES
 'egg.': EG TP-PL
-'He': HE
+'He': KPA/HE
 'now': TPHOU
 'felt': TPELT
 'glad': TKPWHRAD
@@ -3577,7 +3577,7 @@ The Ugly Duckling
 'as': AZ
 'a': AEU
 'welcome.': WELG TP-PL
-'Into': TPHAO
+'Into': KPA/TPHAO
 'the': -T
 'garden': TKPWA*RPB
 'presently': PREPBLT
@@ -3593,7 +3593,7 @@ The Ugly Duckling
 'into': TPHAO
 'the': -T
 'water.': WAUR TP-PL
-'"See,"': KR-GS SAOE KW-BG KR-GS
+'"See,"': KR-GS KPA/SAOE KW-BG KR-GS
 'cried': KRAOEUD
 'the': -T
 'youngest,': KWRUPBG/EFT KW-BG
@@ -3622,7 +3622,7 @@ The Ugly Duckling
 'and': SKP
 'shouting': SHOUGT
 'joyously,': SKWROEU/OUS/HREU KW-BG
-'"There': KR-GS THR
+'"There': KR-GS KPA/THR
 'is': S
 'another': TPHOER
 'swan': SWAPB
@@ -3632,7 +3632,7 @@ The Ugly Duckling
 'one': WUPB
 'has': HAS
 'arrived."': A/REUFD TP-PL KR-GS
-'Then': THEPB
+'Then': KPA/THEPB
 'they': THE
 'threw': THRAOU
 'more': PHOR
@@ -3644,7 +3644,7 @@ The Ugly Duckling
 'water,': WAUR KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'new': TPHU
 'one': WUPB
 'is': S
@@ -3659,7 +3659,7 @@ The Ugly Duckling
 'young': KWRUPBG
 'and': SKP
 'pretty."': PREUT TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'the': -T
 'old': OLD
 'swans': SWAPBS
@@ -3668,7 +3668,7 @@ The Ugly Duckling
 'heads': HEDZ
 'before': PW-F
 'him.': HEUPL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'felt': TPELT
 'quite': KWAOEUT
@@ -3698,7 +3698,7 @@ The Ugly Duckling
 'at': AT
 'all': AUL
 'proud.': PROUD TP-PL
-'He': HE
+'He': KPA/HE
 'had': H
 'been': PW-PB
 'persecuted': PERS/KAOUT/-D
@@ -3722,7 +3722,7 @@ The Ugly Duckling
 'all': AUL
 'the': -T
 'birds.': PWEURDZ TP-PL
-'Even': AOEPB
+'Even': KPA/AOEPB
 'the': -T
 'elder-tree': ELD/ER H-PB TRAOE
 'bent': PWEPBT
@@ -3741,7 +3741,7 @@ The Ugly Duckling
 'warm': WARPL
 'and': SKP
 'bright.': PWRAOEUT TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'rustled': RUS/-LD
 'his': HEUS

@@ -1,6 +1,6 @@
 By the Almshouse Window
 
-'Near': TPHAOER
+'Near': KPA/TPHAOER
 'the': -T
 'grass-covered': TKPWRAS H-PB KOFRD
 'rampart': RAFRP/ART
@@ -12,7 +12,7 @@ By the Almshouse Window
 'great': TKPWRAET
 'red': RED
 'house.': HOUS TP-PL
-'Balsams': PWAL/SAPL/-S
+'Balsams': xxx Balsams
 'and': SKP
 'other': OER
 'flowers': TPHRO*URS
@@ -42,13 +42,13 @@ By the Almshouse Window
 'who': WHO
 'inhabit': TPHABT
 'it.': T TP-PL
-'The': -T
+'The': KPA/-T
 'building': PW-LG
 'is': S
 'the': -T
 'Warton': xxx Warton
-'Almshouse.': AUPLS/HOUS TP-PL
-'Look!': HRAOBG SKHRAPL
+'Almshouse.': KPA/AUPLS/HOUS TP-PL
+'Look!': KPA/HRAOBG SKHRAPL
 'at': AT
 'the': -T
 'window': WOEUPBD
@@ -57,7 +57,7 @@ By the Almshouse Window
 'an': APB
 'old': OLD
 'maid.': PHAEUD TP-PL
-'She': SHE
+'She': KPA/SHE
 'plucks': PHRUBG/-S
 'the': -T
 'withered': WEU/THER/-D
@@ -77,7 +77,7 @@ By the Almshouse Window
 'children': KHEURPB
 'are': R
 'playing.': PHRA*EUG TP-PL
-'What': WHA
+'What': KPA/WHA
 'is': S
 'the': -T
 'old': OLD
@@ -95,7 +95,7 @@ By the Almshouse Window
 'her': HER
 'inward': EUPB/WARD
 'gaze.': TKPWAEZ TP-PL
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'poor': PAOR
 'little': HREUL
 'children,': KHEURPB KW-BG
@@ -109,7 +109,7 @@ By the Almshouse Window
 'and': SKP
 'romp': ROFRP
 'together!': TOGT SKHRAPL
-'What': WHA
+'What': KPA/WHA
 'red': RED
 'cheeks': KHAOEBGS
 'and': SKP
@@ -123,7 +123,7 @@ By the Almshouse Window
 'shoes': SHAOUS
 'nor': TPH-R
 'stockings.': STOBG/-G/-S TP-PL
-'They': THE
+'They': KPA/THE
 'dance': TKAPBS
 'on': OPB
 'the': -T
@@ -204,7 +204,7 @@ By the Almshouse Window
 'the': -T
 'green': TKPWRAOEPB
 'turf.': T*UFR TP-PL
-'The': -T
+'The': KPA/-T
 'little': HREUL
 'people': PAOEPL
 'who': WHO
@@ -247,7 +247,7 @@ By the Almshouse Window
 'tears': TAERS
 'of': -F
 'woe.': WOE TP-PL
-'Nor': TPH-R
+'Nor': KPA/TPH-R
 'do': TKO
 'they': THE
 'know': TPHOE
@@ -255,7 +255,7 @@ By the Almshouse Window
 'of': -F
 'the': -T
 'Danish': TKAEUPB/EURB
-'King': KEUPBG
+'King': KO*EUPBG
 'who': WHO
 'here,': HAOER KW-BG
 'in': TPH
@@ -326,7 +326,7 @@ By the Almshouse Window
 'surprise': SPRAOEUS
 'the': -T
 'city.': STEU TP-PL
-'"No!': KR-GS TPHO SKHRAPL
+'"No!': KR-GS KPA/TPHO SKHRAPL
 'the': -T
 'poor': PAOR
 'little': HREUL
@@ -337,14 +337,14 @@ By the Almshouse Window
 'light,': HRAOEUT KW-BG
 'childish': KHAOEUL/TKEURB
 'spirits.': SPEURTS TP-PL
-'Play': PHRAEU
+'Play': KPA/PHRAEU
 'on,': OPB KW-BG
 'play': PHRAEU
 'on,': OPB KW-BG
 'thou': THO*U
 'little': HREUL
 'maiden!': PHAEUD/*EPB SKHRAPL
-'Soon': SAOPB
+'Soon': KPA/SAOPB
 'the': -T
 'years': KWRAOERS
 'will': HR
@@ -352,7 +352,7 @@ By the Almshouse Window
 'those': THOZ
 'glorious': TKPWHRORS
 'years.': KWRAOERS TP-PL
-'The': -T
+'The': KPA/-T
 'priestly': PRAOEFT/HREU
 'hands': HAPBDZ
 'have': SR
@@ -372,7 +372,7 @@ By the Almshouse Window
 'the': -T
 'green': TKPWRAOEPB
 'rampart.': RAFRP/ART TP-PL
-'Thou': THO*U
+'Thou': KPA/THO*U
 'hast': HA*FT
 'a': AEU
 'white': WHAOEUT
@@ -400,7 +400,7 @@ By the Almshouse Window
 'old': OLD
 'larger': HRARPBLG/ER
 'dress!': TKRES SKHRAPL
-'You': U
+'You': KPA/U
 'will': HR
 'also': HR-S
 'wear': WAER
@@ -415,7 +415,7 @@ By the Almshouse Window
 'too': TAO
 'far': TPAR
 'down?': TKOUPB H-F
-'People': PAOEPL
+'People': KPA/PAOEPL
 'will': HR
 'only': OEPBL
 'see': SAOE
@@ -426,7 +426,7 @@ By the Almshouse Window
 'large': HRARPBLG
 'it': T
 'is.': S TP-PL
-'You': U
+'You': KPA/U
 'are': R
 'thinking': THEUG
 'of': -F
@@ -435,7 +435,7 @@ By the Almshouse Window
 'and': SKP
 'of': -F
 'the': -T
-'Giver': TKPWEUFR
+'Giver': KPA/TKPWEUFR
 'of': -F
 'all': AUL
 'good—so': TKPWAOD EPL/TKA*RB SO
@@ -448,7 +448,7 @@ By the Almshouse Window
 'the': -T
 'green': TKPWRAOEPB
 'rampart!': RAFRP/ART SKHRAPL
-'"And': KR-GS SKP
+'"And': KR-GS AFPBD
 'the': -T
 'years': KWRAOERS
 'roll': ROL
@@ -476,12 +476,12 @@ By the Almshouse Window
 'know': TPHOE
 'not': TPHOT
 'how.': HOU TP-PL
-'You': U
+'You': KPA/U
 'met,': PHET KW-BG
 'oh,': O*E KW-BG
 'how': HOU
 'often!': OFPB SKHRAPL
-'You': U
+'You': KPA/U
 'walk': WAUBG
 'together': TOGT
 'on': OPB
@@ -528,7 +528,7 @@ By the Almshouse Window
 'the': -T
 'coming': KO*G
 'spring.': SPREUPBG TP-PL
-'"Scarcely': KR-GS SKAEURS/HREU
+'"Scarcely': KR-GS KPA/SKAEURS/HREU
 'have': SR
 'the': -T
 'violets': SROEULT/-S
@@ -543,7 +543,7 @@ By the Almshouse Window
 'opposite': OP/SEUT
 'the': -T
 'beautiful': PWAOUFL
-'Castle': KAFL
+'Castle': KPA/KAFL
 'of': -F
 'Rosenberg,': xxx Rosenberg KW-BG
 'there': THR
@@ -556,7 +556,7 @@ By the Almshouse Window
 'first': TPEUFRT
 'green': TKPWRAOEPB
 'buds.': PWUDZ TP-PL
-'Every': EF
+'Every': KPA/EF
 'year': KWRAOER
 'this': TH
 'tree': TRAOE
@@ -565,8 +565,8 @@ By the Almshouse Window
 'fresh': TPRERB
 'green': TKPWRAOEPB
 'shoots.': SHAOTS TP-PL
-'Alas!': A/HRAS SKHRAPL
-'It': T
+'Alas!': KPA/A/HRAS SKHRAPL
+'It': KPA/T
 'is': S
 'not': TPHOT
 'so': SO
@@ -574,7 +574,7 @@ By the Almshouse Window
 'the': -T
 'human': HAOUPL
 'heart!': HART SKHRAPL
-'Dark': TKARBG
+'Dark': KPA/TKARBG
 'mists,': PHEUFT/-S KW-BG
 'more': PHOR
 'in': TPH
@@ -590,7 +590,7 @@ By the Almshouse Window
 'the': -T
 'human': HAOUPL
 'heart.': HART TP-PL
-'Poor': PAOR
+'Poor': KPA/PAOR
 'child!': KHAOEULD SKHRAPL
 'thy': THAO*EU
 'friend's': TPREPBD/AES
@@ -606,7 +606,7 @@ By the Almshouse Window
 'an': APB
 'old': OLD
 'maid.': PHAEUD TP-PL
-'From': TPR
+'From': KPA/TPR
 'the': -T
 'almshouse': AUPLS/HOUS
 'window,': WOEUPBD KW-BG
@@ -629,7 +629,7 @@ By the Almshouse Window
 'own': OEPB
 'history': HEUFRT
 'renewed."': RE/TPHAOUD TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'that': THA
 'is': S
 'the': -T

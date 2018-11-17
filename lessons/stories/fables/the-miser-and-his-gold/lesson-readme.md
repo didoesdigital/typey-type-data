@@ -1,12 +1,12 @@
 # The Miser and His Gold
 
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * upon `POPB`
 * a `AEU`
 * time `TAOEUPL`
 * there `THR`
 * was `WAS`
-* Miser `PHAOEUZ/ER`
+* Miser `KPA/PHAOEUZ/ER`
 * who `WHO`
 * used `AOUFD`
 * to `TO`
@@ -42,7 +42,7 @@
 * decamped `TKE/KAPL/-PD`
 * with `W`
 * it. `T TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * next `TPHEGT`
 * came `KAEUPL`
 * treasures, `TR-RBS KW-BG`
@@ -50,6 +50,7 @@
 * nothing `TPHOG`
 * empty `EPLT`
 * hole. `HOEL TP-PL`
+* He `KPA/HE`
 * tore `TO*R`
 * hair, `HAEUR KW-BG`
 * raised `RA*EUFD`
@@ -67,7 +68,7 @@
 * come `KOPL`
 * visit `SREUFT`
 * gold. `TKPWOELD TP-PL`
-* "Did `KR-GS TK`
+* "Did `KR-GS KPA/TK`
 * you `U`
 * ever `-FR`
 * take `TAEUBG`
@@ -76,14 +77,14 @@
 * asked `SK-D`
 * one `WUPB`
 * them. `THEPL TP-PL`
-* "Nay," `KR-GS TPHAEU KW-BG KR-GS`
+* "Nay," `KR-GS KPA/TPHAEU KW-BG KR-GS`
 * said `SAEUD`
 * he, `HE KW-BG`
 * "I `KR-GS EU`
 * only `OEPBL`
 * look `HRAOBG`
 * it." `T TP-PL KR-GS`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * again `TKPWEPB`
 * hole," `HOEL KW-BG KR-GS`
 * neighbour; `TPHAEUB/A*U STPH*FPLT`
@@ -94,7 +95,7 @@
 * as `AZ`
 * much `PHUFP`
 * good." `TKPWAOD TP-PL KR-GS`
-* Wealth `W*ELT`
+* Wealth `KPA/W*ELT`
 * unused `UPB/AOUS/-D`
 * might `PHAOEUT`
 * well `WEL`

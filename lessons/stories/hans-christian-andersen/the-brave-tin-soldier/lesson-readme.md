@@ -1,6 +1,6 @@
 # The Brave Tin Soldier
 
-* there `THR`
+* There `KPA/THR`
 * were `WR`
 * once `WUPBS`
 * five-and-twenty `TPEUF H-PB SKP H-PB TWEPBT`
@@ -20,6 +20,7 @@
 * same `SAEUPL`
 * old `OLD`
 * spoon. `SPAOPB TP-PL`
+* They `KPA/THE`
 * shouldered `SHOULD/ER/-D`
 * arms `ARPLS`
 * and `SKP`
@@ -33,6 +34,7 @@
 * uniform, `KWRAOUFRPL KW-BG`
 * red `RED`
 * blue. `PWHRU TP-PL`
+* The `KPA/-T`
 * first `TPEUFRT`
 * thing `THEUPBG`
 * in `TPH`
@@ -40,7 +42,7 @@
 * ever `-FR`
 * heard `HAERD`
 * words, `WORDZ KW-BG`
-* "Tin `KR-GS TEUPB`
+* "Tin `KR-GS KPA/TEUPB`
 * soldiers!" `SHRERPBLGS SKHRAPL KR-GS`
 * uttered `UT/ERD`
 * by `PWEU`
@@ -81,7 +83,8 @@
 * leg; `HREG STPH*FPLT`
 * left `HREFT`
 * last, `HRAFT KW-BG`
-* Then `THEPB`
+* then `THEPB`
+* there `THR`
 * not `TPHOT`
 * enough `TPHUF`
 * melted `PHELT/-D`
@@ -108,12 +111,13 @@
 * pretty `PREUT`
 * paper `PAEUP`
 * castle. `KAFL TP-PL`
-* through `THRU`
+* Through `KPA/THRU`
 * small `SPHAL`
 * windows `WO*EUPBDZ`
 * rooms `RAOPLS`
 * could `KO`
 * seen. `SAOEPB TP-PL`
+* In `KPA/TPH`
 * front `TPROPBT`
 * castle `KAFL`
 * number `TPHUPL`
@@ -125,12 +129,13 @@
 * represent `REPT`
 * transparent `TRAEUPBT`
 * lake. `HRAEUBG TP-PL`
-* Swans, `SWAPBS KW-BG`
+* Swans, `KPA/SWAPBS KW-BG`
 * wax, `WABGS KW-BG`
 * swam `SWAPL`
 * lake, `HRAEUBG KW-BG`
 * reflected `TPHREBGTD`
 * it. `T TP-PL`
+* All `KPA/AUL`
 * pretty, `PREUT KW-BG`
 * prettiest `PRET/KWREFT`
 * tiny `TOEUPB`
@@ -158,7 +163,7 @@
 * fixed `TPEUFD`
 * glittering `TKPWHREUT/ERG`
 * tinsel `TEUPB/SEL`
-* rose, `ROEZ KW-BG`
+* rose, `ROES KW-BG`
 * as `AZ`
 * large `HRARPBLG`
 * whole `WHOEL`
@@ -179,7 +184,7 @@
 * thought `THAUT`
 * himself, `H*EUPLS KW-BG`
 * leg. `HREG TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * is `S`
 * wife `WAOEUF`
 * me," `PHE KW-BG KR-GS`
@@ -200,11 +205,12 @@
 * no `TPHO`
 * place `PHRAEUS`
 * her. `HER TP-PL`
-* still `STEUL`
+* Still `KPA/STEUL`
 * must `PHUFT`
 * try `TREU`
 * make `PHAEUBG`
 * acquaintance." `KWAEUPB/TAPBS TP-PL KR-GS`
+* Then `KPA/THEPB`
 * laid `HRAEUD`
 * himself `H*EUPLS`
 * full `TPUL`
@@ -220,6 +226,7 @@
 * without `WOUT`
 * losing `HRAOUFG`
 * balance. `PWAL TP-PL`
+* When `KPA/WHEPB`
 * evening `AOEPBG`
 * came, `KAEUPL KW-BG`
 * placed `PHRAEUFD`
@@ -261,12 +268,15 @@
 * talk, `TAUBG KW-BG`
 * poetry `POEURT`
 * too. `TAO TP-PL`
+* Only `KPA/OEPBL`
 * dancer `TKARPBS`
 * remained `RE/PHAEUPBD`
 * places. `PHRAEUFS TP-PL`
+* She `KPA/SHE`
 * tiptoe, `TEUP/TOE KW-BG`
 * out, `OUT KW-BG`
 * did `TK`
+* He `KPA/HE`
 * never `TPHEF`
 * took `TAOBG`
 * eyes `AO*EUS`
@@ -296,9 +306,10 @@
 * does `TKOS`
 * belong `PWHROPBG`
 * you." `U TP-PL KR-GS`
+* But `KPA/PWUT`
 * pretended `PRE/TEPBD/-D`
 * hear. `HAER TP-PL`
-* "Very `KR-GS SRE`
+* "Very `KR-GS KPA/SRE`
 * well; `WEL STPH*FPLT`
 * wait `WAEUT`
 * till `T*EUL`
@@ -310,7 +321,7 @@
 * next `TPHEGT`
 * morning, `PHORPBG KW-BG`
 * window. `WOEUPBD TP-PL`
-* Now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * whether `WHR`
 * goblin `TKPWOB/HREUPB`
 * or `OR`
@@ -328,6 +339,7 @@
 * into `TPHAO`
 * street `STRAOET`
 * beneath. `TPHAO*ET TP-PL`
+* It `KPA/T`
 * terrible `TERBL`
 * fall; `TPAUL STPH*FPLT`
 * head `HED`
@@ -352,9 +364,9 @@
 * nearly `TPHAOERL`
 * trod `TROD`
 * him. `HEUPL TP-PL`
-* if `TP`
+* If `KPA/TP`
 * called `KAULD`
-* "Here `KR-GS HAOER`
+* "Here `KR-GS KPA/HAOER`
 * am," `APL KW-BG KR-GS`
 * would `WO`
 * right, `RAOEUT KW-BG`
@@ -362,7 +374,7 @@
 * cry `KRAOEU`
 * help `HEP`
 * uniform. `KWRAOUFRPL TP-PL`
-* Presently `PREPBLT`
+* Presently `KPA/PREPBLT`
 * rain, `RAEUPB KW-BG`
 * drops `TKROPS`
 * faster `TPA*FRT`
@@ -376,12 +388,13 @@
 * pass `PAS`
 * by, `PWEU KW-BG`
 * said, `SAEUD KW-BG`
-* "Look, `KR-GS HRAOBG KW-BG`
+* "Look, `KR-GS KPA/HRAOBG KW-BG`
 * soldier. `SHRERPBL TP-PL`
 * ought `OT`
 * boat `PWOET`
 * sail `SAEUL`
 * in." `TPH TP-PL KR-GS`
+* So `KPA/SO`
 * newspaper, `TPHUP KW-BG`
 * sent `SEPBT`
 * sailing `SAEULG`
@@ -389,7 +402,7 @@
 * ran `RAPB`
 * side `SAOEUD`
 * hands. `HAPBDZ TP-PL`
-* Good `TKPWAOD`
+* Good `KPA/TKPWAOD`
 * gracious, `TKPWRAURBS KW-BG`
 * waves `WAFS`
 * arose `A/ROES`
@@ -414,7 +427,7 @@
 * countenance `KOUPBT/TPHAPBS`
 * change; `KHAEUPBG STPH*FPLT`
 * musket. `PHUFBGT TP-PL`
-* Suddenly `SULD`
+* Suddenly `KPA/SULD`
 * shot `SHOT`
 * under `*UPBD`
 * bridge `PWREUPBLG`
@@ -424,17 +437,18 @@
 * dark `TKARBG`
 * soldier's `SHRERPBL AES`
 * box. `PWOBGS TP-PL`
-* "Where `KR-GS W-R`
+* "Where `KR-GS KPA/W-R`
 * am `APL`
 * going `TKPW-G`
 * now?" `TPHOU H-F KR-GS`
 * he. `HE TP-PL`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * goblin's `TKPWOB/HREUPB AES`
 * fault, `TPALT KW-BG`
 * sure. `SHUR TP-PL`
-* Ah, `HA*E KW-BG`
+* Ah, `KPA/HA*E KW-BG`
 * well, `WEL KW-BG`
+* if `TP`
 * here `HAOER`
 * me `PHE`
 * boat, `PWOET KW-BG`
@@ -447,7 +461,7 @@
 * water-rat, `WAUR H-PB RAT KW-BG`
 * lived `HREUFD`
 * drain. `TKRAEUPB TP-PL`
-* "Have `KR-GS SR`
+* "Have `KR-GS KPA/SR`
 * you `U`
 * passport?" `PAS/PORT H-F KR-GS`
 * asked `SK-D`
@@ -463,12 +477,13 @@
 * sailed `SAEULD`
 * rat `RAT`
 * followed `TPOLD`
+* How `KPA/HOU`
 * gnash `TPHA*RB`
 * teeth `TAO*ET`
 * bits `PWEUTS`
 * wood `WAOD`
 * straw, `STRAU KW-BG`
-* "Stop `KR-GS STOP`
+* "Stop `KR-GS KPA/STOP`
 * stop `STOP`
 * has `HAS`
 * paid `PAEUD`
@@ -490,6 +505,7 @@
 * frighten `TPRAOEUFPB`
 * bravest `PWRA*EUF/*ES`
 * man. `PHAPB TP-PL`
+* At `KPA/AT`
 * end `EPBD`
 * tunnel `TUPBL`
 * drain `TKRAEUPB`
@@ -540,10 +556,10 @@
 * song `SOPBG`
 * sounded `SOUPBD/-D`
 * ears— `AOERS EPL/TKA*RB`
-* "Farewell, `KR-GS TPAER/WEL KW-BG`
+* "Farewell, `KR-GS KPA/TPAER/WEL KW-BG`
 * warrior! `WAR/KWROR SKHRAPL`
 * brave, `PWRAEUF KW-BG`
-* Drifting `TKREUFT/-G`
+* Drifting `KPA/TKREUFT/-G`
 * onward `AOPB/WA*RD`
 * thy `THAO*EU`
 * grave." `TKPWRAEUF TP-PL KR-GS`
@@ -552,7 +568,7 @@
 * afterwards `A*FRDZ`
 * swallowed `SWAL/OED`
 * fish. `TPEURB TP-PL`
-* Oh `O*E`
+* Oh `KPA/O*E`
 * inside `TPH-DZ`
 * fish! `TPEURB SKHRAPL`
 * A `KPA/AEU`
@@ -570,11 +586,12 @@
 * wonderful `WUFL`
 * movements, `PHOFPLTS KW-BG`
 * still. `STEUL TP-PL`
-* After `AF`
+* After `KPA/AF`
 * while, `WHAOEUL KW-BG`
 * flash `TPHRARB`
 * lightning `HRAOEUT/TPHEUPBG`
 * seemed `SAOEPLD`
+* through `THRU`
 * approached, `A/PROEFPD KW-BG`
 * voice `SROEUS`
 * cried `KRAOEUD`
@@ -611,6 +628,7 @@
 * children, `KHEURPB KW-BG`
 * standing `STAPBG`
 * door; `TKAOR STPH*FPLT`
+* still `STEUL`
 * balanced `PWALD`
 * herself `H*ERS`
 * other, `OER KW-BG`

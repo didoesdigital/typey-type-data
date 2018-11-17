@@ -1,6 +1,6 @@
 # The Pea Blossom
 
-* there `THR`
+* There `KPA/THR`
 * were `WR`
 * once `WUPBS`
 * five `TPEUF`
@@ -28,6 +28,7 @@
 * very `SRE`
 * natural `TPHARL`
 * conclusion. `KHRAO*UGS TP-PL`
+* The `KPA/-T`
 * grew, `TKPWRAOU KW-BG`
 * accommodated `ABG/TKAEUTD`
 * themselves `TH*EPLS`
@@ -56,6 +57,7 @@
 * as `AZ`
 * generally `SKWRERPBL`
 * is; `S STPH*FPLT`
+* there `THR`
 * grew `TKPWRAOU`
 * bigger `PWEURG`
 * bigger, `PWEURG KW-BG`
@@ -68,7 +70,7 @@
 * else `ELS`
 * them `THEPL`
 * do. `TKO TP-PL`
-* "Are `KR-GS R`
+* "Are `KR-GS KPA/R`
 * we `WE`
 * sit `SEUT`
 * here `HAOER`
@@ -82,6 +84,7 @@
 * by `PWEU`
 * sitting `SEUGT`
 * long? `HROPBG H-F`
+* It `KPA/T`
 * seems `SAOEPLS`
 * me `PHE`
 * outside, `OUDZ KW-BG`
@@ -90,13 +93,14 @@
 * sure `SHUR`
 * of `-F`
 * it." `T TP-PL KR-GS`
+* And `AFPBD`
 * weeks `WAOEBGS`
 * passed `PAFD`
 * by, `PWEU KW-BG`
 * became `PWAEUPL`
 * yellow, `KWREL/OE KW-BG`
 * yellow. `KWREL/OE TP-PL`
-* "All `KR-GS AUL`
+* "All `KR-GS KPA/AUL`
 * is `S`
 * turning `TURPBG`
 * suppose," `SPOS KW-BG KR-GS`
@@ -104,7 +108,7 @@
 * they,—and `THE KW-BG EPL/TKA*RB SKP`
 * perhaps `PRAPS`
 * right. `RAOEUT TP-PL`
-* Suddenly `SULD`
+* Suddenly `KPA/SULD`
 * pull `PUL`
 * shell; `SHEL STPH*FPLT`
 * torn `TORPB`
@@ -122,7 +126,7 @@
 * other `OER`
 * full `TPUL`
 * pods. `PODZ TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * shall `SHAL`
 * soon `SAOPB`
 * opened," `OEPD KW-BG KR-GS`
@@ -139,15 +143,15 @@
 * furthest," `TPURT/EFT KW-BG KR-GS`
 * smallest `SPHAUL/EFT`
 * five; `TPEUF STPH*FPLT`
-* "We `KR-GS WE`
+* "we `KR-GS WE`
 * see `SAOE`
 * now." `TPHOU TP-PL KR-GS`
-* "what `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * happen `HAP`
 * happen," `HAP KW-BG KR-GS`
 * largest `HRARPBLG/EFT`
 * pea. `PAE TP-PL`
-* "Crack" `KR-GS KRABG KR-GS`
+* "Crack" `KR-GS KPA/KRABG KR-GS`
 * went `WEPBT`
 * burst, `PWUFRT KW-BG`
 * rolled `ROLD`
@@ -166,7 +170,7 @@
 * his `HEUS`
 * pea-shooter. `PAE H-PB SHAORT TP-PL`
 * immediately `PHAOELD`
-* He `HE`
+* he `HE`
 * put `PUT`
 * shot `SHOT`
 * out. `OUT TP-PL`
@@ -175,7 +179,7 @@
 * wide `WAOEUD`
 * world," `WORLD KW-BG KR-GS`
 * he; `HE STPH*FPLT`
-* "Catch `KR-GS KAFP`
+* "catch `KR-GS KAFP`
 * if `TP`
 * you `U`
 * can;" `K STPH*FPLT KR-GS`
@@ -194,6 +198,7 @@
 * exactly;" `ELG STPH*FPLT KR-GS`
 * away `A/WAEU`
 * went. `WEPBT TP-PL`
+* "We `KR-GS KPA/WE`
 * go `TKPW`
 * sleep `SHRAOEP`
 * wherever `W-FR`
@@ -214,7 +219,7 @@
 * before `PW-F`
 * got `TKPWOT`
 * pea-shooter; `PAE H-PB SHAORT STPH*FPLT`
-* But `PWUT`
+* but `PWUT`
 * that. `THA TP-PL`
 * farther `TPA*RT`
 * than `THAPB`
@@ -245,9 +250,9 @@
 * captive `KAPT/EUF`
 * indeed, `TPHAOEPBD KW-BG`
 * unnoticed `UPB/TPH-TS/-D`
-* God. `TKPWOD TP-PL`
+* God. `TKPWO*D TP-PL`
 * himself. `H*EUPLS TP-PL`
-* Within `W-PB`
+* Within `KPA/W-PB`
 * garret `TKPWAEUR/RET`
 * lived `HREUFD`
 * poor `PAOR`
@@ -265,7 +270,7 @@
 * she `SHE`
 * strong `STROPBG`
 * industrious. `STREUS TP-PL`
-* Yet `KWRET`
+* Yet `KPA/KWRET`
 * remained `RE/PHAEUPBD`
 * always `AULS`
 * poor, `PAOR KW-BG`
@@ -278,6 +283,7 @@
 * up, `UP KW-BG`
 * delicate `TKEL/KAT`
 * weak. `WAEBG TP-PL`
+* For `KPA/TPOR`
 * year `KWRAOER`
 * had `H`
 * kept `KEPT`
@@ -288,7 +294,7 @@
 * live `HREUF`
 * nor `TPH-R`
 * die. `TKAOEU TP-PL`
-* "She `KR-GS SHE`
+* "She `KR-GS KPA/SHE`
 * going `TKPW-G`
 * sister," `ST-R KW-BG KR-GS`
 * woman; `WOPL STPH*FPLT`
@@ -299,14 +305,14 @@
 * both `PWO*T`
 * them; `THEPL STPH*FPLT`
 * good `TKPWAOD`
-* God `TKPWOD`
+* God `TKPWO*D`
 * helped `HEPD`
 * my `PHEU`
 * took `TAOBG`
-* Himself `H*EUPLS`
+* Himself `KPA/H*EUPLS`
 * provided `PROE/SRAOUD/-D`
 * her. `HER TP-PL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * would `WO`
 * gladly `TKPWHRAD/HREU`
 * keep `KAOEP`
@@ -319,6 +325,7 @@
 * girl `TKPWEURL`
 * sister `ST-R`
 * above." `PWOF TP-PL KR-GS`
+* But `KPA/PWUT`
 * where `W-R`
 * was, `WAS KW-BG`
 * quietly `KWAO*EULT`
@@ -329,7 +336,7 @@
 * mother `PHOER`
 * from `TPR`
 * work. `WORBG TP-PL`
-* Spring `SPREUPBG`
+* Spring `KPA/SPREUPBG`
 * came, `KAEUPL KW-BG`
 * morning `PHORPBG`
 * early `ERL`
@@ -342,13 +349,14 @@
 * over `OEFR`
 * floor `TPHRAOR`
 * room. `RAOPL TP-PL`
-* Just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * fixed `TPEUFD`
 * gaze `TKPWAEZ`
 * lowest `HROEFT`
 * pane `PAEPB`
-* window—"Mother," `WOEUPBD EPL/TKA*RB KR-GS PHOER KW-BG KR-GS`
+* window—"Mother," `WOEUPBD EPL/TKA*RB KR-GS KPA/PHOER KW-BG KR-GS`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
+* "what `KR-GS WHA`
 * can `K`
 * peeps `PAOEPS`
 * window? `WOEUPBD H-F`
@@ -359,7 +367,7 @@
 * half `HAF`
 * opened `OEPD`
 * it. `T TP-PL`
-* "Oh!" `KR-GS O*E SKHRAPL KR-GS`
+* "Oh!" `KR-GS KPA/O*E SKHRAPL KR-GS`
 * said, `SAEUD KW-BG`
 * "there `KR-GS THR`
 * actually `TAOULT`
@@ -369,23 +377,24 @@
 * root `RAOT`
 * putting `PUGT`
 * leaves. `HREFS TP-PL`
-* How `HOU`
+* How `KPA/HOU`
 * have `SR`
-* This `TH`
+* this `TH`
 * crack? `KRABG H-F`
-* Well `WEL`
+* Well `KPA/WEL`
 * now, `TPHOU KW-BG`
 * garden `TKPWA*RPB`
 * amuse `A/PHAOUS`
 * yourself `KWRO*URS`
 * with." `W TP-PL KR-GS`
+* So `KPA/SO`
 * bed `PWED`
 * drawn `TKRAUPB`
 * nearer `TPHAOER/*ER`
 * might `PHAOEUT`
 * budding `PWUD/-G`
 * plant; `PHRAPBT STPH*FPLT`
-* "Mother, `KR-GS PHOER KW-BG`
+* "Mother, `KR-GS KPA/PHOER KW-BG`
 * believe `PWHREF`
 * get `TKPWET`
 * well," `WEL KW-BG KR-GS`
@@ -394,14 +403,14 @@
 * "the `KR-GS -T`
 * warmly `WARPL/HREU`
 * to-day, `TO H-PB TKAEU KW-BG`
-* thriving `THAOEUFG`
+* thriving `THRAOEUFG`
 * well: `WEL STPH-FPLT`
 * better, `PWOERT KW-BG`
 * too, `TAO KW-BG`
 * warm `WARPL`
 * sunshine `SUPB/SHAO*EUPB`
 * again." `TKPWEPB TP-PL KR-GS`
-* "God `KR-GS TKPWOD`
+* "God `KR-GS TKPWO*D`
 * grant `TKPWRAPBT`
 * it!" `T SKHRAPL KR-GS`
 * mother, `PHOER KW-BG`
@@ -437,12 +446,14 @@
 * coming," `KO*G KW-BG KR-GS`
 * woman `WOPL`
 * morning, `PHORPBG KW-BG`
+* now `TPHOU`
 * last `HRAFT`
 * began `TKPWAPB`
 * encourage `EPB/KORPBG`
 * hope `HOEP`
 * daughter `TKAUR`
 * recover. `ROFR TP-PL`
+* She `KPA/SHE`
 * remembered `RERD`
 * some `SOPL`
 * time `TAOEUPL`
@@ -478,10 +489,11 @@
 * down `TKOUPB`
 * gently `SKWREPBT/HREU`
 * kissed `K*EUFD`
+* This `KPA/TH`
 * festival. `SREFT/SRAL TP-PL`
-* "Our `KR-GS OUR`
+* "Our `KR-GS KPA/OUR`
 * heavenly `HEFPBL`
-* Father `TPAER`
+* Father `KPA/TPAER`
 * planted `PHRAPBT/-D`
 * pea, `PAE KW-BG`
 * flourish, `TPHRUR/EURB KW-BG`
@@ -494,8 +506,9 @@
 * been `PW-PB`
 * angel `A*EPBLG`
 * peas? `PAOEZ H-F`
-* Why `KWR`
+* Why `KPA/KWR`
 * world, `WORLD KW-BG`
+* "Catch `KR-GS KPA/KAFP`
 * can," `K KW-BG KR-GS`
 * gutter `TKPWOURT`
 * roof `RAOF`
@@ -550,6 +563,7 @@
 * hands `HAPBDZ`
 * pea-blossom, `PAE H-PB PWHROFPL KW-BG`
 * thanked `THAPBGD`
+* He `KPA/HE`
 * done. `TKOPB TP-PL`
 * sink, `S*EUPBG KW-BG`
 * stand `STAPBD`

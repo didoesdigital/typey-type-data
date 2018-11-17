@@ -1,6 +1,6 @@
 # The Man and His Two Wives
 
-* In `TPH`
+* In `KPA/TPH`
 * the `-T`
 * old `OLD`
 * days, `TKAEUS KW-BG`
@@ -14,10 +14,10 @@
 * wives, `WAOEUFS KW-BG`
 * a `AEU`
 * middle-aged `PH*EULD/H-PB/AEUGD`
-* Man `PHAPB`
+* Man `KPA/PHAPB`
 * had `H`
 * one `WUPB`
-* Wife `WAOEUF`
+* wife `WAOEUF`
 * that `THA`
 * was `WAS`
 * and `SKP`
@@ -31,13 +31,14 @@
 * see `SAOE`
 * like `HRAOEUBG`
 * herself. `H*ERS TP-PL`
-* Now `TPHOU`
-* Man's `PHAPB AES`
+* Now `KPA/TPHOU`
+* Man's `KPA/PHAPB AES`
 * hair `HAEUR`
 * turning `TURPBG`
 * grey, `TKPWRA*EU KW-BG`
 * which `WEU`
 * young `KWRUPBG`
+* Wife `KPA/WAOEUF`
 * did `TK`
 * not `TPHOT`
 * like, `HRAOEUBG KW-BG`
@@ -49,7 +50,7 @@
 * for `TPOR`
 * her `HER`
 * husband. `HUS TP-PL`
-* So `SO`
+* So `KPA/SO`
 * every `EF`
 * night `TPHAOEUT`
 * she `SHE`
@@ -60,7 +61,7 @@
 * out `OUT`
 * white `WHAOEUT`
 * ones. `WUPBZ TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * elder `ELD/ER`
 * saw `SAU`
 * husband `HUS`
@@ -78,13 +79,14 @@
 * black `PWHRABG`
 * ones `WUPBZ`
 * could. `KO TP-PL`
+* The `KPA/-T`
 * consequence `KWEPBS`
 * soon `SAOPB`
 * found `TPOUPBD`
 * himself `H*EUPLS`
 * entirely `SPWAOEURL`
 * bald. `PWAULD TP-PL`
-* Yield `KWRAOELD`
+* Yield `KPA/KWRAOELD`
 * all `AUL`
 * you `U`
 * will `HR`

@@ -1,7 +1,7 @@
 # The Man and the Satyr
 
 * A `KPA/AEU`
-* man `PHAPB`
+* Man `KPA/PHAPB`
 * had `H`
 * lost `HRO*S`
 * his `HEUS`
@@ -13,12 +13,12 @@
 * bitter `PWEURT`
 * winter's `WEURPBT AES`
 * night. `TPHAOEUT TP-PL`
-* As `AZ`
+* As `KPA/AZ`
 * he `HE`
 * was `WAS`
 * roaming `ROEPLG`
 * about, `PW KW-BG`
-* Satyr `SAEURT`
+* Satyr `KPA/SAEURT`
 * came `KAEUPL`
 * up `UP`
 * to `TO`
@@ -41,7 +41,7 @@
 * morning. `PHORPBG TP-PL`
 * went `WEPBT`
 * along `A/HROPBG`
-* Satyr's `SAEURT AES`
+* Satyr's `KPA/SAEURT AES`
 * cell, `KREL KW-BG`
 * raised `RA*EUFD`
 * both `PWO*T`
@@ -52,24 +52,24 @@
 * blowing `PWHROEG`
 * at `AT`
 * them. `THEPL TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * do `TKO`
 * you `U`
 * for?" `TPOR H-F KR-GS`
 * said `SAEUD`
-* Satyr. `SAEURT TP-PL`
-* "My `KR-GS PHEU`
+* Satyr. `KPA/SAEURT TP-PL`
+* "My `KR-GS KPA/PHEU`
 * are `R`
 * numb `TPH*UPL`
 * with `W`
 * cold," `KOELD KW-BG KR-GS`
-* Man, `PHAPB KW-BG`
-* "And `KR-GS SKP`
+* Man, `KPA/PHAPB KW-BG`
+* "and `KR-GS SKP`
 * my `PHEU`
 * breath `PWR*ET`
 * warms `WARPLS`
 * them." `THEPL TP-PL KR-GS`
-* After `AF`
+* After `KPA/AF`
 * this `TH`
 * they `THE`
 * arrived `A/REUFD`
@@ -81,25 +81,27 @@
 * porridge `PORPBLG`
 * before `PW-F`
 * him. `HEUPL TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * when `WHEPB`
 * spoon `SPAOPB`
 * began `TKPWAPB`
 * upon `POPB`
 * it. `T TP-PL`
+* "And `KR-GS AFPBD`
 * what `WHA`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * is `S`
 * too `TAO`
 * hot, `HOT KW-BG`
 * will `HR`
 * cool `KAOL`
 * it." `T TP-PL KR-GS`
-* "Out `KR-GS OUT`
+* "Out `KR-GS KPA/OUT`
 * go," `TKPW KW-BG KR-GS`
 * "I `KR-GS EU`
 * have `SR`
 * nought `TPHA*UT`
+* man `PHAPB`
 * who `WHO`
 * can `K`
 * blow `PWHROE`

@@ -1,6 +1,6 @@
 # The Four Clever Brothers
 
-* 'Dear `AE TKAER`
+* 'Dear `AE KPA/TKAER`
 * children,' `KHEURPB KW-BG AE`
 * said `SAEUD`
 * a `AEU`
@@ -27,7 +27,7 @@
 * try `TREU`
 * your `KWROUR`
 * luck. `HRUBG TP-PL`
-* begin `TKPWEUPB`
+* Begin `KPA/TKPWEUPB`
 * by `PWEU`
 * learning `HRERPBG`
 * some `SOPL`
@@ -39,7 +39,7 @@
 * can `K`
 * get `TKPWET`
 * on.' `OPB TP-PL AE`
-* So `SO`
+* So `KPA/SO`
 * brothers `PWROERS`
 * took `TAOBG`
 * their `THAEUR`
@@ -59,7 +59,7 @@
 * at `AT`
 * gate `TKPWAET`
 * together. `TOGT TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * they `THE`
 * had `H`
 * got `TKPWOT`
@@ -70,13 +70,13 @@
 * leading `HRAEGD`
 * different `TKEUFRT`
 * country. `KREU TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * eldest `ELD/EFT`
 * said, `SAEUD KW-BG`
-* 'Here `AE HAOER`
+* 'Here `AE KPA/HAOER`
 * we `WE`
 * part; `PART STPH*FPLT`
-* But `PWUT`
+* but `PWUT`
 * this `TH`
 * day `TKAEU`
 * years `KWRAOERS`
@@ -109,11 +109,12 @@
 * world, `WORLD KW-BG`
 * should `SHO`
 * like `HRAOEUBG`
+* begin `TKPWEUPB`
 * art `ART`
 * trade,' `TRAEUD KW-BG AE`
 * answered `AEPBS/-D`
 * he. `HE TP-PL`
-* 'Then,' `AE THEPB KW-BG AE`
+* 'Then,' `AE KPA/THEPB KW-BG AE`
 * man, `PHAPB KW-BG`
 * 'go `AE TKPW`
 * with `W`
@@ -126,7 +127,7 @@
 * that `THA`
 * ever `-FR`
 * was.' `WAS TP-PL AE`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * other, `OER KW-BG`
 * 'that `AE THA`
 * is `S`
@@ -140,7 +141,7 @@
 * it `T`
 * end `EPBD`
 * gallows?' `TKPWAL/HROE/-S H-F AE`
-* 'Oh!' `AE O*E SKHRAPL AE`
+* 'Oh!' `AE KPA/O*E SKHRAPL AE`
 * 'you `AE U`
 * need `TPHAOED`
 * fear `TPAOER`
@@ -165,6 +166,7 @@
 * soon `SAOPB`
 * showed `SHOED`
 * himself `H*EUPLS`
+* so `SO`
 * clever, `KHREFR KW-BG`
 * could `KO`
 * escape `SKA*EUP`
@@ -172,9 +174,11 @@
 * set `SET`
 * mind `PHAOEUPBD`
 * upon. `POPB TP-PL`
+* The `KPA/-T`
 * second `SEBGD`
 * also `HR-S`
 * who, `WHO KW-BG`
+* when `WHEPB`
 * found `TPOUPBD`
 * setting `SEGT`
 * upon, `POPB KW-BG`
@@ -182,8 +186,9 @@
 * follow. `TPOL TP-PL`
 * know `TPHOE`
 * yet,' `KWRET KW-BG AE`
-* 'Then `AE THEPB`
+* 'Then `AE KPA/THEPB`
 * star-gazer. `STAR H-PB xxx gazer TP-PL`
+* It `KPA/T`
 * noble `TPHOEBL`
 * art, `ART KW-BG`
 * hidden `HEUD/EPB`
@@ -205,7 +210,7 @@
 * master, `PHAFRT KW-BG`
 * gave `TKPWAEUF`
 * glass, `TKPWHRAS KW-BG`
-* 'With `AE W`
+* 'With `AE KPA/W`
 * passing `PAFG`
 * sky `SKAOEU`
 * earth, `*ERT KW-BG`
@@ -224,7 +229,7 @@
 * left `HREFT`
 * master `PHAFRT`
 * bow, `PWOE KW-BG`
-* 'Whatever `AE WHAF`
+* 'Whatever `AE KPA/WHAF`
 * shoot `SHAOT`
 * bow `PWOE`
 * sure `SHUR`
@@ -233,12 +238,12 @@
 * likewise `HRAOEUBG/WAOEUS`
 * wished `WEURBD`
 * do. `TKO TP-PL`
-* 'Would `AE WO`
+* 'Would `AE KPA/WO`
 * like,' `HRAOEUBG KW-BG AE`
 * he, `HE KW-BG`
 * 'to `AE TO`
 * tailor?' `TAEURL H-F AE`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * no!' `TPHO SKHRAPL AE`
 * man; `PHAPB STPH*FPLT`
 * 'sitting `AE SEUGT`
@@ -260,6 +265,7 @@
 * another `TPHOER`
 * kind `KEUPBD`
 * that.' `THA TP-PL AE`
+* Not `KPA/TPHOT`
 * knowing `TPHOEG`
 * better `PWOERT`
 * do, `TKO KW-BG`
@@ -268,6 +274,7 @@
 * tailoring `TAEUL/ORG`
 * beginning; `TKPWEUPB/-G STPH*FPLT`
 * needle, `TPHAO*ELD KW-BG`
+* 'You `AE KPA/U`
 * sew `SWE`
 * this, `TH KW-BG`
 * soft `SOFT`
@@ -278,6 +285,7 @@
 * fine `TPAOEUPB`
 * seam `SAEPL`
 * seen.' `SAOEPB TP-PL AE`
+* After `KPA/AF`
 * space `SPAEUS`
 * years, `KWRAOERS KW-BG`
 * time `TAOEUPL`
@@ -293,7 +301,7 @@
 * them, `THEPL KW-BG`
 * learned `HRERPBD`
 * craft. `KRAFT TP-PL`
-* Then, `THEPB KW-BG`
+* Then, `KPA/THEPB KW-BG`
 * day, `TKAEU KW-BG`
 * were `WR`
 * sitting `SEUGT`
@@ -306,7 +314,7 @@
 * looked `HRAOBGD`
 * up, `UP KW-BG`
 * son, `SOPB KW-BG`
-* 'At `AE AT`
+* 'At `AE KPA/AT`
 * top `TOP`
 * tree `TRAOE`
 * there `THR`
@@ -319,8 +327,8 @@
 * are `R`
 * it.' `T TP-PL AE`
 * star-gazer `STAR H-PB xxx gazer`
-* 'Five.' `AE TPEUF TP-PL AE`
-* 'Now,' `AE TPHOU KW-BG AE`
+* 'Five.' `AE KPA/TPEUF TP-PL AE`
+* 'Now,' `AE KPA/TPHOU KW-BG AE`
 * 'take `AE TAEUBG`
 * away `A/WAEU`
 * without `WOUT`
@@ -348,7 +356,7 @@
 * table, `TAEUBL KW-BG`
 * fifth `TP*EUT`
 * middle, `PH*EULD KW-BG`
-* 'Cut `AE KUT`
+* 'Cut `AE KPA/KUT`
 * two `TWO`
 * pieces `PAOEFS`
 * shot.' `SHOT TP-PL AE`
@@ -356,7 +364,7 @@
 * shot `SHOT`
 * struck `STRUBG`
 * wished. `WEURBD TP-PL`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * comes `KOPLS`
 * turn,' `TURPB KW-BG AE`
 * tailor; `TAEURL STPH*FPLT`
@@ -389,7 +397,7 @@
 * across `A/KROS`
 * necks, `TPHEBG/-S KW-BG`
 * sewn `SWEPB`
-* 'Well `AE WEL`
+* 'Well `AE KPA/WEL`
 * sons!' `SOPBS SKHRAPL AE`
 * old `OLD`
 * made `PHAED`
@@ -401,7 +409,7 @@
 * which `WEU`
 * ought `OT`
 * prize. `PRAOEUZ TP-PL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * might `PHAOEUT`
 * turn `TURPB`
 * skill `SKEUL`
@@ -429,6 +437,7 @@
 * let `HRET`
 * us `US`
 * do.' `TKO TP-PL AE`
+* And `AFPBD`
 * whether `WHR`
 * princess `PREUPB/ES`
 * free. `TPRAOE TP-PL`
@@ -454,6 +463,7 @@
 * till `T*EUL`
 * right `RAOEUT`
 * place. `PHRAEUS TP-PL`
+* There `KPA/THR`
 * rock; `ROBG STPH*FPLT`
 * lying `HRAOEUG`
 * asleep, `A/HRAOEP KW-BG`
@@ -486,6 +496,7 @@
 * awoke `A/WOEBG`
 * missed `PHEUFD`
 * princess. `PREUPB/ES TP-PL`
+* But `KPA/PWUT`
 * boat, `PWOET KW-BG`
 * pounce `POUPBS`
 * carry `KAER`
@@ -495,6 +506,7 @@
 * fell `TPEL`
 * down `TKOUPB`
 * dead. `TKED TP-PL`
+* They `KPA/THE`
 * still `STEUL`
 * safe; `SAEUF STPH*FPLT`
 * fall `TPAUL`
@@ -512,6 +524,7 @@
 * about `PW`
 * gathered `TKPWAERD`
 * boat; `PWOET STPH*FPLT`
+* then `THEPB`
 * tacked `TABGD`
 * quickly `KWEULG`
 * ready, `R-D KW-BG`
@@ -521,7 +534,7 @@
 * father, `TPAER KW-BG`
 * rejoicing; `RE/SKWROEUFG STPH*FPLT`
 * brothers, `PWROERS KW-BG`
-* 'One `AE WUPB`
+* 'One `AE KPA/WUPB`
 * marry `PHAER`
 * her, `HER KW-BG`
 * settle `S*ELT`
@@ -532,17 +545,18 @@
 * quarrel `KWARL`
 * between `TWAOEPB`
 * them; `THEPL STPH*FPLT`
-* 'if `AE TP`
+* 'If `AE KPA/TP`
 * would `WO`
 * use; `AOUS STPH*FPLT`
 * therefore `TH-FR`
 * mine.' `PHAOEUPB TP-PL AE`
-* 'Your `AE KWROUR`
+* 'Your `AE KPA/KWROUR`
 * seeing `SAOEG`
 * use,' `AOUS KW-BG AE`
+* 'if `AE TP`
 * taken `TAEPB`
 * dragon; `TKRAG/O*PB STPH*FPLT`
-* 'No, `AE TPHO KW-BG`
+* 'No, `AE KPA/TPHO KW-BG`
 * mine,' `PHAOEUPB KW-BG AE`
 * huntsman; `xxx huntsman STPH*FPLT`
 * if `TP`
@@ -551,12 +565,12 @@
 * all, `AUL KW-BG`
 * torn `TORPB`
 * pieces.' `PAOEFS TP-PL AE`
-* 'And `AE SKP`
+* 'And `AE AFPBD`
 * again,' `TKPWEPB KW-BG AE`
 * tailor, `TAEURL KW-BG`
 * drowned, `TKROUPBD KW-BG`
 * word, `WORD KW-BG`
-* 'Each `AE AOEFP`
+* 'Each `AE KPA/AOEFP`
 * right; `RAOEUT STPH*FPLT`
 * cannot `K/TPHOT`
 * lady, `HRA*ED KW-BG`

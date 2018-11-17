@@ -1,6 +1,6 @@
 # Belling the Cat
 
-* Long `HROPBG`
+* Long `KPA/HROPBG`
 * ago, `AG KW-BG`
 * the `-T`
 * mice `PHAOEUS`
@@ -19,11 +19,12 @@
 * their `THAEUR`
 * common `KPHOPB`
 * enemy, `EPB/PHEU KW-BG`
-* Cat. `KAT TP-PL`
-* some `SOPL`
+* Cat. `KPA/KAT TP-PL`
+* Some `KPA/SOPL`
 * said `SAEUD`
 * this, `TH KW-BG`
 * and `SKP`
+* some `SOPL`
 * that; `THA STPH*FPLT`
 * but `PWUT`
 * at `AT`
@@ -40,12 +41,12 @@
 * would `WO`
 * meet `PHAOET`
 * case. `KAEUS TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * will `HR`
 * all `AUL`
 * agree," `TKPWRAE KW-BG KR-GS`
 * he, `HE KW-BG`
-* "That `KR-GS THA`
+* "that `KR-GS THA`
 * our `OUR`
 * chief `KHAOEF`
 * danger `TKAEUPBLG`
@@ -57,7 +58,7 @@
 * enemy `EPB/PHEU`
 * approaches `A/PROEFPS`
 * us. `US TP-PL`
-* Now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * if `TP`
 * we `WE`
 * receive `SAOEF`
@@ -79,11 +80,12 @@
 * be `-B`
 * procured, `PROE/KAOURD KW-BG`
 * attached `A/TAFPD`
-* By `PWEU`
+* by `PWEU`
 * ribbon `REUB/O*PB`
 * round `ROUPBD`
 * neck `TPHEBG`
-* This `TH`
+* By `KPA/PWEU`
+* this `TH`
 * means `PHAOEPBS`
 * should `SHO`
 * always `AULS`
@@ -95,6 +97,7 @@
 * retire `RAO*EUR`
 * while `WHAOEUL`
 * neighbourhood." `TPHAOD/A*U TP-PL KR-GS`
+* This `KPA/TH`
 * met `PHET`
 * with `W`
 * applause, `A/PHRAUS KW-BG`
@@ -102,18 +105,20 @@
 * an `APB`
 * old `OLD`
 * said: `SAEUD STPH-FPLT`
+* "That `KR-GS KPA/THA`
 * is `S`
 * very `SRE`
 * well, `WEL KW-BG`
 * who `WHO`
-* Cat?" `KAT H-F KR-GS`
+* Cat?" `KPA/KAT H-F KR-GS`
+* The `KPA/-T`
 * looked `HRAOBGD`
 * one `WUPB`
 * another `TPHOER`
 * nobody `TPHOEB`
 * spoke. `SPOEBG TP-PL`
-* Then `THEPB`
-* "It `KR-GS T`
+* Then `KPA/THEPB`
+* "It `KR-GS KPA/T`
 * easy `EZ`
 * impossible `EUPL/POB`
 * remedies." `REPL/TKEUS TP-PL KR-GS`

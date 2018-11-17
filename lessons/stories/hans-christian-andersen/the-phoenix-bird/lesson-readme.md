@@ -1,38 +1,41 @@
 # The Phoenix Bird
 
-* in `TPH`
+* In `KPA/TPH`
 * the `-T`
-* Garden `TKPWA*RPB`
+* Garden `KPA/TKPWA*RPB`
 * of `-F`
-* Paradise, `PAR/TKAOEUZ KW-BG`
+* Paradise, `KPA/PAR/TKAOEUZ KW-BG`
 * beneath `TPHAO*ET`
-* Tree `TRAOE`
-* Knowledge, `TPHOPBLG KW-BG`
+* Tree `KPA/TRAOE`
+* Knowledge, `KPA/TPHOPBLG KW-BG`
 * bloomed `PWHRAOPL/-D`
 * a `AEU`
-* rose `ROEZ`
+* rose `ROES`
 * bush. `PWURB TP-PL`
-* Here, `HAOER KW-BG`
+* Here, `KPA/HAOER KW-BG`
+* in `TPH`
 * first `TPEUFRT`
-* rose, `ROEZ KW-BG`
-* Bird `PWEURD`
+* rose, `ROES KW-BG`
+* bird `PWEURD`
 * was `WAS`
 * born. `PWORPB TP-PL`
-* his `HEUS`
+* His `KPA/HEUS`
 * flight `TPHRAOEUT`
 * like `HRAOEUBG`
 * flashing `TPHRARBG`
 * light, `HRAOEUT KW-BG`
+* his `HEUS`
 * plumage `PHRAOUPL/APBLG`
 * beauteous, `PWAOUT/KWROUS KW-BG`
 * and `SKP`
 * song `SOPBG`
 * ravishing. `RAF/EURB/-G TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * when `WHEPB`
 * Eve `AOEF`
 * plucked `PHRUBGD`
 * fruit `TPRAOUT`
+* tree `TRAOE`
 * knowledge `TPHOPBLG`
 * good `TKPWAOD`
 * evil, `AOEFL KW-BG`
@@ -54,8 +57,10 @@
 * blazed `PWHRAEUZ/-D`
 * up `UP`
 * forthwith. `TPA*URT/W TP-PL`
+* The `KPA/-T`
 * perished `PER/EURB/-D`
 * flames; `TPHRAEUPLS STPH*FPLT`
+* but `PWUT`
 * red `RED`
 * egg `EG`
 * fluttered `TPHRUT/ERD`
@@ -75,7 +80,7 @@
 * every `EF`
 * hundred `HUPBD`
 * years, `KWRAOERS KW-BG`
-* burns `PWURPBZ`
+* burns `PWURPBS`
 * himself `H*EUPLS`
 * to `TO`
 * death `TK*T`
@@ -96,6 +101,7 @@
 * color, `KROR KW-BG`
 * charming `KHARPL/-G`
 * song. `SOPBG TP-PL`
+* When `KPA/WHEPB`
 * mother `PHOER`
 * sits `SEUTS`
 * by `PWEU`
@@ -112,6 +118,7 @@
 * glory `TKPWHROER`
 * around `ARPBD`
 * head. `HED TP-PL`
+* He `KPA/HE`
 * flies `TPHRAOEUS`
 * through `THRU`
 * chamber `KHAEURPL`
@@ -133,7 +140,7 @@
 * way `WAEU`
 * glimmer `TKPWHREURPL`
 * Northern `TPHORPB`
-* Lights `HRAOEUTS`
+* Lights `KPA/HRAOEUTS`
 * over `OEFR`
 * plains `PHRAEUPBS`
 * Lapland, `xxx Lapland KW-BG`
@@ -144,6 +151,7 @@
 * short `SHORT`
 * Greenland `TKPWRAOEPB/HRA*PBD`
 * summer. `SAOURPL TP-PL`
+* Beneath `KPA/TPHAO*ET`
 * copper `KOP/ER`
 * mountains `PHOUPB/TAEUPBS`
 * Fablun, `xxx Fablun KW-BG`
@@ -159,6 +167,7 @@
 * knees `TPHAOEZ`
 * pious `PAOEU/OUS`
 * miner. `PHAOEUPB/ER TP-PL`
+* On `KPA/OPB`
 * lotus `HROE/TUS`
 * leaf `HRAOEF`
 * floats `TPHROETS`
@@ -177,6 +186,7 @@
 * thou `THO*U`
 * know `TPHOE`
 * him? `HEUPL H-F`
+* Bird `KPA/PWEURD`
 * holy `HOEUL`
 * swan `SWAPB`
 * song! `SOPBG SKHRAPL`
@@ -203,7 +213,7 @@
 * whispered `WHEUS/PERD`
 * poet's `POET AES`
 * ear `AOER`
-* "Immortality!" `KR-GS EUPL/POR/TALT SKHRAPL KR-GS`
+* "Immortality!" `KR-GS KPA/EUPL/POR/TALT SKHRAPL KR-GS`
 * at `AT`
 * minstrels' `PHEUPBS/TREL/-S AE`
 * feast `TPAOEFT`
@@ -227,12 +237,12 @@
 * who `WHO`
 * tinsel `TEUPB/SEL`
 * wings. `WEUPBGS TP-PL`
-* Paradise—renewed `PAR/TKAOEUZ EPL/TKA*RB RE/TPHAOUD`
+* Paradise—renewed `KPA/PAR/TKAOEUZ EPL/TKA*RB RE/TPHAOUD`
 * century—born `KROEURPBT EPL/TKA*RB PWORPB`
 * flame, `TPHRAEUPL KW-BG`
 * ending `EPBGD`
 * flame! `TPHRAEUPL SKHRAPL`
-* thy `THAO*EU`
+* Thy `KPA/THAO*EU`
 * picture, `P*EUFP KW-BG`
 * golden `TKOELD/*EPB`
 * frame, `TPRAEUPL KW-BG`
@@ -244,15 +254,16 @@
 * around, `ARPBD KW-BG`
 * lonely `HROPBL`
 * disregarded, `TKEUD/RARD/-D KW-BG`
-* myth—"The `PH*EUT EPL/TKA*RB KR-GS -T`
+* myth—"The `PH*EUT EPL/TKA*RB KR-GS KPA/-T`
 * Arabia." `A/RAEUB/KWRA TP-PL KR-GS`
 * wert `W*/*E/R*/T*`
 * born `PWORPB`
 * receivedst `xxx receivedst`
 * kiss, `KEUS KW-BG`
+* thy `THAO*EU`
 * right `RAOEUT`
 * name `TPHAEUPL`
 * given `TKPWEUFPB`
 * thee—thy `THAOE EPL/TKA*RB THAO*EU`
 * name, `TPHAEUPL KW-BG`
-* Poetry. `POEURT TP-PL`
+* Poetry. `KPA/POEURT TP-PL`

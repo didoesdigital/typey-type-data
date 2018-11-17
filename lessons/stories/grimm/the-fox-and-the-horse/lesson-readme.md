@@ -53,11 +53,12 @@
 * stronger `STRORPBG`
 * than `THAPB`
 * lion.' `HRO*EUPB TP-PL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * opened `OEPD`
 * door `TKAOR`
 * turned `TURPBD`
 * adrift. `A/TKREUFT TP-PL`
+* The `KPA/-T`
 * poor `PAOR`
 * very `SRE`
 * melancholy, `PHEL/KOL/HREU KW-BG`
@@ -74,10 +75,10 @@
 * cold `KOELD`
 * wind `WEUPBD`
 * rain. `RAEUPB TP-PL`
-* Presently `PREPBLT`
+* Presently `KPA/PREPBLT`
 * fox `TPOBGS`
 * met `PHET`
-* 'What's `AE WHA AES`
+* 'What's `AE KPA/WHA AES`
 * matter, `PHAERT KW-BG`
 * friend?' `TPREPBD H-F AE`
 * said `SAEUD`
@@ -90,7 +91,7 @@
 * look `HRAOBG`
 * lonely `HROPBL`
 * woe-begone?' `WOE H-PB xxx begone H-F AE`
-* 'Ah!' `AE HA*E SKHRAPL AE`
+* 'Ah!' `AE KPA/HA*E SKHRAPL AE`
 * replied `RE/PHRAOEUD`
 * horse, `HORS KW-BG`
 * 'justice `AE SKWRUFS`
@@ -128,7 +129,7 @@
 * or `OR`
 * talk `TAUBG`
 * so.' `SO TP-PL AE`
-* However, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * bid `PWEUD`
 * be `-B`
 * good `TKPWAOD`
@@ -172,7 +173,7 @@
 * when `WHEPB`
 * they `THE`
 * came `KAEUPL`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * able `ABL`
 * eat `AOET`
 * comfortably `KAEBL`
@@ -183,11 +184,12 @@
 * tie `TAOEU`
 * fast `TPAFT`
 * tail, `TAEUL KW-BG`
+* then `THEPB`
 * draw `TKRAU`
 * den, `TKEPB KW-BG`
 * at `AT`
 * leisure.' `HR*ERB TP-PL AE`
-* This `TH`
+* This `KPA/TH`
 * advice `SREUS`
 * pleased `PHRAOEFD`
 * lion, `HRO*EUPB KW-BG`
@@ -195,6 +197,7 @@
 * himself `H*EUPLS`
 * quietly `KWAO*EULT`
 * horse. `HORS TP-PL`
+* But `KPA/PWUT`
 * managed `PHAPBGD`
 * legs `HREGS`
 * together `TOGT`
@@ -203,6 +206,7 @@
 * strength `STREPBG`
 * could `KO`
 * free. `TPRAOE TP-PL`
+* When `KPA/WHEPB`
 * done, `TKOPB KW-BG`
 * clapped `KHRAP/-D`
 * on `OPB`
@@ -234,7 +238,7 @@
 * fields `TPAOELDZ`
 * master's `PHAFRT AES`
 * house. `HOUS TP-PL`
-* 'Here `AE HAOER`
+* 'Here `AE KPA/HAOER`
 * is, `S KW-BG`
 * master,' `PHAFRT KW-BG AE`
 * got `TKPWOT`
@@ -245,7 +249,7 @@
 * heart `HART`
 * relented, `xxx relented KW-BG`
 * said. `SAEUD TP-PL`
-* 'Thou `AE THO*U`
+* 'Thou `AE KPA/THO*U`
 * shalt `SHALT`
 * stay `STAEU`
 * thy `THAO*EU`
@@ -254,6 +258,7 @@
 * taken `TAEPB`
 * care `KAEUR`
 * of.' `-F TP-PL AE`
+* And `AFPBD`
 * plenty `PHREPBT`
 * lived--till `HREUFD H-PB H-PB T*EUL`
 * died. `TKAOEUD TP-PL`

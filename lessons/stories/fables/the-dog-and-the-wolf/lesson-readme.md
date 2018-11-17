@@ -2,7 +2,7 @@
 
 * A `KPA/AEU`
 * gaunt `TKPWAUPBT`
-* Wolf `WOFL`
+* Wolf `KPA/WOFL`
 * was `WAS`
 * almost `HR-PL`
 * dead `TKED`
@@ -14,15 +14,15 @@
 * to `TO`
 * meet `PHAOET`
 * a `AEU`
-* House-dog `HOUS H-PB TKOG`
+* House-dog `KPA/HOUS H-PB TKOG`
 * who `WHO`
 * passing `PAFG`
 * by. `PWEU TP-PL`
-* "Ah, `KR-GS HA*E KW-BG`
-* Cousin," `KUZ KW-BG KR-GS`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
+* Cousin," `KPA/KUZ KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`
-* Dog. `TKOG TP-PL`
+* Dog. `KPA/TKOG TP-PL`
 * "I `KR-GS EU`
 * knew `TPHAOU`
 * how `HOU`
@@ -38,7 +38,7 @@
 * ruin `RAOUPB`
 * of `-F`
 * you. `U TP-PL`
-* Why `KWR`
+* Why `KPA/KWR`
 * do `TKO`
 * you `U`
 * not `TPHOT`
@@ -56,7 +56,7 @@
 * have `SR`
 * no `TPHO`
 * objection," `OBGS KW-BG KR-GS`
-* Wolf, `WOFL KW-BG`
+* Wolf, `KPA/WOFL KW-BG`
 * "if `KR-GS TP`
 * could `KO`
 * only `OEPBL`
@@ -66,42 +66,44 @@
 * that `THA`
 * for `TPOR`
 * you," `U KW-BG KR-GS`
-* Dog; `TKOG STPH*FPLT`
+* Dog; `KPA/TKOG STPH*FPLT`
 * "come `KR-GS KOPL`
 * me `PHE`
 * my `PHEU`
-* Master `PHAFRT`
+* master `PHAFRT`
 * shall `SHAL`
 * share `SHAEUR`
 * work." `WORBG TP-PL KR-GS`
-* so `SO`
-* Dog `TKOG`
+* So `KPA/SO`
+* Dog `KPA/TKOG`
 * went `WEPBT`
 * towards `TORDZ`
 * town `TOUPB`
 * together. `TOGT TP-PL`
-* on `OPB`
+* On `KPA/OPB`
 * way `WAEU`
 * there `THR`
 * noticed `TPH-TSD`
 * hair `HAEUR`
+* on `OPB`
 * certain `SERPB`
 * part `PART`
-* Dog's `TKOG AES`
+* Dog's `KPA/TKOG AES`
 * neck `TPHEBG`
 * very `SRE`
 * much `PHUFP`
 * worn `WORPB`
 * away, `A/WAEU KW-BG`
+* so `SO`
 * asked `SK-D`
 * him `HEUPL`
 * had `H`
 * come `KOPL`
 * about. `PW TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * is `S`
 * nothing," `TPHOG KW-BG KR-GS`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * place `PHRAEUS`
 * where `W-R`
 * collar `KHRAR`
@@ -118,14 +120,15 @@
 * gets `TKPWETS`
 * used `AOUFD`
 * it." `T TP-PL KR-GS`
-* "Is `KR-GS S`
+* "Is `KR-GS KPA/S`
 * all?" `AUL H-F KR-GS`
-* Wolf. `WOFL TP-PL`
-* "Then `KR-GS THEPB`
+* Wolf. `KPA/WOFL TP-PL`
+* "Then `KR-GS KPA/THEPB`
 * good-bye `TKPWAOB`
 * you, `U KW-BG`
-* Dog." `TKOG TP-PL KR-GS`
-* Better `PWOERT`
+* Master `KPA/PHAFRT`
+* Dog." `KPA/TKOG TP-PL KR-GS`
+* Better `KPA/PWOERT`
 * starve `STAFRB`
 * free `TPRAOE`
 * than `THAPB`

@@ -9,17 +9,18 @@
 * love `HRUF`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * for `TPOR`
-* rose `ROEZ`
+* rose `ROES`
 * in `TPH`
 * silent `SHREPBT`
 * starlight `STARLGT`
 * night. `TPHAOEUT TP-PL`
+* The `KPA/-T`
 * winged `WEUPBGD`
 * songster `xxx songster`
 * serenades `SER/TPHAEUDZ`
 * fragrant `TPRAEUG/RAPBT`
 * flowers. `TPHRO*URS TP-PL`
-* not `TPHOT`
+* Not `KPA/TPHOT`
 * far `TPAR`
 * from `TPR`
 * Smyrna, `SPHEURPB/KWRA KW-BG`
@@ -64,8 +65,8 @@
 * if `TP`
 * were `WR`
 * mother-of-pearl. `PHOER H-PB -F H-PB PERL TP-PL`
-* on `OPB`
-* rose-bush `ROEZ H-PB PWURB`
+* On `KPA/OPB`
+* rose-bush `ROES H-PB PWURB`
 * grew `TKPWRAOU`
 * flower, `TPHRO*UR KW-BG`
 * more `PHOR`
@@ -79,14 +80,16 @@
 * but `PWUT`
 * remained `RE/PHAEUPBD`
 * silent, `SHREPBT KW-BG`
+* not `TPHOT`
 * even `AOEPB`
 * dewdrop `xxx dewdrop`
 * lay `HRAEU`
-* Like `HRAOEUBG`
+* like `HRAOEUBG`
 * tear `TAER`
 * sympathy `SEUPL/THEU`
+* on `OPB`
 * leaves. `HREFS TP-PL`
-* At `AT`
+* At `KPA/AT`
 * last `HRAFT`
 * she `SHE`
 * bowed `PWOE/-D`
@@ -94,7 +97,7 @@
 * heap `HAOEP`
 * stones, `STOEPBS KW-BG`
 * said, `SAEUD KW-BG`
-* "Here `KR-GS HAOER`
+* "Here `KR-GS KPA/HAOER`
 * rests `REFTS`
 * greatest `TKPWRAET/EFT`
 * singer `SEURPBG`
@@ -112,7 +115,7 @@
 * storm `STORPL`
 * scatters `SKAT/ERS`
 * them. `THEPL TP-PL`
-* he `HE`
+* He `KPA/HE`
 * who `WHO`
 * Troy `TROEU`
 * became `PWAEUPL`
@@ -128,7 +131,7 @@
 * too `TAO`
 * bloom `PWHRAOPL`
 * nightingale." `TPHAOEUT/-G/TKPWAEL TP-PL KR-GS`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * himself `H*EUPLS`
 * death. `TK*T TP-PL`
 * A `KPA/AEU`
@@ -160,6 +163,7 @@
 * this `TH`
 * was `WAS`
 * dream. `TKRAOEPL TP-PL`
+* It `KPA/T`
 * fair `TPAEUR`
 * sunshiny `xxx sunshiny`
 * day; `TKAEU STPH*FPLT`
@@ -171,6 +175,7 @@
 * undertaken `UPBD/TAEBG/EPB`
 * pilgrimage `PEULG/PHAPBLG`
 * Homer. `HOERPL TP-PL`
+* Among `KPA/PHOPBG`
 * minstrel `PHEUPBS/TREL`
 * north, `TPHORT KW-BG`
 * home `HOEPL`
@@ -193,6 +198,7 @@
 * grief, `TKPWRAOEF KW-BG`
 * between `TWAOEPB`
 * which `WEU`
+* he `HE`
 * opened `OEPD`
 * own `OEPB`
 * home, `HOEPL KW-BG`
@@ -207,7 +213,7 @@
 * singer's `SEURPBG AES`
 * grave. `TKPWRAEUF TP-PL`
 * sun `SUPB`
-* rose, `ROEZ KW-BG`
+* rose, `ROES KW-BG`
 * bloomed `PWHRAOPL/-D`
 * ever. `-FR TP-PL`
 * day `TKAEU`
@@ -228,6 +234,7 @@
 * mouth, `PHO*UT KW-BG`
 * northern `TPHORPB`
 * lights. `HRAOEUTS TP-PL`
+* Like `KPA/HRAOEUBG`
 * mummy, `PHUPL/PHEU KW-BG`
 * now `TPHOU`
 * "Iliad," `KR-GS EUL/KWRAD KW-BG KR-GS`

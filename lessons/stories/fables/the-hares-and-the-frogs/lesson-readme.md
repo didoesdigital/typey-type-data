@@ -1,11 +1,12 @@
 # The Hares and the Frogs
 
-* the `-T`
-* Hares `HA*ER/-S`
+* The `KPA/-T`
+* Hares `xxx Hares`
 * were `WR`
 * so `SO`
 * persecuted `PERS/KAOUT/-D`
 * by `PWEU`
+* the `-T`
 * other `OER`
 * beasts, `PWAOEFT/-S KW-BG`
 * they `THE`
@@ -15,8 +16,9 @@
 * where `W-R`
 * to `TO`
 * go. `TKPW TP-PL`
-* as `AZ`
+* As `KPA/AZ`
 * soon `SAOPB`
+* as `AZ`
 * saw `SAU`
 * a `AEU`
 * single `SEUPBLG`
@@ -26,12 +28,12 @@
 * off `OF`
 * used `AOUFD`
 * run. `RUPB TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
 * troop `TRAOP`
 * of `-F`
 * wild `WAOEULD`
-* Horses `HORSZ`
+* Horses `KPA/HORSZ`
 * stampeding `STA*PLD/-G`
 * about, `PW KW-BG`
 * and `SKP`
@@ -53,13 +55,13 @@
 * continual `T-PB/WAL`
 * state `STAEUT`
 * fear. `TPAOER TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * just `SKWRUFT`
 * got `TKPWOT`
 * near `TPHAOER`
 * bank `PWA*PBG`
 * lake, `HRAEUBG KW-BG`
-* Frogs, `TPROGS KW-BG`
+* Frogs, `KPA/TPROGS KW-BG`
 * frightened `TPRAOEUPBD`
 * their `THAEUR`
 * turn `TURPB`
@@ -67,14 +69,15 @@
 * jumped `SKWR*UPLD`
 * into `TPHAO`
 * water. `WAUR TP-PL`
-* "Truly," `KR-GS TRAOUL KW-BG KR-GS`
+* "Truly," `KR-GS KPA/TRAOUL KW-BG KR-GS`
 * said `SAEUD`
-* Hares, `HA*ER/-S KW-BG`
+* one `WUPB`
+* Hares, `xxx Hares KW-BG`
 * "things `KR-GS THEUPBGS`
 * are `R`
 * bad `PWAD`
 * seem: `SAOEPL STPH-FPLT`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * is `S`
 * always `AULS`
 * someone `SPH-PB`

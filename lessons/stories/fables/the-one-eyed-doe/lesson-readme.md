@@ -1,7 +1,7 @@
 # The One-Eyed Doe
 
 * A `KPA/AEU`
-* Doe `TKO*E`
+* Doe `KPA/TKO*E`
 * had `H`
 * the `-T`
 * misfortune `PHEUS/TPOR/TAOUPB`
@@ -20,7 +20,7 @@
 * on `OPB`
 * that `THA`
 * side. `SAOEUD TP-PL`
-* So `SO`
+* So `KPA/SO`
 * avoid `A/SROEUD`
 * danger `TKAEUPBLG`
 * she `SHE`
@@ -38,7 +38,7 @@
 * looking `HRAOG`
 * towards `TORDZ`
 * land. `HRAPBD TP-PL`
-* by `PWEU`
+* By `KPA/PWEU`
 * this `TH`
 * means `PHAOEPBS`
 * whenever `WHEFR`
@@ -47,8 +47,9 @@
 * land, `HRAPBD KW-BG`
 * often `OFPB`
 * escaped `ES/KAEUPD`
+* by `PWEU`
 * means. `PHAOEPBS TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * found `TPOUPBD`
 * out `OUT`
 * was `WAS`
@@ -62,11 +63,11 @@
 * shot `SHOT`
 * from `TPR`
 * sea. `SAE TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * cried `KRAOEUD`
 * dying `TKAOEUG`
 * voice, `SROEUS KW-BG`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * cannot `K/TPHOT`
 * escape `SKA*EUP`
 * your `KWROUR`

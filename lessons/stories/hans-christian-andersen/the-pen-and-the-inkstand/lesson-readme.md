@@ -1,6 +1,6 @@
 # The Pen and the Inkstand
 
-* in `TPH`
+* In `KPA/TPH`
 * a `AEU`
 * poet's `POET AES`
 * room, `RAOPL KW-BG`
@@ -15,7 +15,7 @@
 * was `WAS`
 * once `WUPBS`
 * made, `PHAED KW-BG`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * is `S`
 * wonderful `WUFL`
 * what `WHA`
@@ -26,13 +26,14 @@
 * of `-F`
 * an `APB`
 * inkstand. `xxx inkstand TP-PL`
+* What `KPA/WHA`
 * will `HR`
 * come `KOPL`
 * next? `TPHEGT H-F`
-* it `T`
+* It `KPA/T`
 * indeed `TPHAOEPBD`
 * wonderful." `WUFL TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * certainly," `SERPBL KW-BG KR-GS`
 * said `SAEUD`
 * to `TO`
@@ -50,7 +51,7 @@
 * number `TPHUPL`
 * things `THEUPBGS`
 * me. `PHE TP-PL`
-* It's `T AES`
+* It's `KPA/T AES`
 * quite `KWAOEUT`
 * incredible, `TPHEBL KW-BG`
 * really `R-L`
@@ -63,7 +64,7 @@
 * dips `TKEUPS`
 * pen `PEPB`
 * into `TPHAO`
-* one `WUPB`
+* One `KPA/WUPB`
 * drop `TKROP`
 * me `PHE`
 * enough `TPHUF`
@@ -73,7 +74,7 @@
 * paper, `PAEUP KW-BG`
 * cannot `K/TPHOT`
 * contain? `TAEUPB H-F`
-* from `TPR`
+* From `KPA/TPR`
 * me, `PHE KW-BG`
 * all `AUL`
 * works `WORBGS`
@@ -91,6 +92,7 @@
 * known `TPHOEPB`
 * or `OR`
 * met. `PHET TP-PL`
+* All `KPA/AUL`
 * deep `TKAOEP`
 * feeling, `TPAOELG KW-BG`
 * humor, `HAOURPL KW-BG`
@@ -100,14 +102,16 @@
 * myself `PHAO*EUS`
 * understand `URPBD`
 * how `HOU`
+* it `T`
 * is, `S KW-BG`
 * am `APL`
 * not `TPHOT`
 * acquainted `A/KWAEUPBTD`
 * with `W`
 * nature, `TPHAEURT KW-BG`
-* But `PWUT`
+* but `PWUT`
 * certainly `SERPBL`
+* in `TPH`
 * gone `TKPWOPB`
 * forth `TPO*RT`
 * world `WORLD`
@@ -128,7 +132,7 @@
 * think `THEU`
 * these `THEZ`
 * things." `THEUPBGS TP-PL KR-GS`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * right," `RAOEUT KW-BG KR-GS`
 * "for `KR-GS TPOR`
 * at `AT`
@@ -140,6 +144,7 @@
 * only `OEPBL`
 * provide `PROEFD`
 * means. `PHAOEPBS TP-PL`
+* You `KPA/U`
 * give `TKPWEUF`
 * fluid `THRAOUD`
 * may `PHAE`
@@ -163,7 +168,7 @@
 * poetry `POEURT`
 * old `OLD`
 * inkstand." `xxx inkstand TP-PL KR-GS`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * had `H`
 * very `SRE`
 * little `HREUL`
@@ -176,7 +181,7 @@
 * already `HR-R`
 * worn `WORPB`
 * out. `OUT TP-PL`
-* do `TKO`
+* Do `KPA/TKO`
 * imagine `PHAPBLG`
 * poet? `POET H-F`
 * servant, `SEFRB/APBT KW-BG`
@@ -201,7 +206,7 @@
 * service, `S-FS KW-BG`
 * shall `SHAL`
 * more `PHOR`
-* He `HE`
+* he `HE`
 * comes—the `KOPLS EPL/TKA*RB -T`
 * who `WHO`
 * performs `P-FRPLS`
@@ -210,6 +215,7 @@
 * writes `WRAOEUTS`
 * down `TKOUPB`
 * obtains `OB/TAEUPBS`
+* from `TPR`
 * should `SHO`
 * thing `THEUPBG`
 * gets `TKPWETS`
@@ -217,9 +223,10 @@
 * "Inkpot!" `KR-GS xxx Inkpot SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * contemptuously. `KOPB/TEPL/-RBS/HREU TP-PL`
-* Late `HRAEUT`
+* Late `KPA/HRAEUT`
 * evening `AOEPBG`
 * home. `HOEPL TP-PL`
+* He `KPA/HE`
 * concert, `KERT KW-BG`
 * enchanted `EPB/HAPBT/-D`
 * admirable `AD/PHEURBL`
@@ -229,6 +236,7 @@
 * player `PHRAEUR`
 * heard `HAERD`
 * there. `THR TP-PL`
+* The `KPA/-T`
 * performer `PORPL/*ER`
 * produced `PRO*UD`
 * instrument `STRUPLT`
@@ -241,7 +249,7 @@
 * rolling `ROLG`
 * pearls; `PERLS STPH*FPLT`
 * birds `PWEURDZ`
-* twittering `TWEURT/-G`
+* twittering `xxx twittering`
 * chorus, `KHOERS KW-BG`
 * then `THEPB`
 * rising `RAOEUFG`
@@ -276,14 +284,16 @@
 * so `SO`
 * easily `AOELS`
 * any `TPHEU`
+* one `WUPB`
 * could `KO`
+* do `TKO`
 * tried. `TRAOEUD TP-PL`
-* Even `AOEPB`
+* Even `KPA/AOEPB`
 * appeared `A/PAOERD`
 * perform `PORPL`
 * independently `PAEPBLT`
 * their `THAEUR`
-* Master `PHAFRT`
+* master `PHAFRT`
 * guided `TKPWAOEUD/-D`
 * them; `THEPL STPH*FPLT`
 * soul `SOUL`
@@ -293,14 +303,15 @@
 * audience `AUPBS`
 * forgot `TPAURGT`
 * beautiful `PWAOUFL`
+* Not `KPA/TPHOT`
 * poet; `POET STPH*FPLT`
 * remembered `RERD`
 * him, `HEUPL KW-BG`
 * named `TPHAEUPLD`
 * wrote `WRO`
-* Thoughts `THAUTS`
+* thoughts `THAUTS`
 * subject. `SUBT TP-PL`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * foolish `TPAOL/EURB`
 * boast `PWOEFT`
 * performance, `PORPLS KW-BG`
@@ -316,31 +327,34 @@
 * general,—we `SKWREPBL KW-BG EPL/TKA*RB WE`
 * it; `T STPH*FPLT`
 * instruments `STRAOUPLTS`
-* Almighty `AL/PHAOEUT/KWREU`
+* Almighty `A*L/PHAOEUT/KWREU`
 * uses; `AOUSZ STPH*FPLT`
-* Him `HEUPL`
+* Him `KPA/HEUPL`
 * alone `A/HROEPB`
 * honor `HO*RPB`
 * due. `TKAOU TP-PL`
+* We `KPA/WE`
 * nothing `TPHOG`
 * ourselves `O*URSZ`
 * proud." `PROUD TP-PL KR-GS`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * this `TH`
 * down. `TKOUPB TP-PL`
 * form `TPORPL`
 * parable, `PAEURBL KW-BG`
 * called `KAULD`
-* "The `KR-GS -T`
-* Instruments." `STRAOUPLTS TP-PL KR-GS`
-* "That `KR-GS THA`
+* "The `KR-GS KPA/-T`
+* Master `KPA/PHAFRT`
+* Instruments." `KPA/STRAOUPLTS TP-PL KR-GS`
+* "That `KR-GS KPA/THA`
 * got, `TKPWOT KW-BG`
 * madam," `PHAD/APL KW-BG KR-GS`
 * inkstand, `xxx inkstand KW-BG`
 * two `TWO`
 * again. `TKPWEPB TP-PL`
-* "Did `KR-GS TK`
+* "Did `KR-GS KPA/TK`
 * hear `HAER`
+* him `HEUPL`
 * read `RAED`
 * aloud `A/HROUD`
 * written `WREUPB`
@@ -352,16 +366,18 @@
 * because `PWAU`
 * your `KWROUR`
 * conceit. `KAUPB/SAOET TP-PL`
+* To `KPA/TO`
 * being `-BG`
 * quizzed. `KWEUZ/-D TP-PL`
 * within `W-PB`
-* Surely `SHURL`
+* Surely `KPA/SHURL`
 * must `PHUFT`
 * satire." `SA/TAOEUR TP-PL KR-GS`
-* "Ink-pitcher!" `KR-GS *EUPBG H-PB PEUFP/*ER SKHRAPL KR-GS`
+* "Ink-pitcher!" `KR-GS KPA/*EUPBG H-PB PEUFP/*ER SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * pen. `PEPB TP-PL`
-* "Writing-stick!" `KR-GS WREUG H-PB STEUBG SKHRAPL KR-GS`
+* "Writing-stick!" `KR-GS KPA/WREUG H-PB STEUBG SKHRAPL KR-GS`
+* And `AFPBD`
 * each `AOEFP`
 * them `THEPL`
 * satisfied `SAED`
@@ -380,9 +396,11 @@
 * well, `WEL KW-BG`
 * slept `SHREPD`
 * it. `T TP-PL`
+* But `KPA/PWUT`
 * did `TK`
 * sleep. `SHRAOEP TP-PL`
-* rose `ROEZ`
+* Thoughts `KPA/THAUTS`
+* rose `ROES`
 * up `UP`
 * violin, `SRO*EUPBL KW-BG`
 * falling `TPAULG`
@@ -394,7 +412,7 @@
 * thoughts; `THAUTS STPH*FPLT`
 * ray `RAEU`
 * mind `PHAOEUPBD`
-* Great `TKPWRAET`
+* Great `KPA/TKPWRAET`
 * minds. `PHAOEUPBDZ TP-PL`
-* "To `KR-GS TO`
+* "To `KR-GS KPA/TO`
 * honor." `HO*RPB TP-PL KR-GS`

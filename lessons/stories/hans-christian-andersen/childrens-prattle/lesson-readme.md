@@ -1,11 +1,11 @@
 # Children's Prattle
 
-* at `AT`
+* At `KPA/AT`
 * a `AEU`
 * rich `REUFP`
 * merchant's `PHEFRPBT AES`
 * house `HOUS`
-* There `THR`
+* there `THR`
 * was `WAS`
 * children's `KHEURPBS`
 * party, `PAERT KW-BG`
@@ -17,6 +17,7 @@
 * people `PAOEPL`
 * were `WR`
 * there. `THR TP-PL`
+* The `KPA/-T`
 * merchant `PHEFRPBT`
 * learned `HRERPBD`
 * man, `PHAPB KW-BG`
@@ -28,15 +29,17 @@
 * him `HEUPL`
 * to `TO`
 * college, `KHREPBLG KW-BG`
-* He `HE`
+* he `HE`
 * passed `PAFD`
 * examination. `KP-GS TP-PL`
+* His `KPA/HEUS`
 * been `PW-PB`
+* at `AT`
 * first `TPEUFRT`
 * only `OEPBL`
 * cattle `KA*LT`
 * dealer, `TKAOERL KW-BG`
-* But `PWUT`
+* but `PWUT`
 * always `AULS`
 * honest `HO*PBS`
 * industrious, `STREUS KW-BG`
@@ -49,7 +52,7 @@
 * managed `PHAPBGD`
 * increase `EUPB/KRAES`
 * store. `STOR TP-PL`
-* Clever `KHREFR`
+* Clever `KPA/KHREFR`
 * as `AZ`
 * was, `WAS KW-BG`
 * also `HR-S`
@@ -59,7 +62,7 @@
 * heart `HART`
 * than `THAPB`
 * money. `PHUPB TP-PL`
-* all `AUL`
+* All `KPA/AUL`
 * descriptions `SKREUFPGS`
 * visited `SREUFTD`
 * house, `HOUS KW-BG`
@@ -72,16 +75,16 @@
 * neither `TPHAOERT`
 * these `THEZ`
 * recommendations. `REPLGS/-S TP-PL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * it `T`
 * prattle, `PRAT/*L KW-BG`
-* Which `WEU`
+* which `WEU`
 * is `S`
 * spoken `SPOEPB`
 * freely `TPRAOEL`
 * from `TPR`
 * heart. `HART TP-PL`
-* Among `PHOPBG`
+* Among `KPA/PHOPBG`
 * them `THEPL`
 * beautiful `PWAOUFL`
 * little `HREUL`
@@ -99,8 +102,9 @@
 * too `TAO`
 * sensible `SEPBS/-BL`
 * people. `PAOEPL TP-PL`
+* Her `KPA/HER`
 * groom `TKPWRAOPL`
-* Chambers, `KHAEURPLS KW-BG`
+* Chambers, `KPA/KHAEURPLS KW-BG`
 * high `HAOEU`
 * office `OFS`
 * court, `KORT KW-BG`
@@ -112,12 +116,13 @@
 * child `KHAOEULD`
 * court," `KORT KW-BG KR-GS`
 * said; `SAEUD STPH*FPLT`
+* now `TPHOU`
 * might `PHAOEUT`
 * just `SKWRUFT`
 * have `SR`
 * cellar, `SEL/AR KW-BG`
 * no `TPHO`
-* One `WUPB`
+* one `WUPB`
 * can `K`
 * help `HEP`
 * birth; `PW*EURT STPH*FPLT`
@@ -130,6 +135,7 @@
 * rise `RAOEUZ`
 * in `TPH`
 * world. `WORLD TP-PL`
+* It `KPA/T`
 * use `AOUS`
 * read `RAED`
 * be `-B`
@@ -138,7 +144,7 @@
 * never `TPHEF`
 * achieve `A/KHAOEF`
 * anything. `TPHEUG TP-PL`
-* "And `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * those `THOZ`
 * whose `WHOZ`
 * names `TPHAEUPLS`
@@ -149,7 +155,7 @@
 * "can `KR-GS K`
 * anything `TPHEUG`
 * all. `AUL TP-PL`
-* we `WE`
+* We `KPA/WE`
 * must `PHUFT`
 * put `PUT`
 * our `OUR`
@@ -162,6 +168,7 @@
 * keep `KAOEP`
 * 'sen' `AE SEPB AE`
 * distance." `STKAPBS TP-PL KR-GS`
+* And `AFPBD`
 * stuck `STUBG`
 * out `OUT`
 * pretty `PREUT`
@@ -174,6 +181,7 @@
 * pretty, `PREUT KW-BG`
 * sweet-looking `SWAOET H-PB HRAOG`
 * child. `KHAOEULD TP-PL`
+* But `KPA/PWUT`
 * daughter `TKAUR`
 * became `PWAEUPL`
 * angry `APBG/REU`
@@ -186,7 +194,7 @@
 * therefore `TH-FR`
 * proudly `PROUD/HREU`
 * could, `KO KW-BG`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * my `PHEU`
 * papa `PA/PA`
 * buy `PWAOEU`
@@ -197,10 +205,11 @@
 * give `TKPWEUF`
 * away `A/WAEU`
 * children. `KHEURPB TP-PL`
+* Can `KPA/K`
 * your `KWROUR`
 * do `TKO`
 * that?" `THA H-F KR-GS`
-* "Yes; `KR-GS KWRE STPH*FPLT`
+* "Yes; `KR-GS KPA/KWRE STPH*FPLT`
 * papa," `PA/PA KW-BG KR-GS`
 * editor `OERTD`
 * paper, `PAEUP KW-BG`
@@ -236,6 +245,7 @@
 * through `THRU`
 * crack `KRABG`
 * door. `TKAOR TP-PL`
+* He `KPA/HE`
 * such `SUFP`
 * lowly `HROE/HREU`
 * station `STAEUGS`
@@ -259,7 +269,7 @@
 * time `TAOEUPL`
 * within; `W-PB STPH*FPLT`
 * deal. `TKAOEL TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * I `EU`
 * them," `THEPL KW-BG KR-GS`
 * thought `THAUT`
@@ -298,19 +308,21 @@
 * happened `HAPD`
 * on `OPB`
 * evening. `AOEPBG TP-PL`
-* Many `PHAEPB`
+* Many `KPA/PHAEPB`
 * years `KWRAOERS`
 * passed, `PAFD KW-BG`
 * most `PHOFT`
 * grown-up `TKPWR*UP`
 * persons. `PERPBZ TP-PL`
+* There `KPA/THR`
 * splendid `SPHREPBD/EUD`
 * town, `TOUPB KW-BG`
 * filled `TPEULD`
+* all `AUL`
 * kinds `KEUPBDZ`
 * valuable `SRABL`
 * objects. `OBS TP-PL`
-* Everybody `EFB`
+* Everybody `KPA/EFB`
 * wished `WEURBD`
 * see `SAOE`
 * it, `T KW-BG`
@@ -321,15 +333,18 @@
 * view `SRAOU`
 * treasures `TR-RBS`
 * contained. `TAEUPBD TP-PL`
+* Which `KPA/WEU`
 * prattle `PRAT/*L`
+* we `WE`
 * described, `KREUFD KW-BG`
 * call `KAUL`
 * own? `OEPB H-F`
+* One `KPA/WUPB`
 * would `WO`
 * suppose `SPOS`
 * easy `EZ`
 * guess. `TKPWES TP-PL`
-* No, `TPHO KW-BG`
+* No, `KPA/TPHO KW-BG`
 * no; `TPHO STPH*FPLT`
 * easy. `EZ TP-PL`
 * belonged `PWHROPBGD`

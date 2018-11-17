@@ -2,7 +2,7 @@
 
 * A `KPA/AEU`
 * young `KWRUPBG`
-* Man `PHAPB`
+* Man `KPA/PHAPB`
 * had `H`
 * been `PW-PB`
 * caught `KAUT`
@@ -19,24 +19,25 @@
 * executed `SKAOUTD`
 * for `TPOR`
 * it. `T TP-PL`
-* he `HE`
+* He `KPA/HE`
 * expressed `EBGS/PREFD`
 * his `HEUS`
 * desire `STKAOEUR`
 * see `SAOE`
-* Mother, `PHOER KW-BG`
+* Mother, `KPA/PHOER KW-BG`
 * speak `SPAOEBG`
 * with `W`
 * her `HER`
 * before `PW-F`
+* he `HE`
 * was `WAS`
 * led `HRED`
 * execution, `SKAOUGS KW-BG`
 * course `KORS`
 * this `TH`
 * granted. `TKPWRAPBTD TP-PL`
-* when `WHEPB`
-* Mother `PHOER`
+* When `KPA/WHEPB`
+* Mother `KPA/PHOER`
 * came `KAEUPL`
 * him `HEUPL`
 * said: `SAEUD STPH-FPLT`
@@ -44,6 +45,7 @@
 * want `WAPBT`
 * whisper `WEUS/PER`
 * you," `U KW-BG KR-GS`
+* when `WHEPB`
 * she `SHE`
 * brought `PWRAUT`
 * ear `AOER`
@@ -51,9 +53,9 @@
 * him, `HEUPL KW-BG`
 * nearly `TPHAOERL`
 * bit `PWEUT`
-* It `T`
+* it `T`
 * off. `OF TP-PL`
-* All `AUL`
+* All `KPA/AUL`
 * the `-T`
 * bystanders `PWEU/STAPB/ERS`
 * were `WR`
@@ -67,12 +69,12 @@
 * brutal `PWRAOULT`
 * inhuman `EUPB/HAOUPL`
 * conduct. `KUBGT TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * is `S`
 * punish `P-RB`
 * her," `HER KW-BG KR-GS`
 * said. `SAEUD TP-PL`
-* "When `KR-GS WHEPB`
+* "When `KR-GS KPA/WHEPB`
 * I `EU`
 * began `TKPWAPB`
 * stealing `STAELG`
@@ -80,8 +82,8 @@
 * things, `THEUPBGS KW-BG`
 * them `THEPL`
 * home `HOEPL`
-* Mother. `PHOER TP-PL`
-* Instead `STPHED`
+* Mother. `KPA/PHOER TP-PL`
+* Instead `KPA/STPHED`
 * rebuking `RE/PWAOUBG/-G`
 * punishing `P-RBG`
 * me, `PHE KW-BG`
@@ -89,20 +91,21 @@
 * will `HR`
 * not `TPHOT`
 * noticed." `TPH-TSD TP-PL KR-GS`
+* It `KPA/T`
 * because `PWAU`
 * that `THA`
 * am `APL`
 * here `HAOER`
 * to-day." `TO H-PB TKAEU TP-PL KR-GS`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * right, `RAOEUT KW-BG`
 * woman," `WOPL KW-BG KR-GS`
 * said `SAEUD`
-* Priest; `PRAOEFT STPH*FPLT`
+* Priest; `KPA/PRAOEFT STPH*FPLT`
 * "the `KR-GS -T`
-* Lord `HRORD`
+* Lord `HRO*RD`
 * hath `HA*T`
-* "Train `KR-GS TRAEUPB`
+* "Train `KR-GS KPA/TRAEUPB`
 * up `UP`
 * child `KHAOEULD`
 * way `WAEU`

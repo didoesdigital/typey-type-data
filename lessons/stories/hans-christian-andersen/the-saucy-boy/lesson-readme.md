@@ -1,10 +1,10 @@
 # The Saucy Boy
 
-* once `WUPBS`
+* Once `KPA/WUPBS`
 * upon `POPB`
 * a `AEU`
 * time `TAOEUPL`
-* There `THR`
+* there `THR`
 * was `WAS`
 * an `APB`
 * old `OLD`
@@ -15,6 +15,7 @@
 * right `RAOEUT`
 * good `TKPWAOD`
 * poets. `POETS TP-PL`
+* One `KPA/WUPB`
 * evening, `AOEPBG KW-BG`
 * as `AZ`
 * he `HE`
@@ -26,7 +27,7 @@
 * going `TKPW-G`
 * on `OPB`
 * outside; `OUDZ STPH*FPLT`
-* The `-T`
+* the `-T`
 * rain `RAEUPB`
 * pouring `PORG`
 * down, `TKOUPB KW-BG`
@@ -44,7 +45,7 @@
 * apples `APLS`
 * were `WR`
 * roasting. `ROEFT/-G TP-PL`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * will `HR`
 * not `TPHOT`
 * be `-B`
@@ -59,7 +60,7 @@
 * this `TH`
 * weather," `WHR* KW-BG KR-GS`
 * said. `SAEUD TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * open `OEP`
 * door! `TKAOR SKHRAPL`
 * I `EU`
@@ -72,7 +73,7 @@
 * little `HREUL`
 * child `KHAOEULD`
 * outside. `OUDZ TP-PL`
-* it `T`
+* It `KPA/T`
 * crying `KRAOEUG`
 * knocking `TPHOBG/-G`
 * door, `TKAOR KW-BG`
@@ -82,14 +83,14 @@
 * rattling `RAT/-LG`
 * all `AUL`
 * windows. `WO*EUPBDZ TP-PL`
-* "Poor `KR-GS PAOR`
+* "Poor `KR-GS KPA/PAOR`
 * creature!" `KRAOEFP SKHRAPL KR-GS`
 * said `SAEUD`
 * got `TKPWOT`
 * up `UP`
 * opened `OEPD`
 * door. `TKAOR TP-PL`
-* Before `PW-F`
+* Before `KPA/PW-F`
 * him `HEUPL`
 * stood `STAOD`
 * boy; `PWOEU STPH*FPLT`
@@ -100,6 +101,7 @@
 * long `HROPBG`
 * fair `TPAEUR`
 * locks. `HROBGZ TP-PL`
+* He `KPA/HE`
 * shivering `SH*EUFR/-G`
 * with `W`
 * cold; `KOELD STPH*FPLT`
@@ -117,23 +119,26 @@
 * took `TAOBG`
 * by `PWEU`
 * hand. `HAPBD TP-PL`
-* "Come `KR-GS KOPL`
+* "Come `KR-GS KPA/KOPL`
 * to `TO`
 * me; `PHE STPH*FPLT`
 * soon `SAOPB`
 * warm `WARPL`
 * you. `U TP-PL`
-* you `U`
+* You `KPA/U`
 * shall `SHAL`
 * some `SOPL`
 * wine `WAOEUPB`
 * apple, `A*EPL KW-BG`
 * for `TPOR`
+* you `U`
 * such `SUFP`
 * pretty `PREUT`
 * boy." `PWOEU TP-PL KR-GS`
+* And `AFPBD`
 * was, `WAS KW-BG`
 * too. `TAO TP-PL`
+* His `KPA/HEUS`
 * eyes `AO*EUS`
 * sparkled `SPAR/K-LD`
 * like `HRAOEUBG`
@@ -153,10 +158,12 @@
 * cold, `KOELD KW-BG`
 * trembling `TREPL/-BLG`
 * over. `OEFR TP-PL`
+* In `KPA/TPH`
 * hand `HAPBD`
 * held `HELD`
 * splendid `SPHREPBD/EUD`
 * bow, `PWOE KW-BG`
+* it `T`
 * entirely `SPWAOEURL`
 * spoilt `xxx spoilt`
 * rain, `RAEUPB KW-BG`
@@ -167,6 +174,7 @@
 * another `TPHOER`
 * getting `TKPWEGT`
 * wet. `WET TP-PL`
+* The `KPA/-T`
 * man `PHAPB`
 * fire, `TPAOEUR KW-BG`
 * taking `TAEUG`
@@ -194,38 +202,39 @@
 * danced `TKAPBS/-D`
 * around `ARPBD`
 * man. `PHAPB TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * merry `PHER/REU`
 * boy," `PWOEU KW-BG KR-GS`
 * latter. `HRAERT TP-PL`
-* "what `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * is `S`
 * your `KWROUR`
 * name?" `TPHAEUPL H-F KR-GS`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * name `TPHAEUPL`
-* Cupid," `KAOUPD KW-BG KR-GS`
+* Cupid," `KPA/KAOUPD KW-BG KR-GS`
 * answered. `AEPBS/-D TP-PL`
 * "Don't `KR-GS TKO*PB AE T*`
 * know `TPHOE`
 * me? `PHE H-F`
+* There `KPA/THR`
 * lies `HRAO*EUS`
 * my `PHEU`
 * bow. `PWOE TP-PL`
 * shoot `SHAOT`
 * that, `THA KW-BG`
 * know. `TPHOE TP-PL`
-* Look, `HRAOBG KW-BG`
+* Look, `KPA/HRAOBG KW-BG`
 * weather `WHR*`
 * fine `TPAOEUPB`
 * again—the `TKPWEPB EPL/TKA*RB -T`
 * moon `PHAOPB`
 * shining." `SHAOEUPBG TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * bow `PWOE`
 * spoilt," `xxx spoilt KW-BG KR-GS`
 * poet. `POET TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * unfortunate," `TPHORPBT KW-BG KR-GS`
 * boy, `PWOEU KW-BG`
 * looking `HRAOG`
@@ -239,16 +248,16 @@
 * I'll `AOEUL`
 * try `TREU`
 * it." `T TP-PL KR-GS`
-* So, `SO KW-BG`
+* So, `KPA/SO KW-BG`
 * drawing `TKRAUG`
 * back, `PWABG KW-BG`
 * arrow, `AR/OE KW-BG`
 * aimed, `AEUPLD KW-BG`
 * shot `SHOT`
 * heart. `HART TP-PL`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * see `SAOE`
-* Now `TPHOU`
+* now `TPHOU`
 * spoilt?" `xxx spoilt H-F KR-GS`
 * said, `SAEUD KW-BG`
 * and, `SKP KW-BG`
@@ -256,7 +265,7 @@
 * laughing, `HRAFG KW-BG`
 * ran `RAPB`
 * away. `A/WAEU TP-PL`
-* what `WHA`
+* What `KPA/WHA`
 * naughty `TPHAU/TEU`
 * taken `TAEPB`
 * room, `RAOPL KW-BG`
@@ -268,9 +277,10 @@
 * lay `HRAEU`
 * crying; `KRAOEUG STPH*FPLT`
 * really `R-L`
-* "Oh!" `KR-GS O*E SKHRAPL KR-GS`
+* "Oh!" `KR-GS KPA/O*E SKHRAPL KR-GS`
 * cried, `KRAOEUD KW-BG`
-* Cupid `KAOUPD`
+* "what `KR-GS WHA`
+* Cupid `KPA/KAOUPD`
 * is! `S SKHRAPL`
 * tell `TEL`
 * children `KHEURPB`
@@ -293,13 +303,13 @@
 * guard `TKPWARD`
 * against `TKPWEPBS`
 * wicked `WEUBGD`
-* Cupid; `KAOUPD STPH*FPLT`
+* Cupid; `KPA/KAOUPD STPH*FPLT`
 * deceives `TKAOE/SAOEFS`
 * them `THEPL`
 * same, `SAEUPL KW-BG`
 * very `SRE`
 * deep. `TKAOEP TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * students `STAOUPBDZ`
 * come `KOPL`
 * class, `KHRAS KW-BG`
@@ -311,6 +321,7 @@
 * wearing `WAURG`
 * black `PWHRABG`
 * coat. `KOET TP-PL`
+* They `KPA/THE`
 * cannot `K/TPHOT`
 * recognise `REZ/A*U`
 * him. `HEUPL TP-PL`
@@ -321,6 +332,7 @@
 * sticks `STEUBGS`
 * arrow `AR/OE`
 * chest. `KHEFT TP-PL`
+* when `WHEPB`
 * go `TKPW`
 * church `KHUFRPB`
 * confirmed, `K-FRPL/-D KW-BG`
@@ -342,18 +354,20 @@
 * castle `KAFL`
 * garden `TKPWA*RPB`
 * promenades. `PROPL/TPHAUDZ TP-PL`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
+* once `WUPBS`
 * father `TPAER`
 * mother `PHOER`
 * heart `HART`
-* Just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * ask `SK`
 * them, `THEPL KW-BG`
 * hear `HAER`
+* what `WHA`
 * say. `SAEU TP-PL`
-* Oh! `O*E SKHRAPL`
+* Oh! `KPA/O*E SKHRAPL`
 * bad `PWAD`
-* Cupid, `KAOUPD KW-BG`
+* Cupid, `KPA/KAOUPD KW-BG`
 * must `PHUFT`
 * anything `TPHEUG`
 * do `TKO`
@@ -368,4 +382,5 @@
 * healed, `HAELD KW-BG`
 * things `THEUPBGS`
 * forgotten. `TPORGTD TP-PL`
+* Now `KPA/TPHOU`
 * is. `S TP-PL`

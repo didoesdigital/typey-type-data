@@ -4,66 +4,66 @@
 * man! `PHAPB SKHRAPL`
 * man. `PHAPB TP-PL`
 * man? `PHAPB H-F`
-* as `AZ`
+* As `KPA/AZ`
 * if. `TP TP-PL`
-* at `AT`
+* At `KPA/AT`
 * me! `PHE SKHRAPL`
 * me. `PHE TP-PL`
-* by `PWEU`
+* By `KPA/PWEU`
 * me? `PHE H-F`
-* do `TKO`
+* Do `KPA/TKO`
 * it! `T SKHRAPL`
 * it? `T H-F`
 * so. `SO TP-PL`
 * we? `WE H-F`
-* he `HE`
+* He `KPA/HE`
 * he! `HE SKHRAPL`
 * is! `S SKHRAPL`
 * is. `S TP-PL`
-* He-he! `HE H-PB HE SKHRAPL`
-* in `TPH`
+* He-he! `KPA/HE H-PB HE SKHRAPL`
+* In `KPA/TPH`
 * a… `AEU SKWR*RBGS`
-* is `S`
+* Is `KPA/S`
 * he? `HE H-F`
-* it `T`
+* It `KPA/T`
 * do. `TKO TP-PL`
 * is? `S H-F`
-* of `-F`
+* Of `KPA/-F`
 * us? `US H-F`
-* on `OPB`
-* or `OR`
+* On `KPA/OPB`
+* Or `KPA/OR`
 * no. `TPHO TP-PL`
-* see `SAOE`
+* See `KPA/SAOE`
 * A. `KPA/AEU TP-PL`
-* so `SO`
+* So `KPA/SO`
 * on. `OPB TP-PL`
-* to `TO`
+* To `KPA/TO`
 * us! `US SKHRAPL`
-* we `WE`
+* We `KPA/WE`
 * do! `TKO SKHRAPL`
-* all `AUL`
+* All `KPA/AUL`
 * in! `TPH SKHRAPL`
-* and `SKP`
+* And `AFPBD`
 * we! `WE SKHRAPL`
-* be `-B`
+* Be `KPA/-B`
 * one! `WUPB SKHRAPL`
-* but `PWUT`
+* But `KPA/PWUT`
 * no! `TPHO SKHRAPL`
 * so! `SO SKHRAPL`
 * we. `WE TP-PL`
 * all. `AUL TP-PL`
 * him? `HEUPL H-F`
 * you? `U H-F`
-* can `K`
-* did `TK`
+* Can `KPA/K`
+* Did `KPA/TK`
 * not! `TPHOT SKHRAPL`
 * not. `TPHOT TP-PL`
 * we?' `WE H-F AE`
-* do, `TKO KW-BG`
-* For `TPOR`
+* Do, `KPA/TKO KW-BG`
+* For `KPA/TPOR`
 * us. `US TP-PL`
-* had `H`
-* has `HAS`
+* Had `KPA/H`
+* Has `KPA/HAS`
 * can. `K TP-PL`
 * did. `TK TP-PL`
 * had. `H TP-PL`
@@ -75,8 +75,8 @@
 * was! `WAS SKHRAPL`
 * was. `WAS TP-PL`
 * was? `WAS H-F`
-* he, `HE KW-BG`
-* if `TP`
+* He, `KPA/HE KW-BG`
+* If `KPA/TP`
 * not? `TPHOT H-F`
 * he?' `HE H-F AE`
 * it!' `T SKHRAPL AE`
@@ -87,25 +87,26 @@
 * may `PHAE`
 * be! `-B SKHRAPL`
 * be. `-B TP-PL`
-* me `PHE`
-* no `TPHO`
+* Me `KPA/PHE`
+* No `KPA/TPHO`
 * one. `WUPB TP-PL`
-* no, `TPHO KW-BG`
+* No, `KPA/TPHO KW-BG`
 * no? `TPHO H-F`
-* no--no! `TPHO H-PB H-PB TPHO SKHRAPL`
-* No--no. `TPHO H-PB H-PB TPHO TP-PL`
-* No-one. `TPHO H-PB WUPB TP-PL`
-* No; `TPHO STPH*FPLT`
-* not `TPHOT`
+* No--no! `KPA/TPHO H-PB H-PB TPHO SKHRAPL`
+* No--no. `KPA/TPHO H-PB H-PB TPHO TP-PL`
+* No-one. `KPA/TPHO H-PB WUPB TP-PL`
+* No; `KPA/TPHO STPH*FPLT`
+* Not `KPA/TPHOT`
 * he. `HE TP-PL`
 * it. `T TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * up! `UP SKHRAPL`
 * you. `U TP-PL`
 * him. `HEUPL TP-PL`
 * now. `TPHOU TP-PL`
-* she `SHE`
-* so, `SO KW-BG`
+* Me! `KPA/PHE SKHRAPL`
+* She `KPA/SHE`
+* So, `KPA/SO KW-BG`
 * all? `AUL H-F`
 * do?' `TKO H-F AE`
 * her! `HER SKHRAPL`
@@ -115,49 +116,50 @@
 * us!' `US SKHRAPL AE`
 * who? `WHO H-F`
 * you! `U SKHRAPL`
-* up `UP`
+* Up `KPA/UP`
 * now! `TPHOU SKHRAPL`
-* up, `UP KW-BG`
-* was `WAS`
+* Up, `KPA/UP KW-BG`
+* Up! `KPA/UP SKHRAPL`
+* Was `KPA/WAS`
 * are. `R TP-PL`
 * may. `PHAE TP-PL`
 * two. `TWO TP-PL`
-* We, `WE KW-BG`
-* who `WHO`
-* you `U`
+* We, `KPA/WE KW-BG`
+* Who `KPA/WHO`
+* You `KPA/U`
 * do? `TKO H-F`
 * "A `KR-GS KPA/AEU`
 * man!" `PHAPB SKHRAPL KR-GS`
 * man." `PHAPB TP-PL KR-GS`
 * two." `TWO TP-PL KR-GS`
-* "At `KR-GS AT`
+* "At `KR-GS KPA/AT`
 * me?" `PHE H-F KR-GS`
-* "Be `KR-GS -B`
+* "Be `KR-GS KPA/-B`
 * so." `SO TP-PL KR-GS`
-* "By `KR-GS PWEU`
+* "By `KR-GS KPA/PWEU`
 * me!" `PHE SKHRAPL KR-GS`
 * me." `PHE TP-PL KR-GS`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * we?" `WE H-F KR-GS`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * is." `S TP-PL KR-GS`
-* "He-he!" `KR-GS HE H-PB HE SKHRAPL KR-GS`
-* "Is `KR-GS S`
+* "He-he!" `KR-GS KPA/HE H-PB HE SKHRAPL KR-GS`
+* "Is `KR-GS KPA/S`
 * he?" `HE H-F KR-GS`
 * it?" `T H-F KR-GS`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * is!" `S SKHRAPL KR-GS`
 * is?" `S H-F KR-GS`
-* "Me-in." `KR-GS PHE H-PB TPH TP-PL KR-GS`
-* "Of `KR-GS -F`
-* "To `KR-GS TO`
-* "We `KR-GS WE`
+* "Me-in." `KR-GS KPA/PHE H-PB TPH TP-PL KR-GS`
+* "Of `KR-GS KPA/-F`
+* "To `KR-GS KPA/TO`
+* "We `KR-GS KPA/WE`
 * do!" `TKO SKHRAPL KR-GS`
 * do." `TKO TP-PL KR-GS`
-* 'No, `AE TPHO KW-BG`
-* 'No-no!' `AE TPHO H-PB TPHO SKHRAPL AE`
-* --Is `H-PB H-PB S`
-* --It `H-PB H-PB T`
+* 'No, `AE KPA/TPHO KW-BG`
+* 'No-no!' `AE KPA/TPHO H-PB TPHO SKHRAPL AE`
+* --Is `H-PB H-PB KPA/S`
+* --It `H-PB H-PB KPA/T`
 * what?' `WHA H-F AE`
 * woman! `WOPL SKHRAPL`
 * woman. `WOPL TP-PL`
@@ -168,7 +170,7 @@
 * me?' `PHE H-F AE`
 * now? `TPHOU H-F`
 * see! `SAOE SKHRAPL`
-* are `R`
+* Are `KPA/R`
 * from. `TPR TP-PL`
 * good! `TKPWAOD SKHRAPL`
 * good? `TKPWAOD H-F`
@@ -178,26 +180,26 @@
 * he… `HE SKWR*RBGS`
 * no!' `TPHO SKHRAPL AE`
 * she! `SHE SKHRAPL`
-* But, `PWUT KW-BG`
+* But, `KPA/PWUT KW-BG`
 * them. `THEPL TP-PL`
 * now.' `TPHOU TP-PL AE`
 * they? `THE H-F`
 * you?' `U H-F AE`
 * your. `KWROUR TP-PL`
-* down `TKOUPB`
+* Down `KPA/TKOUPB`
 * to. `TO TP-PL`
 * him! `HEUPL SKHRAPL`
 * men. `PHEPB TP-PL`
-* from `TPR`
-* good-by! `TKPWAOD H-PB PWEU SKHRAPL`
-* Good-by. `TKPWAOD H-PB PWEU TP-PL`
+* From `KPA/TPR`
+* Good-by! `KPA/TKPWAOD H-PB PWEU SKHRAPL`
+* Good-by. `KPA/TKPWAOD H-PB PWEU TP-PL`
 * did.' `TK TP-PL AE`
 * has?' `HAS H-F AE`
 * must. `PHUFT TP-PL`
 * said. `SAEUD TP-PL`
 * will. `HR TP-PL`
 * and. `SKP TP-PL`
-* his `HEUS`
+* His `KPA/HEUS`
 * time? `TAOEUPL H-F`
 * it--? `T H-PB H-PB H-F`
 * she?' `SHE H-F AE`
@@ -207,12 +209,12 @@
 * must! `PHUFT SKHRAPL`
 * was… `WAS SKWR*RBGS`
 * was.' `WAS TP-PL AE`
-* know `TPHOE`
-* like `HRAOEUBG`
+* Know `KPA/TPHOE`
+* Like `KPA/HRAOEUBG`
 * be!' `-B SKHRAPL AE`
-* me, `PHE KW-BG`
-* must `PHUFT`
-* my `PHEU`
+* Me, `KPA/PHE KW-BG`
+* Must `KPA/PHUFT`
+* My `KPA/PHEU`
 * will! `HR SKHRAPL`
 * will? `HR H-F`
 * good. `TKPWAOD TP-PL`
@@ -222,12 +224,12 @@
 * no.' `TPHO TP-PL AE`
 * her. `HER TP-PL`
 * she. `SHE TP-PL`
-* time. `TAOEUPL TP-PL`
+* Time. `KPA/TAOEUPL TP-PL`
 * them? `THEPL H-F`
 * this! `TH SKHRAPL`
 * hers. `HERS TP-PL`
-* Over-me! `OEFR H-PB PHE SKHRAPL`
-* his. `HEUS TP-PL`
+* Over-me! `KPA/OEFR H-PB PHE SKHRAPL`
+* His. `KPA/HEUS TP-PL`
 * did! `TK SKHRAPL`
 * did? `TK H-F`
 * a `AEU`
@@ -235,111 +237,111 @@
 * then! `THEPB SKHRAPL`
 * they. `THE TP-PL`
 * so!' `SO SKHRAPL AE`
-* some `SOPL`
-* such `SUFP`
+* Some `KPA/SOPL`
+* Such `KPA/SUFP`
 * as? `AZ H-F`
-* that `THA`
+* That `KPA/THA`
 * so? `SO H-F`
-* the `-T`
-* they `THE`
-* This `TH`
+* The `KPA/-T`
+* They `KPA/THE`
+* This `KPA/TH`
 * him.] `HEUPL TP-PL PWR*BGT`
-* two `TWO`
+* Two `KPA/TWO`
 * up!' `UP SKHRAPL AE`
-* upon `POPB`
+* Upon `KPA/POPB`
 * have! `SR SKHRAPL`
 * have. `SR TP-PL`
-* what `WHA`
+* What `KPA/WHA`
 * at? `AT H-F`
 * of? `-F H-F`
-* who, `WHO KW-BG`
-* Who--me? `WHO H-PB H-PB PHE H-F`
-* will `HR`
-* with `W`
+* Who, `KPA/WHO KW-BG`
+* Who--me? `KPA/WHO H-PB H-PB PHE H-F`
+* Will `W*EUL`
+* With `KPA/W`
 * are! `R SKHRAPL`
 * can? `K H-F`
 * see? `SAOE H-F`
 * two? `TWO H-F`
-* your `KWROUR`
+* Your `KPA/KWROUR`
 * if? `TP H-F`
-* 'Is `AE S`
-* 'It `AE T`
-* 'Not `AE TPHOT`
-* 'Was `AE WAS`
+* 'Is `AE KPA/S`
+* 'It `AE KPA/T`
+* 'Not `AE KPA/TPHOT`
+* 'Was `AE KPA/WAS`
 * "'A `KR-GS AE KPA/AEU`
 * was." `WAS TP-PL KR-GS`
 * what?" `WHA H-F KR-GS`
-* "And `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * no." `TPHO TP-PL KR-GS`
 * so?" `SO H-F KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * you?" `U H-F KR-GS`
-* "Did `KR-GS TK`
+* "Did `KR-GS KPA/TK`
 * not." `TPHOT TP-PL KR-GS`
-* "Do, `KR-GS TKO KW-BG`
-* "For `KR-GS TPOR`
-* it." `T TP-PL KR-GS`
-* "Has `KR-GS HAS`
+* "Do, `KR-GS KPA/TKO KW-BG`
+* "For `KR-GS KPA/TPOR`
+* It." `KPA/T TP-PL KR-GS`
+* "Has `KR-GS KPA/HAS`
 * can!" `K SKHRAPL KR-GS`
 * did." `TK TP-PL KR-GS`
 * has." `HAS TP-PL KR-GS`
 * has?" `HAS H-F KR-GS`
 * may." `PHAE TP-PL KR-GS`
 * was?" `WAS H-F KR-GS`
-* "He, `KR-GS HE KW-BG`
+* "He, `KR-GS KPA/HE KW-BG`
 * he!" `HE SKHRAPL KR-GS`
-* "In `KR-GS TPH`
+* "In `KR-GS KPA/TPH`
 * she?" `SHE H-F KR-GS`
 * was!" `WAS SKHRAPL KR-GS`
 * "May `KR-GS PHAE`
 * be!" `-B SKHRAPL KR-GS`
-* "Me--no!" `KR-GS PHE H-PB H-PB TPHO SKHRAPL KR-GS`
-* "No `KR-GS TPHO`
+* "Me--no!" `KR-GS KPA/PHE H-PB H-PB TPHO SKHRAPL KR-GS`
+* "No `KR-GS KPA/TPHO`
 * one!" `WUPB SKHRAPL KR-GS`
 * one." `WUPB TP-PL KR-GS`
 * one?" `WUPB H-F KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * no!" `TPHO SKHRAPL KR-GS`
-* "No--no!" `KR-GS TPHO H-PB H-PB TPHO SKHRAPL KR-GS`
-* "Not `KR-GS TPHOT`
+* "No--no!" `KR-GS KPA/TPHO H-PB H-PB TPHO SKHRAPL KR-GS`
+* "Not `KR-GS KPA/TPHOT`
 * so!" `SO SKHRAPL KR-GS`
 * you!" `U SKHRAPL KR-GS`
-* "On, `KR-GS OPB KW-BG`
+* "On, `KR-GS KPA/OPB KW-BG`
 * on!" `OPB SKHRAPL KR-GS`
-* "One `KR-GS WUPB`
+* "One `KR-GS KPA/WUPB`
 * up." `UP TP-PL KR-GS`
-* "Or `KR-GS OR`
+* "Or `KR-GS KPA/OR`
 * who?" `WHO H-F KR-GS`
-* "She `KR-GS SHE`
-* "So `KR-GS SO`
+* "She `KR-GS KPA/SHE`
+* "So `KR-GS KPA/SO`
 * now!" `TPHOU SKHRAPL KR-GS`
-* "So, `KR-GS SO KW-BG`
-* "Up `KR-GS UP`
+* "So, `KR-GS KPA/SO KW-BG`
+* "Up `KR-GS KPA/UP`
 * men!" `PHEPB SKHRAPL KR-GS`
-* "Was `KR-GS WAS`
+* "Was `KR-GS KPA/WAS`
 * are." `R TP-PL KR-GS`
 * see." `SAOE TP-PL KR-GS`
-* "Who `KR-GS WHO`
+* "Who `KR-GS KPA/WHO`
 * by?" `PWEU H-F KR-GS`
 * to?" `TO H-F KR-GS`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * do?" `TKO H-F KR-GS`
-* 'No `AE TPHO`
+* 'No `AE KPA/TPHO`
 * one.' `WUPB TP-PL AE`
-* (To `PREPB TO`
-* Men.) `PHEPB TP-PL PR*EPB`
+* (To `PREPB KPA/TO`
+* Men.) `KPA/PHEPB TP-PL PR*EPB`
 * her.) `HER TP-PL PR*EPB`
 * him.) `HEUPL TP-PL PR*EPB`
-* --Not `H-PB H-PB TPHOT`
-* --Was `H-PB H-PB WAS`
-* --Who `H-PB H-PB WHO`
+* --Not `H-PB H-PB KPA/TPHOT`
+* --Was `H-PB H-PB KPA/WAS`
+* --Who `H-PB H-PB KPA/WHO`
 * little. `HREUL TP-PL`
 * woman?' `WOPL H-F AE`
-* about `PW`
+* About `KPA/PW`
 * over! `OEFR SKHRAPL`
 * over. `OEFR TP-PL`
 * this? `TH H-F`
-* all, `AUL KW-BG`
+* All, `KPA/AUL KW-BG`
 * then? `THEPB H-F`
 * they! `THE SKHRAPL`
 * this. `TH TP-PL`
@@ -349,31 +351,36 @@
 * much.] `PHUFP TP-PL PWR*BGT`
 * this.' `TH TP-PL AE`
 * first. `TPEUFRT TP-PL`
+* it `T`
 * she… `SHE SKWR*RBGS`
 * what! `WHA SKHRAPL`
 * on!' `OPB SKHRAPL AE`
 * one?' `WUPB H-F AE`
-* could `KO`
+* Could `KPA/KO`
 * he... `HE TP-PL TP-PL TP-PL`
 * they?' `THE H-F AE`
-* good `TKPWAOD`
+* we `WE`
+* Good `KPA/TKPWAOD`
+* Man. `KPA/PHAPB TP-PL`
 * for? `TPOR H-F`
-* have `SR`
+* Have `KPA/SR`
+* is `S`
 * said… `SAEUD SKWR*RBGS`
 * said!' `SAEUD SKHRAPL AE`
 * there! `THR SKHRAPL`
 * would. `WO TP-PL`
 * would? `WO H-F`
-* He-he-he! `HE H-PB HE H-PB HE SKHRAPL`
-* Which? `WEU H-F`
-* Into `TPHAO`
+* He-he-he! `KPA/HE H-PB HE H-PB HE SKHRAPL`
+* he `HE`
+* which? `WEU H-F`
+* Into `KPA/TPHAO`
 * the. `-T TP-PL`
 * it--?' `T H-PB H-PB H-F AE`
 * she--? `SHE H-PB H-PB H-F`
 * there? `THR H-F`
-* man, `PHAPB KW-BG`
-* miss `PHEUS`
-* more `PHOR`
+* Man, `KPA/PHAPB KW-BG`
+* Miss `KPA/PHEUS`
+* More `KPA/PHOR`
 * - `H-PB`
 * no… `TPHO SKWR*RBGS`
 * more.' `PHOR TP-PL AE`
@@ -387,35 +394,38 @@
 * then. `THEPB TP-PL`
 * very. `SRE TP-PL`
 * who?' `WHO H-F AE`
-* now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * much?' `PHUFP H-F AE`
 * that.] `THA TP-PL PWR*BGT`
 * will.] `HR TP-PL PWR*BGT`
-* on, `OPB KW-BG`
-* one `WUPB`
+* On, `KPA/OPB KW-BG`
+* One `KPA/WUPB`
 * only. `OEPBL TP-PL`
-* one, `WUPB KW-BG`
+* One, `KPA/WUPB KW-BG`
 * two! `TWO SKHRAPL`
-* only `OEPBL`
+* Only `KPA/OEPBL`
 * this… `TH SKWR*RBGS`
-* Out, `OUT KW-BG`
+* Out, `KPA/OUT KW-BG`
 * out! `OUT SKHRAPL`
-* said `SAEUD`
+* Said `KPA/SAEUD`
 * her!' `HER SKHRAPL AE`
-* see, `SAOE KW-BG`
+* See, `KPA/SAOE KW-BG`
+* be `-B`
+* do `TKO`
 * good!' `TKPWAOD SKHRAPL AE`
 * one? `WUPB H-F`
 * is… `S SKWR*RBGS`
 * man!' `PHAPB SKHRAPL AE`
 * see.] `SAOE TP-PL PWR*BGT`
 * two.] `TWO TP-PL PWR*BGT`
-* there `THR`
-* They--no! `THE H-PB H-PB TPHO SKHRAPL`
-* time `TAOEUPL`
+* There `KPA/THR`
+* They--no! `KPA/THE H-PB H-PB TPHO SKHRAPL`
+* Time `KPA/TAOEUPL`
+* to `TO`
 * have.' `SR TP-PL AE`
 * for. `TPOR TP-PL`
 * of?' `-F H-F AE`
-* What, `WHA KW-BG`
+* What, `KPA/WHA KW-BG`
 * said? `SAEUD H-F`
 * are.' `R TP-PL AE`
 * are?' `R H-F AE`
@@ -430,43 +440,43 @@
 * see!' `SAOE SKHRAPL AE`
 * see?' `SAOE H-F AE`
 * were. `WR TP-PL`
-* You, `U KW-BG`
-* [To `PWR-BGT TO`
+* You, `KPA/U KW-BG`
+* [To `PWR-BGT KPA/TO`
 * woman!" `WOPL SKHRAPL KR-GS`
 * woman." `WOPL TP-PL KR-GS`
 * woman?" `WOPL H-F KR-GS`
 * "A--a--a!" `KR-GS KPA/AEU H-PB H-PB AEU H-PB H-PB AEU SKHRAPL KR-GS`
-* "All `KR-GS AUL`
+* "All `KR-GS KPA/AUL`
 * out!" `OUT SKHRAPL KR-GS`
 * out?" `OUT H-F KR-GS`
 * now?" `TPHOU H-F KR-GS`
 * two?" `TWO H-F KR-GS`
-* "Are `KR-GS R`
-* "As `KR-GS AZ`
+* "Are `KR-GS KPA/R`
+* "As `KR-GS KPA/AZ`
 * them!" `THEPL SKHRAPL KR-GS`
 * good!" `TKPWAOD SKHRAPL KR-GS`
 * now." `TPHOU TP-PL KR-GS`
 * see!" `SAOE SKHRAPL KR-GS`
-* "But, `KR-GS PWUT KW-BG`
+* "But, `KR-GS KPA/PWUT KW-BG`
 * this?" `TH H-F KR-GS`
-* "Can `KR-GS K`
+* "Can `KR-GS KPA/K`
 * they?" `THE H-F KR-GS`
 * him!" `HEUPL SKHRAPL KR-GS`
-* "From `KR-GS TPR`
-* "Good `KR-GS TKPWAOD`
+* "From `KR-GS KPA/TPR`
+* "Good `KR-GS KPA/TKPWAOD`
 * by!" `PWEU SKHRAPL KR-GS`
-* "Good-by!" `KR-GS TKPWAOD H-PB PWEU SKHRAPL KR-GS`
-* "Good-by." `KR-GS TKPWAOD H-PB PWEU TP-PL KR-GS`
+* "Good-by!" `KR-GS KPA/TKPWAOD H-PB PWEU SKHRAPL KR-GS`
+* "Good-by." `KR-GS KPA/TKPWAOD H-PB PWEU TP-PL KR-GS`
 * must!" `PHUFT SKHRAPL KR-GS`
 * must." `PHUFT TP-PL KR-GS`
 * will?" `HR H-F KR-GS`
-* "If `KR-GS TP`
-* "Know `KR-GS TPHOE`
+* "If `KR-GS KPA/TP`
+* "Know `KR-GS KPA/TPHOE`
 * it!" `T SKHRAPL KR-GS`
-* "Like `KR-GS HRAOEUBG`
-* "More `KR-GS PHOR`
-* "Must `KR-GS PHUFT`
-* "My `KR-GS PHEU`
+* "Like `KR-GS KPA/HRAOEUBG`
+* "More `KR-GS KPA/PHOR`
+* "Must `KR-GS KPA/PHUFT`
+* "My `KR-GS KPA/PHEU`
 * what!" `WHA SKHRAPL KR-GS`
 * good." `TKPWAOD TP-PL KR-GS`
 * more." `PHOR TP-PL KR-GS`
@@ -475,178 +485,198 @@
 * him." `HEUPL TP-PL KR-GS`
 * his?" `HEUS H-F KR-GS`
 * she!" `SHE SKHRAPL KR-GS`
-* "On `KR-GS OPB`
+* "On `KR-GS KPA/OPB`
 * that?" `THA H-F KR-GS`
-* "Only `KR-GS OEPBL`
+* "Only `KR-GS KPA/OEPBL`
 * did!" `TK SKHRAPL KR-GS`
 * has!" `HAS SKHRAPL KR-GS`
 * much!" `PHUFP SKHRAPL KR-GS`
 * much?" `PHUFP H-F KR-GS`
-* "That `KR-GS THA`
-* "The `KR-GS -T`
+* "That `KR-GS KPA/THA`
+* "The `KR-GS KPA/-T`
 * will!" `HR SKHRAPL KR-GS`
 * will." `HR TP-PL KR-GS`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * at?" `AT H-F KR-GS`
 * in?" `TPH H-F KR-GS`
 * of?" `-F H-F KR-GS`
 * on?" `OPB H-F KR-GS`
-* "Will `KR-GS HR`
-* "With `KR-GS W`
+* "Will `KR-GS W*EUL`
+* "With `KR-GS KPA/W`
 * are!" `R SKHRAPL KR-GS`
 * see?" `SAOE H-F KR-GS`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * may.' `PHAE TP-PL AE`
 * them.) `THEPL TP-PL PR*EPB`
-* --"In `H-PB H-PB KR-GS TPH`
+* --"In `H-PB H-PB KR-GS KPA/TPH`
 * May? `PHAE H-F`
-* --Are `H-PB H-PB R`
-* --Can `H-PB H-PB K`
-* --Did `H-PB H-PB TK`
-* --From `H-PB H-PB TPR`
-* --Of `H-PB H-PB -F`
-* --That `H-PB H-PB THA`
-* --You `H-PB H-PB U`
-* .You `TP-PL U`
-* after `AF`
+* --Are `H-PB H-PB KPA/R`
+* --Can `H-PB H-PB KPA/K`
+* --Did `H-PB H-PB KPA/TK`
+* --From `H-PB H-PB KPA/TPR`
+* --Of `H-PB H-PB KPA/-F`
+* --That `H-PB H-PB KPA/THA`
+* --You `H-PB H-PB KPA/U`
+* .You `TP-PL KPA/U`
+* After `KPA/AF`
+* of `-F`
 * after? `AF H-F`
 * good?' `TKPWAOD H-F AE`
+* so `SO`
 * that?' `THA H-F AE`
 * then… `THEPB SKWR*RBGS`
 * these? `THEZ H-F`
 * they.] `THE TP-PL PWR*BGT`
-* And, `SKP KW-BG`
-* any `TPHEU`
+* And, `AFPBD KW-BG`
+* Any `KPA/TPHEU`
 * such!' `SUFP SKHRAPL AE`
 * before? `PW-F H-F`
-* before `PW-F`
+* Before `KPA/PW-F`
 * after. `AF TP-PL`
 * there. `THR TP-PL`
 * these. `THEZ TP-PL`
 * what?. `WHA H-F TP-PL`
 * when?' `WHEPB H-F AE`
+* and `SKP`
 * by. `PWEU TP-PL`
+* the `-T`
 * by! `PWEU SKHRAPL`
-* By-and-by! `PWEU H-PB SKP H-PB PWEU SKHRAPL`
+* By-and-by! `KPA/PWEU H-PB SKP H-PB PWEU SKHRAPL`
 * be? `-B H-F`
 * me?... `PHE H-F TP-PL TP-PL TP-PL`
-* good, `TKPWAOD KW-BG`
+* Good, `KPA/TKPWAOD KW-BG`
+* did `TK`
+* has `HAS`
 * said... `SAEUD TP-PL TP-PL TP-PL`
+* was `WAS`
 * would!' `WO SKHRAPL AE`
 * would.' `WO TP-PL AE`
-* her `HER`
+* Her `KPA/HER`
 * ...? `TP-PL TP-PL TP-PL H-F`
 * so?' `SO H-F AE`
+* she `SHE`
 * up? `UP H-F`
 * there?' `THR H-F AE`
+* his. `HEUS TP-PL`
 * so.' `SO TP-PL AE`
 * them! `THEPL SKHRAPL`
 * him!' `HEUPL SKHRAPL AE`
-* much `PHUFP`
-* No--what?' `TPHO H-PB H-PB WHA H-F AE`
+* Much `KPA/PHUFP`
+* one `WUPB`
+* No--what?' `KPA/TPHO H-PB H-PB WHA H-F AE`
 * more!' `PHOR SKHRAPL AE`
 * !' `SKHRAPL AE`
 * very.' `SRE TP-PL AE`
 * then!' `THEPB SKHRAPL AE`
-* Our `OUR`
-* over `OEFR`
+* if `TP`
+* Our `KPA/OUR`
+* Over `KPA/OEFR`
 * will.' `HR TP-PL AE`
 * will?' `HR H-F AE`
-* Should `SHO`
-* So-and-so! `SO H-PB SKP H-PB SO SKHRAPL`
-* Then `THEPB`
+* Should `KPA/SHO`
+* are `R`
+* So-and-so! `KPA/SO H-PB SKP H-PB SO SKHRAPL`
+* Then `KPA/THEPB`
 * is.] `S TP-PL PWR*BGT`
-* There--so. `THR H-PB H-PB SO TP-PL`
-* these `THEZ`
+* There--so. `KPA/THR H-PB H-PB SO TP-PL`
+* These `KPA/THEZ`
 * men! `PHEPB SKHRAPL`
 * are!' `R SKHRAPL AE`
 * man?' `PHAPB H-F AE`
-* this, `TH KW-BG`
-* very `SRE`
+* This, `KPA/TH KW-BG`
+* no `TPHO`
+* see `SAOE`
+* Very `KPA/SRE`
 * like! `HRAOEUBG SKHRAPL`
+* all `AUL`
+* had `H`
 * should. `SHO TP-PL`
-* were `WR`
+* Were `KPA/WR`
+* Time? `KPA/TAOEUPL H-F`
 * for?' `TPOR H-F AE`
 * from? `TPR H-F`
 * now?' `TPHOU H-F AE`
-* when `WHEPB`
-* which `WEU`
+* time. `TAOEUPL TP-PL`
+* When `KPA/WHEPB`
+* Which `KPA/WEU`
 * could? `KO H-F`
-* Who--What? `WHO H-PB H-PB WHA H-F`
-* would `WO`
+* Who--What? `KPA/WHO H-PB H-PB KPA/WHA H-F`
+* Would `KPA/WO`
 * have!' `SR SKHRAPL AE`
 * know!' `TPHOE SKHRAPL AE`
 * would! `WO SKHRAPL`
 * now… `TPHOU SKWR*RBGS`
-* You--him!' `U H-PB H-PB HEUPL SKHRAPL AE`
-* ["She `PWR-BGT KR-GS SHE`
+* You--him!' `KPA/U H-PB H-PB HEUPL SKHRAPL AE`
+* ["She `PWR-BGT KR-GS KPA/SHE`
 * who. `WHO TP-PL`
-* 'Are `AE R`
-* 'Can `AE K`
-* 'Do `AE TKO`
-* 'Know `AE TPHOE`
-* 'Now `AE TPHOU`
-* 'There `AE THR`
-* 'They `AE THE`
-* 'We `AE WE`
-* ".And `KR-GS TP-PL SKP`
+* 'Are `AE KPA/R`
+* 'Can `AE KPA/K`
+* 'Do `AE KPA/TKO`
+* 'Know `AE KPA/TPHOE`
+* 'Now `AE KPA/TPHOU`
+* 'There `AE KPA/THR`
+* 'They `AE KPA/THE`
+* 'We `AE KPA/WE`
+* ".And `KR-GS TP-PL AFPBD`
 * little." `HREUL TP-PL KR-GS`
 * little?" `HREUL H-F KR-GS`
-* "About `KR-GS PW`
-* "After `KR-GS AF`
+* "About `KR-GS KPA/PW`
+* "After `KR-GS KPA/AF`
 * us!" `US SKHRAPL KR-GS`
 * over!" `OEFR SKHRAPL KR-GS`
 * over?" `OEFR H-F KR-GS`
-* "All, `KR-GS AUL KW-BG`
+* "All, `KR-GS KPA/AUL KW-BG`
 * she?… `SHE H-F SKWR*RBGS`
 * then." `THEPB TP-PL KR-GS`
 * then?" `THEPB H-F KR-GS`
 * this." `TH TP-PL KR-GS`
 * when?" `WHEPB H-F KR-GS`
-* "Any `KR-GS TPHEU`
-* "Been `KR-GS PW-PB`
-* "Could `KR-GS KO`
+* "Any `KR-GS KPA/TPHEU`
+* "Been `KR-GS KPA/PW-PB`
+* "Could `KR-GS KPA/KO`
 * you." `U TP-PL KR-GS`
-* "Have `KR-GS SR`
+* "Have `KR-GS KPA/SR`
 * would." `WO TP-PL KR-GS`
-* "He-he-he!" `KR-GS HE H-PB HE H-PB HE SKHRAPL KR-GS`
-* "Her, `KR-GS HER KW-BG`
+* "He-he-he!" `KR-GS KPA/HE H-PB HE H-PB HE SKHRAPL KR-GS`
+* "Her, `KR-GS KPA/HER KW-BG`
 * her!" `HER SKHRAPL KR-GS`
-* "Him--who?" `KR-GS HEUPL H-PB H-PB WHO H-F KR-GS`
-* "His `KR-GS HEUS`
+* "Him--who?" `KR-GS KPA/HEUPL H-PB H-PB WHO H-F KR-GS`
+* "His `KR-GS KPA/HEUS`
 * us?" `US H-F KR-GS`
 * there?" `THR H-F KR-GS`
-* "Man, `KR-GS PHAPB KW-BG`
-* "No-no-no!" `KR-GS TPHO H-PB TPHO H-PB TPHO SKHRAPL KR-GS`
+* "Man, `KR-GS KPA/PHAPB KW-BG`
+* "No-no-no!" `KR-GS KPA/TPHO H-PB TPHO H-PB TPHO SKHRAPL KR-GS`
 * more!" `PHOR SKHRAPL KR-GS`
 * much." `PHUFP TP-PL KR-GS`
 * that!" `THA SKHRAPL KR-GS`
 * that." `THA TP-PL KR-GS`
 * very." `SRE TP-PL KR-GS`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * then!" `THEPB SKHRAPL KR-GS`
-* "Now, `KR-GS TPHOU KW-BG`
+* "Now, `KR-GS KPA/TPHOU KW-BG`
 * what?… `WHA H-F SKWR*RBGS`
 * women!" `WEUPL SKHRAPL KR-GS`
 * only." `OEPBL TP-PL KR-GS`
 * only?" `OEPBL H-F KR-GS`
-* "Out, `KR-GS OUT KW-BG`
-* "See `KR-GS SAOE`
-* "See, `KR-GS SAOE KW-BG`
+* in `TPH`
+* "Out, `KR-GS KPA/OUT KW-BG`
+* "See `KR-GS KPA/SAOE`
+* "See, `KR-GS KPA/SAOE KW-BG`
+* it." `T TP-PL KR-GS`
 * there!" `THR SKHRAPL KR-GS`
-* "Some `KR-GS SOPL`
+* "Some `KR-GS KPA/SOPL`
 * all?" `AUL H-F KR-GS`
-* "There `KR-GS THR`
-* "They `KR-GS THE`
-* "This `KR-GS TH`
+* "There `KR-GS KPA/THR`
+* "They `KR-GS KPA/THE`
+* "This `KR-GS KPA/TH`
 * man?" `PHAPB H-F KR-GS`
-* "Two, `KR-GS TWO KW-BG`
+* "Two, `KR-GS KPA/TWO KW-BG`
 * two!" `TWO SKHRAPL KR-GS`
-* "Were `KR-GS WR`
+* "Were `KR-GS KPA/WR`
 * for?" `TPOR H-F KR-GS`
-* "What, `KR-GS WHA KW-BG`
+* "What, `KR-GS KPA/WHA KW-BG`
 * with?" `W H-F KR-GS`
-* "Who, `KR-GS WHO KW-BG`
+* "Who, `KR-GS KPA/WHO KW-BG`
 * not?" `TPHOT H-F KR-GS`
 * her?" `HER H-F KR-GS`
 * him?" `HEUPL H-F KR-GS`
@@ -654,31 +684,45 @@
 * have?" `SR H-F KR-GS`
 * know!" `TPHOE SKHRAPL KR-GS`
 * know." `TPHOE TP-PL KR-GS`
-* "You, `KR-GS U KW-BG`
-* 'Very `AE SRE`
-* 'Will `AE HR`
+* "You, `KR-GS KPA/U KW-BG`
+* 'Very `AE KPA/SRE`
+* 'Will `AE W*EUL`
 * -- `H-PB H-PB`
 * me.) `PHE TP-PL PR*EPB`
-* --"And `H-PB H-PB KR-GS SKP`
-* --Has `H-PB H-PB HAS`
+* --"And `H-PB H-PB KR-GS AFPBD`
+* --Has `H-PB H-PB KPA/HAS`
 * been? `PW-PB H-F`
-* --Will `H-PB H-PB HR`
+* --Will `H-PB H-PB W*EUL`
 * : `STPH-FPLT`
+* good `TKPWAOD`
 * us?' `US H-F AE`
 * after?' `AF H-F AE`
+* me `PHE`
 * is--! `S H-PB H-PB SKHRAPL`
+* you `U`
+* no, `TPHO KW-BG`
+* not `TPHOT`
 * then--? `THEPB H-PB H-PB H-F`
-* But--what?' `PWUT H-PB H-PB WHA H-F AE`
-* by-and-by.' `PWEU H-PB SKP H-PB PWEU TP-PL AE`
-* down, `TKOUPB KW-BG`
+* But--what?' `KPA/PWUT H-PB H-PB WHA H-F AE`
+* By-and-by.' `KPA/PWEU H-PB SKP H-PB PWEU TP-PL AE`
+* like `HRAOEUBG`
+* with `W`
+* Down, `KPA/TKOUPB KW-BG`
 * down! `TKOUPB SKHRAPL`
+* me, `PHE KW-BG`
 * women?' `WEUPL H-F AE`
-* Good--good! `TKPWAOD H-PB H-PB TKPWAOD SKHRAPL`
+* Good--good! `KPA/TKPWAOD H-PB H-PB TKPWAOD SKHRAPL`
 * been!' `PW-PB SKHRAPL AE`
+* must `PHUFT`
+* said `SAEUD`
 * should!' `SHO SKHRAPL AE`
 * a--. `AEU H-PB H-PB TP-PL`
+* he, `HE KW-BG`
+* my `PHEU`
 * not?' `TPHOT H-F AE`
 * over? `OEFR H-F`
+* that `THA`
+* this `TH`
 * ###… `HA*ERB HA*ERB HA*ERB SKWR*RBGS`
 * down. `TKOUPB TP-PL`
 * made. `PHAED TP-PL`
@@ -686,26 +730,35 @@
 * she!' `SHE SKHRAPL AE`
 * is, `S KW-BG`
 * be.' `-B TP-PL AE`
-* men `PHEPB`
-* more, `PHOR KW-BG`
-* must, `PHUFT KW-BG`
+* She! `KPA/SHE SKHRAPL`
+* will `HR`
+* Men `KPA/PHEPB`
+* at `AT`
+* More, `KPA/PHOR KW-BG`
+* More! `KPA/PHOR SKHRAPL`
+* Must, `KPA/PHUFT KW-BG`
 * now.... `TPHOU TP-PL TP-PL TP-PL TP-PL`
-* No--no--no! `TPHO H-PB H-PB TPHO H-PB H-PB TPHO SKHRAPL`
+* No--no--no! `KPA/TPHO H-PB H-PB TPHO H-PB H-PB TPHO SKHRAPL`
+* for `TPOR`
 * there!' `THR SKHRAPL AE`
 * you--no. `U H-PB H-PB TPHO TP-PL`
 * us.' `US TP-PL AE`
-* or, `OR KW-BG`
-* out `OUT`
+* or `OR`
+* Or, `KPA/OR KW-BG`
+* Out `KPA/OUT`
+* on `OPB`
 * would… `WO SKWR*RBGS`
+* can `K`
+* have `SR`
 * other. `OER TP-PL`
 * women. `WEUPL TP-PL`
-* Great.' `TKPWRAET TP-PL AE`
+* Great.' `KPA/TKPWRAET TP-PL AE`
 * other… `OER SKWR*RBGS`
 * other.] `OER TP-PL PWR*BGT`
 * other?' `OER H-F AE`
-* then, `THEPB KW-BG`
+* Then, `KPA/THEPB KW-BG`
 * now!' `TPHOU SKHRAPL AE`
-* there, `THR KW-BG`
+* There, `KPA/THR KW-BG`
 * must.' `PHUFT TP-PL AE`
 * time!' `TAOEUPL SKHRAPL AE`
 * it, `T KW-BG`
@@ -714,207 +767,249 @@
 * much!' `PHUFP SKHRAPL AE`
 * his? `HEUS H-F`
 * it----? `T H-PB H-PB H-PB H-PB H-F`
+* were `WR`
 * about? `PW H-F`
 * more?' `PHOR H-F AE`
 * other? `OER H-F`
 * then?' `THEPB H-F AE`
 * upon?' `POPB H-F AE`
 * with?' `W H-F AE`
-* When, `WHEPB KW-BG`
+* When, `KPA/WHEPB KW-BG`
 * you--? `U H-PB H-PB H-F`
 * them.] `THEPL TP-PL PWR*BGT`
 * women! `WEUPL SKHRAPL`
 * see?... `SAOE H-F TP-PL TP-PL TP-PL`
 * would?' `WO H-F AE`
 * time.' `TAOEUPL TP-PL AE`
-* 'Have `AE SR`
+* 'Have `AE KPA/SR`
 * know?' `TPHOE H-F AE`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * which?" `WEU H-F KR-GS`
 * one--?" `WUPB H-PB H-PB H-F KR-GS`
 * before?" `PW-F H-F KR-GS`
 * miss!" `PHEUS SKHRAPL KR-GS`
 * by." `PWEU TP-PL KR-GS`
 * be?" `-B H-F KR-GS`
-* "Great `KR-GS TKPWRAET`
+* "Great `KR-GS KPA/TKPWRAET`
 * she--?" `SHE H-PB H-PB H-F KR-GS`
 * out." `OUT TP-PL KR-GS`
 * he----?" `HE H-PB H-PB H-PB H-PB H-F KR-GS`
+* Man." `KPA/PHAPB TP-PL KR-GS`
 * all." `AUL TP-PL KR-GS`
 * his." `HEUS TP-PL KR-GS`
 * them?" `THEPL H-F KR-GS`
-* "Much `KR-GS PHUFP`
-* "Other `KR-GS OER`
-* "Out `KR-GS OUT`
+* "Much `KR-GS KPA/PHUFP`
+* by `PWEU`
+* "Other `KR-GS KPA/OER`
+* "Out `KR-GS KPA/OUT`
 * there." `THR TP-PL KR-GS`
-* "Should `KR-GS SHO`
+* "Should `KR-GS KPA/SHO`
 * is--?" `S H-PB H-PB H-F KR-GS`
 * first?" `TPEUFRT H-F KR-GS`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * were." `WR TP-PL KR-GS`
-* "Upon `KR-GS POPB`
-* "Very `KR-GS SRE`
+* "Upon `KR-GS KPA/POPB`
+* "Very `KR-GS KPA/SRE`
 * good?" `TKPWAOD H-F KR-GS`
 * time?" `TAOEUPL H-F KR-GS`
-* "When `KR-GS WHEPB`
-* "Which `KR-GS WEU`
+* "When `KR-GS KPA/WHEPB`
+* "Which `KR-GS KPA/WEU`
 * are?" `R H-F KR-GS`
 * some." `SOPL TP-PL KR-GS`
-* "Would `KR-GS WO`
+* "Would `KR-GS KPA/WO`
 * could?" `KO H-F KR-GS`
 * first!" `TPEUFRT SKHRAPL KR-GS`
 * would?" `WO H-F KR-GS`
 * miss." `PHEUS TP-PL KR-GS`
-* "You--what!" `KR-GS U H-PB H-PB WHA SKHRAPL KR-GS`
-* "Your `KR-GS KWROUR`
-* 'Good, `AE TKPWAOD KW-BG`
-* 'Only `AE OEPBL`
-* (He `PREPB HE`
+* "You--what!" `KR-GS KPA/U H-PB H-PB WHA SKHRAPL KR-GS`
+* "Your `KR-GS KPA/KWROUR`
+* 'Good, `AE KPA/TKPWAOD KW-BG`
+* 'Only `AE KPA/OEPBL`
+* (He `PREPB KPA/HE`
 * was.) `WAS TP-PL PR*EPB`
-* --Very `H-PB H-PB SRE`
+* --Very `H-PB H-PB KPA/SRE`
 * great `TKPWRAET`
+* what `WHA`
 * to? `TO H-F`
+* who `WHO`
+* they `THE`
 * like. `HRAOEUBG TP-PL`
 * do.' `TKO TP-PL AE`
-* But-to `PWUT H-PB TO`
+* no--no! `TPHO H-PB H-PB TPHO SKHRAPL`
+* But-to `KPA/PWUT H-PB TO`
+* you, `U KW-BG`
 * him `HEUPL`
 * is!' `S SKHRAPL AE`
 * great. `TKPWRAET TP-PL`
-* Him--not `HEUPL H-PB H-PB TPHOT`
+* Him--not `KPA/HEUPL H-PB H-PB TPHOT`
 * is--?' `S H-PB H-PB H-F AE`
 * been. `PW-PB TP-PL`
 * time! `TAOEUPL SKHRAPL`
+* would `WO`
 * good----! `TKPWAOD H-PB H-PB H-PB H-PB SKHRAPL`
-* No: `TPHO STPH-FPLT`
+* No: `KPA/TPHO STPH-FPLT`
 * not!' `TPHOT SKHRAPL AE`
 * all!' `AUL SKHRAPL AE`
 * before.' `PW-F TP-PL AE`
 * you.' `U TP-PL AE`
+* know `TPHOE`
 * her?' `HER H-F AE`
-* other `OER`
+* Other `KPA/OER`
 * will… `HR SKWR*RBGS`
-* Such-a-one?' `SUFP H-PB AEU H-PB WUPB H-F AE`
+* upon `POPB`
+* as `AZ`
+* Such-a-one?' `KPA/SUFP H-PB AEU H-PB WUPB H-F AE`
+* any `TPHEU`
+* her `HER`
 * about?' `PW H-F AE`
 * men!... `PHEPB SKHRAPL TP-PL TP-PL TP-PL`
 * made `PHAED`
-* [As `PWR-BGT AZ`
+* [As `PWR-BGT KPA/AZ`
 * before.] `PW-F TP-PL PWR*BGT`
-* [But `PWR-BGT PWUT`
-* 'So `AE SO`
+* [But `PWR-BGT KPA/PWUT`
+* 'So `AE KPA/SO`
 * ‘Not `TP-P/KPA*/TPHOT`
 * up?" `UP H-F KR-GS`
-* "But--but--!" `KR-GS PWUT H-PB H-PB PWUT H-PB H-PB SKHRAPL KR-GS`
-* "Good, `KR-GS TKPWAOD KW-BG`
+* "But--but--!" `KR-GS KPA/PWUT H-PB H-PB PWUT H-PB H-PB SKHRAPL KR-GS`
+* "Good, `KR-GS KPA/TKPWAOD KW-BG`
 * she." `SHE TP-PL KR-GS`
-* "In, `KR-GS TPH KW-BG`
+* "In, `KR-GS KPA/TPH KW-BG`
 * in, `TPH KW-BG`
 * in!" `TPH SKHRAPL KR-GS`
 * like!" `HRAOEUBG SKHRAPL KR-GS`
 * time!" `TAOEUPL SKHRAPL KR-GS`
 * time." `TAOEUPL TP-PL KR-GS`
 * be." `-B TP-PL KR-GS`
-* "More, `KR-GS PHOR KW-BG`
+* "More, `KR-GS KPA/PHOR KW-BG`
 * before." `PW-F TP-PL KR-GS`
-* "No; `KR-GS TPHO STPH*FPLT`
-* "Such `KR-GS SUFP`
-* "There, `KR-GS THR KW-BG`
+* "No; `KR-GS KPA/TPHO STPH*FPLT`
+* "Such `KR-GS KPA/SUFP`
+* "There, `KR-GS KPA/THR KW-BG`
+* He." `KPA/HE TP-PL KR-GS`
 * he." `HE TP-PL KR-GS`
 * great." `TKPWRAET TP-PL KR-GS`
 * about?" `PW H-F KR-GS`
 * other?" `OER H-F KR-GS`
-* "You--are--?" `KR-GS U H-PB H-PB R H-PB H-PB H-F KR-GS`
+* "You--are--?" `KR-GS KPA/U H-PB H-PB R H-PB H-PB H-F KR-GS`
 * them!' `THEPL SKHRAPL AE`
-* *To `STA*R TO`
-* --And `H-PB H-PB SKP`
-* --Do `H-PB H-PB TKO`
-* --Then `H-PB H-PB THEPB`
+* *To `STA*R KPA/TO`
+* --And `H-PB H-PB AFPBD`
+* --Do `H-PB H-PB KPA/TKO`
+* --Then `H-PB H-PB KPA/THEPB`
 * about! `PW SKHRAPL`
-* --What `H-PB H-PB WHA`
-* --Which `H-PB H-PB WEU`
-* about, `PW KW-BG`
+* --What `H-PB H-PB KPA/WHA`
+* --Which `H-PB H-PB KPA/WEU`
+* About, `KPA/PW KW-BG`
 * men… `PHEPB SKWR*RBGS`
+* after `AF`
+* now `TPHOU`
+* only `OEPBL`
 * women? `WEUPL H-F`
 * these! `THEZ SKHRAPL`
+* his `HEUS`
 * not--! `TPHOT H-PB H-PB SKHRAPL`
-* But-but-but!' `PWUT H-PB PWUT H-PB PWUT SKHRAPL AE`
+* who, `WHO KW-BG`
+* But-but-but!' `KPA/PWUT H-PB PWUT H-PB PWUT SKHRAPL AE`
 * him?' `HEUPL H-F AE`
+* your `KWROUR`
+* some `SOPL`
 * the? `-T H-F`
+* could `KO`
 * should! `SHO SKHRAPL`
 * could! `KO SKHRAPL`
 * like.' `HRAOEUBG TP-PL AE`
 * all?' `AUL H-F AE`
 * little! `HREUL SKHRAPL`
+* should `SHO`
 * some. `SOPL TP-PL`
 * up. `UP TP-PL`
 * woman `WOPL`
 * one!' `WUPB SKHRAPL AE`
-* No-one `TPHO H-PB WUPB`
+* No-one `KPA/TPHO H-PB WUPB`
 * about. `PW TP-PL`
 * man `PHAPB`
 * it.' `T TP-PL AE`
 * see... `SAOE TP-PL TP-PL TP-PL`
+* very `SRE`
 * ... `TP-PL TP-PL TP-PL`
 * he.] `HE TP-PL PWR*BGT`
 * now!... `TPHOU SKHRAPL TP-PL TP-PL TP-PL`
-* There--there! `THR H-PB H-PB THR SKHRAPL`
+* There--there! `KPA/THR H-PB H-PB THR SKHRAPL`
 * out. `OUT TP-PL`
-* are--No. `R H-PB H-PB TPHO TP-PL`
+* are--No. `R H-PB H-PB KPA/TPHO TP-PL`
 * that.' `THA TP-PL AE`
+* much `PHUFP`
 * there.... `THR TP-PL TP-PL TP-PL TP-PL`
 * then?... `THEPB H-F TP-PL TP-PL TP-PL`
 * this?' `TH H-F AE`
-* woman, `WOPL KW-BG`
-* women, `WEUPL KW-BG`
+* Woman, `KPA/WOPL KW-BG`
+* Women, `KPA/WEUPL KW-BG`
 * had! `H SKHRAPL`
 * see.' `SAOE TP-PL AE`
-* 'Who `AE WHO`
+* 'Who `AE KPA/WHO`
 * over." `OEFR TP-PL KR-GS`
-* One----!" `WUPB H-PB H-PB H-PB H-PB SKHRAPL KR-GS`
+* One----!" `KPA/WUPB H-PB H-PB H-PB H-PB SKHRAPL KR-GS`
 * men?" `PHEPB H-F KR-GS`
 * like." `HRAOEUBG TP-PL KR-GS`
-* "Before `KR-GS PW-F`
+* "Before `KR-GS KPA/PW-F`
+* about `PW`
+* so, `SO KW-BG`
 * know?" `TPHOE H-F KR-GS`
-* "He-he-he-he!" `KR-GS HE H-PB HE H-PB HE H-PB HE SKHRAPL KR-GS`
+* "He-he-he-he!" `KR-GS KPA/HE H-PB HE H-PB HE H-PB HE SKHRAPL KR-GS`
 * they!" `THE SKHRAPL KR-GS`
 * about--?" `PW H-PB H-PB H-F KR-GS`
 * them." `THEPL TP-PL KR-GS`
-* "One, `KR-GS WUPB KW-BG`
+* "One, `KR-GS KPA/WUPB KW-BG`
 * two!..." `TWO SKHRAPL TP-PL TP-PL TP-PL KR-GS`
 * it--?" `T H-PB H-PB H-F KR-GS`
 * no-good!" `TPHO H-PB TKPWAOD SKHRAPL KR-GS`
 * like?" `HRAOEUBG H-F KR-GS`
 * it?… `T H-F SKWR*RBGS`
 * was--?" `WAS H-PB H-PB H-F KR-GS`
-* "Who--who `KR-GS WHO H-PB H-PB WHO`
+* "Who--who `KR-GS KPA/WHO H-PB H-PB WHO`
 * not!" `TPHOT SKHRAPL KR-GS`
-* --"Before `H-PB H-PB KR-GS PW-F`
-* --This `H-PB H-PB TH`
-* --Two `H-PB H-PB TWO`
+* --"Before `H-PB H-PB KR-GS KPA/PW-F`
+* --This `H-PB H-PB KPA/TH`
+* --Two `H-PB H-PB KPA/TWO`
+* One. `KPA/WUPB TP-PL`
 * little `HREUL`
 * her--no! `HER H-PB H-PB TPHO SKHRAPL`
 * more… `PHOR SKWR*RBGS`
+* from `TPR`
 * such-like. `SUFP H-PB HRAOEUBG TP-PL`
+* then `THEPB`
+* two `TWO`
+* there `THR`
 * any? `TPHEU H-F`
+* Man? `KPA/PHAPB H-F`
 * us… `US SKWR*RBGS`
 * do!' `TKO SKHRAPL AE`
-* But--but `PWUT H-PB H-PB PWUT`
-* But--what `PWUT H-PB H-PB WHA`
-* But--who `PWUT H-PB H-PB WHO`
+* But--But `KPA/PWUT H-PB H-PB KPA/PWUT`
+* But--but `KPA/PWUT H-PB H-PB PWUT`
+* But--what `KPA/PWUT H-PB H-PB WHA`
+* But--who `KPA/PWUT H-PB H-PB WHO`
 * -? `H-PB H-F`
 * they, `THE KW-BG`
+* Women? `KPA/WEUPL H-F`
 * she--when?' `SHE H-PB H-PB WHEPB H-F AE`
 * was; `WAS STPH*FPLT`
+* Men, `KPA/PHEPB KW-BG`
 * men, `PHEPB KW-BG`
 * than `THAPB`
+* time `TAOEUPL`
+* more `PHOR`
 * you?… `U H-F SKWR*RBGS`
 * know.' `TPHOE TP-PL AE`
 * other.' `OER TP-PL AE`
-* One--only `WUPB H-PB H-PB OEPBL`
+* One--only `KPA/WUPB H-PB H-PB OEPBL`
 * good… `TKPWAOD SKWR*RBGS`
+* She, `KPA/SHE KW-BG`
 * she, `SHE KW-BG`
+* up `UP`
 * them.' `THEPL TP-PL AE`
 * were! `WR SKHRAPL`
 * her.' `HER TP-PL AE`
+* see, `SAOE KW-BG`
 * then.' `THEPB TP-PL AE`
 * there?..." `THR H-F TP-PL TP-PL TP-PL KR-GS`
 * were?" `WR H-F KR-GS`
@@ -922,169 +1017,208 @@
 * in." `TPH TP-PL KR-GS`
 * should!" `SHO SKHRAPL KR-GS`
 * been!" `PW-PB SKHRAPL KR-GS`
+* all, `AUL KW-BG`
+* these `THEZ`
 * said." `SAEUD TP-PL KR-GS`
-* "Women, `KR-GS WEUPL KW-BG`
+* "Women, `KR-GS KPA/WEUPL KW-BG`
 * some?" `SOPL H-F KR-GS`
-* (From `PREPB TPR`
-* *"It `STA*R KR-GS T`
-* --"As `H-PB H-PB KR-GS AZ`
-* --"Not `H-PB H-PB KR-GS TPHOT`
-* --"What `H-PB H-PB KR-GS WHA`
-* All: `AUL STPH-FPLT`
+* (From `PREPB KPA/TPR`
+* Will. `W*EUL TP-PL`
+* *"It `STA*R KR-GS KPA/T`
+* --"As `H-PB H-PB KR-GS KPA/AZ`
+* --"Not `H-PB H-PB KR-GS KPA/TPHOT`
+* --"What `H-PB H-PB KR-GS KPA/WHA`
+* All: `KPA/AUL STPH-FPLT`
+* then, `THEPB KW-BG`
 * such? `SUFP H-F`
+* Men? `KPA/PHEPB H-F`
+* such `SUFP`
 * has, `HAS KW-BG`
+* In, `KPA/TPH KW-BG`
 * in. `TPH TP-PL`
 * up?' `UP H-F AE`
 * hers? `HERS H-F`
+* but `PWUT`
+* over `OEFR`
 * be; `-B STPH*FPLT`
 * women `WEUPL`
-* No--is `TPHO H-PB H-PB S`
+* this, `TH KW-BG`
+* No--is `KPA/TPHO H-PB H-PB S`
+* before `PW-F`
+* now, `TPHOU KW-BG`
 * then; `THEPB STPH*FPLT`
 * him, `HEUPL KW-BG`
+* woman, `WOPL KW-BG`
 * is!... `S SKHRAPL TP-PL TP-PL TP-PL`
-* There--you `THR H-PB H-PB U`
-* First. `TPEURS TP-PL`
+* good-by! `TKPWAOD H-PB PWEU SKHRAPL`
+* There--you `KPA/THR H-PB H-PB U`
+* First. `KPA/TPEURS TP-PL`
 * be?' `-B H-F AE`
 * woman.' `WOPL TP-PL AE`
+* do, `TKO KW-BG`
 * that… `THA SKWR*RBGS`
-* 'Good `AE TKPWAOD`
-* 'There, `AE THR KW-BG`
+* 'Good `AE KPA/TKPWAOD`
+* 'There, `AE KPA/THR KW-BG`
 * is----?" `S H-PB H-PB H-PB H-PB H-F KR-GS`
-* "Down `KR-GS TKOUPB`
+* men `PHEPB`
+* which `WEU`
+* "Down `KR-GS KPA/TKOUPB`
 * by-and-by." `PWEU H-PB SKP H-PB PWEU TP-PL KR-GS`
-* "Good-by, `KR-GS TKPWAOD H-PB PWEU KW-BG`
-* "If--if `KR-GS TP H-PB H-PB TP`
+* "Good-by, `KR-GS KPA/TKPWAOD H-PB PWEU KW-BG`
+* "If--if `KR-GS KPA/TP H-PB H-PB TP`
 * can." `K TP-PL KR-GS`
-* "Men, `KR-GS PHEPB KW-BG`
+* "Men, `KR-GS KPA/PHEPB KW-BG`
 * women?" `WEUPL H-F KR-GS`
 * this!" `TH SKHRAPL KR-GS`
-* "Over `KR-GS OEFR`
+* "Over `KR-GS KPA/OEFR`
 * that, `THA KW-BG`
 * there!'" `THR SKHRAPL AE KR-GS`
 * would!" `WO SKHRAPL KR-GS`
 * have." `SR TP-PL KR-GS`
 * great!" `TKPWRAET SKHRAPL KR-GS`
-* "Time `KR-GS TAOEUPL`
+* "Time `KR-GS KPA/TAOEUPL`
 * great?" `TKPWRAET H-F KR-GS`
 * these?" `THEZ H-F KR-GS`
 * that--!" `THA H-PB H-PB SKHRAPL KR-GS`
 * them `THEPL`
 * some!" `SOPL SKHRAPL KR-GS`
 * what." `WHA TP-PL KR-GS`
-* (Which `PREPB WEU`
+* (Which `PREPB KPA/WEU`
 * did.) `TK TP-PL PR*EPB`
-* And--and--good?' `SKP H-PB H-PB SKP H-PB H-PB TKPWAOD H-F AE`
+* And--and--good?' `AFPBD H-PB H-PB SKP H-PB H-PB TKPWAOD H-F AE`
 * out? `OUT H-F`
-* But--but--but--. `PWUT H-PB H-PB PWUT H-PB H-PB PWUT H-PB H-PB TP-PL`
+* what, `WHA KW-BG`
+* But--but--but--. `KPA/PWUT H-PB H-PB PWUT H-PB H-PB PWUT H-PB H-PB TP-PL`
 * woman… `WOPL SKWR*RBGS`
 * can, `K KW-BG`
-* hers `HERS`
+* Hers `KPA/HERS`
 * very… `SRE SKWR*RBGS`
 * no-no, `TPHO H-PB TPHO KW-BG`
 * so--not `SO H-PB H-PB TPHOT`
 * that--not--? `THA H-PB H-PB TPHOT H-PB H-PB H-F`
-* See--now--that!' `SAOE H-PB H-PB TPHOU H-PB H-PB THA SKHRAPL AE`
+* there, `THR KW-BG`
+* See--now--that!' `KPA/SAOE H-PB H-PB TPHOU H-PB H-PB THA SKHRAPL AE`
 * are, `R KW-BG`
+* other `OER`
 * time, `TAOEUPL KW-BG`
+* Than `KPA/THAPB`
 * some.' `SOPL TP-PL AE`
 * great! `TKPWRAET SKHRAPL`
-* Very, `SRE KW-BG`
+* Very, `KPA/SRE KW-BG`
 * there… `THR SKWR*RBGS`
 * like? `HRAOEUBG H-F`
 * not, `TPHOT KW-BG`
 * that... `THA TP-PL TP-PL TP-PL`
-* 'And `AE SKP`
-* 'In `AE TPH`
+* 'And `AE AFPBD`
+* 'In `AE KPA/TPH`
+* Men?" `KPA/PHEPB H-F KR-GS`
 * miss?" `PHEUS H-F KR-GS`
-* "But--a-- `KR-GS PWUT H-PB H-PB AEU H-PB H-PB`
+* "But--a-- `KR-GS KPA/PWUT H-PB H-PB AEU H-PB H-PB`
 * can--he `K H-PB H-PB HE`
-* "He--of `KR-GS HE H-PB H-PB -F`
-* "No--is `KR-GS TPHO H-PB H-PB S`
+* "He--of `KR-GS KPA/HE H-PB H-PB -F`
+* "No--is `KR-GS KPA/TPHO H-PB H-PB S`
 * not--?" `TPHOT H-PB H-PB H-F KR-GS`
 * for, `TPOR KW-BG`
-* "What--what `KR-GS WHA H-PB H-PB WHA`
+* "What--what `KR-GS KPA/WHA H-PB H-PB WHA`
 * know, `TPHOE KW-BG`
 * will, `HR KW-BG`
-* (This `PREPB TH`
+* (This `PREPB KPA/TH`
 * after--after! `AF H-PB H-PB AF SKHRAPL`
-* By-and-by, `PWEU H-PB SKP H-PB PWEU KW-BG`
+* our `OUR`
+* By-and-by, `KPA/PWEU H-PB SKP H-PB PWEU KW-BG`
+* down, `TKOUPB KW-BG`
 * did, `TK KW-BG`
 * so.] `SO TP-PL PWR*BGT`
 * not*******. `TPHOT STA*R STA*R STA*R STA*R STA*R STA*R STA*R TP-PL`
-* No--you `TPHO H-PB H-PB U`
+* more, `PHOR KW-BG`
+* No--you `KPA/TPHO H-PB H-PB U`
 * she; `SHE STPH*FPLT`
+* up, `UP KW-BG`
 * a--!' `AEU H-PB H-PB SKHRAPL AE`
 * made… `PHAED SKWR*RBGS`
 * is----! `S H-PB H-PB H-PB H-PB SKHRAPL`
 * are... `R TP-PL TP-PL TP-PL`
-* there; `THR STPH*FPLT`
+* There; `KPA/THR STPH*FPLT`
+* must, `PHUFT KW-BG`
 * had? `H H-F`
 * like?' `HRAOEUBG H-F AE`
 * time?' `TAOEUPL H-F AE`
-* 'What--is--this?' `AE WHA H-PB H-PB S H-PB H-PB TH H-F AE`
+* 'What--is--this?' `AE KPA/WHA H-PB H-PB S H-PB H-PB TH H-F AE`
 * then--?" `THEPB H-PB H-PB H-F KR-GS`
-* "Is--is `KR-GS S H-PB H-PB S`
-* "Me, `KR-GS PHE KW-BG`
+* "Is--is `KR-GS KPA/S H-PB H-PB S`
+* "Me, `KR-GS KPA/PHE KW-BG`
+* out `OUT`
 * he?… `HE H-F SKWR*RBGS`
-* "Then, `KR-GS THEPB KW-BG`
+* "Then, `KR-GS KPA/THEPB KW-BG`
 * made?" `PHAED H-F KR-GS`
 * had?" `H H-F KR-GS`
+* one, `WUPB KW-BG`
 * so.'" `SO TP-PL AE KR-GS`
-* '"So `AE KR-GS SO`
-* 'Now, `AE TPHOU KW-BG`
+* '"So `AE KR-GS KPA/SO`
+* 'Now, `AE KPA/TPHOU KW-BG`
+* good, `TKPWAOD KW-BG`
+* man, `PHAPB KW-BG`
 * been.' `PW-PB TP-PL AE`
 * me--?' `PHE H-PB H-PB H-F AE`
-* And--is `SKP H-PB H-PB S`
-* And--only `SKP H-PB H-PB OEPBL`
+* And--is `AFPBD H-PB H-PB S`
+* And--only `AFPBD H-PB H-PB OEPBL`
+* hers `HERS`
 * the… `-T SKWR*RBGS`
 * be, `-B KW-BG`
 * they!' `THE SKHRAPL AE`
 * them?' `THEPL H-F AE`
 * been `PW-PB`
+* Not, `KPA/TPHOT KW-BG`
 * is; `S STPH*FPLT`
+* but, `PWUT KW-BG`
 * their `THAEUR`
+* down `TKOUPB`
 * that!' `THA SKHRAPL AE`
 * on… `OPB SKWR*RBGS`
 * said, `SAEUD KW-BG`
 * this!' `TH SKHRAPL AE`
 * first? `TPEUFRT H-F`
-* Who-who-can `WHO H-PB WHO H-PB K`
+* Who-who-can `KPA/WHO H-PB WHO H-PB K`
 * him.' `HEUPL TP-PL AE`
 * would--no, `WO H-PB H-PB TPHO KW-BG`
-* 'But `AE PWUT`
+* 'But `AE KPA/PWUT`
 * other." `OER TP-PL KR-GS`
-* "Before, `KR-GS PW-F KW-BG`
+* "Before, `KR-GS KPA/PW-F KW-BG`
 * after?" `AF H-F KR-GS`
 * good-by!" `TKPWAOD H-PB PWEU SKHRAPL KR-GS`
 * to." `TO TP-PL KR-GS`
 * man… `PHAPB SKWR*RBGS`
 * may; `PHAE STPH*FPLT`
+* when `WHEPB`
 * did… `TK SKWR*RBGS`
 * may… `PHAE SKWR*RBGS`
 * woman--what?' `WOPL H-PB H-PB WHA H-F AE`
 * may, `PHAE KW-BG`
-* No--the `TPHO H-PB H-PB -T`
-* No--what `TPHO H-PB H-PB WHA`
+* Him `KPA/HEUPL`
+* No--the `KPA/TPHO H-PB H-PB -T`
+* No--what `KPA/TPHO H-PB H-PB WHA`
+* on, `OPB KW-BG`
 * on! `OPB SKHRAPL`
 * it--so `T H-PB H-PB SO`
 * her, `HER KW-BG`
 * first, `TPEUFRT KW-BG`
+* Woman `KPA/WOPL`
 * an `APB`
 * to?' `TO H-F AE`
 * to--? `TO H-PB H-PB H-F`
-* 'Would `AE WO`
-* "Had `KR-GS H`
-* "No--what `KR-GS TPHO H-PB H-PB WHA`
-* "Said `KR-GS SAEUD`
+* 'Would `AE KPA/WO`
+* "Had `KR-GS KPA/H`
+* "No--what `KR-GS KPA/TPHO H-PB H-PB WHA`
+* "Said `KR-GS KPA/SAEUD`
 * this?… `TH H-F SKWR*RBGS`
 * any." `TPHEU TP-PL KR-GS`
 * us `US`
-* "You--all `KR-GS U H-PB H-PB AUL`
+* "You--all `KR-GS KPA/U H-PB H-PB AUL`
 * ; `STPH*FPLT`
 * then---and `THEPB H-PB H-PB H-PB SKP`
 * men?' `PHEPB H-F AE`
 * can.' `K TP-PL AE`
-* First, `TPEURS KW-BG`
+* First, `KPA/TPEURS KW-BG`
 * has? `HAS H-F`
 * what--my `WHA H-PB H-PB PHEU`
 * what--?' `WHA H-PB H-PB H-F AE`
@@ -1095,20 +1229,22 @@
 * now--!" `TPHOU H-PB H-PB SKHRAPL KR-GS`
 * be--?" `-B H-PB H-PB H-F KR-GS`
 * you--from `U H-PB H-PB TPR`
-* "Men `KR-GS PHEPB`
+* "Men `KR-GS KPA/PHEPB`
 * very--a `SRE H-PB H-PB AEU`
 * been." `PW-PB TP-PL KR-GS`
 * it; `T STPH*FPLT`
-* "These `KR-GS THEZ`
+* "These `KR-GS KPA/THEZ`
 * said?" `SAEUD H-F KR-GS`
 * did?" `TK H-F KR-GS`
-* "What--you `KR-GS WHA H-PB H-PB U`
+* "What--you `KR-GS KPA/WHA H-PB H-PB U`
 * , `KW-BG`
+* Made `KPA/PHAED`
 * great… `TKPWRAET SKWR*RBGS`
-* --"She `H-PB H-PB KR-GS SHE`
+* --"She `H-PB H-PB KR-GS KPA/SHE`
 * she--as `SHE H-PB H-PB AZ`
 * are? `R H-F`
 * you--who `U H-PB H-PB WHO`
+* miss `PHEUS`
 * could. `KO TP-PL`
 * women.' `WEUPL TP-PL AE`
 * be--it `-B H-PB H-PB T`
@@ -1121,17 +1257,20 @@
 * much, `PHUFP KW-BG`
 * by?' `PWEU H-F AE`
 * on? `OPB H-F`
-* 'To `AE TO`
-* "'Such `KR-GS AE SUFP`
+* 'To `AE KPA/TO`
+* "'Such `KR-GS AE KPA/SUFP`
 * were'?" `WR AE H-F KR-GS`
-* "By-and-by, `KR-GS PWEU H-PB SKP H-PB PWEU KW-BG`
-* "Than `KR-GS THAPB`
+* "By-and-by, `KR-GS KPA/PWEU H-PB SKP H-PB PWEU KW-BG`
+* "Than `KR-GS KPA/THAPB`
 * could!" `KO SKHRAPL KR-GS`
 * them, `THEPL KW-BG`
 * must... `PHUFT TP-PL TP-PL TP-PL`
 * do?"' `TKO H-F KR-GS AE`
-* good; `TKPWAOD STPH*FPLT`
+* by-and-by.' `PWEU H-PB SKP H-PB PWEU TP-PL AE`
+* Good; `KPA/TKPWAOD STPH*FPLT`
 * him: `HEUPL STPH-FPLT`
+* Which? `KPA/WEU H-F`
+* no; `TPHO STPH*FPLT`
 * know--now. `TPHOE H-PB H-PB TPHOU TP-PL`
 * first `TPEUFRT`
 * was, `WAS KW-BG`
@@ -1139,29 +1278,32 @@
 * can--?" `K H-PB H-PB H-F KR-GS`
 * us." `US TP-PL KR-GS`
 * said!" `SAEUD SKHRAPL KR-GS`
-* '"What `AE KR-GS WHA`
-* --"Will `H-PB H-PB KR-GS HR`
-* --She `H-PB H-PB SHE`
-* .That `TP-PL THA`
+* '"What `AE KR-GS KPA/WHA`
+* --"Will `H-PB H-PB KR-GS W*EUL`
+* --She `H-PB H-PB KPA/SHE`
+* .That `TP-PL KPA/THA`
 * should? `SHO H-F`
 * it--no! `T H-PB H-PB TPHO SKHRAPL`
 * he--he `HE H-PB H-PB HE`
 * only? `OEPBL H-F`
 * women--women! `WEUPL H-PB H-PB WEUPL SKHRAPL`
 * said: `SAEUD STPH-FPLT`
-* "'That `KR-GS AE THA`
+* good; `TKPWAOD STPH*FPLT`
+* "'That `KR-GS AE KPA/THA`
 * little, `HREUL KW-BG`
 * been--?" `PW-PB H-PB H-PB H-F KR-GS`
-* --Now, `H-PB H-PB TPHOU KW-BG`
-* --There `H-PB H-PB THR`
+* --Now, `H-PB H-PB KPA/TPHOU KW-BG`
+* --There `H-PB H-PB KPA/THR`
 * made--what? `PHAED H-PB H-PB WHA H-F`
 * to, `TO KW-BG`
+* women, `WEUPL KW-BG`
 * so----. `SO H-PB H-PB H-PB H-PB TP-PL`
 * you--could `U H-PB H-PB KO`
 * hers! `HERS SKHRAPL`
+* Women `KPA/WEUPL`
 * Mr. `PHR-FPLT`
 * ---. `H-PB H-PB H-PB TP-PL`
-* 'Who, `AE WHO KW-BG`
+* 'Who, `AE KPA/WHO KW-BG`
 * been?" `PW-PB H-F KR-GS`
 * some?..." `SOPL H-F TP-PL TP-PL TP-PL KR-GS`
 * did; `TK STPH*FPLT`
@@ -1178,7 +1320,7 @@
 * he; `HE STPH*FPLT`
 * so; `SO STPH*FPLT`
 * little--not `HREUL H-PB H-PB TPHOT`
-* --We `H-PB H-PB WE`
+* --We `H-PB H-PB KPA/WE`
 * you--what `U H-PB H-PB WHA`
 * there?... `THR H-F TP-PL TP-PL TP-PL`
 * it--over `T H-PB H-PB OEFR`
@@ -1205,24 +1347,27 @@
 * at--?' `AT H-PB H-PB H-F AE`
 * only, `OEPBL KW-BG`
 * then--a `THEPB H-PB H-PB AEU`
-* "There; `KR-GS THR STPH*FPLT`
+* "There; `KR-GS KPA/THR STPH*FPLT`
+* there; `THR STPH*FPLT`
 * all--is `AUL H-PB H-PB S`
 * said--he `SAEUD H-PB H-PB HE`
 * made." `PHAED TP-PL KR-GS`
 * some, `SOPL KW-BG`
 * other, `OER KW-BG`
-* "First `KR-GS TPEURS`
+* "First `KR-GS KPA/TPEURS`
 * see: `SAOE STPH-FPLT`
 * see; `SAOE STPH*FPLT`
 * men: `PHEPB STPH-FPLT`
 * it: `T STPH-FPLT`
+* or, `OR KW-BG`
 * men--women `PHEPB H-PB H-PB WEUPL`
 * women--men? `WEUPL H-PB H-PB PHEPB H-F`
 * that--it `THA H-PB H-PB T`
 * not--what `TPHOT H-PB H-PB WHA`
-* *"You `STA*R KR-GS U`
+* *"You `STA*R KR-GS KPA/U`
 * is--do `S H-PB H-PB TKO`
 * him--if `HEUPL H-PB H-PB TP`
+* about, `PW KW-BG`
 * be--if `-B H-PB H-PB TP`
 * these--they `THEZ H-PB H-PB THE`
 * these." `THEZ TP-PL KR-GS`

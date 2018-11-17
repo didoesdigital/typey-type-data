@@ -1,7 +1,7 @@
 The Tortoise and the Birds
 
 'A': KPA/AEU
-'Tortoise': TOR/TOS
+'Tortoise': KPA/TOR/TOS
 'desired': STKAOEURD
 'to': TO
 'change': KHAEUPBG
@@ -13,7 +13,7 @@ The Tortoise and the Birds
 'he': HE
 'asked': SK-D
 'an': APB
-'Eagle': AOEG/*L
+'Eagle': KPA/AOEG/*L
 'to': TO
 'carry': KAER
 'him': HEUPL
@@ -29,13 +29,13 @@ The Tortoise and the Birds
 'for': TPOR
 'her': HER
 'trouble.': TRUBL TP-PL
-'The': -T
-'Eagle': AOEG/*L
+'The': KPA/-T
+'Eagle': KPA/AOEG/*L
 'agreed': TKPWRAED
 'and': SKP
 'seizing': SAOEZ/-G
 'the': -T
-'Tortoise': TOR/TOS
+'Tortoise': KPA/TOR/TOS
 'by': PWEU
 'the': -T
 'shell': SHEL
@@ -50,27 +50,27 @@ The Tortoise and the Birds
 'they': THE
 'met': PHET
 'a': AEU
-'Crow,': KROE KW-BG
+'Crow,': KPA/KROE KW-BG
 'who': WHO
 'said': SAEUD
 'to': TO
 'the': -T
-'Eagle:': AOEG/*L STPH-FPLT
-'"Tortoise': KR-GS TOR/TOS
+'Eagle:': KPA/AOEG/*L STPH-FPLT
+'"Tortoise': KR-GS KPA/TOR/TOS
 'is': S
 'good': TKPWAOD
 'eating."': AOEGT TP-PL KR-GS
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'shell': SHEL
 'is': S
 'too': TAO
 'hard,"': HARD KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Eagle': AOEG/*L
+'Eagle': KPA/AOEG/*L
 'in': TPH
 'reply.': RE/PHREU TP-PL
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'rocks': ROBGS
 'will': HR
 'soon': SAOPB
@@ -79,18 +79,18 @@ The Tortoise and the Birds
 'shell,"': SHEL KW-BG KR-GS
 'was': WAS
 'the': -T
-'Crow's': KROE AES
+'Crow's': KPA/KROE AES
 'answer;': AEPBS STPH*FPLT
 'and': SKP
 'the': -T
-'Eagle,': AOEG/*L KW-BG
+'Eagle,': KPA/AOEG/*L KW-BG
 'taking': TAEUG
 'the': -T
 'hint,': HEUPBT KW-BG
 'let': HRET
 'fall': TPAUL
 'the': -T
-'Tortoise': TOR/TOS
+'Tortoise': KPA/TOR/TOS
 'on': OPB
 'a': AEU
 'sharp': SHARP
@@ -105,8 +105,8 @@ The Tortoise and the Birds
 'meal': PHAOEL
 'of': -F
 'the': -T
-'Tortoise.': TOR/TOS TP-PL
-'Never': TPHEF
+'Tortoise.': KPA/TOR/TOS TP-PL
+'Never': KPA/TPHEF
 'soar': SAOR
 'aloft': A/HROFT
 'on': OPB

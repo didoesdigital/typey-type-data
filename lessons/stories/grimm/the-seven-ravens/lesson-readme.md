@@ -1,6 +1,6 @@
 # The Seven Ravens
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -15,7 +15,7 @@
 * all `AUL`
 * one `WUPB`
 * daughter. `TKAUR TP-PL`
-* Although `HR*T`
+* Although `KPA/HR*T`
 * the `-T`
 * little `HREUL`
 * girl `TKPWEURL`
@@ -37,6 +37,7 @@
 * at `AT`
 * be `-B`
 * christened. `KREUS/-PBD TP-PL`
+* So `KPA/SO`
 * father `TPAER`
 * sent `SEPBT`
 * his `HEUS`
@@ -53,7 +54,7 @@
 * ran `RAPB`
 * with `W`
 * him. `HEUPL TP-PL`
-* each `AOEFP`
+* Each `KPA/AOEFP`
 * wanted `WAPBTD`
 * first `TPEUFRT`
 * drawing `TKRAUG`
@@ -72,13 +73,14 @@
 * another, `TPHOER KW-BG`
 * did `TK`
 * know `TPHOE`
-* What `WHA`
+* what `WHA`
 * do, `TKO KW-BG`
 * for `TPOR`
 * none `TPHOPB`
 * dared `TKAEURD`
 * go `TKPW`
 * home. `HOEPL TP-PL`
+* In `KPA/TPH`
 * meantime `PHAO*EPB/TAOEUPL`
 * uneasy, `UPB/EZ KW-BG`
 * tell `TEL`
@@ -87,7 +89,7 @@
 * men `PHEPB`
 * stay `STAEU`
 * long. `HROPBG TP-PL`
-* 'Surely,' `AE SHURL KW-BG AE`
+* 'Surely,' `AE KPA/SHURL KW-BG AE`
 * he, `HE KW-BG`
 * 'the `AE -T`
 * whole `WHOEL`
@@ -98,7 +100,7 @@
 * over `OEFR`
 * game `TKPWAEUPL`
 * play'; `PHRAEU AE STPH*FPLT`
-* When `WHEPB`
+* when `WHEPB`
 * he `HE`
 * waited `WAEUTD`
 * still `STEUL`
@@ -111,7 +113,7 @@
 * them `THEPL`
 * turned `TURPBD`
 * ravens. `RA*EUF/-PBS TP-PL`
-* Scarcely `SKAEURS/HREU`
+* Scarcely `KPA/SKAEURS/HREU`
 * spoken `SPOEPB`
 * these `THEZ`
 * words `WORDZ`
@@ -122,13 +124,13 @@
 * up `UP`
 * saw `SAU`
 * ravens `RA*EUF/-PBS`
-* As `AZ`
+* as `AZ`
 * black `PWHRABG`
 * coal `KOEL`
 * flying `TPHRAOEUG`
 * round `ROUPBD`
 * round. `ROUPBD TP-PL`
-* Sorry `SOER`
+* Sorry `KPA/SOER`
 * see `SAOE`
 * wish `WEURB`
 * fulfilled, `TPUL/TPEULD KW-BG`
@@ -148,6 +150,7 @@
 * day `TKAEU`
 * more `PHOR`
 * beautiful. `PWAOUFL TP-PL`
+* For `KPA/TPOR`
 * long `HROPBG`
 * time `TAOEUPL`
 * ever `-FR`
@@ -165,7 +168,7 @@
 * people `PAOEPL`
 * about `PW`
 * them. `THEPL TP-PL`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * they, `THE KW-BG`
 * 'she `AE SHE`
 * is `S`
@@ -177,7 +180,7 @@
 * been `PW-PB`
 * lost `HRO*S`
 * sake.' `SAEUBG TP-PL AE`
-* then `THEPB`
+* Then `KPA/THEPB`
 * much `PHUFP`
 * grieved, `TKPWRAOEF/-D KW-BG`
 * went `WEPBT`
@@ -193,7 +196,7 @@
 * her, `HER KW-BG`
 * it `T`
 * will `HR`
-* Heaven, `HEFPB KW-BG`
+* Heaven, `KPA/HEFPB KW-BG`
 * birth `PW*EURT`
 * only `OEPBL`
 * innocent `TPH-PBT`
@@ -228,6 +231,7 @@
 * whatever `WHAF`
 * cost `KOFT`
 * her. `HER TP-PL`
+* She `KPA/SHE`
 * nothing `TPHOG`
 * ring `REUPBG`
 * which `WEU`
@@ -242,13 +246,14 @@
 * stool `STOL`
 * upon `POPB`
 * weary. `WAOE/REU TP-PL`
-* Thus `THUS`
-* On `OPB`
+* Thus `KPA/THUS`
+* on `OPB`
 * on, `OPB KW-BG`
 * journeyed `SKWRURPB/EUD`
 * came `KAEUPL`
 * world's `WORLD/AES`
 * end; `EPBD STPH*FPLT`
+* then `THEPB`
 * sun, `SUPB KW-BG`
 * sun `SUPB`
 * too `TAO`
@@ -271,24 +276,27 @@
 * stars `STARS`
 * friendly `TPREPBLD`
 * kind `KEUPBD`
+* each `AOEFP`
 * star `STAR`
 * sat `SAT`
 * own `OEPB`
 * stool; `STOL STPH*FPLT`
 * morning `PHORPBG`
-* rose `ROEZ`
+* rose `ROES`
 * gave `TKPWAEUF`
 * piece `PAOES`
 * wood, `WAOD KW-BG`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * you `U`
 * cannot `K/TPHOT`
 * unlock `UPB/HROBG`
 * castle `KAFL`
 * stands `STAPBDZ`
 * glass-mountain, `TKPWHRAS H-PB PHOUPB/TAEUPB KW-BG`
+* there `THR`
 * your `KWROUR`
 * live.' `HREUF TP-PL AE`
+* The `KPA/-T`
 * rolled `ROLD`
 * cloth, `KHRO*T KW-BG`
 * again `TKPWEPB`
@@ -304,6 +312,7 @@
 * gift `TKPWEUFT`
 * good `TKPWAOD`
 * stars. `STARS TP-PL`
+* What `KPA/WHA`
 * done? `TKOPB H-F`
 * save `SAF`
 * key `KAOE`
@@ -322,9 +331,10 @@
 * put `PUT`
 * opened `OEPD`
 * it. `T TP-PL`
+* As `KPA/AZ`
 * in, `TPH KW-BG`
 * dwarf `TKWAFR`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * are `R`
 * seeking `SAOEBG/-G`
 * for?' `TPOR H-F AE`
@@ -333,14 +343,14 @@
 * ravens,' `RA*EUF/-PBS KW-BG AE`
 * answered `AEPBS/-D`
 * she. `SHE TP-PL`
-* 'My `AE PHEU`
+* 'My `AE KPA/PHEU`
 * masters `PHAFT/ERS`
 * home; `HOEPL STPH*FPLT`
 * wait `WAEUT`
 * pray `PRAEU`
 * step `STEP`
 * in.' `TPH TP-PL AE`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * getting `TKPWEGT`
 * dinner `TKEURPB`
 * ready, `R-D KW-BG`
@@ -357,29 +367,32 @@
 * drank `TKRAPBG`
 * drop; `TKROP STPH*FPLT`
 * glass. `TKPWHRAS TP-PL`
+* On `KPA/OPB`
 * sudden `SUD`
 * fluttering `TPHRUT/ERG`
 * air, `AEUR KW-BG`
-* 'Here `AE HAOER`
+* 'Here `AE KPA/HAOER`
 * come `KOPL`
 * masters.' `PHAFT/ERS TP-PL AE`
+* When `KPA/WHEPB`
 * eat `AOET`
 * drink, `TKREU KW-BG`
 * plates `PHRAEUTS`
 * glasses. `TKPWHRAFS TP-PL`
 * after `AF`
 * other, `OER KW-BG`
-* 'Who `AE WHO`
+* 'Who `AE KPA/WHO`
 * has `HAS`
 * eaten `AOET/EPB`
 * plate? `PHRAET H-F`
+* And `AFPBD`
 * drinking `TKREUG`
 * glass?' `TKPWHRAS H-F AE`
-* 'Caw! `AE KAU SKHRAPL`
-* Caw! `KAU SKHRAPL`
+* 'Caw! `AE KPA/KAU SKHRAPL`
+* Caw! `KPA/KAU SKHRAPL`
 * I `EU`
 * ween `WAO*EPB`
-* Mortal `PHOR/TAL`
+* Mortal `KPA/PHOR/TAL`
 * lips `HREUPS`
 * way `WAEU`
 * been.' `PW-PB TP-PL AE`

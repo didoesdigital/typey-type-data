@@ -1,7 +1,7 @@
 # The Trumpeter Taken Prisoner
 
 * A `KPA/AEU`
-* Trumpeter `TRUPLT/*ER`
+* Trumpeter `xxx Trumpeter`
 * during `TKURG`
 * a `AEU`
 * battle `PWA*LT`
@@ -15,7 +15,7 @@
 * captured `KA*FPD`
 * by `PWEU`
 * them. `THEPL TP-PL`
-* They `THE`
+* They `KPA/THE`
 * were `WR`
 * about `PW`
 * to `TO`
@@ -59,7 +59,7 @@
 * you `U`
 * kill `KEUL`
 * me?" `PHE H-F KR-GS`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * may `PHAE`
 * fight `TPAOEUT`
 * yourself," `KWRO*URS KW-BG KR-GS`
@@ -70,6 +70,6 @@
 * your `KWROUR`
 * men `PHEPB`
 * fight." `TPAOEUT TP-PL KR-GS`
-* Words `WORDZ`
+* Words `KPA/WORDZ`
 * be `-B`
 * deeds. `TKAOEDZ TP-PL`

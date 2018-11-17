@@ -6,13 +6,13 @@ The Horse, Hunter, and Stag
 'arisen': A/RAOEUZ/-D
 'between': TWAOEPB
 'the': -T
-'Horse': HORS
+'Horse': KPA/HORS
 'and': SKP
 'the': -T
-'Stag,': STAG KW-BG
+'Stag,': KPA/STAG KW-BG
 'so': SO
 'the': -T
-'Horse': HORS
+'Horse': KPA/HORS
 'came': KAEUPL
 'to': TO
 'a': AEU
@@ -26,19 +26,19 @@ The Horse, Hunter, and Stag
 'revenge': RE/SREPBG
 'on': OPB
 'the': -T
-'Stag.': STAG TP-PL
-'The': -T
+'Stag.': KPA/STAG TP-PL
+'The': KPA/-T
 'Hunter': HURPBT
 'agreed,': TKPWRAED KW-BG
 'but': PWUT
 'said:': SAEUD STPH-FPLT
-'"If': KR-GS TP
+'"If': KR-GS KPA/TP
 'you': U
 'desire': STKAOEUR
 'to': TO
 'conquer': KAUPB/KER
 'the': -T
-'Stag,': STAG KW-BG
+'Stag,': KPA/STAG KW-BG
 'you': U
 'must': PHUFT
 'permit': PERPLT
@@ -85,8 +85,8 @@ The Horse, Hunter, and Stag
 'after': AF
 'the': -T
 'enemy."': EPB/PHEU TP-PL KR-GS
-'The': -T
-'Horse': HORS
+'The': KPA/-T
+'Horse': KPA/HORS
 'agreed': TKPWRAED
 'to': TO
 'the': -T
@@ -99,7 +99,7 @@ The Horse, Hunter, and Stag
 'and': SKP
 'bridled': PWRAOEUD/-LD
 'him.': HEUPL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'with': W
 'the': -T
 'aid': AEUD
@@ -107,17 +107,17 @@ The Horse, Hunter, and Stag
 'the': -T
 'Hunter': HURPBT
 'the': -T
-'Horse': HORS
+'Horse': KPA/HORS
 'soon': SAOPB
 'overcame': AUFR/KAEUPL
 'the': -T
-'Stag,': STAG KW-BG
+'Stag,': KPA/STAG KW-BG
 'and': SKP
 'said': SAEUD
 'to': TO
 'the': -T
 'Hunter:': HURPBT STPH-FPLT
-'"Now,': KR-GS TPHOU KW-BG
+'"Now,': KR-GS KPA/TPHOU KW-BG
 'get': TKPWET
 'off,': OF KW-BG
 'and': SKP
@@ -129,7 +129,7 @@ The Horse, Hunter, and Stag
 'mouth': PHO*UT
 'and': SKP
 'back."': PWABG TP-PL KR-GS
-'"Not': KR-GS TPHOT
+'"Not': KR-GS KPA/TPHOT
 'so': SO
 'fast,': TPAFT KW-BG
 'friend,"': TPREPBD KW-BG KR-GS
@@ -155,7 +155,7 @@ The Horse, Hunter, and Stag
 'are': R
 'at': AT
 'present."': PREPBT TP-PL KR-GS
-'If': TP
+'If': KPA/TP
 'you': U
 'allow': HROU
 'men': PHEPB

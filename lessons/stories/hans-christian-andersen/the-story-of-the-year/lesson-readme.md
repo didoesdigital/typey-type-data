@@ -1,13 +1,13 @@
 # The Story of the Year
 
-* it `T`
+* It `KPA/T`
 * was `WAS`
 * near `TPHAOER`
 * the `-T`
 * end `EPBD`
 * of `-F`
 * January, `SKWRAPB KW-BG`
-* And `SKP`
+* and `SKP`
 * a `AEU`
 * terrible `TERBL`
 * fall `TPAUL`
@@ -29,7 +29,7 @@
 * masses `PHAS/-S`
 * from `TPR`
 * roofs. `RAOFS TP-PL`
-* every `EF`
+* Every `KPA/EF`
 * one `WUPB`
 * seemed `SAOEPLD`
 * great `TKPWRAET`
@@ -50,7 +50,7 @@
 * could `KO`
 * stand `STAPBD`
 * safely. `SAEUFL TP-PL`
-* Coaches `KOEFPS`
+* Coaches `KPA/KOEFPS`
 * horses `HORSZ`
 * looked `HRAOBGD`
 * if `TP`
@@ -58,6 +58,7 @@
 * been `PW-PB`
 * frosted `TPROS/-D`
 * sugar. `SHURG TP-PL`
+* The `KPA/-T`
 * footmen `xxx footmen`
 * stood `STAOD`
 * their `THAEUR`
@@ -80,7 +81,7 @@
 * slowly `SHROEL`
 * deep `TKAOEP`
 * snow. `STPHOE TP-PL`
-* at `AT`
+* At `KPA/AT`
 * last `HRAFT`
 * storm `STORPL`
 * abated, `A/PWAEUT/-D KW-BG`
@@ -102,14 +103,15 @@
 * first `TPEUFRT`
 * step `STEP`
 * side `SAOEUD`
-* Let `HRET`
+* let `HRET`
 * other `OER`
 * pass `PAS`
 * him. `HEUPL TP-PL`
-* there `THR`
+* There `KPA/THR`
 * silent `SHREPBT`
 * motionless, `PHOEGS/-LS KW-BG`
 * till `T*EUL`
+* at `AT`
 * last, `HRAFT KW-BG`
 * by `PWEU`
 * tacit `TA/SEUT`
@@ -117,7 +119,8 @@
 * sacrificed `SARBG/TPAOEUFD`
 * leg `HREG`
 * buried `PWUR/EUD`
-* towards `TORDZ`
+* it `T`
+* Towards `KPA/TORDZ`
 * evening, `AOEPBG KW-BG`
 * weather `WHR*`
 * became `PWAEUPL`
@@ -148,16 +151,18 @@
 * upon `POPB`
 * morning `PHORPBG`
 * dawn. `TKAUPB TP-PL`
+* They `KPA/THE`
 * searched `SEFRPBD`
 * food `TPAOD`
 * swept, `SWEPT KW-BG`
 * but `PWUT`
+* there `THR`
 * very `SRE`
 * little `HREUL`
 * them, `THEPL KW-BG`
 * terribly `TERBL/HREU`
 * cold. `KOELD TP-PL`
-* "Tweet, `KR-GS TWAOET KW-BG`
+* "Tweet, `KR-GS KPA/TWAOET KW-BG`
 * tweet," `TWAOET KW-BG KR-GS`
 * said `SAEUD`
 * another; `TPHOER STPH*FPLT`
@@ -170,7 +175,7 @@
 * worse `WORS`
 * than `THAPB`
 * last. `HRAFT TP-PL`
-* we `WE`
+* We `KPA/WE`
 * might `PHAOEUT`
 * just `SKWRUFT`
 * well `WEL`
@@ -182,7 +187,7 @@
 * right `RAOEUT`
 * be `-B`
 * so." `SO TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * you `U`
 * have; `SR STPH*FPLT`
 * yet `KWRET`
@@ -196,6 +201,7 @@
 * year," `KWRAOER KW-BG KR-GS`
 * shivering `SH*EUFR/-G`
 * sparrow. `SPAEUR/ROE TP-PL`
+* "They `KR-GS KPA/THE`
 * threw `THRAOU`
 * things `THEUPBGS`
 * doors, `TKAORS KW-BG`
@@ -208,6 +214,7 @@
 * glad `TKPWHRAD`
 * too, `TAO KW-BG`
 * expected `KP-PTD`
+* we `WE`
 * should `SHO`
 * some `SOPL`
 * warm `WARPL`
@@ -224,7 +231,7 @@
 * mistake `SPHAEUBG`
 * reckoning `REBG/-PBG`
 * time." `TAOEUPL TP-PL KR-GS`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * have," `SR KW-BG KR-GS`
 * third, `THEURD KW-BG`
 * an `APB`
@@ -236,37 +243,39 @@
 * it's `T-S`
 * invention `EUPB/SREPBGS`
 * own, `OEPB KW-BG`
-* Everything `EFG`
+* everything `EFG`
 * must `PHUFT`
 * arranged `ARPBG/-D`
 * according `KORG`
 * it, `T KW-BG`
 * won't `WOEPBT`
 * do. `TKO TP-PL`
-* Spring `SPREUPBG`
+* When `KPA/WHEPB`
+* spring `SPREUPBG`
 * comes, `KOPLS KW-BG`
-* Then `THEPB`
+* then `THEPB`
 * begins. `TKPWEUPBS TP-PL`
 * voice `SROEUS`
 * nature, `TPHAEURT KW-BG`
 * reckon `REBG/-PB`
 * that." `THA TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * will `HR`
 * come?" `KOPL H-F KR-GS`
 * asked `SK-D`
 * others. `OERS TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * stork `STORBG`
 * returns, `RURPBS KW-BG`
 * he `HE`
 * uncertain, `UPB/SERPB KW-BG`
-* Here `HAOER`
+* here `HAOER`
 * town `TOUPB`
 * no `TPHO`
 * knows `TPHOEZ`
 * anything `TPHEUG`
 * it. `T TP-PL`
+* In `KPA/TPH`
 * country `KREU`
 * knowledge; `TPHOPBLG STPH*FPLT`
 * shall `SHAL`
@@ -287,6 +296,7 @@
 * not `TPHOT`
 * saying `SAEUG`
 * consequence, `KWEPBS KW-BG`
+* "but `KR-GS PWUT`
 * found `TPOUPBD`
 * few `TPAOU`
 * comforts `K-FRTS`
@@ -295,6 +305,7 @@
 * miss `PHEUS`
 * out `OUT`
 * country. `KREU TP-PL`
+* Here `KPA/HAOER`
 * neighborhood, `TPHAOD KW-BG`
 * lives `HREUFS`
 * family `TPAEPL`
@@ -354,21 +365,23 @@
 * ourselves `O*URSZ`
 * provided `PROE/SRAOUD/-D`
 * for. `TPOR TP-PL`
+* So `KPA/SO`
 * stay `STAEU`
 * where `W-R`
 * are; `R STPH*FPLT`
 * although `HR*T`
 * happy, `HAEP KW-BG`
 * stay." `STAEU TP-PL KR-GS`
-* "and `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * country," `KREU KW-BG KR-GS`
 * others, `OERS KW-BG`
 * "to `KR-GS TO`
 * see `SAOE`
 * coming." `KO*G TP-PL KR-GS`
+* And `AFPBD`
 * flew. `TPHRAOU TP-PL`
 * really `R-L`
-* Winter, `WEURPBT KW-BG`
+* winter, `WEURPBT KW-BG`
 * degrees `TKEGS`
 * colder `KOERLD`
 * town. `TOUPB TP-PL`
@@ -400,7 +413,7 @@
 * crying, `KRAOEUG KW-BG`
 * tweet; `TWAOET STPH*FPLT`
 * come? `KOPL H-F`
-* "Very `KR-GS SRE`
+* "Very `KR-GS KPA/SRE`
 * indeed," `TPHAOEPBD KW-BG KR-GS`
 * sounded `SOUPBD/-D`
 * field, `TPAOELD KW-BG`
@@ -417,6 +430,7 @@
 * regardless `RARLDZ`
 * wind `WEUPBD`
 * weather. `WHR* TP-PL`
+* He `KPA/HE`
 * white; `WHAOEUT STPH*FPLT`
 * peasant's `PEFPBT AES`
 * coarse `KAORS`
@@ -428,7 +442,7 @@
 * clear `KHRAOER`
 * blue `PWHRU`
 * eyes. `AO*EUS TP-PL`
-* "Who `KR-GS WHO`
+* "Who `KR-GS KPA/WHO`
 * man?" `PHAPB H-F KR-GS`
 * sparrows. `SPAEUR/ROE/-S TP-PL`
 * "I `KR-GS EU`
@@ -440,7 +454,7 @@
 * acknowledge `ABG/TPHOPBLG`
 * equal `KWAL`
 * sight `SAOEUT`
-* Heaven, `HEFPB KW-BG`
+* Heaven, `KPA/HEFPB KW-BG`
 * even `AOEPB`
 * birds, `PWEURDZ KW-BG`
 * therefore `TH-FR`
@@ -450,29 +464,31 @@
 * wanted. `WAPBTD TP-PL`
 * man `PHAPB`
 * said. `SAEUD TP-PL`
+* Winter, `W*EUPBT/*ER KW-BG`
 * dead `TKED`
 * yet, `KWRET KW-BG`
 * calendar `KAL/TKAR`
 * says, `SEZ KW-BG`
 * acts `ABGZ`
 * guardian `TKPWARD/KWRAPB`
-* Prince `PREUPBS`
+* Prince `PR*EUPBS`
+* Spring `KPA/SPREUPBG`
 * coming. `KO*G TP-PL`
-* Winter `WEURPBT`
+* Winter `W*EUPBT/*ER`
 * rules `RAOULS`
 * still. `STEUL TP-PL`
-* Ugh! `UG SKHRAPL`
+* Ugh! `KPA/UG SKHRAPL`
 * cold `KOELD`
 * makes `PHAEUBGS`
 * shiver, `SHEUFR KW-BG`
 * does `TKOS`
 * not?" `TPHOT H-F KR-GS`
-* "There! `KR-GS THR SKHRAPL`
-* did `TK`
+* "There! `KR-GS KPA/THR SKHRAPL`
+* Did `KPA/TK`
 * tell `TEL`
 * so?" `SO H-F KR-GS`
 * smallest `SPHAUL/EFT`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * nature. `TPHAEURT TP-PL`
 * leave `HREF`
 * us; `US STPH*FPLT`
@@ -480,6 +496,7 @@
 * much `PHUFP`
 * clever `KHREFR`
 * are." `R TP-PL KR-GS`
+* One `KPA/WUPB`
 * week `WAOEBG`
 * passed, `PAFD KW-BG`
 * another. `TPHOER TP-PL`
@@ -497,6 +514,7 @@
 * damp, `TKAFRP KW-BG`
 * icy `AOEU/SEU`
 * mists. `PHEUFT/-S TP-PL`
+* Large `KPA/HRARPBLG`
 * black `PWHRABG`
 * crows `KROE/-S`
 * flew `TPHRAOU`
@@ -509,8 +527,10 @@
 * lake, `HRAEUBG KW-BG`
 * burnished `PWURPB/EURB/-D`
 * silver. `SEUL/SRER TP-PL`
+* But `KPA/PWUT`
 * fields `TPAOELDZ`
 * hills `HEULS`
+* did `TK`
 * glitter `TKPWHREUT`
 * before. `PW-F TP-PL`
 * form `TPORPL`
@@ -529,12 +549,12 @@
 * appeared, `A/PAOERD KW-BG`
 * patches `PAFPS`
 * covered `KOFRD`
-* "Tee-wit, `KR-GS TAOE H-PB WEUT KW-BG`
+* "Tee-wit, `KR-GS KPA/TAOE H-PB WEUT KW-BG`
 * tee-wit; `TAOE H-PB WEUT STPH*FPLT`
 * coming `KO*G`
 * last?" `HRAFT H-F KR-GS`
-* Spring! `SPREUPBG SKHRAPL`
-* how `HOU`
+* Spring! `KPA/SPREUPBG SKHRAPL`
+* How `KPA/HOU`
 * cry `KRAOEU`
 * resounded `RE/SO*UPBD/-D`
 * field `TPAOELD`
@@ -560,12 +580,13 @@
 * greeted `TKPWRAOET/-D`
 * earth `*ERT`
 * kiss, `KEUS KW-BG`
-* Wherever `W-FR`
+* wherever `W-FR`
 * placed `PHRAEUFD`
 * feet `TPAOET`
 * flowers `TPHRO*URS`
 * sprung `SPRUPBG`
 * beneath `TPHAO*ET`
+* Hand `KPA/HAPBD`
 * hand `HAPBD`
 * approached `A/PROEFPD`
 * ice-man, `AOEUS H-PB PHAPB KW-BG`
@@ -576,7 +597,7 @@
 * so, `SO KW-BG`
 * enveloped `TPH-FLD`
 * thick, `THEUBG KW-BG`
-* Damp `TKAFRP`
+* damp `TKAFRP`
 * mist, `PHEUFT KW-BG`
 * dark `TKARBG`
 * heavy, `HOEUF KW-BG`
@@ -587,6 +608,7 @@
 * rustling `RUS/-LG`
 * tone, `TOEPB KW-BG`
 * mist. `PHEUFT TP-PL`
+* Then `KPA/THEPB`
 * sun `SUPB`
 * warmly. `WARPL/HREU TP-PL`
 * vanished `SRAPB/EURBD`
@@ -594,7 +616,7 @@
 * children `KHEURPB`
 * throne `THRO*EPB`
 * year. `KWRAOER TP-PL`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * cried `KRAOEUD`
 * "now `KR-GS TPHOU`
 * get `TKPWET`
@@ -603,6 +625,7 @@
 * what `WHA`
 * suffered `SUFRD`
 * winter." `WEURPBT TP-PL KR-GS`
+* Wherever `KPA/W-FR`
 * wandered, `WAPBD/-D KW-BG`
 * buds `PWUDZ`
 * burst `PWUFRT`
@@ -618,7 +641,7 @@
 * strewed `STRAOU/-D`
 * her `HER`
 * path. `PA*T TP-PL`
-* She `SHE`
+* She `KPA/SHE`
 * held `HELD`
 * apron `AEUP/ROPB`
 * before `PW-F`
@@ -627,11 +650,12 @@
 * flowers; `TPHRO*URS STPH*FPLT`
 * life `HRAOEUF`
 * there, `THR KW-BG`
+* she `SHE`
 * scattered `SKAT/ERD`
 * around `ARPBD`
 * her, `HER KW-BG`
 * contain. `TAEUPB TP-PL`
-* Eagerly `AOERLG`
+* Eagerly `KPA/AOERLG`
 * showered `SHOURD`
 * blossoms `PWROS/SOPL/-S`
 * apple `A*EPL`
@@ -647,13 +671,13 @@
 * by, `PWEU KW-BG`
 * knew `TPHAOU`
 * whence, `WHEPBS KW-BG`
-* twittered `TWEURT/-D`
+* twittered `xxx twittered`
 * chirped, `KHEURP/-D KW-BG`
 * singing `SEUPBG/-G`
-* "Spring `KR-GS SPREUPBG`
+* "Spring `KR-GS KPA/SPREUPBG`
 * come!" `KOPL SKHRAPL KR-GS`
 * was! `WAS SKHRAPL`
-* Many `PHAEPB`
+* Many `KPA/PHAEPB`
 * dame `TKAEUPL`
 * door `TKAOR`
 * sunshine, `SUPB/SHAO*EUPB KW-BG`
@@ -668,7 +692,7 @@
 * do `TKO`
 * days. `TKAEUS TP-PL`
 * world `WORLD`
-* Again `TKPWEPB`
+* again `TKPWEPB`
 * said, `SAEUD KW-BG`
 * blessed `PWHR*EFD`
 * time `TAOEUPL`
@@ -682,15 +706,17 @@
 * thyme `THAOEUPL`
 * blossomed `PWHROS/SOPLD`
 * fragrance. `TPRAEUG/RAPBS TP-PL`
-* Primroses `PREUPL/ROES/-S`
+* Primroses `xxx Primroses`
 * anemones `A/PHEPB/PHE/-S`
 * forth, `TPO*RT KW-BG`
 * violets `SROEULT/-S`
 * bloomed `PWHRAOPL/-D`
 * shade, `SHAEUD KW-BG`
+* every `EF`
 * blade `PWHRAEUD`
 * strength `STREPBG`
 * sap. `SAP TP-PL`
+* Who `KPA/WHO`
 * resist `RE/SEUFT`
 * sitting `SEUGT`
 * down `TKOUPB`
@@ -715,7 +741,7 @@
 * same `SAEUPL`
 * trees `TRAOES`
 * unfolded, `xxx unfolded KW-BG`
-* rose, `ROEZ KW-BG`
+* rose, `ROES KW-BG`
 * wandered `WAPBD/-D`
 * pendant `PEPB/TKAPBT`
 * canopy `KAPB/PEU`
@@ -730,7 +756,7 @@
 * air `AEUR`
 * refreshing `RE/TPRERB/-G`
 * odor. `O*ERD TP-PL`
-* Merrily `PHER/HREU`
+* Merrily `KPA/PHER/HREU`
 * rippled `REUP/-LD`
 * brooks `PWRAOBGS`
 * rivulets `REUFL/HRET/-S`
@@ -741,6 +767,7 @@
 * many-colored `PHAEPB H-PB KHRORD`
 * pebbles `PEBLS`
 * beneath. `TPHAO*ET TP-PL`
+* All `KPA/AUL`
 * spoke `SPOEBG`
 * abundance `PWUPB/TKAPBS`
 * plenty. `PHREPBT TP-PL`
@@ -757,11 +784,12 @@
 * carefulness `KAEUFL/-PBS`
 * rather `RAER`
 * tedious. `TAOED/KWRUS TP-PL`
-* days `TKAEUS`
+* Days `KPA/TKAEUS`
 * weeks `WAOEBGS`
 * went `WEPBT`
 * heat `HAOET`
 * increased. `EUPB/KRAOEFD TP-PL`
+* Warm `KPA/WARPL`
 * waved `WAFD`
 * corn `KORPB`
 * sun. `SUPB TP-PL`
@@ -791,7 +819,7 @@
 * hot `HOT`
 * beams. `PWAOEPLS TP-PL`
 * wife `WAOEUF`
-* summer, `SAOURPL KW-BG`
+* Summer, `KPA/SAOURPL KW-BG`
 * whom `WHOPL`
 * seen `SAOEPB`
 * child `KHAOEULD`
@@ -813,6 +841,7 @@
 * rolling `ROLG`
 * sea. `SAE TP-PL`
 * swooped `SWAOPD`
+* towards `TORDZ`
 * forest, `TPOEFRT KW-BG`
 * sound `SOUPBD`
 * silenced `SHREPBS/-D`
@@ -887,7 +916,7 @@
 * heaving `HAOEF/-G`
 * salt `SALT`
 * sea, `SAE KW-BG`
-* summer `SAOURPL`
+* Summer `KPA/SAOURPL`
 * himself, `H*EUPLS KW-BG`
 * strong `STROPBG`
 * sturdy `STUR/TKEU`
@@ -895,16 +924,17 @@
 * long, `HROPBG KW-BG`
 * dripping `TKREUPG`
 * hair. `HAEUR TP-PL`
-* Strengthened `STR*EPBG/-PBD`
+* Strengthened `KPA/STR*EPBG/-PBD`
 * cool `KAOL`
 * bath, `PWA*T KW-BG`
 * renewed `RE/TPHAOUD`
 * strong, `STROPBG KW-BG`
 * luxuriant, `HRUBGS/UR/KWRAPBT KW-BG`
 * beautiful: `PWAOUFL STPH-FPLT`
+* summer, `SAOURPL KW-BG`
 * warm, `WARPL KW-BG`
 * summer. `SAOURPL TP-PL`
-* sweet `SWAOET`
+* Sweet `KPA/SWAOET`
 * pleasant `PHREFPBT`
 * fragrance `TPRAEUG/RAPBS`
 * wafted `WAFT/-D`
@@ -944,6 +974,7 @@
 * blushing `PWHRURB/-G`
 * moonlight. `PHAOLGT TP-PL`
 * indeed `TPHAOEPBD`
+* days `TKAEUS`
 * bright `PWRAOEUT`
 * scythes `SKRAOEUT/-S`
 * reapers `xxx reapers`
@@ -958,20 +989,22 @@
 * hop, `HOP KW-BG`
 * hanging `HAPBG/-G`
 * clusters, `KHRUS/TERS KW-BG`
+* sweet `SWAOET`
 * fragrance, `TPRAEUG/RAPBS KW-BG`
 * hazel-bushes, `HAEUZ/EL H-PB PWURBS KW-BG`
 * nuts `TPHUTS`
 * bunches, `PWUFRPBS KW-BG`
 * rested `REFT/-D`
-* woman—Summer `WOPL EPL/TKA*RB SAOURPL`
+* woman—Summer `WOPL EPL/TKA*RB KPA/SAOURPL`
 * consort. `KOPB/SORT TP-PL`
-* "See," `KR-GS SAOE KW-BG KR-GS`
+* "See," `KR-GS KPA/SAOE KW-BG KR-GS`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
 * "what `KR-GS WHA`
 * wealth, `W*ELT KW-BG`
 * blessings `PWHREFGS`
 * surround `SROUPBD`
 * us. `US TP-PL`
+* Everything `KPA/EFG`
 * home-like `HOEPL H-PB HRAOEUBG`
 * good, `TKPWAOD KW-BG`
 * why, `KWR KW-BG`
@@ -985,7 +1018,7 @@
 * again; `TKPWEPB STPH*FPLT`
 * wish `WEURB`
 * gain. `TKPWAEUPB TP-PL`
-* See, `SAOE KW-BG`
+* See, `KPA/SAOE KW-BG`
 * flocking `TPHROBG/-G`
 * together, `TOGT KW-BG`
 * following `TPOLG`
@@ -996,7 +1029,9 @@
 * carried `KAERD`
 * us `US`
 * air. `AEUR TP-PL`
+* Do `KPA/TKO`
 * remember `REB`
+* how `HOU`
 * north; `TPHORT STPH*FPLT`
 * forests, `TPOEFRT/-S KW-BG`
 * rough `RUF`
@@ -1005,7 +1040,7 @@
 * south, `SOUT KW-BG`
 * not, `TPHOT KW-BG`
 * fruit." `TPRAOUT TP-PL KR-GS`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * fruit?" `TPRAOUT H-F KR-GS`
 * "then `KR-GS THEPB`
 * rejoice," `RE/SKWROEUS KW-BG KR-GS`
@@ -1015,7 +1050,7 @@
 * colors `KHRORS`
 * tints `TEUPBTS`
 * woodlands. `WAOD/HRAPBDZ TP-PL`
-* rose-bushes `ROEZ H-PB PWURBS`
+* rose-bushes `ROES H-PB PWURBS`
 * scarlet `SKARLT`
 * hips, `HEUPS KW-BG`
 * elder-trees `ELD/ER H-PB TRAOES`
@@ -1032,6 +1067,7 @@
 * pale. `PAEL TP-PL`
 * blows `PWHROES`
 * cold," `KOELD KW-BG KR-GS`
+* "and `KR-GS SKP`
 * night `TPHAOEUT`
 * brings `PWREUS`
 * mist; `PHEUFT STPH*FPLT`
@@ -1058,7 +1094,7 @@
 * yellow, `KWREL/OE KW-BG`
 * fell, `TPEL KW-BG`
 * stormy `STOR/PH*EU`
-* Autumn `AU/UPL`
+* Autumn `KPA/AU/UPL`
 * howled. `HOUL/-D TP-PL`
 * far `TPAR`
 * advanced, `SRAPBS/-D KW-BG`
@@ -1071,11 +1107,14 @@
 * her. `HER TP-PL`
 * gust `TKPWUFT`
 * shower. `SHOUR TP-PL`
+* summer `SAOURPL`
 * gone, `TKPWOPB KW-BG`
 * butterfly, `PW*URT/TPHRAOEU KW-BG`
+* Damp `KPA/TKAFRP`
 * fogs `TPOG/-S`
 * came, `KAEUPL KW-BG`
 * nights `TPHAOEUTS`
+* winter `WEURPBT`
 * approached. `A/PROEFPD TP-PL`
 * ruler `RAO*URL`
 * appeared `A/PAOERD`
@@ -1113,7 +1152,7 @@
 * joy `SKWROEU`
 * rooms, `RAOPLS KW-BG`
 * boughs," `PWO*U/-S KW-BG KR-GS`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * resting-time `REFT/-G H-PB TAOEUPL`
 * draws `TKRAUS`
 * near; `TPHAOER STPH*FPLT`
@@ -1126,11 +1165,12 @@
 * "for `KR-GS TPOR`
 * power, `POUR KW-BG`
 * rest. `REFT/TP-PL`
+* Let `KPA/HRET`
 * lie `HRAOEU`
 * warmly `WARPL/HREU`
 * tender `TERPBD`
 * seed. `SAOED TP-PL`
-* Learn `HRERPB`
+* Learn `KPA/HRERPB`
 * endure `EPB/TKAOUR`
 * worshipped `WOR/SH-P/-D`
 * whilst `WHAOEULS`
@@ -1144,7 +1184,7 @@
 * thy `THAO*EU`
 * freedom `TPRAOEPLD`
 * appears." `A/PAOERS TP-PL KR-GS`
-* Winter. `WEURPBT TP-PL`
+* Winter. `W*EUPBT/*ER TP-PL`
 * returns." `RURPBS TP-PL KR-GS`
 * locks `HROBGZ`
 * beard, `PWAERD KW-BG`
@@ -1183,7 +1223,7 @@
 * former `TPORPL/*ER`
 * dead, `TKED KW-BG`
 * spring, `SPREUPBG KW-BG`
-* "When `KR-GS WHEPB`
+* "When `KR-GS KPA/WHEPB`
 * better `PWOERT`
 * times `TAOEUPLS`
 * rule. `RAOUL TP-PL`
@@ -1207,12 +1247,13 @@
 * shook `SHAOBG`
 * branches,—and `PWRAFPBS KW-BG EPL/TKA*RB SKP`
 * dream `TKRAOEPL`
-* "Spring!" `KR-GS SPREUPBG SKHRAPL KR-GS`
+* "Spring!" `KR-GS KPA/SPREUPBG SKHRAPL KR-GS`
+* Again `KPA/TKPWEPB`
 * lay. `HRAEU TP-PL`
 * sunshine `SUPB/SHAO*EUPB`
 * warmer, `WARPL/*ER KW-BG`
 * melted, `PHELT/-D KW-BG`
-* twittered, `TWEURT/-D KW-BG`
+* twittered, `xxx twittered KW-BG`
 * coming!" `KO*G SKHRAPL KR-GS`
 * stork, `STORBG KW-BG`
 * followed; `TPOLD STPH*FPLT`

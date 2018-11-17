@@ -1,6 +1,6 @@
 # The Ridiculous Wishes
 
-* in `TPH`
+* In `KPA/TPH`
 * days `TKAEUS`
 * long `HROPBG`
 * past `PAFT`
@@ -9,12 +9,12 @@
 * a `AEU`
 * poor `PAOR`
 * woodcutter `WAOD/KUT/*ER`
-* Who `WHO`
+* who `WHO`
 * found `TPOUPBD`
 * life `HRAOEUF`
 * very `SRE`
 * hard. `HARD TP-PL`
-* Indeed, `TPHAOEPBD KW-BG`
+* Indeed, `KPA/TPHAOEPBD KW-BG`
 * it `T`
 * was `WAS`
 * his `HEUS`
@@ -26,7 +26,7 @@
 * guerdon, `xxx guerdon KW-BG`
 * and `SKP`
 * although `HR*T`
-* He `HE`
+* he `HE`
 * young `KWRUPBG`
 * happily `HAP/HREU`
 * married `PHAERD`
@@ -38,7 +38,7 @@
 * dead `TKED`
 * below `PWHRO`
 * ground. `TKPWROUPBD TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
 * while `WHAOEUL`
 * at `AT`
@@ -46,10 +46,10 @@
 * again `TKPWEPB`
 * lamenting `HRAPLT/-G`
 * fate. `TPAEUT TP-PL`
-* "Some `KR-GS SOPL`
+* "Some `KR-GS KPA/SOPL`
 * men," `PHEPB KW-BG KR-GS`
 * said, `SAEUD KW-BG`
-* "Have `KR-GS SR`
+* "have `KR-GS SR`
 * only `OEPBL`
 * make `PHAEUBG`
 * known `TPHOEPB`
@@ -75,6 +75,7 @@
 * such `SUFP`
 * as `AZ`
 * I." `EU TP-PL KR-GS`
+* As `KPA/AZ`
 * spoke `SPOEBG`
 * words `WORDZ`
 * great `TKPWRAET`
@@ -87,14 +88,14 @@
 * wielding `WAOELD/-G`
 * mighty `PHAOEUT/KWREU`
 * thunderbolts. `THUPBD/*ER/PWOELT/-S TP-PL`
-* our `OUR`
+* Our `KPA/OUR`
 * man `PHAPB`
 * stricken `STREUPB`
 * with `W`
 * fear `TPAOER`
 * threw `THRAOU`
 * on `OPB`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * lord," `HRORD KW-BG KR-GS`
 * "forget `KR-GS TPERGT`
 * my `PHEU`
@@ -106,7 +107,8 @@
 * cease `SAOES`
 * thy `THAO*EU`
 * thundering!" `THUPBD/ERG SKHRAPL KR-GS`
-* No `TPHO`
+* "Have `KR-GS KPA/SR`
+* no `TPHO`
 * fear," `TPAOER KW-BG KR-GS`
 * answered `AEPBS/-D`
 * Jupiter; `SKWRAOUP/TER STPH*FPLT`
@@ -124,7 +126,7 @@
 * dost `TKO/*T`
 * wrong `WROPBG`
 * me. `PHE TP-PL`
-* Hark! `HARBG SKHRAPL`
+* Hark! `KPA/HARBG SKHRAPL`
 * I, `EU KW-BG`
 * am `APL`
 * sovereign `SOFRPB`
@@ -133,6 +135,7 @@
 * world, `WORLD KW-BG`
 * promise `PROPLS`
 * grant `TKPWRAPBT`
+* in `TPH`
 * full `TPUL`
 * first `TPEUFRT`
 * three `THRAOE`
@@ -144,7 +147,7 @@
 * whatever `WHAF`
 * may `PHAE`
 * be. `-B TP-PL`
-* Consider `KR`
+* Consider `KPA/KR`
 * well `WEL`
 * what `WHA`
 * things `THEUPBGS`
@@ -160,13 +163,14 @@
 * revolve `RE/SROFL`
 * matter `PHAERT`
 * mind." `PHAOEUPBD TP-PL KR-GS`
-* having `SR-G`
-* Thus `THUS`
+* Having `KPA/SR-G`
+* thus `THUS`
 * spoken `SPOEPB`
 * withdrew `WRAOU`
 * made `PHAED`
 * ascent `A/SKREPBT`
 * Olympus. `O/HREUPL/PUS TP-PL`
+* our `OUR`
 * woodcutter, `WAOD/KUT/*ER KW-BG`
 * blithely `PHRAO*EUT/HREU`
 * corded `KORD/-D`
@@ -175,6 +179,8 @@
 * over `OEFR`
 * shoulder, `SHOURLD KW-BG`
 * home. `HOEPL TP-PL`
+* To `KPA/TO`
+* one `WUPB`
 * so `SO`
 * light `HRAOEUT`
 * heart `HART`
@@ -186,7 +192,7 @@
 * merry `PHER/REU`
 * strode `STROED`
 * along. `A/HROPBG TP-PL`
-* many `PHAEPB`
+* Many `KPA/PHAEPB`
 * came `KAEUPL`
 * into `TPHAO`
 * mind, `PHAOEUPBD KW-BG`
@@ -197,6 +203,7 @@
 * woman `WOPL`
 * good `TKPWAOD`
 * understanding. `URPBGD TP-PL`
+* He `KPA/HE`
 * had `H`
 * soon `SAOPB`
 * reached `RAOEFPD`
@@ -204,25 +211,26 @@
 * casting `KAFT/-G`
 * down `TKOUPB`
 * faggot: `TPAGT STPH-FPLT`
-* "Behold `KR-GS PWE/HOLD`
+* "Behold `KR-GS KPA/PWE/HOLD`
 * me, `PHE KW-BG`
-* Fanny," `TPAPB/KWREU KW-BG KR-GS`
+* Fanny," `KPA/TPAPB/KWREU KW-BG KR-GS`
 * said. `SAEUD TP-PL`
-* "Make `KR-GS PHAEUBG`
+* "Make `KR-GS KPA/PHAEUBG`
 * up `UP`
 * fire `TPAOEUR`
 * spread `SPRED`
 * board, `PWAORD KW-BG`
 * let `HRET`
 * stint. `STEUPBT TP-PL`
-* we `WE`
+* We `KPA/WE`
 * wealthy, `WEL/TH*EU KW-BG`
-* Fanny, `TPAPB/KWREU KW-BG`
+* Fanny, `KPA/TPAPB/KWREU KW-BG`
 * wealthy `WEL/TH*EU`
 * evermore; `-FR/PHO*R STPH*FPLT`
+* we `WE`
 * whatsoever `WHA/SOFR`
 * desire." `STKAOEUR TP-PL KR-GS`
-* Thereupon `THRUP`
+* Thereupon `KPA/THRUP`
 * told `TOLD`
 * her `HER`
 * story `STOER`
@@ -235,6 +243,7 @@
 * active, `TAEF KW-BG`
 * immediately `PHAOELD`
 * conceived `KAUPB/SAOEFD`
+* many `PHAEPB`
 * plans `PHRAPBS`
 * advancement `SRAPLT`
 * fortune, `TP-RPB KW-BG`
@@ -258,17 +267,17 @@
 * night, `TPHAOEUT KW-BG`
 * until `TPH-L`
 * to-morrow." `TO H-PB PHOR/ROE TP-PL KR-GS`
-* "that `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * spoken," `SPOEPB KW-BG KR-GS`
 * Harry. `HAR/REU TP-PL`
-* "Meanwhile `KR-GS PHAOEPB/WHAOEUL`
+* "Meanwhile `KR-GS KPA/PHAOEPB/WHAOEUL`
 * fetch `TPEFP`
 * bottle `PWO*LT`
 * best, `PWEFT KW-BG`
 * shall `SHAL`
 * drink `TKREU`
 * fortune." `TP-RPB TP-PL KR-GS`
-* Fanny `TPAPB/KWREU`
+* Fanny `KPA/TPAPB/KWREU`
 * brought `PWRAUT`
 * from `TPR`
 * store `STOR`
@@ -282,10 +291,10 @@
 * toes `TO*ES`
 * goblet `TKPWOBLT`
 * hand. `HAPBD TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * fine `TPAOEUPB`
 * glowing `TKPWHROEG`
-* embers!" `*ERPL/-S SKHRAPL KR-GS`
+* embers!" `EPL/PWER/-S SKHRAPL KR-GS`
 * "and `KR-GS SKP`
 * toasting `TOEFT/-G`
 * fire! `TPAOEUR SKHRAPL`
@@ -293,7 +302,7 @@
 * black `PWHRABG`
 * pudding `PUD/-G`
 * hand." `HAPBD TP-PL KR-GS`
-* Hardly `HA*RLD`
+* Hardly `KPA/HA*RLD`
 * wife `WAOEUF`
 * beheld, `PWE/HELD KW-BG`
 * astonishment, `AS/TOPB/SH-PLT KW-BG`
@@ -305,6 +314,7 @@
 * wriggling `WREUG/-LG`
 * towards `TORDZ`
 * her. `HER TP-PL`
+* She `KPA/SHE`
 * uttered `UT/ERD`
 * cry `KRAOEU`
 * fear, `TPAOER KW-BG`
@@ -319,7 +329,7 @@
 * rashly `RARB/HREU`
 * foolishly `TPAOL/EURB/HREU`
 * spoken. `SPOEPB TP-PL`
-* Turning `TURPBG`
+* Turning `KPA/TURPBG`
 * upon `POPB`
 * him, `HEUPL KW-BG`
 * anger `ARPBG`
@@ -331,7 +341,7 @@
 * could `KO`
 * think `THEU`
 * of. `-F/TP-PL`
-* "What!" `KR-GS WHA SKHRAPL KR-GS`
+* "What!" `KR-GS KPA/WHA SKHRAPL KR-GS`
 * said `SAEUD`
 * "when `KR-GS WHEPB`
 * you `U`
@@ -349,9 +359,9 @@
 * set `SET`
 * your `KWROUR`
 * puddings!" `PUD/-G/-S SKHRAPL KR-GS`
-* "Nay!" `KR-GS TPHAEU SKHRAPL KR-GS`
+* "Nay!" `KR-GS KPA/TPHAEU SKHRAPL KR-GS`
 * man, `PHAPB KW-BG`
-* "'twas `KR-GS AE T-RBGS/WA*/-S`
+* "'twas `KW-GS/TWA*S`
 * thoughtless `THAUT/-LS`
 * speech, `SPAOEFP KW-BG`
 * sad `SAD`
@@ -362,12 +372,12 @@
 * better `PWOERT`
 * next `TPHEGT`
 * time." `TAOEUPL TP-PL KR-GS`
-* "Who `KR-GS WHO`
+* "Who `KR-GS KPA/WHO`
 * knows `TPHOEZ`
 * will?" `HR H-F KR-GS`
 * returned `RURPBD`
 * wife. `WAOEUF TP-PL`
-* "Once `KR-GS WUPBS`
+* "Once `KR-GS KPA/WUPBS`
 * witless `xxx witless`
 * fool, `TPAOL KW-BG`
 * always `AULS`
@@ -384,7 +394,7 @@
 * second `SEBGD`
 * bid `PWEUD`
 * widower. `WEUD/OER TP-PL`
-* "Enough! `KR-GS TPHUF SKHRAPL`
+* "Enough! `KR-GS KPA/TPHUF SKHRAPL`
 * woman," `WOPL KW-BG KR-GS`
 * cried `KRAOEUD`
 * last; `HRAFT STPH*FPLT`
@@ -392,6 +402,7 @@
 * check `KHEBG`
 * froward `xxx froward`
 * tongue! `TUPBG SKHRAPL`
+* Who `KPA/WHO`
 * ever `-FR`
 * impertinence `xxx impertinence`
 * this! `TH SKHRAPL`
@@ -399,11 +410,12 @@
 * plague `PHRAEUG`
 * shrew `SHRAOU`
 * pudding! `PUD/-G SKHRAPL`
-* would `WO`
+* Would `KPA/WO`
 * heaven `HEFPB`
 * hung `HUPBG`
 * end `EPBD`
 * nose!" `TPHOES SKHRAPL KR-GS`
+* No `KPA/TPHO`
 * sooner `SAORPB`
 * given `TKPWEUFPB`
 * voice `SROEUS`
@@ -427,15 +439,17 @@
 * did `TK`
 * off `OF`
 * beauty. `PWAOUT TP-PL`
-* yet `KWRET`
+* Yet `KPA/KWRET`
 * offered `OFRD`
 * advantage, `SRAPBG KW-BG`
 * right `RAOEUT`
 * mouth, `PHO*UT KW-BG`
+* would `WO`
 * effectively `TPEFL`
 * curb `KURB`
 * speech. `SPAOEFP TP-PL`
-* So, `SO KW-BG`
+* So, `KPA/SO KW-BG`
+* having `SR-G`
 * left, `HREFT KW-BG`
 * use `AOUS`
 * without `WOUT`
@@ -455,15 +469,17 @@
 * by `PWEU`
 * sudden `SUD`
 * thought. `THAUT TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * true," `TRAOU KW-BG KR-GS`
 * himself, `H*EUPLS KW-BG`
+* "that `KR-GS THA`
 * none `TPHOPB`
-* King, `KEUPBG KW-BG`
-* Queen `KWAOEPB`
+* King, `KO*EUPBG KW-BG`
+* Queen `KWAO*EPB`
 * must `PHUFT`
 * share `SHAEUR`
 * dignity? `TKEUG/TEU H-F`
+* With `KPA/W`
 * grace `TKPWRAEUS`
 * sit `SEUT`
 * beside `PWE/SAOEUD`
@@ -477,7 +493,7 @@
 * decide `STKAOEUD`
 * whether `WHR`
 * rather `RAER`
-* Queen, `KWAOEPB KW-BG`
+* Queen, `KWAO*EPB KW-BG`
 * most `PHOFT`
 * horrible `HORBL`
 * appendage `A/PEPB/TKAPBLG`
@@ -490,11 +506,12 @@
 * relieved `RE/HREFD`
 * untoward `UPB/TAORD`
 * addition. `AGS TP-PL`
-* Fanny's `TPAPB/KWREU AES`
+* Fanny's `KPA/TPAPB/KWREU AES`
 * up: `UP STPH-FPLT`
 * dreamt `TKREPLT`
 * crown `KROUPB`
 * sceptre, `SEP/TER/A*U KW-BG`
+* yet `KWRET`
 * woman's `WOPL/AES`
 * please. `PHRES TP-PL`
 * desire `STKAOEUR`
@@ -505,6 +522,7 @@
 * an `APB`
 * ugly `ULG`
 * face. `TPAEUS TP-PL`
+* Thus `KPA/THUS`
 * change `KHAEUPBG`
 * state, `STAEUT KW-BG`
 * become `PW-BG`

@@ -1,6 +1,6 @@
 # Two Maidens
 
-* have `SR`
+* Have `KPA/SR`
 * you `U`
 * ever `-FR`
 * seen `SAOEPB`
@@ -34,12 +34,12 @@
 * wood, `WAOD KW-BG`
 * broad `PWRAOD`
 * below, `PWHRO KW-BG`
-* And `SKP`
+* and `SKP`
 * girt `TKPWEURT`
 * round `ROUPBD`
 * iron `AOEURPB`
 * rings. `REUPBGS TP-PL`
-* At `AT`
+* At `KPA/AT`
 * top `TOP`
 * she `SHE`
 * narrow, `TPHO*EUR KW-BG`
@@ -53,11 +53,13 @@
 * forms `TPORPLS`
 * arms `ARPLS`
 * maiden. `PHAEUD/*EPB TP-PL`
+* In `KPA/TPH`
 * shed `SHED`
 * stood `STAOD`
 * two `TWO`
-* maidens `PHAEUD/EPB/-S`
+* Maidens `xxx Maidens`
 * kind. `KEUPBD TP-PL`
+* They `KPA/THE`
 * had `H`
 * their `THAEUR`
 * place `PHRAEUS`
@@ -96,7 +98,7 @@
 * name `TPHAEUPL`
 * "the `KR-GS -T`
 * maiden." `PHAEUD/*EPB TP-PL KR-GS`
-* Now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * there `THR`
 * are `R`
 * us `US`
@@ -139,7 +141,7 @@
 * themselves `TH*EPLS`
 * miscalled `PHEUS/KAULD`
 * "rammers. `KR-GS xxx rammers TP-PL`
-* "Maiden `KR-GS PHAEUD/EPB`
+* "Maiden `KR-GS KPA/PHAEUD/EPB`
 * name, `TPHAEUPL KW-BG`
 * hand-rammer `HAPBD H-PB xxx rammer`
 * thing, `THEUPBG KW-BG`
@@ -147,7 +149,7 @@
 * things—that's `THEUPBGS EPL/TKA*RB THA AES`
 * insulting `EUPB/SULT/-G`
 * us." `US TP-PL KR-GS`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * lover `HRUFR`
 * would `WO`
 * ready `R-D`
@@ -171,20 +173,22 @@
 * large `HRARPBLG`
 * scale `SKAEL`
 * ten `TEPB`
+* maidens `PHAEUD/EPB/-S`
 * effect `EFBGT`
 * similar `SHRAR`
 * way. `WAEU TP-PL`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * wants `WAPBTS`
 * marry `PHAER`
 * me `PHE`
 * whether `WHR`
 * he `HE`
+* have `SR`
 * question, `KWE KW-BG`
 * so `SO`
 * my `PHEU`
 * changed." `KHAEUPBGD TP-PL KR-GS`
-* "And `KR-GS SKP`
+* "And `KR-GS AFPBD`
 * I," `EU KW-BG KR-GS`
 * elder `ELD/ER`
 * one, `WUPB KW-BG`
@@ -193,7 +197,8 @@
 * both `PWO*T`
 * broken `PWROEPB`
 * off." `OF TP-PL KR-GS`
-* Wheelbarrow `WHAOEL/PWAR/ROE`
+* But `KPA/PWUT`
+* Wheelbarrow `KPA/WHAOEL/PWAR/ROE`
 * different `TKEUFRT`
 * opinion; `P-PB STPH*FPLT`
 * looked `HRAOBGD`
@@ -238,11 +243,11 @@
 * seal `SAOEL`
 * gives `TKPWEUFS`
 * laws! `HRAUS SKHRAPL`
-* No, `TPHO KW-BG`
+* No, `KPA/TPHO KW-BG`
 * case `KAEUS`
 * surrender `SREPBD/UR`
 * name." `TPHAEUPL TP-PL KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * certainly `SERPBL`
 * not!" `TPHOT SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
@@ -257,9 +262,9 @@
 * necessity?'" `TPHES/TEU H-F AE KR-GS`
 * observed `OEBD`
 * honest `HO*PBS`
-* Measuring `PH-RBG`
-* Tape. `TAEUP TP-PL`
-* "One `KR-GS WUPB`
+* Measuring `KPA/PH-RBG`
+* Tape. `KPA/TAEUP TP-PL`
+* "One `KR-GS KPA/WUPB`
 * able `ABL`
 * adapt `A/TAPT`
 * one's `W*UPBS`
@@ -275,7 +280,7 @@
 * everything `EFG`
 * its `EUTS`
 * measure." `PH*ERB TP-PL KR-GS`
-* "No; `KR-GS TPHO STPH*FPLT`
+* "No; `KR-GS KPA/TPHO STPH*FPLT`
 * change," `KHAEUPBG KW-BG KR-GS`
 * younger, `KWRURPBG KW-BG`
 * should `SHO`
@@ -284,11 +289,12 @@
 * reminds `RAO*EUPBDZ`
 * little `HREUL`
 * maidens." `PHAEUD/EPB/-S TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * chopped `KHOPD`
 * chips," `KHEUPS KW-BG KR-GS`
 * last `HRAFT`
 * work. `WORBG TP-PL`
+* The `KPA/-T`
 * rode—that `ROED EPL/TKA*RB THA`
 * is, `S KW-BG`
 * put `PUT`
@@ -296,7 +302,7 @@
 * distinction; `TKWEUPBGS STPH*FPLT`
 * still `STEUL`
 * "hand-rammers." `KR-GS HAPBD H-PB xxx rammers TP-PL KR-GS`
-* "Mai—!" `KR-GS PH*/A*/*EU EPL/TKA*RB SKHRAPL KR-GS`
+* "Mai—!" `KR-GS KPA/PH*/A*/*EU EPL/TKA*RB SKHRAPL KR-GS`
 * bumped `PW*UPLD`
 * pavement. `PAEUFPLT TP-PL`
 * very `SRE`
@@ -325,6 +331,7 @@
 * right `RAOEUT`
 * those `THOZ`
 * maidens. `PHAEUD/EPB/-S TP-PL`
+* And `AFPBD`
 * remained `RE/PHAEUPBD`
 * were; `WR STPH*FPLT`
 * really `R-L`

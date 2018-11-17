@@ -10,45 +10,46 @@
 * off `OF`
 * between `TWAOEPB`
 * the `-T`
-* Birds `PWEURDZ`
+* Birds `KPA/PWEURDZ`
 * and `SKP`
-* Beasts. `PWAOEFT/-S TP-PL`
-* When `WHEPB`
+* Beasts. `KPA/PWAOEFT/-S TP-PL`
+* When `KPA/WHEPB`
 * two `TWO`
 * armies `AR/PHAOES`
 * were `WR`
 * collected `KHREBGD`
 * together `TOGT`
-* Bat `PWAT`
+* Bat `KPA/PWAT`
 * hesitated `HES/TAEUT/-D`
 * which `WEU`
 * join. `SKWROEUPB TP-PL`
+* The `KPA/-T`
 * that `THA`
 * passed `PAFD`
 * his `HEUS`
 * perch `PEFRPB`
 * said: `SAEUD STPH-FPLT`
-* "Come `KR-GS KOPL`
+* "Come `KR-GS KPA/KOPL`
 * with `W`
 * us"; `US KR-GS STPH*FPLT`
 * but `PWUT`
-* He `HE`
+* he `HE`
 * "I `KR-GS EU`
 * am `APL`
 * a `AEU`
-* Beast." `PWAOEFT TP-PL KR-GS`
-* Later `HRAEURT`
+* Beast." `KPA/PWAOEFT TP-PL KR-GS`
+* Later `KPA/HRAEURT`
 * on, `OPB KW-BG`
 * some `SOPL`
-* Beasts `PWAOEFT/-S`
+* Beasts `KPA/PWAOEFT/-S`
 * who `WHO`
 * passing `PAFG`
 * underneath `UPBD/TPHO*ET`
 * him `HEUPL`
 * looked `HRAOBGD`
 * up `UP`
-* Bird." `PWEURD TP-PL KR-GS`
-* Luckily `HRULG`
+* Bird." `KPA/PWEURD TP-PL KR-GS`
+* Luckily `KPA/HRULG`
 * at `AT`
 * last `HRAFT`
 * moment `PHOEPLT`
@@ -71,9 +72,10 @@
 * had `H`
 * fly `TPHRAOEU`
 * away. `A/WAEU TP-PL`
+* He `KPA/HE`
 * then `THEPB`
 * went `WEPBT`
-* Beasts, `PWAOEFT/-S KW-BG`
+* Beasts, `KPA/PWAOEFT/-S KW-BG`
 * soon `SAOPB`
 * beat `PWAET`
 * retreat, `RE/TRAOET KW-BG`
@@ -83,12 +85,12 @@
 * have `SR`
 * torn `TORPB`
 * pieces. `PAOEFS TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * said `SAEUD`
-* Bat, `PWAT KW-BG`
+* Bat, `KPA/PWAT KW-BG`
 * see `SAOE`
 * now, `TPHOU KW-BG`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * is `S`
 * neither `TPHAOERT`
 * one `WUPB`

@@ -1,10 +1,10 @@
 # The Wolf and the Lamb
 
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * upon `POPB`
 * a `AEU`
 * time `TAOEUPL`
-* Wolf `WOFL`
+* Wolf `KPA/WOFL`
 * was `WAS`
 * lapping `HRAPG`
 * at `AT`
@@ -19,7 +19,7 @@
 * he `HE`
 * see `SAOE`
 * but `PWUT`
-* Lamb `HRAPL`
+* Lamb `KPA/HRAPL`
 * just `SKWRUFT`
 * beginning `TKPWEUPB/-G`
 * to `TO`
@@ -27,7 +27,7 @@
 * little `HREUL`
 * lower `HROUR`
 * down. `TKOUPB TP-PL`
-* "There's `KR-GS THR AES`
+* "There's `KR-GS KPA/THR AES`
 * my `PHEU`
 * supper," `SAOURP KW-BG KR-GS`
 * thought `THAUT`
@@ -45,8 +45,8 @@
 * called `KAULD`
 * out `OUT`
 * the `-T`
-* Lamb, `HRAPL KW-BG`
-* "How `KR-GS HOU`
+* Lamb, `KPA/HRAPL KW-BG`
+* "How `KR-GS KPA/HOU`
 * dare `TKAEUR`
 * you `U`
 * muddle `PH*ULD`
@@ -55,7 +55,7 @@
 * which `WEU`
 * am `APL`
 * drinking?" `TKREUG H-F KR-GS`
-* "Nay, `KR-GS TPHAEU KW-BG`
+* "Nay, `KR-GS KPA/TPHAEU KW-BG`
 * master, `PHAFRT KW-BG`
 * nay," `TPHAEU KW-BG KR-GS`
 * said `SAEUD`
@@ -73,9 +73,9 @@
 * runs `RUPBS`
 * down `TKOUPB`
 * me." `PHE TP-PL KR-GS`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * then," `THEPB KW-BG KR-GS`
-* Wolf, `WOFL KW-BG`
+* Wolf, `KPA/WOFL KW-BG`
 * "why `KR-GS KWR`
 * did `TK`
 * call `KAUL`
@@ -85,9 +85,9 @@
 * this `TH`
 * last `HRAFT`
 * year?" `KWRAOER H-F KR-GS`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * be," `-B KW-BG KR-GS`
-* Lamb; `HRAPL STPH*FPLT`
+* Lamb; `KPA/HRAPL STPH*FPLT`
 * "I `KR-GS EU`
 * six `SEUBGS`
 * months `PHO*PBTS`
@@ -95,7 +95,7 @@
 * don't `TKOEPBT`
 * care," `KAEUR KW-BG KR-GS`
 * snarled `STPHARPLD`
-* Wolf; `WOFL STPH*FPLT`
+* Wolf; `KPA/WOFL STPH*FPLT`
 * not `TPHOT`
 * your `KWROUR`
 * father;" `TPAER STPH*FPLT KR-GS`
@@ -108,7 +108,7 @@
 * her `HER`
 * all `AUL`
 * up. `UP TP-PL`
-* Any `TPHEU`
+* Any `KPA/TPHEU`
 * will `HR`
 * serve `SEFRB`
 * tyrant. `TAOEURPBT TP-PL`

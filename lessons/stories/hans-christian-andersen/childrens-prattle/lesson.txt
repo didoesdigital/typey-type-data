@@ -1,6 +1,6 @@
 Children's Prattle
 
-'At': AT
+'At': KPA/AT
 'a': AEU
 'rich': REUFP
 'merchant's': PHEFRPBT AES
@@ -20,7 +20,7 @@ Children's Prattle
 'people': PAOEPL
 'were': WR
 'there.': THR TP-PL
-'The': -T
+'The': KPA/-T
 'merchant': PHEFRPBT
 'was': WAS
 'a': AEU
@@ -40,7 +40,7 @@ Children's Prattle
 'passed': PAFD
 'his': HEUS
 'examination.': KP-GS TP-PL
-'His': HEUS
+'His': KPA/HEUS
 'father': TPAER
 'had': H
 'been': PW-PB
@@ -72,7 +72,7 @@ Children's Prattle
 'increase': EUPB/KRAES
 'his': HEUS
 'store.': STOR TP-PL
-'Clever': KHREFR
+'Clever': KPA/KHREFR
 'as': AZ
 'he': HE
 'was,': WAS KW-BG
@@ -93,7 +93,7 @@ Children's Prattle
 'of': -F
 'his': HEUS
 'money.': PHUPB TP-PL
-'All': AUL
+'All': KPA/AUL
 'descriptions': SKREUFPGS
 'of': -F
 'people': PAOEPL
@@ -116,7 +116,7 @@ Children's Prattle
 'of': -F
 'these': THEZ
 'recommendations.': REPLGS/-S TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'it': T
 'was': WAS
 'a': AEU
@@ -135,7 +135,7 @@ Children's Prattle
 'from': TPR
 'the': -T
 'heart.': HART TP-PL
-'Among': PHOPBG
+'Among': KPA/PHOPBG
 'them': THEPL
 'was': WAS
 'a': AEU
@@ -166,13 +166,13 @@ Children's Prattle
 'too': TAO
 'sensible': SEPBS/-BL
 'people.': PAOEPL TP-PL
-'Her': HER
+'Her': KPA/HER
 'father': TPAER
 'was': WAS
 'groom': TKPWRAOPL
 'of': -F
 'the': -T
-'Chambers,': KHAEURPLS KW-BG
+'Chambers,': KPA/KHAEURPLS KW-BG
 'which': WEU
 'is': S
 'a': AEU
@@ -238,7 +238,7 @@ Children's Prattle
 'in': TPH
 'the': -T
 'world.': WORLD TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'no': TPHO
 'use': AOUS
@@ -259,7 +259,7 @@ Children's Prattle
 'never': TPHEF
 'achieve': A/KHAOEF
 'anything.': TPHEUG TP-PL
-'"And': KR-GS SKP
+'"And': KR-GS AFPBD
 'those': THOZ
 'whose': WHOZ
 'names': TPHAEUPLS
@@ -274,7 +274,7 @@ Children's Prattle
 'anything': TPHEUG
 'at': AT
 'all.': AUL TP-PL
-'We': WE
+'We': KPA/WE
 'must': PHUFT
 'put': PUT
 'our': OUR
@@ -297,7 +297,7 @@ Children's Prattle
 'a': AEU
 'great': TKPWRAET
 'distance."': STKAPBS TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'then': THEPB
 'she': SHE
 'stuck': STUBG
@@ -333,7 +333,7 @@ Children's Prattle
 'a': AEU
 'sweet-looking': SWAOET H-PB HRAOG
 'child.': KHAOEULD TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'little': HREUL
 'daughter': TKAUR
@@ -370,7 +370,7 @@ Children's Prattle
 'as': AZ
 'she': SHE
 'could,': KO KW-BG
-'"But': KR-GS PWUT
+'"But': KR-GS KPA/PWUT
 'my': PHEU
 'papa': PA/PA
 'can': K
@@ -387,12 +387,12 @@ Children's Prattle
 'away': A/WAEU
 'to': TO
 'children.': KHEURPB TP-PL
-'Can': K
+'Can': KPA/K
 'your': KWROUR
 'papa': PA/PA
 'do': TKO
 'that?"': THA H-F KR-GS
-'"Yes;': KR-GS KWRE STPH*FPLT
+'"Yes;': KR-GS KPA/KWRE STPH*FPLT
 'and': SKP
 'my': PHEU
 'papa,"': PA/PA KW-BG KR-GS
@@ -418,7 +418,7 @@ Children's Prattle
 'into': TPHAO
 'the': -T
 'newspaper.': TPHUP TP-PL
-'All': AUL
+'All': KPA/AUL
 'sorts': SORTS
 'of': -F
 'people': PAOEPL
@@ -439,7 +439,7 @@ Children's Prattle
 'with': W
 'the': -T
 'paper."': PAEUP TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'the': -T
 'little': HREUL
 'maiden': PHAEUD/*EPB
@@ -461,7 +461,7 @@ Children's Prattle
 'to': TO
 'look': HRAOBG
 'proud.': PROUD TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'outside': OUDZ
 'the': -T
 'door,': TKAOR KW-BG
@@ -479,7 +479,7 @@ Children's Prattle
 'of': -F
 'the': -T
 'door.': TKAOR TP-PL
-'He': HE
+'He': KPA/HE
 'was': WAS
 'of': -F
 'such': SUFP
@@ -497,7 +497,7 @@ Children's Prattle
 'enter': SPWER
 'the': -T
 'room.': RAOPL TP-PL
-'He': HE
+'He': KPA/HE
 'had': H
 'been': PW-PB
 'turning': TURPBG
@@ -540,7 +540,7 @@ Children's Prattle
 'a': AEU
 'great': TKPWRAET
 'deal.': TKAOEL TP-PL
-'"Oh,': KR-GS O*E KW-BG
+'"Oh,': KR-GS KPA/O*E KW-BG
 'if': TP
 'I': EU
 'could': KO
@@ -568,7 +568,7 @@ Children's Prattle
 'him': HEUPL
 'more': PHOR
 'unhappy.': UPB/HAEP TP-PL
-'His': HEUS
+'His': KPA/HEUS
 'parents': PARPBTS
 'at': AT
 'home': HOEPL
@@ -619,7 +619,7 @@ Children's Prattle
 'very': SRE
 'sad': SAD
 'thought.': THAUT TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'after': AF
 'all,': AUL KW-BG
 'he': HE
@@ -644,7 +644,7 @@ Children's Prattle
 'must': PHUFT
 'be': -B
 'content.': KAUPBT TP-PL
-'And': SKP
+'And': AFPBD
 'this': TH
 'is': S
 'what': WHA
@@ -652,7 +652,7 @@ Children's Prattle
 'on': OPB
 'that': THA
 'evening.': AOEPBG TP-PL
-'Many': PHAEPB
+'Many': KPA/PHAEPB
 'years': KWRAOERS
 'passed,': PAFD KW-BG
 'and': SKP
@@ -663,7 +663,7 @@ Children's Prattle
 'became': PWAEUPL
 'grown-up': TKPWR*UP
 'persons.': PERPBZ TP-PL
-'There': THR
+'There': KPA/THR
 'stood': STAOD
 'a': AEU
 'splendid': SPHREPBD/EUD
@@ -680,7 +680,7 @@ Children's Prattle
 'and': SKP
 'valuable': SRABL
 'objects.': OBS TP-PL
-'Everybody': EFB
+'Everybody': KPA/EFB
 'wished': WEURBD
 'to': TO
 'see': SAOE
@@ -703,7 +703,7 @@ Children's Prattle
 'treasures': TR-RBS
 'it': T
 'contained.': TAEUPBD TP-PL
-'Which': WEU
+'Which': KPA/WEU
 'of': -F
 'the': -T
 'children': KHEURPB
@@ -718,7 +718,7 @@ Children's Prattle
 'house': HOUS
 'his': HEUS
 'own?': OEPB H-F
-'One': WUPB
+'One': KPA/WUPB
 'would': WO
 'suppose': SPOS
 'it': T
@@ -726,7 +726,7 @@ Children's Prattle
 'easy': EZ
 'to': TO
 'guess.': TKPWES TP-PL
-'No,': TPHO KW-BG
+'No,': KPA/TPHO KW-BG
 'no;': TPHO STPH*FPLT
 'it': T
 'is': S
@@ -734,7 +734,7 @@ Children's Prattle
 'so': SO
 'very': SRE
 'easy.': EZ TP-PL
-'The': -T
+'The': KPA/-T
 'house': HOUS
 'belonged': PWHROPBGD
 'to': TO
@@ -751,7 +751,7 @@ Children's Prattle
 'behind': HEUPBD
 'the': -T
 'door.': TKAOR TP-PL
-'He': HE
+'He': KPA/HE
 'had': H
 'really': R-L
 'become': PW-BG
@@ -766,7 +766,7 @@ Children's Prattle
 'it': T
 'was': WAS
 'Thorwaldsen.': xxx Thorwaldsen TP-PL
-'And': SKP
+'And': AFPBD
 'the': -T
 'three': THRAOE
 'other': OER

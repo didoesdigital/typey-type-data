@@ -6,9 +6,9 @@
 * arisen `A/RAOEUZ/-D`
 * between `TWAOEPB`
 * the `-T`
-* Horse `HORS`
+* Horse `KPA/HORS`
 * and `SKP`
-* Stag, `STAG KW-BG`
+* Stag, `KPA/STAG KW-BG`
 * so `SO`
 * came `KAEUPL`
 * to `TO`
@@ -20,11 +20,12 @@
 * take `TAEUBG`
 * revenge `RE/SREPBG`
 * on `OPB`
-* Stag. `STAG TP-PL`
+* Stag. `KPA/STAG TP-PL`
+* The `KPA/-T`
 * agreed, `TKPWRAED KW-BG`
 * but `PWUT`
 * said: `SAEUD STPH-FPLT`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * you `U`
 * desire `STKAOEUR`
 * conquer `KAUPB/KER`
@@ -64,12 +65,12 @@
 * saddled `SAD/-LD`
 * bridled `PWRAOEUD/-LD`
 * him. `HEUPL TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * aid `AEUD`
 * overcame `AUFR/KAEUPL`
 * said `SAEUD`
 * Hunter: `HURPBT STPH-FPLT`
-* "Now, `KR-GS TPHOU KW-BG`
+* "Now, `KR-GS KPA/TPHOU KW-BG`
 * get `TKPWET`
 * off, `OF KW-BG`
 * remove `RE/PHOF`
@@ -79,7 +80,7 @@
 * my `PHEU`
 * mouth `PHO*UT`
 * back." `PWABG TP-PL KR-GS`
-* "Not `KR-GS TPHOT`
+* "Not `KR-GS KPA/TPHOT`
 * fast, `TPAFT KW-BG`
 * friend," `TPREPBD KW-BG KR-GS`
 * Hunter. `HURPBT TP-PL`
@@ -94,7 +95,7 @@
 * are `R`
 * at `AT`
 * present." `PREPBT TP-PL KR-GS`
-* If `TP`
+* If `KPA/TP`
 * men `PHEPB`
 * use `AOUS`
 * for `TPOR`

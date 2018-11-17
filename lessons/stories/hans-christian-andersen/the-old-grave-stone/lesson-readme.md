@@ -1,11 +1,12 @@
 # The Old Grave-Stone
 
-* in `TPH`
+* In `KPA/TPH`
 * a `AEU`
 * house, `HOUS KW-BG`
 * with `W`
 * large `HRARPBLG`
 * courtyard, `KORT/KWRARD KW-BG`
+* in `TPH`
 * provincial `PRO/SREUPBL`
 * town, `TOUPB KW-BG`
 * at `AT`
@@ -53,11 +54,12 @@
 * brightly `PWRAOEULT`
 * dark-blue `TKARBG H-PB PWHRU`
 * sky. `SKAOEU TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * they `THE`
 * not `TPHOT`
 * talking `TAUG`
 * moon, `PHAOPB KW-BG`
+* but `PWUT`
 * large, `HRARPBLG KW-BG`
 * stone `STOEPB`
 * lay `HRAEU`
@@ -68,6 +70,7 @@
 * from `TPR`
 * kitchen `K-FP`
 * door. `TKAOR TP-PL`
+* The `KPA/-T`
 * maids `PHAEUDZ`
 * often `OFPB`
 * laid `HRAEUD`
@@ -84,12 +87,12 @@
 * fond `TPOPBD`
 * playing `PHRA*EUG`
 * it. `T TP-PL`
-* it `T`
+* It `KPA/T`
 * was, `WAS KW-BG`
 * fact, `TPABGT KW-BG`
 * an `APB`
 * grave-stone. `TKPWRAEUF H-PB STOEPB TP-PL`
-* "Yes," `KR-GS KWRE KW-BG KR-GS`
+* "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * said `SAEUD`
 * master `PHAFRT`
 * "I `KR-GS EU`
@@ -104,7 +107,7 @@
 * monuments, `PHOPB/AOUPLTS KW-BG`
 * grave-stones `TKPWRAEUF H-PB STOEPBS`
 * sold. `SOELD TP-PL`
-* my `PHEU`
+* My `KPA/PHEU`
 * father `TPAER`
 * bought `PWAUT`
 * latter; `HRAERT STPH*FPLT`
@@ -119,9 +122,10 @@
 * preserved `PREFBD`
 * whole, `WHOEL KW-BG`
 * courtyard." `KORT/KWRARD TP-PL KR-GS`
-* "Any `KR-GS TPHEU`
+* "Any `KR-GS KPA/TPHEU`
 * can `K`
 * see `SAOE`
+* it `T`
 * is `S`
 * grave-stone," `TKPWRAEUF H-PB STOEPB KW-BG KR-GS`
 * eldest `ELD/EFT`
@@ -167,16 +171,16 @@
 * have `SR`
 * washed `WARBD`
 * stone." `STOEPB TP-PL KR-GS`
-* "Dear `KR-GS TKAER`
+* "Dear `KR-GS KPA/TKAER`
 * me! `PHE SKHRAPL`
 * how `HOU`
 * singular. `SEUPBG/HRAR TP-PL`
-* Why `KWR`
+* Why `KPA/KWR`
 * must `PHUFT`
 * grave-stone `TKPWRAEUF H-PB STOEPB`
 * Preben `xxx Preben`
 * Schwane `xxx Schwane`
-* His `HEUS`
+* his `HEUS`
 * wife." `WAOEUF TP-PL KR-GS`
 * man `PHAPB`
 * who `WHO`
@@ -184,7 +188,7 @@
 * enough `TPHUF`
 * to `TO`
 * grandfather `TKPWR-F`
-* All `AUL`
+* all `AUL`
 * present `PREPBT`
 * room. `RAOPL TP-PL`
 * he `HE`
@@ -195,14 +199,16 @@
 * buried `PWUR/EUD`
 * churchyard `KH*URPBLG/KWRARD`
 * convent. `KOPB/SREPBT TP-PL`
+* They `KPA/THE`
 * worthy `WO*RT/KWREU`
 * couple, `KUPL KW-BG`
 * I `EU`
 * remember `REB`
 * well `WEL`
 * days `TKAEUS`
+* my `PHEU`
 * boyhood. `PWOEU/HAOD TP-PL`
-* Every `EF`
+* Every `KPA/EF`
 * knew `TPHAOU`
 * them, `THEPL KW-BG`
 * esteemed `ES/TAOEPLD`
@@ -281,6 +287,7 @@
 * weeping `WAOEP/-G`
 * like `HRAOEUBG`
 * child. `KHAOEULD TP-PL`
+* He `KPA/HE`
 * spoke `SPOEBG`
 * father, `TPAER KW-BG`
 * few `TPAOU`
@@ -322,7 +329,7 @@
 * man, `PHAPB KW-BG`
 * watch `WAFP`
 * color `KROR`
-* rose `ROEZ`
+* rose `ROES`
 * cheeks `KHAOEBGS`
 * courtship, `xxx courtship KW-BG`
 * beautiful `PWAOUFL`
@@ -332,6 +339,7 @@
 * of, `-F KW-BG`
 * meet `PHAOET`
 * her. `HER TP-PL`
+* And `AFPBD`
 * then `THEPB`
 * talked `TAUBGD`
 * wedding-day; `WEGD H-PB TKAEU STPH*FPLT`
@@ -351,7 +359,7 @@
 * speaking `SPAOEG`
 * hope, `HOEP KW-BG`
 * away. `A/WAEU TP-PL`
-* Ah, `HA*E KW-BG`
+* Ah, `KPA/HA*E KW-BG`
 * well, `WEL KW-BG`
 * so `SO`
 * is; `S STPH*FPLT`
@@ -359,11 +367,13 @@
 * am `APL`
 * old, `OLD KW-BG`
 * was. `WAS TP-PL`
+* Time `KPA/TAOEUPL`
 * passes `PA*FS`
 * away, `A/WAEU KW-BG`
 * things `THEUPBGS`
 * changed. `KHAEUPBGD TP-PL`
 * buried, `PWUR/EUD KW-BG`
+* Old `KPA/OLD`
 * walked `WAUBGD`
 * behind `HEUPBD`
 * coffin. `KOFPB TP-PL`
@@ -410,14 +420,14 @@
 * too `TAO`
 * rotten `ROT/EPB`
 * standing. `STAPBG TP-PL`
-* Afterwards, `A*FRDZ KW-BG`
+* Afterwards, `KPA/A*FRDZ KW-BG`
 * same `SAEUPL`
 * fate `TPAEUT`
 * befell `PWE/TPEL`
 * church, `KHUFRPB KW-BG`
 * destroyed, `TKROEUD KW-BG`
 * Martha, `PHAR/THA KW-BG`
-* Everything `EFG`
+* everything `EFG`
 * else, `ELS KW-BG`
 * sold `SOELD`
 * whoever `WHOFR`
@@ -446,7 +456,7 @@
 * shook `SHAOBG`
 * head `HED`
 * mournfully, `PHOURPB/-FL/HREU KW-BG`
-* "Forgotten! `KR-GS TPORGTD SKHRAPL`
+* "Forgotten! `KR-GS KPA/TPORGTD SKHRAPL`
 * yes, `KWRE KW-BG`
 * will `HR`
 * forgotten!" `TPORGTD SKHRAPL KR-GS`
@@ -477,6 +487,7 @@
 * leaf `HRAOEF`
 * book `PWAOBG`
 * history. `HEUFRT TP-PL`
+* All `KPA/AUL`
 * boy `PWOEU`
 * heard `HAERD`
 * wife `WAOEUF`
@@ -490,17 +501,19 @@
 * pure `PAOUR`
 * air, `AEUR KW-BG`
 * if `TP`
-* God's `TKPWOD AES`
+* God's `TKPWO*D AES`
 * countenance `KOUPBT/TPHAPBS`
 * beamed `PWAEPL/-D`
+* His `KPA/HEUS`
 * world. `WORLD TP-PL`
+* Everything `KPA/EFG`
 * echoed `EBG/OE/-D`
 * moment `PHOEPLT`
 * invisible `EUPB/SREUBL`
 * spirit `SPEURT`
 * whispered `WHEUS/PERD`
 * heart `HART`
-* "Preserve `KR-GS PREFRB`
+* "Preserve `KR-GS KPA/PREFRB`
 * carefully `KA*EUFL`
 * seed `SAOED`
 * entrusted `EPB/TRUFT/-D`
@@ -508,8 +521,9 @@
 * may `PHAE`
 * grow `TKPWROE`
 * thrive. `THRAOEUF TP-PL`
-* Guard `TKPWARD`
+* Guard `KPA/TKPWARD`
 * well. `WEL TP-PL`
+* Through `KPA/THRU`
 * shall `SHAL`
 * obliterated `OB/HREUT/RAEUT/-D`
 * weather-beaten `WHR* H-PB PWAOET/EPB`

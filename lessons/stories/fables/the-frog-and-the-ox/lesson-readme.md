@@ -1,11 +1,11 @@
 # The Frog and the Ox
 
-* "Oh `KR-GS O*E`
-* Father," `TPAER KW-BG KR-GS`
+* "Oh `KR-GS KPA/O*E`
+* Father," `KPA/TPAER KW-BG KR-GS`
 * said `SAEUD`
 * a `AEU`
 * little `HREUL`
-* Frog `TPROG`
+* Frog `KPA/TPROG`
 * to `TO`
 * the `-T`
 * big `PWEUG`
@@ -21,7 +21,7 @@
 * such `SUFP`
 * terrible `TERBL`
 * monster! `PHOPB/STER SKHRAPL`
-* It `T`
+* It `KPA/T`
 * was `WAS`
 * as `AZ`
 * mountain, `PHOUPB/TAEUPB KW-BG`
@@ -30,26 +30,27 @@
 * on `OPB`
 * its `EUTS`
 * head, `HED KW-BG`
-* And `SKP`
+* and `SKP`
 * long `HROPBG`
 * tail, `TAEUL KW-BG`
+* it `T`
 * had `H`
 * hoofs `HAOF/-S`
 * divided `TKWAOEUTD`
 * in `TPH`
 * two." `TWO TP-PL KR-GS`
-* "Tush, `KR-GS TURB KW-BG`
+* "Tush, `KR-GS KPA/TURB KW-BG`
 * child, `KHAOEULD KW-BG`
 * tush," `TURB KW-BG KR-GS`
 * old `OLD`
-* Frog, `TPROG KW-BG`
+* Frog, `KPA/TPROG KW-BG`
 * "that `KR-GS THA`
 * only `OEPBL`
-* Farmer `TPAR/PHER`
-* White's `WHAOEUT AES`
-* Ox. `O*BGS TP-PL`
+* Farmer `KPA/TPAR/PHER`
+* White's `WHAO*EUT AES`
+* Ox. `KPA/O*BGS TP-PL`
 * isn't `S-PBT`
-* So `SO`
+* so `SO`
 * either; `AOERT STPH*FPLT`
 * he `HE`
 * may `PHAE`
@@ -58,7 +59,7 @@
 * taller `TAURL`
 * than `THAPB`
 * I, `EU KW-BG`
-* But `PWUT`
+* but `PWUT`
 * I `EU`
 * could `KO`
 * easily `AOELS`
@@ -69,25 +70,26 @@
 * just `SKWRUFT`
 * you `U`
 * see." `SAOE TP-PL KR-GS`
+* So `KPA/SO`
 * blew `PWHRAOU`
 * himself `H*EUPLS`
 * out, `OUT KW-BG`
 * out. `OUT TP-PL`
-* "Was `KR-GS WAS`
+* "Was `KR-GS KPA/WAS`
 * that?" `THA H-F KR-GS`
 * asked `SK-D`
 * he. `HE TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * much `PHUFP`
 * bigger `PWEURG`
 * that," `THA KW-BG KR-GS`
 * young `KWRUPBG`
-* Frog. `TPROG TP-PL`
-* Again `TKPWEPB`
+* Frog. `KPA/TPROG TP-PL`
+* Again `KPA/TKPWEPB`
 * if `TP`
-* Ox `O*BGS`
+* Ox `KPA/O*BGS`
 * that. `THA TP-PL`
-* "Bigger, `KR-GS PWEURG KW-BG`
+* "Bigger, `KR-GS KPA/PWEURG KW-BG`
 * father, `TPAER KW-BG`
 * bigger," `PWEURG KW-BG KR-GS`
 * reply. `RE/PHREU TP-PL`
@@ -97,6 +99,7 @@
 * blew, `PWHRAOU KW-BG`
 * swelled `SWELD`
 * swelled. `SWELD TP-PL`
+* And `AFPBD`
 * then `THEPB`
 * said: `SAEUD STPH-FPLT`
 * "I'm `KR-GS EU AE PH*`
@@ -104,10 +107,11 @@
 * is `S`
 * not `TPHOT`
 * this. `TH TP-PL`
+* But `KPA/PWUT`
 * at `AT`
 * this `TH`
 * moment `PHOEPLT`
 * burst. `PWUFRT TP-PL`
-* Self-conceit `S*EF H-PB KAUPB/SAOET`
+* Self-conceit `KPA/S*EF H-PB KAUPB/SAOET`
 * lead `HRAED`
 * self-destruction. `S*EF H-PB TKRUBGS TP-PL`

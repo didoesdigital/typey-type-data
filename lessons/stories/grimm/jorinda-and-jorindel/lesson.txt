@@ -1,6 +1,6 @@
 Jorinda and Jorindel
 
-'There': THR
+'There': KPA/THR
 'was': WAS
 'once': WUPBS
 'an': APB
@@ -24,7 +24,7 @@ Jorinda and Jorindel
 'an': APB
 'old': OLD
 'fairy.': TPAEUR/REU TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'this': TH
 'fairy': TPAEUR/REU
 'could': KO
@@ -33,7 +33,7 @@ Jorinda and Jorindel
 'shape': SHAEUP
 'she': SHE
 'pleased.': PHRAOEFD TP-PL
-'All': AUL
+'All': KPA/AUL
 'the': -T
 'day': TKAEU
 'long': HROPBG
@@ -64,7 +64,7 @@ Jorinda and Jorindel
 'old': OLD
 'woman': WOPL
 'again.': TKPWEPB TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'any': TPHEU
 'young': KWRUPBG
 'man': PHAPB
@@ -143,7 +143,7 @@ Jorinda and Jorindel
 'in': TPH
 'the': -T
 'castle.': KAFL TP-PL
-'There': THR
+'There': KPA/THR
 'were': WR
 'seven': SEFPB
 'hundred': HUPBD
@@ -161,7 +161,7 @@ Jorinda and Jorindel
 'birds': PWEURDZ
 'in': TPH
 'them.': THEPL TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'there': THR
 'was': WAS
 'once': WUPBS
@@ -171,7 +171,7 @@ Jorinda and Jorindel
 'name': TPHAEUPL
 'was': WAS
 'Jorinda.': xxx Jorinda TP-PL
-'She': SHE
+'She': KPA/SHE
 'was': WAS
 'prettier': PRET/KWRER
 'than': THAPB
@@ -204,7 +204,7 @@ Jorinda and Jorindel
 'to': TO
 'be': -B
 'married.': PHAERD TP-PL
-'One': WUPB
+'One': KPA/WUPB
 'day': TKAEU
 'they': THE
 'went': WEPBT
@@ -221,7 +221,7 @@ Jorinda and Jorindel
 'and': SKP
 'Jorindel': xxx Jorindel
 'said,': SAEUD KW-BG
-''We': AE WE
+''We': AE KPA/WE
 'must': PHUFT
 'take': TAEUBG
 'care': KAEUR
@@ -235,7 +235,7 @@ Jorinda and Jorindel
 'the': -T
 'fairy's': TPAEUR/REU AES
 'castle.'': KAFL TP-PL AE
-'It': T
+'It': KPA/T
 'was': WAS
 'a': AEU
 'beautiful': PWAOUFL
@@ -259,7 +259,7 @@ Jorinda and Jorindel
 'upon': POPB
 'the': -T
 'green': TKPWRAOEPB
-'underwood': UPBD/WAOD
+'underwood': xxx underwood
 'beneath,': TPHAO*ET KW-BG
 'and': SKP
 'the': -T
@@ -305,7 +305,7 @@ Jorinda and Jorindel
 'another': TPHOER
 'for': TPOR
 'ever.': -FR TP-PL
-'They': THE
+'They': KPA/THE
 'had': H
 'wandered': WAPBD/-D
 'a': AEU
@@ -335,7 +335,7 @@ Jorinda and Jorindel
 'path': PA*T
 'to': TO
 'take.': TAEUBG TP-PL
-'The': -T
+'The': KPA/-T
 'sun': SUPB
 'was': WAS
 'setting': SEGT
@@ -379,7 +379,7 @@ Jorinda and Jorindel
 'of': -F
 'the': -T
 'castle.': KAFL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'shrank': SHRA*PBG
 'for': TPOR
@@ -392,16 +392,16 @@ Jorinda and Jorindel
 'was': WAS
 'just': SKWRUFT
 'singing,': SEUPBG/-G KW-BG
-''The': AE -T
+''The': AE KPA/-T
 'ring-dove': REUPBG H-PB TKOF
 'sang': SAPBG
 'from': TPR
 'the': -T
 'willow': WEUL/HROE
 'spray,': SPRAEU KW-BG
-'Well-a-day!': WEL H-PB AEU H-PB TKAEU SKHRAPL
-'Well-a-day!': WEL H-PB AEU H-PB TKAEU SKHRAPL
-'He': HE
+'Well-a-day!': KPA/WEL H-PB AEU H-PB TKAEU SKHRAPL
+'Well-a-day!': KPA/WEL H-PB AEU H-PB TKAEU SKHRAPL
+'He': KPA/HE
 'mourn'd': PHOURPB AE TK*
 'for': TPOR
 'the': -T
@@ -410,7 +410,7 @@ Jorinda and Jorindel
 'his': HEUS
 'darling': TKARLG
 'mate,': PHAEUT KW-BG
-'Well-a-day!'': WEL H-PB AEU H-PB TKAEU SKHRAPL AE
+'Well-a-day!'': KPA/WEL H-PB AEU H-PB TKAEU SKHRAPL AE
 'when': WHEPB
 'her': HER
 'song': SOPBG
@@ -440,7 +440,7 @@ Jorinda and Jorindel
 'mournful': PHOURPB/-FL
 '_jug,': RUPBD SKWRUG KW-BG
 'jug_.': SKWRUG RUPBD TP-PL
-'An': APB
+'An': KPA/APB
 'owl': OUL
 'with': W
 'fiery': TPAOEU/REU
@@ -454,11 +454,11 @@ Jorinda and Jorindel
 'three': THRAOE
 'times': TAOEUPLS
 'screamed:': SKRAOEPLD STPH-FPLT
-''Tu': AE T*/*U
+''Tu': AE KPA/T*/*U
 'whu!': xxx whu SKHRAPL
-'Tu': T*/*U
+'Tu': KPA/T*/*U
 'whu!': xxx whu SKHRAPL
-'Tu': T*/*U
+'Tu': KPA/T*/*U
 'whu!'': xxx whu SKHRAPL AE
 'Jorindel': xxx Jorindel
 'could': KO
@@ -481,7 +481,7 @@ Jorinda and Jorindel
 'hand': HAPBD
 'or': OR
 'foot.': TPAOT TP-PL
-'And': SKP
+'And': AFPBD
 'now': TPHOU
 'the': -T
 'sun': SUPB
@@ -523,7 +523,7 @@ Jorinda and Jorindel
 'met': PHET
 'one': WUPB
 'another.': TPHOER TP-PL
-'She': SHE
+'She': KPA/SHE
 'mumbled': PHUPL/-BLD
 'something': S-G
 'to': TO
@@ -539,7 +539,7 @@ Jorinda and Jorindel
 'in': TPH
 'her': HER
 'hand.': HAPBD TP-PL
-'Poor': PAOR
+'Poor': KPA/PAOR
 'Jorindel': xxx Jorindel
 'saw': SAU
 'the': -T
@@ -550,7 +550,7 @@ Jorinda and Jorindel
 'could': KO
 'he': HE
 'do?': TKO H-F
-'He': HE
+'He': KPA/HE
 'could': KO
 'not': TPHOT
 'speak,': SPAOEBG KW-BG
@@ -564,7 +564,7 @@ Jorinda and Jorindel
 'where': W-R
 'he': HE
 'stood.': STAOD TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'the': -T
 'fairy': TPAEUR/REU
@@ -576,27 +576,27 @@ Jorinda and Jorindel
 'a': AEU
 'hoarse': HAORS
 'voice:': SROEUS STPH-FPLT
-''Till': AE T*EUL
+''Till': AE KPA/T*EUL
 'the': -T
 'prisoner': PREURZ
 'is': S
 'fast,': TPAFT KW-BG
-'And': SKP
+'And': AFPBD
 'her': HER
 'doom': TKAOPL
 'is': S
 'cast,': KAFT KW-BG
-'There': THR
+'There': KPA/THR
 'stay!': STAEU SKHRAPL
-'Oh,': O*E KW-BG
+'Oh,': KPA/O*E KW-BG
 'stay!': STAEU SKHRAPL
-'When': WHEPB
+'When': KPA/WHEPB
 'the': -T
 'charm': KHARPL
 'is': S
 'around': ARPBD
 'her,': HER KW-BG
-'And': SKP
+'And': AFPBD
 'the': -T
 'spell': SPEL
 'has': HAS
@@ -605,14 +605,14 @@ Jorinda and Jorindel
 'Hie': xxx Hie
 'away!': A/WAEU SKHRAPL
 'away!'': A/WAEU SKHRAPL AE
-'On': OPB
+'On': KPA/OPB
 'a': AEU
 'sudden': SUD
 'Jorindel': xxx Jorindel
 'found': TPOUPBD
 'himself': H*EUPLS
 'free.': TPRAOE TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'fell': TPEL
 'on': OPB
@@ -649,7 +649,7 @@ Jorinda and Jorindel
 'went': WEPBT
 'her': HER
 'way.': WAEU TP-PL
-'He': HE
+'He': KPA/HE
 'prayed,': PRAEUD KW-BG
 'he': HE
 'wept,': WEPT KW-BG
@@ -659,7 +659,7 @@ Jorinda and Jorindel
 'all': AUL
 'in': TPH
 'vain.': SRA*EUPB TP-PL
-''Alas!'': AE A/HRAS SKHRAPL AE
+''Alas!'': AE KPA/A/HRAS SKHRAPL AE
 'he': HE
 'said,': SAEUD KW-BG
 ''what': AE WHA
@@ -667,7 +667,7 @@ Jorinda and Jorindel
 'become': PW-BG
 'of': -F
 'me?'': PHE H-F AE
-'He': HE
+'He': KPA/HE
 'could': KO
 'not': TPHOT
 'go': TKPW
@@ -689,7 +689,7 @@ Jorinda and Jorindel
 'in': TPH
 'keeping': KAOEPG
 'sheep.': SHAOEP TP-PL
-'Many': PHAEPB
+'Many': KPA/PHAEPB
 'a': AEU
 'time': TAOEUPL
 'did': TK
@@ -719,7 +719,7 @@ Jorinda and Jorindel
 'nothing': TPHOG
 'of': -F
 'Jorinda.': xxx Jorinda TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'he': HE
 'dreamt': TKREPLT
@@ -778,7 +778,7 @@ Jorinda and Jorindel
 'his': HEUS
 'Jorinda': xxx Jorinda
 'again.': TKPWEPB TP-PL
-'In': TPH
+'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
 'when': WHEPB
@@ -837,7 +837,7 @@ Jorinda and Jorindel
 'a': AEU
 'costly': KOFT/HREU
 'pearl.': PERL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'plucked': PHRUBGD
 'the': -T
@@ -857,7 +857,7 @@ Jorinda and Jorindel
 'to': TO
 'the': -T
 'castle.': KAFL TP-PL
-'He': HE
+'He': KPA/HE
 'walked': WAUBGD
 'nearer': TPHAOER/*ER
 'than': THAPB
@@ -895,7 +895,7 @@ Jorinda and Jorindel
 'to': TO
 'see': SAOE
 'this.': TH TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'touched': TUFPD
 'the': -T
@@ -924,7 +924,7 @@ Jorinda and Jorindel
 'many': PHAEPB
 'birds': PWEURDZ
 'singing.': SEUPBG/-G TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'he': HE
 'came': KAEUPL
@@ -946,7 +946,7 @@ Jorinda and Jorindel
 'seven': SEFPB
 'hundred': HUPBD
 'cages.': KAEUPBLGS TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'she': SHE
 'saw': SAU
 'Jorindel': xxx Jorindel
@@ -979,7 +979,7 @@ Jorinda and Jorindel
 'was': WAS
 'his': HEUS
 'safeguard.': SAEUF/TKPWARD TP-PL
-'He': HE
+'He': KPA/HE
 'looked': HRAOBGD
 'around': ARPBD
 'at': AT
@@ -1003,7 +1003,7 @@ Jorinda and Jorindel
 'was': WAS
 'his': HEUS
 'Jorinda?': xxx Jorinda H-F
-'While': WHAOEUL
+'While': KPA/WHAOEUL
 'he': HE
 'was': WAS
 'thinking': THEUG
@@ -1033,7 +1033,7 @@ Jorinda and Jorindel
 'through': THRU
 'the': -T
 'door.': TKAOR TP-PL
-'He': HE
+'He': KPA/HE
 'ran': RAPB
 'or': OR
 'flew': TPHRAOU
@@ -1072,7 +1072,7 @@ Jorinda and Jorindel
 'in': TPH
 'the': -T
 'wood.': WAOD TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'he': HE
 'touched': TUFPD
 'all': AUL

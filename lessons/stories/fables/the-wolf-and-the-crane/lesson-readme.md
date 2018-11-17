@@ -1,7 +1,7 @@
 # The Wolf and the Crane
 
 * A `KPA/AEU`
-* Wolf `WOFL`
+* Wolf `KPA/WOFL`
 * had `H`
 * been `PW-PB`
 * gorging `TKPWORPBLG/-G`
@@ -16,7 +16,7 @@
 * small `SPHAL`
 * bone `PWOEPB`
 * in `TPH`
-* The `-T`
+* the `-T`
 * meat `PHAET`
 * stuck `STUBG`
 * his `HEUS`
@@ -26,6 +26,7 @@
 * not `TPHOT`
 * swallow `SWO*EUL`
 * it. `T TP-PL`
+* He `KPA/HE`
 * soon `SAOPB`
 * felt `TPELT`
 * terrible `TERBL`
@@ -55,13 +56,13 @@
 * said `SAEUD`
 * he, `HE KW-BG`
 * "if `KR-GS TP`
-* You `U`
+* you `U`
 * take `TAEUBG`
 * it `T`
 * out." `OUT TP-PL KR-GS`
-* at `AT`
+* At `KPA/AT`
 * last `HRAFT`
-* Crane `KRAEUPB`
+* Crane `KRA*EUPB`
 * agreed `TKPWRAED`
 * try, `TREU KW-BG`
 * told `TOLD`
@@ -72,31 +73,34 @@
 * as `AZ`
 * wide `WAOEUD`
 * could. `KO TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * put `PUT`
 * its `EUTS`
 * long `HROPBG`
 * neck `TPHEBG`
-* Wolf's `WOFL AES`
+* Wolf's `KPA/WOFL AES`
 * with `W`
 * beak `PWAOEBG`
 * loosened `HRAOS/-PBD`
 * bone, `PWOEPB KW-BG`
 * till `T*EUL`
+* at `AT`
 * got `TKPWOT`
 * out. `OUT TP-PL`
-* "Will `KR-GS HR`
+* "Will `KR-GS W*EUL`
 * kindly `KAOEUPBD/HREU`
 * me `PHE`
 * reward `RE/WARD`
 * promised?" `PROPLS/-D H-F KR-GS`
-* Crane. `KRAEUPB TP-PL`
+* Crane. `KRA*EUPB TP-PL`
+* The `KPA/-T`
 * grinned `TKPWREUPB/-D`
 * showed `SHOED`
 * teeth `TAO*ET`
 * said: `SAEUD STPH-FPLT`
-* "Be `KR-GS -B`
+* "Be `KR-GS KPA/-B`
 * content. `KAUPBT TP-PL`
+* You `KPA/U`
 * have `SR`
 * your `KWROUR`
 * head `HED`
@@ -111,7 +115,7 @@
 * be `-B`
 * enough `TPHUF`
 * you." `U TP-PL KR-GS`
-* Gratitude `TKPWRAT/TAOUD`
+* Gratitude `KPA/TKPWRAT/TAOUD`
 * greed `TKPWRAOED`
 * go `TKPW`
 * together. `TOGT TP-PL`

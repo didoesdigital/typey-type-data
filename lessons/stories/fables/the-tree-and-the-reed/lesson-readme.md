@@ -1,13 +1,13 @@
 # The Tree and the Reed
 
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * little `HREUL`
 * one," `WUPB KW-BG KR-GS`
 * said `SAEUD`
 * a `AEU`
-* Tree `TRAOE`
+* Tree `KPA/TRAOE`
 * to `TO`
-* Reed `RAOED`
+* Reed `RAO*ED`
 * that `THA`
 * was `WAS`
 * growing `TKPWROEG`
@@ -39,7 +39,7 @@
 * with `W`
 * my `PHEU`
 * lot," `HROT KW-BG KR-GS`
-* Reed. `RAOED TP-PL`
+* Reed. `RAO*ED TP-PL`
 * may `PHAE`
 * be `-B`
 * so `SO`
@@ -47,10 +47,10 @@
 * but `PWUT`
 * think `THEU`
 * safer." `SAEUFR TP-PL KR-GS`
-* "Safe!" `KR-GS SAEUF SKHRAPL KR-GS`
+* "Safe!" `KR-GS KPA/SAEUF SKHRAPL KR-GS`
 * sneered `STPHAOER/-D`
-* Tree. `TRAOE TP-PL`
-* "Who `KR-GS WHO`
+* Tree. `KPA/TRAOE TP-PL`
+* "Who `KR-GS KPA/WHO`
 * shall `SHAL`
 * pluck `PHRUBG`
 * me `PHE`
@@ -78,7 +78,7 @@
 * log `HROG`
 * on `OPB`
 * while `WHAOEUL`
-* Reed, `RAOED KW-BG`
+* Reed, `RAO*ED KW-BG`
 * bending `PWEPBGD`
 * force `TPORS`
 * wind, `WEUPBD KW-BG`
@@ -89,7 +89,7 @@
 * storm `STORPL`
 * passed `PAFD`
 * over. `OEFR TP-PL`
-* Obscurity `OB/SKURT`
+* Obscurity `KPA/OB/SKURT`
 * often `OFPB`
 * brings `PWREUS`
 * safety. `SAEFT TP-PL`

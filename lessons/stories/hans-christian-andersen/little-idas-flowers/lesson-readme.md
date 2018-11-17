@@ -1,6 +1,6 @@
 # Little Ida's Flowers
 
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * poor `PAOR`
 * flowers `TPHRO*URS`
 * are `R`
@@ -9,7 +9,7 @@
 * said `SAEUD`
 * little `HREUL`
 * Ida, `xxx Ida KW-BG`
-* "They `KR-GS THE`
+* "they `KR-GS THE`
 * were `WR`
 * so `SO`
 * pretty `PREUT`
@@ -23,12 +23,12 @@
 * hanging `HAPBG/-G`
 * down `TKOUPB`
 * withered. `WEU/THER/-D TP-PL`
-* what `WHA`
+* What `KPA/WHA`
 * do `TKO`
 * they `THE`
 * that `THA`
 * for," `TPOR KW-BG KR-GS`
-* She `SHE`
+* she `SHE`
 * asked, `SK-D KW-BG`
 * of `-F`
 * student `STAUPB`
@@ -64,7 +64,7 @@
 * a `AEU`
 * delightful `TKHRAOEUT/-FL`
 * student. `STAUPB TP-PL`
-* "Why `KR-GS KWR`
+* "Why `KR-GS KPA/KWR`
 * look `HRAOBG`
 * faded `TPAEUD/-D`
 * to-day?" `TO H-PB TKAEU H-F KR-GS`
@@ -78,31 +78,32 @@
 * "Don't `KR-GS TKO*PB AE T*`
 * you `U`
 * know `TPHOE`
+* what `WHA`
 * is `S`
 * matter `PHAERT`
 * them?" `THEPL H-F KR-GS`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * at `AT`
 * ball `PWAUL`
 * last `HRAFT`
 * night, `TPHAOEUT KW-BG`
 * therefore, `TH-FR KW-BG`
-* It `T`
+* it `T`
 * no `TPHO`
 * wonder `WOPBD`
 * hang `HAPBG`
 * their `THAEUR`
 * heads." `HEDZ TP-PL KR-GS`
-* "but `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * cannot `K/TPHOT`
 * dance?" `TKAPBS H-F KR-GS`
 * cried `KRAOEUD`
 * Ida. `xxx Ida TP-PL`
-* "Yes `KR-GS KWRE`
+* "Yes `KR-GS KPA/KWRE`
 * indeed, `TPHAOEPBD KW-BG`
 * can," `K KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
-* "When `KR-GS WHEPB`
+* "When `KR-GS KPA/WHEPB`
 * grows `TKPWRO*ES`
 * dark, `TKARBG KW-BG`
 * everybody `EFB`
@@ -110,28 +111,29 @@
 * jump `SKWRUFRP`
 * about `PW`
 * merrily. `PHER/HREU TP-PL`
+* They `KPA/THE`
 * have `SR`
 * almost `HR-PL`
 * every `EF`
 * night." `TPHAOEUT TP-PL KR-GS`
-* "Can `KR-GS K`
+* "Can `KR-GS KPA/K`
 * children `KHEURPB`
 * go `TKPW`
 * these `THEZ`
 * balls?" `PWAULS H-F KR-GS`
-* "Yes," `KR-GS KWRE KW-BG KR-GS`
+* "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * student, `STAUPB KW-BG`
 * "little `KR-GS HREUL`
 * daisies `TKAEUS/KWREU/-S`
 * lilies `HREUL/KWREU/KWREU/-S`
 * valley." `SRAL/HREU TP-PL KR-GS`
-* "Where `KR-GS W-R`
+* "Where `KR-GS KPA/W-R`
 * beautiful `PWAOUFL`
-* "Have `KR-GS SR`
+* "Have `KR-GS KPA/SR`
 * not `TPHOT`
 * often `OFPB`
 * seen `SAOEPB`
-* Large `HRARPBLG`
+* large `HRARPBLG`
 * castle `KAFL`
 * outside `OUDZ`
 * gates `TKPWAETS`
@@ -144,6 +146,7 @@
 * garden `TKPWA*RPB`
 * full `TPUL`
 * flowers? `TPHRO*URS H-F`
+* And `AFPBD`
 * fed `TPED`
 * swans `SWAPBS`
 * bread `PWRAED`
@@ -151,29 +154,32 @@
 * swam `SWAPL`
 * towards `TORDZ`
 * you? `U H-F`
-* Well, `WEL KW-BG`
+* Well, `KPA/WEL KW-BG`
 * capital `KAPLT`
 * balls `PWAULS`
 * there, `THR KW-BG`
 * believe `PWHREF`
 * me." `PHE TP-PL KR-GS`
 * "I `KR-GS EU`
-* There `THR`
+* there `THR`
 * my `PHEU`
 * mother," `PHOER KW-BG KR-GS`
+* "but `KR-GS PWUT`
 * off `OF`
 * trees, `TRAOES KW-BG`
 * single `SEUPBLG`
 * flower `TPHRO*UR`
 * left. `HREFT TP-PL`
+* Where `KPA/W-R`
 * they? `THE H-F`
 * I `EU`
 * used `AOUFD`
 * see `SAOE`
 * many `PHAEPB`
 * summer." `SAOURPL TP-PL KR-GS`
+* "They `KR-GS KPA/THE`
 * castle," `KAFL KW-BG KR-GS`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * must `PHUFT`
 * soon `SAOPB`
 * court `KORT`
@@ -185,6 +191,7 @@
 * how `HOU`
 * merry `PHER/REU`
 * are. `R TP-PL`
+* The `KPA/-T`
 * two `TWO`
 * roses `ROESZ`
 * seat `SAOET`
@@ -200,7 +207,7 @@
 * side, `SAOEUD KW-BG`
 * bow, `PWOE KW-BG`
 * lords-in-waiting. `HRORDZ H-PB TPH H-PB WAEUGT TP-PL`
-* after `AF`
+* After `KPA/AF`
 * come `KOPL`
 * in, `TPH KW-BG`
 * grand `TKPWRAPBD`
@@ -227,7 +234,7 @@
 * conducted `KUBGTD`
 * order `ORD`
 * propriety." `PRO/PRAOEUT TP-PL KR-GS`
-* "But," `KR-GS PWUT KW-BG KR-GS`
+* "But," `KR-GS KPA/PWUT KW-BG KR-GS`
 * "is `KR-GS S`
 * one `WUPB`
 * hurt `HURT`
@@ -235,16 +242,16 @@
 * dancing `TKAPBS/-G`
 * king's `KEUPBG/AES`
 * castle?" `KAFL H-F KR-GS`
-* "No `KR-GS TPHO`
+* "No `KR-GS KPA/TPHO`
 * knows `TPHOEZ`
 * anything `TPHEUG`
 * it," `T KW-BG KR-GS`
 * steward `STAOURD`
 * has `HAS`
-* Sometimes `STAOEUPLS`
+* sometimes `STAOEUPLS`
 * comes `KOPLS`
 * in; `TPH STPH*FPLT`
-* But `PWUT`
+* but `PWUT`
 * carries `KAERS`
 * great `TKPWRAET`
 * bunch `PWUFRPB`
@@ -262,16 +269,17 @@
 * peeping `PAOEPG`
 * heads `HEDZ`
 * out. `OUT TP-PL`
+* Then `KPA/THEPB`
 * says, `SEZ KW-BG`
 * 'I `AE EU`
 * smell `SPHEL`
 * here,' `HAOER KW-BG AE`
 * them." `THEPL TP-PL KR-GS`
-* "oh `KR-GS O*E`
+* "Oh `KR-GS KPA/O*E`
 * capital," `KAPLT KW-BG KR-GS`
 * clapping `KHRAP/-G`
 * hands. `HAPBDZ TP-PL`
-* "Should `KR-GS SHO`
+* "Should `KR-GS KPA/SHO`
 * able `ABL`
 * flowers?" `TPHRO*URS H-F KR-GS`
 * "mind `KR-GS PHAOEUPBD`
@@ -294,11 +302,12 @@
 * lying `HRAOEUG`
 * stretched `STREFPD`
 * sofa. `SOEF/A TP-PL`
+* She `KPA/SHE`
 * lady." `HRA*ED TP-PL KR-GS`
 * from `TPR`
-* botanical `PWO/TAPB/K-L`
-* Gardens `TKPWARD/-PBS`
-* "It `KR-GS T`
+* Botanical `KPA/PWO/TAPB/K-L`
+* Gardens `KPA/TKPWARD/-PBS`
+* "It `KR-GS KPA/T`
 * such `SUFP`
 * distance!" `STKAPBS SKHRAPL KR-GS`
 * yes," `KWRE KW-BG KR-GS`
@@ -306,6 +315,7 @@
 * like, `HRAOEUBG KW-BG`
 * can `K`
 * fly. `TPHRAOEU TP-PL`
+* Have `KPA/SR`
 * those `THOZ`
 * red, `RED KW-BG`
 * white, `WHAOEUT KW-BG`
@@ -319,12 +329,13 @@
 * wings `WEUPBGS`
 * make `PHAEUBG`
 * them `THEPL`
-* then, `THEPB KW-BG`
+* Then, `KPA/THEPB KW-BG`
 * behave `PWAEUF`
+* well, `WEL KW-BG`
 * obtain `OB/TAEUPB`
 * permission `PERPLGS`
 * fly `TPHRAOEU`
-* During `TKURG`
+* during `TKURG`
 * day, `TKAEU KW-BG`
 * instead `STPHED`
 * being `-BG`
@@ -335,6 +346,7 @@
 * become `PW-BG`
 * real `RAEL`
 * wings. `WEUPBGS TP-PL`
+* It `KPA/T`
 * be, `-B KW-BG`
 * however, `HOUF KW-BG`
 * never `TPHEF`
@@ -347,11 +359,13 @@
 * place `PHRAEUS`
 * there. `THR TP-PL`
 * do, `TKO KW-BG`
+* botanical `PWO/TAPB/K-L`
 * professor, `PROEFR KW-BG`
 * close `KHROES`
 * by `PWEU`
 * here, `HAOER KW-BG`
 * surprised. `SPRAOEUFD TP-PL`
+* You `KPA/U`
 * not? `TPHOT H-F`
 * his `HEUS`
 * garden, `TKPWA*RPB KW-BG`
@@ -361,10 +375,12 @@
 * possible. `POB TP-PL`
 * professor `PROEFR`
 * walks `WAUBGS`
+* How `KPA/HOU`
 * them!" `THEPL SKHRAPL KR-GS`
 * another? `TPHOER H-F`
+* Flowers `KPA/TPHRO*URS`
 * speak?" `SPAOEBG H-F KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * certainly `SERPBL`
 * not," `TPHOT KW-BG KR-GS`
 * student; `STAUPB STPH*FPLT`
@@ -378,9 +394,10 @@
 * leaves?" `HREFS H-F KR-GS`
 * understand `URPBD`
 * signs?" `SAOEUPBS H-F KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * sure `SHUR`
 * can. `K TP-PL`
+* He `KPA/HE`
 * went `WEPBT`
 * morning `PHORPBG`
 * stinging `STEUPBG/-G`
@@ -390,9 +407,10 @@
 * its `EUTS`
 * carnation. `KARPB/AEUGS TP-PL`
 * saying, `SAEUG KW-BG`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * pretty, `PREUT KW-BG`
 * much.' `PHUFP TP-PL AE`
+* But `KPA/PWUT`
 * approve `A/PROF`
 * nonsense, `TPHOPB/SEPBS KW-BG`
 * clapped `KHRAP/-D`
@@ -408,7 +426,7 @@
 * since." `SEUPBS TP-PL KR-GS`
 * funny!" `TPAOUPB SKHRAPL KR-GS`
 * laughed. `HRAFD TP-PL`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * anyone `TPHEUPB`
 * put `PUT`
 * notions `TPHOEG/-S`
@@ -425,6 +443,7 @@
 * droll `TKROL`
 * or `OR`
 * pictures. `P*EUFPS TP-PL`
+* Sometimes `KPA/STAOEUPLS`
 * man `PHAPB`
 * gibbet `TKPWEUB/ET`
 * holding `HOELGD`
@@ -473,6 +492,7 @@
 * drawer `TKRAUR`
 * besides `PW-DZ`
 * things. `THEUPBGS TP-PL`
+* Her `KPA/HER`
 * doll `TKOL`
 * Sophy `xxx Sophy`
 * doll's `TKOL AES`
@@ -491,6 +511,7 @@
 * bed, `PWED KW-BG`
 * perhaps `PRAPS`
 * again." `TKPWEPB TP-PL KR-GS`
+* So `KPA/SO`
 * looked `HRAOBGD`
 * cross, `KROS KW-BG`
 * word, `WORD KW-BG`
@@ -513,6 +534,7 @@
 * sun `SUPB`
 * shine `SHAOEUPB`
 * eyes. `AO*EUS TP-PL`
+* During `KPA/TKURG`
 * evening `AOEPBG`
 * help `HEP`
 * thinking `THEUG`
@@ -533,10 +555,12 @@
 * felt `TPELT`
 * knew `TPHAOU`
 * awake `A/WAEUBG`
+* after `AF`
 * garden. `TKPWA*RPB TP-PL`
 * there," `THR KW-BG KR-GS`
 * fell `TPEL`
 * asleep. `A/HRAOEP TP-PL`
+* In `KPA/TPH`
 * night `TPHAOEUT`
 * awoke; `A/WOEBG STPH*FPLT`
 * dreaming `TKRAOEPLG`
@@ -552,6 +576,7 @@
 * Sophy's `xxx Sophy AES`
 * bed," `PWED KW-BG KR-GS`
 * herself; `H*ERS STPH*FPLT`
+* "how `KR-GS HOU`
 * much `PHUFP`
 * know." `TPHOE TP-PL KR-GS`
 * raised `RA*EUFD`
@@ -572,15 +597,16 @@
 * than `THAPB`
 * ever `-FR`
 * heard `HAERD`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * thought, `THAUT KW-BG`
+* "oh `KR-GS O*E`
 * them," `THEPL KW-BG KR-GS`
 * dare `TKAEUR`
 * move `PHOF`
 * fear `TPAOER`
 * disturbing `TKEUS/TURBG`
 * mother. `PHOER TP-PL`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * only `OEPBL`
 * here," `HAOER KW-BG KR-GS`
 * thought; `THAUT STPH*FPLT`
@@ -593,10 +619,11 @@
 * longer. `HRORPBG TP-PL`
 * crept `KREPT`
 * room. `RAOPL TP-PL`
-* Oh `O*E`
+* Oh `KPA/O*E`
 * splendid `SPHREPBD/EUD`
 * sight `SAOEUT`
 * sure! `SHUR SKHRAPL`
+* There `KPA/THR`
 * burning, `PWURPBG KW-BG`
 * light, `HRAOEUT KW-BG`
 * moon `PHAOPB`
@@ -605,6 +632,7 @@
 * upon `POPB`
 * floor, `TPHRAOR KW-BG`
 * day. `TKAEU TP-PL`
+* All `KPA/AUL`
 * stood `STAOD`
 * rows `RO*EZ`
 * room, `RAOPL KW-BG`
@@ -617,13 +645,15 @@
 * other `OER`
 * swung `SWUPBG`
 * round. `ROUPBD TP-PL`
+* At `KPA/AT`
 * piano `PAPB/TPHOE`
 * remembered `RERD`
 * saying `SAEUG`
-* Miss `PHEUS`
+* Miss `KPA/PHEUS`
 * Lina, `xxx Lina KW-BG`
 * friends. `TPREPBDZ TP-PL`
 * laughed `HRAFD`
+* then, `THEPB KW-BG`
 * tall, `TAUL KW-BG`
 * lady. `HRA*ED TP-PL`
 * same `SAEUPL`
@@ -662,7 +692,7 @@
 * yet `KWRET`
 * none `TPHOPB`
 * noticed `TPH-TSD`
-* Presently `PREPBLT`
+* Presently `KPA/PREPBLT`
 * something `S-G`
 * table. `TAEUBL TP-PL`
 * way, `WAEU KW-BG`
@@ -691,7 +721,7 @@
 * danced `TKAPBS/-D`
 * Mazurka; `xxx Mazurka STPH*FPLT`
 * perform `PORPL`
-* This `TH`
+* this `TH`
 * dance, `TKAPBS KW-BG`
 * too `TAO`
 * light `HRAOEUT`
@@ -719,6 +749,7 @@
 * again `TKPWEPB`
 * became `PWAEUPL`
 * doll. `TKOL TP-PL`
+* This `KPA/TH`
 * amusing, `A/PHAOUFG KW-BG`
 * laughing. `HRAFG TP-PL`
 * also. `HR-S TP-PL`
@@ -748,13 +779,13 @@
 * way. `WAEU TP-PL`
 * himself, `H*EUPLS KW-BG`
 * astonished, `A/STOPB/EURBD KW-BG`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * here `HAOER`
 * to-night," `TO H-PB TPHAOEUT KW-BG KR-GS`
 * Sophy. `xxx Sophy TP-PL`
 * somebody `S-B`
 * me?" `PHE H-F KR-GS`
-* "Will `KR-GS HR`
+* "Will `KR-GS W*EUL`
 * right `RAOEUT`
 * sort `SORT`
 * with, `W KW-BG`
@@ -767,13 +798,14 @@
 * dance; `TKAPBS STPH*FPLT`
 * came. `KAEUPL TP-PL`
 * coughed, `KOFD KW-BG`
-* "Hem, `KR-GS HEPL KW-BG`
+* "Hem, `KR-GS KPA/HEPL KW-BG`
 * hem, `HEPL KW-BG`
 * a-hem;" `AEU H-PB HEPL STPH*FPLT KR-GS`
 * shabby `SHAB/KWREU`
 * alone, `A/HROEPB KW-BG`
 * badly, `PWAD/HREU KW-BG`
 * all. `AUL TP-PL`
+* As `KPA/AZ`
 * notice `TPH-TS`
 * let `HRET`
 * noise. `TPHOEUS TP-PL`
@@ -792,10 +824,10 @@
 * bed; `PWED STPH*FPLT`
 * mind `PHAOEUPBD`
 * said,— `SAEUD KW-BG EPL/TKA*RB`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * live `HREUF`
 * long. `HROPBG TP-PL`
-* To-morrow `TO H-PB PHOR/ROE`
+* To-morrow `KPA/TO H-PB PHOR/ROE`
 * we `WE`
 * shall `SHAL`
 * dead; `TKED STPH*FPLT`
@@ -813,19 +845,21 @@
 * imagine `PHAPBLG`
 * from, `TPR KW-BG`
 * unless `TPH-LS`
-* First `TPEURS`
+* First `KPA/TPEURS`
 * lovely `HROFL`
 * roses, `ROESZ KW-BG`
 * golden `TKOELD/*EPB`
 * crowns `KROUPBS`
 * heads; `HEDZ STPH*FPLT`
 * queen. `KWAOEPB TP-PL`
+* Beautiful `KPA/PWAOUFL`
 * stocks `STOBGS`
 * carnations `KARPB/AEUGS/-S`
 * followed, `TPOLD KW-BG`
 * bowing `PWOUG`
 * present. `PREPBT TP-PL`
 * also `HR-S`
+* Large `KPA/HRARPBLG`
 * poppies `POP/PEU/KWREU/-S`
 * peonies `PE/KWRO/TPHAOES`
 * pea-shells `PAE H-PB SHELS`
@@ -850,6 +884,7 @@
 * good-night. `TKPWAOD H-PB TPHAOEUT TP-PL`
 * dreamt `TKREPLT`
 * seen. `SAOEPB TP-PL`
+* When `KPA/WHEPB`
 * arose `A/ROES`
 * morning, `PHORPBG KW-BG`
 * quickly `KWEULG`
@@ -860,7 +895,7 @@
 * before. `PW-F TP-PL`
 * her; `HER STPH*FPLT`
 * sleepy. `SHRAOE/PEU TP-PL`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * remember `REB`
 * stupid, `STAOUPD KW-BG`
 * word. `WORD TP-PL`
@@ -872,7 +907,7 @@
 * painted `PAEUPBTD`
 * birds, `PWEURDZ KW-BG`
 * dead `TKED`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * coffin," `KOFPB KW-BG KR-GS`
 * said; `SAEUD STPH*FPLT`
 * by, `PWEU KW-BG`
@@ -887,6 +922,7 @@
 * names `TPHAEUPLS`
 * James `SKWRAEUPLZ`
 * Adolphus. `A/TKOFL/SKWRUS TP-PL`
+* Their `KPA/THAEUR`
 * given `TKPWEUFPB`
 * bow `PWOE`
 * arrow, `AR/OE KW-BG`

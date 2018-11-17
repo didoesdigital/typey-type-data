@@ -61,7 +61,7 @@
 * seeds `SAOEDZ`
 * Skype `SKAOEUP`
 * tired `TAOEURD`
-* spears `SPAOERS`
+* spears `SPAOERZ`
 * stayed `STAEUD`
 * spare `SPAEUR`
 * tapes `TAEUPS`

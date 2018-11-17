@@ -1,11 +1,11 @@
 The Fox and the Crow
 
 'A': KPA/AEU
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'once': WUPBS
 'saw': SAU
 'a': AEU
-'Crow': KROE
+'Crow': KPA/KROE
 'fly': TPHRAOEU
 'off': OF
 'with': W
@@ -31,9 +31,9 @@ The Fox and the Crow
 'I': EU
 'am': APL
 'a': AEU
-'Fox,"': TPOBGS KW-BG KR-GS
+'Fox,"': KPA/TPOBGS KW-BG KR-GS
 'said': SAEUD
-'Master': PHAFRT
+'Master': KPA/PHAFRT
 'Reynard,': RAEU/TPHARD KW-BG
 'and': SKP
 'he': HE
@@ -45,12 +45,12 @@ The Fox and the Crow
 'of': -F
 'the': -T
 'tree.': TRAOE TP-PL
-'"Good-day,': KR-GS TKPWAOD H-PB TKAEU KW-BG
-'Mistress': PHEUS/TRES
-'Crow,"': KROE KW-BG KR-GS
+'"Good-day,': KR-GS KPA/TKPWAOD H-PB TKAEU KW-BG
+'Mistress': KPA/PHEUS/TRES
+'Crow,"': KPA/KROE KW-BG KR-GS
 'he': HE
 'cried.': KRAOEUD TP-PL
-'"How': KR-GS HOU
+'"How': KR-GS KPA/HOU
 'well': WEL
 'you': U
 'are': R
@@ -95,11 +95,11 @@ The Fox and the Crow
 'you': U
 'as': AZ
 'the': -T
-'Queen': KWAOEPB
+'Queen': KWAO*EPB
 'of': -F
-'Birds."': PWEURDZ TP-PL KR-GS
-'The': -T
-'Crow': KROE
+'Birds."': KPA/PWEURDZ TP-PL KR-GS
+'The': KPA/-T
+'Crow': KPA/KROE
 'lifted': HREUFTD
 'up': UP
 'her': HER
@@ -131,19 +131,19 @@ The Fox and the Crow
 'snapped': STPHAPD
 'up': UP
 'by': PWEU
-'Master': PHAFRT
-'Fox.': TPOBGS TP-PL
-'"That': KR-GS THA
+'Master': KPA/PHAFRT
+'Fox.': KPA/TPOBGS TP-PL
+'"That': KR-GS KPA/THA
 'will': HR
 'do,"': TKO KW-BG KR-GS
 'said': SAEUD
 'he.': HE TP-PL
-'"That': KR-GS THA
+'"That': KR-GS KPA/THA
 'was': WAS
 'all': AUL
 'I': EU
 'wanted.': WAPBTD TP-PL
-'In': TPH
+'In': KPA/TPH
 'exchange': KPAEUPBG
 'for': TPOR
 'your': KWROUR
@@ -159,7 +159,7 @@ The Fox and the Crow
 'for': TPOR
 'the': -T
 'future.': TPAOURT TP-PL
-'"Do': KR-GS TKO
+'"Do': KR-GS KPA/TKO
 'not': TPHOT
 'trust': TRUFT
 'flatterers."': TPHRAT/RER/-S TP-PL KR-GS

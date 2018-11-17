@@ -14,7 +14,7 @@
 * to `TO`
 * the `-T`
 * forest. `TPOEFRT TP-PL`
-* as `AZ`
+* As `KPA/AZ`
 * he `HE`
 * was `WAS`
 * wandering `WAPBGD`
@@ -23,16 +23,16 @@
 * came `KAEUPL`
 * upon `POPB`
 * a `AEU`
-* Lion `HRO*EUPB`
+* Lion `KPA/HRO*EUPB`
 * lying `HRAOEUG`
 * down `TKOUPB`
 * moaning `PHOEPBG`
 * groaning. `TKPWROEPBG TP-PL`
-* at `AT`
+* At `KPA/AT`
 * first `TPEUFRT`
 * turned `TURPBD`
 * flee, `TPHRAOE KW-BG`
-* But `PWUT`
+* but `PWUT`
 * finding `TPAOEPBGD`
 * that `THA`
 * did `TK`
@@ -60,11 +60,12 @@
 * it, `T KW-BG`
 * causing `KAUFG`
 * pain. `PAEUPB TP-PL`
+* He `KPA/HE`
 * pulled `PULD`
 * bound `PWOUPBD`
 * paw `PAU`
 * of `-F`
-* Lion, `HRO*EUPB KW-BG`
+* Lion, `KPA/HRO*EUPB KW-BG`
 * who `WHO`
 * soon `SAOPB`
 * able `ABL`
@@ -83,6 +84,7 @@
 * him `HEUPL`
 * meat `PHAET`
 * live. `HREUF TP-PL`
+* But `KPA/PWUT`
 * shortly `SHORLT`
 * afterwards `A*FRDZ`
 * both `PWO*T`
@@ -100,13 +102,15 @@
 * for `TPOR`
 * several `SEFRL`
 * days. `TKAEUS TP-PL`
-* Emperor `EPL/ROR`
-* Court `KORT`
+* The `KPA/-T`
+* Emperor `KPA/EPL/ROR`
+* Court `KO*RT`
 * see `SAOE`
 * spectacle, `SPEBGT/K-L KW-BG`
 * led `HRED`
 * middle `PH*EULD`
 * arena. `A/RO*EUPB TP-PL`
+* Soon `KPA/SAOPB`
 * let `HRET`
 * loose `HRAOS`
 * den, `TKEPB KW-BG`
@@ -115,6 +119,7 @@
 * roaring `RAORG`
 * towards `TORDZ`
 * victim. `SREUPL TP-PL`
+* as `AZ`
 * near `TPHAOER`
 * recognised `REFD/A*U`
 * friend, `TPREPBD KW-BG`
@@ -122,18 +127,19 @@
 * licked `HREUBG/-D`
 * hands `HAPBDZ`
 * friendly `TPREPBLD`
-* Emperor, `EPL/ROR KW-BG`
+* Emperor, `KPA/EPL/ROR KW-BG`
 * surprised `SPRAOEUFD`
+* at `AT`
 * this, `TH KW-BG`
 * summoned `SPHUPBD`
 * told `TOLD`
 * whole `WHOEL`
 * story. `STOER TP-PL`
-* Whereupon `WRUP`
+* Whereupon `KPA/WRUP`
 * pardoned `PARD/-D`
 * freed, `TPRAOED KW-BG`
 * native `TPHAEUFT`
-* Gratitude `TKPWRAT/TAOUD`
+* Gratitude `KPA/TKPWRAT/TAOUD`
 * is `S`
 * sign `SAOEUPB`
 * noble `TPHOEBL`

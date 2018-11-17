@@ -1,7 +1,7 @@
 The Lion, the Fox, and the Beasts
 
-'The': -T
-'Lion': HRO*EUPB
+'The': KPA/-T
+'Lion': KPA/HRO*EUPB
 'once': WUPBS
 'gave': TKPWAEUF
 'out': OUT
@@ -21,16 +21,16 @@ The Lion, the Fox, and the Beasts
 'hear': HAER
 'his': HEUS
 'last': HRAFT
-'Will': HR
+'Will': W*EUL
 'and': SKP
-'Testament.': TES/TAPLT TP-PL
-'So': SO
+'Testament.': TEFT/TPH-PL/*PLT TP-PL
+'So': KPA/SO
 'the': -T
-'Goat': TKPWO*ET
+'Goat': KPA/TKPWO*ET
 'came': KAEUPL
 'to': TO
 'the': -T
-'Lion's': HRO*EUPB AES
+'Lion's': KPA/HRO*EUPB AES
 'cave,': KAF KW-BG
 'and': SKP
 'stopped': STOPD
@@ -40,9 +40,9 @@ The Lion, the Fox, and the Beasts
 'a': AEU
 'long': HROPBG
 'time.': TAOEUPL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'a': AEU
-'Sheep': SHAOEP
+'Sheep': KPA/SHAOEP
 'went': WEPBT
 'in,': TPH KW-BG
 'and': SKP
@@ -51,7 +51,7 @@ The Lion, the Fox, and the Beasts
 'came': KAEUPL
 'out': OUT
 'a': AEU
-'Calf': KA*FL
+'Calf': KPA/KA*FL
 'came': KAEUPL
 'up': UP
 'to': TO
@@ -61,14 +61,14 @@ The Lion, the Fox, and the Beasts
 'wishes': WEURBS
 'of': -F
 'the': -T
-'Lord': HRORD
+'Lord': HRO*RD
 'of': -F
 'the': -T
-'Beasts.': PWAOEFT/-S TP-PL
-'But': PWUT
+'Beasts.': KPA/PWAOEFT/-S TP-PL
+'But': KPA/PWUT
 'soon': SAOPB
 'the': -T
-'Lion': HRO*EUPB
+'Lion': KPA/HRO*EUPB
 'seemed': SAOEPLD
 'to': TO
 'recover,': ROFR KW-BG
@@ -83,7 +83,7 @@ The Lion, the Fox, and the Beasts
 'and': SKP
 'saw': SAU
 'the': -T
-'Fox,': TPOBGS KW-BG
+'Fox,': KPA/TPOBGS KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
@@ -92,7 +92,7 @@ The Lion, the Fox, and the Beasts
 'for': TPOR
 'some': SOPL
 'time.': TAOEUPL TP-PL
-'"Why': KR-GS KWR
+'"Why': KR-GS KPA/KWR
 'do': TKO
 'you': U
 'not': TPHOT
@@ -105,18 +105,18 @@ The Lion, the Fox, and the Beasts
 'me?"': PHE H-F KR-GS
 'said': SAEUD
 'the': -T
-'Lion': HRO*EUPB
+'Lion': KPA/HRO*EUPB
 'to': TO
 'the': -T
-'Fox.': TPOBGS TP-PL
+'Fox.': KPA/TPOBGS TP-PL
 '"I': KR-GS EU
 'beg': PWEG
 'your': KWROUR
-'Majesty's': PHAPBLG/STEU AES
+'Majesty's': KPA/PHAPBLG/STEU AES
 'pardon,"': PARD KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Fox,': TPOBGS KW-BG
+'Fox,': KPA/TPOBGS KW-BG
 '"but': KR-GS PWUT
 'I': EU
 'noticed': TPH-TSD
@@ -144,7 +144,7 @@ The Lion, the Fox, and the Beasts
 'none': TPHOPB
 'coming': KO*G
 'out.': OUT TP-PL
-'Till': T*EUL
+'Till': KPA/T*EUL
 'the': -T
 'animals': PHAPBLS
 'that': THA
@@ -163,7 +163,7 @@ The Lion, the Fox, and the Beasts
 'the': -T
 'open': OEP
 'air."': AEUR TP-PL KR-GS
-'It': T
+'It': KPA/T
 'is': S
 'easier': AO*ERS
 'to': TO

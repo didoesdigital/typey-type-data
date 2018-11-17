@@ -1,7 +1,7 @@
 # The Fox and the Mask
 
 * A `KPA/AEU`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * had `H`
 * by `PWEU`
 * some `SOPL`
@@ -13,7 +13,7 @@
 * of `-F`
 * a `AEU`
 * theatre. `THAO*ERT TP-PL`
-* Suddenly `SULD`
+* Suddenly `KPA/SULD`
 * he `HE`
 * observed `OEBD`
 * face `TPAEUS`
@@ -35,7 +35,7 @@
 * it `T`
 * was `WAS`
 * only `OEPBL`
-* Mask `PHAFBG`
+* Mask `KPA/PHAFBG`
 * such `SUFP`
 * as `AZ`
 * actors `A*RBGTS`
@@ -44,9 +44,9 @@
 * over `OEFR`
 * their `THAEUR`
 * face. `TPAEUS TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * said `SAEUD`
-* Fox, `TPOBGS KW-BG`
+* Fox, `KPA/TPOBGS KW-BG`
 * "you `KR-GS U`
 * look `HRAOBG`
 * fine; `TPAOEUPB STPH*FPLT`
@@ -57,7 +57,7 @@
 * not `TPHOT`
 * any `TPHEU`
 * brains." `PWRAEUPBS TP-PL KR-GS`
-* Outside `OUDZ`
+* Outside `KPA/OUDZ`
 * show `SHOE`
 * poor `PAOR`
 * substitute `STUT`

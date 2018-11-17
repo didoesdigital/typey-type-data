@@ -1,15 +1,16 @@
 # The Wind and the Sun
 
-* the `-T`
-* Wind `WEUPBD`
+* The `KPA/-T`
+* Wind `KPA/WEUPBD`
 * and `SKP`
-* Sun `SUPB`
+* the `-T`
+* Sun `KPA/SUPB`
 * were `WR`
 * disputing `TKEUS/PAOUT/-G`
 * which `WEU`
 * was `WAS`
 * stronger. `STRORPBG TP-PL`
-* Suddenly `SULD`
+* Suddenly `KPA/SULD`
 * they `THE`
 * saw `SAU`
 * a `AEU`
@@ -25,7 +26,7 @@
 * decide `STKAOEUD`
 * our `OUR`
 * dispute. `STKPAOUT TP-PL`
-* Whichever `KH-FR`
+* Whichever `KPA/KH-FR`
 * of `-F`
 * us `US`
 * can `K`
@@ -39,9 +40,9 @@
 * be `-B`
 * regarded `RARD/-D`
 * as `AZ`
-* You `U`
+* You `KPA/U`
 * begin." `TKPWEUPB TP-PL KR-GS`
-* So `SO`
+* So `KPA/SO`
 * retired `RAO*EURD`
 * behind `HEUPBD`
 * cloud, `KHROUD KW-BG`
@@ -52,7 +53,7 @@
 * could `KO`
 * upon `POPB`
 * traveller. `TRAFL/HRER/A*U TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * harder `HARD/*ER`
 * he `HE`
 * blew `PWHRAOU`
@@ -70,7 +71,7 @@
 * up `UP`
 * in `TPH`
 * despair. `TKE/SPAEUR TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * came `KAEUPL`
 * out `OUT`
 * shone `SHO*EPB`
@@ -85,7 +86,7 @@
 * walk `WAUBG`
 * with `W`
 * on. `OPB TP-PL`
-* Kindness `KEUPBD/-PBS`
+* Kindness `KPA/KEUPBD/-PBS`
 * effects `TPEBGZ`
 * than `THAPB`
 * severity. `SRERT TP-PL`

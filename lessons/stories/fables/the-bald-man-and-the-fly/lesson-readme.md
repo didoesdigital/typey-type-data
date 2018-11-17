@@ -1,11 +1,11 @@
 # The Bald Man and the Fly
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
-* bald `PWAULD`
-* Man `PHAPB`
+* Bald `KPA/PWAULD`
+* Man `KPA/PHAPB`
 * who `WHO`
 * sat `SAT`
 * down `TKOUPB`
@@ -15,7 +15,7 @@
 * hot `HOT`
 * summer's `SAOURPL AES`
 * day. `TKAEU TP-PL`
-* Fly `TPHRAOEU`
+* Fly `KPA/TPHRAOEU`
 * came `KAEUPL`
 * up `UP`
 * and `SKP`
@@ -23,6 +23,7 @@
 * buzzing `PWUDZ/-G`
 * about `PW`
 * his `HEUS`
+* bald `PWAULD`
 * pate, `PAEUT KW-BG`
 * stinging `STEUPBG/-G`
 * him `HEUPL`
@@ -30,7 +31,7 @@
 * time `TAOEUPL`
 * to `TO`
 * time. `TAOEUPL TP-PL`
-* the `-T`
+* The `KPA/-T`
 * aimed `AEUPLD`
 * blow `PWHROE`
 * at `AT`
@@ -42,12 +43,13 @@
 * head `HED`
 * instead; `STPHED STPH*FPLT`
 * again `TKPWEPB`
+* the `-T`
 * tormented `TOR/-PLTD`
 * him, `HEUPL KW-BG`
 * this `TH`
 * wiser `WAOEUZ/ER`
 * said: `SAEUD STPH-FPLT`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * will `HR`
 * only `OEPBL`
 * injure `SKWR-R`

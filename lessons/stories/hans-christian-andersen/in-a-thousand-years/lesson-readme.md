@@ -1,6 +1,6 @@
 # In a Thousand Years
 
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * in `TPH`
 * a `AEU`
 * thousand `THOEUPB`
@@ -15,8 +15,9 @@
 * steam `STAEPL`
 * through `THRU`
 * air, `AEUR KW-BG`
-* Over `OEFR`
+* over `OEFR`
 * ocean! `OEGS SKHRAPL`
+* The `KPA/-T`
 * young `KWRUPBG`
 * inhabitants `EUPB/HABT/APBTS`
 * America `PHERBG`
@@ -24,16 +25,16 @@
 * visitors `SREUS/TORS`
 * old `OLD`
 * Europe. `AO*URP TP-PL`
-* they `THE`
+* They `KPA/THE`
 * come `KOPL`
 * to `TO`
-* See `SAOE`
+* see `SAOE`
 * monuments `PHOPB/AOUPLTS`
 * and `SKP`
 * great `TKPWRAET`
 * cities, `STEUS KW-BG`
 * which `WEU`
-* Then `THEPB`
+* then `THEPB`
 * be `-B`
 * ruins, `RAOUPBS KW-BG`
 * just `SKWRUFT`
@@ -45,8 +46,10 @@
 * pilgrimages `PEUL/TKPWREUPL/APBLGS`
 * tottering `xxx tottering`
 * splendors `SHREPBD/O*R/-S`
-* Southern `SORPB`
+* Southern `SO*URPB`
 * Asia. `A*ERB TP-PL`
+* In `KPA/TPH`
+* they `THE`
 * come! `KOPL SKHRAPL`
 * Thames, `TEPLS KW-BG`
 * Danube, `TK*P/A*/TPH*/*U/PW*/*E KW-BG`
@@ -56,7 +59,7 @@
 * their `THAEUR`
 * course, `KORS KW-BG`
 * Mont `xxx Mont`
-* Blanc `PWHRA*PB`
+* Blanc `KPA/PWHRA*PB`
 * stands `STAPBDZ`
 * firm `TPEURPL`
 * with `W`
@@ -64,10 +67,10 @@
 * snow-capped `STPHOE H-PB KAPD`
 * summit, `SUPLT KW-BG`
 * Northern `TPHORPB`
-* Lights `HRAOEUTS`
+* Lights `KPA/HRAOEUTS`
 * gleam `TKPWHRAOEPL`
 * land `HRAPBD`
-* North; `TPHORT STPH*FPLT`
+* North; `TPHOERT STPH*FPLT`
 * but `PWUT`
 * generation `SKWREB/RAEUGS`
 * after `AF`
@@ -104,17 +107,19 @@
 * waving `WAFG`
 * corn `KORPB`
 * fields. `TPAOELDZ TP-PL`
-* "to `KR-GS TO`
+* "To `KR-GS KPA/TO`
 * Europe!" `AO*URP SKHRAPL KR-GS`
 * cry `KRAOEU`
 * sons `SOPBS`
 * America; `PHERBG STPH*FPLT`
+* "to `KR-GS TO`
 * ancestors, `APB/SEFT/ORS KW-BG`
 * glorious `TKPWHRORS`
 * fancy—to `TPAPB/SEU EPL/TKA*RB TO`
 * ship `SHEUP`
 * air `AEUR`
 * comes. `KOPLS TP-PL`
+* It `KPA/T`
 * is `S`
 * crowded `KROUD/-D`
 * passengers, `PAEPBGS KW-BG`
@@ -144,7 +149,7 @@
 * till `T*EUL`
 * exactly `ELG`
 * England. `TKPWHRAEPBD TP-PL`
-* there `THR`
+* There `KPA/THR`
 * first `TPEUFRT`
 * step `STEP`
 * European `UR/PAOEPB`
@@ -156,20 +161,22 @@
 * politics, `PHREUBGS KW-BG`
 * machines, `PH-PBS KW-BG`
 * others. `OERS TP-PL`
-* here `HAOER`
+* Here `KPA/HAOER`
 * stay `STAEU`
 * day. `TKAEU TP-PL`
-* All `AUL`
+* That `KPA/THA`
+* all `AUL`
 * busy `PW-Z`
 * race `RAEUS`
 * devote `TKWOET`
 * England `TKPWHRAEPBD`
 * Scotland. `SKOT/HRAPBD TP-PL`
+* Then `KPA/THEPB`
 * journey `SKWRURPB`
 * continued `T-PBD`
 * tunnel `TUPBL`
 * English `TKPWHREURB`
-* Channel, `KHAPBL KW-BG`
+* Channel, `KPA/KHAPBL KW-BG`
 * France, `TPRAPBS KW-BG`
 * Charlemagne `KHARL/PHAEUPB`
 * Napoleon. `PHA/POEL/KWROPB TP-PL`
@@ -212,7 +219,7 @@
 * dramas `TKRA/PHAS`
 * sounding `SOUPBD/-G`
 * verse. `SRERS TP-PL`
-* Beautiful `PWAOUFL`
+* Beautiful `KPA/PWAOUFL`
 * black-eyed `PWHRABG H-PB AO*EUD`
 * women `WEUPL`
 * live `HREUF`
@@ -231,7 +238,7 @@
 * everlasting `*FR/HRAFT/-G`
 * Rome. `RO*EPL TP-PL`
 * vanished! `SRAPB/EURBD SKHRAPL`
-* Campagna `KAPL/PAPB/KWRA`
+* Campagna `KPA/KAPL/PAPB/KWRA`
 * lies `HRAO*EUS`
 * desert. `STK*ERT TP-PL`
 * A `KPA/AEU`
@@ -240,14 +247,15 @@
 * wall `WAUL`
 * shown `SHOEPB`
 * remains `RE/PHAEUPBS`
-* St. `ST* TP-PL`
+* St. `KPA/ST* TP-PL`
 * Peter's, `PAOERT AE S* KW-BG`
+* there `THR`
 * doubt `TKOUT`
 * if `TP`
 * this `TH`
 * ruin `RAOUPB`
 * genuine. `SKWREB/WEUPB TP-PL`
-* Next `TPHEGT`
+* Next `KPA/TPHEGT`
 * Greece, `TKPWRAO*ES KW-BG`
 * sleep `SHRAOEP`
 * night `TPHAOEUT`
@@ -255,7 +263,7 @@
 * hotel `HOET/EL`
 * at `AT`
 * top `TOP`
-* Mount `PHOUPBT`
+* Mount `PHO*UPBT`
 * Olympus, `O/HREUPL/PUS KW-BG`
 * say `SAEU`
 * have `SR`
@@ -278,12 +286,14 @@
 * now `TPHOU`
 * spreading `SPREGD`
 * nets. `TPHETS TP-PL`
+* Over `KPA/OEFR`
 * cities `STEUS`
 * broad `PWRAOD`
 * know `TPHOE`
 * not, `TPHOT KW-BG`
 * travellers `TRA*FL/ERS/A*U`
 * pass; `PAS STPH*FPLT`
+* here `HAOER`
 * there, `THR KW-BG`
 * sites `SAO*EUTS`
 * shall `SHAL`
@@ -294,7 +304,7 @@
 * departs `TKAOE/PARTS`
 * thence `THEPBS`
 * again. `TKPWEPB TP-PL`
-* Down `TKOUPB`
+* Down `KPA/TKOUPB`
 * below `PWHRO`
 * Germany, `SKWRERPL/TPHEU KW-BG`
 * covered `KOFRD`
@@ -311,17 +321,19 @@
 * held `HELD`
 * sceptre `SEP/TER/A*U`
 * harmony. `HAR/PHOEPB TP-PL`
+* Great `KPA/TKPWRAET`
 * shine `SHAOEUPB`
 * science `SKRAOEUPBS`
 * art, `ART KW-BG`
 * unknown `UPB/TPHOEPB`
 * us. `US TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
 * devoted `TKWOETD`
 * seeing `SAOEG`
-* North, `TPHORT KW-BG`
-* Oersted `*ERS/-D`
+* one `WUPB`
+* North, `TPHOERT KW-BG`
+* Oersted `KPA/*ERS/-D`
 * Linnaeus, `xxx Linnaeus KW-BG`
 * Norway, `TPHOR/WAEU KW-BG`
 * heroes `HOEURS`
@@ -345,7 +357,7 @@
 * continual `T-PB/WAL`
 * monument `PHOPLT`
 * poetry. `POEURT TP-PL`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * really `R-L`
 * deal `TKAOEL`
 * seen `SAOEPB`
@@ -364,5 +376,7 @@
 * "in `KR-GS TPH`
 * celebrated `SEL/PWRAEUT/-D`
 * work, `WORBG KW-BG`
-* 'How `AE HOU`
-* Week.'" `WAOEBG TP-PL AE KR-GS`
+* 'How `AE KPA/HOU`
+* See `KPA/SAOE`
+* All `KPA/AUL`
+* Week.'" `KPA/WAOEBG TP-PL AE KR-GS`

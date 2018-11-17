@@ -1,7 +1,7 @@
 The Ass and the Lapdog
 
 'A': KPA/AEU
-'Farmer': TPAR/PHER
+'Farmer': KPA/TPAR/PHER
 'one': WUPB
 'day': TKAEU
 'came': KAEUPL
@@ -20,7 +20,7 @@ The Ass and the Lapdog
 'was': WAS
 'his': HEUS
 'favourite': TPAEUFRT/A*U
-'Ass,': A*S KW-BG
+'Ass,': KPA/A*S KW-BG
 'that': THA
 'was': WAS
 'always': AULS
@@ -31,9 +31,9 @@ The Ass and the Lapdog
 'carried': KAERD
 'his': HEUS
 'master.': PHAFRT TP-PL
-'With': W
+'With': KPA/W
 'the': -T
-'Farmer': TPAR/PHER
+'Farmer': KPA/TPAR/PHER
 'came': KAEUPL
 'his': HEUS
 'Lapdog,': KPA/HRAP/TK-LS/TKOG KW-BG
@@ -52,8 +52,8 @@ The Ass and the Lapdog
 'as': AZ
 'could': KO
 'be.': -B TP-PL
-'The': -T
-'Farmer': TPAR/PHER
+'The': KPA/-T
+'Farmer': KPA/TPAR/PHER
 'felt': TPELT
 'in': TPH
 'his': HEUS
@@ -75,7 +75,7 @@ The Ass and the Lapdog
 'to': TO
 'his': HEUS
 'servants.': SER/SRAPBTS TP-PL
-'The': -T
+'The': KPA/-T
 'Lapdog': KPA/HRAP/TK-LS/TKOG
 'jumped': SKWR*UPLD
 'into': TPHAO
@@ -88,12 +88,12 @@ The Ass and the Lapdog
 'blinking': PWHREUPB/K-G
 'while': WHAOEUL
 'the': -T
-'Farmer': TPAR/PHER
+'Farmer': KPA/TPAR/PHER
 'stroked': STROEBGD
 'his': HEUS
 'ears.': AOERS TP-PL
-'The': -T
-'Ass,': A*S KW-BG
+'The': KPA/-T
+'Ass,': KPA/A*S KW-BG
 'seeing': SAOEG
 'this,': TH KW-BG
 'broke': PWROEBG
@@ -110,8 +110,8 @@ The Ass and the Lapdog
 'of': -F
 'the': -T
 'Lapdog.': KPA/HRAP/TK-LS/TKOG TP-PL
-'The': -T
-'Farmer': TPAR/PHER
+'The': KPA/-T
+'Farmer': KPA/TPAR/PHER
 'could': KO
 'not': TPHOT
 'hold': HOLD
@@ -121,7 +121,7 @@ The Ass and the Lapdog
 'laughter,': HRAFR KW-BG
 'so': SO
 'the': -T
-'Ass': A*S
+'Ass': KPA/A*S
 'went': WEPBT
 'up': UP
 'to': TO
@@ -132,7 +132,7 @@ The Ass and the Lapdog
 'feet': TPAOET
 'upon': POPB
 'the': -T
-'Farmer's': TPAR/PHER AES
+'Farmer's': KPA/TPAR/PHER AES
 'shoulder': SHOURLD
 'attempted': A/TEPL/-D
 'to': TO
@@ -140,8 +140,8 @@ The Ass and the Lapdog
 'into': TPHAO
 'his': HEUS
 'lap.': HRAP TP-PL
-'The': -T
-'Farmer's': TPAR/PHER AES
+'The': KPA/-T
+'Farmer's': KPA/TPAR/PHER AES
 'servants': SER/SRAPBTS
 'rushed': RURBD
 'up': UP
@@ -153,9 +153,9 @@ The Ass and the Lapdog
 'soon': SAOPB
 'taught': TAUT
 'the': -T
-'Ass': A*S
+'Ass': KPA/A*S
 'that:': THA STPH-FPLT
-'Clumsy': KHRUPL/SEU
+'Clumsy': KPA/KHRUPL/SEU
 'jesting': SKWREFT/-G
 'is': S
 'no': TPHO

@@ -28,7 +28,7 @@
 * nose `TPHOES`
 * out `OUT`
 * water. `WAUR TP-PL`
-* So `SO`
+* So `KPA/SO`
 * he `HE`
 * cast `KAFT`
 * net `TPHET`
@@ -40,7 +40,7 @@
 * forth `TPO*RT`
 * filled `TPEULD`
 * fish. `TPEURB TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * again, `TKPWEPB KW-BG`
 * and, `SKP KW-BG`
 * as `AZ`
@@ -49,7 +49,7 @@
 * up `UP`
 * in `TPH`
 * net. `TPHET TP-PL`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
 * you `U`
 * dance `TKAPBS`
 * now `TPHOU`
@@ -58,11 +58,11 @@
 * play," `PHRAEU KW-BG KR-GS`
 * said `SAEUD`
 * he. `HE TP-PL`
-* "Yes," `KR-GS KWRE KW-BG KR-GS`
+* "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * an `APB`
 * old `OLD`
-* Fish: `TPEURB STPH-FPLT`
-* "When `KR-GS WHEPB`
+* Fish: `KPA/TPEURB STPH-FPLT`
+* "When `KR-GS KPA/WHEPB`
 * are `R`
 * man's `PHAPB/AES`
 * power `POUR`

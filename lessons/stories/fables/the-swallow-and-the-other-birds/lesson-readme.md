@@ -1,10 +1,10 @@
 # The Swallow and the Other Birds
 
-* it `T`
+* It `KPA/T`
 * happened `HAPD`
 * that `THA`
 * a `AEU`
-* Countryman `KREU/PHA*PB`
+* Countryman `KPA/KREU/PHA*PB`
 * was `WAS`
 * sowing `SWO/-G`
 * some `SOPL`
@@ -13,7 +13,7 @@
 * in `TPH`
 * field `TPAOELD`
 * where `W-R`
-* Swallow `SWO*EUL`
+* Swallow `KPA/SWO*EUL`
 * and `SKP`
 * other `OER`
 * birds `PWEURDZ`
@@ -24,20 +24,20 @@
 * up `UP`
 * their `THAEUR`
 * food. `TPAOD TP-PL`
-* "Beware `KR-GS PWE/WAEUR`
+* "Beware `KR-GS KPA/PWE/WAEUR`
 * of `-F`
 * man," `PHAPB KW-BG KR-GS`
 * quoth `KWO*ET`
 * the `-T`
-* Swallow. `SWO*EUL TP-PL`
-* "Why, `KR-GS KWR KW-BG`
+* Swallow. `KPA/SWO*EUL TP-PL`
+* "Why, `KR-GS KPA/KWR KW-BG`
 * what `WHA`
 * is `S`
 * he `HE`
 * doing?" `TK*G H-F KR-GS`
 * said `SAEUD`
 * others. `OERS TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * seed `SAOED`
 * sowing; `SWO/-G STPH*FPLT`
 * be `-B`
@@ -53,10 +53,11 @@
 * will `HR`
 * repent `RE/PEPBT`
 * it." `T TP-PL KR-GS`
+* The `KPA/-T`
 * paid `PAEUD`
 * no `TPHO`
 * heed `HAO*ED`
-* Swallow's `SWO*EUL AES`
+* Swallow's `KPA/SWO*EUL AES`
 * words, `WORDZ KW-BG`
 * by `PWEU`
 * grew `TKPWRAOU`
@@ -75,13 +76,14 @@
 * out `OUT`
 * very `SRE`
 * hemp. `HEFRP TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * did `TK`
 * I `EU`
 * tell `TEL`
 * you?" `U H-F KR-GS`
-* Destroy `TKROEU`
+* Destroy `KPA/TKROEU`
 * evil, `AOEFL KW-BG`
+* it `T`
 * grow `TKPWROE`
 * your `KWROUR`
 * ruin. `RAOUPB TP-PL`

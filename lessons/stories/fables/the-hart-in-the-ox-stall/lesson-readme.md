@@ -22,7 +22,7 @@
 * of `-F`
 * hay, `HA*EU KW-BG`
 * leaving `HREFG`
-* Nothing `TPHOG`
+* nothing `TPHOG`
 * to `TO`
 * be `-B`
 * seen `SAOEPB`
@@ -30,9 +30,9 @@
 * tips `TEUPS`
 * his `HEUS`
 * horns. `HORPBS TP-PL`
-* soon `SAOPB`
+* Soon `KPA/SAOPB`
 * after `AF`
-* Hunters `HURPBTS`
+* Hunters `KPA/HURPBTS`
 * came `KAEUPL`
 * up `UP`
 * asked `SK-D`
@@ -41,6 +41,7 @@
 * one `WUPB`
 * had `H`
 * Hart. `HA*RT TP-PL`
+* The `KPA/-T`
 * stable `STABL`
 * boys, `PWOEUS KW-BG`
 * who `WHO`
@@ -55,7 +56,7 @@
 * nothing, `TPHOG KW-BG`
 * went `WEPBT`
 * away. `A/WAEU TP-PL`
-* Shortly `SHORLT`
+* Shortly `KPA/SHORLT`
 * afterwards `A*FRDZ`
 * master `PHAFRT`
 * in, `TPH KW-BG`
@@ -66,11 +67,11 @@
 * unusual `TPHAOURB`
 * taken `TAEPB`
 * place. `PHRAEUS TP-PL`
-* He `HE`
+* He `KPA/HE`
 * pointed `POEUPBTD`
 * hay `HA*EU`
 * said: `SAEUD STPH-FPLT`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * are `R`
 * those `THOZ`
 * two `TWO`
@@ -79,17 +80,20 @@
 * sticking `STEUG`
 * out `OUT`
 * hay?" `HA*EU H-F KR-GS`
+* And `AFPBD`
 * when `WHEPB`
 * boys `PWOEUS`
 * look `HRAOBG`
 * they `THE`
 * discovered `SKOFD`
 * Hart, `HA*RT KW-BG`
+* soon `SAOPB`
 * made `PHAED`
 * end `EPBD`
 * him. `HEUPL TP-PL`
 * thus `THUS`
 * learnt `HRERPBT/A*U`
+* Nothing `KPA/TPHOG`
 * escapes `ES/KAEUPS`
 * master's `PHAFRT AES`
 * eye. `AOEU TP-PL`

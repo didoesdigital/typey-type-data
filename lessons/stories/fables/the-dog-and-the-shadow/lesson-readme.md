@@ -1,10 +1,10 @@
 # The Dog and the Shadow
 
-* it `T`
+* It `KPA/T`
 * happened `HAPD`
 * that `THA`
 * a `AEU`
-* dog `TKOG`
+* Dog `KPA/TKOG`
 * had `H`
 * got `TKPWOT`
 * piece `PAOES`
@@ -13,6 +13,7 @@
 * and `SKP`
 * was `WAS`
 * carrying `KAERG`
+* it `T`
 * home `HOEPL`
 * in `TPH`
 * his `HEUS`
@@ -20,7 +21,7 @@
 * to `TO`
 * eat `AOET`
 * peace. `PAES TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * on `OPB`
 * way `WAEU`
 * he `HE`
@@ -30,7 +31,7 @@
 * across `A/KROS`
 * running `R*UPBG`
 * brook. `PWRAOBG TP-PL`
-* as `AZ`
+* As `KPA/AZ`
 * crossed, `KROFD KW-BG`
 * looked `HRAOBGD`
 * down `TKOUPB`
@@ -41,8 +42,9 @@
 * the `-T`
 * water `WAUR`
 * beneath. `TPHAO*ET TP-PL`
-* Thinking `THEUG`
+* Thinking `KPA/THEUG`
 * another `TPHOER`
+* dog `TKOG`
 * with `W`
 * meat, `PHAET KW-BG`
 * made `PHAED`
@@ -50,11 +52,12 @@
 * mind `PHAOEUPBD`
 * have `SR`
 * also. `HR-S TP-PL`
-* So `SO`
+* So `KPA/SO`
 * snap `STPHAP`
 * at `AT`
 * water, `WAUR KW-BG`
 * but `PWUT`
+* as `AZ`
 * opened `OEPD`
 * fell `TPEL`
 * out, `OUT KW-BG`
@@ -63,7 +66,7 @@
 * never `TPHEF`
 * seen `SAOEPB`
 * more. `PHOR TP-PL`
-* Beware `PWE/WAEUR`
+* Beware `KPA/PWE/WAEUR`
 * lest `HR*ES`
 * you `U`
 * lose `HRUZ`

@@ -1,6 +1,6 @@
 # The Goose With the Golden Eggs
 
-* One `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
 * a `AEU`
 * countryman `KREU/PHA*PB`
@@ -10,7 +10,7 @@
 * nest `TPHEFT`
 * of `-F`
 * his `HEUS`
-* Goose `TKPWAOS`
+* Goose `KPA/TKPWAOS`
 * found `TPOUPBD`
 * there `THR`
 * an `APB`
@@ -19,13 +19,13 @@
 * yellow `KWREL/OE`
 * and `SKP`
 * glittering. `TKPWHREUT/ERG TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * he `HE`
 * took `TAOBG`
 * it `T`
 * up `UP`
 * was `WAS`
-* As `AZ`
+* as `AZ`
 * heavy `HOEUF`
 * lead `HRAED`
 * throw `THROE`
@@ -38,7 +38,7 @@
 * played `PHRAEUD`
 * upon `POPB`
 * him. `HEUPL TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * home `HOEPL`
 * on `OPB`
 * second `SEBGD`
@@ -48,7 +48,7 @@
 * that `THA`
 * pure `PAOUR`
 * gold. `TKPWOELD TP-PL`
-* Every `EF`
+* Every `KPA/EF`
 * morning `PHORPBG`
 * same `SAEUPL`
 * thing `THEUPBG`
@@ -58,6 +58,7 @@
 * by `PWEU`
 * selling `SELG`
 * eggs. `EGS TP-PL`
+* As `KPA/AZ`
 * grew `TKPWRAOU`
 * greedy; `TKPWRAOE/TKEU STPH*FPLT`
 * thinking `THEUG`
@@ -72,7 +73,7 @@
 * only `OEPBL`
 * find `TPEUPBD`
 * nothing. `TPHOG TP-PL`
-* Greed `TKPWRAOED`
+* Greed `KPA/TKPWRAOED`
 * oft `O*FT`
 * o'er `OE/*ER`
 * reaches `RAOEFPS`

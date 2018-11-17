@@ -13,7 +13,7 @@
 * when `WHEPB`
 * little `HREUL`
 * boy. `PWOEU TP-PL`
-* Every `EF`
+* Every `KPA/EF`
 * time `TAOEUPL`
 * thought `THAUT`
 * of `-F`
@@ -30,7 +30,7 @@
 * with `W`
 * stories `STOERS`
 * as `AZ`
-* Many `PHAEPB`
+* many `PHAEPB`
 * people—they `PAOEPL EPL/TKA*RB THE`
 * become `PW-BG`
 * better `PWOERT`
@@ -51,13 +51,13 @@
 * thatched `THA*FP/-D`
 * roof, `RAOF KW-BG`
 * mosses `PHOS/-S`
-* Small `SPHAL`
+* small `SPHAL`
 * plants `PHRAPBTS`
 * growing `TKPWROEG`
 * wild `WAOEULD`
 * upon `POPB`
 * it. `T TP-PL`
-* there `THR`
+* There `KPA/THR`
 * stork's `STORBG AES`
 * nest `TPHEFT`
 * on `OPB`
@@ -65,9 +65,10 @@
 * gable, `TKPWAEUBL KW-BG`
 * we `WE`
 * cannot `K/TPHOT`
-* Do `TKO`
+* do `TKO`
 * without `WOUT`
 * stork. `STORBG TP-PL`
+* The `KPA/-T`
 * walls `WAULS`
 * house `HOUS`
 * are `R`
@@ -86,7 +87,7 @@
 * like `HRAOEUBG`
 * great `TKPWRAET`
 * knob. `TPHOB TP-PL`
-* an `APB`
+* An `KPA/APB`
 * elder-tree `ELD/ER H-PB TRAOE`
 * hangs `HAPBGS`
 * over `OEFR`
@@ -110,17 +111,19 @@
 * barks `PWARBGS`
 * all `AUL`
 * corners. `KRORPB/-S TP-PL`
-* just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * such `SUFP`
 * farmhouse `TPARPL/HOUS`
 * stood `STAOD`
 * country `KREU`
 * lane; `HRAEPB STPH*FPLT`
 * dwelt `TKWELT`
+* an `APB`
 * couple, `KUPL KW-BG`
 * peasant `PEFPBT`
 * his `HEUS`
 * wife. `WAOEUF TP-PL`
+* Small `KPA/SPHAL`
 * their `THAEUR`
 * possessions `POE/SEGS/-S`
 * were, `WR KW-BG`
@@ -151,7 +154,7 @@
 * some `SOPL`
 * service `S-FS`
 * couple. `KUPL TP-PL`
-* after `AF`
+* After `KPA/AF`
 * would `WO`
 * be `-B`
 * well `WEL`
@@ -162,18 +165,18 @@
 * might `PHAOEUT`
 * useful `AOUFL`
 * them. `THEPL TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * what `WHA`
 * be? `-B H-F`
-* "You'll `KR-GS U AE HR*/HR*`
+* "You'll `KR-GS KPA/U AE HR*/HR*`
 * know `TPHOE`
 * best, `PWEFT KW-BG`
 * man," `PHAPB KW-BG KR-GS`
 * said `SAEUD`
-* "it `KR-GS T`
+* "It `KR-GS KPA/T`
 * fair-day `TPAEUR H-PB TKAEU`
 * to-day; `TO H-PB TKAEU STPH*FPLT`
-* So `SO`
+* so `SO`
 * ride `RAOEUD`
 * town, `TOUPB KW-BG`
 * get `TKPWET`
@@ -187,6 +190,7 @@
 * right `RAOEUT`
 * me, `PHE KW-BG`
 * fair." `TPAEUR TP-PL KR-GS`
+* And `AFPBD`
 * she `SHE`
 * fastened `TPAS/-PBD`
 * neckerchief `xxx neckerchief`
@@ -199,6 +203,7 @@
 * prettily `PRET/HREU`
 * double `TKUBL`
 * bow. `PWOE TP-PL`
+* She `KPA/SHE`
 * smoothed `SPHAO*T/-D`
 * hat `HAT`
 * round `ROUPBD`
@@ -208,12 +213,12 @@
 * gave `TKPWAEUF`
 * him `HEUPL`
 * kiss. `KEUS TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * away `A/WAEU`
 * sold `SOELD`
 * bartered `PWART/ERD`
 * else. `ELS TP-PL`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * man `PHAPB`
 * knew `TPHAOU`
 * about. `PW TP-PL`
@@ -237,7 +242,7 @@
 * from `TPR`
 * hot `HOT`
 * sunshine. `SUPB/SHAO*EUPB TP-PL`
-* Among `PHOPBG`
+* Among `KPA/PHOPBG`
 * rest `REFT`
 * came `KAEUPL`
 * trudging `TRUPBLG/-G`
@@ -249,13 +254,13 @@
 * creature `KRAOEFP`
 * any `TPHEU`
 * be. `-B TP-PL`
-* "She `KR-GS SHE`
+* "She `KR-GS KPA/SHE`
 * gives `TKPWEUFS`
 * milk, `PHEULG KW-BG`
 * am `APL`
 * certain," `SERPB KW-BG KR-GS`
 * himself. `H*EUPLS TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * exchange: `KPAEUPBG STPH-FPLT`
 * horse. `HORS TP-PL`
 * Hallo `xxx Hallo`
@@ -268,6 +273,7 @@
 * say `SAEU`
 * value `SRAOUL`
 * cow; `KO*U STPH*FPLT`
+* but `PWUT`
 * don't `TKOEPBT`
 * care `KAEUR`
 * that,—a `THA KW-BG EPL/TKA*RB AEU`
@@ -277,11 +283,11 @@
 * like, `HRAOEUBG KW-BG`
 * we'll `WAOEL`
 * exchange." `KPAEUPBG TP-PL KR-GS`
-* "To `KR-GS TO`
+* "To `KR-GS KPA/TO`
 * sure `SHUR`
 * will," `HR KW-BG KR-GS`
 * man. `PHAPB TP-PL`
-* Accordingly `A/KORD/-G/HREU`
+* Accordingly `KPA/A/KORD/TKPWHREU`
 * made; `PHAED STPH*FPLT`
 * matter `PHAERT`
 * settled, `S*ELTD KW-BG`
@@ -290,7 +296,7 @@
 * done `TKOPB`
 * business `PWEUS`
 * do. `TKO TP-PL`
-* But, `PWUT KW-BG`
+* But, `KPA/PWUT KW-BG`
 * having `SR-G`
 * up `UP`
 * mind `PHAOEUPBD`
@@ -300,15 +306,17 @@
 * it; `T STPH*FPLT`
 * went `WEPBT`
 * cow. `KO*U TP-PL`
-* Leading `HRAEGD`
+* Leading `KPA/HRAEGD`
 * animal, `PHAPBL KW-BG`
 * strode `STROED`
 * sturdily, `STURD/HREU KW-BG`
 * and, `SKP KW-BG`
+* after `AF`
 * short `SHORT`
 * time, `TAOEUPL KW-BG`
 * overtook `AUFR/TAOBG`
 * sheep. `SHAOEP TP-PL`
+* It `KPA/T`
 * fat `TPAT`
 * sheep, `SHAOEP KW-BG`
 * fine `TPAOEUPB`
@@ -316,7 +324,7 @@
 * back. `PWABG TP-PL`
 * should `SHO`
 * fellow," `TPO*EUL KW-BG KR-GS`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * plenty `PHREPBT`
 * our `OUR`
 * palings, `xxx palings KW-BG`
@@ -324,20 +332,21 @@
 * keep `KAOEP`
 * room `RAOPL`
 * us. `US TP-PL`
-* Perhaps `PRAPS`
+* Perhaps `KPA/PRAPS`
 * profitable `PROFT/-BL`
 * sheep `SHAOEP`
-* shall `SHAL`
+* Shall `KPA/SHAL`
 * exchange?" `KPAEUPBG H-F KR-GS`
 * quite `KWAOEUT`
 * ready, `R-D KW-BG`
 * bargain `PWARG/AEUPB`
 * quickly `KWEULG`
 * made. `PHAED TP-PL`
+* then `THEPB`
 * continued `T-PBD`
 * way `WAEU`
 * high-road `HAOEU H-PB RAOD`
-* soon `SAOPB`
+* Soon `KPA/SAOPB`
 * this, `TH KW-BG`
 * another `TPHOER`
 * man, `PHAPB KW-BG`
@@ -348,10 +357,11 @@
 * goose `TKPWAOS`
 * under `*UPBD`
 * arm. `ARPL TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * heavy `HOEUF`
 * there!" `THR SKHRAPL KR-GS`
 * peasant; `PEFPBT STPH*FPLT`
+* "it `KR-GS T`
 * has `HAS`
 * feathers `TP*ET/ERS`
 * fat, `TPAT KW-BG`
@@ -360,15 +370,17 @@
 * paddling `PAD/-LG`
 * water `WAUR`
 * place. `PHRAEUS TP-PL`
+* That `KPA/THA`
 * my `PHEU`
 * woman; `WOPL STPH*FPLT`
 * sorts `SORTS`
 * profits `PROFTS`
-* How `HOU`
+* How `KPA/HOU`
 * said, `SAEUD KW-BG`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * now `TPHOU`
 * goose!' `TKPWAOS SKHRAPL AE`
+* Now `KPA/TPHOU`
 * here `HAOER`
 * opportunity, `TAOUPBT KW-BG`
 * possible, `POB KW-BG`
@@ -387,12 +399,14 @@
 * became `PWAEUPL`
 * possessor `PESZ/SOR`
 * goose. `TKPWAOS TP-PL`
+* By `KPA/PWEU`
 * arrived `A/REUFD`
 * near `TPHAOER`
 * town. `TOUPB TP-PL`
 * crowd `KROUD`
 * gradually `TKPWRAD/WAEL`
 * increasing, `EUPB/KRAOEGS KW-BG`
+* there `THR`
 * rush `RURB`
 * men `PHEPB`
 * cattle. `KA*LT TP-PL`
@@ -422,15 +436,16 @@
 * eyes, `AO*EUS KW-BG`
 * looked `HRAOBGD`
 * cunning, `KUPBG KW-BG`
-* "Cluck, `KR-GS KHRUBG KW-BG`
+* "Cluck, `KR-GS KPA/KHRUBG KW-BG`
 * cluck." `KHRUBG TP-PL KR-GS`
+* What `KPA/WHA`
 * thoughts `THAUTS`
 * you; `U STPH*FPLT`
 * directly `TKREL`
 * saw `SAU`
 * it, `T KW-BG`
 * thought, `THAUT KW-BG`
-* "Why `KR-GS KWR`
+* "Why `KR-GS KPA/KWR`
 * that's `THATS`
 * finest `TPAOEUPB/EFT`
 * ever `-FR`
@@ -442,7 +457,7 @@
 * hen, `HEPB KW-BG`
 * word. `WORD TP-PL`
 * fowl. `TPO*UL TP-PL`
-* Fowls `TPO*UL/-S`
+* Fowls `xxx Fowls`
 * can `K`
 * always `AULS`
 * pick `PEUBG`
@@ -453,10 +468,10 @@
 * think `THEU`
 * asked `SK-D`
 * toll-keeper. `TOL H-PB KAOEP/*ER TP-PL`
-* "Exchange," `KR-GS KPAEUPBG KW-BG KR-GS`
+* "Exchange," `KR-GS KPA/KPAEUPBG KW-BG KR-GS`
 * repeated `RE/PAOETD`
 * man; `PHAPB STPH*FPLT`
-* "Well, `KR-GS WEL KW-BG`
+* "well, `KR-GS WEL KW-BG`
 * bad `PWAD`
 * thing." `THEUPBG TP-PL KR-GS`
 * exchange,—the `KPAEUPBG KW-BG EPL/TKA*RB -T`
@@ -467,6 +482,7 @@
 * really `R-L`
 * deal `TKAOEL`
 * tired. `TAOEURD TP-PL`
+* He `KPA/HE`
 * wanted `WAPBTD`
 * eat, `AOET KW-BG`
 * glass `TKPWHRAS`
@@ -475,6 +491,7 @@
 * himself; `H*EUPLS STPH*FPLT`
 * steps `STEPS`
 * inn. `TPH*PB TP-PL`
+* just `SKWRUFT`
 * enter `SPWER`
 * ostler `xxx ostler`
 * out, `OUT KW-BG`
@@ -483,13 +500,14 @@
 * sack. `SABG TP-PL`
 * sack?" `SABG H-F KR-GS`
 * peasant. `PEFPBT TP-PL`
-* "Rotten `KR-GS ROT/EPB`
+* "Rotten `KR-GS KPA/ROT/EPB`
 * apples," `APLS KW-BG KR-GS`
 * answered `AEPBS/-D`
 * ostler; `xxx ostler STPH*FPLT`
 * "a `KR-GS AEU`
 * whole `WHOEL`
 * sackful `SABG/-FL`
+* They `KPA/THE`
 * feed `TPAOED`
 * pigs `PAO*EGS`
 * with." `W TP-PL KR-GS`
@@ -499,7 +517,7 @@
 * them `THEPL`
 * home `HOEPL`
 * woman. `WOPL TP-PL`
-* Last `HRAFT`
+* Last `KPA/HRAFT`
 * year `KWRAOER`
 * apple-tree `A*EPL H-PB TRAOE`
 * grass-plot `TKPWRAS H-PB PHROT`
@@ -520,7 +538,8 @@
 * sackful?" `SABG/-FL H-F KR-GS`
 * ostler. `xxx ostler TP-PL`
 * give? `TKPWEUF H-F`
-* Well, `WEL KW-BG`
+* Well, `KPA/WEL KW-BG`
+* So `KPA/SO`
 * fowl, `TPO*UL KW-BG`
 * received `SAOEFD`
 * apples, `APLS KW-BG`
@@ -535,6 +554,7 @@
 * stove `STOF`
 * hot, `HOT KW-BG`
 * that. `THA TP-PL`
+* Many `KPA/PHAEPB`
 * guests `TKPWEFTS`
 * present—horse `PREPBT EPL/TKA*RB HORS`
 * dealers, `TKAOEL/ERS KW-BG`
@@ -548,8 +568,9 @@
 * ready `R-D`
 * burst; `PWUFRT STPH*FPLT`
 * bet `PWET`
+* shall `SHAL`
 * hear. `HAER TP-PL`
-* "Hiss-s-s, `KR-GS HEUSZ H-PB S* H-PB S* KW-BG`
+* "Hiss-s-s, `KR-GS KPA/HEUSZ H-PB S* H-PB S* KW-BG`
 * hiss-s-s." `HEUSZ H-PB S* H-PB S* TP-PL KR-GS`
 * stove? `STOF H-F`
 * apples `APLS`
@@ -557,35 +578,37 @@
 * roast. `ROEFT TP-PL`
 * that?" `THA H-F KR-GS`
 * one. `WUPB TP-PL`
-* "Why, `KR-GS KWR KW-BG`
+* "Why, `KR-GS KPA/KWR KW-BG`
 * know"—said `TPHOE KR-GS EPL/TKA*RB SAEUD`
 * exchanged `KPAEUPBG/-D`
 * cow, `KO*U KW-BG`
 * down `TKOUPB`
 * apples. `APLS TP-PL`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * home," `HOEPL KW-BG KR-GS`
-* "Won't `KR-GS WOPB AE T*`
+* "Won't `KR-GS KPA/WOPB AE T*`
 * noise?" `TPHOEUS H-F KR-GS`
-* "What! `KR-GS WHA SKHRAPL`
+* "What! `KR-GS KPA/WHA SKHRAPL`
+* Give `KPA/TKPWEUF`
 * what?" `WHA H-F KR-GS`
 * kiss `KEUS`
 * say, `SAEU KW-BG`
 * 'what `AE WHA`
 * does `TKOS`
 * right.'" `RAOEUT TP-PL AE KR-GS`
-* "Let `KR-GS HRET`
+* "Let `KR-GS KPA/HRET`
 * us `US`
 * lay `HRAEU`
 * wager `WAEUPBLG/ER`
 * it," `T KW-BG KR-GS`
-* "We'll `KR-GS WE AE HR*/HR*`
+* "We'll `KR-GS KPA/WE AE HR*/HR*`
 * ton `TOPB`
 * coined `KOEUPBD`
 * gold, `TKPWOELD KW-BG`
 * hundred `HUPBD`
 * pounds `POUPBZ`
 * hundred-weight." `HUPBD H-PB WAET TP-PL KR-GS`
-* "No; `KR-GS TPHO STPH*FPLT`
+* "No; `KR-GS KPA/TPHO STPH*FPLT`
 * bushel `PWURB/EL`
 * enough," `TPHUF KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
@@ -597,7 +620,7 @@
 * pile `PAOEUL`
 * measure, `PH*ERB KW-BG`
 * fancy." `TPAPB/SEU TP-PL KR-GS`
-* "Done! `KR-GS TKOPB SKHRAPL`
+* "Done! `KR-GS KPA/TKOPB SKHRAPL`
 * taken!" `TAEPB SKHRAPL KR-GS`
 * landlord's `HR-LD AES`
 * coach `KOEFP`
@@ -605,15 +628,17 @@
 * got `TKPWOT`
 * in, `TPH KW-BG`
 * drove, `TKROEF KW-BG`
+* soon `SAOPB`
 * stopped `STOPD`
 * peasant's `PEFPBT AES`
 * hut. `HUT TP-PL`
-* "Good `KR-GS TKPWAOD`
+* "Good `KR-GS KPA/TKPWAOD`
 * evening, `AOEPBG KW-BG`
 * woman." `WOPL TP-PL KR-GS`
 * man." `PHAPB TP-PL KR-GS`
 * "I've `KR-GS EU AE SR*/*E`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
+* well, `WEL KW-BG`
 * understand `URPBD`
 * you're `UR`
 * about," `PW KW-BG KR-GS`
@@ -624,23 +649,23 @@
 * did `TK`
 * notice `TPH-TS`
 * horse." `HORS TP-PL KR-GS`
-* "Thank `KR-GS THAPBG`
-* Heaven," `HEFPB KW-BG KR-GS`
+* "Thank `KR-GS KPA/THAPBG`
+* Heaven," `KPA/HEFPB KW-BG KR-GS`
 * she. `SHE TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * butter, `PWAOURT KW-BG`
 * cheese `KHAOES`
 * capital `KAPLT`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * changed `KHAEUPBGD`
 * sheep." `SHAOEP TP-PL KR-GS`
 * still!" `STEUL SKHRAPL KR-GS`
 * cried `KRAOEUD`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * everything; `EFG STPH*FPLT`
 * enough `TPHUF`
 * pasture `PAS/KHUR`
-* Ewe's `AO*U AES`
+* Ewe's `KPA/AO*U AES`
 * milk `PHEULG`
 * cheese, `KHAOES KW-BG`
 * woollen `WAOL/EPB/A*U`
@@ -651,17 +676,20 @@
 * falls `TPAULZ`
 * off. `OF TP-PL`
 * everything!" `EFG SKHRAPL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * goose." `TKPWAOS TP-PL KR-GS`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * roast `ROEFT`
 * eat `AOET`
 * year. `KWRAOER TP-PL`
+* You `KPA/U`
 * dear `TKAER`
 * thinking `THEUG`
 * please `PHRES`
 * me. `PHE TP-PL`
+* This `KPA/TH`
 * delightful. `TKHRAOEUT/-FL TP-PL`
+* We `KPA/WE`
 * let `HRET`
 * walk `WAUBG`
 * fatter `TPAT/ER`
@@ -671,13 +699,13 @@
 * "A `KR-GS KPA/AEU`
 * fowl! `TPO*UL SKHRAPL`
 * exchange," `KPAEUPBG KW-BG KR-GS`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * eggs `EGS`
 * hatch `HAFP`
 * them, `THEPL KW-BG`
 * chickens; `KHEU/KEPB/-S STPH*FPLT`
 * poultry-yard. `POL/TREU H-PB KWRARD TP-PL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * wishing `WEURBG`
 * for." `TPOR TP-PL KR-GS`
 * shrivelled `SHR*EUFLD/A*U`
@@ -685,10 +713,11 @@
 * must `PHUFT`
 * that!" `THA SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * dear, `TKAER KW-BG`
 * husband, `HUS KW-BG`
 * something. `S-G TP-PL`
+* Do `KPA/TKO`
 * know, `TPHOE KW-BG`
 * left `HREFT`
 * morning, `PHORPBG KW-BG`
@@ -710,7 +739,7 @@
 * lend `HREPBD`
 * handful `HAPBD/-FL`
 * herbs. `HERBS TP-PL`
-* 'Lend!' `AE HREPBD SKHRAPL AE`
+* 'Lend!' `AE KPA/HREPBD SKHRAPL AE`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
 * 'I `AE EU`
 * nothing `TPHOG`

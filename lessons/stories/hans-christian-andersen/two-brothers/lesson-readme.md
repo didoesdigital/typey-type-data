@@ -1,7 +1,7 @@
 # Two Brothers
 
-* on `OPB`
-* One `WUPB`
+* On `KPA/OPB`
+* one `WUPB`
 * of `-F`
 * the `-T`
 * Danish `TKAEUPB/EURB`
@@ -11,7 +11,7 @@
 * Thingstones, `xxx Thingstones KW-BG`
 * seats `SAOETS`
 * justice `SKWRUFS`
-* Our `OUR`
+* our `OUR`
 * forefathers, `TPOER/TPA*T/ERS KW-BG`
 * still `STEUL`
 * stand `STAPBD`
@@ -36,6 +36,7 @@
 * with `W`
 * red `RED`
 * tiles. `TAOEULS TP-PL`
+* In `KPA/TPH`
 * these `THEZ`
 * strange `STRAEUPBG`
 * things `THEUPBGS`
@@ -44,6 +45,7 @@
 * over `OEFR`
 * glowing `TKPWHROEG`
 * coals `KOEL/-S`
+* on `OPB`
 * open `OEP`
 * hearth; `HAERT STPH*FPLT`
 * was `WAS`
@@ -59,14 +61,14 @@
 * up `UP`
 * pounded `POUPBD/-D`
 * mortars. `PHOR/TAR/-S TP-PL`
-* an `APB`
+* An `KPA/APB`
 * elderly `ERLD`
 * man `PHAPB`
 * looked `HRAOBGD`
 * after `AF`
 * it `T`
 * all. `AUL TP-PL`
-* "One `KR-GS WUPB`
+* "One `KR-GS KPA/WUPB`
 * must `PHUFT`
 * only `OEPBL`
 * do `TKO`
@@ -78,6 +80,7 @@
 * right—the `RAOEUT EPL/TKA*RB -T`
 * correct `KRERBG`
 * thing. `THEUPBG TP-PL`
+* One `KPA/WUPB`
 * find `TPEUPBD`
 * out `OUT`
 * truth `TRAO*UT`
@@ -101,7 +104,7 @@
 * had `H`
 * great `TKPWRAET`
 * thoughts. `THAUTS TP-PL`
-* their `THAEUR`
+* Their `KPA/THAEUR`
 * mother, `PHOER KW-BG`
 * too, `TAO KW-BG`
 * always `AULS`
@@ -114,13 +117,15 @@
 * she `SHE`
 * said `SAEUD`
 * countenance `KOUPBT/TPHAPBS`
-* Lord `HRORD`
+* Lord `HRO*RD`
 * this `TH`
 * world. `WORLD TP-PL`
+* The `KPA/-T`
 * elder `ELD/ER`
 * boys `PWOEUS`
 * roguish `ROEG/EURB`
 * enterprising. `EPBT/PRAOEUZ/-G TP-PL`
+* He `KPA/HE`
 * took `TAOBG`
 * delight `TKHRAOEUT`
 * reading `RAEGD`
@@ -135,7 +140,7 @@
 * him `HEUPL`
 * so `SO`
 * much. `PHUFP TP-PL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * how `HOU`
 * beautiful `PWAOUFL`
 * be, `-B KW-BG`
@@ -151,9 +156,9 @@
 * be `-B`
 * able `ABL`
 * fly! `TPHRAOEU SKHRAPL`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * that `THA`
-* Father `TPAER`
+* Father `KPA/TPAER`
 * right, `RAOEUT KW-BG`
 * mother `PHOER`
 * right—truth `RAOEUT EPL/TKA*RB TRAO*UT`
@@ -168,7 +173,7 @@
 * entirely `SPWAOEURL`
 * his `HEUS`
 * books. `PWAOBGS TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * read `RAED`
 * about `PW`
 * Jacob `SKWRAEU/KOB`
@@ -185,6 +190,7 @@
 * anger `ARPBG`
 * against `TKPWEPBS`
 * deceiver; `TKE/SAOEFR STPH*FPLT`
+* when `WHEPB`
 * tyrants `TAOEUR/APBTS`
 * injustice `EUPB/SRUFS`
 * wickedness `WEUBGD/-PBS`
@@ -218,6 +224,7 @@
 * finish `TP*EURB`
 * story `STOER`
 * Solon. `xxx Solon TP-PL`
+* His `KPA/HEUS`
 * thoughts `THAUTS`
 * lifted `HREUFTD`
 * carried `KAERD`
@@ -234,9 +241,11 @@
 * under `*UPBD`
 * full `TPUL`
 * sail. `SAEUL TP-PL`
+* Was `KPA/WAS`
 * dreaming, `TKRAOEPLG KW-BG`
 * what `WHA`
 * happening? `HAPG H-F`
+* It `KPA/T`
 * glided `TKPWHRAOEUD/-D`
 * rolling `ROLG`
 * waves `WAFS`
@@ -250,7 +259,7 @@
 * intelligible `EUPB/TEL/EUBL`
 * heard `HAERD`
 * motto: `PHOT/TOE STPH-FPLT`
-* "By `KR-GS PWEU`
+* "By `KR-GS KPA/PWEU`
 * law `HRAU`
 * land `HRAPBD`
 * is `S`
@@ -267,12 +276,13 @@
 * kiss `KEUS`
 * boy's `PWOEU AES`
 * forehead: `TPOER/HED STPH-FPLT`
-* "Be `KR-GS -B`
+* "Be `KR-GS KPA/-B`
 * thou `THO*U`
 * strong `STROPBG`
 * fame `TPAEUPL`
 * battle `PWA*LT`
 * life! `HRAOEUF SKHRAPL`
+* With `KPA/W`
 * thy `THAO*EU`
 * heart `HART`
 * fly `TPHRAOEU`
@@ -284,12 +294,14 @@
 * window `WOEUPBD`
 * looking `HRAOG`
 * mist `PHEUFT`
-* rose `ROEZ`
+* rose `ROES`
 * from `TPR`
 * meadows. `PHED/OES TP-PL`
+* They `KPA/THE`
 * elves `EFLS`
 * dancing `TKAPBS/-G`
 * there, `THR KW-BG`
+* their `THAEUR`
 * nurse `TPHURS`
 * told `TOLD`
 * knew `TPHAOU`
@@ -299,7 +311,7 @@
 * than `THAPB`
 * air, `AEUR KW-BG`
 * why `KWR`
-* rose. `ROEZ TP-PL`
+* rose. `ROES TP-PL`
 * A `KPA/AEU`
 * shooting `SHAOGT`
 * star `STAR`
@@ -318,16 +330,18 @@
 * threads `THREDZ`
 * hung `HUPBG`
 * earth. `*ERT TP-PL`
-* "Fly `KR-GS TPHRAOEU`
+* "Fly `KR-GS KPA/TPHRAOEU`
 * me," `PHE KW-BG KR-GS`
 * sang `SAPBG`
 * voice, `SROEUS KW-BG`
 * boy `PWOEU`
 * heart. `HART TP-PL`
+* And `AFPBD`
 * mighty `PHAOEUT/KWREU`
 * mankind, `PHAPB/KAOEUPBD KW-BG`
 * swifter `SWEUF/TER`
 * bird `PWEURD`
+* an `APB`
 * arrow—swifter `AR/OE EPL/TKA*RB SWEUF/TER`
 * anything `TPHEUG`
 * earthly `*ERT/HREU`
@@ -341,6 +355,7 @@
 * rays `RA*ES`
 * pass `PAS`
 * star. `STAR TP-PL`
+* Our `KPA/OUR`
 * revolved `ROFLD`
 * thin `THEUPB`
 * cities `STEUS`
@@ -348,11 +363,11 @@
 * close `KHROES`
 * each `AOEFP`
 * other. `OER TP-PL`
-* Through `THRU`
+* Through `KPA/THRU`
 * spheres `STPAOERS`
 * echoed `EBG/OE/-D`
 * words: `WORDZ STPH-FPLT`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * near, `TPHAOER KW-BG`
 * far, `TPAR KW-BG`
 * art `ART`
@@ -375,4 +390,4 @@
 * knows `TPHOEZ`
 * them—the `THEPL EPL/TKA*RB -T`
 * brothers `PWROERS`
-* Oersted. `*ERS/-D TP-PL`
+* Oersted. `KPA/*ERS/-D TP-PL`

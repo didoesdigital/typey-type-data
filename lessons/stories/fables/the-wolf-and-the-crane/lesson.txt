@@ -1,7 +1,7 @@
 The Wolf and the Crane
 
 'A': KPA/AEU
-'Wolf': WOFL
+'Wolf': KPA/WOFL
 'had': H
 'been': PW-PB
 'gorging': TKPWORPBLG/-G
@@ -29,7 +29,7 @@ The Wolf and the Crane
 'not': TPHOT
 'swallow': SWO*EUL
 'it.': T TP-PL
-'He': HE
+'He': KPA/HE
 'soon': SAOPB
 'felt': TPELT
 'terrible': TERBL
@@ -53,7 +53,7 @@ The Wolf and the Crane
 'relieve': RE/HREF
 'the': -T
 'pain.': PAEUPB TP-PL
-'He': HE
+'He': KPA/HE
 'tried': TRAOEUD
 'to': TO
 'induce': EUPB/TKAUS
@@ -77,17 +77,17 @@ The Wolf and the Crane
 'take': TAEUBG
 'it': T
 'out."': OUT TP-PL KR-GS
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'the': -T
-'Crane': KRAEUPB
+'Crane': KRA*EUPB
 'agreed': TKPWRAED
 'to': TO
 'try,': TREU KW-BG
 'and': SKP
 'told': TOLD
 'the': -T
-'Wolf': WOFL
+'Wolf': KPA/WOFL
 'to': TO
 'lie': HRAOEU
 'on': OPB
@@ -102,16 +102,16 @@ The Wolf and the Crane
 'as': AZ
 'he': HE
 'could.': KO TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
-'Crane': KRAEUPB
+'Crane': KRA*EUPB
 'put': PUT
 'its': EUTS
 'long': HROPBG
 'neck': TPHEBG
 'down': TKOUPB
 'the': -T
-'Wolf's': WOFL AES
+'Wolf's': KPA/WOFL AES
 'throat,': THROET KW-BG
 'and': SKP
 'with': W
@@ -127,7 +127,7 @@ The Wolf and the Crane
 'got': TKPWOT
 'it': T
 'out.': OUT TP-PL
-'"Will': KR-GS HR
+'"Will': KR-GS W*EUL
 'you': U
 'kindly': KAOEUPBD/HREU
 'give': TKPWEUF
@@ -138,9 +138,9 @@ The Wolf and the Crane
 'promised?"': PROPLS/-D H-F KR-GS
 'said': SAEUD
 'the': -T
-'Crane.': KRAEUPB TP-PL
-'The': -T
-'Wolf': WOFL
+'Crane.': KRA*EUPB TP-PL
+'The': KPA/-T
+'Wolf': KPA/WOFL
 'grinned': TKPWREUPB/-D
 'and': SKP
 'showed': SHOED
@@ -148,16 +148,16 @@ The Wolf and the Crane
 'teeth': TAO*ET
 'and': SKP
 'said:': SAEUD STPH-FPLT
-'"Be': KR-GS -B
+'"Be': KR-GS KPA/-B
 'content.': KAUPBT TP-PL
-'You': U
+'You': KPA/U
 'have': SR
 'put': PUT
 'your': KWROUR
 'head': HED
 'inside': TPH-DZ
 'a': AEU
-'Wolf's': WOFL AES
+'Wolf's': KPA/WOFL AES
 'mouth': PHO*UT
 'and': SKP
 'taken': TAEPB
@@ -174,7 +174,7 @@ The Wolf and the Crane
 'enough': TPHUF
 'for': TPOR
 'you."': U TP-PL KR-GS
-'Gratitude': TKPWRAT/TAOUD
+'Gratitude': KPA/TKPWRAT/TAOUD
 'and': SKP
 'greed': TKPWRAOED
 'go': TKPW

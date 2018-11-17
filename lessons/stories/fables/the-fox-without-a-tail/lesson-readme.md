@@ -1,10 +1,10 @@
 # The Fox Without a Tail
 
-* it `T`
+* It `KPA/T`
 * happened `HAPD`
 * that `THA`
 * a `AEU`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * caught `KAUT`
 * its `EUTS`
 * tail `TAEUL`
@@ -18,12 +18,13 @@
 * lost `HRO*S`
 * all `AUL`
 * of `-F`
-* But `PWUT`
+* it `T`
+* but `PWUT`
 * the `-T`
 * stump. `STUFRP TP-PL`
-* at `AT`
+* At `KPA/AT`
 * first `TPEUFRT`
-* He `HE`
+* he `HE`
 * was `WAS`
 * ashamed `A/SHAEUPLD`
 * show `SHOE`
@@ -31,6 +32,8 @@
 * his `HEUS`
 * fellow `TPO*EUL`
 * foxes. `TPOBGS/-S TP-PL`
+* But `KPA/PWUT`
+* at `AT`
 * last `HRAFT`
 * determined `TKERPLD`
 * put `PUT`
@@ -49,7 +52,7 @@
 * place `PHRAEUS`
 * before `PW-F`
 * them. `THEPL TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * they `THE`
 * assembled `A/SEPL/-BLD`
 * together `TOGT`
@@ -60,10 +63,12 @@
 * with `W`
 * their `THAEUR`
 * tails. `TAEULS TP-PL`
+* He `KPA/HE`
 * pointed `POEUPBTD`
 * out `OUT`
 * how `HOU`
 * inconvenient `EUPB/SRAOEPBT`
+* when `WHEPB`
 * were `WR`
 * pursued `PUR/SAOUD`
 * by `PWEU`
@@ -88,7 +93,7 @@
 * such `SUFP`
 * useless `AOUS/-LS`
 * encumbrance. `EPB/KUPL/PWRAPBS TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * is `S`
 * very `SRE`
 * well," `WEL KW-BG KR-GS`
@@ -111,6 +116,6 @@
 * if `TP`
 * lose `HRUZ`
 * yourself." `KWRO*URS TP-PL KR-GS`
-* Distrust `TKEUS/TRUFT`
+* Distrust `KPA/TKEUS/TRUFT`
 * interested `TR-D`
 * advice. `SREUS TP-PL`

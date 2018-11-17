@@ -1,10 +1,10 @@
 # The Lion and the Statue
 
 * A `KPA/AEU`
-* man `PHAPB`
+* Man `KPA/PHAPB`
 * and `SKP`
 * a `AEU`
-* Lion `HRO*EUPB`
+* Lion `KPA/HRO*EUPB`
 * were `WR`
 * discussing `SKUFG`
 * the `-T`
@@ -15,6 +15,7 @@
 * lions `HRAOEU/O*PBS`
 * in `TPH`
 * general. `SKWREPBL TP-PL`
+* The `KPA/-T`
 * contended `KAUPB/TEPBD/-D`
 * that `THA`
 * he `HE`
@@ -27,7 +28,7 @@
 * their `THAEUR`
 * greater `TKPWRAERT`
 * intelligence. `SPWEPBLGS TP-PL`
-* "Come `KR-GS KOPL`
+* "Come `KR-GS KPA/KOPL`
 * now `TPHOU`
 * with `W`
 * me," `PHE KW-BG KR-GS`
@@ -39,7 +40,7 @@
 * prove `PROF`
 * am `APL`
 * right." `RAOEUT TP-PL KR-GS`
-* So `SO`
+* So `KPA/SO`
 * took `TAOBG`
 * him `HEUPL`
 * into `TPHAO`
@@ -52,28 +53,30 @@
 * tearing `TAEURG`
 * mouth `PHO*UT`
 * two. `TWO TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * is `S`
 * all `AUL`
 * very `SRE`
 * well," `WEL KW-BG KR-GS`
 * said `SAEUD`
-* Lion, `HRO*EUPB KW-BG`
+* Lion, `KPA/HRO*EUPB KW-BG`
 * "but `KR-GS PWUT`
 * proves `PROFS`
 * nothing, `TPHOG KW-BG`
 * for `TPOR`
 * it `T`
 * was `WAS`
+* man `PHAPB`
 * who `WHO`
 * made `PHAED`
 * statue." `STOEUT TP-PL KR-GS`
-* we `WE`
+* We `KPA/WE`
 * can `K`
 * easily `AOELS`
 * represent `REPT`
 * things `THEUPBGS`
 * as `AZ`
+* we `WE`
 * wish `WEURB`
 * them `THEPL`
 * to `TO`

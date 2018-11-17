@@ -1,6 +1,6 @@
 # The Butterfly
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -25,6 +25,7 @@
 * among `PHOPBG`
 * the `-T`
 * flowers. `TPHRO*URS TP-PL`
+* He `KPA/HE`
 * glanced, `TKPWHRAPBS/-D KW-BG`
 * with `W`
 * critical `KR*EUL`
@@ -32,7 +33,7 @@
 * at `AT`
 * all `AUL`
 * flower-beds, `TPHRO*UR H-PB PWEDZ KW-BG`
-* And `SKP`
+* and `SKP`
 * found `TPOUPBD`
 * that `THA`
 * flowers `TPHRO*URS`
@@ -52,6 +53,7 @@
 * are `R`
 * engaged; `EPB/TKPWAEUBLG/-D STPH*FPLT`
 * but `PWUT`
+* there `THR`
 * great `TKPWRAET`
 * number `TPHUPL`
 * of `-F`
@@ -64,6 +66,7 @@
 * would `WO`
 * become `PW-BG`
 * wearisome. `WAOE/REU/SPH TP-PL`
+* The `KPA/-T`
 * did `TK`
 * not `TPHOT`
 * like `HRAOEUBG`
@@ -86,7 +89,7 @@
 * daisy `TKAEU/SEU`
 * can `K`
 * prophesy. `PROF/SEU TP-PL`
-* Lovers `HRUFRS`
+* Lovers `KPA/HRUFRS`
 * pluck `PHRUBG`
 * leaves, `HREFS KW-BG`
 * each `AOEFP`
@@ -96,18 +99,20 @@
 * about `PW`
 * lovers; `HRUFRS STPH*FPLT`
 * thus: `THUS STPH-FPLT`
-* "Does `KR-GS TKOS`
+* "Does `KR-GS KPA/TKOS`
 * or `OR`
 * she `SHE`
 * love `HRUF`
-* me?—Ardently? `PHE H-F EPL/TKA*RB ARD/EPBT/HREU H-F`
-* Distractedly? `TKEUS/TRABGD/HREU H-F`
+* me?—Ardently? `PHE H-F EPL/TKA*RB xxx Ardently H-F`
+* Distractedly? `xxx Distractedly H-F`
+* Very `KPA/SRE`
 * much? `PHUFP H-F`
 * A `KPA/AEU`
 * little? `HREUL H-F`
+* Not `KPA/TPHOT`
 * all?" `AUL H-F KR-GS`
 * on. `OPB TP-PL`
-* every `EF`
+* Every `KPA/EF`
 * speaks `SPAOEBGS`
 * these `THEZ`
 * words `WORDZ`
@@ -128,14 +133,14 @@
 * done `TKOPB`
 * by `PWEU`
 * kindness. `KEUPBD/-PBS TP-PL`
-* "Darling `KR-GS TKARLG`
+* "Darling `KR-GS KPA/TKARLG`
 * daisy," `TKAEU/SEU KW-BG KR-GS`
 * said `SAEUD`
 * her, `HER KW-BG`
 * "you `KR-GS U`
 * wisest `WAOEUZ/*ES`
 * woman `WOPL`
-* Pray `PRAEU`
+* Pray `KPA/PRAEU`
 * tell `TEL`
 * me `PHE`
 * which `WEU`
@@ -143,16 +148,19 @@
 * shall `SHAL`
 * my `PHEU`
 * wife. `WAOEUF TP-PL`
+* Which `KPA/WEU`
 * will `HR`
 * bride? `PWRAOEUD H-F`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * know, `TPHOE KW-BG`
 * fly `TPHRAOEU`
 * directly `TKREL`
 * propose." `PROEP TP-PL KR-GS`
+* But `KPA/PWUT`
 * answer `AEPBS`
 * him; `HEUPL STPH*FPLT`
 * offended `OE/TPEPBD/-D`
+* when `WHEPB`
 * only `OEPBL`
 * girl; `TKPWEURL STPH*FPLT`
 * is `S`
@@ -160,12 +168,13 @@
 * asked `SK-D`
 * second `SEBGD`
 * time, `TAOEUPL KW-BG`
-* Then `THEPB`
+* then `THEPB`
 * third; `THEURD STPH*FPLT`
 * remained `RE/PHAEUPBD`
 * dumb, `TKUPL KW-BG`
 * answered `AEPBS/-D`
 * word. `WORD TP-PL`
+* Then `KPA/THEPB`
 * wait `WAEUT`
 * no `TPHO`
 * longer, `HRORPBG KW-BG`
@@ -173,20 +182,21 @@
 * commence `KPHEPBS`
 * wooing `WAO/-G`
 * once. `WUPBS TP-PL`
+* It `KPA/T`
 * early `ERL`
 * spring, `SPREUPBG KW-BG`
 * crocus `KROE/KUS`
 * snowdrop `xxx snowdrop`
 * full `TPUL`
 * bloom. `PWHRAOPL TP-PL`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * pretty," `PREUT KW-BG KR-GS`
 * butterfly; `PW*URT/TPHRAOEU STPH*FPLT`
 * "charming `KR-GS KHARPL/-G`
 * lasses; `HRAS/-S STPH*FPLT`
 * rather `RAER`
 * formal." `TPORL TP-PL KR-GS`
-* Then, `THEPB KW-BG`
+* Then, `KPA/THEPB KW-BG`
 * young `KWRUPBG`
 * lads `HRADZ`
 * often `OFPB`
@@ -252,14 +262,14 @@
 * withered `WEU/THER/-D`
 * hanging `HAPBG/-G`
 * end. `EPBD TP-PL`
-* "Who `KR-GS WHO`
+* "Who `KR-GS KPA/WHO`
 * that?" `THA H-F KR-GS`
 * asked. `SK-D TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * sister," `ST-R KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * pea-blossom. `PAE H-PB PWHROFPL TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * indeed; `TPHAOEPBD STPH*FPLT`
 * you `U`
 * some `SOPL`
@@ -281,10 +291,10 @@
 * faces `TPAEUFS`
 * sallow `SAL/HROE`
 * complexions. `KPHR*EBGS/-S TP-PL`
-* No; `TPHO STPH*FPLT`
+* No; `KPA/TPHO STPH*FPLT`
 * her. `HER TP-PL`
 * like? `HRAOEUBG H-F`
-* Spring `SPREUPBG`
+* Spring `KPA/SPREUPBG`
 * went `WEPBT`
 * by, `PWEU KW-BG`
 * summer `SAOURPL`
@@ -304,6 +314,7 @@
 * fragrant `TPRAEUG/RAPBT`
 * air `AEUR`
 * youth. `KWRAO*UT TP-PL`
+* For `KPA/TPOR`
 * heart `HART`
 * asks `SK-S`
 * fragrance, `TPRAEUG/RAPBS KW-BG`
@@ -317,6 +328,7 @@
 * turned `TURPBD`
 * mint `PHEUPBT`
 * ground. `TKPWROUPBD TP-PL`
+* You `KPA/U`
 * plant `PHRAPBT`
 * has `HAS`
 * blossom; `PWHROFPL STPH*FPLT`
@@ -326,6 +338,7 @@
 * head `HED`
 * foot, `TPAOT KW-BG`
 * scent `SKEPBT`
+* every `EF`
 * leaf. `HRAOEF TP-PL`
 * "I `KR-GS EU`
 * her," `HER KW-BG KR-GS`
@@ -336,8 +349,9 @@
 * stiff, `STEUF KW-BG`
 * listened `HREUFPBD`
 * him. `HEUPL TP-PL`
+* At `KPA/AT`
 * said,— `SAEUD KW-BG EPL/TKA*RB`
-* "Friendship, `KR-GS TPREP KW-BG`
+* "Friendship, `KR-GS KPA/TPREP KW-BG`
 * please; `PHRES STPH*FPLT`
 * nothing `TPHOG`
 * more. `PHOR TP-PL`
@@ -355,6 +369,7 @@
 * ridiculous `REULGS`
 * our `OUR`
 * age." `AEUPBLG TP-PL KR-GS`
+* And `AFPBD`
 * happened `HAPD`
 * got `TKPWOT`
 * wife `WAOEUF`
@@ -399,7 +414,7 @@
 * said, `SAEUD KW-BG`
 * well `WEL`
 * enough. `TPHUF TP-PL`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * enough `TPHUF`
 * merely `PHAOERL`
 * exist," `KPEUFT KW-BG KR-GS`
@@ -419,13 +434,14 @@
 * pin, `PEUPB KW-BG`
 * box `PWOBGS`
 * curiosities. `KAOURS/TEUS TP-PL`
+* They `KPA/THE`
 * do `TKO`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * perched `PER/-FPD`
 * stalk, `STAUBG KW-BG`
 * flowers," `TPHRO*URS KW-BG KR-GS`
 * butterfly. `PW*URT/TPHRAOEU TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * pleasant, `PHREFPBT KW-BG`
 * certainly; `SERPBL STPH*FPLT`
 * imagine `PHAPBLG`
@@ -443,7 +459,7 @@
 * plants `PHRAPBTS`
 * grew `TKPWRAOU`
 * pot. `POT TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * butterfly, `PW*URT/TPHRAOEU KW-BG`
 * "one `KR-GS WUPB`
 * can't `K-PBT`

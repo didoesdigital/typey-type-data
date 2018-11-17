@@ -1,6 +1,6 @@
 # The Old Woman and the Wine-Jar
 
-* You `U`
+* You `KPA/U`
 * must `PHUFT`
 * know `TPHOE`
 * that `THA`
@@ -12,12 +12,12 @@
 * glass `TKPWHRAS`
 * of `-F`
 * wine. `WAOEUPB TP-PL`
-* One `WUPB`
+* One `KPA/WUPB`
 * this `TH`
 * sort `SORT`
 * once `WUPBS`
 * found `TPOUPBD`
-* Wine-jar `WAOEUPB H-PB SKWRAR`
+* Wine-jar `KPA/WAOEUPB H-PB SKWRAR`
 * lying `HRAOEUG`
 * in `TPH`
 * the `-T`
@@ -31,7 +31,7 @@
 * hoping `HOEPG`
 * find `TPEUPBD`
 * full. `TPUL TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * when `WHEPB`
 * she `SHE`
 * took `TAOBG`
@@ -42,15 +42,15 @@
 * drunk `TKR*UPBG`
 * out `OUT`
 * it. `T TP-PL`
-* Still `STEUL`
+* Still `KPA/STEUL`
 * long `HROPBG`
 * sniff `STPHEUF`
 * at `AT`
 * mouth `PHO*UT`
-* Jar. `SKWRAR TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* Jar. `KPA/SKWRAR TP-PL`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * cried, `KRAOEUD KW-BG`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * memories `PHOEURPLS`
 * cling `KHREUPBG`
 * 'round `RO*UPBD`

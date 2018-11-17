@@ -20,7 +20,7 @@
 * shining `SHAOEUPBG`
 * amid `A/PHEUD`
 * straw. `STRAU TP-PL`
-* "Ho! `KR-GS HO*E SKHRAPL`
+* "Ho! `KR-GS KPA/HO*E SKHRAPL`
 * ho!" `HO*E SKHRAPL KR-GS`
 * quoth `KWO*ET`
 * he, `HE KW-BG`
@@ -33,14 +33,14 @@
 * out `OUT`
 * from `TPR`
 * beneath `TPHAO*ET`
-* What `WHA`
+* What `KPA/WHA`
 * did `TK`
 * turn `TURPB`
 * to `TO`
 * be `-B`
 * but `PWUT`
 * a `AEU`
-* Pearl `PERL`
+* Pearl `PERL/PERL`
 * that `THA`
 * by `PWEU`
 * some `SOPL`
@@ -50,11 +50,11 @@
 * lost `HRO*S`
 * in `TPH`
 * yard? `KWRARD H-F`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * may `PHAE`
 * treasure," `TRERB KW-BG KR-GS`
-* Master `PHAFRT`
-* Cock, `KOBG KW-BG`
+* Master `KPA/PHAFRT`
+* Cock, `KPA/KOBG KW-BG`
 * "to `KR-GS TO`
 * men `PHEPB`
 * prize `PRAOEUZ`
@@ -70,7 +70,7 @@
 * peck `PEBG`
 * of `-F`
 * pearls." `PERLS TP-PL KR-GS`
-* Precious `PRERBS`
+* Precious `KPA/PRERBS`
 * things `THEUPBGS`
 * are `R`
 * those `THOZ`

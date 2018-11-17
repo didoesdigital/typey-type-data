@@ -1,11 +1,12 @@
 # The Old Church Bell
 
 *  ``
-* in `TPH`
-* The `-T`
+* In `KPA/TPH`
+* the `-T`
 * country `KREU`
 * of `-F`
 * Wurtemburg, `xxx Wurtemburg KW-BG`
+* in `TPH`
 * Germany, `SKWRERPL/TPHEU KW-BG`
 * where `W-R`
 * acacias `A/KAEU/SHA/-S`
@@ -28,7 +29,7 @@
 * little `HREUL`
 * town `TOUPB`
 * Marbach. `xxx Marbach TP-PL`
-* as `AZ`
+* As `KPA/AZ`
 * is `S`
 * often `OFPB`
 * case `KAEUS`
@@ -60,6 +61,7 @@
 * those `THOZ`
 * stately `STAEULT`
 * Rhine. `RAO*EUPB TP-PL`
+* It `KPA/T`
 * was `WAS`
 * late `HRAEUT`
 * autumn; `AU/UPL STPH*FPLT`
@@ -93,13 +95,15 @@
 * weather `WHR*`
 * for `TPOR`
 * poor. `PAOR TP-PL`
+* The `KPA/-T`
 * days `TKAEUS`
 * grew `TKPWRAOU`
 * shorter `SHORT/*ER`
 * more `PHOR`
 * gloomy, `TKPWHRAO/PH*EU KW-BG`
 * and, `SKP KW-BG`
-* Dark `TKARBG`
+* dark `TKARBG`
+* as `AZ`
 * out `OUT`
 * doors `TKAORS`
 * open `OEP`
@@ -130,12 +134,13 @@
 * humble, `UPL/-BL KW-BG`
 * treasured `TRERB/-D`
 * fear `TPAOER`
-* God `TKPWOD`
+* God `TKPWO*D`
 * their `THAEUR`
 * innermost `EUPB/ER/PHO*ES`
 * hearts. `HARTS TP-PL`
+* And `AFPBD`
 * now `TPHOU`
-* He `HE`
+* He `KPA/HE`
 * about `PW`
 * send `SEPBD`
 * them `THEPL`
@@ -195,13 +200,14 @@
 * joyously `SKWROEU/OUS/HREU`
 * November `TPHOF`
 * day. `TKAEU TP-PL`
+* Its `KPA/EUTS`
 * parents `PARPBTS`
 * kissed `K*EUFD`
 * lovingly, `HR*UF/TKPWHREU KW-BG`
 * father `TPAER`
 * wrote `WRO`
-* Bible, `PWAOEUBL KW-BG`
-* "On `KR-GS OPB`
+* Bible, `PWAO*EUBL KW-BG`
+* "On `KR-GS KPA/OPB`
 * tenth `TA*EPBT`
 * November, `TPHOF KW-BG`
 * 1759, `xxx 1759 KW-BG`
@@ -214,6 +220,7 @@
 * child `KHAOEULD`
 * baptized, `PAPT/AOEUZ/-D KW-BG`
 * names `TPHAEUPLS`
+* he `HE`
 * received `SAOEFD`
 * added, `AD/-D KW-BG`
 * "John `KR-GS SKWROPB`
@@ -224,7 +231,7 @@
 * lad?—the `HRAD H-F EPL/TKA*RB -T`
 * boy `PWOEU`
 * Marbach? `xxx Marbach H-F`
-* Ah, `HA*E KW-BG`
+* Ah, `KPA/HA*E KW-BG`
 * indeed, `TPHAOEPBD KW-BG`
 * no `TPHO`
 * thought `THAUT`
@@ -240,13 +247,13 @@
 * sing `SEUPBG`
 * beautiful `PWAOUFL`
 * song `SOPBG`
-* "The `KR-GS -T`
-* Bell." `PWEL TP-PL KR-GS`
+* "The `KR-GS KPA/-T`
+* Bell." `PWEL/PWEL TP-PL KR-GS`
 * apace, `xxx apace KW-BG`
 * world `WORLD`
 * advanced `SRAPBS/-D`
 * him. `HEUPL TP-PL`
-* While `WHAOEUL`
+* While `KPA/WHAOEUL`
 * yet `KWRET`
 * child, `KHAOEULD KW-BG`
 * his `HEUS`
@@ -300,11 +307,12 @@
 * scalding `SKALD/-G`
 * tears `TAERS`
 * story `STOER`
-* him `HEUPL`
+* Him `KPA/HEUPL`
 * suffered `SUFRD`
 * death `TK*T`
 * cross `KROS`
 * all. `AUL TP-PL`
+* On `KPA/OPB`
 * appeared `A/PAOERD`
 * have `SR`
 * changed `KHAEUPBGD`
@@ -327,9 +335,10 @@
 * same `SAEUPL`
 * former `TPORPL/*ER`
 * times. `TAOEUPLS TP-PL`
+* But `KPA/PWUT`
 * churchyard `KH*URPBLG/KWRARD`
 * new `TPHU`
-* graves; `TKRA*EUFS STPH*FPLT`
+* graves; `TKPWRAEUFS STPH*FPLT`
 * also, `HR-S KW-BG`
 * grass, `TKPWRAS KW-BG`
 * close `KHROES`
@@ -353,7 +362,7 @@
 * bell, `PWEL KW-BG`
 * look `HRAOBG`
 * it. `T TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * reminded `RE/PHAOEUPBD/T-D`
 * useful `AOUFL`
 * hundred `HUPBD`
@@ -366,6 +375,7 @@
 * give `TKPWEUF`
 * alarm `A/HRARPL`
 * fire. `TPAOEUR TP-PL`
+* With `KPA/W`
 * every `EF`
 * event `EFPBT`
 * life `HRAOEUF`
@@ -373,7 +383,9 @@
 * made `PHAED`
 * voice `SROEUS`
 * heard. `HAERD TP-PL`
+* His `KPA/HEUS`
 * told `TOLD`
+* him `HEUPL`
 * how `HOU`
 * once `WUPBS`
 * heart `HART`
@@ -423,7 +435,7 @@
 * good, `TKPWAOD KW-BG`
 * future `TPAOURT`
 * enviable. `EPB/SREUBL TP-PL`
-* we `WE`
+* We `KPA/WE`
 * find `TPEUPBD`
 * taking `TAEUG`
 * honors `HO*RPBS`
@@ -458,11 +470,12 @@
 * furnace `TPURPBS`
 * make `PHAEUBG`
 * before. `PW-F TP-PL`
+* No `KPA/TPHO`
 * could `KO`
 * possibly `POBL`
 * foretold `TPOER/TOLD`
 * this. `TH TP-PL`
-* Equally `KWAEL`
+* Equally `KPA/KWAEL`
 * impossible `EUPL/POB`
 * believe `PWHREF`
 * echoed `EBG/OE/-D`
@@ -470,6 +483,7 @@
 * loud `HROUD`
 * strong `STROPBG`
 * world. `WORLD TP-PL`
+* They `KPA/THE`
 * space `SPAEUS`
 * school-wall, `SKAOL H-PB WAUL KW-BG`
 * above `PWOF`
@@ -499,6 +513,7 @@
 * ordered `ORD/-D`
 * like `HRAOEUBG`
 * clockwork, `xxx clockwork KW-BG`
+* we `WE`
 * know `TPHOE`
 * greatest `TKPWRAET/EFT`
 * utility—people `AOULT EPL/TKA*RB PAOEPL`
@@ -622,6 +637,7 @@
 * he, `HE KW-BG`
 * sang `SAPBG`
 * ideal. `KWR-L TP-PL`
+* For `KPA/TPOR`
 * nights `TPHAOEUTS`
 * suffer `SUFR`
 * enable `TPHAEUBL`
@@ -631,6 +647,7 @@
 * yet, `KWRET KW-BG`
 * minstrel `PHEUPBS/TREL`
 * sing. `SEUPBG TP-PL`
+* Dark `KPA/TKARBG`
 * passed `PAFD`
 * noticed `TPH-TSD`
 * not; `TPHOT STPH*FPLT`
@@ -638,6 +655,7 @@
 * felt `TPELT`
 * gloomy `TKPWHRAO/PH*EU`
 * time. `TAOEUPL TP-PL`
+* What `KPA/WHA`
 * become `PW-BG`
 * young `KWRUPBG`
 * bell? `PWEL H-F`
@@ -664,6 +682,7 @@
 * Marbach `xxx Marbach`
 * sold `SOELD`
 * copper; `KOP/ER STPH*FPLT`
+* then `THEPB`
 * Bavaria `PWA/SRAEUF/KWRA`
 * melted `PHELT/-D`
 * furnace. `TPURPBS TP-PL`
@@ -686,7 +705,7 @@
 * wonderfully `WOPBD/TPHREU`
 * things `THEUPBGS`
 * ordered. `ORD/-D TP-PL`
-* Strange `STRAEUPBG`
+* Strange `KPA/STRAEUPBG`
 * happen `HAP`
 * Denmark, `TKEPB/PHARBG KW-BG`
 * islands `AOEU/HRAPBDZ`
@@ -695,7 +714,7 @@
 * rustles `RUS/-LS`
 * wind, `WEUPBD KW-BG`
 * Huns' `xxx Huns AE`
-* graves `TKRA*EUFS`
+* graves `TKPWRAEUFS`
 * may `PHAE`
 * seen, `SAOEPB KW-BG`
 * born. `PWORPB TP-PL`
@@ -707,6 +726,7 @@
 * worn-out `WORPB H-PB OUT`
 * shawl, `SHAUL KW-BG`
 * dinner `TKEURPB`
+* This `KPA/TH`
 * pride `PRAOEUD`
 * country; `KREU STPH*FPLT`
 * sculptured `SKUP/KHURD`
@@ -715,6 +735,7 @@
 * hands, `HAPBDZ KW-BG`
 * astonished `A/STOPB/EURBD`
 * world.[1] `WORLD TP-PL PWR-BGT #S PWR*BGT`
+* To `KPA/TO`
 * offered `OFRD`
 * forming `TPORPLG`
 * clay, `KHRAEU KW-BG`
@@ -723,7 +744,7 @@
 * whose `WHOZ`
 * name, `TPHAEUPL KW-BG`
 * Frederick," `TPRED/REUBG KW-BG KR-GS`
-* Bible. `PWAOEUBL TP-PL`
+* Bible. `PWAO*EUBL TP-PL`
 * bust `PWUFT`
 * cast `KAFT`
 * bronze, `PWROPBZ KW-BG`
@@ -761,9 +782,9 @@
 * Switzerland's `SWEUZ/HRAPBD AES`
 * deliverer, `THREUFR/*ER KW-BG`
 * William `WOEUPL`
-* Tell, `TEL KW-BG`
+* Tell, `KPA/TEL KW-BG`
 * heaven-inspired `HEFPB H-PB EUPB/SPAOEURD`
-* Maid `PHAEUD`
+* Maid `KPA/PHAEUD`
 * Orleans. `AUR/HRAOEPB/-S TP-PL`
 * sunny `SAOUPB`
 * day; `TKAEU STPH*FPLT`
@@ -774,6 +795,7 @@
 * bells `PWELS`
 * ringing `REUPBG/-G`
 * peal. `PA*EL TP-PL`
+* One `KPA/WUPB`
 * silent; `SHREPBT STPH*FPLT`
 * illuminated `EUL/AOUPL/TPHAEUT/-D`
 * sunshine `SUPB/SHAO*EUPB`

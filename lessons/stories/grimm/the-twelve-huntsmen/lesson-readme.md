@@ -1,6 +1,6 @@
 # The Twelve Huntsmen
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -14,11 +14,12 @@
 * loved `HROFD`
 * very `SRE`
 * much. `PHUFP TP-PL`
-* and `SKP`
+* And `AFPBD`
 * when `WHEPB`
 * sitting `SEUGT`
 * beside `PWE/SAOEUD`
 * her `HER`
+* and `SKP`
 * happy, `HAEP KW-BG`
 * news `TPHUS`
 * came `KAEUPL`
@@ -36,12 +37,12 @@
 * again `TKPWEPB`
 * before `PW-F`
 * end. `EPBD TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * said `SAEUD`
 * beloved: `PWHROFD STPH-FPLT`
 * 'I `AE EU`
 * must `PHUFT`
-* Now `TPHOU`
+* now `TPHOU`
 * go `TKPW`
 * leave `HREF`
 * you, `U KW-BG`
@@ -53,13 +54,14 @@
 * remembrance `RERPBS`
 * of `-F`
 * me. `PHE TP-PL`
+* When `KPA/WHEPB`
 * am `APL`
 * king, `KEUPBG KW-BG`
 * will `HR`
 * return `RURPB`
 * fetch `TPEFP`
 * you.' `U TP-PL AE`
-* so `SO`
+* So `KPA/SO`
 * rode `ROED`
 * away, `A/WAEU KW-BG`
 * reached `RAOEFPD`
@@ -70,8 +72,9 @@
 * ill, `EUL KW-BG`
 * near `TPHAOER`
 * death. `TK*T TP-PL`
+* He `KPA/HE`
 * him: `HEUPL STPH-FPLT`
-* 'Dear `AE TKAER`
+* 'Dear `AE KPA/TKAER`
 * son, `SOPB KW-BG`
 * wished `WEURBD`
 * my `PHEU`
@@ -85,6 +88,7 @@
 * daughter `TKAUR`
 * be `-B`
 * wife. `WAOEUF TP-PL`
+* The `KPA/-T`
 * in `TPH`
 * such `SUFP`
 * trouble `TRUBL`
@@ -94,12 +98,12 @@
 * what `WHA`
 * doing, `TK*G KW-BG`
 * said: `SAEUD STPH-FPLT`
-* 'Yes, `AE KWRE KW-BG`
+* 'Yes, `AE KPA/KWRE KW-BG`
 * dear `TKAER`
 * your `KWROUR`
 * shall `SHAL`
 * done,' `TKOPB KW-BG AE`
-* Thereupon `THRUP`
+* thereupon `THRUP`
 * king `KEUPBG`
 * shut `SHUT`
 * eyes, `AO*EUS KW-BG`
@@ -120,24 +124,28 @@
 * she `SHE`
 * promised `PROPLS/-D`
 * him. `HEUPL TP-PL`
+* His `KPA/HEUS`
 * first `TPEUFRT`
 * betrothed `PWE/TRO*T/-D`
 * heard `HAERD`
 * this, `TH KW-BG`
 * fretted `TPRET/-D`
+* so `SO`
 * much `PHUFP`
 * about `PW`
 * faithfulness `xxx faithfulness`
 * nearly `TPHAOERL`
 * her: `HER STPH-FPLT`
-* 'Dearest `AE TKAER/EFT`
+* 'Dearest `AE KPA/TKAER/EFT`
 * child, `KHAOEULD KW-BG`
 * why `KWR`
 * are `R`
 * sad? `SAD H-F`
+* You `KPA/U`
 * have `SR`
 * whatsoever `WHA/SOFR`
 * will.' `HR TP-PL AE`
+* She `KPA/SHE`
 * thought `THAUT`
 * for `TPOR`
 * moment `PHOEPLT`
@@ -150,7 +158,7 @@
 * face, `TPAEUS KW-BG`
 * figure, `TPEUG KW-BG`
 * size.' `SAOEUZ TP-PL AE`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * it `T`
 * possible, `POB KW-BG`
 * desire `STKAOEUR`
@@ -181,6 +189,7 @@
 * herself `H*ERS`
 * twelfth `TWEFLT`
 * suit. `SAOUT TP-PL`
+* Thereupon `KPA/THRUP`
 * took `TAOBG`
 * away `A/WAEU`
 * with `W`
@@ -202,10 +211,10 @@
 * at `AT`
 * know `TPHOE`
 * her, `HER KW-BG`
-* But `PWUT`
+* but `PWUT`
 * handsome `HAPBD/SOPL`
 * fellows, `TPO*EULS KW-BG`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * willingly `HR-G/HREU`
 * huntsmen. `HUPBTS/PH*EPB TP-PL`
 * however, `HOUF KW-BG`
@@ -216,24 +225,25 @@
 * concealed `KAUPB/SAOELD`
 * secret `SKRET`
 * things. `THEUPBGS TP-PL`
+* It `KPA/T`
 * pass `PAS`
 * one `WUPB`
 * evening `AOEPBG`
 * king: `KEUPBG STPH-FPLT`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * huntsmen?' `HUPBTS/PH*EPB H-F AE`
-* 'They `AE THE`
+* 'they `AE THE`
 * huntsmen.' `HUPBTS/PH*EPB TP-PL AE`
 * continued: `T-PBD STPH-FPLT`
 * mistaken, `SPHA*EUPB KW-BG`
 * girls.' `TKPWEURLS TP-PL AE`
-* 'That `AE THA`
+* 'That `AE KPA/THA`
 * cannot `K/TPHOT`
 * true! `TRAOU SKHRAPL`
-* How `HOU`
+* How `KPA/HOU`
 * prove `PROF`
 * me?' `PHE H-F AE`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * just `SKWRUFT`
 * let `HRET`
 * some `SOPL`
@@ -243,9 +253,10 @@
 * answered `AEPBS/-D`
 * lion, `HRO*EUPB KW-BG`
 * 'and `AE SKP`
+* then `THEPB`
 * soon `SAOPB`
 * see. `SAOE TP-PL`
-* Men `PHEPB`
+* Men `KPA/PHEPB`
 * firm `TPEURPL`
 * step, `STEP KW-BG`
 * walk `WAUBG`
@@ -272,14 +283,14 @@
 * went `WEPBT`
 * repeated `RE/PAOETD`
 * everything, `EFG KW-BG`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * wants `WAPBTS`
 * make `PHAEUBG`
 * believe `PWHREF`
 * thanked `THAPBGD`
 * him, `HEUPL KW-BG`
 * maidens: `PHAEUD/EPB/-S STPH-FPLT`
-* 'Show `AE SHOE`
+* 'Show `AE KPA/SHOE`
 * strength, `STREPBG KW-BG`
 * step `STEP`
 * firmly `TPEURPL/HREU`
@@ -304,10 +315,12 @@
 * lied `HRAOEUD`
 * me, `PHE KW-BG`
 * men.' `PHEPB TP-PL AE`
+* 'They `AE KPA/THE`
 * informed `TPH-FD`
 * test, `TEFT KW-BG`
 * assumed `A/SAOUPLD`
 * strength. `STREPBG TP-PL`
+* Just `KPA/SKWRUFT`
 * spinning-wheels `SPEUPBG H-PB WHAOELS`
 * brought `PWRAUT`
 * ante-chamber, `APB/TAOE H-PB KHAEURPL KW-BG`
@@ -319,6 +332,7 @@
 * advice, `SREUS KW-BG`
 * placed `PHRAEUFD`
 * ante-chamber. `APB/TAOE H-PB KHAEURPL TP-PL`
+* But `KPA/PWUT`
 * servant, `SEFRB/APBT KW-BG`
 * disposed `TKEUS/POES/-D`
 * disclosed `TKEUS/HROES/-D`
@@ -347,6 +361,7 @@
 * liking `HRAO*EUG`
 * continually `TAEPBL`
 * increased. `EUPB/KRAOEFD TP-PL`
+* Now `KPA/TPHOU`
 * out `OUT`
 * hunting, `HUPBT/-G KW-BG`
 * approaching. `A/PROEFPG TP-PL`

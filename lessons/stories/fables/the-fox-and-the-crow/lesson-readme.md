@@ -1,18 +1,18 @@
 # The Fox and the Crow
 
 * A `KPA/AEU`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * once `WUPBS`
 * saw `SAU`
 * a `AEU`
-* Crow `KROE`
+* Crow `KPA/KROE`
 * fly `TPHRAOEU`
 * off `OF`
 * with `W`
 * piece `PAOES`
 * of `-F`
 * cheese `KHAOES`
-* In `TPH`
+* in `TPH`
 * its `EUTS`
 * beak `PWAOEBG`
 * and `SKP`
@@ -26,9 +26,9 @@
 * as `AZ`
 * I `EU`
 * am `APL`
-* Fox," `TPOBGS KW-BG KR-GS`
+* Fox," `KPA/TPOBGS KW-BG KR-GS`
 * said `SAEUD`
-* Master `PHAFRT`
+* Master `KPA/PHAFRT`
 * Reynard, `RAEU/TPHARD KW-BG`
 * he `HE`
 * walked `WAUBGD`
@@ -36,11 +36,11 @@
 * to `TO`
 * the `-T`
 * foot `TPAOT`
-* "Good-day, `KR-GS TKPWAOD H-PB TKAEU KW-BG`
-* Mistress `PHEUS/TRES`
-* Crow," `KROE KW-BG KR-GS`
+* "Good-day, `KR-GS KPA/TKPWAOD H-PB TKAEU KW-BG`
+* Mistress `KPA/PHEUS/TRES`
+* Crow," `KPA/KROE KW-BG KR-GS`
 * cried. `KRAOEUD TP-PL`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * well `WEL`
 * you `U`
 * are `R`
@@ -72,8 +72,9 @@
 * from `TPR`
 * may `PHAE`
 * greet `TKPWRAOET`
-* Queen `KWAOEPB`
-* Birds." `PWEURDZ TP-PL KR-GS`
+* Queen `KWAO*EPB`
+* Birds." `KPA/PWEURDZ TP-PL KR-GS`
+* The `KPA/-T`
 * lifted `HREUFTD`
 * her `HER`
 * head `HED`
@@ -90,19 +91,20 @@
 * be `-B`
 * snapped `STPHAPD`
 * by `PWEU`
-* Fox. `TPOBGS TP-PL`
-* "That `KR-GS THA`
+* Fox. `KPA/TPOBGS TP-PL`
+* "That `KR-GS KPA/THA`
 * will `HR`
 * do," `TKO KW-BG KR-GS`
 * he. `HE TP-PL`
 * was `WAS`
 * all `AUL`
 * wanted. `WAPBTD TP-PL`
+* In `KPA/TPH`
 * exchange `KPAEUPBG`
 * give `TKPWEUF`
 * advice `SREUS`
 * future. `TPAOURT TP-PL`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * not `TPHOT`
 * trust `TRUFT`
 * flatterers." `TPHRAT/RER/-S TP-PL KR-GS`

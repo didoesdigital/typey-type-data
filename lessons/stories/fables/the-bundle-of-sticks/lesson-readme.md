@@ -1,6 +1,6 @@
 # The Bundle of Sticks
 
-* An `APB`
+* An `KPA/APB`
 * old `OLD`
 * man `PHAPB`
 * on `OPB`
@@ -19,7 +19,7 @@
 * some `SOPL`
 * parting `PART/-G`
 * advice. `SREUS TP-PL`
-* he `HE`
+* He `KPA/HE`
 * ordered `ORD/-D`
 * servants `SER/SRAPBTS`
 * bring `PWREU`
@@ -31,8 +31,9 @@
 * said `SAEUD`
 * eldest `ELD/EFT`
 * son: `SOPB STPH-FPLT`
-* "Break `KR-GS PWRAEBG`
+* "Break `KR-GS KPA/PWRAEBG`
 * it." `T TP-PL KR-GS`
+* The `KPA/-T`
 * son `SOPB`
 * strained `STRAEUPBD`
 * strained, `STRAEUPBD KW-BG`
@@ -43,13 +44,13 @@
 * was `WAS`
 * unable `TPHA*EUBL`
 * break `PWRAEBG`
-* Bundle. `PWUPBLD TP-PL`
+* Bundle. `KPA/PWUPBLD TP-PL`
 * other `OER`
 * also `HR-S`
 * tried, `TRAOEUD KW-BG`
 * none `TPHOPB`
 * successful. `SKEFL TP-PL`
-* "Untie `KR-GS UPB/TAOEU`
+* "Untie `KR-GS KPA/UPB/TAOEU`
 * faggots," `TPAGT/-S KW-BG KR-GS`
 * father, `TPAER KW-BG`
 * "and `KR-GS SKP`
@@ -57,25 +58,26 @@
 * you `U`
 * take `TAEUBG`
 * stick." `STEUBG TP-PL KR-GS`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * they `THE`
 * had `H`
 * done `TKOPB`
 * so, `SO KW-BG`
+* he `HE`
 * called `KAULD`
 * out `OUT`
 * them: `THEPL STPH-FPLT`
-* "Now, `KR-GS TPHOU KW-BG`
+* "Now, `KR-GS KPA/TPHOU KW-BG`
 * break," `PWRAEBG KW-BG KR-GS`
 * stick `STEUBG`
 * easily `AOELS`
 * broken. `PWROEPB TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * see `SAOE`
 * my `PHEU`
 * meaning," `PHAOEPBG KW-BG KR-GS`
 * their `THAEUR`
 * father. `TPAER TP-PL`
-* Union `TPHAOUPB`
+* Union `AO*UPB/KWROPB`
 * gives `TKPWEUFS`
 * strength. `STREPBG TP-PL`

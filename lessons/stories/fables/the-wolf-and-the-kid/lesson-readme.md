@@ -1,7 +1,7 @@
 # The Wolf and the Kid
 
 * A `KPA/AEU`
-* Kid `KEUD`
+* Kid `KPA/KEUD`
 * was `WAS`
 * perched `PER/-FPD`
 * up `UP`
@@ -15,11 +15,11 @@
 * looking `HRAOG`
 * down `TKOUPB`
 * saw `SAU`
-* Wolf `WOFL`
+* Wolf `KPA/WOFL`
 * passing `PAFG`
 * under `*UPBD`
 * him. `HEUPL TP-PL`
-* Immediately `PHAOELD`
+* Immediately `KPA/PHAOELD`
 * he `HE`
 * began `TKPWAPB`
 * to `TO`
@@ -27,7 +27,7 @@
 * attack `A/TABG`
 * his `HEUS`
 * enemy. `EPB/PHEU TP-PL`
-* "Murderer `KR-GS PHURD/RER`
+* "Murderer `KR-GS KPA/PHURD/RER`
 * thief," `THAOEF KW-BG KR-GS`
 * cried, `KRAOEUD KW-BG`
 * "what `KR-GS WHA`
@@ -38,7 +38,7 @@
 * honest `HO*PBS`
 * folks' `TPOBG AE`
 * houses? `HO*UFS H-F`
-* How `HOU`
+* How `KPA/HOU`
 * dare `TKAEUR`
 * make `PHAEUBG`
 * an `APB`
@@ -49,14 +49,14 @@
 * deeds `TKAOEDZ`
 * are `R`
 * known?" `TPHOEPB H-F KR-GS`
-* "Curse `KR-GS KURS`
+* "Curse `KR-GS KPA/KURS`
 * away, `A/WAEU KW-BG`
 * my `PHEU`
 * young `KWRUPBG`
 * friend," `TPREPBD KW-BG KR-GS`
 * said `SAEUD`
-* Wolf. `WOFL TP-PL`
-* "It `KR-GS T`
+* Wolf. `KPA/WOFL TP-PL`
+* "It `KR-GS KPA/T`
 * is `S`
 * easy `EZ`
 * be `-B`

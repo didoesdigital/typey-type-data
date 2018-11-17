@@ -1,12 +1,12 @@
 # The Fox and the Cat
 
 * A `KPA/AEU`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * was `WAS`
 * boasting `PWOEFT/-G`
 * to `TO`
 * a `AEU`
-* Cat `KAT`
+* Cat `KPA/KAT`
 * of `-F`
 * its `EUTS`
 * clever `KHREFR`
@@ -31,7 +31,7 @@
 * one," `WUPB KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`
-* Cat; `KAT STPH*FPLT`
+* Cat; `KPA/KAT STPH*FPLT`
 * "but `KR-GS PWUT`
 * I `EU`
 * can `K`
@@ -39,7 +39,7 @@
 * manage `PHAPBG`
 * with `W`
 * that." `THA TP-PL KR-GS`
-* Just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * at `AT`
 * that `THA`
 * moment `PHOEPLT`
@@ -60,15 +60,16 @@
 * herself `H*ERS`
 * in `TPH`
 * boughs. `PWO*U/-S TP-PL`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * is `S`
 * plan," `PHRAPB KW-BG KR-GS`
-* Cat. `KAT TP-PL`
-* "What `KR-GS WHA`
+* Cat. `KPA/KAT TP-PL`
+* "What `KR-GS KPA/WHA`
 * are `R`
 * you `U`
 * going `TKPW-G`
 * do?" `TKO H-F KR-GS`
+* The `KPA/-T`
 * thought `THAUT`
 * first `TPEUFRT`
 * one `WUPB`
@@ -88,15 +89,15 @@
 * soon `SAOPB`
 * killed `KEULD`
 * huntsmen. `HUPBTS/PH*EPB TP-PL`
-* Miss `PHEUS`
-* Puss, `PUSZ KW-BG`
+* Miss `KPA/PHEUS`
+* Puss, `KPA/PUSZ KW-BG`
 * who `WHO`
 * had `H`
 * been `PW-PB`
 * looking `HRAOG`
 * on, `OPB KW-BG`
 * said: `SAEUD STPH-FPLT`
-* "Better `KR-GS PWOERT`
+* "Better `KR-GS KPA/PWOERT`
 * safe `SAEUF`
 * way `WAEU`
 * than `THAPB`

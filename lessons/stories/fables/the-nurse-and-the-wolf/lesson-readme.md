@@ -1,12 +1,12 @@
 # The Nurse and the Wolf
 
-* "Be `KR-GS -B`
+* "Be `KR-GS KPA/-B`
 * quiet `KWAO*EUT`
 * now," `TPHOU KW-BG KR-GS`
 * said `SAEUD`
 * an `APB`
 * old `OLD`
-* Nurse `TPHURS`
+* Nurse `KPA/TPHURS`
 * to `TO`
 * a `AEU`
 * child `KHAOEULD`
@@ -14,7 +14,7 @@
 * on `OPB`
 * her `HER`
 * lap. `HRAP TP-PL`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * you `U`
 * make `PHAEUBG`
 * that `THA`
@@ -24,11 +24,11 @@
 * will `HR`
 * throw `THROE`
 * the `-T`
-* Wolf." `WOFL TP-PL KR-GS`
-* Now `TPHOU`
+* Wolf." `KPA/WOFL TP-PL KR-GS`
+* Now `KPA/TPHOU`
 * it `T`
 * chanced `KHAPBS/-D`
-* Wolf `WOFL`
+* Wolf `KPA/WOFL`
 * was `WAS`
 * passing `PAFG`
 * close `KHROES`
@@ -37,7 +37,7 @@
 * as `AZ`
 * this `TH`
 * said. `SAEUD TP-PL`
-* So `SO`
+* So `KPA/SO`
 * he `HE`
 * crouched `KROUFPD`
 * down `TKOUPB`
@@ -55,7 +55,7 @@
 * to-day," `TO H-PB TKAEU KW-BG KR-GS`
 * thought `THAUT`
 * he. `HE TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * is `S`
 * sure `SHUR`
 * cry `KRAOEU`
@@ -80,11 +80,11 @@
 * window, `WOEUPBD KW-BG`
 * looked `HRAOBGD`
 * up `UP`
-* Nurse, `TPHURS KW-BG`
+* Nurse, `KPA/TPHURS KW-BG`
 * wagging `WAG/-G`
 * his `HEUS`
 * tail. `TAEUL TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * all `AUL`
 * did `TK`
 * shut `SHUT`
@@ -93,10 +93,10 @@
 * dogs `TKOGS`
 * rushing `RURBG`
 * out. `OUT TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * galloped `TKPWAL/OP/-D`
 * away, `A/WAEU KW-BG`
-* "Enemies `KR-GS EPB/PHEUS`
+* "Enemies `KR-GS KPA/EPB/PHEUS`
 * promises `PROPLS/-S`
 * were `WR`
 * made `PHAED`

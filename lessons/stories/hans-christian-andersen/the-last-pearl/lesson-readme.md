@@ -1,6 +1,6 @@
 # The Last Pearl
 
-* we `WE`
+* We `KPA/WE`
 * are `R`
 * in `TPH`
 * a `AEU`
@@ -18,7 +18,7 @@
 * joy `SKWROEU`
 * and `SKP`
 * felicity. `TPHREUS/TEU TP-PL`
-* for `TPOR`
+* For `KPA/TPOR`
 * on `OPB`
 * this `TH`
 * day `TKAEU`
@@ -31,6 +31,7 @@
 * child `KHAOEULD`
 * doing `TK*G`
 * well. `WEL TP-PL`
+* The `KPA/-T`
 * lamp `HRAFRP`
 * bed-chamber `PWED H-PB KHAEURPL`
 * had `H`
@@ -53,16 +54,18 @@
 * like `HRAOEUBG`
 * covering `KOFRG`
 * moss. `PHOS TP-PL`
-* everything `EFG`
+* Everything `KPA/EFG`
 * invited `EUPB/SRAOEUTD`
 * to `TO`
 * slumber, `SHRUPL/PWER KW-BG`
+* everything `EFG`
 * charming `KHARPL/-G`
 * look `HRAOBG`
 * repose; `RE/POES STPH*FPLT`
-* So `SO`
+* so `SO`
 * nurse `TPHURS`
 * discovered, `SKOFD KW-BG`
+* for `TPOR`
 * she `SHE`
 * slept; `SHREPD STPH*FPLT`
 * well `WEL`
@@ -84,7 +87,7 @@
 * over `OEFR`
 * spread, `SPRED KW-BG`
 * as `AZ`
-* It `T`
+* it `T`
 * were, `WR KW-BG`
 * net `TPHET`
 * shining `SHAOEUPBG`
@@ -93,7 +96,7 @@
 * star `STAR`
 * pearl `PERL`
 * happiness. `HAEP/-PBS TP-PL`
-* all `AUL`
+* All `KPA/AUL`
 * good `TKPWAOD`
 * stars `STARS`
 * life `HRAOEUF`
@@ -117,12 +120,12 @@
 * could `KO`
 * wish `WEURB`
 * earth. `*ERT TP-PL`
-* "Everything `KR-GS EFG`
+* "Everything `KR-GS KPA/EFG`
 * bestowed `PWE/STOEU/-D`
 * here," `HAOER KW-BG KR-GS`
 * said `SAEUD`
 * angel. `A*EPBLG TP-PL`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * not `TPHOT`
 * everything," `EFG KW-BG KR-GS`
 * voice `SROEUS`
@@ -147,7 +150,7 @@
 * last `HRAFT`
 * that `THA`
 * wanting." `WAPBGT TP-PL KR-GS`
-* "Wanting!" `KR-GS WAPBGT SKHRAPL KR-GS`
+* "Wanting!" `KR-GS KPA/WAPBGT SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * angel; `A*EPBLG STPH*FPLT`
 * "nothing `KR-GS TPHOG`
@@ -164,11 +167,11 @@
 * fairy; `TPAEUR/REU STPH*FPLT`
 * go `TKPW`
 * her." `HER TP-PL KR-GS`
-* "She `KR-GS SHE`
+* "She `KR-GS KPA/SHE`
 * come, `KOPL KW-BG`
 * come `KOPL`
 * unsought!" `xxx unsought SKHRAPL KR-GS`
-* "Her `KR-GS HER`
+* "Her `KR-GS KPA/HER`
 * missing; `PHEUFG STPH*FPLT`
 * there, `THR KW-BG`
 * crown, `KROUPB KW-BG`
@@ -176,25 +179,27 @@
 * worn, `WORPB KW-BG`
 * may `PHAE`
 * complete. `KPHRAOET TP-PL`
+* Where `KPA/W-R`
 * found? `TPOUPBD H-F`
 * does `TKOS`
 * dwell?" `TKWEL H-F KR-GS`
-* "Tell `KR-GS TEL`
+* "Tell `KR-GS KPA/TEL`
 * me, `PHE KW-BG`
 * I `EU`
 * procure `PRO/KAOUR`
 * pearl." `PERL TP-PL KR-GS`
-* "Will `KR-GS HR`
+* "Will `KR-GS W*EUL`
 * you `U`
 * do `TKO`
 * that?" `THA H-F KR-GS`
 * replied `RE/PHRAOEUD`
 * child. `KHAOEULD TP-PL`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * lead `HRAED`
 * directly, `TKREL KW-BG`
 * wherever `W-FR`
 * be. `-B TP-PL`
+* She `KPA/SHE`
 * no `TPHO`
 * abiding `A/PWAOEUD/-G`
 * place; `PHRAEUS STPH*FPLT`
@@ -219,21 +224,24 @@
 * world `WORLD`
 * or `OR`
 * bauble. `PWAUBL TP-PL`
+* To `KPA/TO`
 * come. `KOPL TP-PL`
+* You `KPA/U`
 * think `THEU`
 * wait `WAEUT`
 * time `TAOEUPL`
 * would `WO`
 * long `HROPBG`
 * useless. `AOUS/-LS TP-PL`
-* Well, `WEL KW-BG`
+* Well, `KPA/WEL KW-BG`
 * then, `THEPB KW-BG`
 * pearl—the `PERL EPL/TKA*RB -T`
 * only `OEPBL`
 * lacking `HRABG/-G`
 * amidst `A/PHEUTDZ`
+* all `AUL`
 * wealth." `W*ELT TP-PL KR-GS`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * hand-in-hand `HAPBD H-PB TPH H-PB HAPBD`
 * they `THE`
 * floated `TPHROET/-D`
@@ -241,6 +249,7 @@
 * spot `SPOT`
 * now `TPHOU`
 * lingering. `HREUPBG/ERG TP-PL`
+* It `KPA/T`
 * large `HRARPBLG`
 * dark `TKARBG`
 * empty `EPLT`
@@ -264,6 +273,7 @@
 * fro `TPRO`
 * current `KURPBT`
 * air. `AEUR TP-PL`
+* In `KPA/TPH`
 * centre `STR/A*U`
 * rooms `RAOPLS`
 * an `APB`
@@ -277,7 +287,7 @@
 * youth `KWRAO*UT`
 * very `SRE`
 * beautiful. `PWAOUFL TP-PL`
-* Fresh `TPRERB`
+* Fresh `KPA/TPRERB`
 * roses `ROESZ`
 * scattered `SKAT/ERD`
 * her. `HER TP-PL`
@@ -299,6 +309,7 @@
 * world, `WORLD KW-BG`
 * alone `A/HROEPB`
 * visible. `SREUBL TP-PL`
+* Around `KPA/ARPBD`
 * coffin `KOFPB`
 * husband `HUS`
 * children, `KHEURPB KW-BG`
@@ -306,6 +317,7 @@
 * youngest `KWRUPBG/EFT`
 * father's `TPA*ER/AES`
 * arms. `ARPLS TP-PL`
+* They `KPA/THE`
 * take `TAEUBG`
 * farewell `TPAER/WEL`
 * mother. `PHOER TP-PL`
@@ -321,7 +333,7 @@
 * love `HRUF`
 * them `THEPL`
 * all. `AUL TP-PL`
-* Tears `TAERS`
+* Tears `KPA/TAERS`
 * sorrow `SROE`
 * rolled `ROLD`
 * down `TKOUPB`
@@ -335,6 +347,7 @@
 * reigned `RAEPB/-D`
 * expressed `EBGS/PREFD`
 * grief. `TKPWRAOEF TP-PL`
+* With `KPA/W`
 * silent `SHREPBT`
 * steps, `STEPS KW-BG`
 * sobbing, `SOB/-G KW-BG`
@@ -347,13 +360,13 @@
 * long, `HROPBG KW-BG`
 * red `RED`
 * wick `WEUBG`
-* rose `ROEZ`
+* rose `ROES`
 * far `TPAR`
 * above `PWOF`
 * flame, `TPHRAEUPL KW-BG`
 * fluttered `TPHRUT/ERD`
 * draught `TKRAUFT`
-* strange `STRAEUPBG`
+* Strange `KPA/STRAEUPBG`
 * men `PHEPB`
 * came `KAEUPL`
 * placed `PHRAEUFD`
@@ -366,24 +379,24 @@
 * blows `PWHROES`
 * hammer `HAERPL`
 * resounded `RE/SO*UPBD/-D`
-* Through `THRU`
+* through `THRU`
 * echoed `EBG/OE/-D`
 * hearts `HARTS`
 * bleeding. `PWHRAOEGD TP-PL`
-* "Whither `KR-GS WHEU/THER`
+* "Whither `KR-GS KPA/WHEU/THER`
 * art `ART`
 * thou `THO*U`
 * leading `HRAEGD`
 * me?" `PHE H-F KR-GS`
 * asked `SK-D`
-* "Here `KR-GS HAOER`
+* "Here `KR-GS KPA/HAOER`
 * dwells `TKWEL/-S`
 * whose `WHOZ`
 * counted `KOUPBTD`
 * amongst `PHOPBGS`
 * best `PWEFT`
 * life." `HRAOEUF TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * sacred `SKRED`
 * hour," `HOUR KW-BG KR-GS`
 * angel, `A*EPBLG KW-BG`
@@ -409,6 +422,7 @@
 * heart `HART`
 * all,—there, `AUL KW-BG EPL/TKA*RB THR KW-BG`
 * sat `SAT`
+* strange `STRAEUPBG`
 * clothed `KHRO*T/-D`
 * flowing `TPHROEG`
 * garments, `TKPWARPLTS KW-BG`
@@ -418,7 +432,7 @@
 * wife `WAOEUF`
 * fairy, `TPAEUR/REU KW-BG`
 * name `TPHAEUPL`
-* "Sorrow." `KR-GS SROE TP-PL KR-GS`
+* "Sorrow." `KR-GS KPA/SROE TP-PL KR-GS`
 * hot `HOT`
 * tear `TAER`
 * lap, `HRAP KW-BG`
@@ -433,7 +447,7 @@
 * glittered `TKPWHREUT/ERD`
 * seven-fold `SEFPB H-PB TPOELD`
 * radiance. `RAEUD/KWRAPBS TP-PL`
-* Sorrow, `SROE KW-BG`
+* Sorrow, `KPA/SROE KW-BG`
 * last, `HRAFT KW-BG`
 * wanting, `WAPBGT KW-BG`
 * increases `EUPB/KRAOEFS`
@@ -442,19 +456,22 @@
 * meaning `PHAOEPBG`
 * other `OER`
 * pearls. `PERLS TP-PL`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * see `SAOE`
 * shimmer `SHEUPL/ER`
 * rainbow, `RAEUPB/PWOE KW-BG`
 * unites `AOU/TPHAOEUTS`
 * earth `*ERT`
 * heaven?" `HEFPB H-F KR-GS`
+* So `KPA/SO`
 * bridge `PWREUPBLG`
 * built `PWEULT`
 * between `TWAOEPB`
 * next. `TPHEGT TP-PL`
+* Through `KPA/THRU`
 * night `TPHAOEUT`
 * grave `TKPWRAEUF`
+* we `WE`
 * gaze `TKPWAEZ`
 * upwards `UP/WARDZ`
 * beyond `KWROPBD`

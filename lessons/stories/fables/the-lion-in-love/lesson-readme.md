@@ -1,11 +1,11 @@
 # The Lion in Love
 
 * A `KPA/AEU`
-* Lion `HRO*EUPB`
+* Lion `KPA/HRO*EUPB`
 * once `WUPBS`
 * fell `TPEL`
 * in `TPH`
-* Love `HRUF`
+* love `HRUF`
 * with `W`
 * a `AEU`
 * beautiful `PWAOUFL`
@@ -16,7 +16,7 @@
 * to `TO`
 * her `HER`
 * parents. `PARPBTS TP-PL`
-* the `-T`
+* The `KPA/-T`
 * old `OLD`
 * people `PAOEPL`
 * did `TK`
@@ -24,31 +24,33 @@
 * know `TPHOE`
 * what `WHA`
 * say. `SAEU TP-PL`
-* they `THE`
+* They `KPA/THE`
 * like `HRAOEUBG`
 * give `TKPWEUF`
 * their `THAEUR`
 * daughter `TKAUR`
-* Lion, `HRO*EUPB KW-BG`
+* the `-T`
+* Lion, `KPA/HRO*EUPB KW-BG`
 * yet `KWRET`
+* they `THE`
 * wish `WEURB`
 * enrage `EPB/RAEUPBLG`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * of `-F`
-* Beasts. `PWAOEFT/-S TP-PL`
-* At `AT`
+* Beasts. `KPA/PWAOEFT/-S TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * father `TPAER`
 * said: `SAEUD STPH-FPLT`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * feel `TPAOEL`
 * highly `HAOEUL`
 * honoured `HOPB/OURD/A*U`
 * by `PWEU`
 * your `KWROUR`
-* Majesty's `PHAPBLG/STEU AES`
+* Majesty's `KPA/PHAPBLG/STEU AES`
 * proposal, `PROEL KW-BG`
-* But `PWUT`
+* but `PWUT`
 * you `U`
 * see `SAOE`
 * our `OUR`
@@ -61,15 +63,16 @@
 * that `THA`
 * vehemence `SRAOE/HEPLS`
 * affection `A*FBGS`
-* Might `PHAOEUT`
+* might `PHAOEUT`
 * possibly `POBL`
 * do `TKO`
 * some `SOPL`
 * injury. `SKWRAOUR TP-PL`
+* Might `KPA/PHAOEUT`
 * I `EU`
 * venture `SREPBT/UR`
 * suggest `SUG`
-* Majesty `PHAPBLG/STEU`
+* Majesty `KPA/PHAPBLG/STEU`
 * should `SHO`
 * have `SR`
 * claws `KHRAU/-S`
@@ -92,6 +95,7 @@
 * big `PWEUG`
 * taken `TAEPB`
 * out. `OUT TP-PL`
+* But `KPA/PWUT`
 * when `WHEPB`
 * came `KAEUPL`
 * again `TKPWEPB`
@@ -103,6 +107,7 @@
 * bade `PWAEUD`
 * him `HEUPL`
 * worst. `WOFRT TP-PL`
+* Love `KPA/HRUF`
 * can `K`
 * tame `TAEUPL`
 * wildest. `WAOEULD/EFT TP-PL`

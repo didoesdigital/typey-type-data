@@ -1,6 +1,6 @@
 # Rapunzel
 
-* There `THR`
+* There `KPA/THR`
 * were `WR`
 * once `WUPBS`
 * a `AEU`
@@ -15,22 +15,23 @@
 * wished `WEURBD`
 * for `TPOR`
 * child. `KHAOEULD TP-PL`
-* at `AT`
+* At `KPA/AT`
 * length `HREPBG`
 * the `-T`
 * hoped `HOEPD`
 * that `THA`
-* God `TKPWOD`
+* God `TKPWO*D`
 * was `WAS`
 * about `PW`
 * to `TO`
 * grant `TKPWRAPBT`
 * her `HER`
 * desire. `STKAOEUR TP-PL`
-* These `THEZ`
+* These `KPA/THEZ`
 * people `PAOEPL`
 * little `HREUL`
 * window `WOEUPBD`
+* at `AT`
 * back `PWABG`
 * of `-F`
 * their `THAEUR`
@@ -47,7 +48,7 @@
 * beautiful `PWAOUFL`
 * flowers `TPHRO*URS`
 * herbs. `HERBS TP-PL`
-* it `T`
+* It `KPA/T`
 * was, `WAS KW-BG`
 * however, `HOUF KW-BG`
 * surrounded `SROUBD/-D`
@@ -59,6 +60,7 @@
 * dared `TKAEURD`
 * go `TKPW`
 * into `TPHAO`
+* it `T`
 * because `PWAU`
 * belonged `PWHROPBGD`
 * an `APB`
@@ -68,9 +70,10 @@
 * dreaded `TKRED/-D`
 * all `AUL`
 * world. `WORLD TP-PL`
+* One `KPA/WUPB`
 * day `TKAEU`
 * standing `STAPBG`
-* This `TH`
+* this `TH`
 * looking `HRAOG`
 * down `TKOUPB`
 * garden, `TKPWA*RPB KW-BG`
@@ -95,18 +98,18 @@
 * look `HRAOBG`
 * pale `PAEL`
 * miserable. `PHEUZ/-BL TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * husband `HUS`
 * alarmed, `A/HRARPLD KW-BG`
 * asked: `SK-D STPH-FPLT`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * ails `AEUL/-S`
 * you, `U KW-BG`
 * dear `TKAER`
 * wife?' `WAOEUF H-F AE`
-* 'Ah,' `AE HA*E KW-BG AE`
+* 'Ah,' `AE KPA/HA*E KW-BG AE`
 * replied, `RE/PHRAOEUD KW-BG`
-* 'If `AE TP`
+* 'if `AE TP`
 * I `EU`
 * can't `K-PBT`
 * eat `AOET`
@@ -118,17 +121,18 @@
 * house, `HOUS KW-BG`
 * shall `SHAL`
 * die.' `TKAOEU TP-PL AE`
+* The `KPA/-T`
 * man, `PHAPB KW-BG`
 * loved `HROFD`
 * her, `HER KW-BG`
 * thought: `THAUT STPH-FPLT`
-* 'Sooner `AE SAORPB`
+* 'Sooner `AE KPA/SAORPB`
 * than `THAPB`
 * let `HRET`
 * your `KWROUR`
 * wife `WAOEUF`
 * die, `TKAOEU KW-BG`
-* Bring `PWREU`
+* bring `PWREU`
 * yourself, `KWRO*URS KW-BG`
 * cost `KOFT`
 * what `WHA`
@@ -144,6 +148,7 @@
 * took `TAOBG`
 * his `HEUS`
 * wife. `WAOEUF TP-PL`
+* She `KPA/SHE`
 * made `PHAED`
 * herself `H*ERS`
 * salad `SALD`
@@ -160,7 +165,7 @@
 * as `AZ`
 * much `PHUFP`
 * before. `PW-F TP-PL`
-* if `TP`
+* If `KPA/TP`
 * have `SR`
 * any `TPHEU`
 * rest, `REFT KW-BG`
@@ -168,6 +173,7 @@
 * more `PHOR`
 * descend `TKE/SEPBD`
 * garden. `TKPWA*RPB TP-PL`
+* In `KPA/TPH`
 * gloom `TKPWHRAOPL`
 * evening `AOEPBG`
 * therefore, `TH-FR KW-BG`
@@ -179,7 +185,7 @@
 * enchantress `EPB/KHAPBT/RES`
 * before `PW-F`
 * him. `HEUPL TP-PL`
-* 'How `AE HOU`
+* 'How `AE KPA/HOU`
 * can `K`
 * you `U`
 * dare,' `TKAEUR KW-BG AE`
@@ -191,6 +197,7 @@
 * steal `STAEL`
 * like `HRAOEUBG`
 * thief? `THAOEF H-F`
+* You `KPA/U`
 * suffer `SUFR`
 * it!' `T SKHRAPL AE`
 * answered `AEPBS/-D`
@@ -206,12 +213,14 @@
 * do `TKO`
 * out `OUT`
 * necessity. `TPHES/TEU TP-PL`
+* My `KPA/PHEU`
 * window, `WOEUPBD KW-BG`
 * felt `TPELT`
 * such `SUFP`
 * longing `HROPBG/-G`
 * would `WO`
 * died `TKAOEUD`
+* if `TP`
 * not `TPHOT`
 * got `TKPWOT`
 * eat.' `AOET TP-PL AE`
@@ -219,6 +228,7 @@
 * anger `ARPBG`
 * softened, `SOFPB/-D KW-BG`
 * him: `HEUPL STPH-FPLT`
+* 'If `AE KPA/TP`
 * case `KAEUS`
 * say, `SAEU KW-BG`
 * will `HR`
@@ -244,12 +254,13 @@
 * once, `WUPBS KW-BG`
 * gave `TKPWAEUF`
 * name `TPHAEUPL`
-* Rapunzel, `RA/PUPB/S*EL KW-BG`
+* Rapunzel, `KPA/RA/PUPB/S*EL KW-BG`
 * her. `HER TP-PL`
-* Rapunzel `RA/PUPB/S*EL`
+* Rapunzel `KPA/RA/PUPB/S*EL`
 * grew `TKPWRAOU`
 * under `*UPBD`
 * sun. `SUPB TP-PL`
+* When `KPA/WHEPB`
 * twelve `TWEFL`
 * years `KWRAOERS`
 * old, `OLD KW-BG`
@@ -268,7 +279,8 @@
 * placed `PHRAEUFD`
 * beneath `TPHAO*ET`
 * cried: `KRAOEUD STPH-FPLT`
-* 'Rapunzel, `AE RA/PUPB/S*EL KW-BG`
+* 'Rapunzel, `AE KPA/RA/PUPB/S*EL KW-BG`
+* Let `KPA/HRET`
 * hair `HAEUR`
 * me.' `PHE TP-PL AE`
 * magnificent `PHAFPBT`
@@ -286,13 +298,14 @@
 * round `ROUPBD`
 * hooks `HAOBG/-S`
 * above, `PWOF KW-BG`
+* then `THEPB`
 * fell `TPEL`
 * twenty `TWEPBT`
 * ells `xxx ells`
 * down, `TKOUPB KW-BG`
 * climbed `KHRAOEUPLD`
 * it. `T TP-PL`
-* After `AF`
+* After `KPA/AF`
 * year `KWRAOER`
 * or `OR`
 * two, `TWO KW-BG`
@@ -310,6 +323,7 @@
 * stood `STAOD`
 * still `STEUL`
 * listened. `HREUFPBD TP-PL`
+* This `KPA/TH`
 * solitude `SOL/TAOUD`
 * time `TAOEUPL`
 * letting `HR*EGT`
@@ -319,6 +333,7 @@
 * door `TKAOR`
 * none `TPHOPB`
 * found. `TPOUPBD TP-PL`
+* He `KPA/HE`
 * home, `HOEPL KW-BG`
 * singing `SEUPBG/-G`
 * deeply `TKAO*EPL`
@@ -327,7 +342,8 @@
 * every `EF`
 * went `WEPBT`
 * listened `HREUFPBD`
-* Thus `THUS`
+* Once `KPA/WUPBS`
+* thus `THUS`
 * tree, `TRAOE KW-BG`
 * there, `THR KW-BG`
 * how `HOU`
@@ -340,7 +356,7 @@
 * grow `TKPWROE`
 * dark, `TKARBG KW-BG`
 * tower `TOUR`
-* Immediately `PHAOELD`
+* Immediately `KPA/PHAOELD`
 * up. `UP TP-PL`
 * first `TPEUFRT`
 * frightened `TPRAOEUPBD`
@@ -364,10 +380,10 @@
 * husband, `HUS KW-BG`
 * young `KWRUPBG`
 * handsome, `HAPBD/SOPL KW-BG`
-* 'He `AE HE`
+* 'He `AE KPA/HE`
 * love `HRUF`
 * old `OLD`
-* Dame `TKAEUPL`
+* Dame `KPA/TKAEUPL`
 * Gothel `xxx Gothel`
 * does'; `TKOS AE STPH*FPLT`
 * yes, `KWRE KW-BG`
@@ -380,6 +396,7 @@
 * know `TPHOE`
 * get `TKPWET`
 * down. `TKOUPB TP-PL`
+* Bring `KPA/PWREU`
 * skein `SKAEUPB`
 * silk `S*EULG`
 * come, `KOPL KW-BG`
@@ -388,7 +405,7 @@
 * descend, `TKE/SEPBD KW-BG`
 * on `OPB`
 * horse.' `HORS TP-PL AE`
-* they `THE`
+* They `KPA/THE`
 * agreed `TKPWRAED`
 * until `TPH-L`
 * should `SHO`
@@ -399,7 +416,7 @@
 * nothing `TPHOG`
 * this, `TH KW-BG`
 * her: `HER STPH-FPLT`
-* 'Tell `AE TEL`
+* 'Tell `AE KPA/TEL`
 * me, `PHE KW-BG`
 * Gothel, `xxx Gothel KW-BG`
 * happens `HABS`
@@ -408,7 +425,7 @@
 * draw `TKRAU`
 * son--he `SOPB H-PB H-PB HE`
 * moment.' `PHOEPLT TP-PL AE`
-* 'Ah! `AE HA*E SKHRAPL`
+* 'Ah! `AE KPA/HA*E SKHRAPL`
 * wicked `WEUBGD`
 * child,' `KHAOEULD KW-BG AE`
 * cried `KRAOEUD`
@@ -420,7 +437,7 @@
 * world, `WORLD KW-BG`
 * deceived `TKAOE/SAOEFD`
 * me!' `PHE SKHRAPL AE`
-* Rapunzel's `RA/PUPB/S*EL AES`
+* Rapunzel's `KPA/RA/PUPB/S*EL AES`
 * wrapped `WRAPD`
 * twice `TWAOEUS`
 * left `HREFT`
@@ -431,10 +448,12 @@
 * right, `RAOEUT KW-BG`
 * snip, `STPHEUP KW-BG`
 * snap, `STPHAP KW-BG`
+* they `THE`
 * cut `KUT`
 * off, `OF KW-BG`
 * lovely `HROFL`
 * ground. `TKPWROUPBD TP-PL`
+* And `AFPBD`
 * pitiless `PEUT/*EULS`
 * poor `PAOR`
 * desert `STK*ERT`
@@ -442,6 +461,7 @@
 * live `HREUF`
 * grief `TKPWRAOEF`
 * misery. `PHEUS/REU TP-PL`
+* On `KPA/OPB`
 * same `SAEUPL`
 * cast `KAFT`
 * fastened `TPAS/-PBD`
@@ -487,6 +507,7 @@
 * lament `HRAPLT`
 * weep `WAOEP`
 * loss `HROS`
+* Thus `KPA/THUS`
 * roamed `ROEPLD`
 * misery `PHEUS/REU`
 * years, `KWRAOERS KW-BG`
@@ -505,7 +526,7 @@
 * knew `TPHAOU`
 * neck `TPHEBG`
 * wept. `WEPT TP-PL`
-* Two `TWO`
+* Two `KPA/TWO`
 * tears `TAERS`
 * wetted `WET/-D`
 * clear `KHRAOER`

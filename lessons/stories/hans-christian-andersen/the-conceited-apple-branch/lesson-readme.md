@@ -1,11 +1,12 @@
 # The Conceited Apple-Branch
 
-* it `T`
+* It `KPA/T`
 * was `WAS`
 * the `-T`
 * month `PHO*PBT`
 * of `-F`
 * May. `PHAE TP-PL`
+* The `KPA/-T`
 * wind `WEUPBD`
 * still `STEUL`
 * blew `PWHRAOU`
@@ -20,22 +21,22 @@
 * came `KAEUPL`
 * welcome `WELG`
 * sound, `SOUPBD KW-BG`
-* "Spring `KR-GS SPREUPBG`
+* "Spring `KR-GS KPA/SPREUPBG`
 * is `S`
 * come." `KOPL TP-PL KR-GS`
-* Wild-flowers `WAOEULD H-PB TPHRO*URS`
+* Wild-flowers `KPA/WAOEULD H-PB TPHRO*URS`
 * in `TPH`
 * profusion `PRO/TPAOUGS`
 * covered `KOFRD`
 * hedges. `HEPBL/-S TP-PL`
-* under `*UPBD`
+* Under `KPA/*UPBD`
 * little `HREUL`
 * apple-tree, `A*EPL H-PB TRAOE KW-BG`
-* spring `SPREUPBG`
+* Spring `KPA/SPREUPBG`
 * seemed `SAOEPLD`
 * busy, `PW-Z KW-BG`
 * told `TOLD`
-* His `HEUS`
+* his `HEUS`
 * tale `TAEL`
 * one `WUPB`
 * branches `PWRAFPBS`
@@ -56,8 +57,9 @@
 * branch `PWRAFRPB`
 * well `WEL`
 * knew `TPHAOU`
-* How `HOU`
+* how `HOU`
 * beautiful `PWAOUFL`
+* it `T`
 * was; `WAS STPH*FPLT`
 * this `TH`
 * knowledge `TPHOPBLG`
@@ -80,7 +82,7 @@
 * stopped `STOPD`
 * road `RAOD`
 * by. `PWEU TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * said `SAEUD`
 * an `APB`
 * apple-branch `A*EPL H-PB PWRAFRPB`
@@ -88,14 +90,16 @@
 * lovely `HROFL`
 * object, `OBT KW-BG`
 * emblem `EPL/PWHREPL`
+* spring `SPREUPBG`
 * its `EUTS`
 * charming `KHARPL/-G`
 * aspect. `SPAEBGT TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * broken `PWROEPB`
 * off `OF`
 * for `TPOR`
 * her, `HER KW-BG`
+* she `SHE`
 * held `HELD`
 * her `HER`
 * hand, `HAPBD KW-BG`
@@ -109,7 +113,7 @@
 * halls `HAULS`
 * splendid `SPHREPBD/EUD`
 * drawing-rooms. `TKRAUG H-PB RAOPLS TP-PL`
-* Pure `PAOUR`
+* Pure `KPA/PAOUR`
 * white `WHAOEUT`
 * curtains `KUR/TEUPBS`
 * fluttered `TPHRUT/ERD`
@@ -141,12 +145,12 @@
 * sight. `SAOEUT TP-PL`
 * became `PWAEUPL`
 * proud, `PROUD KW-BG`
-* Very `SRE`
+* very `SRE`
 * like `HRAOEUBG`
 * human `HAOUPL`
 * nature. `TPHAEURT TP-PL`
-* people `PAOEPL`
-* Every `EF`
+* People `KPA/PAOEPL`
+* every `EF`
 * description `SKREUPG`
 * entered `SPWR-D`
 * room, `RAOPL KW-BG`
@@ -159,6 +163,7 @@
 * dared `TKAEURD`
 * express `EBGS/PRES`
 * admiration. `AD/PHEUR/AEUGS TP-PL`
+* Some `KPA/SOPL`
 * few `TPAOU`
 * nothing, `TPHOG KW-BG`
 * others `OERS`
@@ -194,6 +199,7 @@
 * without `WOUT`
 * loss `HROS`
 * society. `SOET TP-PL`
+* So `KPA/SO`
 * thought `THAUT`
 * apple-branch, `A*EPL H-PB PWRAFRPB KW-BG`
 * he `HE`
@@ -214,7 +220,7 @@
 * poor `PAOR`
 * humble `UPL/-BL`
 * indeed. `TPHAOEPBD TP-PL`
-* "Poor, `KR-GS PAOR KW-BG`
+* "Poor, `KR-GS KPA/PAOR KW-BG`
 * despised `STKPAOEUZ/-D`
 * herbs," `HERBS KW-BG KR-GS`
 * apple-branch; `A*EPL H-PB PWRAFRPB STPH*FPLT`
@@ -224,6 +230,7 @@
 * them `THEPL`
 * such `SUFP`
 * am. `APL TP-PL`
+* How `KPA/HOU`
 * unhappy `UPB/HAEP`
 * must `PHUFT`
 * be, `-B KW-BG`
@@ -231,12 +238,14 @@
 * feel `TPAOEL`
 * my `PHEU`
 * do! `TKO SKHRAPL`
+* There `KPA/THR`
 * indeed, `TPHAOEPBD KW-BG`
 * ought `OT`
 * or `OR`
 * we `WE`
 * should `SHO`
 * equals." `KWALS TP-PL KR-GS`
+* And `AFPBD`
 * sort `SORT`
 * pity `PEUT/TEU`
 * upon `POPB`
@@ -247,7 +256,7 @@
 * found `TPOUPBD`
 * fields `TPAOELDZ`
 * ditches. `TKEUFPS TP-PL`
-* no `TPHO`
+* No `KPA/TPHO`
 * bound `PWOUPBD`
 * these `THEZ`
 * together `TOGT`
@@ -283,9 +292,11 @@
 * sunbeam, `SUPB/PWAOEPL KW-BG`
 * kissed `K*EUFD`
 * blooming `PWHRAOPL/-G`
+* then `THEPB`
 * yellow `KWREL/OE`
 * dandelion `TKAPBD/HRAOEUPB`
 * fields. `TPAOELDZ TP-PL`
+* All `KPA/AUL`
 * brothers, `PWROERS KW-BG`
 * sunbeam `SUPB/PWAOEPL`
 * them—the `THEPL EPL/TKA*RB -T`
@@ -294,7 +305,7 @@
 * never `TPHEF`
 * boundless `PWOUPBD/-LS`
 * love `HRUF`
-* God, `TKPWOD KW-BG`
+* God, `TKPWO*D KW-BG`
 * extends `ST*EPBDZ`
 * works `WORBGS`
 * creation, `KRAEGS KW-BG`
@@ -303,14 +314,14 @@
 * moves, `PHOFS KW-BG`
 * has `HAS`
 * being `-BG`
-* Him; `HEUPL STPH*FPLT`
+* Him; `KPA/HEUPL STPH*FPLT`
 * good `TKPWAOD`
 * often `OFPB`
 * hidden, `HEUD/EPB KW-BG`
 * remain `RE/PHAUPB`
 * forgotten `TPORGTD`
 * by `PWEU`
-* Him,—not `HEUPL KW-BG EPL/TKA*RB TPHOT`
+* Him,—not `KPA/HEUPL KW-BG EPL/TKA*RB TPHOT`
 * only `OEPBL`
 * lower `HROUR`
 * also `HR-S`
@@ -318,22 +329,23 @@
 * ray `RAEU`
 * light, `HRAOEUT KW-BG`
 * better. `PWOERT TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * far, `TPAR KW-BG`
 * nor `TPH-R`
 * clearly," `KAOERL KW-BG KR-GS`
 * apple-branch. `A*EPL H-PB PWRAFRPB TP-PL`
-* "Which `KR-GS WEU`
+* "Which `KR-GS KPA/WEU`
 * plant `PHRAPBT`
 * specially `SPERBL/HREU`
 * pity?" `PEUT/TEU H-F KR-GS`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * dandelion," `TKAPBD/HRAOEUPB KW-BG KR-GS`
 * replied. `RE/PHRAOEUD TP-PL`
-* "No `KR-GS TPHO`
+* "No `KR-GS KPA/TPHO`
 * ever `-FR`
 * places `PHRAEUFS`
 * trodden `TROD/*EPB`
+* under `*UPBD`
 * foot, `TPAOT KW-BG`
 * many `PHAEPB`
 * them; `THEPL STPH*FPLT`
@@ -347,6 +359,7 @@
 * cling `KHREUPBG`
 * dresses `TKRES/-S`
 * people. `PAOEPL TP-PL`
+* They `KPA/THE`
 * course `KORS`
 * weeds. `WAOEDZ TP-PL`
 * O, `O*P KW-BG`
@@ -406,6 +419,7 @@
 * green `TKPWRAOEPB`
 * stems `STEPLS`
 * golden `TKOELD/*EPB`
+* But `KPA/PWUT`
 * eldest `ELD/EFT`
 * gathered `TKPWAERD`
 * carefully `KA*EUFL`
@@ -414,6 +428,7 @@
 * grouped `TKPWRAOUPD`
 * feathery `xxx feathery`
 * coronal. `KROEPBL TP-PL`
+* These `KPA/THEZ`
 * loose, `HRAOS KW-BG`
 * airy `AEUR/REU`
 * wool-flowers `WAOL H-PB TPHRO*URS`
@@ -441,17 +456,18 @@
 * prophet `PRO*FT`
 * foreteller `TPOER/TEL/*ER`
 * events. `AOEPBTS TP-PL`
-* "do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * see," `SAOE KW-BG KR-GS`
+* "do `KR-GS TKO`
 * beauty `PWAOUT`
 * flowers? `TPHRO*URS H-F`
 * powers `POURS`
 * giving `TKPWEUFG`
 * pleasure?" `PHRERB H-F KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * children," `KHEURPB KW-BG KR-GS`
 * apple-bough. `A*EPL H-PB PWO*U TP-PL`
-* By-and-by `PWEU H-PB SKP H-PB PWEU`
+* By-and-by `KPA/PWEU H-PB SKP H-PB PWEU`
 * old `OLD`
 * woman `WOPL`
 * into `TPHAO`
@@ -465,6 +481,7 @@
 * dandelion-plants, `TKAPBD/HRAOEUPB H-PB PHRAPBTS KW-BG`
 * pull `PUL`
 * up. `UP TP-PL`
+* With `KPA/W`
 * intended `SPWEPBD/-D`
 * make `PHAEUBG`
 * tea `TAE`
@@ -474,7 +491,7 @@
 * chemist, `KHEUFT KW-BG`
 * obtain `OB/TAEUPB`
 * money. `PHUPB TP-PL`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * higher `HAOEUR`
 * value `SRAOUL`
 * than `THAPB`
@@ -493,12 +510,14 @@
 * seen `SAOEPB`
 * equal `KWAL`
 * distribution `TKR-GSZ`
+* His `KPA/HEUS`
 * gifts, `TKPWEUFTS KW-BG`
 * both `PWO*T`
 * time `TAOEUPL`
 * eternity. `AOE/TERPBT TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * opinion," `P-PB KW-BG KR-GS`
+* people `PAOEPL`
 * countess,—the `KOUPBT/ES KW-BG EPL/TKA*RB -T`
 * lady `HRA*ED`
 * placed `PHRAEUFD`
@@ -516,12 +535,14 @@
 * three `THRAOE`
 * leaves, `HREFS KW-BG`
 * shield, `SHAOELD KW-BG`
+* no `TPHO`
 * draught `TKRAUFT`
 * gust `TKPWUFT`
 * injure `SKWR-R`
 * it, `T KW-BG`
 * more `PHOR`
 * been. `PW-PB TP-PL`
+* Very `KPA/SRE`
 * cautiously `KAURBS/HREU`
 * large `HRARPBLG`
 * leaves `HREFS`
@@ -529,6 +550,7 @@
 * appeared `A/PAOERD`
 * seed-crown `SAOED H-PB KROUPB`
 * dandelion. `TKAPBD/HRAOEUPB TP-PL`
+* This `KPA/TH`
 * what `WHA`
 * plucked, `PHRUBGD KW-BG`
 * home `HOEPL`
@@ -552,18 +574,19 @@
 * construction, `KRUBGS KW-BG`
 * blown `PWHROEPB`
 * wind. `WEUPBD TP-PL`
-* "See," `KR-GS SAOE KW-BG KR-GS`
+* "See," `KR-GS KPA/SAOE KW-BG KR-GS`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
 * "how `KR-GS HOU`
 * wonderfully `WOPBD/TPHREU`
-* God `TKPWOD`
+* God `TKPWO*D`
 * will `HR`
 * paint `PAEUPBT`
 * together. `TOGT TP-PL`
+* Every `KPA/EF`
 * admires `AD/PHAOEURS`
 * apple-bough; `A*EPL H-PB PWO*U STPH*FPLT`
 * endowed `EPB/TKOU/-D`
-* Heaven `HEFPB`
+* Heaven `KPA/HEFPB`
 * another `TPHOER`
 * kind `KEUPBD`
 * loveliness; `HR*UF/HREU/*PBS STPH*FPLT`

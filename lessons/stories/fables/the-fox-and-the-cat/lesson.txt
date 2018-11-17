@@ -1,12 +1,12 @@
 The Fox and the Cat
 
 'A': KPA/AEU
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'was': WAS
 'boasting': PWOEFT/-G
 'to': TO
 'a': AEU
-'Cat': KAT
+'Cat': KPA/KAT
 'of': -F
 'its': EUTS
 'clever': KHREFR
@@ -39,7 +39,7 @@ The Fox and the Cat
 'one,"': WUPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Cat;': KAT STPH*FPLT
+'Cat;': KPA/KAT STPH*FPLT
 '"but': KR-GS PWUT
 'I': EU
 'can': K
@@ -47,7 +47,7 @@ The Fox and the Cat
 'manage': PHAPBG
 'with': W
 'that."': THA TP-PL KR-GS
-'Just': SKWRUFT
+'Just': KPA/SKWRUFT
 'at': AT
 'that': THA
 'moment': PHOEPLT
@@ -65,7 +65,7 @@ The Fox and the Cat
 'them,': THEPL KW-BG
 'and': SKP
 'the': -T
-'Cat': KAT
+'Cat': KPA/KAT
 'immediately': PHAOELD
 'scampered': SKAPL/PER/-D
 'up': UP
@@ -77,21 +77,21 @@ The Fox and the Cat
 'in': TPH
 'the': -T
 'boughs.': PWO*U/-S TP-PL
-'"This': KR-GS TH
+'"This': KR-GS KPA/TH
 'is': S
 'my': PHEU
 'plan,"': PHRAPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Cat.': KAT TP-PL
-'"What': KR-GS WHA
+'Cat.': KPA/KAT TP-PL
+'"What': KR-GS KPA/WHA
 'are': R
 'you': U
 'going': TKPW-G
 'to': TO
 'do?"': TKO H-F KR-GS
-'The': -T
-'Fox': TPOBGS
+'The': KPA/-T
+'Fox': KPA/TPOBGS
 'thought': THAUT
 'first': TPEUFRT
 'of': -F
@@ -115,7 +115,7 @@ The Fox and the Cat
 'at': AT
 'last': HRAFT
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'in': TPH
 'his': HEUS
 'confusion': KAUFGS
@@ -131,15 +131,15 @@ The Fox and the Cat
 'by': PWEU
 'the': -T
 'huntsmen.': HUPBTS/PH*EPB TP-PL
-'Miss': PHEUS
-'Puss,': PUSZ KW-BG
+'Miss': KPA/PHEUS
+'Puss,': KPA/PUSZ KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
 'looking': HRAOG
 'on,': OPB KW-BG
 'said:': SAEUD STPH-FPLT
-'"Better': KR-GS PWOERT
+'"Better': KR-GS KPA/PWOERT
 'one': WUPB
 'safe': SAEUF
 'way': WAEU

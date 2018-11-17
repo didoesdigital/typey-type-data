@@ -1,12 +1,12 @@
 # The Fox and the Stork
 
-* at `AT`
+* At `KPA/AT`
 * one `WUPB`
 * time `TAOEUPL`
 * the `-T`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * and `SKP`
-* Stork `STORBG`
+* Stork `KPA/STORBG`
 * were `WR`
 * on `OPB`
 * visiting `SREUFT/-G`
@@ -15,7 +15,7 @@
 * very `SRE`
 * good `TKPWAOD`
 * friends. `TPREPBDZ TP-PL`
-* so `SO`
+* So `KPA/SO`
 * invited `EUPB/SRAOEUTD`
 * to `TO`
 * dinner, `TKEURPB KW-BG`
@@ -32,7 +32,7 @@
 * in `TPH`
 * shallow `SHOEUL`
 * dish. `TKEURB TP-PL`
-* this `TH`
+* This `KPA/TH`
 * could `KO`
 * easily `AOELS`
 * lap `HRAP`
@@ -55,20 +55,21 @@
 * am `APL`
 * sorry," `SOER KW-BG KR-GS`
 * said `SAEUD`
-* Fox, `TPOBGS KW-BG`
+* Fox, `KPA/TPOBGS KW-BG`
 * "the `KR-GS -T`
 * is `S`
 * not `TPHOT`
 * your `KWROUR`
 * liking." `HRAO*EUG TP-PL KR-GS`
-* "Pray `KR-GS PRAEU`
+* "Pray `KR-GS KPA/PRAEU`
 * do `TKO`
 * apologise," `POLZ/A*U KW-BG KR-GS`
-* Stork. `STORBG TP-PL`
+* Stork. `KPA/STORBG TP-PL`
 * hope `HOEP`
 * you `U`
 * will `HR`
 * return `RURPB`
+* this `TH`
 * visit, `SREUFT KW-BG`
 * come `KOPL`
 * dine `TKAOEUPB`
@@ -80,9 +81,10 @@
 * appointed `POEUPBD`
 * should `SHO`
 * visit `SREUFT`
-* Stork; `STORBG STPH*FPLT`
+* Stork; `KPA/STORBG STPH*FPLT`
 * they `THE`
 * seated `SAOETD`
+* at `AT`
 * table `TAEUBL`
 * all `AUL`
 * that `THA`
@@ -97,6 +99,7 @@
 * insert `EUPB/SERT`
 * his `HEUS`
 * snout, `STPHOUT KW-BG`
+* so `SO`
 * he `HE`
 * manage `PHAPBG`
 * lick `HREUBG`
@@ -104,8 +107,8 @@
 * jar. `SKWRAR TP-PL`
 * apologise `POLZ/A*U`
 * dinner," `TKEURPB KW-BG KR-GS`
-* Stork: `STORBG STPH-FPLT`
-* "One `KR-GS WUPB`
+* Stork: `KPA/STORBG STPH-FPLT`
+* "One `KR-GS KPA/WUPB`
 * bad `PWAD`
 * turn `TURPB`
 * deserves `TKEFRBS`

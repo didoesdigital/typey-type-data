@@ -1,6 +1,6 @@
 # The Last Dream of the Old Oak
 
-* in `TPH`
+* In `KPA/TPH`
 * the `-T`
 * forest, `TPOEFRT KW-BG`
 * high `HAOEU`
@@ -19,7 +19,7 @@
 * very `SRE`
 * old `OLD`
 * oak-tree. `OEBG H-PB TRAOE TP-PL`
-* it `T`
+* It `KPA/T`
 * was `WAS`
 * just `SKWRUFT`
 * three `THRAOE`
@@ -47,26 +47,28 @@
 * day `TKAEU`
 * sleep `SHRAOEP`
 * night, `TPHAOEUT KW-BG`
-* Then `THEPB`
+* then `THEPB`
 * have `SR`
 * our `OUR`
 * dreams. `TKRAOEPLS TP-PL`
 * is `S`
 * different `TKEUFRT`
-* With `W`
+* with `W`
 * tree; `TRAOE STPH*FPLT`
+* it `T`
 * obliged `OE/PWHRAOEUPBLGD`
 * keep `KAOEP`
 * awake `A/WAEUBG`
 * through `THRU`
 * seasons `S-PBZ`
 * year, `KWRAOER KW-BG`
-* Does `TKOS`
+* does `TKOS`
 * get `TKPWET`
 * any `TPHEU`
 * till `T*EUL`
 * winter `WEURPBT`
 * comes. `KOPLS TP-PL`
+* Winter `W*EUPBT/*ER`
 * its `EUTS`
 * for `TPOR`
 * rest; `REFT STPH*FPLT`
@@ -75,9 +77,10 @@
 * spring, `SPREUPBG KW-BG`
 * summer, `SAOURPL KW-BG`
 * autumn. `AU/UPL TP-PL`
+* On `KPA/OPB`
 * many `PHAEPB`
 * warm `WARPL`
-* Ephemera, `EF/TPEPL/RA KW-BG`
+* Ephemera, `KPA/AOE/TPEPL/RA KW-BG`
 * flies `TPHRAOEUS`
 * exist `KPEUFT`
 * only `OEPBL`
@@ -103,7 +106,7 @@
 * would `WO`
 * always `AULS`
 * say, `SAEU KW-BG`
-* "Poor `KR-GS PAOR`
+* "Poor `KR-GS KPA/PAOR`
 * little `HREUL`
 * creature! `KRAOEFP SKHRAPL`
 * your `KWROUR`
@@ -111,19 +114,19 @@
 * consists `KAOS`
 * single `SEUPBLG`
 * day. `TKAEU TP-PL`
-* how `HOU`
+* How `KPA/HOU`
 * short. `SHORT TP-PL`
 * must `PHUFT`
 * quite `KWAOEUT`
 * melancholy." `PHEL/KOL/HREU TP-PL KR-GS`
-* "Melancholy! `KR-GS PHEL/KOL/HREU SKHRAPL`
+* "Melancholy! `KR-GS KPA/PHEL/KOL/HREU SKHRAPL`
 * what `WHA`
 * do `TKO`
-* You `U`
+* you `U`
 * mean?" `PHAOEPB H-F KR-GS`
 * creature `KRAOEFP`
 * reply. `RE/PHREU TP-PL`
-* "Everything `KR-GS EFG`
+* "Everything `KR-GS KPA/EFG`
 * around `ARPBD`
 * me `PHE`
 * so `SO`
@@ -133,19 +136,19 @@
 * beautiful, `PWAOUFL KW-BG`
 * makes `PHAEUBGS`
 * joyous." `SKWROEU/KWROUS TP-PL KR-GS`
-* "But `KR-GS PWUT`
-* All `AUL`
+* "But `KR-GS KPA/PWUT`
+* all `AUL`
 * over." `OEFR TP-PL KR-GS`
-* "Over!" `KR-GS OEFR SKHRAPL KR-GS`
+* "Over!" `KR-GS KPA/OEFR SKHRAPL KR-GS`
 * repeated `RE/PAOETD`
 * fly; `TPHRAOEU STPH*FPLT`
 * "what `KR-GS WHA`
 * meaning `PHAOEPBG`
 * over? `OEFR H-F`
-* are `R`
+* Are `KPA/R`
 * over `OEFR`
 * too?" `TAO H-F KR-GS`
-* "No; `KR-GS TPHO STPH*FPLT`
+* "No; `KR-GS KPA/TPHO STPH*FPLT`
 * I `EU`
 * shall `SHAL`
 * likely `HRAOEULG`
@@ -159,24 +162,27 @@
 * never `TPHEF`
 * reckon `REBG/-PB`
 * out." `OUT TP-PL KR-GS`
-* "No? `KR-GS TPHO H-F`
+* "No? `KR-GS KPA/TPHO H-F`
 * don't `TKOEPBT`
 * understand `URPBD`
 * you. `U TP-PL`
+* You `KPA/U`
 * may `PHAE`
 * moments `PHOEPLTS`
+* in `TPH`
 * which `WEU`
 * can `K`
 * merry `PHER/REU`
 * happy. `HAEP TP-PL`
+* Does `KPA/TKOS`
 * beauty `PWAOUT`
 * world `WORLD`
 * cease `SAOES`
 * when `WHEPB`
 * die?" `TKAOEU H-F KR-GS`
-* "No," `KR-GS TPHO KW-BG KR-GS`
+* "No," `KR-GS KPA/TPHO KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
-* "It `KR-GS T`
+* "it `KR-GS T`
 * will `HR`
 * certainly `SERPBL`
 * last `HRAFT`
@@ -187,13 +193,14 @@
 * even `AOEPB`
 * think `THEU`
 * of." `-F TP-PL KR-GS`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * then," `THEPB KW-BG KR-GS`
 * said `SAEUD`
 * fly, `TPHRAOEU KW-BG`
-* "We `KR-GS WE`
+* "we `KR-GS WE`
 * live; `HREUF STPH*FPLT`
 * differently." `TKEUFRL TP-PL KR-GS`
+* And `AFPBD`
 * danced `TKAPBS/-D`
 * floated `TPHROET/-D`
 * air, `AEUR KW-BG`
@@ -218,17 +225,18 @@
 * primroses, `PREUPL/ROES/-S KW-BG`
 * mint, `PHEUPBT KW-BG`
 * scent `SKEPBT`
-* These `THEZ`
+* these `THEZ`
 * strong `STROPBG`
 * perfume `PER/TPAOUPL`
 * almost `HR-PL`
 * intoxicated `EUPB/TOBGS/KAEUT/-D`
 * fly. `TPHRAOEU TP-PL`
+* The `KPA/-T`
 * beautiful `PWAOUFL`
 * been `PW-PB`
 * full `TPUL`
 * joy `SKWROEU`
-* Sweet `SWAOET`
+* sweet `SWAOET`
 * delights, `TKHRAOEUT/-S KW-BG`
 * sun `SUPB`
 * sank `SA*PBG`
@@ -236,6 +244,7 @@
 * tired `TAOEURD`
 * happiness `HAEP/-PBS`
 * enjoyment. `SKWROEUPLT TP-PL`
+* Its `KPA/EUTS`
 * sustain `STAEPB`
 * no `TPHO`
 * longer, `HRORPBG KW-BG`
@@ -257,7 +266,7 @@
 * sweetly. `SWAOET/HREU TP-PL`
 * fly `TPHRAOEU`
 * dead. `TKED TP-PL`
-* Ephemera!" `EF/TPEPL/RA SKHRAPL KR-GS`
+* Ephemera!" `KPA/AOE/TPEPL/RA SKHRAPL KR-GS`
 * oak; `OEBG STPH*FPLT`
 * terribly `TERBL/HREU`
 * short `SHORT`
@@ -274,7 +283,7 @@
 * thing `THEUPBG`
 * continued `T-PBD`
 * generations `SKWREPB/RAEGS/-S`
-* Ephemera; `EF/TPEPL/RA STPH*FPLT`
+* Ephemera; `KPA/AOE/TPEPL/RA STPH*FPLT`
 * them `THEPL`
 * equally `KWAEL`
 * oak `OEBG`
@@ -287,22 +296,25 @@
 * drew `TKRAOU`
 * nigh—winter `TPHAOEU EPL/TKA*RB WEURPBT`
 * coming. `KO*G TP-PL`
-* Already `HR-R`
+* Already `KPA/HR-R`
 * storms `STORPLS`
 * were `WR`
 * singing, `SEUPBG/-G KW-BG`
-* "Good-night, `KR-GS TKPWAOD H-PB TPHAOEUT KW-BG`
+* "Good-night, `KR-GS KPA/TKPWAOD H-PB TPHAOEUT KW-BG`
 * good-night." `TKPWAOD H-PB TPHAOEUT TP-PL KR-GS`
-* Here `HAOER`
+* Here `KPA/HAOER`
 * fell `TPEL`
 * leaf `HRAOEF`
-* There `THR`
+* there `THR`
 * leaf. `HRAOEF TP-PL`
+* "We `KR-GS KPA/WE`
 * rock `ROBG`
 * lull `HRUL`
-* go `TKPW`
+* Go `KPA/TKPW`
 * sleep, `SHRAOEP KW-BG`
+* go `TKPW`
 * sleep. `SHRAOEP TP-PL`
+* We `KPA/WE`
 * sing `SEUPBG`
 * shake `SHAEUBG`
 * twigs `TWEUG/-S`
@@ -310,11 +322,13 @@
 * they `THE`
 * crackle `KRABG/*L`
 * pleasure. `PHRERB TP-PL`
+* Sleep `KPA/SHRAOEP`
 * sweetly, `SWAOET/HREU KW-BG`
 * three-hundred-and-sixty-fifth `THRAOE H-PB HUPBD H-PB SKP H-PB SEUBGT H-PB TP*EUT`
 * night. `TPHAOEUT TP-PL`
-* Correctly `KREBT/HREU`
+* Correctly `KPA/KREBT/HREU`
 * speaking, `SPAOEG KW-BG`
+* are `R`
 * youngster `KWRUPBG/STER`
 * world. `WORLD TP-PL`
 * clouds `KHROUDZ`
@@ -324,6 +338,7 @@
 * cover-lid, `KOFR H-PB HREUD KW-BG`
 * sheltering `SHELT/ERG`
 * feet. `TPAOET TP-PL`
+* Sweet `KPA/SWAOET`
 * pleasant `PHREFPBT`
 * dreams." `TKRAOEPLS TP-PL KR-GS`
 * stripped `STREUPD`
@@ -344,7 +359,7 @@
 * cradle `KRAEUD/*L`
 * an `APB`
 * acorn. `ABG/KORPB TP-PL`
-* According `KORG`
+* According `KPA/KORG`
 * human `HAOUPL`
 * computation, `KPAOUT/AEUGS KW-BG`
 * now `TPHOU`
@@ -367,6 +382,7 @@
 * landmark `HRAPBD/PHARPL`
 * sailors. `SAEUL/ORS TP-PL`
 * idea `KWR-D`
+* how `HOU`
 * eyes `AO*EUS`
 * looked `HRAOBGD`
 * eagerly `AOERLG`
@@ -401,6 +417,7 @@
 * flight `TPHRAOEUT`
 * across `A/KROS`
 * sea. `SAE TP-PL`
+* But `KPA/PWUT`
 * leafless, `xxx leafless KW-BG`
 * see `SAOE`
 * crooked `KRAOBGD`
@@ -408,7 +425,7 @@
 * sprang `SPRAPBG`
 * forth `TPO*RT`
 * trunk. `TRUPBG TP-PL`
-* Crows `KROE/-S`
+* Crows `xxx Crows`
 * rooks `RAOBGS`
 * came `KAEUPL`
 * turns `TURPBS`
@@ -432,7 +449,7 @@
 * festive `TPES/TEUF`
 * arrived, `A/REUFD KW-BG`
 * fancied `TPAPB/SEU/-D`
-* He `HE`
+* he `HE`
 * heard `HAERD`
 * bells `PWELS`
 * ringing `REUPBG/-G`
@@ -444,6 +461,7 @@
 * summer's `SAOURPL AES`
 * mild `PHAOEULD`
 * warm. `WARPL TP-PL`
+* His `KPA/HEUS`
 * mighty `PHAOEUT/KWREU`
 * summits `SUPLT/-S`
 * crowned `KROUPBD`
@@ -467,9 +485,11 @@
 * created `KRAOETD`
 * merely `PHAOERL`
 * in. `TPH TP-PL`
+* All `KPA/AUL`
 * year `KWRAOER`
 * pass `PAS`
 * procession. `PRO/SEGS TP-PL`
+* He `KPA/HE`
 * saw `SAU`
 * knights `TPHAO*EUT/-S`
 * olden `OLD/*EPB`
@@ -520,7 +540,7 @@
 * names `TPHAEUPLS`
 * grayish-green `TKPWRAEU/EURB H-PB TKPWRAOEPB`
 * bark `PWARBG`
-* Once, `WUPBS KW-BG`
+* Once, `KPA/WUPBS KW-BG`
 * intervened `EUPBT/SRAOEPBD`
 * since `SEUPBS`
 * then, `THEPB KW-BG`
@@ -543,6 +563,7 @@
 * called `KAULD`
 * tell `TEL`
 * live. `HREUF TP-PL`
+* Then `KPA/THEPB`
 * new `TPHU`
 * thrilling `THREULG`
 * fibre `TPAOEURB/A*U`
@@ -561,6 +582,7 @@
 * ran `RAPB`
 * vigor `SREUG/O*R`
 * life. `HRAOEUF TP-PL`
+* As `KPA/AZ`
 * grew `TKPWRAOU`
 * higher `HAOEUR`
 * still `STEUL`
@@ -599,19 +621,21 @@
 * clear `KHRAOER`
 * gentle `SKWR*EPBLT`
 * eyes. `AO*EUS TP-PL`
+* They `KPA/THE`
 * recalled `-RLD`
 * memory `PHOEURPL`
 * look `HRAOBG`
 * child, `KHAOEULD KW-BG`
-* Who `WHO`
+* who `WHO`
 * met `PHET`
 * oak. `OEBG TP-PL`
+* These `KPA/THEZ`
 * wonderful `WUFL`
 * peace `PAES`
 * joy; `SKWROEU STPH*FPLT`
 * yet, `KWRET KW-BG`
 * amidst `A/PHEUTDZ`
-* This `TH`
+* this `TH`
 * happiness, `HAEP/-PBS KW-BG`
 * yearning, `KWRERPBG KW-BG`
 * desire `STKAOEUR`
@@ -652,13 +676,15 @@
 * violets; `SROEULT/-S STPH*FPLT`
 * note `TPHOET`
 * cuckoo. `KAO/KAO TP-PL`
+* At `KPA/AT`
 * length `HREPBG`
 * satisfied. `SAED TP-PL`
+* Up `KPA/UP`
 * forest `TPOEFRT`
 * rising, `RAOEUFG KW-BG`
 * growing `TKPWROEG`
 * higher. `HAOEUR TP-PL`
-* Bush `PWURB`
+* Bush `PW*URB`
 * shot `SHOT`
 * upward, `AUP/WARBD KW-BG`
 * some `SOPL`
@@ -669,6 +695,7 @@
 * birch-tree `PWEUFRPB H-PB TRAOE`
 * quickest `KWEUBG/EFT`
 * all. `AUL TP-PL`
+* Like `KPA/HRAOEUBG`
 * lightning `HRAOEUT/TPHEUPBG`
 * flash `TPHRARB`
 * slender `SHRERPBD`
@@ -676,6 +703,7 @@
 * zigzag `S*EUG/SA*G`
 * line, `HRAOEUPB KW-BG`
 * banners. `PWAPB/ERS TP-PL`
+* Every `KPA/EF`
 * native `TPHAEUFT`
 * wood, `WAOD KW-BG`
 * brown `PWROUPB`
@@ -712,7 +740,7 @@
 * bell-flower, `PWEL H-PB TPHRO*UR KW-BG`
 * daisy?" `TKAEU/SEU H-F KR-GS`
 * wanted `WAPBTD`
-* "Here `KR-GS HAOER`
+* "Here `KR-GS KPA/HAOER`
 * are, `R KW-BG`
 * here," `HAOER KW-BG KR-GS`
 * sounded `SOUPBD/-D`
@@ -736,20 +764,21 @@
 * voices `SROEUFS`
 * flown `TPHROEPB`
 * beforehand. `PW-FRPBD TP-PL`
-* "Why `KR-GS KWR`
+* "Why `KR-GS KPA/KWR`
 * too `TAO`
 * believed," `PWHREFD KW-BG KR-GS`
 * joyful `SKWROEUFL`
 * tone. `TOEPB TP-PL`
 * "I `KR-GS EU`
 * forgotten. `TPORGTD TP-PL`
-* Such `SUFP`
+* Can `KPA/K`
+* such `SUFP`
 * imagined?" `PHAPBLGD H-F KR-GS`
 * impossible. `EUPL/POB TP-PL`
-* "In `KR-GS TPH`
+* "In `KR-GS KPA/TPH`
 * heaven `HEFPB`
-* eternal `E/TERPBL`
-* God, `TKPWOD KW-BG`
+* Eternal `KPA/E/TERPBL`
+* God, `TKPWO*D KW-BG`
 * imagined, `PHAPBLGD KW-BG`
 * possible," `POB KW-BG KR-GS`
 * reply `RE/PHREU`
@@ -757,6 +786,7 @@
 * onwards, `OPB/WARDZ KW-BG`
 * loosening `HRAOS/EPBG`
 * earth. `*ERT TP-PL`
+* "It `KR-GS KPA/T`
 * right `RAOEUT`
 * best," `PWEFT KW-BG KR-GS`
 * "no `KR-GS TPHO`
@@ -770,7 +800,8 @@
 * me, `PHE KW-BG`
 * small `SPHAL`
 * great. `TKPWRAET TP-PL`
-* All—all `AUL EPL/TKA*RB AUL`
+* All—all `KPA/AUL EPL/TKA*RB AUL`
+* Such `KPA/SUFP`
 * oak: `OEBG STPH-FPLT`
 * dreamed, `TKREPLD KW-BG`
 * storm `STORPL`
@@ -782,6 +813,7 @@
 * billows `PWEUL/HROE/-S`
 * towards `TORDZ`
 * shore. `SHOR TP-PL`
+* There `KPA/THR`
 * cracking `KRA*G`
 * crushing `KRURBG`
 * torn `TORPB`
@@ -791,20 +823,21 @@
 * loosened `HRAOS/-PBD`
 * fell—his `TPEL EPL/TKA*RB HEUS`
 * passed `PAFD`
-* Ephemera. `EF/TPEPL/RA TP-PL`
+* Ephemera. `KPA/AOE/TPEPL/RA TP-PL`
 * Christmas-day, `KREUS/PHAS H-PB TKAEU KW-BG`
-* rose, `ROEZ KW-BG`
+* rose, `ROES KW-BG`
 * ceased. `KRAES/-D TP-PL`
+* From `KPA/TPR`
 * bells, `PWELS KW-BG`
 * hearth, `HAERT KW-BG`
 * smallest `SPHAUL/EFT`
 * hut, `HUT KW-BG`
-* rose `ROEZ`
+* rose `ROES`
 * smoke `SPHOEBG`
 * into `TPHAO`
 * sky, `SKAOEU KW-BG`
 * thank-offerings `THAPBG H-PB OFRGS`
-* Druids' `TKRAOUD/-S AE`
+* Druids' `TKRAOU/EUD/-S AE`
 * altars. `AL/TAR/-S TP-PL`
 * gradually `TKPWRAD/WAEL`
 * calm, `KAUPL KW-BG`
@@ -816,16 +849,18 @@
 * displayed, `TKEUS/PHRAEUD KW-BG`
 * token `TO*EPB`
 * festivity. `TPES/TEUFT TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * down! `TKOUPB SKHRAPL`
 * oak,—our `OEBG KW-BG EPL/TKA*RB OUR`
 * coast!" `KOEFT SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * fallen `TPAUL/-PB`
+* Who `KPA/WHO`
 * replace `RE/PHRAEUS`
 * it? `T H-F`
-* Alas! `A/HRAS SKHRAPL`
+* Alas! `KPA/A/HRAS SKHRAPL`
 * one." `WUPB TP-PL KR-GS`
+* This `KPA/TH`
 * funeral `TPAOUPBL`
 * oration `OR/AEUGS`
 * short, `SHORT KW-BG`
@@ -838,22 +873,24 @@
 * redemption `RE/TKEPLS`
 * soul `SOUL`
 * man, `PHAPB KW-BG`
+* eternal `E/TERPBL`
 * Christ's `KRAOEUFT AES`
 * atoning `A/TOEPB/-G`
 * blood. `PWHRAOD TP-PL`
-* "Sing `KR-GS SEUPBG`
+* "Sing `KR-GS KPA/SEUPBG`
 * aloud `A/HROUD`
 * morn, `PHORPB KW-BG`
 * fulfilled, `TPUL/TPEULD KW-BG`
 * Christ `KRAOEUFT`
 * born; `PWORPB STPH*FPLT`
+* With `KPA/W`
 * songs `SOPBGS`
 * let `HRET`
 * loudly `HROUD/HREU`
 * sing, `SEUPBG KW-BG`
 * 'Hallelujahs `AE HAL/HRAOU/KWRA/-S`
-* King.'" `KEUPBG TP-PL AE KR-GS`
-* Thus `THUS`
+* King.'" `KO*EUPBG TP-PL AE KR-GS`
+* Thus `KPA/THUS`
 * carol, `KAEURL KW-BG`
 * thoughts `THAUTS`
 * elevated, `EL/SRAEUTD KW-BG`

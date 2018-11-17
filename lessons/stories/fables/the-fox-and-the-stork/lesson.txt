@@ -1,13 +1,13 @@
 The Fox and the Stork
 
-'At': AT
+'At': KPA/AT
 'one': WUPB
 'time': TAOEUPL
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'and': SKP
 'the': -T
-'Stork': STORBG
+'Stork': KPA/STORBG
 'were': WR
 'on': OPB
 'visiting': SREUFT/-G
@@ -17,12 +17,12 @@ The Fox and the Stork
 'very': SRE
 'good': TKPWAOD
 'friends.': TPREPBDZ TP-PL
-'So': SO
+'So': KPA/SO
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'invited': EUPB/SRAOEUTD
 'the': -T
-'Stork': STORBG
+'Stork': KPA/STORBG
 'to': TO
 'dinner,': TKEURPB KW-BG
 'and': SKP
@@ -41,16 +41,16 @@ The Fox and the Stork
 'very': SRE
 'shallow': SHOEUL
 'dish.': TKEURB TP-PL
-'This': TH
+'This': KPA/TH
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'could': KO
 'easily': AOELS
 'lap': HRAP
 'up,': UP KW-BG
 'but': PWUT
 'the': -T
-'Stork': STORBG
+'Stork': KPA/STORBG
 'could': KO
 'only': OEPBL
 'wet': WET
@@ -77,7 +77,7 @@ The Fox and the Stork
 'sorry,"': SOER KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Fox,': TPOBGS KW-BG
+'Fox,': KPA/TPOBGS KW-BG
 '"the': KR-GS -T
 'soup': SOUP
 'is': S
@@ -85,13 +85,13 @@ The Fox and the Stork
 'to': TO
 'your': KWROUR
 'liking."': HRAO*EUG TP-PL KR-GS
-'"Pray': KR-GS PRAEU
+'"Pray': KR-GS KPA/PRAEU
 'do': TKO
 'not': TPHOT
 'apologise,"': POLZ/A*U KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Stork.': STORBG TP-PL
+'Stork.': KPA/STORBG TP-PL
 '"I': KR-GS EU
 'hope': HOEP
 'you': U
@@ -106,18 +106,18 @@ The Fox and the Stork
 'with': W
 'me': PHE
 'soon."': SAOPB TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'a': AEU
 'day': TKAEU
 'was': WAS
 'appointed': POEUPBD
 'when': WHEPB
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'should': SHO
 'visit': SREUFT
 'the': -T
-'Stork;': STORBG STPH*FPLT
+'Stork;': KPA/STORBG STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'they': THE
@@ -145,7 +145,7 @@ The Fox and the Stork
 'in': TPH
 'which': WEU
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'could': KO
 'not': TPHOT
 'insert': EUPB/SERT
@@ -175,8 +175,8 @@ The Fox and the Stork
 'dinner,"': TKEURPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Stork:': STORBG STPH-FPLT
-'"One': KR-GS WUPB
+'Stork:': KPA/STORBG STPH-FPLT
+'"One': KR-GS KPA/WUPB
 'bad': PWAD
 'turn': TURPB
 'deserves': TKEFRBS

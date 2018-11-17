@@ -1,7 +1,7 @@
 # The Tortoise and the Birds
 
 * A `KPA/AEU`
-* Tortoise `TOR/TOS`
+* Tortoise `KPA/TOR/TOS`
 * desired `STKAOEURD`
 * to `TO`
 * change `KHAEUPBG`
@@ -13,7 +13,7 @@
 * he `HE`
 * asked `SK-D`
 * an `APB`
-* Eagle `AOEG/*L`
+* Eagle `KPA/AOEG/*L`
 * carry `KAER`
 * him `HEUPL`
 * his `HEUS`
@@ -26,10 +26,11 @@
 * reward `RE/WARD`
 * for `TPOR`
 * trouble. `TRUBL TP-PL`
-* the `-T`
+* The `KPA/-T`
 * agreed `TKPWRAED`
 * and `SKP`
 * seizing `SAOEZ/-G`
+* the `-T`
 * by `PWEU`
 * shell `SHEL`
 * with `W`
@@ -41,15 +42,15 @@
 * way `WAEU`
 * they `THE`
 * met `PHET`
-* Crow, `KROE KW-BG`
+* Crow, `KPA/KROE KW-BG`
 * who `WHO`
 * said `SAEUD`
-* Eagle: `AOEG/*L STPH-FPLT`
-* "Tortoise `KR-GS TOR/TOS`
+* Eagle: `KPA/AOEG/*L STPH-FPLT`
+* "Tortoise `KR-GS KPA/TOR/TOS`
 * is `S`
 * good `TKPWAOD`
 * eating." `AOEGT TP-PL KR-GS`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * too `TAO`
 * hard," `HARD KW-BG KR-GS`
 * in `TPH`
@@ -60,9 +61,9 @@
 * crack `KRABG`
 * shell," `SHEL KW-BG KR-GS`
 * was `WAS`
-* Crow's `KROE AES`
+* Crow's `KPA/KROE AES`
 * answer; `AEPBS STPH*FPLT`
-* Eagle, `AOEG/*L KW-BG`
+* Eagle, `KPA/AOEG/*L KW-BG`
 * taking `TAEUG`
 * hint, `HEUPBT KW-BG`
 * let `HRET`
@@ -74,8 +75,8 @@
 * made `PHAED`
 * hearty `HAR/TEU`
 * meal `PHAOEL`
-* Tortoise. `TOR/TOS TP-PL`
-* Never `TPHEF`
+* Tortoise. `KPA/TOR/TOS TP-PL`
+* Never `KPA/TPHEF`
 * soar `SAOR`
 * aloft `A/HROFT`
 * enemy's `EPB/PHEU/AES`

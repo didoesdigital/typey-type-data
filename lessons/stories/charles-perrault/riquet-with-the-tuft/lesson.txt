@@ -1,13 +1,13 @@
 Riquet With the Tuft
 
-'There': THR
+'There': KPA/THR
 'was,': WAS KW-BG
 'once': WUPBS
 'upon': POPB
 'a': AEU
 'time,': TAOEUPL KW-BG
 'a': AEU
-'Queen,': KWAOEPB KW-BG
+'Queen,': KWAO*EPB KW-BG
 'who': WHO
 'was': WAS
 'brought': PWRAUT
@@ -30,7 +30,7 @@ Riquet With the Tuft
 'human': HAOUPL
 'form.': TPORPL TP-PL
 'A': KPA/AEU
-'Fairy,': TPAEUR/REU KW-BG
+'Fairy,': KPA/TPAEUR/REU KW-BG
 'who': WHO
 'was': WAS
 'at': AT
@@ -54,7 +54,7 @@ Riquet With the Tuft
 'abundance': PWUPB/TKAPBS
 'of': -F
 'wit.': WEUT TP-PL
-'She': SHE
+'She': KPA/SHE
 'even': AOEPB
 'added,': AD/-D KW-BG
 'that': THA
@@ -89,13 +89,13 @@ Riquet With the Tuft
 'as': AZ
 'he': HE
 'pleased.': PHRAOEFD TP-PL
-'All': AUL
+'All': KPA/AUL
 'this': TH
 'somewhat': SWHA
 'comforted': K-FRTD
 'the': -T
 'poor': PAOR
-'Queen,': KWAOEPB KW-BG
+'Queen,': KWAO*EPB KW-BG
 'who': WHO
 'was': WAS
 'under': *UPBD
@@ -112,7 +112,7 @@ Riquet With the Tuft
 'an': APB
 'ugly': ULG
 'brat.': PWRAT TP-PL
-'It': T
+'It': KPA/T
 'is': S
 'true,': TRAOU KW-BG
 'that': THA
@@ -173,21 +173,21 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 'for': TPOR
 'Riquet': xxx Riquet
 'was': WAS
 'the': -T
 'family': TPAEPL
 'name.': TPHAEUPL TP-PL
-'Seven': SEFPB
+'Seven': KPA/SEFPB
 'or': OR
 'eight': AET
 'years': KWRAOERS
 'after': AF
 'this,': TH KW-BG
 'the': -T
-'Queen': KWAOEPB
+'Queen': KWAO*EPB
 'of': -F
 'a': AEU
 'neighbouring': TPHAEUB/-G/A*U
@@ -200,7 +200,7 @@ Riquet With the Tuft
 'at': AT
 'a': AEU
 'birth.': PW*EURT TP-PL
-'The': -T
+'The': KPA/-T
 'first-born': TPEUFRT H-PB PWORPB
 'of': -F
 'these': THEZ
@@ -210,7 +210,7 @@ Riquet With the Tuft
 'compare,': KPAR KW-BG
 'whereat': WRAT
 'the': -T
-'Queen': KWAOEPB
+'Queen': KWAO*EPB
 'was': WAS
 'so': SO
 'very': SRE
@@ -229,9 +229,9 @@ Riquet With the Tuft
 'do': TKO
 'her': HER
 'harm.': HARPL TP-PL
-'The': -T
+'The': KPA/-T
 'same': SAEUPL
-'Fairy,': TPAEUR/REU KW-BG
+'Fairy,': KPA/TPAEUR/REU KW-BG
 'who': WHO
 'had': H
 'assisted': S*EUFD
@@ -243,7 +243,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 'was': WAS
 'here': HAOER
 'also;': HR-S STPH*FPLT
@@ -251,14 +251,14 @@ Riquet With the Tuft
 'to': TO
 'moderate': PHOD/RAT
 'the': -T
-'Queen's': KWAOEPB AES
+'Queen's': KWAO*EPB AES
 'gladness,': TKPWHRAD/-PBS KW-BG
 'she': SHE
 'declared,': TKE/KHRAEURD KW-BG
 'that': THA
 'this': TH
 'little': HREUL
-'Princess': PREUPB/ES
+'Princess': KPA/PREUPB/ES
 'should': SHO
 'have': SR
 'no': TPHO
@@ -273,10 +273,10 @@ Riquet With the Tuft
 'she': SHE
 'was': WAS
 'pretty.': PREUT TP-PL
-'This': TH
+'This': KPA/TH
 'mortified': PHORT/TPAOEUD
 'the': -T
-'Queen': KWAOEPB
+'Queen': KWAO*EPB
 'extreamly,': xxx extreamly KW-BG
 'but': PWUT
 'some': SOPL
@@ -298,16 +298,16 @@ Riquet With the Tuft
 'was': WAS
 'very': SRE
 'ugly.': ULG TP-PL
-'"Do': KR-GS TKO
+'"Do': KR-GS KPA/TKO
 'not': TPHOT
 'afflict': A/TPHREUBGT
 'yourself': KWRO*URS
 'so': SO
 'much,': PHUFP KW-BG
-'Madam,"': PHAD/APL KW-BG KR-GS
+'Madam,"': PHA*D/APL KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Fairy;': TPAEUR/REU STPH*FPLT
+'Fairy;': KPA/TPAEUR/REU STPH*FPLT
 '"your': KR-GS KWROUR
 'daughter': TKAUR
 'shall': SHAL
@@ -327,12 +327,12 @@ Riquet With the Tuft
 'scarcely': SKAEURS/HREU
 'be': -B
 'perceived."': SPAOEFD TP-PL KR-GS
-'"God': KR-GS TKPWOD
+'"God': KR-GS TKPWO*D
 'grant': TKPWRAPBT
 'it,"': T KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'Queen;': KWAOEPB STPH*FPLT
+'Queen;': KWAO*EPB STPH*FPLT
 '"but': KR-GS PWUT
 'is': S
 'there': THR
@@ -356,13 +356,13 @@ Riquet With the Tuft
 'nothing': TPHOG
 'for': TPOR
 'her,': HER KW-BG
-'Madam,': PHAD/APL KW-BG
+'Madam,': PHA*D/APL KW-BG
 'as': AZ
 'to': TO
 'wit,"': WEUT KW-BG KR-GS
 'answered': AEPBS/-D
 'the': -T
-'Fairy,': TPAEUR/REU KW-BG
+'Fairy,': KPA/TPAEUR/REU KW-BG
 '"but': KR-GS PWUT
 'everything': EFG
 'as': AZ
@@ -402,9 +402,9 @@ Riquet With the Tuft
 'best': PWEFT
 'please': PHRES
 'her."': HER TP-PL KR-GS
-'As': AZ
+'As': KPA/AZ
 'these': THEZ
-'Princesses': PREUPB/ES/-S
+'Princesses': KPA/PREUPB/SES/-S
 'grew': TKPWRAOU
 'up,': UP KW-BG
 'their': THAEUR
@@ -430,7 +430,7 @@ Riquet With the Tuft
 'of': -F
 'the': -T
 'youngest.': KWRUPBG/EFT TP-PL
-'It': T
+'It': KPA/T
 'is': S
 'true': TRAOU
 'also': HR-S
@@ -514,7 +514,7 @@ Riquet With the Tuft
 'upon': POPB
 'her': HER
 'cloaths.': xxx cloaths TP-PL
-'Tho'': THO* AE
+'Tho'': KPA/THO* AE
 'beauty': PWAOUT
 'is': S
 'a': AEU
@@ -548,7 +548,7 @@ Riquet With the Tuft
 'first': TPEUFRT
 'to': TO
 'the': -T
-'Beauty': PWAOUT
+'Beauty': KPA/PWAOUT
 'to': TO
 'look': HRAOBG
 'upon,': POPB KW-BG
@@ -562,7 +562,7 @@ Riquet With the Tuft
 'after': AF
 'to': TO
 'the': -T
-'Wit,': WEUT KW-BG
+'Wit,': KPA/WEUT KW-BG
 'to': TO
 'hear': HAER
 'a': AEU
@@ -603,7 +603,7 @@ Riquet With the Tuft
 'about': PW
 'the': -T
 'youngest.': KWRUPBG/EFT TP-PL
-'The': -T
+'The': KPA/-T
 'eldest,': ELD/EFT KW-BG
 'tho'': THO* AE
 'she': SHE
@@ -630,8 +630,8 @@ Riquet With the Tuft
 'of': -F
 'her': HER
 'sister.': ST-R TP-PL
-'The': -T
-'Queen,': KWAOEPB KW-BG
+'The': KPA/-T
+'Queen,': KWAO*EPB KW-BG
 'prudent': PRAOUPBT
 'as': AZ
 'she': SHE
@@ -651,11 +651,11 @@ Riquet With the Tuft
 'made': PHAED
 'this': TH
 'poor': PAOR
-'Princess': PREUPB/ES
+'Princess': KPA/PREUPB/ES
 'die': TKAOEU
 'for': TPOR
 'grief.': TKPWRAOEF TP-PL
-'One': WUPB
+'One': KPA/WUPB
 'day,': TKAEU KW-BG
 'as': AZ
 'she': SHE
@@ -681,15 +681,15 @@ Riquet With the Tuft
 'most': PHOFT
 'magnificently': PHAFG/SEPBT/HREU
 'dressed.': TKREFD TP-PL
-'This': TH
+'This': KPA/TH
 'was': WAS
 'the': -T
 'young': KWRUPBG
-'Prince': PREUPBS
+'Prince': PR*EUPBS
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 'who': WHO
 'having': SR-G
 'fallen': TPAUL/-PB
@@ -724,7 +724,7 @@ Riquet With the Tuft
 'talking': TAUG
 'with': W
 'her.': HER TP-PL
-'Overjoyed': AUFR/SKWROEUD
+'Overjoyed': KPA/AUFR/SKWROEUD
 'to': TO
 'find': TPEUPBD
 'her': HER
@@ -742,7 +742,7 @@ Riquet With the Tuft
 'politeness': PHRAOEUT/*PBS
 'and': SKP
 'respect.': R-PT TP-PL
-'Having': SR-G
+'Having': KPA/SR-G
 'observed,': OEBD KW-BG
 'after': AF
 'he': HE
@@ -764,7 +764,7 @@ Riquet With the Tuft
 '"I': KR-GS EU
 'cannot': K/TPHOT
 'comprehend,': KPREPBD KW-BG
-'Madam,': PHAD/APL KW-BG
+'Madam,': PHA*D/APL KW-BG
 'how': HOU
 'a': AEU
 'person': PERPB
@@ -809,7 +809,7 @@ Riquet With the Tuft
 'beauty': PWAOUT
 'approaches': A/PROEFPS
 'yours."': KWROURS TP-PL KR-GS
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'are': R
 'pleased': PHRAOEFD
 'to': TO
@@ -817,17 +817,17 @@ Riquet With the Tuft
 'so,"': SO KW-BG KR-GS
 'answered': AEPBS/-D
 'the': -T
-'Princess,': PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/ES KW-BG
 'and': SKP
 'here': HAOER
 'she': SHE
 'stopped.': STOPD TP-PL
-'"Beauty,"': KR-GS PWAOUT KW-BG KR-GS
+'"Beauty,"': KR-GS KPA/PWAOUT KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 '"is': KR-GS S
 'such': SUFP
 'a': AEU
@@ -865,7 +865,7 @@ Riquet With the Tuft
 'rather,"': RAER KW-BG KR-GS
 'cried': KRAOEUD
 'the': -T
-'Princess,': PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/ES KW-BG
 '"be': KR-GS -B
 'as': AZ
 'ugly': ULG
@@ -888,10 +888,10 @@ Riquet With the Tuft
 'as': AZ
 'I': EU
 'am."': APL TP-PL KR-GS
-'"There': KR-GS THR
+'"There': KR-GS KPA/THR
 'is': S
 'nothing,': TPHOG KW-BG
-'Madam,"': PHAD/APL KW-BG KR-GS
+'Madam,"': PHA*D/APL KW-BG KR-GS
 'returned': RURPBD
 'he,': HE KW-BG
 '"shews': KR-GS S*/H*/*E/W*/-S
@@ -936,7 +936,7 @@ Riquet With the Tuft
 'that,"': THA KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Princess;': PREUPB/ES STPH*FPLT
+'Princess;': KPA/PREUPB/ES STPH*FPLT
 '"but': KR-GS PWUT
 'I': EU
 'know,': TPHOE KW-BG
@@ -956,11 +956,11 @@ Riquet With the Tuft
 'almost': HR-PL
 'kills': KEULS
 'me."': PHE TP-PL KR-GS
-'"If': KR-GS TP
+'"If': KR-GS KPA/TP
 'that': THA
 'be': -B
 'all,': AUL KW-BG
-'Madam,': PHAD/APL KW-BG
+'Madam,': PHA*D/APL KW-BG
 'which': WEU
 'troubles': TRUBLS
 'you,': U KW-BG
@@ -974,7 +974,7 @@ Riquet With the Tuft
 'to': TO
 'your': KWROUR
 'affliction."': A/TPHREUBGS TP-PL KR-GS
-'"And': KR-GS SKP
+'"And': KR-GS AFPBD
 'how': HOU
 'will': HR
 'you': U
@@ -982,17 +982,17 @@ Riquet With the Tuft
 'that?"': THA H-F KR-GS
 'cried': KRAOEUD
 'the': -T
-'Princess.': PREUPB/ES TP-PL
+'Princess.': KPA/PREUPB/ES TP-PL
 '"I': KR-GS EU
 'have': SR
 'the': -T
 'power,': POUR KW-BG
-'Madam,"': PHAD/APL KW-BG KR-GS
+'Madam,"': PHA*D/APL KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 '"to': KR-GS TO
 'give': TKPWEUF
 'to': TO
@@ -1013,7 +1013,7 @@ Riquet With the Tuft
 'and': SKP
 'as': AZ
 'you,': U KW-BG
-'Madam,': PHAD/APL KW-BG
+'Madam,': PHA*D/APL KW-BG
 'are': R
 'that': THA
 'very': SRE
@@ -1046,8 +1046,8 @@ Riquet With the Tuft
 'to': TO
 'marry': PHAER
 'me."': PHE TP-PL KR-GS
-'The': -T
-'Princess': PREUPB/ES
+'The': KPA/-T
+'Princess': KPA/PREUPB/ES
 'remained': RE/PHAEUPBD
 'quite': KWAOEUT
 'astonished,': A/STOPB/EURBD KW-BG
@@ -1062,7 +1062,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 '"that': KR-GS THA
 'this': TH
 'proposal': PROEL
@@ -1089,8 +1089,8 @@ Riquet With the Tuft
 'consider': KR
 'of': -F
 'it."': T TP-PL KR-GS
-'The': -T
-'Princess': PREUPB/ES
+'The': KPA/-T
+'Princess': KPA/PREUPB/ES
 'had': H
 'so': SO
 'little': HREUL
@@ -1127,7 +1127,7 @@ Riquet With the Tuft
 'was': WAS
 'made': PHAED
 'her.': HER TP-PL
-'She': SHE
+'She': KPA/SHE
 'had': H
 'no': TPHO
 'sooner': SAORPB
@@ -1135,7 +1135,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft': TUFT
+'Tuft': KPA/TUFT
 'that': THA
 'she': SHE
 'would': WO
@@ -1184,7 +1184,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 'wherein': WR-PB
 'she': SHE
 'tattled': TAT/-LD
@@ -1196,7 +1196,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft': TUFT
+'Tuft': KPA/TUFT
 'believed': PWHREFD
 'he': HE
 'had': H
@@ -1210,7 +1210,7 @@ Riquet With the Tuft
 'reserved': REFRBD
 'for': TPOR
 'himself.': H*EUPLS TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'she': SHE
 'returned': RURPBD
 'to': TO
@@ -1218,7 +1218,7 @@ Riquet With the Tuft
 'palace,': PAL/AS KW-BG
 'the': -T
 'whole': WHOEL
-'Court': KORT
+'Court': KO*RT
 'knew': TPHAOU
 'not': TPHOT
 'what': WHA
@@ -1255,9 +1255,9 @@ Riquet With the Tuft
 'silly': SEUL/HREU
 'impertinences': xxx impertinences
 'before.': PW-F TP-PL
-'The': -T
+'The': KPA/-T
 'whole': WHOEL
-'Court': KORT
+'Court': KO*RT
 'was': WAS
 'overjoyed': AUFR/SKWROEUD
 'at': AT
@@ -1294,8 +1294,8 @@ Riquet With the Tuft
 'disagreeable,': TKEUS/TKPWRAOEBL KW-BG
 'homely': HOEPL/HREU
 'puss.': PUSZ TP-PL
-'The': -T
-'King': KEUPBG
+'The': KPA/-T
+'King': KO*EUPBG
 'governed': TKPWOFRPBD
 'himself': H*EUPLS
 'by': PWEU
@@ -1311,7 +1311,7 @@ Riquet With the Tuft
 'in': TPH
 'her': HER
 'apartment.': ARPLT TP-PL
-'The': -T
+'The': KPA/-T
 'noise': TPHOEUS
 'of': -F
 'this': TH
@@ -1322,7 +1322,7 @@ Riquet With the Tuft
 'all': AUL
 'the': -T
 'young': KWRUPBG
-'Princes': PREUPBS/-S
+'Princes': KPA/PREUPBS/-S
 'of': -F
 'the': -T
 'neighbouring': TPHAEUB/-G/A*U
@@ -1370,7 +1370,7 @@ Riquet With the Tuft
 'herself': H*ERS
 'to': TO
 'any.': TPHEU TP-PL
-'However,': HOUF KW-BG
+'However,': KPA/HOUF KW-BG
 'there': THR
 'came': KAEUPL
 'one': WUPB
@@ -1391,7 +1391,7 @@ Riquet With the Tuft
 'inclination': EUPBG/TPHAEUGS
 'for': TPOR
 'him.': HEUPL TP-PL
-'Her': HER
+'Her': KPA/HER
 'father': TPAER
 'perceived': SPAOEFD
 'it,': T KW-BG
@@ -1418,7 +1418,7 @@ Riquet With the Tuft
 'declare': TKE/KHRAR
 'her': HER
 'intentions.': EUPB/TEPGS/-S TP-PL
-'As': AZ
+'As': KPA/AZ
 'the': -T
 'more': PHOR
 'wit': WEUT
@@ -1455,7 +1455,7 @@ Riquet With the Tuft
 'consider': KR
 'of': -F
 'it.': T TP-PL
-'She': SHE
+'She': KPA/SHE
 'went': WEPBT
 'accidentally': STKEPBLT
 'to': TO
@@ -1470,7 +1470,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 'to': TO
 'think,': THEU KW-BG
 'the': -T
@@ -1481,7 +1481,7 @@ Riquet With the Tuft
 'ought': OT
 'to': TO
 'do.': TKO TP-PL
-'While': WHAOEUL
+'While': KPA/WHAOEUL
 'she': SHE
 'was': WAS
 'walking': WAUG
@@ -1514,7 +1514,7 @@ Riquet With the Tuft
 'were': WR
 'very': SRE
 'busy.': PW-Z TP-PL
-'Having': SR-G
+'Having': KPA/SR-G
 'listened': HREUFPBD
 'more': PHOR
 'attentively,': A/TEPBT/EUFL KW-BG
@@ -1522,25 +1522,25 @@ Riquet With the Tuft
 'heard': HAERD
 'one': WUPB
 'say:': SAEU STPH-FPLT
-'"Bring': KR-GS PWREU
+'"Bring': KR-GS KPA/PWREU
 'me': PHE
 'that': THA
 'pot";': POT KR-GS STPH*FPLT
 'another': TPHOER
-'"Give': KR-GS TKPWEUF
+'"Give': KR-GS KPA/TKPWEUF
 'me': PHE
 'that': THA
 'kettle";': KET/*L KR-GS STPH*FPLT
 'and': SKP
 'a': AEU
 'third,': THEURD KW-BG
-'"Put': KR-GS PUT
+'"Put': KR-GS KPA/PUT
 'some': SOPL
 'wood': WAOD
 'upon': POPB
 'the': -T
 'fire."': TPAOEUR TP-PL KR-GS
-'The': -T
+'The': KPA/-T
 'ground': TKPWROUPBD
 'at': AT
 'the': -T
@@ -1571,7 +1571,7 @@ Riquet With the Tuft
 'a': AEU
 'magnificent': PHAFPBT
 'entertainment.': TAEUPLT TP-PL
-'There': THR
+'There': KPA/THR
 'came': KAEUPL
 'out': OUT
 'of': -F
@@ -1629,8 +1629,8 @@ Riquet With the Tuft
 'very': SRE
 'harmonious': AR/PHOEPB/KWROUS
 'song.': SOPBG TP-PL
-'The': -T
-'Princess,': PREUPB/ES KW-BG
+'The': KPA/-T
+'Princess,': KPA/PREUPB/ES KW-BG
 'all': AUL
 'astonished': A/STOPB/EURBD
 'at': AT
@@ -1642,12 +1642,12 @@ Riquet With the Tuft
 'they': THE
 'worked': WORBGD
 'for.': TPOR TP-PL
-'"For': KR-GS TPOR
-'Prince': PREUPBS
+'"For': KR-GS KPA/TPOR
+'Prince': PR*EUPBS
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,"': TUFT KW-BG KR-GS
+'Tuft,"': KPA/TUFT KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'chief': KHAOEF
@@ -1659,8 +1659,8 @@ Riquet With the Tuft
 'be': -B
 'married': PHAERD
 'to-morrow."': TO H-PB PHOR/ROE TP-PL KR-GS
-'The': -T
-'Princess': PREUPB/ES
+'The': KPA/-T
+'Princess': KPA/PREUPB/ES
 'was': WAS
 'more': PHOR
 'surprised': SPRAOEUFD
@@ -1685,7 +1685,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 'she': SHE
 'was': WAS
 'like': HRAOEUBG
@@ -1694,7 +1694,7 @@ Riquet With the Tuft
 'into': TPHAO
 'the': -T
 'ground.': TKPWROUPBD TP-PL
-'What': WHA
+'What': KPA/WHA
 'made': PHAED
 'her': HER
 'forget': TPERGT
@@ -1720,7 +1720,7 @@ Riquet With the Tuft
 'wit': WEUT
 'which': WEU
 'the': -T
-'Prince': PREUPBS
+'Prince': PR*EUPBS
 'had': H
 'bestowed': PWE/STOEU/-D
 'on': OPB
@@ -1731,7 +1731,7 @@ Riquet With the Tuft
 'forgot': TPAURGT
 'her': HER
 'stupidity.': STAOUPD/TEU TP-PL
-'She': SHE
+'She': KPA/SHE
 'continued': T-PBD
 'walking,': WAUG KW-BG
 'but': PWUT
@@ -1744,7 +1744,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft': TUFT
+'Tuft': KPA/TUFT
 'presented': PREPBTD
 'himself': H*EUPLS
 'to': TO
@@ -1756,16 +1756,16 @@ Riquet With the Tuft
 'dressed,': TKREFD KW-BG
 'like': HRAOEUBG
 'a': AEU
-'Prince': PREUPBS
+'Prince': PR*EUPBS
 'who': WHO
 'was': WAS
 'going': TKPW-G
 'to': TO
 'be': -B
 'married.': PHAERD TP-PL
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'see,': SAOE KW-BG
-'Madam,"': PHAD/APL KW-BG KR-GS
+'Madam,"': PHA*D/APL KW-BG KR-GS
 'said': SAEUD
 'he,': HE KW-BG
 '"I': KR-GS EU
@@ -1811,7 +1811,7 @@ Riquet With the Tuft
 'you,"': U KW-BG KR-GS
 'answered': AEPBS/-D
 'the': -T
-'Princess,': PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/ES KW-BG
 '"that': KR-GS THA
 'I': EU
 'have': SR
@@ -1835,21 +1835,21 @@ Riquet With the Tuft
 'as': AZ
 'you': U
 'desire."': STKAOEUR TP-PL KR-GS
-'"You': KR-GS U
+'"You': KR-GS KPA/U
 'astonish': A/STOB/EURB
 'me,': PHE KW-BG
-'Madam,"': PHAD/APL KW-BG KR-GS
+'Madam,"': PHA*D/APL KW-BG KR-GS
 'said': SAEUD
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft.': TUFT TP-PL
+'Tuft.': KPA/TUFT TP-PL
 '"I': KR-GS EU
 'believe': PWHREF
 'it,"': T KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Princess,': PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/ES KW-BG
 '"and': KR-GS SKP
 'surely': SHURL
 'if': TP
@@ -1876,7 +1876,7 @@ Riquet With the Tuft
 'a': AEU
 'loss.': HROS TP-PL
 ''A': AE KPA/AEU
-'Princess': PREUPB/ES
+'Princess': KPA/PREUPB/ES
 'always': AULS
 'observes': OEBS
 'her': HER
@@ -1897,7 +1897,7 @@ Riquet With the Tuft
 'to': TO
 'do': TKO
 'so.'': SO TP-PL AE
-'But': PWUT
+'But': KPA/PWUT
 'as': AZ
 'he': HE
 'whom': WHOPL
@@ -1926,7 +1926,7 @@ Riquet With the Tuft
 'will': HR
 'hear': HAER
 'reason.': R-PB TP-PL
-'You': U
+'You': KPA/U
 'know,': TPHOE KW-BG
 'that': THA
 'when': WHEPB
@@ -1990,7 +1990,7 @@ Riquet With the Tuft
 'to': TO
 'agree': TKPWRAE
 'to?': TO H-F
-'If': TP
+'If': KPA/TP
 'you': U
 'sincerely': SEUPBS/HREU
 'thought': THAUT
@@ -2024,7 +2024,7 @@ Riquet With the Tuft
 'than': THAPB
 'I': EU
 'did."': TK TP-PL KR-GS
-'"If': KR-GS TP
+'"If': KR-GS KPA/TP
 'a': AEU
 'man': PHAPB
 'of': -F
@@ -2036,7 +2036,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 '"would': KR-GS WO
 'be': -B
 'entitled,': SPWAOEUPBLTD KW-BG
@@ -2057,7 +2057,7 @@ Riquet With the Tuft
 'not': TPHOT
 'let': HRET
 'me,': PHE KW-BG
-'Madam,': PHAD/APL KW-BG
+'Madam,': PHA*D/APL KW-BG
 'do': TKO
 'likewise': HRAOEUBG/WAOEUS
 'in': TPH
@@ -2072,7 +2072,7 @@ Riquet With the Tuft
 'life': HRAOEUF
 'is': S
 'concerned?': K-RPBD H-F
-'Is': S
+'Is': KPA/S
 'it': T
 'reasonable': R-PBL
 'that': THA
@@ -2092,7 +2092,7 @@ Riquet With the Tuft
 'who': WHO
 'have': SR
 'none?': TPHOPB H-F
-'Can': K
+'Can': KPA/K
 'you': U
 'pretend': PRE/TEPBD
 'this;': TH STPH*FPLT
@@ -2110,7 +2110,7 @@ Riquet With the Tuft
 'to': TO
 'have': SR
 'it?': T H-F
-'But': PWUT
+'But': KPA/PWUT
 'let': HRET
 'us': US
 'come': KOPL
@@ -2119,7 +2119,7 @@ Riquet With the Tuft
 'if': TP
 'you': U
 'please.': PHRES TP-PL
-'Setting': SEGT
+'Setting': KPA/SEGT
 'aside': A/SAOEUD
 'my': PHEU
 'ugliness': UG/HREU/-PBS
@@ -2134,7 +2134,7 @@ Riquet With the Tuft
 'which': WEU
 'displeases': TKEUS/PHRAOES/-S
 'you?': U H-F
-'Are': R
+'Are': KPA/R
 'you': U
 'dissatisfied': TKEUS/SAED
 'with': W
@@ -2145,12 +2145,12 @@ Riquet With the Tuft
 'humour,': HAOURPL/A*U KW-BG
 'or': OR
 'manners?"': PHAERPBS H-F KR-GS
-'"Not': KR-GS TPHOT
+'"Not': KR-GS KPA/TPHOT
 'at': AT
 'all,"': AUL KW-BG KR-GS
 'answered': AEPBS/-D
 'the': -T
-'Princess;': PREUPB/ES STPH*FPLT
+'Princess;': KPA/PREUPB/ES STPH*FPLT
 '"I': KR-GS EU
 'love': HRUF
 'you': U
@@ -2162,7 +2162,7 @@ Riquet With the Tuft
 'that': THA
 'you': U
 'mention."': PHEPBG TP-PL KR-GS
-'"If': KR-GS TP
+'"If': KR-GS KPA/TP
 'it': T
 'be': -B
 'so,"': SO KW-BG KR-GS
@@ -2170,7 +2170,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 '"I': KR-GS EU
 'am': APL
 'like': HRAOEUBG
@@ -2191,14 +2191,14 @@ Riquet With the Tuft
 'lovable': HROFBL
 'of': -F
 'men."': PHEPB TP-PL KR-GS
-'"How': KR-GS HOU
+'"How': KR-GS KPA/HOU
 'can': K
 'that': THA
 'be?"': -B H-F KR-GS
 'said': SAEUD
 'the': -T
-'Princess.': PREUPB/ES TP-PL
-'"It': KR-GS T
+'Princess.': KPA/PREUPB/ES TP-PL
+'"It': KR-GS KPA/T
 'will': HR
 'come': KOPL
 'about,"': PW KW-BG KR-GS
@@ -2206,7 +2206,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft;': TUFT STPH*FPLT
+'Tuft;': KPA/TUFT STPH*FPLT
 '"if': KR-GS TP
 'you': U
 'love': HRUF
@@ -2225,7 +2225,7 @@ Riquet With the Tuft
 'no': TPHO
 'ways': WAEUS
 'doubt,': TKOUT KW-BG
-'Madam,': PHAD/APL KW-BG
+'Madam,': PHA*D/APL KW-BG
 'of': -F
 'what': WHA
 'I': EU
@@ -2234,7 +2234,7 @@ Riquet With the Tuft
 'that': THA
 'the': -T
 'same': SAEUPL
-'Fairy,': TPAEUR/REU KW-BG
+'Fairy,': KPA/TPAEUR/REU KW-BG
 'who,': WHO KW-BG
 'on': OPB
 'my': PHEU
@@ -2281,13 +2281,13 @@ Riquet With the Tuft
 'to,': TO KW-BG
 'extremely': KPRAOEPL
 'handsome."': HAPBD/SOPL TP-PL KR-GS
-'"If': KR-GS TP
+'"If': KR-GS KPA/TP
 'it': T
 'be': -B
 'so,"': SO KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Princess,': PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/ES KW-BG
 '"I': KR-GS EU
 'wish,': WEURB KW-BG
 'with': W
@@ -2301,7 +2301,7 @@ Riquet With the Tuft
 'the': -T
 'most': PHOFT
 'lovable': HROFBL
-'Prince': PREUPBS
+'Prince': PR*EUPBS
 'in': TPH
 'the': -T
 'world,': WORLD KW-BG
@@ -2317,8 +2317,8 @@ Riquet With the Tuft
 'I': EU
 'am': APL
 'able."': ABL TP-PL KR-GS
-'The': -T
-'Princess': PREUPB/ES
+'The': KPA/-T
+'Princess': KPA/PREUPB/ES
 'had': H
 'no': TPHO
 'sooner': SAORPB
@@ -2329,13 +2329,13 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft': TUFT
+'Tuft': KPA/TUFT
 'appeared': A/PAOERD
 'to': TO
 'her': HER
 'the': -T
 'finest': TPAOEUPB/EFT
-'Prince': PREUPBS
+'Prince': PR*EUPBS
 'upon': POPB
 'earth;': *ERT STPH*FPLT
 'the': -T
@@ -2347,7 +2347,7 @@ Riquet With the Tuft
 'she': SHE
 'ever': -FR
 'saw.': SAU TP-PL
-'Some': SOPL
+'Some': KPA/SOPL
 'affirm': A/TPEURPL
 'that': THA
 'it': T
@@ -2357,7 +2357,7 @@ Riquet With the Tuft
 'enchantments': EPB/KHAPLT/-S
 'of': -F
 'the': -T
-'Fairy': TPAEUR/REU
+'Fairy': KPA/TPAEUR/REU
 'which': WEU
 'worked': WORBGD
 'this': TH
@@ -2369,11 +2369,11 @@ Riquet With the Tuft
 'caused': KAUFD
 'the': -T
 'metamorphosis.': PHET/PHOFR/SEUS TP-PL
-'They': THE
+'They': KPA/THE
 'say,': SAEU KW-BG
 'that': THA
 'the': -T
-'Princess,': PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/ES KW-BG
 'having': SR-G
 'made': PHAED
 'due': TKAOU
@@ -2454,7 +2454,7 @@ Riquet With the Tuft
 'which': WEU
 'charmed': KHARPL/-D
 'her.': HER TP-PL
-'They': THE
+'They': KPA/THE
 'say': SAEU
 'farther,': TPA*RT KW-BG
 'that': THA
@@ -2511,7 +2511,7 @@ Riquet With the Tuft
 'it': T
 'was,': WAS KW-BG
 'the': -T
-'Princess': PREUPB/ES
+'Princess': KPA/PREUPB/ES
 'promised': PROPLS/-D
 'immediately': PHAOELD
 'to': TO
@@ -2524,8 +2524,8 @@ Riquet With the Tuft
 'her': HER
 'father's': TPA*ER/AES
 'consent.': KEFPBT TP-PL
-'The': -T
-'King': KEUPBG
+'The': KPA/-T
+'King': KO*EUPBG
 'being': -BG
 'acquainted': A/KWAEUPBTD
 'that': THA
@@ -2539,7 +2539,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft,': TUFT KW-BG
+'Tuft,': KPA/TUFT KW-BG
 'whom': WHOPL
 'he': HE
 'knew': TPHAOU
@@ -2550,7 +2550,7 @@ Riquet With the Tuft
 'sage': SAEUPBLG
 'and': SKP
 'judicious': SKWRAOUD/EURBS
-'Prince,': PREUPBS KW-BG
+'Prince,': PR*EUPBS KW-BG
 'received': SAOEFD
 'him': HEUPL
 'for': TPOR
@@ -2570,7 +2570,7 @@ Riquet With the Tuft
 'Riquet': xxx Riquet
 'with': W
 'the': -T
-'Tuft': TUFT
+'Tuft': KPA/TUFT
 'had': H
 'foreseen,': TPOER/SAOEPB KW-BG
 'and': SKP

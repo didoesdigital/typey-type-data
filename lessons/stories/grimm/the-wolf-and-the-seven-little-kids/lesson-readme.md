@@ -1,6 +1,6 @@
 # The Wolf and the Seven Little Kids
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * upon `POPB`
@@ -26,7 +26,7 @@
 * for `TPOR`
 * her `HER`
 * children. `KHEURPB TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
 * she `SHE`
 * wanted `WAPBTD`
@@ -37,10 +37,10 @@
 * fetch `TPEFP`
 * some `SOPL`
 * food. `TPAOD TP-PL`
-* so `SO`
+* So `KPA/SO`
 * called `KAULD`
 * said: `SAEUD STPH-FPLT`
-* 'Dear `AE TKAER`
+* 'Dear `AE KPA/TKAER`
 * children, `KHEURPB KW-BG`
 * I `EU`
 * have `SR`
@@ -49,7 +49,7 @@
 * on `OPB`
 * your `KWROUR`
 * guard `TKPWARD`
-* Against `TKPWEPBS`
+* against `TKPWEPBS`
 * wolf; `WOFL STPH*FPLT`
 * if `TP`
 * he `HE`
@@ -61,11 +61,12 @@
 * all--skin, `AUL H-PB H-PB SKEUPB KW-BG`
 * hair, `HAEUR KW-BG`
 * everything. `EFG TP-PL`
+* The `KPA/-T`
 * wretch `WREFP`
 * often `OFPB`
 * disguises `TKEUS/TKPWAOEUZ/-Z`
 * himself, `H*EUPLS KW-BG`
-* But `PWUT`
+* but `PWUT`
 * know `TPHOE`
 * him `HEUPL`
 * at `AT`
@@ -87,13 +88,14 @@
 * without `WOUT`
 * any `TPHEU`
 * anxiety.' `KPRAOEUT TP-PL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
+* one `WUPB`
 * bleated, `PWHRAET/-D KW-BG`
 * went `WEPBT`
 * way `WAEU`
 * easy `EZ`
 * mind. `PHAOEUPBD TP-PL`
-* it `T`
+* It `KPA/T`
 * not `TPHOT`
 * long `HROPBG`
 * before `PW-F`
@@ -101,7 +103,7 @@
 * knocked `TPHOBGD`
 * house-door `HOUS H-PB TKAOR`
 * called: `KAULD STPH-FPLT`
-* 'Open `AE OEP`
+* 'Open `AE KPA/OEP`
 * door, `TKAOR KW-BG`
 * dear `TKAER`
 * children; `KHEURPB STPH*FPLT`
@@ -113,11 +115,13 @@
 * back `PWABG`
 * each `AOEFP`
 * you.' `U TP-PL AE`
+* But `KPA/PWUT`
 * knew `TPHAOU`
 * that `THA`
+* it `T`
 * wolf, `WOFL KW-BG`
 * voice. `SROEUS TP-PL`
-* 'We `AE WE`
+* 'We `AE KPA/WE`
 * open `OEP`
 * door,' `TKAOR KW-BG AE`
 * cried `KRAOEUD`
@@ -126,6 +130,7 @@
 * are `R`
 * our `OUR`
 * mother. `PHOER TP-PL`
+* She `KPA/SHE`
 * soft, `SOFT KW-BG`
 * pleasant `PHREFPBT`
 * voice, `SROEUS KW-BG`
@@ -167,26 +172,27 @@
 * dough `TKOE`
 * over `OEFR`
 * me.' `PHE TP-PL AE`
-* When `WHEPB`
+* And `AFPBD`
+* when `WHEPB`
 * rubbed `RUBD`
 * over, `OEFR KW-BG`
-* miller `PHEUL/HRER`
-* 'Strew `AE STRAOU`
+* miller `PHEUL/*ER`
+* 'Strew `AE KPA/STRAOU`
 * white `WHAOEUT`
 * meal `PHAOEL`
 * thought `THAUT`
 * himself: `H*EUPLS STPH-FPLT`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * wants `WAPBTS`
 * deceive `STKAOEF`
 * someone,' `SPH-PB KW-BG AE`
 * refused; `RAO*UFD STPH*FPLT`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * do `TKO`
 * it, `T KW-BG`
 * afraid, `A/TPRAEUD KW-BG`
 * him. `HEUPL TP-PL`
-* Truly, `TRAOUL KW-BG`
+* Truly, `KPA/TRAOUL KW-BG`
 * mankind. `PHAPB/KAOEUPBD TP-PL`
 * now `TPHOU`
 * third `THEURD`
@@ -197,7 +203,7 @@
 * every `EF`
 * from `TPR`
 * her.' `HER TP-PL AE`
-* 'First `AE TPEURS`
+* 'First `AE KPA/TPEURS`
 * show `SHOE`
 * us `US`
 * mother.' `PHOER TP-PL AE`
@@ -215,6 +221,7 @@
 * door. `TKAOR TP-PL`
 * should `SHO`
 * wolf! `WOFL SKHRAPL`
+* They `KPA/THE`
 * terrified `TER/TPAOEUD`
 * hide `HAOEUD`
 * themselves. `TH*EPLS TP-PL`
@@ -247,6 +254,7 @@
 * only `OEPBL`
 * did `TK`
 * find. `TPEUPBD TP-PL`
+* When `KPA/WHEPB`
 * satisfied `SAED`
 * appetite `AP/TAOEUT`
 * took `TAOBG`
@@ -257,13 +265,13 @@
 * outside, `OUDZ KW-BG`
 * began `TKPWAPB`
 * sleep. `SHRAOEP TP-PL`
-* Soon `SAOPB`
+* Soon `KPA/SAOPB`
 * afterwards `A*FRDZ`
 * home `HOEPL`
 * again `TKPWEPB`
 * forest. `TPOEFRT TP-PL`
-* Ah! `HA*E SKHRAPL`
-* What `WHA`
+* Ah! `KPA/HA*E SKHRAPL`
+* what `WHA`
 * sight `SAOEUT`
 * there! `THR SKHRAPL`
 * stood `STAOD`
@@ -288,6 +296,7 @@
 * another `TPHOER`
 * name, `TPHAEUPL KW-BG`
 * answered. `AEPBS/-D TP-PL`
+* At `KPA/AT`
 * last, `HRAFT KW-BG`
 * am `APL`
 * clock-case.' `KHROBG H-PB KAEUS TP-PL AE`
@@ -305,7 +314,9 @@
 * youngest `KWRUPBG/EFT`
 * her. `HER TP-PL`
 * meadow, `PHED/OE KW-BG`
+* there `THR`
 * snored `STPHAUR/-D`
+* so `SO`
 * loud `HROUD`
 * branches `PWRAFPBS`
 * shook. `SHAOBG TP-PL`
@@ -315,7 +326,7 @@
 * struggling `STRUG/-LG`
 * gorged `TKPWORPBLG/-D`
 * belly. `PWEL/HREU TP-PL`
-* 'Ah, `AE HA*E KW-BG`
+* 'Ah, `AE KPA/HA*E KW-BG`
 * heavens,' `HEFPBS KW-BG AE`
 * said, `SAEUD KW-BG`
 * 'is `AE S`
@@ -349,6 +360,7 @@
 * greediness `TKPWRAOE/TKEU/*PBS`
 * monster `PHOPB/STER`
 * whole. `WHOEL TP-PL`
+* What `KPA/WHA`
 * rejoicing `RE/SKWROEUFG`
 * was! `WAS SKHRAPL`
 * embraced `EPL/PWRAEUFD`
@@ -357,7 +369,7 @@
 * tailor `TAEURL`
 * wedding. `WEGD TP-PL`
 * however, `HOUF KW-BG`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * look `HRAOBG`
 * big `PWEUG`
 * stones, `STOEPBS KW-BG`
@@ -396,9 +408,10 @@
 * about, `PW KW-BG`
 * rattled. `RAT/-LD TP-PL`
 * he: `HE STPH-FPLT`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * rumbles `RUPL/-BLS`
 * tumbles `TUPL/-BLS`
+* Against `KPA/TKPWEPBS`
 * bones? `PWOEPBS H-F`
 * 'twas `TWA*S`
 * feels `TPAOELS`

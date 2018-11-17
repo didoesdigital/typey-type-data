@@ -507,7 +507,7 @@
 * seem `SAOEPL`
 * taking `TAEUG`
 * blood `PWHRAOD`
-* rose `ROEZ`
+* rose `ROES`
 * south `SOUT`
 * beyond `KWROPBD`
 * cold `KOELD`

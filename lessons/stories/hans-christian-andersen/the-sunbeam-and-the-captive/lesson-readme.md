@@ -1,9 +1,9 @@
 # The Sunbeam and the Captive
 
-* it `T`
+* It `KPA/T`
 * is `S`
 * autumn. `AU/UPL TP-PL`
-* We `WE`
+* We `KPA/WE`
 * stand `STAPBD`
 * on `OPB`
 * the `-T`
@@ -32,7 +32,7 @@
 * glow `TKPWHROE`
 * evening `AOEPBG`
 * sky. `SKAOEU TP-PL`
-* behind `HEUPBD`
+* Behind `KPA/HEUPBD`
 * us `US`
 * wood `WAOD`
 * sharply `SHARP/HREU`
@@ -47,7 +47,7 @@
 * down `TKOUPB`
 * from `TPR`
 * branches. `PWRAFPBS TP-PL`
-* Below, `PWHRO KW-BG`
+* Below, `KPA/PWHRO KW-BG`
 * foot `TPAOT`
 * wall, `WAUL KW-BG`
 * stands `STAPBDZ`
@@ -58,16 +58,19 @@
 * enclosed `KHRO/-D`
 * in `TPH`
 * palisades. `PAL/SAEDZ TP-PL`
+* The `KPA/-T`
 * space `SPAEUS`
 * between `TWAOEPB`
 * dark `TKARBG`
 * narrow, `TPHO*EUR KW-BG`
 * but `PWUT`
-* Still `STEUL`
+* still `STEUL`
 * more `PHOR`
 * dismal `TKEUS/PHAL`
 * must `PHUFT`
+* it `T`
 * be `-B`
+* behind `HEUPBD`
 * iron `AOEURPB`
 * gratings `TKPWRAEUGT/-S`
 * wall `WAUL`
@@ -94,7 +97,7 @@
 * cells `KRELS`
 * one `WUPB`
 * captives, `KAPT/EUFS KW-BG`
-* God's `TKPWOD AES`
+* God's `TKPWO*D AES`
 * shines `SHAOEUPBS`
 * upon `POPB`
 * evil `AOEFL`
@@ -106,24 +109,25 @@
 * impatient `EUPL/PAEURBT`
 * bright `PWRAOEUT`
 * ray. `RAEU TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * little `HREUL`
 * bird `PWEURD`
 * flies `TPHRAOEUS`
 * towards `TORDZ`
 * grating, `TKPWRAEUGT KW-BG`
 * birds `PWEURDZ`
-* twitter `TWEURT`
+* twitter `xxx twitter`
 * to `TO`
 * just `SKWRUFT`
 * as `AZ`
 * well `WEL`
 * unjust. `UPB/SKWRUFT TP-PL`
-* he `HE`
+* He `KPA/HE`
 * only `OEPBL`
 * cries, `KRAOEUS KW-BG`
-* "Tweet, `KR-GS TWAOET KW-BG`
+* "Tweet, `KR-GS KPA/TWAOET KW-BG`
 * tweet," `TWAOET KW-BG KR-GS`
+* then `THEPB`
 * perches `PER/-FPS`
 * himself `H*EUPLS`
 * near `TPHAOER`
@@ -151,9 +155,11 @@
 * comes `KOPLS`
 * hard `HARD`
 * face. `TPAEUS TP-PL`
+* In `KPA/TPH`
 * there `THR`
 * rises `RAOEUZ/-Z`
 * thought `THAUT`
+* he `HE`
 * cannot `K/TPHOT`
 * rightly `RAOEULT`
 * analyze, `APBLZ KW-BG`
@@ -169,7 +175,7 @@
 * luxuriantly `HRUBGS/UR/KWRAPBT/HREU`
 * spring `SPREUPBG`
 * wall. `WAUL TP-PL`
-* Sound `SOUPBD`
+* sound `SOUPBD`
 * hunter's `HURPBT AES`
 * horn, `HORPB KW-BG`
 * merry `PHER/REU`
@@ -186,11 +192,13 @@
 * that `THA`
 * bad `PWAD`
 * man. `PHAPB TP-PL`
+* Still `KPA/STEUL`
 * shone `SHO*EPB`
 * heart, `HART KW-BG`
-* twittering `TWEURT/-G`
+* twittering `xxx twittering`
 * touched `TUFPD`
 * it. `T TP-PL`
+* Sound `KPA/SOUPBD`
 * on, `OPB KW-BG`
 * ye `KWR*/*E/SP-S`
 * glorious `TKPWHRORS`

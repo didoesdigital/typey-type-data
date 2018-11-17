@@ -32,10 +32,10 @@ The Hart in the Ox-Stall
 'of': -F
 'his': HEUS
 'horns.': HORPBS TP-PL
-'Soon': SAOPB
+'Soon': KPA/SAOPB
 'after': AF
 'the': -T
-'Hunters': HURPBTS
+'Hunters': KPA/HURPBTS
 'came': KAEUPL
 'up': UP
 'and': SKP
@@ -47,7 +47,7 @@ The Hart in the Ox-Stall
 'seen': SAOEPB
 'the': -T
 'Hart.': HA*RT TP-PL
-'The': -T
+'The': KPA/-T
 'stable': STABL
 'boys,': PWOEUS KW-BG
 'who': WHO
@@ -65,10 +65,10 @@ The Hart in the Ox-Stall
 'nothing,': TPHOG KW-BG
 'and': SKP
 'the': -T
-'Hunters': HURPBTS
+'Hunters': KPA/HURPBTS
 'went': WEPBT
 'away.': A/WAEU TP-PL
-'Shortly': SHORLT
+'Shortly': KPA/SHORLT
 'afterwards': A*FRDZ
 'the': -T
 'master': PHAFRT
@@ -84,7 +84,7 @@ The Hart in the Ox-Stall
 'had': H
 'taken': TAEPB
 'place.': PHRAEUS TP-PL
-'He': HE
+'He': KPA/HE
 'pointed': POEUPBTD
 'to': TO
 'the': -T
@@ -93,7 +93,7 @@ The Hart in the Ox-Stall
 'hay': HA*EU
 'and': SKP
 'said:': SAEUD STPH-FPLT
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'are': R
 'those': THOZ
 'two': TWO
@@ -104,7 +104,7 @@ The Hart in the Ox-Stall
 'of': -F
 'the': -T
 'hay?"': HA*EU H-F KR-GS
-'And': SKP
+'And': AFPBD
 'when': WHEPB
 'the': -T
 'stable': STABL
@@ -123,11 +123,11 @@ The Hart in the Ox-Stall
 'end': EPBD
 'of': -F
 'him.': HEUPL TP-PL
-'He': HE
+'He': KPA/HE
 'thus': THUS
 'learnt': HRERPBT/A*U
 'that': THA
-'Nothing': TPHOG
+'Nothing': KPA/TPHOG
 'escapes': ES/KAEUPS
 'the': -T
 'master's': PHAFRT AES

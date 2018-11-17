@@ -1,6 +1,6 @@
 # Doctor Knowall
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * upon `POPB`
@@ -12,7 +12,7 @@
 * Crabb, `xxx Crabb KW-BG`
 * who `WHO`
 * drove `TKROEF`
-* With `W`
+* with `W`
 * two `TWO`
 * oxen `OBGS/*EPB`
 * load `HRAOD`
@@ -24,10 +24,10 @@
 * and `SKP`
 * sold `SOELD`
 * it `T`
-* Doctor `TKR`
+* doctor `TKR`
 * for `TPOR`
 * talers. `xxx talers TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * money `PHUPB`
 * being `-BG`
 * counted `KOUPBTD`
@@ -39,6 +39,7 @@
 * sitting `SEUGT`
 * at `AT`
 * table, `TAEUBL KW-BG`
+* when `WHEPB`
 * saw `SAU`
 * how `HOU`
 * well `WEL`
@@ -55,6 +56,7 @@
 * have `SR`
 * been `PW-PB`
 * too. `TAO TP-PL`
+* So `KPA/SO`
 * remained `RE/PHAEUPBD`
 * standing `STAPBG`
 * while, `WHAOEUL KW-BG`
@@ -66,21 +68,21 @@
 * not `TPHOT`
 * be `-B`
 * doctor. `TKR TP-PL`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * yes,' `KWRE KW-BG AE`
 * said `SAEUD`
 * doctor, `TKR KW-BG`
-* 'That `AE THA`
+* 'that `AE THA`
 * is `S`
 * soon `SAOPB`
 * managed.' `PHAPBGD TP-PL AE`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * must `PHUFT`
 * I `EU`
 * do?' `TKO H-F AE`
 * asked `SK-D`
 * peasant. `PEFPBT TP-PL`
-* 'In `AE TPH`
+* 'In `AE KPA/TPH`
 * first `TPEUFRT`
 * place `PHRAEUS`
 * buy `PWAOEU`
@@ -94,7 +96,7 @@
 * which `WEU`
 * has `HAS`
 * cock `KOBG`
-* On `OPB`
+* on `OPB`
 * frontispiece; `TPROPB/EUS/PAOES STPH*FPLT`
 * in `TPH`
 * second, `SEBGD KW-BG`
@@ -116,11 +118,13 @@
 * words: `WORDZ STPH-FPLT`
 * "I `KR-GS EU`
 * am `APL`
+* Doctor `TKR*`
 * Knowall," `xxx Knowall KW-BG KR-GS`
 * nailed `TPHAEULD`
 * up `UP`
 * above `PWOF`
 * house-door.' `HOUS H-PB TKAOR TP-PL AE`
+* The `KPA/-T`
 * did `TK`
 * everything `EFG`
 * had `H`
@@ -135,7 +139,7 @@
 * great `TKPWRAET`
 * lord `HRORD`
 * stolen. `STOEL/EPB TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * about `PW`
 * Knowall `xxx Knowall`
 * lived `HREUFD`
@@ -150,7 +154,7 @@
 * Crabb `xxx Crabb`
 * were `WR`
 * Knowall. `xxx Knowall TP-PL`
-* yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * was, `WAS KW-BG`
 * said. `SAEUD TP-PL`
 * go `TKPW`
@@ -158,6 +162,7 @@
 * bring `PWREU`
 * back `PWABG`
 * stolen `STOEL/EPB`
+* yes, `KWRE KW-BG`
 * Grete, `xxx Grete KW-BG`
 * my `PHEU`
 * wife, `WAOEUF KW-BG`
@@ -167,7 +172,7 @@
 * both `PWO*T`
 * them `THEPL`
 * seat `SAOET`
-* They `THE`
+* they `THE`
 * all `AUL`
 * away `A/WAEU`
 * together. `TOGT TP-PL`
@@ -179,13 +184,14 @@
 * sit `SEUT`
 * down `TKOUPB`
 * eat. `AOET TP-PL`
-* 'Yes, `AE KWRE KW-BG`
+* 'Yes, `AE KPA/KWRE KW-BG`
 * too,' `TAO KW-BG AE`
 * he, `HE KW-BG`
 * seated `SAOETD`
 * himself `H*EUPLS`
 * her `HER`
 * table. `TAEUBL TP-PL`
+* And `AFPBD`
 * servant `SEFRB/APBT`
 * dish `TKEURB`
 * delicate `TKEL/KAT`
@@ -203,14 +209,15 @@
 * intended `SPWEPBD/-D`
 * by `PWEU`
 * say: `SAEU STPH-FPLT`
+* 'That `AE KPA/THA`
 * thief,' `THAOEF KW-BG AE`
-* As `AZ`
+* as `AZ`
 * actually `TAOULT`
 * so, `SO KW-BG`
 * terrified, `TER/TPAOEUD KW-BG`
 * comrade `KOPL/RAD`
 * outside: `OUDZ STPH-FPLT`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * knows `TPHOEZ`
 * all: `AUL STPH-FPLT`
 * we `WE`
@@ -225,7 +232,7 @@
 * went `WEPBT`
 * dish, `TKEURB KW-BG`
 * second.' `SEBGD TP-PL AE`
-* this `TH`
+* This `KPA/TH`
 * equally `KWAEL`
 * alarmed, `A/HRARPLD KW-BG`
 * got `TKPWOT`
@@ -245,20 +252,23 @@
 * guess `TKPWES`
 * beneath `TPHAO*ET`
 * cover. `KOFR TP-PL`
-* Actually, `TAOULT KW-BG`
+* Actually, `KPA/TAOULT KW-BG`
+* there `THR`
 * crabs. `KRAB/-S TP-PL`
 * looked `HRAOBGD`
 * idea `KWR-D`
 * say, `SAEU KW-BG`
 * cried: `KRAOEUD STPH-FPLT`
-* 'Ah, `AE HA*E KW-BG`
+* 'Ah, `AE KPA/HA*E KW-BG`
 * Crabb.' `xxx Crabb TP-PL AE`
 * heard `HAERD`
 * that, `THA KW-BG`
-* 'There! `AE THR SKHRAPL`
+* 'There! `AE KPA/THR SKHRAPL`
 * it; `T STPH*FPLT`
 * also `HR-S`
 * money!' `PHUPB SKHRAPL AE`
+* On `KPA/OPB`
+* this `TH`
 * servants `SER/SRAPBTS`
 * terribly `TERBL/HREU`
 * uneasy, `UPB/EZ KW-BG`
@@ -279,15 +289,17 @@
 * denounce `TKE/TPHOUPBS`
 * them, `THEPL KW-BG`
 * hanged. `HAPBGD TP-PL`
+* They `KPA/THE`
 * led `HRED`
 * spot `SPOT`
 * where `W-R`
 * concealed. `KAUPB/SAOELD TP-PL`
+* With `KPA/W`
 * satisfied, `SAED KW-BG`
 * returned `RURPBD`
 * hall, `HAUL KW-BG`
 * sat `SAT`
-* 'My `AE PHEU`
+* 'My `AE KPA/PHEU`
 * lord, `HRORD KW-BG`
 * now `TPHOU`
 * will `HR`
@@ -301,6 +313,7 @@
 * knew `TPHAOU`
 * still `STEUL`
 * more. `PHOR TP-PL`
+* But `KPA/PWUT`
 * opened `OEPD`
 * book, `PWAOBG KW-BG`
 * turned `TURPBD`
@@ -308,6 +321,7 @@
 * backwards `PWABG/WARDZ`
 * forwards, `TPAORDZ KW-BG`
 * cock. `KOBG TP-PL`
+* As `KPA/AZ`
 * find `TPEUPBD`
 * immediately `PHAOELD`
 * 'I `AE EU`

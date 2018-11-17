@@ -1,6 +1,6 @@
 # The Goblin and the Huckster
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -10,10 +10,12 @@
 * lived `HREUFD`
 * in `TPH`
 * garret, `TKPWAEUR/RET KW-BG`
-* And `SKP`
+* and `SKP`
 * had `H`
-* No `TPHO`
+* no `TPHO`
 * possessions. `POE/SEGS/-S TP-PL`
+* And `AFPBD`
+* there `THR`
 * also `HR-S`
 * huckster, `HUBG/STER KW-BG`
 * to `TO`
@@ -41,6 +43,7 @@
 * piece `PAOES`
 * butter `PWAOURT`
 * middle. `PH*EULD TP-PL`
+* The `KPA/-T`
 * huckster `HUBG/STER`
 * could `KO`
 * afford `AFRD`
@@ -51,7 +54,7 @@
 * very `SRE`
 * cunning `KUPBG`
 * him. `HEUPL TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * evening `AOEPBG`
 * student `STAUPB`
 * came `KAEUPL`
@@ -65,6 +68,7 @@
 * cheese `KHAOES`
 * for `TPOR`
 * himself, `H*EUPLS KW-BG`
+* one `WUPB`
 * send, `SEPBD KW-BG`
 * himself; `H*EUPLS STPH*FPLT`
 * obtained `OB/TAEUPBD`
@@ -97,7 +101,7 @@
 * reading `RAEGD`
 * paper `PAEUP`
 * wrapped. `WRAPD TP-PL`
-* it `T`
+* It `KPA/T`
 * leaf `HRAOEF`
 * torn `TORPB`
 * out `OUT`
@@ -111,8 +115,9 @@
 * have `SR`
 * been `PW-PB`
 * up, `UP KW-BG`
+* it `T`
 * poetry. `POEURT TP-PL`
-* "Yonder `KR-GS KWROPBD/ER`
+* "Yonder `KR-GS KPA/KWROPBD/ER`
 * lies `HRAO*EUS`
 * some `SOPL`
 * same `SAEUPL`
@@ -131,7 +136,7 @@
 * sixpence, `xxx sixpence KW-BG`
 * if `TP`
 * will." `HR TP-PL KR-GS`
-* "Indeed `KR-GS TPHAOEPBD`
+* "Indeed `KR-GS KPA/TPHAOEPBD`
 * I `EU`
 * will," `HR KW-BG KR-GS`
 * student; `STAUPB STPH*FPLT`
@@ -152,6 +157,7 @@
 * up `UP`
 * like `HRAOEUBG`
 * this. `TH TP-PL`
+* You `KPA/U`
 * are `R`
 * clever `KHREFR`
 * man; `PHAPB STPH*FPLT`
@@ -162,7 +168,7 @@
 * poetry `POEURT`
 * cask `KAFBG`
 * yonder." `KWROPBD/ER TP-PL KR-GS`
-* this `TH`
+* This `KPA/TH`
 * rude `RAOUD`
 * speech, `SPAOEFP KW-BG`
 * especially `EPS`
@@ -172,6 +178,7 @@
 * laughed, `HRAFD KW-BG`
 * only `OEPBL`
 * fun. `TPUPB TP-PL`
+* But `KPA/PWUT`
 * felt `TPELT`
 * angry `APBG/REU`
 * any `TPHEU`
@@ -184,7 +191,8 @@
 * sold `SOELD`
 * best `PWEFT`
 * butter. `PWAOURT TP-PL`
-* Soon `SAOPB`
+* As `KPA/AZ`
+* soon `SAOPB`
 * night, `TPHAOEUT KW-BG`
 * closed, `KHROEFD KW-BG`
 * every `EF`
@@ -203,7 +211,7 @@
 * course, `KORS KW-BG`
 * did `TK`
 * want. `WAPBT TP-PL`
-* Whatever `WHAF`
+* Whatever `KPA/WHAF`
 * object `OBT`
 * room `RAOPL`
 * placed `PHRAEUFD`
@@ -234,14 +242,14 @@
 * lay `HRAEU`
 * quantity `KWAPBT`
 * newspapers. `TPHUPS TP-PL`
-* "Is `KR-GS S`
+* "Is `KR-GS KPA/S`
 * really `R-L`
 * true," `TRAOU KW-BG KR-GS`
 * asked, `SK-D KW-BG`
 * "that `KR-GS THA`
 * know `TPHOE`
 * is?" `S H-F KR-GS`
-* "Of `KR-GS -F`
+* "Of `KR-GS KPA/-F`
 * course `KORS`
 * know," `TPHOE KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
@@ -262,6 +270,7 @@
 * poor `PAOR`
 * tub `TUB`
 * huckster's." `HUBG/STER AE S* TP-PL KR-GS`
+* Then `KPA/THEPB`
 * on `OPB`
 * mill; `PHEUL STPH*FPLT`
 * how `HOU`
@@ -279,7 +288,7 @@
 * majority `PHORPBLG`
 * must `PHUFT`
 * respected. `R-PTD TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * tell `TEL`
 * student," `STAUPB KW-BG KR-GS`
 * goblin; `TKPWOB/HREUPB STPH*FPLT`
@@ -290,6 +299,7 @@
 * stairs `STAEURS`
 * garret `TKPWAEUR/RET`
 * lived. `HREUFD TP-PL`
+* He `KPA/HE`
 * candle `KA*PBLD`
 * burning `PWURPBG`
 * still, `STEUL KW-BG`
@@ -300,7 +310,7 @@
 * shop. `SHOP TP-PL`
 * light `HRAOEUT`
 * was! `WAS SKHRAPL`
-* from `TPR`
+* From `KPA/TPR`
 * shot `SHOT`
 * forth `TPO*RT`
 * ray `RAEU`
@@ -309,6 +319,7 @@
 * full, `TPUL KW-BG`
 * stem `STEPL`
 * tree, `TRAOE KW-BG`
+* from `TPR`
 * bright `PWRAOEUT`
 * rays `RA*ES`
 * spread `SPRED`
@@ -316,8 +327,9 @@
 * over `OEFR`
 * student's `STAUPB AES`
 * head. `HED TP-PL`
-* Each `AOEFP`
+* Each `KPA/AOEFP`
 * fresh, `TPRERB KW-BG`
+* each `AOEFP`
 * flower `TPHRO*UR`
 * beautiful `PWAOUFL`
 * female `TPAEL`
@@ -373,7 +385,7 @@
 * lain `HRAEUPB`
 * down `TKOUPB`
 * rest. `REFT/TP-PL`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * wonderful `WUFL`
 * place," `PHRAEUS KW-BG KR-GS`
 * expected `KP-PTD`
@@ -385,11 +397,13 @@
 * over, `OEFR KW-BG`
 * sensible `SEPBS/-BL`
 * spirit. `SPEURT TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * sighed, `SAOEU/-D KW-BG`
 * "but `KR-GS PWUT`
 * has `HAS`
 * jam!" `SKWRAPL SKHRAPL KR-GS`
+* So `KPA/SO`
 * again `TKPWEPB`
 * shop, `SHOP KW-BG`
 * thing `THEUPBG`
@@ -473,7 +487,7 @@
 * pleasant `PHREFPBT`
 * mingled `PHEUPBG/-LD`
 * tears. `TAERS TP-PL`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * under `*UPBD`
 * tree;" `TRAOE STPH*FPLT KR-GS`
 * question, `KWE KW-BG`
@@ -508,6 +522,7 @@
 * butter, `PWAOURT KW-BG`
 * liked `HRAOEUBGD`
 * all. `AUL TP-PL`
+* Soon `KPA/SAOPB`
 * after, `AF KW-BG`
 * middle `PH*EULD`
 * awoke `A/WOEBG`
@@ -525,8 +540,10 @@
 * street `STRAOET`
 * appeared `A/PAOERD`
 * flames. `TPHRAEUPLS TP-PL`
+* Was `KPA/WAS`
 * house, `HOUS KW-BG`
 * neighbor's? `TPHAEUB AE S* H-F`
+* No `KPA/TPHO`
 * tell, `TEL KW-BG`
 * terror `TER/O*R`
 * seized `SAOEZ/-D`
@@ -605,8 +622,10 @@
 * cannot `K/TPHOT`
 * give `TKPWEUF`
 * jam." `SKWRAPL TP-PL KR-GS`
+* this `TH`
 * representation `REPGS`
 * human `HAOUPL`
 * nature. `TPHAEURT TP-PL`
+* We `KPA/WE`
 * visit `SREUFT`
 * "because `KR-GS PWAU`

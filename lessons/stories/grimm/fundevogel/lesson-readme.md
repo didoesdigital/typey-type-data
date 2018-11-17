@@ -1,6 +1,6 @@
 # Fundevogel
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -26,10 +26,11 @@
 * child `KHAOEULD`
 * were `WR`
 * there. `THR TP-PL`
+* He `KPA/HE`
 * followed `TPOLD`
 * sound, `SOUPBD KW-BG`
 * at `AT`
-* Last `HRAFT`
+* last `HRAFT`
 * came `KAEUPL`
 * high `HAOEU`
 * tree, `TRAOE KW-BG`
@@ -58,12 +59,13 @@
 * set `SET`
 * on `OPB`
 * tree. `TRAOE TP-PL`
+* The `KPA/-T`
 * climbed `KHRAOEUPLD`
 * up, `UP KW-BG`
 * brought `PWRAUT`
 * thought `THAUT`
 * himself: `H*EUPLS STPH-FPLT`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * will `HR`
 * take `TAEUBG`
 * him `HEUPL`
@@ -80,6 +82,7 @@
 * children `KHEURPB`
 * grew `TKPWRAOU`
 * together. `TOGT TP-PL`
+* And `AFPBD`
 * one, `WUPB KW-BG`
 * which `WEU`
 * found `TPOUPBD`
@@ -102,7 +105,7 @@
 * not `TPHOT`
 * see `SAOE`
 * sad. `SAD TP-PL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * an `APB`
 * old `OLD`
 * cook, `KAOBG KW-BG`
@@ -114,14 +117,14 @@
 * water, `WAUR KW-BG`
 * go `TKPW`
 * only, `OEPBL KW-BG`
-* But `PWUT`
+* but `PWUT`
 * many `PHAEPB`
 * times, `TAOEUPLS KW-BG`
 * out `OUT`
 * spring. `SPREUPBG TP-PL`
 * saw `SAU`
 * said, `SAEUD KW-BG`
-* 'Listen, `AE HREUFPB KW-BG`
+* 'Listen, `AE KPA/HREUFPB KW-BG`
 * Sanna, `xxx Sanna KW-BG`
 * why `KWR`
 * are `R`
@@ -129,20 +132,21 @@
 * fetching `TPEFP/-G`
 * much `PHUFP`
 * water?' `WAUR H-F AE`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * never `TPHEF`
 * repeat `RE/PAOET`
 * anyone, `TPHEUPB KW-BG`
 * I `EU`
 * tell `TEL`
 * why.' `KWR TP-PL AE`
+* So `KPA/SO`
 * no, `TPHO KW-BG`
 * she `SHE`
 * would `WO`
-* Then `THEPB`
+* then `THEPB`
 * cook `KAOBG`
 * said: `SAEUD STPH-FPLT`
-* 'Early `AE ERL`
+* 'Early `AE KPA/ERL`
 * tomorrow `TORPL`
 * morning, `PHORPBG KW-BG`
 * is `S`
@@ -153,26 +157,28 @@
 * throw `THROE`
 * boil `PWOEUL`
 * it.' `T TP-PL AE`
-* early `ERL`
+* Early `KPA/ERL`
 * next `TPHEGT`
 * morning `PHORPBG`
 * got `TKPWOT`
 * gone `TKPWOPB`
 * still `STEUL`
 * bed. `PWED TP-PL`
-* Said `SAEUD`
+* Then `KPA/THEPB`
+* said `SAEUD`
 * Fundevogel: `xxx Fundevogel STPH-FPLT`
 * leave `HREF`
 * me, `PHE KW-BG`
 * too `TAO`
 * you.' `U TP-PL AE`
-* 'Neither `AE TPHAOERT`
+* 'Neither `AE KPA/TPHAOERT`
 * now, `TPHOU KW-BG`
 * nor `TPH-R`
 * ever `-FR`
 * Lina: `xxx Lina STPH-FPLT`
-* 'Then `AE THEPB`
+* 'Then `AE KPA/THEPB`
 * you. `U TP-PL`
+* Last `KPA/HRAFT`
 * night, `TPHAOEUT KW-BG`
 * Sanna `xxx Sanna`
 * buckets `PWUBGTS`
@@ -182,6 +188,7 @@
 * doing `TK*G`
 * that, `THA KW-BG`
 * promise `PROPLS`
+* early `ERL`
 * father `TPAER`
 * kettle `KET/*L`
 * full `TPUL`
@@ -196,9 +203,11 @@
 * therefore `TH-FR`
 * dressed `TKREFD`
 * themselves `TH*EPLS`
+* When `KPA/WHEPB`
 * boiling, `PWOEULG KW-BG`
 * bedroom `PW-PL`
 * it. `T TP-PL`
+* But `KPA/PWUT`
 * in, `TPH KW-BG`
 * beds, `PWEDZ KW-BG`
 * both `PWO*T`
@@ -206,12 +215,14 @@
 * terribly `TERBL/HREU`
 * alarmed, `A/HRARPLD KW-BG`
 * herself: `H*ERS STPH-FPLT`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * shall `SHAL`
 * say `SAEU`
+* now `TPHOU`
 * comes `KOPLS`
 * sees `SAO*ES`
 * gone? `TKPWOPB H-F`
+* They `KPA/THE`
 * must `PHUFT`
 * be `-B`
 * instantly `EUPB/STAPBT/HREU`
@@ -234,23 +245,24 @@
 * from `TPR`
 * afar `A/TPAR`
 * running, `R*UPBG KW-BG`
-* 'Never `AE TPHEF`
+* 'Never `AE KPA/TPHEF`
 * ever.' `-FR TP-PL AE`
-* 'Do `AE TKO`
+* 'Do `AE KPA/TKO`
 * become `PW-BG`
-* rose-tree, `ROEZ H-PB TRAOE KW-BG`
-* rose `ROEZ`
+* rose-tree, `ROES H-PB TRAOE KW-BG`
+* rose `ROES`
 * upon `POPB`
 * nothing `TPHOG`
-* rose-tree `ROEZ H-PB TRAOE`
+* there `THR`
+* rose-tree `ROES H-PB TRAOE`
 * it, `T KW-BG`
 * nowhere. `TPHO/WR TP-PL`
 * they: `THE STPH-FPLT`
-* 'There `AE THR`
+* 'There `AE KPA/THR`
 * done `TKOPB`
 * here,' `HAOER KW-BG AE`
 * told `TOLD`
-* rose-bush `ROEZ H-PB PWURB`
+* rose-bush `ROES H-PB PWURB`
 * scolded `SKOLD/-D`
 * simpletons, `xxx simpletons KW-BG`
 * should `SHO`
@@ -269,6 +281,7 @@
 * distance. `STKAPBS TP-PL`
 * 'Fundevogel, `AE xxx Fundevogel KW-BG`
 * now; `TPHOU STPH*FPLT`
+* Said `KPA/SAEUD`
 * church, `KHUFRPB KW-BG`
 * I'll `AOEUL`
 * chandelier `KHAPBD/HRAOER`
@@ -291,7 +304,7 @@
 * coming, `KO*G KW-BG`
 * waddling `WAD/-LG`
 * them. `THEPL TP-PL`
-* 'Be `AE -B`
+* 'Be `AE KPA/-B`
 * fishpond, `TPEURB/POPBD KW-BG`
 * duck `TKUBG`
 * pond `POPBD`

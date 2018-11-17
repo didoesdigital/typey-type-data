@@ -1,6 +1,6 @@
 # The Bishop of Borglum and His Warriors
 
-* our `OUR`
+* Our `KPA/OUR`
 * scene `SAEPB`
 * is `S`
 * laid `HRAEUD`
@@ -11,23 +11,24 @@
 * so-called `SO/H-PB/KAULD`
 * "wild `KR-GS WAOEULD`
 * moor." `PHO*R TP-PL KR-GS`
-* we `WE`
+* We `KPA/WE`
 * hear `HAER`
 * what `WHA`
 * called `KAULD`
-* "Wester-wow-wow"—the `KR-GS WEFT/*ER H-PB WO*U H-PB WO*U KR-GS EPL/TKA*RB -T`
+* "Wester-wow-wow"—the `KR-GS W*EFT/*ER H-PB WO*U H-PB WO*U KR-GS EPL/TKA*RB -T`
 * peculiar `PE/KAOUL/HRAR`
 * roar `ROR`
 * of `-F`
-* North `TPHORT`
-* sea `SAE`
+* North `TPHOERT`
+* Sea `KPA/SAE`
 * as `AZ`
-* It `T`
+* it `T`
 * breaks `PWRAEBGS`
 * against `TKPWEPBS`
 * western `WERPB`
 * coast `KOEFT`
 * Jutland. `xxx Jutland TP-PL`
+* It `KPA/T`
 * rolls `ROLS`
 * and `SKP`
 * thunders `THUPBD/ERS`
@@ -40,11 +41,12 @@
 * miles `PHAOEULS`
 * into `TPHAO`
 * land; `HRAPBD STPH*FPLT`
+* we `WE`
 * are `R`
 * quite `KWAOEUT`
 * near `TPHAOER`
 * roaring. `RAORG TP-PL`
-* before `PW-F`
+* Before `KPA/PW-F`
 * us `US`
 * rises `RAOEUZ/-Z`
 * great `TKPWRAET`
@@ -54,9 +56,10 @@
 * have `SR`
 * long `HROPBG`
 * seen, `SAOEPB KW-BG`
-* Towards `TORDZ`
+* towards `TORDZ`
 * which `WEU`
 * wending `xxx wending`
+* our `OUR`
 * way, `WAEU KW-BG`
 * driving `TKRAOFG`
 * slowly `SHROEL`
@@ -64,14 +67,15 @@
 * through `THRU`
 * deep `TKAOEP`
 * sand. `SAPBD TP-PL`
-* On `OPB`
-* This `TH`
+* On `KPA/OPB`
+* this `TH`
 * sand `SAPBD`
 * lofty `HROF/TEU`
 * old `OLD`
 * building—the `PW-LG EPL/TKA*RB -T`
 * convent `KOPB/SREPBT`
 * Borglum. `xxx Borglum TP-PL`
+* In `KPA/TPH`
 * one `WUPB`
 * its `EUTS`
 * wings `WEUPBGS`
@@ -80,9 +84,10 @@
 * one) `WUPB PR*EPB`
 * there `THR`
 * still `STEUL`
-* Church. `KHUFRPB TP-PL`
+* church. `KHUFRPB TP-PL`
+* And `AFPBD`
 * at `AT`
-* Now `TPHOU`
+* now `TPHOU`
 * arrive `A/REUF`
 * late `HRAEUT`
 * evening `AOEPBG`
@@ -104,13 +109,14 @@
 * field `TPAOELD`
 * moor `PHO*R`
 * to `TO`
-* bay `PWAEU`
+* Bay `PWA*EU`
 * Aalborg, `xxx Aalborg KW-BG`
 * heath `HAO*ET`
 * meadow, `PHED/OE KW-BG`
 * across `A/KROS`
 * blue `PWHRU`
 * sea. `SAE TP-PL`
+* Now `KPA/TPHOU`
 * there, `THR KW-BG`
 * roll `ROL`
 * past `PAFT`
@@ -123,8 +129,9 @@
 * gate `TKPWAET`
 * turn `TURPB`
 * aside `A/SAOEUD`
-* Castle `KAFL`
-* Farm, `TPARPL KW-BG`
+* Old `KPA/OLD`
+* Castle `KPA/KAFL`
+* Farm, `KPA/TPARPL KW-BG`
 * where `W-R`
 * lime `HRAOEUPL`
 * trees `TRAOES`
@@ -154,6 +161,7 @@
 * under `*UPBD`
 * heavy `HOEUF`
 * roof-beams. `RAOF H-PB PWAOEPLS TP-PL`
+* The `KPA/-T`
 * moans `PHOEPB/-S`
 * very `SRE`
 * strangely `STRAEUPBG/HREU`
@@ -183,6 +191,7 @@
 * church, `KHUFRPB KW-BG`
 * mass `PHAS`
 * sung. `SUPBG TP-PL`
+* They `KPA/THE`
 * be `-B`
 * heard `HAERD`
 * rushing `RURBG`
@@ -204,6 +213,7 @@
 * not `TPHOT`
 * those `THOZ`
 * whom `WHOPL`
+* sea `SAE`
 * has `HAS`
 * spared. `SPAEURD TP-PL`
 * washes `WARBS`
@@ -229,6 +239,7 @@
 * good `TKPWAOD`
 * beer `PWAOER`
 * mead. `PHAO*ED TP-PL`
+* There `KPA/THR`
 * plenty `PHREPBT`
 * kitchen—dead `K-FP EPL/TKA*RB TKED`
 * game `TKPWAEUPL`
@@ -239,25 +250,29 @@
 * fish `TPEURB`
 * swim `SWEUPL`
 * ponds `POPBDZ`
-* Bishop `PWEURB/OP`
+* Bishop `KPA/PWEURB/OP`
 * Borglum `xxx Borglum`
 * mighty `PHAOEUT/KWREU`
 * lord. `HRORD TP-PL`
-* He `HE`
+* He `KPA/HE`
 * possessions, `POE/SEGS/-S KW-BG`
+* he `HE`
 * longs `HROPBG/-S`
 * more—everything `PHOR EPL/TKA*RB EFG`
 * must `PHUFT`
 * bow `PWOE`
+* before `PW-F`
 * Olaf `xxx Olaf`
-* Glob. `TKPWHROB TP-PL`
-* his `HEUS`
+* Glob. `KPA/TKPWHROB TP-PL`
+* His `KPA/HEUS`
 * rich `REUFP`
 * cousin `KUZ`
 * Thyland `xxx Thyland`
 * dead, `TKED KW-BG`
+* his `HEUS`
 * widow `WO*EUD`
 * inheritance. `EUPB/HER/TAPBS TP-PL`
+* But `KPA/PWUT`
 * how `HOU`
 * comes `KOPLS`
 * relation `RELGS`
@@ -278,24 +293,26 @@
 * exception `KPEPGS`
 * church `KHUFRPB`
 * property. `PROT TP-PL`
-* her `HER`
+* Her `KPA/HER`
 * son `SOPB`
 * was `WAS`
 * home. `HOEPL TP-PL`
 * boyhood `PWOEU/HAOD`
 * started `STARTD`
+* on `OPB`
 * journey, `SKWRURPB KW-BG`
 * desire `STKAOEUR`
 * see `SAOE`
 * foreign `TPOERPB`
 * lands `HRAPBDZ`
 * people. `PAOEPL TP-PL`
+* For `KPA/TPOR`
 * years `KWRAOERS`
 * been `PW-PB`
 * no `TPHO`
 * news `TPHUS`
 * him. `HEUPL TP-PL`
-* Perhaps `PRAPS`
+* Perhaps `KPA/PRAPS`
 * grave, `TKPWRAEUF KW-BG`
 * never `TPHEF`
 * come `KOPL`
@@ -303,9 +320,9 @@
 * home, `HOEPL KW-BG`
 * rule `RAOUL`
 * mother `PHOER`
-* Then `THEPB`
+* then `THEPB`
 * ruled. `RAOULD TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * woman `WOPL`
 * do `TKO`
 * rule?" `RAOUL H-F KR-GS`
@@ -320,12 +337,14 @@
 * disobedient `xxx disobedient`
 * law, `HRAU KW-BG`
 * strong `STROPBG`
+* her `HER`
 * just `SKWRUFT`
 * rights. `RAOEUTS TP-PL`
 * Borglum, `xxx Borglum KW-BG`
 * dost `TKO/*T`
 * thou `THO*U`
 * purpose? `PURP H-F`
+* What `KPA/WHA`
 * writest `WREUT/EFT`
 * yonder `KWROPBD/ER`
 * smooth `SPHAO*T`
@@ -340,17 +359,18 @@
 * ride `RAOEUD`
 * away, `A/WAEU KW-BG`
 * city `STEU`
-* Pope? `POEP H-F`
+* Pope? `PO*EP H-F`
 * time `TAOEUPL`
 * falling `TPAULG`
 * ships, `SHEUPS KW-BG`
 * soon `SAOPB`
-* Icy `AOEU/SEU`
+* icy `AOEU/SEU`
 * winter `WEURPBT`
 * will `HR`
 * come. `KOPL TP-PL`
-* Twice `TWAOEUS`
+* Twice `KPA/TWAOEUS`
 * returned `RURPBD`
+* bishop `PWEURB/OP`
 * welcomed `W-BGD`
 * servants `SER/SRAPBTS`
 * came `KAEUPL`
@@ -362,19 +382,21 @@
 * dared `TKAEURD`
 * offend `OFPBD`
 * pious `PAOEU/OUS`
-* "Cursed `KR-GS KURS/-D`
+* "Cursed `KR-GS KPA/KURS/-D`
 * she `SHE`
 * belongs `PWHROPBGS`
 * her. `HER TP-PL`
-* let `HRET`
+* Let `KPA/HRET`
 * expelled `EBGS/PELD`
 * congregation `KOPBG/TKPWAEUGS`
+* Church. `KH*UFRPB TP-PL`
 * man `PHAPB`
 * stretch `STREFP`
 * forth `TPO*RT`
 * helping `HEPG`
 * hand `HAPBD`
 * her, `HER KW-BG`
+* let `HRET`
 * friends `TPREPBDZ`
 * relations `RELGS/-S`
 * avoid `A/SROEUD`
@@ -386,9 +408,10 @@
 * widow; `WO*EUD STPH*FPLT`
 * holds `HOLDZ`
 * fast `TPAFT`
-* God. `TKPWOD TP-PL`
+* God. `TKPWO*D TP-PL`
 * helper `HEL/PER`
 * defender. `TK-FD/*ER TP-PL`
+* One `KPA/WUPB`
 * servant `SEFRB/APBT`
 * only—an `OEPBL EPL/TKA*RB APB`
 * maid—remained `PHAEUD EPL/TKA*RB RE/PHAEUPBD`
@@ -404,8 +427,8 @@
 * land `HRAPBD`
 * cursed `KURS/-D`
 * by `PWEU`
-* Pope `POEP`
-* "Thou `KR-GS THO*U`
+* Pope `PO*EP`
+* "Thou `KR-GS KPA/THO*U`
 * child `KHAOEULD`
 * perdition, `PER/TKEUGS KW-BG`
 * I `EU`
@@ -415,7 +438,7 @@
 * my `PHEU`
 * purpose!" `PURP SKHRAPL KR-GS`
 * cried `KRAOEUD`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * lay `HRAEU`
 * upon `POPB`
 * thee, `THAOE KW-BG`
@@ -425,6 +448,7 @@
 * shall `SHAL`
 * condemn `KAUPB/TKEPL`
 * thee!" `THAOE SKHRAPL KR-GS`
+* Then `KPA/THEPB`
 * yoke `KWRO*EBG`
 * last `HRAFT`
 * two `TWO`
@@ -435,6 +459,7 @@
 * travelled `TRAFLD/A*U`
 * Danish `TKAEUPB/EURB`
 * land. `HRAPBD TP-PL`
+* As `KPA/AZ`
 * stranger `STRAEURPBG`
 * country, `KREU KW-BG`
 * tongue `TUPBG`
@@ -442,6 +467,7 @@
 * new `TPHU`
 * customs `KUFPLS`
 * prevailed. `PRAOE/SRAEULD TP-PL`
+* Farther `KPA/TPA*RT`
 * farther `TPA*RT`
 * journeyed, `SKWRURPB/EUD KW-BG`
 * green `TKPWRAOEPB`
@@ -451,6 +477,7 @@
 * vine `SRAOEUPB`
 * clothes `KHRO*ETS`
 * sides. `SAOEUDZ TP-PL`
+* Strange `KPA/STRAEUPBG`
 * merchants `PHER/KHAPBTS`
 * drive `KRAOEUF`
 * look `HRAOBG`
@@ -504,8 +531,8 @@
 * sorrows, `SROE/-S KW-BG`
 * woes, `WOE/-S KW-BG`
 * cease, `SAOES KW-BG`
-* Divine `TKWAOEUB`
-* Providence `PROF/TKEPBS`
+* Divine `KPA/TKWAOEUB`
+* Providence `KPA/PROF/TKEPBS`
 * willed `HR-D`
 * it. `T TP-PL`
 * knight `TPHAO*EUT`
@@ -530,6 +557,7 @@
 * roasted `ROEFT/-D`
 * spit `SPEUT`
 * fire. `TPAOEUR TP-PL`
+* At `KPA/AT`
 * warm `WARPL`
 * cheerful `KHAOER/-FL`
 * heated `HAOET/-D`
@@ -541,26 +569,27 @@
 * piece `PAOES`
 * brought `PWRAUT`
 * "Jens `KR-GS SKWREPB/-S`
-* Glob, `TKPWHROB KW-BG`
+* Glob, `KPA/TKPWHROB KW-BG`
 * back, `PWABG KW-BG`
 * him." `HEUPL TP-PL KR-GS`
 * Jens `SKWREPB/-S`
-* Glob `TKPWHROB`
+* Glob `KPA/TKPWHROB`
 * complaint `KPAEUPBT`
 * him `HEUPL`
 * temporal `TEPL/PRAL`
 * spiritual `SPEURT/WAL`
 * court. `KORT TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * avail `A/SRAEUL`
 * little," `HREUL KW-BG KR-GS`
-* "Best `KR-GS PWEFT`
+* "Best `KR-GS KPA/PWEFT`
 * leave `HREF`
 * off `OF`
 * efforts, `EFRTS KW-BG`
 * Jens." `SKWREPB/-S TP-PL KR-GS`
-* again `TKPWEPB`
+* Again `KPA/TKPWEPB`
 * ships. `SHEUPS TP-PL`
+* Icy `KPA/AOEU/SEU`
 * again, `TKPWEPB KW-BG`
 * "white `KR-GS WHAOEUT`
 * bees" `PWAOES KR-GS`
@@ -569,7 +598,7 @@
 * traveller's `TRAFL/HRER/A*U AES`
 * face `TPAEUS`
 * melt. `PHELT TP-PL`
-* "Keen `KR-GS KAOEPB`
+* "Keen `KR-GS KPA/KAOEPB`
 * to-day!" `TO H-PB TKAEU SKHRAPL KR-GS`
 * people, `PAOEPL KW-BG`
 * step `STEP`
@@ -587,8 +616,9 @@
 * "I `KR-GS EU`
 * subdue `SUB/TKAOU`
 * all! `AUL SKHRAPL`
+* Under `KPA/*UPBD`
 * shield `SHAOELD`
-* Pope, `POEP KW-BG`
+* Pope, `PO*EP KW-BG`
 * cannot `K/TPHOT`
 * reach `RAOEFP`
 * thee; `THAOE STPH*FPLT`
@@ -622,7 +652,7 @@
 * waving `WAFG`
 * reeds, `RAOED/-S KW-BG`
 * sadly. `SAD/HREU TP-PL`
-* blow `PWHROE`
+* Blow `KPA/PWHROE`
 * brazen `PWRAEZ/-PB`
 * trumpet, `TRUPLT KW-BG`
 * trumpeter `TRUPLT/*ER`
@@ -631,6 +661,7 @@
 * sounds `SOUPBDZ`
 * merrily `PHER/HREU`
 * air. `AEUR TP-PL`
+* So `KPA/SO`
 * moorland—over `xxx moorland EPL/TKA*RB OEFR`
 * garden `TKPWA*RPB`
 * Fata `xxx Fata`
@@ -652,6 +683,7 @@
 * increases `EUPB/KRAOEFS`
 * more `PHOR`
 * more. `PHOR TP-PL`
+* Towards `KPA/TORDZ`
 * ride, `RAOEUD KW-BG`
 * may `PHAE`
 * storm. `STORPL TP-PL`
@@ -675,7 +707,7 @@
 * help `HEP`
 * judgment `SKWRUPLT`
 * seat `SAOET`
-* Highest. `HAOEU/EFT TP-PL`
+* Highest. `KPA/HAOEU/EFT TP-PL`
 * hall; `HAUL STPH*FPLT`
 * altar `AL/TAR`
 * council `KUPB/SEUL`
@@ -692,8 +724,10 @@
 * heath, `HAO*ET KW-BG`
 * rolling `ROLG`
 * waters. `WAURS TP-PL`
+* No `KPA/TPHO`
 * ferry-boat `TPER/REU H-PB PWOET`
 * sail `SAEUL`
+* bay `PWAEU`
 * such `SUFP`
 * this. `TH TP-PL`
 * makes `PHAEUBGS`
@@ -721,7 +755,7 @@
 * reinforcement `RAOEPB/TPORPLT`
 * him, `HEUPL KW-BG`
 * follow `TPOL`
-* Ten `TEPB`
+* Ten `KPA/TEPB`
 * away; `A/WAEU STPH*FPLT`
 * youngest `KWRUPBG/EFT`
 * men `PHEPB`
@@ -754,11 +788,11 @@
 * made `PHAED`
 * agreement `KWRAOEPLT`
 * bishop." `PWEURB/OP TP-PL KR-GS`
-* "Sayest `KR-GS SAEU/EFT`
+* "Sayest `KR-GS xxx Sayest`
 * so?" `SO H-F KR-GS`
 * replied `RE/PHRAOEUD`
 * Hase. `xxx Hase TP-PL`
-* "Then `KR-GS THEPB`
+* "Then `KR-GS KPA/THEPB`
 * neither `TPHAOERT`
 * nor `TPH-R`
 * quit `KWEUT`
@@ -767,6 +801,7 @@
 * leaps `HRAOEPS`
 * scabbard, `xxx scabbard KW-BG`
 * deals `TKAOELS`
+* blow `PWHROE`
 * panel `PAPBL`
 * door, `TKAOR KW-BG`
 * hastily `HAEUFT/HREU`
@@ -774,15 +809,16 @@
 * them, `THEPL KW-BG`
 * fly `TPHRAOEU`
 * fragments. `TPRAPLTS TP-PL`
-* "Hold, `KR-GS HOLD KW-BG`
+* "Hold, `KR-GS KPA/HOLD KW-BG`
 * brother! `PWROER SKHRAPL`
-* First `TPEURS`
+* First `KPA/TPEURS`
 * made. `PHAED TP-PL`
 * slain `SHRAEUPB`
 * priests. `PRAOEFT/-S TP-PL`
 * word `WORD`
 * matter, `PHAERT KW-BG`
-* Speak `SPAOEBG`
+* speak `SPAOEBG`
+* again `TKPWEPB`
 * wrong `WROPBG`
 * endured." `EPB/TKAOURD TP-PL KR-GS`
 * wicks `WEUBG/-S`
@@ -879,13 +915,13 @@
 * mind `PHAOEUPBD`
 * wicked `WEUBGD`
 * thoughts. `THAUTS TP-PL`
-* Sink `S*EUPBG`
+* Sink `KPA/S*EUPBG`
 * down `TKOUPB`
 * grave—into `TKPWRAEUF EPL/TKA*RB TPHAO`
 * oblivion—ye `OE/PWHREUF/KWROPB EPL/TKA*RB KWR*/*E/SP-S`
 * shapes `SHAEUPS`
 * old! `OLD SKHRAPL`
-* Hark `HARBG`
+* Hark `KPA/HARBG`
 * raging `RAG/-G`
 * angry `APBG/REU`
 * wind, `WEUPBD KW-BG`
@@ -900,6 +936,7 @@
 * lives. `HREUFS TP-PL`
 * put `PUT`
 * time. `TAOEUPL TP-PL`
+* This `KPA/TH`
 * horrible `HORBL`
 * pit `PEUT`
 * devour `TKE/SROUR`
@@ -909,7 +946,7 @@
 * glassy `TKPWHRAS/SEU`
 * mirror—even `PHROR EPL/TKA*RB AOEPB`
 * buried. `PWUR/EUD TP-PL`
-* Sleep `SHRAOEP`
+* Sleep `KPA/SHRAOEP`
 * sweetly, `SWAOET/HREU KW-BG`
 * canst `K/*T`
 * sleep! `SHRAOEP SKHRAPL`
@@ -921,7 +958,7 @@
 * mightily. `PHAOEUT/HREU TP-PL`
 * wreck `WREBG`
 * announced—as `A/TPHOUPBS/-D EPL/TKA*RB AZ`
-* During `TKURG`
+* During `KPA/TKURG`
 * night, `TPHAOEUT KW-BG`
 * Lokken, `xxx Lokken KW-BG`
 * little `HREUL`
@@ -973,7 +1010,7 @@
 * feast `TPAOEFT`
 * given `TKPWEUFPB`
 * hall `HAUL`
-* Waltzes `WAULGT/-S`
+* Waltzes `xxx Waltzes`
 * Styrian `xxx Styrian`
 * dances `TKAPBS/-S`
 * given, `TKPWEUFPB KW-BG`
@@ -981,13 +1018,14 @@
 * songs, `SOPBGS KW-BG`
 * modern `PHOERPB`
 * times. `TAOEUPLS TP-PL`
-* Blessed `PWHR*EFD`
+* Blessed `KPA/PWHR*EFD`
 * thou, `THO*U KW-BG`
 * time! `TAOEUPL SKHRAPL`
+* Speak `KPA/SPAOEBG`
 * summer `SAOURPL`
 * purer `PAOUR/ER`
 * gales! `TKPWAEL/-S SKHRAPL`
-* Send `SEPBD`
+* Send `KPA/SEPBD`
 * sunbeams `SUPB/PWAOEPL/-S`
 * hearts `HARTS`
 * thoughts! `THAUTS SKHRAPL`

@@ -1,8 +1,8 @@
 # The Wedding of Mrs Fox
 
-* FIRST `TPEURS`
-* STORY `STOER`
-* there `THR`
+* FIRST `KPA/TPEURS`
+* STORY `KPA/STOER`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * upon `POPB`
@@ -10,7 +10,7 @@
 * time `TAOEUPL`
 * an `APB`
 * old `OLD`
-* Fox `TPOBGS`
+* fox `TPOBGS`
 * with `W`
 * nine `TPHAOEUPB`
 * tails, `TAEULS KW-BG`
@@ -29,7 +29,7 @@
 * her `HER`
 * the `-T`
 * test. `TEFT TP-PL`
-* he `HE`
+* He `KPA/HE`
 * stretched `STREFPD`
 * himself `H*EUPLS`
 * out `OUT`
@@ -41,10 +41,12 @@
 * behaved `PWHAEUFD`
 * as `AZ`
 * if `TP`
+* he `HE`
 * were `WR`
 * stone `STOEPB`
 * dead. `TKED TP-PL`
 * Mrs `PH*/R*/S*`
+* Fox `KPA/TPOBGS`
 * went `WEPBT`
 * up `UP`
 * room, `RAOPL KW-BG`
@@ -52,13 +54,13 @@
 * herself `H*ERS`
 * in, `TPH KW-BG`
 * maid, `PHAEUD KW-BG`
-* Miss `PHEUS`
-* cat, `KAT KW-BG`
+* Miss `KPA/PHEUS`
+* Cat, `KPA/KAT KW-BG`
 * sat `SAT`
 * by `PWEU`
 * fire, `TPAOEUR KW-BG`
 * cooking. `KAOG TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * it `T`
 * became `PWAEUPL`
 * known `TPHOEPB`
@@ -66,28 +68,30 @@
 * suitors `SAOU/TOR/-S`
 * presented `PREPBTD`
 * themselves. `TH*EPLS TP-PL`
+* The `KPA/-T`
 * maid `PHAEUD`
 * heard `HAERD`
 * someone `SPH-PB`
 * standing `STAPBG`
-* At `AT`
+* at `AT`
 * house-door, `HOUS H-PB TKAOR KW-BG`
 * knocking. `TPHOBG/-G TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * opened `OEPD`
 * it, `T KW-BG`
 * young `KWRUPBG`
-* Fox, `TPOBGS KW-BG`
+* fox, `TPOBGS KW-BG`
 * said: `SAEUD STPH-FPLT`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * may `PHAE`
 * you `U`
 * be `-B`
 * about, `PW KW-BG`
-* Cat? `KAT H-F`
-* do `TKO`
+* Cat? `KPA/KAT H-F`
+* Do `KPA/TKO`
 * sleep `SHRAOEP`
 * or `OR`
+* do `TKO`
 * wake?' `WAEUBG H-F AE`
 * answered: `AEPBS/-D STPH-FPLT`
 * 'I `AE EU`
@@ -95,50 +99,52 @@
 * sleeping, `SHRAOEPG KW-BG`
 * I `EU`
 * waking, `WAEUG KW-BG`
-* would `WO`
+* Would `KPA/WO`
 * know `TPHOE`
-* What `WHA`
+* what `WHA`
 * making? `PHAEUG H-F`
 * boiling `PWOEULG`
 * warm `WARPL`
 * beer `PWAOER`
 * butter, `PWAOURT KW-BG`
-* will `HR`
+* Will `W*EUL`
 * my `PHEU`
 * guest `TKPWEFT`
-* For `TPOR`
+* for `TPOR`
 * supper?' `SAOURP H-F AE`
-* 'No, `AE TPHO KW-BG`
+* 'No, `AE KPA/TPHO KW-BG`
 * thank `THAPBG`
 * you, `U KW-BG`
 * miss,' `PHEUS KW-BG AE`
 * said `SAEUD`
+* 'what `AE WHA`
 * is `S`
 * doing?' `TK*G H-F AE`
 * replied: `RE/PHRAOEUD STPH-FPLT`
-* 'She `AE SHE`
+* 'She `AE KPA/SHE`
 * sitting `SEUGT`
 * in `TPH`
-* Moaning `PHOEPBG`
+* Moaning `KPA/PHOEPBG`
 * gloom, `TKPWHRAOPL KW-BG`
-* Weeping `WAOEP/-G`
+* Weeping `KPA/WAOEP/-G`
 * little `HREUL`
 * eyes `AO*EUS`
 * quite `KWAOEUT`
 * red, `RED KW-BG`
-* Because `PWAU`
+* Because `KPA/PWAU`
 * Mr `PH*P/R*`
 * dead.' `TKED TP-PL AE`
-* 'Do `AE TKO`
+* 'Do `AE KPA/TKO`
 * just `SKWRUFT`
 * tell `TEL`
 * her, `HER KW-BG`
 * miss, `PHEUS KW-BG`
 * here, `HAOER KW-BG`
+* would `WO`
 * like `HRAOEUBG`
 * woo `WAO`
 * her.' `HER TP-PL AE`
-* 'Certainly, `AE SERPBL KW-BG`
+* 'Certainly, `AE KPA/SERPBL KW-BG`
 * sir.' `SEUR TP-PL AE`
 * cat `KAT`
 * goes `TKPW-S`
@@ -146,14 +152,16 @@
 * trip, `TREUP KW-BG`
 * trap, `TRAP KW-BG`
 * door `TKAOR`
+* she `SHE`
 * knocks `TPHOBGS`
 * tap, `TAP KW-BG`
-* 'Mistress `AE PHEUS/TRES`
+* 'Mistress `AE KPA/PHEUS/TRES`
+* Fox, `KPA/TPOBGS KW-BG`
 * are `R`
 * inside?' `TPH-DZ H-F AE`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * yes, `KWRE KW-BG`
-* Cat,' `KAT KW-BG AE`
+* cat,' `KAT KW-BG AE`
 * cried. `KRAOEUD TP-PL`
 * 'A `AE KPA/AEU`
 * wooer `WAO/*ER`
@@ -163,36 +171,40 @@
 * look `HRAOBG`
 * like, `HRAOEUBG KW-BG`
 * dear?' `TKAER H-F AE`
-* 'Has `AE HAS`
+* 'Has `AE KPA/HAS`
 * beautiful `PWAOUFL`
 * tails `TAEULS`
 * late `HRAEUT`
-* Fox?' `TPOBGS H-F AE`
+* Fox?' `KPA/TPOBGS H-F AE`
 * no,' `TPHO KW-BG AE`
 * answered `AEPBS/-D`
+* cat, `KAT KW-BG`
 * 'he `AE HE`
 * has `HAS`
 * only `OEPBL`
 * one.' `WUPB TP-PL AE`
-* 'Then `AE THEPB`
+* 'Then `AE KPA/THEPB`
+* will `HR`
 * have `SR`
 * him.' `HEUPL TP-PL AE`
+* Cat `KPA/KAT`
 * downstairs `TKOUPB/STAEURS`
 * sent `SEPBT`
 * away. `A/WAEU TP-PL`
-* Soon `SAOPB`
+* Soon `KPA/SAOPB`
 * afterwards `A*FRDZ`
+* there `THR`
 * another `TPHOER`
 * knock, `TPHOBG KW-BG`
-* fox. `TPOBGS TP-PL`
+* Fox. `KPA/TPOBGS TP-PL`
 * had `H`
 * two `TWO`
-* But `PWUT`
+* but `PWUT`
 * fare `TPA*ER`
 * better `PWOERT`
 * than `THAPB`
 * first. `TPEUFRT TP-PL`
-* after `AF`
+* After `KPA/AF`
 * this `TH`
 * still `STEUL`
 * more `PHOR`
@@ -205,20 +217,22 @@
 * all `AUL`
 * turned `TURPBD`
 * away, `A/WAEU KW-BG`
-* Until `TPH-L`
+* until `TPH-L`
 * last `HRAFT`
 * came `KAEUPL`
 * widow `WO*EUD`
 * that, `THA KW-BG`
 * joyfully `SKWROEUFL/HREU`
 * cat: `KAT STPH-FPLT`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * open `OEP`
 * gates `TKPWAETS`
 * doors `TKAORS`
 * wide, `WAOEUD KW-BG`
+* And `AFPBD`
 * carry `KAER`
 * outside.' `OUDZ TP-PL AE`
+* But `KPA/PWUT`
 * wedding `WEGD`
 * going `TKPW-G`
 * solemnized, `xxx solemnized KW-BG`
@@ -229,7 +243,7 @@
 * them `THEPL`
 * of `-F`
 * house. `HOUS TP-PL`
-* SECOND `SEBGD`
+* SECOND `KPA/SEBGD`
 * wolf `WOFL`
 * suitor, `SAOU/TOR KW-BG`
 * knocked `TPHOBGD`
@@ -237,16 +251,17 @@
 * servant `SEFRB/APBT`
 * him. `HEUPL TP-PL`
 * greeted `TKPWRAOET/-D`
-* 'Good `AE TKPWAOD`
+* 'Good `AE KPA/TKPWAOD`
 * day, `TKAEU KW-BG`
 * Kehrewit, `xxx Kehrewit KW-BG`
-* How `HOU`
+* How `KPA/HOU`
 * comes `KOPLS`
 * alone `A/HROEPB`
 * sit? `SEUT H-F`
+* What `KPA/WHA`
 * making `PHAEUG`
 * good?' `TKPWAOD H-F AE`
-* 'In `AE TPH`
+* 'In `AE KPA/TPH`
 * milk `PHEULG`
 * I'm `AOEUPL`
 * breaking `PWRAEG`
@@ -255,8 +270,9 @@
 * sweet, `SWAOET KW-BG`
 * guest, `TKPWEFT KW-BG`
 * eat?' `AOET H-F AE`
+* Cat,' `KPA/KAT KW-BG AE`
 * wolf. `WOFL TP-PL`
-* 'Is `AE S`
+* 'Is `AE KPA/S`
 * home?' `HOEPL H-F AE`
 * sits `SEUTS`
 * upstairs `UP/STA*EURS`
@@ -265,14 +281,15 @@
 * doom, `TKAOPL KW-BG`
 * trouble `TRUBL`
 * sore, `SOR KW-BG`
+* For `KPA/TPOR`
 * no `TPHO`
 * more.' `PHOR TP-PL AE`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * she's `SHAOES`
 * want `WAPBT`
 * husband `HUS`
 * now, `TPHOU KW-BG`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * please `PHRES`
 * step `STEP`
 * below?' `PWHRO H-F AE`
@@ -283,17 +300,20 @@
 * fly `TPHRAOEU`
 * here `HAOER`
 * there, `THR KW-BG`
+* Until `KPA/TPH-L`
 * parlour `PAR/HROUR/A*U`
 * door. `TKAOR TP-PL`
+* With `KPA/W`
 * five `TPEUF`
 * gold `TKPWOELD`
 * rings `REUPBGS`
 * knocks: `TPHOBGS STPH-FPLT`
-* 'Are `AE R`
+* 'Are `AE KPA/R`
 * within, `W-PB KW-BG`
 * good `TKPWAOD`
-* Mistress `PHEUS/TRES`
-* Fox? `TPOBGS H-F`
+* Mistress `KPA/PHEUS/TRES`
+* Fox? `KPA/TPOBGS H-F`
+* If `KPA/TP`
 * you're `UR`
 * below? `PWHRO H-F`
 * asked: `SK-D STPH-FPLT`
@@ -303,7 +323,7 @@
 * on, `OPB KW-BG`
 * pointed `POEUPBTD`
 * mouth?' `PHO*UT H-F AE`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * cat. `KAT TP-PL`
 * won't `WOEPBT`
 * me.' `PHE TP-PL AE`
@@ -315,6 +335,7 @@
 * lion, `HRO*EUPB KW-BG`
 * beasts `PWAOEFT/-S`
 * forest, `TPOEFRT KW-BG`
+* after `AF`
 * other. `OER TP-PL`
 * qualities `KWALTS`
 * which `WEU`
@@ -323,8 +344,10 @@
 * lacking, `HRABG/-G KW-BG`
 * continually `TAEPBL`
 * send `SEPBD`
+* At `KPA/AT`
 * length `HREPBG`
-* 'Yes,' `AE KWRE KW-BG AE`
+* fox. `TPOBGS TP-PL`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * has.' `HAS TP-PL AE`
 * let `HRET`
 * him `HEUPL`
@@ -333,11 +356,12 @@
 * ordered `ORD/-D`
 * prepare `PRAEP`
 * feast. `TPAOEFT TP-PL`
-* 'Sweep `AE SWAOEP`
+* 'Sweep `AE KPA/SWAOEP`
 * me `PHE`
 * room `RAOPL`
 * clean `KHAOEPB`
 * can, `K KW-BG`
+* Up `KPA/UP`
 * window, `WOEUPBD KW-BG`
 * fling `TPHREUPBG`
 * man! `PHAPB SKHRAPL`
@@ -346,7 +370,7 @@
 * fat `TPAT`
 * mouse `PHOUS`
 * brought, `PWRAUT KW-BG`
-* Yet `KWRET`
+* Yet `KPA/KWRET`
 * never `TPHEF`
 * thought, `THAUT KW-BG`
 * ate `AEUT`

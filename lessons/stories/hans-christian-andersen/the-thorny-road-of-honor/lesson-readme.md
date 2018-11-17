@@ -1,15 +1,15 @@
 # The Thorny Road of Honor
 
-* an `APB`
+* An `KPA/APB`
 * old `OLD`
 * story `STOER`
 * yet `KWRET`
 * lives `HREUFS`
 * of `-F`
 * the `-T`
-* "Thorny `KR-GS THORPB/KWREU`
-* road `RAOD`
-* Honor," `HO*RPB KW-BG KR-GS`
+* "Thorny `KR-GS KPA/THORPB/KWREU`
+* Road `RAO*D`
+* Honor," `HO*PB/O*R KW-BG KR-GS`
 * a `AEU`
 * marksman, `PHARBGS/PHAPB KW-BG`
 * who `WHO`
@@ -27,6 +27,7 @@
 * strife `STRAOEUF`
 * against `TKPWEPBS`
 * difficulties. `TKOEUFLTS TP-PL`
+* Who `KPA/WHO`
 * has `HAS`
 * not, `TPHOT KW-BG`
 * in `TPH`
@@ -39,6 +40,7 @@
 * strife, `STRAOEUF KW-BG`
 * numerous `TPHAOUPLS`
 * "difficulties?" `KR-GS TKOEUFLTS H-F KR-GS`
+* The `KPA/-T`
 * is `S`
 * very `SRE`
 * closely `KHROELS`
@@ -83,10 +85,12 @@
 * wandered `WAPBD/-D`
 * along `A/HROPBG`
 * thorny `THORPB/KWREU`
+* road `RAOD`
 * honor. `HO*RPB TP-PL`
-* from `TPR`
+* From `KPA/TPR`
 * all `AUL`
 * periods, `PAOERDZ KW-BG`
+* from `TPR`
 * every `EF`
 * country, `KREU KW-BG`
 * these `THEZ`
@@ -94,11 +98,12 @@
 * display `TKPHRAEU`
 * themselves `TH*EPLS`
 * us. `US TP-PL`
-* each `AOEFP`
+* Each `KPA/AOEFP`
 * appears `A/PAOERS`
 * for `TPOR`
 * few `TPAOU`
 * moments, `PHOEPLTS KW-BG`
+* each `AOEFP`
 * represents `REPS`
 * whole `WHOEL`
 * life, `HRAOEUF KW-BG`
@@ -107,10 +112,10 @@
 * with `W`
 * conflicts `TPHREUBGT/-S`
 * victories. `SREUBGT/REUS TP-PL`
-* Let `HRET`
+* Let `KPA/HRET`
 * us `US`
 * contemplate `KAUPB/TPHRAEUT`
-* There `THR`
+* there `THR`
 * one `WUPB`
 * company `K-P`
 * martyrs—the `PHART/ERS EPL/TKA*RB -T`
@@ -124,13 +129,13 @@
 * shall `SHAL`
 * pass `PAS`
 * away. `A/WAEU TP-PL`
-* We `WE`
+* We `KPA/WE`
 * look `HRAOBG`
 * down `TKOUPB`
 * crowded `KROUD/-D`
 * amphitheatre. `A*PL/THAOERT/A*U TP-PL`
-* out `OUT`
-* "Clouds" `KR-GS KHROUDZ KR-GS`
+* Out `KPA/OUT`
+* "Clouds" `KR-GS KPA/KHROUDZ KR-GS`
 * Aristophanes, `AEUR/STOF/TPHAOES KW-BG`
 * satire `SA/TAOEUR`
 * humor `HAOURPL`
@@ -169,6 +174,7 @@
 * above `PWOF`
 * gods `TKPWODZ`
 * ancients. `AEURBT/-S TP-PL`
+* He `KPA/HE`
 * himself `H*EUPLS`
 * present; `PREPBT STPH*FPLT`
 * risen `REUFPB`
@@ -185,6 +191,7 @@
 * between `TWAOEPB`
 * caricature `KARBG/TAOUR`
 * stage. `STAEUPBLG TP-PL`
+* There `KPA/THR`
 * stands `STAPBDZ`
 * before `PW-F`
 * them, `THEPL KW-BG`
@@ -192,7 +199,7 @@
 * high `HAOEU`
 * them `THEPL`
 * all. `AUL TP-PL`
-* thou `THO*U`
+* Thou `KPA/THO*U`
 * juicy, `SKWRAOU/SEU KW-BG`
 * green, `TKPWRAOEPB KW-BG`
 * poisonous `POEUZ/TPHOUS`
@@ -206,7 +213,7 @@
 * olive `OL/EUF`
 * tree `TRAOE`
 * fame! `TPAEUPL SKHRAPL`
-* seven `SEFPB`
+* Seven `KPA/SEFPB`
 * cities `STEUS`
 * contended `KAUPB/TEPBD/-D`
 * honor `HO*RPB`
@@ -214,7 +221,7 @@
 * birth `PW*EURT`
 * Homer—that `HOERPL EPL/TKA*RB THA`
 * say, `SAEU KW-BG`
-* They `THE`
+* they `THE`
 * death! `TK*T SKHRAPL`
 * at `AT`
 * him `HEUPL`
@@ -232,7 +239,7 @@
 * turns `TURPBS`
 * hair `HAEUR`
 * gray! `TKPWRAEU SKHRAPL`
-* he, `HE KW-BG`
+* He, `KPA/HE KW-BG`
 * great `TKPWRAET`
 * seer, `SAOER KW-BG`
 * blind, `PWHRAOEUPBD KW-BG`
@@ -245,12 +252,14 @@
 * mantle `PHAPBT/*L`
 * king `KEUPBG`
 * poets. `POETS TP-PL`
+* His `KPA/HEUS`
 * song `SOPBG`
 * lives, `HREUFS KW-BG`
 * alone `A/HROEPB`
 * live `HREUF`
 * heroes `HOEURS`
 * antiquity. `APB/TUBG/TEU TP-PL`
+* One `KPA/WUPB`
 * picture `P*EUFP`
 * another `TPHOER`
 * springs `SPREUPBGS`
@@ -303,6 +312,7 @@
 * poor `PAOR`
 * corpse `KORPS`
 * carried `KAERD`
+* out `OUT`
 * gate, `TKPWAET KW-BG`
 * funeral `TPAOUPBL`
 * procession `PRO/SEGS`
@@ -310,6 +320,7 @@
 * halt. `HALT TP-PL`
 * dead `TKED`
 * seek—Firdusi—who `SAOEBG EPL/TKA*RB xxx Firdusi EPL/TKA*RB WHO`
+* Thorny `KPA/THORPB/KWREU`
 * even `AOEPB`
 * end. `EPBD TP-PL`
 * African, `A*FRPB KW-BG`
@@ -340,14 +351,14 @@
 * would `WO`
 * die `TKAOEU`
 * hunger. `HURPBG TP-PL`
-* Now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * costly `KOFT/HREU`
 * monument `PHOPLT`
 * marks `PHARBGS`
 * grave `TKPWRAEUF`
 * Camoens. `xxx Camoens TP-PL`
 * picture. `P*EUFP TP-PL`
-* Behind `HEUPBD`
+* Behind `KPA/HEUPBD`
 * iron `AOEURPB`
 * grating `TKPWRAEUGT`
 * appears, `A/PAOERS KW-BG`
@@ -360,7 +371,7 @@
 * made `PHAED`
 * discovery," `SKOEFR KW-BG KR-GS`
 * says, `SEZ KW-BG`
-* "The `KR-GS -T`
+* "the `KR-GS -T`
 * greatest `TKPWRAET/EFT`
 * centuries; `KREPBT/REUS STPH*FPLT`
 * kept `KEPT`
@@ -376,7 +387,7 @@
 * replies `RE/PHRAOEUS`
 * keeper `KAOEP/*ER`
 * madhouse. `xxx madhouse TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * whimsical `WEUPLS/K-L`
 * ideas `KWR-DZ`
 * lunatics `HRAOUPB/TEUBGS`
@@ -387,9 +398,10 @@
 * things `THEUPBGS`
 * means `PHAOEPBS`
 * steam." `STAEPL TP-PL KR-GS`
+* It `KPA/T`
 * Solomon `SOL/PHOPB`
 * de `TK*E`
-* Cares, `KAEURS KW-BG`
+* Cares, `KPA/KAEURS KW-BG`
 * discoverer `SKOFR/*ER`
 * power `POUR`
 * steam, `STAEPL KW-BG`
@@ -400,6 +412,7 @@
 * understood `*URPBD`
 * Richelieu; `xxx Richelieu STPH*FPLT`
 * dies `TKAOEUZ`
+* Here `KPA/HAOER`
 * Columbus, `KHRUPL/PWUS KW-BG`
 * street `STRAOET`
 * boys `PWOEUS`
@@ -413,7 +426,7 @@
 * world; `WORLD STPH*FPLT`
 * discovered `SKOFD`
 * it. `T TP-PL`
-* Shouts `SHOUTS`
+* Shouts `KPA/SHOUTS`
 * joy `SKWROEU`
 * greet `TKPWRAOET`
 * breasts `PWREFTS`
@@ -463,6 +476,7 @@
 * among `PHOPBG`
 * stars `STARS`
 * planets; `PHRA*PBTS STPH*FPLT`
+* he, `HE KW-BG`
 * mighty `PHAOEUT/KWREU`
 * spirit `SPEURT`
 * nature, `TPHAEURT KW-BG`
@@ -471,7 +485,7 @@
 * moving `PHOFG`
 * beneath `TPHAO*ET`
 * feet—Galileo. `TPAOET EPL/TKA*RB TKPWAL/HRAEU/HROE TP-PL`
-* Blind `PWHRAOEUPBD`
+* Blind `KPA/PWHRAOEUPBD`
 * deaf `TKEF`
 * sits—an `SEUTS EPL/TKA*RB APB`
 * thrust `THRUFT`
@@ -494,7 +508,7 @@
 * stamped `STA*PLD`
 * ground, `TKPWROUPBD KW-BG`
 * exclamation, `SKHRAGS KW-BG`
-* "Yet `KR-GS KWRET`
+* "Yet `KR-GS KPA/KWRET`
 * moves!" `PHOFS SKHRAPL KR-GS`
 * woman `WOPL`
 * childlike `xxx childlike`
@@ -502,7 +516,7 @@
 * full `TPUL`
 * faith `PHA*EUT`
 * inspiration. `SPRAEUGS TP-PL`
-* She `SHE`
+* She `KPA/SHE`
 * carries `KAERS`
 * banner `PWAERPB`
 * front `TPROPBT`
@@ -519,26 +533,28 @@
 * pile `PAOEUL`
 * flames `TPHRAEUPLS`
 * up. `UP TP-PL`
+* They `KPA/THE`
 * burning `PWURPBG`
 * witch, `WEUFP KW-BG`
 * Joan `SKWROEPB`
-* Arc. `ARBG TP-PL`
-* Yes, `KWRE KW-BG`
+* Arc. `KPA/ARBG TP-PL`
+* Yes, `KPA/KWRE KW-BG`
 * future `TPAOURT`
 * century `KROEURPBT`
 * jeers `SKWRAOER/-S`
-* White `WHAOEUT`
-* Lily. `HREUL/KWREU TP-PL`
+* White `WHAO*EUT`
+* Lily. `KPA/HREUL/KWREU TP-PL`
 * Voltaire, `SRO*L/TAEUR KW-BG`
 * satyr `SAEURT`
 * human `HAOUPL`
 * intellect, `SPWHREBGT KW-BG`
 * writes `WRAOEUTS`
-* "La `KR-GS HRA`
+* "La `KR-GS KPA/HRA`
 * Pucelle." `xxx Pucelle TP-PL KR-GS`
-* Thing `THEUPBG`
+* At `KPA/AT`
+* Thing `KPA/THEUPBG`
 * or `OR`
-* Assembly `A/SEPL/PWHREU`
+* Assembly `KPA/A/SEPL/PWHREU`
 * Viborg, `xxx Viborg KW-BG`
 * Danish `TKAEUPB/EURB`
 * nobles `TPHOEBLS`
@@ -554,9 +570,11 @@
 * prison `PREUZ`
 * tower, `TOUR KW-BG`
 * where `W-R`
+* an `APB`
 * growing `TKPWROEG`
 * gray `TKPWRAEU`
 * bent. `PWEPBT TP-PL`
+* With `KPA/W`
 * finger `TPURPBG`
 * groove `TKPWRAOF`
 * stone `STOEPB`
@@ -569,14 +587,16 @@
 * citizen `SEUT/*EPB`
 * peasant. `PEFPBT TP-PL`
 * Christian `KREUGS`
-* Second. `SEBGD TP-PL`
-* Enemies `EPB/PHEUS`
+* Second. `S*EBG/OPBD TP-PL`
+* Enemies `KPA/EPB/PHEUS`
 * wrote `WRO`
 * history. `HEUFRT TP-PL`
 * remember `REB`
 * improvements `EUPL/PROFPLTS`
+* seven `SEFPB`
 * years, `KWRAOERS KW-BG`
 * if `TP`
+* we `WE`
 * cannot `K/TPHOT`
 * forget `TPERGT`
 * crime. `KRAOEUPL TP-PL`
@@ -591,7 +611,7 @@
 * last `HRAFT`
 * glance `TKPWHRAPBS`
 * towards `TORDZ`
-* island `AOEULD`
+* Island `AO*EULD`
 * Hueen. `xxx Hueen TP-PL`
 * Tycho `xxx Tycho`
 * Brahe. `xxx Brahe TP-PL`
@@ -604,15 +624,17 @@
 * sorrow. `SROE TP-PL`
 * going `TKPW-G`
 * strange `STRAEUPBG`
+* "The `KR-GS KPA/-T`
 * vault `SRALT`
 * heaven `HEFPB`
 * everywhere," `WEFR KW-BG KR-GS`
 * "and `KR-GS SKP`
-* What `WHA`
+* what `WHA`
 * do `TKO`
 * I `EU`
 * want `WAPBT`
 * more?" `PHOR H-F KR-GS`
+* And `AFPBD`
 * away `A/WAEU`
 * famous `TPAEUPLS`
 * Dane, `TKA*EUPB KW-BG`
@@ -620,7 +642,7 @@
 * honored `HOPB/ORD`
 * free `TPRAOE`
 * land. `HRAPBD TP-PL`
-* "Ay, `KR-GS A/KWR*/SP-S KW-BG`
+* "Ay, `KR-GS KPA/A/KWR*/SP-S KW-BG`
 * free, `TPRAOE KW-BG`
 * unbearable `UPB/PWAER/-BL`
 * sufferings `SUFRGS`
@@ -630,11 +652,13 @@
 * strikes `STRAOEUBGS`
 * our `OUR`
 * ear. `AOER TP-PL`
+* What `KPA/WHA`
 * picture! `P*EUFP SKHRAPL`
 * Griffenfeldt, `xxx Griffenfeldt KW-BG`
 * Prometheus, `PRO/PHAO*ET/KWRUS KW-BG`
 * bound `PWOUPBD`
 * rocky `ROBG/KEU`
+* island `AOEULD`
 * Munkholm. `xxx Munkholm TP-PL`
 * America, `PHERBG KW-BG`
 * margin `PHARPB`
@@ -666,18 +690,18 @@
 * father `TPAER`
 * whistles `WHEUFLS`
 * rest. `REFT/TP-PL`
-* "Conceit! `KR-GS KOPB/SAOET SKHRAPL`
-* Foolery!" `TPAOL/REU SKHRAPL KR-GS`
+* "Conceit! `KR-GS KPA/KAUPB/SAOET SKHRAPL`
+* Foolery!" `KPA/TPAOL/REU SKHRAPL KR-GS`
 * cry. `KRAOEU TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * happened `HAPD`
 * just `SKWRUFT`
 * deserved. `TKAOE/SER/-FD TP-PL`
-* Put `PUT`
+* Put `KPA/PUT`
 * crack-brain `KRABG H-PB PWRAEUPB`
 * lock `HROBG`
 * key!" `KAOE SKHRAPL KR-GS`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * nail `TPHAEUL`
 * breaks, `PWRAEBGS KW-BG`
 * stopped `STOPD`
@@ -704,6 +728,7 @@
 * O `O*P`
 * race, `RAEUS KW-BG`
 * canst `K/*T`
+* thou `THO*U`
 * grasp `TKPWRAFP`
 * happiness `HAEP/-PBS`
 * such `SUFP`
@@ -735,12 +760,12 @@
 * feel `TPAOEL`
 * imparts `EUPL/PARTS`
 * all? `AUL H-F`
-* Thus `THUS`
+* Thus `KPA/THUS`
 * shows `SHOES`
 * glory, `TKPWHROER KW-BG`
 * surrounding `SROUPBGD`
 * beams. `PWAOEPLS TP-PL`
-* Thrice `THRAOEUS`
+* Thrice `KPA/THRAOEUS`
 * happy `HAEP`
 * chosen `KHOEFPB`
 * wanderer `WAPBD/RER`
@@ -751,8 +776,9 @@
 * builder `PWEURLD`
 * bridge `PWREUPBLG`
 * earth—between `*ERT EPL/TKA*RB TWAOEPB`
-* Providence `PROF/TKEPBS`
+* Providence `KPA/PROF/TKEPBS`
 * race. `RAEUS TP-PL`
+* On `KPA/OPB`
 * wings `WEUPBGS`
 * ages, `AEPBLGS KW-BG`
 * shows—giving `SHOES EPL/TKA*RB TKPWEUFG`

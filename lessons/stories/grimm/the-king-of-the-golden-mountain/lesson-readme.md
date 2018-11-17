@@ -1,6 +1,6 @@
 # The King of the Golden Mountain
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -20,12 +20,12 @@
 * to `TO`
 * run `RUPB`
 * alone. `A/HROEPB TP-PL`
-* he `HE`
+* He `KPA/HE`
 * two `TWO`
 * richly `REUFP/HREU`
 * laden `HRA*ED/-PB`
 * ships `SHEUPS`
-* Then `THEPB`
+* then `THEPB`
 * making `PHAEUG`
 * voyage `SROEUPBLG`
 * upon `POPB`
@@ -33,6 +33,7 @@
 * seas, `SAEZ KW-BG`
 * in `TPH`
 * which `WEU`
+* he `HE`
 * embarked `EPL/PWARBG/-D`
 * all `AUL`
 * his `HEUS`
@@ -47,14 +48,14 @@
 * both `PWO*T`
 * were `WR`
 * lost. `HRO*S TP-PL`
-* thus `THUS`
+* Thus `KPA/THUS`
 * from `TPR`
 * being `-BG`
 * rich `REUFP`
 * man `PHAPB`
 * became `PWAEUPL`
 * at `AT`
-* So `SO`
+* so `SO`
 * poor `PAOR`
 * nothing `TPHOG`
 * left `HREFT`
@@ -63,6 +64,7 @@
 * small `SPHAL`
 * plot `PHROT`
 * land; `HRAPBD STPH*FPLT`
+* there `THR`
 * often `OFPB`
 * went `WEPBT`
 * an `APB`
@@ -73,8 +75,9 @@
 * mind `PHAOEUPBD`
 * little `HREUL`
 * trouble. `TRUBL TP-PL`
+* One `KPA/WUPB`
 * day, `TKAEU KW-BG`
-* As `AZ`
+* as `AZ`
 * roaming `ROEPLG`
 * along `A/HROPBG`
 * brown `PWROUPB`
@@ -99,17 +102,17 @@
 * dwarf. `TKWAFR TP-PL`
 * 'Prithee, `AE xxx Prithee KW-BG`
 * friend, `TPREPBD KW-BG`
-* Why `KWR`
+* why `KWR`
 * sorrowful?' `SOR/ROEFL H-F AE`
 * said `SAEUD`
 * merchant; `PHEFRPBT STPH*FPLT`
-* 'What `AE WHA`
+* 'what `AE WHA`
 * is `S`
 * it `T`
 * you `U`
 * deeply `TKAO*EPL`
 * heart?' `HART H-F AE`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * would `WO`
 * do `TKO`
 * me `PHE`
@@ -120,7 +123,7 @@
 * tell `TEL`
 * you,' `U KW-BG AE`
 * merchant. `PHEFRPBT TP-PL`
-* 'Who `AE WHO`
+* 'Who `AE KPA/WHO`
 * knows `TPHOEZ`
 * may?' `PHAE H-F AE`
 * man: `PHAPB STPH-FPLT`
@@ -134,6 +137,7 @@
 * be `-B`
 * some `SOPL`
 * use.' `AOUS TP-PL AE`
+* Then `KPA/THEPB`
 * told `TOLD`
 * how `HOU`
 * wealth `W*ELT`
@@ -141,7 +145,7 @@
 * bottom `PWOPLT`
 * sea, `SAE KW-BG`
 * land. `HRAPBD TP-PL`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * trouble `TRUBL`
 * not `TPHOT`
 * yourself `KWRO*URS`
@@ -164,6 +168,7 @@
 * give `TKPWEUF`
 * much `PHUFP`
 * please.' `PHRES TP-PL AE`
+* The `KPA/-T`
 * thought `THAUT`
 * this `TH`
 * thing `THEUPBG`
@@ -185,6 +190,7 @@
 * bond `PWOPBD`
 * asked `SK-D`
 * him. `HEUPL TP-PL`
+* But `KPA/PWUT`
 * drew `TKRAOU`
 * near `TPHAOER`
 * glad `TKPWHRAD`
@@ -224,6 +230,7 @@
 * should `SHO`
 * bearer, `PWAER/*ER KW-BG`
 * in. `TPH TP-PL`
+* About `KPA/PW`
 * month `PHO*PBT`
 * afterwards `A*FRDZ`
 * upstairs `UP/STA*EURS`
@@ -243,6 +250,7 @@
 * pile `PAOEUL`
 * lying `HRAOEUG`
 * floor. `TPHRAOR TP-PL`
+* At `KPA/AT`
 * sight `SAOEUT`
 * overjoyed, `AUFR/SKWROEUD KW-BG`
 * forgetting `TPERGT/-G`
@@ -251,7 +259,7 @@
 * richer `REUFP/*ER`
 * than `THAPB`
 * before. `PW-F TP-PL`
-* Meantime `PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAO*EPB/TAOEUPL`
 * Heinel `xxx Heinel`
 * grew `TKPWRAOU`
 * up, `UP KW-BG`
@@ -269,7 +277,7 @@
 * matter, `PHAERT KW-BG`
 * time; `TAOEUPL STPH*FPLT`
 * last, `HRAFT KW-BG`
-* However, `HOUF KW-BG`
+* however, `HOUF KW-BG`
 * had, `H KW-BG`
 * without `WOUT`
 * knowing `TPHOEG`
@@ -283,11 +291,12 @@
 * keep `KAOEP`
 * word. `WORD TP-PL`
 * said, `SAEUD KW-BG`
-* 'Father, `AE TPAER KW-BG`
+* 'Father, `AE KPA/TPAER KW-BG`
 * that; `THA STPH*FPLT`
 * shall `SHAL`
 * too `TAO`
 * man.' `PHAPB TP-PL AE`
+* When `KPA/WHEPB`
 * time `TAOEUPL`
 * son `SOPB`
 * out `OUT`
@@ -311,12 +320,13 @@
 * jump `SKWRUFRP`
 * over `OEFR`
 * last `HRAFT`
-* 'Have `AE SR`
+* 'Have `AE KPA/SR`
 * anything `TPHEUG`
 * say `SAEU`
 * us, `US KW-BG`
 * my `PHEU`
 * want?' `WAPBT H-F AE`
+* Now `KPA/TPHOU`
 * found `TPOUPBD`
 * friend `TPREPBD`
 * fairy, `TPAEUR/REU KW-BG`
@@ -329,6 +339,7 @@
 * would?' `WO H-F AE`
 * held `HELD`
 * tongue, `TUPBG KW-BG`
+* 'What `AE KPA/WHA`
 * want `WAPBT`
 * here?' `HAOER H-F AE`
 * 'I `AE EU`
@@ -336,7 +347,7 @@
 * talk `TAUBG`
 * father, `TPAER KW-BG`
 * you.' `U TP-PL AE`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * have `SR`
 * cheated `KHAOETD`
 * taken `TAEPB`
@@ -344,7 +355,7 @@
 * son; `SOPB STPH*FPLT`
 * 'pray `AE PRAEU`
 * once.' `WUPBS TP-PL AE`
-* 'Fair `AE TPAEUR`
+* 'Fair `AE KPA/TPAEUR`
 * softly,' `SOFT/HREU KW-BG AE`
 * man; `PHAPB STPH*FPLT`
 * 'right `AE RAOEUT`
@@ -390,7 +401,7 @@
 * seemed `SAOEPLD`
 * anxious `KPUS`
 * company. `K-P TP-PL`
-* So, `SO KW-BG`
+* So, `KPA/SO KW-BG`
 * make `PHAEUBG`
 * sort `SORT`
 * drawn `TKRAUPB`
@@ -405,6 +416,7 @@
 * by; `PWEU STPH*FPLT`
 * push `PURB`
 * off `OF`
+* thus `THUS`
 * adrift, `A/TKREUFT KW-BG`
 * bad `PWAD`
 * wind `WEUPBD`
@@ -440,6 +452,7 @@
 * ran `RAPB`
 * ashore `A/SHOR`
 * unknown `UPB/TPHOEPB`
+* As `KPA/AZ`
 * jumped `SKWR*UPLD`
 * shore `SHOR`
 * beautiful `PWAOUFL`
@@ -447,11 +460,12 @@
 * empty `EPLT`
 * dreary `TKRAOE/REU`
 * enchanted. `EPB/HAPBT/-D TP-PL`
-* 'Here,' `AE HAOER KW-BG AE`
+* 'Here,' `AE KPA/HAOER KW-BG AE`
 * himself, `H*EUPLS KW-BG`
 * 'must `AE PHUFT`
 * prize `PRAOEUZ`
 * of.' `-F TP-PL AE`
+* So `KPA/SO`
 * more `PHOR`
 * searched `SEFRPBD`
 * whole `WHOEL`
@@ -466,8 +480,9 @@
 * enchanted `EPB/HAPBT/-D`
 * princess; `PREUPB/ES STPH*FPLT`
 * she `SHE`
-* 'Are `AE R`
+* 'Are `AE KPA/R`
 * free? `TPRAOE H-F`
+* Twelve `KPA/TWEFL`
 * waited `WAEUTD`
 * here `HAOER`
 * hither `H*EURT`
@@ -476,6 +491,7 @@
 * can `K`
 * save `SAF`
 * me. `PHE TP-PL`
+* This `KPA/TH`
 * night `TPHAOEUT`
 * men `PHEPB`
 * come: `KOPL STPH-FPLT`
@@ -485,6 +501,7 @@
 * dressed `TKREFD`
 * chain `KHAEUPB`
 * armour. `AR/PHOUR TP-PL`
+* They `KPA/THE`
 * ask `SK`
 * answer; `AEPBS STPH*FPLT`
 * them `THEPL`
@@ -512,12 +529,13 @@
 * power `POUR`
 * gone, `TKPWOPB KW-BG`
 * free, `TPRAOE KW-BG`
-* Water `WAUR`
-* Life, `HRAOEUF KW-BG`
+* Water `KPA/WAUR`
+* Life, `KPA/HRAOEUF KW-BG`
 * wash `WARB`
 * back `PWABG`
 * life `HRAOEUF`
 * health.' `H*ELT TP-PL AE`
+* And `AFPBD`
 * pass `PAS`
 * said; `SAEUD STPH*FPLT`
 * bore `PWOR`
@@ -527,7 +545,7 @@
 * princess `PREUPB/ES`
 * neck `TPHEBG`
 * kissed `K*EUFD`
-* Joy `SKWROEU`
+* Joy `KPA/SKWROEU`
 * gladness `TKPWHRAD/-PBS`
 * burst `PWUFRT`
 * forth `TPO*RT`
@@ -537,8 +555,8 @@
 * celebrated, `SEL/PWRAEUT/-D KW-BG`
 * crowned `KROUPBD`
 * king `KEUPBG`
-* Golden `TKOELD/*EPB`
-* Mountain. `PHOUPB/TAEUPB TP-PL`
+* Golden `KPA/TKOELD/*EPB`
+* Mountain. `KPA/PHOUPB/TAEUPB TP-PL`
 * lived `HREUFD`
 * happily, `HAP/HREU KW-BG`
 * queen `KWAOEPB`
@@ -554,12 +572,13 @@
 * well `WEL`
 * misfortunes `PHEUS/TPOR/TAOUPB/-S`
 * go.' `TKPW TP-PL AE`
+* However, `KPA/HOUF KW-BG`
 * gave `TKPWAEUF`
 * rest `REFT`
 * agreed. `TKPWRAED TP-PL`
 * away `A/WAEU`
 * wishing-ring, `WEURBG H-PB REUPBG KW-BG`
-* 'Take `AE TAEUBG`
+* 'Take `AE KPA/TAEUBG`
 * ring, `REUPBG KW-BG`
 * finger; `TPURPBG STPH*FPLT`
 * wish `WEURB`
@@ -600,12 +619,12 @@
 * king, `KEUPBG KW-BG`
 * still `STEUL`
 * vowed `SROUD`
-* 'Is `AE S`
+* 'Is `AE KPA/S`
 * mark `PHARBG`
 * am `APL`
 * really `R-L`
 * son?' `SOPB H-F AE`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * mother, `PHOER KW-BG`
 * 'our `AE OUR`
 * raspberry `RAZ/PWER/REU`
@@ -614,7 +633,7 @@
 * mark, `PHARBG KW-BG`
 * true. `TRAOU TP-PL`
 * next `TPHEGT`
-* Mountain, `PHOUPB/TAEUPB KW-BG`
+* Mountain, `KPA/PHOUPB/TAEUPB KW-BG`
 * married `PHAERD`
 * princess, `PREUPB/ES KW-BG`
 * seven `SEFPB`
@@ -628,6 +647,7 @@
 * frock!' `TPROBG SKHRAPL AE`
 * vexed; `SREBGS/-D STPH*FPLT`
 * turned `TURPBD`
+* In `KPA/TPH`
 * instant `STPHAPBT`
 * him; `HEUPL STPH*FPLT`
 * wept, `WEPT KW-BG`
@@ -676,7 +696,7 @@
 * sharing `SHAEURG`
 * goods; `TKPWAODZ STPH*FPLT`
 * cried `KRAOEUD`
-* 'Little `AE HREUL`
+* 'Little `AE KPA/HREUL`
 * sharp `SHARP`
 * wits; `WEUT/-S STPH*FPLT`
 * part `PART`
@@ -688,7 +708,7 @@
 * whenever `WHEFR`
 * wearer `WAER/*ER`
 * words, `WORDZ KW-BG`
-* 'Heads `AE HEDZ`
+* 'Heads `AE KPA/HEDZ`
 * off!'; `OF SKHRAPL AE STPH*FPLT`
 * cloak `KHROEBG`
 * owner `OERPB`
@@ -710,17 +730,17 @@
 * fly, `TPHRAOEU KW-BG`
 * moment `PHOEPLT`
 * fly. `TPHRAOEU TP-PL`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * well,' `WEL KW-BG AE`
 * he: `HE STPH-FPLT`
 * 'now `AE TPHOU`
 * sword.' `SOERD TP-PL AE`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * they; `THE STPH*FPLT`
 * 'not `AE TPHOT`
 * unless `TPH-LS`
 * say, `SAEU KW-BG`
-* "Heads `KR-GS HEDZ`
+* "Heads `KR-GS KPA/HEDZ`
 * off!" `OF SKHRAPL KR-GS`
 * we `WE`
 * are `R`
@@ -730,7 +750,7 @@
 * tree. `TRAOE TP-PL`
 * also; `HR-S STPH*FPLT`
 * power, `POUR KW-BG`
-* Mountain; `PHOUPB/TAEUPB STPH*FPLT`
+* Mountain; `KPA/PHOUPB/TAEUPB STPH*FPLT`
 * once. `WUPBS TP-PL`
 * share `SHAEUR`
 * quarrel `KWARL`
@@ -767,30 +787,32 @@
 * cup `KUP`
 * always `AULS`
 * empty. `EPLT TP-PL`
+* Upon `KPA/POPB`
 * this, `TH KW-BG`
 * remorse `RE/PHORS`
 * chamber `KHAEURPL`
 * weeping; `WAOEP/-G STPH*FPLT`
 * there. `THR TP-PL`
-* 'Alas!' `AE A/HRAS SKHRAPL AE`
+* 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * herself, `H*ERS KW-BG`
 * 'was `AE WAS`
+* Why `KPA/KWR`
 * does `TKOS`
 * enchantment `EPB/KHAPLT`
 * seem `SAOEPL`
 * bind `PWEUPBD`
 * me?' `PHE H-F AE`
-* 'False `AE TPALS`
+* 'False `AE KPA/TPALS`
 * fickle `TPEUBG/*L`
 * one!' `WUPB SKHRAPL AE`
 * he. `HE TP-PL`
-* 'One `AE WUPB`
+* 'One `AE KPA/WUPB`
 * indeed `TPHAOEPBD`
 * thee `THAOE`
 * again; `TKPWEPB STPH*FPLT`
 * used `AOUFD`
 * him? `HEUPL H-F`
-* Ought `OT`
+* Ought `KPA/OT`
 * such `SUFP`
 * treatment `TRAOEPL`
 * thee?' `THAOE H-F AE`
@@ -808,7 +830,7 @@
 * tried `TRAOEUD`
 * seize `SAOEZ`
 * sword. `SOERD TP-PL`
-* Off!' `OF SKHRAPL AE`
+* Off!' `KPA/OF SKHRAPL AE`
 * word `WORD`
 * traitors' `TRAEUT/TORS AE`
 * heads `HEDZ`

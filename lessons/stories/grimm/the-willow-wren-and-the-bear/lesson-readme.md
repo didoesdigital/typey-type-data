@@ -1,6 +1,6 @@
 # The Willow-Wren and the Bear
 
-* once `WUPBS`
+* Once `KPA/WUPBS`
 * in `TPH`
 * summer-time `SAOURPL H-PB TAOEUPL`
 * the `-T`
@@ -14,20 +14,20 @@
 * a `AEU`
 * bird `PWEURD`
 * singing `SEUPBG/-G`
-* So `SO`
+* so `SO`
 * beautifully `PWAOUFL/HREU`
 * that `THA`
 * he `HE`
 * said: `SAEUD STPH-FPLT`
-* 'Brother `AE PWROER`
+* 'Brother `AE KPA/PWROER`
 * wolf, `WOFL KW-BG`
 * what `WHA`
 * is `S`
 * it `T`
 * sings `SEUPBGS`
 * well?' `WEL H-F AE`
-* 'That `AE THA`
-* King `KEUPBG`
+* 'That `AE KPA/THA`
+* King `KO*EUPBG`
 * of `-F`
 * birds,' `PWEURDZ KW-BG AE`
 * said `SAEUD`
@@ -37,10 +37,11 @@
 * must `PHUFT`
 * bow `PWOE`
 * down.' `TKOUPB TP-PL AE`
+* In `KPA/TPH`
 * reality `RAOELT`
 * was `WAS`
 * willow-wren. `WEUL/HROE H-PB WREPB TP-PL`
-* 'IF `AE TP`
+* 'IF `AE KPA/TP`
 * that's `THATS`
 * case,' `KAEUS KW-BG AE`
 * bear, `PWAER KW-BG`
@@ -69,9 +70,9 @@
 * 'you `AE U`
 * wait `WAEUT`
 * until `TPH-L`
-* Queen `KWAOEPB`
+* Queen `KWAO*EPB`
 * comes,' `KOPLS KW-BG AE`
-* Soon `SAOPB`
+* Soon `KPA/SAOPB`
 * afterwards, `A*FRDZ KW-BG`
 * arrived `A/REUFD`
 * with `W`
@@ -88,23 +89,25 @@
 * their `THAEUR`
 * young `KWRUPBG`
 * ones. `WUPBZ TP-PL`
+* The `KPA/-T`
 * would `WO`
 * have `SR`
 * liked `HRAOEUBGD`
 * go `TKPW`
 * at `AT`
 * once, `WUPBS KW-BG`
-* But `PWUT`
+* but `PWUT`
 * held `HELD`
 * him `HEUPL`
 * back `PWABG`
 * by `PWEU`
 * sleeve, `SHRAOEF KW-BG`
-* 'No, `AE TPHO KW-BG`
+* 'No, `AE KPA/TPHO KW-BG`
 * lady `HRA*ED`
 * gone `TKPWOPB`
 * away `A/WAEU`
 * again.' `TKPWEPB TP-PL AE`
+* So `KPA/SO`
 * took `TAOBG`
 * stock `STOBG`
 * hole `HOEL`
@@ -119,7 +122,7 @@
 * had `H`
 * seen `SAOEPB`
 * palace, `PAL/AS KW-BG`
-* When `WHEPB`
+* when `WHEPB`
 * short `SHORT`
 * time `TAOEUPL`
 * passed, `PAFD KW-BG`
@@ -136,27 +139,29 @@
 * ones `WUPBZ`
 * lying `HRAOEUG`
 * there. `THR TP-PL`
-* 'Is `AE S`
+* 'Is `AE KPA/S`
 * palace?' `PAL/AS H-F AE`
 * cried `KRAOEUD`
 * bear; `PWAER STPH*FPLT`
 * 'it `AE T`
 * wretched `KREFPD`
 * are `R`
-* King's `KEUPBG AES`
+* King's `KO*EUPBG AES`
 * children, `KHEURPB KW-BG`
 * disreputable `TKEUS/REPT/-BL`
 * children!' `KHEURPB SKHRAPL AE`
+* When `KPA/WHEPB`
 * wrens `WREPB/-S`
 * that, `THA KW-BG`
 * frightfully `TPRAOEUT/-FL/HREU`
 * angry, `APBG/REU KW-BG`
 * screamed: `SKRAOEPLD STPH-FPLT`
 * not! `TPHOT SKHRAPL`
-* Our `OUR`
+* Our `KPA/OUR`
 * parents `PARPBTS`
 * honest `HO*PBS`
 * people! `PAOEPL SKHRAPL`
+* Bear, `KPA/PWAER KW-BG`
 * will `HR`
 * pay `PAEU`
 * for `TPOR`
@@ -172,7 +177,7 @@
 * scream, `SKRAOEPL KW-BG`
 * again `TKPWEPB`
 * brought `PWRAUT`
-* 'We `AE WE`
+* 'We `AE KPA/WE`
 * touch `TUFP`
 * one `WUPB`
 * fly's `TPHRAOEU AES`
@@ -191,29 +196,31 @@
 * here `HAOER`
 * insulted `EUPB/SULT/-D`
 * us!' `US SKHRAPL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * old `OLD`
-* 'Be `AE -B`
+* 'Be `AE KPA/-B`
 * easy, `EZ KW-BG`
 * shall `SHAL`
 * be `-B`
 * punished,' `PUPBD KW-BG AE`
+* once `WUPBS`
 * flew `TPHRAOU`
 * bear's `PWAER AES`
 * cave, `KAF KW-BG`
 * called `KAULD`
 * in: `TPH STPH-FPLT`
-* 'Old `AE OLD`
-* Growler, `TKPWROUL/*ER KW-BG`
+* 'Old `AE KPA/OLD`
+* Growler, `xxx Growler KW-BG`
 * why `KWR`
 * my `PHEU`
 * children? `KHEURPB H-F`
+* You `KPA/U`
 * suffer `SUFR`
 * it--we `T H-PB H-PB WE`
 * punish `P-RB`
 * bloody `PWHRAO/TKEU`
 * war.' `WAR TP-PL AE`
-* Thus `THUS`
+* Thus `KPA/THUS`
 * war `WAR`
 * announced `A/TPHOUPBS/-D`
 * all `AUL`
@@ -231,6 +238,7 @@
 * animal `PHAPBL`
 * earth `*ERT`
 * contained. `TAEUPBD TP-PL`
+* And `AFPBD`
 * willow-wren `WEUL/HROE H-PB WREPB`
 * everything `EFG`
 * which `WEU`
@@ -265,23 +273,23 @@
 * tree `TRAOE`
 * password `PAS/WORD`
 * announced. `A/TPHOUPBS/-D TP-PL`
-* There `THR`
+* There `KPA/THR`
 * stood `STAOD`
 * fox `TPOBGS`
 * before `PW-F`
-* 'Fox, `AE TPOBGS KW-BG`
+* 'Fox, `AE KPA/TPOBGS KW-BG`
 * cunning `KUPBG`
 * animals, `PHAPBLS KW-BG`
 * general `SKWREPBL`
 * lead `HRAED`
 * us.' `US TP-PL AE`
-* 'Good,' `AE TKPWAOD KW-BG AE`
+* 'Good,' `AE KPA/TKPWAOD KW-BG AE`
 * fox, `TPOBGS KW-BG`
 * 'but `AE PWUT`
 * signal `STPHAL`
 * agree `TKPWRAE`
 * upon?' `POPB H-F AE`
-* no `TPHO`
+* No `KPA/TPHO`
 * knew `TPHAOU`
 * fine `TPAOEUPB`
 * long `HROPBG`
@@ -338,6 +346,7 @@
 * against `TKPWEPBS`
 * each `AOEFP`
 * other. `OER TP-PL`
+* But `KPA/PWUT`
 * hornet, `HORPBT KW-BG`
 * orders `ORDZ`
 * settle `S*ELT`
@@ -363,6 +372,7 @@
 * moment; `PHOEPLT STPH*FPLT`
 * third, `THEURD KW-BG`
 * hold `HOLD`
+* no `TPHO`
 * longer, `HRORPBG KW-BG`
 * screamed, `SKRAOEPLD KW-BG`
 * between `TWAOEPB`
@@ -376,7 +386,7 @@
 * battle. `PWA*LT TP-PL`
 * home `HOEPL`
 * cried: `KRAOEUD STPH-FPLT`
-* 'Children, `AE KHEURPB KW-BG`
+* 'Children, `AE KPA/KHEURPB KW-BG`
 * rejoice, `RE/SKWROEUS KW-BG`
 * eat `AOET`
 * drink `TKREU`
@@ -393,7 +403,7 @@
 * honourable `HO*UPB/RABL`
 * do `TKO`
 * that.' `THA TP-PL AE`
-* 'Growler, `AE TKPWROUL/*ER KW-BG`
+* 'Growler, `AE xxx Growler KW-BG`
 * pardon, `PARD KW-BG`
 * else `ELS`
 * rib `REUB`

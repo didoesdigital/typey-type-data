@@ -1,6 +1,6 @@
 # The Three Languages
 
-* an `APB`
+* An `KPA/APB`
 * aged `AEUGD`
 * count `KOUPBT`
 * once `WUPBS`
@@ -9,6 +9,7 @@
 * Switzerland, `SWEUZ/HRAPBD KW-BG`
 * who `WHO`
 * had `H`
+* an `APB`
 * only `OEPBL`
 * son, `SOPB KW-BG`
 * but `PWUT`
@@ -19,11 +20,11 @@
 * could `KO`
 * learn `HRERPB`
 * nothing. `TPHOG TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * said `SAEUD`
 * the `-T`
 * father: `TPAER STPH-FPLT`
-* 'Hark `AE HARBG`
+* 'Hark `AE KPA/HARBG`
 * you, `U KW-BG`
 * my `PHEU`
 * try `TREU`
@@ -36,12 +37,13 @@
 * into `TPHAO`
 * your `KWROUR`
 * head. `HED TP-PL`
-* you `U`
+* You `KPA/U`
 * must `PHUFT`
 * go `TKPW`
 * from `TPR`
 * hence, `HEPBS KW-BG`
 * give `TKPWEUF`
+* you `U`
 * care `KAEUR`
 * of `-F`
 * a `AEU`
@@ -53,6 +55,7 @@
 * do `TKO`
 * with `W`
 * you.' `U TP-PL AE`
+* The `KPA/-T`
 * youth `KWRAO*UT`
 * sent `SEPBT`
 * strange `STRAEUPBG`
@@ -61,7 +64,7 @@
 * whole `WHOEL`
 * year `KWRAOER`
 * master. `PHAFRT TP-PL`
-* at `AT`
+* At `KPA/AT`
 * end `EPBD`
 * this `TH`
 * time, `TAOEUPL KW-BG`
@@ -71,17 +74,17 @@
 * his `HEUS`
 * father `TPAER`
 * asked: `SK-D STPH-FPLT`
-* 'Now, `AE TPHOU KW-BG`
+* 'Now, `AE KPA/TPHOU KW-BG`
 * have `SR`
 * learnt?' `HRERPBT/A*U H-F AE`
-* 'Father, `AE TPAER KW-BG`
+* 'Father, `AE KPA/TPAER KW-BG`
 * learnt `HRERPBT/A*U`
 * dogs `TKOGS`
 * say `SAEU`
 * when `WHEPB`
-* They `THE`
+* they `THE`
 * bark.' `PWARBG TP-PL AE`
-* 'Lord `AE HRORD`
+* 'Lord `AE HRO*RD`
 * mercy `PHER/SEU`
 * on `OPB`
 * us!' `US SKHRAPL AE`
@@ -100,16 +103,18 @@
 * stayed `STAEUD`
 * master `PHAFRT`
 * likewise. `HRAOEUBG/WAOEUS TP-PL`
+* When `KPA/WHEPB`
 * back `PWABG`
 * again `TKPWEPB`
-* 'My `AE PHEU`
+* 'My `AE KPA/PHEU`
+* He `KPA/HE`
 * answered: `AEPBS/-D STPH-FPLT`
 * birds `PWEURDZ`
 * say.' `SAEU TP-PL AE`
 * fell `TPEL`
 * rage `RAEUPBLG`
 * said: `SAEUD STPH-FPLT`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * lost `HRO*S`
 * man, `PHAPB KW-BG`
 * spent `SPEPBT`
@@ -130,7 +135,7 @@
 * be `-B`
 * father.' `TPAER TP-PL AE`
 * inquired: `EUPB/KWAOEURD STPH-FPLT`
-* 'Dear `AE TKAER`
+* 'Dear `AE KPA/TKAER`
 * father, `TPAER KW-BG`
 * frogs `TPROGS`
 * croak.' `KROEBG TP-PL AE`
@@ -141,7 +146,7 @@
 * up, `UP KW-BG`
 * called `KAULD`
 * people `PAOEPL`
-* 'This `AE TH`
+* 'This `AE KPA/TH`
 * man `PHAPB`
 * is `S`
 * drive `KRAOEUF`
@@ -153,6 +158,7 @@
 * forest, `TPOEFRT KW-BG`
 * kill `KEUL`
 * him.' `HEUPL TP-PL AE`
+* They `KPA/THE`
 * took `TAOBG`
 * should `SHO`
 * killed `KEULD`
@@ -173,14 +179,14 @@
 * token. `TO*EPB TP-PL`
 * wandered `WAPBD/-D`
 * on, `OPB KW-BG`
-* After `AF`
+* after `AF`
 * some `SOPL`
 * fortress `TPORT/RES`
 * where `W-R`
 * begged `PWEGD`
 * night's `TPHAOEUT AES`
 * lodging. `HROPBLG/-G TP-PL`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * lord `HRORD`
 * castle, `KAFL KW-BG`
 * 'if `AE TP`
@@ -191,6 +197,7 @@
 * tower, `TOUR KW-BG`
 * thither; `TH*EURT STPH*FPLT`
 * warn `WARPB`
+* at `AT`
 * peril `P*ERL`
 * life, `HRAOEUF KW-BG`
 * full `TPUL`
@@ -220,7 +227,7 @@
 * youth, `KWRAO*UT KW-BG`
 * however, `HOUF KW-BG`
 * fear, `TPAOER KW-BG`
-* 'Just `AE SKWRUFT`
+* 'Just `AE KPA/SKWRUFT`
 * me `PHE`
 * barking `PWARBG/-G`
 * something `S-G`
@@ -228,6 +235,7 @@
 * them; `THEPL STPH*FPLT`
 * harm `HARPL`
 * me.' `PHE TP-PL AE`
+* As `KPA/AZ`
 * himself `H*EUPLS`
 * would `WO`
 * so, `SO KW-BG`
@@ -249,14 +257,14 @@
 * set `SET`
 * hurt `HURT`
 * hair `HAEUR`
-* Next `TPHEGT`
+* Next `KPA/TPHEGT`
 * morning, `PHORPBG KW-BG`
 * astonishment `AS/TOPB/SH-PLT`
 * everyone, `EFRPB KW-BG`
 * safe `SAEUF`
 * unharmed, `xxx unharmed KW-BG`
 * castle: `KAFL STPH-FPLT`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * revealed `RE/SRAOELD`
 * me, `PHE KW-BG`
 * own `OEPB`
@@ -303,9 +311,11 @@
 * country `KREU`
 * freed `TPRAOED`
 * trouble. `TRUBL TP-PL`
+* After `KPA/AF`
 * head `HED`
 * travel `TRAFL`
 * Rome. `RO*EPL TP-PL`
+* On `KPA/OPB`
 * way `WAEU`
 * passed `PAFD`
 * by `PWEU`
@@ -325,7 +335,7 @@
 * last `HRAFT`
 * arrived `A/REUFD`
 * Rome, `RO*EPL KW-BG`
-* pope `POEP`
+* Pope `PO*EP`
 * just `SKWRUFT`
 * died, `TKAOEUD KW-BG`
 * doubt `TKOUT`
@@ -337,9 +347,11 @@
 * agreed `TKPWRAED`
 * person `PERPB`
 * chosen `KHOEFPB`
+* pope `POEP`
 * distinguished `STKPWAOURBD`
 * divine `TKWAOEUB`
 * miraculous `PHAR/ABG/HROUS`
+* And `AFPBD`
 * decided `STKAOEUD/-D`
 * young `KWRUPBG`
 * entered `SPWR-D`
@@ -358,7 +370,7 @@
 * above, `PWOF KW-BG`
 * asked `SK-D`
 * spot `SPOT`
-* Pope. `POEP TP-PL`
+* pope. `POEP TP-PL`
 * undecided, `UPB/STKAOEUD/-D KW-BG`
 * worthy `WO*RT/KWREU`
 * this, `TH KW-BG`
@@ -372,7 +384,8 @@
 * way, `WAEU KW-BG`
 * so `SO`
 * affected `A/TPEBGD`
-* Holiness `HOE/HREU/*PBS`
+* Holiness `KPA/HOE/HREU/*PBS`
+* Pope. `PO*EP TP-PL`
 * sing `SEUPBG`
 * mass, `PHAS KW-BG`
 * know `TPHOE`

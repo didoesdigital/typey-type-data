@@ -1,6 +1,6 @@
 # Ashputtel
 
-* the `-T`
+* The `KPA/-T`
 * wife `WAOEUF`
 * of `-F`
 * a `AEU`
@@ -23,7 +23,7 @@
 * to `TO`
 * bed-side, `PWED H-PB SAOEUD KW-BG`
 * said, `SAEUD KW-BG`
-* 'Always `AE AULS`
+* 'Always `AE KPA/AULS`
 * be `-B`
 * good `TKPWAOD`
 * girl, `TKPWEURL KW-BG`
@@ -36,7 +36,7 @@
 * watch `WAFP`
 * over `OEFR`
 * you.' `U TP-PL AE`
-* soon `SAOPB`
+* Soon `KPA/SAOPB`
 * afterwards `A*FRDZ`
 * shut `SHUT`
 * eyes `AO*EUS`
@@ -44,6 +44,7 @@
 * was `WAS`
 * buried `PWUR/EUD`
 * in `TPH`
+* the `-T`
 * garden; `TKPWA*RPB STPH*FPLT`
 * little `HREUL`
 * girl `TKPWEURL`
@@ -57,13 +58,14 @@
 * all `AUL`
 * about `PW`
 * her. `HER TP-PL`
+* And `AFPBD`
 * snow `STPHOE`
 * spread `SPRED`
 * beautiful `PWAOUFL`
 * white `WHAOEUT`
 * covering `KOFRG`
 * grave; `TKPWRAEUF STPH*FPLT`
-* But `PWUT`
+* but `PWUT`
 * by `PWEU`
 * time `TAOEUPL`
 * spring `SPREUPBG`
@@ -78,7 +80,7 @@
 * married `PHAERD`
 * another `TPHOER`
 * wife. `WAOEUF TP-PL`
-* this `TH`
+* This `KPA/TH`
 * new `TPHU`
 * two `TWO`
 * daughters `TKAURS`
@@ -94,12 +96,12 @@
 * foul `TPOUL`
 * at `AT`
 * heart, `HART KW-BG`
-* Now `TPHOU`
+* now `TPHOU`
 * sorry `SOER`
-* For `TPOR`
+* for `TPOR`
 * poor `PAOR`
 * girl. `TKPWEURL TP-PL`
-* 'what `AE WHA`
+* 'What `AE KPA/WHA`
 * does `TKOS`
 * good-for-nothing `TKPWAOD H-PB TPOR H-PB TPHOG`
 * want `WAPBT`
@@ -116,7 +118,7 @@
 * earn `ERPB`
 * it; `T STPH*FPLT`
 * kitchen-maid!' `K-FP H-PB PHAEUD SKHRAPL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * took `TAOBG`
 * fine `TPAOEUPB`
 * clothes, `KHRO*ETS KW-BG`
@@ -132,14 +134,14 @@
 * turned `TURPBD`
 * into `TPHAO`
 * kitchen. `K-FP TP-PL`
-* there `THR`
+* There `KPA/THR`
 * forced `TPOFRD`
 * do `TKO`
 * hard `HARD`
 * work; `WORBG STPH*FPLT`
 * rise `RAOEUZ`
 * early `ERL`
-* Before `PW-F`
+* before `PW-F`
 * daylight, `TKAEULT KW-BG`
 * bring `PWREU`
 * water, `WAUR KW-BG`
@@ -147,12 +149,13 @@
 * fire, `TPAOEUR KW-BG`
 * cook `KAOBG`
 * wash. `WARB TP-PL`
-* Besides `PW-DZ`
+* Besides `KPA/PW-DZ`
 * that, `THA KW-BG`
 * sisters `ST-RS`
 * plagued `PHRAEUG/-D`
 * sorts `SORTS`
 * ways, `WAEUS KW-BG`
+* In `KPA/TPH`
 * evening `AOEPBG`
 * tired, `TAOEURD KW-BG`
 * no `TPHO`
@@ -168,6 +171,7 @@
 * dusty `TKUS/TEU`
 * dirty, `TKOEURT KW-BG`
 * Ashputtel. `xxx Ashputtel TP-PL`
+* It `KPA/T`
 * happened `HAPD`
 * once `WUPBS`
 * going `TKPW-G`
@@ -178,20 +182,21 @@
 * what `WHA`
 * he `HE`
 * them. `THEPL TP-PL`
-* 'Fine `AE TPAOEUPB`
+* 'Fine `AE TPAO*EUPB`
 * clothes,' `KHRO*ETS KW-BG AE`
 * first; `TPEUFRT STPH*FPLT`
-* 'Pearls `AE PERLS`
+* 'Pearls `AE KPA/PERLS`
 * diamonds,' `TKAOEUPLDZ KW-BG AE`
 * cried `KRAOEUD`
 * second. `SEBGD TP-PL`
-* 'Now, `AE TPHOU KW-BG`
+* 'Now, `AE KPA/TPHOU KW-BG`
 * child,' `KHAOEULD KW-BG AE`
 * own `OEPB`
 * daughter, `TKAUR KW-BG`
+* 'what `AE WHA`
 * you `U`
 * have?' `SR H-F AE`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * twig, `TWEUG KW-BG`
 * dear `TKAER`
 * father, `TPAER KW-BG`
@@ -235,12 +240,14 @@
 * much `PHUFP`
 * watered `WAURD`
 * tears; `TAERS STPH*FPLT`
+* there `THR`
 * grew `TKPWRAOU`
 * became `PWAEUPL`
 * tree. `TRAOE TP-PL`
-* three `THRAOE`
+* Three `KPA/THRAOE`
 * times `TAOEUPLS`
 * cried; `KRAOEUD STPH*FPLT`
+* soon `SAOPB`
 * bird `PWEURD`
 * came `KAEUPL`
 * built `PWEULT`
@@ -253,12 +260,14 @@
 * whatever `WHAF`
 * wished `WEURBD`
 * for. `TPOR TP-PL`
+* Now `KPA/TPHOU`
 * king `KEUPBG`
 * land `HRAPBD`
 * held `HELD`
 * feast, `TPAOEFT KW-BG`
 * which `WEU`
 * last `HRAFT`
+* three `THRAOE`
 * days; `TKAEUS STPH*FPLT`
 * out `OUT`
 * those `THOZ`
@@ -301,7 +310,7 @@
 * very `SRE`
 * let `HRET`
 * go. `TKPW TP-PL`
-* 'You, `AE U KW-BG`
+* 'You, `AE KPA/U KW-BG`
 * Ashputtel!' `xxx Ashputtel SKHRAPL AE`
 * she; `SHE STPH*FPLT`
 * 'you `AE U`
@@ -320,6 +329,7 @@
 * rid `REUD`
 * 'I `AE EU`
 * throw `THROE`
+* this `TH`
 * dishful `xxx dishful`
 * peas `PAOEZ`
 * ash-heap, `ARB H-PB HAOEP KW-BG`
@@ -338,21 +348,23 @@
 * door `TKAOR`
 * garden, `TKPWA*RPB KW-BG`
 * out: `OUT STPH-FPLT`
-* 'Hither, `AE H*EURT KW-BG`
+* 'Hither, `AE KPA/H*EURT KW-BG`
 * hither, `H*EURT KW-BG`
 * sky, `SKAOEU KW-BG`
-* Turtle-doves `TURLT H-PB TKOFS`
+* Turtle-doves `KPA/TURLT H-PB TKOFS`
 * linnets, `HREUPB/TPHET/-S KW-BG`
 * fly! `TPHRAOEU SKHRAPL`
-* Blackbird, `PWHRABG/PWEURD KW-BG`
+* Blackbird, `KPA/PWHRABG/PWEURD KW-BG`
 * thrush, `THRURB KW-BG`
 * chaffinch `xxx chaffinch`
 * gay, `TKPWAEU KW-BG`
+* Hither, `KPA/H*EURT KW-BG`
 * haste `HAEUFT`
 * away! `A/WAEU SKHRAPL`
-* one `WUPB`
+* One `KPA/WUPB`
 * me, `PHE KW-BG`
 * quick! `KWEUBG SKHRAPL`
+* Haste `KPA/HAEUFT`
 * ye, `KWR*/*E/SP-S KW-BG`
 * ye!--pick, `KWR*/*E/SP-S SKHRAPL H-PB H-PB PEUBG KW-BG`
 * pick, `PEUBG KW-BG`
@@ -379,13 +391,14 @@
 * set `SET`
 * work, `WORBG KW-BG`
 * pick; `PEUBG STPH*FPLT`
+* then `THEPB`
 * others `OERS`
 * began `TKPWAPB`
 * pick: `PEUBG STPH-FPLT`
 * grain, `TKPWRAEUPB KW-BG`
 * dish `TKEURB`
 * left `HREFT`
-* Long `HROPBG`
+* Long `KPA/HROPBG`
 * hour `HOUR`
 * work `WORBG`
 * quite `KWAOEUT`
@@ -396,19 +409,22 @@
 * mother, `PHOER KW-BG`
 * overjoyed `AUFR/SKWROEUD`
 * ball. `PWAUL TP-PL`
-* 'No, `AE TPHO KW-BG`
+* But `KPA/PWUT`
+* 'No, `AE KPA/TPHO KW-BG`
 * no! `TPHO SKHRAPL`
 * slut, `SHRUT KW-BG`
 * dance; `TKAPBS STPH*FPLT`
 * go.' `TKPW TP-PL AE`
 * go, `TKPW KW-BG`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * can `K`
+* one `WUPB`
 * hour's `HOUR AES`
 * pick `PEUBG`
 * dishes `TKEURBS`
 * thus `THUS`
 * least `HRAOEFT`
+* So `KPA/SO`
 * shook `SHAOBG`
 * garden `TKPWA*RPB`
 * house, `HOUS KW-BG`
@@ -417,11 +433,12 @@
 * about. `PW TP-PL`
 * grain `TKPWRAEUPB`
 * dishes, `TKEURBS KW-BG`
+* Before `KPA/PW-F`
 * half `HAF`
 * again. `TKPWEPB TP-PL`
 * rejoicing `RE/SKWROEUFG`
 * think `THEU`
-* 'It `AE T`
+* 'It `AE KPA/T`
 * is `S`
 * use, `AOUS KW-BG`
 * go; `TKPW STPH*FPLT`
@@ -433,12 +450,13 @@
 * sorrowfully `SOR/ROEFL/HREU`
 * sat `SAT`
 * hazel-tree, `HAEUZ/EL H-PB TRAOE KW-BG`
-* 'Shake, `AE SHAEUBG KW-BG`
+* 'Shake, `AE KPA/SHAEUBG KW-BG`
 * shake, `SHAEUBG KW-BG`
-* Gold `TKPWOELD`
+* Gold `KPA/TKPWOELD`
 * silver `SEUL/SRER`
 * me!' `PHE SKHRAPL AE`
 * friend `TPREPBD`
+* gold `TKPWOELD`
 * dress `TKRES`
 * slippers `SHREUP/ERS`
 * spangled `xxx spangled`
@@ -466,10 +484,11 @@
 * anyone `TPHEUPB`
 * else `ELS`
 * ask `SK`
-* 'This `AE TH`
+* 'This `AE KPA/TH`
 * lady `HRA*ED`
 * dancing `TKAPBS/-G`
 * me.' `PHE TP-PL AE`
+* Thus `KPA/THUS`
 * till `T*EUL`
 * late `HRAEUT`
 * night; `TPHAOEUT STPH*FPLT`
@@ -509,6 +528,7 @@
 * lamp `HRAFRP`
 * burning `PWURPBG`
 * chimney. `KHEUPL/TPHEU TP-PL`
+* For `KPA/TPOR`
 * run `RUPB`
 * quickly `KWEULG`
 * taken `TAEPB`
@@ -535,6 +555,7 @@
 * waiting `WAEUGT`
 * hand, `HAPBD KW-BG`
 * before, `PW-F KW-BG`
+* When `KPA/WHEPB`
 * night `TPHAOEUT`
 * here `HAOER`
 * house `HOUS`
@@ -562,7 +583,7 @@
 * sprung `SPRUPBG`
 * pear-tree.' `PAER H-PB TRAOE TP-PL AE`
 * himself, `H*EUPLS KW-BG`
-* 'Can `AE K`
+* 'Can `AE KPA/K`
 * Ashputtel?' `xxx Ashputtel H-F AE`
 * axe `ABGS`
 * brought; `PWRAUT STPH*FPLT`
@@ -587,7 +608,7 @@
 * lose `HRUZ`
 * time'; `TAOEUPL AE STPH*FPLT`
 * but, `PWUT KW-BG`
-* However, `HOUF KW-BG`
+* however, `HOUF KW-BG`
 * though `THOE`
 * such `SUFP`
 * hurry `HUR/REU`
@@ -616,7 +637,7 @@
 * too `TAO`
 * small `SPHAL`
 * knife, `TPHAOEUF KW-BG`
-* 'Never `AE TPHEF`
+* 'Never `AE KPA/TPHEF`
 * mind, `PHAOEUPBD KW-BG`
 * off; `OF STPH*FPLT`
 * queen `KWAOEPB`
@@ -636,11 +657,12 @@
 * branch `PWRAFRPB`
 * dove `TKOF`
 * singing: `SEUPBG/-G STPH-FPLT`
-* 'Back `AE PWABG`
+* 'Back `AE KPA/PWABG`
 * again! `TKPWEPB SKHRAPL`
 * shoe! `SHAOU SKHRAPL`
 * small, `SPHAL KW-BG`
 * you! `U SKHRAPL`
+* Prince! `PR*EUPBS SKHRAPL`
 * prince! `PREUPBS SKHRAPL`
 * thy `THAO*EU`
 * she's `SHAOES`
@@ -676,7 +698,7 @@
 * father; `TPAER STPH*FPLT`
 * 'have `AE SR`
 * daughters?' `TKAURS H-F AE`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * he; `HE STPH*FPLT`
 * 'there `AE THR`
 * here, `HAOER KW-BG`
@@ -691,6 +713,7 @@
 * dare `TKAEUR`
 * show `SHOE`
 * herself.' `H*ERS TP-PL AE`
+* However, `KPA/HOUF KW-BG`
 * washed `WARBD`
 * hands, `HAPBDZ KW-BG`
 * curtsied `xxx curtsied`
@@ -703,9 +726,9 @@
 * frightened, `TPRAOEUPBD KW-BG`
 * pale `PAEL`
 * anger `ARPBG`
-* 'Home! `AE HOEPL SKHRAPL`
+* 'Home! `AE KPA/HOEPL SKHRAPL`
 * home! `HOEPL SKHRAPL`
-* Princess! `PREUPB/ES SKHRAPL`
+* Princess! `KPA/PREUPB/ES SKHRAPL`
 * side!' `SAOEUD SKHRAPL AE`
 * song, `SOPBG KW-BG`
 * flying, `TPHRAOEUG KW-BG`

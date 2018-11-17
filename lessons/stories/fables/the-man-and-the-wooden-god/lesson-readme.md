@@ -1,6 +1,6 @@
 # The Man and the Wooden God
 
-* in `TPH`
+* In `KPA/TPH`
 * the `-T`
 * old `OLD`
 * days `TKAEUS`
@@ -16,14 +16,14 @@
 * them `THEPL`
 * give `TKPWEUF`
 * luck. `HRUBG TP-PL`
-* it `T`
+* It `KPA/T`
 * happened `HAPD`
 * that `THA`
 * a `AEU`
-* Man `PHAPB`
+* Man `KPA/PHAPB`
 * had `H`
 * often `OFPB`
-* Wooden `WAOD/EPB`
+* wooden `WAOD/EPB`
 * idol `AOEUD/OL`
 * he `HE`
 * received `SAOEFD`
@@ -35,30 +35,36 @@
 * never `TPHEF`
 * seemed `SAOEPLD`
 * change. `KHAEUPBG TP-PL`
+* He `KPA/HE`
 * prayed, `PRAEUD KW-BG`
 * still `STEUL`
 * remained `RE/PHAEUPBD`
 * as `AZ`
 * unlucky `UPB/HRUBG/KWREU`
 * ever. `-FR TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * day `TKAEU`
+* in `TPH`
 * greatest `TKPWRAET/EFT`
 * rage `RAEUPBLG`
 * went `WEPBT`
-* God, `TKPWOD KW-BG`
+* Wooden `KPA/WAOD/EPB`
+* God, `TKPWO*D KW-BG`
 * with `W`
+* one `WUPB`
 * blow `PWHROE`
 * swept `SWEPT`
+* it `T`
 * down `TKOUPB`
 * its `EUTS`
 * pedestal. `PED/STAL TP-PL`
+* The `KPA/-T`
 * broke `PWROEBG`
 * two, `TWO KW-BG`
 * what `WHA`
 * did `TK`
 * see? `SAOE H-F`
-* An `APB`
+* An `KPA/APB`
 * immense `EUPL/EPBS`
 * number `TPHUPL`
 * of `-F`

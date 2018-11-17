@@ -1,6 +1,6 @@
 # The Twelve Dancing Princesses
 
-* There `THR`
+* There `KPA/THR`
 * was `WAS`
 * a `AEU`
 * king `KEUPBG`
@@ -9,7 +9,7 @@
 * twelve `TWEFL`
 * beautiful `PWAOUFL`
 * daughters. `TKAURS TP-PL`
-* they `THE`
+* They `KPA/THE`
 * slept `SHREPD`
 * in `TPH`
 * beds `PWEDZ`
@@ -18,6 +18,7 @@
 * room; `RAOPL STPH*FPLT`
 * and `SKP`
 * when `WHEPB`
+* they `THE`
 * went `WEPBT`
 * to `TO`
 * bed, `PWED KW-BG`
@@ -53,7 +54,7 @@
 * or `OR`
 * where `W-R`
 * been. `PW-PB TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * made `PHAED`
 * known `TPHOEPB`
 * land, `HRAPBD KW-BG`
@@ -62,7 +63,7 @@
 * person `PERPB`
 * discover `SKOFR`
 * secret, `SKRET KW-BG`
-* princesses `PREUPB/ES/-S`
+* princesses `PREUPB/SES/-S`
 * night, `TPHAOEUT KW-BG`
 * he `HE`
 * should `SHO`
@@ -89,6 +90,7 @@
 * son `SOPB`
 * soon `SAOPB`
 * came. `KAEUPL TP-PL`
+* He `KPA/HE`
 * well `WEL`
 * entertained, `EPBT/TAEUPBD KW-BG`
 * evening `AOEPBG`
@@ -112,6 +114,7 @@
 * of `-F`
 * left `HREFT`
 * open. `OEP TP-PL`
+* But `KPA/PWUT`
 * fell `TPEL`
 * asleep; `A/HRAOEP STPH*FPLT`
 * awoke `A/WOEBG`
@@ -119,6 +122,7 @@
 * soles `SOELS`
 * full `TPUL`
 * holes. `HOELS TP-PL`
+* The `KPA/-T`
 * same `SAEUPL`
 * thing `THEUPBG`
 * happened `HAPD`
@@ -130,6 +134,7 @@
 * head `HED`
 * cut `KUT`
 * off. `OF TP-PL`
+* After `KPA/AF`
 * him `HEUPL`
 * came `KAEUPL`
 * several `SEFRL`
@@ -138,7 +143,7 @@
 * lost `HRO*S`
 * lives `HREUFS`
 * manner. `PHAERPB TP-PL`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * chanced `KHAPBS/-D`
 * an `APB`
 * old `OLD`
@@ -175,9 +180,10 @@
 * very `SRE`
 * is `S`
 * dance, `TKAPBS KW-BG`
+* then `THEPB`
 * time `TAOEUPL`
 * king.' `KEUPBG TP-PL AE`
-* 'Well,' `AE WEL KW-BG AE`
+* 'Well,' `AE KPA/WEL KW-BG AE`
 * dame, `TKAEUPL KW-BG`
 * 'that `AE THA`
 * hard `HARD`
@@ -200,7 +206,7 @@
 * gave `TKPWAEUF`
 * cloak, `KHROEBG KW-BG`
 * said, `SAEUD KW-BG`
-* 'As `AE AZ`
+* 'As `AE KPA/AZ`
 * on `OPB`
 * become `PW-BG`
 * invisible, `EUPB/SREUBL KW-BG`
@@ -208,6 +214,7 @@
 * follow `TPOL`
 * wherever `W-FR`
 * go.' `TKPW TP-PL AE`
+* When `KPA/WHEPB`
 * soldier `SHRERPBL`
 * heard `HAERD`
 * good `TKPWAOD`
@@ -230,7 +237,7 @@
 * led `HRED`
 * outer `OURT`
 * chamber. `KHAEURPL TP-PL`
-* just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * going `TKPW-G`
 * lie `HRAOEU`
 * down, `TKOUPB KW-BG`
@@ -254,7 +261,7 @@
 * asleep. `A/HRAOEP TP-PL`
 * laughed `HRAFD`
 * heartily; `HART/HREU STPH*FPLT`
-* 'This `AE TH`
+* 'This `AE KPA/TH`
 * fellow `TPO*EUL`
 * too `TAO`
 * done `TKOPB`
@@ -263,7 +270,7 @@
 * lose `HRUZ`
 * life `HRAOEUF`
 * way!' `WAEU SKHRAPL AE`
-* rose `ROEZ`
+* rose `ROES`
 * up `UP`
 * opened `OEPD`
 * drawers `TKRAURS`
@@ -291,9 +298,10 @@
 * mischance `PHEUZ/KHAPBS`
 * befall `PWE/TPAUL`
 * us.' `US TP-PL AE`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * simpleton,' `xxx simpleton KW-BG AE`
 * eldest, `ELD/EFT KW-BG`
+* 'you `AE U`
 * always `AULS`
 * afraid; `A/TPRAEUD STPH*FPLT`
 * forgotten `TPORGTD`
@@ -303,6 +311,7 @@
 * already `HR-R`
 * watched `WAFPD`
 * vain? `SRA*EUPB H-F`
+* And `AFPBD`
 * even `AOEPB`
 * sleeping `SHRAOEPG`
 * draught, `TKRAUFT KW-BG`
@@ -349,7 +358,7 @@
 * princess, `PREUPB/ES KW-BG`
 * cried `KRAOEUD`
 * sisters, `ST-RS KW-BG`
-* 'All `AE AUL`
+* 'All `AE KPA/AUL`
 * right; `RAOEUT STPH*FPLT`
 * someone `SPH-PB`
 * hold `HOLD`
@@ -357,7 +366,7 @@
 * gown.' `TKPWOUPB TP-PL AE`
 * silly `SEUL/HREU`
 * creature!' `KRAOEFP SKHRAPL AE`
-* 'It `AE T`
+* 'it `AE T`
 * nail `TPHAEUL`
 * wall.' `WAUL TP-PL AE`
 * went, `WEPBT KW-BG`
@@ -376,6 +385,7 @@
 * broke `PWROEBG`
 * off `OF`
 * branch, `PWRAFRPB KW-BG`
+* there `THR`
 * noise `TPHOEUS`
 * from `TPR`
 * tree. `TRAOE TP-PL`
@@ -384,8 +394,10 @@
 * right--did `RAOEUT H-PB H-PB TK`
 * hear `HAER`
 * noise? `TPHOEUS H-F`
+* That `KPA/THA`
 * never `TPHEF`
 * before.' `PW-F TP-PL AE`
+* 'It `AE KPA/T`
 * our `OUR`
 * princes, `PREUPBS/-S KW-BG`
 * shouting `SHOUGT`
@@ -408,6 +420,7 @@
 * still `STEUL`
 * crying `KRAOEUG`
 * joy. `SKWROEU TP-PL`
+* So `KPA/SO`
 * till `T*EUL`
 * great `TKPWRAET`
 * lake; `HRAEUBG STPH*FPLT`
@@ -419,12 +432,14 @@
 * them, `THEPL KW-BG`
 * seemed `SAOEPLD`
 * waiting `WAEUGT`
-* princesses. `PREUPB/ES/-S TP-PL`
+* princesses. `PREUPB/SES/-S TP-PL`
+* One `KPA/WUPB`
 * each `AOEFP`
 * boat, `PWOET KW-BG`
 * stepped `STEPD`
 * boat `PWOET`
 * youngest. `KWRUPBG/EFT TP-PL`
+* As `KPA/AZ`
 * rowing `ROE/-G`
 * over `OEFR`
 * lake, `HRAEUBG KW-BG`
@@ -445,6 +460,7 @@
 * princess: `PREUPB/ES STPH-FPLT`
 * warm `WARPL`
 * too.' `TAO TP-PL AE`
+* On `KPA/OPB`
 * other `OER`
 * stood `STAOD`
 * illuminated `EUL/AOUPL/TPHAEUT/-D`
@@ -462,6 +478,7 @@
 * drank `TKRAPBG`
 * mouth `PHO*UT`
 * empty. `EPLT TP-PL`
+* At `KPA/AT`
 * this, `TH KW-BG`
 * too, `TAO KW-BG`
 * terribly `TERBL/HREU`
@@ -488,7 +505,7 @@
 * stairs, `STAEURS KW-BG`
 * ran `RAPB`
 * before `PW-F`
-* princesses, `PREUPB/ES/-S KW-BG`
+* princesses, `PREUPB/SES/-S KW-BG`
 * down; `TKOUPB STPH*FPLT`
 * sisters `ST-RS`
 * slowly `SHROEL`
@@ -496,22 +513,24 @@
 * tired, `TAOEURD KW-BG`
 * snoring `STPHOERPBG`
 * bed; `PWED STPH*FPLT`
-* 'Now `AE TPHOU`
+* 'Now `AE KPA/TPHOU`
 * safe'; `SAEUF AE STPH*FPLT`
 * undressed `UPB/TKRES/-D`
 * themselves, `TH*EPLS KW-BG`
 * pulled `PULD`
 * shoes, `SHAOUS KW-BG`
 * bed. `PWED TP-PL`
+* In `KPA/TPH`
 * see `SAOE`
 * more `PHOR`
 * strange `STRAEUPBG`
 * adventure, `SREPBG KW-BG`
+* just `SKWRUFT`
 * before; `PW-F STPH*FPLT`
 * pieces, `PAOEFS KW-BG`
 * returned `RURPBD`
 * home. `HOEPL TP-PL`
-* However, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * night `TPHAOEUT`
 * carried `KAERD`
 * golden `TKOELD/*EPB`
@@ -523,12 +542,12 @@
 * behind `HEUPBD`
 * say. `SAEU TP-PL`
 * him. `HEUPL TP-PL`
-* 'Where `AE W-R`
+* 'Where `AE KPA/W-R`
 * daughters `TKAURS`
 * dance `TKAPBS`
 * night?' `TPHAOEUT H-F AE`
 * answered, `AEPBS/-D KW-BG`
-* 'With `AE W`
+* 'With `AE KPA/W`
 * castle `KAFL`
 * under `*UPBD`
 * ground.' `TKPWROUPBD TP-PL AE`
@@ -545,7 +564,7 @@
 * choose `KHAOS`
 * wife; `WAOEUF STPH*FPLT`
 * young, `KWRUPBG KW-BG`
-* eldest.'--And `ELD/EFT TP-PL AE H-PB H-PB SKP`
+* eldest.'--And `ELD/EFT TP-PL AE H-PB H-PB AFPBD`
 * married `PHAERD`
 * day, `TKAEU KW-BG`
 * chosen `KHOEFPB`

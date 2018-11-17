@@ -20,7 +20,7 @@
 * the `-T`
 * greatest `TKPWRAET/EFT`
 * hunger. `HURPBG TP-PL`
-* at `AT`
+* At `KPA/AT`
 * last `HRAFT`
 * he `HE`
 * could `KO`
@@ -39,19 +39,19 @@
 * sad `SAD`
 * sorrowful `SOR/ROEFL`
 * mood. `PHAOD TP-PL`
-* on `OPB`
+* On `KPA/OPB`
 * road `RAOD`
 * met `PHET`
 * sparrow `SPAEUR/ROE`
 * that `THA`
 * said `SAEUD`
-* 'Why `AE KWR`
+* 'Why `AE KPA/KWR`
 * are `R`
 * you `U`
 * sad, `SAD KW-BG`
 * my `PHEU`
 * friend?' `TPREPBD H-F AE`
-* 'Because,' `AE PWAU KW-BG AE`
+* 'Because,' `AE KPA/PWAU KW-BG AE`
 * dog, `TKOG KW-BG`
 * 'I `AE EU`
 * am `APL`
@@ -59,13 +59,13 @@
 * have `SR`
 * nothing `TPHOG`
 * eat.' `AOET TP-PL AE`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * be `-B`
 * all,' `AUL KW-BG AE`
 * answered `AEPBS/-D`
 * sparrow, `SPAEUR/ROE KW-BG`
-* 'Come `AE KOPL`
-* With `W`
+* 'come `AE KOPL`
+* with `W`
 * me `PHE`
 * into `TPHAO`
 * next `TPHEGT`
@@ -76,6 +76,8 @@
 * find `TPEUPBD`
 * plenty `PHREPBT`
 * food.' `TPAOD TP-PL AE`
+* So `KPA/SO`
+* on `OPB`
 * they `THE`
 * went `WEPBT`
 * together `TOGT`
@@ -85,7 +87,7 @@
 * by `PWEU`
 * butcher's `PWUFP/ER AES`
 * shop, `SHOP KW-BG`
-* 'Stand `AE STAPBD`
+* 'Stand `AE KPA/STAPBD`
 * there `THR`
 * little `HREUL`
 * while `WHAOEUL`
@@ -112,12 +114,13 @@
 * she `SHE`
 * pecked `PEBGD`
 * scratched `SKRAFPD`
+* at `AT`
 * steak `STAEBG`
 * lay `HRAEU`
 * edge `EPBG`
 * shelf, `SHEFL KW-BG`
 * fell. `TPEL TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * snapped `STPHAPD`
 * up, `UP KW-BG`
 * scrambled `SKAPL/-BLD`
@@ -127,8 +130,8 @@
 * ate `AEUT`
 * all `AUL`
 * up. `UP TP-PL`
-* 'Well,' `AE WEL KW-BG AE`
-* 'You `AE U`
+* 'Well,' `AE KPA/WEL KW-BG AE`
+* 'you `AE U`
 * shall `SHAL`
 * some `SOPL`
 * more `PHOR`
@@ -136,11 +139,11 @@
 * come `KOPL`
 * another `TPHOER`
 * steak.' `STAEBG TP-PL AE`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * eaten `AOET/EPB`
-* This `TH`
+* this `TH`
 * too, `TAO KW-BG`
-* 'Well, `AE WEL KW-BG`
+* 'Well, `AE KPA/WEL KW-BG`
 * good `TKPWAOD`
 * friend, `TPREPBD KW-BG`
 * enough `TPHUF`
@@ -154,6 +157,7 @@
 * eat `AOET`
 * after `AF`
 * it.' `T TP-PL AE`
+* 'Come `AE KPA/KOPL`
 * then,' `THEPB KW-BG AE`
 * 'and `AE SKP`
 * too.' `TAO TP-PL AE`
@@ -173,7 +177,7 @@
 * asked `SK-D`
 * whether `WHR`
 * now. `TPHOU TP-PL`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * he; `HE STPH*FPLT`
 * now `TPHOU`
 * us `US`
@@ -195,9 +199,9 @@
 * much `PHUFP`
 * tired--I `TAOEURD H-PB H-PB EU`
 * nap.' `TPHAP TP-PL AE`
-* 'Very `AE SRE`
+* 'Very `AE KPA/SRE`
 * well,' `WEL KW-BG AE`
-* 'Do `AE TKO`
+* 'do `AE TKO`
 * so, `SO KW-BG`
 * meantime `PHAO*EPB/TAOEUPL`
 * perch `PEFRPB`
@@ -207,7 +211,7 @@
 * road, `RAOD KW-BG`
 * fast `TPAFT`
 * asleep. `A/HRAOEP TP-PL`
-* Whilst `WHAOEULS`
+* Whilst `KPA/WHAOEULS`
 * slept, `SHREPD KW-BG`
 * came `KAEUPL`
 * carter `KA*RT/ER`
@@ -218,6 +222,7 @@
 * loaded `HRAOD/-D`
 * casks `KAS/-BGS`
 * wine. `WAOEUPB TP-PL`
+* The `KPA/-T`
 * seeing `SAOEG`
 * did `TK`
 * turn `TURPB`
@@ -231,15 +236,17 @@
 * over `OEFR`
 * called `KAULD`
 * out, `OUT KW-BG`
-* 'Stop! `AE STOP SKHRAPL`
+* 'Stop! `AE KPA/STOP SKHRAPL`
 * stop! `STOP SKHRAPL`
 * Mr `PH*P/R*`
 * carter, `KA*RT/ER KW-BG`
 * or `OR`
 * worse `WORS`
 * you.' `U TP-PL AE`
+* But `KPA/PWUT`
 * grumbling `TKPWRUPL/-BLG`
 * himself, `H*EUPLS KW-BG`
+* 'You `AE KPA/U`
 * make `PHAEUBG`
 * me, `PHE KW-BG`
 * indeed! `TPHAOEPBD SKHRAPL`
@@ -253,7 +260,7 @@
 * wheels `WHAOELS`
 * crushed `KRURBD`
 * death. `TK*T TP-PL`
-* 'There,' `AE THR KW-BG AE`
+* 'There,' `AE KPA/THR KW-BG AE`
 * cried `KRAOEUD`
 * 'thou `AE THO*U`
 * cruel `KRAOUL`
@@ -263,14 +270,17 @@
 * killed `KEULD`
 * friend `TPREPBD`
 * dog. `TKOG TP-PL`
+* Now `KPA/TPHOU`
 * mind `PHAOEUPBD`
 * say. `SAEU TP-PL`
+* This `KPA/TH`
 * deed `TKAOED`
 * thine `THAOEUPB`
 * cost `KOFT`
 * thee `THAOE`
 * art `ART`
 * worth.' `WO*RT TP-PL AE`
+* 'Do `AE KPA/TKO`
 * your `KWROUR`
 * worst, `WOFRT KW-BG`
 * welcome,' `WELG KW-BG AE`
@@ -288,6 +298,7 @@
 * one `WUPB`
 * loosened `HRAOS/-PBD`
 * it; `T STPH*FPLT`
+* then `THEPB`
 * wine `WAOEUPB`
 * without `WOUT`
 * it. `T TP-PL`
@@ -297,12 +308,13 @@
 * cask `KAFBG`
 * quite `KWAOEUT`
 * empty. `EPLT TP-PL`
+* 'What `AE KPA/WHA`
 * an `APB`
 * unlucky `UPB/HRUBG/KWREU`
 * wretch `WREFP`
 * am!' `APL SKHRAPL AE`
 * he. `HE TP-PL`
-* 'Not `AE TPHOT`
+* 'Not `AE KPA/TPHOT`
 * yet!' `KWRET SKHRAPL AE`
 * alighted `A/HRAOEUT/-D`
 * head `HED`
@@ -323,14 +335,15 @@
 * such `SUFP`
 * force, `TPORS KW-BG`
 * dead. `TKED TP-PL`
-* 'Unlucky `AE UPB/HRUBG/KWREU`
+* 'Unlucky `AE KPA/UPB/HRUBG/KWREU`
 * sparrow. `SPAEUR/ROE TP-PL`
+* And `AFPBD`
 * other `OER`
 * again `TKPWEPB`
 * second `SEBGD`
 * cask, `KAFBG KW-BG`
 * out. `OUT TP-PL`
-* 'Miserable `AE PHEUZ/-BL`
+* 'Miserable `AE KPA/PHEUZ/-BL`
 * answered, `AEPBS/-D KW-BG`
 * horse, `HORS KW-BG`
 * too. `TAO TP-PL`
@@ -350,7 +363,7 @@
 * about, `PW KW-BG`
 * done `TKOPB`
 * two. `TWO TP-PL`
-* 'Alas! `AE A/HRAS SKHRAPL`
+* 'Alas! `AE KPA/A/HRAS SKHRAPL`
 * miserable `PHEUZ/-BL`
 * away; `A/WAEU STPH*FPLT`
 * 'now `AE TPHOU`
@@ -366,7 +379,7 @@
 * overflowing `xxx overflowing`
 * rage `RAEUPBLG`
 * vexation. `SREBGS/AEUGS TP-PL`
-* 'Alas!' `AE A/HRAS SKHRAPL AE`
+* 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * wife, `WAOEUF KW-BG`
 * ill `EUL`
 * luck `HRUBG`
@@ -393,6 +406,7 @@
 * loft, `HRO*FT KW-BG`
 * eating `AOEGT`
 * rate!' `RAEUT SKHRAPL AE`
+* Away `KPA/A/WAEU`
 * husband `HUS`
 * upstairs, `UP/STA*EURS KW-BG`
 * thousands `THOEUPBS`
@@ -422,6 +436,7 @@
 * outside `OUDZ`
 * 'Carter! `AE KA*RT/ER SKHRAPL`
 * life!' `HRAOEUF SKHRAPL AE`
+* With `KPA/W`
 * jumped `SKWR*UPLD`
 * rage, `RAEUPBLG KW-BG`
 * seized `SAOEZ/-D`
@@ -456,13 +471,14 @@
 * walls, `WAULS KW-BG`
 * touching `TUFPG`
 * all. `AUL TP-PL`
+* In `KPA/TPH`
 * end, `EPBD KW-BG`
 * however, `HOUF KW-BG`
 * caught `KAUT`
 * her: `HER STPH-FPLT`
-* 'Shall `AE SHAL`
+* 'Shall `AE KPA/SHAL`
 * once?' `WUPBS H-F AE`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * 'that `AE THA`
 * letting `HR*EGT`
 * too `TAO`
@@ -476,7 +492,7 @@
 * wait `WAEUT`
 * longer: `HRORPBG STPH-FPLT`
 * gave `TKPWAEUF`
-* 'Wife, `AE WAOEUF KW-BG`
+* 'Wife, `AE KPA/WAOEUF KW-BG`
 * strike `STRAOEUBG`
 * hand.' `HAPBD TP-PL AE`
 * struck; `STRUBG STPH*FPLT`

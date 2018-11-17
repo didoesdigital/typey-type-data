@@ -55,7 +55,7 @@ Something
 'really': R-L
 'doing': TK*G
 'something."': S-G TP-PL KR-GS
-'"Your': KR-GS KWROUR
+'"Your': KR-GS KPA/KWROUR
 ''something'': AE S-G AE
 'is': S
 'not': TPHOT
@@ -87,7 +87,7 @@ Something
 'by': PWEU
 'a': AEU
 'machine.': PH-PB TP-PL
-'No!': TPHO SKHRAPL
+'No!': KPA/TPHO SKHRAPL
 'I': EU
 'should': SHO
 'prefer': PREFR
@@ -130,7 +130,7 @@ Something
 'be': -B
 'a': AEU
 'builder.': PWEURLD TP-PL
-'If': TP
+'If': KPA/TP
 'all': AUL
 'goes': TKPW-S
 'well,': WEL KW-BG
@@ -156,7 +156,7 @@ Something
 'a': AEU
 'master's': PHAFRT AES
 'wife.': WAOEUF TP-PL
-'This': TH
+'This': KPA/TH
 'is': S
 'what': WHA
 'I': EU
@@ -175,7 +175,7 @@ Something
 'reality': RAOELT
 'any': TPHEU
 'position.': POGS TP-PL
-'There': THR
+'There': KPA/THR
 'are': R
 'many': PHAEPB
 'in': TPH
@@ -188,7 +188,7 @@ Something
 'builder': PWEURLD
 'in': TPH
 'position.': POGS TP-PL
-'You': U
+'You': KPA/U
 'may': PHAE
 'be': -B
 'an': APB
@@ -342,7 +342,7 @@ Something
 'nothing': TPHOG
 'to': TO
 'me.': PHE TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'I': EU
 'shall': SHAL
 'enter': SPWER
@@ -383,7 +383,7 @@ Something
 'done': TKOPB
 'before': PW-F
 'me.': PHE TP-PL
-'By': PWEU
+'By': KPA/PWEU
 'this': TH
 'there': THR
 'will': HR
@@ -401,7 +401,7 @@ Something
 'worth': WO*RT
 'living': HREUFG
 'for?"': TPOR H-F KR-GS
-'"Not': KR-GS TPHOT
+'"Not': KR-GS KPA/TPHOT
 'in': TPH
 'my': PHEU
 'opinion,"': P-PB KW-BG KR-GS
@@ -481,7 +481,7 @@ Something
 'my': PHEU
 'own': OEPB
 'genius."': SKWRAOEPBS/KWRUS TP-PL KR-GS
-'"But': KR-GS PWUT
+'"But': KR-GS KPA/PWUT
 'supposing': SPOEFG
 'the': -T
 'climate': KHAOEUPLT
@@ -511,7 +511,7 @@ Something
 'over': OEFR
 'your': KWROUR
 'experiments.': SPERPLTS TP-PL
-'Nationality': TPHAT/ALT
+'Nationality': KPA/TPHAT/ALT
 'may': PHAE
 'assert': A/SERT
 'itself': T/SEF
@@ -552,7 +552,7 @@ Something
 'now': TPHOU
 'fancy': TPAPB/SEU
 'it.': T TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'do': TKO
 'as': AZ
 'you': U
@@ -576,7 +576,7 @@ Something
 'what': WHA
 'you': U
 'do.': TKO TP-PL
-'In': TPH
+'In': KPA/TPH
 'every': EF
 'action': *BGS
 'something': S-G
@@ -605,7 +605,7 @@ Something
 'something,': S-G KW-BG
 'I': EU
 'fancy."': TPAPB/SEU TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'he': HE
 'kept': KEPT
 'his': HEUS
@@ -614,13 +614,13 @@ Something
 'became': PWAEUPL
 'a': AEU
 'critic.': KREUT/EUBG TP-PL
-'People': PAOEPL
+'People': KPA/PAOEPL
 'said': SAEUD
 'of': -F
 'this': TH
 'fifth': TP*EUT
 'brother,': PWROER KW-BG
-'"There': KR-GS THR
+'"There': KR-GS KPA/THR
 'is': S
 'something': S-G
 'very': SRE
@@ -636,7 +636,7 @@ Something
 'he': HE
 'does': TKOS
 'nothing."': TPHOG TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'on': OPB
 'that': THA
 'very': SRE
@@ -647,7 +647,7 @@ Something
 'must': PHUFT
 'be': -B
 'something.': S-G TP-PL
-'Now,': TPHOU KW-BG
+'Now,': KPA/TPHOU KW-BG
 'you': U
 'see,': SAOE KW-BG
 'this': TH
@@ -674,18 +674,18 @@ Something
 'these': THEZ
 'five': TPEUF
 'brothers.': PWROERS TP-PL
-'And': SKP
+'And': AFPBD
 'what': WHA
 'became': PWAEUPL
 'of': -F
 'them?': THEPL H-F
-'Were': WR
+'Were': KPA/WR
 'they': THE
 'each': AOEFP
 'nothing': TPHOG
 'or': OR
 'something?': S-G H-F
-'You': U
+'You': KPA/U
 'shall': SHAL
 'hear;': HAER STPH*FPLT
 'it': T
@@ -693,7 +693,7 @@ Something
 'quite': KWAOEUT
 'a': AEU
 'history.': HEUFRT TP-PL
-'The': -T
+'The': KPA/-T
 'eldest': ELD/EFT
 'brother,': PWROER KW-BG
 'he': HE
@@ -771,14 +771,14 @@ Something
 'all': AUL
 'he': HE
 'wants.': WAPBTS TP-PL
-'So': SO
+'So': KPA/SO
 'you': U
 'see': SAOE
 'the': -T
 'value': SRAOUL
 'of': -F
 'bricks.': PWREUBGS TP-PL
-'Some': SOPL
+'Some': KPA/SOPL
 'of': -F
 'the': -T
 'bricks,': PWREUBGS KW-BG
@@ -799,7 +799,7 @@ Something
 'for': TPOR
 'even': AOEPB
 'these.': THEZ TP-PL
-'On': OPB
+'On': KPA/OPB
 'the': -T
 'high': HAOEU
 'bank': PWA*PBG
@@ -856,7 +856,7 @@ Something
 'than': THAPB
 'making': PHAEUG
 'bricks.': PWREUBGS TP-PL
-'The': -T
+'The': KPA/-T
 'poor': PAOR
 'woman': WOPL
 'built': PWEULT
@@ -887,7 +887,7 @@ Something
 'been': PW-PB
 'better': PWOERT
 'thatched.': THA*FP/-D TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'still': STEUL
 'it': T
 'was': WAS
@@ -916,7 +916,7 @@ Something
 'house': HOUS
 'was': WAS
 'built.': PWEULT TP-PL
-'The': -T
+'The': KPA/-T
 'salt': SALT
 'waves': WAFS
 'sprinkled': SPREUPB/K-LD
@@ -946,7 +946,7 @@ Something
 'dead': TKED
 'and': SKP
 'buried.': PWUR/EUD TP-PL
-'The': -T
+'The': KPA/-T
 'second': SEBGD
 'brother': PWROER
 'of': -F
@@ -967,7 +967,7 @@ Something
 'to': TO
 'learn': HRERPB
 'it.': T TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'his': HEUS
 'time': TAOEUPL
 'was': WAS
@@ -986,7 +986,7 @@ Something
 'the': -T
 'journeyman's': SKWROURPB/EU/PHAPB AES
 'song,—': SOPBG KW-BG EPL/TKA*RB
-'"While': KR-GS WHAOEUL
+'"While': KR-GS KPA/WHAOEUL
 'young,': KWRUPBG KW-BG
 'I': EU
 'can': K
@@ -994,12 +994,12 @@ Something
 'without': WOUT
 'a': AEU
 'care,': KAEUR KW-BG
-'And': SKP
+'And': AFPBD
 'build': PWEULD
 'new': TPHU
 'houses': HO*UFS
 'everywhere;': WEFR STPH*FPLT
-'Fair': TPAEUR
+'Fair': KPA/TPAEUR
 'and': SKP
 'bright': PWRAOEUT
 'are': R
@@ -1007,20 +1007,20 @@ Something
 'dreams': TKRAOEPLS
 'of': -F
 'home,': HOEPL KW-BG
-'Always': AULS
+'Always': KPA/AULS
 'thought': THAUT
 'of': -F
 'wherever': W-FR
 'I': EU
 'roam.': ROEPL TP-PL
-'Hurrah': HUR/RA
+'Hurrah': KPA/HUR/RA
 'for': TPOR
 'a': AEU
 'workman's': WORBG/PHAPB/AES
 'life': HRAOEUF
 'of': -F
 'glee!': TKPWHRAOE SKHRAPL
-'There's': THR AES
+'There's': KPA/THR AES
 'a': AEU
 'loved': HROFD
 'one': WUPB
@@ -1030,14 +1030,14 @@ Something
 'thinks': THEUS
 'of': -F
 'me;': PHE STPH*FPLT
-'Home': HOEPL
+'Home': KPA/HOEPL
 'and': SKP
 'friends': TPREPBDZ
 'I': EU
 'can': K
 'ne'er': TPHE/AE/ER/SP-S
 'forget,': TPERGT KW-BG
-'And': SKP
+'And': AFPBD
 'I': EU
 'mean': PHAOEPB
 'to': TO
@@ -1045,13 +1045,13 @@ Something
 'a': AEU
 'master': PHAFRT
 'yet."': KWRET TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'that': THA
 'is': S
 'what': WHA
 'he': HE
 'did.': TK TP-PL
-'On': OPB
+'On': KPA/OPB
 'his': HEUS
 'return': RURPB
 'home,': HOEPL KW-BG
@@ -1083,7 +1083,7 @@ Something
 'to': TO
 'the': -T
 'town.': TOUPB TP-PL
-'These': THEZ
+'These': KPA/THEZ
 'houses': HO*UFS
 'built': PWEULT
 'a': AEU
@@ -1098,14 +1098,14 @@ Something
 'be': -B
 'his': HEUS
 'own.': OEPB TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'how': HOU
 'can': K
 'houses': HO*UFS
 'build': PWEULD
 'a': AEU
 'house?': HOUS H-F
-'If': TP
+'If': KPA/TP
 'the': -T
 'houses': HO*UFS
 'were': WR
@@ -1121,7 +1121,7 @@ Something
 'understand,': URPBD KW-BG
 'and': SKP
 'say,': SAEU KW-BG
-'"Certainly': KR-GS SERPBL
+'"Certainly': KR-GS KPA/SERPBL
 'the': -T
 'street': STRAOET
 'built': PWEULT
@@ -1129,7 +1129,7 @@ Something
 'house': HOUS
 'for': TPOR
 'him."': HEUPL TP-PL KR-GS
-'It': T
+'It': KPA/T
 'was': WAS
 'not': TPHOT
 'very': SRE
@@ -1179,7 +1179,7 @@ Something
 'the': -T
 'richest': REUFP/EFTS
 'tapestry.': TAPS/TREU TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'really': R-L
 'a': AEU
@@ -1192,7 +1192,7 @@ Something
 'a': AEU
 'happy': HAEP
 'pair.': PAEUR TP-PL
-'The': -T
+'The': KPA/-T
 'flag': TPHRAG
 'of': -F
 'the': -T
@@ -1206,8 +1206,8 @@ Something
 'and': SKP
 'apprentices': A/PREPB/TEUS/-S
 'shouted': SHOUT/-D
-'"Hurrah."': KR-GS HUR/RA TP-PL KR-GS
-'He': HE
+'"Hurrah."': KR-GS KPA/HUR/RA TP-PL KR-GS
+'He': KPA/HE
 'had': H
 'gained': TKPWAEUPBD
 'his': HEUS
@@ -1226,7 +1226,7 @@ Something
 'was': WAS
 '"something"': KR-GS S-G KR-GS
 'too.': TAO TP-PL
-'Now': TPHOU
+'Now': KPA/TPHOU
 'we': WE
 'come': KOPL
 'to': TO
@@ -1269,7 +1269,7 @@ Something
 'and': SKP
 'noble': TPHOEBL
 'gentleman.': SKWRA*PL TP-PL
-'Ah': HA*E
+'Ah': KPA/HA*E
 'yes,': KWRE KW-BG
 'the': -T
 'houses': HO*UFS
@@ -1312,7 +1312,7 @@ Something
 'became': PWAEUPL
 'his': HEUS
 'property.': PROT TP-PL
-'That': THA
+'That': KPA/THA
 'was': WAS
 'something,': S-G KW-BG
 'and': SKP
@@ -1331,7 +1331,7 @@ Something
 'after': AF
 'his': HEUS
 'name.': TPHAEUPL TP-PL
-'His': HEUS
+'His': KPA/HEUS
 'children': KHEURPB
 'were': WR
 'called': KAULD
@@ -1353,7 +1353,7 @@ Something
 'that': THA
 'was': WAS
 '"something."': KR-GS S-G TP-PL KR-GS
-'His': HEUS
+'His': KPA/HEUS
 'name': TPHAEUPL
 'remained': RE/PHAEUPBD
 'always': AULS
@@ -1373,12 +1373,12 @@ Something
 'as': AZ
 'its': EUTS
 'name.': TPHAEUPL TP-PL
-'Yes,': KWRE KW-BG
+'Yes,': KPA/KWRE KW-BG
 'this': TH
 'also': HR-S
 'was': WAS
 '"something."': KR-GS S-G TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'what': WHA
 'about': PW
 'the': -T
@@ -1395,7 +1395,7 @@ Something
 'new': TPHU
 'and': SKP
 'original?': ORPBLG H-F
-'He': HE
+'He': KPA/HE
 'tried': TRAOEUD
 'to': TO
 'build': PWEULD
@@ -1417,7 +1417,7 @@ Something
 'broke': PWROEBG
 'his': HEUS
 'neck.': TPHEBG TP-PL
-'However,': HOUF KW-BG
+'However,': KPA/HOUF KW-BG
 'he': HE
 'had': H
 'a': AEU
@@ -1452,7 +1452,7 @@ Something
 'than': THAPB
 'the': -T
 'other.': OER TP-PL
-'He': HE
+'He': KPA/HE
 'would': WO
 'have': SR
 'liked': HRAOEUBGD
@@ -1491,7 +1491,7 @@ Something
 'over': OEFR
 'his': HEUS
 'grave.': TKPWRAEUF TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'only': OEPBL
 'another': TPHOER
@@ -1502,7 +1502,7 @@ Something
 'that': THA
 'was': WAS
 '"something,"': KR-GS S-G KW-BG KR-GS
-'Now': TPHOU
+'Now': KPA/TPHOU
 'he': HE
 'was': WAS
 'dead,': TKED KW-BG
@@ -1511,7 +1511,7 @@ Something
 'three': THRAOE
 'other': OER
 'brothers.': PWROERS TP-PL
-'The': -T
+'The': KPA/-T
 'youngest—the': KWRUPBG/EFT EPL/TKA*RB -T
 'critic—outlived': KREUT/EUBG EPL/TKA*RB AUT/HREUF/-D
 'them': THEPL
@@ -1522,7 +1522,7 @@ Something
 'right': RAOEUT
 'for': TPOR
 'him.': HEUPL TP-PL
-'It': T
+'It': KPA/T
 'gave': TKPWAEUF
 'him': HEUPL
 'the': -T
@@ -1539,7 +1539,7 @@ Something
 'of': -F
 'great': TKPWRAET
 'importance.': PORPBS TP-PL
-'People': PAOEPL
+'People': KPA/PAOEPL
 'always': AULS
 'said': SAEUD
 'he': HE
@@ -1547,7 +1547,7 @@ Something
 'a': AEU
 'good': TKPWAOD
 'head-piece.': HED H-PB PAOES TP-PL
-'At': AT
+'At': KPA/AT
 'last': HRAFT
 'his': HEUS
 'hour': HOUR
@@ -1562,7 +1562,7 @@ Something
 'gates': TKPWAETS
 'of': -F
 'heaven.': HEFPB TP-PL
-'Souls': SOULS
+'Souls': KPA/SOULS
 'always': AULS
 'enter': SPWER
 'these': THEZ
@@ -1595,7 +1595,7 @@ Something
 'on': OPB
 'the': -T
 'dyke!': TKAOEUBG SKHRAPL
-'"It': KR-GS T
+'"It': KR-GS KPA/T
 'is': S
 'evidently': AEFD/HREU
 'for': TPOR
@@ -1620,7 +1620,7 @@ Something
 'said': SAEUD
 'the': -T
 'critic.': KREUT/EUBG TP-PL
-'"Pray': KR-GS PRAEU
+'"Pray': KR-GS KPA/PRAEU
 'who': WHO
 'are': R
 'you,': U KW-BG
@@ -1637,7 +1637,7 @@ Something
 'in': TPH
 'here': HAOER
 'too?"': TAO H-F KR-GS
-'And': SKP
+'And': AFPBD
 'the': -T
 'old': OLD
 'woman': WOPL
@@ -1652,7 +1652,7 @@ Something
 'it': T
 'must': PHUFT
 'be': -B
-'St.': ST* TP-PL
+'St.': KPA/ST* TP-PL
 'Peter': PAOERT
 'himself': H*EUPLS
 'who': WHO
@@ -1682,7 +1682,7 @@ Something
 'on': OPB
 'the': -T
 'dyke."': TKAOEUBG TP-PL KR-GS
-'"Well,': KR-GS WEL KW-BG
+'"Well,': KR-GS KPA/WEL KW-BG
 'and': SKP
 'what': WHA
 'have': SR
@@ -1719,7 +1719,7 @@ Something
 'me,"': PHE KW-BG KR-GS
 'she': SHE
 'said.': SAEUD TP-PL
-'"It': KR-GS T
+'"It': KR-GS KPA/T
 'would': WO
 'be': -B
 'only': OEPBL
@@ -1736,7 +1736,7 @@ Something
 'through': THRU
 'the': -T
 'gate."': TKPWAET TP-PL KR-GS
-'"In': KR-GS TPH
+'"In': KR-GS KPA/TPH
 'what': WHA
 'manner': PHAERPB
 'did': TK
@@ -1765,7 +1765,7 @@ Something
 'there': THR
 'and': SKP
 'wait.': WAEUT TP-PL
-'"How': KR-GS HOU
+'"How': KR-GS KPA/HOU
 'I': EU
 'left': HREFT
 'the': -T
@@ -1778,7 +1778,7 @@ Something
 'scarcely': SKAEURS/HREU
 'tell': TEL
 'you.': U TP-PL
-'During': TKURG
+'During': KPA/TKURG
 'the': -T
 'last': HRAFT
 'years': KWRAOERS
@@ -1806,7 +1806,7 @@ Something
 'frost': TPROS
 'and': SKP
 'cold.': KOELD TP-PL
-'Last': HRAFT
+'Last': KPA/HRAFT
 'winter': WEURPBT
 'was': WAS
 'a': AEU
@@ -1820,7 +1820,7 @@ Something
 'it': T
 'all': AUL
 'now.': TPHOU TP-PL
-'There': THR
+'There': KPA/THR
 'were': WR
 'a': AEU
 'few': TPAOU
@@ -1832,7 +1832,7 @@ Something
 'no': TPHO
 'doubt,': TKOUT KW-BG
 'knows.': TPHOEZ TP-PL
-'The': -T
+'The': KPA/-T
 'ice': AOEUS
 'lay': HRAEU
 'thickly': THEUBG/HREU
@@ -1844,7 +1844,7 @@ Something
 'one': WUPB
 'could': KO
 'see.': SAOE TP-PL
-'The': -T
+'The': KPA/-T
 'people': PAOEPL
 'came': KAEUPL
 'from': TPR
@@ -1870,7 +1870,7 @@ Something
 'a': AEU
 'great': TKPWRAET
 'feasting.': TPAOEFT/-G TP-PL
-'The': -T
+'The': KPA/-T
 'sound': SOUPBD
 'of': -F
 'beautiful': PWAOUFL
@@ -1884,12 +1884,12 @@ Something
 'where': W-R
 'I': EU
 'lay.': HRAEU TP-PL
-'Towards': TORDZ
+'Towards': KPA/TORDZ
 'evening,': AOEPBG KW-BG
 'when': WHEPB
 'the': -T
 'moon': PHAOPB
-'rose': ROEZ
+'rose': ROES
 'beautifully,': PWAOUFL/HREU KW-BG
 'though': THOE
 'not': TPHOT
@@ -1916,7 +1916,7 @@ Something
 'and': SKP
 'sky': SKAOEU
 'met,': PHET KW-BG
-'rose': ROEZ
+'rose': ROES
 'a': AEU
 'curious': KAOURS
 'white': WHAOEUT
@@ -1972,7 +1972,7 @@ Something
 'shuddering': SHUD/ERG
 'seized': SAOEZ/-D
 'me.': PHE TP-PL
-'Twice': TWAOEUS
+'Twice': KPA/TWAOEUS
 'in': TPH
 'my': PHEU
 'life': HRAOEUF
@@ -2014,7 +2014,7 @@ Something
 'and': SKP
 'making': PHAEUG
 'merry.': PHER/REU TP-PL
-'Young': KWRUPBG
+'Young': KWR*UPBG
 'and': SKP
 'old,': OLD KW-BG
 'the': -T
@@ -2111,7 +2111,7 @@ Something
 'the': -T
 'boys': PWOEUS
 'shouting,': SHOUGT KW-BG
-''Hurrah!'': AE HUR/RA SKHRAPL AE
+''Hurrah!'': AE KPA/HUR/RA SKHRAPL AE
 'and': SKP
 'the': -T
 'lads': HRADZ
@@ -2125,7 +2125,7 @@ Something
 'merriment': PHER/*PLT
 'and': SKP
 'joy.': SKWROEU TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'there': THR
 'was': WAS
 'the': -T
@@ -2159,7 +2159,7 @@ Something
 'from': TPR
 'the': -T
 'people.': PAOEPL TP-PL
-'Soon': SAOPB
+'Soon': KPA/SAOPB
 'would': WO
 'the': -T
 'storm': STORPL
@@ -2176,7 +2176,7 @@ Something
 'be': -B
 'irretrievably': EUR/RE/TRAOEF/PWHREU
 'lost.': HRO*S TP-PL
-'They': THE
+'They': KPA/THE
 'could': KO
 'not': TPHOT
 'hear': HAER
@@ -2192,7 +2192,7 @@ Something
 'of': -F
 'my': PHEU
 'power.': POUR TP-PL
-'Oh,': O*E KW-BG
+'Oh,': KPA/O*E KW-BG
 'if': TP
 'I': EU
 'could': KO
@@ -2202,7 +2202,7 @@ Something
 'safe': SAEUF
 'on': OPB
 'land!': HRAPBD SKHRAPL
-'Then': THEPB
+'Then': KPA/THEPB
 'came': KAEUPL
 'the': -T
 'thought,': THAUT KW-BG
@@ -2276,7 +2276,7 @@ Something
 'go': TKPW
 'no': TPHO
 'farther.': TPA*RT TP-PL
-'The': -T
+'The': KPA/-T
 'flames': TPHRAEUPLS
 'rushed': RURBD
 'out': OUT
@@ -2287,12 +2287,12 @@ Something
 'the': -T
 'window,': WOEUPBD KW-BG
 'and': SKP
-'rose': ROEZ
+'rose': ROES
 'high': HAOEU
 'above': PWOF
 'the': -T
 'roof.': RAOF TP-PL
-'The': -T
+'The': KPA/-T
 'people': PAOEPL
 'on': OPB
 'the': -T
@@ -2323,7 +2323,7 @@ Something
 'burnt': PWURPBT
 'to': TO
 'death.': TK*T TP-PL
-'There': THR
+'There': KPA/THR
 'was': WAS
 'not': TPHOT
 'one': WUPB
@@ -2358,7 +2358,7 @@ Something
 'of': -F
 'heavy': HOEUF
 'artillery.': AR/TEUL/REU TP-PL
-'The': -T
+'The': KPA/-T
 'spring': SPREUPBG
 'flood': TPHRAOD
 'was': WAS
@@ -2372,7 +2372,7 @@ Something
 'a': AEU
 'thousand': THOEUPB
 'pieces.': PAOEFS TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'the': -T
 'people': PAOEPL
 'had': H
@@ -2448,7 +2448,7 @@ Something
 'be': -B
 'admitted': AD/PHEUTD
 'here."': HAOER TP-PL KR-GS
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'gates': TKPWAETS
 'were': WR
@@ -2461,7 +2461,7 @@ Something
 'old': OLD
 'woman': WOPL
 'in.': TPH TP-PL
-'She': SHE
+'She': KPA/SHE
 'had': H
 'dropped': TKROPD
 'one': WUPB
@@ -2485,7 +2485,7 @@ Something
 'of': -F
 'so': SO
 'many.': PHAEPB TP-PL
-'It': T
+'It': KPA/T
 'had': H
 'been': PW-PB
 'changed': KHAEUPBGD
@@ -2506,7 +2506,7 @@ Something
 'of': -F
 'immortal': EUPL/PHORT/A*L
 'beauty.': PWAOUT TP-PL
-'"See,"': KR-GS SAOE KW-BG KR-GS
+'"See,"': KR-GS KPA/SAOE KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'angel,': A*EPBLG KW-BG
@@ -2523,7 +2523,7 @@ Something
 'woman': WOPL
 'has': HAS
 'brought.': PWRAUT TP-PL
-'What': WHA
+'What': KPA/WHA
 'dost': TKO/*T
 'thou': THO*U
 'bring?': PWREU H-F
@@ -2539,7 +2539,7 @@ Something
 'a': AEU
 'single': SEUPBLG
 'brick.': PWREUBG TP-PL
-'Even': AOEPB
+'Even': KPA/AOEPB
 'if': TP
 'thou': THO*U
 'couldst': xxx couldst
@@ -2569,7 +2569,7 @@ Something
 'is': S
 'always': AULS
 'something.': S-G TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'thou': THO*U
 'canst': K/*T
 'not': TPHOT
@@ -2583,7 +2583,7 @@ Something
 'nothing': TPHOG
 'for': TPOR
 'thee."': THAOE TP-PL KR-GS
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'poor': PAOR
 'soul,': SOUL KW-BG
@@ -2602,9 +2602,9 @@ Something
 'pleaded': PHRAOED/-D
 'for': TPOR
 'him.': HEUPL TP-PL
-'She': SHE
+'She': KPA/SHE
 'said,': SAEUD KW-BG
-'"His': KR-GS HEUS
+'"His': KR-GS KPA/HEUS
 'brother': PWROER
 'made': PHAED
 'all': AUL
@@ -2636,7 +2636,7 @@ Something
 'woman': WOPL
 'like': HRAOEUBG
 'me.': PHE TP-PL
-'Could': KO
+'Could': KPA/KO
 'not': TPHOT
 'all': AUL
 'these': THEZ
@@ -2653,7 +2653,7 @@ Something
 'prevail': PRE/SRAEUL
 'for': TPOR
 'him?': HEUPL H-F
-'It': T
+'It': KPA/T
 'is': S
 'an': APB
 'act': ABGT
@@ -2672,7 +2672,7 @@ Something
 'fountain': TPOUPB/TAEUPB
 'of': -F
 'mercy."': PHER/SEU TP-PL KR-GS
-'"Then,"': KR-GS THEPB KW-BG KR-GS
+'"Then,"': KR-GS KPA/THEPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'angel,': A*EPBLG KW-BG
@@ -2708,13 +2708,13 @@ Something
 'this': TH
 'heavenly': HEFPBL
 'gift.': TKPWEUFT TP-PL
-'Thou': THO*U
+'Thou': KPA/THO*U
 'shalt': SHALT
 'not': TPHOT
 'be': -B
 'turned': TURPBD
 'away.': A/WAEU TP-PL
-'Thou': THO*U
+'Thou': KPA/THO*U
 'shalt': SHALT
 'have': SR
 'permission': PERPLGS
@@ -2775,6 +2775,6 @@ Something
 'for': TPOR
 'him': HEUPL
 'was': WAS
-'SOMETHING,': S-G KW-BG
+'SOMETHING,': KPA/S-G KW-BG
 'after': AF
 'all.': AUL TP-PL

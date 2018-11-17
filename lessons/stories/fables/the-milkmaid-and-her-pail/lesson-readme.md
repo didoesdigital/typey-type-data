@@ -2,7 +2,7 @@
 
 * Patty `PA*T/TEU`
 * the `-T`
-* Milkmaid `PH*EULG/TK-LS/PHAEUD`
+* Milkmaid `KPA/PH*EULG/TK-LS/PHAEUD`
 * was `WAS`
 * going `TKPW-G`
 * to `TO`
@@ -12,10 +12,10 @@
 * milk `PHEULG`
 * in `TPH`
 * a `AEU`
-* Pail `PAEUL`
+* Pail `KPA/PAEUL`
 * on `OPB`
 * head. `HED TP-PL`
-* As `AZ`
+* As `KPA/AZ`
 * she `SHE`
 * went `WEPBT`
 * along `A/HROPBG`
@@ -24,7 +24,7 @@
 * what `WHA`
 * would `WO`
 * do `TKO`
-* With `W`
+* with `W`
 * money `PHUPB`
 * get `TKPWET`
 * for `TPOR`
@@ -34,8 +34,8 @@
 * some `SOPL`
 * fowls `TPO*UL/-S`
 * from `TPR`
-* Farmer `TPAR/PHER`
-* Brown," `PWROUPB KW-BG KR-GS`
+* Farmer `KPA/TPAR/PHER`
+* Brown," `PWRO*UPB KW-BG KR-GS`
 * said `SAEUD`
 * she, `SHE KW-BG`
 * "and `KR-GS SKP`
@@ -50,6 +50,7 @@
 * sell `SEL`
 * parson's `PAR/SOPB AES`
 * wife. `WAOEUF TP-PL`
+* With `KPA/W`
 * that `THA`
 * sale `SAEL`
 * of `-F`
@@ -96,16 +97,16 @@
 * off `OF`
 * it, `T KW-BG`
 * spilt. `SPEULT TP-PL`
-* So `SO`
+* So `KPA/SO`
 * had `H`
 * home `HOEPL`
 * tell `TEL`
 * mother `PHOER`
 * occurred. `KROEURD TP-PL`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
 * child," `KHAOEULD KW-BG KR-GS`
 * mother, `PHOER KW-BG`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * not `TPHOT`
 * count `KOUPBT`
 * your `KWROUR`

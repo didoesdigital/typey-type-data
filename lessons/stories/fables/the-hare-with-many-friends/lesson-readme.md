@@ -1,7 +1,7 @@
 # The Hare With Many Friends
 
 * A `KPA/AEU`
-* Hare `HA*ER`
+* Hare `KPA/HA*ER`
 * was `WAS`
 * very `SRE`
 * popular `PHRA*R`
@@ -16,7 +16,7 @@
 * be `-B`
 * her `HER`
 * friends. `TPREPBDZ TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * one `WUPB`
 * day `TKAEU`
 * she `SHE`
@@ -27,11 +27,12 @@
 * hoped `HOEPD`
 * escape `SKA*EUP`
 * them `THEPL`
-* By `PWEU`
+* by `PWEU`
 * aid `AEUD`
 * of `-F`
 * many `PHAEPB`
-* So, `SO KW-BG`
+* Friends. `KPA/TPREPBDZ TP-PL`
+* So, `KPA/SO KW-BG`
 * went `WEPBT`
 * horse, `HORS KW-BG`
 * asked `SK-D`
@@ -42,7 +43,7 @@
 * on `OPB`
 * his `HEUS`
 * back. `PWABG TP-PL`
-* He `HE`
+* he `HE`
 * declined, `TKE/KHRAOEUPBD KW-BG`
 * stating `STAEUGT`
 * that `THA`
@@ -52,7 +53,7 @@
 * do `TKO`
 * for `TPOR`
 * master. `PHAFRT TP-PL`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * felt `TPELT`
 * sure," `SHUR KW-BG KR-GS`
 * said, `SAEUD KW-BG`
@@ -61,16 +62,19 @@
 * would `WO`
 * come `KOPL`
 * assistance." `SEUFPBS TP-PL KR-GS`
+* She `KPA/SHE`
 * then `THEPB`
 * applied `A/PHRAOEUD`
 * bull, `PWUL KW-BG`
 * repel `RE/PEL`
 * horns. `HORPBS TP-PL`
+* The `KPA/-T`
 * bull `PWUL`
 * replied: `RE/PHRAOEUD STPH-FPLT`
 * "I `KR-GS EU`
 * am `APL`
 * sorry, `SOER KW-BG`
+* but `PWUT`
 * I `EU`
 * have `SR`
 * an `APB`
@@ -102,11 +106,11 @@
 * proper `PROR`
 * apply `A/PHROEU`
 * to. `TO TP-PL`
-* so `SO`
+* So `KPA/SO`
 * ram `RAPL`
 * told `TOLD`
 * case. `KAEUS TP-PL`
-* "Another `KR-GS TPHOER`
+* "Another `KR-GS KPA/TPHOER`
 * time, `TAOEUPL KW-BG`
 * my `PHEU`
 * dear `TKAER`
@@ -135,12 +139,14 @@
 * take `TAEUBG`
 * responsibility `SPOPBT`
 * himself, `H*EUPLS KW-BG`
+* so `SO`
 * older `OERLD`
 * persons `PERPBZ`
 * than `THAPB`
 * himself `H*EUPLS`
 * declined `TKE/KHRAOEUPBD`
 * task. `TAFBG TP-PL`
+* By `KPA/PWEU`
 * this `TH`
 * time `TAOEUPL`
 * were `WR`
@@ -149,6 +155,7 @@
 * heels `HAOELS`
 * luckily `HRULG`
 * escaped. `ES/KAEUPD TP-PL`
+* He `KPA/HE`
 * has `HAS`
 * friends, `TPREPBDZ KW-BG`
 * no `TPHO`

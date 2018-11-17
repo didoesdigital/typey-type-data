@@ -1,12 +1,12 @@
 # The Buffoon and the Countryman
 
-* at `AT`
+* At `KPA/AT`
 * a `AEU`
 * country `KREU`
 * fair `TPAEUR`
 * there `THR`
 * was `WAS`
-* Buffoon `PWU/TPAOPB`
+* Buffoon `KPA/PWU/TPAOPB`
 * who `WHO`
 * made `PHAED`
 * all `AUL`
@@ -19,7 +19,7 @@
 * of `-F`
 * various `SRAEURS`
 * animals. `PHAPBLS TP-PL`
-* he `HE`
+* He `KPA/HE`
 * finished `TP*EURBD`
 * off `OF`
 * squeaking `SKWAOEBG/-G`
@@ -29,21 +29,22 @@
 * that `THA`
 * spectators `SPEBG/TAEUT/O*RS`
 * thought `THAUT`
+* he `HE`
 * had `H`
 * porker `PORBG/*ER`
 * concealed `KAUPB/SAOELD`
 * about `PW`
 * him. `HEUPL TP-PL`
-* but `PWUT`
-* Countryman `KREU/PHA*PB`
+* But `KPA/PWUT`
+* Countryman `KPA/KREU/PHA*PB`
 * stood `STAOD`
 * said: `SAEUD STPH-FPLT`
-* "Call `KR-GS KAUL`
+* "Call `KR-GS KPA/KAUL`
 * pig's `PEUG AES`
 * squeak! `SKWAOEBG SKHRAPL`
-* Nothing `TPHOG`
+* Nothing `KPA/TPHOG`
 * it. `T TP-PL`
-* you `U`
+* You `KPA/U`
 * give `TKPWEUF`
 * me `PHE`
 * till `T*EUL`
@@ -52,11 +53,14 @@
 * I `EU`
 * will `HR`
 * show `SHOE`
+* you `U`
 * what `WHA`
 * it's `T-S`
 * like." `HRAOEUBG TP-PL KR-GS`
+* The `KPA/-T`
 * audience `AUPBS`
 * laughed, `HRAFD KW-BG`
+* but `PWUT`
 * next `TPHEGT`
 * day, `TKAEU KW-BG`
 * sure `SHUR`
@@ -73,11 +77,12 @@
 * hissed `HEUSZ/-D`
 * threw `THRAOU`
 * stones `STOEPBS`
+* at `AT`
 * him `HEUPL`
 * to `TO`
 * make `PHAEUBG`
 * stop. `STOP TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * fools!" `TPAOLS SKHRAPL KR-GS`
 * cried, `KRAOEUD KW-BG`
 * "see `KR-GS SAOE`
@@ -92,7 +97,7 @@
 * pinching `PEUFRPBG`
 * utter `UT/ER`
 * squeals. `SKWAOELS TP-PL`
-* Men `PHEPB`
+* Men `KPA/PHEPB`
 * often `OFPB`
 * applaud `A/PHRAUD`
 * an `APB`

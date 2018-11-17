@@ -1,6 +1,6 @@
 # In the Uttermost Parts of the Sea
 
-* some `SOPL`
+* Some `KPA/SOPL`
 * years `KWRAOERS`
 * ago, `AG KW-BG`
 * large `HRARPBLG`
@@ -26,7 +26,7 @@
 * those `THOZ`
 * unknown `UPB/TPHOEPB`
 * regions. `RAOE/SKWROPBS TP-PL`
-* for `TPOR`
+* For `KPA/TPOR`
 * more `PHOR`
 * than `THAPB`
 * a `AEU`
@@ -56,13 +56,14 @@
 * sun `SUPB`
 * entirely `SPWAOEURL`
 * disappeared; `TKEUS/PAOERD STPH*FPLT`
+* for `TPOR`
 * weeks `WAOEBGS`
 * there `THR`
 * would `WO`
 * be `-B`
 * constant `STAPBT`
 * night. `TPHAOEUT TP-PL`
-* all `AUL`
+* All `KPA/AUL`
 * around, `ARPBD KW-BG`
 * as `AZ`
 * eye `AOEU`
@@ -77,6 +78,7 @@
 * remained `RE/PHAEUPBD`
 * stuck `STUBG`
 * fast. `TPAFT TP-PL`
+* The `KPA/-T`
 * lay `HRAEU`
 * piled `PAOEULD`
 * up `UP`
@@ -86,10 +88,11 @@
 * huts, `HUTS KW-BG`
 * form `TPORPL`
 * bee-hives, `PWAOE H-PB HAOEUFS KW-BG`
+* some `SOPL`
 * them `THEPL`
 * spacious `SPAERBS`
 * "Huns' `KR-GS xxx Huns AE`
-* graves," `TKRA*EUFS KW-BG KR-GS`
+* graves," `TKPWRAEUFS KW-BG KR-GS`
 * others `OERS`
 * only `OEPBL`
 * containing `KAUPB/TAEUPBG`
@@ -100,7 +103,7 @@
 * or `OR`
 * four `TPOUR`
 * men. `PHEPB TP-PL`
-* It `T`
+* It `KPA/T`
 * was `WAS`
 * not `TPHOT`
 * quite `KWAOEUT`
@@ -120,12 +123,12 @@
 * back `PWABG`
 * light, `HRAOEUT KW-BG`
 * so `SO`
-* That `THA`
+* that `THA`
 * night `TPHAOEUT`
 * here `HAOER`
 * long `HROPBG`
 * twilight. `TWAOEULGT TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * moon `PHAOPB`
 * brightest, `PWRAOEUT/EFT KW-BG`
 * natives `TPHAEUT/EUFS`
@@ -133,11 +136,11 @@
 * crowds `KROUDZ`
 * see `SAOE`
 * sailors. `SAEUL/ORS TP-PL`
-* they `THE`
+* They `KPA/THE`
 * very `SRE`
 * singular `SEUPBG/HRAR`
 * appearance `PAOERPBS`
-* Their `THAEUR`
+* their `THAEUR`
 * rough, `RUF KW-BG`
 * hairy `HAEU/REU`
 * dresses `TKRES/-S`
@@ -160,16 +163,20 @@
 * served `SEFRBD`
 * wrap `WRAP`
 * themselves `TH*EPLS`
+* when `WHEPB`
+* they `THE`
 * slept `SHREPD`
 * under `*UPBD`
 * roofs `RAOFS`
 * snow, `STPHOE KW-BG`
 * while `WHAOEUL`
 * outside `OUDZ`
+* it `T`
 * freezing `TPRAOEZ/-G`
 * cold `KOELD`
 * severe `SWAOER`
 * us. `US TP-PL`
+* In `KPA/TPH`
 * our `OUR`
 * country `KREU`
 * still `STEUL`
@@ -186,6 +193,7 @@
 * on `OPB`
 * trees `TRAOES`
 * home. `HOEPL TP-PL`
+* Their `KPA/THAEUR`
 * watches `WAFPS`
 * pointed `POEUPBTD`
 * hours `HOURS`
@@ -203,17 +211,17 @@
 * rest. `REFT/TP-PL`
 * younger `KWRURPBG`
 * him `HEUPL`
-* From `TPR`
+* from `TPR`
 * home `HOEPL`
 * his `HEUS`
 * best, `PWEFT KW-BG`
 * dearest `TKAER/EFT`
 * treasure—a `TRERB EPL/TKA*RB AEU`
-* Bible, `PWAOEUBL KW-BG`
+* Bible, `PWAO*EUBL KW-BG`
 * grandmother `TKPWR-PL`
 * given `TKPWEUFPB`
 * departure. `TKPAR/KHUR TP-PL`
-* Every `EF`
+* Every `KPA/EF`
 * sacred `SKRED`
 * volume `SROL`
 * rested `REFT/-D`
@@ -229,12 +237,12 @@
 * book, `PWAOBG KW-BG`
 * stretched `STREFPD`
 * couch, `KOUFP KW-BG`
-* Holy `HOEUL`
+* holy `HOEUL`
 * words `WORDZ`
 * learnt `HRERPBT/A*U`
 * come `KOPL`
 * mind: `PHAOEUPBD STPH-FPLT`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * I `EU`
 * take `TAEUBG`
 * wings `WEUPBGS`
@@ -244,10 +252,10 @@
 * parts `PARTS`
 * sea, `SAE KW-BG`
 * even `AOEPB`
-* Thou `THO*U`
+* Thou `KPA/THO*U`
 * art `ART`
 * me, `PHE KW-BG`
-* Thy `THAO*EU`
+* Thy `KPA/THAO*EU`
 * right `RAOEUT`
 * hand `HAPBD`
 * shall `SHAL`
@@ -262,13 +270,14 @@
 * dreams, `TKRAOEPLS KW-BG`
 * are `R`
 * manifestations `PHAPB/TPEFT/AUGS/-S`
-* God `TKPWOD`
+* God `TKPWO*D`
 * spirit. `SPEURT TP-PL`
 * soul `SOUL`
 * lives `HREUFS`
 * acts, `ABGZ KW-BG`
 * body `PWO*ED`
 * is `S`
+* He `KPA/HE`
 * felt `TPELT`
 * this `TH`
 * life `HRAOEUF`
@@ -306,12 +315,13 @@
 * beaming `PWAEPL/-G`
 * face `TPAEUS`
 * gazing. `TKPWAEUFG TP-PL`
+* As `KPA/AZ`
 * cup `KUP`
 * lily, `HREUL/KWREU KW-BG`
 * angel `A*EPBLG`
-* rose `ROEZ`
+* rose `ROES`
 * amidst `A/PHEUTDZ`
-* Bible; `PWAOEUBL STPH*FPLT`
+* Bible; `PWAO*EUBL STPH*FPLT`
 * and, `SKP KW-BG`
 * stretching `STREFPG`
 * out `OUT`
@@ -357,6 +367,7 @@
 * tune `TAOUPB`
 * taught `TAUT`
 * him. `HEUPL TP-PL`
+* His `KPA/HEUS`
 * birds'-food `PWEURDZ AE H-PB TPAOD`
 * cage, `KAEUPBLG KW-BG`
 * he, `HE KW-BG`
@@ -374,7 +385,7 @@
 * well, `WEL KW-BG`
 * drawing `TKRAUG`
 * water. `WAUR TP-PL`
-* She `SHE`
+* She `KPA/SHE`
 * nodded `TPHOD/-D`
 * grandmother, `TKPWR-PL KW-BG`
 * old `OLD`
@@ -382,6 +393,7 @@
 * her, `HER KW-BG`
 * letter `HRERT`
 * off. `OF TP-PL`
+* That `KPA/THA`
 * morning `PHORPBG`
 * arrived `A/REUFD`
 * north; `TPHORT STPH*FPLT`
@@ -391,7 +403,7 @@
 * sweetly `SWAOET/HREU`
 * sleeping `SHRAOEPG`
 * protecting `PRO/TEBGT/-G`
-* God. `TKPWOD TP-PL`
+* God. `TKPWO*D TP-PL`
 * laughed `HRAFD`
 * wept `WEPT`
 * letter; `HRERT STPH*FPLT`
@@ -402,26 +414,31 @@
 * wings, `WEUPBGS KW-BG`
 * smiled `SPHAOEULD`
 * spirit; `SPEURT STPH*FPLT`
+* all `AUL`
 * dream. `TKRAOEPL TP-PL`
+* From `KPA/TPR`
 * aloud `A/HROUD`
-* Writ: `WREUT STPH-FPLT`
-* "in `KR-GS TPH`
+* Holy `KPA/HOEUL`
+* Writ: `KPA/WREUT STPH-FPLT`
+* "In `KR-GS KPA/TPH`
 * me." `PHE TP-PL KR-GS`
+* And `AFPBD`
 * sleeper, `SHRAOEP/*ER KW-BG`
 * beautiful `PWAOUFL`
 * music `PHAOUFBG`
 * hymn. `H*EUPL TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * vision `SREUGS`
 * fled. `TPHRED TP-PL`
 * dark `TKARBG`
 * again `TKPWEPB`
 * snow-hut: `STPHOE H-PB HUT STPH-FPLT`
-* Bible `PWAOEUBL`
+* Bible `PWAO*EUBL`
 * beneath `TPHAO*ET`
 * hope `HOEP`
 * dwelt `TKWELT`
 * heart. `HART TP-PL`
 * carried `KAERD`
 * heart, `HART KW-BG`
+* "in `KR-GS TPH`
 * sea." `SAE TP-PL KR-GS`

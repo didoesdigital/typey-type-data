@@ -1,6 +1,6 @@
 # The Darning-Needle
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -18,7 +18,7 @@
 * fit `TPEUT`
 * for `TPOR`
 * embroidery. `EPL/PWROEUD/REU TP-PL`
-* "Hold `KR-GS HOLD`
+* "Hold `KR-GS KPA/HOLD`
 * me `PHE`
 * tight," `TAOEUT KW-BG KR-GS`
 * would `WO`
@@ -45,7 +45,7 @@
 * am `APL`
 * very `SRE`
 * fine." `TPAOEUPB TP-PL KR-GS`
-* "that `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * is `S`
 * your `KWROUR`
 * opinion, `P-PB KW-BG`
@@ -55,7 +55,7 @@
 * seized `SAOEZ/-D`
 * round `ROUPBD`
 * body. `PWO*ED TP-PL`
-* "See, `KR-GS SAOE KW-BG`
+* "See, `KR-GS KPA/SAOE KW-BG`
 * coming `KO*G`
 * with `W`
 * train," `TRAEUPB KW-BG KR-GS`
@@ -66,10 +66,12 @@
 * after `AF`
 * her; `HER STPH*FPLT`
 * but `PWUT`
+* there `THR`
 * no `TPHO`
 * knot `TPHO*T`
 * in `TPH`
 * thread. `THRED TP-PL`
+* The `KPA/-T`
 * fingers `TPEURPBGS`
 * then `THEPB`
 * placed `PHRAEUFD`
@@ -79,14 +81,14 @@
 * against `TKPWEPBS`
 * cook's `KAOBG AES`
 * slipper. `SHREUP/ER TP-PL`
-* Crack `KRABG`
+* crack `KRABG`
 * upper `AOURP`
 * leather, `HRE/THER KW-BG`
 * which `WEU`
 * had `H`
 * sewn `SWEPB`
 * together. `TOGT TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * coarse `KAORS`
 * work!" `WORBG SKHRAPL KR-GS`
 * "I `KR-GS EU`
@@ -98,7 +100,7 @@
 * sure `SHUR`
 * enough `TPHUF`
 * broke. `PWROEBG TP-PL`
-* "Did `KR-GS TK`
+* "Did `KR-GS KPA/TK`
 * not `TPHOT`
 * so?" `SO H-F KR-GS`
 * know `TPHOE`
@@ -106,7 +108,7 @@
 * such `SUFP`
 * work `WORBG`
 * that." `THA TP-PL KR-GS`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * quite `KWAOEUT`
 * useless `AOUS/-LS`
 * sewing `SWEG`
@@ -125,8 +127,8 @@
 * fastened `TPAS/-PBD`
 * handkerchief `HAPB/KER/KHEF`
 * front. `TPROPBT TP-PL`
-* "So `KR-GS SO`
-* Now `TPHOU`
+* "So `KR-GS KPA/SO`
+* now `TPHOU`
 * breast-pin," `PWREFT H-PB PEUPB KW-BG KR-GS`
 * darning-needle; `TKARPB/-G H-PB TPHAO*ELD STPH*FPLT`
 * knew `TPHAOU`
@@ -145,6 +147,7 @@
 * ever `-FR`
 * saw `SAU`
 * laugh. `HRAF TP-PL`
+* And `AFPBD`
 * sat `SAT`
 * proudly `PROUD/HREU`
 * were `WR`
@@ -172,6 +175,7 @@
 * although `HR*T`
 * rather `RAER`
 * small. `SPHAL TP-PL`
+* You `KPA/U`
 * take `TAEUBG`
 * pains `PAEUPBS`
 * grow, `TKPWROE KW-BG`
@@ -188,7 +192,7 @@
 * into `TPHAO`
 * sink, `S*EUPBG KW-BG`
 * cleaning. `KHRAOEPBG TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * going `TKPW-G`
 * journey," `SKWRURPB KW-BG KR-GS`
 * floated `TPHROET/-D`
@@ -197,6 +201,7 @@
 * water, `WAUR KW-BG`
 * hope `HOEP`
 * lost." `HRO*S TP-PL KR-GS`
+* But `KPA/PWUT`
 * really `R-L`
 * lost `HRO*S`
 * gutter. `TKPWOURT TP-PL`
@@ -208,6 +213,7 @@
 * am, `APL KW-BG`
 * always `AULS`
 * comfort." `K-FRT TP-PL KR-GS`
+* So `KPA/SO`
 * kept `KEPT`
 * proud `PROUD`
 * behavior, `PWAEUFR KW-BG`
@@ -215,6 +221,7 @@
 * lose `HRUZ`
 * good `TKPWAOD`
 * humor. `HAOURPL TP-PL`
+* Then `KPA/THEPB`
 * over `OEFR`
 * sorts `SORTS`
 * things,—chips `THEUPBGS KW-BG EPL/TKA*RB KHEUPS`
@@ -222,7 +229,7 @@
 * pieces `PAOEFS`
 * old `OLD`
 * newspaper. `TPHUP TP-PL`
-* "See `KR-GS SAOE`
+* "See `KR-GS KPA/SAOE`
 * how `HOU`
 * sail," `SAEUL KW-BG KR-GS`
 * "they `KR-GS THE`
@@ -232,7 +239,7 @@
 * here, `HAOER KW-BG`
 * here `HAOER`
 * stick. `STEUBG TP-PL`
-* See, `SAOE KW-BG`
+* See, `KPA/SAOE KW-BG`
 * goes `TKPW-S`
 * chip, `KHEUP KW-BG`
 * thinking `THEUG`
@@ -240,7 +247,7 @@
 * world `WORLD`
 * himself—only `H*EUPLS EPL/TKA*RB OEPBL`
 * chip. `KHEUP TP-PL`
-* There's `THR AES`
+* There's `KPA/THR AES`
 * straw `STRAU`
 * by `PWEU`
 * now; `TPHOU STPH*FPLT`
@@ -271,6 +278,7 @@
 * patiently `PAEURBLT`
 * quietly. `KWAO*EULT TP-PL`
 * move." `PHOF TP-PL KR-GS`
+* One `KPA/WUPB`
 * day `TKAEU`
 * something `S-G`
 * lying `HRAOEUG`
@@ -290,7 +298,7 @@
 * suppose `SPOS`
 * diamond?" `TKAOEUPLD H-F KR-GS`
 * said. `SAEUD TP-PL`
-* "Why `KR-GS KWR`
+* "Why `KR-GS KPA/KWR`
 * yes, `KWRE KW-BG`
 * kind," `KEUPBD KW-BG KR-GS`
 * replied; `RE/PHRAOEUD STPH*FPLT`
@@ -307,9 +315,10 @@
 * it. `T TP-PL`
 * lady's `HRAEUD/KWREU/AES`
 * work-box," `WORBG H-PB PWOBGS KW-BG KR-GS`
-* "And `KR-GS SKP`
+* "and `KR-GS SKP`
 * lady `HRA*ED`
 * cook. `KAOBG TP-PL`
+* She `KPA/SHE`
 * hand `HAPBD`
 * five `TPEUF`
 * anything `TPHEUG`
@@ -320,12 +329,13 @@
 * put `PUT`
 * back `PWABG`
 * again." `TKPWEPB TP-PL KR-GS`
-* "Were `KR-GS WR`
+* "Were `KR-GS KPA/WR`
 * high-born?" `HAOEU H-PB PWORPB H-F KR-GS`
-* "High-born!" `KR-GS HAOEU H-PB PWORPB SKHRAPL KR-GS`
+* "High-born!" `KR-GS KPA/HAOEU H-PB PWORPB SKHRAPL KR-GS`
 * "no `KR-GS TPHO`
 * indeed, `TPHAOEPBD KW-BG`
 * haughty. `HAU/TEU TP-PL`
+* They `KPA/THE`
 * brothers, `PWROERS KW-BG`
 * born `PWORPB`
 * together, `TOGT KW-BG`
@@ -354,7 +364,7 @@
 * man `PHAPB`
 * unfit `UPB/TPEUT`
 * soldier. `SHRERPBL TP-PL`
-* Sweet-tooth, `SWAOET H-PB TAO*T KW-BG`
+* Sweet-tooth, `KPA/SWAOET H-PB TAO*T KW-BG`
 * dipped `TKEUPD`
 * himself `H*EUPLS`
 * sweet `SWAOET`
@@ -370,7 +380,7 @@
 * finger, `TPURPBG KW-BG`
 * heads `HEDZ`
 * others. `OERS TP-PL`
-* Gold-band, `TKPWOELD H-PB PWAPBD KW-BG`
+* Gold-band, `KPA/TKPWOELD H-PB PWAPBD KW-BG`
 * next `TPHEGT`
 * wore `WOR`
 * golden `TKOELD/*EPB`
@@ -387,8 +397,10 @@
 * remain; `RE/PHAUPB STPH*FPLT`
 * left `HREFT`
 * them." `THEPL TP-PL KR-GS`
+* "And `KR-GS AFPBD`
 * we `WE`
 * glitter," `TKPWHREUT KW-BG KR-GS`
+* At `KPA/AT`
 * same `SAEUPL`
 * moment `PHOEPLT`
 * more `PHOR`
@@ -415,16 +427,18 @@
 * came `KAEUPL`
 * sunbeam, `SUPB/PWAOEPL KW-BG`
 * fine. `TPAOEUPB TP-PL`
+* It `KPA/T`
 * seems `SAOEPLS`
 * sunbeams `SUPB/PWAOEPL/-S`
 * looking `HRAOG`
 * water. `WAUR TP-PL`
-* Ah! `HA*E SKHRAPL`
+* Ah! `KPA/HA*E SKHRAPL`
 * even `AOEPB`
 * mother `PHOER`
 * cannot `K/TPHOT`
 * find `TPEUPBD`
 * me. `PHE TP-PL`
+* Had `KPA/H`
 * eye, `AOEU KW-BG`
 * off, `OF KW-BG`
 * believe `PWHREF`
@@ -464,7 +478,7 @@
 * finer `TPAOEURPB`
 * than `THAPB`
 * before. `PW-F TP-PL`
-* "Here `KR-GS HAOER`
+* "Here `KR-GS KPA/HAOER`
 * comes `KOPLS`
 * an `APB`
 * egg-shell `EG H-PB SHEL`
@@ -473,9 +487,10 @@
 * boys; `PWOEUS STPH*FPLT`
 * stuck `STUBG`
 * egg-shell. `EG H-PB SHEL TP-PL`
-* "White `KR-GS WHAOEUT`
+* "White `KR-GS WHAO*EUT`
 * walls, `WAULS KW-BG`
 * myself," `PHAO*EUS KW-BG KR-GS`
+* "that `KR-GS THA`
 * looks `HRAOBGS`
 * well; `WEL STPH*FPLT`
 * can `K`
@@ -483,7 +498,7 @@
 * sea-sick, `SAE H-PB SEUBG KW-BG`
 * break `PWRAEBG`
 * break. `PWRAEBG TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * thing `THEUPBG`
 * sea-sickness `SAE H-PB SEUBG/-PBS`
 * steel `STAOEL`
@@ -492,15 +507,17 @@
 * one's `W*UPBS`
 * own `OEPB`
 * importance. `PORPBS TP-PL`
+* Now `KPA/TPHOU`
 * past: `PAFT STPH-FPLT`
 * delicate `TKEL/KAT`
 * bear `PWAER`
 * deal." `TKAOEL TP-PL KR-GS`
+* Crack `KPA/KRABG`
 * went `WEPBT`
 * egg-shell, `EG H-PB SHEL KW-BG`
 * waggon `WAG/TKPWOPB`
 * passed `PAFD`
-* "Good `KR-GS TKPWAOD`
+* "Good `KR-GS KPA/TKPWAOD`
 * heavens, `HEFPBS KW-BG`
 * crushes!" `KRURBS SKHRAPL KR-GS`
 * darning-needle. `TKARPB/-G H-PB TPHAO*ELD TP-PL`

@@ -1,9 +1,9 @@
 The Jumper
 
-'The': -T
-'Flea,': TPHRAE KW-BG
+'The': KPA/-T
+'Flea,': KPA/TPHRAE KW-BG
 'the': -T
-'Grasshopper,': TKPWHR*FRPBLG KW-BG
+'Grasshopper,': KPA/TKPWHR*FRPBLG KW-BG
 'and': SKP
 'the': -T
 'Skipjack': xxx Skipjack
@@ -33,7 +33,7 @@ The Jumper
 'the': -T
 'grand': TKPWRAPBD
 'sight.': SAOEUT TP-PL
-'And': SKP
+'And': AFPBD
 'there': THR
 'the': -T
 'three': THRAOE
@@ -45,7 +45,7 @@ The Jumper
 'in': TPH
 'the': -T
 'room.': RAOPL TP-PL
-'"Yes,': KR-GS KWRE KW-BG
+'"Yes,': KR-GS KPA/KWRE KW-BG
 'I'll': AOEUL
 'give': TKPWEUF
 'my': PHEU
@@ -57,7 +57,7 @@ The Jumper
 'highest,"': HAOEU/EFT KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'King,': KEUPBG KW-BG
+'King,': KO*EUPBG KW-BG
 '"for': KR-GS TPOR
 'it': T
 'would': WO
@@ -70,12 +70,12 @@ The Jumper
 'jump': SKWRUFRP
 'for': TPOR
 'nothing."': TPHOG TP-PL KR-GS
-'The': -T
-'Flea': TPHRAE
+'The': KPA/-T
+'Flea': KPA/TPHRAE
 'stepped': STEPD
 'out': OUT
 'first.': TPEUFRT TP-PL
-'He': HE
+'He': KPA/HE
 'had': H
 'very': SRE
 'pretty': PREUT
@@ -109,10 +109,10 @@ The Jumper
 'of': -F
 'great': TKPWRAET
 'consequence.': KWEPBS TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'came': KAEUPL
 'the': -T
-'Grasshopper:': TKPWHR*FRPBLG STPH-FPLT
+'Grasshopper:': KPA/TKPWHR*FRPBLG STPH-FPLT
 'he': HE
 'was': WAS
 'certainly': SERPBL
@@ -134,7 +134,7 @@ The Jumper
 'born': PWORPB
 'with': W
 'him.': HEUPL TP-PL
-'This': TH
+'This': KPA/TH
 'person,': PERPB KW-BG
 'moreover,': PHROEFR KW-BG
 'maintained': PHAEUPB/TAEUPBD
@@ -158,7 +158,7 @@ The Jumper
 'highly': HAOEUL
 'esteemed': ES/TAOEPLD
 'there.': THR TP-PL
-'He': HE
+'He': KPA/HE
 'had': H
 'just': SKWRUFT
 'come': KOPL
@@ -189,7 +189,7 @@ The Jumper
 'figures': TPEUGS
 'turned': TURPBD
 'inwards.': EUPB/WARD/-S TP-PL
-'There': THR
+'There': KPA/THR
 'were': WR
 'doors': TKAORS
 'and': SKP
@@ -203,9 +203,9 @@ The Jumper
 'body': PWO*ED
 'of': -F
 'the': -T
-'Queen': KWAOEPB
+'Queen': KWAO*EPB
 'of': -F
-'Hearts.': HARTS TP-PL
+'Hearts.': KPA/HARTS TP-PL
 '"I': KR-GS EU
 'sing': SEUPBG
 'so,"': SO KW-BG KR-GS
@@ -247,14 +247,14 @@ The Jumper
 'to': TO
 'hear': HAER
 'me."': PHE TP-PL KR-GS
-'Both': PWO*T
+'Both': KPA/PWO*T
 'of': -F
 'them,': THEPL KW-BG
 'the': -T
-'Flea': TPHRAE
+'Flea': KPA/TPHRAE
 'and': SKP
 'the': -T
-'Grasshopper,': TKPWHR*FRPBLG KW-BG
+'Grasshopper,': KPA/TKPWHR*FRPBLG KW-BG
 'took': TAOBG
 'care': KAEUR
 'to': TO
@@ -271,8 +271,8 @@ The Jumper
 'to': TO
 'marry': PHAER
 'a': AEU
-'Princess.': PREUPB/ES TP-PL
-'The': -T
+'Princess.': KPA/PREUPB/ES TP-PL
+'The': KPA/-T
 'Skipjack': xxx Skipjack
 'said': SAEUD
 'nothing,': TPHOG KW-BG
@@ -291,8 +291,8 @@ The Jumper
 'and': SKP
 'directly': TKREL
 'the': -T
-'Yard': KWRARD
-'Dog': TKOG
+'Yard': KPA/KWRARD
+'Dog': KPA/TKOG
 'had': H
 'smelt': SPHELT
 'at': AT
@@ -318,7 +318,7 @@ The Jumper
 'an': APB
 'undoubted': xxx undoubted
 'goose.': TKPWAOS TP-PL
-'The': -T
+'The': KPA/-T
 'old': OLD
 'councillor,': KOUPB/SEU/HROR KW-BG
 'who': WHO
@@ -383,7 +383,7 @@ The Jumper
 'said': SAEUD
 'the': -T
 'old': OLD
-'King.': KEUPBG TP-PL
+'King.': KO*EUPBG TP-PL
 '"I': KR-GS EU
 'only': OEPBL
 'go': TKPW
@@ -394,15 +394,15 @@ The Jumper
 'think': THEU
 'the': -T
 'best."': PWEFT TP-PL KR-GS
-'Now': TPHOU
+'Now': KPA/TPHOU
 'they': THE
 'were': WR
 'to': TO
 'take': TAEUBG
 'their': THAEUR
 'jump.': SKWRUFRP TP-PL
-'The': -T
-'Flea': TPHRAE
+'The': KPA/-T
+'Flea': KPA/TPHRAE
 'sprang': SPRAPBG
 'so': SO
 'high': HAOEU
@@ -423,12 +423,12 @@ The Jumper
 'jumped': SKWR*UPLD
 'at': AT
 'all.': AUL TP-PL
-'That': THA
+'That': KPA/THA
 'was': WAS
 'very': SRE
 'mean.': PHAOEPB TP-PL
-'The': -T
-'Grasshopper': TKPWHR*FRPBLG
+'The': KPA/-T
+'Grasshopper': KPA/TKPWHR*FRPBLG
 'only': OEPBL
 'sprang': SPRAPBG
 'half': HAF
@@ -440,17 +440,17 @@ The Jumper
 'straight': STRAEUT
 'into': TPHAO
 'the': -T
-'King's': KEUPBG AES
+'King's': KO*EUPBG AES
 'face,': TPAEUS KW-BG
 'and': SKP
 'the': -T
-'King': KEUPBG
+'King': KO*EUPBG
 'declared': TKE/KHRAEURD
 'that': THA
 'was': WAS
 'horribly': HOR/PWHREU
 'rude.': RAOUD TP-PL
-'The': -T
+'The': KPA/-T
 'Skipjack': xxx Skipjack
 'stood': STAOD
 'a': AEU
@@ -477,8 +477,8 @@ The Jumper
 'unwell,"': xxx unwell KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Yard': KWRARD
-'Dog,': TKOG KW-BG
+'Yard': KPA/KWRARD
+'Dog,': KPA/TKOG KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
@@ -486,7 +486,7 @@ The Jumper
 'at': AT
 'him': HEUPL
 'again.': TKPWEPB TP-PL
-'"Tap!"': KR-GS TAP SKHRAPL KR-GS
+'"Tap!"': KR-GS KPA/TAP SKHRAPL KR-GS
 'he': HE
 'sprang': SPRAPBG
 'with': W
@@ -500,7 +500,7 @@ The Jumper
 'lap': HRAP
 'of': -F
 'the': -T
-'Princess,': PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/ES KW-BG
 'who': WHO
 'sat': SAT
 'on': OPB
@@ -508,11 +508,11 @@ The Jumper
 'low': HROE
 'golden': TKOELD/*EPB
 'stool.': STOL TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
-'King': KEUPBG
+'King': KO*EUPBG
 'said,': SAEUD KW-BG
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'highest': HAOEU/EFT
 'leap': HRAOEP
 'was': WAS
@@ -547,12 +547,12 @@ The Jumper
 'has': HAS
 'a': AEU
 'head."': HED TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'so': SO
 'he': HE
 'had': H
 'the': -T
-'Princess.': PREUPB/ES TP-PL
+'Princess.': KPA/PREUPB/ES TP-PL
 '"I': KR-GS EU
 'jumped': SKWR*UPLD
 'highest,': HAOEU/EFT KW-BG
@@ -560,13 +560,13 @@ The Jumper
 'all,"': AUL KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'Flea.': TPHRAE TP-PL
-'"But': KR-GS PWUT
+'Flea.': KPA/TPHRAE TP-PL
+'"But': KR-GS KPA/PWUT
 'it's': T-S
 'all': AUL
 'the': -T
 'same.': SAEUPL TP-PL
-'Let': HRET
+'Let': KPA/HRET
 'her': HER
 'have': SR
 'the': -T
@@ -599,9 +599,9 @@ The Jumper
 'to': TO
 'be': -B
 'seen."': SAOEPB TP-PL KR-GS
-'And': SKP
+'And': AFPBD
 'the': -T
-'Flea': TPHRAE
+'Flea': KPA/TPHRAE
 'went': WEPBT
 'into': TPHAO
 'foreign': TPOERPB
@@ -614,8 +614,8 @@ The Jumper
 'he': HE
 'was': WAS
 'killed.': KEULD TP-PL
-'The': -T
-'Grasshopper': TKPWHR*FRPBLG
+'The': KPA/-T
+'Grasshopper': KPA/TKPWHR*FRPBLG
 'seated': SAOETD
 'himself': H*EUPLS
 'out': OUT
@@ -632,17 +632,17 @@ The Jumper
 'in': TPH
 'the': -T
 'world.': WORLD TP-PL
-'And': SKP
+'And': AFPBD
 'he': HE
 'too': TAO
 'said,': SAEUD KW-BG
-'"Body': KR-GS PWO*ED
+'"Body': KR-GS KPA/PWO*ED
 'is': S
 'required!': RAOEURD SKHRAPL
 'body': PWO*ED
 'is': S
 'required!"': RAOEURD SKHRAPL KR-GS
-'And': SKP
+'And': AFPBD
 'then': THEPB
 'he': HE
 'sang': SAPBG

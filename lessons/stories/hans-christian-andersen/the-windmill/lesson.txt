@@ -103,7 +103,7 @@ The Windmill
 'beneath': TPHAO*ET
 'my': PHEU
 'hat.': HAT TP-PL
-'The': -T
+'The': KPA/-T
 'birds': PWEURDZ
 'have': SR
 'only': OEPBL
@@ -133,7 +133,7 @@ The Windmill
 'figure—a': TPEUG EPL/TKA*RB AEU
 'flying': TPHRAOEUG
 'Dutchman.': TKUFP/PHA*PB TP-PL
-'They': THE
+'They': KPA/THE
 'are': R
 'considered': KR-D
 'supernatural': SAOUP/TPHARL
@@ -162,7 +162,7 @@ The Windmill
 'my': PHEU
 'thoughts': THAUTS
 'dwell.': TKWEL TP-PL
-'My': PHEU
+'My': KPA/PHEU
 'strongest': STROPBG/EFT
 'thought,': THAUT KW-BG
 'who': WHO
@@ -173,12 +173,12 @@ The Windmill
 'called': KAULD
 'by': PWEU
 'others': OERS
-''The': AE -T
-'Man': PHAPB
+''The': AE KPA/-T
+'Man': KPA/PHAPB
 'in': TPH
 'the': -T
-'Mill.'': PHEUL TP-PL AE
-'He': HE
+'Mill.'': PHEUL/PHEUL TP-PL AE
+'He': KPA/HE
 'knows': TPHOEZ
 'what': WHA
 'he': HE
@@ -202,15 +202,15 @@ The Windmill
 'she': SHE
 'calls': KAULS
 'herself': H*ERS
-''Mother.'': AE PHOER TP-PL AE
-'She': SHE
+''Mother.'': AE KPA/PHOER TP-PL AE
+'She': KPA/SHE
 'is': S
 'the': -T
 'very': SRE
 'heart': HART
 'of': -F
 'me.': PHE TP-PL
-'She': SHE
+'She': KPA/SHE
 'does': TKOS
 'not': TPHOT
 'run': RUPB
@@ -256,7 +256,7 @@ The Windmill
 'her': HER
 'own': OEPB
 'way.': WAEU TP-PL
-'She': SHE
+'She': KPA/SHE
 'is': S
 'my': PHEU
 'soft': SOFT
@@ -268,7 +268,7 @@ The Windmill
 'my': PHEU
 'hard': HARD
 'one.': WUPB TP-PL
-'They': THE
+'They': KPA/THE
 'are': R
 'two,': TWO KW-BG
 'and': SKP
@@ -279,9 +279,9 @@ The Windmill
 'call': KAUL
 'the': -T
 'other': OER
-''My': AE PHEU
+''My': AE KPA/PHEU
 'half.'': HAF TP-PL AE
-'These': THEZ
+'These': KPA/THEZ
 'two': TWO
 'have': SR
 'some': SOPL
@@ -292,14 +292,14 @@ The Windmill
 'that': THA
 'can': K
 'grow.': TKPWROE TP-PL
-'The': -T
+'The': KPA/-T
 'little': HREUL
 'ones': WUPBZ
 'keep': KAOEP
 'everything': EFG
 'in': TPH
 'order.': ORD TP-PL
-'When,': WHEPB KW-BG
+'When,': KPA/WHEPB KW-BG
 'lately,': HRAEULT KW-BG
 'in': TPH
 'my': PHEU
@@ -347,7 +347,7 @@ The Windmill
 'a': AEU
 'tremendous': TREPLD
 'noise.': TPHOEUS TP-PL
-'The': -T
+'The': KPA/-T
 'youngest': KWRUPBG/EFT
 'jumped': SKWR*UPLD
 'up': UP
@@ -362,7 +362,7 @@ The Windmill
 'it': T
 'tickled': TEUBG/-LD
 'me.': PHE TP-PL
-'The': -T
+'The': KPA/-T
 'little': HREUL
 'thoughts': THAUTS
 'may': PHAE
@@ -425,7 +425,7 @@ The Windmill
 'it': T
 'is': S
 'called.': KAULD TP-PL
-'It's': T AES
+'It's': KPA/T AES
 'wonderful': WUFL
 'enough—yes,': TPHUF EPL/TKA*RB KWRE KW-BG
 'there': THR
@@ -433,7 +433,7 @@ The Windmill
 'many': PHAEPB
 'wonderful': WUFL
 'things.': THEUPBGS TP-PL
-'Something': S-G
+'Something': KPA/S-G
 'has': HAS
 'come': KOPL
 'over': OEFR
@@ -446,7 +446,7 @@ The Windmill
 'in': TPH
 'the': -T
 'mill-work.': PHEUL H-PB WORBG TP-PL
-'It': T
+'It': KPA/T
 'seems': SAOEPLS
 'as': AZ
 'if': TP
@@ -485,7 +485,7 @@ The Windmill
 'course': KORS
 'of': -F
 'time.': TAOEUPL TP-PL
-'What': WHA
+'What': KPA/WHA
 'was': WAS
 'bitter': PWEURT
 'has': HAS
@@ -498,7 +498,7 @@ The Windmill
 'much': PHUFP
 'more': PHOR
 'comfortable.': K-BL TP-PL
-'"The': KR-GS -T
+'"The': KR-GS KPA/-T
 'days': TKAEUS
 'go': TKPW
 'on,': OPB KW-BG
@@ -551,7 +551,7 @@ The Windmill
 'shall': SHAL
 'live': HREUF
 'on.': OPB TP-PL
-'To': TO
+'To': KPA/TO
 'become': PW-BG
 'quite': KWAOEUT
 'a': AEU
@@ -562,7 +562,7 @@ The Windmill
 'remain': RE/PHAUPB
 'the': -T
 'same!': SAEUPL SKHRAPL
-'That's': THA AES
+'That's': KPA/THA AES
 'difficult': TKEUFL
 'for': TPOR
 'me': PHE
@@ -581,7 +581,7 @@ The Windmill
 'oil,': OEUL KW-BG
 'and': SKP
 'tallow.': TAL/HROE TP-PL
-'My': PHEU
+'My': KPA/PHEU
 'old': OLD
 'wood-work': WAOD H-PB WORBG
 'and': SKP
@@ -638,7 +638,7 @@ The Windmill
 'refrain': RE/TPRAEUPB
 'from': TPR
 'it.': T TP-PL
-'"And': KR-GS SKP
+'"And': KR-GS AFPBD
 'I': EU
 'must': PHUFT
 'also': HR-S
@@ -674,7 +674,7 @@ The Windmill
 'me,': PHE KW-BG
 'and': SKP
 'say,': SAEU KW-BG
-''There's': AE THR AES
+''There's': AE KPA/THR AES
 'the': -T
 'mill': PHEUL
 'on': OPB
@@ -690,13 +690,13 @@ The Windmill
 'proud': PROUD
 'at': AT
 'all.'"': AUL TP-PL AE KR-GS
-'That': THA
+'That': KPA/THA
 'is': S
 'what': WHA
 'the': -T
 'mill': PHEUL
 'said.': SAEUD TP-PL
-'Indeed,': TPHAOEPBD KW-BG
+'Indeed,': KPA/TPHAOEPBD KW-BG
 'it': T
 'said': SAEUD
 'much': PHUFP
@@ -708,7 +708,7 @@ The Windmill
 'most': PHOFT
 'important': PORPB
 'part.': PART TP-PL
-'And': SKP
+'And': AFPBD
 'the': -T
 'days': TKAEUS
 'came,': KAEUPL KW-BG
@@ -722,14 +722,14 @@ The Windmill
 'the': -T
 'last': HRAFT
 'day.': TKAEU TP-PL
-'Then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'mill': PHEUL
 'caught': KAUT
 'fire.': TPAOEUR TP-PL
-'The': -T
+'The': KPA/-T
 'flames': TPHRAEUPLS
-'rose': ROEZ
+'rose': ROES
 'up': UP
 'high,': HAOEU KW-BG
 'and': SKP
@@ -748,7 +748,7 @@ The Windmill
 'ate': AEUT
 'them': THEPL
 'up.': UP TP-PL
-'The': -T
+'The': KPA/-T
 'mill': PHEUL
 'fell,': TPEL KW-BG
 'and': SKP
@@ -761,7 +761,7 @@ The Windmill
 'heap': HAOEP
 'of': -F
 'ashes.': ARBS TP-PL
-'The': -T
+'The': KPA/-T
 'smoke': SPHOEBG
 'drove': TKROEF
 'across': A/KROS
@@ -776,7 +776,7 @@ The Windmill
 'carried': KAERD
 'it': T
 'away.': A/WAEU TP-PL
-'Whatever': WHAF
+'Whatever': KPA/WHAF
 'had': H
 'been': PW-PB
 'alive': A/HRAOEUF
@@ -798,8 +798,8 @@ The Windmill
 'with': W
 'this': TH
 'story.': STOER TP-PL
-'The': -T
-'miller's': PHEUL/HRER AES
+'The': KPA/-T
+'miller's': PHEUL/*ER AES
 'family—one': TPAEPL EPL/TKA*RB WUPB
 'soul,': SOUL KW-BG
 'many': PHAEPB
@@ -817,7 +817,7 @@ The Windmill
 'answered': AEPBS/-D
 'its': EUTS
 'purpose.': PURP TP-PL
-'It': T
+'It': KPA/T
 'was': WAS
 'quite': KWAOEUT
 'like': HRAOEUBG
@@ -827,7 +827,7 @@ The Windmill
 'and': SKP
 'people': PAOEPL
 'said,': SAEUD KW-BG
-'"Why,': KR-GS KWR KW-BG
+'"Why,': KR-GS KPA/KWR KW-BG
 'yonder': KWROPBD/ER
 'is': S
 'the': -T
@@ -839,7 +839,7 @@ The Windmill
 'to': TO
 'look': HRAOBG
 'at!"': AT SKHRAPL KR-GS
-'But': PWUT
+'But': KPA/PWUT
 'this': TH
 'mill': PHEUL
 'was': WAS
@@ -859,7 +859,7 @@ The Windmill
 'might': PHAOEUT
 'be': -B
 'made.': PHAED TP-PL
-'The': -T
+'The': KPA/-T
 'old': OLD
 'beams': PWAOEPLS
 'had': H
@@ -872,7 +872,7 @@ The Windmill
 'dust': TKUFT
 'and': SKP
 'ashes.': ARBS TP-PL
-'The': -T
+'The': KPA/-T
 'body': PWO*ED
 'of': -F
 'the': -T
@@ -891,7 +891,7 @@ The Windmill
 'it': T
 'would': WO
 'do.': TKO TP-PL
-'They': THE
+'They': KPA/THE
 'had': H
 'taken': TAEPB
 'it': T

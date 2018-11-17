@@ -1,17 +1,19 @@
 # Jack the Dullard
 
-* an `APB`
-* old `OLD`
-* STORY `STOER`
-* told `TOLD`
-* ANEW `A/TPHU`
-* far `TPAR`
+* AN `KPA/APB`
+* OLD `KPA/OLD`
+* STORY `KPA/STOER`
+* TOLD `KPA/TOLD`
+* ANEW `KPA/A/TPHU`
+* Far `KPA/TPAR`
 * in `TPH`
 * the `-T`
 * interior `SPWER/KWROR`
 * of `-F`
 * country `KREU`
 * lay `HRAEU`
+* an `APB`
+* old `OLD`
 * baronial `xxx baronial`
 * hall, `HAUL KW-BG`
 * and `SKP`
@@ -31,13 +33,13 @@
 * clever `KHREFR`
 * by `PWEU`
 * half. `HAF TP-PL`
-* they `THE`
+* They `KPA/THE`
 * wanted `WAPBTD`
 * to `TO`
 * go `TKPW`
 * out `OUT`
 * woo `WAO`
-* King's `KEUPBG AES`
+* King's `KO*EUPBG AES`
 * daughter; `TKAUR STPH*FPLT`
 * for `TPOR`
 * maiden `PHAEUD/*EPB`
@@ -56,7 +58,7 @@
 * his `HEUS`
 * words `WORDZ`
 * best. `PWEFT TP-PL`
-* so `SO`
+* So `KPA/SO`
 * these `THEZ`
 * geniuses `SKWRAOEPBS/KWRUS/-S`
 * prepared `PRAOEPD`
@@ -72,15 +74,16 @@
 * them; `THEPL STPH*FPLT`
 * but `PWUT`
 * enough, `TPHUF KW-BG`
+* they `THE`
 * much `PHUFP`
 * preparatory `PREP/TOER`
 * information, `TPH-FGS KW-BG`
 * everybody `EFB`
 * knows `TPHOEZ`
-* How `HOU`
+* how `HOU`
 * useful `AOUFL`
 * is. `S TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * them `THEPL`
 * knew `TPHAOU`
 * whole `WHOEL`
@@ -95,6 +98,7 @@
 * town `TOUPB`
 * into `TPHAO`
 * bargain, `PWARG/AEUPB KW-BG`
+* so `SO`
 * well, `WEL KW-BG`
 * indeed, `TPHAOEPBD KW-BG`
 * he `HE`
@@ -107,6 +111,7 @@
 * just `SKWRUFT`
 * as `AZ`
 * chose. `KHOES TP-PL`
+* The `KPA/-T`
 * other `OER`
 * deeply `TKAO*EPL`
 * read `RAED`
@@ -125,6 +130,8 @@
 * spoke `SPOEBG`
 * wheel `WHAOEL`
 * council. `KUPB/SEUL TP-PL`
+* And `AFPBD`
+* one `WUPB`
 * thing `THEUPBG`
 * more: `PHOR STPH-FPLT`
 * embroider `EPL/PWROEUD/ER`
@@ -139,11 +146,11 @@
 * "I `KR-GS EU`
 * shall `SHAL`
 * win `WEUPB`
-* Princess!" `PREUPB/ES SKHRAPL KR-GS`
+* Princess!" `KPA/PREUPB/ES SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * both `PWO*T`
 * them. `THEPL TP-PL`
-* Therefore `TH-FR`
+* Therefore `KPA/TH-FR`
 * their `THAEUR`
 * papa `PA/PA`
 * gave `TKPWAEUF`
@@ -158,7 +165,7 @@
 * received `SAOEFD`
 * milk-white `PHEULG H-PB WHAOEUT`
 * steed. `STAOED TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * rubbed `RUBD`
 * corners `KRORPB/-S`
 * mouths `PHO*UTSZ`
@@ -168,6 +175,7 @@
 * very `SRE`
 * smooth `SPHAO*T`
 * glib. `TKPWHREUB TP-PL`
+* All `KPA/AUL`
 * servants `SER/SRAPBTS`
 * stood `STAOD`
 * below `PWHRO`
@@ -182,6 +190,7 @@
 * son `SOPB`
 * came `KAEUPL`
 * up. `UP TP-PL`
+* For `KPA/TPOR`
 * proprietor `PRO/PRAOEU/TOR`
 * really `R-L`
 * though `THOE`
@@ -195,12 +204,12 @@
 * indeed `TPHAOEPBD`
 * generally `SKWRERPBL`
 * known `TPHOEPB`
-* "Jack `KR-GS SKWRABG`
-* Dullard." `TKUL/ARD TP-PL KR-GS`
+* "Jack `KR-GS SKWRA*BG`
+* Dullard." `KPA/TKUL/ARD TP-PL KR-GS`
 * "Hallo!" `KR-GS xxx Hallo SKHRAPL KR-GS`
 * said `SAEUD`
-* Jack `SKWRABG`
-* Dullard, `TKUL/ARD KW-BG`
+* Jack `SKWRA*BG`
+* Dullard, `KPA/TKUL/ARD KW-BG`
 * "where `KR-GS W-R`
 * are `R`
 * you `U`
@@ -208,10 +217,10 @@
 * I `EU`
 * declare `TKE/KHRAR`
 * have `SR`
-* Your `KWROUR`
+* your `KWROUR`
 * Sunday `SUPBD`
 * clothes!" `KHRO*ETS SKHRAPL KR-GS`
-* "We're `KR-GS WE AE RE/SP-S`
+* "We're `KR-GS KPA/WE AE RE/SP-S`
 * going `TKPW-G`
 * court, `KORT KW-BG`
 * suitors `SAOU/TOR/-S`
@@ -224,13 +233,14 @@
 * made `PHAED`
 * through `THRU`
 * country?" `KREU H-F KR-GS`
+* told `TOLD`
 * him `HEUPL`
 * it. `T TP-PL`
-* "my `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * word! `WORD SKHRAPL`
 * I'll `AOEUL`
 * too!" `TAO SKHRAPL KR-GS`
-* Dullard; `TKUL/ARD STPH*FPLT`
+* Dullard; `KPA/TKUL/ARD STPH*FPLT`
 * brothers `PWROERS`
 * burst `PWUFRT`
 * laughing `HRAFG`
@@ -238,9 +248,9 @@
 * him, `HEUPL KW-BG`
 * rode `ROED`
 * away. `A/WAEU TP-PL`
-* "Father, `KR-GS TPAER KW-BG`
+* "Father, `KR-GS KPA/TPAER KW-BG`
 * dear," `TKAER KW-BG KR-GS`
-* Jack, `SKWRABG KW-BG`
+* Jack, `SKWRA*BG KW-BG`
 * must `PHUFT`
 * horse `HORS`
 * too. `TAO TP-PL`
@@ -249,10 +259,11 @@
 * desperately `TKES/PRAT/HREU`
 * inclined `EUPB/KHRAOEUPBD`
 * marry! `PHAER SKHRAPL`
-* if `TP`
+* If `KPA/TP`
 * accepts `SEPS`
 * me, `PHE KW-BG`
 * me; `PHE STPH*FPLT`
+* if `TP`
 * won't `WOEPBT`
 * her; `HER STPH*FPLT`
 * mine!" `PHAOEUPB SKHRAPL KR-GS`
@@ -260,20 +271,22 @@
 * nonsense," `TPHOPB/SEPBS KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * gentleman. `SKWRA*PL TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * no `TPHO`
 * from `TPR`
 * me. `PHE TP-PL`
+* You `KPA/U`
 * don't `TKOEPBT`
 * speak—you `SPAOEBG EPL/TKA*RB U`
 * can't `K-PBT`
 * words. `WORDZ TP-PL`
+* Your `KPA/KWROUR`
 * different `TKEUFRT`
 * fellows `TPO*EULS`
 * you." `U TP-PL KR-GS`
-* "Well," `KR-GS WEL KW-BG KR-GS`
+* "Well," `KR-GS KPA/WEL KW-BG KR-GS`
 * quoth `KWO*ET`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * take `TAEUBG`
 * Billy-goat, `PWEUL/HREU H-PB TKPWO*ET KW-BG`
 * belongs `PWHROPBGS`
@@ -283,6 +296,7 @@
 * well!" `WEL SKHRAPL KR-GS`
 * said, `SAEUD KW-BG`
 * done. `TKOPB TP-PL`
+* He `KPA/HE`
 * pressed `PREFD`
 * heels `HAOELS`
 * its `EUTS`
@@ -296,14 +310,16 @@
 * "Hei, `KR-GS xxx Hei KW-BG`
 * houp! `xxx houp SKHRAPL`
 * ride! `RAOEUD SKHRAPL`
-* here `HAOER`
+* Here `KPA/HAOER`
 * come!" `KOPL SKHRAPL KR-GS`
 * shouted `SHOUT/-D`
 * sang `SAPBG`
 * till `T*EUL`
 * voice `SROEUS`
 * echoed `EBG/OE/-D`
+* far `TPAR`
 * wide. `WAOEUD TP-PL`
+* But `KPA/PWUT`
 * slowly `SHROEL`
 * advance `SRAPBS`
 * him. `HEUPL TP-PL`
@@ -317,32 +333,33 @@
 * out, `OUT KW-BG`
 * cleverly `KHREFRL`
 * beforehand. `PW-FRPBD TP-PL`
-* Dullard. `TKUL/ARD TP-PL`
-* "Here `KR-GS HAOER`
+* Dullard. `KPA/TKUL/ARD TP-PL`
+* "Here `KR-GS KPA/HAOER`
 * am `APL`
 * I! `EU SKHRAPL`
-* Look `HRAOBG`
+* Look `KPA/HRAOBG`
 * found `TPOUPBD`
 * road." `RAOD TP-PL KR-GS`
 * showed `SHOED`
 * was, `WAS KW-BG`
 * dead `TKED`
 * crow. `KROE TP-PL`
-* "Dullard!" `KR-GS TKUL/ARD SKHRAPL KR-GS`
+* "Dullard!" `KR-GS KPA/TKUL/ARD SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * "what `KR-GS WHA`
 * that?" `THA H-F KR-GS`
-* "With `KR-GS W`
+* "With `KR-GS KPA/W`
 * crow? `KROE H-F`
 * why, `KWR KW-BG`
 * give `TKPWEUF`
-* Princess." `PREUPB/ES TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* Princess." `KPA/PREUPB/ES TP-PL KR-GS`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * so," `SO KW-BG KR-GS`
 * they; `THE STPH*FPLT`
 * laughed, `HRAFD KW-BG`
 * on. `OPB TP-PL`
 * "Hallo, `KR-GS xxx Hallo KW-BG`
+* here `HAOER`
 * again! `TKPWEPB SKHRAPL`
 * see `SAOE`
 * now: `TPHOU STPH-FPLT`
@@ -353,7 +370,7 @@
 * round `ROUPBD`
 * now. `TPHOU TP-PL`
 * cried, `KRAOEUD KW-BG`
-* "That `KR-GS THA`
+* "that `KR-GS THA`
 * is `S`
 * only `OEPBL`
 * wooden `WAOD/EPB`
@@ -363,8 +380,8 @@
 * missing `PHEUFG`
 * bargain; `PWARG/AEUPB STPH*FPLT`
 * also `HR-S`
-* Princess?" `PREUPB/ES H-F KR-GS`
-* "Most `KR-GS PHOFT`
+* Princess?" `KPA/PREUPB/ES H-F KR-GS`
+* "Most `KR-GS KPA/PHOFT`
 * certainly `SERPBL`
 * shall," `SHAL KW-BG KR-GS`
 * again `TKPWEPB`
@@ -377,30 +394,31 @@
 * "Hallo—hop `KR-GS xxx Hallo EPL/TKA*RB HOP`
 * rara!" `RA/RA SKHRAPL KR-GS`
 * there `THR`
-* Dullard `TKUL/ARD`
+* Dullard `KPA/TKUL/ARD`
 * again. `TKPWEPB TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * getting `TKPWEGT`
 * better `PWOERT`
 * better," `PWOERT KW-BG KR-GS`
 * cried. `KRAOEUD TP-PL`
-* "Hurrah! `KR-GS HUR/RA SKHRAPL`
+* "Hurrah! `KR-GS KPA/HUR/RA SKHRAPL`
 * quite `KWAOEUT`
 * famous." `TPAEUPLS TP-PL KR-GS`
-* "Why, `KR-GS KWR KW-BG`
+* "Why, `KR-GS KPA/KWR KW-BG`
 * this `TH`
 * time?" `TAOEUPL H-F KR-GS`
 * inquired `EUPB/KWAOEURD`
 * brothers. `PWROERS TP-PL`
-* "Oh," `KR-GS O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
 * hardly `HA*RLD`
 * tell `TEL`
 * you. `U TP-PL`
+* How `KPA/HOU`
 * glad `TKPWHRAD`
-* Princess `PREUPB/ES`
+* Princess `KPA/PREUPB/ES`
 * will `HR`
 * be!" `-B SKHRAPL KR-GS`
-* "Bah!" `KR-GS PWA* SKHRAPL KR-GS`
+* "Bah!" `KR-GS KPA/PWA* SKHRAPL KR-GS`
 * brothers; `PWROERS STPH*FPLT`
 * nothing `TPHOG`
 * clay `KHRAEU`
@@ -409,7 +427,7 @@
 * "and `KR-GS SKP`
 * finest `TPAOEUPB/EFT`
 * sort. `SORT TP-PL`
-* See, `SAOE KW-BG`
+* See, `KPA/SAOE KW-BG`
 * wet, `WET KW-BG`
 * runs `RUPBS`
 * one's `W*UPBS`
@@ -425,8 +443,8 @@
 * earlier `RERL`
 * gate `TKPWAET`
 * than `THAPB`
-* Jack. `SKWRABG TP-PL`
-* Now `TPHOU`
+* Jack. `SKWRA*BG TP-PL`
+* Now `KPA/TPHOU`
 * suitor `SAOU/TOR`
 * provided `PROE/SRAOUD/-D`
 * number, `TPHUPL KW-BG`
@@ -469,10 +487,11 @@
 * blown `PWHROEPB`
 * out. `OUT TP-PL`
 * say, `SAEU KW-BG`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * use! `AOUS SKHRAPL`
-* Away `A/WAEU`
+* Away `KPA/A/WAEU`
 * hall!" `HAUL SKHRAPL KR-GS`
+* At `KPA/AT`
 * last `HRAFT`
 * turn `TURPB`
 * brother `PWROER`
@@ -505,6 +524,7 @@
 * sold `SOELD`
 * penny `PEPB/TPHEU`
 * corners. `KRORPB/-S TP-PL`
+* It `KPA/T`
 * terrible `TERBL`
 * ordeal, `AUR/TKAOEL KW-BG`
 * had, `H KW-BG`
@@ -521,8 +541,9 @@
 * observed `OEBD`
 * first `TPEUFRT`
 * brother. `PWROER TP-PL`
-* "Yes," `KR-GS KWRE KW-BG KR-GS`
-* Princess, `PREUPB/ES KW-BG`
+* "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
+* Princess, `KPA/PREUPB/ES KW-BG`
+* "my `KR-GS PHEU`
 * father `TPAER`
 * roast `ROEFT`
 * pullets `xxx pullets`
@@ -535,11 +556,12 @@
 * something `S-G`
 * witty. `WEUT/TEU TP-PL`
 * use!" `AOUS SKHRAPL KR-GS`
-* Princess. `PREUPB/ES TP-PL`
-* "Away `KR-GS A/WAEU`
+* Princess. `KPA/PREUPB/ES TP-PL`
+* "Away `KR-GS KPA/A/WAEU`
 * him!" `HEUPL SKHRAPL KR-GS`
 * obliged `OE/PWHRAOEUPBLGD`
 * accordingly. `A/KORD/TKPWHREU TP-PL`
+* now `TPHOU`
 * second `SEBGD`
 * in. `TPH TP-PL`
 * terribly `TERBL/HREU`
@@ -548,7 +570,7 @@
 * we're `WAOER`
 * roasting `ROEFT/-G`
 * to-day," `TO H-PB TKAEU KW-BG KR-GS`
-* "What—what `KR-GS WHA EPL/TKA*RB WHA`
+* "What—what `KR-GS KPA/WHA EPL/TKA*RB WHA`
 * you—were `U EPL/TKA*RB WR`
 * pleased `PHRAOEFD`
 * ob-" `O*/PW* H-PB KR-GS`
@@ -558,14 +580,14 @@
 * down, `TKOUPB KW-BG`
 * "pleased `KR-GS PHRAOEFD`
 * goat. `TKPWO*ET TP-PL`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * it's `T-S`
 * most `PHOFT`
 * abominably `xxx abominably`
 * here." `HAOER TP-PL KR-GS`
 * I'm `AOEUPL`
 * pullets," `xxx pullets KW-BG KR-GS`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
 * that's `THATS`
 * lucky!" `HROEUBG SKHRAPL KR-GS`
 * "for `KR-GS TPOR`
@@ -577,16 +599,16 @@
 * same `SAEUPL`
 * greatest `TKPWRAET/EFT`
 * pleasure," `PHRERB KW-BG KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * anything `TPHEUG`
 * in? `TPH H-F`
 * neither `TPHAOERT`
 * pot `POT`
 * nor `TPH-R`
 * pan." `PAPB TP-PL KR-GS`
-* "Certainly `KR-GS SERPBL`
+* "Certainly `KR-GS KPA/SERPBL`
 * have!" `SR SKHRAPL KR-GS`
-* "Here's `KR-GS HAOER AES`
+* "Here's `KR-GS KPA/HAOER AES`
 * cooking `KAOG`
 * utensil `AOU/TEPB/SEUL`
 * tin `TEUPB`
@@ -596,9 +618,9 @@
 * dish!" `TKEURB SKHRAPL KR-GS`
 * we `WE`
 * sauce?" `SAUS H-F KR-GS`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * pocket," `POBGT KW-BG KR-GS`
-* Jack; `SKWRABG STPH*FPLT`
+* Jack; `SKWRA*BG STPH*FPLT`
 * afford `AFRD`
 * throw `THROE`
 * some `SOPL`
@@ -639,6 +661,7 @@
 * wet `WET`
 * clerk's `KHRERBG AES`
 * face. `TPAEUS TP-PL`
+* "That `KR-GS KPA/THA`
 * done," `TKOPB KW-BG KR-GS`
 * done `TKOPB`
 * that; `THA STPH*FPLT`

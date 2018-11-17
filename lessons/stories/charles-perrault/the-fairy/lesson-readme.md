@@ -1,6 +1,6 @@
 # The Fairy
 
-* there `THR`
+* There `KPA/THR`
 * was, `WAS KW-BG`
 * once `WUPBS`
 * upon `POPB`
@@ -11,7 +11,7 @@
 * had `H`
 * two `TWO`
 * daughters. `TKAURS TP-PL`
-* the `-T`
+* The `KPA/-T`
 * eldest `ELD/EFT`
 * was `WAS`
 * so `SO`
@@ -19,6 +19,7 @@
 * like `HRAOEUBG`
 * her `HER`
 * in `TPH`
+* the `-T`
 * face `TPAEUS`
 * and `SKP`
 * humour, `HAOURPL/A*U KW-BG`
@@ -28,11 +29,12 @@
 * daughter `TKAUR`
 * saw `SAU`
 * mother. `PHOER TP-PL`
-* They `THE`
+* They `KPA/THE`
 * were `WR`
 * both `PWO*T`
 * disagreeable, `TKEUS/TKPWRAOEBL KW-BG`
 * proud, `PROUD KW-BG`
+* there `THR`
 * no `TPHO`
 * living `HREUFG`
 * with `W`
@@ -47,13 +49,13 @@
 * sweetness `SWAOET/-PBS`
 * temper, `TEPL/PER KW-BG`
 * withal `W/A*L`
-* One `WUPB`
+* one `WUPB`
 * most `PHOFT`
 * beautiful `PWAOUFL`
 * girls `TKPWEURLS`
 * ever `-FR`
 * seen. `SAOEPB TP-PL`
-* As `AZ`
+* As `KPA/AZ`
 * people `PAOEPL`
 * naturally `TPHRARL`
 * love `HRUF`
@@ -72,13 +74,13 @@
 * horrible `HORBL`
 * aversion `A*FRGS`
 * youngest. `KWRUPBG/EFT TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * made `PHAED`
 * eat `AOET`
 * kitchen, `K-FP KW-BG`
 * work `WORBG`
 * continually. `TAEPBL TP-PL`
-* Among `PHOPBG`
+* Among `KPA/PHOPBG`
 * other `OER`
 * things, `THEUPBGS KW-BG`
 * poor `PAOR`
@@ -99,7 +101,10 @@
 * pitcher `PEUFP/*ER`
 * full `TPUL`
 * it. `T TP-PL`
+* One `KPA/WUPB`
 * day, `TKAEU KW-BG`
+* as `AZ`
+* she `SHE`
 * fountain, `TPOUPB/TAEUPB KW-BG`
 * came `KAEUPL`
 * woman, `WOPL KW-BG`
@@ -111,7 +116,7 @@
 * all `AUL`
 * my `PHEU`
 * heart, `HART KW-BG`
-* Goody," `TKPWAO/TKEU KW-BG KR-GS`
+* Goody," `KPA/TKPWAO/TKEU KW-BG KR-GS`
 * said `SAEUD`
 * pretty `PREUT`
 * maid; `PHAEUD STPH*FPLT`
@@ -137,7 +142,7 @@
 * having `SR-G`
 * drank, `TKRAPBG KW-BG`
 * her: `HER STPH-FPLT`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * are `R`
 * pretty, `PREUT KW-BG`
 * dear, `TKAER KW-BG`
@@ -149,7 +154,7 @@
 * you `U`
 * gift" `TKPWEUFT KR-GS`
 * (for `PREPB TPOR`
-* Fairy, `TPAEUR/REU KW-BG`
+* Fairy, `KPA/TPAEUR/REU KW-BG`
 * taken `TAEPB`
 * form `TPORPL`
 * country-woman, `KREU H-PB WOPL KW-BG`
@@ -179,7 +184,7 @@
 * flower, `TPHRO*UR KW-BG`
 * or `OR`
 * jewel." `SKWRAOUL TP-PL KR-GS`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * home, `HOEPL KW-BG`
 * scolded `SKOLD/-D`
 * staying `STAEUG`
@@ -201,7 +206,7 @@
 * roses, `ROESZ KW-BG`
 * pearls, `PERLS KW-BG`
 * diamonds. `TKAOEUPLDZ TP-PL`
-* "what `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * is `S`
 * see?" `SAOE H-F KR-GS`
 * quite `KWAOEUT`
@@ -211,10 +216,11 @@
 * diamonds `TKAOEUPLDZ`
 * girl's `TKPWEURL/AES`
 * mouth! `PHO*UT SKHRAPL`
+* How `KPA/HOU`
 * happens `HABS`
 * this, `TH KW-BG`
 * child?" `KHAOEULD H-F KR-GS`
-* (This `PREPB TH`
+* (This `PREPB KPA/TH`
 * first `TPEUFRT`
 * called `KAULD`
 * child.) `KHAOEULD TP-PL PR*EPB`
@@ -226,29 +232,32 @@
 * dropping `TROPG`
 * infinite `EUFPB/TPHEUT`
 * numbers `TPHUPLS`
-* "In `KR-GS TPH`
+* "In `KR-GS KPA/TPH`
 * faith," `PHA*EUT KW-BG KR-GS`
 * cried `KRAOEUD`
 * mother, `PHOER KW-BG`
 * must `PHUFT`
 * send `SEPBD`
 * thither. `TH*EURT TP-PL`
+* Come `KPA/KOPL`
 * hither, `H*EURT KW-BG`
-* Fanny, `TPAPB/KWREU KW-BG`
+* Fanny, `KPA/TPAPB/KWREU KW-BG`
 * look `HRAOBG`
 * what `WHA`
 * comes `KOPLS`
 * thy `THAO*EU`
 * sister's `ST-R AES`
+* when `WHEPB`
 * speaks! `SPAOEBGS SKHRAPL`
-* Would'st `WO AE ST*`
-* Thou `THO*U`
+* Would'st `KPA/WO AE ST*`
+* thou `THO*U`
 * be `-B`
 * glad, `TKPWHRAD KW-BG`
 * have `SR`
 * gift `TKPWEUFT`
 * given `TKPWEUFPB`
 * thee? `THAOE H-F`
+* Thou `KPA/THO*U`
 * hast `HA*FT`
 * nothing `TPHOG`
 * else `ELS`
@@ -260,7 +269,7 @@
 * thee `THAOE`
 * drink, `TKREU KW-BG`
 * civilly." `SEUFL/HREU TP-PL KR-GS`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * fine `TPAOEUPB`
 * sight `SAOEUT`
 * indeed," `TPHAOEPBD KW-BG KR-GS`
@@ -273,6 +282,7 @@
 * hussey," `H*/*U/S*/S*/*E/KWR* KW-BG KR-GS`
 * "and `KR-GS SKP`
 * minute." `PHEUPB TP-PL KR-GS`
+* So `KPA/SO`
 * away `A/WAEU`
 * went, `WEPBT KW-BG`
 * grumbling `TKPWRUPL/-BLG`
@@ -290,8 +300,9 @@
 * gloriously `TKPWHRORS/HREU`
 * dressed, `TKREFD KW-BG`
 * asked `SK-D`
+* This `KPA/TH`
 * know, `TPHOE KW-BG`
-* Fairy `TPAEUR/REU`
+* Fairy `KPA/TPAEUR/REU`
 * appeared `A/PAOERD`
 * sister, `ST-R KW-BG`
 * now `TPHOU`
@@ -300,7 +311,7 @@
 * princess, `PREUPB/ES KW-BG`
 * rudeness `RAOUD/-PBS`
 * go. `TKPW TP-PL`
-* "Am `KR-GS APL`
+* "Am `KR-GS KPA/APL`
 * hither," `H*EURT KW-BG KR-GS`
 * saucy `SAU/SEU`
 * slut, `SHRUT KW-BG`
@@ -312,7 +323,7 @@
 * purely `PAOURL`
 * ladyship, `HRA*ED/SH-P KW-BG`
 * it? `T H-F`
-* However, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * may `PHAE`
 * it, `T KW-BG`
 * if `TP`
@@ -323,7 +334,7 @@
 * putting `PUGT`
 * herself `H*ERS`
 * passion. `PAGS TP-PL`
-* "Well `KR-GS WEL`
+* "Well `KR-GS KPA/WEL`
 * then, `THEPB KW-BG`
 * since `SEUPBS`
 * little `HREUL`
@@ -336,7 +347,7 @@
 * soon `SAOPB`
 * coming, `KO*G KW-BG`
 * out: `OUT STPH-FPLT`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * daughter?" `TKAUR H-F KR-GS`
 * mother?" `PHOER H-F KR-GS`
 * pert `PERT`
@@ -345,6 +356,7 @@
 * vipers `SRAOEUP/ERS`
 * toads. `TOEDZ TP-PL`
 * mercy!" `PHER/SEU SKHRAPL KR-GS`
+* "what `KR-GS WHA`
 * see! `SAOE SKHRAPL`
 * O, `O*P KW-BG`
 * wretch `WREFP`
@@ -362,7 +374,7 @@
 * hide `HAOEUD`
 * forest, `TPOEFRT KW-BG`
 * thence. `THEPBS TP-PL`
-* King's `KEUPBG AES`
+* King's `KO*EUPBG AES`
 * son, `SOPB KW-BG`
 * then `THEPB`
 * his `HEUS`
@@ -374,7 +386,7 @@
 * alone, `A/HROEPB KW-BG`
 * why `KWR`
 * cried. `KRAOEUD TP-PL`
-* "Alas! `KR-GS A/HRAS SKHRAPL`
+* "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
 * sir, `SEUR KW-BG`
 * mamma `PHAPL/PHA`
 * turned `TURPBD`
@@ -404,7 +416,7 @@
 * another, `TPHOER KW-BG`
 * conducted `KUBGTD`
 * palace `PAL/AS`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * married `PHAERD`
 * hated `HAEUT/-D`
 * off; `OF STPH*FPLT`

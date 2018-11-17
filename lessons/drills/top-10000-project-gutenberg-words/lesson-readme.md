@@ -507,7 +507,7 @@
 * seem `SAOEPL`
 * taking `TAEUG`
 * blood `PWHRAOD`
-* rose `ROEZ`
+* rose `ROES`
 * south `SOUT`
 * beyond `KWROPBD`
 * cold `KOELD`
@@ -3762,7 +3762,7 @@
 * hopeless `POEP/-LS`
 * dangers `TKAEURPBGS`
 * gratefully `TKPWRAET/TPHREU`
-* president `P*T`
+* president `PREZ`
 * travelled `TRAFLD/A*U`
 * ward `WARD`
 * nephew `TPHEF/AOU`
@@ -5040,7 +5040,7 @@
 * reveal `RE/SRAOEL`
 * endured `EPB/TKAOURD`
 * resolve `RE/SOL/*F`
-* Columbia `KHRUPL/WRA`
+* Columbia `KHRUPL/KWRA`
 * preach `PRAOEFP`
 * exceeding `EBGS/SAOED/-G`
 * ringing `REUPBG/-G`
@@ -5831,7 +5831,7 @@
 * instincts `EUPB/STEUPBGS`
 * telegraph `TEL/TKPWRAF`
 * Russell `RUS/SEL`
-* university `*UFRT`
+* university `AOUFRT`
 * ghastly `TKPWAFT/HREU`
 * patron `PA/TROPB`
 * varying `SRAEURPBG`
@@ -8001,7 +8001,7 @@
 * button `PW*UPBT`
 * headache `HAEUBG`
 * tenant `TAEPBT`
-* burns `PWURPBZ`
+* burns `PWURPBS`
 * harmonious `AR/PHOEPB/KWROUS`
 * dreamy `TKRAOE/PH*EU`
 * burgundy `PWURG/TKEU`
@@ -8534,7 +8534,7 @@
 * averted `A/SRERT/-D`
 * bake `PWAEUBG`
 * Constantine `KAUPB/STAPB/TAOEPB`
-* oracle `AUR/K-L`
+* oracle `OR/K-L`
 * alley `AL/KWREU`
 * softness `SOFT/-PBS`
 * pierce `PAOERS`
@@ -9674,7 +9674,7 @@
 * northwest `TPWHO*ES`
 * disabled `TKABLD`
 * laurel `HRAURL`
-* Preston `PREFT/O*PB`
+* Preston `PRES/TO*PB`
 * arrogant `AR/TKPWAPBT`
 * hurts `HURTS`
 * demonstrations `TKEPL/STRAEUGS/-S`

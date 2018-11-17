@@ -1,29 +1,31 @@
 # The Lion's Share
 
-* the `-T`
-* Lion `HRO*EUPB`
+* The `KPA/-T`
+* Lion `KPA/HRO*EUPB`
 * went `WEPBT`
 * once `WUPBS`
 * a-hunting `AEU H-PB HUPBT/-G`
 * along `A/HROPBG`
 * with `W`
-* Fox, `TPOBGS KW-BG`
+* the `-T`
+* Fox, `KPA/TPOBGS KW-BG`
 * Jackal, `SKWRA*BG/A*L KW-BG`
 * and `SKP`
-* Wolf. `WOFL TP-PL`
-* they `THE`
+* Wolf. `KPA/WOFL TP-PL`
+* They `KPA/THE`
 * hunted `HUPBT/-D`
+* they `THE`
 * till `T*EUL`
 * at `AT`
 * last `HRAFT`
 * surprised `SPRAOEUFD`
 * a `AEU`
-* Stag, `STAG KW-BG`
+* Stag, `KPA/STAG KW-BG`
 * soon `SAOPB`
 * took `TAOBG`
 * its `EUTS`
 * life. `HRAOEUF TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * came `KAEUPL`
 * question `KWE`
 * how `HOU`
@@ -31,12 +33,12 @@
 * should `SHO`
 * be `-B`
 * divided. `TKWAOEUTD TP-PL`
-* "Quarter `KR-GS KWAR/TER`
+* "Quarter `KR-GS KPA/KWAR/TER`
 * me `PHE`
 * this `TH`
-* Stag," `STAG KW-BG KR-GS`
+* Stag," `KPA/STAG KW-BG KR-GS`
 * roared `RAORD`
-* Lion; `HRO*EUPB STPH*FPLT`
+* Lion; `KPA/HRO*EUPB STPH*FPLT`
 * so `SO`
 * other `OER`
 * animals `PHAPBLS`
@@ -61,8 +63,8 @@
 * my `PHEU`
 * capacity `KPAFT`
 * as `AZ`
-* King `KEUPBG`
-* Beasts; `PWAOEFT/-S STPH*FPLT`
+* King `KO*EUPBG`
+* Beasts; `KPA/PWAOEFT/-S STPH*FPLT`
 * second `SEBGD`
 * mine `PHAOEUPB`
 * arbiter; `ARB/TOR STPH*FPLT`
@@ -89,7 +91,7 @@
 * it." `T TP-PL KR-GS`
 * "Humph," `KR-GS KPA/H*UFRP KW-BG KR-GS`
 * grumbled `TKPWRUPL/-BLD`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * he `HE`
 * walked `WAUBGD`
 * away `A/WAEU`
@@ -100,6 +102,7 @@
 * spoke `SPOEBG`
 * low `HROE`
 * growl." `TKPWROUL TP-PL KR-GS`
+* You `KPA/U`
 * may `PHAE`
 * labours `HRAEUBS/A*U`
 * great, `TKPWRAET KW-BG`

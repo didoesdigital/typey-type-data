@@ -373,7 +373,7 @@
 * hadn't `H-PBT`
 * hair `HAEUR`
 * half `HAF`
-* Hall `HAUL`
+* Hall `HA*L`
 * hallway `HAUL/WAEU`
 * hand `HAPBD`
 * handle `HAPBL`
@@ -688,7 +688,7 @@
 * rock `ROBG`
 * roll `ROL`
 * room `RAOPL`
-* rose `ROEZ`
+* rose `ROES`
 * round `ROUPBD`
 * rub `RUB`
 * run `RUPB`
@@ -799,7 +799,7 @@
 * star `STAR`
 * stare `STAER`
 * start `START`
-* State `STAEUT`
+* State `STA*ET`
 * stay `STAEU`
 * step `STEP`
 * stick `STEUBG`

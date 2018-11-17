@@ -1,6 +1,6 @@
 # The Red Shoes
 
-* once `WUPBS`
+* Once `KPA/WUPBS`
 * upon `POPB`
 * a `AEU`
 * time `TAOEUPL`
@@ -11,10 +11,10 @@
 * pretty `PREUT`
 * and `SKP`
 * dainty. `TKAEUPB/TEU TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * in `TPH`
 * summer `SAOURPL`
-* She `SHE`
+* she `SHE`
 * obliged `OE/PWHRAOEUPBLGD`
 * to `TO`
 * go `TKPW`
@@ -29,11 +29,12 @@
 * shoes, `SHAOUS KW-BG`
 * so `SO`
 * that `THA`
-* Her `HER`
+* her `HER`
 * instep `xxx instep`
 * grew `TKPWRAOU`
 * quite `KWAOEUT`
 * red. `RED TP-PL`
+* In `KPA/TPH`
 * the `-T`
 * middle `PH*EULD`
 * of `-F`
@@ -54,14 +55,16 @@
 * out `OUT`
 * some `SOPL`
 * pieces `PAOEFS`
-* Red `RED`
+* red `RED`
 * cloth. `KHRO*T TP-PL`
-* they `THE`
+* They `KPA/THE`
 * were `WR`
 * clumsy, `KHRUPL/SEU KW-BG`
+* but `PWUT`
 * meant `PHEPBT`
 * well, `WEL KW-BG`
 * for `TPOR`
+* they `THE`
 * intended `SPWEPBD/-D`
 * whose `WHOZ`
 * name `TPHAEUPL`
@@ -89,8 +92,8 @@
 * behind `HEUPBD`
 * humble `UPL/-BL`
 * coffin. `KOFPB TP-PL`
-* just `SKWRUFT`
-* Then `THEPB`
+* Just `KPA/SKWRUFT`
+* then `THEPB`
 * carriage `KAEURPBLG`
 * came `KAEUPL`
 * by, `PWEU KW-BG`
@@ -103,8 +106,8 @@
 * her, `HER KW-BG`
 * said `SAEUD`
 * clergyman, `KHRERPBLG/PHAPB KW-BG`
-* "Look `KR-GS HRAOBG`
-* Here, `HAOER KW-BG`
+* "Look `KR-GS KPA/HRAOBG`
+* here, `HAOER KW-BG`
 * if `TP`
 * you `U`
 * will `HR`
@@ -134,14 +137,14 @@
 * pretty. `PREUT TP-PL`
 * mirror `PHROR`
 * told `TOLD`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * are `R`
 * more `PHOR`
 * than `THAPB`
 * pretty—you `PREUT EPL/TKA*RB U`
 * beautiful." `PWAOUFL TP-PL KR-GS`
-* one `WUPB`
-* Queen `KWAOEPB`
+* One `KPA/WUPB`
+* Queen `KWAO*EPB`
 * travelling `TRAFLG/A*U`
 * through `THRU`
 * part `PART`
@@ -151,8 +154,9 @@
 * princess, `PREUPB/ES KW-BG`
 * with `W`
 * her. `HER TP-PL`
+* All `KPA/AUL`
 * people, `PAOEPL KW-BG`
-* Amongst `PHOPBGS`
+* amongst `PHOPBGS`
 * too, `TAO KW-BG`
 * streamed `STRAOEPL/-D`
 * towards `TORDZ`
@@ -168,13 +172,14 @@
 * be `-B`
 * stared `STAERD`
 * at. `AT TP-PL`
+* She `KPA/SHE`
 * neither `TPHAOERT`
 * train `TRAEUPB`
 * nor `TPH-R`
 * golden `TKOELD/*EPB`
 * crown, `KROUPB KW-BG`
 * beautiful `PWAOUFL`
-* morocco `PHORBG/KOE`
+* morocco `xxx morocco`
 * shoes; `SHAOUS STPH*FPLT`
 * indeed `TPHAOEPBD`
 * much `PHUFP`
@@ -183,6 +188,7 @@
 * which `WEU`
 * wife `WAOEUF`
 * sewn `SWEPB`
+* There `KPA/THR`
 * is `S`
 * really `R-L`
 * nothing `TPHOG`
@@ -190,13 +196,14 @@
 * can `K`
 * compared `KPARD`
 * shoes! `SHAOUS SKHRAPL`
-* Now `TPHOU`
+* now `TPHOU`
 * enough `TPHUF`
 * confirmed; `K-FRPL/-D STPH*FPLT`
 * new `TPHU`
 * also `HR-S`
 * have `SR`
-* Shoes. `SHAOUS TP-PL`
+* shoes. `SHAOUS TP-PL`
+* The `KPA/-T`
 * rich `REUFP`
 * shoemaker `xxx shoemaker`
 * town `TOUPB`
@@ -211,6 +218,7 @@
 * cases `KAEUSZ`
 * full `TPUL`
 * slippers. `SHREUP/ERS TP-PL`
+* It `KPA/T`
 * lovely, `HROFL KW-BG`
 * could `KO`
 * see `SAOE`
@@ -219,11 +227,12 @@
 * get `TKPWET`
 * pleasure `PHRERB`
 * it. `T TP-PL`
+* Amongst `KPA/PHOPBGS`
 * ones, `WUPBZ KW-BG`
 * like `HRAOEUBG`
 * princess `PREUPB/ES`
 * worn. `WORPB TP-PL`
-* How `HOU`
+* How `KPA/HOU`
 * were! `WR SKHRAPL`
 * been `PW-PB`
 * made `PHAED`
@@ -235,10 +244,10 @@
 * leather?" `HRE/THER H-F KR-GS`
 * asked `SK-D`
 * lady. `HRA*ED TP-PL`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * shine `SHAOEUPB`
 * so." `SO TP-PL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * do `TKO`
 * shine," `SHAOEUPB KW-BG KR-GS`
 * bought. `PWAUT TP-PL`
@@ -250,7 +259,7 @@
 * never `TPHEF`
 * confirmed `K-FRPL/-D`
 * be. `-B TP-PL`
-* everybody `EFB`
+* Everybody `KPA/EFB`
 * feet, `TPAOET KW-BG`
 * whole `WHOEL`
 * way `WAEU`
@@ -281,7 +290,7 @@
 * holy `HOEUL`
 * baptism, `PWAPT/EUFPL KW-BG`
 * covenant `KOFPBT`
-* God, `TKPWOD KW-BG`
+* God, `TKPWO*D KW-BG`
 * grown-up `TKPWR*UP`
 * Christian. `KREUGS TP-PL`
 * organ `O*RPBG`
@@ -295,6 +304,7 @@
 * leader; `HRAOERD STPH*FPLT`
 * afternoon `AFPB`
 * heard `HAERD`
+* everybody `EFB`
 * worn `WORPB`
 * shocking `SHOBG/-G`
 * thing `THEUPBG`
@@ -303,9 +313,10 @@
 * always `AULS`
 * future `TPAOURT`
 * old. `OLD TP-PL`
+* On `KPA/OPB`
 * following `TPOLG`
 * Sunday `SUPBD`
-* Communion. `KPHAOUPB/KWROPB TP-PL`
+* Communion. `KPA/KPHAOUPB/KWROPB TP-PL`
 * ones—looked `WUPBZ EPL/TKA*RB HRAOBGD`
 * ones `WUPBZ`
 * again, `TKPWEPB KW-BG`
@@ -319,11 +330,12 @@
 * corn, `KORPB KW-BG`
 * rather `RAER`
 * dusty. `TKUS/TEU TP-PL`
+* At `KPA/AT`
 * crippled `KREUPLD`
 * soldier `SHRERPBL`
 * leaning `HRAOEPBG`
 * crutch; `KRUFP STPH*FPLT`
-* He `HE`
+* he `HE`
 * wonderfully `WOPBD/TPHREU`
 * beard, `PWAERD KW-BG`
 * white, `WHAOEUT KW-BG`
@@ -332,13 +344,14 @@
 * whether `WHR`
 * might `PHAOEUT`
 * wipe `WAOEUP`
+* Then `KPA/THEPB`
 * too. `TAO TP-PL`
-* "Dear `KR-GS TKAER`
+* "Dear `KR-GS KPA/TKAER`
 * me, `PHE KW-BG`
 * what `WHA`
 * dancing-shoes!" `TKAPBS/-G H-PB SHAOUS SKHRAPL KR-GS`
 * soldier. `SHRERPBL TP-PL`
-* "Sit `KR-GS SEUT`
+* "Sit `KR-GS KPA/SEUT`
 * fast, `TPAFT KW-BG`
 * dance," `TKAPBS KW-BG KR-GS`
 * he, `HE KW-BG`
@@ -349,6 +362,7 @@
 * gave `TKPWAEUF`
 * money `PHUPB`
 * church. `KHUFRPB TP-PL`
+* And `AFPBD`
 * inside `TPH-DZ`
 * Karen's `KAEURPB AES`
 * gazed `TKPWAEZ/-D`
@@ -365,12 +379,15 @@
 * sing `SEUPBG`
 * psalm, `SAUPL KW-BG`
 * say `SAEU`
-* "Lord's `KR-GS HRORD AES`
-* Prayer." `PRAEUR TP-PL KR-GS`
+* "Lord's `KR-GS HRO*RD AES`
+* Prayer." `KPA/PRAEUR TP-PL KR-GS`
+* Now `KPA/TPHOU`
 * every `EF`
+* one `WUPB`
 * church, `KHUFRPB KW-BG`
 * stepped `STEPD`
 * carriage. `KAEURPBLG TP-PL`
+* just `SKWRUFT`
 * lifting `HREUFT/-G`
 * up `UP`
 * said: `SAEUD STPH-FPLT`
@@ -378,9 +395,10 @@
 * shoes!" `SHAOUS SKHRAPL KR-GS`
 * help `HEP`
 * it, `T KW-BG`
-* Dance `TKAPBS`
+* dance `TKAPBS`
 * few `TPAOU`
 * steps; `STEPS STPH*FPLT`
+* once `WUPBS`
 * begun, `TKPWUPB KW-BG`
 * legs `HREGS`
 * continued `T-PBD`
@@ -397,6 +415,7 @@
 * run `RUPB`
 * after `AF`
 * seize `SAOEZ`
+* He `KPA/HE`
 * lifted `HREUFTD`
 * carriage, `KAEURPBLG KW-BG`
 * dance, `TKAPBS KW-BG`
@@ -445,7 +464,7 @@
 * far `TPAR`
 * dark `TKARBG`
 * wood. `WAOD TP-PL`
-* Suddenly `SULD`
+* Suddenly `KPA/SULD`
 * something `S-G`
 * shone `SHO*EPB`
 * among `PHOPBG`
@@ -498,8 +517,9 @@
 * held `HELD`
 * broad `PWRAOD`
 * sword. `SOERD TP-PL`
-* "dance `KR-GS TKAPBS`
+* "Dance `KR-GS KPA/TKAPBS`
 * shall," `SHAL KW-BG KR-GS`
+* "dance `KR-GS TKAPBS`
 * your `KWROUR`
 * till `T*EUL`
 * pale `PAEL`
@@ -507,6 +527,7 @@
 * skin `SKEUPB`
 * shrivels `SHREUFL/-S`
 * skeleton! `SKEL/TOPB SKHRAPL`
+* Dance `KPA/TKAPBS`
 * shall, `SHAL KW-BG`
 * door, `TKAOR KW-BG`
 * proud `PROUD`
@@ -520,7 +541,7 @@
 * fear `TPAOER`
 * you! `U SKHRAPL`
 * dance—!" `TKAPBS EPL/TKA*RB SKHRAPL KR-GS`
-* "Mercy!" `KR-GS PHER/SEU SKHRAPL KR-GS`
+* "Mercy!" `KR-GS KPA/PHER/SEU SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * answered, `AEPBS/-D KW-BG`
 * carried `KAERD`
@@ -539,7 +560,7 @@
 * flowers. `TPHRO*URS TP-PL`
 * forsaken `TPAUR/SA*EUPB`
 * damned `TKA*PLD`
-* God. `TKPWOD TP-PL`
+* God. `TKPWO*D TP-PL`
 * night. `TPHAOEUT TP-PL`
 * bore `PWOR`
 * away `A/WAEU`
@@ -550,11 +571,12 @@
 * heath `HAO*ET`
 * lonely `HROPBL`
 * house. `HOUS TP-PL`
+* Here, `KPA/HAOER KW-BG`
 * knew, `TPHAOU KW-BG`
 * executioner; `EBGS/KAOUGS/*ER STPH*FPLT`
 * tapped `TAPD`
 * finger `TPURPBG`
-* "Come `KR-GS KOPL`
+* "Come `KR-GS KPA/KOPL`
 * out, `OUT KW-BG`
 * come `KOPL`
 * out! `OUT SKHRAPL`
@@ -595,7 +617,7 @@
 * guided `TKPWAOEUD/-D`
 * axe, `ABGS KW-BG`
 * heath. `HAO*ET TP-PL`
-* "Now, `KR-GS TPHOU KW-BG`
+* "Now, `KR-GS KPA/TPHOU KW-BG`
 * suffered `SUFRD`
 * shoes," `SHAOUS KW-BG KR-GS`
 * said; `SAEUD STPH*FPLT`
@@ -605,14 +627,14 @@
 * there, `THR KW-BG`
 * turned `TURPBD`
 * back. `PWABG TP-PL`
-* During `TKURG`
+* During `KPA/TKURG`
 * week `WAOEBG`
 * sad `SAD`
 * wept `WEPT`
 * many `PHAEPB`
 * tears, `TAERS KW-BG`
 * again `TKPWEPB`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * striven `xxx striven`
 * enough. `TPHUF TP-PL`
 * believe `PWHREF`
@@ -650,7 +672,7 @@
 * listened `HREUFPBD`
 * pastor `PAS/TOR`
 * aloud `A/HROUD`
-* Bible `PWAOEUBL`
+* Bible `PWAO*EUBL`
 * evening. `AOEPBG TP-PL`
 * liked `HRAOEUBGD`
 * much, `PHUFP KW-BG`
@@ -667,13 +689,13 @@
 * sadly `SAD/HREU`
 * crutches. `KRUFPS TP-PL`
 * others `OERS`
-* God's `TKPWOD AES`
-* Word, `WORD KW-BG`
+* God's `TKPWO*D AES`
+* Word, `WORD/WORD KW-BG`
 * alone `A/HROEPB`
 * room; `RAOPL STPH*FPLT`
 * hold `HOLD`
 * chair. `KHAEUR TP-PL`
-* Here `HAOER`
+* Here `KPA/HAOER`
 * hymn-book, `H*EUPL H-PB PWAOBG KW-BG`
 * reading `RAEGD`
 * pious `PAOEU/OUS`
@@ -681,10 +703,10 @@
 * wind `WEUPBD`
 * notes `TPHOETS`
 * "O `KR-GS O*P`
-* God! `TKPWOD SKHRAPL`
+* God! `TKPWO*D SKHRAPL`
 * me!" `PHE SKHRAPL KR-GS`
 * brightly, `PWRAOEULT KW-BG`
-* God `TKPWOD`
+* God `TKPWO*D`
 * robes; `ROEB/-S STPH*FPLT`
 * same `SAEUPL`
 * whom `WHOPL`
@@ -698,7 +720,7 @@
 * roses; `ROESZ STPH*FPLT`
 * touched `TUFPD`
 * ceiling, `KAOELG KW-BG`
-* rose `ROEZ`
+* rose `ROES`
 * high, `HAOEU KW-BG`
 * star. `STAR TP-PL`
 * walls, `WAULS KW-BG`
@@ -729,7 +751,7 @@
 * hymn `H*EUPL`
 * up, `UP KW-BG`
 * nodded `TPHOD/-D`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * come, `KOPL KW-BG`
 * Karen." `KAEURPB TP-PL KR-GS`
 * mercy," `PHER/SEU KW-BG KR-GS`
@@ -746,7 +768,10 @@
 * filled `TPEULD`
 * joy, `SKWROEU KW-BG`
 * broke. `PWROEBG TP-PL`
+* Her `KPA/HER`
 * soul `SOUL`
 * flew `TPHRAOU`
 * sunbeams `SUPB/PWAOEPL/-S`
-* Heaven, `HEFPB KW-BG`
+* Heaven, `KPA/HEFPB KW-BG`
+* Red `KPA/RED`
+* Shoes. `KPA/SHAOUS TP-PL`

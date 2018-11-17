@@ -1,6 +1,6 @@
 # Holger Danske
 
-* in `TPH`
+* In `KPA/TPH`
 * Denmark `TKEPB/PHARBG`
 * there `THR`
 * stands `STAPBDZ`
@@ -12,7 +12,7 @@
 * close `KHROES`
 * by `PWEU`
 * the `-T`
-* sound `SOUPBD`
+* Sound `KPA/SOUPBD`
 * of `-F`
 * Elsinore, `xxx Elsinore KW-BG`
 * where `W-R`
@@ -27,23 +27,24 @@
 * hundreds `HUPBS`
 * every `EF`
 * day. `TKAEU TP-PL`
-* They `THE`
+* And `AFPBD`
+* they `THE`
 * salute `SA/HRAOUT`
 * with `W`
 * cannons, `KAPB/TPHOPB/-S KW-BG`
-* "Boom, `KR-GS PWAOPL KW-BG`
+* "Boom, `KR-GS KPA/PWAOPL KW-BG`
 * boom," `PWAOPL KW-BG KR-GS`
 * which `WEU`
 * is `S`
 * as `AZ`
 * if `TP`
 * said, `SAEUD KW-BG`
-* "Good-day." `KR-GS TKPWAOD H-PB TKAEU TP-PL KR-GS`
+* "Good-day." `KR-GS KPA/TKPWAOD H-PB TKAEU TP-PL KR-GS`
 * cannons `KAPB/TPHOPB/-S`
 * answer `AEPBS`
-* "Boom," `KR-GS PWAOPL KW-BG KR-GS`
+* "Boom," `KR-GS KPA/PWAOPL KW-BG KR-GS`
 * means `PHAOEPBS`
-* "Many `KR-GS PHAEPB`
+* "Many `KR-GS KPA/PHAEPB`
 * thanks." `THAPBGS TP-PL KR-GS`
 * winter `WEURPBT`
 * no `TPHO`
@@ -62,14 +63,15 @@
 * appearance `PAOERPBS`
 * a `AEU`
 * high-road. `HAOEU H-PB RAOD TP-PL`
+* The `KPA/-T`
 * Danish `TKAEUPB/EURB`
 * flags `TPHRAGS`
 * wave, `WAF KW-BG`
 * Danes `TKA*EUPB/-S`
 * Swedes `SWAOED/-S`
 * say, `SAEU KW-BG`
-* "Good-day," `KR-GS TKPWAOD H-PB TKAEU KW-BG KR-GS`
-* "Thank `KR-GS THAPBG`
+* "Good-day," `KR-GS KPA/TKPWAOD H-PB TKAEU KW-BG KR-GS`
+* "Thank `KR-GS KPA/THAPBG`
 * you" `U KR-GS`
 * to `TO`
 * each `AOEFP`
@@ -88,6 +90,7 @@
 * articles `ARLS`
 * taste `TAEUFT`
 * best. `PWEFT TP-PL`
+* But `KPA/PWUT`
 * most `PHOFT`
 * beautiful `PWAOUFL`
 * sight `SAOEUT`
@@ -95,13 +98,14 @@
 * Holger `xxx Holger`
 * Danske `xxx Danske`
 * sits `SEUTS`
+* in `TPH`
 * deep, `TKAOEP KW-BG`
 * dark `TKARBG`
 * cellar, `SEL/AR KW-BG`
 * into `TPHAO`
 * one `WUPB`
 * goes. `TKPW-S TP-PL`
-* he `HE`
+* He `KPA/HE`
 * clad `KHRAD`
 * iron `AOEURPB`
 * steel, `STAOEL KW-BG`
@@ -122,6 +126,7 @@
 * become `PW-BG`
 * firmly `TPEURPL/HREU`
 * rooted; `RAOT/-D STPH*FPLT`
+* he `HE`
 * sleeps `SHRAOEPS`
 * dreams, `TKRAOEPLS KW-BG`
 * dreams `TKRAOEPLS`
@@ -130,6 +135,7 @@
 * that `THA`
 * happens `HABS`
 * Denmark. `TKEPB/PHARBG TP-PL`
+* On `KPA/OPB`
 * Christmas-eve `KREUS/PHAS H-PB AOEF`
 * angel `A*EPBLG`
 * comes `KOPLS`
@@ -160,14 +166,17 @@
 * draws `TKRAUS`
 * out `OUT`
 * beard. `PWAERD TP-PL`
+* Then `KPA/THEPB`
 * come `KOPL`
 * forth `TPO*RT`
 * strength, `STREPBG KW-BG`
 * strike `STRAOEUBG`
 * blow `PWHROE`
 * shall `SHAL`
+* sound `SOUPBD`
 * countries `KUPBTS`
 * world. `WORLD TP-PL`
+* An `KPA/APB`
 * grandfather `TKPWR-F`
 * sat `SAT`
 * told `TOLD`
@@ -182,6 +191,7 @@
 * must `PHUFT`
 * be `-B`
 * true. `TRAOU TP-PL`
+* As `KPA/AZ`
 * man `PHAPB`
 * related `RAELTD`
 * story, `STOER KW-BG`
@@ -204,7 +214,7 @@
 * names `TPHAEUPLS`
 * given `TKPWEUFPB`
 * them. `THEPL TP-PL`
-* Now `TPHOU`
+* now `TPHOU`
 * had `H`
 * stood `STAOD`
 * erect `ER/EBGT`
@@ -271,7 +281,7 @@
 * put `PUT`
 * them `THEPL`
 * on, `OPB KW-BG`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
 * yes; `KWRE STPH*FPLT`
 * appear `A/PAOER`
 * my `PHEU`
@@ -290,6 +300,7 @@
 * felt `TPELT`
 * good `TKPWAOD`
 * him. `HEUPL TP-PL`
+* It `KPA/T`
 * seemed `SAOEPLD`
 * glow `TKPWHROE`
 * color `KROR`
@@ -310,12 +321,12 @@
 * were `WR`
 * leaping `HRAOEPG`
 * up. `UP TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * coat `KOET`
 * world," `WORLD KW-BG KR-GS`
 * said `SAEUD`
 * man. `PHAPB TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * lions `HRAOEU/O*PBS`
 * strength; `STREPBG STPH*FPLT`
 * hearts, `HARTS KW-BG`
@@ -324,7 +335,7 @@
 * gazed `TKPWAEZ/-D`
 * uppermost `UP/ER/PHOEFT`
 * lion, `HRO*EUPB KW-BG`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * Canute, `xxx Canute KW-BG`
 * chained `KHAEUPBD`
 * England `TKPWHRAEPBD`
@@ -334,7 +345,7 @@
 * Waldemar, `xxx Waldemar KW-BG`
 * untied `UPB/TAOEUD`
 * conquered `KAUPB/KERD`
-* Vandals. `SRAPBD/ALS TP-PL`
+* Vandals. `KPA/SRAPBD/ALS TP-PL`
 * third `THEURD`
 * lion `HRO*EUPB`
 * reminded `RE/PHAOEUPBD/T-D`
@@ -360,12 +371,12 @@
 * woman, `WOPL KW-BG`
 * daughter `TKAUR`
 * Christian `KREUGS`
-* Fourth, `TPO*URT KW-BG`
+* Fourth, `KPA/TPO*URT KW-BG`
 * Eleanor `EL/TPHOR`
 * Ulfeld, `xxx Ulfeld KW-BG`
 * flame `TPHRAEUPL`
 * became `PWAEUPL`
-* rose `ROEZ`
+* rose `ROES`
 * her `HER`
 * bosom, `PWUZ/OPL KW-BG`
 * its `EUTS`
@@ -428,7 +439,7 @@
 * humble `UPL/-BL`
 * room `RAOPL`
 * Frederick `TPRED/REUBG`
-* Sixth, `S*BGS KW-BG`
+* Sixth, `KPA/S*BGS KW-BG`
 * writing `WREUG`
 * name `TPHAEUPL`
 * chalk `KHAUBG`
@@ -458,7 +469,7 @@
 * while, `WHAOEUL KW-BG`
 * supper `SAOURP`
 * table. `TAEUBL TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * you `U`
 * have `SR`
 * been `PW-PB`
@@ -473,7 +484,7 @@
 * seen `SAOEPB`
 * face `TPAEUS`
 * somewhere." `SWR TP-PL KR-GS`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * impossible," `EUPL/POB KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * grandfather; `TKPWR-F STPH*FPLT`
@@ -526,6 +537,7 @@
 * help `HEP`
 * hour `HOUR`
 * danger. `TKAEUPBLG TP-PL`
+* That `KPA/THA`
 * idea, `KWR-D KW-BG`
 * likeness." `HRAOEUBG/-PBS TP-PL KR-GS`
 * wooden `WAOD/EPB`
@@ -576,7 +588,7 @@
 * those `THOZ`
 * days, `TKAEUS KW-BG`
 * described `KREUFD`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * how `HOU`
 * fight `TPAOEUT`
 * also," `HR-S KW-BG KR-GS`
@@ -593,8 +605,8 @@
 * hung `HUPBG`
 * almanac, `AUPL/TPHABG KW-BG`
 * representation `REPGS`
-* Round `ROUPBD`
-* Tower `TOUR`
+* Round `KPA/ROUPBD`
+* Tower `KPA/TOUR`
 * "Tycho `KR-GS xxx Tycho`
 * Brahe `xxx Brahe`
 * used `AOUFD`
@@ -624,6 +636,7 @@
 * marble, `PHAERBL KW-BG`
 * world `WORLD`
 * hear `HAER`
+* Now `KPA/TPHOU`
 * let `HRET`
 * drink `TKREU`
 * health `H*ELT`
@@ -666,9 +679,10 @@
 * roaring `RAORG`
 * awake `A/WAEUBG`
 * meant `PHEPBT`
-* "Good `KR-GS TKPWAOD`
+* "Good `KR-GS KPA/TKPWAOD`
 * morning," `PHORPBG KW-BG KR-GS`
 * you." `U TP-PL KR-GS`
+* They `KPA/THE`
 * fire `TPAOEUR`
 * fashion `TPAGS`
 * before `PW-F`

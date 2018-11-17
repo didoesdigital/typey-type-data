@@ -1,6 +1,6 @@
 # The Drop of Water
 
-* of `-F`
+* Of `KPA/-F`
 * course `KORS`
 * you `U`
 * know `TPHOE`
@@ -11,6 +11,7 @@
 * a `AEU`
 * magnifying `PHAG/TPAOEUG`
 * glass—one `TKPWHRAS EPL/TKA*RB WUPB`
+* of `-F`
 * those `THOZ`
 * round `ROUPBD`
 * spectacle-glasses `SPEBGT/K-L H-PB TKPWHRAFS`
@@ -24,7 +25,7 @@
 * than `THAPB`
 * it `T`
 * is? `S H-F`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * any `TPHEU`
 * one `WUPB`
 * takes `TAEUBGS`
@@ -54,12 +55,13 @@
 * discerned `TKEUS/ERPBD`
 * in `TPH`
 * water. `WAUR TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * there `THR`
 * they `THE`
 * are, `R KW-BG`
 * no `TPHO`
 * delusion. `TKHRAOUGS TP-PL`
+* It `KPA/T`
 * almost `HR-PL`
 * like `HRAOEUBG`
 * great `TKPWRAET`
@@ -68,9 +70,11 @@
 * jumping `SKWRUPL/-PG`
 * about `PW`
 * crowd. `KROUD TP-PL`
+* And `AFPBD`
 * how `HOU`
 * fierce `TPAOERS`
 * are! `R SKHRAPL`
+* They `KPA/THE`
 * tear `TAER`
 * off `OF`
 * each `AOEFP`
@@ -85,7 +89,7 @@
 * joyful `SKWROEUFL`
 * their `THAEUR`
 * way. `WAEU TP-PL`
-* Now, `TPHOU KW-BG`
+* Now, `KPA/TPHOU KW-BG`
 * once `WUPBS`
 * was `WAS`
 * an `APB`
@@ -98,16 +102,19 @@
 * Kribble-Krabble, `xxx Kribble H-PB xxx Krabble KW-BG`
 * for `TPOR`
 * name. `TPHAEUPL TP-PL`
+* He `KPA/HE`
 * always `AULS`
 * wanted `WAPBTD`
 * best `PWEFT`
 * everything, `EFG KW-BG`
+* when `WHEPB`
 * could `KO`
 * not `TPHOT`
 * manage `PHAPBG`
 * otherwise, `O*ERZ KW-BG`
 * did `TK`
 * magic. `PHAPBLG/EUBG TP-PL`
+* There `KPA/THR`
 * sat `SAT`
 * day, `TKAEU KW-BG`
 * held `HELD`
@@ -122,6 +129,7 @@
 * kribbling `xxx kribbling`
 * krabbling `xxx krabbling`
 * there! `THR SKHRAPL`
+* All `KPA/AUL`
 * thousands `THOEUPBS`
 * little `HREUL`
 * hopped `HOPD`
@@ -131,11 +139,11 @@
 * ate `AEUT`
 * other `OER`
 * up. `UP TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * horrible!" `HORBL SKHRAPL KR-GS`
 * said `SAEUD`
 * Kribble-Krabble. `xxx Kribble H-PB xxx Krabble TP-PL`
-* "Can `KR-GS K`
+* "Can `KR-GS KPA/K`
 * persuade `PER/SWAEUD`
 * them `THEPL`
 * live `HREUF`
@@ -149,6 +157,7 @@
 * thought `THAUT`
 * over `OEFR`
 * over, `OEFR KW-BG`
+* but `PWUT`
 * would `WO`
 * do, `TKO KW-BG`
 * recourse `RAOERBGS`
@@ -184,7 +193,7 @@
 * naked `TPHAEUBGD`
 * wild `WAOEULD`
 * men. `PHEPB TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * have `SR`
 * there?" `THR H-F KR-GS`
 * asked `SK-D`
@@ -194,7 +203,7 @@
 * name—and `TPHAEUPL EPL/TKA*RB SKP`
 * thing `THEUPBG`
 * him. `HEUPL TP-PL`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * if `TP`
 * can `K`
 * guess `TKPWES`
@@ -227,6 +236,7 @@
 * bit `PWEUT`
 * hacked, `HABG/-D KW-BG`
 * mauled `PHA*UL/-D`
+* Those `KPA/THOZ`
 * top `TOP`
 * being `-BG`
 * pulled `PULD`
@@ -234,13 +244,13 @@
 * bottom `PWOPLT`
 * struggling `STRUG/-LG`
 * upwards. `UP/WARDZ TP-PL`
-* "Look! `KR-GS HRAOBG SKHRAPL`
+* "Look! `KR-GS KPA/HRAOBG SKHRAPL`
 * look! `HRAOBG SKHRAPL`
 * leg `HREG`
 * longer `HRORPBG`
 * mine! `PHAOEUPB SKHRAPL`
-* Bah! `PWA* SKHRAPL`
-* away `A/WAEU`
+* Bah! `KPA/PWA* SKHRAPL`
+* Away `KPA/A/WAEU`
 * with `W`
 * it! `T SKHRAPL`
 * has `HAS`
@@ -252,6 +262,7 @@
 * him `HEUPL`
 * more." `PHOR TP-PL KR-GS`
 * hacked `HABG/-D`
+* away `A/WAEU`
 * up, `UP KW-BG`
 * because `PWAU`
 * sitting `SEUGT`
@@ -269,12 +280,12 @@
 * "That's `KW-GS/KPA*/THATS`
 * funny!" `TPAOUPB SKHRAPL KR-GS`
 * magician. `PHA/SKWREUGS TP-PL`
-* "Yes; `KR-GS KWRE STPH*FPLT`
+* "Yes; `KR-GS KPA/KWRE STPH*FPLT`
 * do `TKO`
 * think `THEU`
 * is?" `S H-F KR-GS`
 * out?" `OUT H-F KR-GS`
-* "Why, `KR-GS KWR KW-BG`
+* "Why, `KR-GS KPA/KWR KW-BG`
 * easily `AOELS`
 * enough," `TPHUF KW-BG KR-GS`
 * other. `OER TP-PL`
@@ -284,7 +295,7 @@
 * city, `STEU KW-BG`
 * they're `THER`
 * alike. `A/HRAOEUBG TP-PL`
-* It's `T AES`
+* It's `KPA/T AES`
 * city!" `STEU SKHRAPL KR-GS`
-* "It's `KR-GS T AES`
+* "It's `KR-GS KPA/T AES`
 * water!" `WAUR SKHRAPL KR-GS`

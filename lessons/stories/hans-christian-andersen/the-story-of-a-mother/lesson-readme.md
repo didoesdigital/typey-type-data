@@ -16,6 +16,7 @@
 * it `T`
 * would `WO`
 * die. `TKAOEU TP-PL`
+* It `KPA/T`
 * quite `KWAOEUT`
 * pale, `PAEL KW-BG`
 * and `SKP`
@@ -32,7 +33,7 @@
 * almost `HR-PL`
 * like `HRAOEUBG`
 * sigh; `SAOEU STPH*FPLT`
-* Then `THEPB`
+* then `THEPB`
 * the `-T`
 * gazed `TKPWAEZ/-D`
 * more `PHOR`
@@ -42,7 +43,7 @@
 * on `OPB`
 * poor `PAOR`
 * creature. `KRAOEFP TP-PL`
-* Some `SOPL`
+* Some `KPA/SOPL`
 * one `WUPB`
 * knocked `TPHOBGD`
 * at `AT`
@@ -51,7 +52,7 @@
 * man `PHAPB`
 * walked `WAUBGD`
 * in. `TPH TP-PL`
-* he `HE`
+* He `KPA/HE`
 * wrapped `WRAPD`
 * in `TPH`
 * something `S-G`
@@ -59,6 +60,7 @@
 * looked `HRAOBGD`
 * great `TKPWRAET`
 * horse-cloth; `HORS H-PB KHRO*T STPH*FPLT`
+* he `HE`
 * required `RAOEURD`
 * truly `TRAOUL`
 * to `TO`
@@ -81,6 +83,7 @@
 * cut `KUT`
 * one's `W*UPBS`
 * face. `TPAEUS TP-PL`
+* The `KPA/-T`
 * child `KHAOEULD`
 * had `H`
 * dozed `TKOEZ/-D`
@@ -91,7 +94,7 @@
 * seeing `SAOEG`
 * shivered `SH*EUFR/-D`
 * cold, `KOELD KW-BG`
-* rose `ROEZ`
+* rose `ROES`
 * placed `PHRAEUFD`
 * small `SPHAL`
 * mug `PHUG`
@@ -115,7 +118,7 @@
 * took `TAOBG`
 * hold `HOLD`
 * hand. `HAPBD TP-PL`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * think `THEU`
 * I `EU`
 * shall `SHAL`
@@ -123,22 +126,22 @@
 * you `U`
 * not?" `TPHOT H-F KR-GS`
 * said. `SAEUD TP-PL`
-* "Our `KR-GS OUR`
+* "Our `KR-GS KPA/OUR`
 * all-merciful `AUL H-PB TPERS/-FL`
-* God `TKPWOD`
+* God `TKPWO*D`
 * will `HR`
 * surely `SHURL`
 * not `TPHOT`
-* Take `TAEUBG`
+* take `TAEUBG`
 * away `A/WAEU`
 * from `TPR`
 * me." `PHE TP-PL KR-GS`
 * man, `PHAPB KW-BG`
 * indeed `TPHAOEPBD`
-* Death `TK*T`
+* Death `KPA/TK*T`
 * himself, `H*EUPLS KW-BG`
 * nodded `TPHOD/-D`
-* His `HEUS`
+* his `HEUS`
 * head `HED`
 * peculiar `PE/KAOUL/HRAR`
 * manner, `PHAERPB KW-BG`
@@ -147,9 +150,9 @@
 * have `SR`
 * signified `SEUPBG/TPAOEU/-D`
 * either `AOERT`
-* Yes, `KWRE KW-BG`
+* Yes, `KPA/KWRE KW-BG`
 * or `OR`
-* No; `TPHO STPH*FPLT`
+* No; `KPA/TPHO STPH*FPLT`
 * cast `KAFT`
 * down `TKOUPB`
 * eyes, `AO*EUS KW-BG`
@@ -157,6 +160,7 @@
 * tears `TAERS`
 * rolled `ROLD`
 * cheeks. `KHAOEBGS TP-PL`
+* Then `KPA/THEPB`
 * became `PWAEUPL`
 * heavy, `HOEUF KW-BG`
 * closed `KHROEFD`
@@ -164,10 +168,10 @@
 * days `TKAEUS`
 * nights, `TPHAOEUTS KW-BG`
 * slept, `SHREPD KW-BG`
-* But `PWUT`
+* but `PWUT`
 * only `OEPBL`
 * moment. `PHOEPLT TP-PL`
-* Shivering `SH*EUFR/-G`
+* Shivering `KPA/SH*EUFR/-G`
 * started `STARTD`
 * up `UP`
 * round `ROUPBD`
@@ -177,6 +181,7 @@
 * gone `TKPWOPB`
 * too!—the `TAO SKHRAPL EPL/TKA*RB -T`
 * taken `TAEPB`
+* In `KPA/TPH`
 * corner `KRORPB`
 * room `RAOPL`
 * clock `KHROBG`
@@ -194,12 +199,13 @@
 * house `HOUS`
 * calling `KAULG`
 * child. `KHAOEULD TP-PL`
+* Out `KPA/OUT`
 * woman `WOPL`
 * long `HROPBG`
 * black `PWHRABG`
 * garments, `TKPWARPLTS KW-BG`
 * said `SAEUD`
-* "Death `KR-GS TK*T`
+* "Death `KR-GS KPA/TK*T`
 * has `HAS`
 * been `PW-PB`
 * your `KWROUR`
@@ -213,8 +219,8 @@
 * back `PWABG`
 * what `WHA`
 * away." `A/WAEU TP-PL KR-GS`
-* "Only `KR-GS OEPBL`
-* Tell `TEL`
+* "Only `KR-GS KPA/OEPBL`
+* tell `TEL`
 * me `PHE`
 * way `WAEU`
 * gone," `TKPWOPB KW-BG KR-GS`
@@ -242,7 +248,7 @@
 * them `THEPL`
 * before. `PW-F TP-PL`
 * am `APL`
-* night, `TPHAOEUT KW-BG`
+* Night, `KPA/TPHAOEUT KW-BG`
 * flow `TPHROE`
 * as `AZ`
 * sang." `SAPBG TP-PL KR-GS`
@@ -252,14 +258,16 @@
 * overtake `AUFR/TAEUBG`
 * my `PHEU`
 * child." `KHAOEULD TP-PL KR-GS`
-* Night `TPHAOEUT`
+* But `KPA/PWUT`
+* Night `KPA/TPHAOEUT`
 * silent `SHREPBT`
 * still. `STEUL TP-PL`
 * wept `WEPT`
 * sang, `SAPBG KW-BG`
 * wrung `WRUPBG`
 * hands. `HAPBDZ TP-PL`
-* There `THR`
+* And `AFPBD`
+* there `THR`
 * many `PHAEPB`
 * yet `KWRET`
 * even `AOEPB`
@@ -267,21 +275,21 @@
 * till `T*EUL`
 * length `HREPBG`
 * said, `SAEUD KW-BG`
-* "Go `KR-GS TKPW`
+* "Go `KR-GS KPA/TKPW`
 * right, `RAOEUT KW-BG`
 * into `TPHAO`
 * dark `TKARBG`
 * forest `TPOEFRT`
 * fir-trees; `TPEUR H-PB TRAOES STPH*FPLT`
 * road `RAOD`
-* Within `W-PB`
+* Within `KPA/W-PB`
 * wood `WAOD`
 * came `KAEUPL`
 * cross `KROS`
 * roads, `ROEDZ KW-BG`
 * knew `TPHAOU`
 * take. `TAEUBG TP-PL`
-* just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * stood `STAOD`
 * thorn-bush; `THORPB H-PB PWURB STPH*FPLT`
 * neither `TPHAOERT`
@@ -293,18 +301,19 @@
 * icicles `AOEUS/K*L`
 * hung `HUPBG`
 * branches. `PWRAFPBS TP-PL`
-* "Have `KR-GS SR`
+* "Have `KR-GS KPA/SR`
 * seen `SAOEPB`
 * go `TKPW`
 * by, `PWEU KW-BG`
 * child?" `KHAOEULD H-F KR-GS`
 * asked. `SK-D TP-PL`
-* "Yes," `KR-GS KWRE KW-BG KR-GS`
+* "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * until `TPH-L`
 * warmed `WARPLD`
 * bosom. `PWUZ/OPL TP-PL`
 * freezing `TPRAOEZ/-G`
+* death `TK*T`
 * here, `HAOER KW-BG`
 * turning `TURPBG`
 * ice." `AOEUS TP-PL KR-GS`
@@ -328,6 +337,7 @@
 * they `THE`
 * flowers `TPHRO*URS`
 * winter's `WEURPBT AES`
+* night, `TPHAOEUT KW-BG`
 * is `S`
 * heart `HART`
 * sorrowing `SROE/-G`
@@ -335,6 +345,7 @@
 * bramble-bush `PWRAPL/-BL H-PB PWURB`
 * told `TOLD`
 * path `PA*T`
+* She `KPA/SHE`
 * lake, `HRAEUBG KW-BG`
 * ship `SHEUP`
 * boat `PWOET`
@@ -381,6 +392,7 @@
 * pearls, `PERLS KW-BG`
 * are `R`
 * purest `PAOUR/EFT`
+* If `KPA/TP`
 * weep `WAOEP`
 * those `THOZ`
 * waters, `WAURS KW-BG`
@@ -392,7 +404,7 @@
 * trees, `TRAOES KW-BG`
 * every `EF`
 * life." `HRAOEUF TP-PL KR-GS`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * give `TKPWEUF`
 * reach `RAOEFP`
 * child!" `KHAOEULD SKHRAPL KR-GS`
@@ -415,7 +427,7 @@
 * building `PW-LG`
 * miles `PHAOEULS`
 * length. `HREPBG TP-PL`
-* No `TPHO`
+* No `KPA/TPHO`
 * could `KO`
 * whether `WHR`
 * mountain `PHOUPB/TAEUPB`
@@ -425,9 +437,9 @@
 * built. `PWEULT TP-PL`
 * see, `SAOE KW-BG`
 * lake. `HRAEUBG TP-PL`
-* "Where `KR-GS W-R`
-* Death, `TK*T KW-BG`
-* "He `KR-GS HE`
+* "Where `KR-GS KPA/W-R`
+* Death, `KPA/TK*T KW-BG`
+* "He `KR-GS KPA/HE`
 * arrived `A/REUFD`
 * here `HAOER`
 * yet," `KWRET KW-BG KR-GS`
@@ -436,24 +448,26 @@
 * walking `WAUG`
 * about, `PW KW-BG`
 * watering `WAURPBG`
-* Death's `TK*T AES`
+* Death's `KPA/TK*T AES`
 * hothouse. `xxx hothouse TP-PL`
-* "how `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * found `TPOUPBD`
 * here? `HAOER H-F`
 * helped `HEPD`
 * you?" `U H-F KR-GS`
-* "God `KR-GS TKPWOD`
+* "God `KR-GS TKPWO*D`
 * me," `PHE KW-BG KR-GS`
 * replied. `RE/PHRAOEUD TP-PL`
 * merciful; `TPERS/-FL STPH*FPLT`
 * merciful `TPERS/-FL`
 * too? `TAO H-F`
+* Where `KPA/W-R`
 * did `TK`
 * child," `KHAOEULD KW-BG KR-GS`
 * woman; `WOPL STPH*FPLT`
 * "and `KR-GS SKP`
 * blind. `PWHRAOEUPBD TP-PL`
+* Many `KPA/PHAEPB`
 * trees `TRAOES`
 * faded `TPAEUD/-D`
 * to-night, `TO H-PB TPHAOEUT KW-BG`
@@ -461,17 +475,20 @@
 * come `KOPL`
 * transplant `THRAPT`
 * them. `THEPL TP-PL`
+* You `KPA/U`
 * already `HR-R`
 * life-tree `HRAOEUF H-PB TRAOE`
 * life-flower, `HRAOEUF H-PB TPHRO*UR KW-BG`
+* just `SKWRUFT`
 * may `PHAE`
 * ordained `OR/TKAEUPBD`
+* They `KPA/THE`
 * look `HRAOBG`
 * other `OER`
 * plants; `PHRAPBTS STPH*FPLT`
 * hearts `HARTS`
 * beat. `PWAET TP-PL`
-* Children's `KHEURPB AES`
+* Children's `KPA/KHEURPB AES`
 * also `HR-S`
 * beat: `PWAET STPH-FPLT`
 * able `ABL`
@@ -495,7 +512,7 @@
 * hair `HAEUR`
 * exchange, `KPAEUPBG KW-BG`
 * return." `RURPB TP-PL KR-GS`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * ask `SK`
 * that?" `THA H-F KR-GS`
 * she. `SHE TP-PL`
@@ -511,7 +528,7 @@
 * hothouse, `xxx hothouse KW-BG`
 * grew `TKPWRAOU`
 * profusion. `PRO/TPAOUGS TP-PL`
-* Blooming `PWHRAOPL/-G`
+* Blooming `KPA/PWHRAOPL/-G`
 * hyacinths, `HAOEU/S*EUPBT/-S KW-BG`
 * under `*UPBD`
 * glass `TKPWHRAS`
@@ -519,7 +536,9 @@
 * peonies, `PE/KWRO/TPHAOES KW-BG`
 * strong `STROPBG`
 * trees. `TRAOES TP-PL`
+* There `KPA/THR`
 * water-plants, `WAUR H-PB PHRAPBTS KW-BG`
+* some `SOPL`
 * fresh, `TPRERB KW-BG`
 * others `OERS`
 * looking `HRAOG`
@@ -539,10 +558,11 @@
 * bloomed `PWHRAOPL/-D`
 * thyme `THAOEUPL`
 * parsley. `PARS/HREU TP-PL`
-* each `AOEFP`
+* Each `KPA/AOEFP`
 * tree `TRAOE`
 * flower `TPHRO*UR`
 * name; `TPHAEUPL STPH*FPLT`
+* each `AOEFP`
 * represented `REPD`
 * life, `HRAOEUF KW-BG`
 * belonged `PWHROPBGD`
@@ -581,7 +601,7 @@
 * among `PHOPBG`
 * millions `PH-LS`
 * others. `OERS TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * it," `T KW-BG KR-GS`
 * cried, `KRAOEUD KW-BG`
 * stretching `STREFPG`
@@ -606,10 +626,10 @@
 * serve `SEFRB`
 * same `SAEUPL`
 * manner. `PHAERPB TP-PL`
-* This `TH`
+* This `KPA/TH`
 * afraid; `A/TPRAEUD STPH*FPLT`
 * account `K-T`
-* None `TPHOPB`
+* None `KPA/TPHOPB`
 * uprooted, `UP/RAOT/-D KW-BG`
 * unless `TPH-LS`
 * receives `SAOEFS`
@@ -625,6 +645,7 @@
 * hither?" `H*EURT H-F KR-GS`
 * asked `SK-D`
 * he; `HE STPH*FPLT`
+* "how `KR-GS HOU`
 * have?" `SR H-F KR-GS`
 * mother," `PHOER KW-BG KR-GS`
 * answered. `AEPBS/-D TP-PL`
@@ -649,21 +670,23 @@
 * cannot `K/TPHOT`
 * prevail `PRE/SRAEUL`
 * against `TKPWEPBS`
-* Death. `TK*T TP-PL`
+* Death. `KPA/TK*T TP-PL`
+* "But `KR-GS KPA/PWUT`
 * mercy `PHER/SEU`
 * can," `K KW-BG KR-GS`
+* His `KPA/HEUS`
 * will," `HR KW-BG KR-GS`
 * gardener. `TKPWARD/TPHER TP-PL`
 * gardens `TKPWARD/-PBS`
-* Paradise `PAR/TKAOEUZ`
+* Paradise `KPA/PAR/TKAOEUZ`
 * unknown `UPB/TPHOEPB`
 * land. `HRAPBD TP-PL`
-* how `HOU`
+* How `KPA/HOU`
 * flourish `TPHRUR/EURB`
 * there, `THR KW-BG`
 * garden `TKPWA*RPB`
 * resembles, `RE/SEPL/-BLS KW-BG`
-* "Give `KR-GS TKPWEUF`
+* "Give `KR-GS KPA/TKPWEUF`
 * imploring; `EUPL/PHROR/-G STPH*FPLT`
 * seized `SAOEZ/-D`
 * cried `KRAOEUD`
@@ -676,17 +699,18 @@
 * another `TPHOER`
 * unhappy `UPB/HAEP`
 * yourself?" `KWRO*URS H-F KR-GS`
-* "Another `KR-GS TPHOER`
+* "Another `KR-GS KPA/TPHOER`
 * mother!" `PHOER SKHRAPL KR-GS`
 * setting `SEGT`
 * free `TPRAOE`
-* "There `KR-GS THR`
+* "There `KR-GS KPA/THR`
 * eyes," `AO*EUS KW-BG KR-GS`
 * fished `TPEURBD`
 * you. `U TP-PL`
 * shining `SHAOEUPBG`
 * brightly; `PWRAOEULT STPH*FPLT`
 * yours. `KWROURS TP-PL`
+* Take `KPA/TAEUBG`
 * back—they `PWABG EPL/TKA*RB THE`
 * clearer `KHAOER/*ER`
 * now `TPHOU`
@@ -707,6 +731,7 @@
 * glorious `TKPWHRORS`
 * sight `SAOEUT`
 * behold `PWE/HOLD`
+* how `HOU`
 * blessing `PWHR*EFG`
 * world, `WORLD KW-BG`
 * much `PHUFP`
@@ -719,12 +744,12 @@
 * poverty, `POFRT KW-BG`
 * misery `PHEUS/REU`
 * woe. `WOE TP-PL`
-* "Both `KR-GS PWO*T`
-* God," `TKPWOD KW-BG KR-GS`
-* "Which `KR-GS WEU`
+* "Both `KR-GS KPA/PWO*T`
+* God," `TKPWO*D KW-BG KR-GS`
+* "Which `KR-GS KPA/WEU`
 * blessed `PWHR*EFD`
 * one?" `WUPB H-F KR-GS`
-* Death; `TK*T STPH*FPLT`
+* Death; `KPA/TK*T STPH*FPLT`
 * thus `THUS`
 * far `TPAR`
 * learn, `HRERPB KW-BG`
@@ -737,33 +762,35 @@
 * terror, `TER/O*R KW-BG`
 * belongs `PWHROPBGS`
 * child? `KHAOEULD H-F`
+* Tell `KPA/TEL`
 * that. `THA TP-PL`
-* Deliver `THREUFR`
-* Release `RE/HRAOEZ`
+* Deliver `KPA/THREUFR`
+* Release `KPA/RE/HRAOEZ`
 * misery. `PHEUS/REU TP-PL`
-* Rather `RAER`
+* Rather `KPA/RAER`
 * away. `A/WAEU TP-PL`
 * kingdom `KEUPBG/TKOPL`
-* God. `TKPWOD TP-PL`
-* forget `TPERGT`
+* God. `TKPWO*D TP-PL`
+* Forget `KPA/TPERGT`
 * entreaties; `SPWRAOE/TEU/KWREU/-S STPH*FPLT`
+* forget `TPERGT`
 * done." `TKOPB TP-PL KR-GS`
 * understand `URPBD`
-* "Will `KR-GS HR`
+* "Will `KR-GS W*EUL`
 * back? `PWABG H-F`
 * carry `KAER`
 * know?" `TPHOE H-F KR-GS`
 * knees, `TPHAOEZ KW-BG`
 * prayed `PRAEUD`
-* God, `TKPWOD KW-BG`
-* "Grant `KR-GS TKPWRAPBT`
+* God, `TKPWO*D KW-BG`
+* "Grant `KR-GS TKPWRA*PBT`
 * prayers, `PRAEURS KW-BG`
 * contrary `KRAER`
-* Thy `THAO*EU`
+* Thy `KPA/THAO*EU`
 * will, `HR KW-BG`
 * times `TAOEUPLS`
 * best. `PWEFT TP-PL`
-* Oh, `O*E KW-BG`
+* Oh, `KPA/O*E KW-BG`
 * hear `HAER`
 * not;" `TPHOT STPH*FPLT KR-GS`
 * carried `KAERD`

@@ -1,6 +1,6 @@
 # Everything in the Right Place
 
-* it `T`
+* It `KPA/T`
 * is `S`
 * more `PHOR`
 * than `THAPB`
@@ -8,7 +8,7 @@
 * hundred `HUPBD`
 * years `KWRAOERS`
 * ago! `AG SKHRAPL`
-* at `AT`
+* At `KPA/AT`
 * the `-T`
 * border `PWRORD`
 * of `-F`
@@ -22,6 +22,7 @@
 * deep `TKAOEP`
 * ditches `TKEUFPS`
 * surrounded `SROUBD/-D`
+* it `T`
 * on `OPB`
 * every `EF`
 * side, `SAOEUD KW-BG`
@@ -31,19 +32,19 @@
 * and `SKP`
 * bulrushes `xxx bulrushes`
 * grew. `TKPWRAOU TP-PL`
-* close `KHROES`
+* Close `KPA/KHROES`
 * by `PWEU`
 * drawbridge, `TKRAU/PWREUPBLG KW-BG`
 * gate, `TKPWAET KW-BG`
 * there `THR`
 * was `WAS`
-* An `APB`
+* an `APB`
 * willow `WEUL/HROE`
 * tree, `TRAOE KW-BG`
 * bent `PWEPBT`
 * over `OEFR`
 * reeds. `RAOED/-S TP-PL`
-* from `TPR`
+* From `KPA/TPR`
 * narrow `TPHO*EUR`
 * pass `PAS`
 * came `KAEUPL`
@@ -63,6 +64,7 @@
 * drive `KRAOEUF`
 * them `THEPL`
 * away `A/WAEU`
+* from `TPR`
 * bridge, `PWREUPBLG KW-BG`
 * before `PW-F`
 * whole `WHOEL`
@@ -85,16 +87,17 @@
 * placed `PHRAEUFD`
 * herself `H*ERS`
 * one `WUPB`
-* High `HAOEU`
+* high `HAOEU`
 * corner-stones `KRORPB H-PB STOEPBS`
 * bridge. `PWREUPBLG TP-PL`
-* she `SHE`
+* She `KPA/SHE`
 * still `STEUL`
 * half `HAF`
 * child `KHAOEULD`
 * very `SRE`
 * delicately `TKEL/KAT/HREU`
 * built; `PWEULT STPH*FPLT`
+* she `SHE`
 * had `H`
 * bright `PWRAOEUT`
 * blue `PWHRU`
@@ -102,7 +105,7 @@
 * gentle, `SKWR*EPBLT KW-BG`
 * sweet `SWAOET`
 * expression. `EBGS/PREGS TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * such `SUFP`
 * things `THEUPBGS`
 * baron `PWAR/ROPB`
@@ -127,14 +130,14 @@
 * backward `PWABG/WARD`
 * into `TPHAO`
 * ditch. `TKEUFP TP-PL`
-* "Everything `KR-GS EFG`
+* "Everything `KR-GS KPA/EFG`
 * right `RAOEUT`
 * place!" `PHRAEUS SKHRAPL KR-GS`
 * cried. `KRAOEUD TP-PL`
-* "Into `KR-GS TPHAO`
+* "Into `KR-GS KPA/TPHAO`
 * ditch `TKEUFP`
 * you." `U TP-PL KR-GS`
-* then `THEPB`
+* Then `KPA/THEPB`
 * burst `PWUFRT`
 * out `OUT`
 * laughing, `HRAFG KW-BG`
@@ -148,6 +151,7 @@
 * cried, `KRAOEUD KW-BG`
 * hounds `HOUPBDZ`
 * barked. `PWARBGD TP-PL`
+* While `KPA/WHAOEUL`
 * poor `PAOR`
 * falling `TPAULG`
 * happily `HAP/HREU`
@@ -165,6 +169,7 @@
 * endeavoured `EPB/TKEUFRD/A*U`
 * scramble `SKRAPL/-BL`
 * up, `UP KW-BG`
+* but `PWUT`
 * branch `PWRAFRPB`
 * broke `PWROEBG`
 * off, `OF KW-BG`
@@ -177,6 +182,7 @@
 * hand `HAPBD`
 * above `PWOF`
 * seized `SAOEZ/-D`
+* at `AT`
 * this `TH`
 * moment. `PHOEPLT TP-PL`
 * pedlar; `xxx pedlar STPH*FPLT`
@@ -198,6 +204,7 @@
 * up `UP`
 * dry `TKRAOEU`
 * ground. `TKPWROUPBD TP-PL`
+* He `KPA/HE`
 * wished `WEURBD`
 * put `PUT`
 * back `PWABG`
@@ -205,11 +212,11 @@
 * been `PW-PB`
 * broken `PWROEPB`
 * possible `POB`
-* Everything `EFG`
+* everything `EFG`
 * place; `PHRAEUS STPH*FPLT`
 * stuck `STUBG`
 * soft `SOFT`
-* "Grow `KR-GS TKPWROE`
+* "Grow `KR-GS KPA/TKPWROE`
 * thrive `THRAOEUF`
 * if `TP`
 * you `U`
@@ -235,10 +242,11 @@
 * too `TAO`
 * humble `UPL/-BL`
 * that. `THA TP-PL`
-* No; `TPHO STPH*FPLT`
+* No; `KPA/TPHO STPH*FPLT`
 * went `WEPBT`
 * servants' `SER/SRAPBTS AE`
 * hall. `HAUL TP-PL`
+* The `KPA/-T`
 * men-servants `PHEPB H-PB SER/SRAPBTS`
 * maids `PHAEUDZ`
 * looked `HRAOBGD`
@@ -257,7 +265,7 @@
 * singing—indeed, `SEUPBG/-G EPL/TKA*RB TPHAOEPBD KW-BG`
 * their `THAEUR`
 * best. `PWEFT TP-PL`
-* Laughter `HRAFR`
+* Laughter `KPA/HRAFR`
 * howls `HOUL/-S`
 * open `OEP`
 * windows: `WO*EUPBDZ STPH-FPLT`
@@ -271,6 +279,7 @@
 * favourite `TPAEUFRT/A*U`
 * ate `AEUT`
 * masters; `PHAFT/ERS STPH*FPLT`
+* then `THEPB`
 * squires `SKWAOEUR/-S`
 * kissed `K*EUFD`
 * these `THEZ`
@@ -282,6 +291,7 @@
 * mouth `PHO*UT`
 * first `TPEUFRT`
 * tablecloth. `TAEUBL/KHRO*T TP-PL`
+* They `KPA/THE`
 * ordered `ORD/-D`
 * pedlar `xxx pedlar`
 * come `KOPL`
@@ -301,7 +311,7 @@
 * drink `TKREU`
 * them, `THEPL KW-BG`
 * quick. `KWEUBG TP-PL`
-* That's `THA AES`
+* That's `KPA/THA AES`
 * fun, `TPUPB KW-BG`
 * made `PHAED`
 * laugh. `HRAF TP-PL`
@@ -318,9 +328,9 @@
 * Sodom `SOD/OPL`
 * Gomorrah, `TPOPL/OR/RA KW-BG`
 * it. `T TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * road `RAOD`
-* My `PHEU`
+* my `PHEU`
 * I `EU`
 * feel `TPAOEL`
 * ease." `AOES TP-PL KR-GS`
@@ -330,7 +340,7 @@
 * kindly `KAOEUPBD/HREU`
 * passed `PAFD`
 * gate. `TKPWAET TP-PL`
-* days `TKAEUS`
+* Days `KPA/TKAEUS`
 * weeks `WAOEBGS`
 * passed, `PAFD KW-BG`
 * seen `SAOEPB`
@@ -363,7 +373,7 @@
 * nobody `TPHOEB`
 * stands `STAPBDZ`
 * safely. `SAEUFL TP-PL`
-* Less `HRES`
+* Less `KPA/HRES`
 * six `SEUBGS`
 * afterwards `A*FRDZ`
 * castle-gate `KAFL H-PB TKPWAET`
@@ -391,7 +401,7 @@
 * pastime," `xxx pastime KW-BG KR-GS`
 * "when `KR-GS WHEPB`
 * devil `TKEFL`
-* Bible `PWAOEUBL`
+* Bible `PWAO*EUBL`
 * wanted `WAPBTD`
 * caricature `KARBG/TAOUR`
 * opposition `OP/POGS`
@@ -404,16 +414,18 @@
 * took `TAOBG`
 * wife, `WAOEUF KW-BG`
 * whom `WHOPL`
-* take?—The `TAEUBG H-F EPL/TKA*RB -T`
+* take?—The `TAEUBG H-F EPL/TKA*RB KPA/-T`
 * always `AULS`
 * kind, `KEUPBD KW-BG`
 * beautiful `PWAOUFL`
 * clothes `KHRO*ETS`
 * lady `HRA*ED`
 * birth. `PW*EURT TP-PL`
+* And `AFPBD`
 * how `HOU`
 * all `AUL`
 * about? `PW H-F`
+* That `KPA/THA`
 * be `-B`
 * long `HROPBG`
 * tale `TAEL`
@@ -439,7 +451,7 @@
 * out-of-doors, `OUT H-PB -F H-PB TKAORS KW-BG`
 * indeed `TPHAOEPBD`
 * prosperous. `PROFP/ROUS TP-PL`
-* where `W-R`
+* Where `KPA/W-R`
 * leads `HRAEDZ`
 * way, `WAEU KW-BG`
 * prosperity `PROFP/ERT`
@@ -457,6 +469,7 @@
 * white `WHAOEUT`
 * shining `SHAOEUPBG`
 * pasteboard. `PA*EUS/PWORD TP-PL`
+* In `KPA/TPH`
 * winter `WEURPBT`
 * evenings `AOEPBGS`
 * mistress `PHEUS/TRES`
@@ -470,7 +483,7 @@
 * days—read `TKAEUS EPL/TKA*RB RAED`
 * aloud `A/HROUD`
 * portion `PORGS`
-* Bible. `PWAOEUBL TP-PL`
+* Bible. `PWAO*EUBL TP-PL`
 * children `KHEURPB`
 * (for `PREPB TPOR`
 * children) `KHEURPB PR*EPB`
@@ -489,7 +502,7 @@
 * free, `TPRAOE KW-BG`
 * never `TPHEF`
 * clipped. `KHREUPD TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * genealogical `SKWRAO*EPB/HR-L`
 * tree," `TRAOE KW-BG KR-GS`
 * people `PAOEPL`
@@ -515,10 +528,11 @@
 * walls `WAULS`
 * remainder `RAEURPBD`
 * ditches; `TKEUFPS STPH*FPLT`
-* Here `HAOER`
+* here `HAOER`
 * magnificent `PHAFPBT`
 * overhanging `xxx overhanging`
 * branches—that `PWRAFPBS EPL/TKA*RB THA`
+* Here `KPA/HAOER`
 * stood, `STAOD KW-BG`
 * showed `SHOED`
 * can `K`
@@ -544,8 +558,9 @@
 * flowers `TPHRO*URS`
 * sprang `SPRAPBG`
 * forth. `TPO*RT TP-PL`
-* especially `EPS`
+* Especially `KPA/EPS`
 * above, `PWOF KW-BG`
+* where `W-R`
 * boughs `PWO*U/-S`
 * parted, `PARTD KW-BG`
 * quite `KWAOEUT`
@@ -553,7 +568,7 @@
 * garden, `TKPWA*RPB KW-BG`
 * wild `WAOEULD`
 * raspberries `RAZ/PWER/KWREUS`
-* hart's-tongue `HA*RT AE S* H-PB TUPBG`
+* hart's-tongue `HRO*ER/HA*RT AES H-PB TUPBG`
 * ferns `TPERPB/-S`
 * throve, `xxx throve KW-BG`
 * mistletoe `PHEUS/-L/TOE`
@@ -571,6 +586,8 @@
 * led `HRED`
 * across `A/KROS`
 * fields `TPAOELDZ`
+* close `KHROES`
+* High `KPA/HAOEU`
 * woody `WAO/TKEU`
 * hillside, `HEULDZ KW-BG`
 * mansion. `PHAPBGS TP-PL`
@@ -599,7 +616,7 @@
 * separately `SERPLT`
 * morning `PHORPBG`
 * evening. `AOEPBG TP-PL`
-* Inside, `TPH-DZ KW-BG`
+* Inside, `KPA/TPH-DZ KW-BG`
 * hall, `HAUL KW-BG`
 * valuable `SRABL`
 * oil `OEUL`
@@ -619,16 +636,17 @@
 * tops, `TOPS KW-BG`
 * books `PWAOBGS`
 * bound `PWOUPBD`
-* morocco `PHORBG/KOE`
+* morocco `xxx morocco`
 * gilt `TKPW*EULT`
 * edges. `EPBLGS TP-PL`
-* Indeed, `TPHAOEPBD KW-BG`
+* Indeed, `KPA/TPHAOEPBD KW-BG`
 * well-to-do `WEL H-PB TO H-PB TKO`
 * distinguished `STKPWAOURBD`
 * lived `HREUFD`
 * here; `HAOER STPH*FPLT`
 * dwelling `TKWELG`
 * family. `TPAEPL TP-PL`
+* Each `KPA/AOEFP`
 * article `ARL`
 * keeping `KAOEPG`
 * surroundings. `SRAOUPBD/-G TP-PL`
@@ -645,6 +663,7 @@
 * passage `PAFPBLG`
 * rooms. `RAOPLS TP-PL`
 * lumber, `HRUPL/PWER KW-BG`
+* especially `EPS`
 * portraits—one `POR/TRAT/-S EPL/TKA*RB WUPB`
 * representing `REPG`
 * man `PHAPB`
@@ -656,11 +675,11 @@
 * curled `KURLD`
 * hair `HAEUR`
 * holding `HOELGD`
-* rose `ROEZ`
+* rose `ROES`
 * hand, `HAPBD KW-BG`
 * wreath `WRAO*ET`
 * branches. `PWRAFPBS TP-PL`
-* Both `PWO*T`
+* Both `KPA/PWO*T`
 * portraits `POR/TRAT/-S`
 * many `PHAEPB`
 * holes `HOELS`
@@ -674,7 +693,7 @@
 * counsellor `KOUPBL/A*U`
 * family `TPAEPL`
 * descended. `TKAOE/SEPBD/-D TP-PL`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * properly `PRORL`
 * belong `PWHROPBG`
 * family," `TPAEPL KW-BG KR-GS`
@@ -684,6 +703,7 @@
 * geese. `TKPWAOES TP-PL`
 * papa `PA/PA`
 * mamma." `PHAPL/PHA TP-PL KR-GS`
+* "everything `KR-GS EFG`
 * place." `PHRAEUS TP-PL KR-GS`
 * why `KWR`
 * great-grandparents `TKPWRAET H-PB TKPWR-PTS`
@@ -692,6 +712,7 @@
 * village `SREULG`
 * pastor `PAS/TOR`
 * tutor `TAOURT`
+* One `KPA/WUPB`
 * day `TKAEU`
 * walk `WAUBG`
 * young `KWRUPBG`
@@ -723,21 +744,21 @@
 * heart `HART`
 * full `TPUL`
 * love `HRUF`
-* God `TKPWOD`
+* God `TKPWO*D`
 * created. `KRAOETD TP-PL`
 * stopped `STOPD`
 * youngest `KWRUPBG/EFT`
 * cut `KUT`
 * trees; `TRAOES STPH*FPLT`
 * off. `OF TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * pray `PRAEU`
 * do `TKO`
 * it!" `T SKHRAPL KR-GS`
 * lady; `HRA*ED STPH*FPLT`
 * already `HR-R`
 * done. `TKOPB TP-PL`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * famous `TPAEUPLS`
 * much. `PHUFP TP-PL`
 * often `OFPB`
@@ -745,6 +766,7 @@
 * me `PHE`
 * home `HOEPL`
 * matter. `PHAERT TP-PL`
+* There `KPA/THR`
 * story `STOER`
 * attached `A/TAFPD`
 * tree." `TRAOE TP-PL KR-GS`
@@ -757,7 +779,7 @@
 * become `PW-BG`
 * ancestors `APB/SEFT/ORS`
 * belonged. `PWHROPBGD TP-PL`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * knighted, `TPHAO*EUT/-D KW-BG`
 * people," `PAOEPL KW-BG KR-GS`
 * "their `KR-GS THAEUR`
@@ -767,13 +789,14 @@
 * thought, `THAUT KW-BG`
 * purchase `PUFP`
 * money. `PHUPB TP-PL`
+* My `KPA/PHEU`
 * grandfather, `TKPWR-F KW-BG`
 * son. `SOPB TP-PL`
 * say `SAEU`
 * learned `HRERPBD`
 * man, `PHAPB KW-BG`
 * princes `PREUPBS/-S`
-* princesses, `PREUPB/ES/-S KW-BG`
+* princesses, `PREUPB/SES/-S KW-BG`
 * invited `EUPB/SRAOEUTD`
 * court `KORT`
 * festivities. `TPEFT/EUFT/TEU/-S TP-PL`
@@ -785,12 +808,13 @@
 * couple `KUPL`
 * attracts `A/TRABGTS`
 * heart! `HART SKHRAPL`
+* How `KPA/HOU`
 * homely, `HOEPL/HREU KW-BG`
 * patriarchal, `PAEUT/RAR/KAL KW-BG`
 * maids, `PHAEUDZ KW-BG`
 * husband `HUS`
 * read `RAED`
-* Bible!" `PWAOEUBL SKHRAPL KR-GS`
+* Bible!" `PWAO*EUBL SKHRAPL KR-GS`
 * excellent, `KPHREPBT KW-BG`
 * sensible `SEPBS/-BL`
 * conversation `K-FRGS`
@@ -819,7 +843,7 @@
 * admission `AD/PHEUGS`
 * highest `HAOEU/EFT`
 * circles. `SOEURBGS TP-PL`
-* nobility `TPHOEBLT`
+* Nobility `KPA/TPHOEBLT`
 * distinction; `TKWEUPBGS STPH*FPLT`
 * gold `TKPWOELD`
 * coin `KOEUPB`
@@ -870,24 +894,25 @@
 * courtyard; `KORT/KWRARD STPH*FPLT`
 * carry `KAER`
 * gift `TKPWEUFT`
-* "'There `KR-GS AE THR`
+* "'There `KR-GS AE KPA/THR`
 * woman,' `WOPL KW-BG AE`
 * nobleman; `TPHOEBL/PHA*PB STPH*FPLT`
 * 'it `AE T`
 * difficult `TKEUFL`
 * walk.' `WAUBG TP-PL AE`
-* "My `KR-GS PHEU`
+* "My `KR-GS KPA/PHEU`
 * hardly `HA*RLD`
 * understood `*URPBD`
 * downstairs, `TKOUPB/STAEURS KW-BG`
 * save `SAF`
 * troublesome `TRUBL/SPH`
 * fetch. `TPEFP TP-PL`
+* Of `KPA/-F`
 * course `KORS`
 * incident, `STK*EPBT KW-BG`
 * widow's `WO*EUD AES`
 * mites `PHAO*EUT/-S`
-* Bible, `PWAOEUBL KW-BG`
+* Bible, `PWAO*EUBL KW-BG`
 * echoes `EBG/SKWROS`
 * depth `TK*EPT`
 * human `HAOUPL`
@@ -915,8 +940,9 @@
 * says `SEZ`
 * commoner `KPHOPB/*ER`
 * room: `RAOPL STPH-FPLT`
-* 'Some `AE SOPL`
+* 'Some `AE KPA/SOPL`
 * here,' `HAOER KW-BG AE`
+* nobility `TPHOEBLT`
 * decaying; `TKAOE/KAEUG STPH*FPLT`
 * mask `PHAFBG`
 * kind `KEUPBD`
@@ -926,6 +952,7 @@
 * person `PERPB`
 * exposed `SPOEDZ`
 * satire." `SA/TAOEUR TP-PL KR-GS`
+* Such `KPA/SUFP`
 * tutor's `TAOURT AES`
 * speech; `SPAOEFP STPH*FPLT`
 * long, `HROPBG KW-BG`
@@ -971,7 +998,7 @@
 * them; `THEPL STPH*FPLT`
 * otherwise `O*ERZ`
 * charming! `KHARPL/-G SKHRAPL`
-* "Are `KR-GS R`
+* "Are `KR-GS KPA/R`
 * artist?" `TR-FT H-F KR-GS`
 * cavalier, `KAF/HRAOER KW-BG`
 * father; `TPAER STPH*FPLT`
@@ -981,7 +1008,7 @@
 * genius `SKWRAOEPBS/KWRUS`
 * rules—the `RAOULS EPL/TKA*RB -T`
 * due `TKAOU`
-* "Certainly `KR-GS SERPBL`
+* "Certainly `KR-GS KPA/SERPBL`
 * not! `TPHOT SKHRAPL`
 * can't `K-PBT`
 * help." `HEP TP-PL KR-GS`
@@ -991,7 +1018,7 @@
 * us `US`
 * instrument—will `STRUPLT EPL/TKA*RB HR`
 * not?" `TPHOT H-F KR-GS`
-* thus `THUS`
+* Thus `KPA/THUS`
 * saying `SAEUG`
 * handed `HAPBD/-D`
 * pool; `PAOL STPH*FPLT`
@@ -1010,6 +1037,7 @@
 * lips. `HREUPS TP-PL`
 * marvellous `PHAFLS/A*U`
 * flute! `TPHRAOUT SKHRAPL`
+* Its `KPA/EUTS`
 * thrilling `THREULG`
 * whistle `WHEUFL`
 * steam `STAEPL`
@@ -1050,7 +1078,8 @@
 * her; `HER STPH*FPLT`
 * bridal `PWRAOEU/TKAL`
 * pair. `PAEUR TP-PL`
-* Count, `KOUPBT KW-BG`
+* An `KPA/APB`
+* Count, `KO*UPBT KW-BG`
 * belonging `PWAOE/HROPBG/-G`
 * oldest `OELD/EFT`
 * families `TPAEPLS`
@@ -1082,24 +1111,28 @@
 * room `RAOPL`
 * behind `HEUPBD`
 * footmen. `xxx footmen TP-PL`
+* Two `KPA/TWO`
 * farmers `TPARPL/ERS`
+* days `TKAEUS`
 * shot `SHOT`
 * higher `HAOEUR`
 * corn-fields, `KORPB H-PB TPAOELDZ KW-BG`
 * flung `TPHRUPBG`
 * ditch; `TKEUFP STPH*FPLT`
 * dangerous `TKAEUPBLGS`
-* Fortunately `TP-RPBL`
+* Fortunately `KPA/TP-RPBL`
 * thing, `THEUPBG KW-BG`
 * owner's `OERPB AES`
 * pocket—"its `POBGT EPL/TKA*RB KR-GS EUTS`
 * day, `TKAEU KW-BG`
 * word `WORD`
+* thus `THUS`
 * originated `ORPBLG/TPHAEUT/-D`
 * phrase, `TPRAEZ KW-BG`
 * "to `KR-GS TO`
 * pocket `POBGT`
 * flute." `TPHRAOUT TP-PL KR-GS`
+* Everything `KPA/EFG`
 * again `TKPWEPB`
 * usual `URBL`
 * order, `ORD KW-BG`
@@ -1112,6 +1145,6 @@
 * painted `PAEUPBTD`
 * restored. `RAOE/STORD TP-PL`
 * come. `KOPL TP-PL`
-* Eternity `AOE/TERPBT`
+* Eternity `KPA/AOE/TERPBT`
 * longer `HRORPBG`
 * story. `STOER TP-PL`

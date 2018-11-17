@@ -21,7 +21,7 @@
 * paid `PAEUD`
 * any `TPHEU`
 * wages. `WAEUPBLGS TP-PL`
-* at `AT`
+* At `KPA/AT`
 * last `HRAFT`
 * it `T`
 * came `KAEUPL`
@@ -38,7 +38,7 @@
 * thus `THUS`
 * pay `PAEU`
 * longer; `HRORPBG STPH*FPLT`
-* So `SO`
+* so `SO`
 * went `WEPBT`
 * to `TO`
 * his `HEUS`
@@ -54,10 +54,11 @@
 * trust `TRUFT`
 * give `TKPWEUF`
 * me `PHE`
-* What `WHA`
+* what `WHA`
 * deserve `TKEFRB`
 * my `PHEU`
 * trouble.' `TRUBL TP-PL AE`
+* The `KPA/-T`
 * was `WAS`
 * sad `SAD`
 * miser, `PHAOEUZ/ER KW-BG`
@@ -83,7 +84,7 @@
 * have, `SR KW-BG`
 * said `SAEUD`
 * himself, `H*EUPLS KW-BG`
-* 'Why `AE KWR`
+* 'Why `AE KPA/KWR`
 * should `SHO`
 * work `WORBG`
 * hard, `HARD KW-BG`
@@ -100,7 +101,7 @@
 * make `PHAEUBG`
 * myself `PHAO*EUS`
 * merry.' `PHER/REU TP-PL AE`
-* with `W`
+* With `KPA/W`
 * put `PUT`
 * purse, `PURS KW-BG`
 * set `SET`
@@ -109,7 +110,7 @@
 * over `OEFR`
 * hill `HEUL`
 * valley. `SRAL/HREU TP-PL`
-* as `AZ`
+* As `KPA/AZ`
 * jogged `SKWROGD`
 * along `A/HROPBG`
 * fields, `TPAOELDZ KW-BG`
@@ -122,7 +123,7 @@
 * asked `SK-D`
 * made `PHAED`
 * merry. `PHER/REU TP-PL`
-* 'Why, `AE KWR KW-BG`
+* 'Why, `AE KPA/KWR KW-BG`
 * down-hearted?' `TKOUPB H-PB HART/-D H-F AE`
 * he; `HE STPH*FPLT`
 * am `APL`
@@ -139,13 +140,13 @@
 * all `AUL`
 * safe `SAEUF`
 * pocket.' `POBGT TP-PL AE`
-* 'How `AE HOU`
+* 'How `AE KPA/HOU`
 * much `PHUFP`
 * may `PHAE`
 * come `KOPL`
 * to?' `TO H-F AE`
 * man. `PHAPB TP-PL`
-* 'Full `AE TPUL`
+* 'Full `AE KPA/TPUL`
 * threepence,' `xxx threepence KW-BG AE`
 * replied `RE/PHRAOEUD`
 * countryman. `KREU/PHA*PB TP-PL`
@@ -154,11 +155,11 @@
 * me,' `PHE KW-BG AE`
 * other; `OER STPH*FPLT`
 * poor.' `PAOR TP-PL AE`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * pitied `PEUT/EUD`
 * had; `H STPH*FPLT`
 * return, `RURPB KW-BG`
-* 'As `AE AZ`
+* 'As `AE KPA/AZ`
 * such `SUFP`
 * kind `KEUPBD`
 * honest `HO*PBS`
@@ -171,6 +172,7 @@
 * like.' `HRAOEUBG TP-PL AE`
 * countryman `KREU/PHA*PB`
 * rejoiced `RE/SKWROEUS/-D`
+* at `AT`
 * good `TKPWAOD`
 * luck, `HRUBG KW-BG`
 * like `HRAOEUBG`
@@ -199,7 +201,7 @@
 * wishes; `WEURBS STPH*FPLT`
 * fiddle, `TP*EULD KW-BG`
 * way. `WAEU TP-PL`
-* Our `OUR`
+* Our `KPA/OUR`
 * friend `TPREPBD`
 * journeyed `SKWRURPB/EUD`
 * way `WAEU`
@@ -211,6 +213,7 @@
 * times `TAOEUPLS`
 * more `PHOR`
 * so. `SO TP-PL`
+* He `KPA/HE`
 * gone `TKPWOPB`
 * far `TPAR`
 * before `PW-F`
@@ -228,12 +231,12 @@
 * away `A/WAEU`
 * most `PHOFT`
 * joyfully. `SKWROEUFL/HREU TP-PL`
-* 'Oh, `AE O*E KW-BG`
+* 'Oh, `AE KPA/O*E KW-BG`
 * pretty `PREUT`
 * bird!' `PWEURD SKHRAPL AE`
 * miser; `PHAOEUZ/ER STPH*FPLT`
 * one.' `WUPB TP-PL AE`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * that's `THATS`
 * all,' `AUL KW-BG AE`
 * countryman, `KREU/PHA*PB KW-BG`
@@ -279,18 +282,20 @@
 * heaven's `HEFPB AES`
 * sake!' `SAEUBG SKHRAPL AE`
 * cried `KRAOEUD`
-* 'Master! `AE PHAFRT SKHRAPL`
+* 'Master! `AE KPA/PHAFRT SKHRAPL`
 * master! `PHAFRT SKHRAPL`
 * pray `PRAEU`
 * let `HRET`
 * alone. `A/HROEPB TP-PL`
+* What `KPA/WHA`
 * done `TKOPB`
 * this?' `TH H-F AE`
-* 'thou `AE THO*U`
+* 'Thou `AE KPA/THO*U`
 * hast `HA*FT`
 * shaved `SHAEUFD`
 * soul `SOUL`
 * enough,' `TPHUF KW-BG AE`
+* 'thou `AE THO*U`
 * art `ART`
 * only `OEPBL`
 * meeting `PHAOEGT`
@@ -318,16 +323,18 @@
 * gained `TKPWAEUPBD`
 * cheating `KHAOEGT`
 * fellow. `TPO*EUL TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * saw `SAU`
 * money, `PHUPB KW-BG`
 * agree `TKPWRAE`
 * your `KWROUR`
 * proposal.' `PROEL TP-PL AE`
+* So `KPA/SO`
 * travelled `TRAFLD/A*U`
 * pleased `PHRAOEFD`
+* with `W`
 * bargain. `PWARG/AEUPB TP-PL`
-* Meanwhile `PHAOEPB/WHAOEUL`
+* Meanwhile `KPA/PHAOEPB/WHAOEUL`
 * half-naked `HAF H-PB TPHAEUBGD`
 * piteous `PEUT/KWROUS`
 * plight, `PHRAOEUGT KW-BG`
@@ -360,7 +367,7 @@
 * tell `TEL`
 * tale, `TAEL KW-BG`
 * money. `PHUPB TP-PL`
-* 'No, `AE TPHO KW-BG`
+* 'No, `AE KPA/TPHO KW-BG`
 * playing `PHRA*EUG`
 * tune `TAOUPB`
 * you.' `U TP-PL AE`
@@ -374,15 +381,17 @@
 * off `OF`
 * gallows. `TKPWAL/HROE/-S TP-PL`
 * taken; `TAEPB STPH*FPLT`
+* as `AZ`
 * steps `STEPS`
-* 'My `AE PHEU`
-* Lord `HRORD`
+* 'My `AE KPA/PHEU`
+* Lord `HRO*RD`
+* Judge, `SKWR*UPBLG KW-BG`
 * one `WUPB`
 * request.' `KW TP-PL AE`
-* 'Anything `AE TPHEUG`
+* 'Anything `AE KPA/TPHEUG`
 * life,' `HRAOEUF KW-BG AE`
 * other. `OER TP-PL`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * he, `HE KW-BG`
 * do `TKO`
 * ask `SK`
@@ -394,7 +403,8 @@
 * listen `HREUFPB`
 * him! `HEUPL SKHRAPL`
 * him!' `HEUPL SKHRAPL AE`
-* 'It `AE T`
+* But `KPA/PWUT`
+* 'It `AE KPA/T`
 * is `S`
 * this `TH`
 * once, `WUPBS KW-BG`
@@ -408,7 +418,7 @@
 * dwarf's `TKWAFR AES`
 * third `THEURD`
 * gift. `TKPWEUFT TP-PL`
-* 'Bind `AE PWEUPBD`
+* 'Bind `AE KPA/PWEUPBD`
 * fast, `TPAFT KW-BG`
 * bind `PWEUPBD`
 * pity's `PEUT/TEU AES`
@@ -442,6 +452,7 @@
 * thing `THEUPBG`
 * pleasant `PHREFPBT`
 * enough; `TPHUF STPH*FPLT`
+* when `WHEPB`
 * while, `WHAOEUL KW-BG`
 * there `THR`
 * seemed `SAOEPLD`
@@ -459,7 +470,7 @@
 * return `RURPB`
 * florins. `xxx florins TP-PL`
 * called `KAULD`
-* 'Tell `AE TEL`
+* 'Tell `AE KPA/TEL`
 * us `US`
 * now, `TPHOU KW-BG`
 * vagabond, `SRAG/PWOPBD KW-BG`

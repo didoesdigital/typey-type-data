@@ -1,7 +1,7 @@
 # The Two Fellows and the Bear
 
-* Two `TWO`
-* Fellows `TPO*EULS`
+* Two `KPA/TWO`
+* Fellows `KPA/TPO*EULS`
 * were `WR`
 * travelling `TRAFLG/A*U`
 * together `TOGT`
@@ -9,12 +9,12 @@
 * a `AEU`
 * wood, `WAOD KW-BG`
 * when `WHEPB`
-* Bear `PWAER`
+* Bear `KPA/PWAER`
 * rushed `RURBD`
 * out `OUT`
 * upon `POPB`
 * them. `THEPL TP-PL`
-* One `WUPB`
+* One `KPA/WUPB`
 * of `-F`
 * the `-T`
 * travellers `TRA*FL/ERS/A*U`
@@ -33,6 +33,7 @@
 * himself `H*EUPLS`
 * among `PHOPBG`
 * leaves. `HREFS TP-PL`
+* The `KPA/-T`
 * other, `OER KW-BG`
 * seeing `SAOEG`
 * no `TPHO`
@@ -47,7 +48,7 @@
 * his `HEUS`
 * face `TPAEUS`
 * dust. `TKUFT TP-PL`
-* Bear, `PWAER KW-BG`
+* Bear, `KPA/PWAER KW-BG`
 * coming `KO*G`
 * up `UP`
 * him, `HEUPL KW-BG`
@@ -57,7 +58,7 @@
 * ear, `AOER KW-BG`
 * sniffed `STPHEUFD`
 * sniffed. `STPHEUFD TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * at `AT`
 * last `HRAFT`
 * growl `TKPWROUL`
@@ -71,7 +72,7 @@
 * touch `TUFP`
 * dead `TKED`
 * meat. `PHAET TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * fellow `TPO*EUL`
 * tree `TRAOE`
 * came `KAEUPL`
@@ -79,18 +80,18 @@
 * and, `SKP KW-BG`
 * laughing, `HRAFG KW-BG`
 * said `SAEUD`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * was `WAS`
 * it `T`
 * that `THA`
-* Master `PHAFRT`
+* Master `KPA/PHAFRT`
 * Bruin `PB*P/R*/*U/*EU/TPH*`
 * whispered `WHEUS/PERD`
 * you?" `U H-F KR-GS`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * told `TOLD`
 * me," `PHE KW-BG KR-GS`
-* "Never `KR-GS TPHEF`
+* "Never `KR-GS KPA/TPHEF`
 * trust `TRUFT`
 * friend `TPREPBD`
 * who `WHO`

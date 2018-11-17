@@ -1,6 +1,6 @@
 # The Mouse, the Bird, and the Sausage
 
-* Once `WUPBS`
+* Once `KPA/WUPBS`
 * upon `POPB`
 * a `AEU`
 * time, `TAOEUPL KW-BG`
@@ -15,19 +15,19 @@
 * up `UP`
 * house `HOUS`
 * together. `TOGT TP-PL`
-* for `TPOR`
+* For `KPA/TPOR`
 * long `HROPBG`
 * time `TAOEUPL`
 * all `AUL`
 * went `WEPBT`
 * well; `WEL STPH*FPLT`
-* They `THE`
+* they `THE`
 * lived `HREUFD`
-* In `TPH`
+* in `TPH`
 * great `TKPWRAET`
 * comfort, `K-FRT KW-BG`
 * prospered `PROS/PERD`
-* So `SO`
+* so `SO`
 * far `TPAR`
 * as `AZ`
 * to `TO`
@@ -37,12 +37,13 @@
 * considerably `KRAEBL`
 * their `THAEUR`
 * stores. `STORS TP-PL`
-* the `-T`
+* The `KPA/-T`
 * bird's `PWEURD AES`
 * duty `TKAOUT`
 * was `WAS`
 * fly `TPHRAOEU`
 * daily `TKAEUL`
+* the `-T`
 * wood `WAOD`
 * bring `PWREU`
 * fuel; `TPAOUL STPH*FPLT`
@@ -52,7 +53,7 @@
 * sausage `SAUFPBLG`
 * saw `SAU`
 * cooking. `KAOG TP-PL`
-* when `WHEPB`
+* When `KPA/WHEPB`
 * people `PAOEPL`
 * are `R`
 * too `TAO`
@@ -60,8 +61,10 @@
 * off `OF`
 * always `AULS`
 * begin `TKPWEUPB`
+* for `TPOR`
 * something `S-G`
 * new. `TPHU TP-PL`
+* And `AFPBD`
 * it `T`
 * came `KAEUPL`
 * pass, `PAS KW-BG`
@@ -82,7 +85,7 @@
 * his `HEUS`
 * household `HOUS/HOLD`
 * arrangements. `ARPBG/*PLT/-S TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * other `OER`
 * bird `PWEURD`
 * sneered `STPHAOER/-D`
@@ -101,7 +104,8 @@
 * had `H`
 * good `TKPWAOD`
 * it. `T TP-PL`
-* For, `TPOR KW-BG`
+* For, `KPA/TPOR KW-BG`
+* when `WHEPB`
 * made `PHAED`
 * fire `TPAOEUR`
 * she `SHE`
@@ -139,7 +143,7 @@
 * salted, `SALT/-D KW-BG`
 * ready `R-D`
 * served. `SEFRBD TP-PL`
-* Then, `THEPB KW-BG`
+* Then, `KPA/THEPB KW-BG`
 * laid `HRAEUD`
 * aside `A/SAOEUD`
 * burden, `PWURD KW-BG`
@@ -157,7 +161,7 @@
 * very `SRE`
 * delightful `TKHRAOEUT/-FL`
 * life. `HRAOEUF TP-PL`
-* Influenced `EUPB/TPHRAOUPBS/-D`
+* Influenced `KPA/EUPB/TPHRAOUPBS/-D`
 * by `PWEU`
 * those `THOZ`
 * remarks, `RARBG/-S KW-BG`
@@ -180,7 +184,7 @@
 * way `WAEU`
 * arranging `ARPBG/-G`
 * work. `WORBG TP-PL`
-* Beg `PWEG`
+* Beg `KPA/PWEG`
 * pray `PRAEU`
 * might, `PHAOEUT KW-BG`
 * no `TPHO`
@@ -190,6 +194,7 @@
 * situation, `SWAEUGS KW-BG`
 * venture `SREPBT/UR`
 * made. `PHAED TP-PL`
+* They `KPA/THE`
 * therefore `TH-FR`
 * drew `TKRAOU`
 * lots, `HROTS KW-BG`
@@ -204,7 +209,7 @@
 * fire, `TPAOEUR KW-BG`
 * put `PUT`
 * pot, `POT KW-BG`
-* Then `THEPB`
+* then `THEPB`
 * these `THEZ`
 * waited `WAEUTD`
 * returned `RURPBD`
@@ -217,6 +222,7 @@
 * flew `TPHRAOU`
 * meet `PHAOET`
 * him. `HEUPL TP-PL`
+* He `KPA/HE`
 * not `TPHOT`
 * flown `TPHROEPB`
 * far, `TPAR KW-BG`
@@ -234,6 +240,7 @@
 * this `TH`
 * bare-faced `PWAEUR H-PB TPAEUFD`
 * robbery, `ROB/REU KW-BG`
+* but `PWUT`
 * nothing `TPHOG`
 * said `SAEUD`
 * any `TPHEU`
@@ -259,6 +266,7 @@
 * things `THEUPBGS`
 * remain `RE/PHAUPB`
 * another. `TPHOER TP-PL`
+* So `KPA/SO`
 * looked `HRAOBGD`
 * after `AF`
 * and, `SKP KW-BG`
@@ -281,12 +289,13 @@
 * skin `SKEUPB`
 * hair, `HAEUR KW-BG`
 * also `HR-S`
-* Presently `PREPBLT`
+* Presently `KPA/PREPBLT`
 * wanted `WAPBTD`
 * serve `SEFRB`
 * dinner, `TKEURPB KW-BG`
 * nowhere `TPHO/WR`
 * cook. `KAOBG TP-PL`
+* In `KPA/TPH`
 * alarm `A/HRARPL`
 * flurry, `TPHRUR/REU KW-BG`
 * here `HAOER`
@@ -296,6 +305,7 @@
 * searched, `SEFRPBD KW-BG`
 * cook `KAOBG`
 * found. `TPOUPBD TP-PL`
+* Then `KPA/THEPB`
 * carelessly `KAEURLS/HREU`
 * thrown `THROEPB`
 * down, `TKOUPB KW-BG`

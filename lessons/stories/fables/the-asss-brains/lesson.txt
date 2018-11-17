@@ -1,27 +1,27 @@
 The Ass's Brains
 
-'The': -T
-'Lion': HRO*EUPB
+'The': KPA/-T
+'Lion': KPA/HRO*EUPB
 'and': SKP
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'went': WEPBT
 'hunting': HUPBT/-G
 'together.': TOGT TP-PL
-'The': -T
-'Lion,': HRO*EUPB KW-BG
+'The': KPA/-T
+'Lion,': KPA/HRO*EUPB KW-BG
 'on': OPB
 'the': -T
 'advice': SREUS
 'of': -F
 'the': -T
-'Fox,': TPOBGS KW-BG
+'Fox,': KPA/TPOBGS KW-BG
 'sent': SEPBT
 'a': AEU
 'message': PHEPBLG
 'to': TO
 'the': -T
-'Ass,': A*S KW-BG
+'Ass,': KPA/A*S KW-BG
 'proposing': PROEP/-G
 'to': TO
 'make': PHAEUBG
@@ -31,8 +31,8 @@ The Ass's Brains
 'their': THAEUR
 'two': TWO
 'families.': TPAEPLS TP-PL
-'The': -T
-'Ass': A*S
+'The': KPA/-T
+'Ass': KPA/A*S
 'came': KAEUPL
 'to': TO
 'the': -T
@@ -47,30 +47,30 @@ The Ass's Brains
 'a': AEU
 'royal': ROEUL
 'alliance.': A/HRAOEUPBS TP-PL
-'But': PWUT
+'But': KPA/PWUT
 'when': WHEPB
 'he': HE
 'came': KAEUPL
 'there': THR
 'the': -T
-'Lion': HRO*EUPB
+'Lion': KPA/HRO*EUPB
 'simply': SAO*EPL
 'pounced': POUPBS/-D
 'on': OPB
 'the': -T
-'Ass,': A*S KW-BG
+'Ass,': KPA/A*S KW-BG
 'and': SKP
 'said': SAEUD
 'to': TO
 'the': -T
-'Fox:': TPOBGS STPH-FPLT
-'"Here': KR-GS HAOER
+'Fox:': KPA/TPOBGS STPH-FPLT
+'"Here': KR-GS KPA/HAOER
 'is': S
 'our': OUR
 'dinner': TKEURPB
 'for': TPOR
 'to-day.': TO H-PB TKAEU TP-PL
-'Watch': WAFP
+'Watch': KPA/WAFP
 'you': U
 'here': HAOER
 'while': WHAOEUL
@@ -80,7 +80,7 @@ The Ass's Brains
 'have': SR
 'a': AEU
 'nap.': TPHAP TP-PL
-'Woe': WOE
+'Woe': KPA/WOE
 'betide': PWE/TAOEUD
 'you': U
 'if': TP
@@ -88,13 +88,13 @@ The Ass's Brains
 'touch': TUFP
 'my': PHEU
 'prey."': PRA*EU TP-PL KR-GS
-'The': -T
-'Lion': HRO*EUPB
+'The': KPA/-T
+'Lion': KPA/HRO*EUPB
 'went': WEPBT
 'away': A/WAEU
 'and': SKP
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'waited;': WAEUTD STPH*FPLT
 'but': PWUT
 'finding': TPAOEPBGD
@@ -112,14 +112,14 @@ The Ass's Brains
 'brains': PWRAEUPBS
 'of': -F
 'the': -T
-'Ass': A*S
+'Ass': KPA/A*S
 'and': SKP
 'ate': AEUT
 'them': THEPL
 'up.': UP TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'the': -T
-'Lion': HRO*EUPB
+'Lion': KPA/HRO*EUPB
 'came': KAEUPL
 'back': PWABG
 'he': HE
@@ -133,21 +133,21 @@ The Ass's Brains
 'and': SKP
 'asked': SK-D
 'the': -T
-'Fox': TPOBGS
+'Fox': KPA/TPOBGS
 'in': TPH
 'a': AEU
 'terrible': TERBL
 'voice:': SROEUS STPH-FPLT
-'"What': KR-GS WHA
+'"What': KR-GS KPA/WHA
 'have': SR
 'you': U
 'done': TKOPB
 'with': W
 'the': -T
 'brains?"': PWRAEUPBS H-F KR-GS
-'"Brains,': KR-GS PWRAEUPBS KW-BG
+'"Brains,': KR-GS KPA/PWRAEUPBS KW-BG
 'your': KWROUR
-'Majesty!': PHAPBLG/STEU SKHRAPL
+'Majesty!': KPA/PHAPBLG/STEU SKHRAPL
 'it': T
 'had': H
 'none,': TPHOPB KW-BG
@@ -160,7 +160,7 @@ The Ass's Brains
 'into': TPHAO
 'your': KWROUR
 'trap."': TRAP TP-PL KR-GS
-'Wit': WEUT
+'Wit': KPA/WEUT
 'has': HAS
 'always': AULS
 'an': APB

@@ -1,6 +1,6 @@
 # The Woodman and the Serpent
 
-* one `WUPB`
+* One `KPA/WUPB`
 * wintry `WEUPBT/REU`
 * day `TKAEU`
 * a `AEU`
@@ -11,7 +11,7 @@
 * from `TPR`
 * his `HEUS`
 * work `WORBG`
-* When `WHEPB`
+* when `WHEPB`
 * he `HE`
 * saw `SAU`
 * something `S-G`
@@ -20,15 +20,16 @@
 * on `OPB`
 * the `-T`
 * snow. `STPHOE TP-PL`
+* When `KPA/WHEPB`
 * came `KAEUPL`
 * closer `KHROERS`
 * it `T`
-* Serpent `SERP/EPBT`
+* Serpent `KPA/SERP/EPBT`
 * to `TO`
 * all `AUL`
 * appearance `PAOERPBS`
 * dead. `TKED TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * took `TAOBG`
 * up `UP`
 * and `SKP`
@@ -39,26 +40,30 @@
 * while `WHAOEUL`
 * hurried `HUR/EUD`
 * home. `HOEPL TP-PL`
-* as `AZ`
+* As `KPA/AZ`
 * soon `SAOPB`
+* as `AZ`
 * got `TKPWOT`
 * indoors `EUPB/TKAORS`
 * down `TKOUPB`
 * hearth `HAERT`
 * before `PW-F`
 * fire. `TPAOEUR TP-PL`
+* The `KPA/-T`
 * children `KHEURPB`
 * watched `WAFPD`
 * slowly `SHROEL`
 * come `KOPL`
 * life `HRAOEUF`
 * again. `TKPWEPB TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
+* one `WUPB`
 * of `-F`
 * them `THEPL`
 * stooped `STAOPD`
 * stroke `STROBG`
 * it, `T KW-BG`
+* but `PWUT`
 * raised `RA*EUFD`
 * its `EUTS`
 * head `HED`
@@ -68,15 +73,15 @@
 * sting `STEUPBG`
 * child `KHAOEULD`
 * death. `TK*T TP-PL`
-* So `SO`
+* So `KPA/SO`
 * seized `SAOEZ/-D`
 * axe, `ABGS KW-BG`
 * with `W`
 * cut `KUT`
 * two. `TWO TP-PL`
-* "Ah," `KR-GS HA*E KW-BG KR-GS`
+* "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * said `SAEUD`
 * he, `HE KW-BG`
-* "No `KR-GS TPHO`
+* "No `KR-GS KPA/TPHO`
 * gratitude `TKPWRAT/TAOUD`
 * wicked." `WEUBGD TP-PL KR-GS`

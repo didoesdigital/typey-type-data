@@ -1,12 +1,12 @@
 The Swan's Nest
 
-'Between': TWAOEPB
+'Between': KPA/TWAOEPB
 'the': -T
 'Baltic': PWALT/EUBG
 'and': SKP
 'the': -T
-'North': TPHORT
-'Sea': SAE
+'North': TPHOERT
+'Sea': KPA/SAE
 'there': THR
 'lies': HRAO*EUS
 'an': APB
@@ -25,7 +25,7 @@ The Swan's Nest
 'shall': SHAL
 'never': TPHEF
 'die.': TKAOEU TP-PL
-'In': TPH
+'In': KPA/TPH
 'olden': OLD/*EPB
 'times': TAOEUPLS
 'a': AEU
@@ -48,7 +48,7 @@ The Swan's Nest
 'delightful': TKHRAOEUT/-FL
 'to': TO
 'dwell.': TKWEL TP-PL
-'This': TH
+'This': KPA/TH
 'flight': TPHRAOEUT
 'of': -F
 'swans': SWAPBS
@@ -56,7 +56,7 @@ The Swan's Nest
 'called': KAULD
 'the': -T
 'Lombards.': HROPL/PWARD/-S TP-PL
-'Another': TPHOER
+'Another': KPA/TPHOER
 'flock,': TPHROBG KW-BG
 'with': W
 'shining': SHAOEUPBG
@@ -76,7 +76,7 @@ The Swan's Nest
 'close': KHROES
 'by': PWEU
 'the': -T
-'Emperor's': EPL/ROR AES
+'Emperor's': KPA/EPL/ROR AES
 'throne,': THRO*EPB KW-BG
 'and': SKP
 'spread': SPRED
@@ -89,13 +89,13 @@ The Swan's Nest
 'to': TO
 'protect': PREBGT
 'him.': HEUPL TP-PL
-'They': THE
+'They': KPA/THE
 'received': SAOEFD
 'the': -T
 'name': TPHAEUPL
 'of': -F
 'Varangians.': xxx Varangians TP-PL
-'On': OPB
+'On': KPA/OPB
 'the': -T
 'coast': KOEFT
 'of': -F
@@ -114,7 +114,7 @@ The Swan's Nest
 'came': KAEUPL
 'from': TPR
 'the': -T
-'North': TPHORT
+'North': TPHOERT
 'with': W
 'fire': TPAOEUR
 'under': *UPBD
@@ -124,14 +124,14 @@ The Swan's Nest
 'the': -T
 'people': PAOEPL
 'prayed,': PRAEUD KW-BG
-'"Heaven': KR-GS HEFPB
+'"Heaven': KR-GS KPA/HEFPB
 'deliver': THREUFR
 'us': US
 'from': TPR
 'the': -T
 'wild': WAOEULD
 'Northmen."': xxx Northmen TP-PL KR-GS
-'On': OPB
+'On': KPA/OPB
 'the': -T
 'fresh': TPRERB
 'sward': xxx sward
@@ -164,7 +164,7 @@ The Swan's Nest
 'over': OEFR
 'the': -T
 'land.': HRAPBD TP-PL
-'The': -T
+'The': KPA/-T
 'heathens': HAO*ET/-PBS
 'on': OPB
 'the': -T
@@ -183,13 +183,13 @@ The Swan's Nest
 'banner': PWAERPB
 'of': -F
 'the': -T
-'Cross': KROS
+'Cross': KPA/KROS
 'and': SKP
 'with': W
 'the': -T
 'drawn': TKRAUPB
 'sword.': SOERD TP-PL
-'"That': KR-GS THA
+'"That': KR-GS KPA/THA
 'was': WAS
 'in': TPH
 'the': -T
@@ -198,7 +198,7 @@ The Swan's Nest
 'times,"': TAOEUPLS KW-BG KR-GS
 'you': U
 'say.': SAEU TP-PL
-'In': TPH
+'In': KPA/TPH
 'later': HRAEURT
 'days': TKAEUS
 'two': TWO
@@ -256,13 +256,13 @@ The Swan's Nest
 'to': TO
 'the': -T
 'earth.': *ERT TP-PL
-'That': THA
+'That': KPA/THA
 'was': WAS
 'the': -T
 'swan': SWAPB
 'Tycho': xxx Tycho
 'Brahe.': xxx Brahe TP-PL
-'"Yes,': KR-GS KWRE KW-BG
+'"Yes,': KR-GS KPA/KWRE KW-BG
 'then,"': THEPB KW-BG KR-GS
 'you': U
 'say;': SAEU STPH*FPLT
@@ -271,7 +271,7 @@ The Swan's Nest
 'our': OUR
 'own': OEPB
 'days?"': TKAEUS H-F KR-GS
-'We': WE
+'We': KPA/WE
 'have': SR
 'seen': SAOEPB
 'swan': SWAPB
@@ -282,7 +282,7 @@ The Swan's Nest
 'in': TPH
 'glorious': TKPWHRORS
 'flight.': TPHRAOEUT TP-PL
-'One': WUPB
+'One': KPA/WUPB
 'let': HRET
 'his': HEUS
 'pinions': PEUPB/KWROPB/-S
@@ -299,7 +299,7 @@ The Swan's Nest
 'resounded': RE/SO*UPBD/-D
 'through': THRU
 'the': -T
-'North.': TPHORT TP-PL
+'North.': TPHOERT TP-PL
 'Norway's': TPHOR/WAEU AES
 'mountains': PHOUPB/TAEUPBS
 'seemed': SAOEPLD
@@ -327,7 +327,7 @@ The Swan's Nest
 'gods': TKPWODZ
 'of': -F
 'the': -T
-'North,': TPHORT KW-BG
+'North,': TPHOERT KW-BG
 'the': -T
 'heroes,': HOEURS KW-BG
 'and': SKP
@@ -341,7 +341,7 @@ The Swan's Nest
 'dark': TKARBG
 'forest': TPOEFRT
 'depths.': TK*EPTS TP-PL
-'We': WE
+'We': KPA/WE
 'have': SR
 'seen': SAOEPB
 'a': AEU
@@ -389,7 +389,7 @@ The Swan's Nest
 'these': THEZ
 'mighty': PHAOEUT/KWREU
 'forms.': TPORPLS TP-PL
-'We': WE
+'We': KPA/WE
 'have': SR
 'seen': SAOEPB
 'a': AEU
@@ -423,9 +423,9 @@ The Swan's Nest
 'land': HRAPBD
 'to': TO
 'land.': HRAPBD TP-PL
-'And': SKP
+'And': AFPBD
 'our': OUR
-'Lord': HRORD
+'Lord': HRO*RD
 'loves': HRUFS
 'the': -T
 'old': OLD
@@ -436,9 +436,9 @@ The Swan's Nest
 'Baltic': PWALT/EUBG
 'and': SKP
 'the': -T
-'North': TPHORT
-'Sea.': SAE TP-PL
-'And': SKP
+'North': TPHOERT
+'Sea.': KPA/SAE TP-PL
+'And': AFPBD
 'when': WHEPB
 'the': -T
 'mighty': PHAOEUT/KWREU
@@ -489,7 +489,7 @@ The Swan's Nest
 'and': SKP
 'their': THAEUR
 'claws.': KHRAU/-S TP-PL
-'Centuries': KREPBT/REUS
+'Centuries': KPA/KREPBT/REUS
 'will': HR
 'pass': PAS
 'by,': PWEU KW-BG
@@ -520,7 +520,7 @@ The Swan's Nest
 'and': SKP
 'in': TPH
 'truth,': TRAO*UT KW-BG
-'"This': KR-GS TH
+'"This': KR-GS KPA/TH
 'is': S
 'the': -T
 'last': HRAFT

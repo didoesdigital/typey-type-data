@@ -1,11 +1,11 @@
 # The Man and the Wood
 
 * A `KPA/AEU`
-* Man `PHAPB`
+* Man `KPA/PHAPB`
 * came `KAEUPL`
 * into `TPHAO`
 * a `AEU`
-* Wood `WAOD`
+* Wood `WAO*D`
 * one `WUPB`
 * day `TKAEU`
 * with `W`
@@ -18,7 +18,7 @@
 * begged `PWEGD`
 * all `AUL`
 * the `-T`
-* Trees `TRAOES`
+* Trees `KPA/TRAOES`
 * to `TO`
 * give `TKPWEUF`
 * him `HEUPL`
@@ -30,13 +30,14 @@
 * for `TPOR`
 * particular `PHRAR`
 * purpose. `PURP TP-PL`
+* The `KPA/-T`
 * were `WR`
 * good-natured `TKPWAOD H-PB TPHAEURTD`
 * gave `TKPWAEUF`
 * of `-F`
 * their `THAEUR`
 * branches. `PWRAFPBS TP-PL`
-* What `WHA`
+* What `KPA/WHA`
 * did `TK`
 * do `TKO`
 * but `PWUT`
@@ -51,7 +52,7 @@
 * tree `TRAOE`
 * after `AF`
 * tree. `TRAOE TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * saw `SAU`
 * how `HOU`
 * foolish `TPAOL/EURB`

@@ -1,11 +1,11 @@
 # The Fox and the Lion
 
-* when `WHEPB`
+* When `KPA/WHEPB`
 * first `TPEUFRT`
 * the `-T`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * saw `SAU`
-* Lion `HRO*EUPB`
+* Lion `KPA/HRO*EUPB`
 * he `HE`
 * was `WAS`
 * terribly `TERBL/HREU`
@@ -17,14 +17,14 @@
 * himself `H*EUPLS`
 * in `TPH`
 * wood. `WAOD TP-PL`
-* Next `TPHEGT`
+* Next `KPA/TPHEGT`
 * time `TAOEUPL`
 * however `HOUF`
 * came `KAEUPL`
 * near `TPHAOER`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * of `-F`
-* Beasts `PWAOEFT/-S`
+* Beasts `KPA/PWAOEFT/-S`
 * stopped `STOPD`
 * at `AT`
 * a `AEU`
@@ -34,6 +34,7 @@
 * him `HEUPL`
 * pass `PAS`
 * by. `PWEU TP-PL`
+* The `KPA/-T`
 * third `THEURD`
 * they `THE`
 * one `WUPB`
@@ -51,6 +52,7 @@
 * his `HEUS`
 * family `TPAEPL`
 * were, `WR KW-BG`
+* when `WHEPB`
 * should `SHO`
 * have `SR`
 * pleasure `PHRERB`
@@ -64,6 +66,6 @@
 * without `WOUT`
 * much `PHUFP`
 * ceremony. `SER/PHOEPB TP-PL`
-* Familiarity `TPAPLT`
+* Familiarity `KPA/TPAPLT`
 * breeds `PWRAOEDZ`
 * contempt. `KAUPB/TEPLT TP-PL`

@@ -1,7 +1,7 @@
 # The Sick Lion
 
 * A `KPA/AEU`
-* Lion `HRO*EUPB`
+* Lion `KPA/HRO*EUPB`
 * had `H`
 * come `KOPL`
 * to `TO`
@@ -21,6 +21,7 @@
 * gasping `TKPWAS/-PG`
 * for `TPOR`
 * breath. `PWR*ET TP-PL`
+* The `KPA/-T`
 * animals, `PHAPBLS KW-BG`
 * subjects, `SUBTS KW-BG`
 * came `KAEUPL`
@@ -33,36 +34,37 @@
 * grew `TKPWRAOU`
 * more `PHOR`
 * helpless. `HEP/-LS TP-PL`
-* When `WHEPB`
+* When `KPA/WHEPB`
 * they `THE`
 * saw `SAU`
 * on `OPB`
 * point `POEUPBT`
 * thought `THAUT`
 * themselves: `TH*EPLS STPH-FPLT`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * is `S`
 * time `TAOEUPL`
 * pay `PAEU`
 * off `OF`
 * old `OLD`
 * grudges." `TKPWRUPBLGS TP-PL KR-GS`
-* so `SO`
-* Boar `PWO*R`
+* So `KPA/SO`
+* Boar `KPA/PWO*R`
 * up `UP`
 * drove `TKROEF`
 * with `W`
 * tusks; `TUS/-BGS STPH*FPLT`
 * then `THEPB`
 * a `AEU`
-* Bull `PWUL`
+* Bull `KPA/PWUL`
 * gored `TKPWOR/-D`
 * horns; `HORPBS STPH*FPLT`
 * still `STEUL`
 * helpless `HEP/-LS`
 * before `PW-F`
 * them: `THEPL STPH-FPLT`
-* Ass, `A*S KW-BG`
+* so `SO`
+* Ass, `KPA/A*S KW-BG`
 * feeling `TPAOELG`
 * quite `KWAOEUT`
 * safe `SAEUF`
@@ -75,12 +77,12 @@
 * heels `HAOELS`
 * into `TPHAO`
 * face. `TPAEUS TP-PL`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * double `TKUBL`
 * death," `TK*T KW-BG KR-GS`
 * growled `TKPWROULD`
-* Lion. `HRO*EUPB TP-PL`
-* Only `OEPBL`
+* Lion. `KPA/HRO*EUPB TP-PL`
+* Only `KPA/OEPBL`
 * cowards `KOURDZ`
 * insult `EUPB/SULT`
 * dying `TKAOEUG`

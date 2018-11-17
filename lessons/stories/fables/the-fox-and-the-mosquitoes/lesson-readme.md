@@ -1,7 +1,7 @@
 # The Fox and the Mosquitoes
 
 * A `KPA/AEU`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * after `AF`
 * crossing `KROFG`
 * a `AEU`
@@ -18,7 +18,7 @@
 * move. `PHOF TP-PL`
 * number `TPHUPL`
 * of `-F`
-* Mosquitoes `PHOFBG/TOES`
+* Mosquitoes `KPA/PHOFBG/TOES`
 * seeing `SAOEG`
 * plight `PHRAOEUGT`
 * settled `S*ELTD`
@@ -39,7 +39,7 @@
 * up `UP`
 * to `TO`
 * him: `HEUPL STPH-FPLT`
-* "You `KR-GS U`
+* "You `KR-GS KPA/U`
 * are `R`
 * bad `PWAD`
 * way, `WAEU KW-BG`
@@ -57,22 +57,22 @@
 * sucking `SUBG/-G`
 * your `KWROUR`
 * blood?" `PWHRAOD H-F KR-GS`
-* "Thank `KR-GS THAPBG`
+* "Thank `KR-GS KPA/THAPBG`
 * you, `U KW-BG`
-* Master `PHAFRT`
-* Hedgehog," `HEPBLG/HOG KW-BG KR-GS`
-* Fox, `TPOBGS KW-BG`
+* Master `KPA/PHAFRT`
+* Hedgehog," `KPA/HEPBLG/HOG KW-BG KR-GS`
+* Fox, `KPA/TPOBGS KW-BG`
 * "but `KR-GS PWUT`
 * would `WO`
 * rather `RAER`
 * not." `TPHOT TP-PL KR-GS`
-* "Why, `KR-GS KWR KW-BG`
+* "Why, `KR-GS KPA/KWR KW-BG`
 * how `HOU`
 * is `S`
 * that?" `THA H-F KR-GS`
 * asked `SK-D`
 * hedgehog. `HEPBLG/HOG TP-PL`
-* "Well, `KR-GS WEL KW-BG`
+* "Well, `KR-GS KPA/WEL KW-BG`
 * see," `SAOE KW-BG KR-GS`
 * was `WAS`
 * answer, `AEPBS KW-BG`

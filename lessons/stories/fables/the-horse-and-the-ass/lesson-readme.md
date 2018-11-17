@@ -1,10 +1,10 @@
 # The Horse and the Ass
 
 * A `KPA/AEU`
-* Horse `HORS`
+* Horse `KPA/HORS`
 * and `SKP`
 * an `APB`
-* Ass `A*S`
+* Ass `KPA/A*S`
 * were `WR`
 * travelling `TRAFLG/A*U`
 * together, `TOGT KW-BG`
@@ -26,7 +26,7 @@
 * I `EU`
 * you," `U KW-BG KR-GS`
 * sighed `SAOEU/-D`
-* Ass; `A*S STPH*FPLT`
+* Ass; `KPA/A*S STPH*FPLT`
 * "nothing `KR-GS TPHOG`
 * to `TO`
 * do `TKO`
@@ -37,7 +37,7 @@
 * harness `HARPBS`
 * upon `POPB`
 * you." `U TP-PL KR-GS`
-* Next `TPHEGT`
+* Next `KPA/TPHEGT`
 * day, `TKAEU KW-BG`
 * however, `HOUF KW-BG`
 * there `THR`
@@ -51,9 +51,9 @@
 * charge `KHARPBLG`
 * of `-F`
 * day. `TKAEU TP-PL`
-* His `HEUS`
+* His `KPA/HEUS`
 * friend, `TPREPBD KW-BG`
-* Ass, `A*S KW-BG`
+* Ass, `KPA/A*S KW-BG`
 * happened `HAPD`
 * pass `PAS`
 * by `PWEU`
@@ -66,8 +66,8 @@
 * death. `TK*T TP-PL`
 * wrong," `WROPBG KW-BG KR-GS`
 * said `SAEUD`
-* Ass: `A*S STPH-FPLT`
-* "Better `KR-GS PWOERT`
+* Ass: `KPA/A*S STPH-FPLT`
+* "Better `KR-GS KPA/PWOERT`
 * humble `UPL/-BL`
 * security `SKURT`
 * than `THAPB`

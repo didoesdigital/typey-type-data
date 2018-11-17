@@ -1,7 +1,7 @@
 The Sick Lion
 
 'A': KPA/AEU
-'Lion': HRO*EUPB
+'Lion': KPA/HRO*EUPB
 'had': H
 'come': KOPL
 'to': TO
@@ -24,7 +24,7 @@ The Sick Lion
 'gasping': TKPWAS/-PG
 'for': TPOR
 'breath.': PWR*ET TP-PL
-'The': -T
+'The': KPA/-T
 'animals,': PHAPBLS KW-BG
 'his': HEUS
 'subjects,': SUBTS KW-BG
@@ -41,7 +41,7 @@ The Sick Lion
 'and': SKP
 'more': PHOR
 'helpless.': HEP/-LS TP-PL
-'When': WHEPB
+'When': KPA/WHEPB
 'they': THE
 'saw': SAU
 'him': HEUPL
@@ -54,7 +54,7 @@ The Sick Lion
 'thought': THAUT
 'to': TO
 'themselves:': TH*EPLS STPH-FPLT
-'"Now': KR-GS TPHOU
+'"Now': KR-GS KPA/TPHOU
 'is': S
 'the': -T
 'time': TAOEUPL
@@ -63,9 +63,9 @@ The Sick Lion
 'off': OF
 'old': OLD
 'grudges."': TKPWRUPBLGS TP-PL KR-GS
-'So': SO
+'So': KPA/SO
 'the': -T
-'Boar': PWO*R
+'Boar': KPA/PWO*R
 'came': KAEUPL
 'up': UP
 'and': SKP
@@ -77,7 +77,7 @@ The Sick Lion
 'tusks;': TUS/-BGS STPH*FPLT
 'then': THEPB
 'a': AEU
-'Bull': PWUL
+'Bull': KPA/PWUL
 'gored': TKPWOR/-D
 'him': HEUPL
 'with': W
@@ -85,14 +85,14 @@ The Sick Lion
 'horns;': HORPBS STPH*FPLT
 'still': STEUL
 'the': -T
-'Lion': HRO*EUPB
+'Lion': KPA/HRO*EUPB
 'lay': HRAEU
 'helpless': HEP/-LS
 'before': PW-F
 'them:': THEPL STPH-FPLT
 'so': SO
 'the': -T
-'Ass,': A*S KW-BG
+'Ass,': KPA/A*S KW-BG
 'feeling': TPAOELG
 'quite': KWAOEUT
 'safe': SAEUF
@@ -106,7 +106,7 @@ The Sick Lion
 'tail': TAEUL
 'to': TO
 'the': -T
-'Lion': HRO*EUPB
+'Lion': KPA/HRO*EUPB
 'kicked': KEUBGD
 'up': UP
 'his': HEUS
@@ -114,15 +114,15 @@ The Sick Lion
 'into': TPHAO
 'his': HEUS
 'face.': TPAEUS TP-PL
-'"This': KR-GS TH
+'"This': KR-GS KPA/TH
 'is': S
 'a': AEU
 'double': TKUBL
 'death,"': TK*T KW-BG KR-GS
 'growled': TKPWROULD
 'the': -T
-'Lion.': HRO*EUPB TP-PL
-'Only': OEPBL
+'Lion.': KPA/HRO*EUPB TP-PL
+'Only': KPA/OEPBL
 'cowards': KOURDZ
 'insult': EUPB/SULT
 'dying': TKAOEUG

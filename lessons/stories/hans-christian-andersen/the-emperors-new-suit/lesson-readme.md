@@ -1,6 +1,6 @@
 # The Emperor's New Suit
 
-* Many, `PHAEPB KW-BG`
+* Many, `KPA/PHAEPB KW-BG`
 * many `PHAEPB`
 * years `KWRAOERS`
 * ago `AG`
@@ -32,12 +32,13 @@
 * always `AULS`
 * well `WEL`
 * dressed. `TKREFD TP-PL`
+* He `KPA/HE`
 * did `TK`
 * not `TPHOT`
 * care `KAEUR`
 * for `TPOR`
 * soldiers, `SHRERPBLGS KW-BG`
-* And `SKP`
+* and `SKP`
 * the `-T`
 * theatre `THAO*ERT`
 * amuse `A/PHAOUS`
@@ -61,14 +62,15 @@
 * would `WO`
 * say `SAEU`
 * king `KEUPBG`
-* "He `KR-GS HE`
+* "He `KR-GS KPA/HE`
 * is `S`
 * cabinet," `KABT KW-BG KR-GS`
 * could `KO`
 * him, `HEUPL KW-BG`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * emperor `EPL/ROR`
 * dressing-room." `TKREFG H-PB RAOPL TP-PL KR-GS`
+* The `KPA/-T`
 * great `TKPWRAET`
 * city `STEU`
 * where `W-R`
@@ -81,6 +83,7 @@
 * parts `PARTS`
 * globe `TKPWHROEB`
 * arrived. `A/REUFD TP-PL`
+* One `KPA/WUPB`
 * two `TWO`
 * swindlers `SWEUPBD/HRERS`
 * came `KAEUPL`
@@ -97,13 +100,14 @@
 * finest `TPAOEUPB/EFT`
 * cloth `KHRO*T`
 * imagined. `PHAPBLGD TP-PL`
-* their `THAEUR`
+* Their `KPA/THAEUR`
 * colours `KHROURS/A*U`
 * patterns, `PAT/ERPBS KW-BG`
 * said, `SAEUD KW-BG`
 * exceptionally `SEPBGS/HREU`
 * beautiful, `PWAOUFL KW-BG`
 * but `PWUT`
+* their `THAEUR`
 * material `TERL`
 * possessed `POS/ES/-D`
 * wonderful `WUFL`
@@ -117,11 +121,11 @@
 * or `OR`
 * unpardonably `xxx unpardonably`
 * stupid. `STAOUPD TP-PL`
-* "that `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * must `PHUFT`
 * cloth," `KHRO*T KW-BG KR-GS`
 * emperor. `EPL/ROR TP-PL`
-* "If `KR-GS TP`
+* "If `KR-GS KPA/TP`
 * I `EU`
 * dressed `TKREFD`
 * should `SHO`
@@ -139,6 +143,7 @@
 * me `PHE`
 * without `WOUT`
 * delay." `TKHREU TP-PL KR-GS`
+* And `AFPBD`
 * gave `TKPWAEUF`
 * large `HRARPBLG`
 * sum `SUPL`
@@ -148,6 +153,7 @@
 * work `WORBG`
 * loss `HROS`
 * time. `TAOEUPL TP-PL`
+* They `KPA/THE`
 * up `UP`
 * looms, `HRAOPLS KW-BG`
 * pretended `PRE/TEPBD/-D`
@@ -175,10 +181,11 @@
 * "I `KR-GS EU`
 * like `HRAOEUBG`
 * know `TPHOE`
-* How `HOU`
+* how `HOU`
 * are `R`
 * getting `TKPWEGT`
 * with `W`
+* But `KPA/PWUT`
 * felt `TPELT`
 * rather `RAER`
 * uneasy `UPB/EZ`
@@ -187,7 +194,7 @@
 * fit `TPEUT`
 * see `SAOE`
 * it. `T TP-PL`
-* Personally, `PHRERPBL KW-BG`
+* Personally, `KPA/PHRERPBL KW-BG`
 * opinion `P-PB`
 * fear, `TPAOER KW-BG`
 * yet `KWRET`
@@ -199,7 +206,7 @@
 * first `TPEUFRT`
 * matters `PHAERTS`
 * stood. `STAOD TP-PL`
-* everybody `EFB`
+* Everybody `KPA/EFB`
 * town `TOUPB`
 * knew `TPHAOU`
 * what `WHA`
@@ -221,7 +228,7 @@
 * best `PWEFT`
 * looks, `HRAOBGS KW-BG`
 * intelligent, `SPWEPBLGT KW-BG`
-* Nobody `TPHOEB`
+* nobody `TPHOEB`
 * understands `URPBDZ`
 * better `PWOERT`
 * than `THAPB`
@@ -232,7 +239,7 @@
 * room `RAOPL`
 * sat `SAT`
 * before `PW-F`
-* "Heaven `KR-GS HEFPB`
+* "Heaven `KR-GS KPA/HEFPB`
 * preserve `PREFRB`
 * us!" `US SKHRAPL KR-GS`
 * thought, `THAUT KW-BG`
@@ -242,7 +249,7 @@
 * cannot `K/TPHOT`
 * all," `AUL KW-BG KR-GS`
 * so. `SO TP-PL`
-* Both `PWO*T`
+* Both `KPA/PWO*T`
 * requested `KW-D`
 * him `HEUPL`
 * come `KOPL`
@@ -260,27 +267,29 @@
 * nothing, `TPHOG KW-BG`
 * there `THR`
 * seen. `SAOEPB TP-PL`
-* "Oh `KR-GS O*E`
+* "Oh `KR-GS KPA/O*E`
 * dear," `TKAER KW-BG KR-GS`
 * "can `KR-GS K`
 * stupid? `STAOUPD H-F`
-* Never `TPHEF`
+* never `TPHEF`
 * so, `SO KW-BG`
 * it! `T SKHRAPL`
+* Is `KPA/S`
 * possible `POB`
 * am `APL`
 * office? `OFS H-F`
+* No, `KPA/TPHO KW-BG`
 * no, `TPHO KW-BG`
 * unable `TPHA*EUBL`
 * cloth." `KHRO*T TP-PL KR-GS`
-* "Now, `KR-GS TPHOU KW-BG`
+* "Now, `KR-GS KPA/TPHOU KW-BG`
 * you `U`
 * say?" `SAEU H-F KR-GS`
 * said `SAEUD`
 * while `WHAOEUL`
 * busily `PWEUZ/HREU`
 * weaving. `WEFG TP-PL`
-* "Oh, `KR-GS O*E KW-BG`
+* "Oh, `KR-GS KPA/O*E KW-BG`
 * pretty, `PREUT KW-BG`
 * exceedingly `EBGS/AOED/TKPWHREU`
 * beautiful," `PWAOUFL KW-BG KR-GS`
@@ -288,13 +297,13 @@
 * looking `HRAOG`
 * through `THRU`
 * glasses. `TKPWHRAFS TP-PL`
-* "What `KR-GS WHA`
+* "What `KR-GS KPA/WHA`
 * pattern, `PA*RPBT KW-BG`
 * brilliant `PWREULT`
 * colours! `KHROURS/A*U SKHRAPL`
 * tell `TEL`
 * much." `PHUFP TP-PL KR-GS`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * pleased `PHRAOEFD`
 * hear `HAER`
 * that," `THA KW-BG KR-GS`
@@ -308,7 +317,7 @@
 * relate `RELT`
 * said; `SAEUD STPH*FPLT`
 * did. `TK TP-PL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * more `PHOR`
 * money, `PHUPB KW-BG`
 * gold-cloth, `TKPWOELD H-PB KHRO*T KW-BG`
@@ -321,7 +330,7 @@
 * loom, `HRAOPL KW-BG`
 * continued, `T-PBD KW-BG`
 * hitherto, `H*EUT/ER/TO KW-BG`
-* soon `SAOPB`
+* Soon `KPA/SAOPB`
 * afterwards `A*FRDZ`
 * sent `SEPBT`
 * another `TPHOER`
@@ -330,9 +339,10 @@
 * on, `OPB KW-BG`
 * nearly `TPHAOERL`
 * finished. `TP*EURBD TP-PL`
+* Like `KPA/HRAOEUBG`
 * minister, `PHEUPB/STER KW-BG`
 * looked `HRAOBGD`
-* "Is `KR-GS S`
+* "Is `KR-GS KPA/S`
 * piece `PAOES`
 * cloth?" `KHRO*T H-F KR-GS`
 * showing `SHOEG`
@@ -343,10 +353,11 @@
 * exist. `KPEUFT TP-PL`
 * stupid," `STAOUPD KW-BG KR-GS`
 * man. `PHAPB TP-PL`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * therefore `TH-FR`
 * appointment `POEUPLT`
 * fit. `TPEUT TP-PL`
+* It `KPA/T`
 * strange, `STRAEUPBG KW-BG`
 * let `HRET`
 * it;" `T STPH*FPLT KR-GS`
@@ -361,25 +372,28 @@
 * talked `TAUBGD`
 * about `PW`
 * cloth. `KHRO*T TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * wished `WEURBD`
 * himself, `H*EUPLS KW-BG`
 * still `STEUL`
 * loom. `HRAOPL TP-PL`
+* With `KPA/W`
 * number `TPHUPL`
 * courtiers, `KORT/KWRERS KW-BG`
 * including `KHRUG`
 * already `HR-R`
 * been `PW-PB`
 * there, `THR KW-BG`
+* now `TPHOU`
 * could, `KO KW-BG`
 * using `AOUFG`
 * thread. `THRED TP-PL`
 * magnificent?" `PHAFPBT H-F KR-GS`
 * statesmen `STAEUTS/PHEPB`
 * before. `PW-F TP-PL`
-* "your `KR-GS KWROUR`
-* Majesty `PHAPBLG/STEU`
+* "Your `KR-GS KPA/KWROUR`
+* Majesty `KPA/PHAPBLG/STEU`
 * pattern." `PA*RPBT TP-PL KR-GS`
 * then `THEPB`
 * pointed `POEUPBTD`
@@ -388,15 +402,18 @@
 * this?" `TH H-F KR-GS`
 * do `TKO`
 * all. `AUL TP-PL`
+* That `KPA/THA`
 * terrible! `TERBL SKHRAPL`
+* Am `KPA/APL`
 * emperor? `EPL/ROR H-F`
 * indeed `TPHAOEPBD`
 * dreadful `TKRED/*FL`
 * thing `THEUPBG`
 * happen `HAP`
 * me." `PHE TP-PL KR-GS`
-* "Really," `KR-GS R-L KW-BG KR-GS`
+* "Really," `KR-GS KPA/R-L KW-BG KR-GS`
 * turning `TURPBG`
+* "your `KR-GS KWROUR`
 * has `HAS`
 * our `OUR`
 * gracious `TKPWRAURBS`
@@ -405,6 +422,7 @@
 * contentedly `KAUPBT/-D/HREU`
 * saw `SAU`
 * nothing. `TPHOG TP-PL`
+* All `KPA/AUL`
 * attendants, `A/TEPBD/APBTS KW-BG`
 * looked, `HRAOBGD KW-BG`
 * although `HR*T`
@@ -413,17 +431,19 @@
 * advised `SRAOEUFD`
 * wear `WAER`
 * procession `PRO/SEGS`
+* soon `SAOPB`
 * take `TAEUBG`
 * place. `PHRAEUS TP-PL`
 * magnificent, `PHAFPBT KW-BG`
 * heard `HAERD`
 * them `THEPL`
 * say; `SAEU STPH*FPLT`
+* everybody `EFB`
 * seemed `SAOEPLD`
 * delighted, `TKHRAOEUTD KW-BG`
 * appointed `POEUPBD`
-* "Imperial `KR-GS EUPB/PAOERL`
-* Court `KORT`
+* "Imperial `KR-GS EUPL/PRAOERL`
+* Court `KO*RT`
 * weavers." `WAOEFR/-S TP-PL KR-GS`
 * night `TPHAOEUT`
 * previous `PRAOEF`
@@ -431,6 +451,7 @@
 * burned `PWURPBD`
 * sixteen `STAOEPB`
 * candles. `KAPBD/-LS TP-PL`
+* People `KPA/PAOEPL`
 * busy `PW-Z`
 * finish `TP*EURB`
 * emperor's `EPL/ROR AES`
@@ -451,14 +472,14 @@
 * something `S-G`
 * hands `HAPBDZ`
 * said: `SAEUD STPH-FPLT`
-* "These `KR-GS THEZ`
+* "These `KR-GS KPA/THEZ`
 * trousers!" `TROUZ/ERS SKHRAPL KR-GS`
-* "This `KR-GS TH`
+* "This `KR-GS KPA/TH`
 * coat!" `KOET SKHRAPL KR-GS`
-* "Here `KR-GS HAOER`
+* "Here `KR-GS KPA/HAOER`
 * cloak!" `KHROEBG SKHRAPL KR-GS`
 * on. `OPB TP-PL`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * light `HRAOEUT`
 * cobweb, `KOB/WEB KW-BG`
 * feel `TPAOEL`
@@ -467,14 +488,15 @@
 * just `SKWRUFT`
 * beauty `PWAOUT`
 * them." `THEPL TP-PL KR-GS`
-* "Indeed!" `KR-GS TPHAOEPBD SKHRAPL KR-GS`
+* "Indeed!" `KR-GS KPA/TPHAOEPBD SKHRAPL KR-GS`
 * courtiers; `KORT/KWRERS STPH*FPLT`
 * anything, `TPHEUG KW-BG`
-* "Does `KR-GS TKOS`
+* "Does `KR-GS KPA/TKOS`
 * please `PHRES`
 * your `KWROUR`
 * graciously `TKPWRAEURBS/HREU`
 * undress," `UPB/TKRES KW-BG KR-GS`
+* "that `KR-GS THA`
 * we `WE`
 * may `PHAE`
 * assist `S*EUFT`
@@ -487,10 +509,12 @@
 * himself `H*EUPLS`
 * glass `TKPWHRAS`
 * side. `SAOEUD TP-PL`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * look! `HRAOBG SKHRAPL`
+* How `KPA/HOU`
 * fit!" `TPEUT SKHRAPL KR-GS`
 * pattern! `PA*RPBT SKHRAPL`
+* What `KPA/WHA`
 * clothes!" `KHRO*ETS SKHRAPL KR-GS`
 * master `PHAFRT`
 * ceremonies `SER/PHOEP/-S`
@@ -502,13 +526,14 @@
 * ready. `R-D TP-PL`
 * ready," `R-D KW-BG KR-GS`
 * marvellously?" `PHAFRBL/SHREU/A*U H-F KR-GS`
+* Then `KPA/THEPB`
 * turned `TURPBD`
 * once `WUPBS`
 * looking-glass, `HRAOG H-PB TKPWHRAS KW-BG`
 * think `THEU`
 * admired `AD/PHAOEURD`
 * garments. `TKPWARPLTS TP-PL`
-* chamberlains, `KHAPL/PWER/HREUPB/-S KW-BG`
+* chamberlains, `KHAEURPL/TK-LS/HRAEUPB/-S KW-BG`
 * carry `KAER`
 * train, `TRAEUPB KW-BG`
 * stretched `STREFPD`
@@ -522,20 +547,22 @@
 * street `STRAOET`
 * windows `WO*EUPBDZ`
 * exclaimed: `SKHRAEUPL/-D STPH-FPLT`
-* "Indeed, `KR-GS TPHAOEPBD KW-BG`
+* "Indeed, `KR-GS KPA/TPHAOEPBD KW-BG`
 * incomparable! `EUPB/KPARBL SKHRAPL`
 * long `HROPBG`
 * train `TRAEUPB`
 * has! `HAS SKHRAPL`
 * fits `TPEUTS`
 * him!" `HEUPL SKHRAPL KR-GS`
+* Nobody `KPA/TPHOEB`
 * too `TAO`
+* Never `KPA/TPHEF`
 * admired. `AD/PHAOEURD TP-PL`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * little `HREUL`
 * child `KHAOEULD`
 * last. `HRAFT TP-PL`
-* "Good `KR-GS TKPWAOD`
+* "Good `KR-GS KPA/TKPWAOD`
 * heavens! `HEFPBS SKHRAPL`
 * listen `HREUFPB`
 * voice `SROEUS`
@@ -550,10 +577,10 @@
 * deep `TKAOEP`
 * impression `EUPL/PREGS`
 * right; `RAOEUT STPH*FPLT`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * bear `PWAER`
 * end." `EPBD TP-PL KR-GS`
-* chamberlains `KHAPL/PWER/HREUPB/-S`
+* chamberlains `KHAEURPL/TK-LS/HRAEUPB/-S`
 * walked `WAUBGD`
 * greater `TKPWRAERT`
 * dignity, `TKEUG/TEU KW-BG`

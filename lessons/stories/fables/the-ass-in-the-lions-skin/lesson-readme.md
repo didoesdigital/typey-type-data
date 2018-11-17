@@ -1,11 +1,11 @@
 # The Ass in the Lion's Skin
 
-* An `APB`
-* Ass `A*S`
+* An `KPA/APB`
+* Ass `KPA/A*S`
 * once `WUPBS`
 * found `TPOUPBD`
 * a `AEU`
-* Lion's `HRO*EUPB AES`
+* Lion's `KPA/HRO*EUPB AES`
 * skin `SKEUPB`
 * which `WEU`
 * the `-T`
@@ -13,11 +13,11 @@
 * had `H`
 * left `HREFT`
 * out `OUT`
-* In `TPH`
+* in `TPH`
 * sun `SUPB`
 * to `TO`
 * dry. `TKRAOEU TP-PL`
-* he `HE`
+* He `KPA/HE`
 * put `PUT`
 * it `T`
 * on `OPB`
@@ -27,17 +27,19 @@
 * his `HEUS`
 * native `TPHAEUFT`
 * village. `SREULG TP-PL`
-* All `AUL`
+* All `KPA/AUL`
 * fled `TPHRED`
 * at `AT`
 * approach, `PROEFP KW-BG`
 * both `PWO*T`
 * men `PHEPB`
 * animals, `PHAPBLS KW-BG`
+* he `HE`
 * was `WAS`
 * proud `PROUD`
 * that `THA`
 * day. `TKAEU TP-PL`
+* In `KPA/TPH`
 * delight `TKHRAOEUT`
 * lifted `HREUFTD`
 * up `UP`
@@ -58,17 +60,18 @@
 * for `TPOR`
 * fright `TPRAOEUT`
 * caused. `KAUFD TP-PL`
+* And `AFPBD`
 * shortly `SHORLT`
 * afterwards `A*FRDZ`
-* Fox `TPOBGS`
+* Fox `KPA/TPOBGS`
 * said: `SAEUD STPH-FPLT`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
 * I `EU`
 * you `U`
 * by `PWEU`
 * your `KWROUR`
 * voice." `SROEUS TP-PL KR-GS`
-* Fine `TPAOEUPB`
+* Fine `TPAO*EUPB`
 * clothes `KHRO*ETS`
 * may `PHAE`
 * disguise, `STKPWAOEUS KW-BG`

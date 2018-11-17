@@ -1,6 +1,6 @@
 # Blue Beard
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * a `AEU`
 * man `PHAPB`
@@ -26,14 +26,14 @@
 * over `OEFR`
 * with `W`
 * gold. `TKPWOELD TP-PL`
-* but `PWUT`
+* But `KPA/PWUT`
 * this `TH`
 * the `-T`
 * misfortune `PHEUS/TPOR/TAOUPB`
 * to `TO`
 * have `SR`
-* Blue `PWHRU`
-* Beard, `PWAERD KW-BG`
+* blue `PWHRU`
+* beard, `PWAERD KW-BG`
 * which `WEU`
 * made `PHAED`
 * him `HEUPL`
@@ -47,7 +47,7 @@
 * away `A/WAEU`
 * from `TPR`
 * him. `HEUPL TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * his `HEUS`
 * neighbours, `TPHAEUBS/A*U KW-BG`
 * lady `HRA*ED`
@@ -57,9 +57,10 @@
 * were `WR`
 * perfect `P-F`
 * beauties. `PWAOUTS TP-PL`
-* he `HE`
+* He `KPA/HE`
 * desired `STKAOEURD`
 * her `HER`
+* one `WUPB`
 * them `THEPL`
 * marriage, `PHAERPBLG KW-BG`
 * leaving `HREFG`
@@ -68,19 +69,20 @@
 * would `WO`
 * bestow `PWE/STOEU`
 * upon `POPB`
-* they `THE`
+* They `KPA/THE`
 * neither `TPHAOERT`
 * him, `HEUPL KW-BG`
 * each `AOEFP`
 * other `OER`
 * welcome `WELG`
-* Being `-BG`
+* being `-BG`
 * not `TPHOT`
 * able `ABL`
 * bear `PWAER`
 * thought `THAUT`
 * marrying `PHAR/REU/-G`
-* Beard. `PWAERD TP-PL`
+* beard. `PWAERD TP-PL`
+* And `AFPBD`
 * what `WHA`
 * besides `PW-DZ`
 * gave `TKPWAEUF`
@@ -97,6 +99,8 @@
 * knew `TPHAOU`
 * became `PWAEUPL`
 * them. `THEPL TP-PL`
+* Blue `KPA/PWHRU`
+* Beard, `KPA/PWAERD KW-BG`
 * engage `EPB/TKPWAEUPBLG`
 * their `THAEUR`
 * affection, `A*FBGS KW-BG`
@@ -114,13 +118,15 @@
 * country `KREU`
 * seats, `SAOETS KW-BG`
 * where `W-R`
+* they `THE`
 * stayed `STAEUD`
 * whole `WHOEL`
 * week. `WAOEBG TP-PL`
 * nothing `TPHOG`
-* Then `THEPB`
+* then `THEPB`
 * be `-B`
 * seen `SAOEPB`
+* but `PWUT`
 * parties `PAERTS`
 * pleasure, `PHRERB KW-BG`
 * hunting, `HUPBT/-G KW-BG`
@@ -128,6 +134,7 @@
 * dancing, `TKAPBS/-G KW-BG`
 * mirth `PH*EURT`
 * feasting. `TPAOEFT/-G TP-PL`
+* Nobody `KPA/TPHOEB`
 * went `WEPBT`
 * bed, `PWED KW-BG`
 * passed `PAFD`
@@ -135,6 +142,7 @@
 * playing `PHRA*EUG`
 * tricks `TREUBGS`
 * other. `OER TP-PL`
+* In `KPA/TPH`
 * short, `SHORT KW-BG`
 * every `EF`
 * thing `THEUPBG`
@@ -146,21 +154,24 @@
 * think `THEU`
 * master `PHAFRT`
 * house `HOUS`
-* Beard `PWAERD`
+* beard `PWAERD`
 * very `SRE`
 * blue, `PWHRU KW-BG`
-* Mighty `PHAOEUT/KWREU`
+* he `HE`
+* mighty `PHAOEUT/KWREU`
 * civil `SEUFL`
 * gentleman. `SKWRA*PL TP-PL`
-* as `AZ`
+* As `KPA/AZ`
 * soon `SAOPB`
+* as `AZ`
 * returned `RURPBD`
 * home, `HOEPL KW-BG`
 * marriage `PHAERPBLG`
 * concluded. `KAUPB/KAOUD/-D TP-PL`
-* about `PW`
+* About `KPA/PW`
 * month `PHO*PBT`
 * afterwards `A*FRDZ`
+* Beard `KPA/PWAERD`
 * told `TOLD`
 * wife `WAOEUF`
 * obliged `OE/PWHRAOEUPBLGD`
@@ -171,6 +182,7 @@
 * weeks `WAOEBGS`
 * at `AT`
 * least, `HRAOEFT KW-BG`
+* about `PW`
 * affairs `A/TPAEURS`
 * great `TKPWRAET`
 * consequence, `KWEPBS KW-BG`
@@ -190,10 +202,10 @@
 * cheer `KHAOER`
 * wherever `W-FR`
 * was. `WAS TP-PL`
-* "Here," `KR-GS HAOER KW-BG KR-GS`
+* "Here," `KR-GS KPA/HAOER KW-BG KR-GS`
 * said `SAEUD`
 * he, `HE KW-BG`
-* "Are `KR-GS R`
+* "are `KR-GS R`
 * keys `KAOES`
 * wardrobes, `WARD/ROEB/-S KW-BG`
 * wherein `WR-PB`
@@ -226,6 +238,7 @@
 * on `OPB`
 * ground `TKPWROUPBD`
 * floor. `TPHRAOR TP-PL`
+* Open `KPA/OEP`
 * all; `AUL STPH*FPLT`
 * go `TKPW`
 * them; `THEPL STPH*FPLT`
@@ -238,25 +251,28 @@
 * you `U`
 * happen `HAP`
 * it, `T KW-BG`
+* there `THR`
 * will `HR`
 * no `TPHO`
 * bounds `PWOUPBDZ`
 * just `SKWRUFT`
 * anger `ARPBG`
 * resentment." `RE/SEPBT/*PLT TP-PL KR-GS`
+* She `KPA/SHE`
 * promised `PROPLS/-D`
 * observe, `OEB KW-BG`
 * exactly, `ELG KW-BG`
 * whatever `WHAF`
 * ordered; `ORD/-D STPH*FPLT`
 * when `WHEPB`
-* After `AF`
+* after `AF`
 * embraced `EPL/PWRAEUFD`
 * her, `HER KW-BG`
 * got `TKPWOT`
 * coach `KOEFP`
 * proceeded `PROE/SAOED/-D`
 * journey. `SKWRURPB TP-PL`
+* Her `KPA/HER`
 * neighbours `TPHAEUBS/A*U`
 * did `TK`
 * stay `STAEU`
@@ -283,6 +299,7 @@
 * seemed `SAOEPLD`
 * surpass `SUR/PAS`
 * another. `TPHOER TP-PL`
+* After `KPA/AF`
 * up `UP`
 * richest `REUFP/EFTS`
 * could `KO`
@@ -340,6 +357,7 @@
 * like `HRAOEUBG`
 * broken `PWROEPB`
 * neck. `TPHEBG TP-PL`
+* Being `KPA/-BG`
 * door, `TKAOR KW-BG`
 * stop `STOP`
 * time, `TAOEUPL KW-BG`
@@ -393,6 +411,7 @@
 * herself; `H*ERS STPH*FPLT`
 * not, `TPHOT KW-BG`
 * frightened. `TPRAOEUPBD TP-PL`
+* Having `KPA/SR-G`
 * observed `OEBD`
 * stained `STAEUPBD`
 * tried `TRAOEUD`
@@ -409,7 +428,7 @@
 * sand, `SAPBD KW-BG`
 * still `STEUL`
 * remained, `RE/PHAEUPBD KW-BG`
-* Fairy, `TPAEUR/REU KW-BG`
+* Fairy, `KPA/TPAEUR/REU KW-BG`
 * never `TPHEF`
 * quite `KWAOEUT`
 * clean; `KHAOEPB STPH*FPLT`
@@ -428,12 +447,13 @@
 * affair `A/TPAEUR`
 * ended `EPBD/-D`
 * advantage. `SRAPBG TP-PL`
+* His `KPA/HEUS`
 * convince `KWEUPBS`
 * extremely `KPRAOEPL`
 * glad `TKPWHRAD`
 * speedy `SPAOE/TKEU`
 * return. `RURPB TP-PL`
-* Next `TPHEGT`
+* Next `KPA/TPHEGT`
 * morning `PHORPBG`
 * asked `SK-D`
 * keys, `KAOES KW-BG`
@@ -442,7 +462,7 @@
 * easily `AOELS`
 * guessed `TKPWEFD`
 * happened. `HAPD TP-PL`
-* "What," `KR-GS WHA KW-BG KR-GS`
+* "What," `KR-GS KPA/WHA KW-BG KR-GS`
 * "is `KR-GS S`
 * among `PHOPBG`
 * rest?" `REFT H-F KR-GS`
@@ -455,7 +475,7 @@
 * left `HREFT`
 * above `PWOF`
 * table." `TAEUBL TP-PL KR-GS`
-* "Fail `KR-GS TPAEUL`
+* "Fail `KR-GS KPA/TPAEUL`
 * not," `TPHOT KW-BG KR-GS`
 * "to `KR-GS TO`
 * bring `PWREU`
@@ -468,7 +488,7 @@
 * attentively `A/TEPBT/EUFL`
 * considered `KR-D`
 * wife: `WAOEUF STPH-FPLT`
-* "How `KR-GS HOU`
+* "How `KR-GS KPA/HOU`
 * comes `KOPLS`
 * key?" `KAOE H-F KR-GS`
 * do `TKO`
@@ -479,21 +499,23 @@
 * paler `PAL/*ER`
 * than `THAPB`
 * death. `TK*T TP-PL`
-* "you `KR-GS U`
+* "You `KR-GS KPA/U`
 * replied `RE/PHRAOEUD`
-* Beard; `PWAERD STPH*FPLT`
+* Beard; `KPA/PWAERD STPH*FPLT`
 * well `WEL`
 * know, `TPHOE KW-BG`
 * resolved `RO*FLD`
 * closet, `KHROFT KW-BG`
 * not? `TPHOT H-F`
-* Madam; `PHAD/APL STPH*FPLT`
+* Mighty `KPA/PHAOEUT/KWREU`
+* Madam; `PHA*D/APL STPH*FPLT`
 * shall `SHAL`
 * in, `TPH KW-BG`
 * your `KWROUR`
 * place `PHRAEUS`
 * saw `SAU`
 * there." `THR TP-PL KR-GS`
+* Upon `KPA/POPB`
 * threw `THRAOU`
 * feet, `TPAOET KW-BG`
 * begged `PWEGD`
@@ -511,9 +533,9 @@
 * harder `HARD/*ER`
 * rock. `ROBG TP-PL`
 * die, `TKAOEU KW-BG`
-* Madam," `PHAD/APL KW-BG KR-GS`
+* Madam," `PHA*D/APL KW-BG KR-GS`
 * "and `KR-GS SKP`
-* "Since `KR-GS SEUPBS`
+* "Since `KR-GS KPA/SEUPBS`
 * die," `TKAOEU KW-BG KR-GS`
 * eyes `AO*EUS`
 * bathed `PWA*T/-D`
@@ -529,11 +551,12 @@
 * hour, `HOUR KW-BG`
 * moment `PHOEPLT`
 * more." `PHOR TP-PL KR-GS`
+* When `KPA/WHEPB`
 * alone, `A/HROEPB KW-BG`
 * called `KAULD`
 * sister, `ST-R KW-BG`
 * her: `HER STPH-FPLT`
-* "Sister `KR-GS ST-R`
+* "Sister `KR-GS KPA/ST-R`
 * Anne" `A*EPB KR-GS`
 * (for `PREPB TPOR`
 * name), `TPHAEUPL PR*EPB KW-BG`
@@ -564,10 +587,10 @@
 * scimitar `xxx scimitar`
 * loud `HROUD`
 * bawl `PWA*UL`
-* "Come `KR-GS KOPL`
+* "Come `KR-GS KPA/KOPL`
 * instantly, `EUPB/STAPBT/HREU KW-BG`
 * you." `U TP-PL KR-GS`
-* "One `KR-GS WUPB`
+* "One `KR-GS KPA/WUPB`
 * longer, `HRORPBG KW-BG`
 * please," `PHRES KW-BG KR-GS`
 * wife, `WAOEUF KW-BG`
@@ -586,14 +609,16 @@
 * "a `KR-GS AEU`
 * dust `TKUFT`
 * way." `WAEU TP-PL KR-GS`
+* "Are `KR-GS KPA/R`
 * brothers?" `PWROERS H-F KR-GS`
-* "Alas! `KR-GS A/HRAS SKHRAPL`
+* "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
 * no, `TPHO KW-BG`
 * dear `TKAER`
 * flock `TPHROBG`
 * sheep." `SHAOEP TP-PL KR-GS`
-* "Will `KR-GS HR`
+* "Will `KR-GS W*EUL`
 * down?" `TKOUPB H-F KR-GS`
+* Beard. `KPA/PWAERD TP-PL`
 * longer," `HRORPBG KW-BG KR-GS`
 * out: `OUT STPH-FPLT`
 * "two `KR-GS TWO`
@@ -601,22 +626,25 @@
 * coming, `KO*G KW-BG`
 * yet `KWRET`
 * off." `OF TP-PL KR-GS`
-* "God `KR-GS TKPWOD`
+* "God `KR-GS TKPWO*D`
 * praised," `PRA*EUFD KW-BG KR-GS`
 * presently, `PREPBLT KW-BG`
 * "they `KR-GS THE`
 * brothers; `PWROERS STPH*FPLT`
 * beckoning `PWEBG/KOPB/-G`
 * can, `K KW-BG`
+* Then `KPA/THEPB`
 * bawled `PWA*UL/-D`
 * loud, `HROUD KW-BG`
 * tremble. `TREPL/-BL TP-PL`
+* The `KPA/-T`
 * distressed `STKREFD`
 * down, `TKOUPB KW-BG`
 * hair `HAEUR`
 * shoulders. `SHOURLDZ TP-PL`
-* "Nought `KR-GS TPHA*UT`
+* "Nought `KR-GS KPA/TPHA*UT`
 * avail," `A/SRAEUL KW-BG KR-GS`
+* "you `KR-GS U`
 * die"; `TKAOEU KR-GS STPH*FPLT`
 * then, `THEPB KW-BG`
 * taking `TAEUG`
@@ -630,13 +658,14 @@
 * afford `AFRD`
 * recollect `REBGT`
 * herself. `H*ERS TP-PL`
-* "No, `KR-GS TPHO KW-BG`
+* "No, `KR-GS KPA/TPHO KW-BG`
 * no," `TPHO KW-BG KR-GS`
 * "recommend `KR-GS REPL`
 * thyself `THAOEU/SEFL`
-* God," `TKPWOD KW-BG KR-GS`
+* God," `TKPWO*D KW-BG KR-GS`
 * ready `R-D`
 * strike. `STRAOEUBG TP-PL`
+* At `KPA/AT`
 * instant `STPHAPBT`
 * knocking `TPHOBG/-G`
 * gate, `TKPWAET KW-BG`

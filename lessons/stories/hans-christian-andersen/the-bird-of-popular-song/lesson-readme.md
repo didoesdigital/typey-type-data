@@ -1,9 +1,9 @@
 # The Bird of Popular Song
 
-* in `TPH`
+* In `KPA/TPH`
 * is `S`
 * winter-time. `WEURPBT H-PB TAOEUPL TP-PL`
-* the `-T`
+* The `KPA/-T`
 * earth `*ERT`
 * wears `WAERS`
 * a `AEU`
@@ -16,6 +16,7 @@
 * hewn `HAOUPB`
 * out `OUT`
 * of `-F`
+* the `-T`
 * rock; `ROBG STPH*FPLT`
 * air `AEUR`
 * bright `PWRAOEUT`
@@ -35,21 +36,22 @@
 * almond `AUPL/OPBD`
 * twigs, `TWEUG/-S KW-BG`
 * here `HAOER`
-* It `T`
+* it `T`
 * keen `KAOEPB`
 * on `OPB`
 * lofty `HROF/TEU`
 * Alps. `AL/-PS TP-PL`
 * night `TPHAOEUT`
 * splendid `SPHREPBD/EUD`
+* in `TPH`
 * gleam `TKPWHRAOEPL`
 * Northern `TPHORPB`
-* Lights, `HRAOEUTS KW-BG`
+* Lights, `KPA/HRAOEUTS KW-BG`
 * glitter `TKPWHREUT`
 * innumerable `EUPB/TPHAOUPL/RABL`
 * twinkling `TWEUPB/K-LG`
 * stars. `STARS TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * we `WE`
 * sit `SEUT`
 * warm `WARPL`
@@ -61,10 +63,12 @@
 * about `PW`
 * old `OLD`
 * times. `TAOEUPLS TP-PL`
+* And `AFPBD`
 * listen `HREUFPB`
 * to `TO`
 * this `TH`
 * story: `STOER STPH-FPLT`
+* By `KPA/PWEU`
 * open `OEP`
 * sea `SAE`
 * was `WAS`
@@ -93,6 +97,7 @@
 * clad `KHRAD`
 * steel `STAOEL`
 * iron. `AOEURPB TP-PL`
+* He `KPA/HE`
 * bent `PWEPBT`
 * head `HED`
 * mournfully, `PHOURPB/-FL/HREU KW-BG`
@@ -107,19 +112,19 @@
 * came `KAEUPL`
 * sailing `SAEULG`
 * by. `PWEU TP-PL`
-* Presently `PREPBLT`
+* Presently `KPA/PREPBLT`
 * sailors `SAEUL/ORS`
 * lowered `HROERD`
 * anchor `APB/KOR`
 * landed. `HRAPBD/-D TP-PL`
-* among `PHOPBG`
+* Among `KPA/PHOPBG`
 * them `THEPL`
 * singer, `SEURPBG KW-BG`
 * approached `A/PROEFPD`
 * royal `ROEUL`
 * spirit, `SPEURT KW-BG`
 * said, `SAEUD KW-BG`
-* "Why `KR-GS KWR`
+* "Why `KR-GS KPA/KWR`
 * mournest `PHOURPB/EFT`
 * thou, `THO*U KW-BG`
 * wherefore `W-R/TPOR`
@@ -130,7 +135,7 @@
 * dead `TKED`
 * man `PHAPB`
 * answered, `AEPBS/-D KW-BG`
-* "No `KR-GS TPHO`
+* "No `KR-GS KPA/TPHO`
 * one `WUPB`
 * has `HAS`
 * sung `SUPBG`
@@ -140,7 +145,7 @@
 * they `THE`
 * are `R`
 * forgotten. `TPORGTD TP-PL`
-* Song `SOPBG`
+* Song `KPA/SOPBG`
 * doth `TKA*UT`
 * not `TPHOT`
 * carry `KAER`
@@ -154,7 +159,7 @@
 * therefore `TH-FR`
 * I `EU`
 * have `SR`
-* No `TPHO`
+* no `TPHO`
 * rest `REFT`
 * peace." `PAES TP-PL KR-GS`
 * spoke `SPOEBG`
@@ -164,12 +169,14 @@
 * which `WEU`
 * contemporaries `KPAER/KWREU/-S`
 * known, `TPHOEPB KW-BG`
+* but `PWUT`
 * sung, `SUPBG KW-BG`
 * because `PWAU`
-* There `THR`
+* there `THR`
 * singer `SEURPBG`
+* among `PHOPBG`
 * companions. `KPAPB/KWROPBS TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * bard `PWARD`
 * struck `STRUBG`
 * strings `STREUPBGS`
@@ -186,7 +193,7 @@
 * margin `PHARPB`
 * cloud `KHROUD`
 * moonlight. `PHAOLGT TP-PL`
-* Gladly `TKPWHRAD/HREU`
+* Gladly `KPA/TKPWHRAD/HREU`
 * courage, `KURPBLG KW-BG`
 * form `TPORPL`
 * arose `A/ROES`
@@ -195,7 +202,7 @@
 * vanished `SRAPB/EURBD`
 * glancing `TKPWHRAPBS/-G`
 * light. `HRAOEUT TP-PL`
-* Nought `TPHA*UT`
+* Nought `KPA/TPHA*UT`
 * be `-B`
 * seen `SAOEPB`
 * green `TKPWRAOEPB`
@@ -224,11 +231,11 @@
 * pathos `PA/THOS`
 * human `HAOUPL`
 * heart, `HART KW-BG`
-* That `THA`
+* that `THA`
 * told `TOLD`
 * home, `HOEPL KW-BG`
 * heard `HAERD`
-* Bird `PWEURD`
+* bird `PWEURD`
 * passage. `PAFPBLG TP-PL`
 * singing-bird `SEUPBG/-G H-PB PWEURD`
 * away, `A/WAEU KW-BG`
@@ -236,11 +243,13 @@
 * valley, `SRAL/HREU KW-BG`
 * field `TPAOELD`
 * wood—he `WAOD EPL/TKA*RB HE`
-* Popular `PHRA*R`
-* Song, `SOPBG KW-BG`
+* Bird `KPA/PWEURD`
+* Popular `KPA/PHRA*R`
+* Song, `KPA/SOPBG KW-BG`
 * never `TPHEF`
 * dies. `TKAOEUZ TP-PL`
-* Hear `HAER`
+* We `KPA/WE`
+* hear `HAER`
 * song—we `SOPBG EPL/TKA*RB WE`
 * now `TPHOU`
 * room `RAOPL`
@@ -272,7 +281,7 @@
 * snatches `STPHAFPS`
 * proverbs; `PROFRB/-S STPH*FPLT`
 * which, `WEU KW-BG`
-* Runes `RAO*UPB/-S`
+* Runes `xxx Runes`
 * laid `HRAEUD`
 * under `*UPBD`
 * man's `PHAPB/AES`
@@ -288,6 +297,7 @@
 * days, `TKAEUS KW-BG`
 * times `TAOEUPLS`
 * Vikings, `SRAOEUBG/-G/-S KW-BG`
+* popular `PHRA*R`
 * speech `SPAOEFP`
 * enshrined `EPB/SHAOEUPBD`
 * bard. `PWARD TP-PL`
@@ -312,7 +322,7 @@
 * find `TPEUPBD`
 * shelter `SHELT`
 * protection? `PREBGS H-F`
-* Neither `TPHAOERT`
+* Neither `KPA/TPHAOERT`
 * violence `SROEUPBLS`
 * stupidity `STAOUPD/TEU`
 * gave `TKPWAEUF`
@@ -329,6 +339,7 @@
 * wrote `WRO`
 * down `TKOUPB`
 * recollections `REBGT/-G/-S`
+* song `SOPBG`
 * legend, `HREGD KW-BG`
 * near `TPHAOER`
 * her `HER`
@@ -341,12 +352,14 @@
 * wandering `WAPBGD`
 * through `THRU`
 * country. `KREU TP-PL`
+* As `KPA/AZ`
 * these `THEZ`
 * their `THAEUR`
 * tales, `TAELS KW-BG`
 * around `ARPBD`
 * them, `THEPL KW-BG`
-* twittering `TWEURT/-G`
+* twittering `xxx twittering`
+* song, `SOPBG KW-BG`
 * dies `TKAOEUZ`
 * long `HROPBG`
 * hill `HEUL`
@@ -356,7 +369,7 @@
 * rest. `REFT/TP-PL`
 * us `US`
 * sings. `SEUPBGS TP-PL`
-* Without `WOUT`
+* Without `KPA/WOUT`
 * snow-storm. `STPHOE H-PB STORPL TP-PL`
 * lays `HRAEUZ`
 * beneath `TPHAO*ET`
@@ -364,10 +377,10 @@
 * tongues, `TUPBG/-S KW-BG`
 * know `TPHOE`
 * home. `HOEPL TP-PL`
-* heaven `HEFPB`
+* Heaven `KPA/HEFPB`
 * speaks `SPAOEBGS`
 * native `TPHAEUFT`
-* Song. `SOPBG TP-PL`
+* Song. `KPA/SOPBG TP-PL`
 * remembrances `RERPBS/-S`
 * awake, `A/WAEUBG KW-BG`
 * faded `TPAEUD/-D`
@@ -397,8 +410,10 @@
 * for `TPOR`
 * might, `PHAOEUT KW-BG`
 * lord—but `HRORD EPL/TKA*RB PWUT`
-* LORD `HRORD`
-* ALL. `AUL TP-PL`
+* LORD `KPA/HRORD`
+* OF `KPA/-F`
+* ALL. `KPA/AUL TP-PL`
+* It `KPA/T`
 * winter `WEURPBT`
 * time. `TAOEUPL TP-PL`
 * two-edged `TWO H-PB EPBLGD`
@@ -414,7 +429,7 @@
 * heavy `HOEUF`
 * dream `TKRAOEPL`
 * night. `TPHAOEUT TP-PL`
-* Everything `EFG`
+* Everything `KPA/EFG`
 * hidden `HEUD/EPB`
 * cross `KROS`
 * church, `KHUFRPB KW-BG`
@@ -431,12 +446,12 @@
 * heaven, `HEFPB KW-BG`
 * small `SPHAL`
 * great; `TKPWRAET STPH*FPLT`
-* twitter `TWEURT`
+* twitter `xxx twitter`
 * sing `SEUPBG`
 * best `PWEFT`
 * may, `PHAE KW-BG`
 * beak. `PWAOEBG TP-PL`
-* First `TPEURS`
+* First `KPA/TPEURS`
 * comes `KOPLS`
 * band `PWAPBD`
 * sparrows: `SPAEUR/ROE/-S STPH-FPLT`
@@ -452,7 +467,7 @@
 * buildings `PWHR-GS`
 * back `PWABG`
 * buildings. `PWHR-GS TP-PL`
-* "We `KR-GS WE`
+* "We `KR-GS KPA/WE`
 * town," `TOUPB KW-BG KR-GS`
 * say; `SAEU STPH*FPLT`
 * "everything `KR-GS EFG`
@@ -464,10 +479,10 @@
 * crows `KROE/-S`
 * flew `TPHRAOU`
 * snow. `STPHOE TP-PL`
-* "Grub, `KR-GS TKPWRUB KW-BG`
+* "Grub, `KR-GS KPA/TKPWRUB KW-BG`
 * grub!" `TKPWRUB SKHRAPL KR-GS`
 * cried. `KRAOEUD TP-PL`
-* "There's `KR-GS THR AES`
+* "There's `KR-GS KPA/THR AES`
 * something `S-G`
 * got `TKPWOT`
 * there; `THR STPH*FPLT`
@@ -475,7 +490,7 @@
 * that's `THATS`
 * most `PHOFT`
 * important. `PORPB TP-PL`
-* That's `THA AES`
+* That's `KPA/THA AES`
 * opinion `P-PB`
 * there, `THR KW-BG`
 * goo-goo-good!" `TKPWAO H-PB TKPWAO H-PB TKPWAOD SKHRAPL KR-GS`
@@ -494,6 +509,7 @@
 * resting `REFT/-G`
 * its `EUTS`
 * veil. `SRAEUL TP-PL`
+* No `KPA/TPHO`
 * death `TK*T`
 * there—life `THR EPL/TKA*RB HRAOEUF`
 * reigns `RAEPB/-S`
@@ -512,8 +528,9 @@
 * swoop `SWAOP`
 * spirits' `SPEURTS AE`
 * wings. `WEUPBGS TP-PL`
-* What `WHA`
+* What `KPA/WHA`
 * harmony! `HAR/PHOEPB SKHRAPL`
+* That `KPA/THA`
 * harmony `HAR/PHOEPB`
 * hearts, `HARTS KW-BG`
 * souls! `SOULS SKHRAPL`
@@ -521,8 +538,10 @@
 * hear. `HAER TP-PL`
 * moment `PHOEPLT`
 * breath `PWR*ET`
+* heaven `HEFPB`
 * blows `PWHROES`
 * sky. `SKAOEU TP-PL`
+* There `KPA/THR`
 * gaps `TKPWAPS`
 * mountains, `PHOUPB/TAEUPBS KW-BG`
 * sun `SUPB`
@@ -537,8 +556,9 @@
 * same `SAEUPL`
 * home `HOEPL`
 * hearts. `HARTS TP-PL`
+* Hear `KPA/HAER`
 * year: `KWRAOER STPH-FPLT`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * snow-storm, `STPHOE H-PB STORPL KW-BG`
 * night, `TPHAOEUT KW-BG`
 * all `AUL`

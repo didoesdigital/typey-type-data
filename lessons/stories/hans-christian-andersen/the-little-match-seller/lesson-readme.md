@@ -1,6 +1,6 @@
 # The Little Match-Seller
 
-* it `T`
+* It `KPA/T`
 * was `WAS`
 * terribly `TERBL/HREU`
 * cold `KOELD`
@@ -17,7 +17,7 @@
 * snow `STPHOE`
 * falling `TPAULG`
 * fast. `TPAFT TP-PL`
-* in `TPH`
+* In `KPA/TPH`
 * darkness, `TKARBG/-PBS KW-BG`
 * a `AEU`
 * poor `PAOR`
@@ -46,6 +46,7 @@
 * not `TPHOT`
 * much `PHUFP`
 * use. `AOUS TP-PL`
+* They `KPA/THE`
 * very `SRE`
 * large, `HRARPBLG KW-BG`
 * so `SO`
@@ -58,6 +59,7 @@
 * creature `KRAOEFP`
 * lost `HRO*S`
 * them `THEPL`
+* in `TPH`
 * running `R*UPBG`
 * across `A/KROS`
 * street `STRAOET`
@@ -69,7 +71,7 @@
 * at `AT`
 * terrible `TERBL`
 * rate. `RAEUT TP-PL`
-* one `WUPB`
+* One `KPA/WUPB`
 * could `KO`
 * find, `TPEUPBD KW-BG`
 * boy `PWOEU`
@@ -82,11 +84,13 @@
 * saying `SAEUG`
 * he `HE`
 * use `AOUS`
+* it `T`
 * as `AZ`
 * cradle, `KRAEUD/*L KW-BG`
 * children `KHEURPB`
 * his `HEUS`
 * own. `OEPB TP-PL`
+* So `KPA/SO`
 * girl `TKPWEURL`
 * went `WEPBT`
 * which `WEU`
@@ -101,7 +105,8 @@
 * matches, `PHAFPS KW-BG`
 * bundle `PWUPBLD`
 * hands. `HAPBDZ TP-PL`
-* No `TPHO`
+* No `KPA/TPHO`
+* one `WUPB`
 * bought `PWAUT`
 * anything `TPHEUG`
 * whole `WHOEL`
@@ -112,7 +117,7 @@
 * here `HAOER`
 * even `AOEPB`
 * penny. `PEPB/TPHEU TP-PL`
-* Shivering `SH*EUFR/-G`
+* Shivering `KPA/SH*EUFR/-G`
 * hunger, `HURPBG KW-BG`
 * crept `KREPT`
 * along; `A/HROPBG STPH*FPLT`
@@ -120,6 +125,7 @@
 * looked `HRAOBGD`
 * picture `P*EUFP`
 * misery. `PHEUS/REU TP-PL`
+* The `KPA/-T`
 * snowflakes `STPHOE/TPHRAEUBG/-S`
 * fell `TPEL`
 * long, `HROPBG KW-BG`
@@ -130,7 +136,7 @@
 * shoulders, `SHOURLDZ KW-BG`
 * regarded `RARD/-D`
 * not. `TPHOT TP-PL`
-* lights `HRAOEUTS`
+* Lights `KPA/HRAOEUTS`
 * shining `SHAOEUPBG`
 * from `TPR`
 * every `EF`
@@ -141,7 +147,7 @@
 * roast `ROEFT`
 * goose, `TKPWAOS KW-BG`
 * for `TPOR`
-* New-year's `TPHU H-PB KWRAOER AES`
+* New-year's `KPA/TPHU H-PB KWRAOER AES`
 * eve—yes, `AOEF EPL/TKA*RB KWRE KW-BG`
 * remembered `RERD`
 * that. `THA TP-PL`
@@ -156,6 +162,7 @@
 * huddled `HUD/-LD`
 * herself `H*ERS`
 * together. `TOGT TP-PL`
+* She `KPA/SHE`
 * drawn `TKRAUPB`
 * feet `TPAOET`
 * under `*UPBD`
@@ -166,10 +173,12 @@
 * dared `TKAEURD`
 * go `TKPW`
 * sold `SOELD`
+* no `TPHO`
 * take `TAEUBG`
 * home `HOEPL`
 * penny `PEPB/TPHEU`
 * money. `PHUPB TP-PL`
+* Her `KPA/HER`
 * father `TPAER`
 * would `WO`
 * certainly `SERPBL`
@@ -194,7 +203,7 @@
 * rags. `RAG/-S TP-PL`
 * hands `HAPBDZ`
 * frozen `TPROEFPB`
-* Ah! `HA*E SKHRAPL`
+* Ah! `KPA/HA*E SKHRAPL`
 * perhaps `PRAPS`
 * burning `PWURPBG`
 * match `PHAFP`
@@ -212,7 +221,7 @@
 * fingers. `TPEURPBGS TP-PL`
 * drew `TKRAOU`
 * out-"scratch!" `OUT H-PB KR-GS SKRAFP SKHRAPL KR-GS`
-* How `HOU`
+* how `HOU`
 * sputtered `SPUT/ERD`
 * burnt! `PWURPBT SKHRAPL`
 * gave `TKPWAEUF`
@@ -237,6 +246,7 @@
 * polished `POL/EURBD`
 * brass `PWRAS`
 * ornament. `ORPB/APLT TP-PL`
+* How `KPA/HOU`
 * fire `TPAOEUR`
 * burned! `PWURPBD SKHRAPL`
 * beautifully `PWAOUFL/HREU`
@@ -281,6 +291,7 @@
 * apples `APLS`
 * dried `TKRAOEUD`
 * plums. `PHR*UPL/-S TP-PL`
+* And `AFPBD`
 * what `WHA`
 * still `STEUL`
 * more `PHOR`
@@ -294,7 +305,7 @@
 * fork `TPORBG`
 * breast, `PWREFT KW-BG`
 * girl. `TKPWEURL TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * remained `RE/PHAEUPBD`
 * nothing `TPHOG`
 * thick, `THEUBG KW-BG`
@@ -303,6 +314,7 @@
 * her. `HER TP-PL`
 * lighted `HRAOEUT/-D`
 * match, `PHAFP KW-BG`
+* then `THEPB`
 * found `TPOUPBD`
 * beautiful `PWAOUFL`
 * Christmas-tree. `KREUS/PHAS H-PB TRAOE TP-PL`
@@ -314,7 +326,7 @@
 * door `TKAOR`
 * rich `REUFP`
 * merchant's. `PHEFRPBT AE S* TP-PL`
-* Thousands `THOEUPBS`
+* Thousands `KPA/THOEUPBS`
 * tapers `TAEURPS`
 * green `TKPWRAOEPB`
 * branches, `PWRAFPBS KW-BG`
@@ -326,7 +338,8 @@
 * towards `TORDZ`
 * out. `OUT TP-PL`
 * Christmas `KREUS/PHAS`
-* rose `ROEZ`
+* lights `HRAOEUTS`
+* rose `ROES`
 * higher `HAOEUR`
 * higher, `HAOEUR KW-BG`
 * till `T*EUL`
@@ -339,7 +352,7 @@
 * behind `HEUPBD`
 * streak `STRAOEBG`
 * fire. `TPAOEUR TP-PL`
-* "Some `KR-GS SOPL`
+* "Some `KR-GS KPA/SOPL`
 * dying," `TKAOEUG KW-BG KR-GS`
 * thought `THAUT`
 * grandmother, `TKPWR-PL KW-BG`
@@ -352,7 +365,7 @@
 * falls, `TPAULZ KW-BG`
 * soul `SOUL`
 * going `TKPW-G`
-* God. `TKPWOD TP-PL`
+* God. `TKPWO*D TP-PL`
 * again `TKPWEPB`
 * shone `SHO*EPB`
 * round `ROUPBD`
@@ -363,7 +376,7 @@
 * mild `PHAOEULD`
 * loving `HRUFG`
 * appearance. `PAOERPBS TP-PL`
-* "Grandmother," `KR-GS TKPWR-PL KW-BG KR-GS`
+* "Grandmother," `KR-GS KPA/TKPWR-PL KW-BG KR-GS`
 * cried `KRAOEUD`
 * one, `WUPB KW-BG`
 * "O `KR-GS O*P`
@@ -373,7 +386,7 @@
 * know `TPHOE`
 * you `U`
 * will `HR`
-* burns `PWURPBZ`
+* burns `PWURPBS`
 * out; `OUT STPH*FPLT`
 * vanish `SRAPB/EURB`
 * glorious `TKPWHRORS`
@@ -422,7 +435,7 @@
 * holding `HOELGD`
 * hand, `HAPBD KW-BG`
 * burnt. `PWURPBT TP-PL`
-* "She `KR-GS SHE`
+* "She `KR-GS KPA/SHE`
 * tried `TRAOEUD`
 * herself," `H*ERS KW-BG KR-GS`
 * said `SAEUD`

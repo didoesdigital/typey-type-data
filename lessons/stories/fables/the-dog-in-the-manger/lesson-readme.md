@@ -1,7 +1,7 @@
 # The Dog in the Manger
 
 * A `KPA/AEU`
-* Dog `TKOG`
+* Dog `KPA/TKOG`
 * looking `HRAOG`
 * out `OUT`
 * for `TPOR`
@@ -11,19 +11,19 @@
 * jumped `SKWR*UPLD`
 * into `TPHAO`
 * the `-T`
-* Manger `PHAEUPB/SKWRER`
+* Manger `KPA/PHAEUPB/SKWRER`
 * of `-F`
 * an `APB`
-* Ox `O*BGS`
+* Ox `KPA/O*BGS`
 * and `SKP`
 * lay `HRAEU`
 * there `THR`
 * cosily `KOEZ/HREU/A*U`
 * upon `POPB`
 * straw. `STRAU TP-PL`
-* But `PWUT`
+* But `KPA/PWUT`
 * soon `SAOPB`
-* Ox, `O*BGS KW-BG`
+* Ox, `KPA/O*BGS KW-BG`
 * returning `RURPBG`
 * from `TPR`
 * work, `WORBG KW-BG`
@@ -33,6 +33,7 @@
 * wanted `WAPBTD`
 * eat `AOET`
 * some `SOPL`
+* The `KPA/-T`
 * in `TPH`
 * a `AEU`
 * rage, `RAEUPBLG KW-BG`
@@ -48,6 +49,7 @@
 * attempted `A/TEPL/-D`
 * bite `PWAOEUT`
 * it. `T TP-PL`
+* At `KPA/AT`
 * last `HRAFT`
 * had `H`
 * give `TKPWEUF`
@@ -57,7 +59,7 @@
 * went `WEPBT`
 * away `A/WAEU`
 * muttering: `PHUT/*ER/-G STPH-FPLT`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
 * people `PAOEPL`
 * often `OFPB`
 * grudge `TKPWRUPBLG`

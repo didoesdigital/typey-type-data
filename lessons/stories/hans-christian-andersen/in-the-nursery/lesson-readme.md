@@ -1,6 +1,6 @@
 # In the Nursery
 
-* Father, `TPAER KW-BG`
+* Father, `KPA/TPAER KW-BG`
 * and `SKP`
 * mother, `PHOER KW-BG`
 * brothers, `PWROERS KW-BG`
@@ -18,26 +18,26 @@
 * left `HREFT`
 * at `AT`
 * home. `HOEPL TP-PL`
-* "We'll `KR-GS WE AE HR*/HR*`
+* "We'll `KR-GS KPA/WE AE HR*/HR*`
 * have `SR`
 * a `AEU`
 * play `PHRAEU`
 * too," `TAO KW-BG KR-GS`
 * he `HE`
 * said, `SAEUD KW-BG`
-* "And `KR-GS SKP`
+* "and `KR-GS SKP`
 * it `T`
 * may `PHAE`
 * begin `TKPWEUPB`
 * immediately." `PHAOELD TP-PL KR-GS`
-* "But `KR-GS PWUT`
+* "But `KR-GS KPA/PWUT`
 * we `WE`
 * no `TPHO`
 * theatre," `THAO*ERT KW-BG KR-GS`
 * cried `KRAOEUD`
 * Anna, `APB/TPHA KW-BG`
 * one `WUPB`
-* Act `ABGT`
+* act `ABGT`
 * for `TPOR`
 * us; `US STPH*FPLT`
 * my `PHEU`
@@ -52,12 +52,12 @@
 * not `TPHOT`
 * rumple `RUFRPL`
 * clothes." `KHRO*ETS TP-PL KR-GS`
-* "One `KR-GS WUPB`
+* "One `KR-GS KPA/WUPB`
 * can `K`
 * always `AULS`
 * get `TKPWET`
 * actors `A*RBGTS`
-* If `TP`
+* if `TP`
 * makes `PHAEUBGS`
 * use `AOUS`
 * of `-F`
@@ -65,12 +65,12 @@
 * has," `HAS KW-BG KR-GS`
 * observed `OEBD`
 * grandpapa. `xxx grandpapa TP-PL`
-* "Now `KR-GS TPHOU`
+* "Now `KR-GS KPA/TPHOU`
 * we'll `WAOEL`
 * go `TKPW`
 * into `TPHAO`
 * theatre. `THAO*ERT TP-PL`
-* here `HAOER`
+* Here `KPA/HAOER`
 * will `HR`
 * put `PUT`
 * up `UP`
@@ -81,14 +81,16 @@
 * in `TPH`
 * sloping `SHROEPG`
 * row. `ROE TP-PL`
-* now `TPHOU`
+* Now `KPA/TPHOU`
 * three `THRAOE`
 * on `OPB`
 * other `OER`
 * side; `SAOEUD STPH*FPLT`
 * so, `SO KW-BG`
+* now `TPHOU`
 * side `SAOEUD`
 * scenes. `SAOEPBS TP-PL`
+* The `KPA/-T`
 * box `PWOBGS`
 * that `THA`
 * lies `HRAO*EUS`
@@ -108,26 +110,27 @@
 * see. `SAOE TP-PL`
 * want `WAPBT`
 * actors. `A*RBGTS TP-PL`
-* let `HRET`
+* Let `KPA/HRET`
 * us `US`
 * see `SAOE`
 * find `TPEUPBD`
 * plaything-box. `PHRAEU/THEUPBG H-PB PWOBGS TP-PL`
-* First `TPEURS`
+* First `KPA/TPEURS`
 * personages, `PERPB/APBLG/-S KW-BG`
 * then `THEPB`
 * ready. `R-D TP-PL`
+* One `KPA/WUPB`
 * after `AF`
 * other; `OER STPH*FPLT`
 * capital! `KAPLT SKHRAPL`
-* Here's `HAOER AES`
-* Pipe-head, `PAOEUP H-PB HED KW-BG`
+* Here's `KPA/HAOER AES`
+* pipe-head, `PAOEUP H-PB HED KW-BG`
 * an `APB`
 * odd `OD`
 * glove; `TKPWHROF STPH*FPLT`
 * they `THE`
 * do `TKO`
-* Very `SRE`
+* very `SRE`
 * well `WEL`
 * father `TPAER`
 * daughter." `TKAUR TP-PL KR-GS`
@@ -137,21 +140,21 @@
 * characters," `KRARS KW-BG KR-GS`
 * said `SAEUD`
 * Anna. `APB/TPHA TP-PL`
-* "Here's `KR-GS HAOER AES`
+* "Here's `KR-GS KPA/HAOER AES`
 * brother's `PWROER/AES`
 * waistcoat—could `WA*EUS/KOET EPL/TKA*RB KO`
 * our `OUR`
 * piece, `PAOES KW-BG`
 * too?" `TAO H-F KR-GS`
-* "It's `KR-GS T AES`
+* "It's `KR-GS KPA/T AES`
 * big `PWEUG`
 * enough, `TPHUF KW-BG`
 * certainly," `SERPBL KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
-* "It `KR-GS T`
+* "It `KR-GS KPA/T`
 * shall `SHAL`
 * lover. `HRUFR TP-PL`
-* There's `THR AES`
+* There's `KPA/THR AES`
 * nothing `TPHOG`
 * pockets, `POBGTS KW-BG`
 * that's `THATS`
@@ -159,17 +162,20 @@
 * half `HAF`
 * unfortunate `TPHORPBT`
 * attachment. `A/TAPLT TP-PL`
+* And `AFPBD`
+* here `HAOER`
 * nut-cracker's `TPHUT H-PB KRABG/*ER AES`
-* Boots, `PWAOTS KW-BG`
+* boots, `PWAOTS KW-BG`
 * with `W`
 * spurs `SPURS`
 * them. `THEPL TP-PL`
-* Row, `ROE KW-BG`
+* Row, `KPA/ROE KW-BG`
 * dow, `TK*/O*/W* KW-BG`
 * dow! `TK*/O*/W* SKHRAPL`
 * how `HOU`
 * stamp `STAFRP`
 * strut! `STRUT SKHRAPL`
+* They `KPA/THE`
 * represent `REPT`
 * unwelcome `UPB/W*ELG`
 * wooer, `WAO/*ER KW-BG`
@@ -177,9 +183,11 @@
 * lady `HRA*ED`
 * does `TKOS`
 * like. `HRAOEUBG TP-PL`
+* What `KPA/WHA`
 * kind `KEUPBD`
 * you `U`
 * now? `TPHOU H-F`
+* Shall `KPA/SHAL`
 * tragedy, `TRAPBLG KW-BG`
 * or `OR`
 * domestic `PHEFBG`
@@ -192,11 +200,12 @@
 * so `SO`
 * fond `TPOPBD`
 * that. `THA TP-PL`
+* Do `KPA/TKO`
 * know `TPHOE`
 * one?" `WUPB H-F KR-GS`
 * "I `KR-GS EU`
 * hundred," `HUPBD KW-BG KR-GS`
-* "Those `KR-GS THOZ`
+* "Those `KR-GS KPA/THOZ`
 * most `PHOFT`
 * favor `TPAEUFR`
 * from `TPR`
@@ -204,8 +213,9 @@
 * but `PWUT`
 * good `TKPWAOD`
 * girls. `TKPWEURLS TP-PL`
+* In `KPA/TPH`
 * meantime, `PHAO*EPB/TAOEUPL KW-BG`
-* Take `TAEUBG`
+* take `TAEUBG`
 * prettiest, `PRET/KWREFT KW-BG`
 * inside `TPH-DZ`
 * they're `THER`
@@ -215,7 +225,8 @@
 * I `EU`
 * shake `SHAEUBG`
 * pen! `PEPB SKHRAPL`
-* Cock-a-lorum! `KOBG H-PB AEU H-PB xxx lorum SKHRAPL`
+* Cock-a-lorum! `KPA/KOBG H-PB AEU H-PB xxx lorum SKHRAPL`
+* So `KPA/SO`
 * now, `TPHOU KW-BG`
 * here's `HAOERS`
 * play, `PHRAEU KW-BG`
@@ -228,36 +239,45 @@
 * read `RAED`
 * reading `RAEGD`
 * it: `T STPH-FPLT`
-* Pipe-head `PAOEUP H-PB HED`
-* HEAD `HED`
+* PIPE-HEAD `KPA/PAOEUP H-PB KPA/HED`
+* AND `KPA/SKP`
+* GOOD `KPA/TKPWAOD`
+* HEAD `KPA/HED`
 * A `KPA/AEU`
-* Family `TPAEPL`
-* Drama `TKRA/PHA`
-* characters `KRARS`
-* MR. `PH*P/R* TP-PL`
+* Family `KPA/TPAEPL`
+* Drama `KPA/TKRA/PHA`
+* Act `A*BGT`
+* CHARACTERS `KPA/KRARS`
+* MR. `xxx MR TP-PL`
+* PIPE-HEAD, `KPA/PAOEUP H-PB KPA/HED KW-BG`
 * father. `TPAER TP-PL`
-* WAISTCOAT, `WA*EUS/KOET KW-BG`
-* Miss `PHEUS`
-* Glove, `TKPWHROF KW-BG`
+* WAISTCOAT, `KPA/WA*EUS/KOET KW-BG`
+* Miss `KPA/PHEUS`
+* Glove, `KPA/TKPWHROF KW-BG`
 * daughter. `TKAUR TP-PL`
-* de `TK*E`
+* DE `KPA/TK*E`
+* Boots, `KPA/PWAOTS KW-BG`
 * suitor. `SAOU/TOR TP-PL`
+* "And `KR-GS AFPBD`
 * we're `WAOER`
 * going `TKPW-G`
 * begin. `TKPWEUPB TP-PL`
 * curtain `KUR/TAPB`
 * rises. `RAOEUZ/-Z TP-PL`
+* We `KPA/WE`
 * curtain, `KUR/TAPB KW-BG`
 * has `HAS`
 * risen `REUFPB`
 * already. `HR-R TP-PL`
+* All `KPA/AUL`
+* characters `KRARS`
 * there, `THR KW-BG`
 * them `THEPL`
 * hand. `HAPBD TP-PL`
 * speak `SPAOEBG`
 * Papa `PA/PA`
-* Pipe-head! `PAOEUP H-PB HED SKHRAPL`
-* He's `HE AES`
+* Pipe-head! `KPA/PAOEUP H-PB HED SKHRAPL`
+* He's `KPA/HE AES`
 * angry `APBG/REU`
 * to-day. `TO H-PB TKAEU TP-PL`
 * he's `HAOES`
@@ -269,29 +289,32 @@
 * bassellurre! `xxx bassellurre SKHRAPL`
 * I'm `AOEUPL`
 * master `PHAFRT`
-* This `TH`
+* this `TH`
 * house! `HOUS SKHRAPL`
 * daughter! `TKAUR SKHRAPL`
+* Will `W*EUL`
 * hear `HAER`
 * say? `SAEU H-F`
 * Mr. `PHR-FPLT`
-* Boots `PWAOTS`
+* de `TK*E`
+* Boots `KPA/PWAOTS`
 * person `PERPB`
 * one's `W*UPBS`
 * face; `TPAEUS STPH*FPLT`
 * his `HEUS`
 * upper `AOURP`
 * part `PART`
-* morocco, `PHORBG/KOE KW-BG`
+* morocco, `xxx morocco KW-BG`
 * bargain. `PWARG/AEUPB TP-PL`
 * Snikke, `xxx Snikke KW-BG`
 * snakke, `xxx snakke KW-BG`
 * snak! `xxx snak SKHRAPL`
+* He `KPA/HE`
 * daughter!" `TKAUR SKHRAPL KR-GS`
-* Waistcoat `WA*EUS/KOET`
+* Waistcoat `KPA/WA*EUS/KOET`
 * says, `SEZ KW-BG`
 * Anna," `APB/TPHA KW-BG KR-GS`
-* Waistcoat's `WA*EUS/KOET AES`
+* Waistcoat's `KPA/WA*EUS/KOET AES`
 * speaking. `SPAOEG TP-PL`
 * laydown `xxx laydown`
 * collar, `KHRAR KW-BG`
@@ -307,7 +330,7 @@
 * haven't `SR-PB`
 * spot `SPOT`
 * me! `PHE SKHRAPL`
-* Goodness `TKPWAOD/-PBS`
+* Goodness `KPA/TKPWAOD/-PBS`
 * material `TERL`
 * ought `OT`
 * appreciated. `PRAOERBD TP-PL`
@@ -316,7 +339,7 @@
 * silk, `S*EULG KW-BG`
 * strings `STREUPBGS`
 * me.' `PHE TP-PL AE`
-* "'—On `KR-GS AE EPL/TKA*RB OPB`
+* "'—On `KR-GS AE EPL/TKA*RB KPA/OPB`
 * wedding `WEGD`
 * day, `TKAEU KW-BG`
 * longer; `HRORPBG STPH*FPLT`
@@ -325,7 +348,9 @@
 * your `KWROUR`
 * color `KROR`
 * wash.' `WARB TP-PL AE`
-* Who `WHO`
+* This `KPA/TH`
+* Pipe-head `KPA/PAOEUP H-PB HED`
+* who `WHO`
 * 'Mr. `AE PH*P/R* TP-PL`
 * water-tight, `WAUR H-PB TAOEUT KW-BG`
 * strong `STROPBG`
@@ -343,46 +368,49 @@
 * charming `KHARPL/-G`
 * way `WAEU`
 * all." `AUL TP-PL KR-GS`
-* "They `KR-GS THE`
+* "They `KR-GS KPA/THE`
 * grandpapa; `xxx grandpapa STPH*FPLT`
 * public `PHREUBG`
 * demands `TKPHABDZ`
 * it, `T KW-BG`
 * talk `TAUBG`
 * way. `WAEU TP-PL`
-* just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * look `HRAOBG`
 * she's `SHAOES`
 * pointing `POEUPBGT`
 * fingers! `TPEURPBGS SKHRAPL`
-* "'Could `KR-GS AE KO`
+* "'Could `KR-GS AE KPA/KO`
 * love, `HRUF KW-BG`
+* Who `KPA/WHO`
 * happy `HAEP`
-* Glove! `TKPWHROF SKHRAPL`
-* Ah! `HA*E SKHRAPL`
+* Glove! `KPA/TKPWHROF SKHRAPL`
+* Ah! `KPA/HA*E SKHRAPL`
+* If `KPA/TP`
 * him `HEUPL`
 * part, `PART KW-BG`
 * sure `SHUR`
 * 'twill `AE TWEUL`
 * break `PWRAEBG`
 * heart!' `HART SKHRAPL AE`
-* 'Bah!' `AE PWA* SKHRAPL AE`
+* 'Bah!' `AE KPA/PWA* SKHRAPL AE`
 * last `HRAFT`
 * word `WORD`
 * was `WAS`
 * spoken `SPOEPB`
 * by `PWEU`
-* Pipe-head; `PAOEUP H-PB HED STPH*FPLT`
+* Pipe-head; `KPA/PAOEUP H-PB HED STPH*FPLT`
 * it's `T-S`
 * turn: `TURPB STPH-FPLT`
 * "'O `KR-GS AE O*P`
 * dear, `TKAER KW-BG`
-* Though `THOE`
+* Though `KPA/THOE`
 * cost `KOFT`
 * thee `THAOE`
 * tear, `TAER KW-BG`
-* Thou `THO*U`
+* Thou `KPA/THO*U`
 * mine, `PHAOEUPB KW-BG`
+* For `KPA/TPOR`
 * Holger `xxx Holger`
 * Danske `xxx Danske`
 * sworn `SWORPB`
@@ -399,14 +427,14 @@
 * "That's `KW-GS/KPA*/THATS`
 * exceedingly `EBGS/AOED/TKPWHREU`
 * charming!" `KHARPL/-G SKHRAPL KR-GS`
-* "Silence! `KR-GS SHREPBS SKHRAPL`
+* "Silence! `KR-GS KPA/SHREPBS SKHRAPL`
 * silence!" `SHREPBS SKHRAPL KR-GS`
-* "Silent `KR-GS SHREPBT`
+* "Silent `KR-GS KPA/SHREPBT`
 * approbation `ARP/PWAEUGS`
 * show `SHOE`
 * educated `TAEUBGTD`
 * stalls. `STAULS TP-PL`
-* Glove `TKPWHROF`
+* Glove `KPA/TKPWHROF`
 * sings `SEUPBGS`
 * great `TKPWRAET`
 * song `SOPBG`
@@ -438,12 +466,15 @@
 * genteel. `SKWREPB/TAOEL TP-PL`
 * driven `TKREUFPB`
 * extremities! `EBGS/TREPLTS SKHRAPL`
+* Take `KPA/TAEUBG`
 * care `KAEUR`
 * yourself! `KWRO*URS SKHRAPL`
 * plot! `PHROT SKHRAPL`
+* You `KPA/U`
+* Pipe-head, `KPA/PAOEUP H-PB HED KW-BG`
 * head—snap! `HED EPL/TKA*RB STPHAP SKHRAPL`
 * go!" `TKPW SKHRAPL KR-GS`
-* "Do `KR-GS TKO`
+* "Do `KR-GS KPA/TKO`
 * notice `TPH-TS`
 * Anna?" `APB/TPHA H-F KR-GS`
 * asked `SK-D`
@@ -451,7 +482,7 @@
 * seized `SAOEZ/-D`
 * pocket; `POBGT STPH*FPLT`
 * lies, `HRAO*EUS KW-BG`
-* "'You `KR-GS AE U`
+* "'You `KR-GS AE KPA/U`
 * come `KOPL`
 * out `OUT`
 * till `T*EUL`
@@ -465,23 +496,25 @@
 * awfully `AUF/HREU`
 * pretty," `PREUT KW-BG KR-GS`
 * replies: `RE/PHRAOEUS STPH-FPLT`
-* "'Though `KR-GS AE THOE`
+* "'Though `KR-GS AE KPA/THOE`
 * ear, `AOER KW-BG`
+* Very `KPA/SRE`
 * stupid `STAOUPD`
 * appear: `A/PAOER STPH-FPLT`
-* Where's `W-R AES`
+* Where's `KPA/W-R AES`
 * humor? `HAOURPL H-F`
-* Gone, `TKPWOPB KW-BG`
+* Gone, `KPA/TKPWOPB KW-BG`
 * fear, `TPAOER KW-BG`
 * feel `TPAOEL`
 * hollow `HOL/OE`
 * stick's `STEUBG AES`
 * here, `HAOER KW-BG`
 * never, `TPHEF KW-BG`
-* Did `TK`
+* Did `KPA/TK`
 * queer. `KWAOER TP-PL`
-* Oh! `O*E SKHRAPL`
+* Oh! `KPA/O*E SKHRAPL`
 * pray `PRAEU`
+* let `HRET`
 * out, `OUT KW-BG`
 * like `HRAOEUBG`
 * lamb `HRAPL`
@@ -489,22 +522,23 @@
 * slaughter `SHRAUR`
 * betroth `PWE/TRO*T`
 * doubt, `TKOUT KW-BG`
+* To `KPA/TO`
 * daughter.'" `TKAUR TP-PL AE KR-GS`
-* "Is `KR-GS S`
+* "Is `KR-GS KPA/S`
 * over `OEFR`
 * already?" `HR-R H-F KR-GS`
-* "By `KR-GS PWEU`
+* "By `KR-GS KPA/PWEU`
 * means," `PHAOEPBS KW-BG KR-GS`
-* Boots. `PWAOTS TP-PL`
+* Boots. `KPA/PWAOTS TP-PL`
 * lovers `HRUFRS`
 * kneel `TPHAOEL`
 * down, `TKOUPB KW-BG`
 * sings: `SEUPBGS STPH-FPLT`
-* "'Father!' `KR-GS AE TPAER SKHRAPL AE`
+* "'Father!' `KR-GS AE KPA/TPAER SKHRAPL AE`
 * other, `OER KW-BG`
-* 'Come, `AE KOPL KW-BG`
+* 'Come, `AE KPA/KOPL KW-BG`
 * do,— `TKO KW-BG EPL/TKA*RB`
-* Bless `PWRES`
+* Bless `KPA/PWRES`
 * son `SOPB`
 * daughter.' `TKAUR TP-PL AE`
 * receive `SAOEF`
@@ -525,9 +559,10 @@
 * call `KAUL`
 * too, `TAO KW-BG`
 * mahogany." `PHA/HOG/TPHEU TP-PL KR-GS`
+* just `SKWRUFT`
 * which `WEU`
 * theatre?" `THAO*ERT H-F KR-GS`
-* "Our `KR-GS OUR`
+* "Our `KR-GS KPA/OUR`
 * better," `PWOERT KW-BG KR-GS`
 * shorter, `SHORT/*ER KW-BG`
 * performers `PORPL/*ER/-S`

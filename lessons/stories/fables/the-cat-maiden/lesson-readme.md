@@ -1,6 +1,6 @@
 # The Cat-Maiden
 
-* the `-T`
+* The `KPA/-T`
 * gods `TKPWODZ`
 * were `WR`
 * once `WUPBS`
@@ -19,17 +19,18 @@
 * nature. `TPHAEURT TP-PL`
 * Jupiter `SKWRAOUP/TER`
 * said `SAEUD`
-* "Yes," `KR-GS KWRE KW-BG KR-GS`
+* "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * but `PWUT`
 * Venus `SRAO*EPBS`
-* "No." `KR-GS TPHO TP-PL KR-GS`
-* So, `SO KW-BG`
+* "No." `KR-GS KPA/TPHO TP-PL KR-GS`
+* So, `KPA/SO KW-BG`
 * try `TREU`
+* the `-T`
 * question, `KWE KW-BG`
 * turned `TURPBD`
-* Cat `KAT`
+* Cat `KPA/KAT`
 * into `TPHAO`
-* Maiden, `PHAEUD/EPB KW-BG`
+* Maiden, `KPA/PHAEUD/EPB KW-BG`
 * and `SKP`
 * gave `TKPWAEUF`
 * her `HER`
@@ -43,31 +44,31 @@
 * sat `SAT`
 * down `TKOUPB`
 * wedding-feast. `WEGD H-PB TPAOEFT TP-PL`
-* "See," `KR-GS SAOE KW-BG KR-GS`
+* "See," `KR-GS KPA/SAOE KW-BG KR-GS`
 * Jupiter, `SKWRAOUP/TER KW-BG`
 * Venus, `SRAO*EPBS KW-BG`
 * "how `KR-GS HOU`
 * becomingly `PW-BG/-G/HREU`
 * she `SHE`
 * behaves. `PWHAEUFS TP-PL`
-* Who `WHO`
+* Who `KPA/WHO`
 * could `KO`
 * tell `TEL`
 * that `THA`
 * yesterday `KWRED`
-* Cat? `KAT H-F`
-* Surely `SHURL`
+* Cat? `KPA/KAT H-F`
+* Surely `KPA/SHURL`
 * nature `TPHAEURT`
 * is `S`
 * changed?" `KHAEUPBGD H-F KR-GS`
-* "Wait `KR-GS WAEUT`
+* "Wait `KR-GS KPA/WAEUT`
 * minute," `PHEUPB KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * let `HRET`
 * loose `HRAOS`
 * mouse `PHOUS`
 * room. `RAOPL TP-PL`
-* No `TPHO`
+* No `KPA/TPHO`
 * sooner `SAORPB`
 * did `TK`
 * bride `PWRAOEUD`
@@ -82,9 +83,9 @@
 * pounce `POUPBS`
 * upon `POPB`
 * mouse. `PHOUS TP-PL`
-* "Ah, `KR-GS HA*E KW-BG`
+* "Ah, `KR-GS KPA/HA*E KW-BG`
 * you `U`
 * see," `SAOE KW-BG KR-GS`
-* "Nature `KR-GS TPHAEURT`
+* "Nature `KR-GS KPA/TPHAEURT`
 * will `HR`
 * out." `OUT TP-PL KR-GS`

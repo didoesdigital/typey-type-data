@@ -1,7 +1,7 @@
 # The Lion, the Fox, and the Beasts
 
-* the `-T`
-* Lion `HRO*EUPB`
+* The `KPA/-T`
+* Lion `KPA/HRO*EUPB`
 * once `WUPBS`
 * gave `TKPWAEUF`
 * out `OUT`
@@ -13,18 +13,19 @@
 * death `TK*T`
 * and `SKP`
 * summoned `SPHUPBD`
+* the `-T`
 * animals `PHAPBLS`
 * to `TO`
 * come `KOPL`
 * hear `HAER`
 * his `HEUS`
 * last `HRAFT`
-* Will `HR`
-* Testament. `TES/TAPLT TP-PL`
-* So `SO`
-* Goat `TKPWO*ET`
+* Will `W*EUL`
+* Testament. `TEFT/TPH-PL/*PLT TP-PL`
+* So `KPA/SO`
+* Goat `KPA/TKPWO*ET`
 * came `KAEUPL`
-* Lion's `HRO*EUPB AES`
+* Lion's `KPA/HRO*EUPB AES`
 * cave, `KAF KW-BG`
 * stopped `STOPD`
 * there `THR`
@@ -33,33 +34,33 @@
 * a `AEU`
 * long `HROPBG`
 * time. `TAOEUPL TP-PL`
-* Then `THEPB`
-* Sheep `SHAOEP`
+* Then `KPA/THEPB`
+* Sheep `KPA/SHAOEP`
 * went `WEPBT`
 * in, `TPH KW-BG`
 * before `PW-F`
 * she `SHE`
-* Calf `KA*FL`
+* Calf `KPA/KA*FL`
 * up `UP`
 * receive `SAOEF`
 * wishes `WEURBS`
 * of `-F`
-* Lord `HRORD`
-* Beasts. `PWAOEFT/-S TP-PL`
-* But `PWUT`
+* Lord `HRO*RD`
+* Beasts. `KPA/PWAOEFT/-S TP-PL`
+* But `KPA/PWUT`
 * soon `SAOPB`
 * seemed `SAOEPLD`
 * recover, `ROFR KW-BG`
 * mouth `PHO*UT`
 * saw `SAU`
-* Fox, `TPOBGS KW-BG`
+* Fox, `KPA/TPOBGS KW-BG`
 * who `WHO`
 * had `H`
 * been `PW-PB`
 * waiting `WAEUGT`
 * outside `OUDZ`
 * some `SOPL`
-* "Why `KR-GS KWR`
+* "Why `KR-GS KPA/KWR`
 * do `TKO`
 * you `U`
 * not `TPHOT`
@@ -68,10 +69,10 @@
 * respects `R-PTS`
 * me?" `PHE H-F KR-GS`
 * said `SAEUD`
-* Fox. `TPOBGS TP-PL`
+* Fox. `KPA/TPOBGS TP-PL`
 * "I `KR-GS EU`
 * beg `PWEG`
-* Majesty's `PHAPBLG/STEU AES`
+* Majesty's `KPA/PHAPBLG/STEU AES`
 * pardon," `PARD KW-BG KR-GS`
 * "but `KR-GS PWUT`
 * I `EU`
@@ -88,7 +89,7 @@
 * none `TPHOPB`
 * coming `KO*G`
 * out. `OUT TP-PL`
-* Till `T*EUL`
+* Till `KPA/T*EUL`
 * entered `SPWR-D`
 * cave `KAF`
 * again `TKPWEPB`
@@ -97,7 +98,7 @@
 * in `TPH`
 * open `OEP`
 * air." `AEUR TP-PL KR-GS`
-* It `T`
+* It `KPA/T`
 * is `S`
 * easier `AO*ERS`
 * get `TKPWET`

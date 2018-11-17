@@ -1,6 +1,6 @@
 # Clever Gretel
 
-* there `THR`
+* There `KPA/THR`
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
@@ -28,11 +28,12 @@
 * quite `KWAOEUT`
 * happy `HAEP`
 * thought: `THAUT STPH-FPLT`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * certainly `SERPBL`
 * are `R`
 * pretty `PREUT`
 * girl!' `TKPWEURL SKHRAPL AE`
+* And `AFPBD`
 * came `KAEUPL`
 * home `HOEPL`
 * drank, `TKRAPBG KW-BG`
@@ -50,21 +51,21 @@
 * to `TO`
 * eat, `AOET KW-BG`
 * tasted `TAEUFT/-D`
-* The `-T`
+* the `-T`
 * best `PWEFT`
 * whatever `WHAF`
 * cooking `KAOG`
 * until `TPH-L`
 * satisfied, `SAED KW-BG`
 * said: `SAEUD STPH-FPLT`
-* 'The `AE -T`
+* 'The `AE KPA/-T`
 * must `PHUFT`
 * know `TPHOE`
-* What `WHA`
+* what `WHA`
 * food `TPAOD`
 * is `S`
 * like.' `HRAOEUBG TP-PL AE`
-* it `T`
+* It `KPA/T`
 * pass `PAS`
 * that `THA`
 * master `PHAFRT`
@@ -73,6 +74,7 @@
 * said `SAEUD`
 * her: `HER STPH-FPLT`
 * 'Gretel, `AE TKPWRET/EL KW-BG`
+* there `THR`
 * guest `TKPWEFT`
 * coming `KO*G`
 * evening; `AOEPBG STPH*FPLT`
@@ -89,6 +91,7 @@
 * master,' `PHAFRT KW-BG AE`
 * answered `AEPBS/-D`
 * Gretel. `TKPWRET/EL TP-PL`
+* She `KPA/SHE`
 * killed `KEULD`
 * fowls, `TPO*UL/-S KW-BG`
 * scalded `SKAULD/-D`
@@ -102,9 +105,10 @@
 * set `SET`
 * before `PW-F`
 * fire, `TPAOEUR KW-BG`
-* They `THE`
+* they `THE`
 * might `PHAOEUT`
 * roast. `ROEFT TP-PL`
+* The `KPA/-T`
 * began `TKPWAPB`
 * turn `TURPB`
 * brown, `PWROUPB KW-BG`
@@ -116,17 +120,18 @@
 * not `TPHOT`
 * yet `KWRET`
 * arrived. `A/REUFD TP-PL`
-* Then `THEPB`
+* Then `KPA/THEPB`
 * Gretel `TKPWRET/EL`
 * called `KAULD`
 * master: `PHAFRT STPH-FPLT`
-* 'If `AE TP`
+* 'If `AE KPA/TP`
 * does `TKOS`
 * come, `KOPL KW-BG`
 * I `EU`
 * take `TAEUBG`
 * away `A/WAEU`
 * from `TPR`
+* it `T`
 * be `-B`
 * sin `SEUPB`
 * shame `SHAEUPL`
@@ -140,12 +145,13 @@
 * myself, `PHAO*EUS KW-BG`
 * fetch `TPEFP`
 * guest.' `TKPWEFT TP-PL AE`
+* When `KPA/WHEPB`
 * his `HEUS`
 * back, `PWABG KW-BG`
 * laid `HRAEUD`
 * spit `SPEUT`
 * side, `SAOEUD KW-BG`
-* 'Standing `AE STAPBG`
+* 'Standing `AE KPA/STAPBG`
 * so `SO`
 * long `HROPBG`
 * by `PWEU`
@@ -156,14 +162,14 @@
 * thirsty; `THEURS/TEU STPH*FPLT`
 * knows `TPHOEZ`
 * come? `KOPL H-F`
-* Meanwhile, `PHAOEPB/WHAOEUL KW-BG`
+* Meanwhile, `KPA/PHAOEPB/WHAOEUL KW-BG`
 * into `TPHAO`
 * cellar, `SEL/AR KW-BG`
 * drink.' `TKREU TP-PL AE`
 * ran `RAPB`
 * down, `TKOUPB KW-BG`
 * jug, `SKWRUG KW-BG`
-* 'God `AE TKPWOD`
+* 'God `AE TKPWO*D`
 * bless `PWRES`
 * for `TPOR`
 * you, `U KW-BG`
@@ -185,17 +191,18 @@
 * drove `TKROEF`
 * merrily `PHER/HREU`
 * round. `ROUPBD TP-PL`
+* But `KPA/PWUT`
 * roast `ROEFT`
 * meat `PHAET`
 * smelt `SPHELT`
 * good, `TKPWAOD KW-BG`
-* 'Something `AE S-G`
+* 'Something `AE KPA/S-G`
 * wrong, `WROPBG KW-BG`
 * ought `OT`
 * tasted!' `TAEUFT/-D SKHRAPL AE`
 * touched `TUFPD`
 * finger, `TPURPBG KW-BG`
-* 'Ah! `AE HA*E SKHRAPL`
+* 'Ah! `AE KPA/HA*E SKHRAPL`
 * how `HOU`
 * are! `R SKHRAPL`
 * right `RAOEUT`
@@ -206,13 +213,14 @@
 * no `TPHO`
 * one, `WUPB KW-BG`
 * back `PWABG`
-* 'One `AE WUPB`
+* 'One `AE KPA/WUPB`
 * wings `WEUPBGS`
 * burning! `PWURPBG SKHRAPL`
 * better `PWOERT`
 * off `OF`
 * eat `AOET`
 * it.' `T TP-PL AE`
+* So `KPA/SO`
 * cut `KUT`
 * off, `OF KW-BG`
 * ate `AEUT`
@@ -233,13 +241,14 @@
 * him. `HEUPL TP-PL`
 * suddenly `SULD`
 * occurred `KROEURD`
-* 'Who `AE WHO`
+* 'Who `AE KPA/WHO`
 * knows? `TPHOEZ H-F`
+* They `KPA/THE`
 * perhaps `PRAPS`
 * all, `AUL KW-BG`
 * have `SR`
 * somewhere.' `SWR TP-PL AE`
-* 'Well, `AE WEL KW-BG`
+* 'Well, `AE KPA/WEL KW-BG`
 * enjoy `TPHOEUPBLG`
 * yourself, `KWRO*URS KW-BG`
 * fowl `TPO*UL`
@@ -252,7 +261,7 @@
 * some `SOPL`
 * peace, `PAES KW-BG`
 * why `KWR`
-* God's `TKPWOD AES`
+* God's `TKPWO*D AES`
 * gifts `TKPWEUFTS`
 * spoilt?' `xxx spoilt H-F AE`
 * cellar `SEL/AR`
@@ -266,7 +275,7 @@
 * chickens `KHEU/KEPB/-S`
 * swallowed `SWAL/OED`
 * still `STEUL`
-* 'What `AE WHA`
+* 'What `AE KPA/WHA`
 * is, `S KW-BG`
 * likewise, `HRAOEUBG/WAOEUS KW-BG`
 * together; `TOGT STPH*FPLT`
@@ -280,21 +289,21 @@
 * second `SEBGD`
 * follow `TPOL`
 * first. `TPEUFRT TP-PL`
-* While `WHAOEUL`
+* While `KPA/WHAOEUL`
 * making `PHAEUG`
 * most `PHOFT`
 * cried: `KRAOEUD STPH-FPLT`
-* 'Hurry `AE HUR/REU`
+* 'Hurry `AE KPA/HUR/REU`
 * up, `UP KW-BG`
 * directly `TKREL`
 * after `AF`
 * me!' `PHE SKHRAPL AE`
-* 'Yes, `AE KWRE KW-BG`
+* 'Yes, `AE KPA/KWRE KW-BG`
 * sir, `SEUR KW-BG`
 * soon `SAOPB`
 * serve `SEFRB`
 * up,' `UP KW-BG AE`
-* Meantime `PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAO*EPB/TAOEUPL`
 * table `TAEUBL`
 * properly `PRORL`
 * laid, `HRAEUD KW-BG`
@@ -306,7 +315,7 @@
 * chickens, `KHEU/KEPB/-S KW-BG`
 * sharpened `SHARP/-PBD`
 * steps. `STEPS TP-PL`
-* Presently `PREPBLT`
+* Presently `KPA/PREPBLT`
 * came, `KAEUPL KW-BG`
 * knocked `TPHOBGD`
 * politely `PHRAOEUT/HREU`
@@ -315,7 +324,7 @@
 * ran, `RAPB KW-BG`
 * finger `TPURPBG`
 * lips `HREUPS`
-* 'Hush! `AE HURB SKHRAPL`
+* 'Hush! `AE KPA/HURB SKHRAPL`
 * hush! `HURB SKHRAPL`
 * quickly `KWEULG`
 * can, `K KW-BG`
@@ -328,7 +337,7 @@
 * intention `SPWEPBGS`
 * your `KWROUR`
 * ears. `AOERS TP-PL`
-* just `SKWRUFT`
+* Just `KPA/SKWRUFT`
 * listen `HREUFPB`
 * sharpening `SHARP/*EPB/-G`
 * knife `TPHAOEUF`
@@ -344,18 +353,20 @@
 * invited `EUPB/SRAOEUTD`
 * fine `TPAOEUPB`
 * guest!' `TKPWEFT SKHRAPL AE`
-* 'Why, `AE KWR KW-BG`
+* 'Why, `AE KPA/KWR KW-BG`
 * Gretel? `TKPWRET/EL H-F`
+* What `KPA/WHA`
 * mean `PHAOEPB`
 * that?' `THA H-F AE`
-* 'Yes,' `AE KWRE KW-BG AE`
+* 'Yes,' `AE KPA/KWRE KW-BG AE`
 * she, `SHE KW-BG`
 * 'he `AE HE`
 * taken `TAEPB`
 * which `WEU`
+* just `SKWRUFT`
 * dish, `TKEURB KW-BG`
 * them!' `THEPL SKHRAPL AE`
-* 'That's `AE THA AES`
+* 'That's `AE KPA/THA AES`
 * nice `TPHAOEUS`
 * trick!' `TREUBG SKHRAPL AE`
 * lamented `HRAPLT/-D`
@@ -363,13 +374,14 @@
 * left `HREFT`
 * remained `RE/PHAEUPBD`
 * eat.' `AOET TP-PL AE`
+* He `KPA/HE`
 * him `HEUPL`
 * stop, `STOP KW-BG`
 * pretended `PRE/TEPBD/-D`
 * hear. `HAER TP-PL`
 * hand, `HAPBD KW-BG`
 * crying: `KRAOEUG STPH-FPLT`
-* 'Just `AE SKWRUFT`
+* 'Just `AE KPA/SKWRUFT`
 * one,' `WUPB KW-BG AE`
 * meaning `PHAOEPBG`
 * leave `HREF`

@@ -27,28 +27,29 @@
 * back `PWABG`
 * for `TPOR`
 * her. `HER TP-PL`
-* the `-T`
+* The `KPA/-T`
 * eldest `ELD/EFT`
 * wished `WEURBD`
 * pearls; `PERLS STPH*FPLT`
+* the `-T`
 * second `SEBGD`
 * jewels; `SKWRAOULS STPH*FPLT`
 * third, `THEURD KW-BG`
 * called `KAULD`
-* Lily, `HREUL/KWREU KW-BG`
+* Lily, `KPA/HREUL/KWREU KW-BG`
 * said, `SAEUD KW-BG`
-* 'Dear `AE TKAER`
+* 'Dear `AE KPA/TKAER`
 * father, `TPAER KW-BG`
 * me `PHE`
-* rose.' `ROEZ TP-PL AE`
-* now `TPHOU`
+* rose.' `ROES TP-PL AE`
+* Now `KPA/TPHOU`
 * it `T`
 * no `TPHO`
 * easy `EZ`
 * task `TAFBG`
 * to `TO`
 * find `TPEUPBD`
-* rose, `ROEZ KW-BG`
+* rose, `ROES KW-BG`
 * middle `PH*EULD`
 * of `-F`
 * winter; `WEURPBT STPH*FPLT`
@@ -69,18 +70,19 @@
 * try `TREU`
 * could `KO`
 * do. `TKO TP-PL`
-* so `SO`
+* So `KPA/SO`
 * kissed `K*EUFD`
 * all `AUL`
 * three, `THRAOE KW-BG`
 * bid `PWEUD`
 * them `THEPL`
 * goodbye. `TKPW-B TP-PL`
-* When `WHEPB`
+* And `AFPBD`
+* when `WHEPB`
 * time `TAOEUPL`
 * came `KAEUPL`
 * him `HEUPL`
-* Go `TKPW`
+* go `TKPW`
 * home, `HOEPL KW-BG`
 * bought `PWAUT`
 * pearls `PERLS`
@@ -91,7 +93,7 @@
 * everywhere `WEFR`
 * in `TPH`
 * vain `SRA*EUPB`
-* rose; `ROEZ STPH*FPLT`
+* rose; `ROES STPH*FPLT`
 * into `TPHAO`
 * any `TPHEU`
 * garden `TKPWA*RPB`
@@ -106,10 +108,10 @@
 * roses `ROESZ`
 * grew `TKPWRAOU`
 * snow. `STPHOE TP-PL`
-* this `TH`
+* This `KPA/TH`
 * grieved `TKPWRAOEF/-D`
 * much, `PHUFP KW-BG`
-* Lily `HREUL/KWREU`
+* Lily `KPA/HREUL/KWREU`
 * dearest `TKAER/EFT`
 * child; `KHAOEULD STPH*FPLT`
 * journeying `SKWRURPB/EUG`
@@ -128,13 +130,14 @@
 * summer-time `SAOURPL H-PB TAOEUPL`
 * other `OER`
 * winter. `WEURPBT TP-PL`
-* on `OPB`
+* On `KPA/OPB`
 * side `SAOEUD`
 * finest `TPAOEUPB/EFT`
 * flowers `TPHRO*URS`
 * were `WR`
 * full `TPUL`
 * bloom, `PWHRAOPL KW-BG`
+* on `OPB`
 * everything `EFG`
 * looked `HRAOBGD`
 * dreary `TKRAOE/REU`
@@ -162,14 +165,14 @@
 * lion, `HRO*EUPB KW-BG`
 * roared `RAORD`
 * out, `OUT KW-BG`
-* 'Whoever `AE WHOFR`
+* 'Whoever `AE KPA/WHOFR`
 * has `HAS`
 * stolen `STOEL/EPB`
 * my `PHEU`
 * shall `SHAL`
 * eaten `AOET/EPB`
 * alive!' `A/HRAOEUF SKHRAPL AE`
-* then `THEPB`
+* Then `KPA/THEPB`
 * man `PHAPB`
 * 'I `AE EU`
 * knew `TPHAOU`
@@ -180,7 +183,7 @@
 * nothing `TPHOG`
 * save `SAF`
 * life?' `HRAOEUF H-F AE`
-* 'No!' `AE TPHO SKHRAPL AE`
+* 'No!' `AE KPA/TPHO SKHRAPL AE`
 * 'nothing, `AE TPHOG KW-BG`
 * unless `TPH-LS`
 * you `U`
@@ -197,12 +200,14 @@
 * I `EU`
 * will `HR`
 * life, `HRAOEUF KW-BG`
-* rose `ROEZ`
+* rose `ROES`
 * too `TAO`
 * daughter.' `TKAUR TP-PL AE`
+* But `KPA/PWUT`
 * unwilling `TPH-LG`
 * do `TKO`
-* 'It `AE T`
+* so `SO`
+* 'It `AE KPA/T`
 * may `PHAE`
 * youngest `KWRUPBG/EFT`
 * loves `HRUFS`
@@ -242,9 +247,10 @@
 * sorrowful, `SOR/ROEFL KW-BG`
 * weep, `WAOEP KW-BG`
 * saying, `SAEUG KW-BG`
-* 'Alas, `AE A/HRAS KW-BG`
+* 'Alas, `AE KPA/A/HRAS KW-BG`
 * child! `KHAOEULD SKHRAPL`
 * have `SR`
+* this `TH`
 * flower `TPHRO*UR`
 * high `HAOEU`
 * price, `PRAOEUS KW-BG`
@@ -281,7 +287,7 @@
 * an `APB`
 * enchanted `EPB/HAPBT/-D`
 * prince. `PREUPBS TP-PL`
-* by `PWEU`
+* By `KPA/PWEU`
 * day `TKAEU`
 * court `KORT`
 * lions, `HRAOEU/O*PBS KW-BG`
@@ -306,19 +312,21 @@
 * seen `SAOEPB`
 * soon `SAOPB`
 * came, `KAEUPL KW-BG`
+* then `THEPB`
 * held `HELD`
 * court; `KORT STPH*FPLT`
 * every `EF`
 * left `HREFT`
 * bride, `PWRAOEUD KW-BG`
+* by `PWEU`
 * himself, `H*EUPLS KW-BG`
 * whither, `WHEU/THER KW-BG`
 * till `T*EUL`
 * night `TPHAOEUT`
-* after `AF`
+* After `KPA/AF`
 * some `SOPL`
-* 'Tomorrow `AE TORPL`
-* There `THR`
+* 'Tomorrow `AE KPA/TORPL`
+* there `THR`
 * great `TKPWRAET`
 * feast `TPAOEFT`
 * father's `TPA*ER/AES`
@@ -348,6 +356,8 @@
 * was, `WAS KW-BG`
 * stayed `STAEUD`
 * over, `OEFR KW-BG`
+* Her `KPA/HER`
+* after `AF`
 * married, `PHAERD KW-BG`
 * wedding, `WEGD KW-BG`
 * prince, `PREUPBS KW-BG`
@@ -372,7 +382,7 @@
 * world `WORLD`
 * seven `SEFPB`
 * years. `KWRAOERS TP-PL`
-* However, `HOUF KW-BG`
+* However, `KPA/HOUF KW-BG`
 * gave `TKPWAEUF`
 * rest, `REFT KW-BG`
 * take `TAEUBG`
@@ -403,19 +413,21 @@
 * hall, `HAUL KW-BG`
 * small `SPHAL`
 * fell `TPEL`
+* In `KPA/TPH`
 * moment `PHOEPLT`
 * disappeared, `TKEUS/PAOERD KW-BG`
 * wife `WAOEUF`
 * found `TPOUPBD`
 * white `WHAOEUT`
 * dove; `TKOF STPH*FPLT`
-* 'Seven `AE SEFPB`
+* 'Seven `AE KPA/SEFPB`
 * years `KWRAOERS`
 * fly `TPHRAOEU`
 * down `TKOUPB`
 * over `OEFR`
 * face `TPAEUS`
 * earth, `*ERT KW-BG`
+* now `TPHOU`
 * feather, `TP*ET KW-BG`
 * show `SHOE`
 * am `APL`
@@ -432,7 +444,7 @@
 * fell, `TPEL KW-BG`
 * showed `SHOED`
 * journey. `SKWRURPB TP-PL`
-* Thus `THUS`
+* Thus `KPA/THUS`
 * roving `ROFG`
 * through `THRU`
 * wide `WAOEUD`
@@ -456,13 +468,13 @@
 * eyes `AO*EUS`
 * nowhere `TPHO/WR`
 * dove. `TKOF TP-PL`
-* 'Now,' `AE TPHOU KW-BG AE`
+* 'Now,' `AE KPA/TPHOU KW-BG AE`
 * herself, `H*ERS KW-BG`
 * 'no `AE TPHO`
 * aid `AEUD`
 * use `AOUS`
 * sun `SUPB`
-* 'Thou `AE THO*U`
+* 'Thou `AE KPA/THO*U`
 * shinest `SHEUPB/EFT`
 * everywhere, `WEFR KW-BG`
 * hill's `HEUL AES`
@@ -472,7 +484,7 @@
 * thou `THO*U`
 * anywhere `TPHEUR`
 * dove?' `TKOF H-F AE`
-* 'No,' `AE TPHO KW-BG AE`
+* 'No,' `AE KPA/TPHO KW-BG AE`
 * sun, `SUPB KW-BG`
 * it; `T STPH*FPLT`
 * thee `THAOE`
@@ -513,8 +525,8 @@
 * south `SOUT`
 * dove--he `TKOF H-PB H-PB HE`
 * fled `TPHRED`
-* Red `RED`
-* sea, `SAE KW-BG`
+* Red `KPA/RED`
+* Sea, `KPA/SAE KW-BG`
 * are `R`
 * away, `A/WAEU KW-BG`
 * fighting `TPAOEUGT`
@@ -524,7 +536,8 @@
 * seeks `SAOEBGS`
 * separate `SERPT`
 * counsel. `KOUPB TP-PL`
-* Sea; `SAE STPH*FPLT`
+* Go `KPA/TKPW`
+* Sea; `KPA/SAE STPH*FPLT`
 * shore `SHOR`
 * stand `STAPBD`
 * many `PHAEPB`
@@ -541,7 +554,7 @@
 * forms. `TPORPLS TP-PL`
 * look `HRAOBG`
 * round `ROUPBD`
-* Wilt `WEULT`
+* wilt `WEULT`
 * griffin, `TKPWREUFPB KW-BG`
 * winged `WEUPBGD`
 * like `HRAOEUBG`
@@ -558,7 +571,7 @@
 * nut,' `TPHUT KW-BG AE`
 * continued `T-PBD`
 * night-wind. `TPHAOEUT H-PB WEUPBD TP-PL`
-* 'When `AE WHEPB`
+* 'When `AE KPA/WHEPB`
 * half-way `HAF H-PB WAEU`
 * throw `THROE`
 * down, `TKOUPB KW-BG`
@@ -605,12 +618,13 @@
 * again `TKPWEPB`
 * forsaken `TPAUR/SA*EUPB`
 * forlorn; `TPAUR/HRORPB STPH*FPLT`
-* 'As `AE AZ`
+* 'As `AE KPA/AZ`
 * blows, `PWHROES KW-BG`
 * cock `KOBG`
 * crows, `KROE/-S KW-BG`
 * journey `SKWRURPB`
 * on, `OPB KW-BG`
+* She `KPA/SHE`
 * long, `HROPBG KW-BG`
 * way, `WAEU KW-BG`
 * length `HREPBG`
@@ -621,7 +635,7 @@
 * ready, `R-D KW-BG`
 * heard `HAERD`
 * held. `HELD TP-PL`
-* 'Heaven `AE HEFPB`
+* 'Heaven `AE KPA/HEFPB`
 * now!' `TPHOU SKHRAPL AE`
 * she; `SHE STPH*FPLT`
 * casket `KAFBGT`
@@ -637,24 +651,26 @@
 * pleased `PHRAOEFD`
 * bride `PWRAOEUD`
 * sold. `SOELD TP-PL`
-* 'Not `AE TPHOT`
+* 'Not `AE KPA/TPHOT`
 * gold `TKPWOELD`
 * silver.' `SEUL/SRER TP-PL AE`
 * she, `SHE KW-BG`
 * flesh `TPHRERB`
 * blood.' `PWHRAOD TP-PL AE`
 * meant, `PHEPBT KW-BG`
-* 'Let `AE HRET`
+* 'Let `AE KPA/HRET`
 * speak `SPAOEBG`
 * bridegroom `PWRAOEUD/TKPWRAOPL`
 * chamber, `KHAEURPL KW-BG`
 * dress.' `TKRES TP-PL AE`
+* At `KPA/AT`
 * agreed, `TKPWRAED KW-BG`
-* chamberlain `KHAPL/PWER/HREUPB`
+* chamberlain `KHAEURPL/TK-LS/HRAEUPB`
 * sleeping `SHRAOEPG`
 * draught, `TKRAUFT KW-BG`
 * might `PHAOEUT`
 * hear `HAER`
+* When `KPA/WHEPB`
 * fallen `TPAUL/-PB`
 * asleep, `A/HRAOEP KW-BG`
 * led `HRED`
@@ -668,6 +684,7 @@
 * helped `HEPD`
 * overcome `AUFR/KOPL`
 * dragon. `TKRAG/O*PB TP-PL`
+* Wilt `KPA/WEULT`
 * quite?' `KWAOEUT H-F AE`
 * slept `SHREPD`
 * soundly, `SOUPBD/HREU KW-BG`
@@ -724,7 +741,7 @@
 * wife's `WAOEUF/AES`
 * voice, `SROEUS KW-BG`
 * up, `UP KW-BG`
-* 'You `AE U`
+* 'You `AE KPA/U`
 * awakened `A/WAEUBG/-PBD`
 * dream, `TKRAOEPL KW-BG`
 * strange `STRAEUPBG`
@@ -733,7 +750,7 @@
 * me, `PHE KW-BG`
 * altogether `HR-GT`
 * forgotten `TPORGTD`
-* Heaven `HEFPB`
+* Heaven `KPA/HEFPB`
 * hath `HA*T`
 * sent `SEPBT`
 * hour.' `HOUR TP-PL AE`
@@ -742,15 +759,17 @@
 * unawares, `AUPB/WAOEUR/-S KW-BG`
 * seated `SAOETD`
 * themselves `TH*EPLS`
-* Sea. `SAE TP-PL`
+* Sea. `KPA/SAE TP-PL`
 * across `A/KROS`
 * nut `TPHUT`
 * water, `WAUR KW-BG`
 * arose `A/ROES`
+* sea, `SAE KW-BG`
 * whereon `WROPB`
 * rested `REFT/-D`
 * while, `WHAOEUL KW-BG`
 * safely `SAEUFL`
+* There `KPA/THR`
 * child, `KHAOEULD KW-BG`
 * grown `TKPWROEPB`
 * comely `KOPL/HREU`

@@ -1,8 +1,9 @@
 # The Jumper
 
+* The `KPA/-T`
+* Flea, `KPA/TPHRAE KW-BG`
 * the `-T`
-* Flea, `TPHRAE KW-BG`
-* Grasshopper, `TKPWHR*FRPBLG KW-BG`
+* Grasshopper, `KPA/TKPWHR*FRPBLG KW-BG`
 * and `SKP`
 * Skipjack `xxx Skipjack`
 * once `WUPBS`
@@ -25,6 +26,7 @@
 * come, `KOPL KW-BG`
 * grand `TKPWRAPBD`
 * sight. `SAOEUT TP-PL`
+* And `AFPBD`
 * there `THR`
 * three `THRAOE`
 * famous `TPAEUPLS`
@@ -34,7 +36,7 @@
 * together `TOGT`
 * in `TPH`
 * room. `RAOPL TP-PL`
-* "Yes, `KR-GS KWRE KW-BG`
+* "Yes, `KR-GS KPA/KWRE KW-BG`
 * I'll `AOEUL`
 * give `TKPWEUF`
 * my `PHEU`
@@ -44,21 +46,21 @@
 * jumps `SKWR*UPLS`
 * highest," `HAOEU/EFT KW-BG KR-GS`
 * said `SAEUD`
-* King, `KEUPBG KW-BG`
+* King, `KO*EUPBG KW-BG`
 * "for `KR-GS TPOR`
 * it `T`
 * be `-B`
 * mean `PHAOEPB`
-* Let `HRET`
+* let `HRET`
 * these `THEZ`
 * people `PAOEPL`
 * for `TPOR`
 * nothing." `TPHOG TP-PL KR-GS`
-* Flea `TPHRAE`
+* Flea `KPA/TPHRAE`
 * stepped `STEPD`
 * out `OUT`
 * first. `TPEUFRT TP-PL`
-* he `HE`
+* He `KPA/HE`
 * had `H`
 * very `SRE`
 * pretty `PREUT`
@@ -66,6 +68,7 @@
 * bowed `PWOE/-D`
 * all `AUL`
 * directions, `TKREBGS/-S KW-BG`
+* he `HE`
 * young `KWRUPBG`
 * ladies' `HRAEUD/KWREUS/AE`
 * blood `PWHRAOD`
@@ -81,9 +84,9 @@
 * that `THA`
 * great `TKPWRAET`
 * consequence. `KWEPBS TP-PL`
-* then `THEPB`
+* Then `KPA/THEPB`
 * came `KAEUPL`
-* Grasshopper: `TKPWHR*FRPBLG STPH-FPLT`
+* Grasshopper: `KPA/TKPWHR*FRPBLG STPH-FPLT`
 * certainly `SERPBL`
 * much `PHUFP`
 * heavier, `HEF/KWRER KW-BG`
@@ -96,7 +99,7 @@
 * uniform `KWRAOUFRPL`
 * born `PWORPB`
 * him. `HEUPL TP-PL`
-* this `TH`
+* This `KPA/TH`
 * person, `PERPB KW-BG`
 * moreover, `PHROEFR KW-BG`
 * maintained `PHAEUPB/TAEUPBD`
@@ -126,13 +129,14 @@
 * figures `TPEUGS`
 * turned `TURPBD`
 * inwards. `EUPB/WARD/-S TP-PL`
+* There `KPA/THR`
 * doors `TKAORS`
 * windows `WO*EUPBDZ`
 * house, `HOUS KW-BG`
 * cut `KUT`
 * body `PWO*ED`
-* Queen `KWAOEPB`
-* Hearts. `HARTS TP-PL`
+* Queen `KWAO*EPB`
+* Hearts. `KPA/HARTS TP-PL`
 * "I `KR-GS EU`
 * sing `SEUPBG`
 * so," `SO KW-BG KR-GS`
@@ -156,7 +160,7 @@
 * if `TP`
 * hear `HAER`
 * me." `PHE TP-PL KR-GS`
-* Both `PWO*T`
+* Both `KPA/PWO*T`
 * them, `THEPL KW-BG`
 * took `TAOBG`
 * care `KAEUR`
@@ -166,13 +170,13 @@
 * themselves `TH*EPLS`
 * entitled `SPWAOEUPBLTD`
 * marry `PHAER`
-* Princess. `PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/ES TP-PL`
 * nothing, `TPHOG KW-BG`
 * thought `THAUT`
 * more; `PHOR STPH*FPLT`
 * directly `TKREL`
-* Yard `KWRARD`
-* Dog `TKOG`
+* Yard `KPA/KWRARD`
+* Dog `KPA/TKOG`
 * smelt `SPHELT`
 * at `AT`
 * ready `R-D`
@@ -214,13 +218,13 @@
 * say `SAEU`
 * anything `TPHEUG`
 * more," `PHOR KW-BG KR-GS`
-* King. `KEUPBG TP-PL`
+* King. `KO*EUPBG TP-PL`
 * go `TKPW`
 * on `OPB`
 * quietly, `KWAO*EULT KW-BG`
 * think `THEU`
 * best." `PWEFT TP-PL KR-GS`
-* Now `TPHOU`
+* Now `KPA/TPHOU`
 * take `TAEUBG`
 * jump. `SKWRUFRP TP-PL`
 * sprang `SPRAPBG`
@@ -228,17 +232,19 @@
 * high `HAOEU`
 * no `TPHO`
 * him; `HEUPL STPH*FPLT`
+* then `THEPB`
 * asserted `A/SERT/-D`
 * jumped `SKWR*UPLD`
 * all. `AUL TP-PL`
+* That `KPA/THA`
 * mean. `PHAOEPB TP-PL`
-* Grasshopper `TKPWHR*FRPBLG`
+* Grasshopper `KPA/TKPWHR*FRPBLG`
 * half `HAF`
 * as `AZ`
 * straight `STRAEUT`
-* King's `KEUPBG AES`
+* King's `KO*EUPBG AES`
 * face, `TPAEUS KW-BG`
-* King `KEUPBG`
+* King `KO*EUPBG`
 * horribly `HOR/PWHREU`
 * rude. `RAOUD TP-PL`
 * stood `STAOD`
@@ -249,18 +255,18 @@
 * hope `HOEP`
 * he's `HAOES`
 * unwell," `xxx unwell KW-BG KR-GS`
-* Dog, `TKOG KW-BG`
+* Dog, `KPA/TKOG KW-BG`
 * again. `TKPWEPB TP-PL`
-* "Tap!" `KR-GS TAP SKHRAPL KR-GS`
+* "Tap!" `KR-GS KPA/TAP SKHRAPL KR-GS`
 * little `HREUL`
 * crooked `KRAOBGD`
 * lap `HRAP`
-* Princess, `PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/ES KW-BG`
 * sat `SAT`
 * low `HROE`
 * golden `TKOELD/*EPB`
 * stool. `STOL TP-PL`
-* "The `KR-GS -T`
+* "The `KR-GS KPA/-T`
 * highest `HAOEU/EFT`
 * leap `HRAOEP`
 * taken `TAEPB`
@@ -279,10 +285,11 @@
 * highest, `HAOEU/EFT KW-BG`
 * after `AF`
 * all," `AUL KW-BG KR-GS`
-* Flea. `TPHRAE TP-PL`
-* "But `KR-GS PWUT`
+* Flea. `KPA/TPHRAE TP-PL`
+* "But `KR-GS KPA/PWUT`
 * it's `T-S`
 * same. `SAEUPL TP-PL`
+* Let `KPA/HRET`
 * her `HER`
 * goose-bone `TKPWAOS H-PB PWOEPB`
 * its `EUTS`
@@ -291,6 +298,7 @@
 * bit `PWEUT`
 * stick. `STEUBG TP-PL`
 * I `EU`
+* this `TH`
 * world `WORLD`
 * is `S`
 * required `RAOEURD`
@@ -310,7 +318,7 @@
 * happened `HAPD`
 * world. `WORLD TP-PL`
 * too `TAO`
-* "Body `KR-GS PWO*ED`
+* "Body `KR-GS KPA/PWO*ED`
 * required! `RAOEURD SKHRAPL`
 * required!" `RAOEURD SKHRAPL KR-GS`
 * sang `SAPBG`

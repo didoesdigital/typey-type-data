@@ -1,7 +1,7 @@
 # The Hare and the Tortoise
 
-* the `-T`
-* Hare `HA*ER`
+* The `KPA/-T`
+* Hare `KPA/HA*ER`
 * was `WAS`
 * once `WUPBS`
 * boasting `PWOEFT/-G`
@@ -9,6 +9,7 @@
 * his `HEUS`
 * speed `SPAOED`
 * before `PW-F`
+* the `-T`
 * other `OER`
 * animals. `PHAPBLS TP-PL`
 * "I `KR-GS EU`
@@ -34,32 +35,32 @@
 * race `RAEUS`
 * with `W`
 * me." `PHE TP-PL KR-GS`
-* Tortoise `TOR/TOS`
+* Tortoise `KPA/TOR/TOS`
 * quietly, `KWAO*EULT KW-BG`
 * accept `SEP`
 * your `KWROUR`
 * challenge." `KHALG TP-PL KR-GS`
-* "That `KR-GS THA`
+* "That `KR-GS KPA/THA`
 * is `S`
 * a `AEU`
 * good `TKPWAOD`
 * joke," `SKWROEBG KW-BG KR-GS`
-* Hare; `HA*ER STPH*FPLT`
+* Hare; `KPA/HA*ER STPH*FPLT`
 * could `KO`
 * dance `TKAPBS`
 * round `ROUPBD`
 * you `U`
 * all `AUL`
 * way." `WAEU TP-PL KR-GS`
-* "Keep `KR-GS KAOEP`
+* "Keep `KR-GS KPA/KAOEP`
 * till `T*EUL`
 * you've `UF`
 * answered `AEPBS/-D`
-* Tortoise. `TOR/TOS TP-PL`
-* "Shall `KR-GS SHAL`
+* Tortoise. `KPA/TOR/TOS TP-PL`
+* "Shall `KR-GS KPA/SHAL`
 * we `WE`
 * race?" `RAEUS H-F KR-GS`
-* So `SO`
+* So `KPA/SO`
 * course `KORS`
 * fixed `TPEUFD`
 * and `SKP`
@@ -78,7 +79,7 @@
 * show `SHOE`
 * contempt `KAUPB/TEPLT`
 * for `TPOR`
-* Tortoise, `TOR/TOS KW-BG`
+* Tortoise, `KPA/TOR/TOS KW-BG`
 * lay `HRAEU`
 * down `TKOUPB`
 * nap. `TPHAP TP-PL`
@@ -101,8 +102,8 @@
 * time `TAOEUPL`
 * save `SAF`
 * race. `RAEUS TP-PL`
-* Then `THEPB`
-* Tortoise: `TOR/TOS STPH-FPLT`
-* "Plodding `KR-GS PHROD/-G`
+* Then `KPA/THEPB`
+* Tortoise: `KPA/TOR/TOS STPH-FPLT`
+* "Plodding `KR-GS xxx Plodding`
 * wins `WEUPBZ`
 * race." `RAEUS TP-PL KR-GS`
