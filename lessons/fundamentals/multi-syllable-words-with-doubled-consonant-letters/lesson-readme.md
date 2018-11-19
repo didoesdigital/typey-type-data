@@ -316,7 +316,7 @@
 * messenger `PHAEPBG`
 * mirror `PHROR`
 * sessions `SEGS/-S`
-* Jennifer `SKWREB/TPER`
+* Jennifer `SKWREPB/TPER`
 * Caribbean `KAR/PWAOEPB`
 * illegal `EUL/HRAOEL`
 * tomorrow `TORPL`

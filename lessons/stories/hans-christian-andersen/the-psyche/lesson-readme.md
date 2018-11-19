@@ -148,7 +148,7 @@
 * dwelt `TKWELT`
 * first `TPEUFRT`
 * sculptors, `SKAO*UFPS KW-BG`
-* Michael `PHAOEUBG/EL`
+* Michael `PHAOEUBG/*L`
 * Angelo. `APB/SKWRE/HROE TP-PL`
 * Even `KPA/AOEPB`
 * Pope `PO*EP`

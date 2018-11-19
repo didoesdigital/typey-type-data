@@ -1178,7 +1178,7 @@
 * thrown `THROEPB`
 * evidence `EFD`
 * distant `STKAPBT`
-* Michael `PHAOEUBG/EL`
+* Michael `PHAOEUBG/*L`
 * progress `PROG`
 * similar `SHRAR`
 * narrow `TPHO*EUR`

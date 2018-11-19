@@ -925,7 +925,7 @@
 * sort `SORT`
 * listings `HREUS/-GS`
 * models `PHO*LDZ`
-* Michael `PHAOEUBG/EL`
+* Michael `PHAOEUBG/*L`
 * known `TPHOEPB`
 * half `HAF`
 * cases `KAEUSZ`
@@ -3512,7 +3512,7 @@
 * gray `TKPWRAEU`
 * catalogue `KAT/HROG/A*U`
 * ea `*E/A*`
-* Jennifer `SKWREB/TPER`
+* Jennifer `SKWREPB/TPER`
 * Antonio `APB/TOPB/KWROE`
 * charged `KHARPBLD`
 * broad `PWRAOD`

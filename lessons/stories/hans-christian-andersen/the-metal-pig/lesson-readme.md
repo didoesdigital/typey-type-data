@@ -294,7 +294,7 @@
 * council-house `KUPB/SEUL H-PB HOUS`
 * transparent `TRAEUPBT`
 * pictures, `P*EUFPS KW-BG`
-* Michael `PHAOEUBG/EL`
+* Michael `PHAOEUBG/*L`
 * Angelo's `APB/SKWRE/HROE AES`
 * David `TAEUFD`
 * tossed `TOS/-D`

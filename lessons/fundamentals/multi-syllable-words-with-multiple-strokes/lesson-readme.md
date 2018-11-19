@@ -50,7 +50,6 @@
 * policies `POL/SEUS`
 * India `EUPBD/KWRA`
 * listings `HREUS/-GS`
-* Michael `PHAOEUBG/EL`
 * engineering `EPBG/TPHAOERG`
 * annual `APB/WAL`
 * hardware `HARD/WAEUR`
@@ -519,7 +518,7 @@
 * candidate `KAPBD/TKAT`
 * patent `PAT/EPBT`
 * sessions `SEGS/-S`
-* Jennifer `SKWREB/TPER`
+* Jennifer `SKWREPB/TPER`
 * Antonio `APB/TOPB/KWROE`
 * Taiwan `TAOEU/WAPB`
 * demo `TKEPL/OE`
