@@ -512,7 +512,7 @@
 * cart `KART`
 * staff `STAF`
 * articles `ARLS`
-* san `SAPB`
+* San `SAPB`
 * feedback `TPAOED/PWABG`
 * again `TKPWEPB`
 * play `PHRAEU`

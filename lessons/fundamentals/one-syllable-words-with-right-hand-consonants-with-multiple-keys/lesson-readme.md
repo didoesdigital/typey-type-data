@@ -28,7 +28,7 @@
 * team `TAEPL`
 * week `WAOEBG`
 * come `KOPL`
-* san `SAPB`
+* San `SAPB`
 * act `ABGT`
 * hand `HAPBD`
 * sun `SUPB`
