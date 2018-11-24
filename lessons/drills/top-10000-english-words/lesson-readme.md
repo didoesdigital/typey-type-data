@@ -1942,7 +1942,7 @@
 * particularly `PHRARL`
 * factors `TPARBGS`
 * coffee `KOF/AOE`
-* www `W/W/W`
+* www `W*/W*/W*`
 * settings `SEGTS`
 * cum `KR*/*U/PH*`
 * buyer `PWAOEUR`
@@ -2468,7 +2468,7 @@
 * sweet `SWAOET`
 * desk `TKEFBG`
 * criteria `KRAOERT`
-* pubmed `PUB/PHED`
+* PubMed `PUB/PHED`
 * Dave `TKAEUF`
 * Massachusetts `PHA*`
 * Diego `TKAOEG/TKPWOE`
