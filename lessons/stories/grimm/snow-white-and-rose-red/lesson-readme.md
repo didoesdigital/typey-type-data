@@ -578,7 +578,7 @@
 * tight `TAOEUT`
 * silly, `SEUL/HREU KW-BG`
 * sleek, `SHRAOEBG KW-BG`
-* milk-faced `PHE*ULG H-PB TPAEUFD`
+* milk-faced `PH*EULG H-PB TPAEUFD`
 * things `THEUPBGS`
 * laugh! `HRAF SKHRAPL`
 * Ugh! `KPA/UG SKHRAPL`

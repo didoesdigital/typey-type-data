@@ -356,7 +356,7 @@
 * behind `HEUPBD`
 * cow--keep `KO*U H-PB H-PB KAOEP`
 * company, `K-P KW-BG`
-* milk, `PHE*ULG KW-BG`
+* milk, `PH*EULG KW-BG`
 * butter, `PWAOURT KW-BG`
 * cheese, `KHAOES KW-BG`
 * every `EF`
@@ -412,9 +412,9 @@
 * it; `T STPH*FPLT`
 * am `APL`
 * thirsty `THEURS/TEU`
-* milk `PHE*ULG`
+* milk `PH*EULG`
 * drink `TKREU`
-* milk: `PHE*ULG STPH-FPLT`
+* milk: `PH*EULG STPH-FPLT`
 * wish `WEURB`
 * more?' `PHOR H-F AE`
 * When `KPA/WHEPB`

@@ -27,7 +27,7 @@
 * linked `HR*EUPBGD`
 * tank `TA*PBG`
 * lodge `HROPBLG`
-* milk `PHE*ULG`
+* milk `PH*EULG`
 * blank `PWRA*PBG`
 * bulk `PW*ULG`
 * stamps `STA*PLS`

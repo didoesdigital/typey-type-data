@@ -1892,7 +1892,7 @@
 * require `RAOEUR`
 * meat `PHAET`
 * whenever `WHEFR`
-* milk `PHE*ULG`
+* milk `PH*EULG`
 * dogs `TKOGS`
 * successful `SKEFL`
 * plants `PHRAPBTS`

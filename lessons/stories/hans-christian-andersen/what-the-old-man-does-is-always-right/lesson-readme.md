@@ -256,7 +256,7 @@
 * be. `-B TP-PL`
 * "She `KR-GS KPA/SHE`
 * gives `TKPWEUFS`
-* milk, `PHE*ULG KW-BG`
+* milk, `PH*EULG KW-BG`
 * am `APL`
 * certain," `SERPB KW-BG KR-GS`
 * himself. `H*EUPLS TP-PL`
@@ -666,7 +666,7 @@
 * enough `TPHUF`
 * pasture `PAS/KHUR`
 * Ewe's `KPA/AO*U AES`
-* milk `PHE*ULG`
+* milk `PH*EULG`
 * cheese, `KHAOES KW-BG`
 * woollen `WAOL/EPB/A*U`
 * jackets `SKWRABGTS`
