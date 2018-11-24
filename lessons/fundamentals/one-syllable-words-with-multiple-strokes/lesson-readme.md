@@ -102,7 +102,7 @@
 * sas `SA/-S`
 * mods `PHOD/-S`
 * craps `KRAP/-S`
-* phases `PHAEZ/-Z`
+* phases `TPAEUZ/-Z`
 * banned `PWAPB/-D`
 * diffs `TKEUF/-S`
 * boxed `PWOBGS/-D`

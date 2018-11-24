@@ -9029,7 +9029,7 @@
 * shark `SHARBG`
 * contributor `KROERBT`
 * demonstrates `TKEPL/STRAEUTS`
-* phases `PHAEZ/-Z`
+* phases `TPAEUZ/-Z`
 * grateful `TKPWRA*EUFL`
 * emerald `EPL/RALD`
 * gradually `TKPWRAD/WAEL`

@@ -8740,7 +8740,7 @@
 * maturity `PHAOURT`
 * surf `SRUF`
 * weed `WAO*ED`
-* phases `PHAEZ/-Z`
+* phases `TPAEUZ/-Z`
 * overcame `AUFR/KAEUPL`
 * womanhood `WOPL/HAOD`
 * envious `EPB/SROUS`
