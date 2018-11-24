@@ -9,7 +9,7 @@
 * market `PHARBGT`
 * carrying `KAERG`
 * her `HER`
-* milk `PHEULG`
+* milk `PHE*ULG`
 * in `TPH`
 * a `AEU`
 * Pail `KPA/PAEUL`
@@ -28,7 +28,7 @@
 * money `PHUPB`
 * get `TKPWET`
 * for `TPOR`
-* milk. `PHEULG TP-PL`
+* milk. `PHE*ULG TP-PL`
 * "I'll `KR-GS EU AE HR*/HR*`
 * buy `PWAOEU`
 * some `SOPL`

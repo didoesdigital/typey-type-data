@@ -74,7 +74,7 @@
 * old `OLD`
 * Ass `KPA/A*S`
 * drew `TKRAOU`
-* milk-maid's `PHEULG H-PB PHAEUD AES`
+* milk-maid's `PHE*ULG H-PB PHAEUD AES`
 * cart. `KART TP-PL`
 * This `KPA/TH`
 * stretch `STREFP`
@@ -399,7 +399,7 @@
 * believed `PWHREFD`
 * everything `EFG`
 * heard. `HAERD TP-PL`
-* milk-cart `PHEULG H-PB KART`
+* milk-cart `PHE*ULG H-PB KART`
 * edge `EPBG`
 * field-road, `TPAOELD H-PB RAOD KW-BG`
 * blooming `PWHRAOPL/-G`

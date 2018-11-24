@@ -262,7 +262,7 @@
 * making `PHAEUG`
 * good?' `TKPWAOD H-F AE`
 * 'In `AE KPA/TPH`
-* milk `PHEULG`
+* milk `PHE*ULG`
 * I'm `AOEUPL`
 * breaking `PWRAEG`
 * bread `PWRAED`

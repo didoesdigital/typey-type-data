@@ -675,7 +675,7 @@
 * fell `TPEL`
 * stool, `STOL KW-BG`
 * overset `xxx overset`
-* milk-pail. `PHEULG H-PB PAEUL TP-PL`
+* milk-pail. `PHE*ULG H-PB PAEUL TP-PL`
 * As `KPA/AZ`
 * pick `PEUBG`
 * dirt, `TKEURT KW-BG`

@@ -3566,7 +3566,7 @@
 * premier `PREPL/PHAOER`
 * tomorrow `TORPL`
 * purchased `PUFPD`
-* milk `PHEULG`
+* milk `PHE*ULG`
 * decide `STKAOEUD`
 * consent `KEFPBT`
 * drama `TKRA/PHA`

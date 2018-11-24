@@ -53,7 +53,7 @@
 * nuts, `TPHUTS KW-BG`
 * or `OR`
 * give `TKPWEUF`
-* milk, `PHEULG KW-BG`
+* milk, `PHE*ULG KW-BG`
 * like `HRAOEUBG`
 * hazel-bush, `HAEUZ/EL H-PB PWURB KW-BG`
 * sheep." `SHAOEP TP-PL KR-GS`
@@ -335,7 +335,7 @@
 * hazel `HAEUZ/EL`
 * bush `PWURB`
 * sheep `SHAOEP`
-* milk; `PHEULG STPH*FPLT`
+* milk; `PHE*ULG STPH*FPLT`
 * they `THE`
 * each `AOEFP`
 * public. `PHREUBG TP-PL`

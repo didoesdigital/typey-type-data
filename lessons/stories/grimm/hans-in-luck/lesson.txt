@@ -661,7 +661,7 @@ Hans in Luck
 'company,': K-P KW-BG
 'and': SKP
 'have': SR
-'milk,': PHEULG KW-BG
+'milk,': PHE*ULG KW-BG
 'butter,': PWAOURT KW-BG
 'and': SKP
 'cheese,': KHAOES KW-BG
@@ -809,13 +809,13 @@ Hans in Luck
 'thirsty': THEURS/TEU
 'I': EU
 'can': K
-'milk': PHEULG
+'milk': PHE*ULG
 'my': PHEU
 'cow': KO*U
 'and': SKP
 'drink': TKREU
 'the': -T
-'milk:': PHEULG STPH-FPLT
+'milk:': PHE*ULG STPH-FPLT
 'and': SKP
 'what': WHA
 'can': K
@@ -925,7 +925,7 @@ Hans in Luck
 ''now': AE TPHOU
 'I': EU
 'will': HR
-'milk': PHEULG
+'milk': PHE*ULG
 'my': PHEU
 'cow': KO*U
 'and': SKP
@@ -948,7 +948,7 @@ Hans in Luck
 'leathern': xxx leathern
 'cap': KAP
 'to': TO
-'milk': PHEULG
+'milk': PHE*ULG
 'into;': TPHAO STPH*FPLT
 'but': PWUT
 'not': TPHOT
@@ -970,7 +970,7 @@ Hans in Luck
 'to': TO
 'bring': PWREU
 'him': HEUPL
-'milk': PHEULG
+'milk': PHE*ULG
 'and': SKP
 'butter': PWAOURT
 'and': SKP
@@ -1076,7 +1076,7 @@ Hans in Luck
 'and': SKP
 'wanted': WAPBTD
 'to': TO
-'milk': PHEULG
+'milk': PHE*ULG
 'his': HEUS
 'cow,': KO*U KW-BG
 'but': PWUT
@@ -1107,7 +1107,7 @@ Hans in Luck
 'give': TKPWEUF
 'you': U
 'no': TPHO
-'milk:': PHEULG STPH-FPLT
+'milk:': PHE*ULG STPH-FPLT
 'don't': TKOEPBT
 'you': U
 'see': SAOE

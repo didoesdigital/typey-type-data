@@ -1096,9 +1096,9 @@
 * started `STARTD`
 * terror, `TER/O*R KW-BG`
 * fluttered `TPHRUT/ERD`
-* milk-pan, `PHEULG H-PB PAPB KW-BG`
+* milk-pan, `PHE*ULG H-PB PAPB KW-BG`
 * splashed `SPHRARBD`
-* milk `PHEULG`
+* milk `PHE*ULG`
 * room. `RAOPL TP-PL`
 * Then `KPA/THEPB`
 * woman `WOPL`

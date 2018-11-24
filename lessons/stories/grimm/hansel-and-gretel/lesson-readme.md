@@ -646,7 +646,7 @@
 * you.' `U TP-PL AE`
 * both `PWO*T`
 * food `TPAOD`
-* milk `PHEULG`
+* milk `PHE*ULG`
 * pancakes, `PAPB/KAEUBG/-S KW-BG`
 * sugar, `SHURG KW-BG`
 * apples, `APLS KW-BG`

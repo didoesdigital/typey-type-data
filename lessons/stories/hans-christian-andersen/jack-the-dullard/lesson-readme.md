@@ -163,7 +163,7 @@
 * about `PW`
 * laws `HRAUS`
 * received `SAOEFD`
-* milk-white `PHEULG H-PB WHAOEUT`
+* milk-white `PHE*ULG H-PB WHAOEUT`
 * steed. `STAOED TP-PL`
 * Then `KPA/THEPB`
 * rubbed `RUBD`

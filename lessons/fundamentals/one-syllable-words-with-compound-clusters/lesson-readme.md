@@ -35,7 +35,6 @@
 * legs `HREGS`
 * lodge `HROPBLG`
 * stocks `STOBGS`
-* milk `PHEULG`
 * tasks `TAFBGS`
 * blocks `PWHROBGS`
 * risks `REUFBGS`
