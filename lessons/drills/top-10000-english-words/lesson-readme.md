@@ -3960,7 +3960,7 @@
 * drinking `TKREUG`
 * blowjobs `PW*/HR*/O*/W*/SKWR*/O*/PW*/S*`
 * reaction `RAOEBGS`
-* blank `PWRA*PBG`
+* blank `PWHRA*PBG`
 * enhanced `EPB/HAPBS/-D`
 * entitled `SPWAOEUPBLTD`
 * severe `SWAOER`
@@ -9522,7 +9522,7 @@
 * controversial `KROERL`
 * draws `TKRAUS`
 * fridge `TPREUPBLG`
-* blanket `PWAPBGT`
+* blanket `PWHRAPBGT`
 * bloom `PWHRAOPL`
 * qc `KW*/KR*`
 * Simpsons `SEUFRP/SOPB/-S`

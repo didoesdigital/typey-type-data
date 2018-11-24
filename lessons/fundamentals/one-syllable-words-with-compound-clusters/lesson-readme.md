@@ -28,7 +28,7 @@
 * tank `TA*PBG`
 * lodge `HROPBLG`
 * milk `PH*EULG`
-* blank `PWRA*PBG`
+* blank `PWHRA*PBG`
 * bulk `PW*ULG`
 * stamps `STA*PLS`
 * ridge `REUPBLG`

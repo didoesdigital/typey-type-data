@@ -513,8 +513,8 @@
 * blanc `PWHRA*PB`
 * blanch `PWHRAFRPB`
 * bland `PWHRAPBD`
-* blank `PWRA*PBG`
-* blanket `PWAPBGT`
+* blank `PWHRA*PBG`
+* blanket `PWHRAPBGT`
 * blare `PWHRAER`
 * blaring `PWHRAEURPBG`
 * blast `PWRAFT`

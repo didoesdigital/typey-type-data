@@ -4251,7 +4251,7 @@
 * response `SPOPBS`
 * promoting `PROEPL/-G`
 * imperial `EUPL/PAOERL`
-* blank `PWRA*PBG`
+* blank `PWHRA*PBG`
 * purity `PAOURT`
 * victor `SREUBG/TOR`
 * bending `PWEPBGD`
@@ -5936,7 +5936,7 @@
 * accounted `K-TD`
 * aided `AEUD/-D`
 * Augustus `AUG/KWRUS`
-* blanket `PWAPBGT`
+* blanket `PWHRAPBGT`
 * hail `HAEUL`
 * pretence `PRE/TEPBS/A*U`
 * beams `PWAOEPLS`
