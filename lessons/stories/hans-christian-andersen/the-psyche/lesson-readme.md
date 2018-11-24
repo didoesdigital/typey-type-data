@@ -562,7 +562,7 @@
 * noble. `TPHOEBL TP-PL`
 * A `KPA/AEU`
 * new `TPHU`
-* era `E/RA`
+* era `ER/KWRA`
 * arisen `A/RAOEUZ/-D`
 * poor `PAOR`
 * studio. `STOEUD TP-PL`

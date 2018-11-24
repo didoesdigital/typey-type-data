@@ -707,7 +707,7 @@
 * scientists `SAOEUPB/TEUFTS`
 * blackjack `PWHRABG/SKWRABG`
 * Argentina `ARG/TAOEPB/TPHA`
-* era `E/RA`
+* era `ER/KWRA`
 * analyst `APBL/EUFT`
 * reliability `RE/HREUBLT`
 * respectively `R-PT/EUFL`

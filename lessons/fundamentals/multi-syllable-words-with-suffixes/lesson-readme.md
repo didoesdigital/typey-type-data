@@ -227,6 +227,7 @@
 * voltage `SRALT/APBLG`
 * imaging `EUPBLG/-G`
 * betting `PWET/-G`
+* era `ER/KWRA`
 * respectively `R-PT/EUFL`
 * desktops `TKEFBG/TOP/-S`
 * vacations `SRAEU/KAEUGS/-S`

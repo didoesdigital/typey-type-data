@@ -5646,7 +5646,7 @@
 * professed `PROF/ES/-D`
 * dirt `TKEURT`
 * ascertained `AS/TAEUPBD`
-* era `E/RA`
+* era `ER/KWRA`
 * wider `WAO*EURD`
 * ambassador `APL/PWAS/TKOR`
 * constituted `STAOUTD`

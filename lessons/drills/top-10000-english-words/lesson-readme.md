@@ -4172,7 +4172,7 @@
 * Wyoming `WEUFPLT`
 * blackjack `PWHRABG/SKWRABG`
 * Argentina `ARG/TAOEPB/TPHA`
-* era `E/RA`
+* era `ER/KWRA`
 * convert `KWERT`
 * possibility `POBT`
 * analyst `APBL/EUFT`
