@@ -111,7 +111,7 @@
 * bras `PWRA/-S`
 * Moses `PHOES/ES`
 * cakes `KAEUBG/-S`
-* abu `AB/SKWRU`
+* Abu `AB/SKWRU`
 * titled `TAOEUT/*LD`
 * mails `PHAEUL/-S`
 * oaks `OEBG/-S`

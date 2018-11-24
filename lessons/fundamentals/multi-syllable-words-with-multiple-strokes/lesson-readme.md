@@ -2716,7 +2716,7 @@
 * complimentary `KPHREUPLT/REU`
 * helicopter `HEL/KOP/TER`
 * pencil `PEPB/SEUL`
-* abu `AB/SKWRU`
+* Abu `AB/SKWRU`
 * commissions `KPHEUGS/-S`
 * powerseller `POUR/TK-LS/SERL`
 * concord `KOPB/KORD`

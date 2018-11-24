@@ -889,7 +889,7 @@
 * portraits `POR/TRAT/-S`
 * evaluations `AOE/SRAL/WAEUGS/-S`
 * complimentary `KPHREUPLT/REU`
-* abu `AB/SKWRU`
+* Abu `AB/SKWRU`
 * commissions `KPHEUGS/-S`
 * endorsed `EPB/TKORS/-D`
 * Italia `EUT/AL/KWRA`

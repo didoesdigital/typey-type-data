@@ -9445,7 +9445,7 @@
 * freeze `TPRAOEZ`
 * hk `H*/K*`
 * performer `PORPL/*ER`
-* abu `AB/SKWRU`
+* Abu `AB/SKWRU`
 * titled `TAOEUT/*LD`
 * commissions `KPHEUGS/-S`
 * sphere `STPAOER`
