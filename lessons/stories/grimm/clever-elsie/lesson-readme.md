@@ -372,7 +372,7 @@
 * first? `TPEUFRT H-F`
 * Oh, `KPA/O*E KW-BG`
 * first.' `TPEUFRT TP-PL AE`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * cup `KUP`
 * fully `TPHRAOUL`
 * satisfied, `SAED KW-BG`

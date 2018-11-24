@@ -230,7 +230,7 @@
 * put `PUT`
 * shining `SHAOEUPBG`
 * snout `STPHOUT`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * deep `TKAOEP`
 * draughts `TKRAUFTS`
 * water. `WAUR TP-PL`

@@ -208,7 +208,7 @@
 * beer `PWAOER`
 * become `PW-BG`
 * ate `AEUT`
-* drank, `TKRAPBG KW-BG`
+* drank, `TKRA*PBG KW-BG`
 * after `AF`
 * 'Since `AE KPA/SEUPBS`
 * heart, `HART KW-BG`
@@ -467,7 +467,7 @@
 * over `OEFR`
 * huge `HAOUPBLG`
 * barrels, `PWARLS KW-BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * till `T*EUL`
 * loins `HROEUPB/-S`
 * hurt, `HURT KW-BG`

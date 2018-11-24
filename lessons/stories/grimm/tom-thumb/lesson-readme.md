@@ -752,7 +752,7 @@
 * night `TPHAOEUT`
 * kitchen, `K-FP KW-BG`
 * ate `AEUT`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * heart's `HART AES`
 * content. `KAUPBT TP-PL`
 * enough `TPHUF`

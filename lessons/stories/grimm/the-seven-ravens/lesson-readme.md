@@ -364,7 +364,7 @@
 * ate `AEUT`
 * piece, `PAOES KW-BG`
 * glass `TKPWHRAS`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * drop; `TKROP STPH*FPLT`
 * glass. `TKPWHRAS TP-PL`
 * On `KPA/OPB`

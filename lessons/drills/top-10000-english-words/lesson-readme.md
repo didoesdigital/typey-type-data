@@ -3960,7 +3960,7 @@
 * drinking `TKREUG`
 * blowjobs `PW*/HR*/O*/W*/SKWR*/O*/PW*/S*`
 * reaction `RAOEBGS`
-* blank `PWHRAPBG`
+* blank `PWRA*PBG`
 * enhanced `EPB/HAPBS/-D`
 * entitled `SPWAOEUPBLTD`
 * severe `SWAOER`

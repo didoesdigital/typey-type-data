@@ -273,7 +273,7 @@
 * piece `PAOES`
 * each `AOEFP`
 * loaf `HROEF`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * glass; `TKPWHRAS STPH*FPLT`
 * after `AF`
 * lie `HRAOEU`

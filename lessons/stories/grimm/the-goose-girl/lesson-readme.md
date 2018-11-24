@@ -183,7 +183,7 @@
 * so `SO`
 * thirsty `THEURS/TEU`
 * knelt `TPHELT`
-* drank; `TKRAPBG STPH*FPLT`
+* drank; `TKRA*PBG STPH*FPLT`
 * frightened, `TPRAOEUPBD KW-BG`
 * dared `TKAEURD`
 * bring `PWREU`
@@ -628,7 +628,7 @@
 * brilliant `PWREULT`
 * dress `TKRES`
 * eaten `AOET/EPB`
-* drank, `TKRAPBG KW-BG`
+* drank, `TKRA*PBG KW-BG`
 * merry, `PHER/REU KW-BG`
 * tale. `TAEL TP-PL`
 * began, `TKPWAPB KW-BG`

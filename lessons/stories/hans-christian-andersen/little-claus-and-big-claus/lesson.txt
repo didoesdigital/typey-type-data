@@ -1295,7 +1295,7 @@ Little Claus and Big Claus
 'and': SKP
 'the': -T
 'farmer': TPAR/PHER
-'drank': TKRAPBG
+'drank': TKRA*PBG
 'it': T
 'till': T*EUL
 'he': HE
@@ -1592,7 +1592,7 @@ Little Claus and Big Claus
 'they': THE
 'sat': SAT
 'and': SKP
-'drank': TKRAPBG
+'drank': TKRA*PBG
 'till': T*EUL
 'far': TPAR
 'into': TPHAO

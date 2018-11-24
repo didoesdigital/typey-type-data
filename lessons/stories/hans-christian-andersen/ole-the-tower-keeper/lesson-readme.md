@@ -1313,7 +1313,7 @@
 * gold `TKPWOELD`
 * arbor. `AR/PWOR TP-PL`
 * lounged `HROUPB/-PBLGD`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * spiced `SPAOEUS/-D`
 * draught `TKRAUFT`
 * here, `HAOER KW-BG`

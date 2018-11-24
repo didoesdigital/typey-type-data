@@ -1175,7 +1175,7 @@
 * see. `SAOE TP-PL`
 * distinctly `TKEUS/TEUPBGT/HREU`
 * parachute, `PRA/SHAOUT KW-BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * health `H*ELT`
 * spectators `SPEBG/TAEUT/O*RS`
 * doing `TK*G`

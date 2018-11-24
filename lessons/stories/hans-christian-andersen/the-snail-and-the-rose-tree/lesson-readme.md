@@ -236,7 +236,7 @@
 * air `AEUR`
 * refreshed `RERB/-D`
 * me; `PHE STPH*FPLT`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * dew `TKAO*U`
 * invigorating `EUPB/SREUG/RAEUT/-G`
 * rain. `RAEUPB TP-PL`

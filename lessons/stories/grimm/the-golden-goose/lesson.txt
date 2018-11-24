@@ -456,7 +456,7 @@ The Golden Goose
 'they': THE
 'ate': AEUT
 'and': SKP
-'drank,': TKRAPBG KW-BG
+'drank,': TKRA*PBG KW-BG
 'and': SKP
 'after': AF
 'that': THA
@@ -1212,9 +1212,9 @@ The Golden Goose
 'huge': HAOUPBLG
 'barrels,': PWARLS KW-BG
 'and': SKP
-'drank': TKRAPBG
+'drank': TKRA*PBG
 'and': SKP
-'drank': TKRAPBG
+'drank': TKRA*PBG
 'till': T*EUL
 'his': HEUS
 'loins': HROEUPB/-S

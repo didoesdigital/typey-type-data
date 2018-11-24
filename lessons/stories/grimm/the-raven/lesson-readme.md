@@ -249,7 +249,7 @@
 * allowed `HRO*UD`
 * himself `H*EUPLS`
 * persuaded, `PER/SWAEUD/-D KW-BG`
-* drank. `TKRAPBG TP-PL`
+* drank. `TKRA*PBG TP-PL`
 * towards `TORDZ`
 * appointed `POEUPBD`
 * hour, `HOUR KW-BG`
@@ -321,7 +321,7 @@
 * something, `S-G KW-BG`
 * lifted `HREUFTD`
 * glass `TKPWHRAS`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * again. `TKPWEPB TP-PL`
 * Towards `KPA/TORDZ`
 * He `KPA/HE`

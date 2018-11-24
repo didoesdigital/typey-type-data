@@ -783,7 +783,7 @@
 * skin `SKEUPB`
 * it; `T STPH*FPLT`
 * ate `AEUT`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * wine `WAOEUPB`
 * brought, `PWRAUT KW-BG`
 * revived, `RE/SRAOEUFD KW-BG`

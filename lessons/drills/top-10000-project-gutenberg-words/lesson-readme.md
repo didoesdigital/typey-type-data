@@ -2789,7 +2789,7 @@
 * offering `OFG`
 * display `TKPHRAEU`
 * strain `STRAEUPB`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * confined `KAUPB/TPAOEUPBD`
 * o `O*`
 * exhausted `KPAUFTD`
@@ -4251,7 +4251,7 @@
 * response `SPOPBS`
 * promoting `PROEPL/-G`
 * imperial `EUPL/PAOERL`
-* blank `PWHRAPBG`
+* blank `PWRA*PBG`
 * purity `PAOURT`
 * victor `SREUBG/TOR`
 * bending `PWEPBGD`

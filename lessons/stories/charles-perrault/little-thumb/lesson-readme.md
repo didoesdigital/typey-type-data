@@ -791,7 +791,7 @@
 * wherewithal `W-R/W/AUL`
 * treat `TRAOET`
 * friends. `TPREPBDZ TP-PL`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * dozen `TKOZ`
 * glasses `TKPWHRAFS`
 * ordinary, `OERD KW-BG`

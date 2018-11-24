@@ -405,7 +405,7 @@
 * our `OUR`
 * glasses `TKPWHRAFS`
 * together `TOGT`
-* drank. `TKRAPBG TP-PL`
+* drank. `TKRA*PBG TP-PL`
 * There `KPA/THR`
 * magic `PHAPBLG/EUBG`
 * most `PHOFT`
@@ -453,7 +453,7 @@
 * life, `HRAOEUF KW-BG`
 * company. `K-P TP-PL`
 * We `KPA/WE`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * success, `SKES KW-BG`
 * glasses. `TKPWHRAFS TP-PL`
 * Then `KPA/THEPB`

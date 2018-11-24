@@ -45,7 +45,7 @@
 * well `WEL`
 * he `HE`
 * ate `AEUT`
-* drank, `TKRAPBG KW-BG`
+* drank, `TKRA*PBG KW-BG`
 * his `HEUS`
 * heart `HART`
 * desired `STKAOEURD`

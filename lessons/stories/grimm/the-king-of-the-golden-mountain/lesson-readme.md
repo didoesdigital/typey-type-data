@@ -776,7 +776,7 @@
 * glass `TKPWHRAS`
 * wine `WAOEUPB`
 * handed `HAPBD/-D`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * thus, `THUS KW-BG`
 * though `THOE`
 * kept `KEPT`

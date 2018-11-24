@@ -949,7 +949,7 @@
 * marry. `PHAER TP-PL`
 * made `PHAED`
 * speeches `SPAOEFPS`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * toasts, `TOEFTS KW-BG`
 * tipped `TEUPD`
 * glasses, `TKPWHRAFS KW-BG`

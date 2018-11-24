@@ -524,7 +524,7 @@
 * rain. `RAEUPB TP-PL`
 * sucked `SUBGD`
 * food, `TPAOD KW-BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * dew `TKAO*U`
 * morning. `PHORPBG TP-PL`
 * So `KPA/SO`
@@ -898,7 +898,7 @@
 * swallow `SWO*EUL`
 * flower-leaf, `TPHRO*UR H-PB HRAOEF KW-BG`
 * after `AF`
-* drank, `TKRAPBG KW-BG`
+* drank, `TKRA*PBG KW-BG`
 * wounded `WOUPBD/-D`
 * thorn-bush, `THORPB H-PB PWURB KW-BG`
 * fast `TPAFT`

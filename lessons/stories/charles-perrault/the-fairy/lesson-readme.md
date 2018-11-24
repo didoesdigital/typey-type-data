@@ -140,7 +140,7 @@
 * good `TKPWAOD`
 * woman `WOPL`
 * having `SR-G`
-* drank, `TKRAPBG KW-BG`
+* drank, `TKRA*PBG KW-BG`
 * her: `HER STPH-FPLT`
 * "You `KR-GS KPA/U`
 * are `R`

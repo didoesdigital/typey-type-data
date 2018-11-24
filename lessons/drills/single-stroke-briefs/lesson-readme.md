@@ -513,7 +513,7 @@
 * blanc `PWHRA*PB`
 * blanch `PWHRAFRPB`
 * bland `PWHRAPBD`
-* blank `PWHRAPBG`
+* blank `PWRA*PBG`
 * blanket `PWAPBGT`
 * blare `PWHRAER`
 * blaring `PWHRAEURPBG`
@@ -2086,7 +2086,7 @@
 * drake `TKRAEUBG`
 * dram `TKRAPL`
 * dramatic `TKRA*BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * drape `TKRAEUP`
 * draped `TKRAEUPD`
 * draping `TKRAEUPG`

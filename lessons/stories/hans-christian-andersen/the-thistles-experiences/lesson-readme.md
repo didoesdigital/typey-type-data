@@ -350,7 +350,7 @@
 * attained. `A/TAEUPBD TP-PL`
 * much `PHUFP`
 * less `HRES`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * sunlight `SULGT`
 * air; `AEUR STPH*FPLT`
 * lived `HREUFD`

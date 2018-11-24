@@ -632,7 +632,7 @@
 * seeing `SAOEG`
 * possessed, `POS/ES/-D KW-BG`
 * after `AF`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * five `TPEUF`
 * six `SEUBGS`
 * glasses: `TKPWHRAFS STPH-FPLT`

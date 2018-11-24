@@ -250,7 +250,7 @@
 * place'; `PHRAEUS AE STPH*FPLT`
 * smart `SPHART`
 * ate `AEUT`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * ease, `AOES KW-BG`
 * forgot `TPAURGT`
 * bird, `PWEURD KW-BG`

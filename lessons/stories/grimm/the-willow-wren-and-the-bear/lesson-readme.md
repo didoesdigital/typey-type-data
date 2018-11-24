@@ -421,7 +421,7 @@
 * sat `SAT`
 * together `TOGT`
 * ate `AEUT`
-* drank, `TKRAPBG KW-BG`
+* drank, `TKRA*PBG KW-BG`
 * made `PHAED`
 * merry `PHER/REU`
 * till `T*EUL`

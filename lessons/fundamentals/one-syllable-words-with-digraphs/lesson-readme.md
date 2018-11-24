@@ -138,7 +138,6 @@
 * Dutch `TKUFP`
 * threat `THRET`
 * strange `STRAEUPBG`
-* blank `PWHRAPBG`
 * marked `PHARBGD`
 * bang `PWAPBG`
 * wing `WEUPBG`
@@ -306,7 +305,6 @@
 * wretched `KREFPD`
 * slipped `SHREUPD`
 * sang `SAPBG`
-* drank `TKRAPBG`
 * rang `RAPBG`
 * grasp `TKPWRAFP`
 * they're `THER`

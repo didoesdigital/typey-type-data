@@ -369,7 +369,7 @@
 * feathers `TP*ET/ERS`
 * birds `PWEURDZ`
 * mountain. `PHOUPB/TAEUPB TP-PL`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * together `TOGT`
 * waters `WAURS`
 * dwelt `TKWELT`

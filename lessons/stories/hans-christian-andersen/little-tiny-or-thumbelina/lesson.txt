@@ -1385,7 +1385,7 @@ Little Tiny or Thumbelina
 'for': TPOR
 'food,': TPAOD KW-BG
 'and': SKP
-'drank': TKRAPBG
+'drank': TKRA*PBG
 'the': -T
 'dew': TKAO*U
 'from': TPR
@@ -2698,7 +2698,7 @@ Little Tiny or Thumbelina
 'after': AF
 'he': HE
 'had': H
-'drank,': TKRAPBG KW-BG
+'drank,': TKRA*PBG KW-BG
 'he': HE
 'told': TOLD
 'her': HER

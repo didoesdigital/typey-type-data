@@ -235,7 +235,7 @@
 * from `TPR`
 * pocket, `POBGT KW-BG`
 * lips, `HREUPS KW-BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * little. `HREUL TP-PL`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * how `HOU`

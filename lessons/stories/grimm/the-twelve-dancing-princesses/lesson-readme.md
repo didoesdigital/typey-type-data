@@ -475,7 +475,7 @@
 * set `SET`
 * by `PWEU`
 * her, `HER KW-BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * mouth `PHO*UT`
 * empty. `EPLT TP-PL`
 * At `KPA/AT`

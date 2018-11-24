@@ -282,7 +282,7 @@
 * played `PHRAEUD`
 * fool `TPAOL`
 * admirably, `AD/PHEUR/PWHREU KW-BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * mead `PHAO*ED`
 * spirit-glasses, `SPEURT H-PB TKPWHRAFS KW-BG`
 * then `THEPB`

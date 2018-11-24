@@ -818,11 +818,11 @@
 * sat; `SAT STPH*FPLT`
 * startled `START/-LD`
 * alarmed `A/HRARPLD`
-* remember `REB`
+* remember `RER`
 * dreamed, `TKREPLD KW-BG`
 * dreadful. `TKRED/*FL TP-PL`
 * They `KPA/THE`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * their `THAEUR`
 * chat `KHAT`
 * together, `TOGT KW-BG`

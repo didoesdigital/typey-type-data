@@ -115,7 +115,7 @@
 * made `PHAED`
 * cheer `KHAOER`
 * hall `HAUL`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * wine `WAOEUPB`
 * ale `AEL`
 * out `OUT`

@@ -518,7 +518,7 @@
 * bring `PWREU`
 * also, `HR-S KW-BG`
 * hidden, `HEUD/EPB KW-BG`
-* drank `TKRAPBG`
+* drank `TKRA*PBG`
 * merry. `PHER/REU TP-PL`
 * liked `HRAOEUBGD`
 * such `SUFP`

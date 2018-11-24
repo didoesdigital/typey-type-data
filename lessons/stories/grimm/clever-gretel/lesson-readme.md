@@ -36,7 +36,7 @@
 * And `AFPBD`
 * came `KAEUPL`
 * home `HOEPL`
-* drank, `TKRAPBG KW-BG`
+* drank, `TKRA*PBG KW-BG`
 * in `TPH`
 * her `HER`
 * gladness `TKPWHRAD/-PBS`
