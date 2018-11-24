@@ -109,7 +109,7 @@
 * sea, `SAE KW-BG`
 * ships `SHEUPS`
 * sailed `SAEULD`
-* under `*UPBD`
+* under `TPH-PB`
 * shadow `SHO*EUD`
 * branches. `PWRAFPBS TP-PL`
 * these `THEZ`
@@ -1002,7 +1002,7 @@
 * stared `STAERD`
 * face `TPAEUS`
 * "Do `KR-GS KPA/TKO`
-* remember `REB`
+* remember `RER`
 * this?" `TH H-F KR-GS`
 * recollect `REBGT`
 * that?" `THA H-F KR-GS`
@@ -1075,7 +1075,7 @@
 * sung `SUPBG`
 * quiet `KWAO*EUT`
 * churchyard, `KH*URPBLG/KWRARD KW-BG`
-* roses `ROESZ`
+* roses `ROES/-S`
 * grow, `TKPWROE KW-BG`
 * elder-tree `ELD/ER H-PB TRAOE`
 * wafts `WAFT/-S`

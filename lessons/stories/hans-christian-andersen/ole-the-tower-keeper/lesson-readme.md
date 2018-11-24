@@ -246,7 +246,7 @@
 * reproduce `RE/PROU`
 * words `WORDZ`
 * whenever `WHEFR`
-* remember `REB`
+* remember `RER`
 * them. `THEPL TP-PL`
 * FIRST `*URP/TPEURS`
 * VISIT `*URP/SREUFT`
@@ -1071,7 +1071,7 @@
 * favorable `TPAEUFRBL`
 * sport. `SPORT TP-PL`
 * crept `KREPT`
-* under `*UPBD`
+* under `TPH-PB`
 * straw, `STRAU KW-BG`
 * bit `PWEUT`
 * ragged `RAGD`

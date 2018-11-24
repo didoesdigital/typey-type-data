@@ -162,7 +162,7 @@
 * unlucky `UPB/HRUBG/KWREU`
 * went, `WEPBT KW-BG`
 * soon `SAOPB`
-* rose `ROES`
+* rose `ROEZ`
 * from `TPR`
 * hid `HEUD`
 * herself `H*ERS`
@@ -487,7 +487,7 @@
 * officers, `OEUFRS KW-BG`
 * stewards, `STAOURDZ KW-BG`
 * cooks, `KAOBGS KW-BG`
-* under-cooks, `*UPBD H-PB KAOBGS KW-BG`
+* under-cooks, `TPH-PB H-PB KAOBGS KW-BG`
 * scullions, `xxx scullions KW-BG`
 * guards, `TKPWARDZ KW-BG`
 * beef-eaters, `PWAOEF H-PB xxx eaters KW-BG`

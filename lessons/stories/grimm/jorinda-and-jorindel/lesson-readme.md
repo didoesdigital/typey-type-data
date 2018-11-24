@@ -213,7 +213,7 @@
 * knowing `TPHOEG`
 * it, `T KW-BG`
 * close `KHROES`
-* under `*UPBD`
+* under `TPH-PB`
 * walls `WAULS`
 * Then `KPA/THEPB`
 * shrank `SHRA*PBG`

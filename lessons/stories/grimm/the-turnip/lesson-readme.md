@@ -340,7 +340,7 @@
 * sack `SABG`
 * saw `SAU`
 * passing `PAFG`
-* under `*UPBD`
+* under `TPH-PB`
 * cried `KRAOEUD`
 * out, `OUT KW-BG`
 * 'Good `AE KPA/TKPWAOD`

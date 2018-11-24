@@ -114,7 +114,7 @@
 * yours `KWROURS`
 * - `H-PB`
 * your `KWROUR`
-* hulking `HULG/-G`
+* hulking `H*ULG/-G`
 * son?" `SOPB H-F KR-GS`
 * off `OF`
 * tried `TRAOEUD`

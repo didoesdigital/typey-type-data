@@ -393,7 +393,7 @@
 * give `TKPWEUF`
 * ears, `AOERS KW-BG`
 * burning `PWURPBG`
-* under `*UPBD`
+* under `TPH-PB`
 * him, `HEUPL KW-BG`
 * order `ORD`
 * both `PWO*T`

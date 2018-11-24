@@ -418,7 +418,7 @@
 * beam `PWAEPL`
 * ends. `EPDZ TP-PL`
 * rock, `ROBG KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * depths `TK*EPTS`
 * sank `SA*PBG`
 * once, `WUPBS KW-BG`

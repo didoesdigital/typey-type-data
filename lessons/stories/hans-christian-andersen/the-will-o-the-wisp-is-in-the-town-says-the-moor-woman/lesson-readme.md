@@ -354,7 +354,7 @@
 * tulips, `TAOU/HREUPS KW-BG`
 * yellow `KWREL/OE`
 * edges, `EPBLGS KW-BG`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * beaming `PWAEPL/-G`
 * camellia. `KA/PHAOEL/KWRA TP-PL`
 * sunshine `SUPB/SHAO*EUPB`
@@ -447,7 +447,7 @@
 * trees `TRAOES`
 * garden, `TKPWA*RPB KW-BG`
 * thinking `THEUG`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * Here `KPA/HAOER`
 * bees `PWAOES`
 * are `R`

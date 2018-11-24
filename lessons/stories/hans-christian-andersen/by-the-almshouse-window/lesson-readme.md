@@ -20,7 +20,7 @@
 * us `US`
 * from `TPR`
 * long `HROPBG`
-* rows `RO*EZ`
+* rows `ROES`
 * of `-F`
 * windows `WO*EUPBDZ`
 * in `TPH`

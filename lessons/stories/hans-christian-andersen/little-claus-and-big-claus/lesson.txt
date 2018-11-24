@@ -147,7 +147,7 @@ Little Claus and Big Claus
 'with': W
 'their': THAEUR
 'prayer-books': PRAEUR H-PB PWAOBGS
-'under': *UPBD
+'under': TPH-PB
 'their': THAEUR
 'arms.': ARPLS TP-PL
 'They': KPA/THE
@@ -1061,7 +1061,7 @@ Little Claus and Big Claus
 'in': TPH
 'the': -T
 'oven.': OEFPB TP-PL
-'Under': KPA/*UPBD
+'Under': KPA/TPH-PB
 'the': -T
 'table,': TAEUBL KW-BG
 'at': AT
@@ -1102,7 +1102,7 @@ Little Claus and Big Claus
 'on': OPB
 'the': -T
 'sack': SABG
-'under': *UPBD
+'under': TPH-PB
 'the': -T
 'table,': TAEUBL KW-BG
 'and': SKP
@@ -1207,7 +1207,7 @@ Little Claus and Big Claus
 'by': PWEU
 'the': -T
 'wizard': SA*RD
-'under': *UPBD
+'under': TPH-PB
 'the': -T
 'table.': TAEUBL TP-PL
 'The': KPA/-T
@@ -4252,7 +4252,7 @@ Little Claus and Big Claus
 'Great': KPA/TKPWRAET
 'Claus;': xxx Claus STPH*FPLT
 '"but': KR-GS PWUT
-'remember,': REB KW-BG
+'remember,': RER KW-BG
 'if': TP
 'I': EU
 'do': TKO

@@ -66,7 +66,7 @@
 * prince's `PREUPBS AES`
 * father `TPAER`
 * grew `TKPWRAOU`
-* rose-tree, `ROES H-PB TRAOE KW-BG`
+* rose-tree, `ROEZ H-PB TRAOE KW-BG`
 * most `PHOFT`
 * beautiful `PWAOUFL`
 * its `EUTS`
@@ -81,10 +81,10 @@
 * had `H`
 * one `WUPB`
 * single `SEUPBLG`
-* rose `ROES`
+* rose `ROEZ`
 * it, `T KW-BG`
 * what `WHA`
-* rose! `ROES SKHRAPL`
+* rose! `ROEZ SKHRAPL`
 * such `SUFP`
 * sweet `SWAOET`
 * scent `SKEPBT`
@@ -152,7 +152,7 @@
 * cat," `KAT KW-BG KR-GS`
 * said. `SAEUD TP-PL`
 * But `KPA/PWUT`
-* rose-tree `ROES H-PB TRAOE`
+* rose-tree `ROEZ H-PB TRAOE`
 * unpacked. `UPB/PABGD TP-PL`
 * "Oh, `KR-GS KPA/O*E KW-BG`
 * how `HOU`
@@ -279,7 +279,7 @@
 * I `EU`
 * vacancy, `SRAEUBG/SEU KW-BG`
 * will `HR`
-* remember `REB`
+* remember `RER`
 * you. `U TP-PL`
 * wait `WAEUT`
 * moment; `PHOEPLT STPH*FPLT`
@@ -340,7 +340,7 @@
 * That `KPA/THA`
 * indeed `TPHAOEPBD`
 * remarkable `RARBG/-BL`
-* rose. `ROES TP-PL`
+* rose. `ROEZ TP-PL`
 * When `KPA/WHEPB`
 * passed `PAFD`
 * by `PWEU`
@@ -505,7 +505,7 @@
 * day; `TKAEU STPH*FPLT`
 * remainder `RAEURPBD`
 * nonsense," `TPHOPB/SEPBS KW-BG KR-GS`
-* Remember `KPA/REB`
+* Remember `KPA/RER`
 * food `TPAOD`
 * employment." `PHROEUPLT TP-PL KR-GS`
 * And `AFPBD`

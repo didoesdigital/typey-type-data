@@ -62,7 +62,7 @@
 * One `KPA/WUPB`
 * winter's `WEURPBT AES`
 * stood `STAOD`
-* under `*UPBD`
+* under `TPH-PB`
 * tree `TRAOE`
 * peel `PAOEL`
 * apples, `APLS KW-BG`
@@ -532,7 +532,7 @@
 * fire `TPAOEUR`
 * flew `TPHRAOU`
 * bird, `PWEURD KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * high `HAOEU`
 * air, `AEUR KW-BG`
 * singing `SEUPBG/-G`

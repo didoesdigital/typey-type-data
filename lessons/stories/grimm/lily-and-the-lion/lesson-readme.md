@@ -41,7 +41,7 @@
 * 'Dear `AE KPA/TKAER`
 * father, `TPAER KW-BG`
 * me `PHE`
-* rose.' `ROES TP-PL AE`
+* rose.' `ROEZ TP-PL AE`
 * Now `KPA/TPHOU`
 * it `T`
 * no `TPHO`
@@ -49,7 +49,7 @@
 * task `TAFBG`
 * to `TO`
 * find `TPEUPBD`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * middle `PH*EULD`
 * of `-F`
 * winter; `WEURPBT STPH*FPLT`
@@ -93,7 +93,7 @@
 * everywhere `WEFR`
 * in `TPH`
 * vain `SRA*EUPB`
-* rose; `ROES STPH*FPLT`
+* rose; `ROEZ STPH*FPLT`
 * into `TPHAO`
 * any `TPHEU`
 * garden `TKPWA*RPB`
@@ -105,7 +105,7 @@
 * him, `HEUPL KW-BG`
 * whether `WHR`
 * thought `THAUT`
-* roses `ROESZ`
+* roses `ROES/-S`
 * grew `TKPWRAOU`
 * snow. `STPHOE TP-PL`
 * This `KPA/TH`
@@ -200,7 +200,7 @@
 * I `EU`
 * will `HR`
 * life, `HRAOEUF KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * too `TAO`
 * daughter.' `TKAUR TP-PL AE`
 * But `KPA/PWUT`
@@ -512,7 +512,7 @@
 * voice `SROEUS`
 * blowest `PWHROE/EFT`
 * tree `TRAOE`
-* under `*UPBD`
+* under `TPH-PB`
 * leaf--hast `HRAOEF H-PB H-PB HA*FT`
 * night-wind, `TPHAOEUT H-PB WEUPBD KW-BG`
 * 'but `AE PWUT`

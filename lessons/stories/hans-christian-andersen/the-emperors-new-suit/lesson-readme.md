@@ -543,7 +543,7 @@
 * hands; `HAPBDZ STPH*FPLT`
 * anything. `TPHEUG TP-PL`
 * marched `PHAFRPBD`
-* under `*UPBD`
+* under `TPH-PB`
 * street `STRAOET`
 * windows `WO*EUPBDZ`
 * exclaimed: `SKHRAEUPL/-D STPH-FPLT`

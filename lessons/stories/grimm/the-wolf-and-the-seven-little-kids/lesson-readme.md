@@ -226,7 +226,7 @@
 * hide `HAOEUD`
 * themselves. `TH*EPLS TP-PL`
 * sprang `SPRAPBG`
-* under `*UPBD`
+* under `TPH-PB`
 * table, `TAEUBL KW-BG`
 * second `SEBGD`
 * bed, `PWED KW-BG`

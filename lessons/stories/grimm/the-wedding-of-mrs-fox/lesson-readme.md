@@ -33,7 +33,7 @@
 * stretched `STREFPD`
 * himself `H*EUPLS`
 * out `OUT`
-* under `*UPBD`
+* under `TPH-PB`
 * bench, `PWEFRPB KW-BG`
 * did `TK`
 * move `PHOF`

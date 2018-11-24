@@ -535,7 +535,7 @@
 * down `TKOUPB`
 * cheeks. `KHAOEBGS TP-PL`
 * last `HRAFT`
-* rose `ROES`
+* rose `ROEZ`
 * "Let `KR-GS KPA/HRET`
 * Christian;" `KREUGS STPH*FPLT KR-GS`
 * law, `HRAU KW-BG`
@@ -716,7 +716,7 @@
 * ill; `EUL STPH*FPLT`
 * limbs `HREUPLS`
 * tottered `xxx tottered`
-* under `*UPBD`
+* under `TPH-PB`
 * sank `SA*PBG`
 * fainting `TPAEUPBT/-G`
 * bedside `PWED/SAOEUD`

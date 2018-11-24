@@ -224,7 +224,7 @@
 * And `AFPBD`
 * looked `HRAOBGD`
 * lid `HREUD`
-* rose `ROES`
+* rose `ROEZ`
 * up `UP`
 * gradually, `TKPWRAD/WAEL KW-BG`
 * sprang `SPRAPBG`
@@ -307,7 +307,7 @@
 * an `APB`
 * humble `UPL/-BL`
 * yard; `KWRARD STPH*FPLT`
-* under `*UPBD`
+* under `TPH-PB`
 * two `TWO`
 * people `PAOEPL`
 * afternoon `AFPB`
@@ -323,7 +323,7 @@
 * their `THAEUR`
 * golden `TKOELD/*EPB`
 * wedding, `WEGD KW-BG`
-* remember `REB`
+* remember `RER`
 * date, `TKAEUT KW-BG`
 * sitting `SEUGT`
 * pleased `PHRAOEFD`
@@ -339,7 +339,7 @@
 * bygone `PW*EU/TKPWOPB`
 * days. `TKAEUS TP-PL`
 * "'Well, `KR-GS AE KPA/WEL KW-BG`
-* remember?' `REB H-F AE`
+* remember?' `RER H-F AE`
 * 'when `AE WHEPB`
 * small `SPHAL`
 * run `RUPB`
@@ -772,7 +772,7 @@
 * flight `TPHRAOEUT`
 * sweetly; `SWAOET/HREU STPH*FPLT`
 * noticed `TPH-TSD`
-* roses `ROESZ`
+* roses `ROES/-S`
 * beeches, `PWAOEFP/-S KW-BG`
 * much `PHUFP`
 * stronger, `STRORPBG KW-BG`
@@ -822,7 +822,7 @@
 * hedges. `HEPBL/-S TP-PL`
 * evening `AOEPBG`
 * moon `PHAOPB`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * round, `ROUPBD KW-BG`
 * hayricks `xxx hayricks`
 * meadows `PHED/OES`

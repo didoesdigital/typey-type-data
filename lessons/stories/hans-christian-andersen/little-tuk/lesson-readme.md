@@ -178,7 +178,7 @@
 * want `WAPBT`
 * put `PUT`
 * book `PWAOBG`
-* under `*UPBD`
+* under `TPH-PB`
 * pillow, `PEUL/OE KW-BG`
 * heard `HAERD`
 * this `TH`
@@ -315,7 +315,7 @@
 * Morning `KPA/PHORPBG`
 * dawned, `TKAUPBD KW-BG`
 * sun `SUPB`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * whole `WHOEL`
 * city `STEU`
 * sank `SA*PBG`
@@ -415,7 +415,7 @@
 * my `PHEU`
 * gates `TKPWAETS`
 * lovely `HROFL`
-* roses `ROESZ`
+* roses `ROES/-S`
 * bloom." `PWHRAOPL TP-PL KR-GS`
 * confusion `KAUFGS`
 * colors, `KHRORS KW-BG`
@@ -638,7 +638,7 @@
 * awaking. `A/WAEUBG/-G TP-PL`
 * bright `PWRAOEUT`
 * daylight, `TKAEULT KW-BG`
-* remember `REB`
+* remember `RER`
 * dream, `TKRAOEPL KW-BG`
 * necessary, `TPHES KW-BG`
 * what `WHA`

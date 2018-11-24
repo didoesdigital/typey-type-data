@@ -56,7 +56,7 @@
 * whose `WHOZ`
 * rocky `ROBG/KEU`
 * walls `WAULS`
-* rose `ROES`
+* rose `ROEZ`
 * perpendicular `PERP/KHRAR`
 * height, `HAOEUT KW-BG`
 * naked `TPHAEUBGD`
@@ -121,7 +121,7 @@
 * well `WEL`
 * I `EU`
 * can `K`
-* remember `REB`
+* remember `RER`
 * every `EF`
 * that `THA`
 * deep, `TKAOEP KW-BG`
@@ -283,7 +283,7 @@
 * blade. `PWHRAEUD TP-PL`
 * This `KPA/TH`
 * brought, `PWRAUT KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * his `HEUS`
 * sheep-skin `SHAOEP H-PB SKEUPB`
 * cloak, `KHROEBG KW-BG`
@@ -594,7 +594,7 @@
 * floor `TPHRAOR`
 * coffin `KOFPB`
 * filled `TPEULD`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * Lord `HRO*RD`
 * Jesus `SKWRAOES/US`
 * Christ `KRAOEUFT`
@@ -872,7 +872,7 @@
 * have `SR`
 * seen `SAOEPB`
 * bud `PWUD`
-* rose-bush `ROES H-PB PWURB`
+* rose-bush `ROEZ H-PB PWURB`
 * gradually, `TKPWRAD/WAEL KW-BG`
 * course `KORS`
 * weeks, `WAOEBGS KW-BG`
@@ -957,7 +957,7 @@
 * customs `KUFPLS`
 * Greeks." `TKPWRAOEBGS TP-PL KR-GS`
 * blushed `PWHRURB/-D`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * miles `PHAOEULS`
 * cottage, `KOT/APBLG KW-BG`
 * where `W-R`

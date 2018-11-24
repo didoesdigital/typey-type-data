@@ -166,7 +166,7 @@
 * fiddler, `TPEUD/HRER KW-BG`
 * began `TKPWAPB`
 * play `PHRAEU`
-* under `*UPBD`
+* under `TPH-PB`
 * window `WOEUPBD`
 * beg `PWEG`
 * alms; `AUPLS STPH*FPLT`

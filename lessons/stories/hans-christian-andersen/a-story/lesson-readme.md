@@ -160,7 +160,7 @@
 * sulphur `SUL/TPER/A*U`
 * flame, `TPHRAEUPL KW-BG`
 * ground `TKPWROUPBD`
-* under `*UPBD`
+* under `TPH-PB`
 * feet; `TPAOET STPH*FPLT`
 * they, `THE KW-BG`
 * wicked `WEUBGD`
@@ -559,11 +559,11 @@
 * slept `SHREPD`
 * side, `SAOEUD KW-BG`
 * long `HROPBG`
-* rows. `RO*EZ TP-PL`
+* rows. `ROES TP-PL`
 * Like `KPA/HRAOEUBG`
 * ferocious `TPROERBS`
 * animal, `PHAPBL KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * sleep `SHRAOEP`
 * uttered `UT/ERD`
 * horrible `HORBL`
@@ -625,7 +625,7 @@
 * burnt `PWURPBT`
 * down—a `TKOUPB EPL/TKA*RB AEU`
 * heat `HAOET`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * sometimes `STAOEUPLS`
 * overcomes `AUFR/KOPL/-S`
 * me. `PHE TP-PL`

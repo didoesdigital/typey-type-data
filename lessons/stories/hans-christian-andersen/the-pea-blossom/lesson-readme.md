@@ -234,7 +234,7 @@
 * an `APB`
 * old `OLD`
 * board `PWAORD`
-* under `*UPBD`
+* under `TPH-PB`
 * garret-window, `TKPWAEUR/RET H-PB WOEUPBD KW-BG`
 * fell `TPEL`
 * crevice, `KREFS KW-BG`

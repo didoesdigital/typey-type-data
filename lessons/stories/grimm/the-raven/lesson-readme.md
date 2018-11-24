@@ -114,7 +114,7 @@
 * king's `KEUPBG/AES`
 * but `PWUT`
 * now `TPHOU`
-* under `*UPBD`
+* under `TPH-PB`
 * spell `SPEL`
 * some `SOPL`
 * enchantment; `EPB/KHAPLT STPH*FPLT`
@@ -458,7 +458,7 @@
 * letter, `HRERT KW-BG`
 * knew `TPHAOU`
 * happened. `HAPD TP-PL`
-* rose `ROES`
+* rose `ROEZ`
 * up `UP`
 * without `WOUT`
 * delay, `TKHREU KW-BG`

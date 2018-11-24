@@ -166,7 +166,7 @@
 * when `WHEPB`
 * they `THE`
 * slept `SHREPD`
-* under `*UPBD`
+* under `TPH-PB`
 * roofs `RAOFS`
 * snow, `STPHOE KW-BG`
 * while `WHAOEUL`
@@ -319,7 +319,7 @@
 * cup `KUP`
 * lily, `HREUL/KWREU KW-BG`
 * angel `A*EPBLG`
-* rose `ROES`
+* rose `ROEZ`
 * amidst `A/PHEUTDZ`
 * Bible; `PWAO*EUBL STPH*FPLT`
 * and, `SKP KW-BG`

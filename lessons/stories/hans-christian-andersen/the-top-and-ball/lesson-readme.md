@@ -220,7 +220,7 @@
 * its `EUTS`
 * body. `PWO*ED TP-PL`
 * ninth `TPHAO*EUPBT`
-* rose `ROES`
+* rose `ROEZ`
 * remained `RE/PHAEUPBD`
 * away, `A/WAEU KW-BG`
 * did `TK`
@@ -315,7 +315,7 @@
 * fallen `TPAUL/-PB`
 * down `TKOUPB`
 * gutter `TKPWOURT`
-* under `*UPBD`
+* under `TPH-PB`
 * roof. `RAOF TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * nice `TPHAOEUS`

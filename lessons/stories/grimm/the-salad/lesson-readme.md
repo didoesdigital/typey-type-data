@@ -120,7 +120,7 @@
 * keep `KAOEP`
 * piece `PAOES`
 * gold `TKPWOELD`
-* under `*UPBD`
+* under `TPH-PB`
 * pillow `PEUL/OE`
 * every `EF`
 * morning `PHORPBG`

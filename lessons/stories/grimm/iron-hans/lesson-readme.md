@@ -177,7 +177,7 @@
 * water, `WAUR KW-BG`
 * seized `SAOEZ/-D`
 * drew `TKRAOU`
-* under. `*UPBD TP-PL`
+* under. `TPH-PB TP-PL`
 * When `KPA/WHEPB`
 * saw `SAU`
 * that, `THA KW-BG`
@@ -274,7 +274,7 @@
 * wished, `WEURBD KW-BG`
 * key.' `KAOE TP-PL AE`
 * lies `HRAO*EUS`
-* under `*UPBD`
+* under `TPH-PB`
 * your `KWROUR`
 * mother's `PHOER/AES`
 * pillow, `PEUL/OE KW-BG`
@@ -808,7 +808,7 @@
 * again!" `TKPWEPB SKHRAPL KR-GS`
 * asked, `SK-D KW-BG`
 * too: `TAO STPH-FPLT`
-* "Under `KR-GS KPA/*UPBD`
+* "Under `KR-GS KPA/TPH-PB`
 * hedge `HEPBL`
 * lying `HRAOEUG`
 * sleeping `SHRAOEPG`

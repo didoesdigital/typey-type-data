@@ -377,7 +377,7 @@
 * could. `KO TP-PL`
 * This `KPA/TH`
 * hidden `HEUD/EPB`
-* under `*UPBD`
+* under `TPH-PB`
 * stone. `STOEPB TP-PL`
 * officers `OEUFRS`
 * wardrobe `WARD/ROEB`

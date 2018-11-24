@@ -243,7 +243,7 @@
 * swallowed `SWAL/OED`
 * ring `REUPBG`
 * lay `HRAEU`
-* under `*UPBD`
+* under `TPH-PB`
 * queen's `KWAOEPB AES`
 * window.' `WOEUPBD TP-PL AE`
 * at `AT`
@@ -340,7 +340,7 @@
 * him: `HEUPL STPH-FPLT`
 * 'We `AE KPA/WE`
 * will `HR`
-* remember `REB`
+* remember `RER`
 * you `U`
 * repay `RAOE/PAEU`
 * saving `SAFG`

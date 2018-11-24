@@ -354,7 +354,7 @@
 * The `KPA/-T`
 * soft `SOFT`
 * clay `KHRAEU`
-* under `*UPBD`
+* under `TPH-PB`
 * fingers `TPEURPBGS`
 * beauty, `PWAOUT KW-BG`
 * next `TPHEGT`
@@ -380,7 +380,7 @@
 * goodly `TKPWAOD/HREU`
 * show `SHOE`
 * fairest `TPAEUR/EFT`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * Great `KPA/TKPWRAET`
 * lilies `HREUL/KWREU/KWREU/-S`
 * green `TKPWRAOEPB`
@@ -725,7 +725,7 @@
 * jaws `SKWRAUS`
 * basins, `PWAS/SEUPB/-S KW-BG`
 * snowy `STPHOE/WEU`
-* roses `ROESZ`
+* roses `ROES/-S`
 * abundance. `PWUPB/TKAPBS TP-PL`
 * stepped `STEPD`
 * hall, `HAUL KW-BG`
@@ -803,11 +803,11 @@
 * hand `HAPBD`
 * lifted `HREUFTD`
 * lips. `HREUPS TP-PL`
-* rose `ROES`
+* rose `ROEZ`
 * softer, `SO*FRT KW-BG`
 * fire `TPAOEUR`
 * thrilled `THREULD`
-* rose—a `ROES EPL/TKA*RB AEU`
+* rose—a `ROEZ EPL/TKA*RB AEU`
 * feeling `TPAOELG`
 * power `POUR`
 * poured `PORD`
@@ -1016,7 +1016,7 @@
 * eaten, `AOET/EPB KW-BG`
 * drunk, `TKR*UPBG KW-BG`
 * spirits `SPEURTS`
-* rose. `ROES TP-PL`
+* rose. `ROEZ TP-PL`
 * Songs `KPA/SOPBGS`
 * sung `SUPBG`
 * ditties `TKEUT/TEU/KWREU/-S`
@@ -1035,7 +1035,7 @@
 * Bacchantes `xxx Bacchantes`
 * they; `THE STPH*FPLT`
 * Psyches—not `xxx Psyches EPL/TKA*RB TPHOT`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * fresh, `TPRERB KW-BG`
 * hearty, `HAR/TEU KW-BG`
 * carnations. `KARPB/AEUGS/-S TP-PL`
@@ -1199,7 +1199,7 @@
 * slowly `SHROEL`
 * days. `TKAEUS TP-PL`
 * flashing `TPHRARBG`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * pale `PAEL`
 * trembling `TREPL/-BLG`
 * fever, `TPAOEF KW-BG`

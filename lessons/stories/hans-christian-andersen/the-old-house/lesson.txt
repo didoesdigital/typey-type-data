@@ -75,7 +75,7 @@ The Old House
 'at': AT
 'you': U
 'from': TPR
-'under': *UPBD
+'under': TPH-PB
 'the': -T
 'cornices.': KORPB/EUS/-S TP-PL
 'One': KPA/WUPB
@@ -88,7 +88,7 @@ The Old House
 'the': -T
 'other,': OER KW-BG
 'and': SKP
-'under': *UPBD
+'under': TPH-PB
 'the': -T
 'roof': RAOF
 'ran': RAPB
@@ -1112,7 +1112,7 @@ The Old House
 'half': HAF
 'a': AEU
 'century."': KROEURPBT TP-PL KR-GS
-'Under': KPA/*UPBD
+'Under': KPA/TPH-PB
 'a': AEU
 'glass': TKPWHRAS
 'beneath': TPHAO*ET
@@ -2623,7 +2623,7 @@ The Old House
 'of': -F
 'them': THEPL
 'could': KO
-'remember': REB
+'remember': RER
 'it,': T KW-BG
 'for': TPOR
 'many': PHAEPB
@@ -2945,7 +2945,7 @@ The Old House
 'him,': HEUPL KW-BG
 'and': SKP
 'always': AULS
-'remember': REB
+'remember': RER
 'what': WHA
 'you': U
 'have': SR

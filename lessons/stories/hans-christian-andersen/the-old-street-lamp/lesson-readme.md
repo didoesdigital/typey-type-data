@@ -130,7 +130,7 @@
 * whether `WHR`
 * then `THEPB`
 * able `ABL`
-* remember `REB`
+* remember `RER`
 * been `PW-PB`
 * troubled `TRUBLD`
 * him `HEUPL`
@@ -303,7 +303,7 @@
 * there `THR`
 * another `TPHOER`
 * pair `PAEUR`
-* remember,—it `REB KW-BG EPL/TKA*RB T`
+* remember,—it `RER KW-BG EPL/TKA*RB T`
 * really `R-L`
 * wonderful `WUFL`
 * jump `SKWRUFRP`
@@ -624,7 +624,7 @@
 * see `SAOE`
 * clearly `KAOERL`
 * everything `EFG`
-* remember, `REB KW-BG`
+* remember, `RER KW-BG`
 * love `HRUF`
 * me. `PHE TP-PL`
 * herein `HAOERPB`

@@ -606,7 +606,7 @@
 * like `HRAOEUBG`
 * bower `PWOUR`
 * covered `KOFRD`
-* roses `ROESZ`
+* roses `ROES/-S`
 * broad-leaved `PWRAOD H-PB HREF/-D`
 * plants. `PHRAPBTS TP-PL`
 * lawn `HRAUPB`
@@ -675,7 +675,7 @@
 * curled `KURLD`
 * hair `HAEUR`
 * holding `HOELGD`
-* rose `ROES`
+* rose `ROEZ`
 * hand, `HAPBD KW-BG`
 * wreath `WRAO*ET`
 * branches. `PWRAFPBS TP-PL`

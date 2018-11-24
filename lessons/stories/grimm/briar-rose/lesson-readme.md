@@ -501,7 +501,7 @@
 * standing `STAPBG`
 * stables; `STAEUBLS STPH*FPLT`
 * heads `HEDZ`
-* under `*UPBD`
+* under `TPH-PB`
 * wings. `WEUPBGS TP-PL`
 * And `AFPBD`
 * walls; `WAULS STPH*FPLT`

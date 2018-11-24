@@ -94,7 +94,7 @@
 * seeing `SAOEG`
 * shivered `SH*EUFR/-D`
 * cold, `KOELD KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * placed `PHRAEUFD`
 * small `SPHAL`
 * mug `PHUG`
@@ -530,7 +530,7 @@
 * profusion. `PRO/TPAOUGS TP-PL`
 * Blooming `KPA/PWHRAOPL/-G`
 * hyacinths, `HAOEU/S*EUPBT/-S KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * glass `TKPWHRAS`
 * bells, `PWELS KW-BG`
 * peonies, `PE/KWRO/TPHAOES KW-BG`

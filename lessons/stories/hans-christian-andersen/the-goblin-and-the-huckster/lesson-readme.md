@@ -488,7 +488,7 @@
 * mingled `PHEUPBG/-LD`
 * tears. `TAERS TP-PL`
 * "How `KR-GS KPA/HOU`
-* under `*UPBD`
+* under `TPH-PB`
 * tree;" `TRAOE STPH*FPLT KR-GS`
 * question, `KWE KW-BG`
 * content `KAUPBT`

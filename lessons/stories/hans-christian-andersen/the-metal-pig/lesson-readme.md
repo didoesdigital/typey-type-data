@@ -164,11 +164,11 @@
 * grand `TKPWRAPBD`
 * duke's `TKAOUBG AES`
 * palace, `PAL/AS KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * roof `RAOF`
 * wings, `WEUPBGS KW-BG`
 * thousand `THOEUPB`
-* roses `ROESZ`
+* roses `ROES/-S`
 * bloom `PWHRAOPL`
 * winter, `WEURPBT KW-BG`
 * ragged `RAGD`
@@ -357,7 +357,7 @@
 * side `SAOEUD`
 * room `RAOPL`
 * opened; `OEPD STPH*FPLT`
-* remember `REB`
+* remember `RER`
 * what `WHA`
 * beautiful `PWAOUFL`
 * things `THEUPBGS`

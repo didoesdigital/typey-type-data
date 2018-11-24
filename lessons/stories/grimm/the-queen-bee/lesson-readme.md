@@ -139,7 +139,7 @@
 * trunk; `TRUPBG STPH*FPLT`
 * light `HRAOEUT`
 * fire `TPAOEUR`
-* under `*UPBD`
+* under `TPH-PB`
 * tree `TRAOE`
 * bees, `PWAOES KW-BG`
 * as `AZ`
@@ -193,7 +193,7 @@
 * third `THEURD`
 * time, `TAOEUPL KW-BG`
 * then `THEPB`
-* rose `ROES`
+* rose `ROEZ`
 * He `KPA/HE`
 * said `SAEUD`
 * nothing, `TPHOG KW-BG`

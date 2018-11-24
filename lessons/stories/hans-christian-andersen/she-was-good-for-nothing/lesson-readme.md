@@ -420,7 +420,7 @@
 * house!" `HOUS SKHRAPL KR-GS`
 * "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * Martha; `PHAR/THA STPH*FPLT`
-* remember `REB`
+* remember `RER`
 * service `S-FS`
 * lived `HREUFD`
 * house `HOUS`
@@ -528,7 +528,7 @@
 * limbs `HREUPLS`
 * laundress `HRAUPBD/RESZ`
 * shook `SHAOBG`
-* under `*UPBD`
+* under `TPH-PB`
 * her, `HER KW-BG`
 * said, `SAEUD KW-BG`
 * long `HROPBG`
@@ -1029,7 +1029,7 @@
 * sums `SUPLZ`
 * widow `WO*EUD`
 * "There `KR-GS KPA/THR`
-* remember," `REB KW-BG KR-GS`
+* remember," `RER KW-BG KR-GS`
 * mayor; `PHA*EUR STPH*FPLT`
 * now `TPHOU`
 * whole. `WHOEL TP-PL`
@@ -1051,7 +1051,7 @@
 * sand `SAPBD`
 * grave `TKPWRAEUF`
 * planted `PHRAPBT/-D`
-* rose-tree `ROES H-PB TRAOE`
+* rose-tree `ROEZ H-PB TRAOE`
 * side. `SAOEUD TP-PL`
 * mother!" `PHOER SKHRAPL KR-GS`
 * cheeks. `KHAOEBGS TP-PL`

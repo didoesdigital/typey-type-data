@@ -316,7 +316,7 @@
 * walks `WAUBGS`
 * beside `PWE/SAOEUD`
 * book `PWAOBG`
-* under `*UPBD`
+* under `TPH-PB`
 * arm, `ARPL KW-BG`
 * wearing `WAURG`
 * black `PWHRABG`

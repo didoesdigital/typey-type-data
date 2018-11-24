@@ -293,7 +293,7 @@
 * forward, `TPAORD KW-BG`
 * began `TKPWAPB`
 * sink `S*EUPBG`
-* under `*UPBD`
+* under `TPH-PB`
 * lower `HROUR`
 * lower, `HROUR KW-BG`
 * till `T*EUL`
@@ -939,7 +939,7 @@
 * bird, `PWEURD KW-BG`
 * dived `TKAOEUFD`
 * sea, `SAE KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * clear `KHRAOER`
 * sunlight, `SULGT KW-BG`
 * glittering. `TKPWHREUT/ERG TP-PL`

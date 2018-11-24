@@ -77,7 +77,7 @@
 * has `HAS`
 * dust, `TKUFT KW-BG`
 * whole `WHOEL`
-* rows `RO*EZ`
+* rows `ROES`
 * mighty `PHAOEUT/KWREU`
 * moment `PHOEPLT`
 * are `R`
@@ -87,7 +87,7 @@
 * who `WHO`
 * already `HR-R`
 * slumber `SHRUPL/PWER`
-* under `*UPBD`
+* under `TPH-PB`
 * hill `HEUL`
 * rich `REUFP`
 * trader, `TRAEURD KW-BG`

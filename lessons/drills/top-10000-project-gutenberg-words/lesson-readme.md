@@ -140,7 +140,7 @@
 * last `HRAFT`
 * thought `THAUT`
 * away `A/WAEU`
-* under `*UPBD`
+* under `TPH-PB`
 * take `TAEUBG`
 * found `TPOUPBD`
 * hand `HAPBD`
@@ -507,7 +507,7 @@
 * seem `SAOEPL`
 * taking `TAEUG`
 * blood `PWHRAOD`
-* rose `ROES`
+* rose `ROEZ`
 * south `SOUT`
 * beyond `KWROPBD`
 * cold `KOELD`
@@ -544,7 +544,7 @@
 * didn't `TK-PBT`
 * low `HROE`
 * north `TPHORT`
-* remember `REB`
+* remember `RER`
 * effect `EFBGT`
 * natural `TPHARL`
 * pretty `PREUT`
@@ -3423,7 +3423,7 @@
 * sunk `S*UPBG`
 * ruins `RAOUPBS`
 * eastern `AOERPB`
-* roses `ROESZ`
+* roses `ROES/-S`
 * citizen `SEUT/*EPB`
 * reminded `RE/PHAOEUPBD/T-D`
 * deceived `TKAOE/SAOEFD`
@@ -4345,7 +4345,7 @@
 * speaker `SPAOERBG`
 * tribute `TREUBT`
 * procure `PRO/KAOUR`
-* frankly `TPHRAPBG/HREU`
+* frankly `TPRAPB/KHREU`
 * recommended `REPLD`
 * relieve `RE/HREF`
 * intentions `EUPB/TEPGS/-S`
@@ -4725,7 +4725,7 @@
 * fiction `TP*EUBGS`
 * viz. `SR*/*EU/STKPW*/TP-PL`
 * adds `ADZ`
-* rows `RO*EZ`
+* rows `ROES`
 * recommend `REPL`
 * suspicious `SPEURBS`
 * resulting `RULT/-G`

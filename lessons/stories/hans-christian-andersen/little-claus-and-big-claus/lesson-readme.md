@@ -101,7 +101,7 @@
 * clothes, `KHRO*ETS KW-BG`
 * with `W`
 * prayer-books `PRAEUR H-PB PWAOBGS`
-* under `*UPBD`
+* under `TPH-PB`
 * arms. `ARPLS TP-PL`
 * going `TKPW-G`
 * clergyman `KHRERPBLG/PHAPB`
@@ -450,7 +450,7 @@
 * fish `TPEURB`
 * pies, `PAOEUS KW-BG`
 * oven. `OEFPB TP-PL`
-* Under `KPA/*UPBD`
+* Under `KPA/TPH-PB`
 * feet, `TPAOET KW-BG`
 * lay `HRAEU`
 * sack `SABG`
@@ -1222,7 +1222,7 @@
 * greatest `TKPWRAET/EFT`
 * pleasure." `PHRERB TP-PL KR-GS`
 * "Thank `KR-GS KPA/THAPBG`
-* remember, `REB KW-BG`
+* remember, `RER KW-BG`
 * thrashing." `THRARB/-G TP-PL KR-GS`
 * fierce `TPAOERS`
 * it!" `T SKHRAPL KR-GS`

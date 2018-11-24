@@ -119,7 +119,7 @@
 * grew `TKPWRAOU`
 * slender, `SHRERPBD KW-BG`
 * beautiful, `PWAOUFL KW-BG`
-* rose-bush, `ROES H-PB PWURB KW-BG`
+* rose-bush, `ROEZ H-PB PWURB KW-BG`
 * some `SOPL`
 * wicked `WEUBGD`
 * hand `HAPBD`
@@ -133,7 +133,7 @@
 * trailing `TRAEULG`
 * branches. `PWRAFPBS TP-PL`
 * "Poor `KR-GS KPA/PAOR`
-* rose-bush!" `ROES H-PB PWURB SKHRAPL KR-GS`
+* rose-bush!" `ROEZ H-PB PWURB SKHRAPL KR-GS`
 * said `SAEUD`
 * child, `KHAOEULD KW-BG`
 * "let `KR-GS HRET`
@@ -142,7 +142,7 @@
 * garden." `TKPWA*RPB TP-PL KR-GS`
 * The `KPA/-T`
 * took `TAOBG`
-* rose-bush; `ROES H-PB PWURB STPH*FPLT`
+* rose-bush; `ROEZ H-PB PWURB STPH*FPLT`
 * then `THEPB`
 * kissed `K*EUFD`
 * half `HAF`

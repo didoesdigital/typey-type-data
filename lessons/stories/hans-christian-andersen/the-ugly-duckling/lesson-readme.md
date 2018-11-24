@@ -74,7 +74,7 @@
 * so `SO`
 * high, `HAOEU KW-BG`
 * that `THA`
-* under `*UPBD`
+* under `TPH-PB`
 * tallest `TAUL/EFT`
 * them `THEPL`
 * little `HREUL`
@@ -611,7 +611,7 @@
 * feeling `TPAOELG`
 * sorrowful. `SOR/ROEFL TP-PL`
 * morning, `PHORPBG KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * air, `AEUR KW-BG`
 * new `TPHU`
 * comrade. `KOPL/RAD TP-PL`

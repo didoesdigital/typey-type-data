@@ -58,7 +58,7 @@
 * hiring `HEURG`
 * boat `PWOET`
 * rowed `ROE/-D`
-* under `*UPBD`
+* under `TPH-PB`
 * where `W-R`
 * shot `SHOT`
 * from `TPR`

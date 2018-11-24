@@ -216,7 +216,7 @@
 * fragrance `TPRAEUG/RAPBS`
 * clover-fields `KHROEFR H-PB TPAOELDZ`
 * wild `WAOEULD`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * elder-blossoms `ELD/ER H-PB PWROS/SOPL/-S`
 * honeysuckle, `HOPB/KWREU/SUBG/*L KW-BG`
 * garden `TKPWA*RPB`
@@ -526,7 +526,7 @@
 * blazed, `PWHRAEUZ/-D KW-BG`
 * men `PHEPB`
 * sang `SAPBG`
-* under `*UPBD`
+* under `TPH-PB`
 * hospitable `HOPT/-BL`
 * shelter `SHELT`
 * tree. `TRAOE TP-PL`
@@ -825,14 +825,14 @@
 * passed `PAFD`
 * Ephemera. `KPA/AOE/TPEPL/RA TP-PL`
 * Christmas-day, `KREUS/PHAS H-PB TKAEU KW-BG`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * ceased. `KRAES/-D TP-PL`
 * From `KPA/TPR`
 * bells, `PWELS KW-BG`
 * hearth, `HAERT KW-BG`
 * smallest `SPHAUL/EFT`
 * hut, `HUT KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * smoke `SPHOEBG`
 * into `TPHAO`
 * sky, `SKAOEU KW-BG`

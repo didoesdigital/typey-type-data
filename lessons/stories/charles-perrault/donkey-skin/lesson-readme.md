@@ -852,7 +852,7 @@
 * moreover `PHROEFR`
 * attentive `A/TEPBT/EUF`
 * work `WORBG`
-* under `*UPBD`
+* under `TPH-PB`
 * protection. `PREBGS TP-PL`
 * minded `PHAOEUPBD/-D`
 * sheep, `SHAOEP KW-BG`
@@ -1392,7 +1392,7 @@
 * black `PWHRABG`
 * delicate `TKEL/KAT`
 * white `WHAOEUT`
-* rose-pink `ROES H-PB P*EUPBG`
+* rose-pink `ROEZ H-PB P*EUPBG`
 * slipped `SHREUPD`
 * movement `PHOFPLT`
 * made, `PHAED KW-BG`

@@ -99,7 +99,7 @@
 * girdle," `TKPWEURD/*L KW-BG KR-GS`
 * "a `KR-GS AEU`
 * sort `SORT`
-* under `*UPBD`
+* under `TPH-PB`
 * girdle. `TKPWEURD/*L TP-PL`
 * see `SAOE`
 * useful, `AOUFL KW-BG`

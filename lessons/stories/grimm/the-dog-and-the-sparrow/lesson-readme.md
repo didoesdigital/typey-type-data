@@ -291,7 +291,7 @@
 * me?' `PHE H-F AE`
 * on. `OPB TP-PL`
 * crept `KREPT`
-* under `*UPBD`
+* under `TPH-PB`
 * tilt `TEULT`
 * cart, `KART KW-BG`
 * bung `PWUPBG`

@@ -319,7 +319,7 @@
 * goose. `TKPWAOS TP-PL`
 * next `TPHEGT`
 * morning `PHORPBG`
-* under `*UPBD`
+* under `TPH-PB`
 * arm `ARPL`
 * set `SET`
 * out, `OUT KW-BG`

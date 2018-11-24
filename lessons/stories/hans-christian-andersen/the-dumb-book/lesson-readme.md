@@ -66,7 +66,7 @@
 * with `W`
 * white `WHAOEUT`
 * cloth, `KHRO*T KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * head `HED`
 * placed `PHRAEUFD`
 * large `HRARPBLG`

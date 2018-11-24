@@ -454,7 +454,7 @@
 * storm. `STORPL TP-PL`
 * water `WAUR`
 * canal `KAPBL`
-* rose `ROES`
+* rose `ROEZ`
 * banks, `PWA*PBGS KW-BG`
 * not `TPHOT`
 * where `W-R`
@@ -566,7 +566,7 @@
 * said. `SAEUD TP-PL`
 * cooper's `KAORP AES`
 * tub `TUB`
-* under `*UPBD`
+* under `TPH-PB`
 * "ladies' `KR-GS HRAEUDZ AE`
 * costumes." `KOS/TAOUPLS TP-PL KR-GS`
 * eating-house `AOEGT H-PB HOUS`

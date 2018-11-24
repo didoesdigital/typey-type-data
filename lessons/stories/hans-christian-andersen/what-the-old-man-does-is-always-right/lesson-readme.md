@@ -355,7 +355,7 @@
 * carrying `KAERG`
 * large `HRARPBLG`
 * goose `TKPWAOS`
-* under `*UPBD`
+* under `TPH-PB`
 * arm. `ARPL TP-PL`
 * "What `KR-GS KPA/WHA`
 * heavy `HOEUF`

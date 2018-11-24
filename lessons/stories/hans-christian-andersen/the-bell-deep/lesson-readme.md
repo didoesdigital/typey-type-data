@@ -29,7 +29,7 @@
 * town, `TOUPB KW-BG`
 * and `SKP`
 * flows `TPHROES`
-* under `*UPBD`
+* under `TPH-PB`
 * wooden `WAOD/EPB`
 * bridges `PWREUPBLGS`
 * dam `TKAPL`

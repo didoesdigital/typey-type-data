@@ -90,7 +90,7 @@
 * down, `TKOUPB KW-BG`
 * full `TPUL`
 * moon `PHAOPB`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * large, `HRARPBLG KW-BG`
 * round, `ROUPBD KW-BG`
 * clear, `KHRAOER KW-BG`
@@ -532,7 +532,7 @@
 * world `WORLD`
 * season `S-PB`
 * year. `KWRAOER TP-PL`
-* under `*UPBD`
+* under `TPH-PB`
 * stove, `STOF KW-BG`
 * it. `T TP-PL`
 * Ah, `KPA/HA*E KW-BG`

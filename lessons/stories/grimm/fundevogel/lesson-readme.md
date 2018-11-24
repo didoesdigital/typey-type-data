@@ -42,7 +42,7 @@
 * had `H`
 * fallen `TPAUL/-PB`
 * asleep `A/HRAOEP`
-* under `*UPBD`
+* under `TPH-PB`
 * tree `TRAOE`
 * with `W`
 * child, `KHAOEULD KW-BG`
@@ -249,12 +249,12 @@
 * ever.' `-FR TP-PL AE`
 * 'Do `AE KPA/TKO`
 * become `PW-BG`
-* rose-tree, `ROES H-PB TRAOE KW-BG`
-* rose `ROES`
+* rose-tree, `ROEZ H-PB TRAOE KW-BG`
+* rose `ROEZ`
 * upon `POPB`
 * nothing `TPHOG`
 * there `THR`
-* rose-tree `ROES H-PB TRAOE`
+* rose-tree `ROEZ H-PB TRAOE`
 * it, `T KW-BG`
 * nowhere. `TPHO/WR TP-PL`
 * they: `THE STPH-FPLT`
@@ -262,7 +262,7 @@
 * done `TKOPB`
 * here,' `HAOER KW-BG AE`
 * told `TOLD`
-* rose-bush `ROES H-PB PWURB`
+* rose-bush `ROEZ H-PB PWURB`
 * scolded `SKOLD/-D`
 * simpletons, `xxx simpletons KW-BG`
 * should `SHO`

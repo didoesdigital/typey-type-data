@@ -45,7 +45,7 @@
 * traffic `TRAFBG`
 * hum `HUPL`
 * voices `SROEUFS`
-* rose `ROES`
+* rose `ROEZ`
 * from `TPR`
 * town. `TOUPB TP-PL`
 * "The `KR-GS KPA/-T`
@@ -465,7 +465,7 @@
 * fruit `TPRAOUT`
 * roof, `RAOF KW-BG`
 * upon `POPB`
-* roses `ROESZ`
+* roses `ROES/-S`
 * blooming; `PWHRAOPL/-G STPH*FPLT`
 * long `HROPBG`
 * boughs `PWO*U/-S`

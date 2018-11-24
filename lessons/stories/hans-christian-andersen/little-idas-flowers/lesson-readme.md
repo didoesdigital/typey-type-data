@@ -193,7 +193,7 @@
 * are. `R TP-PL`
 * The `KPA/-T`
 * two `TWO`
-* roses `ROESZ`
+* roses `ROES/-S`
 * seat `SAOET`
 * themselves `TH*EPLS`
 * throne, `THRO*EPB KW-BG`
@@ -634,7 +634,7 @@
 * day. `TKAEU TP-PL`
 * All `KPA/AUL`
 * stood `STAOD`
-* rows `RO*EZ`
+* rows `ROES`
 * room, `RAOPL KW-BG`
 * remained `RE/PHAEUPBD`
 * window, `WOEUPBD KW-BG`
@@ -847,7 +847,7 @@
 * unless `TPH-LS`
 * First `KPA/TPEURS`
 * lovely `HROFL`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * golden `TKOELD/*EPB`
 * crowns `KROUPBS`
 * heads; `HEDZ STPH*FPLT`
@@ -896,7 +896,7 @@
 * her; `HER STPH*FPLT`
 * sleepy. `SHRAOE/PEU TP-PL`
 * "Do `KR-GS KPA/TKO`
-* remember `REB`
+* remember `RER`
 * stupid, `STAOUPD KW-BG`
 * word. `WORD TP-PL`
 * all," `AUL KW-BG KR-GS`

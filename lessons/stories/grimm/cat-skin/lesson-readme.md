@@ -342,7 +342,7 @@
 * showed `SHOED`
 * little `HREUL`
 * corner `KRORPB`
-* under `*UPBD`
+* under `TPH-PB`
 * staircase, `STAEUR/KAEUS KW-BG`
 * where `W-R`
 * light `HRAOEUT`

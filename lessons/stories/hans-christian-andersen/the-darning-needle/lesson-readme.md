@@ -234,7 +234,7 @@
 * sail," `SAEUL KW-BG KR-GS`
 * "they `KR-GS THE`
 * what `WHA`
-* under `*UPBD`
+* under `TPH-PB`
 * them. `THEPL TP-PL`
 * here, `HAOER KW-BG`
 * here `HAOER`

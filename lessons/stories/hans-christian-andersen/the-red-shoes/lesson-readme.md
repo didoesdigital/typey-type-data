@@ -717,10 +717,10 @@
 * sword, `SOERD KW-BG`
 * green `TKPWRAOEPB`
 * branch, `PWRAFRPB KW-BG`
-* roses; `ROESZ STPH*FPLT`
+* roses; `ROES/-S STPH*FPLT`
 * touched `TUFPD`
 * ceiling, `KAOELG KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * high, `HAOEU KW-BG`
 * star. `STAR TP-PL`
 * walls, `WAULS KW-BG`

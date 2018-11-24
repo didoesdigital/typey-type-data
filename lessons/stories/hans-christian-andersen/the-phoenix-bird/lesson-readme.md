@@ -10,12 +10,12 @@
 * Knowledge, `KPA/TPHOPBLG KW-BG`
 * bloomed `PWHRAOPL/-D`
 * a `AEU`
-* rose `ROES`
+* rose `ROEZ`
 * bush. `PWURB TP-PL`
 * Here, `KPA/HAOER KW-BG`
 * in `TPH`
 * first `TPEUFRT`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * bird `PWEURD`
 * was `WAS`
 * born. `PWORPB TP-PL`

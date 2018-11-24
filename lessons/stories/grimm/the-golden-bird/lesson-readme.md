@@ -51,7 +51,7 @@
 * keep `KAOEP`
 * watch `WAFP`
 * all `AUL`
-* under `*UPBD`
+* under `TPH-PB`
 * tree. `TRAOE TP-PL`
 * set `SET`
 * his `HEUS`

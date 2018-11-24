@@ -78,7 +78,7 @@
 * nest, `TPHEFT KW-BG`
 * especially `EPS`
 * great `TKPWRAET`
-* rose-bush `ROES H-PB PWURB`
+* rose-bush `ROEZ H-PB PWURB`
 * full `TPUL`
 * flowers, `TPHRO*URS KW-BG`
 * reflected `TPHREBGTD`
@@ -123,7 +123,7 @@
 * more `PHOR`
 * quiet `KWAO*EUT`
 * smooth. `SPHAO*T TP-PL`
-* roses `ROESZ`
+* roses `ROES/-S`
 * again `TKPWEPB`
 * reflected; `TPHREBGTD STPH*FPLT`
 * beautiful, `PWAOUFL KW-BG`
@@ -157,7 +157,7 @@
 * is!" `S SKHRAPL KR-GS`
 * said `SAEUD`
 * each `AOEFP`
-* rose. `ROES TP-PL`
+* rose. `ROEZ TP-PL`
 * "The `KR-GS KPA/-T`
 * only `OEPBL`
 * thing `THEUPBG`
@@ -272,7 +272,7 @@
 * "Listen `KR-GS KPA/HREUFPB`
 * dear `TKAER`
 * there," `THR KW-BG KR-GS`
-* roses; `ROESZ STPH*FPLT`
+* roses; `ROES/-S STPH*FPLT`
 * "they `KR-GS THE`
 * begin `TKPWEUPB`
 * want `WAPBT`
@@ -314,7 +314,7 @@
 * deepest, `TKAOEP/EFT KW-BG`
 * passed `PAFD`
 * plucked `PHRUBGD`
-* rose `ROES`
+* rose `ROEZ`
 * stuck `STUBG`
 * Now `KPA/TPHOU`
 * looked `HRAOBGD`
@@ -511,7 +511,7 @@
 * Sundays `SUPBDZ`
 * early, `ERL KW-BG`
 * handful `HAPBD/-FL`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * glass `TKPWHRAS`
 * placed `PHRAEUFD`
 * cupboard. `WUP/PWORD TP-PL`
@@ -712,7 +712,7 @@
 * feather `TP*ET`
 * until `TPH-L`
 * bleeding `PWHRAOEGD`
-* rose-bush. `ROES H-PB PWURB TP-PL`
+* rose-bush. `ROEZ H-PB PWURB TP-PL`
 * "Poor `KR-GS KPA/PAOR`
 * creature!" `KRAOEFP SKHRAPL KR-GS`
 * "only `KR-GS OEPBL`
@@ -730,7 +730,7 @@
 * dead `TKED`
 * near `TPHAOER`
 * family, `TPAEPL KW-BG`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * sounded `SOUPBD/-D`
 * long? `HROPBG H-F`
 * It's `KPA/T AES`
@@ -855,7 +855,7 @@
 * foreground `TPOER/TKPWROUPBD`
 * large, `HRARPBLG KW-BG`
 * blooming `PWHRAOPL/-G`
-* rose-bush, `ROES H-PB PWURB KW-BG`
+* rose-bush, `ROEZ H-PB PWURB KW-BG`
 * presented `PREPBTD`
 * charming `KHARPL/-G`
 * view. `SRAOU TP-PL`
@@ -990,7 +990,7 @@
 * exchanging `KPAEUPBG/-G`
 * opinions `P-PBS`
 * slipped `SHREUPD`
-* under `*UPBD`
+* under `TPH-PB`
 * garden `TKPWA*RPB`
 * palings, `xxx palings KW-BG`
 * found `TPOUPBD`
@@ -1117,7 +1117,7 @@
 * branches `PWRAFPBS`
 * walls, `WAULS KW-BG`
 * court `KORT`
-* rose-tree `ROES H-PB TRAOE`
+* rose-tree `ROEZ H-PB TRAOE`
 * spreading `SPREGD`
 * boughs, `PWO*U/-S KW-BG`
 * grave. `TKPWRAEUF TP-PL`
@@ -1159,7 +1159,7 @@
 * grave, `TKPWRAEUF KW-BG`
 * picked `PEUGD`
 * fallen `TPAUL/-PB`
-* rose-leaves `ROES H-PB HREFS`
+* rose-leaves `ROEZ H-PB HREFS`
 * preserved `PREFBD`
 * afar: `A/TPAR STPH-FPLT`
 * mighty `PHAOEUT/KWREU`
@@ -1218,7 +1218,7 @@
 * day. `TKAEU TP-PL`
 * festival." `SREFT/SRAL TP-PL KR-GS`
 * neighbours; `TPHAEUBS/A*U STPH*FPLT`
-* remember `REB`
+* remember `RER`
 * origin `O*RPBLG`
 * pond. `POPBD TP-PL`
 * Yes, `KPA/KWRE KW-BG`

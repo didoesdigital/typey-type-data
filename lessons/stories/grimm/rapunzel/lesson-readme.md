@@ -258,7 +258,7 @@
 * her. `HER TP-PL`
 * Rapunzel `KPA/RA/PUPB/S*EL`
 * grew `TKPWRAOU`
-* under `*UPBD`
+* under `TPH-PB`
 * sun. `SUPB TP-PL`
 * When `KPA/WHEPB`
 * twelve `TWEFL`

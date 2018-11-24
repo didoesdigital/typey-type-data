@@ -32,7 +32,7 @@
 * was `WAS`
 * passing `PAFG`
 * close `KHROES`
-* under `*UPBD`
+* under `TPH-PB`
 * window `WOEUPBD`
 * as `AZ`
 * this `TH`

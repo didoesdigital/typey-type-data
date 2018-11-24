@@ -815,7 +815,7 @@
 * striking `STRAOEUG`
 * twelve, `TWEFL KW-BG`
 * eleven; `HREFPB STPH*FPLT`
-* rose `ROES`
+* rose `ROEZ`
 * fled `TPHRED`
 * nimble `TPHEUPL/*L`
 * deer. `TKAOER TP-PL`

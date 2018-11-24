@@ -78,14 +78,14 @@
 * between `TWAOEPB`
 * leaves, `HREFS KW-BG`
 * lies `HRAO*EUS`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * flat `TPHRAT`
 * dry; `TKRAOEU STPH*FPLT`
 * not `TPHOT`
 * so `SO`
 * pretty `PREUT`
 * as `AZ`
-* roses `ROESZ`
+* roses `ROES/-S`
 * standing `STAPBG`
 * glass, `TKPWHRAS KW-BG`
 * yet `KWRET`
@@ -115,7 +115,7 @@
 * upon `POPB`
 * looking `HRAOG`
 * it, `T KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * revives, `RAOE/SRAOEUFS KW-BG`
 * fills `TPEULS`
 * room `RAOPL`
@@ -261,7 +261,7 @@
 * still `STEUL`
 * lay, `HRAEU KW-BG`
 * placed `PHRAEUFD`
-* under `*UPBD`
+* under `TPH-PB`
 * head, `HED KW-BG`
 * wished `WEURBD`
 * buried `PWUR/EUD`
@@ -272,10 +272,10 @@
 * churchyard `KH*URPBLG/KWRARD`
 * wall, `WAUL KW-BG`
 * planted `PHRAPBT/-D`
-* rose-tree; `ROES H-PB TRAOE STPH*FPLT`
+* rose-tree; `ROEZ H-PB TRAOE STPH*FPLT`
 * soon `SAOPB`
 * full `TPUL`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * sat `SAT`
 * among `PHOPBG`

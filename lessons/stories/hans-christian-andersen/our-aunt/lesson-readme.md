@@ -470,7 +470,7 @@
 * aunt, `AUPBT KW-BG`
 * "and `KR-GS SKP`
 * always `AULS`
-* remember `REB`
+* remember `RER`
 * Mr. `PHR-FPLT`
 * that." `THA TP-PL KR-GS`
 * On `KPA/OPB`

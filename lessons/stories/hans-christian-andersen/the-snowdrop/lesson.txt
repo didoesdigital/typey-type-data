@@ -34,7 +34,7 @@ The Snowdrop
 'in': TPH
 'the': -T
 'bulb': P*UBL
-'under': *UPBD
+'under': TPH-PB
 'the': -T
 'snow-covered': STPHOE H-PB KOFRD
 'earth.': *ERT TP-PL
@@ -250,7 +250,7 @@ The Snowdrop
 'it': T
 'shot': SHOT
 'forth': TPO*RT
-'under': *UPBD
+'under': TPH-PB
 'the': -T
 'snow': STPHOE
 'with': W
@@ -414,7 +414,7 @@ The Snowdrop
 'syringas,': xxx syringas KW-BG
 'laburnums,': xxx laburnums KW-BG
 'and': SKP
-'roses;': ROESZ STPH*FPLT
+'roses;': ROES/-S STPH*FPLT
 'but': PWUT
 'you': U
 'are': R

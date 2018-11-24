@@ -282,7 +282,7 @@
 * own `OEPB`
 * stool; `STOL STPH*FPLT`
 * morning `PHORPBG`
-* rose `ROES`
+* rose `ROEZ`
 * gave `TKPWAEUF`
 * piece `PAOES`
 * wood, `WAOD KW-BG`

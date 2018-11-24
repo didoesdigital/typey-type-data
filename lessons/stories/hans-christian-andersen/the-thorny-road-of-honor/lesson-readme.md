@@ -277,7 +277,7 @@
 * adorn `A/TKORPB`
 * grave. `TKPWRAEUF TP-PL`
 * camels `KAPL/EL/-S`
-* under `*UPBD`
+* under `TPH-PB`
 * palm `PAPL`
 * trees; `TRAOES STPH*FPLT`
 * richly `REUFP/HREU`
@@ -591,7 +591,7 @@
 * Enemies `KPA/EPB/PHEUS`
 * wrote `WRO`
 * history. `HEUFRT TP-PL`
-* remember `REB`
+* remember `RER`
 * improvements `EUPL/PROFPLTS`
 * seven `SEFPB`
 * years, `KWRAOERS KW-BG`

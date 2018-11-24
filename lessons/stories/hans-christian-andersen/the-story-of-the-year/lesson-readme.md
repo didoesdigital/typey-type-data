@@ -139,7 +139,7 @@
 * purity. `PAOURT TP-PL`
 * frozen `TPROEFPB`
 * crackled `KRABG/-LD`
-* under `*UPBD`
+* under `TPH-PB`
 * foot, `TPAOT KW-BG`
 * quite `KWAOEUT`
 * firm `TPEURPL`
@@ -741,7 +741,7 @@
 * same `SAEUPL`
 * trees `TRAOES`
 * unfolded, `xxx unfolded KW-BG`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * wandered `WAPBD/-D`
 * pendant `PEPB/TKAPBT`
 * canopy `KAPB/PEU`
@@ -810,7 +810,7 @@
 * farm-house, `TPARPL H-PB HOUS KW-BG`
 * brightening `xxx brightening`
 * blooming `PWHRAOPL/-G`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * ripening `RAOEUP/-PBG`
 * juicy `SKWRAOU/SEU`
 * berries, `PWER/KWREUS KW-BG`
@@ -1030,7 +1030,7 @@
 * us `US`
 * air. `AEUR TP-PL`
 * Do `KPA/TKO`
-* remember `REB`
+* remember `RER`
 * how `HOU`
 * north; `TPHORT STPH*FPLT`
 * forests, `TPOEFRT/-S KW-BG`
@@ -1050,7 +1050,7 @@
 * colors `KHRORS`
 * tints `TEUPBTS`
 * woodlands. `WAOD/HRAPBDZ TP-PL`
-* rose-bushes `ROES H-PB PWURBS`
+* rose-bushes `ROEZ H-PB PWURBS`
 * scarlet `SKARLT`
 * hips, `HEUPS KW-BG`
 * elder-trees `ELD/ER H-PB TRAOES`

@@ -178,7 +178,7 @@
 * called `KAULD`
 * complete `KPHRAOET`
 * lark. `HRARBG TP-PL`
-* remember `REB`
+* remember `RER`
 * went `WEPBT`
 * picnic `PEUBG/TPHEUBG`
 * furrier's `TPUR/KWRER AES`
@@ -513,7 +513,7 @@
 * little, `HREUL KW-BG`
 * cheeks `KHAOEBGS`
 * two `TWO`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * father `TPAER`
 * took `TAOBG`
 * cork-screw `KORBG H-PB SKRAOU`
@@ -773,7 +773,7 @@
 * heart. `HART TP-PL`
 * And `AFPBD`
 * sun `SUPB`
-* rose `ROES`
+* rose `ROEZ`
 * set, `SET KW-BG`
 * existence, `KPEUFS KW-BG`
 * glowing `TKPWHROEG`

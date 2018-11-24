@@ -220,7 +220,7 @@
 * them. `THEPL TP-PL`
 * apple-blossoms, `A*EPL H-PB PWROS/SOPL/-S KW-BG`
 * though `THOE`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * bloomed `PWHRAOPL/-D`
 * to-day, `TO H-PB TKAEU KW-BG`
 * might `PHAOEUT`

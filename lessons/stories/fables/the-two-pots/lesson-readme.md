@@ -17,7 +17,7 @@
 * earthenware. `*ERT/*EPB/WA*EUR TP-PL`
 * When `KPA/WHEPB`
 * tide `TAOEUD`
-* rose `ROES`
+* rose `ROEZ`
 * they `THE`
 * both `PWO*T`
 * floated `TPHROET/-D`

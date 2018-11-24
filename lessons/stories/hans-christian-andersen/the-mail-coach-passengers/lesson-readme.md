@@ -283,7 +283,7 @@
 * Prince `PR*EUPBS`
 * Carnival, `KPA/KARPB/SRAL KW-BG`
 * travelling `TRAFLG/A*U`
-* under `*UPBD`
+* under `TPH-PB`
 * FEBRUARY." `*URP/TPEB TP-PL KR-GS`
 * third `THEURD`
 * now `TPHOU`

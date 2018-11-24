@@ -156,7 +156,7 @@
 * villain," `SREUL/AEUPB KW-BG KR-GS`
 * duck. `TKUBG TP-PL`
 * "I `KR-GS EU`
-* remember `REB`
+* remember `RER`
 * ways `WAEUS`
 * when `WHEPB`
 * children `KHEURPB`

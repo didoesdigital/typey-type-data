@@ -321,7 +321,7 @@
 * tiled `TAOEULD`
 * stove, `STOF KW-BG`
 * wine `WAOEUPB`
-* under `*UPBD`
+* under `TPH-PB`
 * pillow, `PEUL/OE KW-BG`
 * salad `SALD`
 * bed, `PWED KW-BG`

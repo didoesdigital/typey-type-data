@@ -79,7 +79,7 @@
 * "Good-bye, `KR-GS KPA/TKPWAOD H-PB PWAO*EU KW-BG`
 * friend," `TPREPBD KW-BG KR-GS`
 * Fox, `KPA/TPOBGS KW-BG`
-* "remember `KR-GS REB`
+* "remember `KR-GS RER`
 * next `TPHEGT`
 * time, `TAOEUPL KW-BG`
 * "Never `KR-GS KPA/TPHEF`

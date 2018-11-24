@@ -23,7 +23,7 @@
 * stood `STAOD`
 * Rose-tree `RO*ES H-PB TRAOE`
 * bloom, `PWHRAOPL KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * which `WEU`
 * sat `SAT`
 * Snail, `KPA/STPHAEUL KW-BG`
@@ -48,7 +48,7 @@
 * more `PHOR`
 * than `THAPB`
 * grow `TKPWROE`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * bear `PWAER`
 * nuts, `TPHUTS KW-BG`
 * or `OR`
@@ -62,7 +62,7 @@
 * from `TPR`
 * you," `U KW-BG KR-GS`
 * said `SAEUD`
-* rose-tree. `ROES H-PB TRAOE TP-PL`
+* rose-tree. `ROEZ H-PB TRAOE TP-PL`
 * "May `KR-GS PHAE`
 * I `EU`
 * ask `SK`
@@ -91,12 +91,12 @@
 * same `SAEUPL`
 * spot, `SPOT KW-BG`
 * sunshine `SUPB/SHAO*EUPB`
-* rose-tree, `ROES H-PB TRAOE KW-BG`
+* rose-tree, `ROEZ H-PB TRAOE KW-BG`
 * was `WAS`
 * again `TKPWEPB`
 * budding `PWUD/-G`
 * bearing `PWAERG`
-* roses `ROESZ`
+* roses `ROES/-S`
 * as `AZ`
 * fresh `TPRERB`
 * beautiful `PWAOUFL`
@@ -120,7 +120,7 @@
 * progress `PROG`
 * at `AT`
 * all; `AUL STPH*FPLT`
-* rose-tree `ROES H-PB TRAOE`
+* rose-tree `ROEZ H-PB TRAOE`
 * sticks `STEUBGS`
 * to `TO`
 * its `EUTS`
@@ -204,7 +204,7 @@
 * say?" `SAEU H-F KR-GS`
 * frighten `TPRAOEUFPB`
 * me," `PHE KW-BG KR-GS`
-* rose—tree. `ROES EPL/TKA*RB TRAOE TP-PL`
+* rose—tree. `ROEZ EPL/TKA*RB TRAOE TP-PL`
 * never `TPHEF`
 * thought `THAUT`
 * that." `THA TP-PL KR-GS`
@@ -309,7 +309,7 @@
 * It `KPA/T`
 * true, `TRAOU KW-BG`
 * only `OEPBL`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * you—you `U EPL/TKA*RB U`
 * who `WHO`
 * so `SO`
@@ -330,7 +330,7 @@
 * For `KPA/TPOR`
 * part, `PART KW-BG`
 * may `PHAE`
-* roses; `ROESZ STPH*FPLT`
+* roses; `ROES/-S STPH*FPLT`
 * Let `KPA/HRET`
 * hazel `HAEUZ/EL`
 * bush `PWURB`
@@ -352,7 +352,7 @@
 * entrance. `SPWRAPBS TP-PL`
 * "That's `KW-GS/KPA*/THATS`
 * sad," `SAD KW-BG KR-GS`
-* rose `ROES`
+* rose `ROEZ`
 * tree. `TRAOE TP-PL`
 * creep `KRAOEP`
 * however `HOUF`

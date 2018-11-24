@@ -288,7 +288,7 @@
 * very `SRE`
 * beautiful. `PWAOUFL TP-PL`
 * Fresh `KPA/TPRERB`
-* roses `ROESZ`
+* roses `ROES/-S`
 * scattered `SKAT/ERD`
 * her. `HER TP-PL`
 * delicate `TKEL/KAT`
@@ -360,7 +360,7 @@
 * long, `HROPBG KW-BG`
 * red `RED`
 * wick `WEUBG`
-* rose `ROES`
+* rose `ROEZ`
 * far `TPAR`
 * above `PWOF`
 * flame, `TPHRAEUPL KW-BG`

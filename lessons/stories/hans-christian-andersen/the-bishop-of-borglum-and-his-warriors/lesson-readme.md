@@ -158,7 +158,7 @@
 * stone, `STOEPB KW-BG`
 * march `PHA*R`
 * passages `PA*PBLGS`
-* under `*UPBD`
+* under `TPH-PB`
 * heavy `HOEUF`
 * roof-beams. `RAOF H-PB PWAOEPLS TP-PL`
 * The `KPA/-T`
@@ -616,7 +616,7 @@
 * "I `KR-GS EU`
 * subdue `SUB/TKAOU`
 * all! `AUL SKHRAPL`
-* Under `KPA/*UPBD`
+* Under `KPA/TPH-PB`
 * shield `SHAOELD`
 * Pope, `PO*EP KW-BG`
 * cannot `K/TPHOT`

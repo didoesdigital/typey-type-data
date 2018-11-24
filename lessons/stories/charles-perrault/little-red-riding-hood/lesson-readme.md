@@ -263,7 +263,7 @@
 * in, `TPH KW-BG`
 * hiding `HAOEUD/-G`
 * himself `H*EUPLS`
-* under `*UPBD`
+* under `TPH-PB`
 * bedclothes: `xxx bedclothes STPH-FPLT`
 * "Put `KR-GS KPA/PUT`
 * cake, `KAEUBG KW-BG`

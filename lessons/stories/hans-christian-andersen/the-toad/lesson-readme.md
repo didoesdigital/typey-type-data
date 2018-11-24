@@ -200,7 +200,7 @@
 * made `PHAED`
 * grimaces `TKPWREUPL/AS/-S`
 * dived `TKAOEUFD`
-* under `*UPBD`
+* under `TPH-PB`
 * water. `WAUR TP-PL`
 * little `HREUL`
 * Toads `KPA/TOEDZ`

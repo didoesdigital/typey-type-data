@@ -413,7 +413,7 @@
 * seems `SAOEPLS`
 * me," `PHE KW-BG KR-GS`
 * wild `WAOEULD`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * though `THOE`
 * she `SHE`
 * did `TK`
@@ -443,7 +443,7 @@
 * awakes `A/WAEUBG/-S`
 * loveliness `HR*UF/HREU/*PBS`
 * beauty; `PWAOUT STPH*FPLT`
-* roses `ROESZ`
+* roses `ROES/-S`
 * blush `PWHRURB`
 * exhale `KPAEUL`
 * fragrance `TPRAEUG/RAPBS`

@@ -461,7 +461,7 @@
 * canteen, `KAPB/TAOEPB KW-BG`
 * comrades. `KOPL/RADZ TP-PL`
 * night `TPHAOEUT`
-* under `*UPBD`
+* under `TPH-PB`
 * open `OEP`
 * sky, `SKAOEU KW-BG`
 * wet `WET`

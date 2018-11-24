@@ -140,7 +140,7 @@
 * last `HRAFT`
 * thought `THAUT`
 * away `A/WAEU`
-* under `*UPBD`
+* under `TPH-PB`
 * take `TAEUBG`
 * found `TPOUPBD`
 * hand `HAPBD`
@@ -507,7 +507,7 @@
 * seem `SAOEPL`
 * taking `TAEUG`
 * blood `PWHRAOD`
-* rose `ROES`
+* rose `ROEZ`
 * south `SOUT`
 * beyond `KWROPBD`
 * cold `KOELD`
@@ -544,7 +544,7 @@
 * didn't `TK-PBT`
 * low `HROE`
 * north `TPHORT`
-* remember `REB`
+* remember `RER`
 * effect `EFBGT`
 * natural `TPHARL`
 * pretty `PREUT`

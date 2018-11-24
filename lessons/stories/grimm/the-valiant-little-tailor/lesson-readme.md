@@ -165,7 +165,7 @@
 * meantime `PHAO*EPB/TAOEUPL`
 * smell `SPHEL`
 * sweet `SWAOET`
-* rose `ROES`
+* rose `ROEZ`
 * where `W-R`
 * flies `TPHRAOEUS`
 * were `WR`
@@ -201,7 +201,7 @@
 * cloth `KHRO*T`
 * from `TPR`
 * hole `HOEL`
-* under `*UPBD`
+* under `TPH-PB`
 * work-table, `WORBG H-PB TAEUBL KW-BG`
 * saying: `SAEUG STPH-FPLT`
 * 'Wait, `AE KPA/WAEUT KW-BG`
@@ -416,7 +416,7 @@
 * delighted `TKHRAOEUTD`
 * its `EUTS`
 * liberty, `HREURBT KW-BG`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * flew `TPHRAOU`
 * back. `PWABG TP-PL`
 * 'How `AE KPA/HOU`

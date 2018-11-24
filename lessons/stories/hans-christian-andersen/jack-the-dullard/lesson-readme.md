@@ -137,7 +137,7 @@
 * embroider `EPL/PWROEUD/ER`
 * suspenders `SUS/PEPBD/*ER/-S`
 * with `W`
-* roses `ROESZ`
+* roses `ROES/-S`
 * flowers, `TPHRO*URS KW-BG`
 * arabesques, `AEUR/PWEFBG/-S KW-BG`
 * tasty, `TAEUS/TEU KW-BG`
@@ -449,7 +449,7 @@
 * provided `PROE/SRAOUD/-D`
 * number, `TPHUPL KW-BG`
 * placed `PHRAEUFD`
-* rows `RO*EZ`
+* rows `ROES`
 * immediately `PHAOELD`
 * arrival, `A/RAOEUFL KW-BG`
 * six `SEUBGS`
@@ -473,7 +473,7 @@
 * around `ARPBD`
 * castle, `KAFL KW-BG`
 * almost `HR-PL`
-* under `*UPBD`
+* under `TPH-PB`
 * windows, `WO*EUPBDZ KW-BG`
 * receive `SAOEF`
 * suitors; `SAOU/TOR/-S STPH*FPLT`

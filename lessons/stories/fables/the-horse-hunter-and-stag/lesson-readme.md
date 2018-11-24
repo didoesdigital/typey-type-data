@@ -88,7 +88,7 @@
 * have `SR`
 * now `TPHOU`
 * got `TKPWOT`
-* under `*UPBD`
+* under `TPH-PB`
 * bit `PWEUT`
 * spur, `SPUR KW-BG`
 * prefer `PREFR`

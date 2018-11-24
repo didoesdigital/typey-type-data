@@ -360,7 +360,7 @@
 * caught `KAUT`
 * fire. `TPAOEUR TP-PL`
 * flames `TPHRAEUPLS`
-* rose `ROES`
+* rose `ROEZ`
 * high, `HAOEU KW-BG`
 * beat `PWAET`
 * in, `TPH KW-BG`

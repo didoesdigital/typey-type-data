@@ -80,7 +80,7 @@
 * mother `PHOER`
 * sunk `S*UPBG`
 * completely `KPHRELT`
-* under `*UPBD`
+* under `TPH-PB`
 * deep `TKAOEP`
 * grief. `TKPWRAOEF TP-PL`
 * Day `KPA/TKAEU`

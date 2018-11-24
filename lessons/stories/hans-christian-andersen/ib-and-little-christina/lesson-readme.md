@@ -219,7 +219,7 @@
 * town `TOUPB`
 * Randers. `xxx Randers TP-PL`
 * There `KPA/THR`
-* under `*UPBD`
+* under `TPH-PB`
 * whose `WHOZ`
 * care `KAEUR`
 * leave `HREF`
@@ -907,7 +907,7 @@
 * mistress `PHEUS/TRES`
 * dress, `TKRES KW-BG`
 * nice `TPHAOEUS`
-* under-clothes. `*UPBD H-PB KHRO*ETS TP-PL`
+* under-clothes. `TPH-PB H-PB KHRO*ETS TP-PL`
 * This `KPA/TH`
 * was, `WAS KW-BG`
 * course, `KORS KW-BG`

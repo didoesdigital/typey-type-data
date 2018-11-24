@@ -41,7 +41,7 @@
 * from `TPR`
 * top `TOP`
 * bottom `PWOPLT`
-* roses `ROESZ`
+* roses `ROES/-S`
 * tulips; `TAOU/HREUPS STPH*FPLT`
 * most `PHOFT`
 * scrolls `SKROLS`
@@ -116,7 +116,7 @@
 * was, `WAS KW-BG`
 * looking `HRAOG`
 * table `TAEUBL`
-* under `*UPBD`
+* under `TPH-PB`
 * looking-glass, `HRAOG H-PB TKPWHRAS KW-BG`
 * where `W-R`
 * pretty `PREUT`
@@ -129,7 +129,7 @@
 * her `HER`
 * dress `TKRES`
 * red `RED`
-* rose `ROES`
+* rose `ROEZ`
 * or `OR`
 * ornament. `ORPB/APLT TP-PL`
 * She `KPA/SHE`
@@ -426,7 +426,7 @@
 * corner; `KRORPB STPH*FPLT`
 * can `K`
 * lie `HRAOEU`
-* rose-leaves `ROES H-PB HREFS`
+* rose-leaves `ROEZ H-PB HREFS`
 * lavender, `HRAF/TKER KW-BG`
 * throw `THROE`
 * salt `SALT`

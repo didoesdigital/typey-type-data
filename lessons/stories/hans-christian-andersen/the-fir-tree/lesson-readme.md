@@ -567,7 +567,7 @@
 * exactly `ELG`
 * real `RAEL`
 * babies, `PWAEBS KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * leaves,—the `HREFS KW-BG EPL/TKA*RB -T`
 * such `SUFP`
 * things `THEUPBGS`
@@ -931,7 +931,7 @@
 * "Who `KR-GS KPA/WHO`
 * Dumpty?" `KPA/TK*UPLT/KWREU H-F KR-GS`
 * whole `WHOEL`
-* remember `REB`
+* remember `RER`
 * single `SEUPBLG`
 * word, `WORD KW-BG`
 * delighted `TKHRAOEUTD`
@@ -999,7 +999,7 @@
 * blooming. `PWHRAOPL/-G TP-PL`
 * Fresh `KPA/TPRERB`
 * fragrant `TPRAEUG/RAPBT`
-* roses `ROESZ`
+* roses `ROES/-S`
 * palings. `xxx palings TP-PL`
 * linden-trees `xxx linden H-PB TRAOES`
 * blossom; `PWHROFPL STPH*FPLT`

@@ -303,7 +303,7 @@
 * iron `AOEURPB`
 * railings, `RAEULG/-S KW-BG`
 * once `WUPBS`
-* rose-tree `ROES H-PB TRAOE`
+* rose-tree `ROEZ H-PB TRAOE`
 * grew; `TKPWRAOU STPH*FPLT`
 * gone `TKPWOPB`
 * little `HREUL`

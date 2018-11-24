@@ -238,7 +238,7 @@
 * ship `SHEUP`
 * flying `TPHRAOEUG`
 * along `A/HROPBG`
-* under `*UPBD`
+* under `TPH-PB`
 * full `TPUL`
 * sail. `SAEUL TP-PL`
 * Was `KPA/WAS`
@@ -294,7 +294,7 @@
 * window `WOEUPBD`
 * looking `HRAOG`
 * mist `PHEUFT`
-* rose `ROES`
+* rose `ROEZ`
 * from `TPR`
 * meadows. `PHED/OES TP-PL`
 * They `KPA/THE`
@@ -311,7 +311,7 @@
 * than `THAPB`
 * air, `AEUR KW-BG`
 * why `KWR`
-* rose. `ROES TP-PL`
+* rose. `ROEZ TP-PL`
 * A `KPA/AEU`
 * shooting `SHAOGT`
 * star `STAR`

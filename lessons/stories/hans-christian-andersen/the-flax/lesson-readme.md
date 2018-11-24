@@ -298,7 +298,7 @@
 * time, `TAOEUPL KW-BG`
 * into `TPHAO`
 * house, `HOUS KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * scissors, `SEUS/ORS KW-BG`
 * cut `KUT`
 * torn `TORPB`

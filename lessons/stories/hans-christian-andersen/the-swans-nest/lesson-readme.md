@@ -85,7 +85,7 @@
 * came `KAEUPL`
 * from `TPR`
 * fire `TPAOEUR`
-* under `*UPBD`
+* under `TPH-PB`
 * wings; `WEUPBGS STPH*FPLT`
 * people `PAOEPL`
 * prayed, `PRAEUD KW-BG`

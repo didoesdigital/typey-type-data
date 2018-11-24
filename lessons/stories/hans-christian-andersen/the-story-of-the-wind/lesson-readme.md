@@ -282,7 +282,7 @@
 * collecting `KHREBGT/-G`
 * branches `PWRAFPBS`
 * brushwood `xxx brushwood`
-* under `*UPBD`
+* under `TPH-PB`
 * oak-trees. `OEBG H-PB TRAOES TP-PL`
 * largest `HRARPBLG/EFT`
 * dryest `TKRAOEU/EFT`
@@ -345,7 +345,7 @@
 * beautiful—three `PWAOUFL EPL/TKA*RB THRAOE`
 * charming `KHARPL/-G`
 * blossoms—a `PWROS/SOPL/-S EPL/TKA*RB AEU`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * lily, `HREUL/KWREU KW-BG`
 * white `WHAOEUT`
 * hyacinth. `HAOEU/S*EUPBT TP-PL`
@@ -390,7 +390,7 @@
 * villages `SREULGS`
 * near. `TPHAOER TP-PL`
 * night, `TPHAOEUT KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * again, `TKPWEPB KW-BG`
 * rise `RAOEUZ`
 * no `TPHO`

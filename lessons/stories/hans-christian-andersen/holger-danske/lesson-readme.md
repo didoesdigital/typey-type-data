@@ -376,7 +376,7 @@
 * Ulfeld, `xxx Ulfeld KW-BG`
 * flame `TPHRAEUPL`
 * became `PWAEUPL`
-* rose `ROES`
+* rose `ROEZ`
 * her `HER`
 * bosom, `PWUZ/OPL KW-BG`
 * its `EUTS`
@@ -519,7 +519,7 @@
 * fought `TPAUT`
 * something `S-G`
 * still `STEUL`
-* remember `REB`
+* remember `RER`
 * face, `TPAEUS KW-BG`
 * from `TPR`
 * whence `WHEPBS`

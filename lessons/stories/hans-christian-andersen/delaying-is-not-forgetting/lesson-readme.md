@@ -22,7 +22,7 @@
 * are `R`
 * good `TKPWAOD`
 * people. `PAOEPL TP-PL`
-* Under `KPA/*UPBD`
+* Under `KPA/TPH-PB`
 * the `-T`
 * roof `RAOF`
 * were `WR`
@@ -59,7 +59,7 @@
 * great `TKPWRAET`
 * deal `TKAOEL`
 * smoke `SPHOEBG`
-* rose `ROES`
+* rose `ROEZ`
 * up `UP`
 * from `TPR`
 * chimney `KHEUPL/TPHEU`
@@ -145,7 +145,7 @@
 * "do `KR-GS TKO`
 * you `U`
 * still `STEUL`
-* remember `REB`
+* remember `RER`
 * how `HOU`
 * my `PHEU`
 * father, `TPAER KW-BG`
@@ -176,7 +176,7 @@
 * put `PUT`
 * little `HREUL`
 * stones `STOEPBS`
-* under `*UPBD`
+* under `TPH-PB`
 * each `AOEFP`
 * feet `TPAOET`
 * might `PHAOEUT`
@@ -255,7 +255,7 @@
 * In `KPA/TPH`
 * garden `TKPWA*RPB`
 * grow `TKPWROE`
-* roses; `ROESZ STPH*FPLT`
+* roses; `ROES/-S STPH*FPLT`
 * herself `H*ERS`
 * finest `TPAOEUPB/EFT`
 * petal, `PET/TAL KW-BG`

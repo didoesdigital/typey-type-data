@@ -307,7 +307,7 @@
 * sitting `SEUGT`
 * before `PW-F`
 * house `HOUS`
-* under `*UPBD`
+* under `TPH-PB`
 * high `HAOEU`
 * tree, `TRAOE KW-BG`
 * way.' `WAEU TP-PL AE`

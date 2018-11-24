@@ -203,7 +203,7 @@
 * speaking `SPAOEG`
 * these `THEZ`
 * words, `WORDZ KW-BG`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * pearls, `PERLS KW-BG`
 * diamonds. `TKAOEUPLDZ TP-PL`
 * "What `KR-GS KPA/WHA`
@@ -226,7 +226,7 @@
 * child.) `KHAOEULD TP-PL PR*EPB`
 * creature `KRAOEFP`
 * told `TOLD`
-* frankly `TPHRAPBG/HREU`
+* frankly `TPRAPB/KHREU`
 * matter, `PHAERT KW-BG`
 * without `WOUT`
 * dropping `TROPG`

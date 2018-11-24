@@ -20,7 +20,7 @@
 * wherein `WR-PB`
 * stood `STAOD`
 * two `TWO`
-* rose-trees, `ROES H-PB TRAOES KW-BG`
+* rose-trees, `ROEZ H-PB TRAOES KW-BG`
 * one `WUPB`
 * which `WEU`
 * bore `PWOR`
@@ -28,7 +28,7 @@
 * and `SKP`
 * other `OER`
 * red `RED`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * She `KPA/SHE`
 * had `H`
 * children `KHEURPB`
@@ -230,7 +230,7 @@
 * bed `PWED`
 * before `PW-F`
 * awoke, `A/WOEBG KW-BG`
-* rose `ROES`
+* rose `ROEZ`
 * from `TPR`
 * tree. `TRAOE TP-PL`
 * winter `WEURPBT`
@@ -775,7 +775,7 @@
 * stones, `STOEPBS KW-BG`
 * slipped `SHREUPD`
 * again `TKPWEPB`
-* under `*UPBD`
+* under `TPH-PB`
 * hole. `HOEL TP-PL`
 * girls, `TKPWEURLS KW-BG`
 * ingratitude, `EUPB/TKPWAT/TAOUD KW-BG`
@@ -885,10 +885,10 @@
 * peacefully `PAES/TPHREU`
 * happily `HAP/HREU`
 * years. `KWRAOERS TP-PL`
-* rose-trees `ROES H-PB TRAOES`
+* rose-trees `ROEZ H-PB TRAOES`
 * her, `HER KW-BG`
 * window, `WOEUPBD KW-BG`
 * year `KWRAOER`
 * most `PHOFT`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * red. `RED TP-PL`

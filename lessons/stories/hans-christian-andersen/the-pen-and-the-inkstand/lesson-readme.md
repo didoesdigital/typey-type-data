@@ -400,7 +400,7 @@
 * did `TK`
 * sleep. `SHRAOEP TP-PL`
 * Thoughts `KPA/THAUTS`
-* rose `ROES`
+* rose `ROEZ`
 * up `UP`
 * violin, `SRO*EUPBL KW-BG`
 * falling `TPAULG`

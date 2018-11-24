@@ -283,7 +283,7 @@
 * which, `WEU KW-BG`
 * Runes `xxx Runes`
 * laid `HRAEUD`
-* under `*UPBD`
+* under `TPH-PB`
 * man's `PHAPB/AES`
 * tongue, `TUPBG KW-BG`
 * force `TPORS`

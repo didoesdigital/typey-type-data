@@ -21,7 +21,7 @@
 * flower; `TPHRO*UR STPH*FPLT`
 * in `TPH`
 * bulb `P*UBL`
-* under `*UPBD`
+* under `TPH-PB`
 * snow-covered `STPHOE H-PB KOFRD`
 * earth. `*ERT TP-PL`
 * One `KPA/WUPB`
@@ -231,7 +231,7 @@
 * companions, `KPAPB/KWROPBS KW-BG`
 * syringas, `xxx syringas KW-BG`
 * laburnums, `xxx laburnums KW-BG`
-* roses; `ROESZ STPH*FPLT`
+* roses; `ROES/-S STPH*FPLT`
 * graceful, `TKPWRAEUS/-FL KW-BG`
 * delicate!" `TKEL/KAT SKHRAPL KR-GS`
 * That `KPA/THA`

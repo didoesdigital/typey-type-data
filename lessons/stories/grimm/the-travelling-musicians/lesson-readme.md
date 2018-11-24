@@ -300,7 +300,7 @@
 * sleep. `SHRAOEP TP-PL`
 * themselves `TH*EPLS`
 * down `TKOUPB`
-* under `*UPBD`
+* under `TPH-PB`
 * tree, `TRAOE KW-BG`
 * climbed `KHRAOEUPLD`
 * branches; `PWRAFPBS STPH*FPLT`

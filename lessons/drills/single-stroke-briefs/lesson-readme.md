@@ -1530,7 +1530,7 @@
 * cramp `KRAFRP`
 * crane `KRAEUPB`
 * cranial `KHAEUPBL`
-* crank `KRAPBG`
+* crank `KRA*PBG`
 * crap `KRAP`
 * crash `KRARB`
 * crass `KRAS`
@@ -2724,7 +2724,7 @@
 * hug `HUG`
 * hugged `HUGD`
 * huh `H*U`
-* hulk `HULG`
+* hulk `H*ULG`
 * hull `HUL`
 * hum `HUPL`
 * human `HAOUPL`
@@ -4205,7 +4205,7 @@
 * relevant `REFLT`
 * remainder `RAEURPBD`
 * remark `RARBG`
-* remember `REB`
+* remember `RER`
 * remembered `RERD`
 * remembrance `RERPBS`
 * remind `R*EUPBD`

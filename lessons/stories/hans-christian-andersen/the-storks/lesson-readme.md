@@ -138,7 +138,7 @@
 * sang `SAPBG`
 * what `WHA`
 * could `KO`
-* remember `REB`
+* remember `RER`
 * them `THEPL`
 * his `HEUS`
 * own `OEPB`

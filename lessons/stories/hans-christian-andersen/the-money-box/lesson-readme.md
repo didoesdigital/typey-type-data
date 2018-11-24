@@ -356,7 +356,7 @@
 * much. `PHUFP TP-PL`
 * So `KPA/SO`
 * mind `PHAOEUPBD`
-* remember `REB`
+* remember `RER`
 * them `THEPL`
 * will, `HR KW-BG`
 * buried `PWUR/EUD`

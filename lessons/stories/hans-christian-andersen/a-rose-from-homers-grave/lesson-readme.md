@@ -9,7 +9,7 @@
 * love `HRUF`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * for `TPOR`
-* rose `ROES`
+* rose `ROEZ`
 * in `TPH`
 * silent `SHREPBT`
 * starlight `STARLGT`
@@ -48,7 +48,7 @@
 * saw `SAU`
 * a `AEU`
 * hedge `HEPBL`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * turtle-dove `TURLT H-PB TKOF`
 * flew `TPHRAOU`
 * among `PHOPBG`
@@ -66,7 +66,7 @@
 * were `WR`
 * mother-of-pearl. `PHOER H-PB -F H-PB PERL TP-PL`
 * On `KPA/OPB`
-* rose-bush `ROES H-PB PWURB`
+* rose-bush `ROEZ H-PB PWURB`
 * grew `TKPWRAOU`
 * flower, `TPHRO*UR KW-BG`
 * more `PHOR`
@@ -213,7 +213,7 @@
 * singer's `SEURPBG AES`
 * grave. `TKPWRAEUF TP-PL`
 * sun `SUPB`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * bloomed `PWHRAOPL/-D`
 * ever. `-FR TP-PL`
 * day `TKAEU`

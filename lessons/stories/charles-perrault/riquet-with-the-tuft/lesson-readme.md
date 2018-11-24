@@ -73,7 +73,7 @@
 * somewhat `SWHA`
 * comforted `K-FRTD`
 * poor `PAOR`
-* under `*UPBD`
+* under `TPH-PB`
 * grievous `TKPWRAOEF/US`
 * affliction `A/TPHREUBGS`
 * having `SR-G`

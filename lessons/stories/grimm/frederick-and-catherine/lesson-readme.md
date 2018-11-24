@@ -599,7 +599,7 @@
 * lost; `HRO*S STPH*FPLT`
 * tired; `TAOEURD STPH*FPLT`
 * sat `SAT`
-* under `*UPBD`
+* under `TPH-PB`
 * were. `WR TP-PL`
 * slipped `SHREUPD`
 * side, `SAOEUD KW-BG`

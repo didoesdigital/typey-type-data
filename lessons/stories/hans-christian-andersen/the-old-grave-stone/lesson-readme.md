@@ -203,7 +203,7 @@
 * worthy `WO*RT/KWREU`
 * couple, `KUPL KW-BG`
 * I `EU`
-* remember `REB`
+* remember `RER`
 * well `WEL`
 * days `TKAEUS`
 * my `PHEU`
@@ -329,7 +329,7 @@
 * man, `PHAPB KW-BG`
 * watch `WAFP`
 * color `KROR`
-* rose `ROES`
+* rose `ROEZ`
 * cheeks `KHAOEBGS`
 * courtship, `xxx courtship KW-BG`
 * beautiful `PWAOUFL`
@@ -413,7 +413,7 @@
 * wickerwork, `xxx wickerwork KW-BG`
 * bench `PWEFRPB`
 * high `HAOEU`
-* under `*UPBD`
+* under `TPH-PB`
 * lime-tree, `HRAOEUPL H-PB TRAOE KW-BG`
 * considered, `KR-D KW-BG`
 * road-inspectors, `RAOD H-PB TPH-PT/TORS KW-BG`

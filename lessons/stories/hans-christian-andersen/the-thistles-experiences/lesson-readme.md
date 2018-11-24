@@ -203,7 +203,7 @@
 * if `TP`
 * grown `TKPWROEPB`
 * sharpest `SHARP/EFT`
-* rose `ROES`
+* rose `ROEZ`
 * placed `PHRAEUFD`
 * thistle-flower `THEUFL H-PB TPHRO*UR`
 * buttonhole `PW*UPBT/HOEL`

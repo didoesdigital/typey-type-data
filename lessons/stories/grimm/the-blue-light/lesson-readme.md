@@ -552,7 +552,7 @@
 * obliged `OE/PWHRAOEUPBLGD`
 * away, `A/WAEU KW-BG`
 * hid `HEUD`
-* under `*UPBD`
+* under `TPH-PB`
 * entire `SPWAOEUR`
 * searched `SEFRPBD`
 * daughter's `TKAUR/AES`

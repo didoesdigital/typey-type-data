@@ -123,7 +123,7 @@
 * turns `TURPBS`
 * side `SAOEUD`
 * side. `SAOEUD TP-PL`
-* Under `KPA/*UPBD`
+* Under `KPA/TPH-PB`
 * each `AOEFP`
 * arm `ARPL`
 * carries `KAERS`
@@ -212,7 +212,7 @@
 * flowers, `TPHRO*URS KW-BG`
 * flower `TPHRO*UR`
 * fragrant `TPRAEUG/RAPBT`
-* rose; `ROES STPH*FPLT`
+* rose; `ROEZ STPH*FPLT`
 * and, `SKP KW-BG`
 * had `H`
 * any `TPHEU`
@@ -295,7 +295,7 @@
 * This `KPA/TH`
 * formed `TPORPLD`
 * copy; `KO*EP STPH*FPLT`
-* under `*UPBD`
+* under `TPH-PB`
 * these `THEZ`
 * written: `WREUPB STPH-FPLT`
 * fancied `TPAPB/SEU/-D`
@@ -879,7 +879,7 @@
 * allow `HROU`
 * thimble `THEUPL/-BL`
 * drive `KRAOEUF`
-* under, `*UPBD KW-BG`
+* under, `TPH-PB KW-BG`
 * passage `PAFPBLG`
 * lit `HREUT`
 * phosphorescent `TPOS/TPOR/ES/EPBT`

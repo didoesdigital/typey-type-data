@@ -270,7 +270,7 @@
 * lose `HRUZ`
 * life `HRAOEUF`
 * way!' `WAEU SKHRAPL AE`
-* rose `ROES`
+* rose `ROEZ`
 * up `UP`
 * opened `OEPD`
 * drawers `TKRAURS`
@@ -549,7 +549,7 @@
 * answered, `AEPBS/-D KW-BG`
 * 'With `AE KPA/W`
 * castle `KAFL`
-* under `*UPBD`
+* under `TPH-PB`
 * ground.' `TKPWROUPBD TP-PL AE`
 * told `TOLD`
 * showed `SHOED`

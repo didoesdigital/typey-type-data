@@ -755,7 +755,7 @@
 * Towards `KPA/TORDZ`
 * evening, `AOEPBG KW-BG`
 * moon `PHAOPB`
-* rose `ROES`
+* rose `ROEZ`
 * beautifully, `PWAOUFL/HREU KW-BG`
 * though `THOE`
 * yet `KWRET`

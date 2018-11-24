@@ -29,7 +29,7 @@
 * profusion `PRO/TPAOUGS`
 * covered `KOFRD`
 * hedges. `HEPBL/-S TP-PL`
-* Under `KPA/*UPBD`
+* Under `KPA/TPH-PB`
 * little `HREUL`
 * apple-tree, `A*EPL H-PB TRAOE KW-BG`
 * Spring `KPA/SPREUPBG`
@@ -345,7 +345,7 @@
 * ever `-FR`
 * places `PHRAEUFS`
 * trodden `TROD/*EPB`
-* under `*UPBD`
+* under `TPH-PB`
 * foot, `TPAOT KW-BG`
 * many `PHAEPB`
 * them; `THEPL STPH*FPLT`

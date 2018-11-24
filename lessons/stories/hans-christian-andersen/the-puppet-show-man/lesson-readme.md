@@ -194,7 +194,7 @@
 * are `R`
 * hidden `HEUD/EPB`
 * away `A/WAEU`
-* under `*UPBD`
+* under `TPH-PB`
 * earth. `*ERT TP-PL`
 * experiments `SPERPLTS`
 * were `WR`
@@ -469,7 +469,7 @@
 * myself `PHAO*EUS`
 * lying `HRAOEUG`
 * floor. `TPHRAOR TP-PL`
-* remember `REB`
+* remember `RER`
 * well. `WEL TP-PL`
 * sprang `SPRAPBG`
 * box. `PWOBGS TP-PL`

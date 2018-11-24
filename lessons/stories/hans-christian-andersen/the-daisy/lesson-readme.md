@@ -171,7 +171,7 @@
 * be `-B`
 * larger `HRARPBLG/ER`
 * than `THAPB`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * size `SAOEUZ`
 * is `S`
 * everything! `EFG SKHRAPL`
@@ -254,7 +254,7 @@
 * sang `SAPBG`
 * it, `T KW-BG`
 * then `THEPB`
-* rose `ROES`
+* rose `ROEZ`
 * again `TKPWEPB`
 * blue `PWHRU`
 * sky. `SKAOEU TP-PL`

@@ -572,7 +572,7 @@
 * pomp `POFRP`
 * power `POUR`
 * Church. `KH*UFRPB TP-PL`
-* rows `RO*EZ`
+* rows `ROES`
 * burning `PWURPBG`
 * lights, `HRAOEUTS KW-BG`
 * sizes, `SAOEUSZ KW-BG`
@@ -602,7 +602,7 @@
 * asleep, `A/HRAOEP KW-BG`
 * broke, `PWROEBG KW-BG`
 * sun `SUPB`
-* rose. `ROES TP-PL`
+* rose. `ROEZ TP-PL`
 * 'Ha!' `AE KPA/HA SKHRAPL AE`
 * thought `THAUT`
 * woke `WOEBG`

@@ -17,7 +17,7 @@
 * saw `SAU`
 * Wolf `KPA/WOFL`
 * passing `PAFG`
-* under `*UPBD`
+* under `TPH-PB`
 * him. `HEUPL TP-PL`
 * Immediately `KPA/PHAOELD`
 * he `HE`

@@ -147,7 +147,7 @@
 * formed `TPORPLD`
 * blue `PWHRU`
 * violet-leaves, `SROEULT H-PB HREFS KW-BG`
-* rose-leaf `ROES H-PB HRAOEF`
+* rose-leaf `ROEZ H-PB HRAOEF`
 * counterpane. `xxx counterpane TP-PL`
 * Here `KPA/HAOER`
 * slept `SHREPD`
@@ -217,7 +217,7 @@
 * right `RAOEUT`
 * table `TAEUBL`
 * sleeping `SHRAOEPG`
-* under `*UPBD`
+* under `TPH-PB`
 * quilt. `KWEULT TP-PL`
 * "What `KR-GS KPA/WHA`
 * wife `WAOEUF`
@@ -510,7 +510,7 @@
 * loveliest `HROFL/KWREFT`
 * imagine, `PHAPBLG KW-BG`
 * tender `TERPBD`
-* rose-leaf. `ROES H-PB HRAOEF TP-PL`
+* rose-leaf. `ROEZ H-PB HRAOEF TP-PL`
 * During `KPA/TKURG`
 * whole `WHOEL`
 * summer `SAOURPL`
@@ -906,7 +906,7 @@
 * journey `SKWRURPB`
 * countries. `KUPBTS TP-PL`
 * fallen `TPAUL/-PB`
-* remember `REB`
+* remember `RER`
 * more, `PHOR KW-BG`
 * nor `TPH-R`
 * underground, `UPBD/TKPWROUPBD KW-BG`
@@ -939,7 +939,7 @@
 * sunshine. `SUPB/SHAO*EUPB TP-PL`
 * looked `HRAOBGD`
 * tears `TAERS`
-* rose `ROES`
+* rose `ROEZ`
 * eyes. `AO*EUS TP-PL`
 * fond `TPOPBD`
 * swallow. `SWO*EUL TP-PL`
@@ -997,7 +997,7 @@
 * place. `PHRAEUS TP-PL`
 * pleased; `PHRAOEFD STPH*FPLT`
 * tiresome `TAOEUR/SO*PL`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * down, `TKOUPB KW-BG`
 * creep `KRAOEP`
 * door, `TKAOR KW-BG`

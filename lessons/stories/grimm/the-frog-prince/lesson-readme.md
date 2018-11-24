@@ -29,7 +29,7 @@
 * of `-F`
 * water, `WAUR KW-BG`
 * that `THA`
-* rose `ROES`
+* rose `ROEZ`
 * the `-T`
 * midst `PHEUDZ`
 * it, `T KW-BG`
@@ -180,7 +180,7 @@
 * his `HEUS`
 * down, `TKOUPB KW-BG`
 * dived `TKAOEUFD`
-* under `*UPBD`
+* under `TPH-PB`
 * water; `WAUR STPH*FPLT`
 * little `HREUL`
 * while `WHAOEUL`

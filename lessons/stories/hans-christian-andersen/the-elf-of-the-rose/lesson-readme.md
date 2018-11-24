@@ -7,14 +7,14 @@
 * a `AEU`
 * garden `TKPWA*RPB`
 * grew `TKPWRAOU`
-* rose-tree, `ROES H-PB TRAOE KW-BG`
+* rose-tree, `ROEZ H-PB TRAOE KW-BG`
 * in `TPH`
 * full `TPUL`
 * blossom, `PWHROFPL KW-BG`
 * and `SKP`
 * prettiest `PRET/KWREFT`
 * all `AUL`
-* roses `ROESZ`
+* roses `ROES/-S`
 * lived `HREUFD`
 * an `APB`
 * elf. `*EFL TP-PL`
@@ -34,7 +34,7 @@
 * Behind `KPA/HEUPBD`
 * each `AOEFP`
 * leaf `HRAOEF`
-* rose `ROES`
+* rose `ROEZ`
 * he `HE`
 * had `H`
 * sleeping `SHRAOEPG`
@@ -66,7 +66,7 @@
 * they `THE`
 * blushing `PWHRURB/-G`
 * leaves `HREFS`
-* rose. `ROES TP-PL`
+* rose. `ROEZ TP-PL`
 * During `KPA/TKURG`
 * whole `WHOEL`
 * day `TKAEU`
@@ -159,7 +159,7 @@
 * slumbered `SHRUPL/PWER/-D`
 * secretly `SKRELT`
 * behind `HEUPBD`
-* rose-leaves. `ROES H-PB HREFS TP-PL`
+* rose-leaves. `ROEZ H-PB HREFS TP-PL`
 * this `TH`
 * certainly `SERPBL`
 * death. `TK*T TP-PL`
@@ -242,7 +242,7 @@
 * wept, `WEPT KW-BG`
 * gave `TKPWAEUF`
 * him `HEUPL`
-* rose; `ROES STPH*FPLT`
+* rose; `ROEZ STPH*FPLT`
 * she `SHE`
 * did `TK`
 * so, `SO KW-BG`
@@ -303,7 +303,7 @@
 * knife, `TPHAOEUF KW-BG`
 * while `WHAOEUL`
 * kissing `KEUFG`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * stabbed `STABD`
 * death; `TK*T STPH*FPLT`
 * cut `KUT`
@@ -313,7 +313,7 @@
 * body `PWO*ED`
 * soft `SOFT`
 * earth `*ERT`
-* under `*UPBD`
+* under `TPH-PB`
 * "Now `KR-GS KPA/TPHOU`
 * is `S`
 * gone, `TKPWOPB KW-BG`
@@ -438,7 +438,7 @@
 * window `WOEUPBD`
 * day, `TKAEU KW-BG`
 * easily `AOELS`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * or `OR`
 * flowers; `TPHRO*URS STPH*FPLT`
 * leave `HREF`
@@ -446,7 +446,7 @@
 * bush `PWURB`
 * bearing `PWAERG`
 * monthly `PHO*PBLT`
-* roses. `ROESZ TP-PL`
+* roses. `ROES/-S TP-PL`
 * seated `SAOETD`
 * flowers, `TPHRO*URS KW-BG`
 * gazed `TKPWAEZ/-D`

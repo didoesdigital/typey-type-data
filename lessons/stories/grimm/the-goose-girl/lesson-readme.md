@@ -427,7 +427,7 @@
 * wished; `WEURBD STPH*FPLT`
 * head, `HED KW-BG`
 * nailed `TPHAEULD`
-* under `*UPBD`
+* under `TPH-PB`
 * gate. `TKPWAET TP-PL`
 * Early `KPA/ERL`
 * next `TPHEGT`

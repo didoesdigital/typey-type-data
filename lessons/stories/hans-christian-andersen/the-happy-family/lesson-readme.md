@@ -141,7 +141,7 @@
 * how `HOU`
 * were; `WR STPH*FPLT`
 * could `KO`
-* remember `REB`
+* remember `RER`
 * time `TAOEUPL`
 * were `WR`
 * more `PHOR`

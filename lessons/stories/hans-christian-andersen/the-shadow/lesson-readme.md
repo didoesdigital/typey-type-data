@@ -916,7 +916,7 @@
 * nature `TPHAEURT`
 * true `TRAOU`
 * you, `U KW-BG`
-* remember `REB`
+* remember `RER`
 * larger `HRARPBLG/ER`
 * sunrise `SUPB/RAOEUZ`
 * sunset, `SAUPB/SET KW-BG`
@@ -941,7 +941,7 @@
 * put `PUT`
 * book. `PWAOBG TP-PL`
 * hid `HEUD`
-* under `*UPBD`
+* under `TPH-PB`
 * cloak `KHROEBG`
 * cake `KAEUBG`
 * woman, `WOPL KW-BG`

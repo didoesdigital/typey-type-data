@@ -216,7 +216,7 @@
 * speaking `SPAOEG`
 * her, `HER KW-BG`
 * telling `TELG`
-* remember `REB`
+* remember `RER`
 * Joseph's `SKWROE/SEF AES`
 * brethren `PWR*ET/REPB`
 * when `WHEPB`
@@ -327,7 +327,7 @@
 * few `TPAOU`
 * weeks `WAOEBGS`
 * afterwards, `A*FRDZ KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * young `KWRUPBG`
 * girl's `TKPWEURL/AES`
 * head `HED`

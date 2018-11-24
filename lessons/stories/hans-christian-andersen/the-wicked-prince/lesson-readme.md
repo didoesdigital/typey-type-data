@@ -163,7 +163,7 @@
 * hear `HAER`
 * sighs `SAOEU/-S`
 * lamentations `HRAPLT/TAEUGS/-S`
-* rose `ROES`
+* rose `ROEZ`
 * debris `TKEB/REU`
 * cities. `STEUS TP-PL`
 * often `OFPB`

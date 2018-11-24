@@ -568,7 +568,7 @@
 * farther `TPA*RT`
 * wood; `WAOD STPH*FPLT`
 * stands `STAPBDZ`
-* under `*UPBD`
+* under `TPH-PB`
 * three `THRAOE`
 * oak-trees, `OEBG H-PB TRAOES KW-BG`
 * nut-trees `TPHUT H-PB TRAOES`

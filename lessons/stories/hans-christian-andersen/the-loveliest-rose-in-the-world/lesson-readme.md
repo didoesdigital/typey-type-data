@@ -26,7 +26,7 @@
 * She `KPA/SHE`
 * specially `SPERBL/HREU`
 * loved `HROFD`
-* roses, `ROESZ KW-BG`
+* roses, `ROES/-S KW-BG`
 * therefore `TH-FR`
 * she `SHE`
 * possessed `POS/ES/-D`
@@ -36,14 +36,14 @@
 * this `TH`
 * flower, `TPHRO*UR KW-BG`
 * wild `WAOEULD`
-* hedge-rose, `HEPBL H-PB ROES KW-BG`
+* hedge-rose, `HEPBL H-PB ROEZ KW-BG`
 * with `W`
 * its `EUTS`
 * apple-scented `A*EPL H-PB SKREPBT/-D`
 * leaves, `HREFS KW-BG`
 * to `TO`
 * Provence `xxx Provence`
-* rose. `ROES TP-PL`
+* rose. `ROEZ TP-PL`
 * They `KPA/THE`
 * grew `TKPWRAOU`
 * near `TPHAOER`
@@ -94,7 +94,7 @@
 * "Bring `KR-GS KPA/PWREU`
 * her `HER`
 * loveliest `HROFL/KWREFT`
-* rose `ROES`
+* rose `ROEZ`
 * world; `WORLD STPH*FPLT`
 * which `WEU`
 * exhibits `KPEUBTS`
@@ -115,7 +115,7 @@
 * came `KAEUPL`
 * those `THOZ`
 * who `WHO`
-* roses `ROESZ`
+* roses `ROES/-S`
 * bloomed `PWHRAOPL/-D`
 * garden, `TKPWA*RPB KW-BG`
 * but `PWUT`
@@ -133,7 +133,7 @@
 * love? `HRUF H-F`
 * poets `POETS`
 * sang `SAPBG`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * world, `WORLD KW-BG`
 * each `AOEFP`
 * named `TPHAEUPLD`
@@ -247,7 +247,7 @@
 * childlike `xxx childlike`
 * affection." `A*FBGS TP-PL KR-GS`
 * "This `KR-GS KPA/TH`
-* rose," `ROES KW-BG KR-GS`
+* rose," `ROEZ KW-BG KR-GS`
 * man; `PHAPB STPH*FPLT`
 * "but `KR-GS PWUT`
 * more `PHOR`
@@ -264,7 +264,7 @@
 * white, `WHAOEUT KW-BG`
 * like `HRAOEUBG`
 * leaves `HREFS`
-* blush-rose. `PWHRURB H-PB ROES TP-PL`
+* blush-rose. `PWHRURB H-PB ROEZ TP-PL`
 * I `EU`
 * saw `SAU`
 * had `H`

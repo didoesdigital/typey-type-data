@@ -244,7 +244,7 @@
 * softly `SOFT/HREU`
 * hid `HEUD`
 * himself `H*EUPLS`
-* under `*UPBD`
+* under `TPH-PB`
 * father's `TPA*ER/AES`
 * stool, `STOL KW-BG`
 * hear `HAER`
@@ -1142,6 +1142,6 @@
 * settled `S*ELTD`
 * handsomely `HAPBD/SOPL/HREU`
 * mean `PHAOEPB`
-* rose `ROES`
+* rose `ROEZ`
 * King's `KO*EUPBG AES`
 * favour. `TPAEU/SROUR TP-PL`

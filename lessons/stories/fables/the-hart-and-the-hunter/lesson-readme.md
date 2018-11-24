@@ -77,7 +77,7 @@
 * where `W-R`
 * going, `TKPW-G KW-BG`
 * passed `PAFD`
-* under `*UPBD`
+* under `TPH-PB`
 * some `SOPL`
 * trees `TRAOES`
 * branches `PWRAFPBS`

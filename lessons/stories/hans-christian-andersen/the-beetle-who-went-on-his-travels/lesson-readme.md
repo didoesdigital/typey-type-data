@@ -203,7 +203,7 @@
 * flower-garden, `TPHRO*UR H-PB TKPWA*RPB KW-BG`
 * all `AUL`
 * fragrant `TPRAEUG/RAPBT`
-* roses `ROESZ`
+* roses `ROES/-S`
 * lavender. `HRAF/TKER TP-PL`
 * The `KPA/-T`
 * lady-birds, `HRA*ED H-PB PWEURDZ KW-BG`
@@ -244,7 +244,7 @@
 * Then `KPA/THEPB`
 * went `WEPBT`
 * on, `OPB KW-BG`
-* under `*UPBD`
+* under `TPH-PB`
 * shadow `SHO*EUD`
 * large `HRARPBLG`
 * haystack `HA*EU/STABG`
@@ -1098,7 +1098,7 @@
 * emperor `EPL/ROR`
 * me? `PHE H-F`
 * Ah, `KPA/HA*E KW-BG`
-* remember `REB`
+* remember `RER`
 * now,—that's `TPHOU KW-BG EPL/TKA*RB THA AES`
 * thought,—he `THAUT KW-BG EPL/TKA*RB HE`
 * answer `AEPBS`

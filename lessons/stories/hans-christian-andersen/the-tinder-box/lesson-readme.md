@@ -41,7 +41,7 @@
 * in `TPH`
 * road. `RAOD TP-PL`
 * Her `KPA/HER`
-* under-lip `*UPBD H-PB HREUP`
+* under-lip `TPH-PB H-PB HREUP`
 * hung `HUPBG`
 * quite `KWAOEUT`
 * down `TKOUPB`
@@ -128,7 +128,7 @@
 * know `TPHOE`
 * reach `RAOEFP`
 * ground `TKPWROUPBD`
-* under `*UPBD`
+* under `TPH-PB`
 * tree, `TRAOE KW-BG`
 * find `TPEUPBD`
 * hall, `HAUL KW-BG`
@@ -683,7 +683,7 @@
 * did, `TK KW-BG`
 * carried `KAERD`
 * house. `HOUS TP-PL`
-* remember `REB`
+* remember `RER`
 * cross `KROS`
 * chalk. `KHAUBG TP-PL`
 * home `HOEPL`

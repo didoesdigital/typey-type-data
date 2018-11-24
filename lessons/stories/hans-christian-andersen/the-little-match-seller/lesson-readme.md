@@ -165,7 +165,7 @@
 * She `KPA/SHE`
 * drawn `TKRAUPB`
 * feet `TPAOET`
-* under `*UPBD`
+* under `TPH-PB`
 * her, `HER KW-BG`
 * keep `KAOEP`
 * off `OF`
@@ -339,7 +339,7 @@
 * out. `OUT TP-PL`
 * Christmas `KREUS/PHAS`
 * lights `HRAOEUTS`
-* rose `ROES`
+* rose `ROEZ`
 * higher `HAOEUR`
 * higher, `HAOEUR KW-BG`
 * till `T*EUL`

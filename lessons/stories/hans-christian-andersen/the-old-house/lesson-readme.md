@@ -61,7 +61,7 @@
 * at `AT`
 * you `U`
 * from `TPR`
-* under `*UPBD`
+* under `TPH-PB`
 * cornices. `KORPB/EUS/-S TP-PL`
 * One `KPA/WUPB`
 * story `STOER`
@@ -505,7 +505,7 @@
 * ago, `AG KW-BG`
 * half `HAF`
 * century." `KROEURPBT TP-PL KR-GS`
-* Under `KPA/*UPBD`
+* Under `KPA/TPH-PB`
 * glass `TKPWHRAS`
 * beneath `TPHAO*ET`
 * nosegay `TPHOES/TKPWAEU`
@@ -937,7 +937,7 @@
 * chattered `KHAT/ERD`
 * together `TOGT`
 * house; `HOUS STPH*FPLT`
-* remember `REB`
+* remember `RER`
 * indeed, `TPHAOEPBD KW-BG`
 * proud `PROUD`
 * married, `PHAERD KW-BG`

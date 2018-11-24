@@ -264,7 +264,7 @@
 * else.' `ELS TP-PL AE`
 * took `TAOBG`
 * bread `PWRAED`
-* under `*UPBD`
+* under `TPH-PB`
 * her `HER`
 * apron, `AEUP/ROPB KW-BG`
 * pocket. `POBGT TP-PL`

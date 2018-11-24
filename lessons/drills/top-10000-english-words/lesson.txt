@@ -189,7 +189,7 @@ Top 10000 English words
 'de': TK*E
 'does': TKOS
 'set': SET
-'under': *UPBD
+'under': TPH-PB
 'general': SKWREPBL
 'research': REFRPB
 'university': AOUFRT
@@ -978,7 +978,7 @@ Top 10000 English words
 'higher': HAOEUR
 'effects': TPEBGZ
 'created': KRAOETD
-'remember': REB
+'remember': RER
 'standards': ST-DZ
 'oil': OEUL
 'bit': PWEUT
@@ -1942,7 +1942,7 @@ Top 10000 English words
 'particularly': PHRARL
 'factors': TPARBGS
 'coffee': KOF/AOE
-'www': W/W/W
+'www': W*/W*/W*
 'settings': SEGTS
 'cum': KR*/*U/PH*
 'buyer': PWAOEUR
@@ -2074,7 +2074,7 @@ Top 10000 English words
 'supported': SPORD
 'pocket': POBGT
 'saint': SAEUPBT
-'rose': ROES
+'rose': ROEZ
 'freedom': TPRAOEPLD
 'argument': ARGT
 'competition': KPEGS
@@ -2601,7 +2601,7 @@ Top 10000 English words
 'participants': PA*PBTS
 'secret': SKRET
 'bath': PWA*T
-'aa': A/AEU
+'aa': A/KWRA
 'Kelly': KEL/HREU
 'leads': HRAEDZ
 'negative': TPH*EF
@@ -3712,7 +3712,7 @@ Top 10000 English words
 'ml': PH*/HR*
 'shift': SHEUFT
 'chip': KHEUP
-'res': RE/SP-S/-S
+'res': RE/-S
 'sit': SEUT
 'bodies': PWOEDZ
 'photographs': TPOEFS
@@ -4573,7 +4573,7 @@ Top 10000 English words
 'radar': RAEUD/AR
 'rescue': RES/KAOU
 'undergraduate': UPBD/TKPWRAD/WAT
-'losses': HROSZ
+'losses': HROS/-S
 'combat': KPWAT
 'reducing': RAOUFG
 'stopped': STOPD
@@ -4916,7 +4916,7 @@ Top 10000 English words
 'trained': TRAEUPBD
 'burn': PWURPB
 'implementing': EUPLT/-G
-'roses': ROESZ
+'roses': ROES/-S
 'labs': HRABS
 'ourselves': O*URSZ
 'bread': PWRAED
@@ -5448,7 +5448,7 @@ Top 10000 English words
 'metropolitan': PHERT/POL
 'compilation': KPHRAEUGS
 'verification': SRER/TPEUBGS
-'fonts': TPOPBT/-S
+'fonts': TPOPBTS
 'ent': AO*EPBT
 'odd': OD
 'wrap': WRAP
@@ -7724,7 +7724,7 @@ Top 10000 English words
 'invasion': EUPB/SRAEUGS
 'witnesses': W-PBS/-S
 'runner': RAOURPB
-'rows': RO*EZ
+'rows': ROES
 'administered': SPHEURPBTD
 'notion': TPHOEGS
 'sq': S*/KW*

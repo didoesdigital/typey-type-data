@@ -377,7 +377,7 @@
 * turtle-doves; `TURLT H-PB TKOFS STPH*FPLT`
 * after `AF`
 * birds `PWEURDZ`
-* under `*UPBD`
+* under `TPH-PB`
 * heaven, `HEFPB KW-BG`
 * chirping `KHEURP/-G`
 * fluttering `TPHRUT/ERG`

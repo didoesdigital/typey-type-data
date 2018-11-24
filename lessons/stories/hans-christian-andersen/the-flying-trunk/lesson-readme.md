@@ -176,7 +176,7 @@
 * Turkey. `T*UR/KEU TP-PL`
 * hid `HEUD`
 * wood `WAOD`
-* under `*UPBD`
+* under `TPH-PB`
 * some `SOPL`
 * dry `TKRAOEU`
 * leaves, `HREFS KW-BG`

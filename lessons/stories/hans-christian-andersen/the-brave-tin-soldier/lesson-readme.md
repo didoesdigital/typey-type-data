@@ -163,7 +163,7 @@
 * fixed `TPEUFD`
 * glittering `TKPWHREUT/ERG`
 * tinsel `TEUPB/SEL`
-* rose, `ROES KW-BG`
+* rose, `ROEZ KW-BG`
 * as `AZ`
 * large `HRARPBLG`
 * whole `WHOEL`
@@ -429,7 +429,7 @@
 * musket. `PHUFBGT TP-PL`
 * Suddenly `KPA/SULD`
 * shot `SHOT`
-* under `*UPBD`
+* under `TPH-PB`
 * bridge `PWREUPBLG`
 * formed `TPORPLD`
 * part `PART`
