@@ -165,7 +165,7 @@
 * out. `OUT TP-PL`
 * little `HREUL`
 * farther, `TPA*RT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * tree `TRAOE`
 * apples. `APLS TP-PL`
 * 'Shake `AE KPA/SHAEUBG`

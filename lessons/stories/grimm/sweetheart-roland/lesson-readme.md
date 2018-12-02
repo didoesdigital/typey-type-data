@@ -370,7 +370,7 @@
 * body, `PWO*ED KW-BG`
 * pricked `PREUBGD`
 * wounded `WOUPBD/-D`
-* till `T*EUL`
+* till `TEUL`
 * bled, `PWHRED KW-BG`
 * stop, `STOP KW-BG`
 * dance `TKAPBS`

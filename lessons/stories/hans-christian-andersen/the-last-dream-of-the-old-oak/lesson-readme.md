@@ -65,7 +65,7 @@
 * does `TKOS`
 * get `TKPWET`
 * any `TPHEU`
-* till `T*EUL`
+* till `TEUL`
 * winter `WEURPBT`
 * comes. `KOPLS TP-PL`
 * Winter `W*EUPBT/*ER`

@@ -18,7 +18,7 @@ Multi-syllable words with multiple strokes
 'estate': ES/TAEUT
 'photos': TPOET/OES
 'gallery': TKPWAL/REU
-'register': REPLG/STER
+'register': REPBLG/STER
 'provided': PROE/SRAOUD/-D
 'accessories': SESZ/REUS
 'yahoo': KWRA/HAO
@@ -288,7 +288,7 @@ Multi-syllable words with multiple strokes
 'gaming': TKPWAEUPL/-G
 'destination': TKEFT/TPHAEUGS
 'Scotland': SKOT/HRAPBD
-'nations': TPHAEUGS/-S
+'nations': TPHA*EUGSZ
 'specifications': SPEFBGS/-S
 'anime': APB/PHAEU
 'decisions': STKEUGS/-S
@@ -1193,7 +1193,7 @@ Multi-syllable words with multiple strokes
 'Oakland': OEBG/HRAPBD
 'Colombia': KHROPL/KWRA
 'camel': KAPL/EL
-'distributor': TKR-BT/TOR
+'distributor': TKR-BT/O*R
 'underlying': UPBD/HRAOEUG
 'wrestling': WRES/-LG
 'photoshop': TPOET/SHOP
@@ -1673,7 +1673,7 @@ Multi-syllable words with multiple strokes
 'radical': RAD/K-L
 'graduates': TKPWRAD/WAEUTS
 'reload': RE/HRAOD
-'distributors': TKR-BT/TORS
+'distributors': TKR-BT/O*RS
 'levitra': HREF/EUT/RA
 'assuming': A/SAOUG
 'monetary': PHOPB/TREU
@@ -2964,7 +2964,7 @@ Multi-syllable words with multiple strokes
 'kindly': KAOEUPBD/HREU
 'dignity': TKEUG/TEU
 'splendid': SPHREPBD/EUD
-'distributing': TKR-BT/-G
+'distributing': TKR-BG
 'delicate': TKEL/KAT
 'acquaintance': KWAEUPB/TAPBS
 'commanded': KPHAPBD/-D
@@ -4337,7 +4337,7 @@ Multi-syllable words with multiple strokes
 'frenzy': TPREPB/SEU
 'thirsty': THEURS/TEU
 'disputed': TKEUS/PAOUT/-D
-'redistribution': TKEUZ/TKR-BGS
+'redistribution': RE/TKR-BGS
 'eminently': EPL/TPHEPBT/HREU
 'suggestive': SUG/EUF
 'shady': SHAEU/TKEU

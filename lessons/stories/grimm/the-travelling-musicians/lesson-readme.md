@@ -366,7 +366,7 @@
 * became `PWAEUPL`
 * larger `HRARPBLG/ER`
 * brighter, `PWRAOEURT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * last `HRAFT`
 * close `KHROES`
 * which `WEU`

@@ -589,7 +589,7 @@
 * things, `THEUPBGS KW-BG`
 * commanded `KPHAPBD/-D`
 * stay `STAEU`
-* till `T*EUL`
+* till `TEUL`
 * after `AF`
 * midnight, `PHAOEUPBT KW-BG`
 * telling `TELG`

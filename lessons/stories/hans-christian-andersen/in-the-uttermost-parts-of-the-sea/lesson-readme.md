@@ -47,7 +47,7 @@
 * endured `EPB/TKAOURD`
 * many `PHAEPB`
 * hardships; `HARD/SH-P/-S STPH*FPLT`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * length `HREPBG`
 * winter `WEURPBT`

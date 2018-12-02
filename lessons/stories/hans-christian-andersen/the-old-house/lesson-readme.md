@@ -244,7 +244,7 @@
 * nodded `TPHOD/-D`
 * back `PWABG`
 * again, `TKPWEPB KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * became `PWAEUPL`
 * acquainted, `A/KWAEUPBTD KW-BG`
 * friends, `TPREPBDZ KW-BG`
@@ -316,7 +316,7 @@
 * polished `POL/EURBD`
 * account `K-T`
 * visit; `SREUFT STPH*FPLT`
-* trumpeters `xxx trumpeters`
+* trumpeters `TRUPLT/*ERS`
 * standing `STAPBG`
 * tulips, `TAOU/HREUPS KW-BG`
 * seemed `SAOEPLD`

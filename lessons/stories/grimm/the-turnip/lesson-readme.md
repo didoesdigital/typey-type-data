@@ -321,7 +321,7 @@
 * Meantime `KPA/PHAO*EPB/TAOEUPL`
 * worked `WORBGD`
 * away, `A/WAEU KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * hole `HOEL`
 * large `HRARPBLG`
 * head. `HED TP-PL`

@@ -229,7 +229,7 @@
 * friend `TPREPBD`
 * ring, `REUPBG KW-BG`
 * again, `TKPWEPB KW-BG`
-* till, `T*EUL KW-BG`
+* till, `TEUL KW-BG`
 * done `TKOPB`
 * again. `TKPWEPB TP-PL`
 * delighted `TKHRAOEUTD`
@@ -305,7 +305,7 @@
 * kingdom `KEUPBG/TKOPL`
 * let `HRET`
 * vain; `SRA*EUPB STPH*FPLT`
-* till `T*EUL`
+* till `TEUL`
 * last `HRAFT`
 * tears `TAERS`
 * softened `SOFPB/-D`

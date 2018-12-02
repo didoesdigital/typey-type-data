@@ -487,7 +487,7 @@
 * builder,—built `PWEURLD KW-BG EPL/TKA*RB PWEULT`
 * another `TPHOER`
 * town, `TOUPB KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * street, `STRAOET KW-BG`
 * which, `WEU KW-BG`
 * ornament `ORPB/APLT`

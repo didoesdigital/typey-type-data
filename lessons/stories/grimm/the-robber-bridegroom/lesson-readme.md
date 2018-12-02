@@ -404,7 +404,7 @@
 * suppers, `SUP/ERS KW-BG`
 * let `HRET`
 * thing `THEUPBG`
-* till `T*EUL`
+* till `TEUL`
 * tomorrow; `TORPL STPH*FPLT`
 * won't `WOEPBT`
 * run `RUPB`

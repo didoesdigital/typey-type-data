@@ -109,7 +109,7 @@
 * cares `KAEURS`
 * for; `TPOR STPH*FPLT`
 * cry `KRAOEU`
-* till `T*EUL`
+* till `TEUL`
 * tired, `TAOEURD KW-BG`
 * then `THEPB`
 * fall `TPAUL`
@@ -374,7 +374,7 @@
 * called `KAULD`
 * field-laborer's `TPAOELD H-PB HRAEUB/RER AES`
 * church `KHUFRPB`
-* register `REPLG/STER`
+* register `REPBLG/STER`
 * entered `SPWR-D`
 * son. `SOPB TP-PL`
 * cut `KUT`

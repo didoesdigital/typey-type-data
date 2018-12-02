@@ -305,7 +305,7 @@
 * about `PW`
 * spherical `STPER/K-L`
 * globe `TKPWHROEB`
-* till `T*EUL`
+* till `TEUL`
 * electric `HREBG/TREUBG`
 * spark `SPARBG`
 * comes `KOPLS`

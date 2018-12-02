@@ -507,7 +507,7 @@
 * fly. `TPHRAOEU TP-PL`
 * Sit `KPA/SEUT`
 * beneath `TPHAO*ET`
-* till `T*EUL`
+* till `TEUL`
 * comes, `KOPLS KW-BG`
 * wanted,' `WAPBTD KW-BG AE`
 * youth, `KWRAO*UT KW-BG`

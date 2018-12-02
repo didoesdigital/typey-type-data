@@ -256,7 +256,7 @@
 * away, `A/WAEU KW-BG`
 * journeyed `SKWRURPB/EUD`
 * night, `TPHAOEUT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * last `HRAFT`
 * large `HRARPBLG`
 * wood. `WAOD TP-PL`

@@ -546,7 +546,7 @@
 * only `OEPBL`
 * bitten `PWEUT/-PB`
 * lips `HREUPS`
-* till `T*EUL`
+* till `TEUL`
 * started. `STARTD TP-PL`
 * rolled `ROLD`
 * wine-tubs `WAOEUPB H-PB TUBS`

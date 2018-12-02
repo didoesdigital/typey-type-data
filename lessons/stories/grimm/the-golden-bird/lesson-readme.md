@@ -352,7 +352,7 @@
 * 'Go `AE KPA/TKPW`
 * straight `STRAEUT`
 * forward, `TPAORD KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * castle, `KAFL KW-BG`
 * before `PW-F`
 * lie `HRAOEU`

@@ -140,7 +140,7 @@
 * swung `SWUPBG`
 * up `UP`
 * down `TKOUPB`
-* till `T*EUL`
+* till `TEUL`
 * jingled `SKWREUPBG/-LD`
 * again, `TKPWEPB KW-BG`
 * dazzled `TKAZ/-LD`

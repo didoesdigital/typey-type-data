@@ -110,7 +110,7 @@
 * There `KPA/THR`
 * silent `SHREPBT`
 * motionless, `PHOEGS/-LS KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * last, `HRAFT KW-BG`
 * by `PWEU`

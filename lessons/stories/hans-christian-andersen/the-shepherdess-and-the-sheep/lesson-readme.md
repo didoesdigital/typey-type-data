@@ -315,7 +315,7 @@
 * table!" `TAEUBL SKHRAPL KR-GS`
 * she; `SHE STPH*FPLT`
 * happy `HAEP`
-* till `T*EUL`
+* till `TEUL`
 * world." `WORLD TP-PL KR-GS`
 * comforted `K-FRTD`
 * showed `SHOED`

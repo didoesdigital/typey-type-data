@@ -272,7 +272,7 @@
 * yet `KWRET`
 * even `AOEPB`
 * tears; `TAERS STPH*FPLT`
-* till `T*EUL`
+* till `TEUL`
 * length `HREPBG`
 * said, `SAEUD KW-BG`
 * "Go `KR-GS KPA/TKPW`

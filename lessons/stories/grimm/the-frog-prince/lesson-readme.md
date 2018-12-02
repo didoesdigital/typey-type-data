@@ -69,7 +69,7 @@
 * along `A/HROPBG`
 * upon `POPB`
 * ground, `TKPWROUPBD KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * last `HRAFT`
 * fell `TPEL`

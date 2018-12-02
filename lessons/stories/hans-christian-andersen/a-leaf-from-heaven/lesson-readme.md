@@ -347,7 +347,7 @@
 * In `KPA/TPH`
 * continued `T-PBD`
 * bloom `PWHRAOPL`
-* till `T*EUL`
+* till `TEUL`
 * became `PWAEUPL`
 * almost `HR-PL`
 * tree, `TRAOE KW-BG`

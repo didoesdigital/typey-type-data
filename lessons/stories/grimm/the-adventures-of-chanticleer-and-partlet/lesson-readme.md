@@ -58,7 +58,7 @@
 * day, `TKAEU KW-BG`
 * stayed `STAEUD`
 * there `THR`
-* till `T*EUL`
+* till `TEUL`
 * evening. `AOEPBG TP-PL`
 * Now, `KPA/TPHOU KW-BG`
 * whether `WHR`

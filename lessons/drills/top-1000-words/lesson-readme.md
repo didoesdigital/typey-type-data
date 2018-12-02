@@ -177,7 +177,7 @@
 * new `TPHU`
 * love `HRUF`
 * always `AULS`
-* Mrs `PH*/R*/S*`
+* Mrs `PH*P/R*/S*`
 * put `PUT`
 * night `TPHAOEUT`
 * each `AOEFP`
@@ -278,7 +278,7 @@
 * form `TPORPL`
 * within `W-PB`
 * together `TOGT`
-* till `T*EUL`
+* till `TEUL`
 * thy `THAO*EU`
 * large `HRARPBLG`
 * matter `PHAERT`

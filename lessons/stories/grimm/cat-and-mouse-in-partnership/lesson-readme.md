@@ -354,7 +354,7 @@
 * peace,' `PAES KW-BG AE`
 * herself, `H*ERS KW-BG`
 * well `WEL`
-* till `T*EUL`
+* till `TEUL`
 * night. `TPHAOEUT TP-PL`
 * given `TKPWEUFPB`
 * third `THEURD`

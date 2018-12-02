@@ -533,7 +533,7 @@
 * dirty `TKOEURT`
 * water `WAUR`
 * weeks, `WAOEBGS KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * swelled `SWELD`
 * great `TKPWRAET`
 * size. `SAOEUZ TP-PL`

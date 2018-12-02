@@ -851,7 +851,7 @@
 * broad `PWRAOD`
 * back; `PWABG STPH*FPLT`
 * whereas `WRAZ`
-* till `T*EUL`
+* till `TEUL`
 * limp `HREUFRP`
 * horribly, `HOR/PWHREU KW-BG`
 * certain `SERPB`

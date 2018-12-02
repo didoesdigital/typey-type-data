@@ -124,7 +124,7 @@
 * diagnosis `TK-GS`
 * attribute `TR-BT`
 * ordinary `OERD`
-* api `OEUP`
+* API `OEUP`
 * opens `OEPS`
 * introduce `TROU`
 * appeals `AEPS`

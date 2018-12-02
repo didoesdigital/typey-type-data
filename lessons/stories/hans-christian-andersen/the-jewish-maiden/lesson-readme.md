@@ -296,7 +296,7 @@
 * ears `AOERS`
 * while `WHAOEUL`
 * kitchen, `K-FP KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * place `PHRAEUS`
 * itself `T/SEF`
 * sacred `SKRED`

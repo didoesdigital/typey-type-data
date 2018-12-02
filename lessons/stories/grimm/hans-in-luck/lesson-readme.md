@@ -434,7 +434,7 @@
 * grew `TKPWRAOU`
 * greater `TKPWRAERT`
 * noon `TPHAOPB`
-* till `T*EUL`
+* till `TEUL`
 * last, `HRAFT KW-BG`
 * found `TPOUPBD`
 * wide `WAOEUD`

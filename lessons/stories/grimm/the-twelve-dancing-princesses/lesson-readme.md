@@ -421,7 +421,7 @@
 * crying `KRAOEUG`
 * joy. `SKWROEU TP-PL`
 * So `KPA/SO`
-* till `T*EUL`
+* till `TEUL`
 * great `TKPWRAET`
 * lake; `HRAEUBG STPH*FPLT`
 * side `SAOEUD`
@@ -468,7 +468,7 @@
 * merry `PHER/REU`
 * music `PHAOUFBG`
 * horns `HORPBS`
-* trumpets. `TRUPL/PET/-S TP-PL`
+* trumpets. `TRUPLTS TP-PL`
 * landed, `HRAPBD/-D KW-BG`
 * princess; `PREUPB/ES STPH*FPLT`
 * too; `TAO STPH*FPLT`

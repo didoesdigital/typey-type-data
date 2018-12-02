@@ -347,7 +347,7 @@
 * leanest `HRAOEPB/EFT`
 * pecked `PEBGD`
 * each `AOEFP`
-* till `T*EUL`
+* till `TEUL`
 * blood `PWHRAOD`
 * ran `RAPB`
 * fell `TPEL`

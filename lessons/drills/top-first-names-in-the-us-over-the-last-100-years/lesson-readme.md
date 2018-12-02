@@ -105,7 +105,7 @@
 * Robert `ROBT`
 * Michael `PHAOEUBG/*L`
 * William `WOEUPL`
-* David `TAEUFD`
+* David `TKAEUFD`
 * Richard `REUFPD`
 * Joseph `SKWROE/SEF`
 * Thomas `THOPLS`

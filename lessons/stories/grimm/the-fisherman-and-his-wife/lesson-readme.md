@@ -410,7 +410,7 @@
 * heard `HAERD`
 * sound `SOUPBD`
 * drums `TKRUPLS`
-* trumpets. `TRUPL/PET/-S TP-PL`
+* trumpets. `TRUPLTS TP-PL`
 * sitting `SEUGT`
 * throne `THRO*EPB`
 * gold `TKPWOELD`

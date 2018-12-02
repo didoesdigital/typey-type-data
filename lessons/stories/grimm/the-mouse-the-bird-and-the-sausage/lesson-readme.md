@@ -154,7 +154,7 @@
 * meal, `PHAOEL KW-BG`
 * sleep `SHRAOEP`
 * fill `TPEUL`
-* till `T*EUL`
+* till `TEUL`
 * following `TPOLG`
 * morning: `PHORPBG STPH-FPLT`
 * really `R-L`

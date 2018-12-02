@@ -224,7 +224,7 @@
 * began `TKPWAPB`
 * roar `ROR`
 * bellow, `PWEL/HROE KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * birds `PWEURDZ`
 * wood `WAOD`
 * flew `TPHRAOU`
@@ -260,5 +260,5 @@
 * of.' `-F TP-PL AE`
 * And `AFPBD`
 * plenty `PHREPBT`
-* lived--till `HREUFD H-PB H-PB T*EUL`
+* lived--till `HREUFD H-PB H-PB TEUL`
 * died. `TKAOEUD TP-PL`

@@ -138,7 +138,7 @@
 * would `WO`
 * have `SR`
 * him. `HEUPL TP-PL`
-* "Mrs. `KR-GS PH*/R*/S* TP-PL`
+* "Mrs. `KR-GS PH*P/R*/S* TP-PL`
 * Mogen," `xxx Mogen KW-BG KR-GS`
 * said `SAEUD`
 * fellow, `TPO*EUL KW-BG`

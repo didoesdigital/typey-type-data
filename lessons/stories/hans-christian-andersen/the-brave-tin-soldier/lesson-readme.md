@@ -312,7 +312,7 @@
 * "Very `KR-GS KPA/SRE`
 * well; `WEL STPH*FPLT`
 * wait `WAEUT`
-* till `T*EUL`
+* till `TEUL`
 * to-morrow, `TO H-PB PHOR/ROE KW-BG`
 * then," `THEPB KW-BG KR-GS`
 * goblin. `TKPWOB/HREUPB TP-PL`

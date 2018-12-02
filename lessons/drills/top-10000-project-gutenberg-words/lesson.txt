@@ -177,7 +177,7 @@ Top 10000 Project Gutenberg words
 'new': TPHU
 'love': HRUF
 'always': AULS
-'Mrs': PH*/R*/S*
+'Mrs': PH*P/R*/S*
 'put': PUT
 'night': TPHAOEUT
 'each': AOEFP
@@ -278,7 +278,7 @@ Top 10000 Project Gutenberg words
 'form': TPORPL
 'within': W-PB
 'together': TOGT
-'till': T*EUL
+'till': TEUL
 'thy': THAO*EU
 'large': HRARPBLG
 'matter': PHAERT
@@ -1261,7 +1261,7 @@ Top 10000 Project Gutenberg words
 'false': TPALS
 'tall': TAUL
 'gate': TKPWAET
-'nations': TPHAEUGS/-S
+'nations': TPHA*EUGSZ
 'created': KRAOETD
 'refused': RAO*UFD
 'quietly': KWAO*EULT
@@ -1319,7 +1319,7 @@ Top 10000 Project Gutenberg words
 'breast': PWREFT
 'presently': PREPBLT
 'snow': STPHOE
-'David': TAEUFD
+'David': TKAEUFD
 'papers': PAEUPS
 'necessity': TPHES/TEU
 'practice': PRABGS
@@ -1711,7 +1711,7 @@ Top 10000 Project Gutenberg words
 'sing': SEUPBG
 'destroy': TKROEU
 'anger': ARPBG
-'distributing': TKR-BT/-G
+'distributing': TKR-BG
 'results': RULTS
 'increase': EUPB/KRAES
 'reasons': R-PBS
@@ -4843,7 +4843,7 @@ Top 10000 Project Gutenberg words
 'monstrous': PHOPB/STRUS
 'tongues': TUPBG/-S
 'barely': PWAEURL
-'3d': 30*EUD
+'3D': 30*EUD
 'mansion': PHAPBGS
 'facility': TPAS/EULT
 'praised': PRA*EUFD
@@ -7648,7 +7648,7 @@ Top 10000 Project Gutenberg words
 'thirsty': THEURS/TEU
 'disputed': TKEUS/PAOUT/-D
 'charter': KHAR/TER
-'redistribution': TKEUZ/TKR-BGS
+'redistribution': RE/TKR-BGS
 'boasted': PWOEFT/-D
 'item': AOEUPLT
 'Moscow': PHOS/KOE
@@ -7945,7 +7945,7 @@ Top 10000 Project Gutenberg words
 'architect': TREGT
 'melting': PHELT/-G
 'delicately': TKEL/KAT/HREU
-'register': REPLG/STER
+'register': REPBLG/STER
 'heroine': HO*EURPB
 'indefinite': EUPB/TKEF/TPHEUT
 'console': KAUPB/SOEL

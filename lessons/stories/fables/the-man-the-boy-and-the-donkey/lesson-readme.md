@@ -123,7 +123,7 @@
 * They `KPA/THE`
 * thought `THAUT`
 * thought, `THAUT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * cut `KUT`
 * down `TKOUPB`
 * pole, `POEL KW-BG`

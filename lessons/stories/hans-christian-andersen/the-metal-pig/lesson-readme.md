@@ -296,7 +296,7 @@
 * pictures, `P*EUFPS KW-BG`
 * Michael `PHAOEUBG/*L`
 * Angelo's `APB/SKWRE/HROE AES`
-* David `TAEUFD`
+* David `TKAEUFD`
 * tossed `TOS/-D`
 * sling; `SHREUPBG STPH*FPLT`
 * everything `EFG`
@@ -569,7 +569,7 @@
 * rapid `RAPD`
 * pace `PAEUS`
 * streets `STRAOETS`
-* till `T*EUL`
+* till `TEUL`
 * came `KAEUPL`
 * square `SKWAEUR`
 * church `KHUFRPB`

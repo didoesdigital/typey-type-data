@@ -572,7 +572,7 @@
 * became `PWAEUPL`
 * thoughtful—kept `THAUFL EPL/TKA*RB KEPT`
 * thinking `THEUG`
-* till `T*EUL`
+* till `TEUL`
 * forth. `TPO*RT TP-PL`
 * children `KHEURPB`
 * good, `TKPWAOD KW-BG`

@@ -499,7 +499,7 @@
 * spade `SPAEUD`
 * sexton `SEBGS/TOPB`
 * penetrate, `PEPB/TRAEUT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * churchyard `KH*URPBLG/KWRARD`
 * became `PWAEUPL`
 * roof `RAOF`

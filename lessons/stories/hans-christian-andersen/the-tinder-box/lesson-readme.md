@@ -792,7 +792,7 @@
 * hurry," `HUR/REU KW-BG KR-GS`
 * cried `KRAOEUD`
 * "There `KR-GS KPA/THR`
-* till `T*EUL`
+* till `TEUL`
 * come; `KOPL STPH*FPLT`
 * house `HOUS`
 * living, `HREUFG KW-BG`

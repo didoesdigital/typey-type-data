@@ -89,7 +89,7 @@
 * none `TPHOPB`
 * coming `KO*G`
 * out. `OUT TP-PL`
-* Till `KPA/T*EUL`
+* Till `KPA/TEUL`
 * entered `SPWR-D`
 * cave `KAF`
 * again `TKPWEPB`

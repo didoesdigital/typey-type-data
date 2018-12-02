@@ -1191,7 +1191,7 @@ The Salad
 'for': TPOR
 'some': SOPL
 'time,': TAOEUPL KW-BG
-'till': T*EUL
+'till': TEUL
 'it': T
 'settled': S*ELTD
 'in': TPH
@@ -1316,7 +1316,7 @@ The Salad
 'he': HE
 'ate': AEUT
 'on': OPB
-'till': T*EUL
+'till': TEUL
 'he': HE
 'came': KAEUPL
 'to': TO
@@ -1617,7 +1617,7 @@ The Salad
 'could': KO
 'not': TPHOT
 'wait': WAEUT
-'till': T*EUL
+'till': TEUL
 'it': T
 'was': WAS
 'carried': KAERD
@@ -1893,7 +1893,7 @@ The Salad
 'along': A/HROPBG
 'with': W
 'him': HEUPL
-'till': T*EUL
+'till': TEUL
 'he': HE
 'came': KAEUPL
 'to': TO
@@ -2186,6 +2186,6 @@ The Salad
 'together': TOGT
 'very': SRE
 'happily': HAP/HREU
-'till': T*EUL
+'till': TEUL
 'they': THE
 'died.': TKAOEUD TP-PL

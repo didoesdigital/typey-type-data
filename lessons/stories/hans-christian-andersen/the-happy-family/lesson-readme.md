@@ -109,7 +109,7 @@
 * walks `WAUBGS`
 * garden—its `TKPWA*RPB EPL/TKA*RB EUTS`
 * growth `TKPWRO*UT`
-* check—till `KHEBG EPL/TKA*RB T*EUL`
+* check—till `KHEBG EPL/TKA*RB TEUL`
 * became `PWAEUPL`
 * at `AT`
 * last `HRAFT`
@@ -167,7 +167,7 @@
 * their `THAEUR`
 * relations `RELGS/-S`
 * boiled `PWOEULD`
-* till `T*EUL`
+* till `TEUL`
 * black, `PWHRABG KW-BG`
 * then `THEPB`
 * laid `HRAEUD`

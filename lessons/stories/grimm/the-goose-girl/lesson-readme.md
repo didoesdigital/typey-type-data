@@ -217,7 +217,7 @@
 * rode `ROED`
 * farther `TPA*RT`
 * journey, `SKWRURPB KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * day `TKAEU`
 * warm, `WARPL KW-BG`
 * sun `SUPB`
@@ -474,7 +474,7 @@
 * rocks, `ROBGS KW-BG`
 * Away `KPA/A/WAEU`
 * whirl'd `WHEURL AE TK*`
-* Till `KPA/T*EUL`
+* Till `KPA/TEUL`
 * silvery `SEUL/SRER/KWREU`
 * Are `KPA/R`
 * comb'd `KOEPL AE TK*`
@@ -486,7 +486,7 @@
 * hills: `HEULS STPH-FPLT`
 * turn `TURPB`
 * run `RUPB`
-* till, `T*EUL KW-BG`
+* till, `TEUL KW-BG`
 * back, `PWABG KW-BG`
 * combing `KOEPL/-G`
 * curling `KURLG`

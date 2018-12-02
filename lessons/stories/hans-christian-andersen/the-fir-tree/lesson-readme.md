@@ -657,7 +657,7 @@
 * astonishment, `AS/TOPB/SH-PLT KW-BG`
 * shouted `SHOUT/-D`
 * joy, `SKWROEU KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * room `RAOPL`
 * rang, `RAPBG KW-BG`
 * danced `TKAPBS/-D`

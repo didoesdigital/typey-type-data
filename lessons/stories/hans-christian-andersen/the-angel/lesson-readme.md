@@ -288,7 +288,7 @@
 * its `EUTS`
 * spring `SPREUPBG`
 * verdure, `SRER/SKWRUR KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * neighbor's `TPHAEUB AES`
 * son `SOPB`
 * brought `PWRAUT`

@@ -362,7 +362,7 @@
 * number `TPHUPL`
 * cocks. `KOBG/-S TP-PL`
 * chirped `KHEURP/-D`
-* till `T*EUL`
+* till `TEUL`
 * heard; `HAERD STPH*FPLT`
 * heard `HAERD`
 * it; `T STPH*FPLT`

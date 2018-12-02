@@ -36,7 +36,7 @@
 * himself. `H*EUPLS TP-PL`
 * "Only `KR-GS KPA/OEPBL`
 * wait `WAEUT`
-* till `T*EUL`
+* till `TEUL`
 * my `PHEU`
 * time `TAOEUPL`
 * comes," `KOPLS KW-BG KR-GS`

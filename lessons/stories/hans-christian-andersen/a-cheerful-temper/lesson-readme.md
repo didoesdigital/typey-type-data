@@ -420,7 +420,7 @@
 * places; `PHRAEUFS STPH*FPLT`
 * fretted `TPRET/-D`
 * worried `WOERD`
-* till `T*EUL`
+* till `TEUL`
 * last `HRAFT`
 * Here `KPA/HAOER`
 * happy `HAEP`

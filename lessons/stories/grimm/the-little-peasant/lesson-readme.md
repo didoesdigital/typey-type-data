@@ -451,7 +451,7 @@
 * salad. `SALD TP-PL`
 * last `HRAFT`
 * once `WUPBS`
-* till `T*EUL`
+* till `TEUL`
 * croaked, `KROEBG/-D KW-BG`
 * 'Fourthly, `AE xxx Fourthly KW-BG`
 * cakes. `KAEUBG/-S TP-PL`

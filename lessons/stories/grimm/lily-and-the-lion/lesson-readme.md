@@ -321,7 +321,7 @@
 * by `PWEU`
 * himself, `H*EUPLS KW-BG`
 * whither, `WHEU/THER KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * night `TPHAOEUT`
 * After `KPA/AF`
 * some `SOPL`

@@ -268,7 +268,7 @@
 * thorns `THORPB/-S`
 * tear `TAER`
 * clothes `KHRO*ETS`
-* till `T*EUL`
+* till `TEUL`
 * they `THE`
 * hung `HUPBG`
 * rags `RAG/-S`

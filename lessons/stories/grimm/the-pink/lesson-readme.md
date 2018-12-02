@@ -333,7 +333,7 @@
 * eat `AOET`
 * burning `PWURPBG`
 * coals, `KOEL/-S KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * flames `TPHRAEUPLS`
 * burst `PWUFRT`
 * forth `TPO*RT`

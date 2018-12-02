@@ -403,7 +403,7 @@
 * distantly `STKAPBT/HREU`
 * related `RAELTD`
 * whom, `WHOPL KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * then, `THEPB KW-BG`
 * no `TPHO`
 * ever `-FR`

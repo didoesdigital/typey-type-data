@@ -92,7 +92,7 @@
 * upon `POPB`
 * them `THEPL`
 * morning `PHORPBG`
-* till `T*EUL`
+* till `TEUL`
 * evening, `AOEPBG KW-BG`
 * became `PWAEUPL`
 * quite `KWAOEUT`

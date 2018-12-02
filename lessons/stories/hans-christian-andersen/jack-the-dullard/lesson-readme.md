@@ -314,7 +314,7 @@
 * come!" `KOPL SKHRAPL KR-GS`
 * shouted `SHOUT/-D`
 * sang `SAPBG`
-* till `T*EUL`
+* till `TEUL`
 * voice `SROEUS`
 * echoed `EBG/OE/-D`
 * far `TPAR`

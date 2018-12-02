@@ -54,7 +54,7 @@
 * castles, `KAS/-LS KW-BG`
 * green `TKPWRAOEPB`
 * vineyards, `SREUPB/KWRARDZ KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * its `EUTS`
 * waters `WAURS`
 * mingle `PHEUPBG/*L`

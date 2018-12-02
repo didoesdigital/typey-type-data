@@ -197,7 +197,7 @@
 * flew `TPHRAOU`
 * short `SHORT`
 * distance, `STKAPBS KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * found `TPOUPBD`
 * himself `H*EUPLS`
 * flower-garden, `TPHRO*UR H-PB TKPWA*RPB KW-BG`

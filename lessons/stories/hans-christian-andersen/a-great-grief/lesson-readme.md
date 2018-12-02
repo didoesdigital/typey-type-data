@@ -340,7 +340,7 @@
 * standing `STAPBG`
 * sorrowfully `SOR/ROEFL/HREU`
 * outside, `OUDZ KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * others `OERS`
 * gone `TKPWOPB`
 * away; `A/WAEU STPH*FPLT`

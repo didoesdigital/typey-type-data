@@ -90,7 +90,7 @@
 * it `T`
 * saw `SAU`
 * ants `A*PBT/-S`
-* distributing `TKR-BT/-G`
+* distributing `TKR-BG`
 * every `EF`
 * grain `TKPWRAEUPB`
 * from `TPR`

@@ -489,7 +489,7 @@
 * "'You `KR-GS AE KPA/U`
 * come `KOPL`
 * out `OUT`
-* till `T*EUL`
+* till `TEUL`
 * promise `PROPLS`
 * unite `OEUPBT`
 * me `PHE`

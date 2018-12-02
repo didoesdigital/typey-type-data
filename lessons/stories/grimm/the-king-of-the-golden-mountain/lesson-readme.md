@@ -447,7 +447,7 @@
 * sat `SAT`
 * safe `SAEUF`
 * within, `W-PB KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * length `HREPBG`
 * ran `RAPB`
 * ashore `A/SHOR`

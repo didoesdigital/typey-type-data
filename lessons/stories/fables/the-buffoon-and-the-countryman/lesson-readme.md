@@ -47,7 +47,7 @@
 * You `KPA/U`
 * give `TKPWEUF`
 * me `PHE`
-* till `T*EUL`
+* till `TEUL`
 * tomorrow `TORPL`
 * and `SKP`
 * I `EU`

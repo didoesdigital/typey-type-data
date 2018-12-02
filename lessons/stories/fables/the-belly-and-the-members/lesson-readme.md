@@ -30,7 +30,7 @@
 * discussion, `SKUGS KW-BG`
 * decided `STKAOEUD/-D`
 * strike `STRAOEUBG`
-* till `T*EUL`
+* till `TEUL`
 * consented `KEFPBT/-D`
 * take `TAEUBG`
 * its `EUTS`

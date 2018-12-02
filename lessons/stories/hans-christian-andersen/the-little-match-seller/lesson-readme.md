@@ -342,7 +342,7 @@
 * rose `ROEZ`
 * higher `HAOEUR`
 * higher, `HAOEUR KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * stars `STARS`
 * sky. `SKAOEU TP-PL`
 * saw `SAU`

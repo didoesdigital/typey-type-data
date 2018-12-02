@@ -174,7 +174,7 @@
 * liquor `HREU/KWOR`
 * upon `POPB`
 * floor `TPHRAOR`
-* till `T*EUL`
+* till `TEUL`
 * cask `KAFBG`
 * empty. `EPLT TP-PL`
 * stairs `STAEURS`

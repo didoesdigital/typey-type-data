@@ -146,7 +146,7 @@
 * asleep; `A/HRAOEP STPH*FPLT`
 * not `TPHOT`
 * called `KAULD`
-* till `T*EUL`
+* till `TEUL`
 * exactly `ELG`
 * England. `TKPWHRAEPBD TP-PL`
 * There `KPA/THR`

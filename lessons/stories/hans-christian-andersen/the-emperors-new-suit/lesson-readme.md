@@ -175,7 +175,7 @@
 * worked `WORBGD`
 * empty `EPLT`
 * looms `HRAOPLS`
-* till `T*EUL`
+* till `TEUL`
 * late `HRAEUT`
 * night. `TPHAOEUT TP-PL`
 * "I `KR-GS EU`

@@ -235,7 +235,7 @@
 * them. `THEPL TP-PL`
 * And `AFPBD`
 * went, `WEPBT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * job `SKWROB`
 * done, `TKOPB KW-BG`
 * use `AOUS`

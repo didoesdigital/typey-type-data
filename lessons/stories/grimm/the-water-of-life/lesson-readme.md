@@ -231,7 +231,7 @@
 * hope `HOEP`
 * son's `SOPB AES`
 * return, `RURPB KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * second `SEBGD`
 * 'Father, `AE KPA/TPAER KW-BG`
 * Life.' `KPA/HRAOEUF TP-PL AE`

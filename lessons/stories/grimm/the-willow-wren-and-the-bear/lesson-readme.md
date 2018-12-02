@@ -424,6 +424,6 @@
 * drank, `TKRA*PBG KW-BG`
 * made `PHAED`
 * merry `PHER/REU`
-* till `T*EUL`
+* till `TEUL`
 * late `HRAEUT`
 * night. `TPHAOEUT TP-PL`

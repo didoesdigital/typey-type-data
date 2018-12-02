@@ -99,7 +99,7 @@
 * purse `PURS`
 * he `HE`
 * started, `STARTD KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * one `WUPB`
 * day `TKAEU`
 * found `TPOUPBD`

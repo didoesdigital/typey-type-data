@@ -474,7 +474,7 @@
 * winter `WEURPBT`
 * comes?" `KOPLS H-F KR-GS`
 * "or `KR-GS OR`
-* till `T*EUL`
+* till `TEUL`
 * comes `KOPLS`
 * you, `U KW-BG`
 * you?—Well `U H-F EPL/TKA*RB KPA/WEL`

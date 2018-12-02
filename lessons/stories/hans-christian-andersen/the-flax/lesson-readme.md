@@ -221,7 +221,7 @@
 * with `W`
 * past;" `PAFT STPH*FPLT KR-GS`
 * remained `RE/PHAEUPBD`
-* till `T*EUL`
+* till `TEUL`
 * loom, `HRAOPL KW-BG`
 * became `PWAEUPL`
 * white `WHAOEUT`

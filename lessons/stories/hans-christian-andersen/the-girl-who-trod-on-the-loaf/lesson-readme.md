@@ -296,7 +296,7 @@
 * under `TPH-PB`
 * lower `HROUR`
 * lower, `HROUR KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * disappeared `TKEUS/PAOERD`
 * altogether, `HR-GT KW-BG`
 * few `TPAOU`
@@ -837,7 +837,7 @@
 * audible `AUD/-BL`
 * Heaven `KPA/HEFPB`
 * psalms `SAUPL/-S`
-* David `TAEUFD`
+* David `TKAEUFD`
 * fashioned `TPAGS/-D`
 * themselves `TH*EPLS`
 * song. `SOPBG TP-PL`

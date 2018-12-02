@@ -1050,7 +1050,7 @@
 * letters `HRERTS`
 * signed, `SAOEUPBD KW-BG`
 * "Faithful `KR-GS KPA/TPA*EUT/-FL`
-* till `T*EUL`
+* till `TEUL`
 * death;" `TK*T STPH*FPLT KR-GS`
 * end `EPBD`
 * greeting `TKPWRAOET/-G`

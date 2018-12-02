@@ -1229,7 +1229,7 @@
 * leaf; `HRAOEF STPH*FPLT`
 * quite `KWAOEUT`
 * plainly." `PHRAEUPBL TP-PL KR-GS`
-* till `T*EUL`
+* till `TEUL`
 * tree `TRAOE`
 * fresher `TPRERB/*ER`
 * greener `TKPWRAOERPB`

@@ -469,7 +469,7 @@
 * time `TAOEUPL`
 * treading `TRAOED/-G`
 * upon `POPB`
-* till `T*EUL`
+* till `TEUL`
 * louder `HROURD`
 * than `THAPB`
 * before. `PW-F TP-PL`

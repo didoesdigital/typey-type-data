@@ -176,7 +176,7 @@
 * fluttered `TPHRUT/ERD`
 * golden `TKOELD/*EPB`
 * hair `HAEUR`
-* till `T*EUL`
+* till `TEUL`
 * locks `HROBGZ`
 * straight. `STRAEUT TP-PL`
 * turned `TURPBD`

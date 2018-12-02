@@ -53,7 +53,7 @@
 * all `AUL`
 * way." `WAEU TP-PL KR-GS`
 * "Keep `KR-GS KPA/KAOEP`
-* till `T*EUL`
+* till `TEUL`
 * you've `UF`
 * answered `AEPBS/-D`
 * Tortoise. `KPA/TOR/TOS TP-PL`

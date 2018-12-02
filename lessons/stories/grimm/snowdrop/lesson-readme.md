@@ -284,7 +284,7 @@
 * too `TAO`
 * long, `HROPBG KW-BG`
 * short, `SHORT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * last `HRAFT`
 * seventh `S*EPBT`
 * suited `SAOUTD`

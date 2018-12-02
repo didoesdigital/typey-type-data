@@ -62,7 +62,7 @@
 * not `TPHOT`
 * move `PHOF`
 * step `STEP`
-* till `T*EUL`
+* till `TEUL`
 * set `SET`
 * him `HEUPL`
 * free; `TPRAOE STPH*FPLT`
@@ -302,7 +302,7 @@
 * back `PWABG`
 * hoarse `HAORS`
 * voice: `SROEUS STPH-FPLT`
-* 'Till `AE KPA/T*EUL`
+* 'Till `AE KPA/TEUL`
 * prisoner `PREURZ`
 * is `S`
 * doom `TKAOPL`

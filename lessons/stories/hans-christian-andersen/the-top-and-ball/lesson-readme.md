@@ -198,7 +198,7 @@
 * high `HAOEU`
 * like `HRAOEUBG`
 * bird, `PWEURD KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * go `TKPW`
 * quite `KWAOEUT`
 * sight. `SAOEUT TP-PL`

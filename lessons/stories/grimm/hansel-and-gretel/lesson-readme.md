@@ -531,7 +531,7 @@
 * next `TPHEGT`
 * too `TAO`
 * from `TPR`
-* till `T*EUL`
+* till `TEUL`
 * evening, `AOEPBG KW-BG`
 * hungry, `HUPBG/REU KW-BG`
 * or `OR`

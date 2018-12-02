@@ -624,7 +624,7 @@
 * made, `PHAED KW-BG`
 * mechanical `PHEPL/K-L`
 * executed, `SKAOUTD KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * gradually `TKPWRAD/WAEL`
 * stone `STOEPB`
 * assumed `A/SAOUPLD`

@@ -83,7 +83,7 @@
 * beak `PWAOEBG`
 * loosened `HRAOS/-PBD`
 * bone, `PWOEPB KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * got `TKPWOT`
 * out. `OUT TP-PL`

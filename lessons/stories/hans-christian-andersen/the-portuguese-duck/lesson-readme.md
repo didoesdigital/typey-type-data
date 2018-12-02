@@ -691,7 +691,7 @@
 * sunny `SAOUPB`
 * spring, `SPREUPBG KW-BG`
 * best, `PWEFT KW-BG`
-* Till `KPA/T*EUL`
+* Till `KPA/TEUL`
 * With `KPA/W`
 * behind `HEUPBD`
 * wing." `WEUPBG TP-PL KR-GS`

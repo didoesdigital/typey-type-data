@@ -91,7 +91,7 @@
 * about?" `PW H-F KR-GS`
 * Then `KPA/THEPB`
 * studied `STUD/EUD`
-* till `T*EUL`
+* till `TEUL`
 * became `PWAEUPL`
 * ill `EUL`
 * wretched, `KREFPD KW-BG`

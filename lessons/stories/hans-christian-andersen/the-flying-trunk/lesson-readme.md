@@ -55,7 +55,7 @@
 * him `HEUPL`
 * crown; `KROUPB STPH*FPLT`
 * continued `T-PBD`
-* till `T*EUL`
+* till `TEUL`
 * died. `TKAOEUD TP-PL`
 * His `KPA/HEUS`
 * son `SOPB`

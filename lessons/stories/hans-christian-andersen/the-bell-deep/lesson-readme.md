@@ -581,6 +581,6 @@
 * out, `OUT KW-BG`
 * forever `TPOFR`
 * ever, `-FR KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * heaven `HEFPB`
 * sound `SOUPBD`

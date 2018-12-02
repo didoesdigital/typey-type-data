@@ -69,7 +69,7 @@
 * long `HROPBG`
 * day." `TKAEU TP-PL KR-GS`
 * waited, `WAEUTD KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * last `HRAFT`
 * began `TKPWAPB`

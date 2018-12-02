@@ -214,7 +214,7 @@
 * rest `REFT`
 * nor `TPH-R`
 * ease, `AOES KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * length `HREPBG`
 * stole `STOEL`
 * away, `A/WAEU KW-BG`

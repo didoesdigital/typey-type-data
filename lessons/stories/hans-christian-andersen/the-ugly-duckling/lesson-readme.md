@@ -190,7 +190,7 @@
 * asked `SK-D`
 * mother; `PHOER STPH*FPLT`
 * "Wait `KR-GS KPA/WAEUT`
-* till `T*EUL`
+* till `TEUL`
 * seen `SAOEPB`
 * garden; `TKPWA*RPB STPH*FPLT`
 * it `T`

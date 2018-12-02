@@ -15,7 +15,7 @@
 * They `KPA/THE`
 * hunted `HUPBT/-D`
 * they `THE`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * last `HRAFT`
 * surprised `SPRAOEUFD`

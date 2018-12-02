@@ -489,7 +489,7 @@
 * dancing `TKAPBS/-G`
 * me.' `PHE TP-PL AE`
 * Thus `KPA/THUS`
-* till `T*EUL`
+* till `TEUL`
 * late `HRAEUT`
 * night; `TPHAOEUT STPH*FPLT`
 * wanted `WAPBTD`

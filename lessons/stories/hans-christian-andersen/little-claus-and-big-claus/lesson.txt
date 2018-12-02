@@ -1127,7 +1127,7 @@ Little Claus and Big Claus
 'upon': POPB
 'it': T
 'again,': TKPWEPB KW-BG
-'till': T*EUL
+'till': TEUL
 'it': T
 'squeaked': SKWRAOEBGD
 'louder': HROURD
@@ -1297,7 +1297,7 @@ Little Claus and Big Claus
 'farmer': TPAR/PHER
 'drank': TKRA*PBG
 'it': T
-'till': T*EUL
+'till': TEUL
 'he': HE
 'became': PWAEUPL
 'quite': KWAOEUT
@@ -1363,7 +1363,7 @@ Little Claus and Big Claus
 'on': OPB
 'the': -T
 'sack': SABG
-'till': T*EUL
+'till': TEUL
 'it': T
 'squeaked.': SKWRAOEBGD TP-PL
 '"Do': KR-GS KPA/TKO
@@ -1593,7 +1593,7 @@ Little Claus and Big Claus
 'sat': SAT
 'and': SKP
 'drank': TKRA*PBG
-'till': T*EUL
+'till': TEUL
 'far': TPAR
 'into': TPHAO
 'the': -T
@@ -2373,7 +2373,7 @@ Little Claus and Big Claus
 'skin': SKEUPB
 'for': TPOR
 'you,': U KW-BG
-'till': T*EUL
+'till': TEUL
 'it': T
 'is': S
 'black': PWHRABG

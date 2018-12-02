@@ -91,7 +91,7 @@
 * there `THR`
 * little `HREUL`
 * while `WHAOEUL`
-* till `T*EUL`
+* till `TEUL`
 * peck `PEBG`
 * down `TKOUPB`
 * piece `PAOES`

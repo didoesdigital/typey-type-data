@@ -1052,7 +1052,7 @@
 * sympathize `SEUPL/THAOEUZ`
 * elevate `HR-FT`
 * us, `US KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * now. `TPHOU TP-PL`
 * You `KPA/U`
 * came, `KAEUPL KW-BG`

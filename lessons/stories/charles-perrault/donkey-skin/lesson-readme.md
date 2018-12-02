@@ -1279,7 +1279,7 @@
 * ordered `ORD/-D`
 * drums `TKRUPLS`
 * fifes `xxx fifes`
-* trumpets `TRUPL/PET/-S`
+* trumpets `TRUPLTS`
 * sounded `SOUPBD/-D`
 * heralds `H*ERLD/-S`
 * cry `KRAOEU`

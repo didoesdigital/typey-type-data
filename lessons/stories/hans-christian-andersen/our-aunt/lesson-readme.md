@@ -165,7 +165,7 @@
 * theatrical `THAOEFRT/K-L`
 * evening `AOEPBG`
 * lasted `HRAFT/-D`
-* till `T*EUL`
+* till `TEUL`
 * midnight `PHAOEUPBT`
 * lengthening `HREPB/THEPBG`
 * life. `HRAOEUF TP-PL`

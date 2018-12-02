@@ -468,7 +468,7 @@
 * huge `HAOUPBLG`
 * barrels, `PWARLS KW-BG`
 * drank `TKRA*PBG`
-* till `T*EUL`
+* till `TEUL`
 * loins `HROEUPB/-S`
 * hurt, `HURT KW-BG`
 * day `TKAEU`

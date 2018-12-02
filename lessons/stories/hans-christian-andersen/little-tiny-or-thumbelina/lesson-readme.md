@@ -410,7 +410,7 @@
 * lovely `HROFL`
 * creature;" `KRAOEFP STPH*FPLT KR-GS`
 * farther, `TPA*RT KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * brought `PWRAUT`
 * other `OER`
 * lands. `HRAPBDZ TP-PL`

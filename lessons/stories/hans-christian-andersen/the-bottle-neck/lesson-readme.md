@@ -831,7 +831,7 @@
 * usual `URBL`
 * occupation. `OUPGS TP-PL`
 * travel, `TRAFL KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * land—a `HRAPBD EPL/TKA*RB AEU`
 * foreign `TPOERPB`
 * country. `KREU TP-PL`

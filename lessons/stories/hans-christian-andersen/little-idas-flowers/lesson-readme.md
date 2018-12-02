@@ -865,7 +865,7 @@
 * pea-shells `PAE H-PB SHELS`
 * instruments, `STRAOUPLTS KW-BG`
 * blew `PWHRAOU`
-* till `T*EUL`
+* till `TEUL`
 * face. `TPAEUS TP-PL`
 * bunches `PWUFRPBS`
 * white `WHAOEUT`

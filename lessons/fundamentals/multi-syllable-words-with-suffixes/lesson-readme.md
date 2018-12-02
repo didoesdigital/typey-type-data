@@ -2,7 +2,7 @@
 
 * advanced `SRAPBS/-D`
 * gallery `TKPWAL/REU`
-* register `REPLG/STER`
+* register `REPBLG/STER`
 * provided `PROE/SRAOUD/-D`
 * users `AOUS/ERS`
 * latest `HRAEUT/EFT`
@@ -85,7 +85,7 @@
 * discussions `SKUGS/-S`
 * gaming `TKPWAEUPL/-G`
 * destination `TKEFT/TPHAEUGS`
-* nations `TPHAEUGS/-S`
+* nations `TPHA*EUGSZ`
 * specifications `SPEFBGS/-S`
 * decisions `STKEUGS/-S`
 * provisions `PRO/SREUGS/-S`
@@ -972,7 +972,7 @@
 * wholly `WHOE/HREU`
 * kindly `KAOEUPBD/HREU`
 * dignity `TKEUG/TEU`
-* distributing `TKR-BT/-G`
+* distributing `TKR-BG`
 * commanded `KPHAPBD/-D`
 * kindness `KEUPBD/-PBS`
 * weary `WAOE/REU`

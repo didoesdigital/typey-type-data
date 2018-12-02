@@ -460,7 +460,7 @@
 * ship `SHEUP`
 * brothers; `PWROERS STPH*FPLT`
 * sailed `SAEULD`
-* till `T*EUL`
+* till `TEUL`
 * right `RAOEUT`
 * place. `PHRAEUS TP-PL`
 * There `KPA/THR`

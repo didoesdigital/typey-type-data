@@ -524,7 +524,7 @@
 * bore `PWOR`
 * apple, `A*EPL KW-BG`
 * cupboard `WUP/PWORD`
-* till `T*EUL`
+* till `TEUL`
 * withered `WEU/THER/-D`
 * rotten. `ROT/EPB TP-PL`
 * property, `PROT KW-BG`

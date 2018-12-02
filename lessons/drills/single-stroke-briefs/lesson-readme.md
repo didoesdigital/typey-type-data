@@ -5913,7 +5913,7 @@
 * tile `TAOEUL`
 * tiled `TAOEULD`
 * tiling `TAOEULG`
-* till `T*EUL`
+* till `TEUL`
 * tilt `TEULT`
 * time `TAOEUPL`
 * timed `TAOEUPLD`

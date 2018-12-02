@@ -276,7 +276,7 @@
 * where `W-R`
 * goes.' `TKPW-S TP-PL AE`
 * wood, `WAOD KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * last `HRAFT`
 * place `PHRAEUS`

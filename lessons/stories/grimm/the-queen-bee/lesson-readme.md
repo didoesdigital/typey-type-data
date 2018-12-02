@@ -169,7 +169,7 @@
 * be `-B`
 * seen. `SAOEPB TP-PL`
 * rooms, `RAOPLS KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * door `TKAOR`
 * which `WEU`
 * locks: `HROBGZ STPH-FPLT`

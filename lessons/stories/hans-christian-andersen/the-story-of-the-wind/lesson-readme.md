@@ -703,7 +703,7 @@
 * forth. `TPO*RT TP-PL`
 * snowflakes `STPHOE/TPHRAEUBG/-S`
 * whirl `WHEURL`
-* till `T*EUL`
+* till `TEUL`
 * snow `STPHOE`
 * lake `HRAEUBG`
 * drifted `TKREUFT/-D`

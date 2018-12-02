@@ -45,7 +45,7 @@
 * were `WR`
 * stone `STOEPB`
 * dead. `TKED TP-PL`
-* Mrs `PH*/R*/S*`
+* Mrs `PH*P/R*/S*`
 * Fox `KPA/TPOBGS`
 * went `WEPBT`
 * up `UP`

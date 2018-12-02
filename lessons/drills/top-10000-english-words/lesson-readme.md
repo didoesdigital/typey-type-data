@@ -464,7 +464,7 @@
 * large `HRARPBLG`
 * gallery `TKPWAL/REU`
 * table `TAEUBL`
-* register `REPLG/STER`
+* register `REPBLG/STER`
 * however `HOUF`
 * June `SKWRUPB`
 * October `OBGT`
@@ -729,7 +729,7 @@
 * able `ABL`
 * having `SR-G`
 * provides `PROEUFDZ`
-* David `TAEUFD`
+* David `TKAEUFD`
 * fun `TPUPB`
 * already `HR-R`
 * green `TKPWRAOEPB`
@@ -2530,7 +2530,7 @@
 * bought `PWAUT`
 * con `KOPB`
 * ups `UPS`
-* nations `TPHAEUGS/-S`
+* nations `TPHA*EUGSZ`
 * route `ROUT`
 * followed `TPOLD`
 * specifications `SPEFBGS/-S`
@@ -4266,7 +4266,7 @@
 * capable `KAEUPBL`
 * Douglas `TKUG/HRAS`
 * debian `TKEB/KWRAPB`
-* till `T*EUL`
+* till `TEUL`
 * involving `SROFG`
 * pen `PEPB`
 * investing `SREFG`
@@ -4747,7 +4747,7 @@
 * whenever `WHEFR`
 * nova `TPHOE/SRA`
 * lifetime `HRAOEUF/TAOEUPL`
-* api `OEUP`
+* API `OEUP`
 * pioneer `PAOEUPB/AOER`
 * booty `PWAOT/TEU`
 * forgotten `TPORGTD`
@@ -5342,7 +5342,7 @@
 * deleted `TKHRAOETD`
 * coat `KOET`
 * Mitchell `PHEUFP/EL`
-* Mrs `PH*/R*/S*`
+* Mrs `PH*P/R*/S*`
 * Rica `RAOE/KA`
 * restoration `RE/STORGS`
 * convenience `SRAOEPBS`
@@ -5736,7 +5736,7 @@
 * Colombia `KHROPL/KWRA`
 * waves `WAFS`
 * camel `KAPL/EL`
-* distributor `TKR-BT/TOR`
+* distributor `TKR-BT/O*R`
 * lamps `HRA*PLS`
 * underlying `UPBD/HRAOEUG`
 * hood `HAOD`
@@ -6969,7 +6969,7 @@
 * controlling `KROLG`
 * treasure `TRERB`
 * reload `RE/HRAOD`
-* distributors `TKR-BT/TORS`
+* distributors `TKR-BT/O*RS`
 * flame `TPHRAEUPL`
 * levitra `HREF/EUT/RA`
 * tanks `TAPB/-BGS`

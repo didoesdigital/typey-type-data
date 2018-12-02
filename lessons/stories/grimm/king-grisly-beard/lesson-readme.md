@@ -369,7 +369,7 @@
 * tried `TRAOEUD`
 * threads `THREDZ`
 * tender `TERPBD`
-* till `T*EUL`
+* till `TEUL`
 * blood `PWHRAOD`
 * ran. `RAPB TP-PL`
 * 'See `AE KPA/SAOE`

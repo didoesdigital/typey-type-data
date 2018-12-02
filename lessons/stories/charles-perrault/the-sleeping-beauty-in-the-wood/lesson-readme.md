@@ -430,7 +430,7 @@
 * let `HRET`
 * sleep `SHRAOEP`
 * quietly `KWAO*EULT`
-* till `T*EUL`
+* till `TEUL`
 * hour `HOUR`
 * awakening `A/WAEUBG/EPBG`
 * come. `KOPL TP-PL`

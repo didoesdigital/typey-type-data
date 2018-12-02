@@ -362,7 +362,7 @@
 * cowardly `KOURD/HREU`
 * rascal, `RAS/K-L KW-BG`
 * suffer `SUFR`
-* till `T*EUL`
+* till `TEUL`
 * heartily `HART/HREU`
 * ashamed `A/SHAEUPLD`
 * promised `PROPLS/-D`

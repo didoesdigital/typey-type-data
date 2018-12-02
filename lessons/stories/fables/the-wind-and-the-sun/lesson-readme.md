@@ -63,7 +63,7 @@
 * wrap `WRAP`
 * round `ROUPBD`
 * him, `HEUPL KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * at `AT`
 * last `HRAFT`
 * had `H`

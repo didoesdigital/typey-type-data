@@ -325,7 +325,7 @@
 * after `AF`
 * another `TPHOER`
 * fell, `TPEL KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * last `HRAFT`
 * only `OEPBL`
 * remained `RE/PHAEUPBD`

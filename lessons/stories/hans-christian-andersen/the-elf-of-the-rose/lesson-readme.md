@@ -182,7 +182,7 @@
 * sleep `SHRAOEP`
 * one `WUPB`
 * these `THEZ`
-* till `T*EUL`
+* till `TEUL`
 * morning. `PHORPBG TP-PL`
 * thither; `TH*EURT STPH*FPLT`
 * "hush!" `KR-GS HURB SKHRAPL KR-GS`

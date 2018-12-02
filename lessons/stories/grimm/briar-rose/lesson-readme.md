@@ -193,7 +193,7 @@
 * another `TPHOER`
 * beauty, `PWAOUT KW-BG`
 * riches, `REUFPS KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * world. `WORLD TP-PL`
 * Just `KPA/SKWRUFT`
 * eleven `HREFPB`

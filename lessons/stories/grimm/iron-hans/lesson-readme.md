@@ -249,7 +249,7 @@
 * me `PHE`
 * out.' `OUT TP-PL AE`
 * 'Not `AE KPA/TPHOT`
-* till `T*EUL`
+* till `TEUL`
 * me,' `PHE KW-BG AE`
 * answered `AEPBS/-D`
 * man. `PHAPB TP-PL`

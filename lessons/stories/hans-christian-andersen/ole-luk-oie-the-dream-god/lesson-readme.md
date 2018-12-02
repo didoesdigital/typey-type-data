@@ -74,7 +74,7 @@
 * softly `SOFT/HREU`
 * upon `POPB`
 * necks, `TPHEBG/-S KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * heads `HEDZ`
 * begin `TKPWEUPB`
 * droop. `TKRAOP TP-PL`

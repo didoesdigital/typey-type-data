@@ -11,7 +11,7 @@
 * through `THRU`
 * an `APB`
 * orchard `OR/KHARD`
-* till `T*EUL`
+* till `TEUL`
 * he `HE`
 * came `KAEUPL`
 * to `TO`

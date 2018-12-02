@@ -482,7 +482,7 @@
 * whirlwind `WHEURL/WEUPD`
 * bore `PWOR`
 * time, `TAOEUPL KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * settled `S*ELTD`
 * garden, `TKPWA*RPB KW-BG`
 * quite `KWAOEUT`

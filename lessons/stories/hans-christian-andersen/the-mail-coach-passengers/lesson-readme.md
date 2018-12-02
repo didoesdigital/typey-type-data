@@ -102,7 +102,7 @@
 * round, `ROUPBD KW-BG`
 * clashed `KHRARB/-D`
 * together `TOGT`
-* till `T*EUL`
+* till `TEUL`
 * rang `RAPBG`
 * again; `TKPWEPB STPH*FPLT`
 * while `WHAOEUL`

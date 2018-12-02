@@ -79,7 +79,7 @@
 * four `TPOUR`
 * red `RED`
 * posts, `POEFTS KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * cock-crow `KOBG H-PB KROE`
 * this `TH`
 * morning, `PHORPBG KW-BG`

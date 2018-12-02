@@ -491,7 +491,7 @@
 * wailing `WAEULG`
 * sleep. `SHRAOEP TP-PL`
 * waited `WAEUTD`
-* till `T*EUL`
+* till `TEUL`
 * darker `TKA*ERBG`
 * people `PAOEPL`
 * begun `TKPWUPB`

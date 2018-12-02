@@ -366,7 +366,7 @@
 * tiptoe, `TEUP/TOE KW-BG`
 * peeping `PAOEPG`
 * in, `TPH KW-BG`
-* till `T*EUL`
+* till `TEUL`
 * garret. `TKPWAEUR/RET TP-PL`
 * doubt `TKOUT`
 * blown `PWHROEPB`

@@ -664,7 +664,7 @@
 * Ogre's `KPA/OERG AES`
 * believed `PWHREFD`
 * conceal `KAUPB/SAOEL`
-* till `T*EUL`
+* till `TEUL`
 * warm `WARPL`
 * fire; `TPAOEUR STPH*FPLT`
 * whole `WHOEL`

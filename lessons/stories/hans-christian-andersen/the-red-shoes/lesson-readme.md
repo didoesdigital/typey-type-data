@@ -521,7 +521,7 @@
 * shall," `SHAL KW-BG KR-GS`
 * "dance `KR-GS TKAPBS`
 * your `KWROUR`
-* till `T*EUL`
+* till `TEUL`
 * pale `PAEL`
 * cold, `KOELD KW-BG`
 * skin `SKEUPB`

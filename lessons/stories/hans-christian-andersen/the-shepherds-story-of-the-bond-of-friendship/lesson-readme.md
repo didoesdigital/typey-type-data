@@ -439,7 +439,7 @@
 * smoke `SPHOEBG`
 * along `A/HROPBG`
 * ceiling `KAOELG`
-* till `T*EUL`
+* till `TEUL`
 * way `WAEU`
 * out `OUT`
 * low `HROE`
