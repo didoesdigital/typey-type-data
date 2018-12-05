@@ -316,7 +316,7 @@
 * vapor `SRAEUP`
 * when `WHEPB`
 * saw `SAU`
-* divine `TKWAOEUB`
+* divine `TKWAOEUPB`
 * radiance `RAEUD/KWRAPBS`
 * beamed `PWAEPL/-D`
 * forth `TPO*RT`
@@ -1112,7 +1112,7 @@
 * flamed `TPHRAEUPLD`
 * within, `W-PB KW-BG`
 * glare `TKPWHRAEUR`
-* divine. `TKWAOEUB TP-PL`
+* divine. `TKWAOEUPB TP-PL`
 * "Apollo! `KR-GS A/POL/HRO SKHRAPL`
 * Jupiter! `SKWRAOUP/TER SKHRAPL`
 * feel `TPAOEL`

@@ -258,7 +258,7 @@
 * liked `HRAOEUBGD`
 * one `WUPB`
 * its `EUTS`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * feathers. `TP*ET/ERS TP-PL`
 * thought: `THAUT STPH-FPLT`
 * soon `SAOPB`

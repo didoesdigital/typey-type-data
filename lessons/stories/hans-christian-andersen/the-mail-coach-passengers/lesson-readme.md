@@ -692,7 +692,7 @@
 * adorned `A/TKORPB/-D`
 * flaming `TPHRAPLG`
 * candles, `KAPBD/-LS KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * apples, `APLS KW-BG`
 * figures. `TPEUGS TP-PL`
 * fire-stool `TPAOEUR H-PB STOL`

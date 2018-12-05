@@ -2020,7 +2020,7 @@
 * divided `TKWAOEUTD`
 * dividend `TK*F`
 * dividing `TKWAOEUGD`
-* divine `TKWAOEUB`
+* divine `TKWAOEUPB`
 * diving `TKAOEUFG`
 * divinity `TKWEPBT`
 * divorce `TKWORS`

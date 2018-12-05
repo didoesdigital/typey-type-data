@@ -444,7 +444,7 @@
 * Close `KPA/KHROES`
 * an `APB`
 * king `KEUPBG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * crown `KROUPB`
 * white `WHAOEUT`
 * head. `HED TP-PL`

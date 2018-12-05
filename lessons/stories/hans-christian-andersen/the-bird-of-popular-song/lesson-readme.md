@@ -85,7 +85,7 @@
 * had `H`
 * been `PW-PB`
 * king. `KEUPBG TP-PL`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * circlet `xxx circlet`
 * gleamed `TKPWHRAOEPL/-D`
 * his `HEUS`

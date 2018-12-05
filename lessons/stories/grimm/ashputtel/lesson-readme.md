@@ -365,8 +365,8 @@
 * me, `PHE KW-BG`
 * quick! `KWEUBG SKHRAPL`
 * Haste `KPA/HAEUFT`
-* ye, `KWR*/*E/SP-S KW-BG`
-* ye!--pick, `KWR*/*E/SP-S SKHRAPL H-PB H-PB PEUBG KW-BG`
+* ye, `KWR*/*E KW-BG`
+* ye!--pick, `KWR*/*E SKHRAPL H-PB H-PB PEUBG KW-BG`
 * pick, `PEUBG KW-BG`
 * pick!' `PEUBG SKHRAPL AE`
 * doves, `TKOFS KW-BG`
@@ -613,7 +613,7 @@
 * such `SUFP`
 * hurry `HUR/REU`
 * dropped `TKROPD`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * slipper `SHREUP/ER`
 * stairs. `STAEURS TP-PL`
 * shoe, `SHAOU KW-BG`

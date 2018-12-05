@@ -138,7 +138,7 @@
 * every `EF`
 * morning `PHORPBG`
 * an `APB`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * crowns, `KROUPBS KW-BG`
 * louis `HR*/O*/*U/*EU/S*`
 * kind, `KEUPBD KW-BG`

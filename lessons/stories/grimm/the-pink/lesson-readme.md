@@ -540,7 +540,7 @@
 * sprinkled `SPREUPB/K-LD`
 * chicken.' `KHEU/KEPB TP-PL AE`
 * dog `TKOG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * collar, `KHRAR KW-BG`
 * 'That `AE KPA/THA`
 * wretch!' `WREFP SKHRAPL AE`

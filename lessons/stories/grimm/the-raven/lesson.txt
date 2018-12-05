@@ -1036,7 +1036,7 @@ The Raven
 'come': KOPL
 'to': TO
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'castle': KAFL
 'of': -F
 'Stromberg;': xxx Stromberg STPH*FPLT
@@ -1058,7 +1058,7 @@ The Raven
 'drove': TKROEF
 'to': TO
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'castle': KAFL
 'of': -F
 'Stromberg.': xxx Stromberg TP-PL
@@ -1775,7 +1775,7 @@ The Raven
 'he': HE
 'reached': RAOEFPD
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'castle': KAFL
 'of': -F
 'Stromberg.': xxx Stromberg TP-PL
@@ -2268,7 +2268,7 @@ The Raven
 'sitting,': SEUGT KW-BG
 'with': W
 'a': AEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'goblet': TKPWOBLT
 'full': TPUL
 'of': -F

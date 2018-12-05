@@ -155,7 +155,7 @@
 * kingdom; `KEUPBG/TKOPL STPH*FPLT`
 * only `OEPBL`
 * twelve `TWEFL`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * dishes `TKEURBS`
 * of, `-F KW-BG`
 * forced `TPOFRD`

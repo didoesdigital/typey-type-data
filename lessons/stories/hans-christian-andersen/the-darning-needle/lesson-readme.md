@@ -383,7 +383,7 @@
 * Gold-band, `KPA/TKPWOELD H-PB PWAPBD KW-BG`
 * next `TPHEGT`
 * wore `WOR`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * circle `KOEURBG`
 * waist. `WAEUFT TP-PL`
 * little `HREUL`

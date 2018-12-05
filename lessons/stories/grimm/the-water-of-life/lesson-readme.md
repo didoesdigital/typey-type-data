@@ -766,7 +766,7 @@
 * haste `HAEUFT`
 * wife, `WAOEUF KW-BG`
 * As `KPA/AZ`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * road, `RAOD KW-BG`
 * look `HRAOBG`
 * 'It `AE KPA/T`

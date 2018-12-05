@@ -719,9 +719,9 @@ Ashputtel
 'me,': PHE KW-BG
 'quick!': KWEUBG SKHRAPL
 'Haste': KPA/HAEUFT
-'ye,': KWR*/*E/SP-S KW-BG
+'ye,': KWR*/*E KW-BG
 'haste': HAEUFT
-'ye!--pick,': KWR*/*E/SP-S SKHRAPL H-PB H-PB PEUBG KW-BG
+'ye!--pick,': KWR*/*E SKHRAPL H-PB H-PB PEUBG KW-BG
 'pick,': PEUBG KW-BG
 'pick!'': PEUBG SKHRAPL AE
 'Then': KPA/THEPB
@@ -966,9 +966,9 @@ Ashputtel
 'me,': PHE KW-BG
 'quick!': KWEUBG SKHRAPL
 'Haste': KPA/HAEUFT
-'ye,': KWR*/*E/SP-S KW-BG
+'ye,': KWR*/*E KW-BG
 'haste': HAEUFT
-'ye!--pick,': KWR*/*E/SP-S SKHRAPL H-PB H-PB PEUBG KW-BG
+'ye!--pick,': KWR*/*E SKHRAPL H-PB H-PB PEUBG KW-BG
 'pick,': PEUBG KW-BG
 'pick!'': PEUBG SKHRAPL AE
 'Then': KPA/THEPB
@@ -1895,7 +1895,7 @@ Ashputtel
 'dropped': TKROPD
 'her': HER
 'left': HREFT
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'slipper': SHREUP/ER
 'upon': POPB
 'the': -T
@@ -1927,7 +1927,7 @@ Ashputtel
 'lady': HRA*ED
 'that': THA
 'this': TH
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'slipper': SHREUP/ER
 'fits.'': TPEUTS TP-PL AE
 'Then': KPA/THEPB
@@ -1953,7 +1953,7 @@ Ashputtel
 'could': KO
 'wear': WAER
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'slipper.': SHREUP/ER TP-PL
 'The': KPA/-T
 'eldest': ELD/EFT
@@ -2423,7 +2423,7 @@ Ashputtel
 'reached': RAOEFPD
 'her': HER
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'slipper.': SHREUP/ER TP-PL
 'Then': KPA/THEPB
 'she': SHE
@@ -2439,7 +2439,7 @@ Ashputtel
 'put': PUT
 'on': OPB
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'slipper;': SHREUP/ER STPH*FPLT
 'and': SKP
 'it': T

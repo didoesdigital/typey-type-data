@@ -100,7 +100,7 @@
 * ripe, `RAOEUP KW-BG`
 * look `HRAOBG`
 * number `TPHUPL`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * canary-birds `KA/TPHAER H-PB PWEURDZ`
 * sitting `SEUGT`
 * on `OPB`

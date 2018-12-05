@@ -402,7 +402,7 @@
 * covered `KOFRD`
 * leather, `HRE/THER KW-BG`
 * leather `HRE/THER`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * stamped `STA*PLD`
 * "Gilding `KR-GS xxx Gilding`
 * fade `TPAEUD`

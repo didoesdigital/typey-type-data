@@ -293,7 +293,7 @@ The Goose-Girl
 'water': WAUR
 'in': TPH
 'my': PHEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'cup': KUP
 'out': OUT
 'of': -F
@@ -358,7 +358,7 @@ The Goose-Girl
 'bring': PWREU
 'out': OUT
 'her': HER
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'cup;': KUP STPH*FPLT
 'and': SKP
 'she': SHE
@@ -470,7 +470,7 @@ The Goose-Girl
 'drink': TKREU
 'in': TPH
 'my': PHEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'cup.'': KUP TP-PL AE
 'But': KPA/PWUT
 'the': -T
@@ -1227,7 +1227,7 @@ The Goose-Girl
 'after': AF
 'it': T
 'go!': TKPW SKHRAPL
-'O'er': O*P AE ER/SP-S
+'O'er': O*P AE *E/R*
 'hills,': HEULS KW-BG
 'dales,': TKAEL/-S KW-BG
 'and': SKP
@@ -1432,7 +1432,7 @@ The Goose-Girl
 'after': AF
 'it': T
 'go!': TKPW SKHRAPL
-'O'er': O*P AE ER/SP-S
+'O'er': O*P AE *E/R*
 'hills,': HEULS KW-BG
 'dales,': TKAEL/-S KW-BG
 'and': SKP
@@ -1771,7 +1771,7 @@ The Goose-Girl
 'after': AF
 'it': T
 'go!': TKPW SKHRAPL
-'O'er': O*P AE ER/SP-S
+'O'er': O*P AE *E/R*
 'hills,': HEULS KW-BG
 'dales,': TKAEL/-S KW-BG
 'and': SKP

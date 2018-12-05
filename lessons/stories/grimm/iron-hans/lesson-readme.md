@@ -239,7 +239,7 @@
 * playing `PHRA*EUG`
 * while `WHAOEUL`
 * playing, `PHRA*EUG KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * ball `PWAUL`
 * cage. `KAEUPBLG TP-PL`
 * boy `PWOEU`

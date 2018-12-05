@@ -15,7 +15,7 @@ The Beetle Who Went on His Travels
 'He': KPA/HE
 'had': H
 'a': AEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoe': SHAOU
 'on': OPB
 'each': AOEFP
@@ -97,7 +97,7 @@ The Beetle Who Went on His Travels
 'and': SKP
 'saved': SAFD
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'crown': KROUPB
 'and': SKP
 'the': -T
@@ -121,7 +121,7 @@ The Beetle Who Went on His Travels
 'Emperor's': KPA/EPL/ROR AES
 'horse': HORS
 'wearing': WAURG
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes.': SHAOUS TP-PL
 'A': KPA/AEU
 'beetle': PWAO*ELT
@@ -178,7 +178,7 @@ The Beetle Who Went on His Travels
 'asked': SK-D
 'the': -T
 'farrier.': xxx farrier TP-PL
-'"Golden': KR-GS KPA/TKOELD/*EPB
+'"Golden': KR-GS KPA/TKPWOELD/*EPB
 'shoes,"': SHAOUS KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
@@ -194,14 +194,14 @@ The Beetle Who Went on His Travels
 'cried': KRAOEUD
 'the': -T
 'farrier.': xxx farrier TP-PL
-'"Golden': KR-GS KPA/TKOELD/*EPB
+'"Golden': KR-GS KPA/TKPWOELD/*EPB
 'shoes': SHAOUS
 'for': TPOR
 'you,': U KW-BG
 'indeed!"': TPHAOEPBD SKHRAPL KR-GS
 '"Yes,': KR-GS KPA/KWRE KW-BG
 'certainly;': SERPBL STPH*FPLT
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes,"': SHAOUS KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
@@ -245,7 +245,7 @@ The Beetle Who Went on His Travels
 'the': -T
 'horse': HORS
 'have': SR
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes?"': SHAOUS H-F KR-GS
 'asked': SK-D
 'the': -T
@@ -488,7 +488,7 @@ The Beetle Who Went on His Travels
 'wears': WAERS
 'my': PHEU
 'cast-off': KAFT H-PB OF
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes,': SHAOUS KW-BG
 'has': HAS
 'any': TPHEU
@@ -1473,7 +1473,7 @@ The Beetle Who Went on His Travels
 'was': WAS
 'born,': PWORPB KW-BG
 'with': W
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes': SHAOUS
 'on': OPB
 'my': PHEU
@@ -1974,7 +1974,7 @@ The Beetle Who Went on His Travels
 'left': HREFT
 'him': HEUPL
 'his': HEUS
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes,': SHAOUS KW-BG
 'and': SKP
 'also': HR-S
@@ -2127,7 +2127,7 @@ The Beetle Who Went on His Travels
 'horse,': HORS KW-BG
 'and': SKP
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes': SHAOUS
 'he': HE
 'had': H
@@ -2517,7 +2517,7 @@ The Beetle Who Went on His Travels
 'refuse': REF/AOUS
 'me': PHE
 'my': PHEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes;': SHAOUS STPH*FPLT
 'then': THEPB
 'I': EU
@@ -2599,7 +2599,7 @@ The Beetle Who Went on His Travels
 'proudly': PROUD/HREU
 'on': OPB
 'his': HEUS
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes.': SHAOUS TP-PL
 'This': KPA/TH
 'vexes': SREBGS/-S
@@ -2655,7 +2655,7 @@ The Beetle Who Went on His Travels
 'have': SR
 'given': TKPWEUFPB
 'me': PHE
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes': SHAOUS
 'when': WHEPB
 'the': -T
@@ -2677,7 +2677,7 @@ The Beetle Who Went on His Travels
 'I': EU
 'had': H
 'received': SAOEFD
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes': SHAOUS
 'I': EU
 'should': SHO
@@ -2916,7 +2916,7 @@ The Beetle Who Went on His Travels
 'me': PHE
 'why': KWR
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'shoes': SHAOUS
 'were': WR
 'given': TKPWEUFPB

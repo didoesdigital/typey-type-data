@@ -1077,7 +1077,7 @@
 * boys `PWOEUS`
 * played `PHRAEUD`
 * wore `WOR`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * breast, `PWREFT KW-BG`
 * during `TKURG`
 * existence. `KPEUFS TP-PL`

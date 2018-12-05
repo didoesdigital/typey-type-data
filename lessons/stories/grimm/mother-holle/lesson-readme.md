@@ -361,7 +361,7 @@
 * out: `OUT STPH-FPLT`
 * 'Cock-a-doodle-doo! `AE KPA/KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO SKHRAPL`
 * Your `KPA/KWROUR`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * daughter's `TKAUR/AES`
 * come `KOPL`
 * you.' `U TP-PL AE`

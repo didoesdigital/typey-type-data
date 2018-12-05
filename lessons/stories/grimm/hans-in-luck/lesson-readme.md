@@ -622,7 +622,7 @@
 * grave, `TKPWRAEUF KW-BG`
 * shook `SHAOBG`
 * 'Hark `AE KPA/HARBG`
-* ye!' `KWR*/*E/SP-S SKHRAPL AE`
+* ye!' `KWR*/*E SKHRAPL AE`
 * 'my `AE PHEU`
 * worthy `WO*RT/KWREU`
 * seem `SAOEPL`
@@ -714,7 +714,7 @@
 * scissor-grinder `SEUS/O*R H-PB TKPWREUPBD/*ER`
 * wheel, `WHAOEL KW-BG`
 * working `WOG`
-* 'O'er `AE O*P AE ER/SP-S`
+* 'O'er `AE O*P AE *E/R*`
 * hill `HEUL`
 * o'er `OE/*ER`
 * dale `TKAEL`
@@ -732,7 +732,7 @@
 * work.' `WORBG TP-PL AE`
 * 'Yes,' `AE KPA/KWRE KW-BG AE`
 * 'mine `AE PHAOEUPB`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * trade; `TRAEUD STPH*FPLT`
 * grinder `TKPWREUPBD/*ER`
 * never `TPHEF`

@@ -435,7 +435,7 @@
 * free; `TPRAOE STPH*FPLT`
 * if, `TP KW-BG`
 * so, `SO KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * castle `KAFL`
 * Stromberg; `xxx Stromberg STPH*FPLT`
 * within `W-PB`

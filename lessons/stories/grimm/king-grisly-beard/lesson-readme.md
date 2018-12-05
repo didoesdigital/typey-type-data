@@ -515,7 +515,7 @@
 * All `KPA/AUL`
 * sudden, `SUD KW-BG`
 * out, `OUT KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * clothes; `KHRO*ETS STPH*FPLT`
 * woman `WOPL`
 * door, `TKAOR KW-BG`

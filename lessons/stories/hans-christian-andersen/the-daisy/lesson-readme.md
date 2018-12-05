@@ -234,7 +234,7 @@
 * beautifully `PWAOUFL/HREU`
 * soft `SOFT`
 * lovely `HROFL`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * heart `HART`
 * silver `SEUL/SRER`
 * dress `TKRES`

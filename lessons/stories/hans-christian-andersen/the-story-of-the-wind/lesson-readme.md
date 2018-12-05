@@ -751,7 +751,7 @@
 * sometimes, `STAOEUPLS KW-BG`
 * gazing `TKPWAEUFG`
 * sun `SUPB`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * sky `SKAOEU`
 * opening `OEPG`
 * dark, `TKARBG KW-BG`

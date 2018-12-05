@@ -115,7 +115,7 @@
 * earn `ERPB`
 * livelihood?' `HRAOFD H-F AE`
 * 'Hark `AE KPA/HARBG`
-* ye!' `KWR*/*E/SP-S SKHRAPL AE`
+* ye!' `KWR*/*E SKHRAPL AE`
 * city `STEU`
 * musician: `PHAOUGS STPH-FPLT`
 * suppose `SPOS`

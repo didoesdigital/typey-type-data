@@ -366,7 +366,7 @@
 * several `SEFRL`
 * business `PWEUS`
 * whether `WHR`
-* er `ER/SP-S`
+* er `*E/R*`
 * manner `PHAERPB`
 * second `SEBGD`
 * reason `R-PB`
@@ -377,7 +377,7 @@
 * why `KWR`
 * behind `HEUPBD`
 * became `PWAEUPL`
-* john `SKWROPB`
+* John `SKWROPB`
 * become `PW-BG`
 * dead `TKED`
 * earth `*ERT`
@@ -422,7 +422,7 @@
 * live `HREUF`
 * lady `HRA*ED`
 * subject `SUBT`
-* Sn `S*/TPH*`
+* Sn `S*P/TPH*`
 * answer `AEPBS`
 * sea `SAE`
 * fear `TPAOER`
@@ -450,7 +450,7 @@
 * show `SHOE`
 * party `PAERT`
 * fine `TPAOEUPB`
-* ye `KWR*/*E/SP-S`
+* ye `KWR*/*E`
 * ready `R-D`
 * story `STOER`
 * common `KPHOPB`
@@ -1357,7 +1357,7 @@
 * satisfied `SAED`
 * check `KHEBG`
 * virtue `SRAOURT`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * numerous `TPHAOUPLS`
 * frequently `TPREL`
 * famous `TPAEUPLS`
@@ -1367,7 +1367,7 @@
 * waters `WAURS`
 * national `TPHAT`
 * weak `WAEBG`
-* divine `TKWAOEUB`
+* divine `TKWAOEUPB`
 * material `TERL`
 * principal `PRAL`
 * gathered `TKPWAERD`

@@ -508,7 +508,7 @@
 * beautiful `PWAOUFL`
 * peasants `PEFPBT/-S`
 * place `PHRAEUS`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * snow `STPHOE`
 * falls, `TPAULZ KW-BG`
 * people `PAOEPL`

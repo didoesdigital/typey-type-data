@@ -209,7 +209,7 @@
 * he `HE`
 * sat `SAT`
 * his `HEUS`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * chair, `KHAEUR KW-BG`
 * and, `SKP KW-BG`
 * read, `RAED KW-BG`

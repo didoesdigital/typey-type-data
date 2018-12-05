@@ -107,7 +107,7 @@
 * flower," `TPHRO*UR KW-BG KR-GS`
 * kissed `K*EUFD`
 * red `RED`
-* golden-colored `TKOELD/*EPB H-PB KHRORD`
+* golden-colored `TKPWOELD/*EPB H-PB KHRORD`
 * leaves, `HREFS KW-BG`
 * while `WHAOEUL`
 * did `TK`

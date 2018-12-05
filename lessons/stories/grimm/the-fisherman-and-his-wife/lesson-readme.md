@@ -318,7 +318,7 @@
 * rooms `RAOPLS`
 * richly `REUFP/HREU`
 * furnished, `TPURPB/EURBD KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * chairs `KHAEURS`
 * tables; `TAEUBLS STPH*FPLT`
 * around `ARPBD`

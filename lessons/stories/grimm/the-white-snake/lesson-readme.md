@@ -609,7 +609,7 @@
 * sleep. `SHRAOEP TP-PL`
 * rustling `RUS/-LG`
 * branches, `PWRAFPBS KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * hand. `HAPBD TP-PL`
 * At `KPA/AT`
 * same `SAEUPL`
@@ -623,7 +623,7 @@
 * grown `TKPWROEPB`
 * big, `PWEUG KW-BG`
 * seeking `SAOEBG/-G`
-* Golden `KPA/TKOELD/*EPB`
+* Golden `KPA/TKPWOELD/*EPB`
 * Apple, `A*EPL/A*EPL KW-BG`
 * over `OEFR`
 * sea `SAE`

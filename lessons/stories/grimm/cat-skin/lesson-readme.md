@@ -57,7 +57,7 @@
 * I `EU`
 * am, `APL KW-BG`
 * has `HAS`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * like `HRAOEUBG`
 * mine.' `PHAOEUPB TP-PL AE`
 * Then `KPA/THEPB`
@@ -210,7 +210,7 @@
 * skilful `SKEUL/*FL`
 * workmen `WORBG/PHEPB`
 * weave `WEF`
-* golden, `TKOELD/*EPB KW-BG`
+* golden, `TKPWOELD/*EPB KW-BG`
 * silvery, `SEUL/SRER/KWREU KW-BG`
 * sparkling, `SPAR/K-LG KW-BG`
 * hunters `HURPBTS`

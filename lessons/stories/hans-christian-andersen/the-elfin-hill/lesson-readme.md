@@ -663,7 +663,7 @@
 * waters, `WAURS KW-BG`
 * water-god `WAUR H-PB TKPWOD`
 * plays `PHRAEUZ`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * harp. `HARP TP-PL`
 * bright `PWRAOEUT`
 * winter `WEURPBT`

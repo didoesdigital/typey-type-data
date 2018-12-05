@@ -7,7 +7,7 @@
 * review `RE/SRAOU`
 * reviews `RE/SRAOUS`
 * hotel `HOET/EL`
-* ebay `AOE/PWAEU`
+* eBay `AOE/PWAEU`
 * details `TKE/TAEULS`
 * hotels `HOE/TELS`
 * address `A/TKRES`

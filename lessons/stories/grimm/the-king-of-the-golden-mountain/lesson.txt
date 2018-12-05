@@ -1403,7 +1403,7 @@ The King of the Golden Mountain
 'king': KEUPBG
 'of': -F
 'the': -T
-'Golden': KPA/TKOELD/*EPB
+'Golden': KPA/TKPWOELD/*EPB
 'Mountain.': KPA/PHOUPB/TAEUPB TP-PL
 'They': KPA/THE
 'lived': HREUFD
@@ -1716,7 +1716,7 @@ The King of the Golden Mountain
 'king': KEUPBG
 'of': -F
 'the': -T
-'Golden': KPA/TKOELD/*EPB
+'Golden': KPA/TKPWOELD/*EPB
 'Mountain,': KPA/PHOUPB/TAEUPB KW-BG
 'and': SKP
 'was': WAS
@@ -2163,7 +2163,7 @@ The King of the Golden Mountain
 'himself': H*EUPLS
 'at': AT
 'the': -T
-'Golden': KPA/TKOELD/*EPB
+'Golden': KPA/TKPWOELD/*EPB
 'Mountain;': KPA/PHOUPB/TAEUPB STPH*FPLT
 'and': SKP
 'there': THR
@@ -2466,5 +2466,5 @@ The King of the Golden Mountain
 'king': KEUPBG
 'of': -F
 'the': -T
-'Golden': KPA/TKOELD/*EPB
+'Golden': KPA/TKPWOELD/*EPB
 'Mountain.': KPA/PHOUPB/TAEUPB TP-PL

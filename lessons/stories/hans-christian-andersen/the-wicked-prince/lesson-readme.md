@@ -194,7 +194,7 @@
 * them. `THEPL TP-PL`
 * kings `KEUPBGZ`
 * chained `KHAEUPBD`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * fetters `TPET/ERS`
 * chariot `KHAEUR/KWROT`
 * drove `TKROEF`

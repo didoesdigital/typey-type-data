@@ -667,7 +667,7 @@
 * ground.' `TKPWROUPBD TP-PL AE`
 * coffin `KOFPB`
 * wrote `WRO`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * letters `HRERTS`
 * name `TPHAEUPL`
 * king's `KEUPBG/AES`

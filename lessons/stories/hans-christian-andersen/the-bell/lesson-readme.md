@@ -22,7 +22,7 @@
 * last `HRAFT`
 * rays `RA*ES`
 * gave `TKPWAEUF`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * tint `TEUPBT`
 * to `TO`
 * chimney-pots, `KHEUPL/TPHEU H-PB POTS KW-BG`

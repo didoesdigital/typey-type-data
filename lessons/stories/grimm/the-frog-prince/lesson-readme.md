@@ -39,7 +39,7 @@
 * while. `WHAOEUL TP-PL`
 * Now `KPA/TPHOU`
 * had `H`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * ball `PWAUL`
 * hand, `HAPBD KW-BG`
 * which `WEU`

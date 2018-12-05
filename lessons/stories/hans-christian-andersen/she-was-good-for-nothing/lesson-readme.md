@@ -174,7 +174,7 @@
 * while `WHAOEUL`
 * wind `WEUPBD`
 * fluttered `TPHRUT/ERD`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * hair `HAEUR`
 * till `TEUL`
 * locks `HROBGZ`

@@ -760,7 +760,7 @@
 * manner `PHAERPB`
 * resplendent `RE/SPHREPBD/EPBT`
 * beauty, `PWAOUT KW-BG`
-* divine. `TKWAOEUB TP-PL`
+* divine. `TKWAOEUPB TP-PL`
 * approached `A/PROEFPD`
 * trembling `TREPL/-BLG`
 * admiration, `AD/PHEUR/AEUGS KW-BG`

@@ -349,7 +349,7 @@
 * chosen `KHOEFPB`
 * pope `POEP`
 * distinguished `STKPWAOURBD`
-* divine `TKWAOEUB`
+* divine `TKWAOEUPB`
 * miraculous `PHAR/ABG/HROUS`
 * And `AFPBD`
 * decided `STKAOEUD/-D`

@@ -649,7 +649,7 @@
 * white-robed `WHAOEUT H-PB ROB/-D`
 * boys `PWOEUS`
 * swung `SWUPBG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * censers, `SEPBS/ERS KW-BG`
 * amid `A/PHEUD`
 * music `PHAOUFBG`

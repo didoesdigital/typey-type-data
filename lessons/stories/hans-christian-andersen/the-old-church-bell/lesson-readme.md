@@ -192,7 +192,7 @@
 * one, `WUPB KW-BG`
 * bright `PWRAOEUT`
 * eyes `AO*EUS`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * hair, `HAEUR KW-BG`
 * had `H`
 * been `PW-PB`

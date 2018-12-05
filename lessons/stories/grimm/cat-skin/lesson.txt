@@ -80,7 +80,7 @@ Cat-Skin
 'and': SKP
 'who': WHO
 'has': HAS
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'hair': HAEUR
 'like': HRAOEUBG
 'mine.'': PHAOEUPB TP-PL AE
@@ -185,7 +185,7 @@ Cat-Skin
 'found': TPOUPBD
 'who': WHO
 'had': H
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'hair.': HAEUR TP-PL
 'So': KPA/SO
 'the': -T
@@ -218,7 +218,7 @@ Cat-Skin
 'had': H
 'the': -T
 'same': SAEUPL
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'hair.': HAEUR TP-PL
 'And': AFPBD
 'when': WHEPB
@@ -426,7 +426,7 @@ Cat-Skin
 'three': THRAOE
 'dresses:': TKRES/-S STPH-FPLT
 'one': WUPB
-'golden,': TKOELD/*EPB KW-BG
+'golden,': TKPWOELD/*EPB KW-BG
 'like': HRAOEUBG
 'the': -T
 'sun;': SUPB STPH*FPLT
@@ -504,14 +504,14 @@ Cat-Skin
 'her': HER
 'trinkets,': TREUPB/KETS KW-BG
 'a': AEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'ring,': REUPBG KW-BG
 'a': AEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'necklace,': TPHEBG/HRAS KW-BG
 'and': SKP
 'a': AEU
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'brooch,': PWRAOFP KW-BG
 'and': SKP
 'packed': PABGD
@@ -1225,7 +1225,7 @@ Cat-Skin
 'for': TPOR
 'her': HER
 'little': HREUL
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'ring,': REUPBG KW-BG
 'and': SKP
 'put': PUT
@@ -1636,7 +1636,7 @@ Cat-Skin
 'she': SHE
 'got': TKPWOT
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'necklace': TPHEBG/HRAS
 'and': SKP
 'dropped': TKROPD
@@ -1950,7 +1950,7 @@ Cat-Skin
 'she': SHE
 'put': PUT
 'the': -T
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'brooch': PWRAOFP
 'into': TPHAO
 'the': -T
@@ -2040,7 +2040,7 @@ Cat-Skin
 'off,': OF KW-BG
 'and': SKP
 'her': HER
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'hair': HAEUR
 'and': SKP
 'beautiful': PWAOUFL

@@ -363,7 +363,7 @@
 * fastened `TPAS/-PBD`
 * loaf, `HROEF KW-BG`
 * bowed `PWOE/-D`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * ear `AOER`
 * corn `KORPB`
 * bends `PWEPBDZ`

@@ -321,7 +321,7 @@
 * soon `SAOPB`
 * celebrate `SEL/PWRAEUT`
 * their `THAEUR`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * wedding, `WEGD KW-BG`
 * remember `RER`
 * date, `TKAEUT KW-BG`

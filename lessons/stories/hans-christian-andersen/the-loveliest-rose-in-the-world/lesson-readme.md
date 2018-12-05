@@ -270,7 +270,7 @@
 * had `H`
 * taken `TAEPB`
 * off `OF`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * crown, `KROUPB KW-BG`
 * through `THRU`
 * long, `HROPBG KW-BG`

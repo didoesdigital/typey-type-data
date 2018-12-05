@@ -533,7 +533,7 @@
 * However, `KPA/HOUF KW-BG`
 * night `TPHAOEUT`
 * carried `KAERD`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * cups `KUPS`
 * declare `TKE/KHRAR`
 * branches `PWRAFPBS`

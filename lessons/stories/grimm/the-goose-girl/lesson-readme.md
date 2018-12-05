@@ -160,7 +160,7 @@
 * some `SOPL`
 * water `WAUR`
 * my `PHEU`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * cup `KUP`
 * out `OUT`
 * yonder `KWROPBD/ER`
@@ -468,7 +468,7 @@
 * go! `TKPW SKHRAPL`
 * Blow, `KPA/PWHROE KW-BG`
 * after `AF`
-* O'er `O*P AE ER/SP-S`
+* O'er `O*P AE *E/R*`
 * hills, `HEULS KW-BG`
 * dales, `TKAEL/-S KW-BG`
 * rocks, `ROBGS KW-BG`

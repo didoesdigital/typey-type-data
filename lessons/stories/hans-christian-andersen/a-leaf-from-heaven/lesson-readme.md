@@ -477,7 +477,7 @@
 * place `PHRAEUS`
 * should `SHO`
 * surrounded `SROUBD/-D`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * railing, `RAEULG KW-BG`
 * sentry `SEPBT/REU`
 * stationed `STAEUGS/-D`

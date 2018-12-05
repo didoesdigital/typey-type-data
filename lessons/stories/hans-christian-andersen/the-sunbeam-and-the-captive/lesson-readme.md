@@ -200,7 +200,7 @@
 * it. `T TP-PL`
 * Sound `KPA/SOUPBD`
 * on, `OPB KW-BG`
-* ye `KWR*/*E/SP-S`
+* ye `KWR*/*E`
 * glorious `TKPWHRORS`
 * strains `STRAEUPBS`
 * horn; `HORPB STPH*FPLT`

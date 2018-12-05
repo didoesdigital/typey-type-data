@@ -4,7 +4,7 @@
 * info `EUPB/TPO`
 * review `RE/SRAOU`
 * reviews `RE/SRAOUS`
-* ebay `AOE/PWAEU`
+* eBay `AOE/PWAEU`
 * details `TKE/TAEULS`
 * address `A/TKRES`
 * resources `RE/SORSZ`

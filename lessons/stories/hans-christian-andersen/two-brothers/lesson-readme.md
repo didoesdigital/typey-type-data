@@ -326,7 +326,7 @@
 * gleamed `TKPWHRAOEPL/-D`
 * heavens, `HEFPBS KW-BG`
 * long `HROPBG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * threads `THREDZ`
 * hung `HUPBG`
 * earth. `*ERT TP-PL`

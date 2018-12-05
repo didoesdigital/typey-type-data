@@ -34,7 +34,7 @@
 * Their `KPA/THAEUR`
 * hair `HAEUR`
 * gleamed `TKPWHRAOEPL/-D`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * sunshine, `SUPB/SHAO*EUPB KW-BG`
 * lovely `HROFL`
 * to `TO`
@@ -424,7 +424,7 @@
 * out, `OUT KW-BG`
 * followed `TPOLD`
 * "Red-head. `KR-GS KPA/RED H-PB HED TP-PL`
-* Golden `KPA/TKOELD/*EPB`
+* Golden `KPA/TKPWOELD/*EPB`
 * treasure!" `TRERB SKHRAPL KR-GS`
 * wept; `WEPT STPH*FPLT`
 * father `TPAER`

@@ -581,7 +581,7 @@
 * entered `SPWR-D`
 * church, `KHUFRPB KW-BG`
 * pictures `P*EUFPS`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * frames. `TPRAEUPLS TP-PL`
 * angels, `A*EPBLG/-S KW-BG`
 * fair `TPAEUR`

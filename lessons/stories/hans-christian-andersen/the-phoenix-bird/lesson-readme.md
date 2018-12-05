@@ -244,7 +244,7 @@
 * flame! `TPHRAEUPL SKHRAPL`
 * Thy `KPA/THAO*EU`
 * picture, `P*EUFP KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * frame, `TPRAEUPL KW-BG`
 * hangs `HAPBGS`
 * rich, `REUFP KW-BG`

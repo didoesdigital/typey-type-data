@@ -15,7 +15,7 @@
 * tree `TRAOE`
 * which `WEU`
 * bore `PWOR`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * apples. `APLS TP-PL`
 * These `KPA/THEZ`
 * apples `APLS`

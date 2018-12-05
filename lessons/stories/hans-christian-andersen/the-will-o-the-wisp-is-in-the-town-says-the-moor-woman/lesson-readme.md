@@ -205,7 +205,7 @@
 * before `PW-F`
 * princesses `PREUPB/SES/-S`
 * spun `SPUPB`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * spindles, `SPEUPBD/-LS KW-BG`
 * dragons `TKRAG/O*PB/-S`
 * lay `HRAEU`

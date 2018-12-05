@@ -9,7 +9,7 @@
 * the `-T`
 * country, `KREU KW-BG`
 * and `SKP`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * corn, `KORPB KW-BG`
 * green `TKPWRAOEPB`
 * oats, `OET/-S KW-BG`

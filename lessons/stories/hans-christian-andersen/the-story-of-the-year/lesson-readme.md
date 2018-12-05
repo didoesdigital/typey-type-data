@@ -684,7 +684,7 @@
 * shuffled `SHUFLD`
 * delight, `TKHRAOEUT KW-BG`
 * glancing `TKPWHRAPBS/-G`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * glittered `TKPWHREUT/ERD`
 * everywhere `WEFR`
 * fields, `TPAOELDZ KW-BG`

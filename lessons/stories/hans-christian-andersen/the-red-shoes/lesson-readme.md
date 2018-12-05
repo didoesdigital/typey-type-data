@@ -176,7 +176,7 @@
 * neither `TPHAOERT`
 * train `TRAEUPB`
 * nor `TPH-R`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * crown, `KROUPB KW-BG`
 * beautiful `PWAOUFL`
 * morocco `HRO*ER/PHORBG/KOE`

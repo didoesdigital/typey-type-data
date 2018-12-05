@@ -848,7 +848,7 @@
 * First `KPA/TPEURS`
 * lovely `HROFL`
 * roses, `ROES/-S KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * crowns `KROUPBS`
 * heads; `HEDZ STPH*FPLT`
 * queen. `KWAOEPB TP-PL`

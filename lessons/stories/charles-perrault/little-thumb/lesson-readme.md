@@ -626,7 +626,7 @@
 * weep, `WAOEP KW-BG`
 * babies, `PWAEBS KW-BG`
 * whither `WHEU/THER`
-* ye `KWR*/*E/SP-S`
+* ye `KWR*/*E`
 * come? `KOPL H-F`
 * Do `KPA/TKO`
 * know `TPHOE`
@@ -883,7 +883,7 @@
 * fumbling `TPUPL/-BLG`
 * brothers'. `PWROERS AE TP-PL`
 * feeling `TPAOELG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * work `WORBG`
 * truly; `TRAOUL STPH*FPLT`
 * guzzled `TKPWUZ/-LD`

@@ -216,7 +216,7 @@ Top 10000 English words
 'item': AOEUPLT
 'international': SPWRARBL
 'center': STR
-'ebay': AOE/PWAEU
+'eBay': AOE/PWAEU
 'must': PHUFT
 'store': STOR
 'travel': TRAFL
@@ -2195,7 +2195,7 @@ Top 10000 English words
 'intended': SPWEPBD/-D
 'towards': TORDZ
 'sa': SA
-'goals': TKOELS
+'goals': TKPWOELS
 'hire': HEUR
 'election': HREBGS
 'suggest': SUG
@@ -2337,7 +2337,7 @@ Top 10000 English words
 'extension': STEPBGS
 'Seattle': SAO*ELT
 'statements': STAEUPLTS
-'golden': TKOELD/*EPB
+'golden': TKPWOELD/*EPB
 'completely': KPHRELT
 'teams': TAOEPLS
 'fort': TPOERT
@@ -4125,7 +4125,7 @@ Top 10000 English words
 'determination': TKERPLGS
 'animation': APB/PHAEUGS
 'oracle': OR/K-L
-'er': ER/SP-S
+'er': *E/R*
 'Matthew': PH*T/AOU
 'lease': HRAOES
 'productions': PROUBGS/-S
@@ -6193,7 +6193,7 @@ Top 10000 English words
 'drawings': TKRAUGS
 'significance': SEUGS
 'scenario': SPHOEUR
-'ye': KWR*/*E/SP-S
+'ye': KWR*/*E
 'fs': TP*/SP-S/-S
 'lovers': HRUFRS
 'atomic': A/TOPL/EUBG
@@ -6465,7 +6465,7 @@ Top 10000 English words
 'Calgary': KALG/REU
 'interim': SPWERPL
 'assisted': S*EUFD
-'divine': TKWAOEUB
+'divine': TKWAOEUPB
 'streaming': STRAOEPL/-G
 'approve': A/PROF
 'chose': KHOES

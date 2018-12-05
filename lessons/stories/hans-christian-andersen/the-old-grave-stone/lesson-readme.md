@@ -531,7 +531,7 @@
 * forth `TPO*RT`
 * future `TPAOURT`
 * generations `SKWREPB/RAEGS/-S`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * characters. `KRARS TP-PL`
 * pair `PAEUR`
 * again `TKPWEPB`

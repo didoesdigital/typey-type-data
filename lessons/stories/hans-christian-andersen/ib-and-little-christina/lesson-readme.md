@@ -700,7 +700,7 @@
 * horses?" `HORSZ H-F KR-GS`
 * Ib. `xxx Ib TP-PL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * horses," `HORSZ KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * woman. `WOPL TP-PL`

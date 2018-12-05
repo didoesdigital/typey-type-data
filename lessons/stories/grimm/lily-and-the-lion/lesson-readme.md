@@ -691,7 +691,7 @@
 * whistling `WHEUS/-LG`
 * among `PHOPBG`
 * fir-trees. `TPEUR H-PB TRAOES TP-PL`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * dress; `TKRES STPH*FPLT`
 * meadow, `PHED/OE KW-BG`
 * wept. `WEPT TP-PL`

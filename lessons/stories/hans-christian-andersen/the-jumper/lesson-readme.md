@@ -264,7 +264,7 @@
 * Princess, `KPA/PREUPB/ES KW-BG`
 * sat `SAT`
 * low `HROE`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * stool. `STOL TP-PL`
 * "The `KR-GS KPA/-T`
 * highest `HAOEU/EFT`

@@ -111,7 +111,7 @@
 * he `HE`
 * stretched `STREFPD`
 * out `OUT`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * sceptre `SEP/TER/A*U`
 * land. `HRAPBD TP-PL`
 * The `KPA/-T`

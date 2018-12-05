@@ -189,7 +189,7 @@
 * guys `TKPWEUS`
 * drop `TKROP`
 * mo `PHO`
-* goals `TKOELS`
+* goals `TKPWOELS`
 * smart `SPHART`
 * gave `TKPWAEUF`
 * died `TKAOEUD`

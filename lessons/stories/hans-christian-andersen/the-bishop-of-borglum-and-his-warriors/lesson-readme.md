@@ -531,7 +531,7 @@
 * sorrows, `SROE/-S KW-BG`
 * woes, `WOE/-S KW-BG`
 * cease, `SAOES KW-BG`
-* Divine `KPA/TKWAOEUB`
+* Divine `KPA/TKWAOEUPB`
 * Providence `KPA/PROF/TKEPBS`
 * willed `HR-D`
 * it. `T TP-PL`
@@ -918,7 +918,7 @@
 * Sink `KPA/S*EUPBG`
 * down `TKOUPB`
 * grave—into `TKPWRAEUF EPL/TKA*RB TPHAO`
-* oblivion—ye `OE/PWHREUF/KWROPB EPL/TKA*RB KWR*/*E/SP-S`
+* oblivion—ye `OE/PWHREUF/KWROPB EPL/TKA*RB KWR*/*E`
 * shapes `SHAEUPS`
 * old! `OLD SKHRAPL`
 * Hark `KPA/HARBG`

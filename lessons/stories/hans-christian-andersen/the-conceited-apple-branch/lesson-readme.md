@@ -418,7 +418,7 @@
 * garlands `TKPWAR/HRAPBDZ`
 * green `TKPWRAOEPB`
 * stems `STEPLS`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * But `KPA/PWUT`
 * eldest `ELD/EFT`
 * gathered `TKPWAERD`

@@ -392,7 +392,7 @@
 * while, `WHAOEUL KW-BG`
 * husband, `HUS KW-BG`
 * 'Hark `AE KPA/HARBG`
-* ye, `KWR*/*E/SP-S KW-BG`
+* ye, `KWR*/*E KW-BG`
 * get `TKPWET`
 * back: `PWABG STPH-FPLT`
 * thieves.' `THAOEFS TP-PL AE`

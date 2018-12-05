@@ -427,7 +427,7 @@
 * silver, `SEUL/SRER KW-BG`
 * six `SEUBGS`
 * swans, `SWAPBS KW-BG`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * circlet `xxx circlet`
 * round `ROUPBD`
 * neck, `TPHEBG KW-BG`
@@ -1252,7 +1252,7 @@
 * tumble `TUPL/-BL`
 * other." `OER TP-PL KR-GS`
 * "Hark `KR-GS KPA/HARBG`
-* ye! `KWR*/*E/SP-S SKHRAPL`
+* ye! `KWR*/*E SKHRAPL`
 * Mr. `PHR-FPLT`
 * Luk-Oie," `xxx Luk H-PB xxx Oie KW-BG KR-GS`
 * portrait `POR/TRAT`

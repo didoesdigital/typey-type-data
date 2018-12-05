@@ -13,7 +13,7 @@
 * with `W`
 * gold. `TKPWOELD TP-PL`
 * He `KPA/HE`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * shoe `SHAOU`
 * on `OPB`
 * each `AOEFP`
@@ -120,7 +120,7 @@
 * want?" `WAPBT H-F KR-GS`
 * asked `SK-D`
 * farrier. `xxx farrier TP-PL`
-* "Golden `KR-GS KPA/TKOELD/*EPB`
+* "Golden `KR-GS KPA/TKPWOELD/*EPB`
 * shoes," `SHAOUS KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * beetle. `PWAO*ELT TP-PL`

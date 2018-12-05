@@ -366,7 +366,7 @@ Top 1000 words
 'several': SEFRL
 'business': PWEUS
 'whether': WHR
-'er': ER/SP-S
+'er': *E/R*
 'manner': PHAERPB
 'second': SEBGD
 'reason': R-PB
@@ -422,7 +422,7 @@ Top 1000 words
 'live': HREUF
 'lady': HRA*ED
 'subject': SUBT
-'Sn': S*/TPH*
+'Sn': S*P/TPH*
 'answer': AEPBS
 'sea': SAE
 'fear': TPAOER
@@ -450,7 +450,7 @@ Top 1000 words
 'show': SHOE
 'party': PAERT
 'fine': TPAOEUPB
-'ye': KWR*/*E/SP-S
+'ye': KWR*/*E
 'ready': R-D
 'story': STOER
 'common': KPHOPB

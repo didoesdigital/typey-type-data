@@ -1014,7 +1014,7 @@
 * disc `TKEUFBG`
 * gray `TKPWRAEU`
 * globe `TKPWHROEB`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * rim: `REUPL STPH-FPLT`
 * sight `SAOEUT`
 * illumination `HRUPL/TPHAEUGS`

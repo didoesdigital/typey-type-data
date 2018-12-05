@@ -555,7 +555,7 @@
 * celebrated, `SEL/PWRAEUT/-D KW-BG`
 * crowned `KROUPBD`
 * king `KEUPBG`
-* Golden `KPA/TKOELD/*EPB`
+* Golden `KPA/TKPWOELD/*EPB`
 * Mountain. `KPA/PHOUPB/TAEUPB TP-PL`
 * lived `HREUFD`
 * happily, `HAP/HREU KW-BG`

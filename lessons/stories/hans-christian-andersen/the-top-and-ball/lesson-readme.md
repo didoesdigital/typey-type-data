@@ -282,7 +282,7 @@
 * all `AUL`
 * over. `OEFR TP-PL`
 * now `TPHOU`
-* golden `TKOELD/*EPB`
+* golden `TKPWOELD/*EPB`
 * whirled `WHEURL/-D`
 * danced `TKAPBS/-D`
 * hummed `HUPL/-D`
