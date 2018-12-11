@@ -9,7 +9,7 @@
 * once `WUPBS`
 * going `TKPW-G`
 * briskly `PWREUS/KHREU`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * through `THRU`
 * wood, `WAOD KW-BG`
 * there `THR`

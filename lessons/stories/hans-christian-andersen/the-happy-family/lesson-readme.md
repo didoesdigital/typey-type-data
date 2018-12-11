@@ -481,7 +481,7 @@
 * said, `SAEUD KW-BG`
 * finest `TPAOEUPB/EFT`
 * led `HRED`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * honorable `HOPB/RABL`
 * lives, `HREUFS KW-BG`
 * increased, `EUPB/KRAOEFD KW-BG`

@@ -3,8 +3,8 @@
 * A `KPA/AEU`
 * soldier `SHRERPBL`
 * came `KAEUPL`
-* marching `PHAFRP/-G`
-* along `A/HROPBG`
+* marching `PHAFRPB/-G`
+* along `HRAOPBG`
 * the `-T`
 * high `HAOEU`
 * road: `RAOD STPH-FPLT`
@@ -737,7 +737,7 @@
 * bag, `PWAG KW-BG`
 * flour `TPHROUR`
 * scattered `SKAT/ERD`
-* along. `A/HROPBG TP-PL`
+* along. `HRAOPBG TP-PL`
 * During `KPA/TKURG`
 * loved `HROFD`
 * much, `PHUFP KW-BG`
@@ -776,7 +776,7 @@
 * drums `TKRUPLS`
 * beating, `PWAEGT KW-BG`
 * soldiers `SHRERPBLGS`
-* marching. `PHAFRP/-G TP-PL`
+* marching. `PHAFRPB/-G TP-PL`
 * Every `KPA/EF`
 * them, `THEPL KW-BG`
 * shoemaker's `xxx shoemaker AES`

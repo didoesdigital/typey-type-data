@@ -210,7 +210,7 @@
 * driving, `TKRAOFG KW-BG`
 * mules `PHAOUL/-S`
 * trotting `TROT/-G`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * bells `PWELS`
 * on `OPB`
 * harness, `HARPBS KW-BG`

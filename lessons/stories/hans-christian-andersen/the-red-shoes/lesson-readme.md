@@ -325,7 +325,7 @@
 * shining `SHAOEUPBG`
 * gloriously, `TKPWHRORS/HREU KW-BG`
 * went `WEPBT`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * footpath `TPAOT/PA*T`
 * corn, `KORPB KW-BG`
 * rather `RAER`

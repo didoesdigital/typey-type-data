@@ -186,7 +186,7 @@
 * my `PHEU`
 * fortune." `TP-RPB TP-PL KR-GS`
 * "Go `KR-GS KPA/TKPW`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * you," `U KW-BG KR-GS`
 * "You're `KR-GS KPA/U AE RE/SP-S`
 * rude `RAOUD`
@@ -250,7 +250,7 @@
 * haystack `HA*EU/STABG`
 * caterpillar `KAT/PHRAR`
 * crawling `KRAULG`
-* along. `A/HROPBG TP-PL`
+* along. `HRAOPBG TP-PL`
 * "How `KR-GS KPA/HOU`
 * is!" `S SKHRAPL KR-GS`
 * caterpillar. `KAT/PHRAR TP-PL`
@@ -924,7 +924,7 @@
 * shoe, `SHAOU KW-BG`
 * stick `STEUBG`
 * fastened `TPAS/-PBD`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * mast, `PHAFT KW-BG`
 * mast `PHAFT`
 * bound `PWOUPBD`
@@ -1047,7 +1047,7 @@
 * "Look, `KR-GS KPA/HRAOBG KW-BG`
 * yonder `KWROPBD/ER`
 * sailing `SAEULG`
-* along," `A/HROPBG KW-BG KR-GS`
+* along," `HRAOPBG KW-BG KR-GS`
 * younger `KWRURPBG`
 * girls. `TKPWEURLS TP-PL`
 * poor `PAOR`

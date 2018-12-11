@@ -279,7 +279,7 @@
 * kind `KEUPBD`
 * concert; `KERT STPH*FPLT`
 * come `KOPL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * us.' `US TP-PL AE`
 * 'With `AE KPA/W`
 * heart,' `HART KW-BG AE`
@@ -409,7 +409,7 @@
 * hit `HEUT`
 * plan. `PHRAPB TP-PL`
 * placed `PHRAEUFD`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * hind `HAOEUPBD`
 * legs, `HREGS KW-BG`
 * forefeet `TPOER/TPAOET`

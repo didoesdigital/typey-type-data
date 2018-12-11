@@ -112,7 +112,7 @@
 * valley. `SRAL/HREU TP-PL`
 * As `KPA/AZ`
 * jogged `SKWROGD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * fields, `TPAOELDZ KW-BG`
 * singing `SEUPBG/-G`
 * dancing, `TKAPBS/-G KW-BG`

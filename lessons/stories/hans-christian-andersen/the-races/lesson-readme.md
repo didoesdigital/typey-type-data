@@ -431,7 +431,7 @@
 * flies `TPHRAOEUS`
 * few `TPAOU`
 * minutes `PHEUBS`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * immeasurable `xxx immeasurable`
 * path `PA*T`
 * sun `SUPB`

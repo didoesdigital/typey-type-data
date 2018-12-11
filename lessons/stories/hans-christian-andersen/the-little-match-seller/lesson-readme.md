@@ -67,7 +67,7 @@
 * two `TWO`
 * carriages `KAEURPBLG/-S`
 * rolling `ROLG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * at `AT`
 * terrible `TERBL`
 * rate. `RAEUT TP-PL`
@@ -120,7 +120,7 @@
 * Shivering `KPA/SH*EUFR/-G`
 * hunger, `HURPBG KW-BG`
 * crept `KREPT`
-* along; `A/HROPBG STPH*FPLT`
+* along; `HRAOPBG STPH*FPLT`
 * child, `KHAOEULD KW-BG`
 * looked `HRAOBGD`
 * picture `P*EUFP`

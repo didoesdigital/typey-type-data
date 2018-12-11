@@ -246,7 +246,7 @@
 * rest `REFT`
 * came `KAEUPL`
 * trudging `TRUPBLG/-G`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * driving `TKRAOFG`
 * cow `KO*U`
 * fair. `TPAEUR TP-PL`

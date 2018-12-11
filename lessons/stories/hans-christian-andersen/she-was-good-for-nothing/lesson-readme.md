@@ -202,7 +202,7 @@
 * on, `OPB KW-BG`
 * sheets `SHAOETS`
 * dragged `TKRAGD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * stream, `STRAOEPL KW-BG`
 * nearly `TPHAOERL`
 * overturned `xxx overturned`

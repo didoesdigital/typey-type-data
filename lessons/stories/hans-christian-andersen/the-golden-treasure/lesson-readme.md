@@ -370,7 +370,7 @@
 * carry `KAER`
 * gun, `TKPW-PB KW-BG`
 * able `ABL`
-* march `PHA*R`
+* march `PHAFRPB`
 * one, `WUPB KW-BG`
 * two—one, `TWO EPL/TKA*RB WUPB KW-BG`
 * two, `TWO KW-BG`
@@ -519,7 +519,7 @@
 * regiment, `REPBLG/*PLT KW-BG`
 * which `WEU`
 * jumping `SKWRUPL/-PG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * merrily `PHER/HREU`
 * been `PW-PB`
 * got `TKPWOT`
@@ -528,7 +528,7 @@
 * game `TKPWAEUPL`
 * "March! `KR-GS PHAFRPB SKHRAPL`
 * Forward! `KPA/TPAORD SKHRAPL`
-* March!" `PHAFRPB SKHRAPL KR-GS`
+* march!" `PHAFRPB SKHRAPL KR-GS`
 * This, `KPA/TH KW-BG`
 * word `WORD`
 * command `KPHAPBD`
@@ -545,7 +545,6 @@
 * given; `TKPWEUFPB STPH*FPLT`
 * our `OUR`
 * "Forward! `KR-GS KPA/TPAORD SKHRAPL`
-* march!" `PHA*R SKHRAPL KR-GS`
 * understood `*URPBD`
 * thus, `THUS KW-BG`
 * obeyed `O/PWAEU/-D`

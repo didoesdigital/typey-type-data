@@ -152,7 +152,7 @@
 * sight, `SAOEUT KW-BG`
 * trotting `TROT/-G`
 * gaily `TKPWAEU/HREU`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * capital `KAPLT`
 * horse. `HORS TP-PL`
 * 'Ah!' `AE KPA/HA*E SKHRAPL AE`

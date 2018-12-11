@@ -204,7 +204,7 @@
 * foolish `TPAOL/EURB`
 * having `SR-G`
 * no `TPHO`
-* faith `PHA*EUT`
+* faith `TPA*EUT`
 * own `OEPB`
 * power; `POUR STPH*FPLT`
 * always `AULS`
@@ -1530,7 +1530,7 @@
 * "be `KR-GS -B`
 * merciful `TPERS/-FL`
 * grant `TKPWRAPBT`
-* faith. `PHA*EUT TP-PL`
+* faith. `TPA*EUT TP-PL`
 * gift `TKPWEUFT`
 * hadst `xxx hadst`
 * vouchsafed `SROUFP/SAEUF/-D`

@@ -1151,7 +1151,7 @@
 * fiercely `TPAOERS/HREU`
 * exalted `KPALT/-D`
 * agitated `APBLG/TAEUT/-D`
-* marching `PHAFRP/-G`
+* marching `PHAFRPB/-G`
 * glancing `TKPWHRAPBS/-G`
 * expressing `EBGS/PRES/-G`
 * awaiting `A/WAEUT/-G`

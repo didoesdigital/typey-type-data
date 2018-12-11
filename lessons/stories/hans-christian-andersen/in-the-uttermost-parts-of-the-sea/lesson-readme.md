@@ -262,7 +262,7 @@
 * uphold `UP/HOLD`
 * me;" `PHE STPH*FPLT KR-GS`
 * influence `WEPBS`
-* faith `PHA*EUT`
+* faith `TPA*EUT`
 * inspired, `EUPB/SPAOEURD KW-BG`
 * sleep `SHRAOEP`
 * upon `POPB`

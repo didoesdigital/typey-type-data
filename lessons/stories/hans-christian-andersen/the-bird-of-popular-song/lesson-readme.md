@@ -434,7 +434,7 @@
 * cross `KROS`
 * church, `KHUFRPB KW-BG`
 * symbol `SPWOL`
-* faith, `PHA*EUT KW-BG`
+* faith, `TPA*EUT KW-BG`
 * arises `A/RAOEUS/-S`
 * grave, `TKPWRAEUF KW-BG`
 * gleams `TKPWHRAOEPL/-S`

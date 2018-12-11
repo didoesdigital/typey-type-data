@@ -524,7 +524,7 @@
 * same `SAEUPL`
 * melody. `PHEL/TKEU TP-PL`
 * Then `KPA/THEPB`
-* marching `PHAFRP/-G`
+* marching `PHAFRPB/-G`
 * up, `UP KW-BG`
 * little `HREUL`
 * bands, `PWAPBDZ KW-BG`
@@ -898,7 +898,7 @@
 * looks! `HRAOBGS SKHRAPL`
 * Take `KPA/TAEUBG`
 * courage, `KURPBLG KW-BG`
-* march `PHA*R`
+* march `PHAFRPB`
 * onward!' `AOPB/WA*RD SKHRAPL AE`
 * "Out `KR-GS KPA/OUT`
 * third `THEURD`

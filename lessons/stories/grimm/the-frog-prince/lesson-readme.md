@@ -66,7 +66,7 @@
 * bounded `PWOUPBD/-D`
 * away, `A/WAEU KW-BG`
 * rolled `ROLD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * upon `POPB`
 * ground, `TKPWROUPBD KW-BG`
 * till `TEUL`
@@ -320,7 +320,7 @@
 * am `APL`
 * tired; `TAOEURD STPH*FPLT`
 * carry `KAER`
-* upstairs, `UP/STA*EURS KW-BG`
+* upstairs, `AUP/STAEURS KW-BG`
 * bed.' `PWED TP-PL AE`
 * unwilling, `TPH-LG KW-BG`
 * took `TAOBG`

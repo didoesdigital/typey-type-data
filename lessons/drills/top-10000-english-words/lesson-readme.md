@@ -491,7 +491,7 @@
 * cost `KOFT`
 * movie `PHOEF`
 * forums `TPAURPLS`
-* march `PHA*R`
+* march `PHAFRPB`
 * la `HRA`
 * September `SEPT`
 * better `PWOERT`
@@ -964,7 +964,7 @@
 * chat `KHAT`
 * enough `TPHUF`
 * designed `STKAOEUPBD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * among `PHOPBG`
 * death `TK*T`
 * writing `WREUG`
@@ -2240,7 +2240,7 @@
 * Kong `KOPBG`
 * column `KHRUPL`
 * plants `PHRAPBTS`
-* faith `PHA*EUT`
+* faith `TPA*EUT`
 * chain `KHAEUPB`
 * developer `SHR*ER`
 * identify `AOEUFD`
@@ -3304,7 +3304,7 @@
 * disabled `TKABLD`
 * authorized `THORD`
 * crazy `KRAEZ`
-* upcoming `UP/KOPLG`
+* upcoming `AUP/KOPLG`
 * Britain `PWREU/TEUPB`
 * concert `KERT`
 * retirement `RAO*EUPLT`
@@ -6296,7 +6296,7 @@
 * mate `PHAEUT`
 * dl `TK*/HR*`
 * starter `STAR/TER`
-* upgrades `UP/TKPWRAEUDZ`
+* upgrades `AUP/TKPWRAEUDZ`
 * likes `HRAOEUBGS`
 * butter `PWAOURT`
 * pepper `PAOERP`
@@ -9422,7 +9422,7 @@
 * affair `A/TPAEUR`
 * drove `TKROEF`
 * washer `WARB/*ER`
-* upset `AUP/SAET`
+* upset `AUP/SET`
 * restrict `REUBGT`
 * Springer `SPREUPBG/*ER`
 * beside `PWE/SAOEUD`

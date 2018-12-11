@@ -143,7 +143,7 @@
 * day, `TKAEU KW-BG`
 * were `WR`
 * riding `RAOEUD/-G`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * by `PWEU`
 * brook, `PWRAOBG KW-BG`
 * princess `PREUPB/ES`
@@ -314,7 +314,7 @@
 * one `WUPB`
 * wife; `WAOEUF STPH*FPLT`
 * led `HRED`
-* upstairs `UP/STA*EURS`
+* upstairs `AUP/STAEURS`
 * chamber; `KHAEURPL STPH*FPLT`
 * true `TRAOU`
 * stay `STAEU`

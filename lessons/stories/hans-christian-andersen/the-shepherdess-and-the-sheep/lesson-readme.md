@@ -333,7 +333,7 @@
 * But `KPA/PWUT`
 * saw `SAU`
 * all `AUL`
-* uproar. `UP/ROR TP-PL`
+* uproar. `AUP/RAOR TP-PL`
 * The `KPA/-T`
 * stags `STAG/-S`
 * pushed `PURBD`

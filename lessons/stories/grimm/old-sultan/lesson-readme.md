@@ -292,7 +292,7 @@
 * took `TAOBG`
 * her `HER`
 * limped `HREUPL/-PD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * trouble, `TRUBL KW-BG`
 * she `SHE`
 * stuck `STUBG`

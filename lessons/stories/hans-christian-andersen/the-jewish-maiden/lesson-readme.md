@@ -123,7 +123,7 @@
 * should `SHO`
 * be `-B`
 * instructed `EUPB/STRUBGD`
-* faith. `PHA*EUT TP-PL`
+* faith. `TPA*EUT TP-PL`
 * it `T`
 * might `PHAOEUT`
 * have `SR`
@@ -215,7 +215,7 @@
 * household, `HOUS/HOLD KW-BG`
 * lived `HREUFD`
 * maiden `PHAEUD/*EPB`
-* faith, `PHA*EUT KW-BG`
+* faith, `TPA*EUT KW-BG`
 * servant. `SEFRB/APBT TP-PL`
 * hair `HAEUR`
 * black `PWHRABG`

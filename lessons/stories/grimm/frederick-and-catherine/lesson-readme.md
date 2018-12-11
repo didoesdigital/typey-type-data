@@ -221,7 +221,7 @@
 * just `SKWRUFT`
 * great `TKPWRAET`
 * beer, `PWAOER KW-BG`
-* upset `AUP/SAET`
+* upset `AUP/SET`
 * it; `T STPH*FPLT`
 * thus `THUS`
 * saved `SAFD`

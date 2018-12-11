@@ -136,7 +136,7 @@
 * could, `KO KW-BG`
 * would `WO`
 * slide `SHRAOEUD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * yonder `KWROPBD/ER`
 * on `OPB`
 * ice, `AOEUS KW-BG`

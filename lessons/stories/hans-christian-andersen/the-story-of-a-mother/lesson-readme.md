@@ -630,7 +630,7 @@
 * afraid; `A/TPRAEUD STPH*FPLT`
 * account `K-T`
 * None `KPA/TPHOPB`
-* uprooted, `UP/RAOT/-D KW-BG`
+* uprooted, `AUP/RAOT/-D KW-BG`
 * unless `TPH-LS`
 * receives `SAOEFS`
 * permission `PERPLGS`

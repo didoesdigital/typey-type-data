@@ -386,7 +386,7 @@
 * swelled `SWELD`
 * carried `KAERD`
 * them `THEPL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * wild `WAOEULD`
 * career. `KRAOER TP-PL`
 * rough `RUF`

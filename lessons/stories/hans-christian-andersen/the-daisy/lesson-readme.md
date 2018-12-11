@@ -184,7 +184,7 @@
 * for `TPOR`
 * standing `STAPBG`
 * bolt `PWOLT`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * candles, `KAPBD/-LS KW-BG`
 * one `WUPB`
 * might `PHAOEUT`

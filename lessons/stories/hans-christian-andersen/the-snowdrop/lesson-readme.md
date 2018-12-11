@@ -302,7 +302,7 @@
 * knew `TPHAOU`
 * of. `-F/TP-PL`
 * She `KPA/SHE`
-* faith `PHA*EUT`
+* faith `TPA*EUT`
 * would `WO`
 * sure `SHUR`
 * come, `KOPL KW-BG`

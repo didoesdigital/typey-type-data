@@ -22,7 +22,7 @@
 * passed `PAFD`
 * by, `PWEU KW-BG`
 * bearing `PWAERG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * with `W`
 * great `TKPWRAET`
 * toil `TOEUL`

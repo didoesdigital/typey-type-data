@@ -323,7 +323,7 @@
 * my `PHEU`
 * light. `HRAOEUT TP-PL`
 * All `KPA/AUL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * stood `STAOD`
 * houses, `HO*UFS KW-BG`
 * crowds, `KROUDZ KW-BG`

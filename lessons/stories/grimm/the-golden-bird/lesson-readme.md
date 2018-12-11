@@ -623,7 +623,7 @@
 * matter `PHAERT`
 * advice.' `SREUS TP-PL AE`
 * brothers. `PWROERS TP-PL`
-* uproar; `UP/ROR STPH*FPLT`
+* uproar; `AUP/RAOR STPH*FPLT`
 * asked `SK-D`
 * matter, `PHAERT KW-BG`
 * 'Two `AE KPA/TWO`

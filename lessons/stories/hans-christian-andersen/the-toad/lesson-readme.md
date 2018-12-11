@@ -495,7 +495,7 @@
 * among `PHOPBG`
 * stinging-nettles, `STEUPBG/-G H-PB TPHET/-LS KW-BG`
 * crawl `KRAUL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * dusty `TKUS/TEU`
 * road. `RAOD TP-PL`
 * onward, `AOPB/WA*RD KW-BG`

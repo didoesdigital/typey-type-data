@@ -54,7 +54,7 @@ Multi-syllable words with multiple strokes
 'annual': APB/WAL
 'hardware': HARD/WAEUR
 'holiday': HOL/TKEU
-'along': A/HROPBG
+'along': HRAOPBG
 'yellow': KWREL/OE
 'political': PHREU/K-L
 'increase': EUPB/KRAES
@@ -465,7 +465,7 @@ Multi-syllable words with multiple strokes
 'transactions': TRABGS/-S
 'historic': HEUFT/R-G
 'attached': A/TAFPD
-'upcoming': UP/KOPLG
+'upcoming': AUP/KOPLG
 'Britain': PWREU/TEUPB
 'comedy': KOPL/TKEU
 'adopted': A/TKOPTD
@@ -1397,7 +1397,7 @@ Multi-syllable words with multiple strokes
 'directive': TKREBGT/TEUF
 'salem': SAEUL/EPL
 'starter': STAR/TER
-'upgrades': UP/TKPWRAEUDZ
+'upgrades': AUP/TKPWRAEUDZ
 'luggage': HRUG/APBLG
 'stylish': STAOEUL/EURB
 'grocery': KROES/REU
@@ -2705,7 +2705,7 @@ Multi-syllable words with multiple strokes
 'disciplinary': TKEUS/HREUPB/AER
 'disclose': TKEUS/KHROES
 'affair': A/TPAEUR
-'upset': AUP/SAET
+'upset': AUP/SET
 'beside': PWE/SAOEUD
 'portraits': POR/TRAT/-S
 'rebound': RE/PWOUBD
@@ -3197,7 +3197,7 @@ Multi-syllable words with multiple strokes
 'selfish': SEF/EURB
 'renewed': RE/TPHAOUD
 'canoe': KA/TPHAO
-'upright': UP/RAOEUGT
+'upright': AUP/RAOEUGT
 'solitude': SOL/TAOUD
 'greatness': TKPWRAET/-PBS
 'struggling': STRUG/-LG
@@ -3215,6 +3215,7 @@ Multi-syllable words with multiple strokes
 'abide': A/PWAOEUD
 'advancing': SRAPBS/-G
 'Polly': POL/HREU
+'upstairs': AUP/STAEURS
 'comrades': KOPL/RADZ
 'descent': TKE/SEPBT
 'whither': WHEU/THER
@@ -3419,7 +3420,7 @@ Multi-syllable words with multiple strokes
 'abbey': AB/PWEU
 'anyhow': TPHEU/HOU
 'agitated': APBLG/TAEUT/-D
-'marching': PHAFRP/-G
+'marching': PHAFRPB/-G
 'instructed': EUPB/STRUBGD
 'elaborate': HRAEB/RAT
 'bewildered': PWE/WEULD/ERD
@@ -4322,7 +4323,7 @@ Multi-syllable words with multiple strokes
 'reconciliation': REBG/SEULGS
 'tendencies': TEPBD/SEUS
 'ominous': OPL/TPHUS
-'uproar': UP/ROR
+'uproar': AUP/RAOR
 'pilgrims': PEUL/TKPWREUPL/-S
 'silken': SEUL/KEPB
 'mastery': PHAFT/REU

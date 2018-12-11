@@ -191,7 +191,7 @@
 * thoughts `THAUTS`
 * merry `PHER/REU`
 * strode `STROED`
-* along. `A/HROPBG TP-PL`
+* along. `HRAOPBG TP-PL`
 * Many `KPA/PHAEPB`
 * came `KAEUPL`
 * into `TPHAO`
@@ -388,7 +388,7 @@
 * vexation `SREBGS/AEUGS`
 * ill-temper `EUL H-PB TEPL/PER`
 * continued `T-PBD`
-* upbraid `UP/PWRAEUD`
+* upbraid `AUP/PWRAEUD`
 * stirred, `STEURD KW-BG`
 * wellnigh `xxx wellnigh`
 * second `SEBGD`

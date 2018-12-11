@@ -81,7 +81,7 @@
 * child `KHAOEULD`
 * could `KO`
 * stand `STAPBD`
-* upright. `UP/RAOEUGT TP-PL`
+* upright. `AUP/RAOEUGT TP-PL`
 * as `AZ`
 * wild `WAOEULD`
 * centre `STR/A*U`
@@ -360,7 +360,7 @@
 * turkey; `TUR/KAE STPH*FPLT`
 * uses `AOUSZ`
 * legs, `HREGS KW-BG`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * holds `HOLDZ`
 * himself! `H*EUPLS SKHRAPL`
 * He `KPA/HE`

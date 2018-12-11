@@ -63,7 +63,7 @@
 * way, `WAEU KW-BG`
 * driving `TKRAOFG`
 * slowly `SHROEL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * through `THRU`
 * deep `TKAOEP`
 * sand. `SAPBD TP-PL`
@@ -156,7 +156,7 @@
 * winding `WAOEUPBD/-G`
 * staircase `STAEUR/KAEUS`
 * stone, `STOEPB KW-BG`
-* march `PHA*R`
+* march `PHAFRPB`
 * passages `PA*PBLGS`
 * under `TPH-PB`
 * heavy `HOEUF`

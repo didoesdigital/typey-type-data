@@ -302,7 +302,7 @@
 * certain `SERPB`
 * take `TAEUBG`
 * air, `AEUR KW-BG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * river `REUFR`
 * side, `SAOEUD KW-BG`
 * daughter, `TKAUR KW-BG`

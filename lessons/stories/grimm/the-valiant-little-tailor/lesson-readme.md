@@ -385,7 +385,7 @@
 * until `TPH-L`
 * liquid `KWEULD`
 * ran `RAPB`
-* 'Faith,' `AE KPA/PHA*EUT KW-BG AE`
+* 'Faith,' `AE KPA/TPA*EUT KW-BG AE`
 * better, `PWOERT KW-BG`
 * wasn't `WAEPBT`
 * it?' `T H-F AE`

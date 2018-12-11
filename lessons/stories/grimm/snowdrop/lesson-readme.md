@@ -225,7 +225,7 @@
 * her. `HER TP-PL`
 * poor `PAOR`
 * wandered `WAPBD/-D`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * through `THRU`
 * wood `WAOD`
 * fear; `TPAOER STPH*FPLT`

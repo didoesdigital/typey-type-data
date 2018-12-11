@@ -916,7 +916,7 @@
 * pouring `PORG`
 * mead, `PHAO*ED KW-BG`
 * grandmother, `TKPWR-PL KW-BG`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * "Here `KR-GS KPA/HAOER`
 * mead `PHAO*ED`
 * grandson," `TKPWR-S KW-BG KR-GS`

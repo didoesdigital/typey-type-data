@@ -603,7 +603,7 @@
 * birds `PWEURDZ`
 * singing; `SEUPBG/-G STPH*FPLT`
 * gravely `TKPWRAEUFL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * school, `SKAOL KW-BG`
 * while `WHAOEUL`
 * else `ELS`

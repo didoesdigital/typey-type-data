@@ -79,7 +79,7 @@
 * day, `TKAEU KW-BG`
 * as `AZ`
 * roaming `ROEPLG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * brown `PWROUPB`
 * study, `STAO*UD KW-BG`
 * thinking `THEUG`
@@ -233,7 +233,7 @@
 * About `KPA/PW`
 * month `PHO*PBT`
 * afterwards `A*FRDZ`
-* upstairs `UP/STA*EURS`
+* upstairs `AUP/STAEURS`
 * into `TPHAO`
 * lumber-room `HRUPL/PWER H-PB RAOPL`
 * look `HRAOBG`

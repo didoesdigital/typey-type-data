@@ -18,7 +18,7 @@
 * As `KPA/AZ`
 * she `SHE`
 * went `WEPBT`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * began `TKPWAPB`
 * calculating `KHRAEUGT`
 * what `WHA`

@@ -499,7 +499,7 @@
 * man `PHAPB`
 * wife, `WAOEUF KW-BG`
 * garden. `TKPWA*RPB TP-PL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * paling, `PAL/-G KW-BG`
 * wife `WAOEUF`
 * "There's `KR-GS KPA/THR AES`

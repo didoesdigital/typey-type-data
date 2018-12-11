@@ -151,7 +151,7 @@
 * grief `TKPWRAOEF`
 * fell `TPEL`
 * away `A/WAEU`
-* faith `PHA*EUT`
+* faith `TPA*EUT`
 * God, `TKPWO*D KW-BG`
 * dark `TKARBG`
 * thoughts `THAUTS`
@@ -723,7 +723,7 @@
 * Now `KPA/TPHOU`
 * strong `STROPBG`
 * be; `-B STPH*FPLT`
-* faith: `PHA*EUT STPH-FPLT`
+* faith: `TPA*EUT STPH-FPLT`
 * "Whatever `KR-GS KPA/WHAF`
 * doeth `xxx doeth`
 * right `RAOEUT`
@@ -733,6 +733,6 @@
 * whence `WHEPBS`
 * hast `HA*FT`
 * derived `TKRAOEUFD`
-* faith?" `PHA*EUT H-F KR-GS`
+* faith?" `TPA*EUT H-F KR-GS`
 * children, `KHEURPB KW-BG`
 * grave." `TKPWRAEUF TP-PL KR-GS`

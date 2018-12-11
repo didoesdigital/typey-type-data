@@ -5,7 +5,7 @@
 * went `WEPBT`
 * once `WUPBS`
 * a-hunting `AEU H-PB HUPBT/-G`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * with `W`
 * the `-T`
 * Fox, `KPA/TPOBGS KW-BG`

@@ -1131,7 +1131,7 @@
 * blossoms. `PWROS/SOPL/-S TP-PL`
 * Beautiful `KPA/PWAOUFL`
 * ran `RAPB`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * lanes, `HRAEPBS KW-BG`
 * playing `PHRA*EUG`
 * gay `TKPWAEU`

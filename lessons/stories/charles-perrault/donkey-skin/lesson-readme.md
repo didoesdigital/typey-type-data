@@ -1336,7 +1336,7 @@
 * cries `KRAOEUS`
 * heralds, `H*ERLD/-S KW-BG`
 * doubt `TKOUT`
-* uproar. `UP/ROR TP-PL`
+* uproar. `AUP/RAOR TP-PL`
 * true `TRAOU`
 * timorous `xxx timorous`
 * vanity, `SRAPBT KW-BG`

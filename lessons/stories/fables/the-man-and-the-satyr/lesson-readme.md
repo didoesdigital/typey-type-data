@@ -40,7 +40,7 @@
 * forest `TPOEFRT`
 * morning. `PHORPBG TP-PL`
 * went `WEPBT`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * Satyr's `KPA/SAEURT AES`
 * cell, `KREL KW-BG`
 * raised `RA*EUFD`

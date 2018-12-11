@@ -437,7 +437,7 @@
 * nor `TPH-R`
 * endure `EPB/TKAOUR`
 * smoke `SPHOEBG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * ceiling `KAOELG`
 * till `TEUL`
 * way `WAEU`

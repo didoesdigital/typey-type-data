@@ -311,7 +311,7 @@
 * bunch `PWUFRPB`
 * violets, `SROEULT/-S KW-BG`
 * small. `SPHAL TP-PL`
-* "MARCH, `KR-GS *URP/PHA*R KW-BG`
+* "MARCH, `KR-GS *URP/PHAFRPB KW-BG`
 * March," `PHAFRPB KW-BG KR-GS`
 * fourth `TPO*URT`
 * called `KAULD`

@@ -181,7 +181,7 @@
 * lay `HRAEU`
 * her. `HER TP-PL`
 * Those `KPA/THOZ`
-* upstairs `UP/STA*EURS`
+* upstairs `AUP/STAEURS`
 * waited `WAEUTD`
 * for `TPOR`
 * drink, `TKREU KW-BG`
@@ -245,7 +245,7 @@
 * by `PWEU`
 * likewise `HRAOEUBG/WAOEUS`
 * howl `HOUL`
-* Upstairs `KPA/UP/STA*EURS`
+* Upstairs `KPA/AUP/STAEURS`
 * boy, `PWOEU KW-BG`
 * return, `RURPB KW-BG`
 * woman: `WOPL STPH-FPLT`

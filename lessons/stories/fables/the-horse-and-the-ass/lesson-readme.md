@@ -10,7 +10,7 @@
 * together, `TOGT KW-BG`
 * the `-T`
 * prancing `PRAPBS/-G`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * in `TPH`
 * its `EUTS`
 * fine `TPAOEUPB`

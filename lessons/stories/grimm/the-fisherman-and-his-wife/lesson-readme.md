@@ -287,7 +287,7 @@
 * 'he `AE HE`
 * willingly, `HR-G/HREU KW-BG`
 * know; `TPHOE STPH*FPLT`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * try!' `TREU SKHRAPL AE`
 * went, `WEPBT KW-BG`
 * but `PWUT`
@@ -470,7 +470,7 @@
 * once!' `WUPBS SKHRAPL AE`
 * forced `TPOFRD`
 * muttered `PHUT/*ER/-D`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * 'This `AE KPA/TH`
 * good, `TKPWAOD KW-BG`
 * ask; `SK STPH*FPLT`

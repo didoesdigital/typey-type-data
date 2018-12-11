@@ -1061,7 +1061,7 @@
 * monkey; `PHOPB/KAE STPH*FPLT`
 * age. `AEUPBLG TP-PL`
 * arms, `ARPLS KW-BG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * sister, `ST-R KW-BG`
 * Day `KPA/TKAEU`
 * cooked `KAOBGD`

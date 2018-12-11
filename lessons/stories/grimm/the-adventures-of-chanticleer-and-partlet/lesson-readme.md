@@ -191,7 +191,7 @@
 * pace. `PAEUS TP-PL`
 * After `KPA/AF`
 * travelled `TRAFLD/A*U`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * way, `WAEU KW-BG`
 * met `PHET`
 * needle `TPHAO*ELD`

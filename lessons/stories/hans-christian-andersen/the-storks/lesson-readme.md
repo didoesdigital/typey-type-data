@@ -50,7 +50,7 @@
 * father `TPAER`
 * stork, `STORBG KW-BG`
 * quite `KWAOEUT`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * stiff; `STEUF STPH*FPLT`
 * liking `HRAO*EUG`
 * to `TO`

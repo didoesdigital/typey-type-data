@@ -224,7 +224,7 @@
 * tell `TEL`
 * you `U`
 * why `KWR`
-* along." `A/HROPBG TP-PL KR-GS`
+* along." `HRAOPBG TP-PL KR-GS`
 * flew `TPHRAOU`
 * related `RAELTD`
 * history. `HEUFRT TP-PL`

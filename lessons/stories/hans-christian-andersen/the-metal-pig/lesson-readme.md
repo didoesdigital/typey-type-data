@@ -753,7 +753,7 @@
 * sailors `SAEUL/ORS`
 * running `R*UPBG`
 * almost `HR-PL`
-* upset `AUP/SAET`
+* upset `AUP/SET`
 * coming `KO*G`
 * nightly `TPHAOEUT/HREU`
 * carousal. `xxx carousal TP-PL`

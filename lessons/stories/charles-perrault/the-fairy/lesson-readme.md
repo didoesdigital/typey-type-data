@@ -233,7 +233,7 @@
 * infinite `EUFPB/TPHEUT`
 * numbers `TPHUPLS`
 * "In `KR-GS KPA/TPH`
-* faith," `PHA*EUT KW-BG KR-GS`
+* faith," `TPA*EUT KW-BG KR-GS`
 * cried `KRAOEUD`
 * mother, `PHOER KW-BG`
 * must `PHUFT`

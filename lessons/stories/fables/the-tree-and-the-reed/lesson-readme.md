@@ -83,7 +83,7 @@
 * force `TPORS`
 * wind, `WEUPBD KW-BG`
 * stood `STAOD`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * again `TKPWEPB`
 * when `WHEPB`
 * storm `STORPL`

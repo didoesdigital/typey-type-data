@@ -136,7 +136,7 @@
 * way, `WAEU KW-BG`
 * strew `STRAOU`
 * ashes `ARBS`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * path.' `PA*T TP-PL AE`
 * When `KPA/WHEPB`
 * Sunday `SUPBD`
@@ -160,7 +160,7 @@
 * on `OPB`
 * ground `TKPWROUPBD`
 * went `WEPBT`
-* along. `A/HROPBG TP-PL`
+* along. `HRAOPBG TP-PL`
 * On `KPA/OPB`
 * reaching `RAOEFPG`
 * entrance `SPWRAPBS`
@@ -439,7 +439,7 @@
 * helped `HEPD`
 * safely `SAEUFL`
 * them, `THEPL KW-BG`
-* upstairs, `UP/STA*EURS KW-BG`
+* upstairs, `AUP/STAEURS KW-BG`
 * opened `OEPD`
 * door, `TKAOR KW-BG`
 * hastened `HAEUS/-PBD`

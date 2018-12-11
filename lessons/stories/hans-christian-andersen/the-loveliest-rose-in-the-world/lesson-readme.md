@@ -55,7 +55,7 @@
 * columns `KHRUPLS`
 * window-frames, `WOEUPBD H-PB TPRAEUPLS KW-BG`
 * crept `KREPT`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * passages `PA*PBLGS`
 * over `OEFR`
 * ceilings `KRAOELGS`

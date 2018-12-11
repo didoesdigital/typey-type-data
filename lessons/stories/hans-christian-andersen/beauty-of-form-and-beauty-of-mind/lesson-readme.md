@@ -710,7 +710,7 @@
 * you; `U STPH*FPLT`
 * go `TKPW`
 * hobbling `HOB/-LG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * after `AF`
 * thoughts, `THAUTS KW-BG`
 * head `HED`

@@ -334,7 +334,7 @@
 * open `OEP`
 * body `PWO*ED`
 * itself `T/SEF`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * land `HRAPBD`
 * return `RURPB`
 * leave `HREF`
@@ -612,7 +612,7 @@
 * opinion `P-PB`
 * window `WOEUPBD`
 * ran `RAPB`
-* faith `PHA*EUT`
+* faith `TPA*EUT`
 * ago `AG`
 * agreement `KWRAOEPLT`
 * charge `KHARPBLG`
@@ -698,7 +698,7 @@
 * please `PHRES`
 * appearance `PAOERPBS`
 * evil `AOEFL`
-* march `PHA*R`
+* march `PHAFRPB`
 * George `SKWRORPBLG`
 * whatever `WHAF`
 * slowly `SHROEL`

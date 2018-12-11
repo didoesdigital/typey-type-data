@@ -408,7 +408,7 @@
 * rate!' `RAEUT SKHRAPL AE`
 * Away `KPA/A/WAEU`
 * husband `HUS`
-* upstairs, `UP/STA*EURS KW-BG`
+* upstairs, `AUP/STAEURS KW-BG`
 * thousands `THOEUPBS`
 * sitting `SEUGT`
 * floor `TPHRAOR`

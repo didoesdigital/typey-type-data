@@ -147,7 +147,7 @@
 * at." `AT TP-PL KR-GS`
 * Upon `KPA/POPB`
 * great `TKPWRAET`
-* uproar; `UP/ROR STPH*FPLT`
+* uproar; `AUP/RAOR STPH*FPLT`
 * even `AOEPB`
 * engravings, `EPB/TKPWAEUF/-G/-S KW-BG`
 * hung `HUPBG`

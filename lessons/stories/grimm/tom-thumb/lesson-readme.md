@@ -261,7 +261,7 @@
 * is!' `S SKHRAPL AE`
 * one: `WUPB STPH-FPLT`
 * 'there `AE THR`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * hear `HAER`
 * carter `KA*RT/ER`
 * talking `TAUG`
@@ -374,7 +374,7 @@
 * gallery `TKPWAL/REU`
 * walk `WAUBG`
 * country `KREU`
-* along.' `A/HROPBG TP-PL AE`
+* along.' `HRAOPBG TP-PL AE`
 * wished; `WEURBD STPH*FPLT`
 * taken `TAEPB`
 * leave `HREF`

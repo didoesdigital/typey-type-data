@@ -16,7 +16,7 @@
 * As `KPA/AZ`
 * they `THE`
 * walking `WAUG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * by `PWEU`
 * its `EUTS`
 * side `SAOEUD`
@@ -76,7 +76,7 @@
 * poor `PAOR`
 * little `HREUL`
 * trudge `TRUPBLG`
-* along." `A/HROPBG TP-PL KR-GS`
+* along." `HRAOPBG TP-PL KR-GS`
 * Well, `KPA/WEL KW-BG`
 * didn't `TK-PBT`
 * know `TPHOE`

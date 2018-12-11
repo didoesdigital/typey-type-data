@@ -134,7 +134,7 @@
 * hardly `HA*RLD`
 * drag `TKRAG`
 * herself `H*ERS`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * pail `PAEUL`
 * water `WAUR`
 * from `TPR`
@@ -559,7 +559,7 @@
 * moor, `PHO*R KW-BG`
 * creaking `KRAOEBG/-G`
 * boots `PWAOTS`
-* marching,—always `PHAFRP/-G KW-BG EPL/TKA*RB AULS`
+* marching,—always `PHAFRPB/-G KW-BG EPL/TKA*RB AULS`
 * tone, `TOEPB KW-BG`
 * monotonous `PHOPB/OT/TPHUS`
 * wearing, `WAURG KW-BG`

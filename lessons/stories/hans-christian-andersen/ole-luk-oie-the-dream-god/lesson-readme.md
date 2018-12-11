@@ -202,7 +202,7 @@
 * reaching `RAOEFPG`
 * ceiling, `KAOELG KW-BG`
 * stretching `STREFPG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * walls, `WAULS KW-BG`
 * room `RAOPL`
 * like `HRAOEUBG`
@@ -768,7 +768,7 @@
 * gobble; `TKPWOBL STPH*FPLT`
 * Quack, `KPA/KWA*BG KW-BG`
 * What `KPA/WHA`
-* uproar `UP/ROR`
+* uproar `AUP/RAOR`
 * made, `PHAED KW-BG`
 * fun `TPUPB`
 * among `PHOPBG`
@@ -889,7 +889,7 @@
 * "Does `KR-GS KPA/TKOS`
 * smell `SPHEL`
 * delicious?" `TKHREUGS H-F KR-GS`
-* along. `A/HROPBG TP-PL`
+* along. `HRAOPBG TP-PL`
 * "The `KR-GS KPA/-T`
 * wall `WAUL`
 * smeared `SPHAOERD`
@@ -1364,7 +1364,7 @@
 * horse. `HORS TP-PL`
 * Look, `KPA/HRAOBG KW-BG`
 * gallops `TKPWAL/OP/-S`
-* along." `A/HROPBG TP-PL KR-GS`
+* along." `HRAOPBG TP-PL KR-GS`
 * on, `OPB KW-BG`
 * young, `KWRUPBG KW-BG`
 * Some `KPA/SOPL`

@@ -431,7 +431,7 @@
 * followed `TPOLD`
 * her. `HER TP-PL`
 * As `KPA/AZ`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * cow `KO*U`
 * began `TKPWAPB`
 * lowing. `HROE/-G TP-PL`

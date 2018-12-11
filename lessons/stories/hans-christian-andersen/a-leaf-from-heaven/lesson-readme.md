@@ -198,7 +198,7 @@
 * understanding `URPBGD`
 * increased `EUPB/KRAOEFD`
 * by `PWEU`
-* faith. `PHA*EUT TP-PL`
+* faith. `TPA*EUT TP-PL`
 * Her `KPA/HER`
 * chief `KHAOEF`
 * inheritance `EUPB/HER/TAPBS`

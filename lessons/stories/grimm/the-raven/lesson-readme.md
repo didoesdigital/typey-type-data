@@ -283,7 +283,7 @@
 * him. `HEUPL TP-PL`
 * At `KPA/AT`
 * driving `TKRAOFG`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * white `WHAOEUT`
 * before `PW-F`
 * reached `RAOEFPD`
@@ -333,11 +333,11 @@
 * seemed `SAOEPLD`
 * hardly `HA*RLD`
 * support `SPOR`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * any `TPHEU`
 * longer; `HRORPBG STPH*FPLT`
 * drove `TKROEF`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * chestnut `KHEFT/TPHUT`
 * horses, `HORSZ KW-BG`
 * sorrowfully `SOR/ROEFL/HREU`
@@ -578,7 +578,7 @@
 * mind,' `PHAOEUPBD KW-BG AE`
 * larger `HRARPBLG/ER`
 * maps `PHAPS`
-* upstairs `UP/STA*EURS`
+* upstairs `AUP/STAEURS`
 * cupboard, `WUP/PWORD KW-BG`
 * we `WE`
 * those,' `THOZ KW-BG AE`

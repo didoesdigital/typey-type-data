@@ -201,7 +201,7 @@
 * thou `THO*U`
 * thyself `THAOEU/SEFL`
 * thy `THAO*EU`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * thee `THAOE`
 * on `OPB`
 * purpose `PURP`

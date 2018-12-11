@@ -8,7 +8,7 @@
 * a `AEU`
 * heavy `HOEUF`
 * load `HRAOD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * very `SRE`
 * muddy `PHUD/KWREU`
 * way. `WAEU TP-PL`

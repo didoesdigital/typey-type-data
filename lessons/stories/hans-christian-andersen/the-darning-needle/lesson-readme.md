@@ -483,7 +483,7 @@
 * an `APB`
 * egg-shell `EG H-PB SHEL`
 * sailing `SAEULG`
-* along," `A/HROPBG KW-BG KR-GS`
+* along," `HRAOPBG KW-BG KR-GS`
 * boys; `PWOEUS STPH*FPLT`
 * stuck `STUBG`
 * egg-shell. `EG H-PB SHEL TP-PL`

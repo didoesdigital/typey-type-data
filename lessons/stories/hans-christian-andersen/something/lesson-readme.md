@@ -123,7 +123,7 @@
 * You `KPA/U`
 * may `PHAE`
 * an `APB`
-* upright `UP/RAOEUGT`
+* upright `AUP/RAOEUGT`
 * man, `PHAPB KW-BG`
 * but `PWUT`
 * ranked `RA*PBGD`

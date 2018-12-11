@@ -1347,7 +1347,7 @@
 * These `KPA/THEZ`
 * two; `TWO STPH*FPLT`
 * three, `THRAOE KW-BG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * high-road, `HAOEU H-PB RAOD KW-BG`
 * carriage; `KAEURPBLG STPH*FPLT`
 * beggars. `PWEG/ERS TP-PL`

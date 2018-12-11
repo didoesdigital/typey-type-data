@@ -237,7 +237,7 @@
 * become `PW-BG`
 * ship `SHEUP`
 * flying `TPHRAOEUG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * under `TPH-PB`
 * full `TPUL`
 * sail. `SAEUL TP-PL`

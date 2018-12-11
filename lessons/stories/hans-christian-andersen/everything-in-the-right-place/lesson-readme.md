@@ -722,7 +722,7 @@
 * lately `HRAEULT`
 * confirmed. `K-FRPL/-D TP-PL`
 * walked `WAUBGD`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * picked `PEUGD`
 * bunch `PWUFRPB`
 * field-flowers. `TPAOELD H-PB TPHRO*URS TP-PL`

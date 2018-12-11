@@ -156,7 +156,7 @@
 * hare `HA*ER`
 * come `KOPL`
 * springing `SPREUPBG/-G`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * jump `SKWRUFRP`
 * right `RAOEUT`
 * tree; `TRAOE STPH*FPLT`
@@ -646,7 +646,7 @@
 * troop `TRAOP`
 * rushed `RURBD`
 * intended `SPWEPBD/-D`
-* upset `AUP/SAET`
+* upset `AUP/SET`
 * followed `TPOLD`
 * silently `SHREPBLT`
 * elders. `ELD/ERS TP-PL`

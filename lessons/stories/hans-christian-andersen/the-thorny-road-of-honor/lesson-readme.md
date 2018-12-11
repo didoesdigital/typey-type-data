@@ -83,7 +83,7 @@
 * martyrs `PHART/ERS`
 * genius, `SKWRAOEPBS/KWRUS KW-BG`
 * wandered `WAPBD/-D`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * thorny `THORPB/KWREU`
 * road `RAOD`
 * honor. `HO*RPB TP-PL`
@@ -514,7 +514,7 @@
 * childlike `xxx childlike`
 * mind, `PHAOEUPBD KW-BG`
 * full `TPUL`
-* faith `PHA*EUT`
+* faith `TPA*EUT`
 * inspiration. `SPRAEUGS TP-PL`
 * She `KPA/SHE`
 * carries `KAERS`

@@ -288,7 +288,7 @@
 * out `OUT`
 * together, `TOGT KW-BG`
 * travelling `TRAFLG/A*U`
-* along, `A/HROPBG KW-BG`
+* along, `HRAOPBG KW-BG`
 * murderers `PHURD/RER/-S`
 * rushed `RURBD`
 * bound `PWOUPBD`
@@ -331,7 +331,7 @@
 * merry `PHER/REU`
 * fellow, `TPO*EUL KW-BG`
 * journeying `SKWRURPB/EUG`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * nag, `TPHAG KW-BG`
 * singing `SEUPBG/-G`
 * went. `WEPBT TP-PL`

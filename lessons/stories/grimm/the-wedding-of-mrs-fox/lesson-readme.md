@@ -275,7 +275,7 @@
 * 'Is `AE KPA/S`
 * home?' `HOEPL H-F AE`
 * sits `SEUTS`
-* upstairs `UP/STA*EURS`
+* upstairs `AUP/STAEURS`
 * Bewailing `xxx Bewailing`
 * sorrowful `SOR/ROEFL`
 * doom, `TKAOPL KW-BG`
@@ -352,7 +352,7 @@
 * let `HRET`
 * him `HEUPL`
 * come `KOPL`
-* upstairs,' `UP/STA*EURS KW-BG AE`
+* upstairs,' `AUP/STAEURS KW-BG AE`
 * ordered `ORD/-D`
 * prepare `PRAEP`
 * feast. `TPAOEFT TP-PL`

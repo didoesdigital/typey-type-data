@@ -885,7 +885,7 @@
 * vain. `SRA*EUPB TP-PL`
 * me!' `PHE SKHRAPL AE`
 * song: `SOPBG STPH-FPLT`
-* uproar `UP/ROR`
+* uproar `AUP/RAOR`
 * noise `TPHOEUS`
 * tumbling `TUPL/-BLG`
 * heard; `HAERD STPH*FPLT`

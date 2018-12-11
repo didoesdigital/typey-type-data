@@ -1304,7 +1304,7 @@
 * bitterly. `PWEURLT TP-PL`
 * matter; `PHAERT STPH*FPLT`
 * understand. `URPBD TP-PL`
-* along `A/HROPBG`
+* along `HRAOPBG`
 * lamp, `HRAFRP KW-BG`
 * light `HRAOEUT`
 * girl's `TKPWEURL/AES`

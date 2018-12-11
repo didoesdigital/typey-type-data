@@ -351,7 +351,7 @@
 * knowing `TPHOEG`
 * it,' `T KW-BG AE`
 * thought. `THAUT TP-PL`
-* upstairs `UP/STA*EURS`
+* upstairs `AUP/STAEURS`
 * room, `RAOPL KW-BG`
 * handkerchief `HAPB/KER/KHEF`
 * top `TOP`
