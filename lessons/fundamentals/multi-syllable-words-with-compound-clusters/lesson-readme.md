@@ -120,7 +120,7 @@
 * prevention `PREFPBGS`
 * majority `PHORPBLG`
 * participation `PARPGS`
-* combination `KPWEUPGS`
+* combination `KPWEUPBGS`
 * certification `SERBGS`
 * subscription `SKR*EUPGS`
 * provision `PREUFGS`

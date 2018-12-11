@@ -766,6 +766,7 @@
 * answering `APBS/-G`
 * conspiracy `KOPB/SPEUR/SEU`
 * epic `EP/EUBG`
+* combinations `KPWEUPBGS/-S`
 * preceding `PRE/SAOED/-G`
 * fairy `TPAEUR/REU`
 * contacted `KABGT/-D`

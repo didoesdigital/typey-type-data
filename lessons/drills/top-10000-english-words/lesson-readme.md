@@ -2809,7 +2809,7 @@
 * manner `PHAERPB`
 * matrix `PHAERBGS`
 * containing `KAUPB/TAEUPBG`
-* combination `KPWEUPGS`
+* combination `KPWEUPBGS`
 * devel `TK*/*E/SR*/*E/HR*`
 * amendment `A/PHEPLT`
 * despite `STKPAOEUT`
@@ -8497,7 +8497,7 @@
 * allergy `HRERPLG`
 * sake `SAEUBG`
 * twisted `TWEUFTD`
-* combinations `KPWEUPBGS/-GS`
+* combinations `KPWEUPBGS/-S`
 * preceding `PRE/SAOED/-G`
 * merit `PHERT`
 * enzyme `SAO*EUPL`

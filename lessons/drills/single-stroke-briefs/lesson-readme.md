@@ -1188,7 +1188,7 @@
 * coma `KO*EUPL`
 * comb `KOEPL`
 * combat `KPWAT`
-* combination `KPWEUPGS`
+* combination `KPWEUPBGS`
 * combine `KPWAOEUPB`
 * combined `KPWAOEUPBD`
 * combines `KPWAOEUPBS`

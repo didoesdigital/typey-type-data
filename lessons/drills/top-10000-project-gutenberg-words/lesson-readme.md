@@ -3834,7 +3834,7 @@
 * saving `SAFG`
 * fro `TPRO`
 * string `STREUPBG`
-* combination `KPWEUPGS`
+* combination `KPWEUPBGS`
 * awakened `A/WAEUBG/-PBD`
 * faded `TPAEUD/-D`
 * arrest `A*EURS`
@@ -7917,7 +7917,7 @@
 * ore `O*ER`
 * plentiful `PHREPBT/-FL`
 * plump `PHRUFRP`
-* combinations `KPWEUPBGS/-GS`
+* combinations `KPWEUPBGS/-S`
 * purest `PAOUR/EFT`
 * cheat `KHAOET`
 * doubly `TKUB/HREU`
