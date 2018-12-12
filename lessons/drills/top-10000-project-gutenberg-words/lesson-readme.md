@@ -826,7 +826,7 @@
 * piece `PAOES`
 * British `PWREURB`
 * ex `EBGS`
-* Charles `KHARLZ`
+* Charles `KHARLS`
 * formed `TPORPLD`
 * speaking `SPAOEG`
 * trying `TRAOEUG`
@@ -3086,7 +3086,7 @@
 * provision `PREUFGS`
 * courts `KORTS`
 * eaten `AOET/EPB`
-* historical `H-L`
+* historical `HOEURL`
 * regarding `RARGD`
 * Florence `TPHRORPBS`
 * preferred `PREFRD`

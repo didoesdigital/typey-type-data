@@ -76,7 +76,6 @@
 * Colorado `KRO*`
 * Illinois `*EUL`
 * discuss `SKUS`
-* historical `H-L`
 * accounts `K-TS`
 * easily `AOELS`
 * accounting `K-GT`
@@ -90,6 +89,7 @@
 * produce `PROU`
 * expect `KP-PT`
 * criminal `KR-L`
+* hello `H-L`
 * Massachusetts `PHA*`
 * ocean `OEGS`
 * Missouri `PHO*`

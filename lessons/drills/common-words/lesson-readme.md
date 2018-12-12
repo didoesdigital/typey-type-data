@@ -395,7 +395,7 @@
 * heavy `HOEUF`
 * held `HELD`
 * hell `HEL`
-* hello `HEL/HRO`
+* hello `H-L`
 * help `HEP`
 * her `HER`
 * here `HAOER`

@@ -266,7 +266,6 @@
 * identified `AOEUD/TPAOEUD`
 * appears `A/PAOERS`
 * decided `STKAOEUD/-D`
-* hello `HEL/HRO`
 * maintain `PHEUPB/TAEUPB`
 * tourism `TOR/EUFPL`
 * newsletters `TPHAOUS/HRERS`

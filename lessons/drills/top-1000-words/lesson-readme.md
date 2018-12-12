@@ -826,7 +826,7 @@
 * piece `PAOES`
 * British `PWREURB`
 * ex `EBGS`
-* Charles `KHARLZ`
+* Charles `KHARLS`
 * formed `TPORPLD`
 * speaking `SPAOEG`
 * trying `TRAOEUG`

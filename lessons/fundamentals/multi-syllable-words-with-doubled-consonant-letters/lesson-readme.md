@@ -209,7 +209,7 @@
 * professionals `PREPBLS`
 * appears `A/PAOERS`
 * carry `KAER`
-* hello `HEL/HRO`
+* hello `H-L`
 * newsletters `TPHAOUS/HRERS`
 * winning `WAOEPBG`
 * miscellaneous `PH*EUFBG`

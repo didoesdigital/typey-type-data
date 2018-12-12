@@ -109,7 +109,7 @@
 * Richard `REUFPD`
 * Joseph `SKWROE/SEF`
 * Thomas `THOPLS`
-* Charles `KHARLZ`
+* Charles `KHARLS`
 * Christopher `KHEUFT/TPER`
 * Daniel `TKAPBL`
 * Matthew `PH*T/AOU`

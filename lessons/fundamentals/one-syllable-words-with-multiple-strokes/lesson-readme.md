@@ -123,7 +123,6 @@
 * ids `EUFPLT/TK-FPLT/-S`
 * an' `APB/AE`
 * man's `PHAPB/AES`
-* etc. `ETS/TP-PL`
 * I'd `AOEUD`
 * v. `5R/TP-PL`
 * 'em `AOE/EPL`

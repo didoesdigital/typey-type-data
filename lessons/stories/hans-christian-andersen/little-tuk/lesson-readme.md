@@ -24,7 +24,7 @@
 * and `SKP`
 * meant `PHEPBT`
 * for `TPOR`
-* Charles. `KHARLZ TP-PL`
+* Charles. `KHARLS TP-PL`
 * It `KPA/T`
 * all `AUL`
 * very `SRE`

@@ -1334,7 +1334,7 @@
 * 'oblivion,' `AE OE/PWHREUF/KWROPB KW-BG AE`
 * 'remembrance' `AE RERPBS AE`
 * inscribed. `EUPB/KRAOEUB/-D TP-PL`
-* historical `H-L`
+* historical `HOEURL`
 * work, `WORBG KW-BG`
 * reading, `RAEGD KW-BG`
 * death, `TK*T KW-BG`
