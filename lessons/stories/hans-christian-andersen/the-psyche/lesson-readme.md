@@ -943,7 +943,7 @@
 * shrink, `SHR*EUPBG KW-BG`
 * then, `THEPB KW-BG`
 * fine `TPAOEUPB`
-* sunshiny `xxx sunshiny`
+* sunshiny `SUPB/TK-LS/SHOEUPB`
 * day, `TKAEU KW-BG`
 * laughing `HRAFG`
 * rejoicing, `RE/SKWROEUFG KW-BG`
@@ -1124,7 +1124,7 @@
 * unfolding `xxx unfolding`
 * veins `SRAEUPBS`
 * moment!" `PHOEPLT SKHRAPL KR-GS`
-* unfolded `xxx unfolded`
+* unfolded `UPB/TPOELD/-D`
 * burst `PWUFRT`
 * fell, `TPEL KW-BG`
 * evil `AOEFL`

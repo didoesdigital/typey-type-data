@@ -534,7 +534,7 @@
 * meet `PHAOET`
 * quiet `KWAO*EUT`
 * near `TPHAOER`
-* moonshine, `xxx moonshine KW-BG`
+* moonshine, `PHAOPB/SHAO*EUPB KW-BG`
 * carve `KAFRB`
 * initials `TPHEURBLS`
 * names `TPHAEUPLS`

@@ -809,7 +809,7 @@
 * flashed `TPHRARBD`
 * radiant `RAEUD/KWRAPBT`
 * aurora `AU/ROE/RA`
-* borealis, `xxx borealis KW-BG`
+* borealis, `PWOR/A*L/EUS KW-BG`
 * surrounded `SROUBD/-D`
 * fire. `TPAOEUR TP-PL`
 * Tell `KPA/TEL`

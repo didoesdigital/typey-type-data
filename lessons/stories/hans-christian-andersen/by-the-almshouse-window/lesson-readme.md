@@ -159,7 +159,7 @@
 * deep `TKAOEP`
 * below `PWHRO`
 * earth, `*ERT KW-BG`
-* dewdrops `xxx dewdrops`
+* dewdrops `TKAO*U/TK-LS/TKROP/-S`
 * each `AOEFP`
 * blade `PWHRAEUD`
 * grass `TKPWRAS`

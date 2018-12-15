@@ -271,7 +271,7 @@
 * event `EFPBT`
 * every `EF`
 * blossom `PWHROFPL`
-* unfolded `xxx unfolded`
+* unfolded `UPB/TPOELD/-D`
 * itself, `T/SEF KW-BG`
 * days `TKAEUS`
 * gone `TKPWOPB`

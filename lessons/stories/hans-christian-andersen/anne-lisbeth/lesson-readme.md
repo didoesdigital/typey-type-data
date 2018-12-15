@@ -136,7 +136,7 @@
 * Lisbeth's `xxx Lisbeth AES`
 * child `KHAOEULD`
 * grew `TKPWRAOU`
-* apace `xxx apace`
+* apace `A/PAEUS`
 * like `HRAOEUBG`
 * weeds, `WAOEDZ KW-BG`
 * although `HR*T`
@@ -1030,7 +1030,7 @@
 * sea-shore; `SAE H-PB SHOR STPH*FPLT`
 * ghosts `TKPWOEFT/-S`
 * drowned `TKROUPBD`
-* unburied `xxx unburied`
+* unburied `UPB/PWUR/KWREUD`
 * people, `PAOEPL KW-BG`
 * whose `WHOZ`
 * corpses `KORPS/-S`
@@ -1103,7 +1103,7 @@
 * risen `REUFPB`
 * behind `HEUPBD`
 * pale, `PAEL KW-BG`
-* rayless `xxx rayless`
+* rayless `RAEU/-LS`
 * deadly `TKED/HREU`
 * weight `WAET`
 * hang `HAPBG`
@@ -1175,7 +1175,7 @@
 * actions `-BGSZ`
 * past `PAFT`
 * life, `HRAOEUF KW-BG`
-* unfolded `xxx unfolded`
+* unfolded `UPB/TPOELD/-D`
 * us. `US TP-PL`
 * When `KPA/WHEPB`
 * conscience `KAUPBGS`
@@ -1208,7 +1208,7 @@
 * crept `KREPT`
 * some `SOPL`
 * gladly `TKPWHRAD/HREU`
-* forgetfulness `xxx forgetfulness`
+* forgetfulness `TPERGT/-FL/-PBS`
 * actions. `-BGSZ TP-PL`
 * first `TPEUFRT`
 * hour `HOUR`
@@ -1226,7 +1226,7 @@
 * mind. `PHAOEUPBD TP-PL`
 * Silently, `KPA/SHREPBLT KW-BG`
 * cloud-shadows `KHROUD H-PB SHO*EUDZ`
-* moonshine, `xxx moonshine KW-BG`
+* moonshine, `PHAOPB/SHAO*EUPB KW-BG`
 * spectral `SPEBG/TRAL`
 * flitted `TPHREUT/-D`
 * her; `HER STPH*FPLT`

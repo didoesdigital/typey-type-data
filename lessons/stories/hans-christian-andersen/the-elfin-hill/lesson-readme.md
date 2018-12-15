@@ -323,7 +323,7 @@
 * danced `TKAPBS/-D`
 * shawls `SHAUL/-S`
 * woven `WOEFPB`
-* moonshine `xxx moonshine`
+* moonshine `PHAOPB/SHAO*EUPB`
 * mist, `PHEUFT KW-BG`
 * look `HRAOBG`
 * pretty `PREUT`
@@ -336,7 +336,7 @@
 * decorated; `TKEBG/RAEUT/-D STPH*FPLT`
 * floor `TPHRAOR`
 * washed `WARBD`
-* moonshine, `xxx moonshine KW-BG`
+* moonshine, `PHAOPB/SHAO*EUPB KW-BG`
 * walls `WAULS`
 * rubbed `RUBD`
 * magic `PHAPBLG/EUBG`
@@ -538,7 +538,7 @@
 * "and `KR-GS SKP`
 * let `HRET`
 * stand `STAPBD`
-* moonshine." `xxx moonshine TP-PL KR-GS`
+* moonshine." `PHAOPB/SHAO*EUPB TP-PL KR-GS`
 * drew `TKRAOU`
 * bowed `PWOE/-D`
 * ground. `TKPWROUPBD TP-PL`

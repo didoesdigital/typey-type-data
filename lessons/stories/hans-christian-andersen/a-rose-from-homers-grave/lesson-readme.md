@@ -16,7 +16,7 @@
 * night. `TPHAOEUT TP-PL`
 * The `KPA/-T`
 * winged `WEUPBGD`
-* songster `xxx songster`
+* songster `SOPBG/STER`
 * serenades `SER/TPHAEUDZ`
 * fragrant `TPRAEUG/RAPBT`
 * flowers. `TPHRO*URS TP-PL`
@@ -82,7 +82,7 @@
 * silent, `SHREPBT KW-BG`
 * not `TPHOT`
 * even `AOEPB`
-* dewdrop `xxx dewdrop`
+* dewdrop `TKAO*U/TK-LS/TKROP`
 * lay `HRAEU`
 * like `HRAOEUBG`
 * tear `TAER`
@@ -165,7 +165,7 @@
 * dream. `TKRAOEPL TP-PL`
 * It `KPA/T`
 * fair `TPAEUR`
-* sunshiny `xxx sunshiny`
+* sunshiny `SUPB/TK-LS/SHOEUPB`
 * day; `TKAEU STPH*FPLT`
 * crowd `KROUD`
 * strangers `STRAEUPB/SKWRERS`
@@ -183,7 +183,7 @@
 * brilliant `PWREULT`
 * lights `HRAOEUTS`
 * aurora `AU/ROE/RA`
-* borealis. `xxx borealis TP-PL`
+* borealis. `PWOR/A*L/EUS TP-PL`
 * plucked `PHRUBGD`
 * placed `PHRAEUFD`
 * book, `PWAOBG KW-BG`

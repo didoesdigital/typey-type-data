@@ -664,7 +664,7 @@
 * soiled `SOEULD`
 * clay. `KHRAEU TP-PL`
 * Then `KPA/THEPB`
-* unfolded `xxx unfolded`
+* unfolded `UPB/TPOELD/-D`
 * both `PWO*T`
 * beauties `PWAOUTS`
 * Nature, `KPA/TPHAEURT KW-BG`

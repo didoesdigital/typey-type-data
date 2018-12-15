@@ -579,7 +579,7 @@
 * clouds `KHROUDZ`
 * gold, `TKPWOELD KW-BG`
 * lovely `HROFL`
-* unfolded. `xxx unfolded TP-PL`
+* unfolded. `UPB/TPOELD/-D TP-PL`
 * very `SRE`
 * sad `SAD`
 * it, `T KW-BG`
@@ -652,7 +652,7 @@
 * indeed, `TPHAOEPBD KW-BG`
 * appeared, `A/PAOERD KW-BG`
 * those `THOZ`
-* unfolded `xxx unfolded`
+* unfolded `UPB/TPOELD/-D`
 * obliged `OE/PWHRAOEUPBLGD`
 * close `KHROES`
 * eyes, `AO*EUS KW-BG`

@@ -385,7 +385,7 @@
 * early `ERL`
 * morning, `PHORPBG KW-BG`
 * large `HRARPBLG`
-* dewdrop, `xxx dewdrop KW-BG`
+* dewdrop, `TKAO*U/TK-LS/TKROP KW-BG`
 * big `PWEUG`
 * pearl. `PERL TP-PL`
 * out `OUT`

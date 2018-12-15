@@ -413,7 +413,7 @@
 * to-day `TO H-PB TKAEU`
 * rude. `RAOUD TP-PL`
 * real `RAEL`
-* songster," `xxx songster KW-BG KR-GS`
+* songster," `SOPBG/STER KW-BG KR-GS`
 * "you `KR-GS U`
 * voice `SROEUS`
 * possible `POB`

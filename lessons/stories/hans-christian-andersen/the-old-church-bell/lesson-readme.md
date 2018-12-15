@@ -249,7 +249,7 @@
 * song `SOPBG`
 * "The `KR-GS KPA/-T`
 * Bell." `PWEL/PWEL TP-PL KR-GS`
-* apace, `xxx apace KW-BG`
+* apace, `A/PAEUS KW-BG`
 * world `WORLD`
 * advanced `SRAPBS/-D`
 * him. `HEUPL TP-PL`

@@ -740,7 +740,7 @@
 * betrothed; `PWE/TRO*T/-D STPH*FPLT`
 * same `SAEUPL`
 * trees `TRAOES`
-* unfolded, `xxx unfolded KW-BG`
+* unfolded, `UPB/TPOELD/-D KW-BG`
 * rose, `ROEZ KW-BG`
 * wandered `WAPBD/-D`
 * pendant `PEPB/TKAPBT`

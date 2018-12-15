@@ -194,7 +194,7 @@
 * tears, `TAERS KW-BG`
 * glittering `TKPWHREUT/ERG`
 * colors `KHRORS`
-* dewdrops; `xxx dewdrops STPH*FPLT`
+* dewdrops; `TKAO*U/TK-LS/TKROP/-S STPH*FPLT`
 * came `KAEUPL`
 * by `PWEU`
 * roebuck, `HRO*ER/ROE/PWUBG KW-BG`

@@ -546,7 +546,7 @@
 * trembled. `TREPL/-BLD TP-PL`
 * ill! `EUL SKHRAPL`
 * madness—a `PHAD/-PBS EPL/TKA*RB AEU`
-* joyless `xxx joyless`
+* joyless `SKWROEU/-LS`
 * madness—besieged `PHAD/-PBS EPL/TKA*RB PWE/SAOEPBLG/-D`
 * fear `TPAOER`
 * dreams!" `TKRAOEPLS SKHRAPL KR-GS`

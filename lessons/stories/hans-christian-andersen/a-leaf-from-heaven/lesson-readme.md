@@ -319,7 +319,7 @@
 * ever `-FR`
 * green, `TKPWRAOEPB KW-BG`
 * fresh, `TPRERB KW-BG`
-* unfading. `xxx unfading TP-PL`
+* unfading. `UPB/TPAEUD/-G TP-PL`
 * Between `KPA/TWAOEPB`
 * Bible `PWAO*EUBL`
 * lay `HRAEU`
@@ -373,7 +373,7 @@
 * at `AT`
 * flower. `TPHRO*UR TP-PL`
 * came `KAEUPL`
-* swineherd; `xxx swineherd STPH*FPLT`
+* swineherd; `SWAOEUPB/TK-LS/HE*RD STPH*FPLT`
 * collecting `KHREBGT/-G`
 * shrubs `SHRUBS`
 * burn `PWURPB`
@@ -431,7 +431,7 @@
 * described `KREUFD`
 * appearance `PAOERPBS`
 * mistaken. `SPHA*EUPB TP-PL`
-* swineherd, `xxx swineherd KW-BG`
+* swineherd, `SWAOEUPB/TK-LS/HE*RD KW-BG`
 * am `APL`
 * afraid `A/TPRAEUD`
 * I `EU`
@@ -450,7 +450,7 @@
 * Ignorance `KPA/EUG/RAPBS`
 * ignorance `EUG/RAPBS`
 * indeed!" `TPHAOEPBD SKHRAPL KR-GS`
-* swineherd `xxx swineherd`
+* swineherd `SWAOEUPB/TK-LS/HE*RD`
 * these `THEZ`
 * words `WORDZ`
 * heart, `HART KW-BG`
