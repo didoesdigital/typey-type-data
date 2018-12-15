@@ -562,7 +562,7 @@
 * went: `WEPBT STPH-FPLT`
 * sprang `SPRAPBG`
 * behind `HEUPBD`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * house. `HOUS TP-PL`
 * stood `STAOD`
 * large `HRARPBLG`

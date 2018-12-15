@@ -245,7 +245,7 @@
 * hid `HEUD`
 * himself `H*EUPLS`
 * under `TPH-PB`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * stool, `STOL KW-BG`
 * hear `HAER`
 * said, `SAEUD KW-BG`

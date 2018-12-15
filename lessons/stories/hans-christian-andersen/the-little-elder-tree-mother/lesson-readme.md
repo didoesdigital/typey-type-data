@@ -638,7 +638,7 @@
 * garden. `TKPWA*RPB TP-PL`
 * Near `KPA/TPHAOER`
 * lawn `HRAUPB`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * walking-stick `WAUG H-PB STEUBG`
 * tied `TAO*EUD`
 * post. `POEFT TP-PL`

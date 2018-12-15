@@ -511,7 +511,7 @@
 * feet, `TPAOET KW-BG`
 * consented; `KEFPBT/-D STPH*FPLT`
 * moment `PHOEPLT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * house `HOUS`
 * taken `TAEPB`
 * king, `KEUPBG KW-BG`

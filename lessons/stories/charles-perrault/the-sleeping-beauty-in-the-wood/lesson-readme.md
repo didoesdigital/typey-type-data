@@ -930,7 +930,7 @@
 * once `WUPBS`
 * order `ORD`
 * freely `TPRAOEL`
-* e'en `*E/AE/EPB/SP-S`
+* e'en `*E/AE/*EPB`
 * take `TAEUBG`
 * pleasure; `PHRERB STPH*FPLT`
 * dared `TKAEURD`

@@ -352,7 +352,7 @@
 * went `WEPBT`
 * over, `OEFR KW-BG`
 * left `HREFT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * kingdom, `KEUPBG/TKOPL KW-BG`
 * pleasure `PHRERB`
 * talking `TAUG`

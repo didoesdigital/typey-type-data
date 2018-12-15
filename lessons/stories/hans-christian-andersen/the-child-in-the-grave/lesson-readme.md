@@ -74,7 +74,7 @@
 * their `THAEUR`
 * parents' `PARPBTS AE`
 * sorrow. `SROE TP-PL`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * bowed `PWOE/-D`
 * down, `TKOUPB KW-BG`
 * mother `PHOER`

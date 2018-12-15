@@ -714,7 +714,7 @@
 * love `HRUF`
 * better `PWOERT`
 * world; `WORLD STPH*FPLT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * palace, `PAL/AS KW-BG`
 * wife.' `WAOEUF TP-PL AE`
 * consented, `KEFPBT/-D KW-BG`

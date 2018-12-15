@@ -587,7 +587,7 @@
 * never `TPHEF`
 * use `AOUS`
 * hence `HEPBS`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * house.' `HOUS TP-PL AE`
 * asked, `SK-D KW-BG`
 * ring `REUPBG`

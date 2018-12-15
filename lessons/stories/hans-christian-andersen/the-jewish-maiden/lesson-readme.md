@@ -577,7 +577,7 @@
 * mother, `PHOER KW-BG`
 * grave. `TKPWRAEUF TP-PL`
 * unfaithful `UPB/TPA*EUT/-FL`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * vow. `SROU TP-PL`
 * Bible `PWAO*EUBL`
 * fathers, `TPAURS KW-BG`

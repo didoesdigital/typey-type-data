@@ -329,7 +329,7 @@
 * there `THR`
 * great `TKPWRAET`
 * feast `TPAOEFT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * house, `HOUS KW-BG`
 * sister `ST-R`
 * is `S`

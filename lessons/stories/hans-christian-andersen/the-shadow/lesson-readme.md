@@ -1254,7 +1254,7 @@
 * told `TOLD`
 * country `KREU`
 * come, `KOPL KW-BG`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * palace, `PAL/AS KW-BG`
 * upper `AOURP`
 * lower `HROUR`

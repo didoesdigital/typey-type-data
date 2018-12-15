@@ -523,7 +523,7 @@
 * "it `KR-GS T`
 * sin `SEUPB`
 * submit `SPHEUT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * wishes, `WEURBS KW-BG`
 * can `K`
 * avoid `A/SROEUD`

@@ -294,7 +294,7 @@
 * welcomed `W-BGD`
 * off `OF`
 * towards `TORDZ`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * home, `HOEPL KW-BG`
 * told `TOLD`
 * happened `HAPD`

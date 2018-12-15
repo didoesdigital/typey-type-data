@@ -391,7 +391,7 @@
 * whole `WHOEL`
 * long, `HROPBG KW-BG`
 * break `PWRAEBG`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * house. `HOUS TP-PL`
 * knocked `TPHOBGD`
 * door, `TKAOR KW-BG`

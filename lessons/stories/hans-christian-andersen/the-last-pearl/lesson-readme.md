@@ -315,7 +315,7 @@
 * children, `KHEURPB KW-BG`
 * troop, `TRAOP KW-BG`
 * youngest `KWRUPBG/EFT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * arms. `ARPLS TP-PL`
 * They `KPA/THE`
 * take `TAEUBG`

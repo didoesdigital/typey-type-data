@@ -186,7 +186,7 @@
 * became `PWAEUPL`
 * angry `APBG/REU`
 * speech, `SPAOEFP KW-BG`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * name `TPHAEUPL`
 * Petersen, `xxx Petersen KW-BG`
 * ended `EPBD/-D`

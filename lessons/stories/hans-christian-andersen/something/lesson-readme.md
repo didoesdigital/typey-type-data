@@ -479,7 +479,7 @@
 * me; `PHE STPH*FPLT`
 * Home `KPA/HOEPL`
 * friends `TPREPBDZ`
-* ne'er `TPHE/AE/ER/SP-S`
+* ne'er `TPH*/*E/AE/*ER`
 * forget, `TPERGT KW-BG`
 * yet." `KWRET TP-PL KR-GS`
 * did. `TK TP-PL`

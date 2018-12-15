@@ -346,7 +346,7 @@
 * wanted `WAPBTD`
 * make, `PHAEUBG KW-BG`
 * crept `KREPT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * coat `KOET`
 * shoulder `SHOURLD`
 * whispered `WHEUS/PERD`

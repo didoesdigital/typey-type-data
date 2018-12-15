@@ -347,7 +347,7 @@
 * princesses, `PREUPB/SES/-S KW-BG`
 * after `AF`
 * her `HER`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * death; `TK*T STPH*FPLT`
 * other `OER`
 * sisters. `ST-RS TP-PL`

@@ -389,7 +389,7 @@
 * now `TPHOU`
 * nothing `TPHOG`
 * wish `WEURB`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * kingdom, `KEUPBG/TKOPL KW-BG`
 * marry `PHAER`
 * you, `U KW-BG`

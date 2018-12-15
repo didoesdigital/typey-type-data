@@ -402,7 +402,7 @@
 * ring, `REUPBG KW-BG`
 * it, `T KW-BG`
 * knew `TPHAOU`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * mother's, `PHOER AE S* KW-BG`
 * 'O `AE O*P`
 * our `OUR`

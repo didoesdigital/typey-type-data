@@ -951,7 +951,7 @@
 * possession `PEFGS`
 * pleasant `PHREFPBT`
 * perfectly `P-FRL`
-* o' `O*/AE`
+* o' `O*/TK-LS/AE`
 * memory `PHOEURPL`
 * usually `AOURBL`
 * grave `TKPWRAEUF`
@@ -974,7 +974,7 @@
 * touch `TUFP`
 * equal `KWAL`
 * fortune `TP-RPB`
-* v. `5R/TP-PL`
+* v. `SR*/TP-PL`
 * shore `SHOR`
 * domain `TKPHAEUPB`
 * named `TPHAEUPLD`

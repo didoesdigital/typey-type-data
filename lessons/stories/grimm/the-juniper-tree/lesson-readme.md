@@ -716,7 +716,7 @@
 * wings, `WEUPBGS KW-BG`
 * millstone `PHEUL/STOEPB`
 * neck, `TPHEBG KW-BG`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * house. `HOUS TP-PL`
 * father, `TPAER KW-BG`
 * having `SR-G`

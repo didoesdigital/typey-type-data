@@ -1554,7 +1554,7 @@
 * secured `SKAOURD`
 * death. `TK*T TP-PL`
 * grave; `TKPWRAEUF STPH*FPLT`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * grave. `TKPWRAEUF TP-PL`
 * lies, `HRAO*EUS KW-BG`
 * grave `TKPWRAEUF`

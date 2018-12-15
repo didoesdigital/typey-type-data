@@ -557,7 +557,7 @@
 * will `HR`
 * home `HOEPL`
 * my `PHEU`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * It `KPA/T`
 * wood." `WAOD TP-PL KR-GS`
 * So `KPA/SO`

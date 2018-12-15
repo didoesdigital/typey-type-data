@@ -538,7 +538,7 @@
 * therefore `TH-FR`
 * must `PHUFT`
 * corpses `KORPS/-S`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * corpse, `KORPS KW-BG`
 * saw `SAU`
 * poor `PAOR`

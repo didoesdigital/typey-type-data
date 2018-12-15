@@ -38,7 +38,7 @@
 * grieved `TKPWRAOEF/-D`
 * at `AT`
 * their `THAEUR`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * sickness; `SEUBG/-PBS STPH*FPLT`
 * and `SKP`
 * as `AZ`

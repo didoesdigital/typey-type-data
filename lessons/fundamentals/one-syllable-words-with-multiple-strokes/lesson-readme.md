@@ -124,7 +124,6 @@
 * an' `APB/AE`
 * man's `PHAPB/AES`
 * I'd `AOEUD`
-* v. `5R/TP-PL`
 * 'em `AOE/EPL`
 * king's `KEUPBG/AES`
 * seized `SAOEZ/-D`

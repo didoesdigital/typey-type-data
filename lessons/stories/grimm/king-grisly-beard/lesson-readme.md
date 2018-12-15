@@ -394,7 +394,7 @@
 * 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * 'if `AE TP`
 * any `TPHEU`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * court `KORT`
 * pass `PAS`
 * me `PHE`

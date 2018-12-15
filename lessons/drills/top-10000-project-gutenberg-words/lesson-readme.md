@@ -951,7 +951,7 @@
 * possession `PEFGS`
 * pleasant `PHREFPBT`
 * perfectly `P-FRL`
-* o' `O*/AE`
+* o' `O*/TK-LS/AE`
 * memory `PHOEURPL`
 * usually `AOURBL`
 * grave `TKPWRAEUF`
@@ -974,7 +974,7 @@
 * touch `TUFP`
 * equal `KWAL`
 * fortune `TP-RPB`
-* v. `5R/TP-PL`
+* v. `SR*/TP-PL`
 * shore `SHOR`
 * domain `TKPHAEUPB`
 * named `TPHAEUPLD`
@@ -1003,7 +1003,7 @@
 * stop `STOP`
 * higher `HAOEUR`
 * et `AOE/T*/SP-S`
-* father's `TPA*ER/AES`
+* father's `TPAER/AES`
 * threw `THRAOU`
 * worse `WORS`
 * built `PWEULT`
@@ -6013,7 +6013,7 @@
 * painfully `PAEUFL/HREU`
 * polish `POL/EURB`
 * shudder `SHUD/ER`
-* oe. `O*/*E/SP-S/TP-PL`
+* oe. `O*/*E/TP-PL`
 * roofs `RAOFS`
 * comparative `KPAEUR/TEUF`
 * begging `PWEG/-G`
@@ -6160,7 +6160,7 @@
 * praises `PRAEUS/-S`
 * fulfil `TPUL/TPEUL/A*U`
 * mantle `PHAPBT/*L`
-* ne'er `TPHE/AE/ER/SP-S`
+* ne'er `TPH*/*E/AE/*ER`
 * discussing `SKUFG`
 * chicken `KHEU/KEPB`
 * judicial `SKWREURBL`
@@ -9011,7 +9011,7 @@
 * bleak `PWHRAEBG`
 * vehemently `SRAOEPLT/HREU`
 * wretchedness `KREFPD/-PBS`
-* e'er `*E/AE/ER/SP-S`
+* e'er `*E/AE/*ER`
 * ensure `EPB/SHUR`
 * denotes `TKAOE/TPHOETS`
 * sentenced `STPH-PBD`
@@ -9438,7 +9438,7 @@
 * peaceable `PAES/-BL`
 * Beth `PW*ET`
 * inconceivable `EUPB/KOPB/SAOEFBL`
-* e'en `*E/AE/EPB/SP-S`
+* e'en `*E/AE/*EPB`
 * emerald `EPL/RALD`
 * lava `HRA/SRA`
 * trillion `TROEUPB`
