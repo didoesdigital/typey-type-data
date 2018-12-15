@@ -85,7 +85,6 @@
 * motion `PHOEGS`
 * fashion `TPAGS`
 * vision `SREUGS`
-* situation `SWAEUGS`
 * developing `SRELG`
 * village `SREULG`
 * functional `TPUPBLGS`
