@@ -1,0 +1,623 @@
+{
+  "discoverCourse": [
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with simple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-more-consonants/lesson.txt",
+      "lessonTitle": "One-syllable words with more consonants",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
+      "lessonTitle": "One-syllable words with F as V or S",
+      "target": 14
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with unstressed vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "One-syllable words with inversion",
+      "target": 6
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
+      "lessonTitle": "One-syllable words with short I vowel",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with short vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with long vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+      "lessonTitle": "One-syllable words with diphthongs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+      "lessonTitle": "One-syllable words with vowel disambiguators",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with left-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with right-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+      "lessonTitle": "One-syllable words with digraphs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "One-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/lesson.txt",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/lesson.txt",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/top-100-words/lesson.txt",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/pronouns/lesson.txt",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/lesson.txt",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/lesson.txt",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/lesson.txt",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/lesson.txt",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/common-words/lesson.txt",
+      "lessonTitle": "Common words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/calendar/lesson.txt",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/lesson.txt",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/time/lesson.txt",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+      "lessonTitle": "Project Gutenberg sentences using top 100 words",
+      "target": 193
+    },
+    {
+      "path": "/lessons/drills/longest-words/lesson.txt",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/homophones/lesson.txt",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/lesson.txt",
+      "lessonTitle": "Emotions",
+      "target": 104
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/drills/top-10000-english-words/lesson.txt",
+      "lessonTitle": "Top 10000 English words",
+      "target": 10000
+    }
+  ]
+  , "revisionCourse": [
+    {
+      "path": "/lessons/drills/top-100-words/lesson.txt",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/common-words/lesson.txt",
+      "lessonTitle": "Common words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-10000-english-words/lesson.txt",
+      "lessonTitle": "Top 10000 English words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/drills/top-10000-english-words/lesson.txt",
+      "lessonTitle": "Top 10000 English words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with simple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-more-consonants/lesson.txt",
+      "lessonTitle": "One-syllable words with more consonants",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
+      "lessonTitle": "One-syllable words with F as V or S",
+      "target": 14
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with unstressed vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "One-syllable words with inversion",
+      "target": 6
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
+      "lessonTitle": "One-syllable words with short I vowel",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with short vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with long vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+      "lessonTitle": "One-syllable words with diphthongs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+      "lessonTitle": "One-syllable words with vowel disambiguators",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with left-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with right-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+      "lessonTitle": "One-syllable words with digraphs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "One-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/lesson.txt",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/lesson.txt",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/pronouns/lesson.txt",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/lesson.txt",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/lesson.txt",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/lesson.txt",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/lesson.txt",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/calendar/lesson.txt",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/lesson.txt",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/time/lesson.txt",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/longest-words/lesson.txt",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+      "lessonTitle": "Project Gutenberg sentences using top 100 words",
+      "target": 193
+    },
+    {
+      "path": "/lessons/drills/homophones/lesson.txt",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/lesson.txt",
+      "lessonTitle": "Emotions",
+      "target": 104
+    }
+  ]
+  , "drillCourse": [
+    {
+      "path": "/lessons/drills/top-100-words/lesson.txt",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/common-words/lesson.txt",
+      "lessonTitle": "Common words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/drills/top-10000-english-words/lesson.txt",
+      "lessonTitle": "Top 10000 English words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+      "lessonTitle": "One-syllable words with diphthongs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+      "lessonTitle": "One-syllable words with vowel disambiguators",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+      "lessonTitle": "One-syllable words with digraphs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "One-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/lesson.txt",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/lesson.txt",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/pronouns/lesson.txt",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/lesson.txt",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/lesson.txt",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/lesson.txt",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/lesson.txt",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/calendar/lesson.txt",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/lesson.txt",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/homophones/lesson.txt",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/lesson.txt",
+      "lessonTitle": "Emotions",
+      "target": 104
+    },
+    {
+      "path": "/lessons/drills/time/lesson.txt",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/longest-words/lesson.txt",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+      "lessonTitle": "Project Gutenberg sentences using top 100 words",
+      "target": 193
+    }
+  ]
+}
