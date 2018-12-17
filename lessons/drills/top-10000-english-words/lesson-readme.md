@@ -323,7 +323,7 @@
 * him `HEUPL`
 * without `WOUT`
 * per `PER`
-* access `SESZ`
+* access `ABG/SES`
 * think `THEU`
 * north `TPHORT`
 * resources `RE/SORSZ`
@@ -3823,7 +3823,7 @@
 * wheels `WHAOELS`
 * sexcam `S*/*E/KP*/KR*/A*/PH*`
 * specify `SPEF`
-* accessibility `SEBLT`
+* accessibility `ABG/SES/-BLT`
 * Dutch `TKUFP`
 * sensitive `SEPBT/TEUF`
 * templates `TEPL/PHRAT/-S`
@@ -3866,7 +3866,7 @@
 * pearl `PERL`
 * accident `STKEPB`
 * nick `TPHEUBG`
-* accessible `SEBL`
+* accessible `ABG/SES/-BL`
 * accessory `SESZ/REU`
 * resident `REPBLT`
 * plot `PHROT`
@@ -4132,7 +4132,7 @@
 * aviation `AEUF/KWRAEUGS`
 * hobbies `HOB/EUS`
 * proud `PROUD`
-* excess `KPES`
+* excess `EBG/SES`
 * disaster `STKAS/TER`
 * console `KAUPB/SOEL`
 * commands `KPHAPBDZ`

@@ -20,9 +20,6 @@
 * accent `KP*EPBT`
 * acceptability `SEPBLT`
 * acceptance `S*EPS`
-* access `SESZ`
-* accessibility `SEBLT`
-* accessible `SEBL`
 * accidence `STKEPBS`
 * accident `STKEPB`
 * accidental `STKEPBL`

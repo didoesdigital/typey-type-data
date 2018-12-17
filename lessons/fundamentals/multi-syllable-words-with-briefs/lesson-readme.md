@@ -16,7 +16,6 @@
 * subject `SUBT`
 * even `AOEPB`
 * open `OEP`
-* access `SESZ`
 * account `K-T`
 * department `TK-PT`
 * country `KREU`

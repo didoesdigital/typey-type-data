@@ -9,7 +9,7 @@
 * community `KPHUPBT`
 * shipping `SHEUPG`
 * following `TPOLG`
-* access `SESZ`
+* access `ABG/SES`
 * current `KURPBT`
 * shopping `SHOPG`
 * account `K-T`
@@ -349,10 +349,10 @@
 * applicant `AP/KAPBT`
 * blogger `PWHRORG`
 * occurred `KROEURD`
-* accessibility `SEBLT`
+* accessibility `ABG/SES/-BLT`
 * anniversary `APB/SRERS/REU`
 * accident `STKEPB`
-* accessible `SEBL`
+* accessible `ABG/SES/-BL`
 * accessory `SESZ/REU`
 * possibly `POBL`
 * typically `TEUP/KHREU`
@@ -391,7 +391,7 @@
 * corresponding `KOERPBG`
 * Matthew `PH*T/AOU`
 * hobbies `HOB/EUS`
-* excess `KPES`
+* excess `EBG/SES`
 * commands `KPHAPBDZ`
 * telecommunications `T*EL/KAEUBGSZ`
 * approaches `A/PROEFPS`
