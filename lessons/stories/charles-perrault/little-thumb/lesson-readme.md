@@ -1139,7 +1139,7 @@
 * well-to-do, `WEL H-PB TO H-PB TKO KW-BG`
 * places `PHRAEUFS`
 * brothers; `PWROERS STPH*FPLT`
-* settled `S*ELTD`
+* settled `SELTD`
 * handsomely `HAPBD/SOPL/HREU`
 * mean `PHAOEPB`
 * rose `ROEZ`

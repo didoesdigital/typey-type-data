@@ -900,7 +900,7 @@
 * passive `PEUFS`
 * gazette `TKPWA/S*ET`
 * efficiently `TPAOERBL`
-* settle `S*ELT`
+* settle `SELT`
 * stopping `STOPG`
 * regression `RE/TKPWREGS`
 * passwords `PAS/WORD/-S`
@@ -1284,7 +1284,7 @@
 * sorrowful `SOR/ROEFL`
 * fuller `TPUL/*ER`
 * expressive `EG/PRES/EUF`
-* settling `SET/-LG`
+* settling `SELGT`
 * worthless `WO*RT/-L`
 * attentive `A/TEPBT/EUF`
 * Prussian `PRUGS`

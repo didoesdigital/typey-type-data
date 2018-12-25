@@ -608,7 +608,7 @@
 * claw, `KHRAU KW-BG`
 * sang: `SAPBG STPH-FPLT`
 * away, `A/WAEU KW-BG`
-* settled `S*ELTD`
+* settled `SELTD`
 * roof `RAOF`
 * shoemaker's `xxx shoemaker AES`
 * shoemaker `xxx shoemaker`

@@ -885,7 +885,7 @@
 * jul `SKWR*UL`
 * production `PROUBGS`
 * commercial `KPHERBL`
-* James `SKWRAEUPLZ`
+* James `SKWRAEUPLS`
 * weight `WAET`
 * town `TOUPB`
 * heart `HART`
@@ -1305,7 +1305,7 @@
 * therefore `TH-FR`
 * ass `A*S`
 * simply `SAO*EPL`
-* evidence `EFD`
+* evidence `*EFD`
 * station `STAEUGS`
 * Christian `KREUGS`
 * round `ROUPBD`
@@ -5299,7 +5299,7 @@
 * bachelor `PWAFP/HROR`
 * attitude `AT/TAOUD`
 * camcorders `KAPL/KORD/*ER/-S`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * falling `TPAULG`
 * basics `PWAEUFBGS`
 * Montreal `PHOPB/TRAL`
@@ -7876,7 +7876,7 @@
 * encouraging `EPB/KORPBLG/-G`
 * furnished `TPURPB/EURBD`
 * Monaco `PHOPB/KOE`
-* settled `S*ELTD`
+* settled `SELTD`
 * folding `TPOELGD`
 * emirates `EPL/RAEUT/-S`
 * terrorists `TER/REUFT/-S`
@@ -8622,7 +8622,7 @@
 * prerequisite `PR-R`
 * Luther `HRAO*UT/*ER`
 * frontier `TPROPB/TAOER`
-* settle `S*ELT`
+* settle `SELT`
 * stopping `STOPG`
 * refugees `REF/AOUPBLG/AOES`
 * knights `TPHAO*EUT/-S`

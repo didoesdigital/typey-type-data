@@ -523,7 +523,7 @@
 * day `TKAEU`
 * mountains `PHOUPB/TAEUPBS`
 * nuts; `TPHUTS STPH*FPLT`
-* settled `S*ELTD`
+* settled `SELTD`
 * found `TPOUPBD`
 * should `SHO`
 * shared `SHAEURD`

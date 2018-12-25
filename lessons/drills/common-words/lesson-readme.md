@@ -717,7 +717,7 @@
 * serious `SAOERS`
 * seriously `SAOERLS`
 * set `SET`
-* settle `S*ELT`
+* settle `SELT`
 * seven `SEFPB`
 * several `SEFRL`
 * shadow `SHO*EUD`

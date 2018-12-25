@@ -1331,7 +1331,7 @@
 * choose `KHAOS`
 * blessing `PWHR*EFG`
 * subjects, `SUBTS KW-BG`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * returned `RURPBD`
 * kingdom. `KEUPBG/TKOPL TP-PL`
 * "No `KR-GS KPA/TPHO`

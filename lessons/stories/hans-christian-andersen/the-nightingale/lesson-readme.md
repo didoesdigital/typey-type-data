@@ -793,7 +793,7 @@
 * chief `KHAOEF`
 * lord `HRORD`
 * sung, `SUPBG KW-BG`
-* settled. `S*ELTD TP-PL`
+* settled. `SELTD TP-PL`
 * opened `OEPD`
 * explained, `SPHRAEUPBD KW-BG`
 * understand `URPBD`

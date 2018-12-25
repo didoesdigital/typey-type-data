@@ -360,7 +360,7 @@
 * holidays. `HOL/TKAEUS TP-PL`
 * "If `KR-GS KPA/TP`
 * world `WORLD`
-* settled," `S*ELTD KW-BG KR-GS`
+* settled," `SELTD KW-BG KR-GS`
 * he: `HE STPH-FPLT`
 * "but `KR-GS PWUT`
 * sometimes `STAOEUPLS`

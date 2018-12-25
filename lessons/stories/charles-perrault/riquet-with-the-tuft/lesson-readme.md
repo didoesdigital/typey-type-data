@@ -147,7 +147,7 @@
 * were `WR`
 * afraid `A/TPRAEUD`
 * her `HER`
-* excess `KPES`
+* excess `EBG/SES`
 * joy `SKWROEU`
 * do `TKO`
 * harm. `HARPL TP-PL`

@@ -447,7 +447,7 @@
 * lovely `HROFL`
 * girl, `TKPWEURL KW-BG`
 * yet `KWRET`
-* engaged. `EPB/TKPWAEUBLG/-D TP-PL`
+* engaged. `EPB/TKPWAEUBLGD TP-PL`
 * lap `HRAP`
 * girl `TKPWEURL`
 * family `TPAEPL`
@@ -1113,7 +1113,7 @@
 * assembled `A/SEPL/-BLD`
 * sight; `SAOEUT STPH*FPLT`
 * military `PHEUL/TAER`
-* engaged, `EPB/TKPWAEUBLG/-D KW-BG`
+* engaged, `EPB/TKPWAEUBLGD KW-BG`
 * preparations `PREPGS/-S`
 * made. `PHAED TP-PL`
 * saw `SAU`

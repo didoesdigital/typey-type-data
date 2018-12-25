@@ -1199,7 +1199,7 @@
 * front `TPROPBT`
 * gate, `TKPWAET KW-BG`
 * garden." `TKPWA*RPB TP-PL KR-GS`
-* settled `S*ELTD`
+* settled `SELTD`
 * SATURDAY `*URP/SAET`
 * "Am `KR-GS KPA/APL`
 * stories?" `STOERS H-F KR-GS`

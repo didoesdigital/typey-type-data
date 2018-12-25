@@ -4667,8 +4667,8 @@
 * serving `SEFRBG`
 * session `SEGS`
 * setting `SEGT`
-* settle `S*ELT`
-* settled `S*ELTD`
+* settle `SELT`
+* settled `SELTD`
 * setup `STUP`
 * seven `SEFPB`
 * seventeen `STPAOEPB`

@@ -1041,7 +1041,7 @@
 * spite `SPAOEUT`
 * shown `SHOEPB`
 * directly `TKREL`
-* James `SKWRAEUPLZ`
+* James `SKWRAEUPLS`
 * Hart `HA*RT`
 * serious `SAOERS`
 * hat `HAT`
@@ -1105,7 +1105,7 @@
 * glory `TKPWHROER`
 * twelve `TWEFL`
 * space `SPAEUS`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * Peter `PAOERT`
 * wine `WAOEUPB`
 * ordinary `OERD`
@@ -1176,7 +1176,7 @@
 * powers `POURS`
 * possessed `POS/ES/-D`
 * thrown `THROEPB`
-* evidence `EFD`
+* evidence `*EFD`
 * distant `STKAPBT`
 * Michael `PHAOEUBG/*L`
 * progress `PROG`
@@ -1188,7 +1188,7 @@
 * particularly `PHRARL`
 * knowing `TPHOEG`
 * weeks `WAOEBGS`
-* settled `S*ELTD`
+* settled `SELTD`
 * holding `HOELGD`
 * mountain `PHOUPB/TAEUPB`
 * search `SEFRPB`
@@ -2692,7 +2692,7 @@
 * leaning `HRAOEPBG`
 * capacity `KPAFT`
 * Joe `SKWROE`
-* settle `S*ELT`
+* settle `SELT`
 * referred `REFRD`
 * Francis `TPRAPB/EUS`
 * holder `HOERLD`
@@ -6361,7 +6361,7 @@
 * rash `RARB`
 * margin `PHARPB`
 * champion `KHAPL/KWROPB`
-* settling `SET/-LG`
+* settling `SELGT`
 * billion `PWOEUPB`
 * shorter `SHORT/*ER`
 * betwixt `PWE/TWEUGT`

@@ -676,7 +676,7 @@
 * story, `STOER KW-BG`
 * lake `HRAEUBG`
 * yonder, `KWROPBD/ER KW-BG`
-* evidence `EFD`
+* evidence `*EFD`
 * Yes, `KPA/KWRE KW-BG`
 * return `RURPB`
 * again! `TKPWEPB SKHRAPL`
@@ -1312,7 +1312,7 @@
 * Will-o'the-Wisps. `W*EUL H-PB O* AE -T H-PB KPA/WEUS/-PS TP-PL`
 * "And `KR-GS AFPBD`
 * affair `A/TPAEUR`
-* settled. `S*ELTD TP-PL`
+* settled. `SELTD TP-PL`
 * ball `PWAUL`
 * given, `TKPWEUFPB KW-BG`
 * long; `HROPBG STPH*FPLT`

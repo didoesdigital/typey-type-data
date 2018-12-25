@@ -535,7 +535,7 @@
 * it; `T STPH*FPLT`
 * princess `PREUPB/ES`
 * her; `HER STPH*FPLT`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * wait `WAEUT`
 * year, `KWRAOER KW-BG`
 * kingdom. `KEUPBG/TKOPL TP-PL`

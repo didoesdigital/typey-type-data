@@ -272,14 +272,14 @@
 * have, `SR KW-BG`
 * lady. `HRA*ED TP-PL`
 * Have `KPA/SR`
-* engaged?" `EPB/TKPWAEUBLG/-D H-F KR-GS`
+* engaged?" `EPB/TKPWAEUBLGD H-F KR-GS`
 * might `PHAOEUT`
 * it," `T KW-BG KR-GS`
 * answered `AEPBS/-D`
 * brush; `PWRURB STPH*FPLT`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * boot-jack." `PWAOT H-PB SKWRABG TP-PL KR-GS`
-* "Engaged!" `KR-GS KPA/EPB/TKPWAEUBLG/-D SKHRAPL KR-GS`
+* "Engaged!" `KR-GS KPA/EPB/TKPWAEUBLGD SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * "now `KR-GS TPHOU`
 * there `THR`

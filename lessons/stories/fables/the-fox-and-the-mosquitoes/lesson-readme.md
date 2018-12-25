@@ -21,7 +21,7 @@
 * Mosquitoes `KPA/PHOFBG/TOES`
 * seeing `SAOEG`
 * plight `PHRAOEUGT`
-* settled `S*ELTD`
+* settled `SELTD`
 * upon `POPB`
 * it `T`
 * enjoyed `EPB/SKWROEUD`

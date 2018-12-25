@@ -386,7 +386,7 @@
 * answer. `AEPBS TP-PL`
 * pleasing `PHRAOEFG`
 * convinced `KWEUPBS/-D`
-* settled `S*ELTD`
+* settled `SELTD`
 * matter `PHAERT`
 * by `PWEU`
 * reply; `RE/PHREU STPH*FPLT`

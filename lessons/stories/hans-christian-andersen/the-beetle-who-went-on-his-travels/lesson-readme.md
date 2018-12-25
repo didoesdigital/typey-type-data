@@ -507,7 +507,7 @@
 * "Our `KR-GS KPA/OUR`
 * dear `TKAER`
 * son `SOPB`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * himself," `H*EUPLS KW-BG KR-GS`
 * mother, `PHOER KW-BG`
 * "dear `KR-GS TKAER`
@@ -712,7 +712,7 @@
 * serious, `SAOERS KW-BG`
 * our `OUR`
 * friend `TPREPBD`
-* engaged. `EPB/TKPWAEUBLG/-D TP-PL`
+* engaged. `EPB/TKPWAEUBLGD TP-PL`
 * gave `TKPWAEUF`
 * blessing, `PWHR*EFG KW-BG`
 * beetles `PWAOET/-LS`

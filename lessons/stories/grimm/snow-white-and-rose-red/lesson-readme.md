@@ -742,7 +742,7 @@
 * lower `HROUR`
 * lower, `HROUR KW-BG`
 * last `HRAFT`
-* settled `S*ELTD`
+* settled `SELTD`
 * far `TPAR`
 * away. `A/WAEU TP-PL`
 * Immediately `KPA/PHAOELD`

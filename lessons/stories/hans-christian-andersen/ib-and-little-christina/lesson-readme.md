@@ -985,7 +985,7 @@
 * childhood `KHAOEULD/H*D`
 * betrothed? `PWE/TRO*T/-D H-F`
 * To `KPA/TO`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * other, `OER KW-BG`
 * word `WORD`
 * spoken `SPOEPB`
@@ -1281,7 +1281,7 @@
 * hundred `HUPBD`
 * dollars. `TKHRARS TP-PL`
 * city. `STEU TP-PL`
-* settled `S*ELTD`
+* settled `SELTD`
 * captain `KAPT`
 * passage-boat, `PAFPBLG H-PB PWOET KW-BG`
 * streets, `STRAOETS KW-BG`

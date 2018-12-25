@@ -920,7 +920,7 @@
 * boys, `PWOEUS KW-BG`
 * whose `WHOZ`
 * names `TPHAEUPLS`
-* James `SKWRAEUPLZ`
+* James `SKWRAEUPLS`
 * Adolphus. `A/TKOFL/SKWRUS TP-PL`
 * Their `KPA/THAEUR`
 * given `TKPWEUFPB`

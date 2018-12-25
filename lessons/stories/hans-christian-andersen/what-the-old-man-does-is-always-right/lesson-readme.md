@@ -290,7 +290,7 @@
 * Accordingly `KPA/A/KORD/TKPWHREU`
 * made; `PHAED STPH*FPLT`
 * matter `PHAERT`
-* settled, `S*ELTD KW-BG`
+* settled, `SELTD KW-BG`
 * turned `TURPBD`
 * back; `PWABG STPH*FPLT`
 * done `TKOPB`

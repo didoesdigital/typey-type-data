@@ -80,7 +80,7 @@
 * say `SAEU`
 * now? `TPHOU H-F`
 * Shall `KPA/SHAL`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * each `AOEFP`
 * other? `OER H-F`
 * We `KPA/WE`
@@ -178,7 +178,7 @@
 * good `TKPWAOD`
 * being `-BG`
 * half `HAF`
-* engaged; `EPB/TKPWAEUBLG/-D STPH*FPLT`
+* engaged; `EPB/TKPWAEUBLGD STPH*FPLT`
 * will `HR`
 * promise `PROPLS`
 * forget `TPERGT`

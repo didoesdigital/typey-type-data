@@ -537,7 +537,7 @@
 * 'One `AE KPA/WUPB`
 * marry `PHAER`
 * her, `HER KW-BG`
-* settle `S*ELT`
+* settle `SELT`
 * amongst `PHOPBGS`
 * yourselves `KWRO*URSZ`
 * be.' `-B TP-PL AE`

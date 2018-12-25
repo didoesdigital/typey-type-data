@@ -330,7 +330,6 @@
 * median `PHAOED/KWRAPB`
 * animated `APB/PHAEUT/-D`
 * attitude `AT/TAOUD`
-* engaged `EPB/TKPWAEUBLG/-D`
 * binary `PWAOEUPB/REU`
 * attended `A/TEPBD/-D`
 * collective `KHREBT/EUF`

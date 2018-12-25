@@ -186,7 +186,7 @@
 * if `TP`
 * dying `TKAOEUG`
 * hunger, `HURPBG KW-BG`
-* settled `S*ELTD`
+* settled `SELTD`
 * whether `WHR`
 * respectable `R-PT/-BL`
 * children `KHEURPB`
@@ -349,7 +349,7 @@
 * But `KPA/PWUT`
 * hornet, `HORPBT KW-BG`
 * orders `ORDZ`
-* settle `S*ELT`
+* settle `SELT`
 * fox's `TPOBGS AES`
 * sting `STEUPBG`
 * might. `PHAOEUT TP-PL`

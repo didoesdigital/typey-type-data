@@ -16,7 +16,7 @@
 * its `EUTS`
 * beak `PWAOEBG`
 * and `SKP`
-* settle `S*ELT`
+* settle `SELT`
 * on `OPB`
 * branch `PWRAFRPB`
 * tree. `TRAOE TP-PL`

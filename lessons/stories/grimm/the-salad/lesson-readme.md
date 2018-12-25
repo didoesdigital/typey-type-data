@@ -483,7 +483,7 @@
 * bore `PWOR`
 * time, `TAOEUPL KW-BG`
 * till `TEUL`
-* settled `S*ELTD`
+* settled `SELTD`
 * garden, `TKPWA*RPB KW-BG`
 * quite `KWAOEUT`
 * gently `SKWREPBT/HREU`

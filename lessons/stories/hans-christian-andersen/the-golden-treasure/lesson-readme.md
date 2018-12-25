@@ -900,7 +900,7 @@
 * piece `PAOES`
 * news. `TPHUS TP-PL`
 * Burgomaster's `xxx Burgomaster AES`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUBLGD`
 * herself `H*ERS`
 * son; `SOPB STPH*FPLT`
 * betrothal `PWE/TRO/THAL`

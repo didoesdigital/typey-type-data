@@ -100,7 +100,7 @@
 * Alexis `AL/EBGS/EUS`
 * Tiffany `TEUF/TPHEU`
 * Kayla `KAEUL/KWRA`
-* James `SKWRAEUPLZ`
+* James `SKWRAEUPLS`
 * John `SKWROPB`
 * Robert `ROBT`
 * Michael `PHAOEUBG/*L`

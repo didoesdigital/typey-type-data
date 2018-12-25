@@ -406,7 +406,7 @@
 * sort `SORT`
 * drawn `TKRAUPB`
 * battle `PWA*LT`
-* settled `S*ELTD`
+* settled `SELTD`
 * put `PUT`
 * open `OEP`
 * boat, `PWOET KW-BG`
