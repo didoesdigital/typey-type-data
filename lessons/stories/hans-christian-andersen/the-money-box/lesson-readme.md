@@ -175,7 +175,7 @@
 * moon `PHAOPB`
 * shone `SHO*EPB`
 * through `THRU`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * light `HRAOEUT`
 * cheap `KHAEP`
 * rate. `RAEUT TP-PL`

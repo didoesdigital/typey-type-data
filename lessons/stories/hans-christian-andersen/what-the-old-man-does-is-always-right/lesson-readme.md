@@ -73,7 +73,7 @@
 * house `HOUS`
 * are `R`
 * sloping, `SHROEPG KW-BG`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * low, `HROE KW-BG`
 * only `OEPBL`
 * one `WUPB`
@@ -94,7 +94,7 @@
 * palings; `xxx palings STPH*FPLT`
 * beneath `TPHAO*ET`
 * its `EUTS`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * at `AT`
 * foot `TPAOT`
 * paling, `PAL/-G KW-BG`
@@ -606,7 +606,7 @@
 * coined `KOEUPBD`
 * gold, `TKPWOELD KW-BG`
 * hundred `HUPBD`
-* pounds `POUPBZ`
+* pounds `POUPBDZ`
 * hundred-weight." `HUPBD H-PB WAET TP-PL KR-GS`
 * "No; `KR-GS KPA/TPHO STPH*FPLT`
 * bushel `PWURB/EL`

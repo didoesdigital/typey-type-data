@@ -22,7 +22,7 @@
 * thread `THRED`
 * things `THEUPBGS`
 * young `KWRUPBG`
-* changes `KHAEUPGS`
+* changes `KHAEUPBGS`
 * range `RAEUPBG`
 * child `KHAOEULD`
 * share `SHAEUR`
@@ -99,7 +99,6 @@
 * showed `SHOED`
 * threads `THREDZ`
 * dish `TKEURB`
-* charged `KHARPBLD`
 * push `PURB`
 * shell `SHEL`
 * catch `KAFP`
@@ -155,7 +154,6 @@
 * chase `KHAEUS`
 * shaped `SHAEUPD`
 * charm `KHARPL`
-* branches `PWRAFPBS`
 * lung `HRUPBG`
 * watched `WAFPD`
 * wishes `WEURBS`
@@ -167,7 +165,7 @@
 * pitch `PEUFP`
 * chef `KHEF`
 * chuck `KHUBG`
-* lang `HRAPBG`
+* Lang `HRAPBG`
 * ranges `RAEUPBGS`
 * chose `KHOES`
 * shield `SHAOELD`
@@ -188,7 +186,6 @@
 * coaches `KOEFPS`
 * throws `THROES`
 * scratch `SKRAFP`
-* launches `HRAUFPBS`
 * Welsh `WERB`
 * cheers `KHAOERS`
 * thumb `THUPL`
@@ -203,7 +200,6 @@
 * sheer `SHAOER`
 * wang `WAPBG`
 * witch `WEUFP`
-* chen `KHEPB`
 * speeches `SPAOEFPS`
 * reaches `RAOEFPS`
 * pushed `PURBD`
@@ -219,10 +215,9 @@
 * hash `HARB`
 * flush `TPHRURB`
 * teaches `TAOEFPS`
-* yang `KWRAPBG`
+* Yang `KWRAPBG`
 * switched `SWEUFPD`
 * choir `KHOEUR`
-* cho `KHO`
 * shades `SHAEUDZ`
 * touched `TUFPD`
 * wished `WEURBD`
@@ -236,7 +231,7 @@
 * thrust `THRUFT`
 * flung `TPHRUPBG`
 * thence `THEPBS`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * sang `SAPBG`
 * rang `RAPBG`
 * they're `THER`

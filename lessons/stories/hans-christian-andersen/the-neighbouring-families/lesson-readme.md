@@ -1076,7 +1076,7 @@
 * laden `HRA*ED/-PB`
 * apples `APLS`
 * pottery. `POT/REU TP-PL`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * broader `PWRAORD`
 * bottom `PWOPLT`
 * top, `TOP KW-BG`
@@ -1114,7 +1114,7 @@
 * extremely `KPRAOEPL`
 * fine. `TPAOEUPB TP-PL`
 * Palms `KPA/PAPLS`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * walls, `WAULS KW-BG`
 * court `KORT`
 * rose-tree `ROEZ H-PB TRAOE`

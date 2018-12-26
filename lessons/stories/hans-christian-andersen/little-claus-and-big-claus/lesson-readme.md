@@ -247,7 +247,7 @@
 * farmhouse. `TPARPL/HOUS TP-PL`
 * shutters `SHUT/ERS`
 * outside `OUDZ`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * closed, `KHROEFD KW-BG`
 * lights `HRAOEUTS`
 * crevices `KREFS/-S`

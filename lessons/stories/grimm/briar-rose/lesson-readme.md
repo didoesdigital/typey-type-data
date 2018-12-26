@@ -452,7 +452,7 @@
 * stuck `STUBG`
 * fast, `TPAFT KW-BG`
 * died `TKAOEUD`
-* wretchedly. `KREFPD/HREU TP-PL`
+* wretchedly. `WREFPD/HREU TP-PL`
 * After `KPA/AF`
 * many, `PHAEPB KW-BG`
 * son `SOPB`

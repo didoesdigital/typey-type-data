@@ -388,7 +388,7 @@
 * eagerly `AOERLG`
 * it. `T TP-PL`
 * topmost `TOP/PHO*ES`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * wood-pigeon `WAOD H-PB PEUGS`
 * built `PWEULT`
 * nest, `TPHEFT KW-BG`
@@ -471,7 +471,7 @@
 * sunbeams `SUPB/PWAOEPL/-S`
 * played `PHRAEUD`
 * among `PHOPBG`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * air `AEUR`
 * herb `ERB`
 * blossom; `PWHROFPL STPH*FPLT`
@@ -572,7 +572,7 @@
 * leaf, `HRAOEF KW-BG`
 * rising `RAOEUFG`
 * highest `HAOEU/EFT`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * itself `T/SEF`
 * stretching `STREFPG`
 * out, `OUT KW-BG`

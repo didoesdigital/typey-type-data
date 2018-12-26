@@ -358,7 +358,7 @@
 * blame.' `PWHRAEUPL TP-PL AE`
 * sitting `SEUGT`
 * amongst `PHOPBGS`
-* branches; `PWRAFPBS STPH*FPLT`
+* branches; `PWRAFRPBS STPH*FPLT`
 * cowardly `KOURD/HREU`
 * rascal, `RAS/K-L KW-BG`
 * suffer `SUFR`

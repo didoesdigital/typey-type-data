@@ -978,7 +978,7 @@
 * noble `TPHOEBL`
 * dignified `TKEUG/TPHEU/TPAOEUD`
 * mien, `PH*/*EU/*E/TPH* KW-BG`
-* divinity. `TKWEPBT TP-PL`
+* divinity. `TKWEUPBT TP-PL`
 * impetuosity `xxx impetuosity`
 * feelings `TPAOELGS`
 * force `TPORS`
@@ -1417,7 +1417,7 @@
 * opened, `OEPD KW-BG`
 * descended `TKAOE/SEPBD/-D`
 * chariot `KHAEUR/KWROT`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * charm, `KHARPL KW-BG`
 * Princess's `KPA/PREUPB/ES AES`
 * story. `STOER TP-PL`

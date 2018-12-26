@@ -573,7 +573,7 @@
 * built `PWEULT`
 * covered `KOFRD`
 * cakes, `KAEUBG/-S KW-BG`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * clear `KHRAOER`
 * sugar. `SHURG TP-PL`
 * that,' `THA KW-BG AE`

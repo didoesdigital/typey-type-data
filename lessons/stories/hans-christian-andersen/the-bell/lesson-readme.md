@@ -142,7 +142,7 @@
 * up `UP`
 * into `TPHAO`
 * great `TKPWRAET`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * thought `THAUT`
 * now `TPHOU`
 * confectioner `KAUPB/TPEBGS/*ER`
@@ -457,7 +457,7 @@
 * hut `HUT`
 * built `PWEULT`
 * bark `PWARBG`
-* branches; `PWRAFPBS STPH*FPLT`
+* branches; `PWRAFRPBS STPH*FPLT`
 * crab-apple `KRAB H-PB A*EPL`
 * spread `SPRED`
 * intended `SPWEPBD/-D`

@@ -46,6 +46,7 @@
 * judges `SKWRUPBLGS`
 * ranch `RAFRPB`
 * drunk `TKR*UPBG`
+* branches `PWRAFRPBS`
 * bunch `PWUFRPB`
 * arch `AFRPB`
 * gauge `TKPWAUPBLG`
@@ -58,6 +59,7 @@
 * edges `EPBLGS`
 * sage `SAEUPBLG`
 * searched `SEFRPBD`
+* launches `HRAUFRPBS`
 * ranks `RA*PBGS`
 * punch `PUFRPB`
 * funk `TP*UPBG`

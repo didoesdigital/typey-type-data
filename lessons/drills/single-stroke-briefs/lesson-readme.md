@@ -953,7 +953,7 @@
 * characterize `KRARZ`
 * chard `KHARD`
 * charge `KHARPBLG`
-* charged `KHARPBLD`
+* charged `KHARPBLGD`
 * charitable `KHAEURBL`
 * charity `KHAEURT`
 * charm `KHARPL`
@@ -2019,7 +2019,7 @@
 * dividing `TKWAOEUGD`
 * divine `TKWAOEUPB`
 * diving `TKAOEUFG`
-* divinity `TKWEPBT`
+* divinity `TKWEUPBT`
 * divorce `TKWORS`
 * divot `TKEUFT`
 * divulge `TKWULG`

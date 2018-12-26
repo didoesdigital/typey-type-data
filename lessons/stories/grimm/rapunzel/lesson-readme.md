@@ -517,7 +517,7 @@
 * boy `PWOEU`
 * girl, `TKPWEURL KW-BG`
 * lived `HREUFD`
-* wretchedness. `KREFPD/-PBS TP-PL`
+* wretchedness. `WREFPD/-PBS TP-PL`
 * voice, `SROEUS KW-BG`
 * seemed `SAOEPLD`
 * familiar `TPAPL`

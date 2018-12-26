@@ -47,7 +47,7 @@
 * down `TKOUPB`
 * before `PW-F`
 * open `OEP`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * without `WOUT`
 * moon `PHAOPB`
 * shone `SHO*EPB`
@@ -236,7 +236,7 @@
 * steep `STAOEP`
 * steps, `STEPS KW-BG`
 * front `TPROPBT`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * linden-tree `xxx linden H-PB TRAOE`
 * waving `WAFG`
 * above `PWOF`

@@ -284,7 +284,7 @@
 * work `WORBG`
 * God, `TKPWO*D KW-BG`
 * bent `PWEPBT`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * that `THA`
 * might `PHAOEUT`
 * examine `KP`

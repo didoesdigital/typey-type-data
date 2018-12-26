@@ -851,7 +851,7 @@
 * trees, `TRAOES KW-BG`
 * thickly `THEUBG/HREU`
 * entwined `EPB/TWAOEUPB/-D`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * naked `TPHAEUBGD`
 * negroes `TPHAOE/TKPWROE/-S`
 * horseback, `HORS/PWABG KW-BG`

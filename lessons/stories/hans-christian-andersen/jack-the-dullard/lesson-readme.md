@@ -474,7 +474,7 @@
 * castle, `KAFL KW-BG`
 * almost `HR-PL`
 * under `TPH-PB`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * receive `SAOEF`
 * suitors; `SAOU/TOR/-S STPH*FPLT`
 * stepped `STEPD`

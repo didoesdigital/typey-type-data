@@ -144,7 +144,7 @@
 * cried `KRAOEUD`
 * bear; `PWAER STPH*FPLT`
 * 'it `AE T`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * are `R`
 * King's `KO*EUPBG AES`
 * children, `KHEURPB KW-BG`

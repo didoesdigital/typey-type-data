@@ -280,7 +280,7 @@
 * men `PHEPB`
 * neighborhood `TPHAOD`
 * collecting `KHREBGT/-G`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * brushwood `xxx brushwood`
 * under `TPH-PB`
 * oak-trees. `OEBG H-PB TRAOES TP-PL`
@@ -1220,7 +1220,7 @@
 * drops `TKROPS`
 * berries `PWER/KWREUS`
 * leafless `xxx leafless`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * back `PWABG`
 * fresh `TPRERB`
 * spirits, `SPEURTS KW-BG`
@@ -1245,7 +1245,7 @@
 * contained, `TAEUPBD KW-BG`
 * pocket. `POBGT TP-PL`
 * rattled `RAT/-LD`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * beat `PWAET`
 * against `TKPWEPBS`
 * rotten `ROT/EPB`
@@ -1510,7 +1510,7 @@
 * die.' `TKAOEU TP-PL AE`
 * Dorothea's `xxx Dorothea AES`
 * prayer `PRAEUR`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * standing `STAPBG`
 * took `TAOBG`
 * pity `PEUT/TEU`

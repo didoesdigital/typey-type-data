@@ -318,7 +318,7 @@
 * snored `STPHAUR/-D`
 * so `SO`
 * loud `HROUD`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * shook. `SHAOBG TP-PL`
 * looked `HRAOBGD`
 * side `SAOEUD`

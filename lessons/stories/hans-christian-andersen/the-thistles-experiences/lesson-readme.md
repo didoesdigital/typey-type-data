@@ -293,7 +293,7 @@
 * rooms `RAOPLS`
 * house, `HOUS KW-BG`
 * doors `TKAORS`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * open, `OEP KW-BG`
 * gentleman `SKWRA*PL`
 * received `SAOEFD`

@@ -300,7 +300,7 @@
 * time, `TAOEUPL KW-BG`
 * icicles `AOEUS/K*L`
 * hung `HUPBG`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * "Have `KR-GS KPA/SR`
 * seen `SAOEPB`
 * go `TKPW`

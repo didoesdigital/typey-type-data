@@ -102,7 +102,7 @@
 * sorry `SOER`
 * garret, `TKPWAEUR/RET KW-BG`
 * upon `POPB`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * straw-bed, `STRAU H-PB PWED KW-BG`
 * while `WHAOEUL`
 * sisters `ST-RS`

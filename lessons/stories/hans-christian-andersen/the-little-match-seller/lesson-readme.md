@@ -329,11 +329,11 @@
 * Thousands `KPA/THOEUPBS`
 * tapers `TAEURPS`
 * green `TKPWRAOEPB`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * colored `KHRORD`
 * pictures, `P*EUFPS KW-BG`
 * those `THOZ`
-* show-windows, `SHOE H-PB WO*EUPBDZ KW-BG`
+* show-windows, `SHOE H-PB WOEUPBDZ KW-BG`
 * all. `AUL TP-PL`
 * towards `TORDZ`
 * out. `OUT TP-PL`

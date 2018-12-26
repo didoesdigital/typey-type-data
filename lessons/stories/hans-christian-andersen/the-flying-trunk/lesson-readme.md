@@ -205,7 +205,7 @@
 * castle `KAFL`
 * near `TPHAOER`
 * town, `TOUPB KW-BG`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * placed `PHRAEUFD`
 * high?" `HAOEU H-F KR-GS`
 * "The `KR-GS KPA/-T`
@@ -466,7 +466,7 @@
 * round `ROUPBD`
 * world `WORLD`
 * will. `HR TP-PL`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * taken `TAEPB`
 * different `TKEUFRT`
 * places, `PHRAEUFS KW-BG`

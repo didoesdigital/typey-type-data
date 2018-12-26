@@ -344,7 +344,7 @@
 * stretched `STREFPD`
 * out `OUT`
 * bare `PWAEUR`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * if `TP`
 * turned `TURPBD`
 * up `UP`
@@ -363,7 +363,7 @@
 * fibres `TPAOEURBS/A*U`
 * bottom `PWOPLT`
 * tops `TOPS`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * above `PWOF`
 * looked `HRAOBGD`
 * woody `WAO/TKEU`
@@ -1295,7 +1295,7 @@
 * Not `KPA/TPHOT`
 * creature `KRAOEFP`
 * seen. `SAOEPB TP-PL`
-* wretched-looking `KREFPD H-PB HRAOG`
+* wretched-looking `WREFPD H-PB HRAOG`
 * houses, `HO*UFS KW-BG`
 * tell `TEL`
 * wanted; `WAPBTD STPH*FPLT`
@@ -1318,7 +1318,7 @@
 * remembered `RERD`
 * childhood. `KHAOEULD/H*D TP-PL`
 * followed `TPOLD`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * ascended `A/SEPBD/-D`
 * narrow, `TPHO*EUR KW-BG`
 * crazy `KRAEZ`

@@ -97,7 +97,7 @@
 * house, `HOUS KW-BG`
 * watching `WAFBG`
 * lighted `HRAOEUT/-D`
-* windows; `WO*EUPBDZ STPH*FPLT`
+* windows; `WOEUPBDZ STPH*FPLT`
 * watchman `WAFP/PHAPB`
 * might `PHAOEUT`
 * easily `AOELS`

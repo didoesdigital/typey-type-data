@@ -18,7 +18,7 @@
 * through `THRU`
 * streets `STRAOETS`
 * lanes; `HRAEPBS STPH*FPLT`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * were `WR`
 * plastered `PHRAFT/ERD`
 * with `W`
@@ -979,7 +979,7 @@
 * scythes `SKRAOEUT/-S`
 * reapers `xxx reapers`
 * corn-fields, `KORPB H-PB TPAOELDZ KW-BG`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * apple-trees `A*EPL H-PB TRAOES`
 * bent `PWEPBT`
 * low, `HROE KW-BG`
@@ -1245,7 +1245,7 @@
 * hoar `HAOR`
 * frost, `TPROS KW-BG`
 * shook `SHAOBG`
-* branches,—and `PWRAFPBS KW-BG EPL/TKA*RB SKP`
+* branches,—and `PWRAFRPBS KW-BG EPL/TKA*RB SKP`
 * dream `TKRAOEPL`
 * "Spring!" `KR-GS KPA/SPREUPBG SKHRAPL KR-GS`
 * Again `KPA/TKPWEPB`

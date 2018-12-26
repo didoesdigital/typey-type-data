@@ -131,7 +131,7 @@
 * inwards. `EUPB/WARD/-S TP-PL`
 * There `KPA/THR`
 * doors `TKAORS`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * house, `HOUS KW-BG`
 * cut `KUT`
 * body `PWO*ED`

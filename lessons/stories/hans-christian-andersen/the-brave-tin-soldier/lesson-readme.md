@@ -113,7 +113,7 @@
 * castle. `KAFL TP-PL`
 * Through `KPA/THRU`
 * small `SPHAL`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * rooms `RAOPLS`
 * could `KO`
 * seen. `SAOEPB TP-PL`

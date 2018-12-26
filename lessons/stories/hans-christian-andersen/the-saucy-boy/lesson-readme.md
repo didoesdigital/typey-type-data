@@ -82,7 +82,7 @@
 * wind `WEUPBD`
 * rattling `RAT/-LG`
 * all `AUL`
-* windows. `WO*EUPBDZ TP-PL`
+* windows. `WOEUPBDZ TP-PL`
 * "Poor `KR-GS KPA/PAOR`
 * creature!" `KRAOEFP SKHRAPL KR-GS`
 * said `SAEUD`

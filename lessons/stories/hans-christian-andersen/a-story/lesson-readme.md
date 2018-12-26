@@ -704,7 +704,7 @@
 * changed. `KHAEUPBGD TP-PL`
 * rich `REUFP`
 * halls `HAULS`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * hovels; `HOFL/-S STPH*FPLT`
 * wantonness `WAPB/TO*PB/-PBS`
 * envy, `EPB/SREU KW-BG`

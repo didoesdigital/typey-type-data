@@ -52,7 +52,7 @@
 * turtle-dove `TURLT H-PB TKOF`
 * flew `TPHRAOU`
 * among `PHOPBG`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * tall `TAUL`
 * trees, `TRAOES KW-BG`
 * and `SKP`

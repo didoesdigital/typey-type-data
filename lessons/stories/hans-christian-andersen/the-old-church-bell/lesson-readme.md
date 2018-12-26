@@ -69,7 +69,7 @@
 * still `STEUL`
 * hung `HUPBG`
 * upon `POPB`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * vines, `SRAOEUPBS KW-BG`
 * but `PWUT`
 * they `THE`
@@ -120,7 +120,7 @@
 * faced `TPAEUFD`
 * street, `STRAOET KW-BG`
 * narrow `TPHO*EUR`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * presented `PREPBTD`
 * a `AEU`
 * very `SRE`
@@ -625,7 +625,7 @@
 * weeks `WAOEBGS`
 * months, `PHO*PBTS KW-BG`
 * lay `HRAEU`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * road-side `RAOD H-PB SAOEUD`
 * inn, `TPH*PB KW-BG`
 * landlord `HR-LD`

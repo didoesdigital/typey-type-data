@@ -245,7 +245,7 @@
 * tree, `TRAOE KW-BG`
 * stretched `STREFPD`
 * its `EUTS`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * bed `PWED`
 * pushed `PURBD`
 * curtains `KUR/TEUPBS`
@@ -351,7 +351,7 @@
 * "'Yes,' `KR-GS AE KPA/KWRE KW-BG AE`
 * woman, `WOPL KW-BG`
 * well; `WEL STPH*FPLT`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * them, `THEPL KW-BG`
 * branch, `PWRAFRPB KW-BG`
 * took `TAOBG`

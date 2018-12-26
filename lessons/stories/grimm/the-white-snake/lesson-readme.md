@@ -608,7 +608,7 @@
 * tree `TRAOE`
 * sleep. `SHRAOEP TP-PL`
 * rustling `RUS/-LG`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * golden `TKPWOELD/*EPB`
 * hand. `HAPBD TP-PL`
 * At `KPA/AT`

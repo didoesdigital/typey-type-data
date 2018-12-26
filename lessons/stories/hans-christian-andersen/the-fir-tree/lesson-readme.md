@@ -112,7 +112,7 @@
 * spread `SPRED`
 * out `OUT`
 * my `PHEU`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * side, `SAOEUD KW-BG`
 * top `TOP`
 * over-look `OEFR H-PB HRAOBG`
@@ -328,7 +328,7 @@
 * chosen `KHOEFPB`
 * beauty, `PWAOUT KW-BG`
 * kept `KEPT`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * also `HR-S`
 * laid `HRAEUD`
 * wagons `WAG/OPBS`
@@ -350,7 +350,7 @@
 * sparrows; `SPAEUR/ROE/-S STPH*FPLT`
 * "we `KR-GS WE`
 * at `AT`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * houses `HO*UFS`
 * town, `TOUPB KW-BG`
 * done `TKOPB`
@@ -562,7 +562,7 @@
 * blue, `PWHRU KW-BG`
 * tapers, `TAEURPS KW-BG`
 * fastened `TPAS/-PBD`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * Dolls, `KPA/TKOLS KW-BG`
 * exactly `ELG`
 * real `RAEL`
@@ -1012,7 +1012,7 @@
 * meant. `PHEPBT TP-PL`
 * live," `HREUF KW-BG KR-GS`
 * spreading `SPREGD`
-* branches; `PWRAFPBS STPH*FPLT`
+* branches; `PWRAFRPBS STPH*FPLT`
 * alas! `A/HRAS SKHRAPL`
 * withered `WEU/THER/-D`
 * yellow, `KWREL/OE KW-BG`

@@ -293,7 +293,7 @@
 * cast `KAFT`
 * adrift. `A/TKREUFT TP-PL`
 * sea `SAE`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * vessel, `SREFL KW-BG`
 * helm, `HEL/-PL KW-BG`
 * skipper `SKEUP/ER`

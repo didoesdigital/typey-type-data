@@ -46,7 +46,7 @@
 * flutter `TPHRUT`
 * down `TKOUPB`
 * from `TPR`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * Below, `KPA/PWHRO KW-BG`
 * foot `TPAOT`
 * wall, `WAUL KW-BG`
@@ -78,7 +78,7 @@
 * narrow `TPHO*EUR`
 * loopholes `HRAOP/HOEL/-S`
 * or `OR`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * for `TPOR`
 * these `THEZ`
 * dungeons `TKUPB/SKWROPBS`

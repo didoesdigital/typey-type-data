@@ -684,7 +684,7 @@
 * continued `T-PBD`
 * direction, `TKREBGS KW-BG`
 * sportsmen `SPORTS/PHEPB`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * trees, `TRAOES KW-BG`
 * overlooking `AUFR/HRAOBG/-G`
 * blue `PWHRU`

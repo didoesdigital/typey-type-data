@@ -24,7 +24,7 @@
 * shining `SHAOEUPBG`
 * and `SKP`
 * all `AUL`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * were `WR`
 * open; `OEP STPH*FPLT`
 * within `W-PB`

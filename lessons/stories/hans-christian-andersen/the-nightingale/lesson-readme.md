@@ -111,7 +111,7 @@
 * sailed `SAEULD`
 * under `TPH-PB`
 * shadow `SHO*EUD`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * these `THEZ`
 * trees `TRAOES`
 * lived `HREUFD`

@@ -210,7 +210,7 @@
 * another `TPHOER`
 * chatted; `KHAT/-D STPH*FPLT`
 * thronged `THROPBG/-D`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * door-steps, `TKAOR H-PB STEPS KW-BG`
 * even `AOEPB`
 * roofs. `RAOFS TP-PL`

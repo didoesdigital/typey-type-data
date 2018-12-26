@@ -450,7 +450,7 @@
 * trunk `TRUPBG`
 * shoulders, `SHOURLDZ KW-BG`
 * raise `RAEUZ`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * twigs; `TWEUG/-S STPH*FPLT`
 * all, `AUL KW-BG`
 * heaviest.' `HEF/KWREFT TP-PL AE`
@@ -538,7 +538,7 @@
 * attempt `A/TEPLT`
 * remained `RE/PHAEUPBD`
 * hanging `HAPBG/-G`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * also `HR-S`
 * kept `KEPT`
 * upper `AOURP`

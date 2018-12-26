@@ -37,7 +37,7 @@
 * had `H`
 * partly `PARLT`
 * shaded, `SHAEUD/-D KW-BG`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * were `WR`
 * covered `KOFRD`
 * with `W`

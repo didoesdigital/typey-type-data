@@ -302,7 +302,7 @@
 * radiant `RAEUD/KWRAPBT`
 * light `HRAOEUT`
 * streamed `STRAOEPL/-D`
-* windows. `WO*EUPBDZ TP-PL`
+* windows. `WOEUPBDZ TP-PL`
 * Within `KPA/W-PB`
 * dancing; `TKAPBS/-G STPH*FPLT`
 * King `KO*EUPBG`

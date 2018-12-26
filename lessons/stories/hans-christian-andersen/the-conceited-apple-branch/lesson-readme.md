@@ -39,7 +39,7 @@
 * his `HEUS`
 * tale `TAEL`
 * one `WUPB`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * which `WEU`
 * hung `HUPBG`
 * fresh `TPRERB`
@@ -119,7 +119,7 @@
 * fluttered `TPHRUT/ERD`
 * before `PW-F`
 * open `OEP`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * flowers `TPHRO*URS`
 * stood `STAOD`
 * shining, `SHAOEUPBG KW-BG`

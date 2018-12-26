@@ -376,7 +376,7 @@
 * first `TPEUFRT`
 * any `TPHEU`
 * plainly, `PHRAEUPBL KW-BG`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * shut. `SHUT TP-PL`
 * moments `PHOEPLTS`
 * perceive `SPAOEF`

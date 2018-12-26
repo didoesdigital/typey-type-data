@@ -94,8 +94,8 @@
 * till `TEUL`
 * became `PWAEUPL`
 * ill `EUL`
-* wretched, `KREFPD KW-BG`
-* wretched `KREFPD`
+* wretched, `WREFPD KW-BG`
+* wretched `WREFPD`
 * man! `PHAPB SKHRAPL`
 * No `KPA/TPHO`
 * doctor `TKR`

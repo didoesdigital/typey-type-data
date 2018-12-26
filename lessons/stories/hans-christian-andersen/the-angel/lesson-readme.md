@@ -131,7 +131,7 @@
 * faded `TPAEUD/-D`
 * withered `WEU/THER/-D`
 * trailing `TRAEULG`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * "Poor `KR-GS KPA/PAOR`
 * rose-bush!" `ROEZ H-PB PWURB SKHRAPL KR-GS`
 * said `SAEUD`

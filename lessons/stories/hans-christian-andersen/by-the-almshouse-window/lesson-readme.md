@@ -22,7 +22,7 @@
 * long `HROPBG`
 * rows `ROES`
 * of `-F`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * in `TPH`
 * house, `HOUS KW-BG`
 * whose `WHOZ`

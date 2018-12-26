@@ -74,7 +74,7 @@
 * bends `PWEPBDZ`
 * for-ward `TPOR H-PB WARD`
 * slightly, `SHRAOEULT KW-BG`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * hang `HAPBG`
 * quite `KWAOEUT`
 * down `TKOUPB`

@@ -133,7 +133,7 @@
 * 'we `AE WE`
 * live `HREUF`
 * very `SRE`
-* wretchedly `KREFPD/HREU`
+* wretchedly `WREFPD/HREU`
 * here, `HAOER KW-BG`
 * this `TH`
 * nasty `TPHAS/TEU`

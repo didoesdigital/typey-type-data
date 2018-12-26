@@ -50,7 +50,7 @@
 * too `TAO`
 * written `WREUPB`
 * over `OEFR`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * old-fashioned `OLD/H-PB/TPAGS/-D`
 * letters, `HRERTS KW-BG`
 * grotesque `TKPWROE/TEFBG`

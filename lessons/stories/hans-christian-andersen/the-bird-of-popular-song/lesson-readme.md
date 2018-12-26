@@ -28,7 +28,7 @@
 * sword, `SOERD KW-BG`
 * trees `TRAOES`
 * stand `STAPBD`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * white `WHAOEUT`
 * coral `KORL`
 * or `OR`
@@ -259,7 +259,7 @@
 * without, `WOUT KW-BG`
 * storm `STORPL`
 * clutches `KHRUFPS`
-* windows. `WO*EUPBDZ TP-PL`
+* windows. `WOEUPBDZ TP-PL`
 * sings `SEUPBGS`
 * alone `A/HROEPB`
 * requiem `REBG/WEPL`

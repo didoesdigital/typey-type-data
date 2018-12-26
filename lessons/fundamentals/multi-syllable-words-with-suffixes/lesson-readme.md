@@ -1688,7 +1688,7 @@
 * insulting `EUPB/SULT/-G`
 * gallows `TKPWAL/HROE/-S`
 * vehemently `SRAOEPLT/HREU`
-* wretchedness `KREFPD/-PBS`
+* wretchedness `WREFPD/-PBS`
 * absorbing `AB/SORB/-G`
 * descendant `TKE/SEPBT/APBT`
 * clerical `KRER/K-L`

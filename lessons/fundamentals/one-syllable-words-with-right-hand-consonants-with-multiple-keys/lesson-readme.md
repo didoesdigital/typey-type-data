@@ -167,7 +167,7 @@
 * hundred `HUPBD`
 * scan `SKAPB`
 * sin `SEUPB`
-* pounds `POUPBZ`
+* pounds `POUPBDZ`
 * tone `TOEPB`
 * turns `TURPBS`
 * pants `PAPBTS`
@@ -292,6 +292,7 @@
 * ham `HAPL`
 * rand `RAPBD`
 * acre `AEURBG`
+* Chen `KHEPB`
 * Chan `KHAPB`
 * tunes `TAOUPBS`
 * coupled `KUPLD`

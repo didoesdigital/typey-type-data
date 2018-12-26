@@ -545,7 +545,7 @@
 * marched `PHAFRPBD`
 * under `TPH-PB`
 * street `STRAOET`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * exclaimed: `SKHRAEUPL/-D STPH-FPLT`
 * "Indeed, `KR-GS KPA/TPHAOEPBD KW-BG`
 * incomparable! `EUPB/KPARBL SKHRAPL`

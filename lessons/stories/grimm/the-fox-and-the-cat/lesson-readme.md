@@ -73,7 +73,7 @@
 * last `HRAFT`
 * said: `SAEUD STPH-FPLT`
 * 'Oh, `AE KPA/O*E KW-BG`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * beard-cleaner, `PWAERD H-PB KHRAOERPB KW-BG`
 * piebald `PAOEU/PWAULD`
 * fool, `TPAOL KW-BG`
@@ -154,7 +154,7 @@
 * top `TOP`
 * it, `T KW-BG`
 * where `W-R`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * foliage `TPOEL/APBLG`
 * quite `KWAOEUT`
 * concealed `KAUPB/SAOELD`

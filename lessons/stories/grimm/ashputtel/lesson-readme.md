@@ -404,7 +404,7 @@
 * quite `KWAOEUT`
 * done, `TKOPB KW-BG`
 * again `TKPWEPB`
-* windows. `WO*EUPBDZ TP-PL`
+* windows. `WOEUPBDZ TP-PL`
 * Ashputtel `xxx Ashputtel`
 * mother, `PHOER KW-BG`
 * overjoyed `AUFR/SKWROEUD`

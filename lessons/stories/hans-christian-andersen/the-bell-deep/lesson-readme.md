@@ -448,7 +448,7 @@
 * again, `TKPWEPB KW-BG`
 * throng `THROPBG`
 * below, `PWHRO KW-BG`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * screamed `SKRAOEPLD`
 * aloud `A/HROUD`
 * saw `SAU`

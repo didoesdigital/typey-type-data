@@ -43,7 +43,7 @@
 * blooming `PWHRAOPL/-G`
 * olive `OL/EUF`
 * laurel `HRAURL`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * brought `PWRAUT`
 * from `TPR`
 * beyond `KWROPBD`
@@ -824,7 +824,7 @@
 * few `TPAOU`
 * erected, `AOE/REBGD KW-BG`
 * soon `SAOPB`
-* olive-branches. `OL/EUF H-PB PWRAFPBS TP-PL`
+* olive-branches. `OL/EUF H-PB PWRAFRPBS TP-PL`
 * obtained `OB/TAEUPBD`
 * making `PHAEUG`
 * bottle-cases `PWO*LT H-PB KAEUSZ`

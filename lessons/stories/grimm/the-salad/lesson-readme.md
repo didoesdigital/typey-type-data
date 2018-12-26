@@ -152,7 +152,7 @@
 * heard `HAERD`
 * screaming `SKRAOEPLG`
 * chirping `KHEURP/-G`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * over `OEFR`
 * looked `HRAOBGD`
 * saw `SAU`
@@ -242,7 +242,7 @@
 * castle `KAFL`
 * green `TKPWRAOEPB`
 * meadow, `PHED/OE KW-BG`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * stood `STAOD`
 * an `APB`
 * very `SRE`

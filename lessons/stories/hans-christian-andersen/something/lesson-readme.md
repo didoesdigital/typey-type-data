@@ -653,7 +653,7 @@
 * evidently `AEFD/HREU`
 * sake `SAEUBG`
 * contrast `KRAEFT`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * soul `SOUL`
 * arrive `A/REUF`
 * here `HAOER`

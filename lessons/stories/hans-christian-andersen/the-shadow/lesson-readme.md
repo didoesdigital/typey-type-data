@@ -957,7 +957,7 @@
 * pleasantly. `PHRES/APBT/HREU TP-PL`
 * here `HAOER`
 * highest `HAOEU/EFT`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * rooms, `RAOPLS KW-BG`
 * roofs. `RAOFS TP-PL`
 * in, `TPH KW-BG`
@@ -1258,7 +1258,7 @@
 * palace, `PAL/AS KW-BG`
 * upper `AOURP`
 * lower `HROUR`
-* windows; `WO*EUPBDZ STPH*FPLT`
+* windows; `WOEUPBDZ STPH*FPLT`
 * things, `THEUPBGS KW-BG`
 * answer `AEPBS`
 * allusions `A/HRAOUGS/-S`

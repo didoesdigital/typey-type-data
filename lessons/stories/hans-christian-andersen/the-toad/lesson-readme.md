@@ -383,7 +383,7 @@
 * great `TKPWRAET`
 * forest, `TPOEFRT KW-BG`
 * looks `HRAOBGS`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * leaves. `HREFS TP-PL`
 * nicer `TPHAOEURS`
 * here `HAOER`
@@ -876,7 +876,7 @@
 * language `HRAPBL`
 * truly! `TRAOUL SKHRAPL`
 * Why, `KPA/KWR KW-BG`
-* changes `KHAEUPGS`
+* changes `KHAEUPBGS`
 * day's `TKAEU/AES`
 * make. `PHAEUBG TP-PL`
 * One `KPA/WUPB`

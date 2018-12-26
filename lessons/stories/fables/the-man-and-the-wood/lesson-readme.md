@@ -36,7 +36,7 @@
 * gave `TKPWAEUF`
 * of `-F`
 * their `THAEUR`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * What `KPA/WHA`
 * did `TK`
 * do `TKO`

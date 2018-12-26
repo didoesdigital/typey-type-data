@@ -296,7 +296,7 @@
 * appointed `POEUPBD`
 * imperial `EUPL/PAOERL`
 * swineherd, `SWAOEUPB/TK-LS/HE*RD KW-BG`
-* wretchedly `KREFPD/HREU`
+* wretchedly `WREFPD/HREU`
 * small `SPHAL`
 * room `RAOPL`
 * near `TPHAOER`
@@ -579,7 +579,7 @@
 * creature `KRAOEFP`
 * am!" `APL SKHRAPL KR-GS`
 * Oh, `KPA/O*E KW-BG`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * behind `HEUPBD`
 * tree, `TRAOE KW-BG`
 * wiped `WAOEUPD`

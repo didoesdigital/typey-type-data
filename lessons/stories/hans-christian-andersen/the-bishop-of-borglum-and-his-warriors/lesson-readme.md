@@ -151,7 +151,7 @@
 * leaves `HREFS`
 * almost `HR-PL`
 * conceal `KAUPB/SAOEL`
-* windows. `WO*EUPBDZ TP-PL`
+* windows. `WOEUPBDZ TP-PL`
 * mount `PHOUPBT`
 * winding `WAOEUPBD/-G`
 * staircase `STAEUR/KAEUS`

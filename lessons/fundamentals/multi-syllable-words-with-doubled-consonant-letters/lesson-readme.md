@@ -1518,7 +1518,7 @@
 * taller `TAURL`
 * narrowly `TPHO*EURL`
 * gallows `TKPWAL/HROE/-S`
-* wretchedness `KREFPD/-PBS`
+* wretchedness `WREFPD/-PBS`
 * possessor `PESZ/SOR`
 * glitter `TKPWHREUT`
 * pallid `PAL/EUD`

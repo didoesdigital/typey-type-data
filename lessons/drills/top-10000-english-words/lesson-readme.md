@@ -453,7 +453,7 @@
 * box `PWOBGS`
 * conditions `K-PBS`
 * select `SHREBGT`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * photos `TPOET/OES`
 * gay `TKPWAEU`
 * thread `THRED`
@@ -592,7 +592,7 @@
 * road `RAOD`
 * gift `TKPWEUFT`
 * question `KWE`
-* changes `KHAEUPGS`
+* changes `KHAEUPBGS`
 * night `TPHAOEUT`
 * ca `KRA*`
 * hard `HARD`
@@ -3514,7 +3514,7 @@
 * ea `*E/A*`
 * Jennifer `SKWREPB/TPER`
 * Antonio `APB/TOPB/KWROE`
-* charged `KHARPBLD`
+* charged `KHARPBLGD`
 * broad `PWRAOD`
 * Taiwan `TAOEU/WAPB`
 * und `*U/TPH*/TK*`
@@ -4006,7 +4006,7 @@
 * expensive `SP*EF`
 * meant `PHEPBT`
 * capture `KA*FP`
-* pounds `POUPBZ`
+* pounds `POUPBDZ`
 * buffalo `PWUF/HROE`
 * organisations `ORGS/-S/A*U`
 * plane `PHRAEPB`
@@ -5960,7 +5960,7 @@
 * toner `TOEPB/ER`
 * nose `TPHOES`
 * latex `HRAEU/TEBGS`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * anymore `TPHEUPL`
 * oclc `O*/KR*/HR*/KR*`
 * Delhi `TKEL/HEU`
@@ -6417,7 +6417,7 @@
 * unavailable `UPB/SRAEUBL`
 * cedar `SE/TKAR`
 * arranged `ARPBG/-D`
-* lang `HRAPBG`
+* Lang `HRAPBG`
 * theaters `THAOERTS`
 * advocacy `AFD/KAES`
 * Raleigh `RAL/AOE`
@@ -7665,7 +7665,7 @@
 * wanting `WAPBGT`
 * custody `KUFD/TEU`
 * scratch `SKRAFP`
-* launches `HRAUFPBS`
+* launches `HRAUFRPBS`
 * ipaq `*EU/P*/A*/KW*`
 * alignment `A/HRAOEUPLT`
 * masturbating `PHAS/TER/PWAEUT/-G`
@@ -8304,7 +8304,7 @@
 * lows `HROE/-S`
 * controllers `KROL/ERS`
 * aqua `A/KWA`
-* chen `KHEPB`
+* Chen `KHEPB`
 * Emma `EPL/PHA`
 * consultancy `KULT/SEU`
 * finances `TP-PB/-S`
@@ -9513,7 +9513,7 @@
 * condos `KOPBD/OE/-S`
 * plots `PHROTS`
 * polished `POL/EURBD`
-* yang `KWRAPBG`
+* Yang `KWRAPBG`
 * gently `SKWREPBT/HREU`
 * Greensboro `TKPWRAOEPB/PWO/RO`
 * Tulsa `TUL/SA`
@@ -9866,7 +9866,7 @@
 * beautifully `PWAOUFL/HREU`
 * blond `PWHROPBD`
 * expects `KP-PTS`
-* cho `KHO`
+* Cho `KHO`
 * jumping `SKWRUPL/-PG`
 * fabrics `TPAB/REUBG/-S`
 * antibodies `TPHOEBLD`

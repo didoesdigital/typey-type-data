@@ -1392,10 +1392,10 @@
 * style `STAOEUL`
 * pointed `POEUPBTD`
 * saved `SAFD`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * crossed `KROFD`
 * Louis `HRAO*U/EUS`
-* pounds `POUPBZ`
+* pounds `POUPBDZ`
 * ain't `AEUPBT`
 * evidently `AEFD/HREU`
 * principle `PREUPB`
@@ -1987,7 +1987,7 @@
 * fat `TPAT`
 * sand `SAPBD`
 * violent `SROEUPBLT`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * inquired `EUPB/KWAOEURD`
 * iv `4-R`
 * September `SEPT`
@@ -2144,7 +2144,7 @@
 * mystery `PHOEUFRT`
 * ed `ED`
 * waste `WAEFT`
-* changes `KHAEUPGS`
+* changes `KHAEUPBGS`
 * possess `PESZ`
 * consciousness `KOPBS/-PBS`
 * February `TPEB`
@@ -2395,7 +2395,7 @@
 * thence `THEPBS`
 * reaching `RAOEFPG`
 * dim `TKEUPL`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * hanging `HAPBG/-G`
 * pipe `PAOEUP`
 * useless `AOUS/-LS`
@@ -6984,7 +6984,7 @@
 * acceptable `SEPL`
 * dynasty `TKAOEUPBS/TEU`
 * accurately `ABG/RAT/HREU`
-* divinity `TKWEPBT`
+* divinity `TKWEUPBT`
 * signature `SEURG`
 * heretofore `HAOERT/TPOR`
 * hazard `HAZ/ARD`
@@ -9010,7 +9010,7 @@
 * omen `O/PHEPB`
 * bleak `PWHRAEBG`
 * vehemently `SRAOEPLT/HREU`
-* wretchedness `KREFPD/-PBS`
+* wretchedness `WREFPD/-PBS`
 * e'er `*E/AE/*ER`
 * ensure `EPB/SHUR`
 * denotes `TKAOE/TPHOETS`

@@ -415,7 +415,7 @@
 * save `SAF`
 * fleet. `TPHRAOET TP-PL`
 * Greenland's `TKPWRAOEPB/HRA*PBD AES`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * huts, `HUTS KW-BG`
 * preacher, `PRAO*EFP KW-BG`
 * Hans `HAPBS`

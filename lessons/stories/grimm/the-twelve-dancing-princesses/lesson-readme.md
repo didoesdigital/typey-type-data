@@ -536,7 +536,7 @@
 * golden `TKPWOELD/*EPB`
 * cups `KUPS`
 * declare `TKE/KHRAR`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * cup; `KUP STPH*FPLT`
 * listening `HR-PBG`
 * behind `HEUPBD`

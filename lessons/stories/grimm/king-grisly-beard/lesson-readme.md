@@ -493,7 +493,7 @@
 * going `TKPW-G`
 * married; `PHAERD STPH*FPLT`
 * one `WUPB`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * looked `HRAOBGD`
 * out. `OUT TP-PL`
 * Everything `KPA/EFG`

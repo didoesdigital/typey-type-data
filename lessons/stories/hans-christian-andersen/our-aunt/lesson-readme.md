@@ -231,7 +231,7 @@
 * "At `KR-GS KPA/AT`
 * home," `HOEPL KW-BG KR-GS`
 * "my `KR-GS PHEU`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * opera-box. `OP/RA H-PB PWOBGS TP-PL`
 * One `KPA/WUPB`
 * cannot `K/TPHOT`

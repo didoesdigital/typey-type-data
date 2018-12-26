@@ -78,7 +78,7 @@
 * course `KORS`
 * time, `TAOEUPL KW-BG`
 * but `PWUT`
-* changes `KHAEUPGS`
+* changes `KHAEUPBGS`
 * have `SR`
 * not `TPHOT`
 * come `KOPL`
@@ -1146,7 +1146,7 @@
 * thee!" `THAOE SKHRAPL KR-GS`
 * mouth `PHO*UT`
 * depths `TK*EPTS`
-* "Wretched `KR-GS KPA/KREFPD`
+* "Wretched `KR-GS KPA/WREFPD`
 * go, `TKPW KW-BG`
 * painful `PAEUFL`
 * bosom. `PWUZ/OPL TP-PL`
@@ -1332,7 +1332,7 @@
 * height `HAOEUT`
 * palm `PAPL`
 * waved `WAFD`
-* branches—then `PWRAFPBS EPL/TKA*RB THEPB`
+* branches—then `PWRAFRPBS EPL/TKA*RB THEPB`
 * deeper `TKAOERP`
 * emotion `AO*EGS`
 * ever `-FR`

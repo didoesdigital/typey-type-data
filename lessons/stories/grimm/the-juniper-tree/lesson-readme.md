@@ -122,7 +122,7 @@
 * woods, `WAODZ KW-BG`
 * soon `SAOPB`
 * green `TKPWRAOEPB`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * thickly `THEUBG/HREU`
 * intertwined, `EUPBT/TWAOEUPBD KW-BG`
 * blossoms `PWROS/SOPL/-S`

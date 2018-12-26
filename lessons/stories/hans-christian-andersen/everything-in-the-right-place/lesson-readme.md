@@ -156,7 +156,7 @@
 * falling `TPAULG`
 * happily `HAP/HREU`
 * caught `KAUT`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * help `HEP`
 * held `HELD`
 * water, `WAUR KW-BG`
@@ -268,7 +268,7 @@
 * Laughter `KPA/HRAFR`
 * howls `HOUL/-S`
 * open `OEP`
-* windows: `WO*EUPBDZ STPH-FPLT`
+* windows: `WOEUPBDZ STPH-FPLT`
 * feasting `TPAOEFT/-G`
 * revelling; `REFL/-G STPH*FPLT`
 * wine `WAOEUPB`
@@ -531,7 +531,7 @@
 * here `HAOER`
 * magnificent `PHAFPBT`
 * overhanging `xxx overhanging`
-* branches—that `PWRAFPBS EPL/TKA*RB THA`
+* branches—that `PWRAFRPBS EPL/TKA*RB THA`
 * Here `KPA/HAOER`
 * stood, `STAOD KW-BG`
 * showed `SHOED`
@@ -574,7 +574,7 @@
 * mistletoe `PHEUS/-L/TOE`
 * grew `TKPWRAOU`
 * gracefully `TKPWRAEUS/-FL/HREU`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * reflected `TPHREBGTD`
 * dark `TKARBG`
 * beneath `TPHAO*ET`
@@ -678,7 +678,7 @@
 * rose `ROEZ`
 * hand, `HAPBD KW-BG`
 * wreath `WRAO*ET`
-* branches. `PWRAFPBS TP-PL`
+* branches. `PWRAFRPBS TP-PL`
 * Both `KPA/PWO*T`
 * portraits `POR/TRAT/-S`
 * many `PHAEPB`

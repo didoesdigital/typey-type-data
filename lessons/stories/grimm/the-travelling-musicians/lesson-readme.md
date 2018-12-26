@@ -303,7 +303,7 @@
 * under `TPH-PB`
 * tree, `TRAOE KW-BG`
 * climbed `KHRAOEUPLD`
-* branches; `PWRAFPBS STPH*FPLT`
+* branches; `PWRAFRPBS STPH*FPLT`
 * while `WHAOEUL`
 * thinking `THEUG`
 * higher `HAOEUR`

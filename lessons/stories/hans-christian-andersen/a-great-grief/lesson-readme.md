@@ -191,7 +191,7 @@
 * up `UP`
 * inn. `TPH*PB TP-PL`
 * Our `KPA/OUR`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * looked `HRAOBGD`
 * into `TPHAO`
 * tan-yard, `TAPB H-PB KWRARD KW-BG`

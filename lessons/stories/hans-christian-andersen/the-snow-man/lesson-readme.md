@@ -777,7 +777,7 @@
 * thyme; `THAOEUPL STPH*FPLT`
 * Stretch `KPA/STREFP`
 * soft `SOFT`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * willow-tree; `WEUL/HROE H-PB TRAOE STPH*FPLT`
 * months `PHO*PBTS`
 * bringing `PWREUG`

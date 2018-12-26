@@ -115,7 +115,7 @@
 * say `SAEU`
 * what `WHA`
 * color, `KROR KW-BG`
-* changes `KHAEUPGS`
+* changes `KHAEUPBGS`
 * green `TKPWRAOEPB`
 * red, `RED KW-BG`
 * red `RED`
@@ -198,7 +198,7 @@
 * large `HRARPBLG`
 * trees, `TRAOES KW-BG`
 * long `HROPBG`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * reaching `RAOEFPG`
 * ceiling, `KAOELG KW-BG`
 * stretching `STREFPG`
@@ -325,7 +325,7 @@
 * cannot," `K/TPHOT KW-BG KR-GS`
 * letters; `HRERTS STPH*FPLT`
 * "we `KR-GS WE`
-* wretchedly `KREFPD/HREU`
+* wretchedly `WREFPD/HREU`
 * made." `PHAED TP-PL KR-GS`
 * "You `KR-GS KPA/U`
 * must `PHUFT`
@@ -355,7 +355,7 @@
 * after `AF`
 * gone, `TKPWOPB KW-BG`
 * morning, `PHORPBG KW-BG`
-* wretched `KREFPD`
+* wretched `WREFPD`
 * awkward `AUBG/WARD`
 * ever. `-FR TP-PL`
 * TUESDAY `*URP/TAOUZ`
@@ -1056,7 +1056,7 @@
 * doll's `TKOL AES`
 * house, `HOUS KW-BG`
 * lights `HRAOEUTS`
-* windows, `WO*EUPBDZ KW-BG`
+* windows, `WOEUPBDZ KW-BG`
 * drawn `TKRAUPB`
 * soldiers `SHRERPBLGS`
 * presenting `PREPBG`

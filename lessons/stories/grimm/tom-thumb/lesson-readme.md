@@ -644,7 +644,7 @@
 * 'they `AE THE`
 * forgot `TPAURGT`
 * build `PWEULD`
-* windows `WO*EUPBDZ`
+* windows `WOEUPBDZ`
 * room `RAOPL`
 * sun `SUPB`
 * candle `KA*PBLD`

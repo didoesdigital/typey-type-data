@@ -80,7 +80,7 @@
 * under `TPH-PB`
 * some `SOPL`
 * trees `TRAOES`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * growing `TKPWROEG`
 * low `HROE`
 * down `TKOUPB`

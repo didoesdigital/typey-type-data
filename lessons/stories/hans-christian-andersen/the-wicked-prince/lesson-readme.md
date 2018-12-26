@@ -48,7 +48,7 @@
 * green `TKPWRAOEPB`
 * leaves `HREFS`
 * off `OF`
-* branches, `PWRAFPBS KW-BG`
+* branches, `PWRAFRPBS KW-BG`
 * fruit `TPRAOUT`
 * hung `HUPBG`
 * dried `TKRAOEUD`
@@ -386,7 +386,7 @@
 * sank `SA*PBG`
 * terrible `TERBL`
 * shock `SHOBG`
-* branches `PWRAFPBS`
+* branches `PWRAFRPBS`
 * large `HRARPBLG`
 * tree `TRAOE`
 * wood. `WAOD TP-PL`
