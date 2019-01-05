@@ -458,7 +458,7 @@
 * might `PHAOEUT`
 * straight `STRAEUT`
 * half-opened `HAF H-PB OEPD`
-* re-entered `RE/SP-S H-PB SPWR-D`
+* re-entered `R*/*E H-PB SPWR-D`
 * let `HRET`
 * fall. `TPAUL TP-PL`
 * next `TPHEGT`

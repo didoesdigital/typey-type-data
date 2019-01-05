@@ -698,7 +698,7 @@
 * pleasure?" `PHRERB H-F KR-GS`
 * he. `HE TP-PL`
 * you? `U H-F`
-* You're `KPA/U AE RE/SP-S`
+* You're `KPA/U AE R*/*E`
 * first `TPEUFRT`
 * Are `KPA/R`
 * you `U`
@@ -833,7 +833,7 @@
 * Moor-woman, `KPA/PHO*R H-PB WOPL KW-BG`
 * "for `KR-GS TPOR`
 * they're `THER`
-* out—they're `OUT EPL/TKA*RB THE AE RE/SP-S`
+* out—they're `OUT EPL/TKA*RB THE AE R*/*E`
 * loose—that's `HRAOS EPL/TKA*RB THA AES`
 * talk `TAUBG`
 * about! `PW SKHRAPL`

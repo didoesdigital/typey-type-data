@@ -220,7 +220,7 @@
 * your `KWROUR`
 * Sunday `SUPBD`
 * clothes!" `KHRO*ETS SKHRAPL KR-GS`
-* "We're `KR-GS KPA/WE AE RE/SP-S`
+* "We're `KR-GS KPA/WE AE R*/*E`
 * going `TKPW-G`
 * court, `KORT KW-BG`
 * suitors `SAOU/TOR/-S`
@@ -502,7 +502,7 @@
 * forgotten `TPORGTD`
 * altogether; `HR-GT STPH*FPLT`
 * boards `PWORDZ`
-* re-echo `RE/SP-S H-PB EBG/OE`
+* re-echo `R*/*E H-PB EBG/OE`
 * footsteps, `TPAOT/STEPS KW-BG`
 * ceiling `KAOELG`
 * hall `HAUL`

@@ -669,7 +669,7 @@
 * "You `KR-GS KPA/U`
 * look `HRAOBG`
 * woman; `WOPL STPH*FPLT`
-* "you're `KR-GS U AE RE/SP-S`
+* "you're `KR-GS U AE R*/*E`
 * fat `TPAT`
 * plump; `PHRUFRP STPH*FPLT`
 * you `U`

@@ -73,7 +73,7 @@
 * take `TAEUBG`
 * time," `TAOEUPL KW-BG KR-GS`
 * snail. `STPHAEUL TP-PL`
-* "You're `KR-GS KPA/U AE RE/SP-S`
+* "You're `KR-GS KPA/U AE R*/*E`
 * always `AULS`
 * such `SUFP`
 * hurry. `HUR/REU TP-PL`

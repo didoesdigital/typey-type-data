@@ -140,7 +140,7 @@
 * off?" `OF H-F KR-GS`
 * Wolf. `KPA/WOFL TP-PL`
 * "Oh! `KR-GS KPA/O*E SKHRAPL`
-* ay," `A/KWR*/SP-S KW-BG KR-GS`
+* ay," `A/KWR* KW-BG KR-GS`
 * answered `AEPBS/-D`
 * Riding-Hood, `KPA/RAOEUD/-G H-PB KPA/HAOD KW-BG`
 * "it `KR-GS T`

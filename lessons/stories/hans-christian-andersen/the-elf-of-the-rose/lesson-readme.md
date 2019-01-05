@@ -103,7 +103,7 @@
 * veins `SRAEUPBS`
 * leaf, `HRAOEF KW-BG`
 * roads; `ROEDZ STPH*FPLT`
-* ay, `A/KWR*/SP-S KW-BG`
+* ay, `A/KWR* KW-BG`
 * very `SRE`
 * long `HROPBG`
 * him; `HEUPL STPH*FPLT`

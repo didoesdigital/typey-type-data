@@ -188,7 +188,7 @@
 * "Go `KR-GS KPA/TKPW`
 * along `HRAOPBG`
 * you," `U KW-BG KR-GS`
-* "You're `KR-GS KPA/U AE RE/SP-S`
+* "You're `KR-GS KPA/U AE R*/*E`
 * rude `RAOUD`
 * fellow," `TPO*EUL KW-BG KR-GS`
 * beetle, `PWAO*ELT KW-BG`

@@ -1002,7 +1002,7 @@
 * names `TPHAEUPLS`
 * stop `STOP`
 * higher `HAOEUR`
-* et `AOE/T*/SP-S`
+* et `AOE/T*`
 * father's `TPAER/AES`
 * threw `THRAOU`
 * worse `WORS`
@@ -2006,7 +2006,7 @@
 * earlier `RERL`
 * license `HR-PB`
 * visited `SREUFTD`
-* en `EPB/SP-S`
+* en `*E/TPH*`
 * consent `KEFPBT`
 * sufficiently `SUFL`
 * natives `TPHAEUT/EUFS`
@@ -7083,7 +7083,7 @@
 * torch `TOFRB`
 * vault `SRALT`
 * worm `WORPL`
-* ay `A/KWR*/SP-S`
+* ay `A/KWR*`
 * bravery `PWRAEUFR/REU`
 * confinement `KAUPB/TPAOEUPLT`
 * trusting `TRUFT/-G`
@@ -8816,7 +8816,7 @@
 * junior `SKWRUPB/KWROR`
 * Tony `TOEPB/KWREU`
 * Calcutta `KAL/KUT/TA`
-* re `RE/SP-S`
+* re `R*/*E`
 * Holt `HOLT`
 * psychological `SKOL`
 * constancy `KOPB/STAPB/SEU`

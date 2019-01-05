@@ -642,7 +642,7 @@
 * honored `HOPB/ORD`
 * free `TPRAOE`
 * land. `HRAPBD TP-PL`
-* "Ay, `KR-GS KPA/A/KWR*/SP-S KW-BG`
+* "Ay, `KR-GS KPA/A/KWR* KW-BG`
 * free, `TPRAOE KW-BG`
 * unbearable `UPB/PWAER/-BL`
 * sufferings `SUFRGS`

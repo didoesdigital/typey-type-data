@@ -786,7 +786,7 @@
 * suit `SAOUT`
 * cloaths `xxx cloaths`
 * day!" `TKAEU SKHRAPL KR-GS`
-* "Ay, `KR-GS KPA/A/KWR*/SP-S KW-BG`
+* "Ay, `KR-GS KPA/A/KWR* KW-BG`
 * sure!" `SHUR SKHRAPL KR-GS`
 * "lend `KR-GS HREPBD`
 * dirty `TKOEURT`

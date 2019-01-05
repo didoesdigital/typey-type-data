@@ -361,7 +361,7 @@
 * after `AF`
 * supper `SAOURP`
 * ended." `EPBD/-D TP-PL KR-GS`
-* "Tsing-pe!" `KR-GS xxx Tsing H-PB P*/*E/SP-S SKHRAPL KR-GS`
+* "Tsing-pe!" `KR-GS xxx Tsing H-PB P*/*E SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * lord-in-waiting, `HRORD H-PB TPH H-PB WAEUGT KW-BG`
 * again `TKPWEPB`

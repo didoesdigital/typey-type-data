@@ -3825,7 +3825,6 @@
 * dimly `TKEUPL/HREU`
 * withered `WEU/THER/-D`
 * mantle `PHAPBT/*L`
-* ne'er `TPH*/*E/AE/*ER`
 * distrust `TKEUS/TRUFT`
 * verily `SRER/HREU`
 * desperately `TKES/PRAT/HREU`

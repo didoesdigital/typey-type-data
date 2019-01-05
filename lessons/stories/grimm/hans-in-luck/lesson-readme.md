@@ -610,7 +610,7 @@
 * plenty `PHREPBT`
 * lived `HREUFD`
 * well!' `WEL SKHRAPL AE`
-* 'You're `AE KPA/U AE RE/SP-S`
+* 'You're `AE KPA/U AE R*/*E`
 * right,' `RAOEUT KW-BG AE`
 * weighed `WA*ED`
 * hand; `HAPBD STPH*FPLT`

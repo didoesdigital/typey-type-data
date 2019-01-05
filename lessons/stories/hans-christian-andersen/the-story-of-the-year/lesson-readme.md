@@ -534,7 +534,7 @@
 * glitter `TKPWHREUT`
 * before. `PW-F TP-PL`
 * form `TPORPL`
-* un-wandering `UPB/SP-S H-PB WAPBGD`
+* un-wandering `*U/TPH* H-PB WAPBGD`
 * gaze `TKPWAEZ`
 * fixed `TPEUFD`
 * south. `SOUT TP-PL`

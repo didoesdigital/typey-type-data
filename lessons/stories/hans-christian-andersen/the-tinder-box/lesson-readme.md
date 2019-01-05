@@ -295,7 +295,7 @@
 * sat `SAT`
 * teacups, `TAE/KUP/-S KW-BG`
 * staring `STAERG`
-* "You're `KR-GS KPA/U AE RE/SP-S`
+* "You're `KR-GS KPA/U AE R*/*E`
 * pretty `PREUT`
 * fellow," `TPO*EUL KW-BG KR-GS`
 * soldier, `SHRERPBL KW-BG`

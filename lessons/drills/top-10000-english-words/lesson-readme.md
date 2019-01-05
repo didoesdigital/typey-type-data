@@ -119,7 +119,7 @@
 * health `H*ELT`
 * n `TPH*`
 * world `WORLD`
-* re `RE/SP-S`
+* re `R*/*E`
 * next `TPHEGT`
 * used `AOUFD`
 * go `TKPW`
@@ -761,7 +761,7 @@
 * natural `TPHARL`
 * whether `WHR`
 * due `TKAOU`
-* et `AOE/T*/SP-S`
+* et `AOE/T*`
 * electronics `HREBG/TROPBGS`
 * five `TPEUF`
 * upon `POPB`
@@ -861,7 +861,7 @@
 * meet `PHAOET`
 * far `TPAR`
 * economic `KPHEBG`
-* en `EPB/SP-S`
+* en `*E/TPH*`
 * player `PHRAEUR`
 * projects `PROPBLGZ`
 * lyrics `HREURBGS`
@@ -1688,7 +1688,7 @@
 * capacity `KPAFT`
 * requires `RAOEURS`
 * jersey `SKWRER/SEU`
-* un `UPB/SP-S`
+* un `*U/TPH*`
 * fat `TPAT`
 * fully `TPHRAOUL`
 * father `TPAER`
@@ -2416,8 +2416,8 @@
 * decided `STKAOEUD/-D`
 * nj `TPH*/SKWR*`
 * covers `KOFRS`
-* hr `H*P R*P SP-S`
-* em `EPL/SP-S`
+* HR `H*P/R*P`
+* em `*E/PH*`
 * advantage `SRAPBG`
 * hello `H-L`
 * designs `STKAOEUPBS`
@@ -3954,7 +3954,7 @@
 * lesson `HROEFPB`
 * cinema `SEUPB/PHA`
 * asset `SA*ET`
-* ag `A/*G/SP-S`
+* ag `A/*G`
 * scan `SKAPB`
 * elections `HREBGS/-S`
 * drinking `TKREUG`
@@ -5055,7 +5055,7 @@
 * Kate `KA*ET`
 * chevrolet `KHEFR/HRAEU`
 * babies `PWAEBS`
-* bi `PW*EU/SP-S`
+* bi `PW*/*EU`
 * Karen `KAEURPB`
 * compiled `KPAOEULD`
 * romantic `RO/PHAPBT/EUBG`
@@ -5253,7 +5253,7 @@
 * conditioning `K-PBG`
 * teenage `TAEUPBLG`
 * soap `SOEP`
-* ae `A/*E/SP-S`
+* ae `A/*E`
 * triple `TR*EUPL`
 * cooper `KAORP`
 * NYC `TPHOEUBG`
@@ -5319,7 +5319,7 @@
 * enrollment `EPB/ROL/*PLT`
 * duke `TKAOUBG`
 * Walter `WALT/*ER`
-* ai `A/AO*EU/SP-S`
+* ai `A/*EU`
 * pace `PAEUS`
 * besides `PW-DZ`
 * wage `WAEUPBLG`
@@ -5523,7 +5523,7 @@
 * midnight `PHAOEUPBT`
 * ng `TPH*/TKPW*`
 * commonly `KPHOPBL`
-* pe `P*/*E/SP-S`
+* pe `P*/*E`
 * photographer `TPRAFR`
 * inform `TPH-F`
 * Turkish `TUR/KEURB`
@@ -5659,7 +5659,7 @@
 * Islam `SHRA*PL`
 * nodes `TPHOEDZ`
 * tu `T*/*U`
-* fy `TP*/KWR*/SP-S`
+* fy `TP*/KWR*`
 * thumbs `THUPLS`
 * seeds `SAOEDZ`
 * cited `KRAOEUTD`
@@ -7056,7 +7056,7 @@
 * connectors `KEBG/TOR/-S`
 * twinks `TW*EUPBG/-S`
 * unlikely `UPB/HRAOEULG`
-* oe `O*/*E/SP-S`
+* oe `O*/*E`
 * gif `SKPR*EUF`
 * pros `PROS`
 * conflicts `TPHREUBGT/-S`
@@ -7326,7 +7326,7 @@
 * substantially `SAUBS/HREU`
 * bizarre `PWEUZ/AR`
 * Glenn `TKPWHR*EPB`
-* ur `U*/R*/SP-S`
+* ur `U*/R*`
 * Auckland `AUBG/HRAPBD`
 * Olympics `HREUPL/PEUBGS`
 * fruits `TPRAOUTS`
@@ -7718,7 +7718,7 @@
 * locale `HRO/KAEL`
 * Nicholas `TPHEUBG/HRAS`
 * biol `PW*/*EU/O*/HR*`
-* yu `KWR*/*U/SP-S`
+* yu `KWR*/*U`
 * bundle `PWUPBLD`
 * hammer `HAERPL`
 * invasion `EUPB/SRAEUGS`
@@ -9021,7 +9021,7 @@
 * momentum `PHOEPLT/UPL`
 * fin `TPEUPB`
 * wiring `WAOEURG`
-* io `KWR*EU/O*/SP-S`
+* io `*EU/O*`
 * pastor `PAS/TOR`
 * mud `PHUD`
 * Calvin `KAL/SREUPB`

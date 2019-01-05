@@ -467,7 +467,7 @@
 * pens `PEPBS`
 * won't `WOEPBT`
 * bear `PWAER`
-* them—they're `THEPL EPL/TKA*RB THE AE RE/SP-S`
+* them—they're `THEPL EPL/TKA*RB THE AE R*/*E`
 * too `TAO`
 * stiff. `STEUF TP-PL`
 * As `KPA/AZ`
@@ -674,7 +674,7 @@
 * sink `S*EUPBG`
 * bottom `PWOPLT`
 * sea, `SAE KW-BG`
-* re-appear `RE/SP-S H-PB A/PAOER`
+* re-appear `R*/*E H-PB A/PAOER`
 * sand-bank, `SAPBD H-PB PWA*PBG KW-BG`
 * peered `PAOER/-D`
 * forth `TPO*RT`
@@ -1033,7 +1033,7 @@
 * world: `WORLD STPH-FPLT`
 * choice `KHOEUS`
 * oven, `OEFPB KW-BG`
-* re-cast `RE/SP-S H-PB KAFT`
+* re-cast `R*/*E H-PB KAFT`
 * form. `TPORPL TP-PL`
 * "That's `KW-GS/KPA*/THATS`
 * history `HEUFRT`

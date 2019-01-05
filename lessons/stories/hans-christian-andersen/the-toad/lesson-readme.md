@@ -350,7 +350,7 @@
 * laborer `HRAEUB/RER`
 * saw `SAU`
 * toad. `TAOD TP-PL`
-* "You're `KR-GS KPA/U AE RE/SP-S`
+* "You're `KR-GS KPA/U AE R*/*E`
 * ugliest `ULG/KWREFT`
 * I've `AOEUF`
 * seen `SAOEPB`

@@ -112,7 +112,7 @@
 * let `HRET`
 * drink. `TKREU TP-PL`
 * "O `KR-GS O*P`
-* ay, `A/KWR*/SP-S KW-BG`
+* ay, `A/KWR* KW-BG`
 * all `AUL`
 * my `PHEU`
 * heart, `HART KW-BG`
