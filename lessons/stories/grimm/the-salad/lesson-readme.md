@@ -308,7 +308,7 @@
 * lady's `HRAEUD/KWREU/AES`
 * eyes, `AO*EUS KW-BG`
 * doing `TK*G`
-* everything `EFG`
+* everything `EFRG`
 * wished. `WEURBD TP-PL`
 * 'Now `AE KPA/TPHOU`
 * getting `TKPWEGT`
@@ -316,7 +316,7 @@
 * So `KPA/SO`
 * stole `STOEL`
 * away, `A/WAEU KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * found `TPOUPBD`
 * now `TPHOU`
 * lady's, `HRA*ED AE S* KW-BG`

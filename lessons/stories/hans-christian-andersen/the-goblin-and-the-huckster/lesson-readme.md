@@ -350,7 +350,7 @@
 * sounds `SOUPBDZ`
 * music. `PHAOUFBG TP-PL`
 * little `HREUL`
-* never `TPHEF`
+* never `TPHEFR`
 * imagined, `PHAPBLGD KW-BG`
 * much `PHUFP`
 * less `HRES`

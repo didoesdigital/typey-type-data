@@ -200,6 +200,7 @@
 * pollution `PHRAOUGS`
 * conservative `KEFRB`
 * federation `TPRAEUGS`
+* everybody `EFRB`
 * violation `SROEULGS`
 * telling `TELG`
 * intelligent `SPWEPBLGT`

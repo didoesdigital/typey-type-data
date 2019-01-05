@@ -81,7 +81,7 @@
 * noticing `TPH-TS/-G`
 * flowers. `TPHRO*URS TP-PL`
 * Indeed, `KPA/TPHAOEPBD KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * remarkable, `RARBG/-BL KW-BG`
 * extended `EBGS/TEPBD/-D`
 * far `TPAR`
@@ -238,7 +238,7 @@
 * empire? `EPL/AOEUR H-F`
 * garden? `TKPWA*RPB H-F`
 * have `SR`
-* never `TPHEF`
+* never `TPHEFR`
 * it. `T TP-PL`
 * Something, `KPA/S-G KW-BG`
 * appears, `A/PAOERS KW-BG`
@@ -1166,7 +1166,7 @@
 * lingers `HREUPBG/ERS`
 * promise `PROPLS`
 * thing." `THEUPBG TP-PL KR-GS`
-* "Everything," `KR-GS KPA/EFG KW-BG KR-GS`
+* "Everything," `KR-GS KPA/EFRG KW-BG KR-GS`
 * who, `WHO KW-BG`
 * dressed `TKREFD`
 * robes, `ROEB/-S KW-BG`
@@ -1176,7 +1176,7 @@
 * replied; `RE/PHRAOEUD STPH*FPLT`
 * "let `KR-GS HRET`
 * tells `TELS`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`
 * conceal `KAUPB/SAOEL`
 * it." `T TP-PL KR-GS`
 * saying, `SAEUG KW-BG`

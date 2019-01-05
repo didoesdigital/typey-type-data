@@ -405,7 +405,7 @@
 * jug `SKWRUG`
 * lips: `HREUPS STPH-FPLT`
 * thus `THUS`
-* everything `EFG`
+* everything `EFRG`
 * still, `STEUL KW-BG`
 * soundly. `SOUPBD/HREU TP-PL`
 * large `HRARPBLG`

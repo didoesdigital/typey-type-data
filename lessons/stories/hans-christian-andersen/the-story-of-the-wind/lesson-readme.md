@@ -159,7 +159,7 @@
 * Anna `APB/TPHA`
 * Dorothea; `xxx Dorothea STPH*FPLT`
 * have `SR`
-* never `TPHEF`
+* never `TPHEFR`
 * forgotten `TPORGTD`
 * their `THAEUR`
 * names. `TPHAEUPLS TP-PL`
@@ -730,7 +730,7 @@
 * apple-blossoms `A*EPL H-PB PWROS/SOPL/-S`
 * scattered, `SKAT/ERD KW-BG`
 * leaves `HREFS`
-* fall,—everything `TPAUL KW-BG EPL/TKA*RB EFG`
+* fall,—everything `TPAUL KW-BG EPL/TKA*RB EFRG`
 * passes `PA*FS`
 * too. `TAO TP-PL`
 * man's `PHAPB/AES`
@@ -1241,7 +1241,7 @@
 * Basnas, `xxx Basnas KW-BG`
 * there, `THR KW-BG`
 * mortgage `PHORT`
-* everything `EFG`
+* everything `EFRG`
 * contained, `TAEUPBD KW-BG`
 * pocket. `POBGT TP-PL`
 * rattled `RAT/-LD`

@@ -54,11 +54,11 @@
 * like `HRAOEUBG`
 * covering `KOFRG`
 * moss. `PHOS TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * invited `EUPB/SRAOEUTD`
 * to `TO`
 * slumber, `SHRUPL/PWER KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * charming `KHARPL/-G`
 * look `HRAOBG`
 * repose; `RE/POES STPH*FPLT`
@@ -120,14 +120,14 @@
 * could `KO`
 * wish `WEURB`
 * earth. `*ERT TP-PL`
-* "Everything `KR-GS KPA/EFG`
+* "Everything `KR-GS KPA/EFRG`
 * bestowed `PWE/STOEU/-D`
 * here," `HAOER KW-BG KR-GS`
 * said `SAEUD`
 * angel. `A*EPBLG TP-PL`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * not `TPHOT`
-* everything," `EFG KW-BG KR-GS`
+* everything," `EFRG KW-BG KR-GS`
 * voice `SROEUS`
 * near `TPHAOER`
 * him—the `HEUPL EPL/TKA*RB -T`

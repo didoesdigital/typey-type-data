@@ -516,7 +516,7 @@
 * taken `TAEPB`
 * king, `KEUPBG KW-BG`
 * shall `SHAL`
-* never `TPHEF`
+* never `TPHEFR`
 * daughter `TKAUR`
 * eight `AET`
 * days `TKAEUS`

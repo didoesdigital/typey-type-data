@@ -363,7 +363,7 @@
 * burdocks. `PW*/*U/R*/TK-LS/TKOBG/-S TP-PL`
 * "We `KR-GS KPA/WE`
 * can `K`
-* never `TPHEF`
+* never `TPHEFR`
 * conduct `KUBGT`
 * ourselves `O*URSZ`
 * country." `KREU TP-PL KR-GS`

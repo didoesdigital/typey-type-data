@@ -83,7 +83,7 @@
 * look `HRAOBG`
 * cheerfulness `KHAOER/-FL/-PBS`
 * on `OPB`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`
 * The `KPA/-T`
 * warm `WARPL`
 * beautiful `PWAOUFL`
@@ -134,7 +134,7 @@
 * fire `TPAOEUR`
 * extinguished, `EBGS/TEUPBG/WEURBD KW-BG`
 * should `SHO`
-* never `TPHEF`
+* never `TPHEFR`
 * find `TPEUPBD`
 * rest. `REFT/TP-PL`
 * That `KPA/THA`
@@ -719,7 +719,7 @@
 * one, `WUPB KW-BG`
 * Who `KPA/WHO`
 * reads `RAEDZ`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * without, `WOUT KW-BG`
 * love `HRUF`
 * personified. `PER/SOPB/TPAOEU/-D TP-PL`

@@ -320,7 +320,7 @@
 * looked `HRAOBGD`
 * sides `SAOEUDZ`
 * see `SAOE`
-* everything `EFG`
+* everything `EFRG`
 * well. `WEL TP-PL`
 * In `KPA/TPH`
 * doing `TK*G`
@@ -576,7 +576,7 @@
 * 'Throw `AE KPA/THROE`
 * rascal `RAS/K-L`
 * here!' `HAOER SKHRAPL AE`
-* never `TPHEF`
+* never `TPHEFR`
 * dared `TKAEURD`
 * musicians `PHAOUGS/-S`
 * quarters `KWART/ERS`

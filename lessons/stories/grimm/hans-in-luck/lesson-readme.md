@@ -735,7 +735,7 @@
 * golden `TKPWOELD/*EPB`
 * trade; `TRAEUD STPH*FPLT`
 * grinder `TKPWREUPBD/*ER`
-* never `TPHEF`
+* never `TPHEFR`
 * puts `PUTS`
 * pocket `POBGT`
 * finding `TPAOEPBGD`
@@ -803,7 +803,7 @@
 * joy, `SKWROEU KW-BG`
 * 'Surely `AE KPA/SHURL`
 * hour; `HOUR STPH*FPLT`
-* everything `EFG`
+* everything `EFRG`
 * People `KPA/PAOEPL`
 * kind; `KEUPBD STPH*FPLT`
 * really `R-L`

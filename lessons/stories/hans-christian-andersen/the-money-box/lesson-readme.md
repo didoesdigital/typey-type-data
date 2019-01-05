@@ -79,7 +79,7 @@
 * lofty, `HROF/TEU KW-BG`
 * looking `HRAOG`
 * down `TKOUPB`
-* everything `EFG`
+* everything `EFRG`
 * else `ELS`
 * room. `RAOPL TP-PL`
 * He `KPA/HE`
@@ -308,7 +308,7 @@
 * gratified `TKPWRAT/TPAOEUD`
 * saw. `SAU TP-PL`
 * riding-whip `RAOEUD/-G H-PB WHEUP`
-* never `TPHEF`
+* never `TPHEFR`
 * cracked `KRABGD`
 * old `OLD`
 * people, `PAOEPL KW-BG`
@@ -317,7 +317,7 @@
 * married. `PHAERD TP-PL`
 * "I `KR-GS EU`
 * crack `KRABG`
-* everybody," `EFB KW-BG KR-GS`
+* everybody," `EFRB KW-BG KR-GS`
 * cracker. `KRABG/*ER TP-PL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * fine `TPAOEUPB`

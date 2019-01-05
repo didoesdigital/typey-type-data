@@ -390,7 +390,7 @@
 * land, `HRAPBD KW-BG`
 * journey's `SKWRURPB AES`
 * end, `EPBD KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * flew `TPHRAOU`
 * open `OEP`
 * third `THEURD`
@@ -497,7 +497,7 @@
 * slay `SHRAEU`
 * whole `WHOEL`
 * armies, `AR/PHAOES KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * fail `TPAEUL`
 * you.' `U TP-PL AE`
 * cannot `K/TPHOT`
@@ -819,7 +819,7 @@
 * wedding `WEGD`
 * visit `SREUFT`
 * taking `TAEUG`
-* everything; `EFG STPH*FPLT`
+* everything; `EFRG STPH*FPLT`
 * cheated `KHAOETD`
 * robbed `ROBD`
 * yet `KWRET`

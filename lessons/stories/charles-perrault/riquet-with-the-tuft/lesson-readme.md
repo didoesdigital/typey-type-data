@@ -215,7 +215,7 @@
 * Madam, `PHA*D/APL KW-BG`
 * wit," `WEUT KW-BG KR-GS`
 * answered `AEPBS/-D`
-* everything `EFG`
+* everything `EFRG`
 * beauty; `PWAOUT STPH*FPLT`
 * what `WHA`
 * your `KWROUR`
@@ -389,7 +389,7 @@
 * exquisitely `EBGS/KWEUFT/HREU`
 * charming, `KHARPL/-G KW-BG`
 * say `SAEU`
-* never `TPHEF`
+* never `TPHEFR`
 * beheld `PWE/HELD`
 * any `TPHEU`
 * whose `WHOZ`

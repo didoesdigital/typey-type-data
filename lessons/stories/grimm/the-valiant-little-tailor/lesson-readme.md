@@ -408,7 +408,7 @@
 * earth `*ERT`
 * again; `TKPWEPB STPH*FPLT`
 * throw `THROE`
-* never `TPHEF`
+* never `TPHEFR`
 * come `KOPL`
 * all,' `AUL KW-BG AE`
 * bird, `PWEURD KW-BG`

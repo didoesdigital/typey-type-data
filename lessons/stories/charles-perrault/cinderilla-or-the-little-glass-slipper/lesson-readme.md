@@ -450,7 +450,7 @@
 * see," `SAOE KW-BG KR-GS`
 * says `SEZ`
 * "if `KR-GS TP`
-* never `TPHEF`
+* never `TPHEFR`
 * rat `RAT`
 * rat-trap, `RAT H-PB TRAP KW-BG`
 * we `WE`

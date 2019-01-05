@@ -201,7 +201,7 @@
 * field, `TPAOELD KW-BG`
 * but `PWUT`
 * I `EU`
-* never `TPHEF`
+* never `TPHEFR`
 * ventured `SREPB/KHURD`
 * such `SUFP`
 * distance. `STKAPBS TP-PL`
@@ -1158,7 +1158,7 @@
 * wound `WOUPBD`
 * smooth `SPHAO*T`
 * lawn. `HRAUPB TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * freshness `TPRERB/-PBS`
 * early `ERL`
 * From `KPA/TPR`

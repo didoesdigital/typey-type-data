@@ -282,7 +282,7 @@
 * test `TEFT`
 * went `WEPBT`
 * repeated `RE/PAOETD`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * 'The `AE KPA/-T`
 * wants `WAPBTS`
 * make `PHAEUBG`
@@ -346,7 +346,7 @@
 * spinning-wheels.' `SPEUPBG H-PB WHAOELS TP-PL AE`
 * summoned, `SPHUPBD KW-BG`
 * through `THRU`
-* never `TPHEF`
+* never `TPHEFR`
 * spinning-wheels. `SPEUPBG H-PB WHAOELS TP-PL`
 * deceived `TKAOE/SAOEFD`
 * men, `PHEPB KW-BG`

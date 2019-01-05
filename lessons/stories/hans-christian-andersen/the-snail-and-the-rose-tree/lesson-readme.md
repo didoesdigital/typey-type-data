@@ -111,7 +111,7 @@
 * drew `TKRAOU`
 * them `THEPL`
 * again. `TKPWEPB TP-PL`
-* "Everything `KR-GS KPA/EFG`
+* "Everything `KR-GS KPA/EFRG`
 * is `S`
 * just `SKWRUFT`
 * last `HRAFT`
@@ -205,7 +205,7 @@
 * frighten `TPRAOEUFPB`
 * me," `PHE KW-BG KR-GS`
 * rose—tree. `ROEZ EPL/TKA*RB TRAOE TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * thought `THAUT`
 * that." `THA TP-PL KR-GS`
 * "No, `KR-GS KPA/TPHO KW-BG`
@@ -271,7 +271,7 @@
 * life," `HRAOEUF KW-BG KR-GS`
 * remarked `RARBGD`
 * "Certainly. `KR-GS KPA/SERPBL TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * "But `KR-GS KPA/PWUT`
 * still `STEUL`
 * you. `U TP-PL`

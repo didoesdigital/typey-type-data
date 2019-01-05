@@ -277,7 +277,7 @@
 * out, `OUT KW-BG`
 * did `TK`
 * He `KPA/HE`
-* never `TPHEF`
+* never `TPHEFR`
 * took `TAOBG`
 * eyes `AO*EUS`
 * from `TPR`

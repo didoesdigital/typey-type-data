@@ -470,7 +470,7 @@
 * mist; `PHEUFT STPH*FPLT`
 * good `TKPWAOD`
 * humor `HAOURPL`
-* never `TPHEF`
+* never `TPHEFR`
 * forsook `TPOR/SAOBG`
 * him. `HEUPL TP-PL`
 * drum-sticks `TKRUPL H-PB STEUBGS`

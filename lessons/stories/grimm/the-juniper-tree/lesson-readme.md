@@ -461,7 +461,7 @@
 * time.' `TAOEUPL TP-PL AE`
 * has `HAS`
 * for, `TPOR KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * even `AOEPB`
 * goodbye `TKPW-B`
 * me!' `PHE SKHRAPL AE`

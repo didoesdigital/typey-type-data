@@ -503,7 +503,7 @@
 * darling, `TKARLG KW-BG`
 * dream.' `TKRAOEPL TP-PL AE`
 * room, `RAOPL KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * mysterious. `PHEUFT/RUS TP-PL`
 * still. `STEUL TP-PL`
 * if `TP`

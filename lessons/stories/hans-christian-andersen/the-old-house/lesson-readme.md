@@ -249,7 +249,7 @@
 * acquainted, `A/KWAEUPBTD KW-BG`
 * friends, `TPREPBDZ KW-BG`
 * although `HR*T`
-* never `TPHEF`
+* never `TPHEFR`
 * spoken `SPOEPB`
 * each `AOEFP`
 * other; `OER STPH*FPLT`
@@ -525,7 +525,7 @@
 * time `TAOEUPL`
 * passed `PAFD`
 * on, `OPB KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * older, `OERLD KW-BG`
 * notice `TPH-TS`
 * "They `KR-GS KPA/THE`

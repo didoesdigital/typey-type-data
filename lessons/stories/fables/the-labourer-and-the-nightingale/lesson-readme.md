@@ -40,7 +40,7 @@
 * me." `PHE TP-PL KR-GS`
 * "We `KR-GS KPA/WE`
 * Nightingales `xxx Nightingales`
-* never `TPHEF`
+* never `TPHEFR`
 * in `TPH`
 * cage." `KAEUPBLG TP-PL KR-GS`
 * said `SAEUD`
@@ -87,7 +87,7 @@
 * of `-F`
 * tree `TRAOE`
 * said: `SAEUD STPH-FPLT`
-* "Never `KR-GS KPA/TPHEF`
+* "Never `KR-GS KPA/TPHEFR`
 * believe `PWHREF`
 * captive's `KAPT/EUF AES`
 * promise; `PROPLS STPH*FPLT`

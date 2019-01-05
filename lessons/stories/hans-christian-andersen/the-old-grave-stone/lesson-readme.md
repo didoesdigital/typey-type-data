@@ -427,7 +427,7 @@
 * church, `KHUFRPB KW-BG`
 * destroyed, `TKROEUD KW-BG`
 * Martha, `PHAR/THA KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * else, `ELS KW-BG`
 * sold `SOELD`
 * whoever `WHOFR`
@@ -506,7 +506,7 @@
 * beamed `PWAEPL/-D`
 * His `KPA/HEUS`
 * world. `WORLD TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * echoed `EBG/OE/-D`
 * moment `PHOEPLT`
 * invisible `EUPB/SREUBL`
@@ -549,7 +549,7 @@
 * ripen `RAOEUP/-PB`
 * course `KORS`
 * poem. `POEPL TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * forgotten, `TPORGTD KW-BG`
 * live `HREUF`
 * story `STOER`

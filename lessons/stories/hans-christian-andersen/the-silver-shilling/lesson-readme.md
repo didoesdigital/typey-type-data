@@ -561,7 +561,7 @@
 * bring `PWREU`
 * luck. `HRUBG TP-PL`
 * How `KPA/HOU`
-* everything `EFG`
+* everything `EFRG`
 * seemed `SAOEPLD`
 * trouble. `TRUBL TP-PL`
 * collector `KHREBG/TOR`
@@ -595,7 +595,7 @@
 * after, `AF KW-BG`
 * recognised `REFD/A*U`
 * aside. `A/SAOEUD TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * happened `HAPD`
 * add `AD`
 * sorrow. `SROE TP-PL`
@@ -642,7 +642,7 @@
 * smile `SPHAOEUL`
 * spread `SPRED`
 * over `OEFR`
-* never `TPHEF`
+* never `TPHEFR`
 * seen `SAOEPB`
 * such `SUFP`
 * face `TPAEUS`

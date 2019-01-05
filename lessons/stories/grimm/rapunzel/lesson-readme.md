@@ -247,7 +247,7 @@
 * mother.' `PHOER TP-PL AE`
 * terror `TER/O*R`
 * consented `KEFPBT/-D`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * brought `PWRAUT`
 * bed, `PWED KW-BG`
 * appeared `A/PAOERD`
@@ -361,7 +361,7 @@
 * first `TPEUFRT`
 * frightened `TPRAOEUPBD`
 * eyes `AO*EUS`
-* never `TPHEF`
+* never `TPHEFR`
 * yet `KWRET`
 * beheld, `PWE/HELD KW-BG`
 * her; `HER STPH*FPLT`

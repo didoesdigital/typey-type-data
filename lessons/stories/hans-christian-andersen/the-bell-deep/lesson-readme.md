@@ -378,7 +378,7 @@
 * though `THOE`
 * times `TAOEUPLS`
 * whisper `WEUS/PER`
-* everything `EFG`
+* everything `EFRG`
 * kept `KEPT`
 * concealed `KAUPB/SAOELD`
 * behind `HEUPBD`
@@ -500,7 +500,7 @@
 * wind `WEUPBD`
 * roars `RORS`
 * loopholes; `HRAOP/HOEL/-S STPH*FPLT`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * gets `TKPWETS`
 * encircles `xxx encircles`
 * things, `THEUPBGS KW-BG`
@@ -564,7 +564,7 @@
 * thyself," `THAOEU/SEFL KW-BG KR-GS`
 * both `PWO*T`
 * say. `SAEU TP-PL`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`
 * us, `US KW-BG`
 * talks `TAUBGS`
 * our `OUR`

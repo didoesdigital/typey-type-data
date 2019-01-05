@@ -17,7 +17,7 @@
 * spectacle-glasses `SPEBGT/K-L H-PB TKPWHRAFS`
 * that `THA`
 * make `PHAEUBG`
-* everything `EFG`
+* everything `EFRG`
 * look `HRAOBG`
 * hundred `HUPBD`
 * times `TAOEUPLS`
@@ -51,7 +51,7 @@
 * creatures `KRAOEFPS`
 * are `R`
 * otherwise `O*ERZ`
-* never `TPHEF`
+* never `TPHEFR`
 * discerned `TKEUS/ERPBD`
 * in `TPH`
 * water. `WAUR TP-PL`
@@ -106,7 +106,7 @@
 * always `AULS`
 * wanted `WAPBTD`
 * best `PWEFT`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * when `WHEPB`
 * could `KO`
 * not `TPHOT`

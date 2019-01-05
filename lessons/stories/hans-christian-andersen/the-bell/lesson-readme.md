@@ -328,7 +328,7 @@
 * certain `SERPB`
 * time. `TAOEUPL TP-PL`
 * third `THEURD`
-* never `TPHEF`
+* never `TPHEFR`
 * places `PHRAEUFS`
 * parents `PARPBTS`
 * him; `HEUPL STPH*FPLT`

@@ -462,7 +462,7 @@
 * 'as `AE AZ`
 * earthenware `*ERT/*EPB/WA*EUR`
 * stall `STAUL`
-* everybody `EFB`
+* everybody `EFRB`
 * passes? `PA*FS H-F`
 * let `HRET`
 * us `US`
@@ -496,7 +496,7 @@
 * windows `WOEUPBDZ`
 * looked `HRAOBGD`
 * out. `OUT TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * ready, `R-D KW-BG`
 * pomp `POFRP`
 * brightness `PWRAOEUT/-PBS`

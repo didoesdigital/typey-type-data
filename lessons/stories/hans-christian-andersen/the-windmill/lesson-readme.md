@@ -182,7 +182,7 @@
 * grow. `TKPWROE TP-PL`
 * ones `WUPBZ`
 * keep `KAOEP`
-* everything `EFG`
+* everything `EFRG`
 * order. `ORD TP-PL`
 * When, `KPA/WHEPB KW-BG`
 * lately, `HRAEULT KW-BG`

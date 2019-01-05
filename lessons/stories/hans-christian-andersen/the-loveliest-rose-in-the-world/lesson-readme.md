@@ -385,4 +385,4 @@
 * this, `TH KW-BG`
 * earth, `*ERT KW-BG`
 * shall `SHAL`
-* never `TPHEF`
+* never `TPHEFR`

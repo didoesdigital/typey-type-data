@@ -303,7 +303,7 @@
 * equal `KWAL`
 * felt `TPELT`
 * would `WO`
-* never `TPHEF`
+* never `TPHEFR`
 * again. `TKPWEPB TP-PL`
 * Be `KPA/-B`
 * may, `PHAE KW-BG`
@@ -535,7 +535,7 @@
 * dress `TKRES`
 * colour `KHROUR`
 * weather. `WHR* TP-PL`
-* Never, `KPA/TPHEF KW-BG`
+* Never, `KPA/TPHEFR KW-BG`
 * love `HRUF`
 * power `POUR`
 * able `ABL`
@@ -667,7 +667,7 @@
 * time. `TAOEUPL TP-PL`
 * What `KPA/WHA`
 * do? `TKO H-F`
-* Never `KPA/TPHEF`
+* Never `KPA/TPHEFR`
 * artistic `TR*EUFBG`
 * seen. `SAOEPB TP-PL`
 * She `KPA/SHE`
@@ -751,7 +751,7 @@
 * carry `KAER`
 * you: `U STPH-FPLT`
 * sacrifices `SABG/TPAOEUS/-S`
-* everything `EFG`
+* everything `EFRG`
 * mete `PHAO*ET`
 * reward. `RE/WARD TP-PL`
 * care `KAEUR`
@@ -863,7 +863,7 @@
 * done `TKOPB`
 * anything `TPHEUG`
 * else. `ELS TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * undertook `UPBD/TAOBG`
 * well. `WEL TP-PL`
 * One `KPA/WUPB`

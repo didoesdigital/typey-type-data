@@ -102,7 +102,7 @@
 * none, `TPHOPB KW-BG`
 * or `OR`
 * would `WO`
-* never `TPHEF`
+* never `TPHEFR`
 * fallen `TPAUL/-PB`
 * into `TPHAO`
 * trap." `TRAP TP-PL KR-GS`

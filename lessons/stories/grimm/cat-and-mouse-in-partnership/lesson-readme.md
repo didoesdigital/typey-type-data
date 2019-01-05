@@ -289,7 +289,7 @@
 * 'Half-done! `AE KPA/HAF H-PB TKOPB SKHRAPL`
 * What `KPA/WHA`
 * saying? `SAEUG H-F`
-* never `TPHEF`
+* never `TPHEFR`
 * heard `HAERD`
 * life, `HRAOEUF KW-BG`
 * I'll `AOEUL`
@@ -349,7 +349,7 @@
 * entirely `SPWAOEURL`
 * emptied `EPL/TEUD`
 * 'When `AE KPA/WHEPB`
-* everything `EFG`
+* everything `EFRG`
 * eaten `AOET/EPB`
 * peace,' `PAES KW-BG AE`
 * herself, `H*ERS KW-BG`

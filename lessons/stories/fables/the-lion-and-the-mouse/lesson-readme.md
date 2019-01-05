@@ -42,7 +42,7 @@
 * time, `TAOEUPL KW-BG`
 * I `EU`
 * shall `SHAL`
-* never `TPHEF`
+* never `TPHEFR`
 * forget `TPERGT`
 * it: `T STPH-FPLT`
 * knows `TPHOEZ`

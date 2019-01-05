@@ -100,7 +100,7 @@
 * leave `HREF`
 * other,' `OER KW-BG AE`
 * answered: `AEPBS/-D STPH-FPLT`
-* 'Never `AE KPA/TPHEF`
+* 'Never `AE KPA/TPHEFR`
 * long `HROPBG`
 * we `WE`
 * live,' `HREUF KW-BG AE`
@@ -417,7 +417,7 @@
 * liked; `HRAOEUBGD STPH*FPLT`
 * used `AOUFD`
 * doors `TKAORS`
-* never `TPHEF`
+* never `TPHEFR`
 * fastened `TPAS/-PBD`
 * friend `TPREPBD`
 * arrived. `A/REUFD TP-PL`
@@ -565,7 +565,7 @@
 * wedge `WEPBLG`
 * safely `SAEUFL`
 * in, `TPH KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * wished; `WEURBD STPH*FPLT`
 * cursed `KURS/-D`
 * smooth `SPHAO*T`

@@ -141,7 +141,7 @@
 * be `-B`
 * if `TP`
 * person `PERPB`
-* never `TPHEF`
+* never `TPHEFR`
 * achieve `A/KHAOEF`
 * anything. `TPHEUG TP-PL`
 * "And `KR-GS AFPBD`
@@ -214,7 +214,7 @@
 * editor `OERTD`
 * paper, `PAEUP KW-BG`
 * "my `KR-GS PHEU`
-* everybody's `EFB AES`
+* everybody's `EFRB AES`
 * into `TPHAO`
 * newspaper. `TPHUP TP-PL`
 * sorts `SORTS`
@@ -322,7 +322,7 @@
 * kinds `KEUPBDZ`
 * valuable `SRABL`
 * objects. `OBS TP-PL`
-* Everybody `KPA/EFB`
+* Everybody `KPA/EFRB`
 * wished `WEURBD`
 * see `SAOE`
 * it, `T KW-BG`

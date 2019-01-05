@@ -584,7 +584,7 @@
 * wish `WEURB`
 * you; `U STPH*FPLT`
 * promise `PROPLS`
-* never `TPHEF`
+* never `TPHEFR`
 * use `AOUS`
 * hence `HEPBS`
 * father's `TPAER/AES`

@@ -384,7 +384,7 @@
 * go `TKPW`
 * toads. `TOEDZ TP-PL`
 * "No, `KR-GS KPA/TPHO KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * be!" `-B SKHRAPL KR-GS`
 * assembled `A/SEPL/-BLD`
 * together `TOGT`
@@ -1157,7 +1157,7 @@
 * "but `KR-GS PWUT`
 * there—you `THR EPL/TKA*RB U`
 * choose `KHAOS`
-* everything `EFG`
+* everything `EFRG`
 * wish `WEURB`
 * happy." `HAEP TP-PL KR-GS`
 * "That `KR-GS KPA/THA`

@@ -88,7 +88,7 @@
 * hung `HUPBG`
 * out `OUT`
 * over `OEFR`
-* everything `EFG`
+* everything `EFRG`
 * if `TP`
 * picture, `P*EUFP KW-BG`
 * except `KPEPT`
@@ -1193,7 +1193,7 @@
 * given `TKPWEUFPB`
 * architect, `TREGT KW-BG`
 * finer `TPAOEURPB`
-* never `TPHEF`
+* never `TPHEFR`
 * seen. `SAOEPB TP-PL`
 * architect `TREGT`
 * planted `PHRAPBT/-D`

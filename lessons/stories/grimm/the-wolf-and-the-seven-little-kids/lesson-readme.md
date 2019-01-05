@@ -60,7 +60,7 @@
 * you `U`
 * all--skin, `AUL H-PB H-PB SKEUPB KW-BG`
 * hair, `HAEUR KW-BG`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`
 * The `KPA/-T`
 * wretch `WREFP`
 * often `OFPB`
@@ -394,7 +394,7 @@
 * haste, `HAEUFT KW-BG`
 * aware `A/WAEUR`
 * anything `TPHEUG`
-* never `TPHEF`
+* never `TPHEFR`
 * stirred. `STEURD TP-PL`
 * sleep, `SHRAOEP KW-BG`
 * got `TKPWOT`

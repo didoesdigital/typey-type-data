@@ -435,7 +435,7 @@
 * near `TPHAOER`
 * us." `US TP-PL KR-GS`
 * "No, `KR-GS KPA/TPHO KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * do," `TKO KW-BG KR-GS`
 * "because `KR-GS PWAU`
 * know `TPHOE`

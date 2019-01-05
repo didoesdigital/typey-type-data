@@ -212,7 +212,7 @@
 * "Not `KR-GS KPA/TPHOT`
 * opinion," `P-PB KW-BG KR-GS`
 * fourth; `TPO*URT STPH*FPLT`
-* never `TPHEF`
+* never `TPHEFR`
 * follow `TPOL`
 * lead `HRAED`
 * others, `OERS KW-BG`
@@ -836,7 +836,7 @@
 * lads `HRADZ`
 * lasses `HRAS/-S`
 * singing, `SEUPBG/-G KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * merriment `PHER/*PLT`
 * joy. `SKWROEU TP-PL`
 * hanging `HAPBG/-G`

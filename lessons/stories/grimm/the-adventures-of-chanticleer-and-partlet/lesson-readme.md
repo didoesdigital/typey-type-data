@@ -110,7 +110,7 @@
 * Chanticleer; `xxx Chanticleer STPH*FPLT`
 * 'no, `AE TPHO KW-BG`
 * will `HR`
-* never `TPHEF`
+* never `TPHEFR`
 * do; `TKO STPH*FPLT`
 * rather `RAER`
 * by `PWEU`

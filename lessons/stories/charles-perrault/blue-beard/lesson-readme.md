@@ -429,7 +429,7 @@
 * still `STEUL`
 * remained, `RE/PHAEUPBD KW-BG`
 * Fairy, `KPA/TPAEUR/REU KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * quite `KWAOEUT`
 * clean; `KHAOEPB STPH*FPLT`
 * gone `TKPWOPB`

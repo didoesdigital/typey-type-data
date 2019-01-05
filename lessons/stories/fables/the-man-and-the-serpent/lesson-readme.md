@@ -101,7 +101,7 @@
 * your `KWROUR`
 * gifts; `TKPWEUFTS STPH*FPLT`
 * can `K`
-* never `TPHEF`
+* never `TPHEFR`
 * death `TK*T`
 * nor `TPH-R`
 * loss `HROS`

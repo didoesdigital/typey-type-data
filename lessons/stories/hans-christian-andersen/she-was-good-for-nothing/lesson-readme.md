@@ -486,7 +486,7 @@
 * me; `PHE STPH*FPLT`
 * feel `TPAOEL`
 * ill: `EUL STPH-FPLT`
-* everything `EFG`
+* everything `EFRG`
 * me, `PHE KW-BG`
 * cannot `K/TPHOT`
 * bear `PWAER`
@@ -669,7 +669,7 @@
 * suffered; `SUFRD STPH*FPLT`
 * Heaven `KPA/HEFPB`
 * grant `TKPWRAPBT`
-* never `TPHEF`
+* never `TPHEFR`
 * counsellor's, `KOUPBL/A*U AE S* KW-BG`
 * father `TPAER`
 * mayor, `PHA*EUR KW-BG`

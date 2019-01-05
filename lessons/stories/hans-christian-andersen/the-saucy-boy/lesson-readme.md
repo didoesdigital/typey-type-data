@@ -288,7 +288,7 @@
 * this, `TH KW-BG`
 * take `TAEUBG`
 * care `KAEUR`
-* never `TPHEF`
+* never `TPHEFR`
 * play `PHRAEU`
 * lest `HR*ES`
 * hurt `HURT`

@@ -314,7 +314,7 @@
 * garden; `TKPWA*RPB STPH*FPLT`
 * take `TAEUBG`
 * care `KAEUR`
-* never `TPHEF`
+* never `TPHEFR`
 * near `TPHAOER`
 * or `OR`
 * meddle `PHED/*L`
@@ -558,7 +558,7 @@
 * have! `SR SKHRAPL`
 * make `PHAEUBG`
 * fast, `TPAFT KW-BG`
-* everybody `EFB`
+* everybody `EFRB`
 * please--however, `PHRES H-PB H-PB HOUF KW-BG`
 * brought `PWRAUT`
 * carry `KAER`

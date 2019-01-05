@@ -106,7 +106,7 @@
 * "When `KR-GS KPA/WHEPB`
 * grows `TKPWRO*ES`
 * dark, `TKARBG KW-BG`
-* everybody `EFB`
+* everybody `EFRB`
 * asleep, `A/HRAOEP KW-BG`
 * jump `SKWRUFRP`
 * about `PW`
@@ -228,7 +228,7 @@
 * old `OLD`
 * sit `SEUT`
 * watch `WAFP`
-* everything `EFG`
+* everything `EFRG`
 * may `PHAE`
 * be `-B`
 * conducted `KUBGTD`
@@ -349,7 +349,7 @@
 * It `KPA/T`
 * be, `-B KW-BG`
 * however, `HOUF KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * been `PW-PB`
 * palace, `PAL/AS KW-BG`
 * and, `SKP KW-BG`

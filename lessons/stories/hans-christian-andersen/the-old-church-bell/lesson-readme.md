@@ -408,7 +408,7 @@
 * standing `STAPBG`
 * grass `TKPWRAS`
 * nettles. `TPHET/-LS TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * forgot `TPAURGT`
 * reverberated `RE/SRERB/RAEUT/-D`
 * reached `RAOEFPD`
@@ -508,7 +508,7 @@
 * number, `TPHUPL KW-BG`
 * own `OEPB`
 * peg; `PEG STPH*FPLT`
-* everything `EFG`
+* everything `EFRG`
 * here `HAOER`
 * ordered `ORD/-D`
 * like `HRAOEUBG`

@@ -56,7 +56,7 @@
 * seemed `SAOEPLD`
 * as `AZ`
 * if `TP`
-* never `TPHEF`
+* never `TPHEFR`
 * cease `SAOES`
 * growing; `TKPWROEG STPH*FPLT`
 * so `SO`
@@ -182,7 +182,7 @@
 * him; `HEUPL STPH*FPLT`
 * because `PWAU`
 * poor, `PAOR KW-BG`
-* everybody `EFB`
+* everybody `EFRB`
 * forgets `TPORGTS`
 * me.' `PHE TP-PL AE`
 * then `THEPB`

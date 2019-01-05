@@ -45,4 +45,4 @@
 * cannot `K/TPHOT`
 * be `-B`
 * first `TPEUFRT`
-* everything." `EFG TP-PL KR-GS`
+* everything." `EFRG TP-PL KR-GS`

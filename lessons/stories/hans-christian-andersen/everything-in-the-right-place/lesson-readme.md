@@ -130,7 +130,7 @@
 * backward `PWABG/WARD`
 * into `TPHAO`
 * ditch. `TKEUFP TP-PL`
-* "Everything `KR-GS KPA/EFG`
+* "Everything `KR-GS KPA/EFRG`
 * right `RAOEUT`
 * place!" `PHRAEUS SKHRAPL KR-GS`
 * cried. `KRAOEUD TP-PL`
@@ -212,7 +212,7 @@
 * been `PW-PB`
 * broken `PWROEPB`
 * possible `POB`
-* everything `EFG`
+* everything `EFRG`
 * place; `PHRAEUS STPH*FPLT`
 * stuck `STUBG`
 * soft `SOFT`
@@ -500,7 +500,7 @@
 * splendid `SPHREPBD/EUD`
 * there, `THR KW-BG`
 * free, `TPRAOE KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * clipped. `KHREUPD TP-PL`
 * "It `KR-GS KPA/T`
 * genealogical `SKWRAO*EPB/HR-L`
@@ -703,7 +703,7 @@
 * geese. `TKPWAOES TP-PL`
 * papa `PA/PA`
 * mamma." `PHAPL/PHA TP-PL KR-GS`
-* "everything `KR-GS EFG`
+* "everything `KR-GS EFRG`
 * place." `PHRAEUS TP-PL KR-GS`
 * why `KWR`
 * great-grandparents `TKPWRAET H-PB TKPWR-PTS`
@@ -783,7 +783,7 @@
 * knighted, `TPHAO*EUT/-D KW-BG`
 * people," `PAOEPL KW-BG KR-GS`
 * "their `KR-GS THAEUR`
-* 'everything `AE EFG`
+* 'everything `AE EFRG`
 * place,' `PHRAEUS KW-BG AE`
 * right, `RAOEUT KW-BG`
 * thought, `THAUT KW-BG`
@@ -1132,7 +1132,7 @@
 * "to `KR-GS TO`
 * pocket `POBGT`
 * flute." `TPHRAOUT TP-PL KR-GS`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * again `TKPWEPB`
 * usual `URBL`
 * order, `ORD KW-BG`

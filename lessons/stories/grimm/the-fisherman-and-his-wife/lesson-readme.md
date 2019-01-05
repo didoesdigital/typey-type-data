@@ -247,7 +247,7 @@
 * so, `SO KW-BG`
 * least,' `HRAOEFT KW-BG AE`
 * wife. `WAOEUF TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * right `RAOEUT`
 * week `WAOEBG`
 * or `OR`
@@ -434,13 +434,13 @@
 * thing `THEUPBG`
 * king! `KEUPBG SKHRAPL`
 * Now `KPA/TPHOU`
-* never `TPHEF`
+* never `TPHEFR`
 * anything `TPHEUG`
 * live.' `HREUF TP-PL AE`
 * know `TPHOE`
 * may `PHAE`
 * be,' `-B KW-BG AE`
-* 'never `AE TPHEF`
+* 'never `AE TPHEFR`
 * time. `TAOEUPL TP-PL`
 * king, `KEUPBG KW-BG`
 * true; `TRAOU STPH*FPLT`

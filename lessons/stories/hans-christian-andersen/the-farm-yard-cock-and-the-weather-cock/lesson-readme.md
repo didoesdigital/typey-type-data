@@ -260,7 +260,7 @@
 * world `WORLD`
 * good!" `TKPWAOD SKHRAPL KR-GS`
 * said. `SAEUD TP-PL`
-* "Everything `KR-GS KPA/EFG`
+* "Everything `KR-GS KPA/EFRG`
 * stupid." `STAOUPD TP-PL KR-GS`
 * puffed `PUFD`
 * up, `UP KW-BG`
@@ -379,7 +379,7 @@
 * wind-egg. `WEUPBD H-PB EG TP-PL`
 * But `KPA/PWUT`
 * worth `WO*RT`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * stupid! `STAOUPD SKHRAPL`
 * don't `TKOEPBT`
 * want `WAPBT`

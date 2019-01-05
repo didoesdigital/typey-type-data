@@ -615,7 +615,7 @@
 "TPHAEUPL KW-BG": "name,",
 "SKP": "and",
 "KWRET": "yet",
-"EFB": "everybody",
+"EFRB": "everybody",
 "SHO": "should",
 "WAER": "wear",
 "WUPB TP-PL": "one.",
@@ -887,7 +887,7 @@
 "TH": "this",
 "PAEUP TP-PL": "paper.",
 "KR-GS EU": "\"I",
-"TPHEF": "never",
+"TPHEFR": "never",
 "PHAPBLGD": "imagined",
 "TPHEUG": "anything",
 "HRAOEUBG": "like",
@@ -1523,7 +1523,7 @@
 "-T": "the",
 "WHAOEUT": "white",
 "HREUPB/-PB": "linen",
-"TPHEF": "never",
+"TPHEFR": "never",
 "KO": "could",
 "SR": "have",
 "TKPWHREUS/-PBD TP-PL": "glistened.",
@@ -1704,7 +1704,7 @@
 "KR-GS KPA/-T": "\"The",
 "SOPBG": "song",
 "S": "is",
-"TPHEF": "never",
+"TPHEFR": "never",
 "EPBD/-D STPH*FPLT": "ended;",
 "-T": "the",
 "PHOFT": "most",
@@ -1730,5 +1730,5 @@
 "PHUFT": "must",
 "TPHOT": "not",
 "TPHOE": "know",
-"EFG TP-PL": "everything."
+"EFRG TP-PL": "everything."
 }

@@ -433,7 +433,7 @@
 * hour `HOUR`
 * part `PART`
 * shall `SHAL`
-* never `TPHEF`
+* never `TPHEFR`
 * again." `TKPWEPB TP-PL KR-GS`
 * Years `KPA/KWRAOERS`
 * passed; `PAFD STPH*FPLT`

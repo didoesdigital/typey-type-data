@@ -91,7 +91,7 @@
 * all `AUL`
 * in `TPH`
 * disorder, `TKORD KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * seemed `SAOEPLD`
 * gone, `TKPWOPB KW-BG`
 * enemy's `EPB/PHEU/AES`
@@ -129,7 +129,7 @@
 * man. `PHAPB TP-PL`
 * But `KPA/PWUT`
 * story `STOER`
-* never `TPHEF`
+* never `TPHEFR`
 * dies. `TKAOEUZ TP-PL`
 * more `PHOR`
 * than `THAPB`

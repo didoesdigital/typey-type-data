@@ -150,7 +150,7 @@
 * poor `PAOR`
 * elf `*EFL`
 * frightened. `TPRAOEUPBD TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * been `PW-PB`
 * out `OUT`
 * at `AT`

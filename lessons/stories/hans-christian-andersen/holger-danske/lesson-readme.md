@@ -131,7 +131,7 @@
 * dreams, `TKRAOEPLS KW-BG`
 * dreams `TKRAOEPLS`
 * sees `SAO*ES`
-* everything `EFG`
+* everything `EFRG`
 * that `THA`
 * happens `HABS`
 * Denmark. `TKEPB/PHARBG TP-PL`

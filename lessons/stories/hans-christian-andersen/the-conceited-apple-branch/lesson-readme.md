@@ -302,14 +302,14 @@
 * them—the `THEPL EPL/TKA*RB -T`
 * rich. `REUFP TP-PL`
 * apple-bough `A*EPL H-PB PWO*U`
-* never `TPHEF`
+* never `TPHEFR`
 * boundless `PWOUPBD/-LS`
 * love `HRUF`
 * God, `TKPWO*D KW-BG`
 * extends `ST*EPBDZ`
 * works `WORBGS`
 * creation, `KRAEGS KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * lives, `HREUFS KW-BG`
 * moves, `PHOFS KW-BG`
 * has `HAS`

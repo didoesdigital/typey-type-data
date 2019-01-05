@@ -258,7 +258,7 @@
 * possessions, `POE/SEGS/-S KW-BG`
 * he `HE`
 * longs `HROPBG/-S`
-* more—everything `PHOR EPL/TKA*RB EFG`
+* more—everything `PHOR EPL/TKA*RB EFRG`
 * must `PHUFT`
 * bow `PWOE`
 * before `PW-F`
@@ -314,7 +314,7 @@
 * him. `HEUPL TP-PL`
 * Perhaps `KPA/PRAPS`
 * grave, `TKPWRAEUF KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * come `KOPL`
 * back `PWABG`
 * home, `HOEPL KW-BG`

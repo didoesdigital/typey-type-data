@@ -174,7 +174,7 @@
 * roses, `ROES/-S KW-BG`
 * size `SAOEUZ`
 * is `S`
-* everything! `EFG SKHRAPL`
+* everything! `EFRG SKHRAPL`
 * tulips `TAOU/HREUPS`
 * finest `TPAOEUPB/EFT`
 * colours, `KHROURS/A*U KW-BG`
@@ -386,7 +386,7 @@
 * out. `OUT TP-PL`
 * entirely `SPWAOEURL`
 * forgot `TPAURGT`
-* everything `EFG`
+* everything `EFRG`
 * around `ARPBD`
 * was, `WAS KW-BG`
 * shining, `SHAOEUPBG KW-BG`

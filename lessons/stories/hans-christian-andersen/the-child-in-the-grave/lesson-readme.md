@@ -306,7 +306,7 @@
 * full `TPUL`
 * grief? `TKPWRAOEF H-F`
 * if `TP`
-* never `TPHEF`
+* never `TPHEFR`
 * again `TKPWEPB`
 * sleep, `SHRAOEP KW-BG`
 * yet `KWRET`
@@ -528,7 +528,7 @@
 * sounded—now `SOUPBD/-D EPL/TKA*RB TPHOU`
 * distant, `STKAPBT KW-BG`
 * near. `TPHAOER TP-PL`
-* Never `KPA/TPHEF`
+* Never `KPA/TPHEFR`
 * listened `HREUFPBD`
 * such `SUFP`
 * these; `THEZ STPH*FPLT`
@@ -704,7 +704,7 @@
 * church-bells `KHUFRPB H-PB PWELS`
 * early `ERL`
 * service. `S-FS TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * holy, `HOEUL KW-BG`
 * chastened. `KHAEUFPB/-D TP-PL`
 * acknowledged `ABG/TPHOPBLGD`

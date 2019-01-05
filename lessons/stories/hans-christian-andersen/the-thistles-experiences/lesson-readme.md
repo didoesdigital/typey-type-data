@@ -397,7 +397,7 @@
 * deep `TKAOEP`
 * admiration, `AD/PHEUR/AEUGS KW-BG`
 * believed `PWHREFD`
-* everything `EFG`
+* everything `EFRG`
 * heard. `HAERD TP-PL`
 * milk-cart `PH*EULG H-PB KART`
 * edge `EPBG`

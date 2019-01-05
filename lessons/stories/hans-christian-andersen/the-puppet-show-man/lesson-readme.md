@@ -344,7 +344,7 @@
 * look `HRAOBG`
 * bright `PWRAOEUT`
 * side `SAOEUD`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * although `HR*T`
 * men. `PHEPB TP-PL`
 * "'One `KR-GS AE KPA/WUPB`
@@ -564,7 +564,7 @@
 * wished `WEURBD`
 * box `PWOBGS`
 * again, `TKPWEPB KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * So `KPA/SO`
 * told `TOLD`
 * roundly `ROUPBD/HREU`

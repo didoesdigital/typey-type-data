@@ -240,7 +240,7 @@
 * contained. `TAEUPBD TP-PL`
 * And `AFPBD`
 * willow-wren `WEUL/HROE H-PB WREPB`
-* everything `EFG`
+* everything `EFRG`
 * which `WEU`
 * air, `AEUR KW-BG`
 * only `OEPBL`
@@ -318,7 +318,7 @@
 * she `SHE`
 * again, `TKPWEPB KW-BG`
 * revealed `RE/SRAOELD`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * down `TKOUPB`
 * minutest `xxx minutest`
 * detail, `TKE/TAEUL KW-BG`

@@ -246,7 +246,7 @@
 * Bird `KPA/PWEURD`
 * Popular `KPA/PHRA*R`
 * Song, `KPA/SOPBG KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * dies. `TKAOEUZ TP-PL`
 * We `KPA/WE`
 * hear `HAER`
@@ -429,7 +429,7 @@
 * heavy `HOEUF`
 * dream `TKRAOEPL`
 * night. `TPHAOEUT TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * hidden `HEUD/EPB`
 * cross `KROS`
 * church, `KHUFRPB KW-BG`
@@ -470,7 +470,7 @@
 * "We `KR-GS KPA/WE`
 * town," `TOUPB KW-BG KR-GS`
 * say; `SAEU STPH*FPLT`
-* "everything `KR-GS EFG`
+* "everything `KR-GS EFRG`
 * living `HREUFG`
 * piep! `xxx piep SKHRAPL`
 * piep!" `xxx piep SKHRAPL KR-GS`

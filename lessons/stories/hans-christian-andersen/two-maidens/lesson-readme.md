@@ -256,7 +256,7 @@
 * too `TAO`
 * that." `THA TP-PL KR-GS`
 * presume `PRAOUPL`
-* never `TPHEF`
+* never `TPHEFR`
 * heard `HAERD`
 * 'European `AE UR/PAOEPB`
 * necessity?'" `TPHES/TEU H-F AE KR-GS`
@@ -277,7 +277,7 @@
 * pouting `POUT/-G`
 * will `HR`
 * avail, `A/SRAEUL KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * its `EUTS`
 * measure." `PH*ERB TP-PL KR-GS`
 * "No; `KR-GS KPA/TPHO STPH*FPLT`

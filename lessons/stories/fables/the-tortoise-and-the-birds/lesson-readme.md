@@ -76,7 +76,7 @@
 * hearty `HAR/TEU`
 * meal `PHAOEL`
 * Tortoise. `KPA/TOR/TOS TP-PL`
-* Never `KPA/TPHEF`
+* Never `KPA/TPHEFR`
 * soar `SAOR`
 * aloft `A/HROFT`
 * enemy's `EPB/PHEU/AES`

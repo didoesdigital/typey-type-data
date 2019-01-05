@@ -522,7 +522,7 @@
 * sensation `STPHAEUGS`
 * drawn `TKRAUPB`
 * time! `TAOEUPL SKHRAPL`
-* never `TPHEF`
+* never `TPHEFR`
 * forget `TPERGT`
 * performance `PORPLS`
 * moment; `PHOEPLT STPH*FPLT`
@@ -1034,7 +1034,7 @@
 * day, `TKAEU KW-BG`
 * serve `SEFRB`
 * bird's-cage. `PWEURD AE S* H-PB KAEUPBLG TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * amid `A/PHEUD`
 * feasting; `TPAOEFT/-G STPH*FPLT`
 * music `PHAOUFBG`

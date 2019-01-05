@@ -14,7 +14,7 @@
 * animals. `PHAPBLS TP-PL`
 * "I `KR-GS EU`
 * have `SR`
-* never `TPHEF`
+* never `TPHEFR`
 * yet `KWRET`
 * been `PW-PB`
 * beaten," `PWAOET/EPB KW-BG KR-GS`

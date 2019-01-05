@@ -206,7 +206,7 @@
 * first `TPEUFRT`
 * matters `PHAERTS`
 * stood. `STAOD TP-PL`
-* Everybody `KPA/EFB`
+* Everybody `KPA/EFRB`
 * town `TOUPB`
 * knew `TPHAOU`
 * what `WHA`
@@ -271,7 +271,7 @@
 * dear," `TKAER KW-BG KR-GS`
 * "can `KR-GS K`
 * stupid? `STAOUPD H-F`
-* never `TPHEF`
+* never `TPHEFR`
 * so, `SO KW-BG`
 * it! `T SKHRAPL`
 * Is `KPA/S`
@@ -323,7 +323,7 @@
 * gold-cloth, `TKPWOELD H-PB KHRO*T KW-BG`
 * required `RAOEURD`
 * kept `KEPT`
-* everything `EFG`
+* everything `EFRG`
 * themselves, `TH*EPLS KW-BG`
 * thread `THRED`
 * near `TPHAOER`
@@ -438,7 +438,7 @@
 * heard `HAERD`
 * them `THEPL`
 * say; `SAEU STPH*FPLT`
-* everybody `EFB`
+* everybody `EFRB`
 * seemed `SAOEPLD`
 * delighted, `TKHRAOEUTD KW-BG`
 * appointed `POEUPBD`
@@ -556,7 +556,7 @@
 * him!" `HEUPL SKHRAPL KR-GS`
 * Nobody `KPA/TPHOEB`
 * too `TAO`
-* Never `KPA/TPHEF`
+* Never `KPA/TPHEFR`
 * admired. `AD/PHAOEURD TP-PL`
 * "But `KR-GS KPA/PWUT`
 * little `HREUL`

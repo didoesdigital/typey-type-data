@@ -330,7 +330,7 @@
 * couple `KUPL`
 * no `TPHO`
 * more; `PHOR STPH*FPLT`
-* everything `EFG`
+* everything `EFRG`
 * from `TPR`
 * time `TAOEUPL`
 * forward, `TPAORD KW-BG`

@@ -313,7 +313,7 @@
 * which `WEU`
 * like `HRAOEUBG`
 * name, `TPHAEUPL KW-BG`
-* everybody `EFB`
+* everybody `EFRB`
 * wear `WAER`
 * one. `WUPB TP-PL`
 * "See, `KR-GS KPA/SAOE KW-BG`
@@ -402,7 +402,7 @@
 * blessing `PWHR*EFG`
 * contained `TAEUPBD`
 * words `WORDZ`
-* never `TPHEF`
+* never `TPHEFR`
 * imagined `PHAPBLGD`
 * anything `TPHEUG`
 * this," `TH KW-BG KR-GS`
@@ -658,4 +658,4 @@
 * hear `HAER`
 * this, `TH KW-BG`
 * they; `THE STPH*FPLT`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`

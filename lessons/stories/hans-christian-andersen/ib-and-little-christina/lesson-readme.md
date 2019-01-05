@@ -252,7 +252,7 @@
 * Christina `KREUS/TEU/TPHA`
 * agreed `TKPWRAED`
 * together `TOGT`
-* everything; `EFG STPH*FPLT`
+* everything; `EFRG STPH*FPLT`
 * divided `TKWAOEUTD`
 * bread `PWRAED`
 * berries `PWER/KWREUS`
@@ -281,7 +281,7 @@
 * eggs `EGS`
 * wood, `WAOD KW-BG`
 * event. `EFPBT TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * where `W-R`
 * Christina's `KREUS/TEU/TPHA AES`
 * lived, `HREUFD KW-BG`
@@ -371,7 +371,7 @@
 * water-lilies `WAUR H-PB HREUL/KWREU/KWREU/-S`
 * waved `WAFD`
 * fro `TPRO`
-* everything `EFG`
+* everything `EFRG`
 * excursion `EBGS/KURGS`
 * beautiful, `PWAOUFL KW-BG`
 * rushed `RURBD`
@@ -494,7 +494,7 @@
 * helped `HEPD`
 * up, `UP KW-BG`
 * said, `SAEUD KW-BG`
-* "Never `KR-GS KPA/TPHEF`
+* "Never `KR-GS KPA/TPHEFR`
 * mind; `PHAOEUPBD STPH*FPLT`
 * follow `TPOL`
 * me. `PHE TP-PL`
@@ -1104,7 +1104,7 @@
 * your `KWROUR`
 * read, `RAED KW-BG`
 * prosperous `PROFP/ROUS`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * better `PWOERT`
 * fortune `TP-RPB`
 * Ask `KPA/SK`

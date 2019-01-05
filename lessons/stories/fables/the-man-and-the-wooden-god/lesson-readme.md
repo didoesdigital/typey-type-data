@@ -32,7 +32,7 @@
 * father, `TPAER KW-BG`
 * but `PWUT`
 * luck `HRUBG`
-* never `TPHEF`
+* never `TPHEFR`
 * seemed `SAOEPLD`
 * change. `KHAEUPBG TP-PL`
 * He `KPA/HE`

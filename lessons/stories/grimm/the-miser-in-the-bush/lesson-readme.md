@@ -185,7 +185,7 @@
 * bow `PWOE`
 * bring `PWREU`
 * down `TKOUPB`
-* everything `EFG`
+* everything `EFRG`
 * shoot `SHAOT`
 * at; `AT STPH*FPLT`
 * secondly, `SELGD KW-BG`

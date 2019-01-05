@@ -509,7 +509,7 @@
 * members `PHEPLS`
 * society, `SOET KW-BG`
 * whom `WHOPL`
-* everybody `EFB`
+* everybody `EFRB`
 * cares `KAEURS`
 * for.' `TPOR TP-PL AE`
 * again,' `TKPWEPB KW-BG AE`
@@ -723,7 +723,7 @@
 * Let's `KPA/HRET AES`
 * off `OF`
 * farm!" `TPARPL SKHRAPL KR-GS`
-* everything `EFG`
+* everything `EFRG`
 * behind `HEUPBD`
 * stick, `STEUBG KW-BG`
 * described, `KREUFD KW-BG`
@@ -764,7 +764,7 @@
 * heart, `HART KW-BG`
 * always `AULS`
 * sang `SAPBG`
-* never `TPHEF`
+* never `TPHEFR`
 * forget `TPERGT`
 * that!" `THA SKHRAPL KR-GS`
 * during `TKURG`

@@ -96,7 +96,7 @@
 * horse, `HORS KW-BG`
 * 'justice `AE SKWRUFS`
 * avarice `AFR/EUS`
-* never `TPHEF`
+* never `TPHEFR`
 * dwell `TKWEL`
 * one `WUPB`
 * house; `HOUS STPH*FPLT`

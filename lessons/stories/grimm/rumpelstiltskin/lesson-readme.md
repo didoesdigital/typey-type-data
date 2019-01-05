@@ -260,7 +260,7 @@
 * child `KHAOEULD`
 * may `PHAE`
 * 'That `AE KPA/THA`
-* never `TPHEF`
+* never `TPHEFR`
 * be,' `-B KW-BG AE`
 * thought `THAUT`
 * daughter: `TKAUR STPH-FPLT`

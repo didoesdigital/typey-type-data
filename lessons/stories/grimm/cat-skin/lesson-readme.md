@@ -45,7 +45,7 @@
 * me `PHE`
 * you `U`
 * will `HR`
-* never `TPHEF`
+* never `TPHEFR`
 * marry `PHAER`
 * again, `TKPWEPB KW-BG`
 * unless `TPH-LS`

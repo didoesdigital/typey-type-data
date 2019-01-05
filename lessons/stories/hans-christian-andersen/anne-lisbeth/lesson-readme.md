@@ -168,7 +168,7 @@
 * walk, `WAUBG KW-BG`
 * wore `WOR`
 * bonnet; `PWOPB/ET STPH*FPLT`
-* never `TPHEF`
+* never `TPHEFR`
 * walked `WAUBGD`
 * see `SAOE`
 * laborer: `HRAEUB/RER STPH-FPLT`
@@ -478,7 +478,7 @@
 * will `HR`
 * able `ABL`
 * say, `SAEU KW-BG`
-* "Never `KR-GS KPA/TPHEF`
+* "Never `KR-GS KPA/TPHEFR`
 * loved." `HROFD TP-PL KR-GS`
 * lived `HREUFD`
 * town `TOUPB`
@@ -1333,7 +1333,7 @@
 * acted `ABGD`
 * soul, `SOUL KW-BG`
 * taken `TAEPB`
-* Never `KPA/TPHEF`
+* Never `KPA/TPHEFR`
 * cling `KHREUPBG`
 * mercy `PHER/SEU`
 * Heaven `KPA/HEFPB`

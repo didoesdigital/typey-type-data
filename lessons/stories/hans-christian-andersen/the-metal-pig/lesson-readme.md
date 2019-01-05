@@ -299,7 +299,7 @@
 * David `TKAEUFD`
 * tossed `TOS/-D`
 * sling; `SHREUPBG STPH*FPLT`
-* everything `EFG`
+* everything `EFRG`
 * life. `HRAOEUF TP-PL`
 * metallic `PHET/ALG`
 * groups `TKPRAOUPS`
@@ -1162,7 +1162,7 @@
 * lady `HRA*ED`
 * end `EPBD`
 * this?" `TH H-F KR-GS`
-* never `TPHEF`
+* never `TPHEFR`
 * unless `TPH-LS`
 * attired `A/TAOEUR/-D`
 * lambskin `xxx lambskin`
@@ -1220,7 +1220,7 @@
 * better `PWOERT`
 * jump `SKWRUFRP`
 * confess `KAUPB/TPES`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`
 * certainly `SERPBL`
 * kill `KEUL`
 * thought. `THAUT TP-PL`
@@ -1347,7 +1347,7 @@
 * third `THEURD`
 * attempt `A/TEPLT`
 * good, `TKPWAOD KW-BG`
-* everybody `EFB`
+* everybody `EFRB`
 * meant `PHEPBT`
 * represent. `REPT TP-PL`
 * glovemaking `xxx glovemaking`

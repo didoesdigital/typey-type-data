@@ -348,7 +348,7 @@
 * always `AULS`
 * young. `KWRUPBG TP-PL`
 * Eyes `KPA/AO*EUS`
-* never `TPHEF`
+* never `TPHEFR`
 * die. `TKAOEU TP-PL`
 * Ours `KPA/OURS`
 * will `HR`

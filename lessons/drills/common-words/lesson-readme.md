@@ -267,7 +267,7 @@
 * ever `-FR`
 * every `EF`
 * everyone `EFRPB`
-* everything `EFG`
+* everything `EFRG`
 * exactly `ELG`
 * except `KPEPT`
 * excite `KPAOEUT`
@@ -563,7 +563,7 @@
 * neck `TPHEBG`
 * need `TPHAOED`
 * nervous `TPHEFRS`
-* never `TPHEF`
+* never `TPHEFR`
 * new `TPHU`
 * next `TPHEGT`
 * nice `TPHAOEUS`

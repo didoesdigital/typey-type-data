@@ -168,7 +168,7 @@
 * sing `SEUPBG`
 * songs `SOPBGS`
 * she `SHE`
-* never `TPHEF`
+* never `TPHEFR`
 * sang `SAPBG`
 * other `OER`
 * times, `TAOEUPLS KW-BG`
@@ -773,7 +773,7 @@
 * meet, `PHAOET KW-BG`
 * solitary `SOL/TAER`
 * pass; `PAS STPH*FPLT`
-* everything `EFG`
+* everything `EFRG`
 * deserted—only `STK*ERT/-D EPL/TKA*RB OEPBL`
 * shooting `SHAOGT`
 * star `STAR`

@@ -641,7 +641,7 @@
 * service. `S-FS TP-PL`
 * thought `THAUT`
 * cold `KOELD`
-* never `TPHEF`
+* never `TPHEFR`
 * leave `HREF`
 * woodcutting, `WAOD/K*UT/-G KW-BG`
 * sawyer, `HRO*ER/SAUR KW-BG`

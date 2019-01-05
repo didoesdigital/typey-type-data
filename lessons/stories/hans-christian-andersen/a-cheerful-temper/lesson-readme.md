@@ -481,7 +481,7 @@
 * during `TKURG`
 * sixty-seven `SEUBGT H-PB SEFPB`
 * years, `KWRAOERS KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * remembered `RERD`
 * thing; `THEUPBG STPH*FPLT`
 * hope `HOEP`

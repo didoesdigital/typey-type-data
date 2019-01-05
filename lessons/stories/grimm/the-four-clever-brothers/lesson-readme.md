@@ -255,7 +255,7 @@
 * forwards `TPAORDZ`
 * needle `TPHAO*ELD`
 * goose, `TKPWAOS KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * suit `SAOUT`
 * me.' `PHE TP-PL AE`
 * sort `SORT`

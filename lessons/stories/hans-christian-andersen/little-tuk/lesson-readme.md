@@ -480,7 +480,7 @@
 * towns," `TOUPBS KW-BG KR-GS`
 * Hroar. `xxx Hroar TP-PL`
 * All `KPA/AUL`
-* everything `EFG`
+* everything `EFRG`
 * vanished; `SRAPB/EURBD STPH*FPLT`
 * where! `W-R SKHRAPL`
 * like `HRAOEUBG`
@@ -601,7 +601,7 @@
 * You `KPA/U`
 * shall `SHAL`
 * farm-yard. `TPARPL H-PB KWRARD TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * suffer `SUFR`
 * hunger `HURPBG`
 * want. `WAPBT TP-PL`

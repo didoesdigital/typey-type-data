@@ -172,7 +172,7 @@
 * shall `SHAL`
 * hanged `HAPBGD`
 * roasted." `ROEFT/-D TP-PL KR-GS`
-* "Never `KR-GS KPA/TPHEF`
+* "Never `KR-GS KPA/TPHEFR`
 * mind `PHAOEUPBD`
 * say; `SAEU STPH*FPLT`
 * you `U`

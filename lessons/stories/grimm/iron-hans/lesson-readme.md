@@ -140,7 +140,7 @@
 * better `PWOERT`
 * than `THAPB`
 * others, `OERS KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * again.' `TKPWEPB TP-PL AE`
 * replied: `RE/PHRAOEUD STPH-FPLT`
 * 'Lord, `AE HRO*RD KW-BG`
@@ -476,7 +476,7 @@
 * tied `TAO*EUD`
 * round `ROUPBD`
 * order `ORD`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * 'Take `AE KPA/TAEUBG`
 * handkerchief `HAPB/KER/KHEF`
 * off.' `OF TP-PL AE`

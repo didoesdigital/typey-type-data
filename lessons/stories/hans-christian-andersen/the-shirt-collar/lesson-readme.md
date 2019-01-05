@@ -57,7 +57,7 @@
 * shirt-collar, `SHEURT H-PB KHRAR KW-BG`
 * "I `KR-GS EU`
 * have `SR`
-* never `TPHEF`
+* never `TPHEFR`
 * seen `SAOEPB`
 * anything `TPHEUG`
 * slim `SHREUPL`
@@ -415,7 +415,7 @@
 * world `WORLD`
 * form `TPORPL`
 * telling `TELG`
-* everything `EFG`
+* everything `EFRG`
 * done, `TKOPB KW-BG`
 * boasting `PWOEFT/-G`
 * collar. `KHRAR TP-PL`

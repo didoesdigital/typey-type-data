@@ -256,10 +256,10 @@
 * being `-BG`
 * red, `RED KW-BG`
 * would `WO`
-* never `TPHEF`
+* never `TPHEFR`
 * confirmed `K-FRPL/-D`
 * be. `-B TP-PL`
-* Everybody `KPA/EFB`
+* Everybody `KPA/EFRB`
 * feet, `TPAOET KW-BG`
 * whole `WHOEL`
 * way `WAEU`
@@ -304,7 +304,7 @@
 * leader; `HRAOERD STPH*FPLT`
 * afternoon `AFPB`
 * heard `HAERD`
-* everybody `EFB`
+* everybody `EFRB`
 * worn `WORPB`
 * shocking `SHOBG/-G`
 * thing `THEUPBG`
@@ -658,7 +658,7 @@
 * there. `THR TP-PL`
 * industrious, `STREUS KW-BG`
 * said, `SAEUD KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * could; `KO STPH*FPLT`
 * mind `PHAOEUPBD`
 * wages `WAEUPBLGS`

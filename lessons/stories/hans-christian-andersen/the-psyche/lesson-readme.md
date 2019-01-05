@@ -168,7 +168,7 @@
 * for `TPOR`
 * all `AUL`
 * that, `THA KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * splendid `SPHREPBD/EUD`
 * known. `TPHOEPB TP-PL`
 * "In `KR-GS KPA/TPH`
@@ -212,7 +212,7 @@
 * fashioned `TPAGS/-D`
 * out `OUT`
 * clay, `KHRAEU KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * completed `KPHRAOETD`
 * anything; `TPHEUG STPH*FPLT`
 * work `WORBG`
@@ -1060,7 +1060,7 @@
 * waves `WAFS`
 * around `ARPBD`
 * you." `U TP-PL KR-GS`
-* "Never `KR-GS KPA/TPHEF`
+* "Never `KR-GS KPA/TPHEFR`
 * yet `KWRET`
 * well, `WEL KW-BG`
 * merry!" `PHER/REU SKHRAPL KR-GS`

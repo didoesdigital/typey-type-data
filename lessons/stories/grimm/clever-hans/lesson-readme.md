@@ -88,7 +88,7 @@
 * needle `TPHAO*ELD`
 * your `KWROUR`
 * sleeve.' `SHRAOEF TP-PL AE`
-* 'Never `AE KPA/TPHEF`
+* 'Never `AE KPA/TPHEFR`
 * mind, `PHAOEUPBD KW-BG`
 * better `PWOERT`
 * next `TPHEGT`

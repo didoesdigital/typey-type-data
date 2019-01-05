@@ -78,7 +78,7 @@
 * much `PHUFP`
 * preparatory `PREP/TOER`
 * information, `TPH-FGS KW-BG`
-* everybody `EFB`
+* everybody `EFRB`
 * knows `TPHOEZ`
 * how `HOU`
 * useful `AOUFL`

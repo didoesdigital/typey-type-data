@@ -149,7 +149,7 @@
 * their `THAEUR`
 * youth `KWRAO*UT`
 * up, `UP KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * yet `KWRET`
 * own, `OEPB KW-BG`
 * become `PW-BG`

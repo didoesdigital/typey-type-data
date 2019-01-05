@@ -70,7 +70,7 @@
 * neither `TPHAOERT`
 * anyone `TPHEUPB`
 * know, `TPHOE KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * took `TAOBG`
 * off `OF`
 * cover `KOFR`
@@ -297,7 +297,7 @@
 * wish `WEURB`
 * for. `TPOR TP-PL`
 * refused `RAO*UFD`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * only `OEPBL`
 * asked `SK-D`
 * horse `HORS`

@@ -79,7 +79,7 @@
 * dresses, `TKRES/-S KW-BG`
 * in `TPH`
 * short `SHORT`
-* everything `EFG`
+* everything `EFRG`
 * that `THA`
 * became `PWAEUPL`
 * royal `ROEUL`

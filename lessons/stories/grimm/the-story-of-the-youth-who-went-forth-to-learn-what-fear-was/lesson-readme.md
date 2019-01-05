@@ -16,7 +16,7 @@
 * sensible, `SEPBS/-BL KW-BG`
 * could `KO`
 * do `TKO`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * but `PWUT`
 * younger `KWRURPBG`
 * stupid `STAOUPD`
@@ -170,7 +170,7 @@
 * mine `PHAOEUPB`
 * is! `S SKHRAPL`
 * He `KPA/HE`
-* never `TPHEF`
+* never `TPHEFR`
 * good `TKPWAOD`
 * as `AZ`
 * long `HROPBG`
@@ -956,7 +956,7 @@
 * fun!' `TPUPB SKHRAPL AE`
 * money, `PHUPB KW-BG`
 * twelve, `TWEFL KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * vanished `SRAPB/EURBD`
 * quietly `KWAO*EULT`
 * Next `KPA/TPHEGT`

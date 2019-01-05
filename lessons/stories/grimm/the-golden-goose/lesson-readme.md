@@ -418,7 +418,7 @@
 * on, `OPB KW-BG`
 * quite `KWAOEUT`
 * loudly, `HROUD/HREU KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * stop. `STOP TP-PL`
 * Thereupon `KPA/THRUP`
 * wife; `WAOEUF STPH*FPLT`

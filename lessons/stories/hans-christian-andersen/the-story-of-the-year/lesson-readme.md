@@ -243,7 +243,7 @@
 * it's `T-S`
 * invention `EUPB/SREPBGS`
 * own, `OEPB KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * must `PHUFT`
 * arranged `ARPBG/-D`
 * according `KORG`
@@ -1004,7 +1004,7 @@
 * blessings `PWHREFGS`
 * surround `SROUPBD`
 * us. `US TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * home-like `HOEPL H-PB HRAOEUBG`
 * good, `TKPWAOD KW-BG`
 * why, `KWR KW-BG`

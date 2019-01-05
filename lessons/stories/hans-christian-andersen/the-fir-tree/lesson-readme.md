@@ -473,7 +473,7 @@
 * leaving `HREFG`
 * home `HOEPL`
 * It `KPA/T`
-* never `TPHEF`
+* never `TPHEFR`
 * again `TKPWEPB`
 * dear `TKAER`
 * old `OLD`
@@ -829,7 +829,7 @@
 * spring `SPREUPBG`
 * comes. `KOPLS TP-PL`
 * kind `KEUPBD`
-* everybody `EFB`
+* everybody `EFRB`
 * Still `KPA/STEUL`
 * dark, `TKARBG KW-BG`
 * lonely, `HROPBL KW-BG`
@@ -995,7 +995,7 @@
 * court `KORT`
 * close `KHROES`
 * garden, `TKPWA*RPB KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * blooming. `PWHRAOPL/-G TP-PL`
 * Fresh `KPA/TPRERB`
 * fragrant `TPRAEUG/RAPBT`

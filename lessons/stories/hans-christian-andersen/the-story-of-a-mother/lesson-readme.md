@@ -214,7 +214,7 @@
 * strides `STRAOEUDZ`
 * faster `TPA*FRT`
 * wind, `WEUPBD KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * brings `PWREUS`
 * back `PWABG`
 * what `WHA`

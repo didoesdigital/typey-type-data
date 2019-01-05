@@ -91,7 +91,7 @@
 * "He `KR-GS KPA/HE`
 * told `TOLD`
 * me," `PHE KW-BG KR-GS`
-* "Never `KR-GS KPA/TPHEF`
+* "Never `KR-GS KPA/TPHEFR`
 * trust `TRUFT`
 * friend `TPREPBD`
 * who `WHO`

@@ -371,7 +371,7 @@
 * mouse `PHOUS`
 * brought, `PWRAUT KW-BG`
 * Yet `KPA/KWRET`
-* never `TPHEF`
+* never `TPHEFR`
 * thought, `THAUT KW-BG`
 * ate `AEUT`
 * every `EF`

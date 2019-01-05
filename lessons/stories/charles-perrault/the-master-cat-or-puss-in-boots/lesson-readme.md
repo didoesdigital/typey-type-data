@@ -455,7 +455,7 @@
 * sir," `SEUR KW-BG KR-GS`
 * Marquis, `PHAR/KWEUS KW-BG`
 * "this `KR-GS TH`
-* never `TPHEF`
+* never `TPHEFR`
 * fails `TPAEULS`
 * yield `KWRAOELD`
 * plentiful `PHREPBT/-FL`

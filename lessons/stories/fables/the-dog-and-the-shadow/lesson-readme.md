@@ -63,7 +63,7 @@
 * out, `OUT KW-BG`
 * dropped `TKROPD`
 * into `TPHAO`
-* never `TPHEF`
+* never `TPHEFR`
 * seen `SAOEPB`
 * more. `PHOR TP-PL`
 * Beware `KPA/PWE/WAEUR`

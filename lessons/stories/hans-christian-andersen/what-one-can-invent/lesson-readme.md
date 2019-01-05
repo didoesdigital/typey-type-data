@@ -41,7 +41,7 @@
 * been `PW-PB`
 * born `PWORPB`
 * too `TAO`
-* late—everything `HRAEUT EPL/TKA*RB EFG`
+* late—everything `HRAEUT EPL/TKA*RB EFRG`
 * taken `TAEPB`
 * up `UP`
 * before `PW-F`
@@ -49,7 +49,7 @@
 * into `TPHAO`
 * the `-T`
 * world, `WORLD KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * written `WREUPB`
 * told `TOLD`
 * about. `PW TP-PL`
@@ -218,7 +218,7 @@
 * want `WAPBT`
 * poet `POET`
 * Easter." `AOEFRT TP-PL KR-GS`
-* "Everything `KR-GS KPA/EFG`
+* "Everything `KR-GS KPA/EFRG`
 * down," `TKOUPB KW-BG KR-GS`
 * "Our `KR-GS KPA/OUR`
 * time `TAOEUPL`

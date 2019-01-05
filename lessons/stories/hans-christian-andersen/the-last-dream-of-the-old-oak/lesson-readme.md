@@ -126,7 +126,7 @@
 * mean?" `PHAOEPB H-F KR-GS`
 * creature `KRAOEFP`
 * reply. `RE/PHREU TP-PL`
-* "Everything `KR-GS KPA/EFG`
+* "Everything `KR-GS KPA/EFRG`
 * around `ARPBD`
 * me `PHE`
 * so `SO`
@@ -159,7 +159,7 @@
 * long; `HROPBG STPH*FPLT`
 * indeed `TPHAOEPBD`
 * could `KO`
-* never `TPHEF`
+* never `TPHEFR`
 * reckon `REBG/-PB`
 * out." `OUT TP-PL KR-GS`
 * "No? `KR-GS KPA/TPHO H-F`

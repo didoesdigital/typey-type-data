@@ -22,7 +22,7 @@
 * fish `TPEURB`
 * rise; `RAOEUZ STPH*FPLT`
 * but `PWUT`
-* never `TPHEF`
+* never `TPHEFR`
 * one `WUPB`
 * put `PUT`
 * nose `TPHOES`

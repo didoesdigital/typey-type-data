@@ -177,7 +177,7 @@
 * when `WHEPB`
 * passed `PAFD`
 * evening, `AOEPBG KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * daytime. `TKAEUPLT TP-PL`
 * But `KPA/PWUT`
 * later `HRAEURT`
@@ -343,7 +343,7 @@
 * against `TKPWEPBS`
 * post, `POEFT KW-BG`
 * weeping. `WAOEP/-G TP-PL`
-* Never `KPA/TPHEF`
+* Never `KPA/TPHEFR`
 * shall `SHAL`
 * forget `TPERGT`
 * sorrowful `SOR/ROEFL`
@@ -623,7 +623,7 @@
 * enable `TPHAEUBL`
 * see `SAOE`
 * clearly `KAOERL`
-* everything `EFG`
+* everything `EFRG`
 * remember, `RER KW-BG`
 * love `HRUF`
 * me. `PHE TP-PL`

@@ -186,7 +186,7 @@
 * fallen, `TPAUL/-PB KW-BG`
 * burns `PWURPBS`
 * blue, `PWHRU KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * goes `TKPW-S`
 * out, `OUT KW-BG`
 * bring `PWREU`
@@ -281,7 +281,7 @@
 * soldier, `SHRERPBL KW-BG`
 * quite `KWAOEUT`
 * astonished. `A/STOPB/EURBD TP-PL`
-* everything `EFG`
+* everything `EFRG`
 * bid `PWEUD`
 * me,' `PHE KW-BG AE`
 * man. `PHAPB TP-PL`
@@ -472,7 +472,7 @@
 * just `SKWRUFT`
 * tired `TAOEURD`
 * really `R-L`
-* everything.' `EFG TP-PL AE`
+* everything.' `EFRG TP-PL AE`
 * 'The `AE KPA/-T`
 * dream `TKRAOEPL`
 * been `PW-PB`

@@ -245,7 +245,7 @@
 * wish `WEURB`
 * second `SEBGD`
 * bath. `PWA*T TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * thought `THAUT`
 * heart," `HART KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
@@ -568,7 +568,7 @@
 * business `PWEUS`
 * placed `PHRAEUFD`
 * before `PW-F`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`
 * now `TPHOU`
 * shall `SHAL`
 * lie `HRAOEU`

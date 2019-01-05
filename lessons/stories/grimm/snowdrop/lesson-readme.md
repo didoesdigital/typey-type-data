@@ -174,7 +174,7 @@
 * wide `WAOEUD`
 * wood, `WAOD KW-BG`
 * I `EU`
-* never `TPHEF`
+* never `TPHEFR`
 * see `SAOE`
 * any `TPHEU`
 * more.' `PHOR TP-PL AE`
@@ -246,7 +246,7 @@
 * carry `KAER`
 * no `TPHO`
 * further. `TPURT TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * spruce `SPRAOUS`
 * neat `TPHAOET`
 * cottage: `KOT/APBLG STPH-FPLT`
@@ -719,7 +719,7 @@
 * wife.' `WAOEUF TP-PL AE`
 * consented, `KEFPBT/-D KW-BG`
 * prince; `PREUPBS STPH*FPLT`
-* everything `EFG`
+* everything `EFRG`
 * pomp `POFRP`
 * splendour `SHREPBD/O*UR/A*U`
 * wedding. `WEGD TP-PL`

@@ -345,7 +345,7 @@
 * morning," `PHORPBG KW-BG KR-GS`
 * touching `TUFPG`
 * cap, `KAP KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * seen `SAOEPB`
 * such `SUFP`
 * life. `HRAOEUF TP-PL`

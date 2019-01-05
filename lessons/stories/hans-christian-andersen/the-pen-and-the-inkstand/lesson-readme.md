@@ -128,7 +128,7 @@
 * more, `PHOR KW-BG`
 * assure `A/SHUR`
 * you `U`
-* never `TPHEF`
+* never `TPHEFR`
 * think `THEU`
 * these `THEZ`
 * things." `THEUPBGS TP-PL KR-GS`

@@ -39,7 +39,7 @@
 * do `TKO`
 * I `EU`
 * shall `SHAL`
-* never `TPHEF`
+* never `TPHEFR`
 * found `TPOUPBD`
 * again, `TKPWEPB KW-BG`
 * am `APL`

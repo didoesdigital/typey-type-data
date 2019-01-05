@@ -143,7 +143,7 @@
 * all `AUL`
 * could `KO`
 * do `TKO`
-* never `TPHEF`
+* never `TPHEFR`
 * grew `TKPWRAOU`
 * bigger, `PWEURG KW-BG`
 * kept `KEPT`
@@ -201,7 +201,7 @@
 * up `UP`
 * horse's `HORS AES`
 * bridle.' `PWRAOEUD/*L TP-PL AE`
-* 'Never `AE KPA/TPHEF`
+* 'Never `AE KPA/TPHEFR`
 * mind `PHAOEUPBD`
 * that, `THA KW-BG`
 * Tom; `TOPL STPH*FPLT`
@@ -745,7 +745,7 @@
 * roast `ROEFT`
 * pig, `PEUG KW-BG`
 * apple-dumplings, `A*EPL H-PB TKUFRP/-LGS KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * heart `HART`
 * wish.' `WEURB TP-PL AE`
 * twice; `TWAOEUS STPH*FPLT`
@@ -768,7 +768,7 @@
 * easy?' `EZ H-F AE`
 * wolf; `WOFL STPH*FPLT`
 * 'you'll `AE U AE HR*/HR*`
-* everybody `EFB`
+* everybody `EFRB`
 * clatter.' `KHRAT/ER TP-PL AE`
 * 'What's `AE KPA/WHA AES`
 * me?' `PHE H-F AE`

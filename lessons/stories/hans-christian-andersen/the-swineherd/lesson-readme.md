@@ -482,7 +482,7 @@
 * superbe," `xxx superbe KW-BG KR-GS`
 * passing `PAFG`
 * by. `PWEU TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * composition. `KPOGS TP-PL`
 * down `TKOUPB`
 * costs; `KOFTS STPH*FPLT`
@@ -512,7 +512,7 @@
 * lady `HRA*ED`
 * more. `PHOR TP-PL`
 * "or `KR-GS OR`
-* everybody `EFB`
+* everybody `EFRB`
 * keeps `KAOEPS`
 * own." `OEPB TP-PL KR-GS`
 * "Place `KR-GS KPA/PHRAEUS`

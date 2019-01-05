@@ -60,7 +60,7 @@
 * seemed `SAOEPLD`
 * speak `SPAOEBG`
 * out `OUT`
-* everything `EFG`
+* everything `EFRG`
 * that `THA`
 * came `KAEUPL`
 * into `TPHAO`
@@ -942,7 +942,7 @@
 * pause `PAUS`
 * drawn `TKRAUPB`
 * reason, `R-PB KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * sign. `SAOEUPB TP-PL`
 * "Take `KR-GS KPA/TAEUBG`
 * fifth `TP*EUT`
@@ -995,7 +995,7 @@
 * thoroughly `THORL`
 * understands `URPBDZ`
 * agrees `TKPWRA*ES`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * becomes `PW-BGS`
 * self `S*EF`
 * lantern `HRAPB/TERPB`

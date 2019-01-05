@@ -37,7 +37,7 @@
 * large. `HRARPBLG TP-PL`
 * A `KPA/AEU`
 * burdock `PW*/*U/R*/TK-LS/TKOBG`
-* never `TPHEF`
+* never `TPHEFR`
 * grows `TKPWRO*ES`
 * alone; `A/HROEPB STPH*FPLT`
 * where `W-R`

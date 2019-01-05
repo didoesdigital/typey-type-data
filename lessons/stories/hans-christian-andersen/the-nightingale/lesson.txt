@@ -108,7 +108,7 @@ The Nightingale
 'the': -T
 'flowers.': TPHRO*URS TP-PL
 'Indeed,': KPA/TPHAOEPBD KW-BG
-'everything': EFG
+'everything': EFRG
 'in': TPH
 'the': -T
 'emperor's': EPL/ROR AES
@@ -442,7 +442,7 @@ The Nightingale
 'garden?': TKPWA*RPB H-F
 'I': EU
 'have': SR
-'never': TPHEF
+'never': TPHEFR
 'heard': HAERD
 'of': -F
 'it.': T TP-PL
@@ -524,7 +524,7 @@ The Nightingale
 'it?"': T H-F KR-GS
 '"I': KR-GS EU
 'have': SR
-'never': TPHEF
+'never': TPHEFR
 'heard': HAERD
 'the': -T
 'name,"': TPHAEUPL KW-BG KR-GS
@@ -565,7 +565,7 @@ The Nightingale
 'myself."': PHAO*EUS TP-PL KR-GS
 '"I': KR-GS EU
 'have': SR
-'never': TPHEF
+'never': TPHEFR
 'heard': HAERD
 'of': -F
 'her,"': HER KW-BG KR-GS
@@ -639,7 +639,7 @@ The Nightingale
 'he,': HE KW-BG
 '"cannot': KR-GS K/TPHOT
 'believe': PWHREF
-'everything': EFG
+'everything': EFRG
 'contained': TAEUPBD
 'in': TPH
 'books;': PWAOBGS STPH*FPLT
@@ -1059,7 +1059,7 @@ The Nightingale
 'the': -T
 'lord-in-waiting,': HRORD H-PB TPH H-PB WAEUGT KW-BG
 '"I': KR-GS EU
-'never': TPHEF
+'never': TPHEFR
 'imagined': PHAPBLGD
 'it': T
 'would': WO
@@ -1137,7 +1137,7 @@ The Nightingale
 'that': THA
 'we': WE
 'have': SR
-'never': TPHEF
+'never': TPHEFR
 'heard': HAERD
 'this': TH
 'before;': PW-F STPH*FPLT
@@ -2032,7 +2032,7 @@ The Nightingale
 'nightingale': TPHAOEUT/-G/TKPWAEL
 'we': WE
 'can': K
-'never': TPHEF
+'never': TPHEFR
 'tell': TEL
 'what': WHA
 'is': S
@@ -2044,7 +2044,7 @@ The Nightingale
 'with': W
 'this': TH
 'bird': PWEURD
-'everything': EFG
+'everything': EFRG
 'is': S
 'settled.': SELTD TP-PL
 'It': KPA/T
@@ -3188,7 +3188,7 @@ The Nightingale
 'nightingale.': TPHAOEUT/-G/TKPWAEL TP-PL
 '"I': KR-GS EU
 'shall': SHAL
-'never': TPHEF
+'never': TPHEFR
 'forget': TPERGT
 'that': THA
 'I': EU
@@ -3454,7 +3454,7 @@ The Nightingale
 'me': PHE
 'one': WUPB
 'thing."': THEUPBG TP-PL KR-GS
-'"Everything,"': KR-GS KPA/EFG KW-BG KR-GS
+'"Everything,"': KR-GS KPA/EFRG KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'emperor,': EPL/ROR KW-BG
@@ -3500,7 +3500,7 @@ The Nightingale
 'who': WHO
 'tells': TELS
 'you': U
-'everything.': EFG TP-PL
+'everything.': EFRG TP-PL
 'It': KPA/T
 'will': HR
 'be': -B

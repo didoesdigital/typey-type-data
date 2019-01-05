@@ -618,7 +618,7 @@
 * this, `TH KW-BG`
 * way, `WAEU KW-BG`
 * interpret `TERP`
-* everything `EFG`
+* everything `EFRG`
 * way. `WAEU TP-PL`
 * story `STOER`
 * Snowdrop. `xxx Snowdrop TP-PL`

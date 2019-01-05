@@ -683,7 +683,7 @@
 * beneath `TPHAO*ET`
 * feet. `TPAOET TP-PL`
 * described `KREUFD`
-* everything `EFG`
+* everything `EFRG`
 * clearly, `KAOERL KW-BG`
 * listened `HREUFPBD`
 * all; `AUL STPH*FPLT`
@@ -813,7 +813,7 @@
 * next `TPHEGT`
 * do?" `TKO H-F KR-GS`
 * Norwegian," `TPHOR/WAOEGS KW-BG KR-GS`
-* never `TPHEF`
+* never `TPHEFR`
 * marry, `PHAER KW-BG`
 * unless `TPH-LS`
 * sister `ST-R`

@@ -133,7 +133,7 @@
 * much `PHUFP`
 * water?' `WAUR H-F AE`
 * 'If `AE KPA/TP`
-* never `TPHEF`
+* never `TPHEFR`
 * repeat `RE/PAOET`
 * anyone, `TPHEUPB KW-BG`
 * I `EU`
@@ -245,7 +245,7 @@
 * from `TPR`
 * afar `A/TPAR`
 * running, `R*UPBG KW-BG`
-* 'Never `AE KPA/TPHEF`
+* 'Never `AE KPA/TPHEFR`
 * ever.' `-FR TP-PL AE`
 * 'Do `AE KPA/TKO`
 * become `PW-BG`

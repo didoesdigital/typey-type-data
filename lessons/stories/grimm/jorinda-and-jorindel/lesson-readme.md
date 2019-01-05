@@ -73,7 +73,7 @@
 * given `TKPWEUFPB`
 * his `HEUS`
 * word `WORD`
-* never `TPHEF`
+* never `TPHEFR`
 * to `TO`
 * come `KOPL`
 * there `THR`
@@ -364,7 +364,7 @@
 * costly `KOFT/HREU`
 * pearl; `PERL STPH*FPLT`
 * plucked `PHRUBGD`
-* everything `EFG`
+* everything `EFRG`
 * touched `TUFPD`
 * disenchanted, `TKEUS/EPB/KHAPBT/-D KW-BG`
 * In `KPA/TPH`

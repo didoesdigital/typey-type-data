@@ -20,7 +20,7 @@
 * been `PW-PB`
 * that `THA`
 * shall `SHAL`
-* never `TPHEF`
+* never `TPHEFR`
 * die. `TKAOEU TP-PL`
 * In `KPA/TPH`
 * olden `OLD/*EPB`

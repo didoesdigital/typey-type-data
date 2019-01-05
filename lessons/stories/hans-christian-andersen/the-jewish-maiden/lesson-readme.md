@@ -192,7 +192,7 @@
 * deathbed `TK*ET/PWED`
 * our `OUR`
 * child `KHAOEULD`
-* never `TPHEF`
+* never `TPHEFR`
 * baptized. `PAPT/AOEUZ/-D TP-PL`
 * must `PHUFT`
 * keep `KAOEP`

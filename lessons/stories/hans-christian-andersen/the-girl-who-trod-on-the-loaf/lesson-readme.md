@@ -529,7 +529,7 @@
 * thy `THAO*EU`
 * mother" `PHOER KR-GS`
 * "Oh `KR-GS KPA/O*E`
-* never `TPHEF`
+* never `TPHEFR`
 * born! `PWORPB SKHRAPL`
 * My `KPA/PHEU`
 * useless `AOUS/-LS`
@@ -796,7 +796,7 @@
 * Yet `KPA/KWRET`
 * discovered `SKOFD`
 * beauty `PWAOUT`
-* everything `EFG`
+* everything `EFRG`
 * sweet, `SWAOET KW-BG`
 * fresh `TPRERB`
 * air; `AEUR STPH*FPLT`

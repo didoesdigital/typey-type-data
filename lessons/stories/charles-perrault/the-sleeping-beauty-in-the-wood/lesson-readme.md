@@ -322,7 +322,7 @@
 * spinning `SPEUPBG`
 * spindle. `S*EUPBLD TP-PL`
 * woman `WOPL`
-* never `TPHEF`
+* never `TPHEFR`
 * heard `HAERD`
 * proclamation `PROBG/PHAEUGS`
 * against `TKPWEPBS`
@@ -692,7 +692,7 @@
 * valiant. `SRAL/KWRAPBT TP-PL`
 * He `KPA/HE`
 * spacious `SPAERBS`
-* everything `EFG`
+* everything `EFRG`
 * frozen `TPROEFPB`
 * fearless `TPAOERLS`
 * horror. `HOR/O*R TP-PL`

@@ -207,7 +207,7 @@
 * exclaimed `SKHRAEUPL/-D`
 * lady, `HRA*ED KW-BG`
 * had `H`
-* never `TPHEF`
+* never `TPHEFR`
 * heard `HAERD`
 * word `WORD`
 * 'obelisk.' `AE OB/HREUFBG TP-PL AE`
@@ -791,7 +791,7 @@
 * arrangements. `ARPBG/*PLT/-S TP-PL`
 * doll `TKOL`
 * doll's `TKOL AES`
-* everything `EFG`
+* everything `EFRG`
 * bright `PWRAOEUT`
 * new, `TPHU KW-BG`
 * fine. `TPAOEUPB TP-PL`
@@ -933,7 +933,7 @@
 * shame; `SHAEUPL STPH*FPLT`
 * sure `SHUR`
 * seen `SAOEPB`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * likely `HRAOEULG`
 * you've `UF`
 * omitted `OE/PHEUTD`

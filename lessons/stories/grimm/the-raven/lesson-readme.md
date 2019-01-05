@@ -383,7 +383,7 @@
 * this `TH`
 * time `TAOEUPL`
 * coachman `KOEFP/PHAPB`
-* everything `EFG`
+* everything `EFRG`
 * about `PW`
 * her, `HER KW-BG`
 * well `WEL`
@@ -407,7 +407,7 @@
 * much `PHUFP`
 * them, `THEPL KW-BG`
 * they `THE`
-* never `TPHEF`
+* never `TPHEFR`
 * grow `TKPWROE`
 * less. `HRES TP-PL`
 * After `KPA/AF`
@@ -574,7 +574,7 @@
 * houses.' `HO*UFS TP-PL AE`
 * fetched `TPEFP/-D`
 * map, `PHAP KW-BG`
-* 'Never `AE KPA/TPHEF`
+* 'Never `AE KPA/TPHEFR`
 * mind,' `PHAOEUPBD KW-BG AE`
 * larger `HRARPBLG/ER`
 * maps `PHAPS`

@@ -513,7 +513,7 @@
 * hollow `HOL/OE`
 * stick's `STEUBG AES`
 * here, `HAOER KW-BG`
-* never, `TPHEF KW-BG`
+* never, `TPHEFR KW-BG`
 * Did `KPA/TK`
 * queer. `KWAOER TP-PL`
 * Oh! `KPA/O*E SKHRAPL`

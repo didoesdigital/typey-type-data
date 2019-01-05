@@ -662,7 +662,7 @@
 * still!" `STEUL SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * "You `KR-GS KPA/U`
-* everything; `EFG STPH*FPLT`
+* everything; `EFRG STPH*FPLT`
 * enough `TPHUF`
 * pasture `PAS/KHUR`
 * Ewe's `KPA/AO*U AES`
@@ -675,7 +675,7 @@
 * hair `HAEUR`
 * falls `TPAULZ`
 * off. `OF TP-PL`
-* everything!" `EFG SKHRAPL KR-GS`
+* everything!" `EFRG SKHRAPL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * goose." `TKPWAOS TP-PL KR-GS`
 * "Then `KR-GS KPA/THEPB`

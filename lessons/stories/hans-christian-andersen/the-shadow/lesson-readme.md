@@ -279,7 +279,7 @@
 * delightful; `TKHRAOEUT/-FL STPH*FPLT`
 * perhaps `PRAPS`
 * fancied `TPAPB/SEU/-D`
-* everything `EFG`
+* everything `EFRG`
 * pleased `PHRAOEFD`
 * him, `HEUPL KW-BG`
 * excepting `KPEPT/-G`
@@ -595,7 +595,7 @@
 * flesh, `TPHRERB KW-BG`
 * clothes `KHRO*ETS`
 * wear. `WAER TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * expected `KP-PTD`
 * condition. `K-PB TP-PL`
 * Do `KPA/TKO`
@@ -790,7 +790,7 @@
 * say, `SAEU KW-BG`
 * truth, `TRAO*UT KW-BG`
 * learnt `HRERPBT/A*U`
-* everything." `EFG TP-PL KR-GS`
+* everything." `EFRG TP-PL KR-GS`
 * "Poetry!" `KR-GS KPA/POEURT SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * lives `HREUFS`
@@ -842,7 +842,7 @@
 * didst `TKEU/*T`
 * thou `THO*U`
 * asked `SK-D`
-* everything, `EFG KW-BG`
+* everything, `EFRG KW-BG`
 * shall `SHAL`
 * hear. `HAER TP-PL`
 * But—it `KPA/PWUT EPL/TKA*RB T`
@@ -864,7 +864,7 @@
 * right; `RAOEUT STPH*FPLT`
 * try `TREU`
 * saw." `SAU TP-PL KR-GS`
-* "Everything," `KR-GS KPA/EFG KW-BG KR-GS`
+* "Everything," `KR-GS KPA/EFRG KW-BG KR-GS`
 * rooms?" `RAOPLS H-F KR-GS`
 * scholar. `SKHRAR TP-PL`
 * "Was `KR-GS KPA/WAS`
@@ -1066,7 +1066,7 @@
 * "and `KR-GS SKP`
 * be." `-B TP-PL KR-GS`
 * away. `A/WAEU TP-PL`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * wrong `WROPBG`
 * Sorrow `KPA/SROE`
 * trouble `TRUBL`

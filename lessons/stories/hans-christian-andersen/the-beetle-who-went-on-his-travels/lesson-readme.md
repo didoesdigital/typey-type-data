@@ -226,7 +226,7 @@
 * here? `HAOER H-F`
 * Oh, `KPA/O*E KW-BG`
 * how `HOU`
-* everything `EFG`
+* everything `EFRG`
 * is." `S TP-PL KR-GS`
 * "I `KR-GS EU`
 * am `APL`
@@ -465,7 +465,7 @@
 * either `AOERT`
 * did `TK`
 * or `OR`
-* never `TPHEF`
+* never `TPHEFR`
 * ask `SK`
 * question `KWE`
 * twice," `TWAOEUS KW-BG KR-GS`

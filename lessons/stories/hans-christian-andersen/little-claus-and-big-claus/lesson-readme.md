@@ -825,7 +825,7 @@
 * run `RUPB`
 * fast `TPAFT`
 * could, `KO KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * thoroughly `THORL`
 * beaten. `PWAOET/EPB TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`

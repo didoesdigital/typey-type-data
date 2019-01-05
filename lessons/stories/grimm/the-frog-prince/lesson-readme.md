@@ -104,7 +104,7 @@
 * all `AUL`
 * clothes `KHRO*ETS`
 * jewels, `SKWRAOULS KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * have `SR`
 * world.' `WORLD TP-PL AE`
 * Whilst `KPA/WHAOEULS`
@@ -159,7 +159,7 @@
 * is `S`
 * talking! `TAUG SKHRAPL`
 * He `KPA/HE`
-* never `TPHEF`
+* never `TPHEFR`
 * even `AOEPB`
 * visit `SREUFT`
 * though `THOE`

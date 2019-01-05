@@ -32,7 +32,7 @@
 * Though `KPA/THOE`
 * clear, `KHRAOER KW-BG`
 * sun `SUPB`
-* never `TPHEF`
+* never `TPHEFR`
 * looked `HRAOBGD`
 * down `TKOUPB`
 * far `TPAR`
@@ -287,7 +287,7 @@
 * are," `R KW-BG KR-GS`
 * "for `KR-GS TPOR`
 * know `TPHOE`
-* everything `EFG`
+* everything `EFRG`
 * here, `HAOER KW-BG`
 * have. `SR TP-PL`
 * Take `KPA/TAEUBG`

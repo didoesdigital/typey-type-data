@@ -138,7 +138,7 @@
 * full `TPUL`
 * bloom, `PWHRAOPL KW-BG`
 * on `OPB`
-* everything `EFG`
+* everything `EFRG`
 * looked `HRAOBGD`
 * dreary `TKRAOE/REU`
 * buried `PWUR/EUD`

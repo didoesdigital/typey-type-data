@@ -395,7 +395,7 @@
 * hear `HAER`
 * noise? `TPHOEUS H-F`
 * That `KPA/THA`
-* never `TPHEF`
+* never `TPHEFR`
 * before.' `PW-F TP-PL AE`
 * 'It `AE KPA/T`
 * our `OUR`

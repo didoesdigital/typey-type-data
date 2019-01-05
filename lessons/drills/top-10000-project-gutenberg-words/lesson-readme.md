@@ -101,7 +101,7 @@
 * good `TKPWAOD`
 * men `PHEPB`
 * own `OEPB`
-* never `TPHEF`
+* never `TPHEFR`
 * most `PHOFT`
 * old `OLD`
 * shall `SHAL`
@@ -487,7 +487,7 @@
 * sun `SUPB`
 * information `TPH-FGS`
 * later `HRAEURT`
-* everything `EFG`
+* everything `EFRG`
 * reached `RAOEFPD`
 * suddenly `SULD`
 * past `PAFT`
@@ -1871,7 +1871,7 @@
 * apart `A/PART`
 * bow `PWOE`
 * awful `AUFL`
-* everybody `EFB`
+* everybody `EFRB`
 * labour `HRAEU/PWOUR`
 * asking `SK-G`
 * lover `HRUFR`

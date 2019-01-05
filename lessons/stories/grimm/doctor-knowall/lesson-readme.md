@@ -126,7 +126,7 @@
 * house-door.' `HOUS H-PB TKAOR TP-PL AE`
 * The `KPA/-T`
 * did `TK`
-* everything `EFG`
+* everything `EFRG`
 * had `H`
 * told `TOLD`
 * do. `TKO TP-PL`
@@ -338,7 +338,7 @@
 * sprang `SPRAPBG`
 * crying: `KRAOEUG STPH-FPLT`
 * man `PHAPB`
-* everything!' `EFG SKHRAPL AE`
+* everything!' `EFRG SKHRAPL AE`
 * showed `SHOED`
 * say `SAEU`
 * it, `T KW-BG`

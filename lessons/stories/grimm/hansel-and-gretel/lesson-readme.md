@@ -402,7 +402,7 @@
 * why `KWR`
 * slept `SHREPD`
 * forest?--we `TPOEFRT H-F H-PB H-PB WE`
-* never `TPHEF`
+* never `TPHEFR`
 * coming `KO*G`
 * all!' `AUL SKHRAPL AE`
 * father, `TPAER KW-BG`
@@ -414,7 +414,7 @@
 * mother `PHOER`
 * saying `SAEUG`
 * father: `TPAER STPH-FPLT`
-* 'Everything `AE KPA/EFG`
+* 'Everything `AE KPA/EFRG`
 * eaten `AOET/EPB`
 * half `HAF`
 * loaf `HROEF`

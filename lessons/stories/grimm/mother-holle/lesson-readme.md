@@ -259,7 +259,7 @@
 * enter `SPWER`
 * service. `S-FS TP-PL`
 * care `KAEUR`
-* everything `EFG`
+* everything `EFRG`
 * according `KORG`
 * woman's `WOPL/AES`
 * bidding `PWEUD/-G`
@@ -270,7 +270,7 @@
 * snowflakes. `STPHOE/TPHRAEUBG/-S TP-PL`
 * good `TKPWAOD`
 * word: `WORD STPH-FPLT`
-* never `TPHEF`
+* never `TPHEFR`
 * angrily `APBL/REU/HREU`
 * gave `TKPWAEUF`
 * roast `ROEFT`

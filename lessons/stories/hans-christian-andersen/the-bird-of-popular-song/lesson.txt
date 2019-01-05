@@ -440,7 +440,7 @@ The Bird of Popular Song
 'Popular': KPA/PHRA*R
 'Song,': KPA/SOPBG KW-BG
 'who': WHO
-'never': TPHEF
+'never': TPHEFR
 'dies.': TKAOEUZ TP-PL
 'We': KPA/WE
 'hear': HAER
@@ -672,7 +672,7 @@ The Bird of Popular Song
 'Popular': KPA/PHRA*R
 'Song,': KPA/SOPBG KW-BG
 'who': WHO
-'never': TPHEF
+'never': TPHEFR
 'dies': TKAOEUZ
 'so': SO
 'long': HROPBG
@@ -848,7 +848,7 @@ The Bird of Popular Song
 'the': -T
 'winter': WEURPBT
 'night.': TPHAOEUT TP-PL
-'Everything': KPA/EFG
+'Everything': KPA/EFRG
 'on': OPB
 'the': -T
 'earth': *ERT
@@ -953,7 +953,7 @@ The Bird of Popular Song
 'town,"': TOUPB KW-BG KR-GS
 'they': THE
 'say;': SAEU STPH*FPLT
-'"everything': KR-GS EFG
+'"everything': KR-GS EFRG
 'living': HREUFG
 'in': TPH
 'it': T
@@ -1191,5 +1191,5 @@ The Bird of Popular Song
 'Popular': KPA/PHRA*R
 'Song,': KPA/SOPBG KW-BG
 'who': WHO
-'never': TPHEF
+'never': TPHEFR
 'dies!"': TKAOEUZ SKHRAPL KR-GS

@@ -400,7 +400,7 @@
 * glowed `TKPWHROE/-D`
 * brighter `PWRAOEURT`
 * noon-day, `TPHAOPB H-PB TKAEU KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * appeared `A/PAOERD`
 * or `OR`
 * beautiful. `PWAOUFL TP-PL`

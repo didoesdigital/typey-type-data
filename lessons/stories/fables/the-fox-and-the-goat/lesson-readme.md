@@ -82,7 +82,7 @@
 * "remember `KR-GS RER`
 * next `TPHEGT`
 * time, `TAOEUPL KW-BG`
-* "Never `KR-GS KPA/TPHEF`
+* "Never `KR-GS KPA/TPHEFR`
 * trust `TRUFT`
 * advice `SREUS`
 * man `PHAPB`

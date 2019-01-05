@@ -470,7 +470,7 @@
 * princess, `PREUPB/ES KW-BG`
 * looked `HRAOBGD`
 * clothes; `KHRO*ETS STPH*FPLT`
-* never `TPHEF`
+* never `TPHEFR`
 * Ashputtel, `xxx Ashputtel KW-BG`
 * taking `TAEUG`
 * granted `TKPWRAPBTD`
@@ -637,7 +637,7 @@
 * too `TAO`
 * small `SPHAL`
 * knife, `TPHAOEUF KW-BG`
-* 'Never `AE KPA/TPHEF`
+* 'Never `AE KPA/TPHEFR`
 * mind, `PHAOEUPBD KW-BG`
 * off; `OF STPH*FPLT`
 * queen `KWAOEPB`

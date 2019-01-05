@@ -102,7 +102,7 @@
 * in `TPH`
 * corner, `KRORPB KW-BG`
 * heard `HAERD`
-* everything. `EFG TP-PL`
+* everything. `EFRG TP-PL`
 * All `KPA/AUL`
 * day `TKAEU`
 * dared `TKAEURD`
@@ -459,7 +459,7 @@
 * conceive `KAUPB/SAOEF`
 * how `HOU`
 * pass, `PAS KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * human `HAOUPL`
 * being `-BG`
 * house, `HOUS KW-BG`
@@ -556,7 +556,7 @@
 * true `TRAOU`
 * bride, `PWRAOEUD KW-BG`
 * other!' `OER SKHRAPL AE`
-* Everything `KPA/EFG`
+* Everything `KPA/EFRG`
 * forgotten, `TPORGTD KW-BG`
 * vanished `SRAPB/EURBD`
 * mind, `PHAOEUPBD KW-BG`

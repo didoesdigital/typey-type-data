@@ -205,7 +205,7 @@
 * out `OUT`
 * boy's `PWOEU AES`
 * mouth, `PHO*UT KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * wished `WEURBD`
 * for. `TPOR TP-PL`
 * After `KPA/AF`
@@ -276,7 +276,7 @@
 * should `SHO`
 * shed `SHED`
 * innocent `TPH-PBT`
-* never `TPHEF`
+* never `TPHEFR`
 * harmed `HARPLD`
 * anyone?' `TPHEUPB H-F AE`
 * cost `KOFT`

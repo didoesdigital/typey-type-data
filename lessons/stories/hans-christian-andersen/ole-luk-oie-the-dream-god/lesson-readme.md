@@ -93,7 +93,7 @@
 * may `PHAE`
 * pretty `PREUT`
 * stories, `STOERS KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * until `TPH-L`
 * bed `PWED`
 * asleep. `A/HRAOEP TP-PL`

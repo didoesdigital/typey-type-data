@@ -223,7 +223,7 @@
 * is, `S KW-BG`
 * tanner's `TAPB/ER AES`
 * widow, `WO*EUD KW-BG`
-* never `TPHEF`
+* never `TPHEFR`
 * married) `PHAERD PR*EPB`
 * filled `TPEULD`
 * grave, `TKPWRAEUF KW-BG`

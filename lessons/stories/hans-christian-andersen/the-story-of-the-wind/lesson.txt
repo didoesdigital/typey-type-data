@@ -234,7 +234,7 @@ The Story of the Wind
 'Dorothea;': xxx Dorothea STPH*FPLT
 'I': EU
 'have': SR
-'never': TPHEF
+'never': TPHEFR
 'forgotten': TPORGTD
 'their': THAEUR
 'names.': TPHAEUPLS TP-PL
@@ -624,7 +624,7 @@ The Story of the Wind
 'proud': PROUD
 'tulip,': TAOUL/EUP KW-BG
 'and': SKP
-'never': TPHEF
+'never': TPHEFR
 'acknowledged': ABG/TPHOPBLGD
 'the': -T
 'salutations': SHRAOUT/AEUGS/-S
@@ -1379,7 +1379,7 @@ The Story of the Wind
 'Noah's': TPHO/WA AES
 'ark': A*RBG
 'that': THA
-'never': TPHEF
+'never': TPHEFR
 'got': TKPWOT
 'to': TO
 'the': -T
@@ -1483,7 +1483,7 @@ The Story of the Wind
 'proud': PROUD
 'ship,': SHEUP KW-BG
 'that': THA
-'never': TPHEF
+'never': TPHEFR
 'sailed': SAEULD
 'forth.': TPO*RT TP-PL
 'I': EU
@@ -1563,7 +1563,7 @@ The Story of the Wind
 'scattered,': SKAT/ERD KW-BG
 'the': -T
 'leaves': HREFS
-'fall,—everything': TPAUL KW-BG EPL/TKA*RB EFG
+'fall,—everything': TPAUL KW-BG EPL/TKA*RB EFRG
 'passes': PA*FS
 'away,': A/WAEU KW-BG
 'and': SKP
@@ -3015,7 +3015,7 @@ The Story of the Wind
 'the': -T
 'house': HOUS
 'and': SKP
-'everything': EFG
+'everything': EFRG
 'it': T
 'contained,': TAEUPBD KW-BG
 'in': TPH
@@ -3924,7 +3924,7 @@ The Story of the Wind
 'to': TO
 'rest.': REFT/TP-PL
 'O-h,': O*P H-PB H* KW-BG
-'everything': EFG
+'everything': EFRG
 'has': HAS
 'an': APB
 'end,': EPBD KW-BG

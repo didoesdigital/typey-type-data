@@ -330,7 +330,7 @@
 * And `AFPBD`
 * where `W-R`
 * shone, `SHO*EPB KW-BG`
-* everything `EFG`
+* everything `EFRG`
 * sparkled, `SPAR/K-LD KW-BG`
 * if `TP`
 * diamond `TKAOEUPLD`
@@ -414,7 +414,7 @@
 * given `TKPWEUFPB`
 * bone `PWOEPB`
 * meat. `PHAET TP-PL`
-* never `TPHEF`
+* never `TPHEFR`
 * bite `PWAOEUT`
 * those `THOZ`
 * two." `TWO TP-PL KR-GS`
