@@ -526,9 +526,9 @@
 * amusement, `A/PHAOUS/*PLT KW-BG`
 * flying `TPHRAOEUG`
 * game `TKPWAEUPL`
-* "March! `KR-GS PHAFRPB SKHRAPL`
+* "March! `KR-GS PHA*R SKHRAPL`
 * Forward! `KPA/TPAORD SKHRAPL`
-* march!" `PHAFRPB SKHRAPL KR-GS`
+* March!" `PHA*R SKHRAPL KR-GS`
 * This, `KPA/TH KW-BG`
 * word `WORD`
 * command `KPHAPBD`

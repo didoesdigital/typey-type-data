@@ -312,7 +312,7 @@
 * violets, `SROEULT/-S KW-BG`
 * small. `SPHAL TP-PL`
 * "MARCH, `KR-GS *URP/PHAFRPB KW-BG`
-* March," `PHAFRPB KW-BG KR-GS`
+* March," `PHA*R KW-BG KR-GS`
 * fourth `TPO*URT`
 * called `KAULD`
 * after `AF`
@@ -340,7 +340,7 @@
 * already. `HR-R TP-PL`
 * Forward, `KPA/TPAORD KW-BG`
 * Master `KPA/PHAFRT`
-* March." `PHAFRPB TP-PL KR-GS`
+* March." `PHA*R TP-PL KR-GS`
 * true; `TRAOU STPH*FPLT`
 * speaker `SPAOERBG`
 * only `OEPBL`

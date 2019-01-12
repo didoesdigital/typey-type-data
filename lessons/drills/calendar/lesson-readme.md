@@ -2,7 +2,7 @@
 
 * January `SKWRAPB`
 * February `TPEB`
-* March `PHAFRPB`
+* March `PHA*R`
 * April `PREUL`
 * May `PHAE`
 * June `SKWRUPB`

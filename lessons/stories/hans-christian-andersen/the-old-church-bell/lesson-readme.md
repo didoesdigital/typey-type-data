@@ -458,7 +458,7 @@
 * might `PHAOEUT`
 * known `TPHOEPB`
 * word `WORD`
-* command—"March! `KPHAPBD EPL/TKA*RB KR-GS PHAFRPB SKHRAPL`
+* command—"March! `KPHAPBD EPL/TKA*RB KR-GS PHA*R SKHRAPL`
 * halt! `HALT SKHRAPL`
 * front!" `TPROPBT SKHRAPL KR-GS`
 * long `HROPBG`
@@ -489,7 +489,7 @@
 * above `PWOF`
 * deafening `TKEFPB/-G`
 * sounds `SOUPBDZ`
-* "March! `KR-GS PHAFRPB SKHRAPL`
+* "March! `KR-GS PHA*R SKHRAPL`
 * so `SO`
 * loudly `HROUD/HREU`
 * youngster, `KWRUPBG/STER KW-BG`
