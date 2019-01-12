@@ -153,7 +153,7 @@
 * best `PWEFT`
 * software `SOF/WAEUR`
 * then `THEPB`
-* jan `SKWRA*PB`
+* Jan `SKWRA*PB`
 * good `TKPWAOD`
 * video `SRO*EUD`
 * well `WEL`

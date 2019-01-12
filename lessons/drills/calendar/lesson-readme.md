@@ -12,7 +12,7 @@
 * October `OBGT`
 * November `TPHOF`
 * December `TKAOES`
-* jan `SKWRA*PB`
+* jan `HRO*ER/SKWRA*PB`
 * feb `TP*EB`
 * mar `PHAR`
 * apr `PR*EUL`
@@ -20,7 +20,7 @@
 * jun `SKWRAO*UPB`
 * jul `SKWR*UL`
 * aug `A*UG`
-* sep `S*EPT`
+* sep `S*PT`
 * oct `O*BGT`
 * nov `TPHO*F`
 * dec `TK*EBG`
