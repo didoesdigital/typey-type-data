@@ -56,7 +56,7 @@
 * proprietor `PRO/PRAOEU/TOR`
 * puppet-show. `PUPT H-PB SHOE TP-PL`
 * His `KPA/HEUS`
-* inborn `xxx inborn`
+* inborn `EUPB/PWORPB`
 * cheerfulness, `KHAOER/-FL/-PBS KW-BG`
 * said, `SAEUD KW-BG`
 * tested `TEFTD`

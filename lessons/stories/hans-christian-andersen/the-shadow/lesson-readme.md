@@ -911,7 +911,7 @@
 * one; `WUPB STPH*FPLT`
 * moment `PHOEPLT`
 * aware `A/WAEUR`
-* inborn `xxx inborn`
+* inborn `EUPB/PWORPB`
 * affinity `A/TPEUPBT`
 * nature `TPHAEURT`
 * true `TRAOU`
