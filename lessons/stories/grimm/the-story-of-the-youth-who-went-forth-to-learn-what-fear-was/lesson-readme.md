@@ -179,7 +179,7 @@
 * sickle `SEUBG/*L`
 * bend `PWEPBD`
 * himself `H*EUPLS`
-* betimes.' `xxx betimes TP-PL AE`
+* betimes.' `PWE/TAOEUPLS TP-PL AE`
 * sighed, `SAOEU/-D KW-BG`
 * answered `AEPBS/-D`
 * him: `HEUPL STPH-FPLT`
@@ -196,7 +196,7 @@
 * house `HOUS`
 * on `OPB`
 * visit, `SREUFT KW-BG`
-* bewailed `xxx bewailed`
+* bewailed `PWE/WAEUL/-D`
 * trouble, `TRUBL KW-BG`
 * son `SOPB`
 * so `SO`
@@ -549,7 +549,7 @@
 * raised `RA*EUFD`
 * ladder, `HRAERD KW-BG`
 * up, `UP KW-BG`
-* unbound `xxx unbound`
+* unbound `UPB/PWOUPBD`
 * brought `PWRAUT`
 * seven. `SEFPB TP-PL`
 * stoked `STOEBG/-D`
@@ -1133,7 +1133,7 @@
 * stream `STRAOEPL`
 * flowed `TPHROED`
 * garden, `TKPWA*RPB KW-BG`
-* bucketful `xxx bucketful`
+* bucketful `PWUBGT/-FL`
 * gudgeons `xxx gudgeons`
 * sleeping, `SHRAOEPG KW-BG`
 * draw `TKRAU`

@@ -804,7 +804,7 @@
 * chivalry. `SHEUFL/REU TP-PL`
 * walls `WAULS`
 * indented `EUPB/TKEPBT/-D`
-* battlements `xxx battlements`
+* battlements `PWA*LT/-PLTS`
 * ditches, `TKEUFPS KW-BG`
 * swans `SWAPBS`
 * swimming `SWEUPLG`

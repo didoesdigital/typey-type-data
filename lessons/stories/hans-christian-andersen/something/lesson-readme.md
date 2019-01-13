@@ -100,7 +100,7 @@
 * become `PW-BG`
 * master, `PHAFRT KW-BG`
 * have `SR`
-* journeymen, `xxx journeymen KW-BG`
+* journeymen, `SKWRURPB/PH*EPB KW-BG`
 * wife `WAOEUF`
 * treated `TRAETD`
 * as `AZ`
@@ -529,7 +529,7 @@
 * flag `TPHRAG`
 * corporation `KORPGS`
 * fluttered `TPHRUT/ERD`
-* journeymen `xxx journeymen`
+* journeymen `SKWRURPB/PH*EPB`
 * apprentices `A/PREPB/TEUS/-S`
 * shouted `SHOUT/-D`
 * "Hurrah." `KR-GS KPA/HUR/RA TP-PL KR-GS`

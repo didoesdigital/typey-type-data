@@ -277,7 +277,7 @@
 * country, `KREU KW-BG`
 * you `U`
 * see `SAOE`
-* feathery `xxx feathery`
+* feathery `TP*ET/KWREU`
 * dress. `TKRES TP-PL`
 * My `KPA/PHEU`
 * drake `TKRAEUBG`
@@ -420,7 +420,7 @@
 * do; `TKO STPH*FPLT`
 * more `PHOR`
 * noise `TPHOEUS`
-* shrillness `xxx shrillness`
+* shrillness `SHREUL/-PBS`
 * wishes `WEURBS`
 * known `TPHOEPB`
 * is." `S TP-PL KR-GS`
@@ -592,7 +592,7 @@
 * felt `TPELT`
 * fell `TPEL`
 * asleep. `A/HRAOEP TP-PL`
-* busied `xxx busied`
+* busied `PWUS/KWREUD`
 * himself `H*EUPLS`
 * time `TAOEUPL`
 * lay `HRAEU`

@@ -84,7 +84,7 @@
 * between `TWAOEPB`
 * them; `THEPL STPH*FPLT`
 * it `T`
-* herbarium `xxx herbarium`
+* herbarium `ERB/AEURPL`
 * he `HE`
 * gathered `TKPWAERD`
 * various `SRAEURS`
@@ -220,7 +220,7 @@
 * A `KPA/AEU`
 * swallow `SWO*EUL`
 * flew `TPHRAOU`
-* swiftness `xxx swiftness`
+* swiftness `SWEUFT/-PBS`
 * arrow `AR/OE`
 * arbour, `AR/PWOUR/A*U KW-BG`
 * turning `TURPBG`

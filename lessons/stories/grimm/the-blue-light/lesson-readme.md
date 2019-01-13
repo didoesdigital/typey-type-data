@@ -330,7 +330,7 @@
 * frightfully. `TPRAOEUT/-FL/HREU TP-PL`
 * Nor `KPA/TPH-R`
 * long `HROPBG`
-* reappeared. `xxx reappeared TP-PL`
+* reappeared. `RAOE/A/PAOERD TP-PL`
 * 'It `AE KPA/T`
 * done,' `TKOPB KW-BG AE`
 * 'and `AE SKP`
@@ -434,7 +434,7 @@
 * pick `PEUBG`
 * again, `TKPWEPB KW-BG`
 * clean `KHAOEPB`
-* brighten `xxx brighten`
+* brighten `PWRAOEUT/*EPB`
 * them. `THEPL TP-PL`
 * She, `KPA/SHE KW-BG`
 * however, `HOUF KW-BG`

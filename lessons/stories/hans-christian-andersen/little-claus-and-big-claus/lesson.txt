@@ -1133,7 +1133,7 @@ Little Claus and Big Claus
 'louder': HROURD
 'than': THAPB
 'before.': PW-F TP-PL
-'"Hallo!': KR-GS xxx Hallo SKHRAPL
+'"Hallo!': KR-GS HA*L/KWRO SKHRAPL
 'what': WHA
 'have': SR
 'you': U
@@ -1148,7 +1148,7 @@ Little Claus and Big Claus
 'it': T
 'is': S
 'a': AEU
-'conjuror,"': xxx conjuror KW-BG KR-GS
+'conjuror,"': KAUPB/SKWROR KW-BG KR-GS
 'said': SAEUD
 'Little': KPA/HREUL
 'Claus;': xxx Claus STPH*FPLT
@@ -1308,7 +1308,7 @@ Little Claus and Big Claus
 'liked': HRAOEUBGD
 'such': SUFP
 'a': AEU
-'conjuror': xxx conjuror
+'conjuror': KAUPB/SKWROR
 'as': AZ
 'Little': KPA/HREUL
 'Claus': xxx Claus
@@ -1344,7 +1344,7 @@ Little Claus and Big Claus
 'Little': KPA/HREUL
 'Claus,': xxx Claus KW-BG
 '"my': KR-GS PHEU
-'conjuror': xxx conjuror
+'conjuror': KAUPB/SKWROR
 'can': K
 'do': TKO
 'anything': TPHEUG
@@ -1458,7 +1458,7 @@ Little Claus and Big Claus
 'must': PHUFT
 'ask': SK
 'the': -T
-'conjuror,"': xxx conjuror KW-BG KR-GS
+'conjuror,"': KAUPB/SKWROR KW-BG KR-GS
 'said': SAEUD
 'Little': KPA/HREUL
 'Claus;': xxx Claus STPH*FPLT
@@ -1602,7 +1602,7 @@ Little Claus and Big Claus
 'must': PHUFT
 'sell': SEL
 'your': KWROUR
-'conjuror': xxx conjuror
+'conjuror': KAUPB/SKWROR
 'to': TO
 'me,"': PHE KW-BG KR-GS
 'said': SAEUD
@@ -1647,7 +1647,7 @@ Little Claus and Big Claus
 'out': OUT
 'of': -F
 'this': TH
-'conjuror."': xxx conjuror TP-PL KR-GS
+'conjuror."': KAUPB/SKWROR TP-PL KR-GS
 '"But': KR-GS KPA/PWUT
 'I': EU
 'should': SHO
@@ -1689,7 +1689,7 @@ Little Claus and Big Claus
 'shall': SHAL
 'have': SR
 'the': -T
-'conjuror': xxx conjuror
+'conjuror': KAUPB/SKWROR
 'for': TPOR
 'a': AEU
 'bushel': PWURB/EL
@@ -2272,7 +2272,7 @@ Little Claus and Big Claus
 'streets.': STRAOETS TP-PL
 'All': KPA/AUL
 'the': -T
-'shoemakers': xxx shoemakers
+'shoemakers': SHAOU/PHA*EURBG/-S
 'and': SKP
 'tanners': TAPB/ERS
 'came': KAEUPL
@@ -2344,7 +2344,7 @@ Little Claus and Big Claus
 'all;': AUL STPH*FPLT
 'then': THEPB
 'the': -T
-'shoemakers': xxx shoemakers
+'shoemakers': SHAOU/PHA*EURBG/-S
 'took': TAOBG
 'their': THAEUR
 'straps,': STRAPS KW-BG
@@ -2702,7 +2702,7 @@ Little Claus and Big Claus
 '"you': KR-GS U
 'are': R
 'come': KOPL
-'betimes': xxx betimes
+'betimes': PWE/TAOEUPLS
 'to-day."': TO H-PB TKAEU TP-PL KR-GS
 '"Yes,"': KR-GS KPA/KWRE KW-BG KR-GS
 'said': SAEUD
@@ -2877,7 +2877,7 @@ Little Claus and Big Claus
 'not': TPHOT
 'tied': TAO*EUD
 'in.': TPH TP-PL
-'"Hallo!"': KR-GS xxx Hallo SKHRAPL KR-GS
+'"Hallo!"': KR-GS HA*L/KWRO SKHRAPL KR-GS
 'cried': KRAOEUD
 'Little': KPA/HREUL
 'Claus,': xxx Claus KW-BG

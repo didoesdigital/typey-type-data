@@ -619,7 +619,7 @@
 * These `KPA/THEZ`
 * pitying `PEUT/EUG`
 * penetrated `PEPB/TRAEUTD`
-* inmost `xxx inmost`
+* inmost `EUPB/PHOFT`
 * good. `TKPWAOD TP-PL`
 * first `TPEUFRT`
 * any `TPHEU`

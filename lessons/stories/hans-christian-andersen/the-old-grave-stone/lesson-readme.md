@@ -344,7 +344,7 @@
 * talked `TAUBGD`
 * wedding-day; `WEGD H-PB TKAEU STPH*FPLT`
 * eyes `AO*EUS`
-* brightened, `xxx brightened KW-BG`
+* brightened, `PWRAOEUT/*EPB/-D KW-BG`
 * seemed `SAOEPLD`
 * carried `KAERD`
 * back, `PWABG KW-BG`

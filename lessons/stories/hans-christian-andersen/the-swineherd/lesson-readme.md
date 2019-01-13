@@ -224,7 +224,7 @@
 * empress," `EPL/PRES KW-BG KR-GS`
 * an `APB`
 * old `OLD`
-* courtier, `xxx courtier KW-BG`
+* courtier, `KORT/KWRA*U KW-BG`
 * has `HAS`
 * exactly `ELG`
 * same `SAEUPL`
@@ -437,7 +437,7 @@
 * know `TPHOE`
 * chamberlain's `KHAEURPL/TK-LS/HRAEUPB AES`
 * well `WEL`
-* shoemaker's. `xxx shoemaker AE S* TP-PL`
+* shoemaker's. `SHAOU/PHA*EURBG AE S* TP-PL`
 * danced `TKAPBS/-D`
 * "We `KR-GS KPA/WE`
 * eat `AOET`

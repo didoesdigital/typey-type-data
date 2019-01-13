@@ -330,7 +330,7 @@
 * 'I `AE EU`
 * throw `THROE`
 * this `TH`
-* dishful `xxx dishful`
+* dishful `TKEURB/-FL`
 * peas `PAOEZ`
 * ash-heap, `ARB H-PB HAOEP KW-BG`
 * if `TP`
@@ -459,7 +459,7 @@
 * gold `TKPWOELD`
 * dress `TKRES`
 * slippers `SHREUP/ERS`
-* spangled `xxx spangled`
+* spangled `SPAPBG/*LD`
 * silk; `S*EULG STPH*FPLT`
 * followed `TPOLD`
 * feast. `TPAOEFT TP-PL`

@@ -44,7 +44,7 @@
 * of `-F`
 * little `HREUL`
 * sister, `ST-R KW-BG`
-* Gustava, `xxx Gustava KW-BG`
+* Gustava, `TKPWUS/TAF/KWRA KW-BG`
 * much `PHUFP`
 * younger `KWRURPBG`
 * than `THAPB`
@@ -97,7 +97,7 @@
 * came `KAEUPL`
 * last, `HRAFT KW-BG`
 * took `TAOBG`
-* Gustava `xxx Gustava`
+* Gustava `TKPWUS/TAF/KWRA`
 * arms. `ARPLS TP-PL`
 * Then `KPA/THEPB`
 * ran `RAPB`

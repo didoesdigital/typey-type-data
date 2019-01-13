@@ -370,7 +370,7 @@
 * hand. `HAPBD TP-PL`
 * Soon `KPA/SAOPB`
 * after `AF`
-* Marleen `xxx Marleen`
+* Marleen `PHAR/HRAOE/*PB`
 * stirring `STEURG`
 * pot `POT`
 * boiling `PWOEULG`
@@ -487,7 +487,7 @@
 * this `TH`
 * dinner, `TKEURPB KW-BG`
 * 'Little `AE KPA/HREUL`
-* Marleen, `xxx Marleen KW-BG`
+* Marleen, `PHAR/HRAOE/*PB KW-BG`
 * why `KWR`
 * weep? `WAOEP H-F`
 * Brother `KPA/PWROER`
@@ -610,8 +610,8 @@
 * away, `A/WAEU KW-BG`
 * settled `SELTD`
 * roof `RAOF`
-* shoemaker's `xxx shoemaker AES`
-* shoemaker `xxx shoemaker`
+* shoemaker's `SHAOU/PHA*EURBG AES`
+* shoemaker `SHAOU/PHA*EURBG`
 * jumped `SKWR*UPLD`
 * shirt-sleeves, `SHEURT H-PB SHRAOEFS KW-BG`
 * hand `HAPBD`
@@ -643,7 +643,7 @@
 * gold, `TKPWOELD KW-BG`
 * bright `PWRAOEUT`
 * stars `STARS`
-* shoemaker, `xxx shoemaker KW-BG`
+* shoemaker, `SHAOU/PHA*EURBG KW-BG`
 * 'sing `AE SEUPBG`
 * nothing; `TPHOG STPH*FPLT`
 * something.' `S-G TP-PL AE`
@@ -704,7 +704,7 @@
 * yes,' `KWRE KW-BG AE`
 * others: `OERS STPH-FPLT`
 * down, `TKOUPB KW-BG`
-* millers `xxx millers`
+* millers `PHEUL/*ERS`
 * stone `STOEPB`
 * beam; `PWAEPL STPH*FPLT`
 * hole `HOEL`

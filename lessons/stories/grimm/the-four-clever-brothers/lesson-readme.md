@@ -216,7 +216,7 @@
 * earth, `*ERT KW-BG`
 * you.' `U TP-PL AE`
 * third `THEURD`
-* huntsman, `xxx huntsman KW-BG`
+* huntsman, `HUPBTS/PHA*PB KW-BG`
 * who `WHO`
 * taught `TAUT`
 * well `WEL`
@@ -360,7 +360,7 @@
 * two `TWO`
 * pieces `PAOEFS`
 * shot.' `SHOT TP-PL AE`
-* huntsman `xxx huntsman`
+* huntsman `HUPBTS/PHA*PB`
 * shot `SHOT`
 * struck `STRUBG`
 * wished. `WEURBD TP-PL`
@@ -510,7 +510,7 @@
 * still `STEUL`
 * safe; `SAEUF STPH*FPLT`
 * fall `TPAUL`
-* overset `xxx overset`
+* overset `AUFR/SET`
 * swim `SWEUPL`
 * open `OEP`
 * sea `SAE`
@@ -558,7 +558,7 @@
 * dragon; `TKRAG/O*PB STPH*FPLT`
 * 'No, `AE KPA/TPHO KW-BG`
 * mine,' `PHAOEUPB KW-BG AE`
-* huntsman; `xxx huntsman STPH*FPLT`
+* huntsman; `HUPBTS/PHA*PB STPH*FPLT`
 * if `TP`
 * killed `KEULD`
 * would, `WO KW-BG`
@@ -601,5 +601,5 @@
 * rest `REFT`
 * days, `TKAEUS KW-BG`
 * father; `TPAER STPH*FPLT`
-* craftsmen `xxx craftsmen`
+* craftsmen `KRAFTS/PH*EPB`
 * again. `TKPWEPB TP-PL`

@@ -245,7 +245,7 @@
 * herself `H*ERS`
 * sorts `SORTS`
 * fur, `TPUR KW-BG`
-* besmeared `xxx besmeared`
+* besmeared `PWE/SPHAOERD`
 * hands `HAPBDZ`
 * soot. `SAOT TP-PL`
 * threw `THRAOU`

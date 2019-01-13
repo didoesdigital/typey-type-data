@@ -657,7 +657,7 @@
 * in?' `TPH H-F AE`
 * man `PHAPB`
 * fishing, `TPEURBG KW-BG`
-* unluckily `xxx unluckily`
+* unluckily `UPB/HRULG`
 * wind `WEUPBD`
 * tangled `TAPBG/-LD`
 * fishing-line; `TPEURBG H-PB HRAOEUPB STPH*FPLT`

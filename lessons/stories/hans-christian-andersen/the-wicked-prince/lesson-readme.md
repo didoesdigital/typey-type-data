@@ -290,7 +290,7 @@
 * Hundreds `KPA/HUPBS`
 * eagles `AOEG/-LS`
 * attached `A/TAFPD`
-* swiftness `xxx swiftness`
+* swiftness `SWEUFT/-PBS`
 * an `APB`
 * arrow `AR/OE`
 * towards `TORDZ`
@@ -302,7 +302,7 @@
 * its `EUTS`
 * mountains `PHOUPB/TAEUPBS`
 * woods, `WAODZ KW-BG`
-* cornfield `xxx cornfield`
+* cornfield `KORPB/TPAO*ELD`
 * where `W-R`
 * plough `PHROU/A*U`
 * furrows `TPUR/ROE/-S`
@@ -322,7 +322,7 @@
 * then `THEPB`
 * sent `SEPBT`
 * one `WUPB`
-* numberless `xxx numberless`
+* numberless `TPHUPL/-LS`
 * angels `A*EPBLG/-S`
 * against `TKPWEPBS`
 * ship. `SHEUP TP-PL`

@@ -182,7 +182,7 @@
 * I `EU`
 * throw `THROE`
 * shillings `SHEUL/-GS`
-* pence `xxx pence`
+* pence `P*/EPBS`
 * among `PHOPBG`
 * people; `PAOEPL STPH*FPLT`
 * balls, `PWAULS KW-BG`
@@ -710,7 +710,7 @@
 * quiet. `KWAO*EUT TP-PL`
 * figures `TPEUGS`
 * lively, `HRAOEUFL KW-BG`
-* waxen `xxx waxen`
+* waxen `WABGS/*EPB`
 * angel `A*EPBLG`
 * top `TOP`
 * spread `SPRED`

@@ -166,7 +166,7 @@
 * thyme `THAOEUPL`
 * her `HER`
 * hair, `HAEUR KW-BG`
-* beechen `xxx beechen`
+* beechen `PWAOEFP/*EPB`
 * branch `PWRAFRPB`
 * hand, `HAPBD KW-BG`
 * eyes `AO*EUS`
@@ -246,7 +246,7 @@
 * know `TPHOE`
 * blood, `PWHRAOD KW-BG`
 * mourning `PHOURPBG`
-* crape `xxx crape`
+* crape `KRAP/SKWR*E`
 * dark `TKARBG`
 * heavy `HOEUF`
 * days. `TKAEUS TP-PL`
@@ -1405,7 +1405,7 @@
 * laps, `HRAPZ KW-BG`
 * wanted `WAPBTD`
 * town `TOUPB`
-* mislead `xxx mislead`
+* mislead `PHEUZ/HRAED`
 * entice `SPWAOEUS`
 * whisk! `WHEUFBG SKHRAPL`
 * were. `WR TP-PL`
@@ -1428,7 +1428,7 @@
 * themselves, `TH*EPLS KW-BG`
 * behave? `PWAEUF H-F`
 * shapes `SHAEUPS`
-* aforetime `xxx aforetime`
+* aforetime `A/TPOER/TAO*EUPL`
 * appeared `A/PAOERD`
 * crooked `KRAOBGD`
 * paths?" `PA*TS H-F KR-GS`

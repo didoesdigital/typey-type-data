@@ -234,7 +234,7 @@
 * nearly `TPHAOERL`
 * bursting. `PWUFRT/-G TP-PL`
 * It `KPA/T`
-* incomparably `xxx incomparably`
+* incomparably `EUPB/KPAR/PWHREU`
 * beautiful. `PWAOUFL TP-PL`
 * At `KPA/AT`
 * same `SAEUPL`
@@ -428,7 +428,7 @@
 * six `SEUBGS`
 * swans, `SWAPBS KW-BG`
 * golden `TKPWOELD/*EPB`
-* circlet `xxx circlet`
+* circlet `S*EURBG/HR*ET`
 * round `ROUPBD`
 * neck, `TPHEBG KW-BG`
 * bright `PWRAOEUT`
@@ -1216,7 +1216,7 @@
 * bowl, `PWOEL KW-BG`
 * pointed `POEUPBTD`
 * bridges, `PWREUPBLGS KW-BG`
-* Chinamen `xxx Chinamen`
+* Chinamen `KWHRAOEUPB/PH*EPB`
 * nodding `TPHOD/-G`
 * heads. `HEDZ TP-PL`
 * to-morrow `TO H-PB PHOR/ROE`
@@ -1239,7 +1239,7 @@
 * task `TAFBG`
 * do, `TKO KW-BG`
 * stars `STARS`
-* brighten `xxx brighten`
+* brighten `PWRAOEUT/*EPB`
 * up. `UP TP-PL`
 * apron, `AEUP/ROPB KW-BG`
 * places `PHRAEUFS`

@@ -205,7 +205,7 @@
 * along `HRAOPBG`
 * stream, `STRAOEPL KW-BG`
 * nearly `TPHAOERL`
-* overturned `xxx overturned`
+* overturned `AUFR/TURPBD`
 * washer-woman `WARB/*ER H-PB WOPL`
 * obliged `OE/PWHRAOEUPBLGD`
 * lean `HRAOEPB`
@@ -762,7 +762,7 @@
 * you. `U TP-PL`
 * mean `PHAOEPB`
 * Eric, `*ERBG KW-BG`
-* glovemaker. `xxx glovemaker TP-PL`
+* glovemaker. `TKPWHROF/PHA*EURBG TP-PL`
 * widower, `WEUD/OER KW-BG`
 * without `WOUT`
 * children, `KHEURPB KW-BG`
@@ -844,7 +844,7 @@
 * gave `TKPWAEUF`
 * mistress, `PHEUS/TRES KW-BG`
 * banns `xxx banns`
-* glovemaker `xxx glovemaker`
+* glovemaker `TKPWHROF/PHA*EURBG`
 * week. `WAOEBG TP-PL`
 * arms `ARPLS`
 * 'good `AE TKPWAOD`
@@ -957,7 +957,7 @@
 * Since `KPA/SEUPBS`
 * worked, `WORBGD KW-BG`
 * toiled, `TOEUL/-D KW-BG`
-* striven `xxx striven`
+* striven `STREUF/*PB`
 * sake `SAEUBG`
 * scrubbed `SKRUBD`
 * both `PWO*T`
@@ -977,7 +977,7 @@
 * thought, `THAUT KW-BG`
 * work. `WORBG TP-PL`
 * sudden `SUD`
-* faintness `xxx faintness`
+* faintness `TPAEUPBT/-PBS`
 * seized `SAOEZ/-D`
 * her; `HER STPH*FPLT`
 * clutched `KHRUFPD`
@@ -1019,7 +1019,7 @@
 * stated `STAEUTD`
 * left `HREFT`
 * legacy `HREG/SEU`
-* glovemaker's `xxx glovemaker AES`
+* glovemaker's `TKPWHROF/PHA*EURBG AES`
 * widow, `WO*EUD KW-BG`
 * maid, `PHAEUD KW-BG`
 * paid `PAEUD`

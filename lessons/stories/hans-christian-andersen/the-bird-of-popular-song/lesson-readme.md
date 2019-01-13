@@ -86,7 +86,7 @@
 * been `PW-PB`
 * king. `KEUPBG TP-PL`
 * golden `TKPWOELD/*EPB`
-* circlet `xxx circlet`
+* circlet `S*EURBG/HR*ET`
 * gleamed `TKPWHRAOEPL/-D`
 * his `HEUS`
 * brow, `PWROU KW-BG`
@@ -105,7 +105,7 @@
 * deep `TKAOEP`
 * sorrow, `SROE KW-BG`
 * an `APB`
-* unquiet `xxx unquiet`
+* unquiet `UPB/KWAO*EUT`
 * might `PHAOEUT`
 * sigh. `SAOEU TP-PL`
 * ship `SHEUP`
@@ -206,7 +206,7 @@
 * be `-B`
 * seen `SAOEPB`
 * green `TKPWRAOEPB`
-* turfy `xxx turfy`
+* turfy `T*UFR/KWREU`
 * mound, `PHOUPBD KW-BG`
 * with `W`
 * stones `STOEPBS`

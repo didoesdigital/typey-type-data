@@ -450,7 +450,7 @@
 * aware `A/WAEUR`
 * too. `TAO TP-PL`
 * figure `TPEUG`
-* lifelike `xxx lifelike`
+* lifelike `HRAOEUF/HRA*EBG`
 * beautiful, `PWAOUFL KW-BG`
 * whiteness `WHAOEUT/-PBS`
 * or `OR`
@@ -645,7 +645,7 @@
 * smile—the `SPHAOEUL EPL/TKA*RB -T`
 * mirrored `PHEUR/ORD`
 * soul `SOUL`
-* roseate `xxx roseate`
+* roseate `ROEZ/A*T`
 * dawn `TKAUPB`
 * understood `*URPBD`
 * man, `PHAPB KW-BG`
@@ -691,7 +691,7 @@
 * knelt `TPHELT`
 * breathed `PWRAO*ETD`
 * prayer `PRAEUR`
-* thankfulnesss `xxx thankfulnesss`
+* thankfulnesss `THAPB/K-FL/-PBS/-S`
 * Heaven, `KPA/HEFPB KW-BG`
 * then `THEPB`
 * forgot `TPAURGT`
@@ -714,7 +714,7 @@
 * carry `KAER`
 * news `TPHUS`
 * finished. `TP*EURBD TP-PL`
-* betook `xxx betook`
+* betook `PWE/TAOBG`
 * thither, `TH*EURT KW-BG`
 * strode `STROED`
 * courtyard `KORT/KWRARD`
@@ -733,7 +733,7 @@
 * ceilings `KRAOELGS`
 * shone `SHO*EPB`
 * colors `KHRORS`
-* heraldic `xxx heraldic`
+* heraldic `H*ERLD/EUBG`
 * devices. `TKWAOEUSZ TP-PL`
 * Gayly-dressed `xxx Gayly H-PB TKREFD`
 * serving-men, `SEFRBG H-PB PHEPB KW-BG`
@@ -912,7 +912,7 @@
 * friend's `TPREPBD/AES`
 * incoherent `EUPB/KOE/HAOERPBT`
 * words, `WORDZ KW-BG`
-* forbore `xxx forbore`
+* forbore `TPAUR/PWOR`
 * question `KWE`
 * further, `TPURT KW-BG`
 * merely `PHAOERL`
@@ -1121,7 +1121,7 @@
 * heaven—to `HEFPB EPL/TKA*RB TO`
 * glory! `TKPWHROER SKHRAPL`
 * blossom `PWHROFPL`
-* unfolding `xxx unfolding`
+* unfolding `UPB/TPOELGD`
 * veins `SRAEUPBS`
 * moment!" `PHOEPLT SKHRAPL KR-GS`
 * unfolded `UPB/TPOELD/-D`
@@ -1133,7 +1133,7 @@
 * sight, `SAOEUT KW-BG`
 * astray `AS/TRAEU`
 * fancy; `TPAPB/SEU STPH*FPLT`
-* firework `xxx firework`
+* firework `TPAOEUR/WO*RBG`
 * senses `SEPBS/-S`
 * out, `OUT KW-BG`
 * dark. `TKARBG TP-PL`
@@ -1181,10 +1181,10 @@
 * trembled `TREPL/-BLD`
 * immortality, `EUPL/POR/TALT KW-BG`
 * glance `TKPWHRAPBS`
-* impure `xxx impure`
+* impure `*EUPL/PAOUR`
 * cloth `KHRO*T`
 * statue, `STOEUT KW-BG`
-* unveil `xxx unveil`
+* unveil `UPB/SRAEUL`
 * form—but `TPORPL EPL/TKA*RB PWUT`
 * Gloomy, `KPA/TKPWHRAO/PH*EU KW-BG`
 * quiet, `KWAO*EUT KW-BG`
@@ -1246,7 +1246,7 @@
 * peace `PAES`
 * happiness `HAEP/-PBS`
 * church, `KHUFRPB KW-BG`
-* sinfulness `xxx sinfulness`
+* sinfulness `SEUPB/-FL/-PBS`
 * rest `REFT`
 * mercy `PHER/SEU`
 * heaven. `HEFPB TP-PL`
@@ -1364,7 +1364,7 @@
 * comes `KOPLS`
 * renders `REPBD/ERS`
 * sinful `SEUPB/-FL`
-* impure. `xxx impure TP-PL`
+* impure. `*EUPL/PAOUR TP-PL`
 * fully `TPHRAOUL`
 * realized `AEFLD`
 * this. `TH TP-PL`
@@ -1398,7 +1398,7 @@
 * world! `WORLD SKHRAPL`
 * Read `KPA/RAED`
 * parable `PAEURBL`
-* intrusted `xxx intrusted`
+* intrusted `EUPB/TRUFTD`
 * talent! `THREPBT SKHRAPL`
 * MASTER, `*URP/PHAFRT KW-BG`
 * parable, `PAEURBL KW-BG`

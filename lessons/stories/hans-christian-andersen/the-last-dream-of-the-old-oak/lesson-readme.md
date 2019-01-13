@@ -418,7 +418,7 @@
 * across `A/KROS`
 * sea. `SAE TP-PL`
 * But `KPA/PWUT`
-* leafless, `xxx leafless KW-BG`
+* leafless, `HRAOEF/-LS KW-BG`
 * see `SAOE`
 * crooked `KRAOBGD`
 * bent `PWEPBT`
@@ -707,7 +707,7 @@
 * native `TPHAEUFT`
 * wood, `WAOD KW-BG`
 * brown `PWROUPB`
-* feathery `xxx feathery`
+* feathery `TP*ET/KWREU`
 * rushes, `RURBS KW-BG`
 * ascended `A/SEPBD/-D`
 * melody `PHEL/TKEU`

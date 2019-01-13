@@ -470,7 +470,7 @@
 * and, `SKP KW-BG`
 * while `WHAOEUL`
 * feeling `TPAOELG`
-* vastness `xxx vastness`
+* vastness `SRAFT/-PBS`
 * we `WE`
 * experience `SPAOERPBS`
 * ever-moving `-FR H-PB PHOFG`

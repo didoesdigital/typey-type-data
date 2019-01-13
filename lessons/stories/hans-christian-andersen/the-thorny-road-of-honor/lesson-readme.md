@@ -511,7 +511,7 @@
 * "Yet `KR-GS KPA/KWRET`
 * moves!" `PHOFS SKHRAPL KR-GS`
 * woman `WOPL`
-* childlike `xxx childlike`
+* childlike `KHAOEULD/HRA*EBG`
 * mind, `PHAOEUPBD KW-BG`
 * full `TPUL`
 * faith `TPA*EUT`

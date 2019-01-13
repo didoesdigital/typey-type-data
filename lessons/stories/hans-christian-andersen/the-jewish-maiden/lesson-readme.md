@@ -238,7 +238,7 @@
 * still `STEUL`
 * same `SAEUPL`
 * when, `WHEPB KW-BG`
-* schoolroom `xxx schoolroom`
+* schoolroom `SKAOL/RAO*PL`
 * form `TPORPL`
 * thoughtful `THAUFL`
 * Every `KPA/EF`
@@ -309,7 +309,7 @@
 * Scriptures `SKR*EUP/KHURS`
 * read. `RAED TP-PL`
 * Faithfully `KPA/TPA*EUT/TPHREU`
-* inmost `xxx inmost`
+* inmost `EUPB/PHOFT`
 * thoughts `THAUTS`
 * kept `KEPT`
 * vow `SROU`
@@ -353,7 +353,7 @@
 * taken `TAEPB`
 * prisoner `PREURZ`
 * Turkish `TUR/KEURB`
-* pasha, `xxx pasha KW-BG`
+* pasha, `PARB/KWRA KW-BG`
 * cruelly `KRAOUL/HREU`
 * treated `TRAETD`
 * yoked `KWRO*EBG/-D`
@@ -420,7 +420,7 @@
 * returned `RURPBD`
 * battle `PWA*LT`
 * victory. `SREUBGT/REU TP-PL`
-* pasha `xxx pasha`
+* pasha `PARB/KWRA`
 * prisoner, `PREURZ KW-BG`
 * dragged `TKRAGD`
 * dungeon `TKUPBGS`
@@ -434,11 +434,11 @@
 * do `TKO`
 * you `U`
 * suppose `SPOS`
-* awaiteth `xxx awaiteth`
+* awaiteth `A/WAEUT/*ET`
 * thee?" `THAOE H-F KR-GS`
 * know," `TPHOE KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
-* pasha; `xxx pasha STPH*FPLT`
+* pasha; `PARB/KWRA STPH*FPLT`
 * "retribution." `KR-GS RET/PWAOUGS TP-PL KR-GS`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * retribution `RET/PWAOUGS`

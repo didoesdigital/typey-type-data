@@ -321,7 +321,7 @@
 * square. `SKWAEUR TP-PL`
 * By `KPA/PWEU`
 * Palazzo `KPA/PA/HRAZ/SO`
-* degli `xxx degli`
+* degli `TKE/TKPW*/HR*/SKWREU`
 * Uffizi, `xxx Uffizi KW-BG`
 * arcade, `AR/KAEUD KW-BG`
 * nobility `TPHOEBLT`
@@ -614,7 +614,7 @@
 * mind `PHAOEUPBD`
 * rise `RAOEUZ`
 * heaven, `HEFPB KW-BG`
-* Elias `xxx Elias`
+* Elias `EL/KWRAS`
 * old. `OLD TP-PL`
 * right `RAOEUT`
 * aisle `AOEULS`
@@ -638,7 +638,7 @@
 * cathedral `KA/TAOED/RAL`
 * though `THOE`
 * large. `HRARPBLG TP-PL`
-* vestments `xxx vestments`
+* vestments `SREFT/-PLTS`
 * stirred, `STEURD KW-BG`
 * heads `HEDZ`
 * higher, `HAOEUR KW-BG`
@@ -790,7 +790,7 @@
 * handles, `HAPBLS KW-BG`
 * holding `HOELGD`
 * fire, `TPAOEUR KW-BG`
-* marito. `xxx marito TP-PL`
+* marito. `PHAR/AOE/TOE TP-PL`
 * This `KPA/TH`
 * took `TAOBG`
 * lap, `HRAP KW-BG`
@@ -823,7 +823,7 @@
 * neighbor `TPHAEUB`
 * in, `TPH KW-BG`
 * also `HR-S`
-* marito `xxx marito`
+* marito `PHAR/AOE/TOE`
 * arm. `ARPL TP-PL`
 * "Felicita," `KR-GS xxx Felicita KW-BG KR-GS`
 * said, `SAEUD KW-BG`
@@ -918,7 +918,7 @@
 * small `SPHAL`
 * house `HOUS`
 * street. `STRAOET TP-PL`
-* glovemaker's `xxx glovemaker AES`
+* glovemaker's `TKPWHROF/PHA*EURBG AES`
 * shop, `SHOP KW-BG`
 * sat `SAT`
 * sewing `SWEG`
@@ -999,7 +999,7 @@
 * us, `US KW-BG`
 * become `PW-BG`
 * clever `KHREFR`
-* glovemaker, `xxx glovemaker KW-BG`
+* glovemaker, `TKPWHROF/PHA*EURBG KW-BG`
 * you. `U TP-PL`
 * Look `KPA/HRAOBG`
 * delicate `TKEL/KAT`
@@ -1007,7 +1007,7 @@
 * got; `TKPWOT STPH*FPLT`
 * Madonna `PHA/TKOPB/TPHA`
 * intended `SPWEPBD/-D`
-* glovemaker." `xxx glovemaker TP-PL KR-GS`
+* glovemaker." `TKPWHROF/PHA*EURBG TP-PL KR-GS`
 * stayed `STAEUD`
 * herself `H*ERS`
 * taught `TAUT`
@@ -1165,7 +1165,7 @@
 * never `TPHEFR`
 * unless `TPH-LS`
 * attired `A/TAOEUR/-D`
-* lambskin `xxx lambskin`
+* lambskin `HRAPLS/K*EUPB`
 * coat `KOET`
 * her; `HER STPH*FPLT`
 * fastened `TPAS/-PBD`
@@ -1258,7 +1258,7 @@
 * wall `WAUL`
 * usually `AOURBL`
 * hung; `HUPBG STPH*FPLT`
-* lambskin. `xxx lambskin TP-PL`
+* lambskin. `HRAPLS/K*EUPB TP-PL`
 * watch-house!" `WAFP H-PB HOUS SKHRAPL KR-GS`
 * cried. `KRAOEUD TP-PL`
 * bad `PWAD`
@@ -1350,7 +1350,7 @@
 * everybody `EFRB`
 * meant `PHEPBT`
 * represent. `REPT TP-PL`
-* glovemaking `xxx glovemaking`
+* glovemaking `TKPWHROF/PHA*EUBG/-G`
 * slowly. `SHROEL TP-PL`
 * orders `ORDZ`
 * given `TKPWEUFPB`
@@ -1472,7 +1472,7 @@
 * green `TKPWRAOEPB`
 * leaves, `HREFS KW-BG`
 * streamer `STRAOEPL/*ER`
-* crape, `xxx crape KW-BG`
+* crape, `KRAP/SKWR*E KW-BG`
 * within `W-PB`
 * days `TKAEUS`
 * artist `TR-FT`

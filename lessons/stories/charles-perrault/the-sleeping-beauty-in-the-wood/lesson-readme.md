@@ -490,9 +490,9 @@
 * under-cooks, `TPH-PB H-PB KAOBGS KW-BG`
 * scullions, `xxx scullions KW-BG`
 * guards, `TKPWARDZ KW-BG`
-* beef-eaters, `PWAOEF H-PB xxx eaters KW-BG`
+* beef-eaters, `PWAOEF H-PB AOET/*ERS KW-BG`
 * pages, `PAEUPBLGS KW-BG`
-* footmen; `xxx footmen STPH*FPLT`
+* footmen; `TPAOT/PH*EPB STPH*FPLT`
 * likewise `HRAOEUBG/WAOEUS`
 * horses `HORSZ`
 * stables, `STAEUBLS KW-BG`
@@ -766,7 +766,7 @@
 * admiration, `AD/PHEUR/AEUGS KW-BG`
 * knees. `TPHAOEZ TP-PL`
 * now, `TPHOU KW-BG`
-* inchantment `xxx inchantment`
+* inchantment `EUPB/KHAPBT/*PLT`
 * end, `EPBD KW-BG`
 * awaked, `A/WAEUBG/-D KW-BG`
 * looking `HRAOG`

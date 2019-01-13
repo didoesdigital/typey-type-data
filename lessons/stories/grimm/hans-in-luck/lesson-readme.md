@@ -462,7 +462,7 @@
 * stump `STUFRP`
 * tree, `TRAOE KW-BG`
 * held `HELD`
-* leathern `xxx leathern`
+* leathern `HRE/THER/*PB`
 * cap `KAP`
 * into; `TPHAO STPH*FPLT`
 * drop `TKROP`

@@ -41,7 +41,7 @@
 * yellow `KWREL/OE`
 * water-lilies `WAUR H-PB HREUL/KWREU/KWREU/-S`
 * brown `PWROUPB`
-* feathery `xxx feathery`
+* feathery `TP*ET/KWREU`
 * reeds; `RAOED/-S STPH*FPLT`
 * dark `TKARBG`
 * velvety `SREL/SRE/TEU`
@@ -439,7 +439,7 @@
 * church; `KHUFRPB STPH*FPLT`
 * crows, `KROE/-S KW-BG`
 * ravens `RA*EUF/-PBS`
-* magpies `xxx magpies`
+* magpies `PHAG/PAOEU/*S`
 * started `STARTD`
 * terror `TER/O*R`
 * yelling `KWRELG`
@@ -502,7 +502,7 @@
 * loopholes; `HRAOP/HOEL/-S STPH*FPLT`
 * everything, `EFRG KW-BG`
 * gets `TKPWETS`
-* encircles `xxx encircles`
+* encircles `EPB/SOEURBGS`
 * things, `THEUPBGS KW-BG`
 * tongue, `TUPBG KW-BG`
 * rings `REUPBGS`

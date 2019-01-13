@@ -185,7 +185,7 @@
 * picture `P*EUFP`
 * of `-F`
 * our `OUR`
-* poetryless `xxx poetryless`
+* poetryless `POEURT/-LS`
 * time, `TAOEUPL KW-BG`
 * see `SAOE`
 * me `PHE`

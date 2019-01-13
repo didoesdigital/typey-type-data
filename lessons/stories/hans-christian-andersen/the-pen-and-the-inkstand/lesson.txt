@@ -6,7 +6,7 @@ The Pen and the Inkstand
 'room,': RAOPL KW-BG
 'where': W-R
 'his': HEUS
-'inkstand': xxx inkstand
+'inkstand': *EUPBG/STA*PBD
 'stood': STAOD
 'on': OPB
 'the': -T
@@ -26,7 +26,7 @@ The Pen and the Inkstand
 'out': OUT
 'of': -F
 'an': APB
-'inkstand.': xxx inkstand TP-PL
+'inkstand.': *EUPBG/STA*PBD TP-PL
 'What': KPA/WHA
 'will': HR
 'come': KOPL
@@ -39,7 +39,7 @@ The Pen and the Inkstand
 'certainly,"': SERPBL KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'inkstand': xxx inkstand
+'inkstand': *EUPBG/STA*PBD
 'to': TO
 'the': -T
 'pen,': PEPB KW-BG
@@ -282,7 +282,7 @@ The Pen and the Inkstand
 'as': AZ
 'an': APB
 'old': OLD
-'inkstand."': xxx inkstand TP-PL KR-GS
+'inkstand."': *EUPBG/STA*PBD TP-PL KR-GS
 '"You': KR-GS KPA/U
 'have': SR
 'had': H
@@ -291,7 +291,7 @@ The Pen and the Inkstand
 'experience,"': SPAOERPBS KW-BG KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'inkstand.': xxx inkstand TP-PL
+'inkstand.': *EUPBG/STA*PBD TP-PL
 '"You': KR-GS KPA/U
 'have': SR
 'hardly': HA*RLD
@@ -442,7 +442,7 @@ The Pen and the Inkstand
 'his': HEUS
 'instrument': STRUPLT
 'a': AEU
-'richness': xxx richness
+'richness': REUFP/-PBS
 'of': -F
 'tone': TOEPB
 'that': THA
@@ -450,7 +450,7 @@ The Pen and the Inkstand
 'sounded': SOUPBD/-D
 'like': HRAOEUBG
 'tinkling': TEUPB/K-LG
-'waterdrops': xxx waterdrops
+'waterdrops': WA*UR/TKROPS
 'or': OR
 'rolling': ROLG
 'pearls;': PERLS STPH*FPLT
@@ -712,7 +712,7 @@ The Pen and the Inkstand
 'pen': PEPB
 'to': TO
 'the': -T
-'inkstand,': xxx inkstand KW-BG
+'inkstand,': *EUPBG/STA*PBD KW-BG
 'when': WHEPB
 'the': -T
 'two': TWO
@@ -739,7 +739,7 @@ The Pen and the Inkstand
 'write,"': WREU KW-BG KR-GS
 'retorted': RE/TORT/-D
 'the': -T
-'inkstand.': xxx inkstand TP-PL
+'inkstand.': *EUPBG/STA*PBD TP-PL
 '"That': KR-GS KPA/THA
 'was': WAS
 'a': AEU
@@ -784,7 +784,7 @@ The Pen and the Inkstand
 '"Writing-stick!"': KR-GS KPA/WREUG H-PB STEUBG SKHRAPL KR-GS
 'retorted': RE/TORT/-D
 'the': -T
-'inkstand.': xxx inkstand TP-PL
+'inkstand.': *EUPBG/STA*PBD TP-PL
 'And': AFPBD
 'each': AOEFP
 'of': -F

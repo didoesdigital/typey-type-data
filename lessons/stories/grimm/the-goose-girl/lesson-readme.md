@@ -382,7 +382,7 @@
 * prince. `PREUPBS TP-PL`
 * 'Then `AE KPA/THEPB`
 * tell `TEL`
-* slaughterers `xxx slaughterers`
+* slaughterers `SHRAUR/*ERS`
 * upon, `POPB KW-BG`
 * unruly, `UPB/RAOU/HREU KW-BG`
 * plagued `PHRAEUG/-D`
@@ -493,7 +493,7 @@
 * again `TKPWEPB`
 * safe. `SAEUF TP-PL`
 * angry `APBG/REU`
-* sulky, `xxx sulky KW-BG`
+* sulky, `S*ULG/KWREU KW-BG`
 * speak `SPAOEBG`
 * all; `AUL STPH*FPLT`
 * watched `WAFPD`

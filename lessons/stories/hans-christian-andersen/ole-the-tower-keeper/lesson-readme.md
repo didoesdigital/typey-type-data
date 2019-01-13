@@ -173,7 +173,7 @@
 * can `K`
 * found `TPOUPBD`
 * together. `TOGT TP-PL`
-* betook `xxx betook`
+* betook `PWE/TAOBG`
 * himself `H*EUPLS`
 * thither, `TH*EURT KW-BG`
 * smoked `SPHOEBGD`
@@ -551,7 +551,7 @@
 * grease `TKPWRAES`
 * instead `STPHED`
 * blacking; `PWHRABG/-G STPH*FPLT`
-* beadle `xxx beadle`
+* beadle `PWAED/*L`
 * boy, `PWOEU KW-BG`
 * boy `PWOEU`
 * worst `WOFRT`
@@ -741,7 +741,7 @@
 * bring `PWREU`
 * silent, `SHREPBT KW-BG`
 * hidden `HEUD/EPB`
-* thankfulness `xxx thankfulness`
+* thankfulness `THAPB/K-FL/-PBS`
 * head `HED`
 * benefactor; `PWEPB/TPABG/TOR STPH*FPLT`
 * whole `WHOEL`
@@ -887,7 +887,7 @@
 * soars `SAORZ`
 * upward, `AUP/WARBD KW-BG`
 * twittering `HRO*ER/TWEUT/*ERG`
-* guileless `xxx guileless`
+* guileless `TKPWAOEUL/-LS`
 * cheerfulness, `KHAOER/-FL/-PBS KW-BG`
 * listen `HREUFPB`
 * perhaps `PRAPS`
@@ -1077,7 +1077,7 @@
 * ragged `RAGD`
 * curtain `KUR/TAPB`
 * themselves `TH*EPLS`
-* coverlet. `xxx coverlet TP-PL`
+* coverlet. `KOFR/HR*ET TP-PL`
 * splendid!" `SPHREPBD/EUD SKHRAPL KR-GS`
 * strong `STROPBG`
 * besides, `PW-DZ KW-BG`
@@ -1109,7 +1109,7 @@
 * catch `KAFP`
 * cold `KOELD`
 * in. `TPH TP-PL`
-* dustman `xxx dustman`
+* dustman `TKUFT/PHA*PB`
 * full, `TPUL KW-BG`
 * sample `SAFRPL`
 * moving-day. `PHOFG H-PB TKAEU TP-PL`
@@ -1399,7 +1399,7 @@
 * shut `SHUT`
 * iron `AOEURPB`
 * cages, `KAEUPBLGS KW-BG`
-* coverlet `xxx coverlet`
+* coverlet `KOFR/HR*ET`
 * protect `PREBGT`
 * cold. `KOELD TP-PL`
 * King `KO*EUPBG`
@@ -1424,7 +1424,7 @@
 * spare `SPAEUR`
 * him.' `HEUPL TP-PL AE`
 * tears `TAERS`
-* hangman's `xxx hangman AES`
+* hangman's `HAPBG/PHA*PB AES`
 * eyes, `AO*EUS KW-BG`
 * king's `KEUPBG/AES`
 * stronger `STRORPBG`

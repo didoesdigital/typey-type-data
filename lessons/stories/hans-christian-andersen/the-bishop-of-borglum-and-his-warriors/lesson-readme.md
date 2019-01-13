@@ -334,7 +334,7 @@
 * did `TK`
 * gain `TKPWAEUPB`
 * thereby? `THR-B H-F`
-* disobedient `xxx disobedient`
+* disobedient `TKEUS/OE/PWAOEPBT`
 * law, `HRAU KW-BG`
 * strong `STROPBG`
 * her `HER`
@@ -352,7 +352,7 @@
 * sealing `SAELG`
 * thy `THAO*EU`
 * seal, `SAOEL KW-BG`
-* intrusting `xxx intrusting`
+* intrusting `EUPB/TRUFT/-G`
 * horsemen `HORS/PH*EPB`
 * servants, `SER/SRAPBTS KW-BG`
 * who `WHO`
@@ -504,7 +504,7 @@
 * dangerous `TKAEUPBLGS`
 * sunken `SUPB/KEPB`
 * road `RAOD`
-* darksome `xxx darksome`
+* darksome `TKARBG/SO*EPL`
 * forest. `TPOEFRT TP-PL`
 * were `WR`
 * Franconia. `xxx Franconia TP-PL`
@@ -781,7 +781,7 @@
 * stone `STOEPB`
 * pavement. `PAEUFPLT TP-PL`
 * arrives. `A/RAOEUFS TP-PL`
-* forecourt `xxx forecourt`
+* forecourt `TPOER/KORT`
 * greets `TKPWRAOETS`
 * kindly, `KAOEUPBD/HREU KW-BG`
 * says, `SEZ KW-BG`
@@ -843,7 +843,7 @@
 * surrounded `SROUBD/-D`
 * candelabra `KAPBD/HRAB/RA`
 * decked `TKEBG/-D`
-* crape. `xxx crape TP-PL`
+* crape. `KRAP/SKWR*E TP-PL`
 * man, `PHAPB KW-BG`
 * cloak `KHROEBG`
 * wrought `WROT`

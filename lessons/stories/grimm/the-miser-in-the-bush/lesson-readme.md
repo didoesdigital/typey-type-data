@@ -437,7 +437,7 @@
 * hold `HOLD`
 * miser. `PHAOEUZ/ER TP-PL`
 * second `SEBGD`
-* hangman `xxx hangman`
+* hangman `HAPBG/PHA*PB`
 * prisoner `PREURZ`
 * go, `TKPW KW-BG`
 * also, `HR-S KW-BG`

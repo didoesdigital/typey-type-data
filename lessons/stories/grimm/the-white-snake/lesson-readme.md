@@ -534,7 +534,7 @@
 * strewed `STRAOU/-D`
 * hands `HAPBDZ`
 * ten `TEPB`
-* sacksful `xxx sacksful`
+* sacksful `SABG/-S/-FL`
 * millet-seed `PHEUL/ET H-PB SAOED`
 * grass; `TKPWRAS STPH*FPLT`
 * said: `SAEUD STPH-FPLT`

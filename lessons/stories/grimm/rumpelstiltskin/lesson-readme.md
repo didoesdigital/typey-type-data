@@ -123,7 +123,7 @@
 * corner `KRORPB`
 * room, `RAOPL KW-BG`
 * began `TKPWAPB`
-* bewail `xxx bewail`
+* bewail `PWE/WAEUL`
 * hard `HARD`
 * fate; `TPAEUT STPH*FPLT`
 * on `OPB`

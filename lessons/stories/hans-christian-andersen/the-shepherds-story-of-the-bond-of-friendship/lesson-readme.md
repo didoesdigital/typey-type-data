@@ -465,7 +465,7 @@
 * sister `ST-R`
 * goat-skin, `TKPWO*ET H-PB SKEUPB KW-BG`
 * back. `PWABG TP-PL`
-* Frankish `xxx Frankish`
+* Frankish `TPRA*PBG/EURB`
 * gentlemen `SKWR*EPL`
 * made `PHAED`
 * stand `STAPBD`
@@ -769,7 +769,7 @@
 * scorched `SKOR/-FPD`
 * leaves. `HREFS TP-PL`
 * single `SEUPBLG`
-* herdsman `xxx herdsman`
+* herdsman `HERDZ/PHA*PB`
 * meet, `PHAOET KW-BG`
 * solitary `SOL/TAER`
 * pass; `PAS STPH*FPLT`
@@ -876,7 +876,7 @@
 * gradually, `TKPWRAD/WAEL KW-BG`
 * course `KORS`
 * weeks, `WAOEBGS KW-BG`
-* unfold `xxx unfold`
+* unfold `UPB/TPOELD`
 * became `PWAEUPL`
 * beauty; `PWAOUT STPH*FPLT`
 * and, `SKP KW-BG`
@@ -1003,7 +1003,7 @@
 * solemn `SHREPL`
 * ceremony. `SER/PHOEPB TP-PL`
 * little, `HREUL KW-BG`
-* unpretending `xxx unpretending`
+* unpretending `UPB/PRE/TEPBD/-G`
 * sunlight `SULGT`
 * streamed `STRAOEPL/-D`
 * open `OEP`
@@ -1084,7 +1084,7 @@
 * door, `TKAOR KW-BG`
 * weeping. `WAOEP/-G TP-PL`
 * cheerful `KHAOER/-FL`
-* Delphian `xxx Delphian`
+* Delphian `TKEL/TPAOEU/A*PB`
 * springs! `SPREUPBGS SKHRAPL`
 * departure, `TKPAR/KHUR KW-BG`
 * thoughtfully `THAUFL/HREU`

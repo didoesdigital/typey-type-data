@@ -670,7 +670,7 @@
 * trees!" `TRAOES SKHRAPL KR-GS`
 * then, `THEPB KW-BG`
 * hold `HOLD`
-* creepers `xxx creepers`
+* creepers `KRAOEP/*ERS`
 * roots, `RAOTS KW-BG`
 * climbed `KHRAOEUPLD`
 * wet `WET`

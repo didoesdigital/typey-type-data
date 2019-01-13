@@ -425,7 +425,7 @@
 * caused `KAUFD`
 * himself `H*EUPLS`
 * announced `A/TPHOUPBS/-D`
-* huntsman, `xxx huntsman KW-BG`
+* huntsman, `HUPBTS/PHA*PB KW-BG`
 * asked `SK-D`
 * offer `OFR`
 * service. `S-FS TP-PL`
@@ -437,7 +437,7 @@
 * part `PART`
 * district `TR-T`
 * country. `KREU TP-PL`
-* huntsman `xxx huntsman`
+* huntsman `HUPBTS/PHA*PB`
 * promised `PROPLS/-D`
 * procure `PRO/KAOUR`
 * much `PHUFP`
@@ -485,7 +485,7 @@
 * household `HOUS/HOLD`
 * feast. `TPAOEFT TP-PL`
 * assembled `A/SEPL/-BLD`
-* huntsman: `xxx huntsman STPH-FPLT`
+* huntsman: `HUPBTS/PHA*PB STPH-FPLT`
 * 'As `AE KPA/AZ`
 * clever, `KHREFR KW-BG`
 * sit `SEUT`
@@ -497,7 +497,7 @@
 * must `PHUFT`
 * excuse `SKAOUS`
 * poor `PAOR`
-* huntsman.' `xxx huntsman TP-PL AE`
+* huntsman.' `HUPBTS/PHA*PB TP-PL AE`
 * insisted `EUPB/SEUFTD`
 * me,' `PHE KW-BG AE`
 * it. `T TP-PL`

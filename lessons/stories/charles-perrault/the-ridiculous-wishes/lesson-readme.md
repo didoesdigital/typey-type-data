@@ -55,7 +55,7 @@
 * known `TPHOEPB`
 * their `THAEUR`
 * desires, `STKAOEURS KW-BG`
-* straightway `xxx straightway`
+* straightway `STRAEUT/WA*E`
 * these `THEZ`
 * are `R`
 * granted, `TKPWRAPBTD KW-BG`
@@ -378,7 +378,7 @@
 * returned `RURPBD`
 * wife. `WAOEUF TP-PL`
 * "Once `KR-GS KPA/WUPBS`
-* witless `xxx witless`
+* witless `WEUT/-LS`
 * fool, `TPAOL KW-BG`
 * always `AULS`
 * fool!" `TPAOL SKHRAPL KR-GS`
@@ -400,11 +400,11 @@
 * last; `HRAFT STPH*FPLT`
 * "put `KR-GS PUT`
 * check `KHEBG`
-* froward `xxx froward`
+* froward `TPRO/WA*RD`
 * tongue! `TUPBG SKHRAPL`
 * Who `KPA/WHO`
 * ever `-FR`
-* impertinence `xxx impertinence`
+* impertinence `*EUPL/PERT/TPHEPBS`
 * this! `TH SKHRAPL`
 * A `KPA/AEU`
 * plague `PHRAEUG`

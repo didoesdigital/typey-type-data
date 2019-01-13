@@ -133,7 +133,7 @@
 * so `SO`
 * much `PHUFP`
 * about `PW`
-* faithfulness `xxx faithfulness`
+* faithfulness `TPA*EUT/-FL/-PBS`
 * nearly `TPHAOERL`
 * her: `HER STPH-FPLT`
 * 'Dearest `AE KPA/TKAER/EFT`
@@ -376,7 +376,7 @@
 * ground. `TKPWROUPBD TP-PL`
 * something `S-G`
 * happened `HAPD`
-* huntsman, `xxx huntsman KW-BG`
+* huntsman, `HUPBTS/PHA*PB KW-BG`
 * ran `RAPB`
 * up `UP`
 * wanted `WAPBTD`

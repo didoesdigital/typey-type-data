@@ -562,7 +562,7 @@
 * too; `TAO STPH*FPLT`
 * snow-flakes, `STPHOE H-PB TPHRAEUBGS KW-BG`
 * fell `TPEL`
-* shovelful `xxx shovelful`
+* shovelful `SHOFL/-FL`
 * falling `TPAULG`
 * us, `US KW-BG`
 * tall, `TAUL KW-BG`
@@ -597,7 +597,7 @@
 * field-mouse `TPAOELD H-PB PHOUS`
 * warmth `WARPLT`
 * comfort, `K-FRT KW-BG`
-* roomful `xxx roomful`
+* roomful `RAOPL/-FL`
 * corn, `KORPB KW-BG`
 * kitchen, `K-FP KW-BG`
 * dining `TKAOEUPBG`
@@ -832,7 +832,7 @@
 * thump." `THUFRP TP-PL KR-GS`
 * heart; `HART STPH*FPLT`
 * dead, `TKED KW-BG`
-* benumbed `xxx benumbed`
+* benumbed `PWE/TPHUPL/-BD`
 * restored `RAOE/STORD`
 * life. `HRAOEUF TP-PL`
 * swallows `SWAL/OES`

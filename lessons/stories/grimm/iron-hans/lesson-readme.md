@@ -25,7 +25,7 @@
 * he `HE`
 * sent `SEPBT`
 * out `OUT`
-* huntsman `xxx huntsman`
+* huntsman `HUPBTS/PHA*PB`
 * to `TO`
 * shoot `SHAOT`
 * him `HEUPL`
@@ -152,7 +152,7 @@
 * know `TPHOE`
 * nothing.' `TPHOG TP-PL AE`
 * therefore `TH-FR`
-* betook `xxx betook`
+* betook `PWE/TAOBG`
 * dog `TKOG`
 * It `KPA/T`
 * long `HROPBG`
@@ -514,7 +514,7 @@
 * left `HREFT`
 * walked `WAUBGD`
 * beaten `PWAOET/EPB`
-* unbeaten `xxx unbeaten`
+* unbeaten `UPB/PWAOET/*EPB`
 * paths `PA*TS`
 * ever `-FR`
 * onwards `OPB/WARDZ`
@@ -668,7 +668,7 @@
 * Not `KPA/TPHOT`
 * afterwards, `A*FRDZ KW-BG`
 * country `KREU`
-* overrun `xxx overrun`
+* overrun `AUFR/RUPB`
 * war. `WAR TP-PL`
 * together `TOGT`
 * people, `PAOEPL KW-BG`
@@ -769,7 +769,7 @@
 * Instead `KPA/STPHED`
 * returning `RURPBG`
 * conducted `KUBGTD`
-* byways `xxx byways`
+* byways `PWEU/WA*ES`
 * Hans. `HAPBS TP-PL`
 * troops, `TRAOPS KW-BG`
 * All `KPA/AUL`

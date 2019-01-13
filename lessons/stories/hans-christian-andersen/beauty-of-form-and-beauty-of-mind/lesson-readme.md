@@ -124,7 +124,7 @@
 * him `HEUPL`
 * with `W`
 * pleasure, `PHRERB KW-BG`
-* unmingled `xxx unmingled`
+* unmingled `UPB/PHEUPBG/-LD`
 * awe; `AU STPH*FPLT`
 * but `PWUT`
 * none `TPHOPB`
@@ -1106,7 +1106,7 @@
 * existence: `KPEUFS STPH-FPLT`
 * soul `SOUL`
 * acquire `A/KWAOEU`
-* completeness `xxx completeness`
+* completeness `KPHRAOET/-PBS`
 * harmonize `HARPL/TPHAOEUZ`
 * yours, `KWROURS KW-BG`
 * mine, `PHAOEUPB KW-BG`

@@ -400,7 +400,7 @@
 * wedding-torches `WEGD H-PB TOR/-FPS`
 * lighted; `HRAOEUT/-D STPH*FPLT`
 * but, `PWUT KW-BG`
-* unluckily, `xxx unluckily KW-BG`
+* unluckily, `UPB/HRULG KW-BG`
 * crack `KRABG`
 * door. `TKAOR TP-PL`
 * wedding `WEGD`

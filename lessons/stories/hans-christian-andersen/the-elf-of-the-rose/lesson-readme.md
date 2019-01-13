@@ -647,7 +647,7 @@
 * jasmine, `SKWRAS/PHEUPB KW-BG`
 * every `EF`
 * cup `KUP`
-* invisibly `xxx invisibly`
+* invisibly `EUPB/SREUS/PWHREU`
 * spirits `SPEURTS`
 * stole `STOEL`
 * out, `OUT KW-BG`

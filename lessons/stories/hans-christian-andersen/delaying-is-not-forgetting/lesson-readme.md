@@ -502,4 +502,4 @@
 * more `PHOR`
 * trefoil `TRE/TPOEUL`
 * leaves? `HREFS H-F`
-* heartbook `xxx heartbook`
+* heartbook `HART/PWAO*BG`

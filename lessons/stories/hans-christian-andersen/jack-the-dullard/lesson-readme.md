@@ -14,7 +14,7 @@
 * lay `HRAEU`
 * an `APB`
 * old `OLD`
-* baronial `xxx baronial`
+* baronial `PWAR/ROPB/KWRAL`
 * hall, `HAUL KW-BG`
 * and `SKP`
 * it `T`
@@ -206,7 +206,7 @@
 * known `TPHOEPB`
 * "Jack `KR-GS SKWRA*BG`
 * Dullard." `KPA/TKUL/ARD TP-PL KR-GS`
-* "Hallo!" `KR-GS xxx Hallo SKHRAPL KR-GS`
+* "Hallo!" `KR-GS HA*L/KWRO SKHRAPL KR-GS`
 * said `SAEUD`
 * Jack `SKWRA*BG`
 * Dullard, `KPA/TKUL/ARD KW-BG`
@@ -358,7 +358,7 @@
 * they; `THE STPH*FPLT`
 * laughed, `HRAFD KW-BG`
 * on. `OPB TP-PL`
-* "Hallo, `KR-GS xxx Hallo KW-BG`
+* "Hallo, `KR-GS HA*L/KWRO KW-BG`
 * here `HAOER`
 * again! `TKPWEPB SKHRAPL`
 * see `SAOE`
@@ -391,7 +391,7 @@
 * got `TKPWOT`
 * him; `HEUPL STPH*FPLT`
 * but— `PWUT EPL/TKA*RB`
-* "Hallo—hop `KR-GS xxx Hallo EPL/TKA*RB HOP`
+* "Hallo—hop `KR-GS HA*L/KWRO EPL/TKA*RB HOP`
 * rara!" `RA/RA SKHRAPL KR-GS`
 * there `THR`
 * Dullard `KPA/TKUL/ARD`

@@ -519,8 +519,8 @@
 * clergyman's `KHRERPBLG/PHAPB AES`
 * ear. `AOER TP-PL`
 * That `KPA/THA`
-* artless `xxx artless`
-* loveable `xxx loveable`
+* artless `ART/-LS`
+* loveable `HRUF/-BL`
 * wish; `WEURB STPH*FPLT`
 * being `-BG`
 * will `HR`

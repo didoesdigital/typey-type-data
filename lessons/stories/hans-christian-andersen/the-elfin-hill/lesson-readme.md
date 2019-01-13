@@ -33,7 +33,7 @@
 * rumbling `RUPL/-BLG`
 * there `THR`
 * is `S`
-* elfin `xxx elfin`
+* elfin `*EFL/*EUPB`
 * hill," `HEUL KW-BG KR-GS`
 * said `SAEUD`
 * lizards; `HREUZ/ARDZ STPH*FPLT`
@@ -225,7 +225,7 @@
 * We `KPA/WE`
 * some `SOPL`
 * people, `PAOEPL KW-BG`
-* conjurors, `xxx conjurors KW-BG`
+* conjurors, `KAUPB/SKWROR/-S KW-BG`
 * say; `SAEU STPH*FPLT`
 * king `KEUPBG`
 * wishes `WEURBS`
@@ -265,7 +265,7 @@
 * king, `KEUPBG KW-BG`
 * thought `THAUT`
 * ghosts. `TKPWOEFT/-S TP-PL`
-* merman `xxx merman`
+* merman `PHER/PHA*PB`
 * his `HEUS`
 * daughter `TKAUR`
 * first, `TPEUFRT KW-BG`
@@ -914,7 +914,7 @@
 * sing `SEUPBG`
 * songs `SOPBGS`
 * mountain `PHOUPB/TAEUPB`
-* shepherdesses. `xxx shepherdesses TP-PL`
+* shepherdesses. `SHEP/ERD/*ES/-S TP-PL`
 * How `KPA/HOU`
 * merry `PHER/REU`
 * be! `-B SKHRAPL`

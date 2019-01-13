@@ -205,7 +205,7 @@
 * seen `SAOEPB`
 * durable `TKURBL`
 * characters `KRARS`
-* engraven `xxx engraven`
+* engraven `EPB/TKPWRAEUFPB`
 * rocks, `ROBGS KW-BG`
 * walls `WAULS`
 * temples `TA*EPLS`
@@ -576,7 +576,7 @@
 * dragged `TKRAGD`
 * themselves, `TH*EPLS KW-BG`
 * lie `HRAOEU`
-* untended `xxx untended`
+* untended `UPB/TEPBD/-D`
 * hours, `HOURS KW-BG`
 * hours `HOURS`
 * live. `HREUF TP-PL`
@@ -662,7 +662,7 @@
 * it!" `T SKHRAPL KR-GS`
 * Lord's `HRO*RD AES`
 * Prayer `KPA/PRAEUR`
-* inaudibly `xxx inaudibly`
+* inaudibly `EUPB/AUD/PWHREU`
 * lips; `HREUPS STPH*FPLT`
 * bowed `PWOE/-D`
 * head, `HED KW-BG`
@@ -762,7 +762,7 @@
 * What `KPA/WHA`
 * then!—Ask `THEPB SKHRAPL EPL/TKA*RB KPA/SK`
 * musician. `PHAOUGS TP-PL`
-* outgrowing `xxx outgrowing`
+* outgrowing `AO*UT/TKPWROEG`
 * drum," `TKRUPL KW-BG KR-GS`
 * "Peter `KR-GS PAOERT`
 * greater `TKPWRAERT`

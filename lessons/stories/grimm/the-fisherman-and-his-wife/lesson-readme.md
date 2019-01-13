@@ -360,7 +360,7 @@
 * 'Get `AE KPA/TKPW-T`
 * up, `UP KW-BG`
 * husband, `HUS KW-BG`
-* bestir `xxx bestir`
+* bestir `PWE/STEUR`
 * yourself, `KWRO*URS KW-BG`
 * must `PHUFT`
 * king `KEUPBG`
@@ -393,7 +393,7 @@
 * dark `TKARBG`
 * grey `TKPWRA*EU`
 * colour, `KHROUR KW-BG`
-* overspread `xxx overspread`
+* overspread `AUFR/SPRED`
 * curling `KURLG`
 * ridges `REUPBLGS`
 * foam `TPOEPL`

@@ -479,7 +479,7 @@
 * became `PWAEUPL`
 * kitchen-maid, `K-FP H-PB PHAEUD KW-BG`
 * helped `HEPD`
-* dirtiest `xxx dirtiest`
+* dirtiest `TKEURT/KWREFT`
 * work; `WORBG STPH*FPLT`
 * allowed `HRO*UD`
 * carry `KAER`
@@ -558,7 +558,7 @@
 * loved `HROFD`
 * you. `U TP-PL`
 * also `HR-S`
-* overset `xxx overset`
+* overset `AUFR/SET`
 * stall. `STAUL TP-PL`
 * done `TKOPB`
 * cure `KAOUR`

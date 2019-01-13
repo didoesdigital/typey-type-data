@@ -277,7 +277,7 @@
 * brother `PWROER`
 * standing `STAPBG`
 * window `WOEUPBD`
-* merrymaking `xxx merrymaking`
+* merrymaking `PHER/REU/PHA*EUBG/-G`
 * was, `WAS KW-BG`
 * in; `TPH STPH*FPLT`
 * could `KO`
@@ -445,7 +445,7 @@
 * quietly, `KWAO*EULT KW-BG`
 * sure `SHUR`
 * old `OLD`
-* leathern `xxx leathern`
+* leathern `HRE/THER/*PB`
 * saddle `SA*LD`
 * down `TKOUPB`
 * All `KPA/AUL`
@@ -707,7 +707,7 @@
 * doors `TKAORS`
 * weeping. `WAOEP/-G TP-PL`
 * brothers' `PWROERS AE`
-* roguery; `xxx roguery STPH*FPLT`
+* roguery; `ROEG/REU STPH*FPLT`
 * seized `SAOEZ/-D`
 * punished, `PUPBD KW-BG`
 * again; `TKPWEPB STPH*FPLT`
@@ -718,7 +718,7 @@
 * after, `AF KW-BG`
 * walk `WAUBG`
 * day `TKAEU`
-* besought `xxx besought`
+* besought `PWE/SAUT`
 * eyes `AO*EUS`
 * feet. `TPAOET TP-PL`
 * so, `SO KW-BG`

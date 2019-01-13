@@ -244,7 +244,7 @@
 * eyes, `AO*EUS KW-BG`
 * smiles `SPHAOEULS`
 * me `PHE`
-* childlike `xxx childlike`
+* childlike `KHAOEULD/HRA*EBG`
 * affection." `A*FBGS TP-PL KR-GS`
 * "This `KR-GS KPA/TH`
 * rose," `ROEZ KW-BG KR-GS`
@@ -364,7 +364,7 @@
 * "Greater `KR-GS KPA/TKPWRAERT`
 * hath `HA*T`
 * this," `TH KW-BG KR-GS`
-* roseate `xxx roseate`
+* roseate `ROEZ/A*T`
 * hue `HAOU`
 * spread `SPRED`
 * became `PWAEUPL`

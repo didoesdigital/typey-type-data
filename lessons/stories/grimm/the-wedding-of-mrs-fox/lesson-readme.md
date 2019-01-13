@@ -235,7 +235,7 @@
 * But `KPA/PWUT`
 * wedding `WEGD`
 * going `TKPW-G`
-* solemnized, `xxx solemnized KW-BG`
+* solemnized, `SHREPL/AO*EUFD KW-BG`
 * stirred `STEURD`
 * cudgelled `KUPBLG/-D`
 * rabble, `RABL KW-BG`
@@ -376,7 +376,7 @@
 * ate `AEUT`
 * every `EF`
 * caught.' `KAUT TP-PL AE`
-* solemnized `xxx solemnized`
+* solemnized `SHREPL/AO*EUFD`
 * much `PHUFP`
 * rejoicing `RE/SKWROEUFG`
 * dancing; `TKAPBS/-G STPH*FPLT`

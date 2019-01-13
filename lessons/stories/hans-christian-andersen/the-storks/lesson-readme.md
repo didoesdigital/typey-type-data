@@ -324,7 +324,7 @@
 * imagine; `PHAPBLG STPH*FPLT`
 * country, `KREU KW-BG`
 * river `REUFR`
-* overflows `xxx overflows`
+* overflows `AUFR/TPHROES`
 * its `EUTS`
 * banks, `PWA*PBGS KW-BG`
 * goes `TKPW-S`

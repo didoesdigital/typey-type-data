@@ -49,7 +49,7 @@
 * young `KWRUPBG`
 * fellow `TPO*EUL`
 * quite `KWAOEUT`
-* comfortless `xxx comfortless`
+* comfortless `K-FRT/-LS`
 * at `AT`
 * having `SR-G`
 * so `SO`
@@ -464,7 +464,7 @@
 * year." `KWRAOER TP-PL KR-GS`
 * Master `KPA/PHAFRT`
 * met `PHET`
-* reapers, `xxx reapers KW-BG`
+* reapers, `RAOEP/*ERS KW-BG`
 * reaping, `RAOEPG KW-BG`
 * corn `KORPB`
 * moment `PHOEPLT`
@@ -474,7 +474,7 @@
 * saw, `SAU KW-BG`
 * belong. `PWHROPBG TP-PL`
 * replied `RE/PHRAOEUD`
-* reapers; `xxx reapers STPH*FPLT`
+* reapers; `RAOEP/*ERS STPH*FPLT`
 * again `TKPWEPB`
 * congratulated `TKPWRAT/HRAEUT/-D`
 * Marquis. `PHAR/KWEUS TP-PL`

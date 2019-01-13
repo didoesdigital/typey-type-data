@@ -324,7 +324,7 @@
 * some `SOPL`
 * sweet `SWAOET`
 * syrup, `SURP KW-BG`
-* spoonful `xxx spoonful`
+* spoonful `SPAOPB/-FL`
 * honey; `HUPB/KWREU STPH*FPLT`
 * guess `TKPWES`
 * queen `KWAOEPB`

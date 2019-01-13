@@ -465,7 +465,7 @@
 * earth, `*ERT KW-BG`
 * conscious `K-RBS`
 * pain `PAEUPB`
-* faintness, `xxx faintness KW-BG`
+* faintness, `TPAEUPBT/-PBS KW-BG`
 * forgetting `TPERGT/-G`
 * anticipations `SPAEUGS/-S`
 * happiness, `HAEP/-PBS KW-BG`
@@ -531,7 +531,7 @@
 * tub, `TUB KW-BG`
 * sand; `SAPBD STPH*FPLT`
 * green `TKPWRAOEPB`
-* baize `xxx baize`
+* baize `PWA/AOEUZ`
 * it, `T KW-BG`
 * handsome `HAPBD/SOPL`
 * carpet. `KARPT TP-PL`

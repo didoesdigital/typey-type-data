@@ -289,7 +289,7 @@
 * last `HRAFT`
 * let `HRET`
 * come `KOPL`
-* bespoke `xxx bespoke`
+* bespoke `PWE/SPOEBG`
 * handsome `HAPBD/SOPL`
 * supper, `SAOURP KW-BG`
 * spent `SPEPBT`
@@ -404,7 +404,7 @@
 * reckoning, `REBG/-PBG KW-BG`
 * nothing `TPHOG`
 * trouble `TRUBL`
-* apish `xxx apish`
+* apish `A*EP/EURB`
 * tricks. `TREUBGS TP-PL`
 * 2. `#T- TP-PL`
 * CHANTICLEER `xxx CHANTICLEER`

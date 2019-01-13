@@ -74,7 +74,7 @@
 * bring `PWREU`
 * up `UP`
 * your `KWROUR`
-* Lina.' `xxx Lina TP-PL AE`
+* Lina.' `HR*EUPB/KWRA TP-PL AE`
 * took `TAOBG`
 * home, `HOEPL KW-BG`
 * therefore, `TH-FR KW-BG`
@@ -92,7 +92,7 @@
 * carried `KAERD`
 * away. `A/WAEU TP-PL`
 * Fundevogel `xxx Fundevogel`
-* Lina `xxx Lina`
+* Lina `HR*EUPB/KWRA`
 * loved `HROFD`
 * each `AOEFP`
 * other `OER`
@@ -175,7 +175,7 @@
 * now, `TPHOU KW-BG`
 * nor `TPH-R`
 * ever `-FR`
-* Lina: `xxx Lina STPH-FPLT`
+* Lina: `HR*EUPB/KWRA STPH-FPLT`
 * 'Then `AE KPA/THEPB`
 * you. `U TP-PL`
 * Last `KPA/HRAFT`

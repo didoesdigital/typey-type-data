@@ -145,7 +145,7 @@ Something
 'have': SR
 'my': PHEU
 'own': OEPB
-'journeymen,': xxx journeymen KW-BG
+'journeymen,': SKWRURPB/PH*EPB KW-BG
 'and': SKP
 'my': PHEU
 'wife': WAOEUF
@@ -277,7 +277,7 @@ Something
 'spirits': SPEURTS
 'for': TPOR
 'the': -T
-'journeymen,': xxx journeymen KW-BG
+'journeymen,': SKWRURPB/PH*EPB KW-BG
 'and': SKP
 'they': THE
 'will': HR
@@ -1202,7 +1202,7 @@ Something
 'it,': T KW-BG
 'and': SKP
 'the': -T
-'journeymen': xxx journeymen
+'journeymen': SKWRURPB/PH*EPB
 'and': SKP
 'apprentices': A/PREPB/TEUS/-S
 'shouted': SHOUT/-D

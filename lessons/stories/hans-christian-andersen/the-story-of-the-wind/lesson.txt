@@ -48,7 +48,7 @@ The Story of the Wind
 'the': -T
 'castle': KAFL
 'of': -F
-'Marck': xxx Marck
+'Marck': PHA*RBG/*BG
 'Stig': xxx Stig
 'on': OPB
 'the': -T
@@ -78,7 +78,7 @@ The Story of the Wind
 'on': OPB
 'another': TPHOER
 'spot—the': SPOT EPL/TKA*RB -T
-'baronial': xxx baronial
+'baronial': PWAR/ROPB/KWRAL
 'residence': R*EPBS
 'of': -F
 'Borreby,': xxx Borreby KW-BG
@@ -578,7 +578,7 @@ The Story of the Wind
 'of': -F
 'the': -T
 'rich': REUFP
-'baronial': xxx baronial
+'baronial': PWAR/ROPB/KWRAL
 'house.': HOUS TP-PL
 'Then': KPA/THEPB
 'the': -T
@@ -750,7 +750,7 @@ The Story of the Wind
 'and': SKP
 'thoughtful.': THAUFL TP-PL
 ''The': AE KPA/-T
-'loftiest': xxx loftiest
+'loftiest': HRO*FT/KWREFT
 'tree': TRAOE
 'may': PHAE
 'be': -B
@@ -1828,7 +1828,7 @@ The Story of the Wind
 'look,': HRAOBG KW-BG
 'but': PWUT
 'a': AEU
-'childlike': xxx childlike
+'childlike': KHAOEULD/HRA*EBG
 'smile': SPHAOEUL
 'still': STEUL
 'played': PHRAEUD
@@ -2476,7 +2476,7 @@ The Story of the Wind
 'keen': KAOEPB
 'and': SKP
 'cutting': KUGT
-'swiftness.': xxx swiftness TP-PL
+'swiftness.': SWEUFT/-PBS TP-PL
 'The': KPA/-T
 'three': THRAOE
 'high-born': HAOEU H-PB PWORPB
@@ -2496,7 +2496,7 @@ The Story of the Wind
 'beneath': TPHAO*ET
 'his': HEUS
 'leather': HRE/THER
-'coverlet.': xxx coverlet TP-PL
+'coverlet.': KOFR/HR*ET TP-PL
 'Nothing': KPA/TPHOG
 'to': TO
 'eat,': AOET KW-BG
@@ -2949,7 +2949,7 @@ The Story of the Wind
 'berries': PWER/KWREUS
 'and': SKP
 'the': -T
-'leafless': xxx leafless
+'leafless': HRAOEF/-LS
 'branches,': PWRAFRPBS KW-BG
 'I': EU
 'came': KAEUPL
@@ -3369,7 +3369,7 @@ The Story of the Wind
 'the': -T
 'castle': KAFL
 'of': -F
-'Marck': xxx Marck
+'Marck': PHA*RBG/*BG
 'Stig,': xxx Stig KW-BG
 'and': SKP
 'perhaps': PRAPS
@@ -3463,7 +3463,7 @@ The Story of the Wind
 'cupboards.': KUP/PWORDZ TP-PL
 'Crows': xxx Crows
 'and': SKP
-'magpies': xxx magpies
+'magpies': PHAG/PAOEU/*S
 'fluttered': TPHRUT/ERD
 'about': PW
 'them,': THEPL KW-BG
@@ -3547,7 +3547,7 @@ The Story of the Wind
 'bare': PWAEUR
 'bushes': PWURBS
 'and': SKP
-'leafless': xxx leafless
+'leafless': HRAOEF/-LS
 'forests,': TPOEFRT/-S KW-BG
 'to': TO
 'the': -T
@@ -3699,7 +3699,7 @@ The Story of the Wind
 'upon': POPB
 'an': APB
 'old': OLD
-'tumbledown': xxx tumbledown
+'tumbledown': TUPL/-BL/SKWROUPB
 'hut.': HUT TP-PL
 'The': KPA/-T
 'roof,': RAOF KW-BG

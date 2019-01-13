@@ -772,7 +772,7 @@
 * therefore `TH-FR`
 * aloud `A/HROUD`
 * joy. `SKWROEU TP-PL`
-* dismounted `xxx dismounted`
+* dismounted `TKEUS/PHOUPBTD`
 * arms; `ARPLS STPH*FPLT`
 * kissed `K*EUFD`
 * 'Now `AE KPA/TPHOU`

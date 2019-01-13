@@ -421,7 +421,7 @@
 * It `KPA/T`
 * not, `TPHOT KW-BG`
 * vexed `SREBGS/-D`
-* teized `xxx teized`
+* teized `T*/*E/AO*EUFD`
 * him, `HEUPL KW-BG`
 * humour `HAOURPL/A*U`
 * great `TKPWRAET`
@@ -509,7 +509,7 @@
 * difficulty `TKOEUFLT`
 * former; `TPORPL/*ER STPH*FPLT`
 * though `THOE`
-* betimes `xxx betimes`
+* betimes `PWE/TAOEUPLS`
 * pick `PEUBG`
 * some `SOPL`
 * disappointed; `TKEUS/POEUPBTD STPH*FPLT`

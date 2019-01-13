@@ -187,7 +187,7 @@
 * "And `KR-GS AFPBD`
 * Christina?" `KREUS/TEU/TPHA H-F KR-GS`
 * She `KPA/SHE`
-* boatman's `xxx boatman AES`
+* boatman's `PWOET/PHA*PB AES`
 * daughter, `TKAUR KW-BG`
 * graceful `TKPWRAEUS/-FL`
 * delicate `TKEL/KAT`
@@ -298,7 +298,7 @@
 * evening `AOEPBG`
 * before, `PW-F KW-BG`
 * accompanied `A/K-PD`
-* boatman `xxx boatman`
+* boatman `PWOET/PHA*PB`
 * house. `HOUS TP-PL`
 * The `KPA/-T`
 * next `TPHEGT`
@@ -338,7 +338,7 @@
 * out, `OUT KW-BG`
 * although `HR*T`
 * trees `TRAOES`
-* overhung `xxx overhung`
+* overhung `AUFR/HUPBG`
 * water `WAUR`
 * oaks `OEBG/-S`
 * stretched `STREFPD`
@@ -879,7 +879,7 @@
 * mother, `PHOER KW-BG`
 * become `PW-BG`
 * clever `KHREFR`
-* shoemaker, `xxx shoemaker KW-BG`
+* shoemaker, `SHAOU/PHA*EURBG KW-BG`
 * summer `SAOURPL`
 * managed `PHAPBGD`
 * alone. `A/HROEPB TP-PL`
@@ -1005,7 +1005,7 @@
 * arrived, `A/REUFD KW-BG`
 * his, `HEUS KW-BG`
 * go. `TKPW TP-PL`
-* brightened, `xxx brightened KW-BG`
+* brightened, `PWRAOEUT/*EPB/-D KW-BG`
 * words `WORDZ`
 * uttered `UT/ERD`
 * hesitation `HES/TAEUGS`
@@ -1081,7 +1081,7 @@
 * refuse `REF/AOUS`
 * fortune, `TP-RPB KW-BG`
 * added `AD/-D`
-* boatman. `xxx boatman TP-PL`
+* boatman. `PWOET/PHA*PB TP-PL`
 * word, `WORD KW-BG`
 * white `WHAOEUT`
 * wall, `WAUL KW-BG`
@@ -1238,7 +1238,7 @@
 * brightly `PWRAOEULT`
 * furrow. `TPUR/ROE TP-PL`
 * searched, `SEFRPBD KW-BG`
-* armlet `xxx armlet`
+* armlet `ARPL/HR*ET`
 * superior `SPOEUR`
 * workmanship, `WORBG/PHEPB/SH-P KW-BG`
 * evident `AEFT`
@@ -1470,7 +1470,7 @@
 * sunlight, `SULGT KW-BG`
 * sunny `SAOUPB`
 * child; `KHAOEULD STPH*FPLT`
-* birdlike `xxx birdlike`
+* birdlike `PWEURD/HRA*EBG`
 * tones `TOEPBS`
 * rosy `ROEZ/SEU`
 * lips `HREUPS`

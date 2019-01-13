@@ -376,7 +376,7 @@
 * leave `HREF`
 * behind `HEUPBD`
 * home `HOEPL`
-* overflowing `xxx overflowing`
+* overflowing `AUFR/TPHROEG`
 * rage `RAEUPBLG`
 * vexation. `SREBGS/AEUGS TP-PL`
 * 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`

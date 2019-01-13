@@ -179,7 +179,7 @@
 * which `WEU`
 * rest, `REFT KW-BG`
 * into `TPHAO`
-* fathomless `xxx fathomless`
+* fathomless `TPA/THOPL/-LS`
 * depths `TK*EPTS`
 * despair. `TKE/SPAEUR TP-PL`
 * In `KPA/TPH`
@@ -342,7 +342,7 @@
 * prayed, `PRAEUD KW-BG`
 * soon `SAOPB`
 * himself `H*EUPLS`
-* healthful `xxx healthful`
+* healthful `H*ELT/-FL`
 * therefore `TH-FR`
 * wife `WAOEUF`
 * arose, `A/ROES KW-BG`
@@ -725,7 +725,7 @@
 * be; `-B STPH*FPLT`
 * faith: `TPA*EUT STPH-FPLT`
 * "Whatever `KR-GS KPA/WHAF`
-* doeth `xxx doeth`
+* doeth `TKO/*ET`
 * right `RAOEUT`
 * best." `PWEFT TP-PL KR-GS`
 * asked, `SK-D KW-BG`

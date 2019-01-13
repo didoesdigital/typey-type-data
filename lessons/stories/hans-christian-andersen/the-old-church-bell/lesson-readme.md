@@ -167,7 +167,7 @@
 * hearts `HARTS`
 * humble `UPL/-BL`
 * dwelling `TKWELG`
-* thankfulness `xxx thankfulness`
+* thankfulness `THAPB/K-FL/-PBS`
 * trust; `TRUFT STPH*FPLT`
 * when, `WHEPB KW-BG`
 * amidst `A/PHEUTDZ`
@@ -179,7 +179,7 @@
 * prayer `PRAEUR`
 * praise `PRAEUS`
 * arose `A/ROES`
-* overflowing `xxx overflowing`
+* overflowing `AUFR/TPHROEG`
 * hearts, `HARTS KW-BG`
 * happiness `HAEP/-PBS`
 * seemed `SAOEPLD`
@@ -324,7 +324,7 @@
 * house, `HOUS KW-BG`
 * pointed `POEUPBTD`
 * gable, `TKPWAEUBL KW-BG`
-* overhanging `xxx overhanging`
+* overhanging `AUFR/HAPBG/-G`
 * walls `WAULS`
 * stories, `STOERS KW-BG`
 * projecting `PROPBLG/-G`
@@ -760,7 +760,7 @@
 * mould, `PHOULD KW-BG`
 * formed `TPORPLD`
 * statue `STOEUT`
-* unveiled `xxx unveiled`
+* unveiled `UPB/SRAEULD`
 * square `SKWAEUR`
 * front `TPROPBT`
 * castle. `KAFL TP-PL`

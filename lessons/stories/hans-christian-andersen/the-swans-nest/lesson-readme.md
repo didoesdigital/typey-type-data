@@ -95,7 +95,7 @@
 * wild `WAOEULD`
 * Northmen." `xxx Northmen TP-PL KR-GS`
 * fresh `TPRERB`
-* sward `xxx sward`
+* sward `S*/WA*RD`
 * England `TKPWHRAEPBD`
 * stood `STAOD`
 * Danish `TKAEUPB/EURB`

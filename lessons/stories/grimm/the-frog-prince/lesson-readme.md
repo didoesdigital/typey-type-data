@@ -89,7 +89,7 @@
 * it. `T TP-PL`
 * Then `KPA/THEPB`
 * began `TKPWAPB`
-* bewail `xxx bewail`
+* bewail `PWE/WAEUL`
 * loss, `HROS KW-BG`
 * said, `SAEUD KW-BG`
 * 'Alas! `AE KPA/A/HRAS SKHRAPL`
@@ -416,7 +416,7 @@
 * servant, `SEFRB/APBT KW-BG`
 * faithful `TPA*EUT/-FL`
 * Heinrich, `xxx Heinrich KW-BG`
-* bewailed `xxx bewailed`
+* bewailed `PWE/WAEUL/-D`
 * misfortunes `PHEUS/TPOR/TAOUPB/-S`
 * dear `TKAER`
 * master `PHAFRT`

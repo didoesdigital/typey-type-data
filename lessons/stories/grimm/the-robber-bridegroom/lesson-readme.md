@@ -290,7 +290,7 @@
 * eat `AOET`
 * you, `U KW-BG`
 * are `R`
-* eaters `xxx eaters`
+* eaters `AOET/*ERS`
 * men. `PHEPB TP-PL`
 * If `KPA/TP`
 * pity `PEUT/TEU`
@@ -324,7 +324,7 @@
 * words `WORDZ`
 * hardly `HA*RLD`
 * mouth `PHO*UT`
-* godless `xxx godless`
+* godless `TKPWOD/-LS`
 * crew `KRAOU`
 * returned, `RURPBD KW-BG`
 * dragging `TKRAG/-G`

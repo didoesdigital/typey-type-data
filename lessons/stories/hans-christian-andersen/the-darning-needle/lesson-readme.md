@@ -458,7 +458,7 @@
 * work, `WORBG KW-BG`
 * great `TKPWRAET`
 * pleasure `PHRERB`
-* "Hallo!" `KR-GS xxx Hallo SKHRAPL KR-GS`
+* "Hallo!" `KR-GS HA*L/KWRO SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * one, `WUPB KW-BG`
 * pricked `PREUBGD`

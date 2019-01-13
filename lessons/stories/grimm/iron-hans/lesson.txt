@@ -29,7 +29,7 @@ Iron Hans
 'sent': SEPBT
 'out': OUT
 'a': AEU
-'huntsman': xxx huntsman
+'huntsman': HUPBTS/PHA*PB
 'to': TO
 'shoot': SHAOT
 'him': HEUPL
@@ -158,7 +158,7 @@ Iron Hans
 'when': WHEPB
 'an': APB
 'unknown': UPB/TPHOEPB
-'huntsman': xxx huntsman
+'huntsman': HUPBTS/PHA*PB
 'announced': A/TPHOUPBS/-D
 'himself': H*EUPLS
 'to': TO
@@ -213,7 +213,7 @@ Iron Hans
 'out': OUT
 'again.'': TKPWEPB TP-PL AE
 'The': KPA/-T
-'huntsman': xxx huntsman
+'huntsman': HUPBTS/PHA*PB
 'replied:': RE/PHRAOEUD STPH-FPLT
 ''Lord,': AE HRO*RD KW-BG
 'I': EU
@@ -230,9 +230,9 @@ Iron Hans
 'know': TPHOE
 'nothing.'': TPHOG TP-PL AE
 'The': KPA/-T
-'huntsman': xxx huntsman
+'huntsman': HUPBTS/PHA*PB
 'therefore': TH-FR
-'betook': xxx betook
+'betook': PWE/TAOBG
 'himself': H*EUPLS
 'with': W
 'his': HEUS
@@ -297,7 +297,7 @@ Iron Hans
 'under.': TPH-PB TP-PL
 'When': KPA/WHEPB
 'the': -T
-'huntsman': xxx huntsman
+'huntsman': HUPBTS/PHA*PB
 'saw': SAU
 'that,': THA KW-BG
 'he': HE
@@ -1358,7 +1358,7 @@ Iron Hans
 'by': PWEU
 'beaten': PWAOET/EPB
 'and': SKP
-'unbeaten': xxx unbeaten
+'unbeaten': UPB/PWAOET/*EPB
 'paths': PA*TS
 'ever': -FR
 'onwards': OPB/WARDZ
@@ -1974,7 +1974,7 @@ Iron Hans
 'the': -T
 'country': KREU
 'was': WAS
-'overrun': xxx overrun
+'overrun': AUFR/RUPB
 'by': PWEU
 'war.': WAR TP-PL
 'The': KPA/-T
@@ -2302,7 +2302,7 @@ Iron Hans
 'his': HEUS
 'troop': TRAOP
 'by': PWEU
-'byways': xxx byways
+'byways': PWEU/WA*ES
 'back': PWABG
 'to': TO
 'the': -T

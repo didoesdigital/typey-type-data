@@ -5,7 +5,7 @@
 * grass-covered `TKPWRAS H-PB KOFRD`
 * rampart `RAFRP/ART`
 * which `WEU`
-* encircles `xxx encircles`
+* encircles `EPB/SOEURBGS`
 * Copenhagen `KOEP/*EPB/HAG`
 * lies `HRAO*EUS`
 * a `AEU`
@@ -39,7 +39,7 @@
 * it. `T TP-PL`
 * The `KPA/-T`
 * building `PW-LG`
-* Warton `xxx Warton`
+* Warton `WA*R/TO*PB`
 * Almshouse. `KPA/AUPLS/HOUS TP-PL`
 * Look! `KPA/HRAOBG SKHRAPL`
 * at `AT`
@@ -67,7 +67,7 @@
 * whole `WHOEL`
 * life `HRAOEUF`
 * drama `TKRA/PHA`
-* unfolding `xxx unfolding`
+* unfolding `UPB/TPOELGD`
 * itself `T/SEF`
 * before `PW-F`
 * her `HER`
@@ -344,7 +344,7 @@
 * chamber `KHAEURPL`
 * black `PWHRABG`
 * coffin, `KOFPB KW-BG`
-* becomest `xxx becomest`
+* becomest `PWE/KRO*PL/EFT`
 * From `KPA/TPR`
 * almshouse `AUPLS/HOUS`
 * window, `WOEUPBD KW-BG`
@@ -366,7 +366,7 @@
 * sunny `SAOUPB`
 * their `THAEUR`
 * bare `PWAEUR`
-* shoeless `xxx shoeless`
+* shoeless `SHAOU/-LS`
 * feet, `TPAOET KW-BG`
 * rejoicing `RE/SKWROEUFG`
 * merrily, `PHER/HREU KW-BG`

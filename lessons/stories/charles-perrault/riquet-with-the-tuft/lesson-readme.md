@@ -41,7 +41,7 @@
 * that, `THA KW-BG`
 * since `SEUPBS`
 * should `SHO`
-* indowed `xxx indowed`
+* indowed `EUPB/TK*/O*/W*/-D`
 * with `W`
 * abundance `PWUPB/TKAPBS`
 * wit. `WEUT TP-PL`
@@ -318,7 +318,7 @@
 * crowding `KROUD/-G`
 * about `PW`
 * tho' `THO* AE`
-* unaccountably `xxx unaccountably`
+* unaccountably `UPB/K-T/PWHREU`
 * dull, `TKUL KW-BG`
 * notice `TPH-TS`
 * it, `T KW-BG`
@@ -335,7 +335,7 @@
 * day, `TKAEU KW-BG`
 * retired `RAO*EURD`
 * wood `WAOD`
-* bewail `xxx bewail`
+* bewail `PWE/WAEUL`
 * misfortune, `PHEUS/TPOR/TAOUPB KW-BG`
 * saw, `SAU KW-BG`
 * coming `KO*G`
@@ -520,7 +520,7 @@
 * infinitely `EUPB/TPEUPBT/HREU`
 * witty `WEUT/TEU`
 * silly `SEUL/HREU`
-* impertinences `xxx impertinences`
+* impertinences `*EUPL/PERT/TPHEPBS/-S`
 * before. `PW-F TP-PL`
 * overjoyed `AUFR/SKWROEUD`
 * imagination; `PHAPBL/TPHAEUGS STPH*FPLT`

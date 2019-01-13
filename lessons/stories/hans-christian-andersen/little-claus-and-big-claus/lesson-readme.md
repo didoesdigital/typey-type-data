@@ -473,11 +473,11 @@
 * louder `HROURD`
 * than `THAPB`
 * before. `PW-F TP-PL`
-* "Hallo! `KR-GS xxx Hallo SKHRAPL`
+* "Hallo! `KR-GS HA*L/KWRO SKHRAPL`
 * got `TKPWOT`
 * sack!" `SABG SKHRAPL KR-GS`
 * farmer. `TPAR/PHER TP-PL`
-* conjuror," `xxx conjuror KW-BG KR-GS`
+* conjuror," `KAUPB/SKWROR KW-BG KR-GS`
 * "and `KR-GS SKP`
 * says `SEZ`
 * need `TPHAOED`
@@ -522,7 +522,7 @@
 * merry. `PHER/REU TP-PL`
 * liked `HRAOEUBGD`
 * such `SUFP`
-* conjuror `xxx conjuror`
+* conjuror `KAUPB/SKWROR`
 * carried `KAERD`
 * sack. `SABG TP-PL`
 * "Could `KR-GS KPA/KO`
@@ -621,7 +621,7 @@
 * "only `KR-GS OEPBL`
 * think `THEU`
 * profit `PROFT`
-* conjuror." `xxx conjuror TP-PL KR-GS`
+* conjuror." `KAUPB/SKWROR TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * him," `HEUPL KW-BG KR-GS`
 * fanner, `xxx fanner KW-BG`
@@ -782,7 +782,7 @@
 * cried, `KRAOEUD KW-BG`
 * streets. `STRAOETS TP-PL`
 * All `KPA/AUL`
-* shoemakers `xxx shoemakers`
+* shoemakers `SHAOU/PHA*EURBG/-S`
 * tanners `TAPB/ERS`
 * running, `R*UPBG KW-BG`
 * wanted `WAPBTD`
@@ -899,7 +899,7 @@
 * pepper `PAOERP`
 * snuff. `STPHUF TP-PL`
 * morning," `PHORPBG KW-BG KR-GS`
-* betimes `xxx betimes`
+* betimes `PWE/TAOEUPLS`
 * to-day." `TO H-PB TKAEU TP-PL KR-GS`
 * "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * grandmother; `TKPWR-PL STPH*FPLT`
@@ -938,7 +938,7 @@
 * backwards `PWABG/WARDZ`
 * cart, `KART KW-BG`
 * tied `TAO*EUD`
-* "Hallo!" `KR-GS xxx Hallo SKHRAPL KR-GS`
+* "Hallo!" `KR-GS HA*L/KWRO SKHRAPL KR-GS`
 * rushing `RURBG`
 * door, `TKAOR KW-BG`
 * throat; `THROET STPH*FPLT`

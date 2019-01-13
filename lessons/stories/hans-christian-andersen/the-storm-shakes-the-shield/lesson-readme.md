@@ -74,7 +74,7 @@
 * sight `SAOEUT`
 * behold, `PWE/HOLD KW-BG`
 * those `THOZ`
-* shoemaker `xxx shoemaker`
+* shoemaker `SHAOU/PHA*EURBG`
 * brought `PWRAUT`
 * over `OEFR`
 * shield, `SHAOELD KW-BG`
@@ -425,7 +425,7 @@
 * trustworthy. `TRUFT/WO*ERT TP-PL`
 * night `TPHAOEUT`
 * after `AF`
-* signalized `xxx signalized`
+* signalized `STPHAL/AO*EUFD`
 * terrible `TERBL`
 * gale `TKPWAEL`
 * ever `-FR`

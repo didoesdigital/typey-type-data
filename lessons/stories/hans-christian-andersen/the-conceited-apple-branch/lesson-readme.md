@@ -388,7 +388,7 @@
 * rolled `ROLD`
 * about, `PW KW-BG`
 * plucked `PHRUBGD`
-* childlike `xxx childlike`
+* childlike `KHAOEULD/HRA*EBG`
 * innocence. `TPHEPBS TP-PL`
 * elder `ELD/ER`
 * children `KHEURPB`
@@ -426,7 +426,7 @@
 * faded `TPAEUD/-D`
 * stem `STEPL`
 * grouped `TKPWRAOUPD`
-* feathery `xxx feathery`
+* feathery `TP*ET/KWREU`
 * coronal. `KROEPBL TP-PL`
 * These `KPA/THEZ`
 * loose, `HRAOS KW-BG`

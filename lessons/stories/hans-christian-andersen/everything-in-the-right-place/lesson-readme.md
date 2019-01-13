@@ -378,7 +378,7 @@
 * afterwards `A*FRDZ`
 * castle-gate `KAFL H-PB TKPWAET`
 * beggar, `PWEG/ER KW-BG`
-* baronial `xxx baronial`
+* baronial `PWAR/ROPB/KWRAL`
 * seat `SAOET`
 * bought `PWAUT`
 * rich `REUFP`
@@ -445,7 +445,7 @@
 * live `HREUF`
 * now: `TPHOU STPH-FPLT`
 * mother `PHOER`
-* superintended `xxx superintended`
+* superintended `SAOUP/SPWEPBD/-D`
 * household, `HOUS/HOLD KW-BG`
 * father `TPAER`
 * out-of-doors, `OUT H-PB -F H-PB TKAORS KW-BG`
@@ -530,7 +530,7 @@
 * ditches; `TKEUFPS STPH*FPLT`
 * here `HAOER`
 * magnificent `PHAFPBT`
-* overhanging `xxx overhanging`
+* overhanging `AUFR/HAPBG/-G`
 * branches—that `PWRAFRPBS EPL/TKA*RB THA`
 * Here `KPA/HAOER`
 * stood, `STAOD KW-BG`
@@ -820,7 +820,7 @@
 * conversation `K-FRGS`
 * turned `TURPBD`
 * naturally `TPHRARL`
-* noblemen `xxx noblemen`
+* noblemen `TPHOEBL/PH*EPB`
 * commoners; `KPHOPB/ERS STPH*FPLT`
 * manner `PHAERPB`
 * spoke `SPOEBG`
@@ -1061,7 +1061,7 @@
 * thither `TH*EURT`
 * come—but `KOPL EPL/TKA*RB PWUT`
 * smart `SPHART`
-* footmen `xxx footmen`
+* footmen `TPAOT/PH*EPB`
 * striding `STRAOEUD/-G`
 * stockings; `STOBG/-G/-S STPH*FPLT`
 * haughty `HAU/TEU`
@@ -1110,7 +1110,7 @@
 * find `TPEUPBD`
 * room `RAOPL`
 * behind `HEUPBD`
-* footmen. `xxx footmen TP-PL`
+* footmen. `TPAOT/PH*EPB TP-PL`
 * Two `KPA/TWO`
 * farmers `TPARPL/ERS`
 * days `TKAEUS`

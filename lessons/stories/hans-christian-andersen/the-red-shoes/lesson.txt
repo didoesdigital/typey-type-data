@@ -39,7 +39,7 @@ The Red Shoes
 'that': THA
 'her': HER
 'little': HREUL
-'instep': xxx instep
+'instep': EUPB/STEP
 'grew': TKPWRAOU
 'quite': KWAOEUT
 'red.': RED TP-PL
@@ -52,7 +52,7 @@ The Red Shoes
 'lived': HREUFD
 'an': APB
 'old': OLD
-'shoemaker's': xxx shoemaker AES
+'shoemaker's': SHAOU/PHA*EURBG AES
 'wife;': WAOEUF STPH*FPLT
 'she': SHE
 'sat': SAT
@@ -322,7 +322,7 @@ The Red Shoes
 'those': THOZ
 'which': WEU
 'the': -T
-'shoemaker's': xxx shoemaker AES
+'shoemaker's': SHAOU/PHA*EURBG AES
 'wife': WAOEUF
 'had': H
 'sewn': SWEPB
@@ -367,7 +367,7 @@ The Red Shoes
 'shoes.': SHAOUS TP-PL
 'The': KPA/-T
 'rich': REUFP
-'shoemaker': xxx shoemaker
+'shoemaker': SHAOU/PHA*EURBG
 'in': TPH
 'the': -T
 'town': TOUPB
@@ -442,7 +442,7 @@ The Red Shoes
 'were!': WR SKHRAPL
 'and': SKP
 'the': -T
-'shoemaker': xxx shoemaker
+'shoemaker': SHAOU/PHA*EURBG
 'said': SAEUD
 'that': THA
 'they': THE
@@ -1446,9 +1446,9 @@ The Red Shoes
 'along': HRAOPBG
 'highways': HAOEU/WAEUS
 'and': SKP
-'byways,': xxx byways KW-BG
+'byways,': PWEU/WA*ES KW-BG
 'and': SKP
-'unceasingly': xxx unceasingly
+'unceasingly': UPB/SAOES/TKPWHREU
 'she': SHE
 'had': H
 'to': TO
@@ -1766,7 +1766,7 @@ The Red Shoes
 'have': SR
 'suffered': SUFRD
 'and': SKP
-'striven': xxx striven
+'striven': STREUF/*PB
 'enough.': TPHUF TP-PL
 'I': EU
 'believe': PWHREF

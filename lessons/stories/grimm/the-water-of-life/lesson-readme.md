@@ -147,7 +147,7 @@
 * came `KAEUPL`
 * deep `TKAOEP`
 * valley, `SRAL/HREU KW-BG`
-* overhung `xxx overhung`
+* overhung `AUFR/HUPBG`
 * rocks `ROBGS`
 * woods; `WAODZ STPH*FPLT`
 * looked `HRAOBGD`
@@ -663,7 +663,7 @@
 * a-hunting `AEU H-PB HUPBT/-G`
 * alone `A/HROEPB`
 * wood `WAOD`
-* huntsman `xxx huntsman`
+* huntsman `HUPBTS/PHA*PB`
 * sorrowful `SOR/ROEFL`
 * matter `PHAERT`
 * you?' `U H-F AE`
@@ -676,7 +676,7 @@
 * angry, `APBG/REU KW-BG`
 * forgive `TPAURG`
 * 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
-* huntsman; `xxx huntsman STPH*FPLT`
+* huntsman; `HUPBTS/PHA*PB STPH*FPLT`
 * 'the `AE -T`
 * ordered `ORD/-D`
 * shoot `SHAOT`

@@ -190,7 +190,7 @@
 * lively `HRAOEUFL`
 * appearance. `PAOERPBS TP-PL`
 * Here `KPA/HAOER`
-* shoemakers, `xxx shoemakers KW-BG`
+* shoemakers, `SHAOU/PHA*EURBG/-S KW-BG`
 * tailors, `TAEUL/ORS KW-BG`
 * sorts `SORTS`
 * sitting. `SEUGT TP-PL`

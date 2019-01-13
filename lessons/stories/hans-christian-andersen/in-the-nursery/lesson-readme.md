@@ -317,7 +317,7 @@
 * Anna," `APB/TPHA KW-BG KR-GS`
 * Waistcoat's `KPA/WA*EUS/KOET AES`
 * speaking. `SPAOEG TP-PL`
-* laydown `xxx laydown`
+* laydown `HRAEU/SKWROUPB`
 * collar, `KHRAR KW-BG`
 * modest; `PHOD/EFT STPH*FPLT`
 * knows `TPHOEZ`

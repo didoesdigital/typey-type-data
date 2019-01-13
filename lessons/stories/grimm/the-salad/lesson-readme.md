@@ -4,7 +4,7 @@
 * a `AEU`
 * merry `PHER/REU`
 * young `KWRUPBG`
-* huntsman `xxx huntsman`
+* huntsman `HUPBTS/PHA*PB`
 * was `WAS`
 * once `WUPBS`
 * going `TKPW-G`
@@ -173,7 +173,7 @@
 * have `SR`
 * himself. `H*EUPLS TP-PL`
 * 'Well,' `AE KPA/WEL KW-BG AE`
-* huntsman, `xxx huntsman KW-BG`
+* huntsman, `HUPBTS/PHA*PB KW-BG`
 * 'this `AE TH`
 * wonderful; `WUFL STPH*FPLT`
 * happens `HABS`
@@ -421,7 +421,7 @@
 * alone `A/HROEPB`
 * wild `WAOEULD`
 * rock, `ROBG KW-BG`
-* roguery `xxx roguery`
+* roguery `ROEG/REU`
 * world!' `WORLD SKHRAPL AE`
 * grief `TKPWRAOEF`
 * fear, `TPAOER KW-BG`
@@ -640,7 +640,7 @@
 * washed `WARBD`
 * might `PHAOEUT`
 * paid `PAEUD`
-* roguery,' `xxx roguery KW-BG AE`
+* roguery,' `ROEG/REU KW-BG AE`
 * tied `TAO*EUD`
 * rope `ROEP`
 * mill `PHEUL`
@@ -699,7 +699,7 @@
 * knees `TPHAOEZ`
 * 'O `AE O*P`
 * dearest `TKAER/EFT`
-* huntsman! `xxx huntsman SKHRAPL`
+* huntsman! `HUPBTS/PHA*PB SKHRAPL`
 * forgive `TPAURG`
 * ill `EUL`
 * done `TKOPB`

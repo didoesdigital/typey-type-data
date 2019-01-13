@@ -15,7 +15,7 @@
 * about `PW`
 * him `HEUPL`
 * are `R`
-* Chinamen `xxx Chinamen`
+* Chinamen `KWHRAOEUPB/PH*EPB`
 * also. `HR-S TP-PL`
 * The `KPA/-T`
 * story `STOER`
@@ -437,7 +437,7 @@
 * lowing. `HROE/-G TP-PL`
 * "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
 * young `KWRUPBG`
-* courtier, `xxx courtier KW-BG`
+* courtier, `KORT/KWRA*U KW-BG`
 * "now `KR-GS TPHOU`
 * we `WE`
 * found `TPOUPBD`
@@ -459,7 +459,7 @@
 * croak `KROEBG`
 * marsh. `PHA*RB TP-PL`
 * "Beautiful," `KR-GS KPA/PWAOUFL KW-BG KR-GS`
-* courtier `xxx courtier`
+* courtier `KORT/KWRA*U`
 * again. `TKPWEPB TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * it, `T KW-BG`
@@ -630,7 +630,7 @@
 * fancy `TPAPB/SEU`
 * themselves `TH*EPLS`
 * nightingales. `TPHAOEUT/-G/TKPWAEL/-S TP-PL`
-* footmen `xxx footmen`
+* footmen `TPAOT/PH*EPB`
 * chambermaids `xxx chambermaids`
 * also `HR-S`
 * expressed `EBGS/PREFD`
@@ -1020,7 +1020,7 @@
 * drum! `TKRUPL SKHRAPL`
 * say." `SAEU TP-PL KR-GS`
 * on, `OPB KW-BG`
-* Chinaman `xxx Chinaman`
+* Chinaman `KWHRAOEUPB/PHA*PB`
 * said. `SAEUD TP-PL`
 * shouted `SHOUT/-D`
 * "You `KR-GS KPA/U`

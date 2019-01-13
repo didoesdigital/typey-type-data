@@ -283,7 +283,7 @@
 * between `TWAOEPB`
 * us.' `US TP-PL AE`
 * suspicions `SUS/PEUGS/-S`
-* roguery: `xxx roguery STPH-FPLT`
+* roguery: `ROEG/REU STPH-FPLT`
 * they `THE`
 * out `OUT`
 * together, `TOGT KW-BG`

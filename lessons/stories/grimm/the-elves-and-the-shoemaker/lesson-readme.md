@@ -4,7 +4,7 @@
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
-* shoemaker, `xxx shoemaker KW-BG`
+* shoemaker, `SHAOU/PHA*EURBG KW-BG`
 * who `WHO`
 * worked `WORBGD`
 * very `SRE`
@@ -141,7 +141,7 @@
 * might `PHAOEUT`
 * get `TKPWET`
 * begin `TKPWEUPB`
-* betimes `xxx betimes`
+* betimes `PWE/TAOEUPLS`
 * day; `TKAEU STPH*FPLT`
 * saved `SAFD`
 * trouble, `TRUBL KW-BG`
@@ -217,7 +217,7 @@
 * little `HREUL`
 * naked `TPHAEUBGD`
 * dwarfs; `TKWAR/-FS STPH*FPLT`
-* shoemaker's `xxx shoemaker AES`
+* shoemaker's `SHAOU/PHA*EURBG AES`
 * bench, `PWEFRPB KW-BG`
 * took `TAOBG`
 * began `TKPWAPB`
@@ -229,7 +229,7 @@
 * tapping `TAPG`
 * away `A/WAEU`
 * rate, `RAEUT KW-BG`
-* shoemaker `xxx shoemaker`
+* shoemaker `SHAOU/PHA*EURBG`
 * take `TAEUBG`
 * eyes `AO*EUS`
 * them. `THEPL TP-PL`
@@ -247,7 +247,7 @@
 * bustled `PWUS/-LD`
 * quick `KWEUBG`
 * lightning. `HRAOEUT/TPHEUPBG TP-PL`
-* shoemaker. `xxx shoemaker TP-PL`
+* shoemaker. `SHAOU/PHA*EURBG TP-PL`
 * 'These `AE KPA/THEZ`
 * wights `WAO*EUT/-S`
 * have `SR`

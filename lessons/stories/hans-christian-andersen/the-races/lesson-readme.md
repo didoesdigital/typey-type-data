@@ -18,7 +18,7 @@
 * for `TPOR`
 * the `-T`
 * greatest `TKPWRAET/EFT`
-* swiftness `xxx swiftness`
+* swiftness `SWEUFT/-PBS`
 * in `TPH`
 * running,—not `R*UPBG KW-BG EPL/TKA*RB TPHOT`
 * single `SEUPBLG`
@@ -384,7 +384,7 @@
 * judge `SKWRUPBLG`
 * one's `W*UPBS`
 * own `OEPB`
-* swiftness. `xxx swiftness TP-PL`
+* swiftness. `SWEUFT/-PBS TP-PL`
 * ago, `AG KW-BG`
 * crushed `KRURBD`
 * hind `HAOEUPBD`
@@ -432,7 +432,7 @@
 * few `TPAOU`
 * minutes `PHEUBS`
 * along `HRAOPBG`
-* immeasurable `xxx immeasurable`
+* immeasurable `*EUPL/PHEBL`
 * path `PA*T`
 * sun `SUPB`
 * us. `US TP-PL`
@@ -449,7 +449,7 @@
 * fragrance `TPRAEUG/RAPBS`
 * presence. `PREPBS TP-PL`
 * Our `KPA/OUR`
-* worshipful `xxx worshipful`
+* worshipful `WOR/SH-P/-FL`
 * don't `TKOEPBT`
 * appear `A/PAOER`
 * noticed `TPH-TSD`
@@ -481,7 +481,7 @@
 * prize?" `PRAOEUZ H-F KR-GS`
 * asked `SK-D`
 * earthworm, `*ERT/WORPL KW-BG`
-* overslept `xxx overslept`
+* overslept `AUFR/SHREPD`
 * now `TPHOU`
 * came `KAEUPL`
 * up. `UP TP-PL`

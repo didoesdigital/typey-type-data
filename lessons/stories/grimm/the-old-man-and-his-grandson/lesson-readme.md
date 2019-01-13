@@ -96,7 +96,7 @@
 * bowl `PWOEL`
 * for `TPOR`
 * few `TPAOU`
-* half-pence, `HAF H-PB xxx pence KW-BG`
+* half-pence, `HAF H-PB P*/EPBS KW-BG`
 * which `WEU`
 * eat. `AOET TP-PL`
 * They `KPA/THE`

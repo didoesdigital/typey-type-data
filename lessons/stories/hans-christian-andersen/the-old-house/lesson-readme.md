@@ -567,11 +567,11 @@
 * scissors `SEUS/ORS`
 * supported `SPORD`
 * lions, `HRAOEU/O*PBS KW-BG`
-* shoemakers' `xxx shoemakers AE`
+* shoemakers' `SHAOU/PHA*EURBG/-S AE`
 * boots, `PWAOTS KW-BG`
 * eagle `AOEG/*L`
 * heads, `HEDZ KW-BG`
-* shoemakers `xxx shoemakers`
+* shoemakers `SHAOU/PHA*EURBG/-S`
 * arranged `ARPBG/-D`
 * "This `KR-GS KPA/TH`
 * pair." `PAEUR TP-PL KR-GS`

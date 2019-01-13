@@ -120,7 +120,7 @@
 * looking-glass, `HRAOG H-PB TKPWHRAS KW-BG`
 * where `W-R`
 * pretty `PREUT`
-* shepherdess `xxx shepherdess`
+* shepherdess `SHEP/ERD/*ES`
 * made `PHAED`
 * china. `KWHRAOEUPB TP-PL`
 * Her `KPA/HER`
@@ -206,12 +206,12 @@
 * times `TAOEUPLS`
 * large `HRARPBLG`
 * were, `WR KW-BG`
-* Chinaman, `xxx Chinaman KW-BG`
+* Chinaman, `KWHRAOEUPB/PHA*PB KW-BG`
 * nod `TPHOD`
 * used `AOUFD`
 * pretend `PRE/TEPBD`
 * grandfather `TKPWR-F`
-* shepherdess, `xxx shepherdess KW-BG`
+* shepherdess, `SHEP/ERD/*ES KW-BG`
 * although `HR*T`
 * not `TPHOT`
 * prove `PROF`
@@ -234,7 +234,7 @@
 * will `HR`
 * husband," `HUS KW-BG KR-GS`
 * said `SAEUD`
-* Chinaman `xxx Chinaman`
+* Chinaman `KWHRAOEUPB/PHA*PB`
 * "who `KR-GS WHO`
 * I `EU`
 * really `R-L`
@@ -262,7 +262,7 @@
 * into `TPHAO`
 * dark `TKARBG`
 * cupboard," `WUP/PWORD KW-BG KR-GS`
-* shepherdess. `xxx shepherdess TP-PL`
+* shepherdess. `SHEP/ERD/*ES TP-PL`
 * heard `HAERD`
 * eleven `HREFPB`
 * wives `WAOEUFS`
@@ -270,7 +270,7 @@
 * "Then `KR-GS KPA/THEPB`
 * shall `SHAL`
 * twelfth," `TWEFLT KW-BG KR-GS`
-* Chinaman. `xxx Chinaman TP-PL`
+* Chinaman. `KWHRAOEUPB/PHA*PB TP-PL`
 * "To-night `KR-GS KPA/TO H-PB TPHAOEUT`
 * soon `SAOPB`
 * hear `HAER`
@@ -279,7 +279,7 @@
 * married, `PHAERD KW-BG`
 * true `TRAOU`
 * am `APL`
-* Chinaman;" `xxx Chinaman STPH*FPLT KR-GS`
+* Chinaman;" `KWHRAOEUPB/PHA*PB STPH*FPLT KR-GS`
 * fell `TPEL`
 * asleep. `A/HRAOEP TP-PL`
 * Then `KPA/THEPB`
@@ -652,7 +652,7 @@
 * much, `PHUFP KW-BG`
 * wonder?" `WOPBD H-F KR-GS`
 * wish. `WEURB TP-PL`
-* Chinaman's `xxx Chinaman AES`
+* Chinaman's `KWHRAOEUPB/PHA*PB AES`
 * mended, `PHEPBD/-D KW-BG`
 * strong `STROPBG`
 * neck; `TPHEBG STPH*FPLT`

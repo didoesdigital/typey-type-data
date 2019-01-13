@@ -54,7 +54,7 @@
 * two `TWO`
 * box, `PWOBGS KW-BG`
 * besides `PW-DZ`
-* pence. `xxx pence TP-PL`
+* pence. `P*/EPBS TP-PL`
 * The `KPA/-T`
 * money-pig `PHUPB H-PB PEUG`
 * stuffed `STUFD`
@@ -200,7 +200,7 @@
 * "we `KR-GS WE`
 * cannot `K/TPHOT`
 * be `-B`
-* noblemen; `xxx noblemen STPH*FPLT`
+* noblemen; `TPHOEBL/PH*EPB STPH*FPLT`
 * must `PHUFT`
 * some `SOPL`
 * do `TKO`

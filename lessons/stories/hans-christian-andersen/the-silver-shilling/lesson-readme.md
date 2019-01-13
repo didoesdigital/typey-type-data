@@ -549,7 +549,7 @@
 * filled `TPEULD`
 * cement, `SEPLT KW-BG`
 * rubbed `RUBD`
-* brighten `xxx brighten`
+* brighten `PWRAOEUT/*EPB`
 * up, `UP KW-BG`
 * twilight `TWAOEULGT`
 * hour `HOUR`

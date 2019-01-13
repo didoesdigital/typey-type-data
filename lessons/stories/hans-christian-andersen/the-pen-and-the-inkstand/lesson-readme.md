@@ -6,7 +6,7 @@
 * room, `RAOPL KW-BG`
 * where `W-R`
 * his `HEUS`
-* inkstand `xxx inkstand`
+* inkstand `*EUPBG/STA*PBD`
 * stood `STAOD`
 * on `OPB`
 * the `-T`
@@ -25,7 +25,7 @@
 * out `OUT`
 * of `-F`
 * an `APB`
-* inkstand. `xxx inkstand TP-PL`
+* inkstand. `*EUPBG/STA*PBD TP-PL`
 * What `KPA/WHA`
 * will `HR`
 * come `KOPL`
@@ -167,7 +167,7 @@
 * about `PW`
 * poetry `POEURT`
 * old `OLD`
-* inkstand." `xxx inkstand TP-PL KR-GS`
+* inkstand." `*EUPBG/STA*PBD TP-PL KR-GS`
 * "You `KR-GS KPA/U`
 * had `H`
 * very `SRE`
@@ -240,12 +240,12 @@
 * performer `PORPL/*ER`
 * produced `PRO*UD`
 * instrument `STRUPLT`
-* richness `xxx richness`
+* richness `REUFP/-PBS`
 * tone `TOEPB`
 * sometimes `STAOEUPLS`
 * sounded `SOUPBD/-D`
 * tinkling `TEUPB/K-LG`
-* waterdrops `xxx waterdrops`
+* waterdrops `WA*UR/TKROPS`
 * rolling `ROLG`
 * pearls; `PERLS STPH*FPLT`
 * birds `PWEURDZ`
@@ -349,7 +349,7 @@
 * "That `KR-GS KPA/THA`
 * got, `TKPWOT KW-BG`
 * madam," `PHAD/APL KW-BG KR-GS`
-* inkstand, `xxx inkstand KW-BG`
+* inkstand, `*EUPBG/STA*PBD KW-BG`
 * two `TWO`
 * again. `TKPWEPB TP-PL`
 * "Did `KR-GS KPA/TK`

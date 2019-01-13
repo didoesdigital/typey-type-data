@@ -849,7 +849,7 @@
 * painter, `PA*EURPBT KW-BG`
 * pencil `PEPB/SEUL`
 * smoking `SPHOEG`
-* overhanging `xxx overhanging`
+* overhanging `AUFR/HAPBG/-G`
 * bent `PWEPBT`
 * more; `PHOR STPH*FPLT`
 * foreground `TPOER/TKPWROUPBD`

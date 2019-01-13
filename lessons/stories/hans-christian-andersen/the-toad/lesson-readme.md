@@ -23,7 +23,7 @@
 * any `TPHEU`
 * one `WUPB`
 * raise `RAEUZ`
-* bucketful `xxx bucketful`
+* bucketful `PWUBGT/-FL`
 * of `-F`
 * water `WAUR`
 * over `OEFR`

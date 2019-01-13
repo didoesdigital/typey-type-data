@@ -162,7 +162,7 @@
 * Cinder-breech; `KPA/SEUPBD/ER H-PB PWRAOEFP STPH*FPLT`
 * youngest, `KWRUPBG/EFT KW-BG`
 * rude `RAOUD`
-* uncivil `xxx uncivil`
+* uncivil `UPB/SEUFL`
 * as `AZ`
 * eldest, `ELD/EFT KW-BG`
 * Cinderilla. `xxx Cinderilla TP-PL`
@@ -491,10 +491,10 @@
 * me." `PHE TP-PL KR-GS`
 * no `TPHO`
 * so, `SO KW-BG`
-* footmen, `xxx footmen KW-BG`
+* footmen, `TPAOT/PH*EPB KW-BG`
 * skipped `SKEUPD`
 * liveries `HR*EUF/REU/KWREU/-S`
-* bedaubed `xxx bedaubed`
+* bedaubed `PWE/TKAUB/-D`
 * gold `TKPWOELD`
 * silver, `SEUL/SRER KW-BG`
 * clung `KHRUPBG`
@@ -507,7 +507,7 @@
 * "Well, `KR-GS KPA/WEL KW-BG`
 * here `HAOER`
 * an `APB`
-* equipage `xxx equipage`
+* equipage `KWEUP/APBLG`
 * fit `TPEUT`
 * ball `PWAUL`
 * with; `W STPH*FPLT`
@@ -564,7 +564,7 @@
 * passed `PAFD`
 * use, `AOUS KW-BG`
 * except `KPEPT`
-* heraldic `xxx heraldic`
+* heraldic `H*ERLD/EUBG`
 * term, `TERPL KW-BG`
 * ceased `KRAES/-D`
 * convey `KAUPB/SREU`
@@ -600,7 +600,7 @@
 * again, `TKPWEPB KW-BG`
 * mice, `PHAOEUS KW-BG`
 * rat, `RAT KW-BG`
-* footmen `xxx footmen`
+* footmen `TPAOT/PH*EPB`
 * lizards, `HREUZ/ARDZ KW-BG`
 * before. `PW-F TP-PL`
 * promised `PROPLS/-D`
@@ -667,7 +667,7 @@
 * creature." `KRAOEFP TP-PL KR-GS`
 * All `KPA/AUL`
 * ladies `HRAEUDZ`
-* busied `xxx busied`
+* busied `PWUS/KWREUD`
 * considering `KR-G`
 * head-dress, `HED H-PB TKRES KW-BG`
 * some `SOPL`

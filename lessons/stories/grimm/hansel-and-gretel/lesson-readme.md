@@ -433,7 +433,7 @@
 * 'It `AE KPA/T`
 * better `PWOERT`
 * share `SHAEUR`
-* mouthful `xxx mouthful`
+* mouthful `PHO*UT/-FL`
 * children.' `KHEURPB TP-PL AE`
 * listen `HREUFPB`
 * say, `SAEU KW-BG`
@@ -588,7 +588,7 @@
 * off `OF`
 * try `TREU`
 * tasted, `TAEUFT/-D KW-BG`
-* leant `xxx leant`
+* leant `HRE/APBT`
 * against `TKPWEPBS`
 * window `WOEUPBD`
 * nibbled `TPHEUB/-LD`
@@ -701,7 +701,7 @@
 * herself: `H*ERS STPH-FPLT`
 * 'That `AE KPA/THA`
 * dainty `TKAEUPB/TEU`
-* mouthful!' `xxx mouthful SKHRAPL AE`
+* mouthful!' `PHO*UT/-FL SKHRAPL AE`
 * seized `SAOEZ/-D`
 * shrivelled `SHR*EUFLD/A*U`
 * carried `KAERD`
@@ -828,7 +828,7 @@
 * quite `KWAOEUT`
 * horribly, `HOR/PWHREU KW-BG`
 * ran `RAPB`
-* godless `xxx godless`
+* godless `TKPWOD/-LS`
 * miserably `PHEUZ/RAEBL`
 * burnt `PWURPBT`
 * death. `TK*T TP-PL`

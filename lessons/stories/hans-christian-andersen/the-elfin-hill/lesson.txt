@@ -38,7 +38,7 @@ The Elfin Hill
 'is': S
 'in': TPH
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'hill,"': HEUL KW-BG KR-GS
 'said': SAEUD
 'one': WUPB
@@ -112,7 +112,7 @@ The Elfin Hill
 'aired,': AEUR/-D KW-BG
 'and': SKP
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'girls': TKPWEURLS
 'have': SR
 'learnt': HRERPBT/A*U
@@ -142,7 +142,7 @@ The Elfin Hill
 'come': KOPL
 'from': TPR
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'hill,': HEUL KW-BG
 'where': W-R
 'he': HE
@@ -185,7 +185,7 @@ The Elfin Hill
 'friends': TPREPBDZ
 'in': TPH
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'hill,': HEUL KW-BG
 'grand': TKPWRAPBD
 'company,': K-P KW-BG
@@ -268,13 +268,13 @@ The Elfin Hill
 'this': TH
 'moment': PHOEPLT
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'hill': HEUL
 'opened,': OEPD KW-BG
 'and': SKP
 'an': APB
 'old': OLD
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'maiden,': PHAEUD/*EPB KW-BG
 'hollow': HOL/OE
 'behind,': HEUPBD KW-BG
@@ -377,7 +377,7 @@ The Elfin Hill
 'very': SRE
 'grand': TKPWRAPBD
 'people,': PAOEPL KW-BG
-'conjurors,': xxx conjurors KW-BG
+'conjurors,': KAUPB/SKWROR/-S KW-BG
 'who': WHO
 'have': SR
 'always': AULS
@@ -467,7 +467,7 @@ The Elfin Hill
 'admit': AD/PHEUT
 'ghosts.': TKPWOEFT/-S TP-PL
 'The': KPA/-T
-'merman': xxx merman
+'merman': PHER/PHA*PB
 'and': SKP
 'his': HEUS
 'daughter': TKAUR
@@ -594,7 +594,7 @@ The Elfin Hill
 'the': -T
 'invitations.': EUPB/SREU/TAEUGS/-S TP-PL
 'The': KPA/-T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'maidens': PHAEUD/EPB/-S
 'we're': WAOER
 'already': HR-R
@@ -1230,7 +1230,7 @@ The Elfin Hill
 'they': THE
 'entered': SPWR-D
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'hill,': HEUL KW-BG
 'where': W-R
 'the': -T
@@ -1504,7 +1504,7 @@ The Elfin Hill
 'gave': TKPWAEUF
 'the': -T
 'old': OLD
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'maiden': PHAEUD/*EPB
 'a': AEU
 'kiss,': KEUS KW-BG
@@ -1523,7 +1523,7 @@ The Elfin Hill
 'other.': OER TP-PL
 'Then': KPA/THEPB
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'girls': TKPWEURLS
 'had': H
 'to': TO
@@ -1767,7 +1767,7 @@ The Elfin Hill
 'how': HOU
 'to': TO
 'lard': HRARD
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'puddings': PUD/-G/-S
 'with': W
 'glow-worms.': TKPWHROE H-PB WORPLS TP-PL
@@ -2129,7 +2129,7 @@ The Elfin Hill
 'myself."': PHAO*EUS TP-PL KR-GS
 'Then': KPA/THEPB
 'the': -T
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'girl': TKPWEURL
 'said': SAEUD
 'that': THA
@@ -2245,7 +2245,7 @@ The Elfin Hill
 'of': -F
 'the': -T
 'mountain': PHOUPB/TAEUPB
-'shepherdesses.': xxx shepherdesses TP-PL
+'shepherdesses.': SHEP/ERD/*ES/-S TP-PL
 'How': KPA/HOU
 'merry': PHER/REU
 'we': WE
@@ -2428,7 +2428,7 @@ The Elfin Hill
 'said': SAEUD
 'the': -T
 'old': OLD
-'elfin': xxx elfin
+'elfin': *EFL/*EUPB
 'maiden': PHAEUD/*EPB
 'who': WHO
 'acted': ABGD

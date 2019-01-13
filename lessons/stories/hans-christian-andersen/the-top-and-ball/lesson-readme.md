@@ -343,7 +343,7 @@
 * apple, `A*EPL KW-BG`
 * near `TPHAOER`
 * long, `HROPBG KW-BG`
-* leafless `xxx leafless`
+* leafless `HRAOEF/-LS`
 * cabbage-stalk. `KAB/APBLG H-PB STAUBG TP-PL`
 * It `KPA/T`
 * was, `WAS KW-BG`

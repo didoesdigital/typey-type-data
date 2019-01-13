@@ -289,7 +289,7 @@
 * red, `RED KW-BG`
 * because `PWAU`
 * vexed. `SREBGS/-D TP-PL`
-* sulky; `xxx sulky STPH*FPLT`
+* sulky; `S*ULG/KWREU STPH*FPLT`
 * well `WEL`
 * speak, `SPAOEBG KW-BG`
 * otherwise `O*ERZ`

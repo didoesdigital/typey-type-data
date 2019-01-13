@@ -248,7 +248,7 @@
 * wings `WEUPBGS`
 * morning, `PHORPBG KW-BG`
 * fly `TPHRAOEU`
-* uttermost `xxx uttermost`
+* uttermost `UT/ER/PHO*EFT`
 * parts `PARTS`
 * sea, `SAE KW-BG`
 * even `AOEPB`

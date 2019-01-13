@@ -30,7 +30,7 @@
 * so `SO`
 * that `THA`
 * her `HER`
-* instep `xxx instep`
+* instep `EUPB/STEP`
 * grew `TKPWRAOU`
 * quite `KWAOEUT`
 * red. `RED TP-PL`
@@ -42,7 +42,7 @@
 * lived `HREUFD`
 * an `APB`
 * old `OLD`
-* shoemaker's `xxx shoemaker AES`
+* shoemaker's `SHAOU/PHA*EURBG AES`
 * wife; `WAOEUF STPH*FPLT`
 * sat `SAT`
 * down `TKOUPB`
@@ -205,7 +205,7 @@
 * shoes. `SHAOUS TP-PL`
 * The `KPA/-T`
 * rich `REUFP`
-* shoemaker `xxx shoemaker`
+* shoemaker `SHAOU/PHA*EURBG`
 * town `TOUPB`
 * took `TAOBG`
 * measure `PH*ERB`
@@ -548,8 +548,8 @@
 * gate `TKPWAET`
 * fields, `TPAOELDZ KW-BG`
 * highways `HAOEU/WAEUS`
-* byways, `xxx byways KW-BG`
-* unceasingly `xxx unceasingly`
+* byways, `PWEU/WA*ES KW-BG`
+* unceasingly `UPB/SAOES/TKPWHREU`
 * morning `PHORPBG`
 * well; `WEL STPH*FPLT`
 * singing `SEUPBG/-G`
@@ -635,7 +635,7 @@
 * tears, `TAERS KW-BG`
 * again `TKPWEPB`
 * "Now `KR-GS KPA/TPHOU`
-* striven `xxx striven`
+* striven `STREUF/*PB`
 * enough. `TPHUF TP-PL`
 * believe `PWHREF`
 * am `APL`

@@ -421,7 +421,7 @@
 * dark, `TKARBG KW-BG`
 * forced `TPOFRD`
 * prize, `PRAOEUZ KW-BG`
-* sulky `xxx sulky`
+* sulky `S*ULG/KWREU`
 * be. `-B TP-PL`
 * found `TPOUPBD`
 * gone, `TKPWOPB KW-BG`
@@ -624,7 +624,7 @@
 * cow's `KO*U AES`
 * rick, `HRO*ER/REUBG KW-BG`
 * cow `KO*U`
-* mouthful `xxx mouthful`
+* mouthful `PHO*UT/-FL`
 * it. `T TP-PL`
 * lack-a-day!' `HRABG H-PB AEU H-PB TKAEU SKHRAPL AE`
 * tumble `TUPL/-BL`
@@ -674,7 +674,7 @@
 * frightened `TPRAOEUPBD`
 * fell `TPEL`
 * stool, `STOL KW-BG`
-* overset `xxx overset`
+* overset `AUFR/SET`
 * milk-pail. `PH*EULG H-PB PAEUL TP-PL`
 * As `KPA/AZ`
 * pick `PEUBG`

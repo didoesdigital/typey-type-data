@@ -83,7 +83,7 @@
 * bed `PWED`
 * planted `PHRAPBT/-D`
 * with `W`
-* rampion `xxx rampion`
+* rampion `RAFRP/KWROPB`
 * (rapunzel), `PREPB RA/PUPB/S*EL PR*EPB KW-BG`
 * looked `HRAOBGD`
 * so `SO`
@@ -114,7 +114,7 @@
 * can't `K-PBT`
 * eat `AOET`
 * some `SOPL`
-* rampion, `xxx rampion KW-BG`
+* rampion, `RAFRP/KWROPB KW-BG`
 * is `S`
 * behind `HEUPBD`
 * our `OUR`
@@ -290,7 +290,7 @@
 * gold, `TKPWOELD KW-BG`
 * heard `HAERD`
 * voice `SROEUS`
-* unfastened `xxx unfastened`
+* unfastened `UPB/TPAS/-PBD`
 * braided `PWRAEUD/-D`
 * tresses, `TRESZ/-S KW-BG`
 * wound `WOUPBD`
@@ -301,7 +301,7 @@
 * then `THEPB`
 * fell `TPEL`
 * twenty `TWEPBT`
-* ells `xxx ells`
+* ells `AOE/HR*/HR*/*S`
 * down, `TKOUPB KW-BG`
 * climbed `KHRAOEUPLD`
 * it. `T TP-PL`

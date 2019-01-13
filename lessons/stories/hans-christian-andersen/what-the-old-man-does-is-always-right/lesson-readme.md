@@ -103,7 +103,7 @@
 * which `WEU`
 * few `TPAOU`
 * ducks `TKUBGZ`
-* disporting `xxx disporting`
+* disporting `TKEUS/PORT/-G`
 * themselves. `TH*EPLS TP-PL`
 * yard-dog `KWRARD H-PB TKOG`
 * too, `TAO KW-BG`
@@ -263,7 +263,7 @@
 * "That `KR-GS KPA/THA`
 * exchange: `KPAEUPBG STPH-FPLT`
 * horse. `HORS TP-PL`
-* Hallo `xxx Hallo`
+* Hallo `HA*L/KWRO`
 * there! `THR SKHRAPL`
 * cow," `KO*U KW-BG KR-GS`
 * said. `SAEUD TP-PL`

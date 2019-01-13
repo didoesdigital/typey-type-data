@@ -224,7 +224,7 @@
 * anything `TPHEUG`
 * like `HRAOEUBG`
 * myself; `PHAO*EUS STPH*FPLT`
-* wingless `xxx wingless`
+* wingless `WEUPBG/-LS`
 * houses, `HO*UFS KW-BG`
 * whose `WHOZ`
 * throats `THROETS`

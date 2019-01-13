@@ -188,12 +188,12 @@
 * take `TAEUBG`
 * from `TPR`
 * many `PHAEPB`
-* pence `xxx pence`
+* pence `P*/EPBS`
 * please, `PHRES KW-BG`
 * they `THE`
 * only `OEPBL`
 * copper `KOP/ER`
-* pence; `xxx pence STPH*FPLT`
+* pence; `P*/EPBS STPH*FPLT`
 * but `PWUT`
 * if `TP`
 * would `WO`
@@ -575,7 +575,7 @@
 * before `PW-F`
 * orders, `ORDZ KW-BG`
 * master?" `PHAFRT H-F KR-GS`
-* "Hallo," `KR-GS xxx Hallo KW-BG KR-GS`
+* "Hallo," `KR-GS HA*L/KWRO KW-BG KR-GS`
 * "well `KR-GS WEL`
 * brings `PWREUS`
 * wish `WEURB`
@@ -602,7 +602,7 @@
 * over `OEFR`
 * money; `PHUPB STPH*FPLT`
 * returned `RURPBD`
-* reappeared `xxx reappeared`
+* reappeared `RAOE/A/PAOERD`
 * knew `TPHAOU`
 * directly, `TKREL KW-BG`
 * before. `PW-F TP-PL`
@@ -779,7 +779,7 @@
 * marching. `PHAFRPB/-G TP-PL`
 * Every `KPA/EF`
 * them, `THEPL KW-BG`
-* shoemaker's `xxx shoemaker AES`
+* shoemaker's `SHAOU/PHA*EURBG AES`
 * boy, `PWOEU KW-BG`
 * leather `HRE/THER`
 * apron `AEUP/ROPB`
@@ -788,7 +788,7 @@
 * fast, `TPAFT KW-BG`
 * against `TKPWEPBS`
 * grating. `TKPWRAEUGT TP-PL`
-* "Hallo, `KR-GS xxx Hallo KW-BG`
+* "Hallo, `KR-GS HA*L/KWRO KW-BG`
 * hurry," `HUR/REU KW-BG KR-GS`
 * cried `KRAOEUD`
 * "There `KR-GS KPA/THR`

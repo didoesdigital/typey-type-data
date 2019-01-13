@@ -162,7 +162,7 @@
 * shape `SHAEUP`
 * dusty `TKUS/TEU`
 * moth, `PHO*T KW-BG`
-* hymnbook `xxx hymnbook`
+* hymnbook `H*EUPL/PWAO*BG`
 * rests `REFTS`
 * knees `TPHAOEZ`
 * pious `PAOEU/OUS`
@@ -250,7 +250,7 @@
 * rich, `REUFP KW-BG`
 * thyself `THAOEU/SEFL`
 * often `OFPB`
-* fliest `xxx fliest`
+* fliest `TP*/HR*/KWREFT`
 * around, `ARPBD KW-BG`
 * lonely `HROPBL`
 * disregarded, `TKEUD/RARD/-D KW-BG`

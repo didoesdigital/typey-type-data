@@ -265,7 +265,7 @@
 * seen `SAOEPB`
 * myself. `PHAO*EUS TP-PL`
 * almost `HR-PL`
-* unbecoming `xxx unbecoming`
+* unbecoming `UPB/PW-BG/-G`
 * story, `STOER KW-BG`
 * "Believe `KR-GS KPA/PWHREF`
 * you," `U KW-BG KR-GS`

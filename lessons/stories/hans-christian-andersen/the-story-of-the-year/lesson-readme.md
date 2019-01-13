@@ -59,7 +59,7 @@
 * frosted `TPROS/-D`
 * sugar. `SHURG TP-PL`
 * The `KPA/-T`
-* footmen `xxx footmen`
+* footmen `TPAOT/PH*EPB`
 * stood `STAOD`
 * their `THAEUR`
 * backs `PWABGS`
@@ -808,7 +808,7 @@
 * wood, `WAOD KW-BG`
 * walls `WAULS`
 * farm-house, `TPARPL H-PB HOUS KW-BG`
-* brightening `xxx brightening`
+* brightening `PWRAOEUT/TPHEUPBG`
 * blooming `PWHRAOPL/-G`
 * roses, `ROES/-S KW-BG`
 * ripening `RAOEUP/-PBG`
@@ -882,7 +882,7 @@
 * reeds `RAOED/-S`
 * moor `PHO*R`
 * fro `TPRO`
-* feathery `xxx feathery`
+* feathery `TP*ET/KWREU`
 * billows; `PWEUL/HROE/-S STPH*FPLT`
 * boughs `PWO*U/-S`
 * hidden `HEUD/EPB`
@@ -977,7 +977,7 @@
 * days `TKAEUS`
 * bright `PWRAOEUT`
 * scythes `SKRAOEUT/-S`
-* reapers `xxx reapers`
+* reapers `RAOEP/*ERS`
 * corn-fields, `KORPB H-PB TPAOELDZ KW-BG`
 * branches `PWRAFRPBS`
 * apple-trees `A*EPL H-PB TRAOES`
@@ -1230,7 +1230,7 @@
 * worth `WO*RT`
 * nothing." `TPHOG TP-PL KR-GS`
 * quiet `KWAO*EUT`
-* leafless `xxx leafless`
+* leafless `HRAOEF/-LS`
 * graceful `TKPWRAEUS/-FL`
 * bends `PWEPBDZ`
 * tree `TRAOE`

@@ -16,7 +16,7 @@
 * still `STEUL`
 * stand `STAPBD`
 * in `TPH`
-* cornfields, `xxx cornfields KW-BG`
+* cornfields, `KORPB/TPAO*ELD/-S KW-BG`
 * and `SKP`
 * huge `HAOUPBLG`
 * trees `TRAOES`

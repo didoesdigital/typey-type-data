@@ -36,7 +36,7 @@
 * was `WAS`
 * part `PART`
 * castle `KAFL`
-* Marck `xxx Marck`
+* Marck `PHA*RBG/*BG`
 * Stig `xxx Stig`
 * on `OPB`
 * promontory. `PROPL/TOER TP-PL`
@@ -55,7 +55,7 @@
 * new `TPHU`
 * another `TPHOER`
 * spot—the `SPOT EPL/TKA*RB -T`
-* baronial `xxx baronial`
+* baronial `PWAR/ROPB/KWRAL`
 * residence `R*EPBS`
 * Borreby, `xxx Borreby KW-BG`
 * still `STEUL`
@@ -407,7 +407,7 @@
 * silent `SHREPBT`
 * thoughtful. `THAUFL TP-PL`
 * 'The `AE KPA/-T`
-* loftiest `xxx loftiest`
+* loftiest `HRO*FT/KWREFT`
 * tree `TRAOE`
 * may `PHAE`
 * bowed `PWOE/-D`
@@ -824,7 +824,7 @@
 * blue `PWHRU`
 * dreamy `TKRAOE/PH*EU`
 * look, `HRAOBG KW-BG`
-* childlike `xxx childlike`
+* childlike `KHAOEULD/HRA*EBG`
 * smile `SPHAOEUL`
 * played `PHRAEUD`
 * mouth. `PHO*UT TP-PL`
@@ -1051,14 +1051,14 @@
 * roofs `RAOFS`
 * keen `KAOEPB`
 * cutting `KUGT`
-* swiftness. `xxx swiftness TP-PL`
+* swiftness. `SWEUFT/-PBS TP-PL`
 * lying `HRAOEUG`
 * bed `PWED`
 * cold, `KOELD KW-BG`
 * crouching `KROUFPG`
 * beneath `TPHAO*ET`
 * leather `HRE/THER`
-* coverlet. `xxx coverlet TP-PL`
+* coverlet. `KOFR/HR*ET TP-PL`
 * Nothing `KPA/TPHOG`
 * eat, `AOET KW-BG`
 * burn, `PWURPB KW-BG`
@@ -1219,7 +1219,7 @@
 * cold `KOELD`
 * drops `TKROPS`
 * berries `PWER/KWREUS`
-* leafless `xxx leafless`
+* leafless `HRAOEF/-LS`
 * branches, `PWRAFRPBS KW-BG`
 * back `PWABG`
 * fresh `TPRERB`
@@ -1361,7 +1361,7 @@
 * bare `PWAEUR`
 * empty `EPLT`
 * cupboards. `KUP/PWORDZ TP-PL`
-* magpies `xxx magpies`
+* magpies `PHAG/PAOEU/*S`
 * cried, `KRAOEUD KW-BG`
 * contempt, `KAUPB/TEPLT KW-BG`
 * 'Caw, `AE KPA/KAU KW-BG`
@@ -1423,7 +1423,7 @@
 * at? `AT H-F`
 * Their `KPA/THAEUR`
 * glances `TKPWHRAPBS/-S`
-* tumbledown `xxx tumbledown`
+* tumbledown `TUPL/-BL/SKWROUPB`
 * hut. `HUT TP-PL`
 * roof, `RAOF KW-BG`
 * moss `PHOS`

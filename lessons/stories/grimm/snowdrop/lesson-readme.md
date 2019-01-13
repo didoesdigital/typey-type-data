@@ -655,7 +655,7 @@
 * seemed `SAOEPLD`
 * bier, `PWEUR KW-BG`
 * watched `WAFPD`
-* bewailed `xxx bewailed`
+* bewailed `PWE/WAEUL/-D`
 * whole `WHOEL`
 * days; `TKAEUS STPH*FPLT`
 * bury `PWUR/REU`
@@ -696,7 +696,7 @@
 * offered `OFRD`
 * money, `PHUPB KW-BG`
 * prayed `PRAEUD`
-* besought `xxx besought`
+* besought `PWE/SAUT`
 * part `PART`
 * world.' `WORLD TP-PL AE`
 * last, `HRAFT KW-BG`

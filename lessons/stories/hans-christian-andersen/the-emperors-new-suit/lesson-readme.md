@@ -119,7 +119,7 @@
 * unfit `UPB/TPEUT`
 * office `OFS`
 * or `OR`
-* unpardonably `xxx unpardonably`
+* unpardonably `UPB/PAR/TKOPB/PWHREU`
 * stupid. `STAOUPD TP-PL`
 * "That `KR-GS KPA/THA`
 * must `PHUFT`
@@ -334,7 +334,7 @@
 * afterwards `A*FRDZ`
 * sent `SEPBT`
 * another `TPHOER`
-* courtier `xxx courtier`
+* courtier `KORT/KWRA*U`
 * weavers `WAOEFR/-S`
 * on, `OPB KW-BG`
 * nearly `TPHAOERL`
@@ -519,7 +519,7 @@
 * master `PHAFRT`
 * ceremonies `SER/PHOEP/-S`
 * announced `A/TPHOUPBS/-D`
-* bearers `xxx bearers`
+* bearers `PWAER/*ERS`
 * canopy, `KAPB/PEU KW-BG`
 * carried `KAERD`
 * procession, `PRO/SEGS KW-BG`

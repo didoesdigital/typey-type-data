@@ -345,7 +345,7 @@
 * curiosity, `KAOURS/TEU KW-BG`
 * without `WOUT`
 * considering `KR-G`
-* uncivil `xxx uncivil`
+* uncivil `UPB/SEUFL`
 * leave `HREF`
 * company, `K-P KW-BG`
 * down `TKOUPB`
@@ -366,7 +366,7 @@
 * orders, `ORDZ KW-BG`
 * unhappiness `UPB/HAEP/-PBS`
 * attend `A/TEPBD`
-* disobedient; `xxx disobedient STPH*FPLT`
+* disobedient; `TKEUS/OE/PWAOEPBT STPH*FPLT`
 * temptation `TEPL/TAEUGS`
 * overcome `AUFR/KOPL`
 * it. `T TP-PL`

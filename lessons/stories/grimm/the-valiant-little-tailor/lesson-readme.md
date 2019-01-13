@@ -179,7 +179,7 @@
 * invited `EUPB/SRAOEUTD`
 * you?' `U H-F AE`
 * drove `TKROEF`
-* unbidden `xxx unbidden`
+* unbidden `UPB/PWEUD/TK*EPB`
 * guests `TKPWEFTS`
 * away. `A/WAEU TP-PL`
 * flies, `TPHRAOEUS KW-BG`
@@ -695,7 +695,7 @@
 * stand `STAPBD`
 * him.' `HEUPL TP-PL AE`
 * decision, `STKEUGS KW-BG`
-* betook `xxx betook`
+* betook `PWE/TAOBG`
 * themselves `TH*EPLS`
 * body `PWO*ED`
 * begged `PWEGD`
@@ -793,7 +793,7 @@
 * down. `TKOUPB TP-PL`
 * idle, `AOEUD/*L KW-BG`
 * gathered `TKPWAERD`
-* pocketsful `xxx pocketsful`
+* pocketsful `POBGTS/-FL`
 * stones, `STOEPBS KW-BG`
 * climbed `KHRAOEUPLD`
 * tree. `TRAOE TP-PL`
@@ -1063,7 +1063,7 @@
 * thus, `THUS KW-BG`
 * overcome `AUFR/KOPL`
 * dread, `TKRED KW-BG`
-* huntsman `xxx huntsman`
+* huntsman `HUPBTS/PHA*PB`
 * none `TPHOPB`
 * further `TPURT`
 * So `KPA/SO`

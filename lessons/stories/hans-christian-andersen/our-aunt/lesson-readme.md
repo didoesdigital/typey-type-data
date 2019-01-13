@@ -273,7 +273,7 @@
 * sometimes `STAOEUPLS`
 * ill, `EUL KW-BG`
 * however `HOUF`
-* unwell `xxx unwell`
+* unwell `UPB/WEL`
 * feel, `TPAOEL KW-BG`
 * never `TPHEFR`
 * missed `PHEUFD`
@@ -457,7 +457,7 @@
 * laughter `HRAFR`
 * among `PHOPBG`
 * audience. `AUPBS TP-PL`
-* weightiest `xxx weightiest`
+* weightiest `WAET/KWREFT`
 * reasons `R-PBS`
 * why `KWR`
 * worthy `WO*RT/KWREU`

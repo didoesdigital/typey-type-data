@@ -428,7 +428,7 @@
 * must `PHUFT`
 * first `TPEUFRT`
 * produce `PROU`
-* cellarful `xxx cellarful`
+* cellarful `SEL/AR/-FL`
 * man, `PHAPB KW-BG`
 * certainly `SERPBL`
 * help `HEP`
@@ -500,7 +500,7 @@
 * face, `TPAEUS KW-BG`
 * saying: `SAEUG STPH-FPLT`
 * eaten `AOET/EPB`
-* ovenful `xxx ovenful`
+* ovenful `OEFPB/-FL`
 * rolls, `ROLS KW-BG`
 * has `HAS`
 * I? `EU H-F`

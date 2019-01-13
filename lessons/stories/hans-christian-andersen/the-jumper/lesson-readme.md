@@ -185,7 +185,7 @@
 * formed `TPORPLD`
 * breastbone `PWREFT/PWOEPB`
 * an `APB`
-* undoubted `xxx undoubted`
+* undoubted `UPB/TKOUT/-D`
 * goose. `TKPWAOS TP-PL`
 * councillor, `KOUPB/SEU/HROR KW-BG`
 * received `SAOEFD`
@@ -254,7 +254,7 @@
 * last `HRAFT`
 * hope `HOEP`
 * he's `HAOES`
-* unwell," `xxx unwell KW-BG KR-GS`
+* unwell," `UPB/WEL KW-BG KR-GS`
 * Dog, `KPA/TKOG KW-BG`
 * again. `TKPWEPB TP-PL`
 * "Tap!" `KR-GS KPA/TAP SKHRAPL KR-GS`

@@ -269,7 +269,7 @@
 * daughter, `TKAUR KW-BG`
 * will `HR`
 * urge `URPBLG`
-* beget `xxx beget`
+* beget `PWE/TKPW-T`
 * sons `SOPBS`
 * resemble `REPL/*BL`
 * you; `U STPH*FPLT`

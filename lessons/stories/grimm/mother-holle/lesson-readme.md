@@ -455,7 +455,7 @@
 * gateway; `TKPWAET/WAEU STPH*FPLT`
 * passing `PAFG`
 * instead `STPHED`
-* bucketful `xxx bucketful`
+* bucketful `PWUBGT/-FL`
 * pitch `PEUFP`
 * pouring `PORG`
 * her. `HER TP-PL`
@@ -582,7 +582,7 @@
 * young `KWRUPBG`
 * creature! `KRAOEFP SKHRAPL`
 * plump `PHRUFRP`
-* mouthful--she `xxx mouthful H-PB H-PB SHE`
+* mouthful--she `PHO*UT/-FL H-PB H-PB SHE`
 * eat `AOET`
 * act `ABGT`
 * craftily, `KRAFT/HREU KW-BG`
@@ -730,7 +730,7 @@
 * asleep `A/HRAOEP`
 * snore `STPHAUR`
 * loud. `HROUD TP-PL`
-* huntsman `xxx huntsman`
+* huntsman `HUPBTS/PHA*PB`
 * 'How `AE KPA/HOU`
 * snoring! `STPHOERPBG SKHRAPL`
 * wants `WAPBTS`

@@ -325,7 +325,7 @@ The Tinder-Box
 'it': T
 'as': AZ
 'many': PHAEPB
-'pence': xxx pence
+'pence': P*/EPBS
 'as': AZ
 'you': U
 'please,': PHRES KW-BG
@@ -333,7 +333,7 @@ The Tinder-Box
 'are': R
 'only': OEPBL
 'copper': KOP/ER
-'pence;': xxx pence STPH*FPLT
+'pence;': P*/EPBS STPH*FPLT
 'but': PWUT
 'if': TP
 'you': U
@@ -1528,7 +1528,7 @@ The Tinder-Box
 '"What': KR-GS KPA/WHA
 'orders,': ORDZ KW-BG
 'master?"': PHAFRT H-F KR-GS
-'"Hallo,"': KR-GS xxx Hallo KW-BG KR-GS
+'"Hallo,"': KR-GS HA*L/KWRO KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'soldier;': SHRERPBL STPH*FPLT
@@ -1643,7 +1643,7 @@ The Tinder-Box
 'elegant': EL/TKPWAPBT
 'rooms,': RAOPLS KW-BG
 'and': SKP
-'reappeared': xxx reappeared
+'reappeared': RAOE/A/PAOERD
 'in': TPH
 'his': HEUS
 'fine': TPAOEUPB
@@ -2442,7 +2442,7 @@ The Tinder-Box
 'them,': THEPL KW-BG
 'and': SKP
 'a': AEU
-'shoemaker's': xxx shoemaker AES
+'shoemaker's': SHAOU/PHA*EURBG AES
 'boy,': PWOEU KW-BG
 'with': W
 'a': AEU
@@ -2476,9 +2476,9 @@ The Tinder-Box
 'the': -T
 'iron': AOEURPB
 'grating.': TKPWRAEUGT TP-PL
-'"Hallo,': KR-GS xxx Hallo KW-BG
+'"Hallo,': KR-GS HA*L/KWRO KW-BG
 'you': U
-'shoemaker's': xxx shoemaker AES
+'shoemaker's': SHAOU/PHA*EURBG AES
 'boy,': PWOEU KW-BG
 'you': U
 'need': TPHAOED
@@ -2534,7 +2534,7 @@ The Tinder-Box
 'foot': TPAOT
 'foremost."': TPOER/PHO*ES TP-PL KR-GS
 'The': KPA/-T
-'shoemaker's': xxx shoemaker AES
+'shoemaker's': SHAOU/PHA*EURBG AES
 'boy': PWOEU
 'liked': HRAOEUBGD
 'the': -T
