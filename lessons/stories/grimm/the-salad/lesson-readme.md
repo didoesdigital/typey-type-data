@@ -677,7 +677,7 @@
 * youngest `KWRUPBG/EFT`
 * lady) `HRA*ED PR*EPB`
 * stripes': `STRAOEUPS AE STPH-FPLT`
-* beaten. `PWAOET/EPB TP-PL`
+* beaten. `PWAET/*EPB TP-PL`
 * After `KPA/AF`
 * back `PWABG`
 * castle, `KAFL KW-BG`

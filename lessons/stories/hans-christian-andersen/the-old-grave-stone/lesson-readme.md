@@ -526,7 +526,7 @@
 * Through `KPA/THRU`
 * shall `SHAL`
 * obliterated `OB/HREUT/RAEUT/-D`
-* weather-beaten `WHR* H-PB PWAOET/EPB`
+* weather-beaten `WHR* H-PB PWAET/*EPB`
 * go `TKPW`
 * forth `TPO*RT`
 * future `TPAOURT`

@@ -2898,7 +2898,7 @@
 * application `PAEUBGS`
 * intelligent `SPWEPBLGT`
 * county `KOEUPBT`
-* beaten `PWAOET/EPB`
+* beaten `PWAET/*EPB`
 * presents `PREPBTS`
 * format `TPORPLT`
 * flow `TPHROE`

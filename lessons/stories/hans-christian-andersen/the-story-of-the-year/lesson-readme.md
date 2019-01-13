@@ -893,7 +893,7 @@
 * after `AF`
 * roar, `ROR KW-BG`
 * blades `PWHRAEUDZ`
-* beaten `PWAOET/EPB`
+* beaten `PWAET/*EPB`
 * swamped, `SWAPL/-PD KW-BG`
 * impossible `EUPL/POB`
 * ever `-FR`

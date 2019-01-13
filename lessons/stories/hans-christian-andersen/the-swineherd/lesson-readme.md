@@ -520,7 +520,7 @@
 * me," `PHE KW-BG KR-GS`
 * then. `THEPB TP-PL`
 * They `KPA/THE`
-* bidden, `xxx bidden KW-BG`
+* bidden, `PWEUD/TK*EPB KW-BG`
 * kissed `K*EUFD`
 * wonder `WOPBD`
 * crowd `KROUD`

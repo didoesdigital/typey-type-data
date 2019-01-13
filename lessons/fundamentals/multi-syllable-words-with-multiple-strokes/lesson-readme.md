@@ -3073,7 +3073,6 @@
 * awake `A/WAEUBG`
 * fury `TPAOU/REU`
 * vanished `SRAPB/EURBD`
-* beaten `PWAOET/EPB`
 * whisper `WEUS/PER`
 * altar `AL/TAR`
 * tenderness `TEPBD/ERPBS`

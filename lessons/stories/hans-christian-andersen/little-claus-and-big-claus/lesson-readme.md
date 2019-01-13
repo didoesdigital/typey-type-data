@@ -827,7 +827,7 @@
 * could, `KO KW-BG`
 * never `TPHEFR`
 * thoroughly `THORL`
-* beaten. `PWAOET/EPB TP-PL`
+* beaten. `PWAET/*EPB TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * house; `HOUS STPH*FPLT`
 * this; `TH STPH*FPLT`
@@ -1242,7 +1242,7 @@
 * haste," `HAEUFT KW-BG KR-GS`
 * "or `KR-GS OR`
 * you'll `UL`
-* beaten." `PWAOET/EPB TP-PL KR-GS`
+* beaten." `PWAET/*EPB TP-PL KR-GS`
 * "Put `KR-GS KPA/PUT`
 * stone," `STOEPB KW-BG KR-GS`
 * sink." `S*EUPBG TP-PL KR-GS`

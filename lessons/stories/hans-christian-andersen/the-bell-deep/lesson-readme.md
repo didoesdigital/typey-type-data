@@ -357,7 +357,7 @@
 * fro, `TPRO KW-BG`
 * I `EU`
 * might `PHAOEUT`
-* beaten `PWAOET/EPB`
+* beaten `PWAET/*EPB`
 * brains. `PWRAEUPBS TP-PL`
 * sat `SAT`
 * close `KHROES`

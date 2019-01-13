@@ -133,7 +133,7 @@
 * Drum `KPA/TKRUPL`
 * said—the `SAEUD EPL/TKA*RB -T`
 * Fire-drum, `KPA/TPAOEUR H-PB TKRUPL KW-BG`
-* beaten `PWAOET/EPB`
+* beaten `PWAET/*EPB`
 * fire `TPAOEUR`
 * town: `TOUPB STPH-FPLT`
 * "Red `KR-GS KPA/RED`
@@ -309,7 +309,7 @@
 * there'll `THR-L`
 * house, `HOUS KW-BG`
 * fire-drum `TPAOEUR H-PB TKRUPL`
-* beaten." `PWAOET/EPB TP-PL KR-GS`
+* beaten." `PWAET/*EPB TP-PL KR-GS`
 * "Look `KR-GS KPA/HRAOBG`
 * out `OUT`
 * for `TPOR`

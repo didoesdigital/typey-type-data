@@ -349,7 +349,7 @@
 * complained `KPHRAEUPBD`
 * rascal `RAS/K-L`
 * robbed `ROBD`
-* beaten `PWAOET/EPB`
+* beaten `PWAET/*EPB`
 * bargain; `PWARG/AEUPB STPH*FPLT`
 * carried `KAERD`
 * back `PWABG`

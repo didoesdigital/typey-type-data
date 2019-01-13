@@ -1179,7 +1179,7 @@
 * does `TKOS`
 * matter: `PHAERT STPH-FPLT`
 * killed `KEULD`
-* beaten `PWAOET/EPB`
+* beaten `PWAET/*EPB`
 * hens, `HEPB/-S KW-BG`
 * maiden `PHAEUD/*EPB`
 * feeds `TPAOEDZ`

@@ -516,7 +516,7 @@
 * gold `TKPWOELD`
 * shovels.' `SHOFLS TP-PL AE`
 * brought `PWRAUT`
-* bidden `xxx bidden`
+* bidden `PWEUD/TK*EPB`
 * say `SAEU`
 * from `TPR`
 * whence `WHEPBS`

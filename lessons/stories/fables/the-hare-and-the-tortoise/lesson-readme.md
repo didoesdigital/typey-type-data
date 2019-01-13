@@ -17,7 +17,7 @@
 * never `TPHEFR`
 * yet `KWRET`
 * been `PW-PB`
-* beaten," `PWAOET/EPB KW-BG KR-GS`
+* beaten," `PWAET/*EPB KW-BG KR-GS`
 * said `SAEUD`
 * he, `HE KW-BG`
 * "when `KR-GS WHEPB`

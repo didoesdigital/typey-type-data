@@ -405,7 +405,7 @@
 * autumn, `AU/UPL KW-BG`
 * leaves `HREFS`
 * like `HRAOEUBG`
-* beaten `PWAOET/EPB`
+* beaten `PWAET/*EPB`
 * copper `KOP/ER`
 * plates, `PHRAEUTS KW-BG`
 * birds `PWEURDZ`

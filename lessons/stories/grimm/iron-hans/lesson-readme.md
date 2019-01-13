@@ -305,7 +305,7 @@
 * man, `PHAPB KW-BG`
 * away, `A/WAEU KW-BG`
 * shall `SHAL`
-* beaten!' `PWAOET/EPB SKHRAPL AE`
+* beaten!' `PWAET/*EPB SKHRAPL AE`
 * turned `TURPBD`
 * took `TAOBG`
 * up, `UP KW-BG`
@@ -513,8 +513,8 @@
 * king's `KEUPBG/AES`
 * left `HREFT`
 * walked `WAUBGD`
-* beaten `PWAOET/EPB`
-* unbeaten `UPB/PWAOET/*EPB`
+* beaten `PWAET/*EPB`
+* unbeaten `UPB/PWAET/*EPB`
 * paths `PA*TS`
 * ever `-FR`
 * onwards `OPB/WARDZ`
