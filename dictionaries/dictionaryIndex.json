@@ -130,6 +130,16 @@
     "path": "/dictionaries/didoesdigital/modifiers-single-stroke.json"
   },
   {
+    "author": "JeremyGG",
+    "title": "Phrasing Dictionary 18 Jan 2019",
+    "subtitle": "",
+    "category": "Individual",
+    "subcategory": "Phrasing",
+    "tagline": "JeremyGG’s auto-generated phrasing dictionary lets you write sentences like “I didn’t know that” or “you don’t really care about” in one stroke using a system based on frequency data gathered from Datamuse and from experience. It’s designed to have almost no conflicts with existing Plover theory.",
+    "link": "https://github.com/JeremyGG/plover_phrasing",
+    "path": "/dictionaries/individual/jeremygg-phrs-18-jan-2019.json"
+  },
+  {
     "author": "Typey Type",
     "title": "One-syllable words with simple keys",
     "subtitle": "",
