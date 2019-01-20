@@ -3,7 +3,7 @@
 * ! `SKHRAPL`
 * " `KR-GS`
 * # `HA*ERB`
-* $ `TK*PL`
+* $ `TK-PL`
 * % `P*ERS`
 * & `SP-PBD`
 * ' `AE`
