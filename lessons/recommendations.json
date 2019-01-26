@@ -620,4 +620,86 @@
       "target": 193
     }
   ]
+  , "practiceCourse": [
+    {
+      "path": "/lessons/stories/fables/the-two-crabs/lesson.txt",
+      "lessonTitle": "The Two Crabs",
+      "target": 62
+    },
+    {
+      "path": "/lessons/stories/fables/the-serpent-and-the-file/lesson.txt",
+      "lessonTitle": "The Serpent and the File",
+      "target": 68
+    },
+    {
+      "path": "/lessons/stories/fables/the-wolf-and-the-kid/lesson.txt",
+      "lessonTitle": "The Wolf and the Kid",
+      "target": 72
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-mask/lesson.txt",
+      "lessonTitle": "The Fox and the Mask",
+      "target": 75
+    },
+    {
+      "path": "/lessons/stories/fables/the-bald-man-and-the-fly/lesson.txt",
+      "lessonTitle": "The Bald Man and the Fly",
+      "target": 77
+    },
+    {
+      "path": "/lessons/stories/fables/the-old-woman-and-the-wine-jar/lesson.txt",
+      "lessonTitle": "The Old Woman and the Wine-Jar",
+      "target": 77
+    },
+    {
+      "path": "/lessons/stories/fables/the-eagle-and-the-arrow/lesson.txt",
+      "lessonTitle": "The Eagle and the Arrow",
+      "target": 81
+    },
+    {
+      "path": "/lessons/stories/fables/the-man-and-the-wood/lesson.txt",
+      "lessonTitle": "The Man and the Wood",
+      "target": 83
+    },
+    {
+      "path": "/lessons/stories/fables/the-fisher-and-the-little-fish/lesson.txt",
+      "lessonTitle": "The Fisher and the Little Fish",
+      "target": 85
+    },
+    {
+      "path": "/lessons/stories/fables/the-trumpeter-taken-prisoner/lesson.txt",
+      "lessonTitle": "The Trumpeter Taken Prisoner",
+      "target": 85
+    },
+    {
+      "path": "/lessons/stories/fables/the-two-pots/lesson.txt",
+      "lessonTitle": "The Two Pots",
+      "target": 92
+    },
+    {
+      "path": "/lessons/stories/fables/the-cock-and-the-pearl/lesson.txt",
+      "lessonTitle": "The Cock and the Pearl",
+      "target": 95
+    },
+    {
+      "path": "/lessons/stories/fables/the-fisher/lesson.txt",
+      "lessonTitle": "The Fisher",
+      "target": 96
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-lion/lesson.txt",
+      "lessonTitle": "The Fox and the Lion",
+      "target": 97
+    },
+    {
+      "path": "/lessons/stories/fables/hercules-and-the-waggoner/lesson.txt",
+      "lessonTitle": "Hercules and the Waggoner",
+      "target": 98
+    },
+    {
+      "path": "/lessons/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+      "lessonTitle": "Project Gutenberg sentences using top 100 words",
+      "target": 193
+    }
+  ]
 }
