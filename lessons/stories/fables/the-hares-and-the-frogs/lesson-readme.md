@@ -1,7 +1,7 @@
 # The Hares and the Frogs
 
 * The `KPA/-T`
-* Hares `xxx Hares`
+* Hares `KPA/HA*ER/-S`
 * were `WR`
 * so `SO`
 * persecuted `PERS/KAOUT/-D`
@@ -72,7 +72,7 @@
 * "Truly," `KR-GS KPA/TRAOUL KW-BG KR-GS`
 * said `SAEUD`
 * one `WUPB`
-* Hares, `xxx Hares KW-BG`
+* Hares, `KPA/HA*ER/-S KW-BG`
 * "things `KR-GS THEUPBGS`
 * are `R`
 * bad `PWAD`
