@@ -224,6 +224,11 @@
       "path": "/lessons/drills/top-10000-english-words/lesson.txt",
       "lessonTitle": "Top 10000 English words",
       "target": 10000
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 5000
     }
   ]
   , "revisionCourse": [
