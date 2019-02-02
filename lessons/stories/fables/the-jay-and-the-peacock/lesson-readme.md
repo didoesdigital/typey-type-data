@@ -7,7 +7,7 @@
 * a `AEU`
 * yard `KWRARD`
 * where `W-R`
-* Peacocks `xxx Peacocks`
+* Peacocks `KPA/PAE/KOBG/-S`
 * used `AOUFD`
 * to `TO`
 * walk, `WAUBG KW-BG`
@@ -35,7 +35,7 @@
 * strutted `STRUT/-D`
 * down `TKOUPB`
 * towards `TORDZ`
-* Peacocks. `xxx Peacocks TP-PL`
+* Peacocks. `KPA/PAE/KOBG/-S TP-PL`
 * When `KPA/WHEPB`
 * he `HE`
 * came `KAEUPL`

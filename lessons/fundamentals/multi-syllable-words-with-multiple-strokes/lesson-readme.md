@@ -4454,7 +4454,7 @@
 * ransom `RAPB/SPH`
 * solicitude `SHREUS/TAOUD`
 * effectual `EFBG/KHUL`
-* contemptuous `KOPB/TEPL/-RBS`
+* contemptuous `KAUPB/TEPLT/WOUS`
 * felicity `TPHREUS/TEU`
 * outset `AOUT/SET`
 * impelled `EUPL/PELD`
@@ -4607,7 +4607,7 @@
 * disgraceful `TKEUZ/TKPWRAEUS/-FL`
 * redemption `RE/TKEPLS`
 * unfinished `UPB/TPERPD/EURBD`
-* impetuous `EUPL/PEFP/WOUS`
+* impetuous `EUPL/PET/WOUS`
 * oblivion `OE/PWHREUF/KWROPB`
 * abound `A/PWOUPBD`
 * frivolous `TPREUFL/OUS`
@@ -5105,7 +5105,6 @@
 * ordinances `ORD/TPHAPBS/-S`
 * indistinct `EUPB/TKEUS/TEUPBG`
 * reddish `RED/EURB`
-* sumptuous `SUPL/WUS`
 * indefinitely `EUPB/TKEFPBLT`
 * intoxication `SPWOBGS/KAEUGS`
 * aghast `A/TKPWAFT`
@@ -5178,7 +5177,7 @@
 * twenty-six `TWEPBT/H-PB/SEUBGS`
 * impotent `*EUPL/TEPBT`
 * acquitted `A/KWEUT/-D`
-* tumultuous `TU/PHUL/KHOUS`
+* tumultuous `TUPL/ULT/WOUS`
 * palpable `PAP/-BL`
 * apprentice `A/PEPBT/EUS`
 * godly `TKPWOD/HREU`

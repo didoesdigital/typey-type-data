@@ -329,7 +329,7 @@
 * inclination `EUPBG/TPHAEUGS`
 * me?' `PHE H-F AE`
 * looked `HRAOBGD`
-* contemptuously `KOPB/TEPL/-RBS/HREU`
+* contemptuously `KAUPB/TEPLT/WOUS/HREU`
 * 'You `AE KPA/U`
 * ragamuffin! `RAG/PHUFPB SKHRAPL`
 * You `KPA/U`

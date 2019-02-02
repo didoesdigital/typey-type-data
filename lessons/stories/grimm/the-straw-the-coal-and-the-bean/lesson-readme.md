@@ -200,7 +200,7 @@
 * other, `OER KW-BG`
 * coal, `KOEL KW-BG`
 * an `APB`
-* impetuous `EUPL/PEFP/WOUS`
+* impetuous `EUPL/PET/WOUS`
 * disposition, `TK*EUPGS KW-BG`
 * tripped `TREUPD`
 * quite `KWAOEUT`

@@ -1561,6 +1561,7 @@
 * melting `PHELT/-G`
 * delicately `TKEL/KAT/HREU`
 * solicitude `SHREUS/TAOUD`
+* contemptuous `KAUPB/TEPLT/WOUS`
 * felicity `TPHREUS/TEU`
 * obstinacy `OBS/TEUPB/SEU`
 * Ulysses `AOU/HREUS/ES`
@@ -1605,7 +1606,7 @@
 * imperious `EUPL/PER/KWROUS`
 * blooming `PWHRAOPL/-G`
 * disgraceful `TKEUZ/TKPWRAEUS/-FL`
-* impetuous `EUPL/PEFP/WOUS`
+* impetuous `EUPL/PET/WOUS`
 * oblivion `OE/PWHREUF/KWROPB`
 * carelessness `KAEURLS/-PBS`
 * affectation `AFBG/TAEUGS`
@@ -1796,6 +1797,7 @@
 * quickness `KWEUBG/-PBS`
 * adversity `AD/SRERS/TEU`
 * acquitted `A/KWEUT/-D`
+* tumultuous `TUPL/ULT/WOUS`
 * palpable `PAP/-BL`
 * godly `TKPWOD/HREU`
 * Davy `TKAEUF/KWREU`

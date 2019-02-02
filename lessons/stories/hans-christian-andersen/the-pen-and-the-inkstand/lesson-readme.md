@@ -222,7 +222,7 @@
 * me." `PHE TP-PL KR-GS`
 * "Inkpot!" `KR-GS xxx Inkpot SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
-* contemptuously. `KOPB/TEPL/-RBS/HREU TP-PL`
+* contemptuously. `KAUPB/TEPLT/WOUS/HREU TP-PL`
 * Late `KPA/HRAEUT`
 * evening `AOEPBG`
 * home. `HOEPL TP-PL`

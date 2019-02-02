@@ -4,7 +4,7 @@
 * fine `TPAOEUPB`
 * day `TKAEU`
 * two `TWO`
-* Crabs `xxx Crabs`
+* Crabs `KPA/KRAB/-S`
 * came `KAEUPL`
 * out `OUT`
 * from `TPR`

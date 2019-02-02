@@ -7959,7 +7959,7 @@
 * shiver `SHEUFR`
 * gal `TKPWA*L`
 * wed `WED`
-* contemptuous `KOPB/TEPL/-RBS`
+* contemptuous `KAUPB/TEPLT/WOUS`
 * plough `PHROU/A*U`
 * snakes `STPHAEUBGS`
 * felicity `TPHREUS/TEU`
@@ -8347,7 +8347,7 @@
 * embassy `EPL/PWAES`
 * unfinished `UPB/TPERPD/EURBD`
 * nasty `TPHAS/TEU`
-* impetuous `EUPL/PEFP/WOUS`
+* impetuous `EUPL/PET/WOUS`
 * cemetery `SEPL/TER`
 * oblivion `OE/PWHREUF/KWROPB`
 * prohibited `PROEUBT/-D`
@@ -9637,7 +9637,7 @@
 * fret `TPRET`
 * peeping `PAOEPG`
 * buck `PWUBG`
-* sumptuous `SUPL/WUS`
+* sumptuous `S*UPLT/WOUS`
 * indefinitely `EUPB/TKEFPBLT`
 * reliance `RE/HRAOEUPBS`
 * Panama `PAPB/PHA`
@@ -9799,7 +9799,7 @@
 * smite `SPHAOEUT`
 * acquitted `A/KWEUT/-D`
 * OS `O*S`
-* tumultuous `TU/PHUL/KHOUS`
+* tumultuous `TUPL/ULT/WOUS`
 * barge `PWARPBLG`
 * palpable `PAP/-BL`
 * apprentice `A/PEPBT/EUS`

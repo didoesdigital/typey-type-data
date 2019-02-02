@@ -791,7 +791,7 @@
 * absence `AB/SEPBS`
 * caused `KAUFD`
 * commotion. `KPHOEGS TP-PL`
-* sumptuous `SUPL/WUS`
+* sumptuous `S*UPLT/WOUS`
 * banquet `PWAPB/KWET`
 * prepared, `PRAOEPD KW-BG`
 * inconsolable. `EUPB/KAUPBS/HRABL TP-PL`
@@ -979,7 +979,7 @@
 * dignified `TKEUG/TPHEU/TPAOEUD`
 * mien, `PH*/*EU/*E/TPH* KW-BG`
 * divinity. `TKWEUPBT TP-PL`
-* impetuosity `xxx impetuosity`
+* impetuosity `EUPL/PET/WOUS/TEU`
 * feelings `TPAOELGS`
 * force `TPORS`
 * door, `TKAOR KW-BG`
