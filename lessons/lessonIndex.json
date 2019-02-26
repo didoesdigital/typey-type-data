@@ -321,6 +321,15 @@
     "subcategory": "",
     "path": "/drills/homophones/lesson.txt",
     "wordCount": 999,
+    "suggestedNext": "/drills/pronouns/lesson.txt"
+  },
+  {
+    "title": "Pronouns",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns/lesson.txt",
+    "wordCount": 81,
     "suggestedNext": "/drills/apostrophes/lesson.txt"
   },
   {
@@ -330,14 +339,6 @@
     "subcategory": "",
     "path": "/drills/apostrophes/lesson.txt",
     "wordCount": 421,
-    "suggestedNext": "/drills/pronouns/lesson.txt"
-  },
-  {
-    "title": "Pronouns",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/pronouns/lesson.txt",
     "suggestedNext": "/drills/pronouns-continued/lesson.txt"
   },
   {
