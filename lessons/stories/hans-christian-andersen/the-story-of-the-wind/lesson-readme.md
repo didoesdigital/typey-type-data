@@ -1284,7 +1284,7 @@
 * entrance, `SPWRAPBS KW-BG`
 * broom, `PWRAOPL KW-BG`
 * grand `TKPWRAPBD`
-* sweeping-out `SWAOEPG H-PB OUT`
+* sweeping-out `SWAOEPG SKWRO*UT`
 * really `R-L`
 * was; `WAS STPH*FPLT`
 * hard `HARD`

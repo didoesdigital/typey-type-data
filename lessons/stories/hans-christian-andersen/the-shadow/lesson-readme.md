@@ -458,7 +458,7 @@
 * might `PHAOEUT`
 * straight `STRAEUT`
 * half-opened `HAF H-PB OEPD`
-* re-entered `R*/*E H-PB SPWR-D`
+* re-entered `R*E SPWR-D`
 * let `HRET`
 * fall. `TPAUL TP-PL`
 * next `TPHEGT`
@@ -1288,7 +1288,7 @@
 * admirably, `AD/PHEUR/PWHREU KW-BG`
 * also `HR-S`
 * good. `TKPWAOD TP-PL`
-* well-grounded `WEL H-PB TKPWROUPBD/-D`
+* well-grounded `W*EL TKPWROUPBD/-D`
 * knowledge? `TPHOPBLG H-F`
 * important `PORPB`
 * question, `KWE KW-BG`

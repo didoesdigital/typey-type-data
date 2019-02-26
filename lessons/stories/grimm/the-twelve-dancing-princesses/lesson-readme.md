@@ -335,7 +335,7 @@
 * sank `SA*PBG`
 * into `TPHAO`
 * floor `TPHRAOR`
-* trap-door `TRAP H-PB TKAOR`
+* trap-door `TRAP TKAO*R`
 * flew `TPHRAOU`
 * saw `SAU`
 * them `THEPL`

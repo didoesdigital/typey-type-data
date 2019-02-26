@@ -1027,7 +1027,7 @@ The Shadow
 'the': -T
 'learned': HRERPBD
 'man': PHAPB
-'re-entered': R*/*E H-PB SPWR-D
+'re-entered': R*E SPWR-D
 'his': HEUS
 'own': OEPB
 'room,': RAOPL KW-BG
@@ -4126,7 +4126,7 @@ The Shadow
 'But': KPA/PWUT
 'has': HAS
 'he': HE
-'well-grounded': WEL H-PB TKPWROUPBD/-D
+'well-grounded': W*EL TKPWROUPBD/-D
 'knowledge?': TPHOPBLG H-F
 'that': THA
 'is': S

@@ -469,7 +469,7 @@
 * together. `TOGT TP-PL`
 * swans `SWAPBS`
 * sing `SEUPBG`
-* Christmas-time `KREUS/PHAS H-PB TAOEUPL`
+* Christmas-time `KREUS/PHAS TA*EPL`
 * water, `WAUR KW-BG`
 * while `WHAOEUL`
 * hall `HAUL`
@@ -542,8 +542,8 @@
 * yard, `KWRARD KW-BG`
 * alder `AULD/*ER`
 * grove; `TKPWROEF STPH*FPLT`
-* six-sided `SEUBGS H-PB SAOEUD/-D`
-* poultry-yard `POL/TREU H-PB KWRARD`
+* six-sided `SEUBGS SAO*EUD/-D`
+* poultry-yard `POL/TREU KWRA*RD`
 * duck-yard. `TKUBG H-PB KWRARD TP-PL`
 * In `KPA/TPH`
 * middle `PH*EULD`
@@ -1411,7 +1411,7 @@
 * were. `WR TP-PL`
 * happened `HAPD`
 * night. `TPHAOEUT TP-PL`
-* To-day `KPA/TO H-PB TKAEU`
+* To-day `KPA/TO TKA*EU`
 * hand—but `HAPBD EPL/TKA*RB PWUT`
 * how? `HOU H-F`
 * Ah, `KPA/HA*E KW-BG`

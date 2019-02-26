@@ -450,7 +450,7 @@
 * naming `TPHAEUPL/-G`
 * glad `TKPWHRAD`
 * too `TAO`
-* worn-out `WORPB H-PB OUT`
+* worn-out `WORPB SKWRO*UT`
 * make `PHAEUBG`
 * proper `PROR`
 * choice. `KHOEUS TP-PL`
@@ -917,7 +917,7 @@
 * smiling `SPHAOEULG`
 * herself, `H*ERS KW-BG`
 * illumination `HRUPL/TPHAEUGS`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * honor `HO*RPB`
 * man." `PHAPB TP-PL KR-GS`
 * rattled `RAT/-LD`

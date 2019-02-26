@@ -350,7 +350,7 @@
 * color `KROR`
 * wash.' `WARB TP-PL AE`
 * This `KPA/TH`
-* Pipe-head `KPA/PAOEUP H-PB HED`
+* Pipe-head `KPA/PAOEUP H*ED`
 * who `WHO`
 * 'Mr. `AE PH*P/R* TP-PL`
 * water-tight, `WAUR H-PB TAOEUT KW-BG`

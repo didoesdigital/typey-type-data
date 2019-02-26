@@ -81,7 +81,7 @@
 * before `PW-F`
 * but `PWUT`
 * clean `KHAOEPB`
-* well-mended `WEL H-PB PHEPBD/-D`
+* well-mended `W*EL PHEPBD/-D`
 * clothes, `KHRO*ETS KW-BG`
 * with `W`
 * heavy `HOEUF`
@@ -317,7 +317,7 @@
 * herself, `H*ERS KW-BG`
 * towards `TORDZ`
 * them. `THEPL TP-PL`
-* miserable-looking `PHEUZ/-BL H-PB HRAOG`
+* miserable-looking `PHEUZ/-BL SKWRAOG`
 * object, `OBT KW-BG`
 * lame `HRAEUPL`
 * one `WUPB`
@@ -443,7 +443,7 @@
 * "The `KR-GS KPA/-T`
 * great `TKPWRAET`
 * dinner-party `TKEURPB H-PB PAERT`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * off, `OF KW-BG`
 * news `TPHUS`
 * too `TAO`

@@ -424,7 +424,7 @@
 * enchantment `EPB/KHAPLT`
 * bitterly, `PWEURLT KW-BG`
 * heart `HART`
-* well-nigh `WEL H-PB TPHAOEU`
+* well-nigh `W*EL TPHAOEU`
 * burst. `PWUFRT TP-PL`
 * They `KPA/THE`
 * leave `HREF`

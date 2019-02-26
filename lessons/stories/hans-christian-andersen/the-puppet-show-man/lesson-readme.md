@@ -105,7 +105,7 @@
 * once, `WUPBS KW-BG`
 * person `PERPB`
 * black, `PWHRABG KW-BG`
-* student-like `STAUPB H-PB HRAOEUBG`
+* student-like `STAUPB SKWRAOEUBG`
 * appearance, `PAOERPBS KW-BG`
 * entered `SPWR-D`
 * room, `RAOPL KW-BG`

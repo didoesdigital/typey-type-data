@@ -557,7 +557,7 @@
 * safely `SAEUFL`
 * covered, `KOFRD KW-BG`
 * arrows `AR/OES`
-* mist-like `PHEUFT H-PB HRAOEUBG`
+* mist-like `PHEUFT SKWRAOEUBG`
 * shape `SHAEUP`
 * lightly `HRAOEULT`
 * formed, `TPORPLD KW-BG`

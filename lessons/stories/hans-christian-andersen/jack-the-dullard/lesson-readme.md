@@ -502,7 +502,7 @@
 * forgotten `TPORGTD`
 * altogether; `HR-GT STPH*FPLT`
 * boards `PWORDZ`
-* re-echo `R*/*E H-PB EBG/OE`
+* re-echo `R*E EBG/KWRO`
 * footsteps, `TPAOT/STEPS KW-BG`
 * ceiling `KAOELG`
 * hall `HAUL`

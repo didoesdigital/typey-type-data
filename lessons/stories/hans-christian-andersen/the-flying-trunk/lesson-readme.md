@@ -629,7 +629,7 @@
 * thought, `THAUT KW-BG`
 * 'If `AE KPA/TP`
 * crown `KROUPB`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * me `PHE`
 * to-morrow.' `TO H-PB PHOR/ROE TP-PL AE`
 * "'Now, `KR-GS AE KPA/TPHOU KW-BG`
@@ -787,7 +787,7 @@
 * shalt `SHALT`
 * thou `THO*U`
 * family. `TPAEPL TP-PL`
-* wedding-day `WEGD H-PB TKAEU`
+* wedding-day `WEGD TKA*EU`
 * fixed, `TPEUFD KW-BG`
 * and, `SKP KW-BG`
 * before, `PW-F KW-BG`

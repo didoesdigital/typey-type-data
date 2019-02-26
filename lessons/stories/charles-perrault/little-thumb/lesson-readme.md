@@ -514,7 +514,7 @@
 * some `SOPL`
 * disappointed; `TKEUS/POEUPBTD STPH*FPLT`
 * found `TPOUPBD`
-* house-door `HOUS H-PB TKAOR`
+* house-door `HOUS TKAO*R`
 * double-locked, `TKUBL H-PB HROBGD KW-BG`
 * stand `STAPBD`
 * given `TKPWEUFPB`
@@ -946,7 +946,7 @@
 * first `TPEUFRT`
 * expedient `EBGS/PAOED/KWREPBT`
 * women `WEUPL`
-* such-like `SUFP H-PB HRAOEUBG`
+* such-like `SUFP SKWRAOEUBG`
 * cases. `KAEUSZ TP-PL`
 * fearing `TPAOERG`
 * ordered, `ORD/-D KW-BG`

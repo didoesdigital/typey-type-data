@@ -379,5 +379,5 @@
 * may `PHAE`
 * purchase `PUFP`
 * share `SHAEUR`
-* tan-yard `TAPB H-PB KWRARD`
+* tan-yard `TAPB KWRA*RD`
 * window. `WOEUPBD TP-PL`

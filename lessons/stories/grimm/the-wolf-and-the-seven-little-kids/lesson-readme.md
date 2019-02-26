@@ -101,7 +101,7 @@
 * before `PW-F`
 * someone `SPH-PB`
 * knocked `TPHOBGD`
-* house-door `HOUS H-PB TKAOR`
+* house-door `HOUS TKAO*R`
 * called: `KAULD STPH-FPLT`
 * 'Open `AE KPA/OEP`
 * door, `TKAOR KW-BG`

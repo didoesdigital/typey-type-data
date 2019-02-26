@@ -612,7 +612,7 @@
 * sing `SEUPBG`
 * write `WREU`
 * also `HR-S`
-* winter-time `WEURPBT H-PB TAOEUPL`
+* winter-time `WEURPBT TA*EPL`
 * fool. `TPAOL TP-PL`
 * understood `*URPBD`
 * this, `TH KW-BG`

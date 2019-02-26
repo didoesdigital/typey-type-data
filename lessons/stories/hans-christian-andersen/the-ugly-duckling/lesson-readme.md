@@ -443,7 +443,7 @@
 * don't `TKOEPBT`
 * turn `TURPB`
 * toes, `TO*ES KW-BG`
-* well-bred `WEL H-PB PWRED`
+* well-bred `W*EL PWRED`
 * spreads `SPREDZ`
 * feet `TPAOET`
 * wide `WAOEUD`

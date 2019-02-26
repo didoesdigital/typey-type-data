@@ -723,7 +723,7 @@
 * worked `WORBGD`
 * ship-yard, `SHEUP H-PB KWRARD KW-BG`
 * wrapped `WRAPD`
-* worn-out `WORPB H-PB OUT`
+* worn-out `WORPB SKWRO*UT`
 * shawl, `SHAUL KW-BG`
 * dinner `TKEURPB`
 * This `KPA/TH`
@@ -783,7 +783,7 @@
 * deliverer, `THREUFR/*ER KW-BG`
 * William `WOEUPL`
 * Tell, `KPA/TEL KW-BG`
-* heaven-inspired `HEFPB H-PB EUPB/SPAOEURD`
+* heaven-inspired `HEFPB SKWREUPB/SPAOEUR/-D`
 * Maid `KPA/PHAEUD`
 * Orleans. `AUR/HRAOEPB/-S TP-PL`
 * sunny `SAOUPB`

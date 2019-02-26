@@ -205,7 +205,7 @@
 * tripped `TREUPD`
 * quite `KWAOEUT`
 * boldly `PWOLD/HREU`
-* newly-built `TPHAOUL H-PB PWEULT`
+* newly-built `TPHAOUL PW*EULT`
 * bridge. `PWREUPBLG TP-PL`
 * But `KPA/PWUT`
 * when `WHEPB`

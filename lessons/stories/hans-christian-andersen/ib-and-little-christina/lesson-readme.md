@@ -385,7 +385,7 @@
 * house, `HOUS KW-BG`
 * nothing `TPHOG`
 * farm, `TPARPL KW-BG`
-* scanty-bearing `SKAPBT/TEU H-PB PWAERG`
+* scanty-bearing `SKAPBT/TEU PWA*ERPBG`
 * fields, `TPAOELDZ KW-BG`
 * be `-B`
 * seen `SAOEPB`
@@ -1295,7 +1295,7 @@
 * Not `KPA/TPHOT`
 * creature `KRAOEFP`
 * seen. `SAOEPB TP-PL`
-* wretched-looking `WREFPD H-PB HRAOG`
+* wretched-looking `WREFPD SKWRAOG`
 * houses, `HO*UFS KW-BG`
 * tell `TEL`
 * wanted; `WAPBTD STPH*FPLT`

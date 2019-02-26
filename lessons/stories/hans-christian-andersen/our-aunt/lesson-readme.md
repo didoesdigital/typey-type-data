@@ -374,7 +374,7 @@
 * acts, `ABGZ KW-BG`
 * pronounce `PROUPBS`
 * sensible, `SEPBS/-BL KW-BG`
-* well-written `WEL H-PB WREUPB`
+* well-written `W*EL WREUPB`
 * resting `REFT/-G`
 * which `WEU`
 * performed `PORPLD`

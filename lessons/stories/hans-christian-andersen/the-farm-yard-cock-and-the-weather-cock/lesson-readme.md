@@ -49,7 +49,7 @@
 * cucumber `KAOUBG/PWER`
 * conscious `K-RBS`
 * being `-BG`
-* hot-bed `HOT H-PB PWED`
+* hot-bed `HOT PW*ED`
 * plant. `PHRAPBT TP-PL`
 * "One `KR-GS KPA/WUPB`
 * is `S`
@@ -325,7 +325,7 @@
 * once, `WUPBS KW-BG`
 * cry `KRAOEU`
 * out `OUT`
-* poultry-yard `POL/TREU H-PB KWRARD`
+* poultry-yard `POL/TREU KWRA*RD`
 * world!" `WORLD SKHRAPL KR-GS`
 * chicks `KHEUBGS`
 * clucked `KHRUBG/-D`

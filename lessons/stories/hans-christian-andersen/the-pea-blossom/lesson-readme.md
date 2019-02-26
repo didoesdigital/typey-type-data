@@ -265,7 +265,7 @@
 * small `SPHAL`
 * pieces `PAOEFS`
 * perform `PORPL`
-* such-like `SUFP H-PB HRAOEUBG`
+* such-like `SUFP SKWRAOEUBG`
 * work, `WORBG KW-BG`
 * she `SHE`
 * strong `STROPBG`

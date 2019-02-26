@@ -983,7 +983,7 @@
 * board `PWAORD`
 * saved, `SAFD KW-BG`
 * blankets; `PWHRAPB/KETS STPH*FPLT`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * invited `EUPB/SRAOEUTD`
 * comfortable `K-BL`
 * encounter `EPB/KOURPBT`

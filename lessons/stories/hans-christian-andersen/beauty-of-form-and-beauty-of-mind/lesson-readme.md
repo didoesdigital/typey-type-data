@@ -853,7 +853,7 @@
 * same `SAEUPL`
 * melodious `PHE/HROE/TKOUS`
 * voice, `SROEUS KW-BG`
-* bell-like `PWEL H-PB HRAOEUBG`
+* bell-like `PWEL SKWRAOEUBG`
 * tones. `TOEPBS TP-PL`
 * mental `PHEPBL`
 * relief `RE/HRAOEF`
@@ -973,7 +973,7 @@
 * advantage. `SRAPBG TP-PL`
 * acknowledged `ABG/TPHOPBLGD`
 * housewife, `HOUS/WAOEUF KW-BG`
-* well-informed `WEL H-PB TPH-FD`
+* well-informed `W*EL TPH-FD`
 * accomplished, `PHREURBD KW-BG`
 * hardly `HA*RLD`
 * limited `HREUPLTD`

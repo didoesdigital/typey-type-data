@@ -311,7 +311,7 @@
 * words, `WORDZ KW-BG`
 * history `HEUFRT`
 * potato, `POE/TAEUT KW-BG`
-* every-day `EF H-PB TKAEU`
+* every-day `EF TKA*EU`
 * story `STOER`
 * ten `TEPB`
 * parts, `PARTS KW-BG`

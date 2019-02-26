@@ -7,7 +7,7 @@
 * manor-house `PHA/TPHOR H-PB HOUS`
 * was `WAS`
 * beautiful, `PWAOUFL KW-BG`
-* well-kept `WEL H-PB KEPT`
+* well-kept `W*EL KEPT`
 * garden, `TKPWA*RPB KW-BG`
 * with `W`
 * rare `RAEUR`

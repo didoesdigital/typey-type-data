@@ -514,7 +514,7 @@
 * crept `KREPT`
 * warm `WARPL`
 * corner, `KRORPB KW-BG`
-* home-like `HOEPL H-PB HRAOEUBG`
+* home-like `HOEPL SKWRAOEUBG`
 * comfortable. `K-BL TP-PL`
 * again, `TKPWEPB KW-BG`
 * jam `SKWRAPL`

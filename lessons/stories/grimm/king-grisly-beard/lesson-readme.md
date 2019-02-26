@@ -145,7 +145,7 @@
 * how `HOU`
 * his `HEUS`
 * behaved, `PWHAEUFD KW-BG`
-* ill-treated `EUL H-PB TRAETD`
+* ill-treated `EUL TRAO*ETD`
 * guests; `TKPWEFTS STPH*FPLT`
 * vowed `SROUD`
 * that, `THA KW-BG`
@@ -177,7 +177,7 @@
 * come `KOPL`
 * in.' `TPH TP-PL AE`
 * brought `PWRAUT`
-* dirty-looking `TKOEURT H-PB HRAOG`
+* dirty-looking `TKOEURT SKWRAOG`
 * fellow; `TPO*EUL STPH*FPLT`
 * sung `SUPBG`
 * before `PW-F`

@@ -570,7 +570,7 @@
 * engaged `EPB/TKPWAEUBLGD`
 * married,—but, `PHAERD KW-BG EPL/TKA*RB PWUT KW-BG`
 * story `STOER`
-* every-day `EF H-PB TKAEU`
+* every-day `EF TKA*EU`
 * life; `HRAOEUF STPH*FPLT`
 * rest `REFT`
 * widow, `WO*EUD KW-BG`

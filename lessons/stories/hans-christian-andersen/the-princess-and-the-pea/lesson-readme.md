@@ -134,7 +134,7 @@
 * twenty `TWEPBT`
 * mattresses `PHAT/TRES/-S`
 * pea, `PAE KW-BG`
-* eider-down `AOEUD/*ER H-PB TKOUPB`
+* eider-down `AOEUD/*ER TKO*UPB`
 * beds `PWEDZ`
 * top `TOP`
 * mattresses. `PHAT/TRES/-S TP-PL`

@@ -295,7 +295,7 @@
 * piece `PAOES`
 * field `TPAOELD`
 * fence. `TPEPBS TP-PL`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * shines `SHAOEUPBS`
 * here—the `HAOER EPL/TKA*RB -T`
 * warm, `WARPL KW-BG`

@@ -174,7 +174,7 @@
 * prevailed `PRAOE/SRAEULD`
 * upon `POPB`
 * book `PWAOBG`
-* dried-up `TKRAOEUD H-PB UP`
+* dried-up `TKRAOEUD SKWR*UP`
 * plants `PHRAPBTS`
 * it, `T KW-BG`
 * would `WO`

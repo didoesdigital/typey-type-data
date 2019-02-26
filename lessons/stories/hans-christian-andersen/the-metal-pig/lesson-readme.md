@@ -85,7 +85,7 @@
 * half-naked `HAF H-PB TPHAEUBGD`
 * boy `PWOEU`
 * clasping `KHRAS/P-G`
-* well-formed `WEL H-PB TPORPLD`
+* well-formed `W*EL TPORPLD`
 * creature `KRAOEFP`
 * head, `HED KW-BG`
 * he `HE`
@@ -747,7 +747,7 @@
 * splashing `SPHRARBG`
 * court. `KORT TP-PL`
 * Another `KPA/TPHOER`
-* broken-down `PWROEPB H-PB TKOUPB`
+* broken-down `PWROEPB TKO*UPB`
 * staircase `STAEUR/KAEUS`
 * Russian `R*UGS`
 * sailors `SAEUL/ORS`

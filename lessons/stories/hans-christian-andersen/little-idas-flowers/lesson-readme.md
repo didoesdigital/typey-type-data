@@ -871,7 +871,7 @@
 * white `WHAOEUT`
 * snowdrops `xxx snowdrops`
 * jingled `SKWREUPBG/-LD`
-* bell-like `PWEL H-PB HRAOEUBG`
+* bell-like `PWEL SKWRAOEUBG`
 * bells. `PWELS TP-PL`
 * flowers: `TPHRO*URS STPH-FPLT`
 * violets, `SROEULT/-S KW-BG`

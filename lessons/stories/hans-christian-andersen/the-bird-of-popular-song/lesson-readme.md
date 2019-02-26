@@ -24,7 +24,7 @@
 * wind `WEUPBD`
 * sharp `SHARP`
 * as `AZ`
-* well-tempered `WEL H-PB TEPL/PERD`
+* well-tempered `W*EL TEPL/PERD`
 * sword, `SOERD KW-BG`
 * trees `TRAOES`
 * stand `STAPBD`

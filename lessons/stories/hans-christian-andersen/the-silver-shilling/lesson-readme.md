@@ -439,7 +439,7 @@
 * cause `KAUS`
 * trouble `TRUBL`
 * treated `TRAETD`
-* cast-off `KAFT H-PB OF`
+* cast-off `KAFT SKWRO*F`
 * coin. `KOEUPB TP-PL`
 * who, `WHO KW-BG`
 * days, `TKAEUS KW-BG`

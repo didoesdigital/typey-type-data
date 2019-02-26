@@ -317,7 +317,7 @@
 * quite `KWAOEUT`
 * piteously, `PEUT/KWROUS/HREU KW-BG`
 * each `AOEFP`
-* out-doing `OUT H-PB TK*G`
+* out-doing `KWRO*UT TK*G`
 * other. `OER TP-PL`
 * happened `HAPD`
 * then?' `THEPB H-F AE`

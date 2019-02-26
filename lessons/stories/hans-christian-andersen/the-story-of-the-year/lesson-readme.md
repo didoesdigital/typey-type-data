@@ -1005,7 +1005,7 @@
 * surround `SROUPBD`
 * us. `US TP-PL`
 * Everything `KPA/EFRG`
-* home-like `HOEPL H-PB HRAOEUBG`
+* home-like `HOEPL SKWRAOEUBG`
 * good, `TKPWAOD KW-BG`
 * why, `KWR KW-BG`
 * rest `REFT`
@@ -1153,7 +1153,7 @@
 * rooms, `RAOPLS KW-BG`
 * boughs," `PWO*U/-S KW-BG KR-GS`
 * "My `KR-GS KPA/PHEU`
-* resting-time `REFT/-G H-PB TAOEUPL`
+* resting-time `REFT/-G TA*EPL`
 * draws `TKRAUS`
 * near; `TPHAOER STPH*FPLT`
 * pair `PAEUR`

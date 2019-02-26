@@ -143,7 +143,7 @@
 * "rammers. `KR-GS xxx rammers TP-PL`
 * "Maiden `KR-GS KPA/PHAEUD/EPB`
 * name, `TPHAEUPL KW-BG`
-* hand-rammer `HAPBD H-PB xxx rammer`
+* hand-rammer `HA*EPBD xxx rammer`
 * thing, `THEUPBG KW-BG`
 * won't `WOEPBT`
 * things—that's `THEUPBGS EPL/TKA*RB THA AES`

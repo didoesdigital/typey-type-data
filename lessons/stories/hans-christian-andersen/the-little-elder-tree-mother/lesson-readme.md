@@ -257,7 +257,7 @@
 * midst `PHEUDZ`
 * tree `TRAOE`
 * sat `SAT`
-* kindly-looking `KAOEUPBD/HREU H-PB HRAOG`
+* kindly-looking `KAOEUPBD/HREU SKWRAOG`
 * woman `WOPL`
 * with `W`
 * strange `STRAEUPBG`
@@ -526,7 +526,7 @@
 * place `PHRAEUS`
 * season `S-PB`
 * year.' `KWRAOER TP-PL AE`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * wedding-day,' `WEGD H-PB TKAEU KW-BG AE`
 * stretching `STREFPG`
 * head `HED`
@@ -948,8 +948,8 @@
 * wife, `WAOEUF KW-BG`
 * bloom. `PWHRAOPL TP-PL`
 * held `HELD`
-* great-grandfather `TKPWRAET H-PB TKPWR-F`
-* great-grandmother `TKPWRAET H-PB TKPWR-PL`
+* great-grandfather `TKPWRA*ET TKPWR-F`
+* great-grandmother `TKPWRA*ET TKPWR-PL`
 * outside, `OUDZ KW-BG`
 * and, `SKP KW-BG`
 * talked `TAUBGD`

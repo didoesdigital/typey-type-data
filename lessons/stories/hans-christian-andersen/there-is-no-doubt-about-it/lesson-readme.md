@@ -328,7 +328,7 @@
 * In `KPA/TPH`
 * way `WAEU`
 * travelled `TRAFLD/A*U`
-* poultry-yard `POL/TREU H-PB KWRARD`
+* poultry-yard `POL/TREU KWRA*RD`
 * poultry-yard, `POL/TREU H-PB KWRARD KW-BG`
 * last `HRAFT`
 * back `PWABG`

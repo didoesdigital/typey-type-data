@@ -233,7 +233,7 @@
 * meaning `PHAOEPBG`
 * what `WHA`
 * you `U`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * church—that `KHUFRPB EPL/TKA*RB THA`
 * are `R`
 * many `PHAEPB`
@@ -459,7 +459,7 @@
 * footman `TPAOT/PHAPB`
 * silk `S*EULG`
 * velvet `SREL/SRET`
-* silver-mounted `SEUL/SRER H-PB PHOUPBTD`
+* silver-mounted `SEUL/SRER PHO*UPBT/-D`
 * rod `ROD`
 * near `TPHAOER`
 * entrance. `SPWRAPBS TP-PL`

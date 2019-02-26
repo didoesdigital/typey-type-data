@@ -226,7 +226,7 @@
 * poverty, `POFRT KW-BG`
 * pride. `PRAOEUD TP-PL`
 * Another `KPA/TPHOER`
-* half-year `HAF H-PB KWRAOER`
+* half-year `HAF KWRAO*ER`
 * went `WEPBT`
 * by, `PWEU KW-BG`
 * mistress `PHEUS/TRES`
@@ -841,7 +841,7 @@
 * fashioned `TPAGS/-D`
 * themselves `TH*EPLS`
 * song. `SOPBG TP-PL`
-* Christmas-time `KREUS/PHAS H-PB TAOEUPL`
+* Christmas-time `KREUS/PHAS TA*EPL`
 * near, `TPHAOER KW-BG`
 * peasant `PEFPBT`
 * dwelt `TKWELT`

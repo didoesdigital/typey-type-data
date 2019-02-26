@@ -287,7 +287,7 @@
 * who, `WHO KW-BG`
 * fact, `TPABGT KW-BG`
 * wears `WAERS`
-* cast-off `KAFT H-PB OF`
+* cast-off `KAFT SKWRO*F`
 * shoes, `SHAOUS KW-BG`
 * any `TPHEU`
 * idea `KWR-D`

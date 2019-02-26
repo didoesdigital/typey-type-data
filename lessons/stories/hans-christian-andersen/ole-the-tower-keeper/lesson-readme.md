@@ -674,7 +674,7 @@
 * sink `S*EUPBG`
 * bottom `PWOPLT`
 * sea, `SAE KW-BG`
-* re-appear `R*/*E H-PB A/PAOER`
+* re-appear `R*E A/PAOER`
 * sand-bank, `SAPBD H-PB PWA*PBG KW-BG`
 * peered `PAOER/-D`
 * forth `TPO*RT`
@@ -1033,7 +1033,7 @@
 * world: `WORLD STPH-FPLT`
 * choice `KHOEUS`
 * oven, `OEFPB KW-BG`
-* re-cast `R*/*E H-PB KAFT`
+* re-cast `R*E KAFT`
 * form. `TPORPL TP-PL`
 * "That's `KW-GS/KPA*/THATS`
 * history `HEUFRT`
@@ -1055,7 +1055,7 @@
 * remnants `RE/TPHAPBTS`
 * sorts, `SORTS KW-BG`
 * say `SAEU`
-* cast-off `KAFT H-PB OF`
+* cast-off `KAFT SKWRO*F`
 * rubbish `RUB/EURB`
 * wade `WAED`
 * about. `PW TP-PL`
@@ -1084,7 +1084,7 @@
 * obliged `OE/PWHRAOEUPBLGD`
 * mount `PHOUPBT`
 * "It's `KR-GS KPA/T AES`
-* moving-day `PHOFG H-PB TKAEU`
+* moving-day `PHOFG TKA*EU`
 * day," `TKAEU KW-BG KR-GS`
 * "streets `KR-GS STRAOETS`
 * houses `HO*UFS`
@@ -1306,7 +1306,7 @@
 * corner, `KRORPB KW-BG`
 * jeered `SKWRAOER/-D`
 * flouted, `TPHRAUT/-D KW-BG`
-* worn-out `WORPB H-PB OUT`
+* worn-out `WORPB SKWRO*UT`
 * provision; `PREUFGS STPH*FPLT`
 * litter `HREUT/ER`
 * throne, `THRO*EPB KW-BG`

@@ -115,7 +115,7 @@
 * branches `PWRAFRPBS`
 * side, `SAOEUD KW-BG`
 * top `TOP`
-* over-look `OEFR H-PB HRAOBG`
+* over-look `O*EFR SKWRAOBG`
 * wide `WAOEUD`
 * world. `WORLD TP-PL`
 * should `SHO`
@@ -305,7 +305,7 @@
 * watered `WAURD`
 * tears; `TAERS STPH*FPLT`
 * regarded `RARD/-D`
-* Christmas-time `KREUS/PHAS H-PB TAOEUPL`
+* Christmas-time `KREUS/PHAS TA*EPL`
 * drew `TKRAOU`
 * near, `TPHAOER KW-BG`
 * many `PHAEPB`

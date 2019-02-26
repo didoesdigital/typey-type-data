@@ -873,7 +873,7 @@
 * savage `SA*FPBLG`
 * freed `TPRAOED`
 * death. `TK*T TP-PL`
-* well-deserved `WEL H-PB TKAOE/SER/-FD`
+* well-deserved `W*EL TKAOE/SER/-FD`
 * punishment. `PUPLT TP-PL`
 * married `PHAERD`
 * brother, `PWROER KW-BG`

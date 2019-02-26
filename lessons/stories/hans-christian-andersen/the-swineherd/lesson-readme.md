@@ -361,7 +361,7 @@
 * exclaimed. `SKHRAEUPL/-D TP-PL`
 * "He `KR-GS KPA/HE`
 * must `PHUFT`
-* well-educated `WEL H-PB TAEUBGTD`
+* well-educated `W*EL TAEUBGTD`
 * swineherd. `SWAOEUPB/TK-LS/HE*RD TP-PL`
 * Go `KPA/TKPW`
 * ask `SK`

@@ -1133,7 +1133,7 @@
 * day; `TKAEU STPH*FPLT`
 * greeting `TKPWRAOET/-G`
 * habit `HABT`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * thrice-repeated `THRAOEUS H-PB RE/PAOETD`
 * "Ah! `KR-GS KPA/HA*E SKHRAPL`
 * Good-day! `KPA/TKPWAOD H-PB TKAEU SKHRAPL`

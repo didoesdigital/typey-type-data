@@ -678,7 +678,7 @@
 * way `WAEU`
 * surprised `SPRAOEUFD`
 * find `TPEUPBD`
-* cottage-door `KOT/APBLG H-PB TKAOR`
+* cottage-door `KOT/APBLG TKAO*R`
 * standing `STAPBG`
 * strange `STRAEUPBG`
 * feeling `TPAOELG`

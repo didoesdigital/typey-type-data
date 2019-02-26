@@ -2,7 +2,7 @@
 
 * Once `KPA/WUPBS`
 * in `TPH`
-* summer-time `SAOURPL H-PB TAOEUPL`
+* summer-time `SAOURPL TA*EPL`
 * the `-T`
 * bear `PWAER`
 * and `SKP`

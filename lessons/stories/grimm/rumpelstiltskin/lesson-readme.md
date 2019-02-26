@@ -129,7 +129,7 @@
 * on `OPB`
 * sudden `SUD`
 * opened, `OEPD KW-BG`
-* droll-looking `TKROL H-PB HRAOG`
+* droll-looking `TKROL SKWRAOG`
 * little `HREUL`
 * man `PHAPB`
 * hobbled `HOB/-LD`

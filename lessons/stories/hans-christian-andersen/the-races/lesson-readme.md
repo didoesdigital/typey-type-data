@@ -260,7 +260,7 @@
 * honor `HO*RPB`
 * present `PREPBT`
 * vote; `SROET STPH*FPLT`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * carry `KAER`
 * out `OUT`
 * will. `HR TP-PL`
@@ -348,7 +348,7 @@
 * fix `TPEUBGS`
 * eyes. `AO*EUS TP-PL`
 * observed `OEBD`
-* well-grown `WEL H-PB TKPWROEPB`
+* well-grown `W*EL TKPWROEPB`
 * ears `AOERS`
 * pleasure `PHRERB`
 * observe `OEB`

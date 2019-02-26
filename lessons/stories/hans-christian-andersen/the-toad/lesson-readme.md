@@ -764,7 +764,7 @@
 * clearly, `KAOERL KW-BG`
 * sweetly, `SWAOET/HREU KW-BG`
 * richly, `REUFP/HREU KW-BG`
-* well-sounding `WEL H-PB SOUPBD/-G`
+* well-sounding `W*EL SOUPBD/-G`
 * verses; `SRERSZ STPH*FPLT`
 * while `WHAOEUL`
 * investigated `SREGTD`

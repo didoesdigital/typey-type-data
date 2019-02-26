@@ -957,7 +957,7 @@
 * simple `S*EUPL`
 * collation `KOL/HRAEUGS`
 * inspect `TPH-PT`
-* farm-yard `TPARPL H-PB KWRARD`
+* farm-yard `TPARPL KWRA*RD`
 * nooks `TPHAOBG/-S`
 * corners. `KRORPB/-S TP-PL`
 * going `TKPW-G`
@@ -1485,6 +1485,6 @@
 * three `THRAOE`
 * months, `PHO*PBTS KW-BG`
 * endured `EPB/TKAOURD`
-* out-lived `OUT H-PB HREUFD`
+* out-lived `KWRO*UT HREUFD`
 * age, `AEUPBLG KW-BG`
 * affection `A*FBGS`

@@ -57,7 +57,7 @@
 * all `AUL`
 * ready.' `R-D TP-PL AE`
 * When `KPA/WHEPB`
-* dinner-time `TKEURPB H-PB TAOEUPL`
+* dinner-time `TKEURPB TA*EPL`
 * drew `TKRAOU`
 * nigh, `TPHAOEU KW-BG`
 * Catherine `KA*T/REUPB`

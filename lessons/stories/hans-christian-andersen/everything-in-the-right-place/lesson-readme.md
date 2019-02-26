@@ -706,7 +706,7 @@
 * "everything `KR-GS EFRG`
 * place." `PHRAEUS TP-PL KR-GS`
 * why `KWR`
-* great-grandparents `TKPWRAET H-PB TKPWR-PTS`
+* great-grandparents `TKPWRA*ET TKPWR-PTS`
 * leading `HRAEGD`
 * son `SOPB`
 * village `SREULG`

@@ -178,7 +178,7 @@
 * out `OUT`
 * again, `TKPWEPB KW-BG`
 * "I'll `KR-GS EU AE HR*/HR*`
-* gee-up `SKWRAOE H-PB UP`
+* gee-up `SKWRAOE SKWR*UP`
 * you," `U KW-BG KR-GS`
 * seizing `SAOEZ/-G`
 * hammer, `HAERPL KW-BG`

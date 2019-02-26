@@ -711,9 +711,9 @@
 * rapt `RAPT`
 * wrapped `WRAPD`
 * wrapt `WRAPT`
-* re-cover `R*/*E H-PB KOFR`
+* re-cover `R*E KOFR`
 * recover `ROFR`
-* re-lay `R*/*E H-PB HRAEU`
+* re-lay `R*E HRAEU`
 * relay `RE/HRAEU`
 * read `RAED`
 * red `RED`

@@ -130,7 +130,7 @@
 * told `TOLD`
 * other `OER`
 * well-born, `WEL H-PB PWORPB KW-BG`
-* well-born `WEL H-PB PWORPB`
+* well-born `W*EL PWORPB`
 * could `KO`
 * rise `RAOEUZ`
 * in `TPH`
@@ -179,7 +179,7 @@
 * done; `TKOPB STPH*FPLT`
 * very `SRE`
 * pretty, `PREUT KW-BG`
-* sweet-looking `SWAOET H-PB HRAOG`
+* sweet-looking `SWAOET SKWRAOG`
 * child. `KHAOEULD TP-PL`
 * But `KPA/PWUT`
 * daughter `TKAUR`
@@ -262,7 +262,7 @@
 * behind `HEUPBD`
 * door `TKAOR`
 * peep `PAOEP`
-* well-dressed `WEL H-PB TKREFD`
+* well-dressed `W*EL TKREFD`
 * children, `KHEURPB KW-BG`
 * having `SR-G`
 * merry `PHER/REU`

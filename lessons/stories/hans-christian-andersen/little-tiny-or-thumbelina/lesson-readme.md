@@ -986,7 +986,7 @@
 * continually `TAEPBL`
 * speaking `SPAOEG`
 * over. `OEFR TP-PL`
-* wedding-day `WEGD H-PB TKAEU`
+* wedding-day `WEGD TKA*EU`
 * Tiny; `KPA/TOEUPB STPH*FPLT`
 * heat `HAOET`
 * burned `PWURPBD`

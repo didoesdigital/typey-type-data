@@ -350,7 +350,7 @@
 * darkness; `TKARBG/-PBS STPH*FPLT`
 * thought,—the `THAUT KW-BG EPL/TKA*RB -T`
 * accompanied `A/K-PD`
-* rolled-up `ROLD H-PB UP`
+* rolled-up `ROLD SKWR*UP`
 * linden-leaf, `xxx linden H-PB HRAOEF KW-BG`
 * which `WEU`
 * fallen `TPAUL/-PB`

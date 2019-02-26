@@ -1460,7 +1460,7 @@ Ole the Tower-Keeper
 'the': -T
 'sea,': SAE KW-BG
 'and': SKP
-'re-appear': R*/*E H-PB A/PAOER
+'re-appear': R*E A/PAOER
 'with': W
 'a': AEU
 'sand-bank,': SAPBD H-PB PWA*PBG KW-BG
@@ -2543,7 +2543,7 @@ Ole the Tower-Keeper
 'oven,': OEFPB KW-BG
 'to': TO
 'be': -B
-'re-cast': R*/*E H-PB KAFT
+'re-cast': R*E KAFT
 'in': TPH
 'a': AEU
 'new': TPHU
@@ -2624,7 +2624,7 @@ Ole the Tower-Keeper
 'nothing': TPHOG
 'of': -F
 'the': -T
-'cast-off': KAFT H-PB OF
+'cast-off': KAFT SKWRO*F
 'rubbish': RUB/EURB
 'in': TPH
 'which': WEU
@@ -2711,7 +2711,7 @@ Ole the Tower-Keeper
 'to': TO
 'Ole.': KPA/O/HRAEU TP-PL
 '"It's': KR-GS KPA/T AES
-'moving-day': PHOFG H-PB TKAEU
+'moving-day': PHOFG TKA*EU
 'to': TO
 'day,"': TKAEU KW-BG KR-GS
 'he': HE
@@ -3212,7 +3212,7 @@ Ole the Tower-Keeper
 'on': OPB
 'the': -T
 'great': TKPWRAET
-'moving-day': PHOFG H-PB TKAEU
+'moving-day': PHOFG TKA*EU
 'of': -F
 'death!'': TK*T SKHRAPL AE
 'That': KPA/THA
@@ -3518,7 +3518,7 @@ Ole the Tower-Keeper
 'perhaps': PRAPS
 'have': SR
 'his': HEUS
-'worn-out': WORPB H-PB OUT
+'worn-out': WORPB SKWRO*UT
 'stool': STOL
 'given': TKPWEUFPB
 'him': HEUPL
@@ -4149,7 +4149,7 @@ Ole the Tower-Keeper
 'think': THEU
 'of': -F
 'the': -T
-'moving-day': PHOFG H-PB TKAEU
+'moving-day': PHOFG TKA*EU
 'that': THA
 'is': S
 'not': TPHOT

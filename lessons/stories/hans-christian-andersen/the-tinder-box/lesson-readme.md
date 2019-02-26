@@ -35,7 +35,7 @@
 * on, `OPB KW-BG`
 * met `PHET`
 * very `SRE`
-* frightful-looking `TPRAOEUT/-FL H-PB HRAOG`
+* frightful-looking `TPRAOEUT/-FL SKWRAOG`
 * old `OLD`
 * witch `WEUFP`
 * in `TPH`

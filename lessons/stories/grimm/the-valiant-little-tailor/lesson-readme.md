@@ -882,7 +882,7 @@
 * forest; `TPOEFRT STPH*FPLT`
 * swimming `SWEUPLG`
 * blood, `PWHRAOD KW-BG`
-* torn-up `TORPB H-PB UP`
+* torn-up `TORPB SKWR*UP`
 * trees. `TRAOES TP-PL`
 * demanded `TKPAPBD/-D`
 * promised `PROPLS/-D`

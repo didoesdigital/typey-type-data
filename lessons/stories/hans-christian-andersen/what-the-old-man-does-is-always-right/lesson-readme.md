@@ -174,7 +174,7 @@
 * man," `PHAPB KW-BG KR-GS`
 * said `SAEUD`
 * "It `KR-GS KPA/T`
-* fair-day `TPAEUR H-PB TKAEU`
+* fair-day `TPAEUR TKA*EU`
 * to-day; `TO H-PB TKAEU STPH*FPLT`
 * so `SO`
 * ride `RAOEUD`

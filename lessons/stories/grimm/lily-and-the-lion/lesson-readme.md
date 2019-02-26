@@ -127,7 +127,7 @@
 * which `WEU`
 * seemed `SAOEPLD`
 * be `-B`
-* summer-time `SAOURPL H-PB TAOEUPL`
+* summer-time `SAOURPL TA*EPL`
 * other `OER`
 * winter. `WEURPBT TP-PL`
 * On `KPA/OPB`

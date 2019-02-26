@@ -410,7 +410,7 @@
 * others." `OERS TP-PL KR-GS`
 * arrived, `A/REUFD KW-BG`
 * enough `TPHUF`
-* to-day `TO H-PB TKAEU`
+* to-day `TO TKA*EU`
 * rude. `RAOUD TP-PL`
 * real `RAEL`
 * songster," `SOPBG/STER KW-BG KR-GS`
