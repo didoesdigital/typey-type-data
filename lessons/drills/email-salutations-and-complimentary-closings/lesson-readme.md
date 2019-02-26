@@ -1,13 +1,13 @@
-# Email Salutations And Complimentary Closings
+# Email Salutations and Complimentary Closings
 
-* Hi `HEU`
-* Hey `HAEU`
-* Hello `HEL/HRO`
-* Dear `TKAER`
-* Good morning `TKPWORPBG`
-* Good afternoon `TKPWAEFPB`
-* Good day `TKPWAEUD`
-* Greetings `TKPWRAOET/-GS`
+* Hi `KPA/HEU`
+* Hey `KPA/HAEU`
+* Hello `KPA/H-L`
+* Dear `KPA/TKAER`
+* Good morning `KPA/TKPWORPBG`
+* Good afternoon `KPA/TKPWAEFPB`
+* Good day `KPA/TKPWAEUD`
+* Greetings `KPA/TKPWRAOEGTS`
 * thanks `THAPBGS`
 * again `TKPWEPB`
 * thank you `THAUG`
@@ -16,29 +16,31 @@
 * looking `HRAOG`
 * forward `TPAORD`
 * speak `SPAOEBG`
-* With `W`
+* with `W`
 * you `U`
 * soon `SAOPB`
 * talk `TAUBG`
-* Cheers, `KHAOERS KW-BG`
-* best, `PWEFT KW-BG`
-* All `AUL`
+* Cheers, `KPA/KHAOERS KW-BG`
+* Best, `KPA/PWEFT KW-BG`
+* All `KPA/AUL`
 * the `-T`
-* Kind `KEUPBD`
+* best, `PWEFT KW-BG`
+* Kind `KPA/KEUPBD`
 * regards, `RARDZ KW-BG`
-* Warmest `WARPL/EFT`
-* Sincerely, `SEUPBS/HREU KW-BG`
-* Respectfully, `R-PT/TPHREU KW-BG`
+* Warmest `KPA/WARPL/EFT`
+* Sincerely, `KPA/SEUPBS/HREU KW-BG`
+* Respectfully, `KPA/R-PT/TPHREU KW-BG`
+* With `KPA/W`
 * anticipation, `SPAEUGS KW-BG`
 * thoughts, `THAUTS KW-BG`
-* Write `WREU`
+* Write `KPA/WREU`
 * soon, `SAOPB KW-BG`
 * many `PHAEPB`
 * thanks, `THAPBGS KW-BG`
-* Best `PWEFT`
+* Best `KPA/PWEFT`
 * wishes, `WEURBS KW-BG`
-* Stay tuned, `STAOUPBD KW-BG`
-* Sent `SEPBT`
+* Stay tuned, `KPA/STAOUPBD KW-BG`
+* Sent `KPA/SEPBT`
 * from `TPR`
 * my `PHEU`
 * steno `STOEUPB`
