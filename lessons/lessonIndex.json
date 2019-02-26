@@ -312,6 +312,15 @@
     "subcategory": "",
     "path": "/drills/email-salutations-and-complimentary-closings/lesson.txt",
     "wordCount": 49,
+    "suggestedNext": "/drills/homophones/lesson.txt"
+  },
+  {
+    "title": "Homophones",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/homophones/lesson.txt",
+    "wordCount": 999,
     "suggestedNext": "/drills/apostrophes/lesson.txt"
   },
   {
@@ -321,14 +330,6 @@
     "subcategory": "",
     "path": "/drills/apostrophes/lesson.txt",
     "wordCount": 421,
-    "suggestedNext": "/drills/homophones/lesson.txt"
-  },
-  {
-    "title": "Homophones",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/homophones/lesson.txt",
     "suggestedNext": "/drills/pronouns/lesson.txt"
   },
   {

@@ -5,7 +5,7 @@
 * acclamation `ABG/HRA/PHAEUGS`
 * acclimation `ABG/HREU/PHAEUGS`
 * acts `ABGZ`
-* ax `A/KP*/SP-S`
+* ax `A/KP*`
 * axe `ABGS`
 * adds `ADZ`
 * adz `A*DZ`
@@ -45,7 +45,7 @@
 * are `R`
 * our `OUR`
 * ascent `A/SKREPBT`
-* assent `AS/SEPBT`
+* assent `ASZ/EPBT`
 * ate `AEUT`
 * eight `AET`
 * away `A/WAEU`
@@ -142,7 +142,7 @@
 * brews `PWRAOU/-S`
 * bruise `PWRAOUZ`
 * bridal `PWRAOEU/TKAL`
-* bridle `PWRAOEUD/-L`
+* bridle `PWRAOEUD/*L`
 * burro `PWUR/RO`
 * burrow `PWUR/ROU`
 * bus `PWUS`
@@ -165,7 +165,7 @@
 * canter `KAPB/TER`
 * cantor `KAPB/TOR`
 * carat `KAR/RAT`
-* caret `KA/RET`
+* caret `KAR/ET`
 * carrot `KAEURT`
 * caries `KA*ERS`
 * carries `KAERS`
@@ -207,7 +207,7 @@
 * quire `KWAO*EUR`
 * chord `KHORD`
 * cord `KORD`
-* cored `KR*/O*/R*/-D`
+* cored `KOR/-D`
 * chute `SHAOUT`
 * shoot `SHAOT`
 * cite `KRAOEUR`
@@ -220,7 +220,7 @@
 * close `KHROES`
 * clothes `KHRO*ETS`
 * coal `KOEL`
-* cole `KO*EL`
+* cole `HRO*ER/KO*EL`
 * coaled `KOEL/-D`
 * cold `KOELD`
 * coarse `KAORS`
@@ -228,7 +228,7 @@
 * coated `KOET/-D`
 * coded `KOED/-D`
 * cocks `KOBG/-S`
-* cox `KOBGS`
+* cox `HRO*ER/KOBGS`
 * complement `PHREPLT`
 * compliment `KPHREUPLT`
 * contingence `KOPB/TEUPB/SKWREPBS`
@@ -255,7 +255,7 @@
 * queue `KWAOU`
 * currant `KUR/RAPBT`
 * current `KURPBT`
-* curser `KURS/-D`
+* curser `KURS/*ER`
 * cursor `KUR/SOR`
 * dam `TKAPL`
 * damn `TKA*EPL`
@@ -361,7 +361,7 @@
 * gel `SKWREL`
 * jell `SKWR*EL`
 * gene `SKWRAOEPB`
-* jean `SKWRAUPB`
+* jean `SKWRAEPB`
 * gild `TKPW*EULD`
 * guild `TKPWEULD`
 * gneiss `TPHAO*EUS`
@@ -370,20 +370,20 @@
 * gourd `TKPWORD`
 * grade `TKPWRAEUD`
 * grayed `TKPWRAEU/-D`
-* greyed `TKPRAEU/-D`
-* grate `KPWRAEUT`
+* greyed `TKPWRA*EU/-D`
+* grate `TKPWRAEUT`
 * great `TKPWRAET`
 * grays `TKPWRAEU/-S`
-* greys `TKPRAEU/-S`
+* greys `TKPWRA*EU/-S`
 * graze `TKPWRAEUZ`
 * grisly `TKPWREUS/HREU`
-* grizzly `TKPWREUZ/HREU`
+* grizzly `HRO*ER/TKPWREUZ/HREU`
 * groan `TKPWRAOPB`
 * grown `TKPWROEPB`
 * guessed `TKPWEFD`
 * guest `TKPWEFT`
 * guide `TKPWAOEUD`
-* guyed `TKPAOEU/-D`
+* guyed `TKPWAOEU/-D`
 * guise `TKPWAOEUZ`
 * guys `TKPWEUS`
 * hail `HAEUL`
@@ -410,7 +410,7 @@
 * hear `HAER`
 * here `HAOER`
 * heard `HAERD`
-* herd `HERD`
+* herd `HE*RD`
 * heated `HAOET/-D`
 * heeded `HAOED/-D`
 * hew `HAO*U`
@@ -439,9 +439,9 @@
 * holy `HOEUL`
 * wholly `WHOE/HREU`
 * hostel `HOS/TEL`
-* hostile `HOS/TEUL`
+* hostile `HOFT/*L`
 * hour `HOUR`
-* idle `AOEUD/-L`
+* idle `AOEUD/*L`
 * idol `AOEUD/OL`
 * immanent `EUPL/APB/EPBT`
 * imminent `EUPL/TPHEPBT`
@@ -457,7 +457,7 @@
 * intents `EUPB/TEPBTS`
 * intension `EUPB/T*EPBGS`
 * intention `SPWEPBGS`
-* it's `T*S`
+* it's `T-S`
 * its `EUTS`
 * jam `SKWRAPL`
 * jamb `SKWRA*EPL`
@@ -506,14 +506,14 @@
 * leased `HRAOES/-D`
 * least `HRAOEFT`
 * lends `HREPBDZ`
-* lens `REPBS`
+* lens `HREPBS`
 * lessen `HRA*EFPB`
 * lesson `HROEFPB`
 * lesser `HRERS`
 * lessor `HRES/SOR`
-* let's `HRET AE S*/SP-S`
+* let's `HRETS`
 * lets `HR*ETS`
-* levee `HRE/SRAOE`
+* levee `HREF/KWRAE`
 * levy `HRE/SREU`
 * liar `HRAOEUR`
 * lyre `HRAO*EUR`
@@ -533,7 +533,7 @@
 * lone `HROPB`
 * loch `HROFP`
 * lock `HROBG`
-* locks `HROBG/-S`
+* locks `HROBGZ`
 * lox `HROBGS`
 * loop `HRAOP`
 * loupe `HRAO*P`
@@ -565,9 +565,9 @@
 * meet `PHAOET`
 * mete `PHAO*ET`
 * medal `PH*ELD`
-* meddle `PHED/-L`
+* meddle `PHED/*L`
 * metal `PH*ELT`
-* mettle `PHET/-L`
+* mettle `PHET/*L`
 * might `PHAOEUT`
 * mite `PHAO*EUT`
 * mince `PH*EUPBS`
@@ -645,7 +645,7 @@
 * pearl `PERL`
 * purl `PURL`
 * pedal `P*ELD`
-* peddle `PED/-L`
+* peddle `PED/*L`
 * petal `PET/TAL`
 * peer `PAOER`
 * pier `PAO*ER`
@@ -711,9 +711,9 @@
 * rapt `RAPT`
 * wrapped `WRAPD`
 * wrapt `WRAPT`
-* re-cover `RE/SP-S H-PB KOFR`
+* re-cover `R*/*E H-PB KOFR`
 * recover `ROFR`
-* re-lay `RE/SP-S H-PB HRAEU`
+* re-lay `R*/*E H-PB HRAEU`
 * relay `RE/HRAEU`
 * read `RAED`
 * red `RED`
@@ -746,7 +746,7 @@
 * road `RAOD`
 * rode `ROED`
 * rowed `ROE/-D`
-* roe `RO*E`
+* roe `HRO*ER/RO*E`
 * row `ROE`
 * roil `RO*EUL`
 * royal `ROEUL`
@@ -758,11 +758,11 @@
 * root `RAOT`
 * route `ROUT`
 * rose `ROEZ`
-* rows `RO*EZ`
+* rows `ROES`
 * rote `ROET`
 * wrote `WRO`
 * rude `RAOUD`
-* rued `RAO/-D`
+* rued `R*/*U/-D`
 * rues `RAO/-S`
 * ruse `RAOUZ`
 * rung `RUPBG`
@@ -841,7 +841,7 @@
 * tacked `TABGD`
 * tact `TABGT`
 * tacks `TABG/-S`
-* tax `TAGS`
+* tax `TABGS`
 * tail `TAEUL`
 * tale `TAEL`
 * taper `TAEURP`
@@ -942,14 +942,14 @@
 * weir `WAO*ER`
 * were `WR`
 * whir `WHEUR`
-* we've `W*EF`
+* we've `WAOEF`
 * weave `WEF`
 * weak `WAEBG`
 * week `WAOEBG`
 * wean `WAOEPB`
 * ween `WAO*EPB`
 * wearer `WAER/*ER`
-* where're `W-R AE RE/SP-S`
+* where're `W-R AE R*/*E`
 * weather `WHR*`
 * whether `WHR`
 * whee `WHAOE`
@@ -976,7 +976,7 @@
 * wight `WAO*EUT`
 * whither `WHEU/THER`
 * wither `W*EUT/ER`
-* who's `WHO*S`
+* who's `WHOES`
 * whose `WHOZ`
 * whoa `WHOE`
 * woe `WOE`
@@ -987,7 +987,7 @@
 * yoke `KWRO*EBG`
 * yolk `KWROEBG`
 * yore `KWROER`
-* you're `U AE RE/SP-S`
+* you're `UR`
 * your `KWROUR`
 * you'll `UL`
 * Yule `KWRAOUL`
