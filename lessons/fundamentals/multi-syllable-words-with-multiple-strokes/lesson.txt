@@ -613,7 +613,6 @@ Multi-syllable words with multiple strokes
 'NASA': TPHA/SA
 'accessibility': ABG/SES/-BLT
 'sensitive': SEPBT/TEUF
-'templates': TEPL/PHRAT/-S
 'formats': TPORPLT/-S
 'editing': ED/EUT/-G
 'Poland': PO/HRAPBD
@@ -3029,6 +3028,7 @@ Multi-syllable words with multiple strokes
 'slavery': SHRAEUF/REU
 'delightful': TKHRAOEUT/-FL
 'readable': RAED/-BL
+'enthusiasm': SPWAOUZ/KWRAFPL
 'hurry': HUR/REU
 'useless': AOUS/-LS
 'pursued': PUR/SAOUD
@@ -3081,6 +3081,7 @@ Multi-syllable words with multiple strokes
 'distinctly': TKEUS/TEUPBGT/HREU
 'indignation': EUPB/TKEUG/TPHAEUGS
 'prosperity': PROFP/ERT
+'gloomy': TKPWHRAOPL/KWREU
 'absurd': AB/SURD
 'gesture': SKWRES/TUR
 'armies': AR/PHAOES
@@ -3318,7 +3319,7 @@ Multi-syllable words with multiple strokes
 'solemnly': SOL/EPL/HREU
 'twenty-four': TWEPBT/H-PB/TPOUR
 'crimson': KREUPL/SOPB
-'fatigue': TA/TPAOEG
+'fatigue': TPA/TAOEG
 'dislike': TKEUS/HRAOEUBG
 'witnessed': W-PBS/-D
 'infantry': EUPB/TPAPB/TREU
@@ -3542,7 +3543,6 @@ Multi-syllable words with multiple strokes
 'declaring': TKE/KHRAEURPBG
 'reckoned': REBG/OPBD
 'thoughtfully': THAUFL/HREU
-'enthusiastic': THU/ST-BG
 'downstairs': TKOUPB/STAEURS
 'adjoining': A/SKWROEUPBG
 'inhabited': EUPB/HABT/-D
@@ -3690,7 +3690,7 @@ Multi-syllable words with multiple strokes
 'awfully': AUF/HREU
 'clinging': KHREUPBG/-G
 'darkened': TKARBG/-PBD
-'contemplation': KOPBT/PHRAEUGS
+'contemplation': KAUPB/TPHRAEUT/KWROPB
 'resembled': RE/SEPL/-BLD
 'inscription': EUPB/KREUPGS
 'indulge': EUPB/TKULG
@@ -3833,7 +3833,7 @@ Multi-syllable words with multiple strokes
 'exertions': KPERGS/-S
 'coolly': KAOL/HREU
 'tedious': TAOED/KWRUS
-'contemplated': KAUPB/TEPL/-D
+'contemplated': KAUPB/TPHRAEUT/-D
 'gleaming': TKPWHRAOEPL/-G
 'perplexed': PER/PHREBGS/-D
 'universally': AOUPB/SRERS/HREU

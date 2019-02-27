@@ -167,7 +167,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
-    "wordCount": 1125,
+    "wordCount": 1127,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
   },
   {
@@ -176,7 +176,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
-    "wordCount": 1835,
+    "wordCount": 1836,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt"
   },
   {
@@ -375,6 +375,15 @@
     "subcategory": "",
     "path": "/drills/time/lesson.txt",
     "wordCount": 62,
+    "suggestedNext": "/drills/emotions/lesson.txt"
+  },
+  {
+    "title": "Emotions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/emotions/lesson.txt",
+    "wordCount": 104,
     "suggestedNext": "/drills/apostrophes/lesson.txt"
   },
   {
@@ -384,14 +393,6 @@
     "subcategory": "",
     "path": "/drills/apostrophes/lesson.txt",
     "wordCount": 421,
-    "suggestedNext": "/drills/emotions/lesson.txt"
-  },
-  {
-    "title": "Emotions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/emotions/lesson.txt",
     "suggestedNext": "/drills/superlatives/lesson.txt"
   },
   {

@@ -132,7 +132,7 @@
 * he `HE`
 * said `SAEUD`
 * courtiers, `KORT/KWRERS KW-BG`
-* 'May `AE PHAE`
+* 'May `AE PHA*EU`
 * my `PHEU`
 * daughter? `TKAUR H-F`
 * She `KPA/SHE`

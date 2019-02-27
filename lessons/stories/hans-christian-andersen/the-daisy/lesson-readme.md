@@ -57,7 +57,7 @@
 * had `H`
 * quite `KWAOEUT`
 * opened, `OEPD KW-BG`
-* snow-white `STPHOE H-PB WHAOEUT`
+* snow-white `STPHOE/WHAO*EUT`
 * petals `PET/TAL/-S`
 * round `ROUPBD`
 * yellow `KWREL/OE`

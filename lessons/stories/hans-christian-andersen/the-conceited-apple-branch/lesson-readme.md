@@ -5,7 +5,7 @@
 * the `-T`
 * month `PHO*PBT`
 * of `-F`
-* May. `PHAE TP-PL`
+* May. `PHA*EU TP-PL`
 * The `KPA/-T`
 * wind `WEUPBD`
 * still `STEUL`

@@ -295,7 +295,7 @@
 * heavy: `HOEUF STPH-FPLT`
 * sea, `SAE KW-BG`
 * blue `PWHRU`
-* gloomy, `TKPWHRAO/PH*EU KW-BG`
+* gloomy, `TKPWHRAOPL/KWREU KW-BG`
 * though `THOE`
 * calm; `KAUPL STPH*FPLT`
 * edge `EPBG`

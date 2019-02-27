@@ -1000,7 +1000,7 @@
 * journey `SKWRURPB`
 * (for `PREPB TPOR`
 * leagues `HRAOEG/-S`
-* fatigue `TA/TPAOEG`
+* fatigue `TPA/TAOEG`
 * wearer), `WAER/*ER PR*EPB KW-BG`
 * chance, `KHAPBS KW-BG`
 * sit `SEUT`

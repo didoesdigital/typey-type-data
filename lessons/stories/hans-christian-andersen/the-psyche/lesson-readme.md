@@ -1186,7 +1186,7 @@
 * statue, `STOEUT KW-BG`
 * unveil `UPB/SRAEUL`
 * form—but `TPORPL EPL/TKA*RB PWUT`
-* Gloomy, `KPA/TKPWHRAO/PH*EU KW-BG`
+* Gloomy, `KPA/TKPWHRAOPL/KWREU KW-BG`
 * quiet, `KWAO*EUT KW-BG`
 * absorbed `SPWORBD`
 * day; `TKAEU STPH*FPLT`

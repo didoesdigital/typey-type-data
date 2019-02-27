@@ -100,7 +100,7 @@
 * grew `TKPWRAOU`
 * shorter `SHORT/*ER`
 * more `PHOR`
-* gloomy, `TKPWHRAO/PH*EU KW-BG`
+* gloomy, `TKPWHRAOPL/KWREU KW-BG`
 * and, `SKP KW-BG`
 * dark `TKARBG`
 * as `AZ`
@@ -598,7 +598,7 @@
 * neighboring `TPHAEUB/-G`
 * sunk `S*UPBG`
 * exhausted `KPAUFTD`
-* fatigue, `TA/TPAOEG KW-BG`
+* fatigue, `TPA/TAOEG KW-BG`
 * other `OER`
 * worldly `WORLD/HREU`
 * possessions `POE/SEGS/-S`
@@ -653,7 +653,7 @@
 * not; `TPHOT STPH*FPLT`
 * man's `PHAPB/AES`
 * felt `TPELT`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * time. `TAOEUPL TP-PL`
 * What `KPA/WHA`
 * become `PW-BG`

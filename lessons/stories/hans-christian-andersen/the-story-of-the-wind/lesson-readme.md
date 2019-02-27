@@ -235,7 +235,7 @@
 * evening `AOEPBG`
 * first `TPEUFRT`
 * day `TKAEU`
-* May," `PHAE KW-BG KR-GS`
+* May," `PHA*EU KW-BG KR-GS`
 * Wind `KPA/WEUPBD`
 * continued, `T-PBD KW-BG`
 * west, `WEFT KW-BG`

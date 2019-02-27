@@ -260,7 +260,7 @@
 * raven. `RAFPB TP-PL`
 * Suddenly `KPA/SULD`
 * feeling `TPAOELG`
-* fatigue `TA/TPAOEG`
+* fatigue `TPA/TAOEG`
 * over `OEFR`
 * resist `RE/SEUFT`
 * lay `HRAEU`

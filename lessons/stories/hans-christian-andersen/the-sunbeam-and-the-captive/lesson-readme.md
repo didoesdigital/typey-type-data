@@ -52,7 +52,7 @@
 * wall, `WAUL KW-BG`
 * stands `STAPBDZ`
 * a `AEU`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * looking `HRAOG`
 * building `PW-LG`
 * enclosed `KHRO/-D`

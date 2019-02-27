@@ -640,7 +640,7 @@
 * countryman `KREU/PHA*PB`
 * him `HEUPL`
 * thus: `THUS STPH-FPLT`
-* "May `KR-GS PHAE`
+* "May `KR-GS PHA*EU`
 * please `PHRES`
 * Royal `KPA/ROEUL`
 * Highness, `KPA/HAOEU/-PBS KW-BG`

@@ -10,7 +10,7 @@
 * angry `APBG/REU`
 * annoyed `TPHOEUD`
 * anxious `KPUS`
-* apathetic `AP/THE/TEUBG`
+* apathetic `AP/THET/EUBG`
 * aroused `A/ROUFD`
 * ashamed `A/SHAEUPLD`
 * astonished `A/STOPB/EURBD`
@@ -21,11 +21,11 @@
 * bored `PWORD`
 * calm `KAUPL`
 * compassionate `KPAGS/TPHAT`
-* conceited `KOPB/SAOET/-D`
+* conceited `KAUPB/SAOET/-D`
 * confident `K-FT`
 * conscientious `KERBS`
 * contemplative `KAUPB/TPHRAEUT/EUF`
-* contemptuous `KOPB/TEPL/-RBS`
+* contemptuous `KAUPB/TEPLT/WOUS`
 * content `KAUPBT`
 * contented `KAUPBT/-D`
 * convinced `KWEUPBS/-D`
@@ -44,11 +44,11 @@
 * distressed `STKREFD`
 * distrustful `TKEUZ/TRUFT/-FL`
 * doubtful `TKOUT/-FL`
-* droopy `TKRAO/PEU`
+* droopy `TKRAOP/KWREU`
 * elated `AOE/HRAEUT/-D`
 * embarrassed `EPL/PWRAFD`
 * enraged `EPB/RAEUPBLG/-D`
-* enthusiastic `THU/ST-BG`
+* enthusiastic `SPWAOUZ/KWRAS/TEUBG`
 * envious `EPB/SROUS`
 * excited `KPAOEUTD`
 * expectant `KP-PT/TAPBT`
@@ -56,13 +56,13 @@
 * friendly `TPREPBLD`
 * frustrated `TPRUFT/RAEUTD`
 * glad `TKPWHRAD`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * guilt `TKPWEULT`
 * happy `HAEP`
 * hateful `HAEUT/-FL`
 * hesitant `HES/TAPBT`
 * hopeful `HOEFL`
-* hostile `HOS/TEUL`
+* hostile `HOFT/*L`
 * impatient `EUPL/PAEURBT`
 * impressed `EUPL/PREFD`
 * indignant `EUPB/TKEUG/TPHAPBT`
@@ -71,7 +71,7 @@
 * jealous `SKWR*ELS`
 * joyous `SKWROEU/KWROUS`
 * languid `HRAPBG/WEUD`
-* light-hearted `HRAOEUT H-PB HART/-D`
+* light-hearted `HRAOEUT/HART/-D`
 * loathing `HROET/-G`
 * longing `HROPBG/-G`
 * lusting `HRUFT/-G`
@@ -86,7 +86,7 @@
 * reverent `R*EFRPBT`
 * sad `SAD`
 * satisfied `SAED`
-* self-confident `S*EF H-PB K-FT`
+* self-confident `SEF K-FT`
 * serene `SRAO*EPB`
 * serious `SAOERS`
 * sleepy `SHRAOE/PEU`
@@ -100,7 +100,7 @@
 * tired `TAOEURD`
 * triumphant `TREU/UPL/TPAPBT`
 * uncomfortable `TPH-BL`
-* upset `AUP/SAET`
+* upset `AUP/SET`
 * wavering `WAEUFRG`
 * well `WEL`
 * worried `WOERD`

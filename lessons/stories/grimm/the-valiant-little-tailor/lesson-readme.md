@@ -192,7 +192,7 @@
 * away, `A/WAEU KW-BG`
 * back `PWABG`
 * again `TKPWEPB`
-* ever-increasing `-FR H-PB EUPB/KRAOEGS`
+* ever-increasing `*FR/EUPB/KRAOES/-G`
 * companies. `K-PS TP-PL`
 * last `HRAFT`
 * lost `HRO*S`
@@ -297,7 +297,7 @@
 * light `HRAOEUT`
 * nimble, `TPHEUPL/*L KW-BG`
 * felt `TPELT`
-* fatigue. `TA/TPAOEG TP-PL`
+* fatigue. `TPA/TAOEG TP-PL`
 * led `HRED`
 * mountain, `PHOUPB/TAEUPB KW-BG`
 * when `WHEPB`

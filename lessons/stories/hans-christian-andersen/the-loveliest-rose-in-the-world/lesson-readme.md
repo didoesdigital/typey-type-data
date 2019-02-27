@@ -321,7 +321,7 @@
 * spirit, `SPEURT KW-BG`
 * expression `EBGS/PREGS`
 * love." `HRUF TP-PL KR-GS`
-* "May `KR-GS PHAE`
+* "May `KR-GS PHA*EU`
 * blessed!" `PWHR*EFD SKHRAPL KR-GS`
 * man: `PHAPB STPH-FPLT`
 * world." `WORLD TP-PL KR-GS`

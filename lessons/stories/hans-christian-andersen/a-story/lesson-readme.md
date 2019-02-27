@@ -756,7 +756,7 @@
 * words, `WORDZ KW-BG`
 * despair `TKE/SPAEUR`
 * mankind, `PHAPB/KAOEUPBD KW-BG`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * belief `PWHRAOEF`
 * His `KPA/HEUS`
 * creation, `KRAEGS KW-BG`

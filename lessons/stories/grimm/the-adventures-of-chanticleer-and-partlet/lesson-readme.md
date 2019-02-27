@@ -606,7 +606,7 @@
 * bury `PWUR/REU`
 * Partlet,' `xxx Partlet KW-BG AE`
 * other. `OER TP-PL`
-* 'May `AE PHAE`
+* 'May `AE PHA*EU`
 * you?' `U H-F AE`
 * 'Yes; `AE KPA/KWRE STPH*FPLT`
 * horses `HORSZ`

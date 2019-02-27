@@ -517,7 +517,7 @@
 * old `OLD`
 * withered `WEU/THER/-D`
 * face `TPAEUS`
-* snow-white `STPHOE H-PB WHAOEUT`
+* snow-white `STPHOE/WHAO*EUT`
 * beard `PWAERD`
 * yard `KWRARD`
 * long. `HROPBG TP-PL`

@@ -65,7 +65,7 @@
 * neat `TPHAOET`
 * soft `SOFT`
 * before. `PW-F TP-PL`
-* may `PHAE`
+* May `PHA*EU`
 * I `EU`
 * venture `SREPBT/UR`
 * ask `SK`
@@ -398,6 +398,7 @@
 * us, `US KW-BG`
 * careful `KAEUFL`
 * act, `ABGT KW-BG`
+* may `PHAE`
 * some `SOPL`
 * ourselves `O*URSZ`
 * rag-bag, `RAG H-PB PWAG KW-BG`

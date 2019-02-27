@@ -479,7 +479,7 @@
 * here `HAOER`
 * who, `WHO KW-BG`
 * during `TKURG`
-* sixty-seven `SEUBGT H-PB SEFPB`
+* sixty-seven `SEUBGT/SEFPB`
 * years, `KWRAOERS KW-BG`
 * never `TPHEFR`
 * remembered `RERD`

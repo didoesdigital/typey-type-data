@@ -157,7 +157,7 @@
 * all `AUL`
 * around `ARPBD`
 * her. `HER TP-PL`
-* "May `KR-GS PHAE`
+* "May `KR-GS PHA*EU`
 * allowed `HRO*UD`
 * ask `SK`
 * are `R`

@@ -933,7 +933,7 @@
 * fields, `TPAOELDZ KW-BG`
 * blowing `PWHROEG`
 * will-o'-the-wisps, `HR H-PB O* AE H-PB -T H-PB WEUS/-PS KW-BG`
-* good-naturedly `TKPWAOD H-PB TPHAEURTD/HREU`
+* good-naturedly `TKPWAOD/TPHAEUT/AOURD/HREU`
 * torches. `TOR/-FPS TP-PL`
 * tricks `TREUBGS`
 * playing?" `PHRA*EUG H-F KR-GS`

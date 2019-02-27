@@ -63,7 +63,7 @@
 * you," `U KW-BG KR-GS`
 * said `SAEUD`
 * rose-tree. `ROEZ H-PB TRAOE TP-PL`
-* "May `KR-GS PHAE`
+* "May `KR-GS PHA*EU`
 * I `EU`
 * ask `SK`
 * when `WHEPB`
@@ -255,7 +255,7 @@
 * strength; `STREPBG STPH*FPLT`
 * felt `TPELT`
 * ever-renewed `-FR H-PB RE/TPHAOUD`
-* ever-increasing `-FR H-PB EUPB/KRAOEGS`
+* ever-increasing `*FR/EUPB/KRAOES/-G`
 * happiness, `HAEP/-PBS KW-BG`
 * therefore `TH-FR`
 * obliged `OE/PWHRAOEUPBLGD`

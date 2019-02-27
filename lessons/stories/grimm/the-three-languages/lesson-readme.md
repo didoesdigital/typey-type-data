@@ -358,7 +358,7 @@
 * church, `KHUFRPB KW-BG`
 * suddenly `SULD`
 * two `TWO`
-* snow-white `STPHOE H-PB WHAOEUT`
+* snow-white `STPHOE/WHAO*EUT`
 * doves `TKOFS`
 * flew `TPHRAOU`
 * shoulders `SHOURLDZ`

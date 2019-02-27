@@ -10,7 +10,7 @@ Emotions
 'angry': APBG/REU
 'annoyed': TPHOEUD
 'anxious': KPUS
-'apathetic': AP/THE/TEUBG
+'apathetic': AP/THET/EUBG
 'aroused': A/ROUFD
 'ashamed': A/SHAEUPLD
 'astonished': A/STOPB/EURBD
@@ -21,11 +21,11 @@ Emotions
 'bored': PWORD
 'calm': KAUPL
 'compassionate': KPAGS/TPHAT
-'conceited': KOPB/SAOET/-D
+'conceited': KAUPB/SAOET/-D
 'confident': K-FT
 'conscientious': KERBS
 'contemplative': KAUPB/TPHRAEUT/EUF
-'contemptuous': KOPB/TEPL/-RBS
+'contemptuous': KAUPB/TEPLT/WOUS
 'content': KAUPBT
 'contented': KAUPBT/-D
 'convinced': KWEUPBS/-D
@@ -38,17 +38,17 @@ Emotions
 'despondent': TKES/POPBD/EPBT
 'determined': TKERPLD
 'disappointed': TKEUS/POEUPBTD
-'discontented': TKEUS/KAUPBTD
-'disgusted': TKEUS/TKPWUFTD
+'discontented': TKEUS/KOPB/TEPBT/-D
+'disgusted': TKEUS/TKPWUFT/-D
 'dissatisfied': TKEUS/SAED
 'distressed': STKREFD
 'distrustful': TKEUZ/TRUFT/-FL
 'doubtful': TKOUT/-FL
 'droopy': TKRAOP/KWREU
-'elated': AOE/HRAEUTD
+'elated': AOE/HRAEUT/-D
 'embarrassed': EPL/PWRAFD
 'enraged': EPB/RAEUPBLG/-D
-'enthusiastic': THU/ST-BG
+'enthusiastic': SPWAOUZ/KWRAS/TEUBG
 'envious': EPB/SROUS
 'excited': KPAOEUTD
 'expectant': KP-PT/TAPBT
@@ -62,7 +62,7 @@ Emotions
 'hateful': HAEUT/-FL
 'hesitant': HES/TAPBT
 'hopeful': HOEFL
-'hostile': HOS/TEUL
+'hostile': HOFT/*L
 'impatient': EUPL/PAEURBT
 'impressed': EUPL/PREFD
 'indignant': EUPB/TKEUG/TPHAPBT
@@ -100,8 +100,7 @@ Emotions
 'tired': TAOEURD
 'triumphant': TREU/UPL/TPAPBT
 'uncomfortable': TPH-BL
-'upset': AUP/SAET
+'upset': AUP/SET
 'wavering': WAEUFRG
 'well': WEL
 'worried': WOERD
-notice_spaces=true

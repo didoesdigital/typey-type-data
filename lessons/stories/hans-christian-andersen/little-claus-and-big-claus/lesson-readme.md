@@ -220,7 +220,7 @@
 * pass `PAS`
 * through `THRU`
 * dark, `TKARBG KW-BG`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * forest. `TPOEFRT TP-PL`
 * Presently `KPA/PREPBLT`
 * storm `STORPL`
@@ -1149,7 +1149,7 @@
 * moment, `PHOEPLT KW-BG`
 * sweetest `SWAOET/EFT`
 * maiden `PHAEUD/*EPB`
-* snow-white `STPHOE H-PB WHAOEUT`
+* snow-white `STPHOE/WHAO*EUT`
 * robes, `ROEB/-S KW-BG`
 * wreath `WRAO*ET`
 * green `TKPWRAOEPB`

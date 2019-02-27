@@ -32,7 +32,7 @@
 * purpose. `PURP TP-PL`
 * The `KPA/-T`
 * were `WR`
-* good-natured `TKPWAOD H-PB TPHAEURTD`
+* good-natured `TKPWAOD/TPHAEUT/AOUR/-D`
 * gave `TKPWAEUF`
 * of `-F`
 * their `THAEUR`

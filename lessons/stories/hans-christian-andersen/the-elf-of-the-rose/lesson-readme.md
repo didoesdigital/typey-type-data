@@ -294,7 +294,7 @@
 * another `TPHOER`
 * man, `PHAPB KW-BG`
 * who `WHO`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * wicked. `WEUBGD TP-PL`
 * wicked `WEUBGD`
 * maiden. `PHAEUD/*EPB TP-PL`

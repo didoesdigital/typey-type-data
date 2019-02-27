@@ -197,7 +197,6 @@
 * licensing `HR-PBS/-G`
 * hairy `HAEU/REU`
 * sensitive `SEPBT/TEUF`
-* templates `TEPL/PHRAT/-S`
 * formats `TPORPLT/-S`
 * editing `ED/EUT/-G`
 * womens `WEUPL/-S`
@@ -1017,6 +1016,7 @@
 * cardinal `KARD/TPHAL`
 * sharply `SHARP/HREU`
 * distinctly `TKEUS/TEUPBGT/HREU`
+* gloomy `TKPWHRAOPL/KWREU`
 * pronounced `PRO/TPHUPBS/-D`
 * tendency `TEPBD/SEU`
 * earnestly `ERPB/EFT/HREU`
@@ -1268,6 +1268,7 @@
 * communion `KPHAOUPB/KWROPB`
 * awfully `AUF/HREU`
 * clinging `KHREUPBG/-G`
+* contemplation `KAUPB/TPHRAEUT/KWROPB`
 * indulgence `EUPB/TKULS/EPBS`
 * keenly `KAOEPB/HREU`
 * uneasiness `UPB/EZ/-PBS`
@@ -1324,7 +1325,7 @@
 * exertions `KPERGS/-S`
 * coolly `KAOL/HREU`
 * tedious `TAOED/KWRUS`
-* contemplated `KAUPB/TEPL/-D`
+* contemplated `KAUPB/TPHRAEUT/-D`
 * gleaming `TKPWHRAOEPL/-G`
 * perplexed `PER/PHREBGS/-D`
 * universally `AOUPB/SRERS/HREU`

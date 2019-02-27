@@ -726,6 +726,7 @@
 * despatched `TKE/SPAFP/-D`
 * astonishing `A/STOPB/EURBG`
 * await `A/WAEUT`
+* contemplation `KAUPB/TPHRAEUT/KWROPB`
 * resembled `RE/SEPL/-BLD`
 * inscription `EUPB/KREUPGS`
 * indulge `EUPB/TKULG`
@@ -760,7 +761,7 @@
 * repent `RE/PEPBT`
 * endeavor `EPB/TKEFR`
 * distrust `TKEUS/TRUFT`
-* contemplated `KAUPB/TEPL/-D`
+* contemplated `KAUPB/TPHRAEUT/-D`
 * universally `AOUPB/SRERS/HREU`
 * displeasure `TKEUZ/PHRERB`
 * impress `EUPL/PRES`
@@ -876,6 +877,7 @@
 * malicious `PHAL/EURBS`
 * enforce `EPB/TPORS`
 * undone `UPB/TKOPB`
+* contemplate `KAUPB/TPHRAEUT`
 * aforesaid `A/TPOR/SAEUD`
 * affectionately `A/TPEBGS/AT/HREU`
 * outstretched `AOUT/STREFPD`

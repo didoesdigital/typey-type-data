@@ -361,7 +361,7 @@
 * long `HROPBG`
 * eyes `AO*EUS`
 * closed `KHROEFD`
-* fatigue, `TA/TPAOEG KW-BG`
+* fatigue, `TPA/TAOEG KW-BG`
 * fast `TPAFT`
 * asleep. `A/HRAOEP TP-PL`
 * last `HRAFT`
@@ -554,7 +554,7 @@
 * weariness. `WAOER/REU/-PBS TP-PL`
 * mid-day, `PHEUD/PHEUD H-PB TKAEU KW-BG`
 * beautiful `PWAOUFL`
-* snow-white `STPHOE H-PB WHAOEUT`
+* snow-white `STPHOE/WHAO*EUT`
 * bird `PWEURD`
 * bough, `PWO*U KW-BG`
 * sang `SAPBG`

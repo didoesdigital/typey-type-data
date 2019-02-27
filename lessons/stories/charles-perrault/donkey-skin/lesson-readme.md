@@ -988,7 +988,7 @@
 * It `KPA/T`
 * difficulty `TKOEUFLT`
 * withdrew `WRAOU`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * alley, `AL/KWREU KW-BG`
 * intent `SPWEPBT`
 * discovering `SKOFRG`

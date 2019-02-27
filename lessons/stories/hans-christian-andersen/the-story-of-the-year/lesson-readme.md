@@ -1148,7 +1148,7 @@
 * consecrated `KOPBS/KRAEUT/-D`
 * adorn `A/TKORPB`
 * feast. `TPAOEFT TP-PL`
-* "May `KR-GS PHAE`
+* "May `KR-GS PHA*EU`
 * joy `SKWROEU`
 * rooms, `RAOPLS KW-BG`
 * boughs," `PWO*U/-S KW-BG KR-GS`

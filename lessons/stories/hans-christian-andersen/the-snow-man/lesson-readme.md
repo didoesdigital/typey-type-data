@@ -360,7 +360,7 @@
 * stood `STAOD`
 * still `STEUL`
 * near `TPHAOER`
-* contemplated `KAUPB/TEPL/-D`
+* contemplated `KAUPB/TPHRAEUT/-D`
 * scene. `SAEPB TP-PL`
 * "Summer `KR-GS KPA/SAOURPL`
 * cannot `K/TPHOT`

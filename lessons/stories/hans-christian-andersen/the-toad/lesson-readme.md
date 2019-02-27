@@ -533,7 +533,7 @@
 * concert `KERT`
 * evening—the `AOEPBG EPL/TKA*RB -T`
 * concert; `KERT STPH*FPLT`
-* enthusiasm `THUFPL`
+* enthusiasm `SPWAOUZ/KWRAFPL`
 * thin `THEUPB`
 * voices; `SROEUFS STPH*FPLT`
 * sort `SORT`

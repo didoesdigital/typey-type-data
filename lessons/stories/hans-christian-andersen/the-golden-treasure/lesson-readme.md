@@ -1003,7 +1003,7 @@
 * aspiring `AS/PAOEURG`
 * turn. `TURPB TP-PL`
 * saucy `SAU/SEU`
-* enthusiast. `THAOUS/KWRAFT TP-PL`
+* enthusiast. `SPWAOUZ/KWRA*S TP-PL`
 * My `KPA/PHEU`
 * foolish `TPAOL/EURB`
 * affair, `A/TPAEUR KW-BG`

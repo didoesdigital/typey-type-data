@@ -377,7 +377,7 @@
 * obliged `OE/PWHRAOEUPBLGD`
 * sit `SEUT`
 * dark, `TKARBG KW-BG`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * room, `RAOPL KW-BG`
 * flying `TPHRAOEUG`
 * foreign `TPOERPB`

@@ -515,7 +515,7 @@
 * boy; `PWOEU STPH*FPLT`
 * greatest `TKPWRAET/EFT`
 * ambition `APL/PWEUGS`
-* May `PHAE`
+* may `PHAE`
 * clergyman's `KHRERPBLG/PHAPB AES`
 * ear. `AOER TP-PL`
 * That `KPA/THA`
@@ -636,6 +636,7 @@
 * here," `HAOER KW-BG KR-GS`
 * we `WE`
 * comfortable. `K-BL TP-PL`
+* May `PHA*EU`
 * step `STEP`
 * rich `REUFP`
 * mud, `PHUD KW-BG`

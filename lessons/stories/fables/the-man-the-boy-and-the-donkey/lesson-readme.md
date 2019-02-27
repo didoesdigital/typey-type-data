@@ -94,7 +94,7 @@
 * had `H`
 * come `KOPL`
 * town, `TOUPB KW-BG`
-* passers-by `PASZ/ERS H-PB PWEU`
+* passers-by `PASZ/ERS/PW*EU`
 * began `TKPWAPB`
 * jeer `SKWRAOER`
 * point `POEUPBT`

@@ -24,7 +24,7 @@
 * just `SKWRUFT`
 * three `THRAOE`
 * hundred `HUPBD`
-* sixty-five `SEUBGT H-PB TPEUF`
+* sixty-five `SEUBGT/TPAOEUF`
 * years `KWRAOERS`
 * old, `OLD KW-BG`
 * but `PWUT`
@@ -718,6 +718,7 @@
 * grasshopper, `TKPWHR*FRPBLG KW-BG`
 * cleaning `KHRAOEPBG`
 * legs. `HREGS TP-PL`
+* May `PHA*EU`
 * beetles `PWAOET/-LS`
 * hummed, `HUPL/-D KW-BG`
 * bees `PWAOES`

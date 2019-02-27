@@ -736,7 +736,7 @@
 * third `THEURD`
 * thing. `THEUPBG TP-PL`
 * "You `KR-GS KPA/U`
-* May `PHAE`
+* may `PHAE`
 * one," `WUPB KW-BG KR-GS`
 * "it `KR-GS T`
 * pretty." `PREUT TP-PL KR-GS`
@@ -1122,6 +1122,7 @@
 * given `TKPWEUFPB`
 * one, `WUPB KW-BG`
 * release `RE/HRAOEZ`
+* May `PHA*EU`
 * blessing `PWHR*EFG`
 * happiness `HAEP/-PBS`
 * poured `PORD`

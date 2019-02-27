@@ -1091,8 +1091,9 @@
 * watching `WAFBG`
 * set `SET`
 * easel. `AOEZ/EL TP-PL`
-* "may `KR-GS PHAE`
+* "May `KR-GS PHA*EU`
 * paint?" `PAEUPBT H-F KR-GS`
+* "may `KR-GS PHAE`
 * canvas?" `KAPB/SRAS H-F KR-GS`
 * paint `PAEUPBT`
 * yet," `KWRET KW-BG KR-GS`

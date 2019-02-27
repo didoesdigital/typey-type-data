@@ -717,7 +717,7 @@
 * "on `KR-GS OPB`
 * second `SEBGD`
 * tier, `TAOER KW-BG`
-* left-hand `HREFT H-PB HAPBD`
+* left-hand `HR*PBD`
 * side, `SAOEUD KW-BG`
 * scenery `SAEPB/REU`
 * looks `HRAOBGS`

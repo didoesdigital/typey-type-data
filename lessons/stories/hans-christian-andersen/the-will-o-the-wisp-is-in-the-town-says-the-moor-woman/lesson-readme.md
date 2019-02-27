@@ -101,7 +101,7 @@
 * graves. `TKPWRAEUFS TP-PL`
 * Those `KPA/THOZ`
 * hard, `HARD KW-BG`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * times, `TAOEUPLS KW-BG`
 * an `APB`
 * end. `EPBD TP-PL`
@@ -1106,7 +1106,7 @@
 * earlier. `RERL TP-PL`
 * three `THRAOE`
 * hundred `HUPBD`
-* sixty-three `SEUBGT H-PB THRAOE`
+* sixty-three `SEUBGT/THRAOE`
 * run `RUPB`
 * year?" `KWRAOER H-F KR-GS`
 * told: `TOLD STPH-FPLT`
@@ -1202,7 +1202,7 @@
 * course `KORS`
 * year, `KWRAOER KW-BG`
 * lead `HRAED`
-* sixty-five `SEUBGT H-PB TPEUF`
+* sixty-five `SEUBGT/TPAOEUF`
 * bad `PWAD`
 * way, `WAEU KW-BG`
 * grand `TKPWRAPBD`

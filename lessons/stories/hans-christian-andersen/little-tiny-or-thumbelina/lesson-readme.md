@@ -1083,7 +1083,7 @@
 * fasten `TPAFPB`
 * yourself `KWRO*URS`
 * sash. `SARB TP-PL`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * rooms,—far `RAOPLS KW-BG EPL/TKA*RB TPAR`
 * mountains, `PHOUPB/TAEUPBS KW-BG`
 * shines `SHAOEUPBS`

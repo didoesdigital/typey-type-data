@@ -14,7 +14,7 @@
 * of `-F`
 * a `AEU`
 * deep `TKAOEP`
-* gloomy `TKPWHRAO/PH*EU`
+* gloomy `TKPWHRAOPL/KWREU`
 * wood, `WAOD KW-BG`
 * and `SKP`
 * castle `KAFL`

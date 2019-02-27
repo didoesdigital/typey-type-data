@@ -1050,7 +1050,7 @@
 * colors. `KHRORS TP-PL`
 * walk `WAUBG`
 * certainly, `SERPBL KW-BG`
-* contemplation; `KOPBT/PHRAEUGS STPH*FPLT`
+* contemplation; `KAUPB/TPHRAEUT/KWROPB STPH*FPLT`
 * light; `HRAOEUT STPH*FPLT`
 * useful `AOUFL`
 * ornamental. `ORPB/-PLT/A*L TP-PL`
