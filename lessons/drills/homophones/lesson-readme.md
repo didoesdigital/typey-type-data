@@ -678,7 +678,7 @@
 * prey `PRA*EU`
 * precedence `PRES/TKEPBS`
 * precedents `PRES/TKEPBTS`
-* premier `PREPL/PHAOER`
+* premier `PRE/PHAO*ER`
 * premiere `PRE/PHAOER`
 * presence `PREPBS`
 * presents `PREPBTS`

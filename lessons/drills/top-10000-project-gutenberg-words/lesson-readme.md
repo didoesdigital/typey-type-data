@@ -9700,7 +9700,7 @@
 * wrap `WRAP`
 * curly `KUR/HREU`
 * diversity `TKWEFRT`
-* prestige `PRES/TAOEPLG`
+* prestige `PRE/STAOEPBLG`
 * desertion `TKE/SERGS`
 * freezing `TPRAOEZ/-G`
 * heedless `HAOED/-LS`

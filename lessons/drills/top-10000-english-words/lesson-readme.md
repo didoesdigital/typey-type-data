@@ -3563,7 +3563,7 @@
 * Arab `A*EURB`
 * Lincoln `HREUPB/KOPB`
 * helped `HEPD`
-* premier `PREPL/PHAOER`
+* premier `PRE/PHAO*ER`
 * tomorrow `TORPL`
 * purchased `PUFPD`
 * milk `PH*EULG`
