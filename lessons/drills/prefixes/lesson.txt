@@ -11,15 +11,15 @@ Prefixes
 'em^': EPL
 'up^': AUP
 'co-^': KOE
-'co^': KO*E
+'co^': KAU
 'con^': KAUPB
 'out^': AOUT
 'for^': TPAUR
 'fore^': TPOER
 'mis^': PHEUZ
 'pro^': PRO
-'pre-^': PRE
-'pre^': PR*E
+'pre-^': PR*E
+'pre^': PRE
 'sub^': SAUB
 'self-^': SEF
 'semi^': SPHEU
@@ -33,12 +33,12 @@ Prefixes
 'micro^': PHAOEURBG
 'super^': SAOUP
 'trans^': TRAPBZ
-'anti^': APB/TEU
-'anti-^': A*EUPBT
+'anti^': A*EUPBT
+'anti-^': A*EUPBT/H-PB
 'mid^': PHEUD
-'mid-^': PH*EUD
-'non-^': TPHAUPB
-'non^': TPHA*UPB
+'mid-^': PHEUD/PHEUD H-PB KR-RT
+'non-^': TPHA*UPB
+'non^': TPHAUPB
 'on^': AUPB
 ignore_characters='^'
 warning_message=Hint: use exact spacing setting and don’t type ^
