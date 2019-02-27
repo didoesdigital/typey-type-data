@@ -615,7 +615,7 @@ Top 10000 English words
 'light': HRAOEUT
 'write': WREU
 'war': WAR
-'nov': TPHO*F
+'nov': TPH*/O*/SR*
 'offer': OFR
 'blue': PWHRU
 'groups': TKPRAOUPS
@@ -740,9 +740,9 @@ Top 10000 English words
 'specific': SPEFBG
 'several': SEFRL
 'gold': TKPWOELD
-'feb': TP*EB
+'feb': TP*/E*/PW*
 'living': HREUFG
-'sep': S*PT
+'sep': S*/E*/P*
 'collection': KHREBGS
 'called': KAULD
 'short': SHORT
@@ -797,7 +797,7 @@ Top 10000 English words
 'statement': STAEUPLT
 'update': AUP/TKAEUT
 'parts': PARTS
-'aug': A*UG
+'aug': A*/*U/TKPW*
 'ever': -FR
 'downloads': TKOUPBLD/-S
 'early': ERL
@@ -813,7 +813,7 @@ Top 10000 English words
 'works': WORBGS
 'material': TERL
 'bill': PWEUL
-'apr': PR*EUL
+'apr': A*/P*/R*
 'written': WREUPB
 'talk': TAUBG
 'federal': TPRAL
@@ -882,7 +882,7 @@ Top 10000 English words
 'various': SRAEURS
 'words': WORDZ
 'linux': HREUPB/UBGS
-'jul': SKWR*UL
+'jul': SKWR*/*U/HR*
 'production': PROUBGS
 'commercial': KPHERBL
 'James': SKWRAEUPLS
@@ -900,7 +900,7 @@ Top 10000 English words
 'magazine': PHAG
 'error': ROEUR
 'camera': KOEURPL
-'jun': SKWRAO*UPB
+'jun': SKWR*/*U/TPH*
 'girl': TKPWEURL
 'currently': KAOURPBL
 'construction': KRUBGS

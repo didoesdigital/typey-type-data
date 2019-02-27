@@ -547,7 +547,7 @@
 * main `PHAEUPB`
 * mane `PHA*EPB`
 * maize `PHAEUZ`
-* Mays `PHAE/-S`
+* Mays `PHA*EU/-S`
 * maze `PHAEZ`
 * mall `PHAUL`
 * maul `PHA*UL`

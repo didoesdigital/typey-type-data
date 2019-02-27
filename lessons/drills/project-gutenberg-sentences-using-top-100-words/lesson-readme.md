@@ -84,7 +84,7 @@
 * she? `SHE H-F`
 * is?' `S H-F AE`
 * may! `PHAE SKHRAPL`
-* may `PHAE`
+* May `PHA*EU`
 * be! `-B SKHRAPL`
 * be. `-B TP-PL`
 * Me `KPA/PHE`
@@ -291,9 +291,10 @@
 * "He, `KR-GS KPA/HE KW-BG`
 * he!" `HE SKHRAPL KR-GS`
 * "In `KR-GS KPA/TPH`
+* May." `PHA*EU TP-PL KR-GS`
 * she?" `SHE H-F KR-GS`
 * was!" `WAS SKHRAPL KR-GS`
-* "May `KR-GS PHAE`
+* "May `KR-GS PHA*EU`
 * be!" `-B SKHRAPL KR-GS`
 * "Me--no!" `KR-GS KPA/PHE H-PB H-PB TPHO SKHRAPL KR-GS`
 * "No `KR-GS KPA/TPHO`
@@ -509,7 +510,7 @@
 * may.' `PHAE TP-PL AE`
 * them.) `THEPL TP-PL PR*EPB`
 * --"In `H-PB H-PB KR-GS KPA/TPH`
-* May? `PHAE H-F`
+* May? `PHA*EU H-F`
 * --Are `H-PB H-PB KPA/R`
 * --Can `H-PB H-PB KPA/K`
 * --Did `H-PB H-PB KPA/TK`
@@ -547,6 +548,7 @@
 * Good, `KPA/TKPWAOD KW-BG`
 * did `TK`
 * has `HAS`
+* may `PHAE`
 * said... `SAEUD TP-PL TP-PL TP-PL`
 * was `WAS`
 * would!' `WO SKHRAPL AE`

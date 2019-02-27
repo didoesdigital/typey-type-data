@@ -330,6 +330,51 @@
     "subcategory": "",
     "path": "/drills/pronouns/lesson.txt",
     "wordCount": 81,
+    "suggestedNext": "/drills/pronouns-continued/lesson.txt"
+  },
+  {
+    "title": "Pronouns Continued",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns-continued/lesson.txt",
+    "wordCount": 60,
+    "suggestedNext": "/drills/pronouns-contractions/lesson.txt"
+  },
+  {
+    "title": "Pronouns and Contractions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns-contractions/lesson.txt",
+    "wordCount": 69,
+    "suggestedNext": "/drills/titles/lesson.txt"
+  },
+  {
+    "title": "Titles",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/titles/lesson.txt",
+    "wordCount": 21,
+    "suggestedNext": "/drills/calendar/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/calendar/lesson.txt",
+    "wordCount": 24,
+    "suggestedNext": "/drills/time/lesson.txt"
+  },
+  {
+    "title": "Time",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/time/lesson.txt",
+    "wordCount": 62,
     "suggestedNext": "/drills/apostrophes/lesson.txt"
   },
   {
@@ -339,46 +384,6 @@
     "subcategory": "",
     "path": "/drills/apostrophes/lesson.txt",
     "wordCount": 421,
-    "suggestedNext": "/drills/pronouns-continued/lesson.txt"
-  },
-  {
-    "title": "Pronouns continued",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/pronouns-continued/lesson.txt",
-    "suggestedNext": "/drills/pronouns-contractions/lesson.txt"
-  },
-  {
-    "title": "Pronouns and Contractions",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/pronouns-contractions/lesson.txt",
-    "suggestedNext": "/drills/titles/lesson.txt"
-  },
-  {
-    "title": "Titles",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/titles/lesson.txt",
-    "suggestedNext": "/drills/calendar/lesson.txt"
-  },
-  {
-    "title": "Calendar",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/calendar/lesson.txt",
-    "suggestedNext": "/drills/time/lesson.txt"
-  },
-  {
-    "title": "Time",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/time/lesson.txt",
     "suggestedNext": "/drills/emotions/lesson.txt"
   },
   {

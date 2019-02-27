@@ -21,7 +21,7 @@
 * fall `TPAUL`
 * future `TPAOURT`
 * hour `HOUR`
-* hours `HAURS`
+* hours `HOURS`
 * instant `STPHAPBT`
 * late `HRAEUT`
 * midday `PHEUD/TKAEU`

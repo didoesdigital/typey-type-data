@@ -185,9 +185,9 @@ Project Gutenberg sentences using top 100 words
 'was!': WAS SKHRAPL
 'It': KPA/T
 'was.': WAS TP-PL
-'May': PHAE
+'May': PHA*EU
 'be!': -B SKHRAPL
-'May': PHAE
+'May': PHA*EU
 'be.': -B TP-PL
 'Me': KPA/PHE
 'see.': SAOE TP-PL
@@ -549,7 +549,7 @@ Project Gutenberg sentences using top 100 words
 'it?': T H-F
 'Like': KPA/HRAOEUBG
 'me.': PHE TP-PL
-'May': PHAE
+'May': PHA*EU
 'be!'': -B SKHRAPL AE
 'Me,': KPA/PHE KW-BG
 'now?': TPHOU H-F
@@ -829,7 +829,7 @@ Project Gutenberg sentences using top 100 words
 '"He,': KR-GS KPA/HE KW-BG
 'he!"': HE SKHRAPL KR-GS
 '"In': KR-GS KPA/TPH
-'May."': PHAE TP-PL KR-GS
+'May."': PHA*EU TP-PL KR-GS
 '"Is': KR-GS KPA/S
 'she?"': SHE H-F KR-GS
 '"It': KR-GS KPA/T
@@ -840,7 +840,7 @@ Project Gutenberg sentences using top 100 words
 'was!"': WAS SKHRAPL KR-GS
 '"It': KR-GS KPA/T
 'was."': WAS TP-PL KR-GS
-'"May': KR-GS PHAE
+'"May': KR-GS PHA*EU
 'be!"': -B SKHRAPL KR-GS
 '"Me--no!"': KR-GS KPA/PHE H-PB H-PB TPHO SKHRAPL KR-GS
 '"No': KR-GS KPA/TPHO
@@ -1661,7 +1661,7 @@ Project Gutenberg sentences using top 100 words
 '(To': PREPB KPA/TO
 'them.)': THEPL TP-PL PR*EPB
 '--"In': H-PB H-PB KR-GS KPA/TPH
-'May?': PHAE H-F
+'May?': PHA*EU H-F
 '--Are': H-PB H-PB KPA/R
 'you?': U H-F
 '--Can': H-PB H-PB KPA/K
@@ -1927,7 +1927,7 @@ Project Gutenberg sentences using top 100 words
 'that?': THA H-F
 'Like': KPA/HRAOEUBG
 'this?': TH H-F
-'May': PHAE
+'May': PHA*EU
 'be': -B
 'so.': SO TP-PL
 'Much': KPA/PHUFP
@@ -2841,7 +2841,7 @@ Project Gutenberg sentences using top 100 words
 'so.': SO TP-PL
 'Know': KPA/TPHOE
 'what?'': WHA H-F AE
-'May': PHAE
+'May': PHA*EU
 'we': WE
 'see?': SAOE H-F
 'Men': KPA/PHEPB
@@ -4313,7 +4313,7 @@ Project Gutenberg sentences using top 100 words
 '"It': KR-GS KPA/T
 'will': HR
 'be?"': -B H-F KR-GS
-'"May': KR-GS PHAE
+'"May': KR-GS PHA*EU
 'we': WE
 'not?"': TPHOT H-F KR-GS
 '"More,': KR-GS KPA/PHOR KW-BG
@@ -4849,7 +4849,7 @@ Project Gutenberg sentences using top 100 words
 'Man,': KPA/PHAPB KW-BG
 'not': TPHOT
 'men.': PHEPB TP-PL
-'May': PHAE
+'May': PHA*EU
 'we': WE
 'do': TKO
 'so?': SO H-F
@@ -6565,7 +6565,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'not': TPHOT
 'so."': SO TP-PL KR-GS
-'"May': KR-GS PHAE
+'"May': KR-GS PHA*EU
 'it': T
 'be': -B
 'so!"': SO SKHRAPL KR-GS
@@ -7127,11 +7127,11 @@ Project Gutenberg sentences using top 100 words
 'will': HR
 'not': TPHOT
 'do.': TKO TP-PL
-'May': PHAE
+'May': PHA*EU
 'be;': -B STPH*FPLT
 'may': PHAE
 'be.': -B TP-PL
-'May': PHAE
+'May': PHA*EU
 'this': TH
 'be': -B
 'so?': SO H-F
@@ -8319,12 +8319,12 @@ Project Gutenberg sentences using top 100 words
 'would': WO
 'not': TPHOT
 'do.': TKO TP-PL
-'May': PHAE
+'May': PHA*EU
 'a': AEU
 'man': PHAPB
 'do': TKO
 'it?': T H-F
-'May': PHAE
+'May': PHA*EU
 'we': WE
 'see': SAOE
 'them?': THEPL H-F
@@ -11637,7 +11637,7 @@ Project Gutenberg sentences using top 100 words
 'to': TO
 'know': TPHOE
 'her?"': HER H-F KR-GS
-'"May': KR-GS PHAE
+'"May': KR-GS PHA*EU
 'a': AEU
 'woman': WOPL
 'know?"': TPHOE H-F KR-GS
@@ -12186,7 +12186,7 @@ Project Gutenberg sentences using top 100 words
 'you': U
 'these': THEZ
 'two?': TWO H-F
-'May': PHAE
+'May': PHA*EU
 'we': WE
 'not': TPHOT
 'see': SAOE
@@ -12693,7 +12693,7 @@ Project Gutenberg sentences using top 100 words
 'be': -B
 'to': TO
 'you."': U TP-PL KR-GS
-'"May': KR-GS PHAE
+'"May': KR-GS PHA*EU
 'we': WE
 'see': SAOE
 'it': T
@@ -15041,7 +15041,7 @@ Project Gutenberg sentences using top 100 words
 'as': AZ
 'it': T
 'will!': HR SKHRAPL
-'May': PHAE
+'May': PHA*EU
 'have': SR
 'been': PW-PB
 'or': OR
