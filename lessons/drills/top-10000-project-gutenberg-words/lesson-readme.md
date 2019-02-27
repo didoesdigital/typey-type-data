@@ -4315,7 +4315,7 @@
 * excess `EBG/SES`
 * separation `SERPGS`
 * disgust `TKEUS/TKPWUFT`
-* ha `HA`
+* ha `HAE`
 * accomplish `PHREURB`
 * speeches `SPAOEFPS`
 * Herbert `HERB/ERT`
@@ -6539,7 +6539,7 @@
 * homeward `HOEPL/WARD`
 * Alexandria `KPARPBD`
 * finely `TPAOEUBL/HREU`
-* li `HROEU`
+* li `HR*/SKWREU`
 * efficiency `AOERB`
 * marvel `PHAFRL`
 * tranquillity `TRAPB/KW*EULT`
@@ -7489,7 +7489,7 @@
 * IRS `EURBGS/R*S`
 * confine `KAUPB/TPAOEUPB`
 * sewing `SWEG`
-* CO `KO*`
+* co `KR*/O*`
 * congratulate `TKPWRAT/HRAEUT`
 * Walt `WA*LT`
 * reconcile `REBG/SAOEUL`

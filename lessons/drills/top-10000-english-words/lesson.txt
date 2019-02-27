@@ -682,7 +682,7 @@ Top 10000 English words
 'computers': KPAOURTS
 'journal': SKWRURPL
 'reports': RORPS
-'co': KO*
+'co': KR*/O*
 'try': TREU
 'welcome': WELG
 'central': STRAL
@@ -1160,7 +1160,7 @@ Top 10000 English words
 'score': SKOR
 'statistics': ST-BGS
 'client': KHRAOEUPBT
-'OK': OBG
+'ok': O*EBG
 'returns': RURPBS
 'capital': KAPLT
 'follow': TPOL
@@ -3490,7 +3490,7 @@ Top 10000 English words
 'slot': SHROT
 'psp': P*/S*/P*
 'outstanding': OUPBG
-'ha': HA
+'ha': HAE
 'eating': AOEGT
 'perspective': PEF
 'planned': PHRAPBD
@@ -4163,7 +4163,7 @@ Top 10000 English words
 'mining': PHAOEUPBG
 'designers': STKAOEURPBS
 'Melbourne': PH*EBL
-'ongoing': AOPB/TKPW-G
+'ongoing': AUPB/TKPW-G
 'worst': WOFRT
 'imaging': EUPBLG/-G
 'betting': PWET/-G
@@ -4387,7 +4387,7 @@ Top 10000 English words
 'pipeline': PAOEUP/HROEUPB
 'necessarily': TPHELS
 'syntax': SEUPB/TABGS
-'li': HROEU
+'li': HR*/SKWREU
 'attribute': TR-BT
 'prison': PREUZ
 'skill': SKEUL
