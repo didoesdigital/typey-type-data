@@ -415,7 +415,7 @@
 * slut, `SHRUT KW-BG`
 * dance; `TKAPBS STPH*FPLT`
 * go.' `TKPW TP-PL AE`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * 'If `AE KPA/TP`
 * can `K`
 * one `WUPB`
@@ -708,7 +708,7 @@
 * sure `SHUR`
 * bride.' `PWRAOEUD TP-PL AE`
 * send `SEPBD`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * dirty; `TKOEURT STPH*FPLT`
 * dare `TKAEUR`
 * show `SHOE`

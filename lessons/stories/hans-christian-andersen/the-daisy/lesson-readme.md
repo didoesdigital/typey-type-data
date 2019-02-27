@@ -121,7 +121,7 @@
 * how `HOU`
 * kind `KEUPBD`
 * God `TKPWO*D`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * rejoiced `RE/SKWROEUS/-D`
 * expressed `EBGS/PREFD`
 * so `SO`

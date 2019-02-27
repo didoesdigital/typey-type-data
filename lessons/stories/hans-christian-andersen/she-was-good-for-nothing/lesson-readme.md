@@ -264,7 +264,7 @@
 * shall `SHAL`
 * ill. `EUL TP-PL`
 * But `KPA/PWUT`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * must `PHUFT`
 * afraid `A/TPRAEUD`
 * that. `THA TP-PL`

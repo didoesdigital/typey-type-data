@@ -268,7 +268,7 @@
 * Not `KPA/TPHOT`
 * knowing `TPHOEG`
 * better `PWOERT`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * plan, `PHRAPB KW-BG`
 * learnt `HRERPBT/A*U`
 * tailoring `TAEUL/ORG`
@@ -441,7 +441,7 @@
 * whether `WHR`
 * princess `PREUPB/ES`
 * free. `TPRAOE TP-PL`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * however,' `HOUF KW-BG AE`
 * through `THRU`
 * glass; `TKPWHRAS STPH*FPLT`

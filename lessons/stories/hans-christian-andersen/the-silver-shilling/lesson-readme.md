@@ -583,7 +583,7 @@
 * With `KPA/W`
 * several `SEFRL`
 * men `PHEPB`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * chest, `KHEFT KW-BG`
 * "Whether `KR-GS KPA/WHR`
 * ticket `TEUBGT`

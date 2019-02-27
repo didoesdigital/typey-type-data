@@ -279,7 +279,7 @@
 * am `APL`
 * office? `OFS H-F`
 * No, `KPA/TPHO KW-BG`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * unable `TPHA*EUBL`
 * cloth." `KHRO*T TP-PL KR-GS`
 * "Now, `KR-GS KPA/TPHOU KW-BG`

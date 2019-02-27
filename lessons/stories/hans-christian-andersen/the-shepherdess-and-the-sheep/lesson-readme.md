@@ -456,7 +456,7 @@
 * world `WORLD`
 * me?" `PHE H-F KR-GS`
 * "have `KR-GS SR`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * come `KOPL`
 * back `PWABG`
 * here `HAOER`

@@ -147,7 +147,7 @@
 * stupidly `STAOUP/TKHREU`
 * awkwardly, `AUBG/WARD/HREU KW-BG`
 * can `K`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * she's `SHAOES`
 * as `AZ`
 * soft `SOFT`

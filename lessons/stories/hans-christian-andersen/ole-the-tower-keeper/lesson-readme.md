@@ -314,7 +314,7 @@
 * The `KPA/-T`
 * romance `RO/PHAPBS`
 * earth `*ERT`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * all, `AUL KW-BG`
 * most `PHOFT`
 * wonderful `WUFL`
@@ -1282,7 +1282,7 @@
 * mixed, `PHEUGD KW-BG`
 * king `KEUPBG`
 * beggar, `PWEG/ER KW-BG`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * idiot, `EUD/KWROT KW-BG`
 * side `SAOEUD`
 * side. `SAOEUD TP-PL`

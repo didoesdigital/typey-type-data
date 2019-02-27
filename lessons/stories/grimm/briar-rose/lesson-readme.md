@@ -103,7 +103,7 @@
 * what `WHA`
 * your `KWROUR`
 * wish `WEURB`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * shall `SHAL`
 * be `-B`
 * fulfilled, `TPUL/TPEULD KW-BG`
@@ -395,7 +395,7 @@
 * something `S-G`
 * amiss, `A/PHEUS KW-BG`
 * let `HRET`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * both `PWO*T`
 * asleep; `A/HRAOEP STPH*FPLT`
 * butler, `PWUT/HRER KW-BG`

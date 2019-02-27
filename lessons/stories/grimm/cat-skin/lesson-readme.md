@@ -391,7 +391,7 @@
 * behind `HEUPBD`
 * door.' `TKAOR TP-PL AE`
 * cook `KAOBG`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * half `HAF`
 * an `APB`
 * hour's `HOUR AES`

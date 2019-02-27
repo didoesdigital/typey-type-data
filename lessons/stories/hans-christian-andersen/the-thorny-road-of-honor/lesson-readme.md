@@ -81,7 +81,7 @@
 * benefactors `PWEPB/TPABG/TOR/-S`
 * mankind, `PHAPB/KAOEUPBD KW-BG`
 * martyrs `PHART/ERS`
-* genius, `SKWRAOEPBS/KWRUS KW-BG`
+* genius, `SKWRAOEPB/KWROUS KW-BG`
 * wandered `WAPBD/-D`
 * along `HRAOPBG`
 * thorny `THORPB/KWREU`
@@ -168,7 +168,7 @@
 * turmoil `TUR/PHOEUL`
 * battle, `PWA*LT KW-BG`
 * whose `WHOZ`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * soared `SAORD`
 * far `TPAR`
 * above `PWOF`

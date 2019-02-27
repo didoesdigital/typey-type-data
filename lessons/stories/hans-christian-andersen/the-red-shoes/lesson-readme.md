@@ -308,7 +308,7 @@
 * worn `WORPB`
 * shocking `SHOBG/-G`
 * thing `THEUPBG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * improper, `EUPL/PROR KW-BG`
 * always `AULS`
 * future `TPAOURT`

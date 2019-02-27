@@ -220,7 +220,7 @@
 * grandchildren `TKPWR-PB`
 * widow `WO*EUD`
 * (that `PREPB THA`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * tanner's `TAPB/ER AES`
 * widow, `WO*EUD KW-BG`
 * never `TPHEFR`

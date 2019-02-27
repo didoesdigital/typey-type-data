@@ -288,7 +288,7 @@
 * dancing. `TKAPBS/-G TP-PL`
 * youngest `KWRUPBG/EFT`
 * don't `TKOEPBT`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * are `R`
 * happy `HAEP`
 * feel `TPAOEL`

@@ -783,7 +783,7 @@
 * gloves; `TKPWHROFS STPH*FPLT`
 * carefulness `KAEUFL/-PBS`
 * rather `RAER`
-* tedious. `TAOED/KWRUS TP-PL`
+* tedious. `TAOED/KWROUS TP-PL`
 * Days `KPA/TKAEUS`
 * weeks `WAOEBGS`
 * went `WEPBT`

@@ -21,7 +21,7 @@
 * 'How `AE KPA/HOU`
 * lonely `HROPBL`
 * it `T`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * wife,' `WAOEUF KW-BG AE`
 * said `SAEUD`
 * he, `HE KW-BG`
@@ -232,7 +232,7 @@
 * told `TOLD`
 * beast `PWAOEFT`
 * how `HOU`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * crying `KRAOEUG`
 * out, `OUT KW-BG`
 * 'Go `AE KPA/TKPW`

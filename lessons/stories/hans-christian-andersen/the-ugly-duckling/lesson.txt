@@ -1304,7 +1304,7 @@ The Ugly Duckling
 'know': TPHOE
 'where': W-R
 'to': TO
-'go,': TKPW KW-BG
+'go,': TKPW-RBGS
 'and': SKP
 'was': WAS
 'quite': KWAOEUT
@@ -2375,7 +2375,7 @@ The Ugly Duckling
 'nothing': TPHOG
 'else': ELS
 'to': TO
-'do,': TKO KW-BG
+'do,': TKORBGS
 'therefore': TH-FR
 'you': U
 'have': SR
@@ -3687,7 +3687,7 @@ The Ugly Duckling
 'know': TPHOE
 'what': WHA
 'to': TO
-'do,': TKO KW-BG
+'do,': TKORBGS
 'he': HE
 'was': WAS
 'so': SO

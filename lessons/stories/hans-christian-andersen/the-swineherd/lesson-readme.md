@@ -445,7 +445,7 @@
 * pancakes; `PAPB/KAEUBG/-S STPH*FPLT`
 * porridge `PORPBLG`
 * cutlets; `KUT/HRET/-S STPH*FPLT`
-* oh, `O*E KW-BG`
+* oh, `OERBGS`
 * interesting!" `TR-G SKHRAPL KR-GS`
 * "Very `KR-GS KPA/SRE`
 * interesting, `TR-G KW-BG`

@@ -296,7 +296,7 @@
 * work. `WORBG TP-PL`
 * The `KPA/-T`
 * rode—that `ROED EPL/TKA*RB THA`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * put `PUT`
 * wheelbarrow, `WHAOEL/PWAR/ROE KW-BG`
 * distinction; `TKWEUPBGS STPH*FPLT`

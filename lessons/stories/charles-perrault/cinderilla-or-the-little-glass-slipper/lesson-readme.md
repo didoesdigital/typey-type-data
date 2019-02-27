@@ -646,10 +646,10 @@
 * confused `KAOUFD`
 * noise `TPHOEUS`
 * of, `-F KW-BG`
-* "Ha! `KR-GS KPA/HA SKHRAPL`
+* "Ha! `KR-GS KPA/HAE SKHRAPL`
 * handsome `HAPBD/SOPL`
 * is! `S SKHRAPL`
-* Ha! `KPA/HA SKHRAPL`
+* Ha! `KPA/HAE SKHRAPL`
 * is!" `S SKHRAPL KR-GS`
 * King `KO*EUPBG`
 * himself, `H*EUPLS KW-BG`

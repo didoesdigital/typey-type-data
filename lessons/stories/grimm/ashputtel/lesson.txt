@@ -873,7 +873,7 @@ Ashputtel
 'very': SRE
 'hard': HARD
 'to': TO
-'go,': TKPW KW-BG
+'go,': TKPW-RBGS
 'she': SHE
 'said,': SAEUD KW-BG
 ''If': AE KPA/TP
@@ -2382,7 +2382,7 @@ Ashputtel
 'mother': PHOER
 'said,': SAEUD KW-BG
 ''No,': AE KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'she': SHE
 'is': S
 'much': PHUFP

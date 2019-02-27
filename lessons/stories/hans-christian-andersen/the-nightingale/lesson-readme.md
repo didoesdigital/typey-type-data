@@ -124,7 +124,7 @@
 * had `H`
 * other `OER`
 * things `THEUPBGS`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * would `WO`
 * stop `STOP`
 * listen. `HREUFPB TP-PL`

@@ -143,7 +143,7 @@
 * you `U`
 * again," `TKPWEPB KW-BG KR-GS`
 * if `TP`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * hit `HEUT`
 * your `KWROUR`
 * horse `HORS`
@@ -216,7 +216,7 @@
 * very `SRE`
 * long `HROPBG`
 * way `WAEU`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * pass `PAS`
 * through `THRU`
 * dark, `TKARBG KW-BG`
@@ -555,7 +555,7 @@
 * "Well, `KR-GS KPA/WEL KW-BG`
 * much `PHUFP`
 * sexton." `SEBGS/TOPB TP-PL KR-GS`
-* "Ha!" `KR-GS KPA/HA SKHRAPL KR-GS`
+* "Ha!" `KR-GS KPA/HAE SKHRAPL KR-GS`
 * "then `KR-GS THEPB`
 * ugly. `ULG TP-PL`
 * Do `KPA/TKO`
@@ -713,7 +713,7 @@
 * he? `HE H-F`
 * drowned." `TKROUPBD TP-PL KR-GS`
 * no; `TPHO STPH*FPLT`
-* oh, `O*E KW-BG`
+* oh, `OERBGS`
 * no," `TPHO KW-BG KR-GS`
 * sexton; `SEBGS/TOPB STPH*FPLT`
 * go. `TKPW TP-PL`

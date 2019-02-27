@@ -1,5 +1,6 @@
 # Multi-syllable words with prefixes
 
+* online `AUPB/HRAOEUPB`
 * email `AOE/PHAEUL`
 * info `EUPB/TPO`
 * review `RE/SRAOU`
@@ -80,6 +81,7 @@
 * import `EUPL/PORT`
 * increasing `EUPB/KRAOEGS`
 * ahead `A/HED`
+* preview `PRE/SRAOU`
 * containing `KAUPB/TAEUPBG`
 * amendment `A/PHEPLT`
 * adobe `A/TKOEB`
@@ -91,7 +93,6 @@
 * aware `A/WAEUR`
 * remains `RE/PHAEUPBS`
 * encyclopedia `EPB/SAOEUBG/PAOED/KWRA`
-* interracial `SPWR/RAEURBL`
 * attempt `A/TEPLT`
 * accordance `A/KORD/APBS`
 * array `A/RAEU`
@@ -142,7 +143,6 @@
 * approaches `A/PROEFPS`
 * alarm `A/HRARPL`
 * appeared `A/PAOERD`
-* ongoing `AOPB/TKPW-G`
 * era `ER/KWRA`
 * reliability `RE/HREUBLT`
 * attachment `A/TAPLT`
@@ -179,6 +179,7 @@
 * emissions `AOE/PHEUGS/-S`
 * decrease `TKE/KRAOS`
 * emerging `AOE/PHERPBLG/-G`
+* precision `PRE/SEUGS`
 * reproduction `RE/PROUBGS`
 * rehabilitation `RE/HAB/TAEUGS`
 * refund `RE/TPUPBD`
@@ -285,8 +286,8 @@
 * removing `RAOE/PHOFG`
 * approve `A/PROF`
 * abortion `A/PWORGS`
-* antivirus `APB/TEU/SREURS`
 * addressing `A/TKREFG`
+* previews `PRE/SRAOUS`
 * concluded `KAUPB/KAOUD/-D`
 * addiction `A/TKEUBG`
 * undefined `UPB/TKAOE/TPAOEUPBD`
@@ -363,6 +364,7 @@
 * inputs `EUPB/PUTS`
 * arrange `A/RAEUPBG`
 * unified `AOUPB/TPAOEUD`
+* precise `PRE/SAOEUS`
 * transexual `TRAPBZ/SEBGS/WAL`
 * invoice `EUPB/SROES`
 * embassy `EPL/PWAES`
@@ -404,6 +406,7 @@
 * aboriginal `AB/REUPBL`
 * refurbished `RE/TPURB/EURBD`
 * assign `A/SAOEUB`
+* premiere `PRE/PHAOER`
 * inherited `EUPB/HERTD`
 * incomplete `EUPB/KPHRAOET`
 * reveals `RE/SRAOELS`
@@ -433,6 +436,7 @@
 * impressed `EUPL/PREFD`
 * rehab `RE/HAB`
 * epic `EP/EUBG`
+* preceding `PRE/SAOED/-G`
 * retrieve `RE/TRAOEF`
 * reviewing `RE/SRAOUG`
 * influenced `EUPB/TPHRAOUPBS/-D`
@@ -480,6 +484,7 @@
 * adaptive `A/TKAPT/EUF`
 * invision `EUPB/SREUGS`
 * emacs `AOE/PHABG`
+* predictions `PRE/TKEUBGS/-S`
 * accompanying `A/K-PG`
 * removable `RE/PHOFBL`
 * emperor `EPL/ROR`
@@ -585,6 +590,7 @@
 * reminded `RE/PHAOEUPBD/T-D`
 * attained `A/TAEUPBD`
 * abruptly `A/PWRUPT/HREU`
+* pretended `PRE/TEPBD/-D`
 * alarmed `A/HRARPLD`
 * conquered `KAUPB/KERD`
 * conceive `KAUPB/SAOEF`
@@ -604,6 +610,7 @@
 * upstairs `AUP/STAEURS`
 * descent `TKE/SEPBT`
 * envy `EPB/SREU`
+* pretend `PRE/TEPBD`
 * alas `A/HRAS`
 * awakened `A/WAEUBG/-PBD`
 * embrace `EPL/PWRAEUS`
@@ -695,6 +702,7 @@
 * dismay `TKEUS/PHAEU`
 * imperfect `EUPL/PER`
 * superstition `SAOUP/STEUGS`
+* prevail `PRE/SRAEUL`
 * prolonged `PRO/HROPBGD`
 * emerged `AOE/PHERPBLGD`
 * eternity `AOE/TERPBT`
@@ -763,7 +771,6 @@
 * distrust `TKEUS/TRUFT`
 * contemplated `KAUPB/TPHRAEUT/-D`
 * universally `AOUPB/SRERS/HREU`
-* displeasure `TKEUZ/PHRERB`
 * impress `EUPL/PRES`
 * resisted `RE/SEUFT/-D`
 * detained `TKE/TAEUPBD`
@@ -774,6 +781,7 @@
 * rejoicing `RE/SKWROEUFG`
 * instinctively `EUPB/STEUPBGT/EUFL`
 * inland `EUPB/HRAPBD`
+* pretext `PRE/TEGT`
 * betwixt `PWE/TWEUGT`
 * aristocratic `A/REUFT/KRAT/EUBG`
 * attentive `A/TEPBT/EUF`
@@ -790,6 +798,7 @@
 * endurance `EPB/TKURPBS`
 * allegiance `A/HREPBLG/APBS`
 * dispose `TKEUS/POES`
+* precaution `PRE/KAUGS`
 * endeavored `EPB/TKEFRD`
 * entrusted `EPB/TRUFT/-D`
 * confronted `KAUPB/TPROPBTD`
@@ -852,6 +861,7 @@
 * invaded `EUPB/SRAEUD/-D`
 * insensible `EUPB/SEPBS/-BL`
 * involuntarily `EUPB/SROL/TAEURL`
+* precautions `PRE/KAUGS/-S`
 * unfit `UPB/TPEUT`
 * disgusted `TKEUS/TKPWUFT/-D`
 * inconvenience `EUPB/SRAOEPBS`
@@ -963,10 +973,8 @@
 * malignant `PHAL/EUG/TPHAPBT`
 * accorded `A/KORD/-D`
 * inquisition `EUPB/KWEUS/EUGS`
-* discord `TKEUZ/KORD`
 * detain `TKE/TAEUPB`
 * imperious `EUPL/PER/KWROUS`
-* disgraceful `TKEUZ/TKPWRAEUS/-FL`
 * redemption `RE/TKEPLS`
 * unfinished `UPB/TPERPD/EURBD`
 * impetuous `EUPL/PET/WOUS`
@@ -1067,6 +1075,7 @@
 * affirmative `A/TPEURPL/TEUF`
 * dissatisfaction `TKEUS/SAEBGS`
 * discarded `TKEUS/KARD/-D`
+* precarious `PRE/KAEURS`
 * annoy `A/TPHOEU`
 * impunity `EUPL/PAOUPB/TEU`
 * conveying `KAUPB/SRAEUG`

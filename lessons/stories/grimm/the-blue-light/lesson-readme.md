@@ -398,7 +398,7 @@
 * me.' `PHE TP-PL AE`
 * easy `EZ`
 * thing `THEUPBG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * dangerous `TKAEUPBLGS`
 * you, `U KW-BG`
 * discovered, `SKOFD KW-BG`

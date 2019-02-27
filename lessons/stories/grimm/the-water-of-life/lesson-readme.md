@@ -247,7 +247,7 @@
 * The `KPA/-T`
 * first `TPEUFRT`
 * unwilling `TPH-LG`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * yielded `KWRAOELD/-D`
 * wish. `WEURB TP-PL`
 * So `KPA/SO`
@@ -672,7 +672,7 @@
 * he. `HE TP-PL`
 * hard, `HARD KW-BG`
 * 'Only `AE KPA/OEPBL`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * angry, `APBG/REU KW-BG`
 * forgive `TPAURG`
 * 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`

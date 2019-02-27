@@ -150,7 +150,7 @@ The Bottle Neck
 'bottle': PWO*LT
 'neck:': TPHEBG STPH-FPLT
 'that': THA
-'is,': S KW-BG
+'is,': S-RBGS
 'he': HE
 'did': TK
 'not': TPHOT
@@ -160,7 +160,7 @@ The Bottle Neck
 'words': WORDZ
 'as': AZ
 'we': WE
-'do,': TKO KW-BG
+'do,': TKORBGS
 'for': TPOR
 'the': -T
 'neck': TPHEBG
@@ -664,7 +664,7 @@ The Bottle Neck
 'a': AEU
 'bird's-cage,': PWEURD AE S* H-PB KAEUPBLG KW-BG
 'which': WEU
-'is,': S KW-BG
+'is,': S-RBGS
 'after': AF
 'all,': AUL KW-BG
 'a': AEU
@@ -1673,7 +1673,7 @@ The Bottle Neck
 'bottle': PWO*LT
 'was': WAS
 'to': TO
-'go,': TKPW KW-BG
+'go,': TKPW-RBGS
 'not': TPHOT
 'the': -T
 'little': HREUL

@@ -205,7 +205,7 @@
 * ship; `SHEUP STPH*FPLT`
 * carver `KAR/SRER`
 * wood, `WAOD KW-BG`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * who `WHO`
 * carved `KAFRBD`
 * figures `TPEUGS`

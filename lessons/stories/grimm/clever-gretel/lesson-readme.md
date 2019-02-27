@@ -276,7 +276,7 @@
 * swallowed `SWAL/OED`
 * still `STEUL`
 * 'What `AE KPA/WHA`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * likewise, `HRAOEUBG/WAOEUS KW-BG`
 * together; `TOGT STPH*FPLT`
 * what's `WHATS`

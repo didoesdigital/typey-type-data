@@ -375,7 +375,7 @@
 * lodgers' `HROPBLG/ER/-S AE`
 * removal. `RE/PHOFL TP-PL`
 * flower, `TPHRO*UR KW-BG`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * added `AD/-D`
 * our `OUR`
 * nosegay, `TPHOES/TKPWAEU KW-BG`

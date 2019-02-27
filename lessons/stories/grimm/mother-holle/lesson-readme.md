@@ -113,7 +113,7 @@
 * not `TPHOT`
 * knowing `TPHOEG`
 * what `WHA`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * at `AT`
 * last `HRAFT`
 * distress `STKRES`

@@ -80,7 +80,7 @@
 * Well, `KPA/WEL KW-BG`
 * didn't `TK-PBT`
 * know `TPHOE`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * at `AT`
 * last `HRAFT`
 * took `TAOBG`

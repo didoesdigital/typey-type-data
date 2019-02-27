@@ -354,7 +354,7 @@
 * 'pray `AE PRAEU`
 * girl `TKPWEURL`
 * work `WORBG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * idle.' `AOEUD/*L TP-PL AE`
 * think `THEU`
 * lad `HRAD`

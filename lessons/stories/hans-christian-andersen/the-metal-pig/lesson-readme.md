@@ -557,7 +557,7 @@
 * Do `KPA/TKO`
 * get `TKPWET`
 * yet, `KWRET KW-BG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * lifeless, `HRAOEUF/-LS KW-BG`
 * me `PHE`
 * Rosa." `ROE/SA TP-PL KR-GS`
@@ -970,7 +970,7 @@
 * Giuseppe `SKWREUS/EP/PE`
 * morning, `PHORPBG KW-BG`
 * glad `TKPWHRAD`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * knew `TPHAOU`
 * gone `TKPWOPB`
 * mother, `PHOER KW-BG`

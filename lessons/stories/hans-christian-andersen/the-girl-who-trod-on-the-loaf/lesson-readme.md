@@ -163,7 +163,7 @@
 * her, `HER KW-BG`
 * "You `KR-GS KPA/U`
 * ought `OT`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * for `TPOR`
 * once, `WUPBS KW-BG`
 * your `KWROUR`

@@ -353,7 +353,7 @@
 * did `TK`
 * hated `HAEUT/-D`
 * dared `TKAEURD`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * vain; `SRA*EUPB STPH*FPLT`
 * heard `HAERD`
 * nothing `TPHOG`
@@ -426,7 +426,7 @@
 * Jorinda? `xxx Jorinda H-F`
 * While `KPA/WHAOEUL`
 * thinking `THEUG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * taken `TAEPB`
 * cages, `KAEUPBLGS KW-BG`
 * making `PHAEUG`

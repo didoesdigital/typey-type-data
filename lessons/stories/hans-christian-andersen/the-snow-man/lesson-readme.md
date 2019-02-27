@@ -664,7 +664,7 @@
 * gentle `SKWR*EPBLT`
 * glow, `TKPWHROE KW-BG`
 * moon; `PHAOPB STPH*FPLT`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * light `HRAOEUT`
 * gleams `TKPWHRAOEPL/-S`
 * fed. `TPED TP-PL`

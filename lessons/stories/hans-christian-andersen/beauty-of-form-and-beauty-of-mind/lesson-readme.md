@@ -366,7 +366,7 @@
 * lottery," `HROT/REU KW-BG KR-GS`
 * officer's `OEUF AES`
 * "and `KR-GS SKP`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * we `WE`
 * will `HR`
 * travel—I `TRAFL EPL/TKA*RB EU`

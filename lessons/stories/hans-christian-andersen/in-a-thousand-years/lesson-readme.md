@@ -94,7 +94,7 @@
 * whose `WHOZ`
 * ground `TKPWROUPBD`
 * it `T`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * built `PWEULT`
 * bench, `PWEFRPB KW-BG`
 * he `HE`

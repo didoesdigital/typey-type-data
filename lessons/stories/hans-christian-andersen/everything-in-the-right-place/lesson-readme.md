@@ -1005,7 +1005,7 @@
 * "you `KR-GS U`
 * flute, `TPHRAOUT KW-BG`
 * yourself; `KWRO*URS STPH*FPLT`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * rules—the `RAOULS EPL/TKA*RB -T`
 * due `TKAOU`
 * "Certainly `KR-GS KPA/SERPBL`

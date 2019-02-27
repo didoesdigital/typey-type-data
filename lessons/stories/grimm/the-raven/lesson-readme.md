@@ -145,7 +145,7 @@
 * take `TAEUBG`
 * either; `AOERT STPH*FPLT`
 * if `TP`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * fall `TPAUL`
 * deep `TKAOEP`
 * sleep, `SHRAOEP KW-BG`

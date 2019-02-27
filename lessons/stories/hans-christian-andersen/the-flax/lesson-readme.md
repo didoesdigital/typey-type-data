@@ -109,7 +109,7 @@
 * not `TPHOT`
 * yet `KWRET`
 * well `WEL`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * sticks `STEUBGS`
 * are `R`
 * knotty;" `TPHOT/TEU STPH*FPLT KR-GS`
@@ -246,7 +246,7 @@
 * only `OEPBL`
 * beginning. `TKPWEUPB/-G TP-PL`
 * wonderful `WUFL`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * suffered, `SUFRD KW-BG`
 * at `AT`
 * last; `HRAFT STPH*FPLT`

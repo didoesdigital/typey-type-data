@@ -612,7 +612,7 @@
 * "Are `KR-GS KPA/R`
 * brothers?" `PWROERS H-F KR-GS`
 * "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * dear `TKAER`
 * flock `TPHROBG`
 * sheep." `SHAOEP TP-PL KR-GS`

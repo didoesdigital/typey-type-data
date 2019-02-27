@@ -182,7 +182,7 @@
 * air—the `AEUR EPL/TKA*RB -T`
 * sparrows, `SPAEUR/ROE/-S KW-BG`
 * swallows; `SWAL/OES STPH*FPLT`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * despised `STKPAOEUZ/-D`
 * them, `THEPL KW-BG`
 * these `THEZ`
@@ -238,7 +238,7 @@
 * this `TH`
 * new `TPHU`
 * interesting; `TR-G STPH*FPLT`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * first `TPEUFRT`
 * time, `TAOEUPL KW-BG`
 * afterwards, `A*FRDZ KW-BG`
@@ -250,7 +250,7 @@
 * stories, `STOERS KW-BG`
 * that's `THATS`
 * very `SRE`
-* tedious, `TAOED/KWRUS KW-BG`
+* tedious, `TAOED/KWROUS KW-BG`
 * no `TPHO`
 * whom `WHOPL`
 * associate, `SOERBT KW-BG`

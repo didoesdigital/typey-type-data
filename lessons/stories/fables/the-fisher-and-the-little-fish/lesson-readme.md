@@ -16,7 +16,7 @@
 * "Pray, `KR-GS KPA/PRAEU KW-BG`
 * let `HRET`
 * me `PHE`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * master," `PHAFRT KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`

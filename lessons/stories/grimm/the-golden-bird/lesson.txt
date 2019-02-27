@@ -344,7 +344,7 @@ The Golden Bird
 'what': WHA
 'your': KWROUR
 'business': PWEUS
-'is,': S KW-BG
+'is,': S-RBGS
 'and': SKP
 'that': THA
 'you': U
@@ -691,7 +691,7 @@ The Golden Bird
 'agreed': TKPWRAED
 'he': HE
 'should': SHO
-'go,': TKPW KW-BG
+'go,': TKPW-RBGS
 'for': TPOR
 'he': HE
 'would': WO
@@ -1855,7 +1855,7 @@ The Golden Bird
 'where': W-R
 'the': -T
 'bird': PWEURD
-'is,': S KW-BG
+'is,': S-RBGS
 'I': EU
 'will': HR
 'stay': STAEU

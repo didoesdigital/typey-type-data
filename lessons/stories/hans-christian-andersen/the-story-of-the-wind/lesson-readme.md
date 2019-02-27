@@ -1115,7 +1115,7 @@
 * resolutely `RES/HRAOUT/HREU`
 * completed. `KPHRAOETD TP-PL`
 * ought `OT`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * succeed `SKAOED`
 * last.' `HRAFT TP-PL AE`
 * morning `PHORPBG`
@@ -1364,11 +1364,11 @@
 * magpies `PHAG/PAOEU/*S`
 * cried, `KRAOEUD KW-BG`
 * contempt, `KAUPB/TEPLT KW-BG`
-* 'Caw, `AE KPA/KAU KW-BG`
-* caw, `KAU KW-BG`
+* 'Caw, `AE KPA/KA*U KW-BG`
+* caw, `KA*U KW-BG`
 * our `OUR`
-* nest—caw, `TPHEFT EPL/TKA*RB KAU KW-BG`
-* caw,' `KAU KW-BG AE`
+* nest—caw, `TPHEFT EPL/TKA*RB KA*U KW-BG`
+* caw,' `KA*U KW-BG AE`
 * done `TKOPB`
 * help `HEP`
 * hearing `HAERG`

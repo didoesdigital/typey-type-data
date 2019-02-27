@@ -1143,7 +1143,7 @@
 * garden `TKPWA*RPB`
 * grew `TKPWRAOU`
 * cabbage; `KAB/APBLG STPH*FPLT`
-* oh, `O*E KW-BG`
+* oh, `OERBGS`
 * nice `TPHAOEUS`
 * was, `WAS KW-BG`
 * delicious." `TKHREUGS TP-PL KR-GS`
@@ -1237,7 +1237,7 @@
 * leaves, `HREFS KW-BG`
 * difficult `TKEUFL`
 * task `TAFBG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * stars `STARS`
 * brighten `PWRAOEUT/*EPB`
 * up. `UP TP-PL`

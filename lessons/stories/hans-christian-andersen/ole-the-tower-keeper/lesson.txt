@@ -540,7 +540,7 @@ Ole the Tower-Keeper
 'of': -F
 'the': -T
 'earth': *ERT
-'is,': S KW-BG
+'is,': S-RBGS
 'after': AF
 'all,': AUL KW-BG
 'the': -T
@@ -1574,7 +1574,7 @@ Ole the Tower-Keeper
 'a': AEU
 'falling': TPAULG
 'star': STAR
-'is,': S KW-BG
+'is,': S-RBGS
 'do': TKO
 'you': U
 'not?': TPHOT H-F
@@ -3428,7 +3428,7 @@ Ole the Tower-Keeper
 'king': KEUPBG
 'and': SKP
 'beggar,': PWEG/ER KW-BG
-'genius': SKWRAOEPBS/KWRUS
+'genius': SKWRAOEPB/KWROUS
 'and': SKP
 'idiot,': EUD/KWROT KW-BG
 'sit': SEUT

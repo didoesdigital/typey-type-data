@@ -370,7 +370,7 @@ The Psyche
 'reason': R-PB
 'of': -F
 'this': TH
-'is,': S KW-BG
+'is,': S-RBGS
 'that': THA
 'you': U
 'have': SR
@@ -2684,7 +2684,7 @@ The Psyche
 'heart.': HART TP-PL
 '"Wretched': KR-GS KPA/WREFPD
 'man,': PHAPB KW-BG
-'go,': TKPW KW-BG
+'go,': TKPW-RBGS
 'begone!"': xxx begone SKHRAPL KR-GS
 'And': AFPBD
 'a': AEU

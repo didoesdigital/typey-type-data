@@ -534,7 +534,6 @@
 * depending `TK-P/-G`
 * illegal `EUL/HRAOEL`
 * Lincoln `HREUPB/KOPB`
-* premier `PREPL/PHAOER`
 * drama `TKRA/PHA`
 * visiting `SREUFT/-G`
 * downtown `KWROUPB/TOUPB`
@@ -703,7 +702,7 @@
 * appeared `A/PAOERD`
 * Franklin `TPRAPBG/HREUPB`
 * highlights `HAOEU/HRAOEUTS`
-* ongoing `AOPB/TKPW-G`
+* ongoing `AUPB/TKPW-G`
 * imaging `EUPBLG/-G`
 * betting `PWET/-G`
 * scientists `SAOEUPB/TEUFTS`
@@ -2188,7 +2187,7 @@
 * thickness `THEUBG/-PBS`
 * adjustments `A/SKWRUPLTS`
 * graphical `TKPWRAF/K-L`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * aerospace `AER/SPAEUS`
 * meaningful `PHAOEPBG/TPUL`
 * retreat `RE/TRAOET`
@@ -3832,7 +3831,7 @@
 * eighteenth `AET/TAOEPBT`
 * exertions `KPERGS/-S`
 * coolly `KAOL/HREU`
-* tedious `TAOED/KWRUS`
+* tedious `TAOED/KWROUS`
 * contemplated `KAUPB/TPHRAEUT/-D`
 * gleaming `TKPWHRAOEPL/-G`
 * perplexed `PER/PHREBGS/-D`
@@ -5131,7 +5130,7 @@
 * surveying `SUR/SRAEUG`
 * thirty-two `THEURT/H-PB/TWO`
 * curly `KUR/HREU`
-* prestige `PRES/TAOEPLG`
+* prestige `PRE/STAOEPBLG`
 * desertion `TKE/SERGS`
 * freezing `TPRAOEZ/-G`
 * heedless `HAOED/-LS`

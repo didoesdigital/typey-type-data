@@ -342,7 +342,7 @@
 * did `TK`
 * know `TPHOE`
 * was. `WAS TP-PL`
-* "Ha!" `KR-GS KPA/HA SKHRAPL KR-GS`
+* "Ha!" `KR-GS KPA/HAE SKHRAPL KR-GS`
 * Princess, `KPA/PREUPB/ES KW-BG`
 * "this `KR-GS TH`
 * pretty; `PREUT STPH*FPLT`
@@ -451,7 +451,7 @@
 * dwarf, `TKWAFR KW-BG`
 * boots `PWAOTS`
 * leagues, `HRAOEG/-S KW-BG`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * he `HE`
 * tread `TRED`
 * over `OEFR`
@@ -1123,7 +1123,7 @@
 * loved," `HROFD KW-BG KR-GS`
 * knowledge. `TPHOPBLG TP-PL`
 * "No, `KR-GS KPA/TPHO KW-BG`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * kitchen, `K-FP KW-BG`
 * tears, `TAERS KW-BG`
 * die, `TKAOEU KW-BG`

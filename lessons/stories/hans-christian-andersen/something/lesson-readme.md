@@ -23,7 +23,7 @@
 * humble `UPL/-BL`
 * my `PHEU`
 * position `POGS`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * so `SO`
 * that `THA`
 * I `EU`
@@ -218,7 +218,7 @@
 * others, `OERS KW-BG`
 * imitate `EUPL/TAEUT`
 * done. `TKOPB TP-PL`
-* genius, `SKWRAOEPBS/KWRUS KW-BG`
+* genius, `SKWRAOEPB/KWROUS KW-BG`
 * greater `TKPWRAERT`
 * together. `TOGT TP-PL`
 * create `KRAET`
@@ -245,7 +245,7 @@
 * besides `PW-DZ`
 * building `PW-LG`
 * storey `STOR/KWREU`
-* genius." `SKWRAOEPBS/KWRUS TP-PL KR-GS`
+* genius." `SKWRAOEPB/KWROUS TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * supposing `SPOEFG`
 * climate `KHAOEUPLT`
@@ -581,7 +581,7 @@
 * mouth `PHO*UT`
 * Yes, `KPA/KWRE KW-BG`
 * also `HR-S`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * family—the `TPAEPL EPL/TKA*RB -T`
 * fourth `TPO*URT`
 * brother—who `PWROER EPL/TKA*RB WHO`

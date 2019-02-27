@@ -159,7 +159,7 @@
 * over, `OEFR KW-BG`
 * but `PWUT`
 * would `WO`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * recourse `RAOERBGS`
 * "I `KR-GS EU`
 * must `PHUFT`

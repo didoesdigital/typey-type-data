@@ -443,7 +443,7 @@
 * off, `OF KW-BG`
 * believe `PWHREF`
 * weep; `WAOEP STPH*FPLT`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * that, `THA KW-BG`
 * genteel `SKWREPB/TAOEL`
 * cry." `KRAOEU TP-PL KR-GS`

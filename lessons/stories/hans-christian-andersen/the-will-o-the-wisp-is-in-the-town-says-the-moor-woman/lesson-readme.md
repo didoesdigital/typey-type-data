@@ -1034,7 +1034,7 @@
 * With `KPA/W`
 * called `KAULD`
 * aptitude, `APT/TAOUD KW-BG`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * taken `TAEPB`
 * flavor `TPHRAEUFR`
 * poet, `POET KW-BG`
@@ -1169,7 +1169,7 @@
 * allowed `HRO*UD`
 * accorded `A/KORD/-D`
 * Will-o'-the-Wisps—that `W*EUL H-PB O* AE H-PB -T H-PB KPA/WEUS/-PS EPL/TKA*RB THA`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * minute `PHEUPB`
 * time—to `TAOEUPL EPL/TKA*RB TO`
 * become `PW-BG`

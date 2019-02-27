@@ -531,7 +531,7 @@
 * "This `KR-GS KPA/TH`
 * sight `SAOEUT`
 * too `TAO`
-* tedious," `TAOED/KWRUS KW-BG KR-GS`
+* tedious," `TAOED/KWROUS KW-BG KR-GS`
 * sparrow-mother, `SPAEUR/ROE H-PB PHOER KW-BG`
 * room `RAOPL`
 * from `TPR`
@@ -583,7 +583,7 @@
 * not, `TPHOT KW-BG`
 * however, `HOUF KW-BG`
 * let `HRET`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * them, `THEPL KW-BG`
 * time `TAOEUPL`
 * cried `KRAOEUD`

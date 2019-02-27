@@ -26,7 +26,7 @@ Tom Thumb
 ''How': AE KPA/HOU
 'lonely': HROPBL
 'it': T
-'is,': S KW-BG
+'is,': S-RBGS
 'wife,'': WAOEUF KW-BG AE
 'said': SAEUD
 'he,': HE KW-BG
@@ -183,7 +183,7 @@ Tom Thumb
 'little': HREUL
 'as': AZ
 'he': HE
-'is,': S KW-BG
+'is,': S-RBGS
 'we': WE
 'will': HR
 'love': HRUF
@@ -394,7 +394,7 @@ Tom Thumb
 'beast': PWAOEFT
 'how': HOU
 'to': TO
-'go,': TKPW KW-BG
+'go,': TKPW-RBGS
 'crying': KRAOEUG
 'out,': OUT KW-BG
 ''Go': AE KPA/TKPW

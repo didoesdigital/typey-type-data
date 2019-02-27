@@ -358,7 +358,7 @@
 * take `TAEUBG`
 * place `PHRAEUS`
 * there. `THR TP-PL`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * botanical `PWO/TAPB/K-L`
 * professor, `PROEFR KW-BG`
 * close `KHROES`

@@ -212,7 +212,7 @@
 * fresh `TPRERB`
 * task. `TAFBG TP-PL`
 * knew `TPHAOU`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * once `WUPBS`
 * weep; `WAOEP STPH*FPLT`
 * dwarf `TKWAFR`
@@ -242,7 +242,7 @@
 * heap, `HAOEP KW-BG`
 * tonight; `TOPBT STPH*FPLT`
 * if `TP`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * shall `SHAL`
 * queen.' `KWAOEPB TP-PL AE`
 * As `KPA/AZ`

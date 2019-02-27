@@ -482,7 +482,7 @@
 * call `KAUL`
 * them." `THEPL TP-PL KR-GS`
 * "Oh `KR-GS KPA/O*E`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * no," `TPHO KW-BG KR-GS`
 * jumping `SKWRUPL/-PG`
 * roof `RAOF`
@@ -628,7 +628,7 @@
 * commenced. `KPHEPBS/-D TP-PL`
 * forests `TPOEFRT/-S`
 * villages `SREULGS`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * journey `SKWRURPB`
 * performed `PORPLD`
 * part `PART`

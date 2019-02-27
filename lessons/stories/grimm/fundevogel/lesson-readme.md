@@ -140,7 +140,7 @@
 * tell `TEL`
 * why.' `KWR TP-PL AE`
 * So `KPA/SO`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * she `SHE`
 * would `WO`
 * then `THEPB`
@@ -271,7 +271,7 @@
 * two, `TWO KW-BG`
 * broken `PWROEPB`
 * off `OF`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * do `TKO`
 * once.' `WUPBS TP-PL AE`
 * look `HRAOBG`

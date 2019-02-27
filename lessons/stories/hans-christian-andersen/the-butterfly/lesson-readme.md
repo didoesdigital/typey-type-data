@@ -200,7 +200,7 @@
 * young `KWRUPBG`
 * lads `HRADZ`
 * often `OFPB`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * looked `HRAOBGD`
 * out `OUT`
 * elder `ELD/ER`

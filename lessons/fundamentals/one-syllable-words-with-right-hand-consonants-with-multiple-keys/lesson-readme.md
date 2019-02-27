@@ -58,7 +58,6 @@
 * six `SEUBGS`
 * teens `TAOEPBS`
 * kind `KEUPBD`
-* OK `OBG`
 * sent `SEPBT`
 * went `WEPBT`
 * homes `HOEPLS`

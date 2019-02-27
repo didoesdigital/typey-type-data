@@ -170,7 +170,7 @@
 * lengthening `HREPB/THEPBG`
 * life. `HRAOEUF TP-PL`
 * did `TK`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * "Now `KR-GS KPA/TPHOU`
 * we `WE`
 * shall `SHAL`
@@ -267,7 +267,7 @@
 * theatre; `THAO*ERT STPH*FPLT`
 * I've `AOEUF`
 * thousand `THOEUPB`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * military `PHEUL/TAER`
 * measurement." `PHEPLT TP-PL KR-GS`
 * sometimes `STAOEUPLS`
@@ -544,7 +544,7 @@
 * came `KAEUPL`
 * affair. `A/TPAEUR TP-PL`
 * performed; `PORPLD STPH*FPLT`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * court `KORT`
 * judgment `SKWRUPLT`
 * held `HELD`

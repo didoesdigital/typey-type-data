@@ -103,7 +103,7 @@
 * understand `URPBD`
 * how `HOU`
 * it `T`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * am `APL`
 * not `TPHOT`
 * acquainted `A/KWAEUPBTD`

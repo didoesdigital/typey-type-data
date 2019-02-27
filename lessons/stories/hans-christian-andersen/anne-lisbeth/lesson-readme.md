@@ -1008,7 +1008,7 @@
 * drew `TKRAOU`
 * nearer, `TPHAOER/*ER KW-BG`
 * stopped `STOPD`
-* "Ha! `KR-GS KPA/HA SKHRAPL`
+* "Ha! `KR-GS KPA/HAE SKHRAPL`
 * yonder?" `KWROPBD/ER H-F KR-GS`
 * shuddered; `SHUD/ERD STPH*FPLT`
 * yet `KWRET`

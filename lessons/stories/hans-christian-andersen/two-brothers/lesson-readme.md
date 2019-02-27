@@ -264,7 +264,7 @@
 * land `HRAPBD`
 * is `S`
 * ruled." `RAOULD TP-PL KR-GS`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * human `HAOUPL`
 * race `RAEUS`
 * stood `STAOD`

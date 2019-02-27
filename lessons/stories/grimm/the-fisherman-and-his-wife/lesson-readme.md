@@ -603,7 +603,7 @@
 * broke, `PWROEBG KW-BG`
 * sun `SUPB`
 * rose. `ROEZ TP-PL`
-* 'Ha!' `AE KPA/HA SKHRAPL AE`
+* 'Ha!' `AE KPA/HAE SKHRAPL AE`
 * thought `THAUT`
 * woke `WOEBG`
 * through `THRU`

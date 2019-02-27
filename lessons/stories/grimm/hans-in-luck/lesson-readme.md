@@ -540,7 +540,7 @@
 * rate `RAEUT`
 * make `PHAEUBG`
 * sausages.' `SAUFPBLG/-S TP-PL AE`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * asked `SK-D`
 * kind, `KEUPBD KW-BG`
 * neighbourly `TPHAEUB/A*U/HREU`
@@ -599,7 +599,7 @@
 * christening. `KREUFPB/-G TP-PL`
 * 'Feel,' `AE KPA/TPAOEL KW-BG AE`
 * 'how `AE HOU`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * yet `KWRET`
 * eight `AET`
 * weeks `WAOEBGS`
@@ -667,7 +667,7 @@
 * aught `AUT`
 * tell: `TEL STPH-FPLT`
 * country `KREU`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * goose.' `TKPWAOS TP-PL AE`
 * ought `OT`
 * bargain,' `PWARG/AEUPB KW-BG AE`

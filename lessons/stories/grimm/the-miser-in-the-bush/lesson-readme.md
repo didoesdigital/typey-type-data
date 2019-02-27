@@ -439,7 +439,7 @@
 * second `SEBGD`
 * hangman `HAPBG/PHA*PB`
 * prisoner `PREURZ`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * also, `HR-S KW-BG`
 * time `TAOEUPL`
 * bar `PWAR`

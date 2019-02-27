@@ -867,7 +867,7 @@
 * see," `SAOE KW-BG KR-GS`
 * "how `KR-GS HOU`
 * rogues `ROEG/-S`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * jobs `SKWROBS`
 * matter." `PHAERT TP-PL KR-GS`
 * up, `UP KW-BG`

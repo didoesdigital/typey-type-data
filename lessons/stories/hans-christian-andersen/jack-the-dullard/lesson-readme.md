@@ -60,7 +60,7 @@
 * best. `PWEFT TP-PL`
 * So `KPA/SO`
 * these `THEZ`
-* geniuses `SKWRAOEPBS/KWRUS/-S`
+* geniuses `SKWRAOEPB/KWROUS/-S`
 * prepared `PRAOEPD`
 * a `AEU`
 * full `TPUL`

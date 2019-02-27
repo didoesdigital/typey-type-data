@@ -284,7 +284,7 @@
 * not `TPHOT`
 * how. `HOU TP-PL`
 * met, `PHET KW-BG`
-* oh, `O*E KW-BG`
+* oh, `OERBGS`
 * often! `OFPB SKHRAPL`
 * together `TOGT`
 * fresh `TPRERB`

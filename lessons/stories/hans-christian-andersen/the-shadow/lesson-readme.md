@@ -291,7 +291,7 @@
 * house—nobody `HOUS EPL/TKA*RB TPHOEB`
 * seen `SAOEPB`
 * there; `THR STPH*FPLT`
-* tedious, `TAOED/KWRUS KW-BG`
+* tedious, `TAOED/KWROUS KW-BG`
 * most `PHOFT`
 * uncommonly `UPB/KPHOPB/HREU`
 * so. `SO TP-PL`
@@ -445,7 +445,7 @@
 * shadow, `SHO*EUD KW-BG`
 * return. `RURPB TP-PL`
 * "Now `KR-GS KPA/TPHOU`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * don't `TKOEPBT`
 * stay `STAEU`
 * altogether." `HR-GT TP-PL KR-GS`
@@ -850,7 +850,7 @@
 * part, `PART KW-BG`
 * possessing `POE/SES/-G`
 * knowledge `TPHOPBLG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * position, `POGS KW-BG`
 * wealth—I `W*ELT EPL/TKA*RB EU`
 * instead `STPHED`

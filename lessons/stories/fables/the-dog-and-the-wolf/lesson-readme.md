@@ -46,7 +46,7 @@
 * steadily `STED/HREU`
 * as `AZ`
 * I `EU`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * and `SKP`
 * get `TKPWET`
 * food `TPAOD`

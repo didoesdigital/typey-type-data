@@ -101,7 +101,7 @@
 * said `SAEUD`
 * bottle `PWO*LT`
 * neck: `TPHEBG STPH-FPLT`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * he `HE`
 * did `TK`
 * really `R-L`
@@ -109,7 +109,7 @@
 * words `WORDZ`
 * as `AZ`
 * we `WE`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * cannot `K/TPHOT`
 * speak; `SPAOEBG STPH*FPLT`
 * thought `THAUT`
@@ -664,7 +664,7 @@
 * stomach. `STUPL TP-PL`
 * new `TPHU`
 * large `HRARPBLG`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * one: `WUPB STPH-FPLT`
 * started `STARTD`
 * travels. `TRAFLS TP-PL`

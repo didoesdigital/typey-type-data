@@ -437,7 +437,7 @@
 * nor `TPH-R`
 * ballad `PWAL/HRAD`
 * singer; `SEURPBG STPH*FPLT`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * singer `SEURPBG`
 * woods; `WAODZ STPH*FPLT`
 * wandered `WAPBD/-D`

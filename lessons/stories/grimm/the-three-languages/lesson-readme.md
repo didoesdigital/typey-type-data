@@ -167,7 +167,7 @@
 * for `TPOR`
 * pity, `PEUT/TEU KW-BG`
 * let `HRET`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * cut `KUT`
 * eyes `AO*EUS`
 * tongue `TUPBG`
@@ -298,7 +298,7 @@
 * accomplished `PHREURBD`
 * successfully. `SUBG/SES/TPHREU TP-PL`
 * knew `TPHAOU`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * thoroughly, `THORL KW-BG`
 * brought `PWRAUT`
 * chest `KHEFT`

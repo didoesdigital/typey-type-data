@@ -418,7 +418,7 @@
 * yet `KWRET`
 * fly! `TPHRAOEU SKHRAPL`
 * What `KPA/WHA`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * but `PWUT`
 * lie `HRAOEU`
 * here `HAOER`

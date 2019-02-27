@@ -161,7 +161,7 @@
 * ought `OT`
 * story, `STOER KW-BG`
 * worst `WOFRT`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * do `TKO`
 * not `TPHOT`
 * any `TPHEU`

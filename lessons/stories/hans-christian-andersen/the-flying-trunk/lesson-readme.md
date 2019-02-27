@@ -400,7 +400,7 @@
 * Their `KPA/THAEUR`
 * genealogical `SKWRAO*EPB/HR-L`
 * tree, `TRAOE KW-BG`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * large `HRARPBLG`
 * pine-tree `PAOEUPB H-PB TRAOE`
 * cut, `KUT KW-BG`

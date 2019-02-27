@@ -1003,7 +1003,7 @@
 * possess!" `PESZ SKHRAPL KR-GS`
 * awaking `A/WAEUBG/-G`
 * down; `TKOUPB STPH*FPLT`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * live. `HREUF TP-PL`
 * myself `PHAO*EUS`
 * supply `SPHAOEU`

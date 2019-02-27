@@ -486,7 +486,7 @@
 * room, `RAOPL KW-BG`
 * anything, `TPHEUG KW-BG`
 * matter `PHAERT`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * throw `THROE`
 * white `WHAOEUT`
 * cloth `KHRO*T`

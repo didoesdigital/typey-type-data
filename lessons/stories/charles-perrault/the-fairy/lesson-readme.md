@@ -278,7 +278,7 @@
 * "to `KR-GS TO`
 * me `PHE`
 * water!" `WAUR SKHRAPL KR-GS`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * hussey," `H*/*U/S*/S*/*E/KWR* KW-BG KR-GS`
 * "and `KR-GS SKP`
 * minute." `PHEUPB TP-PL KR-GS`

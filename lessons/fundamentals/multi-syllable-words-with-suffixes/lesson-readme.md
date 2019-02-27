@@ -106,7 +106,6 @@
 * mentioned `PHEPBGS/-D`
 * automatic `AUPL/EUBG`
 * Austria `AUFT/KWRA`
-* enterprises `EPBT/PRAOEUZ/-Z`
 * seeking `SAOEBG/-G`
 * ordering `ORD/-G`
 * specials `SPERBL/-S`
@@ -499,7 +498,6 @@
 * packing `PABG/-G`
 * accredited `A/KRETD/-D`
 * scheduling `SKED/-G`
-* radius `RAEUD/KWRUS`
 * mortality `PHORT/ALT`
 * logging `HROG/-G`
 * Christians `KREUGS/-S`
@@ -578,7 +576,6 @@
 * cognitive `KOG/TEUF`
 * enquiry `EPB/KWAOEUR/KWREU`
 * publicly `PUB/HREU`
-* veterinary `SRET/TPHAER`
 * incentive `EUPB/SEPBT/EUF`
 * swingers `SWEUPBG/ERS`
 * headers `HED/ERS`
@@ -818,7 +815,6 @@
 * limiting `HREUPLT/-G`
 * revisions `RE/SREUGS/-S`
 * chargers `KHARPBLG/ERS`
-* dozens `TKOZ/-Z`
 * convinced `KWEUPBS/-D`
 * replacing `RE/PHRAEUS/-G`
 * councils `KUPB/SEUL/-S`
@@ -961,6 +957,7 @@
 * configurations `TKPWRAEUGS/-S`
 * exclaimed `SKHRAEUPL/-D`
 * scarcely `SKAEURS/HREU`
+* father's `TPAER/AES`
 * servant `SEFRB/APBT`
 * possessed `POS/ES/-D`
 * succeeded `SUBG/SAOED/-D`
@@ -968,6 +965,7 @@
 * evidently `AEFD/HREU`
 * demanded `TKPAPBD/-D`
 * proceeded `PROE/SAOED/-D`
+* mother's `PHOER/AES`
 * wholly `WHOE/HREU`
 * kindly `KAOEUPBD/HREU`
 * dignity `TKEUG/TEU`
@@ -981,6 +979,7 @@
 * softly `SOFT/HREU`
 * wondered `WOPBD/-D`
 * expedition `EBGS/PED/EUGS`
+* woman's `WOPL/AES`
 * murmured `PHUR/PHUR/-D`
 * melancholy `PHEL/KOL/HREU`
 * misery `PHEUS/REU`
@@ -1036,6 +1035,7 @@
 * gallant `TKPWAL/HRAPBT`
 * longing `HROPBG/-G`
 * inevitable `TPHEF/-BL`
+* husband's `HUS/AES`
 * wandered `WAPBD/-D`
 * consisted `KAO/-D`
 * strangely `STRAEUPBG/HREU`
@@ -1047,6 +1047,7 @@
 * pretended `PRE/TEPBD/-D`
 * resting `REFT/-G`
 * confessed `KAUPB/TPES/-D`
+* other's `OER/AES`
 * primitive `PREUPL/TEUF`
 * sadly `SAD/HREU`
 * modest `PHOD/EFT`
@@ -1072,6 +1073,8 @@
 * leagues `HRAOEG/-S`
 * artillery `AR/TEUL/REU`
 * contented `KAUPBT/-D`
+* brother's `PWROER/AES`
+* wife's `WAOEUF/AES`
 * agitation `APBLG/TAEUGS`
 * eldest `ELD/EFT`
 * justly `SKWRUFT/HREU`
@@ -1083,6 +1086,7 @@
 * commanding `KPHAPBD/-G`
 * happily `HAP/HREU`
 * temptation `TEPL/TAEUGS`
+* lady's `HRAEUD/KWREU/AES`
 * willingly `HR-G/HREU`
 * formidable `TPORPLD/-BL`
 * sickness `SEUBG/-PBS`
@@ -1112,8 +1116,8 @@
 * inclination `EUPBG/TPHAEUGS`
 * solemnly `SOL/EPL/HREU`
 * witnessed `W-PBS/-D`
+* enemy's `EPB/PHEU/AES`
 * virtuous `SREURT/WOUS`
-* conspicuous `KAUPB/SPEUBG/KWRUS`
 * frightful `TPRAOEUT/-FL`
 * intentions `EUPB/TEPGS/-S`
 * strongest `STROPBG/EFT`
@@ -1135,6 +1139,7 @@
 * civilized `SEUFL/AOEUZ/-D`
 * communicated `KPHAOUPB/KAEUT/-D`
 * tenderly `TERPBD/HREU`
+* majesty's `PHAPBLG/STEU/AES`
 * ascended `A/SEPBD/-D`
 * dominion `TKPHEUPB/KWROPB`
 * dreary `TKRAOE/REU`
@@ -1228,12 +1233,10 @@
 * foliage `TPOEL/APBLG`
 * pleasantly `PHRES/APBT/HREU`
 * homage `OPL/APBLG`
-* victorious `SREUBGT/KWRUS`
 * decisive `TKE/SAOEUF/EUF`
 * wickedness `WEUBGD/-PBS`
 * visions `SREUGS/-S`
 * carelessly `KAEURLS/HREU`
-* husbands `HUZ/-Z`
 * philosophers `TPHROS/TPER/-S`
 * vaguely `SRAEUG/HREU`
 * yielding `KWRAOELD/-G`
@@ -1289,7 +1292,6 @@
 * settlers `SET/HRER/-S`
 * gratified `TKPWRAT/TPAOEUD`
 * neighboring `TPHAEUB/-G`
-* Augustus `AUG/KWRUS`
 * personage `PERPB/APBLG`
 * rewarded `RE/WARD/-D`
 * sternly `STERPB/HREU`
@@ -1324,7 +1326,6 @@
 * habitual `HABT/WAL`
 * exertions `KPERGS/-S`
 * coolly `KAOL/HREU`
-* tedious `TAOED/KWRUS`
 * contemplated `KAUPB/TPHRAEUT/-D`
 * gleaming `TKPWHRAOEPL/-G`
 * perplexed `PER/PHREBGS/-D`
@@ -1410,7 +1411,6 @@
 * hateful `HAEUT/-FL`
 * fugitive `TPAOUPBLG/TEUF`
 * coolness `KAOL/-PBS`
-* Julius `SKWRUL/KWRUS`
 * iniquity `TPHEUBG/TEU`
 * burial `PWUR/KWRAL`
 * politely `PHRAOEUT/HREU`
@@ -1550,7 +1550,6 @@
 * Juliet `SKWRAOUL/ET`
 * denounced `TKE/TPHOUPBS/-D`
 * whirling `WHEURL/-G`
-* pecuniary `PEBG/TPHAER`
 * oppressive `OP/PRES/EUF`
 * plentiful `PHREPBT/-FL`
 * purest `PAOUR/EFT`
@@ -1729,6 +1728,7 @@
 * caress `KA/RES`
 * rivalry `RAOEUFL/REU`
 * inexhaustible `EUPB/EBGS/HAUFT/EUBL`
+* Titus `TAOEUT/SKWRUS`
 * baronet `PWAR/ROPB/ET`
 * jelly `SKWREL/HREU`
 * salutation `SAL/TAEUGS`

@@ -767,7 +767,7 @@
 * 'at `AE AT`
 * magnificently; `PHAFG/SEPBT/HREU STPH*FPLT`
 * warm `WARPL`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * delicious `TKHREUGS`
 * spice `SPAOEUS`
 * air!' `AEUR SKHRAPL AE`

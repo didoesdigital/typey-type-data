@@ -239,7 +239,7 @@
 * master's `PHAFRT AES`
 * house. `HOUS TP-PL`
 * 'Here `AE KPA/HAOER`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * master,' `PHAFRT KW-BG AE`
 * got `TKPWOT`
 * better `PWOERT`

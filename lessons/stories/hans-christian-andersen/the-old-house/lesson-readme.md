@@ -765,7 +765,7 @@
 * Sundays, `SUPBDZ KW-BG`
 * tell `TEL`
 * comrade `KOPL/RAD`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * Ah, `KPA/HA*E KW-BG`
 * happy; `HAEP STPH*FPLT`
 * life." `HRAOEUF TP-PL KR-GS`

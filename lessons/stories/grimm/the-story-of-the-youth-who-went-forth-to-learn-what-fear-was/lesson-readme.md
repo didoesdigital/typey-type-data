@@ -977,8 +977,8 @@
 * time! `TAOEUPL SKHRAPL`
 * sadly: `SAD/HREU STPH-FPLT`
 * coffin. `KOFPB TP-PL`
-* 'Ha, `AE KPA/HA KW-BG`
-* ha, `HA KW-BG`
+* 'Ha, `AE KPA/HAE KW-BG`
+* ha, `HAE KW-BG`
 * certainly `SERPBL`
 * cousin, `KUZ KW-BG`
 * died `TKAOEUD`

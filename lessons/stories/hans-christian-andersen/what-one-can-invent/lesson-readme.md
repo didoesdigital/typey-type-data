@@ -434,7 +434,7 @@
 * called `KAULD`
 * land `HRAPBD`
 * 'wine-land,' `AE WAOEUPB H-PB HRAPBD KW-BG AE`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * 'Groenland,' `AE xxx Groenland KW-BG AE`
 * 'Sloeland.'" `AE xxx Sloeland TP-PL AE KR-GS`
 * "That `KR-GS KPA/THA`

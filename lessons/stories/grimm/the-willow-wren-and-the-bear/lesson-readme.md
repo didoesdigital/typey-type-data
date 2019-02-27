@@ -182,7 +182,7 @@
 * one `WUPB`
 * fly's `TPHRAOEU AES`
 * leg, `HREG KW-BG`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * if `TP`
 * dying `TKAOEUG`
 * hunger, `HURPBG KW-BG`

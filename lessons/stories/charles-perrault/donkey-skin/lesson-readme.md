@@ -1104,7 +1104,7 @@
 * cake, `KAEUBG KW-BG`
 * ready." `R-D TP-PL KR-GS`
 * strange `STRAEUPBG`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * officers `OEUFRS`
 * chance `KHAPBS`
 * girl, `TKPWEURL KW-BG`
@@ -1176,7 +1176,7 @@
 * them, `THEPL KW-BG`
 * whether `WHR`
 * design `STKAOEUPB`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * ring `REUPBG`
 * finger `TPURPBG`
 * fell `TPEL`
@@ -1238,7 +1238,7 @@
 * fever `TPAOEF`
 * violence. `SROEUPBLS TP-PL`
 * knowing `TPHOEG`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * Prince's `PR*EUPBS AES`
 * malady `PHAL/TKEU`
 * whereupon `WRUP`

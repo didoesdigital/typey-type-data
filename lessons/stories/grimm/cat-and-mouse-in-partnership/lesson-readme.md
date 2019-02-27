@@ -155,7 +155,7 @@
 * 'by `AE PWEU`
 * all `AUL`
 * means `PHAOEPBS`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * if `TP`
 * get `TKPWET`
 * very `SRE`

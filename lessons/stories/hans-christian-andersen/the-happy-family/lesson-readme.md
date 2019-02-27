@@ -399,7 +399,7 @@
 * ants; `A*PBT/-S STPH*FPLT`
 * "but `KR-GS PWUT`
 * fear `TPAOER`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * queen." `KWAOEPB TP-PL KR-GS`
 * "That `KR-GS KPA/THA`
 * does `TKOS`

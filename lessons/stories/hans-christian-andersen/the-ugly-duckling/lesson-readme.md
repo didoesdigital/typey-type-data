@@ -563,7 +563,7 @@
 * passion, `PAGS KW-BG`
 * thing `THEUPBG`
 * know `TPHOE`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * miserable `PHEUZ/-BL`
 * laughed `HRAFD`
 * farmyard. `TPARPL/KWRARD TP-PL`
@@ -898,7 +898,7 @@
 * idea," `KWR-D KW-BG KR-GS`
 * nothing `TPHOG`
 * else `ELS`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * foolish `TPAOL/EURB`
 * fancies. `TPAPB/SEU/KWREU/-S TP-PL`
 * If `KPA/TP`

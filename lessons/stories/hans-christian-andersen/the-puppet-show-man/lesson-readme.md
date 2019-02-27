@@ -495,7 +495,7 @@
 * stood `STAOD`
 * leg; `HREG STPH*FPLT`
 * great `TKPWRAET`
-* genius, `SKWRAOEPBS/KWRUS KW-BG`
+* genius, `SKWRAOEPB/KWROUS KW-BG`
 * begged `PWEGD`
 * treated `TRAETD`
 * such. `SUFP TP-PL`
@@ -594,7 +594,7 @@
 * confusion; `KAUFGS STPH*FPLT`
 * idle. `AOEUD/*L TP-PL`
 * jumped `SKWR*UPLD`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * heads, `HEDZ KW-BG`
 * feet. `TPAOET TP-PL`
 * shut `SHUT`

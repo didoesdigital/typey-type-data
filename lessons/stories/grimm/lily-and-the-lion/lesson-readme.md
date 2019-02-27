@@ -262,7 +262,7 @@
 * eat `AOET`
 * you.' `U TP-PL AE`
 * happened, `HAPD KW-BG`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * let `HRET`
 * happen. `HAP TP-PL`
 * comforted `K-FRTD`

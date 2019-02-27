@@ -74,7 +74,7 @@
 * did `TK`
 * know `TPHOE`
 * what `WHA`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * for `TPOR`
 * none `TPHOPB`
 * dared `TKAEURD`
@@ -388,8 +388,8 @@
 * And `AFPBD`
 * drinking `TKREUG`
 * glass?' `TKPWHRAS H-F AE`
-* 'Caw! `AE KPA/KAU SKHRAPL`
-* Caw! `KPA/KAU SKHRAPL`
+* 'Caw! `AE KPA/KA*U SKHRAPL`
+* Caw! `KPA/KA*U SKHRAPL`
 * I `EU`
 * ween `WAO*EPB`
 * Mortal `KPA/PHOR/TAL`

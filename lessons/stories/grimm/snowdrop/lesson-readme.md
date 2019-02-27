@@ -107,7 +107,7 @@
 * looking-glass, `HRAOG H-PB TKPWHRAS KW-BG`
 * which `WEU`
 * used `AOUFD`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * then `THEPB`
 * would `WO`
 * gaze `TKPWAEZ`

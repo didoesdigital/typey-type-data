@@ -117,7 +117,7 @@
 * "But `KR-GS KPA/PWUT`
 * what `WHA`
 * am `APL`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * there `THR`
 * tree?" `TRAOE H-F KR-GS`
 * asked `SK-D`

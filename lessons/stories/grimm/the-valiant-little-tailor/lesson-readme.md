@@ -510,7 +510,7 @@
 * But `KPA/PWUT`
 * much `PHUFP`
 * weak `WAEBG`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * again, `TKPWEPB KW-BG`
 * tossed `TOS/-D`
 * air `AEUR`

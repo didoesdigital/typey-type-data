@@ -420,7 +420,7 @@
 * loaf `HROEF`
 * left, `HREFT KW-BG`
 * end. `EPBD TP-PL`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * farther `TPA*RT`
 * again; `TKPWEPB STPH*FPLT`
 * other `OER`

@@ -233,7 +233,7 @@
 * But `KPA/PWUT`
 * reason `R-PB`
 * this `TH`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * you `U`
 * lived, `HREUFD KW-BG`
 * tasted `TAEUFT/-D`
@@ -1147,7 +1147,7 @@
 * mouth `PHO*UT`
 * depths `TK*EPTS`
 * "Wretched `KR-GS KPA/WREFPD`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * painful `PAEUFL`
 * bosom. `PWUZ/OPL TP-PL`
 * "Away! `KR-GS KPA/A/WAEU SKHRAPL`

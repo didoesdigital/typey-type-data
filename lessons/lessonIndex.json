@@ -104,7 +104,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
-    "wordCount": 425,
+    "wordCount": 424,
     "suggestedNext": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt"
   },
   {
@@ -167,7 +167,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
-    "wordCount": 1127,
+    "wordCount": 1136,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
   },
   {
@@ -194,7 +194,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
-    "wordCount": 5260,
+    "wordCount": 5259,
     "suggestedNext": "/fundamentals/fingerspelling/lesson.txt"
   },
   {
@@ -293,7 +293,7 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/single-stroke-briefs/lesson.txt",
-    "wordCount": 6681,
+    "wordCount": 6680,
     "suggestedNext": "/drills/top-first-names-in-the-us-over-the-last-100-years/lesson.txt"
   },
   {
@@ -411,24 +411,6 @@
     "subcategory": "",
     "path": "/drills/fr-ver/lesson.txt",
     "wordCount": 78,
-    "suggestedNext": "/drills/prefixes/lesson.txt"
-  },
-  {
-    "title": "Prefixes",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/prefixes/lesson.txt",
-    "wordCount": 40,
-    "suggestedNext": "/drills/suffixes/lesson.txt"
-  },
-  {
-    "title": "Suffixes",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/suffixes/lesson.txt",
-    "wordCount": 144,
     "suggestedNext": "/drills/two-letter-words-common/lesson.txt"
   },
   {
@@ -447,15 +429,6 @@
     "subcategory": "",
     "path": "/drills/two-letter-words-rare/lesson.txt",
     "wordCount": 51,
-    "suggestedNext": "/drills/steno-party-tricks/lesson.txt"
-  },
-  {
-    "title": "Steno party tricks",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/steno-party-tricks/lesson.txt",
-    "wordCount": 23,
     "suggestedNext": "/drills/apostrophes/lesson.txt"
   },
   {
@@ -465,6 +438,24 @@
     "subcategory": "",
     "path": "/drills/apostrophes/lesson.txt",
     "wordCount": 421,
+    "suggestedNext": "/drills/prefixes/lesson.txt"
+  },
+  {
+    "title": "Prefixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/prefixes/lesson.txt",
+    "wordCount": 40,
+    "suggestedNext": "/drills/suffixes/lesson.txt"
+  },
+  {
+    "title": "Suffixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/suffixes/lesson.txt",
+    "wordCount": 144,
     "suggestedNext": "/drills/suffix-and-prefix-briefs/lesson.txt"
   },
   {
@@ -473,6 +464,15 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/suffix-and-prefix-briefs/lesson.txt",
+    "suggestedNext": "/drills/steno-party-tricks/lesson.txt"
+  },
+  {
+    "title": "Steno party tricks",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/steno-party-tricks/lesson.txt",
+    "wordCount": 23,
     "suggestedNext": "/collections/user-experience/ux-vocabulary/lesson.txt"
   },
   {

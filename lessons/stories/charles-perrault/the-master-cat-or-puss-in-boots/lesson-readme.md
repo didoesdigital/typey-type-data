@@ -318,7 +318,7 @@
 * is `S`
 * made; `PHAED STPH*FPLT`
 * else `ELS`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * go `TKPW`
 * wash `WARB`
 * yourself `KWRO*URS`

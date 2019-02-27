@@ -182,7 +182,7 @@
 * what `WHA`
 * your `KWROUR`
 * business `PWEUS`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * want `WAPBT`
 * bird. `PWEURD TP-PL`
 * You `KPA/U`
@@ -309,7 +309,7 @@
 * coming `KO*G`
 * back. `PWABG TP-PL`
 * However, `KPA/HOUF KW-BG`
-* go, `TKPW KW-BG`
+* go, `TKPW-RBGS`
 * home; `HOEPL STPH*FPLT`
 * counsel. `KOUPB TP-PL`
 * thankful `THAPB/K-FL`
