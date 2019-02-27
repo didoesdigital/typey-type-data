@@ -384,15 +384,6 @@
     "subcategory": "",
     "path": "/drills/emotions/lesson.txt",
     "wordCount": 104,
-    "suggestedNext": "/drills/apostrophes/lesson.txt"
-  },
-  {
-    "title": "Apostrophes",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/apostrophes/lesson.txt",
-    "wordCount": 421,
     "suggestedNext": "/drills/superlatives/lesson.txt"
   },
   {
@@ -437,14 +428,7 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/suffixes/lesson.txt",
-    "suggestedNext": "/drills/suffix-and-prefix-briefs/lesson.txt"
-  },
-  {
-    "title": "Suffix and prefix briefs",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/suffix-and-prefix-briefs/lesson.txt",
+    "wordCount": 144,
     "suggestedNext": "/drills/two-letter-words-common/lesson.txt"
   },
   {
@@ -471,6 +455,24 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/steno-party-tricks/lesson.txt",
+    "wordCount": 23,
+    "suggestedNext": "/drills/apostrophes/lesson.txt"
+  },
+  {
+    "title": "Apostrophes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/apostrophes/lesson.txt",
+    "wordCount": 421,
+    "suggestedNext": "/drills/suffix-and-prefix-briefs/lesson.txt"
+  },
+  {
+    "title": "Suffix and prefix briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/suffix-and-prefix-briefs/lesson.txt",
     "suggestedNext": "/collections/user-experience/ux-vocabulary/lesson.txt"
   },
   {
