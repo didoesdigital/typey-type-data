@@ -1,4 +1,4 @@
-# Steno Party Tricks
+# Steno party tricks
 
 * principal `PREUPBS/PAL`
 * paralysis `PRAL/SEUS`
