@@ -2,7 +2,7 @@ Two Letter Words: Common
 
 'be': -B
 'of': -F
-'he': E
+'he': HE
 'it': T
 'ad': A*D
 'am': APL
@@ -16,7 +16,7 @@ Two Letter Words: Common
 'he': HE
 'hi': HEU
 'ho': HO*E
-'hm': H-PL
+'hm': H*PL
 'hm': H*PL
 'uh': HU
 'eh': A*EU
@@ -25,19 +25,19 @@ Two Letter Words: Common
 'fe': TPE
 'if': TP
 'id': EUD
-'it': EUT
+'it': T
 'in': TPH
 'la': HRA
 'lo': HRO
 'li': HR*/SKWREU
 'ma': PHA
 'me': PHE
-'me': PHAOE
+'me': PHE
 'mi': PHAO*EU
 'mo': PHO
 'mu': PHU
 'my': PHEU
-'my': PHAOEU
+'my': PHEU
 'on': OPB
 'om': OPL
 'or': OR
@@ -45,8 +45,8 @@ Two Letter Words: Common
 'ox': O*BGS
 'pa': PA
 'pi': PEU
-'pi': PAO*EU
-'ok': O*/K*
+'pi': PEU
+'ok': O*EBG
 'so': SO
 'sh': SH*
 'ta': TAEU

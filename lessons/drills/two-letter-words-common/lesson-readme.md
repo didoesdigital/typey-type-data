@@ -1,8 +1,8 @@
-# Two Letter Words Common
+# Two Letter Words: Common
 
 * be `-B`
 * of `-F`
-* he `E`
+* he `HE`
 * it `T`
 * ad `A*D`
 * am `APL`
@@ -13,10 +13,8 @@
 * by `PWEU`
 * ha `HAE`
 * ah `HA*E`
-* he `HE`
 * hi `HEU`
 * ho `HO*E`
-* hm `H-PL`
 * hm `H*PL`
 * uh `HU`
 * eh `A*EU`
@@ -25,19 +23,16 @@
 * fe `TPE`
 * if `TP`
 * id `EUD`
-* it `EUT`
 * in `TPH`
 * la `HRA`
 * lo `HRO`
 * li `HR*/SKWREU`
 * ma `PHA`
 * me `PHE`
-* me `PHAOE`
 * mi `PHAO*EU`
 * mo `PHO`
 * mu `PHU`
 * my `PHEU`
-* my `PHAOEU`
 * on `OPB`
 * om `OPL`
 * or `OR`
@@ -45,8 +40,7 @@
 * ox `O*BGS`
 * pa `PA`
 * pi `PEU`
-* pi `PAO*EU`
-* ok `O*/K*`
+* ok `O*EBG`
 * so `SO`
 * sh `SH*`
 * ta `TAEU`
