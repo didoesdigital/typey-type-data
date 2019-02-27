@@ -7533,7 +7533,7 @@
 * ict `*EU/KR*/T*`
 * marina `PHA*ERPB`
 * liabilities `HRAOEUBLTS`
-* prizes `PRAOEUZ/-Z`
+* prizes `PRAOEUZ/-S`
 * Bosnia `PWOZ/TPHEU/KWRA`
 * browsers `PWROURS/-S`
 * decreased `TE/KRAOES/-D`
@@ -8199,7 +8199,7 @@
 * thickness `THEUBG/-PBS`
 * adjustments `A/SKWRUPLTS`
 * graphical `TKPWRAF/K-L`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * discussing `SKUFG`
 * aerospace `AER/SPAEUS`
 * fighter `TPAOEURT`
@@ -8351,7 +8351,7 @@
 * Beth `PW*ET`
 * Bradford `PWRAD/TPORD`
 * len `HREPB`
-* phrases `TPRAEZ/-Z`
+* phrases `TPRAEUS/-S`
 * Kai `KAOEU`
 * peninsula `PEPB/EUPBS/HRA`
 * Chelsea `KHEL/SEU`

@@ -1430,7 +1430,7 @@
 * dangerous `TKAEUPBLGS`
 * August `AUG`
 * calm `KAUPL`
-* genius `SKWRAOEPBS/KWRUS`
+* genius `SKWRAOEPB/KWROUS`
 * sacred `SKRED`
 * kingdom `KEUPBG/TKOPL`
 * entire `SPWAOEUR`
@@ -5139,7 +5139,7 @@
 * neighbor `TPHAEUB`
 * spreading `SPREGD`
 * discharged `TKEUS/KHARPBLGD`
-* phrases `TPRAEZ/-Z`
+* phrases `TPRAEUS/-S`
 * ultimate `UPLT`
 * tastes `TAEUFTS`
 * submission `SPHEUGS`
@@ -6184,7 +6184,7 @@
 * expert `SPERT`
 * coolly `KAOL/HREU`
 * mistakes `SPHAEUBGS`
-* tedious `TAOED/KWRUS`
+* tedious `TAOED/KWROUS`
 * contemplated `KAUPB/TPHRAEUT/-D`
 * Clark `KHRARBG`
 * jacket `SKWRABGT`
