@@ -17,7 +17,7 @@
 * something `S-G`
 * something's `S-G AES`
 * certain `SERPB`
-* co `KO*`
+* co `KR*/O*`
 * company `K-P`
 * each `AOEFP`
 * each other `AOEFP/OER`
