@@ -702,7 +702,7 @@
 * me `PHE`
 * is--! `S H-PB H-PB SKHRAPL`
 * you `U`
-* no, `TPHO KW-BG`
+* no, `TPHORBGS`
 * not `TPHOT`
 * then--? `THEPB H-PB H-PB H-F`
 * But--what?' `KPA/PWUT H-PB H-PB WHA H-F AE`
@@ -730,7 +730,7 @@
 * made. `PHAED TP-PL`
 * not.' `TPHOT TP-PL AE`
 * she!' `SHE SKHRAPL AE`
-* is, `S KW-BG`
+* is, `S-RBGS`
 * be.' `-B TP-PL AE`
 * She! `KPA/SHE SKHRAPL`
 * will `HR`
@@ -1057,7 +1057,7 @@
 * First. `KPA/TPEURS TP-PL`
 * be?' `-B H-F AE`
 * woman.' `WOPL TP-PL AE`
-* do, `TKO KW-BG`
+* do, `TKORBGS`
 * that… `THA SKWR*RBGS`
 * 'Good `AE KPA/TKPWAOD`
 * 'There, `AE KPA/THR KW-BG`

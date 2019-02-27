@@ -2630,7 +2630,7 @@ Project Gutenberg sentences using top 100 words
 'it': T
 'had.': H TP-PL
 'But': KPA/PWUT
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no!': TPHO SKHRAPL
 'But': KPA/PWUT
 'not': TPHOT
@@ -2810,7 +2810,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'time.': TAOEUPL TP-PL
 'It': KPA/T
-'is,': S KW-BG
+'is,': S-RBGS
 'man.': PHAPB TP-PL
 'It': KPA/T
 'may': PHAE
@@ -2860,10 +2860,10 @@ Project Gutenberg sentences using top 100 words
 'no': TPHO
 'no.'': TPHO TP-PL AE
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no!': TPHO SKHRAPL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no.': TPHO TP-PL
 'No,': KPA/TPHO KW-BG
 'not': TPHOT
@@ -3763,7 +3763,7 @@ Project Gutenberg sentences using top 100 words
 'a': AEU
 'man.': PHAPB TP-PL
 'It': KPA/T
-'is,': S KW-BG
+'is,': S-RBGS
 'that!': THA SKHRAPL
 'It': KPA/T
 'was': WAS
@@ -3786,10 +3786,10 @@ Project Gutenberg sentences using top 100 words
 'My': KPA/PHEU
 'good----!': TKPWAOD H-PB H-PB H-PB H-PB SKHRAPL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no!'': TPHO SKHRAPL AE
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no.'': TPHO TP-PL AE
 'No,': KPA/TPHO KW-BG
 'not': TPHOT
@@ -3807,7 +3807,7 @@ Project Gutenberg sentences using top 100 words
 'do': TKO
 'not!'': TPHOT SKHRAPL AE
 'No;': KPA/TPHO STPH*FPLT
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no!'': TPHO SKHRAPL AE
 'No;': KPA/TPHO STPH*FPLT
 'not': TPHOT
@@ -4230,7 +4230,7 @@ Project Gutenberg sentences using top 100 words
 'it': T
 'has!"': HAS SKHRAPL KR-GS
 '"But': KR-GS KPA/PWUT
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no!"': TPHO SKHRAPL KR-GS
 '"But': KR-GS KPA/PWUT
 'we': WE
@@ -4321,7 +4321,7 @@ Project Gutenberg sentences using top 100 words
 '"No,': KR-GS KPA/TPHO KW-BG
 'before."': PW-F TP-PL KR-GS
 '"No,': KR-GS KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no!"': TPHO SKHRAPL KR-GS
 '"No,': KR-GS KPA/TPHO KW-BG
 'of': -F
@@ -4867,7 +4867,7 @@ Project Gutenberg sentences using top 100 words
 'woman': WOPL
 'can.': K TP-PL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no': TPHO
 '!'': SKHRAPL AE
 'No,': KPA/TPHO KW-BG
@@ -6027,7 +6027,7 @@ Project Gutenberg sentences using top 100 words
 'of': -F
 'it.': T TP-PL
 'No': KPA/TPHO
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'no': TPHO
 'no.'': TPHO TP-PL AE
 'No,': KPA/TPHO KW-BG
@@ -7192,8 +7192,8 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'not.': TPHOT TP-PL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
+'no,': TPHORBGS
 'no!': TPHO SKHRAPL
 'No,': KPA/TPHO KW-BG
 'not': TPHOT
@@ -7272,7 +7272,7 @@ Project Gutenberg sentences using top 100 words
 'a': AEU
 'woman.': WOPL TP-PL
 'She': KPA/SHE
-'is,': S KW-BG
+'is,': S-RBGS
 'is': S
 'she?': SHE H-F
 'She': KPA/SHE
@@ -7570,7 +7570,7 @@ Project Gutenberg sentences using top 100 words
 'do': TKO
 'it!'': T SKHRAPL AE
 'You': KPA/U
-'do,': TKO KW-BG
+'do,': TKORBGS
 'do': TKO
 'you?': STPHU
 'You': KPA/U
@@ -9643,7 +9643,7 @@ Project Gutenberg sentences using top 100 words
 'will': HR
 'not.'': TPHOT TP-PL AE
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'said': SAEUD
 'she.': SHE TP-PL
 'No,': KPA/TPHO KW-BG
@@ -10018,7 +10018,7 @@ Project Gutenberg sentences using top 100 words
 'this': TH
 'man?': PHAPB H-F
 'What': KPA/WHA
-'is,': S KW-BG
+'is,': S-RBGS
 'we': WE
 'know.': TPHOEFPLT
 'What': KPA/WHA
@@ -10892,7 +10892,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'it?'': T H-F AE
 'It': KPA/T
-'is,': S KW-BG
+'is,': S-RBGS
 'was': WAS
 'in': TPH
 'him.': HEUPL TP-PL
@@ -11072,7 +11072,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'this.': TH TP-PL
 'There': KPA/THR
-'is,': S KW-BG
+'is,': S-RBGS
 'he': HE
 'said.': SAEUD TP-PL
 'There': KPA/THR
@@ -11695,11 +11695,11 @@ Project Gutenberg sentences using top 100 words
 'know': TPHOE
 'me?"': PHE H-F KR-GS
 '"They': KR-GS KPA/THE
-'do,': TKO KW-BG
+'do,': TKORBGS
 'do': TKO
 'they?"': THE H-F KR-GS
 '"They': KR-GS KPA/THE
-'do,': TKO KW-BG
+'do,': TKORBGS
 'you': U
 'see."': SAOE TP-PL KR-GS
 '"Was': KR-GS KPA/WAS
@@ -12206,17 +12206,17 @@ Project Gutenberg sentences using top 100 words
 'be': -B
 'now.': TPHOU TP-PL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
-'no,': TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
+'no,': TPHORBGS
+'no,': TPHORBGS
 'no!': TPHO SKHRAPL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
-'no,': TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
+'no,': TPHORBGS
+'no,': TPHORBGS
 'no.': TPHO TP-PL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'not': TPHOT
 'at': AT
 'all.': AUL TP-PL
@@ -12309,7 +12309,7 @@ Project Gutenberg sentences using top 100 words
 'who': WHO
 'have.': SR TP-PL
 'There': KPA/THR
-'is,': S KW-BG
+'is,': S-RBGS
 'there': THR
 'is.': S TP-PL
 'There': KPA/THR
@@ -14175,12 +14175,12 @@ Project Gutenberg sentences using top 100 words
 'there?': THR H-F
 'There': KPA/THR
 'he': HE
-'is,': S KW-BG
+'is,': S-RBGS
 'you': U
 'see!': SAOE SKHRAPL
 'There': KPA/THR
 'it': T
-'is,': S KW-BG
+'is,': S-RBGS
 'you': U
 'see.': SAOE TP-PL
 'There': KPA/THR
@@ -14888,8 +14888,8 @@ Project Gutenberg sentences using top 100 words
 'see': SAOE
 'it.': T TP-PL
 'But': KPA/PWUT
-'no,': TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
+'no,': TPHORBGS
 'he': HE
 'must...': PHUFT TP-PL TP-PL TP-PL
 'But': KPA/PWUT
@@ -15125,7 +15125,7 @@ Project Gutenberg sentences using top 100 words
 'he': HE
 'said.': SAEUD TP-PL
 'That': KPA/THA
-'is,': S KW-BG
+'is,': S-RBGS
 'she': SHE
 'had': H
 'been.': PW-PB TP-PL
@@ -15141,7 +15141,7 @@ Project Gutenberg sentences using top 100 words
 'said.': SAEUD TP-PL
 'That': KPA/THA
 'will': HR
-'do,': TKO KW-BG
+'do,': TKORBGS
 'he': HE
 'said.': SAEUD TP-PL
 'Then': KPA/THEPB
@@ -15244,7 +15244,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'did': TK
 'you': U
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?': THEPB H-F
 'What': KPA/WHA
 'do': TKO
@@ -15603,7 +15603,7 @@ Project Gutenberg sentences using top 100 words
 '"What': KR-GS KPA/WHA
 'can': K
 'we': WE
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '"What': KR-GS KPA/WHA
 'can': K
@@ -15613,7 +15613,7 @@ Project Gutenberg sentences using top 100 words
 '"What': KR-GS KPA/WHA
 'did': TK
 'he': HE
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '"What': KR-GS KPA/WHA
 'did': TK
@@ -15738,7 +15738,7 @@ Project Gutenberg sentences using top 100 words
 'you': U
 'were!': WR SKHRAPL
 '.That': TP-PL KPA/THA
-'is,': S KW-BG
+'is,': S-RBGS
 'a': AEU
 'little': HREUL
 'one.': WUPB TP-PL
@@ -16164,7 +16164,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'would': WO
 'he': HE
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?': THEPB H-F
 'What': KPA/WHA
 'would': WO
@@ -16430,7 +16430,7 @@ Project Gutenberg sentences using top 100 words
 '"What': KR-GS KPA/WHA
 'did': TK
 'you': U
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '"What': KR-GS KPA/WHA
 'do': TKO
@@ -16509,7 +16509,7 @@ Project Gutenberg sentences using top 100 words
 'said.': SAEUD TP-PL
 '--There': H-PB H-PB KPA/THR
 'he': HE
-'is,': S KW-BG
+'is,': S-RBGS
 'she': SHE
 'said.': SAEUD TP-PL
 'About': KPA/PW
@@ -17049,7 +17049,7 @@ Project Gutenberg sentences using top 100 words
 'are': R
 'we': WE
 'to': TO
-'do,': TKO KW-BG
+'do,': TKORBGS
 'now?"': TPHOU H-F KR-GS
 '"What': KR-GS KPA/WHA
 'are': R
@@ -17098,7 +17098,7 @@ Project Gutenberg sentences using top 100 words
 '"What': KR-GS KPA/WHA
 'will': HR
 'you': U
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '"What': KR-GS KPA/WHA
 'would': WO
@@ -17185,7 +17185,7 @@ Project Gutenberg sentences using top 100 words
 'you': U
 'would?': WO H-F
 'But': KPA/PWUT
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'it': T
 'was': WAS
 'not': TPHOT
@@ -17526,7 +17526,7 @@ Project Gutenberg sentences using top 100 words
 'more': PHOR
 'so."': SO TP-PL KR-GS
 '"No,': KR-GS KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'we': WE
 'must': PHUFT
 'have': SR
@@ -17574,7 +17574,7 @@ Project Gutenberg sentences using top 100 words
 'are': R
 'we': WE
 'to': TO
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '"What': KR-GS KPA/WHA
 'are': R
@@ -17625,7 +17625,7 @@ Project Gutenberg sentences using top 100 words
 '"What': KR-GS KPA/WHA
 'would': WO
 'you': U
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '"Who': KR-GS KPA/WHO
 'could': KO
@@ -17967,7 +17967,7 @@ Project Gutenberg sentences using top 100 words
 'is.': S TP-PL
 'You': KPA/U
 'may': PHAE
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then,': THEPB KW-BG
 'in': TPH
 'time.': TAOEUPL TP-PL
@@ -18093,7 +18093,7 @@ Project Gutenberg sentences using top 100 words
 'you?"': U H-F KR-GS
 '"Good,': KR-GS KPA/TKPWAOD KW-BG
 'that': THA
-'is,': S KW-BG
+'is,': S-RBGS
 'very': SRE
 'good."': TKPWAOD TP-PL KR-GS
 '"Not': KR-GS KPA/TPHOT
@@ -18110,7 +18110,7 @@ Project Gutenberg sentences using top 100 words
 'in': TPH
 'her?"': HER H-F KR-GS
 '"That': KR-GS KPA/THA
-'is,': S KW-BG
+'is,': S-RBGS
 'if': TP
 'you': U
 'have': SR
@@ -18208,7 +18208,7 @@ Project Gutenberg sentences using top 100 words
 'are': R
 'we': WE
 'to': TO
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '...................A': TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL TP-PL KPA/AEU
 'woman.': WOPL TP-PL
@@ -18397,7 +18397,7 @@ Project Gutenberg sentences using top 100 words
 'be.': -B TP-PL
 'To': KPA/TO
 'be--that': -B H-PB H-PB THA
-'is,': S KW-BG
+'is,': S-RBGS
 'not': TPHOT
 'at': AT
 'all.': AUL TP-PL
@@ -18641,7 +18641,7 @@ Project Gutenberg sentences using top 100 words
 'know': TPHOE
 'what': WHA
 'it': T
-'is,': S KW-BG
+'is,': S-RBGS
 'then?"': THEPB H-F KR-GS
 '--What': H-PB H-PB KPA/WHA
 'do': TKO
@@ -18738,7 +18738,7 @@ Project Gutenberg sentences using top 100 words
 'all': AUL
 'that.': THA TP-PL
 'No,': KPA/TPHO KW-BG
-'no,': TPHO KW-BG
+'no,': TPHORBGS
 'it': T
 'would': WO
 'do': TKO
@@ -18779,7 +18779,7 @@ Project Gutenberg sentences using top 100 words
 'be.': -B TP-PL
 'There': KPA/THR
 'he': HE
-'is,': S KW-BG
+'is,': S-RBGS
 'do': TKO
 'you': U
 'see': SAOE
@@ -19170,7 +19170,7 @@ Project Gutenberg sentences using top 100 words
 'are': R
 'we': WE
 'to': TO
-'do,': TKO KW-BG
+'do,': TKORBGS
 'then?"': THEPB H-F KR-GS
 '"And': KR-GS AFPBD
 'what': WHA
@@ -19344,7 +19344,7 @@ Project Gutenberg sentences using top 100 words
 'us.': US TP-PL
 'There': KPA/THR
 'it': T
-'is,': S KW-BG
+'is,': S-RBGS
 'now': TPHOU
 '-': H-PB
 'you': U
@@ -19848,7 +19848,7 @@ Project Gutenberg sentences using top 100 words
 'And,': AFPBD KW-BG
 'if': TP
 'you': U
-'do,': TKO KW-BG
+'do,': TKORBGS
 'what': WHA
 'is': S
 'it': T
