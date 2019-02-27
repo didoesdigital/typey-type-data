@@ -892,7 +892,7 @@
 * cavern `KAFRPB`
 * caverns `KAFRPBS`
 * cavity `KA*FT`
-* caw `KAU`
+* caw `KA*U`
 * cay `KA*E`
 * cc `KR*BG`
 * cease `SAOES`
@@ -1139,7 +1139,6 @@
 * cluster `KHRUFRT`
 * clutch `HRUFP`
 * clutter `KHRAOURT`
-* co `KO*`
 * co-operate `KRO*PT`
 * coach `KOEFP`
 * coal `KOEL`
