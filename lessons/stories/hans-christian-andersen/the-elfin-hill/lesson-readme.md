@@ -137,7 +137,7 @@
 * perhaps, `PRAPS KW-BG`
 * really `R-L`
 * did `TK`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * All `KPA/AUL`
 * will-o'-the-wisps `HR H-PB O* AE H-PB -T H-PB WEUS/-PS`
 * ordered `ORD/-D`

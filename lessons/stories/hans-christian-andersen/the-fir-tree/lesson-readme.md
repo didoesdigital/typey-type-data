@@ -943,7 +943,7 @@
 * sorry, `SOER KW-BG`
 * less `HRES`
 * story?" `STOER H-F KR-GS`
-* rats. `RATS TP-PL`
+* rats. `RATS/TP-PL`
 * "Only `KR-GS KPA/OEPBL`
 * one," `WUPB KW-BG KR-GS`
 * happiest `HAP/KWREFT`
@@ -956,7 +956,7 @@
 * "No," `KR-GS KPA/TPHO KW-BG KR-GS`
 * "Many `KR-GS KPA/PHAEPB`
 * thanks `THAPBGS`
-* rats, `RATS KW-BG`
+* rats, `RATS/KW-BG`
 * marched `PHAFRPBD`
 * off. `OF TP-PL`
 * sighed, `SAOEU/-D KW-BG`

@@ -153,7 +153,7 @@
 * when `WHEPB`
 * swam `SWAPL`
 * towards `TORDZ`
-* you? `U H-F`
+* you? `STPHU`
 * Well, `KPA/WEL KW-BG`
 * capital `KAPLT`
 * balls `PWAULS`

@@ -223,7 +223,7 @@
 * bow. `PWOE TP-PL`
 * shoot `SHAOT`
 * that, `THA KW-BG`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * Look, `KPA/HRAOBG KW-BG`
 * weather `WHR*`
 * fine `TPAOEUPB`

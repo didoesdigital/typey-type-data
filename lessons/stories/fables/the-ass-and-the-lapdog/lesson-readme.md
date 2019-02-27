@@ -27,7 +27,7 @@
 * carried `KAERD`
 * master. `PHAFRT TP-PL`
 * With `KPA/W`
-* Lapdog, `KPA/HRAP/TK-LS/TKOG KW-BG`
+* Lapdog, `KPA/HRAP/TK-LS/TKOG/KW-BG`
 * who `WHO`
 * danced `TKAPBS/-D`
 * about `PW`
@@ -71,7 +71,7 @@
 * commenced `KPHEPBS/-D`
 * prancing `PRAPBS/-G`
 * imitation `EUPL/TAEUGS`
-* Lapdog. `KPA/HRAP/TK-LS/TKOG TP-PL`
+* Lapdog. `KPA/HRAP/TK-LS/TKOG/TP-PL`
 * not `TPHOT`
 * hold `HOLD`
 * sides `SAOEUDZ`

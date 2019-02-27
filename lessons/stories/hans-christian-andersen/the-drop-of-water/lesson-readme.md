@@ -214,7 +214,7 @@
 * easy `EZ`
 * find `TPEUPBD`
 * does `TKOS`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * magician `PHA/SKWREUGS`
 * name `TPHAEUPL`
 * through `THRU`

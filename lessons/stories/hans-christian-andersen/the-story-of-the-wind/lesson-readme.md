@@ -962,7 +962,7 @@
 * snoring `STPHOERPBG`
 * warder, `WARD/*ER KW-BG`
 * warder `WARD/*ER`
-* rats. `RATS TP-PL`
+* rats. `RATS/TP-PL`
 * Poverty `KPA/POFRT`
 * laid `HRAEUD`
 * table-cloth; `TAEUBL H-PB KHRO*T STPH*FPLT`

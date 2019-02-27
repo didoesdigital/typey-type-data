@@ -79,5 +79,5 @@
 * ^self `SEFL`
 * selves `S*EFLS`
 * ^selves `SEFLS`
-* self-concept `SEF K*EPT`
-* self-determination `SEF TKERPLGS`
+* self-concept `SEF/K*EPT`
+* self-determination `SEF/TKERPLGS`

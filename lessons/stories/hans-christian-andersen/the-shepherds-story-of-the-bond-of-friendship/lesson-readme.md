@@ -1177,7 +1177,7 @@
 * loves `HRUFS`
 * you, `U KW-BG`
 * dear `TKAER`
-* you? `U H-F`
+* you? `STPHU`
 * silence `SHREPBS`
 * proves `PROFS`
 * affection." `A*FBGS TP-PL KR-GS`

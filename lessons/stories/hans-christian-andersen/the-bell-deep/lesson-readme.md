@@ -176,7 +176,7 @@
 * or `OR`
 * church, `KHUFRPB KW-BG`
 * was `WAS`
-* St. `KPA/ST* TP-PL`
+* St. `S*T`
 * Alban's. `xxx Alban AE S* TP-PL`
 * sounded `SOUPBD/-D`
 * Bell, `PWEL/PWEL KW-BG`
@@ -527,7 +527,7 @@
 * Au-mann `xxx Au H-PB HRO*ER/PHAPB/PHAPB`
 * lives, `HREUFS KW-BG`
 * alone; `A/HROEPB STPH*FPLT`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * Thus `KPA/THUS`
 * complainingly `KPHRAEUPBG/HREU`
 * bell-deep `PWEL H-PB TKAOEP`

@@ -176,7 +176,7 @@
 * done `TKOPB`
 * afterwards `A*FRDZ`
 * did `TK`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * Besides, `KPA/PW-DZ KW-BG`
 * imagine `PHAPBLG`
 * exactly `ELG`

@@ -226,7 +226,7 @@
 * pigsty `xxx pigsty`
 * had?' `H H-F AE`
 * parlour, `PAR/HROUR/A*U KW-BG`
-* bedchamber, `xxx bedchamber KW-BG`
+* bedchamber, `PWED/TK-LS/KHAEURPL/KW-BG`
 * kitchen; `K-FP STPH*FPLT`
 * garden, `TKPWA*RPB KW-BG`
 * planted `PHRAPBT/-D`

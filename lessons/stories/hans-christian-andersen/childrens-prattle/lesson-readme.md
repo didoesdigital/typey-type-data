@@ -262,7 +262,7 @@
 * behind `HEUPBD`
 * door `TKAOR`
 * peep `PAOEP`
-* well-dressed `W*EL TKREFD`
+* well-dressed `WEL/TKRESZ/-D`
 * children, `KHEURPB KW-BG`
 * having `SR-G`
 * merry `PHER/REU`

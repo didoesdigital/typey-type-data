@@ -258,7 +258,7 @@
 * answer `AEPBS`
 * asked `SK-D`
 * silly; `SEUL/HREU STPH*FPLT`
-* unhandy, `xxx unhandy KW-BG`
+* unhandy, `UPB/HAPBD/KWREU/KW-BG`
 * could `KO`
 * place `PHRAEUS`
 * four `TPOUR`
@@ -782,7 +782,7 @@
 * deformity, `TK-FRPL/TEU KW-BG`
 * thing `THEUPBG`
 * displeases `TKEUS/PHRAOES/-S`
-* you? `U H-F`
+* you? `STPHU`
 * Are `KPA/R`
 * dissatisfied `TKEUS/SAED`
 * humour, `HAOURPL/A*U KW-BG`

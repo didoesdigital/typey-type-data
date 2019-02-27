@@ -974,7 +974,7 @@
 * possible, `POB KW-BG`
 * individuality; `SREUPBLGT STPH*FPLT`
 * therefore `TH-FR`
-* out-of-the-way `OUT H-PB -F H-PB -T H-PB WAEU`
+* out-of-the-way `AOUT/-FT/WAEU`
 * suburb `SPWURB`
 * lay `HRAEU`
 * tavern `TAFRPB`
@@ -1570,7 +1570,7 @@
 * Can `KPA/K`
 * incomprehensible `EUPB/KPREPBS/-BL`
 * happen? `HAP H-F`
-* yes. `KWRE TP-PL`
+* yes. `KWR*EFPLT`
 * incomprehensible. `EUPB/KPREPBS/-BL TP-PL`
 * unfathomable, `xxx unfathomable KW-BG`
 * Lord. `HRO*RD TP-PL`

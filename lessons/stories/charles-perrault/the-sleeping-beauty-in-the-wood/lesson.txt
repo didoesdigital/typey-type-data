@@ -224,7 +224,7 @@ The Sleeping Beauty in the Wood
 'either': AOERT
 'dead': TKED
 'or': OR
-'inchanted.': xxx inchanted TP-PL
+'inchanted.': EUPB/KHAPBT/-D/TP-PL
 'The': KPA/-T
 'King': KO*EUPBG
 'ordered': ORD/-D
@@ -743,7 +743,7 @@ The Sleeping Beauty in the Wood
 'at': AT
 'it,': T KW-BG
 'somewhat': SWHA
-'unhandy,': xxx unhandy KW-BG
+'unhandy,': UPB/HAPBD/KWREU/KW-BG
 'or': OR
 'that': THA
 'the': -T
@@ -1122,7 +1122,7 @@ The Sleeping Beauty in the Wood
 'ladies': HRAEUDZ
 'of': -F
 'the': -T
-'bedchamber,': xxx bedchamber KW-BG
+'bedchamber,': PWED/TK-LS/KHAEURPL/KW-BG
 'gentlemen,': SKWR*EPL KW-BG
 'officers,': OEUFRS KW-BG
 'stewards,': STAOURDZ KW-BG
@@ -1132,7 +1132,7 @@ The Sleeping Beauty in the Wood
 'guards,': TKPWARDZ KW-BG
 'with': W
 'their': THAEUR
-'beef-eaters,': PWAOEF H-PB AOET/*ERS KW-BG
+'beef-eaters,': PWAOEF/H-PB/AOET/*ERS/KW-BG
 'pages,': PAEUPBLGS KW-BG
 'footmen;': TPAOT/PH*EPB STPH*FPLT
 'she': SHE
@@ -1466,7 +1466,7 @@ The Sleeping Beauty in the Wood
 'kept': KEPT
 'there': THR
 'their': THAEUR
-'sabbath,': HRO*ER/SAB/A*T KW-BG
+'sabbath,': HRO*ER/SAB/A*T/KW-BG
 'or': OR
 'nights': TPHAOEUTS
 'meeting.': PHAOEGT TP-PL
@@ -1812,7 +1812,7 @@ The Sleeping Beauty in the Wood
 'noses': TPHO*EFS
 'of': -F
 'the': -T
-'beef-eaters,': PWAOEF H-PB AOET/*ERS KW-BG
+'beef-eaters,': PWAOEF/H-PB/AOET/*ERS/KW-BG
 'that': THA
 'they': THE
 'were': WR
@@ -2831,7 +2831,7 @@ The Sleeping Beauty in the Wood
 'play': PHRAEU
 'tricks': TREUBGS
 'with': W
-'Ogresses,': KPA/OERG/*ES/-S KW-BG
+'Ogresses,': KPA/OERG/*ES/-S/KW-BG
 'took': TAOBG
 'his': HEUS
 'great': TKPWRAET

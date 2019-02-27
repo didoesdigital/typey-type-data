@@ -831,7 +831,7 @@
 * travels `TRAFLS`
 * fond `TPOPBD`
 * aloud `A/HROUD`
-* Africa, `AFR/KA KW-BG`
+* Africa, `AFR/KARBGS`
 * forests `TPOEFRT/-S`
 * wild `WAOEULD`
 * attentively, `A/TEPBT/EUFL KW-BG`

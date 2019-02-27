@@ -53,7 +53,7 @@
 * we. `WE TP-PL`
 * all. `AUL TP-PL`
 * him? `HEUPL H-F`
-* you? `U H-F`
+* you? `STPHU`
 * Can `KPA/K`
 * Did `KPA/TK`
 * not! `TPHOT SKHRAPL`
@@ -434,7 +434,7 @@
 * did?' `TK H-F AE`
 * have? `SR H-F`
 * know! `TPHOE SKHRAPL`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * know? `TPHOE H-F`
 * said! `SAEUD SKHRAPL`
 * see… `SAOE SKWR*RBGS`
@@ -689,7 +689,7 @@
 * "You, `KR-GS KPA/U KW-BG`
 * 'Very `AE KPA/SRE`
 * 'Will `AE W*EUL`
-* -- `H-PB H-PB`
+* -- `TK-R`
 * me.) `PHE TP-PL PR*EPB`
 * --"And `H-PB H-PB KR-GS AFPBD`
 * --Has `H-PB H-PB KPA/HAS`

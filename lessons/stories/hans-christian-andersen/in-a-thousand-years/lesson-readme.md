@@ -247,7 +247,7 @@
 * wall `WAUL`
 * shown `SHOEPB`
 * remains `RE/PHAEUPBS`
-* St. `KPA/ST* TP-PL`
+* St. `S*T`
 * Peter's, `PAOERT AE S* KW-BG`
 * there `THR`
 * doubt `TKOUT`

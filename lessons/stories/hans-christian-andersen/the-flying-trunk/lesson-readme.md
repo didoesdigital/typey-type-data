@@ -831,7 +831,7 @@
 * now, `TPHOU KW-BG`
 * entertainment." `TAEUPLT TP-PL KR-GS`
 * natural `TPHARL`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * strange `STRAEUPBG`
 * sure! `SHUR SKHRAPL`
 * whom `WHOPL`

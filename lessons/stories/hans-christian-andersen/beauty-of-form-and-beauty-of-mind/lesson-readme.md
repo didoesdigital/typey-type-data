@@ -835,7 +835,7 @@
 * still `STEUL`
 * company `K-P`
 * conscious `K-RBS`
-* mother-in-law `PHOER H-PB TPH H-PB HRAU`
+* mother-in-law `PHOERPBL`
 * nonsense, `TPHOPB/SEPBS KW-BG`
 * depend `TK-P`
 * yourself `KWRO*URS`

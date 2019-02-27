@@ -561,7 +561,7 @@
 * 'Countryman,' `AE KPA/KREU/PHA*PB KW-BG AE`
 * 'who `AE WHO`
 * are `R`
-* you? `U H-F`
+* you? `STPHU`
 * business?' `PWEUS H-F AE`
 * am,' `APL KW-BG AE`
 * 'a `AE AEU`

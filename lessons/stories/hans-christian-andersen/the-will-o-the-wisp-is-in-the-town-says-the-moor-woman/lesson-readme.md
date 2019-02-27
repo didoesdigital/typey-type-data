@@ -697,7 +697,7 @@
 * your `KWROUR`
 * pleasure?" `PHRERB H-F KR-GS`
 * he. `HE TP-PL`
-* you? `U H-F`
+* you? `STPHU`
 * You're `KPA/U AE R*/*E`
 * first `TPEUFRT`
 * Are `KPA/R`

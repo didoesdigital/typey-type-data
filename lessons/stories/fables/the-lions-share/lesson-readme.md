@@ -89,7 +89,7 @@
 * paw `PAU`
 * upon `POPB`
 * it." `T TP-PL KR-GS`
-* "Humph," `KR-GS KPA/H*UFRP KW-BG KR-GS`
+* "Humph," `KR-GS/H*UFRP/KW-RBGTS`
 * grumbled `TKPWRUPL/-BLD`
 * Fox `KPA/TPOBGS`
 * he `HE`

@@ -321,7 +321,7 @@
 * suppose `SPOS`
 * brought `PWRAUT`
 * purely `PAOURL`
-* ladyship, `HRA*ED/SH-P KW-BG`
+* ladyship, `HRA*ED/SH-P/KW-BG`
 * it? `T H-F`
 * However, `KPA/HOUF KW-BG`
 * may `PHAE`
@@ -339,7 +339,7 @@
 * since `SEUPBS`
 * little `HREUL`
 * breeding, `PWRAOED/-G KW-BG`
-* disobliging, `TKEUS/OBL/AOEUPBLG/-G KW-BG`
+* disobliging, `TKEUS/OBL/AOEUPBLG/-G/KW-BG`
 * gift, `TKPWEUFT KW-BG`
 * speak `SPAOEBG`
 * snake `STPHAEUBG`

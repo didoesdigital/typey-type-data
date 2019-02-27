@@ -86,7 +86,7 @@
 * reverent `R*EFRPBT`
 * sad `SAD`
 * satisfied `SAED`
-* self-confident `SEF K-FT`
+* self-confident `SEF/K-FT`
 * serene `SRAO*EPB`
 * serious `SAOERS`
 * sleepy `SHRAOE/PEU`

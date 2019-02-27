@@ -669,7 +669,7 @@
 * curtsied `xxx curtsied`
 * she `SHE`
 * could; `KO STPH*FPLT`
-* St. `KPA/ST* TP-PL`
+* St. `S*T`
 * Peter `PAOERT`
 * spoke `SPOEBG`
 * her. `HER TP-PL`

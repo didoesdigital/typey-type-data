@@ -132,7 +132,7 @@
 * either `AOERT`
 * dead `TKED`
 * or `OR`
-* inchanted. `xxx inchanted TP-PL`
+* inchanted. `EUPB/KHAPBT/-D/TP-PL`
 * The `KPA/-T`
 * ordered `ORD/-D`
 * cover, `KOFR KW-BG`
@@ -364,7 +364,7 @@
 * hasty `HAEUS/TEU`
 * it, `T KW-BG`
 * somewhat `SWHA`
-* unhandy, `xxx unhandy KW-BG`
+* unhandy, `UPB/HAPBD/KWREU/KW-BG`
 * decree `TKE/KRAOE`
 * ordained `OR/TKAEUPBD`
 * ran `RAPB`
@@ -482,7 +482,7 @@
 * maids `PHAEUDZ`
 * honour, `HO*URPB KW-BG`
 * ladies `HRAEUDZ`
-* bedchamber, `xxx bedchamber KW-BG`
+* bedchamber, `PWED/TK-LS/KHAEURPL/KW-BG`
 * gentlemen, `SKWR*EPL KW-BG`
 * officers, `OEUFRS KW-BG`
 * stewards, `STAOURDZ KW-BG`
@@ -490,7 +490,7 @@
 * under-cooks, `TPH-PB H-PB KAOBGS KW-BG`
 * scullions, `xxx scullions KW-BG`
 * guards, `TKPWARDZ KW-BG`
-* beef-eaters, `PWAOEF H-PB AOET/*ERS KW-BG`
+* beef-eaters, `PWAOEF/H-PB/AOET/*ERS/KW-BG`
 * pages, `PAEUPBLGS KW-BG`
 * footmen; `TPAOT/PH*EPB STPH*FPLT`
 * likewise `HRAOEUBG/WAOEUS`
@@ -607,7 +607,7 @@
 * witches `WEUFP/-S`
 * country `KREU`
 * kept `KEPT`
-* sabbath, `HRO*ER/SAB/A*T KW-BG`
+* sabbath, `HRO*ER/SAB/A*T/KW-BG`
 * nights `TPHAOEUTS`
 * meeting. `PHAOEGT TP-PL`
 * common `KPHOPB`
@@ -1024,7 +1024,7 @@
 * wine. `WAOEUPB TP-PL`
 * poor `PAOR`
 * tricks `TREUBGS`
-* Ogresses, `KPA/OERG/*ES/-S KW-BG`
+* Ogresses, `KPA/OERG/*ES/-S/KW-BG`
 * Aurora's `AU/ROE/RA AES`
 * chamber. `KHAEURPL TP-PL`
 * old, `OLD KW-BG`

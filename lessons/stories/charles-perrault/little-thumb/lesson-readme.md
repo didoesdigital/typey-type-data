@@ -843,7 +843,7 @@
 * own, `OEPB KW-BG`
 * softly, `SOFT/HREU KW-BG`
 * heads `HEDZ`
-* Ogresses, `KPA/OERG/*ES/-S KW-BG`
+* Ogresses, `KPA/OERG/*ES/-S/KW-BG`
 * off `OF`
 * gold, `TKPWOELD KW-BG`
 * own `OEPB`

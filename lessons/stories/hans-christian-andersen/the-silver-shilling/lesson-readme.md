@@ -630,7 +630,7 @@
 * attempt `A/TEPLT`
 * me? `PHE H-F`
 * hear `HAER`
-* outcry, `AOUT/KRAOEU KW-BG`
+* outcry, `AOUT/KRAOEU/KW-BG`
 * 'False! `AE KPA/TPALS SKHRAPL`
 * good-for-nothing!' `TKPWAOD H-PB TPOR H-PB TPHOG SKHRAPL AE`
 * traveller `TRAFL/HRER/A*U`

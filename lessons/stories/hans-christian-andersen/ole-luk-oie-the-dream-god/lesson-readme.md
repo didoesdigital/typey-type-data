@@ -705,7 +705,7 @@
 * quack." `KWA*BG TP-PL KR-GS`
 * about `PW`
 * warm `WARPL`
-* Africa, `AFR/KA KW-BG`
+* Africa, `AFR/KARBGS`
 * pyramids, `PEUR/PHEUDZ KW-BG`
 * ostrich, `OS/TREUFP KW-BG`
 * which, `WEU KW-BG`

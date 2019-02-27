@@ -948,8 +948,8 @@
 * wife, `WAOEUF KW-BG`
 * bloom. `PWHRAOPL TP-PL`
 * held `HELD`
-* great-grandfather `TKPWRA*ET TKPWR-F`
-* great-grandmother `TKPWRA*ET TKPWR-PL`
+* great-grandfather `TKPWRAET/TKPWRAPBD/TPAER`
+* great-grandmother `TKPWRAET/TKPWRAPBD/PHOER`
 * outside, `OUDZ KW-BG`
 * and, `SKP KW-BG`
 * talked `TAUBGD`

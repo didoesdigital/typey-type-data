@@ -443,7 +443,7 @@
 * don't `TKOEPBT`
 * turn `TURPB`
 * toes, `TO*ES KW-BG`
-* well-bred `W*EL PWRED`
+* well-bred `WEL/PWRED`
 * spreads `SPREDZ`
 * feet `TPAOET`
 * wide `WAOEUD`
@@ -932,7 +932,7 @@
 * understand `URPBD`
 * me," `PHE KW-BG KR-GS`
 * duckling. `TKUBG/-LG TP-PL`
-* you? `U H-F`
+* you? `STPHU`
 * Who `KPA/WHO`
 * you, `U KW-BG`
 * wonder? `WOPBD H-F`

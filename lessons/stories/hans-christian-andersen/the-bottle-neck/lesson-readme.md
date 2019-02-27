@@ -146,7 +146,7 @@
 * have: `SR STPH-FPLT`
 * wouldn't `WOPBT`
 * then, `THEPB KW-BG`
-* know. `TPHOE TP-PL`
+* know. `TPHOEFPLT`
 * After `KPA/AF`
 * all, `AUL KW-BG`
 * there `THR`

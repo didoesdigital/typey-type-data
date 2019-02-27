@@ -1003,7 +1003,7 @@
 * mountains `PHOUPB/TAEUPBS`
 * seas, `SAEZ KW-BG`
 * distant `STKAPBT`
-* Africa, `AFR/KA KW-BG`
+* Africa, `AFR/KARBGS`
 * finds `TPAOEUPBDZ`
 * shortest `SHORT/EFT`
 * home `HOEPL`

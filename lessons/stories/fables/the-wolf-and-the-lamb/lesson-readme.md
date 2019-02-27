@@ -59,7 +59,7 @@
 * master, `PHAFRT KW-BG`
 * nay," `TPHAEU KW-BG KR-GS`
 * said `SAEUD`
-* Lambikin; `HRAPL/SKWREU/K*EUPB STPH*FPLT`
+* Lambikin; `HRAPL/SKWREU/K*EUPB/STPH*FPLT`
 * be `-B`
 * muddy `PHUD/KWREU`
 * up `UP`

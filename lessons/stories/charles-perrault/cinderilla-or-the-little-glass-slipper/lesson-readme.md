@@ -465,7 +465,7 @@
 * her, `HER KW-BG`
 * three `THRAOE`
 * huge `HAOUPBLG`
-* rats. `RATS TP-PL`
+* rats. `RATS/TP-PL`
 * Fairy `KPA/TPAEUR/REU`
 * choice `KHOEUS`
 * three, `THRAOE KW-BG`

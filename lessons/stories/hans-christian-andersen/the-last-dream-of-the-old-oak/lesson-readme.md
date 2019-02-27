@@ -594,7 +594,7 @@
 * fuller; `TPUL/*ER STPH*FPLT`
 * proportion `PORPGS`
 * growth, `TKPWRO*UT KW-BG`
-* self-satisfaction `SEF SAEBGS`
+* self-satisfaction `SEF/SAEBGS`
 * increased, `EUPB/KRAOEFD KW-BG`
 * arose `A/ROES`
 * joyous `SKWROEU/KWROUS`

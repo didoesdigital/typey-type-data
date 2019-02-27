@@ -640,7 +640,7 @@
 * gilt `TKPW*EULT`
 * edges. `EPBLGS TP-PL`
 * Indeed, `KPA/TPHAOEPBD KW-BG`
-* well-to-do `WEL H-PB TO H-PB TKO`
+* well-to-do `TWOEL/TKO`
 * distinguished `STKPWAOURBD`
 * lived `HREUFD`
 * here; `HAOER STPH*FPLT`

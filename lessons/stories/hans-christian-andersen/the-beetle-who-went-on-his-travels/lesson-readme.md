@@ -558,7 +558,7 @@
 * begged `PWEGD`
 * walk `WAUBG`
 * in, `TPH KW-BG`
-* earthenware. `*ERT/*EPB/WA*EUR TP-PL`
+* earthenware. `*ERT/*EPB/WA*EUR/TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * also `HR-S`
 * see `SAOE`

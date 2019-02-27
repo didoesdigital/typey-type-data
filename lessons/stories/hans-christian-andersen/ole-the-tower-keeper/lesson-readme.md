@@ -431,7 +431,7 @@
 * enough `TPHUF`
 * known—that `TPHOEPB EPL/TKA*RB THA`
 * taken `TAEPB`
-* St. `KPA/ST* TP-PL`
+* St. `S*T`
 * John's `SKWROPB AES`
 * eve, `AOEF KW-BG`
 * Brocken; `xxx Brocken STPH*FPLT`
@@ -1138,7 +1138,7 @@
 * wonder `WOPBD`
 * of? `-F H-F`
 * Shall `KPA/SHAL`
-* you? `U H-F`
+* you? `STPHU`
 * glove `TKPWHROF`
 * lying `HRAOEUG`
 * pointing `POEUPBGT`

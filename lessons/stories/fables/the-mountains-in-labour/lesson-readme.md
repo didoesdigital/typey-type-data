@@ -87,5 +87,5 @@
 * used `AOUFD`
 * say: `SAEU STPH-FPLT`
 * "Much `KR-GS KPA/PHUFP`
-* outcry, `AOUT/KRAOEU KW-BG`
+* outcry, `AOUT/KRAOEU/KW-BG`
 * outcome." `KWUPL TP-PL KR-GS`

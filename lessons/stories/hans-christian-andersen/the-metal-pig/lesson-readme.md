@@ -1072,7 +1072,7 @@
 * remembered `RERD`
 * Venus, `SRAO*EPBS KW-BG`
 * Saviour `KPA/SAEUF/KWRO*R/A*U`
-* St. `KPA/ST* TP-PL`
+* St. `S*T`
 * John. `SKWROPB TP-PL`
 * represented `REPD`
 * standing `STAPBG`

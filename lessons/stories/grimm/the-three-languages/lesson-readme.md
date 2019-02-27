@@ -376,7 +376,7 @@
 * this, `TH KW-BG`
 * counselled `KOUPBD/A*U`
 * it, `T KW-BG`
-* yes. `KWRE TP-PL`
+* yes. `KWR*EFPLT`
 * anointed `A/TPHOEUPBT/-D`
 * consecrated, `KOPBS/KRAEUT/-D KW-BG`
 * thus `THUS`

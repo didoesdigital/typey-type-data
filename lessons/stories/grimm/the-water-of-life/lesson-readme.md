@@ -618,7 +618,7 @@
 * days. `TKAEUS TP-PL`
 * laughed `HRAFD`
 * 'Well, `AE KPA/WEL KW-BG`
-* you? `U H-F`
+* you? `STPHU`
 * You `KPA/U`
 * trouble `TRUBL`
 * shall `SHAL`

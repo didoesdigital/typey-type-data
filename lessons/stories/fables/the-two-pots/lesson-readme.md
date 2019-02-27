@@ -14,7 +14,7 @@
 * one `WUPB`
 * brass, `PWRAS KW-BG`
 * and `SKP`
-* earthenware. `*ERT/*EPB/WA*EUR TP-PL`
+* earthenware. `*ERT/*EPB/WA*EUR/TP-PL`
 * When `KPA/WHEPB`
 * tide `TAOEUD`
 * rose `ROEZ`
