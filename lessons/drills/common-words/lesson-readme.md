@@ -521,7 +521,7 @@
 * match `PHAFP`
 * matter `PHAERT`
 * may `PHAE`
-* maybe `PAEUB`
+* maybe `PHAEB`
 * me `PHE`
 * mean `PHAOEPB`
 * meant `PHEPBT`

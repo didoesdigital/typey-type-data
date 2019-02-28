@@ -165,7 +165,7 @@
 * Carl `KARL`
 * Jeremy `SKWRER/PHEU`
 * Gerald `SKWRERLD`
-* Keith `KAOET`
+* Keith `KAO*ET`
 * Roger `RORG`
 * Arthur `THUR`
 * Terry `T*ER/REU`

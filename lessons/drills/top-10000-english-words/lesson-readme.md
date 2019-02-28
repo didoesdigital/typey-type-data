@@ -1589,7 +1589,7 @@
 * USB `UFB`
 * maintenance `PHAEUPBT/APBS`
 * ability `ABT`
-* maybe `PAEUB`
+* maybe `PHAEB`
 * functions `TPUPBGS/-S`
 * ed `ED`
 * moving `PHOFG`
@@ -4706,7 +4706,7 @@
 * knowing `TPHOEG`
 * reporter `ROERP`
 * metabolism `PHET/PWHREUFP`
-* Keith `KAOET`
+* Keith `KAO*ET`
 * champion `KHAPL/KWROPB`
 * cloudy `KHROU/TKEU`
 * Linda `HREUPB/TKA`
@@ -7902,7 +7902,7 @@
 * porter `POR/TER`
 * gras `TKPWRAZ`
 * jungle `SKWRUPBG/-L`
-* ver `5R/*ER`
+* ver `SR*/*ER`
 * rn `R*/TPH*`
 * responded `SPOPBD/-D`
 * rim `REUPL`
