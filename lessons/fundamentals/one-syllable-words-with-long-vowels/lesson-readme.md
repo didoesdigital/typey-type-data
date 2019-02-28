@@ -37,7 +37,6 @@
 * trying `TRAOEUG`
 * trial `TRAOEUL`
 * race `RAEUS`
-* maybe `PHAEB`
 * rape `RAEUP`
 * host `HOEFT`
 * steel `STAOEL`
