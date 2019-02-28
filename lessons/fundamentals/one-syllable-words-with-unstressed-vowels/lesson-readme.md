@@ -10,6 +10,7 @@
 * helped `HEPD`
 * saved `SAFD`
 * stored `STORD`
+* horses `HORSZ`
 * stopped `STOPD`
 * trusted `TRUFTD`
 * waves `WAFS`

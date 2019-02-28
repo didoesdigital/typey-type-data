@@ -237,6 +237,7 @@
 * fail `TPAEUL`
 * jazz `SKWRAZ`
 * bags `PWAGS`
+* noted `TPHOETD`
 * bars `PWARS`
 * dual `TKAOUL`
 * sleep `SHRAOEP`
@@ -251,6 +252,7 @@
 * beat `PWAET`
 * drives `TKREUFS`
 * dress `TKRES`
+* babes `PWAEUBS`
 * slow `SHROE`
 * grow `TKPWROE`
 * dot `TKOT`
@@ -310,6 +312,7 @@
 * plot `PHROT`
 * missed `PHEUFD`
 * beds `PWEDZ`
+* breasts `PWREFTS`
 * bills `PWEULS`
 * bold `PWOLD`
 * lived `HREUFD`
@@ -497,6 +500,7 @@
 * dig `TKEUG`
 * fate `TPAEUT`
 * GUI `TKPWRAOEU`
+* gras `TKPWRAZ`
 * breeds `PWRAOEDZ`
 * mess `PHES`
 * lit `HREUT`

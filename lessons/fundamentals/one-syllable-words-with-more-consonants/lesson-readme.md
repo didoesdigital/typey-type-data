@@ -85,6 +85,8 @@
 * pros `PROS`
 * swap `SWAP`
 * trap `TRAP`
+* watts `WATS`
+* pubs `PUBS`
 * sorts `SORTS`
 * purse `PURS`
 * whore `WHOR`

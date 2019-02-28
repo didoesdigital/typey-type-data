@@ -50,6 +50,7 @@
 * wild `WAOEULD`
 * wait `WAEUT`
 * rose `ROEZ`
+* tours `TORS`
 * codes `KOEDZ`
 * tried `TRAOEUD`
 * stated `STAEUTD`
@@ -68,6 +69,7 @@
 * pair `PAEUR`
 * pieces `PAOEFS`
 * wheel `WHAOEL`
+* hosted `HOEFTD`
 * sizes `SAOEUSZ`
 * keys `KAOES`
 * trail `TRAEUL`
@@ -123,6 +125,7 @@
 * cure `KAOUR`
 * spare `SPAEUR`
 * tapes `TAEUPS`
+* races `RAEUSZ`
 * probe `PROEB`
 * whilst `WHAOEULS`
 * pays `PAEUZ`

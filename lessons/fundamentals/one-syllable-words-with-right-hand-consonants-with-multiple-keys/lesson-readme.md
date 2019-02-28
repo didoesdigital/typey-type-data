@@ -83,6 +83,7 @@
 * stand `STAPBD`
 * clean `KHAOEPB`
 * wind `WEUPBD`
+* sciences `SKRAOEUPBSZ`
 * palm `PAPL`
 * stone `STOEPB`
 * ex `EBGS`
@@ -191,6 +192,7 @@
 * wins `WEUPBZ`
 * rack `RABG`
 * trans `TRAPBS`
+* acres `AEURBGZ`
 * wake `WAEUBG`
 * armed `ARPLD`
 * pine `PAOEUPB`
@@ -244,6 +246,7 @@
 * harm `HARPL`
 * tricks `TREUBGS`
 * um `UPL`
+* cams `KAPLS`
 * cloth `KHRO*T`
 * proc `PROBG`
 * tan `TAPB`
@@ -271,6 +274,7 @@
 * strict `STREBGT`
 * trick `TREUBG`
 * horn `HORPB`
+* handled `HAPBLD`
 * calm `KAUPL`
 * speaks `SPAOEBGS`
 * twins `TWEUPBS`
@@ -288,6 +292,7 @@
 * worn `WORPB`
 * rim `REUPL`
 * rhythm `REUFPL`
+* saints `SAEUPBTS`
 * ham `HAPL`
 * rand `RAPBD`
 * acre `AEURBG`

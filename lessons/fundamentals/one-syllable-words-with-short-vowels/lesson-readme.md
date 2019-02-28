@@ -87,6 +87,7 @@
 * stored `STORD`
 * trips `TREUPS`
 * worst `WOFRT`
+* horses `HORSZ`
 * prove `PROF`
 * skill `SKEUL`
 * cats `KATS`
@@ -136,12 +137,15 @@
 * swap `SWAP`
 * skilled `SKEULD`
 * trap `TRAP`
+* watts `WATS`
 * twist `TWEUFT`
 * saves `SAFS`
+* pubs `PUBS`
 * solved `SOFLD`
 * pest `PEFT`
 * hired `HEURD`
 * kills `KEULS`
+* twisted `TWEUFTD`
 * trusts `TRUFTS`
 * rolled `ROLD`
 * wrist `WREUFT`

@@ -93,6 +93,7 @@
 * matches `PHAFPS`
 * sharp `SHARP`
 * coach `KOEFP`
+* cheats `KHAOETS`
 * mesh `PHERB`
 * checks `KHEBGS`
 * reached `RAOEFPD`
@@ -138,6 +139,7 @@
 * chest `KHEFT`
 * shorts `SHORTS`
 * patches `PAFPS`
+* cached `KAERBD`
 * theft `THEFT`
 * swing `SWEUPBG`
 * shoot `SHAOT`

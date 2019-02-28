@@ -153,7 +153,9 @@
 * sol `SOL`
 * sap `SAP`
 * trap `TRAP`
+* watts `WATS`
 * col `KOL`
+* pubs `PUBS`
 * tar `TAR`
 * rug `RUG`
 * hull `HUL`
