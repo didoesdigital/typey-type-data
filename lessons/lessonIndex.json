@@ -6,6 +6,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
     "wordCount": 206,
+    "overview": "/fundamentals/one-syllable-words-with-simple-keys/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-more-consonants/lesson.txt"
   },
   {
@@ -15,6 +16,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-more-consonants/lesson.txt",
     "wordCount": 118,
+    "overview": "/fundamentals/one-syllable-words-with-more-consonants/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt"
   },
   {
@@ -24,6 +26,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
     "wordCount": 14,
+    "overview": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt"
   },
   {
@@ -33,6 +36,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt",
     "wordCount": 37,
+    "overview": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-inversion/lesson.txt"
   },
   {
@@ -42,6 +46,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-inversion/lesson.txt",
     "wordCount": 6,
+    "overview": "/fundamentals/one-syllable-words-with-inversion/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt"
   },
   {
@@ -51,6 +56,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
     "wordCount": 42,
+    "overview": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt"
   },
   {
@@ -60,6 +66,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
     "wordCount": 218,
+    "overview": "/fundamentals/one-syllable-words-with-short-vowels/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt"
   },
   {
@@ -69,6 +76,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
     "wordCount": 244,
+    "overview": "/fundamentals/one-syllable-words-with-long-vowels/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt"
   },
   {
@@ -78,6 +86,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
     "wordCount": 44,
+    "overview": "/fundamentals/one-syllable-words-with-diphthongs/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt"
   },
   {
@@ -87,6 +96,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
     "wordCount": 53,
+    "overview": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt"
   },
   {
@@ -96,6 +106,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
     "wordCount": 789,
+    "overview": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt"
   },
   {
@@ -105,6 +116,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
     "wordCount": 429,
+    "overview": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt"
   },
   {
@@ -114,6 +126,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
     "wordCount": 325,
+    "overview": "/fundamentals/one-syllable-words-with-digraphs/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt"
   },
   {
@@ -123,6 +136,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
     "wordCount": 118,
+    "overview": "/fundamentals/one-syllable-words-with-compound-clusters/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt"
   },
   {
@@ -132,6 +146,7 @@
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
     "wordCount": 209,
+    "overview": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson-overview.html",
     "suggestedNext": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt"
   },
   {
@@ -168,6 +183,7 @@
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
     "wordCount": 1136,
+    "overview": "/fundamentals/multi-syllable-words-with-prefixes/lesson-overview.html",
     "suggestedNext": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
   },
   {
@@ -177,6 +193,7 @@
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
     "wordCount": 1836,
+    "overview": "/fundamentals/multi-syllable-words-with-suffixes/lesson-overview.html",
     "suggestedNext": "/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt"
   },
   {
@@ -204,6 +221,7 @@
     "subcategory": "",
     "path": "/fundamentals/fingerspelling/lesson.txt",
     "wordCount": 26,
+    "overview": "/fundamentals/fingerspelling/lesson-overview.html",
     "suggestedNext": "/fundamentals/punctuation/lesson.txt"
   },
   {
@@ -213,6 +231,7 @@
     "subcategory": "",
     "path": "/fundamentals/punctuation/lesson.txt",
     "wordCount": 30,
+    "overview": "/fundamentals/punctuation/lesson-overview.html",
     "suggestedNext": "/fundamentals/numbers/lesson.txt"
   },
   {
@@ -222,6 +241,7 @@
     "subcategory": "",
     "path": "/fundamentals/numbers/lesson.txt",
     "wordCount": 131,
+    "overview": "/fundamentals/numbers/lesson-overview.html",
     "suggestedNext": "/drills/top-100-words/lesson.txt"
   },
   {
