@@ -9416,7 +9416,7 @@
 * volley `SROL/HREU`
 * statistics `ST-BGS`
 * agrees `TKPWRA*ES`
-* simpler `SEPL/PHRER`
+* simpler `SEUFRP/HRER`
 * padre `PAD/RAEU`
 * congratulations `TKPWRAFPGSZ`
 * lids `HREUDZ`

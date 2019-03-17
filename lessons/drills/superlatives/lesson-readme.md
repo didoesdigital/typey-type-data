@@ -16,7 +16,7 @@
 * happier `HAP/KWRER`
 * happiest `HAP/KWREFT`
 * simple `S*EUPL`
-* simpler `SEPL/PHRER`
+* simpler `SEUFRP/HRER`
 * simplest `SEUPL/EFT`
 * busy `PW-Z`
 * busier `PW-Z/KWRER`

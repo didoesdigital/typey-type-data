@@ -3326,7 +3326,7 @@
 * paragraph `PRAF`
 * paragraphs `PRAFS`
 * parallel `PHREL`
-* paralysis `TRAELS`
+* paralysis `PRAELS`
 * parameter `PRAPLT`
 * paraphernalia `PAEURPB`
 * parasympathetic `PR*RBG`

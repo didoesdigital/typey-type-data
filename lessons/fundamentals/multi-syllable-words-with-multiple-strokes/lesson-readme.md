@@ -5015,7 +5015,6 @@
 * paddle `PAD/*L`
 * innate `EUPB/TPHAEUT`
 * volley `SROL/HREU`
-* simpler `SEPL/PHRER`
 * inhabitant `HAB/TAPBT`
 * Ishmael `EURB/PHAEL`
 * inaccessible `EUPB/SESZ/-BL`
