@@ -15,7 +15,7 @@
 * comes `KOPLS`
 * right--all `RAOEUT H-PB H-PB AUL`
 * that `THA`
-* falls `TPAULZ`
+* falls `TPAULS`
 * them `THEPL`
 * is `S`
 * so `SO`
@@ -25,7 +25,7 @@
 * geese `TKPWAOES`
 * swans--all `SWAPBS H-PB H-PB AUL`
 * cards `KARDZ`
-* trumps--toss `TRUPL/-PS H-PB H-PB TOSZ`
+* trumps--toss `TRUPL/-PS H-PB H-PB TOS`
 * which `WEU`
 * way `WAEU`
 * you `U`

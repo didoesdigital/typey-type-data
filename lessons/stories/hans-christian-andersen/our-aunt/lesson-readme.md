@@ -325,7 +325,7 @@
 * A `KPA/AEU`
 * telegram `TEL/TKPWRAPL`
 * dispatched `TKEUS/PAFPD`
-* coffee-time, `KOF/AOE H-PB TAOEUPL KW-BG`
+* coffee-time, `KOEF H-PB TAOEUPL KW-BG`
 * it `T`
 * consist `KAO`
 * words, `WORDZ KW-BG`

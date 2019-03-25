@@ -189,7 +189,6 @@
 * Joe `SKWROE`
 * guys `TKPWEUS`
 * drop `TKROP`
-* mo `PHO`
 * goals `TKPWOELS`
 * smart `SPHART`
 * gave `TKPWAEUF`
@@ -204,14 +203,14 @@
 * draft `TKRAFT`
 * played `PHRAEUD`
 * clubs `KHRUBS`
-* fort `TPOERT`
+* fort `TPORT`
 * forces `TPORSZ`
 * boat `PWOET`
 * mouse `PHOUS`
 * false `TPALS`
 * da `TKA`
 * felt `TPELT`
-* falls `TPAULZ`
+* falls `TPAULS`
 * flag `TPHRAG`
 * clips `KHREUPS`
 * brief `PWRAOEF`

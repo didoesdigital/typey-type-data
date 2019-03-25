@@ -228,7 +228,7 @@
 * business, `PWEUS KW-BG`
 * over `OEFR`
 * mountains `PHOUPB/TAEUPBS`
-* seas. `SAEZ TP-PL`
+* seas. `SAES TP-PL`
 * Farewell, `KPA/TPAER/WEL KW-BG`
 * my `PHEU`
 * bride; `PWRAOEUD STPH*FPLT`
@@ -327,7 +327,7 @@
 * again. `TKPWEPB TP-PL`
 * going `TKPW-G`
 * journey `SKWRURPB`
-* seas; `SAEZ STPH*FPLT`
+* seas; `SAES STPH*FPLT`
 * easy `EZ`
 * lose `HRUZ`
 * life `HRAOEUF`

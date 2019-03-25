@@ -375,7 +375,7 @@
 * sit `SEUT`
 * beside `PWE/SAOEUD`
 * care `KAEUR`
-* falls `TPAULZ`
+* falls `TPAULS`
 * polluted. `PHRAOUT/-D TP-PL`
 * every `EF`
 * evening `AOEPBG`

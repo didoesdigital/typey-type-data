@@ -779,7 +779,7 @@
 * seem `SAOEPL`
 * sear `SAER`
 * seer `SAOER`
-* seas `SAEZ`
+* seas `SAES`
 * sees `SAO*ES`
 * seize `SAOEZ`
 * sects `S*EBGT/-S`
@@ -903,7 +903,7 @@
 * vile `SRAOEUL`
 * vice `SRAOEUS`
 * vise `SRAOEUZ`
-* wade `WAED`
+* wade `WAEUD`
 * weighed `WA*ED`
 * wail `WAEUL`
 * whale `WHAEUL`

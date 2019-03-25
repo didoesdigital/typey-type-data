@@ -842,7 +842,7 @@
 * seizes `SAOEZ/-S`
 * becomes `PW-BGS`
 * frozen, `TPROEFPB KW-BG`
-* falls `TPAULZ`
+* falls `TPAULS`
 * dead; `TKED STPH*FPLT`
 * remains `RE/PHAEUPBS`
 * fell, `TPEL KW-BG`

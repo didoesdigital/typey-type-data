@@ -752,7 +752,7 @@
 * nosegay `TPHOES/TKPWAEU`
 * flowers, `TPHRO*URS KW-BG`
 * length `HREPBG`
-* falls `TPAULZ`
+* falls `TPAULS`
 * form `TPORPL`
 * man's `PHAPB/AES`
 * grave. `TKPWRAEUF TP-PL`
@@ -1057,7 +1057,7 @@
 * say `SAEU`
 * cast-off `KAFT SKWRO*F`
 * rubbish `RUB/EURB`
-* wade `WAED`
+* wade `WAEUD`
 * about. `PW TP-PL`
 * time `TAOEUPL`
 * happened `HAPD`

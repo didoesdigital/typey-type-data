@@ -170,7 +170,7 @@
 * climb `KHRAOEUPL`
 * close `KHROES`
 * clothes `KHRO*ETS`
-* coffee `KOF/AOE`
+* coffee `KOEF`
 * cold `KOELD`
 * college `KHREPBLG`
 * color `KROR`

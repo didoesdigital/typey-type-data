@@ -208,7 +208,6 @@
 * carts `KARTS`
 * whirl `WHEURL`
 * cords `KORDZ`
-* toss `TOSZ`
 * tapped `TAPD`
 * spit `SPEUT`
 * stroll `STROL`

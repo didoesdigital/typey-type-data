@@ -2520,7 +2520,7 @@
 * confirmed `K-FRPL/-D`
 * descended `TKAOE/SEPBD/-D`
 * rush `RURB`
-* falls `TPAULZ`
+* falls `TPAULS`
 * deny `TKOEUPB`
 * calculated `KHRAEUTD`
 * correct `KRERBG`
@@ -2624,7 +2624,7 @@
 * territory `TERT`
 * sleeping `SHRAOEPG`
 * sex `S-BGS`
-* coffee `KOF/AOE`
+* coffee `KOEF`
 * devotion `TKWOEGS`
 * thereof `THROF`
 * creation `KRAEGS`
@@ -3228,7 +3228,7 @@
 * Germans `SKWR*EFRPBS`
 * attracted `A/TRABGD`
 * vengeance `SREPBG/APBS`
-* fort `TPOERT`
+* fort `TPORT`
 * club `KHRUB`
 * cure `KAOUR`
 * stout `STOUT`
@@ -3243,7 +3243,7 @@
 * implied `EUPL/PHRAOEUD`
 * Maria `PHA/REU/KWRA`
 * stupid `STAOUPD`
-* seas `SAEZ`
+* seas `SAES`
 * Spaniards `SPAPB/KWRARDZ`
 * grain `TKPWRAEUPB`
 * enjoyment `SKWROEUPLT`
@@ -8368,7 +8368,7 @@
 * decoration `TKEBG/RAEUGS`
 * heroism `HER/WEUFPL`
 * toe `TO*E`
-* wade `WAED`
+* wade `WAEUD`
 * apparel `A/PAEURL`
 * hazel `HAEUZ/EL`
 * inability `TPHABLT`
@@ -8671,7 +8671,7 @@
 * custody `KUFD/TEU`
 * thermometer `THERPLT`
 * plausible `PHRAUBL`
-* toss `TOSZ`
+* toss `TOS`
 * desperation `TKEFP/RAEUGS`
 * rhetoric `RET/REUBG`
 * scornful `SKORPB/-FL`

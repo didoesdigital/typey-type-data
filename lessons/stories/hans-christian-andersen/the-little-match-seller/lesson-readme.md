@@ -362,7 +362,7 @@
 * now `TPHOU`
 * dead, `TKED KW-BG`
 * told `TOLD`
-* falls, `TPAULZ KW-BG`
+* falls, `TPAULS KW-BG`
 * soul `SOUL`
 * going `TKPW-G`
 * God. `TKPWO*D TP-PL`

@@ -127,7 +127,7 @@
 * "I `KR-GS EU`
 * gave `TKPWAEUF`
 * few `TPAOU`
-* coffee `KOF/AOE`
+* coffee `KOEF`
 * berries `PWER/KWREUS`
 * it; `T STPH*FPLT`
 * you `U`

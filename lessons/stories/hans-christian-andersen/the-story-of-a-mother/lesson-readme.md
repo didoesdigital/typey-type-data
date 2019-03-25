@@ -357,7 +357,7 @@
 * over `OEFR`
 * open `OEP`
 * enough `TPHUF`
-* wade `WAED`
+* wade `WAEUD`
 * through; `THRU STPH*FPLT`
 * it, `T KW-BG`
 * if `TP`

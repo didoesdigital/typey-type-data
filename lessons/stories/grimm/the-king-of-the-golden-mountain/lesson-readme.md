@@ -30,7 +30,7 @@
 * voyage `SROEUPBLG`
 * upon `POPB`
 * the `-T`
-* seas, `SAEZ KW-BG`
+* seas, `SAES KW-BG`
 * in `TPH`
 * which `WEU`
 * he `HE`

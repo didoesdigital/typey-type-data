@@ -673,7 +673,7 @@
 * stockings! `STOBG/-G/-S SKHRAPL`
 * these, `THEZ KW-BG`
 * hair `HAEUR`
-* falls `TPAULZ`
+* falls `TPAULS`
 * off. `OF TP-PL`
 * everything!" `EFRG SKHRAPL KR-GS`
 * "But `KR-GS KPA/PWUT`

@@ -153,7 +153,6 @@
 * distribute `TK-BT`
 * observe `OEB`
 * confident `K-FT`
-* queue `KWAOU`
 * oval `OEFL`
 * boulevard `PW-FD`
 * consist `KAO`

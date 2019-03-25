@@ -163,7 +163,6 @@
 * wives `WAOEUFS`
 * pipes `PAOEUPS`
 * pierce `PAOERS`
-* cove `KOEF`
 * peas `PAOEZ`
 * suited `SAOUTD`
 * ruled `RAOULD`
@@ -232,6 +231,7 @@
 * steer `STAOER`
 * paved `PAEUFD`
 * haze `HAEUZ`
+* wade `WAEUD`
 * seals `SAOELS`
 * wail `WAEUL`
 * peep `PAOEP`

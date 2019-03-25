@@ -1505,7 +1505,7 @@
 * court `KORT`
 * courtroom `KRAOPL`
 * cousin `KUZ`
-* cove `KOEF`
+* cove `KO*EF`
 * coven `KOEFPB`
 * covenant `KOFPBT`
 * coverage `K*FRG`
@@ -4442,7 +4442,7 @@
 * satisfactoriness `STPOEURPBS`
 * satisfactory `STPOEUR`
 * satisfied `SAED`
-* satisfies `SAES`
+* satisfies `SAEFS`
 * satisfy `SAEF`
 * satyr `SAEURT`
 * sauce `SAUS`
@@ -6368,7 +6368,7 @@
 * vulture `SRAOUFP`
 * vying `SRAOEUG`
 * wad `WAD`
-* wade `WAED`
+* wade `WAEUD`
 * wafer `WAFR`
 * waffle `WAFL`
 * waft `WAFT`

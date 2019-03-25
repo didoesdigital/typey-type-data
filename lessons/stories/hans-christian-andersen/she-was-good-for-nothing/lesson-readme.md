@@ -1000,7 +1000,7 @@
 * away `A/WAEU`
 * thus `THUS`
 * found `TPOUPBD`
-* coffee. `KOF/AOE TP-PL`
+* coffee. `KOEF TP-PL`
 * meantime `PHAO*EPB/TAOEUPL`
 * messenger `PHAEPBG`
 * immediately, `PHAOELD KW-BG`

@@ -30,7 +30,7 @@
 * ma `PHA`
 * me `PHE`
 * mi `PHAO*EU`
-* mo `PHO`
+* mo `PH*/O*`
 * mu `PHU`
 * my `PHEU`
 * on `OPB`

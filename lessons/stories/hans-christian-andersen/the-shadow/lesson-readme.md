@@ -464,7 +464,7 @@
 * next `TPHEGT`
 * went `WEPBT`
 * take `TAEUBG`
-* coffee `KOF/AOE`
+* coffee `KOEF`
 * read `RAED`
 * newspapers. `TPHUPS TP-PL`
 * "How `KR-GS KPA/HOU`

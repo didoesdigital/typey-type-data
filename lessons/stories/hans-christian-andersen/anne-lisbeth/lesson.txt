@@ -1749,7 +1749,7 @@ Anne Lisbeth
 'She': KPA/SHE
 'had': H
 'brought': PWRAUT
-'coffee': KOF/AOE
+'coffee': KOEF
 'and': SKP
 'chicory': KHEUBG/REU
 'with': W
@@ -1776,7 +1776,7 @@ Anne Lisbeth
 'a': AEU
 'cup': KUP
 'of': -F
-'coffee,': KOF/AOE KW-BG
+'coffee,': KOEF KW-BG
 'and': SKP
 'then': THEPB
 'she': SHE
@@ -1789,7 +1789,7 @@ Anne Lisbeth
 'woman': WOPL
 'prepared': PRAOEPD
 'the': -T
-'coffee,': KOF/AOE KW-BG
+'coffee,': KOEF KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -1876,13 +1876,13 @@ Anne Lisbeth
 'busy': PW-Z
 'preparing': PRAOEPG
 'the': -T
-'coffee,': KOF/AOE KW-BG
+'coffee,': KOEF KW-BG
 'for': TPOR
 'she': SHE
 'could': KO
 'smell': SPHEL
 'the': -T
-'coffee-berries': KOF/AOE H-PB PWER/KWREUS
+'coffee-berries': KOEF H-PB PWER/KWREUS
 'roasting.': ROEFT/-G TP-PL
 'But': KPA/PWUT
 'suddenly': SULD
@@ -2101,7 +2101,7 @@ Anne Lisbeth
 'They': KPA/THE
 'drank': TKRA*PBG
 'their': THAEUR
-'coffee': KOF/AOE
+'coffee': KOEF
 'and': SKP
 'had': H
 'a': AEU

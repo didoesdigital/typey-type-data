@@ -85,7 +85,7 @@
 * just `SKWRUFT`
 * look `HRAOBG`
 * at `AT`
-* toss `TOSZ`
+* toss `TOS`
 * my `PHEU`
 * head `HED`
 * like `HRAOEUBG`

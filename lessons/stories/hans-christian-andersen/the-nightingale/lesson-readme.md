@@ -955,7 +955,7 @@
 * matter, `PHAERT KW-BG`
 * ladies'-maids `HRAEUDZ AE H-PB PHAEUDZ`
 * company `K-P`
-* coffee. `KOF/AOE TP-PL`
+* coffee. `KOEF TP-PL`
 * Cloth `KPA/KHRO*T`
 * laid `HRAEUD`
 * passages, `PA*PBLGS KW-BG`

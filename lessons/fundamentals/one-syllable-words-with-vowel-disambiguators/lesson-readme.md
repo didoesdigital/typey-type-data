@@ -35,7 +35,7 @@
 * weighted `WAETD`
 * tear `TAER`
 * scoop `SKAOP`
-* seas `SAEZ`
+* seas `SAES`
 * stared `STAERD`
 * swear `SWAER`
 * coarse `KAORS`
@@ -52,4 +52,3 @@
 * hoarse `HAORS`
 * heal `HAEL`
 * stoop `STAOP`
-* wade `WAED`

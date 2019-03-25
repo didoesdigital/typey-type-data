@@ -730,7 +730,7 @@
 * frightening `TPRAOEUT/EPBG`
 * today." `TOED TP-PL KR-GS`
 * brought `PWRAUT`
-* coffee `KOF/AOE`
+* coffee `KOEF`
 * chicory `KHEUBG/REU`
 * charity `KHAEURT`
 * poor `PAOR`
@@ -738,7 +738,7 @@
 * give `TKPWEUF`
 * boil `PWOEUL`
 * cup `KUP`
-* coffee, `KOF/AOE KW-BG`
+* coffee, `KOEF KW-BG`
 * herself. `H*ERS TP-PL`
 * prepared `PRAOEPD`
 * meantime `PHAO*EPB/TAOEUPL`
@@ -762,7 +762,7 @@
 * busy `PW-Z`
 * preparing `PRAOEPG`
 * smell `SPHEL`
-* coffee-berries `KOF/AOE H-PB PWER/KWREUS`
+* coffee-berries `KOEF H-PB PWER/KWREUS`
 * roasting. `ROEFT/-G TP-PL`
 * seemed `SAOEPLD`
 * threshold `THRERBLD`

@@ -301,7 +301,7 @@
 * out. `OUT TP-PL`
 * it's `T-S`
 * every `EF`
-* falls `TPAULZ`
+* falls `TPAULS`
 * cleverly `KHREFRL`
 * did, `TK KW-BG`
 * gets `TKPWETS`
@@ -1001,7 +1001,7 @@
 * butterfly; `PW*URT/TPHRAOEU STPH*FPLT`
 * flies `TPHRAOEUS`
 * mountains `PHOUPB/TAEUPBS`
-* seas, `SAEZ KW-BG`
+* seas, `SAES KW-BG`
 * distant `STKAPBT`
 * Africa, `AFR/KARBGS`
 * finds `TPAOEUPBDZ`

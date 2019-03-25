@@ -457,7 +457,7 @@
 * staying `STAEUG`
 * hot `HOT`
 * countries, `KUPBTS KW-BG`
-* coffee `KOF/AOE`
+* coffee `KOEF`
 * grows. `TKPWRO*ES TP-PL`
 * These `KPA/THEZ`
 * marvellous `PHAFLS/A*U`

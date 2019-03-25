@@ -149,7 +149,7 @@
 * satellite `SAT/HRAOEUT`
 * village `SREULG`
 * accounts `K-TS`
-* coffee `KOF/AOE`
+* coffee `KOEF`
 * settings `SEGTS`
 * recommend `REPL`
 * accounting `K-GT`

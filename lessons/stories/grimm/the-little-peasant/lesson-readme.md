@@ -510,7 +510,7 @@
 * place `PHRAEUS`
 * golden `TKPWOELD/*EPB`
 * snow `STPHOE`
-* falls, `TPAULZ KW-BG`
+* falls, `TPAULS KW-BG`
 * people `PAOEPL`
 * carry `KAER`
 * gold `TKPWOELD`
