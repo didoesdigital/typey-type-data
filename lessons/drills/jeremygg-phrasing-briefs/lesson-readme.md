@@ -1,12 +1,28 @@
 # JeremyGG: phrasing briefs
 
-* it `KPWH-`
+* it `KPWH`
+* it like the `KPWH*BLGT`
+* it likes the `KPWH*BLGTS`
+* it have the `KPWH*FT`
+* it has the `KPWH*FTS`
+* it got `KPWH*GT`
+* it loves the `KPWH*LGT`
+* it thinks the `KPWH*PBGTS`
+* it knows the `KPWH*PBTS`
+* it needs the `KPWH*PBTSD`
+* it wanted the `KPWH*PTD`
+* it wants the `KPWH*PTS`
+* it understood `KPWH*RPBD`
+* it remember the `KPWH*RPLT`
+* it remembered the `KPWH*RPLTD`
+* it isn't `KPWH*RT`
+* it really isn't `KPWH*URT`
 * it can `KPWH-BG`
 * it could `KPWH-BGD`
 * it can't `KPWH-BGT`
 * it believe `KPWH-BL`
 * it like `KPWH-BLG`
-* it like the `KPWH-BLGT`
+* it like to `KPWH-BLGT`
 * it likes to `KPWH-BLGTS`
 * it had `KPWH-D`
 * it have `KPWH-F`
@@ -20,10 +36,10 @@
 * it must `KPWH-FPLT`
 * it wish `KPWH-FRB`
 * it was `KPWH-FS`
-* it have the `KPWH-FT`
+* it have to `KPWH-FT`
 * it has to `KPWH-FTS`
 * it has `KPWH-FZ`
-* it got `KPWH-GT`
+* it get `KPWH-GT`
 * it will `KPWH-L`
 * it would `KPWH-LD`
 * it love `KPWH-LG`
@@ -37,14 +53,16 @@
 * it mean `KPWH-PBL`
 * it just `KPWH-PBLG`
 * it meant `KPWH-PBLT`
-* it knows the `KPWH-PBTS`
+* it need to `KPWH-PBTD`
+* it knows that `KPWH-PBTS`
 * it needs to `KPWH-PBTSD`
 * it expect `KPWH-PGT`
 * it may `KPWH-PL`
 * it mind `KPWH-PLD`
 * it might `KPWH-PLT`
-* it wanted the `KPWH-PTD`
-* it wants the `KPWH-PTS`
+* it want to `KPWH-PT`
+* it wanted to `KPWH-PTD`
+* it wants to `KPWH-PTS`
 * it is `KPWH-R`
 * it shall `KPWH-RB`
 * it should `KPWH-RBD`
@@ -52,21 +70,25 @@
 * it care about `KPWH-RBGT`
 * it recall `KPWH-RL`
 * it were `KPWH-RP`
-* it understood `KPWH-RPBD`
+* it understand `KPWH-RPBD`
 * it remember `KPWH-RPL`
 * it remember that `KPWH-RPLT`
+* it remembered that `KPWH-RPLTD`
 * it remembers that `KPWH-RPLTS`
 * it is not `KPWH-RT`
 * it really `KPWHA`
+* it really isn't `KPWHA*RT`
 * it really can `KPWHABG`
 * it really could `KPWHABGD`
 * it really like `KPWHABLG`
+* it really like to `KPWHABLGT`
 * it really had `KPWHAD`
 * it really doesn't `KPWHAE`
 * it really have `KPWHAF`
 * it really felt `KPWHAFLT`
 * it really must `KPWHAFPLT`
 * it really was `KPWHAFS`
+* it really has `KPWHAFZ`
 * it really will `KPWHAL`
 * it really would `KPWHALD`
 * it really love `KPWHALG`
@@ -110,6 +132,7 @@
 * it really felt `KPWHUFLT`
 * it really must `KPWHUFPLT`
 * it really was `KPWHUFS`
+* it really has `KPWHUFZ`
 * it really will `KPWHUL`
 * it really would `KPWHULD`
 * it really love `KPWHULG`
@@ -120,17 +143,31 @@
 * it really might `KPWHUPLT`
 * it really is `KPWHUR`
 * it really were `KPWHURP`
+* you `KPWR`
+* you like the `KPWR*BLGT`
+* you have the `KPWR*FT`
+* you has the `KPWR*FTS`
+* you got `KPWR*GT`
+* you think the `KPWR*PBGT`
+* you thinks the `KPWR*PBGTS`
+* you know the `KPWR*PBT`
+* you need the `KPWR*PBTD`
+* you want the `KPWR*PT`
+* you wanted the `KPWR*PTD`
+* you wants the `KPWR*PTS`
+* you understood `KPWR*RPBD`
+* you remember the `KPWR*RPLT`
+* you aren't `KPWR*RT`
 * you really like the `KPWR*UBLGT`
 * you really have the `KPWR*UFT`
 * you really got `KPWR*UGT`
 * you really think the `KPWR*UPBGT`
-* you `KPWR-`
 * you can `KPWR-BG`
 * you could `KPWR-BGD`
 * you can't `KPWR-BGT`
 * you believe `KPWR-BL`
 * you like `KPWR-BLG`
-* you like the `KPWR-BLGT`
+* you like to `KPWR-BLGT`
 * you had `KPWR-D`
 * you have `KPWR-F`
 * you forget `KPWR-FG`
@@ -142,10 +179,10 @@
 * you must `KPWR-FPLT`
 * you wish `KPWR-FRB`
 * you was `KPWR-FS`
-* you have the `KPWR-FT`
+* you have to `KPWR-FT`
 * you has to `KPWR-FTS`
 * you has `KPWR-FZ`
-* you got `KPWR-GT`
+* you get `KPWR-GT`
 * you will `KPWR-L`
 * you would `KPWR-LD`
 * you love `KPWR-LG`
@@ -160,14 +197,14 @@
 * you just `KPWR-PBLG`
 * you meant `KPWR-PBLT`
 * you know that `KPWR-PBT`
-* you need the `KPWR-PBTD`
+* you need to `KPWR-PBTD`
 * you expect `KPWR-PGT`
 * you may `KPWR-PL`
 * you mind `KPWR-PLD`
 * you might `KPWR-PLT`
-* you want the `KPWR-PT`
-* you wanted the `KPWR-PTD`
-* you wants the `KPWR-PTS`
+* you want to `KPWR-PT`
+* you wanted to `KPWR-PTD`
+* you wants to `KPWR-PTS`
 * you are `KPWR-R`
 * you shall `KPWR-RB`
 * you should `KPWR-RBD`
@@ -175,11 +212,15 @@
 * you care about `KPWR-RBGT`
 * you recall `KPWR-RL`
 * you were `KPWR-RP`
-* you understood `KPWR-RPBD`
+* you understand `KPWR-RPBD`
 * you remember `KPWR-RPL`
 * you remember that `KPWR-RPLT`
 * you are not `KPWR-RT`
 * you really `KPWRA`
+* you really like the `KPWRA*BLGT`
+* you really have the `KPWRA*FT`
+* you really got `KPWRA*GT`
+* you really think the `KPWRA*PBGT`
 * you didn't like the `KPWRA*UBLGT`
 * you didn't have the `KPWRA*UFT`
 * you didn't know the `KPWRA*UPBT`
@@ -188,7 +229,7 @@
 * you really could `KPWRABGD`
 * you really believe `KPWRABL`
 * you really like `KPWRABLG`
-* you really like the `KPWRABLGT`
+* you really like to `KPWRABLGT`
 * you didn't really `KPWRAEU`
 * you didn't really want `KPWRAEUP`
 * you didn't really know `KPWRAEUPB`
@@ -197,8 +238,8 @@
 * you really feel `KPWRAFL`
 * you really must `KPWRAFPLT`
 * you really wish `KPWRAFRB`
-* you really have the `KPWRAFT`
-* you really got `KPWRAGT`
+* you really have to `KPWRAFT`
+* you really get `KPWRAGT`
 * you really will `KPWRAL`
 * you really would `KPWRALD`
 * you really love `KPWRALG`
@@ -219,12 +260,14 @@
 * you really meant `KPWRAPBLT`
 * you really expect `KPWRAPGT`
 * you really mind `KPWRAPLD`
+* you really want to `KPWRAPT`
 * you really are `KPWRAR`
 * you really shall `KPWRARB`
 * you really should `KPWRARBD`
 * you really care `KPWRARBG`
 * you really care about `KPWRARBGT`
 * you really were `KPWRARP`
+* you really understand `KPWRARPBD`
 * you really remember `KPWRARPL`
 * you really are not `KPWRART`
 * you didn't `KPWRAU`
@@ -260,6 +303,8 @@
 * you don't think the `KPWRO*EPBGT`
 * you don't know the `KPWRO*EPBT`
 * you don't want the `KPWRO*EPT`
+* you can't have the `KPWRO*FT`
+* you can't remember the `KPWRO*RPLT`
 * you can't believe `KPWROBL`
 * you don't `KPWROE`
 * you don't can `KPWROEBG`
@@ -299,7 +344,7 @@
 * you can't have `KPWROF`
 * you can't forget `KPWROFG`
 * you can't feel `KPWROFL`
-* you can't have the `KPWROFT`
+* you can't get `KPWROGT`
 * you can't love `KPWROLG`
 * you can't know `KPWROPB`
 * you can't think `KPWROPBG`
@@ -307,6 +352,7 @@
 * you can't mean `KPWROPBL`
 * you can't expect `KPWROPGT`
 * you can't care `KPWRORBG`
+* you can't understand `KPWRORPBD`
 * you can't remember `KPWRORPL`
 * you can't really `KPWROU`
 * you really `KPWRU`
@@ -343,20 +389,40 @@
 * you really understand `KPWRURPBD`
 * you really remember `KPWRURPL`
 * you really are not `KPWRURT`
+* he `KWHR`
+* he like the `KWHR*BLGT`
+* he likes the `KWHR*BLGTS`
 * he doesn't like the `KWHR*EBLGT`
 * he doesn't know the `KWHR*EPBT`
 * he doesn't want the `KWHR*EPT`
+* he have the `KWHR*FT`
+* he has the `KWHR*FTS`
+* he got `KWHR*GT`
+* he loves the `KWHR*LGT`
+* he think the `KWHR*PBGT`
+* he thinks the `KWHR*PBGTS`
+* he know the `KWHR*PBT`
+* he need the `KWHR*PBTD`
+* he knows the `KWHR*PBTS`
+* he needs the `KWHR*PBTSD`
+* he want the `KWHR*PT`
+* he wanted the `KWHR*PTD`
+* he wants the `KWHR*PTS`
+* he understood `KWHR*RPBD`
+* he remember the `KWHR*RPLT`
+* he remembered the `KWHR*RPLTD`
+* he remembers the `KWHR*RPLTS`
+* he isn't `KWHR*RT`
 * he really have the `KWHR*UFT`
 * he really has the `KWHR*UFTS`
 * he really knows the `KWHR*UPBTS`
 * he really understood `KWHR*URPBD`
-* he `KWHR-`
 * he can `KWHR-BG`
 * he could `KWHR-BGD`
 * he can't `KWHR-BGT`
 * he believe `KWHR-BL`
 * he like `KWHR-BLG`
-* he like the `KWHR-BLGT`
+* he like to `KWHR-BLGT`
 * he likes to `KWHR-BLGTS`
 * he had `KWHR-D`
 * he have `KWHR-F`
@@ -370,10 +436,10 @@
 * he must `KWHR-FPLT`
 * he wish `KWHR-FRB`
 * he was `KWHR-FS`
-* he have the `KWHR-FT`
+* he have to `KWHR-FT`
 * he has to `KWHR-FTS`
 * he has `KWHR-FZ`
-* he got `KWHR-GT`
+* he get `KWHR-GT`
 * he will `KWHR-L`
 * he would `KWHR-LD`
 * he love `KWHR-LG`
@@ -389,16 +455,16 @@
 * he just `KWHR-PBLG`
 * he meant `KWHR-PBLT`
 * he know that `KWHR-PBT`
-* he need the `KWHR-PBTD`
-* he knows the `KWHR-PBTS`
+* he need to `KWHR-PBTD`
+* he knows that `KWHR-PBTS`
 * he needs to `KWHR-PBTSD`
 * he expect `KWHR-PGT`
 * he may `KWHR-PL`
 * he mind `KWHR-PLD`
 * he might `KWHR-PLT`
-* he want the `KWHR-PT`
-* he wanted the `KWHR-PTD`
-* he wants the `KWHR-PTS`
+* he want to `KWHR-PT`
+* he wanted to `KWHR-PTD`
+* he wants to `KWHR-PTS`
 * he is `KWHR-R`
 * he shall `KWHR-RB`
 * he should `KWHR-RBD`
@@ -407,13 +473,17 @@
 * he cares about `KWHR-RBGTS`
 * he recall `KWHR-RL`
 * he were `KWHR-RP`
-* he understood `KWHR-RPBD`
+* he understand `KWHR-RPBD`
 * he remember `KWHR-RPL`
 * he remember that `KWHR-RPLT`
-* he remembered the `KWHR-RPLTD`
+* he remembered that `KWHR-RPLTD`
 * he remembers that `KWHR-RPLTS`
 * he is not `KWHR-RT`
 * he really `KWHRA`
+* he really have the `KWHRA*FT`
+* he really has the `KWHRA*FTS`
+* he really knows the `KWHRA*PBTS`
+* he really understood `KWHRA*RPBD`
 * he didn't like the `KWHRA*UBLGT`
 * he didn't have the `KWHRA*UFT`
 * he didn't think the `KWHRA*UPBGT`
@@ -436,7 +506,6 @@
 * he really must `KWHRAFPLT`
 * he really wish `KWHRAFRB`
 * he really was `KWHRAFS`
-* he really have the `KWHRAFT`
 * he really has to `KWHRAFTS`
 * he really has `KWHRAFZ`
 * he really will `KWHRAL`
@@ -450,16 +519,17 @@
 * he really think `KWHRAPBG`
 * he really mean `KWHRAPBL`
 * he really meant `KWHRAPBLT`
-* he really knows the `KWHRAPBTS`
 * he really may `KWHRAPL`
 * he really mind `KWHRAPLD`
 * he really might `KWHRAPLT`
+* he really want to `KWHRAPT`
+* he really wanted to `KWHRAPTD`
 * he really is `KWHRAR`
 * he really should `KWHRARBD`
 * he really care `KWHRARBG`
 * he really cares about `KWHRARBGTS`
 * he really were `KWHRARP`
-* he really understood `KWHRARPBD`
+* he really understand `KWHRARPBD`
 * he really is not `KWHRART`
 * he didn't `KWHRAU`
 * he didn't believe `KWHRAUBL`
@@ -522,6 +592,7 @@
 * he don't think the `KWHRO*EPBGT`
 * he don't know the `KWHRO*EPBT`
 * he don't want the `KWHRO*EPT`
+* he can't want the `KWHRO*PT`
 * he can't like `KWHROBLG`
 * he don't `KWHROE`
 * he don't believe `KWHROEBL`
@@ -549,12 +620,13 @@
 * he can't feel `KWHROFL`
 * he can't even `KWHROFPB`
 * he can't must `KWHROFPLT`
+* he can't get `KWHROGT`
 * he can't love `KWHROLG`
 * he can't want `KWHROP`
 * he can't know `KWHROPB`
 * he can't think `KWHROPBG`
-* he can't want the `KWHROPT`
 * he can't care `KWHRORBG`
+* he can't understand `KWHRORPBD`
 * he can't remember `KWHRORPL`
 * he really `KWHRU`
 * he really can `KWHRUBG`
@@ -591,16 +663,32 @@
 * he really were `KWHRURP`
 * he really understand `KWHRURPBD`
 * he really is not `KWHRURT`
+* she `SKWHR`
+* she like the `SKWHR*BLGT`
+* she likes the `SKWHR*BLGTS`
 * she doesn't like the `SKWHR*EBLGT`
 * she doesn't know the `SKWHR*EPBT`
+* she have the `SKWHR*FT`
+* she has the `SKWHR*FTS`
+* she got `SKWHR*GT`
+* she loves the `SKWHR*LGT`
+* she thinks the `SKWHR*PBGTS`
+* she know the `SKWHR*PBT`
+* she knows the `SKWHR*PBTS`
+* she needs the `SKWHR*PBTSD`
+* she want the `SKWHR*PT`
+* she wanted the `SKWHR*PTD`
+* she wants the `SKWHR*PTS`
+* she understood `SKWHR*RPBD`
+* she remembered the `SKWHR*RPLTD`
+* she remembers the `SKWHR*RPLTS`
+* she isn't `SKWHR*RT`
 * she really have the `SKWHR*UFT`
-* she `SKWHR-`
 * she can `SKWHR-BG`
 * she could `SKWHR-BGD`
 * she can't `SKWHR-BGT`
 * she believe `SKWHR-BL`
 * she like `SKWHR-BLG`
-* she like the `SKWHR-BLGT`
 * she likes to `SKWHR-BLGTS`
 * she had `SKWHR-D`
 * she have `SKWHR-F`
@@ -613,10 +701,10 @@
 * she must `SKWHR-FPLT`
 * she wish `SKWHR-FRB`
 * she was `SKWHR-FS`
-* she have the `SKWHR-FT`
+* she have to `SKWHR-FT`
 * she has to `SKWHR-FTS`
 * she has `SKWHR-FZ`
-* she got `SKWHR-GT`
+* she get `SKWHR-GT`
 * she will `SKWHR-L`
 * she would `SKWHR-LD`
 * she love `SKWHR-LG`
@@ -631,15 +719,15 @@
 * she just `SKWHR-PBLG`
 * she meant `SKWHR-PBLT`
 * she know that `SKWHR-PBT`
-* she knows the `SKWHR-PBTS`
+* she knows that `SKWHR-PBTS`
 * she needs to `SKWHR-PBTSD`
 * she expect `SKWHR-PGT`
 * she may `SKWHR-PL`
 * she mind `SKWHR-PLD`
 * she might `SKWHR-PLT`
-* she want the `SKWHR-PT`
-* she wanted the `SKWHR-PTD`
-* she wants the `SKWHR-PTS`
+* she want to `SKWHR-PT`
+* she wanted to `SKWHR-PTD`
+* she wants to `SKWHR-PTS`
 * she is `SKWHR-R`
 * she shall `SKWHR-RB`
 * she should `SKWHR-RBD`
@@ -648,12 +736,14 @@
 * she cares about `SKWHR-RBGTS`
 * she recall `SKWHR-RL`
 * she were `SKWHR-RP`
-* she understood `SKWHR-RPBD`
+* she understand `SKWHR-RPBD`
 * she remember `SKWHR-RPL`
-* she remembered the `SKWHR-RPLTD`
+* she remembered that `SKWHR-RPLTD`
 * she remembers that `SKWHR-RPLTS`
 * she is not `SKWHR-RT`
 * she really `SKWHRA`
+* she really have the `SKWHRA*FT`
+* she didn't like the `SKWHRA*UBLGT`
 * she didn't know the `SKWHRA*UPBT`
 * she didn't want the `SKWHRA*UPT`
 * she really could `SKWHRABGD`
@@ -667,7 +757,6 @@
 * she really must `SKWHRAFPLT`
 * she really wish `SKWHRAFRB`
 * she really was `SKWHRAFS`
-* she really have the `SKWHRAFT`
 * she really has `SKWHRAFZ`
 * she really would `SKWHRALD`
 * she really love `SKWHRALG`
@@ -678,6 +767,7 @@
 * she really think `SKWHRAPBG`
 * she really mean `SKWHRAPBL`
 * she really meant `SKWHRAPBLT`
+* she really wanted to `SKWHRAPTD`
 * she really is `SKWHRAR`
 * she really care `SKWHRARBG`
 * she really were `SKWHRARP`
@@ -695,8 +785,10 @@
 * she didn't love `SKWHRAULG`
 * she didn't want `SKWHRAUP`
 * she didn't know `SKWHRAUPB`
+* she didn't need `SKWHRAUPBD`
 * she didn't think `SKWHRAUPBG`
 * she didn't mean `SKWHRAUPBL`
+* she didn't need to `SKWHRAUPBTD`
 * she didn't expect `SKWHRAUPGT`
 * she didn't mind `SKWHRAUPLD`
 * she didn't want to `SKWHRAUPT`
@@ -725,6 +817,7 @@
 * she doesn't really think `SKWHREUPBG`
 * she doesn't really mind `SKWHREUPLD`
 * she can't `SKWHRO`
+* she can't want the `SKWHRO*PT`
 * she can't like `SKWHROBLG`
 * she don't `SKWHROE`
 * she don't like `SKWHROEBLG`
@@ -740,9 +833,10 @@
 * she can't forget `SKWHROFG`
 * she can't feel `SKWHROFL`
 * she can't must `SKWHROFPLT`
+* she can't get `SKWHROGT`
 * she can't love `SKWHROLG`
 * she can't want `SKWHROP`
-* she can't want the `SKWHROPT`
+* she can't understand `SKWHRORPBD`
 * she can't remember `SKWHRORPL`
 * she really `SKWHRU`
 * she really could `SKWHRUBGD`
@@ -766,10 +860,31 @@
 * she really is `SKWHRUR`
 * she really care `SKWHRURBG`
 * she really were `SKWHRURP`
+* like the `STKPWHR*BLGT`
+* likes the `STKPWHR*BLGTS`
 * doesn't like the `STKPWHR*EBLGT`
 * doesn't know the `STKPWHR*EPBT`
 * doesn't want the `STKPWHR*EPT`
 * doesn't really want the `STKPWHR*EUPT`
+* have the `STKPWHR*FT`
+* has the `STKPWHR*FTS`
+* got `STKPWHR*GT`
+* loves the `STKPWHR*LGT`
+* wanna `STKPWHR*P`
+* think the `STKPWHR*PBGT`
+* thinks the `STKPWHR*PBGTS`
+* know the `STKPWHR*PBT`
+* need the `STKPWHR*PBTD`
+* knows the `STKPWHR*PBTS`
+* needs the `STKPWHR*PBTSD`
+* want the `STKPWHR*PT`
+* wanted the `STKPWHR*PTD`
+* wants the `STKPWHR*PTS`
+* understood `STKPWHR*RPBD`
+* remember the `STKPWHR*RPLT`
+* remembered the `STKPWHR*RPLTD`
+* remembers the `STKPWHR*RPLTS`
+* aren't `STKPWHR*RT`
 * really like the `STKPWHR*UBLGT`
 * really have the `STKPWHR*UFT`
 * really has the `STKPWHR*UFTS`
@@ -787,7 +902,7 @@
 * can't `STKPWHR-BGT`
 * believe `STKPWHR-BL`
 * like `STKPWHR-BLG`
-* like the `STKPWHR-BLGT`
+* like to `STKPWHR-BLGT`
 * likes to `STKPWHR-BLGTS`
 * had `STKPWHR-D`
 * have `STKPWHR-F`
@@ -801,10 +916,10 @@
 * must `STKPWHR-FPLT`
 * wish `STKPWHR-FRB`
 * was `STKPWHR-FS`
-* have the `STKPWHR-FT`
+* have to `STKPWHR-FT`
 * has to `STKPWHR-FTS`
 * has `STKPWHR-FZ`
-* got `STKPWHR-GT`
+* get `STKPWHR-GT`
 * will `STKPWHR-L`
 * would `STKPWHR-LD`
 * love `STKPWHR-LG`
@@ -820,16 +935,16 @@
 * just `STKPWHR-PBLG`
 * meant `STKPWHR-PBLT`
 * know that `STKPWHR-PBT`
-* need the `STKPWHR-PBTD`
-* knows the `STKPWHR-PBTS`
+* need to `STKPWHR-PBTD`
+* knows that `STKPWHR-PBTS`
 * needs to `STKPWHR-PBTSD`
 * expect `STKPWHR-PGT`
 * may `STKPWHR-PL`
 * mind `STKPWHR-PLD`
 * might `STKPWHR-PLT`
-* want the `STKPWHR-PT`
-* wanted the `STKPWHR-PTD`
-* wants the `STKPWHR-PTS`
+* want to `STKPWHR-PT`
+* wanted to `STKPWHR-PTD`
+* wants to `STKPWHR-PTS`
 * are `STKPWHR-R`
 * shall `STKPWHR-RB`
 * should `STKPWHR-RBD`
@@ -838,13 +953,25 @@
 * cares about `STKPWHR-RBGTS`
 * recall `STKPWHR-RL`
 * were `STKPWHR-RP`
-* understood `STKPWHR-RPBD`
+* understand `STKPWHR-RPBD`
 * remember `STKPWHR-RPL`
 * remember that `STKPWHR-RPLT`
-* remembered the `STKPWHR-RPLTD`
+* remembered that `STKPWHR-RPLTD`
 * remembers that `STKPWHR-RPLTS`
 * are not `STKPWHR-RT`
 * really `STKPWHRA`
+* really like the `STKPWHRA*BLGT`
+* really have the `STKPWHRA*FT`
+* really has the `STKPWHRA*FTS`
+* really got `STKPWHRA*GT`
+* really loves the `STKPWHRA*LGT`
+* really think the `STKPWHRA*PBGT`
+* really thinks the `STKPWHRA*PBGTS`
+* really know the `STKPWHRA*PBT`
+* really need the `STKPWHRA*PBTD`
+* really knows the `STKPWHRA*PBTS`
+* really want the `STKPWHRA*PT`
+* really understood `STKPWHRA*RPBD`
 * didn't like the `STKPWHRA*UBLGT`
 * didn't have the `STKPWHRA*UFT`
 * didn't got `STKPWHRA*UGT`
@@ -856,7 +983,7 @@
 * really can't `STKPWHRABGT`
 * really believe `STKPWHRABL`
 * really like `STKPWHRABLG`
-* really like the `STKPWHRABLGT`
+* really like to `STKPWHRABLGT`
 * really had `STKPWHRAD`
 * really doesn't `STKPWHRAE`
 * really doesn't understand `STKPWHRAERPBD`
@@ -866,6 +993,8 @@
 * didn't really know `STKPWHRAEUPB`
 * didn't really think `STKPWHRAEUPBG`
 * didn't really want to `STKPWHRAEUPT`
+* didn't really care `STKPWHRAEURBG`
+* didn't really care about `STKPWHRAEURBGT`
 * really have `STKPWHRAF`
 * really forgot `STKPWHRAFGT`
 * really feel `STKPWHRAFL`
@@ -875,10 +1004,10 @@
 * really must `STKPWHRAFPLT`
 * really wish `STKPWHRAFRB`
 * really was `STKPWHRAFS`
-* really have the `STKPWHRAFT`
+* really have to `STKPWHRAFT`
 * really has to `STKPWHRAFTS`
 * really has `STKPWHRAFZ`
-* really got `STKPWHRAGT`
+* really get `STKPWHRAGT`
 * really will `STKPWHRAL`
 * really would `STKPWHRALD`
 * really love `STKPWHRALG`
@@ -908,6 +1037,7 @@
 * don't even care `STKPWHRAOEURBG`
 * don't even care about `STKPWHRAOEURBGT`
 * don't even remember `STKPWHRAOEURPL`
+* really can't get `STKPWHRAOGT`
 * really can't mean `STKPWHRAOPBL`
 * really didn't `STKPWHRAOU`
 * really didn't want `STKPWHRAOUP`
@@ -924,13 +1054,14 @@
 * really mean `STKPWHRAPBL`
 * really just `STKPWHRAPBLG`
 * really meant `STKPWHRAPBLT`
-* really need the `STKPWHRAPBTD`
-* really knows the `STKPWHRAPBTS`
+* really need to `STKPWHRAPBTD`
 * really expect `STKPWHRAPGT`
 * really may `STKPWHRAPL`
 * really mind `STKPWHRAPLD`
 * really might `STKPWHRAPLT`
-* really want the `STKPWHRAPT`
+* really want to `STKPWHRAPT`
+* really wanted to `STKPWHRAPTD`
+* really wants to `STKPWHRAPTS`
 * really are `STKPWHRAR`
 * really shall `STKPWHRARB`
 * really should `STKPWHRARBD`
@@ -938,7 +1069,7 @@
 * really care about `STKPWHRARBGT`
 * really cares about `STKPWHRARBGTS`
 * really were `STKPWHRARP`
-* really understood `STKPWHRARPBD`
+* really understand `STKPWHRARPBD`
 * really remember `STKPWHRARPL`
 * really are not `STKPWHRART`
 * didn't `STKPWHRAU`
@@ -1018,6 +1149,10 @@
 * don't want the `STKPWHRO*EPT`
 * don't remember the `STKPWHRO*ERPLT`
 * don't really know the `STKPWHRO*EUPBT`
+* can't have the `STKPWHRO*FT`
+* can't know the `STKPWHRO*PBT`
+* can't want the `STKPWHRO*PT`
+* can't remember the `STKPWHRO*RPLT`
 * can't can `STKPWHROBG`
 * can't believe `STKPWHROBL`
 * can't like `STKPWHROBLG`
@@ -1078,7 +1213,8 @@
 * can't must `STKPWHROFPLT`
 * can't wish `STKPWHROFRB`
 * can't was `STKPWHROFS`
-* can't have the `STKPWHROFT`
+* can't have to `STKPWHROFT`
+* can't get `STKPWHROGT`
 * can't love `STKPWHROLG`
 * can't want `STKPWHROP`
 * can't know `STKPWHROPB`
@@ -1088,9 +1224,9 @@
 * can't just `STKPWHROPBLG`
 * can't expect `STKPWHROPGT`
 * can't mind `STKPWHROPLD`
-* can't want the `STKPWHROPT`
 * can't care `STKPWHRORBG`
 * can't recall `STKPWHRORL`
+* can't understand `STKPWHRORPBD`
 * can't remember `STKPWHRORPL`
 * can't really `STKPWHROU`
 * really `STKPWHRU`
@@ -1143,6 +1279,21 @@
 * really understand `STKPWHRURPBD`
 * really remember `STKPWHRURPL`
 * really are not `STKPWHRURT`
+* I `SWR`
+* I like the `SWR*BLGT`
+* I likes the `SWR*BLGTS`
+* I have the `SWR*FT`
+* I has the `SWR*FTS`
+* I got `SWR*GT`
+* I think the `SWR*PBGT`
+* I know the `SWR*PBT`
+* I need the `SWR*PBTD`
+* I knows the `SWR*PBTS`
+* I want the `SWR*PT`
+* I wanted the `SWR*PTD`
+* I understood `SWR*RPBD`
+* I remember the `SWR*RPLT`
+* I remembered the `SWR*RPLTD`
 * I really like the `SWR*UBLGT`
 * I really have the `SWR*UFT`
 * I really got `SWR*UGT`
@@ -1150,13 +1301,12 @@
 * I really need the `SWR*UPBTD`
 * I really want the `SWR*UPT`
 * I really understood `SWR*URPBD`
-* I `SWR-`
 * I can `SWR-BG`
 * I could `SWR-BGD`
 * I can't `SWR-BGT`
 * I believe `SWR-BL`
 * I like `SWR-BLG`
-* I like the `SWR-BLGT`
+* I like to `SWR-BLGT`
 * I likes to `SWR-BLGTS`
 * I had `SWR-D`
 * I have `SWR-F`
@@ -1170,9 +1320,10 @@
 * I must `SWR-FPLT`
 * I wish `SWR-FRB`
 * I was `SWR-FS`
-* I have the `SWR-FT`
+* I have to `SWR-FT`
+* I has to `SWR-FTS`
 * I has `SWR-FZ`
-* I got `SWR-GT`
+* I get `SWR-GT`
 * I will `SWR-L`
 * I would `SWR-LD`
 * I love `SWR-LG`
@@ -1187,15 +1338,16 @@
 * I just `SWR-PBLG`
 * I meant `SWR-PBLT`
 * I know that `SWR-PBT`
-* I need the `SWR-PBTD`
-* I knows the `SWR-PBTS`
+* I need to `SWR-PBTD`
+* I knows that `SWR-PBTS`
 * I needs to `SWR-PBTSD`
 * I expect `SWR-PGT`
 * I may `SWR-PL`
 * I mind `SWR-PLD`
 * I might `SWR-PLT`
-* I want the `SWR-PT`
-* I wanted the `SWR-PTD`
+* I want to `SWR-PT`
+* I wanted to `SWR-PTD`
+* I wants to `SWR-PTS`
 * I am `SWR-R`
 * I shall `SWR-RB`
 * I should `SWR-RBD`
@@ -1203,12 +1355,19 @@
 * I care about `SWR-RBGT`
 * I recall `SWR-RL`
 * I were `SWR-RP`
-* I understood `SWR-RPBD`
+* I understand `SWR-RPBD`
 * I remember `SWR-RPL`
 * I remember that `SWR-RPLT`
-* I remembered the `SWR-RPLTD`
+* I remembered that `SWR-RPLTD`
 * I am not `SWR-RT`
 * I really `SWRA`
+* I really like the `SWRA*BLGT`
+* I really have the `SWRA*FT`
+* I really got `SWRA*GT`
+* I really think the `SWRA*PBGT`
+* I really need the `SWRA*PBTD`
+* I really want the `SWRA*PT`
+* I really understood `SWRA*RPBD`
 * I didn't like the `SWRA*UBLGT`
 * I didn't have the `SWRA*UFT`
 * I didn't think the `SWRA*UPBGT`
@@ -1219,7 +1378,6 @@
 * I really can't `SWRABGT`
 * I really believe `SWRABL`
 * I really like `SWRABLG`
-* I really like the `SWRABLGT`
 * I really had `SWRAD`
 * I didn't really `SWRAEU`
 * I didn't really think `SWRAEUPBG`
@@ -1232,8 +1390,6 @@
 * I really must `SWRAFPLT`
 * I really wish `SWRAFRB`
 * I really was `SWRAFS`
-* I really have the `SWRAFT`
-* I really got `SWRAGT`
 * I really will `SWRAL`
 * I really would `SWRALD`
 * I really love `SWRALG`
@@ -1257,6 +1413,7 @@
 * I don't even care `SWRAOEURBG`
 * I don't even care about `SWRAOEURBGT`
 * I don't even remember `SWRAOEURPL`
+* I really can't get `SWRAOGT`
 * I really didn't `SWRAOU`
 * I really didn't know `SWRAOUPB`
 * I really didn't mean `SWRAOUPBL`
@@ -1268,16 +1425,15 @@
 * I really think that `SWRAPBGT`
 * I really mean `SWRAPBL`
 * I really meant `SWRAPBLT`
-* I really need the `SWRAPBTD`
 * I really may `SWRAPL`
 * I really might `SWRAPLT`
-* I really want the `SWRAPT`
+* I really want to `SWRAPT`
+* I really wanted to `SWRAPTD`
 * I really am `SWRAR`
 * I really shall `SWRARB`
 * I really should `SWRARBD`
 * I really care `SWRARBG`
 * I really were `SWRARP`
-* I really understood `SWRARPBD`
 * I really am not `SWRART`
 * I didn't `SWRAU`
 * I didn't believe `SWRAUBL`
@@ -1318,6 +1474,9 @@
 * I don't want the `SWRO*EPT`
 * I don't remember the `SWRO*ERPLT`
 * I don't really know the `SWRO*EUPBT`
+* I can't have the `SWRO*FT`
+* I can't know the `SWRO*PBT`
+* I can't remember the `SWRO*RPLT`
 * I can't can `SWROBG`
 * I can't believe `SWROBL`
 * I can't like `SWROBLG`
@@ -1369,7 +1528,8 @@
 * I can't feel `SWROFL`
 * I can't even `SWROFPB`
 * I can't was `SWROFS`
-* I can't have the `SWROFT`
+* I can't have to `SWROFT`
+* I can't get `SWROGT`
 * I can't love `SWROLG`
 * I can't want `SWROP`
 * I can't know `SWROPB`
@@ -1379,6 +1539,7 @@
 * I can't expect `SWROPGT`
 * I can't mind `SWROPLD`
 * I can't recall `SWRORL`
+* I can't understand `SWRORPBD`
 * I can't remember `SWRORPL`
 * I can't really `SWROU`
 * I really `SWRU`
@@ -1417,15 +1578,28 @@
 * I really care `SWRURBG`
 * I really were `SWRURP`
 * I really am not `SWRURT`
+* they `TWH`
+* they like the `TWH*BLGT`
+* they have the `TWH*FT`
+* they has the `TWH*FTS`
+* they got `TWH*GT`
+* they think the `TWH*PBGT`
+* they know the `TWH*PBT`
+* they need the `TWH*PBTD`
+* they want the `TWH*PT`
+* they wanted the `TWH*PTD`
+* they understood `TWH*RPBD`
+* they remember the `TWH*RPLT`
+* they remembered the `TWH*RPLTD`
+* they aren't `TWH*RT`
 * they really know the `TWH*UPBT`
 * they really understood `TWH*URPBD`
-* they `TWH-`
 * they can `TWH-BG`
 * they could `TWH-BGD`
 * they can't `TWH-BGT`
 * they believe `TWH-BL`
 * they like `TWH-BLG`
-* they like the `TWH-BLGT`
+* they like to `TWH-BLGT`
 * they likes to `TWH-BLGTS`
 * they had `TWH-D`
 * they have `TWH-F`
@@ -1438,9 +1612,9 @@
 * they must `TWH-FPLT`
 * they wish `TWH-FRB`
 * they was `TWH-FS`
-* they have the `TWH-FT`
+* they have to `TWH-FT`
 * they has `TWH-FZ`
-* they got `TWH-GT`
+* they get `TWH-GT`
 * they will `TWH-L`
 * they would `TWH-LD`
 * they love `TWH-LG`
@@ -1455,13 +1629,13 @@
 * they just `TWH-PBLG`
 * they meant `TWH-PBLT`
 * they know that `TWH-PBT`
-* they need the `TWH-PBTD`
+* they need to `TWH-PBTD`
 * they expect `TWH-PGT`
 * they may `TWH-PL`
 * they mind `TWH-PLD`
 * they might `TWH-PLT`
-* they want the `TWH-PT`
-* they wanted the `TWH-PTD`
+* they want to `TWH-PT`
+* they wanted to `TWH-PTD`
 * they are `TWH-R`
 * they shall `TWH-RB`
 * they should `TWH-RBD`
@@ -1469,11 +1643,13 @@
 * they care about `TWH-RBGT`
 * they recall `TWH-RL`
 * they were `TWH-RP`
-* they understood `TWH-RPBD`
+* they understand `TWH-RPBD`
 * they remember `TWH-RPL`
-* they remembered the `TWH-RPLTD`
+* they remembered that `TWH-RPLTD`
 * they are not `TWH-RT`
 * they really `TWHA`
+* they really know the `TWHA*PBT`
+* they really understood `TWHA*RPBD`
 * they didn't like the `TWHA*UBLGT`
 * they didn't know the `TWHA*UPBT`
 * they didn't want the `TWHA*UPT`
@@ -1486,6 +1662,7 @@
 * they really felt `TWHAFLT`
 * they really must `TWHAFPLT`
 * they really wish `TWHAFRB`
+* they really get `TWHAGT`
 * they really will `TWHAL`
 * they really would `TWHALD`
 * they really love `TWHALG`
@@ -1501,7 +1678,6 @@
 * they really might `TWHAPLT`
 * they really are `TWHAR`
 * they really were `TWHARP`
-* they really understood `TWHARPBD`
 * they didn't `TWHAU`
 * they didn't can `TWHAUBG`
 * they didn't believe `TWHAUBL`
@@ -1524,6 +1700,7 @@
 * they don't think the `TWHO*EPBGT`
 * they don't know the `TWHO*EPBT`
 * they don't want the `TWHO*EPT`
+* they can't have the `TWHO*FT`
 * they can't believe `TWHOBL`
 * they don't `TWHOE`
 * they don't believe `TWHOEBL`
@@ -1549,10 +1726,11 @@
 * they don't understand `TWHOERPBD`
 * they can't have `TWHOF`
 * they can't even `TWHOFPB`
-* they can't have the `TWHOFT`
+* they can't get `TWHOGT`
 * they can't love `TWHOLG`
 * they can't know `TWHOPB`
 * they can't care `TWHORBG`
+* they can't understand `TWHORPBD`
 * they can't really `TWHOU`
 * they really `TWHU`
 * they really can `TWHUBG`
@@ -1578,16 +1756,28 @@
 * they really might `TWHUPLT`
 * they really are `TWHUR`
 * they really were `TWHURP`
+* we `TWR`
+* we like the `TWR*BLGT`
+* we have the `TWR*FT`
+* we got `TWR*GT`
+* we think the `TWR*PBGT`
+* we know the `TWR*PBT`
+* we need the `TWR*PBTD`
+* we want the `TWR*PT`
+* we wanted the `TWR*PTD`
+* we understood `TWR*RPBD`
+* we remember the `TWR*RPLT`
+* we remembered the `TWR*RPLTD`
+* we aren't `TWR*RT`
 * we really have the `TWR*UFT`
 * we really think the `TWR*UPBGT`
 * we really know the `TWR*UPBT`
-* we `TWR-`
 * we can `TWR-BG`
 * we could `TWR-BGD`
 * we can't `TWR-BGT`
 * we believe `TWR-BL`
 * we like `TWR-BLG`
-* we like the `TWR-BLGT`
+* we like to `TWR-BLGT`
 * we had `TWR-D`
 * we have `TWR-F`
 * we forget `TWR-FG`
@@ -1600,9 +1790,9 @@
 * we must `TWR-FPLT`
 * we wish `TWR-FRB`
 * we was `TWR-FS`
-* we have the `TWR-FT`
+* we have to `TWR-FT`
 * we has `TWR-FZ`
-* we got `TWR-GT`
+* we get `TWR-GT`
 * we will `TWR-L`
 * we would `TWR-LD`
 * we love `TWR-LG`
@@ -1616,13 +1806,15 @@
 * we just `TWR-PBLG`
 * we meant `TWR-PBLT`
 * we know that `TWR-PBT`
-* we need the `TWR-PBTD`
+* we need to `TWR-PBTD`
+* we knows that `TWR-PBTS`
 * we expect `TWR-PGT`
 * we may `TWR-PL`
 * we mind `TWR-PLD`
 * we might `TWR-PLT`
-* we want the `TWR-PT`
-* we wanted the `TWR-PTD`
+* we want to `TWR-PT`
+* we wanted to `TWR-PTD`
+* we wants to `TWR-PTS`
 * we are `TWR-R`
 * we shall `TWR-RB`
 * we should `TWR-RBD`
@@ -1630,12 +1822,15 @@
 * we care about `TWR-RBGT`
 * we recall `TWR-RL`
 * we were `TWR-RP`
-* we understood `TWR-RPBD`
+* we understand `TWR-RPBD`
 * we remember `TWR-RPL`
 * we remember that `TWR-RPLT`
-* we remembered the `TWR-RPLTD`
+* we remembered that `TWR-RPLTD`
 * we are not `TWR-RT`
 * we really `TWRA`
+* we really have the `TWRA*FT`
+* we really think the `TWRA*PBGT`
+* we really know the `TWRA*PBT`
 * we didn't know the `TWRA*UPBT`
 * we really can `TWRABG`
 * we really can't `TWRABGT`
@@ -1645,7 +1840,6 @@
 * we really feel `TWRAFL`
 * we really must `TWRAFPLT`
 * we really wish `TWRAFRB`
-* we really have the `TWRAFT`
 * we really love `TWRALG`
 * we really can't `TWRAO`
 * we don't even `TWRAOEU`
@@ -1657,6 +1851,8 @@
 * we really think that `TWRAPBGT`
 * we really mean `TWRAPBL`
 * we really meant `TWRAPBLT`
+* we really need to `TWRAPBTD`
+* we really want to `TWRAPT`
 * we really are `TWRAR`
 * we really shall `TWRARB`
 * we really should `TWRARBD`
@@ -1712,9 +1908,12 @@
 * we can't have `TWROF`
 * we can't forget `TWROFG`
 * we can't even `TWROFPB`
+* we can't have to `TWROFT`
+* we can't get `TWROGT`
 * we can't think `TWROPBG`
 * we can't just `TWROPBLG`
 * we can't expect `TWROPGT`
+* we can't understand `TWRORPBD`
 * we can't really `TWROU`
 * we really `TWRU`
 * we really can `TWRUBG`
@@ -1766,6 +1965,7 @@
 * what he likes to `WHAEBLGTS`
 * what he had `WHAED`
 * what he have `WHAEF`
+* what he forget `WHAEFG`
 * what he feel `WHAEFL`
 * what he felt `WHAEFLT`
 * what he must `WHAEFPLT`
@@ -1880,4 +2080,4 @@
 * what you were `WHAURP`
 * what you understand `WHAURPBD`
 * what you remember `WHAURPL`
-* what you are not `WHAURT"
+* what you are not `WHAURT`
