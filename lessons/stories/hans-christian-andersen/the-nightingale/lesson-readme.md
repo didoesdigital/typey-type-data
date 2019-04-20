@@ -737,7 +737,7 @@
 * natural `TPHARL`
 * way, `WAEU KW-BG`
 * waltzes. `WAULGT/-S TP-PL`
-* fault," `TPALT KW-BG KR-GS`
+* fault," `TPAULT KW-BG KR-GS`
 * music-master, `PHAOUFBG H-PB PHAFRT KW-BG`
 * "it `KR-GS T`
 * perfect `P-F`

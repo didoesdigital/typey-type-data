@@ -479,7 +479,7 @@
 * sides. `SAOEUDZ TP-PL`
 * Strange `KPA/STRAEUPBG`
 * merchants `PHER/KHAPBTS`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * look `HRAOBG`
 * anxiously `APBGS/HREU`
 * after `AF`
@@ -749,7 +749,7 @@
 * roaring `RAORG`
 * waters; `WAURS STPH*FPLT`
 * witness `W-PBS`
-* fault `TPALT`
+* fault `TPAULT`
 * if `TP`
 * without `WOUT`
 * reinforcement `RAOEPB/TPORPLT`

@@ -532,7 +532,7 @@
 * get `TKPWET`
 * warm. `WARPL TP-PL`
 * knocked `TPHOBGD`
-* hanged `HAPBGD`
+* hanged `HAPBG/-D`
 * each `AOEFP`
 * other, `OER KW-BG`
 * moved `PHOFD`
@@ -851,7 +851,7 @@
 * air, `AEUR KW-BG`
 * 'Now `AE KPA/TPHOU`
 * likes, `HRAOEUBGS KW-BG`
-* drive,' `KRAOEUF KW-BG AE`
+* drive,' `TKRAOEUF KW-BG AE`
 * slept `SHREPD`
 * In `KPA/TPH`
 * came, `KAEUPL KW-BG`

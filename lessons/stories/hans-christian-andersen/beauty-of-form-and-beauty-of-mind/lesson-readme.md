@@ -95,7 +95,7 @@
 * stood `STAOD`
 * before `PW-F`
 * house, `HOUS KW-BG`
-* watching `WAFBG`
+* watching `WAFPG`
 * lighted `HRAOEUT/-D`
 * windows; `WOEUPBDZ STPH*FPLT`
 * watchman `WAFP/PHAPB`

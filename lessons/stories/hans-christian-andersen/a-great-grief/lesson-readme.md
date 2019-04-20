@@ -150,7 +150,7 @@
 * latter `HRAERT`
 * my `PHEU`
 * grandchildren's `TKPWR-PB AES`
-* fault, `TPALT KW-BG`
+* fault, `TPAULT KW-BG`
 * they `THE`
 * have `SR`
 * teased `TAOES/-D`

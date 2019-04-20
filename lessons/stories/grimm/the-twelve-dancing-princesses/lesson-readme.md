@@ -306,7 +306,7 @@
 * afraid; `A/TPRAEUD STPH*FPLT`
 * forgotten `TPORGTD`
 * many `PHAEPB`
-* kings' `KEUPBGZ AE`
+* kings' `KEUPBGS AE`
 * sons `SOPBS`
 * already `HR-R`
 * watched `WAFPD`

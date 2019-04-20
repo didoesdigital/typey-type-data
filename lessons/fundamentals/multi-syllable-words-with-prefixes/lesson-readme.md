@@ -86,7 +86,6 @@
 * amendment `A/PHEPLT`
 * adobe `A/TKOEB`
 * improved `EUPL/PROFD`
-* achieve `A/KHAOEF`
 * removal `RE/PHOFL`
 * relief `RE/HRAOEF`
 * revision `RE/SREUGS`
@@ -522,7 +521,6 @@
 * supervisors `SAOUP/SRAOEUS/ORS`
 * disappointed `TKEUS/POEUPBTD`
 * relaxation `RE/HRABGS/AEUGS`
-* ira `EUR/SKWRA`
 * reductions `RE/TKUBGS/-S`
 * impose `EUPL/POES`
 * resumes `RAOE/SAOUPLS`

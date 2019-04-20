@@ -444,7 +444,7 @@
 * he. `HE TP-PL`
 * "This `KR-GS KPA/TH`
 * goblin's `TKPWOB/HREUPB AES`
-* fault, `TPALT KW-BG`
+* fault, `TPAULT KW-BG`
 * sure. `SHUR TP-PL`
 * Ah, `KPA/HA*E KW-BG`
 * well, `WEL KW-BG`
@@ -648,7 +648,7 @@
 * doing `TK*G`
 * so, `SO KW-BG`
 * therefore `TH-FR`
-* fault `TPALT`
+* fault `TPAULT`
 * snuff-box. `STPHUF H-PB PWOBGS TP-PL`
 * flames `TPHRAEUPLS`
 * lighted `HRAOEUT/-D`

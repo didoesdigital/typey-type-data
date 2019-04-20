@@ -1437,7 +1437,7 @@
 * although `HR*T`
 * blot `PWHROT`
 * landscape. `HRAPB/SKAEUP TP-PL`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * away; `A/WAEU STPH*FPLT`
 * shed `SHED`
 * standing, `STAPBG KW-BG`

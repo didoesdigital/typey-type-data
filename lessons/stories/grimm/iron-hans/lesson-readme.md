@@ -429,7 +429,7 @@
 * daybreak `TKAEU/PWRAEBG`
 * already `HR-R`
 * sitting `SEUGT`
-* watching `WAFBG`
+* watching `WAFPG`
 * His `KPA/HEUS`
 * passed `PAFD`
 * head, `HED KW-BG`

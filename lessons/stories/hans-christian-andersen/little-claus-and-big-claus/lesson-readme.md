@@ -1013,7 +1013,7 @@
 * quickly. `KWEULG TP-PL`
 * apothecary `A/PO*T/KAER`
 * mad, `PHAD KW-BG`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * liked. `HRAOEUBGD TP-PL`
 * this," `TH KW-BG KR-GS`
 * highroad, `xxx highroad KW-BG`
@@ -1024,7 +1024,7 @@
 * trick," `TREUBG KW-BG KR-GS`
 * he. `HE TP-PL`
 * "First, `KR-GS KPA/TPEURS KW-BG`
-* fault; `TPALT STPH*FPLT`
+* fault; `TPAULT STPH*FPLT`
 * more." `PHOR TP-PL KR-GS`
 * round `ROUPBD`
 * body, `PWO*ED KW-BG`

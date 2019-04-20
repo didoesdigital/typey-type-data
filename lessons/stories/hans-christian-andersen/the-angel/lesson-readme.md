@@ -269,7 +269,7 @@
 * warming `WARPLG`
 * himself `H*EUPLS`
 * sunshine, `SUPB/SHAO*EUPB KW-BG`
-* watching `WAFBG`
+* watching `WAFPG`
 * red `RED`
 * blood `PWHRAOD`
 * delicate `TKEL/KAT`

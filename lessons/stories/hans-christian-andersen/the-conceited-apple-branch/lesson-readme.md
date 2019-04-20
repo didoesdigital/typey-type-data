@@ -280,7 +280,7 @@
 * apple-bough, `A*EPL H-PB PWO*U KW-BG`
 * "it `KR-GS T`
 * your `KWROUR`
-* fault `TPALT`
+* fault `TPAULT`
 * you `U`
 * ugly, `ULG KW-BG`
 * name; `TPHAEUPL STPH*FPLT`

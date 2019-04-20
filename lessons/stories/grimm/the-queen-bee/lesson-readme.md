@@ -1,7 +1,7 @@
 # The Queen Bee
 
 * Two `KPA/TWO`
-* kings' `KEUPBGZ AE`
+* kings' `KEUPBGS AE`
 * sons `SOPBS`
 * once `WUPBS`
 * upon `POPB`

@@ -1,7 +1,7 @@
 # She Was Good for Nothing
 
 * The `KPA/-T`
-* mayor `PHA*EUR`
+* mayor `PHAEUR`
 * stood `STAOD`
 * at `AT`
 * the `-T`
@@ -102,7 +102,7 @@
 * civil `SEUFL`
 * boy," `PWOEU KW-BG KR-GS`
 * said `SAEUD`
-* mayor. `PHA*EUR TP-PL`
+* mayor. `PHAEUR TP-PL`
 * "I `KR-GS EU`
 * suppose `SPOS`
 * your `KWROUR`
@@ -425,7 +425,7 @@
 * lived `HREUFD`
 * house `HOUS`
 * when `WHEPB`
-* mayor's `PHA*EUR AES`
+* mayor's `PHAEUR AES`
 * parents `PARPBTS`
 * alive; `A/HRAOEUF STPH*FPLT`
 * many `PHAEPB`
@@ -552,7 +552,7 @@
 * sat `SAT`
 * alone `A/HROEPB`
 * near `TPHAOER`
-* watching `WAFBG`
+* watching `WAFPG`
 * damp `TKAFRP`
 * linen. `HREUPB/-PB TP-PL`
 * two `TWO`
@@ -672,7 +672,7 @@
 * never `TPHEFR`
 * counsellor's, `KOUPBL/A*U AE S* KW-BG`
 * father `TPAER`
-* mayor, `PHA*EUR KW-BG`
+* mayor, `PHAEUR KW-BG`
 * youngest `KWRUPBG/EFT`
 * sons, `SOPBS KW-BG`
 * student, `STAUPB KW-BG`
@@ -711,7 +711,7 @@
 * sent `SEPBT`
 * Gently `KPA/SKWREPBT/HREU`
 * earnestly `ERPB/EFT/HREU`
-* spake `SPAEUBG`
+* spake `S*/P*/A*/K*/*E`
 * speaking. `SPAOEG TP-PL`
 * showed `SHOED`
 * clearly, `KAOERL KW-BG`
@@ -1030,7 +1030,7 @@
 * widow `WO*EUD`
 * "There `KR-GS KPA/THR`
 * remember," `RER KW-BG KR-GS`
-* mayor; `PHA*EUR STPH*FPLT`
+* mayor; `PHAEUR STPH*FPLT`
 * now `TPHOU`
 * whole. `WHOEL TP-PL`
 * honest `HO*PBS`

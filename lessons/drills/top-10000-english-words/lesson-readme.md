@@ -736,7 +736,7 @@
 * studies `STAO*UDZ`
 * close `KHROES`
 * common `KPHOPB`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * specific `SPEFBG`
 * several `SEFRL`
 * gold `TKPWOELD`
@@ -1111,7 +1111,7 @@
 * DC `TK*BG`
 * clothing `KHRO*ET/-G`
 * mon `PHOPB`
-* com `KRO*PL`
+* COM `KO*PL/KO*PL`
 * particular `PHRAR`
 * fine `TPAOEUPB`
 * names `TPHAEUPLS`
@@ -2148,7 +2148,7 @@
 * covered `KOFRD`
 * recovery `ROEUFR`
 * Joe `SKWROE`
-* guys `TKPWEUS`
+* guys `TKPWAOEUS`
 * integrated `EUPB/TKPWRAEUTD`
 * configuration `TKPWRAEUGS`
 * cock `KOBG`
@@ -2865,7 +2865,7 @@
 * improved `EUPL/PROFD`
 * trees `TRAOES`
 * avg `A*/SR*/TKPW*`
-* achieve `A/KHAOEF`
+* achieve `KHEF`
 * positions `POGS/-S`
 * dress `TKRES`
 * subscription `SKR*EUPGS`
@@ -3494,7 +3494,7 @@
 * eating `AOEGT`
 * perspective `PEF`
 * planned `PHRAPBD`
-* watching `WAFBG`
+* watching `WAFPG`
 * lodge `HROPBLG`
 * messenger `PHAEPBG`
 * mirror `PHROR`
@@ -4225,7 +4225,7 @@
 * maker `PHAEURBG`
 * crack `KRABG`
 * principle `PREUPB`
-* picks `PEUBGZ`
+* picks `PEUBGS`
 * vacations `SRAEU/KAEUGS/-S`
 * gang `TKPWAPBG`
 * semester `SPHEFT`
@@ -4257,7 +4257,7 @@
 * cafe `KAF/AEU`
 * Valentine `SRAL/TAOEUPB`
 * Hilton `HEUL/TOPB`
-* ken `KEPB`
+* Ken `KEPB`
 * proteins `PRAO*EPBS`
 * horror `HOR/O*R`
 * su `S*/*U`
@@ -4551,7 +4551,7 @@
 * tourist `TOR/EUFT`
 * cocks `KOBG/-S`
 * av `A*/SR*`
-* mayor `PHA*EUR`
+* mayor `PHAEUR`
 * murder `PHURD`
 * Sean `SHAUPB`
 * adequate `AD/KWAT`
@@ -4587,7 +4587,7 @@
 * radiation `RAEUGDZ`
 * diary `TKAOEU/REU`
 * seriously `SAOERLS`
-* kings `KEUPBGZ`
+* kings `KEUPBGS`
 * shooting `SHAOGT`
 * Kent `KEPBT`
 * adds `ADZ`
@@ -5044,7 +5044,7 @@
 * bs `*B/-S`
 * rod `ROD`
 * Saudi `SAUD/KWREU`
-* fault `TPALT`
+* fault `TPAULT`
 * Cuba `KAOU/PWA`
 * hrs `H*P R*P SP-S/-S`
 * preliminary `PREL`
@@ -5144,7 +5144,7 @@
 * passenger `PAEPBG`
 * convenient `SRAOEPB`
 * Dennis `TKEPB/TPHEUS`
-* Mars `PHARZ`
+* Mars `PHARS`
 * Francis `TPRAPB/EUS`
 * TVs `T*F/-S`
 * sized `SAOEUZ/-D`
@@ -5923,7 +5923,7 @@
 * spectacular `SPEBG/TABG/HRAR`
 * coordination `KAOR/TPHAEUGS`
 * connector `KEBG/TOR`
-* brad `PWRAD`
+* Brad `PWRAD`
 * combo `KOPL/PWOE`
 * seniors `SOEURPBS`
 * worlds `WORLDZ`
@@ -6287,7 +6287,7 @@
 * salmon `SA/PHOPB`
 * Olympus `O/HREUPL/PUS`
 * separated `SERPTD`
-* proc `PROBG`
+* proc `P*/R*/O*/KR*`
 * cargo `KARG/OE`
 * tan `TAPB`
 * directive `TKREBGT/TEUF`
@@ -6303,7 +6303,7 @@
 * weapon `WEP`
 * luggage `HRUG/APBLG`
 * burden `PWURD`
-* chef `KHEF`
+* chef `SHEF`
 * tapes `TAEUPS`
 * zones `SO*EPBS`
 * races `RAEUSZ`
@@ -8271,12 +8271,12 @@
 * sheer `SHAOER`
 * commodity `KPHOT`
 * posing `POES/-G`
-* wang `WAPBG`
+* wang `WAEPBG`
 * kilometers `KHROPLT/-S`
 * rp `R*/P*`
 * bind `PWEUPBD`
 * thanksgiving `TRAPBGS/TKPWEUFG`
-* rand `RAPBD`
+* Rand `RAPBD`
 * Hopkins `HOP/KEUPBZ`
 * urgent `URGT`
 * guarantees `TKPWARPBTS`
@@ -8686,7 +8686,7 @@
 * parcel `PAR/SEL`
 * refined `RE/TPAOEUPBD`
 * fd `TP*/TK*`
-* bo `PWO`
+* Bo `PWO`
 * fifteen `TPEUF/TAOEPB`
 * widespread `WAOEU/SPRED`
 * incidence `EUPBS/TKES`
@@ -8924,7 +8924,7 @@
 * msie `PH-S/AO*E`
 * reasoning `R-PBG`
 * wn `W*/TPH*`
-* liz `HREUZ`
+* Liz `HREUZ`
 * rendered `REPBD/TKERD`
 * picking `P*EUG`
 * charitable `KHAEURBL`
@@ -9604,7 +9604,7 @@
 * Forbes `TPORBS`
 * mae `PHA*E`
 * Moldova `PHOL/TKOE/SRA`
-* mel `PHEL`
+* Mel `PHEL`
 * descending `TKE/SEPBD/-G`
 * paxil `PABGS/EUL`
 * spine `SPAOEUPB`
@@ -9697,7 +9697,7 @@
 * neural `TPHAOURL`
 * ware `WAEUR`
 * fossil `TPOFL`
-* mia `PHAOE/KWRA`
+* Mia `PHAOE/KWRA`
 * hometown `HOEPL/TOUPB`
 * badly `PWAD/HREU`
 * transcripts `TREUPTS`
@@ -9760,7 +9760,7 @@
 * goat `TKPWO*ET`
 * render `RERPBD`
 * Carmen `KAR/PHEPB`
-* ira `EUR/SKWRA`
+* Ira `EUR/SKWRA`
 * sen `SEPB`
 * thereafter `THRAF`
 * hardwood `HARD/WAOD`

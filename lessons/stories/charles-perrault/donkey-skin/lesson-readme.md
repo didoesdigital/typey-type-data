@@ -150,7 +150,7 @@
 * life `HRAOEUF`
 * wait `WAEUT`
 * on `OPB`
-* Kings `KPA/KEUPBGZ`
+* Kings `KPA/KEUPBGS`
 * much `PHUFP`
 * their `THAEUR`
 * subjects, `SUBTS KW-BG`
@@ -562,7 +562,7 @@
 * robe `ROEB`
 * them; `THEPL STPH*FPLT`
 * otherwise `O*ERZ`
-* hanged. `HAPBGD TP-PL`
+* hanged. `HAPBG/-D TP-PL`
 * saved `SAFD`
 * resorting `RE/SORT/-G`
 * extreme `KPAO*EPL`

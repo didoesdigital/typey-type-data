@@ -222,7 +222,7 @@
 * pack.' `PABG TP-PL AE`
 * 'I `AE EU`
 * will `HR`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * them `THEPL`
 * away `A/WAEU`
 * across `A/KROS`
@@ -861,7 +861,7 @@
 * relate `RELT`
 * stories, `STOERS KW-BG`
 * fishermen `TPEURB/ER/PHEPB`
-* kings `KEUPBGZ`
+* kings `KEUPBGS`
 * heroes `HOEURS`
 * once `WUPBS`
 * possessed `POS/ES/-D`

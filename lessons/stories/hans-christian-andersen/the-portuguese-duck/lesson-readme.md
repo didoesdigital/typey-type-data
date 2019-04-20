@@ -795,7 +795,7 @@
 * kill `KEUL`
 * cried, `KRAOEUD KW-BG`
 * "it's `KR-GS T AES`
-* fault. `TPALT TP-PL`
+* fault. `TPAULT TP-PL`
 * lost `HRO*S`
 * life, `HRAOEUF KW-BG`
 * I'm `AOEUPL`

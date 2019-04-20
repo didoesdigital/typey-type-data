@@ -732,7 +732,7 @@
 * 'Star `AE KPA/STAR`
 * Bethlehem.'" `PW*ET/HREPL TP-PL AE KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * away," `A/WAEU KW-BG KR-GS`
 * "we `KR-GS WE`
 * Let `KPA/HRET`

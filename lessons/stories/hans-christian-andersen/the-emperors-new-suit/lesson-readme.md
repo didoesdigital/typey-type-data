@@ -46,7 +46,7 @@
 * thing, `THEUPBG KW-BG`
 * fact, `TPABGT KW-BG`
 * anything `TPHEUG`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * out `OUT`
 * show `SHOE`
 * a `AEU`

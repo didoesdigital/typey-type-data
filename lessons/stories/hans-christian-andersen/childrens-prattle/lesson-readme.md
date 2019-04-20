@@ -142,7 +142,7 @@
 * if `TP`
 * person `PERPB`
 * never `TPHEFR`
-* achieve `A/KHAOEF`
+* achieve `KHEF`
 * anything. `TPHEUG TP-PL`
 * "And `KR-GS AFPBD`
 * those `THOZ`

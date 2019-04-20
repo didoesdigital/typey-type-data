@@ -159,7 +159,7 @@
 * would `WO`
 * sit `SEUT`
 * by, `PWEU KW-BG`
-* watching `WAFBG`
+* watching `WAFPG`
 * workmen, `WORBG/PHEPB KW-BG`
 * or `OR`
 * cutting `KUGT`

@@ -456,7 +456,7 @@
 * best, `PWEFT KW-BG`
 * had; `H STPH*FPLT`
 * person, `PERPB KW-BG`
-* fault `TPALT`
+* fault `TPAULT`
 * only, `OEPBL KW-BG`
 * if `TP`
 * share `SHAEUR`

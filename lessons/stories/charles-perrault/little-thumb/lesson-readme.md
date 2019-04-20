@@ -84,7 +84,7 @@
 * constitution, `TAOUGS KW-BG`
 * scarce `SKAEURS`
 * ever `-FR`
-* spake `SPAEUBG`
+* spake `S*/P*/A*/K*/*E`
 * word, `WORD KW-BG`
 * made `PHAED`
 * take `TAEUBG`

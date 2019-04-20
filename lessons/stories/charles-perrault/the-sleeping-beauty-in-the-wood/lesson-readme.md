@@ -237,7 +237,7 @@
 * a-crying. `AEU H-PB KRAOEUG TP-PL`
 * instant `STPHAPBT`
 * came `KAEUPL`
-* spake `SPAEUBG`
+* spake `S*/P*/A*/K*/*E`
 * these `THEZ`
 * words `WORDZ`
 * aloud: `A/HROUD STPH-FPLT`

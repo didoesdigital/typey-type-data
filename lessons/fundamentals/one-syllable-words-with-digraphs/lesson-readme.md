@@ -129,7 +129,7 @@
 * checked `KHEBGD`
 * throw `THROE`
 * crash `KRARB`
-* kings `KEUPBGZ`
+* kings `KEUPBGS`
 * shock `SHOBG`
 * rush `RURB`
 * throat `THROET`
@@ -165,7 +165,7 @@
 * cheat `KHAOET`
 * threats `THRETS`
 * pitch `PEUFP`
-* chef `KHEF`
+* chef `SHEF`
 * chuck `KHUBG`
 * Lang `HRAPBG`
 * ranges `RAEUPBGS`
@@ -200,7 +200,7 @@
 * shame `SHAEUPL`
 * flesh `TPHRERB`
 * sheer `SHAOER`
-* wang `WAPBG`
+* wang `WAEPBG`
 * witch `WEUFP`
 * speeches `SPAOEFPS`
 * reaches `RAOEFPS`
@@ -270,7 +270,6 @@
 * blush `PWHRURB`
 * throng `THROPBG`
 * shocked `SHOBGD`
-* hanged `HAPBGD`
 * preached `PRAOEFPD`
 * snatched `STPHAFPD`
 * shrill `SHREUL`

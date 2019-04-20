@@ -878,7 +878,7 @@
 * passage, `PAFPBLG KW-BG`
 * allow `HROU`
 * thimble `THEUPL/-BL`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * under, `TPH-PB KW-BG`
 * passage `PAFPBLG`
 * lit `HREUT`

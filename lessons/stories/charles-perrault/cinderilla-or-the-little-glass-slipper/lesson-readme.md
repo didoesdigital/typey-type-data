@@ -566,7 +566,7 @@
 * except `KPEPT`
 * heraldic `H*ERLD/EUBG`
 * term, `TERPL KW-BG`
-* ceased `KRAES/-D`
+* ceased `SAOES/-D`
 * convey `KAUPB/SREU`
 * any `TPHEU`
 * meaning `PHAOEPBG`

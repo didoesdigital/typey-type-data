@@ -94,7 +94,7 @@
 * duck `TKUBG`
 * her `HER`
 * nest, `TPHEFT KW-BG`
-* watching `WAFBG`
+* watching `WAFPG`
 * for `TPOR`
 * young `KWRUPBG`
 * brood `PWRAO*D`

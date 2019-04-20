@@ -613,7 +613,7 @@
 * terrible," `TERBL KW-BG KR-GS`
 * pieces, `PAOEFS KW-BG`
 * our `OUR`
-* fault. `TPALT TP-PL`
+* fault. `TPAULT TP-PL`
 * live `HREUF`
 * this;" `TH STPH*FPLT KR-GS`
 * wrung `WRUPBG`

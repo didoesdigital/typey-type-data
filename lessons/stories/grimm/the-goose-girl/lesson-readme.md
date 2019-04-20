@@ -365,7 +365,7 @@
 * him.' `HEUPL TP-PL AE`
 * name `TPHAEUPL`
 * lad, `HRAD KW-BG`
-* watching `WAFBG`
+* watching `WAFPG`
 * king's `KEUPBG/AES`
 * geese, `TKPWAOES KW-BG`
 * Curdken. `xxx Curdken TP-PL`

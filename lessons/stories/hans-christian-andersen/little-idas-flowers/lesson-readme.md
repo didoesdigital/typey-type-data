@@ -565,7 +565,7 @@
 * awoke; `A/WOEBG STPH*FPLT`
 * dreaming `TKRAOEPLG`
 * found `TPOUPBD`
-* fault `TPALT`
+* fault `TPAULT`
 * him. `HEUPL TP-PL`
 * Ida's `xxx Ida AES`
 * bedroom; `PW-PL STPH*FPLT`

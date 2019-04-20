@@ -224,7 +224,7 @@
 * forgetting," `TPERGT/-G KW-BG KR-GS`
 * fellow. `TPO*EUL TP-PL`
 * The `KPA/-T`
-* hanged. `HAPBGD TP-PL`
+* hanged. `HAPBG/-D TP-PL`
 * mansion, `PHAPBGS KW-BG`
 * there; `THR STPH*FPLT`
 * did `TK`

@@ -1088,7 +1088,7 @@
 * "You `KR-GS KPA/U`
 * now," `TPHOU KW-BG KR-GS`
 * painter, `PA*EURPBT KW-BG`
-* watching `WAFBG`
+* watching `WAFPG`
 * set `SET`
 * easel. `AOEZ/EL TP-PL`
 * "May `KR-GS PHA*EU`

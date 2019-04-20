@@ -827,7 +827,7 @@
 * Ephemera. `KPA/AOE/TPEPL/RA TP-PL`
 * Christmas-day, `KREUS/PHAS H-PB TKAEU KW-BG`
 * rose, `ROEZ KW-BG`
-* ceased. `KRAES/-D TP-PL`
+* ceased. `SAOES/-D TP-PL`
 * From `KPA/TPR`
 * bells, `PWELS KW-BG`
 * hearth, `HAERT KW-BG`

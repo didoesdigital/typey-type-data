@@ -149,7 +149,7 @@
 * 'This `AE KPA/TH`
 * man `PHAPB`
 * is `S`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * him `HEUPL`
 * forth, `TPO*RT KW-BG`
 * command `KPHAPBD`

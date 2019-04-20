@@ -170,7 +170,7 @@
 * say `SAEU`
 * we `WE`
 * shall `SHAL`
-* hanged `HAPBGD`
+* hanged `HAPBG/-D`
 * roasted." `ROEFT/-D TP-PL KR-GS`
 * "Never `KR-GS KPA/TPHEFR`
 * mind `PHAOEUPBD`

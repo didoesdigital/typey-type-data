@@ -109,7 +109,7 @@
 * if `TP`
 * anyone `TPHEUPB`
 * was `WAS`
-* watching `WAFBG`
+* watching `WAFPG`
 * her, `HER KW-BG`
 * she `SHE`
 * pecked `PEBGD`
@@ -232,7 +232,7 @@
 * track `TRABG`
 * which `WEU`
 * lay, `HRAEU KW-BG`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * over `OEFR`
 * called `KAULD`
 * out, `OUT KW-BG`

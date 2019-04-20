@@ -185,7 +185,7 @@
 * In `KPA/TPH`
 * darkest `TKARBG/EFT`
 * hours `HOURS`
-* ceased `KRAES/-D`
+* ceased `SAOES/-D`
 * weep, `WAOEP KW-BG`
 * daughters `TKAURS`
 * left `HREFT`

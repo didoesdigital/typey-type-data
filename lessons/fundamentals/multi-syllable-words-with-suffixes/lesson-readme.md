@@ -925,7 +925,7 @@
 * Somalia `SPHAL/KWRA`
 * promising `PROPLS/-G`
 * relaxation `RE/HRABGS/AEUGS`
-* ira `EUR/SKWRA`
+* Ira `EUR/SKWRA`
 * commissioners `KPHEUGS/ERS`
 * reductions `RE/TKUBGS/-S`
 * asbestos `AS/PWEFT/OS`

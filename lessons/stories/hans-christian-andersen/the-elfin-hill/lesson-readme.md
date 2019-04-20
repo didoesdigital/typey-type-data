@@ -905,7 +905,7 @@
 * burning, `PWURPBG KW-BG`
 * mead `PHAO*ED`
 * drinking-horn `TKREUG H-PB HORPB`
-* kings. `KEUPBGZ TP-PL`
+* kings. `KEUPBGS TP-PL`
 * given `TKPWEUFPB`
 * two; `TWO STPH*FPLT`
 * Nix `KPA/TPHEUBGS`

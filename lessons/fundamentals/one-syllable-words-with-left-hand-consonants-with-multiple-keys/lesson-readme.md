@@ -78,6 +78,7 @@
 * least `HRAOEFT`
 * log `HROG`
 * close `KHROES`
+* drive `TKRAOEUF`
 * gold `TKPWOELD`
 * lot `HROT`
 * five `TPEUF`
@@ -165,10 +166,10 @@
 * ball `PWAUL`
 * goal `TKPWOEL`
 * lives `HREUFS`
-* Bob `PWOB`
+* bob `PWOB`
 * fit `TPEUT`
 * met `PHET`
-* Ford `TPORD`
+* ford `TPORD`
 * closed `KHROEFD`
 * bus `PWUS`
 * phase `TPAEUZ`
@@ -187,7 +188,7 @@
 * ga `TKPWA`
 * load `HRAOD`
 * Joe `SKWROE`
-* guys `TKPWEUS`
+* guys `TKPWAOEUS`
 * drop `TKROP`
 * goals `TKPWOELS`
 * smart `SPHART`
@@ -380,13 +381,13 @@
 * pleased `PHRAOEFD`
 * phrase `TPRAEZ`
 * leaf `HRAOEF`
-* fault `TPALT`
+* fault `TPAULT`
 * fluid `THRAOUD`
 * fits `TPEUTS`
 * meal `PHAOEL`
 * slip `SHREUP`
 * grass `TKPWRAS`
-* mars `PHARZ`
+* Mars `PHARS`
 * lat `HRAT`
 * loves `HRUFS`
 * loose `HRAOS`
@@ -424,7 +425,7 @@
 * gates `TKPWAETS`
 * grew `TKPWRAOU`
 * slave `SHRAEUF`
-* brad `PWRAD`
+* Brad `PWRAD`
 * nose `TPHOES`
 * Jews `SKWRAOUZ`
 * fleet `TPHRAOET`
@@ -528,7 +529,7 @@
 * gore `TKPWOR`
 * lap `HRAP`
 * dried `TKRAOEUD`
-* bo `PWO`
+* Bo `PWO`
 * fears `TPAOERZ`
 * dressed `TKREFD`
 * dealt `TKELT`
@@ -537,7 +538,7 @@
 * bite `PWAOEUT`
 * gig `TKPWEUG`
 * dice `TKAOEUS`
-* liz `HREUZ`
+* Liz `HREUZ`
 * guards `TKPWARDZ`
 * buys `PWAOEUS`
 * fleece `TPHRAOES`
@@ -577,7 +578,7 @@
 * groove `TKPWRAOF`
 * sleeps `SHRAOEPS`
 * Forbes `TPORBS`
-* mel `PHEL`
+* Mel `PHEL`
 * feat `TPAET`
 * Joyce `SKWROEUS`
 * closes `KHROESZ`
@@ -653,7 +654,6 @@
 * fools `TPAOLS`
 * leap `HRAOEP`
 * gasped `TKPWAFPD`
-* breadth `PWRET`
 * brute `PWRAOUT`
 * debts `TKETS`
 * clad `KHRAD`
@@ -686,7 +686,6 @@
 * maids `PHAEUDZ`
 * bees `PWAOES`
 * lays `HRAEUZ`
-* mare `PHAEUR`
 * nod `TPHOD`
 * darted `TKARTD`
 * jaws `SKWRAUS`
@@ -740,7 +739,7 @@
 * dares `TKAEURS`
 * bait `PWAEUT`
 * slice `SHRAOEUS`
-* meg `PHEG`
+* Meg `PHEG`
 * gasp `TKPWAFP`
 * glee `TKPWHRAOE`
 * lied `HRAOEUD`

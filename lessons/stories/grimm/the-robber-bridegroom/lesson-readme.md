@@ -56,7 +56,7 @@
 * with `W`
 * which `WEU`
 * find `TPEUPBD`
-* fault, `TPALT KW-BG`
+* fault, `TPAULT KW-BG`
 * betrothed `PWE/TRO*T/-D`
 * his `HEUS`
 * daughter `TKAUR`
@@ -412,7 +412,7 @@
 * 'The `AE KPA/-T`
 * right,' `RAOEUT KW-BG AE`
 * robbers, `RORBS KW-BG`
-* ceased `KRAES/-D`
+* ceased `SAOES/-D`
 * down. `TKOUPB TP-PL`
 * then `THEPB`
 * mixed `PHEUGD`

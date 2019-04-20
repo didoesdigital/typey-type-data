@@ -329,7 +329,7 @@
 * most `PHOFT`
 * magnificent `PHAFPBT`
 * seen. `SAOEPB TP-PL`
-* ceased `KRAES/-D`
+* ceased `SAOES/-D`
 * extol `EBGS/TOL`
 * envy `EPB/SREU`
 * happiness `HAEP/-PBS`

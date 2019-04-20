@@ -92,7 +92,7 @@
 * hall, `HAUL KW-BG`
 * inspected `TPH-PD`
 * by `PWEU`
-* mayor `PHA*EUR`
+* mayor `PHAEUR`
 * council, `KUPB/SEUL KW-BG`
 * decide `STKAOEUD`
 * if `TP`
@@ -772,7 +772,7 @@
 * representing `REPG`
 * congress `KO*PBG`
 * Vienna, `SRAOEPB/TPHA KW-BG`
-* kings `KEUPBGZ`
+* kings `KEUPBGS`
 * emperors `EPL/ROR/-S`
 * once. `WUPBS TP-PL`
 * clock, `KHROBG KW-BG`

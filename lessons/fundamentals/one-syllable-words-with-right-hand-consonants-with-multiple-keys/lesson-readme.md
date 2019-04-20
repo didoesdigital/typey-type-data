@@ -54,7 +54,6 @@
 * soon `SAOPB`
 * weeks `WAOEBGS`
 * came `KAEUPL`
-* com `KRO*PL`
 * six `SEUBGS`
 * teens `TAOEPBS`
 * kind `KEUPBD`
@@ -173,10 +172,10 @@
 * pants `PAPBTS`
 * crown `KROUPB`
 * crack `KRABG`
-* picks `PEUBGZ`
+* picks `PEUBGS`
 * cake `KAEUBG`
 * coins `KOEUPBS`
-* ken `KEPB`
+* Ken `KEPB`
 * pen `PEPB`
 * sand `SAPBD`
 * ran `RAPB`
@@ -217,7 +216,6 @@
 * rocks `ROBGS`
 * punk `PUPBG`
 * arc `ARBG`
-* ext `EBGT`
 * tracked `TRABGD`
 * packs `PABGZ`
 * spoke `SPOEBG`
@@ -248,7 +246,6 @@
 * um `UPL`
 * cams `KAPLS`
 * cloth `KHRO*T`
-* proc `PROBG`
 * tan `TAPB`
 * packed `PABGD`
 * talked `TAUBGD`
@@ -294,7 +291,7 @@
 * rhythm `REUFPL`
 * saints `SAEUPBTS`
 * ham `HAPL`
-* rand `RAPBD`
+* Rand `RAPBD`
 * acre `AEURBG`
 * Chen `KHEPB`
 * Chan `KHAPB`
@@ -356,7 +353,6 @@
 * tomb `TAOUPL`
 * wounds `WOUPBDZ`
 * warmth `WARPLT`
-* spake `SPAEUBG`
 * crowned `KROUPBD`
 * hasn't `HAEPBT`
 * sworn `SWORPB`
@@ -408,7 +404,7 @@
 * hem `HEPL`
 * prone `PROEPB`
 * sane `SAEUPB`
-* turk `TURBG`
+* Turk `TURBG`
 * stunned `STUPBD`
 * twain `TWAEUPB`
 * alms `AUPLS`

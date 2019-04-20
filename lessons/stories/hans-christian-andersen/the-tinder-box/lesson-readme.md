@@ -761,7 +761,7 @@
 * disagreeable `TKEUS/TKPWRAOEBL`
 * there, `THR KW-BG`
 * "To-morrow `KR-GS KPA/TO H-PB PHOR/ROE`
-* hanged." `HAPBGD TP-PL KR-GS`
+* hanged." `HAPBG/-D TP-PL KR-GS`
 * news, `TPHUS KW-BG`
 * besides, `PW-DZ KW-BG`
 * tinder-box `TEUPBD/ER H-PB PWOBGS`
@@ -771,7 +771,7 @@
 * grating `TKPWRAEUGT`
 * window `WOEUPBD`
 * hastening `HAEUS/-PBG`
-* hanged; `HAPBGD STPH*FPLT`
+* hanged; `HAPBG/-D STPH*FPLT`
 * heard `HAERD`
 * drums `TKRUPLS`
 * beating, `PWAEGT KW-BG`
@@ -845,7 +845,7 @@
 * whose `WHOZ`
 * "Help `KR-GS KPA/HEP`
 * now, `TPHOU KW-BG`
-* hanged," `HAPBGD KW-BG KR-GS`
+* hanged," `HAPBG/-D KW-BG KR-GS`
 * dogs `TKOGS`
 * fell `TPEL`
 * councillors; `KOUPB/SEU/HROR/-S STPH*FPLT`

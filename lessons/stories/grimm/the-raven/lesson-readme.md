@@ -165,7 +165,7 @@
 * stand `STAPBD`
 * watch `WAFP`
 * shall `SHAL`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * my `PHEU`
 * carriage `KAEURPBLG`
 * at `AT`

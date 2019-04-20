@@ -454,7 +454,7 @@
 * springs `SPREUPBGS`
 * Roeskilde, `xxx Roeskilde KW-BG`
 * called. `KAULD TP-PL`
-* kings `KEUPBGZ`
+* kings `KEUPBGS`
 * queens `KWAOEPBS`
 * Denmark `TKEPB/PHARBG`
 * went `WEPBT`

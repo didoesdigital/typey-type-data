@@ -159,7 +159,7 @@
 * lie `HRAOEU`
 * child, `KHAOEULD KW-BG`
 * pretend `PRE/TEPBD`
-* watching `WAFBG`
+* watching `WAFPG`
 * it, `T KW-BG`
 * I `EU`
 * come `KOPL`

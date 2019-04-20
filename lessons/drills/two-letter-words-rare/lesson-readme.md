@@ -10,7 +10,7 @@
 * ax `A/KP*`
 * ay `A/KWR*`
 * ba `PWA`
-* bo `PWO`
+* bo `PWO*`
 * bi `PW*/*EU`
 * de `TK*E`
 * ed `ED`

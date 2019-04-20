@@ -82,7 +82,7 @@
 * their `THAEUR`
 * fill; `TPEUL STPH*FPLT`
 * if `TP`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * these `THEZ`
 * away, `A/WAEU KW-BG`
 * others `OERS`

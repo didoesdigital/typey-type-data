@@ -828,7 +828,7 @@
 * together, `TOGT KW-BG`
 * meet `PHAOET`
 * carrier, `KAR/KWRER KW-BG`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * home. `HOEPL TP-PL`
 * found `TPOUPBD`
 * ready `R-D`
@@ -859,7 +859,7 @@
 * bells, `PWELS KW-BG`
 * frogs `TPROGS`
 * marshes. `PHAR/-RBS TP-PL`
-* ceased, `KRAES/-D KW-BG`
+* ceased, `SAOES/-D KW-BG`
 * around `ARPBD`
 * became `PWAEUPL`
 * still; `STEUL STPH*FPLT`

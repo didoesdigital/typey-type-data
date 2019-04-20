@@ -1347,7 +1347,7 @@
 * fortunate `TP-RPBT`
 * powerful `POURL`
 * unusually `TPHAOURBL`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * carriage, `KAEURPBLG KW-BG`
 * hundred `HUPBD`
 * dollars `TKHRARS`

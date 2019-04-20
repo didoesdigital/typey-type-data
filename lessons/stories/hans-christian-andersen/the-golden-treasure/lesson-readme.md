@@ -213,7 +213,7 @@
 * mighty `PHAOEUT/KWREU`
 * deeds `TKAOEDZ`
 * great `TKPWRAET`
-* kings, `KEUPBGZ KW-BG`
+* kings, `KEUPBGS KW-BG`
 * immortal `EUPL/PHORT/A*L`
 * names, `TPHAEUPLS KW-BG`
 * old `OLD`
@@ -969,7 +969,7 @@
 * widow." `WO*EUD TP-PL KR-GS`
 * plays `PHRAEUZ`
 * emperors `EPL/ROR/-S`
-* kings," `KEUPBGZ KW-BG KR-GS`
+* kings," `KEUPBGS KW-BG KR-GS`
 * "I `KR-GS EU`
 * fortune, `TP-RPB KW-BG`
 * pupil, `PAOUPL KW-BG`

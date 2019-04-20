@@ -743,7 +743,7 @@
 * those `THOZ`
 * caused `KAUFD`
 * one's `W*UPBS`
-* fault—is `TPALT EPL/TKA*RB S`
+* fault—is `TPAULT EPL/TKA*RB S`
 * changed `KHAEUPBGD`
 * health `H*ELT`
 * strength `STREPBG`

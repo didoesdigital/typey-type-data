@@ -628,7 +628,7 @@
 * matter, `PHAERT KW-BG`
 * 'Two `AE KPA/TWO`
 * men `PHEPB`
-* hanged.' `HAPBGD TP-PL AE`
+* hanged.' `HAPBG/-D TP-PL AE`
 * nearer, `TPHAOER/*ER KW-BG`
 * brothers, `PWROERS KW-BG`
 * turned `TURPBD`

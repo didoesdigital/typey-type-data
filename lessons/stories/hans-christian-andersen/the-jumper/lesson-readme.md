@@ -277,7 +277,7 @@
 * point; `POEUPBT STPH*FPLT`
 * requires `RAOEURS`
 * head `HED`
-* achieve `A/KHAOEF`
+* achieve `KHEF`
 * that, `THA KW-BG`
 * has `HAS`
 * shown `SHOEPB`

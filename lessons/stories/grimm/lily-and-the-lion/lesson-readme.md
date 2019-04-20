@@ -543,7 +543,7 @@
 * many `PHAEPB`
 * rods--count `RODZ H-PB H-PB KOUPBT`
 * them, `THEPL KW-BG`
-* comest `KRO*PL/EFT`
+* comest `KOPLS/T*`
 * eleventh, `HREFPBT KW-BG`
 * break `PWRAEBG`
 * smite `SPHAOEUT`

@@ -710,7 +710,7 @@
 * Christianity `KREUGS/APBT`
 * some `SOPL`
 * days, `TKAEUS KW-BG`
-* watching `WAFBG`
+* watching `WAFPG`
 * mistress `PHEUS/TRES`
 * suddenly `SULD`
 * ill; `EUL STPH*FPLT`
@@ -724,7 +724,7 @@
 * "she `KR-GS SHE`
 * overcome `AUFR/KOPL`
 * hard `HARD`
-* watching." `WAFBG TP-PL KR-GS`
+* watching." `WAFPG TP-PL KR-GS`
 * hospital `HOPT`
 * poor. `PAOR TP-PL`
 * There `KPA/THR`

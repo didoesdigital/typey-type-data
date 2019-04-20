@@ -693,7 +693,7 @@
 * sorrowful `SOR/ROEFL`
 * long.' `HROPBG TP-PL AE`
 * pitied `PEUT/EUD`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * came, `KAEUPL KW-BG`
 * eat. `AOET TP-PL`
 * knees `TPHAOEZ`

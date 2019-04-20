@@ -140,7 +140,7 @@
 * At `KPA/AT`
 * night `TPHAOEUT`
 * going `TKPW-G`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * herd `HE*RD`
 * home `HOEPL`
 * again, `TKPWEPB KW-BG`
@@ -203,7 +203,7 @@
 * that,' `THA KW-BG AE`
 * led `HRED`
 * before `PW-F`
-* mayor, `PHA*EUR KW-BG`
+* mayor, `PHAEUR KW-BG`
 * who `WHO`
 * carelessness `KAEURLS/-PBS`
 * condemned `KOPB/TKEPL/-D`
@@ -561,7 +561,7 @@
 * vengeance `SREPBG/APBS`
 * accused `A/KAOUFD`
 * treachery `TREFP/REU`
-* mayor. `PHA*EUR TP-PL`
+* mayor. `PHAEUR TP-PL`
 * innocent `TPH-PBT`
 * unanimously `AOU/TPHAPB/SHREU`
 * sentenced `STPH-PBD`
@@ -610,7 +610,7 @@
 * barrel, `PWARL KW-BG`
 * needful `TPHAOED/-FL`
 * in, `TPH KW-BG`
-* mayor.' `PHA*EUR TP-PL AE`
+* mayor.' `PHAEUR TP-PL AE`
 * willing, `-LG KW-BG`
 * shut `SHUT`
 * top `TOP`
@@ -673,7 +673,7 @@
 * fetch `TPEFP`
 * themselves, `TH*EPLS KW-BG`
 * apiece, `A/PAOES KW-BG`
-* mayor `PHA*EUR`
+* mayor `PHAEUR`
 * water `WAUR`
 * fleecy `TPHRAOES/KWREU`
 * clouds `KHROUDZ`

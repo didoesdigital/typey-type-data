@@ -448,7 +448,7 @@
 * black `PWHRABG`
 * pudding, `PUD/-G KW-BG`
 * without `WOUT`
-* ceasing. `KRAES/-G TP-PL`
+* ceasing. `SAOES/-G TP-PL`
 * 'Oh,' `AE KPA/O*E KW-BG AE`
 * answered `AEPBS/-D`
 * 'he `AE HE`

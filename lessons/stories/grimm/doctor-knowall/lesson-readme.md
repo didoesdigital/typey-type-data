@@ -288,7 +288,7 @@
 * bargain, `PWARG/AEUPB KW-BG`
 * denounce `TKE/TPHOUPBS`
 * them, `THEPL KW-BG`
-* hanged. `HAPBGD TP-PL`
+* hanged. `HAPBG/-D TP-PL`
 * They `KPA/THE`
 * led `HRED`
 * spot `SPOT`

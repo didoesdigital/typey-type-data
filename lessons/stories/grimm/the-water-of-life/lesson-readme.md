@@ -716,7 +716,7 @@
 * now `TPHOU`
 * these `THEZ`
 * sent `SEPBT`
-* kings `KEUPBGZ`
+* kings `KEUPBGS`
 * whom `WHOPL`
 * order `ORD`
 * rid `REUD`

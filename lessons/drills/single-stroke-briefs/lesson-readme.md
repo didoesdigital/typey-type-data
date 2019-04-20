@@ -662,7 +662,7 @@
 * braze `PWRAEZ`
 * breach `PWRAEFP`
 * bread `PWRAED`
-* breadth `PWRET`
+* breadth `PWR*ED`
 * breaker `PWRAERBG`
 * breast `PWREFT`
 * breath `PWR*ET`
@@ -971,7 +971,7 @@
 * cheep `KHAO*EP`
 * cheer `KHAOER`
 * cheese `KHAOES`
-* chef `KHEF`
+* chef `SHEF`
 * chem `KHEPL`
 * chemical `KHEL`
 * chemist `KHEUFT`
@@ -1180,7 +1180,6 @@
 * colonial `KHROEPBL`
 * colt `KOLT`
 * column `KHRUPL`
-* com `KRO*PL`
 * coma `KO*EUPL`
 * comb `KOEPL`
 * combat `KPWAT`
@@ -6390,7 +6389,7 @@
 * wander `WAERPBD`
 * wane `WAEPB`
 * waned `WAEUPBD`
-* waning `WAEPBG`
+* waning `WAEUPBG`
 * wank `WA*PBG`
 * wanna `WAPB`
 * want `WAPBT`

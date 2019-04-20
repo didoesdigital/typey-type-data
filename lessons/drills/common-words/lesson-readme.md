@@ -239,7 +239,7 @@
 * dream `TKRAOEPL`
 * dress `TKRES`
 * drink `TKREU`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * drop `TKROP`
 * drove `TKROEF`
 * dry `TKRAOEU`
@@ -285,7 +285,7 @@
 * far `TPAR`
 * fast `TPAFT`
 * father `TPAER`
-* fault `TPALT`
+* fault `TPAULT`
 * favorite `TPAEUFRT`
 * fear `TPAOER`
 * feel `TPAOEL`

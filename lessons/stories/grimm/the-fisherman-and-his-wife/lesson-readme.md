@@ -38,7 +38,7 @@
 * at `AT`
 * sparkling `SPAR/K-LG`
 * waves `WAFS`
-* watching `WAFBG`
+* watching `WAFPG`
 * line, `HRAOEUPB KW-BG`
 * sudden `SUD`
 * float `TPHROET`

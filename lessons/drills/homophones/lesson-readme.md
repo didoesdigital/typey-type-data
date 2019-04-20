@@ -385,7 +385,7 @@
 * guide `TKPWAOEUD`
 * guyed `TKPWAOEU/-D`
 * guise `TKPWAOEUZ`
-* guys `TKPWEUS`
+* guys `TKPWAOEUS`
 * hail `HAEUL`
 * hale `HA*EL`
 * hair `HAEUR`

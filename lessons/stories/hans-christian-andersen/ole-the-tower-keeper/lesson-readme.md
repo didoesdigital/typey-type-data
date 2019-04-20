@@ -1250,7 +1250,7 @@
 * omnibus, `OPL/TPHEU/PWUS KW-BG`
 * step `STEP`
 * in, `TPH KW-BG`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * land `HRAPBD`
 * eternity, `AOE/TERPBT KW-BG`
 * frontier `TPROPB/TAOER`

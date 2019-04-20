@@ -55,7 +55,7 @@
 * ranged `RAEUPBGD`
 * according `KORG`
 * their `THAEUR`
-* rank--kings, `RA*PBG H-PB H-PB KEUPBGZ KW-BG`
+* rank--kings, `RA*PBG H-PB H-PB KEUPBGS KW-BG`
 * princes, `PREUPBS/-S KW-BG`
 * dukes, `TKAOUBG/-S KW-BG`
 * earls, `*ERL/-S KW-BG`

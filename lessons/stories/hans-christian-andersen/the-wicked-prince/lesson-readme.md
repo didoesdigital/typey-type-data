@@ -192,7 +192,7 @@
 * neighbours, `TPHAEUBS/A*U KW-BG`
 * defeated `TE/TPAOET/-D`
 * them. `THEPL TP-PL`
-* kings `KEUPBGZ`
+* kings `KEUPBGS`
 * chained `KHAEUPBD`
 * golden `TKPWOELD/*EPB`
 * fetters `TPET/ERS`

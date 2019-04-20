@@ -435,7 +435,7 @@
 * called): `KAULD PR*EPB STPH-FPLT`
 * time, `TAOEUPL KW-BG`
 * several `SEFRL`
-* kings' `KEUPBGZ AE`
+* kings' `KEUPBGS AE`
 * sons `SOPBS`
 * tried `TRAOEUD`
 * break `PWRAEBG`

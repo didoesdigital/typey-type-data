@@ -57,11 +57,11 @@
 * little `HREUL`
 * girl `TKPWEURL`
 * who `WHO`
-* watching `WAFBG`
+* watching `WAFPG`
 * geese `TKPWAOES`
 * hastened `HAEUS/-PBD`
 * to `TO`
-* drive `KRAOEUF`
+* drive `TKRAOEUF`
 * them `THEPL`
 * away `A/WAEU`
 * from `TPR`
