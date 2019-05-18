@@ -1,0 +1,152 @@
+{
+  "noviceCourse": [
+    {
+      "path": "/lessons/drills/top-100-words/flashcards",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/flashcards",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/flashcards",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/flashcards",
+      "lessonTitle": "Numbers",
+      "target": 100
+    }
+  ],
+  "beginnerCourse": [
+    {
+      "path": "/lessons/drills/top-1000-words/flashcards",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/common-words/flashcards",
+      "lessonTitle": "Common words",
+      "target": 100
+    }
+  ],
+  "competentCourse": [
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/flashcards",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/flashcards",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/pronouns/flashcards",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/flashcards",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/flashcards",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/flashcards",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/flashcards",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/flashcards",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/flashcards",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/flashcards",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/calendar/flashcards",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/flashcards",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/time/flashcards",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/longest-words/flashcards",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/homophones/flashcards",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/flashcards",
+      "lessonTitle": "Emotions",
+      "target": 104
+    },
+    {
+      "path": "/lessons/drills/top-first-names-in-the-us-over-the-last-100-years/flashcards",
+      "lessonTitle": "Top first names in the US over the last 100 years",
+      "target": 200
+    }
+  ],
+  "proficientCourse": [
+    {
+      "path": "/lessons/drills/two-letter-words-common/flashcards",
+      "lessonTitle": "Two Letter Words: Common",
+      "target": 71
+    },
+    {
+      "path": "/lessons/drills/suffixes/two-letter-words-rare",
+      "lessonTitle": "Two Letter Words: Rare",
+      "target": 51
+    }
+  ],
+  "expertCourse": [
+    {
+      "path": "/lessons/drills/prefixes/flashcards",
+      "lessonTitle": "Prefixes",
+      "target": 40
+    },
+    {
+      "path": "/lessons/drills/suffixes/flashcards",
+      "lessonTitle": "Suffixes",
+      "target": 144
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/flashcards",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 6679
+    }
+  ]
+}
