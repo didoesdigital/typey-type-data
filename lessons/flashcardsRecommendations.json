@@ -118,21 +118,14 @@
       "path": "/lessons/drills/top-first-names-in-the-us-over-the-last-100-years/flashcards",
       "lessonTitle": "Top first names in the US over the last 100 years",
       "target": 200
-    }
-  ],
-  "proficientCourse": [
+    },
     {
       "path": "/lessons/drills/two-letter-words-common/flashcards",
       "lessonTitle": "Two Letter Words: Common",
       "target": 71
-    },
-    {
-      "path": "/lessons/drills/suffixes/two-letter-words-rare",
-      "lessonTitle": "Two Letter Words: Rare",
-      "target": 51
     }
   ],
-  "expertCourse": [
+  "proficientCourse": [
     {
       "path": "/lessons/drills/prefixes/flashcards",
       "lessonTitle": "Prefixes",
@@ -142,6 +135,213 @@
       "path": "/lessons/drills/suffixes/flashcards",
       "lessonTitle": "Suffixes",
       "target": 144
+    },
+    {
+      "lessonTitle": "*-D",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--D/flashcards"
+    },
+    {
+      "lessonTitle": "H-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-H/flashcards"
+    },
+    {
+      "lessonTitle": "R-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-R/flashcards"
+    },
+    {
+      "lessonTitle": "*E*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-E/flashcards"
+    },
+    {
+      "lessonTitle": "*U*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-U/flashcards"
+    },
+    {
+      "lessonTitle": "K-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-K/flashcards"
+    },
+    {
+      "lessonTitle": "*-T",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--T/flashcards"
+    },
+    {
+      "lessonTitle": "T-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-T/flashcards"
+    },
+    {
+      "lessonTitle": "*-R",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--R/flashcards"
+    },
+    {
+      "lessonTitle": "W-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-W/flashcards"
+    },
+    {
+      "lessonTitle": "*A*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-A/flashcards"
+    },
+    {
+      "lessonTitle": "P-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-P/flashcards"
+    },
+    {
+      "lessonTitle": "S-*, *-S, and *-Z",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/flashcards"
+    },
+    {
+      "lessonTitle": "*-L",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--L/flashcards"
+    },
+    {
+      "lessonTitle": "*-B",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--B/flashcards"
+    },
+    {
+      "lessonTitle": "*-F",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--F/flashcards"
+    },
+    {
+      "lessonTitle": "*-G",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--G/flashcards"
+    },
+    {
+      "lessonTitle": "*-P",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--P/flashcards"
+    },
+    {
+      "lessonTitle": "*O*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-O/flashcards"
+    },
+    {
+      "lessonTitle": "How *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/how/flashcards"
+    },
+    {
+      "lessonTitle": "That *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/that/flashcards"
+    },
+    {
+      "lessonTitle": "Who *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/who/flashcards"
+    },
+    {
+      "lessonTitle": "You *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/you/flashcards"
+    },
+    {
+      "lessonTitle": "With *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/with/flashcards"
+    },
+    {
+      "lessonTitle": "What *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/what/flashcards"
+    },
+    {
+      "lessonTitle": "The *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/the/flashcards"
+    },
+    {
+      "lessonTitle": "There *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/there/flashcards"
+    },
+    {
+      "lessonTitle": "He *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/he/flashcards"
+    },
+    {
+      "lessonTitle": "On *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/on/flashcards"
+    },
+    {
+      "lessonTitle": "And *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/and/flashcards"
+    },
+    {
+      "lessonTitle": "We *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/we/flashcards"
+    },
+    {
+      "lessonTitle": "Too *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/too/flashcards"
+    },
+    {
+      "lessonTitle": "Where *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/where/flashcards"
+    },
+    {
+      "lessonTitle": "They *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/they/flashcards"
+    },
+    {
+      "lessonTitle": "It *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/it/flashcards"
+    },
+    {
+      "lessonTitle": "Which *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/which/flashcards"
+    },
+    {
+      "lessonTitle": "When *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/when/flashcards"
+    },
+    {
+      "lessonTitle": "This *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/this/flashcards"
+    },
+    {
+      "lessonTitle": "Of *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/of/flashcards"
+    },
+    {
+      "lessonTitle": "Would",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/would/flashcards"
+    },
+    {
+      "lessonTitle": "She",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/she/flashcards"
+    },
+    {
+      "lessonTitle": "* in",
+      "path": "/lessons/collections/two-word-briefs-same-endings/in/flashcards"
+    },
+    {
+      "lessonTitle": "* that",
+      "path": "/lessons/collections/two-word-briefs-same-endings/that/flashcards"
+    },
+    {
+      "lessonTitle": "* be",
+      "path": "/lessons/collections/two-word-briefs-same-endings/be/flashcards"
+    },
+    {
+      "lessonTitle": "* the",
+      "path": "/lessons/collections/two-word-briefs-same-endings/the/flashcards"
+    },
+    {
+      "lessonTitle": "* had",
+      "path": "/lessons/collections/two-word-briefs-same-endings/had/flashcards"
+    },
+    {
+      "lessonTitle": "* and",
+      "path": "/lessons/collections/two-word-briefs-same-endings/and/flashcards"
+    },
+    {
+      "lessonTitle": "* is",
+      "path": "/lessons/collections/two-word-briefs-same-endings/is/flashcards"
+    },
+    {
+      "lessonTitle": "* to",
+      "path": "/lessons/collections/two-word-briefs-same-endings/to/flashcards"
+    },
+    {
+      "lessonTitle": "* of",
+      "path": "/lessons/collections/two-word-briefs-same-endings/of/flashcards"
+    }
+  ],
+  "expertCourse": [
+    {
+      "path": "/lessons/drills/two-letter-words-rare/flashcards",
+      "lessonTitle": "Two Letter Words: Rare",
+      "target": 51
     },
     {
       "path": "/lessons/drills/single-stroke-briefs/flashcards",
