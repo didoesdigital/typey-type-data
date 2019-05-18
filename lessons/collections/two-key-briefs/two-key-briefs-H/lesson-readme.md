@@ -3,7 +3,7 @@
 * this `TH`
 * charge `KH`
 * will `HR`
-* he `E`
+* he `HE`
 * uh `HU`
 * ? `H-F`
 * historical `H-L`
