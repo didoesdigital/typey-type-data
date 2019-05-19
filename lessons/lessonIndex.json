@@ -296,6 +296,15 @@
     "subcategory": "",
     "path": "/drills/longest-words/lesson.txt",
     "wordCount": 100,
+    "suggestedNext": "/drills/longest-words-with-single-stroke-briefs/lesson.txt"
+  },
+  {
+    "title": "Longest Words with Single-Stroke Briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+    "wordCount": 100,
     "suggestedNext": "/drills/common-words/lesson.txt"
   },
   {
