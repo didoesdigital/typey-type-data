@@ -315,7 +315,7 @@
 * Tonight, `KPA/TOPBT KW-BG`
 * when `WHEPB`
 * robbers `RORBS`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * flee `TPHRAOE`
 * together. `TOGT TP-PL`
 * waiting `WAEUGT`
@@ -422,7 +422,7 @@
 * lying `HRAOEUG`
 * floor `TPHRAOR`
 * fast `TPAFT`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * snoring. `STPHOERPBG TP-PL`
 * assured `A/SHURD`
 * this, `TH KW-BG`

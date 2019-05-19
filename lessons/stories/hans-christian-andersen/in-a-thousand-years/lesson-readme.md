@@ -143,7 +143,7 @@
 * that `THA`
 * see, `SAOE KW-BG`
 * passengers `PAEPBGS`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * not `TPHOT`
 * called `KAULD`
 * till `TEUL`

@@ -727,7 +727,7 @@
 * his `HEUS`
 * appetite, `AP/TAOEUT KW-BG`
 * again `TKPWEPB`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * snore `STPHAUR`
 * loud. `HROUD TP-PL`
 * huntsman `HUPBTS/PHA*PB`

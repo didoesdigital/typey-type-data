@@ -78,7 +78,7 @@
 * looked `HRAOBGD`
 * if `TP`
 * were `WR`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * or `OR`
 * absent. `AB/SEPBT TP-PL`
 * The `KPA/-T`

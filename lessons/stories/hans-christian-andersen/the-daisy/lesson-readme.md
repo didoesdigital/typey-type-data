@@ -334,7 +334,7 @@
 * folded `TPOELD/-D`
 * petals, `PET/TAL/-S KW-BG`
 * fell `TPEL`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * dreamt `TKREPLT`
 * night `TPHAOEUT`
 * bird. `PWEURD TP-PL`

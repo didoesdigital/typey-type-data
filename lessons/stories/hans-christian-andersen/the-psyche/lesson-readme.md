@@ -301,7 +301,7 @@
 * warm `WARPL`
 * blood, `PWHRAOD KW-BG`
 * strong `STROPBG`
-* imagination, `PHAPBL/TPHAEUGS KW-BG`
+* imagination, `PHAPBLG/TPHAEUGS KW-BG`
 * could `KO`
 * take `TAEUBG`
 * part `PART`
@@ -1161,7 +1161,7 @@
 * thoughts `THAUTS`
 * confused, `KAOUFD KW-BG`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * started `STARTD`
 * up, `UP KW-BG`
 * anew. `A/TPHU TP-PL`

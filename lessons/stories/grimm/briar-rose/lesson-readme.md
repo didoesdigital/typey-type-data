@@ -254,7 +254,7 @@
 * should `SHO`
 * really `R-L`
 * die, `TKAOEU KW-BG`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * hundred `HUPBD`
 * years. `KWRAOERS TP-PL`
 * However, `KPA/HOUF KW-BG`
@@ -397,7 +397,7 @@
 * let `HRET`
 * go, `TKPW-RBGS`
 * both `PWO*T`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * butler, `PWUT/HRER KW-BG`
 * slyly `SHRAOEU/HREU`
 * tasting `TAEUFT/-G`
@@ -465,7 +465,7 @@
 * wonderful `WUFL`
 * called `KAULD`
 * Rose, `RO*ES KW-BG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * court. `KORT TP-PL`
 * He `KPA/HE`
 * told, `TOLD KW-BG`

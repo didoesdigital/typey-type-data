@@ -378,7 +378,7 @@
 * beast's `PWAOEFT AES`
 * stomach `STUPL`
 * while `WHAOEUL`
-* asleep.' `A/HRAOEP TP-PL AE`
+* asleep.' `A/SHRAOEP TP-PL AE`
 * dragged `TKRAGD`
 * stones `STOEPBS`
 * thither `TH*EURT`

@@ -5,7 +5,7 @@
 * a `AEU`
 * Lion `KPA/HRO*EUPB`
 * was `WAS`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * little `HREUL`
 * Mouse `KPA/PHOUS`
 * began `TKPWAPB`

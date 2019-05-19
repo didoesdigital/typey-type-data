@@ -41,7 +41,7 @@
 * mother `PHOER`
 * had `H`
 * fallen `TPAUL/-PB`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * under `TPH-PB`
 * tree `TRAOE`
 * with `W`

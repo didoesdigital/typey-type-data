@@ -210,7 +210,7 @@
 * himself `H*EUPLS`
 * road, `RAOD KW-BG`
 * fast `TPAFT`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * Whilst `KPA/WHAOEULS`
 * slept, `SHREPD KW-BG`
 * came `KAEUPL`

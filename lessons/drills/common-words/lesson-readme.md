@@ -57,7 +57,7 @@
 * arrive `A/REUF`
 * as `AZ`
 * ask `SK`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * ass `A*S`
 * at `AT`
 * attack `A/TABG`

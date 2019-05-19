@@ -508,7 +508,7 @@
 * Immediately `KPA/PHAOELD`
 * touching `TUFPG`
 * them, `THEPL KW-BG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * mistress, `PHEUS/TRES KW-BG`
 * ready `R-D`
 * wait `WAEUT`
@@ -715,14 +715,14 @@
 * faces `TPAEUFS`
 * pimpled `PEUFRP/-LD`
 * noses `TPHO*EFS`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * goblets, `TKPWOBLT/-S KW-BG`
 * still `STEUL`
 * remained `RE/PHAEUPBD`
 * drops `TKROPS`
 * wine, `WAOEUPB KW-BG`
 * plainly, `PHRAEUPBL KW-BG`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * cups. `KUPS TP-PL`
 * crossed `KROFD`
 * court `KORT`
@@ -1084,7 +1084,7 @@
 * turned `TURPBD`
 * twenty, `TWEPBT KW-BG`
 * reckoning `REBG/-PBG`
-* asleep: `A/HRAOEP STPH-FPLT`
+* asleep: `A/SHRAOEP STPH-FPLT`
 * skin `SKEUPB`
 * tough, `TUF KW-BG`
 * fair `TPAEUR`

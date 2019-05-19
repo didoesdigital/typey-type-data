@@ -2089,7 +2089,7 @@
 * Eugene `AOU/SKWRAOEPB`
 * metric `PHERT/EUBG`
 * Bennett `PWEPB/ET`
-* imagination `PHAPBL/TPHAEUGS`
+* imagination `PHAPBLG/TPHAEUGS`
 * hotmail `HOT/PHAEUL`
 * refurbished `RE/TPURB/EURBD`
 * Joshua `SKWRORB/WA`
@@ -2970,7 +2970,7 @@
 * acquaintance `KWAEUPB/TAPBS`
 * commanded `KPHAPBD/-D`
 * arose `A/ROES`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * escaped `ES/KAEUPD`
 * despair `TKE/SPAEUR`
 * kindness `KEUPBD/-PBS`

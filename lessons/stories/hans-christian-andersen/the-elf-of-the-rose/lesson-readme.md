@@ -572,7 +572,7 @@
 * beneath `TPHAO*ET`
 * earth. `*ERT TP-PL`
 * against `TKPWEPBS`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * ear, `AOER KW-BG`
 * talked `TAUBGD`
 * evening `AOEPBG`

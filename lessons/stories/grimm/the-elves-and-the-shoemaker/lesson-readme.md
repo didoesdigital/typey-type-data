@@ -66,7 +66,7 @@
 * Heaven, `KPA/HEFPB KW-BG`
 * soon `SAOPB`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * In `KPA/TPH`
 * after `AF`
 * said `SAEUD`

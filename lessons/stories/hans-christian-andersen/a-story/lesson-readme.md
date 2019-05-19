@@ -647,7 +647,7 @@
 * still `STEUL`
 * sleep; `SHRAOEP STPH*FPLT`
 * fallen `TPAUL/-PB`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * rough `RUF`
 * dog `TKOG`
 * places `PHRAEUFS`

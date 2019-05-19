@@ -591,7 +591,7 @@
 * place, `PHRAEUS KW-BG`
 * felt `TPELT`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * busied `PWUS/KWREUD`
 * himself `H*EUPLS`
 * time `TAOEUPL`
@@ -638,7 +638,7 @@
 * amusing. `A/PHAOUFG TP-PL`
 * nap. `TPHAP TP-PL`
 * lying `HRAOEUG`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * time, `TAOEUPL KW-BG`
 * suddenly `SULD`
 * thrown `THROEPB`

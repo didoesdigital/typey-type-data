@@ -634,7 +634,7 @@
 * She `KPA/SHE`
 * lying `HRAOEUG`
 * dog's `TKOG AES`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * looked `HRAOBGD`
 * lovely, `HROFL KW-BG`
 * every `EF`

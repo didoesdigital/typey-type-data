@@ -685,7 +685,7 @@
 * thus `THUS`
 * lay `HRAEU`
 * only `OEPBL`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * even `AOEPB`
 * ebony. `EB/TPHEU TP-PL`
 * At `KPA/AT`

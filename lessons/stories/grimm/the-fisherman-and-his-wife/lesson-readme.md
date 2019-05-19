@@ -599,7 +599,7 @@
 * thinking `THEUG`
 * next. `TPHEGT TP-PL`
 * dropping `TROPG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * broke, `PWROEBG KW-BG`
 * sun `SUPB`
 * rose. `ROEZ TP-PL`

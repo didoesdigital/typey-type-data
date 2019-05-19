@@ -113,11 +113,11 @@
 * tired, `TAOEURD KW-BG`
 * then `THEPB`
 * fall `TPAUL`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * while `WHAOEUL`
 * we `WE`
 * are `R`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * can `K`
 * feel `TPAOEL`
 * neither `TPHAOERT`
@@ -745,7 +745,7 @@
 * seated `SAOETD`
 * chair `KHAEUR`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * dreamed `TKREPLD`
 * before; `PW-F STPH*FPLT`
 * singularly `SEUPBG/HRARL`
@@ -969,7 +969,7 @@
 * slumbering; `SHRUPL/PWER/-G STPH*FPLT`
 * there. `THR TP-PL`
 * half `HAF`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * From `KPA/TPR`
 * Shrove `xxx Shrove`
 * Tuesday `TAOUZ`

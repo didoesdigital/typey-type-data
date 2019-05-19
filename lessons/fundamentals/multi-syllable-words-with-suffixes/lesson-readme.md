@@ -685,7 +685,7 @@
 * rotation `RO/TAEUGS`
 * productive `PROUBG/EUF`
 * metric `PHERT/EUBG`
-* imagination `PHAPBL/TPHAEUGS`
+* imagination `PHAPBLG/TPHAEUGS`
 * Armenia `AR/PHAOEPB/KWRA`
 * closest `KHROES/EFT`
 * conferencing `K-FPBS/-G`

@@ -228,7 +228,7 @@
 * toad, `TAOD KW-BG`
 * took `TAOBG`
 * walnut-shell `WAL/TPHUT H-PB SHEL`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * jumped `SKWR*UPLD`
 * window `WOEUPBD`
 * garden. `TKPWA*RPB TP-PL`
@@ -303,7 +303,7 @@
 * rest, `REFT KW-BG`
 * old `OLD`
 * swam `SWAPL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * tiny `TOEUPB`
 * creature `KRAOEFP`
 * woke `WOEBG`

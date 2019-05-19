@@ -316,7 +316,7 @@
 * fireplace: `TPAOEUR/PHRAEUS STPH-FPLT`
 * then `THEPB`
 * needle, `TPHAO*ELD KW-BG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * seizing `SAOEZ/-G`
 * heads, `HEDZ KW-BG`
 * stuck `STUBG`

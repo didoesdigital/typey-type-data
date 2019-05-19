@@ -318,7 +318,7 @@
 * pretended `PRE/TEPBD/-D`
 * at `AT`
 * last `HRAFT`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * earnest. `ERPB/EFT TP-PL`
 * Suddenly `KPA/SULD`
 * heavy `HOEUF`
@@ -833,7 +833,7 @@
 * slipped `SHREUPD`
 * buried `PWUR/EUD`
 * earth. `*ERT TP-PL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * dreamed `TKREPLD`
 * dying, `TKAOEUG KW-BG`
 * promised `PROPLS/-D`

@@ -545,7 +545,7 @@
 * dead `TKED`
 * father, `TPAER KW-BG`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * awoke, `A/WOEBG KW-BG`
 * prison; `PREUZ STPH*FPLT`
 * worse `WORS`

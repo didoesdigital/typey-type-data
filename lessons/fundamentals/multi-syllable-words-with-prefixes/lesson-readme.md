@@ -539,7 +539,7 @@
 * outlets `AOUT/HRET/-S`
 * inhabitants `EUPB/HABT/APBTS`
 * arose `A/ROES`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * approached `A/PROEFPD`
 * disappeared `TKEUS/PAOERD`
 * interrupted `EUPBT/RUPTD`

@@ -513,7 +513,7 @@
 * above `PWOF`
 * 'Judgment `AE KPA/SKWRUPLT`
 * Solomon,' `SOL/PHOPB KW-BG AE`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * thought `THAUT`
 * dinner `TKEURPB`
 * toasts `TOEFTS`

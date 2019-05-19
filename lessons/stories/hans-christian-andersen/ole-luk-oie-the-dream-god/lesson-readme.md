@@ -96,10 +96,10 @@
 * never `TPHEFR`
 * until `TPH-L`
 * bed `PWED`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * As `KPA/AZ`
 * soon `SAOPB`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * seats `SAOETS`
 * himself `H*EUPLS`
 * bed. `PWED TP-PL`

@@ -247,7 +247,7 @@
 * She `KPA/SHE`
 * lay `HRAEU`
 * sofa `SOEF/A`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * beautiful `PWAOUFL`
 * help `HEP`
 * kissing `KEUFG`

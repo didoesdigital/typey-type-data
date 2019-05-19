@@ -586,7 +586,7 @@
 * ruin `RAOUPB`
 * waited `WAEUTD`
 * fast `TPAFT`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * poured `PORD`
 * cup, `KUP KW-BG`
 * giving `TKPWEUFG`

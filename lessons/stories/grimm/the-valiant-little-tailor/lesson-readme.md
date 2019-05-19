@@ -614,7 +614,7 @@
 * weary, `WAOE/REU KW-BG`
 * grass `TKPWRAS`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * Whilst `KPA/WHAOEULS`
 * there, `THR KW-BG`
 * people `PAOEPL`
@@ -1027,7 +1027,7 @@
 * night, `TPHAOEUT KW-BG`
 * servants `SER/SRAPBTS`
 * outside, `OUDZ KW-BG`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * in, `TPH KW-BG`
 * bind `PWEUPBD`
 * board `PWAORD`
@@ -1046,7 +1046,7 @@
 * At `KPA/AT`
 * wife `WAOEUF`
 * usual `URBL`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * door, `TKAOR KW-BG`
 * pretending `PRE/TEPBD/-G`
 * cry `KRAOEU`

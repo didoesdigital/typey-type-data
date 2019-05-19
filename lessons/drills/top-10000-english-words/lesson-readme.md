@@ -7998,7 +7998,7 @@
 * minus `PHAO*EUPBS`
 * penalties `PEPBLTS`
 * Bennett `PWEPB/ET`
-* imagination `PHAPBL/TPHAEUGS`
+* imagination `PHAPBLG/TPHAEUGS`
 * hotmail `HOT/PHAEUL`
 * refurbished `RE/TPURB/EURBD`
 * Joshua `SKWRORB/WA`

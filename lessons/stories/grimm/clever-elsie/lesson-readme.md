@@ -381,7 +381,7 @@
 * Shall `KPA/SHAL`
 * sleep `SHRAOEP`
 * among `PHOPBG`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * home `HOEPL`
 * come; `KOPL STPH*FPLT`
 * he: `HE STPH-FPLT`

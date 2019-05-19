@@ -565,7 +565,7 @@
 * wearing, `WAURG KW-BG`
 * length `HREPBG`
 * fast `TPAFT`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * sound `SOUPBD`
 * annoy `A/TPHOEU`
 * even `AOEPB`

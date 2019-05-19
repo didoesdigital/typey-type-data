@@ -410,7 +410,7 @@
 * laid `HRAEUD`
 * head `HED`
 * lap `HRAP`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * sleeping `SHRAOEPG`
 * shoulders, `SHOURLDZ KW-BG`
 * own, `OEPB KW-BG`
@@ -438,7 +438,7 @@
 * save `SAF`
 * myself `PHAO*EUS`
 * feigning `TPAEUPBG`
-* asleep'; `A/HRAOEP AE STPH*FPLT`
+* asleep'; `A/SHRAOEP AE STPH*FPLT`
 * himself `H*EUPLS`
 * sound `SOUPBD`
 * sleep. `SHRAOEP TP-PL`

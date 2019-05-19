@@ -495,7 +495,7 @@
 * and, `SKP KW-BG`
 * journey, `SKWRURPB KW-BG`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * But `KPA/PWUT`
 * midnight, `PHAOEUPBT KW-BG`
 * lights `HRAOEUTS`

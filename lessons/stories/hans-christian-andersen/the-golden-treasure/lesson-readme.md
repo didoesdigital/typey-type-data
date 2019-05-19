@@ -599,7 +599,7 @@
 * Again `KPA/TKPWEPB`
 * dawned; `TKAUPBD STPH*FPLT`
 * morning. `PHORPBG TP-PL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * talking `TAUG`
 * son, `SOPB KW-BG`
 * as, `AZ KW-BG`

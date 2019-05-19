@@ -466,7 +466,7 @@
 * There `KPA/THR`
 * rock; `ROBG STPH*FPLT`
 * lying `HRAOEUG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * head `HED`
 * lap. `HRAP TP-PL`
 * dare `TKAEUR`

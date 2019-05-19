@@ -673,7 +673,7 @@
 * sleep `SHRAOEP`
 * while.' `WHAOEUL TP-PL AE`
 * fallen `TPAUL/-PB`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * softly `SOFT/HREU`
 * away, `A/WAEU KW-BG`
 * herself `H*ERS`

@@ -262,7 +262,7 @@
 * before `PW-F`
 * aware, `A/WAEUR KW-BG`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * midnight. `PHAOEUPBT TP-PL`
 * Pig `KPA/PEUG`
 * raised `RA*EUFD`
@@ -1451,7 +1451,7 @@
 * clothed `KHRO*T/-D`
 * rags, `RAG/-S KW-BG`
 * lying `HRAOEUG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * leaning `HRAOEPBG`
 * spectators `SPEBG/TAEUT/O*RS`
 * spot `SPOT`

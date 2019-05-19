@@ -672,7 +672,7 @@
 * hear `HAER`
 * When `KPA/WHEPB`
 * fallen `TPAUL/-PB`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * led `HRED`
 * sat `SAT`
 * feet, `TPAOET KW-BG`

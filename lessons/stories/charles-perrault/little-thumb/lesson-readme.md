@@ -877,7 +877,7 @@
 * lay, `HRAEU KW-BG`
 * soul `SOUL`
 * fast `TPAFT`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * except `KPEPT`
 * terribly `TERBL/HREU`
 * fumbling `TPUPL/-BLG`
@@ -1007,13 +1007,13 @@
 * themselves. `TH*EPLS TP-PL`
 * worn `WORPB`
 * out, `OUT KW-BG`
-* asleep: `A/HRAOEP STPH-FPLT`
+* asleep: `A/SHRAOEP STPH-FPLT`
 * reposing `RE/POES/-G`
 * snore `STPHAUR`
 * frightfully, `TPRAOEUT/-FL/HREU KW-BG`
 * going `TKPW-G`
 * throats. `THROETS TP-PL`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * soundly; `SOUPBD/HREU STPH*FPLT`
 * anxious `KPUS`
 * advice, `SREUS KW-BG`

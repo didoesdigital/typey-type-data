@@ -281,7 +281,7 @@
 * am `APL`
 * Chinaman;" `KWHRAOEUPB/PHA*PB STPH*FPLT KR-GS`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * Then `KPA/THEPB`
 * cried, `KRAOEUD KW-BG`
 * sweetheart, `SWAOET/HART KW-BG`

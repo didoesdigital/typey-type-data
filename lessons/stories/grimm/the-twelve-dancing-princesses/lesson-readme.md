@@ -116,7 +116,7 @@
 * open. `OEP TP-PL`
 * But `KPA/PWUT`
 * fell `TPEL`
-* asleep; `A/HRAOEP STPH*FPLT`
+* asleep; `A/SHRAOEP STPH*FPLT`
 * awoke `A/WOEBG`
 * dancing, `TKAPBS/-G KW-BG`
 * soles `SOELS`
@@ -202,7 +202,7 @@
 * leaves `HREFS`
 * pretend `PRE/TEPBD`
 * fast `TPAFT`
-* asleep.' `A/HRAOEP TP-PL AE`
+* asleep.' `A/SHRAOEP TP-PL AE`
 * gave `TKPWAEUF`
 * cloak, `KHROEBG KW-BG`
 * said, `SAEUD KW-BG`
@@ -258,7 +258,7 @@
 * began `TKPWAPB`
 * snore `STPHAUR`
 * loud `HROUD`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * laughed `HRAFD`
 * heartily; `HART/HREU STPH*FPLT`
 * 'This `AE KPA/TH`

@@ -189,7 +189,7 @@
 * old `OLD`
 * folks `TPOBG`
 * fallen `TPAUL/-PB`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * got `TKPWOT`
 * up, `UP KW-BG`
 * put `PUT`
@@ -363,7 +363,7 @@
 * closed `KHROEFD`
 * fatigue, `TPA/TAOEG KW-BG`
 * fast `TPAFT`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * last `HRAFT`
 * awoke, `A/WOEBG KW-BG`
 * already `HR-R`
@@ -504,7 +504,7 @@
 * noon, `TPHAOPB KW-BG`
 * shared `SHAEURD`
 * scattered `SKAT/ERD`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * passed, `PAFD KW-BG`
 * night, `TPHAOEUT KW-BG`
 * wait, `WAEUT KW-BG`

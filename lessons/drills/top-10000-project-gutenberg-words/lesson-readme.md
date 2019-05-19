@@ -1534,7 +1534,7 @@
 * countries `KUPBTS`
 * pocket `POBGT`
 * arrival `A/RAOEUFL`
-* imagination `PHAPBL/TPHAEUGS`
+* imagination `PHAPBLG/TPHAEUGS`
 * driven `TKREUFPB`
 * loud `HROUD`
 * sentence `STEPBS`
@@ -1791,7 +1791,7 @@
 * safety `SAEFT`
 * provisions `PRO/SREUGS/-S`
 * description `SKREUPG`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * centre `STR/A*U`
 * faint `TPAEUPBT`
 * thinks `THEUS`

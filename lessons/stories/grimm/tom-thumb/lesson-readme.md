@@ -449,7 +449,7 @@
 * crept. `KREPT TP-PL`
 * Just `KPA/SKWRUFT`
 * falling `TPAULG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * heard `HAERD`
 * men `PHEPB`
 * passing `PAFG`
@@ -612,7 +612,7 @@
 * middle `PH*EULD`
 * it, `T KW-BG`
 * fast `TPAFT`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * He `KPA/HE`
 * still, `STEUL KW-BG`
 * however, `HOUF KW-BG`

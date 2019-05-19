@@ -590,7 +590,7 @@
 * lamenting `HRAPLT/-G`
 * some `SOPL`
 * down `TKOUPB`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * sun `SUPB`
 * heavens `HEFPBS`
 * woke. `WOEBG TP-PL`

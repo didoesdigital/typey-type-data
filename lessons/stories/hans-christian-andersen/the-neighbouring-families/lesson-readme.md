@@ -1223,7 +1223,7 @@
 * pond. `POPBD TP-PL`
 * Yes, `KPA/KWRE KW-BG`
 * succeed `SKAOED`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * Ah! `KPA/HA*E SKHRAPL`
 * faded `TPAEUD/-D`
 * leaf; `HRAOEF STPH*FPLT`

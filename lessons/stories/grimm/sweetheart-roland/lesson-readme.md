@@ -67,7 +67,7 @@
 * tonight `TOPBT`
 * when `WHEPB`
 * is `S`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * I `EU`
 * will `HR`
 * come `KOPL`
@@ -121,7 +121,7 @@
 * lie `HRAOEU`
 * side, `SAOEUD KW-BG`
 * but `PWUT`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * pushed `PURBD`
 * gently `SKWREPBT/HREU`
 * front, `TPROPBT KW-BG`

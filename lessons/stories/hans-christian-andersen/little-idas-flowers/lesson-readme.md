@@ -107,7 +107,7 @@
 * grows `TKPWRO*ES`
 * dark, `TKARBG KW-BG`
 * everybody `EFRB`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * jump `SKWRUFRP`
 * about `PW`
 * merrily. `PHER/HREU TP-PL`
@@ -559,7 +559,7 @@
 * garden. `TKPWA*RPB TP-PL`
 * there," `THR KW-BG KR-GS`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * In `KPA/TPH`
 * night `TPHAOEUT`
 * awoke; `A/WOEBG STPH*FPLT`

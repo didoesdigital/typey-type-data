@@ -293,7 +293,7 @@
 * sighing, `SAOEU/-G KW-BG`
 * has `HAS`
 * fallen `TPAUL/-PB`
-* asleep.' `A/HRAOEP TP-PL AE`
+* asleep.' `A/SHRAOEP TP-PL AE`
 * entered `SPWR-D`
 * garden, `TKPWA*RPB KW-BG`
 * found `TPOUPBD`
@@ -301,7 +301,7 @@
 * feared, `TPAOERD KW-BG`
 * lying `HRAOEUG`
 * fast `TPAFT`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * got `TKPWOT`
 * him; `HEUPL STPH*FPLT`
 * called `KAULD`
@@ -391,7 +391,7 @@
 * sadder `SAD/ER`
 * ever `-FR`
 * mournfully, `PHOURPB/-FL/HREU KW-BG`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * sleeping `SHRAOEPG`
 * heavily, `HEFL KW-BG`
 * efforts `EFRTS`

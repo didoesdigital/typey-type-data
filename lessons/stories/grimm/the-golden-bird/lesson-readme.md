@@ -63,7 +63,7 @@
 * o'clock `KHRO*BG`
 * he `HE`
 * fell `TPEL`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * morning `PHORPBG`
 * another `TPHOER`
 * missing. `PHEUFG TP-PL`
@@ -359,7 +359,7 @@
 * troop `TRAOP`
 * soldiers `SHRERPBLGS`
 * fast `TPAFT`
-* asleep `A/HRAOEP`
+* asleep `A/SHRAOEP`
 * snoring: `STPHOERPBG STPH-FPLT`
 * take `TAEUBG`
 * notice `TPH-TS`

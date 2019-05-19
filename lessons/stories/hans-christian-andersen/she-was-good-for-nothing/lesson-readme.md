@@ -653,11 +653,11 @@
 * soul," `SOUL KW-BG KR-GS`
 * Martha. `PHAR/THA TP-PL`
 * "Now `KR-GS KPA/TPHOU`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * tell `TEL`
 * all. `AUL TP-PL`
 * soon `SAOPB`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * gentle `SKWR*EPBLT`
 * sweet `SWAOET`
 * looks `HRAOBGS`

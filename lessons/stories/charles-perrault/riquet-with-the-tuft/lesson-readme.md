@@ -523,7 +523,7 @@
 * impertinences `*EUPL/PERT/TPHEPBS/-S`
 * before. `PW-F TP-PL`
 * overjoyed `AUFR/SKWROEUD`
-* imagination; `PHAPBL/TPHAEUGS STPH*FPLT`
+* imagination; `PHAPBLG/TPHAEUGS STPH*FPLT`
 * younger `KWRURPBG`
 * sister; `ST-R STPH*FPLT`
 * because `PWAU`

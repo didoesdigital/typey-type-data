@@ -87,7 +87,7 @@
 * lying `HRAOEUG`
 * arms `ARPLS`
 * fell `TPEL`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * old `OLD`
 * cook, `KAOBG KW-BG`
 * who `WHO`
@@ -254,7 +254,7 @@
 * aside, `A/SAOEUD KW-BG`
 * 'Tonight `AE KPA/TOPBT`
 * boy `PWOEU`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * go `TKPW`
 * bed `PWED`
 * plunge `PHRUPBG`

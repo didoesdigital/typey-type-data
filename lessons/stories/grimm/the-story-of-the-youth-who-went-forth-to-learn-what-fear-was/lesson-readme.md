@@ -336,7 +336,7 @@
 * saying `SAEUG`
 * word `WORD`
 * bed, `PWED KW-BG`
-* asleep. `A/HRAOEP TP-PL`
+* asleep. `A/SHRAOEP TP-PL`
 * sexton's `SEBGS/TOPB AES`
 * wife `WAOEUF`
 * waited `WAEUTD`
@@ -584,7 +584,7 @@
 * hung `HUPBG`
 * again `TKPWEPB`
 * turn. `TURPB TP-PL`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * next `TPHEGT`
 * morning `PHORPBG`
 * talers, `xxx talers KW-BG`

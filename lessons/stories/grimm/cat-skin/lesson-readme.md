@@ -229,7 +229,7 @@
 * her; `HER STPH*FPLT`
 * got `TKPWOT`
 * night `TPHAOEUT`
-* asleep, `A/HRAOEP KW-BG`
+* asleep, `A/SHRAOEP KW-BG`
 * took `TAOBG`
 * trinkets, `TREUPB/KETS KW-BG`
 * ring, `REUPBG KW-BG`
@@ -266,7 +266,7 @@
 * down `TKOUPB`
 * hollow `HOL/OE`
 * tree `TRAOE`
-* asleep: `A/HRAOEP STPH-FPLT`
+* asleep: `A/SHRAOEP STPH-FPLT`
 * slept `SHREPD`
 * it `T`
 * midday. `PHEUD/TKAEU TP-PL`
@@ -305,7 +305,7 @@
 * skin `SKEUPB`
 * seems `SAOEPLS`
 * fast `TPAFT`
-* asleep.' `A/HRAOEP TP-PL AE`
+* asleep.' `A/SHRAOEP TP-PL AE`
 * 'See,' `AE KPA/SAOE KW-BG AE`
 * 'if `AE TP`
 * catch `KAFP`
