@@ -1,5 +1,14 @@
 [
   {
+    "title": "Introduction",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/introduction/lesson.txt",
+    "wordCount": 68,
+    "suggestedNext": "/fundamentals/one-syllable-words-with-simple-keys/lesson.txt"
+  },
+  {
     "title": "One-syllable words with simple keys",
     "subtitle": "",
     "category": "Fundamentals",
@@ -173,7 +182,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
-    "wordCount": 339,
+    "wordCount": 338,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt"
   },
   {

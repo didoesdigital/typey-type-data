@@ -141,6 +141,16 @@
   },
   {
     "author": "Typey Type",
+    "title": "Introduction",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "tagline": "Typey Type’s Introduction dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/fundamentals/introduction/",
+    "subcategory": "",
+    "path": "/dictionaries/lessons/fundamentals/introduction/introduction.json"
+  },
+  {
+    "author": "Typey Type",
     "title": "One-syllable words with simple keys",
     "subtitle": "",
     "category": "Fundamentals",
