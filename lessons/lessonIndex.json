@@ -252,6 +252,16 @@
     "path": "/fundamentals/numbers/lesson.txt",
     "wordCount": 131,
     "overview": "/fundamentals/numbers/lesson-overview.html",
+    "suggestedNext": "/fundamentals/roman-numerals/lesson.txt"
+  },
+  {
+    "title": "Roman numerals",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/roman-numerals/lesson.txt",
+    "wordCount": 12,
+    "overview": "/fundamentals/roman-numerals/lesson-overview.html",
     "suggestedNext": "/drills/top-100-words/lesson.txt"
   },
   {
