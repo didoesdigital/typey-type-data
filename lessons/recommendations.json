@@ -1,6 +1,11 @@
 {
   "discoverCourse": [
     {
+      "path": "/lessons/fundamentals/introduction/lesson.txt",
+      "lessonTitle": "Introduction",
+      "target": 15
+    },
+    {
       "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
       "lessonTitle": "One-syllable words with simple keys",
       "target": 15
