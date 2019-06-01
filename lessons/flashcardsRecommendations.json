@@ -1,6 +1,11 @@
 {
   "noviceCourse": [
     {
+      "path": "/lessons/fundamentals/numbers/flashcards",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
       "path": "/lessons/drills/top-100-words/flashcards",
       "lessonTitle": "Top 100 words",
       "target": 100
@@ -14,14 +19,14 @@
       "path": "/lessons/fundamentals/punctuation/flashcards",
       "lessonTitle": "Punctuation",
       "target": 27
-    },
-    {
-      "path": "/lessons/fundamentals/numbers/flashcards",
-      "lessonTitle": "Numbers",
-      "target": 100
     }
   ],
   "beginnerCourse": [
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/flashcards",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 15
+    },
     {
       "path": "/lessons/drills/top-1000-words/flashcards",
       "lessonTitle": "Top 1000 words",
@@ -116,14 +121,14 @@
       "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/flashcards",
       "lessonTitle": "Multi-syllable words with inversion",
       "target": 15
-    },
-    {
-      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/flashcards",
-      "lessonTitle": "Multi-syllable words with briefs",
-      "target": 15
     }
   ],
   "competentCourse": [
+    {
+      "path": "/lessons/drills/two-letter-words-common/flashcards",
+      "lessonTitle": "Two Letter Words: Common",
+      "target": 71
+    },
     {
       "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/flashcards",
       "lessonTitle": "Multi-syllable words with prefixes",
@@ -208,14 +213,13 @@
       "path": "/lessons/drills/top-first-names-in-the-us-over-the-last-100-years/flashcards",
       "lessonTitle": "Top first names in the US over the last 100 years",
       "target": 200
-    },
-    {
-      "path": "/lessons/drills/two-letter-words-common/flashcards",
-      "lessonTitle": "Two Letter Words: Common",
-      "target": 71
     }
   ],
   "proficientCourse": [
+    {
+      "lessonTitle": "Two-word briefs: * of",
+      "path": "/lessons/collections/two-word-briefs-same-endings/of/flashcards"
+    },
     {
       "path": "/lessons/drills/prefixes/flashcards",
       "lessonTitle": "Prefixes",
@@ -421,10 +425,6 @@
     {
       "lessonTitle": "* to",
       "path": "/lessons/collections/two-word-briefs-same-endings/to/flashcards"
-    },
-    {
-      "lessonTitle": "* of",
-      "path": "/lessons/collections/two-word-briefs-same-endings/of/flashcards"
     }
   ],
   "expertCourse": [
