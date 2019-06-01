@@ -97,7 +97,7 @@
 * its `EUTS`
 * like `HRAOEUBG`
 * service `S-FS`
-* x `KP*`
+* X `KP*P`
 * than `THAPB`
 * find `TPEUPBD`
 * price `PRAOEUS`
@@ -358,7 +358,7 @@
 * USA `URBGS/SA*`
 * return `RURPB`
 * students `STAOUPBDZ`
-* v `SR*`
+* V `SR*P`
 * shopping `SHOPG`
 * account `K-T`
 * times `TAOEUPLS`
@@ -578,7 +578,7 @@
 * east `AOEFT`
 * paper `PAEUP`
 * single `SEUPBLG`
-* ii `2-R`
+* II `2-R`
 * age `AEUPBLG`
 * activities `TAEFTS`
 * club `KHRUB`
@@ -1422,7 +1422,7 @@
 * mac `PHABG`
 * housing `HOUFG`
 * takes `TAEUBGS`
-* iii `3-R`
+* III `3-R`
 * GMT `TKPW*P/PH*P/T*P`
 * bring `PWREU`
 * catalog `KAT/HROG`
@@ -2428,7 +2428,7 @@
 * adults `A/TKULTS`
 * clips `KHREUPS`
 * savings `SAFGS`
-* iv `4-R`
+* IV `4-R`
 * graphic `TKPWRAFBG`
 * atom `TOPLT`
 * payments `PAEUPLTS`
@@ -3968,7 +3968,7 @@
 * stainless `STAEUPBLS`
 * newspapers `TPHUPS`
 * hospitals `HOPTS`
-* vi `R-6`
+* VI `R-6`
 * deluxe `TKHRUBGS`
 * humor `HAOURPL`
 * aged `AEUGD`
@@ -6882,7 +6882,7 @@
 * enlargement `EPB/HRARPLT`
 * eagles `AOEG/-LS`
 * bases `PWAEUS/-S`
-* vii `R-7`
+* VII `R-7`
 * accused `A/KAOUFD`
 * bee `PWAOE`
 * campaigns `KPAEUPBS`
@@ -7566,7 +7566,7 @@
 * oops `AOPS`
 * reminder `RAOEURPBD`
 * nipple `TPH*EUPL`
-* xi `KPEU`
+* XI `1-RD`
 * searched `SEFRPBD`
 * behavioral `PWAEUFRL`
 * riverside `REUFR/SAO*EUD`

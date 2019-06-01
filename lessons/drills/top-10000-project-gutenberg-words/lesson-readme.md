@@ -1989,7 +1989,7 @@
 * violent `SROEUPBLT`
 * branches `PWRAFRPBS`
 * inquired `EUPB/KWAOEURD`
-* iv `4-R`
+* IV `4-R`
 * September `SEPT`
 * worn `WORPB`
 * Ireland `AOEURLD`
@@ -2877,7 +2877,7 @@
 * additions `A/TKEUGS/-S`
 * hid `HEUD`
 * rope `ROEP`
-* vi `R-6`
+* VI `R-6`
 * adventure `SREPBG`
 * royalty `ROEULT`
 * vanished `SRAPB/EURBD`
@@ -5233,7 +5233,7 @@
 * navy `TPHAEF`
 * fortress `TPORT/RES`
 * hurrying `HUR/REU/-G`
-* x `KP*`
+* X `KP*P`
 * blessings `PWHREFGS`
 * attempting `A/TEPLT/-G`
 * insects `EUPB/SEBGTS`
@@ -6843,7 +6843,7 @@
 * drawer `TKRAUR`
 * contribution `KR-BGS`
 * supposition `SPOGS`
-* vii `R-7`
+* VII `R-7`
 * weren't `WR-PBT`
 * link `HR*EUPBG`
 * homely `HOEPL/HREU`
@@ -7300,7 +7300,7 @@
 * Harvey `HAR/SREU`
 * icy `AOEU/SEU`
 * inconvenience `EUPB/SRAOEPBS`
-* v `SR*`
+* V `SR*P`
 * pots `POTS`
 * dimensions `TKPHEPGS/-S`
 * abused `A/PWAOUFD`
@@ -8722,7 +8722,7 @@
 * Anglo-Saxon `APBG/HRO/H-PB/SABGS/O*PB`
 * courier `KUR/KWRER`
 * inflamed `EUPB/TPHRAEUPLD`
-* xi `KPEU`
+* XI `1-RD`
 * drill `TKREUL`
 * spelling `SPELG`
 * respond `SPOPBD`
