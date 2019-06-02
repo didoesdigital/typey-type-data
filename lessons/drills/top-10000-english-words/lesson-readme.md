@@ -597,7 +597,7 @@
 * ca `KRA*`
 * hard `HARD`
 * Texas `T-BGS`
-* oct `O*BGT`
+* oct `O*/KR*/T*`
 * pay `PAEU`
 * four `TPOUR`
 * poker `POERBG`
