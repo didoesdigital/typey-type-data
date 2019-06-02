@@ -176,7 +176,7 @@
 * angry `APBG/REU`
 * words `WORDZ`
 * unless `TPH-LS`
-* morrow `PHOR/ROE`
+* morrow `HRO*ER/PHOR/ROE`
 * point `POEUPBT`
 * out `OUT`
 * thief, `THAOEF KW-BG`

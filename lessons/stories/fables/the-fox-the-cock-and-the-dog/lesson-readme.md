@@ -126,4 +126,4 @@
 * Cunning `KPA/KUPBG`
 * often `OFPB`
 * outwits `AOUT/WEUT/-S`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`

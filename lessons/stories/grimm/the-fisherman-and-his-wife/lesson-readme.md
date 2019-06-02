@@ -582,7 +582,7 @@
 * tower `TOUR`
 * world, `WORLD KW-BG`
 * least `HRAOEFT`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * small `SPHAL`
 * rushlight. `xxx rushlight TP-PL`
 * greatness, `TKPWRAET/-PBS KW-BG`

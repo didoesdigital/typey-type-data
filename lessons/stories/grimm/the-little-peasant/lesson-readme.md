@@ -132,7 +132,7 @@
 * soon `SAOPB`
 * run `RUPB`
 * by `PWEU`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * look `HRAOBG`
 * how `HOU`
 * eats `AOETS`
@@ -206,7 +206,7 @@
 * mayor, `PHAEUR KW-BG`
 * who `WHO`
 * carelessness `KAEURLS/-PBS`
-* condemned `KOPB/TKEPL/-D`
+* condemned `KAUPB/TKEPL/-D`
 * him `HEUPL`
 * give `TKPWEUF`
 * cow `KO*U`

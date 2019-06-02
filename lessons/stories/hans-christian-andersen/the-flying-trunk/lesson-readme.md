@@ -631,7 +631,7 @@
 * crown `KROUPB`
 * to-day `TO TKA*EU`
 * me `PHE`
-* to-morrow.' `TO H-PB PHOR/ROE TP-PL AE`
+* to-morrow.' `TO H-PB HRO*ER/PHOR/ROE TP-PL AE`
 * "'Now, `KR-GS AE KPA/TPHOU KW-BG`
 * let `HRET`
 * dance,' `TKAPBS KW-BG AE`

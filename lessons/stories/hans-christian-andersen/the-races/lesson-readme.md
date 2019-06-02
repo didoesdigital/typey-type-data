@@ -65,7 +65,7 @@
 * who `WHO`
 * witness `W-PBS`
 * at `AT`
-* distribution `TKR-GSZ`
+* distribution `TKR-BGS`
 * of `-F`
 * prizes; `PRAOEUZ/-S STPH*FPLT`
 * "there `KR-GS THR`

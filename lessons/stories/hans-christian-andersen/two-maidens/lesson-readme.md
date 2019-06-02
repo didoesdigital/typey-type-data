@@ -86,7 +86,7 @@
 * was `WAS`
 * newest `TPHAOUFT`
 * only `OEPBL`
-* correct `KRERBG`
+* correct `KREBGT`
 * designation `TKEZ/TPHAEUGS`
 * for `TPOR`
 * we `WE`

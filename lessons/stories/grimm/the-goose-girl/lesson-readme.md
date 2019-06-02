@@ -392,7 +392,7 @@
 * was, `WAS KW-BG`
 * much `PHUFP`
 * afraid `A/TPRAEUD`
-* lest `HR*ES`
+* lest `HRES/*T`
 * should `SHO`
 * or `OR`
 * speak, `SPAOEBG KW-BG`

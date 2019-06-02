@@ -102,7 +102,7 @@ The Bishop of Borglum and His Warriors
 'its': EUTS
 'wings': WEUPBGS
 '(the': PREPB -T
-'larger': HRARPBLG/ER
+'larger': HRAERPBLG
 'one)': WUPB PR*EPB
 'there': THR
 'is': S
@@ -1276,7 +1276,7 @@ The Bishop of Borglum and His Warriors
 'him': HEUPL
 'on': OPB
 'Christmas': KREUS/PHAS
-'eve,': AOEF KW-BG
+'eve,': HRO*ER/AOEF KW-BG
 'at': AT
 'mass,': PHAS KW-BG
 'in': TPH
@@ -2204,7 +2204,7 @@ The Bishop of Borglum and His Warriors
 'up': UP
 'lives,': HREUFS KW-BG
 'and': SKP
-'to-morrow,': TO H-PB PHOR/ROE KW-BG
+'to-morrow,': TO H-PB HRO*ER/PHOR/ROE KW-BG
 'perhaps,': PRAPS KW-BG
 'it': T
 'may': PHAE

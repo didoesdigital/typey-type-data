@@ -176,7 +176,7 @@
 * am `APL`
 * lose `HRUZ`
 * wood `WAOD`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * may `PHAE`
 * easily `AOELS`
 * done; `TKOPB STPH*FPLT`
@@ -765,7 +765,7 @@
 * need `TPHAOED`
 * now? `TPHOU H-F`
 * enough `TPHUF`
-* to-morrow?" `TO H-PB PHOR/ROE H-F KR-GS`
+* to-morrow?" `TO H-PB HRO*ER/PHOR/ROE H-F KR-GS`
 * "Hold `KR-GS KPA/HOLD`
 * your `KWROUR`
 * prattling," `PRAT/-LG KW-BG KR-GS`
@@ -835,7 +835,7 @@
 * daughters `TKAURS`
 * heads, `HEDZ KW-BG`
 * afraid `A/TPRAEUD`
-* lest `HR*ES`
+* lest `HRES/*T`
 * killing `KEULG`
 * midnight; `PHAOEUPBT STPH*FPLT`
 * brothers' `PWROERS AE`

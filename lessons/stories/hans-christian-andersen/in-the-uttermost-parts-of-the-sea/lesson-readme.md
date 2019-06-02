@@ -220,7 +220,7 @@
 * Bible, `PWAO*EUBL KW-BG`
 * grandmother `TKPWR-PL`
 * given `TKPWEUFPB`
-* departure. `TKPAR/KHUR TP-PL`
+* departure. `TKPART/AOUR TP-PL`
 * Every `KPA/EF`
 * sacred `SKRED`
 * volume `SROL`
@@ -269,7 +269,7 @@
 * him, `HEUPL KW-BG`
 * dreams, `TKRAOEPLS KW-BG`
 * are `R`
-* manifestations `PHAPB/TPEFT/AUGS/-S`
+* manifestations `PHAPB/TPES/TAEUGS/-S`
 * God `TKPWO*D`
 * spirit. `SPEURT TP-PL`
 * soul `SOUL`

@@ -654,7 +654,7 @@
 * chief `KHAOEF`
 * "who `KR-GS WHO`
 * married `PHAERD`
-* to-morrow." `TO H-PB PHOR/ROE TP-PL KR-GS`
+* to-morrow." `TO H-PB HRO*ER/PHOR/ROE TP-PL KR-GS`
 * surprised `SPRAOEUFD`
 * ever, `-FR KW-BG`
 * recollecting `REBG/HREBGT/-G`

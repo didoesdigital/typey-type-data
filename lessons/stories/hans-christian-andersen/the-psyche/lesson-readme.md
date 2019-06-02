@@ -440,7 +440,7 @@
 * shouted `SHOUT/-D`
 * joy; `SKWROEU STPH*FPLT`
 * declared `TKE/KHRAEURD`
-* manifestation `PHAPB/TPEFT/AUGS`
+* manifestation `PHAPB/TPES/TAEUGS`
 * artistic `TR*EUFBG`
 * power, `POUR KW-BG`
 * long `HROPBG`
@@ -577,11 +577,11 @@
 * Morning `KPA/PHORPBG`
 * how `HOU`
 * progressed. `PROGD TP-PL`
-* itself `T/SEF`
+* itself `*EUTS`
 * inspired `EUPB/SPAOEURD`
 * since `SEUPBS`
 * moulded `PHOELD/-D/A*U`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * heightened `HAOEUT/*EPBD`
 * likeness `HRAOEUBG/-PBS`
 * well-known `WEL/H-PB/TPHOEPB`
@@ -791,7 +791,7 @@
 * chambers `KHAEURPLS`
 * chief `KHAOEF`
 * leading `HRAEGD`
-* ornament. `ORPB/APLT TP-PL`
+* ornament. `ORPB/*PLT TP-PL`
 * spoke `SPOEBG`
 * No `KPA/TPHO`
 * hymn `H*EUPL`

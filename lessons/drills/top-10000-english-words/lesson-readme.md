@@ -653,7 +653,7 @@
 * RSS `R*SZ`
 * become `PW-BG`
 * interest `TR`
-* id `EUD`
+* ID `EUD`
 * child `KHAOEULD`
 * keep `KAOEP`
 * enter `SPWER`
@@ -984,7 +984,7 @@
 * bit `PWEUT`
 * yellow `KWREL/OE`
 * political `PHREU/K-L`
-* increase `EUPB/KRAES`
+* increase `EUPB/KRAOES`
 * advertise `TEUZ`
 * kingdom `KEUPBG/TKOPL`
 * base `PWAEUS`
@@ -1218,7 +1218,7 @@
 * located `HROEBGD`
 * multiple `PH-PL`
 * Asian `A*EUGS`
-* distribution `TKR-GSZ`
+* distribution `TKR-BGS`
 * editor `OERTD`
 * inn `TPH*PB`
 * industrial `STREUL`
@@ -1281,7 +1281,7 @@
 * glass `TKPWHRAS`
 * happy `HAEP`
 * tue `T*/*U/*E`
-* smith `SPH*EUT`
+* Smith `SPH*EUT`
 * wanted `WAPBTD`
 * developed `SRELD`
 * thank `THAPBG`
@@ -1297,7 +1297,7 @@
 * sources `SORSZ`
 * Mexico `PHEBGS/KO`
 * population `PHRAEUGS`
-* pa `PA`
+* Pa `PA`
 * regular `REG`
 * secure `SKUR`
 * navigation `TPHAF/TKPWAEUGS`
@@ -1314,7 +1314,7 @@
 * understand `URPBD`
 * option `OPGS`
 * master `PHAFRT`
-* valley `SRAL/HREU`
+* valley `SRAL/KWREU`
 * recently `RAOEPBLT`
 * probably `PROBL`
 * thu `T*/H*/*U`
@@ -1329,7 +1329,7 @@
 * connection `KEBGS`
 * publisher `PHRER`
 * hall `HAUL`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * anti `A*/TPH*/T*/*EU`
 * networks `TPHOERBGS`
 * earth `*ERT`
@@ -1419,7 +1419,7 @@
 * son `SOPB`
 * providing `PROEUFGD`
 * rule `RAOUL`
-* mac `PHABG`
+* Mac `PHABG`
 * housing `HOUFG`
 * takes `TAEUBGS`
 * III `3-R`
@@ -1519,7 +1519,7 @@
 * ring `REUPBG`
 * grade `TKPWRAEUD`
 * dating `TKAEUGT`
-* pacific `PAFBG`
+* Pacific `PAFBG`
 * mountain `PHOUPB/TAEUPB`
 * organizations `ORGS/-S`
 * pop `POP`
@@ -1624,7 +1624,7 @@
 * dance `TKAPBS`
 * wood `WAOD`
 * MSN `PH*P/S*P/TPH*P`
-* itself `T/SEF`
+* itself `*EUTS`
 * defined `TKE/TPAOEUPBD`
 * papers `PAEUPS`
 * playing `PHRA*EUG`
@@ -1659,7 +1659,7 @@
 * variety `SRAEURT`
 * teachers `TAO*EFPS`
 * ISBN `*EUP/S*P/PW*P/TPH*P`
-* martin `PHART/EUPB`
+* Martin `PHART/EUPB`
 * manual `PHAPB/WAL`
 * block `PWHROBG`
 * subjects `SUBTS`
@@ -1704,7 +1704,7 @@
 * unknown `UPB/TPHOEPB`
 * specified `SPEFD`
 * restaurant `TRAUPBT`
-* mike `PHAOEUBG`
+* Mike `PHAOEUBG`
 * trip `TREUP`
 * PST `P*P/S*P/T*P`
 * worth `WO*RT`
@@ -1846,7 +1846,7 @@
 * OS `O*S`
 * difference `TKEUFRPBS`
 * allowed `HRO*UD`
-* correct `KRERBG`
+* correct `KREBGT`
 * Charles `KHARLS`
 * nation `TPHA*EUGS`
 * selling `SELG`
@@ -1858,7 +1858,7 @@
 * older `OERLD`
 * Illinois `*EUL`
 * regulations `RAEUG/-S`
-* elements `HR-PLTS`
+* elements `HREPLTS`
 * species `SPAOES`
 * jump `SKWRUFRP`
 * cells `KRELS`
@@ -2372,7 +2372,7 @@
 * dedicated `TKED/KAEUTD`
 * Indiana `*EUPBD`
 * direction `TKREBGS`
-* harry `HAR/REU`
+* Harry `HAR/REU`
 * basketball `PWABGT/PWAL`
 * objects `OBS`
 * ends `EPDZ`
@@ -2981,7 +2981,7 @@
 * ideal `KWR-L`
 * specs `SP*EBG/-S`
 * recorded `RORD/-D`
-* don `TKO*PB`
+* Don `TKO*PB`
 * pieces `PAOEFS`
 * finished `TP*EURBD`
 * parks `PARBGS`
@@ -3536,7 +3536,7 @@
 * rice `RAOEUS`
 * Nebraska `TPHEB`
 * loop `HRAOP`
-* salary `SAL/RE`
+* salary `SAL/REU`
 * reservation `R-FRGS`
 * foods `TPAODZ`
 * gourmet `TKPWOR/PHAEU`
@@ -3546,7 +3546,7 @@
 * saving `SAFG`
 * NFL `TPH*FL`
 * remaining `RE/PHAEPBG`
-* empire `EPL/AOEUR`
+* empire `EPL/PAOEUR`
 * resume `RAOUPL`
 * twenty `TWEPBT`
 * newly `TPHAOUL`
@@ -3588,7 +3588,7 @@
 * audit `AUTD`
 * push `PURB`
 * chamber `KHAEURPL`
-* guinea `TKPWEU/TPHAOE`
+* Guinea `TKPWEU/TPHAOE`
 * findings `TPAOEUPBGDZ`
 * muscle `PH*UL`
 * featuring `TPAO*EFPG`
@@ -3632,7 +3632,7 @@
 * formula `TPHRORPL`
 * constitution `TAOUGS`
 * packaging `PABG/APBLG/-G`
-* solar `SOEL/AR`
+* solar `SOL/A*R`
 * Jose `HOE/SAEU`
 * catch `KAFP`
 * Jane `SKWRAEUPB`
@@ -3649,7 +3649,7 @@
 * periods `PAOERDZ`
 * classroom `KHRAOPL`
 * tasks `TAFBGS`
-* democracy `TKEPL/RAES`
+* democracy `TKPHOBG/SEU`
 * attacks `A/TABGS`
 * Kim `KEUPL`
 * wallpaper `WAUL/PAEUP`
@@ -4155,7 +4155,7 @@
 * loading `HRAOGD`
 * stamps `STA*PLS`
 * appeared `A/PAOERD`
-* Franklin `TPRAPBG/HREUPB`
+* Franklin `TPRAPB/KHREUPB`
 * angle `A*PBLG`
 * rob `ROB`
 * vinyl `SRAOEUPBL`
@@ -4383,7 +4383,7 @@
 * immigration `EUPL/TPRAEUGS`
 * destinations `TKEFT/TPHAEUGS/-S`
 * lets `HR*ETS`
-* mutual `PHAOUT/AL`
+* mutual `PHAOUT/WAL`
 * pipeline `PAOEUP/HROEUPB`
 * necessarily `TPHELS`
 * syntax `SEUPB/TABGS`
@@ -4417,7 +4417,7 @@
 * busty `PWUFT/KWREU`
 * coordinator `KAORD/TPHAEU/TOR`
 * obviously `OBL`
-* mercury `PHER/KREU`
+* mercury `PHERBG/REU`
 * Steven `STAOEFPB`
 * handbook `HAPBD/PWAOBG`
 * Greg `TKPWREG`
@@ -4433,7 +4433,7 @@
 * coupons `KAOUPBS`
 * somewhat `SWHA`
 * receiver `SAOEFR`
-* substantial `SPAPBL`
+* substantial `STAPBL`
 * tr `T*/R*`
 * progressive `PROG/EUF`
 * cialis `KRAOELS`
@@ -4487,7 +4487,7 @@
 * okay `OBLG`
 * pottery `POT/REU`
 * emphasis `EFPL/SEUS`
-* roger `RORG`
+* Roger `RORG`
 * aspect `SPAEBGT`
 * workplace `WORBG/PHRAEUS`
 * awesome `AUFPL`
@@ -5007,8 +5007,8 @@
 * worry `WOER`
 * ns `TPH*/SP-S/-S`
 * discrimination `SKREUPL/TPHAEUGS`
-* eve `AOEF`
-* carter `KA*RT/ER`
+* Eve `AOEF`
+* Carter `KA*RT/ER`
 * legacy `HREG/SEU`
 * Marc `PHA*RBG`
 * pleased `PHRAOEFD`
@@ -5255,7 +5255,7 @@
 * soap `SOEP`
 * ae `A/*E`
 * triple `TR*EUPL`
-* cooper `KAORP`
+* Cooper `KAORP`
 * NYC `TPHOEUBG`
 * Vincent `SREUPB/SEPBT`
 * jam `SKWRAPL`
@@ -5373,7 +5373,7 @@
 * antenna `APBT/TPHA`
 * picked `PEUGD`
 * assumed `A/SAOUPLD`
-* departure `TKPAR/KHUR`
+* departure `TKPART/AOUR`
 * Minneapolis `PHEUPB/KWRAPLS`
 * belief `PWHRAOEF`
 * killing `KEULG`
@@ -5822,7 +5822,7 @@
 * parish `PAR/EURB`
 * claimed `KHRAEUPLD`
 * screens `SKRAOEPBS`
-* cemetery `SEPL/TER`
+* cemetery `SEPLT/REU`
 * planner `PHRARPB`
 * Croatia `KROE/AEU/SHA`
 * flows `TPHROES`
@@ -6035,7 +6035,7 @@
 * inclusion `KHRUGS`
 * hopefully `HO*EF`
 * brilliant `PWREULT`
-* turner `TRURPB`
+* Turner `TRURPB`
 * sucking `SUBG/-G`
 * cents `S-TS`
 * Reuters `ROEURTS`
@@ -6144,7 +6144,7 @@
 * voters `SROET/ERS`
 * cure `KAOUR`
 * Madonna `PHA/TKOPB/TPHA`
-* commander `KPHAPB/TKER`
+* commander `KPHAPBD/*ER`
 * arch `AFRPB`
 * ni `TPH*/*EU`
 * Murphy `PHUR/TPEU`
@@ -6522,7 +6522,7 @@
 * ecology `E/KOLG`
 * Oliver `OL/EUFR`
 * Congo `KAUPB/TKPWO`
-* glen `TKPWHREPB`
+* Glen `TKPWHREPB`
 * Botswana `PWOT/SWA/TPHA`
 * nav `TPHA*F`
 * delays `TKHRAEUS`
@@ -6714,7 +6714,7 @@
 * pads `PADZ`
 * butts `PW*UT/-S`
 * inns `TPH*PB/-S`
-* bobby `PWOB/KWREU`
+* Bobby `PWOB/KWREU`
 * impressive `EUPL/PREF`
 * sheep `SHAOEP`
 * accordingly `A/KORD/TKPWHREU`
@@ -6873,7 +6873,7 @@
 * obtaining `OB/TAEUPBG`
 * beaver `PWAOEFR`
 * updating `AUP/TKAEUGT`
-* distribute `TK-BT`
+* distribute `TKR-BT`
 * readings `RAEGDZ`
 * decorative `TKEBG/TEUF`
 * kijiji `KEU/SKWREU/SKWREU`
@@ -6881,7 +6881,7 @@
 * compiler `KPAOEURL`
 * enlargement `EPB/HRARPLT`
 * eagles `AOEG/-LS`
-* bases `PWAEUS/-S`
+* bases `PWAEUS/ES`
 * VII `R-7`
 * accused `A/KAOUFD`
 * bee `PWAOE`
@@ -7047,7 +7047,7 @@
 * cookbook `KAOBG/PWAOBG`
 * expressions `EBGS/PREGSZ`
 * ton `TOPB`
-* courier `KUR/KWRER`
+* courier `KOR/KWRER`
 * uploaded `UPLD/-D`
 * Shakespeare `SHAUBG/SPAOER`
 * hints `HEUPBTS`
@@ -7312,7 +7312,7 @@
 * Gregory `TKPWREG/REU`
 * episodes `EP/SOEDZ`
 * boolean `PWAOL/KWRAPB`
-* circular `SEUR/KHRAR`
+* circular `SEURBG/HRAR`
 * anger `ARPBG`
 * diy `TK*/*EU/KWR*`
 * mainland `PHAEUPB/HRAPBD`
@@ -7937,7 +7937,7 @@
 * periodic `PAOERD/EUBG`
 * submitting `SPHEUGT`
 * overhead `AUFR/HED`
-* ascii `AS/KEU`
+* ASCII `AS/KEU`
 * prospect `PRO/SPEBGT`
 * shipment `SHEUPLT`
 * breeding `PWRAOED/-G`
@@ -7966,7 +7966,7 @@
 * rapids `RAPD/-S`
 * disco `TKEUS/KOE`
 * Sheffield `SHEF/TPAOELD`
-* bailey `PWAEUL/KWREU`
+* Bailey `PWAEUL/KWREU`
 * aus `AUS`
 * endif `EPBD/*F`
 * finishing `TP*EURBG`
@@ -8020,7 +8020,7 @@
 * aurora `AU/ROE/RA`
 * una `AOUPB/KWRA`
 * slides `SHRAOEUDZ`
-* Milan `PHEU/HRAPB`
+* Milan `PHEUL/A*PB`
 * premiere `PRE/PHAOER`
 * lender `HR*ERPBD`
 * villages `SREULGS`
@@ -8275,7 +8275,7 @@
 * kilometers `KHROPLT/-S`
 * rp `R*/P*`
 * bind `PWEUPBD`
-* thanksgiving `TRAPBGS/TKPWEUFG`
+* Thanksgiving `TRAPBGS/TKPWEUFG`
 * Rand `RAPBD`
 * Hopkins `HOP/KEUPBZ`
 * urgent `URGT`
@@ -8443,7 +8443,7 @@
 * magnitude `PHAG/TAOUD`
 * UI `*UP/*EUP`
 * Richardson `HREUFP/ARD/SO*PB`
-* Hindu `HUPBD/SKWRU`
+* Hindu `HEUPB/TKAOU`
 * dh `TK*/H*`
 * fragrances `TPRAEUG/RAPBS/-S`
 * vocabulary `SROEBG/PWAER`

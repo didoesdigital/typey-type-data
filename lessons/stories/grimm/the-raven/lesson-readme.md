@@ -576,7 +576,7 @@
 * map, `PHAP KW-BG`
 * 'Never `AE KPA/TPHEFR`
 * mind,' `PHAOEUPBD KW-BG AE`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * maps `PHAPS`
 * upstairs `AUP/STAEURS`
 * cupboard, `WUP/PWORD KW-BG`

@@ -240,7 +240,7 @@
 * singing-bird `SEUPBG/-G H-PB PWEURD`
 * away, `A/WAEU KW-BG`
 * mountain `PHOUPB/TAEUPB`
-* valley, `SRAL/HREU KW-BG`
+* valley, `SRAL/KWREU KW-BG`
 * field `TPAOELD`
 * wood—he `WAOD EPL/TKA*RB HE`
 * Bird `KPA/PWEURD`

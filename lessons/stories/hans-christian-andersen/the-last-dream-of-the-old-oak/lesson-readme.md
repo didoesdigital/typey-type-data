@@ -573,7 +573,7 @@
 * rising `RAOEUFG`
 * highest `HAOEU/EFT`
 * branches. `PWRAFRPBS TP-PL`
-* itself `T/SEF`
+* itself `*EUTS`
 * stretching `STREFPG`
 * out, `OUT KW-BG`
 * while `WHAOEUL`
@@ -601,7 +601,7 @@
 * longing `HROPBG/-G`
 * grow `TKPWROE`
 * reach `RAOEFP`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`
 * pierced `PAOERS/-D`
 * clouds, `KHROUDZ KW-BG`
 * troops `TRAOPS`
@@ -660,7 +660,7 @@
 * trembled `TREPL/-BLD`
 * branch, `PWRAFRPB KW-BG`
 * warmly `WARPL/HREU`
-* fervently `TPER/SREPBT/HREU`
+* fervently `TPEFRB/EPBT/HREU`
 * fibres `TPAOEURBS/A*U`
 * heart. `HART TP-PL`
 * waved `WAFD`
@@ -748,7 +748,7 @@
 * voice `SROEUS`
 * thyme `THAOEUPL`
 * that? `THA H-F`
-* lilies-of-the-valley, `HREUL/KWREU/KWREU/-S H-PB -F H-PB -T H-PB SRAL/HREU KW-BG`
+* lilies-of-the-valley, `HREUL/KWREU/KWREU/-S H-PB -F H-PB -T H-PB SRAL/KWREU KW-BG`
 * covered `KOFRD`
 * bloom? `PWHRAOPL H-F`
 * apple-tree `A*EPL H-PB TRAOE`

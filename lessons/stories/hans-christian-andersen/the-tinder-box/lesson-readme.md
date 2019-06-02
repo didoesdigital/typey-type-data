@@ -372,7 +372,7 @@
 * even `AOEPB`
 * whole `WHOEL`
 * town `TOUPB`
-* itself `T/SEF`
+* itself `*EUTS`
 * There `KPA/THR`
 * was, `WAS KW-BG`
 * indeed, `TPHAOEPBD KW-BG`
@@ -760,7 +760,7 @@
 * Oh, `KPA/O*E KW-BG`
 * disagreeable `TKEUS/TKPWRAOEBL`
 * there, `THR KW-BG`
-* "To-morrow `KR-GS KPA/TO H-PB PHOR/ROE`
+* "To-morrow `KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE`
 * hanged." `HAPBG/-D TP-PL KR-GS`
 * news, `TPHUS KW-BG`
 * besides, `PW-DZ KW-BG`

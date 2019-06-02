@@ -83,7 +83,7 @@
 * had `H`
 * no `TPHO`
 * found `TPOUPBD`
-* itself `T/SEF`
+* itself `*EUTS`
 * dying `TKAOEUG`
 * hunger, `HURPBG KW-BG`
 * while `WHAOEUL`

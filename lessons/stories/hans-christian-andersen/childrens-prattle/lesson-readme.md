@@ -50,7 +50,7 @@
 * son, `SOPB KW-BG`
 * merchant, `PHEFRPBT KW-BG`
 * managed `PHAPBGD`
-* increase `EUPB/KRAES`
+* increase `EUPB/KRAOES`
 * store. `STOR TP-PL`
 * Clever `KPA/KHREFR`
 * as `AZ`
@@ -196,7 +196,7 @@
 * could, `KO KW-BG`
 * "But `KR-GS KPA/PWUT`
 * my `PHEU`
-* papa `PA/PA`
+* papa `HRO*ER/PA/PA`
 * buy `PWAOEU`
 * hundred `HUPBD`
 * dollars' `TKHRARS AE`
@@ -210,7 +210,7 @@
 * do `TKO`
 * that?" `THA H-F KR-GS`
 * "Yes; `KR-GS KPA/KWRE STPH*FPLT`
-* papa," `PA/PA KW-BG KR-GS`
+* papa," `HRO*ER/PA/PA KW-BG KR-GS`
 * editor `OERTD`
 * paper, `PAEUP KW-BG`
 * "my `KR-GS PHEU`

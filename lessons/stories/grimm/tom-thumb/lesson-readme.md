@@ -263,7 +263,7 @@
 * 'there `AE THR`
 * along, `HRAOPBG KW-BG`
 * hear `HAER`
-* carter `KA*RT/ER`
+* Carter `KA*RT/ER`
 * talking `TAUG`
 * see `SAOE`
 * one.' `WUPB TP-PL AE`

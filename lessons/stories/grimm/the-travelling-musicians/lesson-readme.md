@@ -364,7 +364,7 @@
 * drew `TKRAOU`
 * near `TPHAOER`
 * became `PWAEUPL`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * brighter, `PWRAOEURT KW-BG`
 * till `TEUL`
 * last `HRAFT`

@@ -214,7 +214,7 @@
 * Whilst `KPA/WHAOEULS`
 * slept, `SHREPD KW-BG`
 * came `KAEUPL`
-* carter `KA*RT/ER`
+* carter `HRO*ER/KA*RT/ER`
 * cart `KART`
 * drawn `TKRAUPB`
 * three `THRAOE`
@@ -239,11 +239,12 @@
 * 'Stop! `AE KPA/STOP SKHRAPL`
 * stop! `STOP SKHRAPL`
 * Mr `PH*P/R*`
-* carter, `KA*RT/ER KW-BG`
+* Carter, `KA*RT/ER KW-BG`
 * or `OR`
 * worse `WORS`
 * you.' `U TP-PL AE`
 * But `KPA/PWUT`
+* carter, `HRO*ER/KA*RT/ER KW-BG`
 * grumbling `TKPWRUPL/-BLG`
 * himself, `H*EUPLS KW-BG`
 * 'You `AE KPA/U`
@@ -384,7 +385,7 @@
 * ill `EUL`
 * luck `HRUBG`
 * has `HAS`
-* befallen `PW*/*E/TP*/A*/HR*/HR*/*E/TPH*`
+* befallen `PWE/TPAUL/*EPB`
 * me!--my `PHE SKHRAPL H-PB H-PB PHEU`
 * is `S`
 * spilt, `SPEULT KW-BG`
@@ -415,7 +416,7 @@
 * corn, `KORPB KW-BG`
 * midst `PHEUDZ`
 * them. `THEPL TP-PL`
-* carter; `KA*RT/ER STPH*FPLT`
+* carter; `HRO*ER/KA*RT/ER STPH*FPLT`
 * almost `HR-PL`
 * gone. `TKPWOPB TP-PL`
 * 'thy `AE THAO*EU`

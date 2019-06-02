@@ -93,7 +93,7 @@ The Old Street Lamp
 'that': THA
 'on': OPB
 'the': -T
-'morrow': PHOR/ROE
+'morrow': HRO*ER/PHOR/ROE
 'she': SHE
 'will': HR
 'be': -B
@@ -387,7 +387,7 @@ The Old Street Lamp
 'the': -T
 'street,': STRAOET KW-BG
 'and': SKP
-'to-morrow': TO H-PB PHOR/ROE
+'to-morrow': TO H-PB HRO*ER/PHOR/ROE
 'he': HE
 'must': PHUFT
 'go': TKPW
@@ -1029,7 +1029,7 @@ The Old Street Lamp
 'are': R
 'going': TKPW-G
 'away': A/WAEU
-'to-morrow?': TO H-PB PHOR/ROE H-F
+'to-morrow?': TO H-PB HRO*ER/PHOR/ROE H-F
 'Is': KPA/S
 'this': TH
 'evening': AOEPBG
@@ -1747,7 +1747,7 @@ The Old Street Lamp
 'it': T
 'had': H
 'grown': TKPWROEPB
-'larger,': HRARPBLG/ER KW-BG
+'larger,': HRAERPBLG KW-BG
 'for': TPOR
 'it': T
 'appeared': A/PAOERD
@@ -2284,7 +2284,7 @@ The Old Street Lamp
 'the': -T
 'cellar.': SEL/AR TP-PL
 'The': KPA/-T
-'larger': HRARPBLG/ER
+'larger': HRAERPBLG
 'pieces': PAOEFS
 'were': WR
 'burnt,': PWURPBT KW-BG

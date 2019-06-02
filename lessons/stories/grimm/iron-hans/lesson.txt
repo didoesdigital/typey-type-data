@@ -45,7 +45,7 @@ Iron Hans
 'some': SOPL
 'accident': STKEPB
 'has': HAS
-'befallen': PW*/*E/TP*/A*/HR*/HR*/*E/TPH*
+'befallen': PWE/TPAUL/*EPB
 'him,'': HEUPL KW-BG AE
 'said': SAEUD
 'the': -T
@@ -284,7 +284,7 @@ Iron Hans
 'naked': TPHAEUBGD
 'arm': ARPL
 'stretched': STREFPD
-'itself': T/SEF
+'itself': *EUTS
 'out': OUT
 'of': -F
 'the': -T
@@ -884,7 +884,7 @@ Iron Hans
 'golden': TKPWOELD/*EPB
 'snake': STPHAEUBG
 'show': SHOE
-'itself': T/SEF
+'itself': *EUTS
 'therein,': THR-PB KW-BG
 'and': SKP
 'took': TAOBG

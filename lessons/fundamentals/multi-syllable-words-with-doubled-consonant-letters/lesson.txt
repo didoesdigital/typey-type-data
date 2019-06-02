@@ -83,7 +83,7 @@ Multi-syllable words with doubled consonant letters
 'communication': KAEUBGS
 'approach': PROEFP
 'happy': HAEP
-'valley': SRAL/HREU
+'valley': SRAL/KWREU
 'connection': KEBGS
 'wedding': WEGD
 'accommodation': ABG/TKAEUGS
@@ -134,7 +134,7 @@ Multi-syllable words with doubled consonant letters
 'attention': A/T-PBGS
 'difference': TKEUFRPBS
 'allowed': HRO*UD
-'correct': KRERBG
+'correct': KREBGT
 'selling': SELG
 'Illinois': *EUL
 'discuss': SKUS
@@ -200,7 +200,7 @@ Multi-syllable words with doubled consonant letters
 'pattern': PA*RPBT
 'classical': KHRAL
 'warranty': WAERPBT
-'harry': HAR/REU
+'Harry': HAR/REU
 'basketball': PWABGT/PWAL
 'assembly': A/SEPL/PWHREU
 'issued': *EURBD
@@ -621,7 +621,7 @@ Multi-syllable words with doubled consonant letters
 'connectivity': KEBG/T*EUFT
 'collaborative': KHRAB/TEUF
 'Madonna': PHA/TKOPB/TPHA
-'commander': KPHAPB/TKER
+'commander': KPHAPBD/*ER
 'suggestion': SUGS
 'Phillips': TPEUL/EUPS
 'mirrors': PHEUR/ORS
@@ -685,7 +685,7 @@ Multi-syllable words with doubled consonant letters
 'compressed': KPREFD
 'Powell': POUL
 'logging': HROG/-G
-'bobby': PWOB/KWREU
+'Bobby': PWOB/KWREU
 'impressive': EUPL/PREF
 'accordingly': A/KORD/TKPWHREU
 'challenging': KHAL/-G
@@ -1139,7 +1139,7 @@ Multi-syllable words with doubled consonant letters
 'dismissed': TKEUS/PHEUS/-D
 'rebellion': RE/PWEL/KWROPB
 'witnessed': W-PBS/-D
-'morrow': PHOR/ROE
+'Morrow': PHOR/ROE
 'marvellous': PHAFLS/A*U
 'cheerfully': KHAOER/TPHREU
 'stirring': STEURG
@@ -1231,7 +1231,7 @@ Multi-syllable words with doubled consonant letters
 'marrying': PHAR/REU/-G
 'sullen': SUL/-PB
 'corridor': KOR/TKOR
-'professed': PROF/ES/-D
+'professed': PRO/TPES/-D
 'breathless': PWR*ET/-LS
 'disappear': TKEUS/PAOER
 'cellar': SEL/AR
@@ -1261,7 +1261,7 @@ Multi-syllable words with doubled consonant letters
 'painfully': PAEUFL/HREU
 'shudder': SHUD/ER
 'begging': PWEG/-G
-'assented': AS/SEPBT/-D
+'assented': ASZ/EPBT/-D
 'conferred': K-FRD
 'illusion': EUL/HRAOUGS
 'ammunition': APL/AOUPBGS
@@ -1392,6 +1392,7 @@ Multi-syllable words with doubled consonant letters
 'suppress': SPRES
 'kettle': KET/*L
 'boldness': PWOLD/-PBS
+'befallen': PWE/TPAUL/*EPB
 'needless': TPHAOED/-LS
 'affectionately': A/TPEBGS/AT/HREU
 'cheerfulness': KHAOER/-FL/-PBS
@@ -1399,6 +1400,7 @@ Multi-syllable words with doubled consonant letters
 'senseless': SEPBS/-LS
 'occupying': OUPG
 'Tennyson': TEPB/SO*PB
+'accursed': A*/KR*/TK-LS/KURS/-D
 'litter': HREUT/ER
 'suggestive': SUG/EUF
 'commanders': KPHAPB/TKERS
@@ -1415,7 +1417,7 @@ Multi-syllable words with doubled consonant letters
 'rubbish': RUB/EURB
 'accents': ABG/SEPBTS
 'accidentally': STKEPBLT
-'patty': PA*T/TEU
+'Patty': PA*T/TEU
 'mentally': PHEPBT/HREU
 'oppressive': OP/PRES/EUF
 'fearless': TPAOERLS
@@ -1455,7 +1457,7 @@ Multi-syllable words with doubled consonant letters
 'speechless': SPAOEFP/-LS
 'eccentric': SKEPBT/REUBG
 'annals': APBLS
-'burroughs': PWUR/ROES
+'Burroughs': PWUR/ROES
 'correspond': KOER
 'dismiss': STKPHEUS
 'carelessness': KAEURLS/-PBS
@@ -1505,7 +1507,7 @@ Multi-syllable words with doubled consonant letters
 'prettiest': PRET/KWREFT
 'befell': PWE/TPEL
 'accompaniment': ABG/KPAEPB/*PLT
-'galley': TKPWAL/HREU
+'galley': TKPWAL/KWREU
 'smitten': SPHEUT/*EPB
 'unmarried': UPB/PHAEUR/EUD
 'unintelligible': UPB/EUPB/TEL/SKWREUBL
@@ -1547,7 +1549,7 @@ Multi-syllable words with doubled consonant letters
 'trodden': TROD/*EPB
 'caress': KA/RES
 'consummate': KOPBS/PHAT
-'commodore': KOPL/TKOR
+'Commodore': KOPL/TKOR
 'jelly': SKWREL/HREU
 'lessen': HRA*EFPB
 'mutually': PHUT/WAEL

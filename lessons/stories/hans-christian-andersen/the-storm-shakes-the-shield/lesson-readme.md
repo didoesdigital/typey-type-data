@@ -87,7 +87,7 @@
 * fro, `TPRO KW-BG`
 * on `OPB`
 * shield `SHAOELD`
-* itself `T/SEF`
+* itself `*EUTS`
 * double `TKUBL`
 * eagle `AOEG/*L`
 * displayed, `TKEUS/PHRAEUD KW-BG`
@@ -564,7 +564,7 @@
 * malice—so `PHAL/EUS EPL/TKA*RB SO`
 * neighbors `TPHAEUBS`
 * said. `SAEUD TP-PL`
-* cooper's `KAORP AES`
+* cooper's `HRO*ER/KAORP AES`
 * tub `TUB`
 * under `TPH-PB`
 * "ladies' `KR-GS HRAEUDZ AE`

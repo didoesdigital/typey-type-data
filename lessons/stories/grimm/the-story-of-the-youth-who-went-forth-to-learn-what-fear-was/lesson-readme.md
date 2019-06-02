@@ -1055,7 +1055,7 @@
 * try.' `TREU TP-PL AE`
 * dark `TKARBG`
 * passages `PA*PBLGS`
-* smith's `SPH*EUT AES`
+* Smith's `SPH*EUT AES`
 * forge, `TPORPBLG KW-BG`
 * axe, `ABGS KW-BG`
 * blow `PWHROE`

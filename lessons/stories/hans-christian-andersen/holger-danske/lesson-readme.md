@@ -136,7 +136,7 @@
 * happens `HABS`
 * Denmark. `TKEPB/PHARBG TP-PL`
 * On `KPA/OPB`
-* Christmas-eve `KREUS/PHAS H-PB AOEF`
+* Christmas-eve `KREUS/PHAS H-PB HRO*ER/AOEF`
 * angel `A*EPBLG`
 * comes `KOPLS`
 * him `HEUPL`
@@ -401,7 +401,7 @@
 * smoke, `SPHOEBG KW-BG`
 * flaming `TPHRAPLG`
 * attached `A/TAFPD`
-* itself `T/SEF`
+* itself `*EUTS`
 * breast `PWREFT`
 * Hvitfeldt `xxx Hvitfeldt`
 * form `TPORPL`

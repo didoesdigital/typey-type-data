@@ -540,7 +540,7 @@
 * life `HRAOEUF`
 * betrothed," `PWE/TRO*T/-D KW-BG KR-GS`
 * cried `KRAOEUD`
-* papa, `PA/PA KW-BG`
+* papa, `HRO*ER/PA/PA KW-BG`
 * glass `TKPWHRAS`
 * emptied `EPL/TEUD`
 * dregs, `TKREG/-S KW-BG`
@@ -645,7 +645,7 @@
 * brandy, `PWRAPBD/KWREU KW-BG`
 * wrapped `WRAPD`
 * parcel; `PAR/SEL STPH*FPLT`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * stronger `STRORPBG`
 * found. `TPOUPBD TP-PL`
 * much `PHUFP`
@@ -977,7 +977,7 @@
 * noticed `TPH-TSD`
 * drawn, `TKRAUPB KW-BG`
 * contents `KAUPBTS`
-* itself `T/SEF`
+* itself `*EUTS`
 * left `HREFT`
 * forgotten. `TPORGTD TP-PL`
 * "There's `KR-GS KPA/THR AES`

@@ -73,7 +73,7 @@ The Thorny Road of Honor
 'points': POEUPBTS
 'beyond': KWROPBD
 'the': -T
-'confines': KOPB/TPAOEUPB/-S
+'confines': KAUPB/TPAOEUPB/-S
 'of': -F
 'life': HRAOEUF
 'to': TO
@@ -178,7 +178,7 @@ The Thorny Road of Honor
 'until': TPH-L
 'the': -T
 'world': WORLD
-'itself': T/SEF
+'itself': *EUTS
 'shall': SHAL
 'pass': PAS
 'away.': A/WAEU TP-PL
@@ -365,7 +365,7 @@ The Thorny Road of Honor
 'thought': THAUT
 'for': TPOR
 'the': -T
-'morrow': PHOR/ROE
+'morrow': HRO*ER/PHOR/ROE
 'turns': TURPBS
 'his': HEUS
 'hair': HAEUR
@@ -1288,7 +1288,7 @@ The Thorny Road of Honor
 'defiance': TKE/TPAOEUPBS
 'to': TO
 'the': -T
-'elements.': HR-PLTS TP-PL
+'elements.': HREPLTS TP-PL
 'The': KPA/-T
 'man': PHAPB
 'who': WHO
@@ -1457,7 +1457,7 @@ The Thorny Road of Honor
 'to': TO
 'recognise': REZ/A*U
 'the': -T
-'manifestation': PHAPB/TPEFT/AUGS
+'manifestation': PHAPB/TPES/TAEUGS
 'of': -F
 'the': -T
 'heavenly': HEFPBL
@@ -1481,7 +1481,7 @@ The Thorny Road of Honor
 'of': -F
 'honor': HO*RPB
 'shows': SHOES
-'itself': T/SEF
+'itself': *EUTS
 'as': AZ
 'a': AEU
 'glory,': TKPWHROER KW-BG

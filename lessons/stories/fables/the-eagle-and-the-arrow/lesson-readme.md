@@ -17,7 +17,7 @@
 * Arrow, `KPA/AR/OE KW-BG`
 * and `SKP`
 * felt `TPELT`
-* itself `T/SEF`
+* itself `*EUTS`
 * wounded `WOUPBD/-D`
 * to `TO`
 * death. `TK*T TP-PL`

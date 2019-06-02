@@ -946,7 +946,7 @@
 * tower, `TOUR KW-BG`
 * bramble `PWRAPL/-BL`
 * twined `TWEUPB/-D`
-* itself `T/SEF`
+* itself `*EUTS`
 * altar, `AL/TAR KW-BG`
 * washed `WARBD`
 * rain, `RAEUPB KW-BG`

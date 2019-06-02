@@ -39,7 +39,7 @@
 * some `SOPL`
 * accident `STKEPB`
 * has `HAS`
-* befallen `PW*/*E/TP*/A*/HR*/HR*/*E/TPH*`
+* befallen `PWE/TPAUL/*EPB`
 * him,' `HEUPL KW-BG AE`
 * said `SAEUD`
 * the `-T`
@@ -173,7 +173,7 @@
 * naked `TPHAEUBGD`
 * arm `ARPL`
 * stretched `STREFPD`
-* itself `T/SEF`
+* itself `*EUTS`
 * water, `WAUR KW-BG`
 * seized `SAOEZ/-D`
 * drew `TKRAOU`

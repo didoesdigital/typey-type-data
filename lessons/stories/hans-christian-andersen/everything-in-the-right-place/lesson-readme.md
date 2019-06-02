@@ -701,7 +701,7 @@
 * "he `KR-GS HE`
 * kept `KEPT`
 * geese. `TKPWAOES TP-PL`
-* papa `PA/PA`
+* papa `HRO*ER/PA/PA`
 * mamma." `PHAPL/PHA TP-PL KR-GS`
 * "everything `KR-GS EFRG`
 * place." `PHRAEUS TP-PL KR-GS`
@@ -734,7 +734,7 @@
 * hear `HAER`
 * pastor's `PAS/TOR AES`
 * speak `SPAOEBG`
-* elements `HR-PLTS`
+* elements `HREPLTS`
 * men `PHEPB`
 * women `WEUPL`
 * history. `HEUFRT TP-PL`

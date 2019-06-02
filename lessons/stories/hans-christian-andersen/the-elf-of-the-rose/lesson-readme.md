@@ -249,7 +249,7 @@
 * pressed `PREFD`
 * kiss `KEUS`
 * upon `POPB`
-* fervently `TPER/SREPBT/HREU`
+* fervently `TPEFRB/EPBT/HREU`
 * opened. `OEPD TP-PL`
 * in, `TPH KW-BG`
 * leaned `HRAOEPBD`

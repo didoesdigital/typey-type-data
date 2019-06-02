@@ -530,7 +530,7 @@
 * give `TKPWEUF`
 * permission `PERPLGS`
 * me `PHE`
-* to-morrow `TO H-PB PHOR/ROE`
+* to-morrow `TO H-PB HRO*ER/PHOR/ROE`
 * marshes. `PHAR/-RBS TP-PL`
 * superior `SPOEUR`
 * families, `TPAEPLS KW-BG`
@@ -592,7 +592,7 @@
 * should `SHO`
 * revenged, `RE/SREPB/-PBLGD KW-BG`
 * until `TPH-L`
-* departure. `TKPAR/KHUR TP-PL`
+* departure. `TKPART/AOUR TP-PL`
 * acquit `A/KWEUT`
 * grand `TKPWRAPBD`
 * review," `RE/SRAOU KW-BG KR-GS`
@@ -622,7 +622,7 @@
 * together `TOGT`
 * before `PW-F`
 * taking `TAEUG`
-* departure `TKPAR/KHUR`
+* departure `TKPART/AOUR`
 * during `TKURG`
 * winter. `WEURPBT TP-PL`
 * commenced. `KPHEPBS/-D TP-PL`
@@ -676,7 +676,7 @@
 * dead `TKED`
 * has `HAS`
 * dreamed `TKREPLD`
-* itself `T/SEF`
+* itself `*EUTS`
 * death," `TK*T KW-BG KR-GS`
 * him `HEUPL`
 * brother. `PWROER TP-PL`

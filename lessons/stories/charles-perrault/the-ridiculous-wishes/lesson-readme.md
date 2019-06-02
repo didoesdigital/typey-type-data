@@ -234,7 +234,7 @@
 * told `TOLD`
 * her `HER`
 * story `STOER`
-* befallen `PW*/*E/TP*/A*/HR*/HR*/*E/TPH*`
+* befallen `PWE/TPAUL/*EPB`
 * that `THA`
 * day. `TKAEU TP-PL`
 * whose `WHOZ`
@@ -266,7 +266,7 @@
 * counsel `KOUPB`
 * night, `TPHAOEUT KW-BG`
 * until `TPH-L`
-* to-morrow." `TO H-PB PHOR/ROE TP-PL KR-GS`
+* to-morrow." `TO H-PB HRO*ER/PHOR/ROE TP-PL KR-GS`
 * "That `KR-GS KPA/THA`
 * spoken," `SPOEPB KW-BG KR-GS`
 * Harry. `HAR/REU TP-PL`
@@ -435,7 +435,7 @@
 * truth `TRAO*UT`
 * tell, `TEL KW-BG`
 * new `TPHU`
-* ornament `ORPB/APLT`
+* ornament `ORPB/*PLT`
 * did `TK`
 * off `OF`
 * beauty. `PWAOUT TP-PL`

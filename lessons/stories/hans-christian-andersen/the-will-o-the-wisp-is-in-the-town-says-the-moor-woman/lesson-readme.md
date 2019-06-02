@@ -158,7 +158,7 @@
 * charming, `KHARPL/-G KW-BG`
 * like `HRAOEUBG`
 * spring `SPREUPBG`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * as `AZ`
 * beautiful `PWAOUFL`
 * maiden, `PHAEUD/*EPB KW-BG`
@@ -270,7 +270,7 @@
 * knows? `TPHOEZ H-F`
 * Perhaps `KPA/PRAPS`
 * has `HAS`
-* itself `T/SEF`
+* itself `*EUTS`
 * straw `STRAU`
 * balances `PWALS`
 * on `OPB`
@@ -756,7 +756,7 @@
 * half `HAF`
 * beer `PWAOER`
 * brew `PWRAOU`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * weather `WHR*`
 * suitable. `SAOUT/-BL TP-PL`
 * Well, `KPA/WEL KW-BG`
@@ -1262,7 +1262,7 @@
 * led `HRED`
 * truth `TRAO*UT`
 * noble, `TPHOEBL KW-BG`
-* condemned `KOPB/TKEPL/-D`
+* condemned `KAUPB/TKEPL/-D`
 * imprisoned `EUPL/PREUS/OPBD`
 * decayed `TKAOE/KAEUD`
 * wood, `WAOD KW-BG`

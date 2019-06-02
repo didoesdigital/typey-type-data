@@ -349,7 +349,7 @@
 * evening `AOEPBG`
 * sunset. `SAUPB/SET TP-PL`
 * entwined `EPB/TWAOEUPB/-D`
-* itself `T/SEF`
+* itself `*EUTS`
 * dreams—for `TKRAOEPLS EPL/TKA*RB TPOR`
 * bloomed, `PWHRAOPL/-D KW-BG`
 * spread `SPRED`

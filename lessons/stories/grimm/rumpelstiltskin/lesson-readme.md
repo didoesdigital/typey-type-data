@@ -135,7 +135,7 @@
 * hobbled `HOB/-LD`
 * in, `TPH KW-BG`
 * 'Good `AE KPA/TKPWAOD`
-* morrow `PHOR/ROE`
+* morrow `HRO*ER/PHOR/ROE`
 * you, `U KW-BG`
 * my `PHEU`
 * good `TKPWAOD`
@@ -238,7 +238,7 @@
 * treasure; `TRERB STPH*FPLT`
 * enough: `TPHUF STPH-FPLT`
 * yet `KWRET`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * heap, `HAOEP KW-BG`
 * tonight; `TOPBT STPH*FPLT`
 * if `TP`

@@ -15,7 +15,7 @@
 * ox-stall, `O*BGS H-PB STAUL KW-BG`
 * and `SKP`
 * buried `PWUR/EUD`
-* itself `T/SEF`
+* itself `*EUTS`
 * in `TPH`
 * a `AEU`
 * truss `TRUS`

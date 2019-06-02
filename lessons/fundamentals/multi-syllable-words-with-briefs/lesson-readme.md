@@ -72,7 +72,7 @@
 * Virginia `SRA*`
 * almost `HR-PL`
 * multiple `PH-PL`
-* distribution `TKR-GSZ`
+* distribution `TKR-BGS`
 * idea `KWR-D`
 * reason `R-PB`
 * ready `R-D`
@@ -233,7 +233,7 @@
 * wordpress `W-P`
 * railroad `R-RD`
 * lectures `HR-FPS`
-* distribute `TK-BT`
+* distribute `TKR-BT`
 * injured `SKWR-RD`
 * thereby `THR-B`
 * contributing `KR-BGT`

@@ -290,7 +290,7 @@
 * care `KAEUR`
 * never `TPHEFR`
 * play `PHRAEU`
-* lest `HR*ES`
+* lest `HRES/*T`
 * hurt `HURT`
 * them." `THEPL TP-PL KR-GS`
 * children, `KHEURPB KW-BG`

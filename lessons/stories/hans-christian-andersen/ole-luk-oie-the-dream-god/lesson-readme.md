@@ -263,7 +263,7 @@
 * sum, `SUPL KW-BG`
 * almost `HR-PL`
 * broken `PWROEPB`
-* itself `T/SEF`
+* itself `*EUTS`
 * pieces. `PAOEFS TP-PL`
 * pencil `PEPB/SEUL`
 * pulled `PULD`
@@ -369,7 +369,7 @@
 * chatter, `KHAT/ER KW-BG`
 * article `ARL`
 * talked `TAUBGD`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`
 * Over `KPA/OEFR`
 * chest `KHEFT`
 * drawers `TKRAURS`
@@ -791,7 +791,7 @@
 * turned `TURPBD`
 * scarlet `SKARLT`
 * head. `HED TP-PL`
-* "To-morrow `KR-GS KPA/TO H-PB PHOR/ROE`
+* "To-morrow `KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE`
 * soup," `SOUP KW-BG KR-GS`
 * fowls; `TPO*UL/-S STPH*FPLT`
 * awoke, `A/WOEBG KW-BG`
@@ -1219,7 +1219,7 @@
 * Chinamen `KWHRAOEUPB/PH*EPB`
 * nodding `TPHOD/-G`
 * heads. `HEDZ TP-PL`
-* to-morrow `TO H-PB PHOR/ROE`
+* to-morrow `TO H-PB HRO*ER/PHOR/ROE`
 * morning," `PHORPBG KW-BG KR-GS`
 * holiday, `HOL/TKEU KW-BG`
 * Sunday. `SUPBD TP-PL`

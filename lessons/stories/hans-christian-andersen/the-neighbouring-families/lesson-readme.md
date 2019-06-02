@@ -425,7 +425,7 @@
 * world, `WORLD KW-BG`
 * ever. `-FR TP-PL`
 * singing `SEUPBG/-G`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * might `PHAOEUT`
 * easily `AOELS`
 * believed; `PWHREFD STPH*FPLT`
@@ -752,7 +752,7 @@
 * own?" `OEPB H-F KR-GS`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * won't `WOEPBT`
-* increase `EUPB/KRAES`
+* increase `EUPB/KRAOES`
 * household `HOUS/HOLD`
 * children,"' `KHEURPB KW-BG KR-GS AE`
 * smallest. `SPHAUL/EFT TP-PL`
@@ -1037,7 +1037,7 @@
 * something. `S-G TP-PL`
 * Do `KPA/TKO`
 * it? `T H-F`
-* don't." `TKO*PB AE T* TP-PL KR-GS`
+* don't." `HRO*ER/TKO*PB AE T* TP-PL KR-GS`
 * away, `A/WAEU KW-BG`
 * Days `KPA/TKAEUS`
 * years `KWRAOERS`
@@ -1103,7 +1103,7 @@
 * shines!" `SHAOEUPBS SKHRAPL KR-GS`
 * maiden `PHAEUD/*EPB`
 * suppose `SPOS`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * peacock." `PAE/KOBG TP-PL KR-GS`
 * remembered `RERD`
 * childhood's `KHAOEULD/H*D AES`

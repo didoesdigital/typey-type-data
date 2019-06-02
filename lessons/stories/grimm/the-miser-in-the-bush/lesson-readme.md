@@ -109,7 +109,7 @@
 * roaming `ROEPLG`
 * over `OEFR`
 * hill `HEUL`
-* valley. `SRAL/HREU TP-PL`
+* valley. `SRAL/KWREU TP-PL`
 * As `KPA/AZ`
 * jogged `SKWROGD`
 * along `HRAOPBG`

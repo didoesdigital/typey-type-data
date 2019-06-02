@@ -703,7 +703,7 @@
 * death `TK*T`
 * everywhere `WEFR`
 * shewed `S*/H*/*E/W*/-D`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * stretched `STREFPD`
 * bodies `PWOEDZ`
 * men `PHEPB`
@@ -997,7 +997,7 @@
 * mind `PHAOEUPBD`
 * Aurora `AU/ROE/RA`
 * dinner `TKEURPB`
-* morrow." `PHOR/ROE TP-PL KR-GS`
+* morrow." `HRO*ER/PHOR/ROE TP-PL KR-GS`
 * "Ah! `KR-GS KPA/HA*E SKHRAPL`
 * Madam," `PHA*D/APL KW-BG KR-GS`
 * kitchen. `K-FP TP-PL`

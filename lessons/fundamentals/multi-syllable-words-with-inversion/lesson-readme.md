@@ -149,7 +149,6 @@
 * beware `PWE/WAEUR`
 * dismiss `STKPHEUS`
 * distorted `STKORTD`
-* ornamental `ORPB/-PLT/A*L`
 * bewilderment `PWE/WEULD/ERPLT`
 * taller `TAURL`
 * vehemently `SRAOEPLT/HREU`

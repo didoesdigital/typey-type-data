@@ -104,7 +104,7 @@
 * Her `KPA/HER`
 * Puggie `xxx Puggie`
 * seated `SAOETD`
-* itself `T/SEF`
+* itself `*EUTS`
 * on `OPB`
 * ground `TKPWROUPBD`
 * while `WHAOEUL`

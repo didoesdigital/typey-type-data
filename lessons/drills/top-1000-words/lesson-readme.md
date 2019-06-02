@@ -333,7 +333,7 @@
 * English `TKPWHREURB`
 * open `OEP`
 * body `PWO*ED`
-* itself `T/SEF`
+* itself `*EUTS`
 * along `HRAOPBG`
 * land `HRAPBD`
 * return `RURPB`

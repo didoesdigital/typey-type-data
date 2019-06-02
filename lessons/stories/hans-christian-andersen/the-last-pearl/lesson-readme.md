@@ -437,7 +437,7 @@
 * tear `TAER`
 * lap, `HRAP KW-BG`
 * formed `TPORPLD`
-* itself `T/SEF`
+* itself `*EUTS`
 * pearl, `PERL KW-BG`
 * glowing `TKPWHROEG`
 * colors `KHRORS`

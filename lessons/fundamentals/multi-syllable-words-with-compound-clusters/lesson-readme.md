@@ -54,6 +54,7 @@
 * Christian `KREUGS`
 * option `OPGS`
 * connection `KEBGS`
+* larger `HRAERPBLG`
 * introduction `TROUGS`
 * operation `OERPGS`
 * technologies `TOPBLGS`
@@ -382,6 +383,7 @@
 * apology `POLG`
 * ridicule `REULG`
 * interruption `SPWRUPGS`
+* settling `SELGT`
 * Prussian `PRUGS`
 * swelling `SWELG`
 * sanction `SAPBGS`

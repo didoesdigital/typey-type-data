@@ -411,7 +411,7 @@
 * cried `KRAOEUD`
 * you, `U KW-BG`
 * afraid `A/TPRAEUD`
-* lest `HR*ES`
+* lest `HRES/*T`
 * drowned `TKROUPBD`
 * lying `HRAOEUG`
 * bottom `PWOPLT`

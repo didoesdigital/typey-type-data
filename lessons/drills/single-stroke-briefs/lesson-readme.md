@@ -1474,7 +1474,7 @@
 * corps `KOERP`
 * corpse `KORPS`
 * corral `KRAL`
-* correct `KRERBG`
+* correct `KREBGT`
 * correction `KREBGS`
 * correspond `KOER`
 * correspondence `KOERPBS`
@@ -1993,9 +1993,9 @@
 * distract `STKRABGT`
 * distraction `STKRABGS`
 * distress `STKRES`
-* distribute `TK-BT`
+* distribute `TKR-BT`
 * distributed `TKR-BTD`
-* distribution `TKR-GSZ`
+* distribution `TKR-BGS`
 * district `TR-T`
 * disturb `TKURB`
 * disturbance `TKURPBS`

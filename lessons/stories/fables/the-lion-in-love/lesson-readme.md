@@ -61,7 +61,7 @@
 * we `WE`
 * fear `TPAOER`
 * that `THA`
-* vehemence `SRAOE/HEPLS`
+* vehemence `SRAOEPL/EPBS`
 * affection `A*FBGS`
 * might `PHAOEUT`
 * possibly `POBL`

@@ -59,7 +59,7 @@
 * often `OFPB`
 * points `POEUPBTS`
 * beyond `KWROPBD`
-* confines `KOPB/TPAOEUPB/-S`
+* confines `KAUPB/TPAOEUPB/-S`
 * life `HRAOEUF`
 * regions `RAOE/SKWROPBS`
 * eternity. `AOE/TERPBT TP-PL`
@@ -125,7 +125,7 @@
 * new `TPHU`
 * members `PHEPLS`
 * until `TPH-L`
-* itself `T/SEF`
+* itself `*EUTS`
 * shall `SHAL`
 * pass `PAS`
 * away. `A/WAEU TP-PL`
@@ -235,7 +235,7 @@
 * recites `RAOE/SAOEUTS`
 * verses `SRERSZ`
 * livelihood; `HRAOFD STPH*FPLT`
-* morrow `PHOR/ROE`
+* morrow `HRO*ER/PHOR/ROE`
 * turns `TURPBS`
 * hair `HAEUR`
 * gray! `TKPWRAEU SKHRAPL`
@@ -673,7 +673,7 @@
 * weather, `WHR* KW-BG`
 * bidding `PWEUD/-G`
 * defiance `TKE/TPAOEUPBS`
-* elements. `HR-PLTS TP-PL`
+* elements. `HREPLTS TP-PL`
 * thinks `THEUS`
 * solve `SOF`
 * problem `PRO*B`
@@ -753,7 +753,7 @@
 * harmony—the `HAR/PHOEPB EPL/TKA*RB -T`
 * seem `SAOEPL`
 * recognise `REZ/A*U`
-* manifestation `PHAPB/TPEFT/AUGS`
+* manifestation `PHAPB/TPES/TAEUGS`
 * heavenly `HEFPBL`
 * grace `TKPWRAEUS`
 * man, `PHAPB KW-BG`

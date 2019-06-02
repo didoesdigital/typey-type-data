@@ -148,7 +148,7 @@
 * goose, `TKPWAOS KW-BG`
 * for `TPOR`
 * New-year's `KPA/TPHU H-PB KWRAOER AES`
-* eve—yes, `AOEF EPL/TKA*RB KWRE KW-BG`
+* eve—yes, `HRO*ER/AOEF EPL/TKA*RB KWRE KW-BG`
 * remembered `RERD`
 * that. `THA TP-PL`
 * corner, `KRORPB KW-BG`
@@ -245,7 +245,7 @@
 * stove, `STOF KW-BG`
 * polished `POL/EURBD`
 * brass `PWRAS`
-* ornament. `ORPB/APLT TP-PL`
+* ornament. `ORPB/*PLT TP-PL`
 * How `KPA/HOU`
 * fire `TPAOEUR`
 * burned! `PWURPBD SKHRAPL`
@@ -318,7 +318,7 @@
 * found `TPOUPBD`
 * beautiful `PWAOUFL`
 * Christmas-tree. `KREUS/PHAS H-PB TRAOE TP-PL`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * decorated `TKEBG/RAEUT/-D`
 * than `THAPB`
 * seen `SAOEPB`

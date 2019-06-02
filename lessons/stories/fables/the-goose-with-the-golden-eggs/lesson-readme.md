@@ -77,4 +77,4 @@
 * oft `O*FT`
 * o'er `OE/*ER`
 * reaches `RAOEFPS`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`

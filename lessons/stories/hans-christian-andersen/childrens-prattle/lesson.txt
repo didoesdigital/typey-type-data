@@ -69,7 +69,7 @@ Children's Prattle
 'had': H
 'managed': PHAPBGD
 'to': TO
-'increase': EUPB/KRAES
+'increase': EUPB/KRAOES
 'his': HEUS
 'store.': STOR TP-PL
 'Clever': KPA/KHREFR
@@ -372,7 +372,7 @@ Children's Prattle
 'could,': KO KW-BG
 '"But': KR-GS KPA/PWUT
 'my': PHEU
-'papa': PA/PA
+'papa': HRO*ER/PA/PA
 'can': K
 'buy': PWAOEU
 'a': AEU
@@ -389,13 +389,13 @@ Children's Prattle
 'children.': KHEURPB TP-PL
 'Can': KPA/K
 'your': KWROUR
-'papa': PA/PA
+'papa': HRO*ER/PA/PA
 'do': TKO
 'that?"': THA H-F KR-GS
 '"Yes;': KR-GS KPA/KWRE STPH*FPLT
 'and': SKP
 'my': PHEU
-'papa,"': PA/PA KW-BG KR-GS
+'papa,"': HRO*ER/PA/PA KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'little': HREUL
@@ -407,14 +407,14 @@ Children's Prattle
 'a': AEU
 'paper,': PAEUP KW-BG
 '"my': KR-GS PHEU
-'papa': PA/PA
+'papa': HRO*ER/PA/PA
 'can': K
 'put': PUT
 'your': KWROUR
-'papa': PA/PA
+'papa': HRO*ER/PA/PA
 'and': SKP
 'everybody's': EFRB AES
-'papa': PA/PA
+'papa': HRO*ER/PA/PA
 'into': TPHAO
 'the': -T
 'newspaper.': TPHUP TP-PL

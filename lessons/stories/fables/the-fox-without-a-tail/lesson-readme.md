@@ -112,7 +112,7 @@
 * dispense `TKES/PEPBS`
 * our `OUR`
 * chief `KHAOEF`
-* ornament `ORPB/APLT`
+* ornament `ORPB/*PLT`
 * if `TP`
 * lose `HRUZ`
 * yourself." `KWRO*URS TP-PL KR-GS`

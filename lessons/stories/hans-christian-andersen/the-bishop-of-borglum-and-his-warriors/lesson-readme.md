@@ -80,7 +80,7 @@
 * its `EUTS`
 * wings `WEUPBGS`
 * (the `PREPB -T`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * one) `WUPB PR*EPB`
 * there `THR`
 * still `STEUL`
@@ -630,7 +630,7 @@
 * prays `PRAEU/-S`
 * meet `PHAOET`
 * Christmas `KREUS/PHAS`
-* eve, `AOEF KW-BG`
+* eve, `HRO*ER/AOEF KW-BG`
 * mass, `PHAS KW-BG`
 * Widberg. `xxx Widberg TP-PL`
 * himself `H*EUPLS`
@@ -941,7 +941,7 @@
 * pit `PEUT`
 * devour `TKE/SROUR`
 * lives, `HREUFS KW-BG`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * perhaps, `PRAPS KW-BG`
 * glassy `TKPWHRAS/SEU`
 * mirror—even `PHROR EPL/TKA*RB AOEPB`

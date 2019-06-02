@@ -548,7 +548,7 @@
 * nowhere `TPHO/WR`
 * way; `WAEU STPH*FPLT`
 * 'There, `AE KPA/THR KW-BG`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * watch `WAFP`
 * carefully `KA*EUFL`
 * please.' `PHRES TP-PL AE`
@@ -643,7 +643,7 @@
 * still `STEUL`
 * whispered `WHEUS/PERD`
 * 'Pray `AE KPA/PRAEU`
-* don't,' `TKO*PB AE T* KW-BG AE`
+* don't,' `HRO*ER/TKO*PB AE T* KW-BG AE`
 * that,' `THA KW-BG AE`
 * 'go `AE TKPW`
 * must.' `PHUFT TP-PL AE`
@@ -653,7 +653,7 @@
 * dew `TKAO*U`
 * is!' `S SKHRAPL AE`
 * Catherine's `KA*T/REUPB AES`
-* itself `T/SEF`
+* itself `*EUTS`
 * time: `TAOEUPL STPH-FPLT`
 * whispered, `WHEUS/PERD KW-BG`
 * soon.' `SAOPB TP-PL AE`

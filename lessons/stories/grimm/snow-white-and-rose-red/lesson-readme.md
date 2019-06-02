@@ -474,7 +474,7 @@
 * daylight `TKAEULT`
 * again.' `TKPWEPB TP-PL AE`
 * sorry `SOER`
-* departure, `TKPAR/KHUR KW-BG`
+* departure, `TKPART/AOUR KW-BG`
 * unbolted `UPB/PWOELT/-D`
 * hurrying `HUR/REU/-G`
 * caught `KAUT`
@@ -602,7 +602,7 @@
 * me; `PHE STPH*FPLT`
 * think `THEU`
 * better?' `PWOERT H-F AE`
-* 'don't `AE TKO*PB AE T*`
+* 'Don't `AE TKO*PB AE T*`
 * impatient,' `EUPL/PAEURBT KW-BG AE`
 * you,' `U KW-BG AE`
 * pulled `PULD`
@@ -651,7 +651,8 @@
 * such `SUFP`
 * fool!' `TPAOL SKHRAPL AE`
 * cried `KRAOEUD`
-* accursed `A*/KR*/KR*/*U/R*/S*/*E/TK*`
+* 'don't `A*E/TKOEPBT`
+* accursed `A*/KR*/TK-LS/KURS/-D`
 * fish `TPEURB`
 * wants `WAPBTS`
 * in?' `TPH H-F AE`

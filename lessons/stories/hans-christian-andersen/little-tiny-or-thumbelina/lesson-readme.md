@@ -670,7 +670,7 @@
 * house `HOUS`
 * twenty `TWEPBT`
 * times `TAOEUPLS`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * mine," `PHAOEUPB KW-BG KR-GS`
 * field-mouse. `TPAOELD H-PB PHOUS TP-PL`
 * doubt, `TKOUT KW-BG`

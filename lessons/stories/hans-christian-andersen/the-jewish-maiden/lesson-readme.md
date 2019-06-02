@@ -298,7 +298,7 @@
 * kitchen, `K-FP KW-BG`
 * till `TEUL`
 * place `PHRAEUS`
-* itself `T/SEF`
+* itself `*EUTS`
 * sacred `SKRED`
 * would `WO`
 * Old `KPA/OLD`
@@ -382,7 +382,7 @@
 * sums `SUPLZ`
 * make `PHAEUBG`
 * ransom `RAPB/SPH`
-* demanded `TKPAPBD/-D`
+* demanded `TKPHAPBD/-D`
 * release, `RE/HRAOEZ KW-BG`
 * enormously `TPHORPLS/HREU`
 * high. `HAOEU TP-PL`

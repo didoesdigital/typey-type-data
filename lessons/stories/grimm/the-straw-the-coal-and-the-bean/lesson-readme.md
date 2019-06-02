@@ -146,7 +146,7 @@
 * keep `KAOEP`
 * good `TKPWAOD`
 * companions, `KPAPB/KWROPBS KW-BG`
-* lest `HR*ES`
+* lest `HRES/*T`
 * new `TPHU`
 * mischance `PHEUZ/KHAPBS`
 * overtake `AUFR/TAEUBG`
@@ -195,7 +195,7 @@
 * bridge.' `PWREUPBLG TP-PL AE`
 * therefore `TH-FR`
 * stretched `STREFPD`
-* itself `T/SEF`
+* itself `*EUTS`
 * bank `PWA*PBG`
 * other, `OER KW-BG`
 * coal, `KOEL KW-BG`

@@ -378,7 +378,7 @@
 * resting `REFT/-G`
 * which `WEU`
 * performed `PORPLD`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * putting `PUGT`
 * In `KPA/TPH`
 * earlier `RERL`
@@ -803,7 +803,7 @@
 * "Magic `KR-GS KPA/PHAPBLG/EUBG`
 * Flute;" `KPA/TPHRAOUT STPH*FPLT KR-GS`
 * grew `TKPWRAOU`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * represent `REPT`
 * fore-feet `TPO*ER H-PB TPAOET`
 * lion. `HRO*EUPB TP-PL`
@@ -832,7 +832,7 @@
 * meaning. `PHAOEPBG TP-PL`
 * asked, `SK-D KW-BG`
 * "What `KR-GS KPA/WHA`
-* to-morrow?" `TO H-PB PHOR/ROE H-F KR-GS`
+* to-morrow?" `TO H-PB HRO*ER/PHOR/ROE H-F KR-GS`
 * death `TK*T`
 * left `HREFT`
 * dollars. `TKHRARS TP-PL`

@@ -146,7 +146,7 @@
 * time `TAOEUPL`
 * came `KAEUPL`
 * deep `TKAOEP`
-* valley, `SRAL/HREU KW-BG`
+* valley, `SRAL/KWREU KW-BG`
 * overhung `AUFR/HUPBG`
 * rocks `ROBGS`
 * woods; `WAODZ STPH*FPLT`

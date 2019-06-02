@@ -678,7 +678,7 @@
 * materials, `TAOERLS KW-BG`
 * hands `HAPBDZ`
 * conducted `KUBGTD`
-* honourable `HO*UPB/RABL`
+* honourable `HOPB/RABL/A*U`
 * seat, `SAOET KW-BG`
 * afterwards `A*FRDZ`
 * dance `TKAPBS`

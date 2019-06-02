@@ -715,7 +715,7 @@
 * relieve `RE/HREF`
 * heart `HART`
 * telling `TELG`
-* lest `HR*ES`
+* lest `HRES/*T`
 * latter `HRAERT`
 * should `SHO`
 * think `THEU`
@@ -1046,7 +1046,7 @@
 * lonely `HROPBL`
 * wanderer, `WAPBD/RER KW-BG`
 * attach `A/TAFP`
-* itself `T/SEF`
+* itself `*EUTS`
 * demand `TKPHAPBD`
 * churchyard, `KH*URPBLG/KWRARD KW-BG`
 * rest `REFT`

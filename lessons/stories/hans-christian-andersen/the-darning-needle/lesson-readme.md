@@ -31,7 +31,7 @@
 * took `TAOBG`
 * her `HER`
 * up, `UP KW-BG`
-* "don't `KR-GS TKO*PB AE T*`
+* "don't `KW-GS/TKOEPBT`
 * let `HRET`
 * fall; `TPAUL STPH*FPLT`
 * if `TP`
@@ -272,7 +272,7 @@
 * ago, `AG KW-BG`
 * yet `KWRET`
 * gives `TKPWEUFS`
-* itself `T/SEF`
+* itself `*EUTS`
 * airs. `AEUR/-S TP-PL`
 * sit `SEUT`
 * patiently `PAEURBLT`

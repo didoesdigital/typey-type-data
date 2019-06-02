@@ -547,7 +547,7 @@
 * really `R-L`
 * sounding, `SOUPBD/-G KW-BG`
 * air `AEUR`
-* itself `T/SEF`
+* itself `*EUTS`
 * sends `SEPBDZ`
 * notes; `TPHOETS STPH*FPLT`
 * us `US`

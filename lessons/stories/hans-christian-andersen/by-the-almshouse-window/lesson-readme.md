@@ -68,7 +68,7 @@
 * life `HRAOEUF`
 * drama `TKRA/PHA`
 * unfolding `UPB/TPOELGD`
-* itself `T/SEF`
+* itself `*EUTS`
 * before `PW-F`
 * her `HER`
 * inward `EUPB/WARD`
@@ -246,7 +246,7 @@
 * cut `KUT`
 * down `TKOUPB`
 * thee `THAOE`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * dress! `TKRES SKHRAPL`
 * You `KPA/U`
 * also `HR-S`

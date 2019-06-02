@@ -424,7 +424,7 @@
 * beauty `PWAOUT`
 * everywhere `WEFR`
 * showed `SHOED`
-* itself; `T/SEF STPH*FPLT`
+* itself; `*EUTS STPH*FPLT`
 * went `WEPBT`
 * step `STEP`
 * other, `OER KW-BG`
@@ -435,7 +435,7 @@
 * another; `TPHOER STPH*FPLT`
 * there `THR`
 * fixed `TPEUFD`
-* itself `T/SEF`
+* itself `*EUTS`
 * boy's `PWOEU AES`
 * memory, `PHOEURPL KW-BG`
 * more `PHOR`
@@ -1443,7 +1443,7 @@
 * using `AOUFG`
 * model. `PHOLD TP-PL`
 * proved; `PROFD STPH*FPLT`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * greater `TKPWRAERT`
 * proof `PRAOF`
 * talent. `THREPBT TP-PL`

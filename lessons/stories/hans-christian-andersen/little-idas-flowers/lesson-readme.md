@@ -126,7 +126,7 @@
 * "little `KR-GS HREUL`
 * daisies `TKAEUS/KWREU/-S`
 * lilies `HREUL/KWREU/KWREU/-S`
-* valley." `SRAL/HREU TP-PL KR-GS`
+* valley." `SRAL/KWREU TP-PL KR-GS`
 * "Where `KR-GS KPA/W-R`
 * beautiful `PWAOUFL`
 * "Have `KR-GS KPA/SR`
@@ -730,7 +730,7 @@
 * once `WUPBS`
 * rode `ROED`
 * grow `TKPWROE`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * taller, `TAURL KW-BG`
 * paper `PAEUP`
 * things `THEUPBGS`
@@ -827,7 +827,7 @@
 * "We `KR-GS KPA/WE`
 * live `HREUF`
 * long. `HROPBG TP-PL`
-* To-morrow `KPA/TO H-PB PHOR/ROE`
+* To-morrow `KPA/TO H-PB HRO*ER/PHOR/ROE`
 * we `WE`
 * shall `SHAL`
 * dead; `TKED STPH*FPLT`
@@ -877,7 +877,7 @@
 * violets, `SROEULT/-S KW-BG`
 * heart's-ease, `HART AE S* H-PB AOES KW-BG`
 * daisies, `TKAEUS/KWREU/-S KW-BG`
-* valley, `SRAL/HREU KW-BG`
+* valley, `SRAL/KWREU KW-BG`
 * together, `TOGT KW-BG`
 * other. `OER TP-PL`
 * behold. `PWE/HOLD TP-PL`

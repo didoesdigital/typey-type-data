@@ -58,7 +58,7 @@ Multi-syllable words with multiple strokes
 'along': HRAOPBG
 'yellow': KWREL/OE
 'political': PHREU/K-L
-'increase': EUPB/KRAES
+'increase': EUPB/KRAOES
 'kingdom': KEUPBG/TKOPL
 'Japan': SKWRA/PAPB
 'Africa': AFR/KA
@@ -86,7 +86,7 @@ Multi-syllable words with multiple strokes
 'Mexico': PHEBGS/KO
 'navigation': TPHAF/TKPWAEUGS
 'operations': PRAEUGS/-S
-'valley': SRAL/HREU
+'valley': SRAL/KWREU
 'rentals': REPBT/ALS
 'publications': PUB/KAEUGS/-S
 'worldwide': WORLD/WAOEUD
@@ -138,14 +138,14 @@ Multi-syllable words with multiple strokes
 'Boston': POS/TO*PB
 'incest': EUPB/SEFT
 'keywords': KAOE/WORD/-S
-'itself': T/SEF
+'itself': *EUTS
 'defined': TKE/TPAOEUPBD
 'awards': A/WARDZ
 'virtual': SREURT/WAL
 'answers': AEPBS/-S
 'instructions': EUPB/STRUBGS/-S
 'remove': RE/PHOF
-'martin': PHART/EUPB
+'Martin': PHART/EUPB
 'manual': PHAPB/WAL
 'increased': EUPB/KRAOEFD
 'beginning': TKPWEUPB/-G
@@ -258,7 +258,7 @@ Multi-syllable words with multiple strokes
 'sponsor': SPOPB/SOR
 'icon': AOEU/KOPB
 'dedicated': TKED/KAEUTD
-'harry': HAR/REU
+'Harry': HAR/REU
 'basketball': PWABGT/PWAL
 'assembly': A/SEPL/PWHREU
 'nuclear': TPHAOU/KHRAR
@@ -526,11 +526,11 @@ Multi-syllable words with multiple strokes
 'labour': HRAEU/PWOUR
 'terminal': TERPL/TPHAL
 'Caribbean': KAR/PWAOEPB
-'salary': SAL/RE
+'salary': SAL/REU
 'gourmet': TKPWOR/PHAEU
 'Orleans': AUR/HRAOEPB/-S
 'remaining': RE/PHAEPBG
-'empire': EPL/AOEUR
+'empire': EPL/PAOEUR
 'depending': TK-P/-G
 'illegal': EUL/HRAOEL
 'Lincoln': HREUPB/KOPB
@@ -540,7 +540,7 @@ Multi-syllable words with multiple strokes
 'contest': KAUPB/TEFT
 'suitable': SAOUT/-BL
 'dildo': TKEUL/TKOE
-'guinea': TKPWEU/TPHAOE
+'Guinea': TKPWEU/TPHAOE
 'clicking': KHREUBG/-G
 'scheduled': SKED/-D
 'typical': TEUP/K-L
@@ -551,10 +551,10 @@ Multi-syllable words with multiple strokes
 'Vancouver': SRAPB/KAOUFR
 'spyware': SPAOEU/WAEUR
 'packaging': PABG/APBLG/-G
-'solar': SOEL/AR
+'solar': SOL/A*R
 'Pakistan': PABG/STAPB
 'reliable': RE/HREUBL
-'democracy': TKEPL/RAES
+'democracy': TKPHOBG/SEU
 'attacks': A/TABGS
 'wallpaper': WAUL/PAEUP
 'resorts': RAOE/SORTS
@@ -700,7 +700,7 @@ Multi-syllable words with multiple strokes
 'alarm': A/HRARPL
 'voltage': SRALT/APBLG
 'appeared': A/PAOERD
-'Franklin': TPRAPBG/HREUPB
+'Franklin': TPRAPB/KHREUPB
 'highlights': HAOEU/HRAOEUTS
 'ongoing': AUPB/TKPW-G
 'imaging': EUPBLG/-G
@@ -763,7 +763,7 @@ Multi-syllable words with multiple strokes
 'limousines': HREUPL/SAOEPB/-S
 'immigration': EUPL/TPRAEUGS
 'destinations': TKEFT/TPHAEUGS/-S
-'mutual': PHAOUT/AL
+'mutual': PHAOUT/WAL
 'pipeline': PAOEUP/HROEUPB
 'syntax': SEUPB/TABGS
 'apparently': A/PARPBLT
@@ -772,7 +772,7 @@ Multi-syllable words with multiple strokes
 'oldest': OELD/EFT
 'busty': PWUFT/KWREU
 'coordinator': KAORD/TPHAEU/TOR
-'mercury': PHER/KREU
+'mercury': PHERBG/REU
 'handbook': HAPBD/PWAOBG
 'progressive': PROG/EUF
 'Scottish': SKOT/EURB
@@ -1066,7 +1066,7 @@ Multi-syllable words with multiple strokes
 'eminem': EPL/TPHEPL
 'antenna': APBT/TPHA
 'assumed': A/SAOUPLD
-'departure': TKPAR/KHUR
+'departure': TKPART/AOUR
 'Minneapolis': PHEUPB/KWRAPLS
 'bikini': PWEU/KEU/TPHEU
 'Memphis': PHEPL/TPEUS
@@ -1229,7 +1229,7 @@ Multi-syllable words with multiple strokes
 'sunglasses': SUPB/TPWHRAFS
 'canvas': KAPB/SRAS
 'parish': PAR/EURB
-'cemetery': SEPL/TER
+'cemetery': SEPLT/REU
 'Croatia': KROE/AEU/SHA
 'stadium': STAEUD/KWRUPL
 'Venezuela': SREPBZ/WAEU/HRA
@@ -1346,7 +1346,7 @@ Multi-syllable words with multiple strokes
 'turbo': TURB/OE
 'voters': SROET/ERS
 'Madonna': PHA/TKOPB/TPHA
-'commander': KPHAPB/TKER
+'commander': KPHAPBD/*ER
 'Murphy': PHUR/TPEU
 'Phillips': TPEUL/EUPS
 'interval': EUPT/SRAL
@@ -1570,7 +1570,7 @@ Multi-syllable words with multiple strokes
 'mortality': PHORT/ALT
 'logging': HROG/-G
 'Christians': KREUGS/-S
-'bobby': PWOB/KWREU
+'Bobby': PWOB/KWREU
 'impressive': EUPL/PREF
 'accordingly': A/KORD/TKPWHREU
 'challenging': KHAL/-G
@@ -1702,7 +1702,7 @@ Multi-syllable words with multiple strokes
 'decorating': TKEBG/RAEUT/-G
 'cookbook': KAOBG/PWAOBG
 'expressions': EBGS/PREGSZ
-'courier': KUR/KWRER
+'courier': KOR/KWRER
 'uploaded': UPLD/-D
 'Shakespeare': SHAUBG/SPAOER
 'Americas': PHERBG/-S
@@ -1812,7 +1812,7 @@ Multi-syllable words with multiple strokes
 'Gregory': TKPWREG/REU
 'episodes': EP/SOEDZ
 'boolean': PWAOL/KWRAPB
-'circular': SEUR/KHRAR
+'circular': SEURBG/HRAR
 'mainland': PHAEUPB/HRAPBD
 'illustrations': STRAEUGS/-S
 'happiness': HAEP/-PBS
@@ -2059,7 +2059,7 @@ Multi-syllable words with multiple strokes
 'maritime': PHAR/TAOEUPL
 'periodic': PAOERD/EUBG
 'overhead': AUFR/HED
-'ascii': AS/KEU
+'ASCII': AS/KEU
 'prospect': PRO/SPEBGT
 'breeding': PWRAOED/-G
 'citations': KRAOEUGS/-S
@@ -2074,7 +2074,7 @@ Multi-syllable words with multiple strokes
 'rapids': RAPD/-S
 'disco': TKEUS/KOE
 'Sheffield': SHEF/TPAOELD
-'bailey': PWAEUL/KWREU
+'Bailey': PWAEUL/KWREU
 'Wellington': WELG/TOPB
 'incoming': EUPB/KOPLG
 'prospects': PROS/PEBGTS
@@ -2105,7 +2105,7 @@ Multi-syllable words with multiple strokes
 'tigers': TAOEUG/ERS
 'aurora': AU/ROE/RA
 'una': AOUPB/KWRA
-'Milan': PHEU/HRAPB
+'Milan': PHEUL/A*PB
 'premiere': PRE/PHAOER
 'Christine': KREUS/TAOEPB
 'dietary': TKAOEUT/AER
@@ -2225,7 +2225,7 @@ Multi-syllable words with multiple strokes
 'jaguar': SKWRAG/WAR
 'posing': POES/-G
 'kilometers': KHROPLT/-S
-'thanksgiving': TRAPBGS/TKPWEUFG
+'Thanksgiving': TRAPBGS/TKPWEUFG
 'Hopkins': HOP/KEUPBZ
 'infants': EUPB/TPAPBTS
 'Gothic': TKPWOT/EUBG
@@ -2297,7 +2297,7 @@ Multi-syllable words with multiple strokes
 'indexes': EUPB/TKEBGS/-S
 'centuries': KREPBT/REUS
 'magnitude': PHAG/TAOUD
-'Hindu': HUPBD/SKWRU
+'Hindu': HEUPB/TKAOU
 'fragrances': TPRAEUG/RAPBS/-S
 'vocabulary': SROEBG/PWAER
 'licking': HREUBG/-G
@@ -2956,7 +2956,7 @@ Multi-syllable words with multiple strokes
 'evidently': AEFD/HREU
 'whispered': WHEUS/PERD
 'handsome': HAPBD/SOPL
-'demanded': TKPAPBD/-D
+'demanded': TKPHAPBD/-D
 'proceeded': PROE/SAOED/-D
 'inhabitants': EUPB/HABT/APBTS
 'mother's': PHOER/AES
@@ -3064,7 +3064,7 @@ Multi-syllable words with multiple strokes
 'endure': EPB/TKAOUR
 'passions': PAGS/-S
 'confined': KAUPB/TPAOEUPBD
-'negro': TPHAOEG/ROE
+'Negro': TPHAOEG/ROE
 'fearful': TPAOER/-FL
 'commenced': KPHEPBS/-D
 'steadily': STED/HREU
@@ -3100,7 +3100,7 @@ Multi-syllable words with multiple strokes
 'solitary': SOL/TAER
 'eighteen': AET/TAOEPB
 'eaten': AOET/EPB
-'condemned': KOPB/TKEPL/-D
+'condemned': KAUPB/TKEPL/-D
 'respectable': R-PT/-BL
 'doubtful': TKOUT/-FL
 'indifferent': EUPB/TKEUFRPB
@@ -3135,12 +3135,11 @@ Multi-syllable words with multiple strokes
 'outward': AOUT/WARD
 'longing': HROPBG/-G
 'disgrace': TKEUS/TKPWRAEUS
-'papa': PA/PA
+'Papa': PA/PA
 'inevitable': TPHEF/-BL
 'husband's': HUS/AES
 'jealousy': SKWREL/SEU
 'Englishman': EPBG/HREURB/PHAPB
-'hostile': HOFT/*L
 'wandered': WAPBD/-D
 'procession': PRO/SEGS
 'betrayed': PWE/TRAEUD
@@ -3280,7 +3279,6 @@ Multi-syllable words with multiple strokes
 'perish': PER/EURB
 'offended': OE/TPEPBD/-D
 'footsteps': TPAOT/STEPS
-'marquis': PHAR/KWEUS
 'amiable': APL/KWRABL
 'arrows': AR/OES
 'impatience': EUPL/PAEURBS
@@ -3337,7 +3335,7 @@ Multi-syllable words with multiple strokes
 'relieve': RE/HREF
 'intentions': EUPB/TEPGS/-S
 'unjust': UPB/SKWRUFT
-'morrow': PHOR/ROE
+'Morrow': PHOR/ROE
 'induce': EUPB/TKAUS
 'inward': EUPB/WARD
 'hearty': HAR/TEU
@@ -3432,7 +3430,6 @@ Multi-syllable words with multiple strokes
 'accord': A/KORD
 'tremble': TREPL/-BL
 'exile': EBGS/AOEUL
-'temperament': TEFRP/*PLT
 'expressing': EBGS/PRES/-G
 'awaiting': A/WAEUT/-G
 'likeness': HRAOEUBG/-PBS
@@ -3456,7 +3453,7 @@ Multi-syllable words with multiple strokes
 'proclaimed': PRO/KHRAEUPL/-D
 'dignified': TKEUG/TPHEU/TPAOEUD
 'winding': WAOEUPBD/-G
-'deductible': TKUBGS/-BL
+'deductible': TKUBGT/EUBL
 'magistrate': PHAPBLG/STRAT
 'liquor': HREU/KWOR
 'imitation': EUPL/TAEUGS
@@ -3528,7 +3525,6 @@ Multi-syllable words with multiple strokes
 'sadness': SAD/-PBS
 'customary': KUFT/PHAER
 'wonderfully': WOPBD/TPHREU
-'successor': SUBG/SES/O*R
 'antiquity': APB/TUBG/TEU
 'appealed': AEP/-D
 'discharged': TKEUS/KHARPBLGD
@@ -3542,6 +3538,7 @@ Multi-syllable words with multiple strokes
 'declaring': TKE/KHRAEURPBG
 'reckoned': REBG/OPBD
 'thoughtfully': THAUFL/HREU
+'enthusiastic': SPWAOUZ/KWRAS/TEUBG
 'downstairs': TKOUPB/STAEURS
 'adjoining': A/SKWROEUPBG
 'inhabited': EUPB/HABT/-D
@@ -3554,7 +3551,7 @@ Multi-syllable words with multiple strokes
 'sacrificed': SARBG/TPAOEUFD
 'utterance': UT/RAPBS
 'dismay': TKEUS/PHAEU
-'pathetic': PA/THET/EBG
+'pathetic': PA/THET/EUBG
 'imperfect': EUPL/PER
 'haughty': HAU/TEU
 'fortress': TPORT/RES
@@ -3600,7 +3597,6 @@ Multi-syllable words with multiple strokes
 'lodgings': HROPBLG/-G/-S
 'sparkling': SPAR/K-LG
 'carriages': KAEURPBLG/-S
-'ornament': ORPB/APLT
 'amuse': A/PHAOUS
 'foliage': TPOEL/APBLG
 'scandal': SKAPBD/AL
@@ -3614,7 +3610,6 @@ Multi-syllable words with multiple strokes
 'decisive': TKE/SAOEUF/EUF
 'wickedness': WEUBGD/-PBS
 'visions': SREUGS/-S
-'Maggie': PHAG/AO*E
 'rosy': ROEZ/SEU
 'carelessly': KAEURLS/HREU
 'husbands': HUZ/-Z
@@ -3629,7 +3624,7 @@ Multi-syllable words with multiple strokes
 'fancies': TPAPB/SEU/KWREU/-S
 'paperwork': PAEUP/ER/WORBG
 'wherefore': W-R/TPOR
-'redistributing': RE/TKR-B/-G
+'redistributing': RE/TKR-BT/-G
 'wholesome': WHOEL/SPH
 'remorse': RE/PHORS
 'uncommon': UPB/KPHOPB
@@ -3638,7 +3633,6 @@ Multi-syllable words with multiple strokes
 'esteemed': ES/TAOEPLD
 'cherished': KHER/EURB/-D
 'brandy': PWRAPBD/KWREU
-'startling': START/*LG
 'embarrassed': EPL/PWRAFD
 'offspring': AUF/SPREUPBG
 'indispensable': EUPBDZ/PEPBS/-BL
@@ -3657,7 +3651,7 @@ Multi-syllable words with multiple strokes
 'restraint': RE/STRAEUPBT
 'softened': SOFPB/-D
 'poetical': POET/K-L
-'professed': PROF/ES/-D
+'professed': PRO/TPES/-D
 'ascertained': AS/TAEUPBD
 'eyebrows': AOEU/PWROUS
 'afar': A/TPAR
@@ -3779,7 +3773,7 @@ Multi-syllable words with multiple strokes
 'imposing': EUPL/POES/-G
 'notable': TPHOET/-BL
 'imprisoned': EUPL/PREUS/OPBD
-'assented': AS/SEPBT/-D
+'assented': ASZ/EPBT/-D
 'illusion': EUL/HRAOUGS
 'troublesome': TRUBL/SPH
 'repentance': RE/PEPB/TAPBS
@@ -3822,7 +3816,6 @@ Multi-syllable words with multiple strokes
 'effectually': EFBG/KHUL/HREU
 'dimly': TKEUPL/HREU
 'withered': WEU/THER/-D
-'mantle': PHAPBT/*L
 'distrust': TKEUS/TRUFT
 'verily': SRER/HREU
 'desperately': TKES/PRAT/HREU
@@ -3887,7 +3880,6 @@ Multi-syllable words with multiple strokes
 'excepting': KPEPT/-G
 'pretext': PRE/TEGT
 'stationed': STAEUGS/-D
-'settling': SELGT
 'betwixt': PWE/TWEUGT
 'admiring': AD/PHAOEURG
 'aristocratic': A/REUFT/KRAT/EUBG
@@ -3917,7 +3909,7 @@ Multi-syllable words with multiple strokes
 'rector': REBG/TOR
 'honored': HOPB/ORD
 'Edmund': ED/PHUPBD
-'militia': PHEUL/EURB/SHA
+'militia': PHEUL/EURB/KWRA
 'affliction': A/TPHREUBGS
 'ally': AL/HREU
 'ascent': A/SKREPBT
@@ -3945,6 +3937,7 @@ Multi-syllable words with multiple strokes
 'endurance': EPB/TKURPBS
 'inevitably': TPHEFT/PWHREU
 'admirably': AD/PHEUR/PWHREU
+'poles': POEL/-S
 'piercing': PAOERS/-G
 'forlorn': TPAUR/HRORPB
 'approbation': ARP/PWAEUGS
@@ -4040,7 +4033,7 @@ Multi-syllable words with multiple strokes
 'luminous': HRAOUPL/TPHUS
 'beseech': PWE/SAOEFP
 'benevolent': PWEPB/EFLT
-'confided': KOPB/TPAOEUD/-D
+'confided': KAUPB/TPAOEUD/-D
 'perplexity': PER/PHREBGS/TEU
 'escaping': ES/KAEUPG
 'companionship': KPAPB/SH-P
@@ -4050,7 +4043,6 @@ Multi-syllable words with multiple strokes
 'statesmen': STAEUTS/PHEPB
 'synonymous': SEUPB/PHUS
 'sinister': SEPB/STER
-'bridle': PWRAOEUD/*L
 'solemnity': SOL/EPL/TEU
 'detachment': TKE/TAPLT
 'infernal': EUPB/TPERPBL
@@ -4151,6 +4143,7 @@ Multi-syllable words with multiple strokes
 'besieged': PWE/SAOEPBLG/-D
 'robbery': ROB/REU
 'consequential': KAUPBS/KWEPBL
+'stony': STOEPB/KWREU
 'gratify': TKPWRAT/TPEU
 'heavier': HEF/KWRER
 'confidently': K-FT/HREU
@@ -4207,7 +4200,7 @@ Multi-syllable words with multiple strokes
 'handwriting': HAPBD/WREUG
 'unfit': UPB/TPEUT
 'relish': REL/EURB
-'venetian': RE/TPHAOEGS
+'Venetian': RE/TPHAOEGS
 'cordially': KORPBLG/HREU
 'Arabian': A/REUB/KWRAPB
 'fascination': TPAS/TPHAEUGS
@@ -4288,7 +4281,6 @@ Multi-syllable words with multiple strokes
 'dusky': TKUS/KEU
 'extravagance': EBGS/TRAF/TKPWAPBS
 'signify': SEUG/TPEU
-'kettle': KET/*L
 'contemplate': KAUPB/TPHRAEUT
 'aforesaid': A/TPOR/SAEUD
 'sensibility': SEPBS/-BLT
@@ -4320,6 +4312,7 @@ Multi-syllable words with multiple strokes
 'regained': RAOE/TKPWAEUPBD
 'voluntarily': SROL/TAERL
 'permanently': PERPL/HREU
+'rainy': RAEUPB/KWREU
 'reconciliation': REBG/SEULGS
 'tendencies': TEPBD/SEUS
 'ominous': OPL/TPHUS
@@ -4360,7 +4353,7 @@ Multi-syllable words with multiple strokes
 'defy': TKE/TPEU
 'glories': TKPWHROER/KWREU/-S
 'signifies': SEUPBG/TPAOEU/-S
-'constrained': KOPB/STRAEUPB/-D
+'constrained': KAUPB/STRAEUPB/-D
 'paternal': PA/TERPBL
 'mocking': PHOBG/-G
 'rebuke': RE/PWAOUBG
@@ -4374,7 +4367,7 @@ Multi-syllable words with multiple strokes
 'avenge': A/SREPBG
 'Spaniard': SPAPB/KWRARD
 'aloof': A/HRAOF
-'despairing': TKES/PAEUR/-G
+'despairing': TKE/SPAEUR/-G
 'chickens': KHEU/KEPB/-S
 'placid': PHRA/SEUD
 'affirm': A/TPEURPL
@@ -4419,7 +4412,7 @@ Multi-syllable words with multiple strokes
 'discreet': TKEUS/KRAOET
 'apostle': A/POFL
 'convincing': KAUPB/SREUPBS/-G
-'redistribute': RE/TKR-B
+'redistribute': RE/TKR-BT
 'precipice': PRES/PEUS
 'outdated': AOUTD/TKAEUTD
 'Juliet': SKWRAOUL/ET
@@ -4430,7 +4423,7 @@ Multi-syllable words with multiple strokes
 'pecuniary': PEBG/TPHAER
 'hostilities': HOFT/EULTS
 'vividly': SREUF/TKHREU
-'puritan': PUR/TAPB
+'puritan': PAOUR/TAPB
 'acknowledgment': ABG/TPHOPLT
 'oppressive': OP/PRES/EUF
 'plentiful': PHREPBT/-FL
@@ -4439,7 +4432,7 @@ Multi-syllable words with multiple strokes
 'inadequate': TPHAD/KWAT
 'forbear': TPAUR/PWAER
 'treaties': TRAOET/KWREUS
-'constable': KOPBS/-BL
+'constable': KAUPB/STABL
 'enmity': EPB/PHEU/TEU
 'bridegroom': PWRAOEUD/TKPWRAOPL
 'audacity': AU/TKAS/TEU
@@ -4462,7 +4455,6 @@ Multi-syllable words with multiple strokes
 'Ulysses': AOU/HREUS/ES
 'robber': ROB/ER
 'impart': EUPL/PART
-'girdle': TKPWEURD/*L
 'rebellious': RE/PWEL/KWROUS
 'biting': PWEUT/-G
 'perseverance': PER/SAOEFRPBS
@@ -4513,7 +4505,6 @@ Multi-syllable words with multiple strokes
 'baptized': PAPT/AOEUZ/-D
 'silvery': SEUL/SRER/KWREU
 'inherent': EUPB/HERPBT
-'mutton': PHUT/O*PB
 'Otto': OT/TOE
 'apparition': AP/REUGS
 'refreshing': RE/TPRERB/-G
@@ -4535,7 +4526,7 @@ Multi-syllable words with multiple strokes
 'profane': PRO/TPAEUPB
 'foreseen': TPOER/SAOEPB
 'conceit': KAUPB/SAOET
-'manifestation': PHAPB/TPEFT/AUGS
+'manifestation': PHAPB/TPES/TAEUGS
 'revive': RE/SRAOEUF
 'princely': PREUPBS/HREU
 'overtake': AUFR/TAEUBG
@@ -4569,7 +4560,6 @@ Multi-syllable words with multiple strokes
 'fearfully': TPAOER/TPHREU
 'whiteness': WHAOEUT/-PBS
 'deception': TKE/SEPGS
-'scruple': SKRAOUP/*L
 'shrinking': SHREUPB/K-G
 'prophetic': PRO/TPET/EUBG
 'undergo': UPBD/TKPW
@@ -4595,7 +4585,7 @@ Multi-syllable words with multiple strokes
 'eccentric': SKEPBT/REUBG
 'anecdote': APB/EBG/TKOET
 'scrutiny': SKRAOUT/TPHEU
-'burroughs': PWUR/ROES
+'Burroughs': PWUR/ROES
 'discord': TKEUZ/KORD
 'detain': TKE/TAEUPB
 'soda': SOED/A
@@ -4625,7 +4615,6 @@ Multi-syllable words with multiple strokes
 'gratifying': TKPWRAT/TPAOEUG
 'cupboard': WUP/PWORD
 'ludicrous': HRAOUD/KRUS
-'colossal': KHROS/A*L
 'stupidity': STAOUPD/TEU
 'monotony': PHOPB/OT/TPHEU
 'vigilance': SREUPBLG/HRAPBS
@@ -4656,7 +4645,7 @@ Multi-syllable words with multiple strokes
 'befall': PWE/TPAUL
 'daresay': TKAEUR/SAEU
 'dissolution': TKEUS/SHRAOUGS
-'vehemence': SRAOE/HEPLS
+'vehemence': SRAOEPL/EPBS
 'chaplain': KHAP/HRAPB
 'deceit': TKE/SAOET
 'lowly': HROE/HREU
@@ -4669,7 +4658,6 @@ Multi-syllable words with multiple strokes
 'invincible': EUPB/SREUPBS/-BL
 'impertinent': EUPL/PERT/TPHEPBT
 'visage': SREUS/APBLG
-'mingle': PHEUPBG/*L
 'tabernacle': TAB/TPHABG/-L
 'ghostly': TKPWOEFT/HREU
 'arouse': A/ROUS
@@ -4680,11 +4668,10 @@ Multi-syllable words with multiple strokes
 'unclean': UPB/KHRAOEPB
 'secular': SEBG/HRAR
 'averted': A/SRERT/-D
-'Constantine': KAUPB/STAPB/TAOEPB
+'Constantine': KAUPBS/TAPBT/AOEUPB
 'alley': AL/KWREU
 'softness': SOFT/-PBS
 'etiquette': ET/KET
-'valor': SRAL/O*R
 'untouched': UPB/TUFPD
 'veritable': SRERT/-BL
 'overtaken': AUFR/TAEPB
@@ -4697,7 +4684,7 @@ Multi-syllable words with multiple strokes
 'revealing': RAOE/SRAOELG
 'accomplishments': PHREURB/-PLTS
 'hypocrisy': HEUP/KRAES
-'alma': AL/PHA
+'Alma': AL/PHA
 'impenetrable': EUPL/PEPB/TRABL
 'madly': PHAD/HREU
 'manifold': PHAPB/TPOELD
@@ -4706,19 +4693,16 @@ Multi-syllable words with multiple strokes
 'volcanic': SROL/KAPBG
 'decency': TKAOEPBS/SEU
 'observance': OEB/APBS
-'predecessor': PRED/SES/O*R
-'diplomacy': TKEUPL/PHAES
+'diplomacy': TKPHROEPL/SEU
 'impartial': EUPL/PARBL
 'disinterested': TKEUS/TR-D
 'slippery': SHREUP/REU
-'ornamental': ORPB/-PLT/A*L
 'pondered': POPBD/ERD
 'foreman': TPOER/PHAPB
 'sultan': SUL/TAPB
 'heresy': HER/SEU
 'subdue': SUB/TKAOU
 'adorn': A/TKORPB
-'ancestor': APB/SES/TOR
 'fullest': TPUL/EFT
 'exposition': EBGS/POGS
 'desperation': TKEFP/RAEUGS
@@ -4733,7 +4717,7 @@ Multi-syllable words with multiple strokes
 'Angelo': APB/SKWRE/HROE
 'murderous': PHURD/RUS
 'perspiration': PERP/RAEUGS
-'coventry': KOFPBT/REU
+'coventry': KOFRPB/TREU
 'ardor': AR/TKOR
 'alight': A/HRAOEUT
 'stimulated': STEUPL/HRAEUTD
@@ -4763,7 +4747,6 @@ Multi-syllable words with multiple strokes
 'solace': SOL/AS
 'hardship': HARD/SH-P
 'donkey': TKOPB/KEU
-'amply': A*PL/HREU
 'confide': KAUPB/TPAOEUD
 'withstand': W/STAPB
 'envoy': EPB/SROEU
@@ -4779,7 +4762,7 @@ Multi-syllable words with multiple strokes
 'misunderstood': PHEUS/AOUDZ
 'harshly': HAR/-RB/HREU
 'distressing': TKEUS/TRES/-G
-'novelist': TPHOFL/EFT
+'novelist': TPHOFL/EUFT
 'intricate': EUPBT/KAT
 'limestone': HRAOEUPL/STOEPB
 'forty-five': TPOURT/H-PB/TPEUF
@@ -4812,7 +4795,7 @@ Multi-syllable words with multiple strokes
 'lumber': HRUPL/PWER
 'lavish': HRAF/EURB
 'analogous': TPHALG/OUS
-'galley': TKPWAL/HREU
+'galley': TKPWAL/KWREU
 'blunder': PWHRUPBD/ER
 'fanciful': TPAPBS/-FL
 'sentinel': SEPBT/TPHEL
@@ -4914,7 +4897,6 @@ Multi-syllable words with multiple strokes
 'mythology': PHEU/THOLG
 'Abel': AEUB/EL
 'circumference': SEURBG/TPREPBS
-'meddle': PHED/*L
 'kinder': KAOEUPB/TKER
 'ferocity': TPER/OFT
 'giddy': TKPWEUD/KWREU
@@ -4947,7 +4929,6 @@ Multi-syllable words with multiple strokes
 'commissioned': KPHEUGS/-D
 'masterpiece': PHAFRT/PAOES
 'embraces': EPL/PWRAEUS/-S
-'trodden': TROD/*EPB
 'Ephraim': EF/RAPL
 'mortar': PHOR/TAR
 'cavalier': KAF/HRAOER
@@ -4962,7 +4943,7 @@ Multi-syllable words with multiple strokes
 'Titus': TAOEUT/SKWRUS
 'populous': POP/HRUS
 'baronet': PWAR/ROPB/ET
-'commodore': KOPL/TKOR
+'Commodore': KOPL/TKOR
 'jelly': SKWREL/HREU
 'advocates': AFD/KATS
 'Dinah': TKAOEPB/TPHA
@@ -5012,9 +4993,9 @@ Multi-syllable words with multiple strokes
 'unfamiliar': UPB/TPAPL
 'railways': RAEUL/WAEUS
 'stupendous': STAOUPD/OUS
-'paddle': PAD/*L
 'innate': EUPB/TPHAEUT
 'volley': SROL/HREU
+'simpler': SEUFRP/HRER
 'inhabitant': HAB/TAPBT
 'Ishmael': EURB/PHAEL
 'inaccessible': EUPB/SESZ/-BL
@@ -5066,7 +5047,6 @@ Multi-syllable words with multiple strokes
 'drunkenness': PWRUPB/KEPB/TPHES
 'exacting': EBGS/ABGT/-G
 'eddy': ED/TKEU
-'twinkle': TWEUPB/K-L
 'sandstone': SAPBD/STOEPB
 'invaluable': EUPB/SRAL/-BL
 'fathom': TPA/THOPL
@@ -5084,7 +5064,6 @@ Multi-syllable words with multiple strokes
 'proximity': PROBGS/EUPLT
 'Bombay': PWOPL/PWAEU
 'Paula': PAUL/KWRA
-'muzzle': PHUZ/*L
 'dissipated': TKEUS/PAEUTD
 'flickering': TPHREUBG/ERG
 'tarry': TAEUR/REU
@@ -5116,7 +5095,7 @@ Multi-syllable words with multiple strokes
 'parapet': PRA/PET
 'cessation': SES/AEUGS
 'ankle': APB/K-L
-'fervently': TPER/SREPBT/HREU
+'fervently': TPEFRB/EPBT/HREU
 'oddly': OD/HREU
 'embarrassing': EPL/PWRAFG
 'arrogant': AR/TKPWAPBT
@@ -5126,7 +5105,6 @@ Multi-syllable words with multiple strokes
 'detestable': TKE/SEFT/-BL
 'abandoning': A/PWAPBD/OPBG
 'weakly': WAEBG/HREU
-'tremor': TEPL/O*R
 'surveying': SUR/SRAEUG
 'thirty-two': THEURT/H-PB/TWO
 'curly': KUR/HREU
@@ -5146,6 +5124,7 @@ Multi-syllable words with multiple strokes
 'empress': EPL/PRES
 'manure': PHA/TPHAOUR
 'sidewalk': SAOEUD/WAUBG
+'bony': PWOEPB/KWREU
 'restlessness': REFT/-LS/-PBS
 'girlish': TKPWEURL/EURB
 'shortest': SHORT/EFT
@@ -5174,7 +5153,6 @@ Multi-syllable words with multiple strokes
 'tapestry': TAPS/TREU
 'provocation': PROF/KAEUGS
 'twenty-six': TWEPBT/H-PB/SEUBGS
-'impotent': *EUPL/TEPBT
 'acquitted': A/KWEUT/-D
 'tumultuous': TUPL/ULT/WOUS
 'palpable': PAP/-BL
@@ -5204,7 +5182,7 @@ Multi-syllable words with multiple strokes
 'indoors': EUPB/TKAORS
 'pompous': POPL/PUS
 'respite': RES/PEUT
-'confines': KOPB/TPAOEUPB/-S
+'confines': KAUPB/TPAOEUPB/-S
 'vacancy': SRAEUBG/SEU
 'acquiescence': A/KWAOES/EPBS
 'crumbling': KRUPL/-BLG
@@ -5218,7 +5196,7 @@ Multi-syllable words with multiple strokes
 'lightness': HRAOEUT/-PBS
 'bitten': PWEUT/-PB
 'toleration': TOL/RAEUGS
-'bohemian': PWOE/HAOEPL/KWRAPB
+'Bohemian': PWOE/HAOEPL/KWRAPB
 'affinity': A/TPEUPBT
 'penitent': PEPB/TEPBT
 'abiding': A/PWAOEUD/-G

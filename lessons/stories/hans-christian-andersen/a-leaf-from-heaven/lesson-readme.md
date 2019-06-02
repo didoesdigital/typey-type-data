@@ -268,7 +268,7 @@
 * each `AOEFP`
 * concealed `KAUPB/SAOELD`
 * within `W-PB`
-* itself `T/SEF`
+* itself `*EUTS`
 * deep `TKAOEP`
 * fount `TPOUPBT`
 * melody, `PHEL/TKEU KW-BG`

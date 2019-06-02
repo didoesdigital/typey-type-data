@@ -391,7 +391,7 @@
 * hair `HAEUR`
 * hare `HA*ER`
 * hairy `HAEU/REU`
-* harry `HAR/REU`
+* Harry `HAR/REU`
 * hall `HAUL`
 * haul `HA*UL`
 * halve `HA*FL`
@@ -613,7 +613,7 @@
 * ooze `AOZ`
 * overseas `AUF/SAES`
 * oversees `AUFR/SAOES`
-* paced `PA*BG/-D`
+* paced `PAEUS/-D`
 * paste `PAEUFT`
 * packed `PABGD`
 * pact `PA*BGT`
@@ -735,7 +735,7 @@
 * rime `RAO*EUPL`
 * right `RAOEUT`
 * rite `RAO*EUT`
-* wright `WRA*ET`
+* Wright `WRA*ET`
 * write `WREU`
 * ring `REUPBG`
 * wring `WREUPBG`

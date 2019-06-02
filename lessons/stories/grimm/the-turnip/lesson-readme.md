@@ -51,8 +51,8 @@
 * it `T`
 * kept `KEPT`
 * getting `TKPWEGT`
-* larger `HRARPBLG/ER`
-* larger, `HRARPBLG/ER KW-BG`
+* larger `HRAERPBLG`
+* larger, `HRAERPBLG KW-BG`
 * seemed `SAOEPLD`
 * as `AZ`
 * if `TP`

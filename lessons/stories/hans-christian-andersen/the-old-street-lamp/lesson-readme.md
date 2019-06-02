@@ -67,7 +67,7 @@
 * knows `TPHOEZ`
 * that `THA`
 * on `OPB`
-* morrow `PHOR/ROE`
+* morrow `HRO*ER/PHOR/ROE`
 * she `SHE`
 * will `HR`
 * be `-B`
@@ -205,7 +205,7 @@
 * lamp's `HRAFRP AES`
 * night `TPHAOEUT`
 * street, `STRAOET KW-BG`
-* to-morrow `TO H-PB PHOR/ROE`
+* to-morrow `TO H-PB HRO*ER/PHOR/ROE`
 * must `PHUFT`
 * go `TKPW`
 * town-hall,—two `TOUPB H-PB HAUL KW-BG EPL/TKA*RB TWO`
@@ -468,7 +468,7 @@
 * are `R`
 * going `TKPW-G`
 * away `A/WAEU`
-* to-morrow? `TO H-PB PHOR/ROE H-F`
+* to-morrow? `TO H-PB HRO*ER/PHOR/ROE H-F`
 * Is `KPA/S`
 * we `WE`
 * meet? `PHAOET H-F`
@@ -700,7 +700,7 @@
 * near `TPHAOER`
 * warm `WARPL`
 * stove. `STOF TP-PL`
-* larger, `HRARPBLG/ER KW-BG`
+* larger, `HRAERPBLG KW-BG`
 * appeared `A/PAOERD`
 * chair. `KHAEUR TP-PL`
 * sat `SAT`
@@ -874,7 +874,7 @@
 * heap `HAOEP`
 * wax-candle `WABGS H-PB KA*PBLD`
 * ends `EPDZ`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * pieces `PAOEFS`
 * burnt, `PWURPBT KW-BG`
 * smaller `SPHAURL`

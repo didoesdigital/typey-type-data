@@ -479,7 +479,7 @@
 * everywhere, `WEFR KW-BG`
 * hill's `HEUL AES`
 * top `TOP`
-* valley's `SRAL/HREU AES`
+* valley's `SRAL/KWREU AES`
 * depth--hast `TK*EPT H-PB H-PB HA*FT`
 * thou `THO*U`
 * anywhere `TPHEUR`
@@ -643,7 +643,7 @@
 * lay `HRAEU`
 * dress `TKRES`
 * dazzling `TKAZ/-LG`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`
 * put `PUT`
 * palace, `PAL/AS KW-BG`
 * gazed `TKPWAEZ/-D`
@@ -734,7 +734,7 @@
 * draught; `TKRAUFT STPH*FPLT`
 * tell `TEL`
 * woes `WOE/-S`
-* befallen `PW*/*E/TP*/A*/HR*/HR*/*E/TPH*`
+* befallen `PWE/TPAUL/*EPB`
 * faithful `TPA*EUT/-FL`
 * true `TRAOU`
 * been, `PW-PB KW-BG`

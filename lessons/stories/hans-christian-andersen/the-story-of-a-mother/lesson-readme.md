@@ -659,7 +659,7 @@
 * most `PHOFT`
 * anxious `KPUS`
 * care, `KAEUR KW-BG`
-* lest `HR*ES`
+* lest `HRES/*T`
 * should `SHO`
 * leaves. `HREFS TP-PL`
 * upon `POPB`

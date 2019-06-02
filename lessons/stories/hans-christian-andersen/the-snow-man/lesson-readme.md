@@ -198,7 +198,7 @@
 * teach `TAOEFP`
 * run? `RUPB H-F`
 * running `R*UPBG`
-* itself `T/SEF`
+* itself `*EUTS`
 * a `AEU`
 * little `HREUL`
 * while `WHAOEUL`
@@ -224,7 +224,7 @@
 * sun. `SUPB TP-PL`
 * It `KPA/T`
 * again `TKPWEPB`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * most `PHOFT`
 * likely `HRAOEULG`
 * down `TKOUPB`
@@ -349,7 +349,7 @@
 * whiter `WHAOEURT`
 * than `THAPB`
 * snow `STPHOE`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`
 * "This `KR-GS KPA/TH`
 * beautiful," `PWAOUFL KW-BG KR-GS`
 * young `KWRUPBG`

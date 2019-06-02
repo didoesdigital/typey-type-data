@@ -453,7 +453,7 @@
 * carried `KAERD`
 * orders, `ORDZ KW-BG`
 * gnat `TPHA*T`
-* itself `T/SEF`
+* itself `*EUTS`
 * inside `TPH-DZ`
 * coverings, `KOFRG/-S KW-BG`
 * crept `KREPT`

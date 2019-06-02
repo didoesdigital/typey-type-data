@@ -175,7 +175,7 @@
 * representation, `REPGS KW-BG`
 * masquerade, `PHAS/KRAEUD KW-BG`
 * mummery, `xxx mummery KW-BG`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * when `WHEPB`
 * myself `PHAO*EUS`
 * journeyman, `SKWROURPB/EU/PHAPB KW-BG`
@@ -264,7 +264,7 @@
 * experiments. `SPERPLTS TP-PL`
 * Nationality `KPA/TPHAT/ALT`
 * assert `A/SERT`
-* itself `T/SEF`
+* itself `*EUTS`
 * until `TPH-L`
 * affectation, `AFBG/TAEUGS KW-BG`
 * century `KROEURPBT`
@@ -490,7 +490,7 @@
 * till `TEUL`
 * street, `STRAOET KW-BG`
 * which, `WEU KW-BG`
-* ornament `ORPB/APLT`
+* ornament `ORPB/*PLT`
 * town. `TOUPB TP-PL`
 * These `KPA/THEZ`
 * return, `RURPB KW-BG`
@@ -779,8 +779,8 @@
 * middle `PH*EULD`
 * gradually `TKPWRAD/WAEL`
 * grew `TKPWRAOU`
-* larger `HRARPBLG/ER`
-* larger, `HRARPBLG/ER KW-BG`
+* larger `HRAERPBLG`
+* larger, `HRAERPBLG KW-BG`
 * then `THEPB`
 * meant—I `PHEPBT EPL/TKA*RB EU`
 * experienced; `SPAOERPBD STPH*FPLT`

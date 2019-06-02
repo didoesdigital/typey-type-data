@@ -138,7 +138,7 @@
 * room, `RAOPL KW-BG`
 * see `SAOE`
 * stretch `STREFP`
-* itself `T/SEF`
+* itself `*EUTS`
 * against `TKPWEPBS`
 * wall, `WAUL KW-BG`
 * ceiling, `KAOELG KW-BG`
@@ -775,7 +775,7 @@
 * listen, `HREUFPB KW-BG`
 * sent `SEPBT`
 * master, `PHAFRT KW-BG`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`
 * "Do `KR-GS KPA/TKO`
 * "that `KR-GS THA`
 * glorious `TKPWHRORS`
@@ -917,7 +917,7 @@
 * true `TRAOU`
 * you, `U KW-BG`
 * remember `RER`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * sunrise `SUPB/RAOEUZ`
 * sunset, `SAUPB/SET KW-BG`
 * moonlight `PHAOLGT`

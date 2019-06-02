@@ -258,7 +258,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'charming,': KHARPL/-G KW-BG
 'like': HRAOEUBG
 'spring': SPREUPBG
-'itself,': T/SEF KW-BG
+'itself,': *EUTS KW-BG
 'sometimes': STAOEUPLS
 'as': AZ
 'a': AEU
@@ -485,7 +485,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'not': TPHOT
 'have': SR
 'hidden': HEUD/EPB
-'itself,': T/SEF KW-BG
+'itself,': *EUTS KW-BG
 'like': HRAOEUBG
 'the': -T
 'princess': PREUPB/ES
@@ -521,7 +521,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'it': T
 'has': HAS
 'hidden': HEUD/EPB
-'itself': T/SEF
+'itself': *EUTS
 'in': TPH
 'the': -T
 'straw': STRAU
@@ -715,7 +715,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'might': PHAOEUT
 'have': SR
 'hidden': HEUD/EPB
-'itself': T/SEF
+'itself': *EUTS
 'in': TPH
 'the': -T
 'red': RED
@@ -1675,7 +1675,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'flew': TPHRAOU
 'open': OEP
 'of': -F
-'itself,': T/SEF KW-BG
+'itself,': *EUTS KW-BG
 'and': SKP
 'an': APB
 'old': OLD
@@ -1853,7 +1853,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'brew': PWRAOU
 'over': OEFR
 'again': TKPWEPB
-'to-morrow,': TO H-PB PHOR/ROE KW-BG
+'to-morrow,': TO H-PB HRO*ER/PHOR/ROE KW-BG
 'if': TP
 'the': -T
 'weather': WHR*
@@ -3561,7 +3561,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'noble,': TPHOEBL KW-BG
 'he': HE
 'is': S
-'condemned': KOPB/TKEPL/-D
+'condemned': KAUPB/TKEPL/-D
 'to': TO
 'be': -B
 'imprisoned': EUPL/PREUS/OPBD

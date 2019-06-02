@@ -152,7 +152,7 @@
 * them. `THEPL TP-PL`
 * Therefore `KPA/TH-FR`
 * their `THAEUR`
-* papa `PA/PA`
+* papa `HRO*ER/PA/PA`
 * gave `TKPWAEUF`
 * each `AOEFP`
 * handsome `HAPBD/SOPL`
@@ -636,7 +636,7 @@
 * being `-BG`
 * taken `TAEPB`
 * published `PHR*EURBD`
-* to-morrow? `TO H-PB PHOR/ROE H-F`
+* to-morrow? `TO H-PB HRO*ER/PHOR/ROE H-F`
 * yonder, `KWROPBD/ER KW-BG`
 * clerk; `KHRERBG STPH*FPLT`
 * clerk `KHRERBG`

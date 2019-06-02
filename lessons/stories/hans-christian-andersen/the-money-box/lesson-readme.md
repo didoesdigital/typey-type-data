@@ -270,7 +270,7 @@
 * talked `TAUBGD`
 * politics—"tick, `PHREUBGS EPL/TKA*RB KR-GS TEUBG KW-BG`
 * tick;" `TEUBG STPH*FPLT KR-GS`
-* professed `PROF/ES/-D`
+* professed `PRO/TPES/-D`
 * know `TPHOE`
 * what `WHA`
 * time `TAOEUPL`

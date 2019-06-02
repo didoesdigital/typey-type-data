@@ -259,7 +259,7 @@
 * discover `SKOFR`
 * who `WHO`
 * enemy's `EPB/PHEU/AES`
-* commander-in-chief. `KPHAPB/TKER H-PB TPH H-PB KHAOEF TP-PL`
+* commander-in-chief. `KPHAPBD/*ER H-PB TPH H-PB KHAOEF TP-PL`
 * gnat, `TPHA*T KW-BG`
 * most `PHOFT`
 * crafty, `KRAF/TEU KW-BG`
@@ -400,7 +400,7 @@
 * beg `PWEG`
 * pardon `PARD`
 * say `SAEU`
-* honourable `HO*UPB/RABL`
+* honourable `HOPB/RABL/A*U`
 * do `TKO`
 * that.' `THA TP-PL AE`
 * 'Growler, `AE xxx Growler KW-BG`

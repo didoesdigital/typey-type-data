@@ -737,7 +737,7 @@
 * polished `POL/EURBD`
 * chairs `KHAEURS`
 * hymn-books. `H*EUPL H-PB PWAOBGS TP-PL`
-* itself `T/SEF`
+* itself `*EUTS`
 * poor `PAOR`
 * girl `TKPWEURL`
 * narrow `TPHO*EUR`

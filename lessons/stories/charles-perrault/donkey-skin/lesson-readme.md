@@ -558,7 +558,7 @@
 * together `TOGT`
 * skilful `SKEUL/*FL`
 * workmen, `WORBG/PHEPB KW-BG`
-* demanded `TKPAPBD/-D`
+* demanded `TKPHAPBD/-D`
 * robe `ROEB`
 * them; `THEPL STPH*FPLT`
 * otherwise `O*ERZ`
@@ -894,7 +894,7 @@
 * bathe `PWA*EUT`
 * pool, `PAOL KW-BG`
 * did. `TK TP-PL`
-* don `TKO*PB`
+* don `HRO*ER/TKO*PB`
 * unworthy `UPB/WO*RT/KWREU`
 * returned `RURPBD`
 * By `KPA/PWEU`

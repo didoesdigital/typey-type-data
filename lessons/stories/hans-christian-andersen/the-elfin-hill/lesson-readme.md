@@ -373,7 +373,7 @@
 * grave `TKPWRAEUF`
 * cellars. `SEL/AR/-S TP-PL`
 * These `KPA/THEZ`
-* substantial `SPAPBL`
+* substantial `STAPBL`
 * food. `TPAOD TP-PL`
 * Rusty `KPA/RUS/TEU`
 * nails `TPHAEULS`
@@ -490,7 +490,7 @@
 * forward `TPAORD`
 * lads, `HRADZ KW-BG`
 * quite `KWAOEUT`
-* correct, `KRERBG KW-BG`
+* correct, `KREBGT KW-BG`
 * become `PW-BG`
 * grow `TKPWROE`
 * older. `OERLD TP-PL`

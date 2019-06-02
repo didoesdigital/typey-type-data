@@ -285,7 +285,7 @@ The Mail-Coach Passengers
 'Come': KPA/KOPL
 'to': TO
 'me': PHE
-'to-morrow,': TO H-PB PHOR/ROE KW-BG
+'to-morrow,': TO H-PB HRO*ER/PHOR/ROE KW-BG
 'and': SKP
 'I'll': AOEUL
 'give': TKPWEUF
@@ -541,7 +541,7 @@ The Mail-Coach Passengers
 'on': OPB
 'the': -T
 'shoulder,': SHOURLD KW-BG
-'"don't': KR-GS TKO*PB AE T*
+'"don't': KW-GS/TKOEPBT
 'you': U
 'smell': SPHEL
 'something?': S-G H-F
@@ -1124,7 +1124,7 @@ The Mail-Coach Passengers
 'This': KPA/TH
 'was': WAS
 'an': APB
-'ornament': ORPB/APLT
+'ornament': ORPB/*PLT
 'to': TO
 'the': -T
 'jug,': SKWRUG KW-BG
@@ -1135,7 +1135,7 @@ The Mail-Coach Passengers
 'great': TKPWRAET
 'love': HRUF
 'for': TPOR
-'ornament.': ORPB/APLT TP-PL
+'ornament.': ORPB/*PLT TP-PL
 'There': KPA/THR
 'he': HE
 'stood': STAOD

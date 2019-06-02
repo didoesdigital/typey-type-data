@@ -170,7 +170,7 @@
 * do." `TKO TP-PL KR-GS`
 * But `KPA/PWUT`
 * spread `SPRED`
-* itself `T/SEF`
+* itself `*EUTS`
 * with `W`
 * pride, `PRAOEUD KW-BG`
 * said, `SAEUD KW-BG`

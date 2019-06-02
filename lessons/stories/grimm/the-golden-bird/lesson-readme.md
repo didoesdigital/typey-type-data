@@ -689,7 +689,7 @@
 * following `TPOLG`
 * advice; `SREUS STPH*FPLT`
 * evil `AOEFL`
-* befallen `PW*/*E/TP*/A*/HR*/HR*/*E/TPH*`
+* befallen `PWE/TPAUL/*EPB`
 * 'Yet,' `AE KPA/KWRET KW-BG AE`
 * cannot `K/TPHOT`
 * here, `HAOER KW-BG`

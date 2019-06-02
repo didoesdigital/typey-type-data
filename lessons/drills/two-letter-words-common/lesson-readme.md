@@ -38,7 +38,7 @@
 * or `OR`
 * ow `OU`
 * ox `O*BGS`
-* pa `PA`
+* pa `HRO*ER/PA`
 * pi `PEU`
 * ok `O*EBG`
 * so `SO`

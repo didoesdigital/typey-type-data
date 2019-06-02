@@ -699,7 +699,7 @@
 * now `TPHOU`
 * resting `REFT/-G`
 * himself. `H*EUPLS TP-PL`
-* "don't `KR-GS TKO*PB AE T*`
+* "Don't `KR-GS TKO*PB AE T*`
 * spoil `SPOEUL`
 * girls," `TKPWEURLS KW-BG KR-GS`
 * mother; `PHOER STPH*FPLT`
@@ -976,6 +976,7 @@
 * speak `SPAOEBG`
 * knowing `TPHOEG`
 * facts," `TPABGZ KW-BG KR-GS`
+* "don't `KW-GS/TKOEPBT`
 * prisoner?" `PREURZ H-F KR-GS`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * prisoner," `PREURZ KW-BG KR-GS`
@@ -1035,7 +1036,7 @@
 * feet `TPAOET`
 * too. `TAO TP-PL`
 * If `KPA/TP`
-* ornament `ORPB/APLT`
+* ornament `ORPB/*PLT`
 * lost `HRO*S`
 * stable `STABL`
 * over. `OEFR TP-PL`

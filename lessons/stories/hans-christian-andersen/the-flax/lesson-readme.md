@@ -125,7 +125,7 @@
 * ended." `EPBD/-D TP-PL KR-GS`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * ended," `EPBD/-D KW-BG KR-GS`
-* "To-morrow `KR-GS KPA/TO H-PB PHOR/ROE`
+* "To-morrow `KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE`
 * will `HR`
 * shine, `SHAOEUPB KW-BG`
 * rain `RAEUPB`

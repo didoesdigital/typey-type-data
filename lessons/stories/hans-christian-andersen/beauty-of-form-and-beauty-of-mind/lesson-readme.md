@@ -1099,7 +1099,7 @@
 * attracted `A/TRABGD`
 * sympathy; `SEUPL/THEU STPH*FPLT`
 * develops `SRELS`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * raised `RA*EUFD`
 * higher `HAOEUR`
 * state `STAEUT`

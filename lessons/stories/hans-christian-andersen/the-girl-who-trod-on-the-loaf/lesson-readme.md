@@ -425,7 +425,7 @@
 * mud; `PHUD STPH*FPLT`
 * snake `STPHAEUBG`
 * also `HR-S`
-* itself `T/SEF`
+* itself `*EUTS`
 * hair, `HAEUR KW-BG`
 * hung `HUPBG`
 * back, `PWABG KW-BG`
@@ -501,7 +501,7 @@
 * way `WAEU`
 * child's `KHAOEULD/AES`
 * heart, `HART KW-BG`
-* increase `EUPB/KRAES`
+* increase `EUPB/KRAOES`
 * torment `TORPLT`
 * relief. `RE/HRAOEF TP-PL`
 * hear `HAER`

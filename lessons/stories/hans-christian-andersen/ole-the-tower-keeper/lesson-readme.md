@@ -150,7 +150,7 @@
 * parted. `PARTD TP-PL`
 * This `KPA/TH`
 * is `S`
-* demanded `TKPAPBD/-D`
+* demanded `TKPHAPBD/-D`
 * general, `SKWREPBL KW-BG`
 * namely, `TPHAEUPL/HREU KW-BG`
 * got `TKPWOT`
@@ -410,7 +410,7 @@
 * venerable `SREPB/-BL`
 * million-year-old `PHOEUPB H-PB KWRAOER H-PB OLD`
 * On `KPA/OPB`
-* eve `AOEF`
+* eve `HRO*ER/AOEF`
 * reading `RAEGD`
 * lost `HRO*S`
 * myself `PHAO*EUS`
@@ -433,7 +433,7 @@
 * taken `TAEPB`
 * St. `S*T`
 * John's `SKWROPB AES`
-* eve, `AOEF KW-BG`
+* eve, `HRO*ER/AOEF KW-BG`
 * Brocken; `xxx Brocken STPH*FPLT`
 * journey, `SKWRURPB KW-BG`
 * also `HR-S`
@@ -730,7 +730,7 @@
 * this: `TH STPH-FPLT`
 * How `KPA/HOU`
 * silent `SHREPBT`
-* thanksgivings `TRAPBGS/TKPWEUFG/-S`
+* thanksgivings `xxx thanksgivings`
 * offered `OFRD`
 * noble `TPHOEBL`
 * action! `*BGS SKHRAPL`
@@ -766,7 +766,7 @@
 * fell `TPEL`
 * southwest, `SWO*ES KW-BG`
 * tribute `TREUBT`
-* thanksgiving `TRAPBGS/TKPWEUFG`
+* thanksgiving `HRO*ER/TRAPBGS/TKPWEUFG`
 * many—many! `PHAEPB EPL/TKA*RB PHAEPB SKHRAPL`
 * 'For `AE KPA/TPOR`
 * intended?' `SPWEPBD/-D H-F AE`
@@ -1375,7 +1375,7 @@
 * butterfly, `PW*URT/TPHRAOEU KW-BG`
 * Thus, `KPA/THUS KW-BG`
 * Louis `HRAO*U/EUS`
-* XI. `*URP/KPEU TP-PL`
+* XI. `1-RD TP-PL`
 * remembered `RERD`
 * remembers `RERS`
 * bad—a `PWAD EPL/TKA*RB AEU`
@@ -1383,12 +1383,12 @@
 * wish `WEURB`
 * true. `TRAOU TP-PL`
 * lord `HRORD`
-* constable `KOPBS/-BL`
+* constable `KAUPB/STABL`
 * executed, `SKAOUTD KW-BG`
 * execute `SKAOUT`
 * wrong; `WROPBG STPH*FPLT`
 * innocent `TPH-PBT`
-* constable, `KOPBS/-BL KW-BG`
+* constable, `KAUPB/STABL KW-BG`
 * eight `AET`
 * old, `OLD KW-BG`
 * scaffold `SKAFLD`
@@ -1434,7 +1434,7 @@
 * brought `PWRAUT`
 * silver `SEUL/SRER`
 * plate; `PHRAET STPH*FPLT`
-* XI, `*URP/KPEU KW-BG`
+* XI, `1-RD KW-BG`
 * immortality; `EUPL/POR/TALT STPH*FPLT`
 * fly `TPHRAOEU`
 * shine `SHAOEUPB`

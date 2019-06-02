@@ -174,7 +174,7 @@
 * hopes. `HOEPS TP-PL`
 * Come `KPA/KOPL`
 * me `PHE`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * I'll `AOEUL`
 * give `TKPWEUF`
 * you `U`
@@ -320,7 +320,7 @@
 * slapping `SHR-PG`
 * him `HEUPL`
 * shoulder, `SHOURLD KW-BG`
-* "don't `KR-GS TKO*PB AE T*`
+* "don't `KW-GS/TKOEPBT`
 * smell `SPHEL`
 * something? `S-G H-F`
 * Make `KPA/PHAEUBG`
@@ -587,11 +587,11 @@
 * plant `PHRAPBT`
 * around `ARPBD`
 * jug. `SKWRUG TP-PL`
-* ornament `ORPB/APLT`
+* ornament `ORPB/*PLT`
 * jug, `SKWRUG KW-BG`
 * has `HAS`
 * love `HRUF`
-* ornament. `ORPB/APLT TP-PL`
+* ornament. `ORPB/*PLT TP-PL`
 * There `KPA/THR`
 * color `KROR`
 * hand, `HAPBD KW-BG`

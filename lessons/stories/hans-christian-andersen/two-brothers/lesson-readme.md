@@ -78,7 +78,7 @@
 * said; `SAEUD STPH*FPLT`
 * "yes, `KR-GS KWRE KW-BG`
 * right—the `RAOEUT EPL/TKA*RB -T`
-* correct `KRERBG`
+* correct `KREBGT`
 * thing. `THEUPBG TP-PL`
 * One `KPA/WUPB`
 * find `TPEUPBD`

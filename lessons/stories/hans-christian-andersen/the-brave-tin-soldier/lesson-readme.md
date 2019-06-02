@@ -300,7 +300,7 @@
 * soldier," `SHRERPBL KW-BG KR-GS`
 * said `SAEUD`
 * goblin, `TKPWOB/HREUPB KW-BG`
-* "don't `KR-GS TKO*PB AE T*`
+* "don't `KW-GS/TKOEPBT`
 * wish `WEURB`
 * what `WHA`
 * does `TKOS`
@@ -313,7 +313,7 @@
 * well; `WEL STPH*FPLT`
 * wait `WAEUT`
 * till `TEUL`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * then," `THEPB KW-BG KR-GS`
 * goblin. `TKPWOB/HREUPB TP-PL`
 * children `KHEURPB`
@@ -417,7 +417,7 @@
 * rocked `ROBGD`
 * down, `TKOUPB KW-BG`
 * turned `TURPBD`
-* itself `T/SEF`
+* itself `*EUTS`
 * round `ROUPBD`
 * sometimes `STAOEUPLS`
 * quickly `KWEULG`

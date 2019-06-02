@@ -39,7 +39,7 @@
 * enough `TPHUF`
 * into `TPHAO`
 * mirror `PHROR`
-* itself `T/SEF`
+* itself `*EUTS`
 * in `TPH`
 * waters; `WAURS STPH*FPLT`
 * but `PWUT`
@@ -565,7 +565,7 @@
 * after `AF`
 * all, `AUL KW-BG`
 * am `APL`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * yet; `KWRET STPH*FPLT`
 * restlessness `REFT/-LS/-PBS`
 * longing." `HROPBG/-G TP-PL KR-GS`
@@ -770,7 +770,7 @@
 * investigated `SREGTD`
 * created `KRAOETD`
 * matter `PHAERT`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * cut `KUT`
 * need `TPHAOED`
 * was. `WAS TP-PL`

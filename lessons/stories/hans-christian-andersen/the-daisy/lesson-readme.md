@@ -169,7 +169,7 @@
 * themselves `TH*EPLS`
 * order `ORD`
 * be `-B`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * than `THAPB`
 * roses, `ROES/-S KW-BG`
 * size `SAOEUZ`
@@ -486,7 +486,7 @@
 * thrust `THRUFT`
 * beak `PWAOEBG`
 * refresh `RERB`
-* itself `T/SEF`
+* itself `*EUTS`
 * little. `HREUL TP-PL`
 * noticed `TPH-TSD`
 * nodded `TPHOD/-D`

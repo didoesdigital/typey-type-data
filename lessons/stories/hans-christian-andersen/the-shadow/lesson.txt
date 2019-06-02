@@ -226,7 +226,7 @@ The Shadow
 'the': -T
 'shadow': SHO*EUD
 'stretch': STREFP
-'itself': T/SEF
+'itself': *EUTS
 'against': TKPWEPBS
 'the': -T
 'wall,': WAUL KW-BG
@@ -2066,7 +2066,7 @@ The Shadow
 'become': PW-BG
 'a': AEU
 'man': PHAPB
-'itself.': T/SEF TP-PL
+'itself.': *EUTS TP-PL
 '"Do': KR-GS KPA/TKO
 'you': U
 'know,"': TPHOE KW-BG KR-GS
@@ -2576,7 +2576,7 @@ The Shadow
 'was': WAS
 'always': AULS
 'much': PHUFP
-'larger': HRARPBLG/ER
+'larger': HRAERPBLG
 'at': AT
 'sunrise': SUPB/RAOEUZ
 'and': SKP

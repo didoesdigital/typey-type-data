@@ -134,7 +134,7 @@
 * which `WEU`
 * men `PHEPB`
 * my `PHEU`
-* empire `EPL/AOEUR`
+* empire `EPL/PAOEUR`
 * places, `PHRAEUFS KW-BG`
 * distinguish `TKWEURB`
 * clever `KHREFR`

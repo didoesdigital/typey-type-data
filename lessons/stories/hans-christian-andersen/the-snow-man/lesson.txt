@@ -306,7 +306,7 @@ The Snow Man
 'saw': SAU
 'it': T
 'running': R*UPBG
-'itself': T/SEF
+'itself': *EUTS
 'a': AEU
 'little': HREUL
 'while': WHAOEUL
@@ -357,7 +357,7 @@ The Snow Man
 'will': HR
 'come': KOPL
 'again': TKPWEPB
-'to-morrow,': TO H-PB PHOR/ROE KW-BG
+'to-morrow,': TO H-PB HRO*ER/PHOR/ROE KW-BG
 'and': SKP
 'most': PHOFT
 'likely': HRAOEULG
@@ -617,7 +617,7 @@ The Snow Man
 'even': AOEPB
 'the': -T
 'snow': STPHOE
-'itself.': T/SEF TP-PL
+'itself.': *EUTS TP-PL
 '"This': KR-GS KPA/TH
 'is': S
 'really': R-L

@@ -225,7 +225,7 @@
 * to-day, `TO H-PB TKAEU KW-BG`
 * might `PHAOEUT`
 * fall `TPAUL`
-* to-morrow, `TO H-PB PHOR/ROE KW-BG`
+* to-morrow, `TO H-PB HRO*ER/PHOR/ROE KW-BG`
 * first `TPEUFRT`
 * wind `WEUPBD`
 * blew; `PWHRAOU STPH*FPLT`

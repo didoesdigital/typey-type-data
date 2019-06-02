@@ -419,6 +419,7 @@
 * Scot `SKO*T`
 * comb `KOEPL`
 * whim `WHEUPL`
+* a.m. `A*PL`
 * streak `STRAOEBG`
 * scorned `SKORPBD`
 * stalk `STAUBG`

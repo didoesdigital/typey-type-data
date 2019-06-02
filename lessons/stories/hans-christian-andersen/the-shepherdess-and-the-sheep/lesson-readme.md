@@ -13,7 +13,7 @@
 * with `W`
 * age, `AEUPBLG KW-BG`
 * and `SKP`
-* ornamented `ORPB/APLT/-D`
+* ornamented `ORPB/*PLT/-D`
 * carved `KAFRBD`
 * foliage `TPOEL/APBLG`
 * curious `KAOURS`
@@ -90,7 +90,7 @@
 * called `KAULD`
 * him, `HEUPL KW-BG`
 * "Major `KR-GS KPA/PHOEUPBLG`
-* general-field-sergeant-commander `SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
+* general-field-sergeant-commander `SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
 * Billy-goat's-legs." `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL KR-GS`
 * certainly `SERPBL`
 * very `SRE`
@@ -131,7 +131,7 @@
 * red `RED`
 * rose `ROEZ`
 * or `OR`
-* ornament. `ORPB/APLT TP-PL`
+* ornament. `ORPB/*PLT TP-PL`
 * She `KPA/SHE`
 * wore `WOR`
 * hat, `HAT KW-BG`
@@ -222,7 +222,7 @@
 * her, `HER KW-BG`
 * therefore `TH-FR`
 * when `WHEPB`
-* "Major-general-field-sergeant-commander `KR-GS KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
+* "Major-general-field-sergeant-commander `KR-GS KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
 * Billy-goat's-legs" `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS KR-GS`
 * asked `SK-D`
 * wife, `WAOEUF KW-BG`
@@ -243,7 +243,7 @@
 * mahogany. `PHA/HOG/TPHEU TP-PL`
 * make `PHAEUBG`
 * lady `HRA*ED`
-* Major-general-field-sergeant-commander `KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPB/TKER`
+* Major-general-field-sergeant-commander `KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
 * Billy-goat's-legs. `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL`
 * has `HAS`
 * whole `WHOEL`

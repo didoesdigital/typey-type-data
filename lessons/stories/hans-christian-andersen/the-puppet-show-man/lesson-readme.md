@@ -584,7 +584,7 @@
 * may `PHAE`
 * perhaps `PRAPS`
 * know, `TPHOE KW-BG`
-* don't. `TKO*PB AE T* TP-PL`
+* don't. `HRO*ER/TKO*PB AE T* TP-PL`
 * moon `PHAOPB`
 * shone `SHO*EPB`
 * floor, `TPHRAOR KW-BG`
@@ -673,7 +673,7 @@
 * forward. `TPAORD TP-PL`
 * place `PHRAEUS`
 * cry `KRAOEU`
-* papa `PA/PA`
+* papa `HRO*ER/PA/PA`
 * mamma `PHAPL/PHA`
 * used `AOUFD`
 * ago. `AG TP-PL`

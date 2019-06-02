@@ -488,7 +488,7 @@
 * journey `SKWRURPB`
 * pleasant. `PHREFPBT TP-PL`
 * recovered `ROFRD`
-* itself `T/SEF`
+* itself `*EUTS`
 * being `-BG`
 * unpacked `UPB/PABGD`
 * courtyard `KORT/KWRARD`
@@ -771,7 +771,7 @@
 * lights `HRAOEUTS`
 * gold `TKPWOELD`
 * fruit. `TPRAOUT TP-PL`
-* "To-morrow `KR-GS KPA/TO H-PB PHOR/ROE`
+* "To-morrow `KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE`
 * tremble," `TREPL/-BL KW-BG KR-GS`
 * he; `HE STPH*FPLT`
 * enjoy `TPHOEUPBLG`
@@ -903,7 +903,7 @@
 * happy `HAEP`
 * days." `TKAEUS TP-PL KR-GS`
 * went `WEPBT`
-* Christmas-eve, `KREUS/PHAS H-PB AOEF KW-BG`
+* Christmas-eve, `KREUS/PHAS H-PB HRO*ER/AOEF KW-BG`
 * cakes `KAEUBG/-S`
 * lights, `HRAOEUTS KW-BG`
 * "How `KR-GS KPA/HOU`
@@ -989,7 +989,7 @@
 * air. `AEUR TP-PL`
 * quickly, `KWEULG KW-BG`
 * forgot `TPAURGT`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * about, `PW KW-BG`
 * seen. `SAOEPB TP-PL`
 * court `KORT`

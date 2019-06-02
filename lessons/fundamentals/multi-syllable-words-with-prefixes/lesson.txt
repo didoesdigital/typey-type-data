@@ -16,7 +16,7 @@ Multi-syllable words with prefixes
 'update': AUP/TKAEUT
 'subscribe': SUB/SKRAOEUB
 'along': HRAOPBG
-'increase': EUPB/KRAES
+'increase': EUPB/KRAOES
 'across': A/KROS
 'improve': EUPL/PROF
 'impact': EUPL/PABGT
@@ -116,7 +116,7 @@ Multi-syllable words with prefixes
 'episode': EP/SOED
 'epinions': AOE/PEUPB/KWROPBZ
 'remaining': RE/PHAEPBG
-'empire': EPL/AOEUR
+'empire': EPL/PAOEUR
 'contest': KAUPB/TEFT
 'attend': A/TEPBD
 'awareness': A/WAEURPBS
@@ -540,6 +540,7 @@ Multi-syllable words with prefixes
 'inhabitants': EUPB/HABT/APBTS
 'arose': A/ROES
 'asleep': A/SHRAOEP
+'despair': TKE/SPAEUR
 'approached': A/PROEFPD
 'disappeared': TKEUS/PAOERD
 'interrupted': EUPBT/RUPTD
@@ -559,6 +560,7 @@ Multi-syllable words with prefixes
 'disposed': TKEUS/POES/-D
 'aloud': A/HROUD
 'amid': A/PHEUD
+'contempt': KAUPB/TEPLT
 'defective': TKE/TPEF
 'insisted': EUPB/SEUFTD
 'impulse': EUPL/PULS
@@ -575,11 +577,14 @@ Multi-syllable words with prefixes
 'pronounced': PRO/TPHUPBS/-D
 'relieved': RE/HREFD
 'conceived': KAUPB/SAOEFD
+'condemned': KAUPB/TKEPL/-D
 'indifferent': EUPB/TKEUFRPB
 'discourse': TKEUS/KORS
 'attracted': A/TRABGD
+'conceal': KAUPB/SAOEL
 'unconscious': UPB/K-RBS
 'uncertain': UPB/SERPB
+'convey': KAUPB/SREU
 'accompany': A/K-P
 'outward': AOUT/WARD
 'disgrace': TKEUS/TKPWRAEUS
@@ -599,9 +604,11 @@ Multi-syllable words with prefixes
 'impatient': EUPL/PAEURBT
 'afforded': A/TPORD/-D
 'erected': AOE/REBGD
+'confession': KAUPB/TPEGS
 'undoubtedly': UPB/TKOUT/HREU
 'indirectly': EUPB/TKREBGT/HREU
 'renewed': RE/TPHAOUD
+'upright': AUP/RAOEUGT
 'reproach': RE/PROEFP
 'bestowed': PWE/STOEU/-D
 'abide': A/PWAOEUD
@@ -618,6 +625,7 @@ Multi-syllable words with prefixes
 'amidst': A/PHEUTDZ
 'uneasy': UPB/EZ
 'ashore': A/SHOR
+'interfere': EUPBT/TPAOER
 'insult': EUPB/SULT
 'incapable': EUPB/KAEUP/-BL
 'avoided': A/SROEUD/-D
@@ -642,6 +650,7 @@ Multi-syllable words with prefixes
 'relieve': RE/HREF
 'intentions': EUPB/TEPGS/-S
 'unjust': UPB/SKWRUFT
+'induce': EUPB/TKAUS
 'inward': EUPB/WARD
 'rejoice': RE/SKWROEUS
 'retorted': RE/TORT/-D
@@ -649,6 +658,7 @@ Multi-syllable words with prefixes
 'disciples': TKEUS/AOEUPLTS
 'awhile': A/WHAOEUL
 'impressions': EUPL/PREG/-S
+'subdued': SAUB/TKAOUD
 'innumerable': EUPB/TPHAOUPL/RABL
 'invented': EUPB/SREPBTD
 'invariably': EUPB/SRAEURBL
@@ -694,6 +704,7 @@ Multi-syllable words with prefixes
 're-use': RE/H-PB/AOUS
 'discharged': TKEUS/KHARPBLGD
 'malice': PHAL/EUS
+'declaring': TKE/KHRAEURPBG
 'adjoining': A/SKWROEUPBG
 'inhabited': EUPB/HABT/-D
 'assert': A/SERT
@@ -717,7 +728,7 @@ Multi-syllable words with prefixes
 'decisive': TKE/SAOEUF/EUF
 'assertion': A/SERGS
 'dismal': TKEUS/PHAL
-'redistributing': RE/TKR-B/-G
+'redistributing': RE/TKR-BT/-G
 'remorse': RE/PHORS
 'uncommon': UPB/KPHOPB
 'embarrassed': EPL/PWRAFD
@@ -726,6 +737,7 @@ Multi-syllable words with prefixes
 'resigned': RAOE/SAOEUPBD
 'endowed': EPB/TKOU/-D
 'restraint': RE/STRAEUPBT
+'professed': PRO/TPES/-D
 'afar': A/TPAR
 'disappear': TKEUS/PAOER
 'revived': RE/SRAOEUFD
@@ -771,6 +783,7 @@ Multi-syllable words with prefixes
 'universally': AOUPB/SRERS/HREU
 'impress': EUPL/PRES
 'resisted': RE/SEUFT/-D
+'conjecture': KAUPB/SKWREBG/TUR
 'detained': TKE/TAEUPBD
 'interposed': EUPBT/POES/-D
 'overwhelming': AUFR/WHEPLG
@@ -793,9 +806,12 @@ Multi-syllable words with prefixes
 'ascent': A/SKREPBT
 'afore': A/TPOER
 'assuredly': A/SHURD/HREU
+'condemn': KAUPB/TKEPL
 'endurance': EPB/TKURPBS
+'forlorn': TPAUR/HRORPB
 'allegiance': A/HREPBLG/APBS
 'dispose': TKEUS/POES
+'consul': KAUPB/SUL
 'precaution': PRE/KAUGS
 'endeavored': EPB/TKEFRD
 'entrusted': EPB/TRUFT/-D
@@ -817,6 +833,7 @@ Multi-syllable words with prefixes
 'discern': TKEUS/ERPB
 'orator': AUR/TOR
 'beseech': PWE/SAOEFP
+'confided': KAUPB/TPAOEUD/-D
 'disdain': TKEUS/TKAEUPB
 'detachment': TKE/TAPLT
 'infernal': EUPB/TPERPBL
@@ -850,6 +867,7 @@ Multi-syllable words with prefixes
 'relaxed': RE/HRAGD
 'attacking': A/TABG/-G
 'refinement': RE/TPAOEUPLT
+'intelligible': EUPB/TEL/EUBL
 'reprinted': RE/PREUPBT/-D
 'besieged': PWE/SAOEPBLG/-D
 'demon': TKE/PHOPB
@@ -885,6 +903,7 @@ Multi-syllable words with prefixes
 'malicious': PHAL/EURBS
 'enforce': EPB/TPORS
 'undone': UPB/TKOPB
+'confine': KAUPB/TPAOEUPB
 'contemplate': KAUPB/TPHRAEUT
 'aforesaid': A/TPOR/SAEUD
 'affectionately': A/TPEBGS/AT/HREU
@@ -899,19 +918,23 @@ Multi-syllable words with prefixes
 'reluctant': RE/HRUBGT/APBT
 'overheard': AUFR/HAERD
 'disputed': TKEUS/PAOUT/-D
+'redistribution': RE/TKR-BGS
 'eminently': EPL/TPHEPBT/HREU
 'interfered': EUPBT/TPAOERD
 'repay': RAOE/PAEU
 'unsuccessful': UPB/SKEFL
 'renown': RE/TPHOUPB
 'defy': TKE/TPEU
+'constrained': KAUPB/STRAEUPB/-D
 'rebuke': RE/PWAOUBG
 'abolished': A/PWOL/EURBD
 'renowned': RAOE/TPHOEPBD
 'degraded': TKE/TKPWRAEUD/-D
 'avenge': A/SREPBG
 'aloof': A/HRAOF
+'despairing': TKE/SPAEUR/-G
 'affirm': A/TPEURPL
+'condemnation': KAUPB/TKEPL/TPHAEUGS
 'foregoing': TPOER/TKPWOG
 'inconsistent': EUPB/KAOPBT
 'outbreak': AOUT/PWRAEBG
@@ -922,9 +945,10 @@ Multi-syllable words with prefixes
 'discreet': TKEUS/KRAOET
 'apostle': A/POFL
 'convincing': KAUPB/SREUPBS/-G
-'redistribute': RE/TKR-B
+'redistribute': RE/TKR-BT
 'denounced': TKE/TPHOUPBS/-D
 'forbear': TPAUR/PWAER
+'constable': KAUPB/STABL
 'enmity': EPB/PHEU/TEU
 'improper': EUPL/PROR
 'indefinite': EUPB/TKEF/TPHEUT
@@ -941,6 +965,7 @@ Multi-syllable words with prefixes
 'concluding': KAUPB/KHRAOUGD
 'afresh': A/TPRERB
 'appalling': A/PAULG
+'profess': PRO/TPES
 'imminent': EUPL/TPHEPBT
 'regain': RE/TKPWAEUP
 'apprehend': A/PREPBD
@@ -956,8 +981,10 @@ Multi-syllable words with prefixes
 'orphan': AUR/TPAPB
 'profane': PRO/TPAEUPB
 'foreseen': TPOER/SAOEPB
+'conceit': KAUPB/SAOET
 'revive': RE/SRAOEUF
 'overtake': AUFR/TAEUBG
+'subsistence': SAUB/SEUS/TEPBS
 'disciple': TKEUS/AOEUPL
 'revival': RE/SRAOEUFL
 'inexplicable': EUPB/SPHREUBG/-BL
@@ -965,6 +992,7 @@ Multi-syllable words with prefixes
 'prophetic': PRO/TPET/EUBG
 'undergo': UPBD/TKPW
 'beware': PWE/WAEUR
+'concession': KAUPB/SEGS
 'incline': EUPB/KHRAOEUPB
 'dissatisfied': TKEUS/SAED
 'devour': TKE/SROUR
@@ -988,7 +1016,9 @@ Multi-syllable words with prefixes
 'inflict': EUPB/TPHREUBGT
 'overtook': AUFR/TAOBG
 'implements': EUPL/PHREPLTS
+'recompense': RAOE/KPEPBS
 'befall': PWE/TPAUL
+'dissolution': TKEUS/SHRAOUGS
 'deceit': TKE/SAOET
 'engraved': EPB/TKPWRAEUFD
 'invincible': EUPB/SREUPBS/-BL
@@ -1000,6 +1030,7 @@ Multi-syllable words with prefixes
 'untouched': UPB/TUFPD
 'overtaken': AUFR/TAEPB
 'revealing': RAOE/SRAOELG
+'impenetrable': EUPL/PEPB/TRABL
 'impartial': EUPL/PARBL
 'disinterested': TKEUS/TR-D
 'foreman': TPOER/PHAPB
@@ -1010,6 +1041,7 @@ Multi-syllable words with prefixes
 'overcame': AUFR/KAEUPL
 'envious': EPB/SROUS
 'implore': EUPL/PHROR
+'confide': KAUPB/TPAOEUD
 'envoy': EPB/SROEU
 'contrive': KAUPB/TRAOEUF
 'allude': A/HRAOUD
@@ -1048,6 +1080,7 @@ Multi-syllable words with prefixes
 'disgusting': TKEUS/TKPWUS/-G
 'recital': RE/SAOEU/TAL
 'unsatisfactory': UPB/SAE/REU
+'repute': RE/PAOUT
 'redress': RE/TKRES
 'defiant': TKE/TPAOEUPBT
 'unjustly': UPB/SKWRUFT/HREU
@@ -1059,6 +1092,7 @@ Multi-syllable words with prefixes
 'inexhaustible': EUPB/EBGS/HAUFT/EUBL
 'averse': A/SRERS
 'acquaint': A/KWAEUPB
+'conveyance': KAUPB/SRAEUPBS
 'infamy': EUPB/TPA/PHEU
 'enjoys': EPB/SKWROEUS
 'alacrity': A/HRARBGT
@@ -1086,19 +1120,23 @@ Multi-syllable words with prefixes
 'erection': AOE/REBGS
 'repress': RE/PRES
 'dissipated': TKEUS/PAEUTD
+'downfall': KWROUPB/TPAUL
 'undue': UPB/TKAOU
 'unlocked': UPB/HROBGD
 'foretold': TPOER/TOLD
 'indistinct': EUPB/TKEUS/TEUPBG
 'indefinitely': EUPB/TKEFPBLT
 'aghast': A/TKPWAFT
+'subterranean': SAUB/TRAEUPB/KWRAPB
 'embarrassing': EPL/PWRAFG
 'detestable': TKE/SEFT/-BL
 'abandoning': A/PWAPBD/OPBG
+'prestige': PRE/STAOEPBLG
 'desertion': TKE/SERGS
 'abstain': AB/STAEUPB
 'empress': EPL/PRES
 'retort': RE/TORT
+'emerge': AOE/PHERPBG
 'unarmed': UPB/ARPLD
 'unscrupulous': UPB/KRAOUP/HROUS
 'outrageous': AOUT/RAEUGS
@@ -1117,6 +1155,7 @@ Multi-syllable words with prefixes
 'embroidery': EPL/PWROEUD/REU
 'reproof': RE/PRAOF
 'indoors': EUPB/TKAORS
+'confines': KAUPB/TPAOEUPB/-S
 'acquiescence': A/KWAOES/EPBS
 'disconcerted': TKEUS/KOPB/SERT/-D
 'depicted': TKE/PEUBGTD

@@ -714,7 +714,7 @@
 * woven `WOEFPB`
 * velvet `SREL/SRET`
 * carpet, `KARPT KW-BG`
-* itself `T/SEF`
+* itself `*EUTS`
 * cupola; `KUP/HRA STPH*FPLT`
 * flame `TPHRAEUPL`
 * colour `KHROUR`

@@ -192,7 +192,7 @@
 * straight `STRAEUT`
 * sun, `SUPB KW-BG`
 * lets `HR*ETS`
-* itself `T/SEF`
+* itself `*EUTS`
 * seen, `SAOEPB KW-BG`
 * suit `SAOUT`
 * exactly;" `ELG STPH*FPLT KR-GS`

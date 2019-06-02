@@ -65,7 +65,7 @@
 * little `HREUL`
 * copper, `KOP/ER KW-BG`
 * considered `KR-D`
-* itself `T/SEF`
+* itself `*EUTS`
 * quite `KWAOEUT`
 * in `TPH`
 * world `WORLD`

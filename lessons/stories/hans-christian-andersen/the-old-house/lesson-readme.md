@@ -143,7 +143,7 @@
 * looks `HRAOBGS`
 * like `HRAOEUBG`
 * gate `TKPWAET`
-* cemetery, `SEPL/TER KW-BG`
+* cemetery, `SEPLT/REU KW-BG`
 * brass `PWRAS`
 * knobs `TPHOBS`
 * upon `POPB`
@@ -886,7 +886,7 @@
 * picture. `P*EUFP TP-PL`
 * spring; `SPREUPBG STPH*FPLT`
 * pull `PUL`
-* itself `T/SEF`
+* itself `*EUTS`
 * down; `TKOUPB STPH*FPLT`
 * called `KAULD`
 * complete `KPHRAOET`

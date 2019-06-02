@@ -62,9 +62,9 @@ The Turnip
 'it': T
 'kept': KEPT
 'getting': TKPWEGT
-'larger': HRARPBLG/ER
+'larger': HRAERPBLG
 'and': SKP
-'larger,': HRARPBLG/ER KW-BG
+'larger,': HRAERPBLG KW-BG
 'and': SKP
 'seemed': SAOEPLD
 'as': AZ
@@ -443,7 +443,7 @@ The Turnip
 'have': SR
 'a': AEU
 'much': PHUFP
-'larger': HRARPBLG/ER
+'larger': HRAERPBLG
 'gift': TKPWEUFT
 'in': TPH
 'return;': RURPB STPH*FPLT

@@ -1086,7 +1086,7 @@
 * cheerful `KHAOER/-FL`
 * Delphian `TKEL/TPAOEU/A*PB`
 * springs! `SPREUPBGS SKHRAPL`
-* departure, `TKPAR/KHUR KW-BG`
+* departure, `TKPART/AOUR KW-BG`
 * thoughtfully `THAUFL/HREU`
 * slopes `SHROEPS`
 * arm `ARPL`
@@ -1160,7 +1160,7 @@
 * mournful `PHOURPB/-FL`
 * expression `EBGS/PREGS`
 * face. `TPAEUS TP-PL`
-* "To-morrow `KR-GS KPA/TO H-PB PHOR/ROE`
+* "To-morrow `KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE`
 * leave `HREF`
 * us," `US KW-BG KR-GS`
 * said. `SAEUD TP-PL`

@@ -284,7 +284,7 @@
 * observed `OEBD`
 * bird `PWEURD`
 * caught `KAUT`
-* itself `T/SEF`
+* itself `*EUTS`
 * thicket. `THEUBGT TP-PL`
 * It `KPA/T`
 * pocket `POBGT`
@@ -717,7 +717,7 @@
 * venture `SREPBT/UR`
 * dismissal, `STKPHEUS/A*L KW-BG`
 * dreaded `TKRED/-D`
-* lest `HR*ES`
+* lest `HRES/*T`
 * place `PHRAEUS`
 * throne. `THRO*EPB TP-PL`
 * counsel. `KOUPB TP-PL`
@@ -884,7 +884,7 @@
 * blood, `PWHRAOD KW-BG`
 * torn-up `TORPB SKWR*UP`
 * trees. `TRAOES TP-PL`
-* demanded `TKPAPBD/-D`
+* demanded `TKPHAPBD/-D`
 * promised `PROPLS/-D`
 * reward; `RE/WARD STPH*FPLT`
 * repented `RE/PEPBT/-D`

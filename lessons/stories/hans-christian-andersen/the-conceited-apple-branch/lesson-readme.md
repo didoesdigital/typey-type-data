@@ -509,7 +509,7 @@
 * spoke `SPOEBG`
 * seen `SAOEPB`
 * equal `KWAL`
-* distribution `TKR-GSZ`
+* distribution `TKR-BGS`
 * His `KPA/HEUS`
 * gifts, `TKPWEUFTS KW-BG`
 * both `PWO*T`

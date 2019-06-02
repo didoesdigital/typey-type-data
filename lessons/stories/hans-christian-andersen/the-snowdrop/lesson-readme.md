@@ -131,7 +131,7 @@
 * Flower `KPA/TPHRO*UR`
 * stirred `STEURD`
 * stretched `STREFPD`
-* itself `T/SEF`
+* itself `*EUTS`
 * thin `THEUPB`
 * rind `RAOEUPBD`
 * which `WEU`
@@ -187,7 +187,7 @@
 * white `WHAOEUT`
 * as `AZ`
 * snow, `STPHOE KW-BG`
-* ornamented `ORPB/APLT/-D`
+* ornamented `ORPB/*PLT/-D`
 * stripes. `STRAOEUPS TP-PL`
 * bent `PWEPBT`
 * head `HED`

@@ -211,7 +211,7 @@
 * you `U`
 * know `TPHOE`
 * your `KWROUR`
-* to-morrow `TO H-PB PHOR/ROE`
+* to-morrow `TO H-PB HRO*ER/PHOR/ROE`
 * morning; `PHORPBG STPH*FPLT`
 * me, `PHE KW-BG`
 * I `EU`

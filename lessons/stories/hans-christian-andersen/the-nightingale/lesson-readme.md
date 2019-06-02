@@ -235,7 +235,7 @@
 * nightingale. `TPHAOEUT/-G/TKPWAEL TP-PL`
 * Is `KPA/S`
 * my `PHEU`
-* empire? `EPL/AOEUR H-F`
+* empire? `EPL/PAOEUR H-F`
 * garden? `TKPWA*RPB H-F`
 * have `SR`
 * never `TPHEFR`
@@ -832,7 +832,7 @@
 * wanting, `WAPBGT KW-BG`
 * what." `WHA TP-PL KR-GS`
 * banished `PWAPB/EURBD`
-* empire, `EPL/AOEUR KW-BG`
+* empire, `EPL/PAOEUR KW-BG`
 * placed `PHRAEUFD`
 * silk `S*EULG`
 * cushion `KUGS`

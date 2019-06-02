@@ -13,7 +13,7 @@
 * of `-F`
 * theft `THEFT`
 * and `SKP`
-* condemned `KOPB/TKEPL/-D`
+* condemned `KAUPB/TKEPL/-D`
 * to `TO`
 * be `-B`
 * executed `SKAOUTD`

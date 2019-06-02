@@ -748,7 +748,7 @@
 * beware `PWE/WAEUR`
 * entering `SPWR-G`
 * track, `TRABG KW-BG`
-* lest `HR*ES`
+* lest `HRES/*T`
 * our `OUR`
 * plans, `PHRAPBS KW-BG`
 * carriage `KAEURPBLG`

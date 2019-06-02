@@ -614,7 +614,7 @@
 * nothing `TPHOG`
 * wicked, `WEUBGD KW-BG`
 * judge `SKWRUPBLG`
-* condemned `KOPB/TKEPL/-D`
+* condemned `KAUPB/TKEPL/-D`
 * forth `TPO*RT`
 * die, `TKAOEU KW-BG`
 * begged `PWEGD`
@@ -636,7 +636,7 @@
 * 'Strike `AE KPA/STRAOEUBG`
 * earth `*ERT`
 * false `TPALS`
-* constable, `KOPBS/-BL KW-BG`
+* constable, `KAUPB/STABL KW-BG`
 * treated `TRAETD`
 * lightning, `HRAOEUT/TPHEUPBG KW-BG`
 * darting `TKART/-G`

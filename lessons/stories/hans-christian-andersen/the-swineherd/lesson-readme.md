@@ -175,7 +175,7 @@
 * cry. `KRAOEU TP-PL`
 * "For `KR-GS KPA/TPOR`
 * shame, `SHAEUPL KW-BG`
-* pa," `PA KW-BG KR-GS`
+* pa," `HRO*ER/PA KW-BG KR-GS`
 * said, `SAEUD KW-BG`
 * not `TPHOT`
 * artificial, `TPHR*EURBL KW-BG`
@@ -567,7 +567,7 @@
 * sight," `SAOEUT KW-BG KR-GS`
 * angry; `APBG/REU STPH*FPLT`
 * banished `PWAPB/EURBD`
-* empire. `EPL/AOEUR TP-PL`
+* empire. `EPL/PAOEUR TP-PL`
 * stood `STAOD`
 * cried, `KRAOEUD KW-BG`
 * scolded `SKOLD/-D`

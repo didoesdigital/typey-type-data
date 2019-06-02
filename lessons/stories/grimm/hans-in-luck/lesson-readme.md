@@ -276,7 +276,7 @@
 * sorrow, `SROE KW-BG`
 * A `KPA/AEU`
 * fig `TP*EUG`
-* morrow! `PHOR/ROE SKHRAPL`
+* morrow! `HRO*ER/PHOR/ROE SKHRAPL`
 * We'll `KPA/WE AE HR*/HR*`
 * laugh `HRAF`
 * merry, `PHER/REU KW-BG`
@@ -769,7 +769,7 @@
 * grindstone; `TKPWRAOEUPBD/STOEPB STPH*FPLT`
 * rest `REFT`
 * come `KOPL`
-* itself. `T/SEF TP-PL`
+* itself. `*EUTS TP-PL`
 * Here `KPA/HAOER`
 * worse `WORS`
 * wear: `WAER STPH-FPLT`

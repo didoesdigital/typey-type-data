@@ -542,7 +542,7 @@
 * stork's `STORBG AES`
 * left `HREFT`
 * standing; `STAPBG STPH*FPLT`
-* itself, `T/SEF KW-BG`
+* itself, `*EUTS KW-BG`
 * however, `HOUF KW-BG`
 * worth `WO*RT`
 * much `PHUFP`
@@ -914,7 +914,7 @@
 * cupboards `KUP/PWORDZ`
 * chests, `KHEFT/-S KW-BG`
 * home `HOEPL`
-* itself? `T/SEF H-F`
+* itself? `*EUTS H-F`
 * easy `EZ`
 * melt `PHELT`
 * gold-making `TKPWOELD H-PB PHAEUG`
@@ -1155,7 +1155,7 @@
 * cavernous `KAFRPB/OUS`
 * depths, `TK*EPTS KW-BG`
 * grow `TKPWROE`
-* larger `HRARPBLG/ER`
+* larger `HRAERPBLG`
 * prominent, `PROPL/TPHEPBT KW-BG`
 * burst `PWUFRT`
 * sockets. `SOBGT/-S TP-PL`

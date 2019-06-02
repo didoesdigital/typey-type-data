@@ -35,7 +35,7 @@
 * green `TKPWRAOEPB`
 * plains `PHRAEUPBS`
 * around `ARPBD`
-* Milan, `PHEU/HRAPB KW-BG`
+* Milan, `PHEUL/A*PB KW-BG`
 * where `W-R`
 * it `T`
 * was `WAS`

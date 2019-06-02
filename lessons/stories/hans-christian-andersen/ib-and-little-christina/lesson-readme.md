@@ -46,7 +46,7 @@
 * sandy `SAPB/TKEU`
 * soil `SOEUL`
 * shows `SHOES`
-* itself `T/SEF`
+* itself `*EUTS`
 * between `TWAOEPB`
 * scanty `SKAPBT/TEU`
 * ears `AOERS`
@@ -315,7 +315,7 @@
 * man `PHAPB`
 * drove `TKROEF`
 * forward `TPAORD`
-* poles. `PO*ELS TP-PL`
+* poles. `POEL/-S TP-PL`
 * floated `TPHROET/-D`
 * swiftly, `SWEUFT/HREU KW-BG`
 * tide `TAOEUD`

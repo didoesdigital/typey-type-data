@@ -433,7 +433,7 @@
 * together, `TOGT KW-BG`
 * moment `PHOEPLT`
 * renewed `RE/TPHAOUD`
-* lest `HR*ES`
+* lest `HRES/*T`
 * awaken `A/WA*EUPB`
 * God `TKPWO*D`
 * helped `HEPD`
@@ -555,6 +555,6 @@
 * justice, `SKWRUFS KW-BG`
 * murderous `PHURD/RUS`
 * band `PWAPBD`
-* condemned `KOPB/TKEPL/-D`
+* condemned `KAUPB/TKEPL/-D`
 * wicked `WEUBGD`
 * deeds. `TKAOEDZ TP-PL`
