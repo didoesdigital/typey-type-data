@@ -96,8 +96,18 @@
       "target": 10
     },
     {
+      "path": "/lessons/fundamentals/roman-numerals/lesson.txt",
+      "lessonTitle": "Roman numerals",
+      "target": 12
+    },
+    {
       "path": "/lessons/drills/top-100-words/lesson.txt",
       "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
       "target": 100
     },
     {
@@ -206,9 +216,19 @@
       "target": 10
     },
     {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
+      "target": 200
+    },
+    {
       "path": "/lessons/drills/top-1000-words/lesson.txt",
       "lessonTitle": "Top 1000 words",
-      "target": 1000
+      "target": 300
     },
     {
       "path": "/lessons/drills/homophones/lesson.txt",
@@ -219,6 +239,21 @@
       "path": "/lessons/drills/emotions/lesson.txt",
       "lessonTitle": "Emotions",
       "target": 104
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 50
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 100
     },
     {
       "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
@@ -240,6 +275,11 @@
     {
       "path": "/lessons/drills/top-100-words/lesson.txt",
       "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
       "target": 100
     },
     {
@@ -475,6 +515,11 @@
       "target": 100
     },
     {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
+      "target": 100
+    },
+    {
       "path": "/lessons/drills/common-words/lesson.txt",
       "lessonTitle": "Common words",
       "target": 100
@@ -543,6 +588,11 @@
       "path": "/lessons/fundamentals/numbers/lesson.txt",
       "lessonTitle": "Numbers",
       "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/roman-numerals/lesson.txt",
+      "lessonTitle": "Roman numerals",
+      "target": 12
     },
     {
       "path": "/lessons/drills/pronouns/lesson.txt",
