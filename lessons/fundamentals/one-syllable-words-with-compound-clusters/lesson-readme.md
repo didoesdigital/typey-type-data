@@ -63,7 +63,6 @@
 * ranks `RA*PBGS`
 * punch `PUFRPB`
 * funk `TP*UPBG`
-* obj `O*PBLG`
 * nerve `TPHEFRB`
 * cage `KAEUPBLG`
 * rage `RAEUPBLG`

@@ -70,7 +70,6 @@
 * oaks `OEBG/-S`
 * nested `TPHEFT/-D`
 * notre `TPHOET/RE`
-* ids `EUFPLT/TK-FPLT/-S`
 * seized `SAOEZ/-D`
 * ceased `SAOES/-D`
 * wounded `WOUPBD/-D`

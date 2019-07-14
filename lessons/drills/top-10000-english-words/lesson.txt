@@ -8370,7 +8370,7 @@ Top 10000 English words
 'vacancies': SRAEUBG/SEU/-S
 'quizzes': KWEUSZ
 'parliamentary': PARPLT/REU
-'obj': O*PBLG
+'obj': O*/PW*/SKWR*
 'prefix': PREFBGS
 'Lucia': HRAOU/KHA
 'savannah': SA/SRA/TPHA
@@ -9964,7 +9964,7 @@ Top 10000 English words
 'safer': SAEUFR
 'insertion': EUPB/SERGS
 'instrumentation': STRAOUPLT/AEUGS
-'ids': EUFPLT/TK-FPLT/-S
+'IDs': EUFPLT/TK-FPLT/-S
 'Hugo': HAOU/TKPWOE
 'Wagner': WAG/TPHER
 'constraint': KAUPB/STRAEUPBT
