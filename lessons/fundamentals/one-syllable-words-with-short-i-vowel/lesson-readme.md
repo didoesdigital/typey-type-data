@@ -35,7 +35,6 @@
 * sits `SEUTS`
 * whip `WHEUP`
 * stripped `STREUPD`
-* strive `STREUF`
 * writ `WREUT`
 * whipped `WHEUPD`
 * Whig `WHEUG`
