@@ -71126,6 +71126,7 @@
   "PREPB/-S": "{~|(})",
   "PWR-BGT/-S": "{~|[}]",
   "PWR-BGTS": "{~|[}]{#Left}",
+  "PWR*BGTS": "{^[]^}",
   "PWRABGS": "{^}<>{#Left}{^}",
   "PWRA*BGS": "<>",
   "SKW*BGS": "{^}''{#Left}{^}",
