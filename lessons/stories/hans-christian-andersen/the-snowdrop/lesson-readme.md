@@ -511,7 +511,7 @@
 * sun `SUPB`
 * shone `SHO*EPB`
 * flattened `TPHRAT/-PBD`
-* Snowdrop, `xxx Snowdrop KW-BG`
+* Snowdrop, `KPA/STPHOE/TK-LS/TKROP KW-BG`
 * painted `PAEUPBTD`
 * floor. `TPHRAOR TP-PL`
 * servant `SEFRB/APBT`
@@ -561,7 +561,7 @@
 * there's `THR-S`
 * flower!" `TPHRO*UR SKHRAPL KR-GS`
 * "a `KR-GS AEU`
-* snowdrop, `xxx snowdrop KW-BG`
+* snowdrop, `STPHOE/TK-LS/TKROP KW-BG`
 * gauk, `xxx gauk KW-BG`
 * poet `POET`
 * gauk! `xxx gauk SKHRAPL`
@@ -598,10 +598,10 @@
 * remain `RE/PHAUPB`
 * token `TO*EPB`
 * book, `PWAOBG KW-BG`
-* snowdrop: `xxx snowdrop STPH-FPLT`
+* snowdrop: `STPHOE/TK-LS/TKROP STPH-FPLT`
 * hast `HA*FT`
 * meaning." `PHAOEPBG TP-PL KR-GS`
-* Snowdrop `xxx Snowdrop`
+* Snowdrop `KPA/STPHOE/TK-LS/TKROP`
 * back `PWABG`
 * felt `TPELT`
 * equally `KWAEL`
@@ -621,4 +621,4 @@
 * everything `EFRG`
 * way. `WAEU TP-PL`
 * story `STOER`
-* Snowdrop. `xxx Snowdrop TP-PL`
+* Snowdrop. `KPA/STPHOE/TK-LS/TKROP TP-PL`

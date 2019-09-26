@@ -787,7 +787,7 @@
 * conference `K-FPBS`
 * environment `SRAOURPLT`
 * records `RORDZ`
-* st `ST*`
+* st `S*/T*`
 * district `TR-T`
 * calendar `KAL/TKAR`
 * costs `KOFTS`

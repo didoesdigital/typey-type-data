@@ -249,7 +249,7 @@
 * sister's `ST-R AES`
 * when `WHEPB`
 * speaks! `SPAOEBGS SKHRAPL`
-* Would'st `KPA/WO AE ST*`
+* Would'st `KPA/WO AE S*/T*`
 * thou `THO*U`
 * be `-B`
 * glad, `TKPWHRAD KW-BG`

@@ -77,7 +77,7 @@
 * hair `HAEUR`
 * ebony; `EB/TPHEU STPH*FPLT`
 * called `KAULD`
-* Snowdrop. `xxx Snowdrop TP-PL`
+* Snowdrop. `KPA/STPHOE/TK-LS/TKROP TP-PL`
 * But `KPA/PWUT`
 * died; `TKAOEUD STPH*FPLT`
 * king `KEUPBG`
@@ -136,7 +136,7 @@
 * art `ART`
 * fairest `TPAEUR/EFT`
 * land.' `HRAPBD TP-PL AE`
-* Snowdrop `xxx Snowdrop`
+* Snowdrop `KPA/STPHOE/TK-LS/TKROP`
 * grew `TKPWRAOU`
 * more `PHOR`
 * beautiful; `PWAOUFL STPH*FPLT`
@@ -343,7 +343,7 @@
 * cried `KRAOEUD`
 * somebody `S-B`
 * bed. `PWED TP-PL`
-* Snowdrop, `xxx Snowdrop KW-BG`
+* Snowdrop, `KPA/STPHOE/TK-LS/TKROP KW-BG`
 * brethren `PWR*ET/REPB`
 * come `KOPL`
 * her; `HER STPH*FPLT`
@@ -487,7 +487,7 @@
 * nimbly, `TPHEUPL/PWHREU KW-BG`
 * pulled `PULD`
 * tight, `TAOEUT KW-BG`
-* Snowdrop's `xxx Snowdrop AES`
+* Snowdrop's `KPA/STPHOE/TK-LS/TKROP AES`
 * breath `PWR*ET`
 * stopped, `STOPD KW-BG`
 * dead. `TKED TP-PL`
@@ -574,7 +574,7 @@
 * read `RAED`
 * same `SAEUPL`
 * answer `AEPBS`
-* 'Snowdrop `AE xxx Snowdrop`
+* 'Snowdrop `AE KPA/STPHOE/TK-LS/TKROP`
 * shall `SHAL`
 * die, `TKAOEU KW-BG`
 * cost `KOFT`
@@ -677,7 +677,7 @@
 * air `AEUR`
 * too, `TAO KW-BG`
 * bemoaned `PWE/PHOEPB/-D`
-* Snowdrop; `xxx Snowdrop STPH*FPLT`
+* Snowdrop; `KPA/STPHOE/TK-LS/TKROP STPH*FPLT`
 * owl, `OUL KW-BG`
 * raven, `RAFPB KW-BG`
 * dove, `TKOF KW-BG`

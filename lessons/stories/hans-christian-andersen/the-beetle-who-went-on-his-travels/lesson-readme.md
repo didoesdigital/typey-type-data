@@ -824,7 +824,7 @@
 * dry `TKRAOEU`
 * now, `TPHOU KW-BG`
 * reached `RAOEFPD`
-* hothouse, `xxx hothouse KW-BG`
+* hothouse, `HOT/TK-LS/HOUS KW-BG`
 * sash `SARB`
 * glass `TKPWHRAS`
 * roof `RAOF`
@@ -843,7 +843,7 @@
 * looked `HRAOBGD`
 * around `ARPBD`
 * splendid `SPHREPBD/EUD`
-* hothouse `xxx hothouse`
+* hothouse `HOT/TK-LS/HOUS`
 * was! `WAS SKHRAPL`
 * At `KPA/AT`
 * palm-trees `PAPL H-PB TRAOES`

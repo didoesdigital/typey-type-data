@@ -186,7 +186,7 @@
 * early `ERL`
 * spring, `SPREUPBG KW-BG`
 * crocus `KROE/KUS`
-* snowdrop `xxx snowdrop`
+* snowdrop `STPHOE/TK-LS/TKROP`
 * full `TPUL`
 * bloom. `PWHRAOPL TP-PL`
 * "They `KR-GS KPA/THE`

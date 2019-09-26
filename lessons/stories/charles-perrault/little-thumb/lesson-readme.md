@@ -159,7 +159,7 @@
 * burst `PWUFRT`
 * grief: `TKPWRAOEF STPH-FPLT`
 * "Thou `KR-GS KPA/THO*U`
-* see'st `SAOE AE ST*`
+* see'st `SAOE AE S*/T*`
 * plainly `PHRAEUPBL`
 * we `WE`
 * are `R`
@@ -197,7 +197,7 @@
 * cried `KRAOEUD`
 * out `OUT`
 * "and `KR-GS SKP`
-* can'st `K AE ST*`
+* can'st `K AE S*/T*`
 * thou `THO*U`
 * thyself `THAOEU/SEFL`
 * thy `THAO*EU`
@@ -719,7 +719,7 @@
 * directly `TKREL`
 * bed. `PWED TP-PL`
 * he, `HE KW-BG`
-* would'st `WO AE ST*`
+* would'st `WO AE S*/T*`
 * cheat `KHAOET`
 * me, `PHE KW-BG`
 * cursed `KURS/-D`

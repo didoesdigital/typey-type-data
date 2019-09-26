@@ -40,7 +40,7 @@
 * qi `HRO*ER/K*EU`
 * re `R*/*E`
 * si `S*EU`
-* st `ST*`
+* st `S*/T*`
 * un `*U/TPH*`
 * ur `U*/R*`
 * ut `UT`

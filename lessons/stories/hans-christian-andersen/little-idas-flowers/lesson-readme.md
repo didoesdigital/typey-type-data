@@ -869,7 +869,7 @@
 * face. `TPAEUS TP-PL`
 * bunches `PWUFRPBS`
 * white `WHAOEUT`
-* snowdrops `xxx snowdrops`
+* snowdrops `STPHOE/TK-LS/TKROP/-S`
 * jingled `SKWREUPBG/-LD`
 * bell-like `PWEL SKWRAOEUBG`
 * bells. `PWELS TP-PL`

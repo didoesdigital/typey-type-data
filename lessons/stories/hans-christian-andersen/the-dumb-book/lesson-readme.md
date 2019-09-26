@@ -279,7 +279,7 @@
 * here `HAOER`
 * recalled `-RLD`
 * friend, `TPREPBD KW-BG`
-* schoolfellow, `xxx schoolfellow KW-BG`
+* schoolfellow, `SKAOL/TK-LS/TPO*EUL/KW-BG`
 * friend `TPREPBD`
 * fixed `TPEUFD`
 * student's `STAUPB AES`
@@ -300,7 +300,7 @@
 * exist. `KPEUFT TP-PL`
 * Here `KPA/HAOER`
 * foreign `TPOERPB`
-* hothouse `xxx hothouse`
+* hothouse `HOT/TK-LS/HOUS`
 * too `TAO`
 * tender `TERPBD`
 * gardens `TKPWARD/-PBS`
@@ -330,7 +330,7 @@
 * might `PHAOEUT`
 * kept `KEPT`
 * it? `T H-F`
-* snowdrop `xxx snowdrop`
+* snowdrop `STPHOE/TK-LS/TKROP`
 * wood; `WAOD STPH*FPLT`
 * evergreen `*FR/TKPWRAOEPB`
 * from `TPR`

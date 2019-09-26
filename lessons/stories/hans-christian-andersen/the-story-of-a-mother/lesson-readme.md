@@ -397,7 +397,7 @@
 * those `THOZ`
 * waters, `WAURS KW-BG`
 * large `HRARPBLG`
-* hothouse `xxx hothouse`
+* hothouse `HOT/TK-LS/HOUS`
 * where `W-R`
 * dwells `TKWEL/-S`
 * rears `RAOER/-S`
@@ -449,7 +449,7 @@
 * about, `PW KW-BG`
 * watering `WAURPBG`
 * Death's `KPA/TK*T AES`
-* hothouse. `xxx hothouse TP-PL`
+* hothouse. `HOT/TK-LS/HOUS TP-PL`
 * "How `KR-GS KPA/HOU`
 * found `TPOUPBD`
 * here? `HAOER H-F`
@@ -525,7 +525,7 @@
 * locks `HROBGZ`
 * woman. `WOPL TP-PL`
 * vast `SRAFT`
-* hothouse, `xxx hothouse KW-BG`
+* hothouse, `HOT/TK-LS/HOUS KW-BG`
 * grew `TKPWRAOU`
 * profusion. `PRO/TPAOUGS TP-PL`
 * Blooming `KPA/PWHRAOPL/-G`
