@@ -44,7 +44,6 @@
 * lows `HROE/-S`
 * mas `PHA/-S`
 * phrases `TPRAEUS/-S`
-* dept `TKE/-PT`
 * disks `TKEUS/-BGS`
 * verde `SRERD/SKWRE`
 * acne `ABG/TPHE`

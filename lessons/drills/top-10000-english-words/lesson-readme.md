@@ -8410,7 +8410,7 @@
 * modelling `PHOD/*EL/*LG/A*U`
 * namely `TPHAEUPL/HREU`
 * miniature `PHEUPB/TUR`
-* dept `TKE/-PT`
+* dept `TK*/*E/P*/T*`
 * hack `HABG`
 * dare `TKAEUR`
 * euros `KWROEURS`
