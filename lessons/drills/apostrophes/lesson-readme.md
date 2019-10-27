@@ -72,7 +72,7 @@
 * companies' `K-PS/AE`
 * 'cause `KAUS/AE`
 * coup d'etat `KAOUD/TA`
-* chairman's `KHAEURPL/AES`
+* chairman's `KHEURPL/AES`
 * child's `KHAOEULD/AES`
 * children's `KHEURPBS`
 * class's `KHRAS/AES`
