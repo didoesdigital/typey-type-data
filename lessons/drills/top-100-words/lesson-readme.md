@@ -97,6 +97,6 @@
 * down `TKOUPB`
 * after `AF`
 * first `TPEUFRT`
-* Mr `PH*P/R*`
+* Mr. `PHR-FPLT`
 * good `TKPWAOD`
 * men `PHEPB`

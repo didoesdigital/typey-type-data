@@ -97,7 +97,7 @@
 * down `TKOUPB`
 * after `AF`
 * first `TPEUFRT`
-* Mr `PH*P/R*`
+* Mr. `PHR-FPLT`
 * good `TKPWAOD`
 * men `PHEPB`
 * own `OEPB`
@@ -177,7 +177,7 @@
 * new `TPHU`
 * love `HRUF`
 * always `AULS`
-* Mrs `PH*P/R*/S*`
+* Mrs. `PHR-S`
 * put `PUT`
 * night `TPHAOEUT`
 * each `AOEFP`
@@ -586,7 +586,7 @@
 * tried `TRAOEUD`
 * front `TPROPBT`
 * big `PWEUG`
-* Dr `TK*P/R*`
+* Dr. `TKR-FPLT`
 * lived `HREUFD`
 * certainly `SERPBL`
 * wind `WEUPBD`

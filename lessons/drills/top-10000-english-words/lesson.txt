@@ -1478,7 +1478,7 @@ Top 10000 English words
 'uses': AOUSZ
 'output': PAOUT
 'funds': TPUPBDZ
-'Mr': PH*P/R*
+'Mr.': PHR-FPLT
 'greater': TKPWRAERT
 'likely': HRAOEULG
 'develop': SREL
@@ -1775,7 +1775,7 @@ Top 10000 English words
 'Michigan': PH*EU
 'Columbia': KHRUPL/KWRA
 'setting': SEGT
-'Dr': TK*P/R*
+'Dr.': TKR-FPLT
 'scale': SKAEL
 'stand': STAPBD
 'economy': KPHE
@@ -5342,7 +5342,7 @@ Top 10000 English words
 'deleted': TKHRAOETD
 'coat': KOET
 'Mitchell': PHEUFP/EL
-'Mrs': PH*P/R*/S*
+'Mrs.': PHR-S
 'Rica': RAOE/KA
 'restoration': RE/STORGS
 'convenience': SRAOEPBS
