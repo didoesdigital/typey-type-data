@@ -271,7 +271,7 @@
 * first, `TPEUFRT KW-BG`
 * agreeable `TKPWRAOEBL`
 * them `THEPL`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * long `HROPBG`
 * dry `TKRAOEU`
 * land, `HRAPBD KW-BG`

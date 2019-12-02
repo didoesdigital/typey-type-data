@@ -673,7 +673,7 @@
 * red `RED`
 * relationship `R*EUP`
 * relax `RE/HRABGS`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * remember `RER`
 * remind `R*EUPBD`
 * repeat `RE/PAOET`

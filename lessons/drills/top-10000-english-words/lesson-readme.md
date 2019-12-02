@@ -2589,7 +2589,7 @@
 * recreation `RE/KRAEGS`
 * offices `OFS/-S`
 * designer `STKAOEURPB`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * managed `PHAPBGD`
 * pr `P*/R*`
 * failed `TPAEULD`

@@ -70,7 +70,7 @@
 * provisions `PRO/SREUGS/-S`
 * replacement `RE/PHRAEUPLT`
 * recreation `RE/KRAEGS`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * displayed `TKEUS/PHRAEUD`
 * reviewed `RAOE/SRAOUD`
 * forecast `TPOER/KAFT`

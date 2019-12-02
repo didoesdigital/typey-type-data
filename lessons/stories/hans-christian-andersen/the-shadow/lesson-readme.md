@@ -63,7 +63,7 @@
 * sensible `SEPBS/-BL`
 * people, `PAOEPL KW-BG`
 * must `PHUFT`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * house `HOUS`
 * during `TKURG`
 * whole `WHOEL`

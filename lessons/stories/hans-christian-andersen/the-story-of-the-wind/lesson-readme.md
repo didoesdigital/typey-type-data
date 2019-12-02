@@ -610,7 +610,7 @@
 * also. `HR-S TP-PL`
 * He `KPA/HE`
 * allowed `HRO*UD`
-* remain, `RE/PHAUPB KW-BG`
+* remain, `RE/PHAEUPB KW-BG`
 * got `TKPWOT`
 * it, `T KW-BG`
 * because `PWAU`
@@ -1254,7 +1254,7 @@
 * crevices, `KREFS/-S KW-BG`
 * Mr. `PHR-FPLT`
 * Ramel `xxx Ramel`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * Dorothea `xxx Dorothea`
 * wept `WEPT`
 * bitterly, `PWEURLT KW-BG`

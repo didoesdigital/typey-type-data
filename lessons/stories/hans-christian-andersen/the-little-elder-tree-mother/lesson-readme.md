@@ -1031,4 +1031,4 @@
 * teapot," `TAE/POT KW-BG KR-GS`
 * "and `KR-GS SKP`
 * may `PHAE`
-* remain." `RE/PHAUPB TP-PL KR-GS`
+* remain." `RE/PHAEUPB TP-PL KR-GS`

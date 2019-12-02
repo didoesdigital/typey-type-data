@@ -755,7 +755,7 @@
 * also. `HR-S TP-PL`
 * use, `AOUS KW-BG`
 * himself `H*EUPLS`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * black `PWHRABG`
 * hat; `HAT STPH*FPLT`
 * dance. `TKAPBS TP-PL`

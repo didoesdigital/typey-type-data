@@ -319,7 +319,7 @@
 * baptism. `PWAPT/EUFPL TP-PL`
 * New `KPA/TPHU`
 * Testament `TEFT/TPH-PL/*PLT`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * sealed `SAOELD`
 * knew `TPHAOU`
 * deal `TKAOEL`

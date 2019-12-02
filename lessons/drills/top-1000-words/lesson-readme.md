@@ -760,7 +760,7 @@
 * simple `S*EUPL`
 * tree `TRAOE`
 * leaving `HREFG`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * society `SOET`
 * fight `TPAOEUT`
 * wall `WAUL`

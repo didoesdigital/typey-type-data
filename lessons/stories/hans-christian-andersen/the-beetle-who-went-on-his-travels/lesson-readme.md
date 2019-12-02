@@ -763,7 +763,7 @@
 * hands." `HAPBDZ TP-PL KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * unmarried `UPB/PHAEUR/EUD`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * daughters," `TKAURS KW-BG KR-GS`
 * mother. `PHOER TP-PL`
 * "Fie `KR-GS xxx Fie`

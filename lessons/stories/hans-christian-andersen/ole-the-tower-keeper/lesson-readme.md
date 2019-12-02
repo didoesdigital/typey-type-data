@@ -345,7 +345,7 @@
 * ferret `TPERT`
 * about, `PW KW-BG`
 * yet `KWRET`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * are; `R STPH*FPLT`
 * ball `PWAUL`
 * keeps `KAOEPS`

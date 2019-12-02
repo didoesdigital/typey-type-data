@@ -507,7 +507,7 @@
 * marry `PHAER`
 * answered: `AEPBS/-D STPH-FPLT`
 * 'No,' `AE KPA/TPHO KW-BG AE`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * faithful `TPA*EUT/-FL`
 * although `HR*T`
 * deserted `STK*ERT/-D`

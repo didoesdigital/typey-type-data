@@ -94,7 +94,7 @@
 * cave `KAF`
 * again `TKPWEPB`
 * prefer `PREFR`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * in `TPH`
 * open `OEP`
 * air." `AEUR TP-PL KR-GS`

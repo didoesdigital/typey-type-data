@@ -595,7 +595,7 @@
 * days. `TKAEUS TP-PL`
 * thou `THO*U`
 * shalt `SHALT`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * token `TO*EPB`
 * book, `PWAOBG KW-BG`
 * snowdrop: `STPHOE/TK-LS/TKROP STPH-FPLT`

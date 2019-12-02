@@ -445,7 +445,7 @@
 * more, `PHOR KW-BG`
 * happens `HABS`
 * polluted `PHRAOUT/-D`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * me.' `PHE TP-PL AE`
 * sat `SAT`
 * stir `STEUR`

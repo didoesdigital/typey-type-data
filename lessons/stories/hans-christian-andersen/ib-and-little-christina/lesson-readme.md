@@ -991,7 +991,7 @@
 * spoken `SPOEPB`
 * subject. `SUBT TP-PL`
 * hours `HOURS`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * together, `TOGT KW-BG`
 * obliged `OE/PWHRAOEUPBLGD`
 * return `RURPB`

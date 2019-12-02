@@ -111,7 +111,7 @@
 * will `HR`
 * heap `HAOEP`
 * rubbish `RUB/EURB`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * here `HAOER`
 * disgrace `TKEUS/TKPWRAEUS`
 * whole `WHOEL`

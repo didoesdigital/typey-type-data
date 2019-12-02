@@ -499,7 +499,7 @@
 * appendage `A/PEPB/TKAPBLG`
 * marring `PHAR/-G`
 * or `OR`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * peasant `PEFPBT`
 * shapely `SHAEUP/HREU`
 * nose `TPHOES`

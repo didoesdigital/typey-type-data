@@ -847,7 +847,7 @@
 * duck's `TKUBG AES`
 * eggs. `EGS TP-PL`
 * wait `WAEUT`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * trial `TRAOEUL`
 * three `THRAOE`
 * weeks, `WAOEBGS KW-BG`

@@ -298,7 +298,7 @@
 * To `KPA/TO`
 * become `PW-BG`
 * different `TKEUFRT`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * same! `SAEUPL SKHRAPL`
 * That's `KPA/THA AES`
 * difficult `TKEUFL`

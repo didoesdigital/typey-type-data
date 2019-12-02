@@ -300,7 +300,7 @@
 * consulting `KULT/-G`
 * recreation `RE/KRAEGS`
 * offices `OFS/-S`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * Korea `KRAOE/KWRA`
 * Kelly `KEL/HREU`
 * Toronto `TROPB/TO`

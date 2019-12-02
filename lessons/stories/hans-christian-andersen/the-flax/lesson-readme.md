@@ -479,7 +479,7 @@
 * wisest `WAOEUZ/*ES`
 * plan," `PHRAPB KW-BG KR-GS`
 * that. `THA TP-PL`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * home, `HOEPL KW-BG`
 * honor, `HO*RPB KW-BG`
 * old `OLD`

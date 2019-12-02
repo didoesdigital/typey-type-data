@@ -334,7 +334,7 @@
 * him; `HEUPL STPH*FPLT`
 * good `TKPWAOD`
 * child, `KHAOEULD KW-BG`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * so, `SO KW-BG`
 * after `AF`
 * confirmed, `K-FRPL/-D KW-BG`

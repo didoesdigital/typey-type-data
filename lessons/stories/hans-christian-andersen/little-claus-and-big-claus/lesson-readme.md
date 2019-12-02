@@ -753,7 +753,7 @@
 * tar, `TAR KW-BG`
 * whatever `WHAF`
 * stick `STEUBG`
-* remain. `RE/PHAUPB TP-PL`
+* remain. `RE/PHAEUPB TP-PL`
 * And `AFPBD`
 * happened; `HAPD STPH*FPLT`
 * returned, `RURPBD KW-BG`

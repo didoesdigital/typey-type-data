@@ -318,7 +318,7 @@
 * good `TKPWAOD`
 * often `OFPB`
 * hidden, `HEUD/EPB KW-BG`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * forgotten `TPORGTD`
 * by `PWEU`
 * Him,—not `KPA/HEUPL KW-BG EPL/TKA*RB TPHOT`

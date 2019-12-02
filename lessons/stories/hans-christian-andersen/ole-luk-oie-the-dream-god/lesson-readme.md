@@ -1246,7 +1246,7 @@
 * back `PWABG`
 * holes, `HOELS KW-BG`
 * else `ELS`
-* remain, `RE/PHAUPB KW-BG`
+* remain, `RE/PHAEUPB KW-BG`
 * falling `TPAULG`
 * stars, `STARS KW-BG`
 * tumble `TUPL/-BL`

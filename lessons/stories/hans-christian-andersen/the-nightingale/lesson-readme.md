@@ -642,7 +642,7 @@
 * fact `TPABGT`
 * visit `SREUFT`
 * successful. `SKEFL TP-PL`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * court, `KORT KW-BG`
 * own `OEPB`
 * cage, `KAEUPBLG KW-BG`

@@ -930,7 +930,7 @@
 * burned `PWURPBD`
 * began `TKPWAPB`
 * perceive `SPAOEF`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * hidden `HEUD/EPB`
 * treasure `TRERB`
 * life. `HRAOEUF TP-PL`

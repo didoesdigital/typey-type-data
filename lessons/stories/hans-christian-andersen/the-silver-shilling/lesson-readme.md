@@ -139,7 +139,7 @@
 * but `PWUT`
 * home `HOEPL`
 * back, `PWABG KW-BG`
-* remain `RE/PHAUPB`
+* remain `RE/PHAEUPB`
 * purse, `PURS KW-BG`
 * certainly `SERPBL`
 * mark `PHARBG`
