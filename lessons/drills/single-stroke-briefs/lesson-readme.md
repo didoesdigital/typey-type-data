@@ -81,7 +81,7 @@
 * agent `AGT`
 * aggregate `TKPWRAT`
 * agreed `TKPWRAED`
-* agreement `KWRAOEPLT`
+* agreement `TKPWRAOEPLT`
 * ah `HA*E`
 * ah, `AERBGS`
 * aid `AEUD`

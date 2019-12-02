@@ -707,7 +707,7 @@
 * once `WUPBS`
 * others `OERS`
 * entertainment `TAEUPLT`
-* agreement `KWRAOEPLT`
+* agreement `TKPWRAOEPLT`
 * format `TPORPLT`
 * least `HRAOEFT`
 * society `SOET`

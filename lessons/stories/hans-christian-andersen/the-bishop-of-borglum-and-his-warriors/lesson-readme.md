@@ -786,7 +786,7 @@
 * kindly, `KAOEUPBD/HREU KW-BG`
 * says, `SEZ KW-BG`
 * made `PHAED`
-* agreement `KWRAOEPLT`
+* agreement `TKPWRAOEPLT`
 * bishop." `PWEURB/OP TP-PL KR-GS`
 * "Sayest `KR-GS xxx Sayest`
 * so?" `SO H-F KR-GS`

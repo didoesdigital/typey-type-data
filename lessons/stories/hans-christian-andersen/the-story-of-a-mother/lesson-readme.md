@@ -385,7 +385,7 @@
 * us `US`
 * make `PHAEUBG`
 * an `APB`
-* agreement `KWRAOEPLT`
+* agreement `TKPWRAOEPLT`
 * together `TOGT`
 * better. `PWOERT TP-PL`
 * collect `KHREBGT`
