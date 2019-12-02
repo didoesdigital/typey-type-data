@@ -6100,7 +6100,7 @@
 * seeks `SAOEBGS`
 * herbal `ERBL`
 * loving `HRUFG`
-* strictly `STRUBGT/HREU`
+* strictly `STREUBGT/HREU`
 * routing `ROUT/-G`
 * docs `TKO*BGS`
 * Stanley `STAPB/HREU`
@@ -7138,7 +7138,7 @@
 * Watson `WAT/SOPB`
 * lying `HRAOEUG`
 * costumes `KOS/TAOUPLS`
-* strict `STREBGT`
+* strict `STREUBGT`
 * dive `TKAOEUF`
 * Saddam `SA/TKAPL`
 * circulation `SHRAEURBGS`

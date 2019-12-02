@@ -418,7 +418,7 @@
 * hanging `HAPBG/-G`
 * verified `SRER/TPAOEUD`
 * comparative `KPAEUR/TEUF`
-* strictly `STRUBGT/HREU`
+* strictly `STREUBGT/HREU`
 * routing `ROUT/-G`
 * expenditure `SPEPBD/TAOUR`
 * panties `PAPB/TEU/-S`

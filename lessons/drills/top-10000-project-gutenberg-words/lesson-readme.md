@@ -3840,7 +3840,7 @@
 * arrest `A*EURS`
 * protected `PREBGTD`
 * temperature `TEPL/TAOUR`
-* strict `STREBGT`
+* strict `STREUBGT`
 * contented `KAUPBT/-D`
 * professional `PREPBL`
 * intent `SPWEPBT`
@@ -3874,7 +3874,7 @@
 * anguish `APBG/WEURB`
 * surrounding `SROUPBGD`
 * obviously `OBL`
-* strictly `STRUBGT/HREU`
+* strictly `STREUBGT/HREU`
 * capture `KA*FP`
 * drops `TKROPS`
 * inquire `KW-R`

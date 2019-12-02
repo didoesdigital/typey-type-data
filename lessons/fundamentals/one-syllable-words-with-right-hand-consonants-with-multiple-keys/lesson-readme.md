@@ -268,7 +268,7 @@
 * ton `TOPB`
 * hints `HEUPBTS`
 * trains `TRAEUPBS`
-* strict `STREBGT`
+* strict `STREUBGT`
 * trick `TREUBG`
 * horn `HORPB`
 * handled `HAPBLD`

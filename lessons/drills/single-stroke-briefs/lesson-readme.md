@@ -5442,7 +5442,7 @@
 * strewn `STRAOUPB`
 * striation `STRAOEUGS`
 * stricken `STREUPB`
-* strict `STREBGT`
+* strict `STREUBGT`
 * stride `STRAOEUD`
 * strife `STRAOEUF`
 * striking `STRAOEUG`
