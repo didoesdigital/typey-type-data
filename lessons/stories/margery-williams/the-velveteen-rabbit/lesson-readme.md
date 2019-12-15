@@ -4,7 +4,7 @@
 * was `WAS`
 * once `WUPBS`
 * a `AEU`
-* velveteen `SREL/SRET/*E/*E/TPH*`
+* velveteen `SREL/SRE/TAOEPB`
 * rabbit, `RABT KW-BG`
 * and `SKP`
 * in `TPH`
@@ -92,7 +92,7 @@
 * all `AUL`
 * new `TPHU`
 * presents `PREPBTS`
-* Velveteen `KPA/SREL/SRET/*E/*E/TPH*`
+* Velveteen `KPA/SREL/SRE/TAOEPB`
 * forgotten. `TPORGTD TP-PL`
 * long `HROPBG`
 * time `TAOEUPL`
@@ -114,7 +114,7 @@
 * being `-BG`
 * only `OEPBL`
 * made `PHAED`
-* velveteen, `SREL/SRET/*E/*E/TPH* KW-BG`
+* velveteen, `SREL/SRE/TAOEPB KW-BG`
 * some `SOPL`
 * more `PHOR`
 * expensive `SP*EF`

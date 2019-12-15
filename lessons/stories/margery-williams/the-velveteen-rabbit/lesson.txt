@@ -4,7 +4,7 @@ The Velveteen Rabbit
 'was': WAS
 'once': WUPBS
 'a': AEU
-'velveteen': SREL/SRET/*E/*E/TPH*
+'velveteen': SREL/SRE/TAOEPB
 'rabbit,': RABT KW-BG
 'and': SKP
 'in': TPH
@@ -142,7 +142,7 @@ The Velveteen Rabbit
 'new': TPHU
 'presents': PREPBTS
 'the': -T
-'Velveteen': KPA/SREL/SRET/*E/*E/TPH*
+'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'was': WAS
 'forgotten.': TPORGTD TP-PL
@@ -178,7 +178,7 @@ The Velveteen Rabbit
 'only': OEPBL
 'made': PHAED
 'of': -F
-'velveteen,': SREL/SRET/*E/*E/TPH* KW-BG
+'velveteen,': SREL/SRE/TAOEPB KW-BG
 'some': SOPL
 'of': -F
 'the': -T
@@ -962,7 +962,7 @@ The Velveteen Rabbit
 'nights': TPHAOEUTS
 'after,': AF KW-BG
 'the': -T
-'Velveteen': KPA/SREL/SRET/*E/*E/TPH*
+'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'slept': SHREPD
 'in': TPH
@@ -1143,7 +1143,7 @@ The Velveteen Rabbit
 'how': HOU
 'his': HEUS
 'beautiful': PWAOUFL
-'velveteen': SREL/SRET/*E/*E/TPH*
+'velveteen': SREL/SRE/TAOEPB
 'fur': TPUR
 'was': WAS
 'getting': TKPWEGT
@@ -1496,7 +1496,7 @@ The Velveteen Rabbit
 'He': KPA/HE
 'took': TAOBG
 'the': -T
-'Velveteen': KPA/SREL/SRET/*E/*E/TPH*
+'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'with': W
 'him,': HEUPL KW-BG
@@ -1825,7 +1825,7 @@ The Velveteen Rabbit
 'question,': KWE KW-BG
 'for': TPOR
 'the': -T
-'Velveteen': KPA/SREL/SRET/*E/*E/TPH*
+'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'had': H
 'no': TPHO
@@ -2018,7 +2018,7 @@ The Velveteen Rabbit
 'whiskers': WHEUS/KER/-S
 'brushed': PWRURBD
 'the': -T
-'Velveteen': KPA/SREL/SRET/*E/*E/TPH*
+'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit's': KPA/RABT AES
 'ear,': AOER KW-BG
 'and': SKP
@@ -2146,7 +2146,7 @@ The Velveteen Rabbit
 'had': H
 'passed.': PAFD TP-PL
 'The': KPA/-T
-'Velveteen': KPA/SREL/SRET/*E/*E/TPH*
+'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'was': WAS
 'all': AUL
@@ -2377,7 +2377,7 @@ The Velveteen Rabbit
 'all': AUL
 'the': -T
 'little': HREUL
-'Velveteen': KPA/SREL/SRET/*E/*E/TPH*
+'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'lay': HRAEU
 'there,': THR KW-BG
@@ -3280,7 +3280,7 @@ The Velveteen Rabbit
 'him': HEUPL
 'on': OPB
 'his': HEUS
-'velveteen': SREL/SRET/*E/*E/TPH*
+'velveteen': SREL/SRE/TAOEPB
 'nose': TPHOES
 'that': THA
 'was': WAS
@@ -3650,7 +3650,7 @@ The Velveteen Rabbit
 'Instead': KPA/STPHED
 'of': -F
 'dingy': TKEUPBG/KWREU
-'velveteen': SREL/SRET/*E/*E/TPH*
+'velveteen': SREL/SRE/TAOEPB
 'he': HE
 'had': H
 'brown': PWROUPB
