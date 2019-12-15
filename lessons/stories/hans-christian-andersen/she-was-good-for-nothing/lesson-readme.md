@@ -855,7 +855,7 @@
 * world, `WORLD KW-BG`
 * unknown `UPB/TPHOEPB`
 * then. `THEPB TP-PL`
-* Michaelmas `xxx Michaelmas`
+* Michaelmas `PH*P/*EU/KR*/H*/A*/*E/HR*/PH*/A*/S*`
 * married, `PHAERD KW-BG`
 * first `TPEUFRT`
 * year `KWRAOER`

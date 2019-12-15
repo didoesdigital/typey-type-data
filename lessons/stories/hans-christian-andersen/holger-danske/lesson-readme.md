@@ -595,7 +595,7 @@
 * man; `PHAPB STPH*FPLT`
 * "for `KR-GS TPOR`
 * lashed `HRARBD`
-* follies `TPOL/HREU/KWREU/-S`
+* follies `HRO*ER/TP*P/O*/HR*/HR*/*EU/*E/S*`
 * prejudices `PREPBLG/TKEUS/-S`
 * during `TKURG`
 * life." `HRAOEUF TP-PL KR-GS`

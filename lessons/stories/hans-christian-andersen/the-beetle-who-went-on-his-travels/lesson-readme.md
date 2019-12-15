@@ -895,7 +895,7 @@
 * him, `HEUPL KW-BG`
 * round. `ROUPBD TP-PL`
 * gardener's `TKPWARD/TPHER AES`
-* playfellow `xxx playfellow`
+* playfellow `PHRAEU/TK-LS/TPO*EUL`
 * seeing `SAOEG`
 * fun `TPUPB`
 * First, `KPA/TPEURS KW-BG`

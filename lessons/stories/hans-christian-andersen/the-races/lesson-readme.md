@@ -144,7 +144,7 @@
 * are `R`
 * so `SO`
 * fickle, `TPEUBG/*L KW-BG`
-* unsettled; `xxx unsettled STPH*FPLT`
+* unsettled; `UPB/SELTD STPH*FPLT`
 * you `U`
 * always `AULS`
 * travelling `TRAFLG/A*U`

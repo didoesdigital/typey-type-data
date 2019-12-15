@@ -167,7 +167,7 @@
 * great `TKPWRAET`
 * city `STEU`
 * where `W-R`
-* hermitage, `xxx hermitage KW-BG`
+* hermitage, `HERPLT/APBLG KW-BG`
 * office `OFS`
 * bread `PWRAED`
 * can `K`

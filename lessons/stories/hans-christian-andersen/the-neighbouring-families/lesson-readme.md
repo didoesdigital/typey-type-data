@@ -992,7 +992,7 @@
 * slipped `SHREUPD`
 * under `TPH-PB`
 * garden `TKPWA*RPB`
-* palings, `xxx palings KW-BG`
+* palings, `P*/A*/HR*/*EU/TPH*/TKPW*/S* KW-BG`
 * found `TPOUPBD`
 * door `TKAOR`
 * leading `HRAEGD`
@@ -1055,7 +1055,7 @@
 * whatever `WHAF`
 * call `KAUL`
 * course `KORS`
-* handsomest `xxx handsomest`
+* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
 * cleverest; `KHR*EFR/*ES STPH*FPLT`
 * way, `WAEU KW-BG`
 * that, `THA KW-BG`

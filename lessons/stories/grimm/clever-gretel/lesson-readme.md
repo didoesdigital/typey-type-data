@@ -263,7 +263,7 @@
 * why `KWR`
 * God's `TKPWO*D AES`
 * gifts `TKPWEUFTS`
-* spoilt?' `xxx spoilt H-F AE`
+* spoilt?' `S*/P*/O*/*EU/HR*/T* H-F AE`
 * cellar `SEL/AR`
 * again, `TKPWEPB KW-BG`
 * an `APB`

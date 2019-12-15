@@ -28,7 +28,7 @@
 * with `W`
 * painted `PAEUPBTD`
 * wooden `WAOD/EPB`
-* palings `xxx palings`
+* palings `P*/A*/HR*/*EU/TPH*/TKPW*/S*`
 * in `TPH`
 * front `TPROPBT`
 * of `-F`

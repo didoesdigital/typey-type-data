@@ -512,7 +512,7 @@
 * here `HAOER`
 * ordered `ORD/-D`
 * like `HRAOEUBG`
-* clockwork, `xxx clockwork KW-BG`
+* clockwork, `KHROBG/WO*RBG KW-BG`
 * we `WE`
 * know `TPHOE`
 * greatest `TKPWRAET/EFT`

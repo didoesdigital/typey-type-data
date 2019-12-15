@@ -93,7 +93,7 @@
 * him `HEUPL`
 * being `-BG`
 * poor `PAOR`
-* simpleton, `xxx simpleton KW-BG`
+* simpleton, `S*EUPL/TO*PB KW-BG`
 * who `WHO`
 * did `TK`
 * hard `HARD`

@@ -438,7 +438,7 @@
 * beauty, `PWAOUT KW-BG`
 * known `TPHOEPB`
 * days `TKAEUS`
-* courtship, `xxx courtship KW-BG`
+* courtship, `KORT/SH-P KW-BG`
 * living `HREUFG`
 * thus `THUS`
 * past `PAFT`

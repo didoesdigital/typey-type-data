@@ -91,7 +91,7 @@
 * elder-tree `ELD/ER H-PB TRAOE`
 * hangs `HAPBGS`
 * over `OEFR`
-* palings; `xxx palings STPH*FPLT`
+* palings; `P*/A*/HR*/*EU/TPH*/TKPW*/S* STPH*FPLT`
 * beneath `TPHAO*ET`
 * its `EUTS`
 * branches, `PWRAFRPBS KW-BG`
@@ -327,7 +327,7 @@
 * "There `KR-GS KPA/THR`
 * plenty `PHREPBT`
 * our `OUR`
-* palings, `xxx palings KW-BG`
+* palings, `P*/A*/HR*/*EU/TPH*/TKPW*/S* KW-BG`
 * winter `WEURPBT`
 * keep `KAOEP`
 * room `RAOPL`

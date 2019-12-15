@@ -583,7 +583,7 @@
 * "Well, `KR-GS KPA/WEL KW-BG`
 * it's `T-S`
 * most `PHOFT`
-* abominably `xxx abominably`
+* abominably `A*/PW*/O*/PH*/*EU/TPH*/A*/PW*/HR*/KWR*`
 * here." `HAOER TP-PL KR-GS`
 * I'm `AOEUPL`
 * pullets," `xxx pullets KW-BG KR-GS`

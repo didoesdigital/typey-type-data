@@ -834,7 +834,7 @@
 * belonging `PWAOE/HROPBG/-G`
 * priests, `PRAOEFT/-S KW-BG`
 * peasants, `PEFPBT/-S KW-BG`
-* playfellows `xxx playfellows`
+* playfellows `PHRAEU/TK-LS/TPO*EUL/-S`
 * turtles. `TURT/-LS TP-PL`
 * Once `KPA/WUPBS`
 * beloved `PWHROFD`

@@ -568,4 +568,4 @@
 * contentedly `KAUPBT/-D/HREU`
 * wife. `WAOEUF TP-PL`
 * [*] `PWR-BGT STA*R PWR*BGT`
-* Simpleton `xxx Simpleton`
+* Simpleton `KPA/S*EUPL/TO*PB`

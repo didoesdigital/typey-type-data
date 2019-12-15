@@ -133,7 +133,7 @@
 * you `U`
 * shall `SHAL`
 * rest `REFT`
-* sixpence, `xxx sixpence KW-BG`
+* sixpence, `S*/*EU/KP*/P*/*E/TPH*/KR*/*E KW-BG`
 * if `TP`
 * will." `HR TP-PL KR-GS`
 * "Indeed `KR-GS KPA/TPHAOEPBD`

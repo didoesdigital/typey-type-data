@@ -1117,7 +1117,7 @@
 * gold `TKPWOELD`
 * wedding `WEGD`
 * celebrated; `SEL/PWRAEUT/-D STPH*FPLT`
-* howsoever `xxx howsoever`
+* howsoever `HRO*ER/H*P/O*/W*/S*/O*/*E/SR*/*E/R*`
 * much `PHUFP`
 * young `KWRUPBG`
 * loved `HROFD`

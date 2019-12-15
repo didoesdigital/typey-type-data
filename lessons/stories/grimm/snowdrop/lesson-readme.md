@@ -98,7 +98,7 @@
 * to `TO`
 * think `THEU`
 * anyone `TPHEUPB`
-* handsomer `xxx handsomer`
+* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
 * than `THAPB`
 * was. `WAS TP-PL`
 * She `KPA/SHE`
@@ -408,7 +408,7 @@
 * dead, `TKED KW-BG`
 * believed `PWHREFD`
 * must `PHUFT`
-* handsomest `xxx handsomest`
+* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
 * lady `HRA*ED`
 * land; `HRAPBD STPH*FPLT`
 * said: `SAEUD STPH-FPLT`

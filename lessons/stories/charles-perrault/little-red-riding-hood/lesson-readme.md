@@ -264,7 +264,7 @@
 * hiding `HAOEUD/-G`
 * himself `H*EUPLS`
 * under `TPH-PB`
-* bedclothes: `xxx bedclothes STPH-FPLT`
+* bedclothes: `PWED/TK-LS/KHRO*ETS STPH-FPLT`
 * "Put `KR-GS KPA/PUT`
 * cake, `KAEUBG KW-BG`
 * butter `PWAOURT`

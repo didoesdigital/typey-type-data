@@ -482,7 +482,7 @@
 * accepted `SEPD`
 * promised `PROPLS/-D`
 * Tuft `KPA/TUFT`
-* twelvemonth, `xxx twelvemonth KW-BG`
+* twelvemonth, `T*/W*/*E/HR*/SR*/*E/PH*/O*/TPH*/T*/H* KW-BG`
 * found `TPOUPBD`
 * herself `H*ERS`
 * otherwise `O*ERZ`
@@ -658,7 +658,7 @@
 * surprised `SPRAOEUFD`
 * ever, `-FR KW-BG`
 * recollecting `REBG/HREBGT/-G`
-* twelvemonth `xxx twelvemonth`
+* twelvemonth `T*/W*/*E/HR*/SR*/*E/PH*/O*/TPH*/T*/H*`
 * sink `S*EUPBG`
 * ground. `TKPWROUPBD TP-PL`
 * What `KPA/WHA`
@@ -821,7 +821,7 @@
 * appeared `A/PAOERD`
 * finest `TPAOEUPB/EFT`
 * earth; `*ERT STPH*FPLT`
-* handsomest `xxx handsomest`
+* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
 * amiable `APL/KWRABL`
 * ever `-FR`
 * saw. `SAU TP-PL`
@@ -874,7 +874,7 @@
 * opinion, `P-PB KW-BG`
 * martial `PHAR/SHAL`
 * heroic. `HOEURBG TP-PL`
-* Howsoever `xxx Howsoever`
+* Howsoever `H*P/O*/W*/S*/O*/*E/SR*/*E/R*`
 * immediately `PHAOELD`
 * consent. `KEFPBT TP-PL`
 * being `-BG`

@@ -43,7 +43,7 @@
 * it. `T TP-PL`
 * Outside `KPA/OUDZ`
 * by `PWEU`
-* palings `xxx palings`
+* palings `P*/A*/HR*/*EU/TPH*/TKPW*/S*`
 * at `AT`
 * road-side, `RAOD H-PB SAOEUD KW-BG`
 * stood `STAOD`
@@ -251,7 +251,7 @@
 * place `PHRAEUS`
 * really `R-L`
 * inside `TPH-DZ`
-* palings, `xxx palings KW-BG`
+* palings, `P*/A*/HR*/*EU/TPH*/TKPW*/S* KW-BG`
 * outside. `OUDZ TP-PL`
 * One `KPA/WUPB`
 * often `OFPB`
@@ -448,7 +448,7 @@
 * gardener's `TKPWARD/TPHER AES`
 * boy `PWOEU`
 * sang `SAPBG`
-* palings: `xxx palings STPH-FPLT`
+* palings: `P*/A*/HR*/*EU/TPH*/TKPW*/S* STPH-FPLT`
 * "Up `KR-GS KPA/UP`
 * hill, `HEUL KW-BG`
 * down `TKOUPB`

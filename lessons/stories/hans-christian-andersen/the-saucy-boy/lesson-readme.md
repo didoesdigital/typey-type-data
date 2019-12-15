@@ -165,7 +165,7 @@
 * bow, `PWOE KW-BG`
 * it `T`
 * entirely `SPWAOEURL`
-* spoilt `xxx spoilt`
+* spoilt `S*/P*/O*/*EU/HR*/T*`
 * rain, `RAEUPB KW-BG`
 * colours `KHROURS/A*U`
 * arrows `AR/OES`
@@ -232,7 +232,7 @@
 * shining." `SHAOEUPBG TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * bow `PWOE`
-* spoilt," `xxx spoilt KW-BG KR-GS`
+* spoilt," `S*/P*/O*/*EU/HR*/T* KW-BG KR-GS`
 * poet. `POET TP-PL`
 * "That `KR-GS KPA/THA`
 * unfortunate," `TPHORPBT KW-BG KR-GS`
@@ -258,7 +258,7 @@
 * "Do `KR-GS KPA/TKO`
 * see `SAOE`
 * now `TPHOU`
-* spoilt?" `xxx spoilt H-F KR-GS`
+* spoilt?" `S*/P*/O*/*EU/HR*/T* H-F KR-GS`
 * said, `SAEUD KW-BG`
 * and, `SKP KW-BG`
 * loudly `HROUD/HREU`

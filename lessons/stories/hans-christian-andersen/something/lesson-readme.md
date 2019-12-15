@@ -561,7 +561,7 @@
 * received `SAOEFD`
 * its `EUTS`
 * name `TPHAEUPL`
-* handsomest `xxx handsomest`
+* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
 * property. `PROT TP-PL`
 * That `KPA/THA`
 * "something," `KR-GS S-G KW-BG KR-GS`

@@ -596,7 +596,7 @@
 * frightening `TPRAOEUT/EPBG`
 * birds `PWEURDZ`
 * hedge `HEPBL`
-* palings. `xxx palings TP-PL`
+* palings. `P*/A*/HR*/*EU/TPH*/TKPW*/S* TP-PL`
 * "They `KR-GS KPA/THE`
 * said. `SAEUD TP-PL`
 * eyes, `AO*EUS KW-BG`

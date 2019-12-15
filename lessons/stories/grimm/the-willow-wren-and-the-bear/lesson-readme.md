@@ -320,7 +320,7 @@
 * revealed `RE/SRAOELD`
 * everything, `EFRG KW-BG`
 * down `TKOUPB`
-* minutest `xxx minutest`
+* minutest `PH*/*EU/TPH*/*U/T*/*E/S*/T*`
 * detail, `TKE/TAEUL KW-BG`
 * day `TKAEU`
 * broke, `PWROEBG KW-BG`

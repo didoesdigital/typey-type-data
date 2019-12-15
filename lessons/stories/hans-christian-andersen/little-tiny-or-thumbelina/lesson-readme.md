@@ -676,7 +676,7 @@
 * doubt, `TKOUT KW-BG`
 * always `AULS`
 * spoke `SPOEBG`
-* slightingly `xxx slightingly`
+* slightingly `S*/HR*/*EU/TKPW*/H*/T*/*EU/TPH*/TKPW*/HR*/KWR*`
 * them. `THEPL TP-PL`
 * obliged `OE/PWHRAOEUPBLGD`
 * "Lady-bird, `KR-GS KPA/HRA*ED H-PB PWEURD KW-BG`

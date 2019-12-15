@@ -299,7 +299,7 @@
 * befall `PWE/TPAUL`
 * us.' `US TP-PL AE`
 * 'You `AE KPA/U`
-* simpleton,' `xxx simpleton KW-BG AE`
+* simpleton,' `S*EUPL/TO*PB KW-BG AE`
 * eldest, `ELD/EFT KW-BG`
 * 'you `AE U`
 * always `AULS`

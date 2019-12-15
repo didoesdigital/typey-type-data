@@ -631,7 +631,7 @@
 * themselves `TH*EPLS`
 * nightingales. `TPHAOEUT/-G/TKPWAEL/-S TP-PL`
 * footmen `TPAOT/PH*EPB`
-* chambermaids `xxx chambermaids`
+* chambermaids `KR*/H*/A*/PH*/PW*/*E/R*/PH*/A*/*EU/TK*/-S`
 * also `HR-S`
 * expressed `EBGS/PREFD`
 * satisfaction, `SAEBGS KW-BG`

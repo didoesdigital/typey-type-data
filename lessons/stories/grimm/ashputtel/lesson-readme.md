@@ -219,7 +219,7 @@
 * rode `ROED`
 * through `THRU`
 * green `TKPWRAOEPB`
-* copse, `xxx copse KW-BG`
+* copse, `KAU/P*/SP-S/-S/SKWR*E KW-BG`
 * hazel `HAEUZ/EL`
 * twig `TWEUG`
 * brushed `PWRURBD`

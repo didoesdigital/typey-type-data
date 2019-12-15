@@ -201,7 +201,7 @@
 * up `UP`
 * strange `STRAEUPBG`
 * thoughts `THAUTS`
-* hearers—thoughts `xxx hearers EPL/TKA*RB THAUTS`
+* hearers—thoughts `HAER/*ERS EPL/TKA*RB THAUTS`
 * times `TAOEUPLS`
 * carried `KAERD`
 * back. `PWABG TP-PL`

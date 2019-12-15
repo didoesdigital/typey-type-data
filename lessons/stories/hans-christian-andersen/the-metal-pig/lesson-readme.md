@@ -1290,7 +1290,7 @@
 * picture-gallery, `P*EUFP H-PB TKPWAL/REU KW-BG`
 * incomprehensible. `EUPB/KPREPBS/-BL TP-PL`
 * however, `HOUF KW-BG`
-* consoled `KAUPB/SOEL/-D`
+* consoled `HRO*ER/KR*P/O*/TPH*/S*/O*/HR*/*E/TK*`
 * fellow, `TPO*EUL KW-BG`
 * tried `TRAOEUD`
 * soften `SOFPB`

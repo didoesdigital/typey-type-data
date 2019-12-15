@@ -108,7 +108,7 @@
 * sank `SA*PBG`
 * in, `TPH KW-BG`
 * where `W-R`
-* sportive, `xxx sportive KW-BG`
+* sportive, `SPORT/EUF KW-BG`
 * frolicsome `TPROL/EUBG/SPH`
 * child `KHAOEULD`
 * had `H`

@@ -276,7 +276,7 @@
 * young; `KWRUPBG STPH*FPLT`
 * there `THR`
 * when `WHEPB`
-* handsomer `xxx handsomer`
+* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
 * ever; `-FR STPH*FPLT`
 * gilded `TKPWEULD/-D`
 * all `AUL`

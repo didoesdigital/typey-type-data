@@ -450,7 +450,7 @@
 * married; `PHAERD STPH*FPLT`
 * here `HAOER`
 * fast." `TPAFT TP-PL KR-GS`
-* consoled `KAUPB/SOEL/-D`
+* consoled `HRO*ER/KR*P/O*/TPH*/S*/O*/HR*/*E/TK*`
 * himself `H*EUPLS`
 * little. `HREUL TP-PL`
 * seems `SAOEPLS`

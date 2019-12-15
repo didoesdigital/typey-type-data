@@ -264,7 +264,7 @@
 * told `TOLD`
 * rose-bush `ROEZ H-PB PWURB`
 * scolded `SKOLD/-D`
-* simpletons, `xxx simpletons KW-BG`
+* simpletons, `S*EUPL/TO*PB/-S KW-BG`
 * should `SHO`
 * have `SR`
 * cut `KUT`

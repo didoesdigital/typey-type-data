@@ -311,7 +311,7 @@
 * branch `PWRAFRPB`
 * been `PW-PB`
 * by `PWEU`
-* handsomest `xxx handsomest`
+* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
 * men, `PHEPB KW-BG`
 * wood `WAOD`
 * blazed `PWHRAEUZ/-D`

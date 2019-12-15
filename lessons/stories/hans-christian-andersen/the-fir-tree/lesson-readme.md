@@ -781,7 +781,7 @@
 * quiet `KWAO*EUT`
 * thoughtful `THAUFL`
 * night. `TPHAOEUT TP-PL`
-* housemaid `xxx housemaid`
+* housemaid `H*/O*/*U/S*/*E/PH*/A*/*EU/TK*`
 * in. `TPH TP-PL`
 * "Now," `KR-GS KPA/TPHOU KW-BG KR-GS`
 * fir, `TPEUR KW-BG`
@@ -1000,7 +1000,7 @@
 * Fresh `KPA/TPRERB`
 * fragrant `TPRAEUG/RAPBT`
 * roses `ROES/-S`
-* palings. `xxx palings TP-PL`
+* palings. `P*/A*/HR*/*EU/TPH*/TKPW*/S* TP-PL`
 * linden-trees `xxx linden H-PB TRAOES`
 * blossom; `PWHROFPL STPH*FPLT`
 * here `HAOER`

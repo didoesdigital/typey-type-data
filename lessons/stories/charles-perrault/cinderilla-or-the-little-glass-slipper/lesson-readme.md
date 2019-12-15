@@ -173,7 +173,7 @@
 * apparel, `A/PAEURL KW-BG`
 * hundred `HUPBD`
 * times `TAOEUPLS`
-* handsomer `xxx handsomer`
+* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
 * than `THAPB`
 * sisters, `ST-RS KW-BG`
 * tho' `THO* AE`
@@ -801,7 +801,7 @@
 * sadly `SAD/HREU`
 * sister `ST-R`
 * lent `HREPBT`
-* jestingly. `xxx jestingly TP-PL`
+* jestingly. `SKWR*/*E/S*/T*/*EU/TPH*/TKPW*/HR*/KWR* TP-PL`
 * magnificently `PHAFG/SEPBT/HREU`
 * compliments `KPHREUPLTS`
 * amorous `APL/ROUS`

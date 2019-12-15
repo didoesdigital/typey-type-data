@@ -331,7 +331,7 @@
 * color `KROR`
 * rose `ROEZ`
 * cheeks `KHAOEBGS`
-* courtship, `xxx courtship KW-BG`
+* courtship, `KORT/SH-P KW-BG`
 * beautiful `PWAOUFL`
 * many `PHAEPB`
 * tricks `TREUBGS`

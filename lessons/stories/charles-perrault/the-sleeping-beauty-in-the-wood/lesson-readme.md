@@ -925,7 +925,7 @@
 * called `KAULD`
 * Day, `KPA/TKAEU KW-BG`
 * even `AOEPB`
-* handsomer `xxx handsomer`
+* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
 * sister. `ST-R TP-PL`
 * once `WUPBS`
 * order `ORD`
