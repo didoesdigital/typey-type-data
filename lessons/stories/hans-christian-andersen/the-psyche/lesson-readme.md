@@ -1366,7 +1366,7 @@
 * sinful `SEUPB/-FL`
 * impure. `*EUPL/PAOUR TP-PL`
 * fully `TPHRAOUL`
-* realized `AEFLD`
+* realized `RAEFLD`
 * this. `TH TP-PL`
 * flames `TPHRAEUPLS`
 * times! `TAOEUPLS SKHRAPL`

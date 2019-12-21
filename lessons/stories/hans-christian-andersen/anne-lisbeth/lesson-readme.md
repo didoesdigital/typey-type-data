@@ -964,7 +964,7 @@
 * mind, `PHAOEUPBD KW-BG`
 * fermenting `TPERPLT/-G`
 * there, `THR KW-BG`
-* realized `AEFLD`
+* realized `RAEFLD`
 * senses `SEPBS/-S`
 * slumbering; `SHRUPL/PWER/-G STPH*FPLT`
 * there. `THR TP-PL`

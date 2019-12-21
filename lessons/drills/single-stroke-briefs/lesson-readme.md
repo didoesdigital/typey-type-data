@@ -4109,7 +4109,7 @@
 * reality `RAOELT`
 * realization `RAELGS`
 * realize `RAEFL`
-* realized `AEFLD`
+* realized `RAEFLD`
 * realm `R*EL`
 * ream `RAOEPL`
 * reap `RAOEP`

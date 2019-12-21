@@ -2711,7 +2711,7 @@
 * slightest `SHRAOEUT/EFT`
 * widow `WO*EUD`
 * charity `KHAEURT`
-* realized `AEFLD`
+* realized `RAEFLD`
 * element `HREPLT`
 * shed `SHED`
 * errors `RO*ERS`
@@ -5975,7 +5975,7 @@
 * forgiven `TPAURGD`
 * sternly `STERPB/HREU`
 * proclamation `PROBG/PHAEUGS`
-* realised `AEFLD/A*U`
+* realised `RAEFLD/A*U`
 * pipes `PAOEUPS`
 * arising `A/RAOEUS/-G`
 * pitched `PEUFPD`
