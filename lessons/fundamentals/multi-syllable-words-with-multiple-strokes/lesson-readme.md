@@ -2647,7 +2647,7 @@
 * levy `HRE/SREU`
 * numeric `TPHAOUPL/ERBG`
 * skating `SKAEUT/-G`
-* kinda `KAEUPBD/TKA`
+* kinda `KAOEUPB/TKA`
 * Aberdeen `AB/ER/TKAOEPB`
 * emperor `EPL/ROR`
 * malpractice `PHAL/PRABG/TEUS`

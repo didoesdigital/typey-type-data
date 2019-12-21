@@ -9292,7 +9292,7 @@
 * numeric `TPHAOUPL/ERBG`
 * anthropology `A*PBT/POLG`
 * skating `SKAEUT/-G`
-* kinda `KAEUPBD/TKA`
+* kinda `KAOEUPB/TKA`
 * Aberdeen `AB/ER/TKAOEPB`
 * emperor `EPL/ROR`
 * grad `TKPWRAD`
