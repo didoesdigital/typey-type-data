@@ -5270,7 +5270,7 @@
 * disorder `TKORD`
 * routine `RAOU/TAOEPB`
 * toolbar `TAOL/PWAR`
-* basically `PHRAEUFBG`
+* basically `PWHRAEUFBG`
 * rocks `ROBGS`
 * conventional `SREPBL`
 * titans `TAOEUT/TAPB/-S`

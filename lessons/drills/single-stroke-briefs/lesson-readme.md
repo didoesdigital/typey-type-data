@@ -362,7 +362,7 @@
 * basement `PWAEUPLT`
 * bash `PWARB`
 * basic `PWAEUFBG`
-* basically `PHRAEUFBG`
+* basically `PWHRAEUFBG`
 * basil `PWAEUFL`
 * basing `PWAEUFG`
 * basis `PWAES`

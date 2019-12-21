@@ -517,7 +517,7 @@
 * appeals `AEPS`
 * illness `HR*PBS`
 * Kennedy `KEPB/TKEU`
-* basically `PHRAEUFBG`
+* basically `PWHRAEUFBG`
 * applicants `PHREUBGTS`
 * firewall `TPAOEUR/WAUL`
 * scanner `SKAPB/ER`
