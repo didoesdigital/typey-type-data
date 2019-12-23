@@ -6597,7 +6597,7 @@
 * Aaron `AEUR/O*PB`
 * endeavored `EPB/TKEFRD`
 * insight `EUPB/SAOEUT`
-* definitely `TKEFPL`
+* definitely `TKEFPBLT`
 * stature `STA/TUR`
 * Troy `TROEU`
 * Miriam `PHEUR/KWRAPL`
