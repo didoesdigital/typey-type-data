@@ -1087,7 +1087,7 @@
 * parchment `PAFRPB/*PLT`
 * exultation. `KPUL/TAEUGS TP-PL`
 * touch!" `TUFP SKHRAPL KR-GS`
-* "I've `KR-GS EU AE SR*/*E`
+* "I've `KR-GS/AOEUF`
 * remembrance `RERPBS`
 * last. `HRAFT TP-PL`
 * expect `KP-PT`

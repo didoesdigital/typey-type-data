@@ -636,7 +636,7 @@
 * evening, `AOEPBG KW-BG`
 * woman." `WOPL TP-PL KR-GS`
 * man." `PHAPB TP-PL KR-GS`
-* "I've `KR-GS EU AE SR*/*E`
+* "I've `KR-GS/AOEUF`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * well, `WEL KW-BG`
 * understand `URPBD`

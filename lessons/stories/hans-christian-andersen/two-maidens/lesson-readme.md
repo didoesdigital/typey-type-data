@@ -302,7 +302,7 @@
 * distinction; `TKWEUPBGS STPH*FPLT`
 * still `STEUL`
 * "hand-rammers." `KR-GS HAPBD H-PB xxx rammers TP-PL KR-GS`
-* "Mai—!" `KR-GS KPA/PH*/A*/*EU EPL/TKA*RB SKHRAPL KR-GS`
+* "Mai—!" `KR-GS PH*P/A*/*EU EPL/TKA*RB SKHRAPL KR-GS`
 * bumped `PW*UPLD`
 * pavement. `PAEUFPLT TP-PL`
 * very `SRE`

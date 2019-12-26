@@ -254,9 +254,9 @@
 * round `ROUPBD`
 * them, `THEPL KW-BG`
 * screamed: `SKRAOEPLD STPH-FPLT`
-* 'Tu `AE KPA/T*/*U`
+* 'Tu `AE T*P/*U`
 * whu! `xxx whu SKHRAPL`
-* Tu `KPA/T*/*U`
+* Tu `T*P/*U`
 * whu!' `xxx whu SKHRAPL AE`
 * move; `PHOF STPH*FPLT`
 * fixed `TPEUFD`

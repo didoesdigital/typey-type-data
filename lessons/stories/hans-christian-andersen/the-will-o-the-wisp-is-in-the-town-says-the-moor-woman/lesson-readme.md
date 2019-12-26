@@ -741,7 +741,7 @@
 * little," `HREUL KW-BG KR-GS`
 * answered `AEPBS/-D`
 * Moor-woman. `KPA/PHO*R H-PB WOPL TP-PL`
-* "I've `KR-GS EU AE SR*/*E`
+* "I've `KR-GS/AOEUF`
 * else `ELS`
 * now." `TPHOU TP-PL KR-GS`
 * gone. `TKPWOPB TP-PL`
@@ -859,7 +859,7 @@
 * meadow. `PHED/OE TP-PL`
 * vanished, `SRAPB/EURBD KW-BG`
 * stopped `STOPD`
-* "You've `KR-GS KPA/U AE SR*/*E`
+* "You've `KR-GS/KPA/UF`
 * coming!" `KO*G SKHRAPL KR-GS`
 * "Witches `KR-GS KPA/WEUFP/-S`
 * get `TKPWET`
@@ -998,7 +998,7 @@
 * still. `STEUL TP-PL`
 * Just `KPA/SKWRUFT`
 * look! `HRAOBG SKHRAPL`
-* You've `KPA/U AE SR*/*E`
+* You've `KPA/UF`
 * one, `WUPB KW-BG`
 * able `ABL`
 * it." `T TP-PL KR-GS`

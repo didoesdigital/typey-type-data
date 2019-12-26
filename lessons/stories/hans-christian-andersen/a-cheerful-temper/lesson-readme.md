@@ -556,7 +556,7 @@
 * voice `SROEUS`
 * society, `SOET KW-BG`
 * sang `SAPBG`
-* "Mi `KR-GS KPA/PHAO*EU`
+* "Mi `KR-GS PH*P/*EU`
 * manca `xxx manca`
 * la `HRA`
 * voce,"[1] `xxx voce KW-BG KR-GS PWR-BGT #S PWR*BGT`

@@ -939,7 +939,7 @@
 * named `TPHAEUPLD`
 * holiday `HOL/TKEU`
 * Donkey-skin `KPA/TKOPB/KEU H-PB SKEUPB`
-* sun-hued `SUPB H-PB H*/*U/-D`
+* sun-hued `SUPB H-PB HAOU/-D`
 * dress, `TKRES KW-BG`
 * son `SOPB`
 * farm `TPARPL`

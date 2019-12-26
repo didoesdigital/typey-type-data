@@ -1094,7 +1094,7 @@
 * ring `REUPBG`
 * stare `STAER`
 * her. `HER TP-PL`
-* "I've `KR-GS EU AE SR*/*E`
+* "I've `KR-GS/AOEUF`
 * brought `PWRAUT`
 * playfellow," `PHRAEU/TK-LS/TPO*EUL KW-BG KR-GS`
 * teach `TAOEFP`

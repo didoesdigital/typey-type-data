@@ -418,7 +418,7 @@
 * marched `PHAFRPBD`
 * across `A/KROS`
 * way. `WAEU TP-PL`
-* "I've `KR-GS EU AE SR*/*E`
+* "I've `KR-GS/AOEUF`
 * place `PHRAEUS`
 * now, `TPHOU KW-BG`
 * no `TPHO`

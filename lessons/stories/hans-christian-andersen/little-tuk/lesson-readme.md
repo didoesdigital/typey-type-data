@@ -5,7 +5,7 @@
 * called `KAULD`
 * him `HEUPL`
 * Little `KPA/HREUL`
-* Tuk, `xxx Tuk KW-BG`
+* Tuk, `T*P/*U/*BG KW-BG`
 * but `PWUT`
 * it `T`
 * was `WAS`
@@ -34,7 +34,7 @@
 * knew `TPHAOU`
 * him, `HEUPL KW-BG`
 * strangers. `STRAEUPB/SKWRERS TP-PL`
-* Tuk `xxx Tuk`
+* Tuk `T*P/*U/*BG`
 * left `HREFT`
 * at `AT`
 * home `HOEPL`
@@ -221,7 +221,7 @@
 * keep `KAOEP`
 * themselves;" `TH*EPLS STPH*FPLT KR-GS`
 * time `TAOEUPL`
-* Tuk's `xxx Tuk AES`
+* Tuk's `T*P/*U/*BG AES`
 * pillow `PEUL/OE`
 * began `TKPWAPB`
 * move `PHOF`
@@ -358,8 +358,8 @@
 * or `OR`
 * not, `TPHOT KW-BG`
 * stood `STAOD`
-* "Tuk! `KR-GS xxx Tuk SKHRAPL`
-* Tuk!" `xxx Tuk SKHRAPL KR-GS`
+* "Tuk! `KR-GS T*P/*U/*BG SKHRAPL`
+* Tuk!" `T*P/*U/*BG SKHRAPL KR-GS`
 * voice. `SROEUS TP-PL`
 * person `PERPB`
 * spoke. `SPOEBG TP-PL`
@@ -593,7 +593,7 @@
 * hear `HAER`
 * cock `KOBG`
 * crow, `KROE KW-BG`
-* Tuk. `xxx Tuk TP-PL`
+* Tuk. `T*P/*U/*BG TP-PL`
 * 'Cock-a-doodle-doo.' `AE KPA/KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO TP-PL AE`
 * fowls `TPO*UL/-S`
 * flying `TPHRAOEUG`
