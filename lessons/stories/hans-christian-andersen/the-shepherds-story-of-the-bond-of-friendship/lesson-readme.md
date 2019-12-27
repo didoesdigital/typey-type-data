@@ -583,7 +583,7 @@
 * pictures `P*EUFPS`
 * golden `TKPWOELD/*EPB`
 * frames. `TPRAEUPLS TP-PL`
-* angels, `A*EPBLG/-S KW-BG`
+* angels, `APB/SKWREL/-S KW-BG`
 * fair `TPAEUR`
 * bright; `PWRAOEUT STPH*FPLT`
 * equally `KWAEL`

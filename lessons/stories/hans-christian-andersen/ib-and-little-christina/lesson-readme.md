@@ -985,7 +985,7 @@
 * childhood `KHAOEULD/H*D`
 * betrothed? `PWE/TRO*T/-D H-F`
 * To `KPA/TO`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * other, `OER KW-BG`
 * word `WORD`
 * spoken `SPOEPB`

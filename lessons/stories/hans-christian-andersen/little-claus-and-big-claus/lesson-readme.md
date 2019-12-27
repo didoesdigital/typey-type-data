@@ -495,7 +495,7 @@
 * wife, `WAOEUF KW-BG`
 * supposed `SPOED`
 * been `PW-PB`
-* wizard `SA*RD`
+* wizard `WEUFRD`
 * table. `TAEUBL TP-PL`
 * dared `TKAEURD`
 * anything; `TPHEUG STPH*FPLT`

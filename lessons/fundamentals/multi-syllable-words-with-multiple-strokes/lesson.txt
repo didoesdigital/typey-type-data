@@ -164,6 +164,7 @@ Multi-syllable words with multiple strokes
 'Spanish': SPAPB/EURB
 'Columbia': KHRUPL/KWRA
 'highest': HAOEU/EFT
+'Angeles': KPA/APB/SKWREL/ES
 'networking': TPHERBG/-G
 'detail': TKE/TAEUL
 'Francisco': TPRAPB/SEUS/KOE
@@ -171,7 +172,7 @@ Multi-syllable words with multiple strokes
 'applied': A/PHRAOEUD
 'Vegas': SRAEUG/AS
 'attention': A/T-PBGS
-'regulations': RAEUG/-S
+'regulations': RAEUGS/-S
 'resort': RE/SORT
 'facility': TPAS/EULT
 'minister': PHEUPB/STER
@@ -205,6 +206,7 @@ Multi-syllable words with multiple strokes
 'servers': SER/SRERS
 'alone': A/HROEPB
 'keyword': KAOE/WORD
+'congress': KOPB/TKPWRESZ
 'paperback': PAEUP/ER/PWABG
 'classifieds': KHRAS/TPAOEUDZ
 'apartments': APT/-PLTS
@@ -292,6 +294,7 @@ Multi-syllable words with multiple strokes
 'specifications': SPEFBGS/-S
 'anime': APB/PHAEU
 'decisions': STKEUGS/-S
+'editorial': ED/TORL
 'expression': EBGS/PREGS
 'provisions': PRO/SREUGS/-S
 'suggestions': SUGS/-S
@@ -304,6 +307,7 @@ Multi-syllable words with multiple strokes
 'Korea': KRAOE/KWRA
 'Kelly': KEL/HREU
 'Toronto': TROPB/TO
+'Andrew': APB/TKRAOU
 'Joseph': SKWROE/SEF
 'ministry': PH*EUPBS/REU
 'birthday': PWEURT/TKAEU
@@ -400,6 +404,7 @@ Multi-syllable words with multiple strokes
 'census': KEPBS/US
 'interracial': SPWR/RAEURBL
 'tracking': TRABG/-G
+'angel': APBG/EL
 'attempt': A/TEPLT
 'accordance': A/KORD/APBS
 'engines': EPBG/-PBS
@@ -562,7 +567,7 @@ Multi-syllable words with multiple strokes
 'memorial': PHEPL/ORL
 'visitor': SREUZ/TOR
 'insert': EUPB/SERT
-'Baltimore': PWALT/PHOR
+'Baltimore': PWAULT/PHOR
 'gateway': TKPWAET/WAEU
 'alumni': A/HRUPL/TPHEU
 'candidates': KAPBD/TKATS
@@ -881,7 +886,6 @@ Multi-syllable words with multiple strokes
 'enemy': EPB/PHEU
 'aluminum': HRUPL/TPHUPL
 'insight': EUPB/SAOEUT
-'republican': REP/KAPB
 'merchants': PHER/KHAPBTS
 'trailers': TRAEUL/ERS
 'repeat': RE/PAOET
@@ -904,6 +908,7 @@ Multi-syllable words with multiple strokes
 'Nikon': TPHAOEUBG/OPB
 'customize': KUFT/PHAOEUZ
 'candy': KAPB/TKEU
+'angels': APB/SKWREL/-S
 'deputy': TKE/PAOUT
 'indicators': EUPBD/KAEUT/TORS
 'emissions': AOE/PHEUGS/-S
@@ -1040,7 +1045,7 @@ Multi-syllable words with multiple strokes
 'integer': SPWE/SKWRER
 'bachelor': PWAFP/HROR
 'attitude': AT/TAOUD
-'engaged': EPB/TKPWAEUBLGD
+'engaged': EPB/TKPWAEUPBLGD
 'Montreal': PHOPB/TRAL
 'binary': PWAOEUPB/REU
 'attended': A/TEPBD/-D
@@ -1272,7 +1277,6 @@ Multi-syllable words with multiple strokes
 'subscribers': SAUB/SKRAOEURS
 'underwear': UPBD/WAER
 'basin': PWAS/SEUPB
-'constraints': KAUPB/STRAEUPBTS
 'inclusive': EUPB/KHRAOUS/EUF
 'dimensional': TKPHEPBGS/AL
 'cottage': KOT/APBLG
@@ -1359,7 +1363,6 @@ Multi-syllable words with multiple strokes
 'Kodak': KO/TKABG
 'Danish': TKAEUPB/EURB
 'monkey': PHOPB/KAE
-'filename': TPAOEUL/TPHAEUPL
 'honey': HUPB/KWREU
 'analyses': AEPBLS/-S
 'atomic': A/TOPL/EUBG
@@ -1418,7 +1421,6 @@ Multi-syllable words with multiple strokes
 'midi': PHEUD/KWREU
 'permissions': PERPLGS/-S
 'outreach': AOUT/RAOEFP
-'Helen': HEL/EPB
 'mounting': PHOUPBT/-G
 'Lopez': HRO/PEZ
 'timely': TAOEUPL/HREU
@@ -1604,12 +1606,13 @@ Multi-syllable words with multiple strokes
 'Namibia': TPHA/PHEUB/KWRA
 'generating': SKWREPB/RAEUGT
 'Christina': KREUS/TEU/TPHA
+'congressional': KOPBGS/TPHAL
 'synopsis': STPHOPS/EUS
 'prairie': PRAR/AO*E
 'reunion': RE/TPHAOUPB
 'absent': AB/SEPBT
 'Ecuador': EBG/WA/TKOR
-'accessed': SESZ/-D
+'accessed': ABG/SES/-D
 'modifications': PHOD/TPEUBGS/-S
 'pixel': PEUBGS/EL
 'imported': EUPL/PORT/-D
@@ -1962,6 +1965,7 @@ Multi-syllable words with multiple strokes
 'Fujitsu': TPU/SKWREUT/SU
 'arctic': ART/EUBG
 'rewards': RE/WARDZ
+'strengthen': STREPB/THEPB
 'Frederick': TPRED/REUBG
 'medicaid': PHED/KAEUD
 'infrared': EUPB/TRARD
@@ -2038,7 +2042,6 @@ Multi-syllable words with multiple strokes
 'penny': PEPB/TPHEU
 'robust': RO/PWUFT
 'bookings': PWAOBG/-GS
-'republicans': RE/PUB/HREUBG/APB/-S
 'porter': POR/TER
 'jungle': SKWRUPBG/-L
 'responded': SPOPBD/-D
@@ -2173,6 +2176,7 @@ Multi-syllable words with multiple strokes
 'readily': RED/HREU
 'affiliation': TPEUL/KWRAEUGS
 'infinite': EUFPB/TPHEUT
+'Diana': TKAOEUPB/TPHA
 'ensures': EPB/SHAOURS
 'relatives': REL/TEUFS
 'Lindsay': HREUPBD/SAEU
@@ -2198,7 +2202,7 @@ Multi-syllable words with multiple strokes
 'shortcuts': SHORT/KUTS
 'retained': RAOE/TAEUPBD
 'Pamela': PAPL/HRA
-'Andrews': SKPRAOU/-S
+'Andrews': APB/TKRAOU/-S
 'logitech': HROPBLG/TEBG
 'Surrey': SUR/KWREU
 'accreditation': KRED/TKAEUGS
@@ -2309,7 +2313,7 @@ Multi-syllable words with multiple strokes
 'webcams': WEB/KAPL/-S
 'computational': KOFRP/TAEUGS/TPHAL
 'Lucy': HRAOU/SEU
-'answering': APBS/-G
+'answering': AEPBS/-G
 'impressed': EUPL/PREFD
 'reggae': REG/AE
 'conspiracy': KOPB/SPEUR/SEU
@@ -2927,7 +2931,6 @@ Multi-syllable words with multiple strokes
 'instrumentation': STRAOUPLT/AEUGS
 'Hugo': HAOU/TKPWOE
 'Wagner': WAG/TPHER
-'constraint': KAUPB/STRAEUPBT
 'groundwater': TKPWROUPBD/WAUR
 'strengthening': STREPBG/-G
 'cologne': KOL/OEPB
@@ -4102,6 +4105,7 @@ Multi-syllable words with multiple strokes
 'ridden': REUD/-PB
 'inquiring': KWEUR/-G
 'colonists': KOL/TPHEUFT/-S
+'republican': PUBL/K-PB
 'illustrate': EULS/TRAEUT
 'clumsy': KHRUPL/SEU
 'displeased': TKEUS/PHRAOES/-D

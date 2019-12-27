@@ -6,7 +6,7 @@
 * child `KHAOEULD`
 * dies, `TKAOEUZ KW-BG`
 * an `APB`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * of `-F`
 * God `TKPWO*D`
 * comes `KOPLS`
@@ -114,7 +114,7 @@
 * transplanted `THRAPBTD`
 * there?" `THR H-F KR-GS`
 * asked `SK-D`
-* angel. `A*EPBLG TP-PL`
+* angel. `APBG/EL TP-PL`
 * Close `KPA/KHROES`
 * grew `TKPWRAOU`
 * slender, `SHRERPBD KW-BG`
@@ -219,7 +219,7 @@
 * "We `KR-GS KPA/WE`
 * will `HR`
 * us," `US KW-BG KR-GS`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * "I `KR-GS EU`
 * tell `TEL`
 * you `U`
@@ -422,7 +422,7 @@
 * received `SAOEFD`
 * voice. `SROEUS TP-PL`
 * joined `SKWROEUPBD`
-* angels, `A*EPBLG/-S KW-BG`
+* angels, `APB/SKWREL/-S KW-BG`
 * surrounded `SROUBD/-D`
 * throne, `THRO*EPB KW-BG`
 * near, `TPHAOER KW-BG`

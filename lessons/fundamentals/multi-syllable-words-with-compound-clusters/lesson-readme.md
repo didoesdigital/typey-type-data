@@ -96,7 +96,7 @@
 * merchant `PHEFRPBT`
 * presentation `PREPBGS`
 * languages `HRAPBLGS`
-* strategies `STRAPLGS`
+* strategies `STRAPBLGS`
 * election `HREBGS`
 * damage `TKAPBLG`
 * reserve `REFRB`
@@ -129,13 +129,13 @@
 * feeling `TPAOELG`
 * evolution `EFGS`
 * usage `AO*UPBLG`
-* angel `A*EPBLG`
 * preparation `PREPGS`
 * instruction `STRUBGS`
 * differences `TKEUFRPBSZ`
 * compensation `KPEPBGS`
 * holding `HOELGD`
 * investigation `SREGS`
+* institution `STPHAOUGS`
 * transmission `TREUGS`
 * experiences `SPAOEFRPBS`
 * psychology `SKOLG`

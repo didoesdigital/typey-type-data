@@ -711,7 +711,7 @@
 * figures `TPEUGS`
 * lively, `HRAOEUFL KW-BG`
 * waxen `WABGS/*EPB`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * top `TOP`
 * spread `SPRED`
 * wings `WEUPBGS`

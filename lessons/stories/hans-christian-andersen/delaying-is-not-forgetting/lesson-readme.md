@@ -402,7 +402,7 @@
 * girl. `TKPWEURL TP-PL`
 * One `KPA/WUPB`
 * day `TKAEU`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * fellow; `TPO*EUL STPH*FPLT`
 * loved `HROFD`
 * other `OER`

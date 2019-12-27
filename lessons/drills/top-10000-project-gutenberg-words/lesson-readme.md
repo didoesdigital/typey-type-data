@@ -1105,7 +1105,7 @@
 * glory `TKPWHROER`
 * twelve `TWEFL`
 * space `SPAEUS`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * Peter `PAOERT`
 * wine `WAOEUPB`
 * ordinary `OERD`
@@ -2245,7 +2245,7 @@
 * risk `REUFBG`
 * ad `A*D`
 * lighted `HRAOEUT/-D`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * rapid `RAPD`
 * distinct `STKEUPBG`
 * doubtless `TKOUT/*LS`
@@ -2329,7 +2329,7 @@
 * atmosphere `ATS/TPAOER`
 * chapter `KHAPT`
 * begged `PWEGD`
-* Helen `HEL/EPB`
+* Helen `HEL/*EPB`
 * hole `HOEL`
 * invited `EUPB/SRAOEUTD`
 * borne `PWOERPB`
@@ -2362,7 +2362,7 @@
 * decision `STKEUGS`
 * probable `PROB`
 * painful `PAEUFL`
-* governor `KOFRPB/O*R`
+* governor `KPWOFPB/O*R`
 * forever `TPOFR`
 * turns `TURPBS`
 * branch `PWRAFRPB`
@@ -2638,7 +2638,7 @@
 * Alexander `KPHRAPBD/*ER`
 * shone `SHO*EPB`
 * operation `OERPGS`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * nurse `TPHURS`
 * profound `PRO/TPOUPBD`
 * hungry `HUPBG/REU`
@@ -3017,7 +3017,7 @@
 * mingled `PHEUPBG/-LD`
 * obedience `O/PWAOED/KWREPBS`
 * walks `WAUBGS`
-* training `TRAEUPG`
+* training `TRAEUPBG`
 * badly `PWAD/HREU`
 * feed `TPAOED`
 * central `STRAL`
@@ -3034,7 +3034,7 @@
 * sources `SORSZ`
 * inquiry `KW*R`
 * inspired `EUPB/SPAOEURD`
-* angels `A*EPBLG/-S`
+* angels `APB/SKWREL/-S`
 * roll `ROL`
 * wilt `WEULT`
 * inch `TPH-FP`
@@ -3385,7 +3385,7 @@
 * musical `PHAO*UL`
 * satisfactory `STPOEUR`
 * ridiculous `REULGS`
-* sheet `SHET`
+* sheet `SHAOET`
 * disgrace `TKEUS/TKPWRAEUS`
 * colored `KHRORD`
 * shouldn't `SHOPBT`
@@ -3847,7 +3847,7 @@
 * brother's `PWROER/AES`
 * injured `SKWR-RD`
 * neighborhood `TPHAOD`
-* Andrew `SKPRAOU`
+* Andrew `APB/TKRAOU`
 * abundance `PWUPB/TKAPBS`
 * smoking `SPHOEG`
 * yourselves `KWRO*URSZ`
@@ -3862,7 +3862,7 @@
 * agitation `APBLG/TAEUGS`
 * nobles `TPHOEBLS`
 * prominent `PROPL/TPHEPBT`
-* institution `STPHAOUG`
+* institution `STPHAOUGS`
 * judged `SKWRUGD`
 * embrace `EPL/PWRAEUS`
 * wheels `WHAOELS`
@@ -4247,7 +4247,7 @@
 * differences `TKEUFRPBSZ`
 * sailor `SAEU/HROR`
 * requested `KW-D`
-* Alfred `AFRL`
+* Alfred `AL/TPRED`
 * response `SPOPBS`
 * promoting `PROEPL/-G`
 * imperial `EUPL/PAOERL`
@@ -4290,7 +4290,7 @@
 * sketch `SKEFP`
 * African `A*FRPB`
 * deserved `TKAOE/SER/-FD`
-* answering `APBS/-G`
+* answering `AEPBS/-G`
 * virtuous `SREURT/WOUS`
 * Persian `PERGS`
 * anyway `TPHAE`
@@ -4707,7 +4707,7 @@
 * decline `KE/KHRAOEUPB`
 * attachment `A/TAPLT`
 * ambitious `APL/PWEURBT`
-* filename `TPAOEUL/TPHAEUPL`
+* filename `TPAOEUL/TPHA*EUPL`
 * artists `TR-FTS`
 * bloom `PWHRAOPL`
 * holiday `HOL/TKEU`
@@ -4954,7 +4954,7 @@
 * suspicions `SUS/PEUGS/-S`
 * old-fashioned `OLD/H-PB/TPAGS/-D`
 * oppressed `OE/PREFD`
-* Australia `STRA*EU`
+* Australia `AUS`
 * friend's `TPREPBD/AES`
 * revolt `RE/SROLT`
 * swell `SWEL`
@@ -5445,7 +5445,7 @@
 * defined `TKE/TPAOEUPBD`
 * attendants `A/TEPBD/APBTS`
 * modesty `PHOD/STEU`
-* Diana `TKO*EUPB`
+* Diana `TKAOEUPB/TPHA`
 * washing `WARBG`
 * pavement `PAEUFPLT`
 * unnatural `UPB/TPHARL`
@@ -5908,7 +5908,7 @@
 * heated `HAOET/-D`
 * penetrated `PEPB/TRAEUTD`
 * travels `TRAFLS`
-* earl `*ERL`
+* earl `A*ERL`
 * hereditary `HERD/TAER`
 * Ali `A*L/KWREU`
 * supernatural `SAOUP/TPHARL`
@@ -6186,7 +6186,7 @@
 * mistakes `SPHAEUBGS`
 * tedious `TAOED/KWROUS`
 * contemplated `KAUPB/TPHRAEUT/-D`
-* Clark `KHRARBG`
+* Clark `KHRA*RBG`
 * jacket `SKWRABGT`
 * gleaming `TKPWHRAOEPL/-G`
 * shrank `SHRA*PBG`
@@ -6244,7 +6244,7 @@
 * hostility `HOFT/EULT`
 * dragging `TKRAG/-G`
 * mare `PH*/A*/R*/*E`
-* regulations `RAEUG/-S`
+* regulations `RAEUGS/-S`
 * obstacle `OBS/K-L`
 * sage `SAEUPBLG`
 * destitute `TKEFT/TAOUT`
@@ -6437,7 +6437,7 @@
 * topic `TOEUPG`
 * blushed `PWHRURB/-D`
 * superb `SPERB`
-* strengthen `SPEPBG/*EPB`
+* strengthen `STREPB/THEPB`
 * confidential `K-FGS`
 * crow `KROE`
 * shawl `SHAUL`
@@ -7038,7 +7038,7 @@
 * inquiring `KWEUR/-G`
 * colonists `KOL/TPHEUFT/-S`
 * Addison `AD/SO*PB`
-* republican `REP/KAPB`
+* republican `PUBL/K-PB`
 * illustrate `EULS/TRAEUT`
 * Tim `TEUPL`
 * Liverpool `HREUFR/PAOL`
@@ -7795,7 +7795,7 @@
 * bacon `PWAEU/KOPB`
 * maternal `PHA/TERPBL`
 * wasting `WAEFGT`
-* Australian `STRA*EUPB`
+* Australian `AURPBLT`
 * strata `STRA/TA`
 * hushed `HURB/-D`
 * Maryland `PH*D`
@@ -7854,7 +7854,7 @@
 * workman `WORBG/PHAPB`
 * asunder `AS/UPBD/ER`
 * baked `PWAEUBGD`
-* Baltimore `PWALT/PHOR`
+* Baltimore `PWAULT/PHOR`
 * bustle `PWUFL`
 * winged `WEUPBGD`
 * mentioning `PHEPBGS/-G`
@@ -7871,7 +7871,7 @@
 * apostle `A/POFL`
 * ledge `HREPBLG`
 * roast `ROEFT`
-* accessed `SESZ/-D`
+* accessed `ABG/SES/-D`
 * preface `PREFS`
 * convincing `KAUPB/SREUPBS/-G`
 * quiver `KWEUFR`
@@ -8478,7 +8478,7 @@
 * deceit `TKE/SAOET`
 * challenged `KHALGD`
 * geography `SKWRAOEF`
-* herald `H*ERLD`
+* herald `HERLD`
 * lowly `HROE/HREU`
 * peep `PAOEP`
 * swarm `SWARPL`
@@ -8905,7 +8905,7 @@
 * mediaeval `PHED/AOEFL/A*U`
 * prints `PREUPBTS`
 * lavish `HRAF/EURB`
-* MD `*PLD`
+* MD `PH*P/TK*P`
 * genesis `SKWREPB/SEUS`
 * rug `RUG`
 * analogous `TPHALG/OUS`
@@ -8943,7 +8943,7 @@
 * occurring `KROEURG`
 * factors `TPARBGS`
 * guise `TKPWAOEUZ`
-* editorial `TORL`
+* editorial `ED/TORL`
 * impudence `*EUPL/TKEPBS`
 * midday `PHEUD/TKAEU`
 * corporal `KOR/PRAL`

@@ -162,7 +162,7 @@
 * dollars `TKHRARS`
 * permission `PERPLGS`
 * processes `PROEUSZ`
-* congress `KO*PBG`
+* congress `KOPB/TKPWRESZ`
 * classifieds `KHRAS/TPAOEUDZ`
 * supported `SPORD`
 * attorney `TOERPB`
@@ -690,8 +690,8 @@
 * accordingly `A/KORD/TKPWHREU`
 * challenging `KHAL/-G`
 * accidents `STKEPBTS`
-* congressional `KO*PBG/A*L`
-* accessed `SESZ/-D`
+* congressional `KOPBGS/TPHAL`
+* accessed `ABG/SES/-D`
 * bubble `PWUBL`
 * millennium `PHEUL/EPB/KWRUPL`
 * vessel `SREFL`

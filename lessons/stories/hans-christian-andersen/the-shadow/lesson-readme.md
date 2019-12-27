@@ -542,7 +542,7 @@
 * which, `WEU KW-BG`
 * return `RURPB`
 * journey `SKWRURPB`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * lands, `HRAPBDZ KW-BG`
 * continued `T-PBD`
 * grow, `TKPWROE KW-BG`
@@ -1331,7 +1331,7 @@
 * choose `KHAOS`
 * blessing `PWHR*EFG`
 * subjects, `SUBTS KW-BG`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * returned `RURPBD`
 * kingdom. `KEUPBG/TKOPL TP-PL`
 * "No `KR-GS KPA/TPHO`

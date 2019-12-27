@@ -339,7 +339,7 @@
 * project. `PROPBL TP-PL`
 * alone `A/HROEPB`
 * girls: `TKPWEURLS STPH-FPLT`
-* constraint, `KAUPB/STRAEUPBT KW-BG`
+* constraint, `SKRAEUPBT KW-BG`
 * do `TKO`
 * look `HRAOBG`
 * round `ROUPBD`

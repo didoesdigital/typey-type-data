@@ -219,7 +219,7 @@
 * come, `KOPL KW-BG`
 * want `WAPBT`
 * something `S-G`
-* strengthen `SPEPBG/*EPB`
+* strengthen `STREPB/THEPB`
 * me. `PHE TP-PL`
 * cold `KOELD`
 * water, `WAUR KW-BG`
@@ -697,7 +697,7 @@
 * loved `HROFD`
 * truly `TRAOUL`
 * honorably, `HOPB/RAEBL KW-BG`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * earth; `*ERT STPH*FPLT`
 * wise `WAOEUS`
 * loving. `HRUFG TP-PL`

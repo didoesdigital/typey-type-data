@@ -9,7 +9,7 @@
 * air `AEUR`
 * flew `TPHRAOU`
 * an `APB`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * with `W`
 * a `AEU`
 * flower `TPHRO*UR`

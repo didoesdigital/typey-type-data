@@ -103,7 +103,7 @@
 * gold `TKPWOELD`
 * set `SET`
 * diamonds `TKAOEUPLDZ`
-* rubies. `RO*EUB/KWREU/-S TP-PL`
+* rubies. `RO*EUB/-S TP-PL`
 * But `KPA/PWUT`
 * sitting `SEUGT`
 * down `TKOUPB`
@@ -192,7 +192,7 @@
 * next, `TPHEGT KW-BG`
 * wit `WEUT`
 * an `APB`
-* angel; `A*EPBLG STPH*FPLT`
+* angel; `APBG/EL STPH*FPLT`
 * third, `THEURD KW-BG`
 * wonderful `WUFL`
 * grace `TKPWRAEUS`
@@ -407,7 +407,7 @@
 * laid `HRAEUD`
 * embroidered `EPL/PWROEUD/ERD`
 * silver. `SEUL/SRER TP-PL`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * beautiful; `PWAOUFL STPH*FPLT`
 * swooning `SWAOPB/-G`
 * away `A/WAEU`

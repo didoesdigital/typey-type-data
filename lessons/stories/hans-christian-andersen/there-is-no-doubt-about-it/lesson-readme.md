@@ -88,7 +88,7 @@
 * her `HER`
 * eggs `EGS`
 * according `KORG`
-* regulations, `RAEUG/-S KW-BG`
+* regulations, `RAEUGS/-S KW-BG`
 * was, `WAS KW-BG`
 * as `AZ`
 * respectable `R-PT/-BL`

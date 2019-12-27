@@ -323,7 +323,7 @@
 * sent `SEPBT`
 * one `WUPB`
 * numberless `TPHUPL/-LS`
-* angels `A*EPBLG/-S`
+* angels `APB/SKWREL/-S`
 * against `TKPWEPBS`
 * ship. `SHEUP TP-PL`
 * showered `SHOURD`
@@ -341,7 +341,7 @@
 * came `KAEUPL`
 * white `WHAOEUT`
 * feathers `TP*ET/ERS`
-* angel's `A*EPBLG AES`
+* angel's `APBG/EL AES`
 * sat, `SAT KW-BG`
 * burnt `PWURPBT`
 * it, `T KW-BG`

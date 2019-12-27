@@ -41,6 +41,7 @@
 * energy `TPH-RG`
 * notice `TPH-TS`
 * until `TPH-L`
+* Australia `AUS`
 * others `OERS`
 * having `SR-G`
 * already `HR-R`

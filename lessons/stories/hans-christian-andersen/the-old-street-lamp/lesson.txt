@@ -1929,7 +1929,7 @@ The Old Street Lamp
 'print,': PREUPBT KW-BG
 'representing': REPG
 'the': -T
-'congress': KO*PBG
+'congress': KOPB/TKPWRESZ
 'of': -F
 'Vienna,': SRAOEPB/TPHA KW-BG
 'and': SKP
@@ -2626,7 +2626,7 @@ The Old Street Lamp
 'form': TPORPL
 'of': -F
 'an': APB
-'angel': A*EPBLG
+'angel': APBG/EL
 'holding': HOELGD
 'a': AEU
 'nosegay,': TPHOES/TKPWAEU KW-BG
@@ -2790,7 +2790,7 @@ The Old Street Lamp
 'picture': P*EUFP
 'of': -F
 'the': -T
-'congress,': KO*PBG KW-BG
+'congress,': KOPB/TKPWRESZ KW-BG
 'in': TPH
 'which': WEU
 'they': THE

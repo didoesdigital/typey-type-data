@@ -201,6 +201,7 @@
 * majesty, `PHAPBLG/STEU KW-BG`
 * vanished `SRAPB/EURBD`
 * glancing `TKPWHRAPBS/-G`
+* northern `TPHOERPB`
 * light. `HRAOEUT TP-PL`
 * Nought `KPA/TPHA*UT`
 * be `-B`

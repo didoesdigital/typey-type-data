@@ -108,7 +108,7 @@
 * not `TPHOT`
 * quite `KWAOEUT`
 * dark; `TKARBG STPH*FPLT`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * lights `HRAOEUTS`
 * shot `SHOT`
 * forth `TPO*RT`
@@ -310,7 +310,7 @@
 * brightness `PWRAOEUT/-PBS`
 * pinions `PEUPB/KWROPB/-S`
 * mighty `PHAOEUT/KWREU`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * whose `WHOZ`
 * beaming `PWAEPL/-G`
 * face `TPAEUS`
@@ -318,7 +318,7 @@
 * As `KPA/AZ`
 * cup `KUP`
 * lily, `HREUL/KWREU KW-BG`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * rose `ROEZ`
 * amidst `A/PHEUTDZ`
 * Bible; `PWAO*EUBL STPH*FPLT`
@@ -410,7 +410,7 @@
 * away, `A/WAEU KW-BG`
 * ice `AOEUS`
 * shadow `SHO*EUD`
-* angel's `A*EPBLG AES`
+* angel's `APBG/EL AES`
 * wings, `WEUPBGS KW-BG`
 * smiled `SPHAOEULD`
 * spirit; `SPEURT STPH*FPLT`

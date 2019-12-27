@@ -567,7 +567,7 @@
 * another `TPHOER`
 * description. `SKREUPG TP-PL`
 * She `KPA/SHE`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * married,—but, `PHAERD KW-BG EPL/TKA*RB PWUT KW-BG`
 * story `STOER`
 * every-day `EF TKA*EU`

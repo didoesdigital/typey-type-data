@@ -58,7 +58,7 @@
 * rank--kings, `RA*PBG H-PB H-PB KEUPBGS KW-BG`
 * princes, `PREUPBS/-S KW-BG`
 * dukes, `TKAOUBG/-S KW-BG`
-* earls, `*ERL/-S KW-BG`
+* earls, `A*ERL/-S KW-BG`
 * counts, `KOUPBTS KW-BG`
 * barons, `PWAR/ROPB/-S KW-BG`
 * knights. `TPHAO*EUT/-S TP-PL`

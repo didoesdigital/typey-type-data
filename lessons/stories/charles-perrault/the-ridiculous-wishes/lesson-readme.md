@@ -349,7 +349,7 @@
 * kingdom, `KEUPBG/TKOPL KW-BG`
 * gold, `TKPWOELD KW-BG`
 * pearls, `PERLS KW-BG`
-* rubies, `RO*EUB/KWREU/-S KW-BG`
+* rubies, `RO*EUB/-S KW-BG`
 * diamonds, `TKAOEUPLDZ KW-BG`
 * princely `PREUPBS/HREU`
 * garments `TKPWARPLTS`

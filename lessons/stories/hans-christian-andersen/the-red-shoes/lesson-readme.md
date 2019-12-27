@@ -506,7 +506,7 @@
 * peace `PAES`
 * past `PAFT`
 * saw `SAU`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * wings `WEUPBGS`
 * reaching `RAOEFPG`
 * shoulders `SHOURLDZ`

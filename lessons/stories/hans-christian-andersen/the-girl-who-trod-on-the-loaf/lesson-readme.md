@@ -729,7 +729,7 @@
 * soul, `SOUL KW-BG`
 * unexpected `UPB/EBGS/PEBGD`
 * obtained `OB/TAEUPBD`
-* angel's `A*EPBLG AES`
+* angel's `APBG/EL AES`
 * tears. `TAERS TP-PL`
 * act `ABGT`
 * again `TKPWEPB`

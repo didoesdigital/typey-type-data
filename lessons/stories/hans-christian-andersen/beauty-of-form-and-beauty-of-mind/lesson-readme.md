@@ -6,7 +6,7 @@
 * a `AEU`
 * sculptor, `SKAO*UFP KW-BG`
 * named `TPHAEUPLD`
-* Alfred, `AFRL KW-BG`
+* Alfred, `AL/TPRED KW-BG`
 * who `WHO`
 * having `SR-G`
 * won `WOPB`
@@ -140,7 +140,7 @@
 * She `KPA/SHE`
 * seemed, `SAOEPLD KW-BG`
 * far `TPAR`
-* Alfred `AFRL`
+* Alfred `AL/TPRED`
 * concerned, `K-RPBD KW-BG`
 * be `-B`
 * like `HRAOEUBG`
@@ -561,7 +561,7 @@
 * fire?" `TPAOEUR H-F KR-GS`
 * For `KPA/TPOR`
 * moment, `PHOEPLT KW-BG`
-* Alfred's `AFRL AES`
+* Alfred's `AL/TPRED AES`
 * Kaela's `xxx Kaela AES`
 * underwent `UPBD/WEPBT`
 * sudden `SUD`
@@ -615,7 +615,7 @@
 * true `TRAOU`
 * successor `SUBG/SES/O*R`
 * Thorwalsden," `xxx Thorwalsden KW-BG KR-GS`
-* Alfred; `AFRL STPH*FPLT`
+* Alfred; `AL/TPRED STPH*FPLT`
 * if, `TP KW-BG`
 * clever `KHREFR`
 * thing. `THEUPBG TP-PL`
@@ -1047,7 +1047,7 @@
 * kindred `KEUPBD/RED`
 * gift `TKPWEUFT`
 * heaven, `HEFPB KW-BG`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * feel `TPAOEL`
 * sympathize `SEUPL/THAOEUZ`
 * elevate `HR-FT`

@@ -770,7 +770,7 @@
 * colored `KHRORD`
 * print, `PREUPBT KW-BG`
 * representing `REPG`
-* congress `KO*PBG`
+* congress `KOPB/TKPWRESZ`
 * Vienna, `SRAOEPB/TPHA KW-BG`
 * kings `KEUPBGS`
 * emperors `EPL/ROR/-S`
@@ -958,7 +958,7 @@
 * intended `SPWEPBD/-D`
 * hold `HOLD`
 * taper. `TAEURP TP-PL`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * holding `HOELGD`
 * nosegay, `TPHOES/TKPWAEU KW-BG`
 * centre `STR/A*U`
@@ -1009,7 +1009,7 @@
 * supply `SPHAOEU`
 * off `OF`
 * picture `P*EUFP`
-* congress, `KO*PBG KW-BG`
+* congress, `KOPB/TKPWRESZ KW-BG`
 * take `TAEUBG`
 * pleasure." `PHRERB TP-PL KR-GS`
 * himself, `H*EUPLS KW-BG`

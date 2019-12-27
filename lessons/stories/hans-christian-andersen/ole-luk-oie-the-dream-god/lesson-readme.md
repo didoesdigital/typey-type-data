@@ -604,7 +604,7 @@
 * stems, `STEPLS KW-BG`
 * telling `TELG`
 * well. `WEL TP-PL`
-* WEDNESDAY `*URP/W*ED`
+* WEDNESDAY `*URP/WEPBD`
 * How `KPA/HOU`
 * did `TK`
 * pour `POR`

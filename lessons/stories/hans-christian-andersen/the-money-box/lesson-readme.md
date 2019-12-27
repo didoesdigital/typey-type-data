@@ -253,7 +253,7 @@
 * first. `TPEUFRT TP-PL`
 * rocking-horse `ROBG/-G H-PB HORS`
 * spoke `SPOEBG`
-* training `TRAEUPG`
+* training `TRAEUPBG`
 * races; `RAEUSZ STPH*FPLT`
 * wagon `WAG/OPB`
 * railways `RAEUL/WAEUS`

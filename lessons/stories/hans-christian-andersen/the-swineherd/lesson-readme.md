@@ -544,7 +544,7 @@
 * courtyard `KORT/KWRARD`
 * softly, `SOFT/HREU KW-BG`
 * busily `PWEUZ/HREU`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * counting `KOUPBGT`
 * should `SHO`
 * fair, `TPAEUR KW-BG`

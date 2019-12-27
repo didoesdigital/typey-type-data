@@ -16,7 +16,7 @@
 * pictures `P*EUFPS`
 * and `SKP`
 * carved `KAFRBD`
-* angels. `A*EPBLG/-S TP-PL`
+* angels. `APB/SKWREL/-S TP-PL`
 * Those `KPA/THOZ`
 * upon `POPB`
 * canvas `KAPB/SRAS`
@@ -92,7 +92,7 @@
 * become `PW-BG`
 * like `HRAOEUBG`
 * shining `SHAOEUPBG`
-* angels `A*EPBLG/-S`
+* angels `APB/SKWREL/-S`
 * altar. `AL/TAR TP-PL`
 * really `R-L`
 * had `H`
@@ -900,7 +900,7 @@
 * piece `PAOES`
 * news. `TPHUS TP-PL`
 * Burgomaster's `xxx Burgomaster AES`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * herself `H*ERS`
 * son; `SOPB STPH*FPLT`
 * betrothal `PWE/TRO/THAL`

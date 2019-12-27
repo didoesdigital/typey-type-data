@@ -64,7 +64,7 @@
 * chief `KHAOEF`
 * changed `KHAEUPBGD`
 * switch `SWEUFP`
-* sheet `SHET`
+* sheet `SHAOET`
 * chance `KHAPBS`
 * shot `SHOT`
 * chair `KHAEUR`

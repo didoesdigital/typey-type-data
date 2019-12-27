@@ -1185,7 +1185,7 @@
 * crown `KROUPB`
 * shoulders, `SHOURLDZ KW-BG`
 * herself. `H*ERS TP-PL`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * flower; `TPHRO*UR STPH*FPLT`
 * man `PHAPB`
 * dwell `TKWEL`

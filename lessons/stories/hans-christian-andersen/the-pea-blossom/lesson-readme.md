@@ -504,7 +504,7 @@
 * smiled `SPHAOEULD`
 * flower, `TPHRO*UR KW-BG`
 * been `PW-PB`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * peas? `PAOEZ H-F`
 * Why `KPA/KWR`
 * world, `WORLD KW-BG`

@@ -300,7 +300,7 @@
 * old `OLD`
 * bishop. `PWEURB/OP TP-PL`
 * shine `SHAOEUPB`
-* angel's `A*EPBLG AES`
+* angel's `APBG/EL AES`
 * face `TPAEUS`
 * appeared. `A/PAOERD TP-PL`
 * A `KPA/AEU`

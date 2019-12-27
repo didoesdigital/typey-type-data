@@ -28,7 +28,7 @@ Top first names in the US over the last 100 years
 'Stephanie': ST-F/TPHEU
 'Rebecca': RE/PWABG/KA
 'Laura': HRAU/RA
-'Helen': HEL/EPB
+'Helen': HEL/*EPB
 'Sharon': SHAEURPB
 'Cynthia': K*EUPBT/KWRA
 'Kathleen': KA*T/HRAOEPB
@@ -92,7 +92,7 @@ Top first names in the US over the last 100 years
 'Danielle': TKAPB/KWREL
 'Rose': RO*ES
 'Brittany': PWREUT/TPHEU
-'Diana': TKO*EUPB
+'Diana': TKAOEUPB/TPHA
 'Abigail': AB/TKPWAEUL
 'Natalie': TPHA*T/HREU
 'Jane': SKWRAEUPB
@@ -118,7 +118,7 @@ Top first names in the US over the last 100 years
 'Mark': PHA*RBG
 'Paul': PAUL
 'Steven': STAOEFPB
-'Andrew': SKPRAOU
+'Andrew': APB/TKRAOU
 'Kenneth': KEPB/*ET
 'George': SKWRORPBLG
 'Joshua': SKWRORB/WA
@@ -183,7 +183,7 @@ Top first names in the US over the last 100 years
 'Bruce': PWRAOUS
 'Noah': TPHO/WA
 'Jordan': SKWROR/TKAPB
-'Dylan': TKEUPBL
+'Dylan': TKEUL/A*PB
 'Ralph': RA*FL
 'Roy': ROEU
 'Alan': AL/A*PB

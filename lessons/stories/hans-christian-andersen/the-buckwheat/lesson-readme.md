@@ -211,7 +211,7 @@
 * cried `KRAOEUD`
 * corn; `KORPB STPH*FPLT`
 * "the `KR-GS -T`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * coming; `KO*G STPH*FPLT`
 * wings `WEUPBGS`
 * sky `SKAOEU`

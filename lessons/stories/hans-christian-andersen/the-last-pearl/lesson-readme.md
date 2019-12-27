@@ -78,7 +78,7 @@
 * happiness `HAEP/-PBS`
 * blessing. `PWHR*EFG TP-PL`
 * guardian `TKPWARD/KWRAPB`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * house `HOUS`
 * leaned `HRAOEPBD`
 * against `TKPWEPBS`
@@ -124,7 +124,7 @@
 * bestowed `PWE/STOEU/-D`
 * here," `HAOER KW-BG KR-GS`
 * said `SAEUD`
-* angel. `A*EPBLG TP-PL`
+* angel. `APBG/EL TP-PL`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * not `TPHOT`
 * everything," `EFRG KW-BG KR-GS`
@@ -152,7 +152,7 @@
 * wanting." `WAPBGT TP-PL KR-GS`
 * "Wanting!" `KR-GS KPA/WAPBGT SKHRAPL KR-GS`
 * cried `KRAOEUD`
-* angel; `A*EPBLG STPH*FPLT`
+* angel; `APBG/EL STPH*FPLT`
 * "nothing `KR-GS TPHOG`
 * must `PHUFT`
 * wanting `WAPBGT`
@@ -399,7 +399,7 @@
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * sacred `SKRED`
 * hour," `HOUR KW-BG KR-GS`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * pointing `POEUPBGT`
 * corner `KRORPB`
 * room; `RAOPL STPH*FPLT`

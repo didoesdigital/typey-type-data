@@ -505,7 +505,7 @@
 * hard-frozen `HARD H-PB TPROEFPB`
 * lake `HRAEUBG`
 * like `HRAOEUBG`
-* sheet `SHET`
+* sheet `SHAOET`
 * lead. `HRAED TP-PL`
 * mountains `PHOUPB/TAEUPBS`
 * disappeared, `TKEUS/PAOERD KW-BG`
@@ -793,7 +793,7 @@
 * waved `WAFD`
 * corn `KORPB`
 * sun. `SUPB TP-PL`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * lily `HREUL/KWREU`
 * spread `SPRED`
 * glossy `TKPWHROS/SEU`
@@ -1143,7 +1143,7 @@
 * fresh, `TPRERB KW-BG`
 * fir-wood, `TPEUR H-PB WAOD KW-BG`
 * around, `ARPBD KW-BG`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * Christmas, `KREUS/PHAS KW-BG`
 * consecrated `KOPBS/KRAEUT/-D`
 * adorn `A/TKORPB`

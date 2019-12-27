@@ -613,7 +613,7 @@
 * properly `PRORL`
 * excepting `KPEPT/-G`
 * young `KWRUPBG`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * goblins; `TKPWOB/HREUPB/-S STPH*FPLT`
 * put `PUT`
 * legs `HREGS`

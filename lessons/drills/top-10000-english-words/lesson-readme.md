@@ -434,7 +434,7 @@
 * teen `TAOEPB`
 * room `RAOPL`
 * stock `STOBG`
-* training `TRAEUPG`
+* training `TRAEUPBG`
 * too `TAO`
 * credit `KRET`
 * point `POEUPBT`
@@ -701,7 +701,7 @@
 * away `A/WAEU`
 * includes `KHRUS`
 * track `TRABG`
-* Australia `STRA*EU`
+* Australia `AUS`
 * discussion `SKUGS`
 * archive `KRAO*EUF`
 * once `WUPBS`
@@ -1197,7 +1197,7 @@
 * mode `PHOED`
 * phones `TPOEPBS`
 * ideas `KWR-DZ`
-* Wednesday `W*ED`
+* Wednesday `WEPBD`
 * structure `STRAOUFP`
 * fund `TPUPBD`
 * summer `SAOURPL`
@@ -1463,7 +1463,7 @@
 * ships `SHEUPS`
 * entire `SPWAOEUR`
 * educational `ELGS`
-* MD `*PLD`
+* MD `PH*P/TK*P`
 * leading `HRAEGD`
 * metal `PH*ELT`
 * positive `PEUF`
@@ -1529,7 +1529,7 @@
 * longer `HRORPBG`
 * consider `KR`
 * int `SPW*`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * behind `HEUPBD`
 * panel `PAPBL`
 * floor `TPHRAOR`
@@ -1787,10 +1787,10 @@
 * musical `PHAO*UL`
 * definition `TKEUFGS`
 * secretary `SEBGT`
-* Angeles `A*EPBLG/ES`
+* Angeles `KPA/APB/SKWREL/ES`
 * networking `TPHERBG/-G`
 * path `PA*T`
-* Australian `STRA*EUPB`
+* Australian `AURPBLT`
 * employee `PHROE`
 * chief `KHAOEF`
 * gives `TKPWEUFS`
@@ -1852,12 +1852,12 @@
 * selling `SELG`
 * lots `HROTS`
 * piece `PAOES`
-* sheet `SHET`
+* sheet `SHAOET`
 * firm `TPEURPL`
 * seven `SEFPB`
 * older `OERLD`
 * Illinois `*EUL`
-* regulations `RAEUG/-S`
+* regulations `RAEUGS/-S`
 * elements `HREPLTS`
 * species `SPAOES`
 * jump `SKWRUFRP`
@@ -2061,7 +2061,7 @@
 * keyword `KAOE/WORD`
 * interests `TR-S`
 * flight `TPHRAOEUT`
-* congress `KO*PBG`
+* congress `KOPB/TKPWRESZ`
 * fuel `TPAOUL`
 * username `AO*URS/TPHAEUPL`
 * walk `WAUBG`
@@ -2187,7 +2187,7 @@
 * challenge `KHALG`
 * Motorola `PHOET/ROE/HRA`
 * acceptance `S*EPS`
-* strategies `STRAPLGS`
+* strategies `STRAPBLGS`
 * mo `PH*/O*`
 * seem `SAOEPL`
 * affairs `A/TPAEURS`
@@ -2550,7 +2550,7 @@
 * query `KW*ER`
 * clip `KHREUP`
 * partnership `PARP`
-* editorial `TORL`
+* editorial `ED/TORL`
 * nt `TPH*/T*`
 * expression `EBGS/PREGS`
 * es `AOE/-S`
@@ -2611,7 +2611,7 @@
 * theater `THAOERT`
 * springs `SPREUPBGS`
 * Missouri `PHO*`
-* Andrew `SKPRAOU`
+* Andrew `APB/TKRAOU`
 * var `SRAR`
 * perform `PORPL`
 * healthy `HOEUFLT`
@@ -3051,7 +3051,7 @@
 * poetry `POEURT`
 * lights `HRAOEUTS`
 * tracking `TRABG/-G`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * bell `PWEL`
 * keeping `KAOEPG`
 * preparation `PREPGS`
@@ -3145,7 +3145,7 @@
 * investigation `SREGS`
 * raised `RA*EUFD`
 * hat `HAT`
-* institution `STPHAOUG`
+* institution `STPHAOUGS`
 * directed `TKREBGD`
 * dealers `TKAOEL/ERS`
 * searching `SEFRPBG`
@@ -3524,7 +3524,7 @@
 * lg `HR*PBLG`
 * Swiss `SWEUS`
 * Sarah `SA/RA`
-* Clark `KHRARBG`
+* Clark `KHRA*RBG`
 * labour `HRAEU/PWOUR`
 * hate `HAEUT`
 * terminal `TERPL/TPHAL`
@@ -3622,7 +3622,7 @@
 * vat `SRAT`
 * awareness `A/WAEURPBS`
 * Vancouver `SRAPB/KAOUFR`
-* governor `KOFRPB/O*R`
+* governor `KPWOFPB/O*R`
 * beer `PWAOER`
 * seemed `SAOEPLD`
 * contribution `KR-BGS`
@@ -3665,7 +3665,7 @@
 * twin `TWEUPB`
 * forth `TPO*RT`
 * insert `EUPB/SERT`
-* Baltimore `PWALT/PHOR`
+* Baltimore `PWAULT/PHOR`
 * gateway `TKPWAET/WAEU`
 * ky `K*/KWR*`
 * don't `TKOEPBT`
@@ -3818,7 +3818,7 @@
 * deposit `TKPOFT`
 * seminar `SEPL/TPHAR`
 * investments `SREFPLTS`
-* latina `HRA*EPBT`
+* latina `HRO*ER/HRA*EPBT`
 * NASA `TPHA/SA`
 * wheels `WHAOELS`
 * sexcam `S*/*E/KP*/KR*/A*/PH*`
@@ -4794,7 +4794,7 @@
 * sms `S*PL/-S`
 * shit `SHEUT`
 * restricted `REUBGTD`
-* republican `REP/KAPB`
+* republican `PUBL/K-PB`
 * secrets `SKRETS`
 * lucky `HROEUBG`
 * latter `HRAERT`
@@ -4878,7 +4878,7 @@
 * exposed `SPOEDZ`
 * telecom `T*EL/KOPL`
 * hunt `HUPBT`
-* angels `A*EPBLG/-S`
+* angels `APB/SKWREL/-S`
 * deputy `TKE/PAOUT`
 * indicators `EUPBD/KAEUT/TORS`
 * sealed `SAOELD`
@@ -5299,7 +5299,7 @@
 * bachelor `PWAFP/HROR`
 * attitude `AT/TAOUD`
 * camcorders `KAPL/KORD/*ER/-S`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * falling `TPAULG`
 * basics `PWAEUFBGS`
 * Montreal `PHOPB/TRAL`
@@ -5358,7 +5358,7 @@
 * embedded `KPWED/-D`
 * inkjet `*EU/TPH*/K*/SKWR*/*E/T*`
 * supervisor `SAO*UFRPZ`
-* wizard `SA*RD`
+* wizard `WEUFRD`
 * corps `KOERP`
 * actors `A*RBGTS`
 * liver `HREUFR`
@@ -5400,7 +5400,7 @@
 * bidder `PWEUD/ER`
 * singer `SEURPBG`
 * Evans `EFPBS`
-* herald `H*ERLD`
+* herald `HERLD`
 * literacy `HREUT/RAES`
 * fails `TPAEULS`
 * aging `AEUPBG/-G`
@@ -5414,7 +5414,7 @@
 * invite `EUPB/SRAOEUT`
 * modification `PHOD/KAEUGS`
 * Alice `AL/EUS`
-* latinas `HRA*EPBTS`
+* latinas `HRO*ER/HRA*EPBTS`
 * suppose `SPOS`
 * customized `KUFT/PHAOEUDZ`
 * reed `RAOED`
@@ -5946,7 +5946,7 @@
 * soup `SOUP`
 * potentially `PHREPBL`
 * ranch `RAFRPB`
-* constraints `KAUPB/STRAEUPBTS`
+* constraints `SKRAEUPBTS`
 * crossing `KROFG`
 * inclusive `EUPB/KHRAOUS/EUF`
 * dimensional `TKPHEPBGS/AL`
@@ -6183,7 +6183,7 @@
 * pal `PAL`
 * monkey `PHOPB/KAE`
 * proportion `PORPGS`
-* filename `TPAOEUL/TPHAEUPL`
+* filename `TPAOEUL/TPHA*EUPL`
 * skirt `SKEURT`
 * Florence `TPHRORPBS`
 * invest `SREF`
@@ -6353,7 +6353,7 @@
 * packed `PABGD`
 * excited `KPAOEUTD`
 * outreach `AOUT/RAOEFP`
-* Helen `HEL/EPB`
+* Helen `HEL/*EPB`
 * mounting `PHOUPBT/-G`
 * recover `ROFR`
 * tied `TAO*EUD`
@@ -6784,7 +6784,7 @@
 * Namibia `TPHA/PHEUB/KWRA`
 * generating `SKWREPB/RAEUGT`
 * Christina `KREUS/TEU/TPHA`
-* congressional `KO*PBG/A*L`
+* congressional `KOPBGS/TPHAL`
 * synopsis `STPHOPS/EUS`
 * hardly `HA*RLD`
 * prairie `PRAR/AO*E`
@@ -6797,7 +6797,7 @@
 * sells `SELZ`
 * Ecuador `EBG/WA/TKOR`
 * hoping `HOEPG`
-* accessed `SESZ/-D`
+* accessed `ABG/SES/-D`
 * spirits `SPEURTS`
 * modifications `PHOD/TPEUBGS/-S`
 * coral `KORL`
@@ -7017,7 +7017,7 @@
 * freight `TPRAET`
 * rebate `RE/PWAEUT`
 * meetup `PHAO*ET/SKWRUP`
-* eclipse `KHROEUPS`
+* eclipse `AOE/KHREUPS`
 * Sudan `SU/TKAPB`
 * ddr `TK*/TK*/R*`
 * downloading `TKOUPBLD/-G`
@@ -7414,7 +7414,7 @@
 * appreciated `PRAOERBD`
 * alter `AURLT`
 * Nicole `TPHEUBG/OEL`
-* latino `HRA*PB/SKWRO`
+* latino `HRO*ER/HRA*PB/SKWRO`
 * Ghana `TKPWA/TPHA`
 * edges `EPBLGS`
 * uc `*U/KR*`
@@ -7504,7 +7504,7 @@
 * suse `S*/*U/S*/*E`
 * maternity `PHA/TERPBT`
 * backed `PWABGD`
-* Alfred `AFRL`
+* Alfred `AL/TPRED`
 * colonial `KHROEPBL`
 * mf `PH*/TP*`
 * Carey `KAER/KWREU`
@@ -7737,7 +7737,7 @@
 * exams `KPAPLS`
 * rewards `RE/WARDZ`
 * beneath `TPHAO*ET`
-* strengthen `SPEPBG/*EPB`
+* strengthen `STREPB/THEPB`
 * defend `TKEFD`
 * aj `A*/SKWR*`
 * Frederick `TPRED/REUBG`
@@ -7896,7 +7896,7 @@
 * bookings `PWAOBG/-GS`
 * threatened `THREFPBD`
 * Minolta `PH*P/*EU/TPH*/O*/HR*/T*/A*`
-* republicans `RE/PUB/HREUBG/APB/-S`
+* republicans `HRO*ER/R*UPB/-S`
 * discusses `SK*UFS`
 * GUI `TKPWRAOEU`
 * porter `POR/TER`
@@ -7953,7 +7953,7 @@
 * wifi `WAOEU/TPAOEU`
 * tier `TAOER`
 * fwd `TP*/W*/TK*`
-* earl `*ERL`
+* earl `A*ERL`
 * manor `PHA/TPHOR`
 * envelope `TPH-FL`
 * Diane `TKAOEU/A*PB`
@@ -7967,7 +7967,7 @@
 * disco `TKEUS/KOE`
 * Sheffield `SHEF/TPAOELD`
 * Bailey `PWAEUL/KWREU`
-* aus `AUS`
+* Aus `A*P/*U/P*`
 * endif `EPBD/*F`
 * finishing `TP*EURBG`
 * emotions `AO*EGS/-S`
@@ -8177,7 +8177,7 @@
 * fence `TPEPBS`
 * nudist `TPHAOUD/*EUS`
 * infinite `EUFPB/TPHEUT`
-* Diana `TKO*EUPB`
+* Diana `TKAOEUPB/TPHA`
 * ensures `EPB/SHAOURS`
 * relatives `REL/TEUFS`
 * Lindsay `HREUPBD/SAEU`
@@ -8220,7 +8220,7 @@
 * retained `RAOE/TAEUPBD`
 * voyeurweb `SR*/O*/KWR*/*E/*U/R*/W*/*E/PW*`
 * Pamela `PAPL/HRA`
-* Andrews `SKPRAOU/-S`
+* Andrews `APB/TKRAOU/-S`
 * marble `PHAERBL`
 * extending `ST*EPBGD`
 * Jesse `SKWRES/AOE`
@@ -8475,7 +8475,7 @@
 * handhelds `HA*PBD/HELD/-S`
 * wax `WABGS`
 * Lucy `HRAOU/SEU`
-* answering `APBS/-G`
+* answering `AEPBS/-G`
 * Hans `HAPBS`
 * impressed `EUPL/PREFD`
 * slope `SHROEP`
@@ -9297,7 +9297,7 @@
 * emperor `EPL/ROR`
 * grad `TKPWRAD`
 * malpractice `PHAL/PRABG/TEUS`
-* Dylan `TKEUPBL`
+* Dylan `TKEUL/A*PB`
 * bras `PWRA/-S`
 * belts `PWELTS`
 * blacks `PWHRABGS`
@@ -9967,7 +9967,7 @@
 * IDs `EUFPLT/TK-FPLT/-S`
 * Hugo `HAOU/TKPWOE`
 * Wagner `WAG/TPHER`
-* constraint `KAUPB/STRAEUPBT`
+* constraint `SKRAEUPBT`
 * groundwater `TKPWROUPBD/WAUR`
 * touched `TUFPD`
 * strengthening `STREPBG/-G`

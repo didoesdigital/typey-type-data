@@ -232,7 +232,7 @@
 * kiss `KEUS`
 * fresh `TPRERB`
 * mouth, `PHO*UT KW-BG`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * lights. `HRAOEUTS TP-PL`
 * Like `KPA/HRAOEUBG`
 * mummy, `PHUPL/PHEU KW-BG`

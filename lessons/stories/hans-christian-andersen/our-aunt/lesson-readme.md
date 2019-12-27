@@ -178,7 +178,7 @@
 * stork `STORBG`
 * here," `HAOER KW-BG KR-GS`
 * or, `OR KW-BG`
-* "They've `KR-GS KPA/THE AE SR*/*E`
+* "They've `KR-GS/KPA/THE`
 * advertised `TAOEUFD`
 * first `TPEUFRT`
 * strawberries `STRAU/PWER/KWREUS`

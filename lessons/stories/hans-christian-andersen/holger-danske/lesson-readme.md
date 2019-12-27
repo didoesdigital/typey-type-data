@@ -137,7 +137,7 @@
 * Denmark. `TKEPB/PHARBG TP-PL`
 * On `KPA/OPB`
 * Christmas-eve `KREUS/PHAS H-PB HRO*ER/AOEF`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * comes `KOPLS`
 * him `HEUPL`
 * tells `TELS`

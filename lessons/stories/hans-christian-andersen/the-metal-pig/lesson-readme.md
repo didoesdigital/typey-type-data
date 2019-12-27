@@ -431,7 +431,7 @@
 * plainly. `PHRAEUPBL TP-PL`
 * One `KPA/WUPB`
 * glory `TKPWHROER`
-* eclipsed `KHROEUPS/-D`
+* eclipsed `AOE/KHREUPS/-D`
 * another; `TPHOER STPH*FPLT`
 * there `THR`
 * fixed `TPEUFD`

@@ -630,7 +630,7 @@
 * watch `WAFP`
 * bed. `PWED TP-PL`
 * pious, `PAOEU/OUS KW-BG`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * blessing `PWHR*EFG`
 * poverty. `POFRT TP-PL`
 * "My `KR-GS KPA/PHEU`

@@ -33,7 +33,7 @@
 * daughter. `TKAUR TP-PL`
 * Then `KPA/THEPB`
 * an `APB`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * from `TPR`
 * came `KAEUPL`
 * said: `SAEUD STPH-FPLT`
@@ -157,7 +157,7 @@
 * But `KPA/PWUT`
 * sent `SEPBT`
 * two `TWO`
-* angels `A*EPBLG/-S`
+* angels `APB/SKWREL/-S`
 * shape `SHAEUP`
 * white `WHAOEUT`
 * doves, `TKOFS KW-BG`

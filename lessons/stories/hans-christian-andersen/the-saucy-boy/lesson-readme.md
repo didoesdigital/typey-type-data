@@ -153,7 +153,7 @@
 * quite `KWAOEUT`
 * beautifully. `PWAOUFL/HREU TP-PL`
 * looked `HRAOBGD`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * pale `PAEL`
 * cold, `KOELD KW-BG`
 * trembling `TREPL/-BLG`

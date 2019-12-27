@@ -906,7 +906,7 @@
 * winged `WEUPBGD`
 * urchin, `UR/KHEUPB KW-BG`
 * cannot `K/TPHOT`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * child, `KHAOEULD KW-BG`
 * goblin `TKPWOB/HREUPB`
 * blood `PWHRAOD`

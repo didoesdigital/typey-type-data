@@ -930,7 +930,7 @@
 * admitted `AD/PHEUTD`
 * here." `HAOER TP-PL KR-GS`
 * opened, `OEPD KW-BG`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * led `HRED`
 * in. `TPH TP-PL`
 * She `KPA/SHE`
@@ -947,7 +947,7 @@
 * immortal `EUPL/PHORT/A*L`
 * beauty. `PWAOUT TP-PL`
 * "See," `KR-GS KPA/SAOE KW-BG KR-GS`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * pointing `POEUPBGT`
 * wonderful `WUFL`
 * straw, `STRAU KW-BG`

@@ -710,7 +710,7 @@
 * envy, `EPB/SREU KW-BG`
 * them. `THEPL TP-PL`
 * An `KPA/APB`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * justice `SKWRUFS`
 * crimes `KRAOEUPLS`
 * defence; `TKEFPB/A*U STPH*FPLT`

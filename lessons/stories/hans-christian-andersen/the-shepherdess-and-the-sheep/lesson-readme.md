@@ -191,7 +191,7 @@
 * so `SO`
 * placed, `PHRAEUFD KW-BG`
 * became `PWAEUPL`
-* engaged `EPB/TKPWAEUBLGD`
+* engaged `EPB/TKPWAEUPBLGD`
 * each `AOEFP`
 * other, `OER KW-BG`
 * suited, `SAOUTD KW-BG`

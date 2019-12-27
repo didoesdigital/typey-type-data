@@ -512,7 +512,7 @@
 * finger. `TPURPBG TP-PL`
 * princes, `PREUPBS/-S KW-BG`
 * dukes, `TKAOUBG/-S KW-BG`
-* earls: `*ERL/-S STPH-FPLT`
+* earls: `A*ERL/-S STPH-FPLT`
 * gazed `TKPWAEZ/-D`
 * her, `HER KW-BG`
 * 'what `AE WHA`

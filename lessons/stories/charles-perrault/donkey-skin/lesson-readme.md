@@ -641,7 +641,7 @@
 * refuse `REF/AOUS`
 * nothing, `TPHOG KW-BG`
 * diamonds `TKAOEUPLDZ`
-* rubies `RO*EUB/KWREU/-S`
+* rubies `RO*EUB/-S`
 * crown `KROUPB`
 * aid `AEUD`
 * superb `SPERB`
@@ -1281,7 +1281,7 @@
 * fifes `xxx fifes`
 * trumpets `TRUPLTS`
 * sounded `SOUPBD/-D`
-* heralds `H*ERLD/-S`
+* heralds `HERLD/-S`
 * cry `KRAOEU`
 * whose `WHOZ`
 * fit `TPEUT`
@@ -1334,7 +1334,7 @@
 * mocking `PHOBG/-G`
 * goose-girl. `TKPWAOS H-PB TKPWEURL TP-PL`
 * cries `KRAOEUS`
-* heralds, `H*ERLD/-S KW-BG`
+* heralds, `HERLD/-S KW-BG`
 * doubt `TKOUT`
 * uproar. `AUP/RAOR TP-PL`
 * true `TRAOU`

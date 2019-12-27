@@ -78,7 +78,7 @@
 * as `AZ`
 * prince, `PREUPBS KW-BG`
 * an `APB`
-* angel; `A*EPBLG STPH*FPLT`
+* angel; `APBG/EL STPH*FPLT`
 * how `HOU`
 * loved `HROFD`
 * this `TH`
@@ -368,7 +368,7 @@
 * seamed `SAEPL/-D`
 * hands. `HAPBDZ TP-PL`
 * hair `HAEUR`
-* matted, `PHA*T/-T/-D KW-BG`
+* matted, `PHATD KW-BG`
 * crippled `KREUPLD`
 * stunted; `STUPBT/-D STPH*FPLT`
 * called `KAULD`
@@ -498,7 +498,7 @@
 * baroness. `PWAR/ROPB/-PBS TP-PL`
 * beautiful, `PWAOUFL KW-BG`
 * dear `TKAER`
-* angel, `A*EPBLG KW-BG`
+* angel, `APBG/EL KW-BG`
 * possessed `POS/ES/-D`
 * kindest `KAOEUPBD/EFT`
 * heart; `HART STPH*FPLT`
@@ -545,7 +545,7 @@
 * loves `HRUFS`
 * days `TKAEUS`
 * fling `TPHREUPBG`
-* angel-arms `A*EPBLG H-PB ARPLS`
+* angel-arms `APBG/EL H-PB ARPLS`
 * round `ROUPBD`
 * neck, `TPHEBG KW-BG`
 * lisp `HREUFP`
@@ -606,7 +606,7 @@
 * thin `THEUPB`
 * grown; `TKPWROEPB STPH*FPLT`
 * eyes `AO*EUS`
-* angel `A*EPBLG`
+* angel `APBG/EL`
 * beautiful. `PWAOUFL TP-PL`
 * speak, `SPAOEBG KW-BG`
 * was. `WAS TP-PL`
@@ -774,13 +774,13 @@
 * all; `AUL STPH*FPLT`
 * heaven, `HEFPB KW-BG`
 * fast;" `TPAFT STPH*FPLT KR-GS`
-* child-angel `KHAOEULD H-PB A*EPBLG`
+* child-angel `KHAOEULD H-PB APBG/EL`
 * stretched `STREFPD`
 * terrible `TERBL`
 * crash, `KRARB KW-BG`
 * crumbling `KRUPL/-BLG`
 * pieces, `PAOEFS KW-BG`
-* angel-child `A*EPBLG H-PB KHAOEULD`
+* angel-child `APBG/EL H-PB KHAOEULD`
 * rising `RAOEUFG`
 * earth, `*ERT KW-BG`
 * holding `HOELGD`
@@ -1155,7 +1155,7 @@
 * hands `HAPBDZ`
 * moist `PHOEUFT`
 * In `KPA/TPH`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * regions, `RAOE/SKWROPBS KW-BG`
 * beech-wood `PWAOEFP H-PB WAOD`
 * buds `PWUDZ`

@@ -136,7 +136,6 @@ Single-Stroke Briefs
 'ancient': AEURBT
 'and': SKP
 'anesthetic': STPHEBG
-'angel': A*EPBLG
 'anger': ARPBG
 'angina': SKWRAO*EUPB
 'angle': A*PBLG
@@ -269,7 +268,6 @@ Single-Stroke Briefs
 'augment': A*UPLT
 'august': A*UG
 'aural': AURL
-'auscultate': AUS
 'authenticate': THAUBGT
 'author': THOER
 'authority': THORT
@@ -2891,7 +2889,7 @@ Single-Stroke Briefs
 'instead': STPHED
 'institute': STPHAOUT
 'instituted': STPHAOUTD
-'institution': STPHAOUG
+'institution': STPHAOUGS
 'instruct': STRUBGT
 'instruction': STRUBGS
 'instrument': STRUPLT
@@ -4734,7 +4732,7 @@ Single-Stroke Briefs
 'sheen': SHAOEPB
 'sheep': SHAOEP
 'sheer': SHAOER
-'sheet': SHET
+'sheet': SHAOET
 'shelf': SHEFL
 'shell': SHEL
 'shelter': SHELT
@@ -5425,7 +5423,7 @@ Single-Stroke Briefs
 'strapped': STRAPD
 'strapping': STRAPG
 'strategic': STRAO*EBG
-'strategies': STRAPLGS
+'strategies': STRAPBLGS
 'strategy': STRAPBLG
 'stratus': STRA*TS
 'straw': STRAU
@@ -6012,7 +6010,7 @@ Single-Stroke Briefs
 'trail': TRAEUL
 'train': TRAEUPB
 'trainer': TRAEURPB
-'training': TRAEUPG
+'training': TRAEUPBG
 'traipse': TRAEUPS
 'trait': TRAEUT
 'tram': TRAPL

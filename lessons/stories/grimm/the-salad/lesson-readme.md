@@ -507,7 +507,7 @@
 * eat `AOET`
 * salad, `SALD KW-BG`
 * refresh `RERB`
-* strengthen `SPEPBG/*EPB`
+* strengthen `STREPB/THEPB`
 * ate `AEUT`
 * scarcely `SKAEURS/HREU`
 * swallowed `SWAL/OED`

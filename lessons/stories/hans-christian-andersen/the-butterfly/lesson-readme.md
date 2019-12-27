@@ -51,7 +51,7 @@
 * before `PW-F`
 * they `THE`
 * are `R`
-* engaged; `EPB/TKPWAEUBLGD STPH*FPLT`
+* engaged; `EPB/TKPWAEUPBLGD STPH*FPLT`
 * but `PWUT`
 * there `THR`
 * great `TKPWRAET`

@@ -86,7 +86,7 @@
 * together! `TOGT SKHRAPL`
 * cheeks `KHAOEBGS`
 * what `WHA`
-* angels' `A*EPBLG/-S AE`
+* angels' `APB/SKWREL/-S AE`
 * eyes! `AO*EUS SKHRAPL`
 * but `PWUT`
 * have `SR`
@@ -333,7 +333,7 @@
 * number `TPHUPL`
 * than `THAPB`
 * cover `KOFR`
-* northern `TPHORPB`
+* northern `TPHOERPB`
 * skies, `SKAOEUS KW-BG`
 * cloud `KHROUD`
 * heart. `HART TP-PL`

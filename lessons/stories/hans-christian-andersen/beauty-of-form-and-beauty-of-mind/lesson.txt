@@ -6,7 +6,7 @@ Beauty of Form and Beauty of Mind
 'a': AEU
 'sculptor,': SKAO*UFP KW-BG
 'named': TPHAEUPLD
-'Alfred,': AFRL KW-BG
+'Alfred,': AL/TPRED KW-BG
 'who': WHO
 'having': SR-G
 'won': WOPB
@@ -186,7 +186,7 @@ Beauty of Form and Beauty of Mind
 'it;': T STPH*FPLT
 'for': TPOR
 'Mr.': PHR-FPLT
-'Alfred,': AFRL KW-BG
+'Alfred,': AL/TPRED KW-BG
 'the': -T
 'sculptor,': SKAO*UFP KW-BG
 'was': WAS
@@ -231,7 +231,7 @@ Beauty of Form and Beauty of Mind
 'far': TPAR
 'as': AZ
 'Mr.': PHR-FPLT
-'Alfred': AFRL
+'Alfred': AL/TPRED
 'was': WAS
 'concerned,': K-RPBD KW-BG
 'to': TO
@@ -583,7 +583,7 @@ Beauty of Form and Beauty of Mind
 'her': HER
 'face?': TPAEUS H-F
 'Mr.': PHR-FPLT
-'Alfred': AFRL
+'Alfred': AL/TPRED
 'again': TKPWEPB
 'spoke': SPOEBG
 'of': -F
@@ -701,7 +701,7 @@ Beauty of Form and Beauty of Mind
 'and': SKP
 'you,': U KW-BG
 'Mr.': PHR-FPLT
-'Alfred,': AFRL KW-BG
+'Alfred,': AL/TPRED KW-BG
 'must': PHUFT
 'be': -B
 'our': OUR
@@ -868,7 +868,7 @@ Beauty of Form and Beauty of Mind
 'visited': SREUFTD
 'by': PWEU
 'Mr.': PHR-FPLT
-'Alfred,': AFRL KW-BG
+'Alfred,': AL/TPRED KW-BG
 'the': -T
 'sculptor.': SKAO*UFP TP-PL
 'It': KPA/T
@@ -1035,7 +1035,7 @@ Beauty of Form and Beauty of Mind
 'pleasure': PHRERB
 'to': TO
 'hear': HAER
-'Alfred': AFRL
+'Alfred': AL/TPRED
 'describe': SKREU
 'anything.': TPHEUG TP-PL
 'He': KPA/HE
@@ -1193,7 +1193,7 @@ Beauty of Form and Beauty of Mind
 'For': KPA/TPOR
 'a': AEU
 'moment,': PHOEPLT KW-BG
-'Alfred's': AFRL AES
+'Alfred's': AL/TPRED AES
 'respect': R-PT
 'for': TPOR
 'Kaela's': xxx Kaela AES
@@ -1249,7 +1249,7 @@ Beauty of Form and Beauty of Mind
 'namely,': TPHAEUPL/HREU KW-BG
 'Kaela': xxx Kaela
 'herself.': H*ERS TP-PL
-'Alfred': AFRL
+'Alfred': AL/TPRED
 'and': SKP
 'Kaela': xxx Kaela
 'were': WR
@@ -1324,7 +1324,7 @@ Beauty of Form and Beauty of Mind
 'she': SHE
 'said': SAEUD
 'to': TO
-'Alfred;': AFRL STPH*FPLT
+'Alfred;': AL/TPRED STPH*FPLT
 'and': SKP
 'it': T
 'seemed': SAOEPLD
@@ -1365,7 +1365,7 @@ Beauty of Form and Beauty of Mind
 'repeated': RE/PAOETD
 'too': TAO
 'often.': OFPB TP-PL
-'Alfred': AFRL
+'Alfred': AL/TPRED
 'decided': STKAOEUD/-D
 'to': TO
 'take': TAEUBG
@@ -1610,7 +1610,7 @@ Beauty of Form and Beauty of Mind
 'firm': TPEURPL
 'hold': HOLD
 'on': OPB
-'Alfred;': AFRL STPH*FPLT
+'Alfred;': AL/TPRED STPH*FPLT
 'it': T
 'filled': TPEULD
 'his': HEUS
@@ -1646,7 +1646,7 @@ Beauty of Form and Beauty of Mind
 'her': HER
 'agile': APBLG/AOEUL
 'fingers.': TPEURPBGS TP-PL
-'Alfred,': AFRL KW-BG
+'Alfred,': AL/TPRED KW-BG
 'the': -T
 'sculptor,': SKAO*UFP KW-BG
 'saw': SAU
@@ -1825,7 +1825,7 @@ Beauty of Form and Beauty of Mind
 'and': SKP
 'as': AZ
 'for': TPOR
-'Alfred,': AFRL KW-BG
+'Alfred,': AL/TPRED KW-BG
 'a': AEU
 'proverb': PROFRB
 'may': PHAE
@@ -2414,7 +2414,7 @@ Beauty of Form and Beauty of Mind
 'a': AEU
 'perfect': P-F
 'beauty."': PWAOUT TP-PL KR-GS
-'Alfred': AFRL
+'Alfred': AL/TPRED
 'wept,': WEPT KW-BG
 'and': SKP
 'mamma': PHAPL/PHA
@@ -2446,7 +2446,7 @@ Beauty of Form and Beauty of Mind
 'grief': TKPWRAOEF
 'in': TPH
 'seeing': SAOEG
-'Alfred': AFRL
+'Alfred': AL/TPRED
 'marry': PHAER
 'again,': TKPWEPB KW-BG
 'marry': PHAER
@@ -2515,7 +2515,7 @@ Beauty of Form and Beauty of Mind
 'first': TPEUFRT
 'wedding,"': WEGD KW-BG KR-GS
 'said': SAEUD
-'Alfred;': AFRL STPH*FPLT
+'Alfred;': AL/TPRED STPH*FPLT
 '"I': KR-GS EU
 'once': WUPBS
 'fell': TPEL
@@ -2543,7 +2543,7 @@ Beauty of Form and Beauty of Mind
 'from': TPR
 'heaven,': HEFPB KW-BG
 'the': -T
-'angel': A*EPBLG
+'angel': APBG/EL
 'who': WHO
 'can': K
 'feel': TPAOEL
