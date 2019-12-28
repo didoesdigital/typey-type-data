@@ -2,6 +2,10 @@
 
 This project contains data for [Typey Type](https://github.com/didoesdigital/typey-type), a free typing app designed for steno students to practise and master stenography.
 
+# Code of Conduct
+
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [typeytype@didoesdigital.com](mailto:typeytype@didoesdigital.com).
+
 # Licenses
 
 This project is licensed under GPL-2.0, as shown in [LICENSE](./LICENSE). The following files came from [Plover](https://github.com/openstenoproject/plover/) and are also licensed under [GPL-2.0](./LICENSE_PLOVER):
