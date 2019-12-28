@@ -92,7 +92,7 @@
 * lap. `HRAP TP-PL`
 * servants `SER/SRAPBTS`
 * rushed `RURBD`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * pitchforks `PEUFP/TPORBG/-S`
 * soon `SAOPB`
 * taught `TAUT`

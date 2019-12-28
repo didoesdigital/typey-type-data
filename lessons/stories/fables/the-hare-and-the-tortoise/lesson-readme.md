@@ -8,7 +8,7 @@
 * of `-F`
 * his `HEUS`
 * speed `SPAOED`
-* before `PW-F`
+* before `PW-FP`
 * the `-T`
 * other `OER`
 * animals. `PHAPBLS TP-PL`

@@ -90,7 +90,7 @@
 * again `TKPWEPB`
 * into `TPHAO`
 * river; `REUFR STPH*FPLT`
-* before `PW-F`
+* before `PW-FP`
 * swam `SWAPL`
 * away `A/WAEU`
 * lifted `HREUFTD`
@@ -187,7 +187,7 @@
 * their `THAEUR`
 * best `PWEFT`
 * gifts `TKPWEUFTS`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * One `KPA/WUPB`
 * goodness, `TKPWAOD/-PBS KW-BG`
 * another `TPHOER`
@@ -274,7 +274,7 @@
 * first `TPEUFRT`
 * meantime `PHAO*EPB/TAOEUPL`
 * fulfilled; `TPUL/TPEULD STPH*FPLT`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * beautiful, `PWAOUFL KW-BG`
 * well `WEL`
 * behaved, `PWHAEUFD KW-BG`
@@ -321,7 +321,7 @@
 * how `HOU`
 * now, `TPHOU KW-BG`
 * mother,' `PHOER KW-BG AE`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * 'what `AE WHA`
 * are `R`
 * you `U`
@@ -341,7 +341,7 @@
 * thing `THEUPBG`
 * turns `TURPBS`
 * round!' `ROUPBD SKHRAPL AE`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * began `TKPWAPB`
 * try `TREU`
 * spin. `SPEUPB TP-PL`

@@ -11,7 +11,7 @@
 * toil, `TOEUL KW-BG`
 * was `WAS`
 * gathering `TKPWAERG`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * in `TPH`
 * a `AEU`
 * forest. `TPOEFRT TP-PL`
@@ -28,7 +28,7 @@
 * the `-T`
 * bundle `PWUPBLD`
 * of `-F`
-* sticks, `STEUBGS KW-BG`
+* sticks, `STEUBGZ KW-BG`
 * cried `KRAOEUD`
 * out: `OUT STPH-FPLT`
 * "I `KR-GS EU`

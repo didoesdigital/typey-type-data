@@ -399,7 +399,7 @@
 * whose `WHOZ`
 * smile `SPHAOEUL`
 * vividly `SREUF/TKHREU`
-* before `PW-F`
+* before `PW-FP`
 * gentle `SKWR*EPBLT`
 * expression `EBGS/PREGS`
 * eyes, `AO*EUS KW-BG`
@@ -559,7 +559,7 @@
 * Mother, `KPA/PHOER KW-BG`
 * you `U`
 * all? `AUL H-F`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * happiness `HAEP/-PBS`
 * indeed." `TPHAOEPBD TP-PL KR-GS`
 * out, `OUT KW-BG`
@@ -597,7 +597,7 @@
 * not, `TPHOT KW-BG`
 * dear `TKAER`
 * mother?" `PHOER H-F KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * stay, `STAEU KW-BG`
 * stay!" `STAEU SKHRAPL KR-GS`
 * implored `EUPL/PHROR/-D`
@@ -700,7 +700,7 @@
 * burst `PWUFRT`
 * forth, `TPO*RT KW-BG`
 * bird `PWEURD`
-* carolled `KAEURL/-D`
+* carolled `KAR/OL/-D`
 * song, `SOPBG KW-BG`
 * church-bells `KHUFRPB H-PB PWELS`
 * early `ERL`

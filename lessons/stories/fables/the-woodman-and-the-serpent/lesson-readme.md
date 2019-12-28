@@ -47,7 +47,7 @@
 * indoors `EUPB/TKAORS`
 * down `TKOUPB`
 * hearth `HAERT`
-* before `PW-F`
+* before `PW-FP`
 * fire. `TPAOEUR TP-PL`
 * The `KPA/-T`
 * children `KHEURPB`

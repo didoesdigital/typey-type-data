@@ -433,7 +433,7 @@
 * newspapers—a `TPHUPS EPL/TKA*RB AEU`
 * such `SUFP`
 * none `TPHOPB`
-* before `PW-F`
+* before `PW-FP`
 * experienced. `SPAOERPBD TP-PL`
 * air `AEUR`
 * dark `TKARBG`

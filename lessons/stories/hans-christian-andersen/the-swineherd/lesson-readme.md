@@ -111,7 +111,7 @@
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * wished `WEURBD`
 * give `TKPWEUF`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * therefore `TH-FR`
 * both `PWO*T`
 * put `PUT`
@@ -130,7 +130,7 @@
 * great `TKPWRAET`
 * hall `HAUL`
 * where `W-R`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * just `SKWRUFT`
 * playing `PHRA*EUG`
 * "Visitors `KR-GS KPA/SREUS/TORS`
@@ -154,7 +154,7 @@
 * But `KPA/PWUT`
 * rose-tree `ROEZ H-PB TRAOE`
 * unpacked. `UPB/PABGD TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * how `HOU`
 * nicely `TPHAOEULS`
 * is `S`
@@ -189,7 +189,7 @@
 * other `OER`
 * case `KAEUS`
 * contains `KAUPB/TAEUPBS`
-* before `PW-F`
+* before `PW-FP`
 * angry," `APBG/REU KW-BG KR-GS`
 * emperor; `EPL/ROR STPH*FPLT`
 * taken `TAEPB`
@@ -236,7 +236,7 @@
 * like `HRAOEUBG`
 * child. `KHAOEULD TP-PL`
 * hope `HOEP`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * certainly `SERPBL`
 * replied `RE/PHRAOEUD`
@@ -246,7 +246,7 @@
 * "Then `KR-GS KPA/THEPB`
 * let `HRET`
 * fly," `TPHRAOEU KW-BG KR-GS`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * refused `RAO*UFD`
 * prince. `PREUPBS TP-PL`
 * prince `PREUPBS`
@@ -273,7 +273,7 @@
 * "There `KR-GS KPA/THR`
 * many," `PHAEPB KW-BG KR-GS`
 * "who `KR-GS WHO`
-* apply `A/PHROEU`
+* apply `A/PHRAOEU`
 * places, `PHRAEUFS KW-BG`
 * present `PREPBT`
 * I `EU`
@@ -378,7 +378,7 @@
 * lady. `HRA*ED TP-PL`
 * ten `TEPB`
 * kisses `KEUS/-S`
-* princess," `PREUPB/ES KW-BG KR-GS`
+* princess," `PREUPB/SES KW-BG KR-GS`
 * "God `KR-GS TKPWO*D`
 * forbid," `TPORBD KW-BG KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
@@ -578,7 +578,7 @@
 * unfortunate `TPHORPBT`
 * creature `KRAOEFP`
 * am!" `APL SKHRAPL KR-GS`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * wretched `WREFPD`
 * behind `HEUPBD`
 * tree, `TRAOE KW-BG`

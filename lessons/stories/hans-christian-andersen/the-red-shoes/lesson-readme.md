@@ -151,7 +151,7 @@
 * country, `KREU KW-BG`
 * daughter, `TKAUR KW-BG`
 * who `WHO`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * with `W`
 * her. `HER TP-PL`
 * All `KPA/AUL`
@@ -166,7 +166,7 @@
 * white `WHAOEUT`
 * clothes, `KHRO*ETS KW-BG`
 * stood `STAOD`
-* before `PW-F`
+* before `PW-FP`
 * window `WOEUPBD`
 * allowed `HRO*UD`
 * be `-B`
@@ -230,7 +230,7 @@
 * Amongst `KPA/PHOPBGS`
 * ones, `WUPBZ KW-BG`
 * like `HRAOEUBG`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * worn. `WORPB TP-PL`
 * How `KPA/HOU`
 * were! `WR SKHRAPL`

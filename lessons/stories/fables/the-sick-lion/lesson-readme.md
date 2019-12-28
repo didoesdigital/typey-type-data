@@ -61,7 +61,7 @@
 * horns; `HORPBS STPH*FPLT`
 * still `STEUL`
 * helpless `HEP/-LS`
-* before `PW-F`
+* before `PW-FP`
 * them: `THEPL STPH-FPLT`
 * so `SO`
 * Ass, `KPA/A*S KW-BG`

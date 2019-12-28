@@ -5,7 +5,7 @@
 * evening `AOEPBG`
 * a `AEU`
 * young `KWRUPBG`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * put `PUT`
 * on `OPB`
 * her `HER`
@@ -112,7 +112,7 @@
 * frog `TPROG`
 * its `EUTS`
 * head `HED`
-* 'Princess, `AE KPA/PREUPB/ES KW-BG`
+* 'Princess, `AE KPA/PREUPB/SES KW-BG`
 * why `KWR`
 * do `TKO`
 * you `U`
@@ -153,7 +153,7 @@
 * 'What `AE KPA/WHA`
 * nonsense,' `TPHOPB/SEPBS KW-BG AE`
 * thought `THAUT`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * 'this `AE TH`
 * silly `SEUL/HREU`
 * is `S`
@@ -347,7 +347,7 @@
 * once `WUPBS`
 * more, `PHOR KW-BG`
 * in, `TPH KW-BG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * morning `PHORPBG`
 * broke. `PWROEBG TP-PL`
 * third `THEURD`

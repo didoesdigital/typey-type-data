@@ -81,7 +81,7 @@
 * made `PHAED`
 * open. `OEP TP-PL`
 * baking-oven `PWAEUBG/-G H-PB OEFPB`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * out `OUT`
 * wall `WAUL`
 * like `HRAOEUBG`
@@ -694,7 +694,7 @@
 * walk `WAUBG`
 * fatter `TPAT/ER`
 * still `STEUL`
-* before `PW-F`
+* before `PW-FP`
 * fowl." `TPO*UL TP-PL KR-GS`
 * "A `KR-GS KPA/AEU`
 * fowl! `TPO*UL SKHRAPL`
@@ -705,7 +705,7 @@
 * them, `THEPL KW-BG`
 * chickens; `KHEU/KEPB/-S STPH*FPLT`
 * poultry-yard. `POL/TREU H-PB KWRARD TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * wishing `WEURBG`
 * for." `TPOR TP-PL KR-GS`
 * shrivelled `SHR*EUFLD/A*U`

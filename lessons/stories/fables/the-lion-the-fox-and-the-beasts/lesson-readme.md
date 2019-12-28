@@ -38,7 +38,7 @@
 * Sheep `KPA/SHAOEP`
 * went `WEPBT`
 * in, `TPH KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * she `SHE`
 * Calf `KPA/KA*FL`
 * up `UP`

@@ -68,7 +68,7 @@
 * not `TPHOT`
 * be `-B`
 * doctor. `TKR TP-PL`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * yes,' `KWRE KW-BG AE`
 * said `SAEUD`
 * doctor, `TKR KW-BG`

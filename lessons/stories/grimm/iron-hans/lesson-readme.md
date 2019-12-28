@@ -156,7 +156,7 @@
 * dog `TKOG`
 * It `KPA/T`
 * long `HROPBG`
-* before `PW-F`
+* before `PW-FP`
 * fell `TPEL`
 * game `TKPWAEUPL`
 * way, `WAEU KW-BG`
@@ -301,7 +301,7 @@
 * cried `KRAOEUD`
 * after `AF`
 * him: `HEUPL STPH-FPLT`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * man, `PHAPB KW-BG`
 * away, `A/WAEU KW-BG`
 * shall `SHAL`

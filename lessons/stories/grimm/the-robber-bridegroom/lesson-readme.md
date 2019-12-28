@@ -418,7 +418,7 @@
 * mixed `PHEUGD`
 * sleeping `SHRAOEPG`
 * draught `TKRAUFT`
-* before `PW-F`
+* before `PW-FP`
 * lying `HRAOEUG`
 * floor `TPHRAOR`
 * fast `TPAFT`

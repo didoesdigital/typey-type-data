@@ -58,7 +58,7 @@ Multi-syllable words with doubled consonant letters
 'commission': KPHEUGS
 'supplies': SPHRAOEUZ
 'across': A/KROS
-'apply': A/PHROEU
+'apply': A/PHRAOEU
 'effective': TPEF
 'effect': EFBGT
 'addition': AGS
@@ -309,7 +309,7 @@ Multi-syllable words with doubled consonant letters
 'submission': SPHEUGS
 'territory': TERT
 'winner': WEURPB
-'potter': POT/*ER
+'potter': HRO*ER/POT/*ER
 'bulletin': PWUL/TEUPB
 'committed': KPHEUTD
 'affordable': AFRD/-BL
@@ -426,7 +426,7 @@ Multi-syllable words with doubled consonant letters
 'attribute': TR-BT
 'apparently': A/PARPBLT
 'surrounding': SROUPBGD
-'sierra': SAOER/RA
+'sierra': SAOE/ER/RA
 'summit': SUPLT
 'progressive': PROG/EUF
 'Scottish': SKOT/EURB
@@ -442,7 +442,7 @@ Multi-syllable words with doubled consonant letters
 'pottery': POT/REU
 'wallpapers': WAUL/PAEUPS
 'assumes': A/SAOUPLS
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'buttons': PW*UPBTS
 'vbulletin': SRAOE/PW*ULT/*EUPB
 'winners': WEUPB/ERS
@@ -476,10 +476,10 @@ Multi-syllable words with doubled consonant letters
 'latter': HRAERT
 'attendance': A/TEPBD/APBS
 'Jessica': SKWRES/KA
-'terry': T*ER/REU
+'terry': HRO*ER/T*ER/REU
 'announcement': TPHOUPLT
 'appreciate': PRAOERB
-'jerry': SKWRER/REU
+'jerry': HRO*ER/SKWRER/REU
 'shopper': SHOP/ER
 'emissions': AOE/PHEUGS/-S
 'supplements': S*UPLTS
@@ -501,7 +501,7 @@ Multi-syllable words with doubled consonant letters
 'supplement': S*UPLT
 'Barry': PWAR/REU
 'admissions': AD/PHEUGS/-S
-'warren': WA*RPB
+'warren': WAR/-PB
 'illustrated': EUL/STRAEUTD
 'cherry': KHER/REU
 'earrings': AOERGS
@@ -573,7 +573,7 @@ Multi-syllable words with doubled consonant letters
 'roulette': RAOUL/ET
 'Hewlett': HAOU/HRET
 'commonwealth': KPHOPB/W*ELT
-'Manhattan': PH-PBT
+'Manhattan': PHAPBT
 'Halloween': HOL/WAOEPB
 'passage': PAFPBLG
 'transferred': TR-FRD
@@ -663,7 +663,7 @@ Multi-syllable words with doubled consonant letters
 'addiction': A/TKEUBG
 'Morocco': PHORBG/KOE
 'Tommy': TOPL/PHEU
-'daddy': TKAED
+'daddy': TKAD/KWREU
 'ferry': TPER/REU
 'rabbit': RABT
 'profession': PREGS
@@ -690,7 +690,7 @@ Multi-syllable words with doubled consonant letters
 'accordingly': A/KORD/TKPWHREU
 'challenging': KHAL/-G
 'accidents': STKEPBTS
-'congressional': KOPBGS/TPHAL
+'congressional': KO*PBGS/TPHAL
 'accessed': ABG/SES/-D
 'bubble': PWUBL
 'millennium': PHEUL/EPB/KWRUPL
@@ -705,7 +705,7 @@ Multi-syllable words with doubled consonant letters
 'corruption': KRUPGS
 'trigger': TREURG
 'Essex': ES/EBGS
-'differential': TKEUFR/ERPBL
+'differential': TKEUFRPB/EPBL
 'terrible': TERBL
 'Wallace': WAL/HRAS
 'nevertheless': TPHEFRLS
@@ -803,7 +803,7 @@ Multi-syllable words with doubled consonant letters
 'bullet': PW*ULT
 'consciousness': KOPBS/-PBS
 'mistress': PHEUS/TRES
-'accessing': SESZ/-G
+'accessing': ABG/SES/-G
 'attempted': A/TEPL/-D
 'hammer': HAERPL
 'witnesses': W-PBS/-S
@@ -847,7 +847,7 @@ Multi-syllable words with doubled consonant letters
 'excessive': KPES/S*EUF
 'cigarette': STKPWRET
 'lobby': HROB/KWREU
-'metallica': PHE/TAL/KA
+'metallica': HRO*ER/PHE/TAL/KA
 'appointments': POEUPLTS
 'gotta': TKPW*T
 'narrative': TPHAR/TEUF
@@ -877,7 +877,7 @@ Multi-syllable words with doubled consonant letters
 'attempting': A/TEPLT/-G
 'worried': WOERD
 'accurately': ABG/RAT/HREU
-'savannah': SA/SRA/TPHA
+'savannah': HRO*ER/SA/SRA/TPHA
 'barrel': PWARL
 'floppy': TPHROP/PEU
 'incurred': EUPB/KURD
@@ -940,7 +940,7 @@ Multi-syllable words with doubled consonant letters
 'differently': TKEUFRL
 'annotated': APB/TPHOE/SAEUT/TA*EUT/-D
 'occupations': OUPGS/-S
-'granny': TKPWRAPB/KWREU
+'granny': TKPWRAPB/TPH*EU
 'cottages': KOT/APBLG/-S
 'chassis': KHAS/EUS
 'Allan': AL/HRAPB
@@ -967,7 +967,7 @@ Multi-syllable words with doubled consonant letters
 'sapphire': SA/TPAOEUR
 'commodities': KPHOD/TEUS
 'sheriff': SHR-F
-'griffin': TKPWREUFPB
+'griffin': HRO*ER/TKPWREUFPB
 'bunny': PWUPB/TPHEU
 'madness': PHAD/-PBS
 'Lafayette': HRA*F/KWRET

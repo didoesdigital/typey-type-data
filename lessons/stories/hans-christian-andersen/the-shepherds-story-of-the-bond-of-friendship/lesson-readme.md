@@ -235,7 +235,7 @@
 * deep `TKAOEP`
 * sea.' `SAE TP-PL AE`
 * But `KPA/PWUT`
-* before `PW-F`
+* before `PW-FP`
 * roebuck `HRO*ER/ROE/PWUBG`
 * slain, `SHRAEUPB KW-BG`
 * night `TPHAOEUT`
@@ -1194,7 +1194,7 @@
 * ground, `TKPWROUPBD KW-BG`
 * darkness, `TKARBG/-PBS KW-BG`
 * heart `HART`
-* Before `KPA/PW-F`
+* Before `KPA/PW-FP`
 * daybreak `TKAEU/PWRAEBG`
 * "Farewell," `KR-GS KPA/TPAER/WEL KW-BG KR-GS`
 * away. `A/WAEU TP-PL`

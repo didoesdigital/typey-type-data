@@ -208,7 +208,7 @@
 * too; `TAO STPH*FPLT`
 * if `TP`
 * merry `PHER/REU`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * ten `TEPB`
 * times `TAOEUPLS`
 * more `PHOR`
@@ -216,7 +216,7 @@
 * He `KPA/HE`
 * gone `TKPWOPB`
 * far `TPAR`
-* before `PW-F`
+* before `PW-FP`
 * an `APB`
 * old `OLD`
 * miser: `PHAOEUZ/ER STPH-FPLT`
@@ -231,7 +231,7 @@
 * away `A/WAEU`
 * most `PHOFT`
 * joyfully. `SKWROEUFL/HREU TP-PL`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * pretty `PREUT`
 * bird!' `PWEURD SKHRAPL AE`
 * miser; `PHAOEUZ/ER STPH*FPLT`

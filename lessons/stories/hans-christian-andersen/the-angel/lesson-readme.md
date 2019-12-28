@@ -276,7 +276,7 @@
 * fingers `TPEURPBGS`
 * held `HELD`
 * them `THEPL`
-* before `PW-F`
+* before `PW-FP`
 * face. `TPAEUS TP-PL`
 * say `SAEU`
 * out, `OUT KW-BG`
@@ -303,7 +303,7 @@
 * sun `SUPB`
 * shone, `SHO*EPB KW-BG`
 * birds `PWEURDZ`
-* carolled `KAEURL/-D`
+* carolled `KAR/OL/-D`
 * gayly. `TKPWAEU/HREU TP-PL`
 * One `KPA/WUPB`
 * day `TKAEU`

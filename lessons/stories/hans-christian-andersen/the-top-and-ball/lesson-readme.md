@@ -209,7 +209,7 @@
 * gave `TKPWAEUF`
 * higher `HAOEUR`
 * leap `HRAOEP`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * either `AOERT`
 * because `PWAU`
 * longed `HROPBG/-D`
@@ -327,7 +327,7 @@
 * washed `WARBD`
 * off `OF`
 * here. `HAOER TP-PL`
-* Oh `KPA/O*E`
+* Oh `KPA/O*ERBGS`
 * dear, `TKAER KW-BG`
 * what `WHA`
 * set `SET`

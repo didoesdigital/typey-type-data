@@ -35,7 +35,7 @@
 * see `SAOE`
 * him `HEUPL`
 * again `TKPWEPB`
-* before `PW-F`
+* before `PW-FP`
 * end. `EPBD TP-PL`
 * Then `KPA/THEPB`
 * said `SAEUD`
@@ -243,7 +243,7 @@
 * How `KPA/HOU`
 * prove `PROF`
 * me?' `PHE H-F AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * just `SKWRUFT`
 * let `HRET`
 * some `SOPL`

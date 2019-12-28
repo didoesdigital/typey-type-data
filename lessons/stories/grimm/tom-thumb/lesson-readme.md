@@ -183,7 +183,7 @@
 * want `WAPBT`
 * make `PHAEUBG`
 * haste.' `HAEUFT TP-PL AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * father,' `TPAER KW-BG AE`
 * cried `KRAOEUD`
 * Tom, `TOPL KW-BG`
@@ -411,7 +411,7 @@
 * place, `PHRAEUS KW-BG`
 * poked `POEBGD`
 * ends `EPDZ`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * mouse-hole, `PHOUS H-PB HOEL KW-BG`
 * vain; `SRA*EUPB STPH*FPLT`
 * crawled `KRAULD`
@@ -601,7 +601,7 @@
 * happen `HAP`
 * world! `WORLD SKHRAPL`
 * early, `ERL KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * daybreak, `TKAEU/PWRAEBG KW-BG`
 * feed `TPAOED`
 * cows; `KOUS STPH*FPLT`

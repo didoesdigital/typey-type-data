@@ -18,6 +18,7 @@
 * pulled `PULD`
 * proved `PROFD`
 * scored `SKORD`
+* settled `SELTD`
 * saves `SAFS`
 * rolled `ROLD`
 * wrapped `WRAPD`

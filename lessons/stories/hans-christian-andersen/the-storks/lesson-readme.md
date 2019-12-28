@@ -336,7 +336,7 @@
 * about, `PW KW-BG`
 * frogs `TPROGS`
 * abundance." `PWUPB/TKAPBS TP-PL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * o—h!" `O* EPL/TKA*RB H* SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
@@ -422,7 +422,7 @@
 * come `KOPL`
 * top `TOP`
 * roof. `RAOF TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * tottered `xxx tottered`
 * first, `TPEUFRT KW-BG`
 * balance `PWAL`
@@ -481,7 +481,7 @@
 * I'll `AOEUL`
 * call `KAUL`
 * them." `THEPL TP-PL KR-GS`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * no, `TPHORBGS`
 * no," `TPHO KW-BG KR-GS`
 * jumping `SKWRUPL/-PG`
@@ -620,7 +620,7 @@
 * As `KPA/AZ`
 * arrived, `A/REUFD KW-BG`
 * together `TOGT`
-* before `PW-F`
+* before `PW-FP`
 * taking `TAEUG`
 * departure `TKPART/AOUR`
 * during `TKURG`

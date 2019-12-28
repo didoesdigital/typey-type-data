@@ -299,7 +299,7 @@ The Snowdrop
 'greater': TKPWRAERT
 'strength': STREPBG
 'than': THAPB
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 '"Welcome,': KR-GS KPA/WELG KW-BG
 'welcome!"': WELG SKHRAPL KR-GS
 'sang': SAPBG
@@ -782,7 +782,7 @@ The Snowdrop
 'into': TPHAO
 'water.': WAUR TP-PL
 'How': KPA/HOU
-'strengthening,': STREPBG/-G KW-BG
+'strengthening,': STREPBG/THEPB/-G KW-BG
 'how': HOU
 'invigorating!': EUPB/SREUG/RAEUT/-G SKHRAPL
 'The': KPA/-T
@@ -1045,7 +1045,7 @@ The Snowdrop
 'summer': SAOURPL
 'came': KAEUPL
 'again,': TKPWEPB KW-BG
-'before': PW-F
+'before': PW-FP
 'she': SHE
 'appeared': A/PAOERD
 'once': WUPBS
@@ -1336,7 +1336,7 @@ The Snowdrop
 'came': KAEUPL
 'too': TAO
 'early,': ERL KW-BG
-'before': PW-F
+'before': PW-FP
 'his': HEUS
 'time,': TAOEUPL KW-BG
 'and': SKP

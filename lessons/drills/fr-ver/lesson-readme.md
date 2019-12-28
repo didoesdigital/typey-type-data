@@ -63,7 +63,7 @@
 * salver `SAL/SRER`
 * saver `SAFR`
 * screwdriver `SKRAOU/TKRAOEUFR`
-* server `SER/SRER`
+* server `SERB/*ER`
 * sever `SEFR`
 * shaver `SHAEUFR`
 * shiver `SHEUFR`

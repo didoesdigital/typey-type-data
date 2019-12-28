@@ -300,7 +300,7 @@
 * welcomed `W-BGD`
 * kindly; `KAOEUPBD/HREU STPH*FPLT`
 * not `TPHOT`
-* before `PW-F`
+* before `PW-FP`
 * much `PHUFP`
 * love `HRUF`
 * nothing `TPHOG`
@@ -495,7 +495,7 @@
 * shall `SHAL`
 * worse `WORS`
 * off `OF`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * neither `TPHAOERT`
 * apples `APLS`
 * nor `TPH-R`
@@ -507,7 +507,7 @@
 * eat `AOET`
 * salad, `SALD KW-BG`
 * refresh `RERB`
-* strengthen `STREPB/THEPB`
+* strengthen `STREPBG/THEPB`
 * ate `AEUT`
 * scarcely `SKAEURS/HREU`
 * swallowed `SWAL/OED`

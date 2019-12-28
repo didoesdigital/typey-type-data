@@ -139,7 +139,7 @@
 * far `TPAR`
 * off?" `OF H-F KR-GS`
 * Wolf. `KPA/WOFL TP-PL`
-* "Oh! `KR-GS KPA/O*E SKHRAPL`
+* "Oh! `KR-GS KPA/O*ERBGS SKHRAPL`
 * ay," `A/KWR* KW-BG KR-GS`
 * answered `AEPBS/-D`
 * Riding-Hood, `KPA/RAOEUD/-G H-PB KPA/HAOD KW-BG`
@@ -188,7 +188,7 @@
 * flowers `TPHRO*URS`
 * with. `W TP-PL`
 * long `HROPBG`
-* before `PW-F`
+* before `PW-FP`
 * old `OLD`
 * woman's `WOPL/AES`
 * house: `HOUS STPH-FPLT`

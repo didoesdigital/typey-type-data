@@ -161,7 +161,7 @@
 * Queen's `KWAO*EPB AES`
 * gladness, `TKPWHRAD/-PBS KW-BG`
 * declared, `TKE/KHRAEURD KW-BG`
-* Princess `KPA/PREUPB/ES`
+* Princess `KPA/PREUPB/SES`
 * have `SR`
 * all, `AUL KW-BG`
 * stupid `STAOUPD`
@@ -399,7 +399,7 @@
 * are `R`
 * pleased `PHRAOEFD`
 * so," `SO KW-BG KR-GS`
-* Princess, `KPA/PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/SES KW-BG`
 * stopped. `STOPD TP-PL`
 * "Beauty," `KR-GS KPA/PWAOUT KW-BG KR-GS`
 * "is `KR-GS S`
@@ -432,7 +432,7 @@
 * it." `T TP-PL KR-GS`
 * know `TPHOE`
 * that," `THA KW-BG KR-GS`
-* Princess; `KPA/PREUPB/ES STPH*FPLT`
+* Princess; `KPA/PREUPB/SES STPH*FPLT`
 * know, `TPHOE KW-BG`
 * well, `WEL KW-BG`
 * am `APL`
@@ -450,7 +450,7 @@
 * affliction." `A/TPHREUBGS TP-PL KR-GS`
 * "And `KR-GS AFPBD`
 * that?" `THA H-F KR-GS`
-* Princess. `KPA/PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/SES TP-PL`
 * "to `KR-GS TO`
 * whom `WHOPL`
 * best, `PWEFT KW-BG`
@@ -486,7 +486,7 @@
 * found `TPOUPBD`
 * herself `H*ERS`
 * otherwise `O*ERZ`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * incredible `TPHEBL`
 * facility `TPAS/EULT`
 * speaking `SPAOEG`
@@ -521,7 +521,7 @@
 * witty `WEUT/TEU`
 * silly `SEUL/HREU`
 * impertinences `*EUPL/PERT/TPHEPBS/-S`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * overjoyed `AUFR/SKWROEUD`
 * imagination; `PHAPBLG/TPHAEUGS STPH*FPLT`
 * younger `KWRURPBG`
@@ -677,7 +677,7 @@
 * taken `TAEPB`
 * thirty `THEURT`
 * steps `STEPS`
-* before `PW-F`
+* before `PW-FP`
 * presented `PREPBTD`
 * bravely `PWRAEUFL`
 * dressed, `TKREFD KW-BG`

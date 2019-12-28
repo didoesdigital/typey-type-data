@@ -140,7 +140,7 @@
 * him `HEUPL`
 * so `SO`
 * much. `PHUFP TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * how `HOU`
 * beautiful `PWAOUFL`
 * be, `-B KW-BG`

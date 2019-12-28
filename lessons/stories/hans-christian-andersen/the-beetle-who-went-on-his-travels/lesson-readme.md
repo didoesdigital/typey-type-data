@@ -150,7 +150,7 @@
 * food `TPAOD`
 * drink `TKREU`
 * placed `PHRAEUFD`
-* before `PW-F`
+* before `PW-FP`
 * him? `HEUPL H-F`
 * And `AFPBD`
 * don't `TKOEPBT`
@@ -224,7 +224,7 @@
 * sweet `SWAOET`
 * lovely `HROFL`
 * here? `HAOER H-F`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * how `HOU`
 * everything `EFRG`
 * is." `S TP-PL KR-GS`
@@ -751,7 +751,7 @@
 * behind `HEUPBD`
 * forsaken `TPAUR/SA*EUPB`
 * widow. `WO*EUD TP-PL`
-* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * "this `KR-GS TH`
 * fellow `TPO*EUL`
 * family `TPAEPL`

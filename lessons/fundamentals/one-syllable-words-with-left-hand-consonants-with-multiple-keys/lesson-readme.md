@@ -143,7 +143,6 @@
 * deep `TKAOEP`
 * boards `PWORDZ`
 * goods `TKPWAODZ`
-* maybe `PHAEB`
 * places `PHRAEUFS`
 * debt `TKET`
 * le `HRE`
@@ -419,6 +418,7 @@
 * juice `SKWRAOUS`
 * beads `PWAOEDZ`
 * flows `TPHROES`
+* nurses `TPHURSZ`
 * drew `TKRAOU`
 * flu `TPHRU`
 * voted `SROETD`

@@ -93,7 +93,7 @@
 * people `PAOEPL`
 * themselves, `TH*EPLS KW-BG`
 * stood `STAOD`
-* before `PW-F`
+* before `PW-FP`
 * house, `HOUS KW-BG`
 * watching `WAFPG`
 * lighted `HRAOEUT/-D`
@@ -350,7 +350,7 @@
 * Italy!" `EUT/HREU SKHRAPL KR-GS`
 * sighed `SAOEU/-D`
 * guests. `TKPWEFTS TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * travel `TRAFL`
 * there!" `THR SKHRAPL KR-GS`
 * others. `OERS TP-PL`
@@ -510,7 +510,7 @@
 * eruptions `E/RUPGS/-S`
 * fire `TPAOEUR`
 * it. `T TP-PL`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * "Good `KR-GS KPA/TKPWAOD`
 * heavens!" `HEFPBS SKHRAPL KR-GS`
 * exclaimed. `SKHRAEUPL/-D TP-PL`

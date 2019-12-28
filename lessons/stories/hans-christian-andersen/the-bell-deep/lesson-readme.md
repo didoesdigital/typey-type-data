@@ -256,7 +256,7 @@
 * already `HR-R`
 * observed; `OEBD STPH*FPLT`
 * long `HROPBG`
-* before `PW-F`
+* before `PW-FP`
 * grandmother's `TKPWR-PL AES`
 * born; `PWORPB STPH*FPLT`
 * yet `KWRET`
@@ -364,7 +364,7 @@
 * me, `PHE KW-BG`
 * played `PHRAEUD`
 * two `TWO`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * if `TP`
 * they `THE`
 * been `PW-PB`

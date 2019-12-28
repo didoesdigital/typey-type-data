@@ -290,7 +290,7 @@
 * wrong; `WROPBG STPH*FPLT`
 * should `SHO`
 * told `TOLD`
-* before.' `PW-F TP-PL AE`
+* before.' `PW-FP TP-PL AE`
 * husband `HUS`
 * himself, `H*EUPLS KW-BG`
 * 'If `AE KPA/TP`
@@ -330,7 +330,7 @@
 * asked `SK-D`
 * whether `WHR`
 * buy. `PWAOEU TP-PL`
-* 'Oh `AE KPA/O*E`
+* 'Oh `AE KPA/O*ERBGS`
 * dear `TKAER`
 * me, `PHE KW-BG`
 * like `HRAOEUBG`
@@ -488,7 +488,7 @@
 * are `R`
 * cheese?' `KHAOES H-F AE`
 * he. `HE TP-PL`
-* 'Oh!' `AE KPA/O*E SKHRAPL AE`
+* 'Oh!' `AE KPA/O*ERBGS SKHRAPL AE`
 * used `AOUFD`
 * so: `SO STPH-FPLT`
 * sent `SEPBT`
@@ -517,7 +517,7 @@
 * 'you `AE U`
 * 'Then `AE KPA/THEPB`
 * home, `HOEPL KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * farther,' `TPA*RT KW-BG AE`
 * 'and `AE SKP`
 * bring `PWREU`

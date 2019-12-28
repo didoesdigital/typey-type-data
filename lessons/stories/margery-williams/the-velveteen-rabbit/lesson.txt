@@ -484,7 +484,7 @@ The Velveteen Rabbit
 'the': -T
 'nursery': TPHURS/REU
 'fender,': TPEPB/TKER KW-BG
-'before': PW-F
+'before': PW-FP
 'Nana': TPHA/TPHA
 'came': KAEUPL
 'to': TO
@@ -748,7 +748,7 @@ The Velveteen Rabbit
 'a': AEU
 'long': HROPBG
 'time': TAOEUPL
-'before': PW-F
+'before': PW-FP
 'this': TH
 'magic': PHAPBLG/EUBG
 'called': KAULD
@@ -1501,7 +1501,7 @@ The Velveteen Rabbit
 'with': W
 'him,': HEUPL KW-BG
 'and': SKP
-'before': PW-F
+'before': PW-FP
 'he': HE
 'wandered': WAPBD/-D
 'off': OF
@@ -2112,7 +2112,7 @@ The Velveteen Rabbit
 'the': -T
 'little': HREUL
 'Rabbit.': KPA/RABT TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'do': TKO
 'come': KOPL
 'back!': PWABG SKHRAPL
@@ -2151,7 +2151,7 @@ The Velveteen Rabbit
 'was': WAS
 'all': AUL
 'alone.': A/HROEPB TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'dear!"': TKAER SKHRAPL KR-GS
 'he': HE
 'thought.': THAUT TP-PL
@@ -3036,7 +3036,7 @@ The Velveteen Rabbit
 'them': THEPL
 'all': AUL
 'pass': PAS
-'before': PW-F
+'before': PW-FP
 'him,': HEUPL KW-BG
 'each': AOEFP
 'more': PHOR
@@ -3315,7 +3315,7 @@ The Velveteen Rabbit
 'seen': SAOEPB
 'her': HER
 'face': TPAEUS
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 'but': PWUT
 'he': HE
 'couldn't': KOPBT
@@ -3373,7 +3373,7 @@ The Velveteen Rabbit
 '"Wasn't': KR-GS KPA/WA/TPH* AE T*
 'I': EU
 'Real': KPA/RAEL
-'before?"': PW-F H-F KR-GS
+'before?"': PW-FP H-F KR-GS
 'asked': SK-D
 'the': -T
 'little': HREUL
@@ -3623,7 +3623,7 @@ The Velveteen Rabbit
 'his': HEUS
 'nose,': TPHOES KW-BG
 'and': SKP
-'before': PW-F
+'before': PW-FP
 'he': HE
 'thought': THAUT
 'what': WHA

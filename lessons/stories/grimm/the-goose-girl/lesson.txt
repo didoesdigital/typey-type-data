@@ -51,7 +51,7 @@ The Goose-Girl
 'fond': TPOPBD
 'of': -F
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'and': SKP
 'helped': HEPD
 'her': HER
@@ -155,7 +155,7 @@ The Goose-Girl
 'journey.': SKWRURPB TP-PL
 'Now': KPA/TPHOU
 'the': -T
-'princess's': PREUPB/ES AES
+'princess's': PREUPB/SES AES
 'horse': HORS
 'was': WAS
 'the': -T
@@ -202,7 +202,7 @@ The Goose-Girl
 'it': T
 'to': TO
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
 ''Take': AE KPA/TAEUBG
@@ -235,7 +235,7 @@ The Goose-Girl
 'leave': HREF
 'of': -F
 'the': -T
-'princess;': PREUPB/ES STPH*FPLT
+'princess;': PREUPB/SES STPH*FPLT
 'and': SKP
 'she': SHE
 'put': PUT
@@ -271,7 +271,7 @@ The Goose-Girl
 'a': AEU
 'brook,': PWRAOBG KW-BG
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'began': TKPWAPB
 'to': TO
 'feel': TPAOEL
@@ -393,7 +393,7 @@ The Goose-Girl
 'it.'': T TP-PL AE
 'But': KPA/PWUT
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'was': WAS
 'very': SRE
 'gentle': SKWR*EPBLT
@@ -483,7 +483,7 @@ The Goose-Girl
 'more': PHOR
 'haughtily': HAUT/HREU
 'than': THAPB
-'before:': PW-F STPH-FPLT
+'before:': PW-FP STPH-FPLT
 ''Drink': AE KPA/TKREU
 'if': TP
 'you': U
@@ -497,7 +497,7 @@ The Goose-Girl
 'waiting-maid.'': WAEUGT H-PB PHAEUD TP-PL AE
 'Then': KPA/THEPB
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'was': WAS
 'so': SO
 'thirsty': THEURS/TEU
@@ -778,7 +778,7 @@ The Goose-Girl
 'but': PWUT
 'the': -T
 'true': TRAOU
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'was': WAS
 'told': TOLD
 'to': TO
@@ -1026,7 +1026,7 @@ The Goose-Girl
 'done': TKOPB
 'to': TO
 'the': -T
-'princess.': PREUPB/ES TP-PL
+'princess.': PREUPB/SES TP-PL
 'She': KPA/SHE
 'carried': KAERD
 'her': HER
@@ -1041,7 +1041,7 @@ The Goose-Girl
 'when': WHEPB
 'the': -T
 'true': TRAOU
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'heard': HAERD
 'of': -F
 'it,': T KW-BG
@@ -1398,7 +1398,7 @@ The Goose-Girl
 'her': HER
 'hair': HAEUR
 'as': AZ
-'before;': PW-F STPH*FPLT
+'before;': PW-FP STPH*FPLT
 'and': SKP
 'Curdken': xxx Curdken
 'ran': RAPB
@@ -2014,7 +2014,7 @@ The Goose-Girl
 'with': W
 'the': -T
 'false': TPALS
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'on': OPB
 'one': WUPB
 'side,': SAOEUD KW-BG
@@ -2088,7 +2088,7 @@ The Goose-Girl
 'story': STOER
 'of': -F
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'as': AZ
 'if': TP
 'it': T

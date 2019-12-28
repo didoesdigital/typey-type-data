@@ -160,6 +160,7 @@
 * watched `WAFPD`
 * wishes `WEURBS`
 * thinks `THEUS`
+* that's `THATS`
 * brush `PWRURB`
 * chains `KHAEUPBS`
 * cheat `KHAOET`

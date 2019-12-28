@@ -313,7 +313,7 @@
 * insulted `EUPB/SULT/-D`
 * broad `PWRAOD`
 * daylight. `TKAEULT TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * contrive `KAUPB/TRAOEUF`
 * get `TKPWET`
 * lost, `HRO*S KW-BG`
@@ -360,7 +360,7 @@
 * was, `WAS KW-BG`
 * help `HEP`
 * shuddering `SHUD/ERG`
-* before `PW-F`
+* before `PW-FP`
 * their `THAEUR`
 * whenever `WHEFR`
 * brought `PWRAUT`

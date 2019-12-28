@@ -210,7 +210,7 @@ Ashputtel
 'to': TO
 'rise': RAOEUZ
 'early': ERL
-'before': PW-F
+'before': PW-FP
 'daylight,': TKAEULT KW-BG
 'to': TO
 'bring': PWREU
@@ -808,7 +808,7 @@ Ashputtel
 'the': -T
 'ashes.': ARBS TP-PL
 'Long': KPA/HROPBG
-'before': PW-F
+'before': PW-FP
 'the': -T
 'end': EPBD
 'of': -F
@@ -939,7 +939,7 @@ Ashputtel
 'cried': KRAOEUD
 'out': OUT
 'as': AZ
-'before:': PW-F STPH-FPLT
+'before:': PW-FP STPH-FPLT
 ''Hither,': AE KPA/H*EURT KW-BG
 'hither,': H*EURT KW-BG
 'through': THRU
@@ -1045,7 +1045,7 @@ Ashputtel
 'all': AUL
 'the': -T
 'ashes.': ARBS TP-PL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'half': HAF
 'an': APB
 'hour's': HOUR AES
@@ -1196,7 +1196,7 @@ Ashputtel
 'be': -B
 'some': SOPL
 'strange': STRAEUPBG
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'she': SHE
 'looked': HRAOBGD
 'so': SO
@@ -1517,7 +1517,7 @@ Ashputtel
 'worn': WORPB
 'the': -T
 'day': TKAEU
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'And': AFPBD
 'when': WHEPB
 'she': SHE
@@ -1560,7 +1560,7 @@ Ashputtel
 'he': HE
 'said': SAEUD
 'as': AZ
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 ''This': AE KPA/TH
 'lady': HRA*ED
 'is': S
@@ -1582,7 +1582,7 @@ Ashputtel
 'followed': TPOLD
 'here': HAOER
 'as': AZ
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 'that': THA
 'he': HE
 'might': PHAOEUT
@@ -2516,7 +2516,7 @@ Ashputtel
 'at': AT
 'the': -T
 'shoe!': SHAOU SKHRAPL
-'Princess!': KPA/PREUPB/ES SKHRAPL
+'Princess!': KPA/PREUPB/SES SKHRAPL
 'the': -T
 'shoe': SHAOU
 'was': WAS

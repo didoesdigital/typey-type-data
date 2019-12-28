@@ -234,7 +234,7 @@
 * way," `WAEU KW-BG KR-GS`
 * garments; `TKPWARPLTS STPH*FPLT`
 * "but `KR-GS PWUT`
-* before `PW-F`
+* before `PW-FP`
 * you, `U KW-BG`
 * must `PHUFT`
 * sing `SEUPBG`
@@ -246,7 +246,7 @@
 * songs, `SOPBGS KW-BG`
 * heard `HAERD`
 * them `THEPL`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * am `APL`
 * Night, `KPA/TPHAOEUT KW-BG`
 * flow `TPHROE`
@@ -404,7 +404,7 @@
 * trees, `TRAOES KW-BG`
 * every `EF`
 * life." `HRAOEUF TP-PL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * give `TKPWEUF`
 * reach `RAOEFP`
 * child!" `KHAOEULD SKHRAPL KR-GS`
@@ -714,7 +714,7 @@
 * back—they `PWABG EPL/TKA*RB THE`
 * clearer `KHAOER/*ER`
 * now `TPHOU`
-* before—and `PW-F EPL/TKA*RB SKP`
+* before—and `PW-FP EPL/TKA*RB SKP`
 * well `WEL`
 * close `KHROES`
 * here. `HAOER TP-PL`
@@ -790,7 +790,7 @@
 * will, `HR KW-BG`
 * times `TAOEUPLS`
 * best. `PWEFT TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * hear `HAER`
 * not;" `TPHOT STPH*FPLT KR-GS`
 * carried `KAERD`

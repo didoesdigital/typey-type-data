@@ -182,7 +182,7 @@
 * stop `STOP`
 * come `KOPL`
 * us.' `US TP-PL AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * must `PHUFT`
 * beast `PWAOEFT`
 * back `PWABG`
@@ -202,7 +202,7 @@
 * me `PHE`
 * that,' `THA KW-BG AE`
 * led `HRED`
-* before `PW-F`
+* before `PW-FP`
 * mayor, `PHAEUR KW-BG`
 * who `WHO`
 * carelessness `KAEURLS/-PBS`

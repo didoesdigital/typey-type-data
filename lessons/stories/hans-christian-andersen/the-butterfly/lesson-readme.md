@@ -48,7 +48,7 @@
 * maidens `PHAEUD/EPB/-S`
 * should `SHO`
 * sit `SEUT`
-* before `PW-F`
+* before `PW-FP`
 * they `THE`
 * are `R`
 * engaged; `EPB/TKPWAEUPBLGD STPH*FPLT`
@@ -269,7 +269,7 @@
 * sister," `ST-R KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * pea-blossom. `PAE H-PB PWHROFPL TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * indeed; `TPHAOEPBD STPH*FPLT`
 * you `U`
 * some `SOPL`

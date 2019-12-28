@@ -1,6 +1,6 @@
 # The Frog and the Ox
 
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * Father," `KPA/TPAER KW-BG KR-GS`
 * said `SAEUD`
 * a `AEU`
@@ -79,7 +79,7 @@
 * that?" `THA H-F KR-GS`
 * asked `SK-D`
 * he. `HE TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * much `PHUFP`
 * bigger `PWEURG`
 * that," `THA KW-BG KR-GS`

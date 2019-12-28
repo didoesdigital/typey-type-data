@@ -78,7 +78,7 @@
 * up `UP`
 * put `PUT`
 * pocket. `POBGT TP-PL`
-* before `PW-F`
+* before `PW-FP`
 * but `PWUT`
 * clean `KHAOEPB`
 * well-mended `W*EL PHEPBD/-D`
@@ -219,7 +219,7 @@
 * come, `KOPL KW-BG`
 * want `WAPBT`
 * something `S-G`
-* strengthen `STREPB/THEPB`
+* strengthen `STREPBG/THEPB`
 * me. `PHE TP-PL`
 * cold `KOELD`
 * water, `WAUR KW-BG`
@@ -258,7 +258,7 @@
 * autumn `AU/UPL`
 * really `R-L`
 * come. `KOPL TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * is! `S SKHRAPL`
 * hope `HOEP`
 * shall `SHAL`
@@ -345,7 +345,7 @@
 * "Lame `KR-GS KPA/HRAEUPL`
 * Martha, `PHAR/THA KW-BG`
 * curl." `KURL TP-PL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * thing; `THEUPBG STPH*FPLT`
 * work, `WORBG KW-BG`
 * standing `STAPBG`
@@ -610,7 +610,7 @@
 * was, `WAS KW-BG`
 * laid `HRAEUD`
 * basket. `PWAFBGT TP-PL`
-* Before `KPA/PW-F`
+* Before `KPA/PW-FP`
 * evening, `AOEPBG KW-BG`
 * sitting `SEUGT`
 * room `RAOPL`

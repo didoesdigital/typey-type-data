@@ -95,7 +95,7 @@
 * be, `-B KW-BG`
 * sudden `SUD`
 * stood `STAOD`
-* before `PW-F`
+* before `PW-FP`
 * little, `HREUL KW-BG`
 * rough-looking, `RUF H-PB HRAOG KW-BG`
 * black `PWHRABG`
@@ -145,7 +145,7 @@
 * bottom `PWOPLT`
 * sea, `SAE KW-BG`
 * land. `HRAPBD TP-PL`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * trouble `TRUBL`
 * not `TPHOT`
 * yourself `KWRO*URS`
@@ -258,7 +258,7 @@
 * again, `TKPWEPB KW-BG`
 * richer `REUFP/*ER`
 * than `THAPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * Meantime `KPA/PHAO*EPB/TAOEUPL`
 * Heinel `xxx Heinel`
 * grew `TKPWRAOU`
@@ -478,7 +478,7 @@
 * chambers. `KHAEURPLS TP-PL`
 * snake `STPHAEUBG`
 * enchanted `EPB/HAPBT/-D`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * she `SHE`
 * 'Are `AE KPA/R`
 * free? `TPRAOE H-F`
@@ -542,7 +542,7 @@
 * all, `AUL KW-BG`
 * spoke `SPOEBG`
 * word; `WORD STPH*FPLT`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * neck `TPHEBG`
 * kissed `K*EUFD`
 * Joy `KPA/SKWROEU`
@@ -635,7 +635,7 @@
 * next `TPHEGT`
 * Mountain, `KPA/PHOUPB/TAEUPB KW-BG`
 * married `PHAERD`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * seven `SEFPB`
 * old. `OLD TP-PL`
 * 'that `AE THA`

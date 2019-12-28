@@ -121,7 +121,7 @@
 * at `AT`
 * all; `AUL STPH*FPLT`
 * rose-tree `ROEZ H-PB TRAOE`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * to `TO`
 * its `EUTS`
 * gets `TKPWETS`

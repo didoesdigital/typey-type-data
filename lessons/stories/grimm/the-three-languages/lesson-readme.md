@@ -114,7 +114,7 @@
 * fell `TPEL`
 * rage `RAEUPBLG`
 * said: `SAEUD STPH-FPLT`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * lost `HRO*S`
 * man, `PHAPB KW-BG`
 * spent `SPEPBT`
@@ -125,7 +125,7 @@
 * not `TPHOT`
 * ashamed `A/SHAEUPLD`
 * appear `A/PAOER`
-* before `PW-F`
+* before `PW-FP`
 * eyes? `AO*EUS H-F`
 * third `THEURD`
 * if `TP`

@@ -34,7 +34,7 @@
 * well `WEL`
 * hear `HAER`
 * now `TPHOU`
-* before `PW-F`
+* before `PW-FP`
 * forgotten. `TPORGTD TP-PL`
 * emperor's `EPL/ROR AES`
 * palace `PAL/AS`
@@ -140,7 +140,7 @@
 * her `HER`
 * sing, `SEUPBG KW-BG`
 * say, `SAEU KW-BG`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * beautiful?" `PWAOUFL H-F KR-GS`
 * But `KPA/PWUT`
 * returned `RURPBD`
@@ -435,7 +435,7 @@
 * cow `KO*U`
 * began `TKPWAPB`
 * lowing. `HROE/-G TP-PL`
-* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * young `KWRUPBG`
 * courtier, `KORT/KWRA*U KW-BG`
 * "now `KR-GS TPHOU`
@@ -446,7 +446,7 @@
 * small `SPHAL`
 * creature; `KRAOEFP STPH*FPLT`
 * certainly `SERPBL`
-* before." `PW-F TP-PL KR-GS`
+* before." `PW-FP TP-PL KR-GS`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * lowing," `HROE/-G KW-BG KR-GS`
 * girl; `TKPWEURL STPH*FPLT`
@@ -515,7 +515,7 @@
 * throat `THROET`
 * works. `WORBGS TP-PL`
 * surprising `SPRAOEUG`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * success `SKES`
 * "Shall `KR-GS KPA/SHAL`
 * once `WUPBS`
@@ -819,7 +819,7 @@
 * Chinese `KHAOEUPB/AOEZ`
 * custom. `KUFPL TP-PL`
 * They `KPA/THE`
-* "Oh!" `KR-GS KPA/O*E SKHRAPL KR-GS`
+* "Oh!" `KR-GS KPA/O*ERBGS SKHRAPL KR-GS`
 * forefingers `TPOER/TPEUPBG/ERS`
 * nodded, `TPHOD/-D KW-BG`
 * fisherman, `TPEURB/ER/PHAPB KW-BG`

@@ -39,7 +39,7 @@
 * I `EU`
 * find `TPEUPBD`
 * one?" `WUPB H-F KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * that `THA`
 * be `-B`
 * easily `AOELS`
@@ -197,7 +197,7 @@
 * nothing `TPHOG`
 * singing `SEUPBG/-G`
 * ever `-FR`
-* before `PW-F`
+* before `PW-FP`
 * been `PW-PB`
 * heard. `HAERD TP-PL`
 * One `KPA/WUPB`
@@ -454,7 +454,7 @@
 * brook, `PWRAOBG KW-BG`
 * get `TKPWET`
 * away. `A/WAEU TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * how `HOU`
 * frightened `TPRAOEUPBD`
 * felt `TPELT`
@@ -492,7 +492,7 @@
 * Pooh! `PAO* SKHRAPL`
 * human `HAOUPL`
 * being." `-BG TP-PL KR-GS`
-* "Oh! `KR-GS KPA/O*E SKHRAPL`
+* "Oh! `KR-GS KPA/O*ERBGS SKHRAPL`
 * ugly," `ULG KW-BG KR-GS`
 * lady `HRA*ED`
 * cockchafers, `xxx cockchafers KW-BG`
@@ -588,7 +588,7 @@
 * ground. `TKPWROUPBD TP-PL`
 * struggling `STRUG/-LG`
 * wood. `WAOD TP-PL`
-* Oh! `KPA/O*E SKHRAPL`
+* Oh! `KPA/O*ERBGS SKHRAPL`
 * door `TKAOR`
 * field-mouse, `TPAOELD H-PB PHOUS KW-BG`
 * den `TKEPB`
@@ -693,7 +693,7 @@
 * cautious. `KAURBS TP-PL`
 * short `SHORT`
 * time `TAOEUPL`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * dug `TKUG`
 * passage `PAFPBLG`
 * earth, `*ERT KW-BG`
@@ -884,7 +884,7 @@
 * strength, `STREPBG KW-BG`
 * able `ABL`
 * sunshine." `SUPB/SHAO*EUPB TP-PL KR-GS`
-* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * "it `KR-GS T`
 * doors `TKAORS`
 * now; `TPHOU STPH*FPLT`

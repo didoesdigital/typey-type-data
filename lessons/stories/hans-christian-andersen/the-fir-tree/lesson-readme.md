@@ -77,7 +77,7 @@
 * more `PHOR`
 * unhappy `UPB/HAEP`
 * than `THAPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * And `AFPBD`
 * all `AUL`
 * this `TH`
@@ -101,7 +101,7 @@
 * as `AZ`
 * grew, `TKPWRAOU KW-BG`
 * complained, `KPHRAEUPBD KW-BG`
-* "Oh! `KR-GS KPA/O*E SKHRAPL`
+* "Oh! `KR-GS KPA/O*ERBGS SKHRAPL`
 * how `HOU`
 * I `EU`
 * wish `WEURB`
@@ -176,7 +176,7 @@
 * remained `RE/PHAEUPBD`
 * unsatisfied, `UPB/SAED KW-BG`
 * exclaim, `SKHRAEUPL KW-BG`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * if `TP`
 * could `KO`
 * keep `KAOEP`
@@ -405,7 +405,7 @@
 * long `HROPBG`
 * almost `HR-PL`
 * pain. `PAEUPB TP-PL`
-* Oh! `KPA/O*E SKHRAPL`
+* Oh! `KPA/O*ERBGS SKHRAPL`
 * Christmas `KREUS/PHAS`
 * here? `HAOER H-F`
 * am `APL`
@@ -451,7 +451,7 @@
 * tree!" `TRAOE SKHRAPL KR-GS`
 * A `KPA/AEU`
 * short `SHORT`
-* before `PW-F`
+* before `PW-FP`
 * Christmas, `KREUS/PHAS KW-BG`
 * discontented `TKEUS/KOPB/TEPBT/-D`
 * first `TPEUFRT`
@@ -571,10 +571,10 @@
 * leaves,—the `HREFS KW-BG EPL/TKA*RB -T`
 * such `SUFP`
 * things `THEUPBGS`
-* before,—and `PW-F KW-BG EPL/TKA*RB SKP`
+* before,—and `PW-FP KW-BG EPL/TKA*RB SKP`
 * star, `STAR KW-BG`
 * tinsel. `TEUPB/SEL TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * beautiful! `PWAOUFL SKHRAPL`
 * "This `KR-GS KPA/TH`
 * evening," `AOEPBG KW-BG KR-GS`
@@ -710,7 +710,7 @@
 * got `TKPWOT`
 * again, `TKPWEPB KW-BG`
 * married `PHAERD`
-* princess." `PREUPB/ES TP-PL KR-GS`
+* princess." `PREUPB/SES TP-PL KR-GS`
 * "Ivede-Avede," `KR-GS xxx Ivede H-PB xxx Avede KW-BG KR-GS`
 * some. `SOPL TP-PL`
 * "Humpty `KR-GS KPA/H*UPLT/KWREU`
@@ -730,7 +730,7 @@
 * told `TOLD`
 * story `STOER`
 * raised `RA*EUFD`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * clapped `KHRAP/-D`
 * hands `HAPBDZ`
 * cried, `KRAOEUD KW-BG`
@@ -762,7 +762,7 @@
 * fall `TPAUL`
 * too, `TAO KW-BG`
 * marry `PHAER`
-* princess;" `PREUPB/ES STPH*FPLT KR-GS`
+* princess;" `PREUPB/SES STPH*FPLT KR-GS`
 * forward `TPAORD`
 * joyfully `SKWROEUFL/HREU`
 * next `TPHEGT`
@@ -924,8 +924,8 @@
 * "Those `KR-GS KPA/THOZ`
 * days, `TKAEUS KW-BG`
 * again. `TKPWEPB TP-PL`
-* princess; `PREUPB/ES STPH*FPLT`
-* princess `PREUPB/ES`
+* princess; `PREUPB/SES STPH*FPLT`
+* princess `PREUPB/SES`
 * too." `TAO TP-PL KR-GS`
 * birch-tree `PWEUFRPB H-PB TRAOE`
 * "Who `KR-GS KPA/WHO`

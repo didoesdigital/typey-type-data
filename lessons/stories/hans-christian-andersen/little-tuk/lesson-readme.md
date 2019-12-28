@@ -17,7 +17,7 @@
 * had `H`
 * himself `H*EUPLS`
 * so `SO`
-* before `PW-F`
+* before `PW-FP`
 * could `KO`
 * speak `SPAOEBG`
 * plainly, `PHRAEUPBL KW-BG`
@@ -455,7 +455,7 @@
 * Roeskilde, `xxx Roeskilde KW-BG`
 * called. `KAULD TP-PL`
 * kings `KEUPBGS`
-* queens `KWAOEPBS`
+* queens `HRO*ER/KWAOEPBS`
 * Denmark `TKEPB/PHARBG`
 * went `WEPBT`
 * ascent `A/SKREPBT`

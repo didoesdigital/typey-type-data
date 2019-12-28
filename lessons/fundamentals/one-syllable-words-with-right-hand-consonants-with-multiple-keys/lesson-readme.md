@@ -107,6 +107,7 @@
 * kinds `KEUPBDZ`
 * teams `TAOEPLS`
 * turned `TURPBD`
+* taxes `TABGSZ`
 * wants `WAPBTS`
 * truck `TRUBG`
 * signs `SAOEUPBS`
@@ -164,6 +165,7 @@
 * smooth `SPHAO*T`
 * strike `STRAOEUBG`
 * hundred `HUPBD`
+* Ryan `RAOEUPB`
 * scan `SKAPB`
 * sin `SEUPB`
 * pounds `POUPBDZ`
@@ -172,7 +174,7 @@
 * pants `PAPBTS`
 * crown `KROUPB`
 * crack `KRABG`
-* picks `PEUBGS`
+* picks `PEUBGZ`
 * cake `KAEUBG`
 * coins `KOEUPBS`
 * Ken `KEPB`
@@ -216,6 +218,7 @@
 * rocks `ROBGS`
 * punk `PUPBG`
 * arc `ARBG`
+* ext `EBGT`
 * tracked `TRABGD`
 * packs `PABGZ`
 * spoke `SPOEBG`
@@ -305,7 +308,7 @@
 * Hans `HAPBS`
 * sake `SAEUBG`
 * sans `SAPBS`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * strand `STRAPBD`
 * strikes `STRAOEUBGS`
 * hint `HEUPBT`

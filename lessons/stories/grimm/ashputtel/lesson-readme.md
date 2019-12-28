@@ -141,7 +141,7 @@
 * work; `WORBG STPH*FPLT`
 * rise `RAOEUZ`
 * early `ERL`
-* before `PW-F`
+* before `PW-FP`
 * daylight, `TKAEULT KW-BG`
 * bring `PWREU`
 * water, `WAUR KW-BG`
@@ -428,12 +428,12 @@
 * shook `SHAOBG`
 * garden `TKPWA*RPB`
 * house, `HOUS KW-BG`
-* before: `PW-F STPH-FPLT`
+* before: `PW-FP STPH-FPLT`
 * hopping `HOPG`
 * about. `PW TP-PL`
 * grain `TKPWRAEUPB`
 * dishes, `TKEURBS KW-BG`
-* Before `KPA/PW-F`
+* Before `KPA/PW-FP`
 * half `HAF`
 * again. `TKPWEPB TP-PL`
 * rejoicing `RE/SKWROEUFG`
@@ -467,7 +467,7 @@
 * must `PHUFT`
 * some `SOPL`
 * strange `STRAEUPBG`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * looked `HRAOBGD`
 * clothes; `KHRO*ETS STPH*FPLT`
 * never `TPHEFR`
@@ -546,7 +546,7 @@
 * finer `TPAOEURPB`
 * than `THAPB`
 * worn `WORPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * ball, `PWAUL KW-BG`
 * everyone `EFRPB`
 * wondered `WOPBD/-D`
@@ -554,7 +554,7 @@
 * son, `SOPB KW-BG`
 * waiting `WAEUGT`
 * hand, `HAPBD KW-BG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * When `KPA/WHEPB`
 * night `TPHAOEUT`
 * here `HAOER`
@@ -728,7 +728,7 @@
 * anger `ARPBG`
 * 'Home! `AE KPA/HOEPL SKHRAPL`
 * home! `HOEPL SKHRAPL`
-* Princess! `KPA/PREUPB/ES SKHRAPL`
+* Princess! `KPA/PREUPB/SES SKHRAPL`
 * side!' `SAOEUD SKHRAPL AE`
 * song, `SOPBG KW-BG`
 * flying, `TPHRAOEUG KW-BG`

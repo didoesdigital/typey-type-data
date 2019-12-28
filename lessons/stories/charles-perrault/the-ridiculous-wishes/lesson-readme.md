@@ -83,7 +83,7 @@
 * thunder, `THUPBD/ER KW-BG`
 * Jupiter `SKWRAOUP/TER`
 * appeared `A/PAOERD`
-* before `PW-F`
+* before `PW-FP`
 * him `HEUPL`
 * wielding `WAOELD/-G`
 * mighty `PHAOEUT/KWREU`

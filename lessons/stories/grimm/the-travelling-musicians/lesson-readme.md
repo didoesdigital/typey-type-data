@@ -134,7 +134,7 @@
 * not `TPHOT`
 * gone `TKPWOPB`
 * far `TPAR`
-* before `PW-F`
+* before `PW-FP`
 * cat `KAT`
 * sitting `SEUGT`
 * middle `PH*EULD`
@@ -197,7 +197,7 @@
 * know `TPHOE`
 * live `HREUF`
 * upon.' `POPB TP-PL AE`
-* 'Oh,' `AE KPA/O*E KW-BG AE`
+* 'Oh,' `AE KPA/O*ERBGS KW-BG AE`
 * 'by `AE PWEU`
 * all `AUL`
 * means `PHAOEPBS`

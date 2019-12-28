@@ -360,7 +360,7 @@
 * was! `WAS SKHRAPL`
 * enough `TPHUF`
 * buy `PWAOEU`
-* sugar-sticks `SHURG H-PB STEUBGS`
+* sugar-sticks `SHURG H-PB STEUBGZ`
 * sweet-stuff `SWAOET H-PB STUF`
 * women; `WEUPL STPH*FPLT`
 * tin `TEUPB`
@@ -473,7 +473,7 @@
 * king's `KEUPBG/AES`
 * beautiful `PWAOUFL`
 * daughter, `TKAUR KW-BG`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * "Where `KR-GS KPA/W-R`
 * her?" `HER H-F KR-GS`
 * "She `KR-GS KPA/SHE`
@@ -572,7 +572,7 @@
 * door `TKAOR`
 * flew `TPHRAOU`
 * whom `WHOPL`
-* before `PW-F`
+* before `PW-FP`
 * orders, `ORDZ KW-BG`
 * master?" `PHAFRT H-F KR-GS`
 * "Hallo," `KR-GS HA*L/KWRO KW-BG KR-GS`
@@ -605,7 +605,7 @@
 * reappeared `RAOE/A/PAOERD`
 * knew `TPHAOU`
 * directly, `TKREL KW-BG`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * After `KPA/AF`
 * began `TKPWAPB`
 * strange `STRAEUPBG`
@@ -626,7 +626,7 @@
 * "It `KR-GS KPA/T`
 * midnight," `PHAOEUPBT KW-BG KR-GS`
 * "yet `KR-GS KWRET`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * moment." `PHOEPLT TP-PL KR-GS`
 * disappeared `TKEUS/PAOERD`
 * instantly, `EUPB/STAPBT/HREU KW-BG`
@@ -644,7 +644,7 @@
 * true `TRAOU`
 * was. `WAS TP-PL`
 * ran `RAPB`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * morning, `PHORPBG KW-BG`
 * breakfast `PWREBG/TPAFT`
 * queen, `KWAOEPB KW-BG`
@@ -662,7 +662,7 @@
 * court `KORT`
 * set `SET`
 * watch `WAFP`
-* princess's `PREUPB/ES AES`
+* princess's `PREUPB/SES AES`
 * bed, `PWED KW-BG`
 * discover `SKOFR`
 * whether `WHR`
@@ -671,7 +671,7 @@
 * might `PHAOEUT`
 * be. `-B TP-PL`
 * longed `HROPBG/-D`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * more, `PHOR KW-BG`
 * sent `SEPBT`
 * fetch `TPEFP`
@@ -757,7 +757,7 @@
 * been, `PW-PB KW-BG`
 * taken `TAEPB`
 * prison. `PREUZ TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * disagreeable `TKEUS/TKPWRAOEBL`
 * there, `THR KW-BG`
 * "To-morrow `KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE`
@@ -864,7 +864,7 @@
 * others. `OERS TP-PL`
 * afraid, `A/TPRAEUD KW-BG`
 * cried, `KRAOEUD KW-BG`
-* princess." `PREUPB/ES TP-PL KR-GS`
+* princess." `PREUPB/SES TP-PL KR-GS`
 * carriage, `KAEURPBLG KW-BG`
 * front `TPROPBT`
 * "Hurrah!" `KR-GS KPA/HUR/RA SKHRAPL KR-GS`

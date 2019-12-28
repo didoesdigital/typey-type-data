@@ -82,7 +82,7 @@
 * legs `HREGS`
 * arms `ARPLS`
 * bodies, `PWOEDZ KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * behind; `HEUPBD STPH*FPLT`
 * yet `KWRET`
 * merry `PHER/REU`

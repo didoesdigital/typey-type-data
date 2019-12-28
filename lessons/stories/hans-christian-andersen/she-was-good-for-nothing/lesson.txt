@@ -111,7 +111,7 @@ She Was Good for Nothing
 'pocket.': POBGT TP-PL
 'He': KPA/HE
 'stood': STAOD
-'before': PW-F
+'before': PW-FP
 'the': -T
 'mayor': PHAEUR
 'in': TPH
@@ -395,7 +395,7 @@ She Was Good for Nothing
 'want': WAPBT
 'something': S-G
 'to': TO
-'strengthen': STREPB/THEPB
+'strengthen': STREPBG/THEPB
 'me.': PHE TP-PL
 'It': KPA/T
 'is': S
@@ -482,7 +482,7 @@ She Was Good for Nothing
 'has': HAS
 'really': R-L
 'come.': KOPL TP-PL
-'Oh,': KPA/O*E KW-BG
+'Oh,': KPA/O*ERBGS KW-BG
 'how': HOU
 'cold': KOELD
 'the': -T
@@ -672,7 +672,7 @@ She Was Good for Nothing
 'with': W
 'the': -T
 'curl."': KURL TP-PL KR-GS
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'you': U
 'poor': PAOR
 'thing;': THEUPBG STPH*FPLT
@@ -1004,7 +1004,7 @@ She Was Good for Nothing
 'dead?"': TKED H-F KR-GS
 'she': SHE
 'exclaimed.': SKHRAEUPL/-D TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'he': HE
 'was': WAS
 'such': SUFP
@@ -1031,7 +1031,7 @@ She Was Good for Nothing
 'Then': KPA/THEPB
 'she': SHE
 'cried,': KRAOEUD KW-BG
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'dear': TKAER
 'me;': PHE STPH*FPLT
 'I': EU
@@ -1181,7 +1181,7 @@ She Was Good for Nothing
 'a': AEU
 'burning': PWURPBG
 'fever.': TPAOEF TP-PL
-'Oh,': KPA/O*E KW-BG
+'Oh,': KPA/O*ERBGS KW-BG
 'my': PHEU
 'poor': PAOR
 'child,"': KHAOEULD KW-BG KR-GS
@@ -1274,7 +1274,7 @@ She Was Good for Nothing
 'to': TO
 'the': -T
 'window.': WOEUPBD TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'it': T
 'is': S
 'the': -T
@@ -1389,7 +1389,7 @@ She Was Good for Nothing
 'in': TPH
 'a': AEU
 'basket.': PWAFBGT TP-PL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'evening,': AOEPBG KW-BG
 'she': SHE
 'was': WAS
@@ -1679,7 +1679,7 @@ She Was Good for Nothing
 'to': TO
 'travel,': TRAFL KW-BG
 'and': SKP
-'before': PW-F
+'before': PW-FP
 'he': HE
 'started': STARTD
 'he': HE
@@ -2913,7 +2913,7 @@ She Was Good for Nothing
 'by': PWEU
 'her': HER
 'side.': SAOEUD TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'my': PHEU
 'poor': PAOR
 'mother!"': PHOER SKHRAPL KR-GS

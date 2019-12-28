@@ -137,7 +137,7 @@
 * year `KWRAOER`
 * went `WEPBT`
 * by, `PWEU KW-BG`
-* longed—oh, `HROPBG/-D EPL/TKA*RB O*E KW-BG`
+* longed—oh, `HROPBG/-D EPL/TKA*RB O*ERBGS KW-BG`
 * so `SO`
 * very `SRE`
 * much!—for `PHUFP SKHRAPL EPL/TKA*RB TPOR`
@@ -202,7 +202,7 @@
 * tell `TEL`
 * about `PW`
 * oldest `OELD/EFT`
-* before `PW-F`
+* before `PW-FP`
 * princesses `PREUPB/SES/-S`
 * spun `SPUPB`
 * golden `TKPWOELD/*EPB`
@@ -255,7 +255,7 @@
 * whether `WHR`
 * might `PHAOEUT`
 * hidden `HEUD/EPB`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * tale. `TAEL TP-PL`
 * go `TKPW`
 * search `SEFRPB`
@@ -1075,7 +1075,7 @@
 * tongue; `TUPBG STPH*FPLT`
 * necessity—a `TPHES/TEU EPL/TKA*RB AEU`
 * fate—a `TPAEUT EPL/TKA*RB AEU`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * throat, `THROET KW-BG`
 * wants `WAPBTS`
 * out. `OUT TP-PL`

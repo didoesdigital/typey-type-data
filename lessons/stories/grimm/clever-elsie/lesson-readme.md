@@ -52,7 +52,7 @@
 * be `-B`
 * really `R-L`
 * smart. `SPHART TP-PL`
-* 'Oh,' `AE KPA/O*E KW-BG AE`
+* 'Oh,' `AE KPA/O*ERBGS KW-BG AE`
 * father, `TPAER KW-BG`
 * 'she `AE SHE`
 * has `HAS`
@@ -61,7 +61,7 @@
 * good `TKPWAOD`
 * sense'; `SEPBS AE STPH*FPLT`
 * mother `PHOER`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * can `K`
 * see `SAOE`
 * wind `WEUPBD`
@@ -113,7 +113,7 @@
 * chair, `KHAEUR KW-BG`
 * set `SET`
 * it `T`
-* before `PW-F`
+* before `PW-FP`
 * barrel `PWARL`
 * no `TPHO`
 * need `TPHAOED`
@@ -370,7 +370,7 @@
 * first, `TPEUFRT KW-BG`
 * eat `AOET`
 * first? `TPEUFRT H-F`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * first.' `TPEUFRT TP-PL AE`
 * drank `TKRA*PBG`
 * cup `KUP`

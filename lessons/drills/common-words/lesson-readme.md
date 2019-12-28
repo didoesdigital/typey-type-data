@@ -84,7 +84,7 @@
 * bed `PWED`
 * bedroom `PW-PL`
 * been `PW-PB`
-* before `PW-F`
+* before `PW-FP`
 * began `TKPWAPB`
 * begin `TKPWEUPB`
 * behind `HEUPBD`
@@ -586,7 +586,7 @@
 * offer `OFR`
 * office `OFS`
 * often `OFPB`
-* oh `O*E`
+* oh `O*ERBGS`
 * okay `OBLG`
 * old `OLD`
 * on `OPB`

@@ -14,7 +14,7 @@
 * a `AEU`
 * journey; `SKWRURPB STPH*FPLT`
 * but `PWUT`
-* before `PW-F`
+* before `PW-FP`
 * he `HE`
 * went `WEPBT`
 * asked `SK-D`
@@ -532,7 +532,7 @@
 * fighting `TPAOEUGT`
 * dragon; `TKRAG/O*PB STPH*FPLT`
 * dragon `TKRAG/O*PB`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * seeks `SAOEBGS`
 * separate `SERPT`
 * counsel. `KOUPB TP-PL`
@@ -555,7 +555,7 @@
 * look `HRAOBG`
 * round `ROUPBD`
 * wilt `WEULT`
-* griffin, `TKPWREUFPB KW-BG`
+* griffin, `HRO*ER/TKPWREUFPB KW-BG`
 * winged `WEUPBGD`
 * like `HRAOEUBG`
 * bird, `PWEURD KW-BG`
@@ -578,7 +578,7 @@
 * immediately `PHAOELD`
 * spring `SPREUPBG`
 * nut-tree `TPHUT H-PB TRAOE`
-* griffin `TKPWREUFPB`
+* griffin `HRO*ER/TKPWREUFPB`
 * able `ABL`
 * otherwise `O*ERZ`
 * strength `STREPBG`
@@ -602,14 +602,14 @@
 * dragon, `TKRAG/O*PB KW-BG`
 * forthwith `TPA*URT/W`
 * became `PWAEUPL`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * sooner `SAORPB`
 * released `RE/HRAOEFD`
 * spell, `SPEL KW-BG`
 * than `THAPB`
 * seized `SAOEZ/-D`
 * arm `ARPL`
-* griffin's `TKPWREUFPB AES`
+* griffin's `HRO*ER/TKPWREUFPB AES`
 * back, `PWABG KW-BG`
 * off `OF`
 * carrying `KAERG`
@@ -722,7 +722,7 @@
 * blood: `PWHRAOD STPH-FPLT`
 * brood.' `PWRAO*D TP-PL AE`
 * betray `PWE/TRAEU`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * asked: `SK-D STPH-FPLT`
 * chamber `KHAEURPL`
 * why `KWR`

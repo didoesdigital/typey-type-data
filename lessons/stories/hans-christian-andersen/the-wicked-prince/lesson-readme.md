@@ -471,7 +471,7 @@
 * away, `A/WAEU KW-BG`
 * danced `TKAPBS/-D`
 * about `PW`
-* before `PW-F`
+* before `PW-FP`
 * eyes `AO*EUS`
 * ferocious `TPROERBS`
 * soldiers, `SHRERPBLGS KW-BG`

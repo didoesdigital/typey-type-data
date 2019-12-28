@@ -76,7 +76,7 @@
 * cry, `KRAOEU KW-BG`
 * came `KAEUPL`
 * forward `TPAORD`
-* before `PW-F`
+* before `PW-FP`
 * window, `WOEUPBD KW-BG`
 * looked `HRAOBGD`
 * up `UP`

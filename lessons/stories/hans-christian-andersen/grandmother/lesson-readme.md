@@ -64,7 +64,7 @@
 * for `TPOR`
 * was `WAS`
 * alive `A/HRAOEUF`
-* before `PW-F`
+* before `PW-FP`
 * father `TPAER`
 * mother—that's `PHOER EPL/TKA*RB THA AES`
 * certain. `SERPB TP-PL`

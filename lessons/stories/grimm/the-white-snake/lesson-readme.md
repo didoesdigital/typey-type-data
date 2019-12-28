@@ -171,7 +171,7 @@
 * ordered `ORD/-D`
 * man `PHAPB`
 * be `-B`
-* before `PW-F`
+* before `PW-FP`
 * threatened `THREFPBD`
 * angry `APBG/REU`
 * words `WORDZ`
@@ -407,7 +407,7 @@
 * flapping `TPHRAPG`
 * wings, `WEUPBGS KW-BG`
 * crying: `KRAOEUG STPH-FPLT`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * helpless `HEP/-LS`
 * chicks `KHEUBGS`
 * we `WE`
@@ -521,7 +521,7 @@
 * grant `TKPWRAPBT`
 * reward. `RE/WARD TP-PL`
 * proud `PROUD`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * perceived `SPAOEFD`
 * equal `KWAL`
 * birth, `PW*EURT KW-BG`

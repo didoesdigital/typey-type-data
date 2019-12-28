@@ -104,7 +104,7 @@
 * ram, `RAPL KW-BG`
 * sure, `SHUR KW-BG`
 * proper `PROR`
-* apply `A/PHROEU`
+* apply `A/PHRAOEU`
 * to. `TO TP-PL`
 * So `KPA/SO`
 * ram `RAPL`

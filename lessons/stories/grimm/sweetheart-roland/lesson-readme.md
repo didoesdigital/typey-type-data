@@ -283,7 +283,7 @@
 * every `EF`
 * step, `STEP KW-BG`
 * it `T`
-* before `PW-F`
+* before `PW-FP`
 * overtook `AUFR/TAOBG`
 * them. `THEPL TP-PL`
 * girl, `TKPWEURL KW-BG`
@@ -334,7 +334,7 @@
 * may `PHAE`
 * pluck `PHRUBG`
 * myself?' `PHAO*EUS H-F AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * yes,' `KWRE KW-BG AE`
 * replied, `RE/PHRAOEUD KW-BG`
 * play `PHRAEU`

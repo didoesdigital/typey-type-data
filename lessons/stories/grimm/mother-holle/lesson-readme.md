@@ -395,7 +395,7 @@
 * Like `KPA/HRAOEUBG`
 * oven. `OEFPB TP-PL`
 * ago,' `AG KW-BG AE`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * answered, `AEPBS/-D KW-BG`
 * 'Do `AE KPA/TKO`
 * think `THEU`
@@ -504,7 +504,7 @@
 * weak, `WAEBG KW-BG`
 * good. `TKPWAOD TP-PL`
 * Set `KPA/SET`
-* before `PW-F`
+* before `PW-FP`
 * gets `TKPWETS`
 * hot, `HOT KW-BG`
 * going, `TKPW-G KW-BG`
@@ -683,7 +683,7 @@
 * strange `STRAEUPBG`
 * feeling `TPAOELG`
 * herself: `H*ERS STPH-FPLT`
-* 'Oh `AE KPA/O*E`
+* 'Oh `AE KPA/O*ERBGS`
 * dear! `TKAER SKHRAPL`
 * uneasy `UPB/EZ`
 * feel `TPAOEL`
@@ -699,7 +699,7 @@
 * far `TPAR`
 * face, `TPAEUS KW-BG`
 * strange. `STRAEUPBG TP-PL`
-* 'Oh! `AE KPA/O*E SKHRAPL`
+* 'Oh! `AE KPA/O*ERBGS SKHRAPL`
 * grandmother,' `TKPWR-PL KW-BG AE`
 * 'what `AE WHA`
 * big `PWEUG`

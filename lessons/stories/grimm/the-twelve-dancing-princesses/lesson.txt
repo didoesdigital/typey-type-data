@@ -796,7 +796,7 @@ The Twelve Dancing Princesses
 'of': -F
 'the': -T
 'youngest': KWRUPBG/EFT
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'and': SKP
 'she': SHE
 'cried': KRAOEUD
@@ -908,7 +908,7 @@ The Twelve Dancing Princesses
 'That': KPA/THA
 'never': TPHEFR
 'happened': HAPD
-'before.'': PW-F TP-PL AE
+'before.'': PW-FP TP-PL AE
 'But': KPA/PWUT
 'the': -T
 'eldest': ELD/EFT
@@ -1066,7 +1066,7 @@ The Twelve Dancing Princesses
 'with': W
 'the': -T
 'youngest': KWRUPBG/EFT
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'and': SKP
 'the': -T
 'soldier': SHRERPBL
@@ -1117,7 +1117,7 @@ The Twelve Dancing Princesses
 'weather,'': WHR* KW-BG AE
 'said': SAEUD
 'the': -T
-'princess:': PREUPB/ES STPH-FPLT
+'princess:': PREUPB/SES STPH-FPLT
 ''I': AE EU
 'feel': TPAOEL
 'it': T
@@ -1161,7 +1161,7 @@ The Twelve Dancing Princesses
 'danced': TKAPBS/-D
 'with': W
 'his': HEUS
-'princess;': PREUPB/ES STPH*FPLT
+'princess;': PREUPB/SES STPH*FPLT
 'and': SKP
 'the': -T
 'soldier,': SHRERPBL KW-BG
@@ -1269,7 +1269,7 @@ The Twelve Dancing Princesses
 'with': W
 'the': -T
 'eldest': ELD/EFT
-'princess);': PREUPB/ES PR*EPB STPH*FPLT
+'princess);': PREUPB/SES PR*EPB STPH*FPLT
 'and': SKP
 'on': OPB
 'the': -T
@@ -1300,7 +1300,7 @@ The Twelve Dancing Princesses
 'soldier': SHRERPBL
 'ran': RAPB
 'on': OPB
-'before': PW-F
+'before': PW-FP
 'the': -T
 'princesses,': PREUPB/SES/-S KW-BG
 'and': SKP
@@ -1384,7 +1384,7 @@ The Twelve Dancing Princesses
 'happened': HAPD
 'just': SKWRUFT
 'as': AZ
-'before;': PW-F STPH*FPLT
+'before;': PW-FP STPH*FPLT
 'the': -T
 'princesses': PREUPB/SES/-S
 'danced': TKAPBS/-D
@@ -1439,7 +1439,7 @@ The Twelve Dancing Princesses
 'he': HE
 'was': WAS
 'taken': TAEPB
-'before': PW-F
+'before': PW-FP
 'the': -T
 'king': KEUPBG
 'with': W

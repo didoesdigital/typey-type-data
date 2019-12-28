@@ -296,7 +296,7 @@
 * horse `HORS`
 * full `TPUL`
 * gallop; `TKPWAL/OP STPH*FPLT`
-* before `PW-F`
+* before `PW-FP`
 * knew `TPHAOU`
 * about, `PW KW-BG`
 * thrown `THROEPB`
@@ -749,7 +749,7 @@
 * cow?' `KO*U H-F AE`
 * horse?' `HORS H-F AE`
 * silver?' `SEUL/SRER H-F AE`
-* 'Oh! `AE KPA/O*E SKHRAPL`
+* 'Oh! `AE KPA/O*ERBGS SKHRAPL`
 * seven `SEFPB`
 * years.' `KWRAOERS TP-PL AE`
 * thriven `THREUFPB`

@@ -452,7 +452,7 @@ The Emperor's New Suit
 'the': -T
 'swindlers': SWEUPBD/HRERS
 'sat': SAT
-'before': PW-F
+'before': PW-FP
 'the': -T
 'empty': EPLT
 'looms.': HRAOPLS TP-PL
@@ -525,7 +525,7 @@ The Emperor's New Suit
 'to': TO
 'be': -B
 'seen.': SAOEPB TP-PL
-'"Oh': KR-GS KPA/O*E
+'"Oh': KR-GS KPA/O*ERBGS
 'dear,"': TKAER KW-BG KR-GS
 'he': HE
 'thought,': THAUT KW-BG
@@ -588,7 +588,7 @@ The Emperor's New Suit
 'be': -B
 'busily': PWEUZ/HREU
 'weaving.': WEFG TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'it': T
 'is': S
 'very': SRE
@@ -903,7 +903,7 @@ The Emperor's New Suit
 'had': H
 'been': PW-PB
 'there': THR
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 '"Your': KR-GS KPA/KWROUR
 'Majesty': KPA/PHAPBLG/STEU
 'must': PHUFT
@@ -1265,7 +1265,7 @@ The Emperor's New Suit
 'the': -T
 'new': TPHU
 'suit': SAOUT
-'before': PW-F
+'before': PW-FP
 'the': -T
 'large': HRARPBLG
 'looking-glass?"': HRAOG H-PB TKPWHRAS H-F KR-GS

@@ -72,7 +72,7 @@
 * At `KPA/AT`
 * last `HRAFT`
 * said: `SAEUD STPH-FPLT`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * wretched `WREFPD`
 * beard-cleaner, `PWAERD H-PB KHRAOERPB KW-BG`
 * piebald `PAOEU/PWAULD`

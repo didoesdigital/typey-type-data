@@ -1740,10 +1740,10 @@ Project Gutenberg sentences using top 100 words
 'Are': KPA/R
 'they?'': THE H-F AE
 'As': KPA/AZ
-'before?': PW-F H-F
-'Before': KPA/PW-F
+'before?': PW-FP H-F
+'Before': KPA/PW-FP
 'me!': PHE SKHRAPL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'me?': PHE H-F
 'But': KPA/PWUT
 'after.': AF TP-PL
@@ -2606,7 +2606,7 @@ Project Gutenberg sentences using top 100 words
 'As': KPA/AZ
 'you': U
 'are.': R TP-PL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'you!': U SKHRAPL
 'But': KPA/PWUT
 'do': TKO
@@ -3262,7 +3262,7 @@ Project Gutenberg sentences using top 100 words
 '"Any': KR-GS KPA/TPHEU
 'one--?"': WUPB H-PB H-PB H-F KR-GS
 '"As': KR-GS KPA/AZ
-'before?"': PW-F H-F KR-GS
+'before?"': PW-FP H-F KR-GS
 '"As': KR-GS KPA/AZ
 'we': WE
 'are!"': R SKHRAPL KR-GS
@@ -3579,7 +3579,7 @@ Project Gutenberg sentences using top 100 words
 'Be': KPA/-B
 'with': W
 'her!': HER SKHRAPL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'that!': THA SKHRAPL
 'But': KPA/PWUT
 'do': TKO
@@ -3816,7 +3816,7 @@ Project Gutenberg sentences using top 100 words
 'at': AT
 'all!'': AUL SKHRAPL AE
 'Not': KPA/TPHOT
-'before.'': PW-F TP-PL AE
+'before.'': PW-FP TP-PL AE
 'Not': KPA/TPHOT
 'by': PWEU
 'you?'': U H-F AE
@@ -4184,7 +4184,7 @@ Project Gutenberg sentences using top 100 words
 'with': W
 'me.': PHE TP-PL
 '[As': PWR-BGT KPA/AZ
-'before.]': PW-F TP-PL PWR*BGT
+'before.]': PW-FP TP-PL PWR*BGT
 '[But': PWR-BGT KPA/PWUT
 'he': HE
 'did!': TK SKHRAPL
@@ -4319,7 +4319,7 @@ Project Gutenberg sentences using top 100 words
 '"More,': KR-GS KPA/PHOR KW-BG
 'more!"': PHOR SKHRAPL KR-GS
 '"No,': KR-GS KPA/TPHO KW-BG
-'before."': PW-F TP-PL KR-GS
+'before."': PW-FP TP-PL KR-GS
 '"No,': KR-GS KPA/TPHO KW-BG
 'no,': TPHORBGS
 'no!"': TPHO SKHRAPL KR-GS
@@ -5369,7 +5369,7 @@ Project Gutenberg sentences using top 100 words
 '"As': KR-GS KPA/AZ
 'you': U
 'will."': HR TP-PL KR-GS
-'"Before': KR-GS KPA/PW-F
+'"Before': KR-GS KPA/PW-FP
 'what?"': WHA H-F KR-GS
 '"But': KR-GS KPA/PWUT
 'for': TPOR
@@ -5653,7 +5653,7 @@ Project Gutenberg sentences using top 100 words
 'It': KPA/T
 'was': WAS
 'not.': TPHOT TP-PL
-'--"Before': H-PB H-PB KR-GS KPA/PW-F
+'--"Before': H-PB H-PB KR-GS KPA/PW-FP
 'me."': PHE TP-PL KR-GS
 '--Do': H-PB H-PB KPA/TKO
 'you': U
@@ -7218,7 +7218,7 @@ Project Gutenberg sentences using top 100 words
 'all': AUL
 'so.'': SO TP-PL AE
 'Not': KPA/TPHOT
-'before': PW-F
+'before': PW-FP
 'her!': HER SKHRAPL
 'Not': KPA/TPHOT
 'know': TPHOE
@@ -7697,7 +7697,7 @@ Project Gutenberg sentences using top 100 words
 'it?"': T H-F KR-GS
 '"Did': KR-GS KPA/TK
 'he': HE
-'before?"': PW-F H-F KR-GS
+'before?"': PW-FP H-F KR-GS
 '"Do': KR-GS KPA/TKO
 'you': U
 'see': SAOE
@@ -8345,7 +8345,7 @@ Project Gutenberg sentences using top 100 words
 'of': -F
 'this.': TH TP-PL
 'No,': KPA/TPHO KW-BG
-'before': PW-F
+'before': PW-FP
 'that!': THA SKHRAPL
 'No,': KPA/TPHO KW-BG
 'he': HE
@@ -9339,7 +9339,7 @@ Project Gutenberg sentences using top 100 words
 'this': TH
 'from': TPR
 'me!'': PHE SKHRAPL AE
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'and': SKP
 'after.': AF TP-PL
 'But': KPA/PWUT
@@ -10279,7 +10279,7 @@ Project Gutenberg sentences using top 100 words
 'much': PHUFP
 'as': AZ
 'that?"': THA H-F KR-GS
-'"Before': KR-GS KPA/PW-F
+'"Before': KR-GS KPA/PW-FP
 'the': -T
 'what?"': WHA H-F KR-GS
 '"But': KR-GS KPA/PWUT
@@ -11526,7 +11526,7 @@ Project Gutenberg sentences using top 100 words
 'one': WUPB
 'with': W
 'you?"': U H-F KR-GS
-'"Before,': KR-GS KPA/PW-F KW-BG
+'"Before,': KR-GS KPA/PW-FP KW-BG
 'or': OR
 'after?"': AF H-F KR-GS
 '"But': KR-GS KPA/PWUT
@@ -11996,7 +11996,7 @@ Project Gutenberg sentences using top 100 words
 'this.': TH TP-PL
 'But': KPA/PWUT
 'not': TPHOT
-'before': PW-F
+'before': PW-FP
 'the.': -T TP-PL
 'But': KPA/PWUT
 'there': THR
@@ -15180,7 +15180,7 @@ Project Gutenberg sentences using top 100 words
 'you': U
 'like.': HRAOEUBG TP-PL
 'These': KPA/THEZ
-'before': PW-F
+'before': PW-FP
 'the': -T
 'time.': TAOEUPL TP-PL
 'They': KPA/THE
@@ -15545,7 +15545,7 @@ Project Gutenberg sentences using top 100 words
 'at': AT
 'all': AUL
 'as': AZ
-'before."': PW-F TP-PL KR-GS
+'before."': PW-FP TP-PL KR-GS
 '"Not': KR-GS KPA/TPHOT
 'to': TO
 'me,': PHE KW-BG
@@ -15768,12 +15768,12 @@ Project Gutenberg sentences using top 100 words
 'any': TPHEU
 'good': TKPWAOD
 'men?': PHEPB H-F
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'the': -T
 'time': TAOEUPL
 'be': -B
 'out!': OUT SKHRAPL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'the': -T
 'time': TAOEUPL
 'be': -B
@@ -16543,7 +16543,7 @@ Project Gutenberg sentences using top 100 words
 'to,': TO KW-BG
 'it': T
 'is': S
-'before': PW-F
+'before': PW-FP
 'us.': US TP-PL
 'And': AFPBD
 'what': WHA
@@ -17218,7 +17218,7 @@ Project Gutenberg sentences using top 100 words
 'he': HE
 'know': TPHOE
 'them': THEPL
-'before?'': PW-F H-F AE
+'before?'': PW-FP H-F AE
 'Did': KPA/TK
 'she': SHE
 'know': TPHOE
@@ -17271,7 +17271,7 @@ Project Gutenberg sentences using top 100 words
 'had': H
 'been': PW-PB
 'there': THR
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'He': KPA/HE
 'had': H
 'made': PHAED
@@ -17787,7 +17787,7 @@ Project Gutenberg sentences using top 100 words
 'there': THR
 'been': PW-PB
 'any': TPHEU
-'before?': PW-F H-F
+'before?': PW-FP H-F
 'He': KPA/HE
 'must': PHUFT
 'be': -B
@@ -17831,7 +17831,7 @@ Project Gutenberg sentences using top 100 words
 'has': HAS
 'been': PW-PB
 'there': THR
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'She': KPA/SHE
 'said': SAEUD
 'she': SHE
@@ -18468,7 +18468,7 @@ Project Gutenberg sentences using top 100 words
 'have': SR
 'a': AEU
 'man': PHAPB
-'before': PW-F
+'before': PW-FP
 'you.]': U TP-PL PWR*BGT
 'You': KPA/U
 'would': WO
@@ -19313,7 +19313,7 @@ Project Gutenberg sentences using top 100 words
 'they': THE
 'not': TPHOT
 'been': PW-PB
-'before': PW-F
+'before': PW-FP
 'him?': HEUPL H-F
 'She': KPA/SHE
 'is': S
@@ -19340,7 +19340,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'much,': PHUFP KW-BG
 'much': PHUFP
-'before': PW-F
+'before': PW-FP
 'us.': US TP-PL
 'There': KPA/THR
 'it': T
@@ -19946,7 +19946,7 @@ Project Gutenberg sentences using top 100 words
 'made': PHAED
 'a': AEU
 'will': HR
-'before': PW-F
+'before': PW-FP
 'that.'': THA TP-PL AE
 '"And': KR-GS AFPBD
 '--': TK-R
@@ -19969,7 +19969,7 @@ Project Gutenberg sentences using top 100 words
 'have': SR
 'been': PW-PB
 'there': THR
-'before?"': PW-F H-F KR-GS
+'before?"': PW-FP H-F KR-GS
 '"What': KR-GS KPA/WHA
 'should': SHO
 'there': THR
@@ -20482,7 +20482,7 @@ Project Gutenberg sentences using top 100 words
 'but': PWUT
 'a': AEU
 'little': HREUL
-'before': PW-F
+'before': PW-FP
 'your': KWROUR
 'time,': TAOEUPL KW-BG
 'you': U

@@ -382,7 +382,7 @@
 * thou `THO*U`
 * couldest `KO/EFT`
 * so?" `SO H-F KR-GS`
-* "Y--es," `KR-GS KWR*P H-PB H-PB AOE/-S KW-BG KR-GS`
+* "Y--es," `KR-GS KWR*P H-PB H-PB *E/-S KW-BG KR-GS`
 * cried `KRAOEUD`
 * great `TKPWRAET`
 * sigh. `SAOEU TP-PL`
@@ -534,7 +534,7 @@
 * glass-slippers, `TKPWHRAS H-PB SHREUP/ERS KW-BG`
 * prettiest `PRET/KWREFT`
 * doubt `TKOUT`
-* medieval `PHAOEFL`
+* medieval `PHED/AOEFL`
 * versions `SRERGS/-S`
 * ancient `AEURBT`
 * tale `TAEL`
@@ -556,7 +556,7 @@
 * probably `PROBL`
 * squirrel. `SKWEURL TP-PL`
 * Long `KPA/HROPBG`
-* before `PW-F`
+* before `PW-FP`
 * seventeenth `STPAOEPBT`
 * century `KROEURPBT`
 * word `WORD`
@@ -602,7 +602,7 @@
 * rat, `RAT KW-BG`
 * footmen `TPAOT/PH*EPB`
 * lizards, `HREUZ/ARDZ KW-BG`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * promised `PROPLS/-D`
 * fail `TPAEUL`
 * midnight; `PHAOEUPBT STPH*FPLT`
@@ -613,7 +613,7 @@
 * joy. `SKWROEU TP-PL`
 * son, `SOPB KW-BG`
 * told `TOLD`
-* Princess, `KPA/PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/SES KW-BG`
 * whom `WHOPL`
 * nobody `TPHOEB`
 * knew, `TPHAOU KW-BG`
@@ -762,7 +762,7 @@
 * us `US`
 * citrons." `SEUT/ROPB/-S TP-PL KR-GS`
 * name `TPHAEUPL`
-* Princess; `KPA/PREUPB/ES STPH*FPLT`
+* Princess; `KPA/PREUPB/SES STPH*FPLT`
 * anxious `KPUS`
 * learn `HRERPB`
 * give `TKPWEUF`
@@ -830,7 +830,7 @@
 * guards `TKPWARDZ`
 * palace `PAL/AS`
 * gate `TKPWAET`
-* Princess `KPA/PREUPB/ES`
+* Princess `KPA/PREUPB/SES`
 * out; `OUT STPH*FPLT`
 * meanly `PHAOEPB/HREU`
 * dressed, `TKREFD KW-BG`

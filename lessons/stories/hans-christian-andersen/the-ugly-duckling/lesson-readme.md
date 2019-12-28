@@ -355,7 +355,7 @@
 * also `HR-S`
 * swimming `SWEUPLG`
 * them. `THEPL TP-PL`
-* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * "that `KR-GS THA`
 * turkey; `TUR/KAE STPH*FPLT`
 * uses `AOUSZ`
@@ -747,7 +747,7 @@
 * gun `TKPW-PB`
 * fired `TPAOEURD`
 * late `HRAEUT`
-* before `PW-F`
+* before `PW-FP`
 * quiet, `KWAO*EUT KW-BG`
 * dare `TKAEUR`
 * move. `PHOF TP-PL`
@@ -841,7 +841,7 @@
 * fat `TPAT`
 * strayed `STRAEUD`
 * home. `HOEPL TP-PL`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * prize!" `PRAOEUZ SKHRAPL KR-GS`
 * hope `HOEP`
 * duck's `TKUBG AES`
@@ -1003,7 +1003,7 @@
 * flock `TPHROBG`
 * beautiful `PWAOUFL`
 * bushes. `PWURBS TP-PL`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * swans, `SWAPBS KW-BG`
 * curved `KUFRBD`
 * necks, `TPHEBG/-S KW-BG`

@@ -525,7 +525,7 @@ The Bell
 'they': THE
 'had': H
 'been': PW-PB
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'It': KPA/T
 'was': WAS
 'just': SKWRUFT
@@ -1221,7 +1221,7 @@ The Bell
 'little': HREUL
 'boy': PWOEU
 'stood': STAOD
-'before': PW-F
+'before': PW-FP
 'the': -T
 'king's': KEUPBG/AES
 'son,': SOPB KW-BG
@@ -1706,7 +1706,7 @@ The Bell
 'sun': SUPB
 'once': WUPBS
 'more': PHOR
-'before': PW-F
+'before': PW-FP
 'he': HE
 'disappears': TKEUS/PAOERS
 'beneath': TPHAO*ET
@@ -1759,7 +1759,7 @@ The Bell
 'reached': RAOEFPD
 'the': -T
 'top': TOP
-'before': PW-F
+'before': PW-FP
 'the': -T
 'sun,': SUPB KW-BG
 'seen': SAOEPB
@@ -1770,7 +1770,7 @@ The Bell
 'had': H
 'quite': KWAOEUT
 'set.': SET TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'what': WHA
 'a': AEU
 'splendour!"': SHREPBD/O*UR/A*U SKHRAPL KR-GS
@@ -1791,7 +1791,7 @@ The Bell
 'shore,': SHOR KW-BG
 'stretched': STREFPD
 'out': OUT
-'before': PW-F
+'before': PW-FP
 'him,': HEUPL KW-BG
 'and': SKP
 'the': -T

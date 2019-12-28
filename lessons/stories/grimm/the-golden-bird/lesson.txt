@@ -831,7 +831,7 @@ The Golden Bird
 'to': TO
 'a': AEU
 'castle,': KAFL KW-BG
-'before': PW-F
+'before': PW-FP
 'which': WEU
 'lie': HRAOEU
 'a': AEU
@@ -936,7 +936,7 @@ The Golden Bird
 'in': TPH
 'the': -T
 'wind.': WEUPBD TP-PL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'the': -T
 'castle': KAFL
 'gate': TKPWAET
@@ -1047,7 +1047,7 @@ The Golden Bird
 'and': SKP
 'carried': KAERD
 'him': HEUPL
-'before': PW-F
+'before': PW-FP
 'the': -T
 'king.': KEUPBG TP-PL
 'The': KPA/-T
@@ -1327,7 +1327,7 @@ The Golden Bird
 'was': WAS
 'again': TKPWEPB
 'brought': PWRAUT
-'before': PW-F
+'before': PW-FP
 'the': -T
 'court': KORT
 'to': TO
@@ -1350,7 +1350,7 @@ The Golden Bird
 'thither': TH*EURT
 'the': -T
 'beautiful': PWAOUFL
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'he': HE
 'should': SHO
 'live,': HREUF KW-BG
@@ -1428,7 +1428,7 @@ The Golden Bird
 'at': AT
 'night': TPHAOEUT
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'goes': TKPW-S
 'to': TO
 'the': -T
@@ -1511,7 +1511,7 @@ The Golden Bird
 'man': PHAPB
 'met': PHET
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'going': TKPW-G
 'to': TO
 'the': -T
@@ -1587,7 +1587,7 @@ The Golden Bird
 'he': HE
 'was': WAS
 'brought': PWRAUT
-'before': PW-F
+'before': PW-FP
 'the': -T
 'king,': KEUPBG KW-BG
 'and': SKP
@@ -1692,7 +1692,7 @@ The Golden Bird
 'give': TKPWEUF
 'him': HEUPL
 'the': -T
-'princess.': PREUPB/ES TP-PL
+'princess.': PREUPB/SES TP-PL
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
@@ -1710,7 +1710,7 @@ The Golden Bird
 'man': PHAPB
 'and': SKP
 'the': -T
-'princess;': PREUPB/ES STPH*FPLT
+'princess;': PREUPB/SES STPH*FPLT
 'and': SKP
 'the': -T
 'fox': TPOBGS
@@ -1725,7 +1725,7 @@ The Golden Bird
 'all': AUL
 'three,': THRAOE KW-BG
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'the': -T
 'horse,': HORS KW-BG
 'and': SKP
@@ -1772,7 +1772,7 @@ The Golden Bird
 'for': TPOR
 'the': -T
 'beautiful': PWAOUFL
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'you': U
 'must': PHUFT
 'say,': SAEU KW-BG
@@ -1813,7 +1813,7 @@ The Golden Bird
 'hands': HAPBDZ
 'with': W
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'last.': HRAFT TP-PL
 'Then': KPA/THEPB
 'lift': HREUFT
@@ -1861,7 +1861,7 @@ The Golden Bird
 'stay': STAEU
 'with': W
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'at': AT
 'the': -T
 'door,': TKAOR KW-BG
@@ -1937,7 +1937,7 @@ The Golden Bird
 'the': -T
 'bird,': PWEURD KW-BG
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'mounted': PHOUPBTD
 'again,': TKPWEPB KW-BG
 'and': SKP
@@ -2028,7 +2028,7 @@ The Golden Bird
 'on': OPB
 'with': W
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'till': TEUL
 'at': AT
 'last': HRAFT
@@ -2223,7 +2223,7 @@ The Golden Bird
 'and': SKP
 'took': TAOBG
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'the': -T
 'horse,': HORS KW-BG
 'and': SKP
@@ -2266,7 +2266,7 @@ The Golden Bird
 'sing,': SEUPBG KW-BG
 'and': SKP
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'wept.': WEPT TP-PL
 'The': KPA/-T
 'youngest': KWRUPBG/EFT
@@ -2411,7 +2411,7 @@ The Golden Bird
 'sing,': SEUPBG KW-BG
 'and': SKP
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'left': HREFT
 'off': OF
 'weeping.': WAOEP/-G TP-PL
@@ -2438,7 +2438,7 @@ The Golden Bird
 'he': HE
 'had': H
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'given': TKPWEUFPB
 'to': TO
 'him': HEUPL
@@ -2517,7 +2517,7 @@ The Golden Bird
 'brother': PWROER
 'of': -F
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'who': WHO
 'had': H
 'been': PW-PB

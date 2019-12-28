@@ -102,7 +102,7 @@
 * queen. `KWAOEPB TP-PL`
 * there `THR`
 * no `TPHO`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * world `WORLD`
 * beautiful; `PWAOUFL STPH*FPLT`
 * if `TP`
@@ -174,7 +174,7 @@
 * such `SUFP`
 * thoughts; `THAUTS STPH*FPLT`
 * him, `HEUPL KW-BG`
-* 'Before `AE KPA/PW-F`
+* 'Before `AE KPA/PW-FP`
 * anyone `TPHEUPB`
 * three `THRAOE`
 * dresses: `TKRES/-S STPH-FPLT`
@@ -300,7 +300,7 @@
 * 'In `AE KPA/TPH`
 * wonderful `WUFL`
 * beast, `PWAOEFT KW-BG`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * its `EUTS`
 * skin `SKEUPB`
 * seems `SAOEPLS`
@@ -371,7 +371,7 @@
 * sorrowfully. `SOR/ROEFL/HREU TP-PL`
 * 'Ah! `AE KPA/HA*E SKHRAPL`
 * pretty `PREUT`
-* princess!' `PREUPB/ES SKHRAPL AE`
+* princess!' `PREUPB/SES SKHRAPL AE`
 * she, `SHE KW-BG`
 * 'what `AE WHA`
 * now `TPHOU`
@@ -482,7 +482,7 @@
 * him `HEUPL`
 * well, `WEL KW-BG`
 * tasted `TAEUFT/-D`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * bottom `PWOPLT`
 * gold `TKPWOELD`
 * ring `REUPBG`
@@ -496,7 +496,7 @@
 * 'You `AE KPA/U`
 * so, `SO KW-BG`
 * beating.' `PWAEGT TP-PL AE`
-* before `PW-F`
+* before `PW-FP`
 * asked `SK-D`
 * cooked `KAOBGD`
 * soup. `SOUP TP-PL`

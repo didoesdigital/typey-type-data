@@ -48,8 +48,8 @@ The Mail-Coach Passengers
 'was': WAS
 'striking': STRAOEUG
 'twelve.': TWEFL TP-PL
-'"Tan-ta-ra-ra,': KR-GS KPA/TAPB H-PB TAEU H-PB RA H-PB RA KW-BG
-'tan-ta-ra-ra,"': TAPB H-PB TAEU H-PB RA H-PB RA KW-BG KR-GS
+'"Tan-ta-ra-ra,': KR-GS KPA/TAPB H-PB TAEU H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG
+'tan-ta-ra-ra,"': TAPB H-PB TAEU H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG KR-GS
 'sounded': SOUPBD/-D
 'the': -T
 'horn,': HORPB KW-BG
@@ -154,7 +154,7 @@ The Mail-Coach Passengers
 'rang': RAPBG
 'again;': TKPWEPB STPH*FPLT
 'while': WHAOEUL
-'before': PW-F
+'before': PW-FP
 'the': -T
 'town-gate': TOUPB H-PB TKPWAET
 'the': -T
@@ -1497,7 +1497,7 @@ The Mail-Coach Passengers
 'street': STRAOET
 'singing': SEUPBG/-G
 'a': AEU
-'carol': KAEURL
+'carol': KAR/OL
 'about': PW
 'the': -T
 ''Star': AE KPA/STAR

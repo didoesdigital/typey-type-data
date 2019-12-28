@@ -3,9 +3,9 @@
 * aa `A/KWRA`
 * ab `A*B`
 * ae `A/*E`
-* ag `A/*G`
+* ag `A/TKPW*`
 * ai `A/*EU`
-* al `AL`
+* al `HRO*ER/AL`
 * ar `AR`
 * ax `A/KP*`
 * ay `A/KWR*`
@@ -20,7 +20,7 @@
 * em `*E/PH*`
 * en `*E/TPH*`
 * er `*E/R*`
-* es `AOE/-S`
+* es `*E/-S`
 * et `AOE/T*`
 * fy `TP*/KWR*`
 * io `*EU/O*`

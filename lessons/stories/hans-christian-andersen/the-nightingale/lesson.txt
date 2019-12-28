@@ -39,7 +39,7 @@ The Nightingale
 'hear': HAER
 'it': T
 'now': TPHOU
-'before': PW-F
+'before': PW-FP
 'it': T
 'is': S
 'forgotten.': TPORGTD TP-PL
@@ -210,7 +210,7 @@ The Nightingale
 'sing,': SEUPBG KW-BG
 'and': SKP
 'say,': SAEU KW-BG
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'is': S
 'not': TPHOT
 'that': THA
@@ -238,7 +238,7 @@ The Nightingale
 'again,': TKPWEPB KW-BG
 'and': SKP
 'exclaim': SKHRAEUPL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'how': HOU
 'beautiful': PWAOUFL
 'is': S
@@ -791,7 +791,7 @@ The Nightingale
 'kitchen,': K-FP KW-BG
 'who': WHO
 'said,': SAEUD KW-BG
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'yes,': KWRE KW-BG
 'I': EU
 'know': TPHOE
@@ -934,7 +934,7 @@ The Nightingale
 'cow': KO*U
 'began': TKPWAPB
 'lowing.': HROE/-G TP-PL
-'"Oh,"': KR-GS KPA/O*E KW-BG KR-GS
+'"Oh,"': KR-GS KPA/O*ERBGS KW-BG KR-GS
 'said': SAEUD
 'a': AEU
 'young': KWRUPBG
@@ -957,7 +957,7 @@ The Nightingale
 'certainly': SERPBL
 'heard': HAERD
 'it': T
-'before."': PW-F TP-PL KR-GS
+'before."': PW-FP TP-PL KR-GS
 '"No,': KR-GS KPA/TPHO KW-BG
 'that': THA
 'is': S
@@ -1100,7 +1100,7 @@ The Nightingale
 'you': U
 'to': TO
 'sing': SEUPBG
-'before': PW-F
+'before': PW-FP
 'him."': HEUPL TP-PL KR-GS
 '"With': KR-GS KPA/W
 'the': -T
@@ -1140,7 +1140,7 @@ The Nightingale
 'never': TPHEFR
 'heard': HAERD
 'this': TH
-'before;': PW-F STPH*FPLT
+'before;': PW-FP STPH*FPLT
 'she': SHE
 'will': HR
 'be': -B
@@ -1154,7 +1154,7 @@ The Nightingale
 'sing': SEUPBG
 'once': WUPBS
 'more': PHOR
-'before': PW-F
+'before': PW-FP
 'the': -T
 'emperor?"': EPL/ROR H-F KR-GS
 'asked': SK-D
@@ -2135,7 +2135,7 @@ The Nightingale
 'They': KPA/THE
 'all': AUL
 'said': SAEUD
-'"Oh!"': KR-GS KPA/O*E SKHRAPL KR-GS
+'"Oh!"': KR-GS KPA/O*ERBGS SKHRAPL KR-GS
 'and': SKP
 'held': HELD
 'up': UP

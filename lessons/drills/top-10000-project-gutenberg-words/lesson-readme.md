@@ -86,7 +86,7 @@
 * such `SUFP`
 * a `AEU`
 * great `TKPWRAET`
-* before `PW-F`
+* before `PW-FP`
 * must `PHUFT`
 * two `TWO`
 * these `THEZ`
@@ -1836,7 +1836,7 @@
 * cup `KUP`
 * member `PHEB`
 * civil `SEUFL`
-* apply `A/PHROEU`
+* apply `A/PHRAOEU`
 * labor `HRAEUB`
 * everywhere `WEFR`
 * intelligence `SPWEPBLGS`
@@ -2362,7 +2362,7 @@
 * decision `STKEUGS`
 * probable `PROB`
 * painful `PAEUFL`
-* governor `KPWOFPB/O*R`
+* governor `TKPWOFPB/O*R`
 * forever `TPOFR`
 * turns `TURPBS`
 * branch `PWRAFRPB`
@@ -2414,7 +2414,7 @@
 * burned `PWURPBD`
 * you'd `UD`
 * recent `RAOEPBT`
-* oh `O*E`
+* oh `O*ERBGS`
 * travel `TRAFL`
 * cries `KRAOEUS`
 * noon `TPHAOPB`
@@ -2947,7 +2947,7 @@
 * wondering `WOPBGD`
 * leaders `HRAOERDZ`
 * blessing `PWHR*EFG`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * he'd `HAOED`
 * altar `AL/TAR`
 * tenderness `TEPBD/ERPBS`
@@ -4761,7 +4761,7 @@
 * binary `PWAOEUPB/REU`
 * packed `PABGD`
 * pillow `PEUL/OE`
-* jersey `SKWRER/SEU`
+* jersey `SKWRER/SAO*E`
 * abbey `AB/PWEU`
 * nowhere `TPHO/WR`
 * anyhow `TPHEU/HOU`
@@ -5065,7 +5065,7 @@
 * eloquent `EL/KWEPBT`
 * manager `PHARPBG`
 * organs `TKPWRO*PS`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * drag `TKRAG`
 * haunted `HAUPBT/-D`
 * chorus `KHOERS`
@@ -6437,7 +6437,7 @@
 * topic `TOEUPG`
 * blushed `PWHRURB/-D`
 * superb `SPERB`
-* strengthen `STREPB/THEPB`
+* strengthen `STREPBG/THEPB`
 * confidential `K-FGS`
 * crow `KROE`
 * shawl `SHAUL`
@@ -6964,7 +6964,7 @@
 * sixteenth `SKAOEPBT`
 * solicitation `SHREUS/TAEUGS`
 * embarked `EPL/PWARBG/-D`
-* idol `AOEUD/OL`
+* idol `AOEU/TKOL`
 * odds `ODZ`
 * aims `AEUPLS`
 * illuminated `EUL/AOUPL/TPHAEUT/-D`
@@ -7226,7 +7226,7 @@
 * beans `PWAEPBS`
 * cowardly `KOURD/HREU`
 * grandson `TKPWR-S`
-* Leo `HRAOE/WOE`
+* Leo `HRAOE/KWROE`
 * Gertrude `TKPWER/TRAOUD`
 * nail `TPHAEUL`
 * protecting `PRO/TEBGT/-G`
@@ -8453,7 +8453,7 @@
 * insure `STPHUR`
 * laboured `HRAEU/PWOUR/-D/A*U`
 * exaggeration `KPAPBLG/RAEUGS`
-* mi `PHAO*EU`
+* mi `PH*/*EU`
 * shepherds `SHEP/ERDZ`
 * lilies `HREUL/KWREU/KWREU/-S`
 * ballad `PWAL/HRAD`
@@ -8658,7 +8658,7 @@
 * medal `PH*ELD`
 * location `HROEBGS`
 * ether `AO*ET/ER`
-* ruby `RO*EUB`
+* ruby `RAOU/PWEU`
 * heading `HEGD`
 * subdue `SUB/TKAOU`
 * adorn `A/TKORPB`
@@ -9414,7 +9414,7 @@
 * innate `EUPB/TPHAEUT`
 * reformation `R-FRPLGS`
 * volley `SROL/HREU`
-* statistics `ST-BGS`
+* statistics `STEUBGS`
 * agrees `TKPWRA*ES`
 * simpler `SEUFRP/HRER`
 * padre `PAD/RAEU`

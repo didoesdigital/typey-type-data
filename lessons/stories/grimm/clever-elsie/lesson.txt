@@ -66,7 +66,7 @@ Clever Elsie
 'be': -B
 'really': R-L
 'smart.': SPHART TP-PL
-''Oh,'': AE KPA/O*E KW-BG AE
+''Oh,'': AE KPA/O*ERBGS KW-BG AE
 'said': SAEUD
 'the': -T
 'father,': TPAER KW-BG
@@ -80,7 +80,7 @@ Clever Elsie
 'the': -T
 'mother': PHOER
 'said:': SAEUD STPH-FPLT
-''Oh,': AE KPA/O*E KW-BG
+''Oh,': AE KPA/O*ERBGS KW-BG
 'she': SHE
 'can': K
 'see': SAOE
@@ -170,7 +170,7 @@ Clever Elsie
 'and': SKP
 'set': SET
 'it': T
-'before': PW-F
+'before': PW-FP
 'the': -T
 'barrel': PWARL
 'so': SO
@@ -198,7 +198,7 @@ Clever Elsie
 'placed': PHRAEUFD
 'the': -T
 'can': K
-'before': PW-F
+'before': PW-FP
 'her,': HER KW-BG
 'and': SKP
 'turned': TURPBD
@@ -306,7 +306,7 @@ Clever Elsie
 'misfortune': PHEUS/TPOR/TAOUPB
 'which': WEU
 'lay': HRAEU
-'before': PW-F
+'before': PW-FP
 'her.': HER TP-PL
 'Those': KPA/THOZ
 'upstairs': AUP/STAEURS
@@ -744,7 +744,7 @@ Clever Elsie
 'down,': TKOUPB KW-BG
 'he': HE
 'cried:': KRAOEUD STPH-FPLT
-''Oh,': AE KPA/O*E KW-BG
+''Oh,': AE KPA/O*ERBGS KW-BG
 'what': WHA
 'a': AEU
 'clever': KHREFR
@@ -996,7 +996,7 @@ Clever Elsie
 'I': EU
 'eat': AOET
 'first?': TPEUFRT H-F
-'Oh,': KPA/O*E KW-BG
+'Oh,': KPA/O*ERBGS KW-BG
 'I': EU
 'will': HR
 'eat': AOET

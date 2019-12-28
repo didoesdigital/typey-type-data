@@ -592,7 +592,7 @@
 * time `TAOEUPL`
 * passes `PA*FS`
 * slowly. `SHROEL TP-PL`
-* before `PW-F`
+* before `PW-FP`
 * people `PAOEPL`
 * dinner, `TKEURPB KW-BG`
 * spoken `SPOEPB`
@@ -675,7 +675,7 @@
 * you `U`
 * well `WEL`
 * off." `OF TP-PL KR-GS`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * yes," `KWRE KW-BG KR-GS`
 * answered `AEPBS/-D`
 * Lisbeth. `xxx Lisbeth TP-PL`
@@ -747,7 +747,7 @@
 * fell `TPEL`
 * asleep. `A/SHRAOEP TP-PL`
 * dreamed `TKREPLD`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * singularly `SEUPBG/HRARL`
 * wept `WEPT`
 * hungered `HUPB/TKPWER/-D`
@@ -1230,7 +1230,7 @@
 * spectral `SPEBG/TRAL`
 * flitted `TPHREUT/-D`
 * her; `HER STPH*FPLT`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * Close `KPA/KHROES`
 * galloped `TKPWAL/OP/-D`
 * four `TPOUR`
@@ -1402,7 +1402,7 @@
 * now, `TPHOU KW-BG`
 * conquered. `KAUPB/KERD TP-PL`
 * shore, `SHOR KW-BG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * "Thou `KR-GS KPA/THO*U`
 * hast `HA*FT`
 * grave: `TKPWRAEUF STPH-FPLT`

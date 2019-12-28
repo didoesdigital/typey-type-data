@@ -238,7 +238,7 @@
 * day `TKAEU`
 * dawned, `TKAUPBD KW-BG`
 * but `PWUT`
-* before `PW-F`
+* before `PW-FP`
 * sun `SUPB`
 * risen, `REUFPB KW-BG`
 * woman `WOPL`
@@ -455,7 +455,7 @@
 * wanted `WAPBTD`
 * pick `PEUBG`
 * done `TKOPB`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * locked `HROBGD`
 * out. `OUT TP-PL`
 * Nevertheless `KPA/TPHEFRLS`
@@ -469,7 +469,7 @@
 * given `TKPWEUFPB`
 * smaller `SPHAURL`
 * than `THAPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * On `KPA/OPB`
 * crumbled `KRUPL/-BLD`
 * pocket, `POBGT KW-BG`
@@ -634,7 +634,7 @@
 * hands. `HAPBDZ TP-PL`
 * nodded `TPHOD/-D`
 * head, `HED KW-BG`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * brought `PWRAUT`
 * here? `HAOER H-F`
 * in, `TPH KW-BG`
@@ -823,7 +823,7 @@
 * far `TPAR`
 * iron `AOEURPB`
 * bolt. `PWOLT TP-PL`
-* Oh! `KPA/O*E SKHRAPL`
+* Oh! `KPA/O*ERBGS SKHRAPL`
 * howl `HOUL`
 * quite `KWAOEUT`
 * horribly, `HOR/PWHREU KW-BG`

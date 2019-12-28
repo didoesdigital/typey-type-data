@@ -47,7 +47,7 @@
 * very `SRE`
 * fine `TPAOEUPB`
 * christening; `KREUFPB/-G STPH*FPLT`
-* Princess `KPA/PREUPB/ES`
+* Princess `KPA/PREUPB/SES`
 * for `TPOR`
 * her `HER`
 * godmothers `TKPWOD/PHOER/-S`
@@ -89,7 +89,7 @@
 * feast `TPAOEFT`
 * Fairies. `KPA/TPAEUR/REU/KWREU/-S TP-PL`
 * placed `PHRAEUFD`
-* before `PW-F`
+* before `PW-FP`
 * magnificent `PHAFPBT`
 * cover `KOFR`
 * case `KAEUS`
@@ -182,7 +182,7 @@
 * began `TKPWAPB`
 * their `THAEUR`
 * gifts `TKPWEUFTS`
-* Princess. `KPA/PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/SES TP-PL`
 * youngest `KWRUPBG/EFT`
 * gave `TKPWAEUF`
 * should `SHO`
@@ -343,7 +343,7 @@
 * know `TPHOE`
 * was. `WAS TP-PL`
 * "Ha!" `KR-GS KPA/HAE SKHRAPL KR-GS`
-* Princess, `KPA/PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/SES KW-BG`
 * "this `KR-GS TH`
 * pretty; `PREUT STPH*FPLT`
 * do `TKO`
@@ -379,7 +379,7 @@
 * numbers; `TPHUPLS STPH*FPLT`
 * threw `THRAOU`
 * water `WAUR`
-* Princess's `KPA/PREUPB/ES AES`
+* Princess's `KPA/PREUPB/SES AES`
 * face, `TPAEUS KW-BG`
 * unlaced `UPB/HRAEUS/-D`
 * struck `STRUBG`
@@ -445,7 +445,7 @@
 * off, `OF KW-BG`
 * accident `STKEPB`
 * befell `PWE/TPEL`
-* Princess; `KPA/PREUPB/ES STPH*FPLT`
+* Princess; `KPA/PREUPB/SES STPH*FPLT`
 * instantly `EUPB/STAPBT/HREU`
 * informed `TPH-FD`
 * dwarf, `TKWAFR KW-BG`
@@ -711,7 +711,7 @@
 * seeming `SAOEPL/-G`
 * He, `KPA/HE KW-BG`
 * knew, `TPHAOU KW-BG`
-* ruby `RO*EUB`
+* ruby `RAOU/PWEU`
 * faces `TPAEUFS`
 * pimpled `PEUFRP/-LD`
 * noses `TPHO*EFS`
@@ -1055,7 +1055,7 @@
 * Day." `KPA/TKAEU TP-PL KR-GS`
 * word, `WORD KW-BG`
 * cheat `KHAOET`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * foil `TPOEUL`
 * fencing `TPEPBS/-G`
 * monkey; `PHOPB/KAE STPH*FPLT`

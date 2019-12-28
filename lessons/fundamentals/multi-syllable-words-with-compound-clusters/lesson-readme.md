@@ -86,6 +86,7 @@
 * motion `PHOEGS`
 * fashion `TPAGS`
 * vision `SREUGS`
+* situation `SWAEUGS`
 * developing `SRELG`
 * village `SREULG`
 * functional `TPUPBLGS`
@@ -102,11 +103,11 @@
 * reserve `REFRB`
 * extension `STEPBGS`
 * direction `TKREBGS`
-* integration `TKPWRA*EUGS`
 * exactly `ELG`
 * handling `HAPBLG`
 * origin `O*RPBLG`
 * intelligence `SPWEPBLGS`
+* nations `TPHA*EUGSZ`
 * Alaska `A*LG`
 * marriage `PHAERPBLG`
 * translation `THRAEUGS`
@@ -232,6 +233,7 @@
 * killing `KEULG`
 * compilation `KPHRAEUGS`
 * occasion `KWAEUGS`
+* conclusions `KHRAOUPBGSZ`
 * transformation `TRA*EUGS`
 * feelings `TPAOELGS`
 * timing `TAOEUPLG`

@@ -667,7 +667,7 @@
 * north, `TPHORT KW-BG`
 * drifting `TKREUFT/-G`
 * icebergs, `AOEUS/PWERG/-S KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * Noah's `TPHO/WA AES`
 * ark `A*RBG`
 * constructed, `KRUBGTD KW-BG`

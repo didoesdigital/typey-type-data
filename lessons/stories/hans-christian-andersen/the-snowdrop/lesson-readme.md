@@ -167,7 +167,7 @@
 * greater `TKPWRAERT`
 * strength `STREPBG`
 * than `THAPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * "Welcome, `KR-GS KPA/WELG KW-BG`
 * welcome!" `WELG SKHRAPL KR-GS`
 * sang `SAPBG`
@@ -382,7 +382,7 @@
 * put `PUT`
 * water. `WAUR TP-PL`
 * How `KPA/HOU`
-* strengthening, `STREPBG/-G KW-BG`
+* strengthening, `STREPBG/THEPB/-G KW-BG`
 * invigorating! `EUPB/SREUG/RAEUT/-G SKHRAPL`
 * thought `THAUT`
 * suddenly `SULD`
@@ -468,7 +468,7 @@
 * away, `A/WAEU KW-BG`
 * by, `PWEU KW-BG`
 * again, `TKPWEPB KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * appeared `A/PAOERD`
 * once `WUPBS`
 * more. `PHOR TP-PL`

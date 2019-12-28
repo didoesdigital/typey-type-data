@@ -164,7 +164,7 @@ Cat-Skin
 'there': THR
 'was': WAS
 'no': TPHO
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'in': TPH
 'the': -T
 'world': WORLD
@@ -334,7 +334,7 @@ Cat-Skin
 'said': SAEUD
 'to': TO
 'him,': HEUPL KW-BG
-''Before': AE KPA/PW-F
+''Before': AE KPA/PW-FP
 'I': EU
 'marry': PHAER
 'anyone': TPHEUPB
@@ -683,7 +683,7 @@ Cat-Skin
 'we': WE
 'never': TPHEFR
 'saw': SAU
-'before;': PW-F STPH*FPLT
+'before;': PW-FP STPH*FPLT
 'its': EUTS
 'skin': SKEUPB
 'seems': SAOEPLS
@@ -865,7 +865,7 @@ Cat-Skin
 'sorrowfully.': SOR/ROEFL/HREU TP-PL
 ''Ah!': AE KPA/HA*E SKHRAPL
 'pretty': PREUT
-'princess!'': PREUPB/ES SKHRAPL AE
+'princess!'': PREUPB/SES SKHRAPL AE
 'thought': THAUT
 'she,': SHE KW-BG
 ''what': AE WHA
@@ -1268,7 +1268,7 @@ Cat-Skin
 'any': TPHEU
 'so': SO
 'good': TKPWAOD
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'At': KPA/AT
 'the': -T
 'bottom': PWOPLT
@@ -1334,7 +1334,7 @@ Cat-Skin
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
-'before': PW-F
+'before': PW-FP
 'the': -T
 'king,': KEUPBG KW-BG
 'and': SKP
@@ -1503,7 +1503,7 @@ Cat-Skin
 'see': SAOE
 'it': T
 'as': AZ
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 ''Yes,'': AE KPA/KWRE KW-BG AE
 'said': SAEUD
 'he,': HE KW-BG
@@ -1661,7 +1661,7 @@ Cat-Skin
 'as': AZ
 'well': WEL
 'as': AZ
-'before;': PW-F STPH*FPLT
+'before;': PW-FP STPH*FPLT
 'so': SO
 'he': HE
 'sent': SEPBT
@@ -1684,7 +1684,7 @@ Cat-Skin
 'was': WAS
 'brought': PWRAUT
 'again': TKPWEPB
-'before': PW-F
+'before': PW-FP
 'the': -T
 'king,': KEUPBG KW-BG
 'but': PWUT
@@ -1728,7 +1728,7 @@ Cat-Skin
 'the': -T
 'same': SAEUPL
 'as': AZ
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 ''You': AE KPA/U
 'must': PHUFT
 'be': -B
@@ -1762,7 +1762,7 @@ Cat-Skin
 'go': TKPW
 'up': UP
 'as': AZ
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'put': PUT
@@ -2072,7 +2072,7 @@ Cat-Skin
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'upon': POPB
 'the': -T
 'face': TPAEUS

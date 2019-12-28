@@ -36,7 +36,7 @@ The Adventures of Chanticleer and Partlet
 'as': AZ
 'we': WE
 'can,': K KW-BG
-'before': PW-F
+'before': PW-FP
 'the': -T
 'squirrel': SKWEURL
 'takes': TAEUBGS
@@ -571,7 +571,7 @@ The Adventures of Chanticleer and Partlet
 'in': TPH
 'the': -T
 'morning,': PHORPBG KW-BG
-'before': PW-F
+'before': PW-FP
 'it': T
 'was': WAS
 'quite': KWAOEUT
@@ -766,7 +766,7 @@ The Adventures of Chanticleer and Partlet
 'easy': EZ
 'chair;': KHAEUR STPH*FPLT
 'but,': PWUT KW-BG
-'oh': O*E
+'oh': O*ERBGS
 'dear!': TKAER SKHRAPL
 'the': -T
 'needle': TPHAO*ELD
@@ -801,7 +801,7 @@ The Adventures of Chanticleer and Partlet
 'in': TPH
 'the': -T
 'night': TPHAOEUT
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 'he': HE
 'went': WEPBT
 'to': TO
@@ -1552,7 +1552,7 @@ The Adventures of Chanticleer and Partlet
 'they': THE
 'harnessed': HARPBS/-D
 'themselves': TH*EPLS
-'before': PW-F
+'before': PW-FP
 'it,': T KW-BG
 'and': SKP
 'Chanticleer': xxx Chanticleer

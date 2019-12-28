@@ -5,7 +5,6 @@
 * mid `PHEUD/PHEUD`
 * sorted `SORT/-D`
 * tits `TEUT/-S`
-* taxes `TABGSZ`
 * ended `EPBD/-D`
 * les `HRE/-S`
 * res `RE/-S`
@@ -20,9 +19,7 @@
 * roses `ROES/-S`
 * sized `SAOEUZ/-D`
 * dated `TKAEUT/-D`
-* mounted `PHOUPBTD`
-* fonts `TPOPBTS`
-* nurses `TPHURSZ`
+* dos `TKO/-S`
 * headed `HED/-D`
 * threaded `THRED/-D`
 * ist `S-P/EUFT`
@@ -36,9 +33,9 @@
 * handed `HAPBD/-D`
 * ons `OPB/-S`
 * pins `PEUPB/-S`
-* prizes `PRAOEUZ/-S`
+* prizes `PRAOEUZ/-Z`
 * neo `TPHAOE/KWROE/S-P`
-* trio `TREU/KWRO`
+* trio `TREU/KWROE`
 * grande `TKPWRAPBD/SKWRE`
 * una `AOUPB/KWRA`
 * lows `HROE/-S`
@@ -64,9 +61,9 @@
 * heated `HAOET/-D`
 * bras `PWRA/-S`
 * cakes `KAEUBG/-S`
-* titled `TAOEUT/*LD`
 * mails `PHAEUL/-S`
 * oaks `OEBG/-S`
+* wan `WAPB/WAPB`
 * nested `TPHEFT/-D`
 * notre `TPHOET/RE`
 * seized `SAOEZ/-D`

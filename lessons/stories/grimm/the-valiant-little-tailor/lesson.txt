@@ -217,7 +217,7 @@ The Valiant Little Tailor
 'finish': TP*EURB
 'the': -T
 'jacket': SKWRABGT
-'before': PW-F
+'before': PW-FP
 'I': EU
 'take': TAEUBG
 'a': AEU
@@ -345,7 +345,7 @@ The Valiant Little Tailor
 'counted,': KOUPBTD KW-BG
 'there': THR
 'lay': HRAEU
-'before': PW-F
+'before': PW-FP
 'him': HEUPL
 'no': TPHO
 'fewer': TPAOUR
@@ -451,7 +451,7 @@ The Valiant Little Tailor
 'for': TPOR
 'his': HEUS
 'valour.': SRAL/HROR/A*U TP-PL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'he': HE
 'went': WEPBT
 'away,': A/WAEU KW-BG
@@ -616,7 +616,7 @@ The Valiant Little Tailor
 'You': KPA/U
 'miserable': PHEUZ/-BL
 'creature!'': KRAOEFP SKHRAPL AE
-''Oh,': AE KPA/O*E KW-BG
+''Oh,': AE KPA/O*ERBGS KW-BG
 'indeed?'': TPHAOEPBD H-F AE
 'answered': AEPBS/-D
 'the': -T
@@ -1954,7 +1954,7 @@ The Valiant Little Tailor
 'offered': OFRD
 'a': AEU
 'beautiful': PWAOUFL
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'and': SKP
 'half': HAF
 'a': AEU
@@ -1964,7 +1964,7 @@ The Valiant Little Tailor
 'of': -F
 'one's': W*UPBS
 'life!'': HRAOEUF SKHRAPL AE
-''Oh,': AE KPA/O*E KW-BG
+''Oh,': AE KPA/O*ERBGS KW-BG
 'yes,'': KWRE KW-BG AE
 'he': HE
 'replied,': RE/PHRAOEUD KW-BG
@@ -2516,7 +2516,7 @@ The Valiant Little Tailor
 'of': -F
 'the': -T
 'hero.': HOEUR TP-PL
-''Before': AE KPA/PW-F
+''Before': AE KPA/PW-FP
 'you': U
 'receive': SAOEF
 'my': PHEU
@@ -2761,7 +2761,7 @@ The Valiant Little Tailor
 'a': AEU
 'third': THEURD
 'demand.': TKPHAPBD TP-PL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'the': -T
 'wedding': WEGD
 'the': -T
@@ -2991,7 +2991,7 @@ The Valiant Little Tailor
 'who': WHO
 'was': WAS
 'standing': STAPBG
-'before': PW-F
+'before': PW-FP
 'him,': HEUPL KW-BG
 'it': T
 'would': WO

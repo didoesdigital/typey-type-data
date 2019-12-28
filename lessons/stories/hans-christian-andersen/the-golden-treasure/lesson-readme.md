@@ -388,7 +388,7 @@
 * observed `OEBD`
 * father; `TPAER STPH*FPLT`
 * "but `KR-GS PWUT`
-* before `PW-F`
+* before `PW-FP`
 * can `K`
 * do `TKO`
 * that, `THA KW-BG`
@@ -473,7 +473,7 @@
 * never `TPHEFR`
 * forsook `TPOR/SAOBG`
 * him. `HEUPL TP-PL`
-* drum-sticks `TKRUPL H-PB STEUBGS`
+* drum-sticks `TKRUPL H-PB STEUBGZ`
 * sounded, `SOUPBD/-D KW-BG`
 * "Rub-a-dub, `KR-GS KPA/RUB H-PB AEU H-PB TKUB KW-BG`
 * up, `UP KW-BG`

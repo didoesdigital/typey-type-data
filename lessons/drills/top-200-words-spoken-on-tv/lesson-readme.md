@@ -37,7 +37,7 @@
 * well `WEL`
 * are `R`
 * he `HE`
-* oh `O*E`
+* oh `O*ERBGS`
 * about `PW`
 * right `RAOEUT`
 * you're `UR`
@@ -163,7 +163,7 @@
 * call `KAUL`
 * told `TOLD`
 * great `TKPWRAET`
-* before `PW-F`
+* before `PW-FP`
 * better `PWOERT`
 * ever `-FR`
 * night `TPHAOEUT`

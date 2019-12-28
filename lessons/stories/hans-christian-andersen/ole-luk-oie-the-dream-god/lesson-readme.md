@@ -280,7 +280,7 @@
 * And `AFPBD`
 * moan `PHOEPB`
 * copy-book. `KO*EP H-PB PWAOBG TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * quite `KWAOEUT`
 * terrible `TERBL`
 * hear! `HAER SKHRAPL`
@@ -319,7 +319,7 @@
 * thus, `THUS KW-BG`
 * graceful `TKPWRAEUS/-FL`
 * curve." `KUFRB TP-PL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * willing `-LG`
 * so, `SO KW-BG`
 * cannot," `K/TPHOT KW-BG KR-GS`
@@ -514,7 +514,7 @@
 * sugar `SHURG`
 * heart, `HART KW-BG`
 * fast, `TPAFT KW-BG`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * fast `TPAFT`
 * also, `HR-S KW-BG`
 * broke `PWROEBG`
@@ -604,7 +604,7 @@
 * stems, `STEPLS KW-BG`
 * telling `TELG`
 * well. `WEL TP-PL`
-* WEDNESDAY `*URP/WEPBD`
+* WEDNESDAY `*URP/WEPBZ`
 * How `KPA/HOU`
 * did `TK`
 * pour `POR`
@@ -678,7 +678,7 @@
 * ship, `SHEUP KW-BG`
 * slided `SHREUD/-D`
 * deck, `TKEBG KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * sailor-boy `SAEU/HROR H-PB PWOEU`
 * put `PUT`
 * hen-house, `HEPB H-PB HOUS KW-BG`

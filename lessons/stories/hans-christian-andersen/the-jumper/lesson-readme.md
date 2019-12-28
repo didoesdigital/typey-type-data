@@ -170,7 +170,7 @@
 * themselves `TH*EPLS`
 * entitled `SPWAOEUPBLTD`
 * marry `PHAER`
-* Princess. `KPA/PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/SES TP-PL`
 * nothing, `TPHOG KW-BG`
 * thought `THAUT`
 * more; `PHOR STPH*FPLT`
@@ -261,7 +261,7 @@
 * little `HREUL`
 * crooked `KRAOBGD`
 * lap `HRAP`
-* Princess, `KPA/PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/SES KW-BG`
 * sat `SAT`
 * low `HROE`
 * golden `TKPWOELD/*EPB`

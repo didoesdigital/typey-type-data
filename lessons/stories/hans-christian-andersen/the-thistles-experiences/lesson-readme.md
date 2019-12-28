@@ -275,7 +275,7 @@
 * itself, `*EUTS KW-BG`
 * days `TKAEUS`
 * gone `TKPWOPB`
-* before `PW-F`
+* before `PW-FP`
 * heard, `HAERD KW-BG`
 * men, `PHEPB KW-BG`
 * twittering `HRO*ER/TWEUT/*ERG`
@@ -507,7 +507,7 @@
 * growing," `TKPWROEG KW-BG KR-GS`
 * no `TPHO`
 * now." `TPHOU TP-PL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * yes, `KWRE KW-BG`
 * ghost `TKPWOEFT`
 * still," `STEUL KW-BG KR-GS`

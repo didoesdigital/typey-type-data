@@ -36,6 +36,7 @@
 * Scott `SKOT`
 * soft `SOFT`
 * steps `STEPS`
+* tours `TORS`
 * tags `TAGZ`
 * stats `STATS`
 * wars `WARS`
@@ -87,6 +88,7 @@
 * trap `TRAP`
 * watts `WATS`
 * pubs `PUBS`
+* what's `WHATS`
 * sorts `SORTS`
 * purse `PURS`
 * whore `WHOR`

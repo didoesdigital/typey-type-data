@@ -1,7 +1,7 @@
 # The Water of Life
 
 * Long `KPA/HROPBG`
-* before `PW-F`
+* before `PW-FP`
 * you `U`
 * or `OR`
 * I `EU`
@@ -262,7 +262,7 @@
 * spot `SPOT`
 * mountains, `PHOUPB/TAEUPBS KW-BG`
 * saying, `SAEUG KW-BG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * prince, `PREUPBS KW-BG`
 * 'Mind `AE KPA/PHAOEUPBD`
 * own `OEPB`
@@ -533,7 +533,7 @@
 * happened `HAPD`
 * taken `TAEPB`
 * it; `T STPH*FPLT`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * her; `HER STPH*FPLT`
 * engaged `EPB/TKPWAEUPBLGD`
 * wait `WAEUT`
@@ -600,7 +600,7 @@
 * tasted `TAEUFT/-D`
 * worse `WORS`
 * even `AOEPB`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * both `PWO*T`
 * in, `TPH KW-BG`
 * blamed `PWHRAEUPLD`
@@ -631,7 +631,7 @@
 * eyes `AO*EUS`
 * open? `OEP H-F`
 * Next `KPA/TPHEGT`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * care. `KAEUR TP-PL`
 * better `PWOERT`
 * say `SAEU`
@@ -837,7 +837,7 @@
 * cared. `KAEURD TP-PL`
 * gathered `TKPWAERD`
 * celebrate `SEL/PWRAEUT`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * old, `OLD KW-BG`
 * squire, `SKWAOEUR KW-BG`
 * gentle `SKWR*EPBLT`

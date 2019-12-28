@@ -29,7 +29,7 @@
 * li `HR*/SKWREU`
 * ma `PHA`
 * me `PHE`
-* mi `PHAO*EU`
+* mi `PH*/*EU`
 * mo `PH*/O*`
 * mu `PHU`
 * my `PHEU`
@@ -40,7 +40,7 @@
 * ox `O*BGS`
 * pa `HRO*ER/PA`
 * pi `PEU`
-* ok `O*EBG`
+* ok `ORBGS/K-RBGS`
 * so `SO`
 * sh `SH*`
 * ta `TAEU`
@@ -51,7 +51,7 @@
 * us `US`
 * we `WE`
 * yo `KWROE`
-* oh `O*E`
+* oh `O*ERBGS`
 * oh, `OERBGS`
 * ah, `AERBGS`
 * do `TKO`

@@ -39,7 +39,7 @@
 * for `TPOR`
 * wife `WAOEUF`
 * of `-F`
-* Princess `KPA/PREUPB/ES`
+* Princess `KPA/PREUPB/SES`
 * as `AZ`
 * beautiful `PWAOUFL`
 * she `SHE`
@@ -218,7 +218,7 @@
 * you `U`
 * certain `SERPB`
 * matter `PHAERT`
-* before `PW-F`
+* before `PW-FP`
 * die: `TKAOEU STPH-FPLT`
 * if, `TP KW-BG`
 * perchance, `PER/KHAPBS KW-BG`
@@ -367,7 +367,7 @@
 * prosperity, `PROFP/ERT KW-BG`
 * though, `THOE KW-BG`
 * truth, `TRAO*UT KW-BG`
-* Princess, `KPA/PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/SES KW-BG`
 * requisite `REBG/SEUT`
 * making `PHAEUG`
 * yet `KWRET`
@@ -687,7 +687,7 @@
 * became `PWAEUPL`
 * red `RED`
 * rage. `RAEUPBLG TP-PL`
-* "Oh! `KR-GS KPA/O*E SKHRAPL`
+* "Oh! `KR-GS KPA/O*ERBGS SKHRAPL`
 * time, `TAOEUPL KW-BG`
 * "we `KR-GS WE`
 * put `PUT`
@@ -1419,7 +1419,7 @@
 * chariot `KHAEUR/KWROT`
 * branches `PWRAFRPBS`
 * charm, `KHARPL KW-BG`
-* Princess's `KPA/PREUPB/ES AES`
+* Princess's `KPA/PREUPB/SES AES`
 * story. `STOER TP-PL`
 * redoubled `RE/TKUBL/-D`
 * sensible `SEPBS/-BL`
@@ -1456,7 +1456,7 @@
 * tigers `TAOEUG/ERS`
 * eagles. `AOEG/-LS TP-PL`
 * glorious `TKPWHRORS`
-* Princess. `KPA/PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/SES TP-PL`
 * happily `HAP/HREU`
 * recovered `ROFRD`
 * married `PHAERD`

@@ -216,7 +216,7 @@
 * floor, `TPHRAOR KW-BG`
 * roll `ROL`
 * about `PW`
-* before `PW-F`
+* before `PW-FP`
 * got `TKPWOT`
 * pea-shooter; `PAE H-PB SHAORT STPH*FPLT`
 * but `PWUT`
@@ -367,7 +367,7 @@
 * half `HAF`
 * opened `OEPD`
 * it. `T TP-PL`
-* "Oh!" `KR-GS KPA/O*E SKHRAPL KR-GS`
+* "Oh!" `KR-GS KPA/O*ERBGS SKHRAPL KR-GS`
 * said, `SAEUD KW-BG`
 * "there `KR-GS THR`
 * actually `TAOULT`

@@ -110,7 +110,7 @@
 * girls `TKPWEURLS`
 * ever `-FR`
 * seen `SAOEPB`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * shepherd `SHEP/ERD`
 * lad, `HRAD KW-BG`
 * Jorindel, `xxx Jorindel KW-BG`
@@ -308,7 +308,7 @@
 * doom `TKAOPL`
 * cast, `KAFT KW-BG`
 * stay! `STAEU SKHRAPL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * charm `KHARPL`
 * around `ARPBD`
 * spell `SPEL`
@@ -322,7 +322,7 @@
 * free. `TPRAOE TP-PL`
 * fell `TPEL`
 * knees `TPHAOEZ`
-* before `PW-F`
+* before `PW-FP`
 * fairy, `TPAEUR/REU KW-BG`
 * prayed `PRAEUD`
 * give `TKPWEUF`

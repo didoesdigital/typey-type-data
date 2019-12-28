@@ -45,7 +45,7 @@
 * curtains `KUR/TEUPBS`
 * hung `HUPBG`
 * down `TKOUPB`
-* before `PW-F`
+* before `PW-FP`
 * open `OEP`
 * windows, `WOEUPBDZ KW-BG`
 * without `WOUT`

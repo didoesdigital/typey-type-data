@@ -66,7 +66,7 @@
 * away `A/WAEU`
 * from `TPR`
 * bridge, `PWREUPBLG KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * whole `WHOEL`
 * hunting `HUPBT/-G`
 * party `PAERT`
@@ -751,7 +751,7 @@
 * cut `KUT`
 * trees; `TRAOES STPH*FPLT`
 * off. `OF TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * pray `PRAEU`
 * do `TKO`
 * it!" `T SKHRAPL KR-GS`

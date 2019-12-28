@@ -26,7 +26,7 @@
 * and `SKP`
 * looked `HRAOBGD`
 * straight `STRAEUT`
-* before `PW-F`
+* before `PW-FP`
 * them, `THEPL KW-BG`
 * wore `WOR`
 * a `AEU`
@@ -568,7 +568,7 @@
 * afterwards `A*FRDZ`
 * swallowed `SWAL/OED`
 * fish. `TPEURB TP-PL`
-* Oh `KPA/O*E`
+* Oh `KPA/O*ERBGS`
 * inside `TPH-DZ`
 * fish! `TPEURB SKHRAPL`
 * A `KPA/AEU`

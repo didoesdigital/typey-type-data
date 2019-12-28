@@ -76,7 +76,7 @@ The Saucy Boy
 'weather,"': WHR* KW-BG KR-GS
 'he': HE
 'said.': SAEUD TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'open': OEP
 'the': -T
 'door!': TKAOR SKHRAPL
@@ -126,7 +126,7 @@ The Saucy Boy
 'opened': OEPD
 'the': -T
 'door.': TKAOR TP-PL
-'Before': KPA/PW-F
+'Before': KPA/PW-FP
 'him': HEUPL
 'stood': STAOD
 'a': AEU
@@ -396,7 +396,7 @@ The Saucy Boy
 'looking': HRAOG
 'at': AT
 'it.': T TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'it's': T-S
 'quite': KWAOEUT
 'dry': TKRAOEU
@@ -501,7 +501,7 @@ The Saucy Boy
 'in': TPH
 'the': -T
 'heart.': HART TP-PL
-'"Oh!"': KR-GS KPA/O*E SKHRAPL KR-GS
+'"Oh!"': KR-GS KPA/O*ERBGS SKHRAPL KR-GS
 'he': HE
 'cried,': KRAOEUD KW-BG
 '"what': KR-GS WHA
@@ -609,7 +609,7 @@ The Saucy Boy
 'student': STAUPB
 'too,': TAO KW-BG
 'he': HE
-'sticks': STEUBGS
+'sticks': STEUBGZ
 'an': APB
 'arrow': AR/OE
 'into': TPHAO
@@ -698,7 +698,7 @@ The Saucy Boy
 'what': WHA
 'they': THE
 'say.': SAEU TP-PL
-'Oh!': KPA/O*E SKHRAPL
+'Oh!': KPA/O*ERBGS SKHRAPL
 'he': HE
 'is': S
 'a': AEU

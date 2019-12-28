@@ -43,7 +43,7 @@
 * brothers `PWROERS`
 * took `TAOBG`
 * their `THAEUR`
-* walking-sticks `WAUG H-PB STEUBGS`
+* walking-sticks `WAUG H-PB STEUBGZ`
 * in `TPH`
 * hands, `HAPBDZ KW-BG`
 * little `HREUL`
@@ -141,7 +141,7 @@
 * it `T`
 * end `EPBD`
 * gallows?' `TKPWAL/HROE/-S H-F AE`
-* 'Oh!' `AE KPA/O*E SKHRAPL AE`
+* 'Oh!' `AE KPA/O*ERBGS SKHRAPL AE`
 * 'you `AE U`
 * need `TPHAOED`
 * fear `TPAOER`
@@ -243,7 +243,7 @@
 * he, `HE KW-BG`
 * 'to `AE TO`
 * tailor?' `TAEURL H-F AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * no!' `TPHO SKHRAPL AE`
 * man; `PHAPB STPH*FPLT`
 * 'sitting `AE SEUGT`
@@ -305,7 +305,7 @@
 * day, `TKAEU KW-BG`
 * were `WR`
 * sitting `SEUGT`
-* before `PW-F`
+* before `PW-FP`
 * house `HOUS`
 * under `TPH-PB`
 * high `HAOEU`
@@ -409,7 +409,7 @@
 * which `WEU`
 * ought `OT`
 * prize. `PRAOEUZ TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * might `PHAOEUT`
 * turn `TURPB`
 * skill `SKEUL`
@@ -439,7 +439,7 @@
 * do.' `TKO TP-PL AE`
 * And `AFPBD`
 * whether `WHR`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * free. `TPRAOE TP-PL`
 * is, `S-RBGS`
 * however,' `HOUF KW-BG AE`
@@ -495,12 +495,12 @@
 * air; `AEUR STPH*FPLT`
 * awoke `A/WOEBG`
 * missed `PHEUFD`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * But `KPA/PWUT`
 * boat, `PWOET KW-BG`
 * pounce `POUPBS`
 * carry `KAER`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * straight `STRAEUT`
 * heart `HART`
 * fell `TPEL`

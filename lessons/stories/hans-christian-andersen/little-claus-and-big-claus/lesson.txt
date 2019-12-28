@@ -349,7 +349,7 @@ Little Claus and Big Claus
 'fell': TPEL
 'dead': TKED
 'instantly.': EUPB/STAPBT/HREU TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'now': TPHOU
 'I': EU
 'have': SR
@@ -434,7 +434,7 @@ Little Claus and Big Claus
 'his': HEUS
 'way,': WAEU KW-BG
 'and': SKP
-'before': PW-F
+'before': PW-FP
 'he': HE
 'discovered': SKOFD
 'the': -T
@@ -459,7 +459,7 @@ Little Claus and Big Claus
 'to': TO
 'return': RURPB
 'home': HOEPL
-'before': PW-F
+'before': PW-FP
 'night.': TPHAOEUT TP-PL
 'Near': KPA/TPHAOER
 'the': -T
@@ -750,7 +750,7 @@ Little Claus and Big Claus
 'a': AEU
 'glorious': TKPWHRORS
 'feast': TPAOEFT
-'before': PW-F
+'before': PW-FP
 'them.': THEPL TP-PL
 'At': KPA/AT
 'this': TH
@@ -796,7 +796,7 @@ Little Claus and Big Claus
 'If': KPA/TP
 'one': WUPB
 'appeared': A/PAOERD
-'before': PW-F
+'before': PW-FP
 'him,': HEUPL KW-BG
 'he': HE
 'would': WO
@@ -832,7 +832,7 @@ Little Claus and Big Claus
 'woman': WOPL
 'had': H
 'placed': PHRAEUFD
-'before': PW-F
+'before': PW-FP
 'him': HEUPL
 'the': -T
 'best': PWEFT
@@ -922,7 +922,7 @@ Little Claus and Big Claus
 'brought': PWRAUT
 'out': OUT
 'for.': TPOR TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'dear,"': TKAER KW-BG KR-GS
 'sighed': SAOEU/-D
 'Little': KPA/HREUL
@@ -1020,7 +1020,7 @@ Little Claus and Big Claus
 'table,': TAEUBL KW-BG
 'and': SKP
 'placed': PHRAEUFD
-'before': PW-F
+'before': PW-FP
 'them': THEPL
 'a': AEU
 'dish': TKEURB
@@ -1132,7 +1132,7 @@ Little Claus and Big Claus
 'squeaked': SKWRAOEBGD
 'louder': HROURD
 'than': THAPB
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 '"Hallo!': KR-GS HA*L/KWRO SKHRAPL
 'what': WHA
 'have': SR
@@ -1144,7 +1144,7 @@ Little Claus and Big Claus
 'asked': SK-D
 'the': -T
 'farmer.': TPAR/PHER TP-PL
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'it': T
 'is': S
 'a': AEU
@@ -1221,7 +1221,7 @@ Little Claus and Big Claus
 'placed': PHRAEUFD
 'the': -T
 'things': THEUPBGS
-'before': PW-F
+'before': PW-FP
 'them,': THEPL KW-BG
 'and': SKP
 'they': THE
@@ -1247,7 +1247,7 @@ Little Claus and Big Claus
 'it': T
 'squeaked': SKWRAOEBGD
 'as': AZ
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 '"What': KR-GS KPA/WHA
 'does': TKOS
 'he': HE
@@ -1338,7 +1338,7 @@ Little Claus and Big Claus
 'am': APL
 'so': SO
 'merry."': PHER/REU TP-PL KR-GS
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'yes!"': KWRE SKHRAPL KR-GS
 'replied': RE/PHRAOEUD
 'Little': KPA/HREUL
@@ -1384,7 +1384,7 @@ Little Claus and Big Claus
 'look': HRAOBG
 'at': AT
 'him."': HEUPL TP-PL KR-GS
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'I': EU
 'am': APL
 'not': TPHOT
@@ -1560,7 +1560,7 @@ Little Claus and Big Claus
 'and': SKP
 'peeped': PAOEPD
 'in.': TPH TP-PL
-'"Oh,"': KR-GS KPA/O*E KW-BG KR-GS
+'"Oh,"': KR-GS KPA/O*ERBGS KW-BG KR-GS
 'cried': KRAOEUD
 'he,': HE KW-BG
 'springing': SPREUPBG/-G
@@ -1953,7 +1953,7 @@ Little Claus and Big Claus
 'me': PHE
 'out': OUT
 'first."': TPEUFRT TP-PL KR-GS
-'"Oh,"': KR-GS KPA/O*E KW-BG KR-GS
+'"Oh,"': KR-GS KPA/O*ERBGS KW-BG KR-GS
 'exclaimed': SKHRAEUPL/-D
 'Little': KPA/HREUL
 'Claus,': xxx Claus KW-BG
@@ -1980,7 +1980,7 @@ Little Claus and Big Claus
 'may': PHAE
 'be': -B
 'drowned."': TKROUPBD TP-PL KR-GS
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'no;': TPHO STPH*FPLT
 'oh,': OERBGS
 'no,"': TPHO KW-BG KR-GS
@@ -2207,7 +2207,7 @@ Little Claus and Big Claus
 'so': SO
 'much': PHUFP
 'money?"': PHUPB H-F KR-GS
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'for': TPOR
 'my': PHEU
 'horse's': HORS AES
@@ -2402,7 +2402,7 @@ Little Claus and Big Claus
 'he': HE
 'had': H
 'never': TPHEFR
-'before': PW-F
+'before': PW-FP
 'been': PW-PB
 'so': SO
 'thoroughly': THORL
@@ -2502,7 +2502,7 @@ Little Claus and Big Claus
 'had': H
 'often': OFPB
 'done': TKOPB
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'During': KPA/TKURG
 'the': -T
 'night,': TPHAOEUT KW-BG
@@ -2909,7 +2909,7 @@ Little Claus and Big Claus
 'in': TPH
 'her': HER
 'forehead."': TPOER/HED TP-PL KR-GS
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'how': HOU
 'unfortunate,"': TPHORPBT KW-BG KR-GS
 'said': SAEUD
@@ -3370,7 +3370,7 @@ Little Claus and Big Claus
 'way': WAEU
 'to': TO
 'go': TKPW
-'before': PW-F
+'before': PW-FP
 'he': HE
 'reached': RAOEFPD
 'the': -T
@@ -3429,7 +3429,7 @@ Little Claus and Big Claus
 'hear': HAER
 'a': AEU
 'psalm': SAUPL
-'before': PW-F
+'before': PW-FP
 'he': HE
 'went': WEPBT
 'any': TPHEU
@@ -3455,9 +3455,9 @@ Little Claus and Big Claus
 'in': TPH
 'he': HE
 'went.': WEPBT TP-PL
-'"Oh': KR-GS KPA/O*E
+'"Oh': KR-GS KPA/O*ERBGS
 'dear,': TKAER KW-BG
-'oh': O*E
+'oh': O*ERBGS
 'dear,"': TKAER KW-BG KR-GS
 'sighed': SAOEU/-D
 'Little': KPA/HREUL
@@ -3513,7 +3513,7 @@ Little Claus and Big Claus
 'cows': KOUS
 'and': SKP
 'oxen': OBGS/*EPB
-'before': PW-F
+'before': PW-FP
 'him.': HEUPL TP-PL
 'They': KPA/THE
 'stumbled': STUPL/-BLD
@@ -3529,7 +3529,7 @@ Little Claus and Big Claus
 'turned': TURPBD
 'it': T
 'over.': OEFR TP-PL
-'"Oh': KR-GS KPA/O*E
+'"Oh': KR-GS KPA/O*ERBGS
 'dear,"': TKAER KW-BG KR-GS
 'sighed': SAOEU/-D
 'Little': KPA/HREUL
@@ -4369,7 +4369,7 @@ Little Claus and Big Claus
 'may': PHAE
 'not': TPHOT
 'sink."': S*EUPBG TP-PL KR-GS
-'"Oh,': KR-GS KPA/O*E KW-BG
+'"Oh,': KR-GS KPA/O*ERBGS KW-BG
 'there's': THR-S
 'not': TPHOT
 'much': PHUFP

@@ -354,7 +354,7 @@
 * forward, `TPAORD KW-BG`
 * till `TEUL`
 * castle, `KAFL KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * lie `HRAOEU`
 * troop `TRAOP`
 * soldiers `SHRERPBLGS`
@@ -382,7 +382,7 @@
 * repent `RE/PEPBT`
 * it.' `T TP-PL AE`
 * stretched `STREFPD`
-* Before `KPA/PW-F`
+* Before `KPA/PW-FP`
 * gate `TKPWAET`
 * said: `SAEUD STPH-FPLT`
 * chamber `KHAEURPL`
@@ -469,7 +469,7 @@
 * agreed, `TKPWRAED KW-BG`
 * that, `THA KW-BG`
 * thither `TH*EURT`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * live, `HREUF KW-BG`
 * way `WAEU`
 * sorrowful; `SOR/ROEFL STPH*FPLT`
@@ -485,7 +485,7 @@
 * arrive `A/REUF`
 * castle. `KAFL TP-PL`
 * At `KPA/AT`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * goes `TKPW-S`
 * bathing-house: `PWA*EUGT H-PB HOUS STPH-FPLT`
 * her `HER`
@@ -543,10 +543,10 @@
 * merrily `PHER/HREU`
 * told `TOLD`
 * removed `RE/PHOFD`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * obliged `OE/PWHRAOEUPBLGD`
 * word, `WORD KW-BG`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * 'We `AE KPA/WE`
 * three, `THRAOE KW-BG`
 * 'Ah!' `AE KPA/HA*E SKHRAPL AE`

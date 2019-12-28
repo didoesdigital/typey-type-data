@@ -296,7 +296,7 @@
 * sail `SAEUL`
 * boat; `PWOET STPH*FPLT`
 * evening `AOEPBG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * accompanied `A/K-PD`
 * boatman `PWOET/PHA*PB`
 * house. `HOUS TP-PL`
@@ -475,7 +475,7 @@
 * jumped `SKWR*UPLD`
 * ashore, `A/SHOR KW-BG`
 * ran `RAPB`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * me `PHE`
 * you," `U KW-BG KR-GS`
 * cried `KRAOEUD`
@@ -524,7 +524,7 @@
 * ugly `ULG`
 * frightened `TPRAOEUPBD`
 * children; `KHEURPB STPH*FPLT`
-* before `PW-F`
+* before `PW-FP`
 * them, `THEPL KW-BG`
 * thickest `THEUBG/EFT`
 * part `PART`
@@ -1022,7 +1022,7 @@
 * married `PHAERD`
 * wait `WAEUT`
 * while." `WHAOEUL TP-PL KR-GS`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * yes," `KWRE KW-BG KR-GS`
 * replied; `RE/PHRAOEUD STPH*FPLT`
 * "Let `KR-GS KPA/HRET`

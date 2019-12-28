@@ -368,7 +368,7 @@ Something
 'have': SR
 'something': S-G
 'placed': PHRAEUFD
-'before': PW-F
+'before': PW-FP
 'or': OR
 'after': AF
 'my': PHEU
@@ -381,7 +381,7 @@ Something
 'others': OERS
 'have': SR
 'done': TKOPB
-'before': PW-F
+'before': PW-FP
 'me.': PHE TP-PL
 'By': KPA/PWEU
 'this': TH
@@ -1198,7 +1198,7 @@ Something
 'the': -T
 'corporation': KORPGS
 'fluttered': TPHRUT/ERD
-'before': PW-F
+'before': PW-FP
 'it,': T KW-BG
 'and': SKP
 'the': -T
@@ -1326,7 +1326,7 @@ Something
 'list': HR*EUS
 'of': -F
 'titles': TAOEULTS
-'before': PW-F
+'before': PW-FP
 'and': SKP
 'after': AF
 'his': HEUS
@@ -2192,7 +2192,7 @@ Something
 'of': -F
 'my': PHEU
 'power.': POUR TP-PL
-'Oh,': KPA/O*E KW-BG
+'Oh,': KPA/O*ERBGS KW-BG
 'if': TP
 'I': EU
 'could': KO

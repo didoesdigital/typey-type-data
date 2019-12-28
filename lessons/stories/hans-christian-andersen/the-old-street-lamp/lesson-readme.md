@@ -331,7 +331,7 @@
 * join `SKWROEUPB`
 * procession. `PRO/SEGS TP-PL`
 * torches `TOR/-FPS`
-* before `PW-F`
+* before `PW-FP`
 * could `KO`
 * look `HRAOBG`
 * round, `ROUPBD KW-BG`
@@ -487,7 +487,7 @@
 * understand `URPBD`
 * done `TKOPB`
 * presence." `PREPBS TP-PL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * very, `SRE KW-BG`
 * gift," `TKPWEUFT KW-BG KR-GS`
 * "I `KR-GS EU`

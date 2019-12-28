@@ -29,7 +29,7 @@
 * had `H`
 * been `PW-PB`
 * bought `PWAUT`
-* potter. `POT/*ER TP-PL`
+* potter. `HRO*ER/POT/*ER TP-PL`
 * back `PWABG`
 * pig `PEUG`
 * slit, `SHREUT KW-BG`

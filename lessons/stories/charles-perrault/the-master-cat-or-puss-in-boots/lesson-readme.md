@@ -173,7 +173,7 @@
 * paws, `PAU/-S KW-BG`
 * went `WEPBT`
 * into `TPHAO`
-* warren `WA*RPB`
+* warren `WAR/-PB`
 * where `W-R`
 * abundance `PWUPB/TKAPBS`
 * rabbits. `RABTS TP-PL`
@@ -277,8 +277,8 @@
 * both. `PWO*T TP-PL`
 * these `THEZ`
 * done `TKOPB`
-* before `PW-F`
-* warren. `WA*RPB TP-PL`
+* before `PW-FP`
+* warren. `WAR/-PB TP-PL`
 * King `KO*EUPBG`
 * like `HRAOEUBG`
 * manner `PHAERPB`
@@ -308,7 +308,7 @@
 * daughter, `TKAUR KW-BG`
 * most `PHOFT`
 * beautiful `PWAOUFL`
-* Princess `KPA/PREUPB/ES`
+* Princess `KPA/PREUPB/SES`
 * master: `PHAFRT STPH-FPLT`
 * "If `KR-GS KPA/TP`
 * will `HR`
@@ -417,7 +417,7 @@
 * succeed, `SKAOED KW-BG`
 * marched `PHAFRPBD`
 * on `OPB`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * meeting `PHAOEGT`
 * countrymen, `KUPB/TREU/PHEPB KW-BG`
 * mowing `PHOEG`
@@ -608,7 +608,7 @@
 * please." `PHRES TP-PL KR-GS`
 * gave `TKPWAEUF`
 * hand `HAPBD`
-* Princess, `KPA/PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/SES KW-BG`
 * followed `TPOLD`
 * first. `TPEUFRT TP-PL`
 * spacious `SPAERBS`
@@ -646,7 +646,7 @@
 * forthwith, `TPA*URT/W KW-BG`
 * day, `TKAEU KW-BG`
 * married `PHAERD`
-* Princess. `KPA/PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/SES TP-PL`
 * became `PWAEUPL`
 * lord, `HRORD KW-BG`
 * mice `PHAOEUS`

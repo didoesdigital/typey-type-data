@@ -263,7 +263,7 @@
 * quarter `KWAR/TER`
 * an `APB`
 * hour `HOUR`
-* before `PW-F`
+* before `PW-FP`
 * recovered `ROFRD`
 * senses. `SEPBS/-S TP-PL`
 * Half `KPA/HAF`

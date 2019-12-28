@@ -355,7 +355,7 @@
 * stairs `STAEURS`
 * trod `TROD`
 * gown `TKPWOUPB`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * cried `KRAOEUD`
 * sisters, `ST-RS KW-BG`
 * 'All `AE KPA/AUL`
@@ -396,7 +396,7 @@
 * noise? `TPHOEUS H-F`
 * That `KPA/THA`
 * never `TPHEFR`
-* before.' `PW-F TP-PL AE`
+* before.' `PW-FP TP-PL AE`
 * 'It `AE KPA/T`
 * our `OUR`
 * princes, `PREUPBS/-S KW-BG`
@@ -444,7 +444,7 @@
 * over `OEFR`
 * lake, `HRAEUBG KW-BG`
 * prince `PREUPBS`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * do `TKO`
 * why `KWR`
 * though `THOE`
@@ -457,7 +457,7 @@
 * today.' `TOED TP-PL AE`
 * heat `HAOET`
 * weather,' `WHR* KW-BG AE`
-* princess: `PREUPB/ES STPH-FPLT`
+* princess: `PREUPB/SES STPH-FPLT`
 * warm `WARPL`
 * too.' `TAO TP-PL AE`
 * On `KPA/OPB`
@@ -470,7 +470,7 @@
 * horns `HORPBS`
 * trumpets. `TRUPLTS TP-PL`
 * landed, `HRAPBD/-D KW-BG`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * too; `TAO STPH*FPLT`
 * set `SET`
 * by `PWEU`
@@ -495,7 +495,7 @@
 * again `TKPWEPB`
 * (but `PREPB PWUT`
 * placed `PHRAEUFD`
-* princess); `PREUPB/ES PR*EPB STPH*FPLT`
+* princess); `PREUPB/SES PR*EPB STPH*FPLT`
 * opposite `OP/SEUT`
 * shore `SHOR`
 * other, `OER KW-BG`
@@ -504,7 +504,7 @@
 * night. `TPHAOEUT TP-PL`
 * stairs, `STAEURS KW-BG`
 * ran `RAPB`
-* before `PW-F`
+* before `PW-FP`
 * princesses, `PREUPB/SES/-S KW-BG`
 * down; `TKOUPB STPH*FPLT`
 * sisters `ST-RS`
@@ -526,7 +526,7 @@
 * strange `STRAEUPBG`
 * adventure, `SREPBG KW-BG`
 * just `SKWRUFT`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * pieces, `PAOEFS KW-BG`
 * returned `RURPBD`
 * home. `HOEPL TP-PL`

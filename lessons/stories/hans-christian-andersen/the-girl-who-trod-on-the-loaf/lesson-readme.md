@@ -200,9 +200,9 @@
 * stone `STOEPB`
 * rest, `REFT KW-BG`
 * fagot `xxx fagot`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * lying `HRAOEUG`
-* before `PW-F`
+* before `PW-FP`
 * picked `PEUGD`
 * up `UP`
 * wood. `WAOD TP-PL`
@@ -528,7 +528,7 @@
 * hast `HA*FT`
 * thy `THAO*EU`
 * mother" `PHOER KR-GS`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * never `TPHEFR`
 * born! `PWORPB SKHRAPL`
 * My `KPA/PHEU`
@@ -604,7 +604,7 @@
 * beg `PWEG`
 * pardon," `PARD KW-BG KR-GS`
 * answer. `AEPBS TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * wish `WEURB`
 * would!" `WO SKHRAPL KR-GS`
 * it. `T TP-PL`

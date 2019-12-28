@@ -5,7 +5,7 @@
 * or `OR`
 * rather `RAER`
 * two `TWO`
-* prizes, `PRAOEUZ/-S KW-BG`
+* prizes, `PRAOEUZ/-Z KW-BG`
 * a `AEU`
 * great `TKPWRAET`
 * one `WUPB`
@@ -67,7 +67,7 @@
 * at `AT`
 * distribution `TKR-BGS`
 * of `-F`
-* prizes; `PRAOEUZ/-S STPH*FPLT`
+* prizes; `PRAOEUZ/-Z STPH*FPLT`
 * "there `KR-GS THR`
 * some `SOPL`
 * consideration `K-RGS`
@@ -390,7 +390,7 @@
 * hind `HAOEUPBD`
 * legs `HREGS`
 * young `KWRUPBG`
-* before `PW-F`
+* before `PW-FP`
 * engine; `TPH-PBLG STPH*FPLT`
 * idea `KWR-D`
 * there. `THR TP-PL`
@@ -492,7 +492,7 @@
 * replied `RE/PHRAOEUD`
 * mule. `PHAOUL TP-PL`
 * proposed `PROEPD`
-* prizes. `PRAOEUZ/-S TP-PL`
+* prizes. `PRAOEUZ/-Z TP-PL`
 * most `PHOFT`
 * decidedly `STKAOEUD/-D/HREU`
 * it; `T STPH*FPLT`

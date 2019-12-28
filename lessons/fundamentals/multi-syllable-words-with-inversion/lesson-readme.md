@@ -1,5 +1,6 @@
 # Multi-syllable words with inversion
 
+* university `AOUFRT`
 * design `STKAOEUPB`
 * offers `OFRS`
 * seller `SERL`
@@ -7,6 +8,7 @@
 * edit `ETD`
 * customers `KUFRS`
 * designed `STKAOEUPBD`
+* capital `KAPLT`
 * editor `OERTD`
 * recently `RAOEPBLT`
 * wedding `WEGD`
@@ -23,7 +25,6 @@
 * finding `TPAOEPBGD`
 * posters `POEFRTS`
 * completely `KPHRELT`
-* manufacturers `PH-FRS`
 * covers `KOFRS`
 * designs `STKAOEUPBS`
 * binding `PWAOEUPBGD`
@@ -107,6 +108,7 @@
 * brutal `PWRAOULT`
 * lately `HRAEULT`
 * bleeding `PWHRAOEGD`
+* controversial `KREFRL`
 * upgrading `UPGD/-G`
 * survivors `SUR/SRAOEUFRS`
 * promptly `PROPLT/HREU`

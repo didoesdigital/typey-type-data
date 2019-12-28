@@ -52,7 +52,7 @@
 * shoulders `SHOURLDZ`
 * to `TO`
 * feet. `TPAOET TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * what `WHA`
 * sweet `SWAOET`
 * fragrance `TPRAEUG/RAPBS`
@@ -107,7 +107,7 @@
 * very `SRE`
 * long `HROPBG`
 * him; `HEUPL STPH*FPLT`
-* before `PW-F`
+* before `PW-FP`
 * half `HAF`
 * finished `TP*EURBD`
 * task, `TAFBG KW-BG`

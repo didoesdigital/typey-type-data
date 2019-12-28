@@ -269,7 +269,7 @@
 * black `PWHRABG`
 * dwarf `TKWAFR`
 * stood `STAOD`
-* before `PW-F`
+* before `PW-FP`
 * him, `HEUPL KW-BG`
 * said: `SAEUD STPH-FPLT`
 * 'Lord, `AE HRO*RD KW-BG`
@@ -411,7 +411,7 @@
 * sprang `SPRAPBG`
 * open, `OEP KW-BG`
 * carried `KAERD`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * 'Aha! `AE xxx Aha SKHRAPL`
 * there?' `THR H-F AE`
 * cried `KRAOEUD`
@@ -450,7 +450,7 @@
 * laid `HRAEUD`
 * bed. `PWED TP-PL`
 * morning `PHORPBG`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * arose `A/ROES`
 * father, `TPAER KW-BG`
 * told `TOLD`
@@ -538,7 +538,7 @@
 * find `TPEUPBD`
 * it.' `T TP-PL AE`
 * plot, `PHROT KW-BG`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * revealed `RE/SRAOELD`
 * knew `TPHAOU`
 * expedient `EBGS/PAOED/KWREPBT`

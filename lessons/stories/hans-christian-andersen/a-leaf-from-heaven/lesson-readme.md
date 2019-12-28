@@ -249,7 +249,7 @@
 * girl `TKPWEURL`
 * stood `STAOD`
 * still `STEUL`
-* before `PW-F`
+* before `PW-FP`
 * wonderful `WUFL`
 * green `TKPWRAOEPB`
 * exhaled `KPAEUL/-D`

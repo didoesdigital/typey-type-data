@@ -11,7 +11,7 @@
 * stocks `STOBGS`
 * and `SKP`
 * stones `STOEPBS`
-* idols, `AOEUD/OL/-S KW-BG`
+* idols, `AOEU/TKOL/-S KW-BG`
 * prayed `PRAEUD`
 * them `THEPL`
 * give `TKPWEUF`
@@ -24,7 +24,7 @@
 * had `H`
 * often `OFPB`
 * wooden `WAOD/EPB`
-* idol `AOEUD/OL`
+* idol `AOEU/TKOL`
 * he `HE`
 * received `SAOEFD`
 * from `TPR`

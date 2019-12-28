@@ -110,7 +110,7 @@
 * yet `KWRET`
 * well `WEL`
 * do, `TKORBGS`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * are `R`
 * knotty;" `TPHOT/TEU STPH*FPLT KR-GS`
 * sung `SUPBG`
@@ -470,7 +470,7 @@
 * paper; `PAEUP STPH*FPLT`
 * around `ARPBD`
 * out `OUT`
-* before `PW-F`
+* before `PW-FP`
 * got `TKPWOT`
 * half `HAF`
 * through `THRU`

@@ -266,7 +266,7 @@ The Red Shoes
 'who': WHO
 'was': WAS
 'a': AEU
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'with': W
 'her.': HER TP-PL
 'All': KPA/AUL
@@ -283,13 +283,13 @@ The Red Shoes
 'where': W-R
 'the': -T
 'little': HREUL
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'in': TPH
 'fine': TPAOEUPB
 'white': WHAOEUT
 'clothes,': KHRO*ETS KW-BG
 'stood': STAOD
-'before': PW-F
+'before': PW-FP
 'the': -T
 'window': WOEUPBD
 'and': SKP
@@ -433,7 +433,7 @@ The Red Shoes
 'those': THOZ
 'which': WEU
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'had': H
 'worn.': WORPB TP-PL
 'How': KPA/HOU
@@ -837,7 +837,7 @@ The Red Shoes
 'when': WHEPB
 'Karen': KAEURPB
 'knelt': TPHELT
-'before': PW-F
+'before': PW-FP
 'the': -T
 'altar': AL/TAR
 'and': SKP
@@ -1733,7 +1733,7 @@ The Red Shoes
 'shoes': SHAOUS
 'were': WR
 'dancing': TKAPBS/-G
-'before': PW-F
+'before': PW-FP
 'her,': HER KW-BG
 'and': SKP
 'she': SHE
@@ -1811,7 +1811,7 @@ The Red Shoes
 'shoes': SHAOUS
 'dancing': TKAPBS/-G
 'along': HRAOPBG
-'before': PW-F
+'before': PW-FP
 'her.': HER TP-PL
 'Then': KPA/THEPB
 'she': SHE
@@ -2044,7 +2044,7 @@ The Red Shoes
 'brightly,': PWRAOEULT KW-BG
 'and': SKP
 'right': RAOEUT
-'before': PW-F
+'before': PW-FP
 'her': HER
 'stood': STAOD
 'an': APB

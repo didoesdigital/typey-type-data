@@ -37,8 +37,8 @@
 * clock `KHROBG`
 * striking `STRAOEUG`
 * twelve. `TWEFL TP-PL`
-* "Tan-ta-ra-ra, `KR-GS KPA/TAPB H-PB TAEU H-PB RA H-PB RA KW-BG`
-* tan-ta-ra-ra," `TAPB H-PB TAEU H-PB RA H-PB RA KW-BG KR-GS`
+* "Tan-ta-ra-ra, `KR-GS KPA/TAPB H-PB TAEU H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG`
+* tan-ta-ra-ra," `TAPB H-PB TAEU H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG KR-GS`
 * sounded `SOUPBD/-D`
 * horn, `HORPB KW-BG`
 * mail-coach `PHAEUL H-PB KOEFP`
@@ -106,7 +106,7 @@
 * rang `RAPBG`
 * again; `TKPWEPB STPH*FPLT`
 * while `WHAOEUL`
-* before `PW-F`
+* before `PW-FP`
 * town-gate `TOUPB H-PB TKPWAET`
 * mail `PHAEUL`
 * coach `KOEFP`
@@ -728,7 +728,7 @@
 * passage, `PAFPBLG KW-BG`
 * street `STRAOET`
 * singing `SEUPBG/-G`
-* carol `KAEURL`
+* carol `KAR/OL`
 * 'Star `AE KPA/STAR`
 * Bethlehem.'" `PW*ET/HREPL TP-PL AE KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`

@@ -841,7 +841,7 @@
 * "The `KR-GS KPA/-T`
 * sixth `S*BGS`
 * comes `KOPLS`
-* before `PW-F`
+* before `PW-FP`
 * seventh," `S*EPBT KW-BG KR-GS`
 * reckon; `REBG/-PB STPH*FPLT`
 * forward. `TPAORD TP-PL`
@@ -977,7 +977,7 @@
 * up. `UP TP-PL`
 * continued `T-PBD`
 * riven `xxx riven`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * much `PHUFP`
 * pleased `PHRAOEFD`
 * goblin!" `TKPWOB/HREUPB SKHRAPL KR-GS`

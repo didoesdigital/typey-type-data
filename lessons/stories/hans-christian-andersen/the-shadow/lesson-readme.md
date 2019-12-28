@@ -327,7 +327,7 @@
 * wind `WEUPBD`
 * raised `RA*EUFD`
 * curtain `KUR/TAPB`
-* before `PW-F`
+* before `PW-FP`
 * there `THR`
 * appeared `A/PAOERD`
 * wonderful `WUFL`
@@ -808,7 +808,7 @@
 * She `KPA/SHE`
 * flashed `TPHRARBD`
 * radiant `RAEUD/KWRAPBT`
-* aurora `AU/ROE/RA`
+* aurora `AU/ROR/RA`
 * borealis, `PWOR/A*L/EUS KW-BG`
 * surrounded `SROUBD/-D`
 * fire. `TPAOEUR TP-PL`
@@ -1172,7 +1172,7 @@
 * submit. `SPHEUT TP-PL`
 * baths, `PWA*TS KW-BG`
 * strangers, `STRAEUPB/SKWRERS KW-BG`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * whose `WHOZ`
 * disease `TK-Z`
 * consisted `KAO/-D`
@@ -1227,7 +1227,7 @@
 * own; `OEPB STPH*FPLT`
 * expensive, `SP*EF KW-BG`
 * peculiar." `PE/KAOUL/HRAR TP-PL KR-GS`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * "am `KR-GS APL`
 * cured? `KAOURD H-F`
 * best `PWEFT`
@@ -1244,13 +1244,13 @@
 * hope `HOEP`
 * won't `WOEPBT`
 * once." `WUPBS TP-PL KR-GS`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * danced `TKAPBS/-D`
 * assembly `A/SEPL/PWHREU`
 * rooms. `RAOPLS TP-PL`
 * lighter `HRAOEURT`
 * dancer `TKARPBS`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * told `TOLD`
 * country `KREU`
 * come, `KOPL KW-BG`
@@ -1298,7 +1298,7 @@
 * unaccountable `UPB/K-T/-BL`
 * grimace. `TKPWREUPL/AS TP-PL`
 * that," `THA KW-BG KR-GS`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * something `S-G`
 * childhood," `KHAOEULD/H*D KW-BG KR-GS`
 * replied; `RE/PHRAOEUD STPH*FPLT`
@@ -1376,7 +1376,7 @@
 * clothes." `KHRO*ETS TP-PL KR-GS`
 * reasonable, `R-PBL KW-BG`
 * guards." `TKPWARDZ TP-PL KR-GS`
-* princess," `PREUPB/ES KW-BG KR-GS`
+* princess," `PREUPB/SES KW-BG KR-GS`
 * first," `TPEUFRT KW-BG KR-GS`
 * prison." `PREUZ TP-PL KR-GS`
 * out, `OUT KW-BG`
@@ -1409,7 +1409,7 @@
 * "is `KR-GS S`
 * locked `HROBGD`
 * up?" `UP H-F KR-GS`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * yes, `KWRE KW-BG`
 * certainly; `SERPBL STPH*FPLT`
 * recover." `ROFR TP-PL KR-GS`

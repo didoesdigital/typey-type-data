@@ -182,7 +182,7 @@
 * clouds `KHROUDZ`
 * brilliant `PWREULT`
 * lights `HRAOEUTS`
-* aurora `AU/ROE/RA`
+* aurora `AU/ROR/RA`
 * borealis. `PWOR/A*L/EUS TP-PL`
 * plucked `PHRUBGD`
 * placed `PHRAEUFD`

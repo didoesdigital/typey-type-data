@@ -308,7 +308,7 @@
 * now `TPHOU`
 * air `AEUR`
 * dress `TKRES`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * rudeness `RAOUD/-PBS`
 * go. `TKPW TP-PL`
 * "Am `KR-GS KPA/APL`

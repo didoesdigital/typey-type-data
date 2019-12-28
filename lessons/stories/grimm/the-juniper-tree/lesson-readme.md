@@ -175,7 +175,7 @@
 * comforted `K-FRTD`
 * happy `HAEP`
 * again, `TKPWEPB KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * passed `PAFD`
 * saw `SAU`
 * blood, `PWHRAOD KW-BG`
@@ -404,7 +404,7 @@
 * crying `KRAOEUG`
 * screaming `SKRAOEPLG`
 * mother. `PHOER TP-PL`
-* 'Oh!' `AE KPA/O*E SKHRAPL AE`
+* 'Oh!' `AE KPA/O*ERBGS SKHRAPL AE`
 * 'I `AE EU`
 * knocked `TPHOBGD`
 * brother's `PWROER/AES`
@@ -449,7 +449,7 @@
 * pudding, `PUD/-G KW-BG`
 * without `WOUT`
 * ceasing. `SAOES/-G TP-PL`
-* 'Oh,' `AE KPA/O*E KW-BG AE`
+* 'Oh,' `AE KPA/O*ERBGS KW-BG AE`
 * answered `AEPBS/-D`
 * 'he `AE HE`
 * gone `TKPWOPB`
@@ -537,7 +537,7 @@
 * air, `AEUR KW-BG`
 * singing `SEUPBG/-G`
 * magnificently, `PHAFG/SEPBT/HREU KW-BG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * gone. `TKPWOPB TP-PL`
 * lighthearted `xxx lighthearted`
 * alive, `A/HRAOEUF KW-BG`

@@ -292,7 +292,7 @@ The Master Cat or Puss in Boots
 'went': WEPBT
 'into': TPHAO
 'a': AEU
-'warren': WA*RPB
+'warren': WAR/-PB
 'where': W-R
 'was': WAS
 'great': TKPWRAET
@@ -426,7 +426,7 @@ The Master Cat or Puss in Boots
 'rabbit': RABT
 'of': -F
 'the': -T
-'warren': WA*RPB
+'warren': WAR/-PB
 'which': WEU
 'my': PHEU
 'noble': TPHOEBL
@@ -527,7 +527,7 @@ The Master Cat or Puss in Boots
 'he': HE
 'had': H
 'done': TKOPB
-'before': PW-F
+'before': PW-FP
 'of': -F
 'the': -T
 'rabbit': RABT
@@ -536,7 +536,7 @@ The Master Cat or Puss in Boots
 'took': TAOBG
 'in': TPH
 'the': -T
-'warren.': WA*RPB TP-PL
+'warren.': WAR/-PB TP-PL
 'The': KPA/-T
 'King': KO*EUPBG
 'in': TPH
@@ -604,7 +604,7 @@ The Master Cat or Puss in Boots
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'Princess': KPA/PREUPB/ES
+'Princess': KPA/PREUPB/SES
 'in': TPH
 'the': -T
 'world,': WORLD KW-BG
@@ -923,7 +923,7 @@ The Master Cat or Puss in Boots
 'succeed,': SKAOED KW-BG
 'marched': PHAFRPBD
 'on': OPB
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 'and': SKP
 'meeting': PHAOEGT
 'with': W
@@ -1046,7 +1046,7 @@ The Master Cat or Puss in Boots
 'still': STEUL
 'went': WEPBT
 'on': OPB
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 'met': PHET
 'with': W
 'some': SOPL
@@ -1130,7 +1130,7 @@ The Master Cat or Puss in Boots
 'who': WHO
 'went': WEPBT
 'always': AULS
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 'said': SAEUD
 'the': -T
 'same': SAEUPL
@@ -1571,7 +1571,7 @@ The Master Cat or Puss in Boots
 'hand': HAPBD
 'to': TO
 'the': -T
-'Princess,': KPA/PREUPB/ES KW-BG
+'Princess,': KPA/PREUPB/SES KW-BG
 'and': SKP
 'followed': TPOLD
 'the': -T
@@ -1701,7 +1701,7 @@ The Master Cat or Puss in Boots
 'day,': TKAEU KW-BG
 'married': PHAERD
 'the': -T
-'Princess.': KPA/PREUPB/ES TP-PL
+'Princess.': KPA/PREUPB/SES TP-PL
 'Puss': KPA/PUSZ
 'became': PWAEUPL
 'a': AEU

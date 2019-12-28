@@ -185,7 +185,7 @@
 * struck `STRUBG`
 * fell `TPEL`
 * instantly. `EUPB/STAPBT/HREU TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * now `TPHOU`
 * no `TPHO`
 * all," `AUL KW-BG KR-GS`
@@ -227,7 +227,7 @@
 * arose, `A/ROES KW-BG`
 * lost `HRO*S`
 * way, `WAEU KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * discovered `SKOFD`
 * right `RAOEUT`
 * path, `PA*T KW-BG`
@@ -472,7 +472,7 @@
 * till `TEUL`
 * louder `HROURD`
 * than `THAPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * "Hallo! `KR-GS HA*L/KWRO SKHRAPL`
 * got `TKPWOT`
 * sack!" `SABG SKHRAPL KR-GS`
@@ -594,7 +594,7 @@
 * little `HREUL`
 * peeped `PAOEPD`
 * in. `TPH TP-PL`
-* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * he, `HE KW-BG`
 * springing `SPREUPBG/-G`
 * backwards, `PWABG/WARDZ KW-BG`
@@ -1049,9 +1049,9 @@
 * possibly `POBL`
 * church; `KHUFRPB STPH*FPLT`
 * went. `WEPBT TP-PL`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * dear, `TKAER KW-BG`
-* oh `O*E`
+* oh `O*ERBGS`
 * twisted `TWEUFTD`
 * about; `PW STPH*FPLT`
 * found `TPOUPBD`

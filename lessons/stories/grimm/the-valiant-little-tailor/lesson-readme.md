@@ -151,7 +151,7 @@
 * just `SKWRUFT`
 * finish `TP*EURB`
 * jacket `SKWRABGT`
-* before `PW-F`
+* before `PW-FP`
 * take `TAEUBG`
 * bite.' `PWAOEUT TP-PL AE`
 * laid `HRAEUD`
@@ -265,7 +265,7 @@
 * too `TAO`
 * small `SPHAL`
 * valour. `SRAL/HROR/A*U TP-PL`
-* Before `KPA/PW-F`
+* Before `KPA/PW-FP`
 * sought `SAUT`
 * about `PW`
 * house `HOUS`
@@ -335,7 +335,7 @@
 * You `KPA/U`
 * miserable `PHEUZ/-BL`
 * creature!' `KRAOEFP SKHRAPL AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * indeed?' `TPHAOEPBD H-F AE`
 * answered `AEPBS/-D`
 * unbuttoned `UPB/PWUT/O*PB/-D`
@@ -762,7 +762,7 @@
 * 'One `AE KPA/WUPB`
 * offered `OFRD`
 * beautiful `PWAOUFL`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * day `TKAEU`
 * one's `W*UPBS`
 * life!' `HRAOEUF SKHRAPL AE`
@@ -892,7 +892,7 @@
 * bethought `PWE/THAUT`
 * how `HOU`
 * hero. `HOEUR TP-PL`
-* 'Before `AE KPA/PW-F`
+* 'Before `AE KPA/PW-FP`
 * receive `SAOEF`
 * daughter, `TKAUR KW-BG`
 * kingdom,' `KEUPBG/TKOPL KW-BG AE`

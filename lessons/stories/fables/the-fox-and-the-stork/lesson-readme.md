@@ -24,7 +24,7 @@
 * joke `SKWROEBG`
 * put `PUT`
 * nothing `TPHOG`
-* before `PW-F`
+* before `PW-FP`
 * her `HER`
 * but `PWUT`
 * some `SOPL`

@@ -3,7 +3,7 @@
 * Two `KPA/TWO`
 * neighbours `TPHAEUBS/A*U`
 * came `KAEUPL`
-* before `PW-F`
+* before `PW-FP`
 * Jupiter `SKWRAOUP/TER`
 * and `SKP`
 * prayed `PRAEUD`

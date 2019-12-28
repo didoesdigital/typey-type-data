@@ -411,7 +411,7 @@
 * birds `PWEURDZ`
 * passage `PAFPBLG`
 * come `KOPL`
-* before `PW-F`
+* before `PW-FP`
 * taking `TAEUG`
 * their `THAEUR`
 * flight `TPHRAOEUT`
@@ -892,7 +892,7 @@
 * 'Hallelujahs `AE HAL/HRAOU/KWRA/-S`
 * King.'" `KO*EUPBG TP-PL AE KR-GS`
 * Thus `KPA/THUS`
-* carol, `KAEURL KW-BG`
+* carol, `KAR/OL KW-BG`
 * thoughts `THAUTS`
 * elevated, `EL/SRAEUTD KW-BG`
 * prayer, `PRAEUR KW-BG`

@@ -242,7 +242,7 @@
 * crept `KREPT`
 * through `THRU`
 * window `WOEUPBD`
-* princess's `PREUPB/ES AES`
+* princess's `PREUPB/SES AES`
 * room. `RAOPL TP-PL`
 * She `KPA/SHE`
 * lay `HRAEU`
@@ -297,7 +297,7 @@
 * delightful `TKHRAOEUT/-FL`
 * stories; `STOERS STPH*FPLT`
 * asked `SK-D`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * marry `PHAER`
 * consented `KEFPBT/-D`
 * immediately. `PHAOELD TP-PL`
@@ -363,13 +363,13 @@
 * easy `EZ`
 * matter. `PHAERT TP-PL`
 * however `HOUF`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * The `KPA/-T`
 * king, `KEUPBG KW-BG`
 * queen, `KWAOEPB KW-BG`
 * court, `KORT KW-BG`
 * at `AT`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * received `SAOEFD`
 * politeness. `PHRAOEUT/*PBS TP-PL`
 * "Will `KR-GS W*EUL`
@@ -790,7 +790,7 @@
 * wedding-day `WEGD TKA*EU`
 * fixed, `TPEUFD KW-BG`
 * and, `SKP KW-BG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * city `STEU`
 * illuminated. `EUL/AOUPL/TPHAEUT/-D TP-PL`
 * Cakes `KPA/KAEUBG/-S`

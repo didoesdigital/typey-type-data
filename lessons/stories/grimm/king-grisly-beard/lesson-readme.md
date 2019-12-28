@@ -63,7 +63,7 @@
 * barons, `PWAR/ROPB/-S KW-BG`
 * knights. `TPHAO*EUT/-S TP-PL`
 * Then `KPA/THEPB`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * in, `TPH KW-BG`
 * as `AZ`
 * passed `PAFD`
@@ -180,8 +180,8 @@
 * dirty-looking `TKOEURT SKWRAOG`
 * fellow; `TPO*EUL STPH*FPLT`
 * sung `SUPBG`
-* before `PW-F`
-* princess, `PREUPB/ES KW-BG`
+* before `PW-FP`
+* princess, `PREUPB/SES KW-BG`
 * begged `PWEGD`
 * boon. `PWAOPB TP-PL`
 * 'You `AE KPA/U`

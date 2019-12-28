@@ -60,7 +60,7 @@
 * this `TH`
 * weather," `WHR* KW-BG KR-GS`
 * said. `SAEUD TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * open `OEP`
 * door! `TKAOR SKHRAPL`
 * I `EU`
@@ -90,7 +90,7 @@
 * up `UP`
 * opened `OEPD`
 * door. `TKAOR TP-PL`
-* Before `KPA/PW-F`
+* Before `KPA/PW-FP`
 * him `HEUPL`
 * stood `STAOD`
 * boy; `PWOEU STPH*FPLT`
@@ -277,7 +277,7 @@
 * lay `HRAEU`
 * crying; `KRAOEUG STPH*FPLT`
 * really `R-L`
-* "Oh!" `KR-GS KPA/O*E SKHRAPL KR-GS`
+* "Oh!" `KR-GS KPA/O*ERBGS SKHRAPL KR-GS`
 * cried, `KRAOEUD KW-BG`
 * "what `KR-GS WHA`
 * Cupid `KPA/KAOUPD`
@@ -329,7 +329,7 @@
 * believing `PWHREFG`
 * student `STAUPB`
 * too, `TAO KW-BG`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * arrow `AR/OE`
 * chest. `KHEFT TP-PL`
 * when `WHEPB`
@@ -365,7 +365,7 @@
 * hear `HAER`
 * what `WHA`
 * say. `SAEU TP-PL`
-* Oh! `KPA/O*E SKHRAPL`
+* Oh! `KPA/O*ERBGS SKHRAPL`
 * bad `PWAD`
 * Cupid, `KPA/KAOUPD KW-BG`
 * must `PHUFT`

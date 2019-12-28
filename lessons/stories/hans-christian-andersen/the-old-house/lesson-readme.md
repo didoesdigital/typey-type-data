@@ -325,9 +325,9 @@
 * cheeks `KHAOEBGS`
 * puffed `PUFD`
 * out. `OUT TP-PL`
-* "Tanta-ra-ra, `KR-GS KPA/TAPBT/SKWRA H-PB RA H-PB RA KW-BG`
+* "Tanta-ra-ra, `KR-GS KPA/TAPBT/SKWRA H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG`
 * coming; `KO*G STPH*FPLT`
-* Tanta-ra-ra, `KPA/TAPBT/SKWRA H-PB RA H-PB RA KW-BG`
+* Tanta-ra-ra, `KPA/TAPBT/SKWRA H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG`
 * coming." `KO*G TP-PL KR-GS`
 * Then `KPA/THEPB`
 * opened. `OEPD TP-PL`
@@ -421,7 +421,7 @@
 * creaked `KRAEBG/-D`
 * "Sit `KR-GS KPA/SEUT`
 * down. `TKOUPB TP-PL`
-* Oh `KPA/O*E`
+* Oh `KPA/O*ERBGS`
 * dear, `TKAER KW-BG`
 * how `HOU`
 * creaking. `KRAOEBG/-G TP-PL`
@@ -533,7 +533,7 @@
 * home," `HOEPL KW-BG KR-GS`
 * boy, `PWOEU KW-BG`
 * "that `KR-GS THA`
-* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * "I `KR-GS EU`
 * pleasant `PHREFPBT`
@@ -627,7 +627,7 @@
 * Christmas `KREUS/PHAS`
 * tree? `TRAOE H-F`
 * grave. `TKPWRAEUF TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * it." `T TP-PL KR-GS`
 * "You `KR-GS KPA/U`
 * only `OEPBL`
@@ -660,8 +660,8 @@
 * place `PHRAEUS`
 * visit. `SREUFT TP-PL`
 * blew `PWHRAOU`
-* "Tanta-ra-ra. `KR-GS KPA/TAPBT/SKWRA H-PB RA H-PB RA TP-PL`
-* Tanta-ra-ra." `KPA/TAPBT/SKWRA H-PB RA H-PB RA TP-PL KR-GS`
+* "Tanta-ra-ra. `KR-GS KPA/TAPBT/SKWRA H-PB HRO*ER/RA H-PB HRO*ER/RA TP-PL`
+* Tanta-ra-ra." `KPA/TAPBT/SKWRA H-PB HRO*ER/RA H-PB HRO*ER/RA TP-PL KR-GS`
 * swords `SOERDZ`
 * knight's `TPHAO*EUT AES`
 * rattled. `RAT/-LD TP-PL`
@@ -954,7 +954,7 @@
 * pressing `PREFG`
 * earth `*ERT`
 * fingers. `TPEURPBGS TP-PL`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
 * pricked `PREUBGD`
 * her. `HER TP-PL`
@@ -1008,7 +1008,7 @@
 * replied; `RE/PHRAOEUD STPH*FPLT`
 * "no `KR-GS TPHO`
 * knows. `TPHOEZ TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * dreadfully `TKRED/-FL/KWREU`
 * been," `PW-PB KW-BG KR-GS`
 * she. `SHE TP-PL`

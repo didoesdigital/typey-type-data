@@ -238,7 +238,7 @@
 * into `TPHAO`
 * room `RAOPL`
 * sat `SAT`
-* before `PW-F`
+* before `PW-FP`
 * "Heaven `KR-GS KPA/HEFPB`
 * preserve `PREFRB`
 * us!" `US SKHRAPL KR-GS`
@@ -267,7 +267,7 @@
 * nothing, `TPHOG KW-BG`
 * there `THR`
 * seen. `SAOEPB TP-PL`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * dear," `TKAER KW-BG KR-GS`
 * "can `KR-GS K`
 * stupid? `STAOUPD H-F`
@@ -289,7 +289,7 @@
 * while `WHAOEUL`
 * busily `PWEUZ/HREU`
 * weaving. `WEFG TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * pretty, `PREUT KW-BG`
 * exceedingly `EBGS/AOED/TKPWHREU`
 * beautiful," `PWAOUFL KW-BG KR-GS`
@@ -391,7 +391,7 @@
 * thread. `THRED TP-PL`
 * magnificent?" `PHAFPBT H-F KR-GS`
 * statesmen `STAEUTS/PHEPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * "Your `KR-GS KPA/KWROUR`
 * Majesty `KPA/PHAPBLG/STEU`
 * pattern." `PA*RPBT TP-PL KR-GS`

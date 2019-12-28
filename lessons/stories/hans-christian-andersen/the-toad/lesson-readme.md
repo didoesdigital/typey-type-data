@@ -229,7 +229,7 @@
 * kind `KEUPBD`
 * thing `THEUPBG`
 * be. `-B TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * is `S`
 * such `SUFP`
 * splendid `SPHREPBD/EUD`
@@ -587,7 +587,7 @@
 * out, `OUT KW-BG`
 * miss `PHEUS`
 * opportunity. `TAOUPBT TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * seems `SAOEPLS`
 * shine `SHAOEUPB`
 * head! `HED SKHRAPL`

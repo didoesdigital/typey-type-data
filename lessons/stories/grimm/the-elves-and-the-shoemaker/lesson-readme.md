@@ -160,7 +160,7 @@
 * found `TPOUPBD`
 * morning, `PHORPBG KW-BG`
 * as `AZ`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * on `OPB`
 * some `SOPL`
 * time: `TAOEUPL STPH-FPLT`
@@ -241,7 +241,7 @@
 * use `AOUS`
 * This `KPA/TH`
 * long `HROPBG`
-* before `PW-F`
+* before `PW-FP`
 * daybreak; `TKAEU/PWRAEBG STPH*FPLT`
 * then `THEPB`
 * bustled `PWUS/-LD`

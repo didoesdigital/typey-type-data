@@ -275,7 +275,7 @@
 * smell `SPHEL`
 * here,' `HAOER KW-BG AE`
 * them." `THEPL TP-PL KR-GS`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * capital," `KAPLT KW-BG KR-GS`
 * clapping `KHRAP/-G`
 * hands. `HAPBDZ TP-PL`
@@ -539,7 +539,7 @@
 * help `HEP`
 * thinking `THEUG`
 * her. `HER TP-PL`
-* before `PW-F`
+* before `PW-FP`
 * herself, `H*ERS KW-BG`
 * mother's `PHOER/AES`
 * grew, `TKPWRAOU KW-BG`
@@ -599,7 +599,7 @@
 * heard `HAERD`
 * "Now `KR-GS KPA/TPHOU`
 * thought, `THAUT KW-BG`
-* "oh `KR-GS O*E`
+* "oh `KR-GS O*ERBGS`
 * them," `THEPL KW-BG KR-GS`
 * dare `TKAEUR`
 * move `PHOF`
@@ -619,7 +619,7 @@
 * longer. `HRORPBG TP-PL`
 * crept `KREPT`
 * room. `RAOPL TP-PL`
-* Oh `KPA/O*E`
+* Oh `KPA/O*ERBGS`
 * splendid `SPHREPBD/EUD`
 * sight `SAOEUT`
 * sure! `SHUR SKHRAPL`
@@ -892,7 +892,7 @@
 * lay, `HRAEU KW-BG`
 * faded; `TPAEUD/-D STPH*FPLT`
 * day `TKAEU`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * her; `HER STPH*FPLT`
 * sleepy. `SHRAOE/PEU TP-PL`
 * "Do `KR-GS KPA/TKO`

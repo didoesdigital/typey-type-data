@@ -193,7 +193,7 @@
 * stage. `STAEUPBLG TP-PL`
 * There `KPA/THR`
 * stands `STAPBDZ`
-* before `PW-F`
+* before `PW-FP`
 * them, `THEPL KW-BG`
 * towering `TOURG`
 * high `HAOEU`

@@ -11,14 +11,14 @@
 * wanted `WAPBTD`
 * to `TO`
 * marry `PHAER`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * but `PWUT`
 * she `SHE`
 * would `WO`
 * have `SR`
 * be `-B`
 * real `RAEL`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * He `KPA/HE`
 * travelled `TRAFLD/A*U`
 * all `AUL`
@@ -86,7 +86,7 @@
 * open `OEP`
 * it. `T TP-PL`
 * It `KPA/T`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * standing `STAPBG`
 * front `TPROPBT`
 * of `-F`
@@ -147,7 +147,7 @@
 * asked `SK-D`
 * how `HOU`
 * slept. `SHREPD TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * badly!" `PWAD/HREU SKHRAPL KR-GS`
 * she. `SHE TP-PL`
 * "I `KR-GS EU`

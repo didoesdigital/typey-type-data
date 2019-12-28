@@ -53,7 +53,7 @@
 * book `PWAOBG`
 * remained `RE/PHAEUPBD`
 * open `OEP`
-* before `PW-F`
+* before `PW-FP`
 * her, `HER KW-BG`
 * read `RAED`
 * another `TPHOER`
@@ -471,7 +471,7 @@
 * trouble." `TRUBL TP-PL KR-GS`
 * tears, `TAERS KW-BG`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
-* "Oh `KR-GS KPA/O*E`
+* "Oh `KR-GS KPA/O*ERBGS`
 * how `HOU`
 * imagine `PHAPBLG`
 * mercy `PHER/SEU`
@@ -502,7 +502,7 @@
 * explain `SPHRAEUPB`
 * mercy, `PHER/SEU KW-BG`
 * God-like. `TKPWO*D H-PB HRAOEUBG TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * may `PHAE`
 * hear `HAER`
 * die `TKAOEU`

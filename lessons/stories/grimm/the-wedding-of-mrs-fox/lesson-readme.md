@@ -159,7 +159,7 @@
 * Fox, `KPA/TPOBGS KW-BG`
 * are `R`
 * inside?' `TPH-DZ H-F AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * yes, `KWRE KW-BG`
 * cat,' `KAT KW-BG AE`
 * cried. `KRAOEUD TP-PL`

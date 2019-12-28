@@ -50,7 +50,7 @@
 * which `WEU`
 * had `H`
 * place `PHRAEUS`
-* before `PW-F`
+* before `PW-FP`
 * them. `THEPL TP-PL`
 * When `KPA/WHEPB`
 * they `THE`

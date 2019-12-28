@@ -213,7 +213,7 @@
 * outside `OUDZ`
 * bird-cage, `PWEURD H-PB KAEUPBLG KW-BG`
 * sunshine. `SUPB/SHAO*EUPB TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * indeed, `TPHAOEPBD KW-BG`
 * would `WO`
 * worth `WO*RT`
@@ -619,7 +619,7 @@
 * sailor, `SAEU/HROR KW-BG`
 * start `START`
 * voyage. `SROEUPBLG TP-PL`
-* before `PW-F`
+* before `PW-FP`
 * say `SAEU`
 * farewell, `TPAER/WEL KW-BG`
 * mother `PHOER`
@@ -1286,7 +1286,7 @@
 * tree, `TRAOE KW-BG`
 * older `OERLD`
 * woman. `WOPL TP-PL`
-* Before `KPA/PW-F`
+* Before `KPA/PW-FP`
 * faded, `TPAEUD/-D KW-BG`
 * spray, `SPRAEU KW-BG`
 * planted `PHRAPBT/-D`

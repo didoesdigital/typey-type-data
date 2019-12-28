@@ -146,7 +146,7 @@
 * "I `KR-GS EU`
 * shall `SHAL`
 * win `WEUPB`
-* Princess!" `KPA/PREUPB/ES SKHRAPL KR-GS`
+* Princess!" `KPA/PREUPB/SES SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * both `PWO*T`
 * them. `THEPL TP-PL`
@@ -352,7 +352,7 @@
 * crow? `KROE H-F`
 * why, `KWR KW-BG`
 * give `TKPWEUF`
-* Princess." `KPA/PREUPB/ES TP-PL KR-GS`
+* Princess." `KPA/PREUPB/SES TP-PL KR-GS`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * so," `SO KW-BG KR-GS`
 * they; `THE STPH*FPLT`
@@ -380,7 +380,7 @@
 * missing `PHEUFG`
 * bargain; `PWARG/AEUPB STPH*FPLT`
 * also `HR-S`
-* Princess?" `KPA/PREUPB/ES H-F KR-GS`
+* Princess?" `KPA/PREUPB/SES H-F KR-GS`
 * "Most `KR-GS KPA/PHOFT`
 * certainly `SERPBL`
 * shall," `SHAL KW-BG KR-GS`
@@ -409,13 +409,13 @@
 * time?" `TAOEUPL H-F KR-GS`
 * inquired `EUPB/KWAOEURD`
 * brothers. `PWROERS TP-PL`
-* "Oh," `KR-GS KPA/O*E KW-BG KR-GS`
+* "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * hardly `HA*RLD`
 * tell `TEL`
 * you. `U TP-PL`
 * How `KPA/HOU`
 * glad `TKPWHRAD`
-* Princess `KPA/PREUPB/ES`
+* Princess `KPA/PREUPB/SES`
 * will `HR`
 * be!" `-B SKHRAPL KR-GS`
 * "Bah!" `KR-GS KPA/PWA* SKHRAPL KR-GS`
@@ -465,7 +465,7 @@
 * blows, `PWHROES KW-BG`
 * able, `ABL KW-BG`
 * merely `PHAOERL`
-* before `PW-F`
+* before `PW-FP`
 * other. `OER TP-PL`
 * inhabitants `EUPB/HABT/APBTS`
 * great `TKPWRAET`
@@ -542,7 +542,7 @@
 * first `TPEUFRT`
 * brother. `PWROER TP-PL`
 * "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
-* Princess, `KPA/PREUPB/ES KW-BG`
+* Princess, `KPA/PREUPB/SES KW-BG`
 * "my `KR-GS PHEU`
 * father `TPAER`
 * roast `ROEFT`
@@ -556,7 +556,7 @@
 * something `S-G`
 * witty. `WEUT/TEU TP-PL`
 * use!" `AOUS SKHRAPL KR-GS`
-* Princess. `KPA/PREUPB/ES TP-PL`
+* Princess. `KPA/PREUPB/SES TP-PL`
 * "Away `KR-GS KPA/A/WAEU`
 * him!" `HEUPL SKHRAPL KR-GS`
 * obliged `OE/PWHRAOEUPBLGD`
@@ -618,7 +618,7 @@
 * dish!" `TKEURB SKHRAPL KR-GS`
 * we `WE`
 * sauce?" `SAUS H-F KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * pocket," `POBGT KW-BG KR-GS`
 * Jack; `SKWRA*BG STPH*FPLT`
 * afford `AFRD`

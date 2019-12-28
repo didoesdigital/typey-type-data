@@ -26,7 +26,7 @@
 * in `TPH`
 * a `AEU`
 * faggot `TPAGT`
-* sticks, `STEUBGS KW-BG`
+* sticks, `STEUBGZ KW-BG`
 * and `SKP`
 * said `SAEUD`
 * eldest `ELD/EFT`

@@ -258,7 +258,7 @@
 * side `SAOEUD`
 * near `TPHAOER`
 * fender, `TPEPB/TKER KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * Nana `TPHA/TPHA`
 * tidy `TAOEU/TKEU`
 * room. `RAOPL TP-PL`
@@ -789,7 +789,7 @@
 * disappeared. `TKEUS/PAOERD TP-PL`
 * "Come `KR-GS KPA/KOPL`
 * me!" `PHE SKHRAPL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * back! `PWABG SKHRAPL`
 * answer, `AEPBS KW-BG`
 * fro, `TPRO KW-BG`
@@ -1061,14 +1061,14 @@
 * Rabbit," `KPA/RABT KW-BG KR-GS`
 * "don't `KW-GS/TKOEPBT`
 * am?" `APL H-F KR-GS`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * where. `W-R TP-PL`
 * Fairy," `KPA/TPAEUR/REU KW-BG KR-GS`
 * children `KHEURPB`
 * loved. `HROFD TP-PL`
 * need `TPHAOED`
 * "Wasn't `KR-GS KPA/WA/TPH* AE T*`
-* before?" `PW-F H-F KR-GS`
+* before?" `PW-FP H-F KR-GS`
 * Boy," `KPA/PWOEU KW-BG KR-GS`
 * Fairy `KPA/TPAEUR/REU`
 * "because `KR-GS PWAU`

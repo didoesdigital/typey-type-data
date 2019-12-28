@@ -689,7 +689,7 @@
 * pursued `PUR/SAOUD`
 * close, `KHROES KW-BG`
 * overtook `AUFR/TAOBG`
-* before `PW-F`
+* before `PW-FP`
 * get `TKPWET`
 * steps `STEPS`
 * porch, `POFRPB KW-BG`

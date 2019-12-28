@@ -72,7 +72,7 @@
 * water `WAUR`
 * again, `TKPWEPB KW-BG`
 * go!' `TKPW SKHRAPL AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * ho!' `HO*E SKHRAPL AE`
 * said `SAEUD`
 * man, `PHAPB KW-BG`
@@ -195,7 +195,7 @@
 * ought `OT`
 * asked `SK-D`
 * something `S-G`
-* before `PW-F`
+* before `PW-FP`
 * go; `TKPW STPH*FPLT`
 * she `SHE`
 * living `HREUFG`

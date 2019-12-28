@@ -170,7 +170,7 @@
 * see `SAOE`
 * starve `STAFRB`
 * death `TK*T`
-* before `PW-F`
+* before `PW-FP`
 * my `PHEU`
 * face; `TPAEUS STPH*FPLT`
 * am `APL`
@@ -287,7 +287,7 @@
 * cut `KUT`
 * wood, `WAOD KW-BG`
 * gather `TKPWAER`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * make `PHAEUBG`
 * faggots. `TPAGT/-S TP-PL`
 * Their `KPA/THAEUR`
@@ -499,7 +499,7 @@
 * surer `SHUR/ER`
 * carry `KAER`
 * distance `STKAPBS`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * talk `TAUBG`
 * secretly, `SKRELT KW-BG`
 * overheard `AUFR/HAERD`

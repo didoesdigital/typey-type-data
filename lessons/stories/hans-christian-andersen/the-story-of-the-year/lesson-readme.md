@@ -532,7 +532,7 @@
 * hills `HEULS`
 * did `TK`
 * glitter `TKPWHREUT`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * form `TPORPL`
 * un-wandering `*U/TPH* H-PB WAPBGD`
 * gaze `TKPWAEZ`
@@ -644,7 +644,7 @@
 * She `KPA/SHE`
 * held `HELD`
 * apron `AEUP/ROPB`
-* before `PW-F`
+* before `PW-FP`
 * her: `HER STPH-FPLT`
 * full `TPUL`
 * flowers; `TPHRO*URS STPH*FPLT`
@@ -773,7 +773,7 @@
 * plenty. `PHREPBT TP-PL`
 * cuckoo `KAO/KAO`
 * lark `HRARBG`
-* carolled, `KAEURL/-D KW-BG`
+* carolled, `KAR/OL/-D KW-BG`
 * spring. `SPREUPBG TP-PL`
 * careful `KAEUFL`
 * willows `WEUL/HROE/-S`
@@ -1196,7 +1196,7 @@
 * ice, `AOEUS KW-BG`
 * snowdrift-covered `xxx snowdrift H-PB KOFRD`
 * hill, `HEUL KW-BG`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * gazed. `TKPWAEZ/-D TP-PL`
 * ice `AOEUS`
 * glittered, `TKPWHREUT/ERD KW-BG`

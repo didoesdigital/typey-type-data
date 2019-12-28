@@ -499,7 +499,7 @@
 * Peter, `PAOERT KW-BG`
 * John, `SKWROPB KW-BG`
 * Christian?' `KREUGS H-F AE`
-* "'Oh `KR-GS AE KPA/O*E`
+* "'Oh `KR-GS AE KPA/O*ERBGS`
 * yes; `KWRE STPH*FPLT`
 * have `SR`
 * grown `TKPWROEPB`
@@ -740,7 +740,7 @@
 * exactly `ELG`
 * those `THOZ`
 * heard `HAERD`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * just `SKWRUFT`
 * couple `KUPL`
 * done `TKOPB`
@@ -794,7 +794,7 @@
 * anemones `A/PHEPB/PHE/-S`
 * lovely `HROFL`
 * moss. `PHOS TP-PL`
-* "Oh! `KR-GS KPA/O*E SKHRAPL`
+* "Oh! `KR-GS KPA/O*ERBGS SKHRAPL`
 * fragrant `TPRAEUG/RAPBT`
 * beechwood!" `xxx beechwood SKHRAPL KR-GS`
 * "Here `KR-GS KPA/HAOER`

@@ -230,7 +230,7 @@
 * exceedingly `EBGS/AOED/TKPWHREU`
 * proud, `PROUD KW-BG`
 * real `RAEL`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * may `PHAE`
 * expected `KP-PTD`
 * look `HRAOBG`
@@ -269,7 +269,7 @@
 * time `TAOEUPL`
 * within; `W-PB STPH*FPLT`
 * deal. `TKAOEL TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * I `EU`
 * them," `THEPL KW-BG KR-GS`
 * thought `THAUT`

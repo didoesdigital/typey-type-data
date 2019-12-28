@@ -14,7 +14,7 @@
 * 'Behave `AE KPA/PWAEUF`
 * well, `WEL KW-BG`
 * Hans.' `HAPBS TP-PL AE`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * I'll `AOEUL`
 * behave `PWAEUF`
 * well. `WEL TP-PL`
@@ -50,7 +50,7 @@
 * says: `SEZ STPH-FPLT`
 * takes `TAEUBGS`
 * the `-T`
-* sticks `STEUBGS`
+* sticks `STEUBGZ`
 * it `T`
 * into `TPHAO`
 * hay-cart, `HA*EU H-PB KART KW-BG`

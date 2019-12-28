@@ -477,7 +477,7 @@
 * slender, `SHRERPBD KW-BG`
 * finer `TPAOEURPB`
 * than `THAPB`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * "Here `KR-GS KPA/HAOER`
 * comes `KOPLS`
 * an `APB`

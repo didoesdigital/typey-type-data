@@ -32,7 +32,7 @@
 * as `AZ`
 * many `PHAEPB`
 * can, `K KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * squirrel `SKWEURL`
 * takes `TAEUBGS`
 * them `THEPL`
@@ -379,7 +379,7 @@
 * sulkily `xxx sulkily`
 * chair; `KHAEUR STPH*FPLT`
 * but, `PWUT KW-BG`
-* oh `O*E`
+* oh `O*ERBGS`
 * dear! `TKAER SKHRAPL`
 * him; `HEUPL STPH*FPLT`
 * time `TAOEUPL`
@@ -391,7 +391,7 @@
 * passion, `PAGS KW-BG`
 * suspecting `SUS/PEBGT/-G`
 * company `K-P`
-* before, `PW-F KW-BG`
+* before, `PW-FP KW-BG`
 * look `HRAOBG`
 * after `AF`
 * them, `THEPL KW-BG`

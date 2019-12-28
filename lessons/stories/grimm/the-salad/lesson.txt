@@ -621,7 +621,7 @@ The Salad
 'was': WAS
 'not': TPHOT
 'long': HROPBG
-'before': PW-F
+'before': PW-FP
 'he': HE
 'was': WAS
 'so': SO
@@ -1232,7 +1232,7 @@ The Salad
 'worse': WORS
 'off': OF
 'than': THAPB
-'before;': PW-F STPH*FPLT
+'before;': PW-FP STPH*FPLT
 'for': TPOR
 'here': HAOER
 'I': EU
@@ -1263,7 +1263,7 @@ The Salad
 'will': HR
 'refresh': RERB
 'and': SKP
-'strengthen': STREPB/THEPB
+'strengthen': STREPBG/THEPB
 'me.'': PHE TP-PL AE
 'So': KPA/SO
 'he': HE
@@ -2104,7 +2104,7 @@ The Salad
 'upon': POPB
 'her': HER
 'knees': TPHAOEZ
-'before': PW-F
+'before': PW-FP
 'him,': HEUPL KW-BG
 'and': SKP
 'said,': SAEUD KW-BG

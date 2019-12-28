@@ -100,7 +100,7 @@
 * had `H`
 * come `KOPL`
 * about. `PW TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * is `S`
 * nothing," `TPHOG KW-BG KR-GS`
 * "That `KR-GS KPA/THA`

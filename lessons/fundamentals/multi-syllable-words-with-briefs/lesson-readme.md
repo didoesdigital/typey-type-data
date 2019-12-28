@@ -12,7 +12,7 @@
 * user `AOURS`
 * under `TPH-PB`
 * management `PH-GT`
-* before `PW-F`
+* before `PW-FP`
 * because `PWAU`
 * using `AOUFG`
 * within `W-PB`
@@ -63,7 +63,6 @@
 * inside `TPH-DZ`
 * machine `PH-PB`
 * actually `TAOULT`
-* statistics `ST-BGS`
 * airport `AEURP`
 * artist `TR-FT`
 * outside `OUDZ`
@@ -92,6 +91,7 @@
 * transportation `TR-PGS`
 * unless `TPH-LS`
 * interested `TR-D`
+* itself `*EUTS`
 * officer `OEUF`
 * respect `R-PT`
 * transport `TR-PT`
@@ -121,6 +121,7 @@
 * plastic `PHR-FBG`
 * produce `PROU`
 * expect `KP-PT`
+* manufacturers `PH-FRS`
 * criminal `KR-L`
 * opinions `P-PBS`
 * hello `H-L`
@@ -209,7 +210,6 @@
 * headquarters `H-RS`
 * transfers `TR-FRS`
 * outer `OURT`
-* Manhattan `PH-PBT`
 * somebody `S-B`
 * transferred `TR-FRD`
 * suicide `S-DZ`
@@ -247,13 +247,13 @@
 * backgrounds `PW-GDZ`
 * oval `OEFL`
 * envelope `TPH-FL`
-* boulevard `PW-FD`
+* boulevard `PWHR-D`
 * plaintiff `PHR-F`
 * consist `KAO`
 * wherever `W-FR`
 * accepts `SEPS`
 * considers `K-RS`
-* viii `R-8`
+* VIII `R-8`
 * qualification `KW-FGS`
 * evident `AEFT`
 * reforms `R-FRPLS`

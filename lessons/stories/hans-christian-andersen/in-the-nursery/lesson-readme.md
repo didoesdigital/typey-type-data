@@ -516,7 +516,7 @@
 * never, `TPHEFR KW-BG`
 * Did `KPA/TK`
 * queer. `KWAOER TP-PL`
-* Oh! `KPA/O*E SKHRAPL`
+* Oh! `KPA/O*ERBGS SKHRAPL`
 * pray `PRAEU`
 * let `HRET`
 * out, `OUT KW-BG`
@@ -574,5 +574,5 @@
 * passed `PAFD`
 * away `A/WAEU`
 * interval `EUPT/SRAL`
-* before `PW-F`
+* before `PW-FP`
 * tea-time." `TAE H-PB TAOEUPL TP-PL KR-GS`

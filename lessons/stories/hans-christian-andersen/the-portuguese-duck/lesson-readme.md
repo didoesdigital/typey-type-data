@@ -371,7 +371,7 @@
 * prepare `PRAEP`
 * another `TPHOER`
 * you?" `U H-F KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * no! `TPHO SKHRAPL`
 * let `HRET`
 * dry," `TKRAOEU KW-BG KR-GS`
@@ -567,7 +567,7 @@
 * business, `PWEUS KW-BG`
 * business `PWEUS`
 * placed `PHRAEUFD`
-* before `PW-F`
+* before `PW-FP`
 * everything. `EFRG TP-PL`
 * now `TPHOU`
 * shall `SHAL`

@@ -65,7 +65,7 @@
 * place, `PHRAEUS KW-BG`
 * he `HE`
 * answered: `AEPBS/-D STPH-FPLT`
-* 'Oh, `AE KPA/O*E KW-BG`
+* 'Oh, `AE KPA/O*ERBGS KW-BG`
 * no `TPHO`
 * father, `TPAER KW-BG`
 * I'll `AOEUL`
@@ -253,7 +253,7 @@
 * secretly `SKRELT`
 * went `WEPBT`
 * there `THR`
-* before `PW-F`
+* before `PW-FP`
 * him; `HEUPL STPH*FPLT`
 * top `TOP`
 * turned `TURPBD`
@@ -603,7 +603,7 @@
 * burnt.' `PWURPBT TP-PL AE`
 * day, `TKAEU KW-BG`
 * 'Such `AE KPA/SUFP`
-* before.' `PW-F TP-PL AE`
+* before.' `PW-FP TP-PL AE`
 * likewise `HRAOEUBG/WAOEUS`
 * way, `WAEU KW-BG`
 * once `WUPBS`
@@ -772,7 +772,7 @@
 * paws.' `PAU/-S TP-PL AE`
 * stretched `STREFPD`
 * claws. `KHRAU/-S TP-PL`
-* 'Oh,' `AE KPA/O*E KW-BG AE`
+* 'Oh,' `AE KPA/O*ERBGS KW-BG AE`
 * nails `TPHAEULS`
 * have! `SR SKHRAPL`
 * Wait, `KPA/WAEUT KW-BG`

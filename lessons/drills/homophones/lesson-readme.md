@@ -442,7 +442,7 @@
 * hostile `HOFT/*L`
 * hour `HOUR`
 * idle `AOEUD/*L`
-* idol `AOEUD/OL`
+* idol `AOEU/TKOL`
 * immanent `EUPL/APB/EPBT`
 * imminent `EUPL/TPHEPBT`
 * in `TPH`
@@ -603,7 +603,7 @@
 * ore `O*ER`
 * ode `OED`
 * owed `O*ED`
-* oh `O*E`
+* oh `O*ERBGS`
 * owe `OE`
 * once `WUPBS`
 * wants `WAPBTS`
@@ -847,7 +847,7 @@
 * taper `TAEURP`
 * tapir `TA*EURP`
 * tarry `TAEUR/REU`
-* terry `T*ER/REU`
+* terry `HRO*ER/T*ER/REU`
 * taught `TAUT`
 * taut `TA*UT`
 * tea `TAE`

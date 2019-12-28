@@ -661,7 +661,7 @@ The Shadow
 'raised': RA*EUFD
 'the': -T
 'curtain': KUR/TAPB
-'before': PW-F
+'before': PW-FP
 'it,': T KW-BG
 'and': SKP
 'there': THR
@@ -1381,7 +1381,7 @@ The Shadow
 'and': SKP
 'there': THR
 'stood': STAOD
-'before': PW-F
+'before': PW-FP
 'him': HEUPL
 'a': AEU
 'man': PHAPB
@@ -1627,7 +1627,7 @@ The Shadow
 'you': U
 'once': WUPBS
 'more': PHOR
-'before': PW-F
+'before': PW-FP
 'you': U
 'die,': TKAOEU KW-BG
 'and': SKP
@@ -2170,7 +2170,7 @@ The Shadow
 'like': HRAOEUBG
 'the': -T
 'radiant': RAEUD/KWRAPBT
-'aurora': AU/ROE/RA
+'aurora': AU/ROR/RA
 'borealis,': PWOR/A*L/EUS KW-BG
 'surrounded': SROUBD/-D
 'with': W
@@ -3643,7 +3643,7 @@ The Shadow
 'them': THEPL
 'a': AEU
 'beautiful': PWAOUFL
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'whose': WHOZ
 'real': RAEL
 'disease': TK-Z
@@ -3723,7 +3723,7 @@ The Shadow
 'gentleman.': SKWRA*PL TP-PL
 'Being': KPA/-BG
 'a': AEU
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'she': SHE
 'was': WAS
 'not': TPHOT
@@ -3865,7 +3865,7 @@ The Shadow
 'this?"': TH H-F KR-GS
 'thought': THAUT
 'the': -T
-'princess;': PREUPB/ES STPH*FPLT
+'princess;': PREUPB/SES STPH*FPLT
 '"am': KR-GS APL
 'I': EU
 'really': R-L
@@ -3930,7 +3930,7 @@ The Shadow
 'the': -T
 'evening,': AOEPBG KW-BG
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'and': SKP
 'the': -T
 'shadow': SHO*EUD
@@ -3956,7 +3956,7 @@ The Shadow
 'such': SUFP
 'a': AEU
 'dancer': TKARPBS
-'before.': PW-F TP-PL
+'before.': PW-FP TP-PL
 'She': KPA/SHE
 'told': TOLD
 'him': HEUPL
@@ -4009,7 +4009,7 @@ The Shadow
 'therefore': TH-FR
 'answer': AEPBS
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'and': SKP
 'make': PHAEUBG
 'allusions': A/HRAOUGS/-S
@@ -4167,7 +4167,7 @@ The Shadow
 'that,"': THA KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'princess.': PREUPB/ES TP-PL
+'princess.': PREUPB/SES TP-PL
 '"I': KR-GS EU
 'learnt': HRERPBT/A*U
 'something': S-G
@@ -4198,7 +4198,7 @@ The Shadow
 'shadow,"': SHO*EUD KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'princess;': PREUPB/ES STPH*FPLT
+'princess;': PREUPB/SES STPH*FPLT
 '"indeed': KR-GS TPHAOEPBD
 'that': THA
 'would': WO
@@ -4297,7 +4297,7 @@ The Shadow
 'so,"': SO KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'princess.': PREUPB/ES TP-PL
+'princess.': PREUPB/SES TP-PL
 'So': KPA/SO
 'she': SHE
 'walked': WAUBGD
@@ -4383,7 +4383,7 @@ The Shadow
 'it."': T TP-PL KR-GS
 'So': KPA/SO
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'and': SKP
 'the': -T
 'shadow': SHO*EUD
@@ -4435,7 +4435,7 @@ The Shadow
 'a': AEU
 'time,': TAOEUPL KW-BG
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'returned': RURPBD
 'to': TO
 'the': -T
@@ -4560,7 +4560,7 @@ The Shadow
 'to': TO
 'marry': PHAER
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'and': SKP
 'our': OUR
 'wedding': WEGD
@@ -4597,7 +4597,7 @@ The Shadow
 'country,': KREU KW-BG
 'and': SKP
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'also.': HR-S TP-PL
 'I': EU
 'will': HR
@@ -4645,7 +4645,7 @@ The Shadow
 'straight': STRAEUT
 'to': TO
 'the': -T
-'princess,"': PREUPB/ES KW-BG KR-GS
+'princess,"': PREUPB/SES KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'learned': HRERPBD
@@ -4692,12 +4692,12 @@ The Shadow
 'tremble,"': TREPL/-BL KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'when': WHEPB
 'the': -T
 'shadow': SHO*EUD
 'appeared': A/PAOERD
-'before': PW-F
+'before': PW-FP
 'her.': HER TP-PL
 '"Has': KR-GS KPA/HAS
 'anything': TPHEUG
@@ -4769,12 +4769,12 @@ The Shadow
 'terrible,"': TERBL KW-BG KR-GS
 'cried': KRAOEUD
 'the': -T
-'princess;': PREUPB/ES STPH*FPLT
+'princess;': PREUPB/SES STPH*FPLT
 '"is': KR-GS S
 'he': HE
 'locked': HROBGD
 'up?"': UP H-F KR-GS
-'"Oh': KR-GS KPA/O*E
+'"Oh': KR-GS KPA/O*ERBGS
 'yes,': KWRE KW-BG
 'certainly;': SERPBL STPH*FPLT
 'for': TPOR
@@ -4788,7 +4788,7 @@ The Shadow
 'shadow!"': SHO*EUD SKHRAPL KR-GS
 'said': SAEUD
 'the': -T
-'princess;': PREUPB/ES STPH*FPLT
+'princess;': PREUPB/SES STPH*FPLT
 '"it': KR-GS T
 'is': S
 'very': SRE
@@ -4870,11 +4870,11 @@ The Shadow
 'character,"': KRAR KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'and': SKP
 'bowed': PWOE/-D
 'herself': H*ERS
-'before': PW-F
+'before': PW-FP
 'him.': HEUPL TP-PL
 'In': KPA/TPH
 'the': -T
@@ -4900,7 +4900,7 @@ The Shadow
 'grand': TKPWRAPBD
 'wedding.': WEGD TP-PL
 'The': KPA/-T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'and': SKP
 'the': -T
 'shadow': SHO*EUD

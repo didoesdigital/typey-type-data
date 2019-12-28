@@ -64,7 +64,7 @@
 * delicate, `TKEL/KAT KW-BG`
 * neat `TPHAOET`
 * soft `SOFT`
-* before. `PW-F TP-PL`
+* before. `PW-FP TP-PL`
 * May `PHA*EU`
 * I `EU`
 * venture `SREPBT/UR`
@@ -116,7 +116,7 @@
 * any `TPHEU`
 * encouragement `EPB/KORPLT`
 * so." `SO TP-PL KR-GS`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * is `S`
 * beautiful `PWAOUFL`
 * are," `R KW-BG KR-GS`
@@ -211,7 +211,7 @@
 * cut `KUT`
 * them `THEPL`
 * smooth. `SPHAO*T TP-PL`
-* "Oh!" `KR-GS KPA/O*E SKHRAPL KR-GS`
+* "Oh!" `KR-GS KPA/O*ERBGS SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * "what `KR-GS WHA`
 * first-rate `TPEUFRT H-PB RAEUT`

@@ -183,7 +183,7 @@
 * your `KWROUR`
 * predecessor `PRED/SES/O*R`
 * run, `RUPB KW-BG`
-* before `PW-F`
+* before `PW-FP`
 * him. `HEUPL TP-PL`
 * Away, `KPA/A/WAEU KW-BG`
 * away, `A/WAEU KW-BG`

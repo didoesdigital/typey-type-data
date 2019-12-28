@@ -65,6 +65,7 @@
 * Scott `SKOT`
 * soft `SOFT`
 * steps `STEPS`
+* tours `TORS`
 * tags `TAGZ`
 * stats `STATS`
 * tag `TAG`
@@ -159,6 +160,7 @@
 * tar `TAR`
 * rug `RUG`
 * hull `HUL`
+* what's `WHATS`
 * sorts `SORTS`
 * cop `KOP`
 * purse `PURS`

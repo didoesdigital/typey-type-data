@@ -197,7 +197,7 @@
 * attain `A/TAEUPB`
 * rank, `RA*PBG KW-BG`
 * placed `PHRAEUFD`
-* before `PW-F`
+* before `PW-FP`
 * after `AF`
 * name, `TPHAEUPL KW-BG`
 * build `PWEULD`
@@ -856,7 +856,7 @@
 * hear `HAER`
 * me, `PHE KW-BG`
 * power. `POUR TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * safe `SAEUF`
 * land! `HRAPBD SKHRAPL`
 * thought, `THAUT KW-BG`

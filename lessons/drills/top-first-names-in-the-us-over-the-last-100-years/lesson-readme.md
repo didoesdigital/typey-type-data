@@ -53,7 +53,7 @@
 * Maria `PHA/REU/KWRA`
 * Heather `KPA/H*ET/*ER`
 * Diane `TKAOEU/A*PB`
-* Julie `SKWRAOU/HRAOE`
+* Julie `SKWRAOUL/AO*E`
 * Joyce `SKWROEUS`
 * Evelyn `EF/HREUPB`
 * Joan `SKWROEPB`

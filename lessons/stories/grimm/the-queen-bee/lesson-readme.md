@@ -287,12 +287,12 @@
 * five `TPEUF`
 * ants; `A*PBT/-S STPH*FPLT`
 * long `HROPBG`
-* before `PW-F`
+* before `PW-FP`
 * laid `HRAEUD`
 * heap. `HAOEP TP-PL`
 * 'The `AE KPA/-T`
 * key `KAOE`
-* princess's `PREUPB/ES AES`
+* princess's `PREUPB/SES AES`
 * bed-chamber `PWED H-PB KHAEURPL`
 * fished `TPEURBD`
 * up `UP`

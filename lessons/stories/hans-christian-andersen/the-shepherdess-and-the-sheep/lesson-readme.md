@@ -368,7 +368,7 @@
 * A `KPA/AEU`
 * comedy `KOPL/TKEU`
 * performed `PORPLD`
-* queens `KWAOEPBS`
+* queens `HRO*ER/KWAOEPBS`
 * diamonds, `TKAOEUPLDZ KW-BG`
 * clubs, `KHRUBS KW-BG`
 * hearts, `HARTS KW-BG`
@@ -552,7 +552,7 @@
 * much," `PHUFP KW-BG KR-GS`
 * said; `SAEUD STPH*FPLT`
 * large. `HRARPBLG TP-PL`
-* Oh, `KPA/O*E KW-BG`
+* Oh, `KPA/O*ERBGS KW-BG`
 * wish `WEURB`
 * safe `SAEUF`
 * again, `TKPWEPB KW-BG`

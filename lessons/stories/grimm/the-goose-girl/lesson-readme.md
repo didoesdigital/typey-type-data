@@ -37,7 +37,7 @@
 * too, `TAO KW-BG`
 * fond `TPOPBD`
 * the `-T`
-* princess, `PREUPB/ES KW-BG`
+* princess, `PREUPB/SES KW-BG`
 * helped `HEPD`
 * watch `WAFP`
 * over `OEFR`
@@ -98,7 +98,7 @@
 * horse `HORS`
 * journey. `SKWRURPB TP-PL`
 * Now `KPA/TPHOU`
-* princess's `PREUPB/ES AES`
+* princess's `PREUPB/SES AES`
 * fairy's `TPAEUR/REU AES`
 * gift, `TKPWEUFT KW-BG`
 * it `T`
@@ -132,7 +132,7 @@
 * all `AUL`
 * sorrowful `SOR/ROEFL`
 * leave `HREF`
-* princess; `PREUPB/ES STPH*FPLT`
+* princess; `PREUPB/SES STPH*FPLT`
 * put `PUT`
 * hair `HAEUR`
 * bosom, `PWUZ/OPL KW-BG`
@@ -146,7 +146,7 @@
 * along `HRAOPBG`
 * by `PWEU`
 * brook, `PWRAOBG KW-BG`
-* princess `PREUPB/ES`
+* princess `PREUPB/SES`
 * began `TKPWAPB`
 * feel `TPAOEL`
 * thirsty: `THEURS/TEU STPH-FPLT`
@@ -239,7 +239,7 @@
 * more `PHOR`
 * haughtily `HAUT/HREU`
 * than `THAPB`
-* before: `PW-F STPH-FPLT`
+* before: `PW-FP STPH-FPLT`
 * 'Drink `AE KPA/TKREU`
 * will, `HR KW-BG`
 * waiting-maid.' `WAEUGT H-PB PHAEUD TP-PL AE`
@@ -396,7 +396,7 @@
 * should `SHO`
 * or `OR`
 * speak, `SPAOEBG KW-BG`
-* princess. `PREUPB/ES TP-PL`
+* princess. `PREUPB/SES TP-PL`
 * She `KPA/SHE`
 * carried `KAERD`
 * point, `POEUPBT KW-BG`
@@ -500,7 +500,7 @@
 * until `TPH-L`
 * homewards. `HOEPL/WARDZ TP-PL`
 * comb `KOEPL`
-* before; `PW-F STPH*FPLT`
+* before; `PW-FP STPH*FPLT`
 * wanted `WAPBTD`
 * hold `HOLD`
 * quickly: `KWEULG STPH-FPLT`

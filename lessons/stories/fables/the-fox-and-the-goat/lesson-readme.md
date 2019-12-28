@@ -30,7 +30,7 @@
 * doing `TK*G`
 * down `TKOUPB`
 * there. `THR TP-PL`
-* "Oh, `KR-GS KPA/O*E KW-BG`
+* "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * have `SR`
 * you `U`
 * heard?" `HAERD H-F KR-GS`

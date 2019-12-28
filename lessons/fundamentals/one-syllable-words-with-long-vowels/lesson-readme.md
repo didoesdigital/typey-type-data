@@ -49,7 +49,6 @@
 * wild `WAOEULD`
 * wait `WAEUT`
 * rose `ROEZ`
-* tours `TORS`
 * codes `KOEDZ`
 * tried `TRAOEUD`
 * stated `STAEUTD`
@@ -148,6 +147,7 @@
 * highs `HAOEUS`
 * tubes `TAOUBS`
 * priest `PRAOEFT`
+* rows `ROES`
 * cube `KAOUB`
 * spice `SPAOEUS`
 * tier `TAOER`

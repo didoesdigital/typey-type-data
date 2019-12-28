@@ -14,7 +14,7 @@ Lily and the Lion
 'a': AEU
 'journey;': SKWRURPB STPH*FPLT
 'but': PWUT
-'before': PW-F
+'before': PW-FP
 'he': HE
 'went': WEPBT
 'he': HE
@@ -960,7 +960,7 @@ Lily and the Lion
 'with': W
 'the': -T
 'torches': TOR/-FPS
-'before': PW-F
+'before': PW-FP
 'the': -T
 'hall,': HAUL KW-BG
 'a': AEU
@@ -1393,7 +1393,7 @@ Lily and the Lion
 'is': S
 'an': APB
 'enchanted': EPB/HAPBT/-D
-'princess,': PREUPB/ES KW-BG
+'princess,': PREUPB/SES KW-BG
 'who': WHO
 'seeks': SAOEBGS
 'to': TO
@@ -1467,7 +1467,7 @@ Lily and the Lion
 'wilt': WEULT
 'see': SAOE
 'a': AEU
-'griffin,': TKPWREUFPB KW-BG
+'griffin,': HRO*ER/TKPWREUFPB KW-BG
 'winged': WEUPBGD
 'like': HRAOEUBG
 'bird,': PWEURD KW-BG
@@ -1533,7 +1533,7 @@ Lily and the Lion
 'on': OPB
 'which': WEU
 'the': -T
-'griffin': TKPWREUFPB
+'griffin': HRO*ER/TKPWREUFPB
 'will': HR
 'be': -B
 'able': ABL
@@ -1606,14 +1606,14 @@ Lily and the Lion
 'the': -T
 'dragon': TKRAG/O*PB
 'a': AEU
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'again.': TKPWEPB TP-PL
 'But': KPA/PWUT
 'no': TPHO
 'sooner': SAORPB
 'was': WAS
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'released': RE/HRAOEFD
 'from': TPR
 'the': -T
@@ -1631,7 +1631,7 @@ Lily and the Lion
 'on': OPB
 'to': TO
 'the': -T
-'griffin's': TKPWREUFPB AES
+'griffin's': HRO*ER/TKPWREUFPB AES
 'back,': PWABG KW-BG
 'and': SKP
 'went': WEPBT
@@ -1698,7 +1698,7 @@ Lily and the Lion
 'castle': KAFL
 'whither': WHEU/THER
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'had': H
 'carried': KAERD
 'the': -T
@@ -1799,7 +1799,7 @@ Lily and the Lion
 'and': SKP
 'blood.'': PWHRAOD TP-PL AE
 'The': KPA/-T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'asked': SK-D
 'what': WHA
 'she': SHE
@@ -1828,7 +1828,7 @@ Lily and the Lion
 'At': KPA/AT
 'last': HRAFT
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'agreed,': TKPWRAED KW-BG
 'but': PWUT
 'she': SHE
@@ -2037,7 +2037,7 @@ Lily and the Lion
 'and': SKP
 'drove': TKROEF
 'them': THEPL
-'before': PW-F
+'before': PW-FP
 'her,': HER KW-BG
 'till': TEUL
 'the': -T
@@ -2096,13 +2096,13 @@ Lily and the Lion
 'brood.'': PWRAO*D TP-PL AE
 'Then': KPA/THEPB
 'the': -T
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'thought': THAUT
 'to': TO
 'betray': PWE/TRAEU
 'her': HER
 'as': AZ
-'before,': PW-F KW-BG
+'before,': PW-FP KW-BG
 'and': SKP
 'agreed': TKPWRAED
 'to': TO
@@ -2222,7 +2222,7 @@ Lily and the Lion
 'for': TPOR
 'the': -T
 'strange': STRAEUPBG
-'princess': PREUPB/ES
+'princess': PREUPB/SES
 'had': H
 'thrown': THROEPB
 'a': AEU
@@ -2263,7 +2263,7 @@ Lily and the Lion
 'themselves': TH*EPLS
 'on': OPB
 'the': -T
-'griffin,': TKPWREUFPB KW-BG
+'griffin,': HRO*ER/TKPWREUFPB KW-BG
 'who': WHO
 'flew': TPHRAOU
 'back': PWABG
@@ -2297,7 +2297,7 @@ Lily and the Lion
 'sea,': SAE KW-BG
 'whereon': WROPB
 'the': -T
-'griffin': TKPWREUFPB
+'griffin': HRO*ER/TKPWREUFPB
 'rested': REFT/-D
 'for': TPOR
 'a': AEU
