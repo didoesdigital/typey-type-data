@@ -8,14 +8,14 @@ This project is the result of automated scripts that transform Typey Type’s [s
 
 ## Issues
 
-You can explore or create [issues](https://github.com/didoesdigital/issues) to track ideas, enhancements, or bugs. Use issues to track:
+You can explore or create [issues](https://github.com/didoesdigital/typey-type-data/issues) to track ideas, enhancements, or bugs. Use issues to track:
 
 - Missing documentation
 - Ideas for lessons, dictionaries, and recommendations
 - Inaccurate data
 - Feedback about how you learn stenography
 
-Before creating an issue, search existing [issues](https://github.com/didoesdigital/issues) to see if any relevant issues already exist.
+Before creating an issue, search existing [issues](https://github.com/didoesdigital/typey-type-data/issues) to see if any relevant issues already exist.
 
 You can also add lessons directly to the community’s lessons spreadsheet. See [Typey Type lessons](https://didoesdigital.com/typey-type/lessons) to learn more.
 
