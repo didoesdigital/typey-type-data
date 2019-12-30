@@ -8827,7 +8827,7 @@
 * Newfoundland `TPHU/TPUPB/HRAPBD`
 * Sn `S*P/TPH*`
 * QLD `KW*P/HR*P/TK*P`
-* pas `PA/-S`
+* pas `P*/A*/S*`
 * clearing `KHRAOERG`
 * investigated `SREGTD`
 * dk `TK*/K*`
@@ -9841,7 +9841,7 @@
 * evanescence `*EF/TPHES/EPBS`
 * subtle `SUBLT`
 * coordinated `KWORD/TPHAEUT/-D`
-* notre `TPHOET/RE`
+* Notre Dame `TPHORT/TKAPL`
 * shipments `SHEUPLTS`
 * Maldives `PHAL/TKAO*EUFZ`
 * stripes `STRAOEUPS`

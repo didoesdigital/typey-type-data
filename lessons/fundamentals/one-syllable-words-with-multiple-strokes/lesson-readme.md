@@ -48,7 +48,6 @@
 * gays `TKPWAEU/-S`
 * charms `KHARPL/-S`
 * buses `PWUS/-S`
-* pas `PA/-S`
 * coated `KOET/-D`
 * sas `SA/-S`
 * mods `PHOD/-S`
@@ -65,7 +64,6 @@
 * oaks `OEBG/-S`
 * wan `WAPB/WAPB`
 * nested `TPHEFT/-D`
-* notre `TPHOET/RE`
 * seized `SAOEZ/-D`
 * ceased `SAOES/-D`
 * wounded `WOUPBD/-D`
@@ -124,7 +122,6 @@
 * bows `PWOE/-S`
 * pierced `PAOERS/-D`
 * reigned `RAEPB/-D`
-* quitted `KWEUT/-D`
 * vexed `SREBGS/-D`
 * pleaded `PHRAOED/-D`
 * robes `ROEB/-S`

@@ -1419,7 +1419,7 @@
 * thee `THAOE`
 * Satan!" `SAT/APB SKHRAPL KR-GS`
 * monk; `PHO*PBG STPH*FPLT`
-* quitted `KWEUT/-D`
+* quitted `KW*/*U/*EU/T*/T*/*E/TK*`
 * "There `KR-GS KPA/THR`
 * devil, `TKEFL KW-BG`
 * personal `PERPBL`
@@ -1452,7 +1452,7 @@
 * consolation? `KOPBS/HRAEUGS H-F`
 * Supposing `KPA/SPOEFG`
 * were, `WR KW-BG`
-* quitted, `KWEUT/-D KW-BG`
+* quitted, `KW*/*U/*EU/T*/T*/*E/TK* KW-BG`
 * only `OEPBL`
 * fancy, `TPAPB/SEU KW-BG`
 * clouds, `KHROUDZ KW-BG`

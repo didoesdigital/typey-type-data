@@ -5263,7 +5263,7 @@
 * perception `PERPGS`
 * buffalo `PWUF/HROE`
 * sire `SAOEUR`
-* quitted `KWEUT/-D`
+* quitted `KW*/*U/*EU/T*/T*/*E/TK*`
 * keys `KAOES`
 * develop `SREL`
 * function `TPUBGS`

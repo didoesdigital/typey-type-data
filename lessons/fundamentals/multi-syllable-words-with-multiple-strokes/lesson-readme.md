@@ -2844,6 +2844,7 @@
 * webcast `WEB/KAFT`
 * Michel `PHEU/KHEL`
 * coordinated `KWORD/TPHAEUT/-D`
+* Notre Dame `TPHORT/TKAPL`
 * firmware `TPEURPL/WAEUR`
 * Antarctica `APBT/ART/KA`
 * shepherd `SHEP/ERD`
