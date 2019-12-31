@@ -1,16 +1,13 @@
 # One-syllable words with F as V or S
 
+* rest `REFT`
+* past `PAFT`
 * west `WEFT`
 * cost `KOFT`
-* test `TEFT`
-* past `PAFT`
-* costs `KOFTS`
-* trust `TRUFT`
-* rest `REFT`
-* tests `TEFTS`
 * cast `KAFT`
+* trust `TRUFT`
 * prove `PROF`
-* pest `PEFT`
-* trusts `TRUFTS`
+* costs `KOFTS`
+* test `TEFT`
 * stove `STOF`
 * rests `REFTS`

@@ -5,7 +5,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/introduction/lesson.txt",
-    "wordCount": 68,
+    "wordCount": 52,
     "overview": "/fundamentals/introduction/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-simple-keys/lesson.txt"
   },
@@ -15,7 +15,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
-    "wordCount": 209,
+    "wordCount": 163,
     "overview": "/fundamentals/one-syllable-words-with-simple-keys/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-more-consonants/lesson.txt"
   },
@@ -25,7 +25,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-more-consonants/lesson.txt",
-    "wordCount": 119,
+    "wordCount": 97,
     "overview": "/fundamentals/one-syllable-words-with-more-consonants/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt"
   },
@@ -35,7 +35,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
-    "wordCount": 14,
+    "wordCount": 11,
     "overview": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt"
   },
@@ -45,7 +45,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt",
-    "wordCount": 38,
+    "wordCount": 32,
     "overview": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-inversion/lesson.txt"
   },
@@ -55,7 +55,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-inversion/lesson.txt",
-    "wordCount": 6,
+    "wordCount": 5,
     "overview": "/fundamentals/one-syllable-words-with-inversion/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt"
   },
@@ -65,7 +65,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
-    "wordCount": 41,
+    "wordCount": 30,
     "overview": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt"
   },
@@ -75,7 +75,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
-    "wordCount": 220,
+    "wordCount": 177,
     "overview": "/fundamentals/one-syllable-words-with-short-vowels/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt"
   },
@@ -85,7 +85,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
-    "wordCount": 244,
+    "wordCount": 217,
     "overview": "/fundamentals/one-syllable-words-with-long-vowels/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt"
   },
@@ -95,7 +95,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
-    "wordCount": 44,
+    "wordCount": 41,
     "overview": "/fundamentals/one-syllable-words-with-diphthongs/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt"
   },
@@ -105,7 +105,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
-    "wordCount": 52,
+    "wordCount": 49,
     "overview": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt"
   },
@@ -115,7 +115,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
-    "wordCount": 783,
+    "wordCount": 639,
     "overview": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt"
   },
@@ -125,7 +125,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
-    "wordCount": 429,
+    "wordCount": 355,
     "overview": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt"
   },
@@ -135,7 +135,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
-    "wordCount": 325,
+    "wordCount": 273,
     "overview": "/fundamentals/one-syllable-words-with-digraphs/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt"
   },
@@ -145,7 +145,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
-    "wordCount": 118,
+    "wordCount": 97,
     "overview": "/fundamentals/one-syllable-words-with-compound-clusters/lesson-overview.html",
     "suggestedNext": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt"
   },
@@ -155,7 +155,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
-    "wordCount": 199,
+    "wordCount": 156,
     "overview": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson-overview.html",
     "suggestedNext": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt"
   },
@@ -165,7 +165,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
-    "wordCount": 434,
+    "wordCount": 346,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-inversion/lesson.txt"
   },
   {
@@ -174,7 +174,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
-    "wordCount": 162,
+    "wordCount": 120,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt"
   },
   {
@@ -183,7 +183,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
-    "wordCount": 339,
+    "wordCount": 286,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt"
   },
   {
@@ -192,7 +192,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
-    "wordCount": 1179,
+    "wordCount": 904,
     "overview": "/fundamentals/multi-syllable-words-with-prefixes/lesson-overview.html",
     "suggestedNext": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
   },
@@ -202,7 +202,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
-    "wordCount": 1957,
+    "wordCount": 1356,
     "overview": "/fundamentals/multi-syllable-words-with-suffixes/lesson-overview.html",
     "suggestedNext": "/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt"
   },
@@ -212,7 +212,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
-    "wordCount": 1625,
+    "wordCount": 1201,
     "suggestedNext": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt"
   },
   {
@@ -221,7 +221,7 @@
     "category": "Fundamentals",
     "subcategory": "",
     "path": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
-    "wordCount": 5208,
+    "wordCount": 3437,
     "suggestedNext": "/fundamentals/fingerspelling/lesson.txt"
   },
   {
@@ -297,15 +297,6 @@
     "category": "Drills",
     "subcategory": "",
     "path": "/drills/top-10000-project-gutenberg-words/lesson.txt",
-    "wordCount": 10000,
-    "suggestedNext": "/drills/top-10000-english-words/lesson.txt"
-  },
-  {
-    "title": "Top 10000 English words",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/top-10000-english-words/lesson.txt",
     "wordCount": 10000,
     "suggestedNext": "/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt"
   },

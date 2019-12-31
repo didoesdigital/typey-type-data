@@ -762,7 +762,7 @@
 * rote `ROET`
 * wrote `WRO`
 * rude `RAOUD`
-* rued `R*/*U/-D`
+* rued `RAO/-D`
 * rues `RAO/-S`
 * ruse `RAOUZ`
 * rung `RUPBG`
