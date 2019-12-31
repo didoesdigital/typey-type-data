@@ -381,7 +381,7 @@
 * phrase `TPRAEZ`
 * leaf `HRAOEF`
 * fault `TPAULT`
-* fluid `THRAOUD`
+* fluid `TPHRAOUD`
 * fits `TPEUTS`
 * meal `PHAOEL`
 * slip `SHREUP`
@@ -391,7 +391,6 @@
 * loves `HRUFS`
 * loose `HRAOS`
 * slots `SHROTS`
-* lenses `HREBSZ`
 * dropped `TKROPD`
 * feels `TPAOELS`
 * doll `TKOL`

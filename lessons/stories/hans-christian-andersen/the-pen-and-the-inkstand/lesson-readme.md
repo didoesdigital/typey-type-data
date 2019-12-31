@@ -146,7 +146,7 @@
 * means. `PHAOEPBS TP-PL`
 * You `KPA/U`
 * give `TKPWEUF`
-* fluid `THRAOUD`
+* fluid `TPHRAOUD`
 * may `PHAE`
 * place `PHRAEUS`
 * upon `POPB`
