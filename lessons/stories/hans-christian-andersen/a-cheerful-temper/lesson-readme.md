@@ -216,7 +216,7 @@
 * charities, `KHAEURT/KWREU/-S KW-BG`
 * innocent `TPH-PBT`
 * verses! `SRERSZ SKHRAPL`
-* Persons `KPA/PERPBZ`
+* Persons `KPA/PERPBS`
 * seeking `SAOEBG/-G`
 * interviews `EUPBT/SRAOUS`
 * engagements, `EPB/TKPWAEUPBLG/-PLTS KW-BG`

@@ -400,7 +400,7 @@
 * 'You `AE KPA/U`
 * naughty `TPHAU/TEU`
 * why `KWR`
-* slept `SHREPD`
+* slept `SHREPT`
 * forest?--we `TPOEFRT H-F H-PB H-PB WE`
 * never `TPHEFR`
 * coming `KO*G`

@@ -47,7 +47,7 @@
 * increase `EUPB/KRAOES`
 * remove `RE/PHOF`
 * addressed `A/TKREFD`
-* release `RE/HRAOEZ`
+* release `RE/HRAOES`
 * ahead `A/HED`
 * arose `A/ROES`
 * provisions `PRO/SREUGS/-S`

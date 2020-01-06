@@ -4,7 +4,7 @@
 * the `-T`
 * Garden `KPA/TKPWA*RPB`
 * of `-F`
-* Paradise, `KPA/PAR/TKAOEUZ KW-BG`
+* Paradise, `KPA/PAR/TKAOEUS KW-BG`
 * beneath `TPHAO*ET`
 * Tree `KPA/TRAOE`
 * Knowledge, `KPA/TPHOPBLG KW-BG`
@@ -237,7 +237,7 @@
 * who `WHO`
 * tinsel `TEUPB/SEL`
 * wings. `WEUPBGS TP-PL`
-* Paradise—renewed `KPA/PAR/TKAOEUZ EPL/TKA*RB RE/TPHAOUD`
+* Paradise—renewed `KPA/PAR/TKAOEUS EPL/TKA*RB RE/TPHAOUD`
 * century—born `KROEURPBT EPL/TKA*RB PWORPB`
 * flame, `TPHRAEUPL KW-BG`
 * ending `EPBGD`

@@ -888,7 +888,7 @@
 * rode `ROED`
 * wood. `WAOD TP-PL`
 * By `KPA/PWEU`
-* sunrise `SUPB/RAOEUZ`
+* sunrise `SUPB/RAOEUS`
 * inn, `TPH*PB KW-BG`
 * stopped `STOPD`
 * landlord `HR-LD`

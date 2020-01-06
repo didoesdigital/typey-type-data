@@ -394,7 +394,7 @@
 * make `PHAEUBG`
 * sleep `SHRAOEP`
 * well, `WEL KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * it. `T TP-PL`
 * But `KPA/PWUT`
 * did `TK`

@@ -794,7 +794,7 @@
 * lighted `HRAOEUT/-D`
 * roasted `ROEFT/-D`
 * roots `RAOTS`
-* slept `SHREPD`
+* slept `SHREPT`
 * among `PHOPBG`
 * bushes, `PWURBS KW-BG`
 * without `WOUT`
@@ -894,7 +894,7 @@
 * youth. `KWRAO*UT TP-PL`
 * wolf-skins `WOFL H-PB SKEUPBS`
 * bed `PWED`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * wolves `WOFLS`
 * shot. `SHOT TP-PL`
 * Years `KPA/KWRAOERS`

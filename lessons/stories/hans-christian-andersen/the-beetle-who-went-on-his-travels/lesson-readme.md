@@ -780,7 +780,7 @@
 * journeying `SKWRURPB/EUG`
 * side. `SAOEUD TP-PL`
 * two `TWO`
-* persons `PERPBZ`
+* persons `PERPBS`
 * took `TAOBG`
 * turned `TURPBD`
 * over, `OEFR KW-BG`

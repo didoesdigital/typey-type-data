@@ -645,7 +645,7 @@
 * Year `KPA/KWRAOER`
 * miss `PHEUS`
 * certain `SERPB`
-* persons `PERPBZ`
+* persons `PERPBS`
 * used `AOUFD`
 * am `APL`
 * sure `SHUR`
@@ -884,7 +884,7 @@
 * second `SEBGD`
 * glass—from `TKPWHRAS EPL/TKA*RB TPR`
 * bird `PWEURD`
-* soars `SAORZ`
+* soars `SAORS`
 * upward, `AUP/WARBD KW-BG`
 * twittering `HRO*ER/TWEUT/*ERG`
 * guileless `TKPWAOEUL/-LS`

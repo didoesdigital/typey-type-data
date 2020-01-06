@@ -617,7 +617,7 @@
 * truth `TRAO*UT`
 * it," `T KW-BG KR-GS`
 * painter, `PA*EURPBT KW-BG`
-* Paradise, `KPA/PAR/TKAOEUZ KW-BG`
+* Paradise, `KPA/PAR/TKAOEUS KW-BG`
 * staircase `STAEUR/KAEUS`
 * painted, `PAEUPBTD KW-BG`
 * mount. `PHOUPBT TP-PL`
@@ -638,7 +638,7 @@
 * fellow `TPO*EUL`
 * obliged `OE/PWHRAOEUPBLGD`
 * cockcrow, `xxx cockcrow KW-BG`
-* Paradise. `KPA/PAR/TKAOEUZ TP-PL`
+* Paradise. `KPA/PAR/TKAOEUS TP-PL`
 * Let `KPA/HRET`
 * himself; `H*EUPLS STPH*FPLT`
 * performers, `PORPL/*ER/-S KW-BG`
@@ -810,7 +810,7 @@
 * half `HAF`
 * guilder `TKPWEULD/*ER`
 * that, `THA KW-BG`
-* whereas `WRAZ`
+* whereas `WRAS`
 * paid `PAEUD`
 * guilder; `TKPWEULD/*ER STPH*FPLT`
 * walk `WAUBG`

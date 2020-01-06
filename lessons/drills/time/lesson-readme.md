@@ -47,7 +47,7 @@
 * soon `SAOPB`
 * spring `SPREUPBG`
 * summer `SAOURPL`
-* sunrise `SUPB/RAOEUZ`
+* sunrise `SUPB/RAOEUS`
 * sunset `SAUPB/SET`
 * then `THEPB`
 * time `TAOEUPL`

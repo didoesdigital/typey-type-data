@@ -93,7 +93,7 @@
 * houses; `HO*UFS STPH*FPLT`
 * when `WHEPB`
 * two `TWO`
-* persons `PERPBZ`
+* persons `PERPBS`
 * met `PHET`
 * this `TH`
 * still, `STEUL KW-BG`
@@ -520,7 +520,7 @@
 * flew `TPHRAOU`
 * silence; `SHREPBS STPH*FPLT`
 * nature `TPHAEURT`
-* slept. `SHREPD TP-PL`
+* slept. `SHREPT TP-PL`
 * length `HREPBG`
 * sunbeam `SUPB/PWAOEPL`
 * glided `TKPWHRAOEUD/-D`
@@ -1236,7 +1236,7 @@
 * tree `TRAOE`
 * branch `PWRAFRPB`
 * seen; `SAOEPB STPH*FPLT`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * mists `PHEUFT/-S`
 * dreamt `TKREPLT`
 * youthful `KWRAO*UT/-FL`

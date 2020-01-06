@@ -208,7 +208,7 @@
 * could `KO`
 * hear `HAER`
 * breathing `PWRAO*EGT`
-* slept; `SHREPD STPH*FPLT`
+* slept; `SHREPT STPH*FPLT`
 * gradually `TKPWRAD/WAEL`
 * became `PWAEUPL`
 * quieter `KWAOEURT`

@@ -172,7 +172,7 @@
 * coats `KOETS`
 * strode `STROED`
 * ropes `ROEPS`
-* tries `TRAOEUZ`
+* tries `TRAOEUS`
 * steed `STAOED`
 * spaces `SPAEUFS`
 * toast `TOEFT`

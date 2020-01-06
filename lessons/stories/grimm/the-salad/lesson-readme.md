@@ -528,7 +528,7 @@
 * change `KHAEUPBG`
 * lucky `HROEUBG`
 * shape `SHAEUP`
-* slept `SHREPD`
+* slept `SHREPT`
 * weariness; `WAOER/REU/-PBS STPH*FPLT`
 * broke `PWROEBG`
 * bad `PWAD`

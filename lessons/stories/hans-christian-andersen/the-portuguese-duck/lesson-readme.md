@@ -713,7 +713,7 @@
 * corn `KORPB`
 * found, `TPOUPBD KW-BG`
 * feet; `TPAOET STPH*FPLT`
-* slept `SHREPD`
+* slept `SHREPT`
 * well, `WEL KW-BG`
 * naturally `TPHRARL`
 * bad `PWAD`

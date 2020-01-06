@@ -165,7 +165,7 @@
 * themselves `TH*EPLS`
 * when `WHEPB`
 * they `THE`
-* slept `SHREPD`
+* slept `SHREPT`
 * under `TPH-PB`
 * roofs `RAOFS`
 * snow, `STPHOE KW-BG`

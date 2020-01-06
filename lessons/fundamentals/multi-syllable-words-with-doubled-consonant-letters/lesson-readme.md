@@ -584,7 +584,7 @@
 * excessive `KPES/S*EUF`
 * annoyed `TPHOEUD`
 * corruption `KRUPGS`
-* summons `SPHUPBZ`
+* summons `SPHUPBS`
 * stillness `STEUL/-PBS`
 * irresistible `EUR/SEUFT/-BL`
 * allowance `HROUPBS`
@@ -842,7 +842,7 @@
 * swollen `SWOL/-PB`
 * stubborn `STURPB`
 * opponent `O/POEPBT`
-* Brussels `PWRUS/ELZ`
+* Brussels `PWRUS/ELS`
 * harness `HARPBS`
 * channels `KHAPBLS`
 * dreadfully `TKRED/-FL/KWREU`

@@ -10,7 +10,7 @@
 * beautiful `PWAOUFL`
 * daughters. `TKAURS TP-PL`
 * They `KPA/THE`
-* slept `SHREPD`
+* slept `SHREPT`
 * in `TPH`
 * beds `PWEDZ`
 * all `AUL`

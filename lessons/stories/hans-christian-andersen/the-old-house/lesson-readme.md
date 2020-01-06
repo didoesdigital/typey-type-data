@@ -493,7 +493,7 @@
 * trouble `TRUBL`
 * themselves `TH*EPLS`
 * about. `PW TP-PL`
-* persons `PERPBZ`
+* persons `PERPBS`
 * represent `REPT`
 * dead `TKED`
 * buried `PWUR/EUD`

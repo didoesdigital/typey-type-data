@@ -212,7 +212,7 @@
 * fast `TPAFT`
 * asleep. `A/SHRAOEP TP-PL`
 * Whilst `KPA/WHAOEULS`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * came `KAEUPL`
 * carter `HRO*ER/KA*RT/ER`
 * cart `KART`

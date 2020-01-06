@@ -313,7 +313,7 @@
 * passed, `PAFD KW-BG`
 * most `PHOFT`
 * grown-up `TKPWR*UP`
-* persons. `PERPBZ TP-PL`
+* persons. `PERPBS TP-PL`
 * There `KPA/THR`
 * splendid `SPHREPBD/EUD`
 * town, `TOUPB KW-BG`

@@ -363,7 +363,7 @@
 * court, `KORT KW-BG`
 * too; `TAO STPH*FPLT`
 * horses `HORSZ`
-* slept `SHREPD`
+* slept `SHREPT`
 * stables, `STAEUBLS KW-BG`
 * dogs `TKOGS`
 * pigeons `PEUPBLG/-PBS`

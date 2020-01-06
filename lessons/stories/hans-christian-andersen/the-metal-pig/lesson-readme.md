@@ -310,7 +310,7 @@
 * Sabines, `SAEUB/AOEUPB/-S KW-BG`
 * looked `HRAOBGD`
 * living `HREUFG`
-* persons, `PERPBZ KW-BG`
+* persons, `PERPBS KW-BG`
 * cries `KRAOEUS`
 * terror `TER/O*R`
 * sounded `SOUPBD/-D`
@@ -957,7 +957,7 @@
 * bed `PWED`
 * prepared `PRAOEPD`
 * often `OFPB`
-* slept `SHREPD`
+* slept `SHREPT`
 * hard `HARD`
 * stones `STOEPBS`
 * royal `ROEUL`

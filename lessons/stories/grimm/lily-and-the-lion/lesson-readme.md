@@ -686,7 +686,7 @@
 * dragon. `TKRAG/O*PB TP-PL`
 * Wilt `KPA/WEULT`
 * quite?' `KWAOEUT H-F AE`
-* slept `SHREPD`
+* slept `SHREPT`
 * soundly, `SOUPBD/HREU KW-BG`
 * whistling `WHEUS/-LG`
 * among `PHOPBG`

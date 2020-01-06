@@ -624,7 +624,7 @@
 * morning—correctly `PHORPBG EPL/TKA*RB KREBT/HREU`
 * speaking, `SPAOEG KW-BG`
 * noon, `TPHAOPB KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * remarkably `RARBG/PWHREU`
 * late `HRAEUT`
 * day—I `TKAEU EPL/TKA*RB EU`

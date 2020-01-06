@@ -763,7 +763,7 @@
 * concerned? `K-RPBD H-F`
 * Is `KPA/S`
 * reasonable `R-PBL`
-* persons `PERPBZ`
+* persons `PERPBS`
 * worse `WORS`
 * condition `K-PB`
 * none? `TPHOPB H-F`
@@ -850,7 +850,7 @@
 * has `HAS`
 * broad `PWRAOD`
 * back; `PWABG STPH*FPLT`
-* whereas `WRAZ`
+* whereas `WRAS`
 * till `TEUL`
 * limp `HREUFRP`
 * horribly, `HOR/PWHREU KW-BG`

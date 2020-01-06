@@ -213,7 +213,7 @@
 * For `KPA/TPOR`
 * nights `TPHAOEUTS`
 * previously `PRAOEFL`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * morning `PHORPBG`
 * twilight `TWAOEULGT`
 * this `TH`
@@ -323,7 +323,7 @@
 * persuaded `PER/SWAEUD/-D`
 * lie `HRAOEU`
 * then `THEPB`
-* slept. `SHREPD TP-PL`
+* slept. `SHREPT TP-PL`
 * One `KPA/WUPB`
 * night, `TPHAOEUT KW-BG`
 * listened, `HREUFPBD KW-BG`
@@ -714,7 +714,7 @@
 * eagerly `AOERLG`
 * returned `RURPBD`
 * home. `HOEPL TP-PL`
-* slept; `SHREPD STPH*FPLT`
+* slept; `SHREPT STPH*FPLT`
 * warm, `WARPL KW-BG`
 * devoted `TKWOETD`
 * heartfelt `HART/TPELT`

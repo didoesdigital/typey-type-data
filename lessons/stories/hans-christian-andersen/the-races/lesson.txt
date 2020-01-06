@@ -268,7 +268,7 @@ The Races
 '"and': KR-GS SKP
 'suppose': SPOS
 'I': EU
-'slept': SHREPD
+'slept': SHREPT
 'the': -T
 'whole': WHOEL
 'time,': TAOEUPL KW-BG
@@ -290,7 +290,7 @@ The Races
 '"that': KR-GS THA
 'you': U
 'have': SR
-'slept': SHREPD
+'slept': SHREPT
 'away': A/WAEU
 'half': HAF
 'your': KWROUR
@@ -1067,7 +1067,7 @@ The Races
 'earthworm,': *ERT/WORPL KW-BG
 'who': WHO
 'had': H
-'overslept': AUFR/SHREPD
+'overslept': AUFR/SHREPT
 'the': -T
 'time,': TAOEUPL KW-BG
 'and': SKP

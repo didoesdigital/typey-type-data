@@ -177,7 +177,7 @@
 * taking `TAEUG`
 * tea. `TAE TP-PL`
 * Three `KPA/THRAOE`
-* persons `PERPBZ`
+* persons `PERPBS`
 * declared `TKE/KHRAEURD`
 * gone `TKPWOPB`
 * far `TPAR`

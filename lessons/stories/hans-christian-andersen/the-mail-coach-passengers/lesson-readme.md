@@ -169,7 +169,7 @@
 * on `OPB`
 * whom `WHOPL`
 * many `PHAEPB`
-* persons `PERPBZ`
+* persons `PERPBS`
 * fix `TPEUBGS`
 * hopes. `HOEPS TP-PL`
 * Come `KPA/KOPL`

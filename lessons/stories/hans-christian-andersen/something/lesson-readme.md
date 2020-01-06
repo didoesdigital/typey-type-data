@@ -920,7 +920,7 @@
 * survive `SWAOEUF`
 * cold `KOELD`
 * fright; `TPRAOEUT STPH*FPLT`
-* paradise. `PAR/TKAOEUZ TP-PL`
+* paradise. `PAR/TKAOEUS TP-PL`
 * told `TOLD`
 * creatures `KRAOEFPS`
 * such `SUFP`

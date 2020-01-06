@@ -141,7 +141,7 @@
 * himself, `H*EUPLS KW-BG`
 * so `SO`
 * older `OERLD`
-* persons `PERPBZ`
+* persons `PERPBS`
 * than `THAPB`
 * himself `H*EUPLS`
 * declined `TKE/KHRAOEUPBD`

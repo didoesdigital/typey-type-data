@@ -540,7 +540,7 @@
 * said: `SAEUD STPH-FPLT`
 * 'Tomorrow `AE KPA/TORPL`
 * morning `PHORPBG`
-* sunrise `SUPB/RAOEUZ`
+* sunrise `SUPB/RAOEUS`
 * these `THEZ`
 * picked `PEUBGD`
 * up, `UP KW-BG`

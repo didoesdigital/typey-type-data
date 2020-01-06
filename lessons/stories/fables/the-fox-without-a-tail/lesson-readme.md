@@ -13,7 +13,7 @@
 * and `SKP`
 * struggling `STRUG/-LG`
 * to `TO`
-* release `RE/HRAOEZ`
+* release `RE/HRAOES`
 * himself `H*EUPLS`
 * lost `HRO*S`
 * all `AUL`

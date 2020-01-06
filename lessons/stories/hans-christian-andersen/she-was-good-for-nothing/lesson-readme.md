@@ -572,7 +572,7 @@
 * upon `POPB`
 * pavement. `PAEUFPLT TP-PL`
 * Many `KPA/PHAEPB`
-* persons `PERPBZ`
+* persons `PERPBS`
 * Lame `KPA/HRAEUPL`
 * ran `RAPB`
 * help. `HEP TP-PL`
@@ -634,7 +634,7 @@
 * bed, `PWED KW-BG`
 * bed `PWED`
 * lay; `HRAEU STPH*FPLT`
-* slept `SHREPD`
+* slept `SHREPT`
 * covered `KOFRD`
 * an `APB`
 * old `OLD`

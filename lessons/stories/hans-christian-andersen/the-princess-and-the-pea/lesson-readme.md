@@ -146,7 +146,7 @@
 * morning `PHORPBG`
 * asked `SK-D`
 * how `HOU`
-* slept. `SHREPD TP-PL`
+* slept. `SHREPT TP-PL`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * badly!" `PWAD/HREU SKHRAPL KR-GS`
 * she. `SHE TP-PL`

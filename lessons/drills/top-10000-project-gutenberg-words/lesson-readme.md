@@ -639,7 +639,7 @@
 * wrong `WROPBG`
 * various `SRAEURS`
 * sleep `SHRAOEP`
-* persons `PERPBZ`
+* persons `PERPBS`
 * blockquote `PWHROBG/TK-LS/KWOET`
 * happened `HAPD`
 * particular `PHRAR`
@@ -1742,7 +1742,7 @@
 * constantly `SKA*PBLT`
 * level `HREFL`
 * India `EUPBD/KWRA`
-* release `RE/HRAOEZ`
+* release `RE/HRAOES`
 * rough `RUF`
 * ended `EPBD/-D`
 * shows `SHOES`
@@ -2045,7 +2045,7 @@
 * triumph `TRAOEUFPL`
 * origin `O*RPBLG`
 * Joseph `SKWROE/SEF`
-* slept `SHREPD`
+* slept `SHREPT`
 * eternal `E/TERPBL`
 * thine `THAOEUPB`
 * audience `AUPBS`
@@ -3067,7 +3067,7 @@
 * determine `TKERPL`
 * commission `KPHEUGS`
 * merchant `PHEFRPBT`
-* whereas `WRAZ`
+* whereas `WRAS`
 * crossing `KROFG`
 * independence `P*EPBS`
 * lively `HRAOEUFL`
@@ -3361,7 +3361,7 @@
 * score `SKOR`
 * virgin `SREURPB`
 * farewell `TPAER/WEL`
-* paradise `PAR/TKAOEUZ`
+* paradise `PAR/TKAOEUS`
 * villages `SREULGS`
 * hunger `HURPBG`
 * trembled `TREPL/-BLD`
@@ -3409,7 +3409,7 @@
 * publication `PHRAEUBGS`
 * Englishman `EPBG/HREURB/PHAPB`
 * Allah `AL/HRA`
-* Jones `SKWROEPBZ`
+* Jones `SKWROEPBS`
 * hostile `HOFT/*L`
 * wandered `WAPBD/-D`
 * railway `RAEUL/WAEU`
@@ -4060,7 +4060,7 @@
 * dost `TKO/*T`
 * memories `PHOEURPLS`
 * wheat `WHAOET`
-* Japanese `SKWRAP/TPHAOEZ`
+* Japanese `SKWRAP/TPHAOES`
 * humor `HAOURPL`
 * exhibited `KPHEUBTD`
 * encounter `EPB/KOURPBT`
@@ -5313,7 +5313,7 @@
 * dated `TKAEUT/-D`
 * tumult `TUPL/ULT`
 * corruption `KRUPGS`
-* summons `SPHUPBZ`
+* summons `SPHUPBS`
 * comrade `KOPL/RAD`
 * eternity `AOE/TERPBT`
 * hears `HAERS`
@@ -6441,7 +6441,7 @@
 * confidential `K-FGS`
 * crow `KROE`
 * shawl `SHAUL`
-* sunrise `SUPB/RAOEUZ`
+* sunrise `SUPB/RAOEUS`
 * sings `SEUPBGS`
 * coats `KOETS`
 * sturdy `STUR/TKEU`
@@ -6550,7 +6550,7 @@
 * elephants `EL/TPAPBTS`
 * elders `ELD/ERS`
 * Julian `SKWRAOUL/KWRAPB`
-* tries `TRAOEUZ`
+* tries `TRAOEUS`
 * 2nd `2/*T`
 * sweetly `SWAOET/HREU`
 * endurance `EPB/TKURPBS`
@@ -7233,7 +7233,7 @@
 * hospitable `HOPT/-BL`
 * proving `PROFG`
 * benevolence `PWEPBL/SREPBS`
-* Brussels `PWRUS/ELZ`
+* Brussels `PWRUS/ELS`
 * civilisation `S*EUFLGS`
 * mounting `PHOUPBT/-G`
 * desiring `STKAOEURG`
@@ -7295,7 +7295,7 @@
 * strokes `STROEBGS`
 * sob `SOB`
 * vine `SRAOEUPB`
-* compose `KPOEZ`
+* compose `KPOES`
 * Valentine `SRAL/TAOEUPB`
 * Harvey `HAR/SREU`
 * icy `AOEU/SEU`

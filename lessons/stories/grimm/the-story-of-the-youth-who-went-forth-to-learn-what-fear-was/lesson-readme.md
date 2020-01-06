@@ -655,7 +655,7 @@
 * 'so `AE SO`
 * many `PHAEPB`
 * prying `PRAOEUG`
-* persons `PERPBZ`
+* persons `PERPBS`
 * already `HR-R`
 * lost `HRO*S`
 * lives, `HREUFS KW-BG`
@@ -852,7 +852,7 @@
 * 'Now `AE KPA/TPHOU`
 * likes, `HRAOEUBGS KW-BG`
 * drive,' `TKRAOEUF KW-BG AE`
-* slept `SHREPD`
+* slept `SHREPT`
 * In `KPA/TPH`
 * came, `KAEUPL KW-BG`
 * ground, `TKPWROUPBD KW-BG`

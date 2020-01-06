@@ -235,7 +235,7 @@
 * flat `TPHRAT`
 * gift `TKPWEUFT`
 * bold `PWOLD`
-* slept `SHREPD`
+* slept `SHREPT`
 * base `PWAEUS`
 * maid `PHAEUD`
 * feared `TPAOERD`

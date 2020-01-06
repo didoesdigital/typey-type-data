@@ -267,7 +267,7 @@
 * hollow `HOL/OE`
 * tree `TRAOE`
 * asleep: `A/SHRAOEP STPH-FPLT`
-* slept `SHREPD`
+* slept `SHREPT`
 * it `T`
 * midday. `PHEUD/TKAEU TP-PL`
 * whom `WHOPL`

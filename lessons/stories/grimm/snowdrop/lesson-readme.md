@@ -362,7 +362,7 @@
 * care `KAEUR`
 * wake `WAEUBG`
 * dwarf `TKWAFR`
-* slept `SHREPD`
+* slept `SHREPT`
 * an `APB`
 * hour `HOUR`
 * other `OER`

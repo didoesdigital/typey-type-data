@@ -1121,7 +1121,7 @@
 * heart `HART`
 * given `TKPWEUFPB`
 * one, `WUPB KW-BG`
-* release `RE/HRAOEZ`
+* release `RE/HRAOES`
 * May `PHA*EU`
 * blessing `PWHR*EFG`
 * happiness `HAEP/-PBS`

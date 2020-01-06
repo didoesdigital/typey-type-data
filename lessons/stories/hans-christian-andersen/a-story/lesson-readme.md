@@ -556,7 +556,7 @@
 * criminals; `KR-LS STPH*FPLT`
 * these `THEZ`
 * unfortunate `TPHORPBT`
-* slept `SHREPD`
+* slept `SHREPT`
 * side, `SAOEUD KW-BG`
 * long `HROPBG`
 * rows. `ROES TP-PL`

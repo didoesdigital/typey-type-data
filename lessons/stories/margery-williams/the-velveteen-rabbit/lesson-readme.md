@@ -424,7 +424,7 @@
 * find `TPEUPBD`
 * china `KWHRAOEUPB`
 * dog `TKOG`
-* slept `SHREPD`
+* slept `SHREPT`
 * hurry, `HUR/REU KW-BG`
 * too `TAO`
 * trouble `TRUBL`

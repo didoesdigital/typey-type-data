@@ -187,7 +187,7 @@
 * gave `TKPWAEUF`
 * ball, `PWAUL KW-BG`
 * invited `EUPB/SRAOEUTD`
-* persons `PERPBZ`
+* persons `PERPBS`
 * fashion `TPAGS`
 * it. `T TP-PL`
 * Our `KPA/OUR`

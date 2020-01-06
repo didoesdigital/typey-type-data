@@ -639,7 +639,7 @@
 * wrong `WROPBG`
 * various `SRAEURS`
 * sleep `SHRAOEP`
-* persons `PERPBZ`
+* persons `PERPBS`
 * blockquote `PWHROBG/TK-LS/KWOET`
 * happened `HAPD`
 * particular `PHRAR`

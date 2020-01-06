@@ -442,7 +442,7 @@
 * intended `SPWEPBD/-D`
 * though `THOE`
 * they `THE`
-* persons `PERPBZ`
+* persons `PERPBS`
 * kept `KEPT`
 * conversation. `K-FRGS TP-PL`
 * sake `SAEUBG`
@@ -461,7 +461,7 @@
 * beautiful; `PWAOUFL STPH*FPLT`
 * rather `RAER`
 * dull, `TKUL KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * late `HRAEUT`
 * morning. `PHORPBG TP-PL`
 * "She `KR-GS KPA/SHE`

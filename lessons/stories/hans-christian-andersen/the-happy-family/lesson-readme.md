@@ -490,7 +490,7 @@
 * couple `KUPL`
 * crept `KREPT`
 * more; `PHOR STPH*FPLT`
-* slept. `SHREPD TP-PL`
+* slept. `SHREPT TP-PL`
 * pair `PAEUR`
 * ruled `RAOULD`
 * forest, `TPOEFRT KW-BG`

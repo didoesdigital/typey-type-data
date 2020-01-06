@@ -198,7 +198,7 @@
 * one `WUPB`
 * kissed `K*EUFD`
 * mouth. `PHO*UT TP-PL`
-* slept `SHREPD`
+* slept `SHREPT`
 * yet `KWRET`
 * did `TK`
 * sleep; `SHRAOEP STPH*FPLT`

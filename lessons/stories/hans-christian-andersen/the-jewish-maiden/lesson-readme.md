@@ -383,7 +383,7 @@
 * make `PHAEUBG`
 * ransom `RAPB/SPH`
 * demanded `TKPHAPBD/-D`
-* release, `RE/HRAOEZ KW-BG`
+* release, `RE/HRAOES KW-BG`
 * enormously `TPHORPLS/HREU`
 * high. `HAOEU TP-PL`
 * collected `KHREBGD`
@@ -398,7 +398,7 @@
 * Ere `KPA/ER/*E`
 * long `HROPBG`
 * came `KAEUPL`
-* summons `SPHUPBZ`
+* summons `SPHUPBS`
 * struggle `STRULG`
 * foes `TPOE/-S`
 * Christianity. `KREUGS/APBT TP-PL`

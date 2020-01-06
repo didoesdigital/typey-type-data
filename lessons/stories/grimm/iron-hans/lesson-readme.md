@@ -364,7 +364,7 @@
 * bed `PWED`
 * moss `PHOS`
 * which `WEU`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * morning `PHORPBG`
 * well, `WEL KW-BG`
 * 'Behold, `AE KPA/PWE/HOLD KW-BG`

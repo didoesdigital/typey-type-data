@@ -261,7 +261,7 @@
 * head `HED`
 * well `WEL`
 * nod, `TPHOD KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * peacefully `PAES/TPHREU`
 * sweetly. `SWAOET/HREU TP-PL`
 * fly `TPHRAOEU`

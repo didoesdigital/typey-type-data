@@ -616,7 +616,7 @@
 * He `KPA/HE`
 * still, `STEUL KW-BG`
 * however, `HOUF KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * awake `A/WAEUBG`
 * mouth `PHO*UT`
 * cow; `KO*U STPH*FPLT`

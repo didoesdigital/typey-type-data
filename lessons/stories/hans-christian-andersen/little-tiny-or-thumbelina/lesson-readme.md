@@ -150,7 +150,7 @@
 * rose-leaf `ROEZ H-PB HRAOEF`
 * counterpane. `xxx counterpane TP-PL`
 * Here `KPA/HAOER`
-* slept `SHREPD`
+* slept `SHREPT`
 * at `AT`
 * night, `TPHAOEUT KW-BG`
 * during `TKURG`

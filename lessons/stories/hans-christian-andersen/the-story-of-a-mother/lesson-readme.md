@@ -167,7 +167,7 @@
 * three `THRAOE`
 * days `TKAEUS`
 * nights, `TPHAOEUTS KW-BG`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * but `PWUT`
 * only `OEPBL`
 * moment. `PHOEPLT TP-PL`
@@ -678,7 +678,7 @@
 * will," `HR KW-BG KR-GS`
 * gardener. `TKPWARD/TPHER TP-PL`
 * gardens `TKPWARD/-PBS`
-* Paradise `KPA/PAR/TKAOEUZ`
+* Paradise `KPA/PAR/TKAOEUS`
 * unknown `UPB/TPHOEPB`
 * land. `HRAPBD TP-PL`
 * How `KPA/HOU`
@@ -765,7 +765,7 @@
 * Tell `KPA/TEL`
 * that. `THA TP-PL`
 * Deliver `KPA/THREUFR`
-* Release `KPA/RE/HRAOEZ`
+* Release `KPA/RE/HRAOES`
 * misery. `PHEUS/REU TP-PL`
 * Rather `KPA/RAER`
 * away. `A/WAEU TP-PL`

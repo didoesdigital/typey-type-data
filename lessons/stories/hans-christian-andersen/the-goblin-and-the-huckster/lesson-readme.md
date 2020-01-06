@@ -203,7 +203,7 @@
 * bedroom `PW-PL`
 * where `W-R`
 * huckster's `HUBG/STER AES`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * took `TAOBG`
 * away `A/WAEU`
 * her `HER`

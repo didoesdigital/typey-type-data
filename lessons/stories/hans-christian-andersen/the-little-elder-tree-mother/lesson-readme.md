@@ -1019,7 +1019,7 @@
 * natural `TPHARL`
 * gets `TKPWETS`
 * cold. `KOELD TP-PL`
-* slept `SHREPD`
+* slept `SHREPT`
 * soundly `SOUPBD/HREU`
 * arguing `ARG/-G`
 * tale!" `TAEL SKHRAPL KR-GS`

@@ -552,7 +552,7 @@
 * That `KPA/THA`
 * roll, `ROL KW-BG`
 * proved `PROFD`
-* summons `SPHUPBZ`
+* summons `SPHUPBS`
 * victory `SREUBGT/REU`
 * men, `PHEPB KW-BG`
 * already `HR-R`
@@ -1074,7 +1074,7 @@
 * tea-cups, `TAE H-PB KUPS KW-BG`
 * flower-vase. `TPHRO*UR H-PB SRAS TP-PL`
 * sleeping-bench, `SHRAOEPG H-PB PWEFRPB KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * boy; `PWOEU STPH*FPLT`
 * middle `PH*EULD`
 * mother: `PHOER STPH-FPLT`

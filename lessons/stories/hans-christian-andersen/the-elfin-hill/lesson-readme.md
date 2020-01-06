@@ -257,7 +257,7 @@
 * selected; `SHREBGTD STPH*FPLT`
 * we `WE`
 * admit `AD/PHEUT`
-* persons `PERPBZ`
+* persons `PERPBS`
 * high `HAOEU`
 * rank; `RA*PBG STPH*FPLT`
 * dispute `STKPAOUT`

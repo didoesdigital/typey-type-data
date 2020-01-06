@@ -320,7 +320,7 @@
 * foreigner `TPORPB/ER`
 * woke `WOEBG`
 * night. `TPHAOEUT TP-PL`
-* slept `SHREPD`
+* slept `SHREPT`
 * open `OEP`
 * led `HRED`
 * balcony; `PWAL/KOEPB STPH*FPLT`
@@ -907,7 +907,7 @@
 * sure `SHUR`
 * gone `TKPWOPB`
 * being, `-BG KW-BG`
-* whereas `WRAZ`
+* whereas `WRAS`
 * one; `WUPB STPH*FPLT`
 * moment `PHOEPLT`
 * aware `A/WAEUR`
@@ -918,7 +918,7 @@
 * you, `U KW-BG`
 * remember `RER`
 * larger `HRAERPBLG`
-* sunrise `SUPB/RAOEUZ`
+* sunrise `SUPB/RAOEUS`
 * sunset, `SAUPB/SET KW-BG`
 * moonlight `PHAOLGT`
 * visible `SREUBL`
@@ -989,7 +989,7 @@
 * read! `RAED SKHRAPL`
 * Instead `KPA/STPHED`
 * directly `TKREL`
-* persons `PERPBZ`
+* persons `PERPBS`
 * themselves, `TH*EPLS KW-BG`
 * alarm `A/HRARPL`
 * arose `A/ROES`
@@ -1215,7 +1215,7 @@
 * Have `KPA/SR`
 * person `PERPB`
 * side? `SAOEUD H-F`
-* Persons `KPA/PERPBZ`
+* Persons `KPA/PERPBS`
 * often `OFPB`
 * servants `SER/SRAPBTS`
 * finer `TPAOEURPB`

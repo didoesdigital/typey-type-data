@@ -342,7 +342,7 @@
 * horses, `HORSZ KW-BG`
 * sorrowfully `SOR/ROEFL/HREU`
 * look `HRAOBG`
-* slept, `SHREPD KW-BG`
+* slept, `SHREPT KW-BG`
 * impossible `EUPL/POB`
 * awaken `A/WA*EUPB`
 * following `TPOLG`
@@ -375,7 +375,7 @@
 * days, `TKAEUS KW-BG`
 * throwing `THROEG`
 * down, `TKOUPB KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * like `HRAOEUBG`
 * log. `HROG TP-PL`
 * seen `SAOEPB`

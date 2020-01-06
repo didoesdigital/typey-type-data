@@ -170,7 +170,7 @@
 * swallow, `SWO*EUL KW-BG`
 * "and `KR-GS SKP`
 * suppose `SPOS`
-* slept `SHREPD`
+* slept `SHREPT`
 * time, `TAOEUPL KW-BG`
 * would `WO`
 * taken `TAEPB`
@@ -481,7 +481,7 @@
 * prize?" `PRAOEUZ H-F KR-GS`
 * asked `SK-D`
 * earthworm, `*ERT/WORPL KW-BG`
-* overslept `AUFR/SHREPD`
+* overslept `AUFR/SHREPT`
 * now `TPHOU`
 * came `KAEUPL`
 * up. `UP TP-PL`

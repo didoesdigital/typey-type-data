@@ -332,7 +332,7 @@
 * softly `SOFT/HREU`
 * possible. `POB TP-PL`
 * However, `KPA/HOUF KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * open `OEP`
 * air `AEUR`
 * yard, `KWRARD KW-BG`

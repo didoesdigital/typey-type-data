@@ -67,7 +67,7 @@
 * discovered, `SKOFD KW-BG`
 * for `TPOR`
 * she `SHE`
-* slept; `SHREPD STPH*FPLT`
+* slept; `SHREPT STPH*FPLT`
 * well `WEL`
 * might `PHAOEUT`
 * sleep, `SHRAOEP KW-BG`

@@ -220,7 +220,7 @@
 * Joseph's `SKWROE/SEF AES`
 * brethren `PWR*ET/REPB`
 * when `WHEPB`
-* persons `PERPBZ`
+* persons `PERPBS`
 * wished `WEURBD`
 * injure `SKWR-R`
 * her. `HER TP-PL`

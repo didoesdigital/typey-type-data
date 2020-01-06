@@ -164,7 +164,7 @@
 * down `TKOUPB`
 * near `TPHAOER`
 * moss, `PHOS KW-BG`
-* slept `SHREPD`
+* slept `SHREPT`
 * until `TPH-L`
 * morning `PHORPBG`
 * came, `KAEUPL KW-BG`

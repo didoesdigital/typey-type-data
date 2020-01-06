@@ -842,7 +842,7 @@
 * squire, `SKWAOEUR KW-BG`
 * gentle `SKWR*EPBLT`
 * simple, `S*EUPL KW-BG`
-* summons; `SPHUPBZ STPH*FPLT`
+* summons; `SPHUPBS STPH*FPLT`
 * hat, `HAT KW-BG`
 * new `TPHU`
 * cloak. `KHROEBG TP-PL`

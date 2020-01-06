@@ -462,7 +462,7 @@
 * many `PHAEPB`
 * hundreds `HUPBS`
 * books; `PWAOBGS STPH*FPLT`
-* persons `PERPBZ`
+* persons `PERPBS`
 * derive `TKAO*EUF`
 * pleasure `PHRERB`
 * profit `PROFT`

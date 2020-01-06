@@ -224,7 +224,7 @@
 * through `THRU`
 * mind. `PHAOEUPBD TP-PL`
 * How `KPA/HOU`
-* persons `PERPBZ`
+* persons `PERPBS`
 * lighted `HRAOEUT/-D`
 * their `THAEUR`
 * way, `WAEU KW-BG`
@@ -385,7 +385,7 @@
 * over `OEFR`
 * canal `KAPBL`
 * three `THRAOE`
-* persons, `PERPBZ KW-BG`
+* persons, `PERPBS KW-BG`
 * wished `WEURBD`
 * recommend `REPL`
 * themselves `TH*EPLS`

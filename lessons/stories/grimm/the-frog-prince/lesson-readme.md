@@ -326,7 +326,7 @@
 * took `TAOBG`
 * pillow `PEUL/OE`
 * own `OEPB`
-* slept `SHREPD`
+* slept `SHREPT`
 * night `TPHAOEUT`
 * long. `HROPBG TP-PL`
 * light `HRAOEUT`
