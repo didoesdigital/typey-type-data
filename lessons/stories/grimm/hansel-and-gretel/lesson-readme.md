@@ -523,7 +523,7 @@
 * fly `TPHRAOEU`
 * woods `WAODZ`
 * fields `TPAOELDZ`
-* picked `PEUGD`
+* picked `PEUBGD`
 * up. `UP TP-PL`
 * 'We `AE KPA/WE`
 * way,' `WAEU KW-BG AE`

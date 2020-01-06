@@ -335,7 +335,7 @@
 * ash-heap, `ARB H-PB HAOEP KW-BG`
 * if `TP`
 * hours' `HOURS AE`
-* picked `PEUGD`
+* picked `PEUBGD`
 * out, `OUT KW-BG`
 * shall `SHAL`
 * feast `TPAOEFT`

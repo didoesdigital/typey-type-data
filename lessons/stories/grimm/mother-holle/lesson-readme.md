@@ -629,7 +629,7 @@
 * flowers. `TPHRO*URS TP-PL`
 * And `AFPBD`
 * whenever `WHEFR`
-* picked `PEUGD`
+* picked `PEUBGD`
 * one, `WUPB KW-BG`
 * fancied `TPAPB/SEU/-D`
 * prettier `PRET/KWRER`

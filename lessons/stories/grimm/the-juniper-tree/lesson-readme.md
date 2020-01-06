@@ -151,7 +151,7 @@
 * were `WR`
 * fully `TPHRAOUL`
 * ripe `RAOEUP`
-* picked `PEUGD`
+* picked `PEUBGD`
 * berries `PWER/KWREUS`
 * ate `AEUT`
 * eagerly `AOERLG`

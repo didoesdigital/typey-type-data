@@ -3500,7 +3500,7 @@
 * physician `TP-GS`
 * physiology `TPO*LG`
 * pi `PEU`
-* picked `PEUGD`
+* picked `PEUBGD`
 * picket `PEUBGT`
 * pickets `PEUBGTS`
 * pickup `P*UP`

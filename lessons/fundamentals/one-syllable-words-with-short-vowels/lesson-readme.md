@@ -58,7 +58,6 @@
 * hers `HERS`
 * waves `WAFS`
 * troubled `TRUBLD`
-* picked `PEUGD`
 * press `PRES`
 * staff `STAF`
 * rolled `ROLD`

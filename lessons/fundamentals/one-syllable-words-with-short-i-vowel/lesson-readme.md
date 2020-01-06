@@ -5,7 +5,6 @@
 * hills `HEULS`
 * skill `SKEUL`
 * swift `SWEUFT`
-* picked `PEUGD`
 * stir `STEUR`
 * wilt `WEULT`
 * trip `TREUP`

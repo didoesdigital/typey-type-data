@@ -603,7 +603,7 @@
 * were. `WR TP-PL`
 * slipped `SHREUPD`
 * side, `SAOEUD KW-BG`
-* picked `PEUGD`
+* picked `PEUBGD`
 * stones. `STOEPBS TP-PL`
 * again, `TKPWEPB KW-BG`
 * tried `TRAOEUD`

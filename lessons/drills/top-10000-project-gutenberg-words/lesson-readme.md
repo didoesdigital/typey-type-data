@@ -2189,7 +2189,7 @@
 * glanced `TKPWHRAPBS/-D`
 * troubled `TRUBLD`
 * difficulties `TKOEUFLTS`
-* picked `PEUGD`
+* picked `PEUBGD`
 * European `UR/PAOEPB`
 * purposes `PURPS`
 * somewhere `SWR`

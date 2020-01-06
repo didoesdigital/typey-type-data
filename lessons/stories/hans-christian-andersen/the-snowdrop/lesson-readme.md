@@ -516,7 +516,7 @@
 * floor. `TPHRAOR TP-PL`
 * servant `SEFRB/APBT`
 * sweeping `SWAOEPG`
-* picked `PEUGD`
+* picked `PEUBGD`
 * up, `UP KW-BG`
 * one `WUPB`
 * books `PWAOBGS`

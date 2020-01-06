@@ -203,7 +203,7 @@
 * sticks `STEUBGZ`
 * lying `HRAOEUG`
 * before `PW-FP`
-* picked `PEUGD`
+* picked `PEUBGD`
 * up `UP`
 * wood. `WAOD TP-PL`
 * turned `TURPBD`

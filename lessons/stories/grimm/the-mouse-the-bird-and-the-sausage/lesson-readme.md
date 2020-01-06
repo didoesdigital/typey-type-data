@@ -252,7 +252,7 @@
 * reason `R-PB`
 * life `HRAOEUF`
 * forfeited. `TPOR/TPET/-D TP-PL`
-* picked `PEUGD`
+* picked `PEUBGD`
 * sadly `SAD/HREU`
 * home, `HOEPL KW-BG`
 * told `TOLD`

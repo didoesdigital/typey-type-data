@@ -1157,7 +1157,7 @@
 * enraptured `EPB/RAP/KHURD`
 * faces `TPAEUFS`
 * grave, `TKPWRAEUF KW-BG`
-* picked `PEUGD`
+* picked `PEUBGD`
 * fallen `TPAUL/-PB`
 * rose-leaves `ROEZ H-PB HREFS`
 * preserved `PREFBD`

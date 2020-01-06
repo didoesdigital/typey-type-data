@@ -598,7 +598,7 @@
 * even `AOEPB`
 * next `TPHEGT`
 * morning `PHORPBG`
-* picked `PEUGD`
+* picked `PEUBGD`
 * up, `UP KW-BG`
 * declare `TKE/KHRAR`
 * if `TP`

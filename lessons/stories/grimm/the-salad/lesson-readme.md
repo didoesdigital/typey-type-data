@@ -392,7 +392,7 @@
 * sides `SAOEUDZ`
 * delighted `TKHRAOEUTD`
 * sight `SAOEUT`
-* picked `PEUGD`
+* picked `PEUBGD`
 * finest. `TPAOEUPB/EFT TP-PL`
 * But `KPA/PWUT`
 * made `PHAED`

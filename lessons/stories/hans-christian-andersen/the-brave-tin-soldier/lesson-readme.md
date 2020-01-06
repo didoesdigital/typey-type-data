@@ -605,7 +605,7 @@
 * kitchen `K-FP`
 * cut `KUT`
 * knife. `TPHAOEUF TP-PL`
-* picked `PEUGD`
+* picked `PEUBGD`
 * waist `WAEUFT`
 * finger `TPURPBG`
 * thumb, `THUPL KW-BG`

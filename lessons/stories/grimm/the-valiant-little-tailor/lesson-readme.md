@@ -393,7 +393,7 @@
 * say, `SAEU KW-BG`
 * believe `PWHREF`
 * man. `PHAPB TP-PL`
-* picked `PEUGD`
+* picked `PEUBGD`
 * threw `THRAOU`
 * high `HAOEU`
 * eye `AOEU`

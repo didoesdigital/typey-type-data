@@ -141,6 +141,7 @@
 * spend `SPEPBD`
 * aunt `AUPBT`
 * reign `RAEPB`
+* picked `PEUBGD`
 * poem `POEPL`
 * painted `PAEUPBTD`
 * risk `REUFBG`

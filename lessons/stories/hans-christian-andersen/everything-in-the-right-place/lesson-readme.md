@@ -723,7 +723,7 @@
 * confirmed. `K-FRPL/-D TP-PL`
 * walked `WAUBGD`
 * along `HRAOPBG`
-* picked `PEUGD`
+* picked `PEUBGD`
 * bunch `PWUFRPB`
 * field-flowers. `TPAOELD H-PB TPHRO*URS TP-PL`
 * beautiful. `PWAOUFL TP-PL`

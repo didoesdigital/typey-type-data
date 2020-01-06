@@ -542,7 +542,7 @@
 * morning `PHORPBG`
 * sunrise `SUPB/RAOEUZ`
 * these `THEZ`
-* picked `PEUGD`
+* picked `PEUBGD`
 * up, `UP KW-BG`
 * single `SEUPBLG`
 * grain `TKPWRAEUPB`

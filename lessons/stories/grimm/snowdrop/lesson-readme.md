@@ -269,7 +269,7 @@
 * beds. `PWEDZ TP-PL`
 * As `KPA/AZ`
 * hungry, `HUPBG/REU KW-BG`
-* picked `PEUGD`
+* picked `PEUBGD`
 * piece `PAOES`
 * each `AOEFP`
 * loaf `HROEF`
