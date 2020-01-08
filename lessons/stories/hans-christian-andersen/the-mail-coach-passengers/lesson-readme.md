@@ -424,7 +424,7 @@
 * sneeze. `STPHAOEZ TP-PL`
 * health, `H*ELT KW-BG`
 * God `TKPWO*D`
-* bless `PWRES`
+* bless `PWHRES`
 * you," `U KW-BG KR-GS`
 * salutation `SAL/TAEUGS`
 * him. `HEUPL TP-PL`

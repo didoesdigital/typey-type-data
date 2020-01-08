@@ -170,7 +170,7 @@
 * down, `TKOUPB KW-BG`
 * jug, `SKWRUG KW-BG`
 * 'God `AE TKPWO*D`
-* bless `PWRES`
+* bless `PWHRES`
 * for `TPOR`
 * you, `U KW-BG`
 * Gretel,' `TKPWRET/EL KW-BG AE`

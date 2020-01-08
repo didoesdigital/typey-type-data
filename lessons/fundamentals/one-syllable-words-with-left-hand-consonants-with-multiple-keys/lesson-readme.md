@@ -284,7 +284,7 @@
 * deeds `TKAOEDZ`
 * guest `TKPWEFT`
 * bar `PWAR`
-* bless `PWRES`
+* bless `PWHRES`
 * deed `TKAOED`
 * vote `SROET`
 * leg `HREG`

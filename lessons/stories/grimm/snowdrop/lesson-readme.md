@@ -464,7 +464,7 @@
 * ran `RAPB`
 * unbolted `UPB/PWOELT/-D`
 * door. `TKAOR TP-PL`
-* 'Bless `AE KPA/PWRES`
+* 'Bless `AE KPA/PWHRES`
 * me!' `PHE SKHRAPL AE`
 * woman, `WOPL KW-BG`
 * 'how `AE HOU`

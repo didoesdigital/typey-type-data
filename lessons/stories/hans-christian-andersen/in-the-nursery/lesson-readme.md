@@ -542,7 +542,7 @@
 * other, `OER KW-BG`
 * 'Come, `AE KPA/KOPL KW-BG`
 * do,— `TKO KW-BG EPL/TKA*RB`
-* Bless `KPA/PWRES`
+* Bless `KPA/PWHRES`
 * son `SOPB`
 * daughter.' `TKAUR TP-PL AE`
 * receive `SAOEF`

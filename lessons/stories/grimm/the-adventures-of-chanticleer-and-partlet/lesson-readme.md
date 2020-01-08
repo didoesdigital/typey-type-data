@@ -365,7 +365,7 @@
 * almost `HR-PL`
 * blinded `PWHRAOEUPBD/-D`
 * him. `HEUPL TP-PL`
-* 'Bless `AE KPA/PWRES`
+* 'Bless `AE KPA/PWHRES`
 * me!' `PHE SKHRAPL AE`
 * he, `HE KW-BG`
 * 'all `AE AUL`

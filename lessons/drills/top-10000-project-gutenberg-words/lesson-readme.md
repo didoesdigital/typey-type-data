@@ -2738,7 +2738,7 @@
 * poverty `POFRT`
 * bottle `PWO*LT`
 * prevented `PRAOEPBTD`
-* bless `PWRES`
+* bless `PWHRES`
 * stir `STEUR`
 * intense `SPWEPBS`
 * completed `KPHRAOETD`

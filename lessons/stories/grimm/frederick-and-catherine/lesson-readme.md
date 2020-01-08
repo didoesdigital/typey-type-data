@@ -635,7 +635,7 @@
 * among `PHOPBG`
 * boughs `PWO*U/-S`
 * cried, `KRAOEUD KW-BG`
-* 'Bless `AE KPA/PWRES`
+* 'Bless `AE KPA/PWHRES`
 * hailing.' `HAEUL/-G TP-PL AE`
 * A `KPA/AEU`
 * little `HREUL`

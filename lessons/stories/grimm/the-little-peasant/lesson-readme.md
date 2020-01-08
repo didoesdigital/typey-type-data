@@ -426,7 +426,7 @@
 * place, `PHRAEUS KW-BG`
 * hidden `HEUD/EPB`
 * pillow.' `PEUL/OE TP-PL AE`
-* 'Bless `AE KPA/PWRES`
+* 'Bless `AE KPA/PWHRES`
 * me!' `PHE SKHRAPL AE`
 * cried `KRAOEUD`
 * miller, `HRO*ER/PHEUL/HRER KW-BG`

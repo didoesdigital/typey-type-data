@@ -524,7 +524,7 @@
 * blench `PWHREFRPB`
 * blend `PWHREPD`
 * blender `PWHRERPBD`
-* bless `PWRES`
+* bless `PWHRES`
 * blight `PWHRAOEUT`
 * blimp `PWHREUFRP`
 * blind `PWHRAOEUPBD`
