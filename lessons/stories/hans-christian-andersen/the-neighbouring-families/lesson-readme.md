@@ -907,8 +907,8 @@
 * pigeon-mothers `PEUGS H-PB PHOERS`
 * ones: `WUPBZ STPH-FPLT`
 * "Stand `KR-GS KPA/STAPBD`
-* groups, `TKPRAOUPS KW-BG`
-* groups! `TKPRAOUPS SKHRAPL`
+* groups, `TKPWRAOUPS KW-BG`
+* groups! `TKPWRAOUPS SKHRAPL`
 * better." `PWOERT TP-PL KR-GS`
 * "What `KR-GS KPA/WHA`
 * creatures `KRAOEFPS`

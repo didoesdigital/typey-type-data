@@ -302,7 +302,7 @@
 * everything `EFRG`
 * life. `HRAOEUF TP-PL`
 * metallic `PHET/ALG`
-* groups `TKPRAOUPS`
+* groups `TKPWRAOUPS`
 * figures, `TPEUGS KW-BG`
 * among `PHOPBG`
 * Perseus `PERS/KWRUS`

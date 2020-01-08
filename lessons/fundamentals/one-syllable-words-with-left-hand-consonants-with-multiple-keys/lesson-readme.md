@@ -316,7 +316,7 @@
 * veil `SRAEUL`
 * leads `HRAEDZ`
 * fed `TPED`
-* groups `TKPRAOUPS`
+* groups `TKPWRAOUPS`
 * fort `TPORT`
 * club `KHRUB`
 * missed `PHEUFD`

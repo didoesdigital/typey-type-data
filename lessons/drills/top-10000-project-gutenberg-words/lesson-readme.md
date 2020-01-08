@@ -3223,7 +3223,7 @@
 * zeal `SAO*EL`
 * responsible `SPOPB`
 * indicated `KA*EUTD`
-* groups `TKPRAOUPS`
+* groups `TKPWRAOUPS`
 * positive `PEUF`
 * Germans `SKWR*EFRPBS`
 * attracted `A/TRABGD`
