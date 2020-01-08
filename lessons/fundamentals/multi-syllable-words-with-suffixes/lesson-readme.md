@@ -35,6 +35,7 @@
 * remarkable `RARBG/-BL`
 * evidently `AEFD/HREU`
 * advanced `SRAPBS/-D`
+* noticed `TPH-TS/-D`
 * Spanish `SPAPB/EURB`
 * intellectual `SPWHREBGT/WAL`
 * demanded `TKPHAPBD/-D`

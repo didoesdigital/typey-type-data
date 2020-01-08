@@ -83,7 +83,7 @@
 * On `KPA/OPB`
 * way `WAEU`
 * there `THR`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * hair `HAEUR`
 * on `OPB`
 * certain `SERPB`

@@ -452,7 +452,7 @@
 * worshipful `WOR/SH-P/-FL`
 * don't `TKOEPBT`
 * appear `A/PAOER`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * all. `AUL TP-PL`
 * Were `KPA/WR`
 * sunbeam, `SUPB/PWAOEPL KW-BG`

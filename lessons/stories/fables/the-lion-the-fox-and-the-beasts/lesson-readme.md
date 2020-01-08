@@ -76,7 +76,7 @@
 * pardon," `PARD KW-BG KR-GS`
 * "but `KR-GS PWUT`
 * I `EU`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * track `TRABG`
 * have `SR`
 * already `HR-R`

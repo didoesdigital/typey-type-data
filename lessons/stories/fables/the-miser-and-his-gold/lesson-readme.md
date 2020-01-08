@@ -35,7 +35,7 @@
 * A `KPA/AEU`
 * robber, `ROB/ER KW-BG`
 * had `H`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * this, `TH KW-BG`
 * went `WEPBT`
 * dug `TKUG`

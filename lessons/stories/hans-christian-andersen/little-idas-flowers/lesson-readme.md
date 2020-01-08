@@ -691,7 +691,7 @@
 * merry, `PHER/REU KW-BG`
 * yet `KWRET`
 * none `TPHOPB`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * Presently `KPA/PREPBLT`
 * something `S-G`
 * table. `TAEUBL TP-PL`

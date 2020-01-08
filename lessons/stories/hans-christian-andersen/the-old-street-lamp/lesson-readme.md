@@ -618,7 +618,7 @@
 * tried `TRAOEUD`
 * whole `WHOEL`
 * might; `PHAOEUT STPH*FPLT`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * poor `PAOR`
 * enable `TPHAEUBL`
 * see `SAOE`

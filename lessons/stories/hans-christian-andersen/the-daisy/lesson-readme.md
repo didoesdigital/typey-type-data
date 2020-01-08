@@ -488,7 +488,7 @@
 * refresh `RERB`
 * itself `*EUTS`
 * little. `HREUL TP-PL`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * nodded `TPHOD/-D`
 * said: `SAEUD STPH-FPLT`
 * "You `KR-GS KPA/U`

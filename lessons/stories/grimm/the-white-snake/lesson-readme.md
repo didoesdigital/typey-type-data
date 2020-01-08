@@ -131,7 +131,7 @@
 * went `WEPBT`
 * listened, `HREUFPBD KW-BG`
 * then `THEPB`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * sparrows `SPAEUR/ROE/-S`
 * were `WR`
 * chattering `KHAT/ERG`

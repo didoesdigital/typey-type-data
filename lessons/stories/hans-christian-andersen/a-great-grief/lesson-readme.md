@@ -293,7 +293,7 @@
 * gave `TKPWAEUF`
 * button. `PW*UPBT TP-PL`
 * Many `KPA/PHAEPB`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * go `TKPW`
 * afternoon `AFPB`
 * suspender; `SP*EPBD/*ER STPH*FPLT`

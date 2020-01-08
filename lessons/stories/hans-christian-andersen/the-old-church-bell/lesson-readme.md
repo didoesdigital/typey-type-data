@@ -649,7 +649,7 @@
 * sing. `SEUPBG TP-PL`
 * Dark `KPA/TKARBG`
 * passed `PAFD`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * not; `TPHOT STPH*FPLT`
 * man's `PHAPB/AES`
 * felt `TPELT`

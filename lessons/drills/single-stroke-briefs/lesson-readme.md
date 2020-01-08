@@ -4659,7 +4659,6 @@
 * serum `SAOERPL`
 * served `SEFRBD`
 * service `S-FS`
-* serviced `S-FSD`
 * serving `SEFRBG`
 * session `SEGS`
 * setting `SEGT`

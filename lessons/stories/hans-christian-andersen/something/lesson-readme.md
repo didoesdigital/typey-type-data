@@ -805,7 +805,7 @@
 * there; `THR STPH*FPLT`
 * warn `WARPB`
 * them, `THEPL KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * meant `PHEPBT`
 * did? `TK H-F`
 * alarmed, `A/HRARPLD KW-BG`

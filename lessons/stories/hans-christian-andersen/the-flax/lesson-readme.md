@@ -288,7 +288,7 @@
 * Yes, `KPA/KWRE KW-BG`
 * clergyman's `KHRERPBLG/PHAPB AES`
 * wife `WAOEUF`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * best `PWEFT`
 * linen `HREUPB/-PB`
 * whole `WHOEL`

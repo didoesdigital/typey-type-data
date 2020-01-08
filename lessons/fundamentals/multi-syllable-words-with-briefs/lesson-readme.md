@@ -76,7 +76,6 @@
 * opening `OEPG`
 * season `S-PB`
 * interested `TR-D`
-* noticed `TPH-TSD`
 * August `AUG`
 * actually `TAOULT`
 * Washington `WA*`

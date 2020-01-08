@@ -761,7 +761,7 @@
 * something. `S-G TP-PL`
 * she? `SHE H-F`
 * No `KPA/TPHO`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * flew `TPHRAOU`
 * open `OEP`
 * window, `WOEUPBD KW-BG`

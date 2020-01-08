@@ -887,7 +887,7 @@
 * alone `A/HROEPB`
 * room, `RAOPL KW-BG`
 * suddenly `SULD`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * woman `WOPL`
 * crutches `KRUFPS`
 * limping `HREUPL/-PG`

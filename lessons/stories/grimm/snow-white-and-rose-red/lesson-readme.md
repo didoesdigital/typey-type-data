@@ -732,7 +732,7 @@
 * rock `ROBG`
 * strewn `STRAOUPB`
 * about. `PW TP-PL`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * bird `PWEURD`
 * hovering `HOFRG`
 * air, `AEUR KW-BG`

@@ -604,7 +604,7 @@
 * least `HRAOEFT`
 * As `KPA/AZ`
 * nearer, `TPHAOER/*ER KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * living `HREUFG`
 * butterfly `PW*URT/TPHRAOEU`
 * sitting `SEUGT`

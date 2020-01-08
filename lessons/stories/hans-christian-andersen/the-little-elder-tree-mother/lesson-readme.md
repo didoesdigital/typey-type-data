@@ -771,7 +771,7 @@
 * whole `WHOEL`
 * flight `TPHRAOEUT`
 * sweetly; `SWAOET/HREU STPH*FPLT`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * roses `ROES/-S`
 * beeches, `PWAOEFP/-S KW-BG`
 * much `PHUFP`

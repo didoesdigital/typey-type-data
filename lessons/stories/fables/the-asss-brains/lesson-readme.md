@@ -83,7 +83,7 @@
 * When `KPA/WHEPB`
 * back `PWABG`
 * soon `SAOPB`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * absence `AB/SEPBS`
 * brains, `PWRAEUPBS KW-BG`
 * asked `SK-D`

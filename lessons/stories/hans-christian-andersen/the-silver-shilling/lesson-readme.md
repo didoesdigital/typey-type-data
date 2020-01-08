@@ -188,7 +188,7 @@
 * But `KPA/PWUT`
 * as `AZ`
 * lying `HRAOEUG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * closed, `KHROEFD KW-BG`
 * so `SO`
 * slipped `SHREUPD`

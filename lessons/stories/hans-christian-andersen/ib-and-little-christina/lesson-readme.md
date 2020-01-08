@@ -1159,7 +1159,7 @@
 * Very `KPA/SRE`
 * matter `PHAERT`
 * refer `REFR`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * silent `SHREPBT`
 * pensive. `PEPB/SEUF TP-PL`
 * Thinking `KPA/THEUG`

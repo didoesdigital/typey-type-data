@@ -88,6 +88,7 @@
 * quarter `KWAR/TER`
 * advanced `SRAPBS/-D`
 * apparently `A/PARPBLT`
+* noticed `TPH-TS/-D`
 * aware `A/WAEUR`
 * uncle `*UPBG`
 * genius `SKWRAOEPB/KWROUS`

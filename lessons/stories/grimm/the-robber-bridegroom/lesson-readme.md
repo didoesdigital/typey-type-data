@@ -372,7 +372,7 @@
 * robbers. `RORBS TP-PL`
 * them `THEPL`
 * now `TPHOU`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * gold `TKPWOELD`
 * ring `REUPBG`
 * remaining `RE/PHAEPBG`

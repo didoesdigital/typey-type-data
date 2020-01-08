@@ -282,7 +282,7 @@
 * deal `TKAOEL`
 * information `TPH-FGS`
 * father, `TPAER KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * myself. `PHAO*EUS TP-PL`
 * keep `KAOEP`
 * diary, `TKAOEU/REU KW-BG`

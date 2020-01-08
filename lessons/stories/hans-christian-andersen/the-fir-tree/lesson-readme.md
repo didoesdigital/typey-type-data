@@ -676,7 +676,7 @@
 * down. `TKOUPB TP-PL`
 * about `PW`
 * toys, `TOEUS KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * except `KPEPT`
 * children's `KHEURPBS`
 * maid `PHAEUD`

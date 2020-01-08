@@ -1135,7 +1135,7 @@
 * soul `SOUL`
 * despair; `TKE/SPAEUR STPH*FPLT`
 * praying, `PRAEUG KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * held `HELD`
 * breath. `PWR*ET TP-PL`
 * lamp `HRAFRP`

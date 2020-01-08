@@ -90,7 +90,7 @@
 * laughed `HRAFD`
 * will `HR`
 * not `TPHOT`
-* noticed." `TPH-TSD TP-PL KR-GS`
+* noticed." `TPH-TS/-D TP-PL KR-GS`
 * It `KPA/T`
 * because `PWAU`
 * that `THA`

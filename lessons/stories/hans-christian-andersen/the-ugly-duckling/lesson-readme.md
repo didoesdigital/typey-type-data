@@ -781,7 +781,7 @@
 * violent, `SROEUPBLT KW-BG`
 * farther; `TPA*RT STPH*FPLT`
 * cottage, `KOT/APBLG KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * door `TKAOR`
 * consequence `KWEPBS`
 * hinges `HEUPBGS`

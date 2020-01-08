@@ -877,7 +877,7 @@
 * went, `WEPBT KW-BG`
 * mass `PHAS`
 * performed, `PORPLD KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * excepting `KPEPT/-G`
 * elderly `ERLD`
 * citizen, `SEUT/*EPB KW-BG`

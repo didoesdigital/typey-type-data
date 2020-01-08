@@ -4,7 +4,7 @@
 * day `TKAEU`
 * the `-T`
 * Countrymen `KPA/KUPB/TREU/PHEPB`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * that `THA`
 * Mountains `KPA/PHOUPB/TAEUPBS`
 * were `WR`

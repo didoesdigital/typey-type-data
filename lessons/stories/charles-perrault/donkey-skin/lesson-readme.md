@@ -1406,7 +1406,7 @@
 * closely `KHROELS`
 * blushed. `PWHRURB/-D TP-PL`
 * scarcely `SKAEURS/HREU`
-* noticed, `TPH-TSD KW-BG`
+* noticed, `TPH-TS/-D KW-BG`
 * embrace `EPL/PWRAEUS`
 * heartily, `HART/HREU KW-BG`
 * confused `KAOUFD`

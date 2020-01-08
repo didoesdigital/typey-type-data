@@ -875,7 +875,7 @@
 * save `SAF`
 * intimate `SPWEU/PHAT`
 * acquaintance, `KWAEUPB/TAPBS KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * girl, `TKPWEURL KW-BG`
 * yet `KWRET`
 * occurred `KROEURD`

@@ -1422,7 +1422,7 @@
 * bore `PWOR`
 * PWH `P*P/W*P/H*P`
 * active `TAEF`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * aware `A/WAEUR`
 * Thomas `THOPLS`
 * uncle `*UPBG`

@@ -974,7 +974,7 @@
 * ready `R-D`
 * jump `SKWRUFRP`
 * people's `PAOEPL/AES`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * drawn, `TKRAUPB KW-BG`
 * contents `KAUPBTS`
 * itself `*EUTS`

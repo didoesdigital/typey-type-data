@@ -205,7 +205,7 @@
 * upon `POPB`
 * going `TKPW-G`
 * bed, `PWED KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * wife `WAOEUF`
 * sitting `SEUGT`
 * quiet `KWAO*EUT`

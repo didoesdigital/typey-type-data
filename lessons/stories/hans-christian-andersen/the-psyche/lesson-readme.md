@@ -880,7 +880,7 @@
 * shatter `SHAERT`
 * image. `EUPBLG TP-PL`
 * pain, `PAEUPB KW-BG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * friend `TPREPBD`
 * Angelo `APB/SKWRE/HROE`
 * beside `PWE/SAOEUD`

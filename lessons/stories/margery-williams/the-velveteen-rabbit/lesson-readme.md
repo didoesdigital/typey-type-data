@@ -512,7 +512,7 @@
 * on, `OPB KW-BG`
 * happy–so `HAEP EPB/TKA*RB SO`
 * happy `HAEP`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * beautiful `PWAOUFL`
 * fur `TPUR`
 * getting `TKPWEGT`

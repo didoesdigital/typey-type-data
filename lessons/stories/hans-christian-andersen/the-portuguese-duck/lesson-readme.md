@@ -449,7 +449,7 @@
 * Portuguese, `PORT/TKWAOES KW-BG`
 * aquatic `A/KWAT/EUBG`
 * birds, `PWEURDZ KW-BG`
-* noticed. `TPH-TSD TP-PL`
+* noticed. `TPH-TS/-D TP-PL`
 * You `KPA/U`
 * us `US`
 * yet,—very `KWRET KW-BG EPL/TKA*RB SRE`
