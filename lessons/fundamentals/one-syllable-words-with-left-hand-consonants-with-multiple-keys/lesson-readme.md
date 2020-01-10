@@ -435,7 +435,7 @@
 * deaf `TKEF`
 * grip `TKPWREUP`
 * juice `SKWRAOUS`
-* blast `PWRAFT`
+* blast `PWHRAFT`
 * boards `PWORDZ`
 * dirt `TKEURT`
 * breed `PWRAOED`

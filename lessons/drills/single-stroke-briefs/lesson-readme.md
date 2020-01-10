@@ -512,7 +512,7 @@
 * blanket `PWHRAPBGT`
 * blare `PWHRAER`
 * blaring `PWHRAEURPBG`
-* blast `PWRAFT`
+* blast `PWHRAFT`
 * blaze `PWHRAEUZ`
 * bleach `PWHRAEFP`
 * bleak `PWHRAEBG`

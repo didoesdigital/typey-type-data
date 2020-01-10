@@ -5606,7 +5606,7 @@
 * resigned `RAOE/SAOEUPBD`
 * humility `HAOUPL/EULT`
 * Benjamin `PWEPBG/PHEUPB`
-* blast `PWRAFT`
+* blast `PWHRAFT`
 * ministry `PH*EUPBS/REU`
 * sexual `SWAUL`
 * Nile `TPHAOEUL`
