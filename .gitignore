@@ -84,6 +84,12 @@ Thumbs.db
 /.bundle
 
 
+# Node modules
+node_modules/
+
+
+
+
 # Python files
 *.pyc
 
