@@ -1135,7 +1135,7 @@
 * clung `KHRUPBG`
 * clunk `KHR*UPBG`
 * cluster `KHRUFRT`
-* clutch `HRUFP`
+* clutch `KHRUFP`
 * clutter `KHRAOURT`
 * co-operate `KRO*PT`
 * coach `KOEFP`

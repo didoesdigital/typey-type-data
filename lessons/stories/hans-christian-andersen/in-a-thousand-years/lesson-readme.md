@@ -220,7 +220,7 @@
 * sounding `SOUPBD/-G`
 * verse. `SRERS TP-PL`
 * Beautiful `KPA/PWAOUFL`
-* black-eyed `PWHRABG H-PB AO*EUD`
+* black-eyed `PWHRABG H-PB KWRAOEUD`
 * women `WEUPL`
 * live `HREUF`
 * blooming `PWHRAOPL/-G`

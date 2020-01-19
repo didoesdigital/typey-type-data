@@ -302,7 +302,7 @@
 * ewe `AO*U`
 * yew `KWRAOU`
 * you `U`
-* eyed `AO*EUD`
+* eyed `KWRAOEUD`
 * I'd `AOEUD`
 * fain `TPA*EUPB`
 * feign `TPAEUPB`

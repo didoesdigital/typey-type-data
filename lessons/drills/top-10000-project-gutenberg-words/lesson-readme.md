@@ -3166,7 +3166,7 @@
 * studies `STAO*UDZ`
 * balance `PWAL`
 * intercourse `SPWROURS`
-* ID `EUD`
+* id `EUD`
 * forming `TPORPLG`
 * slender `SHRERPBD`
 * coach `KOEFP`
@@ -7464,7 +7464,7 @@
 * soap `SOEP`
 * patriot `PAEU/TROT`
 * malicious `PHAL/EURBS`
-* eyed `AO*EUD`
+* eyed `KWRAOEUD`
 * pirates `PAOEURT/-S`
 * enforce `EPB/TPORS`
 * doll `TKOL`
@@ -9940,7 +9940,7 @@
 * lining `HRAOEUPBG`
 * cleverness `KHREFR/-PBS`
 * ascetic `A/SET/EUBG`
-* clutch `HRUFP`
+* clutch `KHRUFP`
 * Krishna `KREURB/TPHA`
 * embark `EPL/PWARBG`
 * quotations `KWOE/TAEUGS/-S`

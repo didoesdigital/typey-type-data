@@ -521,7 +521,7 @@
 * groves `TKPWROEFS`
 * baffled `PWAFLD`
 * lapse `HRAPS`
-* eyed `AO*EUD`
+* eyed `KWRAOEUD`
 * doll `TKOL`
 * nuts `TPHUTS`
 * clue `KHRAOU`
@@ -637,5 +637,5 @@
 * growl `TKPWROUL`
 * jug `SKWRUG`
 * clash `KHRARB`
-* clutch `HRUFP`
+* clutch `KHRUFP`
 * meats `PHAETS`
