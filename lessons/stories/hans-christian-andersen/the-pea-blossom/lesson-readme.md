@@ -258,7 +258,7 @@
 * poor `PAOR`
 * woman, `WOPL KW-BG`
 * who `WHO`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * stoves, `STOEFS KW-BG`
 * chop `KHOP`
 * wood `WAOD`

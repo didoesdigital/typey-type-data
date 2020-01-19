@@ -409,7 +409,7 @@
 * still, `STEUL KW-BG`
 * soundly. `SOUPBD/HREU TP-PL`
 * large `HRARPBLG`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * thorns `THORPB/-S`
 * grew `TKPWRAOU`
 * palace, `PAL/AS KW-BG`

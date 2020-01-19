@@ -59,7 +59,7 @@
 * there `THR`
 * chambers! `KHAEURPLS SKHRAPL`
 * how `HOU`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * were `WR`
 * walls! `WAULS SKHRAPL`
 * for `TPOR`
@@ -524,7 +524,7 @@
 * still `STEUL`
 * clung `KHRUPBG`
 * green `TKPWRAOEPB`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
 * good `TKPWAOD`
 * passes `PA*FS`

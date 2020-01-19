@@ -540,7 +540,7 @@
 * little `HREUL`
 * garret `TKPWAEUR/RET`
 * roof, `RAOF KW-BG`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * own `OEPB`
 * mend `PHEPBD`
 * them `THEPL`

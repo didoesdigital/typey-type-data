@@ -400,7 +400,7 @@
 * everything `EFRG`
 * heard. `HAERD TP-PL`
 * milk-cart `PH*EULG H-PB KART`
-* edge `EPBG`
+* edge `EPBLG`
 * field-road, `TPAOELD H-PB RAOD KW-BG`
 * blooming `PWHRAOPL/-G`
 * bush; `PWURB STPH*FPLT`

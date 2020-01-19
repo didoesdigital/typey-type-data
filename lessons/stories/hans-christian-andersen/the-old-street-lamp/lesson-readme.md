@@ -275,7 +275,7 @@
 * pink `P*EUPBG`
 * paper `PAEUP`
 * gold `TKPWOELD`
-* edge; `EPBG STPH*FPLT`
+* edge; `EPBLG STPH*FPLT`
 * writing `WREUG`
 * elegant, `EL/TKPWAPBT KW-BG`
 * evidently `AEFD/HREU`
@@ -731,7 +731,7 @@
 * bed `PWED`
 * window `WOEUPBD`
 * curtains, `KUR/TEUPBS KW-BG`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * neat. `TPHAOET TP-PL`
 * seat `SAOET`
 * curious `KAOURS`

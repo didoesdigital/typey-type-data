@@ -36,7 +36,7 @@
 * this `TH`
 * flower, `TPHRO*UR KW-BG`
 * wild `WAOEULD`
-* hedge-rose, `HEPBL H-PB ROEZ KW-BG`
+* hedge-rose, `HEPBLG H-PB ROEZ KW-BG`
 * with `W`
 * its `EUTS`
 * apple-scented `A*EPL H-PB SKREPBT/-D`

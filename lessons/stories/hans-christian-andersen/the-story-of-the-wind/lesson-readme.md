@@ -1418,7 +1418,7 @@
 * gentle `SKWR*EPBLT`
 * bay-window, `PWAEU H-PB WOEUPBD KW-BG`
 * hawthorn `HRO*ER/HA*U/THORPB`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * heath. `HAO*ET TP-PL`
 * at? `AT H-F`
 * Their `KPA/THAEUR`

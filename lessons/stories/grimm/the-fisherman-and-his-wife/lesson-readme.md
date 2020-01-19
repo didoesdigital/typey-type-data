@@ -160,7 +160,7 @@
 * And `AFPBD`
 * stood `STAOD`
 * water's `WAUR AES`
-* edge, `EPBG KW-BG`
+* edge, `EPBLG KW-BG`
 * said: `SAEUD STPH-FPLT`
 * 'O `AE O*P`
 * man `PHAPB`
@@ -298,7 +298,7 @@
 * gloomy, `TKPWHRAOPL/KWREU KW-BG`
 * though `THOE`
 * calm; `KAUPL STPH*FPLT`
-* edge `EPBG`
+* edge `EPBLG`
 * waves, `WAFS KW-BG`
 * now?' `TPHOU H-F AE`
 * dolefully, `TKOEL/-FL/HREU KW-BG`

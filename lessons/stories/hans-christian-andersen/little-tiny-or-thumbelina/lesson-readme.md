@@ -626,7 +626,7 @@
 * winter, `WEURPBT KW-BG`
 * like; `HRAOEUBG STPH*FPLT`
 * rooms `RAOPLS`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * neat, `TPHAOET KW-BG`
 * stories, `STOERS KW-BG`
 * shall `SHAL`
@@ -1117,7 +1117,7 @@
 * seems `SAOEPLS`
 * higher `HAOEUR`
 * Here, `KPA/HAOER KW-BG`
-* hedges, `HEPBL/-S KW-BG`
+* hedges, `HEPBLG/-S KW-BG`
 * wayside, `WAEU/SAOEUD KW-BG`
 * purple, `PURPL KW-BG`
 * grapes; `TKPWRAEUPS STPH*FPLT`

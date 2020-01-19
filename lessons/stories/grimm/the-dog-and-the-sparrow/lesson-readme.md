@@ -117,7 +117,7 @@
 * at `AT`
 * steak `STAEBG`
 * lay `HRAEU`
-* edge `EPBG`
+* edge `EPBLG`
 * shelf, `SHEFL KW-BG`
 * fell. `TPEL TP-PL`
 * Then `KPA/THEPB`

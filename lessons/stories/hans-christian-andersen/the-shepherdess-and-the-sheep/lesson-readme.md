@@ -149,7 +149,7 @@
 * coal, `KOEL KW-BG`
 * also `HR-S`
 * however, `HOUF KW-BG`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * neat `TPHAOET`
 * any `TPHEU`
 * other `OER`
@@ -321,7 +321,7 @@
 * showed `SHOED`
 * place `PHRAEUS`
 * foot `TPAOT`
-* edge `EPBG`
+* edge `EPBLG`
 * gilt-leaf `TKPW*EULT H-PB HRAOEF`
 * ornaments `ORPB/-PLTS`
 * table. `TAEUBL TP-PL`

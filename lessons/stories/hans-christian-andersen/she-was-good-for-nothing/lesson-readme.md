@@ -80,7 +80,7 @@
 * pocket. `POBGT TP-PL`
 * before `PW-FP`
 * but `PWUT`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * well-mended `W*EL PHEPBD/-D`
 * clothes, `KHRO*ETS KW-BG`
 * with `W`

@@ -458,7 +458,7 @@
 * horribly `HOR/PWHREU`
 * bemired; `xxx bemired STPH*FPLT`
 * me `PHE`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * thee." `THAOE TP-PL KR-GS`
 * Now, `KPA/TPHOU KW-BG`
 * must `PHUFT`

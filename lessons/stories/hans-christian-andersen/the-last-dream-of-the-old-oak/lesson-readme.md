@@ -220,7 +220,7 @@
 * elder-blossoms `ELD/ER H-PB PWROS/SOPL/-S`
 * honeysuckle, `HOPB/KWREU/SUBG/*L KW-BG`
 * garden `TKPWA*RPB`
-* hedges, `HEPBL/-S KW-BG`
+* hedges, `HEPBLG/-S KW-BG`
 * thyme, `THAOEUPL KW-BG`
 * primroses, `PREUPL/ROES/-S KW-BG`
 * mint, `PHEUPBT KW-BG`

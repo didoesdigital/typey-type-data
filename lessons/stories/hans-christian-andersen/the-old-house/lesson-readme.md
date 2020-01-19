@@ -16,7 +16,7 @@
 * quite `KWAOEUT`
 * new `TPHU`
 * and `SKP`
-* clean. `KHAOEPB TP-PL`
+* clean. `KHRAOEPB TP-PL`
 * The `KPA/-T`
 * date `TKAEUT`
 * of `-F`
@@ -230,7 +230,7 @@
 * morning `PHORPBG`
 * an `APB`
 * came `KAEUPL`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * rooms, `RAOPLS KW-BG`
 * wait `WAEUT`
 * him, `HEUPL KW-BG`

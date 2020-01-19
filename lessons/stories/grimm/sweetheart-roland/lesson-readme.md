@@ -325,7 +325,7 @@
 * stood `STAOD`
 * midst `PHEUDZ`
 * briar `PWRAOEUR`
-* hedge, `HEPBL KW-BG`
+* hedge, `HEPBLG KW-BG`
 * fiddler. `TPEUD/HRER TP-PL`
 * them, `THEPL KW-BG`
 * musician: `PHAOUGS STPH-FPLT`
@@ -343,7 +343,7 @@
 * it.' `T TP-PL AE`
 * As `KPA/AZ`
 * hastily `HAEUFT/HREU`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * going `TKPW-G`
 * flower, `TPHRO*UR KW-BG`
 * knowing `TPHOEG`

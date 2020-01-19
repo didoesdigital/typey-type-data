@@ -47,7 +47,7 @@
 * I `EU`
 * saw `SAU`
 * a `AEU`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * roses. `ROES/-S TP-PL`
 * turtle-dove `TURLT H-PB TKOF`
 * flew `TPHRAOU`

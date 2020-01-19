@@ -388,7 +388,7 @@
 * him `HEUPL`
 * this `TH`
 * servant `SEFRB/APBT`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * dust-bin. `TKUFT H-PB PWEUPB TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * exclaimed, `SKHRAEUPL/-D KW-BG`

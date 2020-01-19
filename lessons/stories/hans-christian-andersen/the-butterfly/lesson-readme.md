@@ -283,7 +283,7 @@
 * honeysuckle `HOPB/KWREU/SUBG/*L`
 * hung `HUPBG`
 * forth `TPO*RT`
-* hedge, `HEPBL KW-BG`
+* hedge, `HEPBLG KW-BG`
 * bloom; `PWHRAOPL STPH*FPLT`
 * many `PHAEPB`
 * girls `TKPWEURLS`

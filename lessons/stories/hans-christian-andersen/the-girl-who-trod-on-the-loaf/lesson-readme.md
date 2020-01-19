@@ -256,7 +256,7 @@
 * stepping `STEPG`
 * very `SRE`
 * carefully, `KA*EUFL KW-BG`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * neat `TPHAOET`
 * nothing `TPHOG`
 * wrong `WROPBG`
@@ -925,7 +925,7 @@
 * given `TKPWEUFPB`
 * equalled `KWAL/-D`
 * weight `WAET`
-* clean; `KHAOEPB STPH*FPLT`
+* clean; `KHRAOEPB STPH*FPLT`
 * bread-crumb `PWRAED H-PB KRUPL`
 * given, `TKPWEUFPB KW-BG`
 * gray `TKPWRAEU`

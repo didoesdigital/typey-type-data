@@ -357,7 +357,7 @@
 * swept `SWEPT`
 * bear's `PWAER AES`
 * hide `HAOEUD`
-* clean; `KHAOEPB STPH*FPLT`
+* clean; `KHRAOEPB STPH*FPLT`
 * himself `H*EUPLS`
 * growled `TKPWROULD`
 * contentedly `KAUPBT/-D/HREU`
@@ -786,7 +786,7 @@
 * surprised `SPRAOEUFD`
 * emptied `EPL/TEUD`
 * stones `STOEPBS`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * spot, `SPOT KW-BG`
 * thought `THAUT`
 * anyone `TPHEUPB`

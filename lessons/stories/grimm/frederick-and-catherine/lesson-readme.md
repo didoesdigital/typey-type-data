@@ -244,7 +244,7 @@
 * 'How `AE KPA/HOU`
 * very `SRE`
 * neat `TPHAOET`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * looks!' `HRAOBGS SKHRAPL AE`
 * noon `TPHAOPB`
 * came `KAEUPL`
@@ -270,7 +270,7 @@
 * jug: `SKWRUG STPH-FPLT`
 * dry, `TKRAOEU KW-BG`
 * looks `HRAOBGS`
-* clean!' `KHAOEPB SKHRAPL AE`
+* clean!' `KHRAOEPB SKHRAPL AE`
 * 'Kate, `AE KA*ET KW-BG`
 * Kate,' `KA*ET KW-BG AE`
 * 'how `AE HOU`

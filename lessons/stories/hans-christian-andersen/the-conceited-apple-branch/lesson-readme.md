@@ -28,7 +28,7 @@
 * in `TPH`
 * profusion `PRO/TPAOUGS`
 * covered `KOFRD`
-* hedges. `HEPBL/-S TP-PL`
+* hedges. `HEPBLG/-S TP-PL`
 * Under `KPA/TPH-PB`
 * little `HREUL`
 * apple-tree, `A*EPL H-PB TRAOE KW-BG`

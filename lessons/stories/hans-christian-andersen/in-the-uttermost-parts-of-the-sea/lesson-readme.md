@@ -357,7 +357,7 @@
 * fallen. `TPAUL/-PB TP-PL`
 * hips `HEUPS`
 * gleamed `TKPWHRAOEPL/-D`
-* hedges, `HEPBL/-S KW-BG`
+* hedges, `HEPBLG/-S KW-BG`
 * starling `STARLG`
 * cage `KAEUPBLG`
 * window `WOEUPBD`

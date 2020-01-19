@@ -6,7 +6,7 @@
 * garden `TKPWA*RPB`
 * ran `RAPB`
 * a `AEU`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * of `-F`
 * hazel-bushes; `HAEUZ/EL H-PB PWURBS STPH*FPLT`
 * beyond `KWROPBD`

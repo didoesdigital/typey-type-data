@@ -150,7 +150,7 @@
 * lay `HRAEU`
 * down `TKOUPB`
 * behind `HEUPBD`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * shade `SHAEUD`
 * while `WHAOEUL`
 * are `R`

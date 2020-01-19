@@ -33,7 +33,7 @@ The Toad
 'water': WAUR
 'over': OEFR
 'the': -T
-'edge': EPBG
+'edge': EPBLG
 'of': -F
 'the': -T
 'well.': WEL TP-PL
@@ -494,7 +494,7 @@ The Toad
 'get': TKPWET
 'to': TO
 'the': -T
-'edge': EPBG
+'edge': EPBLG
 'of': -F
 'the': -T
 'well,': WEL KW-BG
@@ -600,7 +600,7 @@ The Toad
 'get': TKPWET
 'to': TO
 'the': -T
-'edge': EPBG
+'edge': EPBLG
 'of': -F
 'the': -T
 'well,': WEL KW-BG
@@ -916,7 +916,7 @@ The Toad
 'off': OF
 'was': WAS
 'a': AEU
-'hedge': HEPBL
+'hedge': HEPBLG
 'of': -F
 'whitethorn,': xxx whitethorn KW-BG
 'and': SKP

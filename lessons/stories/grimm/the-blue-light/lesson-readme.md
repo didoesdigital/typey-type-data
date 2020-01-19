@@ -209,7 +209,7 @@
 * She `KPA/SHE`
 * up, `UP KW-BG`
 * near `TPHAOER`
-* edge, `EPBG KW-BG`
+* edge, `EPBLG KW-BG`
 * stretched `STREFPD`
 * hand `HAPBD`
 * wanted `WAPBTD`
@@ -433,7 +433,7 @@
 * face, `TPAEUS KW-BG`
 * pick `PEUBG`
 * again, `TKPWEPB KW-BG`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * brighten `PWRAOEUT/*EPB`
 * them. `THEPL TP-PL`
 * She, `KPA/SHE KW-BG`

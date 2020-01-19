@@ -922,7 +922,7 @@
 * process `PROEUS`
 * necessary, `TPHES KW-BG`
 * afterwards `A*FRDZ`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * transparent, `TRAEUPBT KW-BG`
 * age; `AEUPBLG STPH*FPLT`
 * faithfully `TPA*EUT/TPHREU`

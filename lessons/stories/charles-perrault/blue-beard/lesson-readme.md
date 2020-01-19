@@ -431,7 +431,7 @@
 * Fairy, `KPA/TPAEUR/REU KW-BG`
 * never `TPHEFR`
 * quite `KWAOEUT`
-* clean; `KHAOEPB STPH*FPLT`
+* clean; `KHRAOEPB STPH*FPLT`
 * gone `TKPWOPB`
 * off `OF`
 * side, `SAOEUD KW-BG`

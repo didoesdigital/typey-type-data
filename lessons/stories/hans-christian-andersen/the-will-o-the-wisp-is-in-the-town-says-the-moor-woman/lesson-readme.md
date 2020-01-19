@@ -87,7 +87,7 @@
 * habitations `HAB/TAEUGS/-S`
 * men `PHEPB`
 * were `WR`
-* hedges `HEPBL/-S`
+* hedges `HEPBLG/-S`
 * all `AUL`
 * in `TPH`
 * disorder, `TKORD KW-BG`
@@ -507,7 +507,7 @@
 * mother, `PHOER KW-BG`
 * stood `STAOD`
 * clipped `KHREUPD`
-* hedges, `HEPBL/-S KW-BG`
+* hedges, `HEPBLG/-S KW-BG`
 * ferns `TPERPB/-S`
 * stinging `STEUPBG/-G`
 * nettles `TPHET/-LS`

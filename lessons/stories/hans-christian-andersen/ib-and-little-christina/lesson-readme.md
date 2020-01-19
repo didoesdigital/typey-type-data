@@ -611,7 +611,7 @@
 * clambered `KHRAPL/ERD`
 * rising `RAOEUFG`
 * ground, `TKPWROUPBD KW-BG`
-* edge `EPBG`
+* edge `EPBLG`
 * declivity, `TKE/KHREUFT KW-BG`
 * sloped `SHROEPD`
 * transparent `TRAEUPBT`

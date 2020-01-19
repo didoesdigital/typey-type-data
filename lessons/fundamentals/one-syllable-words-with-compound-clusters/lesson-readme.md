@@ -12,6 +12,7 @@
 * bank `PWA*PBG`
 * stage `STAEUPBLG`
 * served `SEFRBD`
+* edge `EPBLG`
 * rank `RA*PBG`
 * huge `HAOUPBLG`
 * milk `PH*EULG`
@@ -59,6 +60,7 @@
 * ink `*EUPBG`
 * stamped `STA*PLD`
 * lodged `HROPBLGD`
+* hedge `HEPBLG`
 * serves `SEFRBS`
 * edges `EPBLGS`
 * cage `KAEUPBLG`

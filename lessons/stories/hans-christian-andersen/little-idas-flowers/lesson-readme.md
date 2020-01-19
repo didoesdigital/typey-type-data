@@ -793,7 +793,7 @@
 * she, `SHE KW-BG`
 * turning `TURPBG`
 * seated `SAOETD`
-* edge `EPBG`
+* edge `EPBLG`
 * ask `SK`
 * dance; `TKAPBS STPH*FPLT`
 * came. `KAEUPL TP-PL`

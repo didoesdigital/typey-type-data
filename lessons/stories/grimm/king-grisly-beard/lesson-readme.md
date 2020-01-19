@@ -329,7 +329,7 @@
 * up `UP`
 * early `ERL`
 * morning `PHORPBG`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * house. `HOUS TP-PL`
 * Thus `KPA/THUS`
 * lived `HREUFD`

@@ -894,7 +894,7 @@
 * middle `PH*EULD`
 * summer—there `SAOURPL EPL/TKA*RB THR`
 * hopped `HOPD`
-* clean-swept `KHAOEPB H-PB SWEPT`
+* clean-swept `KHRAOEPB H-PB SWEPT`
 * courtyard `KORT/KWRARD`
 * principal `PRAL`
 * entrance `SPWRAPBS`

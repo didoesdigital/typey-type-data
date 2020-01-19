@@ -364,7 +364,7 @@
 * remain `RE/PHAEUPB`
 * kitchen, `K-FP KW-BG`
 * light, `HRAOEUT KW-BG`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * tidy; `TAOEU/TKEU STPH*FPLT`
 * copper `KOP/ER`
 * utensils `AOU/TEPBS/EULS`

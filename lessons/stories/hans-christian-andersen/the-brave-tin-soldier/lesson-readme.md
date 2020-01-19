@@ -533,7 +533,7 @@
 * times, `TAOEUPLS KW-BG`
 * filled `TPEULD`
 * water `WAUR`
-* edge; `EPBG STPH*FPLT`
+* edge; `EPBLG STPH*FPLT`
 * nothing `TPHOG`
 * save `SAF`
 * sinking. `SEUPB/K-G TP-PL`

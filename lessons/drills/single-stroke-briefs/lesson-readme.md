@@ -1071,7 +1071,7 @@
 * clave `KHRAEUF`
 * claw `KHRAU`
 * clay `KHRAEU`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * cleaner `KHRAOERPB`
 * cleanup `KHR*UP`
 * clearance `KRAOERPBS`
@@ -2568,8 +2568,8 @@
 * heavily `HEFL`
 * heavy `HOEUF`
 * heck `HEBG`
-* hedge `HEPBL`
-* hedged `HEPBLDZ`
+* hedge `HEPBLG`
+* hedged `HEPBLGD`
 * heel `HAOEL`
 * heft `HEFT`
 * heh `H*E`

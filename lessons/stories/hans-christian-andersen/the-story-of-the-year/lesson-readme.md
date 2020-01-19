@@ -88,7 +88,7 @@
 * narrow `TPHO*EUR`
 * path `PA*T`
 * swept `SWEPT`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * front `TPROPBT`
 * houses; `HO*UFS STPH*FPLT`
 * when `WHEPB`

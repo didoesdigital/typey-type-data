@@ -75,7 +75,7 @@
 * managed `PHAPBGD`
 * jump `SKWRUFRP`
 * up `UP`
-* edge `EPBG`
+* edge `EPBLG`
 * "Good-bye, `KR-GS KPA/TKPWAOD H-PB PWAO*EU KW-BG`
 * friend," `TPREPBD KW-BG KR-GS`
 * Fox, `KPA/TPOBGS KW-BG`

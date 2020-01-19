@@ -74,7 +74,7 @@
 * maids `PHAEUDZ`
 * often `OFPB`
 * laid `HRAEUD`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * copper `KOP/ER`
 * saucepans `SAUS/PAPB/-S`
 * vessels `SREFLS`

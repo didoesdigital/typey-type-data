@@ -359,7 +359,7 @@
 * 'Sweep `AE KPA/SWAOEP`
 * me `PHE`
 * room `RAOPL`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * can, `K KW-BG`
 * Up `KPA/UP`
 * window, `WOEUPBD KW-BG`

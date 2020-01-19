@@ -819,7 +819,7 @@
 * hops `HOPS`
 * convolvuli `xxx convolvuli`
 * bloom `PWHRAOPL`
-* hedges. `HEPBL/-S TP-PL`
+* hedges. `HEPBLG/-S TP-PL`
 * evening `AOEPBG`
 * moon `PHAOPB`
 * rose, `ROEZ KW-BG`

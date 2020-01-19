@@ -500,7 +500,7 @@
 * useful `AOUFL`
 * required. `RAOEURD TP-PL`
 * pleasure `PHRERB`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * shining `SHAOEUPBG`
 * after `AF`
 * dinner, `TKEURPB KW-BG`

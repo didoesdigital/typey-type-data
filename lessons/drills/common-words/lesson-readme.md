@@ -165,7 +165,7 @@
 * chuckle `KHUBG/*L`
 * city `STEU`
 * class `KHRAS`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * clear `KHRAOER`
 * climb `KHRAOEUPL`
 * close `KHROES`
@@ -250,7 +250,7 @@
 * easily `AOELS`
 * easy `EZ`
 * eat `AOET`
-* edge `EPBG`
+* edge `EPBLG`
 * either `AOERT`
 * else `ELS`
 * empty `EPLT`

@@ -595,7 +595,7 @@
 * away, `A/WAEU KW-BG`
 * frightening `TPRAOEUT/EPBG`
 * birds `PWEURDZ`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * palings. `P*/A*/HR*/*EU/TPH*/TKPW*/S* TP-PL`
 * "They `KR-GS KPA/THE`
 * said. `SAEUD TP-PL`

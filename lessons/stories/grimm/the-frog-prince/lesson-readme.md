@@ -185,7 +185,7 @@
 * little `HREUL`
 * while `WHAOEUL`
 * mouth, `PHO*UT KW-BG`
-* edge `EPBG`
+* edge `EPBLG`
 * As `KPA/AZ`
 * soon `SAOPB`
 * saw `SAU`

@@ -44,7 +44,7 @@
 * way `WAEU`
 * off, `OF KW-BG`
 * on `OPB`
-* edge `EPBG`
+* edge `EPBLG`
 * roof, `RAOF KW-BG`
 * stood `STAOD`
 * father `TPAER`

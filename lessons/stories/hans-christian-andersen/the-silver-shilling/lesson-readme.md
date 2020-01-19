@@ -208,7 +208,7 @@
 * punishment. `PUPLT TP-PL`
 * In `KPA/TPH`
 * eagerness, `AOEG/ERPBS KW-BG`
-* edge `EPBG`
+* edge `EPBLG`
 * pocket `POBGT`
 * trousers; `TROUZ/ERS STPH*FPLT`
 * when, `WHEPB KW-BG`

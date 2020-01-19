@@ -27,7 +27,7 @@
 * of `-F`
 * water `WAUR`
 * over `OEFR`
-* edge `EPBG`
+* edge `EPBLG`
 * well. `WEL TP-PL`
 * Though `KPA/THOE`
 * clear, `KHRAOER KW-BG`
@@ -435,7 +435,7 @@
 * there, `THR KW-BG`
 * meadow-sweet; `PHED/OE H-PB SWAOET STPH*FPLT`
 * way `WAEU`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * whitethorn, `xxx whitethorn KW-BG`
 * elder `ELD/ER`
 * bushes `PWURBS`

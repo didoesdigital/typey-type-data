@@ -1491,7 +1491,7 @@
 * favour `TPAEU/SROUR`
 * height `HAOEUT`
 * size `SAOEUZ`
-* edge `EPBG`
+* edge `EPBLG`
 * subjects `SUBTS`
 * task `TAFBG`
 * follows `TPOLS`
@@ -1721,7 +1721,7 @@
 * rooms `RAOPLS`
 * admit `AD/PHEUT`
 * supply `SPHAOEU`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * useful `AOUFL`
 * yesterday `KWRED`
 * delicate `TKEL/KAT`
@@ -5885,7 +5885,7 @@
 * banished `PWAPB/EURBD`
 * restoration `RE/STORGS`
 * serpent `SERP/EPBT`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * k `K*`
 * jurisdiction `SKWRUBGS`
 * captains `KAPT/EUPBS`

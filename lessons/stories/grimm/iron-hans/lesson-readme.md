@@ -809,7 +809,7 @@
 * asked, `SK-D KW-BG`
 * too: `TAO STPH-FPLT`
 * "Under `KR-GS KPA/TPH-PB`
-* hedge `HEPBL`
+* hedge `HEPBLG`
 * lying `HRAOEUG`
 * sleeping `SHRAOEPG`
 * time?" `TAOEUPL H-F KR-GS`

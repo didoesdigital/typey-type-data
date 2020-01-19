@@ -654,7 +654,7 @@
 * Afterwards `KPA/A*FRDZ`
 * pretty `PREUT`
 * beds `PWEDZ`
-* clean `KHAOEPB`
+* clean `KHRAOEPB`
 * linen, `HREUPB/-PB KW-BG`
 * heaven. `HEFPB TP-PL`
 * only `OEPBL`
