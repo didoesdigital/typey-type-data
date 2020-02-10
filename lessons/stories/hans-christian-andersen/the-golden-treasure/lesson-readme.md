@@ -786,7 +786,7 @@
 * wife. `WAOEUF TP-PL`
 * "That `KR-GS KPA/THA`
 * answered `AEPBS/-D`
-* capitally `KAPLT/HREU`
+* capitally `KPAL/HREU`
 * policeman's `PHREUS/PHAPBS/AE`
 * daughter, `TKAUR KW-BG`
 * husband." `HUS TP-PL KR-GS`
@@ -896,7 +896,7 @@
 * asked `SK-D`
 * home. `HOEPL TP-PL`
 * "A `KR-GS KPA/AEU`
-* capital `KAPLT`
+* capital `KPAL`
 * piece `PAOES`
 * news. `TPHUS TP-PL`
 * Burgomaster's `xxx Burgomaster AES`

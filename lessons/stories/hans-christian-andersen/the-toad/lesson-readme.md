@@ -460,7 +460,7 @@
 * that!" `THA SKHRAPL KR-GS`
 * "Croak! `KR-GS KPA/KROEBG SKHRAPL`
 * how `HOU`
-* capital `KAPLT`
+* capital `KPAL`
 * be." `-B TP-PL KR-GS`
 * Eight `KPA/AET`
 * eight `AET`

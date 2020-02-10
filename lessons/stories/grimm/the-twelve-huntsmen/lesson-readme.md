@@ -348,7 +348,7 @@
 * through `THRU`
 * never `TPHEFR`
 * spinning-wheels. `SPEUPBG H-PB WHAOELS TP-PL`
-* deceived `TKAOE/SAOEFD`
+* deceived `STKAOEFD`
 * men, `PHEPB KW-BG`
 * replied: `RE/PHRAOEUD STPH-FPLT`
 * restrained `RAOE/STRAEUPBD`

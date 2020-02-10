@@ -67,7 +67,7 @@
 * we `WE`
 * can `K`
 * share `SHAEUR`
-* tidings." `TAOEUGD/-S TP-PL KR-GS`
+* tidings." `TAOEUD/-G/-S TP-PL KR-GS`
 * And `AFPBD`
 * so `SO`
 * saying `SAEUG`

@@ -420,7 +420,7 @@
 * Am `KPA/APL`
 * then `THEPB`
 * days `TKAEUS`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * changed?' `KHAEUPBGD H-F AE`
 * offered `OFRD`
 * baker, `PWAEURBG KW-BG`

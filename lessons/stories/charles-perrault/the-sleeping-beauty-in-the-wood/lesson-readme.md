@@ -963,7 +963,7 @@
 * fetch `TPEFP`
 * castle. `KAFL TP-PL`
 * entry `SPWREU`
-* capital `KAPLT`
+* capital `KPAL`
 * riding `RAOEUD/-G`
 * children. `KHEURPB TP-PL`
 * Some `KPA/SOPL`
@@ -1174,7 +1174,7 @@
 * quite `KWAOEUT`
 * mad `PHAD`
 * thus `THUS`
-* deceived, `TKAOE/SAOEFD KW-BG`
+* deceived, `STKAOEFD KW-BG`
 * morning, `PHORPBG KW-BG`
 * break `PWRAEBG`
 * (with `PREPB W`

@@ -219,7 +219,6 @@
 * disagreeable `TKEUS/TKPWRAOEBL`
 * deprived `TKE/PRAOEUFD`
 * invisible `EUPB/SREUBL`
-* amidst `A/PHEUTDZ`
 * assigned `A/SAOEUPBD`
 * declined `TKE/KHRAOEUPBD`
 * uneasy `UPB/EZ`

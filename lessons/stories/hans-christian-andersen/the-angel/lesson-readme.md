@@ -199,7 +199,7 @@
 * rubbish `RUB/EURB`
 * pleasant `PHREFPBT`
 * see. `SAOE TP-PL`
-* Amidst `KPA/A/PHEUTDZ`
+* Amidst `KPA/A/PH*EUS`
 * this `TH`
 * confusion, `KAUFGS KW-BG`
 * pointed `POEUPBTD`

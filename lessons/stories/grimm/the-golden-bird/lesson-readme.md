@@ -260,7 +260,7 @@
 * passed `PAFD`
 * on; `OPB STPH*FPLT`
 * back, `PWABG KW-BG`
-* tidings `TAOEUGD/-S`
+* tidings `TAOEUD/-G/-S`
 * out, `OUT KW-BG`
 * same `SAEUPL`
 * thing `THEUPBG`

@@ -109,7 +109,6 @@
 * services `S-FSZ`
 * observe `OEB`
 * guilty `TKPW-LT`
-* disease `TK-Z`
 * listening `HR-PBG`
 * comfortable `K-BL`
 * opinions `P-PBS`

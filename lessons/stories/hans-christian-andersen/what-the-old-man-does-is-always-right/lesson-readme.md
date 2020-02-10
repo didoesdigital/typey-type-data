@@ -655,7 +655,7 @@
 * "Now `KR-GS KPA/TPHOU`
 * butter, `PWAOURT KW-BG`
 * cheese `KHAOES`
-* capital `KAPLT`
+* capital `KPAL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * changed `KHAEUPBGD`
 * sheep." `SHAOEP TP-PL KR-GS`

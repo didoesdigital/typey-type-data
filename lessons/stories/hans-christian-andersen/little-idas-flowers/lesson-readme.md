@@ -155,7 +155,7 @@
 * towards `TORDZ`
 * you? `STPHU`
 * Well, `KPA/WEL KW-BG`
-* capital `KAPLT`
+* capital `KPAL`
 * balls `PWAULS`
 * there, `THR KW-BG`
 * believe `PWHREF`
@@ -276,7 +276,7 @@
 * here,' `HAOER KW-BG AE`
 * them." `THEPL TP-PL KR-GS`
 * "Oh `KR-GS KPA/O*ERBGS`
-* capital," `KAPLT KW-BG KR-GS`
+* capital," `KPAL KW-BG KR-GS`
 * clapping `KHRAP/-G`
 * hands. `HAPBDZ TP-PL`
 * "Should `KR-GS KPA/SHO`

@@ -66,7 +66,7 @@
 * Institution, `STPHAO*UGS KW-BG`
 * experiment `SPERPLT`
 * made `PHAED`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * happy. `HAEP TP-PL`
 * did `TK`
 * not `TPHOT`

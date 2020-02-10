@@ -291,7 +291,7 @@
 * Even `KPA/AOEPB`
 * appeared `A/PAOERD`
 * perform `PORPL`
-* independently `PAEPBLT`
+* independently `P*EPBLT`
 * their `THAEUR`
 * master `PHAFRT`
 * guided `TKPWAOEUD/-D`

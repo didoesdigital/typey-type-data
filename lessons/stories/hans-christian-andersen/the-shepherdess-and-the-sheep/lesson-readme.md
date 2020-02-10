@@ -89,7 +89,7 @@
 * always `AULS`
 * called `KAULD`
 * him, `HEUPL KW-BG`
-* "Major `KR-GS KPA/PHOEUPBLG`
+* "Major `KR-GS KPA/PHAEUPBLG`
 * general-field-sergeant-commander `SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
 * Billy-goat's-legs." `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL KR-GS`
 * certainly `SERPBL`
@@ -222,7 +222,7 @@
 * her, `HER KW-BG`
 * therefore `TH-FR`
 * when `WHEPB`
-* "Major-general-field-sergeant-commander `KR-GS KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
+* "Major-general-field-sergeant-commander `KR-GS KPA/PHAEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
 * Billy-goat's-legs" `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS KR-GS`
 * asked `SK-D`
 * wife, `WAOEUF KW-BG`
@@ -243,7 +243,7 @@
 * mahogany. `PHA/HOG/TPHEU TP-PL`
 * make `PHAEUBG`
 * lady `HRA*ED`
-* Major-general-field-sergeant-commander `KPA/PHOEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
+* Major-general-field-sergeant-commander `KPA/PHAEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER`
 * Billy-goat's-legs. `PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL`
 * has `HAS`
 * whole `WHOEL`
@@ -308,7 +308,7 @@
 * able `ABL`
 * maintain `PHEUPB/TAEUPB`
 * my `PHEU`
-* profession." `PREGS TP-PL KR-GS`
+* profession." `PREFGS TP-PL KR-GS`
 * "If `KR-GS KPA/TP`
 * safely `SAEUFL`
 * down `TKOUPB`
@@ -342,7 +342,7 @@
 * antlers, `APBT/HRER/-S KW-BG`
 * twisted `TWEUFTD`
 * necks. `TPHEBG/-S TP-PL`
-* major-general `PHOEUPBLG H-PB SKWREPBL`
+* major-general `PHAEUPBLG H-PB SKWREPBL`
 * sprung `SPRUPBG`
 * air; `AEUR STPH*FPLT`
 * cried `KRAOEUD`

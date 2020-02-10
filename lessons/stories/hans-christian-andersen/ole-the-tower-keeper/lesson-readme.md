@@ -414,7 +414,7 @@
 * reading `RAEGD`
 * lost `HRO*S`
 * myself `PHAO*EUS`
-* completely, `KPHRELT KW-BG`
+* completely, `KPHRAOELT KW-BG`
 * forgot `TPAURGT`
 * usual `URBL`
 * diversion, `TKWERGS KW-BG`

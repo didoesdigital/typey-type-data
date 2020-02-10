@@ -1310,7 +1310,7 @@
 * spirits `SPEURTS`
 * fish `TPEURB`
 * tongue `TUPBG`
-* capital `KAPLT`
+* capital `KPAL`
 * angry `APBG/REU`
 * growing `TKPWROEG`
 * served `SEFRBD`
@@ -1585,7 +1585,7 @@
 * inside `TPH-DZ`
 * brain `PWRAEUPB`
 * soil `SOEUL`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * message `PHEPBLG`
 * ring `REUPBG`
 * resolved `RO*FLD`
@@ -2618,7 +2618,7 @@
 * claims `KHRAEUPLS`
 * pp. `P*/P*/TP-PL`
 * merit `PHERT`
-* profession `PREGS`
+* profession `PREFGS`
 * lamp `HRAFRP`
 * interview `EUPBT/SRAOU`
 * territory `TERT`
@@ -3426,7 +3426,7 @@
 * roses `ROES/-S`
 * citizen `SEUT/*EPB`
 * reminded `RE/PHAOEUPBD/T-D`
-* deceived `TKAOE/SAOEFD`
+* deceived `STKAOEFD`
 * tables `TAEUBLS`
 * beach `PWAEFP`
 * starting `STARGT`
@@ -3745,7 +3745,7 @@
 * Venice `SREPB/EUS`
 * federal `TPRAL`
 * questioned `KWED`
-* editor `OERTD`
+* editor `ERTD`
 * desirable `STKAOEURBL`
 * acknowledge `ABG/TPHOPBLG`
 * motionless `PHOEGS/-LS`
@@ -3947,7 +3947,7 @@
 * commons `KPHOPBS`
 * foul `TPOUL`
 * loaded `HRAOD/-D`
-* amidst `A/PHEUTDZ`
+* amidst `A/PH*EUS`
 * titles `TAOEULTS`
 * ancestors `APB/SEFT/ORS`
 * types `TAOEUPS`
@@ -4094,7 +4094,7 @@
 * knock `TPHOBG`
 * impatience `EUPL/PAEURBS`
 * unity `AO*UPBT`
-* dealing `TAOELG`
+* dealing `TKAOELG`
 * prohibition `PROEUBGS`
 * decent `TKAOEPBT`
 * fiery `TPAOEU/REU`
@@ -4107,7 +4107,7 @@
 * rejoined `RE/SKWROEUPB/-D`
 * speedily `SPAOED/HREU`
 * consented `KEFPBT/-D`
-* major `PHOEUPBLG`
+* major `PHAEUPBLG`
 * preliminary `PREL`
 * cell `KREL`
 * void `SROEUD`
@@ -4503,7 +4503,7 @@
 * aught `AUT`
 * lifting `HREUFT/-G`
 * inaccurate `TPHABG/RAT`
-* tidings `TAOEUGD/-S`
+* tidings `TAOEUD/-G/-S`
 * Friday `TPREU`
 * liquid `KWEULD`
 * staying `STAEUG`
@@ -5417,7 +5417,7 @@
 * steward `STAOURD`
 * fantastic `TPAPB/T-FBG`
 * evolution `EFGS`
-* patiently `PAEURBLT`
+* patiently `PAEURBT/HREU`
 * reverse `RE/SRES`
 * survey `SOEUF`
 * dug `TKUG`
@@ -7090,7 +7090,7 @@
 * butler `PWUT/HRER`
 * rattle `RA*LT`
 * transported `TR-PTD`
-* estimation `STEUPGS`
+* estimation `STEUPLGS`
 * edit `ETD`
 * gotten `TKPW*PB`
 * cuts `KUTS`
@@ -7234,7 +7234,7 @@
 * proving `PROFG`
 * benevolence `PWEPBL/SREPBS`
 * Brussels `PWRUS/ELS`
-* civilisation `S*EUFLGS`
+* civilisation `SEUFLGS/A*U`
 * mounting `PHOUPBT/-G`
 * desiring `STKAOEURG`
 * rushes `RURBS`
@@ -7588,7 +7588,7 @@
 * permanently `PERPL/HREU`
 * jumping `SKWRUPL/-PG`
 * babe `PWAEUB`
-* secondly `SELGD`
+* secondly `SEBLGD`
 * violin `SRO*EUPBL`
 * rogue `ROEG`
 * rainy `RAEUPB/KWREU`
@@ -7658,7 +7658,7 @@
 * linger `HREURPBG`
 * shady `SHAEU/TKEU`
 * calculation `KHRAEUGS`
-* expansion `KPAPBGS`
+* expansion `EBGS/PAPBGS`
 * mast `PHAFT`
 * confer `K-FR`
 * Sophia `SOE/TPAO/KWRA`
@@ -8251,7 +8251,7 @@
 * earthquake `*ERT/KWAEUBG`
 * sloping `SHROEPG`
 * smoothly `SPHAO*LT`
-* tension `TEPGS`
+* tension `TEPBGS`
 * intrigues `SPWRAOEG/-S`
 * fearfully `TPAOER/TPHREU`
 * Macaulay `PH*/A*/KR*/A*/*U/HR*/A*/KWR*`
@@ -8680,7 +8680,7 @@
 * civility `SEUFLT`
 * dingy `TKEUPBG/KWREU`
 * scaffold `SKAFLD`
-* concentration `SKRAUGS`
+* concentration `SKRAEUGS`
 * avarice `AFR/EUS`
 * scrape `SKRAEUP`
 * pools `PAOLS`
@@ -8827,7 +8827,7 @@
 * distressing `TKEUS/TRES/-G`
 * novelist `TPHOFL/EUFT`
 * Cyril `KR*P/KWR*/R*/*EU/HR*`
-* editors `ED/TORS`
+* editors `ERTSDZ`
 * intricate `EUPBT/KAT`
 * limestone `HRAOEUPL/STOEPB`
 * forty-five `TPOURT/H-PB/TPEUF`
@@ -9023,7 +9023,7 @@
 * sub `SUB`
 * drugs `TKRUGS`
 * engineers `EPBG/TPHAOERS`
-* independently `PAEPBLT`
+* independently `P*EPBLT`
 * bucket `PWUBGT`
 * clerical `KRER/K-L`
 * ache `AEUBG`
@@ -9171,7 +9171,7 @@
 * closes `KHROESZ`
 * ferocity `TPER/OFT`
 * giddy `TKPWEUD/KWREU`
-* secluded `SKHRAOUD/-D`
+* secluded `SE/KHRAOUD/-D`
 * resisting `R*EUFG`
 * satisfying `SAEG`
 * reliable `RE/HREUBL`
@@ -9777,7 +9777,7 @@
 * quickness `KWEUBG/-PBS`
 * adversity `AD/SRERS/TEU`
 * Parma `PAR/PHA`
-* diseased `STKAOEFD`
+* diseased `STKAOE/-D`
 * Iliad `EUL/KWRAD`
 * salutary `SAL/TOER`
 * smelt `SPHELT`

@@ -132,7 +132,7 @@
 * poor `PAOR`
 * girl `TKPWEURL`
 * bore `PWOR`
-* patiently, `PAEURBLT KW-BG`
+* patiently, `PAEURBT/HREU KW-BG`
 * dared `TKAEURD`
 * tell `TEL`
 * father, `TPAER KW-BG`

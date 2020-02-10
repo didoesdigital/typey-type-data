@@ -869,7 +869,7 @@
 * "how `KR-GS HOU`
 * taste `TAEUFT`
 * decayed! `TKAOE/KAEUD SKHRAPL`
-* capital `KAPLT`
+* capital `KPAL`
 * store-room. `STOR H-PB RAOPL TP-PL`
 * some `SOPL`
 * relations `RELGS/-S`

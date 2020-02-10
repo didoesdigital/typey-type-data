@@ -334,7 +334,7 @@
 * marble `PHAERBL`
 * steps `STEPS`
 * palace `PAL/AS`
-* capital `KAPLT`
+* capital `KPAL`
 * Portugal, `PORT/TPWAL KW-BG`
 * begs. `PWEGS TP-PL`
 * submissive `SPHEUS/EUF`

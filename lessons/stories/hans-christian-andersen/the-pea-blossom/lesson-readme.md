@@ -329,7 +329,7 @@
 * where `W-R`
 * was, `WAS KW-BG`
 * quietly `KWAO*EULT`
-* patiently `PAEURBLT`
+* patiently `PAEURBT/HREU`
 * day `TKAEU`
 * long, `HROPBG KW-BG`
 * while `WHAOEUL`

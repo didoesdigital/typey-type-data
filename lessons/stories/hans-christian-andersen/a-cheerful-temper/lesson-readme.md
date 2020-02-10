@@ -40,10 +40,10 @@
 * complete `KPHRAOET`
 * contradiction `KROEUBGS`
 * his `HEUS`
-* profession. `PREGS TP-PL`
+* profession. `PREFGS TP-PL`
 * pray `PRAEU`
 * what `WHA`
-* profession `PREGS`
+* profession `PREFGS`
 * standing `STAPBG`
 * respectable `R-PT/-BL`
 * society?" `SOET H-F KR-GS`
@@ -232,7 +232,7 @@
 * contentedly, `KAUPBT/-D/HREU KW-BG`
 * life `HRAOEUF`
 * such `SUFP`
-* capital `KAPLT`
+* capital `KPAL`
 * stock `STOBG`
 * paper `PAEUP`
 * can `K`

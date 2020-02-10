@@ -320,7 +320,7 @@
 * lily, `HREUL/KWREU KW-BG`
 * angel `APBG/EL`
 * rose `ROEZ`
-* amidst `A/PHEUTDZ`
+* amidst `A/PH*EUS`
 * Bible; `PWAO*EUBL STPH*FPLT`
 * and, `SKP KW-BG`
 * stretching `STREFPG`

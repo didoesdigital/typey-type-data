@@ -634,7 +634,7 @@
 * peace `PAES`
 * joy; `SKWROEU STPH*FPLT`
 * yet, `KWRET KW-BG`
-* amidst `A/PHEUTDZ`
+* amidst `A/PH*EUS`
 * this `TH`
 * happiness, `HAEP/-PBS KW-BG`
 * yearning, `KWRERPBG KW-BG`

@@ -90,7 +90,7 @@
 * constitution `TAOUGS`
 * college `KHREPBLG`
 * sovereign `SOFRPB`
-* profession `PREGS`
+* profession `PREFGS`
 * devotion `TKWOEGS`
 * creation `KRAEGS`
 * operation `OERPGS`
@@ -157,9 +157,9 @@
 * temples `TA*EPLS`
 * twilight `TWAOEULGT`
 * formation `TPAURGS`
-* dealing `TAOELG`
+* dealing `TKAOELG`
 * prohibition `PROEUBGS`
-* major `PHOEUPBLG`
+* major `PHAEUPBLG`
 * sunlight `SULGT`
 * inspiration `SPRAEUGS`
 * everyone `EFRPB`
@@ -256,10 +256,9 @@
 * flaming `TPHRAPLG`
 * pension `PEPBGS`
 * adoption `TKOPGS`
-* estimation `STEUPGS`
+* estimation `STEUPLGS`
 * handling `HAPBLG`
 * variation `SRAEURGS`
-* civilisation `S*EUFLGS`
 * indication `KA*EUGS`
 * reduction `RUBGS`
 * contradiction `KROEUBGS`
@@ -272,12 +271,11 @@
 * aversion `A*FRGS`
 * recommendation `REPLGS`
 * exhaustion `KPAUGS`
-* secondly `SELGD`
+* secondly `SEBLGD`
 * emotional `AO*ELGS`
 * cavern `KAFRPB`
 * taxation `TA*EUBGS`
 * calculation `KHRAEUGS`
-* expansion `KPAPBGS`
 * politician `PHREUGS`
 * regulation `RAEUGS`
 * violation `SROEULGS`
@@ -294,7 +292,7 @@
 * Parisian `PREUGS`
 * faction `TPA*BGS`
 * individuality `SREUPBLGT`
-* tension `TEPGS`
+* tension `TEPBGS`
 * diversion `TKWERGS`
 * presentation `PREPBGS`
 * privileged `PREUFLGD`
@@ -309,7 +307,7 @@
 * transformation `TRA*EUGS`
 * location `HROEBGS`
 * quotation `KWOGS`
-* concentration `SKRAUGS`
+* concentration `SKRAEUGS`
 * commotion `KPHOEGS`
 * spelling `SPELG`
 * originality `ORPBLGT`

@@ -546,7 +546,7 @@ Multi-syllable words with multiple strokes
 'admired': AD/PHAOEURD
 'elected': AOE/HREBGD
 'reminded': RE/PHAOEUPBD/T-D
-'deceived': TKAOE/SAOEFD
+'deceived': STKAOEFD
 'arrested': A/REFT/-D
 'consisted': KAO/-D
 'proceedings': PROED/-GS
@@ -724,7 +724,6 @@ Multi-syllable words with multiple strokes
 'Jacob': SKWRAEU/KOB
 'hesitation': HES/TAEUGS
 'destiny': TKEFT/TPHEU
-'amidst': A/PHEUTDZ
 'ancestors': APB/SEFT/ORS
 'commanding': KPHAPBD/-G
 'madness': PHAD/-PBS
@@ -915,7 +914,7 @@ Multi-syllable words with multiple strokes
 'impressions': EUPL/PREG/-S
 'lifting': HREUFT/-G
 'inaccurate': TPHABG/RAT
-'tidings': TAOEUGD/-S
+'tidings': TAOEUD/-G/-S
 'specially': SPERBL/HREU
 'adapted': A/TKAPTD
 'subdued': SAUB/TKAOUD
@@ -1282,6 +1281,7 @@ Multi-syllable words with multiple strokes
 'disposal': TKEUS/POES/AL
 'carriages': KAEURPBLG/-S
 'fantastic': TPAPB/T-FBG
+'patiently': PAEURBT/HREU
 'reverse': RE/SRES
 'amuse': A/PHAOUS
 'Isaac': AOEUS/ABG
@@ -2284,6 +2284,7 @@ Multi-syllable words with multiple strokes
 'eminently': EPL/TPHEPBT/HREU
 'suggestive': SUG/EUF
 'shady': SHAEU/TKEU
+'expansion': EBGS/PAPBGS
 'Sophia': SOE/TPAO/KWRA
 'commanders': KPHAPB/TKERS
 'pitied': PEUT/EUD
@@ -2854,7 +2855,6 @@ Multi-syllable words with multiple strokes
 'harshly': HAR/-RB/HREU
 'distressing': TKEUS/TRES/-G
 'novelist': TPHOFL/EUFT
-'editors': ED/TORS
 'intricate': EUPBT/KAT
 'limestone': HRAOEUPL/STOEPB
 'forty-five': TPOURT/H-PB/TPEUF
@@ -3030,7 +3030,7 @@ Multi-syllable words with multiple strokes
 'kinder': KAOEUPB/TKER
 'ferocity': TPER/OFT
 'giddy': TKPWEUD/KWREU
-'secluded': SKHRAOUD/-D
+'secluded': SE/KHRAOUD/-D
 'reliable': RE/HREUBL
 'disgusting': TKEUS/TKPWUS/-G
 'thirty-six': THEURT/H-PB/SEUBGS
@@ -3321,6 +3321,7 @@ Multi-syllable words with multiple strokes
 'quickness': KWEUBG/-PBS
 'adversity': AD/SRERS/TEU
 'Parma': PAR/PHA
+'diseased': STKAOE/-D
 'Iliad': EUL/KWRAD
 'salutary': SAL/TOER
 'territorial': TER/TORL

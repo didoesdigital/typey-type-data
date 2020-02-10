@@ -153,7 +153,7 @@
 * trotting `TROT/-G`
 * gaily `TKPWAEU/HREU`
 * along `HRAOPBG`
-* capital `KAPLT`
+* capital `KPAL`
 * horse. `HORS TP-PL`
 * 'Ah!' `AE KPA/HA*E SKHRAPL AE`
 * said `SAEUD`

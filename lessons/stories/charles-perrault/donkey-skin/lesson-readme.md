@@ -621,7 +621,7 @@
 * "Either `KR-GS KPA/AOERT`
 * am `APL`
 * greatly `TKPWRAELT`
-* deceived `TKAOE/SAOEFD`
+* deceived `STKAOEFD`
 * or `OR`
 * sun `SUPB`
 * we `WE`

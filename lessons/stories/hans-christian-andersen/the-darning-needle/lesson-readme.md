@@ -275,7 +275,7 @@
 * itself `*EUTS`
 * airs. `AEUR/-S TP-PL`
 * sit `SEUT`
-* patiently `PAEURBLT`
+* patiently `PAEURBT/HREU`
 * quietly. `KWAO*EULT TP-PL`
 * move." `PHOF TP-PL KR-GS`
 * One `KPA/WUPB`

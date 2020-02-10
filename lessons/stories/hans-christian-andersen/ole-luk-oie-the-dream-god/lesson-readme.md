@@ -288,7 +288,7 @@
 * leaf `HRAOEF`
 * stood `STAOD`
 * row `ROE`
-* capital `KAPLT`
+* capital `KPAL`
 * letters, `HRERTS KW-BG`
 * letter `HRERT`
 * by `PWEU`

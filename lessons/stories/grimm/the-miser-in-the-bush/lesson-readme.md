@@ -188,7 +188,7 @@
 * everything `EFRG`
 * shoot `SHAOT`
 * at; `AT STPH*FPLT`
-* secondly, `SELGD KW-BG`
+* secondly, `SEBLGD KW-BG`
 * fiddle `TP*EULD`
 * everyone `EFRPB`
 * dancing `TKAPBS/-G`

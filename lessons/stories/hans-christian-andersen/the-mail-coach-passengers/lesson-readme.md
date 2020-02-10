@@ -143,7 +143,7 @@
 * struck `STRUBG`
 * "Your `KR-GS KPA/KWROUR`
 * name `TPHAEUPL`
-* profession?" `PREGS H-F KR-GS`
+* profession?" `PREFGS H-F KR-GS`
 * asked `SK-D`
 * one `WUPB`
 * alighted `A/HRAOEUT/-D`

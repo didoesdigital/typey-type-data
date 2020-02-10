@@ -79,7 +79,7 @@
 * down, `TKOUPB KW-BG`
 * mother `PHOER`
 * sunk `S*UPBG`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * under `TPH-PB`
 * deep `TKAOEP`
 * grief. `TKPWRAOEF TP-PL`

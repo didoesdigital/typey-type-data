@@ -117,7 +117,7 @@
 * mahogany," `PHA/HOG/TPHEU KW-BG KR-GS`
 * top. `TOP TP-PL`
 * "The `KR-GS KPA/-T`
-* major `PHOEUPBLG`
+* major `PHAEUPBLG`
 * himself `H*EUPLS`
 * turned `TURPBD`
 * me. `PHE TP-PL`

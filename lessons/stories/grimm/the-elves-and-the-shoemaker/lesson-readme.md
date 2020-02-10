@@ -55,7 +55,7 @@
 * clear `KHRAOER`
 * heart `HART`
 * light `HRAOEUT`
-* amidst `A/PHEUTDZ`
+* amidst `A/PH*EUS`
 * troubles; `TRUBLS STPH*FPLT`
 * so `SO`
 * went `WEPBT`

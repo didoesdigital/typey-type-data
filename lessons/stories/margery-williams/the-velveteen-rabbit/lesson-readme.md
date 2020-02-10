@@ -865,7 +865,7 @@
 * nothing `TPHOG`
 * day `TKAEU`
 * snuggled `STPHUG/-LD`
-* patiently, `PAEURBLT KW-BG`
+* patiently, `PAEURBT/HREU KW-BG`
 * forward `TPAORD`
 * again, `TKPWEPB KW-BG`
 * garden `TKPWA*RPB`

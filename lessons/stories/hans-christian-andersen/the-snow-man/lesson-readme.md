@@ -76,7 +76,7 @@
 * been `PW-PB`
 * brought `PWRAUT`
 * existence `KPEUFS`
-* amidst `A/PHEUTDZ`
+* amidst `A/PH*EUS`
 * joyous `SKWROEU/KWROUS`
 * shouts `SHOUTS`
 * boys, `PWOEUS KW-BG`
@@ -382,7 +382,7 @@
 * pointing `POEUPBGT`
 * Man; `KPA/PHAPB STPH*FPLT`
 * "he `KR-GS HE`
-* capital." `KAPLT TP-PL KR-GS`
+* capital." `KPAL TP-PL KR-GS`
 * girl `TKPWEURL`
 * laughed, `HRAFD KW-BG`
 * nodded `TPHOD/-D`

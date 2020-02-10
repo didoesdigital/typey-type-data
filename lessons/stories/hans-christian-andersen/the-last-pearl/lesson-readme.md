@@ -238,7 +238,7 @@
 * pearl—the `PERL EPL/TKA*RB -T`
 * only `OEPBL`
 * lacking `HRABG/-G`
-* amidst `A/PHEUTDZ`
+* amidst `A/PH*EUS`
 * all `AUL`
 * wealth." `W*ELT TP-PL KR-GS`
 * Then `KPA/THEPB`

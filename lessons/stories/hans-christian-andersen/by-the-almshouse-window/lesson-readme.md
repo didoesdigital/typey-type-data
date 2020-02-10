@@ -186,7 +186,7 @@
 * hold `HOLD`
 * out `OUT`
 * citizens `SEUT/SEPBS`
-* capital, `KAPLT KW-BG`
+* capital, `KPAL KW-BG`
 * die `TKAOEU`
 * here `HAOER`
 * nest; `TPHEFT STPH*FPLT`

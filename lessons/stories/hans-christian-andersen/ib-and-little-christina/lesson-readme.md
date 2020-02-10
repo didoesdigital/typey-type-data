@@ -779,7 +779,7 @@
 * because `PWAU`
 * sucking-pig `SUBG/-G H-PB PEUG`
 * water; `WAUR STPH*FPLT`
-* secondly, `SELGD KW-BG`
+* secondly, `SEBLGD KW-BG`
 * run `RUPB`
 * away. `A/WAEU TP-PL`
 * taken `TAEPB`

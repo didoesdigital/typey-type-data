@@ -817,7 +817,7 @@
 * capacity `KPAFT`
 * cape `KAEUP`
 * capillary `KPHRAER`
-* capital `KAPLT`
+* capital `KPAL`
 * capitals `KA*LS`
 * capped `KAPD`
 * capricious `KPREURBS`
@@ -1302,7 +1302,7 @@
 * concentrate `SKRAEUT`
 * concentrated `SKRAEUTD`
 * concentrating `SKRAEUGT`
-* concentration `SKRAUGS`
+* concentration `SKRAEUGS`
 * concept `K*EPT`
 * conception `KEPGS`
 * concepts `K*EPS`
@@ -3846,7 +3846,7 @@
 * product `PROUBGT`
 * production `PROUBGS`
 * prof `PROEF`
-* profession `PREGS`
+* profession `PREFGS`
 * professional `PREPBL`
 * professor `PROEFR`
 * professors `PROEFRS`

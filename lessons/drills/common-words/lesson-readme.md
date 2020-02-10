@@ -177,7 +177,7 @@
 * come `KOPL`
 * comment `KPHEPBT`
 * complete `KPHRAOET`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * computer `KPAOUR`
 * concern `K-RPB`
 * confuse `KAOUFS`

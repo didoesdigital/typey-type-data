@@ -128,7 +128,7 @@
 * yes; `KWRE STPH*FPLT`
 * sleep `SHRAOEP`
 * is `S`
-* capital `KAPLT`
+* capital `KPAL`
 * invention. `EUPB/SREPBGS TP-PL`
 * As `KPA/AZ`
 * years `KWRAOERS`

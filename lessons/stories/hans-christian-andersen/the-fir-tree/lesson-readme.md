@@ -810,7 +810,7 @@
 * boxes `PWOBGSZ`
 * corner. `KRORPB TP-PL`
 * So `KPA/SO`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * hidden `HEUD/EPB`
 * sight `SAOEUT`
 * existed. `KPEUFTD TP-PL`

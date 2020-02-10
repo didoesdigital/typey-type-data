@@ -211,7 +211,7 @@
 * that?" `THA H-F KR-GS`
 * "Yes; `KR-GS KPA/KWRE STPH*FPLT`
 * papa," `HRO*ER/PA/PA KW-BG KR-GS`
-* editor `OERTD`
+* editor `ERTD`
 * paper, `PAEUP KW-BG`
 * "my `KR-GS PHEU`
 * everybody's `EFRB AES`

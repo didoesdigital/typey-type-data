@@ -170,7 +170,7 @@
 * thankfulness `THAPB/K-FL/-PBS`
 * trust; `TRUFT STPH*FPLT`
 * when, `WHEPB KW-BG`
-* amidst `A/PHEUTDZ`
+* amidst `A/PH*EUS`
 * sounds, `SOUPBDZ KW-BG`
 * son `SOPB`
 * born `PWORPB`

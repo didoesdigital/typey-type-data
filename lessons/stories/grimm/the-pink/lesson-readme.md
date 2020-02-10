@@ -59,7 +59,7 @@
 * told `TOLD`
 * him `HEUPL`
 * joyful `SKWROEUFL`
-* tidings, `TAOEUGD/-S KW-BG`
+* tidings, `TAOEUD/-G/-S KW-BG`
 * when `WHEPB`
 * come `KOPL`
 * gave `TKPWAEUF`

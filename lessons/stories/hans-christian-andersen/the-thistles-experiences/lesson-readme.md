@@ -103,7 +103,7 @@
 * manor-house—some `PHA/TPHOR H-PB HOUS EPL/TKA*RB SOPL`
 * very `SRE`
 * noble `TPHOEBL`
-* capital; `KAPLT STPH*FPLT`
+* capital; `KPAL STPH*FPLT`
 * young `KWRUPBG`
 * pretty `PREUT`
 * girls, `TKPWEURLS KW-BG`
@@ -199,7 +199,7 @@
 * pricked `PREUBGD`
 * fingers `TPEURPBGS`
 * as `AZ`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * if `TP`
 * grown `TKPWROEPB`
 * sharpest `SHARP/EFT`

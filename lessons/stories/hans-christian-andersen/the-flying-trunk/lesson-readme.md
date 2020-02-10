@@ -777,7 +777,7 @@
 * spoke `SPOEBG`
 * out. `OUT TP-PL`
 * "What `KR-GS KPA/WHA`
-* capital `KAPLT`
+* capital `KPAL`
 * feel `TPAOEL`
 * really `R-L`
 * kitchen, `K-FP KW-BG`

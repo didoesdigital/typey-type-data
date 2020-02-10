@@ -963,7 +963,7 @@
 * mansion; `PHAPBGS STPH*FPLT`
 * guests `TKPWEFTS`
 * neighbourhood `TPHAOD/A*U`
-* capital `KAPLT`
+* capital `KPAL`
 * arrived. `A/REUFD TP-PL`
 * ladies `HRAEUDZ`
 * tasteful `TAEUFT/-FL`

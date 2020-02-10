@@ -245,7 +245,7 @@
 * collected `KHREBGD`
 * arrangement `ARPBG/*PLT`
 * pressure `PRERB`
-* profession `PREGS`
+* profession `PREFGS`
 * territory `TERT`
 * coffee `KOEF`
 * supported `SPORD`

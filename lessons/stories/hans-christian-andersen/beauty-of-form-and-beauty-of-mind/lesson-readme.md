@@ -433,7 +433,7 @@
 * left `HREFT`
 * night, `TPHAOEUT KW-BG`
 * lost `HRO*S`
-* completely `KPHRELT`
+* completely `KPHRAOELT`
 * most `PHOFT`
 * visited `SREUFTD`
 * sculptor. `SKAO*UFP TP-PL`

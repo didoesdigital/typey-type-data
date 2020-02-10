@@ -435,7 +435,7 @@
 * thought `THAUT`
 * separated `SERPTD`
 * world, `WORLD KW-BG`
-* deceived `TKAOE/SAOEFD`
+* deceived `STKAOEFD`
 * me!' `PHE SKHRAPL AE`
 * Rapunzel's `KPA/RA/PUPB/S*EL AES`
 * wrapped `WRAPD`

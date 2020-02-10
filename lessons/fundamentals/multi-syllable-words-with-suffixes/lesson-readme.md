@@ -347,7 +347,7 @@
 * warrior `WAR/KWROR`
 * impressions `EUPL/PREG/-S`
 * lifting `HREUFT/-G`
-* tidings `TAOEUGD/-S`
+* tidings `TAOEUD/-G/-S`
 * specially `SPERBL/HREU`
 * civilized `SEUFL/AOEUZ/-D`
 * portions `PORGS/-S`
@@ -505,6 +505,7 @@
 * lodgings `HROPBLG/-G/-S`
 * petition `PE/TEUGS`
 * carriages `KAEURPBLG/-S`
+* patiently `PAEURBT/HREU`
 * foliage `TPOEL/APBLG`
 * donors `TKORPB/-S`
 * influenced `EUPB/TPHRAOUPBS/-D`
@@ -1192,7 +1193,7 @@
 * Bohemia `PWOE/HAOEPL/KWRA`
 * inseparable `EUPB/SEP/-BL`
 * giddy `TKPWEUD/KWREU`
-* secluded `SKHRAOUD/-D`
+* secluded `SE/KHRAOUD/-D`
 * disgusting `TKEUS/TKPWUS/-G`
 * Buddhist `PWUD/EUFT`
 * unsatisfactory `UPB/SAE/REU`
@@ -1304,6 +1305,7 @@
 * foolishness `TPAOL/EURB/-PBS`
 * quickness `KWEUBG/-PBS`
 * adversity `AD/SRERS/TEU`
+* diseased `STKAOE/-D`
 * acquitted `A/KWEUT/-D`
 * tumultuous `TUPL/ULT/WOUS`
 * palpable `PAP/-BL`

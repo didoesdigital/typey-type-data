@@ -115,7 +115,7 @@
 * or `OR`
 * gave `TKPWAEUF`
 * any `TPHEU`
-* tidings `TAOEUGD/-S`
+* tidings `TAOEUD/-G/-S`
 * presence. `PREPBS TP-PL`
 * "I `KR-GS EU`
 * suppose `SPOS`
@@ -925,7 +925,7 @@
 * down `TKOUPB`
 * candles `KAPBD/-LS`
 * altar." `AL/TAR TP-PL KR-GS`
-* capitally `KAPLT/HREU`
+* capitally `KPAL/HREU`
 * well-informed," `WEL H-PB TPH-FD KW-BG KR-GS`
 * ought `OT`
 * you," `U KW-BG KR-GS`

@@ -122,7 +122,7 @@
 * One `KPA/WUPB`
 * after `AF`
 * other; `OER STPH*FPLT`
-* capital! `KAPLT SKHRAPL`
+* capital! `KPAL SKHRAPL`
 * Here's `KPA/HAOER AES`
 * pipe-head, `PAOEUP H-PB HED KW-BG`
 * an `APB`

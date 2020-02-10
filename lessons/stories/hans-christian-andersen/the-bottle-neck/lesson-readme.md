@@ -1230,7 +1230,7 @@
 * whole, `WHOEL KW-BG`
 * diamond. `TKAOEUPLD TP-PL`
 * "That `KR-GS KPA/THA`
-* capital `KAPLT`
+* capital `KPAL`
 * bird's `PWEURD AES`
 * glass," `TKPWHRAS KW-BG KR-GS`
 * cellar-men; `SEL/AR H-PB PHEPB STPH*FPLT`
