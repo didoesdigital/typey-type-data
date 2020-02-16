@@ -166,7 +166,7 @@
 * winters `WEUPBT/ERS`
 * passed, `PAFD KW-BG`
 * third `THEURD`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * had `H`
 * grown `TKPWROEPB`
 * obliged `OE/PWHRAOEUPBLGD`

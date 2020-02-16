@@ -2057,7 +2057,7 @@
 * stepped `STEPD`
 * services `S-FSZ`
 * library `HRAOEURB`
-* remaining `RE/PHAEPBG`
+* remaining `RE/PHAEUPBG`
 * containing `KAUPB/TAEUPBG`
 * base `PWAEUS`
 * confusion `KAUFGS`
@@ -2992,7 +2992,7 @@
 * whatsoever `WHA/SOFR`
 * pointing `POEUPBGT`
 * verses `SRERSZ`
-* pronounced `PRO/TPHUPBS/-D`
+* pronounced `PRO/TPHOUPBS/-D`
 * exchange `KPAEUPBG`
 * definite `TKEFPBT`
 * emperor `EPL/ROR`
@@ -3124,7 +3124,7 @@
 * judges `SKWRUPBLGS`
 * giant `SKWRAOEUPBT`
 * grasp `TKPWRAFP`
-* arrive `A/REUF`
+* arrive `A/RAOEUF`
 * simplicity `SPHREUFT`
 * autumn `AU/UPL`
 * absent `AB/SEPBT`
@@ -3341,7 +3341,7 @@
 * daring `TKAEURG`
 * cave `KAF`
 * wars `WARS`
-* convey `KAUPB/SREU`
+* convey `KAUPB/SRAEU`
 * he'll `*EL`
 * sincere `SEUPB/SAOER`
 * tradition `TRAGS`
@@ -4053,7 +4053,7 @@
 * sober `SOERB`
 * steal `STAEL`
 * delicious `TKHREUGS`
-* infant `EUPB/TPAPT`
+* infant `EUPB/TPAPBT`
 * lip `HREUP`
 * Norman `TPHOR/PHAPB`
 * offended `OE/TPEPBD/-D`
@@ -4783,7 +4783,7 @@
 * positions `POGS/-S`
 * Emily `EPL/HREU`
 * edited `ED/EUT/-D`
-* continues `T-PBS`
+* continues `T-PB/-S`
 * Harold `HARLD`
 * elevation `EL/SRAEUGS`
 * realm `R*EL`
@@ -5088,7 +5088,7 @@
 * horns `HORPBS`
 * warmly `WARPL/HREU`
 * salary `SAL/REU`
-* continuous `T-PB/WOUS`
+* continuous `T-PBS`
 * Satan `SAT/APB`
 * continual `T-PB/WAL`
 * defended `TKAOE/TPEPBD/-D`
@@ -6921,7 +6921,7 @@
 * steed `STAOED`
 * width `WEUTD`
 * Sweden `SWAOED/-PB`
-* transaction `TRABGS`
+* transaction `T-RPBS`
 * victories `SREUBGT/REUS`
 * devout `TKWOUT`
 * outrage `AOUT/RAEUPBLG`

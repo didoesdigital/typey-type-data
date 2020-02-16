@@ -637,7 +637,7 @@
 * At `KPA/AT`
 * hour `HOUR`
 * came, `KAEUPL KW-BG`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * gates `TKPWAETS`
 * heaven. `HEFPB TP-PL`
 * Souls `KPA/SOULS`
@@ -655,7 +655,7 @@
 * contrast `KRAEFT`
 * wretched `WREFPD`
 * soul `SOUL`
-* arrive `A/REUF`
+* arrive `A/RAOEUF`
 * here `HAOER`
 * exactly `ELG`
 * same `SAEUPL`

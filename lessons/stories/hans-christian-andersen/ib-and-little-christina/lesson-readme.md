@@ -1002,7 +1002,7 @@
 * village. `SREULG TP-PL`
 * moonlight `PHAOLGT`
 * evening; `AOEPBG STPH*FPLT`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * his, `HEUS KW-BG`
 * go. `TKPW TP-PL`
 * brightened, `PWRAOEUT/*EPB/-D KW-BG`
@@ -1275,7 +1275,7 @@
 * voyage `SROEUPBLG`
 * ocean; `OEGS STPH*FPLT`
 * length `HREPBG`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * gold `TKPWOELD`
 * him; `HEUPL STPH*FPLT`
 * sum—six `SUPL EPL/TKA*RB SEUBGS`

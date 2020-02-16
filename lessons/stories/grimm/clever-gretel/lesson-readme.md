@@ -119,7 +119,7 @@
 * had `H`
 * not `TPHOT`
 * yet `KWRET`
-* arrived. `A/REUFD TP-PL`
+* arrived. `A/RAOEUFD TP-PL`
 * Then `KPA/THEPB`
 * Gretel `TKPWRET/EL`
 * called `KAULD`

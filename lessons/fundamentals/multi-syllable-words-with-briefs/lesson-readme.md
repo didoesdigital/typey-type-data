@@ -188,7 +188,6 @@
 * withdraw `WRAU`
 * punish `P-RB`
 * artists `TR-FTS`
-* continues `T-PBS`
 * contributed `KR-BTD`
 * licensed `HR-PBD`
 * transfer `TRAF`
@@ -198,6 +197,7 @@
 * grandmother `TKPWR-PL`
 * doctors `TKR-S`
 * opens `OEPS`
+* continuous `T-PBS`
 * examining `KP-G`
 * Louisiana `HRA*`
 * aren't `R-PBT`

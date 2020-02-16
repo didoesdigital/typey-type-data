@@ -570,7 +570,7 @@
 * When `KPA/WHEPB`
 * watch `WAFP`
 * thy `THAO*EU`
-* infant `EUPB/TPAPT`
+* infant `EUPB/TPAPBT`
 * glee, `TKPWHRAOE KW-BG`
 * Or `KPA/OR`
 * kiss `KEUS`
@@ -897,7 +897,7 @@
 * nothing `TPHOG`
 * nicer." `TPHAOEURS TP-PL KR-GS`
 * Very `KPA/SRE`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * bridal `PWRAOEU/TKAL`
 * hall. `HAUL TP-PL`
 * right `RAOEUT`

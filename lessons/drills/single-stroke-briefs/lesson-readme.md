@@ -5999,7 +5999,7 @@
 * traced `TRAEUFD`
 * tracing `TRAEUFG`
 * tract `TRABGT`
-* traction `TRA*BGS`
+* traction `TRABGS`
 * trade `TRAEUD`
 * trader `TRAEURD`
 * tradition `TRAGS`
@@ -6018,7 +6018,7 @@
 * trance `TRA*PBS`
 * tranche `TRAFRPB`
 * trans `TRAPBS`
-* transaction `TRABGS`
+* transaction `T-RPBS`
 * transcribe `TREUB`
 * transcribed `TREUBD`
 * transcript `TREUPT`

@@ -116,7 +116,7 @@
 * blue `PWHRU`
 * flames, `TPHRAEUPLS KW-BG`
 * like `HRAOEUBG`
-* continuous `T-PB/WOUS`
+* continuous `T-PBS`
 * fireworks, `TPAOEUR/WORBGS KW-BG`
 * glittered, `TKPWHREUT/ERD KW-BG`
 * reflected `TPHREBGTD`
@@ -395,7 +395,7 @@
 * off. `OF TP-PL`
 * That `KPA/THA`
 * morning `PHORPBG`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * north; `TPHORT STPH*FPLT`
 * there, `THR KW-BG`
 * where `W-R`

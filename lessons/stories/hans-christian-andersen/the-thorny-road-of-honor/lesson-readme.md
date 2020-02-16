@@ -715,7 +715,7 @@
 * break `PWRAEBG`
 * force `TPORS`
 * waters, `WAURS KW-BG`
-* continues `T-PBS`
+* continues `T-PB/-S`
 * course; `KORS STPH*FPLT`
 * beam `PWAEPL`
 * steam `STAEPL`

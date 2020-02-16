@@ -458,7 +458,7 @@
 * ground `TKPWROUPBD`
 * stride. `STRAOEUD TP-PL`
 * immediately, `PHAOELD KW-BG`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * fiery `TPAOEU/REU`
 * chariot, `KHAEUR/KWROT KW-BG`
 * drawn `TKRAUPB`

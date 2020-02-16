@@ -101,7 +101,7 @@
 * set `SET`
 * off `OF`
 * for `TPOR`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * Mouse's `KPA/PHOUS AES`
 * residence `R*EPBS`
 * late `HRAEUT`

@@ -297,7 +297,7 @@
 * Billy `PWEUL/HREU`
 * Holland `H-L/HRAPBD`
 * disappointed `TKEUS/POEUPBTD`
-* arrive `A/REUF`
+* arrive `A/RAOEUF`
 * legally `HRAOEG/HREU`
 * corrupt `KRUPT`
 * silly `SEUL/HREU`

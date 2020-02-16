@@ -276,7 +276,7 @@
 * sleep `SHRAOEP`
 * death `TK*T`
 * just `SKWRUFT`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * there. `THR TP-PL`
 * corpse `KORPS`
 * bedroom, `PW-PL KW-BG`

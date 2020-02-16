@@ -375,7 +375,7 @@
 * noticed `TPH-TS/-D`
 * gold `TKPWOELD`
 * ring `REUPBG`
-* remaining `RE/PHAEPBG`
+* remaining `RE/PHAEUPBG`
 * little `HREUL`
 * finger `TPURPBG`
 * murdered `PHURD/-D`
@@ -464,7 +464,7 @@
 * fixed `TPEUFD`
 * marriage. `PHAERPBLG TP-PL`
 * bridegroom `PWRAOEUD/TKPWRAOPL`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * also `HR-S`
 * company `K-P`
 * guests, `TKPWEFTS KW-BG`

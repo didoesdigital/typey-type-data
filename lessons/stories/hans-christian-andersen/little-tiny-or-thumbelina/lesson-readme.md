@@ -1011,7 +1011,7 @@
 * again. `TKPWEPB TP-PL`
 * returned; `RURPBD STPH*FPLT`
 * autumn `AU/UPL`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * outfit `AOUT/TPEUT`
 * ready; `R-D STPH*FPLT`
 * "In `KR-GS KPA/TPH`

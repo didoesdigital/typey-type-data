@@ -504,7 +504,7 @@
 * knew `TPHAOU`
 * roads. `ROEDZ TP-PL`
 * When `KPA/WHEPB`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * Fairy, `KPA/TPAEUR/REU KW-BG`
 * loved `HROFD`
 * told `TOLD`
@@ -729,7 +729,7 @@
 * ill-fortune, `EUL H-PB TP-RPB KW-BG`
 * desperate. `TKEFP/RAT TP-PL`
 * moment `PHOEPLT`
-* arrived. `A/REUFD TP-PL`
+* arrived. `A/RAOEUFD TP-PL`
 * "What `KR-GS KPA/WHA`
 * doing, `TK*G KW-BG`
 * child?" `KHAOEULD H-F KR-GS`
@@ -1288,7 +1288,7 @@
 * heir `A*EUR`
 * throne. `THRO*EPB TP-PL`
 * First `KPA/TPEURS`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * duchesses, `TKUFP/ES/-S KW-BG`
 * marquises, `PHAR/KWAOES/-S KW-BG`
 * baronesses; `PWAR/ROPB/-PBS/-S STPH*FPLT`

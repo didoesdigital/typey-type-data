@@ -82,7 +82,7 @@
 * from `TPR`
 * parts `PARTS`
 * globe `TKPWHROEB`
-* arrived. `A/REUFD TP-PL`
+* arrived. `A/RAOEUFD TP-PL`
 * One `KPA/WUPB`
 * two `TWO`
 * swindlers `SWEUPBD/HRERS`

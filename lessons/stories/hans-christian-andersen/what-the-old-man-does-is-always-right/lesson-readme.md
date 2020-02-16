@@ -400,7 +400,7 @@
 * possessor `PESZ/SOR`
 * goose. `TKPWAOS TP-PL`
 * By `KPA/PWEU`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * near `TPHAOER`
 * town. `TOUPB TP-PL`
 * crowd `KROUD`

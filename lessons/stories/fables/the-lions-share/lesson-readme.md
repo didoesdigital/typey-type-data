@@ -54,7 +54,7 @@
 * front `TPROPBT`
 * of `-F`
 * carcass `KAR/KAS`
-* pronounced `PRO/TPHUPBS/-D`
+* pronounced `PRO/TPHOUPBS/-D`
 * judgment: `SKWRUPLT STPH-FPLT`
 * first `TPEUFRT`
 * quarter `KWAR/TER`

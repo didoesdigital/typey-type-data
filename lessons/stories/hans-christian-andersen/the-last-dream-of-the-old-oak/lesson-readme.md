@@ -447,7 +447,7 @@
 * kind `KEUPBD`
 * feeling `TPAOELG`
 * festive `TPES/TEUF`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * fancied `TPAPB/SEU/-D`
 * he `HE`
 * heard `HAERD`

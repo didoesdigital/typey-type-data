@@ -410,7 +410,7 @@
 * window.' `WOEUPBD TP-PL AE`
 * They `KPA/THE`
 * way, `WAEU KW-BG`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * certainly `SERPBL`
 * still `STEUL`
 * place, `PHRAEUS KW-BG`

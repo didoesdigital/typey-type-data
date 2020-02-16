@@ -281,7 +281,7 @@
 * wonderful `WUFL`
 * ride. `RAOEUD TP-PL`
 * First, `KPA/TPEURS KW-BG`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * metal `PH*ELT`
 * horse `HORS`
 * bears `PWAERS`

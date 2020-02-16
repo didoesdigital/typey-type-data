@@ -964,7 +964,7 @@
 * guests `TKPWEFTS`
 * neighbourhood `TPHAOD/A*U`
 * capital `KPAL`
-* arrived. `A/REUFD TP-PL`
+* arrived. `A/RAOEUFD TP-PL`
 * ladies `HRAEUDZ`
 * tasteful `TAEUFT/-FL`
 * tasteless `TAEUFT/-LS`

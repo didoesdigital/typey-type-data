@@ -252,7 +252,7 @@
 * supposition `SPOGS`
 * ruling `RAOULG`
 * projects `PROPBLGZ`
-* transaction `TRABGS`
+* transaction `T-RPBS`
 * flaming `TPHRAPLG`
 * pension `PEPBGS`
 * adoption `TKOPGS`

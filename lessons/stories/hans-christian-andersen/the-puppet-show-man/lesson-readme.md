@@ -362,7 +362,7 @@
 * welcomed `W-BGD`
 * every `EF`
 * town, `TOUPB KW-BG`
-* arrive `A/REUF`
+* arrive `A/RAOEUF`
 * company; `K-P STPH*FPLT`
 * certainly `SERPBL`
 * wish `WEURB`

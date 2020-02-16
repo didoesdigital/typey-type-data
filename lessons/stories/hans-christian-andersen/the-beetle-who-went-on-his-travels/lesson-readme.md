@@ -627,7 +627,7 @@
 * thing `THEUPBG`
 * do. `TKO TP-PL`
 * When `KPA/WHEPB`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * ditch, `TKEUFP KW-BG`
 * friends, `TPREPBDZ KW-BG`
 * beetles; `PWAOET/-LS STPH*FPLT`

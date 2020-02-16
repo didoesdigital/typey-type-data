@@ -188,7 +188,6 @@ Multi-syllable words with briefs
 'withdraw': WRAU
 'punish': P-RB
 'artists': TR-FTS
-'continues': T-PBS
 'contributed': KR-BTD
 'licensed': HR-PBD
 'transfer': TRAF
@@ -198,6 +197,7 @@ Multi-syllable words with briefs
 'grandmother': TKPWR-PL
 'doctors': TKR-S
 'opens': OEPS
+'continuous': T-PBS
 'examining': KP-G
 'Louisiana': HRA*
 'aren't': R-PBT

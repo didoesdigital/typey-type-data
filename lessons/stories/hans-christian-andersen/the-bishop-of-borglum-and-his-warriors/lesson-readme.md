@@ -88,7 +88,7 @@
 * And `AFPBD`
 * at `AT`
 * now `TPHOU`
-* arrive `A/REUF`
+* arrive `A/RAOEUF`
 * late `HRAEUT`
 * evening `AOEPBG`
 * hour; `HOUR STPH*FPLT`

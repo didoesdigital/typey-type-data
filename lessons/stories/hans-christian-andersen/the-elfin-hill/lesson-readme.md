@@ -527,7 +527,7 @@
 * quicker `KW*EURBG`
 * other, `OER KW-BG`
 * course, `KORS KW-BG`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * first. `TPEUFRT TP-PL`
 * "They `KR-GS KPA/THE`
 * coming! `KO*G SKHRAPL`

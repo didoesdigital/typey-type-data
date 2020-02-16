@@ -81,7 +81,7 @@
 * and, `SKP KW-BG`
 * behold, `PWE/HOLD KW-BG`
 * when `WHEPB`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * nest `TPHEFT`
 * burnt, `PWURPBT KW-BG`
 * habitations `HAB/TAEUGS/-S`

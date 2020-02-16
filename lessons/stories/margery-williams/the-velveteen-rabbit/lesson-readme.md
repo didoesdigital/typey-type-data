@@ -223,7 +223,7 @@
 * wise, `WAOEUS KW-BG`
 * seen `SAOEPB`
 * succession `SKEGS`
-* arrive `A/REUF`
+* arrive `A/RAOEUF`
 * boast `PWOEFT`
 * swagger, `SWAG/ER KW-BG`
 * by-and-by `PWEU H-PB SKP H-PB PWEU`

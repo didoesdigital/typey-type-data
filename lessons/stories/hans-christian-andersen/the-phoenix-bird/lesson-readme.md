@@ -106,7 +106,7 @@
 * sits `SEUTS`
 * by `PWEU`
 * her `HER`
-* infant's `EUPB/TPAPT AES`
+* infant's `EUPB/TPAPBT AES`
 * cradle, `KRAEUD/*L KW-BG`
 * stands `STAPBDZ`
 * on `OPB`

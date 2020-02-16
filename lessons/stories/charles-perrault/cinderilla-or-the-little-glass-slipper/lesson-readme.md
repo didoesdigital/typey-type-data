@@ -567,7 +567,7 @@
 * heraldic `H*ERLD/EUBG`
 * term, `TERPL KW-BG`
 * ceased `SAOES/-D`
-* convey `KAUPB/SREU`
+* convey `KAUPB/SRAEU`
 * any `TPHEU`
 * meaning `PHAOEPBG`
 * people. `PAOEPL TP-PL`

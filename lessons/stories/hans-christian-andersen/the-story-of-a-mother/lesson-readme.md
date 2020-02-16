@@ -440,7 +440,7 @@
 * "Where `KR-GS KPA/W-R`
 * Death, `KPA/TK*T KW-BG`
 * "He `KR-GS KPA/HE`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * here `HAOER`
 * yet," `KWRET KW-BG KR-GS`
 * gray-haired `TKPWRAEU H-PB HAEURD`
@@ -641,7 +641,7 @@
 * coldness, `KOELD/-PBS KW-BG`
 * blind `PWHRAOEUPBD`
 * felt `TPELT`
-* arrived. `A/REUFD TP-PL`
+* arrived. `A/RAOEUFD TP-PL`
 * hither?" `H*EURT H-F KR-GS`
 * asked `SK-D`
 * he; `HE STPH*FPLT`

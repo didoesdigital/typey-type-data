@@ -74,7 +74,7 @@
 * comes,' `KOPLS KW-BG AE`
 * Soon `KPA/SAOPB`
 * afterwards, `A*FRDZ KW-BG`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * with `W`
 * some `SOPL`
 * food `TPAOD`

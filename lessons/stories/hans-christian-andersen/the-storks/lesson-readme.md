@@ -618,7 +618,7 @@
 * lightly `HRAOEULT`
 * prettily. `PRET/HREU TP-PL`
 * As `KPA/AZ`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * together `TOGT`
 * before `PW-FP`
 * taking `TAEUG`

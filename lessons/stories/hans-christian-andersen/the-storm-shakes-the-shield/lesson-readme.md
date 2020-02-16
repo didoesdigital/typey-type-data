@@ -480,7 +480,7 @@
 * fire `TPAOEUR`
 * brigade, `PWREUG/AED KW-BG`
 * always `AULS`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * last `HRAFT`
 * engine. `TPH-PBLG TP-PL`
 * leave `HREF`

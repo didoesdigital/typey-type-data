@@ -551,7 +551,7 @@
 * spared `SPAEURD`
 * it. `T TP-PL`
 * When `KPA/WHEPB`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * wrote `WRO`
 * books `PWAOBGS`
 * true, `TRAOU KW-BG`

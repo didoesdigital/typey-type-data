@@ -129,7 +129,7 @@
 * extraordinarily `KPRAORLD`
 * long, `HROPBG KW-BG`
 * they `THE`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * at `AT`
 * number `TPHUPL`
 * willow `WEUL/HROE`

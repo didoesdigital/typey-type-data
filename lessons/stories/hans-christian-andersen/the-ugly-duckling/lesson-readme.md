@@ -1242,7 +1242,7 @@
 * "There `KR-GS KPA/THR`
 * swan `SWAPB`
 * come; `KOPL STPH*FPLT`
-* arrived." `A/REUFD TP-PL KR-GS`
+* arrived." `A/RAOEUFD TP-PL KR-GS`
 * most `PHOFT`
 * all; `AUL STPH*FPLT`
 * pretty." `PREUT TP-PL KR-GS`

@@ -636,7 +636,7 @@
 * about `PW`
 * place `PHRAEUS`
 * waggoner, `WAG/TKPWOPB/*ER KW-BG`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * inn `TPH*PB`
 * wished `WEURBD`
 * night. `TPHAOEUT TP-PL`

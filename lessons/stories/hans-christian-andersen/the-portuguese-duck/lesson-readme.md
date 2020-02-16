@@ -3,7 +3,7 @@
 * A `KPA/AEU`
 * duck `TKUBG`
 * once `WUPBS`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * from `TPR`
 * Portugal, `PORT/TPWAL KW-BG`
 * but `PWUT`
@@ -408,7 +408,7 @@
 * greater `TKPWRAERT`
 * respect `R-PT`
 * others." `OERS TP-PL KR-GS`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * enough `TPHUF`
 * to-day `TO TKA*EU`
 * rude. `RAOUD TP-PL`

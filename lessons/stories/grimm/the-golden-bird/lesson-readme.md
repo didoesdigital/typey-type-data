@@ -482,7 +482,7 @@
 * yet `KWRET`
 * Go `KPA/TKPW`
 * on, `OPB KW-BG`
-* arrive `A/REUF`
+* arrive `A/RAOEUF`
 * castle. `KAFL TP-PL`
 * At `KPA/AT`
 * princess `PREUPB/SES`

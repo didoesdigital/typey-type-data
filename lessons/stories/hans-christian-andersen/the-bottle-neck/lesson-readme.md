@@ -869,7 +869,7 @@
 * Whenever `KPA/WHEFR`
 * any `TPHEU`
 * strangers `STRAEUPB/SKWRERS`
-* arrived, `A/REUFD KW-BG`
+* arrived, `A/RAOEUFD KW-BG`
 * over, `OEFR KW-BG`
 * address, `A/TKRES KW-BG`
 * pencil, `PEPB/SEUL KW-BG`

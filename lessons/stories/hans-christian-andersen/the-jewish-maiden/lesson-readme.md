@@ -700,7 +700,7 @@
 * Christ." `KRAOEUFT TP-PL KR-GS`
 * Yet `KPA/KWRET`
 * trembled `TREPL/-BLD`
-* pronounced `PRO/TPHUPBS/-D`
+* pronounced `PRO/TPHOUPBS/-D`
 * holy `HOEUL`
 * name. `TPHAEUPL TP-PL`
 * struggled `STRULGD`

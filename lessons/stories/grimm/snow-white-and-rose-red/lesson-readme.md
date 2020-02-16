@@ -420,7 +420,7 @@
 * never `TPHEFR`
 * fastened `TPAS/-PBD`
 * friend `TPREPBD`
-* arrived. `A/REUFD TP-PL`
+* arrived. `A/RAOEUFD TP-PL`
 * spring `SPREUPBG`
 * outside `OUDZ`
 * green, `TKPWRAOEPB KW-BG`

@@ -333,7 +333,7 @@
 * thoughtful `THAUFL`
 * sad. `SAD TP-PL`
 * last `HRAFT`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * Rome, `RO*EPL KW-BG`
 * Pope `PO*EP`
 * just `SKWRUFT`

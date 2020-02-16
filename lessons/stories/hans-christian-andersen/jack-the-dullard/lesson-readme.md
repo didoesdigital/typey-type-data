@@ -438,7 +438,7 @@
 * sparks `SPARBGS`
 * flew, `TPHRAOU KW-BG`
 * consequently `KWEPBT/HREU`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * hour `HOUR`
 * earlier `RERL`
 * gate `TKPWAET`

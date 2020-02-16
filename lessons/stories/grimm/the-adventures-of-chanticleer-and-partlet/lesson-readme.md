@@ -246,7 +246,7 @@
 * toes. `TO*ES TP-PL`
 * Late `KPA/HRAEUT`
 * night `TPHAOEUT`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * an `APB`
 * inn; `TPH*PB STPH*FPLT`
 * bad `PWAD`

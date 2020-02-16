@@ -534,7 +534,7 @@
 * crowns. `KROUPBS TP-PL`
 * thankful `THAPB/K-FL`
 * enough `TPHUF`
-* remaining `RE/PHAEPBG`
+* remaining `RE/PHAEUPBG`
 * more `PHOR`
 * humble `UPL/-BL`
 * purpose, `PURP KW-BG`

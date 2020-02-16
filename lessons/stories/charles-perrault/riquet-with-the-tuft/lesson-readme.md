@@ -816,7 +816,7 @@
 * heart, `HART KW-BG`
 * world, `WORLD KW-BG`
 * able." `ABL TP-PL KR-GS`
-* pronounced `PRO/TPHUPBS/-D`
+* pronounced `PRO/TPHOUPBS/-D`
 * words, `WORDZ KW-BG`
 * appeared `A/PAOERD`
 * finest `TPAOEUPB/EFT`

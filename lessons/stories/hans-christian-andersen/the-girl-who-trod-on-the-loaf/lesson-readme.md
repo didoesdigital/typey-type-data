@@ -670,7 +670,7 @@
 * long `HROPBG`
 * bitter `PWEURT`
 * time—then `TAOEUPL EPL/TKA*RB THEPB`
-* pronounced `PRO/TPHUPBS/-D`
+* pronounced `PRO/TPHOUPBS/-D`
 * more, `PHOR KW-BG`
 * two `TWO`
 * bright `PWRAOEUT`

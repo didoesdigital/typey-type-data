@@ -72,7 +72,7 @@
 * After `KPA/AF`
 * this `TH`
 * they `THE`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * home, `HOEPL KW-BG`
 * soon `SAOPB`
 * put `PUT`

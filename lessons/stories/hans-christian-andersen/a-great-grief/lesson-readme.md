@@ -45,7 +45,7 @@
 * In `KPA/TPH`
 * meantime, `PHAO*EPB/TAOEUPL KW-BG`
 * there `THR`
-* arrived `A/REUFD`
+* arrived `A/RAOEUFD`
 * from `TPR`
 * next `TPHEGT`
 * town `TOUPB`
