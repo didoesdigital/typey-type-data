@@ -927,7 +927,7 @@
 * store-rooms, `STOR H-PB RAOPLS KW-BG`
 * cupboards; `KUP/PWORDZ STPH*FPLT`
 * servants `SER/SRAPBTS`
-* decreased `TE/KRAOES/-D`
+* decreased `TKE/KRAOES/-D`
 * number, `TPHUPL KW-BG`
 * mice `PHAOEUS`
 * multiplied. `PHULT/PHRAOEUD TP-PL`

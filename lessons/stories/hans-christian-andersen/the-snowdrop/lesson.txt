@@ -33,7 +33,7 @@ The Snowdrop
 'lay': HRAEU
 'in': TPH
 'the': -T
-'bulb': P*UBL
+'bulb': PW*UBL
 'under': TPH-PB
 'the': -T
 'snow-covered': STPHOE H-PB KOFRD
@@ -56,7 +56,7 @@ The Snowdrop
 'and': SKP
 'touched': TUFPD
 'the': -T
-'flower-bulb,': TPHRO*UR H-PB P*UBL KW-BG
+'flower-bulb,': TPHRO*UR H-PB PW*UBL KW-BG
 'and': SKP
 'talked': TAUBGD
 'of': -F
@@ -915,7 +915,7 @@ The Snowdrop
 'hidden': HEUD/EPB
 'in': TPH
 'the': -T
-'bulb.': P*UBL TP-PL
+'bulb.': PW*UBL TP-PL
 'The': KPA/-T
 'Flower': KPA/TPHRO*UR
 'went': WEPBT

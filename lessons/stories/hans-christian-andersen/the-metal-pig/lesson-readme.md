@@ -447,7 +447,7 @@
 * daylight. `TKAEULT TP-PL`
 * Many `KPA/PHAEPB`
 * pass `PAS`
-* indifference, `EUP/TKEUFRPBS KW-BG`
+* indifference, `EUPB/TKEUFRPBS KW-BG`
 * contains `KAUPB/TAEUPBS`
 * treasure `TRERB`
 * poetic `POE/ET/EUBG`

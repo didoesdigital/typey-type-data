@@ -20,7 +20,7 @@
 * lay `HRAEU`
 * flower; `TPHRO*UR STPH*FPLT`
 * in `TPH`
-* bulb `P*UBL`
+* bulb `PW*UBL`
 * under `TPH-PB`
 * snow-covered `STPHOE H-PB KOFRD`
 * earth. `*ERT TP-PL`
@@ -38,7 +38,7 @@
 * into `TPHAO`
 * earth, `*ERT KW-BG`
 * touched `TUFPD`
-* flower-bulb, `TPHRO*UR H-PB P*UBL KW-BG`
+* flower-bulb, `TPHRO*UR H-PB PW*UBL KW-BG`
 * talked `TAUBGD`
 * of `-F`
 * bright `PWRAOEUT`
@@ -428,7 +428,7 @@
 * her, `HER KW-BG`
 * those `THOZ`
 * hidden `HEUD/EPB`
-* bulb. `P*UBL TP-PL`
+* bulb. `PW*UBL TP-PL`
 * went `WEPBT`
 * journey, `SKWRURPB KW-BG`
 * post-bag, `POEFT H-PB PWAG KW-BG`

@@ -1129,7 +1129,7 @@
 * fell, `TPEL KW-BG`
 * evil `AOEFL`
 * arose `A/ROES`
-* blinding `PHRAOEUPBD/-G`
+* blinding `PWHRAOEUPBD/-G`
 * sight, `SAOEUT KW-BG`
 * astray `AS/TRAEU`
 * fancy; `TPAPB/SEU STPH*FPLT`

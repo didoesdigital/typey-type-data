@@ -43,7 +43,7 @@
 * relieve `RE/HREF`
 * pain. `PAEUPB TP-PL`
 * tried `TRAOEUD`
-* induce `EUPB/TKAUS`
+* induce `EUPB/TKAOUS`
 * every `EF`
 * one `WUPB`
 * met `PHET`

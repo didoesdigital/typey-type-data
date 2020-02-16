@@ -3248,7 +3248,7 @@ Top 10000 Project Gutenberg words
 'grain': TKPWRAEUPB
 'enjoyment': SKWROEUPLT
 'wearing': WAURG
-'indifference': EUP/TKEUFRPBS
+'indifference': EUPB/TKEUFRPBS
 'conceal': KAUPB/SAOEL
 'horizon': HORZ/O*PB
 'pleasures': PHR-RBS
@@ -3906,7 +3906,7 @@ Top 10000 Project Gutenberg words
 'heir': A*EUR
 'oak': OEBG
 'rescue': RES/KAOU
-'limit': HEUPLT
+'limit': HREUPLT
 'unpleasant': UPB/PHR*EPBT
 'anxiously': APBGS/HREU
 'innocence': TPHEPBS
@@ -3921,7 +3921,7 @@ Top 10000 Project Gutenberg words
 'faults': TPAULTS
 'disagreeable': TKEUS/TKPWRAOEBL
 'piano': PAPB/TPHOE
-'defeated': TE/TPAOET/-D
+'defeated': TKE/TPAOET/-D
 'charms': KHARPL/-S
 'purse': PURS
 'persuade': PER/SWAEUD
@@ -4356,7 +4356,7 @@ Top 10000 Project Gutenberg words
 'merits': PHERTS
 'Morrow': PHOR/ROE
 'traces': TRAEUFS
-'induce': EUPB/TKAUS
+'induce': EUPB/TKAOUS
 'spear': SPAOER
 'inward': EUPB/WARD
 'pupils': PAOUPLS
@@ -4704,7 +4704,7 @@ Top 10000 Project Gutenberg words
 'elbow': EL/PWOE
 'obligation': TKPWHRAUGS
 'trifling': TRAOEUFL/-G
-'decline': KE/KHRAOEUPB
+'decline': TKE/KHRAOEUPB
 'attachment': A/TAPLT
 'ambitious': APL/PWEURBT
 'filename': TPAOEUL/TPHA*EUPL
@@ -4976,7 +4976,7 @@ Top 10000 Project Gutenberg words
 'illustration': EUL/SRAEUGS
 'pertaining': PER/TAEUPBG
 'swamp': SWAFRP
-'Austrian': AUFRT/KWRAP
+'Austrian': AUFRT/KWRAPB
 'Saxon': SABGS/O*PB
 'congregation': KOPBG/TKPWAEUGS
 'nerve': TPHEFRB
@@ -7275,7 +7275,7 @@ Top 10000 Project Gutenberg words
 'relish': REL/EURB
 'reduction': RUBGS
 'sown': SOEPB
-'Venetian': RE/TPHAOEGS
+'Venetian': SREPB/AOEGS
 'cordially': KORPBLG/HREU
 'hush': HURB
 'breasts': PWREFTS
@@ -8117,7 +8117,7 @@ Top 10000 Project Gutenberg words
 'Manchester': PHAPB/KHES/TER
 'hem': HEPL
 'gorge': TKPWORPBLG
-'baptized': PAPT/AOEUZ/-D
+'baptized': PWAP/TAOEUZ/-D
 'damn': TKA*EPL
 'silvery': SEUL/SRER/KWREU
 'pastor': PAS/TOR
@@ -8979,7 +8979,7 @@ Top 10000 Project Gutenberg words
 'violated': SROEULT/-D
 'withheld': WHELD
 'fairies': TPAEUR/REU/KWREU/-S
-'inherit': EPB/HERT
+'inherit': EUPB/HERT
 'sledge': SHREPBLG
 'taller': TAURL
 'supervision': SAO*UFPGS
@@ -9458,7 +9458,7 @@ Top 10000 Project Gutenberg words
 'drooped': TKRAOPD
 'greetings': TKPWRAOEGTS
 'chestnut': KHEFT/TPHUT
-'inquisitive': EPB/KWEUS/TEUF
+'inquisitive': EUPB/KWEUS/TEUF
 'vicar': SREU/KAR
 'Noel': TPHO*E/WEL
 'attic': AT/TEUBG
@@ -9542,7 +9542,7 @@ Top 10000 Project Gutenberg words
 'drunkenness': PWRUPB/KEPB/TPHES
 'intrusion': SPWRAOUGS
 ''cause': KAUS/AE
-'assign': A/SAOEUB
+'assign': A/SAOEUPB
 'tackle': TABG/*L
 'dreamt': TKREPLT
 'sceptre': SEP/TER/A*U

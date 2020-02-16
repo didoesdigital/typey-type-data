@@ -484,7 +484,7 @@
 * implied `EUPL/PHRAOEUD`
 * Maria `PHA/REU/KWRA`
 * Spaniards `SPAPB/KWRARDZ`
-* indifference `EUP/TKEUFRPBS`
+* indifference `EUPB/TKEUFRPBS`
 * conceal `KAUPB/SAOEL`
 * Canada `KAPB/TKA`
 * registered `REPBLG/STERD`
@@ -712,7 +712,7 @@
 * invention `EUPB/SREPBGS`
 * disagreeable `TKEUS/TKPWRAOEBL`
 * piano `PAPB/TPHOE`
-* defeated `TE/TPAOET/-D`
+* defeated `TKE/TPAOET/-D`
 * persuade `PER/SWAEUD`
 * deprived `TKE/PRAOEUFD`
 * electric `HREBG/TREUBG`
@@ -870,7 +870,7 @@
 * unjust `UPB/SKWRUFT`
 * legislation `HREGT/SHUPB`
 * Morrow `PHOR/ROE`
-* induce `EUPB/TKAUS`
+* induce `EUPB/TKAOUS`
 * inward `EUPB/WARD`
 * fairy `TPAEUR/REU`
 * conclude `KAUPB/HRAOUD`
@@ -991,7 +991,7 @@
 * worldly `WORLD/HREU`
 * elbow `EL/PWOE`
 * trifling `TRAOEUFL/-G`
-* decline `KE/KHRAOEUPB`
+* decline `TKE/KHRAOEUPB`
 * attachment `A/TAPLT`
 * ambitious `APL/PWEURBT`
 * holiday `HOL/TKEU`
@@ -1106,7 +1106,7 @@
 * unseen `UPB/SAOEPB`
 * illustration `EUL/SRAEUGS`
 * pertaining `PER/TAEUPBG`
-* Austrian `AUFRT/KWRAP`
+* Austrian `AUFRT/KWRAPB`
 * congregation `KOPBG/TKPWAEUGS`
 * undertaking `UPBD/TAEUG/-G`
 * disclaimer `TKEUS/KHRAEURPL`
@@ -2108,7 +2108,7 @@
 * commissioners `KPHEUGS/ERS`
 * unfit `UPB/TPEUT`
 * relish `REL/EURB`
-* Venetian `RE/TPHAOEGS`
+* Venetian `SREPB/AOEGS`
 * cordially `KORPBLG/HREU`
 * Arabian `A/REUB/KWRAPB`
 * fascination `TPAS/TPHAEUGS`
@@ -2509,7 +2509,7 @@
 * Eden `AOE/TKEPB`
 * insufficient `EUPB/SUF`
 * Manchester `PHAPB/KHES/TER`
-* baptized `PAPT/AOEUZ/-D`
+* baptized `PWAP/TAOEUZ/-D`
 * silvery `SEUL/SRER/KWREU`
 * pastor `PAS/TOR`
 * inherent `EUPB/HERPBT`
@@ -2937,7 +2937,7 @@
 * erroneous `ROEPB/KWROUS`
 * violated `SROEULT/-D`
 * fairies `TPAEUR/REU/KWREU/-S`
-* inherit `EPB/HERT`
+* inherit `EUPB/HERT`
 * handsomely `HAPBD/SOPL/HREU`
 * arctic `ART/EUBG`
 * butcher `PWUFP/ER`
@@ -3163,7 +3163,7 @@
 * foresight `TPOER/SAOEUGT`
 * pallor `PAL/HROR`
 * chestnut `KHEFT/TPHUT`
-* inquisitive `EPB/KWEUS/TEUF`
+* inquisitive `EUPB/KWEUS/TEUF`
 * vicar `SREU/KAR`
 * attic `AT/TEUBG`
 * affirmative `A/TPEURPL/TEUF`
@@ -3204,7 +3204,7 @@
 * canopy `KAPB/PEU`
 * Shirley `SHEUR/HREU`
 * drunkenness `PWRUPB/KEPB/TPHES`
-* assign `A/SAOEUB`
+* assign `A/SAOEUPB`
 * exacting `EBGS/ABGT/-G`
 * eddy `ED/TKEU`
 * percentage `PER/APBLG`

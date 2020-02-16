@@ -233,7 +233,7 @@
 * eyes `AO*EUS`
 * close `KHROES`
 * side `SAOEUD`
-* inquisitive `EPB/KWEUS/TEUF`
+* inquisitive `EUPB/KWEUS/TEUF`
 * lady. `HRA*ED TP-PL`
 * They `KPA/THE`
 * belonged `PWHROPBGD`

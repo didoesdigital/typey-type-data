@@ -47,7 +47,7 @@
 * palaver `PA/HRA*FR`
 * paver `PAFR`
 * plover `PHRO*FR`
-* preserver `RE/SERPB/*ER`
+* preserver `PREFRB/*ER`
 * quaver `KWA*EUFR`
 * quicksilver `KWEUBG/SEUL/SRER`
 * quiver `KWEUFR`

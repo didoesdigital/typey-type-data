@@ -190,7 +190,7 @@
 * made `PHAED`
 * war `WAR`
 * neighbours, `TPHAEUBS/A*U KW-BG`
-* defeated `TE/TPAOET/-D`
+* defeated `TKE/TPAOET/-D`
 * them. `THEPL TP-PL`
 * kings `KEUPBGS`
 * chained `KHAEUPBD`

@@ -193,7 +193,7 @@
 * our `OUR`
 * child `KHAOEULD`
 * never `TPHEFR`
-* baptized. `PAPT/AOEUZ/-D TP-PL`
+* baptized. `PWAP/TAOEUZ/-D TP-PL`
 * must `PHUFT`
 * keep `KAOEP`
 * vow: `SROU STPH-FPLT`
@@ -762,7 +762,7 @@
 * Lord, `HRO*RD KW-BG`
 * disciples, `TKEUS/AOEUPLTS KW-BG`
 * "John `KR-GS SKWROPB`
-* baptized `PAPT/AOEUZ/-D`
+* baptized `PWAP/TAOEUZ/-D`
 * water, `WAUR KW-BG`
 * baptize `PWAPT/AOEUZ`
 * Holy `KPA/HOEUL`

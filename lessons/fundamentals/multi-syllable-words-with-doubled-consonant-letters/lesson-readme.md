@@ -312,7 +312,7 @@
 * disappointment `TKOEUPLT`
 * helpless `HEP/-LS`
 * attracted `A/TRABGD`
-* indifference `EUP/TKEUFRPBS`
+* indifference `EUPB/TKEUFRPBS`
 * assume `SAOUPL`
 * saddle `SA*LD`
 * supplies `SPHRAOEUZ`
@@ -1132,7 +1132,7 @@
 * omission `O/PHEUGS`
 * cabbage `KAB/APBLG`
 * drunkenness `PWRUPB/KEPB/TPHES`
-* assign `A/SAOEUB`
+* assign `A/SAOEUPB`
 * eddy `ED/TKEU`
 * sleepless `SHRAOEP/-LS`
 * succour `SUBG/KOR/A*U`

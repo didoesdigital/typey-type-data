@@ -155,6 +155,7 @@ Multi-syllable words with prefixes
 'induced': EUPB/TKAOUFD
 'attracted': A/TRABGD
 'implied': EUPL/PHRAOEUD
+'indifference': EUPB/TKEUFRPBS
 'conceal': KAUPB/SAOEL
 'unconscious': UPB/K-RBS
 'attempts': A/TEPLTS
@@ -217,6 +218,7 @@ Multi-syllable words with prefixes
 'incomplete': EUPB/KPHRAOET
 'invention': EUPB/SREPBGS
 'disagreeable': TKEUS/TKPWRAOEBL
+'defeated': TKE/TPAOET/-D
 'deprived': TKE/PRAOEUFD
 'invisible': EUPB/SREUBL
 'assigned': A/SAOEUPBD
@@ -261,7 +263,7 @@ Multi-syllable words with prefixes
 'relieve': RE/HREF
 'intentions': EUPB/TEPGS/-S
 'unjust': UPB/SKWRUFT
-'induce': EUPB/TKAUS
+'induce': EUPB/TKAOUS
 'inward': EUPB/WARD
 'conclude': KAUPB/HRAOUD
 'rejoice': RE/SKWROEUS
@@ -300,6 +302,7 @@ Multi-syllable words with prefixes
 'akin': A/KEUPB
 'betray': PWE/TRAEU
 'indemnify': EUPB/TKEPL/TPEU
+'decline': TKE/KHRAOEUPB
 'attachment': A/TAPLT
 'infinitely': EUPB/TPEUPBT/HREU
 'applause': A/PHRAUS
@@ -782,6 +785,7 @@ Multi-syllable words with prefixes
 'midday': PHEUD/TKAEU
 'discerned': TKEUS/ERPBD
 'outlet': AOUT/HRET
+'inherit': EUPB/HERT
 'insulting': EUPB/SULT/-G
 'overthrown': AUFR/THROEPB
 'ensure': EPB/SHUR
@@ -830,6 +834,7 @@ Multi-syllable words with prefixes
 'emerald': EPL/RALD
 'reproduction': RE/PROUBGS
 'foresight': TPOER/SAOEUGT
+'inquisitive': EUPB/KWEUS/TEUF
 'affirmative': A/TPEURPL/TEUF
 'dissatisfaction': TKEUS/SAEBGS
 'discarded': TKEUS/KARD/-D
@@ -840,7 +845,7 @@ Multi-syllable words with prefixes
 'forenoon': TPOER/TPHAOPB
 'enchantment': EPB/KHAPLT
 'outskirts': AOUT/SKEURTS
-'assign': A/SAOEUB
+'assign': A/SAOEUPB
 'invaluable': EUPB/SRAL/-BL
 'abstraction': AB/STRABGS
 'forefinger': TPOER/TPEUPBG/ER

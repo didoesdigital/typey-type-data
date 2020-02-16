@@ -872,7 +872,7 @@
 * poured `PORD`
 * streams,—now `STRAOEPLS KW-BG EPL/TKA*RB TPHOU`
 * darkness, `TKARBG/-PBS KW-BG`
-* blinding `PHRAOEUPBD/-G`
+* blinding `PWHRAOEUPBD/-G`
 * light,—now `HRAOEUT KW-BG EPL/TKA*RB TPHOU`
 * thrilling `THREULG`
 * silence, `SHREPBS KW-BG`

@@ -734,7 +734,7 @@
 * As `KPA/AZ`
 * warmth `WARPLT`
 * increased, `EUPB/KRAOEFD KW-BG`
-* decreased. `TE/KRAOES/-D TP-PL`
+* decreased. `TKE/KRAOES/-D TP-PL`
 * complaint, `KPAEUPBT KW-BG`
 * sign. `SAOEUPB TP-PL`
 * One `KPA/WUPB`

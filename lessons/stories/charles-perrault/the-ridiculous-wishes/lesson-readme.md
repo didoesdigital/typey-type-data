@@ -172,7 +172,7 @@
 * Olympus. `O/HREUPL/PUS TP-PL`
 * our `OUR`
 * woodcutter, `WAOD/KUT/*ER KW-BG`
-* blithely `PHRAO*EUT/HREU`
+* blithely `PWHRAO*EUT/HREU`
 * corded `KORD/-D`
 * faggot, `TPAGT KW-BG`
 * throwing `THROEG`

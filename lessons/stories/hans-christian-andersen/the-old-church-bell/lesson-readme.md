@@ -218,7 +218,7 @@
 * time `TAOEUPL`
 * after, `AF KW-BG`
 * child `KHAOEULD`
-* baptized, `PAPT/AOEUZ/-D KW-BG`
+* baptized, `PWAP/TAOEUZ/-D KW-BG`
 * names `TPHAEUPLS`
 * he `HE`
 * received `SAOEFD`
