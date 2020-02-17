@@ -3196,7 +3196,7 @@
 * oils `OEULS`
 * oink `O*EUPBG`
 * ointment `OEUPLT`
-* okay `OBLG`
+* okay `OBG`
 * older `OERLD`
 * om `OPL`
 * omit `OEPLT`
@@ -4831,7 +4831,7 @@
 * similar `SHRAR`
 * similarity `SHRART`
 * simplicity `SPHREUFT`
-* simultaneous `KPHULT`
+* simultaneous `SPHULT`
 * sin `SEUPB`
 * since `SEUPBS`
 * sine `SAO*EUPB`

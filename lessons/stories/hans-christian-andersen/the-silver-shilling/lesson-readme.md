@@ -393,7 +393,7 @@
 * she; `SHE STPH*FPLT`
 * cannot, `K/TPHOT KW-BG`
 * best `PWEFT`
-* intentions, `EUPB/TEPGS/-S KW-BG`
+* intentions, `EUPB/TEPBGS/-S KW-BG`
 * bad `PWAD`
 * rich `REUFP`
 * baker `PWAEURBG`
@@ -707,7 +707,7 @@
 * cares `KAEURS`
 * end. `EPBD TP-PL`
 * Joy `KPA/SKWROEU`
-* overwhelmed `AUFR/KHEPLD`
+* overwhelmed `AUFR/WHEPLD`
 * stamp? `STAFRP H-F`
 * insults `EUPB/SULTS`
 * disappointments `TKEUS/POEUPLTS`

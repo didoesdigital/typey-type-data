@@ -40,7 +40,7 @@
 * ox `O*BGS`
 * pa `HRO*ER/PA`
 * pi `PEU`
-* ok `ORBGS/K-RBGS`
+* ok `O*EBG`
 * so `SO`
 * sh `SH*`
 * ta `TAEU`

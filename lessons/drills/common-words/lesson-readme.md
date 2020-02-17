@@ -587,7 +587,7 @@
 * office `OFS`
 * often `OFPB`
 * oh `O*ERBGS`
-* okay `OBLG`
+* okay `OBG`
 * old `OLD`
 * on `OPB`
 * once `WUPBS`

@@ -258,7 +258,7 @@
 * displayed `TKEUS/PHRAEUD`
 * utter `UT/ER`
 * resolution `RES/HRAOUGS`
-* concluded `KAUPB/KAOUD/-D`
+* concluded `KAUPB/KHRAOUD/-D`
 * Chinese `KHAOEUPB/AOEZ`
 * approaching `A/PROEFPG`
 * alike `A/HRAOEUBG`
@@ -866,14 +866,14 @@
 * procure `PRO/KAOUR`
 * frankly `TPRAPB/KHREU`
 * relieve `RE/HREF`
-* intentions `EUPB/TEPGS/-S`
+* intentions `EUPB/TEPBGS/-S`
 * unjust `UPB/SKWRUFT`
 * legislation `HREGT/SHUPB`
 * Morrow `PHOR/ROE`
 * induce `EUPB/TKAOUS`
 * inward `EUPB/WARD`
 * fairy `TPAEUR/REU`
-* conclude `KAUPB/HRAOUD`
+* conclude `KAUPB/KHRAOUD`
 * torture `TOR/TUR`
 * hearty `HAR/TEU`
 * Abraham `AEUB/HAPL`
@@ -911,7 +911,7 @@
 * awhile `A/WHAOEUL`
 * manuscript `PHAPB/STREUPT`
 * warrior `WAR/KWROR`
-* impressions `EUPL/PREG/-S`
+* impressions `EUPL/PREGS/-S`
 * lifting `HREUFT/-G`
 * inaccurate `TPHABG/RAT`
 * tidings `TAOEUD/-G/-S`
@@ -1282,7 +1282,6 @@
 * carriages `KAEURPBLG/-S`
 * fantastic `TPAPB/T-FBG`
 * patiently `PAEURBT/HREU`
-* reverse `RE/SRES`
 * amuse `A/PHAOUS`
 * Isaac `AOEUS/ABG`
 * foliage `TPOEL/APBLG`
@@ -1424,7 +1423,7 @@
 * resembled `RE/SEPL/-BLD`
 * inscription `EUPB/KREUPGS`
 * indulge `EUPB/TKULG`
-* indulgence `EUPB/TKULS/EPBS`
+* indulgence `EUPB/TKULG/EPBS`
 * keenly `KAOEPB/HREU`
 * agricultural `AG/K-L`
 * enlightened `EPB/HRAOEUT/-PBD`
@@ -1459,7 +1458,7 @@
 * obstinate `OBS/TPHAT`
 * hasten `HAEUS/-PB`
 * foreigners `TPORPB/ER/-S`
-* overwhelmed `AUFR/KHEPLD`
+* overwhelmed `AUFR/WHEPLD`
 * instincts `EUPB/STEUPBGS`
 * telegraph `TEL/TKPWRAF`
 * Russell `RUS/SEL`
@@ -1549,7 +1548,7 @@
 * repentance `RE/PEPB/TAPBS`
 * blankets `PWHRAPB/KETS`
 * proprietor `PRO/PRAOEU/TOR`
-* uncertainty `UPB/SERPT`
+* uncertainty `UPB/SERPBT`
 * Mediterranean `PHED/TRAEUPB/KWRAPB`
 * respectful `R-PT/-FL`
 * chariot `KHAEUR/KWROT`

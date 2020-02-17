@@ -167,7 +167,7 @@
 * returned `RURPBD`
 * home, `HOEPL KW-BG`
 * marriage `PHAERPBLG`
-* concluded. `KAUPB/KAOUD/-D TP-PL`
+* concluded. `KAUPB/KHRAOUD/-D TP-PL`
 * About `KPA/PW`
 * month `PHO*PBT`
 * afterwards `A*FRDZ`

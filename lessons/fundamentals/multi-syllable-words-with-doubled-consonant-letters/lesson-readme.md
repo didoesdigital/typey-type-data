@@ -465,7 +465,7 @@
 * possessions `POE/SEGS/-S`
 * petty `PET/TEU`
 * warrior `WAR/KWROR`
-* impressions `EUPL/PREG/-S`
+* impressions `EUPL/PREGS/-S`
 * inaccurate `TPHABG/RAT`
 * specially `SPERBL/HREU`
 * unwilling `TPH-LG`

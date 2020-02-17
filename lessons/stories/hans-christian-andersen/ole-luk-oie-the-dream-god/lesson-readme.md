@@ -1071,7 +1071,7 @@
 * gown `TKPWOUPB`
 * married `PHAERD`
 * ceremony `SER/PHOEPB`
-* concluded, `KAUPB/KAOUD/-D KW-BG`
+* concluded, `KAUPB/KHRAOUD/-D KW-BG`
 * joined `SKWROEUPBD`
 * singing `SEUPBG/-G`
 * song, `SOPBG KW-BG`

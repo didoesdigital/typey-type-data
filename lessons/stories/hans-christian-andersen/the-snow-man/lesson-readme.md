@@ -543,7 +543,7 @@
 * beautiful?" `PWAOUFL H-F KR-GS`
 * "is `KR-GS S`
 * me?" `PHE H-F KR-GS`
-* reverse `RE/SRES`
+* reverse `R*EFRS`
 * you," `U KW-BG KR-GS`
 * dog; `TKOG STPH*FPLT`
 * "it's `KR-GS T AES`

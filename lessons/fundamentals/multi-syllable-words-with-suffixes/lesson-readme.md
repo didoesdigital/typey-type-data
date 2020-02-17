@@ -94,7 +94,7 @@
 * misery `PHEUS/REU`
 * singular `SEUPBG/HRAR`
 * reputation `REP/TAEUGS`
-* concluded `KAUPB/KAOUD/-D`
+* concluded `KAUPB/KHRAOUD/-D`
 * weakness `WAEBG/-PBS`
 * disposed `TKEUS/POES/-D`
 * electronically `HREBG/TROPB/KHREU`
@@ -328,7 +328,7 @@
 * smallest `SPHAUL/EFT`
 * suspended `SUS/PEPBD/-D`
 * frightful `TPRAOEUT/-FL`
-* intentions `EUPB/TEPGS/-S`
+* intentions `EUPB/TEPBGS/-S`
 * fairy `TPAEUR/REU`
 * strongest `STROPBG/EFT`
 * ardent `ARD/EPBT`
@@ -345,7 +345,7 @@
 * widest `WAOEUD/EFT`
 * divisions `TKWEUGS/-S`
 * warrior `WAR/KWROR`
-* impressions `EUPL/PREG/-S`
+* impressions `EUPL/PREGS/-S`
 * lifting `HREUFT/-G`
 * tidings `TAOEUD/-G/-S`
 * specially `SPERBL/HREU`
@@ -571,7 +571,7 @@
 * clinging `KHREUPBG/-G`
 * contemplation `KAUPB/TPHRAEUT/KWROPB`
 * Nancy `TPHAPB/SEU`
-* indulgence `EUPB/TKULS/EPBS`
+* indulgence `EUPB/TKULG/EPBS`
 * keenly `KAOEPB/HREU`
 * uneasiness `UPB/EZ/-PBS`
 * downloading `TKOUPBLD/-G`

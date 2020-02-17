@@ -572,7 +572,7 @@
 * husband, `HUS KW-BG`
 * might `PHAOEUT`
 * declare `TKE/KHRAR`
-* intentions. `EUPB/TEPGS/-S TP-PL`
+* intentions. `EUPB/TEPBGS/-S TP-PL`
 * have, `SR KW-BG`
 * difficulty `TKOEUFLT`
 * firm `TPEURPL`

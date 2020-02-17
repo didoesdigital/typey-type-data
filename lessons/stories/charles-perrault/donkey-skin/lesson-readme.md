@@ -1434,7 +1434,7 @@
 * due. `TKAOU TP-PL`
 * entirely `SPWAOEURL`
 * daughter-in-law, `TKAUR H-PB TPH H-PB HRAU KW-BG`
-* overwhelmed `AUFR/KHEPLD`
+* overwhelmed `AUFR/WHEPLD`
 * affection. `A*FBGS TP-PL`
 * invitation `EUPB/SREU/TAEUGS`
 * sent; `SEPBT STPH*FPLT`

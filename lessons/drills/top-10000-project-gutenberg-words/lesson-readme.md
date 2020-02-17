@@ -2283,7 +2283,7 @@
 * spare `SPAEUR`
 * patience `PAEURBS`
 * domestic `PHEFBG`
-* concluded `KAUPB/KAOUD/-D`
+* concluded `KAUPB/KHRAOUD/-D`
 * 'tis `TEUS`
 * farm `TPARPL`
 * reference `REFPBS`
@@ -4348,7 +4348,7 @@
 * frankly `TPRAPB/KHREU`
 * recommended `REPLD`
 * relieve `RE/HREF`
-* intentions `EUPB/TEPGS/-S`
+* intentions `EUPB/TEPBGS/-S`
 * unjust `UPB/SKWRUFT`
 * legislation `HREGT/SHUPB`
 * project `PROPBL`
@@ -4362,7 +4362,7 @@
 * pupils `PAOUPLS`
 * corresponding `KOERPBG`
 * fairy `TPAEUR/REU`
-* conclude `KAUPB/HRAOUD`
+* conclude `KAUPB/KHRAOUD`
 * clung `KHRUPBG`
 * neat `TPHAOET`
 * lucky `HROEUBG`
@@ -4499,7 +4499,7 @@
 * manuscript `PHAPB/STREUPT`
 * cigar `STKPWAR`
 * warrior `WAR/KWROR`
-* impressions `EUPL/PREG/-S`
+* impressions `EUPL/PREGS/-S`
 * aught `AUT`
 * lifting `HREUFT/-G`
 * inaccurate `TPHABG/RAT`
@@ -5418,7 +5418,7 @@
 * fantastic `TPAPB/T-FBG`
 * evolution `EFGS`
 * patiently `PAEURBT/HREU`
-* reverse `RE/SRES`
+* reverse `R*EFRS`
 * survey `SOEUF`
 * dug `TKUG`
 * amuse `A/PHAOUS`
@@ -5754,7 +5754,7 @@
 * inscription `EUPB/KREUPGS`
 * comfortably `KAEBL`
 * indulge `EUPB/TKULG`
-* indulgence `EUPB/TKULS/EPBS`
+* indulgence `EUPB/TKULG/EPBS`
 * bravely `PWRAEUFL`
 * kneeling `TPHAOELG`
 * yea `KWRA*EU`
@@ -5827,7 +5827,7 @@
 * hasten `HAEUS/-PB`
 * foreigners `TPORPB/ER/-S`
 * elderly `ERLD`
-* overwhelmed `AUFR/KHEPLD`
+* overwhelmed `AUFR/WHEPLD`
 * instincts `EUPB/STEUPBGS`
 * telegraph `TEL/TKPWRAF`
 * Russell `RUS/SEL`
@@ -6044,7 +6044,7 @@
 * repentance `RE/PEPB/TAPBS`
 * blankets `PWHRAPB/KETS`
 * proprietor `PRO/PRAOEU/TOR`
-* uncertainty `UPB/SERPT`
+* uncertainty `UPB/SERPBT`
 * concentrated `SKRAEUTD`
 * Mediterranean `PHED/TRAEUPB/KWRAPB`
 * covers `KOFRS`

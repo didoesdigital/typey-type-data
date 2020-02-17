@@ -340,7 +340,7 @@
 * off `OF`
 * boy's `PWOEU AES`
 * head. `HED TP-PL`
-* overwhelmed `AUFR/KHEPLD`
+* overwhelmed `AUFR/WHEPLD`
 * fear `TPAOER`
 * what `WHA`
 * done. `TKOPB TP-PL`

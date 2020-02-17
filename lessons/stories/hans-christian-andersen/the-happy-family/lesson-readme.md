@@ -498,7 +498,7 @@
 * progeny. `PROPBLG/TPHEU TP-PL`
 * ones `WUPBZ`
 * dishes, `TKEURBS KW-BG`
-* concluded `KAUPB/KAOUD/-D`
+* concluded `KAUPB/KHRAOUD/-D`
 * decay, `TKE/KAEU KW-BG`
 * world `WORLD`
 * dead; `TKED STPH*FPLT`

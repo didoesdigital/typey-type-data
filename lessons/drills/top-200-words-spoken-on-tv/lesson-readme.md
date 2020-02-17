@@ -76,7 +76,7 @@
 * when `WHEPB`
 * time `TAOEUPL`
 * will `HR`
-* okay `OBLG`
+* okay `OBG`
 * back `PWABG`
 * can't `K-PBT`
 * mean `PHAOEPB`

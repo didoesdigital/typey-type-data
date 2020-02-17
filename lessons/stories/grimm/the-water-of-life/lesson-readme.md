@@ -737,7 +737,7 @@
 * peace, `PAES KW-BG`
 * coat.' `KOET TP-PL AE`
 * At `KPA/AT`
-* overwhelmed `AUFR/KHEPLD`
+* overwhelmed `AUFR/WHEPLD`
 * joy, `SKWROEU KW-BG`
 * known `TPHOEPB`
 * throughout `THROUT`

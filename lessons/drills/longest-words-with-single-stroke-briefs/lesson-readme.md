@@ -68,7 +68,7 @@
 * participants `PA*PBTS`
 * occasionally `KWAEULGS`
 * perspectives `PEFS`
-* simultaneous `KPHULT`
+* simultaneous `SPHULT`
 * manufactured `PH-FD`
 * grandfathers `TKPWR-FS`
 * grandmothers `TKPWR-PLS`

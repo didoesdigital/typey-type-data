@@ -707,9 +707,9 @@
 * pray, `PRAEU KW-BG`
 * unless `TPH-LS`
 * serious `SAOERS`
-* intentions." `EUPB/TEPGS/-S TP-PL KR-GS`
+* intentions." `EUPB/TEPBGS/-S TP-PL KR-GS`
 * beetle's `PWAO*ELT AES`
-* intentions `EUPB/TEPGS/-S`
+* intentions `EUPB/TEPBGS/-S`
 * serious, `SAOERS KW-BG`
 * our `OUR`
 * friend `TPREPBD`

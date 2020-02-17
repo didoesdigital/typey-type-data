@@ -86,7 +86,7 @@
 * forehead `TPOER/HED`
 * regret `RE/TKPWRET`
 * displayed `TKEUS/PHRAEUD`
-* concluded `KAUPB/KAOUD/-D`
+* concluded `KAUPB/KHRAOUD/-D`
 * approaching `A/PROEFPG`
 * alike `A/HRAOEUBG`
 * disposed `TKEUS/POES/-D`
@@ -261,11 +261,11 @@
 * encourage `EPB/KORPBG`
 * procure `PRO/KAOUR`
 * relieve `RE/HREF`
-* intentions `EUPB/TEPGS/-S`
+* intentions `EUPB/TEPBGS/-S`
 * unjust `UPB/SKWRUFT`
 * induce `EUPB/TKAOUS`
 * inward `EUPB/WARD`
-* conclude `KAUPB/HRAOUD`
+* conclude `KAUPB/KHRAOUD`
 * rejoice `RE/SKWROEUS`
 * replace `RE/PHRAEUS`
 * released `RE/HRAOEFD`
@@ -273,7 +273,7 @@
 * asserted `A/SERT/-D`
 * disciples `TKEUS/AOEUPLTS`
 * awhile `A/WHAOEUL`
-* impressions `EUPL/PREG/-S`
+* impressions `EUPL/PREGS/-S`
 * adapted `A/TKAPTD`
 * subdued `SAUB/TKAOUD`
 * innumerable `EUPB/TPHAOUPL/RABL`
@@ -371,7 +371,6 @@
 * approve `A/PROF`
 * afflicted `A/TPHREUBGD`
 * disposal `TKEUS/POES/AL`
-* reverse `RE/SRES`
 * amuse `A/PHAOUS`
 * influenced `EUPB/TPHRAOUPBS/-D`
 * defined `TKE/TPAOEUPBD`
@@ -410,7 +409,7 @@
 * resembled `RE/SEPL/-BLD`
 * inscription `EUPB/KREUPGS`
 * indulge `EUPB/TKULG`
-* indulgence `EUPB/TKULS/EPBS`
+* indulgence `EUPB/TKULG/EPBS`
 * enlightened `EPB/HRAOEUT/-PBD`
 * uneasiness `UPB/EZ/-PBS`
 * inflicted `EUPB/TPHREUBGD`
@@ -418,7 +417,7 @@
 * repeatedly `RE/PAOET/TKHREU`
 * restrain `RE/STRAEUPB`
 * descendants `TKE/SEPBD/APBTS`
-* overwhelmed `AUFR/KHEPLD`
+* overwhelmed `AUFR/WHEPLD`
 * instincts `EUPB/STEUPBGS`
 * regretted `RE/TKPWRET/-D`
 * undertook `UPBD/TAOBG`
@@ -434,7 +433,7 @@
 * imprisoned `EUPL/PREUS/OPBD`
 * repentance `RE/PEPB/TAPBS`
 * proprietor `PRO/PRAOEU/TOR`
-* uncertainty `UPB/SERPT`
+* uncertainty `UPB/SERPBT`
 * indulged `EUPB/TKULGD`
 * aloft `A/HROFT`
 * indebted `EUPB/TKETD`
