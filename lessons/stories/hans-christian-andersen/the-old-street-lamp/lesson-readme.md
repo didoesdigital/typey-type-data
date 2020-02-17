@@ -395,7 +395,7 @@
 * chose. `KHOES TP-PL`
 * herring's `HER/-G AES`
 * head, `HED KW-BG`
-* emit `E/PHEUT`
+* emit `AOE/PHEUT`
 * darkness. `TKARBG/-PBS TP-PL`
 * He `KPA/HE`
 * remarked `RARBGD`

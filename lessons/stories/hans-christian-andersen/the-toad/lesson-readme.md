@@ -359,7 +359,7 @@
 * wooden `WAOD/EPB`
 * shoe `SHAOU`
 * toad, `TAOD KW-BG`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * crushed `KRURBD`
 * by `PWEU`
 * managing `PHAPBG/-G`
@@ -885,7 +885,7 @@
 * speak `SPAOEBG`
 * earth—up `*ERT EPL/TKA*RB UP`
 * North `TPHOERT`
-* Egypt. `E/SKWREUPT TP-PL`
+* Egypt. `AOE/SKWREUPT TP-PL`
 * able `ABL`
 * fly, `TPHRAOEU KW-BG`
 * moreover. `PHROEFR TP-PL`
@@ -919,7 +919,7 @@
 * began `TKPWAPB`
 * talking `TAUG`
 * nest, `TPHEFT KW-BG`
-* Egypt `E/SKWREUPT`
+* Egypt `AOE/SKWREUPT`
 * waters `WAURS`
 * Nile, `TPHAOEUL KW-BG`
 * incomparable `EUPB/KPARBL`
@@ -928,14 +928,14 @@
 * land; `HRAPBD STPH*FPLT`
 * sounded `SOUPBD/-D`
 * new `TPHU`
-* Egypt!" `E/SKWREUPT SKHRAPL KR-GS`
+* Egypt!" `AOE/SKWREUPT SKHRAPL KR-GS`
 * she. `SHE TP-PL`
 * ones `WUPBZ`
 * me! `PHE SKHRAPL`
 * oblige `OBL/AOEUPBLG`
 * him `HEUPL`
 * return. `RURPB TP-PL`
-* Egypt, `E/SKWREUPT KW-BG`
+* Egypt, `AOE/SKWREUPT KW-BG`
 * happy! `HAEP SKHRAPL`
 * All `KPA/AUL`
 * pleasure `PHRERB`
@@ -967,7 +967,7 @@
 * agreeable, `TKPWRAOEBL KW-BG`
 * going `TKPW-G`
 * upward—upward `AUP/WARBD EPL/TKA*RB AUP/WARBD`
-* Egypt—and `E/SKWREUPT EPL/TKA*RB SKP`
+* Egypt—and `AOE/SKWREUPT EPL/TKA*RB SKP`
 * why `KWR`
 * eyes `AO*EUS`
 * gleamed, `TKPWHRAOEPL/-D KW-BG`

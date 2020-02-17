@@ -295,7 +295,7 @@
 * Perchance, `KPA/PER/KHAPBS KW-BG`
 * did `TK`
 * lack `HRABG`
-* self-esteem, `S*EF H-PB E/STAOEPL KW-BG`
+* self-esteem, `S*EF H-PB ES/TAOEPL KW-BG`
 * exacted `EBGS/ABGD`
 * oath `O*ET`
 * firmly `TPEURPL/HREU`
@@ -607,7 +607,7 @@
 * bringing `PWREUG`
 * twenty-four `TWEPBT/H-PB/TPOUR`
 * hours `HOURS`
-* elapse. `E/HRAPS TP-PL`
+* elapse. `AOE/HRAPS TP-PL`
 * though `THOE`
 * pleased `PHRAOEFD`
 * delivered, `TKHREUFRD KW-BG`
@@ -712,7 +712,7 @@
 * skin." `SKEUPB TP-PL KR-GS`
 * finding `TPAOEPBGD`
 * avenue `AFP`
-* escape; `SKA*EUP STPH*FPLT`
+* escape; `SKAEP STPH*FPLT`
 * bring `PWREU`
 * sacrifice `ARBG/TPAOEUS`
 * ass, `A*S KW-BG`
@@ -805,7 +805,7 @@
 * invisible `EUPB/SREUBL`
 * cleverest `KHR*EFR/*ES`
 * seekers, `SAOEBG/*ERS KW-BG`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * vigilance. `SREUPBLG/HRAPBS TP-PL`
 * Meanwhile `KPA/PHAOEPB/WHAOEUL`
 * walked `WAUBGD`

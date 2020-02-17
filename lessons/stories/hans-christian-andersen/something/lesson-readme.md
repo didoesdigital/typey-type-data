@@ -875,7 +875,7 @@
 * flames `TPHRAEUPLS`
 * leaped `HRAOEPD`
 * beacon `PWAOE/KOPB`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * fortunately `TP-RPBL`
 * threshold `THRERBLD`
 * door; `TKAOR STPH*FPLT`

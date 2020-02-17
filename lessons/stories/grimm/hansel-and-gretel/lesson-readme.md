@@ -688,7 +688,7 @@
 * laughed `HRAFD`
 * malice, `PHAL/EUS KW-BG`
 * mockingly: `PHOBG/-G/HREU STPH-FPLT`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * me `PHE`
 * again!' `TKPWEPB SKHRAPL AE`
 * awake, `A/WAEUBG KW-BG`

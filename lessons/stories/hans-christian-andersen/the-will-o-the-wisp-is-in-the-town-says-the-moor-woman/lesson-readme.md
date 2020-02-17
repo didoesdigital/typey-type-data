@@ -1444,7 +1444,7 @@
 * alone." `A/HROEPB TP-PL KR-GS`
 * agreeable," `TKPWRAOEBL KW-BG KR-GS`
 * replied, `RE/PHRAOEUD KW-BG`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * newspapers, `TPHUPS KW-BG`
 * tied `TAO*EUD`
 * uncomfortable `TPH-BL`

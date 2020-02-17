@@ -897,7 +897,7 @@
 * understood `*URPBD`
 * effort `EFRT`
 * prepared `PRAOEPD`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * attempt `A/TEPLT`
 * supposed `SPOED`
 * killed `KEULD`

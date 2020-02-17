@@ -25,7 +25,7 @@
 * approaching `A/PROEFPG`
 * and `SKP`
 * hoped `HOEPD`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * them `THEPL`
 * by `PWEU`
 * aid `AEUD`
@@ -154,7 +154,7 @@
 * near, `TPHAOER KW-BG`
 * heels `HAOELS`
 * luckily `HRULG`
-* escaped. `ES/KAEUPD TP-PL`
+* escaped. `SKAEP/-D TP-PL`
 * He `KPA/HE`
 * has `HAS`
 * friends, `TPREPBDZ KW-BG`

@@ -897,7 +897,7 @@
 * understood `*URPBD`
 * effort `EFRT`
 * prepared `PRAOEPD`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * attempt `A/TEPLT`
 * supposed `SPOED`
 * killed `KEULD`
@@ -1790,13 +1790,13 @@
 * lake `HRAEUBG`
 * safety `SAEFT`
 * provisions `PRO/SREUGS/-S`
-* description `SKREUPG`
+* description `SKREUPGS`
 * asleep `A/SHRAOEP`
 * centre `STR/A*U`
 * faint `TPAEUPBT`
 * thinks `THEUS`
 * parents `PARPBTS`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * careful `KAEUFL`
 * enjoy `TPHOEUPBLG`
 * drop `TKROP`
@@ -1900,7 +1900,7 @@
 * rare `RAEUR`
 * granted `TKPWRAPBTD`
 * raise `RAEUZ`
-* Egypt `E/SKWREUPT`
+* Egypt `AOE/SKWREUPT`
 * manners `PHAERPBS`
 * cousin `KUZ`
 * you've `UF`
@@ -2046,7 +2046,7 @@
 * origin `O*RPBLG`
 * Joseph `SKWROE/SEF`
 * slept `SHREPT`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * thine `THAOEUPB`
 * audience `AUPBS`
 * pages `PAEUPBLGS`
@@ -3693,7 +3693,7 @@
 * distinguish `TKWEURB`
 * manifest `PHAPB/TPEFT`
 * comparatively `KPAEURT/EUFL`
-* esteem `E/STAOEPL`
+* esteem `ES/TAOEPL`
 * blew `PWHRAOU`
 * revelation `REFL/AEUGS`
 * wash `WARB`
@@ -3813,7 +3813,7 @@
 * cheap `KHAEP`
 * saints `SAEUPBTS`
 * colonel `KURPBL`
-* Egyptian `E/SKWREUPGS`
+* Egyptian `AOE/SKWREUPGS`
 * contest `KAUPB/TEFT`
 * owned `OEPBD`
 * adventures `SREPBGS`
@@ -6107,7 +6107,7 @@
 * hosts `HOEFTS`
 * crash `KRARB`
 * resemble `REPL/*BL`
-* epoch `E/POBG`
+* epoch `EP/OBG`
 * quote `KWOET`
 * lacking `HRABG/-G`
 * nominally `TPHOPL/TPHAL/HREU`

@@ -67,7 +67,7 @@
 * her `HER`
 * approach, `PROEFP KW-BG`
 * easily `AOELS`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * from `TPR`
 * her. `HER TP-PL`
 * I `EU`

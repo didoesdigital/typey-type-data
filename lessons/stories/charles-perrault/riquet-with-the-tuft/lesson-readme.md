@@ -879,7 +879,7 @@
 * consent. `KEFPBT TP-PL`
 * being `-BG`
 * acquainted `A/KWAEUPBTD`
-* esteem `E/STAOEPL`
+* esteem `ES/TAOEPL`
 * sage `SAEUPBLG`
 * judicious `SKWRAOUD/EURBS`
 * Prince, `PR*EUPBS KW-BG`

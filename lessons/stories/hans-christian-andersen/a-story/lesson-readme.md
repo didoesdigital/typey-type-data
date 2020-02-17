@@ -169,7 +169,7 @@
 * deeper `TKAOERP`
 * deeper, `TKAOERP KW-BG`
 * while `WHAOEUL`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * silence `SHREPBS`
 * surrounded `SROUBD/-D`
 * them! `THEPL SKHRAPL`
@@ -238,9 +238,9 @@
 * are `R`
 * many `PHAEPB`
 * people, `PAOEPL KW-BG`
-* eternally. `E/TERPBL/HREU TP-PL`
+* eternally. `AOE/TERPBL/HREU TP-PL`
 * Alas! `KPA/A/HRAS SKHRAPL`
-* eternally—how `E/TERPBL/HREU EPL/TKA*RB HOU`
+* eternally—how `AOE/TERPBL/HREU EPL/TKA*RB HOU`
 * long! `HROPBG SKHRAPL`
 * only `OEPBL`
 * woman `WOPL`
@@ -497,7 +497,7 @@
 * fool, `TPAOL KW-BG`
 * doomed `TKAOPLD`
 * tortured `TOR/KHURD`
-* eternally `E/TERPBL/HREU`
+* eternally `AOE/TERPBL/HREU`
 * fire!" `TPAOEUR SKHRAPL KR-GS`
 * "Only `KR-GS KPA/OEPBL`
 * fool!" `TPAOL SKHRAPL KR-GS`

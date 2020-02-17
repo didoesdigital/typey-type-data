@@ -46,7 +46,7 @@
 * approached `A/PROEFPD`
 * land, `HRAPBD KW-BG`
 * often `OFPB`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * by `PWEU`
 * means. `PHAOEPBS TP-PL`
 * But `KPA/PWUT`
@@ -69,6 +69,6 @@
 * voice, `SROEUS KW-BG`
 * "You `KR-GS KPA/U`
 * cannot `K/TPHOT`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * your `KWROUR`
 * fate." `TPAEUT TP-PL KR-GS`

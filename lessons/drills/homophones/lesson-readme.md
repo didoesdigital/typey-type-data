@@ -35,7 +35,7 @@
 * allowed `HRO*UD`
 * aloud `A/HROUD`
 * allude `A/HRAOUD`
-* elude `E/HRAOUD`
+* elude `AOE/HRAOUD`
 * altar `AL/TAR`
 * alter `AURLT`
 * appose `APZ`

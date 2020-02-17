@@ -68,6 +68,7 @@
 * inquired `EUPB/KWAOEURD`
 * immense `EUPL/EPBS`
 * affected `A/TPEBGD`
+* eternal `AOE/TERPBL`
 * remaining `RE/PHAEUPBG`
 * containing `KAUPB/TAEUPBG`
 * attended `A/TEPBD/-D`
@@ -441,6 +442,7 @@
 * enlarged `EPB/HRARPBLGD`
 * refrain `RE/TPRAEUPB`
 * unexpectedly `UPB/EBGS/PEBGT/-D/HREU`
+* epoch `EP/OBG`
 * detached `TKE/TAFPD`
 * accompanying `A/K-PG`
 * annoyance `A/TPHOEUPBS`

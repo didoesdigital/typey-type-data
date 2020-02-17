@@ -260,7 +260,7 @@
 * ships `SHEUPS`
 * flew `TPHRAOU`
 * from `TPR`
-* Egypt, `E/SKWREUPT KW-BG`
+* Egypt, `AOE/SKWREUPT KW-BG`
 * fine `TPAOEUPB`
 * masts `PHAFT/-S`
 * smelt `SPHELT`

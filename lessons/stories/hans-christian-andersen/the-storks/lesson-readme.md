@@ -308,7 +308,7 @@
 * mountains `PHOUPB/TAEUPBS`
 * forests. `TPOEFRT/-S TP-PL`
 * To `KPA/TO`
-* Egypt, `E/SKWREUPT KW-BG`
+* Egypt, `AOE/SKWREUPT KW-BG`
 * see `SAOE`
 * three-cornered `THRAOE H-PB KRORPB/-D`
 * houses `HO*UFS`

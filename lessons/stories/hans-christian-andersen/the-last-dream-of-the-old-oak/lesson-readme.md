@@ -778,7 +778,7 @@
 * impossible. `EUPL/POB TP-PL`
 * "In `KR-GS KPA/TPH`
 * heaven `HEFPB`
-* Eternal `KPA/E/TERPBL`
+* Eternal `KPA/AOE/TERPBL`
 * God, `TKPWO*D KW-BG`
 * imagined, `PHAPBLGD KW-BG`
 * possible," `POB KW-BG KR-GS`
@@ -874,7 +874,7 @@
 * redemption `RE/TKEPLS`
 * soul `SOUL`
 * man, `PHAPB KW-BG`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * Christ's `KRAOEUFT AES`
 * atoning `A/TOEPB/-G`
 * blood. `PWHRAOD TP-PL`

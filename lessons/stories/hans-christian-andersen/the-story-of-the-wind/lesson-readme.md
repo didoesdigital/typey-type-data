@@ -1443,7 +1443,7 @@
 * standing, `STAPBG KW-BG`
 * woman `WOPL`
 * stay. `STAEU TP-PL`
-* Egyptian `E/SKWREUPGS`
+* Egyptian `AOE/SKWREUPGS`
 * bird `PWEURD`
 * thank `THAPBG`
 * that; `THA STPH*FPLT`

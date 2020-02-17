@@ -346,7 +346,7 @@
 * doubt `TKOUT`
 * whether `WHR`
 * should `SHO`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * remained, `RE/PHAEUPBD KW-BG`
 * quietly `KWAO*EULT`
 * lying `HRAOEUG`

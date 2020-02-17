@@ -877,7 +877,7 @@
 * leg `HREG`
 * point `POEUPBT`
 * sword. `SOERD TP-PL`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * leapt `HREPT`
 * helmet `H*EPLT`
 * hair. `HAEUR TP-PL`

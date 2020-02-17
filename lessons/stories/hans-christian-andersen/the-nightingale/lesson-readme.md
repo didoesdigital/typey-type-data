@@ -220,7 +220,7 @@
 * pleased `PHRAOEFD`
 * find `TPEUPBD`
 * such `SUFP`
-* description `SKREUPG`
+* description `SKREUPGS`
 * city, `STEU KW-BG`
 * gardens. `TKPWARD/-PBS TP-PL`
 * words, `WORDZ KW-BG`

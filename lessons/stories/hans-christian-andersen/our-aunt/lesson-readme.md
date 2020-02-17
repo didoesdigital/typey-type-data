@@ -90,7 +90,7 @@
 * Now, `KPA/TPHOU KW-BG`
 * 'Moses' `AE PHOES/ES AE`
 * 'Joseph `AE SKWROE/SEF`
-* Egypt'—there `E/SKWREUPT AE EPL/TKA*RB THR`
+* Egypt'—there `AOE/SKWREUPT AE EPL/TKA*RB THR`
 * operas `OP/RAS`
 * you! `U SKHRAPL`
 * get `TKPWET`
@@ -344,7 +344,7 @@
 * receive `SAOEF`
 * short `SHORT`
 * concise `KAUPB/SAOEUS`
-* description `SKREUPG`
+* description `SKREUPGS`
 * piece. `PAOES TP-PL`
 * His `KPA/HEUS`
 * opinion `P-PB`

@@ -259,7 +259,7 @@
 * enough `TPHUF`
 * enter `SPWER`
 * entire `SPWAOEUR`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * especially `EPS`
 * even `AOEPB`
 * evening `AOEPBG`

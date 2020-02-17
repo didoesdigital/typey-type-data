@@ -916,7 +916,7 @@
 * Malta, `PHAL/TA KW-BG`
 * marvellous `PHAFLS/A*U`
 * sepulchres `SEP/UL/KER/-S`
-* Egypt, `E/SKWREUPT KW-BG`
+* Egypt, `AOE/SKWREUPT KW-BG`
 * kind `KEUPBD`
 * veneration. `SREPB/RAEUGS TP-PL`
 * stories `STOERS`
@@ -1076,7 +1076,7 @@
 * holy `HOEUL`
 * behind `HEUPBD`
 * altar-screen, `AL/TAR H-PB SKRAOEPB KW-BG`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * friendship `TPREP`
 * confirmed. `K-FRPL/-D TP-PL`
 * arose, `A/ROES KW-BG`

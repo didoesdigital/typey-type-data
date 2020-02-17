@@ -384,7 +384,7 @@
 * opened `OEPD`
 * heart `HART`
 * miserable `PHEUZ/-BL`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * feeling `TPAOELG`
 * unrest. `UPB/REFT TP-PL`
 * It `KPA/T`

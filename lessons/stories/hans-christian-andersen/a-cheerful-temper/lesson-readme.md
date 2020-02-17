@@ -565,7 +565,7 @@
 * life. `HRAOEUF TP-PL`
 * maiden `PHAEUD/*EPB`
 * another `TPHOER`
-* description. `SKREUPG TP-PL`
+* description. `SKREUPGS TP-PL`
 * She `KPA/SHE`
 * engaged `EPB/TKPWAEUPBLGD`
 * married,—but, `PHAERD KW-BG EPL/TKA*RB PWUT KW-BG`

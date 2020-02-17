@@ -734,7 +734,7 @@
 * rank, `RA*PBG KW-BG`
 * therein `THR-PB`
 * misfortune. `PHEUS/TPOR/TAOUPB TP-PL`
-* esteem `E/STAOEPL`
+* esteem `ES/TAOEPL`
 * poor,' `PAOR KW-BG AE`
 * added. `AD/-D TP-PL`
 * 'In `AE KPA/TPH`
@@ -822,7 +822,7 @@
 * you, `U KW-BG`
 * maiden `PHAEUD/*EPB`
 * honors `HO*RPBS`
-* esteems `E/STAOEPL/-S`
+* esteems `ES/TAOEPL/-S`
 * offer `OFR`
 * love? `HRUF H-F`
 * come.' `KOPL TP-PL AE`

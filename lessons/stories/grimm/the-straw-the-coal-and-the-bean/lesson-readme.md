@@ -79,7 +79,7 @@
 * if `TP`
 * I `EU`
 * not `TPHOT`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * by `PWEU`
 * sheer `SHAOER`
 * force, `TPORS KW-BG`

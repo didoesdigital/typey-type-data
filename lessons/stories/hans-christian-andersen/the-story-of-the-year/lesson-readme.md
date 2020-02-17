@@ -1025,7 +1025,7 @@
 * plough `PHROU/A*U`
 * short `SHORT`
 * distance. `STKAPBS TP-PL`
-* Egypt, `E/SKWREUPT KW-BG`
+* Egypt, `AOE/SKWREUPT KW-BG`
 * carried `KAERD`
 * us `US`
 * air. `AEUR TP-PL`

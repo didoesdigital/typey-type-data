@@ -278,7 +278,7 @@
 * her, `HER KW-BG`
 * small, `SPHAL KW-BG`
 * cannot `K/TPHOT`
-* escape; `SKA*EUP STPH*FPLT`
+* escape; `SKAEP STPH*FPLT`
 * and, `SKP KW-BG`
 * we `WE`
 * haste `HAEUFT`
@@ -1103,7 +1103,7 @@
 * forest `TPOEFRT`
 * sea, `SAE KW-BG`
 * highest `HAOEU/EFT`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * snow. `STPHOE TP-PL`
 * keeping `KAOEPG`
 * uncovered, `UPB/KOFRD KW-BG`

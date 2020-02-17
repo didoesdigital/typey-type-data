@@ -608,7 +608,7 @@
 * through `THRU`
 * air; `AEUR STPH*FPLT`
 * beyond `KWROPBD`
-* description. `SKREUPG TP-PL`
+* description. `SKREUPGS TP-PL`
 * charming `KHARPL/-G`
 * young `KWRUPBG`
 * girl, `TKPWEURL KW-BG`

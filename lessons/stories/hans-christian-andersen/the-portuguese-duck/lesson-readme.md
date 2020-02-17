@@ -144,7 +144,7 @@
 * cat `KAT`
 * after `AF`
 * he `HE`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * her `HER`
 * broken `PWROEPB`
 * wing, `WEUPBG KW-BG`

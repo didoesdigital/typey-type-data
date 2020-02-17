@@ -493,7 +493,7 @@
 * pain, `PAEUPB KW-BG`
 * despair `TKE/SPAEUR`
 * leapt `HREPT`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * life, `HRAOEUF KW-BG`
 * thorns `THORPB/-S`
 * pierced `PAOERS/-D`

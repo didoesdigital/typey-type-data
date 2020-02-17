@@ -1264,7 +1264,7 @@
 * accompany `A/K-P`
 * terrific. `TREUFG TP-PL`
 * Nobody `KPA/TPHOEB`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * journey. `SKWRURPB TP-PL`
 * go—they `TKPW EPL/TKA*RB THE`
 * Wandering `KPA/WAPBGD`

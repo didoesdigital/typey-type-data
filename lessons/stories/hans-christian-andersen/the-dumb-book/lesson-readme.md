@@ -287,7 +287,7 @@
 * green `TKPWRAOEPB`
 * wood, `WAOD KW-BG`
 * vowed `SROUD`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * friendship. `TPREP TP-PL`
 * Where `KPA/W-R`
 * does `TKOS`

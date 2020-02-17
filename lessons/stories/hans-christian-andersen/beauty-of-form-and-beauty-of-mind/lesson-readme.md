@@ -177,7 +177,7 @@
 * do `TKO`
 * give `TKPWEUF`
 * me `PHE`
-* description `SKREUPG`
+* description `SKREUPGS`
 * Rome. `RO*EPL TP-PL`
 * How `KPA/HOU`
 * does `TKOS`
@@ -507,7 +507,7 @@
 * excursions `EBGS/KURGS/-S`
 * Mount `PHO*UPBT`
 * Vesuvius, `SRE/SAOUF/KWRUS KW-BG`
-* eruptions `E/RUPGS/-S`
+* eruptions `AOE/RUPGS/-S`
 * fire `TPAOEUR`
 * it. `T TP-PL`
 * before. `PW-FP TP-PL`
@@ -540,7 +540,7 @@
 * sketch `SKEFP`
 * own, `OEPB KW-BG`
 * represents `REPS`
-* eruption `E/RUPGS`
+* eruption `AOE/RUPGS`
 * saw." `SAU TP-PL KR-GS`
 * placed `PHRAEUFD`
 * pencil `PEPB/SEUL`
@@ -1067,7 +1067,7 @@
 * decays, `TKAOE/KAEUS KW-BG`
 * seek `SAOEBG`
 * obtain `OB/TAEUPB`
-* ethereal `E/THAOERL`
+* ethereal `AOE/THAOERL`
 * essence `ES/EPBS`
 * spirit. `SPEURT TP-PL`
 * Poor `KPA/PAOR`

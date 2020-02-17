@@ -921,7 +921,7 @@
 * blood `PWHRAOD`
 * grows `TKPWRO*ES`
 * thick `THEUBG`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * dreaming. `TKRAOEPLG TP-PL`
 * Be `KPA/-B`
 * others `OERS`
@@ -1154,7 +1154,7 @@
 * These, `KPA/THEZ KW-BG`
 * echoed `EBG/OE/-D`
 * heart, `HART KW-BG`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * buried `PWUR/EUD`
 * head `HED`
 * pillows, `PEUL/OES KW-BG`
@@ -1518,7 +1518,7 @@
 * secret `SKRET`
 * prisoner; `PREURZ STPH*FPLT`
 * captive `KAPT/EUF`
-* escape, `SKA*EUP KW-BG`
+* escape, `SKAEP KW-BG`
 * his!" `HEUS SKHRAPL KR-GS`
 * godlike `TKPWOD/HRAO*EUBG`
 * suffered `SUFRD`

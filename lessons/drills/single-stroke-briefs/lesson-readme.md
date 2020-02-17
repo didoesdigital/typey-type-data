@@ -1839,7 +1839,7 @@
 * described `KREUFD`
 * describer `SKREUR`
 * describing `SKREUG`
-* description `SKREUPG`
+* description `SKREUPGS`
 * desert `STK*ERT`
 * deserve `TKEFRB`
 * design `STKAOEUPB`

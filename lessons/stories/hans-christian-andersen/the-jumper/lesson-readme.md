@@ -107,7 +107,7 @@
 * old `OLD`
 * family `TPAEPL`
 * land `HRAPBD`
-* Egypt, `E/SKWREUPT KW-BG`
+* Egypt, `AOE/SKWREUPT KW-BG`
 * highly `HAOEUL`
 * esteemed `ES/TAOEPLD`
 * there. `THR TP-PL`

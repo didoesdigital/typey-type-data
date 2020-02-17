@@ -29,7 +29,7 @@
 * red `RED`
 * legs `HREGS`
 * chattered `KHAT/ERD`
-* Egyptian `E/SKWREUPGS`
+* Egyptian `AOE/SKWREUPGS`
 * language, `HRAPBL KW-BG`
 * which `WEU`
 * he `HE`
@@ -1121,7 +1121,7 @@
 * catch `KAFP`
 * him; `HEUPL STPH*FPLT`
 * luckily `HRULG`
-* escaped. `ES/KAEUPD TP-PL`
+* escaped. `SKAEP/-D TP-PL`
 * open; `OEP STPH*FPLT`
 * manage `PHAPBG`
 * bushes, `PWURBS KW-BG`

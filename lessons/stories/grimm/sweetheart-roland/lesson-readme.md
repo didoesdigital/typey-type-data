@@ -195,7 +195,7 @@
 * wand, `WAPBD KW-BG`
 * or `OR`
 * cannot `K/TPHOT`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * pursues `PUR/SAOUS`
 * us.' `US TP-PL AE`
 * maiden `PHAEUD/*EPB`

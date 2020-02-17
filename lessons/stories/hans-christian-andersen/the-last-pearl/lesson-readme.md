@@ -142,7 +142,7 @@
 * if `TP`
 * years `KWRAOERS`
 * should `SHO`
-* elapse, `E/HRAPS KW-BG`
+* elapse, `AOE/HRAPS KW-BG`
 * will `HR`
 * bring `PWREU`
 * gift; `TKPWEUFT STPH*FPLT`
@@ -482,4 +482,4 @@
 * wings `WEUPBGS`
 * shall `SHAL`
 * carry `KAER`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`

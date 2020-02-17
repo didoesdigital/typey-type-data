@@ -415,7 +415,7 @@
 * lady's `HRAEUD/KWREU/AES`
 * tongue; `TUPBG STPH*FPLT`
 * given `TKPWEUFPB`
-* description `SKREUPG`
+* description `SKREUPGS`
 * contained `TAEUPBD`
 * side, `SAOEUD KW-BG`
 * just `SKWRUFT`

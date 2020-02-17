@@ -643,7 +643,7 @@
 * chuckling `KHUBG/-LG`
 * secretly, `SKRELT KW-BG`
 * inaccuracy `TPHABG/RAES`
-* description, `SKREUPG KW-BG`
+* description, `SKREUPGS KW-BG`
 * all. `AUL TP-PL`
 * still `STEUL`
 * strangers, `STRAEUPB/SKWRERS KW-BG`

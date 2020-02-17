@@ -1092,7 +1092,7 @@
 * expenses `SPEPBS/-S`
 * journey, `SKWRURPB KW-BG`
 * write `WREU`
-* description `SKREUPG`
+* description `SKREUPGS`
 * amuse `A/PHAOUS`
 * us `US`
 * watering-place; `WAURPBG H-PB PHRAEUS STPH*FPLT`

@@ -53,6 +53,7 @@
 * relation `RELGS`
 * addition `AGS`
 * mission `PHEUGS`
+* description `SKREUPGS`
 * enjoy `TPHOEUPBLG`
 * intention `SPWEPBGS`
 * intelligence `SPWEPBLGS`

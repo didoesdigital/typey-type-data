@@ -831,7 +831,7 @@
 * punish `P-RB`
 * wicked `WEUBGD`
 * sons; `SOPBS STPH*FPLT`
-* escape, `SKA*EUP KW-BG`
+* escape, `SKAEP KW-BG`
 * sailed `SAEULD`
 * wide `WAOEUD`
 * cared. `KAEURD TP-PL`

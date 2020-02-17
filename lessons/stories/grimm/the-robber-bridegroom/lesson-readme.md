@@ -320,7 +320,7 @@
 * together. `TOGT TP-PL`
 * waiting `WAEUGT`
 * opportunity `TAOUPBT`
-* escape.' `SKA*EUP TP-PL AE`
+* escape.' `SKAEP TP-PL AE`
 * words `WORDZ`
 * hardly `HA*RLD`
 * mouth `PHO*UT`
@@ -547,7 +547,7 @@
 * recital `RE/SAOEU/TAL`
 * deadly `TKED/HREU`
 * pale, `PAEL KW-BG`
-* escape, `SKA*EUP KW-BG`
+* escape, `SKAEP KW-BG`
 * seized `SAOEZ/-D`
 * held `HELD`
 * fast. `TPAFT TP-PL`

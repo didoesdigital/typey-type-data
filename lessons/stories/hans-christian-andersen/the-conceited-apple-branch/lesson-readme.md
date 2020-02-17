@@ -151,7 +151,7 @@
 * nature. `TPHAEURT TP-PL`
 * People `KPA/PAOEPL`
 * every `EF`
-* description `SKREUPG`
+* description `SKREUPGS`
 * entered `SPWR-D`
 * room, `RAOPL KW-BG`
 * and, `SKP KW-BG`

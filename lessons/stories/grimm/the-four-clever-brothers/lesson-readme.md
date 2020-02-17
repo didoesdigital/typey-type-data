@@ -169,7 +169,7 @@
 * so `SO`
 * clever, `KHREFR KW-BG`
 * could `KO`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * once `WUPBS`
 * set `SET`
 * mind `PHAOEUPBD`

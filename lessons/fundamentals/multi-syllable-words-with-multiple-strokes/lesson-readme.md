@@ -153,7 +153,7 @@
 * arose `A/ROES`
 * provisions `PRO/SREUGS/-S`
 * asleep `A/SHRAOEP`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * worship `WOR/SH-P`
 * despair `TKE/SPAEUR`
 * attached `A/TAFPD`
@@ -173,7 +173,7 @@
 * rendered `REPBD/TKERD`
 * volunteers `SROL/TAOERS`
 * singing `SEUPBG/-G`
-* Egypt `E/SKWREUPT`
+* Egypt `AOE/SKWREUPT`
 * approached `A/PROEFPD`
 * abroad `A/PWRAOD`
 * literary `HREUT/REU`
@@ -202,7 +202,7 @@
 * immense `EUPL/EPBS`
 * affected `A/TPEBGD`
 * Joseph `SKWROE/SEF`
-* eternal `E/TERPBL`
+* eternal `AOE/TERPBL`
 * remaining `RE/PHAEUPBG`
 * containing `KAUPB/TAEUPBG`
 * charming `KHARPL/-G`
@@ -622,7 +622,7 @@
 * promises `PROPLS/-S`
 * manifest `PHAPB/TPEFT`
 * comparatively `KPAEURT/EUFL`
-* esteem `E/STAOEPL`
+* esteem `ES/TAOEPL`
 * revelation `REFL/AEUGS`
 * confession `KAUPB/TPEGS`
 * nonsense `TPHOPB/SEPBS`
@@ -676,7 +676,7 @@
 * curtain `KUR/TAPB`
 * obscure `OB/SKAOUR`
 * alas `A/HRAS`
-* Egyptian `E/SKWREUPGS`
+* Egyptian `AOE/SKWREUPGS`
 * contest `KAUPB/TEFT`
 * landing `HRAPBD/-G`
 * leagues `HRAOEG/-S`
@@ -1572,7 +1572,7 @@
 * refrain `RE/TPRAEUPB`
 * passionately `PAGS/AT/HREU`
 * unexpectedly `UPB/EBGS/PEBGT/-D/HREU`
-* epoch `E/POBG`
+* epoch `EP/OBG`
 * lacking `HRABG/-G`
 * nominally `TPHOPL/TPHAL/HREU`
 * aristocracy `ARS/TOBG/SEU`

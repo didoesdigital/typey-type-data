@@ -239,7 +239,7 @@
 * burning, `PWURPBG KW-BG`
 * use `AOUS`
 * him? `HEUPL H-F`
-* escape `SKA*EUP`
+* escape `SKAEP`
 * death. `TK*T TP-PL`
 * sat `SAT`
 * while `WHAOEUL`

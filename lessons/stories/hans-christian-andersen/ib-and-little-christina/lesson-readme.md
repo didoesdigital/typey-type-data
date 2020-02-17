@@ -1448,7 +1448,7 @@
 * Did `KPA/TK`
 * recognise `REZ/A*U`
 * knew; `TPHAOU STPH*FPLT`
-* escaped `ES/KAEUPD`
+* escaped `SKAEP/-D`
 * beneath `TPHAO*ET`
 * newly `TPHAOUL`
 * painted `PAEUPBTD`
