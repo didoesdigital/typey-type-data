@@ -39,7 +39,7 @@
 * mother. `PHOER TP-PL`
 * corn-fields `KORPB H-PB TPAOELDZ`
 * were `WR`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * by `PWEU`
 * large `HRARPBLG`
 * forests, `TPOEFRT/-S KW-BG`
@@ -1056,7 +1056,7 @@
 * creatures, `KRAOEFPS KW-BG`
 * they. `THE TP-PL`
 * gladly `TKPWHRAD/HREU`
-* encouragement. `EPB/KORPLT TP-PL`
+* encouragement. `EPB/KORPBLGT TP-PL`
 * colder `KOERLD`
 * colder; `KOERLD STPH*FPLT`
 * obliged `OE/PWHRAOEUPBLGD`
@@ -1188,7 +1188,7 @@
 * hunger `HURPBG`
 * winter." `WEURPBT TP-PL KR-GS`
 * swans. `SWAPBS TP-PL`
-* espied `E/SPAOEUD`
+* espied `AOE/SPAOEUD`
 * stranger, `STRAEURPBG KW-BG`
 * rushed `RURBD`
 * meet `PHAOET`

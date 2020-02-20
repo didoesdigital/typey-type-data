@@ -979,7 +979,7 @@
 * were, `WR KW-BG`
 * hundred `HUPBD`
 * house. `HOUS TP-PL`
-* espied `E/SPAOEUD`
+* espied `AOE/SPAOEUD`
 * mountain `PHOUPB/TAEUPB`
 * mountain, `PHOUPB/TAEUPB KW-BG`
 * rivers `REUFRS`

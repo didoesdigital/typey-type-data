@@ -482,7 +482,7 @@
 * "she `KR-GS SHE`
 * lives `HREUFS`
 * castle, `KAFL KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * walls `WAULS`
 * towers. `TOURS TP-PL`
 * No `KPA/TPHO`

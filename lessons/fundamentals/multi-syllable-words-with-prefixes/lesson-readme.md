@@ -259,7 +259,7 @@
 * disgust `TKEUS/TKPWUFT`
 * unnecessary `UPB/TPHES`
 * addressing `A/TKREFG`
-* encourage `EPB/KORPBG`
+* encourage `EPB/KORPBLG`
 * procure `PRO/KAOUR`
 * relieve `RE/HREF`
 * intentions `EUPB/TEPBGS/-S`
@@ -315,7 +315,7 @@
 * decree `TKE/KRAOE`
 * proclaimed `PRO/KHRAEUPL/-D`
 * imitation `EUPL/TAEUGS`
-* encouragement `EPB/KORPLT`
+* encouragement `EPB/KORPBLGT`
 * impatiently `EUPL/PAEURBT/HREU`
 * irregular `EUR/REG`
 * awaited `A/WAEUT/-D`
@@ -533,7 +533,7 @@
 * accuse `A/KAOUS`
 * insulted `EUPB/SULT/-D`
 * embarked `EPL/PWARBG/-D`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * reflecting `RAOE/TPHREBGT/-G`
 * irritation `EUR/TAEUGS`
 * attire `A/TAOEUR`
@@ -544,7 +544,7 @@
 * imported `EUPL/PORT/-D`
 * abrupt `AB/RUPT`
 * incessant `EUPB/SEPBT`
-* adored `A/KOR/-D`
+* adored `A/TKOR/-D`
 * embroidered `EPL/PWROEUD/ERD`
 * import `EUPL/PORT`
 * confinement `KAUPB/TPAOEUPLT`
@@ -682,7 +682,7 @@
 * inherent `EUPB/HERPBT`
 * refreshing `RE/TPRERB/-G`
 * renounce `RE/TPHOUPBS`
-* adore `A/KOR`
+* adore `A/TKOR`
 * uncovered `UPB/KOFRD`
 * orphan `AUR/TPAPB`
 * profane `PRO/TPAEUPB`

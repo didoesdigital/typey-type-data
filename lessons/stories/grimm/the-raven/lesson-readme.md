@@ -635,7 +635,7 @@
 * situated, `SWAEUTD KW-BG`
 * mountain, `PHOUPB/TAEUPB KW-BG`
 * foot `TPAOT`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * maiden `PHAEUD/*EPB`
 * go `TKPW`
 * inside. `TPH-DZ TP-PL`

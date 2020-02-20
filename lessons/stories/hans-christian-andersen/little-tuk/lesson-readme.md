@@ -296,7 +296,7 @@
 * busy. `PW-Z TP-PL`
 * king's `KEUPBG/AES`
 * castle `KAFL`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * lofty `HROF/TEU`
 * towers, `TOURS KW-BG`
 * radiant `RAEUD/KWRAPBT`

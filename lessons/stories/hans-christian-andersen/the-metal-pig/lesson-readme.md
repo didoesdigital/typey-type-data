@@ -983,7 +983,7 @@
 * lively `HRAOEUFL`
 * dog, `TKOG KW-BG`
 * kindly `KAOEUPBD/HREU`
-* encourage `EPB/KORPBG`
+* encourage `EPB/KORPBLG`
 * news `TPHUS`
 * did `TK`
 * bring `PWREU`
@@ -1466,7 +1466,7 @@
 * child. `KHAOEULD TP-PL`
 * gilt `TKPW*EULT`
 * frame `TPRAEUPL`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * band, `PWAPBD KW-BG`
 * twined `TWEUPB/-D`
 * unseen `UPB/SAOEPB`

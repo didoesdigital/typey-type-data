@@ -424,7 +424,7 @@
 * wishes `WEURBS`
 * known `TPHOEPB`
 * is." `S TP-PL KR-GS`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * appearance `PAOERPBS`
 * singing-bird. `SEUPBG/-G H-PB PWEURD TP-PL`
 * His `KPA/HEUS`

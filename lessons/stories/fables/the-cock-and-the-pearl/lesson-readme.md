@@ -15,7 +15,7 @@
 * when `WHEPB`
 * suddenly `SULD`
 * he `HE`
-* espied `E/SPAOEUD`
+* espied `AOE/SPAOEUD`
 * something `S-G`
 * shining `SHAOEUPBG`
 * amid `A/PHEUD`

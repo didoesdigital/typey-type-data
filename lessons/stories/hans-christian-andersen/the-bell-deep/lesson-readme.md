@@ -435,7 +435,7 @@
 * him. `HEUPL TP-PL`
 * violent `SROEUPBLT`
 * band `PWAPBD`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * church; `KHUFRPB STPH*FPLT`
 * crows, `KROE/-S KW-BG`
 * ravens `RA*EUF/-PBS`

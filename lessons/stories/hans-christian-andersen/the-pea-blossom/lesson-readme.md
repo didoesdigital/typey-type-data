@@ -449,7 +449,7 @@
 * now `TPHOU`
 * last `HRAFT`
 * began `TKPWAPB`
-* encourage `EPB/KORPBG`
+* encourage `EPB/KORPBLG`
 * hope `HOEP`
 * daughter `TKAUR`
 * recover. `ROFR TP-PL`

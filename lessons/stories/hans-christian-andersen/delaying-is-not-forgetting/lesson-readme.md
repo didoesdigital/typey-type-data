@@ -5,7 +5,7 @@
 * an `APB`
 * old `OLD`
 * mansion `PHAPBGS`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * by `PWEU`
 * a `AEU`
 * marshy `PHAR/SHEU`

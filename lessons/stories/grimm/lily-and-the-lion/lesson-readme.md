@@ -285,7 +285,7 @@
 * heart `HART`
 * wood. `WAOD TP-PL`
 * an `APB`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * prince. `PREUPBS TP-PL`
 * By `KPA/PWEU`
 * day `TKAEU`

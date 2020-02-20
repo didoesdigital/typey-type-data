@@ -29,7 +29,7 @@
 * one `WUPB`
 * the `-T`
 * beams, `PWAOEPLS KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * by `PWEU`
 * scrolls `SKROLS`
 * formed `TPORPLD`

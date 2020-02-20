@@ -21,7 +21,7 @@
 * mansion: `PHAPBGS STPH-FPLT`
 * deep `TKAOEP`
 * ditches `TKEUFPS`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * it `T`
 * on `OPB`
 * every `EF`

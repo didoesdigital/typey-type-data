@@ -724,7 +724,7 @@
 * echoed `EBG/OE/-D`
 * dark `TKARBG`
 * void `SROEUD`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * captive `KAPT/EUF`
 * soul, `SOUL KW-BG`
 * unexpected `UPB/EBGS/PEBGD`

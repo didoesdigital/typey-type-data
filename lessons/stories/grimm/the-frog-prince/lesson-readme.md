@@ -368,7 +368,7 @@
 * standing `STAPBG`
 * bed. `PWED TP-PL`
 * been `PW-PB`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * spiteful `SPAOEUT/-FL`
 * fairy, `TPAEUR/REU KW-BG`
 * who `WHO`

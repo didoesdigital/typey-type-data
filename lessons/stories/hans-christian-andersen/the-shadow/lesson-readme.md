@@ -810,7 +810,7 @@
 * radiant `RAEUD/KWRAPBT`
 * aurora `AU/ROR/RA`
 * borealis, `PWOR/A*L/EUS KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * fire. `TPAOEUR TP-PL`
 * Tell `KPA/TEL`
 * see?" `SAOE H-F KR-GS`

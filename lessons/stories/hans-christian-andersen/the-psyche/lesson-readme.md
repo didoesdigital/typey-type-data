@@ -372,7 +372,7 @@
 * portal, `PORL KW-BG`
 * beheld `PWE/HELD`
 * garden `TKPWA*RPB`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * by `PWEU`
 * cloistered `KHROEUS/TER/-D`
 * walks. `WAUBGS TP-PL`

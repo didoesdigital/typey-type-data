@@ -338,7 +338,7 @@
 * springs `SPREUPBGS`
 * from `TPR`
 * an `APB`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * castle; `KAFL STPH*FPLT`
 * and, `SKP KW-BG`
 * may `PHAE`

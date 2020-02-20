@@ -228,7 +228,7 @@
 * home. `HOEPL TP-PL`
 * He `KPA/HE`
 * concert, `KERT KW-BG`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * admirable `AD/PHEURBL`
 * performance `PORPLS`
 * famous `TPAEUPLS`

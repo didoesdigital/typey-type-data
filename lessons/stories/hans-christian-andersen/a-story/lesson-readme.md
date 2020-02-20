@@ -171,7 +171,7 @@
 * while `WHAOEUL`
 * eternal `AOE/TERPBL`
 * silence `SHREPBS`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * them! `THEPL SKHRAPL`
 * It `KPA/T`
 * dreadful `TKRED/*FL`

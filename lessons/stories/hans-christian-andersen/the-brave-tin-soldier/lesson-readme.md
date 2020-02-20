@@ -122,7 +122,7 @@
 * castle `KAFL`
 * number `TPHUPL`
 * trees `TRAOES`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * piece `PAOES`
 * looking-glass, `HRAOG H-PB TKPWHRAS KW-BG`
 * intended `SPWEPBD/-D`

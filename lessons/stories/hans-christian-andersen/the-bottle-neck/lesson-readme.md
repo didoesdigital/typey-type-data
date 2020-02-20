@@ -1009,7 +1009,7 @@
 * moon, `PHAOPB KW-BG`
 * form `TPORPL`
 * crescent, `KRES/EPBT KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * shadowy `SHA/TKOE/WEU`
 * disc `TKEUFBG`
 * gray `TKPWRAEU`

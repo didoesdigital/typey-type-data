@@ -459,7 +459,7 @@
 * castle `KAFL`
 * empty `EPLT`
 * dreary `TKRAOE/REU`
-* enchanted. `EPB/HAPBT/-D TP-PL`
+* enchanted. `EPB/KHAPBT/-D TP-PL`
 * 'Here,' `AE KPA/HAOER KW-BG AE`
 * himself, `H*EUPLS KW-BG`
 * 'must `AE PHUFT`
@@ -477,7 +477,7 @@
 * cushion `KUGS`
 * chambers. `KHAEURPLS TP-PL`
 * snake `STPHAEUBG`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * princess; `PREUPB/SES STPH*FPLT`
 * she `SHE`
 * 'Are `AE KPA/R`

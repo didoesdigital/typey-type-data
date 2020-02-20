@@ -743,6 +743,6 @@
 * invisible `EUPB/SREUBL`
 * happy `HAEP`
 * spirits `SPEURTS`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * hallelujahs `HAL/HRAOU/SKWRA/-S`
 * rejoicing. `RE/SKWROEUFG TP-PL`

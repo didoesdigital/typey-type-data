@@ -497,7 +497,7 @@
 * soon `SAOPB`
 * stopped. `STOPD TP-PL`
 * "One `KR-GS KPA/WUPB`
-* encourage `EPB/KORPBG`
+* encourage `EPB/KORPBLG`
 * art," `ART KW-BG KR-GS`
 * daughter! `TKAUR SKHRAPL`
 * Tell `KPA/TEL`

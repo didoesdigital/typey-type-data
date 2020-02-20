@@ -51,7 +51,7 @@
 * It `KPA/T`
 * was, `WAS KW-BG`
 * however, `HOUF KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * by `PWEU`
 * high `HAOEU`
 * wall, `WAUL KW-BG`

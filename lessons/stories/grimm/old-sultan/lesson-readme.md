@@ -303,7 +303,7 @@
 * wild `WAOEULD`
 * first `TPEUFRT`
 * ground; `TKPWROUPBD STPH*FPLT`
-* espied `E/SPAOEUD`
+* espied `AOE/SPAOEUD`
 * enemies `EPB/PHEUS`
 * coming, `KO*G KW-BG`
 * saw `SAU`

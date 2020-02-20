@@ -38,7 +38,7 @@
 * river, `REUFR KW-BG`
 * stands `STAPBDZ`
 * farmhouse, `TPARPL/HOUS KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * by `PWEU`
 * such `SUFP`
 * poor `PAOR`

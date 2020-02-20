@@ -571,7 +571,7 @@
 * but, `PWUT KW-BG`
 * dazzled `TKAZ/-LD`
 * light `HRAOEUT`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * Kaela, `xxx Kaela KW-BG`
 * found `TPOUPBD`
 * natural `TPHARL`
@@ -804,7 +804,7 @@
 * geese. `TKPWAOES TP-PL`
 * magic `PHAPBLG/EUBG`
 * form `TPORPL`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * him; `HEUPL STPH*FPLT`
 * casket `KAFBGT`
 * without `WOUT`

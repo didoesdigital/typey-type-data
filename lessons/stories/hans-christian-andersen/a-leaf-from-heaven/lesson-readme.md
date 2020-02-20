@@ -476,7 +476,7 @@
 * ordered `ORD/-D`
 * place `PHRAEUS`
 * should `SHO`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * golden `TKPWOELD/*EPB`
 * railing, `RAEULG KW-BG`
 * sentry `SEPBT/REU`

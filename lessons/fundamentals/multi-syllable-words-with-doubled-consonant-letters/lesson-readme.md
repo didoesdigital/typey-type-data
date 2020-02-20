@@ -173,7 +173,7 @@
 * intelligence `SPWEPBLGS`
 * fellows `TPO*EULS`
 * connection `KEBGS`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * successful `SKEFL`
 * manners `PHAERPBS`
 * approached `A/PROEFPD`

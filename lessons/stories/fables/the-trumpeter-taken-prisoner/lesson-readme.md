@@ -65,7 +65,7 @@
 * yourself," `KWRO*URS KW-BG KR-GS`
 * others, `OERS KW-BG`
 * "but `KR-GS PWUT`
-* encourage `EPB/KORPBG`
+* encourage `EPB/KORPBLG`
 * guide `TKPWAOEUD`
 * your `KWROUR`
 * men `PHEPB`

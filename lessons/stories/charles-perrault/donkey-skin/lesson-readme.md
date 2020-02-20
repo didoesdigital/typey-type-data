@@ -485,7 +485,7 @@
 * restore `RE/STOR`
 * right `RAOEUT`
 * mind, `PHAOEUPBD KW-BG`
-* encouraged `EPB/KURPBLGD`
+* encouraged `EPB/KORPBLGD`
 * delusion. `TKHRAOUGS TP-PL`
 * beside `PWE/SAOEUD`
 * misery, `PHEUS/REU KW-BG`
@@ -951,7 +951,7 @@
 * This `KPA/TH`
 * handsome, `HAPBD/SOPL KW-BG`
 * mother, `PHOER KW-BG`
-* adored `A/KOR/-D`
+* adored `A/TKOR/-D`
 * people. `PAOEPL TP-PL`
 * partaken `PAR/TAEUBG/EPB`
 * simple `S*EUPL`

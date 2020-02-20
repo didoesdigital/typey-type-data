@@ -418,7 +418,7 @@
 * higher `HAOEUR`
 * thicker; `THEURBG STPH*FPLT`
 * palace `PAL/AS`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * hidden, `HEUD/EPB KW-BG`
 * even `AOEPB`
 * roof `RAOF`

@@ -423,7 +423,7 @@
 * voice. `SROEUS TP-PL`
 * joined `SKWROEUPBD`
 * angels, `APB/SKWREL/-S KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * throne, `THRO*EPB KW-BG`
 * near, `TPHAOER KW-BG`
 * others `OERS`

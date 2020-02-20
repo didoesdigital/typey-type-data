@@ -840,7 +840,7 @@
 * murdered `PHURD/-D`
 * displayed `TKEUS/PHRAEUD`
 * canopy, `KAPB/PEU KW-BG`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * candelabra `KAPBD/HRAB/RA`
 * decked `TKEBG/-D`
 * crape. `KRAP/SKWR*E TP-PL`

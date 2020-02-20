@@ -1842,7 +1842,7 @@
 * intelligence `SPWEPBLGS`
 * strike `STRAOEUBG`
 * fairly `TPAEURL`
-* comply `KHRAOEU`
+* comply `KPHRAOEU`
 * fellows `TPO*EULS`
 * haven't `SR-PB`
 * event `EFPBT`
@@ -1855,7 +1855,7 @@
 * pulled `PULD`
 * flight `TPHRAOEUT`
 * evident `AEFT`
-* surrounded `SROUBD/-D`
+* surrounded `SROUPBD/-D`
 * wishes `WEURBS`
 * yards `KWRARDZ`
 * voices `SROEUFS`
@@ -4341,7 +4341,7 @@
 * holes `HOELS`
 * addressing `A/TKREFG`
 * frightful `TPRAOEUT/-FL`
-* encourage `EPB/KORPBG`
+* encourage `EPB/KORPBLG`
 * speaker `SPAOERBG`
 * tribute `TREUBT`
 * procure `PRO/KAOUR`
@@ -4910,7 +4910,7 @@
 * shallow `SHOEUL`
 * doom `TKAOPL`
 * dreaded `TKRED/-D`
-* encouragement `EPB/KORPLT`
+* encouragement `EPB/KORPBLGT`
 * impatiently `EUPL/PAEURBT/HREU`
 * scent `SKEPBT`
 * varieties `SRAOEURTS`
@@ -6968,7 +6968,7 @@
 * odds `ODZ`
 * aims `AEUPLS`
 * illuminated `EUL/AOUPL/TPHAEUT/-D`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * adversary `AD/SRERS/REU`
 * pie `PAOEU`
 * reflecting `RAOE/TPHREBGT/-G`
@@ -7074,7 +7074,7 @@
 * incessant `EUPB/SEPBT`
 * correctly `KREBT/HREU`
 * drooping `TKRAOPG`
-* adored `A/KOR/-D`
+* adored `A/TKOR/-D`
 * embroidered `EPL/PWROEUD/ERD`
 * pasture `PAS/KHUR`
 * pillar `PEUL/AR`
@@ -8139,7 +8139,7 @@
 * sweetheart `SWAOET/HART`
 * renounce `RE/TPHOUPBS`
 * lifeless `HRAOEUF/-LS`
-* adore `A/KOR`
+* adore `A/TKOR`
 * vinegar `SREUPB/TKPWAR`
 * Normandy `TPHORPL/TKEU`
 * uncovered `UPB/KOFRD`

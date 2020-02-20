@@ -66,7 +66,7 @@
 * real `RAEL`
 * fish; `TPEURB STPH*FPLT`
 * an `APB`
-* enchanted `EPB/HAPBT/-D`
+* enchanted `EPB/KHAPBT/-D`
 * prince: `PREUPBS STPH-FPLT`
 * put `PUT`
 * water `WAUR`
