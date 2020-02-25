@@ -287,7 +287,7 @@
 * cut `KUT`
 * wood, `WAOD KW-BG`
 * gather `TKPWAER`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * make `PHAEUBG`
 * faggots. `TPAGT/-S TP-PL`
 * Their `KPA/THAEUR`

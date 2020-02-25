@@ -50,7 +50,7 @@
 * says: `SEZ STPH-FPLT`
 * takes `TAEUBGS`
 * the `-T`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * it `T`
 * into `TPHAO`
 * hay-cart, `HA*EU H-PB KART KW-BG`

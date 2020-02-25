@@ -1075,7 +1075,7 @@
 * tongue; `TUPBG STPH*FPLT`
 * necessity—a `TPHES/TEU EPL/TKA*RB AEU`
 * fate—a `TPAEUT EPL/TKA*RB AEU`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * throat, `THROET KW-BG`
 * wants `WAPBTS`
 * out. `OUT TP-PL`

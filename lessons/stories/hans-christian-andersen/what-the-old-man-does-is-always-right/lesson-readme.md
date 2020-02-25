@@ -81,7 +81,7 @@
 * made `PHAED`
 * open. `OEP TP-PL`
 * baking-oven `PWAEUBG/-G H-PB OEFPB`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * out `OUT`
 * wall `WAUL`
 * like `HRAOEUBG`

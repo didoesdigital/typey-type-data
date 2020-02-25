@@ -200,7 +200,7 @@
 * stone `STOEPB`
 * rest, `REFT KW-BG`
 * fagot `xxx fagot`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * lying `HRAOEUG`
 * before `PW-FP`
 * picked `PEUBGD`

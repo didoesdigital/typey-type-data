@@ -473,7 +473,7 @@
 * never `TPHEFR`
 * forsook `TPOR/SAOBG`
 * him. `HEUPL TP-PL`
-* drum-sticks `TKRUPL H-PB STEUBGZ`
+* drum-sticks `TKRUPL H-PB STEUBGS`
 * sounded, `SOUPBD/-D KW-BG`
 * "Rub-a-dub, `KR-GS KPA/RUB H-PB AEU H-PB TKUB KW-BG`
 * up, `UP KW-BG`

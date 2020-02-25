@@ -110,7 +110,7 @@
 * yet `KWRET`
 * well `WEL`
 * do, `TKORBGS`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * are `R`
 * knotty;" `TPHOT/TEU STPH*FPLT KR-GS`
 * sung `SUPBG`

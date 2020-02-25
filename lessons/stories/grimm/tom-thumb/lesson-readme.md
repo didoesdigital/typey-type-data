@@ -411,7 +411,7 @@
 * place, `PHRAEUS KW-BG`
 * poked `POEBGD`
 * ends `EPDZ`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * mouse-hole, `PHOUS H-PB HOEL KW-BG`
 * vain; `SRA*EUPB STPH*FPLT`
 * crawled `KRAULD`

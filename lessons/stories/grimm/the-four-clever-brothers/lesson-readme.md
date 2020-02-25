@@ -43,7 +43,7 @@
 * brothers `PWROERS`
 * took `TAOBG`
 * their `THAEUR`
-* walking-sticks `WAUG H-PB STEUBGZ`
+* walking-sticks `WAUG H-PB STEUBGS`
 * in `TPH`
 * hands, `HAPBDZ KW-BG`
 * little `HREUL`

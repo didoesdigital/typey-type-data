@@ -1333,7 +1333,7 @@
 * incalculable. `EUPB/KAT/-BL TP-PL`
 * 'oblivion,' `AE OE/PWHREUF/KWROPB KW-BG AE`
 * 'remembrance' `AE RERPBS AE`
-* inscribed. `EUPB/KRAOEUB/-D TP-PL`
+* inscribed. `EUPB/SKRAOEUB/-D TP-PL`
 * historical `HOEURL`
 * work, `WORBG KW-BG`
 * reading, `RAEGD KW-BG`

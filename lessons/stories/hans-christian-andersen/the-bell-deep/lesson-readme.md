@@ -364,7 +364,7 @@
 * me, `PHE KW-BG`
 * played `PHRAEUD`
 * two `TWO`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * if `TP`
 * they `THE`
 * been `PW-PB`

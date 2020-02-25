@@ -329,7 +329,7 @@
 * believing `PWHREFG`
 * student `STAUPB`
 * too, `TAO KW-BG`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * arrow `AR/OE`
 * chest. `KHEFT TP-PL`
 * when `WHEPB`

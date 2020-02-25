@@ -2452,7 +2452,7 @@
 * burgundy `PWURG/TKEU`
 * collections `KHREBGS/-S`
 * unkind `UPB/KAOEUPBD`
-* inscribed `EUPB/KRAOEUB/-D`
+* inscribed `EUPB/SKRAOEUB/-D`
 * cushions `KURB/OPBS`
 * laborious `HRAEUB/ROUS`
 * humane `HAOU/PHAEUPB`

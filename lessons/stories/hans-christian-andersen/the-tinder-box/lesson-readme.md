@@ -360,7 +360,7 @@
 * was! `WAS SKHRAPL`
 * enough `TPHUF`
 * buy `PWAOEU`
-* sugar-sticks `SHURG H-PB STEUBGZ`
+* sugar-sticks `SHURG H-PB STEUBGS`
 * sweet-stuff `SWAOET H-PB STUF`
 * women; `WEUPL STPH*FPLT`
 * tin `TEUPB`

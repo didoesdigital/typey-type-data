@@ -229,7 +229,7 @@
 * sends `SEPBDZ`
 * woke `WOEBG`
 * strikes `STRAOEUBGS`
-* sticks `STEUBGZ`
+* sticks `STEUBGS`
 * horns `HORPBS`
 * tricks `TREUBGS`
 * damned `TKA*PLD`
