@@ -1764,7 +1764,7 @@
 * bought `PWAUT`
 * souls `SOULS`
 * mission `PHEUGS`
-* sacrifice `ARBG/TPAOEUS`
+* sacrifice `SABG/TPAOEUS`
 * cities `STEUS`
 * mistake `SPHAEUBG`
 * exercise `KPERZ`

@@ -714,7 +714,7 @@
 * avenue `AFP`
 * escape; `SKAEP STPH*FPLT`
 * bring `PWREU`
-* sacrifice `ARBG/TPAOEUS`
+* sacrifice `SABG/TPAOEUS`
 * ass, `A*S KW-BG`
 * latest `HRAEUT/EFT`
 * Although `KPA/HR*T`

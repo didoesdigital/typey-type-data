@@ -145,7 +145,7 @@
 * ahead `A/HED`
 * gradually `TKPWRAD/WAEL`
 * acquaintance `KWAEUPB/TAPBS`
-* sacrifice `ARBG/TPAOEUS`
+* sacrifice `SABG/TPAOEUS`
 * buried `PWUR/EUD`
 * commanded `KPHAPBD/-D`
 * minister `PHEUPB/STER`

@@ -1058,7 +1058,7 @@
 * secret, `SKRET KW-BG`
 * happiness `HAEP/-PBS`
 * his; `HEUS STPH*FPLT`
-* self-sacrifice, `S*EF H-PB ARBG/TPAOEUS KW-BG`
+* self-sacrifice, `S*EF H-PB SABG/TPAOEUS KW-BG`
 * patience, `PAEURBS KW-BG`
 * belongs `PWHROPBGS`
 * him?'" `HEUPL H-F AE KR-GS`
