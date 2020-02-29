@@ -8,7 +8,7 @@
 * Northern `TPHORPB`
 * Jutland, `xxx Jutland KW-BG`
 * the `-T`
-* so-called `SO/H-PB/KAULD`
+* so-called `SOE/KAULD`
 * "wild `KR-GS WAOEULD`
 * moor." `PHO*R TP-PL KR-GS`
 * We `KPA/WE`

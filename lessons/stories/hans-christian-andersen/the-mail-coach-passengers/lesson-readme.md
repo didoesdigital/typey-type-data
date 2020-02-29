@@ -257,7 +257,7 @@
 * fact, `TPABGT KW-BG`
 * whole `WHOEL`
 * family—only `TPAEPL EPL/TKA*RB OEPBL`
-* twenty-eight `TWEPBT/H-PB/AET`
+* twenty-eight `TWEPBT/AET`
 * days. `TKAEUS TP-PL`
 * Sometimes `KPA/STAOEUPLS`
 * pop `POP`

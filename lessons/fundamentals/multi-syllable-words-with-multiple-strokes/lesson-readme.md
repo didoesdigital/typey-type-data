@@ -551,7 +551,7 @@
 * consisted `KAO/-D`
 * proceedings `PROED/-GS`
 * romantic `RO/PHAPBT/EUBG`
-* twenty-five `TWEPBT/H-PB/TPEUF`
+* twenty-five `TWEPBT/TPEUF`
 * strangely `STRAEUPBG/HREU`
 * reception `RE/SEPGS`
 * attained `A/TAEUPBD`
@@ -831,7 +831,7 @@
 * imperial `EUPL/PAOERL`
 * victor `SREUBG/TOR`
 * solemnly `SOL/EPL/HREU`
-* twenty-four `TWEPBT/H-PB/TPOUR`
+* twenty-four `TWEPBT/TPOUR`
 * crimson `KREUPL/SOPB`
 * bargain `PWARG/AEUPB`
 * fatigue `TPA/TAOEG`
@@ -1093,7 +1093,7 @@
 * terribly `TERBL/HREU`
 * venerable `SREPB/-BL`
 * suspicions `SUS/PEUGS/-S`
-* old-fashioned `OLD/H-PB/TPAGS/-D`
+* old-fashioned `OELD/TPAGS/-D`
 * oppressed `OE/PREFD`
 * revolt `RE/SROLT`
 * improve `EUPL/PROF`
@@ -1120,7 +1120,7 @@
 * manhood `PHAPB/HAOD`
 * rejoiced `RE/SKWROEUS/-D`
 * Edinburgh `ED/EUPB/PWRO`
-* so-called `SO/H-PB/KAULD`
+* so-called `SOE/KAULD`
 * thankful `THAPB/K-FL`
 * admission `AD/PHEUGS`
 * elevated `EL/SRAEUTD`
@@ -2335,7 +2335,7 @@
 * protector `PREBG/TOR`
 * accession `ABG/SEGS`
 * Cairo `KAOEU/ROE`
-* twenty-one `TWEPBT/H-PB/WUPB`
+* twenty-one `TWEPBT/WUPB`
 * achievements `A/KHAOEFPLTS`
 * cherish `KHER/EURB`
 * deserving `TKAOE/SER/-FG`
@@ -2377,7 +2377,7 @@
 * mentioning `PHEPBGS/-G`
 * pastoral `PAFT/RAL`
 * fabric `TPAB/REUBG`
-* twenty-two `TWEPBT/H-PB/TWO`
+* twenty-two `TWEPBT/TWO`
 * mentally `PHEPBT/HREU`
 * discreet `TKEUS/KRAOET`
 * apostle `A/POFL`
@@ -2590,6 +2590,7 @@
 * incline `EUPB/KHRAOEUPB`
 * dissatisfied `TKEUS/SAED`
 * hardest `HARD/EFT`
+* self-control `SEF/KROEL`
 * Buddha `PWUD/TKA`
 * woodland `WAOD/HRAPBD`
 * gentry `SKWREPBT/REU`
@@ -2796,6 +2797,7 @@
 * stimulated `STEUPL/HRAEUTD`
 * steadfast `STED/TPAFT`
 * Genoa `SKWREPB/WA`
+* Anglo-Saxon `APBG/HRO/SABG/SOPB`
 * courier `KOR/KWRER`
 * inflamed `EUPB/TPHRAEUPLD`
 * seriousness `SOER/KWRUS/-PBS`
@@ -2856,7 +2858,7 @@
 * novelist `TPHOFL/EUFT`
 * intricate `EUPBT/KAT`
 * limestone `HRAOEUPL/STOEPB`
-* forty-five `TPOURT/H-PB/TPEUF`
+* forty-five `TPOURT/TPAOEUF`
 * knitting `TPHEUT/-G`
 * ordeal `AUR/TKAOEL`
 * foresee `TPOER/SAOE`
@@ -2989,7 +2991,7 @@
 * overlook `AUFR/HRAOBG`
 * magician `PHA/SKWREUGS`
 * mystical `PHEUFT/K-L`
-* twenty-three `TWEPBT/H-PB/THRAOE`
+* twenty-three `TWEPBT/THRAOE`
 * shaggy `SHAG/KWREU`
 * unaccountable `UPB/K-T/-BL`
 * nightmare `TPHAOEUT/PHAEUR`
@@ -3032,7 +3034,7 @@
 * secluded `SE/KHRAOUD/-D`
 * reliable `RE/HREUBL`
 * disgusting `TKEUS/TKPWUS/-G`
-* thirty-six `THEURT/H-PB/SEUBGS`
+* thirty-six `THEURT/SEUBGS`
 * Raleigh `RAL/AOE`
 * recital `RE/SAOEU/TAL`
 * Buddhist `PWUD/EUFT`
@@ -3184,7 +3186,7 @@
 * impunity `EUPL/PAOUPB/TEU`
 * conveying `KAUPB/SRAEUG`
 * forenoon `TPOER/TPHAOPB`
-* seventy-five `SEFPBT/H-PB/TPEUF`
+* seventy-five `SEFPBT/TPEUF`
 * sparkle `SPAR/K-L`
 * syllables `SEUL/-BLS`
 * enchantment `EPB/KHAPLT`
@@ -3245,7 +3247,7 @@
 * indolent `EUPBD/HREPBT`
 * artful `ART/-FL`
 * downcast `TKOUPB/KAFT`
-* well-being `WEL/H-PB/-BG`
+* well-being `WEL/-BG`
 * Winston `WEUPB/STOPB`
 * ordinances `ORD/TPHAPBS/-S`
 * missions `PHEUGS/-S`
@@ -3279,7 +3281,7 @@
 * weakly `WAEBG/HREU`
 * surveying `SUR/SRAEUG`
 * anniversary `APB/SRERS/REU`
-* thirty-two `THEURT/H-PB/TWO`
+* thirty-two `THEURT/TWO`
 * curly `KUR/HREU`
 * prestige `PRE/STAOEPBLG`
 * desertion `TKE/SERGS`
@@ -3312,7 +3314,7 @@
 * emerge `AOE/PHERPBG`
 * lonesome `HROPB/SOPL`
 * unarmed `UPB/ARPLD`
-* twenty-eight `TWEPBT/H-PB/AET`
+* twenty-eight `TWEPBT/AET`
 * unscrupulous `UPB/KRAOUP/HROUS`
 * victuals `SREU/TALS`
 * outrageous `AOUT/RAEUGS`
@@ -3332,7 +3334,7 @@
 * atrocious `A/TROERBS`
 * tapestry `TAPS/TREU`
 * provocation `PROF/KAEUGS`
-* twenty-six `TWEPBT/H-PB/SEUBGS`
+* twenty-six `TWEPBT/SEUBGS`
 * acquitted `A/KWEUT/-D`
 * tumultuous `TUPL/ULT/WOUS`
 * palpable `PAP/-BL`

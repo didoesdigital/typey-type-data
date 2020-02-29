@@ -856,7 +856,7 @@
 * noble, `TPHOEBL KW-BG`
 * people. `PAOEPL TP-PL`
 * work, `WORBG KW-BG`
-* twenty-five `TWEPBT/H-PB/TPEUF`
+* twenty-five `TWEPBT/TPEUF`
 * volumes, `SROLS KW-BG`
 * long, `HROPBG KW-BG`
 * words; `WORDZ STPH*FPLT`

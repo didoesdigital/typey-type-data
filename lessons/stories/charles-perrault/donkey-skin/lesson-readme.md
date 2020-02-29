@@ -605,7 +605,7 @@
 * giving `TKPWEUFG`
 * order `ORD`
 * bringing `PWREUG`
-* twenty-four `TWEPBT/H-PB/TPOUR`
+* twenty-four `TWEPBT/TPOUR`
 * hours `HOURS`
 * elapse. `AOE/HRAPS TP-PL`
 * though `THOE`

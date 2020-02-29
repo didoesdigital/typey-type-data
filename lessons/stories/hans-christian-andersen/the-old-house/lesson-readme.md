@@ -51,7 +51,7 @@
 * written `WREUPB`
 * over `OEFR`
 * windows `WOEUPBDZ`
-* old-fashioned `OLD/H-PB/TPAGS/-D`
+* old-fashioned `OELD/TPAGS/-D`
 * letters, `HRERTS KW-BG`
 * grotesque `TKPWROE/TEFBG`
 * faces, `TPAEUFS KW-BG`

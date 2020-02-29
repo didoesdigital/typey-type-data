@@ -871,7 +871,7 @@
 * cast `KAFT`
 * eat `AOET`
 * authority `THORT`
-* etc. `ETS/TP-PL`
+* etc. `*ETS`
 * floor `TPHRAOR`
 * ill `EUL`
 * ways `WAEUS`

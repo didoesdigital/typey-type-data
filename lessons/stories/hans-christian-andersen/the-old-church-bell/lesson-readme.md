@@ -111,7 +111,7 @@
 * darker `TKA*ERBG`
 * within `W-PB`
 * small, `SPHAL KW-BG`
-* old-fashioned `OLD/H-PB/TPAGS/-D`
+* old-fashioned `OELD/TPAGS/-D`
 * houses `HO*UFS`
 * village. `SREULG TP-PL`
 * gable `TKPWAEUBL`
