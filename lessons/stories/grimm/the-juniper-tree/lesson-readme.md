@@ -250,7 +250,7 @@
 * from `TPR`
 * place `PHRAEUS`
 * cuffings `KUF/-G/-S`
-* buffetings, `xxx buffetings KW-BG`
+* buffetings, `PWUF/ET/-G/-S KW-BG`
 * poor `PAOR`
 * fear, `TPAOER KW-BG`
 * peace `PAES`
