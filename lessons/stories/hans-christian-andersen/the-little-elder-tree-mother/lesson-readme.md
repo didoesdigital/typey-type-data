@@ -869,7 +869,7 @@
 * agreeable `TKPWRAOEBL`
 * winter!" `WEURPBT SKHRAPL KR-GS`
 * trees `TRAOES`
-* hoar-frost, `HAOR H-PB TPROS KW-BG`
+* hoar-frost, `HAOR H-PB TPROFT KW-BG`
 * coral. `KORL TP-PL`
 * snow `STPHOE`
 * creaked `KRAEBG/-D`

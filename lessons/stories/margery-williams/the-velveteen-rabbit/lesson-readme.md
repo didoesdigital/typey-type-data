@@ -1082,7 +1082,7 @@
 * forest `TPOEFRT`
 * fronds `TPROPBD/-S`
 * shone `SHO*EPB`
-* frosted `TPROS/-D`
+* frosted `TPROFT/-D`
 * silver. `SEUL/SRER TP-PL`
 * In `KPA/TPH`
 * open `OEP`

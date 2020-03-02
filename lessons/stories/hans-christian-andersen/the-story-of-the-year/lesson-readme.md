@@ -56,7 +56,7 @@
 * if `TP`
 * had `H`
 * been `PW-PB`
-* frosted `TPROS/-D`
+* frosted `TPROFT/-D`
 * sugar. `SHURG TP-PL`
 * The `KPA/-T`
 * footmen `TPAOT/PH*EPB`
@@ -1243,7 +1243,7 @@
 * manhood, `PHAPB/HAOD KW-BG`
 * dawn `TKAUPB`
 * hoar `HAOR`
-* frost, `TPROS KW-BG`
+* frost, `TPROFT KW-BG`
 * shook `SHAOBG`
 * branches,—and `PWRAFRPBS KW-BG EPL/TKA*RB SKP`
 * dream `TKRAOEPL`

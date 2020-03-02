@@ -575,7 +575,7 @@
 * depths `TK*EPTS`
 * Odense-Au `xxx Odense H-PB xxx Au`
 * dwells. `TKWEL/-S TP-PL`
-* vault `SRALT`
+* vault `SRAULT`
 * heaven, `HEFPB KW-BG`
 * far, `TPAR KW-BG`
 * out, `OUT KW-BG`

@@ -896,7 +896,7 @@
 * birch-trees, `PWEUFRPB H-PB TRAOES KW-BG`
 * ghost `TKPWOEFT`
 * tingling `TEUPBG/-LG`
-* frost. `TPROS TP-PL`
+* frost. `TPROFT TP-PL`
 * You `KPA/U`
 * tales, `TAELS KW-BG`
 * rooms, `RAOPLS KW-BG`

@@ -176,7 +176,7 @@
 * together `TOGT`
 * if `TP`
 * tastes `TAEUFTS`
-* frost `TPROS`
+* frost `TPROFT`
 * has `HAS`
 * touched `TUFPD`
 * them. `THEPL TP-PL`

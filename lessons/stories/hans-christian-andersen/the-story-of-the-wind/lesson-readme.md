@@ -1042,7 +1042,7 @@
 * obtained `OB/TAEUPBD`
 * cut `KUT`
 * down. `TKOUPB TP-PL`
-* frost `TPROS`
+* frost `TPROFT`
 * bitter, `PWEURT KW-BG`
 * rushed `RURBD`
 * loop-holes `HRAOP H-PB HOELS`

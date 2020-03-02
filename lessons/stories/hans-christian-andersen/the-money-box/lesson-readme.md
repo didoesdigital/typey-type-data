@@ -361,7 +361,7 @@
 * will, `HR KW-BG`
 * buried `PWUR/EUD`
 * family `TPAEPL`
-* vault, `SRALT KW-BG`
+* vault, `SRAULT KW-BG`
 * whenever `WHEFR`
 * event `EFPBT`
 * happen. `HAP TP-PL`

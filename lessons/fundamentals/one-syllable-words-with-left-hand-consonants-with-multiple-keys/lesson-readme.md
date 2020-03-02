@@ -441,7 +441,7 @@
 * breed `PWRAOED`
 * drift `TKREUFT`
 * draught `TKRAUFT`
-* frost `TPROS`
+* frost `TPROFT`
 * glare `TKPWHRAEUR`
 * freed `TPRAOED`
 * grove `TKPWROEF`
@@ -503,7 +503,7 @@
 * verb `SRERB`
 * dove `TKOF`
 * grieve `TKPWREF`
-* vault `SRALT`
+* vault `SRAULT`
 * knives `TPHAOEUFS`
 * yacht `KWROT`
 * slid `SHREUD`

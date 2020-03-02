@@ -722,7 +722,7 @@
 * creeping `KRAOEPG`
 * bed `PWED`
 * suddenly `SULD`
-* frost `TPROS`
+* frost `TPROFT`
 * cold. `KOELD TP-PL`
 * Last `KPA/HRAFT`
 * winter `WEURPBT`

@@ -625,7 +625,7 @@
 * going `TKPW-G`
 * strange `STRAEUPBG`
 * "The `KR-GS KPA/-T`
-* vault `SRALT`
+* vault `SRAULT`
 * heaven `HEFPB`
 * everywhere," `WEFR KW-BG KR-GS`
 * "and `KR-GS SKP`

@@ -293,7 +293,7 @@
 * bushes `PWURBS`
 * were `WR`
 * hoar `HAOR`
-* frost, `TPROS KW-BG`
+* frost, `TPROFT KW-BG`
 * looked `HRAOBGD`
 * forest `TPOEFRT`
 * white `WHAOEUT`

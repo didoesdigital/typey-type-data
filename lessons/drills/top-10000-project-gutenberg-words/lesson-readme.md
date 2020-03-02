@@ -5724,7 +5724,7 @@
 * henceforth `HEPBS/TPO*RT`
 * Cicero `SEUS/RO`
 * laden `HRA*ED/-PB`
-* frost `TPROS`
+* frost `TPROFT`
 * device `TKWEUS`
 * glare `TKPWHRAEUR`
 * touches `TUFPS`
@@ -7081,7 +7081,7 @@
 * import `EUPL/PORT`
 * founder `TPOURPBD`
 * torch `TOFRB`
-* vault `SRALT`
+* vault `SRAULT`
 * worm `WORPL`
 * ay `A/KWR*`
 * bravery `PWRAEUFR/REU`
