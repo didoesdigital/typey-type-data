@@ -129,7 +129,7 @@
 * flaming `TPHRAPLG`
 * tapers `TAEURPS`
 * glowing `TKPWHROEG`
-* canopies. `KAPB/PEU/KWREU/-S TP-PL`
+* canopies. `KAPB/PEU/-S TP-PL`
 * Holy `KPA/HOEUL`
 * Church `KH*UFRPB`
 * there, `THR KW-BG`
@@ -735,7 +735,7 @@
 * colors `KHRORS`
 * heraldic `H*ERLD/EUBG`
 * devices. `TKWAOEUSZ TP-PL`
-* Gayly-dressed `xxx Gayly H-PB TKREFD`
+* Gayly-dressed `KPA/TKPWAEU/HREU H-PB TKREFD`
 * serving-men, `SEFRBG H-PB PHEPB KW-BG`
 * adorned `A/TKORPB/-D`
 * trappings `TRAPG/-S`
@@ -1019,7 +1019,7 @@
 * rose. `ROEZ TP-PL`
 * Songs `KPA/SOPBGS`
 * sung `SUPBG`
-* ditties `TKEUT/TEU/KWREU/-S`
+* ditties `TKEUT/TEU/-S`
 * played `PHRAEUD`
 * guitar; `TKPWEU/TAR STPH*FPLT`
 * presently `PREPBLT`

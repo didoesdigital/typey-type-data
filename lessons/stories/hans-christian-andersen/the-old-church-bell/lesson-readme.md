@@ -780,7 +780,7 @@
 * immortal `EUPL/PHORT/A*L`
 * poet, `POET KW-BG`
 * Switzerland's `SWEUZ/HRAPBD AES`
-* deliverer, `THREUFR/*ER KW-BG`
+* deliverer, `TKHREUFR/*ER KW-BG`
 * William `WOEUPL`
 * Tell, `KPA/TEL KW-BG`
 * heaven-inspired `HEFPB SKWREUPB/SPAOEUR/-D`

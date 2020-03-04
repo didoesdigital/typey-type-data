@@ -3,7 +3,7 @@
 * "It `KR-GS KPA/T`
 * is `S`
 * so `SO`
-* delightfully `TKHRAOEUT/-FL/HREU`
+* delightfully `TKHRAOEUT/TPHREU`
 * cold," `KOELD KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`

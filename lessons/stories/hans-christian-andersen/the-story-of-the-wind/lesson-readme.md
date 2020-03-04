@@ -117,7 +117,7 @@
 * marble `PHAERBL`
 * floors. `THRAORS TP-PL`
 * The `KPA/-T`
-* tapestries `TAPS/TREU/KWREU/-S`
+* tapestries `TAPS/TREU/-S`
 * were `WR`
 * gorgeous, `TKPWORBS KW-BG`
 * furniture `TPURPBT`
@@ -198,7 +198,7 @@
 * music, `PHAOUFBG KW-BG`
 * always `AULS`
 * Danish `TKAEUPB/EURB`
-* melodies, `PHEL/TKEU/KWREU/-S KW-BG`
+* melodies, `PHEL/TKEU/-S KW-BG`
 * but `PWUT`
 * songs `SOPBGS`
 * strange `STRAEUPBG`
@@ -285,7 +285,7 @@
 * under `TPH-PB`
 * oak-trees. `OEBG H-PB TRAOES TP-PL`
 * largest `HRARPBLG/EFT`
-* dryest `TKRAOEU/EFT`
+* dryest `TKRAOEU/TK-LS/EFT`
 * they `THE`
 * find `TPEUPBD`
 * carried `KAERD`
@@ -1396,7 +1396,7 @@
 * bent `PWEPBT`
 * then; `THEPB STPH*FPLT`
 * fifty `TPAEFT`
-* outlived `AUT/HREUF/-D`
+* outlived `AOUT/HREUFD`
 * all. `AUL TP-PL`
 * relate `RELT`
 * history. `HEUFRT TP-PL`

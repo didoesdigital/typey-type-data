@@ -464,7 +464,7 @@
 * stopped `STOPD`
 * whit `WHEUT`
 * their `THAEUR`
-* entreaties, `SPWRAOE/TEU/KWREU/-S KW-BG`
+* entreaties, `EPB/TRAOET/KWREUS KW-BG`
 * life, `HRAOEUF KW-BG`
 * promised `PROPLS/-D`
 * return `RURPB`

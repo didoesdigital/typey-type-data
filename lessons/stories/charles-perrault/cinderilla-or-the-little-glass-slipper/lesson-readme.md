@@ -493,7 +493,7 @@
 * so, `SO KW-BG`
 * footmen, `TPAOT/PH*EPB KW-BG`
 * skipped `SKEUPD`
-* liveries `HR*EUF/REU/KWREU/-S`
+* liveries `HREUFR/KWREU/-S`
 * bedaubed `PWE/TKAUB/-D`
 * gold `TKPWOELD`
 * silver, `SEUL/SRER KW-BG`
@@ -700,7 +700,7 @@
 * sat `SAT`
 * shewing `S*/H*/*E/W*/-G`
 * thousand `THOEUPB`
-* civilities, `SEUFLT/KWREU/-S KW-BG`
+* civilities, `SEUFLT/-S KW-BG`
 * part `PART`
 * oranges `ORPBGS`
 * citrons `SEUT/ROPB/-S`

@@ -77,7 +77,7 @@
 * fellow `TPO*EUL`
 * whom `WHOPL`
 * he `HE`
-* boastfully `PWOEFT/-FL/HREU`
+* boastfully `PWOEFT/TPHREU`
 * expatiated `xxx expatiated`
 * on `OPB`
 * excellence `KPHREPBS`

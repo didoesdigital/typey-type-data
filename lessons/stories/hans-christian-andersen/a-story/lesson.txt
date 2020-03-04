@@ -204,7 +204,7 @@ A Story
 'that': THA
 'their': THAEUR
 'evil': AOEFL
-'propensities': PRO/PEPBS/TEU/KWREU/-S
+'propensities': PRO/PEPBS/TEU/-S
 'would': WO
 'not': TPHOT
 'be': -B
@@ -414,9 +414,9 @@ A Story
 'they': THE
 'should': SHO
 'burn': PWURPB
-'eternally.': AOE/TERPBL/HREU TP-PL
+'eternally.': AOE/TERPB/A*EL TP-PL
 'Alas!': KPA/A/HRAS SKHRAPL
-'eternally—how': AOE/TERPBL/HREU EPL/TKA*RB HOU
+'eternally—how': AOE/TERPB/A*EL EPL/TKA*RB HOU
 'long!': HROPBG SKHRAPL
 'I': EU
 'am': APL
@@ -1006,7 +1006,7 @@ A Story
 'to': TO
 'be': -B
 'tortured': TOR/KHURD
-'eternally': AOE/TERPBL/HREU
+'eternally': AOE/TERPB/A*EL
 'by': PWEU
 'fire!"': TPAOEUR SKHRAPL KR-GS
 '"Only': KR-GS KPA/OEPBL

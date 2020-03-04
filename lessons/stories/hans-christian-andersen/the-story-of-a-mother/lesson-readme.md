@@ -772,7 +772,7 @@
 * kingdom `KEUPBG/TKOPL`
 * God. `TKPWO*D TP-PL`
 * Forget `KPA/TPERGT`
-* entreaties; `SPWRAOE/TEU/KWREU/-S STPH*FPLT`
+* entreaties; `EPB/TRAOET/KWREUS STPH*FPLT`
 * forget `TPERGT`
 * done." `TKOPB TP-PL KR-GS`
 * understand `URPBD`

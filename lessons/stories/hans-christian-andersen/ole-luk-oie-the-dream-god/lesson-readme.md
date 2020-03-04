@@ -487,7 +487,7 @@
 * palaces `PAL/AS/-S`
 * glass `TKPWHRAS`
 * marble, `PHAERBL KW-BG`
-* balconies `PWAL/KOEPB/KWREU/-S`
+* balconies `PWAL/KOEPB/-S`
 * princesses, `PREUPB/SES/-S KW-BG`
 * faces `TPAEUFS`
 * those `THOZ`

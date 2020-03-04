@@ -1253,7 +1253,7 @@
 * yet `KWRET`
 * proud. `PROUD TP-PL`
 * persecuted `PERS/KAOUT/-D`
-* despised `STKPAOEUZ/-D`
+* despised `STKPAOEUDZ`
 * ugliness, `UG/HREU/-PBS KW-BG`
 * birds. `PWEURDZ TP-PL`
 * Even `KPA/AOEPB`

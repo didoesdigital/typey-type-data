@@ -286,7 +286,7 @@
 * sound `SOUPBD`
 * dear, `TKAER KW-BG`
 * well-known `WEL/H-PB/TPHOEPB`
-* melodies, `PHEL/TKEU/KWREU/-S KW-BG`
+* melodies, `PHEL/TKEU/-S KW-BG`
 * breezes `PWRAOEZ/-S`
 * summer `SAOURPL`
 * floated `TPHROET/-D`

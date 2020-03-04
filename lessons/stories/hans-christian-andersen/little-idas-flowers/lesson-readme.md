@@ -860,7 +860,7 @@
 * present. `PREPBT TP-PL`
 * also `HR-S`
 * Large `KPA/HRARPBLG`
-* poppies `POP/PEU/KWREU/-S`
+* poppies `POP/PEU/-S`
 * peonies `PE/KWRO/TPHAOES`
 * pea-shells `PAE H-PB SHELS`
 * instruments, `STRAOUPLTS KW-BG`

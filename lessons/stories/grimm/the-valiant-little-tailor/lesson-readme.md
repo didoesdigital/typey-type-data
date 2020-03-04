@@ -800,7 +800,7 @@
 * halfway `HAF/WAEU`
 * slipped `SHREUPD`
 * above `PWOF`
-* sleepers, `xxx sleepers KW-BG`
+* sleepers, `SHRAOEP/*ER/-S KW-BG`
 * another `TPHOER`
 * breast `PWREFT`
 * For `KPA/TPOR`

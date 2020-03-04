@@ -396,7 +396,7 @@
 * beautiful `PWAOUFL`
 * snakes, `STPHAEUBGS KW-BG`
 * kinds `KEUPBDZ`
-* stork-dainties `STORBG H-PB TKAEUPB/TEU/KWREU/-S`
+* stork-dainties `STORBG H-PB TKAEUPB/TEU/-S`
 * find. `TPEUPBD TP-PL`
 * then, `THEPB KW-BG`
 * funny `TPAOUPB`

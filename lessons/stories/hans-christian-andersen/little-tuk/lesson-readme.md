@@ -513,7 +513,7 @@
 * pretty `PREUT`
 * stories `STOERS`
 * Holberg's `xxx Holberg AES`
-* comedies, `KOPL/TKEU/KWREU/-S KW-BG`
+* comedies, `KOPL/TKEU/-S`
 * Absalom, `xxx Absalom KW-BG`
 * shrunk `SHR*UPBG`
 * together, `TOGT KW-BG`

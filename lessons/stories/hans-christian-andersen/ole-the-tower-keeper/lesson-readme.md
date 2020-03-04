@@ -216,7 +216,7 @@
 * empty `EPLT`
 * wind `WEUPBD`
 * raisin-stalks: `RAEUZ/-PB H-PB STAUBGS STPH-FPLT`
-* biographies, `PWOG/TPEU/KWREU/-S KW-BG`
+* biographies, `PWOG/TPEU/-S`
 * descriptions `SKREUFPGS`
 * wonders `WOPBDZ`
 * of, `-F KW-BG`

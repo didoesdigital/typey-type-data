@@ -624,7 +624,7 @@
 * dead, `TKED KW-BG`
 * other `OER`
 * youngest—the `KWRUPBG/EFT EPL/TKA*RB -T`
-* critic—outlived `KREUT/EUBG EPL/TKA*RB AUT/HREUF/-D`
+* critic—outlived `KREUT/EUBG EPL/TKA*RB AOUT/HREUFD`
 * them `THEPL`
 * right `RAOEUT`
 * him. `HEUPL TP-PL`

@@ -269,7 +269,7 @@
 * glass `TKPWHRAS`
 * wine. `WAOEUPB TP-PL`
 * talked `TAUBGD`
-* comedies, `KOPL/TKEU/KWREU/-S KW-BG`
+* comedies, `KOPL/TKEU/-S`
 * science, `SKRAOEUPBS KW-BG`
 * believe `PWHREF`
 * equally `KWAEL`

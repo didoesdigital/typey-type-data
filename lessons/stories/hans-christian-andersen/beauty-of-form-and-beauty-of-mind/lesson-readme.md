@@ -774,7 +774,7 @@
 * loved `HROFD`
 * Galatea," `xxx Galatea KW-BG KR-GS`
 * songs. `SOPBGS TP-PL`
-* mythologies," `PHEU/THOLG/KWREU/-S KW-BG KR-GS`
+* mythologies," `PHEU/THOLG/-S KW-BG KR-GS`
 * mamma-in-law. `PHAPL/PHA H-PB TPH H-PB HRAU TP-PL`
 * Next `KPA/TPHEGT`
 * day `TKAEU`

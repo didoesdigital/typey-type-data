@@ -11,7 +11,7 @@
 * came `KAEUPL`
 * into `TPHAO`
 * an `APB`
-* armourer's `AR/PHOUR/*ER AES`
+* armourer's `AR/PHOUR/*ER/AES`
 * shop. `SHOP TP-PL`
 * As `KPA/AZ`
 * he `HE`

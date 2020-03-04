@@ -372,7 +372,7 @@
 * (and `PREPB SKP`
 * mentions `PHEPBGS/-S`
 * name `TPHAEUPL`
-* contemporaries) `KPAER/KWREU/-S PR*EPB`
+* contemporaries) `KPAER/-S PR*EPB`
 * "in `KR-GS TPH`
 * celebrated `SEL/PWRAEUT/-D`
 * work, `WORBG KW-BG`

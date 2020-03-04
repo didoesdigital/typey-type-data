@@ -115,7 +115,7 @@
 * knotty;" `TPHOT/TEU STPH*FPLT KR-GS`
 * sung `SUPBG`
 * quite `KWAOEUT`
-* mournfully— `PHOURPB/-FL/HREU EPL/TKA*RB`
+* mournfully— `PHOURPB/TPHREU EPL/TKA*RB`
 * "Snip, `KR-GS KPA/STPHEUP KW-BG`
 * snap, `STPHAP KW-BG`
 * snurre, `xxx snurre KW-BG`
@@ -355,7 +355,7 @@
 * together `TOGT`
 * longer, `HRORPBG KW-BG`
 * useless `AOUS/-LS`
-* impossibilities." `EUPL/POBLT/KWREU/-S TP-PL KR-GS`
+* impossibilities." `EUPL/POBLT/-S TP-PL KR-GS`
 * length `HREPBG`
 * fell `TPEL`
 * rags `RAG/-S`

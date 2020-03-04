@@ -443,7 +443,7 @@
 * meat. `PHAET TP-PL`
 * prophesy `PROF/SEU`
 * more, `PHOR KW-BG`
-* 'Thirdly, `AE xxx Thirdly KW-BG`
+* 'Thirdly, `AE KPA/THEURD/HREU KW-BG`
 * bed.' `PWED TP-PL AE`
 * 'That `AE KPA/THA`
 * fine `TPAOEUPB`

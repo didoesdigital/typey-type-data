@@ -301,7 +301,7 @@
 * edge `EPBLG`
 * waves, `WAFS KW-BG`
 * now?' `TPHOU H-F AE`
-* dolefully, `TKOEL/-FL/HREU KW-BG`
+* dolefully, `TKOEL/TPHREU KW-BG`
 * 'my `AE PHEU`
 * gate `TKPWAET`
 * already.' `HR-R TP-PL AE`

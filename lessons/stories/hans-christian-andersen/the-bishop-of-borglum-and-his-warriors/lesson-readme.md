@@ -345,7 +345,7 @@
 * thou `THO*U`
 * purpose? `PURP H-F`
 * What `KPA/WHA`
-* writest `WREUT/EFT`
+* writest `WREUT/TK-LS/EFT`
 * yonder `KWROPBD/ER`
 * smooth `SPHAO*T`
 * parchment, `PAFRPB/*PLT KW-BG`
@@ -993,7 +993,7 @@
 * addressed `A/TKREFD`
 * language `HRAPBL`
 * piano `PAPB/TPHOE`
-* melodies `PHEL/TKEU/KWREU/-S`
+* melodies `PHEL/TKEU/-S`
 * native `TPHAEUFT`
 * these `THEZ`
 * died `TKAOEUD`
@@ -1010,7 +1010,7 @@
 * feast `TPAOEFT`
 * given `TKPWEUFPB`
 * hall `HAUL`
-* Waltzes `xxx Waltzes`
+* Waltzes `KPA/WAULGT/-S`
 * Styrian `xxx Styrian`
 * dances `TKAPBS/-S`
 * given, `TKPWEUFPB KW-BG`

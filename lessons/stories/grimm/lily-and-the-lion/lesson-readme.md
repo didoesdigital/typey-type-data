@@ -475,7 +475,7 @@
 * use `AOUS`
 * sun `SUPB`
 * 'Thou `AE KPA/THO*U`
-* shinest `SHEUPB/EFT`
+* shinest `SHEUPB/TK-LS/EFT`
 * everywhere, `WEFR KW-BG`
 * hill's `HEUL AES`
 * top `TOP`

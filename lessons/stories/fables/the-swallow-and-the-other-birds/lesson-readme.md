@@ -70,7 +70,7 @@
 * many `PHAEPB`
 * bird `PWEURD`
 * had `H`
-* despised `STKPAOEUZ/-D`
+* despised `STKPAOEUDZ`
 * advice `SREUS`
 * caught `KAUT`
 * out `OUT`

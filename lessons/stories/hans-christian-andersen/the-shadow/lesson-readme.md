@@ -170,7 +170,7 @@
 * make `PHAEUBG`
 * their `THAEUR`
 * appearance `PAOERPBS`
-* balconies `PWAL/KOEPB/KWREU/-S`
+* balconies `PWAL/KOEPB/-S`
 * street; `STRAOET STPH*FPLT`
 * for `TPOR`
 * climates `KHRAOEUPLTS`
@@ -293,7 +293,7 @@
 * there; `THR STPH*FPLT`
 * tedious, `TAOED/KWROUS KW-BG`
 * most `PHOFT`
-* uncommonly `UPB/KPHOPB/HREU`
+* uncommonly `UPB/KPHOPBL`
 * so. `SO TP-PL`
 * "It `KR-GS KPA/T`
 * practising `PRABG/TEUS/-G/A*U`
@@ -1220,7 +1220,7 @@
 * servants `SER/SRAPBTS`
 * finer `TPAOEURPB`
 * cloth `KHRO*T`
-* liveries `HR*EUF/REU/KWREU/-S`
+* liveries `HREUFR/KWREU/-S`
 * nay, `TPHAEU KW-BG`
 * observe `OEB`
 * given `TKPWEUFPB`

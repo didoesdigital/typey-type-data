@@ -100,7 +100,7 @@
 * He `KPA/HE`
 * bent `PWEPBT`
 * head `HED`
-* mournfully, `PHOURPB/-FL/HREU KW-BG`
+* mournfully, `PHOURPB/TPHREU KW-BG`
 * sighed `SAOEU/-D`
 * deep `TKAOEP`
 * sorrow, `SROE KW-BG`
@@ -167,7 +167,7 @@
 * warlike `WAR/SKWRAOEUBG`
 * deeds, `TKAOEDZ KW-BG`
 * which `WEU`
-* contemporaries `KPAER/KWREU/-S`
+* contemporaries `KPAER/-S`
 * known, `TPHOEPB KW-BG`
 * but `PWUT`
 * sung, `SUPBG KW-BG`

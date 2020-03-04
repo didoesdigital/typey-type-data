@@ -183,7 +183,7 @@
 * sparrows, `SPAEUR/ROE/-S KW-BG`
 * swallows; `SWAL/OES STPH*FPLT`
 * no, `TPHORBGS`
-* despised `STKPAOEUZ/-D`
+* despised `STKPAOEUDZ`
 * them, `THEPL KW-BG`
 * these `THEZ`
 * mean `PHAOEPB`

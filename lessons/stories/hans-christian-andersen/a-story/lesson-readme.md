@@ -127,7 +127,7 @@
 * excitedly, `KPAOEUT/TKHREU KW-BG`
 * saying `SAEUG`
 * evil `AOEFL`
-* propensities `PRO/PEPBS/TEU/KWREU/-S`
+* propensities `PRO/PEPBS/TEU/-S`
 * not `TPHOT`
 * destroyed, `TKROEUD KW-BG`
 * nor `TPH-R`
@@ -238,9 +238,9 @@
 * are `R`
 * many `PHAEPB`
 * people, `PAOEPL KW-BG`
-* eternally. `AOE/TERPBL/HREU TP-PL`
+* eternally. `AOE/TERPB/A*EL TP-PL`
 * Alas! `KPA/A/HRAS SKHRAPL`
-* eternally—how `AOE/TERPBL/HREU EPL/TKA*RB HOU`
+* eternally—how `AOE/TERPB/A*EL EPL/TKA*RB HOU`
 * long! `HROPBG SKHRAPL`
 * only `OEPBL`
 * woman `WOPL`
@@ -497,7 +497,7 @@
 * fool, `TPAOL KW-BG`
 * doomed `TKAOPLD`
 * tortured `TOR/KHURD`
-* eternally `AOE/TERPBL/HREU`
+* eternally `AOE/TERPB/A*EL`
 * fire!" `TPAOEUR SKHRAPL KR-GS`
 * "Only `KR-GS KPA/OEPBL`
 * fool!" `TPAOL SKHRAPL KR-GS`

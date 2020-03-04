@@ -221,7 +221,7 @@
 * humble `UPL/-BL`
 * indeed. `TPHAOEPBD TP-PL`
 * "Poor, `KR-GS KPA/PAOR KW-BG`
-* despised `STKPAOEUZ/-D`
+* despised `STKPAOEUDZ`
 * herbs," `HERBS KW-BG KR-GS`
 * apple-branch; `A*EPL H-PB PWRAFRPB STPH*FPLT`
 * "there `KR-GS THR`

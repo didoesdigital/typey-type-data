@@ -2148,7 +2148,7 @@ Donkey-Skin
 'the': -T
 'sheep,': SHAOEP KW-BG
 'and': SKP
-'penned': PEPB/TPHE/-D
+'penned': PEPB/-D
 'them': THEPL
 'up': UP
 'when': WHEPB
@@ -3738,7 +3738,7 @@ Donkey-Skin
 'their': THAEUR
 'tears': TAERS
 'and': SKP
-'caresses,': KA/RES/-S KW-BG
+'caresses,': KA/RES/S*E KW-BG
 'said': SAEUD
 'to': TO
 'them:': THEPL STPH-FPLT
@@ -4422,7 +4422,7 @@ Donkey-Skin
 'by': PWEU
 'all': AUL
 'these': THEZ
-'caresses': KA/RES/-S
+'caresses': KA/RES/S*E
 'and': SKP
 'by': PWEU
 'the': -T
@@ -4482,9 +4482,9 @@ Donkey-Skin
 'a': AEU
 'great': TKPWRAET
 'Princess': KPA/PREUPB/SES
-'redoubled': RE/TKUBL/-D
+'redoubled': RE/TKUBLD
 'their': THAEUR
-'caresses,': KA/RES/-S KW-BG
+'caresses,': KA/RES/S*E KW-BG
 'but': PWUT
 'the': -T
 'Prince': PR*EUPBS

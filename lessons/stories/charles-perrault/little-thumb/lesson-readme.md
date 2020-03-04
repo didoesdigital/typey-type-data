@@ -375,7 +375,7 @@
 * sup `SUP`
 * people. `PAOEPL TP-PL`
 * Having `KPA/SR-G`
-* bellies, `PWEL/HREU/KWREU/-S KW-BG`
+* bellies, `PWEL/HREU/-S KW-BG`
 * woman `WOPL`
 * said: `SAEUD STPH-FPLT`
 * "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
@@ -959,7 +959,7 @@
 * done?" `TKOPB H-F KR-GS`
 * he. `HE TP-PL`
 * "The `KR-GS KPA/-T`
-* wretches `WREFP/-S`
+* wretches `WREFP/S*E`
 * instantly." `EUPB/STAPBT/HREU TP-PL KR-GS`
 * pitcher `PEUFP/*ER`
 * water `WAUR`

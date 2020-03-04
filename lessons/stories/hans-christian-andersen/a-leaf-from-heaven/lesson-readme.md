@@ -70,7 +70,7 @@
 * so `SO`
 * they `THE`
 * sneered `STPHAOER/-D`
-* despised `STKPAOEUZ/-D`
+* despised `STKPAOEUDZ`
 * plant `PHRAPBT`
 * as `AZ`
 * thing `THEUPBG`
@@ -235,7 +235,7 @@
 * suffer `SUFR`
 * wrongfully, `WROPBG/TPHREU KW-BG`
 * misunderstood `PHEUS/AOUDZ`
-* despised, `STKPAOEUZ/-D KW-BG`
+* despised, `STKPAOEUDZ KW-BG`
 * think `THEU`
 * Him `KPA/HEUPL`
 * holy, `HOEUL KW-BG`

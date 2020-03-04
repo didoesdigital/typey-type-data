@@ -127,7 +127,7 @@
 * feast, `TPAOEFT KW-BG`
 * soon `SAOPB`
 * eating `AOEGT`
-* jellies `SKWREL/HREU/KWREU/-S`
+* jellies `SKWR*EL/KWREU/-S`
 * cakes `KAEUBG/-S`
 * nice. `TPHAOEUS TP-PL`
 * Suddenly `KPA/SULD`

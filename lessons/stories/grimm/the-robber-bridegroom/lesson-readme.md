@@ -428,7 +428,7 @@
 * this, `TH KW-BG`
 * cask. `KAFBG TP-PL`
 * bodies `PWOEDZ`
-* sleepers, `xxx sleepers KW-BG`
+* sleepers, `SHRAOEP/*ER/-S KW-BG`
 * close `KHROES`
 * together, `TOGT KW-BG`
 * moment `PHOEPLT`

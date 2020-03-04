@@ -507,7 +507,7 @@
 * him." `HEUPL TP-PL KR-GS`
 * "With `KR-GS KPA/W`
 * pleasure," `PHRERB KW-BG KR-GS`
-* delightfully. `TKHRAOEUT/-FL/HREU TP-PL`
+* delightfully. `TKHRAOEUT/TPHREU TP-PL`
 * sounds `SOUPBDZ`
 * tiny `TOEUPB`
 * glass `TKPWHRAS`
@@ -825,7 +825,7 @@
 * fisherman, `TPEURB/ER/PHAPB KW-BG`
 * prettily `PRET/HREU`
 * enough, `TPHUF KW-BG`
-* melodies `PHEL/TKEU/KWREU/-S`
+* melodies `PHEL/TKEU/-S`
 * alike; `A/HRAOEUBG STPH*FPLT`
 * seems `SAOEPLS`
 * something `S-G`

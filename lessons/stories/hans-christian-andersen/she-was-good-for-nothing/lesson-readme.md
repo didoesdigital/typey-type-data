@@ -27,7 +27,7 @@
 * fine. `TPAOEUPB TP-PL`
 * shaved `SHAEUFD`
 * chin `KHEUPB`
-* uncommonly `UPB/KPHOPB/HREU`
+* uncommonly `UPB/KPHOPBL`
 * smooth, `SPHAO*T KW-BG`
 * although `HR*T`
 * cut `KUT`

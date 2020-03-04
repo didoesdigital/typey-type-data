@@ -74,7 +74,7 @@
 * saw `SAU`
 * grass, `TKPWRAS KW-BG`
 * poor `PAOR`
-* despised `STKPAOEUZ/-D`
+* despised `STKPAOEUDZ`
 * flower; `TPHRO*UR STPH*FPLT`
 * contrary, `KRAER KW-BG`
 * happy, `HAEP KW-BG`

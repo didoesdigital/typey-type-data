@@ -402,7 +402,7 @@
 * Solomon `SOL/PHOPB`
 * de `TK*E`
 * Cares, `KPA/KAEURS KW-BG`
-* discoverer `SKOFR/*ER`
+* discoverer `TKEUS/KOFR/*ER`
 * power `POUR`
 * steam, `STAEPL KW-BG`
 * theory, `THOEUR KW-BG`
@@ -457,7 +457,7 @@
 * witness `W-PBS`
 * way `WAEU`
 * man's `PHAPB/AES`
-* contemporaries `KPAER/KWREU/-S`
+* contemporaries `KPAER/-S`
 * reward `RE/WARD`
 * good `TKPWAOD`
 * service. `S-FS TP-PL`

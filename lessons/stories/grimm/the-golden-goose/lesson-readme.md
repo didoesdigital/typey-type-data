@@ -15,7 +15,7 @@
 * called `KAULD`
 * Dummling,[*] `xxx Dummling KW-BG PWR-BGT STA*R PWR*BGT`
 * and `SKP`
-* despised, `STKPAOEUZ/-D KW-BG`
+* despised, `STKPAOEUDZ KW-BG`
 * mocked, `PHOBG/-D KW-BG`
 * sneered `STPHAOER/-D`
 * at `AT`

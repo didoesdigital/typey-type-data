@@ -558,7 +558,7 @@
 * bird `PWEURD`
 * bough, `PWO*U KW-BG`
 * sang `SAPBG`
-* delightfully `TKHRAOEUT/-FL/HREU`
+* delightfully `TKHRAOEUT/TPHREU`
 * listened `HREUFPBD`
 * its `EUTS`
 * song `SOPBG`

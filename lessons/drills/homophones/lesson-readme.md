@@ -659,7 +659,7 @@
 * plane `PHRAEPB`
 * plainer `PHRAEUPB/*ER`
 * planar `PHRAEPB/A*R`
-* planer `PHRAPB/*ER`
+* planer `PHRAEPB/*ER`
 * plait `PHRA*EUT`
 * plate `PHRAET`
 * pleas `PHRAOEZ`

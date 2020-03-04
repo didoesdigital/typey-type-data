@@ -626,7 +626,7 @@
 * him," `HEUPL KW-BG KR-GS`
 * fanner, `xxx fanner KW-BG`
 * continuing `T-PBG`
-* entreaties. `SPWRAOE/TEU/KWREU/-S TP-PL`
+* entreaties. `EPB/TRAOET/KWREUS TP-PL`
 * "Well," `KR-GS KPA/WEL KW-BG KR-GS`
 * length, `HREPBG KW-BG`
 * "you `KR-GS U`

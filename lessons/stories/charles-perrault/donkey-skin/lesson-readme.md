@@ -856,7 +856,7 @@
 * protection. `PREBGS TP-PL`
 * minded `PHAOEUPBD/-D`
 * sheep, `SHAOEP KW-BG`
-* penned `PEPB/TPHE/-D`
+* penned `PEPB/-D`
 * necessary, `TPHES KW-BG`
 * feed `TPAOED`
 * intelligence `SPWEPBLGS`
@@ -1257,7 +1257,7 @@
 * embracing `EPL/PWRAEUFG`
 * agreed `TKPWRAED`
 * moved `PHOFD`
-* caresses, `KA/RES/-S KW-BG`
+* caresses, `KA/RES/S*E KW-BG`
 * them: `THEPL STPH-FPLT`
 * drawing `TKRAUG`
 * pillow `PEUL/OE`
@@ -1410,7 +1410,7 @@
 * embrace `EPL/PWRAEUS`
 * heartily, `HART/HREU KW-BG`
 * confused `KAOUFD`
-* caresses `KA/RES/-S`
+* caresses `KA/RES/S*E`
 * handsome `HAPBD/SOPL`
 * thank `THAPBG`
 * ceiling `KAOELG`
@@ -1421,7 +1421,7 @@
 * charm, `KHARPL KW-BG`
 * Princess's `KPA/PREUPB/SES AES`
 * story. `STOER TP-PL`
-* redoubled `RE/TKUBL/-D`
+* redoubled `RE/TKUBLD`
 * sensible `SEPBS/-BL`
 * virtue, `SRAOURT KW-BG`
 * tale. `TAEL TP-PL`

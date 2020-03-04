@@ -321,7 +321,7 @@
 * sow `SWO`
 * sty, `STAOEU KW-BG`
 * Three `KPA/THRAOE`
-* piggies `PEUG/KWREU/KWREU/-S`
+* piggies `PEUG/KWREU/-S`
 * she," `SHE KW-BG KR-GS`
 * &c. `SP-PBD KR* TP-PL`
 * wonderful `WUFL`

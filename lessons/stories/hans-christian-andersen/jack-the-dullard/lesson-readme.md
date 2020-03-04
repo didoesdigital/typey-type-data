@@ -135,7 +135,7 @@
 * thing `THEUPBG`
 * more: `PHOR STPH-FPLT`
 * embroider `EPL/PWROEUD/ER`
-* suspenders `SUS/PEPBD/*ER/-S`
+* suspenders `SP*EPBD/*ERS`
 * with `W`
 * roses `ROES/-S`
 * flowers, `TPHRO*URS KW-BG`

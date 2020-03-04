@@ -45,7 +45,7 @@
 * they `THE`
 * walking `WAUG`
 * together `TOGT`
-* mournfully `PHOURPB/-FL/HREU`
+* mournfully `PHOURPB/TPHREU`
 * the `-T`
 * garden `TKPWA*RPB`
 * of `-F`
@@ -705,7 +705,7 @@
 * Some `KPA/SOPL`
 * after, `AF KW-BG`
 * grand `TKPWRAPBD`
-* embassies `EPL/PWAES/KWREU/-S`
+* embassies `EPL/PWAES/-S`
 * court, `KORT KW-BG`
 * rich `REUFP`
 * gifts `TKPWEUFTS`
@@ -744,7 +744,7 @@
 * Meanwhile `KPA/PHAOEPB/WHAOEUL`
 * eagerly `AOERLG`
 * waiting `WAEUGT`
-* deliverer `THREUFR/*ER`
+* deliverer `TKHREUFR/*ER`
 * back; `PWABG STPH*FPLT`
 * leading `HRAEGD`
 * shining `SHAOEUPBG`
@@ -805,7 +805,7 @@
 * way, `WAEU KW-BG`
 * of, `-F KW-BG`
 * open, `OEP KW-BG`
-* deliverer, `THREUFR/*ER KW-BG`
+* deliverer, `TKHREUFR/*ER KW-BG`
 * husband `HUS`
 * lord `HRORD`
 * joy `SKWROEU`

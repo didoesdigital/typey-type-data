@@ -317,7 +317,7 @@
 * last, `HRAFT KW-BG`
 * overcome `AUFR/KOPL`
 * persistent `PERPBT`
-* entreaties `SPWRAOE/TEU/KWREU/-S`
+* entreaties `EPB/TRAOET/KWREUS`
 * something, `S-G KW-BG`
 * lifted `HREUFTD`
 * glass `TKPWHRAS`
@@ -390,7 +390,7 @@
 * black. `PWHRABG TP-PL`
 * sadder `SAD/ER`
 * ever `-FR`
-* mournfully, `PHOURPB/-FL/HREU KW-BG`
+* mournfully, `PHOURPB/TPHREU KW-BG`
 * asleep, `A/SHRAOEP KW-BG`
 * sleeping `SHRAOEPG`
 * heavily, `HEFL KW-BG`

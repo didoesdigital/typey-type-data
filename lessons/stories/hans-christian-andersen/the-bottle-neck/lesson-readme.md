@@ -781,7 +781,7 @@
 * longing `HROPBG/-G`
 * fly `TPHRAOEU`
 * away. `A/WAEU TP-PL`
-* outlived `AUT/HREUF/-D`
+* outlived `AOUT/HREUFD`
 * storms `STORPLS`
 * calm, `KAUPL KW-BG`
 * struck `STRUBG`

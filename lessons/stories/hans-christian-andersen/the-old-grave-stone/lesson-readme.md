@@ -455,7 +455,7 @@
 * spoken `SPOEPB`
 * shook `SHAOBG`
 * head `HED`
-* mournfully, `PHOURPB/-FL/HREU KW-BG`
+* mournfully, `PHOURPB/TPHREU KW-BG`
 * "Forgotten! `KR-GS KPA/TPORGTD SKHRAPL`
 * yes, `KWRE KW-BG`
 * will `HR`
