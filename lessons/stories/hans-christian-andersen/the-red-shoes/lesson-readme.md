@@ -90,7 +90,7 @@
 * into `TPHAO`
 * walked `WAUBGD`
 * behind `HEUPBD`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * coffin. `KOFPB TP-PL`
 * Just `KPA/SKWRUFT`
 * then `THEPB`
@@ -575,7 +575,7 @@
 * knew, `TPHAOU KW-BG`
 * executioner; `EBGS/KAOUGS/*ER STPH*FPLT`
 * tapped `TAPD`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * "Come `KR-GS KPA/KOPL`
 * out, `OUT KW-BG`
 * come `KOPL`

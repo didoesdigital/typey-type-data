@@ -841,7 +841,7 @@
 * less `HRES`
 * less, `HRES KW-BG`
 * longer `HRORPBG`
-* finger. `TPURPBG TP-PL`
+* finger. `TPEURPBG TP-PL`
 * borrow `PWO*ER`
 * dress `TKRES`
 * soldier. `SHRERPBL TP-PL`

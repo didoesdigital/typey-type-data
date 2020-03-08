@@ -687,7 +687,7 @@
 * mix `PHEUBGS`
 * lost; `HRO*S STPH*FPLT`
 * special `SPERBL`
-* occasions, `OE/KAEUGS/-S KW-BG`
+* occasions, `KWAEUGS/-S KW-BG`
 * present, `PREPBT KW-BG`
 * forward `TPAORD`
 * spoken `SPOEPB`

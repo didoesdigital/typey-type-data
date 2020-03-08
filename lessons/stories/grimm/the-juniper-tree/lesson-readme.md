@@ -72,7 +72,7 @@
 * them, `THEPL KW-BG`
 * cut `KUT`
 * her `HER`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * blood `PWHRAOD`
 * fell `TPEL`
 * on `OPB`

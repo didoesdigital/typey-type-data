@@ -494,7 +494,7 @@
 * robber-knights. `ROB/ER H-PB TPHAO*EUT/-S TP-PL`
 * poor `PAOR`
 * women, `WEUPL KW-BG`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * vehicle `SREBG`
 * drawn `TKRAUPB`
 * black `PWHRABG`

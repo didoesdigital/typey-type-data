@@ -127,7 +127,7 @@
 * sunshine `SUPB/SHAO*EUPB`
 * it, `T KW-BG`
 * violets `SROEULT/-S`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * table `TAEUBL`
 * smell `SPHEL`
 * doubly `TKUB/HREU`

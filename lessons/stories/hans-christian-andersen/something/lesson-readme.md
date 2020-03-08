@@ -20,7 +20,7 @@
 * don't `TKOEPBT`
 * care `KAEUR`
 * how `HOU`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * my `PHEU`
 * position `POGS`
 * is, `S-RBGS`
@@ -1002,7 +1002,7 @@
 * deeds `TKAOEDZ`
 * thee `THAOE`
 * appeared `A/PAOERD`
-* humble,—it `UPL/-BL KW-BG EPL/TKA*RB T`
+* humble,—it `HUPL/-BL KW-BG EPL/TKA*RB T`
 * heavenly `HEFPBL`
 * gift. `TKPWEUFT TP-PL`
 * Thou `KPA/THO*U`

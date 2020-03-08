@@ -205,7 +205,7 @@
 * uttered `UT/ERD`
 * attend `A/TEPBD`
 * afford `AFRD`
-* doubtless `TKOUT/*LS`
+* doubtless `TKOUT/-LS`
 * error `ROEUR`
 * appeal `AEP`
 * commercial `KPHERBL`
@@ -217,7 +217,7 @@
 * weakness `WAEBG/-PBS`
 * electronically `HREBG/TROPB/KHREU`
 * opposition `OP/POGS`
-* occasions `OE/KAEUGS/-S`
+* occasions `KWAEUGS/-S`
 * community `KPHUPBT`
 * apparent `A/PARPBT`
 * hurry `HUR/REU`

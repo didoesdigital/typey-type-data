@@ -871,7 +871,7 @@
 * wrist, `WREUFT KW-BG`
 * laughed `HRAFD`
 * choked; `KHOEBGD STPH*FPLT`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * ring `REUPBG`
 * it, `T KW-BG`
 * betrothal. `PWE/TRO/THAL TP-PL`
@@ -884,7 +884,7 @@
 * myself." `PHAO*EUS TP-PL KR-GS`
 * girl `TKPWEURL`
 * stories `STOERS`
-* ring-finger `REUPBG H-PB TPURPBG`
+* ring-finger `REUPBG H-PB TPEURPBG`
 * little `HREUL`
 * Peter `PAOERT`
 * Playman `xxx Playman`

@@ -393,7 +393,7 @@
 * As `KPA/AZ`
 * thus `THUS`
 * sitting, `SEUGT KW-BG`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * hurt `HURT`
 * so `SO`
 * violently `SRAOEUL/HREPBT/HREU`
@@ -449,7 +449,7 @@
 * me.' `PHE TP-PL AE`
 * sat `SAT`
 * stir `STEUR`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * however `HOUF`
 * reflection `RE/TPHR*EBGS`
 * surface `SUFS`

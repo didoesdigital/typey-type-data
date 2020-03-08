@@ -580,7 +580,7 @@
 * wishing-ring, `WEURBG H-PB REUPBG KW-BG`
 * 'Take `AE KPA/TAEUBG`
 * ring, `REUPBG KW-BG`
-* finger; `TPURPBG STPH*FPLT`
+* finger; `TPEURPBG STPH*FPLT`
 * wish `WEURB`
 * you; `U STPH*FPLT`
 * promise `PROPLS`
@@ -591,7 +591,7 @@
 * house.' `HOUS TP-PL AE`
 * asked, `SK-D KW-BG`
 * ring `REUPBG`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * wished `WEURBD`
 * town `TOUPB`
 * where `W-R`
@@ -680,7 +680,7 @@
 * kingdom. `KEUPBG/TKOPL TP-PL`
 * awoke `A/WOEBG`
 * alone, `A/HROEPB KW-BG`
-* finger. `TPURPBG TP-PL`
+* finger. `TPEURPBG TP-PL`
 * house,' `HOUS KW-BG AE`
 * he; `HE STPH*FPLT`
 * 'they `AE THE`

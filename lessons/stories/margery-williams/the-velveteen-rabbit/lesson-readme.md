@@ -1029,7 +1029,7 @@
 * happened. `HAPD TP-PL`
 * tear `TAER`
 * fallen `TPAUL/-PB`
-* mysterious `PHEUFT/RUS`
+* mysterious `PHEUFT/KWROUS`
 * flower, `TPHRO*UR KW-BG`
 * garden. `TKPWA*RPB TP-PL`
 * slender `SHRERPBD`

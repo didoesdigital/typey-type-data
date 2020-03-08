@@ -131,7 +131,7 @@
 * dwelt `TKWELT`
 * also `HR-S`
 * poor `PAOR`
-* humble, `UPL/-BL KW-BG`
+* humble, `HUPL/-BL KW-BG`
 * treasured `TRERB/-D`
 * fear `TPAOER`
 * God `TKPWO*D`
@@ -165,7 +165,7 @@
 * chiming `KHAOEUPL/-G`
 * filled `TPEULD`
 * hearts `HARTS`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * dwelling `TKWELG`
 * thankfulness `THAPB/K-FL/-PBS`
 * trust; `TRUFT STPH*FPLT`

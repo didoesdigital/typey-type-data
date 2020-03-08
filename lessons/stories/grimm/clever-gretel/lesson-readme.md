@@ -201,7 +201,7 @@
 * ought `OT`
 * tasted!' `TAEUFT/-D SKHRAPL AE`
 * touched `TUFPD`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * 'Ah! `AE KPA/HA*E SKHRAPL`
 * how `HOU`
 * are! `R SKHRAPL`
@@ -322,7 +322,7 @@
 * courteously `KURT/KWROUS/HREU`
 * house-door. `HOUS H-PB TKAOR TP-PL`
 * ran, `RAPB KW-BG`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * lips `HREUPS`
 * 'Hush! `AE KPA/HURB SKHRAPL`
 * hush! `HURB SKHRAPL`

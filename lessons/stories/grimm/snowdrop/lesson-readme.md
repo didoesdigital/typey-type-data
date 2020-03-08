@@ -41,7 +41,7 @@
 * upon `POPB`
 * snow, `STPHOE KW-BG`
 * pricked `PREUBGD`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * three `THRAOE`
 * drops `TKROPS`
 * blood `PWHRAOD`

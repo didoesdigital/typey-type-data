@@ -493,7 +493,7 @@
 * uncertain, `UPB/SERPB KW-BG`
 * hopeful, `HOEFL KW-BG`
 * bow `PWOE`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * adoration `AD/RAEUGS`
 * Lord `HRO*RD`
 * Jesus. `SKWRAOES/US TP-PL`

@@ -384,7 +384,7 @@
 * sister `ST-R`
 * spin, `SPEUPB KW-BG`
 * pricked `PREUBGD`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * thrust `THRUFT`
 * thorn-bush, `THORPB H-PB PWURB KW-BG`
 * might `PHAOEUT`

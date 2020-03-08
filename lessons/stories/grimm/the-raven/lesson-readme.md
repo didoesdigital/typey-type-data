@@ -416,7 +416,7 @@
 * name `TPHAEUPL`
 * engraved, `EPB/TKPWRAEUFD KW-BG`
 * off `OF`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * upon `POPB`
 * his. `HEUS TP-PL`
 * Finally, `KPA/TPHRAOEUPBL KW-BG`

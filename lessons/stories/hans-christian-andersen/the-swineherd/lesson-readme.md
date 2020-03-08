@@ -326,7 +326,7 @@
 * &c. `SP-PBD KR* TP-PL`
 * wonderful `WUFL`
 * that, `THA KW-BG`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * steam `STAEPL`
 * rising `RAOEUFG`
 * from `TPR`
@@ -355,7 +355,7 @@
 * tune `TAOUPB`
 * play, `PHRAEU KW-BG`
 * played `PHRAEUD`
-* finger. `TPURPBG TP-PL`
+* finger. `TPEURPBG TP-PL`
 * "That `KR-GS KPA/THA`
 * know," `TPHOE KW-BG KR-GS`
 * exclaimed. `SKHRAEUPL/-D TP-PL`

@@ -443,7 +443,7 @@
 * dreamed `TKREPLD`
 * dream. `TKRAOEPL TP-PL`
 * had, `H KW-BG`
-* doubtless, `TKOUT/*LS KW-BG`
+* doubtless, `TKOUT/-LS KW-BG`
 * kind `KEUPBD`
 * feeling `TPAOELG`
 * festive `TPES/TEUF`

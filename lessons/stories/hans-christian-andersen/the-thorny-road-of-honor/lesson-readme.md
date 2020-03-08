@@ -575,7 +575,7 @@
 * gray `TKPWRAEU`
 * bent. `PWEPBT TP-PL`
 * With `KPA/W`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * groove `TKPWRAOF`
 * stone `STOEPB`
 * table. `TAEUBL TP-PL`

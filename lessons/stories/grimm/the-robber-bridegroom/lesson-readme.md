@@ -190,7 +190,7 @@
 * looking `HRAOG`
 * so `SO`
 * grim `TKPWREUPL`
-* mysterious, `PHEUFT/RUS KW-BG`
+* mysterious, `PHEUFT/KWROUS KW-BG`
 * please `PHRES`
 * all. `AUL TP-PL`
 * stepped `STEPD`
@@ -377,13 +377,13 @@
 * ring `REUPBG`
 * remaining `RE/PHAEUPBG`
 * little `HREUL`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * murdered `PHURD/-D`
 * draw `TKRAU`
 * easily, `AOELS KW-BG`
 * took `TAOBG`
 * hatchet `HABGT`
-* finger; `TPURPBG STPH*FPLT`
+* finger; `TPEURPBG STPH*FPLT`
 * sprang `SPRAPBG`
 * air, `AEUR KW-BG`
 * fell `TPEL`
@@ -504,7 +504,7 @@
 * dream.' `TKRAOEPL TP-PL AE`
 * room, `RAOPL KW-BG`
 * everything `EFRG`
-* mysterious. `PHEUFT/RUS TP-PL`
+* mysterious. `PHEUFT/KWROUS TP-PL`
 * still. `STEUL TP-PL`
 * if `TP`
 * lived `HREUFD`
@@ -530,7 +530,7 @@
 * pieces `PAOEFS`
 * it.' `T TP-PL AE`
 * left `HREFT`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * difficult `TKEUFL`
 * off, `OF KW-BG`
 * air `AEUR`

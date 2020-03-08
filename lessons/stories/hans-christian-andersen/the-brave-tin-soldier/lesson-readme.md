@@ -607,7 +607,7 @@
 * knife. `TPHAOEUF TP-PL`
 * picked `PEUBGD`
 * waist `WAEUFT`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * thumb, `THUPL KW-BG`
 * carried `KAERD`
 * room. `RAOPL TP-PL`

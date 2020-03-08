@@ -219,7 +219,7 @@
 * readily `RED/HREU`
 * behold `PWE/HOLD`
 * bosom `PWUZ/OPL`
-* mysterious `PHEUFT/RUS`
+* mysterious `PHEUFT/KWROUS`
 * extended `EBGS/TEPBD/-D`
 * confess `KAUPB/TPES`
 * wondered `WOPBD/-D`
@@ -233,7 +233,7 @@
 * formerly `TPORPL/ERL`
 * mankind `PHAPB/KAOEUPBD`
 * estate `ES/TAEUT`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * woman's `WOPL/AES`
 * European `UR/PAOEPB`
 * household `HOUS/HOLD`
@@ -279,7 +279,7 @@
 * celebrated `SEL/PWRAEUT/-D`
 * slavery `SHRAEUF/REU`
 * delightful `TKHRAOEUT/-FL`
-* occasions `OE/KAEUGS/-S`
+* occasions `KWAEUGS/-S`
 * readable `RAED/-BL`
 * enthusiasm `SPWAOUZ/KWRAFPL`
 * apparent `A/PARPBT`
@@ -1434,7 +1434,7 @@
 * resignation `REZ/TPHAEUGS`
 * tempest `TEPL/PEFT`
 * prospects `PROS/PEBGTS`
-* humbly `UPL/PWHREU`
+* humbly `HUPL/PWHREU`
 * remarkably `RARBG/PWHREU`
 * dainty `TKAEUPB/TEU`
 * overhead `AUFR/HED`
@@ -3217,7 +3217,7 @@
 * barbarian `PWAR/PWAEURPB`
 * sleepless `SHRAOEP/-LS`
 * abstraction `AB/STRABGS`
-* forefinger `TPOER/TPEUPBG/ER`
+* forefinger `TPOER/TPEURPBG`
 * erection `AOE/REBGS`
 * ancestral `APB/SES/TRAL`
 * forbearance `TPOR/PWAERPBS`

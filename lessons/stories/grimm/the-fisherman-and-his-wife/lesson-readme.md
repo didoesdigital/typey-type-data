@@ -509,7 +509,7 @@
 * giant `SKWRAOEUPBT`
 * dwarf `TKWAFR`
 * bigger `PWEURG`
-* finger. `TPURPBG TP-PL`
+* finger. `TPEURPBG TP-PL`
 * princes, `PREUPBS/-S KW-BG`
 * dukes, `TKAOUBG/-S KW-BG`
 * earls: `A*ERL/-S STPH-FPLT`

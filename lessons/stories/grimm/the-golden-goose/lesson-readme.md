@@ -271,7 +271,7 @@
 * seized `SAOEZ/-D`
 * wing, `WEUPBG KW-BG`
 * but `PWUT`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * hand `HAPBD`
 * remained `RE/PHAEUPBD`
 * sticking `STEUG`

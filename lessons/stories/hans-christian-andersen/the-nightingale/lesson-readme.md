@@ -656,7 +656,7 @@
 * servants `SER/SRAPBTS`
 * appointed `POEUPBD`
 * attend `A/TEPBD`
-* occasions, `OE/KAEUGS/-S KW-BG`
+* occasions, `KWAEUGS/-S KW-BG`
 * held `HELD`
 * silken `SEUL/KEPB`
 * string `STREUPBG`

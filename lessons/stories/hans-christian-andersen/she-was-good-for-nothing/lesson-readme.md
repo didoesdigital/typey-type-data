@@ -91,7 +91,7 @@
 * feet, `TPAOET KW-BG`
 * looking `HRAOG`
 * as `AZ`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * if `TP`
 * been `PW-PB`
 * king `KEUPBG`
@@ -706,7 +706,7 @@
 * placed `PHRAEUFD`
 * gold `TKPWOELD`
 * ring `REUPBG`
-* finger; `TPURPBG STPH*FPLT`
+* finger; `TPEURPBG STPH*FPLT`
 * mistress `PHEUS/TRES`
 * sent `SEPBT`
 * Gently `KPA/SKWREPBT/HREU`
@@ -836,7 +836,7 @@
 * wore `WOR`
 * next `TPHEGT`
 * heart. `HART TP-PL`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * during `TKURG`
 * daytime, `TKAEUPLT KW-BG`
 * almost `HR-PL`

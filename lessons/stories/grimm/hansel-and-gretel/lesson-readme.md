@@ -733,14 +733,14 @@
 * crab-shells. `KRAB H-PB SHELS TP-PL`
 * Every `KPA/EF`
 * stretch `STREFP`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * fat.' `TPAT TP-PL AE`
 * stretched `STREFPD`
 * bone `PWOEPB`
 * her, `HER KW-BG`
 * dim `TKEUPL`
 * Hansel's `HAPB/SEL AES`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * astonished `A/STOPB/EURBD`
 * fattening `TPAT/-PBG`
 * weeks `WAOEBGS`

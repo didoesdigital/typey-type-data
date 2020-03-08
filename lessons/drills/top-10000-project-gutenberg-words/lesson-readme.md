@@ -2120,7 +2120,7 @@
 * slightly `SHRAOEULT`
 * articles `ARLS`
 * police `PHREUS`
-* mysterious `PHEUFT/RUS`
+* mysterious `PHEUFT/KWROUS`
 * extended `EBGS/TEPBD/-D`
 * confess `KAUPB/TPES`
 * shade `SHAEUD`
@@ -2162,7 +2162,7 @@
 * estate `ES/TAEUT`
 * aunt `AUPBT`
 * reign `RAEPB`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * compliance `KPHRAOEUPBS`
 * delay `TKHREU`
 * shining `SHAOEUPBG`
@@ -2180,7 +2180,7 @@
 * banks `PWA*PBGS`
 * philosophy `TPEUFLS`
 * belong `PWHROPBG`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * comfortable `K-BL`
 * market `PHARBGT`
 * cap `KAP`
@@ -2248,7 +2248,7 @@
 * angel `APBG/EL`
 * rapid `RAPD`
 * distinct `STKEUPBG`
-* doubtless `TKOUT/*LS`
+* doubtless `TKOUT/-LS`
 * properly `PRORL`
 * wit `WEUT`
 * fame `TPAEUPL`
@@ -2375,7 +2375,7 @@
 * keen `KAOEPB`
 * disposition `TK*EUPGS`
 * senses `SEPBS/-S`
-* occasions `OE/KAEUGS/-S`
+* occasions `KWAEUGS/-S`
 * readable `RAED/-BL`
 * beloved `PWHROFD`
 * inches `TPH-FPS`
@@ -5781,7 +5781,7 @@
 * tempest `TEPL/PEFT`
 * guidance `TKPWAOEUPBS`
 * prospects `PROS/PEBGTS`
-* humbly `UPL/PWHREU`
+* humbly `HUPL/PWHREU`
 * lined `HRAOEUPBD`
 * serene `SRAO*EPB`
 * shrugged `SHR*UGD`
@@ -9566,7 +9566,7 @@
 * sleepless `SHRAOEP/-LS`
 * fried `TPRAOEUD`
 * abstraction `AB/STRABGS`
-* forefinger `TPOER/TPEUPBG/ER`
+* forefinger `TPOER/TPEURPBG`
 * spade `SPAEUD`
 * erection `AOE/REBGS`
 * scorned `SKORPBD`

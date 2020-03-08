@@ -985,7 +985,7 @@
 * days `TKAEUS`
 * ago,' `AG KW-BG AE`
 * beckoned `PWEBG/KOPB/-D`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * come.' `KOPL TP-PL AE`
 * They `KPA/THE`
 * coffin `KOFPB`

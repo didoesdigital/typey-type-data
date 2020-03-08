@@ -323,7 +323,7 @@
 * pocket `POBGT`
 * cut `KUT`
 * off `OF`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * just `SKWRUFT`
 * size `SAOEUZ`
 * wood `WAOD`

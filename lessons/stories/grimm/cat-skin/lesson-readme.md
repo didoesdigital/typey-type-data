@@ -595,7 +595,7 @@
 * then. `THEPB TP-PL`
 * whilst `WHAOEULS`
 * dancing `TKAPBS/-G`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * without `WOUT`
 * kept `KEPT`
 * time. `TAOEUPL TP-PL`
@@ -627,7 +627,7 @@
 * bottom, `PWOPLT KW-BG`
 * more, `PHOR KW-BG`
 * white `WHAOEUT`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * dancing: `TKAPBS/-G STPH-FPLT`
 * seized `SAOEZ/-D`
 * hold `HOLD`

@@ -436,7 +436,7 @@
 * lead `HRAED`
 * peasant `PEFPBT`
 * woman's `WOPL/AES`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * room `RAOPL`
 * Frederick `TPRED/REUBG`
 * Sixth, `KPA/S*BGS KW-BG`

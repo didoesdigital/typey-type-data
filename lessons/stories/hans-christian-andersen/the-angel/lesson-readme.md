@@ -152,7 +152,7 @@
 * also `HR-S`
 * well `WEL`
 * few `TPAOU`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * buttercups `PWUT/*ER/KUP/-S`
 * heart's-ease. `HART AE S* H-PB AOES TP-PL`
 * "Now `KR-GS KPA/TPHOU`

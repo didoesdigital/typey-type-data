@@ -422,7 +422,7 @@
 * thoughts, `THAUTS KW-BG`
 * heart. `HART TP-PL`
 * home `HOEPL`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * room, `RAOPL KW-BG`
 * modelled `PHOD/ELD/A*U`
 * Psyche `KPA/SAOEUBG`
@@ -1430,7 +1430,7 @@
 * himself. `H*EUPLS TP-PL`
 * "Once `KR-GS KPA/WUPBS`
 * extended `EBGS/TEPBD/-D`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * hand. `HAPBD TP-PL`
 * now," `TPHOU KW-BG KR-GS`
 * sighed, `SAOEU/-D KW-BG`

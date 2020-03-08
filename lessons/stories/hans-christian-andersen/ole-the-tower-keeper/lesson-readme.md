@@ -1142,7 +1142,7 @@
 * glove `TKPWHROF`
 * lying `HRAOEUG`
 * pointing `POEUPBGT`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * tree. `TRAOE TP-PL`
 * 'I'm `AE EU AE PH*`
 * sorry `SOER`

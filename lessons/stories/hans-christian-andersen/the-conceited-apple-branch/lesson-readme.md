@@ -218,7 +218,7 @@
 * rich `REUFP`
 * beautiful, `PWAOUFL KW-BG`
 * poor `PAOR`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * indeed. `TPHAOEPBD TP-PL`
 * "Poor, `KR-GS KPA/PAOR KW-BG`
 * despised `STKPAOEUDZ`

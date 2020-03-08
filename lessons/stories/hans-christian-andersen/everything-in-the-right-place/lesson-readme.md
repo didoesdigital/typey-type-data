@@ -240,7 +240,7 @@
 * banqueting `PWAPB/KWET/-G`
 * hall; `HAUL STPH*FPLT`
 * too `TAO`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * that. `THA TP-PL`
 * No; `KPA/TPHO STPH*FPLT`
 * went `WEPBT`
@@ -974,7 +974,7 @@
 * crowded `KROUD/-D`
 * people. `PAOEPL TP-PL`
 * clergymen `KHRERPBLG/PHEPB`
-* humbly `UPL/PWHREU`
+* humbly `HUPL/PWHREU`
 * together `TOGT`
 * corner, `KRORPB KW-BG`
 * preparing `PRAOEPG`

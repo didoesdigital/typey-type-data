@@ -536,7 +536,7 @@
 * enough `TPHUF`
 * remaining `RE/PHAEUPBG`
 * more `PHOR`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * purpose, `PURP KW-BG`
 * forthwith `TPA*URT/W`
 * encumbrance. `EPB/KUPL/PWRAPBS TP-PL`

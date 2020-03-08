@@ -1178,7 +1178,7 @@
 * design `STKAOEUPB`
 * no, `TPHORBGS`
 * ring `REUPBG`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * fell `TPEL`
 * mixed `PHEUGD`
 * it. `T TP-PL`

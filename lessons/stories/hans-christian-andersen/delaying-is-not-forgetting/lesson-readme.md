@@ -337,7 +337,7 @@
 * many `PHAEPB`
 * deed, `TKAOED KW-BG`
 * thinks `THEUS`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * cottages `KOT/APBLG/-S`
 * rich `REUFP`
 * mansions, `PHAPBGS/-S KW-BG`

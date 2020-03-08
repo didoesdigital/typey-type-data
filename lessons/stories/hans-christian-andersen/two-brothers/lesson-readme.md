@@ -268,7 +268,7 @@
 * human `HAOUPL`
 * race `RAEUS`
 * stood `STAOD`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * room, `RAOPL KW-BG`
 * bent `PWEPBT`
 * down `TKOUPB`

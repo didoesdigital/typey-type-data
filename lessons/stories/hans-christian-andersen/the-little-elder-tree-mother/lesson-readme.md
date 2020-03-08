@@ -305,7 +305,7 @@
 * there; `THR STPH*FPLT`
 * corner `KRORPB`
 * an `APB`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * yard; `KWRARD STPH*FPLT`
 * under `TPH-PB`
 * two `TWO`

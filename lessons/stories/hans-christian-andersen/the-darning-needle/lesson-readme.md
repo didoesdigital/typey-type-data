@@ -377,7 +377,7 @@
 * wrote. `WRO TP-PL`
 * Longman, `xxx Longman KW-BG`
 * middle `PH*EULD`
-* finger, `TPURPBG KW-BG`
+* finger, `TPEURPBG KW-BG`
 * heads `HEDZ`
 * others. `OERS TP-PL`
 * Gold-band, `KPA/TKPWOELD H-PB PWAPBD KW-BG`

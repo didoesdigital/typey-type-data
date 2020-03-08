@@ -68,7 +68,7 @@
 * said `SAEUD`
 * Ass: `KPA/A*S STPH-FPLT`
 * "Better `KR-GS KPA/PWOERT`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * security `SKURT`
 * than `THAPB`
 * gilded `TKPWEULD/-D`

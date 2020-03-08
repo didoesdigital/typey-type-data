@@ -165,7 +165,7 @@
 * cutting `KUGT`
 * stick, `STEUBG KW-BG`
 * sometimes `STAOEUPLS`
-* finger `TPURPBG`
+* finger `TPEURPBG`
 * instead `STPHED`
 * stick. `STEUBG TP-PL`
 * But `KPA/PWUT`

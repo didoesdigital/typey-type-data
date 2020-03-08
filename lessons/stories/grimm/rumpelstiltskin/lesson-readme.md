@@ -223,7 +223,7 @@
 * task?' `TAFBG H-F AE`
 * 'The `AE KPA/-T`
 * ring `REUPBG`
-* finger,' `TPURPBG KW-BG AE`
+* finger,' `TPEURPBG KW-BG AE`
 * she. `SHE TP-PL`
 * So `KPA/SO`
 * friend `TPREPBD`

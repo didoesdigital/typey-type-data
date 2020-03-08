@@ -209,7 +209,7 @@
 * sometimes `STAOEUPLS`
 * enters `SPWR-S`
 * peasant's `PEFPBT AES`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * cot; `KOT STPH*FPLT`
 * passes `PA*FS`
 * one `WUPB`

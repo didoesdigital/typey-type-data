@@ -211,7 +211,7 @@
 * smallest `SPHAUL/EFT`
 * provincial `PRO/SREUPBL`
 * towns, `TOUPBS KW-BG`
-* humble `UPL/-BL`
+* humble `HUPL/-BL`
 * household, `HOUS/HOLD KW-BG`
 * lived `HREUFD`
 * maiden `PHAEUD/*EPB`
