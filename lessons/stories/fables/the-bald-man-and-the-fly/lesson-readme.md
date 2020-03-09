@@ -20,7 +20,7 @@
 * up `UP`
 * and `SKP`
 * kept `KEPT`
-* buzzing `PWUDZ/-G`
+* buzzing `PWUZ/-G`
 * about `PW`
 * his `HEUS`
 * bald `PWAULD`

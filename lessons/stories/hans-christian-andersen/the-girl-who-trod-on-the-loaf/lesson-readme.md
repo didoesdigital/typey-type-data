@@ -614,7 +614,7 @@
 * here `HAOER`
 * again. `TKPWEPB TP-PL`
 * Poor `KPA/PAOR`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * her." `HER TP-PL KR-GS`
 * These `KPA/THEZ`
 * pitying `PEUT/EUG`

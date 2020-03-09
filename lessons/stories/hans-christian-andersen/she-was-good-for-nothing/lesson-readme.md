@@ -785,7 +785,7 @@
 * threw `THRAOU`
 * myself `PHAO*EUS`
 * passed `PAFD`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * night; `TPHAOEUT STPH*FPLT`
 * God `TKPWO*D`
 * knows `TPHOEZ`

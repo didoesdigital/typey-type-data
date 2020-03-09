@@ -601,7 +601,7 @@
 * exactly `ELG`
 * our `OUR`
 * How `KPA/HOU`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * is!" `S SKHRAPL KR-GS`
 * drink `TKREU`
 * sat `SAT`

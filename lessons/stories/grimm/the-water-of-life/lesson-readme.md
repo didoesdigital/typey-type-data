@@ -542,7 +542,7 @@
 * together, `TOGT KW-BG`
 * waste `WAEFT`
 * war `WAR`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * famine, `TPAPL/-PB KW-BG`
 * feared `TPAOERD`
 * want. `WAPBT TP-PL`

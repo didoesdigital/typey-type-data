@@ -435,7 +435,7 @@
 * dust-bin `TKUFT H-PB PWEUPB`
 * moment `PHOEPLT`
 * doorway, `TKAOR/WAEU KW-BG`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * weather. `WHR* TP-PL`
 * Then `KPA/THEPB`
 * postman `POEFT/PHAPB`

@@ -227,7 +227,7 @@
 * who `WHO`
 * sits `SEUTS`
 * this `TH`
-* dreadful; `TKRED/*FL STPH*FPLT`
+* dreadful; `TKRED/-FL STPH*FPLT`
 * tower, `TOUR KW-BG`
 * mind `PHAOEUPBD`
 * him. `HEUPL TP-PL`

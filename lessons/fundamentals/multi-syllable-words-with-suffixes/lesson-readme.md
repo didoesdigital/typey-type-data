@@ -69,6 +69,7 @@
 * becoming `PW-BG/-G`
 * singing `SEUPBG/-G`
 * literary `HREUT/REU`
+* dreadful `TKRED/-FL`
 * attitude `AT/TAOUD`
 * admiration `AD/PHEUR/AEUGS`
 * curiosity `KAOURS/TEU`

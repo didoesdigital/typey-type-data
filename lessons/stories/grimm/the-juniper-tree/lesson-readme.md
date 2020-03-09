@@ -319,7 +319,7 @@
 * wicked `WEUBGD`
 * look. `HRAOBG TP-PL`
 * 'how `AE HOU`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * look! `HRAOBG SKHRAPL`
 * Yes, `KPA/KWRE KW-BG`
 * kill `KEUL`

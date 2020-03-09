@@ -1214,7 +1214,7 @@
 * watch-house `WAFP H-PB HOUS`
 * dog." `TKOG TP-PL KR-GS`
 * was, `WAS KW-BG`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * trouble. `TRUBL TP-PL`
 * know `TPHOE`
 * whether `WHR`

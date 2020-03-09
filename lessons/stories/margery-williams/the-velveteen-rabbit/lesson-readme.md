@@ -712,7 +712,7 @@
 * so. `SO TP-PL`
 * "Can `KR-GS KPA/K`
 * legs?" `HREGS H-F KR-GS`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * question, `KWE KW-BG`
 * legs `HREGS`
 * all! `AUL SKHRAPL`

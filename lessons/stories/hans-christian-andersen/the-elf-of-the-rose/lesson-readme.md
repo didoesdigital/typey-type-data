@@ -656,7 +656,7 @@
 * spears. `SPAOERZ TP-PL`
 * themselves `TH*EPLS`
 * sleeper, `SHRAOEP/*ER KW-BG`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * dreams `TKRAOEPLS`
 * across `A/KROS`
 * pricked `PREUBGD`

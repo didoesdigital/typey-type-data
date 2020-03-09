@@ -28,7 +28,7 @@
 * language. `HRAPBL TP-PL`
 * "What `KR-GS KPA/WHA`
 * a `AEU`
-* buzzing `PWUDZ/-G`
+* buzzing `PWUZ/-G`
 * and `SKP`
 * rumbling `RUPL/-BLG`
 * there `THR`

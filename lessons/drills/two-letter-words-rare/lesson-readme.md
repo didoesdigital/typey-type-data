@@ -13,7 +13,7 @@
 * bo `PWO*`
 * bi `PW*/*EU`
 * de `TK*E`
-* ed `ED`
+* ed `HRO*ER/ED`
 * ef `*EF`
 * el `EL`
 * 'em `AOE/EPL`

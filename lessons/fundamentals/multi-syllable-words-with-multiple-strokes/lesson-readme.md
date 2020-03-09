@@ -180,6 +180,7 @@
 * Israel `EUZ/RAEL`
 * disappeared `TKEUS/PAOERD`
 * interrupted `EUPBT/RUPTD`
+* dreadful `TKRED/-FL`
 * accustomed `A/KUFPD`
 * temper `TEPL/PER`
 * avoid `A/SROEUD`

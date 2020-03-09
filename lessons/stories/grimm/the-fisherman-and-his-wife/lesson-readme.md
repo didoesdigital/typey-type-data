@@ -551,7 +551,7 @@
 * south `SOUT`
 * red, `RED KW-BG`
 * if `TP`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * storm `STORPL`
 * rising. `RAOEUFG TP-PL`
 * At `KPA/AT`

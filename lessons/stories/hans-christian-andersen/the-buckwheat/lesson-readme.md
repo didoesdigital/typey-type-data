@@ -275,7 +275,7 @@
 * were `WR`
 * flames. `TPHRAEUPLS TP-PL`
 * When `KPA/WHEPB`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * passed, `PAFD KW-BG`
 * raised `RA*EUFD`
 * drooping `TKRAOPG`

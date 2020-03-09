@@ -1923,7 +1923,7 @@
 * interrupted `EUPBT/RUPTD`
 * stock `STOBG`
 * readers `RAERDZ`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * female `TPAEL`
 * protect `PREBGT`
 * accustomed `A/KUFPD`
@@ -2142,7 +2142,7 @@
 * wet `WET`
 * cloud `KHROUD`
 * mystery `PHOEUFRT`
-* ed `ED`
+* Ed `ED`
 * waste `WAEFT`
 * changes `KHAEUPBGS`
 * possess `PESZ`

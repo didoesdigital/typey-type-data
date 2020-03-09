@@ -407,7 +407,7 @@
 * Am `KPA/APL`
 * emperor? `EPL/ROR H-F`
 * indeed `TPHAOEPBD`
-* dreadful `TKRED/*FL`
+* dreadful `TKRED/-FL`
 * thing `THEUPBG`
 * happen `HAP`
 * me." `PHE TP-PL KR-GS`

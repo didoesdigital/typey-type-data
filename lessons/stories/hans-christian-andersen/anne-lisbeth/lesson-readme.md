@@ -820,7 +820,7 @@
 * alarmed `A/HRARPLD`
 * remember `RER`
 * dreamed, `TKREPLD KW-BG`
-* dreadful. `TKRED/*FL TP-PL`
+* dreadful. `TKRED/-FL TP-PL`
 * They `KPA/THE`
 * drank `TKRA*PBG`
 * their `THAEUR`
