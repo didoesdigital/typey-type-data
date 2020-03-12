@@ -422,7 +422,7 @@
 * bed, `PWED KW-BG`
 * couldn't `KOPBT`
 * find `TPEUPBD`
-* china `KWHRAOEUPB`
+* china `KHAOEUPB/A`
 * dog `TKOG`
 * slept `SHREPT`
 * hurry, `HUR/REU KW-BG`

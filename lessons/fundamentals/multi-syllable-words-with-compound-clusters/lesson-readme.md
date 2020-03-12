@@ -74,6 +74,7 @@
 * voyage `SROEUPBLG`
 * strongly `STROPBLG`
 * suggestion `SUGS`
+* reference `REFRPBS`
 * majority `PHORPBLG`
 * occasionally `KWAEULGS`
 * eagerly `AOERLG`

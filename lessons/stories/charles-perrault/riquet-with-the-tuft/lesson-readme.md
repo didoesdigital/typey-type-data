@@ -263,7 +263,7 @@
 * place `PHRAEUS`
 * four `TPOUR`
 * pieces `PAOEFS`
-* china `KWHRAOEUPB`
+* china `KHAOEUPB/A`
 * mantlepiece, `xxx mantlepiece KW-BG`
 * without `WOUT`
 * breaking `PWRAEG`

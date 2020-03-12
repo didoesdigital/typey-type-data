@@ -1212,7 +1212,7 @@
 * child. `KHAOEULD TP-PL`
 * Chinese," `KHAOEUPB/AOEZ KW-BG KR-GS`
 * appeared `A/PAOERD`
-* china `KWHRAOEUPB`
+* china `KHAOEUPB/A`
 * bowl, `PWOEL KW-BG`
 * pointed `POEUPBTD`
 * bridges, `PWREUPBLGS KW-BG`

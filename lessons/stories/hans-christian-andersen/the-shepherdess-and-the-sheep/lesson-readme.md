@@ -122,7 +122,7 @@
 * pretty `PREUT`
 * shepherdess `SHEP/ERD/*ES`
 * made `PHAED`
-* china. `KWHRAOEUPB TP-PL`
+* china. `KHAOEUPB/A TP-PL`
 * Her `KPA/HER`
 * shoes `SHAOUS`
 * gilt, `TKPW*EULT KW-BG`
@@ -153,7 +153,7 @@
 * neat `TPHAOET`
 * any `TPHEU`
 * other `OER`
-* china `KWHRAOEUPB`
+* china `KHAOEUPB/A`
 * figure; `TPEUG STPH*FPLT`
 * only `OEPBL`
 * represented `REPD`
@@ -197,7 +197,7 @@
 * suited, `SAOUTD KW-BG`
 * same `SAEUPL`
 * sort `SORT`
-* china, `KWHRAOEUPB KW-BG`
+* china, `KHAOEUPB/A KW-BG`
 * equally `KWAEL`
 * fragile. `TPRAPBLG/*L TP-PL`
 * another `TPHOER`

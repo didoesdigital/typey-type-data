@@ -568,7 +568,7 @@
 * belonged `PWHROPBGD`
 * men `PHEPB`
 * living, `HREUFG KW-BG`
-* China, `KWHRAOEUPB KW-BG`
+* China, `KHOEUPB KW-BG`
 * Greenland, `TKPWRAOEPB/HRA*PBD KW-BG`
 * parts `PARTS`
 * world. `WORLD TP-PL`

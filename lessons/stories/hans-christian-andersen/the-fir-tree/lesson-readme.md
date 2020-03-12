@@ -513,7 +513,7 @@
 * great `TKPWRAET`
 * stove `STOF`
 * stood `STAOD`
-* china `KWHRAOEUPB`
+* china `KHAOEUPB/A`
 * vases, `SRAEUS/-S KW-BG`
 * lions `HRAOEU/O*PBS`
 * lids. `HREUDZ TP-PL`

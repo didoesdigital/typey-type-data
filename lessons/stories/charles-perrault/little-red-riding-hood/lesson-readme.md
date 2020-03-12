@@ -247,7 +247,7 @@
 * cold, `KOELD KW-BG`
 * hoarse, `HAORS KW-BG`
 * answered: `AEPBS/-D STPH-FPLT`
-* "'Tis `KW-GS/AE/T*P/*EU/S*`
+* "'Tis `KW-GS/AE/KPA*/TEUS`
 * your `KWROUR`
 * mamma `PHAPL/PHA`
 * sends `SEPBDZ`

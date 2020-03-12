@@ -1,7 +1,7 @@
 # The Nightingale
 
 * In `KPA/TPH`
-* China, `KWHRAOEUPB KW-BG`
+* China, `KHOEUPB KW-BG`
 * you `U`
 * know, `TPHOE KW-BG`
 * the `-T`
@@ -718,7 +718,7 @@
 * piece `PAOES`
 * ribbon, `REUB/O*PB KW-BG`
 * Emperor `KPA/EPL/ROR`
-* China's `KWHRAOEUPB AES`
+* China's `KHOEUPB AES`
 * compared `KPARD`
 * Japan's." `SKWRA/PAPB AE S* TP-PL KR-GS`
 * "This `KR-GS KPA/TH`

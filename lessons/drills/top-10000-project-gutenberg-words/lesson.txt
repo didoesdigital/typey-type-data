@@ -2286,7 +2286,7 @@ Top 10000 Project Gutenberg words
 'concluded': KAUPB/KHRAOUD/-D
 ''tis': TEUS
 'farm': TPARPL
-'reference': REFPBS
+'reference': REFRPBS
 'Chinese': KHAOEUPB/AOEZ
 'exist': KPEUFT
 'corn': KORPB
@@ -2301,7 +2301,7 @@ Top 10000 Project Gutenberg words
 'measures': PH-RBS
 'towns': TOUPBS
 'flame': TPHRAEUPL
-'Boston': POS/TO*PB
+'Boston': PWOS/TOPB
 'dared': TKAEURD
 'ignorance': EUG/RAPBS
 'reduced': RAOUFD
@@ -2309,7 +2309,7 @@ Top 10000 Project Gutenberg words
 'y': KWR*
 'weakness': WAEBG/-PBS
 'furnished': TPURPB/EURBD
-'china': KWHRAOEUPB
+'China': KHOEUPB
 'priests': PRAOEFT/-S
 'flying': TPHRAOEUG
 'cloth': KHRO*T
