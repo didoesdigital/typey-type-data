@@ -657,7 +657,7 @@
 * acted `ABGD`
 * here, `HAOER KW-BG`
 * once `WUPBS`
-* honour `HO*URPB`
+* honour `HO*URPB/A*U`
 * glory `TKPWHROER`
 * hung `HUPBG`
 * passage `PAFPBLG`
@@ -1085,7 +1085,7 @@
 * families `TPAEPLS`
 * country, `KREU KW-BG`
 * untouched `UPB/TUFPD`
-* honour; `HO*URPB STPH*FPLT`
+* honour; `HO*URPB/A*U STPH*FPLT`
 * just, `SKWRUFT KW-BG`
 * one's `W*UPBS`
 * duty `TKAOUT`

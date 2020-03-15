@@ -45,7 +45,7 @@
 * carries `KAERS`
 * up `UP`
 * to `TO`
-* Almighty, `A*L/PHAOEUT/KWREU KW-BG`
+* Almighty, `KPA/AL/PHAOEUT/KWREU KW-BG`
 * that `THA`
 * they `THE`
 * may `PHAE`
@@ -58,7 +58,7 @@
 * on `OPB`
 * earth. `*ERT TP-PL`
 * And `AFPBD`
-* Almighty `A*L/PHAOEUT/KWREU`
+* Almighty `KPA/AL/PHAOEUT/KWREU`
 * presses `PRES/-S`
 * flowers `TPHRO*URS`
 * His `KPA/HEUS`

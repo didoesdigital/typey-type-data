@@ -480,7 +480,7 @@
 * Queen), `KWAO*EPB PR*EPB KW-BG`
 * governesses, `TKPWO*FRPBS/-S KW-BG`
 * maids `PHAEUDZ`
-* honour, `HO*URPB KW-BG`
+* honour, `HO*URPB/A*U KW-BG`
 * ladies `HRAEUDZ`
 * bedchamber, `PWED/TK-LS/KHAEURPL/KW-BG`
 * gentlemen, `SKWR*EPL KW-BG`
@@ -661,7 +661,7 @@
 * adventure; `SREPBG STPH*FPLT`
 * pushed `PURBD`
 * love `HRUF`
-* honour `HO*URPB`
+* honour `HO*URPB/A*U`
 * resolved `RO*FLD`
 * moment `PHOEPLT`
 * look `HRAOBG`

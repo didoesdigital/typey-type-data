@@ -2164,7 +2164,7 @@
 * impossibility `EUPL/POBLT`
 * Lydia `HREUD/KWRA`
 * ravine `RA/SRAOEPB`
-* accommodation `ABG/TKAEUGS`
+* accommodation `A/KOPL/TKAEUGS`
 * boyish `PWOEU/EURB`
 * theological `THOLG/K-L`
 * injurious `SKWREUR/OUS`
@@ -3151,7 +3151,7 @@
 * inhabitant `HAB/TAPBT`
 * Ishmael `EURB/PHAEL`
 * calendar `KAL/TKAR`
-* inaccessible `EUPB/SESZ/-BL`
+* inaccessible `EUPB/ABG/SES/-BL`
 * repulsive `RE/PULS/EUF`
 * nomination `TPHOPL/TPHAEUGS`
 * conclusive `KAUPB/KHRAOUS/EUF`

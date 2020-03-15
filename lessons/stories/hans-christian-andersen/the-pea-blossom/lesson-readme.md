@@ -30,7 +30,7 @@
 * conclusion. `KHRAO*UGS TP-PL`
 * The `KPA/-T`
 * grew, `TKPWRAOU KW-BG`
-* accommodated `ABG/TKAEUTD`
+* accommodated `AEU/KOPL/TKAEUT/-D`
 * themselves `TH*EPLS`
 * to `TO`
 * their `THAEUR`

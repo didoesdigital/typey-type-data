@@ -860,7 +860,7 @@
 * impossibility `EUPL/POBLT`
 * territories `TERTS`
 * Geoffrey `SKWR*EF/REU`
-* accommodation `ABG/TKAEUGS`
+* accommodation `A/KOPL/TKAEUGS`
 * formally `TPORPL/HREU`
 * umbrella `UPL/PWHRAEL`
 * thrilling `THREULG`
@@ -1112,7 +1112,7 @@
 * paddle `PAD/*L`
 * innate `EUPB/TPHAEUT`
 * volley `SROL/HREU`
-* inaccessible `EUPB/SESZ/-BL`
+* inaccessible `EUPB/ABG/SES/-BL`
 * trillion `TROEUPB`
 * uppermost `UP/ER/PHOEFT`
 * pallor `PAL/HROR`

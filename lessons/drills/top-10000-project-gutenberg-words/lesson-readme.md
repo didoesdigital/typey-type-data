@@ -845,7 +845,7 @@
 * considerable `KR-BL`
 * c `KR*`
 * broke `PWROEBG`
-* honour `HO*URPB`
+* honour `HO*URPB/A*U`
 * seven `SEFPB`
 * private `PRAOEUFT`
 * sit `SEUT`
@@ -4596,7 +4596,7 @@
 * twisted `TWEUFTD`
 * discuss `SKUS`
 * firing `TPAOEURG`
-* background `B*K`
+* background `PW-GD`
 * subscribe `SUB/SKRAOEUB`
 * tenderly `TERPBD/HREU`
 * transcribe `TREUB`
@@ -5230,7 +5230,7 @@
 * pathetic `PA/THET/EUBG`
 * imperfect `EUPL/PER`
 * haughty `HAU/TEU`
-* navy `TPHAEF`
+* Navy `TPHA*EF`
 * fortress `TPORT/RES`
 * hurrying `HUR/REU/-G`
 * X `KP*P`
@@ -7380,7 +7380,7 @@
 * ravine `RA/SRAOEPB`
 * Geoffrey `SKWR*EF/REU`
 * Blanche `PWHRA*FRPB`
-* accommodation `ABG/TKAEUGS`
+* accommodation `A/KOPL/TKAEUGS`
 * boyish `PWOEU/EURB`
 * spray `SPRAEU`
 * theological `THOLG/K-L`
@@ -9427,7 +9427,7 @@
 * clump `KHRUFRP`
 * calendar `KAL/TKAR`
 * flute `TPHRAOUT`
-* inaccessible `EUPB/SESZ/-BL`
+* inaccessible `EUPB/ABG/SES/-BL`
 * yore `KWROER`
 * jay `SKWRAEU`
 * repulsive `RE/PULS/EUF`

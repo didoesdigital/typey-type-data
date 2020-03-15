@@ -507,7 +507,7 @@
 * saying, `SAEUG KW-BG`
 * pass `PAS`
 * near `TPHAOER`
-* honour `HO*URPB`
+* honour `HO*URPB/A*U`
 * paying `PAEUG`
 * respects `R-PTS`
 * him. `HEUPL TP-PL`

@@ -26,7 +26,7 @@
 * she is `SHES`
 * she's `SHAOES`
 * he `HE`
-* he is `HES`
+* he is `HE/S`
 * he's `HAOES`
 * her `HER`
 * hers `HERS`

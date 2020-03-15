@@ -879,7 +879,7 @@
 * shameful `SHAEUPL/-FL`
 * valet `SRAL/ET`
 * Lydia `HREUD/KWRA`
-* accommodation `ABG/TKAEUGS`
+* accommodation `A/KOPL/TKAEUGS`
 * boyish `PWOEU/EURB`
 * theological `THOLG/K-L`
 * injurious `SKWREUR/OUS`

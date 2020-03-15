@@ -586,6 +586,7 @@
 * enduring `EPB/TKAOURG`
 * proclaim `PRO/KHRAEUPL`
 * impossibility `EUPL/POBLT`
+* accommodation `A/KOPL/TKAEUGS`
 * discontinue `TKEUS/T-PB`
 * disturbing `TKEUS/TURBG`
 * abyss `A/PWEUS`
@@ -830,7 +831,7 @@
 * unchanged `UPB/KHAEUPBG/-D`
 * unfamiliar `UPB/TPAPL`
 * innate `EUPB/TPHAEUT`
-* inaccessible `EUPB/SESZ/-BL`
+* inaccessible `EUPB/ABG/SES/-BL`
 * repulsive `RE/PULS/EUF`
 * conclusive `KAUPB/KHRAOUS/EUF`
 * inconceivable `EUPB/KOPB/SAOEFBL`

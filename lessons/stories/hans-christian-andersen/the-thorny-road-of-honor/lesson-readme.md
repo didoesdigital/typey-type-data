@@ -788,7 +788,7 @@
 * gentle `SKWR*EPBLT`
 * thoughts—on `THAUTS EPL/TKA*RB OPB`
 * nightly `TPHAOEUT/HREU`
-* background, `B*K KW-BG`
+* background, `PW-GD KW-BG`
 * gleaming `TKPWHRAOEPL/-G`
 * pictures, `P*EUFPS KW-BG`
 * does `TKOS`

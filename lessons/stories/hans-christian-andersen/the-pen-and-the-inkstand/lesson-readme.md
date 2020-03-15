@@ -327,7 +327,7 @@
 * general,—we `SKWREPBL KW-BG EPL/TKA*RB WE`
 * it; `T STPH*FPLT`
 * instruments `STRAOUPLTS`
-* Almighty `A*L/PHAOEUT/KWREU`
+* Almighty `KPA/AL/PHAOEUT/KWREU`
 * uses; `AOUSZ STPH*FPLT`
 * Him `KPA/HEUPL`
 * alone `A/HROEPB`

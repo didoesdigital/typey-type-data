@@ -17,15 +17,15 @@
 * everyone's `EFRPB/AES`
 * he `HE`
 * he has `HEZ`
-* he is `HES`
-* he would `H*ELD`
+* he is `HE/S`
+* he would `HE/WO`
 * he'd `HAOED`
 * he's `HAOES`
 * individual `SREUD`
 * individual's `SREUD AES`
 * it `T`
 * it has `T-Z`
-* it is `ST*`
+* it is `T/S`
 * it would `T-LD`
 * it'd `T*D`
 * it's `T-S`
@@ -54,7 +54,7 @@
 * that's `THATS`
 * they `THE`
 * they are `THE/R`
-* they have `STHRE`
+* they have `THE/S-R`
 * they would `THELD`
 * they'd `THED`
 * they're `THER`
@@ -62,7 +62,7 @@
 * what `WHA`
 * what'd `WHATD`
 * who `WHO`
-* who are `WHRO`
+* who are `WHO/R`
 * who has `WHO*Z`
 * who would `WHOLD`
 * who'd `WHO*D`

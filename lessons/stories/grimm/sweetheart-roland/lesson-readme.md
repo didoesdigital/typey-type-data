@@ -532,7 +532,7 @@
 * girls `TKPWEURLS`
 * present `PREPBT`
 * sing `SEUPBG`
-* honour `HO*URPB`
+* honour `HO*URPB/A*U`
 * bridal `PWRAOEU/TKAL`
 * pair. `PAEUR TP-PL`
 * this, `TH KW-BG`

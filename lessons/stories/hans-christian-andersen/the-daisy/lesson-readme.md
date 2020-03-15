@@ -277,7 +277,7 @@
 * surely `SHURL`
 * witnessed `W-PBS/-D`
 * pleasure `PHRERB`
-* honour `HO*URPB`
+* honour `HO*URPB/A*U`
 * done `TKOPB`
 * understood `*URPBD`
 * joy. `SKWROEU TP-PL`

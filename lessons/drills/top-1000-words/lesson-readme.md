@@ -845,7 +845,7 @@
 * considerable `KR-BL`
 * c `KR*`
 * broke `PWROEBG`
-* honour `HO*URPB`
+* honour `HO*URPB/A*U`
 * seven `SEFPB`
 * private `PRAOEUFT`
 * sit `SEUT`

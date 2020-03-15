@@ -299,7 +299,7 @@
 * aye `AO*EU`
 * babble `PWABL`
 * babe `PWAEUB`
-* background `B*K`
+* background `PW-GD`
 * backup `PWA*UP`
 * bacteria `PWAOERBT`
 * bacterial `PWAOERL`
@@ -1791,7 +1791,6 @@
 * dent `TKEPBT`
 * dental `TKEPBL`
 * dentistry `STKREU`
-* dentists `STKEUFTS`
 * deny `TKOEUPB`
 * depart `TKPART`
 * department `TK-PT`

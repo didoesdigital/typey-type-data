@@ -579,7 +579,7 @@
 * happy `HAEP`
 * children `KHEURPB`
 * presence `PREPBS`
-* Almighty. `A*L/PHAOEUT/KWREU TP-PL`
+* Almighty. `KPA/AL/PHAOEUT/KWREU TP-PL`
 * fain `TPA*EUPB`
 * now; `TPHOU STPH*FPLT`
 * me `PHE`
