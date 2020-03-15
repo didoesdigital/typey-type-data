@@ -69,7 +69,7 @@
 * lords `HRORDZ`
 * ladies, `HRAEUDZ KW-BG`
 * successive `SUBG/SES/EUF`
-* generations `SKWREPB/RAEGS/-S`
+* generations `SKWREPB/RAEUGS/-S`
 * dwelt `TKWELT`
 * there; `THR STPH*FPLT`
 * now `TPHOU`
@@ -485,7 +485,7 @@
 * flew `TPHRAOU`
 * its `EUTS`
 * nest `TPHEFT`
-* destroyed; `TKROEUD STPH*FPLT`
+* destroyed; `STKROEUD STPH*FPLT`
 * birds `PWEURDZ`
 * became `PWAEUPL`
 * homeless, `HOEPL/-LS KW-BG`
@@ -693,7 +693,7 @@
 * pretty `PREUT`
 * birds' `PWEURDZ AE`
 * nests `TPHEFT/-S`
-* destroyed `TKROEUD`
+* destroyed `STKROEUD`
 * ones `WUPBZ`
 * home; `HOEPL STPH*FPLT`
 * sake `SAEUBG`
@@ -1012,7 +1012,7 @@
 * walls; `WAULS STPH*FPLT`
 * chests `KHEFT/-S`
 * drawers `TKRAURS`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * wherein `WR-PB`
 * clothes `KHRO*ETS`
 * become `PW-BG`
@@ -1111,7 +1111,7 @@
 * begin `TKPWEUPB`
 * repair `RAO*EP`
 * entirely `SPWAOEURL`
-* destroyed, `TKROEUD KW-BG`
+* destroyed, `STKROEUD KW-BG`
 * resolutely `RES/HRAOUT/HREU`
 * completed. `KPHRAOETD TP-PL`
 * ought `OT`

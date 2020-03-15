@@ -327,7 +327,7 @@
 * because `PWAU`
 * it `T`
 * written `WREUPB`
-* language `HRAPBL`
+* language `HRAPBLG`
 * don't `TKOEPBT`
 * understand. `URPBD TP-PL`
 * must `PHUFT`

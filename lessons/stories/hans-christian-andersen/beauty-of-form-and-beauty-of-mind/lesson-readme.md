@@ -523,7 +523,7 @@
 * it?" `T H-F KR-GS`
 * "Whole `KR-GS KPA/WHOEL`
 * cities `STEUS`
-* destroyed," `TKROEUD KW-BG KR-GS`
+* destroyed," `STKROEUD KW-BG KR-GS`
 * replied; `RE/PHRAOEUD STPH*FPLT`
 * "for `KR-GS TPOR`
 * instance, `STPHAPBS KW-BG`

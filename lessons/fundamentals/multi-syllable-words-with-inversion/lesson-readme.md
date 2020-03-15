@@ -18,7 +18,9 @@
 * understanding `URPBGD`
 * absolutely `SHRAOULT`
 * sending `SEPBGD`
+* destroy `STKROEU`
 * partly `PARLT`
+* destroyed `STKROEUD`
 * slightly `SHRAOEULT`
 * disease `TK-Z`
 * universal `AOUFRL`
@@ -76,6 +78,7 @@
 * bursting `PWUFRT/-G`
 * covers `KOFRS`
 * bleeding `PWHRAOEGD`
+* destroying `STKROEUG`
 * dispersed `TKEUS/PEFRD`
 * definitely `TKEFPBLT`
 * binding `PWAOEUPBGD`

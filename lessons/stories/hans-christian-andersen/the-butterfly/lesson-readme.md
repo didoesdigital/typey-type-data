@@ -118,7 +118,7 @@
 * words `WORDZ`
 * in `TPH`
 * own `OEPB`
-* language. `HRAPBL TP-PL`
+* language. `HRAPBLG TP-PL`
 * came `KAEUPL`
 * also `HR-S`
 * Marguerite `PHARG/REUT`

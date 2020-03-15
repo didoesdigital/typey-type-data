@@ -25,7 +25,7 @@
 * for `TPOR`
 * spoke `SPOEBG`
 * lizard `HREUZ/ARD`
-* language. `HRAPBL TP-PL`
+* language. `HRAPBLG TP-PL`
 * "What `KR-GS KPA/WHA`
 * a `AEU`
 * buzzing `PWUZ/-G`

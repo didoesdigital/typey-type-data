@@ -1160,7 +1160,7 @@
 * picked `PEUBGD`
 * fallen `TPAUL/-PB`
 * rose-leaves `ROEZ H-PB HREFS`
-* preserved `PREFBD`
+* preserved `PREFRBD`
 * afar: `A/TPAR STPH-FPLT`
 * mighty `PHAOEUT/KWREU`
 * England, `TKPWHRAEPBD KW-BG`

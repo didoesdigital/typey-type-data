@@ -112,8 +112,8 @@
 * useless `AOUS/-LS`
 * attempted `A/TEPL/-D`
 * hastily `HAEUFT/HREU`
-* generations `SKWREPB/RAEGS/-S`
-* belonging `PWAOE/HROPBG/-G`
+* generations `SKWREPB/RAEUGS/-S`
+* belonging `PWE/HROPBG/-G`
 * masters `PHAFT/ERS`
 * gratitude `TKPWRAT/TAOUD`
 * merry `PHER/REU`

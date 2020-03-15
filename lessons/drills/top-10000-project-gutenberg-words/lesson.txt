@@ -738,7 +738,7 @@ Top 10000 Project Gutenberg words
 'walk': WAUBG
 'stopped': STOPD
 'laughed': HRAFD
-'language': HRAPBL
+'language': HRAPBLG
 'expression': EBGS/PREGS
 'week': WAOEBG
 'hall': HAUL
@@ -1709,7 +1709,7 @@ Top 10000 Project Gutenberg words
 'practical': PRABGT/K-L
 'colour': KHROUR
 'sing': SEUPBG
-'destroy': TKROEU
+'destroy': STKROEU
 'anger': ARPBG
 'distributing': TKR-BG
 'results': RULTS
@@ -1931,7 +1931,7 @@ Top 10000 Project Gutenberg words
 'type': TAOEUP
 'recognized': REFD
 'salt': SALT
-'destroyed': TKROEUD
+'destroyed': STKROEUD
 'signs': SAOEUPBS
 'innocent': TPH-PBT
 'temper': TEPL/PER
@@ -2387,7 +2387,7 @@ Top 10000 Project Gutenberg words
 'managed': PHAPBGD
 'community': KPHUPBT
 'apparent': A/PARPBT
-'preserved': PREFBD
+'preserved': PREFRBD
 'magnificent': PHAFPBT
 'hurry': HUR/REU
 'scheme': SKAOEPL
@@ -2419,7 +2419,7 @@ Top 10000 Project Gutenberg words
 'cries': KRAOEUS
 'noon': TPHAOPB
 'crying': KRAOEUG
-'generations': SKWREPB/RAEGS/-S
+'generations': SKWREPB/RAEUGS/-S
 'located': HROEBGD
 'cabin': KAB/EUPB
 'announcement': TPHOUPLT
@@ -2428,7 +2428,7 @@ Top 10000 Project Gutenberg words
 'handed': HAPBD/-D
 'cease': SAOES
 'smaller': SPHAURL
-'circumstance': SEURB
+'circumstance': SEURBG
 'tent': TEPBT
 'frequent': TPREBG
 'alarm': A/HRARPL
@@ -2443,7 +2443,7 @@ Top 10000 Project Gutenberg words
 'observation': OFGS
 'stronger': STRORPBG
 'recovered': ROFRD
-'belonging': PWAOE/HROPBG/-G
+'belonging': PWE/HROPBG/-G
 'loving': HRUFG
 'masters': PHAFT/ERS
 'writers': WREURS
@@ -2468,7 +2468,7 @@ Top 10000 Project Gutenberg words
 'failure': TPA*EURL
 'links': HR*EUPBGS
 'cent': KREPBT
-'sentiment': SEPT/*PLT
+'sentiment': SEPBT/*PLT
 'amid': A/PHEUD
 'profits': PROFTS
 'agent': AGT
@@ -2559,7 +2559,7 @@ Top 10000 Project Gutenberg words
 'maintain': PHEUPB/TAEUPB
 'sovereign': SOFRPB
 'tail': TAEUL
-'generation': SKWREB/RAEUGS
+'generation': SKWREPB/RAEUGS
 'crowded': KROUD/-D
 'fears': TPAOERZ
 'nights': TPHAOEUTS
@@ -3012,7 +3012,7 @@ Top 10000 Project Gutenberg words
 'ugly': ULG
 'bears': PWAERS
 'signed': SAOEUPBD
-'genuine': SKWREB/WEUPB
+'genuine': SKWREPB/WEUPB
 'harmless': HARPL/-LS
 'mingled': PHEUPBG/-LD
 'obedience': O/PWAOED/KWREPBS
@@ -3887,7 +3887,7 @@ Top 10000 Project Gutenberg words
 'bedroom': PW-PL
 'purely': PAOURL
 'bush': PWURB
-'plunged': PHRUPB/-PBLGD
+'plunged': PHRUPBG/-D
 'thyself': THAOEU/SEFL
 'joint': SKWROEUPBT
 'refer': REFR
@@ -6348,7 +6348,7 @@ Top 10000 Project Gutenberg words
 'patent': PAT/EPBT
 'courtyard': KORT/KWRARD
 'gulf': TKPWUFL
-'destroying': TKROEUG
+'destroying': STKROEUG
 'detailed': TKE/TAEULD
 'regulating': REG/HRAEUGT
 'closet': KHROFT

@@ -62,5 +62,5 @@
 * giving `TKPWEUFG`
 * enemy `EPB/PHEU`
 * means `PHAOEPBS`
-* destroying `TKROEUG`
+* destroying `STKROEUG`
 * themselves. `TH*EPLS TP-PL`

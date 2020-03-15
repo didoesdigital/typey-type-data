@@ -38,7 +38,7 @@
 * lasted `HRAFT/-D`
 * folded `TPOELD/-D`
 * faded `TPAEUD/-D`
-* plunged `PHRUPB/-PBLGD`
+* plunged `PHRUPBG/-D`
 * charms `KHARPL/-S`
 * loaded `HRAOD/-D`
 * clasped `KHRAS/-PD`

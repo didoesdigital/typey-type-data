@@ -679,7 +679,7 @@
 * touched `TUFPD`
 * forest `TPOEFRT`
 * marsh. `PHA*RB TP-PL`
-* preserved `PREFBD`
+* preserved `PREFRBD`
 * popular `PHRA*R`
 * belief, `PWHRAOEF KW-BG`
 * where `W-R`

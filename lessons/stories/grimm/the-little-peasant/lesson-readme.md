@@ -703,7 +703,7 @@
 * sounded `SOUPBD/-D`
 * calling `KAULG`
 * crowd `KROUD`
-* plunged `PHRUPB/-PBLGD`
+* plunged `PHRUPBG/-D`
 * man. `PHAPB TP-PL`
 * entire `SPWAOEUR`
 * dead, `TKED KW-BG`

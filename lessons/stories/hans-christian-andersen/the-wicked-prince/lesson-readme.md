@@ -36,7 +36,7 @@
 * crops `KROPS`
 * in `TPH`
 * fields `TPAOELDZ`
-* destroyed `TKROEUD`
+* destroyed `STKROEUD`
 * peasants' `PEFPBT/-S AE`
 * huts `HUTS`
 * by `PWEU`

@@ -1,7 +1,7 @@
 # Hercules and the Waggoner
 
 * A `KPA/AEU`
-* Waggoner `KPA/WAG/TKPWOPB/*ER`
+* Waggoner `KPA/WAG/TKPWOPB/TK-LS/*ER`
 * was `WAS`
 * once `WUPBS`
 * driving `TKRAOFG`

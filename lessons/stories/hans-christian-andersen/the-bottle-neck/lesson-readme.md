@@ -840,12 +840,12 @@
 * spoken `SPOEPB`
 * country `KREU`
 * understand; `URPBD STPH*FPLT`
-* language `HRAPBL`
+* language `HRAPBLG`
 * heard, `HAERD KW-BG`
 * loss `HROS`
 * able `ABL`
 * understand `URPBD`
-* language. `HRAPBL TP-PL`
+* language. `HRAPBLG TP-PL`
 * fished `TPEURBD`
 * examined `KP-D`
 * sides. `SAOEUDZ TP-PL`
@@ -926,7 +926,7 @@
 * transparent, `TRAEUPBT KW-BG`
 * age; `AEUPBLG STPH*FPLT`
 * faithfully `TPA*EUT/TPHREU`
-* destroyed `TKROEUD`
+* destroyed `STKROEUD`
 * washing. `WARBG TP-PL`
 * seeds, `SAOEDZ KW-BG`
 * though `THOE`

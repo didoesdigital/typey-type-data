@@ -148,7 +148,7 @@
 * given `TKPWEUFPB`
 * power `POUR`
 * understanding `URPBGD`
-* language `HRAPBL`
+* language `HRAPBLG`
 * animals. `PHAPBLS TP-PL`
 * Now `KPA/TPHOU`
 * happened `HAPD`

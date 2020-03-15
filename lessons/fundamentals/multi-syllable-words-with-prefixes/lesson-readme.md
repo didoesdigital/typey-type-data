@@ -98,6 +98,7 @@
 * attempted `A/TEPL/-D`
 * alarm `A/HRARPL`
 * aloud `A/HROUD`
+* belonging `PWE/HROPBG/-G`
 * amid `A/PHEUD`
 * contempt `KAUPB/TEPLT`
 * defective `TKE/TPEF`

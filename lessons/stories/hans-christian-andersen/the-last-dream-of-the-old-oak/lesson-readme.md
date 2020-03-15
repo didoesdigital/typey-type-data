@@ -282,7 +282,7 @@
 * given. `TKPWEUFPB TP-PL`
 * thing `THEUPBG`
 * continued `T-PBD`
-* generations `SKWREPB/RAEGS/-S`
+* generations `SKWREPB/RAEUGS/-S`
 * Ephemera; `KPA/AOE/TPEPL/RA STPH*FPLT`
 * them `THEPL`
 * equally `KWAEL`

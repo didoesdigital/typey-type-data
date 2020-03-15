@@ -944,7 +944,7 @@
 * produced `PRO*UD`
 * pea, `PAE KW-BG`
 * mouse `PHOUS`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * bitten `PWEUT/-PB`
 * first `TPEUFRT`
 * letters `HRERTS`

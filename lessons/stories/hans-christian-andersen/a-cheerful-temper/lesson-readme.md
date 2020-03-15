@@ -613,7 +613,7 @@
 * family. `TPAEPL TP-PL`
 * known `TPHOEPB`
 * yard-cock `KWRARD H-PB KOBG`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * happened `HAPD`
 * crow `KROE`
 * declare `TKE/KHRAR`

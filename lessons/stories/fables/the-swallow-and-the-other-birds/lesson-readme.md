@@ -81,7 +81,7 @@
 * I `EU`
 * tell `TEL`
 * you?" `U H-F KR-GS`
-* Destroy `KPA/TKROEU`
+* Destroy `KPA/STKROEU`
 * evil, `AOEFL KW-BG`
 * it `T`
 * grow `TKPWROE`

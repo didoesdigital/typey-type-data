@@ -738,7 +738,7 @@
 * walk `WAUBG`
 * stopped `STOPD`
 * laughed `HRAFD`
-* language `HRAPBL`
+* language `HRAPBLG`
 * expression `EBGS/PREGS`
 * week `WAOEBG`
 * hall `HAUL`

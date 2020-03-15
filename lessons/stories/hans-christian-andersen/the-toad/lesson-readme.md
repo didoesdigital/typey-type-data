@@ -870,10 +870,10 @@
 * boast `PWOEFT`
 * gifts `TKPWEUFTS`
 * eloquence `EL/KWEPBS`
-* language! `HRAPBL SKHRAPL`
+* language! `HRAPBLG SKHRAPL`
 * Yes, `KPA/KWRE KW-BG`
 * fine `TPAOEUPB`
-* language `HRAPBL`
+* language `HRAPBLG`
 * truly! `TRAOUL SKHRAPL`
 * Why, `KPA/KWR KW-BG`
 * changes `KHAEUPBGS`

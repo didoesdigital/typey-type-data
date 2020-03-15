@@ -268,7 +268,7 @@
 * revealed `RE/SRAOELD`
 * me, `PHE KW-BG`
 * own `OEPB`
-* language, `HRAPBL KW-BG`
+* language, `HRAPBLG KW-BG`
 * why `KWR`
 * dwell `TKWEL`
 * there, `THR KW-BG`

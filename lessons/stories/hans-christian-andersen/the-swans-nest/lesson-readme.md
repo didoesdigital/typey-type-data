@@ -247,7 +247,7 @@
 * come `KOPL`
 * soaring `SAORG`
 * air `AEUR`
-* destroy `TKROEU`
+* destroy `STKROEU`
 * it, `T KW-BG`
 * even `AOEPB`
 * callow `KAL/HROE`

@@ -113,7 +113,7 @@
 * said `SAEUD`
 * 'The `AE KPA/-T`
 * has `HAS`
-* destroyed `TKROEUD`
+* destroyed `STKROEUD`
 * all `AUL`
 * brethren `PWR*ET/REPB`
 * in `TPH`

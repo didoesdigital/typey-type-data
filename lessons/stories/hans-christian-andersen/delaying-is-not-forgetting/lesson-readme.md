@@ -268,7 +268,7 @@
 * world, `WORLD KW-BG`
 * heart, `HART KW-BG`
 * what `WHA`
-* preserved `PREFBD`
+* preserved `PREFRBD`
 * there `THR`
 * forgotten. `TPORGTD TP-PL`
 * Delaying `KPA/TKHRAEUG`

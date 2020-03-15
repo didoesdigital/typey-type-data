@@ -491,7 +491,7 @@
 * hours `HOURS`
 * effects `TPEBGZ`
 * will `HR`
-* destroy `TKROEU`
+* destroy `STKROEU`
 * me. `PHE TP-PL`
 * die! `TKAOEU SKHRAPL`
 * Nothing `KPA/TPHOG`

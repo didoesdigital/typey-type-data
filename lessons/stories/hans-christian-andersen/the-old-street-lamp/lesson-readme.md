@@ -636,7 +636,7 @@
 * others `OERS`
 * half `HAF`
 * enjoyed." `EPB/SKWROEUD TP-PL KR-GS`
-* sentiment `SEPT/*PLT`
+* sentiment `SEPBT/*PLT`
 * does `TKOS`
 * honor," `HO*RPB KW-BG KR-GS`
 * "but `KR-GS PWUT`

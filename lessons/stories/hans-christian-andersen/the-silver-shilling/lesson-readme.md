@@ -266,7 +266,7 @@
 * some `SOPL`
 * moment. `PHOEPLT TP-PL`
 * "That `KR-GS KPA/THA`
-* genuine `SKWREB/WEUPB`
+* genuine `SKWREPB/WEUPB`
 * country,—it `KREU KW-BG EPL/TKA*RB T`
 * false; `TPALS STPH*FPLT`
 * nothing." `TPHOG TP-PL KR-GS`

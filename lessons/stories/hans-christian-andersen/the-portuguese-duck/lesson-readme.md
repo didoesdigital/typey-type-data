@@ -321,7 +321,7 @@
 * certainly `SERPBL`
 * great `TKPWRAET`
 * flow `TPHROE`
-* language," `HRAPBL KW-BG KR-GS`
+* language," `HRAPBLG KW-BG KR-GS`
 * "For `KR-GS KPA/TPOR`
 * part `PART`
 * care `KAEUR`

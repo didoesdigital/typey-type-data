@@ -991,7 +991,7 @@
 * friendly `TPREPBLD`
 * faces. `TPAEUFS TP-PL`
 * addressed `A/TKREFD`
-* language `HRAPBL`
+* language `HRAPBLG`
 * piano `PAPB/TPHOE`
 * melodies `PHEL/TKEU/-S`
 * native `TPHAEUFT`

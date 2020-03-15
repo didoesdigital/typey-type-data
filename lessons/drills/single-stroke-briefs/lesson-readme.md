@@ -1851,8 +1851,8 @@
 * desiring `STKAOEURG`
 * despise `STKPAOEUZ`
 * dessert `STKERT`
-* destroy `TKROEU`
-* destroyer `STROEUR`
+* destroy `STKROEU`
+* destroyer `STKROEUR`
 * destruct `TKRUBGT`
 * destruction `TKRUBGS`
 * destructive `TKR*UF`
@@ -3777,7 +3777,7 @@
 * preservation `PREFRGS`
 * preservative `PREFRBT`
 * preserve `PREFRB`
-* preserved `PREFBD`
+* preserved `PREFRBD`
 * president `PREZ`
 * pressure `PRERB`
 * pressured `PR*ERBD`

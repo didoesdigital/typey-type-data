@@ -30,7 +30,7 @@
 * legs `HREGS`
 * chattered `KHAT/ERD`
 * Egyptian `AOE/SKWREUPGS`
-* language, `HRAPBL KW-BG`
+* language, `HRAPBLG KW-BG`
 * which `WEU`
 * he `HE`
 * had `H`

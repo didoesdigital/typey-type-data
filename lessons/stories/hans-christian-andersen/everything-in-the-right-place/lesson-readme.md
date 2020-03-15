@@ -1080,7 +1080,7 @@
 * pair. `PAEUR TP-PL`
 * An `KPA/APB`
 * Count, `KO*UPBT KW-BG`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * oldest `OELD/EFT`
 * families `TPAEPLS`
 * country, `KREU KW-BG`

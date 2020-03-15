@@ -831,7 +831,7 @@
 * bark `PWARBG`
 * skins, `SKEUPBS KW-BG`
 * sheep `SHAOEP`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * priests, `PRAOEFT/-S KW-BG`
 * peasants, `PEFPBT/-S KW-BG`
 * playfellows `PHRAEU/TK-LS/TPO*EUL/-S`

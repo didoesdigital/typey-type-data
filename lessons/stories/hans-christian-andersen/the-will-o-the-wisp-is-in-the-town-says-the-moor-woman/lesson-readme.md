@@ -309,7 +309,7 @@
 * into `TPHAO`
 * Danish `TKAEUPB/EURB`
 * printed `PREUPBTD`
-* language;" `HRAPBL STPH*FPLT KR-GS`
+* language;" `HRAPBLG STPH*FPLT KR-GS`
 * Danske `xxx Danske`
 * really `R-L`
 * lived, `HREUFD KW-BG`

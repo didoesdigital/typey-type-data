@@ -6,6 +6,7 @@
 * knowledge `TPHOPBLG`
 * single `SEUPBLG`
 * occasion `KWAEUGS`
+* language `HRAPBLG`
 * danger `TKAEUPBLG`
 * simple `S*EUPL`
 * quickly `KWEULG`
@@ -81,6 +82,7 @@
 * division `TKWEUGS`
 * decision `STKEUGS`
 * disposition `TK*EUPGS`
+* preserved `PREFRBD`
 * distinction `TKWEUPBGS`
 * observation `OFGS`
 * preserve `PREFRB`

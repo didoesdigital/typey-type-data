@@ -292,12 +292,12 @@
 * attempted `A/TEPL/-D`
 * centuries `KREPBT/REUS`
 * hastily `HAEUFT/HREU`
-* generations `SKWREPB/RAEGS/-S`
+* generations `SKWREPB/RAEUGS/-S`
 * cabin `KAB/EUPB`
 * Britain `PWREU/TEUPB`
 * alarm `A/HRARPL`
 * aloud `A/HROUD`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * masters `PHAFT/ERS`
 * mortal `PHOR/TAL`
 * gratitude `TKPWRAT/TAOUD`
@@ -322,7 +322,7 @@
 * online `AUPB/HRAOEUPB`
 * Africa `AFR/KA`
 * maintain `PHEUPB/TAEUPB`
-* generation `SKWREB/RAEUGS`
+* generation `SKWREPB/RAEUGS`
 * limitation `HREUPL/TAEUGS`
 * displaying `TKEUS/PHRAEUG`
 * seeking `SAOEBG/-G`
@@ -427,7 +427,7 @@
 * emperor `EPL/ROR`
 * tendency `TEPBD/SEU`
 * earnestly `ERPB/EFT/HREU`
-* genuine `SKWREB/WEUPB`
+* genuine `SKWREPB/WEUPB`
 * harmless `HARPL/-LS`
 * obedience `O/PWAOED/KWREPBS`
 * badly `PWAD/HREU`

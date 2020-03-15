@@ -232,7 +232,7 @@
 * lie `HRAOEU`
 * thousand `THOEUPB`
 * pearls `PERLS`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * king's `KEUPBG/AES`
 * daughter; `TKAUR STPH*FPLT`
 * must `PHUFT`

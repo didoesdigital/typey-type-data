@@ -129,7 +129,7 @@
 * evil `AOEFL`
 * propensities `PRO/PEPBS/TEU/-S`
 * not `TPHOT`
-* destroyed, `TKROEUD KW-BG`
+* destroyed, `STKROEUD KW-BG`
 * nor `TPH-R`
 * fire `TPAOEUR`
 * extinguished, `EBGS/TEUPBG/WEURBD KW-BG`

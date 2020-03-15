@@ -266,7 +266,7 @@
 * afterwards. `A*FRDZ TP-PL`
 * near `TPHAOER`
 * farmyard `TPARPL/KWRARD`
-* belonging `PWAOE/HROPBG/-G`
+* belonging `PWE/HROPBG/-G`
 * count, `KOUPBT KW-BG`
 * pushed `PURBD`
 * knocked `TPHOBGD`

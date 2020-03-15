@@ -72,7 +72,7 @@
 * land `HRAPBD`
 * North; `TPHOERT STPH*FPLT`
 * but `PWUT`
-* generation `SKWREB/RAEUGS`
+* generation `SKWREPB/RAEUGS`
 * after `AF`
 * has `HAS`
 * dust, `TKUFT KW-BG`
@@ -254,7 +254,7 @@
 * if `TP`
 * this `TH`
 * ruin `RAOUPB`
-* genuine. `SKWREB/WEUPB TP-PL`
+* genuine. `SKWREPB/WEUPB TP-PL`
 * Next `KPA/TPHEGT`
 * Greece, `TKPWRAO*ES KW-BG`
 * sleep `SHRAOEP`

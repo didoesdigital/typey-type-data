@@ -726,7 +726,7 @@
 * beings `-BGZ`
 * represent, `REPT KW-BG`
 * frustrate `TPRUS/TRAEUT`
-* destroy." `TKROEU TP-PL KR-GS`
+* destroy." `STKROEU TP-PL KR-GS`
 * well; `WEL STPH*FPLT`
 * glorious `TKPWHRORS`
 * sight `SAOEUT`

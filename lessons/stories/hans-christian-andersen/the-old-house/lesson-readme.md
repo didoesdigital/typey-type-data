@@ -642,7 +642,7 @@
 * them," `THEPL KW-BG KR-GS`
 * face; `TPAEUS STPH*FPLT`
 * brought `PWRAUT`
-* preserved `PREFBD`
+* preserved `PREFRBD`
 * fruits, `TPRAOUTS KW-BG`
 * nuts; `TPHUTS STPH*FPLT`
 * thought `THAUT`

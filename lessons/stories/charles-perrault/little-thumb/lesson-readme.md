@@ -1070,7 +1070,7 @@
 * received `SAOEFD`
 * joy. `SKWROEU TP-PL`
 * agree `TKPWRAE`
-* circumstance, `SEURB KW-BG`
+* circumstance, `SEURBG KW-BG`
 * pretend `PRE/TEPBD`
 * robbed `ROBD`
 * all, `AUL KW-BG`

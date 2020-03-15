@@ -496,7 +496,7 @@
 * sees `SAO*ES`
 * around `ARPBD`
 * understands `URPBDZ`
-* language. `HRAPBL TP-PL`
+* language. `HRAPBLG TP-PL`
 * wind `WEUPBD`
 * roars `RORS`
 * loopholes; `HRAOP/HOEL/-S STPH*FPLT`

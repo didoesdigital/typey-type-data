@@ -119,7 +119,7 @@
 * for `TPOR`
 * paving-stones, `PAEUFG H-PB STOEPBS KW-BG`
 * one `WUPB`
-* preserved `PREFBD`
+* preserved `PREFRBD`
 * whole, `WHOEL KW-BG`
 * courtyard." `KORT/KWRARD TP-PL KR-GS`
 * "Any `KR-GS KPA/TPHEU`
@@ -425,7 +425,7 @@
 * fate `TPAEUT`
 * befell `PWE/TPEL`
 * church, `KHUFRPB KW-BG`
-* destroyed, `TKROEUD KW-BG`
+* destroyed, `STKROEUD KW-BG`
 * Martha, `PHAR/THA KW-BG`
 * everything `EFRG`
 * else, `ELS KW-BG`
@@ -530,7 +530,7 @@
 * go `TKPW`
 * forth `TPO*RT`
 * future `TPAOURT`
-* generations `SKWREPB/RAEGS/-S`
+* generations `SKWREPB/RAEUGS/-S`
 * golden `TKPWOELD/*EPB`
 * characters. `KRARS TP-PL`
 * pair `PAEUR`
