@@ -637,7 +637,7 @@
 * six `SEUBGS`
 * glasses: `TKPWHRAFS STPH-FPLT`
 * "It `KR-GS KPA/T`
-* owing `OU/-G`
+* owing `OE/-G`
 * only, `OEPBL KW-BG`
 * son-in-law." `SOPB H-PB TPH H-PB HRAU TP-PL KR-GS`
 * bows, `PWOE/-S KW-BG`

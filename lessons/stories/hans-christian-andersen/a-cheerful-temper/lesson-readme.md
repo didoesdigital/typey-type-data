@@ -331,7 +331,7 @@
 * upon, `POPB KW-BG`
 * something `S-G`
 * spare; `SPAEUR STPH*FPLT`
-* owing `OU/-G`
+* owing `OE/-G`
 * refined `RE/TPAOEUPBD`
 * tastes `TAEUFTS`
 * least `HRAOEFT`

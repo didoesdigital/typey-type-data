@@ -10,7 +10,7 @@
 * at `AT`
 * the `-T`
 * sheep `SHAOEP`
-* owing `OU/-G`
+* owing `OE/-G`
 * to `TO`
 * vigilance `SREUPBLG/HRAPBS`
 * of `-F`

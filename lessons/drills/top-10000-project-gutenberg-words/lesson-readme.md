@@ -2684,7 +2684,7 @@
 * security `SKURT`
 * cared `KAEURD`
 * sensible `SEPBS/-BL`
-* owing `OU/-G`
+* owing `OE/-G`
 * Martin `PHART/EUPB`
 * Saturday `SAET`
 * cottage `KOT/APBLG`

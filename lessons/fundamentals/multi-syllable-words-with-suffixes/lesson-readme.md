@@ -131,7 +131,7 @@
 * folly `TPOL/HREU`
 * multitude `PHULT/TAOUD`
 * nearest `TPHAOER/EFT`
-* owing `OU/-G`
+* owing `OE/-G`
 * cottage `KOT/APBLG`
 * Francis `TPRAPB/EUS`
 * slightest `SHRAOEUT/EFT`
