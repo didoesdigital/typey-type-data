@@ -241,6 +241,11 @@
       "target": 104
     },
     {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 50
+    },
+    {
       "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
       "lessonTitle": "Longest Words with Single-Stroke Briefs",
       "target": 50
@@ -249,6 +254,11 @@
       "path": "/lessons/drills/top-1000-words/lesson.txt",
       "lessonTitle": "Top 1000 words",
       "target": 1000
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 70
     },
     {
       "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
@@ -261,6 +271,11 @@
       "target": 2000
     },
     {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 90
+    },
+    {
       "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
       "lessonTitle": "Longest Words with Single-Stroke Briefs",
       "target": 70
@@ -269,6 +284,11 @@
       "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
       "lessonTitle": "Top 10000 Project Gutenberg words",
       "target": 3000
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 100
     },
     {
       "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
