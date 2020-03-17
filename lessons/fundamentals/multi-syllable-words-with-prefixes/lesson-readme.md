@@ -108,7 +108,7 @@
 * empire `EPL/PAOEUR`
 * online `AUPB/HRAOEUPB`
 * displaying `TKEUS/PHRAEUG`
-* instinct `EUPB/TEUPBG`
+* instinct `EUPB/STEUPBG`
 * revealed `RE/SRAOELD`
 * interview `EUPBT/SRAOU`
 * prospect `PRO/SPEBGT`

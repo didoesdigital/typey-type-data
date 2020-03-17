@@ -2589,7 +2589,7 @@
 * founded `TPOUPBD/-D`
 * brings `PWREUS`
 * trace `TRAEUS`
-* instinct `EUPB/TEUPBG`
+* instinct `EUPB/STEUPBG`
 * collected `KHREBGD`
 * Scotland `SKOT/HRAPBD`
 * characteristic `KR*EUBG`
