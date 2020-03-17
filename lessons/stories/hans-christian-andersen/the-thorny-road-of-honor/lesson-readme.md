@@ -748,7 +748,7 @@
 * health `H*ELT`
 * strength `STREPBG`
 * clearness—when `KHRAO*ERPBS EPL/TKA*RB WHEPB`
-* discord `TKEUZ/KORD`
+* discord `TKEUS/KORD`
 * converted `KWERTD`
 * harmony—the `HAR/PHOEPB EPL/TKA*RB -T`
 * seem `SAOEPL`

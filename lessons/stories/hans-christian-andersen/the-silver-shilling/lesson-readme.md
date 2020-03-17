@@ -613,7 +613,7 @@
 * hand `HAPBD`
 * hand; `HAPBD STPH*FPLT`
 * abused, `A/PWAOUFD KW-BG`
-* displeasure, `TKEUZ/PHRERB KW-BG`
+* displeasure, `TKEUS/PHRERB KW-BG`
 * trusted `TRUFTD`
 * one; `WUPB STPH*FPLT`
 * confidence `K-F`

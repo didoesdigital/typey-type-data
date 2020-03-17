@@ -1613,7 +1613,7 @@
 * perplexed `PER/PHREBGS/-D`
 * impressive `EUPL/PREF`
 * universally `AOUPB/SRERS/HREU`
-* displeasure `TKEUZ/PHRERB`
+* displeasure `TKEUS/PHRERB`
 * expedient `EBGS/PAOED/KWREPBT`
 * Emma `EPL/PHA`
 * impress `EUPL/PRES`
@@ -2610,7 +2610,7 @@
 * anecdote `APB/EBG/TKOET`
 * scrutiny `SKRAOUT/TPHEU`
 * Burroughs `PWUR/ROES`
-* discord `TKEUZ/KORD`
+* discord `TKEUS/KORD`
 * detain `TKE/TAEUPB`
 * soda `SOED/A`
 * naughty `TPHAU/TEU`
@@ -2619,7 +2619,7 @@
 * Peru `PER/AOU`
 * candid `KAPBD/EUD`
 * blooming `PWHRAOPL/-G`
-* disgraceful `TKEUZ/TKPWRAEUS/-FL`
+* disgraceful `TKEUS/TKPWRAEUS/-FL`
 * redemption `RE/TKEPLS`
 * embassy `EPL/PWAES`
 * unfinished `UPB/TPERPD/EURBD`
