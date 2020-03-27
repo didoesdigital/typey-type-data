@@ -153,7 +153,7 @@
 * tale, `TAEL KW-BG`
 * else `ELS`
 * would `WO`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * heard `HAERD`
 * crying `KRAOEUG`
 * deep `TKAOEP`

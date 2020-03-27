@@ -258,7 +258,7 @@
 * alone `A/HROEPB`
 * live `HREUF`
 * heroes `HOEURS`
-* antiquity. `APB/TUBG/TEU TP-PL`
+* antiquity. `APB/TEUBG/TEU TP-PL`
 * One `KPA/WUPB`
 * picture `P*EUFP`
 * another `TPHOER`
@@ -307,7 +307,7 @@
 * little `HREUL`
 * town `TOUPB`
 * taken `TAEPB`
-* refuge. `RAF/AOUPBLG TP-PL`
+* refuge. `REF/AOUPBLG TP-PL`
 * A `KPA/AEU`
 * poor `PAOR`
 * corpse `KORPS`

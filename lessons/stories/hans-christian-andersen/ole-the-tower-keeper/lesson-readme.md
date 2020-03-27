@@ -287,7 +287,7 @@
 * fragments `TPRAPLTS`
 * oldest `OELD/EFT`
 * remains `RE/PHAEUPBS`
-* antiquity, `APB/TUBG/TEU KW-BG`
+* antiquity, `APB/TEUBG/TEU KW-BG`
 * walks `WAUBGS`
 * ever `-FR`
 * thinking `THEUG`
@@ -1360,7 +1360,7 @@
 * didst `TKEU/*T`
 * thou `THO*U`
 * help!' `HEP SKHRAPL AE`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * Death, `KPA/TK*T KW-BG`
 * looking `HRAOG`
 * monument, `PHOPLT KW-BG`

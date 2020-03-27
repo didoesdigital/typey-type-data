@@ -188,7 +188,7 @@
 * places `PHRAEUFS`
 * fallen `TPAUL/-PB`
 * off, `OF KW-BG`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * all `AUL`
 * sorts `SORTS`
 * scenes `SAOEPBS`

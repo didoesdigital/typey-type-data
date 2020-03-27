@@ -411,7 +411,7 @@
 * flower, `TPHRO*UR KW-BG`
 * growing `TKPWROEG`
 * fields. `TPAOELDZ TP-PL`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * ever `-FR`
 * means `PHAOEPBS`
 * bringing `PWREUG`

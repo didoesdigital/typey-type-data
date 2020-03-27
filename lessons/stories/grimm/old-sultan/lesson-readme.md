@@ -272,7 +272,7 @@
 * about `PW`
 * combed `KOEPLD`
 * locks `HROBGZ`
-* finely. `TPAOEUBL/HREU TP-PL`
+* finely. `TPAOEUPB/HREU TP-PL`
 * angry, `APBG/REU KW-BG`
 * 'an `AE APB`
 * rogue,' `ROEG KW-BG AE`

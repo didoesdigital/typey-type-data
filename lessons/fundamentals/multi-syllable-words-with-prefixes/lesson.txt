@@ -104,6 +104,7 @@ Multi-syllable words with prefixes
 'defective': TKE/TPEF
 'insisted': EUPB/SEUFTD
 'impulse': EUPL/PULS
+'descended': TKE/SEPBD/-D
 'accordingly': A/KORD/TKPWHREU
 'empire': EPL/PAOEUR
 'online': AUPB/HRAOEUPB
@@ -674,7 +675,7 @@ Multi-syllable words with prefixes
 'appalling': A/PAULG
 'profess': PRO/TPES
 'imminent': EUPL/TPHEPBT
-'regain': RE/TKPWAEUP
+'regain': RE/TKPWAEUPB
 'apprehend': A/PREPBD
 'amiss': A/PHEUS
 'deputy': TKE/PAOUT
@@ -718,13 +719,13 @@ Multi-syllable words with prefixes
 'disgraceful': TKEUS/TKPWRAEUS/-FL
 'redemption': RE/TKEPLS
 'embassy': EPL/PWAES
-'unfinished': UPB/TPERPD/EURBD
+'unfinished': UPB/TP*EURBD
 'impetuous': EUPL/PET/WOUS
 'abound': A/PWOUPBD
 'provoke': PRO/SROEBG
 'reside': RE/SAOEUD
 'apparel': A/PAEURL
-'invent': EUPB/SREPT
+'invent': EUPB/SREPBT
 'avowed': A/SROUD
 'define': TKE/TPAOEUPB
 'overcoat': AUFR/KOET
@@ -775,7 +776,7 @@ Multi-syllable words with prefixes
 'unnoticed': UPB/TPH-TS/-D
 'insults': EUPB/SULTS
 'inspiring': EUPB/SPAOEURG
-'impracticable': EUPL/PRABGT/-BL
+'impracticable': EUPL/PRABGT/EUBG/-BL
 'ingratitude': EUPB/TKPWAT/TAOUD
 'bewilderment': PWE/WEULD/ERPLT
 'redeem': RE/TKAOEPL
@@ -785,7 +786,7 @@ Multi-syllable words with prefixes
 'befell': PWE/TPEL
 'outlook': AOUT/HRAOBG
 'unmarried': UPB/PHAEUR/EUD
-'installed': EUPB/STAEUL
+'installed': EUPB/STAULD
 'resent': RE/SEPBT
 'unintelligible': UPB/EUPB/TEL/SKWREUBL
 'emphatic': EPL/TPAT/EUBG
@@ -799,7 +800,7 @@ Multi-syllable words with prefixes
 'unfair': UPB/TPAEUR
 'encampment': EPB/KAPL/P-PLT
 'absorbing': AB/SORB/-G
-'descendant': TKE/SEPBT/APBT
+'descendant': TKE/SEPBD/APBT
 'emblem': EPL/PWHREPL
 'epistle': AOE/PEUFL
 'overlook': AUFR/HRAOBG
@@ -877,7 +878,7 @@ Multi-syllable words with prefixes
 'abstain': AB/STAEUPB
 'empress': EPL/PRES
 'retort': RE/TORT
-'emerge': AOE/PHERPBG
+'emerge': AOE/PHERPBLG
 'unarmed': UPB/ARPLD
 'unscrupulous': UPB/KRAOUP/HROUS
 'outrageous': AOUT/RAEUGS

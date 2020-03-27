@@ -262,7 +262,7 @@
 * things, `THEUPBGS KW-BG`
 * performed `PORPLD`
 * household `HOUS/HOLD`
-* duties. `TKAOUT/KWREU/-S TP-PL`
+* duties. `TKAOUT/-S TP-PL`
 * "Thou `KR-GS KPA/THO*U`
 * shalt `SHALT`
 * Sabbath `SAB/A*T`

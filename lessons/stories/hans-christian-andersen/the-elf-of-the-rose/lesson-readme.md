@@ -172,7 +172,7 @@
 * overgrown `AUFR/TKPWROEPB`
 * with `W`
 * honey-suckles. `HUPB/KWREU H-PB SUBG/-LS TP-PL`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * looked `HRAOBGD`
 * like `HRAOEUBG`
 * large `HRARPBLG`

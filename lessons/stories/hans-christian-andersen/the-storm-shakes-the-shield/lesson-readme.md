@@ -376,7 +376,7 @@
 * painted `PAEUPBTD`
 * butter, `PWAOURT KW-BG`
 * herring, `HER/-G KW-BG`
-* clerical `KRER/K-L`
+* clerical `KHRER/K-L`
 * collars, `KOL/ARS KW-BG`
 * coffins, `KOFPB/-S KW-BG`
 * inscriptions `EUPB/KREUPGS/-S`

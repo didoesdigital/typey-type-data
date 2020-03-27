@@ -382,7 +382,7 @@
 * fairest `TPAEUR/EFT`
 * roses. `ROES/-S TP-PL`
 * Great `KPA/TKPWRAET`
-* lilies `HREUL/KWREU/KWREU/-S`
+* lilies `HREUL/KWREU/-S`
 * green `TKPWRAOEPB`
 * juicy `SKWRAOU/SEU`
 * leaves `HREFS`
@@ -721,7 +721,7 @@
 * waters `WAURS`
 * ran `RAPB`
 * splashing `SPHRARBG`
-* dolphin's `TKOL/TPEUP AES`
+* dolphin's `TKOL/TPEUPB AES`
 * jaws `SKWRAUS`
 * basins, `PWAS/SEUPB/-S KW-BG`
 * snowy `STPHOE/WEU`
@@ -1071,7 +1071,7 @@
 * dreamer. `TKRAOEPL/*ER TP-PL`
 * Man `KPA/PHAPB`
 * belongs `PWHROPBGS`
-* fancy." `TPAPB/SEU TP-PL KR-GS`
+* fancy." `TPAEPBS TP-PL KR-GS`
 * With `KPA/W`
 * songs `SOPBGS`
 * sounding `SOUPBD/-G`
@@ -1132,7 +1132,7 @@
 * blinding `PWHRAOEUPBD/-G`
 * sight, `SAOEUT KW-BG`
 * astray `AS/TRAEU`
-* fancy; `TPAPB/SEU STPH*FPLT`
+* fancy; `TPAEPBS STPH*FPLT`
 * firework `TPAOEUR/WO*RBG`
 * senses `SEPBS/-S`
 * out, `OUT KW-BG`
@@ -1454,7 +1454,7 @@
 * were, `WR KW-BG`
 * quitted, `KW*/*U/*EU/T*/T*/*E/TK* KW-BG`
 * only `OEPBL`
-* fancy, `TPAPB/SEU KW-BG`
+* fancy, `TPAEPBS KW-BG`
 * clouds, `KHROUDZ KW-BG`
 * misty `PH*EUS/TEU`
 * distant `STKAPBT`

@@ -50,7 +50,7 @@
 * tea `TAE`
 * from `TPR`
 * elder-tree `ELD/ER H-PB TRAOE`
-* blossoms, `PWROS/SOPL/-S KW-BG`
+* blossoms, `PWHROS/SOPL/-S KW-BG`
 * which `WEU`
 * is `S`
 * so `SO`
@@ -199,7 +199,7 @@
 * soon?" `SAOPB H-F KR-GS`
 * smiled `SPHAOEULD`
 * while `WHAOEUL`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * into `TPHAO`
 * poured `PORD`
 * boiling `PWOEULG`
@@ -734,7 +734,7 @@
 * marked `PHARBGD`
 * garden `TKPWA*RPB`
 * ground; `TKPWROUPBD STPH*FPLT`
-* elder-blossoms `ELD/ER H-PB PWROS/SOPL/-S`
+* elder-blossoms `ELD/ER H-PB PWHROS/SOPL/-S`
 * hair `HAEUR`
 * planted `PHRAPBT/-D`
 * exactly `ELG`

@@ -380,7 +380,7 @@
 * her `HER`
 * bosom, `PWUZ/OPL KW-BG`
 * its `EUTS`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * pure `PAOUR`
 * than `THAPB`
 * heart `HART`
@@ -583,7 +583,7 @@
 * clever `KHREFR`
 * amusing `A/PHAOUFG`
 * easy `EZ`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * people `PAOEPL`
 * those `THOZ`
 * days, `TKAEUS KW-BG`

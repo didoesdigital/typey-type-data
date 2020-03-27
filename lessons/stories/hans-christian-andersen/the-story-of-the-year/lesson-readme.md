@@ -657,7 +657,7 @@
 * contain. `TAEUPB TP-PL`
 * Eagerly `KPA/AOERLG`
 * showered `SHOURD`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * apple `A*EPL`
 * peach-trees, `PAEFP H-PB TRAOES KW-BG`
 * beauty `PWAOUT`
@@ -1172,7 +1172,7 @@
 * seed. `SAOED TP-PL`
 * Learn `KPA/HRERPB`
 * endure `EPB/TKAOUR`
-* worshipped `WOR/SH-P/-D`
+* worshipped `WOR/SH-P/P-D`
 * whilst `WHAOEULS`
 * thou `THO*U`
 * art `ART`

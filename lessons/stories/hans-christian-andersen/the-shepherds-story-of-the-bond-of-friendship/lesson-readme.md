@@ -716,7 +716,7 @@
 * sit `SEUT`
 * Delphi, `TKEL/TPAOEU KW-BG`
 * begun `TKPWUPB`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * suddenly `SULD`
 * splash `SPHRARB`
 * water—Anastasia `WAUR EPL/TKA*RB APB/STAEUS/KWRA`

@@ -508,7 +508,7 @@
 * removed, `RE/PHOFD KW-BG`
 * hall, `HAUL KW-BG`
 * wide-spreading `WAOEUD H-PB SPREGD`
-* dimensions, `TKPHEPGS/-S KW-BG`
+* dimensions, `TKPHEPBGS/-S KW-BG`
 * subdued `SAUB/TKAOUD`
 * light, `HRAOEUT KW-BG`
 * twilight, `TWAOEULGT KW-BG`
@@ -692,7 +692,7 @@
 * its `EUTS`
 * immortal `EUPL/PHORT/A*L`
 * flight; `TPHRAOEUT STPH*FPLT`
-* duties `TKAOUT/KWREU/-S`
+* duties `TKAOUT/-S`
 * living `HREUFG`
 * offered `OFRD`
 * prayer, `PRAEUR KW-BG`

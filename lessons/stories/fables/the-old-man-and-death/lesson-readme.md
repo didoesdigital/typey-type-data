@@ -21,7 +21,7 @@
 * grew `TKPWRAOU`
 * so `SO`
 * tired `TAOEURD`
-* hopeless `POEP/-LS`
+* hopeless `HOEP/-LS`
 * that `THA`
 * threw `THRAOU`
 * down `TKOUPB`

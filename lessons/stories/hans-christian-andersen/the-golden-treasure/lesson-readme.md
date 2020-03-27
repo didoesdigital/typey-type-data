@@ -428,7 +428,7 @@
 * treasure!" `TRERB SKHRAPL KR-GS`
 * wept; `WEPT STPH*FPLT`
 * father `TPAER`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * "famous;" `KR-GS TPAEUPLS STPH*FPLT KR-GS`
 * opinion `P-PB`
 * ought `OT`

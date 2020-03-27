@@ -397,7 +397,7 @@
 * darkly, `TKARPBLG/HREU KW-BG`
 * gloomily, `TKPWHRAOPL/HREU KW-BG`
 * almost `HR-PL`
-* angrily `APBL/REU/HREU`
+* angrily `APBG/REU/HREU`
 * spring, `SPREUPBG KW-BG`
 * twittering `HRO*ER/TWEUT/*ERG`
 * birds, `PWEURDZ KW-BG`
@@ -439,7 +439,7 @@
 * tower. `TOUR TP-PL`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * sings `SEUPBGS`
-* finely-fringed `TPAOEUBL/HREU H-PB TPREUPB/-PBLGD`
+* finely-fringed `TPAOEUPB/HREU H-PB TPREUPB/-PBLGD`
 * beech-leaves, `PWAOEFP H-PB HREFS KW-BG`
 * looking `HRAOG`
 * blooming `PWHRAOPL/-G`

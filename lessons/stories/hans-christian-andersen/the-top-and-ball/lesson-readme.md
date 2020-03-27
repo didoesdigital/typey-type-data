@@ -263,7 +263,7 @@
 * her, `HER KW-BG`
 * beautiful `PWAOUFL`
 * seemed `SAOEPLD`
-* fancy. `TPAPB/SEU TP-PL`
+* fancy. `TPAEPBS TP-PL`
 * Thus `KPA/THUS`
 * several `SEFRL`
 * years `KWRAOERS`

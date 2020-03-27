@@ -685,7 +685,7 @@
 * between `TWAOEPB`
 * men, `PHEPB KW-BG`
 * why `KWR`
-* angrily `APBL/REU/HREU`
+* angrily `APBG/REU/HREU`
 * another. `TPHOER TP-PL`
 * stick, `STEUBG KW-BG`
 * strike `STRAOEUBG`

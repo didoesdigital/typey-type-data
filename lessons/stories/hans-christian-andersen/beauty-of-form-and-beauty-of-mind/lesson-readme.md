@@ -101,7 +101,7 @@
 * watchman `WAFP/PHAPB`
 * might `PHAOEUT`
 * easily `AOELS`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * giving `TKPWEUFG`
 * also, `HR-S KW-BG`
 * there `THR`

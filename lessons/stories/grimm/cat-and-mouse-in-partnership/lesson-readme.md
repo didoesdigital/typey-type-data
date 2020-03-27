@@ -336,7 +336,7 @@
 * coat `KOET`
 * tail, `TAEUL KW-BG`
 * filled `TPEULD`
-* fancies, `TPAPB/SEU/KWREU/-S KW-BG`
+* fancies, `TPAPB/SEU/-S KW-BG`
 * that's `THATS`
 * because `PWAU`
 * daytime.' `TKAEUPLT TP-PL AE`

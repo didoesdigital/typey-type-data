@@ -290,7 +290,7 @@
 * married." `PHAERD TP-PL KR-GS`
 * Far `KPA/TPAR`
 * number `TPHUPL`
-* water-lilies, `WAUR H-PB HREUL/KWREU/KWREU/-S KW-BG`
+* water-lilies, `WAUR H-PB HREUL/KWREU/-S KW-BG`
 * seemed `SAOEPLD`
 * float `TPHROET`
 * top `TOP`
@@ -880,7 +880,7 @@
 * swallow; `SWO*EUL STPH*FPLT`
 * nicely `TPHAOEULS`
 * warmed, `WARPLD KW-BG`
-* regain `RE/TKPWAEUP`
+* regain `RE/TKPWAEUPB`
 * strength, `STREPBG KW-BG`
 * able `ABL`
 * sunshine." `SUPB/SHAO*EUPB TP-PL KR-GS`
@@ -1128,7 +1128,7 @@
 * fragrant `TPRAEUG/RAPBT`
 * myrtles `PHEURT/*L/-S`
 * orange `ORPBG`
-* blossoms. `PWROS/SOPL/-S TP-PL`
+* blossoms. `PWHROS/SOPL/-S TP-PL`
 * Beautiful `KPA/PWAOUFL`
 * ran `RAPB`
 * along `HRAOPBG`

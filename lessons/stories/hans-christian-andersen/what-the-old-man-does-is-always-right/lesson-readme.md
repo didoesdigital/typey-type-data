@@ -619,7 +619,7 @@
 * bargain; `PWARG/AEUPB STPH*FPLT`
 * pile `PAOEUL`
 * measure, `PH*ERB KW-BG`
-* fancy." `TPAPB/SEU TP-PL KR-GS`
+* fancy." `TPAEPBS TP-PL KR-GS`
 * "Done! `KR-GS KPA/TKOPB SKHRAPL`
 * taken!" `TAEPB SKHRAPL KR-GS`
 * landlord's `HR-LD AES`

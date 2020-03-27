@@ -146,7 +146,7 @@
 * were `WR`
 * more `PHOR`
 * that `THA`
-* descended `TKAOE/SEPBD/-D`
+* descended `TKE/SEPBD/-D`
 * family `TPAEPL`
 * came `KAEUPL`
 * foreign `TPOERPB`

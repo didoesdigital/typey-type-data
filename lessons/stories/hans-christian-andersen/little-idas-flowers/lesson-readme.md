@@ -125,7 +125,7 @@
 * student, `STAUPB KW-BG`
 * "little `KR-GS HREUL`
 * daisies `TKAEUS/KWREU/-S`
-* lilies `HREUL/KWREU/KWREU/-S`
+* lilies `HREUL/KWREU/-S`
 * valley." `SRAL/KWREU TP-PL KR-GS`
 * "Where `KR-GS KPA/W-R`
 * beautiful `PWAOUFL`
@@ -224,7 +224,7 @@
 * young `KWRUPBG`
 * ladies. `HRAEUDZ TP-PL`
 * tulips `TAOU/HREUPS`
-* tiger-lilies `TAOEURG H-PB HREUL/KWREU/KWREU/-S`
+* tiger-lilies `TAOEURG H-PB HREUL/KWREU/-S`
 * old `OLD`
 * sit `SEUT`
 * watch `WAFP`
@@ -466,7 +466,7 @@
 * nonsense `TPHOPB/SEPBS`
 * head! `HED SKHRAPL`
 * absurd `AB/SURD`
-* fancies `TPAPB/SEU/KWREU/-S`
+* fancies `TPAPB/SEU/-S`
 * are!" `R SKHRAPL KR-GS`
 * stories `STOERS`
 * told `TOLD`
@@ -736,7 +736,7 @@
 * things `THEUPBGS`
 * head? `HED H-F`
 * foolish `TPAOL/EURB`
-* fancies;" `TPAPB/SEU/KWREU/-S STPH*FPLT KR-GS`
+* fancies;" `TPAPB/SEU/-S STPH*FPLT KR-GS`
 * exactly `ELG`
 * hat, `HAT KW-BG`
 * cross `KROS`

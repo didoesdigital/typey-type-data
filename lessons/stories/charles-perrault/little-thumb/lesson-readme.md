@@ -1022,7 +1022,7 @@
 * gently, `SKWREPBT/HREU KW-BG`
 * legs. `HREGS TP-PL`
 * large; `HRARPBLG STPH*FPLT`
-* Fairies, `KPA/TPAEUR/REU/KWREU/-S KW-BG`
+* Fairies, `KPA/TPAEUR/REU/-S KW-BG`
 * gift `TKPWEUFT`
 * becoming `PW-BG/-G`
 * big `PWEUG`

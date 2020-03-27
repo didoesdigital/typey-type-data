@@ -430,7 +430,7 @@
 * sorry `SOER`
 * done, `TKOPB KW-BG`
 * sat `SAT`
-* angrily `APBL/REU/HREU`
+* angrily `APBG/REU/HREU`
 * sulkily `xxx sulkily`
 * chimney `KHEUPL/TPHEU`
 * corner. `KRORPB TP-PL`

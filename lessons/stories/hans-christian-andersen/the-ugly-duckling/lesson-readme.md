@@ -900,7 +900,7 @@
 * else `ELS`
 * do, `TKORBGS`
 * foolish `TPAOL/EURB`
-* fancies. `TPAPB/SEU/KWREU/-S TP-PL`
+* fancies. `TPAPB/SEU/-S TP-PL`
 * If `KPA/TP`
 * purr `P*UR`
 * pass `PAS`

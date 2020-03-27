@@ -573,7 +573,7 @@
 * received `SAOEFD`
 * stand `STAPBD`
 * door. `TKAOR TP-PL`
-* installed `EUPB/STAEUL`
+* installed `EUPB/STAULD`
 * real `RAEL`
 * cook. `KAOBG TP-PL`
 * All `KPA/AUL`
@@ -627,7 +627,7 @@
 * gurgling `TKPWURG/-LG`
 * one, `WUPB KW-BG`
 * might `PHAOEUT`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * themselves `TH*EPLS`
 * nightingales. `TPHAOEUT/-G/TKPWAEL/-S TP-PL`
 * footmen `TPAOT/PH*EPB`

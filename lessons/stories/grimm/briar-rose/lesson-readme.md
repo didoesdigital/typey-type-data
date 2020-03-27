@@ -19,7 +19,7 @@
 * were `WR`
 * those `THOZ`
 * days `TKAEUS`
-* fairies. `TPAEUR/REU/KWREU/-S TP-PL`
+* fairies. `TPAEUR/REU/-S TP-PL`
 * Now `KPA/TPHOU`
 * this `TH`
 * had `H`
@@ -146,7 +146,7 @@
 * nobles, `TPHOEBLS KW-BG`
 * friends, `TPREPBDZ KW-BG`
 * neighbours. `TPHAEUBS/A*U TP-PL`
-* fairies `TPAEUR/REU/KWREU/-S`
+* fairies `TPAEUR/REU/-S`
 * also, `HR-S KW-BG`
 * might `PHAOEUT`
 * kind `KEUPBD`
@@ -236,7 +236,7 @@
 * dead.' `TKED TP-PL AE`
 * twelfth `TWEFLT`
 * friendly `TPREPBLD`
-* fairies, `TPAEUR/REU/KWREU/-S KW-BG`
+* fairies, `TPAEUR/REU/-S KW-BG`
 * who `WHO`
 * yet `KWRET`
 * given `TKPWEUFPB`

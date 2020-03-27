@@ -125,7 +125,7 @@
 * branches `PWRAFRPBS`
 * thickly `THEUBG/HREU`
 * intertwined, `EUPBT/TWAOEUPBD KW-BG`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * began `TKPWAPB`
 * fall. `TPAUL TP-PL`
 * Once `KPA/WUPBS`

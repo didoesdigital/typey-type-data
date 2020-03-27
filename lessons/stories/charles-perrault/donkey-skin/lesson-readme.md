@@ -198,7 +198,7 @@
 * consort; `KOPB/SORT STPH*FPLT`
 * invoked `EUPB/SROEBGD`
 * gods `TKPWODZ`
-* Fairies `KPA/TPAEUR/REU/KWREU/-S`
+* Fairies `KPA/TPAEUR/REU/-S`
 * vain. `SRA*EUPB TP-PL`
 * Queen, `KWAO*EPB KW-BG`
 * feeling `TPAOELG`
@@ -1415,7 +1415,7 @@
 * thank `THAPBG`
 * ceiling `KAOELG`
 * opened, `OEPD KW-BG`
-* descended `TKAOE/SEPBD/-D`
+* descended `TKE/SEPBD/-D`
 * chariot `KHAEUR/KWROT`
 * branches `PWRAFRPBS`
 * charm, `KHARPL KW-BG`

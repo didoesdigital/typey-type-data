@@ -378,7 +378,7 @@
 * graceful `TKPWRAEUS/-FL`
 * limbs `HREUPLS`
 * move; `PHOF STPH*FPLT`
-* dolphins `TKOL/TPEUP/-S`
+* dolphins `TKOL/TPEUPB/-S`
 * sprang `SPRAPBG`
 * her `HER`
 * feet, `TPAOET KW-BG`
@@ -1186,7 +1186,7 @@
 * how `HOU`
 * end? `EPBD H-F`
 * All `KPA/AUL`
-* fancies `TPAPB/SEU/KWREU/-S`
+* fancies `TPAPB/SEU/-S`
 * flight; `TPHRAOEUT STPH*FPLT`
 * once `WUPBS`
 * more, `PHOR KW-BG`

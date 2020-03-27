@@ -1403,7 +1403,7 @@
 * brain, `PWRAEUPB KW-BG`
 * bear `PWAER`
 * much; `PHUFP STPH*FPLT`
-* fancies `TPAPB/SEU/KWREU/-S`
+* fancies `TPAPB/SEU/-S`
 * terrible," `TERBL KW-BG KR-GS`
 * cried `KRAOEUD`
 * "is `KR-GS S`

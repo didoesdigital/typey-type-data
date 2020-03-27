@@ -86,7 +86,7 @@
 * characters `KRARS`
 * whom `WHOPL`
 * people `PAOEPL`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * they `THE`
 * have `SR`
 * known `TPHOEPB`

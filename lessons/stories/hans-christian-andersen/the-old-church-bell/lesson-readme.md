@@ -522,7 +522,7 @@
 * better `PWOERT`
 * together `TOGT`
 * position `POGS`
-* duties `TKAOUT/KWREU/-S`
+* duties `TKAOUT/-S`
 * are `R`
 * understood. `*URPBD TP-PL`
 * pressure `PRERB`

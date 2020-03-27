@@ -1154,7 +1154,7 @@ Top 10000 Project Gutenberg words
 'bill': PWEUL
 'vast': SRAFT
 'prove': PROF
-'fancy': TPAPB/SEU
+'fancy': TPAEPBS
 'quick': KWEUBG
 'yes': KWRE
 'sought': SAUT
@@ -1529,7 +1529,7 @@ Top 10000 Project Gutenberg words
 'god's': TKPWOD/AES
 'imagine': PHAPBLG
 'wore': WOR
-'duties': TKAOUT/KWREU/-S
+'duties': TKAOUT/-S
 'admitted': AD/PHEUTD
 'countries': KUPBTS
 'pocket': POBGT
@@ -1706,7 +1706,7 @@ Top 10000 Project Gutenberg words
 'doors': TKAORS
 'concerned': K-RPBD
 'deeply': TKAO*EPL
-'practical': PRABGT/K-L
+'practical': PRABGT
 'colour': KHROUR
 'sing': SEUPBG
 'destroy': STKROEU
@@ -2518,7 +2518,7 @@ Top 10000 Project Gutenberg words
 'ideal': KWR-L
 'schools': SKAOLS
 'confirmed': K-FRPL/-D
-'descended': TKAOE/SEPBD/-D
+'descended': TKE/SEPBD/-D
 'rush': RURB
 'falls': TPAULS
 'deny': TKOEUPB
@@ -2694,7 +2694,7 @@ Top 10000 Project Gutenberg words
 'Joe': SKWROE
 'settle': SELT
 'referred': REFRD
-'Francis': TPRAPB/EUS
+'Francis': TPRAPBS/EUS
 'holder': HOERLD
 'involved': SROLD
 'sunshine': SUPB/SHAO*EUPB
@@ -3051,7 +3051,7 @@ Top 10000 Project Gutenberg words
 'newspaper': TPHUP
 'employment': PHROEUPLT
 'fitted': TPEUTD
-'refuge': RAF/AOUPBLG
+'refuge': REF/AOUPBLG
 'misfortune': PHEUS/TPOR/TAOUPB
 'providence': PROF/TKEPBS
 'owns': OEPBS
@@ -3395,7 +3395,7 @@ Top 10000 Project Gutenberg words
 'Papa': PA/PA
 'gas': TKPWAS
 'inevitable': TPHEF/-BL
-'extensive': STEPBS/EUF
+'extensive': EBGS/TEPBS/EUF
 'leisure': HR*ERB
 'deadly': TKED/HREU
 'chin': KHEUPB
@@ -3759,7 +3759,7 @@ Top 10000 Project Gutenberg words
 'vital': SRAO*EULT
 'sink': S*EUPBG
 'Pacific': PAFBG
-'hopeless': POEP/-LS
+'hopeless': HOEP/-LS
 'dangers': TKAEURPBGS
 'gratefully': TKPWRAET/TPHREU
 'president': PREZ
@@ -4437,7 +4437,7 @@ Top 10000 Project Gutenberg words
 'replace': RE/PHRAEUS
 'saint': SAEUPBT
 'districts': TKREUBGTS
-'deliberately': TKREUB/RAT/HREU
+'deliberately': TKHREUB/RAT/HREU
 'awe': AU
 'beforehand': PW-FRPBD
 'strife': STRAOEUF
@@ -4833,7 +4833,7 @@ Top 10000 Project Gutenberg words
 'entertain': EPBT/TAEUPB
 'madame': PHA/TKAPL
 'sir': SEUR
-'faculties': TPABG/UT/KWREU/-S
+'faculties': TPABG/ULT/-S
 'hesitate': HES/TAEUT
 'deepest': TKAOEP/EFT
 'seventeen': STPAOEPB
@@ -4992,7 +4992,7 @@ Top 10000 Project Gutenberg words
 'supposing': SPOEFG
 'subsequently': SWEPBT/HREU
 'attending': A/TEPBD/-G
-'angrily': APBL/REU/HREU
+'angrily': APBG/REU/HREU
 'select': SHREBGT
 'animated': APB/PHAEUT/-D
 'industrial': STREUL
@@ -5126,10 +5126,10 @@ Top 10000 Project Gutenberg words
 'glances': TKPWHRAPBS/-S
 'diamonds': TKAOEUPLDZ
 'goal': TKPWOEL
-'representations': REP/TAEUGS/-S
+'representations': REPT/TAEUGS/-S
 'cash': KARB
 'vacant': SRAEUBGT
-'antiquity': APB/TUBG/TEU
+'antiquity': APB/TEUBG/TEU
 'despise': STKPAOEUZ
 'lawn': HRAUPB
 'they'll': THEL
@@ -5210,13 +5210,13 @@ Top 10000 Project Gutenberg words
 'tricks': TREUBGS
 'rubbed': RUBD
 'apparatus': AP/RATS
-'mysteries': PHOEUFRT/KWREU/-S
+'mysteries': PHOEUFRT/-S
 'honesty': HOPBS/TEU
 'negroes': TPHAOE/TKPWROE/-S
 'concerns': K-RPBS
 'wander': WAERPBD
 'assert': A/SERT
-'ceremonies': SER/PHOEP/-S
+'ceremonies': SER/PHOEPB/-S
 'sacrificed': SARBG/TPAOEUFD
 'utterance': UT/RAPBS
 'dismay': TKEUS/PHAEU
@@ -5525,7 +5525,7 @@ Top 10000 Project Gutenberg words
 'evenings': AOEPBGS
 'wax': WABGS
 'detective': TK-BGT
-'fancies': TPAPB/SEU/KWREU/-S
+'fancies': TPAPB/SEU/-S
 'spoiled': SPOEULD
 'revolver': SROFR
 'Murray': PHUR/REU
@@ -6007,7 +6007,7 @@ Top 10000 Project Gutenberg words
 'executive': SKAOUF
 'seemingly': SAOEPLG/HREU
 'tenth': TA*EPBT
-'blossoms': PWROS/SOPL/-S
+'blossoms': PWHROS/SOPL/-S
 'Ethel': *ET/EL
 'folds': TPOLDZ
 'painfully': PAEUFL/HREU
@@ -6065,7 +6065,7 @@ Top 10000 Project Gutenberg words
 'springing': SPREUPBG/-G
 'cane': KAEUPB
 'fold': TPOELD
-'boundary': PWOUBD/REU
+'boundary': PWOUPBD/AER
 'valued': SRAOULD
 'she'll': SHAOEL
 'rugged': RUGD
@@ -6079,7 +6079,7 @@ Top 10000 Project Gutenberg words
 'Moore': PHAOR
 'argue': ARG
 'dearly': TKAERL
-'logic': HROPBL/EUBG
+'logic': HROPBLG/EUBG
 'panic': PA*PBG
 'restrained': RAOE/STRAEUPBD
 'lb': HR*/PW*
@@ -6204,7 +6204,7 @@ Top 10000 Project Gutenberg words
 'impress': EUPL/PRES
 'bees': PWAOES
 'bounded': PWOUPBD/-D
-'worshipped': WOR/SH-P/-D
+'worshipped': WOR/SH-P/P-D
 'resisted': RE/SEUFT/-D
 'provincial': PRO/SREUPBL
 'popularity': PHRA*RT
@@ -6538,7 +6538,7 @@ Top 10000 Project Gutenberg words
 'keeper': KAOEP/*ER
 'homeward': HOEPL/WARD
 'Alexandria': KPARPBD
-'finely': TPAOEUBL/HREU
+'finely': TPAOEUPB/HREU
 'li': HR*/SKWREU
 'efficiency': AOERB
 'marvel': PHAFRL
@@ -6783,7 +6783,7 @@ Top 10000 Project Gutenberg words
 'anon': A/TPHOPB
 'ascribed': A/SKRAOEUBD
 'insane': STPHAEUPB
-'tropical': PROP/K-L
+'tropical': TROP/K-L
 '8th': 8/*T
 'Milan': PHEUL/A*PB
 'hardened': HARD/-PBD
@@ -6800,7 +6800,7 @@ Top 10000 Project Gutenberg words
 'turf': T*UFR
 'Poland': PO/HRAPBD
 'dame': TKAEUPL
-'missionaries': PHEUGS/REU/KWREU/-S
+'missionaries': PHEUGS/REU/-S
 'orator': AUR/TOR
 'perpetually': PER/PET/WAEL
 'arbitrary': ARB/TRAER
@@ -6834,7 +6834,7 @@ Top 10000 Project Gutenberg words
 'pleading': PHRAOEGD
 'disdain': TKEUS/TKAEUPB
 'pm': P*/PH*
-'sympathies': SEUPL/THEU/KWREU/-S
+'sympathies': SEUPL/THEU/-S
 'guides': TKPWAOEUDZ
 'emergency': PH-PBLG
 'parcel': PAR/SEL
@@ -7174,7 +7174,7 @@ Top 10000 Project Gutenberg words
 'shivering': SH*EUFR/-G
 'accidental': STKEPBL
 'thickness': THEUBG/-PBS
-'Darwin': TKAR/WEUP
+'Darwin': TKAR/WEUPB
 'continuance': T-PB/WAPBS
 'fixing': TPEUBGS/-G
 'Harris': HA*EURS
@@ -7302,7 +7302,7 @@ Top 10000 Project Gutenberg words
 'inconvenience': EUPB/SRAOEPBS
 'V': SR*P
 'pots': POTS
-'dimensions': TKPHEPGS/-S
+'dimensions': TKPHEPBGS/-S
 'abused': A/PWAOUFD
 'armor': AR/PHOR
 'detect': TKEBGT
@@ -7841,7 +7841,7 @@ Top 10000 Project Gutenberg words
 'deliberation': TKHREUBGS
 'filthy': TPEUL/THEU
 'AK': A*P/K*P
-'notifies': TPHOEUF/KWREU/-S
+'notifies': TPHOEUF/-S
 'dealings': TKAOELGS
 'demonstrated': TKEPL/STRAEUTD
 'paced': PAEUS/-D
@@ -8082,7 +8082,7 @@ Top 10000 Project Gutenberg words
 'ducks': TKUBGZ
 'diary': TKAOEU/REU
 'duchess': TKUFP/ES
-'regain': RE/TKPWAEUP
+'regain': RE/TKPWAEUPB
 'rum': RUPL
 'churchyard': KH*URPBLG/KWRARD
 'fondness': TPOPBD/-PBS
@@ -8345,7 +8345,7 @@ Top 10000 Project Gutenberg words
 'wage': WAEUPBLG
 'Cooper': KAORP
 'embassy': EPL/PWAES
-'unfinished': UPB/TPERPD/EURBD
+'unfinished': UPB/TP*EURBD
 'nasty': TPHAS/TEU
 'impetuous': EUPL/PET/WOUS
 'cemetery': SEPLT/REU
@@ -8373,7 +8373,7 @@ Top 10000 Project Gutenberg words
 'hazel': HAEUZ/EL
 'inability': TPHABLT
 'farthest': TPA*RT/EFT
-'invent': EUPB/SREPT
+'invent': EUPB/SREPBT
 'knave': TPHA*EUF
 'twain': TWAEUPB
 'carelessness': KAEURLS/-PBS
@@ -8455,7 +8455,7 @@ Top 10000 Project Gutenberg words
 'exaggeration': KPAPBLG/RAEUGS
 'mi': PH*/*EU
 'shepherds': SHEP/ERDZ
-'lilies': HREUL/KWREU/KWREU/-S
+'lilies': HREUL/KWREU/-S
 'ballad': PWAL/HRAD
 'befall': PWE/TPAUL
 'cylinder': SEUL/TKER
@@ -8491,7 +8491,7 @@ Top 10000 Project Gutenberg words
 'blindness': PWHRAOEUPBD/-PBS
 'systematic': SPHA*EBG
 'virtually': SREUR/WAEL
-'conformity': K-FRPL/TEU
+'conformity': KORPL/TEU
 'remedies': REPL/TKEUS
 'maxim': PHABG/SEUPL
 'indexes': EUPB/TKEBGS/-S
@@ -8859,7 +8859,7 @@ Top 10000 Project Gutenberg words
 'click': KHREUBG
 'inspiring': EUPB/SPAOEURG
 'oval': OEFL
-'impracticable': EUPL/PRABGT/-BL
+'impracticable': EUPL/PRABGT/EUBG/-BL
 'delirium': TKHRAOERPL
 'cedar': SE/TKAR
 'contradict': KR*BGT
@@ -8924,7 +8924,7 @@ Top 10000 Project Gutenberg words
 'smitten': SPHEUT/*EPB
 'unmarried': UPB/PHAEUR/EUD
 'mice': PHAOEUS
-'installed': EUPB/STAEUL
+'installed': EUPB/STAULD
 'vivacity': SREU/SRAS/TEU
 'marking': PHARBG/-G
 'aesthetic': STHET/EUBG
@@ -8959,7 +8959,7 @@ Top 10000 Project Gutenberg words
 'manifestly': PHAPB/TPEFT/HREU
 'Marco': PHAR/KOE
 'battalion': PWA/TAL/KWROPB
-'heritage': HAR/TAPBLG
+'heritage': HER/TAPBLG
 'brotherhood': PWROER/HAOD
 'nun': TPHUPB
 'wad': WAD
@@ -8978,7 +8978,7 @@ Top 10000 Project Gutenberg words
 'erroneous': ROEPB/KWROUS
 'violated': SROEULT/-D
 'withheld': WHELD
-'fairies': TPAEUR/REU/KWREU/-S
+'fairies': TPAEUR/REU/-S
 'inherit': EUPB/HERT
 'sledge': SHREPBLG
 'taller': TAURL
@@ -9019,13 +9019,13 @@ Top 10000 Project Gutenberg words
 'encampment': EPB/KAPL/P-PLT
 'possessor': PESZ/SOR
 'absorbing': AB/SORB/-G
-'descendant': TKE/SEPBT/APBT
+'descendant': TKE/SEPBD/APBT
 'sub': SUB
 'drugs': TKRUGS
 'engineers': EPBG/TPHAOERS
 'independently': P*EPBLT
 'bucket': PWUBGT
-'clerical': KRER/K-L
+'clerical': KHRER/K-L
 'ache': AEUBG
 'glitter': TKPWHREUT
 'ordinance': ORPBS
@@ -9757,7 +9757,7 @@ Top 10000 Project Gutenberg words
 'disregarded': TKEUD/RARD/-D
 'retort': RE/TORT
 'rocking': ROBG/-G
-'emerge': AOE/PHERPBG
+'emerge': AOE/PHERPBLG
 'perch': PEFRPB
 'flask': TPHRAFBG
 'KA': KA/KWRA

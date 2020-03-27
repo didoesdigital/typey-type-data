@@ -312,7 +312,7 @@
 * Soon `KPA/SAOPB`
 * after, `AF KW-BG`
 * fell `TPEL`
-* extensive `STEPBS/EUF`
+* extensive `EBGS/TEPBS/EUF`
 * lawn, `HRAUPB KW-BG`
 * time `TAOEUPL`
 * pretended `PRE/TEPBD/-D`
@@ -953,7 +953,7 @@
 * last, `HRAFT KW-BG`
 * merrily `PHER/HREU`
 * called, `KAULD KW-BG`
-* angrily, `APBL/REU/HREU KW-BG`
+* angrily, `APBG/REU/HREU KW-BG`
 * hastened `HAEUS/-PBD`
 * obey, `O/PWAEU KW-BG`
 * ran `RAPB`

@@ -643,7 +643,7 @@
 * himself; `H*EUPLS STPH*FPLT`
 * performers, `PORPL/*ER/-S KW-BG`
 * tragedians `TRA/TKPWAOED/KWRAPB/-S`
-* comedians, `KPHAOED/KWRAB/-S KW-BG`
+* comedians, `KPHAOED/KWRAPB/-S KW-BG`
 * singers `SEURPBGS`
 * dancers, `TKAPBS/ERS KW-BG`
 * rascally `RAS/K-L/HREU`

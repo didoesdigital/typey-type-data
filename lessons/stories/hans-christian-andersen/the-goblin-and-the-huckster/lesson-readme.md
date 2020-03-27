@@ -161,7 +161,7 @@
 * are `R`
 * clever `KHREFR`
 * man; `PHAPB STPH*FPLT`
-* practical `PRABGT/K-L`
+* practical `PRABGT`
 * but `PWUT`
 * understand `URPBD`
 * about `PW`

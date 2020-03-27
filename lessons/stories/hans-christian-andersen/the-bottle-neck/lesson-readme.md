@@ -1267,7 +1267,7 @@
 * shall `SHAL`
 * bunch `PWUFRPB`
 * nosegay, `TPHOES/TKPWAEU KW-BG`
-* blossoms. `PWROS/SOPL/-S TP-PL`
+* blossoms. `PWHROS/SOPL/-S TP-PL`
 * Do `KPA/TKO`
 * splendidly `SPHREPBD/TKHREU`
 * grown? `TKPWROEPB H-F`
@@ -1293,7 +1293,7 @@
 * earth; `*ERT STPH*FPLT`
 * now, `TPHOU KW-BG`
 * see, `SAOE KW-BG`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * appear `A/PAOER`
 * festival, `SREFT/SRAL KW-BG`
 * daughter." `TKAUR TP-PL KR-GS`

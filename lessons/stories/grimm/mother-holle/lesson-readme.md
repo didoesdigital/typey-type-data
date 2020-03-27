@@ -271,7 +271,7 @@
 * good `TKPWAOD`
 * word: `WORD STPH-FPLT`
 * never `TPHEFR`
-* angrily `APBL/REU/HREU`
+* angrily `APBG/REU/HREU`
 * gave `TKPWAEUF`
 * roast `ROEFT`
 * boiled `PWOEULD`

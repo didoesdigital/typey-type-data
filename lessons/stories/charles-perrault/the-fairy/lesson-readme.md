@@ -327,7 +327,7 @@
 * may `PHAE`
 * it, `T KW-BG`
 * if `TP`
-* fancy." `TPAPB/SEU TP-PL KR-GS`
+* fancy." `TPAEPBS TP-PL KR-GS`
 * over `OEFR`
 * mannerly," `PHAERPB/HREU KW-BG KR-GS`
 * answered `AEPBS/-D`

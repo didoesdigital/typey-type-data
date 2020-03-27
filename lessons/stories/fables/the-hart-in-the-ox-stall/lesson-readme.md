@@ -9,7 +9,7 @@
 * hounds `HOUPBDZ`
 * fled `TPHRED`
 * for `TPOR`
-* refuge `RAF/AOUPBLG`
+* refuge `REF/AOUPBLG`
 * into `TPHAO`
 * an `APB`
 * ox-stall, `O*BGS H-PB STAUL KW-BG`

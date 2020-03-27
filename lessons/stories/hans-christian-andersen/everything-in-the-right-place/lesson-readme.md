@@ -692,7 +692,7 @@
 * represented `REPD`
 * counsellor `KOUPBL/A*U`
 * family `TPAEPL`
-* descended. `TKAOE/SEPBD/-D TP-PL`
+* descended. `TKE/SEPBD/-D TP-PL`
 * "But `KR-GS KPA/PWUT`
 * properly `PRORL`
 * belong `PWHROPBG`

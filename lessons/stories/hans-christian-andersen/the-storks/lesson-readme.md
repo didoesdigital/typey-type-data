@@ -491,7 +491,7 @@
 * attentive, `A/TEPBT/EUF KW-BG`
 * third `THEURD`
 * little. `HREUL TP-PL`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * soar, `SAOR KW-BG`
 * tried `TRAOEUD`
 * so, `SO KW-BG`

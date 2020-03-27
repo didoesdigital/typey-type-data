@@ -243,7 +243,7 @@
 * just `SKWRUFT`
 * proper `PROR`
 * consideration," `K-RGS KW-BG KR-GS`
-* boundary `PWOUBD/REU`
+* boundary `PWOUPBD/AER`
 * post `POEFT`
 * wood, `WAOD KW-BG`
 * member `PHEB`

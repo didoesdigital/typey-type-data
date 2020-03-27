@@ -439,7 +439,7 @@
 * robbers `RORBS`
 * witches, `WEUFP/-S KW-BG`
 * elves `EFLS`
-* fairies, `TPAEUR/REU/KWREU/-S KW-BG`
+* fairies, `TPAEUR/REU/-S KW-BG`
 * whose `WHOZ`
 * histories `HOEUFRTS`
 * butterflies `PW*URT/TPHRAOEU/-S`

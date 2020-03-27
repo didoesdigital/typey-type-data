@@ -403,7 +403,7 @@
 * grown. `TKPWROEPB TP-PL`
 * difficult `TKEUFL`
 * advance: `SRAPBS STPH-FPLT`
-* lilies `HREUL/KWREU/KWREU/-S`
+* lilies `HREUL/KWREU/-S`
 * anemones `A/PHEPB/PHE/-S`
 * grew `TKPWRAOU`
 * almost `HR-PL`

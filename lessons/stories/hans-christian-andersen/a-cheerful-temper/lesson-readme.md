@@ -354,7 +354,7 @@
 * into `TPHAO`
 * side `SAOEUD`
 * moon, `PHAOPB KW-BG`
-* representations `REP/TAEUGS/-S`
+* representations `REPT/TAEUGS/-S`
 * sky `SKAOEU`
 * hung `HUPBG`
 * over `OEFR`

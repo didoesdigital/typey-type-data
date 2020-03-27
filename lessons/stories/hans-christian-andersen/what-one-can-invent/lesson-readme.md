@@ -31,7 +31,7 @@
 * in `TPH`
 * being `-BG`
 * able `ABL`
-* invent `EUPB/SREPT`
+* invent `EUPB/SREPBT`
 * something; `S-G STPH*FPLT`
 * but `PWUT`
 * could `KO`
@@ -249,7 +249,7 @@
 * ear `AOER`
 * sharpened `SHARP/-PBD`
 * hear, `HAER KW-BG`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * say `SAEU`
 * Lord's `HRO*RD AES`
 * Prayer `KPA/PRAEUR`
@@ -571,7 +571,7 @@
 * yourself `KWRO*URS`
 * wife `WAOEUF`
 * too." `TAO TP-PL KR-GS`
-* invent!" `EUPB/SREPT SKHRAPL KR-GS`
+* invent!" `EUPB/SREPBT SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * hit `HEUT`
 * boldly `PWOLD/HREU`
@@ -584,4 +584,4 @@
 * WHAT `*URP/WHA`
 * ONE `*URP/WUPB`
 * CAN `*URP/K`
-* INVENT. `*URP/EUPB/SREPT TP-PL`
+* INVENT. `*URP/EUPB/SREPBT TP-PL`

@@ -211,14 +211,14 @@
 * taste. `TAEUFT TP-PL`
 * violet, `SROEULT KW-BG`
 * sentimental. `SEPBT/PHEPBL TP-PL`
-* lime-blossoms, `HRAOEUPL H-PB PWROS/SOPL/-S KW-BG`
+* lime-blossoms, `HRAOEUPL H-PB PWHROS/SOPL/-S KW-BG`
 * small, `SPHAL KW-BG`
 * besides, `PW-DZ KW-BG`
 * such `SUFP`
 * large `HRARPBLG`
 * family `TPAEPL`
 * them. `THEPL TP-PL`
-* apple-blossoms, `A*EPL H-PB PWROS/SOPL/-S KW-BG`
+* apple-blossoms, `A*EPL H-PB PWHROS/SOPL/-S KW-BG`
 * though `THOE`
 * roses, `ROES/-S KW-BG`
 * bloomed `PWHRAOPL/-D`

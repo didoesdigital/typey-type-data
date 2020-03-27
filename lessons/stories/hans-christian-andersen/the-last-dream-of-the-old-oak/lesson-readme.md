@@ -217,7 +217,7 @@
 * clover-fields `KHROEFR H-PB TPAOELDZ`
 * wild `WAOEULD`
 * roses, `ROES/-S KW-BG`
-* elder-blossoms `ELD/ER H-PB PWROS/SOPL/-S`
+* elder-blossoms `ELD/ER H-PB PWHROS/SOPL/-S`
 * honeysuckle, `HOPB/KWREU/SUBG/*L KW-BG`
 * garden `TKPWA*RPB`
 * hedges, `HEPBLG/-S KW-BG`
@@ -748,12 +748,12 @@
 * voice `SROEUS`
 * thyme `THAOEUPL`
 * that? `THA H-F`
-* lilies-of-the-valley, `HREUL/KWREU/KWREU/-S H-PB -F H-PB -T H-PB SRAL/KWREU KW-BG`
+* lilies-of-the-valley, `HREUL/KWREU/-S H-PB -F H-PB -T H-PB SRAL/KWREU KW-BG`
 * covered `KOFRD`
 * bloom? `PWHRAOPL H-F`
 * apple-tree `A*EPL H-PB TRAOE`
 * lovely `HROFL`
-* blossoms, `PWROS/SOPL/-S KW-BG`
+* blossoms, `PWHROS/SOPL/-S KW-BG`
 * glory `TKPWHROER`
 * has `HAS`
 * flourished `TPHROR/EURB/-D`

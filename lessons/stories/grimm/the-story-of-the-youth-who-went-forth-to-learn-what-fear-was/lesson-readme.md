@@ -785,7 +785,7 @@
 * fast. `TPAFT TP-PL`
 * fingers,' `TPEURPBGS KW-BG AE`
 * 'and `AE SKP`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * card-playing `KARD H-PB PHRA*EUG`
 * gone,' `TKPWOPB KW-BG AE`
 * struck `STRUBG`

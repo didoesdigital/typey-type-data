@@ -255,7 +255,7 @@
 * boys `PWOEUS`
 * among `PHOPBG`
 * them, `THEPL KW-BG`
-* practical `PRABGT/K-L`
+* practical `PRABGT`
 * youngster `KWRUPBG/STER`
 * seven `SEFPB`
 * years, `KWRAOERS KW-BG`

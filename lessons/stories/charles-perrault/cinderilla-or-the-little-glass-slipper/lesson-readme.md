@@ -60,7 +60,7 @@
 * world. `WORLD TP-PL`
 * No `KPA/TPHO`
 * sooner `SAORPB`
-* ceremonies `SER/PHOEP/-S`
+* ceremonies `SER/PHOEPB/-S`
 * wedding `WEGD`
 * over, `OEFR KW-BG`
 * stepmother `STEP/PHOER`

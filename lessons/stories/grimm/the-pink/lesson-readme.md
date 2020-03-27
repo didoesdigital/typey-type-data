@@ -420,7 +420,7 @@
 * soon `SAOPB`
 * set `SET`
 * free.' `TPRAOE TP-PL AE`
-* descended `TKAOE/SEPBD/-D`
+* descended `TKE/SEPBD/-D`
 * again, `TKPWEPB KW-BG`
 * caused `KAUFD`
 * himself `H*EUPLS`

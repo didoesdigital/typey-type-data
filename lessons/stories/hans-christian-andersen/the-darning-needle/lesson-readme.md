@@ -423,7 +423,7 @@
 * thoughts `THAUTS`
 * these,—"I `THEZ KW-BG EPL/TKA*RB KR-GS EU`
 * almost `HR-PL`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * came `KAEUPL`
 * sunbeam, `SUPB/PWAOEPL KW-BG`
 * fine. `TPAOEUPB TP-PL`

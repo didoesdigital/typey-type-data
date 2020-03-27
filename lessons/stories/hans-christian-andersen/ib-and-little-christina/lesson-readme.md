@@ -368,7 +368,7 @@
 * looked `HRAOBGD`
 * woody `WAO/TKEU`
 * islands. `AOEU/HRAPBDZ TP-PL`
-* water-lilies `WAUR H-PB HREUL/KWREU/KWREU/-S`
+* water-lilies `WAUR H-PB HREUL/KWREU/-S`
 * waved `WAFD`
 * fro `TPRO`
 * everything `EFRG`
@@ -1454,7 +1454,7 @@
 * painted `PAEUPBTD`
 * whitewashed. `WHAOEUT/WARB/-D TP-PL`
 * dark; `TKARBG STPH*FPLT`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * heath; `HAO*ET STPH*FPLT`
 * autumn `AU/UPL`
 * whirled `WHEURL/-D`

@@ -107,7 +107,7 @@
 * spoke `SPOEBG`
 * very `SRE`
 * loudly `HROUD/HREU`
-* angrily. `APBL/REU/HREU TP-PL`
+* angrily. `APBG/REU/HREU TP-PL`
 * He `KPA/HE`
 * said `SAEUD`
 * wicked, `WEUBGD KW-BG`

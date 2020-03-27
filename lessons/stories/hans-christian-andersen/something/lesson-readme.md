@@ -280,7 +280,7 @@
 * anything `TPHEUG`
 * notice, `TPH-TS KW-BG`
 * however `HOUF`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * it. `T TP-PL`
 * But `KPA/PWUT`
 * like, `HRAOEUBG KW-BG`
@@ -302,7 +302,7 @@
 * out `OUT`
 * expose; `SPOES STPH*FPLT`
 * something, `S-G KW-BG`
-* fancy." `TPAPB/SEU TP-PL KR-GS`
+* fancy." `TPAEPBS TP-PL KR-GS`
 * And `AFPBD`
 * kept `KEPT`
 * word, `WORD KW-BG`
@@ -586,7 +586,7 @@
 * fourth `TPO*URT`
 * brother—who `PWROER EPL/TKA*RB WHO`
 * wanted `WAPBTD`
-* invent `EUPB/SREPT`
+* invent `EUPB/SREPBT`
 * original? `ORPBLG H-F`
 * tried `TRAOEUD`
 * lofty `HROF/TEU`

@@ -173,7 +173,7 @@
 * numbers, `TPHUPLS KW-BG`
 * they `THE`
 * attracted `A/TRABGD`
-* descended `TKAOE/SEPBD/-D`
+* descended `TKE/SEPBD/-D`
 * hosts. `HOEFTS TP-PL`
 * 'Hi! `AE KPA/HEU SKHRAPL`
 * invited `EUPB/SRAOEUTD`

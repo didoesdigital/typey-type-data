@@ -740,7 +740,7 @@
 * air `AEUR`
 * close." `KHROES TP-PL KR-GS`
 * weather, `WHR* KW-BG`
-* fancy," `TPAPB/SEU KW-BG KR-GS`
+* fancy," `TPAEPBS KW-BG KR-GS`
 * day `TKAEU`
 * yet. `KWRET TP-PL`
 * Don't `TKO*PB AE T*`

@@ -563,7 +563,7 @@
 * apron. `AEUP/ROPB TP-PL`
 * must `PHUFT`
 * Bunny!" `KPA/PWUPB/TPHEU SKHRAPL KR-GS`
-* "Fancy `KR-GS KPA/TPAPB/SEU`
+* "Fancy `KR-GS KPA/TPAEPBS`
 * fuss `TPUS`
 * toy!" `TOEU SKHRAPL KR-GS`
 * up `UP`
@@ -997,7 +997,7 @@
 * hugging `HUG/-G`
 * protection `PREBGS`
 * canes, `KAEUPB/-S KW-BG`
-* tropical `PROP/K-L`
+* tropical `TROP/K-L`
 * jungle, `SKWRUPBG/-L KW-BG`
 * whose `WHOZ`
 * shadow `SHO*EUD`

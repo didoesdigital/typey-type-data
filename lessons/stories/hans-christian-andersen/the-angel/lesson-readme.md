@@ -297,7 +297,7 @@
 * This `KPA/TH`
 * place `PHRAEUS`
 * head, `HED KW-BG`
-* fancy `TPAPB/SEU`
+* fancy `TPAEPBS`
 * beech-wood `PWAOEFP H-PB WAOD`
 * while `WHAOEUL`
 * sun `SUPB`

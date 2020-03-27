@@ -157,7 +157,7 @@
 * young `KWRUPBG`
 * man, `PHAPB KW-BG`
 * entered `SPWR-D`
-* duties `TKAOUT/KWREU/-S`
+* duties `TKAOUT/-S`
 * office. `OFS TP-PL`
 * Ah, `KPA/HA*E KW-BG`
 * well, `WEL KW-BG`
@@ -411,7 +411,7 @@
 * dark. `TKARBG TP-PL`
 * considered `KR-D`
 * himself `H*EUPLS`
-* descended `TKAOE/SEPBD/-D`
+* descended `TKE/SEPBD/-D`
 * stem, `STEPL KW-BG`
 * forest. `TPOEFRT TP-PL`
 * third `THEURD`
@@ -646,7 +646,7 @@
 * necessary. `TPHES TP-PL`
 * If `KPA/TP`
 * particular `PHRAR`
-* faculties `TPABG/UT/KWREU/-S`
+* faculties `TPABG/ULT/-S`
 * benefit `PWEF`
 * least. `HRAOEFT TP-PL`
 * this; `TH STPH*FPLT`
@@ -688,7 +688,7 @@
 * lit `HREUT`
 * day `TKAEU`
 * commenced `KPHEPBS/-D`
-* duties, `TKAOUT/KWREU/-S KW-BG`
+* duties, `TKAOUT/-S KW-BG`
 * four-and-twenty `TPOUR H-PB SKP H-PB TWEPBT`
 * ago. `AG TP-PL`
 * almost `HR-PL`
@@ -936,7 +936,7 @@
 * life. `HRAOEUF TP-PL`
 * dream; `TKRAOEPL STPH*FPLT`
 * for, `TPOR KW-BG`
-* faculties, `TPABG/UT/KWREU/-S KW-BG`
+* faculties, `TPABG/ULT/-S KW-BG`
 * dreaming `TKRAOEPLG`
 * difficulty. `TKOEUFLT TP-PL`
 * dead, `TKED KW-BG`

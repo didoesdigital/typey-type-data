@@ -517,7 +517,7 @@
 * What `KPA/WHA`
 * clothes!" `KHRO*ETS SKHRAPL KR-GS`
 * master `PHAFRT`
-* ceremonies `SER/PHOEP/-S`
+* ceremonies `SER/PHOEPB/-S`
 * announced `A/TPHOUPBS/-D`
 * bearers `PWAER/*ERS`
 * canopy, `KAPB/PEU KW-BG`

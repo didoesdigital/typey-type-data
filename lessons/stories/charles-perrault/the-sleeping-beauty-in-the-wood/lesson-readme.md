@@ -51,7 +51,7 @@
 * for `TPOR`
 * her `HER`
 * godmothers `TKPWOD/PHOER/-S`
-* Fairies `KPA/TPAEUR/REU/KWREU/-S`
+* Fairies `KPA/TPAEUR/REU/-S`
 * could `KO`
 * find `TPEUPBD`
 * whole `WHOEL`
@@ -76,7 +76,7 @@
 * perfections `P-FRGS/-S`
 * imaginable. `PHAPBLG/-BL TP-PL`
 * After `KPA/AF`
-* ceremonies `SER/PHOEP/-S`
+* ceremonies `SER/PHOEPB/-S`
 * christening `KREUFPB/-G`
 * over, `OEFR KW-BG`
 * company `K-P`
@@ -87,7 +87,7 @@
 * prepared `PRAOEPD`
 * great `TKPWRAET`
 * feast `TPAOEFT`
-* Fairies. `KPA/TPAEUR/REU/KWREU/-S TP-PL`
+* Fairies. `KPA/TPAEUR/REU/-S TP-PL`
 * placed `PHRAEUFD`
 * before `PW-FP`
 * magnificent `PHAFPBT`
@@ -151,7 +151,7 @@
 * teeth. `TAO*ET TP-PL`
 * One `KPA/WUPB`
 * young `KWRUPBG`
-* Fairies, `KPA/TPAEUR/REU/KWREU/-S KW-BG`
+* Fairies, `KPA/TPAEUR/REU/-S KW-BG`
 * sat `SAT`
 * her, `HER KW-BG`
 * overheard `AUFR/HAERD`

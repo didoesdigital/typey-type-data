@@ -115,7 +115,7 @@
 * "to `KR-GS TO`
 * ancestors, `APB/SEFT/ORS KW-BG`
 * glorious `TKPWHRORS`
-* fancy—to `TPAPB/SEU EPL/TKA*RB TO`
+* fancy—to `TPAEPBS EPL/TKA*RB TO`
 * ship `SHEUP`
 * air `AEUR`
 * comes. `KOPLS TP-PL`
@@ -188,7 +188,7 @@
 * classic `KHRA*G`
 * school `SKAOL`
 * remote `RAOEPLT`
-* antiquity. `APB/TUBG/TEU TP-PL`
+* antiquity. `APB/TEUBG/TEU TP-PL`
 * rejoicing `RE/SKWROEUFG`
 * shouting `SHOUGT`
 * names `TPHAEUPLS`

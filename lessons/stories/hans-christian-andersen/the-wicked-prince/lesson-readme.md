@@ -428,7 +428,7 @@
 * stung `STUPBG`
 * face `TPAEUS`
 * hands; `HAPBDZ STPH*FPLT`
-* angrily `APBL/REU/HREU`
+* angrily `APBG/REU/HREU`
 * drew `TKRAOU`
 * sword `SOERD`
 * brandished `PWRAPBD/EURB/-D`

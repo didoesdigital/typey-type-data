@@ -344,7 +344,7 @@
 * daughters `TKAURS`
 * beautiful—three `PWAOUFL EPL/TKA*RB THRAOE`
 * charming `KHARPL/-G`
-* blossoms—a `PWROS/SOPL/-S EPL/TKA*RB AEU`
+* blossoms—a `PWHROS/SOPL/-S EPL/TKA*RB AEU`
 * rose, `ROEZ KW-BG`
 * lily, `HREUL/KWREU KW-BG`
 * white `WHAOEUT`
@@ -476,7 +476,7 @@
 * these, `THEZ KW-BG`
 * landmark `HRAPBD/PHARPL`
 * seamen, `SAE/PHEPB KW-BG`
-* refuge `RAF/AOUPBLG`
+* refuge `REF/AOUPBLG`
 * birds, `PWEURDZ KW-BG`
 * must `PHUFT`
 * felled. `TPEL/-D TP-PL`
@@ -727,7 +727,7 @@
 * away. `A/WAEU TP-PL`
 * drifts `TKREUFTS`
 * onwards, `OPB/WARDZ KW-BG`
-* apple-blossoms `A*EPL H-PB PWROS/SOPL/-S`
+* apple-blossoms `A*EPL H-PB PWHROS/SOPL/-S`
 * scattered, `SKAT/ERD KW-BG`
 * leaves `HREFS`
 * fall,—everything `TPAUL KW-BG EPL/TKA*RB EFRG`
@@ -745,7 +745,7 @@
 * apple-tree, `A*EPL H-PB TRAOE KW-BG`
 * musing, `PHAOUFG KW-BG`
 * heeding `HAOED/-G`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * dishevelled `TKEURB/EFL/-D`
 * it; `T STPH*FPLT`
 * sometimes, `STAOEUPLS KW-BG`

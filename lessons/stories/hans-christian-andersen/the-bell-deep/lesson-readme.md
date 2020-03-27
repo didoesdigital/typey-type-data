@@ -39,7 +39,7 @@
 * Au `xxx Au`
 * grow `TKPWROE`
 * yellow `KWREL/OE`
-* water-lilies `WAUR H-PB HREUL/KWREU/KWREU/-S`
+* water-lilies `WAUR H-PB HREUL/KWREU/-S`
 * brown `PWROUPB`
 * feathery `TP*ET/KWREU`
 * reeds; `RAOED/-S STPH*FPLT`
@@ -270,7 +270,7 @@
 * eel-skin, `AOEL H-PB SKEUPB KW-BG`
 * scaly `SKAEU/HREU`
 * Jacket `KPA/SKWRABGT`
-* lilies `HREUL/KWREU/KWREU/-S`
+* lilies `HREUL/KWREU/-S`
 * buttons, `PW*UPBTS KW-BG`
 * wreath `WRAO*ET`
 * reed `RAOED`

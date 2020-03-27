@@ -47,7 +47,7 @@
 * with `W`
 * delicate `TKEL/KAT`
 * pink `P*EUPBG`
-* blossoms `PWROS/SOPL/-S`
+* blossoms `PWHROS/SOPL/-S`
 * that `THA`
 * were `WR`
 * just `SKWRUFT`

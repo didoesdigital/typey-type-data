@@ -208,7 +208,7 @@
 * wood. `WAOD TP-PL`
 * turned `TURPBD`
 * back; `PWABG STPH*FPLT`
-* finely `TPAOEUBL/HREU`
+* finely `TPAOEUPB/HREU`
 * felt `TPELT`
 * ashamed `A/SHAEUPLD`
 * mother, `PHOER KW-BG`
