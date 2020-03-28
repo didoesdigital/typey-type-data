@@ -652,7 +652,7 @@
 * storks, `STORBG/-S KW-BG`
 * left `HREFT`
 * country, `KREU KW-BG`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * warmer `WARPL/*ER`
 * climates. `KHRAOEUPLTS TP-PL`
 * storks `STORBG/-S`

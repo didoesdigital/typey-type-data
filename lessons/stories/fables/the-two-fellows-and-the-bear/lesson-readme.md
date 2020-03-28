@@ -3,7 +3,7 @@
 * Two `KPA/TWO`
 * Fellows `KPA/TPO*EULS`
 * were `WR`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * together `TOGT`
 * through `THRU`
 * a `AEU`

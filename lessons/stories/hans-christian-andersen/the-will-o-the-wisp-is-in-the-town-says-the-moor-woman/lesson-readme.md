@@ -989,7 +989,7 @@
 * present `PREPBT`
 * use `AOUS`
 * me—a `PHE EPL/TKA*RB AEU`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * druggist's `TKRUG/EUFT AES`
 * shop—a `SHOP EPL/TKA*RB AEU`
 * Grandmother `KPA/TKPWR-PL`

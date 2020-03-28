@@ -383,7 +383,7 @@
 * aid, `AEUD KW-BG`
 * took `TAOBG`
 * bread, `PWRAED KW-BG`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * on, `OPB KW-BG`
 * over `OEFR`
 * sea `SAE`

@@ -157,7 +157,7 @@
 * country `KREU`
 * this `TH`
 * reigned: `RAEPB/-D STPH-FPLT`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * wood, `WAOD KW-BG`
 * met `PHET`
 * woman, `WOPL KW-BG`

@@ -1045,7 +1045,7 @@
 * travel; `TRAFL STPH*FPLT`
 * summer, `SAOURPL KW-BG`
 * me? `PHE H-F`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * companion; `KPAPB/KWROPB STPH*FPLT`
 * travel `TRAFL`
 * give `TKPWEUF`

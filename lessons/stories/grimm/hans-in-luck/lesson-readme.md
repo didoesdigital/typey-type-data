@@ -575,7 +575,7 @@
 * all. `AUL TP-PL`
 * How `KPA/HOU`
 * otherwise `O*ERZ`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * companion `KPAPB/KWROPB`
 * got? `TKPWOT H-F`
 * next `TPHEGT`

@@ -147,7 +147,7 @@
 * unsettled; `UPB/SELTD STPH*FPLT`
 * you `U`
 * always `AULS`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * about `PW`
 * into `TPHAO`
 * foreign `TPOERPB`

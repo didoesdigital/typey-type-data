@@ -6,7 +6,7 @@
 * an `APB`
 * Ass `KPA/A*S`
 * were `WR`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * together, `TOGT KW-BG`
 * the `-T`
 * prancing `PRAPBS/-G`

@@ -378,7 +378,7 @@
 * dreaming `TKRAOEPLG`
 * whom `WHOPL`
 * supposed, `SPOED KW-BG`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * mountain `PHOUPB/TAEUPB`
 * sea. `SAE TP-PL`
 * Her `KPA/HER`

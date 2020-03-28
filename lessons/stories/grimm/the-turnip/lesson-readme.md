@@ -287,7 +287,7 @@
 * they `THE`
 * out `OUT`
 * together, `TOGT KW-BG`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * along, `HRAOPBG KW-BG`
 * murderers `PHURD/RER/-S`
 * rushed `RURBD`

@@ -302,7 +302,7 @@
 * asked `SK-D`
 * horse `HORS`
 * money `PHUPB`
-* travelling, `TRAFLG/A*U KW-BG`
+* travelling, `TRAFL/HREUPBG KW-BG`
 * mind `PHAOEUPBD`
 * see `SAOE`
 * world `WORLD`

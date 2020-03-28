@@ -402,7 +402,7 @@
 * canals.' `KAPB/ALS TP-PL AE`
 * else, `ELS KW-BG`
 * years `KWRAOERS`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * far `TPAR`
 * away `A/WAEU`
 * home.' `HOEPL TP-PL AE`

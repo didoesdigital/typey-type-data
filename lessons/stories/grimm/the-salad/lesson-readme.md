@@ -281,7 +281,7 @@
 * nearer `TPHAOER/*ER`
 * 'I `AE EU`
 * been `PW-PB`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * long `HROPBG`
 * should `SHO`
 * like `HRAOEUBG`

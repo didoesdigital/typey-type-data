@@ -145,7 +145,7 @@
 * beautiful." `PWAOUFL TP-PL KR-GS`
 * One `KPA/WUPB`
 * Queen `KWAO*EPB`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * through `THRU`
 * part `PART`
 * country, `KREU KW-BG`

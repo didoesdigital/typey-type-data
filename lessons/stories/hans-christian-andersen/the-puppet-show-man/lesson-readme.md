@@ -45,7 +45,7 @@
 * He `KPA/HE`
 * Dane, `TKA*EUPB KW-BG`
 * owner `OERPB`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * theatre. `THAO*ERT TP-PL`
 * had `H`
 * all `AUL`

@@ -282,7 +282,7 @@
 * "I'm `KR-GS EU AE PH*`
 * Prince `PR*EUPBS`
 * Carnival, `KPA/KARPB/SRAL KW-BG`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * under `TPH-PB`
 * FEBRUARY." `*URP/TPEB TP-PL KR-GS`
 * third `THEURD`

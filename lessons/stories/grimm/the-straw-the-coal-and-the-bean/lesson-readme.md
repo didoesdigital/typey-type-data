@@ -249,7 +249,7 @@
 * if, `TP KW-BG`
 * fortune, `TP-RPB KW-BG`
 * tailor `TAEURL`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * search `SEFRPB`
 * work, `WORBG KW-BG`
 * sat `SAT`

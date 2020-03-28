@@ -162,7 +162,7 @@
 * days `TKAEUS`
 * after `AF`
 * there `THR`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * fiddler, `TPEUD/HRER KW-BG`
 * began `TKPWAPB`
 * play `PHRAEU`

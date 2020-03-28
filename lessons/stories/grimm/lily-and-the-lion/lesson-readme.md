@@ -462,7 +462,7 @@
 * repose `RE/POES`
 * far `TPAR`
 * off, `OF KW-BG`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * missed `PHEUFD`
 * lifted `HREUFTD`
 * eyes `AO*EUS`

@@ -671,7 +671,7 @@
 * emperor's `EPL/ROR AES`
 * born, `PWORPB KW-BG`
 * feet. `TPAOET TP-PL`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * secret `SKRET`
 * embassy, `EPL/PWAES KW-BG`
 * questions, `KWES KW-BG`

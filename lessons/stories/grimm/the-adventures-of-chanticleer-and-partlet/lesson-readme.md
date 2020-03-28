@@ -250,7 +250,7 @@
 * an `APB`
 * inn; `TPH*PB STPH*FPLT`
 * bad `PWAD`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * dark, `TKARBG KW-BG`
 * seemed `SAOEPLD`
 * tired, `TAOEURD KW-BG`

@@ -16,7 +16,7 @@
 * medal `PH*ELD`
 * and `SKP`
 * obtained `OB/TAEUPBD`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * scholarship, `SKOL/SH-P KW-BG`
 * went `WEPBT`
 * to `TO`
@@ -904,7 +904,7 @@
 * absence. `AB/SEPBS TP-PL`
 * "There `KR-GS KPA/THR`
 * real `RAEL`
-* travelling," `TRAFLG/A*U KW-BG KR-GS`
+* travelling," `TRAFL/HREUPBG KW-BG KR-GS`
 * mamma; `PHAPL/PHA STPH*FPLT`
 * "to `KR-GS TO`
 * tell `TEL`
@@ -920,7 +920,7 @@
 * and, `SKP KW-BG`
 * besides, `PW-DZ KW-BG`
 * expensive `SP*EF`
-* travelling, `TRAFLG/A*U KW-BG`
+* travelling, `TRAFL/HREUPBG KW-BG`
 * expensive. `SP*EF TP-PL`
 * galleries `TKPWAL/REUS`
 * expected `KP-PTD`

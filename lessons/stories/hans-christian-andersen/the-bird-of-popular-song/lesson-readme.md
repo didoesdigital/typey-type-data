@@ -347,7 +347,7 @@
 * stood `STAOD`
 * woman `WOPL`
 * wood, `WAOD KW-BG`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * peddler `PED/HRER`
 * went `WEPBT`
 * wandering `WAPBGD`

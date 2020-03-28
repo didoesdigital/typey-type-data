@@ -195,7 +195,7 @@
 * responded `SPOPBD/-D`
 * imposed `EUPL/POES/-D`
 * gallant `TKPWAL/HRAPBT`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * restrictions `STREUBGS/-S`
 * longing `HROPBG/-G`
 * inevitable `TPHEF/-BL`

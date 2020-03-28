@@ -224,7 +224,7 @@ The Races
 'must': PHUFT
 'always': AULS
 'be': -B
-'travelling': TRAFLG/A*U
+'travelling': TRAFL/HREUPBG
 'about': PW
 'into': TPHAO
 'foreign': TPOERPB
@@ -842,7 +842,7 @@ The Races
 'that': THA
 'I': EU
 'was': WAS
-'travelling': TRAFLG/A*U
+'travelling': TRAFL/HREUPBG
 'there.': THR TP-PL
 'At': KPA/AT
 'last': HRAFT

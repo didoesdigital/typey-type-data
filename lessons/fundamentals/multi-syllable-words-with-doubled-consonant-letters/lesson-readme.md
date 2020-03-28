@@ -324,7 +324,7 @@
 * messenger `PHAEPBG`
 * offers `OFRS`
 * gallant `TKPWAL/HRAPBT`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * commander `KPHAPBD/*ER`
 * accompany `A/K-P`
 * farewell `TPAER/WEL`

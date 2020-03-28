@@ -519,7 +519,7 @@
 * convey `KAUPB/SRAEU`
 * sincere `SEUPB/SAOER`
 * gallant `TKPWAL/HRAPBT`
-* travelling `TRAFLG/A*U`
+* travelling `TRAFL/HREUPBG`
 * accompany `A/K-P`
 * farewell `TPAER/WEL`
 * paradise `PAR/TKAOEUS`
