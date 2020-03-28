@@ -176,7 +176,7 @@
 * huntsman, `HUPBTS/PHA*PB KW-BG`
 * 'this `AE TH`
 * wonderful; `WUFL STPH*FPLT`
-* happens `HABS`
+* happens `HAPS`
 * just `SKWRUFT`
 * woman `WOPL`
 * said'; `SAEUD AE STPH*FPLT`

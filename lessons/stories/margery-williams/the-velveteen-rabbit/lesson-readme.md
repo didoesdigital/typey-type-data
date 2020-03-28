@@ -278,7 +278,7 @@
 * said `SAEUD`
 * "It's `KR-GS KPA/T AES`
 * thing `THEUPBG`
-* happens `HABS`
+* happens `HAPS`
 * you. `U TP-PL`
 * When `KPA/WHEPB`
 * child `KHAOEULD`

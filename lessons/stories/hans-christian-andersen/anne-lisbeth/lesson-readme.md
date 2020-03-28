@@ -326,7 +326,7 @@
 * two `TWO`
 * board, `PWAORD KW-BG`
 * or, `OR KW-BG`
-* correctly, `KREBT/HREU KW-BG`
+* correctly, `KRELG KW-BG`
 * man `PHAPB`
 * half, `HAF KW-BG`
 * boy. `PWOEU TP-PL`

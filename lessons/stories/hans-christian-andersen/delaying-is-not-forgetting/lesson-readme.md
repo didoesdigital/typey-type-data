@@ -391,7 +391,7 @@
 * cap, `KAP KW-BG`
 * black `PWHRABG`
 * bow, `PWOE KW-BG`
-* signifies `SEUPBG/TPAOEU/-S`
+* signifies `SEUG/TPAOEU/-S`
 * mourning. `PHOURPBG TP-PL`
 * mourn, `PHOURPB KW-BG`
 * neither `TPHAOERT`

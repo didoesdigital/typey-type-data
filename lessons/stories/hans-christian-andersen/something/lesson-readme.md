@@ -150,7 +150,7 @@
 * bricklayer's `PWREUBG/HRAEU/ER AES`
 * laborer, `HRAEUB/RER KW-BG`
 * carpenter's `KARP/TER AES`
-* apprentice—a `A/PEPBT/EUS EPL/TKA*RB AEU`
+* apprentice—a `PREPBT/EUS EPL/TKA*RB AEU`
 * lad `HRAD`
 * wearing `WAURG`
 * paper `PAEUP`
@@ -546,7 +546,7 @@
 * come `KOPL`
 * third `THEURD`
 * first `TPEUFRT`
-* apprentice, `A/PEPBT/EUS KW-BG`
+* apprentice, `PREPBT/EUS KW-BG`
 * worn `WORPB`
 * errand `ER/APBD`
 * boy, `PWOEU KW-BG`

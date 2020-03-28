@@ -935,7 +935,7 @@
 * legs `HREGS`
 * neighs `TPHAEUG/-S`
 * street `STRAOET`
-* Arabian `A/REUB/KWRAPB`
+* Arabian `A*EURB/KWRAPB`
 * horse, `HORS KW-BG`
 * says `SEZ`
 * commoner `KPHOPB/*ER`

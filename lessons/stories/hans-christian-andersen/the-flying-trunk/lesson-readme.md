@@ -376,7 +376,7 @@
 * us `US`
 * story?" `STOER H-F KR-GS`
 * queen,—"one `KWAOEPB KW-BG EPL/TKA*RB KR-GS WUPB`
-* instructive `STROUBGT/EUF`
+* instructive `STRUBGT/EUF`
 * learning." `HRERPBG TP-PL KR-GS`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * laugh `HRAF`

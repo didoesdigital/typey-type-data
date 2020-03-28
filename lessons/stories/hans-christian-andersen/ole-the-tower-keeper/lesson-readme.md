@@ -810,7 +810,7 @@
 * tower. `TOUR TP-PL`
 * toasts `TOEFTS`
 * drunk `TKR*UPBG`
-* transition `TAPBS/EUGS`
+* transition `TREUGS`
 * New—from `KPA/TPHU EPL/TKA*RB TPR`
 * other, `OER KW-BG`
 * said. `SAEUD TP-PL`

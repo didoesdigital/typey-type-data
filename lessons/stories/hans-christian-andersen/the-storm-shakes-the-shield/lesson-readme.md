@@ -399,7 +399,7 @@
 * signs; `SAOEUPBS STPH*FPLT`
 * and, `SKP KW-BG`
 * said, `SAEUD KW-BG`
-* instructive `STROUBGT/EUF`
+* instructive `STRUBGT/EUF`
 * thing, `THEUPBG KW-BG`
 * town, `TOUPB KW-BG`
 * once `WUPBS`

@@ -315,7 +315,7 @@
 * whole `WHOEL`
 * body; `PWO*ED STPH*FPLT`
 * this `TH`
-* happens `HABS`
+* happens `HAPS`
 * every `EF`
 * few `TPAOU`
 * years, `KWRAOERS KW-BG`

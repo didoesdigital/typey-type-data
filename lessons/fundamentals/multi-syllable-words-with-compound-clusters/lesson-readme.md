@@ -178,6 +178,7 @@
 * filling `TPEULG`
 * session `SEGS`
 * favorable `TPAEUFRBL`
+* convention `KEFPBGS`
 * angle `A*PBLG`
 * prejudice `PREPBLG`
 * privileges `PREUFLGS`
@@ -260,6 +261,7 @@
 * flaming `TPHRAPLG`
 * pension `PEPBGS`
 * adoption `TKOPGS`
+* correctly `KRELG`
 * estimation `STEUPLGS`
 * handling `HAPBLG`
 * variation `SRAEURGS`
@@ -295,6 +297,7 @@
 * developing `SRELG`
 * Parisian `PREUGS`
 * faction `TPA*BGS`
+* transition `TREUGS`
 * individuality `SREUPBLGT`
 * tension `TEPBGS`
 * diversion `TKWERGS`

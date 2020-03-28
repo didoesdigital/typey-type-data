@@ -1404,7 +1404,7 @@
 * "if `KR-GS TP`
 * book." `PWAOBG TP-PL KR-GS`
 * call `KAUL`
-* instructive," `STROUBGT/EUF KW-BG KR-GS`
+* instructive," `STRUBGT/EUF KW-BG KR-GS`
 * murmured `PHUR/PHUR/-D`
 * useful `AOUFL`
 * express `EBGS/PRES`

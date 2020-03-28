@@ -1241,7 +1241,7 @@
 * searched, `SEFRPBD KW-BG`
 * armlet `ARPL/HR*ET`
 * superior `SPOEUR`
-* workmanship, `WORBG/PHEPB/SH-P KW-BG`
+* workmanship, `WORBG/PHAPB/SH-P KW-BG`
 * evident `AEFT`
 * disturbed `STKURBD`
 * Hun's `xxx Hun AES`

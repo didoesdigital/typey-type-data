@@ -576,7 +576,7 @@
 * inside, `TPH-DZ KW-BG`
 * unfortunately `UFL`
 * often `OFPB`
-* happens `HABS`
+* happens `HAPS`
 * age." `AEUPBLG TP-PL KR-GS`
 * Thus `KPA/THUS`
 * spoke `SPOEBG`

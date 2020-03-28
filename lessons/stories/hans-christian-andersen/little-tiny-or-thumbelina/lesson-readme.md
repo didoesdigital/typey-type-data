@@ -837,7 +837,7 @@
 * life. `HRAOEUF TP-PL`
 * swallows `SWAL/OES`
 * countries, `KUPBTS KW-BG`
-* happens `HABS`
+* happens `HAPS`
 * linger, `HREURPBG KW-BG`
 * seizes `SAOEZ/-S`
 * becomes `PW-BGS`

@@ -125,7 +125,7 @@
 * His `KPA/HEUS`
 * outward `AOUT/WARD`
 * appearance `PAOERPBS`
-* characterized `KARBG/TRAOEUZ/-D`
+* characterized `KARBG/AOEUZ/-D`
 * by `PWEU`
 * snub `STPHUB`
 * nose `TPHOES`

@@ -495,7 +495,7 @@
 * burnt `PWURPBT`
 * ashes. `ARBS TP-PL`
 * happened? `HAPD H-F`
-* happens `HABS`
+* happens `HAPS`
 * often:—the `OFPB STPH-FPLT EPL/TKA*RB -T`
 * him, `HEUPL KW-BG`
 * jest; `SKWREFT STPH*FPLT`

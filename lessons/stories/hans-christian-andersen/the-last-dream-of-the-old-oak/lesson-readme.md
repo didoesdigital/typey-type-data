@@ -326,7 +326,7 @@
 * sweetly, `SWAOET/HREU KW-BG`
 * three-hundred-and-sixty-fifth `THRAOE H-PB HUPBD H-PB SKP H-PB SEUBGT H-PB TP*EUT`
 * night. `TPHAOEUT TP-PL`
-* Correctly `KPA/KREBT/HREU`
+* Correctly `KPA/KRELG`
 * speaking, `SPAOEG KW-BG`
 * are `R`
 * youngster `KWRUPBG/STER`

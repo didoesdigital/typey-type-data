@@ -85,7 +85,7 @@
 * by `PWEU`
 * beat `PWAET`
 * drum. `TKRUPL TP-PL`
-* Apprentice-boys, `KPA/A/PEPBT/EUS H-PB PWOEUS KW-BG`
+* Apprentice-boys, `KPA/PREPBT/EUS H-PB PWOEUS KW-BG`
 * children `KHEURPB`
 * poor, `PAOR KW-BG`
 * even `AOEPB`

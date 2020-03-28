@@ -382,7 +382,7 @@
 * trembling `TREPL/-BLG`
 * through `THRU`
 * "and `KR-GS SKP`
-* happens?" `HABS H-F KR-GS`
+* happens?" `HAPS H-F KR-GS`
 * did `TK`
 * see `SAOE`
 * any `TPHEU`
@@ -747,7 +747,7 @@
 * tales `TAELS`
 * "Ah! `KR-GS KPA/HA*E SKHRAPL`
 * yes, `KWRE KW-BG`
-* happens `HABS`
+* happens `HAPS`
 * world," `WORLD KW-BG KR-GS`
 * believed `PWHREFD`
 * because `PWAU`

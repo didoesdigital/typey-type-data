@@ -582,7 +582,7 @@
 * quiet, `KWAO*EUT KW-BG`
 * monster—sleep! `PHOPB/STER EPL/TKA*RB SHRAOEP SKHRAPL`
 * This `KPA/TH`
-* happens `HABS`
+* happens `HAPS`
 * night!" `TPHAOEUT SKHRAPL KR-GS`
 * "Every `KR-GS KPA/EF`
 * repeated `RE/PAOETD`

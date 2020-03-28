@@ -195,6 +195,7 @@
 * responded `SPOPBD/-D`
 * imposed `EUPL/POES/-D`
 * gallant `TKPWAL/HRAPBT`
+* travelling `TRAFLG/A*U`
 * restrictions `STREUBGS/-S`
 * longing `HROPBG/-G`
 * inevitable `TPHEF/-BL`
@@ -215,6 +216,7 @@
 * disclaimers `TKEUS/KHRAEURPL/-S`
 * peaceful `PAES/-FL`
 * resting `REFT/-G`
+* offence `OF/EPBS`
 * namely `TPHAEUPL/HREU`
 * confessed `KAUPB/TPES/-D`
 * other's `OER/AES`
@@ -516,6 +518,7 @@
 * visions `SREUGS/-S`
 * carelessly `KAEURLS/HREU`
 * Scottish `SKOT/EURB`
+* accessible `ABG/SES/-BL`
 * philosophers `TPHROS/TPER/-S`
 * vaguely `SRAEUG/HREU`
 * yielding `KWRAOELD/-G`
@@ -754,7 +757,7 @@
 * humorous `HAOUPL/ROUS`
 * missionaries `PHEUGS/REU/-S`
 * perpetually `PER/PET/WAEL`
-* hastings `HAEUFT/EUPBG/-S`
+* Hastings `HAEUFT/EUPBG/-S`
 * mercury `PHERBG/REU`
 * chivalry `SHEUFL/REU`
 * confided `KAUPB/TPAOEUD/-D`
@@ -763,7 +766,7 @@
 * sympathies `SEUPL/THEU/-S`
 * homely `HOEPL/HREU`
 * printing `PREUPBT/-G`
-* sinister `SEPB/STER`
+* sinister `SEUPB/STER`
 * solemnity `SOL/EPL/TEU`
 * traversed `TRA/SRERS/-D`
 * hateful `HAEUT/-FL`
@@ -811,7 +814,6 @@
 * sinful `SEUPB/-FL`
 * sovereigns `SOFRPB/-S`
 * excused `EBGS/KAOUS/-D`
-* correctly `KREBT/HREU`
 * adored `A/TKOR/-D`
 * bravery `PWRAEUFR/REU`
 * trusting `TRUFT/-G`
@@ -860,7 +862,7 @@
 * commissioners `KPHEUGS/ERS`
 * relish `REL/EURB`
 * cordially `KORPBLG/HREU`
-* Arabian `A/REUB/KWRAPB`
+* Arabian `A*EURB/KWRAPB`
 * fascination `TPAS/TPHAEUGS`
 * belly `PWEL/HREU`
 * disgusted `TKEUS/TKPWUFT/-D`
@@ -879,7 +881,7 @@
 * accommodation `A/KOPL/TKAEUGS`
 * boyish `PWOEU/EURB`
 * theological `THOLG/K-L`
-* injurious `SKWREUR/OUS`
+* injurious `SKWR-R/KWROUS`
 * formally `TPORPL/HREU`
 * manual `PHAPB/WAL`
 * mischievous `PHEUS/KHEF/OUS`
@@ -900,15 +902,15 @@
 * projecting `PROPBLG/-G`
 * cheerfulness `KHAOER/-FL/-PBS`
 * deity `TKAOE/TEU`
-* muscular `PUFBG/HRAR`
+* muscular `PHUFBG/HRAR`
 * brooding `PWRAOD/-G`
 * baptism `PWAPT/EUFPL`
 * imaginative `PHAPBLG/TEUF`
 * senseless `SEPBS/-LS`
 * absurdity `AB/SURD/TEU`
 * resolutely `RES/HRAOUT/HREU`
-* characterized `KARBG/TRAOEUZ/-D`
-* fellowship `TPEL/HROE/SH-P`
+* characterized `KARBG/AOEUZ/-D`
+* fellowship `TPEL/OE/SH-P`
 * posture `POFT/AOUR`
 * demanding `TKPHAPBD/-G`
 * longitude `HROPBG/TAOUD`
@@ -930,12 +932,12 @@
 * termination `TERPL/TPHAEUGS`
 * eminently `EPL/TPHEPBT/HREU`
 * suggestive `SUG/EUF`
-* Sophia `SOE/TPAO/KWRA`
+* Sophia `SOE/TPAOE/KWRA`
 * Achilles `A/KEUL/ES`
 * noticing `TPH-TS/-G`
 * cheering `KHAOER/-G`
 * glories `TKPWHROER/KWREU/-S`
-* signifies `SEUPBG/TPAOEU/-S`
+* signifies `SEUG/TPAOEU/-S`
 * constrained `KAUPB/STRAEUPB/-D`
 * engaging `EPB/TKPWAEUPBLG/-G`
 * mocking `PHOBG/-G`
@@ -985,12 +987,10 @@
 * felicity `TPHREUS/TEU`
 * epic `EP/EUBG`
 * obstinacy `OBS/TEUPB/SEU`
-* Ulysses `AOU/HREUS/ES`
 * Barry `PWAR/REU`
 * rebellious `RE/PWEL/KWROUS`
 * biting `PWEUT/-G`
 * consulting `KULT/-G`
-* transition `TAPBS/EUGS`
 * harmonious `AR/PHOEPB/KWROUS`
 * collections `KHREBGS/-S`
 * inscribed `EUPB/SKRAOEUB/-D`
@@ -1085,7 +1085,7 @@
 * veritable `SRERT/-BL`
 * obliging `OBL/AOEUPBLG/-G`
 * pavilion `PAFL/KWROPB`
-* instructive `STROUBGT/EUF`
+* instructive `STRUBGT/EUF`
 * Celtic `SELT/EUBG`
 * accomplishments `PHREURB/-PLTS`
 * madly `PHAD/HREU`
@@ -1105,7 +1105,7 @@
 * congenial `KOPB/SKWRAOEPB/KWRAL`
 * speculative `SPEBG/HRAT/EUF`
 * courier `KOR/KWRER`
-* seriousness `SOER/KWRUS/-PBS`
+* seriousness `SAOERS/-PBS`
 * usefulness `AOUS/-FL/-PBS`
 * mortality `PHORT/ALT`
 * fleeting `TPHRAOET/-G`
@@ -1240,6 +1240,7 @@
 * traveler `TRAFL/HRER`
 * stupendous `STAOUPD/OUS`
 * simpler `SEUFRP/HRER`
+* inaccessible `EUPB/ABG/SES/EUBL`
 * repulsive `RE/PULS/EUF`
 * nomination `TPHOPL/TPHAEUGS`
 * conclusive `KAUPB/KHRAOUS/EUF`
@@ -1251,7 +1252,7 @@
 * merciless `PHERS/-LS`
 * discarded `TKEUS/KARD/-D`
 * ruinous `RAOUPB/OUS`
-* conventions `KEFPBS/-S`
+* conventions `KEFPBGS/-S`
 * officially `TPEURB/HREU`
 * impunity `EUPL/PAOUPB/TEU`
 * preparatory `PREP/TOER`
@@ -1260,10 +1261,10 @@
 * rigging `REUG/-G`
 * cabbage `KAB/APBLG`
 * exacting `EBGS/ABGT/-G`
-* percentage `PER/APBLG`
+* percentage `PERS/APBLG`
 * invaluable `EUPB/SRAL/-BL`
 * sleepless `SHRAOEP/-LS`
-* workmanship `WORBG/PHEPB/SH-P`
+* workmanship `WORBG/PHAPB/SH-P`
 * legacy `HREG/SEU`
 * Paula `PAUL/KWRA`
 * tarry `TAEUR/REU`
@@ -1283,7 +1284,7 @@
 * hairy `HAEU/REU`
 * demonstrations `TKEPL/STRAEUGS/-S`
 * wary `WAR/KWREU`
-* detestable `TKE/SEFT/-BL`
+* detestable `TKE/TEFT/-BL`
 * weakly `WAEBG/HREU`
 * anniversary `APB/SRERS/REU`
 * curly `KUR/HREU`
@@ -1300,7 +1301,7 @@
 * rally `RAL/HREU`
 * girlish `TKPWEURL/EURB`
 * shortest `SHORT/EFT`
-* disregarded `TKEUD/RARD/-D`
+* disregarded `TKEUS/RARD/-D`
 * rocking `ROBG/-G`
 * foolishness `TPAOL/EURB/-PBS`
 * quickness `KWEUBG/-PBS`
@@ -1315,7 +1316,7 @@
 * Davy `TKAEUF/KWREU`
 * mountainous `PHOUPB/TPHOUS`
 * scarcity `SKAEURS/TEU`
-* Bavaria `PWA/SRAEUF/KWRA`
+* Bavaria `PWA/SRAEUR/KWRA`
 * exaltation `KPAL/TAEUGS`
 * Hungarian `HUPBG/AEURPB`
 * obstinately `OBS/TPHAT/HREU`
@@ -1342,7 +1343,7 @@
 * dishonest `TKEUS/HOPB/EFT`
 * yawning `KWRAUPB/-G`
 * lamentable `HRAPLT/-BL`
-* appellation `AEPT/AEUGS`
+* appellation `AEPT/KWROPB`
 * Judy `SKWRUD/KWREU`
 * cleverness `KHREFR/-PBS`
 * ascetic `A/SET/EUBG`
@@ -1350,7 +1351,7 @@
 * inexperienced `EUPB/SPAOERPBS/-D`
 * wintry `WEUPBT/REU`
 * apprehensive `AP/HEPBS/EUF`
-* collective `KHREBT/EUF`
+* collective `KHREBGT/EUF`
 * timely `TAOEUPL/HREU`
 * lamentations `HRAPLT/TAEUGS/-S`
 * adjective `AD/SKWREBG/TEUF`

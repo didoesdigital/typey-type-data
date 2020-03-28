@@ -277,7 +277,7 @@
 * day, `TKAEU KW-BG`
 * whisper `WEUS/PER`
 * go `TKPW`
-* correctly. `KREBT/HREU TP-PL`
+* correctly. `KRELG TP-PL`
 * bamboo `PWAPL/PWAO`
 * cane `KAEUPB`
 * by, `PWEU KW-BG`

@@ -861,7 +861,7 @@
 * year `KWRAOER`
 * us. `US TP-PL`
 * journeyman `SKWROURPB/EU/PHAPB`
-* apprentice, `A/PEPBT/EUS KW-BG`
+* apprentice, `PREPBT/EUS KW-BG`
 * servant, `SEFRB/APBT KW-BG`
 * Martha." `PHAR/THA TP-PL KR-GS`
 * yes, `KWRE KW-BG`

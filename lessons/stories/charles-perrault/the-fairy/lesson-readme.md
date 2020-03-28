@@ -217,7 +217,7 @@
 * girl's `TKPWEURL/AES`
 * mouth! `PHO*UT SKHRAPL`
 * How `KPA/HOU`
-* happens `HABS`
+* happens `HAPS`
 * this, `TH KW-BG`
 * child?" `KHAOEULD H-F KR-GS`
 * (This `PREPB KPA/TH`

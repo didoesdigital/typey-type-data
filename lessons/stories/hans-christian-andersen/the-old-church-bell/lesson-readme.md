@@ -683,13 +683,13 @@
 * sold `SOELD`
 * copper; `KOP/ER STPH*FPLT`
 * then `THEPB`
-* Bavaria `PWA/SRAEUF/KWRA`
+* Bavaria `PWA/SRAEUR/KWRA`
 * melted `PHELT/-D`
 * furnace. `TPURPBS TP-PL`
 * happened? `HAPD H-F`
 * royal `ROEUL`
 * city `STEU`
-* Bavaria, `PWA/SRAEUF/KWRA KW-BG`
+* Bavaria, `PWA/SRAEUR/KWRA KW-BG`
 * down, `TKOUPB KW-BG`
 * required `RAOEURD`
 * monument `PHOPLT`

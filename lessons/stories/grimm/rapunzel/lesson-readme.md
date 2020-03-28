@@ -419,7 +419,7 @@
 * 'Tell `AE KPA/TEL`
 * me, `PHE KW-BG`
 * Gothel, `xxx Gothel KW-BG`
-* happens `HABS`
+* happens `HAPS`
 * are `R`
 * heavier `HEF/KWRER`
 * draw `TKRAU`

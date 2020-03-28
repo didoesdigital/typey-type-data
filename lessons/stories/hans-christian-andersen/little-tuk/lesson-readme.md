@@ -647,7 +647,7 @@
 * future. `TPAOURT TP-PL`
 * sprang `SPRAPBG`
 * book, `PWAOBG KW-BG`
-* correctly. `KREBT/HREU TP-PL`
+* correctly. `KRELG TP-PL`
 * door, `TKAOR KW-BG`
 * nodded `TPHOD/-D`
 * kindly, `KAOEUPBD/HREU KW-BG`

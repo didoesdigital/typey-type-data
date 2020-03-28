@@ -467,7 +467,7 @@
 * when `WHEPB`
 * drink `TKREU`
 * together `TOGT`
-* fellowship: `TPEL/HROE/SH-P STPH-FPLT`
+* fellowship: `TPEL/OE/SH-P STPH-FPLT`
 * here `HAOER`
 * once `WUPBS`
 * fetch `TPEFP`
@@ -944,7 +944,7 @@
 * youngsters `KWR*UPBGS/ERS`
 * rather `RAER`
 * speech `SPAOEFP`
-* fellowship; `TPEL/HROE/SH-P STPH*FPLT`
+* fellowship; `TPEL/OE/SH-P STPH*FPLT`
 * wish `WEURB`
 * marry. `PHAER TP-PL`
 * made `PHAED`

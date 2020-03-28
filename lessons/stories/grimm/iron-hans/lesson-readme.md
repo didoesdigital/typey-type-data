@@ -443,7 +443,7 @@
 * allow `HROU`
 * watch `WAFP`
 * more, `PHOR KW-BG`
-* happens `HABS`
+* happens `HAPS`
 * polluted `PHRAOUT/-D`
 * remain `RE/PHAEUPB`
 * me.' `PHE TP-PL AE`

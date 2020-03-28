@@ -1430,7 +1430,7 @@
 * controvert `TROEFRT`
 * convenience `SRAOEPBS`
 * convenient `SRAOEPB`
-* convention `KEFPBS`
+* convention `KEFPBGS`
 * conventional `SREPBL`
 * converge `KWERPBLG`
 * conversation `K-FRGS`

@@ -621,7 +621,7 @@
 * king, `KEUPBG KW-BG`
 * sleep `SHRAOEP`
 * Next `KPA/TPHEGT`
-* morning—correctly `PHORPBG EPL/TKA*RB KREBT/HREU`
+* morning—correctly `PHORPBG EPL/TKA*RB KRELG`
 * speaking, `SPAOEG KW-BG`
 * noon, `TPHAOPB KW-BG`
 * slept `SHREPT`

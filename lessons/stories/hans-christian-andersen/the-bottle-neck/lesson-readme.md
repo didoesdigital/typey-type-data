@@ -297,7 +297,7 @@
 * them. `THEPL TP-PL`
 * world `WORLD`
 * often `OFPB`
-* happens `HABS`
+* happens `HAPS`
 * contain `TAEUPB`
 * precious `PRERBS`
 * wine, `WAOEUPB KW-BG`
@@ -407,7 +407,7 @@
 * One `KPA/WUPB`
 * morning `PHORPBG`
 * purchaser `PUR`
-* apprentice, `A/PEPBT/EUS KW-BG`
+* apprentice, `PREPBT/EUS KW-BG`
 * told `TOLD`
 * bring `PWREU`
 * best `PWEFT`

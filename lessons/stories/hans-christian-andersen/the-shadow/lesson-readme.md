@@ -1129,7 +1129,7 @@
 * childhood, `KHAOEULD/H*D KW-BG`
 * companions, `KPAPB/KWROPBS KW-BG`
 * drink `TKREU`
-* fellowship, `TPEL/HROE/SH-P KW-BG`
+* fellowship, `TPEL/OE/SH-P KW-BG`
 * thee `THAOE`
 * other?" `OER H-F KR-GS`
 * straightforward `SRAOD`
@@ -1312,7 +1312,7 @@
 * observe, `OEB KW-BG`
 * proud `PROUD`
 * humor, `HAOURPL KW-BG`
-* correctly, `KREBT/HREU KW-BG`
+* correctly, `KRELG KW-BG`
 * treated `TRAETD`
 * so," `SO KW-BG KR-GS`
 * doorway, `TKAOR/WAEU KW-BG`

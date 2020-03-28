@@ -253,7 +253,7 @@
 * fliest `TP*/HR*/KWREFT`
 * around, `ARPBD KW-BG`
 * lonely `HROPBL`
-* disregarded, `TKEUD/RARD/-D KW-BG`
+* disregarded, `TKEUS/RARD/-D KW-BG`
 * myth—"The `PH*EUT EPL/TKA*RB KR-GS KPA/-T`
 * Arabia." `A/RAEUB/KWRA TP-PL KR-GS`
 * wert `W*/*E/R*/T*`

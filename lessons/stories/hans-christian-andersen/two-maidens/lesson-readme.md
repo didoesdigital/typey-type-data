@@ -136,7 +136,7 @@
 * give `TKPWEUF`
 * up `UP`
 * honorable `HOPB/RABL`
-* appellation, `AEPT/AEUGS KW-BG`
+* appellation, `AEPT/KWROPB KW-BG`
 * let `HRET`
 * themselves `TH*EPLS`
 * miscalled `PHEUS/KAULD`

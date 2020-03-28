@@ -133,7 +133,7 @@
 * sees `SAO*ES`
 * everything `EFRG`
 * that `THA`
-* happens `HABS`
+* happens `HAPS`
 * Denmark. `TKEPB/PHARBG TP-PL`
 * On `KPA/OPB`
 * Christmas-eve `KREUS/PHAS H-PB HRO*ER/AOEF`

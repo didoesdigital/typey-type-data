@@ -99,7 +99,7 @@
 * happening. `HAPG TP-PL`
 * He `KPA/HE`
 * looked `HRAOBGD`
-* workmanship; `WORBG/PHEPB/SH-P STPH*FPLT`
+* workmanship; `WORBG/PHAPB/SH-P STPH*FPLT`
 * false `TPALS`
 * stitch `STEUFP`
 * whole `WHOEL`
