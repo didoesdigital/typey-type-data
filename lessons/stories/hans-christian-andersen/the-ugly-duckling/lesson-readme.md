@@ -110,7 +110,7 @@
 * out `OUT`
 * their `THAEUR`
 * shells, `SHELS KW-BG`
-* seldom `SELD/OPL`
+* seldom `SELD`
 * any `TPHEU`
 * visitors. `SREUS/TORS TP-PL`
 * other `OER`

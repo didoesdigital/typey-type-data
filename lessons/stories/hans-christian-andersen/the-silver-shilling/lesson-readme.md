@@ -148,7 +148,7 @@
 * weeks `WAOEBGS`
 * passed, `PAFD KW-BG`
 * during `TKURG`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * long `HROPBG`
 * distance `STKAPBS`
 * without `WOUT`
@@ -621,7 +621,7 @@
 * time. `TAOEUPL TP-PL`
 * "At `KR-GS KPA/AT`
 * passed `PAFD`
-* traveller, `TRAFL/HRER/A*U KW-BG`
+* traveller, `TRA*FL/HRER KW-BG`
 * foreigner, `TPORPB/ER KW-BG`
 * same `SAEUPL`
 * simple `S*EUPL`
@@ -633,7 +633,7 @@
 * outcry, `AOUT/KRAOEU/KW-BG`
 * 'False! `AE KPA/TPALS SKHRAPL`
 * good-for-nothing!' `TKPWAOD H-PB TPOR H-PB TPHOG SKHRAPL AE`
-* traveller `TRAFL/HRER/A*U`
+* traveller `TRA*FL/HRER`
 * examined `KP-D`
 * attentively, `A/TEPBT/EUFL KW-BG`
 * coin,' `KOEUPB KW-BG AE`

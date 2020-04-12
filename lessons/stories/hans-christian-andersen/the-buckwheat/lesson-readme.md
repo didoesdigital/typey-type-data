@@ -5,7 +5,7 @@
 * after `AF`
 * a `AEU`
 * violent `SROEUPBLT`
-* thunder-storm, `THUPBD/ER H-PB STORPL KW-BG`
+* thunder-storm, `THUPBD H-PB STORPL KW-BG`
 * field `TPAOELD`
 * of `-F`
 * buckwheat `PWUBG/WHAOET`

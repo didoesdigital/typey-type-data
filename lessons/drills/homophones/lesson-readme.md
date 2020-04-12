@@ -241,7 +241,7 @@
 * correspondents `KOR/SPOPBT/-S`
 * cosign `KOE/SAOEUPB`
 * cosine `KOE/SAO*EUPB`
-* council `KUPB/SEUL`
+* council `KAUPB/SEUL`
 * counsel `KOUPB`
 * councilor `KUPBS/HROR`
 * counselor `KOUPBL`
@@ -955,7 +955,7 @@
 * whee `WHAOE`
 * wet `WET`
 * whet `WHET`
-* wheeled `WHAOEL/-D`
+* wheeled `WHAOELD`
 * wield `WAOELD`
 * which `WEU`
 * witch `WEUFP`

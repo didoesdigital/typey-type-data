@@ -2306,7 +2306,7 @@ Ib and Little Christina
 'Sometimes,': KPA/STAOEUPLS KW-BG
 'but': PWUT
 'very': SRE
-'seldom,': SELD/OPL KW-BG
+'seldom,': SELD KW-BG
 'he': HE
 'heard': HAERD
 'of': -F
@@ -4244,7 +4244,7 @@ Ib and Little Christina
 'certain': SERPB
 'appointment,': POEUPLT KW-BG
 'and': SKP
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'for': TPOR
 'six': SEUBGS
 'months': PHO*PBTS
@@ -4687,7 +4687,7 @@ Ib and Little Christina
 'well': WEL
 'and': SKP
 'prettily': PRET/HREU
-'furnished;': TPURPB/EURBD STPH*FPLT
+'furnished;': TPURPB/-D STPH*FPLT
 'for': TPOR
 'he': HE
 'was': WAS

@@ -327,7 +327,7 @@
 * farther!" `TPA*RT SKHRAPL KR-GS`
 * In `KPA/TPH`
 * way `WAEU`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * poultry-yard `POL/TREU KWRA*RD`
 * poultry-yard, `POL/TREU H-PB KWRARD KW-BG`
 * last `HRAFT`

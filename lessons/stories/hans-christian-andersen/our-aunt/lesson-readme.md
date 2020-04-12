@@ -162,7 +162,7 @@
 * while, `WHAOEUL KW-BG`
 * other `OER`
 * hand, `HAPBD KW-BG`
-* theatrical `THAOEFRT/K-L`
+* theatrical `THAOERT/K-L`
 * evening `AOEPBG`
 * lasted `HRAFT/-D`
 * till `TEUL`
@@ -630,7 +630,7 @@
 * buildings, `PWHR-GS KW-BG`
 * property-man `PROT H-PB PHAPB`
 * placed, `PHRAEUFD KW-BG`
-* infinite `EUFPB/TPHEUT`
+* infinite `TPH-FPBT`
 * pains, `PAEUPBS KW-BG`
 * countries `KUPBTS`
 * belong, `PWHROPBG KW-BG`

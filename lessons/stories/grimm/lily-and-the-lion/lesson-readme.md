@@ -614,7 +614,7 @@
 * off `OF`
 * carrying `KAERG`
 * unhappy `UPB/HAEP`
-* traveller `TRAFL/HRER/A*U`
+* traveller `TRA*FL/HRER`
 * again `TKPWEPB`
 * forsaken `TPAUR/SA*EUPB`
 * forlorn; `TPAUR/HRORPB STPH*FPLT`

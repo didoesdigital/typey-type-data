@@ -715,7 +715,7 @@
 * befell `PWE/TPEL`
 * him. `HEUPL TP-PL`
 * hungry `HUPBG/REU`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * whole `WHOEL`
 * gulp, `TKPWUL/*P KW-BG`
 * away. `A/WAEU TP-PL`
@@ -825,7 +825,7 @@
 * 'Ah!' `AE KPA/HA*E SKHRAPL AE`
 * fears `TPAOERZ`
 * 'Yes, `AE KPA/KWRE KW-BG`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * over `OEFR`
 * world, `WORLD KW-BG`
 * think, `THEU KW-BG`
@@ -864,7 +864,7 @@
 * mother, `PHOER KW-BG`
 * peace; `PAES STPH*FPLT`
 * though `THOE`
-* traveller, `TRAFL/HRER/A*U KW-BG`
+* traveller, `TRA*FL/HRER KW-BG`
 * done `TKOPB`
 * seen `SAOEPB`
 * many `PHAEPB`

@@ -314,7 +314,7 @@
 * laughed `HRAFD`
 * chuckled, `KHUBG/-LD KW-BG`
 * seemed `SAOEPLD`
-* mightily `PHAOEUT/HREU`
+* mightily `PHAOEUT/SKWREU/HREU`
 * delighted. `TKHRAOEUTD TP-PL`
 * dressed `TKREFD`
 * twinkling `TWEUPB/K-LG`

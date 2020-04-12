@@ -43,7 +43,7 @@
 * us, `US KW-BG`
 * yellow `KWREL/OE`
 * leaves `HREFS`
-* flutter `TPHRUT`
+* flutter `TPHRUT/ER`
 * down `TKOUPB`
 * from `TPR`
 * branches. `PWRAFRPBS TP-PL`

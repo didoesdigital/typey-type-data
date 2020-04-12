@@ -443,7 +443,7 @@
 * respect, `R-PT KW-BG`
 * read `RAED`
 * criticisms `KREUT/SEUPL/-S`
-* theatricals `THAOEFRT/K-L/-S`
+* theatricals `THAOERT/K-L/-S`
 * art `ART`
 * evening, `AOEPBG KW-BG`
 * fancied `TPAPB/SEU/-D`

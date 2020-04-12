@@ -390,7 +390,7 @@
 * visit. `SREUFT TP-PL`
 * There `KPA/THR`
 * Cochin `xxx Cochin`
-* Chinese `KHAOEUPB/AOEZ`
+* Chinese `KHAOEUPBZ`
 * amongst `PHOPBGS`
 * them; `THEPL STPH*FPLT`
 * wear `WAER`
@@ -685,7 +685,7 @@
 * "Chirp `KR-GS KPA/KHEURP`
 * twitter, `HRO*ER/TWEUT/*ER KW-BG`
 * dew-drops `TKAO*U H-PB TKROPS`
-* glitter, `TKPWHREUT KW-BG`
+* glitter, `TKPWHREURT KW-BG`
 * In `KPA/TPH`
 * hours `HOURS`
 * sunny `SAOUPB`
@@ -831,9 +831,9 @@
 * showed `SHOED`
 * deal `TKAOEL`
 * pity, `PEUT/TEU KW-BG`
-* Chinese. `KHAOEUPB/AOEZ TP-PL`
+* Chinese. `KHAOEUPBZ TP-PL`
 * again `TKPWEPB`
-* Chinese," `KHAOEUPB/AOEZ KW-BG KR-GS`
+* Chinese," `KHAOEUPBZ KW-BG KR-GS`
 * whispered, `WHEUS/PERD KW-BG`
 * wept `WEPT`
 * noisy, `TPHOEU/SEU KW-BG`

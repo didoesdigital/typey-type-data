@@ -240,7 +240,7 @@
 * I `EU`
 * eating `AOEGT`
 * haste `HAEUFT`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * ring `REUPBG`
 * lay `HRAEU`
 * under `TPH-PB`

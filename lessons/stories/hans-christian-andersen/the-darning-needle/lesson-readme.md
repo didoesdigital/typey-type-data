@@ -399,7 +399,7 @@
 * them." `THEPL TP-PL KR-GS`
 * "And `KR-GS AFPBD`
 * we `WE`
-* glitter," `TKPWHREUT KW-BG KR-GS`
+* glitter," `TKPWHREURT KW-BG KR-GS`
 * At `KPA/AT`
 * same `SAEUPL`
 * moment `PHOEPLT`

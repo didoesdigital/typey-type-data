@@ -2112,7 +2112,7 @@
 * drooping `TKRAOPG`
 * dropped `TKROPD`
 * dropper `TKRORP`
-* dropping `TROPG`
+* dropping `TKROPG`
 * dross `TKROS`
 * drought `TKROUT`
 * drover `TKROEFR`
@@ -4177,7 +4177,7 @@
 * refused `RAO*UFD`
 * refusing `RAO*UFG`
 * regard `RARD`
-* regardless `RARLDZ`
+* regardless `RARLD`
 * regimen `TKPWREPL`
 * region `RAOEGS`
 * regional `RAOELGS`
@@ -5596,7 +5596,7 @@
 * swab `SWAB`
 * swag `SWAG`
 * swain `SWAEUPB`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * swam `SWAPL`
 * swamp `SWAFRP`
 * swan `SWAPB`
@@ -6577,7 +6577,7 @@
 * withdrawn `WRAUPB`
 * withdrew `WRAOU`
 * withheld `WHELD`
-* withhold `KPOELD`
+* withhold `WOLD`
 * within `W-PB`
 * without `WOUT`
 * witness `W-PBS`

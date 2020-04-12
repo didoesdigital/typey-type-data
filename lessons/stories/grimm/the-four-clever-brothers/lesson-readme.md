@@ -332,7 +332,7 @@
 * 'take `AE TAEUBG`
 * away `A/WAEU`
 * without `WOUT`
-* letting `HR*EGT`
+* letting `HREGT`
 * bird `PWEURD`
 * upon `POPB`
 * them `THEPL`

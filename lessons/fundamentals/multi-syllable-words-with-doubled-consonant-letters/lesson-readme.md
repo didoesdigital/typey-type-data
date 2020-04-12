@@ -377,10 +377,10 @@
 * motionless `PHOEGS/-LS`
 * hopeless `HOEP/-LS`
 * gratefully `TKPWRAET/TPHREU`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * commands `KPHAPBDZ`
 * Polly `POL/HREU`
-* letting `HR*EGT`
+* letting `HREGT`
 * summit `SUPLT`
 * artillery `AR/TEUL/REU`
 * arrest `A*EURS`
@@ -419,7 +419,7 @@
 * illustrious `EUL/HRUS/TROUS`
 * Anna `APB/TPHA`
 * array `A/RAEU`
-* bitterness `PWEUT/*ERPBS`
+* bitterness `PWEURT/-PBS`
 * expressions `EBGS/PREGSZ`
 * alliance `A/HRAOEUPBS`
 * apprehension `AP/HEPBGS`
@@ -446,7 +446,7 @@
 * Morrow `PHOR/ROE`
 * corresponding `KOERPBG`
 * session `SEGS`
-* traveller `TRAFL/HRER/A*U`
+* traveller `TRA*FL/HRER`
 * warrant `WARPBT`
 * Illinois `*EUL`
 * Charlotte `KHARL/OT`
@@ -477,7 +477,7 @@
 * attacks `A/TABGS`
 * literally `HREUT/RAEL`
 * Ellen `EL/EPB`
-* dropping `TROPG`
+* dropping `TKROPG`
 * penny `PEPB/TPHEU`
 * eagerness `AOEG/ERPBS`
 * occurs `KROEURS`
@@ -516,7 +516,7 @@
 * warranties `WARPB/TEU/-S`
 * happier `HAP/KWRER`
 * ladder `HRAERD`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * sunny `SAOUPB`
 * tyranny `TEUR/TPHEU`
 * bidding `PWEUD/-G`
@@ -544,7 +544,7 @@
 * surroundings `SRAOUPBD/-G`
 * sorrows `SROE/-S`
 * occasioned `OEBGS/-D`
-* pattern `PA*RPBT`
+* pattern `PAERPB`
 * errand `ER/APBD`
 * communicate `KAEUBGT`
 * essentially `AOELGS`
@@ -647,7 +647,7 @@
 * Johnny `SKWROPB/KWREU`
 * forgiveness `TPOR/TKPW*EUFPBS`
 * awfully `AUF/HREU`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * commonplace `KPHOPB/PHRA*EUS`
 * uneasiness `UPB/EZ/-PBS`
 * commencement `KPHEPBS/*PLT`
@@ -700,7 +700,7 @@
 * barrier `PWAR/KWRER`
 * politeness `PHRAOEUT/*PBS`
 * effectually `EFBG/KHUL/HREU`
-* discussing `SKUFG`
+* discussing `STKUFG`
 * barrel `PWARL`
 * coolly `KAOL/HREU`
 * swimming `SWEUPLG`
@@ -732,11 +732,11 @@
 * borrow `PWO*ER`
 * flattering `TPHRAT/ER/-G`
 * swelling `SWELG`
-* dissolved `TKEUS/SOL/*FD`
+* dissolved `TKEUS/SOFLD`
 * attribute `TR-BT`
 * messengers `PHAEPBG/-S`
 * Sabbath `SAB/A*T`
-* holiness `HOE/HREU/*PBS`
+* holiness `HOEUL/-PBS`
 * affliction `A/TPHREUBGS`
 * ally `AL/HREU`
 * rubbing `RUBG`
@@ -756,7 +756,7 @@
 * countless `KOUPBT/-LS`
 * associates `SOERBTS`
 * firmness `TPEURPL/-PBS`
-* loveliness `HR*UF/HREU/*PBS`
+* loveliness `HROFL/-PBS`
 * communities `KPHAOUPBTS`
 * gladness `TKPWHRAD/-PBS`
 * Apollo `A/POL/HRO`
@@ -841,7 +841,7 @@
 * shilling `SHEULG`
 * swollen `SWOL/-PB`
 * stubborn `STURPB`
-* opponent `O/POEPBT`
+* opponent `POEPBT`
 * Brussels `PWRUS/ELS`
 * harness `HARPBS`
 * channels `KHAPBLS`
@@ -862,20 +862,20 @@
 * Geoffrey `SKWR*EF/REU`
 * accommodation `A/KOPL/TKAEUGS`
 * formally `TPORPL/HREU`
-* umbrella `UPL/PWHRAEL`
+* umbrella `UPL/PWREL/HRA`
 * thrilling `THREULG`
 * abyss `A/PWEUS`
 * planning `PHRAPBG`
 * incessantly `EUPB/SEPBT/HREU`
 * flattery `TPHRAT/REU`
 * buttons `PW*UPBTS`
-* frankness `TPRAPB/K-PBS`
+* frankness `TPRAPBG/-PBS`
 * progressive `PROG/EUF`
 * villa `SREUL/A`
 * appoint `POEUPB`
 * interrupt `SPWRUPT`
 * suppress `SPRES`
-* kettle `KET/*L`
+* kettle `K*ELT`
 * boldness `PWOLD/-PBS`
 * rabbit `RABT`
 * befallen `PWE/TPAUL/*EPB`
@@ -966,7 +966,7 @@
 * brilliancy `PWREUL/KWRAPBS/KWREU`
 * Phillips `TPEUL/EUPS`
 * shipping `SHEUPG`
-* regardless `RARLDZ`
+* regardless `RARLD`
 * fearfully `TPAOER/TPHREU`
 * comments `KPHEPBTS`
 * whiteness `WHAOEUT/-PBS`
@@ -988,7 +988,7 @@
 * carelessness `KAEURLS/-PBS`
 * affectation `AFBG/TAEUGS`
 * connections `KEBGS/-S`
-* colossal `KHROS/A*L`
+* colossal `KHROFL`
 * rubber `RAOURB`
 * nightfall `TPHAOEUGT/TPAUL`
 * skipper `SKEUP/ER`
@@ -1019,7 +1019,7 @@
 * Wellington `WELG/TOPB`
 * fullest `TPUL/EFT`
 * scaffold `SKAFLD`
-* flutter `TPHRUT`
+* flutter `TPHRUT/ER`
 * commotion `KPHOEGS`
 * renaissance `RAEPBS`
 * Clifford `KHREUFRD`
@@ -1070,7 +1070,7 @@
 * gallows `TKPWAL/HROE/-S`
 * wretchedness `WREFPD/-PBS`
 * possessor `PESZ/SOR`
-* glitter `TKPWHREUT`
+* glitter `TKPWHREURT`
 * pallid `PAL/EUD`
 * inferred `TPH-FRD`
 * accumulation `ABG/HRAEUGS`
@@ -1172,7 +1172,7 @@
 * specifically `SPEFL`
 * annoying `TPHOEUG`
 * squirrel `SKWEURL`
-* withhold `KPOELD`
+* withhold `WOLD`
 * aggregate `TKPWRAT`
 * illegal `EUL/HRAOEL`
 * dissolve `TKEUS/OFL`

@@ -176,6 +176,7 @@
 * Persian `PERGS`
 * separation `SERPGS`
 * filling `TPEULG`
+* legislation `SHRA*EUGS`
 * session `SEGS`
 * favorable `TPAEUFRBL`
 * convention `KEFPBGS`

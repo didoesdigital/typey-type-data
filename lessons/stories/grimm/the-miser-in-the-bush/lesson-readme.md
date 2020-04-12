@@ -330,7 +330,7 @@
 * your `KWROUR`
 * proposal.' `PROEL TP-PL AE`
 * So `KPA/SO`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * pleased `PHRAOEFD`
 * with `W`
 * bargain. `PWARG/AEUPB TP-PL`

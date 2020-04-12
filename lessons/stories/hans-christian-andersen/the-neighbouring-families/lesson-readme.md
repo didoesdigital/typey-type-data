@@ -652,7 +652,7 @@
 * head. `HED TP-PL`
 * gold-jacket `TKPWOELD H-PB SKWRABGT`
 * fly," `TPHRAOEU KW-BG KR-GS`
-* letting `HR*EGT`
+* letting `HREGT`
 * away `A/WAEU`
 * deadly `TKED/HREU`
 * fear, `TPAOER KW-BG`
@@ -948,7 +948,7 @@
 * another, `TPHOER KW-BG`
 * puffed `PUFD`
 * chests `KHEFT/-S`
-* mightily, `PHAOEUT/HREU KW-BG`
+* mightily, `PHAOEUT/SKWREU/HREU KW-BG`
 * private `PRAOEUFT`
 * views `SRAOUS`
 * opinions. `P-PBS TP-PL`

@@ -389,7 +389,7 @@
 * big `PWEUG`
 * pearl. `PERL TP-PL`
 * out `OUT`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * night, `TPHAOEUT KW-BG`
 * again `TKPWEPB`
 * walked `WAUBGD`

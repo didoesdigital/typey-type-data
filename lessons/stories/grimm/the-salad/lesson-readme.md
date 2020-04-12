@@ -510,7 +510,7 @@
 * strengthen `STREPBG/THEPB`
 * ate `AEUT`
 * scarcely `SKAEURS/HREU`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * two `TWO`
 * bites `PWAOEUTS`
 * felt `TPELT`
@@ -619,7 +619,7 @@
 * leaves; `HREFS STPH*FPLT`
 * ass `A*S`
 * other, `OER KW-BG`
-* letting `HR*EGT`
+* letting `HREGT`
 * dish `TKEURB`
 * ground. `TKPWROUPBD TP-PL`
 * nobody `TPHOEB`

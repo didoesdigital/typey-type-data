@@ -571,7 +571,7 @@
 * heard `HAERD`
 * hardened `HARD/-PBD`
 * full `TPUL`
-* bitterness. `PWEUT/*ERPBS TP-PL`
+* bitterness. `PWEURT/-PBS TP-PL`
 * day, `TKAEU KW-BG`
 * gnawing `TPHAU/-G`
 * hollow `HOL/OE`

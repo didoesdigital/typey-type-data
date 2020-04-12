@@ -721,7 +721,7 @@
 * with!' `W SKHRAPL AE`
 * scarcely `SKAEURS/HREU`
 * bound `PWOUPBD`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * When `KPA/WHEPB`
 * appeased `A/PAOEZ/-D`
 * his `HEUS`

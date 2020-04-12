@@ -20,7 +20,7 @@
 * real `RAEL`
 * princess. `PREUPB/SES TP-PL`
 * He `KPA/HE`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * all `AUL`
 * over `OEFR`
 * the `-T`
@@ -67,7 +67,7 @@
 * terrible `TERBL`
 * storm `STORPL`
 * on; `OPB STPH*FPLT`
-* thunder `THUPBD/ER`
+* thunder `THUPBD`
 * lightning, `HRAOEUT/TPHEUPBG KW-BG`
 * rain `RAEUPB`
 * poured `PORD`

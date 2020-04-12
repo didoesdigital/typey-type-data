@@ -199,7 +199,7 @@
 * figure `TPEUG`
 * quality. `KWALT TP-PL`
 * They `KPA/THE`
-* mightily `PHAOEUT/HREU`
+* mightily `PHAOEUT/SKWREU/HREU`
 * delighted `TKHRAOEUTD`
 * invitation, `EUPB/SREU/TAEUGS KW-BG`
 * wonderfully `WOPBD/TPHREU`
@@ -672,7 +672,7 @@
 * head-dress, `HED H-PB TKRES KW-BG`
 * some `SOPL`
 * next `TPHEGT`
-* pattern, `PA*RPBT KW-BG`
+* pattern, `PAERPB KW-BG`
 * provided `PROE/SRAOUD/-D`
 * meet `PHAOET`
 * materials, `TAOERLS KW-BG`

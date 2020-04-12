@@ -15,7 +15,7 @@ The Swallow and the Other Birds
 'field': TPAOELD
 'where': W-R
 'a': AEU
-'Swallow': KPA/SWO*EUL
+'Swallow': KPA/SWAL
 'and': SKP
 'some': SOPL
 'other': OER
@@ -33,7 +33,7 @@ The Swallow and the Other Birds
 'man,"': PHAPB KW-BG KR-GS
 'quoth': KWO*ET
 'the': -T
-'Swallow.': KPA/SWO*EUL TP-PL
+'Swallow.': KPA/SWAL TP-PL
 '"Why,': KR-GS KPA/KWR KW-BG
 'what': WHA
 'is': S
@@ -72,7 +72,7 @@ The Swallow and the Other Birds
 'heed': HAO*ED
 'to': TO
 'the': -T
-'Swallow's': KPA/SWO*EUL AES
+'Swallow's': KPA/SWAL AES
 'words,': WORDZ KW-BG
 'and': SKP
 'by': PWEU
@@ -102,7 +102,7 @@ The Swallow and the Other Birds
 'had': H
 'despised': STKPAOEUDZ
 'the': -T
-'Swallow's': KPA/SWO*EUL AES
+'Swallow's': KPA/SWAL AES
 'advice': SREUS
 'was': WAS
 'caught': KAUT
@@ -121,7 +121,7 @@ The Swallow and the Other Birds
 'you?"': U H-F KR-GS
 'said': SAEUD
 'the': -T
-'Swallow.': KPA/SWO*EUL TP-PL
+'Swallow.': KPA/SWAL TP-PL
 'Destroy': KPA/STKROEU
 'the': -T
 'seed': SAOED

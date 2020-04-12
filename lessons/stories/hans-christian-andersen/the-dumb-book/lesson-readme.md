@@ -218,7 +218,7 @@
 * fell `TPEL`
 * it. `T TP-PL`
 * A `KPA/AEU`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * flew `TPHRAOU`
 * swiftness `SWEUFT/-PBS`
 * arrow `AR/OE`

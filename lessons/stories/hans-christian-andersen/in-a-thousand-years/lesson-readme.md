@@ -368,7 +368,7 @@
 * week, `WAOEBG KW-BG`
 * according `KORG`
 * directions `TKREBGS/-S`
-* traveller" `TRAFL/HRER/A*U KR-GS`
+* traveller" `TRA*FL/HRER KR-GS`
 * (and `PREPB SKP`
 * mentions `PHEPBGS/-S`
 * name `TPHAEUPL`

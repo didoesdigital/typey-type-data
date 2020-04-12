@@ -566,7 +566,7 @@
 * pieces, `PAOEFS KW-BG`
 * immediately `PHAOELD`
 * afterwards `A*FRDZ`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * fish. `TPEURB TP-PL`
 * Oh `KPA/O*ERBGS`
 * inside `TPH-DZ`
@@ -612,7 +612,7 @@
 * carried `KAERD`
 * room. `RAOPL TP-PL`
 * anxious `KPUS`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * fish; `TPEURB STPH*FPLT`
 * proud. `PROUD TP-PL`
 * table, `TAEUBL KW-BG`

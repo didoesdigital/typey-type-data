@@ -348,7 +348,7 @@
 * upward `AUP/WARBD`
 * heart `HART`
 * realms `REL/-PLS`
-* Infinite; `KPA/EUFPB/TPHEUT STPH*FPLT`
+* Infinite; `KPA/TPH-FPBT STPH*FPLT`
 * how, `HOU KW-BG`
 * form? `TPORPL H-F`
 * The `KPA/-T`
@@ -403,7 +403,7 @@
 * fair. `TPAEUR TP-PL`
 * Such `KPA/SUFP`
 * female `TPAEL`
-* loveliness `HR*UF/HREU/*PBS`
+* loveliness `HROFL/-PBS`
 * beheld—yet `PWE/HELD EPL/TKA*RB KWRET`
 * stay: `STAEU STPH-FPLT`
 * it, `T KW-BG`
@@ -756,7 +756,7 @@
 * covered `KOFRD`
 * carpets `KARPTS`
 * statue. `STOEUT TP-PL`
-* richly-furnished `REUFP/HREU H-PB TPURPB/EURBD`
+* richly-furnished `REUFP/HREU H-PB TPURPB/-D`
 * chambers, `KHAEURPLS KW-BG`
 * over `OEFR`
 * mosaic `PHO/SAEUBG`

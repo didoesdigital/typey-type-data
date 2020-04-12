@@ -66,7 +66,7 @@
 * musician.' `PHAOUGS TP-PL AE`
 * After `KPA/AF`
 * he `HE`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * little `HREUL`
 * way, `WAEU KW-BG`
 * spied `SPAOEUD`

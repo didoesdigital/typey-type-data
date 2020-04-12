@@ -246,7 +246,7 @@
 * ceremony; `SER/PHOEPB STPH*FPLT`
 * after `AF`
 * other `OER`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * down `TKOUPB`
 * throat. `THROET TP-PL`
 * youngest, `KWRUPBG/EFT KW-BG`

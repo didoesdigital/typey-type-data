@@ -470,7 +470,7 @@
 * direction `TKREBGS`
 * ought `OT`
 * go. `TKPW TP-PL`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * search `SEFRPB`
 * forest, `TPOEFRT KW-BG`
 * walking `WAUG`

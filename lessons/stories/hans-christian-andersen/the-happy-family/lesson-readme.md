@@ -31,7 +31,7 @@
 * almost `HR-PL`
 * as `AZ`
 * good `TKPWAOD`
-* umbrella, `UPL/PWHRAEL KW-BG`
+* umbrella, `UPL/PWREL/HRA KW-BG`
 * so `SO`
 * wonderfully `WOPBD/TPHREU`
 * large. `HRARPBLG TP-PL`
@@ -382,7 +382,7 @@
 * "black `KR-GS PWHRABG`
 * without `WOUT`
 * houses; `HO*UFS STPH*FPLT`
-* vulgar `SROL/TKPWAR`
+* vulgar `SRUL/TKPWAR`
 * conceited `KAUPB/SAOET/-D`
 * too. `TAO TP-PL`
 * ants `A*PBT/-S`

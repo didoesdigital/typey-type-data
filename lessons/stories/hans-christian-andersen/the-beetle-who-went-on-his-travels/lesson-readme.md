@@ -421,7 +421,7 @@
 * know," `TPHOE KW-BG KR-GS`
 * another, `TPHOER KW-BG`
 * "If `KR-GS KPA/TP`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * flies `TPHRAOEUS`
 * far `TPAR`
 * her `HER`

@@ -588,7 +588,7 @@
 * tasted `TAEUFT/-D`
 * die. `TKAOEU TP-PL`
 * peasant's `PEFPBT AES`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * hills `HEULS`
 * door; `TKAOR STPH*FPLT`
 * head `HED`

@@ -454,7 +454,7 @@
 * waving `WAFG`
 * locks `HROBGZ`
 * pure `PAOUR`
-* glitter `TKPWHREUT`
+* glitter `TKPWHREURT`
 * sun, `SUPB KW-BG`
 * ran `RAPB`
 * pulled `PULD`

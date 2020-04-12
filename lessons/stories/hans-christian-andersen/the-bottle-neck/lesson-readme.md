@@ -822,7 +822,7 @@
 * nearest `TPHAOER/EFT`
 * home? `HOEPL H-F`
 * not, `TPHOT KW-BG`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * onward `AOPB/WA*RD`
 * onward, `AOPB/WA*RD KW-BG`
 * wandering `WAPBGD`

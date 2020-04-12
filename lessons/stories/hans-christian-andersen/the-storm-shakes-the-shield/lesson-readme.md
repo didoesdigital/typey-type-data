@@ -600,7 +600,7 @@
 * early `ERL`
 * lecture, `HREBG KW-BG`
 * furled `TPURL/-D`
-* umbrella. `UPL/PWHRAEL TP-PL`
+* umbrella. `UPL/PWREL/HRA TP-PL`
 * striving `STRAOEUFG`
 * truth, `TRAO*UT KW-BG`
 * considered `KR-D`
@@ -663,7 +663,7 @@
 * men, `PHEPB KW-BG`
 * important `PORPB`
 * affairs `A/TPAEURS`
-* discussed, `SKUFD KW-BG`
+* discussed, `STKUFD KW-BG`
 * themselves `TH*EPLS`
 * noisy `TPHOEU/SEU`
 * boys' `PWOEUS AE`

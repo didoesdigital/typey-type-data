@@ -817,7 +817,7 @@
 * thrones `THRO*EPB/-S`
 * opposite `OP/SEUT`
 * judges `SKWRUPBLGS`
-* council. `KUPB/SEUL TP-PL`
+* council. `KAUPB/SEUL TP-PL`
 * already `HR-R`
 * ladder; `HRAERD STPH*FPLT`
 * about `PW`

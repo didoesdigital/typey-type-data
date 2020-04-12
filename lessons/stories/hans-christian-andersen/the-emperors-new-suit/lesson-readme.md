@@ -257,7 +257,7 @@
 * if `TP`
 * admire `AD/PHAOEUR`
 * exquisite `EBGS/KWEUFT`
-* pattern `PA*RPBT`
+* pattern `PAERPB`
 * beautiful `PWAOUFL`
 * colours, `KHROURS/A*U KW-BG`
 * pointing `POEUPBGT`
@@ -298,7 +298,7 @@
 * through `THRU`
 * glasses. `TKPWHRAFS TP-PL`
 * "What `KR-GS KPA/WHA`
-* pattern, `PA*RPBT KW-BG`
+* pattern, `PAERPB KW-BG`
 * brilliant `PWREULT`
 * colours! `KHROURS/A*U SKHRAPL`
 * tell `TEL`
@@ -310,7 +310,7 @@
 * described `KREUFD`
 * explained `SPHRAEUPBD`
 * curious `KAOURS`
-* pattern. `PA*RPBT TP-PL`
+* pattern. `PAERPB TP-PL`
 * listened `HREUFPBD`
 * attentively, `A/TEPBT/EUFL KW-BG`
 * might `PHAOEUT`
@@ -394,7 +394,7 @@
 * before. `PW-FP TP-PL`
 * "Your `KR-GS KPA/KWROUR`
 * Majesty `KPA/PHAPBLG/STEU`
-* pattern." `PA*RPBT TP-PL KR-GS`
+* pattern." `PAERPB TP-PL KR-GS`
 * then `THEPB`
 * pointed `POEUPBTD`
 * imagined `PHAPBLGD`
@@ -513,7 +513,7 @@
 * look! `HRAOBG SKHRAPL`
 * How `KPA/HOU`
 * fit!" `TPEUT SKHRAPL KR-GS`
-* pattern! `PA*RPBT SKHRAPL`
+* pattern! `PAERPB SKHRAPL`
 * What `KPA/WHA`
 * clothes!" `KHRO*ETS SKHRAPL KR-GS`
 * master `PHAFRT`

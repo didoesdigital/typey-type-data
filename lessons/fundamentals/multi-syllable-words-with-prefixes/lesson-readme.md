@@ -479,6 +479,7 @@
 * arisen `A/RAOEUZ/-D`
 * intently `EUPB/TEPBT/HREU`
 * prodigious `PRO/TKEURBS`
+* dissolved `TKEUS/SOFLD`
 * dispersed `TKEUS/PEFRD`
 * discontent `TKEUS/KOPB/TEPBT`
 * affliction `A/TPHREUBGS`

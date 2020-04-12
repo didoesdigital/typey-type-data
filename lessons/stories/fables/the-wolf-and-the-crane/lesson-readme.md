@@ -24,7 +24,7 @@
 * and `SKP`
 * could `KO`
 * not `TPHOT`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * it. `T TP-PL`
 * He `KPA/HE`
 * soon `SAOPB`

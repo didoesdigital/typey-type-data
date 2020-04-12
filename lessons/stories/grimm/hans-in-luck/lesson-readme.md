@@ -808,7 +808,7 @@
 * kind; `KEUPBD STPH*FPLT`
 * really `R-L`
 * favour `TPAEU/SROUR`
-* letting `HR*EGT`
+* letting `HREGT`
 * rich, `REUFP KW-BG`
 * giving `TKPWEUFG`
 * bargains.' `PWAR/TKPWAEUPBS TP-PL AE`

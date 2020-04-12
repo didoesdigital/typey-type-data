@@ -129,7 +129,7 @@
 * put `PUT`
 * spoke `SPOEBG`
 * wheel `WHAOEL`
-* council. `KUPB/SEUL TP-PL`
+* council. `KAUPB/SEUL TP-PL`
 * And `AFPBD`
 * one `WUPB`
 * thing `THEUPBG`

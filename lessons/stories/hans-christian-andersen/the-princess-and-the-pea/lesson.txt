@@ -24,7 +24,7 @@ The Princess and the Pea
 'real': RAEL
 'princess.': PREUPB/SES TP-PL
 'He': KPA/HE
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'all': AUL
 'over': OEFR
 'the': -T
@@ -98,7 +98,7 @@ The Princess and the Pea
 'on;': OPB STPH*FPLT
 'there': THR
 'was': WAS
-'thunder': THUPBD/ER
+'thunder': THUPBD
 'and': SKP
 'lightning,': HRAOEUT/TPHEUPBG KW-BG
 'and': SKP

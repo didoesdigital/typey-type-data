@@ -31,7 +31,7 @@
 * learned `HRERPBD`
 * man `PHAPB`
 * once `WUPBS`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * into `TPHAO`
 * one `WUPB`
 * these `THEZ`

@@ -248,7 +248,7 @@ The Silver Shilling
 'the': -T
 'shilling': SHEULG
 'had': H
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'a': AEU
 'long': HROPBG
 'distance': STKAPBS
@@ -1527,7 +1527,7 @@ The Silver Shilling
 'passed': PAFD
 'to': TO
 'a': AEU
-'traveller,': TRAFL/HRER/A*U KW-BG
+'traveller,': TRA*FL/HRER KW-BG
 'a': AEU
 'foreigner,': TPORPB/ER KW-BG
 'the': -T
@@ -1571,7 +1571,7 @@ The Silver Shilling
 ''False!': AE KPA/TPALS SKHRAPL
 'good-for-nothing!'': TKPWAOD H-PB TPOR H-PB TPHOG SKHRAPL AE
 'The': KPA/-T
-'traveller': TRAFL/HRER/A*U
+'traveller': TRA*FL/HRER
 'examined': KP-D
 'me': PHE
 'attentively,': A/TEPBT/EUFL KW-BG

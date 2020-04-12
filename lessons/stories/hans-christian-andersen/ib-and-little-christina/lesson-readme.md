@@ -887,7 +887,7 @@
 * dead `TKED`
 * mother `PHOER`
 * servants. `SER/SRAPBTS TP-PL`
-* seldom, `SELD/OPL KW-BG`
+* seldom, `SELD KW-BG`
 * postillion `xxx postillion`
 * eel-seller `AOEL H-PB SERL`
 * passing. `PAFG TP-PL`
@@ -1371,7 +1371,7 @@
 * arrogant. `AR/TKPWAPBT TP-PL`
 * certain `SERPB`
 * appointment, `POEUPLT KW-BG`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * six `SEUBGS`
 * months `PHO*PBTS`
 * foreign `TPOERPB`
@@ -1490,7 +1490,7 @@
 * alike `A/HRAOEUBG`
 * age. `AEUPBLG TP-PL`
 * prettily `PRET/HREU`
-* furnished; `TPURPB/EURBD STPH*FPLT`
+* furnished; `TPURPB/-D STPH*FPLT`
 * churchyard `KH*URPBLG/KWRARD`
 * poverty. `POFRT TP-PL`
 * money `PHUPB`

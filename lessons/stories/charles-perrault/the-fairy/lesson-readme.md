@@ -226,11 +226,11 @@
 * child.) `KHAOEULD TP-PL PR*EPB`
 * creature `KRAOEFP`
 * told `TOLD`
-* frankly `TPRAPB/KHREU`
+* frankly `TPRAPBG/HREU`
 * matter, `PHAERT KW-BG`
 * without `WOUT`
-* dropping `TROPG`
-* infinite `EUFPB/TPHEUT`
+* dropping `TKROPG`
+* infinite `TPH-FPBT`
 * numbers `TPHUPLS`
 * "In `KR-GS KPA/TPH`
 * faith," `TPA*EUT KW-BG KR-GS`

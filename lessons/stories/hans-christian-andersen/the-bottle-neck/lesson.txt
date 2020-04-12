@@ -2218,7 +2218,7 @@ The Bottle Neck
 'knew': TPHAOU
 'not,': TPHOT KW-BG
 'it': T
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'onward': AOPB/WA*RD
 'and': SKP
 'onward,': AOPB/WA*RD KW-BG
@@ -2703,7 +2703,7 @@ The Bottle Neck
 'as': AZ
 'important;': PORPB STPH*FPLT
 'it': T
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'to': TO
 'the': -T
 'place': PHRAEUS

@@ -195,7 +195,7 @@
 * Russell `RUS/SEL`
 * Randy `RAPBD/KWREU`
 * Vincent `SREUPB/SEPBT`
-* Philip `TPUL/EUP`
+* Philip `TPEUL/EUP`
 * Logan `HROEG/A*PB`
 * Bobby `PWOB/KWREU`
 * Harry `HAR/REU`

@@ -451,7 +451,7 @@
 * Here `KPA/HAOER`
 * bees `PWAOES`
 * are `R`
-* mightily `PHAOEUT/HREU`
+* mightily `PHAOEUT/SKWREU/HREU`
 * busy `PW-Z`
 * summer-time, `SAOURPL H-PB TAOEUPL KW-BG`
 * hover `HOFR`

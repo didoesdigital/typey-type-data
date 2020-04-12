@@ -80,7 +80,7 @@
 * words `WORDZ`
 * great `TKPWRAET`
 * noise `TPHOEUS`
-* thunder, `THUPBD/ER KW-BG`
+* thunder, `THUPBD KW-BG`
 * Jupiter `SKWRAOUP/TER`
 * appeared `A/PAOERD`
 * before `PW-FP`

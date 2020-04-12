@@ -132,7 +132,7 @@
 * away. `A/WAEU TP-PL`
 * brought `PWRAUT`
 * morning, `PHORPBG KW-BG`
-* council `KUPB/SEUL`
+* council `KAUPB/SEUL`
 * called `KAULD`
 * together. `TOGT TP-PL`
 * Everyone `KPA/EFRPB`

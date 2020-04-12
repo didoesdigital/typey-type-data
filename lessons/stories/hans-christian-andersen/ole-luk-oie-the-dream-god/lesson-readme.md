@@ -128,7 +128,7 @@
 * arm `ARPL`
 * carries `KAERS`
 * an `APB`
-* umbrella; `UPL/PWHRAEL STPH*FPLT`
+* umbrella; `UPL/PWREL/HRA STPH*FPLT`
 * one `WUPB`
 * with `W`
 * pictures `P*EUFPS`
@@ -143,7 +143,7 @@
 * whole `WHOEL`
 * night. `TPHAOEUT TP-PL`
 * other `OER`
-* umbrella `UPL/PWHRAEL`
+* umbrella `UPL/PWREL/HRA`
 * has `HAS`
 * no `TPHO`
 * pictures, `P*EUFPS KW-BG`
@@ -1111,8 +1111,8 @@
 * travel?" `TRAFL H-F KR-GS`
 * bridegroom. `PWRAOEUD/TKPWRAOPL TP-PL`
 * consulted `KULTD`
-* swallow `SWO*EUL`
-* travelled `TRAFLD/A*U`
+* swallow `SWAL`
+* travelled `TRAFL/*LD`
 * far, `TPAR KW-BG`
 * hen `HEPB`
 * yard, `KWRARD KW-BG`
@@ -1150,7 +1150,7 @@
 * stalk `STAUBG`
 * exactly `ELG`
 * another," `TPHOER KW-BG KR-GS`
-* swallow; `SWO*EUL STPH*FPLT`
+* swallow; `SWAL STPH*FPLT`
 * bad `PWAD`
 * weather." `WHR* TP-PL KR-GS`
 * accustomed `A/KUFPD`
@@ -1183,7 +1183,7 @@
 * allowed `HRO*UD`
 * live `HREUF`
 * wept `WEPT`
-* travelled. `TRAFLD/A*U TP-PL`
+* travelled. `TRAFL/*LD TP-PL`
 * twelve `TWEFL`
 * miles `PHAOEULS`
 * coop, `KAOP KW-BG`
@@ -1210,7 +1210,7 @@
 * spreading `SPREGD`
 * prettiest `PRET/KWREFT`
 * child. `KHAOEULD TP-PL`
-* Chinese," `KHAOEUPB/AOEZ KW-BG KR-GS`
+* Chinese," `KHAOEUPBZ KW-BG KR-GS`
 * appeared `A/PAOERD`
 * china `KHAOEUPB/A`
 * bowl, `PWOEL KW-BG`
@@ -1295,7 +1295,7 @@
 * walked `WAUBGD`
 * off, `OF KW-BG`
 * taking `TAEUG`
-* umbrellas `UPL/PWHRAEL/-S`
+* umbrellas `UPL/PWREL/HRA/-S`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * opinion, `P-PB KW-BG`
 * suppose," `SPOS KW-BG KR-GS`

@@ -93,7 +93,7 @@
 * inspected `TPH-PD`
 * by `PWEU`
 * mayor `PHAEUR`
-* council, `KUPB/SEUL KW-BG`
+* council, `KAUPB/SEUL KW-BG`
 * decide `STKAOEUD`
 * if `TP`
 * fit `TPEUT`
@@ -170,7 +170,7 @@
 * little `HREUL`
 * pride `PRAOEUD`
 * days; `TKAEUS STPH*FPLT`
-* seldom `SELD/OPL`
+* seldom `SELD`
 * condescended `KOPBD/SEPBD/-D`
 * glance `TKPWHRAPBS`
 * excepting `KPEPT/-G`
@@ -943,7 +943,7 @@
 * taken `TAEPB`
 * foundry `TPOUPBD/REU`
 * caused `KAUFD`
-* council `KUPB/SEUL`
+* council `KAUPB/SEUL`
 * town-hall. `TOUPB H-PB HAUL TP-PL`
 * endowed `EPB/TKOU/-D`
 * decay `TKE/KAEU`

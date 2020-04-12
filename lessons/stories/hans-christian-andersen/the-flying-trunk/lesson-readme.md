@@ -698,7 +698,7 @@
 * "'I `KR-GS AE EU`
 * highly `HAOEUL`
 * improper,' `EUPL/PROR KW-BG AE`
-* tea-kettle, `TAE H-PB KET/*L KW-BG`
+* tea-kettle, `TAE H-PB K*ELT KW-BG`
 * kitchen `K-FP`
 * singer, `SEURPBG KW-BG`
 * half-brother `HAF H-PB PWROER`

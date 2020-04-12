@@ -384,7 +384,7 @@
 * way, `WAEU KW-BG`
 * so `SO`
 * affected `A/TPEBGD`
-* Holiness `KPA/HOE/HREU/*PBS`
+* Holiness `KPA/HOEUL/-PBS`
 * Pope. `PO*EP TP-PL`
 * sing `SEUPBG`
 * mass, `PHAS KW-BG`

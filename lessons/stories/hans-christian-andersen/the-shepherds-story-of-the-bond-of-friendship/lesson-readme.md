@@ -883,7 +883,7 @@
 * aware `A/WAEUR`
 * beheld `PWE/HELD`
 * rosy `ROEZ/SEU`
-* loveliness. `HR*UF/HREU/*PBS TP-PL`
+* loveliness. `HROFL/-PBS TP-PL`
 * thing `THEUPBG`
 * happened `HAPD`
 * Unnoticed `KPA/UPB/TPH-TS/-D`

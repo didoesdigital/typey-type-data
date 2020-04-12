@@ -237,7 +237,7 @@
 * lit `HREUT`
 * fire `TPAOEUR`
 * hung `HUPBG`
-* kettle `KET/*L`
+* kettle `K*ELT`
 * hob. `xxx hob TP-PL`
 * brass `PWRAS`
 * shone `SHO*EPB`
@@ -285,7 +285,7 @@
 * Rose-red, `RO*ES H-PB RED KW-BG`
 * open `OEP`
 * door, `TKAOR KW-BG`
-* traveller `TRAFL/HRER/A*U`
+* traveller `TRA*FL/HRER`
 * is `S`
 * shelter.' `SHELT TP-PL AE`
 * pushed `PURBD`
@@ -556,7 +556,7 @@
 * burnt `PWURPBT`
 * heavy `HOEUF`
 * logs; `HROGS STPH*FPLT`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * coarse, `KAORS KW-BG`
 * greedy `TKPWRAOE/TKEU`
 * folk. `TPOEBG TP-PL`

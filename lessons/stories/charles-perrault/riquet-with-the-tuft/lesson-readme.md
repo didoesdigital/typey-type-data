@@ -383,7 +383,7 @@
 * be; `-B STPH*FPLT`
 * boast `PWOEFT`
 * seen `SAOEPB`
-* infinite `EUFPB/TPHEUT`
+* infinite `TPH-FPBT`
 * numbers `TPHUPLS`
 * ladies `HRAEUDZ`
 * exquisitely `EBGS/KWEUFT/HREU`
@@ -538,7 +538,7 @@
 * advice, `SREUS KW-BG`
 * sometimes `STAOEUPLS`
 * hold `HOLD`
-* council `KUPB/SEUL`
+* council `KAUPB/SEUL`
 * apartment. `ARPLT TP-PL`
 * noise `TPHOEUS`
 * change `KHAEUPBG`
@@ -607,7 +607,7 @@
 * pot"; `POT KR-GS STPH*FPLT`
 * another `TPHOER`
 * "Give `KR-GS KPA/TKPWEUF`
-* kettle"; `KET/*L KR-GS STPH*FPLT`
+* kettle"; `K*ELT KR-GS STPH*FPLT`
 * third, `THEURD KW-BG`
 * "Put `KR-GS KPA/PUT`
 * fire." `TPAOEUR TP-PL KR-GS`
@@ -643,7 +643,7 @@
 * work, `WORBG KW-BG`
 * keeping `KAOEPG`
 * tune `TAOUPB`
-* harmonious `AR/PHOEPB/KWROUS`
+* harmonious `HAR/PHOEPB/KWROUS`
 * song. `SOPBG TP-PL`
 * astonished `A/STOPB/EURBD`
 * sight, `SAOEUT KW-BG`

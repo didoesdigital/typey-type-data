@@ -96,6 +96,7 @@ Multi-syllable words with suffixes
 'reputation': REP/TAEUGS
 'concluded': KAUPB/KHRAOUD/-D
 'weakness': WAEBG/-PBS
+'furnished': TPURPB/-D
 'disposed': TKEUS/POES/-D
 'electronically': HREBG/TROPB/KHREU
 'departed': TKPART/-D
@@ -307,6 +308,7 @@ Multi-syllable words with suffixes
 'abundant': A/PWUPBD/APBT
 'corners': KRORPB/-S
 'loudly': HROUD/HREU
+'bitterness': PWEURT/-PBS
 'guardian': TKPWARD/KWRAPB
 'boldly': PWOLD/HREU
 'landscape': HRAPB/SKAEUP
@@ -329,6 +331,7 @@ Multi-syllable words with suffixes
 'smallest': SPHAUL/EFT
 'suspended': SUS/PEPBD/-D
 'frightful': TPRAOEUT/-FL
+'frankly': TPRAPBG/HREU
 'intentions': EUPB/TEPBGS/-S
 'fairy': TPAEUR/REU
 'strongest': STROPBG/EFT
@@ -701,6 +704,7 @@ Multi-syllable words with suffixes
 'fortified': TPORT/TPAOEUD
 'panting': PAPBT/-G
 'messengers': PHAEPBG/-S
+'holiness': HOEUL/-PBS
 'productions': PROUBGS/-S
 'militia': PHEUL/EURB/KWRA
 'ally': AL/HREU
@@ -729,6 +733,7 @@ Multi-syllable words with suffixes
 'entrusted': EPB/TRUFT/-D
 'firmness': TPEURPL/-PBS
 'breeding': PWRAOED/-G
+'loveliness': HROFL/-PBS
 'gladness': TKPWHRAD/-PBS
 'judging': SKWRUPBLG/-G
 'expenditure': SPEPBD/TAOUR
@@ -892,6 +897,7 @@ Multi-syllable words with suffixes
 'vitality': SRAOEUT/ALT
 'pirates': PAOEURT/-S
 'personages': PERPB/APBLG/-S
+'frankness': TPRAPBG/-PBS
 'progressive': PROG/EUF
 'Rogers': ROPBLG/ERS
 'terminated': TERPL/TPHAEUT/-D
@@ -991,12 +997,12 @@ Multi-syllable words with suffixes
 'rebellious': RE/PWEL/KWROUS
 'biting': PWEUT/-G
 'consulting': KULT/-G
-'harmonious': AR/PHOEPB/KWROUS
+'harmonious': HAR/PHOEPB/KWROUS
 'collections': KHREBGS/-S
 'inscribed': EUPB/SKRAOEUB/-D
 'impending': EUPL/PEPBD/-G
 'planting': PHRAPBT/-G
-'theatrical': THAOEFRT/K-L
+'theatrical': THAOERT/K-L
 'suffrage': SUFR/APBLG
 'aching': AEUBG/-G
 'imperative': EUPL/PERT/EUF
@@ -1017,7 +1023,7 @@ Multi-syllable words with suffixes
 'refreshing': RE/TPRERB/-G
 'lifeless': HRAOEUF/-LS
 'gracefully': TKPWRAEUS/-FL/HREU
-'mightily': PHAOEUT/HREU
+'mightily': PHAOEUT/SKWREU/HREU
 'deities': TKAOET/KWREUS
 'manifestation': PHAPB/TPES/TAEUGS
 'princely': PREUPBS/HREU
@@ -1058,7 +1064,7 @@ Multi-syllable words with suffixes
 'stupidity': STAOUPD/TEU
 'antagonist': APBT/AG/TPHEUFT
 'expanded': EBGS/PAPBD/-D
-'abuses': SPWAOUS/-S
+'abuses': PWAOUS/-S
 'exultation': KPUL/TAEUGS
 'adventurous': SREPBG/ROUS
 'lilies': HREUL/KWREU/-S

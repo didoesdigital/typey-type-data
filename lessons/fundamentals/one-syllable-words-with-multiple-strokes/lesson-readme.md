@@ -114,7 +114,7 @@
 * tilde `TEUL/TKE`
 * spies `SPAOEU/-S`
 * blinded `PWHRAOEUPBD/-D`
-* wheeled `WHAOEL/-D`
+* wheeled `WHAOELD`
 * clapped `KHRAP/-D`
 * boasted `PWOEFT/-D`
 * wrinkled `WREUPB/K-LD`

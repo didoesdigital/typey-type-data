@@ -6,7 +6,7 @@
 * a `AEU`
 * Lion `KPA/HRO*EUPB`
 * were `WR`
-* discussing `SKUFG`
+* discussing `STKUFG`
 * the `-T`
 * relative `REL/TEUF`
 * strength `STREPBG`

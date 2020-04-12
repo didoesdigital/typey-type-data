@@ -8,7 +8,7 @@ The Nightingale
 'emperor': EPL/ROR
 'is': S
 'a': AEU
-'Chinese,': KHAOEUPB/AOEZ KW-BG
+'Chinese,': KHAOEUPBZ KW-BG
 'and': SKP
 'all': AUL
 'those': THOZ
@@ -132,7 +132,7 @@ The Nightingale
 'ended.': EPBD/-D TP-PL
 'Those': KPA/THOZ
 'who': WHO
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'beyond': KWROPBD
 'its': EUTS
 'limits': HREUPLTS
@@ -350,7 +350,7 @@ The Nightingale
 'sea.': SAE TP-PL
 'The': KPA/-T
 'books': PWAOBGS
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'all': AUL
 'over': OEFR
 'the': -T
@@ -2130,7 +2130,7 @@ The Nightingale
 'is': S
 'quite': KWAOEUT
 'a': AEU
-'Chinese': KHAOEUPB/AOEZ
+'Chinese': KHAOEUPBZ
 'custom.': KUFPL TP-PL
 'They': KPA/THE
 'all': AUL
@@ -2297,7 +2297,7 @@ The Nightingale
 'the': -T
 'most': PHOFT
 'difficult': TKEUFL
-'Chinese': KHAOEUPB/AOEZ
+'Chinese': KHAOEUPBZ
 'words;': WORDZ STPH*FPLT
 'yet': KWRET
 'all': AUL
@@ -2336,7 +2336,7 @@ The Nightingale
 'all': AUL
 'the': -T
 'other': OER
-'Chinese': KHAOEUPB/AOEZ
+'Chinese': KHAOEUPBZ
 'knew': TPHAOU
 'every': EF
 'little': HREUL
@@ -2563,7 +2563,7 @@ The Nightingale
 'the': -T
 'land.': HRAPBD TP-PL
 'The': KPA/-T
-'Chinese': KHAOEUPB/AOEZ
+'Chinese': KHAOEUPBZ
 'really': R-L
 'were': WR
 'fond': TPOPBD
@@ -2861,7 +2861,7 @@ The Nightingale
 'cried;': KRAOEUD STPH*FPLT
 '"the': KR-GS -T
 'large': HRARPBLG
-'Chinese': KHAOEUPB/AOEZ
+'Chinese': KHAOEUPBZ
 'drum!': TKRUPL SKHRAPL
 'that': THA
 'I': EU

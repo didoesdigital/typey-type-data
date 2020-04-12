@@ -851,7 +851,7 @@ The Bishop of Borglum and His Warriors
 'old': OLD
 'servant,': SEFRB/APBT KW-BG
 'and': SKP
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'away': A/WAEU
 'across': A/KROS
 'the': -T
@@ -1195,7 +1195,7 @@ The Bishop of Borglum and His Warriors
 'and': SKP
 'sting': STEUPBG
 'the': -T
-'traveller's': TRAFL/HRER/A*U AES
+'traveller's': TRA*FL/HRER AES
 'face': TPAEUS
 'till': TEUL
 'they': THE
@@ -1505,7 +1505,7 @@ The Bishop of Borglum and His Warriors
 'altar': AL/TAR
 'is': S
 'the': -T
-'council': KUPB/SEUL
+'council': KAUPB/SEUL
 'table.': TAEUBL TP-PL
 'The': KPA/-T
 'lights': HRAOEUTS
@@ -1702,7 +1702,7 @@ The Bishop of Borglum and His Warriors
 'wax': WABGS
 'is': S
 'heard': HAERD
-'dropping': TROPG
+'dropping': TKROPG
 'from': TPR
 'the': -T
 'candles': KAPBD/-LS
@@ -2244,7 +2244,7 @@ The Bishop of Borglum and His Warriors
 'still': STEUL
 'keeps': KAOEPS
 'up': UP
-'mightily.': PHAOEUT/HREU TP-PL
+'mightily.': PHAOEUT/SKWREU/HREU TP-PL
 'A': KPA/AEU
 'wreck': WREBG
 'is': S

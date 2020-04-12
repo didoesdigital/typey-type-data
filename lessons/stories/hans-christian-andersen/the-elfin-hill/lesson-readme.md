@@ -649,7 +649,7 @@
 * dashed `TKARBD`
 * clattering `KHRAT/ERG`
 * noise `TPHOEUS`
-* thunder `THUPBD/ER`
+* thunder `THUPBD`
 * sound `SOUPBD`
 * organ, `O*RPBG KW-BG`
 * spreading `SPREGD`

@@ -326,7 +326,7 @@
 * This `KPA/TH`
 * solitude `SOL/TAOUD`
 * time `TAOEUPL`
-* letting `HR*EGT`
+* letting `HREGT`
 * sweet `SWAOET`
 * resound. `RE/SO*UPBD TP-PL`
 * climb `KHRAOEUPL`

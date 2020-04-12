@@ -480,7 +480,7 @@
 * Indeed, `KPA/TPHAOEPBD KW-BG`
 * keeps `KAOEPS`
 * still `STEUL`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * by `PWEU`
 * mail, `PHAEUL KW-BG`
 * rest, `REFT KW-BG`

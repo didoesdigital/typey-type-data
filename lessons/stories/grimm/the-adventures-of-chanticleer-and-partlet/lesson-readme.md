@@ -190,7 +190,7 @@
 * pretty `PREUT`
 * pace. `PAEUS TP-PL`
 * After `KPA/AF`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * along `HRAOPBG`
 * way, `WAEU KW-BG`
 * met `PHET`
@@ -536,7 +536,7 @@
 * kept `KEPT`
 * herself: `H*ERS STPH-FPLT`
 * big `PWEUG`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * throat. `THROET TP-PL`
 * fright, `TPRAOEUT KW-BG`
 * 'Pray `AE KPA/PRAEU`

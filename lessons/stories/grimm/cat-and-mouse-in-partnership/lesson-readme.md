@@ -446,7 +446,7 @@
 * scarcely `SKAEURS/HREU`
 * spoken `SPOEPB`
 * sprang `SPRAPBG`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * down. `TKOUPB TP-PL`
 * Verily, `KPA/SRER/HREU KW-BG`
 * way `WAEU`

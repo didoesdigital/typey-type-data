@@ -104,7 +104,7 @@
 * stones. `STOEPBS TP-PL`
 * Mother-Frog `KPA/PHOER H-PB KPA/TPROG`
 * once `WUPBS`
-* traveller. `TRAFL/HRER/A*U TP-PL`
+* traveller. `TRA*FL/HRER TP-PL`
 * She `KPA/SHE`
 * happened `HAPD`
 * water-bucket `WAUR H-PB PWUBGT`

@@ -70,7 +70,7 @@
 * and `SKP`
 * was, `WAS KW-BG`
 * course, `KORS KW-BG`
-* furnished `TPURPB/EURBD`
+* furnished `TPURPB/-D`
 * with `W`
 * teeth. `TAO*ET TP-PL`
 * been `PW-PB`

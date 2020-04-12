@@ -312,7 +312,7 @@
 * broke `PWROEBG`
 * off `OF`
 * short, `SHORT KW-BG`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * syllable; `SEUL/-BL STPH*FPLT`
 * after `AF`
 * mature `PHAT/UR`

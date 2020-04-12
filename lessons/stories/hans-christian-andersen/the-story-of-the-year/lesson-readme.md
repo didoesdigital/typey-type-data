@@ -427,7 +427,7 @@
 * man, `PHAPB KW-BG`
 * high `HAOEU`
 * heap `HAOEP`
-* regardless `RARLDZ`
+* regardless `RARLD`
 * wind `WEUPBD`
 * weather. `WHR* TP-PL`
 * He `KPA/HE`
@@ -531,7 +531,7 @@
 * fields `TPAOELDZ`
 * hills `HEULS`
 * did `TK`
-* glitter `TKPWHREUT`
+* glitter `TKPWHREURT`
 * before. `PW-FP TP-PL`
 * form `TPORPL`
 * un-wandering `*U/TPH* H-PB WAPBGD`
@@ -868,7 +868,7 @@
 * returned `RURPBD`
 * amid `A/PHEUD`
 * crash `KRARB`
-* thunder. `THUPBD/ER TP-PL`
+* thunder. `THUPBD TP-PL`
 * poured `PORD`
 * streams,—now `STRAOEPLS KW-BG EPL/TKA*RB TPHOU`
 * darkness, `TKARBG/-PBS KW-BG`

@@ -444,7 +444,7 @@
 * you. `U TP-PL`
 * Heavens! `KPA/HEFPBS SKHRAPL`
 * letter `HRERT`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * about. `PW TP-PL`
 * tore `TO*R`
 * open `OEP`

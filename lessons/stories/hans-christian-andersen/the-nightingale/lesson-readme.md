@@ -8,7 +8,7 @@
 * emperor `EPL/ROR`
 * is `S`
 * a `AEU`
-* Chinese, `KHAOEUPB/AOEZ KW-BG`
+* Chinese, `KHAOEUPBZ KW-BG`
 * and `SKP`
 * all `AUL`
 * those `THOZ`
@@ -92,7 +92,7 @@
 * where `W-R`
 * ended. `EPBD/-D TP-PL`
 * Those `KPA/THOZ`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * beyond `KWROPBD`
 * its `EUTS`
 * limits `HREUPLTS`
@@ -816,7 +816,7 @@
 * however `HOUF`
 * drinking `TKREUG`
 * tea, `TAE KW-BG`
-* Chinese `KHAOEUPB/AOEZ`
+* Chinese `KHAOEUPBZ`
 * custom. `KUFPL TP-PL`
 * They `KPA/THE`
 * "Oh!" `KR-GS KPA/O*ERBGS SKHRAPL KR-GS`

@@ -30,7 +30,7 @@
 * big `PWEUG`
 * jaws `SKWRAUS`
 * to `TO`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * him. `HEUPL TP-PL`
 * "Pardon, `KR-GS KPA/PARD KW-BG`
 * O `O*P`

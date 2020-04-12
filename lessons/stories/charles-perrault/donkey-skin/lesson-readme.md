@@ -208,7 +208,7 @@
 * approach, `PROEFP KW-BG`
 * said `SAEUD`
 * husband, `HUS KW-BG`
-* dissolved `TKEUS/SOL/*FD`
+* dissolved `TKEUS/SOFLD`
 * tears: `TAERS STPH-FPLT`
 * "It `KR-GS KPA/T`
 * well `WEL`
@@ -350,7 +350,7 @@
 * she, `SHE KW-BG`
 * thinking `THEUG`
 * impossible. `EUPL/POB TP-PL`
-* Council `KPA/KUPB/SEUL`
+* Council `KPA/KAUPB/SEUL`
 * treated `TRAETD`
 * promise `PROPLS`
 * trifle, `TRAOEUFL KW-BG`
@@ -1206,7 +1206,7 @@
 * choked `KHOEBGD`
 * ring, `REUPBG KW-BG`
 * nearly `TPHAOERL`
-* swallowed, `SWAL/OED KW-BG`
+* swallowed, `SWALD KW-BG`
 * pieces `PAOEFS`
 * drew `TKRAOU`
 * cleverly `KHREFRL`

@@ -456,7 +456,7 @@
 * remained `RE/PHAEUPBD`
 * wagon, `WAG/OPB KW-BG`
 * mounted `PHOUPBTD`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * Danish `TKAEUPB/EURB`
 * land. `HRAPBD TP-PL`
 * As `KPA/AZ`
@@ -595,7 +595,7 @@
 * bees" `PWAOES KR-GS`
 * swarming, `SWARPL/-G KW-BG`
 * sting `STEUPBG`
-* traveller's `TRAFL/HRER/A*U AES`
+* traveller's `TRA*FL/HRER AES`
 * face `TPAEUS`
 * melt. `PHELT TP-PL`
 * "Keen `KR-GS KPA/KAOEPB`
@@ -710,7 +710,7 @@
 * Highest. `KPA/HAOEU/EFT TP-PL`
 * hall; `HAUL STPH*FPLT`
 * altar `AL/TAR`
-* council `KUPB/SEUL`
+* council `KAUPB/SEUL`
 * table. `TAEUBL TP-PL`
 * lights `HRAOEUTS`
 * burn `PWURPB`
@@ -776,7 +776,7 @@
 * silence `SHREPBS`
 * reigns `RAEPB/-S`
 * wax `WABGS`
-* dropping `TROPG`
+* dropping `TKROPG`
 * candles `KAPBD/-LS`
 * stone `STOEPB`
 * pavement. `PAEUFPLT TP-PL`
@@ -955,7 +955,7 @@
 * sunshine `SUPB/SHAO*EUPB`
 * room. `RAOPL TP-PL`
 * keeps `KAOEPS`
-* mightily. `PHAOEUT/HREU TP-PL`
+* mightily. `PHAOEUT/SKWREU/HREU TP-PL`
 * wreck `WREBG`
 * announced—as `A/TPHOUPBS/-D EPL/TKA*RB AZ`
 * During `KPA/TKURG`

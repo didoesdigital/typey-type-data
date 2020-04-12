@@ -317,7 +317,7 @@
 * there, `THR KW-BG`
 * rooms `RAOPLS`
 * richly `REUFP/HREU`
-* furnished, `TPURPB/EURBD KW-BG`
+* furnished, `TPURPB/-D KW-BG`
 * golden `TKPWOELD/*EPB`
 * chairs `KHAEURS`
 * tables; `TAEUBLS STPH*FPLT`
@@ -598,7 +598,7 @@
 * night `TPHAOEUT`
 * thinking `THEUG`
 * next. `TPHEGT TP-PL`
-* dropping `TROPG`
+* dropping `TKROPG`
 * asleep, `A/SHRAOEP KW-BG`
 * broke, `PWROEBG KW-BG`
 * sun `SUPB`

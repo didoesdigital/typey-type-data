@@ -690,7 +690,7 @@
 * again `TKPWEPB`
 * kingdom.' `KEUPBG/TKOPL TP-PL AE`
 * saying `SAEUG`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * three `THRAOE`
 * giants `SKWRAOEUPBTS`
 * sharing `SHAEURG`

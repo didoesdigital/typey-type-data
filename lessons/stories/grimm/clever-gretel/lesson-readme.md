@@ -273,7 +273,7 @@
 * great `TKPWRAET`
 * glee. `TKPWHRAOE TP-PL`
 * chickens `KHEU/KEPB/-S`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * still `STEUL`
 * 'What `AE KPA/WHA`
 * is, `S-RBGS`

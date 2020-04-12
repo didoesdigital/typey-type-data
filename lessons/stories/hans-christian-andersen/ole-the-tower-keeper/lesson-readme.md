@@ -495,7 +495,7 @@
 * supplies `SPHRAOEUZ`
 * newspapers `TPHUPS`
 * terms `TERPLS`
-* abuse `SPWAOUS`
+* abuse `PWAOUS`
 * vituperation `xxx vituperation`
 * use, `AOUS KW-BG`
 * herself `H*ERS`

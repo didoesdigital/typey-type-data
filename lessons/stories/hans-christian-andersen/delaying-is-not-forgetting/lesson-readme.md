@@ -14,7 +14,7 @@
 * drawbridge `TKRAU/PWREUPBLG`
 * which `WEU`
 * but `PWUT`
-* seldom `SELD/OPL`
+* seldom `SELD`
 * let `HRET`
 * down:—not `TKOUPB STPH-FPLT EPL/TKA*RB TPHOT`
 * all `AUL`

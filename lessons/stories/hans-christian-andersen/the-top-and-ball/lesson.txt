@@ -247,7 +247,7 @@ The Top and Ball
 'engaged': EPB/TKPWAEUPBLGD
 'to': TO
 'a': AEU
-'swallow.': SWO*EUL TP-PL
+'swallow.': SWAL TP-PL
 'Every': KPA/EF
 'time': TAOEUPL
 'I': EU
@@ -424,13 +424,13 @@ The Top and Ball
 'is': S
 'in': TPH
 'the': -T
-'swallow's': SWO*EUL AES
+'swallow's': SWAL AES
 'nest,': TPHEFT KW-BG
 'and': SKP
 'has': HAS
 'married': PHAERD
 'the': -T
-'swallow."': SWO*EUL TP-PL KR-GS
+'swallow."': SWAL TP-PL KR-GS
 'The': KPA/-T
 'more': PHOR
 'the': -T
@@ -605,7 +605,7 @@ The Top and Ball
 'cabbage-stalks,': KAB/APBLG H-PB STAUBGS KW-BG
 'dust,': TKUFT KW-BG
 'and': SKP
-'rain-droppings': RAEUPB H-PB TROPG/-S
+'rain-droppings': RAEUPB H-PB TKROPG/-S
 'that': THA
 'had': H
 'fallen': TPAUL/-PB
@@ -750,7 +750,7 @@ The Top and Ball
 'engaged': EPB/TKPWAEUPBLGD
 'to': TO
 'a': AEU
-'swallow;': SWO*EUL STPH*FPLT
+'swallow;': SWAL STPH*FPLT
 'but': PWUT
 'I': EU
 'fell': TPEL

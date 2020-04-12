@@ -291,7 +291,7 @@
 * painted `PAEUPBTD`
 * coats-of-arms `KOETS H-PB -F H-PB ARPLS`
 * old `OLD`
-* council-house `KUPB/SEUL H-PB HOUS`
+* council-house `KAUPB/SEUL H-PB HOUS`
 * transparent `TRAEUPBT`
 * pictures, `P*EUFPS KW-BG`
 * Michael `PHAOEUBG/*L`
@@ -413,7 +413,7 @@
 * beauty. `PWAOUT TP-PL`
 * dazzled `TKAZ/-LD`
 * much `PHUFP`
-* glitter; `TKPWHREUT STPH*FPLT`
+* glitter; `TKPWHREURT STPH*FPLT`
 * gleaming `TKPWHRAOEPL/-G`
 * colors, `KHRORS KW-BG`
 * reality. `RAOELT TP-PL`

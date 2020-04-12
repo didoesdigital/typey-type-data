@@ -481,13 +481,13 @@
 * once?' `WUPBS H-F AE`
 * 'No,' `AE KPA/TPHO KW-BG AE`
 * 'that `AE THA`
-* letting `HR*EGT`
+* letting `HREGT`
 * too `TAO`
 * easily: `AOELS STPH-FPLT`
 * die `TKAOEU`
 * death; `TK*T STPH*FPLT`
 * her.' `HER TP-PL AE`
-* flutter `TPHRUT`
+* flutter `TPHRUT/ER`
 * stretch `STREFP`
 * neck `TPHEBG`
 * wait `WAEUT`

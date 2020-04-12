@@ -158,7 +158,7 @@
 * your `KWROUR`
 * proposal. `PROEL TP-PL`
 * almost `HR-PL`
-* swallow. `SWO*EUL TP-PL`
+* swallow. `SWAL TP-PL`
 * Every `KPA/EF`
 * time `TAOEUPL`
 * fly `TPHRAOEU`
@@ -238,9 +238,9 @@
 * is," `S KW-BG KR-GS`
 * sighed `SAOEU/-D`
 * "she `KR-GS SHE`
-* swallow's `SWO*EUL AES`
+* swallow's `SWAL AES`
 * married `PHAERD`
-* swallow." `SWO*EUL TP-PL KR-GS`
+* swallow." `SWAL TP-PL KR-GS`
 * more `PHOR`
 * this, `TH KW-BG`
 * His `KPA/HEUS`
@@ -311,7 +311,7 @@
 * lying: `HRAOEUG STPH-FPLT`
 * cabbage-stalks, `KAB/APBLG H-PB STAUBGS KW-BG`
 * dust, `TKUFT KW-BG`
-* rain-droppings `RAEUPB H-PB TROPG/-S`
+* rain-droppings `RAEUPB H-PB TKROPG/-S`
 * fallen `TPAUL/-PB`
 * down `TKOUPB`
 * gutter `TKPWOURT`
@@ -371,7 +371,7 @@
 * me `PHE`
 * now. `TPHOU TP-PL`
 * once `WUPBS`
-* swallow; `SWO*EUL STPH*FPLT`
+* swallow; `SWAL STPH*FPLT`
 * fell `TPEL`
 * roof, `RAOF KW-BG`
 * five `TPEUF`

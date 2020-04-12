@@ -729,7 +729,7 @@
 * hole, `HOEL KW-BG`
 * daylight `TKAEULT`
 * floor `TPHRAOR`
-* swallow, `SWO*EUL KW-BG`
+* swallow, `SWAL KW-BG`
 * wings `WEUPBGS`
 * pulled `PULD`
 * close `KHROES`
@@ -877,7 +877,7 @@
 * you, `U KW-BG`
 * maiden," `PHAEUD/*EPB KW-BG KR-GS`
 * sick `SEUBG`
-* swallow; `SWO*EUL STPH*FPLT`
+* swallow; `SWAL STPH*FPLT`
 * nicely `TPHAOEULS`
 * warmed, `WARPLD KW-BG`
 * regain `RE/TKPWAEUPB`
@@ -895,7 +895,7 @@
 * take `TAEUBG`
 * care `KAEUR`
 * you." `U TP-PL KR-GS`
-* swallow `SWO*EUL`
+* swallow `SWAL`
 * flower-leaf, `TPHRO*UR H-PB HRAOEF KW-BG`
 * after `AF`
 * drank, `TKRA*PBG KW-BG`
@@ -942,7 +942,7 @@
 * rose `ROEZ`
 * eyes. `AO*EUS TP-PL`
 * fond `TPOPBD`
-* swallow. `SWO*EUL TP-PL`
+* swallow. `SWAL TP-PL`
 * "Tweet, `KR-GS KPA/TWAOET KW-BG`
 * tweet," `TWAOET KW-BG KR-GS`
 * woods, `WAODZ KW-BG`

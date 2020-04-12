@@ -122,7 +122,7 @@
 * think `THEU`
 * ought `OT`
 * too," `TAO KW-BG KR-GS`
-* swallow. `SWO*EUL TP-PL`
+* swallow. `SWAL TP-PL`
 * imagine `PHAPBLG`
 * no `TPHO`
 * swifter `SWEUF/TER`
@@ -167,7 +167,7 @@
 * lying `HRAOEUG`
 * winter `WEURPBT`
 * moor," `PHO*R KW-BG KR-GS`
-* swallow, `SWO*EUL KW-BG`
+* swallow, `SWAL KW-BG`
 * "and `KR-GS SKP`
 * suppose `SPOS`
 * slept `SHREPT`
@@ -441,7 +441,7 @@
 * strength, `STREPBG KW-BG`
 * all `AUL`
 * awakes `A/WAEUBG/-S`
-* loveliness `HR*UF/HREU/*PBS`
+* loveliness `HROFL/-PBS`
 * beauty; `PWAOUT STPH*FPLT`
 * roses `ROES/-S`
 * blush `PWHRURB`

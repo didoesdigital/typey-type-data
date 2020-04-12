@@ -47,7 +47,7 @@
 * gleam `TKPWHRAOEPL`
 * Northern `TPHORPB`
 * Lights, `KPA/HRAOEUTS KW-BG`
-* glitter `TKPWHREUT`
+* glitter `TKPWHREURT`
 * innumerable `EUPB/TPHAOUPL/RABL`
 * twinkling `TWEUPB/K-LG`
 * stars. `STARS TP-PL`
@@ -487,7 +487,7 @@
 * something `S-G`
 * got `TKPWOT`
 * there; `THR STPH*FPLT`
-* swallow, `SWO*EUL KW-BG`
+* swallow, `SWAL KW-BG`
 * that's `THATS`
 * most `PHOFT`
 * important. `PORPB TP-PL`
@@ -564,7 +564,7 @@
 * night, `TPHAOEUT KW-BG`
 * all `AUL`
 * shall `SHAL`
-* dissolved, `TKEUS/SOL/*FD KW-BG`
+* dissolved, `TKEUS/SOFLD KW-BG`
 * rise `RAOEUZ`
 * again `TKPWEPB`
 * beauteous `PWAOUT/KWROUS`

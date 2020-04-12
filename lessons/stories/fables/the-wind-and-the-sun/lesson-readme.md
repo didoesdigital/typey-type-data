@@ -14,7 +14,7 @@
 * they `THE`
 * saw `SAU`
 * a `AEU`
-* traveller `TRAFL/HRER/A*U`
+* traveller `TRA*FL/HRER`
 * coming `KO*G`
 * down `TKOUPB`
 * road, `RAOD KW-BG`
@@ -52,7 +52,7 @@
 * it `T`
 * could `KO`
 * upon `POPB`
-* traveller. `TRAFL/HRER/A*U TP-PL`
+* traveller. `TRA*FL/HRER TP-PL`
 * But `KPA/PWUT`
 * harder `HARD/*ER`
 * he `HE`
@@ -77,7 +77,7 @@
 * shone `SHO*EPB`
 * all `AUL`
 * glory `TKPWHROER`
-* traveller, `TRAFL/HRER/A*U KW-BG`
+* traveller, `TRA*FL/HRER KW-BG`
 * who `WHO`
 * soon `SAOPB`
 * found `TPOUPBD`

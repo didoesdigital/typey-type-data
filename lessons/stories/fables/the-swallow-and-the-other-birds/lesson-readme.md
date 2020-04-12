@@ -13,7 +13,7 @@
 * in `TPH`
 * field `TPAOELD`
 * where `W-R`
-* Swallow `KPA/SWO*EUL`
+* Swallow `KPA/SWAL`
 * and `SKP`
 * other `OER`
 * birds `PWEURDZ`
@@ -29,7 +29,7 @@
 * man," `PHAPB KW-BG KR-GS`
 * quoth `KWO*ET`
 * the `-T`
-* Swallow. `KPA/SWO*EUL TP-PL`
+* Swallow. `KPA/SWAL TP-PL`
 * "Why, `KR-GS KPA/KWR KW-BG`
 * what `WHA`
 * is `S`
@@ -57,7 +57,7 @@
 * paid `PAEUD`
 * no `TPHO`
 * heed `HAO*ED`
-* Swallow's `KPA/SWO*EUL AES`
+* Swallow's `KPA/SWAL AES`
 * words, `WORDZ KW-BG`
 * by `PWEU`
 * grew `TKPWRAOU`

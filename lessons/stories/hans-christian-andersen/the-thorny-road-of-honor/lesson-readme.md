@@ -49,7 +49,7 @@
 * still `STEUL`
 * it `T`
 * its `EUTS`
-* harmonious `AR/PHOEPB/KWROUS`
+* harmonious `HAR/PHOEPB/KWROUS`
 * explanation `SPHRAPBGS`
 * here `HAOER`
 * on `OPB`
@@ -524,7 +524,7 @@
 * army, `AERPL KW-BG`
 * brings `PWREUS`
 * victory `SREUBGT/REU`
-* salvation `AL/SRAEUGS`
+* salvation `S-L/SRAEUGS`
 * her `HER`
 * fatherland. `TPAER/HRA*PBD TP-PL`
 * sound `SOUPBD`

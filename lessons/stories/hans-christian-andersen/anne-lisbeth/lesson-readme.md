@@ -706,7 +706,7 @@
 * shown `SHOEPB`
 * inclination `EUPBG/TPHAEUGS`
 * well, `WEL KW-BG`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * derived `TKRAOEUFD`
 * pleasure `PHRERB`
 * it. `T TP-PL`

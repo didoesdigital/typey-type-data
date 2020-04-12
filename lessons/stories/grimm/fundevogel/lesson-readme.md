@@ -153,7 +153,7 @@
 * hunting, `HUPBT/-G KW-BG`
 * heat `HAOET`
 * boiling `PWOEULG`
-* kettle, `KET/*L KW-BG`
+* kettle, `K*ELT KW-BG`
 * throw `THROE`
 * boil `PWOEUL`
 * it.' `T TP-PL AE`
@@ -190,7 +190,7 @@
 * promise `PROPLS`
 * early `ERL`
 * father `TPAER`
-* kettle `KET/*L`
+* kettle `K*ELT`
 * full `TPUL`
 * you; `U STPH*FPLT`
 * we `WE`

@@ -35,7 +35,7 @@ The Shadow
 'learned': HRERPBD
 'man': PHAPB
 'once': WUPBS
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'into': TPHAO
 'one': WUPB
 'of': -F
@@ -1595,7 +1595,7 @@ The Shadow
 'that': THA
 'I': EU
 'have': SR
-'travelled': TRAFLD/A*U
+'travelled': TRAFL/*LD
 'enough': TPHUF
 'to': TO
 'be': -B

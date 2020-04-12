@@ -262,7 +262,7 @@
 * speak, `SPAOEBG KW-BG`
 * or, `OR KW-BG`
 * least, `HRAOEFT KW-BG`
-* seldom. `SELD/OPL TP-PL`
+* seldom. `SELD TP-PL`
 * "Has `KR-GS KPA/HAS`
 * pope `POEP`
 * great `TKPWRAET`
@@ -891,7 +891,7 @@
 * air, `AEUR KW-BG`
 * consequently `KWEPBT/HREU`
 * couple `KUPL`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * "Thank `KR-GS KPA/THAPBG`
 * heaven `HEFPB`
 * home `HOEPL`

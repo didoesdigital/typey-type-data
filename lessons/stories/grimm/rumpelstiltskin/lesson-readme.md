@@ -357,7 +357,7 @@
 * every `EF`
 * them, `THEPL KW-BG`
 * back, `PWABG KW-BG`
-* travelled `TRAFLD/A*U`
+* travelled `TRAFL/*LD`
 * two `TWO`
 * days `TKAEUS`
 * without `WOUT`

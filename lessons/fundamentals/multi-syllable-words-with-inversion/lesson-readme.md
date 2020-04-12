@@ -77,8 +77,10 @@
 * university `AOUFRT`
 * bursting `PWUFRT/-G`
 * covers `KOFRS`
+* discussing `STKUFG`
 * bleeding `PWHRAOEGD`
 * destroying `STKROEUG`
+* dissolved `TKEUS/SOFLD`
 * dispersed `TKEUS/PEFRD`
 * definitely `TKEFPBLT`
 * binding `PWAOEUPBGD`

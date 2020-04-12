@@ -561,7 +561,7 @@
 * shape `SHAEUP`
 * lightly `HRAOEULT`
 * formed, `TPORPLD KW-BG`
-* flutter `TPHRUT`
+* flutter `TPHRUT/ER`
 * away. `A/WAEU TP-PL`
 * now `TPHOU`
 * drew `TKRAOU`
@@ -589,7 +589,7 @@
 * Heaven `KPA/HEFPB`
 * another `TPHOER`
 * kind `KEUPBD`
-* loveliness; `HR*UF/HREU/*PBS STPH*FPLT`
+* loveliness; `HROFL/-PBS STPH*FPLT`
 * although `HR*T`
 * differ `TK-FR`
 * appearance, `PAOERPBS KW-BG`

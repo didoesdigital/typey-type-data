@@ -235,7 +235,7 @@
 * legitimate `SKWREUT/PHAT`
 * booty, `PWAOT/TEU KW-BG`
 * seized `SAOEZ/-D`
-* swallowed `SWAL/OED`
+* swallowed `SWALD`
 * complained `KPHRAEUPBD`
 * this `TH`
 * bare-faced `PWAEUR H-PB TPAEUFD`
