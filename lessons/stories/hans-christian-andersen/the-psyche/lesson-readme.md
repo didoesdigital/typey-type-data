@@ -345,7 +345,7 @@
 * make `PHAEUBG`
 * picture `P*EUFP`
 * stirring `STEURG`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * heart `HART`
 * realms `REL/-PLS`
 * Infinite; `KPA/TPH-FPBT STPH*FPLT`
@@ -1257,7 +1257,7 @@
 * smoked `SPHOEBGD`
 * clouds `KHROUDZ`
 * mist, `PHEUFT KW-BG`
-* fantastic `TPAPB/T-FBG`
+* fantastic `STPEUBG`
 * reality; `RAOELT STPH*FPLT`
 * floating `TPHROEGT`
 * islands `AOEU/HRAPBDZ`
@@ -1417,7 +1417,7 @@
 * delusion!" `TKHRAOUGS SKHRAPL KR-GS`
 * "Get `KR-GS KPA/TKPW-T`
 * thee `THAOE`
-* Satan!" `SAT/APB SKHRAPL KR-GS`
+* Satan!" `SAEUT/APB SKHRAPL KR-GS`
 * monk; `PHO*PBG STPH*FPLT`
 * quitted `KW*/*U/*EU/T*/T*/*E/TK*`
 * "There `KR-GS KPA/THR`

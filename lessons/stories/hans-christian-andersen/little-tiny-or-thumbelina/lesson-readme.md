@@ -1031,7 +1031,7 @@
 * does `TKOS`
 * wear `WAER`
 * velvets `SREL/SRET/-S`
-* furs. `TPUR/-S TP-PL`
+* furs. `TPURZ TP-PL`
 * His `KPA/HEUS`
 * kitchen `K-FP`
 * cellars `SEL/AR/-S`

@@ -526,7 +526,7 @@
 * "My `KR-GS KPA/PHEU`
 * excellent `KPHREPBT`
 * inviting `EUPB/SRAOEUGT`
-* festival `SREFT/SRAL`
+* festival `TPEFT/SRAL`
 * evening, `AOEPBG KW-BG`
 * gain `TKPWAEUPB`
 * favor `TPAEUFR`

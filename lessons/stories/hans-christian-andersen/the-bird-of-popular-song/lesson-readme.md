@@ -400,7 +400,7 @@
 * evening `AOEPBG`
 * becomes `PW-BGS`
 * Christmas `KREUS/PHAS`
-* festival. `SREFT/SRAL TP-PL`
+* festival. `TPEFT/SRAL TP-PL`
 * snow-flakes `STPHOE H-PB TPHRAEUBGS`
 * chase `KHAEUS`
 * each `AOEFP`

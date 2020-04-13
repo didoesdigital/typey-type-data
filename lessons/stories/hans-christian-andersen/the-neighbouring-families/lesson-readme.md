@@ -1216,7 +1216,7 @@
 * again, `TKPWEPB KW-BG`
 * happy `HAEP`
 * day. `TKAEU TP-PL`
-* festival." `SREFT/SRAL TP-PL KR-GS`
+* festival." `TPEFT/SRAL TP-PL KR-GS`
 * neighbours; `TPHAEUBS/A*U STPH*FPLT`
 * remember `RER`
 * origin `O*RPBLG`

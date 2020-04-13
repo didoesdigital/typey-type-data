@@ -826,7 +826,7 @@
 * bargain. `PWARG/AEUPB TP-PL`
 * disagreeable `TKEUS/TKPWRAOEBL`
 * find `TPEUPBD`
-* button `PW*UPBT`
+* button `PW*PB`
 * way, `WAEU KW-BG`
 * studs `STUDZ`
 * hand `HAPBD`

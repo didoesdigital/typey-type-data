@@ -222,7 +222,7 @@
 * take `TAEUBG`
 * finest `TPAOEUPB/EFT`
 * skins: `SKEUPBS STPH-FPLT`
-* furs `TPUR/-S`
+* furs `TPURZ`
 * made. `PHAED TP-PL`
 * ready, `R-D KW-BG`
 * them `THEPL`

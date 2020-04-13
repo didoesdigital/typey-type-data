@@ -364,7 +364,7 @@
 * addressed `A/TKREFD`
 * himself `H*EUPLS`
 * imaginable `PHAPBLG/-BL`
-* politeness `PHRAOEUT/*PBS`
+* politeness `PHRAOEUT/-PBS`
 * respect. `R-PT TP-PL`
 * Having `KPA/SR-G`
 * observed, `OEBD KW-BG`

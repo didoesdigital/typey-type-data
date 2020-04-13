@@ -62,7 +62,7 @@
 * if `TP`
 * day `TKAEU`
 * great `TKPWRAET`
-* festival; `SREFT/SRAL STPH*FPLT`
+* festival; `TPEFT/SRAL STPH*FPLT`
 * so `SO`
 * was, `WAS KW-BG`
 * for `TPOR`

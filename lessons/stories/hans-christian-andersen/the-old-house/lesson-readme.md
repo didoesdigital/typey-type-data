@@ -221,7 +221,7 @@
 * wore `WOR`
 * knee-breeches, `TPHAOE H-PB PWRAOEFP/-S KW-BG`
 * coat `KOET`
-* buttons, `PW*UPBTS KW-BG`
+* buttons, `PW*PBS KW-BG`
 * wig, `WEUG KW-BG`
 * any `TPHEU`
 * real `RAEL`

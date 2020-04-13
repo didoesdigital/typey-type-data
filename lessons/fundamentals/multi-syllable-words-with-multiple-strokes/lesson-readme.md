@@ -595,7 +595,7 @@
 * parish `PAR/EURB`
 * handkerchief `HAPB/KER/KHEF`
 * assurance `A/SHURPBS`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * sadly `SAD/HREU`
 * modest `PHOD/EFT`
 * largest `HRARPBLG/EFT`
@@ -604,7 +604,7 @@
 * salvation `S-L/SRAEUGS`
 * afforded `A/TPORD/-D`
 * cultivated `KULT/SRAEUT/-D`
-* Shakespeare `SHAUBG/SPAOER`
+* Shakespeare `SHAEUBGS/PAER`
 * rocky `ROBG/KEU`
 * pious `PAOEU/OUS`
 * treasury `TREZ/REU`
@@ -819,7 +819,7 @@
 * miracle `PHEUR/K-L`
 * observing `OEB/-G`
 * conveyed `KAUPB/SRAEUD`
-* resemblance `RE/SEPL/PWHREPBS`
+* resemblance `RE/SEPL/PWHRAPBS`
 * rebellion `RE/PWEL/KWROPB`
 * inclination `EUPBG/TPHAEUGS`
 * copper `KOP/ER`
@@ -844,7 +844,7 @@
 * answering `AEPBS/-G`
 * virtuous `SREURT/WOUS`
 * retain `RE/TAEUPB`
-* conspicuous `KAUPB/SPEUBG/KWRUS`
+* conspicuous `KAUPB/SPEUBG/WOUS`
 * Berlin `PWER/HREUPB`
 * editing `ED/EUT/-G`
 * Cambridge `KAPL/PWREUPBLG`
@@ -951,11 +951,11 @@
 * fulfilled `TPUL/TPEULD`
 * embraced `EPL/PWRAEUFD`
 * Solomon `SOL/PHOPB`
-* influences `EUPB/TPHRAOUPBS/-S`
+* influences `WEPBS/-S`
 * ascended `A/SEPBD/-D`
 * incidents `EUPBS/TKEPBTS`
 * childish `KHAOEUL/TKEURB`
-* aboard `A/PWORD`
+* aboard `A/PWAORD`
 * resembling `RE/SEPL/-BLG`
 * dominion `TKPHEUPB/KWROPB`
 * dreary `TKRAOE/REU`
@@ -989,7 +989,7 @@
 * decline `TKE/KHRAOEUPB`
 * attachment `A/TAPLT`
 * ambitious `APL/PWEURBT`
-* holiday `HOL/TKEU`
+* holiday `HOL/TKAEU`
 * honorable `HOPB/RABL`
 * functions `TPUPBGS/-S`
 * resulting `RULT/-G`
@@ -1001,7 +1001,7 @@
 * infinitely `EUPB/TPEUPBT/HREU`
 * clergyman `KHRERPBLG/PHAPB`
 * fiercely `TPAOERS/HREU`
-* Portuguese `PORT/TKWAOES`
+* Portuguese `PORT/TKPWAOES`
 * costume `KOFT/AOUPL`
 * exalted `KPALT/-D`
 * applause `A/PHRAUS`
@@ -1014,7 +1014,6 @@
 * marching `PHAFRPB/-G`
 * arrow `AR/OE`
 * instructed `EUPB/STRUBGD`
-* elaborate `HRAEB/RAT`
 * bewildered `PWE/WEULD/ERD`
 * essence `ES/EPBS`
 * positions `POGS/-S`
@@ -1051,7 +1050,7 @@
 * tongues `TUPBG/-S`
 * facility `TPAS/EULT`
 * warranties `WARPB/TEU/-S`
-* Sarah `SA/RA`
+* Sarah `SAEU/RA`
 * happier `HAP/KWRER`
 * gigantic `SKWRAOEU/SKWRAPBT/EUBG`
 * honey `HUPB/KWREU`
@@ -1102,7 +1101,7 @@
 * pertaining `PER/TAEUPBG`
 * Austrian `AUFRT/KWRAPB`
 * congregation `KOPBG/TKPWAEUGS`
-* undertaking `UPBD/TAEUG/-G`
+* undertaking `UPBD/TAEUG`
 * disclaimer `TKEUS/KHRAEURPL`
 * ascertain `AS/SERPB`
 * warfare `WAR/TPAER`
@@ -1148,14 +1147,13 @@
 * casting `KAFT/-G`
 * warmly `WARPL/HREU`
 * salary `SAL/REU`
-* Satan `SAT/APB`
+* Satan `SAEUT/APB`
 * continual `T-PB/WAL`
 * defended `TKAOE/TPEPBD/-D`
 * workers `WORBG/ERS`
 * lantern `HRAPB/TERPB`
 * peculiarly `PEBG/HRARL`
 * ingenious `EUPB/SKWRAOEPBS`
-* horseback `HORS/PWABG`
 * re-use `RE/H-PB/AOUS`
 * farmers `TPARPL/ERS`
 * wildly `WAOEULD/HREU`
@@ -1187,7 +1185,7 @@
 * downstairs `TKOUPB/STAEURS`
 * invite `EUPB/SRAOEUT`
 * adjoining `A/SKWROEUPBG`
-* cathedral `KA/TAOED/RAL`
+* cathedral `KA/THAOED/RAL`
 * sandy `SAPB/TKEU`
 * Caroline `KAEURL/AOEUPB`
 * beautifully `PWAOUFL/HREU`
@@ -1214,6 +1212,7 @@
 * attempting `A/TEPLT/-G`
 * insects `EUPB/SEBGTS`
 * acquire `A/KWAOEU`
+* offensive `OFPBS/EUF`
 * coldly `KOELD/HREU`
 * candles `KAPBD/-LS`
 * blazing `PWHRAEUZ/-G`
@@ -1275,7 +1274,6 @@
 * sparkling `SPAR/K-LG`
 * disposal `TKEUS/POES/AL`
 * carriages `KAEURPBLG/-S`
-* fantastic `TPAPB/T-FBG`
 * patiently `PAEURBT/HREU`
 * amuse `A/PHAOUS`
 * Isaac `AOEUS/ABG`
@@ -1295,7 +1293,7 @@
 * unnatural `UPB/TPHARL`
 * decisive `TKE/SAOEUF/EUF`
 * precise `PRE/SAOEUS`
-* festival `SREFT/SRAL`
+* festival `TPEFT/SRAL`
 * wickedness `WEUBGD/-PBS`
 * visions `SREUGS/-S`
 * rosy `ROEZ/SEU`
@@ -1585,6 +1583,7 @@
 * endeavor `EPB/TKEFR`
 * barrier `PWAR/KWRER`
 * Canadian `KA/TPHAEUD/KWRAPB`
+* politeness `PHRAOEUT/-PBS`
 * rely `RE/HREU`
 * courteous `KURT/KWROUS`
 * effectually `EFBG/KHUL/HREU`
@@ -2128,7 +2127,7 @@
 * populace `POP/HRAS`
 * Sherman `SHER/PHAPB`
 * incense `EUPB/SEPBS`
-* Rebecca `RE/PWABG/KA`
+* Rebecca `RE/PWEBG/KA`
 * Jordan `SKWROR/TKAPB`
 * fruitful `TPRAOUT/-FL`
 * scoundrel `SKOUPBD/REL`
@@ -2419,6 +2418,7 @@
 * register `REPBLG/STER`
 * indefinite `EUPB/TKEF/TPHEUT`
 * console `KAUPB/SOEL`
+* defensive `TKEFS/EUF`
 * perceptible `PER/SEPT/-BL`
 * fruitless `TPRAOUT/HRES`
 * ransom `RAPB/SPH`

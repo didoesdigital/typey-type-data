@@ -45,7 +45,7 @@
 * us `US`
 * make `PHAEUBG`
 * a `AEU`
-* holiday `HOL/TKEU`
+* holiday `HOL/TKAEU`
 * of `-F`
 * it `T`
 * together.' `TOGT TP-PL AE`

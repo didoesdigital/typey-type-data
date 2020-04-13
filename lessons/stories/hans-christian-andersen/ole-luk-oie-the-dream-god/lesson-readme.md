@@ -1221,7 +1221,7 @@
 * heads. `HEDZ TP-PL`
 * to-morrow `TO H-PB HRO*ER/PHOR/ROE`
 * morning," `PHORPBG KW-BG KR-GS`
-* holiday, `HOL/TKEU KW-BG`
+* holiday, `HOL/TKAEU KW-BG`
 * Sunday. `SUPBD TP-PL`
 * church `KHUFRPB`
 * steeple `STAOEP/-L`

@@ -191,7 +191,7 @@
 * abode `A/PWOED`
 * appearing `A/PAOERG`
 * assurance `A/SHURPBS`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * impatient `EUPL/PAEURBT`
 * afforded `A/TPORD/-D`
 * erected `AOE/REBGD`
@@ -249,7 +249,7 @@
 * alliance `A/HRAOEUPBS`
 * dismissed `TKEUS/PHEUS/-D`
 * conveyed `KAUPB/SRAEUD`
-* resemblance `RE/SEPL/PWHREPBS`
+* resemblance `RE/SEPL/PWHRAPBS`
 * rebellion `RE/PWEL/KWROPB`
 * imperial `EUPL/PAOERL`
 * dislike `TKEUS/HRAOEUBG`
@@ -257,7 +257,7 @@
 * enemy's `EPB/PHEU/AES`
 * addresses `A/TKREFS`
 * retain `RE/TAEUPB`
-* conspicuous `KAUPB/SPEUBG/KWRUS`
+* conspicuous `KAUPB/SPEUBG/WOUS`
 * disgust `TKEUS/TKPWUFT`
 * unnecessary `UPB/TPHES`
 * addressing `A/TKREFG`
@@ -291,9 +291,8 @@
 * descend `TKE/SEPBD`
 * avail `A/SRAEUL`
 * embraced `EPL/PWRAEUFD`
-* influences `EUPB/TPHRAOUPBS/-S`
 * ascended `A/SEPBD/-D`
-* aboard `A/PWORD`
+* aboard `A/PWAORD`
 * resembling `RE/SEPL/-BLG`
 * engage `EPB/TKPWAEUPBLG`
 * attain `A/TAEUPB`
@@ -327,7 +326,7 @@
 * indignant `EUPB/TKEUG/TPHAPBT`
 * refined `RE/TPAOEUPBD`
 * unseen `UPB/SAOEPB`
-* undertaking `UPBD/TAEUG/-G`
+* undertaking `UPBD/TAEUG`
 * disclaimer `TKEUS/KHRAEURPL`
 * attending `A/TEPBD/-G`
 * rejoiced `RE/SKWROEUS/-D`

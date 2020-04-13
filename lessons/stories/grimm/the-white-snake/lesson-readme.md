@@ -446,7 +446,7 @@
 * noise `TPHOEUS`
 * crowd `KROUD`
 * streets, `STRAOETS KW-BG`
-* horseback, `HORS/PWABG KW-BG`
+* horseback, `HORS/PWA*BG KW-BG`
 * crying `KRAOEUG`
 * aloud: `A/HROUD STPH-FPLT`
 * 'The `AE KPA/-T`

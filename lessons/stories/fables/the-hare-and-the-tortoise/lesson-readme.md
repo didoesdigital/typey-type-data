@@ -94,7 +94,7 @@
 * saw `SAU`
 * just `SKWRUFT`
 * near `TPHAOER`
-* winning-post `WAOEPBG H-PB POEFT`
+* winning-post `W-G H-PB POEFT`
 * not `TPHOT`
 * run `RUPB`
 * up `UP`

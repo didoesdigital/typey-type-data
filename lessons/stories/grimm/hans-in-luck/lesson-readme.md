@@ -162,7 +162,7 @@
 * fine `TPAOEUPB`
 * thing `THEUPBG`
 * ride `RAOEUD`
-* horseback! `HORS/PWABG SKHRAPL`
+* horseback! `HORS/PWA*BG SKHRAPL`
 * There `KPA/THR`
 * sits `SEUTS`
 * easy `EZ`

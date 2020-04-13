@@ -264,7 +264,7 @@
 * myself `PHAO*EUS`
 * king, `KEUPBG KW-BG`
 * thought `THAUT`
-* ghosts. `TKPWOEFT/-S TP-PL`
+* ghosts. `TKPWOEFTS TP-PL`
 * merman `PHER/PHA*PB`
 * his `HEUS`
 * daughter `TKAUR`

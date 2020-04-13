@@ -751,7 +751,7 @@
 * gold; `TKPWOELD STPH*FPLT`
 * courtiers `KORT/KWRERS`
 * whoever `WHOFR`
-* horseback, `HORS/PWABG KW-BG`
+* horseback, `HORS/PWA*BG KW-BG`
 * straight `STRAEUT`
 * gate `TKPWAET`
 * it, `T KW-BG`

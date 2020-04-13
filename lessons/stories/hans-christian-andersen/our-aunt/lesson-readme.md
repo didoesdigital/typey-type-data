@@ -753,7 +753,7 @@
 * bench. `PWEFRPB TP-PL`
 * There `KPA/THR`
 * astride, `AS/TRAOEUD KW-BG`
-* horseback, `HORS/PWABG KW-BG`
+* horseback, `HORS/PWA*BG KW-BG`
 * wrapped `WRAPD`
 * flowered `TPHROU/ERD`
 * cloak `KHROEBG`

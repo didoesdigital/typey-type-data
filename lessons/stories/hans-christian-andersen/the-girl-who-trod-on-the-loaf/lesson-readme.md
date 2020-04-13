@@ -772,7 +772,7 @@
 * soared, `SAORD KW-BG`
 * speed `SPAOED`
 * lightning, `HRAOEUT/TPHEUPBG KW-BG`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * mortals. `PHOR/TAL/-S TP-PL`
 * timid `TEUPLD`
 * shy `SHAOEU`

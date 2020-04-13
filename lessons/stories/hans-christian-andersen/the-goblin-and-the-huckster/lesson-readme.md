@@ -323,7 +323,7 @@
 * bright `PWRAOEUT`
 * rays `RA*ES`
 * spread `SPRED`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * over `OEFR`
 * student's `STAUPB AES`
 * head. `HED TP-PL`

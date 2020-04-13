@@ -945,8 +945,8 @@
 * That `KPA/THA`
 * continual `T-PB/WAL`
 * striving `STRAOEUFG`
-* upward—ever `AUP/WARBD EPL/TKA*RB -FR`
-* upward. `AUP/WARBD TP-PL`
+* upward—ever `AUP/WARD EPL/TKA*RB -FR`
+* upward. `AUP/WARD TP-PL`
 * gleamed `TKPWHRAOEPL/-D`
 * joy, `SKWROEU KW-BG`
 * beamed `PWAEPL/-D`
@@ -966,7 +966,7 @@
 * exactly `ELG`
 * agreeable, `TKPWRAOEBL KW-BG`
 * going `TKPW-G`
-* upward—upward `AUP/WARBD EPL/TKA*RB AUP/WARBD`
+* upward—upward `AUP/WARD EPL/TKA*RB AUP/WARD`
 * Egypt—and `AOE/SKWREUPT EPL/TKA*RB SKP`
 * why `KWR`
 * eyes `AO*EUS`

@@ -589,7 +589,7 @@
 * stirred `STEURD`
 * heart `HART`
 * burst. `PWUFRT TP-PL`
-* boot-button `PWAOT H-PB PW*UPBT`
+* boot-button `PWAOT H-PB PW*PB`
 * eyes, `AO*EUS KW-BG`
 * ago `AG`
 * polish, `POL/EURB KW-BG`

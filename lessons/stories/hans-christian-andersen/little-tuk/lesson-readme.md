@@ -275,7 +275,7 @@
 * bed; `PWED STPH*FPLT`
 * moment `PHOEPLT`
 * found `TPOUPBD`
-* horseback. `HORS/PWABG TP-PL`
+* horseback. `HORS/PWA*BG TP-PL`
 * Gallop, `KPA/TKPWAL/OP KW-BG`
 * gallop, `TKPWAL/OP KW-BG`
 * away `A/WAEU`

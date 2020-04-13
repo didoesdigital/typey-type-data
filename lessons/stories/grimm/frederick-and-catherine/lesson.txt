@@ -637,7 +637,7 @@ Frederick and Catherine
 ''What': AE KPA/WHA
 'pretty': PREUT
 'yellow': KWREL/OE
-'buttons': PW*UPBTS
+'buttons': PW*PBS
 'these': THEZ
 'are!': R SKHRAPL
 'I': EU
@@ -719,14 +719,14 @@ Frederick and Catherine
 'use': AOUS
 'for': TPOR
 'yellow': KWREL/OE
-'buttons,': PW*UPBTS KW-BG
+'buttons,': PW*PBS KW-BG
 'I': EU
 'might': PHAOEUT
 'deal': TKAOEL
 'with': W
 'you.'': U TP-PL AE
 ''Yellow': AE KPA/KWREL/OE
-'buttons!'': PW*UPBTS SKHRAPL AE
+'buttons!'': PW*PBS SKHRAPL AE
 'said': SAEUD
 'they:': THE STPH-FPLT
 ''let': AE HRET
@@ -752,7 +752,7 @@ Frederick and Catherine
 'find': TPEUPBD
 'the': -T
 'yellow': KWREL/OE
-'buttons:': PW*UPBTS STPH-FPLT
+'buttons:': PW*PBS STPH-FPLT
 'I': EU
 'dare': TKAEUR
 'not': TPHOT
@@ -769,7 +769,7 @@ Frederick and Catherine
 'what': WHA
 'these': THEZ
 'yellow': KWREL/OE
-'buttons': PW*UPBTS
+'buttons': PW*PBS
 'were,': WR KW-BG
 'they': THE
 'took': TAOBG
@@ -820,7 +820,7 @@ Frederick and Catherine
 'with': W
 'your': KWROUR
 'yellow': KWREL/OE
-'buttons:': PW*UPBTS STPH-FPLT
+'buttons:': PW*PBS STPH-FPLT
 'but': PWUT
 'I': EU
 'did': TK
@@ -851,7 +851,7 @@ Frederick and Catherine
 'made!': PHAED SKHRAPL
 'those': THOZ
 'yellow': KWREL/OE
-'buttons': PW*UPBTS
+'buttons': PW*PBS
 'were': WR
 'all': AUL
 'my': PHEU

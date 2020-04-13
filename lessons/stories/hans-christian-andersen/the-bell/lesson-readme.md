@@ -736,7 +736,7 @@
 * ran `RAPB`
 * took `TAOBG`
 * another's `TPHOER AES`
-* cathedral `KA/TAOED/RAL`
+* cathedral `KA/THAOED/RAL`
 * poesy, `xxx poesy KW-BG`
 * above `PWOF`
 * sounded `SOUPBD/-D`

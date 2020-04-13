@@ -307,7 +307,7 @@
 * praised `PRA*EUFD`
 * fasting. `TPAFT/-G TP-PL`
 * In `KPA/TPH`
-* button-hole `PW*UPBT H-PB HOEL`
+* button-hole `PW*PB H-PB HOEL`
 * bunch `PWUFRPB`
 * violets, `SROEULT/-S KW-BG`
 * small. `SPHAL TP-PL`

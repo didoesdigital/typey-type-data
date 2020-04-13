@@ -14,7 +14,7 @@
 * to `TO`
 * explore `SPHROR`
 * distant `STKAPBT`
-* coasts, `KOEFT/-S KW-BG`
+* coasts, `KOEFTS KW-BG`
 * and `SKP`
 * try `TREU`
 * how `HOU`
@@ -151,7 +151,7 @@
 * ice. `AOEUS TP-PL`
 * brought `PWRAUT`
 * with `W`
-* furs `TPUR/-S`
+* furs `TPURZ`
 * skins `SKEUPBS`
 * abundance, `PWUPB/TKAPBS KW-BG`
 * snow-houses `STPHOE H-PB HO*UFS`

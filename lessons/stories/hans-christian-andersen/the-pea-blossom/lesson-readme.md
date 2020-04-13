@@ -490,7 +490,7 @@
 * gently `SKWREPBT/HREU`
 * kissed `K*EUFD`
 * This `KPA/TH`
-* festival. `SREFT/SRAL TP-PL`
+* festival. `TPEFT/SRAL TP-PL`
 * "Our `KR-GS KPA/OUR`
 * heavenly `HEFPBL`
 * Father `KPA/TPAER`

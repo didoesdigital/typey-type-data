@@ -123,7 +123,7 @@
 * gold—a `TKPWOELD EPL/TKA*RB AEU`
 * bride `PWRAOEUD`
 * worth `WO*RT`
-* winning, `WAOEPBG KW-BG`
+* winning, `W-G KW-BG`
 * said `SAEUD`
 * more `PHOR`
 * than `THAPB`

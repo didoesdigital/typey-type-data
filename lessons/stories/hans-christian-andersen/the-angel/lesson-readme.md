@@ -164,7 +164,7 @@
 * did `TK`
 * not `TPHOT`
 * fly `TPHRAOEU`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * heaven. `HEFPB TP-PL`
 * It `KPA/T`
 * was `WAS`

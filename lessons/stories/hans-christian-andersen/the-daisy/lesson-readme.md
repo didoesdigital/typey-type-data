@@ -82,7 +82,7 @@
 * towards `TORDZ`
 * sun, `SUPB KW-BG`
 * looking `HRAOG`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * listening `HR-PBG`
 * to `TO`
 * song `SOPBG`
@@ -96,7 +96,7 @@
 * day `TKAEU`
 * been `PW-PB`
 * great `TKPWRAET`
-* holiday, `HOL/TKEU KW-BG`
+* holiday, `HOL/TKAEU KW-BG`
 * but `PWUT`
 * only `OEPBL`
 * Monday. `PHOPBD TP-PL`

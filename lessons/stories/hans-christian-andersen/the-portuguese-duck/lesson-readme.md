@@ -26,7 +26,7 @@
 * events, `AOEPBTS KW-BG`
 * was `WAS`
 * called `KAULD`
-* "Portuguese," `KR-GS PORT/TKWAOES KW-BG KR-GS`
+* "Portuguese," `KR-GS PORT/TKPWAOES KW-BG KR-GS`
 * and `SKP`
 * laid `HRAEUD`
 * eggs, `EGS KW-BG`
@@ -70,7 +70,7 @@
 * his `HEUS`
 * loud `HROUD`
 * crowing," `KROE/-G KW-BG KR-GS`
-* Portuguese `PORT/TKWAOES`
+* Portuguese `PORT/TKPWAOES`
 * duck; `TKUBG STPH*FPLT`
 * "but, `KR-GS PWUT KW-BG`
 * still, `STEUL KW-BG`
@@ -178,7 +178,7 @@
 * did `TK`
 * other `OER`
 * ducks `TKUBGZ`
-* Portuguese. `PORT/TKWAOES TP-PL`
+* Portuguese. `PORT/TKPWAOES TP-PL`
 * "Poor `KR-GS KPA/PAOR`
 * creature!" `KRAOEFP SKHRAPL KR-GS`
 * said, `SAEUD KW-BG`
@@ -446,7 +446,7 @@
 * said. `SAEUD TP-PL`
 * ducks, `TKUBGZ KW-BG`
 * even `AOEPB`
-* Portuguese, `PORT/TKWAOES KW-BG`
+* Portuguese, `PORT/TKPWAOES KW-BG`
 * aquatic `A/KWAT/EUBG`
 * birds, `PWEURDZ KW-BG`
 * noticed. `TPH-TS/-D TP-PL`
@@ -561,7 +561,7 @@
 * them, `THEPL KW-BG`
 * say." `SAEU TP-PL KR-GS`
 * says," `SEZ KW-BG KR-GS`
-* Portuguese; `PORT/TKWAOES STPH*FPLT`
+* Portuguese; `PORT/TKPWAOES STPH*FPLT`
 * "he's `KR-GS HE AES`
 * matters `PHAERTS`
 * business, `PWEUS KW-BG`

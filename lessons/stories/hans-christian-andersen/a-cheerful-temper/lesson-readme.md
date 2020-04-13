@@ -523,7 +523,7 @@
 * make `PHAEUBG`
 * earth `*ERT`
 * midnight, `PHAOEUPBT KW-BG`
-* ghosts `TKPWOEFT/-S`
+* ghosts `TKPWOEFTS`
 * believed `PWHREFD`
 * generally `SKWRERPBL`
 * do; `TKO STPH*FPLT`

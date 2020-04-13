@@ -635,7 +635,7 @@
 * pride `PRAOEUD`
 * Italy. `EUT/HREU TP-PL`
 * beautiful, `PWAOUFL KW-BG`
-* cathedral `KA/TAOED/RAL`
+* cathedral `KA/THAOED/RAL`
 * though `THOE`
 * large. `HRARPBLG TP-PL`
 * vestments `SREFT/-PLTS`

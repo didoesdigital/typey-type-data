@@ -761,7 +761,7 @@ Single-Stroke Briefs
 'butch': PWUFP
 'butt': PW*UT
 'butter': PWAOURT
-'button': PW*UPBT
+'button': PW*PB
 'buyer': PWAOEUR
 'buzz': PWUZ
 'bye': PWAO*EU
@@ -6557,7 +6557,7 @@ Single-Stroke Briefs
 'wing': WEUPBG
 'wink': W*EUPBG
 'winner': WEURPB
-'winning': WAOEPBG
+'winning': W-G
 'winter': WEURPBT
 'wiped': WAOEUPD
 'wiping': WAOEUPG

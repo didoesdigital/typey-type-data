@@ -979,7 +979,7 @@
 * corner, `KRORPB KW-BG`
 * preparing `PRAOEPG`
 * funeral, `TPAOUPBL KW-BG`
-* festival—only `SREFT/SRAL EPL/TKA*RB OEPBL`
+* festival—only `TPEFT/SRAL EPL/TKA*RB OEPBL`
 * amusement `A/PHAOUS/*PLT`
 * begun. `TKPWUPB TP-PL`
 * concert `KERT`

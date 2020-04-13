@@ -886,7 +886,7 @@
 * garden; `TKPWA*RPB STPH*FPLT`
 * queer `KWAOER`
 * creature `KRAOEFP`
-* festival `SREFT/SRAL`
+* festival `TPEFT/SRAL`
 * too, `TAO KW-BG`
 * yesterday `KWRED`
 * evening; `AOEPBG STPH*FPLT`
@@ -900,7 +900,7 @@
 * handsome `HAPBD/SOPL`
 * amazed. `A/PHAEUFD TP-PL`
 * 'Are `AE KPA/R`
-* festival, `SREFT/SRAL KW-BG`
+* festival, `TPEFT/SRAL KW-BG`
 * always `AULS`
 * different `TKEUFRT`
 * colours, `KHROURS/A*U KW-BG`

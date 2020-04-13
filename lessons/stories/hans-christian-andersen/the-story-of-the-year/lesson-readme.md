@@ -847,7 +847,7 @@
 * silenced `SHREPBS/-D`
 * magic, `PHAPBLG/EUBG KW-BG`
 * breath `PWR*ET`
-* hushed, `HURB/-D KW-BG`
+* hushed, `HURBD KW-BG`
 * bird `PWEURD`
 * mute. `PHAOUT TP-PL`
 * grave `TKPWRAEUF`

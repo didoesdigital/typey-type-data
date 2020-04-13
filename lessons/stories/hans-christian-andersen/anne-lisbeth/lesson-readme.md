@@ -1028,7 +1028,7 @@
 * superstitions `SAOUP/STEUGS/-S`
 * spectres `SPEBG/TER/A*U/-S`
 * sea-shore; `SAE H-PB SHOR STPH*FPLT`
-* ghosts `TKPWOEFT/-S`
+* ghosts `TKPWOEFTS`
 * drowned `TKROUPBD`
 * unburied `UPB/PWUR/KWREUD`
 * people, `PAOEPL KW-BG`
@@ -1096,7 +1096,7 @@
 * bush `PWURB`
 * tree, `TRAOE KW-BG`
 * distorting `TKEUS/TORGT`
-* fantastic `TPAPB/T-FBG`
+* fantastic `STPEUBG`
 * shapes. `SHAEUPS TP-PL`
 * glanced `TKPWHRAPBS/-D`
 * moon, `PHAOPB KW-BG`

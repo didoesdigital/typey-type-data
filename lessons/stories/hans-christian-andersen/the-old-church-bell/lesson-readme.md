@@ -536,7 +536,7 @@
 * knew. `TPHAOU TP-PL`
 * chief `KHAOEF`
 * province `PROFPBS`
-* festival `SREFT/SRAL`
+* festival `TPEFT/SRAL`
 * being `-BG`
 * celebrated. `SEL/PWRAEUT/-D TP-PL`
 * light `HRAOEUT`

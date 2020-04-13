@@ -990,7 +990,7 @@
 * number. `TPHUPL TP-PL`
 * Out `KPA/OUT`
 * garden `TKPWA*RPB`
-* festival. `SREFT/SRAL TP-PL`
+* festival. `TPEFT/SRAL TP-PL`
 * Brilliant `KPA/PWREULT`
 * lamps `HRA*PLS`
 * festoons `TPES/TAOPB/-S`
@@ -1295,7 +1295,7 @@
 * see, `SAOE KW-BG`
 * blossoms `PWHROS/SOPL/-S`
 * appear `A/PAOER`
-* festival, `SREFT/SRAL KW-BG`
+* festival, `TPEFT/SRAL KW-BG`
 * daughter." `TKAUR TP-PL KR-GS`
 * tears `TAERS`
 * spoke `SPOEBG`

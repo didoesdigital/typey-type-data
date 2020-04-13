@@ -271,7 +271,7 @@
 * price `PRAOEUS`
 * admission `AD/PHEUGS`
 * trouser `TROUZ/ER`
-* button, `PW*UPBT KW-BG`
+* button, `PW*PB KW-BG`
 * every `EF`
 * boy `PWOEU`
 * would `WO`
@@ -291,7 +291,7 @@
 * back—flocked `PWABG EPL/TKA*RB TPHROBGD`
 * place, `PHRAEUS KW-BG`
 * gave `TKPWAEUF`
-* button. `PW*UPBT TP-PL`
+* button. `PW*PB TP-PL`
 * Many `KPA/PHAEPB`
 * noticed `TPH-TS/-D`
 * go `TKPW`
@@ -331,7 +331,7 @@
 * long, `HROPBG KW-BG`
 * long `HROPBG`
 * yard. `KWRARD TP-PL`
-* button—that `PW*UPBT EPL/TKA*RB THA`
+* button—that `PW*PB EPL/TKA*RB THA`
 * knew `TPHAOU`
 * right `RAOEUT`
 * well, `WEL KW-BG`

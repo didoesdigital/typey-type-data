@@ -81,7 +81,7 @@
 * "Read `KR-GS KPA/RAED`
 * your `KWROUR`
 * book, `PWAOBG KW-BG`
-* Sarah," `SA/RA KW-BG KR-GS`
+* Sarah," `SAEU/RA KW-BG KR-GS`
 * gently. `SKWREPBT/HREU TP-PL`
 * But `KPA/PWUT`
 * again `TKPWEPB`
@@ -181,7 +181,7 @@
 * fathers," `TPAURS KW-BG KR-GS`
 * he; `HE STPH*FPLT`
 * "but `KR-GS PWUT`
-* Sarah's `SA/RA AES`
+* Sarah's `SAEU/RA AES`
 * mother `PHOER`
 * firm `TPEURPL`
 * belief `PWHRAOEF`
@@ -231,7 +231,7 @@
 * daughters `TKAURS`
 * east. `AOEFT TP-PL`
 * It `KPA/T`
-* Sarah. `SA/RA TP-PL`
+* Sarah. `SAEU/RA TP-PL`
 * expression `EBGS/PREGS`
 * face `TPAEUS`
 * grown-up `TKPWR*UP`
@@ -516,7 +516,7 @@
 * listened, `HREUFPBD KW-BG`
 * shared `SHAEURD`
 * pleasure; `PHRERB STPH*FPLT`
-* Sarah, `SA/RA KW-BG`
+* Sarah, `SAEU/RA KW-BG`
 * girl, `TKPWEURL KW-BG`
 * corner, `KRORPB KW-BG`
 * heart `HART`
@@ -594,7 +594,7 @@
 * dismiss `STKPHEUS`
 * servant `SEFRB/APBT`
 * maid; `PHAEUD STPH*FPLT`
-* Sarah `SA/RA`
+* Sarah `SAEU/RA`
 * refused `RAO*UFD`
 * leave `HREF`
 * house, `HOUS KW-BG`

@@ -899,7 +899,7 @@
 * returned `RURPBD`
 * By `KPA/PWEU`
 * chanced `KHAPBS/-D`
-* holiday, `HOL/TKEU KW-BG`
+* holiday, `HOL/TKAEU KW-BG`
 * leisure `HR*ERB`
 * fairy's `TPAEUR/REU AES`
 * wand, `WAPBD KW-BG`
@@ -937,7 +937,7 @@
 * geese, `TKPWAOES KW-BG`
 * just `SKWRUFT`
 * named `TPHAEUPLD`
-* holiday `HOL/TKEU`
+* holiday `HOL/TKAEU`
 * Donkey-skin `KPA/TKOPB/KEU H-PB SKEUPB`
 * sun-hued `SUPB H-PB HAOU/-D`
 * dress, `TKRES KW-BG`

@@ -371,7 +371,7 @@
 * at `AT`
 * princess; `PREUPB/SES STPH*FPLT`
 * received `SAOEFD`
-* politeness. `PHRAOEUT/*PBS TP-PL`
+* politeness. `PHRAOEUT/-PBS TP-PL`
 * "Will `KR-GS W*EUL`
 * us `US`
 * story?" `STOER H-F KR-GS`

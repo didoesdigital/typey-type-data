@@ -229,7 +229,7 @@
 * tones `TOEPBS`
 * sometimes `STAOEUPLS`
 * pierce `PAOERS`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * waters; `WAURS STPH*FPLT`
 * many `PHAEPB`
 * people `PAOEPL`
@@ -271,7 +271,7 @@
 * scaly `SKAEU/HREU`
 * Jacket `KPA/SKWRABGT`
 * lilies `HREUL/KWREU/-S`
-* buttons, `PW*UPBTS KW-BG`
+* buttons, `PW*PBS KW-BG`
 * wreath `WRAO*ET`
 * reed `RAOED`
 * hair `HAEUR`

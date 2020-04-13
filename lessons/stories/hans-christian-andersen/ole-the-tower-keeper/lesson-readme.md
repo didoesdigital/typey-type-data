@@ -182,7 +182,7 @@
 * solitary `SOL/TAER`
 * rounds. `ROUPBDZ TP-PL`
 * looked `HRAOBGD`
-* upward `AUP/WARBD`
+* upward `AUP/WARD`
 * downward, `TKOUPB/WARD KW-BG`
 * own `OEPB`
 * thoughts, `THAUTS KW-BG`
@@ -885,7 +885,7 @@
 * glass—from `TKPWHRAS EPL/TKA*RB TPR`
 * bird `PWEURD`
 * soars `SAORS`
-* upward, `AUP/WARBD KW-BG`
+* upward, `AUP/WARD KW-BG`
 * twittering `HRO*ER/TWEUT/*ERG`
 * guileless `TKPWAOEUL/-LS`
 * cheerfulness, `KHAOER/-FL/-PBS KW-BG`

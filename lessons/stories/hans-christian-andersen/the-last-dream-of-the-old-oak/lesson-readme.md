@@ -686,7 +686,7 @@
 * higher. `HAOEUR TP-PL`
 * Bush `PW*URB`
 * shot `SHOT`
-* upward, `AUP/WARBD KW-BG`
+* upward, `AUP/WARD KW-BG`
 * some `SOPL`
 * tore `TO*R`
 * themselves `TH*EPLS`

@@ -854,7 +854,7 @@
 * branches, `PWRAFRPBS KW-BG`
 * naked `TPHAEUBGD`
 * negroes `TPHAOE/TKPWROE/-S`
-* horseback, `HORS/PWABG KW-BG`
+* horseback, `HORS/PWA*BG KW-BG`
 * herds `HERDZ`
 * elephants `EL/TPAPBTS`
 * treading `TRAOED/-G`

@@ -8,7 +8,7 @@
 * Barbara `PWARB/RA`
 * Susan `SAOU/SAPB`
 * Jessica `SKWRES/KA`
-* Sarah `SA/RA`
+* Sarah `SAEU/RA`
 * Margaret `PHARG/RET`
 * Karen `KAEURPB`
 * Nancy `TPHAPB/SEU`
@@ -26,7 +26,7 @@
 * Melissa `PHEL/SA`
 * Deborah `TKEB/RA`
 * Stephanie `ST-F/TPHEU`
-* Rebecca `RE/PWABG/KA`
+* Rebecca `RE/PWEBG/KA`
 * Laura `HRAU/RA`
 * Helen `HEL/*EPB`
 * Sharon `SHAEURPB`
@@ -77,7 +77,7 @@
 * Kathryn `KA*EUT/R*EUPB`
 * Gloria `TKPWHROR/KWRA`
 * Teresa `TRAO*ES/SA`
-* Sara `SA*/RA`
+* Sara `SA/RA`
 * Janice `SKWRAPB/EUS`
 * Marie `PHA/REU`
 * Julia `SKWRAOUL/KWRA`

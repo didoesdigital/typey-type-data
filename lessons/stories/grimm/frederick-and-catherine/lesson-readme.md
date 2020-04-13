@@ -305,7 +305,7 @@
 * house: `HOUS STPH-FPLT`
 * pretty `PREUT`
 * yellow `KWREL/OE`
-* buttons `PW*UPBTS`
+* buttons `PW*PBS`
 * these `THEZ`
 * are! `R SKHRAPL`
 * them `THEPL`
@@ -339,11 +339,11 @@
 * no `TPHO`
 * money: `PHUPB STPH-FPLT`
 * any `TPHEU`
-* buttons, `PW*UPBTS KW-BG`
+* buttons, `PW*PBS KW-BG`
 * might `PHAOEUT`
 * you.' `U TP-PL AE`
 * 'Yellow `AE KPA/KWREL/OE`
-* buttons!' `PW*UPBTS SKHRAPL AE`
+* buttons!' `PW*PBS SKHRAPL AE`
 * they: `THE STPH-FPLT`
 * 'let `AE HRET`
 * us `US`
@@ -355,7 +355,7 @@
 * you, `U KW-BG`
 * will `HR`
 * find `TPEUPBD`
-* buttons: `PW*UPBTS STPH-FPLT`
+* buttons: `PW*PBS STPH-FPLT`
 * dare `TKAEUR`
 * rogues `ROEG/-S`
 * went: `WEPBT STPH-FPLT`

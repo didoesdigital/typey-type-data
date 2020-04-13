@@ -204,6 +204,7 @@
 * Louisiana `HRA*`
 * aren't `R-PBT`
 * confirmation `K-FRPLGS`
+* winning `W-G`
 * transferred `TR-FRD`
 * uncomfortable `TPH-BL`
 * concerns `K-RPBS`
