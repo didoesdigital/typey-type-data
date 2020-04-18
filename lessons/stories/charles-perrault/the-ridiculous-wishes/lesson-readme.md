@@ -532,7 +532,7 @@
 * purse `PURS`
 * golden `TKPWOELD/*EPB`
 * crowns. `KROUPBS TP-PL`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * enough `TPHUF`
 * remaining `RE/PHAEUPBG`
 * more `PHOR`

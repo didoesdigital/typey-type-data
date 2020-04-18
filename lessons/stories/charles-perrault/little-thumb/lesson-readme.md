@@ -635,7 +635,7 @@
 * Ogre, `KPA/OERG KW-BG`
 * eats `AOETS`
 * "Ah! `KR-GS KPA/HA*E SKHRAPL`
-* Madam," `PHA*D/APL KW-BG KR-GS`
+* Madam," `PHAD/APL KW-BG KR-GS`
 * answered `AEPBS/-D`
 * (who `PREPB WHO`
 * trembled `TREPL/-BLD`
@@ -996,7 +996,7 @@
 * become `PW-BG`
 * Ogre. `KPA/OERG TP-PL`
 * tired `TAOEURD`
-* fruitless `TPRAOUT/HRES`
+* fruitless `TPRAOUT/-LS`
 * journey `SKWRURPB`
 * (for `PREPB TPOR`
 * leagues `HRAOEG/-S`

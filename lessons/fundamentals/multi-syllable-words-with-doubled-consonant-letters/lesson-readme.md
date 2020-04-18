@@ -376,7 +376,7 @@
 * struggling `STRUG/-LG`
 * motionless `PHOEGS/-LS`
 * hopeless `HOEP/-LS`
-* gratefully `TKPWRAET/TPHREU`
+* gratefully `TKPWRAEUT/TPHREU`
 * travelled `TRAFL/*LD`
 * commands `KPHAPBDZ`
 * Polly `POL/HREU`
@@ -920,7 +920,7 @@
 * oppressive `OP/PRES/EUF`
 * fearless `TPAOERLS`
 * motto `PHOT/TOE`
-* fruitless `TPRAOUT/HRES`
+* fruitless `TPRAOUT/-LS`
 * effectual `EFBG/KHUL`
 * tissue `T*EURB`
 * impelled `EUPL/PELD`
@@ -1131,7 +1131,7 @@
 * dizzy `TKEUZ/SEU`
 * omission `O/PHEUGS`
 * cabbage `KAB/APBLG`
-* drunkenness `PWRUPB/KEPB/TPHES`
+* drunkenness `TKRUPB/KEPB/-PBS`
 * assign `A/SAOEUPB`
 * eddy `ED/TKEU`
 * sleepless `SHRAOEP/-LS`

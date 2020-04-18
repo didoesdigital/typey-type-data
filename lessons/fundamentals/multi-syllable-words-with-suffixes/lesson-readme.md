@@ -222,7 +222,7 @@
 * confessed `KAUPB/TPES/-D`
 * other's `OER/AES`
 * vigorous `SREUG/ROUS`
-* observations `OEBS/-S`
+* observations `OEBGS/-S`
 * Austria `AUFT/KWRA`
 * primitive `PREUPL/TEUF`
 * promptly `PROPLT/HREU`
@@ -250,7 +250,7 @@
 * representative `REP/TEUF`
 * gladly `TKPWHRAD/HREU`
 * hopeless `HOEP/-LS`
-* gratefully `TKPWRAET/TPHREU`
+* gratefully `TKPWRAEUT/TPHREU`
 * openly `OEP/HREU`
 * advancing `SRAPBS/-G`
 * forests `TPOEFRT/-S`
@@ -272,7 +272,7 @@
 * justly `SKWRUFT/HREU`
 * answers `AEPBS/-S`
 * thyself `THAOEU/SEFL`
-* anxiously `APBGS/HREU`
+* anxiously `KPUS/HREU`
 * expectation `KP-PT/AEUGS`
 * defeated `TKE/TPAOET/-D`
 * endless `EPBD/-LS`
@@ -303,7 +303,7 @@
 * speedily `SPAOED/HREU`
 * consented `KEFPBT/-D`
 * fanny `TPAPB/KWREU`
-* exercised `KPER/SAOEUZ/-D`
+* exercised `KPERZ/-D`
 * seeming `SAOEPL/-G`
 * abundant `A/PWUPBD/APBT`
 * corners `KRORPB/-S`
@@ -436,6 +436,7 @@
 * angrily `APBG/REU/HREU`
 * animated `APB/PHAEUT/-D`
 * rejoiced `RE/SKWROEUS/-D`
+* thankful `THAPBG/-FL`
 * terrified `TER/TPAOEUD`
 * sorrows `SROE/-S`
 * occasioned `OEBGS/-D`
@@ -593,6 +594,7 @@
 * ghastly `TKPWAFT/HREU`
 * barbarous `PWARB/ROUS`
 * patriotism `PAEURT/EUFPL`
+* modify `PHOD/TPAOEU`
 * earnestness `ERPB/EFT/-PBS`
 * stations `STAEUGS/-S`
 * bursting `PWUFRT/-G`
@@ -603,6 +605,7 @@
 * magistrates `PHAPBLG/STRAT/-S`
 * handful `HAPBD/-FL`
 * serpent `SERP/EPBT`
+* captains `KAPT/-S`
 * settlers `SET/HRER/-S`
 * Victoria `SREUBGT/OR/KWRA`
 * gratified `TKPWRAT/TPAOEUD`
@@ -1269,6 +1272,7 @@
 * quarry `KWAR/REU`
 * rigging `REUG/-G`
 * cabbage `KAB/APBLG`
+* drunkenness `TKRUPB/KEPB/-PBS`
 * exacting `EBGS/ABGT/-G`
 * percentage `PERS/APBLG`
 * invaluable `EUPB/SRAL/-BL`

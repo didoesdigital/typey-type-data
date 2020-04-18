@@ -342,7 +342,7 @@
 * remember; `RER STPH*FPLT`
 * each `AOEFP`
 * them `THEPL`
-* 'Madam, `AE PHA*D/APL KW-BG`
+* 'Madam, `AE PHAD/APL KW-BG`
 * is `S`
 * name.' `TPHAEUPL TP-PL AE`
 * second `SEBGD`
@@ -433,7 +433,7 @@
 * JOHN?' `*URP/SKWROPB H-F AE`
 * asked `SK-D`
 * 'No, `AE KPA/TPHO KW-BG`
-* madam!' `PHAD/APL SKHRAPL AE`
+* madam!' `PH*/A*/TK*/A*/PH* SKHRAPL AE`
 * TOM?' `*URP/TOPL H-F AE`
 * JEMMY?' `xxx JEMMY H-F AE`
 * 'It `AE KPA/T`

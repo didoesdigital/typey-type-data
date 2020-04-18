@@ -425,7 +425,7 @@
 * letters: `HRERTS STPH-FPLT`
 * pride, `PRAOEUD KW-BG`
 * avarice, `AFR/EUS KW-BG`
-* drunkenness, `PWRUPB/KEPB/TPHES KW-BG`
+* drunkenness, `TKRUPB/KEPB/-PBS KW-BG`
 * wantonness—in `WAPB/TO*PB/-PBS EPL/TKA*RB TPH`
 * short, `SHORT KW-BG`
 * whole `WHOEL`
@@ -534,7 +534,7 @@
 * coins `KOEUPBS`
 * an `APB`
 * stocking. `STOBG/-G TP-PL`
-* anxiously `APBGS/HREU`
+* anxiously `KPUS/HREU`
 * feeling `TPAOELG`
 * ragged `RAGD`
 * coat `KOET`

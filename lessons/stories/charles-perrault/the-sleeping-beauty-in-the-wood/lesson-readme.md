@@ -999,7 +999,7 @@
 * dinner `TKEURPB`
 * morrow." `HRO*ER/PHOR/ROE TP-PL KR-GS`
 * "Ah! `KR-GS KPA/HA*E SKHRAPL`
-* Madam," `PHA*D/APL KW-BG KR-GS`
+* Madam," `PHAD/APL KW-BG KR-GS`
 * kitchen. `K-FP TP-PL`
 * will `HR`
 * so," `SO KW-BG KR-GS`

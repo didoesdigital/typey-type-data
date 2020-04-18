@@ -494,7 +494,7 @@
 * content `KAUPBT`
 * look `HRAOBG`
 * keyhole, `KAOE/HOEL KW-BG`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * even `AOEPB`
 * that. `THA TP-PL`
 * landing, `HRAPBD/-G KW-BG`

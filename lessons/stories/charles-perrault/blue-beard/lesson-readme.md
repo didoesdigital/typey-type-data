@@ -508,7 +508,7 @@
 * closet, `KHROFT KW-BG`
 * not? `TPHOT H-F`
 * Mighty `KPA/PHAOEUT/KWREU`
-* Madam; `PHA*D/APL STPH*FPLT`
+* Madam; `PHAD/APL STPH*FPLT`
 * shall `SHAL`
 * in, `TPH KW-BG`
 * your `KWROUR`
@@ -533,7 +533,7 @@
 * harder `HARD/*ER`
 * rock. `ROBG TP-PL`
 * die, `TKAOEU KW-BG`
-* Madam," `PHA*D/APL KW-BG KR-GS`
+* Madam," `PHAD/APL KW-BG KR-GS`
 * "and `KR-GS SKP`
 * "Since `KR-GS KPA/SEUPBS`
 * die," `TKAOEU KW-BG KR-GS`
@@ -713,7 +713,7 @@
 * while; `WHAOEUL STPH*FPLT`
 * another `TPHOER`
 * buy `PWAOEU`
-* captains' `KAPT/EUPBS AE`
+* captains' `KAPT/-S AE`
 * commissions `KPHEUGS/-S`
 * rest `REFT`
 * worthy `WO*RT/KWREU`

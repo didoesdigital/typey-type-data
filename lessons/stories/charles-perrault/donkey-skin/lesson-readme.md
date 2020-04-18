@@ -1060,7 +1060,7 @@
 * touching `TUFPG`
 * discourse `TKEUS/KORS`
 * moving `PHOFG`
-* "Madam," `KR-GS PHA*D/APL KW-BG KR-GS`
+* "Madam," `KR-GS PHAD/APL KW-BG KR-GS`
 * feeble `TPAOEBL`
 * voice, `SROEUS KW-BG`
 * "I `KR-GS EU`
@@ -1089,7 +1089,7 @@
 * desire, `STKAOEUR KW-BG`
 * it." `T TP-PL KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
-* Madam," `PHA*D/APL KW-BG KR-GS`
+* Madam," `PHAD/APL KW-BG KR-GS`
 * said, `SAEUD KW-BG`
 * "since `KR-GS SEUPBS`
 * thought, `THAUT KW-BG`

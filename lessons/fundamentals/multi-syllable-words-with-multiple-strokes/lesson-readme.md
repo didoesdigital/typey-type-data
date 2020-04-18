@@ -343,7 +343,6 @@
 * astonishment `AS/TOPB/SH-PLT`
 * nearest `TPHAOER/EFT`
 * elsewhere `ELS/W-R`
-* copying `KOP/EUG`
 * sensible `SEPBS/-BL`
 * owing `OE/-G`
 * Martin `PHART/EUPB`
@@ -582,7 +581,7 @@
 * vigorous `SREUG/ROUS`
 * bishop `PWEURB/OP`
 * lightning `HRAOEUT/TPHEUPBG`
-* observations `OEBS/-S`
+* observations `OEBGS/-S`
 * Austria `AUFT/KWRA`
 * primitive `PREUPL/TEUF`
 * doorway `TKAOR/WAEU`
@@ -649,7 +648,7 @@
 * gladly `TKPWHRAD/HREU`
 * linen `HREUPB/-PB`
 * hopeless `HOEP/-LS`
-* gratefully `TKPWRAET/TPHREU`
+* gratefully `TKPWRAEUT/TPHREU`
 * nephew `TPHEF/AOU`
 * bloody `PWHRAO/TKEU`
 * Atlantic `AT/HRAPBG`
@@ -700,9 +699,8 @@
 * answers `AEPBS/-S`
 * thyself `THAOEU/SEFL`
 * expecting `EBGS/PEG`
-* madam `PHAD/APL`
 * rescue `RES/KAOU`
-* anxiously `APBGS/HREU`
+* anxiously `KPUS/HREU`
 * awoke `A/WOEBG`
 * expectation `KP-PT/AEUGS`
 * incomplete `EUPB/KPHRAOET`
@@ -784,7 +782,7 @@
 * fanny `TPAPB/KWREU`
 * anchor `APB/KOR`
 * eminent `EPL/TPHEPBT`
-* exercised `KPER/SAOEUZ/-D`
+* exercised `KPERZ/-D`
 * seeming `SAOEPL/-G`
 * illustrious `EUL/HRUS/TROUS`
 * abundant `A/PWUPBD/APBT`
@@ -1114,7 +1112,7 @@
 * rejoiced `RE/SKWROEUS/-D`
 * Edinburgh `ED/EUPB/PWRO`
 * so-called `SOE/KAULD`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * admission `AD/PHEUGS`
 * elevated `EL/SRAEUTD`
 * Frenchman `TPREFRPBLG/PHAPB`
@@ -1460,7 +1458,7 @@
 * barbarous `PWARB/ROUS`
 * celestial `SHRES/KHAL`
 * patriotism `PAEURT/EUFPL`
-* modify `PHOD/TPEU`
+* modify `PHOD/TPAOEU`
 * earnestness `ERPB/EFT/-PBS`
 * stations `STAEUGS/-S`
 * bursting `PWUFRT/-G`
@@ -1480,7 +1478,7 @@
 * banished `PWAPB/EURBD`
 * restoration `RE/STORGS`
 * serpent `SERP/EPBT`
-* captains `KAPT/EUPBS`
+* captains `KAPT/-S`
 * settlers `SET/HRER/-S`
 * valiant `SRAL/KWRAPBT`
 * Victoria `SREUBGT/OR/KWRA`
@@ -2420,7 +2418,7 @@
 * console `KAUPB/SOEL`
 * defensive `TKEFS/EUF`
 * perceptible `PER/SEPT/-BL`
-* fruitless `TPRAOUT/HRES`
+* fruitless `TPRAOUT/-LS`
 * ransom `RAPB/SPH`
 * surplus `SUR/PHRUS`
 * solicitude `SHREUS/TAOUD`
@@ -3200,7 +3198,7 @@
 * cabbage `KAB/APBLG`
 * canopy `KAPB/PEU`
 * Shirley `SHEUR/HREU`
-* drunkenness `PWRUPB/KEPB/TPHES`
+* drunkenness `TKRUPB/KEPB/-PBS`
 * assign `A/SAOEUPB`
 * exacting `EBGS/ABGT/-G`
 * eddy `ED/TKEU`

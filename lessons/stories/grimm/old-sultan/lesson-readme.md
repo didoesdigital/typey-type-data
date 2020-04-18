@@ -179,7 +179,7 @@
 * back, `PWABG KW-BG`
 * have `SR`
 * saved `SAFD`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * long `HROPBG`
 * live.' `HREUF TP-PL AE`
 * The `KPA/-T`

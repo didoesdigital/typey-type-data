@@ -241,7 +241,7 @@
 * kindly, `KAOEUPBD/HREU KW-BG`
 * "You `KR-GS KPA/U`
 * kind-hearted, `KEUPBD H-PB HART/-D KW-BG`
-* madam;" `PHAD/APL STPH*FPLT KR-GS`
+* madam;" `PH*/A*/TK*/A*/PH* STPH*FPLT KR-GS`
 * wish `WEURB`
 * second `SEBGD`
 * bath. `PWA*T TP-PL`
@@ -656,7 +656,7 @@
 * "Tweet," `KR-GS KPA/TWAOET KW-BG KR-GS`
 * cried; `KRAOEUD STPH*FPLT`
 * hard `HARD`
-* madam." `PHAD/APL TP-PL KR-GS`
+* madam." `PH*/A*/TK*/A*/PH* TP-PL KR-GS`
 * then, `THEPB KW-BG`
 * way?" `WAEU H-F KR-GS`
 * retorted, `RE/TORT/-D KW-BG`
@@ -707,7 +707,7 @@
 * now." `TPHOU TP-PL KR-GS`
 * taken `TAEPB`
 * aback, `A/PWABG KW-BG`
-* madam `PHAD/APL`
+* madam `PH*/A*/TK*/A*/PH*`
 * afterwards, `A*FRDZ KW-BG`
 * stood `STAOD`
 * corn `KORPB`

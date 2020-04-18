@@ -364,7 +364,7 @@
 * weeds. `WAOEDZ TP-PL`
 * O, `O*P KW-BG`
 * am `APL`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * made `PHAED`
 * flowers." `TPHRO*URS TP-PL KR-GS`
 * presently `PREPBLT`

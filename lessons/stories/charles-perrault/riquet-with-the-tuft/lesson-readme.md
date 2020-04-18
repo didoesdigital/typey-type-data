@@ -185,7 +185,7 @@
 * afflict `A/TPHREUBGT`
 * yourself `KWRO*URS`
 * much, `PHUFP KW-BG`
-* Madam," `PHA*D/APL KW-BG KR-GS`
+* Madam," `PHAD/APL KW-BG KR-GS`
 * Fairy; `KPA/TPAEUR/REU STPH*FPLT`
 * "your `KR-GS KWROUR`
 * shall `SHAL`
@@ -212,7 +212,7 @@
 * can `K`
 * nothing `TPHOG`
 * her, `HER KW-BG`
-* Madam, `PHA*D/APL KW-BG`
+* Madam, `PHAD/APL KW-BG`
 * wit," `WEUT KW-BG KR-GS`
 * answered `AEPBS/-D`
 * everything `EFRG`

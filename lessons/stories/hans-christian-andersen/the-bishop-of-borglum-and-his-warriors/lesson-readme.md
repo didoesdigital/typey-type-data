@@ -481,7 +481,7 @@
 * merchants `PHER/KHAPBTS`
 * drive `TKRAOEUF`
 * look `HRAOBG`
-* anxiously `APBGS/HREU`
+* anxiously `KPUS/HREU`
 * after `AF`
 * wagons `WAG/OPBS`
 * laden `HRA*ED/-PB`

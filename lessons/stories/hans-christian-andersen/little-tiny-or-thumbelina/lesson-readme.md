@@ -753,7 +753,7 @@
 * born `PWORPB`
 * bird! `PWEURD SKHRAPL`
 * am `APL`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * none `TPHOPB`
 * children `KHEURPB`
 * birds, `PWEURDZ KW-BG`

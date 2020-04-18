@@ -735,7 +735,7 @@
 * touching `TUFPG`
 * sighed `SAOEU/-D`
 * "how `KR-GS HOU`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * being `-BG`
 * ugly; `ULG STPH*FPLT`
 * bite `PWAOEUT`

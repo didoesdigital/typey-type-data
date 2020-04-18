@@ -2676,7 +2676,7 @@
 * nearest `TPHAOER/EFT`
 * infinite `TPH-FPBT`
 * elsewhere `ELS/W-R`
-* copying `KOP/EUG`
+* copying `KO*EP/-G`
 * apartment `ARPLT`
 * activity `TAEFT`
 * wives `WAOEUFS`
@@ -3563,7 +3563,7 @@
 * lightning `HRAOEUT/TPHEUPBG`
 * authors `THOERS`
 * flames `TPHRAEUPLS`
-* observations `OEBS/-S`
+* observations `OEBGS/-S`
 * compressed `KPREFD`
 * sport `SPORT`
 * powder `PO*URD`
@@ -3761,7 +3761,7 @@
 * Pacific `PAFBG`
 * hopeless `HOEP/-LS`
 * dangers `TKAEURPBGS`
-* gratefully `TKPWRAET/TPHREU`
+* gratefully `TKPWRAEUT/TPHREU`
 * president `PREZ`
 * travelled `TRAFL/*LD`
 * ward `WARD`
@@ -3892,7 +3892,7 @@
 * joint `SKWROEUPBT`
 * refer `REFR`
 * expecting `EBGS/PEG`
-* madam `PHAD/APL`
+* madam `PH*/A*/TK*/A*/PH*`
 * railroad `R-RD`
 * spake `S*/P*/A*/K*/*E`
 * respecting `R-PG`
@@ -3908,7 +3908,7 @@
 * rescue `RES/KAOU`
 * limit `HREUPLT`
 * unpleasant `UPB/PHR*EPBT`
-* anxiously `APBGS/HREU`
+* anxiously `KPUS/HREU`
 * innocence `TPHEPBS`
 * awoke `A/WOEBG`
 * expectation `KP-PT/AEUGS`
@@ -4131,7 +4131,7 @@
 * glowing `TKPWHROEG`
 * sunlight `SULGT`
 * examples `KP-PLS`
-* exercised `KPER/SAOEUZ/-D`
+* exercised `KPERZ/-D`
 * wealthy `WEL/TH*EU`
 * seeming `SAOEPL/-G`
 * Bonaparte `PWOEPB/PA*RT`
@@ -5012,7 +5012,7 @@
 * shouts `SHOUTS`
 * so-called `SOE/KAULD`
 * theme `THAOEPL`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * admission `AD/PHEUGS`
 * enters `SPWR-S`
 * elevated `EL/SRAEUTD`
@@ -5839,7 +5839,7 @@
 * celestial `SHRES/KHAL`
 * t' `T*/AE`
 * patriotism `PAEURT/EUFPL`
-* modify `PHOD/TPEU`
+* modify `PHOD/TPAOEU`
 * earnestness `ERPB/EFT/-PBS`
 * exertion `KPERGS`
 * fox `TPOBGS`
@@ -5888,7 +5888,7 @@
 * hedge `HEPBLG`
 * k `K*`
 * jurisdiction `SKWRUBGS`
-* captains `KAPT/EUPBS`
+* captains `KAPT/-S`
 * settlers `SET/HRER/-S`
 * gaining `TKPWAEUPBG`
 * valiant `SRAL/KWRAPBT`
@@ -7951,7 +7951,7 @@
 * console `KAUPB/SOEL`
 * defensive `TKEFS/EUF`
 * perceptible `PER/SEPT/-BL`
-* fruitless `TPRAOUT/HRES`
+* fruitless `TPRAOUT/-LS`
 * ransom `RAPB/SPH`
 * surplus `SUR/PHRUS`
 * solicitude `SHREUS/TAOUD`
@@ -9539,7 +9539,7 @@
 * canopy `KAPB/PEU`
 * athletic `A*T/HRET/EUBG`
 * Shirley `SHEUR/HREU`
-* drunkenness `PWRUPB/KEPB/TPHES`
+* drunkenness `TKRUPB/KEPB/-PBS`
 * intrusion `SPWRAOUGS`
 * 'cause `KA*US`
 * assign `A/SAOEUPB`

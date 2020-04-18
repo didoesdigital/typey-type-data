@@ -256,7 +256,7 @@
 * rich, `REUFP KW-BG`
 * ought `OT`
 * be `-B`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * them, `THEPL KW-BG`
 * do `TKO`
 * them `THEPL`

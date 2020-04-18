@@ -1013,7 +1013,7 @@
 * sins, `SEUPBZ KW-BG`
 * accordingly `A/KORD/TKPWHREU`
 * chose `KHOES`
-* drunkenness, `PWRUPB/KEPB/TPHES KW-BG`
+* drunkenness, `TKRUPB/KEPB/-PBS KW-BG`
 * appeared `A/PAOERD`
 * least, `HRAOEFT KW-BG`
 * led `HRED`

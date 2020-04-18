@@ -348,7 +348,7 @@
 * Instruments." `KPA/STRAOUPLTS TP-PL KR-GS`
 * "That `KR-GS KPA/THA`
 * got, `TKPWOT KW-BG`
-* madam," `PHAD/APL KW-BG KR-GS`
+* madam," `PH*/A*/TK*/A*/PH* KW-BG KR-GS`
 * inkstand, `*EUPBG/STA*PBD KW-BG`
 * two `TWO`
 * again. `TKPWEPB TP-PL`

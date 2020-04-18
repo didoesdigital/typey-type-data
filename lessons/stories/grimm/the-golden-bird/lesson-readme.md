@@ -312,7 +312,7 @@
 * go, `TKPW-RBGS`
 * home; `HOEPL STPH*FPLT`
 * counsel. `KOUPB TP-PL`
-* thankful `THAPB/K-FL`
+* thankful `THAPBG/-FL`
 * attempt `A/TEPLT`
 * life `HRAOEUF`
 * brothers `PWROERS`

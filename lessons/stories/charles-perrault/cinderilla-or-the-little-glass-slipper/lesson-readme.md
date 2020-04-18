@@ -92,7 +92,7 @@
 * tables, `TAEUBLS KW-BG`
 * &c. `SP-PBD KR* TP-PL`
 * rubbed `RUBD`
-* Madam's `PHA*D/APL AES`
+* Madam's `PHAD/APL AES`
 * chamber, `KHAEURPL KW-BG`
 * those `THOZ`
 * Misses, `KPA/PHEUFZ KW-BG`
