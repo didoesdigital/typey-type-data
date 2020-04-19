@@ -394,7 +394,7 @@
 * creatures!' `KRAOEFPS SKHRAPL AE`
 * they; `THE STPH*FPLT`
 * 'we `AE WE`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * any `TPHEU`
 * longer; `HRORPBG STPH*FPLT`
 * big `PWEUG`
@@ -599,7 +599,7 @@
 * legs `HREGS`
 * carry `KAER`
 * hope `HOEP`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * it. `T TP-PL`
 * After `KPA/AF`
 * wandered `WAPBD/-D`

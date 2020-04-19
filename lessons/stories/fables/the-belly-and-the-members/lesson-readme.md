@@ -53,7 +53,7 @@
 * but `PWUT`
 * two `TWO`
 * began `TKPWAPB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * themselves `TH*EPLS`
 * not `TPHOT`
 * in `TPH`

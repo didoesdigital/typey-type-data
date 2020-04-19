@@ -275,7 +275,7 @@
 * husband `HUS`
 * allow `HROU`
 * admit `AD/PHEUT`
-* strangers. `STRAEUPB/SKWRERS TP-PL`
+* strangers. `STRAEURPBGS TP-PL`
 * "Then `KR-GS KPA/THEPB`
 * lie `HRAOEU`
 * here," `HAOER KW-BG KR-GS`
@@ -329,7 +329,7 @@
 * wine, `WAOEUPB KW-BG`
 * roast `ROEFT`
 * meat, `PHAET KW-BG`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * fish. `TPEURB TP-PL`
 * sexton `SEBGS/TOPB`
 * sitting `SEUGT`
@@ -566,7 +566,7 @@
 * matter, `PHAERT KW-BG`
 * is; `S STPH*FPLT`
 * mind. `PHAOEUPBD TP-PL`
-* courage, `KURPBLG KW-BG`
+* courage, `KORPBLG KW-BG`
 * don't `TKOEPBT`
 * let `HRET`
 * near `TPHAOER`
@@ -980,7 +980,7 @@
 * instead `STPHED`
 * "so `KR-GS SO`
 * price `PRAOEUS`
-* events," `AOEPBTS KW-BG KR-GS`
+* events," `AOEFPBTS KW-BG KR-GS`
 * blow. `PWHROE TP-PL`
 * drove `TKROEF`
 * apothecary, `A/PO*T/KAER KW-BG`
@@ -1019,11 +1019,11 @@
 * highroad, `xxx highroad KW-BG`
 * shall, `SHAL KW-BG`
 * largest `HRARPBLG/EFT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * played `PHRAEUD`
 * trick," `TREUBG KW-BG KR-GS`
 * he. `HE TP-PL`
-* "First, `KR-GS KPA/TPEURS KW-BG`
+* "First, `KR-GS KPA/TPEUFRT KW-BG`
 * fault; `TPAULT STPH*FPLT`
 * more." `PHOR TP-PL KR-GS`
 * round `ROUPBD`
@@ -1110,9 +1110,9 @@
 * tricks `TREUBGS`
 * now." `TPHOU TP-PL KR-GS`
 * place `PHRAEUS`
-* roads `ROEDZ`
+* roads `RAODZ`
 * crossed, `KROFD KW-BG`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * cattle. `KA*LT TP-PL`
 * "Did `KR-GS KPA/TK`
 * just `SKWRUFT`

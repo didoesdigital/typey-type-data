@@ -65,7 +65,7 @@
 * little `HREUL`
 * copper, `KOP/ER KW-BG`
 * considered `KR-D`
-* itself `*EUTS`
+* itself `T/SEFL`
 * quite `KWAOEUT`
 * in `TPH`
 * world `WORLD`
@@ -143,7 +143,7 @@
 * purse, `PURS KW-BG`
 * certainly `SERPBL`
 * mark `PHARBG`
-* distinction. `TKWEUPBGS TP-PL`
+* distinction. `STKEUPBGS TP-PL`
 * Many `KPA/PHAEPB`
 * weeks `WAOEBGS`
 * passed, `PAFD KW-BG`
@@ -292,7 +292,7 @@
 * stamp. `STAFRP TP-PL`
 * These `KPA/THEZ`
 * all `AUL`
-* events `AOEPBTS`
+* events `AOEFPBTS`
 * be `-B`
 * wrong, `WROPBG KW-BG`
 * could `KO`
@@ -532,7 +532,7 @@
 * certain `SERPB`
 * thoughts `THAUTS`
 * out. `OUT TP-PL`
-* First, `KPA/TPEURS KW-BG`
+* First, `KPA/TPEUFRT KW-BG`
 * looked `HRAOBGD`
 * pair `PAEUR`
 * scissors, `SEUS/ORS KW-BG`

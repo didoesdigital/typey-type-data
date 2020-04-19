@@ -66,7 +66,7 @@ Anne Lisbeth
 'She': KPA/SHE
 'sat': SAT
 'in': TPH
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'rooms,': RAOPLS KW-BG
 'richly': REUFP/HREU
 'decorated': TKEBG/RAEUT/-D
@@ -115,7 +115,7 @@ Anne Lisbeth
 'beautiful': PWAOUFL
 'as': AZ
 'an': APB
-'angel;': APBG/EL STPH*FPLT
+'angel;': APB/SKWREL STPH*FPLT
 'and': SKP
 'how': HOU
 'she': SHE
@@ -1077,7 +1077,7 @@ Anne Lisbeth
 'been': PW-PB
 'a': AEU
 'dear': TKAER
-'angel,': APBG/EL KW-BG
+'angel,': APB/SKWREL KW-BG
 'and': SKP
 'possessed': POS/ES/-D
 'the': -T
@@ -1208,7 +1208,7 @@ Anne Lisbeth
 'would': WO
 'fling': TPHREUPBG
 'his': HEUS
-'angel-arms': APBG/EL H-PB ARPLS
+'angel-arms': APB/SKWREL H-PB ARPLS
 'round': ROUPBD
 'my': PHEU
 'neck,': TPHEBG KW-BG
@@ -1280,7 +1280,7 @@ Anne Lisbeth
 'the': -T
 'servants': SER/SRAPBTS
 'were': WR
-'strangers': STRAEUPB/SKWRERS
+'strangers': STRAEURPBGS
 'to': TO
 'her,': HER KW-BG
 'not': TPHOT
@@ -1397,7 +1397,7 @@ Anne Lisbeth
 'and': SKP
 'the': -T
 'sweet': SWAOET
-'angel': APBG/EL
+'angel': APB/SKWREL
 'mouth': PHO*UT
 'were': WR
 'still': STEUL
@@ -1931,7 +1931,7 @@ Anne Lisbeth
 'you': U
 'have': SR
 'an': APB
-'angel': APBG/EL
+'angel': APB/SKWREL
 'in': TPH
 'heaven,': HEFPB KW-BG
 'hold': HOLD
@@ -1939,7 +1939,7 @@ Anne Lisbeth
 'fast;"': TPAFT STPH*FPLT KR-GS
 'and': SKP
 'the': -T
-'child-angel': KHAOEULD H-PB APBG/EL
+'child-angel': KHAOEULD H-PB APB/SKWREL
 'stretched': STREFPD
 'out': OUT
 'his': HEUS
@@ -1962,7 +1962,7 @@ Anne Lisbeth
 'pieces,': PAOEFS KW-BG
 'and': SKP
 'the': -T
-'angel-child': APBG/EL H-PB KHAOEULD
+'angel-child': APB/SKWREL H-PB KHAOEULD
 'was': WAS
 'rising': RAOEUFG
 'from': TPR
@@ -2816,7 +2816,7 @@ Anne Lisbeth
 'lonely': HROPBL
 'wanderer,': WAPBD/RER KW-BG
 'attach': A/TAFP
-'itself': *EUTS
+'itself': T/SEFL
 'to': TO
 'him,': HEUPL KW-BG
 'and': SKP
@@ -3345,7 +3345,7 @@ Anne Lisbeth
 'Then': KPA/THEPB
 'we': WE
 'can': K
-'find': TPEUPBD
+'find': TPAOEUPBD
 'no': TPHO
 'excuse': SKAOUS
 'for': TPOR
@@ -3409,7 +3409,7 @@ Anne Lisbeth
 'heart': HART
 'conceals': KAUPB/SAOEL/-S
 'within': W-PB
-'itself': *EUTS
+'itself': T/SEFL
 'the': -T
 'vices': SRAOEUS/-S
 'as': AZ

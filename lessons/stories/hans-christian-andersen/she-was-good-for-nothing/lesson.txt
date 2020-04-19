@@ -721,7 +721,7 @@ She Was Good for Nothing
 'a': AEU
 'very': SRE
 'few': TPAOU
-'minutes,': PHEUBS KW-BG
+'minutes,': PHEUPBS KW-BG
 'all': AUL
 'that': THA
 'the': -T
@@ -1665,7 +1665,7 @@ She Was Good for Nothing
 'him': HEUPL
 'as': AZ
 'an': APB
-'angel': APBG/EL
+'angel': APB/SKWREL
 'upon': POPB
 'earth;': *ERT STPH*FPLT
 'she': SHE
@@ -1718,7 +1718,7 @@ She Was Good for Nothing
 'as': AZ
 'if': TP
 'an': APB
-'angel': APBG/EL
+'angel': APB/SKWREL
 'were': WR
 'speaking.': SPAOEG TP-PL
 'She': KPA/SHE
@@ -1775,7 +1775,7 @@ She Was Good for Nothing
 'therein': THR-PB
 'lies': HRAO*EUS
 'the': -T
-'misfortune.': PHEUS/TPOR/TAOUPB TP-PL
+'misfortune.': PHEUZ/TP-RPB TP-PL
 'I': EU
 'esteem': ES/TAOEPL
 'the': -T
@@ -1789,7 +1789,7 @@ She Was Good for Nothing
 'God,': TKPWO*D KW-BG
 'they': THE
 'may': PHAE
-'occupy': OBG/PEU
+'occupy': OBG/PAOEU
 'a': AEU
 'higher': HAOEUR
 'place': PHRAEUS
@@ -2157,7 +2157,7 @@ She Was Good for Nothing
 'now;': TPHOU STPH*FPLT
 'but': PWUT
 'the': -T
-'misfortunes': PHEUS/TPOR/TAOUPB/-S
+'misfortunes': PHEUZ/TP-RPB/-S
 'of': -F
 'this': TH
 'world,': WORLD KW-BG
@@ -2347,7 +2347,7 @@ She Was Good for Nothing
 'of': -F
 'trial,': TRAOEUL KW-BG
 'when': WHEPB
-'misfortune': PHEUS/TPOR/TAOUPB
+'misfortune': PHEUZ/TP-RPB
 'had': H
 'fallen': TPAUL/-PB
 'upon': POPB

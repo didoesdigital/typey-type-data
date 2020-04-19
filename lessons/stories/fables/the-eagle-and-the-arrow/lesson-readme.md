@@ -17,7 +17,7 @@
 * Arrow, `KPA/AR/OE KW-BG`
 * and `SKP`
 * felt `TPELT`
-* itself `*EUTS`
+* itself `T/SEFL`
 * wounded `WOUPBD/-D`
 * to `TO`
 * death. `TK*T TP-PL`
@@ -56,4 +56,4 @@
 * enemies `EPB/PHEUS`
 * means `PHAOEPBS`
 * for `TPOR`
-* destruction." `TKRUBGS TP-PL KR-GS`
+* destruction." `STKRUBGS TP-PL KR-GS`

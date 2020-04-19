@@ -354,7 +354,7 @@
 * tell `TEL`
 * you, `U KW-BG`
 * will `HR`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * buttons: `PW*PBS STPH-FPLT`
 * dare `TKAEUR`
 * rogues `ROEG/-S`
@@ -548,7 +548,7 @@
 * nowhere `TPHO/WR`
 * way; `WAEU STPH*FPLT`
 * 'There, `AE KPA/THR KW-BG`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * watch `WAFP`
 * carefully `KA*EUFL`
 * please.' `PHRES TP-PL AE`
@@ -653,7 +653,7 @@
 * dew `TKAO*U`
 * is!' `S SKHRAPL AE`
 * Catherine's `KA*T/REUPB AES`
-* itself `*EUTS`
+* itself `T/SEFL`
 * time: `TAOEUPL STPH-FPLT`
 * whispered, `WHEUS/PERD KW-BG`
 * soon.' `SAOPB TP-PL AE`

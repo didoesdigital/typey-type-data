@@ -25,7 +25,7 @@
 * over `OEFR`
 * the `-T`
 * world `WORLD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * one, `WUPB KW-BG`
 * nowhere `TPHO/WR`
 * could `KO`
@@ -93,7 +93,7 @@
 * gate. `TKPWAET TP-PL`
 * But, `KPA/PWUT KW-BG`
 * good `TKPWAOD`
-* gracious! `TKPWRAURBS SKHRAPL`
+* gracious! `TKPWRAEURBS SKHRAPL`
 * sight `SAOEUT`
 * wind `WEUPBD`
 * had `H`

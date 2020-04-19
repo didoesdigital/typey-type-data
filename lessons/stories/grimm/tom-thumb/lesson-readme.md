@@ -253,7 +253,7 @@
 * 'Gently! `AE KPA/SKWREPBT/HREU SKHRAPL`
 * gently!' `SKWREPBT/HREU SKHRAPL AE`
 * two `TWO`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * up. `UP TP-PL`
 * an `APB`
 * odd `OD`
@@ -590,7 +590,7 @@
 * laid `HRAEUD`
 * meaning `PHAOEPBG`
 * daylight, `TKAEULT KW-BG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * home `HOEPL`
 * mother. `PHOER TP-PL`
 * alas! `A/HRAS SKHRAPL`

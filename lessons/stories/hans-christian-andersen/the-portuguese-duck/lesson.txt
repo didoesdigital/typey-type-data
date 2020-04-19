@@ -5,7 +5,7 @@ The Portuguese Duck
 'once': WUPBS
 'arrived': A/RAOEUFD
 'from': TPR
-'Portugal,': PORT/TPWAL KW-BG
+'Portugal,': PORT/TKPWAL KW-BG
 'but': PWUT
 'there': THR
 'were': WR
@@ -24,7 +24,7 @@ The Portuguese Duck
 'thing.': THEUPBG TP-PL
 'At': KPA/AT
 'all': AUL
-'events,': AOEPBTS KW-BG
+'events,': AOEFPBTS KW-BG
 'she': SHE
 'was': WAS
 'called': KAULD
@@ -230,7 +230,7 @@ The Portuguese Duck
 'but': PWUT
 'he': HE
 'had': H
-'escaped': SKAEP/-D
+'escaped': SKAEPD
 'from': TPR
 'her': HER
 'with': W
@@ -290,7 +290,7 @@ The Portuguese Duck
 'such': SUFP
 'things': THEUPBGS
 'in': TPH
-'Portugal."': PORT/TPWAL TP-PL KR-GS
+'Portugal."': PORT/TKPWAL TP-PL KR-GS
 'She': KPA/SHE
 'pitied': PEUT/EUD
 'the': -T
@@ -589,7 +589,7 @@ The Portuguese Duck
 'it': T
 'sounded': SOUPBD/-D
 'like': HRAOEUBG
-'Portugal.': PORT/TPWAL TP-PL
+'Portugal.': PORT/TKPWAL TP-PL
 'They': KPA/THE
 'nudged': TPHUPBLG/-D
 'each': AOEFP
@@ -996,7 +996,7 @@ The Portuguese Duck
 'are': R
 'born': PWORPB
 'to': TO
-'occupy': OBG/PEU
+'occupy': OBG/PAOEU
 'a': AEU
 'higher': HAOEUR
 'grade': TKPWRAEUD
@@ -1051,7 +1051,7 @@ The Portuguese Duck
 'very': SRE
 'difficult': TKEUFL
 'to': TO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'where': W-R
 'none': TPHOPB
 'exists.': KPEUFTS TP-PL
@@ -1185,7 +1185,7 @@ The Portuguese Duck
 'too': TAO
 'much': PHUFP
 'about': PW
-''Portugal.'"': AE PORT/TPWAL TP-PL AE KR-GS
+''Portugal.'"': AE PORT/TKPWAL TP-PL AE KR-GS
 '"I': KR-GS EU
 'wonder': WOPBD
 'what': WHA
@@ -1416,7 +1416,7 @@ The Portuguese Duck
 'and': SKP
 'solely': SOEL/HREU
 'to': TO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'food': TPAOD
 'for': TPOR
 'themselves.': TH*EPLS TP-PL
@@ -2154,7 +2154,7 @@ The Portuguese Duck
 'the': -T
 'ducks': TKUBGZ
 'in': TPH
-'Portugal."': PORT/TPWAL TP-PL KR-GS
+'Portugal."': PORT/TKPWAL TP-PL KR-GS
 '"Let': KR-GS KPA/HRET
 'us': US
 'think': THEU

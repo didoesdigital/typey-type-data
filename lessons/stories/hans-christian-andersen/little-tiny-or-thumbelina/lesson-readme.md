@@ -37,7 +37,7 @@
 * me `PHE`
 * where `W-R`
 * I `EU`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * one?" `WUPB H-F KR-GS`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * that `THA`
@@ -854,7 +854,7 @@
 * great `TKPWRAET`
 * deal `TKAOEL`
 * herself,—she `H*ERS KW-BG EPL/TKA*RB SHE`
-* courage, `KURPBLG KW-BG`
+* courage, `KORPBLG KW-BG`
 * wool `WAOL`
 * thickly `THEUBG/HREU`
 * used `AOUFD`
@@ -1185,7 +1185,7 @@
 * crown `KROUPB`
 * shoulders, `SHOURLDZ KW-BG`
 * herself. `H*ERS TP-PL`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * flower; `TPHRO*UR STPH*FPLT`
 * man `PHAPB`
 * dwell `TKWEL`

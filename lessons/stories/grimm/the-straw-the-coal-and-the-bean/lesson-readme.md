@@ -79,7 +79,7 @@
 * if `TP`
 * I `EU`
 * not `TPHOT`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * by `PWEU`
 * sheer `SHAOER`
 * force, `TPORS KW-BG`
@@ -195,7 +195,7 @@
 * bridge.' `PWREUPBLG TP-PL AE`
 * therefore `TH-FR`
 * stretched `STREFPD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * bank `PWA*PBG`
 * other, `OER KW-BG`
 * coal, `KOEL KW-BG`

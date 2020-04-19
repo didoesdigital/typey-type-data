@@ -102,7 +102,7 @@
 * wishing-cloak, `WEURBG H-PB KHROEBG KW-BG`
 * when `WHEPB`
 * wear `WAER`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * yourself `KWRO*URS`
 * at `AT`
 * any `TPHEU`

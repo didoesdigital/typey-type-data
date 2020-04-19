@@ -400,7 +400,7 @@
 * been `PW-PB`
 * cause `KAUS`
 * great `TKPWRAET`
-* misfortune! `PHEUS/TPOR/TAOUPB SKHRAPL`
+* misfortune! `PHEUZ/TP-RPB SKHRAPL`
 * has `HAS`
 * thrown `THROEPB`
 * broke `PWROEBG`
@@ -1094,7 +1094,7 @@
 * disappeared, `TKEUS/PAOERD KW-BG`
 * darkness. `TKARBG/-PBS TP-PL`
 * able `ABL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * out,' `OUT KW-BG AE`
 * about, `PW KW-BG`
 * room, `RAOPL KW-BG`

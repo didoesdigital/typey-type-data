@@ -22,9 +22,8 @@
 * passage `PAFPBLG`
 * possession `PEFGS`
 * nation `TPHA*EUGS`
-* situation `SWAEUGS`
 * passion `PAGS`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * feelings `TPAOELGS`
 * difference `TKEUFRPBS`
 * exactly `ELG`
@@ -66,7 +65,7 @@
 * origin `O*RPBLG`
 * confusion `KAUFGS`
 * emotion `AO*EGS`
-* destruction `TKRUBGS`
+* destruction `STKRUBGS`
 * production `PROUBGS`
 * region `RAOEGS`
 * image `EUPBLG`
@@ -83,7 +82,7 @@
 * decision `STKEUGS`
 * disposition `TK*EUPGS`
 * preserved `PREFRBD`
-* distinction `TKWEUPBGS`
+* distinction `STKEUPBGS`
 * observation `OFGS`
 * preserve `PREFRB`
 * Russian `R*UGS`
@@ -150,7 +149,7 @@
 * moonlight `PHAOLGT`
 * proposition `PROPGS`
 * recognition `REBGS`
-* exclusion `KPHRAOUGS`
+* exclusion `SKHRAOUGS`
 * combination `KPWEUPBGS`
 * institution `STPHAOUGS`
 * discharge `TKARPBLG`
@@ -258,7 +257,7 @@
 * supposition `SPOGS`
 * ruling `RAOULG`
 * projects `PROPBLGZ`
-* transaction `T-RPBS`
+* transaction `TKRABGS`
 * flaming `TPHRAPLG`
 * pension `PEPBGS`
 * adoption `TKOPGS`
@@ -285,11 +284,12 @@
 * calculation `KHRAEUGS`
 * politician `PHREUGS`
 * regulation `RAEUGS`
-* violation `SROEULGS`
+* violation `SRAOEULGS`
 * junction `SKWRUPBGS`
 * proverb `PROFRB`
 * acquisition `KWEUGS`
 * governess `TKPWO*FRPBS`
+* completion `KPHRAOEGS`
 * regulated `RAELGTD`
 * deliberation `TKHREUBGS`
 * dealings `TKAOELGS`
@@ -337,7 +337,7 @@
 * claiming `KHRAEUPLG`
 * digestion `SKWREGS`
 * subscription `SKR*EUPGS`
-* infection `TPHEGS`
+* infection `TPEBGS`
 * intrusion `SPWRAOUGS`
 * preferable `PREFRBL`
 * compelling `KPELG`

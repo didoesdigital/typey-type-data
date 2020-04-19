@@ -262,7 +262,7 @@
 * better `PWOERT`
 * than `THAPB`
 * first; `TPEUFRT STPH*FPLT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * hundred `HUPBD`
 * pearls; `PERLS STPH*FPLT`
 * therefore `TH-FR`

@@ -118,7 +118,7 @@
 * descriptions `SKREUFPGS`
 * troops `TRAOPS`
 * charming `KHARPL/-G`
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * brave `PWRAEUF`
 * knights `TPHAO*EUT/-S`
 * prancing `PRAPBS/-G`
@@ -210,7 +210,7 @@
 * comes—the `KOPLS EPL/TKA*RB -T`
 * who `WHO`
 * performs `P-FRPLS`
-* mechanical `PHEPL/K-L`
+* mechanical `PHEBG/K-L`
 * part—and `PART EPL/TKA*RB SKP`
 * writes `WRAOEUTS`
 * down `TKOUPB`

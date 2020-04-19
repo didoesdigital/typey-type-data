@@ -395,7 +395,7 @@
 * soul, `SOUL KW-BG`
 * one—built `WUPB EPL/TKA*RB PWEULT`
 * new, `TPHU KW-BG`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * which `WEU`
 * answered `AEPBS/-D`
 * its `EUTS`

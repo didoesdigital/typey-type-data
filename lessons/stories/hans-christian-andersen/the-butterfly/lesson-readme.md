@@ -45,7 +45,7 @@
 * their `THAEUR`
 * stalks, `STAUBGS KW-BG`
 * just `SKWRUFT`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * should `SHO`
 * sit `SEUT`
 * before `PW-FP`

@@ -93,8 +93,8 @@
 * have `SR`
 * go `TKPW`
 * through `THRU`
-* roads `ROEDZ`
-* cross-roads `KROS H-PB ROEDZ`
+* roads `RAODZ`
+* cross-roads `KROS H-PB RAODZ`
 * are `R`
 * linden-tree. `xxx linden H-PB TRAOE TP-PL`
 * What `KPA/WHA`
@@ -102,7 +102,7 @@
 * call `KAUL`
 * veins `SRAEUPBS`
 * leaf, `HRAOEF KW-BG`
-* roads; `ROEDZ STPH*FPLT`
+* roads; `RAODZ STPH*FPLT`
 * ay, `A/KWR* KW-BG`
 * very `SRE`
 * long `HROPBG`
@@ -423,7 +423,7 @@
 * you," `U KW-BG KR-GS`
 * said, `SAEUD KW-BG`
 * "you `KR-GS U`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * your `KWROUR`
 * bed `PWED`
 * leaf." `HRAOEF TP-PL KR-GS`
@@ -505,7 +505,7 @@
 * her. `HER TP-PL`
 * largest `HRARPBLG/EFT`
 * flower-pot `TPHRO*UR H-PB POT`
-* find, `TPEUPBD KW-BG`
+* find, `TPAOEUPBD KW-BG`
 * dead `TKED`
 * planted `PHRAPBT/-D`
 * twig `TWEUG`

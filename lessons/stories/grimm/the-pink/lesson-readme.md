@@ -33,7 +33,7 @@
 * daughter. `TKAUR TP-PL`
 * Then `KPA/THEPB`
 * an `APB`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * from `TPR`
 * came `KAEUPL`
 * said: `SAEUD STPH-FPLT`
@@ -532,7 +532,7 @@
 * beasts; `PWAOEFT/-S STPH*FPLT`
 * named.' `TPHAEUPLD TP-PL AE`
 * arose `A/ROES`
-* 'Gracious `AE KPA/TKPWRAURBS`
+* 'Gracious `AE KPA/TKPWRAEURBS`
 * lord `HRORD`
 * father `TPAER`
 * beasts, `PWAOEFT/-S KW-BG`
@@ -574,7 +574,7 @@
 * 'Yes, `AE KPA/KWRE KW-BG`
 * her.' `HER TP-PL AE`
 * 'Most `AE KPA/PHOFT`
-* gracious `TKPWRAURBS`
+* gracious `TKPWRAEURBS`
 * show `SHOE`
 * flower,' `TPHRO*UR KW-BG AE`
 * thrust `THRUFT`
@@ -595,7 +595,7 @@
 * ate `AEUT`
 * nothing, `TPHOG KW-BG`
 * 'The `AE KPA/-T`
-* merciful `TPERS/-FL`
+* merciful `PHERS/-FL`
 * supported `SPORD`
 * lived `HREUFD`
 * three `THRAOE`

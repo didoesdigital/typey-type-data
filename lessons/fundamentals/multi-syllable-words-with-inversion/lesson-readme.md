@@ -1,6 +1,6 @@
 # Multi-syllable words with inversion
 
-* itself `*EUTS`
+* itself `T/SEFL`
 * desire `STKAOEUR`
 * distance `STKAPBS`
 * reading `RAEGD`
@@ -11,7 +11,7 @@
 * desired `STKAOEURD`
 * presently `PREPBLT`
 * leading `HRAEGD`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * apparently `A/PARPBLT`
 * distinguished `STKPWAOURBD`
 * completely `KPHRAOELT`
@@ -22,7 +22,8 @@
 * partly `PARLT`
 * destroyed `STKROEUD`
 * slightly `SHRAOEULT`
-* disease `TK-Z`
+* destruction `STKRUBGS`
+* disease `STKAOE`
 * universal `AOUFRL`
 * lately `HRAEULT`
 * distinct `STKEUPBG`
@@ -30,7 +31,9 @@
 * design `STKAOEUPB`
 * providing `PROEUFGD`
 * smaller `SPHAURL`
+* distinction `STKEUPBGS`
 * distress `STKRES`
+* involved `SROFLD`
 * lightly `HRAOEULT`
 * disturbed `STKURBD`
 * desires `STKAOEURS`
@@ -97,6 +100,7 @@
 * sewing `SWEG`
 * oneself `WUPB/SEFL`
 * separately `SERPLT`
+* involve `SROFL`
 * avoiding `A/SROEUGD`
 * tending `TEPBGD`
 * Australian `AURPBLT`

@@ -99,7 +99,6 @@
 * scarce `SKAEURS`
 * poets `POETS`
 * seed `SAOED`
-* roads `ROEDZ`
 * writes `WRAOEUTS`
 * sailed `SAEULD`
 * rope `ROEP`
@@ -176,6 +175,7 @@
 * steed `STAOED`
 * spaces `SPAEUFS`
 * toast `TOEFT`
+* coasts `KOEFTS`
 * truce `TRAOUS`
 * weird `WAOERD`
 * pairs `PAEURS`

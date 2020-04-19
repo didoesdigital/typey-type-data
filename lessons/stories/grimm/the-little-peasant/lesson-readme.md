@@ -132,7 +132,7 @@
 * soon `SAOPB`
 * run `RUPB`
 * by `PWEU`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * look `HRAOBG`
 * how `HOU`
 * eats `AOETS`
@@ -465,7 +465,7 @@
 * her. `HER TP-PL`
 * know `TPHOE`
 * fifth, `TP*EUT KW-BG`
-* 'First, `AE KPA/TPEURS KW-BG`
+* 'First, `AE KPA/TPEUFRT KW-BG`
 * bad.' `PWAD TP-PL AE`
 * So `KPA/SO`
 * ate, `AEUT KW-BG`
@@ -636,7 +636,7 @@
 * below `PWHRO`
 * entering `SPWR-G`
 * quietly `KWAO*EULT`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * sheep `SHAOEP`
 * looking `HRAOG`
 * contented. `KAUPBT/-D TP-PL`

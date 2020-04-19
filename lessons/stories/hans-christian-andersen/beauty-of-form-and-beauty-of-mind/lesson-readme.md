@@ -405,7 +405,7 @@
 * keep `KAOEP`
 * In `KPA/TPH`
 * public `PHREUBG`
-* roads `ROEDZ`
+* roads `RAODZ`
 * always `AULS`
 * safe." `SAEUF TP-PL KR-GS`
 * gently; `SKWREPBT/HREU STPH*FPLT`
@@ -613,7 +613,7 @@
 * Thorwalsden. `xxx Thorwalsden TP-PL`
 * "You `KR-GS KPA/U`
 * true `TRAOU`
-* successor `SUBG/SES/O*R`
+* successor `SUBG/SES/SOR`
 * Thorwalsden," `xxx Thorwalsden KW-BG KR-GS`
 * Alfred; `AL/TPRED STPH*FPLT`
 * if, `TP KW-BG`
@@ -825,7 +825,7 @@
 * regrets `RAOE/TKPWRETS`
 * bargain. `PWARG/AEUPB TP-PL`
 * disagreeable `TKEUS/TKPWRAOEBL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * button `PW*PB`
 * way, `WAEU KW-BG`
 * studs `STUDZ`
@@ -1047,7 +1047,7 @@
 * kindred `KEUPBD/RED`
 * gift `TKPWEUFT`
 * heaven, `HEFPB KW-BG`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * feel `TPAOEL`
 * sympathize `SEUPL/THAOEUZ`
 * elevate `HR-FT`
@@ -1099,7 +1099,7 @@
 * attracted `A/TRABGD`
 * sympathy; `SEUPL/THEU STPH*FPLT`
 * develops `SRELS`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * raised `RA*EUFD`
 * higher `HAOEUR`
 * state `STAEUT`

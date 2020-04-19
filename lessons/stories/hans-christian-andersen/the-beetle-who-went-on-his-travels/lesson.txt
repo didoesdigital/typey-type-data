@@ -1535,7 +1535,7 @@ The Beetle Who Went on His Travels
 'and': SKP
 'the': -T
 'beetle': PWAO*ELT
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'tittered': xxx tittered
 'again,': TKPWEPB KW-BG
 'this': TH
@@ -2005,7 +2005,7 @@ The Beetle Who Went on His Travels
 'him.': HEUPL TP-PL
 'What': KPA/WHA
 'a': AEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'place': PHRAEUS
 'the': -T
 'hothouse': HOT/TK-LS/HOUS
@@ -2088,7 +2088,7 @@ The Beetle Who Went on His Travels
 'if': TP
 'I': EU
 'can': K
-'find': TPEUPBD
+'find': TPAOEUPBD
 'any': TPHEU
 'one': WUPB
 'with': W
@@ -2170,7 +2170,7 @@ The Beetle Who Went on His Travels
 'fun': TPUPB
 'with': W
 'him.': HEUPL TP-PL
-'First,': KPA/TPEURS KW-BG
+'First,': KPA/TPEUFRT KW-BG
 'he': HE
 'was': WAS
 'wrapped,': WRAPD KW-BG
@@ -2371,7 +2371,7 @@ The Beetle Who Went on His Travels
 'they': THE
 'hastened': HAEUS/-PBD
 'to': TO
-'obey,': O/PWAEU KW-BG
+'obey,': OE/PWAEU KW-BG
 'and': SKP
 'ran': RAPB
 'away': A/WAEU
@@ -2512,7 +2512,7 @@ The Beetle Who Went on His Travels
 'person': PERPB
 'in': TPH
 'it.': T TP-PL
-'First,': KPA/TPEURS KW-BG
+'First,': KPA/TPEUFRT KW-BG
 'they': THE
 'refuse': REF/AOUS
 'me': PHE
@@ -2814,7 +2814,7 @@ The Beetle Who Went on His Travels
 'It': KPA/T
 'is': S
 'a': AEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'thing': THEUPBG
 'to': TO
 'have': SR
@@ -2970,7 +2970,7 @@ The Beetle Who Went on His Travels
 'lively': HRAOEUFL
 'and': SKP
 'bright.': PWRAOEUT TP-PL
-'"Travelling': KR-GS KPA/TRAFLG/A*U
+'"Travelling': KR-GS KPA/TRAFL/HREUPBG
 'expands': EBGS/PAPBDZ
 'the': -T
 'mind': PHAOEUPBD

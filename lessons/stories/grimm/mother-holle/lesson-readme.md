@@ -87,7 +87,7 @@
 * home `HOEPL`
 * crying `KRAOEUG`
 * tell `TEL`
-* misfortune, `PHEUS/TPOR/TAOUPB KW-BG`
+* misfortune, `PHEUZ/TP-RPB KW-BG`
 * but `PWUT`
 * spoke `SPOEBG`
 * harshly `HAR/-RB/HREU`
@@ -254,7 +254,7 @@
 * kindly, `KAOEUPBD/HREU KW-BG`
 * summoned `SPHUPBD`
 * up `UP`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * agreed `TKPWRAED`
 * enter `SPWER`
 * service. `S-FS TP-PL`
@@ -677,7 +677,7 @@
 * set `SET`
 * way `WAEU`
 * surprised `SPRAOEUFD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * cottage-door `KOT/APBLG TKAO*R`
 * standing `STAPBG`
 * strange `STRAEUPBG`

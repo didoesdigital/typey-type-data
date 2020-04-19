@@ -397,7 +397,7 @@
 * snakes, `STPHAEUBGS KW-BG`
 * kinds `KEUPBDZ`
 * stork-dainties `STORBG H-PB TKAEUPB/TEU/-S`
-* find. `TPEUPBD TP-PL`
+* find. `TPAOEUPBD TP-PL`
 * then, `THEPB KW-BG`
 * funny `TPAOUPB`
 * tricks `TREUBGS`
@@ -676,7 +676,7 @@
 * dead `TKED`
 * has `HAS`
 * dreamed `TKREPLD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * death," `TK*T KW-BG KR-GS`
 * him `HEUPL`
 * brother. `PWROER TP-PL`

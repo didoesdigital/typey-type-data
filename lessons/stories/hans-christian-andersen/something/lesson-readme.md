@@ -264,7 +264,7 @@
 * experiments. `SPERPLTS TP-PL`
 * Nationality `KPA/TPHAT/ALT`
 * assert `A/SERT`
-* itself `*EUTS`
+* itself `T/SEFL`
 * until `TPH-L`
 * affectation, `AFBG/TAEUGS KW-BG`
 * century `KROEURPBT`
@@ -298,7 +298,7 @@
 * discovered, `SKOFD KW-BG`
 * right, `RAOEUT KW-BG`
 * business `PWEUS`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * out `OUT`
 * expose; `SPOES STPH*FPLT`
 * something, `S-G KW-BG`
@@ -595,7 +595,7 @@
 * broke `PWROEBG`
 * neck. `TPHEBG TP-PL`
 * However, `KPA/HOUF KW-BG`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * funeral, `TPAOUPBL KW-BG`
 * city `STEU`
 * flags `TPHRAGS`
@@ -875,7 +875,7 @@
 * flames `TPHRAEUPLS`
 * leaped `HRAOEPD`
 * beacon `PWAOE/KOPB`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * fortunately `TP-RPBL`
 * threshold `THRERBLD`
 * door; `TKAOR STPH*FPLT`
@@ -930,7 +930,7 @@
 * admitted `AD/PHEUTD`
 * here." `HAOER TP-PL KR-GS`
 * opened, `OEPD KW-BG`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * led `HRED`
 * in. `TPH TP-PL`
 * She `KPA/SHE`
@@ -947,7 +947,7 @@
 * immortal `EUPL/PHORT/A*L`
 * beauty. `PWAOUT TP-PL`
 * "See," `KR-GS KPA/SAOE KW-BG KR-GS`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * pointing `POEUPBGT`
 * wonderful `WUFL`
 * straw, `STRAU KW-BG`

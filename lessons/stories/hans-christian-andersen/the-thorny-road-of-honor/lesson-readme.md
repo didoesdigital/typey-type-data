@@ -125,7 +125,7 @@
 * new `TPHU`
 * members `PHEPLS`
 * until `TPH-L`
-* itself `*EUTS`
+* itself `T/SEFL`
 * shall `SHAL`
 * pass `PAS`
 * away. `A/WAEU TP-PL`
@@ -335,7 +335,7 @@
 * steps `STEPS`
 * palace `PAL/AS`
 * capital `KPAL`
-* Portugal, `PORT/TPWAL KW-BG`
+* Portugal, `PORT/TKPWAL KW-BG`
 * begs. `PWEGS TP-PL`
 * submissive `SPHEUS/EUF`
 * slave `SHRAEUF`
@@ -435,7 +435,7 @@
 * bells `PWELS`
 * sounds `SOUPBDZ`
 * celebrate `SEL/PWRAEUT`
-* triumphant `TREU/UPL/TPAPBT`
+* triumphant `TRAOEU/UPL/TPAPBT`
 * return; `RURPB STPH*FPLT`
 * soon `SAOPB`
 * drowns `TKROUPBS`
@@ -524,7 +524,7 @@
 * army, `AERPL KW-BG`
 * brings `PWREUS`
 * victory `SREUBGT/REU`
-* salvation `S-L/SRAEUGS`
+* salvation `SAL/SRAEUGS`
 * her `HER`
 * fatherland. `TPAER/HRA*PBD TP-PL`
 * sound `SOUPBD`
@@ -675,7 +675,7 @@
 * defiance `TKE/TPAOEUPBS`
 * elements. `HREPLTS TP-PL`
 * thinks `THEUS`
-* solve `SOF`
+* solve `SOFL`
 * problem `PRO*B`
 * named `TPHAEUPLD`
 * Robert `ROBT`
@@ -724,7 +724,7 @@
 * distance `STKAPBS`
 * lands `HRAPBDZ`
 * hours `HOURS`
-* minutes. `PHEUBS TP-PL`
+* minutes. `PHEUPBS TP-PL`
 * O `O*P`
 * race, `RAEUS KW-BG`
 * canst `K/*T`
@@ -782,7 +782,7 @@
 * wings `WEUPBGS`
 * ages, `AEPBLGS KW-BG`
 * shows—giving `SHOES EPL/TKA*RB TKPWEUFG`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * comfort, `K-FRT KW-BG`
 * awakening `A/WAEUBG/EPBG`
 * gentle `SKWR*EPBLT`

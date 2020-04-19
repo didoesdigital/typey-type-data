@@ -6,7 +6,7 @@
 * child `KHAOEULD`
 * dies, `TKAOEUZ KW-BG`
 * an `APB`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * of `-F`
 * God `TKPWO*D`
 * comes `KOPLS`
@@ -114,7 +114,7 @@
 * transplanted `THRAPBTD`
 * there?" `THR H-F KR-GS`
 * asked `SK-D`
-* angel. `APBG/EL TP-PL`
+* angel. `APB/SKWREL TP-PL`
 * Close `KPA/KHROES`
 * grew `TKPWRAOU`
 * slender, `SHRERPBD KW-BG`
@@ -199,7 +199,7 @@
 * rubbish `RUB/EURB`
 * pleasant `PHREFPBT`
 * see. `SAOE TP-PL`
-* Amidst `KPA/A/PH*EUS`
+* Amidst `KPA/A/PH*EUFD`
 * this `TH`
 * confusion, `KAUFGS KW-BG`
 * pointed `POEUPBTD`
@@ -219,7 +219,7 @@
 * "We `KR-GS KPA/WE`
 * will `HR`
 * us," `US KW-BG KR-GS`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * "I `KR-GS EU`
 * tell `TEL`
 * you `U`
@@ -328,7 +328,7 @@
 * every `EF`
 * year. `KWRAOER TP-PL`
 * became `PWAEUPL`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * flower-garden `TPHRO*UR H-PB TKPWA*RPB`
 * boy, `PWOEU KW-BG`
 * treasure `TRERB`
@@ -349,7 +349,7 @@
 * evening `AOEPBG`
 * sunset. `SAUPB/SET TP-PL`
 * entwined `EPB/TWAOEUPB/-D`
-* itself `*EUTS`
+* itself `T/SEFL`
 * dreams—for `TKRAOEPLS EPL/TKA*RB TPOR`
 * bloomed, `PWHRAOPL/-D KW-BG`
 * spread `SPRED`

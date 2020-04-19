@@ -342,7 +342,7 @@
 * distributed, `TKR-BTD KW-BG`
 * King's `KO*EUPBG AES`
 * command, `KPHAPBD KW-BG`
-* council-houses `KAUPB/SEUL H-PB HO*UFS`
+* council-houses `KOUPB/SEUL H-PB HO*UFS`
 * through `THRU`
 * various `SRAEURS`
 * towns, `TOUPBS KW-BG`

@@ -539,7 +539,7 @@
 * there `THR`
 * them. `THEPL TP-PL`
 * uneasy `UPB/EZ`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * means `PHAOEPBS`
 * scattered `SKAT/ERD`
 * came. `KAEUPL TP-PL`
@@ -996,7 +996,7 @@
 * become `PW-BG`
 * Ogre. `KPA/OERG TP-PL`
 * tired `TAOEURD`
-* fruitless `TPRAOUT/-LS`
+* fruitless `TPRAOUT/HRES`
 * journey `SKWRURPB`
 * (for `PREPB TPOR`
 * leagues `HRAOEG/-S`

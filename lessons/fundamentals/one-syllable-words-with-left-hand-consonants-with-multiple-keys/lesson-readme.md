@@ -466,6 +466,7 @@
 * lays `HRAEUZ`
 * nod `TPHOD`
 * dig `TKEUG`
+* ghosts `TKPWOEFTS`
 * darted `TKARTD`
 * fuel `TPAOUL`
 * Mars `PHARS`
@@ -563,6 +564,7 @@
 * glove `TKPWHROF`
 * kneel `TPHAOEL`
 * bust `PWUFT`
+* furs `TPURZ`
 * drug `TKRUG`
 * dose `TKOES`
 * snap `STPHAP`
@@ -624,6 +626,7 @@
 * valve `SRAFL`
 * bug `PWUG`
 * bat `PWAT`
+* mates `PHAEUTS`
 * fret `TPRET`
 * dad `TKAD`
 * blot `PWHROT`

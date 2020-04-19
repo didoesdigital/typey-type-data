@@ -212,7 +212,7 @@
 * present `PREPBT`
 * it." `T TP-PL KR-GS`
 * easy `EZ`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * does `TKOS`
 * know. `TPHOEFPLT`
 * magician `PHA/SKWREUGS`

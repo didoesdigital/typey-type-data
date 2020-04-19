@@ -250,7 +250,7 @@
 * miser `PHAOEUZ/ER`
 * crept `KREPT`
 * bush `PWURB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * but `PWUT`
 * directly `TKREL`
 * got `TKPWOT`

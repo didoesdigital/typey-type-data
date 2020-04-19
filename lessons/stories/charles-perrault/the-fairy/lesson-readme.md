@@ -45,7 +45,7 @@
 * of `-F`
 * father, `TPAER KW-BG`
 * for `TPOR`
-* courtesy `KURT/SEU`
+* courtesy `KORT/SEU`
 * sweetness `SWAOET/-PBS`
 * temper, `TEPL/PER KW-BG`
 * withal `W/A*L`
@@ -425,7 +425,7 @@
 * wandered `WAPBD/-D`
 * about `PW`
 * while `WHAOEUL`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * anybody `TPHEUB`
 * take `TAEUBG`
 * in, `TPH KW-BG`

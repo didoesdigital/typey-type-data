@@ -443,7 +443,7 @@ The Bottle Neck
 'below': PWHRO
 'there': THR
 'was': WAS
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'and': SKP
 'running': R*UPBG
 'to': TO
@@ -2233,7 +2233,7 @@ The Bottle Neck
 'wearisome;': WAOE/REU/SPH STPH*FPLT
 'at': AT
 'all': AUL
-'events': AOEPBTS
+'events': AOEFPBTS
 'it': T
 'was': WAS
 'not': TPHOT
@@ -2378,7 +2378,7 @@ The Bottle Neck
 'in': TPH
 'a': AEU
 'large': HRARPBLG
-'cupboard': WUP/PWORD
+'cupboard': KUP/PWAORD
 'of': -F
 'one': WUPB
 'of': -F
@@ -2390,7 +2390,7 @@ The Bottle Neck
 'town.': TOUPB TP-PL
 'Whenever': KPA/WHEFR
 'any': TPHEU
-'strangers': STRAEUPB/SKWRERS
+'strangers': STRAEURPBGS
 'arrived,': A/RAOEUFD KW-BG
 'the': -T
 'paper': PAEUP
@@ -2438,7 +2438,7 @@ The Bottle Neck
 'standing': STAPBG
 'in': TPH
 'the': -T
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'and': SKP
 'then': THEPB
 'it': T
@@ -2819,7 +2819,7 @@ The Bottle Neck
 'till': TEUL
 'it': T
 'found': TPOUPBD
-'itself': *EUTS
+'itself': T/SEFL
 'carried': KAERD
 'to': TO
 'a': AEU
@@ -3761,7 +3761,7 @@ The Bottle Neck
 'air,': AEUR KW-BG
 'and': SKP
 'felt': TPELT
-'itself': *EUTS
+'itself': T/SEFL
 'quite': KWAOEUT
 'young': KWRUPBG
 'and': SKP

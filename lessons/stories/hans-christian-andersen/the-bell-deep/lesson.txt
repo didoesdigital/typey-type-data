@@ -377,7 +377,7 @@ The Bell-Deep
 'and': SKP
 'many': PHAEPB
 'people': PAOEPL
-'maintain': PHEUPB/TAEUPB
+'maintain': PHAEUPB/TAEUPB
 'that': THA
 'its': EUTS
 'strains': STRAEUPBS
@@ -1184,7 +1184,7 @@ The Bell-Deep
 'is': S
 'the': -T
 'air': AEUR
-'itself': *EUTS
+'itself': T/SEFL
 'which': WEU
 'sends': SEPBDZ
 'forth': TPO*RT
@@ -1198,7 +1198,7 @@ The Bell-Deep
 'that': THA
 'the': -T
 'Bell': PWEL/PWEL
-'itself': *EUTS
+'itself': T/SEFL
 'said': SAEUD
 'it': T
 'was': WAS

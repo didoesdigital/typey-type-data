@@ -132,7 +132,7 @@
 * you, `U KW-BG`
 * perhaps `PRAPS`
 * will `HR`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * may `PHAE`
 * be `-B`
 * some `SOPL`
@@ -570,7 +570,7 @@
 * going, `TKPW-G KW-BG`
 * know `TPHOE`
 * well `WEL`
-* misfortunes `PHEUS/TPOR/TAOUPB/-S`
+* misfortunes `PHEUZ/TP-RPB/-S`
 * go.' `TKPW TP-PL AE`
 * However, `KPA/HOUF KW-BG`
 * gave `TKPWAEUF`

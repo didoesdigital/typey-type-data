@@ -81,7 +81,7 @@
 * correct `KREBGT`
 * thing. `THEUPBG TP-PL`
 * One `KPA/WUPB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * out `OUT`
 * truth `TRAO*UT`
 * concerning `K-RPBG`

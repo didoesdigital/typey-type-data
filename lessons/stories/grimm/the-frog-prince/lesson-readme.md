@@ -417,7 +417,7 @@
 * faithful `TPA*EUT/-FL`
 * Heinrich, `xxx Heinrich KW-BG`
 * bewailed `PWE/WAEUL/-D`
-* misfortunes `PHEUS/TPOR/TAOUPB/-S`
+* misfortunes `PHEUZ/TP-RPB/-S`
 * dear `TKAER`
 * master `PHAFRT`
 * during `TKURG`

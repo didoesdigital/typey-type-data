@@ -274,7 +274,7 @@
 * song, `SOPBG KW-BG`
 * manikin `xxx manikin`
 * and, `SKP KW-BG`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * wanted, `WAPBTD KW-BG`
 * forced `TPOFRD`
 * keep `KAOEP`
@@ -299,7 +299,7 @@
 * it. `T TP-PL`
 * grieved `TKPWRAOEF/-D`
 * sorely `SORL`
-* misfortune, `PHEUS/TPOR/TAOUPB KW-BG`
+* misfortune, `PHEUZ/TP-RPB KW-BG`
 * him `HEUPL`
 * wealth `W*ELT`
 * kingdom `KEUPBG/TKOPL`
@@ -330,7 +330,7 @@
 * messengers `PHAEPBG/-S`
 * over `OEFR`
 * land `HRAPBD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * new `TPHU`
 * ones. `WUPBZ TP-PL`
 * next `TPHEGT`

@@ -23,6 +23,7 @@
 * stared `STAERD`
 * schools `SKAOLS`
 * swear `SWAER`
+* roads `RAODZ`
 * tear `TAER`
 * root `RAOT`
 * seas `SAES`

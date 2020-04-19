@@ -284,7 +284,7 @@
 * available `SRAEUBL`
 * avenue `AFP`
 * aver `A*FR`
-* average `AFG`
+* average `AFRG`
 * averaged `AFRGD`
 * aversion `A*FRGS`
 * avert `A*FRT`
@@ -1256,7 +1256,7 @@
 * complete `KPHRAOET`
 * completed `KPHRAOETD`
 * completing `KPHRAOEGT`
-* completion `KPHRAOELS`
+* completion `KPHRAOEGS`
 * complex `KPHREBGS`
 * complexion `KPHR*EBGS`
 * compliance `KPHRAOEUPBS`
@@ -1497,7 +1497,7 @@
 * coupled `KUPLD`
 * coupling `KUPLG`
 * coupon `KAOUPB`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * courageous `KRAEURBS`
 * court `KORT`
 * courtroom `KRAOPL`
@@ -1767,7 +1767,7 @@
 * delight `TKHRAOEUT`
 * delirious `TKHREURS`
 * delirium `TKHRAOERPL`
-* deliver `THREUFR`
+* deliver `TKHREUFR`
 * deliverance `TKHR*EUFRPBS`
 * deliveries `TKHROEUFRS`
 * delivery `TKHROEUFR`
@@ -1853,7 +1853,7 @@
 * destroy `STKROEU`
 * destroyer `STKROEUR`
 * destruct `TKRUBGT`
-* destruction `TKRUBGS`
+* destruction `STKRUBGS`
 * destructive `TKR*UF`
 * detect `TKEBGT`
 * detection `TKEBGS`
@@ -1983,7 +1983,7 @@
 * distance `STKAPBS`
 * distant `STKAPBT`
 * distinct `STKEUPBG`
-* distinction `TKWEUPBGS`
+* distinction `STKEUPBGS`
 * distinguish `TKWEURB`
 * distorted `STKORTD`
 * distortion `STKORGS`
@@ -2358,7 +2358,7 @@
 * grabbed `TKPWRABD`
 * grabbing `TKPWRABG`
 * grace `TKPWRAEUS`
-* gracious `TKPWRAURBS`
+* gracious `TKPWRAEURBS`
 * grad `TKPWRAD`
 * grade `TKPWRAEUD`
 * grader `TKPWRAEURD`
@@ -2819,7 +2819,7 @@
 * inefficient `TPHEUFPBT`
 * inert `TPHERT`
 * infect `TPHEBGT`
-* infection `TPHEGS`
+* infection `TPEBGS`
 * infectious `TPERBS`
 * infer `TPH-FR`
 * inference `TPH-FRPBS`
@@ -2960,8 +2960,8 @@
 * investigator `SROERGT`
 * investment `SREFPLT`
 * investor `SREFR`
-* involve `SROF`
-* involved `SROLD`
+* involve `SROFL`
+* involved `SROFLD`
 * involvement `SROFPLT`
 * involving `SROFG`
 * ion `O*EUPB`
@@ -3383,7 +3383,7 @@
 * paving `PAEUFG`
 * paw `PAU`
 * pawn `PAUPB`
-* payment `PAEULT`
+* payment `PAEUPLT`
 * payoff `PAUF`
 * payroll `PAEURL`
 * pea `PAE`
@@ -4232,7 +4232,7 @@
 * residence `R*EPBS`
 * resident `REPBLT`
 * residential `REPBL`
-* resistance `REUFBS`
+* resistance `REUFPBS`
 * resistant `REUFPBT`
 * resisting `R*EUFG`
 * resolved `RO*FLD`
@@ -5070,7 +5070,7 @@
 * soluble `SOBL`
 * solution `SHRAOUGS`
 * solvable `SO*FBL`
-* solve `SOF`
+* solve `SOFL`
 * solved `SOFLD`
 * solving `SOFG`
 * some `SOPL`
@@ -5114,7 +5114,7 @@
 * southern `SORPB`
 * sovereign `SOFRPB`
 * sovereignty `SOFRPBT`
-* sow `SWO`
+* sow `SOE`
 * sown `SOEPB`
 * soy `SOEU`
 * spa `SPA`
@@ -6017,7 +6017,7 @@
 * trance `TRA*PBS`
 * tranche `TRAFRPB`
 * trans `TRAPBS`
-* transaction `T-RPBS`
+* transaction `TKRABGS`
 * transcribe `TREUB`
 * transcribed `TREUBD`
 * transcript `TREUPT`
@@ -6325,7 +6325,7 @@
 * vine `SRAOEUPB`
 * vinyl `SRAOEUPBL`
 * violate `SRAOEULT`
-* violation `SROEULGS`
+* violation `SRAOEULGS`
 * violence `SROEUPBLS`
 * violent `SROEUPBLT`
 * violet `SROEULT`

@@ -188,7 +188,7 @@
 * fail `TPAEUL`
 * keep `KAOEP`
 * awake `A/WAEUBG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * sleeping, `SHRAOEPG KW-BG`
 * promised `PROPLS/-D`
 * all `AUL`
@@ -282,7 +282,7 @@
 * awakened `A/WAEUBG/-PBD`
 * him. `HEUPL TP-PL`
 * At `KPA/AT`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * along, `HRAOPBG KW-BG`
 * white `WHAOEUT`
 * before `PW-FP`
@@ -520,7 +520,7 @@
 * However, `KPA/HOUF KW-BG`
 * while `WHAOEUL`
 * summoned `SPHUPBD`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * forward. `TPAORD TP-PL`
 * saw `SAU`
 * out, `OUT KW-BG`
@@ -579,7 +579,7 @@
 * larger `HRAERPBLG`
 * maps `PHAPS`
 * upstairs `AUP/STAEURS`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * we `WE`
 * those,' `THOZ KW-BG AE`
 * searched `SEFRPBD`

@@ -5,7 +5,7 @@
 * named `TPHAEUPLD`
 * Androcles `KPA/ARPBD/SKWRO/KR*/*L/-S`
 * once `WUPBS`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * from `TPR`
 * his `HEUS`
 * master `PHAFRT`
@@ -33,7 +33,7 @@
 * turned `TURPBD`
 * flee, `TPHRAOE KW-BG`
 * but `PWUT`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * that `THA`
 * did `TK`
 * not `TPHOT`

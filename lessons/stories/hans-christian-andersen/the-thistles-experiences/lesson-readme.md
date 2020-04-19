@@ -245,7 +245,7 @@
 * something `S-G`
 * knew `TPHAOU`
 * of," `-F KW-BG KR-GS`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * suppose `SPOS`
 * right `RAOEUT`
 * place `PHRAEUS`
@@ -272,7 +272,7 @@
 * every `EF`
 * blossom `PWHROFPL`
 * unfolded `UPB/TPOELD/-D`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * days `TKAEUS`
 * gone `TKPWOPB`
 * before `PW-FP`
@@ -342,7 +342,7 @@
 * pot." `POT TP-PL KR-GS`
 * promised `PROPLS/-D`
 * little `HREUL`
-* itself `*EUTS`
+* itself `T/SEFL`
 * buttonhole, `PW*UPBT/HOEL KW-BG`
 * highest `HAOEU/EFT`
 * honor `HO*RPB`

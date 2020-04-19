@@ -483,7 +483,7 @@
 * After `KPA/AF`
 * "Go `KR-GS KPA/TKPW`
 * again `TKPWEPB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * lizards `HREUZ/ARDZ`
 * behind `HEUPBD`
 * watering `WAURPBG`
@@ -564,7 +564,7 @@
 * passed `PAFD`
 * use, `AOUS KW-BG`
 * except `KPEPT`
-* heraldic `H*ERLD/EUBG`
+* heraldic `HERLD/EUBG`
 * term, `TERPL KW-BG`
 * ceased `SAOES/-D`
 * convey `KAUPB/SRAEU`
@@ -678,7 +678,7 @@
 * materials, `TAOERLS KW-BG`
 * hands `HAPBDZ`
 * conducted `KUBGTD`
-* honourable `HOPB/RABL/A*U`
+* honourable `H*/O*/TPH*/O*/*U/R*/-BL`
 * seat, `SAOET KW-BG`
 * afterwards `A*FRDZ`
 * dance `TKAPBS`
@@ -888,7 +888,7 @@
 * banter `PWAPB/TER`
 * looked `HRAOBGD`
 * earnestly `ERPB/EFT/HREU`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * handsome, `HAPBD/SOPL KW-BG`
 * try, `TREU KW-BG`
 * orders `ORDZ`

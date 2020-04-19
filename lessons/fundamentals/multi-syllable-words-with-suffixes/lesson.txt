@@ -1,6 +1,6 @@
 Multi-syllable words with suffixes
 
-'itself': *EUTS
+'itself': T/SEFL
 'answered': AEPBS/-D
 'beginning': TKPWEUPB/-G
 'donations': TKOE/TPHAEUGS/-S
@@ -51,7 +51,7 @@ Multi-syllable words with suffixes
 'spiritual': SPEURT/WAL
 'Harry': HAR/REU
 'instantly': EUPB/STAPBT/HREU
-'distributing': TKR-BG
+'distributing': TKR-BT/-G
 'victory': SREUBGT/REU
 'India': EUPBD/KWRA
 'gradually': TKPWRAD/WAEL
@@ -123,7 +123,6 @@ Multi-syllable words with suffixes
 'limitation': HREUPL/TAEUGS
 'seeking': SAOEBG/-G
 'practically': PRABGT/HREU
-'abandoned': PWAPB/TKOPB/-D
 'cheerful': KHAOER/-FL
 'riding': RAOEUD/-G
 'hungry': HUPBG/REU
@@ -384,7 +383,7 @@ Multi-syllable words with suffixes
 'infinitely': EUPB/TPEUPBT/HREU
 'fiercely': TPAOERS/HREU
 'exalted': KPALT/-D
-'binary': PWAOEUPB/REU
+'binary': PWAOEUPB/AER
 'agitated': APBLG/TAEUT/-D
 'marching': PHAFRPB/-G
 'essence': ES/EPBS
@@ -394,7 +393,7 @@ Multi-syllable words with suffixes
 'continues': T-PB/-S
 'glancing': TKPWHRAPBS/-G
 'sally': SAL/HREU
-'mechanical': PHEPL/K-L
+'mechanical': PHEBG/K-L
 'successfully': SUBG/SES/TPHREU
 'expressing': EBGS/PRES/-G
 'awaiting': A/WAEUT/-G
@@ -523,7 +522,7 @@ Multi-syllable words with suffixes
 'visions': SREUGS/-S
 'carelessly': KAEURLS/HREU
 'Scottish': SKOT/EURB
-'accessible': ABG/SES/-BL
+'accessible': ABG/SES/EUBL
 'philosophers': TPHROS/TPER/-S
 'vaguely': SRAEUG/HREU
 'yielding': KWRAOELD/-G
@@ -540,7 +539,7 @@ Multi-syllable words with suffixes
 'cherished': KHER/EURB/-D
 'brandy': PWRAPBD/KWREU
 'Janet': SKWRAPB/ET
-'indispensable': EUPBDZ/PEPBS/-BL
+'indispensable': EUPB/TKEUS/PEPBS/-BL
 'regiments': REPBLG/-PLTS
 'partially': PARB/HREU
 'prejudices': PREPBLG/TKEUS/-S
@@ -668,7 +667,7 @@ Multi-syllable words with suffixes
 'universally': AOUPB/SRERS/HREU
 'worshipped': WOR/SH-P/P-D
 'resisted': RE/SEUFT/-D
-'merciful': TPERS/-FL
+'merciful': PHERS/-FL
 'olive': OL/EUF
 'Syria': SEUR/KWRA
 'interposed': EUPBT/POES/-D
@@ -768,8 +767,10 @@ Multi-syllable words with suffixes
 'missionaries': PHEUGS/REU/-S
 'perpetually': PER/PET/WAEL
 'Hastings': HAEUFT/EUPBG/-S
+'grievous': TKPWRAOEF/OUS
 'mercury': PHERBG/REU
 'chivalry': SHEUFL/REU
+'luminous': HRAOUPL/TPHOUS
 'confided': KAUPB/TPAOEUD/-D
 'perplexity': PER/PHREBGS/TEU
 'companionship': KPAPB/SH-P
@@ -783,7 +784,6 @@ Multi-syllable words with suffixes
 'fugitive': TPAOUPBLG/TEUF
 'Gothic': TKPWOT/EUBG
 'coolness': KAOL/-PBS
-'excluded': KPHRAOUD/-D
 'iniquity': TPHEUBG/TEU
 'meditation': PHED/TAEUGS
 'burial': PWUR/KWRAL
@@ -872,7 +872,7 @@ Multi-syllable words with suffixes
 'commissioners': KPHEUGS/ERS
 'relish': REL/EURB
 'cordially': KORPBLG/HREU
-'Arabian': A*EURB/KWRAPB
+'Arabian': A/RAEUB/KWRAPB
 'fascination': TPAS/TPHAEUGS
 'belly': PWEL/HREU
 'disgusted': TKEUS/TKPWUFT/-D
@@ -897,7 +897,7 @@ Multi-syllable words with suffixes
 'mischievous': PHEUS/KHEF/OUS
 'alternately': ALT/TPHAT/HREU
 'airy': AEUR/REU
-'incessantly': EUPB/SEPBT/HREU
+'incessantly': EUPB/SEFPBT/HREU
 'flattery': TPHRAT/REU
 'vitality': SRAOEUT/ALT
 'pirates': PAOEURT/-S
@@ -928,6 +928,7 @@ Multi-syllable words with suffixes
 'permanently': PERPL/HREU
 'rainy': RAEUPB/KWREU
 'radical': RAD/K-L
+'ominous': OPL/TPHOUS
 'respectively': R-PT/EUFL
 'pilgrims': PEUL/TKPWREUPL/-S
 'currency': KURPB/SEU
@@ -1087,6 +1088,7 @@ Multi-syllable words with suffixes
 'visage': SREUS/APBLG
 'ghostly': TKPWOEFT/HREU
 'excessively': KPES/EUFL
+'strenuous': STREPB/WOUS
 'secular': SEBG/HRAR
 'averted': A/SRERT/-D
 'Constantine': KAUPBS/TAPBT/AOEUPB
@@ -1116,6 +1118,7 @@ Multi-syllable words with suffixes
 'dingy': TKEUPBG/KWREU
 'congenial': KOPB/SKWRAOEPB/KWRAL
 'speculative': SPEBG/HRAT/EUF
+'murderous': PHURD/ROUS
 'courier': KOR/KWRER
 'seriousness': SAOERS/-PBS
 'usefulness': AOUS/-FL/-PBS
@@ -1146,7 +1149,7 @@ Multi-syllable words with suffixes
 'ingratitude': EUPB/TKPWAT/TAOUD
 'servitude': SER/TAOUD
 'comely': KOPL/HREU
-'dictionary': TKEUBGS/REU
+'dictionary': TKEUBGS/AER
 'prettiest': PRET/KWREFT
 'wistful': WEUFT/-FL
 'faintest': TPAEUPBT/EFT
@@ -1166,7 +1169,7 @@ Multi-syllable words with suffixes
 'battalion': PWA/TAL/KWROPB
 'heritage': HER/TAPBLG
 'powerfully': POURL/HREU
-'violated': SROEULT/-D
+'violated': SRAOEULT/-D
 'fairies': TPAEUR/REU/-S
 'handsomely': HAPBD/SOPL/HREU
 'arctic': ART/EUBG
@@ -1196,7 +1199,7 @@ Multi-syllable words with suffixes
 'thoughtless': THAUT/-LS
 'temperance': TEFRP/RAPBS
 'illumination': HRUPL/TPHAEUGS
-'translations': TRAPBS/HRAEUBGS/-S
+'translations': TRAPBZ/HRAEUBGS/-S
 'nationality': TPHAT/ALT
 'casually': KAS/WAEL
 'satisfactorily': SAEF/HREU
@@ -1307,7 +1310,7 @@ Multi-syllable words with suffixes
 'rowing': ROE/-G
 'discrimination': SKREUPL/TPHAEUGS
 'meridian': PHE/REUD/KWRAPB
-'beastly': PWAEFT/HREU
+'beastly': PWAOEFT/HREU
 'nuisance': TPHAOUS/APBS
 'bony': PWOEPB/KWREU
 'restlessness': REFT/-LS/-PBS
@@ -1334,7 +1337,7 @@ Multi-syllable words with suffixes
 'Hungarian': HUPBG/AEURPB
 'obstinately': OBS/TPHAT/HREU
 'sullenly': SUL/-PB/HREU
-'assassination': A/AS/TPHAEUGS
+'assassination': A/SAS/TPHAEUGS
 'commissions': KPHEUGS/-S
 'respectability': R-PT/-BLT
 'closest': KHROES/EFT
@@ -1350,6 +1353,7 @@ Multi-syllable words with suffixes
 'stationary': STAEUGS/AER
 'disconcerted': TKEUS/KOPB/SERT/-D
 'onion': OPB/KWROPB
+'boisterous': PWOEUFT/ROUS
 'lightness': HRAOEUT/-PBS
 'Bohemian': PWOE/HAOEPL/KWRAPB
 'abiding': A/PWAOEUD/-G

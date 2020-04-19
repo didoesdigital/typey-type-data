@@ -47,7 +47,7 @@
 * many `PHAEPB`
 * more, `PHOR KW-BG`
 * a `AEU`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * sight; `SAOEUT STPH*FPLT`
 * all `AUL`
 * splendor `SHREPBD/O*R`

@@ -38,7 +38,7 @@
 * house `HOUS`
 * from `TPR`
 * which `WEU`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * garden `TKPWA*RPB`
 * could `KO`
 * be `-B`
@@ -435,7 +435,7 @@
 * thought `THAUT`
 * separated `SERPTD`
 * world, `WORLD KW-BG`
-* deceived `STKAOEFD`
+* deceived `TKAOE/SAOEFD`
 * me!' `PHE SKHRAPL AE`
 * Rapunzel's `KPA/RA/PUPB/S*EL AES`
 * wrapped `WRAPD`
@@ -468,7 +468,7 @@
 * hook `HAOBG`
 * ascended, `A/SEPBD/-D KW-BG`
 * instead `STPHED`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * dearest `TKAER/EFT`
 * found `TPOUPBD`
 * gazed `TKPWAEZ/-D`
@@ -493,7 +493,7 @@
 * pain, `PAEUPB KW-BG`
 * despair `TKE/SPAEUR`
 * leapt `HREPT`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * life, `HRAOEUF KW-BG`
 * thorns `THORPB/-S`
 * pierced `PAOERS/-D`

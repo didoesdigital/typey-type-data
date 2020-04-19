@@ -258,7 +258,7 @@
 * frightened; `TPRAOEUPBD STPH*FPLT`
 * told `TOLD`
 * her `HER`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * come `KOPL`
 * down `TKOUPB`
 * air `AEUR`
@@ -283,7 +283,7 @@
 * snowy `STPHOE/WEU`
 * mountain, `PHOUPB/TAEUPB KW-BG`
 * contained `TAEUPBD`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * halls `HAULS`
 * full `TPUL`
 * pictures. `P*EUFPS TP-PL`
@@ -311,11 +311,11 @@
 * me. `PHE TP-PL`
 * They `KPA/THE`
 * proud `PROUD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * I `EU`
 * am `APL`
 * going `TKPW-G`
-* angel; `APBG/EL STPH*FPLT`
+* angel; `APB/SKWREL STPH*FPLT`
 * think `THEU`
 * pretty `PREUT`
 * stories `STOERS`
@@ -824,7 +824,7 @@
 * slippers `SHREUP/ERS`
 * ears. `AOERS TP-PL`
 * believe `PWHREF`
-* angel. `APBG/EL TP-PL`
+* angel. `APB/SKWREL TP-PL`
 * As `KPA/AZ`
 * flying `TPHRAOEUG`
 * fireworks, `TPAOEUR/WORBGS KW-BG`
@@ -840,7 +840,7 @@
 * tell, `TEL KW-BG`
 * though `THOE`
 * beautiful. `PWAOUFL TP-PL`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * myself," `PHAO*EUS KW-BG KR-GS`
 * one; `WUPB STPH*FPLT`
 * "he `KR-GS HE`

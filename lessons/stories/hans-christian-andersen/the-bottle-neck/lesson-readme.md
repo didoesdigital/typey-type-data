@@ -242,7 +242,7 @@
 * merrily; `PHER/HREU STPH*FPLT`
 * street `STRAOET`
 * below `PWHRO`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * running `R*UPBG`
 * fro, `TPRO KW-BG`
 * one `WUPB`
@@ -827,7 +827,7 @@
 * onward, `AOPB/WA*RD KW-BG`
 * wandering `WAPBGD`
 * wearisome; `WAOE/REU/SPH STPH*FPLT`
-* events `AOEPBTS`
+* events `AOEFPBTS`
 * usual `URBL`
 * occupation. `OUPGS TP-PL`
 * travel, `TRAFL KW-BG`
@@ -863,12 +863,12 @@
 * question,—so `KWE KW-BG EPL/TKA*RB SO`
 * paper `PAEUP`
 * back `PWABG`
-* cupboard `WUP/PWORD`
+* cupboard `KUP/PWAORD`
 * houses `HO*UFS`
 * town. `TOUPB TP-PL`
 * Whenever `KPA/WHEFR`
 * any `TPHEU`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * arrived, `A/RAOEUFD KW-BG`
 * over, `OEFR KW-BG`
 * address, `A/TKRES KW-BG`
@@ -881,7 +881,7 @@
 * For `KPA/TPOR`
 * year `KWRAOER`
 * standing `STAPBG`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * loft, `HRO*FT KW-BG`
 * soon `SAOPB`
 * covered `KOFRD`
@@ -977,7 +977,7 @@
 * noticed `TPH-TS/-D`
 * drawn, `TKRAUPB KW-BG`
 * contents `KAUPBTS`
-* itself `*EUTS`
+* itself `T/SEFL`
 * left `HREFT`
 * forgotten. `TPORGTD TP-PL`
 * "There's `KR-GS KPA/THR AES`

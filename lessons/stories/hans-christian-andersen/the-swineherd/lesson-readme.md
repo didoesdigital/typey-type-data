@@ -318,7 +318,7 @@
 * tune: `TAOUPB STPH-FPLT`
 * "A `KR-GS KPA/AEU`
 * jolly `SKWROL/HREU`
-* sow `SWO`
+* sow `SOE`
 * sty, `STAOEU KW-BG`
 * Three `KPA/THRAOE`
 * piggies `PEUG/KWREU/-S`

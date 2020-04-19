@@ -893,7 +893,7 @@ Everything in the Right Place
 'the': -T
 'most': PHOFT
 'important': PORPB
-'events': AOEPBTS
+'events': AOEFPBTS
 'have': SR
 'yet': KWRET
 'to': TO
@@ -1047,7 +1047,7 @@ Everything in the Right Place
 'up': UP
 'into': TPHAO
 'a': AEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'tree,': TRAOE KW-BG
 'and': SKP
 'stood': STAOD
@@ -1284,7 +1284,7 @@ Everything in the Right Place
 'It': KPA/T
 'had': H
 'a': AEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'view,': SRAOU KW-BG
 'and': SKP
 'was': WAS
@@ -1440,7 +1440,7 @@ Everything in the Right Place
 'once': WUPBS
 'been': PW-PB
 'the': -T
-'honour': HO*URPB/A*U
+'honour': H*/O*/TPH*/O*/*U/R*
 'and': SKP
 'glory': TKPWHROER
 'of': -F
@@ -2065,7 +2065,7 @@ Everything in the Right Place
 'It': KPA/T
 'is': S
 'a': AEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'thing': THEUPBG
 'to': TO
 'belong': PWHROPBG
@@ -2088,7 +2088,7 @@ Everything in the Right Place
 'Nobility': KPA/TPHOEBLT
 'is': S
 'a': AEU
-'distinction;': TKWEUPBGS STPH*FPLT
+'distinction;': STKEUPBGS STPH*FPLT
 'it': T
 'is': S
 'a': AEU
@@ -2375,7 +2375,7 @@ Everything in the Right Place
 'street': STRAOET
 'like': HRAOEUBG
 'an': APB
-'Arabian': A*EURB/KWRAPB
+'Arabian': A/RAEUB/KWRAPB
 'horse,': HORS KW-BG
 'and': SKP
 'says': SEZ
@@ -2596,7 +2596,7 @@ Everything in the Right Place
 'rules—the': RAOULS EPL/TKA*RB -T
 'place': PHRAEUS
 'of': -F
-'honour': HO*URPB/A*U
+'honour': H*/O*/TPH*/O*/*U/R*
 'is': S
 'due': TKAOU
 'to': TO
@@ -2845,7 +2845,7 @@ Everything in the Right Place
 'the': -T
 'place': PHRAEUS
 'of': -F
-'honour': HO*URPB/A*U
+'honour': H*/O*/TPH*/O*/*U/R*
 'at': AT
 'the': -T
 'end': EPBD
@@ -2896,7 +2896,7 @@ Everything in the Right Place
 'his': HEUS
 'place': PHRAEUS
 'of': -F
-'honour;': HO*URPB/A*U STPH*FPLT
+'honour;': H*/O*/TPH*/O*/*U/R* STPH*FPLT
 'the': -T
 'flute': TPHRAOUT
 'was': WAS
@@ -2949,7 +2949,7 @@ Everything in the Right Place
 'mile,': PHAOEUL KW-BG
 'and': SKP
 'strange': STRAEUPBG
-'events': AOEPBTS
+'events': AOEFPBTS
 'took': TAOBG
 'place.': PHRAEUS TP-PL
 'A': KPA/AEU
@@ -2958,7 +2958,7 @@ Everything in the Right Place
 'family,': TPAEPL KW-BG
 'who': WHO
 'were': WR
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'in': TPH
 'a': AEU
 'coach': KOEFP
@@ -2973,7 +2973,7 @@ Everything in the Right Place
 'could': KO
 'not': TPHOT
 'even': AOEPB
-'find': TPEUPBD
+'find': TPAOEUPBD
 'room': RAOPL
 'behind': HEUPBD
 'it': T

@@ -170,7 +170,7 @@
 * do." `TKO TP-PL KR-GS`
 * But `KPA/PWUT`
 * spread `SPRED`
-* itself `*EUTS`
+* itself `T/SEFL`
 * with `W`
 * pride, `PRAOEUD KW-BG`
 * said, `SAEUD KW-BG`
@@ -211,7 +211,7 @@
 * cried `KRAOEUD`
 * corn; `KORPB STPH*FPLT`
 * "the `KR-GS -T`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * coming; `KO*G STPH*FPLT`
 * wings `WEUPBGS`
 * sky `SKAOEU`

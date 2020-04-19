@@ -105,7 +105,7 @@
 * who `WHO`
 * had `H`
 * hoped `HOEPD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * sale, `SAEL KW-BG`
 * gave `TKPWAEUF`
 * him `HEUPL`
@@ -130,7 +130,7 @@
 * strength'; `STREPBG AE STPH*FPLT`
 * brought `PWRAUT`
 * bread `PWRAED`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * cut `KUT`
 * himself `H*EUPLS`
 * piece `PAOES`
@@ -284,7 +284,7 @@
 * observed `OEBD`
 * bird `PWEURD`
 * caught `KAUT`
-* itself `*EUTS`
+* itself `T/SEFL`
 * thicket. `THEUBGT TP-PL`
 * It `KPA/T`
 * pocket `POBGT`

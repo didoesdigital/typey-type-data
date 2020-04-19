@@ -272,7 +272,7 @@
 * ago, `AG KW-BG`
 * yet `KWRET`
 * gives `TKPWEUFS`
-* itself `*EUTS`
+* itself `T/SEFL`
 * airs. `AEUR/-S TP-PL`
 * sit `SEUT`
 * patiently `PAEURBT/HREU`
@@ -436,7 +436,7 @@
 * even `AOEPB`
 * mother `PHOER`
 * cannot `K/TPHOT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * me. `PHE TP-PL`
 * Had `KPA/H`
 * eye, `AOEU KW-BG`

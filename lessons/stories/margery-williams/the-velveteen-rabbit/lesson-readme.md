@@ -12,7 +12,7 @@
 * beginning `TKPWEUPB/-G`
 * he `HE`
 * really `R-L`
-* splendid. `SPHREPBD/EUD TP-PL`
+* splendid. `SPHREPB/TKEUD TP-PL`
 * He `KPA/HE`
 * fat `TPAT`
 * bunchy, `PWUFRPB/KWREU KW-BG`
@@ -97,7 +97,7 @@
 * long `HROPBG`
 * time `TAOEUPL`
 * lived `HREUFD`
-* cupboard `WUP/PWORD`
+* cupboard `KUP/PWAORD`
 * or `OR`
 * on `OPB`
 * nursery `TPHURS/REU`
@@ -121,7 +121,7 @@
 * toys `TOEUS`
 * snubbed `STPHUB/-D`
 * The `KPA/-T`
-* mechanical `PHEPL/K-L`
+* mechanical `PHEBG/K-L`
 * superior, `SPOEUR KW-BG`
 * looked `HRAOBGD`
 * down `TKOUPB`
@@ -405,7 +405,7 @@
 * wind `WEUPBD`
 * hustled `HUS/-LD`
 * away `A/WAEU`
-* cupboards. `KUP/PWORDZ TP-PL`
+* cupboards. `KUP/PWAORDZ TP-PL`
 * She `KPA/SHE`
 * "tidying `KR-GS TAOEU/TKEU/-G`
 * hated `HAEUT/-D`
@@ -421,7 +421,7 @@
 * going `TKPW-G`
 * bed, `PWED KW-BG`
 * couldn't `KOPBT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * china `KHAOEUPB/A`
 * dog `TKOG`
 * slept `SHREPT`
@@ -485,7 +485,7 @@
 * bedclothes `PWED/TK-LS/KHRO*ETS`
 * burrows `PWUR/ROU/-S`
 * in. `TPH TP-PL`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * games `TKPWAEUPLS`
 * together, `TOGT KW-BG`
 * whispers, `WHEUS/PERS KW-BG`
@@ -795,7 +795,7 @@
 * fro, `TPRO KW-BG`
 * swayed `SWAEU/-D`
 * gently `SKWREPBT/HREU`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * passed. `PAFD TP-PL`
 * alone. `A/HROEPB TP-PL`
 * dear!" `TKAER SKHRAPL KR-GS`
@@ -943,7 +943,7 @@
 * once. `WUPBS TP-PL`
 * What? `KPA/WHA H-F`
 * Nonsense! `KPA/TPHOPB/SEPBS SKHRAPL`
-* Get `KPA/TKPW-T`
+* Get `KPA/TKPWET`
 * one. `WUPB TP-PL`
 * more!" `PHOR SKHRAPL KR-GS`
 * sack `SABG`
@@ -978,7 +978,7 @@
 * excited `KPAOEUTD`
 * care `KAEUR`
 * to-morrow `TO H-PB HRO*ER/PHOR/ROE`
-* itself `*EUTS`
+* itself `T/SEFL`
 * such `SUFP`
 * think `THEU`
 * asleep, `A/SHRAOEP KW-BG`

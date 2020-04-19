@@ -154,7 +154,7 @@
 * still `STEUL`
 * wait `WAEUT`
 * into `TPHAO`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * nothing `TPHOG`
 * again `TKPWEPB`
 * things `THEUPBGS`

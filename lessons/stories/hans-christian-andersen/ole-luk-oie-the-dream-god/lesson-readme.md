@@ -263,7 +263,7 @@
 * sum, `SUPL KW-BG`
 * almost `HR-PL`
 * broken `PWROEPB`
-* itself `*EUTS`
+* itself `T/SEFL`
 * pieces. `PAOEFS TP-PL`
 * pencil `PEPB/SEUL`
 * pulled `PULD`
@@ -369,7 +369,7 @@
 * chatter, `KHAT/ER KW-BG`
 * article `ARL`
 * talked `TAUBGD`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * Over `KPA/OEFR`
 * chest `KHEFT`
 * drawers `TKRAURS`
@@ -580,7 +580,7 @@
 * 'Twas `AE xxx Twas`
 * lisping `HREUS/-PG`
 * tongue `TUPBG`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * spoke `SPOEBG`
 * half-remembered `HAF H-PB RERD`
 * word, `WORD KW-BG`
@@ -1356,7 +1356,7 @@
 * skeleton, `SKEL/TOPB KW-BG`
 * embroidered `EPL/PWROEUD/ERD`
 * wears `WAERS`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * hussar, `xxx hussar KW-BG`
 * mantle `PHAPBT/*L`
 * velvet `SREL/SRET`

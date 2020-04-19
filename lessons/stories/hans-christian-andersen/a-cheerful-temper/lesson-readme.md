@@ -326,7 +326,7 @@
 * lived `HREUFD`
 * might `PHAOEUT`
 * said `SAEUD`
-* occupy `OBG/PEU`
+* occupy `OBG/PAOEU`
 * position. `POGS TP-PL`
 * upon, `POPB KW-BG`
 * something `S-G`

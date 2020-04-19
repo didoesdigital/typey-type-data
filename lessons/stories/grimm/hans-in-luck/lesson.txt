@@ -545,7 +545,7 @@ Hans in Luck
 'was': WAS
 'coming': KO*G
 'by,': PWEU KW-BG
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'a': AEU
 'cow,': KO*U KW-BG
 'had': H
@@ -856,7 +856,7 @@ Hans in Luck
 'set': SET
 'off': OF
 'again,': TKPWEPB KW-BG
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'his': HEUS
 'cow': KO*U
 'towards': TORDZ
@@ -915,7 +915,7 @@ Hans in Luck
 'mouth.': PHO*UT TP-PL
 ''I': AE EU
 'can': K
-'find': TPEUPBD
+'find': TPAOEUPBD
 'a': AEU
 'cure': KAOUR
 'for': TPOR
@@ -1041,7 +1041,7 @@ Hans in Luck
 'soon': SAOPB
 'came': KAEUPL
 'by,': PWEU KW-BG
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'a': AEU
 'pig': PEUG
 'in': TPH
@@ -1176,7 +1176,7 @@ Hans in Luck
 'gentleman': SKWRA*PL
 'you': U
 'are': R
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'along': HRAOPBG
 'at': AT
 'his': HEUS
@@ -1285,7 +1285,7 @@ Hans in Luck
 'met': PHET
 'with': W
 'some': SOPL
-'misfortunes,': PHEUS/TPOR/TAOUPB/-S KW-BG
+'misfortunes,': PHEUZ/TP-RPB/-S KW-BG
 'to': TO
 'be': -B
 'sure;': SHUR STPH*FPLT
@@ -1405,7 +1405,7 @@ Hans in Luck
 'eats': AOETS
 'it': T
 'will': HR
-'find': TPEUPBD
+'find': TPAOEUPBD
 'plenty': PHREPBT
 'of': -F
 'fat': TPAT
@@ -1710,7 +1710,7 @@ Hans in Luck
 'of': -F
 'the': -T
 'bargain.': PWARG/AEUPB TP-PL
-'First': KPA/TPEURS
+'First': KPA/TPEUFRT
 'there': THR
 'will': HR
 'be': -B
@@ -1721,7 +1721,7 @@ Hans in Luck
 'the': -T
 'fat': TPAT
 'will': HR
-'find': TPEUPBD
+'find': TPAOEUPBD
 'me': PHE
 'in': TPH
 'goose-grease': TKPWAOS H-PB TKPWRAES
@@ -1862,7 +1862,7 @@ Hans in Luck
 'his': HEUS
 'pocket': POBGT
 'without': WOUT
-'finding': TPAOEPBGD
+'finding': TPAOEUPBGD
 'money': PHUPB
 'in': TPH
 'it--but': T H-PB H-PB PWUT
@@ -1949,7 +1949,7 @@ Hans in Luck
 'if': TP
 'you': U
 'could': KO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'money': PHUPB
 'in': TPH
 'your': KWROUR
@@ -1996,7 +1996,7 @@ Hans in Luck
 'will': HR
 'come': KOPL
 'of': -F
-'itself.': *EUTS TP-PL
+'itself.': T/SEFL TP-PL
 'Here': KPA/HAOER
 'is': S
 'one': WUPB
@@ -2139,7 +2139,7 @@ Hans in Luck
 'for': TPOR
 'comes': KOPLS
 'of': -F
-'itself.': *EUTS TP-PL
+'itself.': T/SEFL TP-PL
 'People': KPA/PAOEPL
 'are': R
 'so': SO

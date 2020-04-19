@@ -4,7 +4,7 @@
 * Doe `KPA/TKO*E`
 * had `H`
 * the `-T`
-* misfortune `PHEUS/TPOR/TAOUPB`
+* misfortune `PHEUZ/TP-RPB`
 * to `TO`
 * lose `HRUZ`
 * one `WUPB`
@@ -46,7 +46,7 @@
 * approached `A/PROEFPD`
 * land, `HRAPBD KW-BG`
 * often `OFPB`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * by `PWEU`
 * means. `PHAOEPBS TP-PL`
 * But `KPA/PWUT`

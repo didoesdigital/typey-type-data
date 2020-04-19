@@ -298,7 +298,7 @@
 * kitchen, `K-FP KW-BG`
 * till `TEUL`
 * place `PHRAEUS`
-* itself `*EUTS`
+* itself `T/SEFL`
 * sacred `SKRED`
 * would `WO`
 * Old `KPA/OLD`
@@ -530,7 +530,7 @@
 * piety `PAOEUT/TEU`
 * once `WUPBS`
 * listened `HREUFPBD`
-* grandeur `TKPWRAPBD/TKUR`
+* grandeur `TKPWRAPBD/AOUR`
 * now, `TPHOU KW-BG`
 * down `TKOUPB`
 * cheeks. `KHAOEBGS TP-PL`
@@ -630,7 +630,7 @@
 * watch `WAFP`
 * bed. `PWED TP-PL`
 * pious, `PAOEU/OUS KW-BG`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * blessing `PWHR*EFG`
 * poverty. `POFRT TP-PL`
 * "My `KR-GS KPA/PHEU`

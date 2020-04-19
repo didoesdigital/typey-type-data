@@ -248,7 +248,7 @@
 * whenever `WHEFR`
 * remember `RER`
 * them. `THEPL TP-PL`
-* FIRST `*URP/TPEURS`
+* FIRST `*URP/TPEUFRT`
 * VISIT `*URP/SREUFT`
 * Among `KPA/PHOPBG`
 * lately `HRAEULT`
@@ -758,7 +758,7 @@
 * grave. `TKPWRAEUF TP-PL`
 * pleased `PHRAOEFD`
 * star, `STAR KW-BG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * gift `TKPWEUFT`
 * intended. `SPWEPBD/-D TP-PL`
 * Lately `KPA/HRAEULT`
@@ -766,7 +766,7 @@
 * fell `TPEL`
 * southwest, `SWO*ES KW-BG`
 * tribute `TREUBT`
-* thanksgiving `HRO*ER/TRAPBGS/TKPWEUFG`
+* thanksgiving `HRO*ER/THAPBGS/TKPWEUFG`
 * many—many! `PHAEPB EPL/TKA*RB PHAEPB SKHRAPL`
 * 'For `AE KPA/TPOR`
 * intended?' `SPWEPBD/-D H-F AE`
@@ -856,7 +856,7 @@
 * complete `KPHRAOET`
 * sensual `SEPBS/WAL`
 * delight; `TKHRAOEUT STPH*FPLT`
-* misfortune `PHEUS/TPOR/TAOUPB`
+* misfortune `PHEUZ/TP-RPB`
 * bitterest `PWEURT/EFT`
 * woe `WOE`
 * also. `HR-S TP-PL`
@@ -897,7 +897,7 @@
 * downcast `TKOUPB/KAFT`
 * looks! `HRAOBGS SKHRAPL`
 * Take `KPA/TAEUBG`
-* courage, `KURPBLG KW-BG`
+* courage, `KORPBLG KW-BG`
 * march `PHAFRPB`
 * onward!' `AOPB/WA*RD SKHRAPL AE`
 * "Out `KR-GS KPA/OUT`
@@ -906,7 +906,7 @@
 * winged `WEUPBGD`
 * urchin, `UR/KHEUPB KW-BG`
 * cannot `K/TPHOT`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * child, `KHAOEULD KW-BG`
 * goblin `TKPWOB/HREUPB`
 * blood `PWHRAOD`
@@ -1078,7 +1078,7 @@
 * curtain `KUR/TAPB`
 * themselves `TH*EPLS`
 * coverlet. `KOFR/HR*ET TP-PL`
-* splendid!" `SPHREPBD/EUD SKHRAPL KR-GS`
+* splendid!" `SPHREPB/TKEUD SKHRAPL KR-GS`
 * strong `STROPBG`
 * besides, `PW-DZ KW-BG`
 * obliged `OE/PWHRAOEUPBLGD`
@@ -1264,7 +1264,7 @@
 * accompany `A/K-P`
 * terrific. `TREUFG TP-PL`
 * Nobody `KPA/TPHOEB`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * journey. `SKWRURPB TP-PL`
 * go—they `TKPW EPL/TKA*RB THE`
 * Wandering `KPA/WAPBGD`

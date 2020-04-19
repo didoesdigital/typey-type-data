@@ -78,7 +78,7 @@
 * very `SRE`
 * gay; `TKPWAEU STPH*FPLT`
 * day `TKAEU`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * from `TPR`
 * parts `PARTS`
 * globe `TKPWHROEB`
@@ -130,7 +130,7 @@
 * dressed `TKREFD`
 * should `SHO`
 * able `ABL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * which `WEU`
 * men `PHEPB`
 * my `PHEU`
@@ -416,7 +416,7 @@
 * "your `KR-GS KWROUR`
 * has `HAS`
 * our `OUR`
-* gracious `TKPWRAURBS`
+* gracious `TKPWRAEURBS`
 * approval;" `A/PROFL STPH*FPLT KR-GS`
 * nodding `TPHOD/-G`
 * contentedly `KAUPBT/-D/HREU`

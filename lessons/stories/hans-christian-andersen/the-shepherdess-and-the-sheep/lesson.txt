@@ -7,7 +7,7 @@ The Shepherdess and the Sheep
 'an': APB
 'old': OLD
 'wooden': WAOD/EPB
-'cupboard': WUP/PWORD
+'cupboard': KUP/PWAORD
 'quite': KWAOEUT
 'black': PWHRABG
 'with': W
@@ -24,7 +24,7 @@ The Shepherdess and the Sheep
 'just': SKWRUFT
 'such': SUFP
 'a': AEU
-'cupboard': WUP/PWORD
+'cupboard': KUP/PWAORD
 'stood': STAOD
 'in': TPH
 'a': AEU
@@ -77,7 +77,7 @@ The Shepherdess and the Sheep
 'middle': PH*EULD
 'of': -F
 'the': -T
-'cupboard': WUP/PWORD
+'cupboard': KUP/PWAORD
 'door': TKAOR
 'was': WAS
 'the': -T
@@ -450,7 +450,7 @@ The Shepherdess and the Sheep
 'has': HAS
 'the': -T
 'whole': WHOEL
-'cupboard': WUP/PWORD
+'cupboard': KUP/PWAORD
 'full': TPUL
 'of': -F
 'silver': SEUL/SRER
@@ -469,7 +469,7 @@ The Shepherdess and the Sheep
 'into': TPHAO
 'the': -T
 'dark': TKARBG
-'cupboard,"': WUP/PWORD KW-BG KR-GS
+'cupboard,"': KUP/PWAORD KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'little': HREUL
@@ -506,7 +506,7 @@ The Shepherdess and the Sheep
 'in': TPH
 'the': -T
 'old': OLD
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'you': U
 'shall': SHAL
 'be': -B
@@ -581,7 +581,7 @@ The Shepherdess and the Sheep
 'be': -B
 'able': ABL
 'to': TO
-'maintain': PHEUPB/TAEUPB
+'maintain': PHAEUPB/TAEUPB
 'you': U
 'with': W
 'my': PHEU
@@ -656,7 +656,7 @@ The Shepherdess and the Sheep
 'at': AT
 'the': -T
 'old': OLD
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'they': THE
 'saw': SAU
 'it': T
@@ -973,7 +973,7 @@ The Shepherdess and the Sheep
 '"Have': KR-GS KPA/SR
 'you': U
 'really': R-L
-'courage': KURPBLG
+'courage': KORPBLG
 'enough': TPHUF
 'to': TO
 'go': TKPW
@@ -1031,7 +1031,7 @@ The Shepherdess and the Sheep
 'chimney.': KHEUPL/TPHEU TP-PL
 'Have': KPA/SR
 'you': U
-'courage': KURPBLG
+'courage': KORPBLG
 'to': TO
 'creep': KRAOEP
 'with': W
@@ -1731,7 +1731,7 @@ The Shepherdess and the Sheep
 'be': -B
 'always': AULS
 'telling': TELG
-'strangers': STRAEUPB/SKWRERS
+'strangers': STRAEURPBGS
 'he': HE
 'had': H
 'a': AEU

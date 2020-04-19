@@ -27,7 +27,7 @@
 * midday `PHEUD/TKAEU`
 * midnight `PHAOEUPBT`
 * minute `PHEUPB`
-* minutes `PHEUBS`
+* minutes `PHEUPBS`
 * moment `PHOEPLT`
 * month `PHO*PBT`
 * months `PHO*PBTS`

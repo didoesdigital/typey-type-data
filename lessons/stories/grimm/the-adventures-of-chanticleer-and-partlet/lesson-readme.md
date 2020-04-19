@@ -202,7 +202,7 @@
 * stop!' `STOP SKHRAPL AE`
 * dark `TKARBG`
 * hardly `HA*RLD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * such `SUFP`
 * dirty `TKOEURT`
 * all: `AUL STPH-FPLT`

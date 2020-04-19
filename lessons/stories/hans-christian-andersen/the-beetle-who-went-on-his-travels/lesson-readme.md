@@ -688,7 +688,7 @@
 * say. `SAEU TP-PL`
 * "None `KR-GS KPA/TPHOPB`
 * yet," `KWRET KW-BG KR-GS`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * tittered `xxx tittered`
 * again, `TKPWEPB KW-BG`
 * confusion. `KAUFGS TP-PL`
@@ -842,7 +842,7 @@
 * delightful, `TKHRAOEUT/-FL KW-BG`
 * looked `HRAOBGD`
 * around `ARPBD`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * hothouse `HOT/TK-LS/HOUS`
 * was! `WAS SKHRAPL`
 * At `KPA/AT`
@@ -876,7 +876,7 @@
 * mine `PHAOEUPB`
 * living `HREUFG`
 * here; `HAOER STPH*FPLT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * whom `WHOPL`
 * associate. `SOERBT TP-PL`
 * I'm `AOEUPL`
@@ -898,7 +898,7 @@
 * playfellow `PHRAEU/TK-LS/TPO*EUL`
 * seeing `SAOEG`
 * fun `TPUPB`
-* First, `KPA/TPEURS KW-BG`
+* First, `KPA/TPEUFRT KW-BG`
 * wrapped, `WRAPD KW-BG`
 * vine-leaf, `SRAOEUPB H-PB HRAOEF KW-BG`
 * put `PUT`
@@ -955,7 +955,7 @@
 * called, `KAULD KW-BG`
 * angrily, `APBG/REU/HREU KW-BG`
 * hastened `HAEUS/-PBD`
-* obey, `O/PWAEU KW-BG`
+* obey, `OE/PWAEU KW-BG`
 * ran `RAPB`
 * fast `TPAFT`
 * pond, `POPBD KW-BG`
@@ -1115,7 +1115,7 @@
 * shone `SHO*EPB`
 * lively `HRAOEUFL`
 * bright. `PWRAOEUT TP-PL`
-* "Travelling `KR-GS KPA/TRAFLG/A*U`
+* "Travelling `KR-GS KPA/TRAFL/HREUPBG`
 * expands `EBGS/PAPBDZ`
 * mind `PHAOEUPBD`
 * much," `PHUFP KW-BG KR-GS`

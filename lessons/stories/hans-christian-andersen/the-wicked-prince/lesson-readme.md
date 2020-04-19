@@ -141,7 +141,7 @@
 * halls, `HAULS KW-BG`
 * who `WHO`
 * saw `SAU`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * buildings `PWHR-GS`
 * great `TKPWRAET`
 * treasures `TR-RBS`
@@ -240,7 +240,7 @@
 * yours; `KWROURS STPH*FPLT`
 * we `WE`
 * dare `TKAEUR`
-* obey `O/PWAEU`
+* obey `OE/PWAEU`
 * your `KWROUR`
 * orders." `ORDZ TP-PL KR-GS`
 * "Well," `KR-GS KPA/WEL KW-BG KR-GS`
@@ -341,7 +341,7 @@
 * came `KAEUPL`
 * white `WHAOEUT`
 * feathers `TP*ET/ERS`
-* angel's `APBG/EL AES`
+* angel's `APB/SKWREL AES`
 * sat, `SAT KW-BG`
 * burnt `PWURPBT`
 * it, `T KW-BG`
@@ -453,7 +453,7 @@
 * carried `KAERD`
 * orders, `ORDZ KW-BG`
 * gnat `TPHA*T`
-* itself `*EUTS`
+* itself `T/SEFL`
 * inside `TPH-DZ`
 * coverings, `KOFRG/-S KW-BG`
 * crept `KREPT`

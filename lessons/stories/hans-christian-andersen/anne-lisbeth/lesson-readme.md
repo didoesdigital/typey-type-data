@@ -51,7 +51,7 @@
 * count's `KOUPBT AES`
 * castle. `KAFL TP-PL`
 * sat `SAT`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * rooms, `RAOPLS KW-BG`
 * richly `REUFP/HREU`
 * decorated `TKEBG/RAEUT/-D`
@@ -78,7 +78,7 @@
 * as `AZ`
 * prince, `PREUPBS KW-BG`
 * an `APB`
-* angel; `APBG/EL STPH*FPLT`
+* angel; `APB/SKWREL STPH*FPLT`
 * how `HOU`
 * loved `HROFD`
 * this `TH`
@@ -498,7 +498,7 @@
 * baroness. `PWAR/ROPB/-PBS TP-PL`
 * beautiful, `PWAOUFL KW-BG`
 * dear `TKAER`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * possessed `POS/ES/-D`
 * kindest `KAOEUPBD/EFT`
 * heart; `HART STPH*FPLT`
@@ -545,7 +545,7 @@
 * loves `HRUFS`
 * days `TKAEUS`
 * fling `TPHREUPBG`
-* angel-arms `APBG/EL H-PB ARPLS`
+* angel-arms `APB/SKWREL H-PB ARPLS`
 * round `ROUPBD`
 * neck, `TPHEBG KW-BG`
 * lisp `HREUFP`
@@ -572,7 +572,7 @@
 * same `SAEUPL`
 * ever; `-FR STPH*FPLT`
 * servants `SER/SRAPBTS`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * consequence `KWEPBS`
 * there; `THR STPH*FPLT`
 * sure `SHUR`
@@ -606,7 +606,7 @@
 * thin `THEUPB`
 * grown; `TKPWROEPB STPH*FPLT`
 * eyes `AO*EUS`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * beautiful. `PWAOUFL TP-PL`
 * speak, `SPAOEBG KW-BG`
 * was. `WAS TP-PL`
@@ -774,13 +774,13 @@
 * all; `AUL STPH*FPLT`
 * heaven, `HEFPB KW-BG`
 * fast;" `TPAFT STPH*FPLT KR-GS`
-* child-angel `KHAOEULD H-PB APBG/EL`
+* child-angel `KHAOEULD H-PB APB/SKWREL`
 * stretched `STREFPD`
 * terrible `TERBL`
 * crash, `KRARB KW-BG`
 * crumbling `KRUPL/-BLG`
 * pieces, `PAOEFS KW-BG`
-* angel-child `APBG/EL H-PB KHAOEULD`
+* angel-child `APB/SKWREL H-PB KHAOEULD`
 * rising `RAOEUFG`
 * earth, `*ERT KW-BG`
 * holding `HOELGD`
@@ -1046,7 +1046,7 @@
 * lonely `HROPBL`
 * wanderer, `WAPBD/RER KW-BG`
 * attach `A/TAFP`
-* itself `*EUTS`
+* itself `T/SEFL`
 * demand `TKPHAPBD`
 * churchyard, `KH*URPBLG/KWRARD KW-BG`
 * rest `REFT`
@@ -1186,7 +1186,7 @@
 * awakens `A/WA*EUPB/-S`
 * least `HRAOEFT`
 * expect `KP-PT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * excuse `SKAOUS`
 * ourselves; `O*URSZ STPH*FPLT`
 * witness `W-PBS`

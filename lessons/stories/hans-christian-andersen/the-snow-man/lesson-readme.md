@@ -76,7 +76,7 @@
 * been `PW-PB`
 * brought `PWRAUT`
 * existence `KPEUFS`
-* amidst `A/PH*EUS`
+* amidst `A/PH*EUFD`
 * joyous `SKWROEU/KWROUS`
 * shouts `SHOUTS`
 * boys, `PWOEUS KW-BG`
@@ -198,7 +198,7 @@
 * teach `TAOEFP`
 * run? `RUPB H-F`
 * running `R*UPBG`
-* itself `*EUTS`
+* itself `T/SEFL`
 * a `AEU`
 * little `HREUL`
 * while `WHAOEUL`
@@ -288,7 +288,7 @@
 * bones; `PWOEPBS STPH*FPLT`
 * when `WHEPB`
 * sight `SAOEUT`
-* splendid. `SPHREPBD/EUD TP-PL`
+* splendid. `SPHREPB/TKEUD TP-PL`
 * Trees `KPA/TRAOES`
 * bushes `PWURBS`
 * were `WR`
@@ -349,7 +349,7 @@
 * whiter `WHAOEURT`
 * than `THAPB`
 * snow `STPHOE`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * "This `KR-GS KPA/TH`
 * beautiful," `PWAOUFL KW-BG KR-GS`
 * young `KWRUPBG`
@@ -721,7 +721,7 @@
 * sick?" `SEUBG H-F KR-GS`
 * "That `KR-GS KPA/THA`
 * terrible `TERBL`
-* disease `TK-Z`
+* disease `STKAOE`
 * Man," `KPA/PHAPB KW-BG KR-GS`
 * suffered `SUFRD`
 * myself, `PHAO*EUS KW-BG`

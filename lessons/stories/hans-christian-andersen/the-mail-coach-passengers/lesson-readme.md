@@ -115,7 +115,7 @@
 * And `AFPBD`
 * who `WHO`
 * these `THEZ`
-* strangers? `STRAEUPB/SKWRERS H-F`
+* strangers? `STRAEURPBGS H-F`
 * Each `KPA/AOEFP`
 * them `THEPL`
 * his `HEUS`
@@ -600,7 +600,7 @@
 * land-owner `HRAPBD H-PB OERPB`
 * followed, `TPOLD KW-BG`
 * month `PHO*PBT`
-* sowing `SWO/-G`
+* sowing `SOE/-G`
 * seed `SAOED`
 * attended `A/TEPBD/-D`
 * ploughing `PHROUG/A*U`
@@ -711,7 +711,7 @@
 * figures `TPEUGS`
 * lively, `HRAOEUFL KW-BG`
 * waxen `WABGS/*EPB`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * top `TOP`
 * spread `SPRED`
 * wings `WEUPBGS`
@@ -738,7 +738,7 @@
 * Let `KPA/HRET`
 * horses `HORSZ`
 * up." `UP TP-PL KR-GS`
-* "First, `KR-GS KPA/TPEURS KW-BG`
+* "First, `KR-GS KPA/TPEUFRT KW-BG`
 * let `HRET`
 * come `KOPL`
 * me," `PHE KW-BG KR-GS`

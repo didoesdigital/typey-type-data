@@ -455,7 +455,7 @@
 * gone `TKPWOPB`
 * country `KREU`
 * mother's `PHOER/AES`
-* uncle; `*UPBG STPH*FPLT`
+* uncle; `UPB/K-L STPH*FPLT`
 * going `TKPW-G`
 * stay `STAEU`
 * time.' `TAOEUPL TP-PL AE`
@@ -634,7 +634,7 @@
 * girls `TKPWEURLS`
 * boys, `PWOEUS KW-BG`
 * street `STRAOET`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * its `EUTS`
 * feathers, `TP*ET/ERS KW-BG`
 * neck `TPHEBG`

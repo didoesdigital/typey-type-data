@@ -17,7 +17,7 @@ The Girl Who Trod on the Loaf
 'shoes,': SHAOUS KW-BG
 'and': SKP
 'the': -T
-'misfortunes': PHEUS/TPOR/TAOUPB/-S
+'misfortunes': PHEUZ/TP-RPB/-S
 'that': THA
 'happened': HAPD
 'to': TO
@@ -308,7 +308,7 @@ The Girl Who Trod on the Loaf
 'laboring': HRAEUB/-G
 'men': PHEPB
 'and': SKP
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'standing': STAPBG
 'together': TOGT
 'chatting,': KHAGT KW-BG
@@ -600,7 +600,7 @@ The Girl Who Trod on the Loaf
 'to': TO
 'the': -T
 'elf': *EFL
-'maidens,': PHAEUD/EPB/-S KW-BG
+'maidens,': PHAEUD/*EPB/-S KW-BG
 'who': WHO
 'are': R
 'well-known,': WEL H-PB TPHOEPB KW-BG
@@ -868,7 +868,7 @@ The Girl Who Trod on the Loaf
 'had': H
 'also': HR-S
 'fastened': TPAS/-PBD
-'itself': *EUTS
+'itself': T/SEFL
 'in': TPH
 'her': HER
 'hair,': HAEUR KW-BG
@@ -1061,7 +1061,7 @@ The Girl Who Trod on the Loaf
 'child': KHAOEULD
 'will': HR
 'always': AULS
-'find': TPEUPBD
+'find': TPAOEUPBD
 'their': THAEUR
 'way': WAEU
 'to': TO
@@ -1487,7 +1487,7 @@ The Girl Who Trod on the Loaf
 'her': HER
 'torment': TORPLT
 'to': TO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'she': SHE
 'could': KO
 'not': TPHOT
@@ -1662,7 +1662,7 @@ The Girl Who Trod on the Loaf
 'of': -F
 'existence': KPEUFS
 'the': -T
-'events': AOEPBTS
+'events': AOEFPBTS
 'of': -F
 'a': AEU
 'whole': WHOEL
@@ -1793,7 +1793,7 @@ The Girl Who Trod on the Loaf
 'it': T
 'through': THRU
 'an': APB
-'angel's': APBG/EL AES
+'angel's': APB/SKWREL AES
 'tears.': TAERS TP-PL
 'As': KPA/AZ
 'in': TPH
@@ -1949,7 +1949,7 @@ The Girl Who Trod on the Loaf
 'sought': SAUT
 'to': TO
 'conceal': KAUPB/SAOEL
-'itself': *EUTS
+'itself': T/SEFL
 'in': TPH
 'a': AEU
 'dark': TKARBG
@@ -2249,7 +2249,7 @@ The Girl Who Trod on the Loaf
 'into': TPHAO
 'the': -T
 'public': PHREUBG
-'roads,': ROEDZ KW-BG
+'roads,': RAODZ KW-BG
 'and': SKP
 'found': TPOUPBD
 'here': HAOER

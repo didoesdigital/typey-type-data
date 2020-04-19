@@ -220,7 +220,7 @@
 * fate, `TPAEUT KW-BG`
 * chance `KHAPBS`
 * someone `SPH-PB`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * saving `SAFG`
 * her. `HER TP-PL`
 * poor `PAOR`
@@ -399,7 +399,7 @@
 * home; `HOEPL STPH*FPLT`
 * warned `WARPBD`
 * 'The `AE KPA/-T`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * you `U`
 * are, `R KW-BG`
 * let `HRET`

@@ -73,7 +73,7 @@
 * fish, `TPEURB KW-BG`
 * that `THA`
 * thrown `THROEPB`
-* itself `*EUTS`
+* itself `T/SEFL`
 * water, `WAUR KW-BG`
 * lay `HRAEU`
 * gasping `TKPWAS/-PG`

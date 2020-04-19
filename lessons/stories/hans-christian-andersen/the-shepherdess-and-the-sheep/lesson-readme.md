@@ -7,7 +7,7 @@
 * an `APB`
 * old `OLD`
 * wooden `WAOD/EPB`
-* cupboard `WUP/PWORD`
+* cupboard `KUP/PWAORD`
 * quite `KWAOEUT`
 * black `PWHRABG`
 * with `W`
@@ -261,7 +261,7 @@
 * go `TKPW`
 * into `TPHAO`
 * dark `TKARBG`
-* cupboard," `WUP/PWORD KW-BG KR-GS`
+* cupboard," `KUP/PWAORD KW-BG KR-GS`
 * shepherdess. `SHEP/ERD/*ES TP-PL`
 * heard `HAERD`
 * eleven `HREFPB`
@@ -275,7 +275,7 @@
 * soon `SAOPB`
 * hear `HAER`
 * rattling `RAT/-LG`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * married, `PHAERD KW-BG`
 * true `TRAOU`
 * am `APL`
@@ -306,7 +306,7 @@
 * immediately: `PHAOELD STPH-FPLT`
 * think `THEU`
 * able `ABL`
-* maintain `PHEUPB/TAEUPB`
+* maintain `PHAEUPB/TAEUPB`
 * my `PHEU`
 * profession." `PREFGS TP-PL KR-GS`
 * "If `KR-GS KPA/TP`
@@ -451,7 +451,7 @@
 * No, `KPA/TPHO KW-BG`
 * nothing `TPHOG`
 * "Have `KR-GS KPA/SR`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * enough `TPHUF`
 * world `WORLD`
 * me?" `PHE H-F KR-GS`
@@ -677,7 +677,7 @@
 * besides, `PW-DZ KW-BG`
 * tiresome `TAOEUR/SO*PL`
 * telling `TELG`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * neck. `TPHEBG TP-PL`
 * people `PAOEPL`
 * glad `TKPWHRAD`

@@ -180,7 +180,7 @@
 * He `KPA/HE`
 * put `PUT`
 * bran `PWRAPB`
-* sow-thistle `SWO H-PB THEUFL`
+* sow-thistle `SOE H-PB THEUFL`
 * stretching `STREFPG`
 * out `OUT`
 * length, `HREPBG KW-BG`
@@ -351,7 +351,7 @@
 * noise `TPHOEUS`
 * head `HED`
 * coach-window, `KOEFP H-PB WOEUPBD KW-BG`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * such `SUFP`
 * game, `TKPWAEUPL KW-BG`
 * guards `TKPWARDZ`
@@ -507,7 +507,7 @@
 * saying, `SAEUG KW-BG`
 * pass `PAS`
 * near `TPHAOER`
-* honour `HO*URPB/A*U`
+* honour `H*/O*/TPH*/O*/*U/R*`
 * paying `PAEUG`
 * respects `R-PTS`
 * him. `HEUPL TP-PL`

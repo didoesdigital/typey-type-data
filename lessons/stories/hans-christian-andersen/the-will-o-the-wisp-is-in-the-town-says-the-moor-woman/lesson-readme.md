@@ -158,7 +158,7 @@
 * charming, `KHARPL/-G KW-BG`
 * like `HRAOEUBG`
 * spring `SPREUPBG`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * as `AZ`
 * beautiful `PWAOUFL`
 * maiden, `PHAEUD/*EPB KW-BG`
@@ -270,7 +270,7 @@
 * knows? `TPHOEZ H-F`
 * Perhaps `KPA/PRAPS`
 * has `HAS`
-* itself `*EUTS`
+* itself `T/SEFL`
 * straw `STRAU`
 * balances `PWALS`
 * on `OPB`
@@ -525,7 +525,7 @@
 * ever, `-FR KW-BG`
 * do `TKO`
 * Story, `KPA/STOER KW-BG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * that. `THA TP-PL`
 * Where `KPA/W-R`
 * be? `-B H-F`
@@ -778,7 +778,7 @@
 * sandy `SAPB/TKEU`
 * way; `WAEU STPH*FPLT`
 * does `TKOS`
-* find. `TPEUPBD TP-PL`
+* find. `TPAOEUPBD TP-PL`
 * What `KPA/WHA`
 * Don't `TKO*PB AE T*`
 * ridiculous `REULGS`
@@ -941,7 +941,7 @@
 * prattle, `PRAT/*L KW-BG`
 * cheaper. `KHAOERP TP-PL`
 * nothing. `TPHOG TP-PL`
-* cupboard-full `WUP/PWORD H-PB TPUL`
+* cupboard-full `KUP/PWAORD H-PB TPUL`
 * bottles. `PWO*LTS TP-PL`
 * makes `PHAEUBGS`
 * essences; `ES/EPBS/-S STPH*FPLT`
@@ -993,7 +993,7 @@
 * druggist's `TKRUG/EUFT AES`
 * shop—a `SHOP EPL/TKA*RB AEU`
 * Grandmother `KPA/TKPWR-PL`
-* cupboard `WUP/PWORD`
+* cupboard `KUP/PWAORD`
 * placed, `PHRAEUFD KW-BG`
 * still. `STEUL TP-PL`
 * Just `KPA/SKWRUFT`
@@ -1007,7 +1007,7 @@
 * block `PWHROBG`
 * alder, `AULD/*ER KW-BG`
 * grandmother's `TKPWR-PL AES`
-* cupboard. `WUP/PWORD TP-PL`
+* cupboard. `KUP/PWAORD TP-PL`
 * land, `HRAPBD KW-BG`
 * stood. `STAOD TP-PL`
 * either `AOERT`
@@ -1049,7 +1049,7 @@
 * hear," `HAER KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * "But `KR-GS KPA/PWUT`
-* cupboard!" `WUP/PWORD SKHRAPL KR-GS`
+* cupboard!" `KUP/PWAORD SKHRAPL KR-GS`
 * in. `TPH TP-PL`
 * "Here `KR-GS KPA/HAOER`
 * sizes. `SAOEUSZ TP-PL`
@@ -1090,7 +1090,7 @@
 * kind `KEUPBD`
 * seat `SAOET`
 * yourself `KWRO*URS`
-* cupboard," `WUP/PWORD KW-BG KR-GS`
+* cupboard," `KUP/PWAORD KW-BG KR-GS`
 * retorted, `RE/TORT/-D KW-BG`
 * fall `TPAUL`
 * through `THRU`
@@ -1141,7 +1141,7 @@
 * species, `SPAOES KW-BG`
 * worth `WO*RT`
 * mentioning. `PHEPBGS/-G TP-PL`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * new-born `TPHU H-PB PWORPB`
 * Will-o'-the-Wisps `W*EUL H-PB O* AE H-PB -T H-PB KPA/WEUS/-PS`
 * lap. `HRAP TP-PL`
@@ -1157,7 +1157,7 @@
 * elapsed, `AOE/HRAPS/-D KW-BG`
 * large `HRARPBLG`
 * father `TPAER`
-* uncle. `*UPBG TP-PL`
+* uncle. `UPB/K-L TP-PL`
 * Now, `KPA/TPHOU KW-BG`
 * old-established `OLD H-PB STAEBD`
 * regulation `RAEUGS`
@@ -1317,7 +1317,7 @@
 * given, `TKPWEUFPB KW-BG`
 * long; `HROPBG STPH*FPLT`
 * shorter. `SHORT/*ER TP-PL`
-* elf-maidens `*EFL H-PB PHAEUD/EPB/-S`
+* elf-maidens `*EFL H-PB PHAEUD/*EPB/-S`
 * whirled `WHEURL/-D`
 * times `TAOEUPLS`
 * rest, `REFT KW-BG`
@@ -1382,7 +1382,7 @@
 * Will-o'-the-Wisps. `W*EUL H-PB O* AE H-PB -T H-PB KPA/WEUS/-PS TP-PL`
 * Alpas, `xxx Alpas KW-BG`
 * spirits `SPEURTS`
-* occupy `OBG/PEU`
+* occupy `OBG/PAOEU`
 * Alp-pressing, `AL/*P H-PB PREFG KW-BG`
 * feast; `TPAOEFT STPH*FPLT`
 * art `ART`

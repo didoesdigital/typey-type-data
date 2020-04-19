@@ -177,7 +177,7 @@
 * strength `STREPBG`
 * body, `PWO*ED KW-BG`
 * over `OEFR`
-* misfortune `PHEUS/TPOR/TAOUPB`
+* misfortune `PHEUZ/TP-RPB`
 * lay `HRAEU`
 * her. `HER TP-PL`
 * Those `KPA/THOZ`
@@ -222,7 +222,7 @@
 * have!' `SR SKHRAPL AE`
 * beside `PWE/SAOEUD`
 * loudly `HROUD/HREU`
-* misfortune. `PHEUS/TPOR/TAOUPB TP-PL`
+* misfortune. `PHEUZ/TP-RPB TP-PL`
 * After `KPA/AF`
 * while, `WHAOEUL KW-BG`
 * back, `PWABG KW-BG`

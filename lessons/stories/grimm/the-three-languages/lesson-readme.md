@@ -342,7 +342,7 @@
 * among `PHOPBG`
 * cardinals `KARD/TPHAL/-S`
 * appoint `POEUPB`
-* successor. `SUBG/SES/O*R TP-PL`
+* successor. `SUBG/SES/SOR TP-PL`
 * length `HREPBG`
 * agreed `TKPWRAED`
 * person `PERPB`
@@ -350,7 +350,7 @@
 * pope `POEP`
 * distinguished `STKPWAOURBD`
 * divine `TKWAOEUPB`
-* miraculous `PHAR/ABG/HROUS`
+* miraculous `PHRABG/HROUS`
 * And `AFPBD`
 * decided `STKAOEUD/-D`
 * young `KWRUPBG`

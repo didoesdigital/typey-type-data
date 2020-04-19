@@ -44,7 +44,7 @@
 * one `WUPB`
 * day `TKAEU`
 * happened `HAPD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * himself `H*EUPLS`
 * same `SAEUPL`
 * washing-tub `WARBG H-PB TUB`
@@ -122,7 +122,7 @@
 * are," `R KW-BG KR-GS`
 * "is `KR-GS S`
 * enough?" `TPHUF H-F KR-GS`
-* "Get `KR-GS KPA/TKPW-T`
+* "Get `KR-GS KPA/TKPWET`
 * away; `A/WAEU STPH*FPLT`
 * don't `TKOEPBT`
 * come `KOPL`
@@ -190,7 +190,7 @@
 * you." `U TP-PL KR-GS`
 * rag," `RAG KW-BG KR-GS`
 * flat-iron, `TPHRAT H-PB AOEURPB KW-BG`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * proudly `PROUD/HREU`
 * collar, `KHRAR KW-BG`
 * she `SHE`

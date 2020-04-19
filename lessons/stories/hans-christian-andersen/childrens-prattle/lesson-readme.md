@@ -315,7 +315,7 @@
 * grown-up `TKPWR*UP`
 * persons. `PERPBS TP-PL`
 * There `KPA/THR`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * town, `TOUPB KW-BG`
 * filled `TPEULD`
 * all `AUL`

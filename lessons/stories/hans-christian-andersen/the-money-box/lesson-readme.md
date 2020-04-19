@@ -75,7 +75,7 @@
 * There `KPA/THR`
 * he `HE`
 * upon `POPB`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * lofty, `HROF/TEU KW-BG`
 * looking `HRAOG`
 * down `TKOUPB`

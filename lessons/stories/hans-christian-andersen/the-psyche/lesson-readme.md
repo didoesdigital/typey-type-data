@@ -169,7 +169,7 @@
 * all `AUL`
 * that, `THA KW-BG`
 * everything `EFRG`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * known. `TPHOEPB TP-PL`
 * "In `KR-GS KPA/TPH`
 * narrow `TPHO*EUR`
@@ -229,7 +229,7 @@
 * 'and `AE SKP`
 * that's `THATS`
 * your `KWROUR`
-* misfortune. `PHEUS/TPOR/TAOUPB TP-PL`
+* misfortune. `PHEUZ/TP-RPB TP-PL`
 * But `KPA/PWUT`
 * reason `R-PB`
 * this `TH`
@@ -577,11 +577,11 @@
 * Morning `KPA/PHORPBG`
 * how `HOU`
 * progressed. `PROGD TP-PL`
-* itself `*EUTS`
+* itself `T/SEFL`
 * inspired `EUPB/SPAOEURD`
 * since `SEUPBS`
 * moulded `PHOELD/-D/A*U`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * heightened `HAOEUT/*EPBD`
 * likeness `HRAOEUBG/-PBS`
 * well-known `WEL/H-PB/TPHOEPB`
@@ -622,7 +622,7 @@
 * points `POEUPBTS`
 * lines `HRAOEUPBS`
 * made, `PHAED KW-BG`
-* mechanical `PHEPL/K-L`
+* mechanical `PHEBG/K-L`
 * executed, `SKAOUTD KW-BG`
 * till `TEUL`
 * gradually `TKPWRAD/WAEL`
@@ -733,7 +733,7 @@
 * ceilings `KRAOELGS`
 * shone `SHO*EPB`
 * colors `KHRORS`
-* heraldic `H*ERLD/EUBG`
+* heraldic `HERLD/EUBG`
 * devices. `TKWAOEUSZ TP-PL`
 * Gayly-dressed `KPA/TKPWAEU/HREU H-PB TKREFD`
 * serving-men, `SEFRBG H-PB PHEPB KW-BG`
@@ -1154,7 +1154,7 @@
 * These, `KPA/THEZ KW-BG`
 * echoed `EBG/OE/-D`
 * heart, `HART KW-BG`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * buried `PWUR/EUD`
 * head `HED`
 * pillows, `PEUL/OES KW-BG`
@@ -1288,7 +1288,7 @@
 * God—in `TKPWO*D EPL/TKA*RB TPH`
 * monk's `PHO*PBG AES`
 * cell `KREL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * tree `TRAOE`
 * eternity. `AOE/TERPBT TP-PL`
 * strengthened `STR*EPBG/-PBD`
@@ -1415,7 +1415,7 @@
 * do? `TKO H-F`
 * Suppose `KPA/SPOS`
 * delusion!" `TKHRAOUGS SKHRAPL KR-GS`
-* "Get `KR-GS KPA/TKPW-T`
+* "Get `KR-GS KPA/TKPWET`
 * thee `THAOE`
 * Satan!" `SAEUT/APB SKHRAPL KR-GS`
 * monk; `PHO*PBG STPH*FPLT`
@@ -1528,7 +1528,7 @@
 * Lord!" `HRO*RD SKHRAPL KR-GS`
 * despair, `TKE/SPAEUR KW-BG`
 * "be `KR-GS -B`
-* merciful `TPERS/-FL`
+* merciful `PHERS/-FL`
 * grant `TKPWRAPBT`
 * faith. `TPA*EUT TP-PL`
 * gift `TKPWEUFT`

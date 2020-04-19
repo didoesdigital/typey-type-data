@@ -318,7 +318,7 @@
 * We `KPA/WE`
 * shall `SHAL`
 * soon `SAOPB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * out, `OUT KW-BG`
 * however `HOUF`
 * we `WE`
@@ -1121,7 +1121,7 @@
 * catch `KAFP`
 * him; `HEUPL STPH*FPLT`
 * luckily `HRULG`
-* escaped. `SKAEP/-D TP-PL`
+* escaped. `SKAEPD TP-PL`
 * open; `OEP STPH*FPLT`
 * manage `PHAPBG`
 * bushes, `PWURBS KW-BG`

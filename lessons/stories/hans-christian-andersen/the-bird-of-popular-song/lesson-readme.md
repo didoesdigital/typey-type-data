@@ -42,7 +42,7 @@
 * lofty `HROF/TEU`
 * Alps. `AL/-PS TP-PL`
 * night `TPHAOEUT`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * in `TPH`
 * gleam `TKPWHRAOEPL`
 * Northern `TPHORPB`
@@ -183,7 +183,7 @@
 * harp, `HARP KW-BG`
 * sang `SAPBG`
 * youthful `KWRAO*UT/-FL`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * strength `STREPBG`
 * man, `PHAPB KW-BG`
 * greatness `TKPWRAET/-PBS`
@@ -194,7 +194,7 @@
 * cloud `KHROUD`
 * moonlight. `PHAOLGT TP-PL`
 * Gladly `KPA/TKPWHRAD/HREU`
-* courage, `KURPBLG KW-BG`
+* courage, `KORPBLG KW-BG`
 * form `TPORPL`
 * arose `A/ROES`
 * splendor `SHREPBD/O*R`
@@ -320,7 +320,7 @@
 * importance, `PORPBS KW-BG`
 * where `W-R`
 * did `TK`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * shelter `SHELT`
 * protection? `PREBGS H-F`
 * Neither `KPA/TPHAOERT`
@@ -452,7 +452,7 @@
 * best `PWEFT`
 * may, `PHAE KW-BG`
 * beak. `PWAOEBG TP-PL`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * comes `KOPLS`
 * band `PWAPBD`
 * sparrows: `SPAEUR/ROE/-S STPH-FPLT`

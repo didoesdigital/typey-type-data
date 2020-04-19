@@ -106,7 +106,7 @@
 * alone. `A/HROEPB TP-PL`
 * They `KPA/THE`
 * not `TPHOT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * way `WAEU`
 * home `HOEPL`
 * again, `TKPWEPB KW-BG`
@@ -245,7 +245,7 @@
 * came `KAEUPL`
 * awoke `A/WOEBG`
 * saying: `SAEUG STPH-FPLT`
-* 'Get `AE KPA/TKPW-T`
+* 'Get `AE KPA/TKPWET`
 * sluggards! `xxx sluggards SKHRAPL`
 * going `TKPW-G`
 * fetch `TPEFP`

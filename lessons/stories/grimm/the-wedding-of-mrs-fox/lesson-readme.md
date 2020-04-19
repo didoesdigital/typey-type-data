@@ -1,6 +1,6 @@
 # The Wedding of Mrs Fox
 
-* FIRST `*URP/TPEURS`
+* FIRST `*URP/TPEUFRT`
 * STORY `*URP/STOER`
 * There `KPA/THR`
 * was `WAS`

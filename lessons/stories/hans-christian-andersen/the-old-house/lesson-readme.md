@@ -427,7 +427,7 @@
 * creaking. `KRAOEBG/-G TP-PL`
 * certainly `SERPBL`
 * gout `TKPWOUT`
-* cupboard. `WUP/PWORD TP-PL`
+* cupboard. `KUP/PWAORD TP-PL`
 * Gout `KPA/TKPWOUT`
 * my `PHEU`
 * back, `PWABG KW-BG`
@@ -818,7 +818,7 @@
 * searched, `SEFRPBD KW-BG`
 * gone, `TKPWOPB KW-BG`
 * found. `TPOUPBD TP-PL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * again," `TKPWEPB KW-BG KR-GS`
 * boards `PWORDZ`
 * floor `TPHRAOR`
@@ -886,7 +886,7 @@
 * picture. `P*EUFP TP-PL`
 * spring; `SPREUPBG STPH*FPLT`
 * pull `PUL`
-* itself `*EUTS`
+* itself `T/SEFL`
 * down; `TKOUPB STPH*FPLT`
 * called `KAULD`
 * complete `KPHRAOET`

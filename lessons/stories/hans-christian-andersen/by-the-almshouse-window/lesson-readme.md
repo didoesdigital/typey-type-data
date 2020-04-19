@@ -68,7 +68,7 @@
 * life `HRAOEUF`
 * drama `TKRA/PHA`
 * unfolding `UPB/TPOELGD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * before `PW-FP`
 * her `HER`
 * inward `EUPB/WARD`

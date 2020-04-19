@@ -506,7 +506,7 @@
 * bolder `PWOERLD`
 * rest, `REFT KW-BG`
 * on. `OPB TP-PL`
-* Finding `KPA/TPAOEPBGD`
+* Finding `KPA/TPAOEUPBGD`
 * still, `STEUL KW-BG`
 * kitchen, `K-FP KW-BG`
 * groped `TKPWROEPD`

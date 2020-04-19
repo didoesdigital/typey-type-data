@@ -135,7 +135,7 @@
 * extinguished, `EBGS/TEUPBG/WEURBD KW-BG`
 * should `SHO`
 * never `TPHEFR`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * rest. `REFT/TP-PL`
 * That `KPA/THA`
 * terrible `TERBL`
@@ -440,7 +440,7 @@
 * "are `KR-GS R`
 * living `HREUFG`
 * those `THOZ`
-* abandoned `PWAPB/TKOPB/-D`
+* abandoned `A/PWAPB/TKOPBD`
 * fire." `TPAOEUR TP-PL KR-GS`
 * magnificently `PHAFG/SEPBT/HREU`
 * illuminated `EUL/AOUPL/TPHAEUT/-D`
@@ -710,7 +710,7 @@
 * envy, `EPB/SREU KW-BG`
 * them. `THEPL TP-PL`
 * An `KPA/APB`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * justice `SKWRUFS`
 * crimes `KRAOEUPLS`
 * defence; `TKEFPB/A*U STPH*FPLT`

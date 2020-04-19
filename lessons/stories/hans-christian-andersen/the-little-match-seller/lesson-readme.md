@@ -73,7 +73,7 @@
 * rate. `RAEUT TP-PL`
 * One `KPA/WUPB`
 * could `KO`
-* find, `TPEUPBD KW-BG`
+* find, `TPAOEUPBD KW-BG`
 * boy `PWOEU`
 * seized `SAOEZ/-D`
 * upon `POPB`
@@ -283,7 +283,7 @@
 * white `WHAOEUT`
 * table-cloth, `TAEUBL H-PB KHRO*T KW-BG`
 * stood `STAOD`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * dinner `TKEURPB`
 * service, `S-FS KW-BG`
 * steaming `STAOEPLG`

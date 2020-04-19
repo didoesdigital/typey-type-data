@@ -427,7 +427,7 @@
 * friend! `TPREPBD SKHRAPL`
 * were `WR`
 * standing `STAPBG`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * off, `OF KW-BG`
 * half-done, `HAF H-PB TKOPB KW-BG`
 * then--' `THEPB H-PB H-PB AE`

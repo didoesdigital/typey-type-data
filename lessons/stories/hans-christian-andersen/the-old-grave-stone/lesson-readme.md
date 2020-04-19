@@ -135,7 +135,7 @@
 * hour-glass `HOUR H-PB TKPWHRAS`
 * part `PART`
 * figure `TPEUG`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * still `STEUL`
 * be `-B`
 * traced, `TRAEUFD KW-BG`

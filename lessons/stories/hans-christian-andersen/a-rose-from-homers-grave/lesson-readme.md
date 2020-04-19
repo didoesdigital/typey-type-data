@@ -168,7 +168,7 @@
 * sunshiny `SUPB/TK-LS/SHOEUPB`
 * day; `TKAEU STPH*FPLT`
 * crowd `KROUD`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * drew `TKRAOU`
 * near `TPHAOER`
 * had `H`
@@ -223,7 +223,7 @@
 * Asia. `A*ERB TP-PL`
 * footsteps `TPAOT/STEPS`
 * approached, `A/PROEFPD KW-BG`
-* strangers, `STRAEUPB/SKWRERS KW-BG`
+* strangers, `STRAEURPBGS KW-BG`
 * such `SUFP`
 * seen `SAOEPB`
 * poet `POET`

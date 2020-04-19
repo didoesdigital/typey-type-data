@@ -856,7 +856,7 @@
 * highways, `HAOEU/WAEUS KW-BG`
 * carriages `KAEURPBLG/-S`
 * hurrying `HUR/REU/-G`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * shelter. `SHELT TP-PL`
 * flash `TPHRARB`
 * light, `HRAOEUT KW-BG`
@@ -946,7 +946,7 @@
 * tower, `TOUR KW-BG`
 * bramble `PWRAPL/-BL`
 * twined `TWEUPB/-D`
-* itself `*EUTS`
+* itself `T/SEFL`
 * altar, `AL/TAR KW-BG`
 * washed `WARBD`
 * rain, `RAEUPB KW-BG`
@@ -1143,7 +1143,7 @@
 * fresh, `TPRERB KW-BG`
 * fir-wood, `TPEUR H-PB WAOD KW-BG`
 * around, `ARPBD KW-BG`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * Christmas, `KREUS/PHAS KW-BG`
 * consecrated `KOPBS/KRAEUT/-D`
 * adorn `A/TKORPB`

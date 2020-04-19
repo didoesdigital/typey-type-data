@@ -446,7 +446,7 @@
 * read `RAED`
 * otherwise; `O*ERZ STPH*FPLT`
 * probable; `PROB STPH*FPLT`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * thoughts `THAUTS`
 * olden `OLD/*EPB`
 * times. `TAOEUPLS TP-PL`
@@ -583,7 +583,7 @@
 * where `W-R`
 * to! `TO SKHRAPL`
 * Perhaps `KPA/PRAPS`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * day, `TKAEU KW-BG`
 * don't `TKOEPBT`
 * now. `TPHOU TP-PL`

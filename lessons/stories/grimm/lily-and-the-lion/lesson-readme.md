@@ -48,7 +48,7 @@
 * easy `EZ`
 * task `TAFBG`
 * to `TO`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * rose, `ROEZ KW-BG`
 * middle `PH*EULD`
 * of `-F`
@@ -643,7 +643,7 @@
 * lay `HRAEU`
 * dress `TKRES`
 * dazzling `TKAZ/-LG`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * put `PUT`
 * palace, `PAL/AS KW-BG`
 * gazed `TKPWAEZ/-D`

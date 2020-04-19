@@ -131,7 +131,7 @@
 * Flower `KPA/TPHRO*UR`
 * stirred `STEURD`
 * stretched `STREFPD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * thin `THEUPB`
 * rind `RAOEUPBD`
 * which `WEU`

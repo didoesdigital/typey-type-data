@@ -61,7 +61,7 @@
 * wending `xxx wending`
 * our `OUR`
 * way, `WAEU KW-BG`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * slowly `SHROEL`
 * along `HRAOPBG`
 * through `THRU`
@@ -281,7 +281,7 @@
 * another `TPHOER`
 * than `THAPB`
 * even `AOEPB`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * would `WO`
 * be? `-B H-F`
 * widow's `WO*EUD AES`
@@ -710,7 +710,7 @@
 * Highest. `KPA/HAOEU/EFT TP-PL`
 * hall; `HAUL STPH*FPLT`
 * altar `AL/TAR`
-* council `KAUPB/SEUL`
+* council `KOUPB/SEUL`
 * table. `TAEUBL TP-PL`
 * lights `HRAOEUTS`
 * burn `PWURPB`
@@ -811,7 +811,7 @@
 * fragments. `TPRAPLTS TP-PL`
 * "Hold, `KR-GS KPA/HOLD KW-BG`
 * brother! `PWROER SKHRAPL`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * made. `PHAED TP-PL`
 * slain `SHRAEUPB`
 * priests. `PRAOEFT/-S TP-PL`

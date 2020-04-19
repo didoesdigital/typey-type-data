@@ -302,7 +302,7 @@ The Raven
 'awake': A/WAEUBG
 'and': SKP
 'I': EU
-'find': TPEUPBD
+'find': TPAOEUPBD
 'you': U
 'sleeping,': SHRAOEPG KW-BG
 'I': EU
@@ -533,7 +533,7 @@ The Raven
 'the': -T
 'raven': RAFPB
 'came': KAEUPL
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'along,': HRAOPBG KW-BG
 'drawn': TKRAUPB
 'by': PWEU
@@ -1186,7 +1186,7 @@ The Raven
 'still': STEUL
 'could': KO
 'not': TPHOT
-'find': TPEUPBD
+'find': TPAOEUPBD
 'a': AEU
 'way': WAEU
 'out.': OUT TP-PL
@@ -1333,7 +1333,7 @@ The Raven
 'he': HE
 'summoned': SPHUPBD
 'up': UP
-'courage': KURPBLG
+'courage': KORPBLG
 'and': SKP
 'went': WEPBT
 'forward.': TPAORD TP-PL
@@ -1528,7 +1528,7 @@ The Raven
 'but': PWUT
 'could': KO
 'not': TPHOT
-'find': TPEUPBD
+'find': TPAOEUPBD
 'it.': T TP-PL
 ''Never': AE KPA/TPHEFR
 'mind,'': PHAOEUPBD KW-BG AE
@@ -1541,7 +1541,7 @@ The Raven
 'upstairs': AUP/STAEURS
 'in': TPH
 'the': -T
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'we': WE
 'will': HR
 'look': HRAOBG
@@ -1891,7 +1891,7 @@ The Raven
 'the': -T
 'king's': KEUPBG/AES
 'daughter': TKAUR
-'driving': TKRAOFG
+'driving': TKRAOEUFG
 'round': ROUPBD
 'her': HER
 'castle,': KAFL KW-BG
@@ -2349,7 +2349,7 @@ The Raven
 'castle,': KAFL KW-BG
 'but': PWUT
 'could': KO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'him': HEUPL
 'nowhere.': TPHO/WR TP-PL
 'Meanwhile': KPA/PHAOEPB/WHAOEUL

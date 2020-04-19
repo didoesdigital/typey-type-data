@@ -56,7 +56,7 @@
 * born `PWORPB`
 * that," `THA KW-BG KR-GS`
 * said `SAEUD`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * "Not `KR-GS KPA/TPHOT`
 * all `AUL`
 * can `K`
@@ -298,7 +298,7 @@
 * deep `TKAOEP`
 * learning `HRERPBG`
 * showed `SHOED`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * forgot `TPAURGT`
 * pecking `PEBG/-G`
 * her `HER`

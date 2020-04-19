@@ -514,7 +514,7 @@ Something
 'Nationality': KPA/TPHAT/ALT
 'may': PHAE
 'assert': A/SERT
-'itself': *EUTS
+'itself': T/SEFL
 'until': TPH-L
 'it': T
 'becomes': PW-BGS
@@ -595,7 +595,7 @@ Something
 'my': PHEU
 'business': PWEUS
 'to': TO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'out': OUT
 'and': SKP
 'expose;': SPOES STPH*FPLT
@@ -1421,7 +1421,7 @@ Something
 'he': HE
 'had': H
 'a': AEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'funeral,': TPAOUPBL KW-BG
 'with': W
 'the': -T
@@ -2254,7 +2254,7 @@ Something
 'to': TO
 'them.': THEPL TP-PL
 'I': EU
-'escaped': SKAEP/-D
+'escaped': SKAEPD
 'fortunately': TP-RPBL
 'as': AZ
 'far': TPAR
@@ -2455,7 +2455,7 @@ Something
 'opened,': OEPD KW-BG
 'and': SKP
 'an': APB
-'angel': APBG/EL
+'angel': APB/SKWREL
 'led': HRED
 'the': -T
 'old': OLD
@@ -2509,7 +2509,7 @@ Something
 '"See,"': KR-GS KPA/SAOE KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'angel,': APBG/EL KW-BG
+'angel,': APB/SKWREL KW-BG
 'pointing': POEUPBGT
 'to': TO
 'the': -T
@@ -2675,7 +2675,7 @@ Something
 '"Then,"': KR-GS KPA/THEPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'angel,': APBG/EL KW-BG
+'angel,': APB/SKWREL KW-BG
 '"thy': KR-GS THAO*EU
 'brother,': PWROER KW-BG
 'he': HE

@@ -173,7 +173,7 @@
 * naked `TPHAEUBGD`
 * arm `ARPL`
 * stretched `STREFPD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * water, `WAUR KW-BG`
 * seized `SAOEZ/-D`
 * drew `TKRAOU`
@@ -328,7 +328,7 @@
 * people `PAOEPL`
 * seek `SAOEBG`
 * fields, `TPAOELDZ KW-BG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * him. `HEUPL TP-PL`
 * easily `AOELS`
 * guess `TKPWES`
@@ -636,7 +636,7 @@
 * pulled `PULD`
 * rolled `ROLD`
 * shoulders, `SHOURLDZ KW-BG`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * behold. `PWE/HOLD TP-PL`
 * arm, `ARPL KW-BG`
 * handful `HAPBD/-FL`
@@ -877,7 +877,7 @@
 * leg `HREG`
 * point `POEUPBT`
 * sword. `SOERD TP-PL`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * leapt `HREPT`
 * helmet `H*EPLT`
 * hair. `HAEUR TP-PL`

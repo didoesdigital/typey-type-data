@@ -210,7 +210,7 @@
 * paces `PAEUS/-S`
 * further. `TPURT TP-PL`
 * told `TOLD`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * watches `WAFPS`
 * over `OEFR`
 * children. `KHEURPB TP-PL`

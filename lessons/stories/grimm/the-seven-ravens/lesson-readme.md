@@ -222,7 +222,7 @@
 * out `OUT`
 * wide `WAOEUD`
 * world `WORLD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * wherever `W-FR`
 * might `PHAOEUT`
 * be, `-B KW-BG`

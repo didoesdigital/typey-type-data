@@ -30,7 +30,7 @@
 * them, `THEPL KW-BG`
 * wore `WOR`
 * a `AEU`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * uniform, `KWRAOUFRPL KW-BG`
 * red `RED`
 * blue. `PWHRU TP-PL`
@@ -403,7 +403,7 @@
 * side `SAOEUD`
 * hands. `HAPBDZ TP-PL`
 * Good `KPA/TKPWAOD`
-* gracious, `TKPWRAURBS KW-BG`
+* gracious, `TKPWRAEURBS KW-BG`
 * waves `WAFS`
 * arose `A/ROES`
 * gutter! `TKPWOURT SKHRAPL`
@@ -417,7 +417,7 @@
 * rocked `ROBGD`
 * down, `TKOUPB KW-BG`
 * turned `TURPBD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * round `ROUPBD`
 * sometimes `STAOEUPLS`
 * quickly `KWEULG`

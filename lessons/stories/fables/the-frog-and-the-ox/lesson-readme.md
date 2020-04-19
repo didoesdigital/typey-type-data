@@ -114,4 +114,4 @@
 * burst. `PWUFRT TP-PL`
 * Self-conceit `KPA/S*EF H-PB KAUPB/SAOET`
 * lead `HRAED`
-* self-destruction. `S*EF H-PB TKRUBGS TP-PL`
+* self-destruction. `S*EF H-PB STKRUBGS TP-PL`

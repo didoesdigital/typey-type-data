@@ -46,7 +46,7 @@
 * sandy `SAPB/TKEU`
 * soil `SOEUL`
 * shows `SHOES`
-* itself `*EUTS`
+* itself `T/SEFL`
 * between `TWAOEPB`
 * scanty `SKAPBT/TEU`
 * ears `AOERS`
@@ -447,7 +447,7 @@
 * then `THEPB`
 * forgot `TPAURGT`
 * altogether. `HR-GT TP-PL`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * peeped `PAOEPD`
 * containing `KAUPB/TAEUPBG`
 * sucking-pig; `SUBG/-G H-PB PEUG STPH*FPLT`
@@ -481,7 +481,7 @@
 * cried `KRAOEUD`
 * sprang `SPRAPBG`
 * him. `HEUPL TP-PL`
-* minutes `PHEUBS`
+* minutes `PHEUPBS`
 * deep `TKAOEP`
 * thicket, `THEUBGT KW-BG`
 * longer `HRORPBG`
@@ -679,7 +679,7 @@
 * spoke `SPOEBG`
 * kindly, `KAOEUPBD/HREU KW-BG`
 * took `TAOBG`
-* courage, `KURPBLG KW-BG`
+* courage, `KORPBLG KW-BG`
 * asked `SK-D`
 * nuts; `TPHUTS STPH*FPLT`
 * woman `WOPL`
@@ -749,7 +749,7 @@
 * right `RAOEUT`
 * path, `PA*T KW-BG`
 * might `PHAOEUT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * home: `HOEPL STPH-FPLT`
 * certainly `SERPBL`
 * direction `TKREBGS`
@@ -1261,7 +1261,7 @@
 * advised `SRAOEUFD`
 * treasures `TR-RBS`
 * president. `PREZ TP-PL`
-* find," `TPEUPBD KW-BG KR-GS`
+* find," `TPAOEUPBD KW-BG KR-GS`
 * magistrate. `PHAPBLG/STRAT TP-PL`
 * thing," `THEUPBG KW-BG KR-GS`
 * me,—and `PHE KW-BG EPL/TKA*RB SKP`
@@ -1448,7 +1448,7 @@
 * Did `KPA/TK`
 * recognise `REZ/A*U`
 * knew; `TPHAOU STPH*FPLT`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * beneath `TPHAO*ET`
 * newly `TPHAOUL`
 * painted `PAEUPBTD`
@@ -1461,7 +1461,7 @@
 * yellow `KWREL/OE`
 * towards `TORDZ`
 * hut, `HUT KW-BG`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * dwelt; `TKWELT STPH*FPLT`
 * safely `SAEUFL`
 * turf `T*UFR`

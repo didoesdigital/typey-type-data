@@ -5,7 +5,7 @@
 * once `WUPBS`
 * arrived `A/RAOEUFD`
 * from `TPR`
-* Portugal, `PORT/TPWAL KW-BG`
+* Portugal, `PORT/TKPWAL KW-BG`
 * but `PWUT`
 * there `THR`
 * were `WR`
@@ -23,7 +23,7 @@
 * thing. `THEUPBG TP-PL`
 * At `KPA/AT`
 * all `AUL`
-* events, `AOEPBTS KW-BG`
+* events, `AOEFPBTS KW-BG`
 * was `WAS`
 * called `KAULD`
 * "Portuguese," `KR-GS PORT/TKPWAOES KW-BG KR-GS`
@@ -144,7 +144,7 @@
 * cat `KAT`
 * after `AF`
 * he `HE`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * her `HER`
 * broken `PWROEPB`
 * wing, `WEUPBG KW-BG`
@@ -172,7 +172,7 @@
 * think `THEU`
 * allow `HROU`
 * things `THEUPBGS`
-* Portugal." `PORT/TPWAL TP-PL KR-GS`
+* Portugal." `PORT/TKPWAL TP-PL KR-GS`
 * She `KPA/SHE`
 * pitied `PEUT/EUD`
 * did `TK`
@@ -306,7 +306,7 @@
 * "Portulak" `KR-GS xxx Portulak KR-GS`
 * joke, `SKWROEBG KW-BG`
 * sounded `SOUPBD/-D`
-* Portugal. `PORT/TPWAL TP-PL`
+* Portugal. `PORT/TKPWAL TP-PL`
 * They `KPA/THE`
 * nudged `TPHUPBLG/-D`
 * each `AOEFP`
@@ -460,7 +460,7 @@
 * acquaintance, `KWAEUPB/TAPBS KW-BG`
 * fowls, `TPO*UL/-S KW-BG`
 * born `PWORPB`
-* occupy `OBG/PEU`
+* occupy `OBG/PAOEU`
 * higher `HAOEUR`
 * grade `TKPWRAEUD`
 * society `SOET`
@@ -484,7 +484,7 @@
 * what `WHA`
 * good, `TKPWAOD KW-BG`
 * sometimes `STAOEUPLS`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * where `W-R`
 * none `TPHOPB`
 * exists. `KPEUFTS TP-PL`
@@ -533,7 +533,7 @@
 * passionate, `PAGS/AT KW-BG`
 * talks `TAUBGS`
 * too `TAO`
-* 'Portugal.'" `AE PORT/TPWAL TP-PL AE KR-GS`
+* 'Portugal.'" `AE PORT/TKPWAL TP-PL AE KR-GS`
 * wonder `WOPBD`
 * whispering `WHEUS/PERG`
 * about," `PW KW-BG KR-GS`

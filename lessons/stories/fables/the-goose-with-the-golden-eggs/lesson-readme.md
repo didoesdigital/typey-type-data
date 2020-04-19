@@ -71,10 +71,10 @@
 * killed `KEULD`
 * opened `OEPD`
 * only `OEPBL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * nothing. `TPHOG TP-PL`
 * Greed `KPA/TKPWRAOED`
 * oft `O*FT`
 * o'er `OE/*ER`
 * reaches `RAOEFPS`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`

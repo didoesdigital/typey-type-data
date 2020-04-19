@@ -666,7 +666,7 @@ The Last Dream of the Old Oak
 'many': PHAEPB
 'dreams': TKRAOEPLS
 'of': -F
-'events': AOEPBTS
+'events': AOEFPBTS
 'that': THA
 'had': H
 'happened': HAPD
@@ -884,7 +884,7 @@ The Last Dream of the Old Oak
 'The': KPA/-T
 'tree': TRAOE
 'had,': H KW-BG
-'doubtless,': TKOUT/-LS KW-BG
+'doubtless,': TKOUT/*LS KW-BG
 'a': AEU
 'kind': KEUPBD
 'of': -F
@@ -1196,7 +1196,7 @@ The Last Dream of the Old Oak
 'The': KPA/-T
 'tree': TRAOE
 'felt': TPELT
-'itself': *EUTS
+'itself': T/SEFL
 'stretching': STREFPG
 'and': SKP
 'spreading': SPREGD
@@ -1262,7 +1262,7 @@ The Last Dream of the Old Oak
 'warm,': WARPL KW-BG
 'bright': PWRAOEUT
 'sun': SUPB
-'itself.': *EUTS TP-PL
+'itself.': T/SEFL TP-PL
 'Already': KPA/HR-R
 'had': H
 'his': HEUS
@@ -1361,7 +1361,7 @@ The Last Dream of the Old Oak
 'joy;': SKWROEU STPH*FPLT
 'and': SKP
 'yet,': KWRET KW-BG
-'amidst': A/PH*EUS
+'amidst': A/PH*EUFD
 'all': AUL
 'this': TH
 'happiness,': HAEP/-PBS KW-BG

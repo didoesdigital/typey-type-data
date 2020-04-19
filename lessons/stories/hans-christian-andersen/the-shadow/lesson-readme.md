@@ -138,7 +138,7 @@
 * room, `RAOPL KW-BG`
 * see `SAOE`
 * stretch `STREFP`
-* itself `*EUTS`
+* itself `T/SEFL`
 * against `TKPWEPBS`
 * wall, `WAUL KW-BG`
 * ceiling, `KAOELG KW-BG`
@@ -207,7 +207,7 @@
 * There `KPA/THR`
 * walking, `WAUG KW-BG`
 * carriages `KAEURPBLG/-S`
-* driving, `TKRAOFG KW-BG`
+* driving, `TKRAOEUFG KW-BG`
 * mules `PHAOUL/-S`
 * trotting `TROT/-G`
 * along, `HRAOPBG KW-BG`
@@ -775,7 +775,7 @@
 * listen, `HREUFPB KW-BG`
 * sent `SEPBT`
 * master, `PHAFRT KW-BG`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * "Do `KR-GS KPA/TKO`
 * "that `KR-GS THA`
 * glorious `TKPWHRORS`
@@ -1057,7 +1057,7 @@
 * opinion," `P-PB KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * "At `KR-GS KPA/AT`
-* events, `AOEPBTS KW-BG`
+* events, `AOEFPBTS KW-BG`
 * paid." `PAEUD TP-PL KR-GS`
 * appears `A/PAOERS`
 * absurd," `AB/SURD KW-BG KR-GS`
@@ -1171,10 +1171,10 @@
 * obliged `OE/PWHRAOEUPBLGD`
 * submit. `SPHEUT TP-PL`
 * baths, `PWA*TS KW-BG`
-* strangers, `STRAEUPB/SKWRERS KW-BG`
+* strangers, `STRAEURPBGS KW-BG`
 * princess, `PREUPB/SES KW-BG`
 * whose `WHOZ`
-* disease `TK-Z`
+* disease `STKAOE`
 * consisted `KAO/-D`
 * sharp-sighted, `SHARP H-PB SAOEUT/-D KW-BG`
 * uneasy. `UPB/EZ TP-PL`

@@ -143,9 +143,9 @@ The Elf of the Rose
 'go': TKPW
 'through': THRU
 'the': -T
-'roads': ROEDZ
+'roads': RAODZ
 'and': SKP
-'cross-roads': KROS H-PB ROEDZ
+'cross-roads': KROS H-PB RAODZ
 'that': THA
 'are': R
 'on': OPB
@@ -165,12 +165,12 @@ The Elf of the Rose
 'he': HE
 'took': TAOBG
 'for': TPOR
-'roads;': ROEDZ STPH*FPLT
+'roads;': RAODZ STPH*FPLT
 'ay,': A/KWR* KW-BG
 'and': SKP
 'very': SRE
 'long': HROPBG
-'roads': ROEDZ
+'roads': RAODZ
 'they': THE
 'were': WR
 'for': TPOR
@@ -927,7 +927,7 @@ The Elf of the Rose
 'said,': SAEUD KW-BG
 '"you': KR-GS U
 'will': HR
-'find': TPEUPBD
+'find': TPAOEUPBD
 'on': OPB
 'your': KWROUR
 'bed': PWED
@@ -985,7 +985,7 @@ The Elf of the Rose
 'he': HE
 'could': KO
 'not': TPHOT
-'find': TPEUPBD
+'find': TPAOEUPBD
 'it': T
 'in': TPH
 'his': HEUS
@@ -1206,7 +1206,7 @@ The Elf of the Rose
 'flower-pot': TPHRO*UR H-PB POT
 'she': SHE
 'could': KO
-'find,': TPEUPBD KW-BG
+'find,': TPAOEUPBD KW-BG
 'and': SKP
 'in': TPH
 'this': TH

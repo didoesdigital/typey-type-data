@@ -284,7 +284,7 @@ Iron Hans
 'naked': TPHAEUBGD
 'arm': ARPL
 'stretched': STREFPD
-'itself': *EUTS
+'itself': T/SEFL
 'out': OUT
 'of': -F
 'the': -T
@@ -701,7 +701,7 @@ Iron Hans
 'they': THE
 'did': TK
 'not': TPHOT
-'find': TPEUPBD
+'find': TPAOEUPBD
 'him.': HEUPL TP-PL
 'Then': KPA/THEPB
 'he': HE
@@ -884,7 +884,7 @@ Iron Hans
 'golden': TKPWOELD/*EPB
 'snake': STPHAEUBG
 'show': SHOE
-'itself': *EUTS
+'itself': T/SEFL
 'therein,': THR-PB KW-BG
 'and': SKP
 'took': TAOBG
@@ -1377,7 +1377,7 @@ Iron Hans
 'work,': WORBG KW-BG
 'but': PWUT
 'could': KO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'none,': TPHOPB KW-BG
 'and': SKP
 'he': HE
@@ -1816,7 +1816,7 @@ Iron Hans
 'and': SKP
 'it': T
 'was': WAS
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'to': TO
 'behold.': PWE/HOLD TP-PL
 'He': KPA/HE
@@ -2802,7 +2802,7 @@ Iron Hans
 'The': KPA/-T
 'youth': KWRAO*UT
 'nevertheless': TPHEFRLS
-'escaped': SKAEP/-D
+'escaped': SKAEPD
 'from': TPR
 'them,': THEPL KW-BG
 'but': PWUT

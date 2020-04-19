@@ -432,7 +432,7 @@
 * sides `SAOEUDZ`
 * hut. `HUT TP-PL`
 * could `KO`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * room `RAOPL`
 * nor `TPH-R`
 * endure `EPB/TKAOUR`
@@ -947,7 +947,7 @@
 * did. `TK TP-PL`
 * Your `KPA/KWROUR`
 * innocent `TPH-PBT`
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * shall `SHAL`
 * consecrate `KOPBS/KRAEUT`
 * deed. `TKAOED TP-PL`
@@ -1058,7 +1058,7 @@
 * secret, `SKRET KW-BG`
 * happiness `HAEP/-PBS`
 * his; `HEUS STPH*FPLT`
-* self-sacrifice, `S*EF H-PB SABG/TPAOEUS KW-BG`
+* self-sacrifice, `S*EF H-PB SARBG/TPAOEUS KW-BG`
 * patience, `PAEURBS KW-BG`
 * belongs `PWHROPBGS`
 * him?'" `HEUPL H-F AE KR-GS`

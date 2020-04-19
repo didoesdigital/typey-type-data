@@ -226,7 +226,7 @@ The Shadow
 'the': -T
 'shadow': SHO*EUD
 'stretch': STREFP
-'itself': *EUTS
+'itself': T/SEFL
 'against': TKPWEPBS
 'the': -T
 'wall,': WAUL KW-BG
@@ -379,7 +379,7 @@ The Shadow
 'people': PAOEPL
 'walking,': WAUG KW-BG
 'carriages': KAEURPBLG/-S
-'driving,': TKRAOFG KW-BG
+'driving,': TKRAOEUFG KW-BG
 'and': SKP
 'mules': PHAOUL/-S
 'trotting': TROT/-G
@@ -2066,7 +2066,7 @@ The Shadow
 'become': PW-BG
 'a': AEU
 'man': PHAPB
-'itself.': *EUTS TP-PL
+'itself.': T/SEFL TP-PL
 '"Do': KR-GS KPA/TKO
 'you': U
 'know,"': TPHOE KW-BG KR-GS
@@ -3104,7 +3104,7 @@ The Shadow
 'shadow.': SHO*EUD TP-PL
 '"At': KR-GS KPA/AT
 'all': AUL
-'events,': AOEPBTS KW-BG
+'events,': AOEFPBTS KW-BG
 'a': AEU
 'journey': SKWRURPB
 'will': HR
@@ -3637,7 +3637,7 @@ The Shadow
 'there': THR
 'were': WR
 'many': PHAEPB
-'strangers,': STRAEUPB/SKWRERS KW-BG
+'strangers,': STRAEURPBGS KW-BG
 'and': SKP
 'among': PHOPBG
 'them': THEPL
@@ -3646,7 +3646,7 @@ The Shadow
 'princess,': PREUPB/SES KW-BG
 'whose': WHOZ
 'real': RAEL
-'disease': TK-Z
+'disease': STKAOE
 'consisted': KAO/-D
 'in': TPH
 'being': -BG

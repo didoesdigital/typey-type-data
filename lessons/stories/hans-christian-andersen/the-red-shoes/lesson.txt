@@ -1018,7 +1018,7 @@ The Red Shoes
 'put': PUT
 'into': TPHAO
 'the': -T
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'but': PWUT
 'Karen': KAEURPB
 'could': KO
@@ -1332,7 +1332,7 @@ The Red Shoes
 'she': SHE
 'saw': SAU
 'an': APB
-'angel': APBG/EL
+'angel': APB/SKWREL
 'there': THR
 'in': TPH
 'long': HROPBG
@@ -1430,7 +1430,7 @@ The Red Shoes
 'hear': HAER
 'what': WHA
 'the': -T
-'angel': APBG/EL
+'angel': APB/SKWREL
 'answered,': AEPBS/-D KW-BG
 'for': TPOR
 'the': -T
@@ -1494,7 +1494,7 @@ The Red Shoes
 'damned': TKA*PLD
 'by': PWEU
 'the': -T
-'angel': APBG/EL
+'angel': APB/SKWREL
 'of': -F
 'God.': TKPWO*D TP-PL
 'She': KPA/SHE
@@ -1923,7 +1923,7 @@ The Red Shoes
 'about': PW
 'dress': TKRES
 'and': SKP
-'grandeur': TKPWRAPBD/TKUR
+'grandeur': TKPWRAPBD/AOUR
 'and': SKP
 'beauty': PWAOUT
 'she': SHE
@@ -2048,7 +2048,7 @@ The Red Shoes
 'her': HER
 'stood': STAOD
 'an': APB
-'angel': APBG/EL
+'angel': APB/SKWREL
 'of': -F
 'God': TKPWO*D
 'in': TPH
@@ -2148,7 +2148,7 @@ The Red Shoes
 'hymn-books.': H*EUPL H-PB PWAOBGS TP-PL
 'The': KPA/-T
 'church': KHUFRPB
-'itself': *EUTS
+'itself': T/SEFL
 'had': H
 'come': KOPL
 'to': TO

@@ -41,6 +41,7 @@
 * twelve `TWEFL`
 * prove `PROF`
 * hearts `HARTS`
+* settled `SELTD`
 * hills `HEULS`
 * saved `SAFD`
 * hurt `HURT`
@@ -154,6 +155,7 @@
 * pearl `PERL`
 * caps `KAPS`
 * twist `TWEUFT`
+* solve `SOFL`
 * trod `TROD`
 * stuffed `STUFD`
 * rats `RATS`

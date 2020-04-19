@@ -93,7 +93,7 @@
 * town `TOUPB`
 * Slagelse; `xxx Slagelse STPH*FPLT`
 * there `THR`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * audience, `AUPBS KW-BG`
 * entirely `SPWAOEURL`
 * juvenile `SKWRAO*UFL`
@@ -438,7 +438,7 @@
 * deities `TKAOET/KWREUS`
 * disguise, `STKPWAOEUS KW-BG`
 * or, `OR KW-BG`
-* events, `AOEPBTS KW-BG`
+* events, `AOEFPBTS KW-BG`
 * belonged `PWHROPBGD`
 * race `RAEUS`
 * gods. `TKPWODZ TP-PL`
@@ -510,7 +510,7 @@
 * practice. `PRABGS TP-PL`
 * whose `WHOZ`
 * duty `TKAOUT`
-* deliver `THREUFR`
+* deliver `TKHREUFR`
 * letter `HRERT`
 * many `PHAEPB`
 * airs `AEUR/-S`

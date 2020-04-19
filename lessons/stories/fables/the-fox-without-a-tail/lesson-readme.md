@@ -40,7 +40,7 @@
 * bolder `PWOERLD`
 * face `TPAEUS`
 * upon `POPB`
-* misfortune, `PHEUS/TPOR/TAOUPB KW-BG`
+* misfortune, `PHEUZ/TP-RPB KW-BG`
 * summoned `SPHUPBD`
 * foxes `TPOBGS/-S`
 * general `SKWREPBL`

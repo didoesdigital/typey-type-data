@@ -207,7 +207,7 @@
 * country `KREU`
 * it, `T KW-BG`
 * would `WO`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * should `SHO`
 * receive `SAOEF`
 * title `TAOEULT`
@@ -220,7 +220,7 @@
 * went `WEPBT`
 * sake `SAEUBG`
 * this `TH`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * berth; `PW*ERT STPH*FPLT`
 * back `PWABG`
 * some `SOPL`
@@ -714,7 +714,7 @@
 * woven `WOEFPB`
 * velvet `SREL/SRET`
 * carpet, `KARPT KW-BG`
-* itself `*EUTS`
+* itself `T/SEFL`
 * cupola; `KUP/HRA STPH*FPLT`
 * flame `TPHRAEUPL`
 * colour `KHROUR`

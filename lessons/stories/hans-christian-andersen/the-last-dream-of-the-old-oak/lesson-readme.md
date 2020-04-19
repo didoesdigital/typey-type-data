@@ -348,7 +348,7 @@
 * winter, `WEURPBT KW-BG`
 * dream `TKRAOEPL`
 * dreams `TKRAOEPLS`
-* events `AOEPBTS`
+* events `AOEFPBTS`
 * happened `HAPD`
 * life, `HRAOEUF KW-BG`
 * men. `PHEPB TP-PL`
@@ -443,7 +443,7 @@
 * dreamed `TKREPLD`
 * dream. `TKRAOEPL TP-PL`
 * had, `H KW-BG`
-* doubtless, `TKOUT/-LS KW-BG`
+* doubtless, `TKOUT/*LS KW-BG`
 * kind `KEUPBD`
 * feeling `TPAOELG`
 * festive `TPES/TEUF`
@@ -573,7 +573,7 @@
 * rising `RAOEUFG`
 * highest `HAOEU/EFT`
 * branches. `PWRAFRPBS TP-PL`
-* itself `*EUTS`
+* itself `T/SEFL`
 * stretching `STREFPG`
 * out, `OUT KW-BG`
 * while `WHAOEUL`
@@ -601,7 +601,7 @@
 * longing `HROPBG/-G`
 * grow `TKPWROE`
 * reach `RAOEFP`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * pierced `PAOERS/-D`
 * clouds, `KHROUDZ KW-BG`
 * troops `TRAOPS`
@@ -634,7 +634,7 @@
 * peace `PAES`
 * joy; `SKWROEU STPH*FPLT`
 * yet, `KWRET KW-BG`
-* amidst `A/PH*EUS`
+* amidst `A/PH*EUFD`
 * this `TH`
 * happiness, `HAEP/-PBS KW-BG`
 * yearning, `KWRERPBG KW-BG`

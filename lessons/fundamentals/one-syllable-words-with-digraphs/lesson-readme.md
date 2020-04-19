@@ -245,6 +245,7 @@
 * threads `THREDZ`
 * cheers `KHAOERS`
 * wrung `WRUPBG`
+* hushed `HURBD`
 * winged `WEUPBGD`
 * shelves `SHEFLS`
 * cheat `KHAOET`

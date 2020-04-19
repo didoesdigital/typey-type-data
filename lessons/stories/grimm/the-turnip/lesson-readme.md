@@ -36,7 +36,7 @@
 * dug `TKUG`
 * ground `TKPWROUPBD`
 * well, `WEL KW-BG`
-* sowed `SWO/-D`
+* sowed `SOE/-D`
 * turnips. `TURPB/EUPS TP-PL`
 * When `KPA/WHEPB`
 * seed `SAOED`

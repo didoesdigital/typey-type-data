@@ -17,7 +17,7 @@
 * clover `KHROEFR`
 * cover `KOFR`
 * deceiver `TKE/SAOEFR`
-* deliver `THREUFR`
+* deliver `TKHREUFR`
 * delver `TKEL/SRER`
 * discover `SKOFR`
 * diver `TKAOEUFR`

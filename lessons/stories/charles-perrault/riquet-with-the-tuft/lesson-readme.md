@@ -74,7 +74,7 @@
 * comforted `K-FRTD`
 * poor `PAOR`
 * under `TPH-PB`
-* grievous `TKPWRAOEF/US`
+* grievous `TKPWRAOEF/OUS`
 * affliction `A/TPHREUBGS`
 * having `SR-G`
 * into `TPHAO`
@@ -336,7 +336,7 @@
 * retired `RAO*EURD`
 * wood `WAOD`
 * bewail `PWE/WAEUL`
-* misfortune, `PHEUS/TPOR/TAOUPB KW-BG`
+* misfortune, `PHEUZ/TP-RPB KW-BG`
 * saw, `SAU KW-BG`
 * coming `KO*G`
 * man, `PHAPB KW-BG`
@@ -358,7 +358,7 @@
 * talking `TAUG`
 * her. `HER TP-PL`
 * Overjoyed `KPA/AUFR/SKWROEUD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * thus `THUS`
 * alone, `A/HROEPB KW-BG`
 * addressed `A/TKREFD`
@@ -538,7 +538,7 @@
 * advice, `SREUS KW-BG`
 * sometimes `STAOEUPLS`
 * hold `HOLD`
-* council `KAUPB/SEUL`
+* council `KOUPB/SEUL`
 * apartment. `ARPLT TP-PL`
 * noise `TPHOEUS`
 * change `KHAEUPBG`

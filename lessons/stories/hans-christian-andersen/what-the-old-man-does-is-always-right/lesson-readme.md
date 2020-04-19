@@ -234,7 +234,7 @@
 * going `TKPW-G`
 * fair, `TPAEUR KW-BG`
 * were `WR`
-* driving, `TKRAOFG KW-BG`
+* driving, `TKRAOEUFG KW-BG`
 * riding, `RAOEUD/-G KW-BG`
 * walking `WAUG`
 * shelter `SHELT`
@@ -247,7 +247,7 @@
 * came `KAEUPL`
 * trudging `TRUPBLG/-G`
 * along, `HRAOPBG KW-BG`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * cow `KO*U`
 * fair. `TPAEUR TP-PL`
 * beautiful `PWAOUFL`
@@ -523,7 +523,7 @@
 * grass-plot `TKPWRAS H-PB PHROT`
 * bore `PWOR`
 * apple, `A*EPL KW-BG`
-* cupboard `WUP/PWORD`
+* cupboard `KUP/PWAORD`
 * till `TEUL`
 * withered `WEU/THER/-D`
 * rotten. `ROT/EPB TP-PL`
@@ -644,7 +644,7 @@
 * about," `PW KW-BG KR-GS`
 * embraced `EPL/PWRAEUFD`
 * attention `A/T-PBGS`
-* strangers, `STRAEUPB/SKWRERS KW-BG`
+* strangers, `STRAEURPBGS KW-BG`
 * nor `TPH-R`
 * did `TK`
 * notice `TPH-TS`

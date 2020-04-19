@@ -29,7 +29,7 @@
 * But `KPA/PWUT`
 * this `TH`
 * the `-T`
-* misfortune `PHEUS/TPOR/TAOUPB`
+* misfortune `PHEUZ/TP-RPB`
 * to `TO`
 * have `SR`
 * blue `PWHRU`

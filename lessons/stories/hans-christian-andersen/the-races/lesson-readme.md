@@ -138,7 +138,7 @@
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * is `S`
 * your `KWROUR`
-* misfortune," `PHEUS/TPOR/TAOUPB KW-BG KR-GS`
+* misfortune," `PHEUZ/TP-RPB KW-BG KR-GS`
 * fence-rail; `TPEPBS H-PB RAEUL STPH*FPLT`
 * "you `KR-GS U`
 * are `R`
@@ -430,7 +430,7 @@
 * receiving `SAOEFG`
 * flies `TPHRAOEUS`
 * few `TPAOU`
-* minutes `PHEUBS`
+* minutes `PHEUPBS`
 * along `HRAOPBG`
 * immeasurable `*EUPL/PHEBL`
 * path `PA*T`

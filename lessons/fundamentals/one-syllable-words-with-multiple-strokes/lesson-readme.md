@@ -93,7 +93,6 @@
 * bounded `PWOUPBD/-D`
 * kindled `KEUPBD/-LD`
 * tended `TEPBD/-D`
-* ghosts `TKPWOEFTS`
 * asp `AS/-P`
 * charmed `KHARPL/-D`
 * rags `RAG/-S`
@@ -109,16 +108,14 @@
 * cheered `KHAOER/-D`
 * helm `HEL/-PL`
 * icy `AOEU/SEU`
-* coasts `KOEFTS`
 * wooded `WAOD/-D`
 * tilde `TEUL/TKE`
 * spies `SPAOEU/-S`
 * blinded `PWHRAOEUPBD/-D`
-* wheeled `WHAOELD`
+* wheeled `WHAOEL/-D`
 * clapped `KHRAP/-D`
 * boasted `PWOEFT/-D`
 * wrinkled `WREUPB/K-LD`
-* hushed `HURBD`
 * tangled `TAPBG/-LD`
 * chaos `KAEU/OS`
 * paced `PAEUS/-D`
@@ -130,7 +127,6 @@
 * rooted `RAOT/-D`
 * breeches `PWRAOEFP/-S`
 * marches `PHAFRPB/-S`
-* furs `TPURZ`
 * psalms `SAUPL/-S`
 * reigns `RAEPB/-S`
 * huddled `HUD/-LD`
@@ -149,7 +145,6 @@
 * padre `PAD/RAEU`
 * ills `EUL/-S`
 * parched `PAR/-FPD`
-* mates `PHAEUTS`
 * axes `KPEUS/-S`
 * lances `HRAPBS/-S`
 * presses `PRES/-S`

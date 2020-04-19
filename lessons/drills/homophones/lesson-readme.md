@@ -241,7 +241,7 @@
 * correspondents `KOR/SPOPBT/-S`
 * cosign `KOE/SAOEUPB`
 * cosine `KOE/SAO*EUPB`
-* council `KAUPB/SEUL`
+* council `KOUPB/SEUL`
 * counsel `KOUPB`
 * councilor `KUPBS/HROR`
 * counselor `KOUPBL`
@@ -320,7 +320,7 @@
 * feet `TPAOET`
 * feudal `TPAOU/TKAL`
 * futile `TPAOU/TEUL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * fined `TPAOEUPB/-D`
 * finish `TP*EURB`
 * Finnish `TP*EUPB/EURB`
@@ -786,7 +786,7 @@
 * sex `S-BGS`
 * sew `SWE`
 * so `SO`
-* sow `SWO`
+* sow `SOE`
 * shake `SHAEUBG`
 * shear `SHAER`
 * sheer `SHAOER`
@@ -955,7 +955,7 @@
 * whee `WHAOE`
 * wet `WET`
 * whet `WHET`
-* wheeled `WHAOELD`
+* wheeled `WHAOEL/-D`
 * wield `WAOELD`
 * which `WEU`
 * witch `WEUFP`

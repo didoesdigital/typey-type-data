@@ -4,4 +4,5 @@
 * worst `WOFRT`
 * wolf `WOFL`
 * wolves `WOFLS`
+* solve `SOFL`
 * twelfth `TWEFLT`

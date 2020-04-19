@@ -378,7 +378,7 @@
 * resting `REFT/-G`
 * which `WEU`
 * performed `PORPLD`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * putting `PUGT`
 * In `KPA/TPH`
 * earlier `RERL`

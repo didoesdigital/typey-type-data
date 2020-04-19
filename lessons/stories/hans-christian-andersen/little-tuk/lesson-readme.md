@@ -33,7 +33,7 @@
 * who `WHO`
 * knew `TPHAOU`
 * him, `HEUPL KW-BG`
-* strangers. `STRAEUPB/SKWRERS TP-PL`
+* strangers. `STRAEURPBGS TP-PL`
 * Tuk `T*P/*U/*BG`
 * left `HREFT`
 * at `AT`
@@ -387,7 +387,7 @@
 * lie `HRAOEU`
 * sea-shore," `SAE H-PB SHOR KW-BG KR-GS`
 * Corsor; `xxx Corsor STPH*FPLT`
-* high-roads `HAOEU H-PB ROEDZ`
+* high-roads `HAOEU H-PB RAODZ`
 * pleasure-gardens; `PHRERB H-PB TKPWARD/-PBS STPH*FPLT`
 * given `TKPWEUFPB`
 * birth `PW*EURT`

@@ -16,7 +16,7 @@
 * seasons `S-PBZ`
 * the `-T`
 * most `PHOFT`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * flowers, `TPHRO*URS KW-BG`
 * and `SKP`
 * from `TPR`
@@ -300,7 +300,7 @@
 * old `OLD`
 * bishop. `PWEURB/OP TP-PL`
 * shine `SHAOEUPB`
-* angel's `APBG/EL AES`
+* angel's `APB/SKWREL AES`
 * face `TPAEUS`
 * appeared. `A/PAOERD TP-PL`
 * A `KPA/AEU`

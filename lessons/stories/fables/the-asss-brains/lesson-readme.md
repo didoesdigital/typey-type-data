@@ -66,7 +66,7 @@
 * away `A/WAEU`
 * waited; `WAEUTD STPH*FPLT`
 * but `PWUT`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * that `THA`
 * his `HEUS`
 * master `PHAFRT`

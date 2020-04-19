@@ -69,7 +69,7 @@
 * round `ROUPBD`
 * it `T`
 * looked `HRAOBGD`
-* splendid. `SPHREPBD/EUD TP-PL`
+* splendid. `SPHREPB/TKEUD TP-PL`
 * "Look `KR-GS KPA/HRAOBG`
 * at `AT`
 * me," `PHE KW-BG KR-GS`

@@ -13,7 +13,7 @@ The Velveteen Rabbit
 'he': HE
 'was': WAS
 'really': R-L
-'splendid.': SPHREPBD/EUD TP-PL
+'splendid.': SPHREPB/TKEUD TP-PL
 'He': KPA/HE
 'was': WAS
 'fat': TPAT
@@ -155,7 +155,7 @@ The Velveteen Rabbit
 'in': TPH
 'the': -T
 'toy': TOEU
-'cupboard': WUP/PWORD
+'cupboard': KUP/PWAORD
 'or': OR
 'on': OPB
 'the': -T
@@ -189,7 +189,7 @@ The Velveteen Rabbit
 'snubbed': STPHUB/-D
 'him.': HEUPL TP-PL
 'The': KPA/-T
-'mechanical': PHEPL/K-L
+'mechanical': PHEBG/K-L
 'toys': TOEUS
 'were': WR
 'very': SRE
@@ -408,7 +408,7 @@ The Velveteen Rabbit
 'long': HROPBG
 'succession': SKEGS
 'of': -F
-'mechanical': PHEPL/K-L
+'mechanical': PHEBG/K-L
 'toys': TOEUS
 'arrive': A/RAOEUF
 'to': TO
@@ -836,7 +836,7 @@ The Velveteen Rabbit
 'them': THEPL
 'away': A/WAEU
 'in': TPH
-'cupboards.': KUP/PWORDZ TP-PL
+'cupboards.': KUP/PWAORDZ TP-PL
 'She': KPA/SHE
 'called': KAULD
 'this': TH
@@ -879,7 +879,7 @@ The Velveteen Rabbit
 'bed,': PWED KW-BG
 'he': HE
 'couldn't': KOPBT
-'find': TPEUPBD
+'find': TPAOEUPBD
 'the': -T
 'china': KHAOEUPB/A
 'dog': TKOG
@@ -917,7 +917,7 @@ The Velveteen Rabbit
 'that': THA
 'the': -T
 'toy': TOEU
-'cupboard': WUP/PWORD
+'cupboard': KUP/PWAORD
 'door': TKAOR
 'stood': STAOD
 'open,': OEP KW-BG
@@ -1070,7 +1070,7 @@ The Velveteen Rabbit
 'And': AFPBD
 'they': THE
 'had': H
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'games': TKPWAEUPLS
 'together,': TOGT KW-BG
 'in': TPH
@@ -2142,7 +2142,7 @@ The Velveteen Rabbit
 'where': W-R
 'the': -T
 'two': TWO
-'strangers': STRAEUPB/SKWRERS
+'strangers': STRAEURPBGS
 'had': H
 'passed.': PAFD TP-PL
 'The': KPA/-T
@@ -2477,7 +2477,7 @@ The Velveteen Rabbit
 'butterflies': PW*URT/TPHRAOEU/-S
 'and': SKP
 'play': PHRAEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'games': TKPWAEUPLS
 'in': TPH
 'the': -T
@@ -2730,7 +2730,7 @@ The Velveteen Rabbit
 'once.': WUPBS TP-PL
 'What?': KPA/WHA H-F
 'Nonsense!': KPA/TPHOPB/SEPBS SKHRAPL
-'Get': KPA/TKPW-T
+'Get': KPA/TKPWET
 'him': HEUPL
 'a': AEU
 'new': TPHU
@@ -2841,7 +2841,7 @@ The Velveteen Rabbit
 'It': KPA/T
 'was': WAS
 'a': AEU
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'bunny,': PWUPB/TPHEU KW-BG
 'all': AUL
 'white': WHAOEUT
@@ -2873,7 +2873,7 @@ The Velveteen Rabbit
 'and': SKP
 'that': THA
 'in': TPH
-'itself': *EUTS
+'itself': T/SEFL
 'was': WAS
 'such': SUFP
 'a': AEU

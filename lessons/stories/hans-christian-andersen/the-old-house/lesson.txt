@@ -928,7 +928,7 @@ The Old House
 'like': HRAOEUBG
 'the': -T
 'old': OLD
-'cupboard.': WUP/PWORD TP-PL
+'cupboard.': KUP/PWAORD TP-PL
 'Gout': KPA/TKPWOUT
 'in': TPH
 'my': PHEU
@@ -2170,7 +2170,7 @@ The Old House
 'found.': TPOUPBD TP-PL
 '"I': KR-GS EU
 'shall': SHAL
-'find': TPEUPBD
+'find': TPAOEUPBD
 'him': HEUPL
 'again,"': TKPWEPB KW-BG KR-GS
 'said': SAEUD
@@ -2181,7 +2181,7 @@ The Old House
 'he': HE
 'did': TK
 'not': TPHOT
-'find': TPEUPBD
+'find': TPAOEUPBD
 'him.': HEUPL TP-PL
 'The': KPA/-T
 'boards': PWORDZ
@@ -2459,7 +2459,7 @@ The Old House
 'pull': PUL
 'the': -T
 'house': HOUS
-'itself': *EUTS
+'itself': T/SEFL
 'down;': TKOUPB STPH*FPLT
 'people': PAOEPL
 'called': KAULD

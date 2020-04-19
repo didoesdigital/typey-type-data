@@ -310,7 +310,7 @@
 * who `WHO`
 * coming `KO*G`
 * by, `PWEU KW-BG`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * cow, `KO*U KW-BG`
 * stopped `STOPD`
 * it. `T TP-PL`
@@ -450,7 +450,7 @@
 * clave `KHRAEUF`
 * roof `RAOF`
 * mouth. `PHO*UT TP-PL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * cure `KAOUR`
 * this,' `TH KW-BG AE`
 * he; `HE STPH*FPLT`
@@ -568,7 +568,7 @@
 * him: `HEUPL STPH-FPLT`
 * met `PHET`
 * some `SOPL`
-* misfortunes, `PHEUS/TPOR/TAOUPB/-S KW-BG`
+* misfortunes, `PHEUZ/TP-RPB/-S KW-BG`
 * sure; `SHUR STPH*FPLT`
 * well `WEL`
 * repaid `RE/PAEUD`
@@ -695,7 +695,7 @@
 * whose `WHOZ`
 * wherever `W-FR`
 * friend `TPREPBD`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * roast; `ROEFT STPH*FPLT`
 * goose-grease `TKPWAOS H-PB TKPWRAES`
 * six `SEUBGS`
@@ -738,7 +738,7 @@
 * never `TPHEFR`
 * puts `PUTS`
 * pocket `POBGT`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * money `PHUPB`
 * it--but `T H-PB H-PB PWUT`
 * goose?' `TKPWAOS H-F AE`
@@ -769,7 +769,7 @@
 * grindstone; `TKPWRAOEUPBD/STOEPB STPH*FPLT`
 * rest `REFT`
 * come `KOPL`
-* itself. `*EUTS TP-PL`
+* itself. `T/SEFL TP-PL`
 * Here `KPA/HAOER`
 * worse `WORS`
 * wear: `WAER STPH-FPLT`

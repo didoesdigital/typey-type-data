@@ -368,7 +368,7 @@
 * then `THEPB`
 * Martha `PHAR/THA`
 * repeated `RE/PAOETD`
-* minutes, `PHEUBS KW-BG`
+* minutes, `PHEUPBS KW-BG`
 * all `AUL`
 * boy, `PWOEU KW-BG`
 * overheard; `AUFR/HAERD STPH*FPLT`
@@ -697,7 +697,7 @@
 * loved `HROFD`
 * truly `TRAOUL`
 * honorably, `HOPB/RAEBL KW-BG`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * earth; `*ERT STPH*FPLT`
 * wise `WAOEUS`
 * loving. `HRUFG TP-PL`
@@ -733,13 +733,13 @@
 * mind `PHAOEUPBD`
 * rank, `RA*PBG KW-BG`
 * therein `THR-PB`
-* misfortune. `PHEUS/TPOR/TAOUPB TP-PL`
+* misfortune. `PHEUZ/TP-RPB TP-PL`
 * esteem `ES/TAOEPL`
 * poor,' `PAOR KW-BG AE`
 * added. `AD/-D TP-PL`
 * 'In `AE KPA/TPH`
 * God, `TKPWO*D KW-BG`
-* occupy `OBG/PEU`
+* occupy `OBG/PAOEU`
 * higher `HAOEUR`
 * place `PHRAEUS`
 * rich; `REUFP STPH*FPLT`
@@ -851,7 +851,7 @@
 * nothing;' `TPHOG STPH*FPLT AE`
 * likely `HRAOEULG`
 * now; `TPHOU STPH*FPLT`
-* misfortunes `PHEUS/TPOR/TAOUPB/-S`
+* misfortunes `PHEUZ/TP-RPB/-S`
 * world, `WORLD KW-BG`
 * unknown `UPB/TPHOEPB`
 * then. `THEPB TP-PL`
@@ -902,7 +902,7 @@
 * dark `TKARBG`
 * days `TKAEUS`
 * trial, `TRAOEUL KW-BG`
-* misfortune `PHEUS/TPOR/TAOUPB`
+* misfortune `PHEUZ/TP-RPB`
 * fallen `TPAUL/-PB`
 * "We `KR-GS KPA/WE`
 * five `TPEUF`

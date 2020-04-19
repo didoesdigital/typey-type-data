@@ -152,7 +152,7 @@
 * yet `KWRET`
 * another `TPHOER`
 * night, `TPHAOEUT KW-BG`
-* payment `PAEULT`
+* payment `PAEUPLT`
 * must `PHUFT`
 * tomorrow `TORPL`
 * chop `KHOP`
@@ -535,7 +535,7 @@
 * hide `HAOEUD`
 * soon `SAOPB`
 * contrive `KAUPB/TRAOEUF`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * it.' `T TP-PL AE`
 * plot, `PHROT KW-BG`
 * princess, `PREUPB/SES KW-BG`

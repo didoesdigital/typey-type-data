@@ -157,7 +157,7 @@
 * care `KAEUR`
 * anything `TPHEUG`
 * about, `PW KW-BG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * out.' `OUT TP-PL AE`
 * young `KWRUPBG`
 * agreed `TKPWRAED`
@@ -289,7 +289,7 @@
 * space `SPAEUS`
 * years, `KWRAOERS KW-BG`
 * time `TAOEUPL`
-* cross-roads; `KROS H-PB ROEDZ STPH*FPLT`
+* cross-roads; `KROS H-PB RAODZ STPH*FPLT`
 * having `SR-G`
 * welcomed `W-BGD`
 * off `OF`

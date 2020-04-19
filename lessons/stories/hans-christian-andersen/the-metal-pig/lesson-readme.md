@@ -104,7 +104,7 @@
 * can `K`
 * very `SRE`
 * quickly `KWEULG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * place; `PHRAEUS STPH*FPLT`
 * only `OEPBL`
 * ask `SK`
@@ -280,7 +280,7 @@
 * most `PHOFT`
 * wonderful `WUFL`
 * ride. `RAOEUD TP-PL`
-* First, `KPA/TPEURS KW-BG`
+* First, `KPA/TPEUFRT KW-BG`
 * arrived `A/RAOEUFD`
 * metal `PH*ELT`
 * horse `HORS`
@@ -291,7 +291,7 @@
 * painted `PAEUPBTD`
 * coats-of-arms `KOETS H-PB -F H-PB ARPLS`
 * old `OLD`
-* council-house `KAUPB/SEUL H-PB HOUS`
+* council-house `KOUPB/SEUL H-PB HOUS`
 * transparent `TRAEUPBT`
 * pictures, `P*EUFPS KW-BG`
 * Michael `PHAOEUBG/*L`
@@ -424,7 +424,7 @@
 * beauty `PWAOUT`
 * everywhere `WEFR`
 * showed `SHOED`
-* itself; `*EUTS STPH*FPLT`
+* itself; `T/SEFL STPH*FPLT`
 * went `WEPBT`
 * step `STEP`
 * other, `OER KW-BG`
@@ -435,7 +435,7 @@
 * another; `TPHOER STPH*FPLT`
 * there `THR`
 * fixed `TPEUFD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * boy's `PWOEU AES`
 * memory, `PHOEURPL KW-BG`
 * more `PHOR`
@@ -964,7 +964,7 @@
 * couch, `KOUFP KW-BG`
 * sweetly `SWAOET/HREU`
 * dreamed `TKREPLD`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * pictures `P*EUFPS`
 * Pig. `KPA/PEUG TP-PL`
 * Giuseppe `SKWREUS/EP/PE`

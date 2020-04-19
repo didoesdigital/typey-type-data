@@ -98,7 +98,7 @@
 * taken aback `TAEPB/A/PWABG`
 * tense `TEPBS`
 * tired `TAOEURD`
-* triumphant `TREU/UPL/TPAPBT`
+* triumphant `TRAOEU/UPL/TPAPBT`
 * uncomfortable `TPH-BL`
 * upset `AUP/SET`
 * wavering `WAEUFRG`

@@ -95,7 +95,7 @@
 * said, `SAEUD KW-BG`
 * will `HR`
 * soon `SAOPB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * it': `T AE STPH-FPLT`
 * went `WEPBT`
 * sick `SEUBG`
@@ -573,7 +573,7 @@
 * 'Our `AE KPA/OUR`
 * has `HAS`
 * we `WE`
-* find, `TPEUPBD KW-BG`
+* find, `TPAOEUPBD KW-BG`
 * therefore `TH-FR`
 * our `OUR`
 * forsake `TPAUR/SAEUBG`

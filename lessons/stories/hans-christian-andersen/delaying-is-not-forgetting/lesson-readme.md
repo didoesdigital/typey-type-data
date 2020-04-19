@@ -186,7 +186,7 @@
 * pretended `PRE/TEPBD/-D`
 * then `THEPB`
 * young `KWRUPBG`
-* gracious `TKPWRAURBS`
+* gracious `TKPWRAEURBS`
 * mistress. `PHEUS/TRES TP-PL`
 * My `KPA/PHEU`
 * father `TPAER`

@@ -154,7 +154,7 @@
 * near, `TPHAOER KW-BG`
 * heels `HAOELS`
 * luckily `HRULG`
-* escaped. `SKAEP/-D TP-PL`
+* escaped. `SKAEPD TP-PL`
 * He `KPA/HE`
 * has `HAS`
 * friends, `TPREPBDZ KW-BG`

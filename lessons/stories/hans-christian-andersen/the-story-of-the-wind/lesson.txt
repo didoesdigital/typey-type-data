@@ -227,7 +227,7 @@ The Story of the Wind
 'fair': TPAEUR
 'and': SKP
 'delicate': TKEL/KAT
-'maidens—Ida,': PHAEUD/EPB/-S EPL/TKA*RB xxx Ida KW-BG
+'maidens—Ida,': PHAEUD/*EPB/-S EPL/TKA*RB xxx Ida KW-BG
 'Joanna,': SKWROE/APB/KWRA KW-BG
 'and': SKP
 'Anna': APB/TPHA
@@ -441,7 +441,7 @@ The Story of the Wind
 'Borreby,': xxx Borreby KW-BG
 'where': W-R
 'the': -T
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'forest': TPOEFRT
 'of': -F
 'oaks': OEBG/-S
@@ -467,7 +467,7 @@ The Story of the Wind
 'dryest': TKRAOEU/TK-LS/EFT
 'they': THE
 'could': KO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'they': THE
 'carried': KAERD
 'into': TPHAO
@@ -489,7 +489,7 @@ The Story of the Wind
 'the': -T
 'men': PHEPB
 'and': SKP
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'danced,': TKAPBS/-D KW-BG
 'and': SKP
 'sung': SUPBG
@@ -560,7 +560,7 @@ The Story of the Wind
 'from': TPR
 'among': PHOPBG
 'the': -T
-'maidens.': PHAEUD/EPB/-S TP-PL
+'maidens.': PHAEUD/*EPB/-S TP-PL
 'There': KPA/THR
 'was': WAS
 'greater': TKPWRAERT
@@ -634,7 +634,7 @@ The Story of the Wind
 'the': -T
 'men': PHEPB
 'or': OR
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'who': WHO
 'paused': PAUS/-D
 'in': TPH
@@ -645,7 +645,7 @@ The Story of the Wind
 'her': HER
 'honor.': HO*RPB TP-PL
 'The': KPA/-T
-'gracious': TKPWRAURBS
+'gracious': TKPWRAEURBS
 'lady': HRA*ED
 'seemed': SAOEPLD
 'like': HRAOEUBG
@@ -1078,7 +1078,7 @@ The Story of the Wind
 'standing;': STAPBG STPH*FPLT
 'the': -T
 'tree': TRAOE
-'itself,': *EUTS KW-BG
+'itself,': T/SEFL KW-BG
 'however,': HOUF KW-BG
 'was': WAS
 'not': TPHOT
@@ -1976,7 +1976,7 @@ The Story of the Wind
 'soon': SAOPB
 'expect': KP-PT
 'to': TO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'out': OUT
 'the': -T
 'art': ART
@@ -2060,7 +2060,7 @@ The Story of the Wind
 'by': PWEU
 'me.': PHE TP-PL
 'The': KPA/-T
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'black': PWHRABG
 'horses,': HORSZ KW-BG
 'where': W-R
@@ -2081,7 +2081,7 @@ The Story of the Wind
 'silver': SEUL/SRER
 'vessels': SREFLS
 'in': TPH
-'cupboards': KUP/PWORDZ
+'cupboards': KUP/PWAORDZ
 'and': SKP
 'chests,': KHEFT/-S KW-BG
 'and': SKP
@@ -2090,7 +2090,7 @@ The Story of the Wind
 'house': HOUS
 'and': SKP
 'home': HOEPL
-'itself?': *EUTS H-F
+'itself?': T/SEFL H-F
 'It': KPA/T
 'was': WAS
 'easy': EZ
@@ -2121,7 +2121,7 @@ The Story of the Wind
 'the': -T
 'cellars': SEL/AR/-S
 'and': SKP
-'cupboards;': KUP/PWORDZ STPH*FPLT
+'cupboards;': KUP/PWAORDZ STPH*FPLT
 'the': -T
 'servants': SER/SRAPBTS
 'decreased': TKE/KRAOES/-D
@@ -2131,7 +2131,7 @@ The Story of the Wind
 'the': -T
 'mice': PHAOEUS
 'multiplied.': PHULT/PHRAOEUD TP-PL
-'First': KPA/TPEURS
+'First': KPA/TPEUFRT
 'one': WUPB
 'window': WOEUPBD
 'became': PWAEUPL
@@ -3421,7 +3421,7 @@ The Story of the Wind
 'driven': TKREUFPB
 'in': TPH
 'their': THAEUR
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'carriage;': KAEURPBLG STPH*FPLT
 'they': THE
 'went': WEPBT
@@ -3460,7 +3460,7 @@ The Story of the Wind
 'walls': WAULS
 'and': SKP
 'empty': EPLT
-'cupboards.': KUP/PWORDZ TP-PL
+'cupboards.': KUP/PWAORDZ TP-PL
 'Crows': xxx Crows
 'and': SKP
 'magpies': PHAG/PAOEU/*S
@@ -4030,7 +4030,7 @@ The Story of the Wind
 'the': -T
 'Wind.': KPA/WEUPBD TP-PL
 '"Her': KR-GS KPA/HER
-'courage': KURPBLG
+'courage': KORPBLG
 'was': WAS
 'like': HRAOEUBG
 'that': THA

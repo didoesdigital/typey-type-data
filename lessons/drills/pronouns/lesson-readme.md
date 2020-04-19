@@ -37,7 +37,7 @@
 * it `T`
 * its `EUTS`
 * it's `T-S`
-* itself `*EUTS`
+* itself `T/SEFL`
 * no `TPHO`
 * no one `TPHO/WUPB`
 * one `WUPB`

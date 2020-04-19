@@ -465,7 +465,7 @@
 * open `OEP`
 * sky, `SKAOEU KW-BG`
 * wet `WET`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * falling `TPAULG`
 * mist; `PHEUFT STPH*FPLT`
 * good `TKPWAOD`
@@ -863,7 +863,7 @@
 * neck, `TPHEBG KW-BG`
 * single `SEUPBLG`
 * word; `WORD STPH*FPLT`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * room, `RAOPL KW-BG`
 * state `STAEUT`
 * councillor's `KOUPB/SEU/HROR AES`
@@ -1035,14 +1035,14 @@
 * voice; `SROEUS STPH*FPLT`
 * brought `PWRAUT`
 * rapture `RAP/KHUR`
-* triumphant `TREU/UPL/TPAPBT`
+* triumphant `TRAOEU/UPL/TPAPBT`
 * land. `HRAPBD TP-PL`
 * firebrand—the `TPAOEUR/PWRAPBD EPL/TKA*RB -T`
 * firebrand `TPAOEUR/PWRAPBD`
 * inspiration. `SPRAEUGS TP-PL`
 * "And `KR-GS AFPBD`
 * looks `HRAOBGS`
-* splendid!" `SPHREPBD/EUD SKHRAPL KR-GS`
+* splendid!" `SPHREPB/TKEUD SKHRAPL KR-GS`
 * young `KWRUPBG`
 * ladies `HRAEUDZ`
 * too; `TAO STPH*FPLT`
@@ -1056,7 +1056,7 @@
 * beg `PWEG`
 * lock `HROBG`
 * rich `REUFP`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * elegant `EL/TKPWAPBT`
 * prince, `PREUPBS KW-BG`
 * happier `HAP/KWRER`
@@ -1070,7 +1070,7 @@
 * weep `WAOEP`
 * joy; `SKWROEU STPH*FPLT`
 * furniture `TPURPBT`
-* cupboard `WUP/PWORD`
+* cupboard `KUP/PWAORD`
 * tea-cups, `TAE H-PB KUPS KW-BG`
 * flower-vase. `TPHRO*UR H-PB SRAS TP-PL`
 * sleeping-bench, `SHRAOEPG H-PB PWEFRPB KW-BG`

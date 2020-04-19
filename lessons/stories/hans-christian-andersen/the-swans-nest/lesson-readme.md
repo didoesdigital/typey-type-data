@@ -90,7 +90,7 @@
 * people `PAOEPL`
 * prayed, `PRAEUD KW-BG`
 * "Heaven `KR-GS KPA/HEFPB`
-* deliver `THREUFR`
+* deliver `TKHREUFR`
 * us `US`
 * wild `WAOEULD`
 * Northmen." `xxx Northmen TP-PL KR-GS`

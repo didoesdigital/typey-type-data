@@ -798,7 +798,7 @@
 * fragrant `TPRAEUG/RAPBT`
 * beechwood!" `xxx beechwood SKHRAPL KR-GS`
 * "Here `KR-GS KPA/HAOER`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * summer!" `SAOURPL SKHRAPL KR-GS`
 * castles `KAS/-LS`
 * chivalry. `SHEUFL/REU TP-PL`

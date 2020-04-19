@@ -39,7 +39,7 @@
 * enough `TPHUF`
 * into `TPHAO`
 * mirror `PHROR`
-* itself `*EUTS`
+* itself `T/SEFL`
 * in `TPH`
 * waters; `WAURS STPH*FPLT`
 * but `PWUT`
@@ -232,7 +232,7 @@
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * is `S`
 * such `SUFP`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * precious `PRERBS`
 * thing, `THEUPBG KW-BG`
 * cannot `K/TPHOT`
@@ -359,7 +359,7 @@
 * wooden `WAOD/EPB`
 * shoe `SHAOU`
 * toad, `TAOD KW-BG`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * crushed `KRURBD`
 * by `PWEU`
 * managing `PHAPBG/-G`
@@ -475,7 +475,7 @@
 * thought, `THAUT KW-BG`
 * "Forward! `KR-GS KPA/TPAORD SKHRAPL`
 * onward!" `AOPB/WA*RD SKHRAPL KR-GS`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * more `PHOR`
 * charming `KHARPL/-G`
 * beautiful? `PWAOUFL H-F`
@@ -770,7 +770,7 @@
 * investigated `SREGTD`
 * created `KRAOETD`
 * matter `PHAERT`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * cut `KUT`
 * need `TPHAOED`
 * was. `WAS TP-PL`

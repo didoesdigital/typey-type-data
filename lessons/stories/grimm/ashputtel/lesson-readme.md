@@ -577,7 +577,7 @@
 * seen. `SAOEPB TP-PL`
 * lost `HRO*S`
 * sight `SAOEUT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * me `PHE`
 * has `HAS`
 * sprung `SPRUPBG`

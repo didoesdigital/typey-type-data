@@ -83,14 +83,14 @@
 * had `H`
 * no `TPHO`
 * found `TPOUPBD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * dying `TKAOEUG`
 * hunger, `HURPBG KW-BG`
 * while `WHAOEUL`
 * it `T`
 * saw `SAU`
 * ants `A*PBT/-S`
-* distributing `TKR-BG`
+* distributing `TKR-BT/-G`
 * every `EF`
 * grain `TKPWRAEUPB`
 * from `TPR`

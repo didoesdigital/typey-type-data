@@ -147,7 +147,7 @@ The Valiant Little Tailor
 'had': H
 'hoped': HOEPD
 'to': TO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'a': AEU
 'good': TKPWAOD
 'sale,': SAEL KW-BG
@@ -189,7 +189,7 @@ The Valiant Little Tailor
 'out': OUT
 'of': -F
 'the': -T
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'cut': KUT
 'himself': H*EUPLS
 'a': AEU
@@ -500,7 +500,7 @@ The Valiant Little Tailor
 'which': WEU
 'had': H
 'caught': KAUT
-'itself': *EUTS
+'itself': T/SEFL
 'in': TPH
 'the': -T
 'thicket.': THEUBGT TP-PL

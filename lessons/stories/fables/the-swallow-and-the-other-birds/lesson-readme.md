@@ -6,7 +6,7 @@
 * a `AEU`
 * Countryman `KPA/KREU/PHA*PB`
 * was `WAS`
-* sowing `SWO/-G`
+* sowing `SOE/-G`
 * some `SOPL`
 * hemp `HEFRP`
 * seeds `SAOEDZ`
@@ -39,7 +39,7 @@
 * others. `OERS TP-PL`
 * "That `KR-GS KPA/THA`
 * seed `SAOED`
-* sowing; `SWO/-G STPH*FPLT`
+* sowing; `SOE/-G STPH*FPLT`
 * be `-B`
 * careful `KAEUFL`
 * to `TO`

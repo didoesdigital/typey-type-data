@@ -153,7 +153,7 @@
 * quite `KWAOEUT`
 * beautifully. `PWAOUFL/HREU TP-PL`
 * looked `HRAOBGD`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * pale `PAEL`
 * cold, `KOELD KW-BG`
 * trembling `TREPL/-BLG`
@@ -161,7 +161,7 @@
 * In `KPA/TPH`
 * hand `HAPBD`
 * held `HELD`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * bow, `PWOE KW-BG`
 * it `T`
 * entirely `SPWAOEURL`
@@ -349,7 +349,7 @@
 * away, `A/WAEU KW-BG`
 * think `THEU`
 * lamp; `HRAFRP STPH*FPLT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * mistake. `SPHAEUBG TP-PL`
 * castle `KAFL`
 * garden `TKPWA*RPB`

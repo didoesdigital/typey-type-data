@@ -137,7 +137,7 @@
 * Denmark. `TKEPB/PHARBG TP-PL`
 * On `KPA/OPB`
 * Christmas-eve `KREUS/PHAS H-PB HRO*ER/AOEF`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * comes `KOPLS`
 * him `HEUPL`
 * tells `TELS`
@@ -401,7 +401,7 @@
 * smoke, `SPHOEBG KW-BG`
 * flaming `TPHRAPLG`
 * attached `A/TAFPD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * breast `PWREFT`
 * Hvitfeldt `xxx Hvitfeldt`
 * form `TPORPL`
@@ -496,7 +496,7 @@
 * ago, `AG KW-BG`
 * English `TKPWHREURB`
 * fleet `TPHRAOET`
-* roads, `ROEDZ KW-BG`
+* roads, `RAODZ KW-BG`
 * April, `PREUL KW-BG`
 * we `WE`
 * showed `SHOED`

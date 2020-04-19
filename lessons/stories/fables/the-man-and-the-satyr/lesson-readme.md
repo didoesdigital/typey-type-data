@@ -24,7 +24,7 @@
 * to `TO`
 * him, `HEUPL KW-BG`
 * and `SKP`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * that `THA`
 * way, `WAEU KW-BG`
 * promised `PROPLS/-D`

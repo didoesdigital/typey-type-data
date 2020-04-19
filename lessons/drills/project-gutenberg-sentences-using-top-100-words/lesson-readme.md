@@ -1054,7 +1054,7 @@
 * is!... `S SKHRAPL TP-PL TP-PL TP-PL`
 * good-by! `TKPWAOD H-PB PWEU SKHRAPL`
 * There--you `KPA/THR H-PB H-PB U`
-* First. `KPA/TPEURS TP-PL`
+* First. `KPA/TPEUFRT TP-PL`
 * be?' `-B H-F AE`
 * woman.' `WOPL TP-PL AE`
 * do, `TKORBGS`
@@ -1220,7 +1220,7 @@
 * then---and `THEPB H-PB H-PB H-PB SKP`
 * men?' `PHEPB H-F AE`
 * can.' `K TP-PL AE`
-* First, `KPA/TPEURS KW-BG`
+* First, `KPA/TPEUFRT KW-BG`
 * has? `HAS H-F`
 * what--my `WHA H-PB H-PB PHEU`
 * what--?' `WHA H-PB H-PB H-F AE`
@@ -1356,7 +1356,7 @@
 * made." `PHAED TP-PL KR-GS`
 * some, `SOPL KW-BG`
 * other, `OER KW-BG`
-* "First `KR-GS KPA/TPEURS`
+* "First `KR-GS KPA/TPEUFRT`
 * see: `SAOE STPH-FPLT`
 * see; `SAOE STPH*FPLT`
 * men: `PHEPB STPH-FPLT`

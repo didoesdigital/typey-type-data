@@ -620,7 +620,7 @@
 * crept `KREPT`
 * room. `RAOPL TP-PL`
 * Oh `KPA/O*ERBGS`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * sight `SAOEUT`
 * sure! `SHUR SKHRAPL`
 * There `KPA/THR`
@@ -845,7 +845,7 @@
 * imagine `PHAPBLG`
 * from, `TPR KW-BG`
 * unless `TPH-LS`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * lovely `HROFL`
 * roses, `ROES/-S KW-BG`
 * golden `TKPWOELD/*EPB`

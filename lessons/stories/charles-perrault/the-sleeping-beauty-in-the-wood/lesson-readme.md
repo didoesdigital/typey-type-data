@@ -53,7 +53,7 @@
 * godmothers `TKPWOD/PHOER/-S`
 * Fairies `KPA/TPAEUR/REU/-S`
 * could `KO`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * whole `WHOEL`
 * kingdom `KEUPBG/TKOPL`
 * (they `PREPB THE`
@@ -192,7 +192,7 @@
 * next, `TPHEGT KW-BG`
 * wit `WEUT`
 * an `APB`
-* angel; `APBG/EL STPH*FPLT`
+* angel; `APB/SKWREL STPH*FPLT`
 * third, `THEURD KW-BG`
 * wonderful `WUFL`
 * grace `TKPWRAEUS`
@@ -278,7 +278,7 @@
 * her." `HER TP-PL KR-GS`
 * King, `KO*EUPBG KW-BG`
 * avoid `A/SROEUD`
-* misfortune `PHEUS/TPOR/TAOUPB`
+* misfortune `PHEUZ/TP-RPB`
 * foretold `TPOER/TOLD`
 * Fairy, `KPA/TPAEUR/REU KW-BG`
 * caused `KAUFD`
@@ -407,7 +407,7 @@
 * laid `HRAEUD`
 * embroidered `EPL/PWROEUD/ERD`
 * silver. `SEUL/SRER TP-PL`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * beautiful; `PWAOUFL STPH*FPLT`
 * swooning `SWAOPB/-G`
 * away `A/WAEU`
@@ -480,7 +480,7 @@
 * Queen), `KWAO*EPB PR*EPB KW-BG`
 * governesses, `TKPWO*FRPBS/-S KW-BG`
 * maids `PHAEUDZ`
-* honour, `HO*URPB/A*U KW-BG`
+* honour, `H*/O*/TPH*/O*/*U/R* KW-BG`
 * ladies `HRAEUDZ`
 * bedchamber, `PWED/TK-LS/KHAEURPL/KW-BG`
 * gentlemen, `SKWR*EPL KW-BG`
@@ -661,7 +661,7 @@
 * adventure; `SREPBG STPH*FPLT`
 * pushed `PURBD`
 * love `HRUF`
-* honour `HO*URPB/A*U`
+* honour `H*/O*/TPH*/O*/*U/R*`
 * resolved `RO*FLD`
 * moment `PHOEPLT`
 * look `HRAOBG`
@@ -703,7 +703,7 @@
 * death `TK*T`
 * everywhere `WEFR`
 * shewed `S*/H*/*E/W*/-D`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * stretched `STREFPD`
 * bodies `PWOEDZ`
 * men `PHEPB`
@@ -1174,7 +1174,7 @@
 * quite `KWAOEUT`
 * mad `PHAD`
 * thus `THUS`
-* deceived, `STKAOEFD KW-BG`
+* deceived, `TKAOE/SAOEFD KW-BG`
 * morning, `PHORPBG KW-BG`
 * break `PWRAEBG`
 * (with `PREPB W`

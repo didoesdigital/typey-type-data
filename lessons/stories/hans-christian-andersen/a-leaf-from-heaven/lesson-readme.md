@@ -9,7 +9,7 @@
 * air `AEUR`
 * flew `TPHRAOU`
 * an `APB`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * with `W`
 * a `AEU`
 * flower `TPHRO*UR`
@@ -147,7 +147,7 @@
 * system `S-PL`
 * botany, `PWOT/TPHEU KW-BG`
 * possibly `POBL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * what `WHA`
 * class `KHRAS`
 * belong. `PWHROPBG TP-PL`
@@ -268,7 +268,7 @@
 * each `AOEFP`
 * concealed `KAUPB/SAOELD`
 * within `W-PB`
-* itself `*EUTS`
+* itself `T/SEFL`
 * deep `TKAOEP`
 * fount `TPOUPBT`
 * melody, `PHEL/TKEU KW-BG`

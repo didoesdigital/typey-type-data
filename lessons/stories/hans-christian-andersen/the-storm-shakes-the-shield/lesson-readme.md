@@ -87,7 +87,7 @@
 * fro, `TPRO KW-BG`
 * on `OPB`
 * shield `SHAOELD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * double `TKUBL`
 * eagle `AOEG/*L`
 * displayed, `TKEUS/PHRAEUD KW-BG`
@@ -118,7 +118,7 @@
 * band `PWAPBD`
 * music, `PHAOUFBG KW-BG`
 * most `PHOFT`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * all `AUL`
 * instruments `STRAOUPLTS`
 * "bird," `KR-GS PWEURD KW-BG KR-GS`
@@ -646,7 +646,7 @@
 * description, `SKREUPGS KW-BG`
 * all. `AUL TP-PL`
 * still `STEUL`
-* strangers, `STRAEUPB/SKWRERS KW-BG`
+* strangers, `STRAEURPBGS KW-BG`
 * continually `TAEPBL`
 * making `PHAEUG`
 * mistakes `SPHAEUBGS`

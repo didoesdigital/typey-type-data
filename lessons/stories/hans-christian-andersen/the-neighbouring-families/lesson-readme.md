@@ -425,7 +425,7 @@
 * world, `WORLD KW-BG`
 * ever. `-FR TP-PL`
 * singing `SEUPBG/-G`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * might `PHAOEUT`
 * easily `AOELS`
 * believed; `PWHREFD STPH*FPLT`
@@ -514,7 +514,7 @@
 * roses, `ROES/-S KW-BG`
 * glass `TKPWHRAS`
 * placed `PHRAEUFD`
-* cupboard. `WUP/PWORD TP-PL`
+* cupboard. `KUP/PWAORD TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * Sunday," `SUPBD KW-BG KR-GS`
 * husband, `HUS KW-BG`
@@ -879,7 +879,7 @@
 * cheeks. `KHAOEBGS TP-PL`
 * mourn `PHOURPB`
 * neighbours' `TPHAEUBS/A*U AE`
-* misfortunes. `PHEUS/TPOR/TAOUPB/-S TP-PL`
+* misfortunes. `PHEUZ/TP-RPB/-S TP-PL`
 * don't `TKOEPBT`
 * talk `TAUBG`
 * looks `HRAOBGS`
@@ -1028,7 +1028,7 @@
 * Hall?" `HA*L H-F KR-GS`
 * flat `TPHRAT`
 * wall. `WAUL TP-PL`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * artist `TR-FT`
 * painted `PAEUPBTD`
 * sketch. `SKEFP TP-PL`
@@ -1096,7 +1096,7 @@
 * goddess `TKPWOD/ES`
 * Victory, `KPA/SREUBGT/REU KW-BG`
 * metal, `PH*ELT KW-BG`
-* driving. `TKRAOFG TP-PL`
+* driving. `TKRAOEUFG TP-PL`
 * Thorwaldsen's `xxx Thorwaldsen AES`
 * Museum. `KPA/PHAOUPL TP-PL`
 * shines! `SHAOEUPBS SKHRAPL`

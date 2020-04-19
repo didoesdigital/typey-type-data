@@ -127,7 +127,7 @@
 * not?" `TPHOT H-F KR-GS`
 * said. `SAEUD TP-PL`
 * "Our `KR-GS KPA/OUR`
-* all-merciful `AUL H-PB TPERS/-FL`
+* all-merciful `AUL H-PB PHERS/-FL`
 * God `TKPWO*D`
 * will `HR`
 * surely `SHURL`
@@ -227,7 +227,7 @@
 * mother; `PHOER STPH*FPLT`
 * "tell `KR-GS TEL`
 * way, `WAEU KW-BG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * him." `HEUPL TP-PL KR-GS`
 * "I `KR-GS EU`
 * know `TPHOE`
@@ -286,7 +286,7 @@
 * wood `WAOD`
 * came `KAEUPL`
 * cross `KROS`
-* roads, `ROEDZ KW-BG`
+* roads, `RAODZ KW-BG`
 * knew `TPHAOU`
 * take. `TAEUBG TP-PL`
 * Just `KPA/SKWRUFT`
@@ -458,8 +458,8 @@
 * "God `KR-GS TKPWO*D`
 * me," `PHE KW-BG KR-GS`
 * replied. `RE/PHRAOEUD TP-PL`
-* merciful; `TPERS/-FL STPH*FPLT`
-* merciful `TPERS/-FL`
+* merciful; `PHERS/-FL STPH*FPLT`
+* merciful `PHERS/-FL`
 * too? `TAO H-F`
 * Where `KPA/W-R`
 * did `TK`
@@ -764,7 +764,7 @@
 * child? `KHAOEULD H-F`
 * Tell `KPA/TEL`
 * that. `THA TP-PL`
-* Deliver `KPA/THREUFR`
+* Deliver `KPA/TKHREUFR`
 * Release `KPA/RE/HRAOES`
 * misery. `PHEUS/REU TP-PL`
 * Rather `KPA/RAER`

@@ -121,7 +121,7 @@
 * there `THR`
 * tree?" `TRAOE H-F KR-GS`
 * asked `SK-D`
-* "Get `KR-GS KPA/TKPW-T`
+* "Get `KR-GS KPA/TKPWET`
 * money," `PHUPB KW-BG KR-GS`
 * replied; `RE/PHRAOEUD STPH*FPLT`
 * "for `KR-GS TPOR`
@@ -130,7 +130,7 @@
 * ground `TKPWROUPBD`
 * under `TPH-PB`
 * tree, `TRAOE KW-BG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * hall, `HAUL KW-BG`
 * lighted `HRAOEUT/-D`
 * by `PWEU`
@@ -356,7 +356,7 @@
 * thought `THAUT`
 * civil `SEUFL`
 * Good `KPA/TKPWAOD`
-* gracious, `TKPWRAURBS KW-BG`
+* gracious, `TKPWRAEURBS KW-BG`
 * was! `WAS SKHRAPL`
 * enough `TPHUF`
 * buy `PWAOEU`
@@ -372,7 +372,7 @@
 * even `AOEPB`
 * whole `WHOEL`
 * town `TOUPB`
-* itself `*EUTS`
+* itself `T/SEFL`
 * There `KPA/THR`
 * was, `WAS KW-BG`
 * indeed, `TPHAOEPBD KW-BG`
@@ -813,11 +813,11 @@
 * several `SEFRL`
 * thousands `THOEUPBS`
 * people. `PAOEPL TP-PL`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * thrones `THRO*EPB/-S`
 * opposite `OP/SEUT`
 * judges `SKWRUPBLGS`
-* council. `KAUPB/SEUL TP-PL`
+* council. `KOUPB/SEUL TP-PL`
 * already `HR-R`
 * ladder; `HRAERD STPH*FPLT`
 * about `PW`

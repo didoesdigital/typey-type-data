@@ -97,7 +97,7 @@
 * but `PWUT`
 * what `WHA`
 * astonished `A/STOPB/EURBD`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * who `WHO`
 * came `KAEUPL`
 * admire `AD/PHAOEUR`
@@ -123,7 +123,7 @@
 * rare `RAEUR`
 * animal `PHAPBL`
 * deserved `TKAOE/SER/-FD`
-* distinction, `TKWEUPBGS KW-BG`
+* distinction, `STKEUPBGS KW-BG`
 * since `SEUPBS`
 * nature `TPHAEURT`
 * extraordinary `KPRORD`
@@ -262,7 +262,7 @@
 * laments `HRAPLT/-S`
 * "the `KR-GS -T`
 * State `STA*ET`
-* demands `TKPHABDZ`
+* demands `TKPHAPBDZ`
 * successors, `SUBG/SES/ORS KW-BG`
 * have `SR`
 * only `OEPBL`
@@ -345,12 +345,12 @@
 * pleaded `PHRAOED/-D`
 * defied `TKAOE/TPAOEUD`
 * counsellors `KOUPBL/A*U/-S`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * better `PWOERT`
 * she, `SHE KW-BG`
 * thinking `THEUG`
 * impossible. `EUPL/POB TP-PL`
-* Council `KPA/KAUPB/SEUL`
+* Council `KPA/KOUPB/SEUL`
 * treated `TRAETD`
 * promise `PROPLS`
 * trifle, `TRAOEUFL KW-BG`
@@ -502,7 +502,7 @@
 * drawn `TKRAUPB`
 * sheep `SHAOEP`
 * knew `TPHAOU`
-* roads. `ROEDZ TP-PL`
+* roads. `RAODZ TP-PL`
 * When `KPA/WHEPB`
 * arrived `A/RAOEUFD`
 * Fairy, `KPA/TPAEUR/REU KW-BG`
@@ -621,7 +621,7 @@
 * "Either `KR-GS KPA/AOERT`
 * am `APL`
 * greatly `TKPWRAELT`
-* deceived `STKAOEFD`
+* deceived `TKAOE/SAOEFD`
 * or `OR`
 * sun `SUPB`
 * we `WE`
@@ -710,11 +710,11 @@
 * tell `TEL`
 * want `WAPBT`
 * skin." `SKEUPB TP-PL KR-GS`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * avenue `AFP`
 * escape; `SKAEP STPH*FPLT`
 * bring `PWREU`
-* sacrifice `SABG/TPAOEUS`
+* sacrifice `SARBG/TPAOEUS`
 * ass, `A*S KW-BG`
 * latest `HRAEUT/EFT`
 * Although `KPA/HR*T`
@@ -805,7 +805,7 @@
 * invisible `EUPB/SREUBL`
 * cleverest `KHR*EFR/*ES`
 * seekers, `SAOEBG/*ERS KW-BG`
-* escaped `SKAEP/-D`
+* escaped `SKAEPD`
 * vigilance. `SREUPBLG/HRAPBS TP-PL`
 * Meanwhile `KPA/PHAOEPB/WHAOEUL`
 * walked `WAUBGD`
@@ -1075,7 +1075,7 @@
 * marriage, `PHAERPBLG KW-BG`
 * that, `THA KW-BG`
 * subject `SUBT`
-* obey `O/PWAEU`
+* obey `OE/PWAEU`
 * always, `AULS KW-BG`
 * painful `PAEUFL`
 * me." `PHE TP-PL KR-GS`
@@ -1287,7 +1287,7 @@
 * fit `TPEUT`
 * heir `A*EUR`
 * throne. `THRO*EPB TP-PL`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * arrived, `A/RAOEUFD KW-BG`
 * duchesses, `TKUFP/ES/-S KW-BG`
 * marquises, `PHAR/KWAOES/-S KW-BG`
@@ -1480,7 +1480,7 @@
 * kissing `KEUFG`
 * placed `PHRAEUFD`
 * celebrations `SEL/PWRAEUGS/-S`
-* illustrious `EUL/HRUS/TROUS`
+* illustrious `EUL/HRUFT/ROUS`
 * lasted `HRAFT/-D`
 * three `THRAOE`
 * months, `PHO*PBTS KW-BG`

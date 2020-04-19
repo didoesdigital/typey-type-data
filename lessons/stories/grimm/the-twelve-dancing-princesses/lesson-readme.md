@@ -46,7 +46,7 @@
 * yet `KWRET`
 * nobody `TPHOEB`
 * could `KO`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * out `OUT`
 * how `HOU`
 * it `T`

@@ -93,7 +93,7 @@
 * inspected `TPH-PD`
 * by `PWEU`
 * mayor `PHAEUR`
-* council, `KAUPB/SEUL KW-BG`
+* council, `KOUPB/SEUL KW-BG`
 * decide `STKAOEUD`
 * if `TP`
 * fit `TPEUT`
@@ -361,7 +361,7 @@
 * whisper `WEUS/PER`
 * few `TPAOU`
 * words `WORDZ`
-* successor, `SUBG/SES/O*R KW-BG`
+* successor, `SUBG/SES/SOR KW-BG`
 * have `SR`
 * given `TKPWEUFPB`
 * hints `HEUPBTS`
@@ -581,7 +581,7 @@
 * down, `TKOUPB KW-BG`
 * leaving `HREFG`
 * broad, `PWRAOD KW-BG`
-* luminous `HRAOUPL/TPHUS`
+* luminous `HRAOUPL/TPHOUS`
 * streak `STRAOEBG`
 * that?" `THA H-F KR-GS`
 * cried `KRAOEUD`
@@ -906,7 +906,7 @@
 * where `W-R`
 * attracted `A/TRABGD`
 * eyes. `AO*EUS TP-PL`
-* Strangers `KPA/STRAEUPB/SKWRERS`
+* Strangers `KPA/STRAEURPBGS`
 * lumber, `HRUPL/PWER KW-BG`
 * care `KAEUR`
 * that; `THA STPH*FPLT`
@@ -943,7 +943,7 @@
 * taken `TAEPB`
 * foundry `TPOUPBD/REU`
 * caused `KAUFD`
-* council `KAUPB/SEUL`
+* council `KOUPB/SEUL`
 * town-hall. `TOUPB H-PB HAUL TP-PL`
 * endowed `EPB/TKOU/-D`
 * decay `TKE/KAEU`
@@ -958,7 +958,7 @@
 * intended `SPWEPBD/-D`
 * hold `HOLD`
 * taper. `TAEURP TP-PL`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * holding `HOELGD`
 * nosegay, `TPHOES/TKPWAEU KW-BG`
 * centre `STR/A*U`
@@ -971,7 +971,7 @@
 * books `PWAOBGS`
 * scattered `SKAT/ERD`
 * about, `PW KW-BG`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * paintings `PAEUPBGS`
 * walls. `WAULS TP-PL`
 * owner `OERPB`

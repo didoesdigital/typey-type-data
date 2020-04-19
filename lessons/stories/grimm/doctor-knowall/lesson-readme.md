@@ -322,7 +322,7 @@
 * forwards, `TPAORDZ KW-BG`
 * cock. `KOBG TP-PL`
 * As `KPA/AZ`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * immediately `PHAOELD`
 * 'I `AE EU`
 * you `U`

@@ -426,7 +426,7 @@
 * off `OF`
 * rest. `REFT/TP-PL`
 * home `HOEPL`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * looking `HRAOG`
 * fell `TPEL`
 * ill, `EUL KW-BG`
@@ -506,7 +506,7 @@
 * peace `PAES`
 * past `PAFT`
 * saw `SAU`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * wings `WEUPBGS`
 * reaching `RAOEFPG`
 * shoulders `SHOURLDZ`
@@ -677,7 +677,7 @@
 * liked `HRAOEUBGD`
 * much, `PHUFP KW-BG`
 * dress `TKRES`
-* grandeur `TKPWRAPBD/TKUR`
+* grandeur `TKPWRAPBD/AOUR`
 * beauty `PWAOUT`
 * shake `SHAEUBG`
 * head. `HED TP-PL`
@@ -737,7 +737,7 @@
 * polished `POL/EURBD`
 * chairs `KHAEURS`
 * hymn-books. `H*EUPL H-PB PWAOBGS TP-PL`
-* itself `*EUTS`
+* itself `T/SEFL`
 * poor `PAOR`
 * girl `TKPWEURL`
 * narrow `TPHO*EUR`

@@ -30,7 +30,7 @@
 * turned `TURPBD`
 * Cat `KPA/KAT`
 * into `TPHAO`
-* Maiden, `KPA/PHAEUD/EPB KW-BG`
+* Maiden, `KPA/PHAEUD/*EPB KW-BG`
 * and `SKP`
 * gave `TKPWAEUF`
 * her `HER`

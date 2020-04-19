@@ -220,7 +220,7 @@
 * luck. `HRUBG TP-PL`
 * stands `STAPBDZ`
 * an `APB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * something `S-G`
 * roots.' `RAOTS TP-PL AE`
 * took `TAOBG`
@@ -513,7 +513,7 @@
 * die `TKAOEU`
 * hunger.' `HURPBG TP-PL AE`
 * glad, `TKPWHRAD KW-BG`
-* 'Get `AE KPA/TKPW-T`
+* 'Get `AE KPA/TKPWET`
 * me; `PHE STPH*FPLT`
 * yourself `KWRO*URS`
 * full.' `TPUL TP-PL AE`

@@ -233,7 +233,7 @@
 * waters; `WAURS STPH*FPLT`
 * many `PHAEPB`
 * people `PAOEPL`
-* maintain `PHEUPB/TAEUPB`
+* maintain `PHAEUPB/TAEUPB`
 * its `EUTS`
 * strains `STRAEUPBS`
 * forebode `TPOER/PWOED`
@@ -547,7 +547,7 @@
 * really `R-L`
 * sounding, `SOUPBD/-G KW-BG`
 * air `AEUR`
-* itself `*EUTS`
+* itself `T/SEFL`
 * sends `SEPBDZ`
 * notes; `TPHOETS STPH*FPLT`
 * us `US`

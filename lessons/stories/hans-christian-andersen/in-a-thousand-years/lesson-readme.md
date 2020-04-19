@@ -154,7 +154,7 @@
 * step `STEP`
 * European `UR/PAOEPB`
 * shore, `SHOR KW-BG`
-* Shakespeare, `SHAEUBGS/PAER KW-BG`
+* Shakespeare, `SHAEUBG/SPAOER KW-BG`
 * educated `TAEUBGTD`
 * call `KAUL`
 * it; `T STPH*FPLT`

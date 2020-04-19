@@ -25,7 +25,7 @@ Two Maidens
 'paving-stones': PAEUFG H-PB STOEPBS
 'in': TPH
 'the': -T
-'roads.': ROEDZ TP-PL
+'roads.': RAODZ TP-PL
 'A': KPA/AEU
 'maiden': PHAEUD/*EPB
 'of': -F
@@ -105,7 +105,7 @@ Two Maidens
 'to': TO
 'be': -B
 'called': KAULD
-'"maidens,"': KR-GS PHAEUD/EPB/-S KW-BG KR-GS
+'"maidens,"': KR-GS PHAEUD/*EPB/-S KW-BG KR-GS
 'but': PWUT
 '"hand-rammers,"': KR-GS HAPBD H-PB xxx rammers KW-BG KR-GS
 'which': WEU
@@ -185,7 +185,7 @@ Two Maidens
 'themselves.': TH*EPLS TP-PL
 'They': KPA/THE
 'were': WR
-'"maidens"': KR-GS PHAEUD/EPB/-S KR-GS
+'"maidens"': KR-GS PHAEUD/*EPB/-S KR-GS
 'among': PHOPBG
 'the': -T
 'paver': PAFR
@@ -205,7 +205,7 @@ Two Maidens
 'be': -B
 'miscalled': PHEUS/KAULD
 '"rammers.': KR-GS xxx rammers TP-PL
-'"Maiden': KR-GS KPA/PHAEUD/EPB
+'"Maiden': KR-GS KPA/PHAEUD/*EPB
 'is': S
 'a': AEU
 'human': HAOUPL
@@ -268,7 +268,7 @@ Two Maidens
 'scale': SKAEL
 'what': WHA
 'ten': TEPB
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'effect': EFBGT
 'in': TPH
 'a': AEU
@@ -517,7 +517,7 @@ Two Maidens
 'a': AEU
 'little': HREUL
 'of': -F
-'maidens."': PHAEUD/EPB/-S TP-PL KR-GS
+'maidens."': PHAEUD/*EPB/-S TP-PL KR-GS
 '"But': KR-GS KPA/PWUT
 'I': EU
 'would': WO
@@ -550,7 +550,7 @@ Two Maidens
 'that': THA
 'was': WAS
 'a': AEU
-'distinction;': TKWEUPBGS STPH*FPLT
+'distinction;': STKEUPBGS STPH*FPLT
 'but': PWUT
 'still': STEUL
 'they': THE
@@ -627,10 +627,10 @@ Two Maidens
 'those': THOZ
 'who': WHO
 'were': WR
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'were': WR
 'called': KAULD
-'maidens.': PHAEUD/EPB/-S TP-PL
+'maidens.': PHAEUD/*EPB/-S TP-PL
 'And': AFPBD
 'they': THE
 'remained': RE/PHAEUPBD

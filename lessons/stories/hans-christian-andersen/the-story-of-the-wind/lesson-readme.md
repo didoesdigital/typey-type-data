@@ -154,7 +154,7 @@
 * daughters, `TKAURS KW-BG`
 * fair `TPAEUR`
 * delicate `TKEL/KAT`
-* maidens—Ida, `PHAEUD/EPB/-S EPL/TKA*RB xxx Ida KW-BG`
+* maidens—Ida, `PHAEUD/*EPB/-S EPL/TKA*RB xxx Ida KW-BG`
 * Joanna, `SKWROE/APB/KWRA KW-BG`
 * Anna `APB/TPHA`
 * Dorothea; `xxx Dorothea STPH*FPLT`
@@ -272,7 +272,7 @@
 * rest `REFT`
 * Zeeland, `xxx Zeeland KW-BG`
 * where `W-R`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * forest `TPOEFRT`
 * oaks `OEBG/-S`
 * flourished. `TPHROR/EURB/-D TP-PL`
@@ -287,7 +287,7 @@
 * largest `HRARPBLG/EFT`
 * dryest `TKRAOEU/TK-LS/EFT`
 * they `THE`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * carried `KAERD`
 * village, `SREULG KW-BG`
 * piled `PAOEULD`
@@ -296,7 +296,7 @@
 * set `SET`
 * fire. `TPAOEUR TP-PL`
 * Then `KPA/THEPB`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * danced, `TKAPBS/-D KW-BG`
 * sung `SUPBG`
 * circle `KOEURBG`
@@ -326,7 +326,7 @@
 * might `PHAOEUT`
 * choose `KHAOS`
 * lamb `HRAPL`
-* maidens. `PHAEUD/EPB/-S TP-PL`
+* maidens. `PHAEUD/*EPB/-S TP-PL`
 * greater `TKPWRAERT`
 * mirth `PH*EURT`
 * rejoicing `RE/SKWROEUFG`
@@ -359,7 +359,7 @@
 * sport `SPORT`
 * do `TKO`
 * honor. `HO*RPB TP-PL`
-* gracious `TKPWRAURBS`
+* gracious `TKPWRAEURBS`
 * seemed `SAOEPLD`
 * like `HRAOEUBG`
 * flower `TPHRO*UR`
@@ -542,7 +542,7 @@
 * stork's `STORBG AES`
 * left `HREFT`
 * standing; `STAPBG STPH*FPLT`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * however, `HOUF KW-BG`
 * worth `WO*RT`
 * much `PHUFP`
@@ -911,10 +911,10 @@
 * field, `TPAOELD KW-BG`
 * silver `SEUL/SRER`
 * vessels `SREFLS`
-* cupboards `KUP/PWORDZ`
+* cupboards `KUP/PWAORDZ`
 * chests, `KHEFT/-S KW-BG`
 * home `HOEPL`
-* itself? `*EUTS H-F`
+* itself? `T/SEFL H-F`
 * easy `EZ`
 * melt `PHELT`
 * gold-making `TKPWOELD H-PB PHAEUG`
@@ -925,13 +925,13 @@
 * Empty `KPA/EPLT`
 * barns `PWARPB/-S`
 * store-rooms, `STOR H-PB RAOPLS KW-BG`
-* cupboards; `KUP/PWORDZ STPH*FPLT`
+* cupboards; `KUP/PWAORDZ STPH*FPLT`
 * servants `SER/SRAPBTS`
 * decreased `TKE/KRAOES/-D`
 * number, `TPHUPL KW-BG`
 * mice `PHAOEUS`
 * multiplied. `PHULT/PHRAOEUD TP-PL`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * window `WOEUPBD`
 * broken, `PWROEPB KW-BG`
 * another, `TPHOER KW-BG`
@@ -1360,7 +1360,7 @@
 * year, `KWRAOER KW-BG`
 * bare `PWAEUR`
 * empty `EPLT`
-* cupboards. `KUP/PWORDZ TP-PL`
+* cupboards. `KUP/PWAORDZ TP-PL`
 * magpies `PHAG/PAOEU/*S`
 * cried, `KRAOEUD KW-BG`
 * contempt, `KAUPB/TEPLT KW-BG`
@@ -1517,7 +1517,7 @@
 * proudest `PROUD/EFT`
 * sisters," `ST-RS KW-BG KR-GS`
 * "Her `KR-GS KPA/HER`
-* courage `KURPBLG`
+* courage `KORPBLG`
 * man; `PHAPB STPH*FPLT`
 * served `SEFRBD`
 * sailor `SAEU/HROR`

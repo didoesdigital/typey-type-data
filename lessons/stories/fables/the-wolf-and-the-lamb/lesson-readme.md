@@ -36,7 +36,7 @@
 * only `OEPBL`
 * I `EU`
 * can `K`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * some `SOPL`
 * excuse `SKAOUS`
 * seize `SAOEZ`

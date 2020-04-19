@@ -16,7 +16,7 @@
 * shoes, `SHAOUS KW-BG`
 * and `SKP`
 * the `-T`
-* misfortunes `PHEUS/TPOR/TAOUPB/-S`
+* misfortunes `PHEUZ/TP-RPB/-S`
 * that `THA`
 * happened `HAPD`
 * in `TPH`
@@ -190,7 +190,7 @@
 * young `KWRUPBG`
 * laboring `HRAEUB/-G`
 * men `PHEPB`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * standing `STAPBG`
 * together `TOGT`
 * chatting, `KHAGT KW-BG`
@@ -321,7 +321,7 @@
 * Woman `KPA/WOPL`
 * related `RAELTD`
 * elf `*EFL`
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * well-known, `WEL H-PB TPHOEPB KW-BG`
 * songs `SOPBGS`
 * sung `SUPBG`
@@ -425,7 +425,7 @@
 * mud; `PHUD STPH*FPLT`
 * snake `STPHAEUBG`
 * also `HR-S`
-* itself `*EUTS`
+* itself `T/SEFL`
 * hair, `HAEUR KW-BG`
 * hung `HUPBG`
 * back, `PWABG KW-BG`
@@ -497,7 +497,7 @@
 * tears `TAERS`
 * sorrow `SROE`
 * sheds `SHEDZ`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * way `WAEU`
 * child's `KHAOEULD/AES`
 * heart, `HART KW-BG`
@@ -695,7 +695,7 @@
 * In `KPA/TPH`
 * hour `HOUR`
 * existence `KPEUFS`
-* events `AOEPBTS`
+* events `AOEFPBTS`
 * life `HRAOEUF`
 * appear `A/PAOER`
 * us; `US STPH*FPLT`
@@ -729,7 +729,7 @@
 * soul, `SOUL KW-BG`
 * unexpected `UPB/EBGS/PEBGD`
 * obtained `OB/TAEUPBD`
-* angel's `APBG/EL AES`
+* angel's `APB/SKWREL AES`
 * tears. `TAERS TP-PL`
 * act `ABGT`
 * again `TKPWEPB`
@@ -890,7 +890,7 @@
 * Our `KPA/OUR`
 * flew `TPHRAOU`
 * public `PHREUBG`
-* roads, `ROEDZ KW-BG`
+* roads, `RAODZ KW-BG`
 * there, `THR KW-BG`
 * ruts `RUTS`
 * sledges, `SHREPBLG/-S KW-BG`

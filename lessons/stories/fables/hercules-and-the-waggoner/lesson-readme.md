@@ -4,7 +4,7 @@
 * Waggoner `KPA/WAG/TKPWOPB/TK-LS/*ER`
 * was `WAS`
 * once `WUPBS`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * a `AEU`
 * heavy `HOEUF`
 * load `HRAOD`
@@ -62,7 +62,7 @@
 * don't `TKOEPBT`
 * sprawl `SPRAUL`
 * there. `THR TP-PL`
-* Get `KPA/TKPW-T`
+* Get `KPA/TKPWET`
 * up `UP`
 * put `PUT`
 * your `KWROUR`

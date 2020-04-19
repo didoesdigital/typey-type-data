@@ -158,7 +158,7 @@
 * moonlight." `PHAOLGT TP-PL KR-GS`
 * "Who `KR-GS KPA/WHO`
 * can `K`
-* strangers `STRAEUPB/SKWRERS`
+* strangers `STRAEURPBGS`
 * be?" `-B H-F KR-GS`
 * asked `SK-D`
 * "what `KR-GS WHA`
@@ -200,7 +200,7 @@
 * "trip, `KR-GS TREUP KW-BG`
 * trip;" `TREUP STPH*FPLT KR-GS`
 * good `TKPWAOD`
-* gracious, `TKPWRAURBS KW-BG`
+* gracious, `TKPWRAEURBS KW-BG`
 * trip `TREUP`
 * right `RAOEUT`
 * down `TKOUPB`
@@ -316,7 +316,7 @@
 * flew `TPHRAOU`
 * away `A/WAEU`
 * invitations. `EUPB/SREU/TAEUGS/-S TP-PL`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * we're `WAOER`
 * already `HR-R`
 * dancing `TKAPBS/-G`

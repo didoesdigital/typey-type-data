@@ -218,7 +218,7 @@
 * moment, `PHOEPLT KW-BG`
 * for `TPOR`
 * pleased `PHRAOEFD`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * such `SUFP`
 * description `SKREUPGS`
 * city, `STEU KW-BG`
@@ -501,7 +501,7 @@
 * raising `RA*EUFG`
 * voice, `SROEUS KW-BG`
 * "our `KR-GS OUR`
-* gracious `TKPWRAURBS`
+* gracious `TKPWRAEURBS`
 * wishes `WEURBS`
 * sing `SEUPBG`
 * him." `HEUPL TP-PL KR-GS`
@@ -949,7 +949,7 @@
 * away `A/WAEU`
 * pay `PAEU`
 * homage `OPL/APBLG`
-* successor. `SUBG/SES/O*R TP-PL`
+* successor. `SUBG/SES/SOR TP-PL`
 * chamberlains `KHAEURPL/TK-LS/HRAEUPB/-S`
 * talk `TAUBG`
 * matter, `PHAERT KW-BG`
@@ -975,7 +975,7 @@
 * open, `OEP KW-BG`
 * moon `PHAOPB`
 * shone `SHO*EPB`
-* finding `TPAOEPBGD`
+* finding `TPAOEUPBGD`
 * scarcely `SKAEURS/HREU`
 * breathe `PWRAO*ET`
 * weight `WAET`

@@ -110,7 +110,7 @@
 * Joseph `SKWROE/SEF`
 * Thomas `THOPLS`
 * Charles `KHARLS`
-* Christopher `KHEUFT/TPER`
+* Christopher `KREUFRT`
 * Daniel `TKAPBL`
 * Matthew `PH*T/AOU`
 * Anthony `A*PBT/TPHEU`

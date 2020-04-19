@@ -277,7 +277,7 @@
 * surely `SHURL`
 * witnessed `W-PBS/-D`
 * pleasure `PHRERB`
-* honour `HO*URPB/A*U`
+* honour `H*/O*/TPH*/O*/*U/R*`
 * done `TKOPB`
 * understood `*URPBD`
 * joy. `SKWROEU TP-PL`
@@ -382,7 +382,7 @@
 * Indeed, `KPA/TPHAOEPBD KW-BG`
 * difficult `TKEUFL`
 * such `SUFP`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * out. `OUT TP-PL`
 * entirely `SPWAOEURL`
 * forgot `TPAURGT`
@@ -486,7 +486,7 @@
 * thrust `THRUFT`
 * beak `PWAOEBG`
 * refresh `RERB`
-* itself `*EUTS`
+* itself `T/SEFL`
 * little. `HREUL TP-PL`
 * noticed `TPH-TS/-D`
 * nodded `TPHOD/-D`

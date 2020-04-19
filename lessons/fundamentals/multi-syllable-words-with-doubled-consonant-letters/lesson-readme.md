@@ -205,7 +205,7 @@
 * uttered `UT/ERD`
 * attend `A/TEPBD`
 * afford `AFRD`
-* doubtless `TKOUT/-LS`
+* doubtless `TKOUT/*LS`
 * error `ROEUR`
 * appeal `AEP`
 * commercial `KPHERBL`
@@ -227,7 +227,7 @@
 * attempted `A/TEPL/-D`
 * announcement `TPHOUPLT`
 * smaller `SPHAURL`
-* essential `SERBL`
+* essential `AOEGS`
 * millions `PH-LS`
 * merry `PHER/REU`
 * applicable `PHREUBL`
@@ -295,7 +295,7 @@
 * preferred `PREFRD`
 * happens `HAPS`
 * Billy `PWEUL/HREU`
-* Holland `H-L/HRAPBD`
+* Holland `HOL/HRAPBD`
 * disappointed `TKEUS/POEUPBTD`
 * arrive `A/RAOEUF`
 * legally `HRAOEG/HREU`
@@ -391,7 +391,7 @@
 * recollection `REBGT/-G`
 * innocence `TPHEPBS`
 * endless `EPBD/-LS`
-* occupy `OBG/PEU`
+* occupy `OBG/PAOEU`
 * commons `KPHOPBS`
 * commanding `KPHAPBD/-G`
 * madness `PHAD/-PBS`
@@ -416,7 +416,7 @@
 * parallel `PHREL`
 * submitted `SPHEUTD`
 * fanny `TPAPB/KWREU`
-* illustrious `EUL/HRUS/TROUS`
+* illustrious `EUL/HRUFT/ROUS`
 * Anna `APB/TPHA`
 * array `A/RAEU`
 * bitterness `PWEURT/-PBS`
@@ -553,7 +553,7 @@
 * accurate `ABG/R-T`
 * sadness `SAD/-PBS`
 * wonderfully `WOPBD/TPHREU`
-* successor `SUBG/SES/O*R`
+* successor `SUBG/SES/SOR`
 * allied `A/HRAOEU/-D`
 * appealed `AEP/-D`
 * submission `SPHEUGS`
@@ -611,7 +611,7 @@
 * distressed `STKREFD`
 * Scottish `SKOT/EURB`
 * assertion `A/SERGS`
-* accessible `ABG/SES/-BL`
+* accessible `ABG/SES/EUBL`
 * newsletter `TPHUS/HRER`
 * battery `PWAT/REU`
 * attraction `A/TRABGS`
@@ -814,10 +814,10 @@
 * correspondent `KOR/SPOPBT`
 * ridden `REUD/-PB`
 * Addison `AD/SO*PB`
-* illustrate `EULS/TRAEUT`
+* illustrate `EUL/STRAEUT`
 * freshness `TPRERB/-PBS`
 * equipped `KWEUPD`
-* incessant `EUPB/SEPBT`
+* incessant `EUPB/SEFPBT`
 * correctly `KRELG`
 * pillar `PEUL/AR`
 * rattle `RA*LT`
@@ -829,7 +829,7 @@
 * intelligible `EUPB/TEL/EUBL`
 * Jenny `SKWREPB/KWREU`
 * robbery `ROB/REU`
-* transmitted `TRAPBS/PHEUTD`
+* transmitted `TRAPBZ/PHEUTD`
 * mechanically `PH-BG/HREU`
 * batteries `PWAT/REUS`
 * idleness `AOEUD/-L/-PBS`
@@ -866,7 +866,7 @@
 * thrilling `THREULG`
 * abyss `A/PWEUS`
 * planning `PHRAPBG`
-* incessantly `EUPB/SEPBT/HREU`
+* incessantly `EUPB/SEFPBT/HREU`
 * flattery `TPHRAT/REU`
 * buttons `PW*PBS`
 * frankness `TPRAPBG/-PBS`
@@ -920,7 +920,7 @@
 * oppressive `OP/PRES/EUF`
 * fearless `TPAOERLS`
 * motto `PHOT/TOE`
-* fruitless `TPRAOUT/-LS`
+* fruitless `TPRAOUT/HRES`
 * effectual `EFBG/KHUL`
 * tissue `T*EURB`
 * impelled `EUPL/PELD`
@@ -1177,7 +1177,7 @@
 * illegal `EUL/HRAOEL`
 * dissolve `TKEUS/OFL`
 * sullenly `SUL/-PB/HREU`
-* assassination `A/AS/TPHAEUGS`
+* assassination `A/SAS/TPHAEUGS`
 * commissions `KPHEUGS/-S`
 * Maxwell `PHABGS/WEL`
 * pitiless `PEUT/*EULS`

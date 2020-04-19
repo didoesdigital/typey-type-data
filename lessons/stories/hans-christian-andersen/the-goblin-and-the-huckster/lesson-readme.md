@@ -459,7 +459,7 @@
 * stairs; `STAEURS STPH*FPLT`
 * so, `SO KW-BG`
 * glimmered `TKPWHREUPL/ERD`
-* courage, `KURPBLG KW-BG`
+* courage, `KORPBLG KW-BG`
 * seemed `SAOEPLD`
 * strong `STROPBG`
 * cables, `KAEUBLS KW-BG`

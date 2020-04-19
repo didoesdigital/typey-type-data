@@ -422,7 +422,7 @@
 * many, `PHAEPB KW-BG`
 * nightingales, `TPHAOEUT/-G/TKPWAEL/-S KW-BG`
 * how `HOU`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * Jorinda? `xxx Jorinda H-F`
 * While `KPA/WHAOEUL`
 * thinking `THEUG`
@@ -450,7 +450,7 @@
 * years: `KWRAOERS STPH-FPLT`
 * good `TKPWAOD`
 * lads, `HRADZ KW-BG`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * been `PW-PB`
 * forced `TPOFRD`
 * sing `SEUPBG`

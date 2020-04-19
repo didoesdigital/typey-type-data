@@ -295,7 +295,7 @@ The Twelve Huntsmen
 'until': TPH-L
 'eleven': HREFPB
 'young': KWRUPBG
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'were': WR
 'found': TPOUPBD
 'who': WHO
@@ -328,7 +328,7 @@ The Twelve Huntsmen
 'and': SKP
 'the': -T
 'eleven': HREFPB
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'had': H
 'to': TO
 'put': PUT
@@ -614,7 +614,7 @@ The Twelve Huntsmen
 'said': SAEUD
 'to': TO
 'her': HER
-'maidens:': PHAEUD/EPB/-S STPH-FPLT
+'maidens:': PHAEUD/*EPB/-S STPH-FPLT
 ''Show': AE KPA/SHOE
 'some': SOPL
 'strength,': STREPBG KW-BG
@@ -830,7 +830,7 @@ The Twelve Huntsmen
 'lion:': HRO*EUPB STPH-FPLT
 ''You': AE KPA/U
 'have': SR
-'deceived': STKAOEFD
+'deceived': TKAOE/SAOEFD
 'me,': PHE KW-BG
 'they': THE
 'are': R

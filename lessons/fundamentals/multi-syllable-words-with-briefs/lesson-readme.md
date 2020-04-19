@@ -118,6 +118,7 @@
 * reasonable `R-PBL`
 * artist `TR-FT`
 * ocean `OEGS`
+* essential `AOEGS`
 * millions `PH-LS`
 * district `TR-T`
 * conviction `K-FBGS`

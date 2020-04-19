@@ -170,7 +170,7 @@
 * thankfulness `THAPB/K-FL/-PBS`
 * trust; `TRUFT STPH*FPLT`
 * when, `WHEPB KW-BG`
-* amidst `A/PH*EUS`
+* amidst `A/PH*EUFD`
 * sounds, `SOUPBDZ KW-BG`
 * son `SOPB`
 * born `PWORPB`
@@ -224,7 +224,7 @@
 * received `SAOEFD`
 * added, `AD/-D KW-BG`
 * "John `KR-GS SKWROPB`
-* Christopher `KHEUFT/TPER`
+* Christopher `KREUFRT`
 * Frederick." `TPRED/REUBG TP-PL KR-GS`
 * what `WHA`
 * became `PWAEUPL`
@@ -436,7 +436,7 @@
 * future `TPAOURT`
 * enviable. `EPB/SREUBL TP-PL`
 * We `KPA/WE`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * taking `TAEUG`
 * honors `HO*RPBS`
 * military `PHEUL/TAER`

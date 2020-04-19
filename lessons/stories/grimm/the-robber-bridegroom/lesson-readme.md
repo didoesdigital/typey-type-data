@@ -55,7 +55,7 @@
 * him `HEUPL`
 * with `W`
 * which `WEU`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * fault, `TPAULT KW-BG`
 * betrothed `PWE/TRO*T/-D`
 * his `HEUS`
@@ -553,7 +553,7 @@
 * fast. `TPAFT TP-PL`
 * delivered `TKHREUFRD`
 * justice, `SKWRUFS KW-BG`
-* murderous `PHURD/RUS`
+* murderous `PHURD/ROUS`
 * band `PWAPBD`
 * condemned `KAUPB/TKEPL/-D`
 * wicked `WEUBGD`

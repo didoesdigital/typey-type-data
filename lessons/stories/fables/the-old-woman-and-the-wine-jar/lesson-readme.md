@@ -29,7 +29,7 @@
 * to `TO`
 * it `T`
 * hoping `HOEPG`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * full. `TPUL TP-PL`
 * But `KPA/PWUT`
 * when `WHEPB`

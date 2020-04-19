@@ -310,7 +310,7 @@
 * brightness `PWRAOEUT/-PBS`
 * pinions `PEUPB/KWROPB/-S`
 * mighty `PHAOEUT/KWREU`
-* angel, `APBG/EL KW-BG`
+* angel, `APB/SKWREL KW-BG`
 * whose `WHOZ`
 * beaming `PWAEPL/-G`
 * face `TPAEUS`
@@ -318,9 +318,9 @@
 * As `KPA/AZ`
 * cup `KUP`
 * lily, `HREUL/KWREU KW-BG`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * rose `ROEZ`
-* amidst `A/PH*EUS`
+* amidst `A/PH*EUFD`
 * Bible; `PWAO*EUBL STPH*FPLT`
 * and, `SKP KW-BG`
 * stretching `STREFPG`
@@ -410,7 +410,7 @@
 * away, `A/WAEU KW-BG`
 * ice `AOEUS`
 * shadow `SHO*EUD`
-* angel's `APBG/EL AES`
+* angel's `APB/SKWREL AES`
 * wings, `WEUPBGS KW-BG`
 * smiled `SPHAOEULD`
 * spirit; `SPEURT STPH*FPLT`

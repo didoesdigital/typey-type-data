@@ -110,7 +110,7 @@ The Money-Box
 'stood': STAOD
 'upon': POPB
 'the': -T
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'high': HAOEU
 'and': SKP
 'lofty,': HROF/TEU KW-BG
@@ -928,7 +928,7 @@ The Money-Box
 'money-pig': PHUPB H-PB PEUG
 'on': OPB
 'the': -T
-'cupboard,': WUP/PWORD KW-BG
+'cupboard,': KUP/PWAORD KW-BG
 'but': PWUT
 'it': T
 'had': H

@@ -7,7 +7,7 @@
 * had `H`
 * a `AEU`
 * general `SKWREPBL`
-* council `KAUPB/SEUL`
+* council `KOUPB/SEUL`
 * to `TO`
 * consider `KR`
 * what `WHA`

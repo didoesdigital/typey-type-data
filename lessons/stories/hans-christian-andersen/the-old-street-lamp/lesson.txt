@@ -137,7 +137,7 @@ The Old Street Lamp
 'mayor': PHAEUR
 'and': SKP
 'the': -T
-'council,': KAUPB/SEUL KW-BG
+'council,': KOUPB/SEUL KW-BG
 'who': WHO
 'were': WR
 'to': TO
@@ -738,7 +738,7 @@ The Old Street Lamp
 'not': TPHOT
 'know': TPHOE
 'his': HEUS
-'successor,': SUBG/SES/O*R KW-BG
+'successor,': SUBG/SES/SOR KW-BG
 'or': OR
 'he': HE
 'could': KO
@@ -973,7 +973,7 @@ The Old Street Lamp
 'of': -F
 'naming': TPHAEUPL/-G
 'his': HEUS
-'successor,': SUBG/SES/O*R KW-BG
+'successor,': SUBG/SES/SOR KW-BG
 'they': THE
 'said': SAEUD
 'they': THE
@@ -1370,7 +1370,7 @@ The Old Street Lamp
 'leaving': HREFG
 'a': AEU
 'broad,': PWRAOD KW-BG
-'luminous': HRAOUPL/TPHUS
+'luminous': HRAOUPL/TPHOUS
 'streak': STRAOEBG
 'behind': HEUPBD
 'it.': T TP-PL
@@ -2388,7 +2388,7 @@ The Old Street Lamp
 'attracted': A/TRABGD
 'all': AUL
 'eyes.': AO*EUS TP-PL
-'Strangers': KPA/STRAEUPB/SKWRERS
+'Strangers': KPA/STRAEURPBGS
 'looked': HRAOBGD
 'upon': POPB
 'it': T
@@ -2561,7 +2561,7 @@ The Old Street Lamp
 'mayor': PHAEUR
 'and': SKP
 'the': -T
-'council': KAUPB/SEUL
+'council': KOUPB/SEUL
 'at': AT
 'the': -T
 'town-hall.': TOUPB H-PB HAUL TP-PL
@@ -2626,7 +2626,7 @@ The Old Street Lamp
 'form': TPORPL
 'of': -F
 'an': APB
-'angel': APBG/EL
+'angel': APB/SKWREL
 'holding': HOELGD
 'a': AEU
 'nosegay,': TPHOES/TKPWAEU KW-BG
@@ -2662,7 +2662,7 @@ The Old Street Lamp
 'scattered': SKAT/ERD
 'about,': PW KW-BG
 'and': SKP
-'splendid': SPHREPBD/EUD
+'splendid': SPHREPB/TKEUD
 'paintings': PAEUPBGS
 'hung': HUPBG
 'on': OPB

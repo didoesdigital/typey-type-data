@@ -203,7 +203,7 @@
 * every `EF`
 * from `TPR`
 * her.' `HER TP-PL AE`
-* 'First `AE KPA/TPEURS`
+* 'First `AE KPA/TPEUFRT`
 * show `SHOE`
 * us `US`
 * mother.' `PHOER TP-PL AE`
@@ -234,7 +234,7 @@
 * fourth `TPO*URT`
 * kitchen, `K-FP KW-BG`
 * fifth `TP*EUT`
-* cupboard, `WUP/PWORD KW-BG`
+* cupboard, `KUP/PWAORD KW-BG`
 * sixth `S*BGS`
 * washing-bowl, `WARBG H-PB PWOEL KW-BG`
 * seventh `S*EPBT`
@@ -253,7 +253,7 @@
 * clock-case, `KHROBG H-PB KAEUS KW-BG`
 * only `OEPBL`
 * did `TK`
-* find. `TPEUPBD TP-PL`
+* find. `TPAOEUPBD TP-PL`
 * When `KPA/WHEPB`
 * satisfied `SAED`
 * appetite `AP/TAOEUT`

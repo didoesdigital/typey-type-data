@@ -437,7 +437,7 @@
 * happened, `HAPD KW-BG`
 * most `PHOFT`
 * important `PORPB`
-* events `AOEPBTS`
+* events `AOEFPBTS`
 * yet `KWRET`
 * told. `TOLD TP-PL`
 * pleasant `PHREFPBT`
@@ -497,7 +497,7 @@
 * meantime `PHAO*EPB/TAOEUPL`
 * drawbridge `TKRAU/PWREUPBLG`
 * grown `TKPWROEPB`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * there, `THR KW-BG`
 * free, `TPRAOE KW-BG`
 * never `TPHEFR`
@@ -657,7 +657,7 @@
 * acted `ABGD`
 * here, `HAOER KW-BG`
 * once `WUPBS`
-* honour `HO*URPB/A*U`
+* honour `H*/O*/TPH*/O*/*U/R*`
 * glory `TKPWHROER`
 * hung `HUPBG`
 * passage `PAFPBLG`
@@ -844,7 +844,7 @@
 * highest `HAOEU/EFT`
 * circles. `SOEURBGS TP-PL`
 * Nobility `KPA/TPHOEBLT`
-* distinction; `TKWEUPBGS STPH*FPLT`
+* distinction; `STKEUPBGS STPH*FPLT`
 * gold `TKPWOELD`
 * coin `KOEUPB`
 * bears `PWAERS`
@@ -935,7 +935,7 @@
 * legs `HREGS`
 * neighs `TPHAEUG/-S`
 * street `STRAOET`
-* Arabian `A*EURB/KWRAPB`
+* Arabian `A/RAEUB/KWRAPB`
 * horse, `HORS KW-BG`
 * says `SEZ`
 * commoner `KPHOPB/*ER`
@@ -1085,7 +1085,7 @@
 * families `TPAEPLS`
 * country, `KREU KW-BG`
 * untouched `UPB/TUFPD`
-* honour; `HO*URPB/A*U STPH*FPLT`
+* honour; `H*/O*/TPH*/O*/*U/R* STPH*FPLT`
 * just, `SKWRUFT KW-BG`
 * one's `W*UPBS`
 * duty `TKAOUT`
@@ -1103,11 +1103,11 @@
 * strange `STRAEUPBG`
 * place. `PHRAEUS TP-PL`
 * banker's `PWAPB/KER AES`
-* driving `TKRAOFG`
+* driving `TKRAOEUFG`
 * coach `KOEFP`
 * four, `TPOUR KW-BG`
 * blown `PWHROEPB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * room `RAOPL`
 * behind `HEUPBD`
 * footmen. `TPAOT/PH*EPB TP-PL`

@@ -113,9 +113,9 @@
 * Let `KPA/HRET`
 * us `US`
 * see `SAOE`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * plaything-box. `PHRAEU/THEUPBG H-PB PWOBGS TP-PL`
-* First `KPA/TPEURS`
+* First `KPA/TPEUFRT`
 * personages, `PERPB/APBLG/-S KW-BG`
 * then `THEPB`
 * ready. `R-D TP-PL`
@@ -372,7 +372,7 @@
 * "They `KR-GS KPA/THE`
 * grandpapa; `xxx grandpapa STPH*FPLT`
 * public `PHREUBG`
-* demands `TKPHABDZ`
+* demands `TKPHAPBDZ`
 * it, `T KW-BG`
 * talk `TAUBG`
 * way. `WAEU TP-PL`
@@ -573,6 +573,6 @@
 * natural, `TPHARL KW-BG`
 * passed `PAFD`
 * away `A/WAEU`
-* interval `EUPT/SRAL`
+* interval `EUPBT/SRAL`
 * before `PW-FP`
 * tea-time." `TAE H-PB TAOEUPL TP-PL KR-GS`

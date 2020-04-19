@@ -142,7 +142,7 @@
 * wife: `WAOEUF STPH-FPLT`
 * her, `HER KW-BG`
 * shall `SHAL`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * any `TPHEU`
 * upon `POPB`
 * earth, `*ERT KW-BG`

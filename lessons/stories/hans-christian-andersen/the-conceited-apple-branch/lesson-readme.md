@@ -111,7 +111,7 @@
 * castle, `KAFL KW-BG`
 * lofty `HROF/TEU`
 * halls `HAULS`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * drawing-rooms. `TKRAUG H-PB RAOPLS TP-PL`
 * Pure `KPA/PAOUR`
 * white `WHAOEUT`
@@ -188,7 +188,7 @@
 * great `TKPWRAET`
 * deal `TKAOEL`
 * do `TKO`
-* maintain `PHEUPB/TAEUPB`
+* maintain `PHAEUPB/TAEUPB`
 * own `OEPB`
 * importance, `PORPBS KW-BG`
 * while `WHAOEUL`
@@ -355,7 +355,7 @@
 * fly `TPHRAOEU`
 * away `A/WAEU`
 * pieces `PAOEFS`
-* roads, `ROEDZ KW-BG`
+* roads, `RAODZ KW-BG`
 * cling `KHREUPBG`
 * dresses `TKRES/-S`
 * people. `PAOEPL TP-PL`
@@ -455,7 +455,7 @@
 * raised `RA*EUFD`
 * prophet `PRO*FT`
 * foreteller `TPOER/TEL/*ER`
-* events. `AOEPBTS TP-PL`
+* events. `AOEFPBTS TP-PL`
 * "Do `KR-GS KPA/TKO`
 * see," `SAOE KW-BG KR-GS`
 * "do `KR-GS TKO`

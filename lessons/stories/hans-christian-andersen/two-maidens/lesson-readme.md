@@ -22,7 +22,7 @@
 * the `-T`
 * paving-stones `PAEUFG H-PB STOEPBS`
 * in `TPH`
-* roads. `ROEDZ TP-PL`
+* roads. `RAODZ TP-PL`
 * A `KPA/AEU`
 * maiden `PHAEUD/*EPB`
 * of `-F`
@@ -79,7 +79,7 @@
 * longer `HRORPBG`
 * be `-B`
 * called `KAULD`
-* "maidens," `KR-GS PHAEUD/EPB/-S KW-BG KR-GS`
+* "maidens," `KR-GS PHAEUD/*EPB/-S KW-BG KR-GS`
 * but `PWUT`
 * "hand-rammers," `KR-GS HAPBD H-PB xxx rammers KW-BG KR-GS`
 * word `WORD`
@@ -128,7 +128,7 @@
 * women `WEUPL`
 * associated `SOERBD`
 * themselves. `TH*EPLS TP-PL`
-* "maidens" `KR-GS PHAEUD/EPB/-S KR-GS`
+* "maidens" `KR-GS PHAEUD/*EPB/-S KR-GS`
 * paver `PAFR`
 * folk, `TPOEBG KW-BG`
 * determined `TKERPLD`
@@ -141,7 +141,7 @@
 * themselves `TH*EPLS`
 * miscalled `PHEUS/KAULD`
 * "rammers. `KR-GS xxx rammers TP-PL`
-* "Maiden `KR-GS KPA/PHAEUD/EPB`
+* "Maiden `KR-GS KPA/PHAEUD/*EPB`
 * name, `TPHAEUPL KW-BG`
 * hand-rammer `HA*EPBD xxx rammer`
 * thing, `THEUPBG KW-BG`
@@ -173,7 +173,7 @@
 * large `HRARPBLG`
 * scale `SKAEL`
 * ten `TEPB`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * effect `EFBGT`
 * similar `SHRAR`
 * way. `WAEU TP-PL`
@@ -288,7 +288,7 @@
 * 'Missy,' `AE xxx Missy KW-BG AE`
 * reminds `RAO*EUPBDZ`
 * little `HREUL`
-* maidens." `PHAEUD/EPB/-S TP-PL KR-GS`
+* maidens." `PHAEUD/*EPB/-S TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * chopped `KHOPD`
 * chips," `KHEUPS KW-BG KR-GS`
@@ -299,7 +299,7 @@
 * is, `S-RBGS`
 * put `PUT`
 * wheelbarrow, `WHAOEL/PWAR/ROE KW-BG`
-* distinction; `TKWEUPBGS STPH*FPLT`
+* distinction; `STKEUPBGS STPH*FPLT`
 * still `STEUL`
 * "hand-rammers." `KR-GS HAPBD H-PB xxx rammers TP-PL KR-GS`
 * "Mai—!" `KR-GS PH*P/A*/*EU EPL/TKA*RB SKHRAPL KR-GS`
@@ -330,7 +330,7 @@
 * days `TKAEUS`
 * right `RAOEUT`
 * those `THOZ`
-* maidens. `PHAEUD/EPB/-S TP-PL`
+* maidens. `PHAEUD/*EPB/-S TP-PL`
 * And `AFPBD`
 * remained `RE/PHAEUPBD`
 * were; `WR STPH*FPLT`

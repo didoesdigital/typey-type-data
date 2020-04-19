@@ -359,7 +359,7 @@
 * dressed `TKREFD`
 * up `UP`
 * most `PHOFT`
-* splendid `SPHREPBD/EUD`
+* splendid `SPHREPB/TKEUD`
 * manner. `PHAERPB TP-PL`
 * We `KPA/WE`
 * seen `SAOEPB`
@@ -425,7 +425,7 @@
 * Yes, `KPA/KWRE KW-BG`
 * follows `TPOLS`
 * grander `TKPWRAPBD/*ER`
-* splendid. `SPHREPBD/EUD TP-PL`
+* splendid. `SPHREPB/TKEUD TP-PL`
 * be? `-B H-F`
 * weary `WAOE/REU`
 * longing. `HROPBG/-G TP-PL`
@@ -488,7 +488,7 @@
 * journey `SKWRURPB`
 * pleasant. `PHREFPBT TP-PL`
 * recovered `ROFRD`
-* itself `*EUTS`
+* itself `T/SEFL`
 * being `-BG`
 * unpacked `UPB/PABGD`
 * courtyard `KORT/KWRARD`
@@ -989,7 +989,7 @@
 * air. `AEUR TP-PL`
 * quickly, `KWEULG KW-BG`
 * forgot `TPAURGT`
-* itself, `*EUTS KW-BG`
+* itself, `T/SEFL KW-BG`
 * about, `PW KW-BG`
 * seen. `SAOEPB TP-PL`
 * court `KORT`

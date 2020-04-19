@@ -169,7 +169,7 @@
 * kingdom, `KEUPBG/TKOPL KW-BG`
 * until `TPH-L`
 * young `KWRUPBG`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * were `WR`
 * found `TPOUPBD`
 * resembled `RE/SEPL/-BLD`
@@ -289,7 +289,7 @@
 * believe `PWHREF`
 * thanked `THAPBGD`
 * him, `HEUPL KW-BG`
-* maidens: `PHAEUD/EPB/-S STPH-FPLT`
+* maidens: `PHAEUD/*EPB/-S STPH-FPLT`
 * 'Show `AE KPA/SHOE`
 * strength, `STREPBG KW-BG`
 * step `STEP`
@@ -348,7 +348,7 @@
 * through `THRU`
 * never `TPHEFR`
 * spinning-wheels. `SPEUPBG H-PB WHAOELS TP-PL`
-* deceived `STKAOEFD`
+* deceived `TKAOE/SAOEFD`
 * men, `PHEPB KW-BG`
 * replied: `RE/PHRAOEUD STPH-FPLT`
 * restrained `RAOE/STRAEUPBD`

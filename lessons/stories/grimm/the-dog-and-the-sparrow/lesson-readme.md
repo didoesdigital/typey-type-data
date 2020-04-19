@@ -73,7 +73,7 @@
 * I `EU`
 * will `HR`
 * soon `SAOPB`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * plenty `PHREPBT`
 * food.' `TPAOD TP-PL AE`
 * So `KPA/SO`

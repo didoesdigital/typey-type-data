@@ -749,7 +749,7 @@ Frederick and Catherine
 'and': SKP
 'you': U
 'will': HR
-'find': TPEUPBD
+'find': TPAOEUPBD
 'the': -T
 'yellow': KWREL/OE
 'buttons:': PW*PBS STPH-FPLT
@@ -1099,7 +1099,7 @@ Frederick and Catherine
 'same': SAEUPL
 'way': WAEU
 'and': SKP
-'find': TPEUPBD
+'find': TPAOEUPBD
 'you;': U STPH*FPLT
 'he': HE
 'has': HAS
@@ -1212,7 +1212,7 @@ Frederick and Catherine
 'after': AF
 'it': T
 'to': TO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'it,': T KW-BG
 'and': SKP
 'I': EU
@@ -1416,7 +1416,7 @@ Frederick and Catherine
 'is': S
 'the': -T
 'door': TKAOR
-'itself,': *EUTS KW-BG
+'itself,': T/SEFL KW-BG
 'you': U
 'may': PHAE
 'watch': WAFP
@@ -1537,7 +1537,7 @@ Frederick and Catherine
 'they': THE
 'could': KO
 'not': TPHOT
-'find': TPEUPBD
+'find': TPAOEUPBD
 'them:': THEPL STPH-FPLT
 'and': SKP
 'when': WHEPB
@@ -1586,7 +1586,7 @@ Frederick and Catherine
 'of': -F
 'people': PAOEPL
 'who': WHO
-'find': TPEUPBD
+'find': TPAOEUPBD
 'things': THEUPBGS
 'before': PW-FP
 'they': THE
@@ -1809,7 +1809,7 @@ Frederick and Catherine
 'was': WAS
 'the': -T
 'door': TKAOR
-'itself': *EUTS
+'itself': T/SEFL
 'that': THA
 'was': WAS
 'so': SO

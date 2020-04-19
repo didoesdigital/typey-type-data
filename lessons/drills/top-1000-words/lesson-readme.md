@@ -199,7 +199,7 @@
 * set `SET`
 * both `PWO*T`
 * got `TKPWOT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * done `TKOPB`
 * heard `HAERD`
 * look `HRAOBG`
@@ -333,7 +333,7 @@
 * English `TKPWHREURB`
 * open `OEP`
 * body `PWO*ED`
-* itself `*EUTS`
+* itself `T/SEFL`
 * along `HRAOPBG`
 * land `HRAPBD`
 * return `RURPB`
@@ -644,7 +644,7 @@
 * happened `HAPD`
 * particular `PHRAR`
 * drew `TKRAOU`
-* minutes `PHEUBS`
+* minutes `PHEUPBS`
 * hardly `HA*RLD`
 * walked `WAUBGD`
 * chief `KHAOEF`
@@ -845,7 +845,7 @@
 * considerable `KR-BL`
 * c `KR*`
 * broke `PWROEBG`
-* honour `HO*URPB/A*U`
+* honour `H*/O*/TPH*/O*/*U/R*`
 * seven `SEFPB`
 * private `PRAOEUFT`
 * sit `SEUT`

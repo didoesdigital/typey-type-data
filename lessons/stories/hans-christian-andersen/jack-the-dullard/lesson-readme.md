@@ -88,7 +88,7 @@
 * knew `TPHAOU`
 * whole `WHOEL`
 * Latin `HRA/TEUPB`
-* dictionary `TKEUBGS/REU`
+* dictionary `TKEUBGS/AER`
 * heart, `HART KW-BG`
 * three `THRAOE`
 * years `KWRAOERS`
@@ -129,7 +129,7 @@
 * put `PUT`
 * spoke `SPOEBG`
 * wheel `WHAOEL`
-* council. `KAUPB/SEUL TP-PL`
+* council. `KOUPB/SEUL TP-PL`
 * And `AFPBD`
 * one `WUPB`
 * thing `THEUPBG`
@@ -363,7 +363,7 @@
 * again! `TKPWEPB SKHRAPL`
 * see `SAOE`
 * now: `TPHOU STPH-FPLT`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * road `RAOD`
 * day!" `TKAEU SKHRAPL KR-GS`
 * turned `TURPBD`

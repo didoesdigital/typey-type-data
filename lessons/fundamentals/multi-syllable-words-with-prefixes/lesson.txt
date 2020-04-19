@@ -32,7 +32,7 @@ Multi-syllable words with prefixes
 'remains': RE/PHAEUPBS
 'apparently': A/PARPBLT
 'aware': A/WAEUR
-'uncle': *UPBG
+'uncle': UPB/K-L
 'unknown': UPB/TPHOEPB
 'increased': EUPB/KRAOEFD
 'affair': A/TPAEUR
@@ -109,6 +109,7 @@ Multi-syllable words with prefixes
 'empire': EPL/PAOEUR
 'online': AUPB/HRAOEUPB
 'displaying': TKEUS/PHRAEUG
+'abandoned': A/PWAPB/TKOPBD
 'instinct': EUPB/STEUPBG
 'revealed': RE/SRAOELD
 'interview': EUPBT/SRAOU
@@ -139,6 +140,7 @@ Multi-syllable words with prefixes
 'emperor': EPL/ROR
 'relieved': RE/HREFD
 'inspired': EUPB/SPAOEURD
+'misfortune': PHEUZ/TP-RPB
 'resist': RE/SEUFT
 'conceived': KAUPB/SAOEFD
 'condemned': KAUPB/TKEPL/-D
@@ -223,6 +225,7 @@ Multi-syllable words with prefixes
 'disagreeable': TKEUS/TKPWRAOEBL
 'defeated': TKE/TPAOET/-D
 'deprived': TKE/PRAOEUFD
+'interval': EUPBT/SRAL
 'invisible': EUPB/SREUBL
 'assigned': A/SAOEUPBD
 'declined': TKE/KHRAOEUPBD
@@ -391,6 +394,7 @@ Multi-syllable words with prefixes
 'acute': A/KAOUT
 'embarrassed': EPL/PWRAFD
 'offspring': AUF/SPREUPBG
+'indispensable': EUPB/TKEUS/PEPBS/-BL
 'allusion': A/HRAOUGS
 'resigned': RAOE/SAOEUPBD
 'endowed': EPB/TKOU/-D
@@ -443,7 +447,7 @@ Multi-syllable words with prefixes
 'enlarged': EPB/HRARPBLGD
 'refrain': RE/TPRAEUPB
 'unexpectedly': UPB/EBGS/PEBGT/-D/HREU
-'epoch': EP/OBG
+'epoch': AOE/POBG
 'detached': TKE/TAFPD
 'accompanying': A/K-PG
 'annoyance': A/TPHOEUPBS
@@ -546,7 +550,7 @@ Multi-syllable words with prefixes
 'reluctance': RE/HRUBG/TAPBS
 'imported': EUPL/PORT/-D
 'abrupt': AB/RUPT
-'incessant': EUPB/SEPBT
+'incessant': EUPB/SEFPBT
 'adored': A/TKOR/-D
 'embroidered': EPL/PWROEUD/ERD
 'import': EUPL/PORT
@@ -561,6 +565,7 @@ Multi-syllable words with prefixes
 'intelligible': EUPB/TEL/EUBL
 'reprinted': RE/PREUPBT/-D
 'besieged': PWE/SAOEPBLG/-D
+'transmitted': TRAPBZ/PHEUTD
 'demon': TKE/PHOPB
 'eminence': EPL/TPHEPBS
 'superfluous': SAOUP/TPHRUS
@@ -593,7 +598,7 @@ Multi-syllable words with prefixes
 'disturbing': TKEUS/TURBG
 'abyss': A/PWEUS
 'abominable': A/PWOPL/TPHABL
-'incessantly': EUPB/SEPBT/HREU
+'incessantly': EUPB/SEFPBT/HREU
 'improbable': EUPL/PROB
 'awakening': A/WAEUBG/EPBG
 'malicious': PHAL/EURBS
@@ -719,7 +724,7 @@ Multi-syllable words with prefixes
 'disgraceful': TKEUS/TKPWRAEUS/-FL
 'redemption': RE/TKEPLS
 'embassy': EPL/PWAES
-'unfinished': UPB/TP*EURBD
+'unfinished': UPB/TPEUPB/EURBD
 'impetuous': EUPL/PET/WOUS
 'abound': A/PWOUPBD
 'provoke': PRO/SROEBG
@@ -780,7 +785,7 @@ Multi-syllable words with prefixes
 'ingratitude': EUPB/TKPWAT/TAOUD
 'bewilderment': PWE/WEULD/ERPLT
 'redeem': RE/TKAOEPL
-'dictionary': TKEUBGS/REU
+'dictionary': TKEUBGS/AER
 'conceivable': KAUPB/SAOEFBL
 'acquiring': A/KWAOEURG
 'befell': PWE/TPEL
@@ -805,6 +810,7 @@ Multi-syllable words with prefixes
 'epistle': AOE/PEUFL
 'overlook': AUFR/HRAOBG
 'unaccountable': UPB/K-T/-BL
+'translations': TRAPBZ/HRAEUBGS/-S
 'unimportant': UPB/PORPB
 'inseparable': EUPB/SEP/-BL
 'reliable': RE/HREUBL
@@ -894,7 +900,7 @@ Multi-syllable words with prefixes
 'outright': AOUT/RAOEUT
 'inexorable': EUPB/KPORBL
 'dissolve': TKEUS/OFL
-'assassination': A/AS/TPHAEUGS
+'assassination': A/SAS/TPHAEUGS
 'embroidery': EPL/PWROEUD/REU
 'reproof': RE/PRAOF
 'indoors': EUPB/TKAORS

@@ -357,7 +357,7 @@
 * daylight, `TKAEULT KW-BG`
 * jogged `SKWROGD`
 * elbow, `EL/PWOE KW-BG`
-* 'Get `AE KPA/TKPW-T`
+* 'Get `AE KPA/TKPWET`
 * up, `UP KW-BG`
 * husband, `HUS KW-BG`
 * bestir `PWE/STEUR`
@@ -421,7 +421,7 @@
 * side `SAOEUD`
 * six `SEUBGS`
 * fair `TPAEUR`
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * head `HED`
 * taller `TAURL`
 * other. `OER TP-PL`

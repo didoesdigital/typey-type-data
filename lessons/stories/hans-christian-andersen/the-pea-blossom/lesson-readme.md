@@ -192,7 +192,7 @@
 * straight `STRAEUT`
 * sun, `SUPB KW-BG`
 * lets `HR*ETS`
-* itself `*EUTS`
+* itself `T/SEFL`
 * seen, `SAOEPB KW-BG`
 * suit `SAOUT`
 * exactly;" `ELG STPH*FPLT KR-GS`
@@ -202,7 +202,7 @@
 * go `TKPW`
 * sleep `SHRAOEP`
 * wherever `W-FR`
-* find `TPEUPBD`
+* find `TPAOEUPBD`
 * ourselves," `O*URSZ KW-BG KR-GS`
 * two `TWO`
 * next, `TPHEGT KW-BG`
@@ -504,7 +504,7 @@
 * smiled `SPHAOEULD`
 * flower, `TPHRO*UR KW-BG`
 * been `PW-PB`
-* angel `APBG/EL`
+* angel `APB/SKWREL`
 * peas? `PAOEZ H-F`
 * Why `KPA/KWR`
 * world, `WORLD KW-BG`
