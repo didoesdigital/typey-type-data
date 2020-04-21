@@ -7312,7 +7312,7 @@
 * powerless `POURLS`
 * passenger `PAEPBG`
 * crust `KRUFT`
-* historians `PHEUFT/KWRAPBS`
+* historians `HEUFT/KWRAPBS`
 * disclaim `TKEUS/KHRAEUPL`
 * Norway `TPHOR/WAEU`
 * peculiarities `PEBG/AOUL/AERTS`
@@ -7362,7 +7362,7 @@
 * spoils `SPOEULS`
 * helmet `H*EPLT`
 * consternation `KO*PBS/TPHAEUGS`
-* expenditures `SPEPBD/TAOURS`
+* expenditures `EBGS/PEPBD/KHURS`
 * impose `EUPL/POES`
 * originator `ORPBLG/TPHAEU/TOR`
 * Pa `PA`
@@ -7395,7 +7395,7 @@
 * calf `KA*FL`
 * manual `PHAPB/WAL`
 * disturbing `TKEUS/TURBG`
-* potent `PO/TEPBT`
+* potent `POE/TEPBT`
 * anticipation `SPAEUGS`
 * melt `PHELT`
 * tilde `TEUL/TKE`
