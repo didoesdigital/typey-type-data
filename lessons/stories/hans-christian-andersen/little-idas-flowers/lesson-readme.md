@@ -539,7 +539,7 @@
 * help `HEP`
 * thinking `THEUG`
 * her. `HER TP-PL`
-* before `PW-FP`
+* before `PW-FR`
 * herself, `H*ERS KW-BG`
 * mother's `PHOER/AES`
 * grew, `TKPWRAOU KW-BG`
@@ -892,7 +892,7 @@
 * lay, `HRAEU KW-BG`
 * faded; `TPAEUD/-D STPH*FPLT`
 * day `TKAEU`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * her; `HER STPH*FPLT`
 * sleepy. `SHRAOE/PEU TP-PL`
 * "Do `KR-GS KPA/TKO`

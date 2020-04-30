@@ -171,7 +171,7 @@
 * ordered `ORD/-D`
 * man `PHAPB`
 * be `-B`
-* before `PW-FP`
+* before `PW-FR`
 * threatened `THREFPBD`
 * angry `APBG/REU`
 * words `WORDZ`

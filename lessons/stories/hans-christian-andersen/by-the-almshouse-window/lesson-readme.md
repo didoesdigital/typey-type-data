@@ -69,7 +69,7 @@
 * drama `TKRA/PHA`
 * unfolding `UPB/TPOELGD`
 * itself `T/SEFL`
-* before `PW-FP`
+* before `PW-FR`
 * her `HER`
 * inward `EUPB/WARD`
 * gaze. `TKPWAEZ TP-PL`

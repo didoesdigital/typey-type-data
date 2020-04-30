@@ -76,7 +76,7 @@
 * girl `TKPWEURL`
 * be `-B`
 * brought `PWRAUT`
-* before `PW-FP`
+* before `PW-FR`
 * him. `HEUPL TP-PL`
 * Then `KPA/THEPB`
 * led `HRED`

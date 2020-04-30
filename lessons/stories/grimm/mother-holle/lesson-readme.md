@@ -395,7 +395,7 @@
 * Like `KPA/HRAOEUBG`
 * oven. `OEFPB TP-PL`
 * ago,' `AG KW-BG AE`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * answered, `AEPBS/-D KW-BG`
 * 'Do `AE KPA/TKO`
 * think `THEU`
@@ -504,7 +504,7 @@
 * weak, `WAEBG KW-BG`
 * good. `TKPWAOD TP-PL`
 * Set `KPA/SET`
-* before `PW-FP`
+* before `PW-FR`
 * gets `TKPWETS`
 * hot, `HOT KW-BG`
 * going, `TKPW-G KW-BG`

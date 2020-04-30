@@ -202,7 +202,7 @@
 * tell `TEL`
 * about `PW`
 * oldest `OELD/EFT`
-* before `PW-FP`
+* before `PW-FR`
 * princesses `PREUPB/SES/-S`
 * spun `SPUPB`
 * golden `TKPWOELD/*EPB`

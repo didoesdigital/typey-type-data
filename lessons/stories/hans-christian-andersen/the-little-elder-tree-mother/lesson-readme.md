@@ -740,7 +740,7 @@
 * exactly `ELG`
 * those `THOZ`
 * heard `HAERD`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * just `SKWRUFT`
 * couple `KUPL`
 * done `TKOPB`

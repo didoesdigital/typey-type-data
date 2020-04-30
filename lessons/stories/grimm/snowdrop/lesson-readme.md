@@ -480,7 +480,7 @@
 * laces.' `HRAEUS/-S TP-PL AE`
 * dream `TKRAOEPL`
 * mischief; `PHEUS/KHEF STPH*FPLT`
-* before `PW-FP`
+* before `PW-FR`
 * woman; `WOPL STPH*FPLT`
 * set `SET`
 * work `WORBG`
@@ -524,7 +524,7 @@
 * got `TKPWOT`
 * home, `HOEPL KW-BG`
 * straight `STRAEUT`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * grief `TKPWRAOEF`
 * still `STEUL`
 * cold `KOELD`
@@ -535,7 +535,7 @@
 * dress `TKRES`
 * from `TPR`
 * wore `WOR`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * poisoned `POEUS/OPBD`
 * comb. `KOEPL TP-PL`
 * reached `RAOEFPD`

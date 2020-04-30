@@ -107,7 +107,7 @@
 * very `SRE`
 * long `HROPBG`
 * him; `HEUPL STPH*FPLT`
-* before `PW-FP`
+* before `PW-FR`
 * half `HAF`
 * finished `TP*EURBD`
 * task, `TAFBG KW-BG`

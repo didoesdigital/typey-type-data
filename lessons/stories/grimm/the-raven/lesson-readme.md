@@ -285,7 +285,7 @@
 * driving `TKRAOEUFG`
 * along, `HRAOPBG KW-BG`
 * white `WHAOEUT`
-* before `PW-FP`
+* before `PW-FR`
 * reached `RAOEFPD`
 * spot, `SPOT KW-BG`
 * said `SAEUD`
@@ -486,7 +486,7 @@
 * pursued `PUR/SAOUD`
 * evening, `AOEPBG KW-BG`
 * thinking `THEUG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * howling `HOUL/-G`
 * wailing `WAEULG`
 * sleep. `SHRAOEP TP-PL`

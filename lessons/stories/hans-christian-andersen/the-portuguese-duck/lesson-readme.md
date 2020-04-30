@@ -567,7 +567,7 @@
 * business, `PWEUS KW-BG`
 * business `PWEUS`
 * placed `PHRAEUFD`
-* before `PW-FP`
+* before `PW-FR`
 * everything. `EFRG TP-PL`
 * now `TPHOU`
 * shall `SHAL`

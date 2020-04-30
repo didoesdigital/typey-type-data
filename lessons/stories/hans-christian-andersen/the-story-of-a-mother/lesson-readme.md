@@ -234,7 +234,7 @@
 * way," `WAEU KW-BG KR-GS`
 * garments; `TKPWARPLTS STPH*FPLT`
 * "but `KR-GS PWUT`
-* before `PW-FP`
+* before `PW-FR`
 * you, `U KW-BG`
 * must `PHUFT`
 * sing `SEUPBG`
@@ -246,7 +246,7 @@
 * songs, `SOPBGS KW-BG`
 * heard `HAERD`
 * them `THEPL`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * am `APL`
 * Night, `KPA/TPHAOEUT KW-BG`
 * flow `TPHROE`
@@ -714,7 +714,7 @@
 * back—they `PWABG EPL/TKA*RB THE`
 * clearer `KHAOER/*ER`
 * now `TPHOU`
-* before—and `PW-FP EPL/TKA*RB SKP`
+* before—and `PW-FR EPL/TKA*RB SKP`
 * well `WEL`
 * close `KHROES`
 * here. `HAOER TP-PL`

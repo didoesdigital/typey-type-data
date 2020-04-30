@@ -163,7 +163,7 @@
 * call `KAUL`
 * told `TOLD`
 * great `TKPWRAET`
-* before `PW-FP`
+* before `PW-FR`
 * better `PWOERT`
 * ever `-FR`
 * night `TPHAOEUT`

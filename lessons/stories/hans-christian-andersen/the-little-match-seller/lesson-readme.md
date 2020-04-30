@@ -310,7 +310,7 @@
 * nothing `TPHOG`
 * thick, `THEUBG KW-BG`
 * damp, `TKAFRP KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * her. `HER TP-PL`
 * lighted `HRAOEUT/-D`
 * match, `PHAFP KW-BG`

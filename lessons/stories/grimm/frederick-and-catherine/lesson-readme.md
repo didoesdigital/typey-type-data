@@ -290,7 +290,7 @@
 * wrong; `WROPBG STPH*FPLT`
 * should `SHO`
 * told `TOLD`
-* before.' `PW-FP TP-PL AE`
+* before.' `PW-FR TP-PL AE`
 * husband `HUS`
 * himself, `H*EUPLS KW-BG`
 * 'If `AE KPA/TP`
@@ -517,7 +517,7 @@
 * 'you `AE U`
 * 'Then `AE KPA/THEPB`
 * home, `HOEPL KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * farther,' `TPA*RT KW-BG AE`
 * 'and `AE SKP`
 * bring `PWREU`

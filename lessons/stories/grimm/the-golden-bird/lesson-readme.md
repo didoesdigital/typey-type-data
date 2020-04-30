@@ -354,7 +354,7 @@
 * forward, `TPAORD KW-BG`
 * till `TEUL`
 * castle, `KAFL KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * lie `HRAOEU`
 * troop `TRAOP`
 * soldiers `SHRERPBLGS`
@@ -382,7 +382,7 @@
 * repent `RE/PEPBT`
 * it.' `T TP-PL AE`
 * stretched `STREFPD`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * gate `TKPWAET`
 * said: `SAEUD STPH-FPLT`
 * chamber `KHAEURPL`

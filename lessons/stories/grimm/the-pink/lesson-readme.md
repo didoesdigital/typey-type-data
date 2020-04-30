@@ -225,7 +225,7 @@
 * one, `WUPB KW-BG`
 * immediately `PHAOELD`
 * stood `STAOD`
-* before `PW-FP`
+* before `PW-FR`
 * him, `HEUPL KW-BG`
 * more `PHOR`
 * than `THAPB`

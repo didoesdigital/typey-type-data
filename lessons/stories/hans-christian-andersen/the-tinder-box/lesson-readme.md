@@ -572,7 +572,7 @@
 * door `TKAOR`
 * flew `TPHRAOU`
 * whom `WHOPL`
-* before `PW-FP`
+* before `PW-FR`
 * orders, `ORDZ KW-BG`
 * master?" `PHAFRT H-F KR-GS`
 * "Hallo," `KR-GS HA*L/KWRO KW-BG KR-GS`
@@ -605,7 +605,7 @@
 * reappeared `RAOE/A/PAOERD`
 * knew `TPHAOU`
 * directly, `TKREL KW-BG`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * After `KPA/AF`
 * began `TKPWAPB`
 * strange `STRAEUPBG`

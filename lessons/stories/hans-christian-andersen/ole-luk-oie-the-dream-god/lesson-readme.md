@@ -678,7 +678,7 @@
 * ship, `SHEUP KW-BG`
 * slided `SHREUD/-D`
 * deck, `TKEBG KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * sailor-boy `SAEU/HROR H-PB PWOEU`
 * put `PUT`
 * hen-house, `HEPB H-PB HOUS KW-BG`

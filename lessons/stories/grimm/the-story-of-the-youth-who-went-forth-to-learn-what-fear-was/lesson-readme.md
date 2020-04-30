@@ -253,7 +253,7 @@
 * secretly `SKRELT`
 * went `WEPBT`
 * there `THR`
-* before `PW-FP`
+* before `PW-FR`
 * him; `HEUPL STPH*FPLT`
 * top `TOP`
 * turned `TURPBD`
@@ -603,7 +603,7 @@
 * burnt.' `PWURPBT TP-PL AE`
 * day, `TKAEU KW-BG`
 * 'Such `AE KPA/SUFP`
-* before.' `PW-FP TP-PL AE`
+* before.' `PW-FR TP-PL AE`
 * likewise `HRAOEUBG/WAOEUS`
 * way, `WAEU KW-BG`
 * once `WUPBS`

@@ -32,7 +32,7 @@
 * as `AZ`
 * many `PHAEPB`
 * can, `K KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * squirrel `SKWEURL`
 * takes `TAEUBGS`
 * them `THEPL`
@@ -391,7 +391,7 @@
 * passion, `PAGS KW-BG`
 * suspecting `SUS/PEBGT/-G`
 * company `K-P`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * look `HRAOBG`
 * after `AF`
 * them, `THEPL KW-BG`

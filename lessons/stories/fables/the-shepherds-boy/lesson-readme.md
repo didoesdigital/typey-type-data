@@ -90,14 +90,14 @@
 * still `STEUL`
 * louder `HROURD`
 * than `THAPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * time `TAOEUPL`
 * villagers, `SREUL/APBLG/ERS KW-BG`
 * had `H`
 * been `PW-PB`
 * fooled `TPAOLD`
 * twice `TWAOEUS`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * deceiving `TKE/SAOEFG`
 * them, `THEPL KW-BG`
 * nobody `TPHOEB`

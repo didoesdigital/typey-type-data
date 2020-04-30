@@ -46,7 +46,7 @@
 * quite `KWAOEUT`
 * near `TPHAOER`
 * roaring. `RAORG TP-PL`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * us `US`
 * rises `RAOEUZ/-Z`
 * great `TKPWRAET`
@@ -261,7 +261,7 @@
 * more—everything `PHOR EPL/TKA*RB EFRG`
 * must `PHUFT`
 * bow `PWOE`
-* before `PW-FP`
+* before `PW-FR`
 * Olaf `xxx Olaf`
 * Glob. `KPA/TKPWHROB TP-PL`
 * His `KPA/HEUS`

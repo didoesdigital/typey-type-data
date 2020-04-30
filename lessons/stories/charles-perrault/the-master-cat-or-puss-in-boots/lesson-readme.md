@@ -277,7 +277,7 @@
 * both. `PWO*T TP-PL`
 * these `THEZ`
 * done `TKOPB`
-* before `PW-FP`
+* before `PW-FR`
 * warren. `WAR/-PB TP-PL`
 * King `KO*EUPBG`
 * like `HRAOEUBG`
@@ -417,7 +417,7 @@
 * succeed, `SKAOED KW-BG`
 * marched `PHAFRPBD`
 * on `OPB`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * meeting `PHAOEGT`
 * countrymen, `KUPB/TREU/PHEPB KW-BG`
 * mowing `PHOEG`

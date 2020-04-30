@@ -31,7 +31,7 @@
 * of `-F`
 * birds,' `PWEURDZ KW-BG AE`
 * said `SAEUD`
-* 'before `AE PW-FP`
+* 'before `AE PW-FR`
 * whom `WHOPL`
 * we `WE`
 * must `PHUFT`
@@ -276,7 +276,7 @@
 * There `KPA/THR`
 * stood `STAOD`
 * fox `TPOBGS`
-* before `PW-FP`
+* before `PW-FR`
 * 'Fox, `AE KPA/TPOBGS KW-BG`
 * cunning `KUPBG`
 * animals, `PHAPBLS KW-BG`

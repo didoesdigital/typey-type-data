@@ -111,6 +111,6 @@
 * count `KOUPBT`
 * your `KWROUR`
 * chickens `KHEU/KEPB/-S`
-* before `PW-FP`
+* before `PW-FR`
 * are `R`
 * hatched." `HAFPD TP-PL KR-GS`

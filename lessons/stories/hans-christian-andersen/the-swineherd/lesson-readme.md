@@ -189,7 +189,7 @@
 * other `OER`
 * case `KAEUS`
 * contains `KAUPB/TAEUPBS`
-* before `PW-FP`
+* before `PW-FR`
 * angry," `APBG/REU KW-BG KR-GS`
 * emperor; `EPL/ROR STPH*FPLT`
 * taken `TAEPB`

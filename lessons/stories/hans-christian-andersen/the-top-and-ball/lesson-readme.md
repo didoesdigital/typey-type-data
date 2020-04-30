@@ -209,7 +209,7 @@
 * gave `TKPWAEUF`
 * higher `HAOEUR`
 * leap `HRAOEP`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * either `AOERT`
 * because `PWAU`
 * longed `HROPBG/-D`

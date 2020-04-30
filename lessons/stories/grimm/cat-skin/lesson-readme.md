@@ -174,7 +174,7 @@
 * such `SUFP`
 * thoughts; `THAUTS STPH*FPLT`
 * him, `HEUPL KW-BG`
-* 'Before `AE KPA/PW-FP`
+* 'Before `AE KPA/PW-FR`
 * anyone `TPHEUPB`
 * three `THRAOE`
 * dresses: `TKRES/-S STPH-FPLT`
@@ -300,7 +300,7 @@
 * 'In `AE KPA/TPH`
 * wonderful `WUFL`
 * beast, `PWAOEFT KW-BG`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * its `EUTS`
 * skin `SKEUPB`
 * seems `SAOEPLS`
@@ -482,7 +482,7 @@
 * him `HEUPL`
 * well, `WEL KW-BG`
 * tasted `TAEUFT/-D`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * bottom `PWOPLT`
 * gold `TKPWOELD`
 * ring `REUPBG`
@@ -496,7 +496,7 @@
 * 'You `AE KPA/U`
 * so, `SO KW-BG`
 * beating.' `PWAEGT TP-PL AE`
-* before `PW-FP`
+* before `PW-FR`
 * asked `SK-D`
 * cooked `KAOBGD`
 * soup. `SOUP TP-PL`

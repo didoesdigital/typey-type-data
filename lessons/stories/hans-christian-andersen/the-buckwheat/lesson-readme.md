@@ -220,7 +220,7 @@
 * beneath. `TPHAO*ET TP-PL`
 * He `KPA/HE`
 * strike `STRAOEUBG`
-* before `PW-FP`
+* before `PW-FR`
 * can `K`
 * cry `KRAOEU`
 * for `TPOR`

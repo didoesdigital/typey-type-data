@@ -141,7 +141,7 @@
 * work; `WORBG STPH*FPLT`
 * rise `RAOEUZ`
 * early `ERL`
-* before `PW-FP`
+* before `PW-FR`
 * daylight, `TKAEULT KW-BG`
 * bring `PWREU`
 * water, `WAUR KW-BG`
@@ -428,12 +428,12 @@
 * shook `SHAOBG`
 * garden `TKPWA*RPB`
 * house, `HOUS KW-BG`
-* before: `PW-FP STPH-FPLT`
+* before: `PW-FR STPH-FPLT`
 * hopping `HOPG`
 * about. `PW TP-PL`
 * grain `TKPWRAEUPB`
 * dishes, `TKEURBS KW-BG`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * half `HAF`
 * again. `TKPWEPB TP-PL`
 * rejoicing `RE/SKWROEUFG`
@@ -546,7 +546,7 @@
 * finer `TPAOEURPB`
 * than `THAPB`
 * worn `WORPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * ball, `PWAUL KW-BG`
 * everyone `EFRPB`
 * wondered `WOPBD/-D`
@@ -554,7 +554,7 @@
 * son, `SOPB KW-BG`
 * waiting `WAEUGT`
 * hand, `HAPBD KW-BG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * When `KPA/WHEPB`
 * night `TPHAOEUT`
 * here `HAOER`

@@ -601,7 +601,7 @@
 * happen `HAP`
 * world! `WORLD SKHRAPL`
 * early, `ERL KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * daybreak, `TKAEU/PWRAEBG KW-BG`
 * feed `TPAOED`
 * cows; `KOUS STPH*FPLT`

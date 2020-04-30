@@ -33,7 +33,7 @@
 * forest `TPOEFRT`
 * hew `HAO*U`
 * wood, `WAOD KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * he `HE`
 * went `WEPBT`
 * his `HEUS`
@@ -360,7 +360,7 @@
 * stuck `STUBG`
 * fast, `TPAFT KW-BG`
 * behind. `HEUPBD TP-PL`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * sexton `SEBGS/TOPB`
 * master, `PHAFRT KW-BG`
 * parson, `PAR/SOPB KW-BG`

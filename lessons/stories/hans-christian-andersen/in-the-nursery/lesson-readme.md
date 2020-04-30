@@ -574,5 +574,5 @@
 * passed `PAFD`
 * away `A/WAEU`
 * interval `EUPBT/SRAL`
-* before `PW-FP`
+* before `PW-FR`
 * tea-time." `TAE H-PB TAOEUPL TP-PL KR-GS`

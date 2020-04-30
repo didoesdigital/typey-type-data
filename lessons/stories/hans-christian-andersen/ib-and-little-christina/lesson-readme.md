@@ -296,7 +296,7 @@
 * sail `SAEUL`
 * boat; `PWOET STPH*FPLT`
 * evening `AOEPBG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * accompanied `A/K-PD`
 * boatman `PWOET/PHA*PB`
 * house. `HOUS TP-PL`
@@ -524,7 +524,7 @@
 * ugly `ULG`
 * frightened `TPRAOEUPBD`
 * children; `KHEURPB STPH*FPLT`
-* before `PW-FP`
+* before `PW-FR`
 * them, `THEPL KW-BG`
 * thickest `THEUBG/EFT`
 * part `PART`

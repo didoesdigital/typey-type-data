@@ -77,7 +77,7 @@
 * more `PHOR`
 * unhappy `UPB/HAEP`
 * than `THAPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * And `AFPBD`
 * all `AUL`
 * this `TH`
@@ -451,7 +451,7 @@
 * tree!" `TRAOE SKHRAPL KR-GS`
 * A `KPA/AEU`
 * short `SHORT`
-* before `PW-FP`
+* before `PW-FR`
 * Christmas, `KREUS/PHAS KW-BG`
 * discontented `TKEUS/KOPB/TEPBT/-D`
 * first `TPEUFRT`
@@ -571,7 +571,7 @@
 * leaves,—the `HREFS KW-BG EPL/TKA*RB -T`
 * such `SUFP`
 * things `THEUPBGS`
-* before,—and `PW-FP KW-BG EPL/TKA*RB SKP`
+* before,—and `PW-FR KW-BG EPL/TKA*RB SKP`
 * star, `STAR KW-BG`
 * tinsel. `TEUPB/SEL TP-PL`
 * Oh, `KPA/O*ERBGS KW-BG`

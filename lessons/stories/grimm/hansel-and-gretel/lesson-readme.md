@@ -238,7 +238,7 @@
 * day `TKAEU`
 * dawned, `TKAUPBD KW-BG`
 * but `PWUT`
-* before `PW-FP`
+* before `PW-FR`
 * sun `SUPB`
 * risen, `REUFPB KW-BG`
 * woman `WOPL`
@@ -455,7 +455,7 @@
 * wanted `WAPBTD`
 * pick `PEUBG`
 * done `TKOPB`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * locked `HROBGD`
 * out. `OUT TP-PL`
 * Nevertheless `KPA/TPHEFRLS`
@@ -469,7 +469,7 @@
 * given `TKPWEUFPB`
 * smaller `SPHAURL`
 * than `THAPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * On `KPA/OPB`
 * crumbled `KRUPL/-BLD`
 * pocket, `POBGT KW-BG`

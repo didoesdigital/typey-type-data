@@ -44,7 +44,7 @@
 * late—everything `HRAEUT EPL/TKA*RB EFRG`
 * taken `TAEPB`
 * up `UP`
-* before `PW-FP`
+* before `PW-FR`
 * came `KAEUPL`
 * into `TPHAO`
 * the `-T`

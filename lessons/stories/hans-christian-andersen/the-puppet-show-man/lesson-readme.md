@@ -485,7 +485,7 @@
 * requested `KW-D`
 * permission `PERPLGS`
 * speak `SPAOEBG`
-* before `PW-FP`
+* before `PW-FR`
 * appearing `A/PAOERG`
 * dancing `TKAPBS/-G`
 * house `HOUS`

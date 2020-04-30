@@ -6,7 +6,7 @@
 * placed `PHRAEUFD`
 * a `AEU`
 * petition `PE/TEUGS`
-* before `PW-FP`
+* before `PW-FR`
 * Juno `SKWRAOUPB/KWRO`
 * desiring `STKAOEURG`
 * to `TO`

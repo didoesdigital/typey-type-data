@@ -347,7 +347,7 @@
 * once `WUPBS`
 * more, `PHOR KW-BG`
 * in, `TPH KW-BG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * morning `PHORPBG`
 * broke. `PWROEBG TP-PL`
 * third `THEURD`

@@ -175,7 +175,7 @@
 * comforted `K-FRTD`
 * happy `HAEP`
 * again, `TKPWEPB KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * passed `PAFD`
 * saw `SAU`
 * blood, `PWHRAOD KW-BG`
@@ -537,7 +537,7 @@
 * air, `AEUR KW-BG`
 * singing `SEUPBG/-G`
 * magnificently, `PHAFG/SEPBT/HREU KW-BG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * gone. `TKPWOPB TP-PL`
 * lighthearted `xxx lighthearted`
 * alive, `A/HRAOEUF KW-BG`

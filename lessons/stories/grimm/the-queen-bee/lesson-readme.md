@@ -287,7 +287,7 @@
 * five `TPEUF`
 * ants; `A*PBT/-S STPH*FPLT`
 * long `HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * laid `HRAEUD`
 * heap. `HAOEP TP-PL`
 * 'The `AE KPA/-T`

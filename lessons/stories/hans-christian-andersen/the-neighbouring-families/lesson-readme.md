@@ -54,7 +54,7 @@
 * a `AEU`
 * few `TPAOU`
 * moments `PHOEPLTS`
-* before `PW-FP`
+* before `PW-FR`
 * had `H`
 * been `PW-PB`
 * as `AZ`
@@ -64,7 +64,7 @@
 * became `PWAEUPL`
 * very `SRE`
 * troubled. `TRUBLD TP-PL`
-* Before, `KPA/PW-FP KW-BG`
+* Before, `KPA/PW-FR KW-BG`
 * every `EF`
 * tree, `TRAOE KW-BG`
 * neighbouring `TPHAEUB/-G/A*U`

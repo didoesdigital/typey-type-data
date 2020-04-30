@@ -110,7 +110,7 @@
 * girls `TKPWEURLS`
 * ever `-FR`
 * seen `SAOEPB`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * shepherd `SHEP/ERD`
 * lad, `HRAD KW-BG`
 * Jorindel, `xxx Jorindel KW-BG`
@@ -322,7 +322,7 @@
 * free. `TPRAOE TP-PL`
 * fell `TPEL`
 * knees `TPHAOEZ`
-* before `PW-FP`
+* before `PW-FR`
 * fairy, `TPAEUR/REU KW-BG`
 * prayed `PRAEUD`
 * give `TKPWEUF`

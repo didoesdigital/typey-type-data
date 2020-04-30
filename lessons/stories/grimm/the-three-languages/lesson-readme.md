@@ -125,7 +125,7 @@
 * not `TPHOT`
 * ashamed `A/SHAEUPLD`
 * appear `A/PAOER`
-* before `PW-FP`
+* before `PW-FR`
 * eyes? `AO*EUS H-F`
 * third `THEURD`
 * if `TP`

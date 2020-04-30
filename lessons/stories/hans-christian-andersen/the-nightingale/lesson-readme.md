@@ -34,7 +34,7 @@
 * well `WEL`
 * hear `HAER`
 * now `TPHOU`
-* before `PW-FP`
+* before `PW-FR`
 * forgotten. `TPORGTD TP-PL`
 * emperor's `EPL/ROR AES`
 * palace `PAL/AS`
@@ -446,7 +446,7 @@
 * small `SPHAL`
 * creature; `KRAOEFP STPH*FPLT`
 * certainly `SERPBL`
-* before." `PW-FP TP-PL KR-GS`
+* before." `PW-FR TP-PL KR-GS`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * lowing," `HROE/-G KW-BG KR-GS`
 * girl; `TKPWEURL STPH*FPLT`
@@ -515,7 +515,7 @@
 * throat `THROET`
 * works. `WORBGS TP-PL`
 * surprising `SPRAOEUG`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * success `SKES`
 * "Shall `KR-GS KPA/SHAL`
 * once `WUPBS`

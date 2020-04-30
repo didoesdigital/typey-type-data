@@ -98,7 +98,7 @@
 * It `KPA/T`
 * not `TPHOT`
 * long `HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * someone `SPH-PB`
 * knocked `TPHOBGD`
 * house-door `HOUS TKAO*R`

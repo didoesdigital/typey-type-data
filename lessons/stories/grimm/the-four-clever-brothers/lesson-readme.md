@@ -305,7 +305,7 @@
 * day, `TKAEU KW-BG`
 * were `WR`
 * sitting `SEUGT`
-* before `PW-FP`
+* before `PW-FR`
 * house `HOUS`
 * under `TPH-PB`
 * high `HAOEU`

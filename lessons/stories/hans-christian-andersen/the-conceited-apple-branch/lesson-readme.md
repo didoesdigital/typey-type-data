@@ -117,7 +117,7 @@
 * white `WHAOEUT`
 * curtains `KUR/TEUPBS`
 * fluttered `TPHRUT/ERD`
-* before `PW-FP`
+* before `PW-FR`
 * open `OEP`
 * windows, `WOEUPBDZ KW-BG`
 * flowers `TPHRO*URS`

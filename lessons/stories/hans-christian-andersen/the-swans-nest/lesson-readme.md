@@ -273,7 +273,7 @@
 * see `SAOE`
 * them `THEPL`
 * hear `HAER`
-* before `PW-FP`
+* before `PW-FR`
 * said `SAEUD`
 * spirit `SPEURT`
 * truth, `TRAO*UT KW-BG`

@@ -53,7 +53,7 @@
 * book `PWAOBG`
 * remained `RE/PHAEUPBD`
 * open `OEP`
-* before `PW-FP`
+* before `PW-FR`
 * her, `HER KW-BG`
 * read `RAED`
 * another `TPHOER`

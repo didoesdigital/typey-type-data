@@ -156,7 +156,7 @@
 * dog `TKOG`
 * It `KPA/T`
 * long `HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * fell `TPEL`
 * game `TKPWAEUPL`
 * way, `WAEU KW-BG`

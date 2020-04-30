@@ -283,7 +283,7 @@
 * every `EF`
 * step, `STEP KW-BG`
 * it `T`
-* before `PW-FP`
+* before `PW-FR`
 * overtook `AUFR/TAOBG`
 * them. `THEPL TP-PL`
 * girl, `TKPWEURL KW-BG`

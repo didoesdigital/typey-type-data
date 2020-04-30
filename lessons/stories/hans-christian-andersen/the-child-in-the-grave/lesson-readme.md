@@ -399,7 +399,7 @@
 * whose `WHOZ`
 * smile `SPHAOEUL`
 * vividly `SREUFD/HREU`
-* before `PW-FP`
+* before `PW-FR`
 * gentle `SKWR*EPBLT`
 * expression `EBGS/PREGS`
 * eyes, `AO*EUS KW-BG`

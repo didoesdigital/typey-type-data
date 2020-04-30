@@ -256,7 +256,7 @@
 * already `HR-R`
 * observed; `OEBD STPH*FPLT`
 * long `HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * grandmother's `TKPWR-PL AES`
 * born; `PWORPB STPH*FPLT`
 * yet `KWRET`

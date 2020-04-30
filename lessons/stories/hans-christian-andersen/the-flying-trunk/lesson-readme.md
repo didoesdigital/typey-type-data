@@ -790,7 +790,7 @@
 * wedding-day `WEGD TKA*EU`
 * fixed, `TPEUFD KW-BG`
 * and, `SKP KW-BG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * city `STEU`
 * illuminated. `EUL/AOUPL/TPHAEUT/-D TP-PL`
 * Cakes `KPA/KAEUBG/-S`

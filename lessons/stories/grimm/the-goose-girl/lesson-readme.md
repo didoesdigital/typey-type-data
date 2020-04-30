@@ -239,7 +239,7 @@
 * more `PHOR`
 * haughtily `HAUT/HREU`
 * than `THAPB`
-* before: `PW-FP STPH-FPLT`
+* before: `PW-FR STPH-FPLT`
 * 'Drink `AE KPA/TKREU`
 * will, `HR KW-BG`
 * waiting-maid.' `WAEUGT H-PB PHAEUD TP-PL AE`
@@ -500,7 +500,7 @@
 * until `TPH-L`
 * homewards. `HOEPL/WARDZ TP-PL`
 * comb `KOEPL`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * wanted `WAPBTD`
 * hold `HOLD`
 * quickly: `KWEULG STPH-FPLT`

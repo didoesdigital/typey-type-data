@@ -78,7 +78,7 @@
 * up `UP`
 * put `PUT`
 * pocket. `POBGT TP-PL`
-* before `PW-FP`
+* before `PW-FR`
 * but `PWUT`
 * clean `KHRAOEPB`
 * well-mended `W*EL PHEPBD/-D`
@@ -610,7 +610,7 @@
 * was, `WAS KW-BG`
 * laid `HRAEUD`
 * basket. `PWAFBGT TP-PL`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * evening, `AOEPBG KW-BG`
 * sitting `SEUGT`
 * room `RAOPL`

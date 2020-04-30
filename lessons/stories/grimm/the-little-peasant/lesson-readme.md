@@ -202,7 +202,7 @@
 * me `PHE`
 * that,' `THA KW-BG AE`
 * led `HRED`
-* before `PW-FP`
+* before `PW-FR`
 * mayor, `PHAEUR KW-BG`
 * who `WHO`
 * carelessness `KAEURLS/-PBS`

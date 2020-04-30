@@ -327,7 +327,7 @@
 * wind `WEUPBD`
 * raised `RA*EUFD`
 * curtain `KUR/TAPB`
-* before `PW-FP`
+* before `PW-FR`
 * there `THR`
 * appeared `A/PAOERD`
 * wonderful `WUFL`
@@ -1250,7 +1250,7 @@
 * rooms. `RAOPLS TP-PL`
 * lighter `HRAOEURT`
 * dancer `TKARPBS`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * told `TOLD`
 * country `KREU`
 * come, `KOPL KW-BG`

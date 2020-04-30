@@ -276,7 +276,7 @@
 * fingers `TPEURPBGS`
 * held `HELD`
 * them `THEPL`
-* before `PW-FP`
+* before `PW-FR`
 * face. `TPAEUS TP-PL`
 * say `SAEU`
 * out, `OUT KW-BG`

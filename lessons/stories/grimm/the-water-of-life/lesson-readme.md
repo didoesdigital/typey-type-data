@@ -1,7 +1,7 @@
 # The Water of Life
 
 * Long `KPA/HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * you `U`
 * or `OR`
 * I `EU`
@@ -262,7 +262,7 @@
 * spot `SPOT`
 * mountains, `PHOUPB/TAEUPBS KW-BG`
 * saying, `SAEUG KW-BG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * prince, `PREUPBS KW-BG`
 * 'Mind `AE KPA/PHAOEUPBD`
 * own `OEPB`
@@ -600,7 +600,7 @@
 * tasted `TAEUFT/-D`
 * worse `WORS`
 * even `AOEPB`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * both `PWO*T`
 * in, `TPH KW-BG`
 * blamed `PWHRAEUPLD`

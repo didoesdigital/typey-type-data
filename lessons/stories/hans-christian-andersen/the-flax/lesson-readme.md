@@ -470,7 +470,7 @@
 * paper; `PAEUP STPH*FPLT`
 * around `ARPBD`
 * out `OUT`
-* before `PW-FP`
+* before `PW-FR`
 * got `TKPWOT`
 * half `HAF`
 * through `THRU`

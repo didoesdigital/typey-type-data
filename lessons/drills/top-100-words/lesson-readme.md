@@ -86,7 +86,7 @@
 * such `SUFP`
 * a `AEU`
 * great `TKPWRAET`
-* before `PW-FP`
+* before `PW-FR`
 * must `PHUFT`
 * two `TWO`
 * these `THEZ`

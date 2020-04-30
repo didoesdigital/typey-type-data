@@ -106,7 +106,7 @@
 * rang `RAPBG`
 * again; `TKPWEPB STPH*FPLT`
 * while `WHAOEUL`
-* before `PW-FP`
+* before `PW-FR`
 * town-gate `TOUPB H-PB TKPWAET`
 * mail `PHAEUL`
 * coach `KOEFP`

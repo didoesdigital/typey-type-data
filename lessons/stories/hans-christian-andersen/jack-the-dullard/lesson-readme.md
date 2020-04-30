@@ -465,7 +465,7 @@
 * blows, `PWHROES KW-BG`
 * able, `ABL KW-BG`
 * merely `PHAOERL`
-* before `PW-FP`
+* before `PW-FR`
 * other. `OER TP-PL`
 * inhabitants `EUPB/HABT/APBTS`
 * great `TKPWRAET`

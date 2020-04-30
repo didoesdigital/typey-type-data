@@ -27,7 +27,7 @@
 * were `WR`
 * standing `STAPBG`
 * together `TOGT`
-* before `PW-FP`
+* before `PW-FR`
 * house `HOUS`
 * said, `SAEUD KW-BG`
 * 'I `AE EU`

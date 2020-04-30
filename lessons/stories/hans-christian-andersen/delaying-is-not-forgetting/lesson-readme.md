@@ -463,7 +463,7 @@
 * ended; `EPBD/-D STPH*FPLT`
 * again `TKPWEPB`
 * meet `PHAOET`
-* before `PW-FP`
+* before `PW-FR`
 * God!" `TKPWO*D SKHRAPL KR-GS`
 * A `KPA/AEU`
 * week `WAOEBG`

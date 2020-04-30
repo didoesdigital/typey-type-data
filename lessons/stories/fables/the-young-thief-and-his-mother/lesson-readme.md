@@ -28,7 +28,7 @@
 * speak `SPAOEBG`
 * with `W`
 * her `HER`
-* before `PW-FP`
+* before `PW-FR`
 * he `HE`
 * was `WAS`
 * led `HRED`

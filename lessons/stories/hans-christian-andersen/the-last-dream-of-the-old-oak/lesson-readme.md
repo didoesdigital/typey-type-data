@@ -411,7 +411,7 @@
 * birds `PWEURDZ`
 * passage `PAFPBLG`
 * come `KOPL`
-* before `PW-FP`
+* before `PW-FR`
 * taking `TAEUG`
 * their `THAEUR`
 * flight `TPHRAOEUT`

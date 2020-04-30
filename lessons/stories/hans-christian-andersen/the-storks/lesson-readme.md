@@ -620,7 +620,7 @@
 * As `KPA/AZ`
 * arrived, `A/RAOEUFD KW-BG`
 * together `TOGT`
-* before `PW-FP`
+* before `PW-FR`
 * taking `TAEUG`
 * departure `TKPART/AOUR`
 * during `TKURG`

@@ -164,7 +164,7 @@
 * times `TAOEUPLS`
 * as `AZ`
 * much `PHUFP`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * If `KPA/TP`
 * have `SR`
 * any `TPHEU`
@@ -183,7 +183,7 @@
 * terribly `TERBL/HREU`
 * afraid, `A/TPRAEUD KW-BG`
 * enchantress `EPB/KHAPBT/RES`
-* before `PW-FP`
+* before `PW-FR`
 * him. `HEUPL TP-PL`
 * 'How `AE KPA/HOU`
 * can `K`

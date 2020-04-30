@@ -619,7 +619,7 @@
 * sailor, `SAEU/HROR KW-BG`
 * start `START`
 * voyage. `SROEUPBLG TP-PL`
-* before `PW-FP`
+* before `PW-FR`
 * say `SAEU`
 * farewell, `TPAER/WEL KW-BG`
 * mother `PHOER`
@@ -1286,7 +1286,7 @@
 * tree, `TRAOE KW-BG`
 * older `OERLD`
 * woman. `WOPL TP-PL`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * faded, `TPAEUD/-D KW-BG`
 * spray, `SPRAEU KW-BG`
 * planted `PHRAPBT/-D`

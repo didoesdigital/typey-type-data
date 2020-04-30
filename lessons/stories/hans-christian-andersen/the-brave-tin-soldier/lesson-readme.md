@@ -26,7 +26,7 @@
 * and `SKP`
 * looked `HRAOBGD`
 * straight `STRAEUT`
-* before `PW-FP`
+* before `PW-FR`
 * them, `THEPL KW-BG`
 * wore `WOR`
 * a `AEU`

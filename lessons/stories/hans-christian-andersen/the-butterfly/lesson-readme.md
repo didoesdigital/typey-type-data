@@ -48,7 +48,7 @@
 * maidens `PHAEUD/*EPB/-S`
 * should `SHO`
 * sit `SEUT`
-* before `PW-FP`
+* before `PW-FR`
 * they `THE`
 * are `R`
 * engaged; `EPB/TKPWAEUPBLGD STPH*FPLT`

@@ -411,7 +411,7 @@
 * beers `PWAOERS`
 * beet `PWAOET`
 * beetle `PWAO*ELT`
-* before `PW-FP`
+* before `PW-FR`
 * beforehand `PW-FRPBD`
 * beg `PWEG`
 * began `TKPWAPB`

@@ -15,7 +15,7 @@
 * bring `PWREU`
 * forth `TPO*RT`
 * flowers `TPHRO*URS`
-* before `PW-FP`
+* before `PW-FR`
 * they `THE`
 * got `TKPWOT`
 * green `TKPWRAOEPB`

@@ -35,7 +35,7 @@
 * see `SAOE`
 * him `HEUPL`
 * again `TKPWEPB`
-* before `PW-FP`
+* before `PW-FR`
 * end. `EPBD TP-PL`
 * Then `KPA/THEPB`
 * said `SAEUD`

@@ -90,7 +90,7 @@
 * again `TKPWEPB`
 * into `TPHAO`
 * river; `REUFR STPH*FPLT`
-* before `PW-FP`
+* before `PW-FR`
 * swam `SWAPL`
 * away `A/WAEU`
 * lifted `HREUFTD`

@@ -197,7 +197,7 @@
 * nothing `TPHOG`
 * singing `SEUPBG/-G`
 * ever `-FR`
-* before `PW-FP`
+* before `PW-FR`
 * been `PW-PB`
 * heard. `HAERD TP-PL`
 * One `KPA/WUPB`
@@ -693,7 +693,7 @@
 * cautious. `KAURBS TP-PL`
 * short `SHORT`
 * time `TAOEUPL`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * dug `TKUG`
 * passage `PAFPBLG`
 * earth, `*ERT KW-BG`

@@ -331,7 +331,7 @@
 * join `SKWROEUPB`
 * procession. `PRO/SEGS TP-PL`
 * torches `TOR/-FPS`
-* before `PW-FP`
+* before `PW-FR`
 * could `KO`
 * look `HRAOBG`
 * round, `ROUPBD KW-BG`

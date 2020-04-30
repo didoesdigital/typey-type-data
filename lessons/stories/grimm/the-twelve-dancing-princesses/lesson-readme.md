@@ -396,7 +396,7 @@
 * noise? `TPHOEUS H-F`
 * That `KPA/THA`
 * never `TPHEFR`
-* before.' `PW-FP TP-PL AE`
+* before.' `PW-FR TP-PL AE`
 * 'It `AE KPA/T`
 * our `OUR`
 * princes, `PREUPBS/-S KW-BG`
@@ -504,7 +504,7 @@
 * night. `TPHAOEUT TP-PL`
 * stairs, `STAEURS KW-BG`
 * ran `RAPB`
-* before `PW-FP`
+* before `PW-FR`
 * princesses, `PREUPB/SES/-S KW-BG`
 * down; `TKOUPB STPH*FPLT`
 * sisters `ST-RS`
@@ -526,7 +526,7 @@
 * strange `STRAEUPBG`
 * adventure, `SREPBG KW-BG`
 * just `SKWRUFT`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * pieces, `PAOEFS KW-BG`
 * returned `RURPBD`
 * home. `HOEPL TP-PL`

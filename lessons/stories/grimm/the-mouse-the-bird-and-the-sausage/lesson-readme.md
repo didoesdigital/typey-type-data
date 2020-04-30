@@ -281,7 +281,7 @@
 * pot; `POT STPH*FPLT`
 * stopped `STOPD`
 * short `SHORT`
-* before `PW-FP`
+* before `PW-FR`
 * reached `RAOEFPD`
 * bottom, `PWOPLT KW-BG`
 * already `HR-R`

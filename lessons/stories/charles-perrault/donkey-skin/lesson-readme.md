@@ -218,7 +218,7 @@
 * you `U`
 * certain `SERPB`
 * matter `PHAERT`
-* before `PW-FP`
+* before `PW-FR`
 * die: `TKAOEU STPH-FPLT`
 * if, `TP KW-BG`
 * perchance, `PER/KHAPBS KW-BG`

@@ -469,7 +469,7 @@
 * melting `PHELT/-G`
 * furnace `TPURPBS`
 * make `PHAEUBG`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * No `KPA/TPHO`
 * could `KO`
 * possibly `POBL`

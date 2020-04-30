@@ -104,7 +104,7 @@
 * if `TP`
 * it `T`
 * brought `PWRAUT`
-* before `PW-FP`
+* before `PW-FR`
 * eyes `AO*EUS`
 * close, `KHROES KW-BG`
 * will `HR`

@@ -388,7 +388,7 @@
 * designate `TKEZ/TPHAT`
 * thirty `THEURT`
 * ago, `AG KW-BG`
-* before-mentioned `PW-FP H-PB PHEPBGS/-D`
+* before-mentioned `PW-FR H-PB PHEPBGS/-D`
 * Herr `xxx Herr`
 * younger. `KWRURPBG TP-PL`
 * At `KPA/AT`
@@ -605,7 +605,7 @@
 * slippers `SHREUP/ERS`
 * feet, `TPAOET KW-BG`
 * allowed `HRO*UD`
-* before `PW-FP`
+* before `PW-FR`
 * beginning `TKPWEUPB/-G`
 * next `TPHEGT`
 * act, `ABGT KW-BG`
@@ -660,7 +660,7 @@
 * printed `PREUPBTD`
 * dead `TKED`
 * buried, `PWUR/EUD KW-BG`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * risk `REUFBG`
 * arms `ARPLS`
 * legs `HREGS`

@@ -1,7 +1,7 @@
 # Multi-syllable words with briefs
 
 * other `OER`
-* before `PW-FP`
+* before `PW-FR`
 * over `OEFR`
 * even `AOEPB`
 * under `TPH-PB`

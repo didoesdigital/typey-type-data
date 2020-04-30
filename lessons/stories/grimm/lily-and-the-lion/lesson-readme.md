@@ -14,7 +14,7 @@
 * a `AEU`
 * journey; `SKWRURPB STPH*FPLT`
 * but `PWUT`
-* before `PW-FP`
+* before `PW-FR`
 * he `HE`
 * went `WEPBT`
 * asked `SK-D`
@@ -722,7 +722,7 @@
 * blood: `PWHRAOD STPH-FPLT`
 * brood.' `PWRAO*D TP-PL AE`
 * betray `PWE/TRAEU`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * asked: `SK-D STPH-FPLT`
 * chamber `KHAEURPL`
 * why `KWR`

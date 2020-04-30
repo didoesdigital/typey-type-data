@@ -150,7 +150,7 @@
 * food `TPAOD`
 * drink `TKREU`
 * placed `PHRAEUFD`
-* before `PW-FP`
+* before `PW-FR`
 * him? `HEUPL H-F`
 * And `AFPBD`
 * don't `TKOEPBT`

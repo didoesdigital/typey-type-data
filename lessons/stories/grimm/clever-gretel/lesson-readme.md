@@ -103,7 +103,7 @@
 * towards `TORDZ`
 * evening `AOEPBG`
 * set `SET`
-* before `PW-FP`
+* before `PW-FR`
 * fire, `TPAOEUR KW-BG`
 * they `THE`
 * might `PHAOEUT`

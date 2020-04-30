@@ -228,7 +228,7 @@
 * every `EF`
 * wreath `WRAO*ET`
 * bed `PWED`
-* before `PW-FP`
+* before `PW-FR`
 * awoke, `A/WOEBG KW-BG`
 * rose `ROEZ`
 * from `TPR`

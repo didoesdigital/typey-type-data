@@ -326,7 +326,7 @@
 * withered `WEU/THER/-D`
 * leaf, `HRAOEF KW-BG`
 * short `SHORT`
-* before `PW-FP`
+* before `PW-FR`
 * diligently `TKEUL/SKWREPBT/HREU`
 * employed `PHOEUD`
 * deeds `TKAOEDZ`

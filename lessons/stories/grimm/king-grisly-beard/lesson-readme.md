@@ -180,7 +180,7 @@
 * dirty-looking `TKOEURT SKWRAOG`
 * fellow; `TPO*EUL STPH*FPLT`
 * sung `SUPBG`
-* before `PW-FP`
+* before `PW-FR`
 * princess, `PREUPB/SES KW-BG`
 * begged `PWEGD`
 * boon. `PWAOPB TP-PL`

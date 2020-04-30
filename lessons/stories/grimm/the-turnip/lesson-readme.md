@@ -71,7 +71,7 @@
 * for `TPOR`
 * such `SUFP`
 * seen `SAOEPB`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * will `HR`
 * again. `TKPWEPB TP-PL`
 * At `KPA/AT`

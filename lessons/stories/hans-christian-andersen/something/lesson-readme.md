@@ -197,7 +197,7 @@
 * attain `A/TAEUPB`
 * rank, `RA*PBG KW-BG`
 * placed `PHRAEUFD`
-* before `PW-FP`
+* before `PW-FR`
 * after `AF`
 * name, `TPHAEUPL KW-BG`
 * build `PWEULD`

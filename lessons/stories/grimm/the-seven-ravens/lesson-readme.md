@@ -161,7 +161,7 @@
 * took `TAOBG`
 * care `KAEUR`
 * speak `SPAOEBG`
-* before `PW-FP`
+* before `PW-FR`
 * her: `HER STPH-FPLT`
 * by `PWEU`
 * chance `KHAPBS`

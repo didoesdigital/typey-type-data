@@ -202,7 +202,7 @@
 * fagot `xxx fagot`
 * sticks `STEUBGS`
 * lying `HRAOEUG`
-* before `PW-FP`
+* before `PW-FR`
 * picked `PEUBGD`
 * up `UP`
 * wood. `WAOD TP-PL`

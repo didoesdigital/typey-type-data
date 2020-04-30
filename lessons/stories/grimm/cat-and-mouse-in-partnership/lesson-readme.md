@@ -111,7 +111,7 @@
 * placed `PHRAEUFD`
 * safety, `SAEFT KW-BG`
 * long `HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * yearning `KWRERPBG`
 * it, `T KW-BG`
 * mouse: `PHOUS STPH-FPLT`
@@ -240,7 +240,7 @@
 * as `AZ`
 * godchildren `xxx godchildren`
 * called.' `KAULD TP-PL AE`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * seized `SAOEZ/-D`
 * another `TPHOER`
 * fit `TPEUT`

@@ -66,7 +66,7 @@
 * away `A/WAEU`
 * from `TPR`
 * bridge, `PWREUPBLG KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * whole `WHOEL`
 * hunting `HUPBT/-G`
 * party `PAERT`

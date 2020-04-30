@@ -188,7 +188,7 @@
 * flowers `TPHRO*URS`
 * with. `W TP-PL`
 * long `HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * old `OLD`
 * woman's `WOPL/AES`
 * house: `HOUS STPH-FPLT`

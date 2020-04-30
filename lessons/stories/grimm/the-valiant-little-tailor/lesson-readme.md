@@ -151,7 +151,7 @@
 * just `SKWRUFT`
 * finish `TP*EURB`
 * jacket `SKWRABGT`
-* before `PW-FP`
+* before `PW-FR`
 * take `TAEUBG`
 * bite.' `PWAOEUT TP-PL AE`
 * laid `HRAEUD`
@@ -265,7 +265,7 @@
 * too `TAO`
 * small `SPHAL`
 * valour. `SRAL/HROR/A*U TP-PL`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * sought `SAUT`
 * about `PW`
 * house `HOUS`
@@ -892,7 +892,7 @@
 * bethought `PWE/THAUT`
 * how `HOU`
 * hero. `HOEUR TP-PL`
-* 'Before `AE KPA/PW-FP`
+* 'Before `AE KPA/PW-FR`
 * receive `SAOEF`
 * daughter, `TKAUR KW-BG`
 * kingdom,' `KEUPBG/TKOPL KW-BG AE`

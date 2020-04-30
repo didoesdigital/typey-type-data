@@ -208,7 +208,7 @@
 * too; `TAO STPH*FPLT`
 * if `TP`
 * merry `PHER/REU`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * ten `TEPB`
 * times `TAOEUPLS`
 * more `PHOR`
@@ -216,7 +216,7 @@
 * He `KPA/HE`
 * gone `TKPWOPB`
 * far `TPAR`
-* before `PW-FP`
+* before `PW-FR`
 * an `APB`
 * old `OLD`
 * miser: `PHAOEUZ/ER STPH-FPLT`

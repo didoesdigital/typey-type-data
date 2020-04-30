@@ -349,7 +349,7 @@
 * held `HELD`
 * brown `PWROUPB`
 * hands `HAPBDZ`
-* before `PW-FP`
+* before `PW-FR`
 * eyes, `AO*EUS KW-BG`
 * burst `PWUFRT`
 * tears; `TAERS STPH*FPLT`

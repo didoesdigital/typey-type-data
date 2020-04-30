@@ -360,7 +360,7 @@
 * was, `WAS KW-BG`
 * help `HEP`
 * shuddering `SHUD/ERG`
-* before `PW-FP`
+* before `PW-FR`
 * their `THAEUR`
 * whenever `WHEFR`
 * brought `PWRAUT`

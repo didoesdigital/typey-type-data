@@ -531,8 +531,8 @@
 * And, `AFPBD KW-BG`
 * Any `KPA/TPHEU`
 * such!' `SUFP SKHRAPL AE`
-* before? `PW-FP H-F`
-* Before `KPA/PW-FP`
+* before? `PW-FR H-F`
+* Before `KPA/PW-FR`
 * after. `AF TP-PL`
 * there. `THR TP-PL`
 * these. `THEZ TP-PL`
@@ -788,7 +788,7 @@
 * 'What `AE KPA/WHA`
 * which?" `WEU H-F KR-GS`
 * one--?" `WUPB H-PB H-PB H-F KR-GS`
-* before?" `PW-FP H-F KR-GS`
+* before?" `PW-FR H-F KR-GS`
 * miss!" `PHEUS SKHRAPL KR-GS`
 * by." `PWEU TP-PL KR-GS`
 * be?" `-B H-F KR-GS`
@@ -852,7 +852,7 @@
 * No: `KPA/TPHO STPH-FPLT`
 * not!' `TPHOT SKHRAPL AE`
 * all!' `AUL SKHRAPL AE`
-* before.' `PW-FP TP-PL AE`
+* before.' `PW-FR TP-PL AE`
 * you.' `U TP-PL AE`
 * know `TPHOE`
 * her?' `HER H-F AE`
@@ -867,7 +867,7 @@
 * men!... `PHEPB SKHRAPL TP-PL TP-PL TP-PL`
 * made `PHAED`
 * [As `PWR-BGT KPA/AZ`
-* before.] `PW-FP TP-PL PWR*BGT`
+* before.] `PW-FR TP-PL PWR*BGT`
 * [But `PWR-BGT KPA/PWUT`
 * 'So `AE KPA/SO`
 * ‘Not `TP-P/KPA*/TPHOT`
@@ -883,7 +883,7 @@
 * time." `TAOEUPL TP-PL KR-GS`
 * be." `-B TP-PL KR-GS`
 * "More, `KR-GS KPA/PHOR KW-BG`
-* before." `PW-FP TP-PL KR-GS`
+* before." `PW-FR TP-PL KR-GS`
 * "No; `KR-GS KPA/TPHO STPH*FPLT`
 * "Such `KR-GS KPA/SUFP`
 * "There, `KR-GS KPA/THR KW-BG`
@@ -953,7 +953,7 @@
 * One----!" `KPA/WUPB H-PB H-PB H-PB H-PB SKHRAPL KR-GS`
 * men?" `PHEPB H-F KR-GS`
 * like." `HRAOEUBG TP-PL KR-GS`
-* "Before `KR-GS KPA/PW-FP`
+* "Before `KR-GS KPA/PW-FR`
 * about `PW`
 * so, `SO KW-BG`
 * know?" `TPHOE H-F KR-GS`
@@ -970,7 +970,7 @@
 * was--?" `WAS H-PB H-PB H-F KR-GS`
 * "Who--who `KR-GS KPA/WHO H-PB H-PB WHO`
 * not!" `TPHOT SKHRAPL KR-GS`
-* --"Before `H-PB H-PB KR-GS KPA/PW-FP`
+* --"Before `H-PB H-PB KR-GS KPA/PW-FR`
 * --This `H-PB H-PB KPA/TH`
 * --Two `H-PB H-PB KPA/TWO`
 * One. `KPA/WUPB TP-PL`
@@ -1046,7 +1046,7 @@
 * women `WEUPL`
 * this, `TH KW-BG`
 * No--is `KPA/TPHO H-PB H-PB S`
-* before `PW-FP`
+* before `PW-FR`
 * now, `TPHOU KW-BG`
 * then; `THEPB STPH*FPLT`
 * him, `HEUPL KW-BG`
@@ -1185,7 +1185,7 @@
 * would--no, `WO H-PB H-PB TPHO KW-BG`
 * 'But `AE KPA/PWUT`
 * other." `OER TP-PL KR-GS`
-* "Before, `KR-GS KPA/PW-FP KW-BG`
+* "Before, `KR-GS KPA/PW-FR KW-BG`
 * after?" `AF H-F KR-GS`
 * good-by!" `TKPWAOD H-PB PWEU SKHRAPL KR-GS`
 * to." `TO TP-PL KR-GS`
@@ -1312,8 +1312,8 @@
 * us, `US KW-BG`
 * have?' `SR H-F AE`
 * know--we `TPHOE H-PB H-PB WE`
-* before?' `PW-FP H-F AE`
-* before. `PW-FP TP-PL`
+* before?' `PW-FR H-F AE`
+* before. `PW-FR TP-PL`
 * me--it `PHE H-PB H-PB T`
 * it--what `T H-PB H-PB WHA`
 * which?' `WEU H-F AE`

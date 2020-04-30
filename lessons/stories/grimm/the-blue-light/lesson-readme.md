@@ -269,7 +269,7 @@
 * black `PWHRABG`
 * dwarf `TKWAFR`
 * stood `STAOD`
-* before `PW-FP`
+* before `PW-FR`
 * him, `HEUPL KW-BG`
 * said: `SAEUD STPH-FPLT`
 * 'Lord, `AE HRO*RD KW-BG`

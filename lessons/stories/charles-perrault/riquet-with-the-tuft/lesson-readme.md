@@ -486,7 +486,7 @@
 * found `TPOUPBD`
 * herself `H*ERS`
 * otherwise `O*ERZ`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * incredible `TPHEBL`
 * facility `TPAS/EULT`
 * speaking `SPAOEG`
@@ -521,7 +521,7 @@
 * witty `WEUT/TEU`
 * silly `SEUL/HREU`
 * impertinences `*EUPL/PERT/TPHEPBS/-S`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * overjoyed `AUFR/SKWROEUD`
 * imagination; `PHAPBLG/TPHAEUGS STPH*FPLT`
 * younger `KWRURPBG`
@@ -677,7 +677,7 @@
 * taken `TAEPB`
 * thirty `THEURT`
 * steps `STEPS`
-* before `PW-FP`
+* before `PW-FR`
 * presented `PREPBTD`
 * bravely `PWRAEUFL`
 * dressed, `TKREFD KW-BG`

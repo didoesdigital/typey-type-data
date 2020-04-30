@@ -747,7 +747,7 @@
 * gun `TKPW-PB`
 * fired `TPAOEURD`
 * late `HRAEUT`
-* before `PW-FP`
+* before `PW-FR`
 * quiet, `KWAO*EUT KW-BG`
 * dare `TKAEUR`
 * move. `PHOF TP-PL`
@@ -1003,7 +1003,7 @@
 * flock `TPHROBG`
 * beautiful `PWAOUFL`
 * bushes. `PWURBS TP-PL`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * swans, `SWAPBS KW-BG`
 * curved `KUFRBD`
 * necks, `TPHEBG/-S KW-BG`

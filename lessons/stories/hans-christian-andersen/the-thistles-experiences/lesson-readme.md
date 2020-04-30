@@ -275,7 +275,7 @@
 * itself, `T/SEFL KW-BG`
 * days `TKAEUS`
 * gone `TKPWOPB`
-* before `PW-FP`
+* before `PW-FR`
 * heard, `HAERD KW-BG`
 * men, `PHEPB KW-BG`
 * twittering `HRO*ER/TWEUT/*ERG`

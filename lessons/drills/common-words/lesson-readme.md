@@ -84,7 +84,7 @@
 * bed `PWED`
 * bedroom `PW-PL`
 * been `PW-PB`
-* before `PW-FP`
+* before `PW-FR`
 * began `TKPWAPB`
 * begin `TKPWEUPB`
 * behind `HEUPBD`

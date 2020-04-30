@@ -296,7 +296,7 @@
 * horse `HORS`
 * full `TPUL`
 * gallop; `TKPWAL/OP STPH*FPLT`
-* before `PW-FP`
+* before `PW-FR`
 * knew `TPHAOU`
 * about, `PW KW-BG`
 * thrown `THROEPB`

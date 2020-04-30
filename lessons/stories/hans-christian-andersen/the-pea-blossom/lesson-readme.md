@@ -216,7 +216,7 @@
 * floor, `TPHRAOR KW-BG`
 * roll `ROL`
 * about `PW`
-* before `PW-FP`
+* before `PW-FR`
 * got `TKPWOT`
 * pea-shooter; `PAE H-PB SHAORT STPH*FPLT`
 * but `PWUT`

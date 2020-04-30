@@ -17,7 +17,7 @@
 * had `H`
 * himself `H*EUPLS`
 * so `SO`
-* before `PW-FP`
+* before `PW-FR`
 * could `KO`
 * speak `SPAOEBG`
 * plainly, `PHRAEUPBL KW-BG`

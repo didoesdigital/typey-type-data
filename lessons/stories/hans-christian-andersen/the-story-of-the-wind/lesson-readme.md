@@ -1526,7 +1526,7 @@
 * countenance; `KOUPBT/TPHAPBS STPH*FPLT`
 * climb, `KHRAOEUPL KW-BG`
 * overboard `AUFR/PWAO*RD`
-* before `PW-FP`
+* before `PW-FR`
 * found `TPOUPBD`
 * woman; `WOPL STPH*FPLT`
 * opinion, `P-PB KW-BG`

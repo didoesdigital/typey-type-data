@@ -227,7 +227,7 @@
 * arose, `A/ROES KW-BG`
 * lost `HRO*S`
 * way, `WAEU KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * discovered `SKOFD`
 * right `RAOEUT`
 * path, `PA*T KW-BG`
@@ -472,7 +472,7 @@
 * till `TEUL`
 * louder `HROURD`
 * than `THAPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * "Hallo! `KR-GS HA*L/KWRO SKHRAPL`
 * got `TKPWOT`
 * sack!" `SABG SKHRAPL KR-GS`

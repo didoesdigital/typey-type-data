@@ -194,7 +194,7 @@
 * not `TPHOT`
 * gone `TKPWOPB`
 * far `TPAR`
-* before `PW-FP`
+* before `PW-FR`
 * said, `SAEUD KW-BG`
 * much `PHUFP`
 * tired--I `TAOEURD H-PB H-PB EU`

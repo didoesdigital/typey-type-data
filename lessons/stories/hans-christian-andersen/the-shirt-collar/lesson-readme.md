@@ -64,7 +64,7 @@
 * delicate, `TKEL/KAT KW-BG`
 * neat `TPHAOET`
 * soft `SOFT`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * May `PHA*EU`
 * I `EU`
 * venture `SREPBT/UR`

@@ -79,7 +79,7 @@
 * smoking `SPHOEG`
 * dish `TKEURB`
 * porridge `PORPBLG`
-* before `PW-FP`
+* before `PW-FR`
 * him. `HEUPL TP-PL`
 * But `KPA/PWUT`
 * when `WHEPB`

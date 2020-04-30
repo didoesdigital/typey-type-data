@@ -113,7 +113,7 @@
 * chair, `KHAEUR KW-BG`
 * set `SET`
 * it `T`
-* before `PW-FP`
+* before `PW-FR`
 * barrel `PWARL`
 * no `TPHO`
 * need `TPHAOED`

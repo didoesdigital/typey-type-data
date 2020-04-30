@@ -89,7 +89,7 @@
 * feast `TPAOEFT`
 * Fairies. `KPA/TPAEUR/REU/-S TP-PL`
 * placed `PHRAEUFD`
-* before `PW-FP`
+* before `PW-FR`
 * magnificent `PHAFPBT`
 * cover `KOFR`
 * case `KAEUS`
@@ -1055,7 +1055,7 @@
 * Day." `KPA/TKAEU TP-PL KR-GS`
 * word, `WORD KW-BG`
 * cheat `KHAOET`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * foil `TPOEUL`
 * fencing `TPEPBS/-G`
 * monkey; `PHOPB/KAE STPH*FPLT`

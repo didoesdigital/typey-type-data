@@ -335,7 +335,7 @@
 * castle `KAFL`
 * parchment `PAFRPB/*PLT`
 * roll `ROL`
-* before `PW-FP`
+* before `PW-FR`
 * her, `HER KW-BG`
 * wrote `WRO`
 * down `TKOUPB`

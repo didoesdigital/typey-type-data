@@ -90,7 +90,7 @@
 * up `UP`
 * opened `OEPD`
 * door. `TKAOR TP-PL`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * him `HEUPL`
 * stood `STAOD`
 * boy; `PWOEU STPH*FPLT`

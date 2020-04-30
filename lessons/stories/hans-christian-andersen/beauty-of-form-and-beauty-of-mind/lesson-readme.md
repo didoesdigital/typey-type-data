@@ -93,7 +93,7 @@
 * people `PAOEPL`
 * themselves, `TH*EPLS KW-BG`
 * stood `STAOD`
-* before `PW-FP`
+* before `PW-FR`
 * house, `HOUS KW-BG`
 * watching `WAFPG`
 * lighted `HRAOEUT/-D`
@@ -510,7 +510,7 @@
 * eruptions `AOE/RUPGS/-S`
 * fire `TPAOEUR`
 * it. `T TP-PL`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * "Good `KR-GS KPA/TKPWAOD`
 * heavens!" `HEFPBS SKHRAPL KR-GS`
 * exclaimed. `SKHRAEUPL/-D TP-PL`

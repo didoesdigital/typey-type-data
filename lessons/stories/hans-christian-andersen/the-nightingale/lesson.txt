@@ -39,7 +39,7 @@ The Nightingale
 'hear': HAER
 'it': T
 'now': TPHOU
-'before': PW-FP
+'before': PW-FR
 'it': T
 'is': S
 'forgotten.': TPORGTD TP-PL
@@ -957,7 +957,7 @@ The Nightingale
 'certainly': SERPBL
 'heard': HAERD
 'it': T
-'before."': PW-FP TP-PL KR-GS
+'before."': PW-FR TP-PL KR-GS
 '"No,': KR-GS KPA/TPHO KW-BG
 'that': THA
 'is': S
@@ -1100,7 +1100,7 @@ The Nightingale
 'you': U
 'to': TO
 'sing': SEUPBG
-'before': PW-FP
+'before': PW-FR
 'him."': HEUPL TP-PL KR-GS
 '"With': KR-GS KPA/W
 'the': -T
@@ -1140,7 +1140,7 @@ The Nightingale
 'never': TPHEFR
 'heard': HAERD
 'this': TH
-'before;': PW-FP STPH*FPLT
+'before;': PW-FR STPH*FPLT
 'she': SHE
 'will': HR
 'be': -B
@@ -1154,7 +1154,7 @@ The Nightingale
 'sing': SEUPBG
 'once': WUPBS
 'more': PHOR
-'before': PW-FP
+'before': PW-FR
 'the': -T
 'emperor?"': EPL/ROR H-F KR-GS
 'asked': SK-D

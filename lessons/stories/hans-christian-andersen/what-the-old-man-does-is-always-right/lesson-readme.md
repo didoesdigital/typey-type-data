@@ -694,7 +694,7 @@
 * walk `WAUBG`
 * fatter `TPAT/ER`
 * still `STEUL`
-* before `PW-FP`
+* before `PW-FR`
 * fowl." `TPO*UL TP-PL KR-GS`
 * "A `KR-GS KPA/AEU`
 * fowl! `TPO*UL SKHRAPL`

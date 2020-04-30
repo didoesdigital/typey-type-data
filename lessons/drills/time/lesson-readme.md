@@ -5,7 +5,7 @@
 * afternoon `AFPB`
 * already `HR-R`
 * autumn `AU/UPL`
-* before `PW-FP`
+* before `PW-FR`
 * centuries `KREPBT/REUS`
 * century `KROEURPBT`
 * clock `KHROBG`

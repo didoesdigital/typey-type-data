@@ -300,7 +300,7 @@
 * welcomed `W-BGD`
 * kindly; `KAOEUPBD/HREU STPH*FPLT`
 * not `TPHOT`
-* before `PW-FP`
+* before `PW-FR`
 * much `PHUFP`
 * love `HRUF`
 * nothing `TPHOG`
@@ -495,7 +495,7 @@
 * shall `SHAL`
 * worse `WORS`
 * off `OF`
-* before; `PW-FP STPH*FPLT`
+* before; `PW-FR STPH*FPLT`
 * neither `TPHAOERT`
 * apples `APLS`
 * nor `TPH-R`

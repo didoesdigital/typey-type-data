@@ -95,7 +95,7 @@
 * be, `-B KW-BG`
 * sudden `SUD`
 * stood `STAOD`
-* before `PW-FP`
+* before `PW-FR`
 * little, `HREUL KW-BG`
 * rough-looking, `RUF H-PB HRAOG KW-BG`
 * black `PWHRABG`
@@ -258,7 +258,7 @@
 * again, `TKPWEPB KW-BG`
 * richer `REUFP/*ER`
 * than `THAPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * Meantime `KPA/PHAOEPB/TAO*EUPL`
 * Heinel `xxx Heinel`
 * grew `TKPWRAOU`

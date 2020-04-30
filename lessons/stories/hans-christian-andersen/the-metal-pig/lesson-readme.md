@@ -259,7 +259,7 @@
 * could `KO`
 * rest `REFT`
 * and, `SKP KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * aware, `A/WAEUR KW-BG`
 * fell `TPEL`
 * asleep. `A/SHRAOEP TP-PL`
@@ -341,7 +341,7 @@
 * They `KPA/THE`
 * entered `SPWR-D`
 * gallery, `TKPWAL/REU KW-BG`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * walls `WAULS`
 * resplendent `RE/SPHREPBD/EPBT`
 * paintings; `PAEUPBGS STPH*FPLT`
@@ -864,7 +864,7 @@
 * doors `TKAORS`
 * opened `OEPD`
 * night `TPHAOEUT`
-* before, `PW-FP KW-BG`
+* before, `PW-FR KW-BG`
 * in. `TPH TP-PL`
 * bright, `PWRAOEUT KW-BG`
 * tomb `TAOUPL`

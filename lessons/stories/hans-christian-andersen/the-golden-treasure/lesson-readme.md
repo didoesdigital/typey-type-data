@@ -388,7 +388,7 @@
 * observed `OEBD`
 * father; `TPAER STPH*FPLT`
 * "but `KR-GS PWUT`
-* before `PW-FP`
+* before `PW-FR`
 * can `K`
 * do `TKO`
 * that, `THA KW-BG`

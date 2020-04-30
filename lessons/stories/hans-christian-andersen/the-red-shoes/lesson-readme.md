@@ -166,7 +166,7 @@
 * white `WHAOEUT`
 * clothes, `KHRO*ETS KW-BG`
 * stood `STAOD`
-* before `PW-FP`
+* before `PW-FR`
 * window `WOEUPBD`
 * allowed `HRO*UD`
 * be `-B`

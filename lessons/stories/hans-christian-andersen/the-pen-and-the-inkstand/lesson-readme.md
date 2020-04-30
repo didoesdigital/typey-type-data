@@ -185,7 +185,7 @@
 * imagine `PHAPBLG`
 * poet? `POET H-F`
 * servant, `SEFRB/APBT KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * came `KAEUPL`
 * many `PHAEPB`
 * like `HRAOEUBG`

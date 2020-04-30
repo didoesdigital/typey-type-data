@@ -85,7 +85,7 @@
 * last `HRAFT`
 * took `TAOBG`
 * up `UP`
-* before `PW-FP`
+* before `PW-FR`
 * him `HEUPL`
 * Donkey. `KPA/TKOPB/KEU TP-PL`
 * By `KPA/PWEU`

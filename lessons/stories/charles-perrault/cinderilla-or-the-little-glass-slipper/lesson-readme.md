@@ -556,7 +556,7 @@
 * probably `PROBL`
 * squirrel. `SKWEURL TP-PL`
 * Long `KPA/HROPBG`
-* before `PW-FP`
+* before `PW-FR`
 * seventeenth `STPAOEPBT`
 * century `KROEURPBT`
 * word `WORD`
@@ -602,7 +602,7 @@
 * rat, `RAT KW-BG`
 * footmen `TPAOT/PH*EPB`
 * lizards, `HREUZ/ARDZ KW-BG`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * promised `PROPLS/-D`
 * fail `TPAEUL`
 * midnight; `PHAOEUPBT STPH*FPLT`

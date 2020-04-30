@@ -685,7 +685,7 @@
 * They `KPA/THE`
 * fire `TPAOEUR`
 * fashion `TPAGS`
-* before `PW-FP`
+* before `PW-FR`
 * awakes; `A/WAEUBG/-S STPH*FPLT`
 * wake `WAEUBG`
 * will, `HR KW-BG`

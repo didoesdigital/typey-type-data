@@ -312,7 +312,7 @@
 * 'Raphael's `AE RAF/AEFL AES`
 * life' `HRAOEUF AE`
 * disappeared `TKEUS/PAOERD`
-* before `PW-FP`
+* before `PW-FR`
 * vapor `SRAEUP`
 * when `WHEPB`
 * saw `SAU`
@@ -1485,9 +1485,9 @@
 * reflection, `RE/TPHR*EBGS KW-BG`
 * hard `HARD`
 * couch, `KOUFP KW-BG`
-* down—before `TKOUPB EPL/TKA*RB PW-FP`
+* down—before `TKOUPB EPL/TKA*RB PW-FR`
 * whom? `WHOPL H-F`
-* Before `KPA/PW-FP`
+* Before `KPA/PW-FR`
 * cross `KROS`
 * fastened `TPAS/-PBD`
 * wall? `WAUL H-F`

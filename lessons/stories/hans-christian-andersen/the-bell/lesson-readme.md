@@ -260,7 +260,7 @@
 * become `PW-BG`
 * any `TPHEU`
 * wiser `WAOEUZ/ER`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * just `SKWRUFT`
 * confirmation-day. `K-FRPLGS H-PB TKAEU TP-PL`
 * clergyman `KHRERPBLG/PHAPB`
@@ -520,7 +520,7 @@
 * bushes, `PWURBS KW-BG`
 * boy `PWOEU`
 * stood `STAOD`
-* before `PW-FP`
+* before `PW-FR`
 * wooden `WAOD/EPB`
 * shoes `SHAOUS`
 * jacket `SKWRABGT`

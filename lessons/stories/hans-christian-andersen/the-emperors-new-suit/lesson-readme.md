@@ -238,7 +238,7 @@
 * into `TPHAO`
 * room `RAOPL`
 * sat `SAT`
-* before `PW-FP`
+* before `PW-FR`
 * "Heaven `KR-GS KPA/HEFPB`
 * preserve `PREFRB`
 * us!" `US SKHRAPL KR-GS`
@@ -391,7 +391,7 @@
 * thread. `THRED TP-PL`
 * magnificent?" `PHAFPBT H-F KR-GS`
 * statesmen `STAEUTS/PHEPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * "Your `KR-GS KPA/KWROUR`
 * Majesty `KPA/PHAPBLG/STEU`
 * pattern." `PAERPB TP-PL KR-GS`

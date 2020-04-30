@@ -195,7 +195,7 @@
 * ought `OT`
 * asked `SK-D`
 * something `S-G`
-* before `PW-FP`
+* before `PW-FR`
 * go; `TKPW STPH*FPLT`
 * she `SHE`
 * living `HREUFG`

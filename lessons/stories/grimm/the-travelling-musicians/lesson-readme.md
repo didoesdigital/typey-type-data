@@ -134,7 +134,7 @@
 * not `TPHOT`
 * gone `TKPWOPB`
 * far `TPAR`
-* before `PW-FP`
+* before `PW-FR`
 * cat `KAT`
 * sitting `SEUGT`
 * middle `PH*EULD`

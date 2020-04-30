@@ -170,7 +170,7 @@
 * see `SAOE`
 * starve `STAFRB`
 * death `TK*T`
-* before `PW-FP`
+* before `PW-FR`
 * my `PHEU`
 * face; `TPAEUS STPH*FPLT`
 * am `APL`
@@ -499,7 +499,7 @@
 * surer `SHUR/ER`
 * carry `KAER`
 * distance `STKAPBS`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * talk `TAUBG`
 * secretly, `SKRELT KW-BG`
 * overheard `AUFR/HAERD`

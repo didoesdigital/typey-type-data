@@ -841,7 +841,7 @@
 * "The `KR-GS KPA/-T`
 * sixth `S*BGS`
 * comes `KOPLS`
-* before `PW-FP`
+* before `PW-FR`
 * seventh," `S*EPBT KW-BG KR-GS`
 * reckon; `REBG/-PB STPH*FPLT`
 * forward. `TPAORD TP-PL`

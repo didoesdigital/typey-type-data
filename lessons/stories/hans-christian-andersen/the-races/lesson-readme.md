@@ -390,7 +390,7 @@
 * hind `HAOEUPBD`
 * legs `HREGS`
 * young `KWRUPBG`
-* before `PW-FP`
+* before `PW-FR`
 * engine; `TPH-PBLG STPH*FPLT`
 * idea `KWR-D`
 * there. `THR TP-PL`

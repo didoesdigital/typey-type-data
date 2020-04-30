@@ -167,7 +167,7 @@
 * greater `TKPWRAERT`
 * strength `STREPBG`
 * than `THAPB`
-* before. `PW-FP TP-PL`
+* before. `PW-FR TP-PL`
 * "Welcome, `KR-GS KPA/WELG KW-BG`
 * welcome!" `WELG SKHRAPL KR-GS`
 * sang `SAPBG`
@@ -468,7 +468,7 @@
 * away, `A/WAEU KW-BG`
 * by, `PWEU KW-BG`
 * again, `TKPWEPB KW-BG`
-* before `PW-FP`
+* before `PW-FR`
 * appeared `A/PAOERD`
 * once `WUPBS`
 * more. `PHOR TP-PL`
