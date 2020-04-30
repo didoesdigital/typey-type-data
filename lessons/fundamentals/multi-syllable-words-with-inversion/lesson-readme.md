@@ -62,6 +62,7 @@
 * welfare `WEFL`
 * despite `STKPAOEUT`
 * bending `PWEPBGD`
+* editing `ETD/-G`
 * rightly `RAOEULT`
 * designs `STKAOEUPBS`
 * disaster `STKAS/TER`
@@ -109,6 +110,7 @@
 * concluding `KAUPB/KHRAOUGD`
 * dispatch `STKPAFP`
 * beware `PWE/WAEUR`
+* outburst `AOUT/PWUFRT`
 * dismiss `STKPHEUS`
 * distorted `STKORTD`
 * heading `HEGD`

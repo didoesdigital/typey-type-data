@@ -109,7 +109,7 @@
 * have `SR`
 * recommended `REPLD`
 * us `US`
-* dispense `TKES/PEPBS`
+* dispense `TKEUS/PEPBS`
 * our `OUR`
 * chief `KHAOEF`
 * ornament `ORPB/*PLT`

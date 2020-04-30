@@ -332,7 +332,7 @@
 * dusty. `TKUS/TEU TP-PL`
 * At `KPA/AT`
 * crippled `KREUPLD`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * leaning `HRAOEPBG`
 * crutch; `KRUFP STPH*FPLT`
 * he `HE`
@@ -350,7 +350,7 @@
 * me, `PHE KW-BG`
 * what `WHA`
 * dancing-shoes!" `TKAPBS/-G H-PB SHAOUS SKHRAPL KR-GS`
-* soldier. `SHRERPBL TP-PL`
+* soldier. `SHRERPBLG TP-PL`
 * "Sit `KR-GS KPA/SEUT`
 * fast, `TPAFT KW-BG`
 * dance," `TKAPBS KW-BG KR-GS`

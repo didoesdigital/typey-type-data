@@ -214,7 +214,7 @@
 * good `TKPWAOD`
 * girls. `TKPWEURLS TP-PL`
 * In `KPA/TPH`
-* meantime, `PHAO*EPB/TAOEUPL KW-BG`
+* meantime, `PHAOEPB/TAO*EUPL KW-BG`
 * take `TAEUBG`
 * prettiest, `PRET/KWREFT KW-BG`
 * inside `TPH-DZ`
@@ -332,7 +332,7 @@
 * spot `SPOT`
 * me! `PHE SKHRAPL`
 * Goodness `KPA/TKPWAOD/-PBS`
-* material `TERL`
+* material `TAOERL`
 * ought `OT`
 * appreciated. `PRAOERBD TP-PL`
 * am `APL`

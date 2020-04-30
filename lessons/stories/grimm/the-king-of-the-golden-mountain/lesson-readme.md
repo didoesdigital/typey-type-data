@@ -259,7 +259,7 @@
 * richer `REUFP/*ER`
 * than `THAPB`
 * before. `PW-FP TP-PL`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * Heinel `xxx Heinel`
 * grew `TKPWRAOU`
 * up, `UP KW-BG`

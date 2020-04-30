@@ -1000,7 +1000,7 @@
 * tropical `TROP/K-L`
 * jungle, `SKWRUPBG/-L KW-BG`
 * whose `WHOZ`
-* shadow `SHO*EUD`
+* shadow `SHOEUD`
 * bygone `PW*EU/TKPWOPB`
 * mornings. `PHORPBGS TP-PL`
 * sunlit `SUPB/TK-LS/HREUT`

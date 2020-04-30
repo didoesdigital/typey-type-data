@@ -457,7 +457,7 @@
 * cheerfully `KHAOER/TPHREU`
 * Pennsylvania `PA*`
 * stirring `STEURG`
-* righteousness `RAOEUT/US/-PBS`
+* righteousness `RAOEUGS/-PBS`
 * missing `PHEUFG`
 * association `SOEGS`
 * asserted `A/SERT/-D`

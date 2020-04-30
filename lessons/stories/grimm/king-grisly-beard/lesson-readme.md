@@ -433,7 +433,7 @@
 * corner `KRORPB`
 * market; `PHARBGT STPH*FPLT`
 * drunken `TKR*UPBG/*EPB`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * by, `PWEU KW-BG`
 * rode `ROED`
 * horse `HORS`

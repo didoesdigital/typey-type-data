@@ -225,7 +225,7 @@
 * forced `TPOFRD`
 * abide `A/PWAOEUD`
 * spellbound. `SPEL/PWOUPBD TP-PL`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * lingering `HREUPBG/ERG`
 * daily `TKAEUL`
 * hope `HOEP`

@@ -1001,7 +1001,7 @@
 * thus `THUS`
 * found `TPOUPBD`
 * coffee. `KOEF TP-PL`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * messenger `PHAEPBG`
 * immediately, `PHAOELD KW-BG`
 * late; `HRAEUT STPH*FPLT`

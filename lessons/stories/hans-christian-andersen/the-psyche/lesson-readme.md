@@ -110,7 +110,7 @@
 * clings `KHREUPBGZ`
 * wall; `WAUL STPH*FPLT`
 * Coliseum `KOL/SAOE/UPL`
-* gigantic `SKWRAOEU/SKWRAPBT/EUBG`
+* gigantic `SKWRAOEU/TKPWAPBT/EUBG`
 * ruin; `RAOUPB STPH*FPLT`
 * church `KHUFRPB`
 * bells `PWELS`
@@ -603,7 +603,7 @@
 * call `KAUL`
 * enjoyment `SKWROEUPLT`
 * passing `PAFG`
-* shadow; `SHO*EUD STPH*FPLT`
+* shadow; `SHOEUD STPH*FPLT`
 * bubbles `PWUBLS`
 * seething `SAO*ET/-G`
 * dregs, `TKREG/-S KW-BG`
@@ -816,7 +816,7 @@
 * said. `SAEUD TP-PL`
 * Does `KPA/TKOS`
 * crater `KRAEU/TER`
-* volcano `SROL/KA/TPHOE`
+* volcano `SROL/KAEU/TPHOE`
 * lava `HRA/SRA`
 * pouring `PORG`
 * it? `T H-F`

@@ -203,7 +203,7 @@
 * well,' `WEL KW-BG AE`
 * 'do `AE TKO`
 * so, `SO KW-BG`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * perch `PEFRPB`
 * bush.' `PWURB TP-PL AE`
 * stretched `STREFPD`

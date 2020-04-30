@@ -481,7 +481,7 @@
 * black `PWHRABG`
 * muddy, `PHUD/KWREU KW-BG`
 * mighty `PHAOEUT/KWREU`
-* whirlwind `WHEURL/WEUPD`
+* whirlwind `WHEURL/WEUPBD`
 * blew `PWHRAOU`
 * over `OEFR`
 * rolled `ROLD`

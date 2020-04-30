@@ -84,7 +84,7 @@
 * come `KOPL`
 * back `PWABG`
 * spot, `SPOT KW-BG`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * what `WHA`
 * he `HE`
 * do `TKO`

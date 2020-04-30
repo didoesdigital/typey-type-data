@@ -538,7 +538,7 @@
 * herself `H*ERS`
 * bed `PWED`
 * listened. `HREUFPBD TP-PL`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * way; `WAEU STPH*FPLT`
 * plucked `PHRUBGD`
 * hearts, `HARTS KW-BG`

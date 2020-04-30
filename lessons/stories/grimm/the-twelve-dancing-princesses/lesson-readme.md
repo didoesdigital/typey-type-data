@@ -147,7 +147,7 @@
 * chanced `KHAPBS/-D`
 * an `APB`
 * old `OLD`
-* soldier, `SHRERPBL KW-BG`
+* soldier, `SHRERPBLG KW-BG`
 * wounded `WOUPBD/-D`
 * battle `PWA*LT`
 * fight `TPAOEUT`
@@ -173,7 +173,7 @@
 * better `PWOERT`
 * do,' `TKO KW-BG AE`
 * said `SAEUD`
-* soldier; `SHRERPBL STPH*FPLT`
+* soldier; `SHRERPBLG STPH*FPLT`
 * 'but `AE PWUT`
 * think `THEU`
 * like `HRAOEUBG`
@@ -215,7 +215,7 @@
 * wherever `W-FR`
 * go.' `TKPW TP-PL AE`
 * When `KPA/WHEPB`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * heard `HAERD`
 * good `TKPWAOD`
 * counsel, `KOUPB KW-BG`

@@ -579,7 +579,7 @@
 * bride; `PWRAOEUD STPH*FPLT`
 * carried `KAERD`
 * Partlet; `xxx Partlet STPH*FPLT`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * nut, `TPHUT KW-BG`
 * lay `HRAEU`
 * dead, `TKED KW-BG`

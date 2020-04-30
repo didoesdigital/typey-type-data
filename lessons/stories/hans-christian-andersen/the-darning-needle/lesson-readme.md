@@ -363,7 +363,7 @@
 * hand, `HAPBD KW-BG`
 * man `PHAPB`
 * unfit `UPB/TPEUT`
-* soldier. `SHRERPBL TP-PL`
+* soldier. `SHRERPBLG TP-PL`
 * Sweet-tooth, `KPA/SWAOET H-PB TAO*T KW-BG`
 * dipped `TKEUPD`
 * himself `H*EUPLS`

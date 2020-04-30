@@ -279,7 +279,7 @@
 * gone `TKPWOPB`
 * sleep.' `SHRAOEP TP-PL AE`
 * In `KPA/TPH`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * came `KAEUPL`
 * parson; `PAR/SOPB STPH*FPLT`
 * received `SAOEFD`

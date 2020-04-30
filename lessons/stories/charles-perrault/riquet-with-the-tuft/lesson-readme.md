@@ -789,7 +789,7 @@
 * manners?" `PHAERPBS H-F KR-GS`
 * "Not `KR-GS KPA/TPHOT`
 * all," `AUL KW-BG KR-GS`
-* mention." `PHEPBG TP-PL KR-GS`
+* mention." `PHEPBGS TP-PL KR-GS`
 * happy, `HAEP KW-BG`
 * "How `KR-GS KPA/HOU`
 * be?" `-B H-F KR-GS`

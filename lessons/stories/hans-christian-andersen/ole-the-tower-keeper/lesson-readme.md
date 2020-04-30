@@ -474,7 +474,7 @@
 * you, `U KW-BG`
 * see `SAOE`
 * night, `TPHAOEUT KW-BG`
-* mention `PHEPBG`
+* mention `PHEPBGS`
 * majority `PHORPBLG`
 * riders `RAOEURDZ`
 * name, `TPHAEUPL KW-BG`
@@ -1354,7 +1354,7 @@
 * raised `RA*EUFD`
 * monument `PHOPLT`
 * snow, `STPHOE KW-BG`
-* inscription, `EUPB/KREUPGS KW-BG`
+* inscription, `EUPB/SKREUPGS KW-BG`
 * 'Quicker `AE KPA/KW*EURBG`
 * melts `PHELTS`
 * didst `TKEU/*T`
@@ -1443,7 +1443,7 @@
 * children's `KHEURPBS`
 * teeth. `TAO*ET TP-PL`
 * moving-day! `PHOFG H-PB TKAEU SKHRAPL`
-* undertaken? `UPBD/TAEBG/EPB H-F`
+* undertaken? `UPBD/TAEPB H-F`
 * That's `KPA/THA AES`
 * just `SKWRUFT`
 * Any `KPA/TPHEU`

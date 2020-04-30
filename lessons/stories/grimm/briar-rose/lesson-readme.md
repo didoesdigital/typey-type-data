@@ -272,7 +272,7 @@
 * bought `PWAUT`
 * burnt. `PWURPBT TP-PL`
 * first `TPEUFRT`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * fulfilled; `TPUL/TPEULD STPH*FPLT`
 * princess `PREUPB/SES`
 * beautiful, `PWAOUFL KW-BG`

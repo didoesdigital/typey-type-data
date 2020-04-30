@@ -172,7 +172,7 @@
 * drew `TKRAOU`
 * near `TPHAOER`
 * had `H`
-* undertaken `UPBD/TAEBG/EPB`
+* undertaken `UPBD/TAEPB`
 * pilgrimage `PEULG/PHAPBLG`
 * Homer. `HOERPL TP-PL`
 * Among `KPA/PHOPBG`

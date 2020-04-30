@@ -617,7 +617,7 @@
 * talk `TAUBG`
 * fat, `TPAT KW-BG`
 * trifle.' `TRAOEUFL TP-PL AE`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * look `HRAOBG`
 * grave, `TKPWRAEUF KW-BG`
 * shook `SHAOBG`

@@ -1063,7 +1063,7 @@
 * teach `TAOEFP`
 * dust `TKUFT`
 * only, `OEPBL KW-BG`
-* material `TERL`
+* material `TAOERL`
 * decays, `TKAOE/KAEUS KW-BG`
 * seek `SAOEBG`
 * obtain `OB/TAEUPB`

@@ -360,7 +360,7 @@
 * than `THAPB`
 * drummer—he `TKRAOURPL EPL/TKA*RB HE`
 * "I'll `KR-GS EU AE HR*/HR*`
-* soldier," `SHRERPBL KW-BG KR-GS`
+* soldier," `SHRERPBLG KW-BG KR-GS`
 * still `STEUL`
 * quite `KWAOEUT`
 * lad, `HRAD KW-BG`

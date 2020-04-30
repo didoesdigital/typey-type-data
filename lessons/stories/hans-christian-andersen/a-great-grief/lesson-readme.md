@@ -43,7 +43,7 @@
 * for `TPOR`
 * days. `TKAEUS TP-PL`
 * In `KPA/TPH`
-* meantime, `PHAO*EPB/TAOEUPL KW-BG`
+* meantime, `PHAOEPB/TAO*EUPL KW-BG`
 * there `THR`
 * arrived `A/RAOEUFD`
 * from `TPR`

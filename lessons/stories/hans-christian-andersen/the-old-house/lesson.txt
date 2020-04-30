@@ -579,7 +579,7 @@ The Old House
 'carried': KAERD
 'the': -T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'into': TPHAO
 'the': -T
 'house.': HOUS TP-PL
@@ -952,7 +952,7 @@ The Old House
 'for': TPOR
 'the': -T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'my': PHEU
 'little': HREUL
 'friend,"': TPREPBD KW-BG KR-GS
@@ -1334,7 +1334,7 @@ The Old House
 'said': SAEUD
 'the': -T
 'tin': TEUPB
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 'who': WHO
 'stood': STAOD
 'on': OPB
@@ -1500,7 +1500,7 @@ The Old House
 'said': SAEUD
 'the': -T
 'tin': TEUPB
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 '"and': KR-GS SKP
 'I': EU
 'cannot': K/TPHOT
@@ -1547,7 +1547,7 @@ The Old House
 'of': -F
 'the': -T
 'tin': TEUPB
-'soldier.': SHRERPBL TP-PL
+'soldier.': SHRERPBLG TP-PL
 'How': KPA/HOU
 'happy': HAEP
 'and': SKP
@@ -1663,7 +1663,7 @@ The Old House
 'said': SAEUD
 'the': -T
 'tin': TEUPB
-'soldier;': SHRERPBL STPH*FPLT
+'soldier;': SHRERPBLG STPH*FPLT
 '"I': KR-GS EU
 'have': SR
 'wept': WEPT
@@ -1989,7 +1989,7 @@ The Old House
 'the': -T
 'other': OER
 'tin': TEUPB
-'soldier.': SHRERPBL TP-PL
+'soldier.': SHRERPBLG TP-PL
 'Ah,': KPA/HA*E KW-BG
 'really': R-L
 'he': HE
@@ -2132,7 +2132,7 @@ The Old House
 'cried': KRAOEUD
 'the': -T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'as': AZ
 'loud': HROUD
 'as': AZ
@@ -2196,7 +2196,7 @@ The Old House
 'holes.': HOELS TP-PL
 'The': KPA/-T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'had': H
 'fallen': TPAUL/-PB
 'through': THRU
@@ -2272,7 +2272,7 @@ The Old House
 'and': SKP
 'on': OPB
 'the': -T
-'inscriptions,': EUPB/KREUPGS/-S KW-BG
+'inscriptions,': EUPB/SKREUPGS/-S KW-BG
 'and': SKP
 'the': -T
 'steps': STEPS
@@ -2743,7 +2743,7 @@ The Old House
 'really': R-L
 'the': -T
 'tin': TEUPB
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 'the': -T
 'very': SRE
 'same': SAEUPL
@@ -2790,7 +2790,7 @@ The Old House
 'wife': WAOEUF
 'wiped': WAOEUPD
 'the': -T
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 'first': TPEUFRT
 'with': W
 'a': AEU
@@ -2811,7 +2811,7 @@ The Old House
 'And': AFPBD
 'the': -T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'felt': TPELT
 'as': AZ
 'if': TP
@@ -2884,7 +2884,7 @@ The Old House
 'of': -F
 'the': -T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'which': WEU
 'he': HE
 'had': H
@@ -2933,7 +2933,7 @@ The Old House
 'really': R-L
 'the': -T
 'same': SAEUPL
-'soldier,"': SHRERPBL KW-BG KR-GS
+'soldier,"': SHRERPBLG KW-BG KR-GS
 'said': SAEUD
 'she,': SHE KW-BG
 '"and': KR-GS SKP
@@ -3007,7 +3007,7 @@ The Old House
 'cried': KRAOEUD
 'the': -T
 'tin': TEUPB
-'soldier;': SHRERPBL STPH*FPLT
+'soldier;': SHRERPBLG STPH*FPLT
 '"still': KR-GS STEUL
 'it': T
 'is': S
@@ -3030,7 +3030,7 @@ The Old House
 'but': PWUT
 'the': -T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'saw': SAU
 'that': THA
 'it': T
@@ -3082,7 +3082,7 @@ The Old House
 'But': KPA/PWUT
 'the': -T
 'tin': TEUPB
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'did': TK
 'not': TPHOT
 'believe': PWHREF

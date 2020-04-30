@@ -230,9 +230,9 @@
 * erecting `AOE/REBGT/-G`
 * houses `HO*UFS`
 * suitable `SAOUT/-BL`
-* climate, `KHAOEUPLT KW-BG`
+* climate, `KHRAOEUPLT KW-BG`
 * with `W`
-* material `TERL`
+* material `TAOERL`
 * easily `AOELS`
 * obtained `OB/TAEUPBD`
 * country, `KREU KW-BG`
@@ -248,7 +248,7 @@
 * genius." `SKWRAOEPB/KWROUS TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * supposing `SPOEFG`
-* climate `KHAOEUPLT`
+* climate `KHRAOEUPLT`
 * good `TKPWAOD`
 * much," `PHUFP KW-BG KR-GS`
 * fifth `TP*EUT`

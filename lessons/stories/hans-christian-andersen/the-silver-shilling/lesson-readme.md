@@ -572,7 +572,7 @@
 * knew; `TPHAOU STPH*FPLT`
 * there `THR`
 * shillings `SHEUL/-GS`
-* inscriptions `EUPB/KREUPGS/-S`
+* inscriptions `EUPB/SKREUPGS/-S`
 * stamps `STA*PLS`
 * kinds `KEUPBDZ`
 * about. `PW TP-PL`

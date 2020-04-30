@@ -614,7 +614,7 @@
 * girl, `TKPWEURL KW-BG`
 * dress `TKRES`
 * still `STEUL`
-* material, `TERL KW-BG`
+* material, `TAOERL KW-BG`
 * worn; `WORPB STPH*FPLT`
 * blossom `PWHROFPL`
 * bosom, `PWUZ/OPL KW-BG`
@@ -691,7 +691,7 @@
 * stove, `STOF KW-BG`
 * projects `PROPBLGZ`
 * like `HRAOEUBG`
-* gigantic `SKWRAOEU/SKWRAPBT/EUBG`
+* gigantic `SKWRAOEU/TKPWAPBT/EUBG`
 * egg `EG`
 * wall `WAUL`
 * road? `RAOD H-F`

@@ -245,7 +245,7 @@
 * went `WEPBT`
 * on, `OPB KW-BG`
 * under `TPH-PB`
-* shadow `SHO*EUD`
+* shadow `SHOEUD`
 * large `HRARPBLG`
 * haystack `HA*EU/STABG`
 * caterpillar `KAT/PHRAR`
@@ -396,7 +396,7 @@
 * very `SRE`
 * bad `PWAD`
 * temper `TEPL/PER`
-* climate. `KHAOEUPLT TP-PL`
+* climate. `KHRAOEUPLT TP-PL`
 * Two `KPA/TWO`
 * frogs `TPROGS`
 * sitting `SEUGT`
@@ -431,7 +431,7 @@
 * lands, `HRAPBDZ KW-BG`
 * ever `-FR`
 * met `PHET`
-* climate `KHAOEUPLT`
+* climate `KHRAOEUPLT`
 * this. `TH TP-PL`
 * What `KPA/WHA`
 * delicious `TKHREUGS`

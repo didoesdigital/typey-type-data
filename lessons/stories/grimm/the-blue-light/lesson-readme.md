@@ -6,7 +6,7 @@
 * upon `POPB`
 * a `AEU`
 * time `TAOEUPL`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * who `WHO`
 * for `TPOR`
 * many `PHAEPB`
@@ -107,7 +107,7 @@
 * gives `TKPWEUFS`
 * anything `TPHEUG`
 * run-away `RUPB H-PB A/WAEU`
-* soldier? `SHRERPBL H-F`
+* soldier? `SHRERPBLG H-F`
 * Yet `KPA/KWRET`
 * be `-B`
 * compassionate, `KPAGS/TPHAT KW-BG`
@@ -119,7 +119,7 @@
 * wish.' `WEURB TP-PL AE`
 * 'What `AE KPA/WHA`
 * wish?' `WEURB H-F AE`
-* soldier. `SHRERPBL TP-PL`
+* soldier. `SHRERPBLG TP-PL`
 * 'That `AE KPA/THA`
 * should `SHO`
 * dig `TKEUG`
@@ -278,7 +278,7 @@
 * commands `KPHAPBDZ`
 * are?' `R H-F AE`
 * replied `RE/PHRAOEUD`
-* soldier, `SHRERPBL KW-BG`
+* soldier, `SHRERPBLG KW-BG`
 * quite `KWAOEUT`
 * astonished. `A/STOPB/EURBD TP-PL`
 * everything `EFRG`
@@ -286,7 +286,7 @@
 * me,' `PHE KW-BG AE`
 * man. `PHAPB TP-PL`
 * 'Good,' `AE KPA/TKPWAOD KW-BG AE`
-* soldier; `SHRERPBL STPH*FPLT`
+* soldier; `SHRERPBLG STPH*FPLT`
 * 'then `AE THEPB`
 * first `TPEUFRT`
 * place `PHRAEUS`
@@ -460,7 +460,7 @@
 * rapidity `RAPD/TEU`
 * lightning,' `HRAOEUT/TPHEUPBG KW-BG AE`
 * she, `SHE KW-BG`
-* soldier's `SHRERPBL AES`
+* soldier's `SHRERPBLG AES`
 * room, `RAOPL KW-BG`
 * wait `WAEUT`
 * servant, `SEFRB/APBT KW-BG`
@@ -557,7 +557,7 @@
 * searched `SEFRPBD`
 * daughter's `TKAUR/AES`
 * shoe. `SHAOU TP-PL`
-* soldier's, `SHRERPBL AE S* KW-BG`
+* soldier's, `SHRERPBLG AE S* KW-BG`
 * himself, `H*EUPLS KW-BG`
 * entreaty `SPWRAOE/TEU`
 * gone `TKPWOPB`

@@ -385,7 +385,7 @@
 * arrange `A/RAEUPBG`
 * wedding.' `WEGD TP-PL AE`
 * 'Then `AE KPA/THEPB`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * stay `STAEU`
 * wait `WAEUT`
 * recognize `REZ`

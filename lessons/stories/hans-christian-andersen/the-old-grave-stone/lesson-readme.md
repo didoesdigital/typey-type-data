@@ -139,7 +139,7 @@
 * still `STEUL`
 * be `-B`
 * traced, `TRAEUFD KW-BG`
-* inscription `EUPB/KREUPGS`
+* inscription `EUPB/SKREUPGS`
 * beneath `TPHAO*ET`
 * quite `KWAOEUT`
 * worn `WORPB`
@@ -264,7 +264,7 @@
 * died `TKAOEUD`
 * first; `TPEUFRT STPH*FPLT`
 * day `TKAEU`
-* vividly `SREUF/TKHREU`
+* vividly `SREUFD/HREU`
 * eyes. `AO*EUS TP-PL`
 * boy, `PWOEU KW-BG`
 * had `H`

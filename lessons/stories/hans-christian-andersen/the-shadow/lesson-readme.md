@@ -111,7 +111,7 @@
 * weak, `WAEBG KW-BG`
 * grew `TKPWRAOU`
 * thin `THEUPB`
-* shadow `SHO*EUD`
+* shadow `SHOEUD`
 * shrivelled `SHR*EUFLD/A*U`
 * up, `UP KW-BG`
 * much `PHUFP`
@@ -442,7 +442,7 @@
 * now, `TPHOU KW-BG`
 * you?" `U H-F KR-GS`
 * nodded `TPHOD/-D`
-* shadow, `SHO*EUD KW-BG`
+* shadow, `SHOEUD KW-BG`
 * return. `RURPB TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * go, `TKPW-RBGS`
@@ -472,7 +472,7 @@
 * exclaimed, `SKHRAEUPL/-D KW-BG`
 * sunshine. `SUPB/SHAO*EUPB TP-PL`
 * lost `HRO*S`
-* shadow. `SHO*EUD TP-PL`
+* shadow. `SHOEUD TP-PL`
 * So `KPA/SO`
 * yesterday `KWRED`
 * returned. `RURPBD TP-PL`
@@ -601,7 +601,7 @@
 * Do `KPA/TKO`
 * your `KWROUR`
 * old `OLD`
-* shadow? `SHO*EUD H-F`
+* shadow? `SHOEUD H-F`
 * Ah, `KPA/HA*E KW-BG`
 * again. `TKPWEPB TP-PL`
 * prosperous `PROFP/ROUS`
@@ -643,7 +643,7 @@
 * "Something `KR-GS KPA/S-G`
 * rather `RAER`
 * unusual," `TPHAOURB KW-BG KR-GS`
-* shadow; `SHO*EUD STPH*FPLT`
+* shadow; `SHOEUD STPH*FPLT`
 * "but `KR-GS PWUT`
 * uncommon `UPB/KPHOPB`
 * man, `PHAPB KW-BG`
@@ -726,7 +726,7 @@
 * promise, `PROPLS KW-BG`
 * word `WORD`
 * "Between `KR-GS KPA/TWAOEPB`
-* shadow," `SHO*EUD KW-BG KR-GS`
+* shadow," `SHOEUD KW-BG KR-GS`
 * help `HEP`
 * saying `SAEUG`
 * remarkable `RARBG/-BL`
@@ -1187,7 +1187,7 @@
 * cause, `KAUS KW-BG`
 * unable `TPHA*EUBL`
 * cast `KAFT`
-* shadow." `SHO*EUD TP-PL KR-GS`
+* shadow." `SHOEUD TP-PL KR-GS`
 * curious `KAOURS`
 * matter, `PHAERT KW-BG`
 * promenade, `PRAPL/TPHAD KW-BG`
@@ -1325,7 +1325,7 @@
 * conversed `KWERS/-D`
 * sensibly. `SEPBS/PWHREU TP-PL`
 * be, `-B KW-BG`
-* shadow!" `SHO*EUD SKHRAPL KR-GS`
+* shadow!" `SHOEUD SKHRAPL KR-GS`
 * she. `SHE TP-PL`
 * "If `KR-GS KPA/TP`
 * choose `KHAOS`
@@ -1336,7 +1336,7 @@
 * kingdom. `KEUPBG/TKOPL TP-PL`
 * "No `KR-GS KPA/TPHO`
 * "not `KR-GS TPHOT`
-* shadow;" `SHO*EUD STPH*FPLT KR-GS`
+* shadow;" `SHOEUD STPH*FPLT KR-GS`
 * particular `PHRAR`
 * reasons `R-PBS`
 * reigned, `RAEPB/-D KW-BG`

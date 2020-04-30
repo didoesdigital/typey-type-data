@@ -161,7 +161,7 @@
 * hear `HAER`
 * what `WHA`
 * said? `SAEUD H-F`
-* mention `PHEPBG`
+* mention `PHEPBGS`
 * names, `TPHAEUPLS KW-BG`
 * there `THR`
 * here `HAOER`

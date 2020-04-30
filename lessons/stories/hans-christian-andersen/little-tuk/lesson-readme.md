@@ -606,7 +606,7 @@
 * hunger `HURPBG`
 * want. `WAPBT TP-PL`
 * bird `PWEURD`
-* omen `O/PHEPB`
+* omen `OE/PHEPB`
 * yours, `KWROURS KW-BG`
 * rich `REUFP`
 * happy `HAEP`

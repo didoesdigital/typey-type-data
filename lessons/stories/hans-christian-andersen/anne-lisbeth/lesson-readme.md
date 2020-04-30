@@ -654,7 +654,7 @@
 * "what `KR-GS WHA`
 * bird `PWEURD`
 * ill `EUL`
-* omen `O/PHEPB`
+* omen `OE/PHEPB`
 * art `ART`
 * thou?" `THO*U H-F KR-GS`
 * Presently `KPA/PREPBLT`
@@ -741,7 +741,7 @@
 * coffee, `KOEF KW-BG`
 * herself. `H*ERS TP-PL`
 * prepared `PRAOEPD`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * seated `SAOETD`
 * chair `KHAEUR`
 * fell `TPEL`

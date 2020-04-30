@@ -187,7 +187,7 @@
 * fluttering `TPHRUT/ERG`
 * out, `OUT KW-BG`
 * verses `SRERSZ`
-* inscriptions `EUPB/KREUPGS/-S`
+* inscriptions `EUPB/SKREUPGS/-S`
 * remembrances. `RERPBS/-S TP-PL`
 * most `PHOFT`
 * charming `KHARPL/-G`
@@ -1362,7 +1362,7 @@
 * owl `OUL`
 * stork—but `STORBG EPL/TKA*RB PWUT`
 * mentioning, `PHEPBGS/-G KW-BG`
-* mention `PHEPBG`
+* mention `PHEPBGS`
 * "King `KR-GS KO*EUPBG`
 * Waldemar's `xxx Waldemar AES`
 * chase `KHAEUS`

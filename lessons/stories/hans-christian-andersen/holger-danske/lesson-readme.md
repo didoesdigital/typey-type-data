@@ -543,8 +543,8 @@
 * wooden `WAOD/EPB`
 * figure `TPEUG`
 * threw `THRAOU`
-* gigantic `SKWRAOEU/SKWRAPBT/EUBG`
-* shadow `SHO*EUD`
+* gigantic `SKWRAOEU/TKPWAPBT/EUBG`
+* shadow `SHOEUD`
 * wall, `WAUL KW-BG`
 * ceiling; `KAOELG STPH*FPLT`
 * behind `HEUPBD`

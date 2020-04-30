@@ -46,7 +46,7 @@
 * some `SOPL`
 * costly `KOFT/HREU`
 * silken `SEUL/KEPB`
-* material. `TERL TP-PL`
+* material. `TAOERL TP-PL`
 * carpet `KARPT`
 * was `WAS`
 * thick `THEUBG`

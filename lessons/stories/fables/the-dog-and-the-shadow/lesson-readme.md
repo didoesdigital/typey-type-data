@@ -37,7 +37,7 @@
 * down `TKOUPB`
 * saw `SAU`
 * own `OEPB`
-* shadow `SHO*EUD`
+* shadow `SHOEUD`
 * reflected `TPHREBGTD`
 * the `-T`
 * water `WAUR`
@@ -73,4 +73,4 @@
 * substance `SAUBS`
 * by `PWEU`
 * grasping `TKPWRAFPG`
-* shadow. `SHO*EUD TP-PL`
+* shadow. `SHOEUD TP-PL`

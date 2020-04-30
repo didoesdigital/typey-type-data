@@ -303,7 +303,7 @@
 * soon `SAOPB`
 * serve `SEFRB`
 * up,' `UP KW-BG AE`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * table `TAEUBL`
 * properly `PRORL`
 * laid, `HRAEUD KW-BG`

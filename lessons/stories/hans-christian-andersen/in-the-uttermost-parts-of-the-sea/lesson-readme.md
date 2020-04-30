@@ -409,7 +409,7 @@
 * letter; `HRERT STPH*FPLT`
 * away, `A/WAEU KW-BG`
 * ice `AOEUS`
-* shadow `SHO*EUD`
+* shadow `SHOEUD`
 * angel's `APB/SKWREL AES`
 * wings, `WEUPBGS KW-BG`
 * smiled `SPHAOEULD`

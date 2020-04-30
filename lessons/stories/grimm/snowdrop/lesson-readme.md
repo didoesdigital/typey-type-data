@@ -568,7 +568,7 @@
 * open `OEP`
 * door `TKAOR`
 * anyone. `TPHEUPB TP-PL`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * home `HOEPL`
 * shook `SHAOBG`
 * read `RAED`

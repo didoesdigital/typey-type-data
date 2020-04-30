@@ -494,7 +494,7 @@
 * clever, `KHREFR KW-BG`
 * case `KAEUS`
 * families. `TPAEPLS TP-PL`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * drawbridge `TKRAU/PWREUPBLG`
 * grown `TKPWROEPB`
 * splendid `SPHREPB/TKEUD`
@@ -872,7 +872,7 @@
 * traits; `TRAEUTS STPH*FPLT`
 * has `HAS`
 * such, `SUFP KW-BG`
-* mention `PHEPBG`
+* mention `PHEPBGS`
 * several. `SEFRL TP-PL`
 * visiting `SREUFT/-G`
 * nobleman's `TPHOEBL/PHA*PB AES`

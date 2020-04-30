@@ -398,7 +398,7 @@
 * boy, `PWOEU KW-BG`
 * whose `WHOZ`
 * smile `SPHAOEUL`
-* vividly `SREUF/TKHREU`
+* vividly `SREUFD/HREU`
 * before `PW-FP`
 * gentle `SKWR*EPBLT`
 * expression `EBGS/PREGS`

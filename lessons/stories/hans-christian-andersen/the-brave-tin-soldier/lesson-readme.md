@@ -177,7 +177,7 @@
 * legs `HREGS`
 * high, `HAOEU KW-BG`
 * that `THA`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * see `SAOE`
 * it `T`
 * all, `AUL KW-BG`
@@ -297,7 +297,7 @@
 * goblin; `TKPWOB/HREUPB STPH*FPLT`
 * toy `TOEU`
 * puzzle. `PUFL TP-PL`
-* soldier," `SHRERPBL KW-BG KR-GS`
+* soldier," `SHRERPBLG KW-BG KR-GS`
 * said `SAEUD`
 * goblin, `TKPWOB/HREUPB KW-BG`
 * "don't `KW-GS/TKOEPBT`
@@ -331,7 +331,7 @@
 * flew `TPHRAOU`
 * open, `OEP KW-BG`
 * fell `TPEL`
-* soldier, `SHRERPBL KW-BG`
+* soldier, `SHRERPBLG KW-BG`
 * heels `HAOELS`
 * head, `HED KW-BG`
 * third `THEURD`
@@ -389,7 +389,7 @@
 * by, `PWEU KW-BG`
 * said, `SAEUD KW-BG`
 * "Look, `KR-GS KPA/HRAOBG KW-BG`
-* soldier. `SHRERPBL TP-PL`
+* soldier. `SHRERPBLG TP-PL`
 * ought `OT`
 * boat `PWOET`
 * sail `SAEUL`
@@ -435,7 +435,7 @@
 * part `PART`
 * drain, `TKRAEUPB KW-BG`
 * dark `TKARBG`
-* soldier's `SHRERPBL AES`
+* soldier's `SHRERPBLG AES`
 * box. `PWOBGS TP-PL`
 * "Where `KR-GS KPA/W-R`
 * am `APL`
@@ -597,7 +597,7 @@
 * cried `KRAOEUD`
 * "I `KR-GS EU`
 * declare `TKE/KHRAR`
-* soldier." `SHRERPBL TP-PL KR-GS`
+* soldier." `SHRERPBLG TP-PL KR-GS`
 * caught, `KAUT KW-BG`
 * market `PHARBGT`
 * sold `SOELD`

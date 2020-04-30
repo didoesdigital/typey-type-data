@@ -45,8 +45,10 @@
 * satisfaction `SAEBGS`
 * message `PHEPBLG`
 * calling `KAULG`
+* mention `PHEPBGS`
 * falling `TPAULG`
 * larger `HRAERPBLG`
+* soldier `SHRERPBLG`
 * explanation `SPHRAPBGS`
 * welcome `WELG`
 * motion `PHOEGS`
@@ -326,6 +328,7 @@
 * sterling `STERLG`
 * folding `TPOELGD`
 * supervision `SAO*UFPGS`
+* vocation `SROEBGS`
 * railing `RAEULG`
 * correction `KREBGS`
 * controlling `KROLG`

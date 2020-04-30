@@ -1,7 +1,7 @@
 # The Tinder-Box
 
 * A `KPA/AEU`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * came `KAEUPL`
 * marching `PHAFRPB/-G`
 * along `HRAOPBG`
@@ -52,7 +52,7 @@
 * said, `SAEUD KW-BG`
 * "Good `KR-GS KPA/TKPWAOD`
 * evening, `AOEPBG KW-BG`
-* soldier; `SHRERPBL STPH*FPLT`
+* soldier; `SHRERPBLG STPH*FPLT`
 * you `U`
 * have `SR`
 * fine `TPAOEUPB`
@@ -72,7 +72,7 @@
 * you, `U KW-BG`
 * witch," `WEUFP KW-BG KR-GS`
 * said `SAEUD`
-* soldier. `SHRERPBL TP-PL`
+* soldier. `SHRERPBLG TP-PL`
 * "Do `KR-GS KPA/TKO`
 * see `SAOE`
 * that `THA`
@@ -298,7 +298,7 @@
 * "You're `KR-GS KPA/U AE R*/*E`
 * pretty `PREUT`
 * fellow," `TPO*EUL KW-BG KR-GS`
-* soldier, `SHRERPBL KW-BG`
+* soldier, `SHRERPBLG KW-BG`
 * seizing `SAOEZ/-G`
 * placing `PHRAEUFG`
 * witch's `WEUFP AES`
@@ -749,7 +749,7 @@
 * how `HOU`
 * way `WAEU`
 * wall `WAUL`
-* soldier's `SHRERPBL AES`
+* soldier's `SHRERPBLG AES`
 * window, `WOEUPBD KW-BG`
 * Therefore `KPA/TH-FR`
 * their `THAEUR`

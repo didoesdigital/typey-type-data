@@ -162,7 +162,7 @@
 * bigger `PWEURG`
 * stitches. `STEUFPS TP-PL`
 * In `KPA/TPH`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * smell `SPHEL`
 * sweet `SWAOET`
 * rose `ROEZ`

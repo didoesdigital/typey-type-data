@@ -742,7 +742,7 @@
 * Can `KPA/K`
 * anything `TPHEUG`
 * legs, `HREGS KW-BG`
-* whirlwind?" `WHEURL/WEUPD H-F KR-GS`
+* whirlwind?" `WHEURL/WEUPBD H-F KR-GS`
 * soon `SAOPB`
 * do," `TKO KW-BG KR-GS`
 * king. `KEUPBG TP-PL`
@@ -766,7 +766,7 @@
 * herself `H*ERS`
 * follow `TPOL`
 * her, `HER KW-BG`
-* shadow, `SHO*EUD KW-BG`
+* shadow, `SHOEUD KW-BG`
 * none `TPHOPB`
 * folk `TPOEBG`
 * ever `-FR`

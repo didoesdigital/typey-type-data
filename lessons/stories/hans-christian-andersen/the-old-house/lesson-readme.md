@@ -292,7 +292,7 @@
 * And `AFPBD`
 * pleased, `PHRAOEFD KW-BG`
 * carried `KAERD`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * into `TPHAO`
 * Afterwards `KPA/A*FRDZ`
 * sent `SEPBT`
@@ -587,7 +587,7 @@
 * cannot `K/TPHOT`
 * endure `EPB/TKAOUR`
 * it," `T KW-BG KR-GS`
-* soldier, `SHRERPBL KW-BG`
+* soldier, `SHRERPBLG KW-BG`
 * shelf, `SHEFL KW-BG`
 * "it `KR-GS T`
 * lonely `HROPBL`
@@ -646,7 +646,7 @@
 * fruits, `TPRAOUTS KW-BG`
 * nuts; `TPHUTS STPH*FPLT`
 * thought `THAUT`
-* soldier. `SHRERPBL TP-PL`
+* soldier. `SHRERPBLG TP-PL`
 * happy `HAEP`
 * delighted `TKHRAOEUTD`
 * after `AF`
@@ -677,7 +677,7 @@
 * hour `HOUR`
 * another. `TPHOER TP-PL`
 * longer," `HRORPBG KW-BG KR-GS`
-* soldier; `SHRERPBL STPH*FPLT`
+* soldier; `SHRERPBLG STPH*FPLT`
 * wept `WEPT`
 * tears `TAERS`
 * tin, `TEUPB KW-BG`
@@ -842,7 +842,7 @@
 * Snow `KPA/STPHOE`
 * drifts `TKREUFTS`
 * lying `HRAOEUG`
-* inscriptions, `EUPB/KREUPGS/-S KW-BG`
+* inscriptions, `EUPB/SKREUPGS/-S KW-BG`
 * steps `STEPS`
 * snow `STPHOE`
 * home. `HOEPL TP-PL`
@@ -999,7 +999,7 @@
 * clearly `KAOERL`
 * man. `PHAPB TP-PL`
 * likely `HRAOEULG`
-* soldier," `SHRERPBL KW-BG KR-GS`
+* soldier," `SHRERPBLG KW-BG KR-GS`
 * she, `SHE KW-BG`
 * take `TAEUBG`
 * me; `PHE STPH*FPLT`

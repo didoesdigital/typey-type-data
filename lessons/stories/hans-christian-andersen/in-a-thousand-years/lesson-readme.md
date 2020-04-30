@@ -348,7 +348,7 @@
 * Hecla `xxx Hecla`
 * an `APB`
 * extinct `EBGS/TEUPBG`
-* volcano, `SROL/KA/TPHOE KW-BG`
+* volcano, `SROL/KAEU/TPHOE KW-BG`
 * rocky `ROBG/KEU`
 * island `AOEULD`
 * fixed `TPEUFD`

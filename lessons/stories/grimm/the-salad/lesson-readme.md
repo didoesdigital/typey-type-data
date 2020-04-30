@@ -277,7 +277,7 @@
 * has `HAS`
 * brings `PWREUS`
 * morning.' `PHORPBG TP-PL AE`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * nearer `TPHAOER/*ER`
 * 'I `AE EU`
 * been `PW-PB`
@@ -479,7 +479,7 @@
 * short `SHORT`
 * around `ARPBD`
 * caught `KAUT`
-* whirlwind `WHEURL/WEUPD`
+* whirlwind `WHEURL/WEUPBD`
 * bore `PWOR`
 * time, `TAOEUPL KW-BG`
 * till `TEUL`

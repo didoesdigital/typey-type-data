@@ -81,7 +81,7 @@
 * go `TKPW`
 * home. `HOEPL TP-PL`
 * In `KPA/TPH`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * uneasy, `UPB/EZ KW-BG`
 * tell `TEL`
 * made `PHAED`

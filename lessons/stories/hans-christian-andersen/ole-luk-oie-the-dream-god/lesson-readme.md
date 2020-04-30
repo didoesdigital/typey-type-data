@@ -844,7 +844,7 @@
 * finger. `TPEURPBG TP-PL`
 * borrow `PWO*ER`
 * dress `TKRES`
-* soldier. `SHRERPBL TP-PL`
+* soldier. `SHRERPBLG TP-PL`
 * fit `TPEUT`
 * looks `HRAOBGS`
 * wear `WAER`
@@ -1171,7 +1171,7 @@
 * lasted `HRAFT/-D`
 * weeks, `WAOEBGS KW-BG`
 * breathe. `PWRAO*ET TP-PL`
-* poisonous `POEUZ/TPHOUS`
+* poisonous `POEUS/TPHOUS`
 * animals, `PHAPBLS KW-BG`
 * free `TPRAOE`
 * robbers. `RORBS TP-PL`

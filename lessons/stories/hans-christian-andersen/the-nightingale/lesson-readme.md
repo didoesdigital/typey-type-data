@@ -110,7 +110,7 @@
 * ships `SHEUPS`
 * sailed `SAEULD`
 * under `TPH-PB`
-* shadow `SHO*EUD`
+* shadow `SHOEUD`
 * branches. `PWRAFRPBS TP-PL`
 * these `THEZ`
 * trees `TRAOES`
@@ -1011,7 +1011,7 @@
 * bringing `PWREUG`
 * remembrance `RERPBS`
 * circumstances `SEURBGS`
-* perspiration `PERP/RAEUGS`
+* perspiration `PER/SPRAEUGS`
 * brow. `PWROU TP-PL`
 * it," `T KW-BG KR-GS`
 * "Music! `KR-GS KPA/PHAOUFBG SKHRAPL`

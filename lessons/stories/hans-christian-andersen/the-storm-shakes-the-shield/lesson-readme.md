@@ -379,7 +379,7 @@
 * clerical `KHRER/K-L`
 * collars, `KOL/ARS KW-BG`
 * coffins, `KOFPB/-S KW-BG`
-* inscriptions `EUPB/KREUPGS/-S`
+* inscriptions `EUPB/SKREUPGS/-S`
 * announcements `A/TPHOUPBS/-PLTS`
 * bargain. `PWARG/AEUPB TP-PL`
 * A `KPA/AEU`
@@ -608,7 +608,7 @@
 * model `PHOLD`
 * an `APB`
 * example." `KP-PL TP-PL KR-GS`
-* inscription `EUPB/KREUPGS`
+* inscription `EUPB/SKREUPGS`
 * "Institution `KR-GS STPHAO*UGS`
 * Superior `KPA/SPOEUR`
 * Education" `KPA/TKAEUBGS KR-GS`

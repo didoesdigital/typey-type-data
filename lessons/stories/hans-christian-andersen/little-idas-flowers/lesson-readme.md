@@ -429,7 +429,7 @@
 * "How `KR-GS KPA/HOU`
 * anyone `TPHEUPB`
 * put `PUT`
-* notions `TPHOEG/-S`
+* notions `TPHOEGS/-S`
 * child's `KHAOEULD/AES`
 * head?" `HED H-F KR-GS`
 * tiresome `TAOEUR/SO*PL`

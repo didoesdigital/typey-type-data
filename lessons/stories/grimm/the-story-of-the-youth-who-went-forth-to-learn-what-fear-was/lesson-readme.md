@@ -1089,7 +1089,7 @@
 * these,' `THEZ KW-BG AE`
 * poor, `PAOR KW-BG`
 * yours.' `KWROURS TP-PL AE`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * spirit `SPEURT`
 * disappeared, `TKEUS/PAOERD KW-BG`
 * darkness. `TKARBG/-PBS TP-PL`

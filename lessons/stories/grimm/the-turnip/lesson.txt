@@ -270,7 +270,7 @@ The Turnip
 'am': APL
 'a': AEU
 'poor': PAOR
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 'who': WHO
 'never': TPHEFR
 'could': KO
@@ -492,7 +492,7 @@ The Turnip
 'turnip;': TURPB/EUP STPH*FPLT
 'so': SO
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'was': WAS
 'forced': TPOFRD
 'to': TO
@@ -669,7 +669,7 @@ The Turnip
 'and': SKP
 'ran': RAPB
 'away.': A/WAEU TP-PL
-'Meantime': KPA/PHAO*EPB/TAOEUPL
+'Meantime': KPA/PHAOEPB/TAO*EUPL
 'he': HE
 'worked': WORBGD
 'and': SKP

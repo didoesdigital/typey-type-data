@@ -285,7 +285,7 @@
 * these `THEZ`
 * matters, `PHAERTS KW-BG`
 * excellent `KPHREPBT`
-* notions, `TPHOEG/-S KW-BG`
+* notions, `TPHOEGS/-S KW-BG`
 * advised `SRAOEUFD`
 * best, `PWEFT KW-BG`
 * nay `TPHAEU`

@@ -713,7 +713,7 @@
 * she, `SHE KW-BG`
 * whose `WHOZ`
 * thoughts `THAUTS`
-* vividly `SREUF/TKHREU`
+* vividly `SREUFD/HREU`
 * present, `PREPBT KW-BG`
 * deeply `TKAO*EPL`
 * sight, `SAOEUT KW-BG`

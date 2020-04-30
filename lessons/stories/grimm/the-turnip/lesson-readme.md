@@ -163,7 +163,7 @@
 * answered `AEPBS/-D`
 * am `APL`
 * fortune; `TP-RPB STPH*FPLT`
-* soldier, `SHRERPBL KW-BG`
+* soldier, `SHRERPBLG KW-BG`
 * enough `TPHUF`
 * live `HREUF`
 * upon; `POPB STPH*FPLT`
@@ -239,7 +239,7 @@
 * valuable `SRABL`
 * great `TKPWRAET`
 * turnip; `TURPB/EUP STPH*FPLT`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * forced `TPOFRD`
 * put `PUT`
 * into `TPHAO`
@@ -318,7 +318,7 @@
 * dangling, `TKAPBG/-LG KW-BG`
 * ran `RAPB`
 * away. `A/WAEU TP-PL`
-* Meantime `KPA/PHAO*EPB/TAOEUPL`
+* Meantime `KPA/PHAOEPB/TAO*EUPL`
 * worked `WORBGD`
 * away, `A/WAEU KW-BG`
 * till `TEUL`

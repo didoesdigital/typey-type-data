@@ -1345,7 +1345,7 @@
 * tired `TAOEURD`
 * leading `HRAEGD`
 * kill `KEUL`
-* shadow `SHO*EUD`
+* shadow `SHOEUD`
 * companion `KPAPB/KWROPB`
 * weight `WAET`
 * mass `PHAS`
@@ -1368,7 +1368,7 @@
 * national `TPHAT`
 * weak `WAEBG`
 * divine `TKWAOEUPB`
-* material `TERL`
+* material `TAOERL`
 * principal `PRAL`
 * gathered `TKPWAERD`
 * suggested `SUGD`
@@ -1592,7 +1592,7 @@
 * calling `KAULG`
 * phrase `TPRAEZ`
 * acts `ABGZ`
-* mention `PHEPBG`
+* mention `PHEPBGS`
 * square `SKWAEUR`
 * pair `PAEUR`
 * won `WOPB`
@@ -1616,7 +1616,7 @@
 * explain `SPHRAEUPB`
 * contain `TAEUPB`
 * grief `TKPWRAOEF`
-* soldier `SHRERPBL`
+* soldier `SHRERPBLG`
 * wasn't `WAEPBT`
 * countenance `KOUPBT/TPHAPBS`
 * previous `PRAOEF`
@@ -3583,7 +3583,7 @@
 * volumes `SROLS`
 * vulgar `SRUL/TKPWAR`
 * arguments `AERPLTS`
-* 1st `1/S*/T*`
+* 1st `1/*FT`
 * sunset `SAUPB/SET`
 * convenient `SRAOEPB`
 * mail `PHAEUL`
@@ -3629,7 +3629,7 @@
 * warmth `WARPLT`
 * certainty `SERPBT`
 * restless `REFT/-LS`
-* meantime `PHAO*EPB/TAOEUPL`
+* meantime `PHAOEPB/TAO*EUPL`
 * rays `RA*ES`
 * salvation `SAL/SRAEUGS`
 * lovers `HRUFRS`
@@ -3672,7 +3672,7 @@
 * prevailed `PRAOE/SRAEULD`
 * talent `THREPBT`
 * rises `RAOEUZ/-Z`
-* climate `KHAOEUPLT`
+* climate `KHRAOEUPLT`
 * chairs `KHAEURS`
 * searched `SEFRPBD`
 * unlike `UPB/HRAOEUBG`
@@ -4249,7 +4249,7 @@
 * requested `KW-D`
 * Alfred `AL/TPRED`
 * response `SPOPBS`
-* promoting `PROEPL/-G`
+* promoting `PRO/PHOET/-G`
 * imperial `EUPL/PAOERL`
 * blank `PWHRA*PBG`
 * purity `PAOURT`
@@ -4306,7 +4306,7 @@
 * nobility `TPHOEBLT`
 * Edith `AOED/*EUT`
 * Berlin `PWER/HREUPB`
-* editing `ED/EUT/-G`
+* editing `ETD/-G`
 * Cambridge `KAPL/PWREUPBLG`
 * declaration `TKEBG/HRAEUGS`
 * guards `TKPWARDZ`
@@ -4454,7 +4454,7 @@
 * Susan `SAOU/SAPB`
 * Pennsylvania `PA*`
 * stirring `STEURG`
-* righteousness `RAOEUT/US/-PBS`
+* righteousness `RAOEUGS/-PBS`
 * missing `PHEUFG`
 * fain `TPA*EUPB`
 * facing `TPAEUFG`
@@ -4478,7 +4478,7 @@
 * languages `HRAPBLGS`
 * asserted `A/SERT/-D`
 * bodily `PWOD/HREU`
-* notions `TPHOEG/-S`
+* notions `TPHOEGS/-S`
 * Oliver `OL/EUFR`
 * faculty `TPA*BG`
 * cannon `KAPB/TPHOPB`
@@ -4852,7 +4852,7 @@
 * happier `HAP/KWRER`
 * indicating `KAEUGT`
 * rob `ROB`
-* gigantic `SKWRAOEU/SKWRAPBT/EUBG`
+* gigantic `SKWRAOEU/TKPWAPBT/EUBG`
 * honey `HUPB/KWREU`
 * ladder `HRAERD`
 * ending `EPBGD`
@@ -5336,7 +5336,7 @@
 * repeating `RE/PAOEGT`
 * needn't `TPHAOED/*PBT`
 * allowance `HROUPBS`
-* undertaken `UPBD/TAEBG/EPB`
+* undertaken `UPBD/TAEPB`
 * treachery `TREFP/REU`
 * posts `POEFTS`
 * borders `PWRORDZ`
@@ -5751,7 +5751,7 @@
 * she'd `SHAOED`
 * labors `HRAEUBS`
 * contracted `KR-TD`
-* inscription `EUPB/KREUPGS`
+* inscription `EUPB/SKREUPGS`
 * comfortably `KAEBL`
 * indulge `EUPB/TKULG`
 * indulgence `EUPB/TKULG/EPBS`
@@ -7880,7 +7880,7 @@
 * commented `KPHEPBT/-D`
 * redistribute `RE/TKR-BT`
 * precipice `PRES/PEUS`
-* outdated `AOUTD/TKAEUTD`
+* outdated `AOUT/TKAEUTD`
 * Juliet `SKWRAOUL/ET`
 * dialect `TKAOEU/HREBGT`
 * elementary `HR-PLT/REU`
@@ -7895,14 +7895,14 @@
 * denounced `TKE/TPHOUPBS/-D`
 * Eric `*ERBG`
 * underground `UPBD/TKPWROUPBD`
-* phantom `TPAP/TOPL`
+* phantom `TPAPB/TOPL`
 * whirling `WHEURL/-G`
 * pecuniary `PEBG/TPHAER`
 * dire `TKAOEUR`
 * hostilities `HOFT/EULTS`
 * gait `TKPWAEUT`
 * it'll `T-L`
-* vividly `SREUF/TKHREU`
+* vividly `SREUFD/HREU`
 * instruct `STRUBGT`
 * Dickens `TKEUBG/*EPB/-S`
 * puritan `PAOUR/TAPB`
@@ -7922,7 +7922,7 @@
 * cheat `KHAOET`
 * doubly `TKUB/HREU`
 * inadequate `TPHAD/KWAT`
-* Leslie `HREZ/HREU`
+* Leslie `HRES/HREU`
 * blest `PWRES/*T`
 * forbear `TPAUR/PWAER`
 * haunt `HAUPBT`
@@ -8075,7 +8075,7 @@
 * rides `RAOEUDZ`
 * spoon `SPAOPB`
 * imminent `EUPL/TPHEPBT`
-* dominant `TKOPL/TPHAT`
+* dominant `TKOPLT`
 * leadership `HRAOERP`
 * pinch `PEUFRPB`
 * wearily `WAOER/HREU`
@@ -8211,7 +8211,7 @@
 * transmit `TREUT`
 * dispatch `STKPAFP`
 * onto `OEPBT`
-* veranda `SRA/RAPB/TKA`
+* veranda `SRE/RAPB/TKA`
 * dip `TKEUP`
 * inexplicable `EUPB/SPHREUBG/-BL`
 * liar `HRAOEUR`
@@ -8276,7 +8276,7 @@
 * undergo `UPBD/TKPW`
 * hare `HA*ER`
 * haze `HAEUZ`
-* poisonous `POEUZ/TPHOUS`
+* poisonous `POEUS/TPHOUS`
 * omit `OEPLT`
 * beware `PWE/WAEUR`
 * sagacity `STKPWAS/TEU`
@@ -8299,7 +8299,7 @@
 * penance `PEPB/TPHAPBS`
 * tips `TEUPS`
 * rooted `RAOT/-D`
-* outburst `OUT/PWURS/-T`
+* outburst `AOUT/PWUFRT`
 * fortitude `TPORT/TAOUD`
 * Turk `TURBG`
 * devour `TKE/SROUR`
@@ -8408,7 +8408,7 @@
 * rack `RABG`
 * incomprehensible `EUPB/KPREPBS/-BL`
 * antagonist `APBT/AG/TPHEUFT`
-* methinks `PHE/THEUS`
+* methinks `PHE/TK-LS/THEUS`
 * barley `PWAR/HREU`
 * plateau `PHRA/TOE`
 * superintendent `SUPT`
@@ -8668,7 +8668,7 @@
 * quotation `KWOGS`
 * fullest `TPUL/EFT`
 * exposition `EBGS/POGS`
-* custody `KUFD/TEU`
+* custody `KUFT/TKEU`
 * thermometer `THERPLT`
 * plausible `PHRAUBL`
 * toss `TOS`
@@ -8709,7 +8709,7 @@
 * Meg `PHEG`
 * murderous `PHURD/ROUS`
 * serenity `SR*EPBT`
-* perspiration `PERP/RAEUGS`
+* perspiration `PER/SPRAEUGS`
 * coventry `KOFRPB/TREU`
 * impudent `*EUPL/TKEPBT`
 * ardor `AR/TKOR`
@@ -8749,7 +8749,7 @@
 * whiskey `WEUS/KEU`
 * relatively `RE/TEUFL`
 * forbidding `TPORBD/-G`
-* Cleopatra `KHRAOE/PAT/R`
+* Cleopatra `KHRAOE/PAT/RA`
 * willow `WEUL/HROE`
 * mathematical `PHAT/PHAT/K-L`
 * sojourn `SO/SKWRURPB`
@@ -8778,7 +8778,7 @@
 * glee `TKPWHRAOE`
 * adult `TKULT`
 * solace `SOL/AS`
-* biography `PWOG/TPEU`
+* biography `PWAOEUG/TPEU`
 * ff. `TP*/TP*/TP-PL`
 * hardship `HARD/SH-P`
 * lied `HRAOEUD`
@@ -9007,7 +9007,7 @@
 * diligent `TKEUL/SKWREPBT`
 * Hindu `HEUPB/TKAOU`
 * blunt `PWHRUPBT`
-* omen `O/PHEPB`
+* omen `OE/PHEPB`
 * bleak `PWHRAEBG`
 * vehemently `SRAOEPLT/HREU`
 * wretchedness `WREFPD/-PBS`
@@ -9031,7 +9031,7 @@
 * ordinance `ORPBS`
 * bamboo `PWAPL/PWAO`
 * Amsterdam `AFPS/TKAPL`
-* vocation `SRO/KAEUGS`
+* vocation `SROEBGS`
 * admirer `AD/PHAOEUR/ER`
 * limp `HREUFRP`
 * pallid `PAL/EUD`
@@ -9102,7 +9102,7 @@
 * crisp `KREUFP`
 * jerk `SKWRERBG`
 * tout `TOUT`
-* vocabulary `SROEBG/PWAER`
+* vocabulary `SROEBG/PWHRAER`
 * stroll `STROL`
 * poorly `PAORL`
 * composing `KPOEFG`
@@ -9118,7 +9118,7 @@
 * mellow `PHEL/OE`
 * nationality `TPHAT/ALT`
 * jam `SKWRAPL`
-* austere `AU/STER`
+* austere `AUS/TAOER`
 * shoots `SHAOTS`
 * casually `KAS/WAEL`
 * pensive `PEPB/SEUF`
@@ -9213,7 +9213,7 @@
 * Kirk `KEURBG`
 * bough `PWO*U`
 * momentous `PHOEPLT/OUS`
-* albeit `AL/PWAEUT`
+* albeit `AL/PWAOET`
 * enlarge `EPB/HRARPBLG`
 * hardness `HARD/-PBS`
 * civilised `SEUFL/AOEUZ/-D/A*U`
@@ -9367,7 +9367,7 @@
 * banish `PWAPB/EURB`
 * electrical `HREBG/K-L`
 * herb `ERB`
-* multiply `PHULT/PHREU`
+* multiply `PHULT/PHRAOEU`
 * prosper `PROS/PER`
 * friar `TPRAOEU/A*R`
 * nightly `TPHAOEUT/HREU`
@@ -9471,7 +9471,7 @@
 * Gloucester `TKPWHROS/TER`
 * nominal `TPHOPL/TPHAL`
 * demonstrate `TKEPL/STRAET`
-* dispense `TKES/PEPBS`
+* dispense `TKEUS/PEPBS`
 * dissatisfaction `TKEUS/SAEBGS`
 * merciless `PHERS/-LS`
 * trusty `TRUS/TEU`
@@ -9762,7 +9762,7 @@
 * flask `TPHRAFBG`
 * KA `KA/KWRA`
 * countryman `KREU/PHA*PB`
-* lonesome `HROPB/SOPL`
+* lonesome `HROEPB/SOPL`
 * manned `PHAPBD`
 * unarmed `UPB/ARPLD`
 * wast `WA*FT`
@@ -9779,7 +9779,7 @@
 * Parma `PAR/PHA`
 * diseased `STKAOE/-D`
 * Iliad `EUL/KWRAD`
-* salutary `SAL/TOER`
+* salutary `SAL/TAEUR`
 * smelt `SPHELT`
 * territorial `TER/TORL`
 * hurricane `HUR/KAEUPB`
@@ -9844,7 +9844,7 @@
 * presses `PRES/-S`
 * stealthily `ST*ELT/HREU`
 * dissolve `TKEUS/OFL`
-* volcano `SROL/KA/TPHOE`
+* volcano `SROL/KAEU/TPHOE`
 * Hungarian `HUPBG/AEURPB`
 * equilibrium `HRAOERPL`
 * obstinately `OBS/TPHAT/HREU`
@@ -9919,7 +9919,7 @@
 * yawning `KWRAUPB/-G`
 * mustache `PHUS/TARB`
 * supplement `S*UPLT`
-* whirlwind `WHEURL/WEUPD`
+* whirlwind `WHEURL/WEUPBD`
 * clash `KHRARB`
 * Terence `T*ERPBS`
 * lamentable `HRAPLT/-BL`
@@ -9950,7 +9950,7 @@
 * untrue `UPB/TRAOU`
 * rejection `RE/SKWREBGS`
 * grating `TKPWRAEUGT`
-* Hanover `HAPB/OFR`
+* Hanover `HAPB/O*EFR`
 * inexperienced `EUPB/SPAOERPBS/-D`
 * mon `PHOPB`
 * wintry `WEUPBT/REU`

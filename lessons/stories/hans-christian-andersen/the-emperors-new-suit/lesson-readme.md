@@ -108,7 +108,7 @@
 * beautiful, `PWAOUFL KW-BG`
 * but `PWUT`
 * their `THAEUR`
-* material `TERL`
+* material `TAOERL`
 * possessed `POS/ES/-D`
 * wonderful `WUFL`
 * quality `KWALT`

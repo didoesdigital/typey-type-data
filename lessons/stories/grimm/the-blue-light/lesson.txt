@@ -7,7 +7,7 @@ The Blue Light
 'a': AEU
 'time': TAOEUPL
 'a': AEU
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'who': WHO
 'for': TPOR
 'many': PHAEPB
@@ -75,7 +75,7 @@ The Blue Light
 'them.'': THEPL TP-PL AE
 'Then': KPA/THEPB
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'did': TK
 'not': TPHOT
 'know': TPHOE
@@ -153,7 +153,7 @@ The Blue Light
 'to': TO
 'a': AEU
 'run-away': RUPB H-PB A/WAEU
-'soldier?': SHRERPBL H-F
+'soldier?': SHRERPBLG H-F
 'Yet': KPA/KWRET
 'will': HR
 'I': EU
@@ -176,7 +176,7 @@ The Blue Light
 'wish?'': WEURB H-F AE
 'said': SAEUD
 'the': -T
-'soldier.': SHRERPBL TP-PL
+'soldier.': SHRERPBLG TP-PL
 ''That': AE KPA/THA
 'you': U
 'should': SHO
@@ -189,7 +189,7 @@ The Blue Light
 'me,': PHE KW-BG
 'tomorrow.'': TORPL TP-PL AE
 'The': KPA/-T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'consented,': KEFPBT/-D KW-BG
 'and': SKP
 'next': TPHEGT
@@ -247,7 +247,7 @@ The Blue Light
 'it': T
 'small.'': SPHAL TP-PL AE
 'The': KPA/-T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'spent': SPEPBT
 'the': -T
 'whole': WHOEL
@@ -411,7 +411,7 @@ The Blue Light
 'away.': A/WAEU TP-PL
 'The': KPA/-T
 'poor': PAOR
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'fell': TPEL
 'without': WOUT
 'injury': SKWRAOUR
@@ -518,7 +518,7 @@ The Blue Light
 'are?'': R H-F AE
 'replied': RE/PHRAOEUD
 'the': -T
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 'quite': KWAOEUT
 'astonished.': A/STOPB/EURBD TP-PL
 ''I': AE EU
@@ -535,7 +535,7 @@ The Blue Light
 ''Good,'': AE KPA/TKPWAOD KW-BG AE
 'said': SAEUD
 'the': -T
-'soldier;': SHRERPBL STPH*FPLT
+'soldier;': SHRERPBLG STPH*FPLT
 ''then': AE THEPB
 'in': TPH
 'the': -T
@@ -593,7 +593,7 @@ The Blue Light
 'there,': THR KW-BG
 'and': SKP
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'took': TAOBG
 'as': AZ
 'much': PHUFP
@@ -682,7 +682,7 @@ The Blue Light
 'none,'': TPHOPB KW-BG AE
 'answered': AEPBS/-D
 'the': -T
-'soldier;': SHRERPBL STPH*FPLT
+'soldier;': SHRERPBLG STPH*FPLT
 ''you': AE U
 'can': K
 'return': RURPB
@@ -726,7 +726,7 @@ The Blue Light
 'his': HEUS
 'sight.': SAOEUT TP-PL
 'The': KPA/-T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'returned': RURPBD
 'to': TO
 'the': -T
@@ -764,7 +764,7 @@ The Blue Light
 'ready': R-D
 'and': SKP
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'had': H
 'taken': TAEPB
 'possession': PEFGS
@@ -884,7 +884,7 @@ The Blue Light
 'there?'': THR H-F AE
 'cried': KRAOEUD
 'the': -T
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 ''get': AE TKPWET
 'to': TO
 'your': KWROUR
@@ -1017,7 +1017,7 @@ The Blue Light
 'taken': TAEPB
 'into': TPHAO
 'a': AEU
-'soldier's': SHRERPBL AES
+'soldier's': SHRERPBLG AES
 'room,': RAOPL KW-BG
 'and': SKP
 'I': EU
@@ -1272,7 +1272,7 @@ The Blue Light
 'night': TPHAOEUT
 'when': WHEPB
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'again': TKPWEPB
 'ordered': ORD/-D
 'him': HEUPL
@@ -1306,7 +1306,7 @@ The Blue Light
 'found': TPOUPBD
 'in': TPH
 'the': -T
-'soldier's': SHRERPBL AES
+'soldier's': SHRERPBLG AES
 'house': HOUS
 'it': T
 'would': WO
@@ -1321,7 +1321,7 @@ The Blue Light
 'you,'': U KW-BG AE
 'replied': RE/PHRAOEUD
 'the': -T
-'soldier,': SHRERPBL KW-BG
+'soldier,': SHRERPBLG KW-BG
 'and': SKP
 'again': TKPWEPB
 'this': TH
@@ -1366,10 +1366,10 @@ The Blue Light
 'found': TPOUPBD
 'at': AT
 'the': -T
-'soldier's,': SHRERPBL AE S* KW-BG
+'soldier's,': SHRERPBLG AE S* KW-BG
 'and': SKP
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'himself,': H*EUPLS KW-BG
 'who': WHO
 'at': AT
@@ -1443,7 +1443,7 @@ The Blue Light
 'passing': PAFG
 'by.': PWEU TP-PL
 'The': KPA/-T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'tapped': TAPD
 'at': AT
 'the': -T
@@ -1500,7 +1500,7 @@ The Blue Light
 'soon': SAOPB
 'as': AZ
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'was': WAS
 'alone': A/HROEPB
 'again,': TKPWEPB KW-BG
@@ -1544,7 +1544,7 @@ The Blue Light
 'Next': KPA/TPHEGT
 'day': TKAEU
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'was': WAS
 'tried,': TRAOEUD KW-BG
 'and': SKP
@@ -1610,7 +1610,7 @@ The Blue Light
 'life.'': HRAOEUF TP-PL AE
 'Then': KPA/THEPB
 'the': -T
-'soldier': SHRERPBL
+'soldier': SHRERPBLG
 'pulled': PULD
 'out': OUT
 'his': HEUS
@@ -1716,7 +1716,7 @@ The Blue Light
 'himself': H*EUPLS
 'on': OPB
 'the': -T
-'soldier's': SHRERPBL AES
+'soldier's': SHRERPBLG AES
 'mercy,': PHER/SEU KW-BG
 'and': SKP
 'merely': PHAOERL

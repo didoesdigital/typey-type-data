@@ -652,7 +652,7 @@
 * stole `STOEL`
 * out, `OUT KW-BG`
 * armed `ARPLD`
-* poisonous `POEUZ/TPHOUS`
+* poisonous `POEUS/TPHOUS`
 * spears. `SPAOERZ TP-PL`
 * themselves `TH*EPLS`
 * sleeper, `SHRAOEP/*ER KW-BG`

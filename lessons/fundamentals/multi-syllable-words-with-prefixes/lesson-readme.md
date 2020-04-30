@@ -254,6 +254,7 @@
 * conveyed `KAUPB/SRAEUD`
 * resemblance `RE/SEPL/PWHRAPBS`
 * rebellion `RE/PWEL/KWROPB`
+* promoting `PRO/PHOET/-G`
 * imperial `EUPL/PAOERL`
 * dislike `TKEUS/HRAOEUBG`
 * infantry `EUPB/TPAPB/TREU`
@@ -366,7 +367,7 @@
 * propriety `PRO/PRAOEUT`
 * irresistible `EUR/SEUFT/-BL`
 * repeating `RE/PAOEGT`
-* undertaken `UPBD/TAEBG/EPB`
+* undertaken `UPBD/TAEPB`
 * attendant `A/TEPBD/APBT`
 * unconsciously `UPB/K-RBS/HREU`
 * attendance `A/TEPBD/APBS`
@@ -413,7 +414,7 @@
 * detected `TKE/TEBGD`
 * contemplation `KAUPB/TPHRAEUT/KWROPB`
 * resembled `RE/SEPL/-BLD`
-* inscription `EUPB/KREUPGS`
+* inscription `EUPB/SKREUPGS`
 * indulge `EUPB/TKULG`
 * indulgence `EUPB/TKULG/EPBS`
 * enlightened `EPB/HRAOEUT/-PBD`
@@ -654,6 +655,7 @@
 * apostle `A/POFL`
 * convincing `KAUPB/SREUPBS/-G`
 * redistribute `RE/TKR-BT`
+* outdated `AOUT/TKAEUTD`
 * denial `TKE/TPHAOEUL`
 * denounced `TKE/TPHOUPBS/-D`
 * underground `UPBD/TKPWROUPBD`
@@ -714,6 +716,7 @@
 * incline `EUPB/KHRAOEUPB`
 * dissatisfied `TKEUS/SAED`
 * self-control `SEF/KROEL`
+* outburst `AOUT/PWUFRT`
 * devour `TKE/SROUR`
 * malignant `PHAL/EUG/TPHAPBT`
 * accorded `A/KORD/-D`
@@ -850,6 +853,7 @@
 * foresight `TPOER/SAOEUGT`
 * inquisitive `EUPB/KWEUS/TEUF`
 * affirmative `A/TPEURPL/TEUF`
+* dispense `TKEUS/PEPBS`
 * dissatisfaction `TKEUS/SAEBGS`
 * discarded `TKEUS/KARD/-D`
 * precarious `PRE/KAEURS`
