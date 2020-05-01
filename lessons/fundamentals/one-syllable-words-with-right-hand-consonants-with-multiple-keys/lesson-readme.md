@@ -46,6 +46,7 @@
 * seems `SAOEPLS`
 * ten `TEPB`
 * talk `TAUBG`
+* age `AEUPBLG`
 * spoke `SPOEBG`
 * sun `SUPB`
 * act `ABGT`
@@ -58,6 +59,7 @@
 * wanted `WAPBTD`
 * wind `WEUPBD`
 * ran `RAPB`
+* charge `KHARPBLG`
 * arm `ARPL`
 * send `SEPBD`
 * walked `WAUBGD`
@@ -83,6 +85,7 @@
 * wine `WAOEUPB`
 * sign `SAOEUPB`
 * quick `KWEUBG`
+* page `PAEUPBLG`
 * weeks `WAOEBGS`
 * sin `SEUPB`
 * sick `SEUBG`
@@ -93,6 +96,7 @@
 * sons `SOPBS`
 * points `POEUPBTS`
 * rain `RAEUPB`
+* stage `STAEUPBLG`
 * prince `PREUPBS`
 * weak `WAEBG`
 * pointed `POEUPBTD`
@@ -102,6 +106,7 @@
 * worked `WORBGD`
 * calm `KAUPL`
 * wants `WAPBTS`
+* edge `EPBLG`
 * task `TAFBG`
 * Spain `SPAEUPB`
 * storm `STORPL`
@@ -115,6 +120,7 @@
 * printed `PREUPBTD`
 * crime `KRAOEUPL`
 * rooms `RAOPLS`
+* huge `HAOUPBLG`
 * skin `SKEUPB`
 * crown `KROUPB`
 * term `TERPL`
@@ -131,15 +137,18 @@
 * wound `WOUPBD`
 * whence `WHEPBS`
 * triumph `TRAOEUFPL`
+* pages `PAEUPBLGS`
 * sounds `SOUPBDZ`
 * win `WEUPB`
 * cook `KAOBG`
 * hence `HEPBS`
 * stick `STEUBG`
+* rage `RAEUPBLG`
 * spend `SPEPBD`
 * aunt `AUPBT`
 * reign `RAEPB`
 * picked `PEUBGD`
+* ages `AEPBLGS`
 * poem `POEPL`
 * painted `PAEUPBTD`
 * risk `REUFBG`
@@ -147,6 +156,7 @@
 * towns `TOUPBS`
 * cloth `KHRO*T`
 * acted `ABGD`
+* urged `URPBLGD`
 * turns `TURPBS`
 * keen `KAOEPB`
 * scheme `SKAOEPL`
@@ -178,7 +188,9 @@
 * ruined `RAOUPBD`
 * scorn `SKORPB`
 * stroke `STROBG`
+* charges `KHARPBLGS`
 * rent `REPBT`
+* wages `WAEUPBLGS`
 * pound `POUPBD`
 * ruins `RAOUPBS`
 * counted `KOUPBTD`
@@ -196,6 +208,7 @@
 * trained `TRAEUPBD`
 * warned `WARPBD`
 * trunk `TRUPBG`
+* siege `SAOEPBLG`
 * saints `SAEUPBTS`
 * owned `OEPBD`
 * strict `STREUBGT`
@@ -205,6 +218,7 @@
 * pine `PAOEUPB`
 * acres `AEURBGZ`
 * palm `PAPL`
+* ridge `REUPBLG`
 * tin `TEUPB`
 * saint `SAEUPBT`
 * creek `KRAOEBG`
@@ -237,6 +251,7 @@
 * crack `KRABG`
 * stem `STEPL`
 * schemes `SKAOEPLS`
+* urge `URPBLG`
 * wax `WABGS`
 * earned `ERPBD`
 * prompt `PROPLT`
@@ -248,17 +263,22 @@
 * sums `SUPLZ`
 * axe `ABGS`
 * Holmes `HOEPLZ`
+* stages `STAEUPBLGS`
 * screen `SKRAOEPB`
 * kin `KEUPB`
 * termed `TERPLD`
+* hedge `HEPBLG`
 * storms `STORPLS`
 * pint `PAOEUPBT`
+* edges `EPBLGS`
+* cage `KAEUPBLG`
 * crowns `KROUPBS`
 * scream `SKRAOEPL`
 * cane `KAEUPB`
 * tons `TOPBS`
 * sack `SABG`
 * Kent `KEPBT`
+* sage `SAEUPBLG`
 * trains `TRAEUPBS`
 * kick `KEUBG`
 * pin `PEUPB`
@@ -298,6 +318,7 @@
 * tempt `TEPLT`
 * strand `STRAPBD`
 * hum `HUPL`
+* ridges `REUPBLGS`
 * tense `TEPBS`
 * hen `HEPB`
 * trim `TREUPL`
@@ -319,6 +340,7 @@
 * Turk `TURBG`
 * rhythm `REUFPL`
 * stunned `STUPBD`
+* wage `WAEUPBLG`
 * twain `TWAEUPB`
 * alms `AUPLS`
 * rack `RABG`
@@ -344,6 +366,7 @@
 * whim `WHEUPL`
 * a.m. `A*PL`
 * streak `STRAOEBG`
+* scourge `SKORPBLG`
 * spin `SPEUPB`
 * span `SPAPB`
 * scorned `SKORPBD`
