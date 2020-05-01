@@ -7129,7 +7129,7 @@
 * superficial `STPEUFL`
 * tends `TEPBDZ`
 * identified `AOEUD/TPAOEUD`
-* wan `W*/A*/TPH*`
+* wan `WAUPB`
 * choosing `KHAOFG`
 * frighten `TPRAOEUFPB`
 * grotesque `TKPWROE/TEFBG`
