@@ -102,6 +102,7 @@
 * ^inator `TPHAEUT/O*R`
 * ^able `-BL`
 * ^ability `-BLT`
+* ^ible `EUBL`
 * ^ibility `EUBLT`
 * ^izable `AOEUBL`
 * ^al `A*L`
