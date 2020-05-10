@@ -305,6 +305,7 @@
 * Tim `TEUPL`
 * worm `WORPL`
 * tends `TEPBDZ`
+* wan `WAUPB`
 * swam `SWAPL`
 * cock `KOBG`
 * peaks `PAEBGS`
