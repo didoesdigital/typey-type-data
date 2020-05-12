@@ -105,7 +105,7 @@
 * scoffing `SKOF/-G`
 * at. `AT TP-PL`
 * men `PHEPB`
-* "Aren't `KR-GS KPA/R-/TPH* AE T*`
+* "Aren't `KR-GS/KPA*/R-PBT`
 * you `U`
 * ashamed `A/SHAEUPLD`
 * yourself `KWRO*URS`

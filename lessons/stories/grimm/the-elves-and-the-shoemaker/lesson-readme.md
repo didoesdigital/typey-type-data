@@ -249,7 +249,7 @@
 * lightning. `HRAOEUT/TPHEUPBG TP-PL`
 * shoemaker. `SHAOU/PHA*EURBG TP-PL`
 * 'These `AE KPA/THEZ`
-* wights `WAO*EUT/-S`
+* wights `xxx wights`
 * have `SR`
 * made `PHAED`
 * us `US`

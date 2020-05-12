@@ -886,7 +886,7 @@
 * bird `PWEURD`
 * soars `SAORS`
 * upward, `AUP/WARD KW-BG`
-* twittering `HRO*ER/TWEUT/*ERG`
+* twittering `HRO*ER/TWEUT/*ER/-G`
 * guileless `TKPWAOEUL/-LS`
 * cheerfulness, `KHAOER/-FL/-PBS KW-BG`
 * listen `HREUFPB`

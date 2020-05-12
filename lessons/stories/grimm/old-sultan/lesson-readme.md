@@ -268,7 +268,7 @@
 * looking `HRAOG`
 * sheep, `SHAOEP KW-BG`
 * stout `STOUT`
-* cudgel `KUPBLG`
+* cudgel `xxx cudgel`
 * about `PW`
 * combed `KOEPLD`
 * locks `HROBGZ`

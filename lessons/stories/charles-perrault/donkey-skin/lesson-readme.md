@@ -641,7 +641,7 @@
 * refuse `REF/AOUS`
 * nothing, `TPHOG KW-BG`
 * diamonds `TKAOEUPLDZ`
-* rubies `RO*EUB/-S`
+* rubies `RAOU/PWEU/KWREU/-S`
 * crown `KROUPB`
 * aid `AEUD`
 * superb `SPERB`
@@ -804,7 +804,7 @@
 * her; `HER STPH*FPLT`
 * invisible `EUPB/SREUBL`
 * cleverest `KHR*EFR/*ES`
-* seekers, `SAOEBG/*ERS KW-BG`
+* seekers, `SAOERBG/-S KW-BG`
 * escaped `SKAEPD`
 * vigilance. `SREUPBLG/HRAPBS TP-PL`
 * Meanwhile `KPA/PHAOEPB/WHAOEUL`

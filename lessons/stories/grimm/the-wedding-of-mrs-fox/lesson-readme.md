@@ -237,7 +237,7 @@
 * going `TKPW-G`
 * solemnized, `SHREPL/AO*EUFD KW-BG`
 * stirred `STEURD`
-* cudgelled `KUPBLG/-D`
+* cudgelled `xxx cudgelled`
 * rabble, `RABL KW-BG`
 * drove `TKROEF`
 * them `THEPL`

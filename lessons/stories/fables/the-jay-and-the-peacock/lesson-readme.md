@@ -24,7 +24,7 @@
 * when `WHEPB`
 * they `THE`
 * were `WR`
-* moulting. `PHOULT/-G TP-PL`
+* moulting. `PHOLT/A*U/-G TP-PL`
 * He `KPA/HE`
 * tied `TAO*EUD`
 * them `THEPL`

@@ -129,7 +129,7 @@
 * than `THAPB`
 * by `PWEU`
 * sea. `SAE TP-PL`
-* electro-magnetic `HRERBGT/KWRO H-PB PHAPBG/EUBG`
+* electro-magnetic `xxx electro H-PB PHAPBG/EUBG`
 * wire `WAOEUR`
 * ocean `OEGS`
 * telegraphed `TEL/TKPWRAFD`

@@ -399,7 +399,7 @@
 * almost `HR-PL`
 * angrily `APBG/REU/HREU`
 * spring, `SPREUPBG KW-BG`
-* twittering `HRO*ER/TWEUT/*ERG`
+* twittering `HRO*ER/TWEUT/*ER/-G`
 * birds, `PWEURDZ KW-BG`
 * cheerful `KHAOER/-FL`
 * green; `TKPWRAOEPB STPH*FPLT`
@@ -859,7 +859,7 @@
 * meadow. `PHED/OE TP-PL`
 * vanished, `SRAPB/EURBD KW-BG`
 * stopped `STOPD`
-* "You've `KR-GS/KPA/UF`
+* "You've `KR-GS/KPA*/UF`
 * coming!" `KO*G SKHRAPL KR-GS`
 * "Witches `KR-GS KPA/WEUFP/-S`
 * get `TKPWET`

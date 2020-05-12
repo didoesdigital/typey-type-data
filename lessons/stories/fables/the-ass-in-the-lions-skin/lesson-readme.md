@@ -56,7 +56,7 @@
 * gave `TKPWAEUF`
 * him `HEUPL`
 * sound `SOUPBD`
-* cudgelling `KUPBLG/*LG`
+* cudgelling `xxx cudgelling`
 * for `TPOR`
 * fright `TPRAOEUT`
 * caused. `KAUFD TP-PL`

@@ -395,7 +395,7 @@
 * exhausted, `KPAUFTD KW-BG`
 * reached `RAOEFPD`
 * home. `HOEPL TP-PL`
-* Ere `KPA/ER/*E`
+* Ere `KPA/AOE/R*/*E`
 * long `HROPBG`
 * came `KAEUPL`
 * summons `SPHUPBS`

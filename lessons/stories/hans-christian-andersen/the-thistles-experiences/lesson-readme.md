@@ -278,7 +278,7 @@
 * before `PW-FR`
 * heard, `HAERD KW-BG`
 * men, `PHEPB KW-BG`
-* twittering `HRO*ER/TWEUT/*ERG`
+* twittering `HRO*ER/TWEUT/*ER/-G`
 * birds, `PWEURDZ KW-BG`
 * air `AEUR`
 * stores `STORS`

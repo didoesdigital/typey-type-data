@@ -88,7 +88,7 @@
 * they `THE`
 * went `WEPBT`
 * search `SEFRPB`
-* waggon `WAG/TKPWOPB`
+* waggon `WAG/OPB/A*U`
 * on. `OPB TP-PL`
 * Just `KPA/SKWRUFT`
 * then `THEPB`

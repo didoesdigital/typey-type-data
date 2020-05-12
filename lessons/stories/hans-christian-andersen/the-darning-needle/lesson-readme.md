@@ -515,7 +515,7 @@
 * Crack `KPA/KRABG`
 * went `WEPBT`
 * egg-shell, `EG H-PB SHEL KW-BG`
-* waggon `WAG/TKPWOPB`
+* waggon `WAG/OPB/A*U`
 * passed `PAFD`
 * "Good `KR-GS KPA/TKPWAOD`
 * heavens, `HEFPBS KW-BG`

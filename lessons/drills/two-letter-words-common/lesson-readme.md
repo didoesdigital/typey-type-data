@@ -42,7 +42,7 @@
 * pi `PEU`
 * ok `O*EBG`
 * so `SO`
-* sh `SH*`
+* sh `xxx sh`
 * ta `TAEU`
 * ti `T*/SKWREU`
 * to `TO`

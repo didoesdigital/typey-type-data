@@ -269,12 +269,12 @@
 * get, `TKPWET KW-BG`
 * head-dresses, `HED H-PB TKRES/-S KW-BG`
 * adjust `A/KWRUFT`
-* double-pinners, `TKUBL H-PB PEUPB/*ERS KW-BG`
+* double-pinners, `TKUBL H-PB PEURPBZ KW-BG`
 * brushes, `PWRURBS KW-BG`
 * patches `PAFPS`
 * fashionable `TPAGS/-BL`
 * maker. `PHAEURBG TP-PL`
-* 'Double-pinners'--with `AE KPA/TKUBL H-PB PEUPB/*ERS AE H-PB H-PB W`
+* 'Double-pinners'--with `AE KPA/TKUBL H-PB PEURPBZ AE H-PB H-PB W`
 * side-flaps `SAOEUD H-PB TPHRAPS`
 * each `AOEFP`
 * side--accurately `SAOEUD H-PB H-PB ABG/RAT/HREU`

@@ -629,7 +629,7 @@
 * few `TPAOU`
 * wreaths `WRAO*ET/-S`
 * ascended, `A/SEPBD/-D KW-BG`
-* cudgel `KUPBLG`
+* cudgel `xxx cudgel`
 * does `TKOS`
 * lord `HRORD`
 * command?' `KPHAPBD H-F AE`

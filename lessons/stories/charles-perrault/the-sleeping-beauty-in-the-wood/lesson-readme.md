@@ -103,7 +103,7 @@
 * gold `TKPWOELD`
 * set `SET`
 * diamonds `TKAOEUPLDZ`
-* rubies. `RO*EUB/-S TP-PL`
+* rubies. `RAOU/PWEU/KWREU/-S TP-PL`
 * But `KPA/PWUT`
 * sitting `SEUGT`
 * down `TKOUPB`

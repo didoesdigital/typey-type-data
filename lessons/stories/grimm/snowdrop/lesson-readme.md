@@ -733,7 +733,7 @@
 * lady, `HRA*ED KW-BG`
 * loveliest `HROFL/KWREFT`
 * here, `HAOER KW-BG`
-* ween; `WAO*EPB STPH*FPLT`
+* ween; `WE/*EPB STPH*FPLT`
 * new-made `TPHU H-PB PHAED`
 * queen.' `KWAOEPB TP-PL AE`
 * started `STARTD`

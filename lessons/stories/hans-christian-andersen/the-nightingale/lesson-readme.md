@@ -704,7 +704,7 @@
 * living `HREUFG`
 * covered `KOFRD`
 * diamonds, `TKAOEUPLDZ KW-BG`
-* rubies, `RO*EUB/-S KW-BG`
+* rubies, `RAOU/PWEU/KWREU/-S KW-BG`
 * sapphires. `SA/TPAOEUR/-S TP-PL`
 * wound `WOUPBD`
 * up, `UP KW-BG`

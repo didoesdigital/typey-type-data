@@ -1067,7 +1067,7 @@
 * children `KHEURPB`
 * loved. `HROFD TP-PL`
 * need `TPHAOED`
-* "Wasn't `KR-GS KPA/WA/TPH* AE T*`
+* "Wasn't `KR-GS/KPA*/WAEPBT`
 * before?" `PW-FR H-F KR-GS`
 * Boy," `KPA/PWOEU KW-BG KR-GS`
 * Fairy `KPA/TPAEUR/REU`

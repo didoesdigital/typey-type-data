@@ -7923,7 +7923,7 @@
 * doubly `TKUB/HREU`
 * inadequate `TPHAD/KWAT`
 * Leslie `HRES/HREU`
-* blest `PWRES/*T`
+* blest `PWHREFT`
 * forbear `TPAUR/PWAER`
 * haunt `HAUPBT`
 * treaties `TRAOET/KWREUS`

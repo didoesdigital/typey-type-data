@@ -391,7 +391,7 @@
 * 'Caw! `AE KPA/KA*U SKHRAPL`
 * Caw! `KPA/KA*U SKHRAPL`
 * I `EU`
-* ween `WAO*EPB`
+* ween `WE/*EPB`
 * Mortal `KPA/PHOR/TAL`
 * lips `HREUPS`
 * way `WAEU`

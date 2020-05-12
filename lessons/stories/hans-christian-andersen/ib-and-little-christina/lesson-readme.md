@@ -212,7 +212,7 @@
 * large `HRARPBLG`
 * boat `PWOET`
 * eel-pond `AOEL H-PB POPBD`
-* eel-weir, `AOEL H-PB WAO*ER KW-BG`
+* eel-weir, `AOEL H-PB xxx weir KW-BG`
 * estate `ES/TAEUT`
 * Silkborg, `xxx Silkborg KW-BG`
 * distant `STKAPBT`

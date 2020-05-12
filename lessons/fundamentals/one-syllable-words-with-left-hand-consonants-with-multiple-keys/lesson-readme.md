@@ -547,6 +547,7 @@
 * clutched `KHRUFPD`
 * sneer `STPHAOER`
 * plump `PHRUFRP`
+* blest `PWHREFT`
 * draft `TKRAFT`
 * Claude `KHRAUD`
 * slide `SHRAOEUD`

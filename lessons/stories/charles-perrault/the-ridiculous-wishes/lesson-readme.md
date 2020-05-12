@@ -349,7 +349,7 @@
 * kingdom, `KEUPBG/TKOPL KW-BG`
 * gold, `TKPWOELD KW-BG`
 * pearls, `PERLS KW-BG`
-* rubies, `RO*EUB/-S KW-BG`
+* rubies, `RAOU/PWEU/KWREU/-S KW-BG`
 * diamonds, `TKAOEUPLDZ KW-BG`
 * princely `PREUPBS/HREU`
 * garments `TKPWARPLTS`
@@ -430,7 +430,7 @@
 * wrought. `WROT TP-PL`
 * comely `KOPL/HREU`
 * woman, `WOPL KW-BG`
-* blest `PWRES/*T`
+* blest `PWHREFT`
 * looks, `HRAOBGS KW-BG`
 * truth `TRAO*UT`
 * tell, `TEL KW-BG`

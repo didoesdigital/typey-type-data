@@ -769,7 +769,7 @@
 * man!" `PHAPB SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
 * use `AOUS`
-* twittering, `HRO*ER/TWEUT/*ERG KW-BG`
+* twittering, `HRO*ER/TWEUT/*ER/-G KW-BG`
 * winter `WEURPBT`
 * comes `KOPLS`
 * either `AOERT`
