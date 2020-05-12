@@ -716,7 +716,7 @@
 * concession `KAUPB/SEGS`
 * incline `EUPB/KHRAOEUPB`
 * dissatisfied `TKEUS/SAED`
-* self-control `SEF/KROEL`
+* self-control `SEF/KROL`
 * outburst `AOUT/PWUFRT`
 * devour `TKE/SROUR`
 * malignant `PHAL/EUG/TPHAPBT`

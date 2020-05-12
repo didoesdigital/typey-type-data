@@ -3441,7 +3441,7 @@
 * proceedings `PROED/-GS`
 * roar `ROR`
 * romantic `RO/PHAPBT/EUBG`
-* twenty-five `TWEPBT/TPEUF`
+* twenty-five `TWEPBT/TPAOEUF`
 * hut `HUT`
 * strangely `STRAEUPBG/HREU`
 * absorbed `SPWORBD`
@@ -3554,7 +3554,7 @@
 * grandfather `TKPWR-F`
 * other's `OER/AES`
 * income `TPH-BG`
-* i.e. `KWRO*EU`
+* i.e. `AOEU/KWRAOE`
 * regards `RARDZ`
 * streams `STRAOEPLS`
 * vigorous `SREUG/ROUS`
@@ -3932,7 +3932,7 @@
 * chase `KHAEUS`
 * heroes `HOEURS`
 * invisible `EUPB/SREUBL`
-* well-known `WEL/H-PB/TPHOEPB`
+* well-known `WEL/TPHO*EPB`
 * occupy `OBG/PAOEU`
 * Jacob `SKWRAEU/KOB`
 * gown `TKPWOUPB`
@@ -8288,7 +8288,7 @@
 * leapt `HREPT`
 * dissatisfied `TKEUS/SAED`
 * hardest `HARD/EFT`
-* self-control `SEF/KROEL`
+* self-control `SEF/KROL`
 * toilet `TOEULT`
 * Buddha `PWUD/TKA`
 * offense `OFPBS`
@@ -9505,7 +9505,7 @@
 * tinge `TEUPBG`
 * brim `PWREUPL`
 * forenoon `TPOER/TPHAOPB`
-* seventy-five `SEFPBT/TPEUF`
+* seventy-five `SEFPBT/TPAOEUF`
 * sparkle `SPAR/K-L`
 * syllables `SEUL/-BLS`
 * shrug `SHR*UG`

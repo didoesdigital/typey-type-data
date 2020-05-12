@@ -397,7 +397,7 @@
 * usual `URBL`
 * vocal `SROELG`
 * performances, `PER/TPORPL/APBS/-S KW-BG`
-* well-known `WEL/H-PB/TPHOEPB`
+* well-known `WEL/TPHO*EPB`
 * notes `TPHOETS`
 * echoed `EBG/OE/-D`
 * amid `A/PHEUD`

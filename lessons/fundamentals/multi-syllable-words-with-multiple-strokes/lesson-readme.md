@@ -547,7 +547,7 @@
 * consisted `KAO/-D`
 * proceedings `PROED/-GS`
 * romantic `RO/PHAPBT/EUBG`
-* twenty-five `TWEPBT/TPEUF`
+* twenty-five `TWEPBT/TPAOEUF`
 * strangely `STRAEUPBG/HREU`
 * reception `RE/SEPGS`
 * attained `A/TAEUPBD`
@@ -579,7 +579,7 @@
 * confessed `KAUPB/TPES/-D`
 * repose `RE/POES`
 * other's `OER/AES`
-* i.e. `KWRO*EU`
+* i.e. `AOEU/KWRAOE`
 * vigorous `SREUG/ROUS`
 * bishop `PWEURB/OP`
 * lightning `HRAOEUT/TPHEUPBG`
@@ -2580,7 +2580,7 @@
 * incline `EUPB/KHRAOEUPB`
 * dissatisfied `TKEUS/SAED`
 * hardest `HARD/EFT`
-* self-control `SEF/KROEL`
+* self-control `SEF/KROL`
 * Buddha `PWUD/TKA`
 * woodland `WAOD/HRAPBD`
 * gentry `SKWREPBT/REU`
@@ -3175,7 +3175,7 @@
 * impunity `EUPL/PAOUPB/TEU`
 * conveying `KAUPB/SRAEUG`
 * forenoon `TPOER/TPHAOPB`
-* seventy-five `SEFPBT/TPEUF`
+* seventy-five `SEFPBT/TPAOEUF`
 * sparkle `SPAR/K-L`
 * syllables `SEUL/-BLS`
 * enchantment `EPB/KHAPLT`

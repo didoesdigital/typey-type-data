@@ -285,7 +285,7 @@
 * heard `HAERD`
 * sound `SOUPBD`
 * dear, `TKAER KW-BG`
-* well-known `WEL/H-PB/TPHOEPB`
+* well-known `WEL/TPHO*EPB`
 * melodies, `PHEL/TKEU/-S KW-BG`
 * breezes `PWRAOEZ/-S`
 * summer `SAOURPL`

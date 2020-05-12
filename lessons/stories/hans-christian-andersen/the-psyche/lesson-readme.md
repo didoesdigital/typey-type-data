@@ -584,7 +584,7 @@
 * itself, `T/SEFL KW-BG`
 * heightened `HAOEUT/*EPBD`
 * likeness `HRAOEUBG/-PBS`
-* well-known `WEL/H-PB/TPHOEPB`
+* well-known `WEL/TPHO*EPB`
 * features. `TPAOEFPS TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * is," `S KW-BG KR-GS`

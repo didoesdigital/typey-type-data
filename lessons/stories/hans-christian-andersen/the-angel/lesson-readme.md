@@ -91,7 +91,7 @@
 * if `TP`
 * dream. `TKRAOEPL TP-PL`
 * passed `PAFD`
-* well-known `WEL/H-PB/TPHOEPB`
+* well-known `WEL/TPHO*EPB`
 * spots, `SPOTS KW-BG`
 * where `W-R`
 * little `HREUL`
