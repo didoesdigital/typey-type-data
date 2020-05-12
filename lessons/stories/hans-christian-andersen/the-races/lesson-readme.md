@@ -203,7 +203,7 @@
 * thought `THAUT`
 * there `THR`
 * danger `TKAEUPBLG`
-* delay. `TKHREU TP-PL`
+* delay. `TKHRAEU TP-PL`
 * I, `EU KW-BG`
 * other `OER`
 * hand, `HAPBD KW-BG`

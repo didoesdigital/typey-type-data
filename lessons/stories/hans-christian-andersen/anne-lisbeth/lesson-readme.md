@@ -416,7 +416,7 @@
 * lay `HRAEU`
 * its `EUTS`
 * beam `PWAEPL`
-* ends. `EPDZ TP-PL`
+* ends. `EPBDZ TP-PL`
 * rock, `ROBG KW-BG`
 * rose `ROEZ`
 * depths `TK*EPTS`
@@ -715,7 +715,7 @@
 * relieve `RE/HREF`
 * heart `HART`
 * telling `TELG`
-* lest `HRES/*T`
+* lest `HR*ES`
 * latter `HRAERT`
 * should `SHO`
 * think `THEU`
@@ -1022,7 +1022,7 @@
 * corpse. `KORPS TP-PL`
 * Only `KPA/OEPBL`
 * grass, `TKPWRAS KW-BG`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * heard `HAERD`
 * childhood: `KHAOEULD/H*D STPH-FPLT`
 * superstitions `SAOUP/STEUGS/-S`
@@ -1043,7 +1043,7 @@
 * one, `WUPB KW-BG`
 * spirit `SPEURT`
 * pursue `PUR/SAOU`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * wanderer, `WAPBD/RER KW-BG`
 * attach `A/TAFP`
 * itself `T/SEFL`

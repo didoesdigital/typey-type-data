@@ -786,7 +786,7 @@
 * fingers,' `TPEURPBGS KW-BG AE`
 * 'and `AE SKP`
 * fancy `TPAEPBS`
-* card-playing `KARD H-PB PHRA*EUG`
+* card-playing `KARD H-PB PHRAEUG`
 * gone,' `TKPWOPB KW-BG AE`
 * struck `STRUBG`
 * water. `WAUR TP-PL`
@@ -964,7 +964,7 @@
 * 'How `AE KPA/HOU`
 * fared `TPA*ERD`
 * time?' `TAOEUPL H-F AE`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * nine-pins,' `TPHAOEUPB H-PB PEUPB/-S KW-BG AE`
 * answered, `AEPBS/-D KW-BG`
 * couple `KUPL`

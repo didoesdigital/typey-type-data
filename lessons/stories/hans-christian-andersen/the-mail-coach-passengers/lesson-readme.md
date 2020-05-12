@@ -498,7 +498,7 @@
 * fellow, `TPO*EUL KW-BG`
 * clad `KHRAD`
 * garments `TKPWARPLTS`
-* wearing `WAURG`
+* wearing `WAERG`
 * straw `STRAU`
 * hat. `HAT TP-PL`
 * cumbersome `KUPL/PWER/SPH`
@@ -547,7 +547,7 @@
 * Bible." `PWAO*EUBL TP-PL KR-GS`
 * recreations, `RE/KRAEGS/-S KW-BG`
 * dancing `TKAPBS/-G`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * greenwood, `xxx greenwood KW-BG`
 * "harvest `KR-GS HAR/SREFT`
 * homes." `HOEPLS TP-PL KR-GS`

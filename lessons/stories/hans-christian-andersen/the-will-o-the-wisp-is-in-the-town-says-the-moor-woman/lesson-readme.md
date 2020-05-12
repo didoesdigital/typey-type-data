@@ -1445,7 +1445,7 @@
 * agreeable," `TKPWRAOEBL KW-BG KR-GS`
 * replied, `RE/PHRAOEUD KW-BG`
 * escape `SKAEP`
-* newspapers, `TPHUPS KW-BG`
+* newspapers, `TPHAOUPS KW-BG`
 * tied `TAO*EUD`
 * uncomfortable `TPH-BL`
 * decaying `TKAOE/KAEUG`

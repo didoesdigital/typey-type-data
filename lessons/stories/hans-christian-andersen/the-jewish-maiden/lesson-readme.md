@@ -752,7 +752,7 @@
 * churchyard, `KH*URPBLG/KWRARD KW-BG`
 * echo `EBG/OE`
 * reaches `RAOEFPS`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * resting-place; `REFT/-G H-PB PHRAEUS STPH*FPLT`
 * sleeps `SHRAOEPS`
 * counted `KOUPBTD`

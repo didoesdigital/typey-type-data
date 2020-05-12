@@ -128,6 +128,7 @@
 * Scots `SKOTS`
 * Carl `KARL`
 * sports `SPORTS`
+* calf `KAF`
 * stool `STOL`
 * pearl `PERL`
 * caps `KAPS`

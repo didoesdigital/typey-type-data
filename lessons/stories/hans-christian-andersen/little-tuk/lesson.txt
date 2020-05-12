@@ -478,7 +478,7 @@ Little Tuk
 'inhabitants': EUPB/HABT/APBTS
 'the': -T
 'town': TOUPB
-'contained,': TAEUPBD KW-BG
+'contained,': KAUPB/TAEUPBD KW-BG
 'and': SKP
 'about': PW
 'a': AEU
@@ -705,7 +705,7 @@ Little Tuk
 'arms,': ARPLS KW-BG
 'that': THA
 'it': T
-'contained': TAEUPBD
+'contained': KAUPB/TAEUPBD
 'two': TWO
 'thousand': THOEUPB
 'inhabitants;': EUPB/HABT/APBTS STPH*FPLT
@@ -1277,7 +1277,7 @@ Little Tuk
 'so': SO
 'monotonous': PHOPB/OT/TPHUS
 'and': SKP
-'wearing,': WAURG KW-BG
+'wearing,': WAERG KW-BG
 'that': THA
 'little': HREUL
 'Tuk': T*P/*U/*BG

@@ -241,7 +241,7 @@
 * cask, `KAFBG KW-BG`
 * lay `HRAEU`
 * quantity `KWAPBT`
-* newspapers. `TPHUPS TP-PL`
+* newspapers. `TPHAOUPS TP-PL`
 * "Is `KR-GS KPA/S`
 * really `R-L`
 * true," `TRAOU KW-BG KR-GS`
@@ -259,7 +259,7 @@
 * something `S-G`
 * stand `STAPBD`
 * corner `KRORPB`
-* newspaper, `TPHUP KW-BG`
+* newspaper, `TPHAOUP KW-BG`
 * sometimes `STAOEUPLS`
 * cut `KUT`
 * out; `OUT STPH*FPLT`
@@ -416,7 +416,7 @@
 * tongue; `TUPBG STPH*FPLT`
 * given `TKPWEUFPB`
 * description `SKREUPGS`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * side, `SAOEUD KW-BG`
 * just `SKWRUFT`
 * turn `TURPB`

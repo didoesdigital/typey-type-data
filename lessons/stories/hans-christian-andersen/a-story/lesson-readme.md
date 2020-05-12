@@ -570,7 +570,7 @@
 * cry, `KRAOEU KW-BG`
 * gave `TKPWAEUF`
 * comrade `KOPL/RAD`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * dig `TKEUG`
 * ribs `REUBS`
 * pointed `POEUPBTD`

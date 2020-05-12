@@ -26,7 +26,7 @@
 * to `TO`
 * be `-B`
 * very `SRE`
-* frightened; `TPRAOEUPBD STPH*FPLT`
+* frightened; `TPRAOEUFPBD STPH*FPLT`
 * but `PWUT`
 * looking `HRAOG`
 * more `PHOR`

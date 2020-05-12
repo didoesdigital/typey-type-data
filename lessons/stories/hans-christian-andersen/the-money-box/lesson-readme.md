@@ -143,7 +143,7 @@
 * women, `WEUPL KW-BG`
 * something `S-G`
 * worth `WO*RT`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * at." `AT TP-PL KR-GS`
 * Upon `KPA/POPB`
 * great `TKPWRAET`

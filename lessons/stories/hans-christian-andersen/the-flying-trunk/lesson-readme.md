@@ -255,7 +255,7 @@
 * Then `KPA/THEPB`
 * awoke, `A/WOEBG KW-BG`
 * much `PHUFP`
-* frightened; `TPRAOEUPBD STPH*FPLT`
+* frightened; `TPRAOEUFPBD STPH*FPLT`
 * told `TOLD`
 * her `HER`
 * angel, `APB/SKWREL KW-BG`
@@ -282,7 +282,7 @@
 * forehead `TPOER/HED`
 * snowy `STPHOE/WEU`
 * mountain, `PHOUPB/TAEUPB KW-BG`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * splendid `SPHREPB/TKEUD`
 * halls `HAULS`
 * full `TPUL`
@@ -303,7 +303,7 @@
 * immediately. `PHAOELD TP-PL`
 * "But `KR-GS KPA/PWUT`
 * must `PHUFT`
-* Saturday," `SAET KW-BG KR-GS`
+* Saturday," `SATD KW-BG KR-GS`
 * said; `SAEUD STPH*FPLT`
 * "for `KR-GS TPOR`
 * take `TAEUBG`
@@ -359,7 +359,7 @@
 * composed `KPOEFD`
 * story, `STOER KW-BG`
 * ready `R-D`
-* Saturday, `SAET KW-BG`
+* Saturday, `SATD KW-BG`
 * easy `EZ`
 * matter. `PHAERT TP-PL`
 * however `HOUF`

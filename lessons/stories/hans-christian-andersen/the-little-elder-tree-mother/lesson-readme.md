@@ -71,7 +71,7 @@
 * came `KAEUPL`
 * in; `TPH STPH*FPLT`
 * led `HRED`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * life, `HRAOEUF KW-BG`
 * for `TPOR`
 * no `TPHO`
@@ -411,7 +411,7 @@
 * cried `KRAOEUD`
 * you, `U KW-BG`
 * afraid `A/TPRAEUD`
-* lest `HRES/*T`
+* lest `HR*ES`
 * drowned `TKROUPBD`
 * lying `HRAOEUG`
 * bottom `PWOPLT`
@@ -967,7 +967,7 @@
 * elder-tree, `ELD/ER H-PB TRAOE KW-BG`
 * been `PW-PB`
 * opinion `P-PB`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * points `POEUPBTS`
 * own, `OEPB KW-BG`
 * similarities `SHRAEURPLT/-S`

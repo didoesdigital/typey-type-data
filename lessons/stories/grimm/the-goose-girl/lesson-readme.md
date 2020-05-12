@@ -184,7 +184,7 @@
 * thirsty `THEURS/TEU`
 * knelt `TPHELT`
 * drank; `TKRA*PBG STPH*FPLT`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * dared `TKAEURD`
 * bring `PWREU`
 * cup; `KUP STPH*FPLT`
@@ -258,7 +258,7 @@
 * floated `TPHROET/-D`
 * away `A/WAEU`
 * water. `WAUR TP-PL`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * did `TK`
 * see `SAOE`
 * it; `T STPH*FPLT`
@@ -392,7 +392,7 @@
 * was, `WAS KW-BG`
 * much `PHUFP`
 * afraid `A/TPRAEUD`
-* lest `HRES/*T`
+* lest `HR*ES`
 * should `SHO`
 * or `OR`
 * speak, `SPAOEBG KW-BG`

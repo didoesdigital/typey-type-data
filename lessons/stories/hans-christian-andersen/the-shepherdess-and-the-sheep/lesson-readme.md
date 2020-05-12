@@ -351,7 +351,7 @@
 * away! `A/WAEU SKHRAPL`
 * away!" `A/WAEU SKHRAPL KR-GS`
 * two `TWO`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * this, `TH KW-BG`
 * jumped `SKWR*UPLD`
 * drawer `TKRAUR`
@@ -385,7 +385,7 @@
 * heads `HEDZ`
 * above `PWOF`
 * below `PWHRO`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * generally `SKWRERPBL`
 * have. `SR TP-PL`
 * play `PHRAEU`

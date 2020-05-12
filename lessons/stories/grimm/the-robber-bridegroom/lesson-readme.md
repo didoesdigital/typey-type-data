@@ -185,7 +185,7 @@
 * part `PART`
 * forest. `TPOEFRT TP-PL`
 * saw `SAU`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * house, `HOUS KW-BG`
 * looking `HRAOG`
 * so `SO`
@@ -433,7 +433,7 @@
 * together, `TOGT KW-BG`
 * moment `PHOEPLT`
 * renewed `RE/TPHAOUD`
-* lest `HRES/*T`
+* lest `HR*ES`
 * awaken `A/WA*EUPB`
 * God `TKPWO*D`
 * helped `HEPD`

@@ -79,7 +79,7 @@
 * lamp `HRAFRP`
 * very `SRE`
 * great `TKPWRAET`
-* anxiety `KPRAOEUT`
+* anxiety `KPAO*EUT`
 * about `PW`
 * next `TPHEGT`
 * day, `TKAEU KW-BG`
@@ -761,7 +761,7 @@
 * kitchen `K-FP`
 * garden. `TKPWA*RPB TP-PL`
 * elephant, `EL/TPAPBT KW-BG`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * geranium, `SKWRER/AEUPB/KWRUPL KW-BG`
 * called `KAULD`
 * flower `TPHRO*UR`
@@ -873,7 +873,7 @@
 * One `KPA/WUPB`
 * heap `HAOEP`
 * wax-candle `WABGS H-PB KA*PBLD`
-* ends `EPDZ`
+* ends `EPBDZ`
 * larger `HRAERPBLG`
 * pieces `PAOEFS`
 * burnt, `PWURPBT KW-BG`

@@ -498,7 +498,7 @@
 * nothing `TPHOG`
 * give," `TKPWEUF KW-BG KR-GS`
 * afflicted `A/TPHREUBGD`
-* ends `EPDZ`
+* ends `EPBDZ`
 * earth `*ERT`
 * you." `U TP-PL KR-GS`
 * can `K`
@@ -659,7 +659,7 @@
 * most `PHOFT`
 * anxious `KPUS`
 * care, `KAEUR KW-BG`
-* lest `HRES/*T`
+* lest `HR*ES`
 * should `SHO`
 * leaves. `HREFS TP-PL`
 * upon `POPB`

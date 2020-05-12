@@ -292,7 +292,7 @@
 * said. `SAEUD TP-PL`
 * But `KPA/PWUT`
 * sitting `SEUGT`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * baby, `PWAEB KW-BG`
 * put `PUT`
 * mind `PHAOEUPBD`

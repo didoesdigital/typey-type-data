@@ -359,7 +359,7 @@
 * talking `TAUG`
 * nonsense, `TPHOPB/SEPBS KW-BG`
 * "Don't `KR-GS TKO*PB AE T*`
-* plague `PHRAEUG`
+* plague `PHRA*EUG`
 * him `HEUPL`
 * so," `SO KW-BG KR-GS`
 * interposed `EUPBT/POES/-D`

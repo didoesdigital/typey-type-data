@@ -47,7 +47,7 @@
 * sheep, `SHAOEP KW-BG`
 * whose `WHOZ`
 * was `WAS`
-* wearing, `WAURG KW-BG`
+* wearing, `WAERG KW-BG`
 * began `TKPWAPB`
 * follow `TPOL`
 * Sheep's `KPA/SHAOEP AES`

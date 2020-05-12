@@ -1156,7 +1156,7 @@
 * there?" `THR H-F KR-GS`
 * fiery `TPAOEU/REU`
 * dragon `TKRAG/O*PB`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * place. `PHRAEUS TP-PL`
 * "Bellissima `KR-GS KPA/PWEL/HREUS/PHA/TPHR-RB`
 * dressed!" `TKREFD SKHRAPL KR-GS`

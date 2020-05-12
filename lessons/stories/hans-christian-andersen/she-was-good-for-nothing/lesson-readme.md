@@ -35,7 +35,7 @@
 * slightly, `SHRAOEULT KW-BG`
 * piece `PAOES`
 * of `-F`
-* newspaper `TPHUP`
+* newspaper `TPHAOUP`
 * over `OEFR`
 * place. `PHRAEUS TP-PL`
 * "Hark `KR-GS KPA/HARBG`
@@ -130,7 +130,7 @@
 * half `HAF`
 * quartern," `xxx quartern KW-BG KR-GS`
 * stammered `STAPL/ERD`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * voice. `SROEUS TP-PL`
 * "And `KR-GS AFPBD`
 * she `SHE`
@@ -748,7 +748,7 @@
 * beware `PWE/WAEUR`
 * entering `SPWR-G`
 * track, `TRABG KW-BG`
-* lest `HRES/*T`
+* lest `HR*ES`
 * our `OUR`
 * plans, `PHRAPBS KW-BG`
 * carriage `KAEURPBLG`

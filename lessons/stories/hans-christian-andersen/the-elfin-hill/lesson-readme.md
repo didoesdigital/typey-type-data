@@ -936,7 +936,7 @@
 * good-naturedly `TKPWAOD/TPHAEUT/AOURD/HREU`
 * torches. `TOR/-FPS TP-PL`
 * tricks `TREUBGS`
-* playing?" `PHRA*EUG H-F KR-GS`
+* playing?" `PHRAEUG H-F KR-GS`
 * taken `TAEPB`
 * mother `PHOER`
 * you, `U KW-BG`

@@ -393,7 +393,7 @@
 * time `TAOEUPL`
 * forward `TPAORD`
 * no `TPHO`
-* card-playing `KARD H-PB PHRA*EUG`
+* card-playing `KARD H-PB PHRAEUG`
 * permitted `PERPLT/-D`
 * there. `THR TP-PL`
 * "That's `KW-GS/KPA*/THATS`
@@ -407,7 +407,7 @@
 * opposition `OP/POGS`
 * it, `T KW-BG`
 * invented `EUPB/SREPBTD`
-* card-playing." `KARD H-PB PHRA*EUG TP-PL KR-GS`
+* card-playing." `KARD H-PB PHRAEUG TP-PL KR-GS`
 * new `TPHU`
 * proprietor `PRO/PRAOEU/TOR`
 * estate `ES/TAEUT`

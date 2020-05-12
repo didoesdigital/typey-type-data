@@ -94,7 +94,7 @@
 * her, `HER KW-BG`
 * after `AF`
 * giving `TKPWEUFG`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * scolding, `SKOLD/-G KW-BG`
 * said `SAEUD`
 * unkindly, `UPB/KAOEUPBD/HREU KW-BG`
@@ -419,7 +419,7 @@
 * them, `THEPL KW-BG`
 * engaged `EPB/TKPWAEUPBLGD`
 * without `WOUT`
-* delay `TKHREU`
+* delay `TKHRAEU`
 * woman. `WOPL TP-PL`
 * obedient `OE/PWAOEPBT`
 * exerted `ERBGS/ERT/-D`
@@ -755,7 +755,7 @@
 * snips `STPHEUPS`
 * crying: `KRAOEUG STPH-FPLT`
 * 'Ah, `AE KPA/HA*E KW-BG`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * been! `PW-PB SKHRAPL`
 * How `KPA/HOU`
 * dark `TKARBG`

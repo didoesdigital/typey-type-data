@@ -447,7 +447,7 @@
 * poets `POETS`
 * poetesses, `POET/*ES/-S KW-BG`
 * musicians, `PHAOUGS/-S KW-BG`
-* newspaper `TPHUP`
+* newspaper `TPHAOUP`
 * writers, `WREURS KW-BG`
 * artistic `TR*EUFBG`
 * notabilities,—I `xxx notabilities KW-BG EPL/TKA*RB EU`
@@ -493,7 +493,7 @@
 * tells `TELS`
 * me, `PHE KW-BG`
 * supplies `SPHRAOEUZ`
-* newspapers `TPHUPS`
+* newspapers `TPHAOUPS`
 * terms `TERPLS`
 * abuse `PWAOUS`
 * vituperation `xxx vituperation`
@@ -539,7 +539,7 @@
 * beat `PWAET`
 * tattoo `TA/TAO`
 * family `TPAEPL`
-* circle; `KOEURBG STPH*FPLT`
+* circle; `SOEURBG STPH*FPLT`
 * acquaintance `KWAEUPB/TAPBS`
 * write `WREU`
 * putting `PUGT`
@@ -1063,7 +1063,7 @@
 * happened `HAPD`
 * two `TWO`
 * children `KHEURPB`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * wilderness `WEULD/ERPBS`
 * sweepings. `SWAOEPG/-S TP-PL`
 * "going `KR-GS TKPW-G`
@@ -1234,7 +1234,7 @@
 * omnibus `OPL/TPHEU/PWUS`
 * conductor, `KUBG/TOR KW-BG`
 * passport `PAS/PORT`
-* writer, `WREUR KW-BG`
+* writer, `WRAOEUR KW-BG`
 * countersigns `KOUPB/TER/SAOEUPBS`
 * service-book, `S-FS H-PB PWAOBG KW-BG`
 * director `TKROR`

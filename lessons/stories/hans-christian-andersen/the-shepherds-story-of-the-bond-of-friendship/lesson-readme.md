@@ -264,7 +264,7 @@
 * "I `KR-GS EU`
 * sea; `SAE STPH*FPLT`
 * We `KPA/WE`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * several `SEFRL`
 * nights `TPHAOEUTS`
 * father `TPAER`

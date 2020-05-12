@@ -228,7 +228,7 @@
 * always `AULS`
 * him `HEUPL`
 * boat, `PWOET KW-BG`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * blossoming `PWHROFPL/-G`
 * heath, `HAO*ET KW-BG`
 * picking `P*EUG`
@@ -452,7 +452,7 @@
 * containing `KAUPB/TAEUPBG`
 * sucking-pig; `SUBG/-G H-PB PEUG STPH*FPLT`
 * must `PHUFT`
-* needs `THAOEDZ`
+* needs `TPHAOEDZ`
 * pull `PUL`
 * pig `PEUG`
 * hands, `HAPBDZ KW-BG`
@@ -522,7 +522,7 @@
 * sounded `SOUPBD/-D`
 * wood; `WAOD STPH*FPLT`
 * ugly `ULG`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * children; `KHEURPB STPH*FPLT`
 * before `PW-FR`
 * them, `THEPL KW-BG`
@@ -1172,7 +1172,7 @@
 * proved `PROFD`
 * true `TRAOU`
 * fortune-tellers. `TP-RPB H-PB TEL/ERS TP-PL`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * gilded `TKPWEULD/-D`
 * noble `TPHOEBL`
 * clothes; `KHRO*ETS STPH*FPLT`

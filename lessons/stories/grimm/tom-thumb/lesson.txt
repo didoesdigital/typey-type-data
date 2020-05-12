@@ -24,7 +24,7 @@ Tom Thumb
 'side': SAOEUD
 'spinning.': SPEUPBG TP-PL
 ''How': AE KPA/HOU
-'lonely': HROPBL
+'lonely': HROEPBL
 'it': T
 'is,': S-RBGS
 'wife,'': WAOEUF KW-BG AE
@@ -899,7 +899,7 @@ Tom Thumb
 'and': SKP
 'poked': POEBGD
 'the': -T
-'ends': EPDZ
+'ends': EPBDZ
 'of': -F
 'their': THAEUR
 'sticks': STEUBGS
@@ -1052,7 +1052,7 @@ Tom Thumb
 'said': SAEUD
 'the': -T
 'thief,': THAOEF KW-BG
-'frightened;': TPRAOEUPBD STPH*FPLT
+'frightened;': TPRAOEUFPBD STPH*FPLT
 ''I'm': AE EU AE PH*
 'sure': SHUR
 'I': EU
@@ -1198,7 +1198,7 @@ Tom Thumb
 'the': -T
 'thieves': THAOEFS
 'were': WR
-'frightened,': TPRAOEUPBD KW-BG
+'frightened,': TPRAOEUFPBD KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
 ''Softly,': AE KPA/SOFT/HREU KW-BG
@@ -1261,7 +1261,7 @@ Tom Thumb
 'the': -T
 'thieves': THAOEFS
 'were': WR
-'frightened,': TPRAOEUPBD KW-BG
+'frightened,': TPRAOEUFPBD KW-BG
 'and': SKP
 'ran': RAPB
 'off': OF
@@ -1738,7 +1738,7 @@ Tom Thumb
 'she': SHE
 'was': WAS
 'so': SO
-'frightened': TPRAOEUPBD
+'frightened': TPRAOEUFPBD
 'that': THA
 'she': SHE
 'fell': TPEL
@@ -1830,7 +1830,7 @@ Tom Thumb
 'parson': PAR/SOPB
 'himself': H*EUPLS
 'was': WAS
-'frightened;': TPRAOEUPBD STPH*FPLT
+'frightened;': TPRAOEUFPBD STPH*FPLT
 'and': SKP
 'thinking': THEUG
 'the': -T
@@ -2190,7 +2190,7 @@ Tom Thumb
 'they': THE
 'were': WR
 'sadly': SAD/HREU
-'frightened;': TPRAOEUPBD STPH*FPLT
+'frightened;': TPRAOEUFPBD STPH*FPLT
 'and': SKP
 'the': -T
 'woodman': HRO*ER/KPA/WAOD/TK-LS/PHAPB

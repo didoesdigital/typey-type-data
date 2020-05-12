@@ -368,7 +368,7 @@
 * miserable `PHEUZ/-BL`
 * away; `A/WAEU STPH*FPLT`
 * 'now `AE TPHOU`
-* plague `PHRAEUG`
+* plague `PHRA*EUG`
 * punish `P-RB`
 * thy `THAO*EU`
 * own `OEPB`

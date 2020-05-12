@@ -251,14 +251,14 @@
 * this `TH`
 * sight `SAOEUT`
 * sadly `SAD/HREU`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * shutting `SHUGT`
 * back `PWABG`
 * seat. `SAOET TP-PL`
 * king, `KEUPBG KW-BG`
 * father, `TPAER KW-BG`
 * seeing `SAOEG`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * asked `SK-D`
 * matter. `PHAERT TP-PL`
 * 'There `AE KPA/THR`

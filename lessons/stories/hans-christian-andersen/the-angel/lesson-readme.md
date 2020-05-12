@@ -428,7 +428,7 @@
 * near, `TPHAOER KW-BG`
 * others `OERS`
 * distant `STKAPBT`
-* circle, `KOEURBG KW-BG`
+* circle, `SOEURBG KW-BG`
 * equally `KWAEL`
 * happy. `HAEP TP-PL`
 * They `KPA/THE`

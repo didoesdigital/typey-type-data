@@ -209,6 +209,7 @@
 * doors `TKAORS`
 * nose `TPHOES`
 * fail `TPAEUL`
+* needs `TPHAOEDZ`
 * fly `TPHRAOEU`
 * notes `TPHOETS`
 * bought `PWAUT`

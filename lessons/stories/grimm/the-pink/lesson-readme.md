@@ -451,7 +451,7 @@
 * forest `TPOEFRT`
 * made `PHAED`
 * form `TPORPL`
-* circle, `KOEURBG KW-BG`
+* circle, `SOEURBG KW-BG`
 * open `OEP`
 * one `WUPB`
 * end `EPBD`
@@ -463,7 +463,7 @@
 * hundred `HUPBD`
 * running `R*UPBG`
 * inside `TPH-DZ`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * once, `WUPBS KW-BG`
 * shot `SHOT`
 * them. `THEPL TP-PL`

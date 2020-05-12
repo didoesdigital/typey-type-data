@@ -161,7 +161,7 @@ Single-Stroke Briefs
 'antigen': SKWRAOEPBT
 'antimicrobial': TPHRO*EBL
 'antimicrobials': TPHRO*EBLS
-'anxiety': KPRAOEUT
+'anxiety': KPAO*EUT
 'anxious': KPUS
 'any': TPHEU
 'anybody': TPHEUB
@@ -788,7 +788,7 @@ Single-Stroke Briefs
 'calculating': KHRAEUGT
 'calculation': KHRAEUGS
 'calculator': KHROERT
-'calf': KA*FL
+'calf': KAF
 'call': KAUL
 'callback': KHRA*BG
 'calyx': KAEULGS
@@ -886,7 +886,7 @@ Single-Stroke Briefs
 'caused': KAUFD
 'caution': KAUGS
 'cautious': KAURBS
-'cave': KAF
+'cave': KAEUF
 'cavern': KAFRPB
 'caverns': KAFRPBS
 'cavity': KA*FT
@@ -1666,7 +1666,7 @@ Single-Stroke Briefs
 'dale': TKAEL
 'dam': TKAPL
 'damage': TKAPBLG
-'damaged': TKAPBLD
+'damaged': TKAPBLGD
 'dame': TKAEUPL
 'dammed': TKAPLD
 'damming': TKAPLG
@@ -1757,7 +1757,7 @@ Single-Stroke Briefs
 'deft': TKEFT
 'degree': TKEG
 'deign': TKAEUPB
-'delay': TKHREU
+'delay': TKHRAEU
 'delete': TKHRAOET
 'deleted': TKHRAOETD
 'deletion': TKHRAOEGS
@@ -2801,7 +2801,7 @@ Single-Stroke Briefs
 'independence': P*EPBS
 'independent': PAEPBT
 'index': TKEUPBGS
-'indicate': KAEULT
+'indicate': KA*EUT
 'indicated': KA*EUTD
 'indicates': KA*EUTS
 'indicating': KAEUGT
@@ -3435,7 +3435,7 @@ Single-Stroke Briefs
 'perch': PEFRPB
 'perfection': P-FRGS
 'perform': PORPL
-'performance': PORPLS
+'performance': P-FRPBS
 'perhaps': PRAPS
 'peril': P*ERL
 'perimeter': PREUPLT
@@ -3543,7 +3543,7 @@ Single-Stroke Briefs
 'placed': PHRAEUFD
 'placement': PHRAEUPLT
 'placing': PHRAEUFG
-'plague': PHRAEUG
+'plague': PHRA*EUG
 'plaice': PHRA*EUS
 'plaid': PHRAD
 'plain': PHRAEUPB
@@ -4584,10 +4584,10 @@ Single-Stroke Briefs
 'secrecy': SKRAES
 'secret': SKRET
 'secretaries': SEBGTS
-'secretary': SEBGT
+'secretary': SEBGT/REU
 'secrete': SKRAOET
 'secretion': SKRAOEGS
-'sect': S*EBGT
+'sect': SEBGT
 'section': SEBGS
 'sector': S*ERBGT
 'secure': SKUR
@@ -5460,7 +5460,7 @@ Single-Stroke Briefs
 'strop': STROP
 'strove': STROEF
 'structural': STRAOUFPL
-'structure': STRAOUFP
+'structure': STRUFP
 'structured': STRAOUFPD
 'structuring': STRAOUFPG
 'struggle': STRULG
@@ -6327,7 +6327,7 @@ Single-Stroke Briefs
 'violate': SRAOEULT
 'violation': SRAOEULGS
 'violence': SROEUPBLS
-'violent': SROEUPBLT
+'violent': SRAOEUPBLT
 'violet': SROEULT
 'violin': SRO*EUPBL
 'viral': SRAOEURL
@@ -6647,7 +6647,7 @@ Single-Stroke Briefs
 'wrist': WREUFT
 'writ': WREUT
 'write': WREU
-'writer': WREUR
+'writer': WRAOEUR
 'writhe': WR*EUT
 'written': WREUPB
 'wrong': WROPBG

@@ -589,7 +589,7 @@
 * partly `PARLT`
 * open, `OEP KW-BG`
 * listened, `HREUFPBD KW-BG`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * piano, `PAPB/TPHOE KW-BG`
 * softly `SOFT/HREU`
 * more `PHOR`
@@ -658,7 +658,7 @@
 * lady. `HRA*ED TP-PL`
 * same `SAEUPL`
 * manners `PHAERPBS`
-* playing, `PHRA*EUG KW-BG`
+* playing, `PHRAEUG KW-BG`
 * bending `PWEPBGD`
 * face `TPAEUS`
 * side `SAOEUD`
@@ -818,7 +818,7 @@
 * led `HRED`
 * shone, `SHO*EPB KW-BG`
 * formed `TPORPLD`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * happy, `HAEP KW-BG`
 * keep `KAOEP`
 * bed; `PWED STPH*FPLT`

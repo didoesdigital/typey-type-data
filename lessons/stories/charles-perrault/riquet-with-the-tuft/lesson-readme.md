@@ -865,7 +865,7 @@
 * irregularity `EUR/REG/TEU`
 * passed `PAFD`
 * mark `PHARBG`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * love; `HRUF STPH*FPLT`
 * short, `SHORT KW-BG`
 * red `RED`

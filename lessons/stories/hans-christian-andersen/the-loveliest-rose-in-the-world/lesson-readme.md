@@ -211,7 +211,7 @@
 * life `HRAOEUF`
 * sleepless `SHRAOEP/-LS`
 * nights, `TPHAOEUTS KW-BG`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * chamber." `KHAEURPL TP-PL KR-GS`
 * "I `KR-GS EU`
 * know `TPHOE`

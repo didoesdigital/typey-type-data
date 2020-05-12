@@ -480,7 +480,7 @@
 * both `PWO*T`
 * mother, `PHOER KW-BG`
 * acquainted `A/KWAEUPBTD`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * forest; `TPOEFRT STPH*FPLT`
 * speaking `SPAOEG`
 * together. `TOGT TP-PL`
@@ -700,7 +700,7 @@
 * "What `KR-GS KPA/WHA`
 * so," `SO KW-BG KR-GS`
 * "must `KR-GS PHUFT`
-* calf `KA*FL`
+* calf `KAF`
 * just `SKWRUFT`
 * killed `KEULD`
 * flayed." `TPHRAEU/-D TP-PL KR-GS`
@@ -775,7 +775,7 @@
 * already," `HR-R KW-BG KR-GS`
 * "you `KR-GS U`
 * occasion. `KWAEUGS TP-PL`
-* calf, `KA*FL KW-BG`
+* calf, `KAF KW-BG`
 * sheep, `SHAOEP KW-BG`
 * hog." `HOG TP-PL KR-GS`
 * "That `KR-GS KPA/THA`
@@ -835,7 +835,7 @@
 * daughters `TKAURS`
 * heads, `HEDZ KW-BG`
 * afraid `A/TPRAEUD`
-* lest `HRES/*T`
+* lest `HR*ES`
 * killing `KEULG`
 * midnight; `PHAOEUPBT STPH*FPLT`
 * brothers' `PWROERS AE`
@@ -1063,7 +1063,7 @@
 * you." `U TP-PL KR-GS`
 * woman, `WOPL KW-BG`
 * sadly `SAD/HREU`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * had: `H STPH-FPLT`
 * tho' `THO* AE`
 * money, `PHUPB KW-BG`

@@ -723,7 +723,7 @@
 * slipper; `SHREUP/ER STPH*FPLT`
 * fitted `TPEUTD`
 * near `TPHAOER`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * pale `PAEL`
 * anger `ARPBG`
 * 'Home! `AE KPA/HOEPL SKHRAPL`

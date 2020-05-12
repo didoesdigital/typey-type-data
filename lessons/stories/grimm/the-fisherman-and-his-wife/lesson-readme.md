@@ -557,7 +557,7 @@
 * At `KPA/AT`
 * sight `SAOEUT`
 * dreadfully `TKRED/-FL/KWREU`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * trembled `TREPL/-BLD`
 * knees `TPHAOEZ`
 * knocked `TPHOBGD`
@@ -615,7 +615,7 @@
 * wakened `WAEUBG/EPBD`
 * lord `HRORD`
 * moon.' `PHAOPB TP-PL AE`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * started `STARTD`
 * fell `TPEL`
 * 'cannot `AE K/TPHOT`

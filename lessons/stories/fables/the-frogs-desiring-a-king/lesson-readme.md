@@ -75,7 +75,7 @@
 * which `WEU`
 * came `KAEUPL`
 * swamp. `SWAFRP TP-PL`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * out `OUT`
 * lives `HREUFS`
 * by `PWEU`

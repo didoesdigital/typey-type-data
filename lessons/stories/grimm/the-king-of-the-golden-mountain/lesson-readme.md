@@ -222,7 +222,7 @@
 * by `PWEU`
 * joke `SKWROEBG`
 * dwarf `TKWAFR`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * that, `THA KW-BG`
 * rate, `RAEUT KW-BG`
 * money `PHUPB`
@@ -303,14 +303,14 @@
 * together `TOGT`
 * place `PHRAEUS`
 * upon: `POPB STPH-FPLT`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * ground, `TKPWROUPBD KW-BG`
 * set `SET`
 * middle `PH*EULD`
 * it. `T TP-PL`
 * soon `SAOPB`
 * walked `WAUBGD`
-* circle, `KOEURBG KW-BG`
+* circle, `SOEURBG KW-BG`
 * could `KO`
 * way `WAEU`
 * get `TKPWET`

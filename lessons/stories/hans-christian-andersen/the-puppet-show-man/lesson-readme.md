@@ -141,7 +141,7 @@
 * eight `AET`
 * o'clock `KHRO*BG`
 * my `PHEU`
-* performance `PORPLS`
+* performance `P-FRPBS`
 * closed, `KHROEFD KW-BG`
 * children `KHEURPB`
 * go `TKPW`
@@ -463,7 +463,7 @@
 * back, `PWABG KW-BG`
 * spinning `SPEUPBG`
 * round `ROUPBD`
-* circle, `KOEURBG KW-BG`
+* circle, `SOEURBG KW-BG`
 * presently `PREPBLT`
 * found `TPOUPBD`
 * myself `PHAO*EUS`

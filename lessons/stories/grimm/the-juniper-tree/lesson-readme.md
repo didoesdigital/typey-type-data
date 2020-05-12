@@ -383,7 +383,7 @@
 * asked `SK-D`
 * apple, `A*EPL KW-BG`
 * answer, `AEPBS KW-BG`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * me.' `PHE TP-PL AE`
 * 'Go `AE KPA/TKPW`
 * again,' `TKPWEPB KW-BG AE`
@@ -758,7 +758,7 @@
 * roaring `RAORG`
 * sound `SOUPBD`
 * ears `AOERS`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * storm, `STORPL KW-BG`
 * flashing `TPHRARBG`
 * lightning: `HRAOEUT/TPHEUPBG STPH-FPLT`

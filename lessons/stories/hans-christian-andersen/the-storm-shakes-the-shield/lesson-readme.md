@@ -430,7 +430,7 @@
 * gale `TKPWAEL`
 * ever `-FR`
 * recorded `RORD/-D`
-* newspapers—a `TPHUPS EPL/TKA*RB AEU`
+* newspapers—a `TPHAOUPS EPL/TKA*RB AEU`
 * such `SUFP`
 * none `TPHOPB`
 * before `PW-FR`
@@ -485,7 +485,7 @@
 * engine. `TPH-PBLG TP-PL`
 * leave `HREF`
 * sentry-house `SEPBT/REU H-PB HOUS`
-* needs `THAOEDZ`
+* needs `TPHAOEDZ`
 * tear `TAER`
 * fastenings, `TPAS/EPBG/-S KW-BG`
 * roll `ROL`
@@ -539,7 +539,7 @@
 * house `HOUS`
 * man `PHAPB`
 * wrote `WRO`
-* newspaper. `TPHUP TP-PL`
+* newspaper. `TPHAOUP TP-PL`
 * That `KPA/THA`
 * poor `PAOR`
 * joke `SKWROEBG`
@@ -555,7 +555,7 @@
 * taken `TAEPB`
 * him; `HEUPL STPH*FPLT`
 * king `KEUPBG`
-* newspaper, `TPHUP KW-BG`
+* newspaper, `TPHAOUP KW-BG`
 * likewise `HRAOEUBG/WAOEUS`
 * opinion. `P-PB TP-PL`
 * house, `HOUS KW-BG`

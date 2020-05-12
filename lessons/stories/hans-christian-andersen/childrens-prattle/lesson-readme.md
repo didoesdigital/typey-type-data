@@ -216,7 +216,7 @@
 * "my `KR-GS PHEU`
 * everybody's `EFRB AES`
 * into `TPHAO`
-* newspaper. `TPHUP TP-PL`
+* newspaper. `TPHAOUP TP-PL`
 * sorts `SORTS`
 * are `R`
 * afraid `A/TPRAEUD`
@@ -285,7 +285,7 @@
 * home `HOEPL`
 * penny `PEPB/TPHEU`
 * spare `SPAEUR`
-* newspaper, `TPHUP KW-BG`
+* newspaper, `TPHAOUP KW-BG`
 * much `PHUFP`
 * they `THE`
 * write `WREU`
@@ -332,7 +332,7 @@
 * permitted `PERPLT/-D`
 * view `SRAOU`
 * treasures `TR-RBS`
-* contained. `TAEUPBD TP-PL`
+* contained. `KAUPB/TAEUPBD TP-PL`
 * Which `KPA/WEU`
 * prattle `PRAT/*L`
 * we `WE`

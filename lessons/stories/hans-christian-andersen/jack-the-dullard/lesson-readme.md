@@ -157,7 +157,7 @@
 * each `AOEFP`
 * handsome `HAPBD/SOPL`
 * horse. `HORS TP-PL`
-* newspaper `TPHUP`
+* newspaper `TPHAOUP`
 * black `PWHRABG`
 * horse, `HORS KW-BG`
 * about `PW`
@@ -520,7 +520,7 @@
 * word `WORD`
 * uttered, `UT/ERD KW-BG`
 * printed `PREUPBTD`
-* newspapers, `TPHUPS KW-BG`
+* newspapers, `TPHAOUPS KW-BG`
 * sold `SOELD`
 * penny `PEPB/TPHEU`
 * corners. `KRORPB/-S TP-PL`

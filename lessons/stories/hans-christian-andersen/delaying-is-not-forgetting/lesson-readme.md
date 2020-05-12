@@ -469,7 +469,7 @@
 * week `WAOEBG`
 * morning `PHORPBG`
 * death `TK*T`
-* newspaper, `TPHUP KW-BG`
+* newspaper, `TPHAOUP KW-BG`
 * reason `R-PB`
 * girl's `TKPWEURL/AES`
 * mourning! `PHOURPBG SKHRAPL`

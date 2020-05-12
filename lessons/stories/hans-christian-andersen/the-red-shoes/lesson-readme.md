@@ -473,7 +473,7 @@
 * face. `TPAEUS TP-PL`
 * beard; `PWAERD STPH*FPLT`
 * nodding `TPHOD/-G`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * throw `THROE`
 * away; `A/WAEU STPH*FPLT`
 * stuck `STUBG`
@@ -569,7 +569,7 @@
 * torn `TORPB`
 * bleeding; `PWHRAOEGD STPH*FPLT`
 * heath `HAO*ET`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * house. `HOUS TP-PL`
 * Here, `KPA/HAOER KW-BG`
 * knew, `TPHAOU KW-BG`

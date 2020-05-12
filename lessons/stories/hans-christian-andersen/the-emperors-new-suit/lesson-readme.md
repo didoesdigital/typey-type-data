@@ -142,7 +142,7 @@
 * woven `WOEFPB`
 * me `PHE`
 * without `WOUT`
-* delay." `TKHREU TP-PL KR-GS`
+* delay." `TKHRAEU TP-PL KR-GS`
 * And `AFPBD`
 * gave `TKPWAEUF`
 * large `HRARPBLG`

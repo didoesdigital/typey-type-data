@@ -960,7 +960,7 @@
 * written `WREUPB`
 * papers `PAEUPS`
 * violin `SRO*EUPBL`
-* playing. `PHRA*EUG TP-PL`
+* playing. `PHRAEUG TP-PL`
 * sends `SEPBDZ`
 * money `PHUPB`
 * that's `THATS`
@@ -991,7 +991,7 @@
 * known `TPHOEPB`
 * wooden `WAOD/EPB`
 * shoes, `SHAOUS KW-BG`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * dancers—was `TKAPBS/ERS EPL/TKA*RB WAS`
 * famous! `TPAEUPLS SKHRAPL`
 * house `HOUS`

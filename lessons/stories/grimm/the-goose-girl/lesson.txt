@@ -351,7 +351,7 @@ The Goose-Girl
 'for': TPOR
 'she': SHE
 'was': WAS
-'frightened,': TPRAOEUPBD KW-BG
+'frightened,': TPRAOEUFPBD KW-BG
 'and': SKP
 'dared': TKAEURD
 'not': TPHOT
@@ -573,7 +573,7 @@ The Goose-Girl
 'she': SHE
 'was': WAS
 'so': SO
-'frightened': TPRAOEUPBD
+'frightened': TPRAOEUFPBD
 'that': THA
 'she': SHE
 'did': TK
@@ -1010,7 +1010,7 @@ The Goose-Girl
 'very': SRE
 'much': PHUFP
 'afraid': A/TPRAEUD
-'lest': HRES/*T
+'lest': HR*ES
 'Falada': xxx Falada
 'should': SHO
 'some': SOPL

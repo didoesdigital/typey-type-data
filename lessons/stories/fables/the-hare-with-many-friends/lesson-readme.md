@@ -130,7 +130,7 @@
 * applied, `A/PHRAOEUD KW-BG`
 * last `HRAFT`
 * hope, `HOEP KW-BG`
-* calf, `KA*FL KW-BG`
+* calf, `KAF KW-BG`
 * regretted `RE/TKPWRET/-D`
 * unable `TPHA*EUBL`
 * help `HEP`

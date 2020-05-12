@@ -415,7 +415,7 @@
 * In `KPA/TPH`
 * evening, `AOEPBG KW-BG`
 * gnats `TPHA*T/-S`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * air `AEUR`
 * red `RED`
 * clouds, `KHROUDZ KW-BG`

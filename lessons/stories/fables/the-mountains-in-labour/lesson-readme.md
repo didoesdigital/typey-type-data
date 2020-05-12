@@ -59,7 +59,7 @@
 * a `AEU`
 * still `STEUL`
 * more `PHOR`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * earthquake, `*ERT/KWAEUBG KW-BG`
 * gap `TKPWAP`
 * appeared `A/PAOERD`

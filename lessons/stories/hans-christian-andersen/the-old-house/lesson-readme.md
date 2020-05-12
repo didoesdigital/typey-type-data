@@ -261,7 +261,7 @@
 * "The `KR-GS KPA/-T`
 * opposite `OP/SEUT`
 * terribly `TERBL/HREU`
-* lonely." `HROPBL TP-PL KR-GS`
+* lonely." `HROEPBL TP-PL KR-GS`
 * next `TPHEGT`
 * Sunday `SUPBD`
 * wrapped `WRAPD`
@@ -590,7 +590,7 @@
 * soldier, `SHRERPBLG KW-BG`
 * shelf, `SHEFL KW-BG`
 * "it `KR-GS T`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * dull `TKUL`
 * here. `HAOER TP-PL`
 * accustomed `A/KUFPD`
@@ -994,7 +994,7 @@
 * boy." `PWOEU TP-PL KR-GS`
 * told `TOLD`
 * across, `A/KROS KW-BG`
-* lonely; `HROPBL STPH*FPLT`
+* lonely; `HROEPBL STPH*FPLT`
 * related `RAELTD`
 * clearly `KAOERL`
 * man. `PHAPB TP-PL`
@@ -1013,7 +1013,7 @@
 * been," `PW-PB KW-BG KR-GS`
 * she. `SHE TP-PL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
-* lonely," `HROPBL KW-BG KR-GS`
+* lonely," `HROEPBL KW-BG KR-GS`
 * "still `KR-GS STEUL`
 * forgotten." `TPORGTD TP-PL KR-GS`
 * "Delightful `KR-GS KPA/TKHRAOEUT/-FL`

@@ -656,7 +656,7 @@
 * Can `KPA/K`
 * swim?' `SWEUPL H-F AE`
 * Poor `KPA/PAOR`
-* frightened. `TPRAOEUPBD TP-PL`
+* frightened. `TPRAOEUFPBD TP-PL`
 * 'Good `AE KPA/TKPWAOD`
 * man,' `PHAPB KW-BG AE`
 * 'pray `AE PRAEU`
@@ -854,7 +854,7 @@
 * Heaven, `KPA/HEFPB KW-BG`
 * tears `TAERS`
 * eyes, `AO*EUS KW-BG`
-* plague, `PHRAEUG KW-BG`
+* plague, `PHRA*EUG KW-BG`
 * ugly `ULG`
 * stone. `STOEPB TP-PL`
 * I!' `EU SKHRAPL AE`

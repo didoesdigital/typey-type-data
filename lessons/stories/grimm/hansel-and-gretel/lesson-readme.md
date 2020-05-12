@@ -51,7 +51,7 @@
 * bed, `PWED KW-BG`
 * tossed `TOS/-D`
 * about `PW`
-* anxiety, `KPRAOEUT KW-BG`
+* anxiety, `KPAO*EUT KW-BG`
 * groaned `TKPWROEPBD`
 * said `SAEUD`
 * wife: `WAOEUF STPH-FPLT`
@@ -628,7 +628,7 @@
 * crutches, `KRUFPS KW-BG`
 * creeping `KRAOEPG`
 * terribly `TERBL/HREU`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * let `HRET`
 * fall `TPAUL`
 * hands. `HAPBDZ TP-PL`
@@ -926,7 +926,7 @@
 * another `TPHOER`
 * add `AD`
 * them. `THEPL TP-PL`
-* anxiety `KPRAOEUT`
+* anxiety `KPAO*EUT`
 * an `APB`
 * end, `EPBD KW-BG`
 * lived `HREUFD`

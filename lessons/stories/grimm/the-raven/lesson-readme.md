@@ -461,7 +461,7 @@
 * rose `ROEZ`
 * up `UP`
 * without `WOUT`
-* delay, `TKHREU KW-BG`
+* delay, `TKHRAEU KW-BG`
 * eager `AOERG`
 * start `START`
 * reach `RAOEFP`

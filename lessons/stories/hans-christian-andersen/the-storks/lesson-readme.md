@@ -213,14 +213,14 @@
 * leg." `HREG TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * much `PHUFP`
-* frightened," `TPRAOEUPBD KW-BG KR-GS`
+* frightened," `TPRAOEUFPBD KW-BG KR-GS`
 * back `PWABG`
 * heads `HEDZ`
 * into `TPHAO`
 * nests. `TPHEFT/-S TP-PL`
 * next `TPHEGT`
 * day `TKAEU`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * together, `TOGT KW-BG`
 * saw `SAU`
 * again— `TKPWEPB EPL/TKA*RB`

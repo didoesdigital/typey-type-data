@@ -804,7 +804,7 @@
 * got `TKPWOT`
 * here?" `HAOER H-F KR-GS`
 * "Do `KR-GS KPA/TKO`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * mouse." `PHOUS TP-PL KR-GS`
 * hand `HAPBD`
 * lovely `HROFL`
@@ -1200,7 +1200,7 @@
 * gate, `TKPWAET KW-BG`
 * garden." `TKPWA*RPB TP-PL KR-GS`
 * settled `SELTD`
-* SATURDAY `*URP/SAET`
+* SATURDAY `*URP/SATD`
 * "Am `KR-GS KPA/APL`
 * stories?" `STOERS H-F KR-GS`
 * sent `SEPBT`

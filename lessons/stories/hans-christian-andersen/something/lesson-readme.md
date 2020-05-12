@@ -152,7 +152,7 @@
 * carpenter's `KARP/TER AES`
 * apprentice—a `PREPBT/EUS EPL/TKA*RB AEU`
 * lad `HRAD`
-* wearing `WAURG`
+* wearing `WAERG`
 * paper `PAEUP`
 * cap, `KAP KW-BG`
 * although `HR*T`

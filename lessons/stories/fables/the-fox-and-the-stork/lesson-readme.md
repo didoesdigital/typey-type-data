@@ -90,7 +90,7 @@
 * that `THA`
 * their `THAEUR`
 * dinner `TKEURPB`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * long-necked `HROPBG H-PB TPHEBG/-D`
 * jar `SKWRAR`
 * narrow `TPHO*EUR`

@@ -206,7 +206,7 @@
 * once `WUPBS`
 * flew `TPHRAOU`
 * bear's `PWAER AES`
-* cave, `KAF KW-BG`
+* cave, `KAEUF KW-BG`
 * called `KAULD`
 * in: `TPH STPH-FPLT`
 * 'Old `AE KPA/OLD`
@@ -237,7 +237,7 @@
 * other `OER`
 * animal `PHAPBL`
 * earth `*ERT`
-* contained. `TAEUPBD TP-PL`
+* contained. `KAUPB/TAEUPBD TP-PL`
 * And `AFPBD`
 * willow-wren `WEUL/HROE H-PB WREPB`
 * everything `EFRG`

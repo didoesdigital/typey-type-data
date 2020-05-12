@@ -402,7 +402,7 @@ The Saucy Boy
 'dry': TKRAOEU
 'and': SKP
 'isn't': S-PBT
-'damaged': TKAPBLD
+'damaged': TKAPBLGD
 'at': AT
 'all.': AUL TP-PL
 'The': KPA/-T
@@ -530,7 +530,7 @@ The Saucy Boy
 'play': PHRAEU
 'with': W
 'him,': HEUPL KW-BG
-'lest': HRES/*T
+'lest': HR*ES
 'he': HE
 'hurt': HURT
 'them."': THEPL TP-PL KR-GS
@@ -584,7 +584,7 @@ The Saucy Boy
 'his': HEUS
 'arm,': ARPL KW-BG
 'and': SKP
-'wearing': WAURG
+'wearing': WAERG
 'a': AEU
 'black': PWHRABG
 'coat.': KOET TP-PL

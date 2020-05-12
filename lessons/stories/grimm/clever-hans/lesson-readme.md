@@ -169,14 +169,14 @@
 * but `PWUT`
 * would `WO`
 * given.' `TKPWEUFPB TP-PL AE`
-* calf. `KA*FL TP-PL`
-* calf, `KA*FL KW-BG`
+* calf. `KAF TP-PL`
+* calf, `KAF KW-BG`
 * head, `HED KW-BG`
-* calf `KA*FL`
+* calf `KAF`
 * kicks `KEUBGS`
 * face. `TPAEUS TP-PL`
 * 'A `AE KPA/AEU`
-* calf.' `KA*FL TP-PL AE`
+* calf.' `KAF TP-PL AE`
 * set `SET`
 * head `HED`
 * kicked `KEUBGD`

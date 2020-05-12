@@ -61,7 +61,7 @@
 * make `PHAEUBG`
 * us `US`
 * wooden `WAOD/EPB`
-* calf, `KA*FL KW-BG`
+* calf, `KAF KW-BG`
 * paint `PAEUPBT`
 * it `T`
 * brown, `PWROUPB KW-BG`
@@ -108,7 +108,7 @@
 * cow-herd `KO*U H-PB HE*RD`
 * said: `SAEUD STPH-FPLT`
 * 'Look, `AE KPA/HRAOBG KW-BG`
-* calf `KA*FL`
+* calf `KAF`
 * there, `THR KW-BG`
 * small `SPHAL`
 * has `HAS`
@@ -144,7 +144,7 @@
 * herd `HE*RD`
 * home `HOEPL`
 * again, `TKPWEPB KW-BG`
-* calf: `KA*FL STPH-FPLT`
+* calf: `KAF STPH-FPLT`
 * 'If `AE KPA/TP`
 * you `U`
 * can `K`
@@ -457,7 +457,7 @@
 * cakes. `KAEUBG/-S TP-PL`
 * two `TWO`
 * table `TAEUBL`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * death, `TK*T KW-BG`
 * bed `PWED`
 * all `AUL`

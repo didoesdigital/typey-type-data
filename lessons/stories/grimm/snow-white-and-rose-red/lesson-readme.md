@@ -9,7 +9,7 @@
 * who `WHO`
 * lived `HREUFD`
 * in `TPH`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * cottage. `KOT/APBLG TP-PL`
 * In `KPA/TPH`
 * front `TPROPBT`
@@ -812,7 +812,7 @@
 * trotting `TROT/-G`
 * fright, `TPRAOEUT KW-BG`
 * reach `RAOEFP`
-* cave, `KAF KW-BG`
+* cave, `KAEUF KW-BG`
 * close. `KHROES TP-PL`
 * dread `TKRED`
 * heart `HART`
@@ -882,7 +882,7 @@
 * great `TKPWRAET`
 * treasure `TRERB`
 * together `TOGT`
-* cave. `KAF TP-PL`
+* cave. `KAEUF TP-PL`
 * peacefully `PAES/TPHREU`
 * happily `HAP/HREU`
 * years. `KWRAOERS TP-PL`

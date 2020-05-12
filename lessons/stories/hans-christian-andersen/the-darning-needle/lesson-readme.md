@@ -228,7 +228,7 @@
 * straws, `STRAU/-S KW-BG`
 * pieces `PAOEFS`
 * old `OLD`
-* newspaper. `TPHUP TP-PL`
+* newspaper. `TPHAOUP TP-PL`
 * "See `KR-GS KPA/SAOE`
 * how `HOU`
 * sail," `SAEUL KW-BG KR-GS`
@@ -265,7 +265,7 @@
 * stone. `STOEPB TP-PL`
 * swims `SWEUPLS`
 * piece `PAOES`
-* newspaper; `TPHUP STPH*FPLT`
+* newspaper; `TPHAOUP STPH*FPLT`
 * written `WREUPB`
 * been `PW-PB`
 * forgotten `TPORGTD`
@@ -384,7 +384,7 @@
 * next `TPHEGT`
 * wore `WOR`
 * golden `TKPWOELD/*EPB`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * waist. `WAEUFT TP-PL`
 * little `HREUL`
 * Playman `xxx Playman`

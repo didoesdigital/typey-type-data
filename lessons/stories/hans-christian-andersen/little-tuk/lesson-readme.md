@@ -239,7 +239,7 @@
 * many `PHAEPB`
 * inhabitants `EUPB/HABT/APBTS`
 * town `TOUPB`
-* contained, `TAEUPBD KW-BG`
+* contained, `KAUPB/TAEUPBD KW-BG`
 * battle `PWA*LT`
 * been `PW-PB`
 * fought `TPAUT`
@@ -341,7 +341,7 @@
 * books, `PWAOBGS KW-BG`
 * carried `KAERD`
 * arms, `ARPLS KW-BG`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * thousand `THOEUPB`
 * inhabitants; `EUPB/HABT/APBTS STPH*FPLT`
 * mere `PHAOER`
@@ -562,7 +562,7 @@
 * marching,—always `PHAFRPB/-G KW-BG EPL/TKA*RB AULS`
 * tone, `TOEPB KW-BG`
 * monotonous `PHOPB/OT/TPHUS`
-* wearing, `WAURG KW-BG`
+* wearing, `WAERG KW-BG`
 * length `HREPBG`
 * fast `TPAFT`
 * asleep, `A/SHRAOEP KW-BG`

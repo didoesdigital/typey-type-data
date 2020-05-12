@@ -328,7 +328,7 @@
 * he, `HE KW-BG`
 * "cannot `KR-GS K/TPHOT`
 * believe `PWHREF`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * books; `PWAOBGS STPH*FPLT`
 * sometimes `STAOEUPLS`
 * only `OEPBL`

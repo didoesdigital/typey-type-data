@@ -253,7 +253,7 @@
 * callow `KAL/HROE`
 * young `KWRUPBG`
 * stand `STAPBD`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * margin `PHARPB`
 * though `THOE`
 * breasts `PWREFTS`

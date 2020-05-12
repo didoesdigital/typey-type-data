@@ -87,7 +87,7 @@
 * away `A/WAEU`
 * without `WOUT`
 * any `TPHEU`
-* anxiety.' `KPRAOEUT TP-PL AE`
+* anxiety.' `KPAO*EUT TP-PL AE`
 * Then `KPA/THEPB`
 * one `WUPB`
 * bleated, `PWHRAET/-D KW-BG`

@@ -146,7 +146,7 @@
 * keep `KAOEP`
 * good `TKPWAOD`
 * companions, `KPAPB/KWROPBS KW-BG`
-* lest `HRES/*T`
+* lest `HR*ES`
 * new `TPHU`
 * mischance `PHEUZ/KHAPBS`
 * overtake `AUFR/TAEUBG`

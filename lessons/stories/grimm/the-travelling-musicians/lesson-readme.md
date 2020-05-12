@@ -445,7 +445,7 @@
 * hideous `HEUD/KWROUS`
 * clatter! `KHRAT/ER SKHRAPL`
 * robbers, `RORBS KW-BG`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * opening `OEPG`
 * concert, `KERT KW-BG`
 * doubt `TKOUT`

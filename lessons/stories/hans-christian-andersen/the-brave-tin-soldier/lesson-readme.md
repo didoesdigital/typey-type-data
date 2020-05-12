@@ -395,7 +395,7 @@
 * sail `SAEUL`
 * in." `TPH TP-PL KR-GS`
 * So `KPA/SO`
-* newspaper, `TPHUP KW-BG`
+* newspaper, `TPHAOUP KW-BG`
 * sent `SEPBT`
 * sailing `SAEULG`
 * gutter, `TKPWOURT KW-BG`

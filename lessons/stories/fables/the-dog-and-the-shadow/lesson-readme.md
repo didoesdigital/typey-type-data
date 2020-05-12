@@ -67,7 +67,7 @@
 * seen `SAOEPB`
 * more. `PHOR TP-PL`
 * Beware `KPA/PWE/WAEUR`
-* lest `HRES/*T`
+* lest `HR*ES`
 * you `U`
 * lose `HRUZ`
 * substance `SAUBS`

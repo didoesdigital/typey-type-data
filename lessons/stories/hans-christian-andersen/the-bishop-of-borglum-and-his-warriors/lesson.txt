@@ -30,7 +30,7 @@ The Bishop of Borglum and His Warriors
 'breaks': PWRAEBGS
 'against': TKPWEPBS
 'the': -T
-'western': WERPB
+'western': WES/TERPB
 'coast': KOEFT
 'of': -F
 'Jutland.': xxx Jutland TP-PL
@@ -262,7 +262,7 @@ The Bishop of Borglum and His Warriors
 'when': WHEPB
 'they': THE
 'are': R
-'frightened': TPRAOEUPBD
+'frightened': TPRAOEUFPBD
 'or': OR
 'want': WAPBT
 'to': TO
@@ -718,7 +718,7 @@ The Bishop of Borglum and His Warriors
 'her': HER
 'as': AZ
 'a': AEU
-'plague': PHRAEUG
+'plague': PHRA*EUG
 'and': SKP
 'a': AEU
 'pestilence!"': PEFT/HREPBS SKHRAPL KR-GS
@@ -2007,7 +2007,7 @@ The Bishop of Borglum and His Warriors
 'night': TPHAOEUT
 'by': PWEU
 'the': -T
-'frightened': TPRAOEUPBD
+'frightened': TPRAOEUFPBD
 'husbandman,': xxx husbandman KW-BG
 'driving': TKRAOEUFG
 'by': PWEU

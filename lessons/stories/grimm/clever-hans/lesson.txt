@@ -619,7 +619,7 @@ Clever Hans
 'Hans': HAPBS
 'with': W
 'a': AEU
-'calf.': KA*FL TP-PL
+'calf.': KAF TP-PL
 ''Goodbye,': AE KPA/TKPW-B KW-BG
 'Gretel.'': TKPWRET/EL TP-PL AE
 ''Goodbye,': AE KPA/TKPW-B KW-BG
@@ -627,7 +627,7 @@ Clever Hans
 'Hans': HAPBS
 'takes': TAEUBGS
 'the': -T
-'calf,': KA*FL KW-BG
+'calf,': KAF KW-BG
 'puts': PUTS
 'it': T
 'on': OPB
@@ -635,7 +635,7 @@ Clever Hans
 'head,': HED KW-BG
 'and': SKP
 'the': -T
-'calf': KA*FL
+'calf': KAF
 'kicks': KEUBGS
 'his': HEUS
 'face.': TPAEUS TP-PL
@@ -670,12 +670,12 @@ Clever Hans
 'give': TKPWEUF
 'you?'': U H-F AE
 ''A': AE KPA/AEU
-'calf.'': KA*FL TP-PL AE
+'calf.'': KAF TP-PL AE
 ''Where': AE KPA/W-R
 'have': SR
 'you': U
 'the': -T
-'calf,': KA*FL KW-BG
+'calf,': KAF KW-BG
 'Hans?'': HAPBS H-F AE
 ''I': AE EU
 'set': SET
@@ -698,7 +698,7 @@ Clever Hans
 'have': SR
 'led': HRED
 'the': -T
-'calf,': KA*FL KW-BG
+'calf,': KAF KW-BG
 'and': SKP
 'put': PUT
 'it': T

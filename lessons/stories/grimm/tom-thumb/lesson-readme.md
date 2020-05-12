@@ -19,7 +19,7 @@
 * side `SAOEUD`
 * spinning. `SPEUPBG TP-PL`
 * 'How `AE KPA/HOU`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * it `T`
 * is, `S-RBGS`
 * wife,' `WAOEUF KW-BG AE`
@@ -410,7 +410,7 @@
 * once `WUPBS`
 * place, `PHRAEUS KW-BG`
 * poked `POEBGD`
-* ends `EPDZ`
+* ends `EPBDZ`
 * sticks `STEUBGS`
 * mouse-hole, `PHOUS H-PB HOEL KW-BG`
 * vain; `SRA*EUPB STPH*FPLT`
@@ -468,7 +468,7 @@
 * noise `TPHOEUS`
 * that?' `THA H-F AE`
 * thief, `THAOEF KW-BG`
-* frightened; `TPRAOEUPBD STPH*FPLT`
+* frightened; `TPRAOEUFPBD STPH*FPLT`
 * sure `SHUR`
 * speak.' `SPAOEBG TP-PL AE`
 * stood `STAOD`
@@ -515,7 +515,7 @@
 * bawl, `PWA*UL KW-BG`
 * 'Will `AE W*EUL`
 * here?' `HAOER H-F AE`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * 'Softly, `AE KPA/SOFT/HREU KW-BG`
 * softly! `SOFT/HREU SKHRAPL`
 * Speak `KPA/SPAOEBG`
@@ -671,7 +671,7 @@
 * speak, `SPAOEBG KW-BG`
 * being `-BG`
 * voice `SROEUS`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * fell `TPEL`
 * stool, `STOL KW-BG`
 * overset `AUFR/SET`

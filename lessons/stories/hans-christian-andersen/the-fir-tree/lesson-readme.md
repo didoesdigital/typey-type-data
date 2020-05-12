@@ -630,7 +630,7 @@
 * tremble `TREPL/-BL`
 * all, `AUL KW-BG`
 * fire `TPAOEUR`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * him; `HEUPL STPH*FPLT`
 * he `HE`
 * anxious `KPUS`
@@ -832,14 +832,14 @@
 * everybody `EFRB`
 * Still `KPA/STEUL`
 * dark, `TKARBG KW-BG`
-* lonely, `HROPBL KW-BG`
+* lonely, `HROEPBL KW-BG`
 * at. `AT TP-PL`
 * pleasant `PHREFPBT`
 * me `PHE`
 * although `HR*T`
 * then. `THEPB TP-PL`
 * terrible `TERBL`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * here." `HAOER TP-PL KR-GS`
 * "Squeak, `KR-GS KPA/SKWAOEBG KW-BG`
 * squeak," `SKWAOEBG KW-BG KR-GS`
@@ -1026,7 +1026,7 @@
 * glittered `TKPWHREUT/ERD`
 * sunshine. `SUPB/SHAO*EUPB TP-PL`
 * same `SAEUPL`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * happy. `HAEP TP-PL`
 * youngest `KWRUPBG/EFT`
 * saw `SAU`

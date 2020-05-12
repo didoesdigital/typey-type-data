@@ -369,7 +369,7 @@ The Pen and the Inkstand
 'comes—the': KOPLS EPL/TKA*RB -T
 'man': PHAPB
 'who': WHO
-'performs': P-FRPLS
+'performs': PORPLS
 'the': -T
 'mechanical': PHEBG/K-L
 'part—and': PART EPL/TKA*RB SKP
@@ -423,7 +423,7 @@ The Pen and the Inkstand
 'with': W
 'the': -T
 'admirable': AD/PHEURBL
-'performance': PORPLS
+'performance': P-FRPBS
 'of': -F
 'a': AEU
 'famous': TPAEUPLS
@@ -518,7 +518,7 @@ The Pen and the Inkstand
 'was': WAS
 'a': AEU
 'wonderful': WUFL
-'performance': PORPLS
+'performance': P-FRPBS
 'and': SKP
 'a': AEU
 'difficult': TKEUFL
@@ -621,7 +621,7 @@ The Pen and the Inkstand
 'boast': PWOEFT
 'of': -F
 'their': THAEUR
-'performance,': PORPLS KW-BG
+'performance,': P-FRPBS KW-BG
 'and': SKP
 'yet': KWRET
 'we': WE

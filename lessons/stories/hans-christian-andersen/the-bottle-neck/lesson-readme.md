@@ -83,7 +83,7 @@
 * over `OEFR`
 * cage, `KAEUPBLG KW-BG`
 * linnet `HREUPB/TPHET`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * hopped `HOPD`
 * from `TPR`
 * perch `PEFRPB`
@@ -524,7 +524,7 @@
 * time! `TAOEUPL SKHRAPL`
 * never `TPHEFR`
 * forget `TPERGT`
-* performance `PORPLS`
+* performance `P-FRPBS`
 * moment; `PHOEPLT STPH*FPLT`
 * indeed `TPHAOEPBD`
 * quite `KWAOEUT`

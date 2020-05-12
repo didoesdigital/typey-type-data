@@ -778,7 +778,7 @@
 * decide `STKAOEUD`
 * fall `TPAUL`
 * first. `TPEUFRT TP-PL`
-* violent, `SROEUPBLT KW-BG`
+* violent, `SRAOEUPBLT KW-BG`
 * farther; `TPA*RT STPH*FPLT`
 * cottage, `KOT/APBLG KW-BG`
 * noticed `TPH-TS/-D`
@@ -1033,7 +1033,7 @@
 * stretched `STREFPD`
 * towards `TORDZ`
 * cry `KRAOEU`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * himself. `H*EUPLS TP-PL`
 * Could `KPA/KO`
 * forget `TPERGT`

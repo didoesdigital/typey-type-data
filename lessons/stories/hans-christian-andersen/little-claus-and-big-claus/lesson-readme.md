@@ -389,7 +389,7 @@
 * eat. `AOET TP-PL`
 * When `KPA/WHEPB`
 * coming `KO*G`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * begged `PWEGD`
 * empty `EPLT`
 * chest `KHEFT`
@@ -590,7 +590,7 @@
 * it?" `T H-F KR-GS`
 * sexton, `SEBGS/TOPB KW-BG`
 * inside, `TPH-DZ KW-BG`
-* frightened. `TPRAOEUPBD TP-PL`
+* frightened. `TPRAOEUFPBD TP-PL`
 * little `HREUL`
 * peeped `PAOEPD`
 * in. `TPH TP-PL`
@@ -1005,7 +1005,7 @@
 * done, `TKOPB KW-BG`
 * surely `SHURL`
 * punished. `PUPBD TP-PL`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * rushed `RURBD`
 * surgery, `S-RPBLG KW-BG`
 * jumped `SKWR*UPLD`
@@ -1039,7 +1039,7 @@
 * led `HRED`
 * church, `KHUFRPB KW-BG`
 * organ `O*RPBG`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * singing `SEUPBG/-G`
 * beautifully. `PWAOUFL/HREU TP-PL`
 * close `KHROES`

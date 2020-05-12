@@ -429,7 +429,7 @@
 * queen! `KWAOEPB SKHRAPL`
 * thee.' `THAOE TP-PL AE`
 * much `PHUFP`
-* frightened; `TPRAOEUPBD STPH*FPLT`
+* frightened; `TPRAOEUFPBD STPH*FPLT`
 * knew `TPHAOU`
 * spoke `SPOEBG`
 * truth, `TRAO*UT KW-BG`

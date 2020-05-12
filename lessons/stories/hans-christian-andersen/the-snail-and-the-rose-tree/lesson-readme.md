@@ -29,7 +29,7 @@
 * Snail, `KPA/STPHAEUL KW-BG`
 * whose `WHOZ`
 * shell `SHEL`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * great `TKPWRAET`
 * deal—that `TKAOEL EPL/TKA*RB THA`
 * is, `S-RBGS`

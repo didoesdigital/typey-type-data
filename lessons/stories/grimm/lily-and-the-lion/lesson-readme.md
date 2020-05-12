@@ -218,7 +218,7 @@
 * home.' `HOEPL TP-PL AE`
 * servant `SEFRB/APBT`
 * greatly `TKPWRAELT`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * perhaps `PRAPS`
 * only `OEPBL`
 * cat `KAT`

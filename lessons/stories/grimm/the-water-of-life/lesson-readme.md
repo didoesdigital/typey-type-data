@@ -466,7 +466,7 @@
 * sprang `SPRAPBG`
 * couch `KOUFP`
 * dreadfully `TKRED/-FL/KWREU`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * ran `RAPB`
 * filled `TPEULD`
 * cup `KUP`

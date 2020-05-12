@@ -782,7 +782,7 @@
 * seas `SAES`
 * sees `SAO*ES`
 * seize `SAOEZ`
-* sects `S*EBGT/-S`
+* sects `SEBGT/-S`
 * sex `S-BGS`
 * sew `SWE`
 * so `SO`

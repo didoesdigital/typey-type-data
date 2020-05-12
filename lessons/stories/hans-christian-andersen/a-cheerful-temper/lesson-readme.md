@@ -245,7 +245,7 @@
 * shavings `SHAEUFGS`
 * resting-place. `REFT/-G H-PB PHRAEUS TP-PL`
 * The `KPA/-T`
-* newspaper `TPHUP`
+* newspaper `TPHAOUP`
 * churchyard `KH*URPBLG/KWRARD`
 * exciting `KPAOEUG`
 * objects `OBS`
@@ -598,7 +598,7 @@
 * opinions, `P-PBS KW-BG`
 * believe `PWHREF`
 * other. `OER TP-PL`
-* newspapers, `TPHUPS KW-BG`
+* newspapers, `TPHAOUPS KW-BG`
 * whole `WHOEL`
 * world, `WORLD KW-BG`
 * certain `SERPB`

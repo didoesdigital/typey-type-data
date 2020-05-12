@@ -368,7 +368,7 @@
 * tale, `TAEL KW-BG`
 * money. `PHUPB TP-PL`
 * 'No, `AE KPA/TPHO KW-BG`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * tune `TAOUPB`
 * you.' `U TP-PL AE`
 * countryman; `KREU/PHA*PB STPH*FPLT`

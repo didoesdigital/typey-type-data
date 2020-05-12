@@ -17,7 +17,7 @@
 * death `TK*T`
 * at `AT`
 * mouth `PHO*UT`
-* cave, `KAF KW-BG`
+* cave, `KAEUF KW-BG`
 * gasping `TKPWAS/-PG`
 * for `TPOR`
 * breath. `PWR*ET TP-PL`

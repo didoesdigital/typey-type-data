@@ -149,7 +149,7 @@
 * The `KPA/-T`
 * poor `PAOR`
 * elf `*EFL`
-* frightened. `TPRAOEUPBD TP-PL`
+* frightened. `TPRAOEUFPBD TP-PL`
 * never `TPHEFR`
 * been `PW-PB`
 * out `OUT`

@@ -60,7 +60,7 @@
 * made `PHAED`
 * of `-F`
 * silver, `SEUL/SRER KW-BG`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * very `SRE`
 * little `HREUL`
 * copper, `KOP/ER KW-BG`

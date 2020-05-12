@@ -199,7 +199,7 @@
 * already `HR-R`
 * half `HAF`
 * its `EUTS`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * sunk `S*UPBG`
 * behind `HEUPBD`
 * hill: `HEUL STPH-FPLT`

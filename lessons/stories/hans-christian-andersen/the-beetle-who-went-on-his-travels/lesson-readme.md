@@ -76,7 +76,7 @@
 * This `KPA/TH`
 * is `S`
 * reason `R-PB`
-* wearing `WAURG`
+* wearing `WAERG`
 * shoes. `SHAOUS TP-PL`
 * A `KPA/AEU`
 * beetle `PWAO*ELT`
@@ -721,7 +721,7 @@
 * Immediately `KPA/PHAOELD`
 * betrothal `PWE/TRO/THAL`
 * marriage, `PHAERPBLG KW-BG`
-* delay. `TKHREU TP-PL`
+* delay. `TKHRAEU TP-PL`
 * following `TPOLG`
 * passed `PAFD`
 * pleasantly, `PHRES/APBT/HREU KW-BG`

@@ -9,7 +9,7 @@
 * he `HE`
 * was `WAS`
 * terribly `TERBL/HREU`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * and `SKP`
 * ran `RAPB`
 * away `A/WAEU`

@@ -407,7 +407,7 @@
 * impertinence `*EUPL/PERT/TPHEPBS`
 * this! `TH SKHRAPL`
 * A `KPA/AEU`
-* plague `PHRAEUG`
+* plague `PHRA*EUG`
 * shrew `SHRAOU`
 * pudding! `PUD/-G SKHRAPL`
 * Would `KPA/WO`
@@ -454,7 +454,7 @@
 * use `AOUS`
 * without `WOUT`
 * further `TPURT`
-* delay, `TKHREU KW-BG`
+* delay, `TKHRAEU KW-BG`
 * and, `SKP KW-BG`
 * any `TPHEU`
 * other `OER`

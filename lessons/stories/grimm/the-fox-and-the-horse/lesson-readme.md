@@ -89,7 +89,7 @@
 * your `KWROUR`
 * head `HED`
 * look `HRAOBG`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * woe-begone?' `WOE H-PB xxx begone H-F AE`
 * 'Ah!' `AE KPA/HA*E SKHRAPL AE`
 * replied `RE/PHRAOEUD`
@@ -150,7 +150,7 @@
 * straight `STRAEUT`
 * who `WHO`
 * lived `HREUFD`
-* cave `KAF`
+* cave `KAEUF`
 * close `KHROES`
 * by, `PWEU KW-BG`
 * him, `HEUPL KW-BG`

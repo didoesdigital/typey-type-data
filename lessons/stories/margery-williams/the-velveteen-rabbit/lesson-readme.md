@@ -984,7 +984,7 @@
 * asleep, `A/SHRAOEP KW-BG`
 * dreaming `TKRAOEPLG`
 * fowl-house, `TPO*UL H-PB HOUS KW-BG`
-* lonely. `HROPBL TP-PL`
+* lonely. `HROEPBL TP-PL`
 * untied, `UPB/TAOEUD KW-BG`
 * wriggling `WREUG/-LG`
 * opening `OEPG`
@@ -1098,7 +1098,7 @@
 * brought `PWRAUT`
 * playfellow," `PHRAEU/TK-LS/TPO*EUL KW-BG KR-GS`
 * teach `TAOEFP`
-* needs `THAOEDZ`
+* needs `TPHAOEDZ`
 * Rabbit-land, `KPA/RABT H-PB HRAPBD KW-BG`
 * live `HREUF`
 * ever `-FR`
@@ -1150,7 +1150,7 @@
 * Spring, `KPA/SPREUPBG KW-BG`
 * sunny, `SAOUPB KW-BG`
 * house. `HOUS TP-PL`
-* playing, `PHRA*EUG KW-BG`
+* playing, `PHRAEUG KW-BG`
 * peeped `PAOEPD`
 * over, `OEFR KW-BG`
 * markings `PHARBG/-GS`

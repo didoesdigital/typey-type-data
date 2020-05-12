@@ -109,6 +109,7 @@
 * cure `KAOUR`
 * steep `STAOEP`
 * wire `WAOEUR`
+* cave `KAEUF`
 * seats `SAOETS`
 * prayed `PRAEUD`
 * heap `HAOEP`

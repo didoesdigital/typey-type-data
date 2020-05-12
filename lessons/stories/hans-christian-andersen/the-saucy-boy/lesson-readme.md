@@ -241,7 +241,7 @@
 * it. `T TP-PL`
 * it's `T-S`
 * isn't `S-PBT`
-* damaged `TKAPBLD`
+* damaged `TKAPBLGD`
 * all. `AUL TP-PL`
 * string `STREUPBG`
 * tight; `TAOEUT STPH*FPLT`
@@ -290,7 +290,7 @@
 * care `KAEUR`
 * never `TPHEFR`
 * play `PHRAEU`
-* lest `HRES/*T`
+* lest `HR*ES`
 * hurt `HURT`
 * them." `THEPL TP-PL KR-GS`
 * children, `KHEURPB KW-BG`
@@ -318,7 +318,7 @@
 * book `PWAOBG`
 * under `TPH-PB`
 * arm, `ARPL KW-BG`
-* wearing `WAURG`
+* wearing `WAERG`
 * black `PWHRABG`
 * coat. `KOET TP-PL`
 * They `KPA/THE`

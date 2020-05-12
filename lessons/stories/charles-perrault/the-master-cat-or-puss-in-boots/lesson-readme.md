@@ -409,7 +409,7 @@
 * fell `TPEL`
 * love `HRUF`
 * distraction. `STKRABGS TP-PL`
-* needs `THAOEDZ`
+* needs `TPHAOEDZ`
 * airing. `AEURG TP-PL`
 * overjoyed `AUFR/SKWROEUD`
 * project `PROPBL`
@@ -557,7 +557,7 @@
 * natural `TPHARL`
 * form, `TPORPL KW-BG`
 * owned `OEPBD`
-* frightened. `TPRAOEUPBD TP-PL`
+* frightened. `TPRAOEUFPBD TP-PL`
 * moreover `PHROEFR`
 * informed," `TPH-FD KW-BG KR-GS`
 * "but `KR-GS PWUT`

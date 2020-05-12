@@ -359,7 +359,7 @@
 * Immediately `KPA/PHAOELD`
 * up. `UP TP-PL`
 * first `TPEUFRT`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * eyes `AO*EUS`
 * never `TPHEFR`
 * yet `KWRET`

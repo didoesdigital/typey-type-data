@@ -482,7 +482,7 @@
 * this, `TH KW-BG`
 * too, `TAO KW-BG`
 * terribly `TERBL/HREU`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * silenced `SHREPBS/-D`
 * her. `HER TP-PL`
 * o'clock `KHRO*BG`

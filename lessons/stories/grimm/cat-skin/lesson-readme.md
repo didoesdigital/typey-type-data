@@ -314,7 +314,7 @@
 * maiden `PHAEUD/*EPB`
 * awoke `A/WOEBG`
 * greatly `TKPWRAELT`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * 'I `AE EU`
 * am `APL`
 * poor `PAOR`
@@ -491,7 +491,7 @@
 * how `HOU`
 * there, `THR KW-BG`
 * for. `TPOR TP-PL`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * order, `ORD KW-BG`
 * 'You `AE KPA/U`
 * so, `SO KW-BG`

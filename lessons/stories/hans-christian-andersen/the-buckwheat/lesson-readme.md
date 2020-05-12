@@ -4,7 +4,7 @@
 * often, `OFPB KW-BG`
 * after `AF`
 * a `AEU`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * thunder-storm, `THUPBD H-PB STORPL KW-BG`
 * field `TPAOELD`
 * of `-F`

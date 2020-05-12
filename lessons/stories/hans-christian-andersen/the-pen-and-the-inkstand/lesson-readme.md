@@ -209,7 +209,7 @@
 * he `HE`
 * comes—the `KOPLS EPL/TKA*RB -T`
 * who `WHO`
-* performs `P-FRPLS`
+* performs `PORPLS`
 * mechanical `PHEBG/K-L`
 * part—and `PART EPL/TKA*RB SKP`
 * writes `WRAOEUTS`
@@ -230,7 +230,7 @@
 * concert, `KERT KW-BG`
 * enchanted `EPB/KHAPBT/-D`
 * admirable `AD/PHEURBL`
-* performance `PORPLS`
+* performance `P-FRPBS`
 * famous `TPAEUPLS`
 * violin `SRO*EUPBL`
 * player `PHRAEUR`
@@ -314,7 +314,7 @@
 * "How `KR-GS KPA/HOU`
 * foolish `TPAOL/EURB`
 * boast `PWOEFT`
-* performance, `PORPLS KW-BG`
+* performance, `P-FRPBS KW-BG`
 * we `WE`
 * men `PHEPB`
 * often `OFPB`

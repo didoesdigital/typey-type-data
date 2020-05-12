@@ -23,7 +23,7 @@
 * growing `TKPWROEG`
 * longer, `HRORPBG KW-BG`
 * family `TPAEPL`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * were `WR`
 * gathered `TKPWAERD`
 * together `TOGT`
@@ -85,7 +85,7 @@
 * sun, `SUPB KW-BG`
 * children `KHEURPB`
 * fond `TPOPBD`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * it. `T TP-PL`
 * It `KPA/T`
 * was, `WAS KW-BG`
@@ -293,7 +293,7 @@
 * few `TPAOU`
 * neighbors `TPHAEUBS`
 * there, `THR KW-BG`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * should `SHO`
 * now `TPHOU`
 * she `SHE`

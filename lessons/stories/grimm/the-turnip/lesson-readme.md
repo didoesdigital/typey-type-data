@@ -302,7 +302,7 @@
 * horse `HORS`
 * distance, `STKAPBS KW-BG`
 * which `WEU`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * pushed `PURBD`
 * their `THAEUR`
 * prisoner `PREURZ`

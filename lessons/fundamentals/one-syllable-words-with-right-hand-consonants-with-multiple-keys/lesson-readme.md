@@ -130,6 +130,7 @@
 * count `KOUPBT`
 * wicked `WEUBGD`
 * harm `HARPL`
+* ends `EPBDZ`
 * kinds `KEUPBDZ`
 * sand `SAPBD`
 * worn `WORPB`
@@ -293,6 +294,7 @@
 * hounds `HOUPBDZ`
 * rains `RAEUPBS`
 * pond `POPBD`
+* sect `SEBGT`
 * stained `STAEUPBD`
 * Ken `KEPB`
 * handled `HAPBLD`

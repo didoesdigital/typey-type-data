@@ -456,7 +456,7 @@
 * away. `A/WAEU TP-PL`
 * Oh, `KPA/O*ERBGS KW-BG`
 * how `HOU`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * felt `TPELT`
 * tree! `TRAOE SKHRAPL`
 * But `KPA/PWUT`
@@ -850,7 +850,7 @@
 * it. `T TP-PL`
 * trembled `TREPL/-BLD`
 * much; `PHUFP STPH*FPLT`
-* frightened, `TPRAOEUPBD KW-BG`
+* frightened, `TPRAOEUFPBD KW-BG`
 * great `TKPWRAET`
 * deal `TKAOEL`
 * herself,—she `H*ERS KW-BG EPL/TKA*RB SHE`
@@ -1133,7 +1133,7 @@
 * ran `RAPB`
 * along `HRAOPBG`
 * lanes, `HRAEPBS KW-BG`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * gay `TKPWAEU`
 * butterflies; `PW*URT/TPHRAOEU/-S STPH*FPLT`
 * lovely. `HROFL TP-PL`
@@ -1237,7 +1237,7 @@
 * back `PWABG`
 * Denmark. `TKEPB/PHARBG TP-PL`
 * nest `TPHEFT`
-* writer `WREUR`
+* writer `WRAOEUR`
 * tales. `TAELS TP-PL`
 * song `SOPBG`
 * story. `STOER TP-PL`

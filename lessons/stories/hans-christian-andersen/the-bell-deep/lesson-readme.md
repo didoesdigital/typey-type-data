@@ -433,7 +433,7 @@
 * gate `TKPWAET`
 * door `TKAOR`
 * him. `HEUPL TP-PL`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * band `PWAPBD`
 * surrounded `SROUPBD/-D`
 * church; `KHUFRPB STPH*FPLT`

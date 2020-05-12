@@ -132,7 +132,7 @@
 * where `W-R`
 * princess `PREUPB/SES`
 * just `SKWRUFT`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * "Visitors `KR-GS KPA/SREUS/TORS`
 * are `R`
 * coming" `KO*G KR-GS`

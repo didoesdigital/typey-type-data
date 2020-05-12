@@ -58,7 +58,7 @@
 * on `OPB`
 * many `PHAEPB`
 * children `KHEURPB`
-* playing. `PHRA*EUG TP-PL`
+* playing. `PHRAEUG TP-PL`
 * What `KPA/WHA`
 * maid `PHAEUD`
 * thinking `THEUG`
@@ -206,7 +206,7 @@
 * city. `STEU TP-PL`
 * "No! `KR-GS KPA/TPHO SKHRAPL`
 * ones `WUPBZ`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * light, `HRAOEUT KW-BG`
 * childish `KHAOEUL/TKEURB`
 * spirits. `SPEURTS TP-PL`

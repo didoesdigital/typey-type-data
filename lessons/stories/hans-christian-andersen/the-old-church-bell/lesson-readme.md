@@ -616,7 +616,7 @@
 * plain; `PHRAEUPB STPH*FPLT`
 * amused `A/PHAOUS/-D`
 * themselves `TH*EPLS`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * nine-pins `TPHAOEUPB H-PB PEUPB/-S`
 * together. `TOGT TP-PL`
 * describe `SKREU`

@@ -76,7 +76,7 @@
 * dog. `TKOG TP-PL`
 * then `THEPB`
 * took `TAOBG`
-* cave, `KAF KW-BG`
+* cave, `KAEUF KW-BG`
 * every `EF`
 * day `TKAEU`
 * used `AOUFD`

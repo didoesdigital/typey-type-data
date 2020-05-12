@@ -700,7 +700,7 @@
 * sympathy. `SEUPL/THEU TP-PL`
 * glad `TKPWHRAD`
 * ugliness `UG/HREU/-PBS`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * fowls. `TPO*UL/-S TP-PL`
 * mean `PHAOEPB`
 * that?" `THA H-F KR-GS`

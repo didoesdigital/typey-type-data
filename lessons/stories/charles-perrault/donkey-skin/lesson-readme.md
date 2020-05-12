@@ -771,7 +771,7 @@
 * eyes: `AO*EUS STPH-FPLT`
 * haste `HAEUFT`
 * forth, `TPO*RT KW-BG`
-* delay." `TKHREU TP-PL KR-GS`
+* delay." `TKHRAEU TP-PL KR-GS`
 * embraced `EPL/PWRAEUFD`
 * times, `TAOEUPLS KW-BG`
 * begged `PWEGD`

@@ -576,7 +576,7 @@
 * magic `PHAPBLG/EUBG`
 * business `PWEUS`
 * began—a `TKPWAPB EPL/TKA*RB AEU`
-* performance, `PORPLS KW-BG`
+* performance, `P-FRPBS KW-BG`
 * 'The `AE KPA/-T`
 * Judgment `KPA/SKWRUPLT`
 * Theatre.' `KPA/THAO*ERT TP-PL AE`
@@ -594,7 +594,7 @@
 * Grand `KPA/TKPWRAPBD`
 * too `TAO`
 * late, `HRAEUT KW-BG`
-* performance `PORPLS`
+* performance `P-FRPBS`
 * begun, `TKPWUPB KW-BG`
 * people, `PAOEPL KW-BG`
 * watch `WAFP`
@@ -687,7 +687,7 @@
 * bargain; `PWARG/AEUPB STPH*FPLT`
 * late `HRAEUT`
 * night. `TPHAOEUT TP-PL`
-* needs `THAOEDZ`
+* needs `TPHAOEDZ`
 * go; `TKPW STPH*FPLT`
 * borrowed `PWO*ERD`
 * pair `PAEUR`
@@ -849,7 +849,7 @@
 * devoted `TKWOETD`
 * yearly `KWRAOERL`
 * subscription `SKR*EUPGS`
-* Saturday `SAET`
+* Saturday `SATD`
 * evening, `AOEPBG KW-BG`
 * given," `TKPWEUFPB KW-BG KR-GS`
 * will; `HR STPH*FPLT`

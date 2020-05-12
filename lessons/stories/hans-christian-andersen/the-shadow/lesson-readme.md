@@ -466,7 +466,7 @@
 * take `TAEUBG`
 * coffee `KOEF`
 * read `RAED`
-* newspapers. `TPHUPS TP-PL`
+* newspapers. `TPHAOUPS TP-PL`
 * "How `KR-GS KPA/HOU`
 * this?" `TH H-F KR-GS`
 * exclaimed, `SKHRAEUPL/-D KW-BG`
@@ -984,7 +984,7 @@
 * conduct `KUBGT`
 * neighbors. `TPHAEUBS TP-PL`
 * Had `KPA/H`
-* newspaper, `TPHUP KW-BG`
+* newspaper, `TPHAOUP KW-BG`
 * eagerly `AOERLG`
 * read! `RAED SKHRAPL`
 * Instead `KPA/STPHED`

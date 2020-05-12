@@ -236,9 +236,9 @@
 * safety. `SAEFT TP-PL`
 * son `SOPB`
 * eight `AET`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * while `WHAOEUL`
-* playing, `PHRA*EUG KW-BG`
+* playing, `PHRAEUG KW-BG`
 * golden `TKPWOELD/*EPB`
 * ball `PWAUL`
 * cage. `KAEUPBLG TP-PL`

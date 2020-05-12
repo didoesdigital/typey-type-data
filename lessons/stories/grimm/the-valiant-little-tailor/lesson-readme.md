@@ -551,7 +551,7 @@
 * us.' `US TP-PL AE`
 * willing, `-LG KW-BG`
 * followed `TPOLD`
-* cave, `KAF KW-BG`
+* cave, `KAEUF KW-BG`
 * other `OER`
 * giants `SKWRAOEUPBTS`
 * fire, `TPAOEUR KW-BG`
@@ -717,7 +717,7 @@
 * venture `SREPBT/UR`
 * dismissal, `STKPHEUS/A*L KW-BG`
 * dreaded `TKRED/-D`
-* lest `HRES/*T`
+* lest `HR*ES`
 * place `PHRAEUS`
 * throne. `THRO*EPB TP-PL`
 * counsel. `KOUPB TP-PL`

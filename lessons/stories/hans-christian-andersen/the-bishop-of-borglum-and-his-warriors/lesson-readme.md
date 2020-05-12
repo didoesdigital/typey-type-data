@@ -25,7 +25,7 @@
 * it `T`
 * breaks `PWRAEBGS`
 * against `TKPWEPBS`
-* western `WERPB`
+* western `WES/TERPB`
 * coast `KOEFT`
 * Jutland. `xxx Jutland TP-PL`
 * It `KPA/T`
@@ -179,7 +179,7 @@
 * things `THEUPBGS`
 * when `WHEPB`
 * they `THE`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * or `OR`
 * want `WAPBT`
 * frighten `TPRAOEUFPB`
@@ -400,7 +400,7 @@
 * friends `TPREPBDZ`
 * relations `RELGS/-S`
 * avoid `A/SROEUD`
-* plague `PHRAEUG`
+* plague `PHRA*EUG`
 * pestilence!" `PEFT/HREPBS SKHRAPL KR-GS`
 * bend `PWEPBD`
 * break," `PWRAEBG KW-BG KR-GS`

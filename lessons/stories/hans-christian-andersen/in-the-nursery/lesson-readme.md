@@ -235,7 +235,7 @@
 * listen `HREUFPB`
 * play-bill." `PHRAEU H-PB PWEUL TP-PL KR-GS`
 * took `TAOBG`
-* newspaper, `TPHUP KW-BG`
+* newspaper, `TPHAOUP KW-BG`
 * read `RAED`
 * reading `RAEGD`
 * it: `T STPH-FPLT`

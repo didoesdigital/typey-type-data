@@ -325,7 +325,7 @@
 * chest. `KHEFT TP-PL`
 * saw `SAU`
 * quantity `KWAPBT`
-* contained, `TAEUPBD KW-BG`
+* contained, `KAUPB/TAEUPBD KW-BG`
 * quickly `KWEULG`
 * threw `THRAOU`
 * away `A/WAEU`

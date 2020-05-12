@@ -467,7 +467,7 @@
 * look `HRAOBG`
 * sparkling `SPAR/K-LG`
 * eyes `AO*EUS`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * single `SEUPBLG`
 * pea-plant. `PAE H-PB PHRAPBT TP-PL`
 * week `WAOEBG`

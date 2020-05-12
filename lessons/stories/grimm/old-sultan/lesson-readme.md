@@ -107,7 +107,7 @@
 * that `THA`
 * another, `TPHOER KW-BG`
 * much `PHUFP`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * think `THEU`
 * would `WO`
 * day; `TKAEU STPH*FPLT`

@@ -256,7 +256,7 @@
 * heath `HAO*ET`
 * Jutland's `xxx Jutland AES`
 * wood-girt `WAOD H-PB TKPWEURT`
-* eastern `AOERPB`
+* eastern `AOEFT/ERPB`
 * coast, `KOEFT KW-BG`
 * island `AOEULD`
 * Funen, `xxx Funen KW-BG`
@@ -299,7 +299,7 @@
 * maidens `PHAEUD/*EPB/-S`
 * danced, `TKAPBS/-D KW-BG`
 * sung `SUPBG`
-* circle `KOEURBG`
+* circle `SOEURBG`
 * round `ROUPBD`
 * blazing `PWHRAEUZ/-G`
 * pile. `PAOEUL TP-PL`
@@ -681,7 +681,7 @@
 * usually `AOURBL`
 * are, `R KW-BG`
 * alighted `A/HRAOEUT/-D`
-* lonely, `HROPBL KW-BG`
+* lonely, `HROEPBL KW-BG`
 * deserted `STK*ERT/-D`
 * ship. `SHEUP TP-PL`
 * croaked `KROEBG/-D`
@@ -1188,7 +1188,7 @@
 * air `AEUR`
 * brittle `PWR*EULT`
 * glass `TKPWHRAS`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * treasure. `TRERB TP-PL`
 * 'Found! `AE KPA/TPOUPBD SKHRAPL`
 * found! `TPOUPBD SKHRAPL`
@@ -1242,7 +1242,7 @@
 * there, `THR KW-BG`
 * mortgage `PHORT`
 * everything `EFRG`
-* contained, `TAEUPBD KW-BG`
+* contained, `KAUPB/TAEUPBD KW-BG`
 * pocket. `POBGT TP-PL`
 * rattled `RAT/-LD`
 * windows, `WOEUPBDZ KW-BG`

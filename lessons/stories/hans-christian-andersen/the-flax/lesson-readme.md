@@ -400,7 +400,7 @@
 * meaning, `PHAOEPBG KW-BG`
 * great `TKPWRAET`
 * blessing `PWHR*EFG`
-* contained `TAEUPBD`
+* contained `KAUPB/TAEUPBD`
 * words `WORDZ`
 * never `TPHEFR`
 * imagined `PHAPBLGD`

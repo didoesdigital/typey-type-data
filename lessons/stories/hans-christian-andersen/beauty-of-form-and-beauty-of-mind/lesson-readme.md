@@ -591,7 +591,7 @@
 * result; `RULT STPH*FPLT`
 * betrothal `PWE/TRO/THAL`
 * announced `A/TPHOUPBS/-D`
-* newspaper `TPHUP`
+* newspaper `TPHAOUP`
 * town. `TOUPB TP-PL`
 * Mama `PHA*/PHA`
 * purchased `PUFPD`
@@ -810,7 +810,7 @@
 * without `WOUT`
 * caring `KARG`
 * inquire `KW-R`
-* contained, `TAEUPBD KW-BG`
+* contained, `KAUPB/TAEUPBD KW-BG`
 * omission `O/PHEUGS`
 * brings `PWREUS`
 * greatest `TKPWRAET/EFT`
@@ -996,7 +996,7 @@
 * "she `KR-GS SHE`
 * call `KAUL`
 * 'antiques,' `AE APB/TAOEBG/-S KW-BG AE`
-* damaged. `TKAPBLD TP-PL`
+* damaged. `TKAPBLGD TP-PL`
 * A `KPA/AEU`
 * ought `OT`
 * perfect, `P-F KW-BG`

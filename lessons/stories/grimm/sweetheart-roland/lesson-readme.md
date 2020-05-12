@@ -360,7 +360,7 @@
 * faster `TPA*FRT`
 * played, `PHRAEUD KW-BG`
 * more `PHOR`
-* violent `SROEUPBLT`
+* violent `SRAOEUPBLT`
 * springs `SPREUPBGS`
 * make, `PHAEUBG KW-BG`
 * thorns `THORPB/-S`

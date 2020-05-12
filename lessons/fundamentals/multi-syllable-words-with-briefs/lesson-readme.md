@@ -136,6 +136,7 @@
 * buildings `PWHR-GS`
 * outer `OURT`
 * concern `K-RPB`
+* performance `P-FRPBS`
 * considering `KR-G`
 * perfection `P-FRGS`
 * wherever `W-FR`

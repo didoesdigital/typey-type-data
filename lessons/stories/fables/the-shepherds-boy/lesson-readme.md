@@ -21,7 +21,7 @@
 * forest. `TPOEFRT TP-PL`
 * It `KPA/T`
 * rather `RAER`
-* lonely `HROPBL`
+* lonely `HROEPBL`
 * for `TPOR`
 * him `HEUPL`
 * all `AUL`

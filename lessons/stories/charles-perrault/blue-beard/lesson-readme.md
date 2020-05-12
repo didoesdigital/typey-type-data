@@ -139,7 +139,7 @@
 * bed, `PWED KW-BG`
 * passed `PAFD`
 * night `TPHAOEUT`
-* playing `PHRA*EUG`
+* playing `PHRAEUG`
 * tricks `TREUBGS`
 * other. `OER TP-PL`
 * In `KPA/TPH`
@@ -291,7 +291,7 @@
 * husband `HUS`
 * there, `THR KW-BG`
 * because `PWAU`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * thro' `xxx thro AE`
 * rooms, `RAOPLS KW-BG`
 * closets, `KHROS/ETS KW-BG`
@@ -410,7 +410,7 @@
 * recover `ROFR`
 * herself; `H*ERS STPH*FPLT`
 * not, `TPHOT KW-BG`
-* frightened. `TPRAOEUPBD TP-PL`
+* frightened. `TPRAOEUFPBD TP-PL`
 * Having `KPA/SR-G`
 * observed `OEBD`
 * stained `STAEUPBD`

@@ -26,7 +26,7 @@
 * Goat `KPA/TKPWO*ET`
 * came `KAEUPL`
 * Lion's `KPA/HRO*EUPB AES`
-* cave, `KAF KW-BG`
+* cave, `KAEUF KW-BG`
 * stopped `STOPD`
 * there `THR`
 * listening `HR-PBG`
@@ -40,7 +40,7 @@
 * in, `TPH KW-BG`
 * before `PW-FR`
 * she `SHE`
-* Calf `KPA/KA*FL`
+* Calf `KPA/KAF`
 * up `UP`
 * receive `SAOEF`
 * wishes `WEURBS`
@@ -91,7 +91,7 @@
 * out. `OUT TP-PL`
 * Till `KPA/TEUL`
 * entered `SPWR-D`
-* cave `KAF`
+* cave `KAEUF`
 * again `TKPWEPB`
 * prefer `PREFR`
 * remain `RE/PHAEUPB`

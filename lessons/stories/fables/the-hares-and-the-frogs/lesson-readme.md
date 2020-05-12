@@ -62,7 +62,7 @@
 * bank `PWA*PBG`
 * lake, `HRAEUBG KW-BG`
 * Frogs, `KPA/TPROGS KW-BG`
-* frightened `TPRAOEUPBD`
+* frightened `TPRAOEUFPBD`
 * their `THAEUR`
 * turn `TURPB`
 * off, `OF KW-BG`

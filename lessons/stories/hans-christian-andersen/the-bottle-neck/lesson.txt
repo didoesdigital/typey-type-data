@@ -125,7 +125,7 @@ The Bottle Neck
 'linnet': HREUPB/TPHET
 'which': WEU
 'it': T
-'contained': TAEUPBD
+'contained': KAUPB/TAEUPBD
 'hopped': HOPD
 'from': TPR
 'perch': PEFRPB
@@ -1226,7 +1226,7 @@ The Bottle Neck
 'that': THA
 'forget': TPERGT
 'the': -T
-'performance': PORPLS
+'performance': P-FRPBS
 'of': -F
 'that': THA
 'moment;': PHOEPLT STPH*FPLT
@@ -1770,7 +1770,7 @@ The Bottle Neck
 'wine,': WAOEUPB KW-BG
 'but': PWUT
 'it': T
-'contained': TAEUPBD
+'contained': KAUPB/TAEUPBD
 'something': S-G
 'quite': KWAOEUT
 'as': AZ
@@ -1797,7 +1797,7 @@ The Bottle Neck
 'apothecary,"': A/PO*T/KAER KW-BG KR-GS
 'for': TPOR
 'it': T
-'contained': TAEUPBD
+'contained': KAUPB/TAEUPBD
 'the': -T
 'best': PWEFT
 'medicine': PHED
@@ -2303,7 +2303,7 @@ The Bottle Neck
 'The': KPA/-T
 'little': HREUL
 'letter': HRERT
-'contained': TAEUPBD
+'contained': KAUPB/TAEUPBD
 'within': W-PB
 'it': T
 'was': WAS
