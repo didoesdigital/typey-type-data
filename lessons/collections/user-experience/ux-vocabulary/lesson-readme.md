@@ -1,16 +1,16 @@
-# UX (user experience)
+# UX design vocabulary
 
 * UX `UBGS`
-* user experience `AOURS SPAOERPBS`
+* user experience `AOURS/SPAOERPBS`
 * design `STKAOEUPB`
 * research `REFRPB`
 * experience `SPAOERPBS`
-* information `TP-FGS`
+* information `TPH-FGS`
 * architecture `TREBGS`
 * interaction `TPHRABGS`
 * interactivity `EUPBT/TAEFT`
 * microinteraction `PHAOEURBG/SPWRABGS`
-* microcopy `PHAOEURBG/COEUP`
+* microcopy `PHAOEURBG/KO*EP`
 * prototype `PROET/TAOEUP`
 * map `PHAP`
 * model `PHOLD`
@@ -22,7 +22,7 @@
 * graybox `TKPWRAEU/PWOBGS`
 * unsubscribe `UPB/SUB/SKRAOEUB`
 * nav `TPHA*F`
-* dropdown `TKROP/TK-LS/TKOUPB`
+* dropdown `TKROP/SKWROUPB`
 * wireframe `WAOEUR/TPRAEUPL`
 * workspace `WORBG/TK-LS/SPAEUS`
 * mobile `PHOEBL`
@@ -72,20 +72,20 @@
 * engineering `EPBG/TPHAOERG`
 * user-centered `AOURS H-PB STR-D`
 * journey `SKWRURPB`
-* feedback `TPAOD/PWA*BG`
-* test `TEF`
+* feedback `TPAOED/PWABG`
+* test `TEFT`
 * testing `TEFG`
-* interview `UPBT/SRAOU`
+* interview `EUPBT/SRAOU`
 * visual `SREUFL`
 * workflow `WORBG/TPHROE`
 * affordance `AFRD/APBS`
 * animation `APB/PHAEUGS`
-* auto-complete `OEUT H-PB KPHRAOET`
+* auto-complete `O*EUT/H-PB/KPHRAOET`
 * browser `PWROURS`
 * link `HR*EUPBG`
 * validation `SRAL/TKAEUGS`
 * verification `SRER/TPEUBGS`
-* destination `TK*ES/TPHAEUGS`
+* destination `TKEFT/TPHAEUGS`
 * download `TKOUPBLD`
 * expert `SPERT`
 * font `TPOPBT`
@@ -103,20 +103,20 @@
 * Gestalt `TKPWE/STALT`
 * global `TKPWHROEBL`
 * navigation `TPHAF/TKPWAEUGS`
-* elements `HR-PLTS`
+* elements `HREPLTS`
 * graceful `TKPWRAEUS/-FL`
 * degradation `TKEG/TKAEUGS`
 * graphic `TKPWRAFBG`
 * user `AOURS`
 * grid `TKPWREUD`
-* hierarchical `HAOEUR/ARBG/A*L`
+* hierarchical `HAOEUR/ARBG/K-L`
 * hover `HOFR`
 * touch `TUFP`
 * tooltip `TAOL/TEUP`
 * Photoshop `TPOET/SHOP`
 * Sketch `SKEFP`
 * Illustrator `EUL/TRAEURT`
-* icon `AOEU/KOPB`
+* icon `AOEUPBG`
 * hyperlink `HAOEURP/HR*EUPBG`
 * image `EUPBLG`
 * placeholder `PHRAEUS/HO*ERLD`
@@ -124,7 +124,7 @@
 * localization `HROEL/SA*EUGS`
 * kerning `K*ERPB/-G`
 * tittle `TEUT/*L`
-* typography `TAOEU/POG/TPEU`
+* typography `TAOEUP/TKPWRAEF`
 * terminal `TERPL/TPHAL`
 * bar `PWAR`
 * tracking `TRABG/-G`
@@ -137,7 +137,7 @@
 * consisting of `KAOFG`
 * consistent `KAOPBT`
 * consistently `KAOPBLT`
-* consistency `KAO/SEU`
+* consistency `KAOPBS`
 * clarity `KHRAEURT`
 * rapid `RAPD`
 * scroll `SKROL`
@@ -169,14 +169,14 @@
 * evaluation `*EFLGS`
 * forgiving `TPAURG/-G`
 * signifier `SEUPBG/TPAOEUR`
-* pattern `AT/TERPB`
+* pattern `PAERPB`
 * onboarding `AUPB/PWAORD/-G`
 * undo `UPB/TKO`
 * autosave `A*UT/SAF`
-* error `RO*ER`
+* error `ROEUR`
 * gamification `TKPWAEUPL/TPAEUBGS`
 * taxonomy `TABGS/OPB/PHEU`
 * artboard `ART/PWAORD`
-* favicon `TPAF/AOEUBG/O*PB`
+* favicon `TPAF/KOPB`
 * nav item `TPHA*F/AOEUT/*EP`
 * connectivity `KEBGT/T*EUFT`
