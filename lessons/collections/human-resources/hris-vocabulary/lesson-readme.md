@@ -1,33 +1,33 @@
-# Human Resources
+# Human Resources vocabulary
 
 * human resources `HAOUPL/SRORSZ`
-* HR `H*P R*P SP-S`
+* HR `H*P/R*P`
 * human resource information system `HREURS`
 * HRIS `HR*EURS`
-* HR business partner `H*P R*P PWEUS PARPB`
-* HRBP `H*P R*P PW*P P*P SP-S`
-* learning and development `HRERPBG SKP SREPLT`
-* L&D `HR*P SP-PBD TK*P SP-S`
-* applicant tracking system `AP/PHREU/KAPBT TRABG/-G S-PL`
-* ATS `A*P T*P S*P SP-S`
-* organizational development `ORG/A*L SREPLT`
-* OD `O* TK* SP-S`
-* organisational development `ORG/A*L/A*U SREPLT`
-* learning management system `HRERPBG PH-GT S-PL`
-* LMS `HR*P PR*P S*P SP-S`
+* HR business partner `H*P/R*P/PWEUS/PARPB`
+* HRBP `H*P/R*P/PW*P/P*P`
+* learning and development `HRERPBG/SKP/SREPLT`
+* L&D `HR*P/SP-PBD/TK*P`
+* applicant tracking system `AP/PHREU/KAPBT/TRABG/-G/S-PL`
+* ATS `A*P/T*P/S*P`
+* organizational development `ORG/A*L/SREPLT`
+* OD `O*P/TK*P`
+* organisational development `ORG/A*L/A*U/SREPLT`
+* learning management system `HRERPBG/PH-GT/S-PL`
+* LMS `HR*P/PR*P/S*P`
 * human `HAOUPL`
 * human capital `HAOUPL/KA*L`
 * people `PAOEPL`
 * person `PERPB`
 * personal `PERPBL`
-* personnel `PERPB/TPHEL`
+* personnel `PERPB/EL`
 * progress `PROG`
 * process `PROEUS`
 * effective `TPEF`
 * effectiveness `TPEFPBS`
 * effectively `TPEFL`
 * employee `PHROE`
-* engaged `EPB/TKPWAEUBLG/-D`
+* engaged `EPB/TKPWAEUPBLGD`
 * engagement `EPB/TKPWAEUPLT`
 * experience `SPAOERPBS`
 * flourish `TPHRUR/EURB`
@@ -35,17 +35,17 @@
 * authenticity `AUFT/TEUFT`
 * status `ST*TS`
 * certainty `SERPBT`
-* autonomy `AU/TOPB/PHEU`
+* autonomy `AUT/OPB/PHEU`
 * relatedness `RAELTD/-PBS`
 * fairness `TPAEURPBS`
-* mastery `PHAFRT/KWREU`
+* mastery `PHAFT/REU`
 * leadership `HRAOERP`
 * influence `WEPBS`
 * collaboration `KHRAB/RAEUGS`
 * management `PH-GT`
 * talent `THREPBT`
 * labor `HRAEUB`
-* labour `HRAEUB/A*U`
+* labour `HRAEU/PWOUR`
 * workforce `WORBG/TPORS`
 * organization `ORGS`
 * organisation `ORGS/A*U`
@@ -56,14 +56,14 @@
 * compensation `KPEPBGS`
 * benefits `PWEFS`
 * payroll `PAEURL`
-* collective bargaining `KHREBGT/T*EUF PWAR/TKPWAEUPB/-G`
+* collective bargaining `KHREBGT/T*EUF/PWAR/TKPWAEUPB/-G`
 * motivation `PHOET/SRAEUGS`
 * interpersonal `SPWR/PERPBL`
 * growth `TKPWRO*UT`
 * mindset `PHAOEUPBD/SET`
 * performance `P-FRPBS`
-* performs `P-FRPLS`
-* equal opportunity `KWAL TAOUPBT`
+* performs `PORPLS`
+* equal opportunity `KWAL/TAOUPBT`
 * vision `SREUGS`
 * purpose `PURP`
 * mission `PHEUGS`
@@ -80,8 +80,8 @@
 * connected `KEBGTD`
 * commitment `KPHUPLT`
 * committed `KPHEUTD`
-* present commitment `PREPBT KPHEUPLT`
-* future commitment `TPAOUFP KPHEUPLT`
+* present commitment `PREPBT/KPHEUPLT`
+* future commitment `TPAOUFP/KPHEUPLT`
 * recommendation `REPLGS`
 * recommended `REPLD`
 * empowerment `EPL/POURPLT`
@@ -96,14 +96,14 @@
 * turnover `TURPB/SKWROEFR`
 * absenteeism `AB/SEPBT/EUFPL`
 * absentees `AB/SEPB/TAOE/-S`
-* productivity `PRUBGT/EUFT`
+* productivity `PROUBGT/EUFT`
 * productive `PROUBG/EUF`
 * proactive `PRO/ABGT/EUF`
-* intrinsic motivation `SPWREUPBS/EUBG PHOET/SRAEUGS`
-* positive emotions `PEUF AO*EGS/-S`
-* pro-social behavior `PROE H-PB SOERBL PWAEUFR`
-* pro-social behaviour `PROE H-PB SOERBL PWAEUFR/A*U`
-* co-operation `KO* H-PB OERPGS`
+* intrinsic motivation `SPWREUPBS/EUBG/PHOET/SRAEUGS`
+* positive emotions `PEUF/AO*EGS/-S`
+* pro-social behavior `PROE/H-PB/SOERBL/PWAEUFR`
+* pro-social behaviour `PROE/H-PB/SOERBL/PWAEUFR/A*U`
+* co-operation `KRO/PRAEUGS`
 * survey `SOEUF`
 * impact `EUPL/PABGT`
 * communication `KAEUBGS`
@@ -111,7 +111,7 @@
 * communicates `KPHAOUPB/KAEUTS`
 * ownership `OERP`
 * alignment `A/HRAOEUPLT`
-* enablement `EPB -BL *PLT`
+* enablement `EPB/-BL/*PLT`
 * feedback `TPAOED/PWABG`
 * recognition `REBGS`
 * recognized `REFD`
@@ -125,14 +125,14 @@
 * efficiently `TPAOERBL`
 * efficient `TP-RBT`
 * efficiency `AOERB`
-* integrate `TKPWRA*EUT`
-* integration `TKPWRA*EUGS`
-* Culture Amp `KURPLT`
-* BambooHR `PWAO*PL`
+* integrate `SPWE/TKPWRAEUT`
+* integration `SPWE/TKPWRAEUGS`
+* Culture Amp `xxx Culture Amp`
+* BambooHR `xxx BambooHR`
 * Namely `KPA/TPHAEUPL/HREU`
-* WorkDay `KPA/WO*RBG/TKAEU`
-* ELMO `EL/PHOE/KPA*EZ`
+* WorkDay `HRO*ER/WO*RBG/TKAEU`
+* ELMO `*URP/EL/PHOE`
 * Greenhouse `KPA/TKPWRAOEPB/HOUS`
 * ADP `A*PD`
 * UltiPro `ULT/PROE`
-* Zenefits `PW*EFS`
+* Zenefits `xxx Zenefits`
