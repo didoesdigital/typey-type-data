@@ -1,13 +1,13 @@
 {
 "TPHAOURPBS": "neurons",
-"PWAEUS/A*L": "basal",
+"PWA*EUFL": "basal",
 "TKOFRL": "dorsal",
 "PROEFRT": "posterior",
 "PRAOEURLT": "parietal",
 "ORB/TAL": "orbital",
 "TPROPBL": "frontal",
 "PRE/TPROPBL": "prefrontal",
-"SKWRAO*EURS": "gyrus",
+"SKWRAOEURS": "gyrus",
 "TKPWHRA*": "ganglia",
 "STRAO*EUPL": "striatum",
 "KOR/TEBGS": "cortex",
@@ -18,6 +18,6 @@
 "SEUPBG/HRAT": "cingulate",
 "S*UPLT/AER": "supplementary",
 "EUPBS/HRA": "insula",
-"HEUP/KA*PLS": "hippocampus",
+"HEUP/KAPLS": "hippocampus",
 "HEUP/KA*PL/A*L": "hippocampal"
 }

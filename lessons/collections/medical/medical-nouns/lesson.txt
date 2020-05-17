@@ -1,24 +1,23 @@
 Medical nouns
 
 'neurons': TPHAOURPBS
-'basal': PWAEUS/A*L
+'basal': PWA*EUFL
 'dorsal': TKOFRL
 'posterior': PROEFRT
 'parietal': PRAOEURLT
 'orbital': ORB/TAL
 'frontal': TPROPBL
 'prefrontal': PRE/TPROPBL
-'gyrus': SKWRAO*EURS
+'gyrus': SKWRAOEURS
 'ganglia': TKPWHRA*
 'striatum': STRAO*EUPL
 'cortex': KOR/TEBGS
 'lobe': HROEB
 'amygdala': A/PHEUG/TKHRA
-'sensory': SO*EURPBS or SEPBS/REU
-'anterior': AERPBT or APBT/KWROR or KWROERPBT
+'sensory': SO*EURPBS
+'anterior': AERPBT
 'cingulate': SEUPBG/HRAT
-'supplementary': S*UPLT/AER or SPHREPLT/AER
+'supplementary': S*UPLT/AER
 'insula': EUPBS/HRA
-'hippocampus': HEUP/KA*PLS
+'hippocampus': HEUP/KAPLS
 'hippocampal': HEUP/KA*PL/A*L
-ignore_characters='^'

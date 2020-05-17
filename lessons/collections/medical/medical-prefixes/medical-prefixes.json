@@ -1,8 +1,8 @@
 {
-"TKORS/KWRO": "{dorso^}",
-"TPH*UR": "{neuro^}",
+"TKORS/SKWRO": "dorso^",
+"TPHAO*UR": "neuro^",
 "TPH*UR/STEUPL/HRAEUGS": "neurostimulation",
-"SOEPLT": "{somato^}",
-"SOEPLT/SO*EURPBS": "somatosensory",
-"TAL/KAPB/KAPB/KWRAL": "{talocancaneal^}"
+"SOEPLT": "somato^",
+"SOEPLT/SOEURPBS": "somatosensory",
+"TAL/KAPB/KAPB/KWRAL": "talocancaneal^"
 }
