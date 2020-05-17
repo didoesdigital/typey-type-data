@@ -1,141 +1,139 @@
 Ruby
 
-'ruby': RO*EUB
-''2.2.0'': A*E #T- P-P #T- P-P #O AE
-'{}': TPR-BGT TPR*BGT
+'ruby': RAOU/PWEU
+''2.2.0'': AE #T- TP-PL #T- TP-PL #O AE
+'{}': WUZ/WUZ
 'source': S-RS
-''https://rubygems.org'': A*E HAOEPTS KHR-PB OEU OEU RO*EUB TK-LS SKWREPLS P-P ORG AE
+''https://rubygems.org'': AE HAOEPTS STPH-FPLT OEU OEU RO*EUB/SKWREPLS TP-PL O*ERG AE
 'require': RAOEUR
-''rubygems'': A*E RO*EUB TK-LS SKWREPLS AE
-''json'': A*E SKWRO*FPB AE
+''rubygems'': AE RO*EUB/SKWREPLS AE
+''json'': AE SKWROFPB AE
 'gem': SKWREPL
-''rails',': A*E RAEULS AE KW-BG
-''3.2.21'': A*E #P- P-P #T- P-P #STEU AE
-''mysql2',': A*E PHAOEU/SKW-L TK-LS #T- AE KW-BG
-''~>': A*E T*LD A*EPBG
-'0.3.13'': #O P-P #P- P-P #S #P- AE
-''jquery-rails'': A*E SKWR*/KWAO*ER H-PB RAEULS AE
-''sinatra'': A*E STPHAT/RA AE
-''nokogiri'': A*E TPHO/KO/TKPWEU/REU AE
-''devise'': A*E TKWAOEUZ AE
-'group': TKPWRAOUP
-':production': KHR-PB PRUBGS
-':development': KHR-PB SREPLT
-':test': KHR-PB TEF
-':cucumber': KHR-PB KAOUBG/PWER
+''rails',': AE HRO*ER/RA*EULS AE KW-BG
+''3.2.21'': AE #P- TP-PL #T- TP-PL 12EU AE
+''mysql2',': AE PHAOEU/SKW-L/2 AE KW-BG
+''~>': AE T*LD A*EPBG
+'0.3.13'': #O TP-PL #P- TP-PL 13 AE
+''sinatra'': AE HRO*ER/STPHAT/RA AE
+''nokogiri'': AE TPHO/KO/TKPWEU/REU AE
+''devise'': AE TKWAOEUZ AE
+'group': TKPWROUP
+':production': STPH-FPLT PROUBGS
+':development': STPH-FPLT SREPLT
+':test': STPH-FPLT TEFT
+':cucumber': STPH-FPLT KAOUBG/PWER
 'do': TKO
 'end': EPBD
-'VERSION': SRERGS
-'=': KW*L
+'VERSION': *URP/SRERGS
+'=': KWA*LS
 '{': TPR-BGT
-'=>': KW*L A*EPBG
+'=>': HARB/RO*BGT
 '}': TPR*BGT
-'File': TPAOEUL
-'.expand_path': P-P EBGS/PAPBD RUPBD PA*T
-'('../config': PREPB AE P-P P-P OEU KAUPB/TPEUG
+'File': KPA/TPAOEUL
+'.expand_path': TP-PL EBGS/PAPBD RUPBD PA*T
+'('../config': PREPB AE TP-PL TP-PL OEU KOPB/TP*EUG
 '/application',': OEU PAEUBGS AE KW-BG
-'__FILE__)': RUPBD RUPBD TPAOEUL RUPBD RUPBD PR*EPB
-'Thing::Application': THEUPBG KHR-PB PAEUBGS
-'.load_tasks': P-P HRAOD RUPBD TAFBGS
+'__FILE__)': RUPBD RUPBD *URP/TPAOEUL RUPBD RUPBD PR*EPB
+'Thing::Application': KPA/THEUPBG STPH-FPLT STPH-FPLT KPA/PAEUBGS
+'.load_tasks': TP-PL HRAOD RUPBD TAFBGS
 'if': TP
 'Rails': RA*EULS
-'.env': P-P TPH*FPB
-'.development?': P-P SREPLT H-F
+'.env': TP-PL TPH*FPB
+'.development?': TP-PL SREPLT H-F
 '||': PAO*EUP PAO*EUP
-'.test?': P-P TEF H-F
-''rspec-rerun/tasks'': A*E R* SP*EBG H-PB RE/RUPB OEU TAFBGS AE
+'.test?': TP-PL TEFT H-F
+''rspec-rerun/tasks'': AE R*/SP*EBG H-PB RE/RUPB OEU TAFBGS AE
 'task': TAFBG
 'default:': TKEFLT STPH-FPLT
-''rspec-rerun:spec'': A*E R* SP*EBG H-PB RE/RUPB KHR-PB SP*EBG AE
+''rspec-rerun:spec'': AE R*/SP*EBG H-PB RE/RUPB STPH-FPLT SP*EBG AE
 'ARGV': A*RG/SR*
-'.size': P-P SAOEUZ
+'.size': TP-PL SAOEUZ
 'exit': KPEUT
 '1': #S
-'.open': P-P OEP
-'(ARGV[0],': PREPB A*RG/SR* PWR-BGT #O TK-LS PWR*BGT KW-BG
-''r:utf-8')': A*E R* KHR-PB U*FT TK-LS #L AE PR*EPB
-''w:utf-8')': A*E W* KHR-PB U*FT TK-LS #L AE PR*EPB
+'.open': TP-PL OEP
+'(ARGV[0],': PREPB A*RG/SR* PWR-BGT #O PWR*BGT KW-BG
+''r')': AE R* AE PR*EPB
+''w')': AE W* AE PR*EPB
 '|words|': PAO*EUP WORDZ PAO*EUP
-'dict.puts': TKEUBGT P-P PUTS
-'"{"': KW-GS TPR-BGT KR-GS
-'Regexp': KPA* REG/EBGS
-'.new': P-P TPHU
-''(['': A*E PREPB PWR-BGT AE
+'dict.puts': TKEUBGT TP-PL PUTS
+'"{"': KR-GS TPR-BGT KR-GS
+'Regexp': KPA/REG/EBGS
+'.new': TP-PL TPHU
+''(['': AE PREPB PWR-BGT AE
 '+': PHR*US
-'.keys': P-P KAOES
-'.map': P-P PHAP
+'.keys': TP-PL KAOES
+'.map': TP-PL PHAP
 '|punk|': PAO*EUP PUPBG PAO*EUP
-'.escape': P-P E/SKAEUP
+'.escape': TP-PL SKAEP
 'punk': PUPBG
-''])'': A*E PR*EPB PWR*BGT AE
-'.rstrip': P-P R* STREUP
+''])'': AE PWR*BGT PR*EPB AE
+'.rstrip': P-P/R*/STREUP
 'next': TPHEGT
-'.empty?': P-P EPLT H-F
+'.empty?': TP-PL EPLT H-F
 '[word]': PWR-BGT WORD PWR*BGT
 'else': ELS
-'%("#{word}")': PERS PREPB KR-GS HA*ERB TPR-BGT WORD TPR*BGT KR-GS PR*EPB
+'%("#{word}")': P*ERS PREPB KR-GS HA*ERB TPR-BGT WORD TPR*BGT KR-GS PR*EPB
 'JSON': SKWRO*FPB
-'.parse': P-P PARS
-'.join(',')': P-P SKWROEUPB PREPB AE KW-BG AE PR*EPB
-'"'#{line}':': KW-GS AE HA*ERB TPR-BGT HRAOEUPB TPR*BGT AE STPH-FPLT
+'.parse': TP-PL PARS
+'.join(',')': TP-PL SKWROEUPB PREPB AE KW-BG AE PR*EPB
+'"'#{line}':': KR-GS AE HA*ERB TPR-BGT HRAOEUPB TPR*BGT AE STPH-FPLT
 '#{translation}"': HA*ERB TPR-BGT THRAEUGS TPR*BGT KR-GS
 'class': KHRAS
-'<': HR*PB
-'ContentsController': KAUPB/TEPBTS KPA* KROEL/*ER
-'before_filter': PW-FR RUPBD TPEUL/TER
-'authorize!': THOR SKHRAPL
+'<': AEPBG
+'before_filter': PW-FR/TP*EURLT
+'authorize!': THOR/SKHRAPL
 'def': TK-F
 'show': SHOE
-'destroy': STROEU
+'destroy': STKROEU
 'index': TKEUPBGS
 'list': HR*EUS
-'update': AUP/TKEUT
+'update': AUP/TKAEUT
 'new': TPHU
-'@resource': KWRAT ROURS
-'.save!': P-P SAF SKHRAPL
-'flash[:success]': TPHRARB PWR-BGT KHR-PB SKES PWR*BGT
+'@resource': KWRAT SRORS
+'.save!': TP-PL SAF SKHRAPL
+'flash[:success]': TPHRARB/PWR-BGT/SKES
 'redirect_to': RE/TKREBGT RUPBD TO
 'blog_post_path': PWHROG RUPBD POEFT RUPBD PA*T
-'params[:email]': PRA*PL/-S PWR-BGT KHR-PB AOE/PHAEUL PWR*BGT
+'params[:email]': PRA*PL/-S PWR-BGT STPH-FPLT AOE/PHAEUL PWR*BGT
 'each': AOEFP
 'link_to': HR*EUPBG RUPBD TO
 'has_many': HAS RUPBD PHAEPB
-':integer': KHR-PB SPWE/SKWRER
-':datetime': KHR-PB TKAEUT TK-LS TAOEUPL
-':string(255)': KHR-PB STREUPBG PREPB #T- #A #A PR*EPB
-':text': KHR-PB TEGT
-':decimal(8,7)': KHR-PB TKES/PHAL PREPB #L KW-BG #P PR*EPB
-':boolean': KHR-PB PWAOL/KWRAPB
+':integer': STPH-FPLT SPWE/SKWRER
+':datetime': KHR-PB/TKAEUT/TK-LS/TAOEUPL
+':string(255)': KHR-PB/STREUPBG/PREPB/#T-/#A/#A/PR*EPB
+':text': STPH-FPLT TEGT
+':decimal(8,7)': STPH-FPLT TKES/PHAL PREPB #L KW-BG #-P PR*EPB
+':boolean': STPH-FPLT HRO*ER/PWAOL/KWRAPB
 'not': TPHOT
 'false': TPALS
 'true': TRAOU
-'unless': TP-LS
+'unless': TPH-LS
 '||=': PAO*EUP PAO*EUP KWA*LS
-'<<-ERROR': HR*PB/HR*PB H-PB RO*ER
-'.html_safe': P-P H*PLT RUPBD SAEUF
+'<<-ERROR': HAOER/TKO*BG/ROEUR
+'.html_safe': P-P/H*PLT/RUPBD/SAEUF
 'include': KHRU
-'attr_reader': AT T* R* RUPBD RAERD
-'attr_writer': AT T* R* RUPBD WREUR
-'attr_accessor': AT T* R* RUPBD KPES O*R
+'attr_reader': A*RT/RAERD
+'attr_writer': A*RT/WREUR
+'attr_accessor': A*RT/SESZ
 'case': KAEUS
 'when': WHEPB
 'raise': RAEUZ
 '&&': SPHAPBD/SPHAPBD
 '==': KWA*LS/KWA*LS
-'.try': P-P TREU
+'.try': TP-PL TREU
 'attributes': TR-BTS
 'self': S*EF
 'set_page_title': SET RUPBD PAEUPBLG RUPBD TAOEULT
-'_links.html.erb': RUPBD HR*EUPBGS P-P H*PLT P-P ERB
-'<%=': AEPBG PERS KWA*LS
-'<%': AEPBG PERS
-'%>': PERS A*EPBG
+'_links.html.erb': RUPBD/HR*EUPBGS/P-P/H*PLT/P-P/ERB
+'<%=': AEPBG P*ERS KWA*LS
+'<%': AEPBG P*ERS
+'%>': P*ERS A*EPBG
 'content_tag': KAUPBT RUPBD TAG
 'protected': PREBGTD
-'private': RAOEUFT
+'private': PRAOEUFT
 'return': RURPB
 'initialize': TPHEURB/HRAOEUZ
-'NULL': KPA*E TPHUL
+'NULL': *URP/TPHUL
 'nil': TPHEUL
 'rescue': RES/KAOU
-'.blank?': P-P PWHRAPBG H-F
+'.blank?': TP-PL PWHRA*PBG H-F
