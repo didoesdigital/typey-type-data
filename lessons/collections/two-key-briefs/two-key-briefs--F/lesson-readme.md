@@ -1,4 +1,4 @@
-# Two-key Briefs F
+# Two-key briefs *-F
 
 * of it `T-F`
 * confidence `K-F`
@@ -9,5 +9,5 @@
 * every `EF`
 * you've `UF`
 * ever `-FR`
-* . `-FP`
+* . `TP-PL`
 * of the `-FT`

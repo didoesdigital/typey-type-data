@@ -1,4 +1,4 @@
-# Two-key Briefs P
+# Two-key briefs *-P
 
 * company `K-P`
 * WordPress `W-P`

@@ -1,10 +1,10 @@
-# Two-key Briefs K
+# Two-key briefs K-*
 
 * ask `SK`
 * did `TK`
 * examine `KP`
 * request `KW`
-* charge `KH`
+* charge `KHARPBLG`
 * consider `KR`
 * could `KO`
 * he can `KE`

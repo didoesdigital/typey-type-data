@@ -1,4 +1,4 @@
-# Two-key Briefs O
+# Two-key briefs O-*
 
 * so `SO`
 * to `TO`
@@ -12,4 +12,4 @@
 * op `OP`
 * ought `OT`
 * odd `OD`
-* 00 `OZ`
+* 00 `#-Z`

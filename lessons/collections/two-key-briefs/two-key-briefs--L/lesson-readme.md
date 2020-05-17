@@ -1,9 +1,9 @@
-# Two-key Briefs L
+# Two-key briefs *-L
 
 * it'll `T-L`
-* historical `H-L`
+* historical `HOEURL`
 * recall `-RL`
-* al `AL`
+* al `HRO*ER/AL`
 * El `EL`
 * you'll `UL`
 * willing `-LG`

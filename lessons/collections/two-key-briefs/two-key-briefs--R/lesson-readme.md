@@ -1,4 +1,4 @@
-# Two-key Briefs R
+# Two-key briefs *-R
 
 * interest `TR`
 * consider `KR`

@@ -1,4 +1,4 @@
-# Two-key Briefs U
+# Two-key briefs U-*
 
 * you is `SU`
 * you can `KU`

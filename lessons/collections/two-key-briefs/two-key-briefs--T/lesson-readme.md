@@ -1,4 +1,4 @@
-# Two-key Briefs T
+# Two-key briefs *-T
 
 * is the `S-T`
 * account `K-T`

@@ -1,4 +1,4 @@
-# Two-key Briefs G
+# Two-key briefs *-G
 
 * something `S-G`
 * kilogram `K-G`

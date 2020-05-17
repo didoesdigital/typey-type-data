@@ -1,4 +1,4 @@
-# Two-key Briefs B
+# Two-key briefs *-B
 
 * somebody `S-B`
 * tuberculosis `T-B`

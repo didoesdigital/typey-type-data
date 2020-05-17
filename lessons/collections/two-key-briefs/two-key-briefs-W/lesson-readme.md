@@ -1,9 +1,9 @@
-# Two-key Briefs W
+# Two-key briefs W-*
 
 * request `KW`
 * about `PW`
 * were `WR`
-* was `WA`
+* was `WAS`
 * would `WO`
 * we `WE`
 * with you `WU`

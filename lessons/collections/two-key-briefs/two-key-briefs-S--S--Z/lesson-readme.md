@@ -1,4 +1,4 @@
-# Two Key Briefs S S Z
+# Two-key briefs S-*, *-S, and *-Z
 
 * is it `ST`
 * ask `SK`
