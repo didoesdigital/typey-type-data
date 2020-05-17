@@ -1,0 +1,7 @@
+# Two-word briefs * is
+
+* then is `STHEPB`
+* week is `SWAOEBG`
+* whose is `SWHOZ`
+* because it `TPWAUS`
+* without it `TWOUT`
