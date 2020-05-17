@@ -549,6 +549,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/jquery/lesson.txt",
+    "wordCount": 17,
     "suggestedNext": "/collections/tech/haxe/lesson.txt"
   },
   {
@@ -557,6 +558,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/haxe/lesson.txt",
+    "wordCount": 23,
     "suggestedNext": "/collections/tech/css-alignment/lesson.txt"
   },
   {
@@ -565,6 +567,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/css-alignment/lesson.txt",
+    "wordCount": 15,
     "suggestedNext": "/collections/tech/css-media-object/lesson.txt"
   },
   {
@@ -573,6 +576,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/css-media-object/lesson.txt",
+    "wordCount": 13,
     "suggestedNext": "/collections/tech/css-declarations/lesson.txt"
   },
   {
@@ -581,6 +585,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/css-declarations/lesson.txt",
+    "wordCount": 26,
     "suggestedNext": "/collections/tech/ruby/lesson.txt"
   },
   {
@@ -589,6 +594,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/ruby/lesson.txt",
+    "wordCount": 137,
     "suggestedNext": "/collections/tech/html/lesson.txt"
   },
   {
@@ -597,6 +603,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/html/lesson.txt",
+    "wordCount": 25,
     "suggestedNext": "/collections/tech/git/lesson.txt"
   },
   {
@@ -605,6 +612,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/git/lesson.txt",
+    "wordCount": 24,
     "suggestedNext": "/collections/tech/markdown/lesson.txt"
   },
   {
@@ -613,6 +621,7 @@
     "category": "Collections",
     "subcategory": "Tech",
     "path": "/collections/tech/markdown/lesson.txt",
+    "wordCount": 21,
     "suggestedNext": "/collections/medical/medical-suffixes/lesson.txt"
   },
   {
@@ -621,6 +630,7 @@
     "category": "Collections",
     "subcategory": "Medical",
     "path": "/collections/medical/medical-suffixes/lesson.txt",
+    "wordCount": 8,
     "suggestedNext": "/collections/medical/medical-nouns/lesson.txt"
   },
   {
@@ -629,6 +639,7 @@
     "category": "Collections",
     "subcategory": "Medical",
     "path": "/collections/medical/medical-nouns/lesson.txt",
+    "wordCount": 21,
     "suggestedNext": "/collections/medical/medical-prefixes/lesson.txt"
   },
   {
@@ -637,6 +648,7 @@
     "category": "Collections",
     "subcategory": "Medical",
     "path": "/collections/medical/medical-prefixes/lesson.txt",
+    "wordCount": 6,
     "suggestedNext": "/collections/human-resources/hris-vocabulary/lesson.txt"
   },
   {
@@ -645,6 +657,7 @@
     "category": "Collections",
     "subcategory": "Human resources (HR)",
     "path": "/collections/human-resources/hris-vocabulary/lesson.txt",
+    "wordCount": 136,
     "suggestedNext": "/collections/two-word-briefs-same-beginnings/how/lesson.txt"
   },
   {
