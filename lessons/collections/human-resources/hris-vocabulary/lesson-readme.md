@@ -127,12 +127,12 @@
 * efficiency `AOERB`
 * integrate `SPWE/TKPWRAEUT`
 * integration `SPWE/TKPWRAEUGS`
-* Culture Amp `xxx Culture Amp`
-* BambooHR `xxx BambooHR`
+* Culture Amp `KURPLT`
+* BambooHR `PWAO*PL`
 * Namely `KPA/TPHAEUPL/HREU`
-* WorkDay `HRO*ER/WO*RBG/TKAEU`
+* Workday `WO*RBG/TKAEU`
 * ELMO `*URP/EL/PHOE`
 * Greenhouse `KPA/TKPWRAOEPB/HOUS`
 * ADP `A*PD`
 * UltiPro `ULT/PROE`
-* Zenefits `xxx Zenefits`
+* Zenefits `PW*EFS`
