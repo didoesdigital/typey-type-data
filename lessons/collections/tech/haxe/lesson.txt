@@ -1,27 +1,25 @@
 Haxe
 
-'package;': PAPBLG/SKHR*PB
+'package;': PAPBLG STPH*FPLT
 'import': EUPL/PORT
-'openfl.': OEP/TK-LS/TP*/HR*P-P
-'display.': STKPHRAEU
-'Sprite;': KPA/SPRAOEUT/SKHR*PB
+'openfl.': OEP/TK-LS/TP*/HR*/P-P
+'display.': TKPHRAEU TP-PL
+'Sprite;': KPA/SPRAOEUT STPH*FPLT
 'class': KHRAS
 'Main': KPA/PHAEUPB
-'extends': EBGS/TEPBDZ
+'extends': ST*EPBDZ
 'Sprite': KPA/SPRAOEUT
 '{': TPR-BGT
 'public': PHREUBG
-'function': TPBGS
+'function': TPUBGS
 'new': TPHU
-'()': PREPBZ
+'()': PREPB PR*EPB
 '{': TPR-BGT
-'super': SAO*UP
-'();': PREPBZ/SKHR*PB
-'trace(': TRAEUS/PREPB
-'"Hello': KW-GS/KPA/HEL/HRO
-'World!"': KPA/WORLD/KPHR/KR-GS
-');': PREPBG/SKHR*PB
+'super': SPER
+'();': PREPB PR*EPB STPH*FPLT
+'trace(': TRAEUS PREPB
+'"Hello': KR-GS KPA/H-L
+'World!"': KPA/WORLD SKHRAPL KR-GS
+');': PR*EPB STPH*FPLT
 '}': TPR*BGT
 '}': TPR*BGT
-case_sensitive=true
-notice_spaces=true
