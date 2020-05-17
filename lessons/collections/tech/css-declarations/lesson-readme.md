@@ -1,4 +1,4 @@
-# CSS
+# CSS declarations
 
 * border `PWRORD`
 * calc `KA*LG`
@@ -7,20 +7,20 @@
 * line `HRAOEUPB`
 * link `HR*EUPBG`
 * visited `SREUFTD`
-* focus `TPOEUPG`
+* focus `TPOEUBG`
 * hover `HOFR`
 * active `TAEF`
-* media query `PHO*EUD KWAOER/REU`
-* media queries `PHO*EUD KWAO*ERS`
-* multiple `PH-HL`
+* media query `PHO*EUD/KWAOER/REU`
+* media queries `PHO*EUD/KWAO*ERS`
+* multiple `PH-PL`
 * none `TPHOPB`
 * overflow `AUFR/TPHROE`
 * xs `KP*S`
 * sm `S*PL`
 * md `*PLD`
 * lg `HR*PBLG`
-* 960px `0*69 P-BGS`
-* 1.5em `1 P-P 5 *EPL`
+* 960px `0*69/P-BGS`
+* 1.5em `1/P-P/5/*EPL`
 * z-index `STKPWEUPBGS`
 * css `KR*S`
 * scss `SKR*S`
