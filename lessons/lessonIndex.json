@@ -586,6 +586,15 @@
     "subcategory": "Tech",
     "path": "/collections/tech/css-declarations/lesson.txt",
     "wordCount": 26,
+    "suggestedNext": "/collections/tech/react/lesson.txt"
+  },
+  {
+    "title": "React",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/react/lesson.txt",
+    "wordCount": 60,
     "suggestedNext": "/collections/tech/git/lesson.txt"
   },
   {
