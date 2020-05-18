@@ -4,28 +4,27 @@ React
 'jsx': SKWR-S/KP*
 'const': KO*PBS
 'element': HREPLT
-'ReactDOM.render();': RAOEBGT/RAOEBGT/TKOPL TP-PL RERPBD PREPB PR*EPB STPH*FPLT
-'document.getElementById('root')': TKOUPLT/P-P/TKPWET/HREPLT/PWEU/EUD/PR*EPBS/AE/RAOT/AE
+'ReactDOM.render()': RAOEBGT/RAOEBGT/TKOPL/P-P/RERPBD/PR*EPBS
+'document.getElementById('root')': TKAOUPLT/P-P/TKPWET/HREPLT/PWEU/EUD/PREPB/AE/TK-LS/RAOT/AE/PR*EPB
 'props': PROPS
 'className': KHRAS/TPHA*EUPL
 'children': KHEURPB
 'class': KHRAS
 'extends': ST*EPBDZ
-'React.Component': RAO*EBGT TP-PL KPA/KPOEPBT
+'React.Component': RAOEBGT/RAOEBGT/KPO*EPBT
 'render': RERPBD
 'return': RURPB
-'this.props.': TH TP-PL PROPS TP-PL
-'this.context': TH TP-PL KEGT
+'this.props.': S-P/TH-P/PROPS/P-P
+'this.context': S-P/TH-P/K*EGT
 'this.setState': S-P/TH-P/SET/STA*ET
 'componentDidMount': S-P/KPOEPBT/TKEUD/PHO*UPBT
-'componentDidUpdate': S-P/KPOEPBT/TKEUD/A*UD
-'componentWillUnmount': S-P/KPOEPBT/WEUL/UPB/PHO*UPBT/PR*EPBS
+'componentDidUpdate': S-P/KPOEPBT/TKEUD/AUD
+'componentWillUnmount': S-P/KPOEPBT/WEUL/UPB/PHO*UPBT
 'componentDidCatch': S-P/KPOEPBT/TKEUD/KA*FP
-'getDerivedStateFromError': S-P/TKPWET/TKRAOEUFD/STAEUT/TPR/ROEUR
-'{}': WUZ/WUZ
-'=>': KWA*LS A*EPBG
+'getDerivedStateFromError': S-P/TKPWET/TKRAOEUFD/STAEUT/TPR/RO*EUR
+'=>': S-P/TPRO*E
 '&&': SKP*Z
-'||': OR*Z
+'||': O*RZ
 '{?:}': TPR-BGT H-F STPH-FPLT TPR*BGT
 'null': TPHUL
 'key': KAOE
@@ -41,7 +40,7 @@ React
 'ErrorBoundary': ROEUR/PWOUPBD/AER
 'ref': R*EF
 'createRef': KRAOET/REF
-'ref.current': R*EF TP-PL KURPBT
+'ref.current': REF/P-P/K*URPBT
 'forwardRef': TPAORD/REF
 'Fragment': TPRAPLT/TPRAPLT
 'higherOrderComponent': HAOEUR/ORD/KPOEPBT
