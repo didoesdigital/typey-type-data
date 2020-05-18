@@ -541,24 +541,24 @@
     "subcategory": "User experience design",
     "path": "/collections/user-experience/ux-vocabulary/lesson.txt",
     "wordCount": 180,
-    "suggestedNext": "/collections/tech/jquery/lesson.txt"
+    "suggestedNext": "/collections/tech/markdown/lesson.txt"
   },
   {
-    "title": "jQuery",
+    "title": "Markdown",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Tech",
-    "path": "/collections/tech/jquery/lesson.txt",
-    "wordCount": 17,
-    "suggestedNext": "/collections/tech/haxe/lesson.txt"
+    "path": "/collections/tech/markdown/lesson.txt",
+    "wordCount": 21,
+    "suggestedNext": "/collections/tech/html/lesson.txt"
   },
   {
-    "title": "Haxe",
+    "title": "HTML",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Tech",
-    "path": "/collections/tech/haxe/lesson.txt",
-    "wordCount": 23,
+    "path": "/collections/tech/html/lesson.txt",
+    "wordCount": 25,
     "suggestedNext": "/collections/tech/css-alignment/lesson.txt"
   },
   {
@@ -586,24 +586,6 @@
     "subcategory": "Tech",
     "path": "/collections/tech/css-declarations/lesson.txt",
     "wordCount": 26,
-    "suggestedNext": "/collections/tech/ruby/lesson.txt"
-  },
-  {
-    "title": "Ruby",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "/collections/tech/ruby/lesson.txt",
-    "wordCount": 137,
-    "suggestedNext": "/collections/tech/html/lesson.txt"
-  },
-  {
-    "title": "HTML",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Tech",
-    "path": "/collections/tech/html/lesson.txt",
-    "wordCount": 25,
     "suggestedNext": "/collections/tech/git/lesson.txt"
   },
   {
@@ -613,15 +595,33 @@
     "subcategory": "Tech",
     "path": "/collections/tech/git/lesson.txt",
     "wordCount": 24,
-    "suggestedNext": "/collections/tech/markdown/lesson.txt"
+    "suggestedNext": "/collections/tech/ruby/lesson.txt"
   },
   {
-    "title": "Markdown",
+    "title": "Ruby",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Tech",
-    "path": "/collections/tech/markdown/lesson.txt",
-    "wordCount": 21,
+    "path": "/collections/tech/ruby/lesson.txt",
+    "wordCount": 137,
+    "suggestedNext": "/collections/tech/jquery/lesson.txt"
+  },
+  {
+    "title": "jQuery",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/jquery/lesson.txt",
+    "wordCount": 17,
+    "suggestedNext": "/collections/tech/haxe/lesson.txt"
+  },
+  {
+    "title": "Haxe",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/haxe/lesson.txt",
+    "wordCount": 23,
     "suggestedNext": "/collections/medical/medical-suffixes/lesson.txt"
   },
   {

@@ -701,23 +701,23 @@
   },
   {
     "author": "Typey Type",
-    "title": "jQuery",
+    "title": "Markdown",
     "subtitle": "",
     "category": "Collections",
-    "tagline": "Typey Type’s jQuery dictionary lets you write all the words needed for that lesson.",
-    "link": "/lessons/collections/tech/jquery/",
+    "tagline": "Typey Type’s Markdown dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/markdown/",
     "subcategory": "Tech",
-    "path": "/dictionaries/lessons/collections/tech/jquery/jquery.json"
+    "path": "/dictionaries/lessons/collections/tech/markdown/markdown.json"
   },
   {
     "author": "Typey Type",
-    "title": "Haxe",
+    "title": "HTML",
     "subtitle": "",
     "category": "Collections",
-    "tagline": "Typey Type’s Haxe dictionary lets you write all the words needed for that lesson.",
-    "link": "/lessons/collections/tech/haxe/",
+    "tagline": "Typey Type’s HTML dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/html/",
     "subcategory": "Tech",
-    "path": "/dictionaries/lessons/collections/tech/haxe/haxe.json"
+    "path": "/dictionaries/lessons/collections/tech/html/html.json"
   },
   {
     "author": "Typey Type",
@@ -751,26 +751,6 @@
   },
   {
     "author": "Typey Type",
-    "title": "Ruby",
-    "subtitle": "",
-    "category": "Collections",
-    "tagline": "Typey Type’s Ruby dictionary lets you write all the words needed for that lesson.",
-    "link": "/lessons/collections/tech/ruby/",
-    "subcategory": "Tech",
-    "path": "/dictionaries/lessons/collections/tech/ruby/ruby.json"
-  },
-  {
-    "author": "Typey Type",
-    "title": "HTML",
-    "subtitle": "",
-    "category": "Collections",
-    "tagline": "Typey Type’s HTML dictionary lets you write all the words needed for that lesson.",
-    "link": "/lessons/collections/tech/html/",
-    "subcategory": "Tech",
-    "path": "/dictionaries/lessons/collections/tech/html/html.json"
-  },
-  {
-    "author": "Typey Type",
     "title": "Git",
     "subtitle": "",
     "category": "Collections",
@@ -781,13 +761,33 @@
   },
   {
     "author": "Typey Type",
-    "title": "Markdown",
+    "title": "Ruby",
     "subtitle": "",
     "category": "Collections",
-    "tagline": "Typey Type’s Markdown dictionary lets you write all the words needed for that lesson.",
-    "link": "/lessons/collections/tech/markdown/",
+    "tagline": "Typey Type’s Ruby dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/ruby/",
     "subcategory": "Tech",
-    "path": "/dictionaries/lessons/collections/tech/markdown/markdown.json"
+    "path": "/dictionaries/lessons/collections/tech/ruby/ruby.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "jQuery",
+    "subtitle": "",
+    "category": "Collections",
+    "tagline": "Typey Type’s jQuery dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/jquery/",
+    "subcategory": "Tech",
+    "path": "/dictionaries/lessons/collections/tech/jquery/jquery.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "Haxe",
+    "subtitle": "",
+    "category": "Collections",
+    "tagline": "Typey Type’s Haxe dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/haxe/",
+    "subcategory": "Tech",
+    "path": "/dictionaries/lessons/collections/tech/haxe/haxe.json"
   },
   {
     "author": "Typey Type",
