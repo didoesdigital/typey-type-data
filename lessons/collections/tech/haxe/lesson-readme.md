@@ -7,7 +7,7 @@
 * Sprite; `KPA/SPRAOEUT STPH*FPLT`
 * class `KHRAS`
 * Main `KPA/PHAEUPB`
-* extends `ST*EPBDZ`
+* extends `EBGS/TEPBDZ`
 * Sprite `KPA/SPRAOEUT`
 * { `TPR-BGT`
 * public `PHREUBG`

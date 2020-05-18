@@ -10,7 +10,7 @@
 * className `KHRAS/TPHA*EUPL`
 * children `KHEURPB`
 * class `KHRAS`
-* extends `ST*EPBDZ`
+* extends `EBGS/TEPBDZ`
 * React.Component `RAOEBGT/RAOEBGT/KPO*EPBT`
 * render `RERPBD`
 * return `RURPB`
