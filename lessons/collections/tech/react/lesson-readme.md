@@ -25,7 +25,6 @@
 * => `S-P/TPRO*E`
 * && `SKP*Z`
 * || `O*RZ`
-* {?:} `TPR-BGT H-F STPH-FPLT TPR*BGT`
 * null `TPHUL`
 * key `KAOE`
 * id `EUD`
