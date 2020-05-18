@@ -751,6 +751,16 @@
   },
   {
     "author": "Typey Type",
+    "title": "React",
+    "subtitle": "",
+    "category": "Collections",
+    "tagline": "Typey Type’s React dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/collections/tech/react/",
+    "subcategory": "Tech",
+    "path": "/dictionaries/lessons/collections/tech/react/react.json"
+  },
+  {
+    "author": "Typey Type",
     "title": "Git",
     "subtitle": "",
     "category": "Collections",
