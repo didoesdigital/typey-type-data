@@ -586,6 +586,42 @@
     "subcategory": "Tech",
     "path": "/collections/tech/css-declarations/lesson.txt",
     "wordCount": 26,
+    "suggestedNext": "/collections/tech/javascript-keywords/lesson.txt"
+  },
+  {
+    "title": "JavaScript keywords",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-keywords/lesson.txt",
+    "wordCount": 43,
+    "suggestedNext": "/collections/tech/javascript-objects-properties-methods/lesson.txt"
+  },
+  {
+    "title": "JavaScript objects, properties, and methods",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-objects-properties-methods/lesson.txt",
+    "wordCount": 20,
+    "suggestedNext": "/collections/tech/javascript-html-event-handlers/lesson.txt"
+  },
+  {
+    "title": "JavaScript HTML event handlers",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-html-event-handlers/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/tech/javascript-dom-events/lesson.txt"
+  },
+  {
+    "title": "JavaScript DOM events",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-dom-events/lesson.txt",
+    "wordCount": 111,
     "suggestedNext": "/collections/tech/react/lesson.txt"
   },
   {
