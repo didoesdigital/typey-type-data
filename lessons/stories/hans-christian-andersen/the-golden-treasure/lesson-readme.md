@@ -48,7 +48,7 @@
 * It `KPA/T`
 * shone `SHO*EPB`
 * redder, `RED/ER KW-BG`
-* clearer `KHAOER/*ER`
+* clearer `KHRAOER/*ER`
 * through `THRU`
 * dark `TKARBG`
 * trees, `TRAOES KW-BG`
@@ -594,7 +594,7 @@
 * I'm `AOEUPL`
 * tired `TAOEURD`
 * these `THEZ`
-* complaints," `KHRAOEUPBS KW-BG KR-GS`
+* complaints," `KPHRAEUPBTS KW-BG KR-GS`
 * Fire-drum. `KPA/TPAOEUR H-PB TKRUPL TP-PL`
 * Again `KPA/TKPWEPB`
 * dawned; `TKAUPBD STPH*FPLT`

@@ -90,7 +90,7 @@
 * poetry `POEURT`
 * about?" `PW H-F KR-GS`
 * Then `KPA/THEPB`
-* studied `STUD/EUD`
+* studied `STOEUD`
 * till `TEUL`
 * became `PWAEUPL`
 * ill `EUL`
@@ -330,7 +330,7 @@
 * arrival `A/RAOEUFL`
 * Europe, `AO*URP KW-BG`
 * misrepresentation `PHEUS/REPGS`
-* exposed `SPOEDZ`
+* exposed `EBGS/POED/-D`
 * acknowledged, `ABG/TPHOPBLGD KW-BG`
 * as `AZ`
 * now, `TPHOU KW-BG`

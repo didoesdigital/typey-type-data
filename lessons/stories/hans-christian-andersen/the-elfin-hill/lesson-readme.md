@@ -88,7 +88,7 @@
 * thoroughly `THORL`
 * aired, `AEUR/-D KW-BG`
 * girls `TKPWEURLS`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * new `TPHU`
 * dances; `TKAPBS/-S STPH*FPLT`
 * something." `S-G TP-PL KR-GS`
@@ -143,7 +143,7 @@
 * ordered `ORD/-D`
 * be `-B`
 * hold `HOLD`
-* torch `TOFRB`
+* torch `TOFRPB`
 * dance, `TKAPBS KW-BG`
 * called. `KAULD TP-PL`
 * The `KPA/-T`

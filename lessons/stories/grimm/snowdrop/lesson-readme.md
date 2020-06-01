@@ -721,7 +721,7 @@
 * prince; `PREUPBS STPH*FPLT`
 * everything `EFRG`
 * pomp `POFRP`
-* splendour `SHREPBD/O*UR/A*U`
+* splendour `SHREPBD/O*R/A*U`
 * wedding. `WEGD TP-PL`
 * To `KPA/TO`
 * feast `TPAOEFT`

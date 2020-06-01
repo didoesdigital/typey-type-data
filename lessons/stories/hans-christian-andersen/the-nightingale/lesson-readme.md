@@ -243,7 +243,7 @@
 * Something, `KPA/S-G KW-BG`
 * appears, `A/PAOERS KW-BG`
 * may `PHAE`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * books." `PWAOBGS TP-PL KR-GS`
 * called `KAULD`
 * lords-in-waiting, `HRORDZ H-PB TPH H-PB WAEUGT KW-BG`

@@ -416,7 +416,7 @@
 * year. `KWRAOER TP-PL`
 * wagon, `WAG/OPB KW-BG`
 * brightness `PWRAOEUT/-PBS`
-* splendor `SHREPBD/O*R`
+* splendor `SPHREPBD/O*R`
 * me! `PHE SKHRAPL`
 * Something `KPA/S-G`
 * after, `AF KW-BG`
@@ -775,7 +775,7 @@
 * tremble," `TREPL/-BL KW-BG KR-GS`
 * he; `HE STPH*FPLT`
 * enjoy `TPHOEUPBLG`
-* splendor, `SHREPBD/O*R KW-BG`
+* splendor, `SPHREPBD/O*R KW-BG`
 * Dumpty `KPA/TK*UPLT/KWREU`
 * Ivede-Avede." `xxx Ivede H-PB xxx Avede TP-PL KR-GS`
 * quiet `KWAO*EUT`

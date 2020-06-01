@@ -226,7 +226,7 @@
 * noise. `TPHOEUS TP-PL`
 * Ostentation, `KPA/OS/TEPB/TAEUGS KW-BG`
 * pride, `PRAOEUD KW-BG`
-* splendor, `SHREPBD/O*R KW-BG`
+* splendor, `SPHREPBD/O*R KW-BG`
 * display `TKPHRAEU`
 * ruled, `RAOULD KW-BG`
 * fear `TPAOER`
@@ -822,7 +822,7 @@
 * large, `HRARPBLG KW-BG`
 * deep, `TKAOEP KW-BG`
 * blue `PWHRU`
-* dreamy `TKRAOE/PH*EU`
+* dreamy `TKRAOEPL/KWREU`
 * look, `HRAOBG KW-BG`
 * childlike `KHAOEULD/HRA*EBG`
 * smile `SPHAOEUL`
@@ -1100,7 +1100,7 @@
 * cunning `KUPBG`
 * weaver, `WAOEFR KW-BG`
 * thou `THO*U`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * teach `TAOEFP`
 * me `PHE`
 * perseverance. `PER/SAOEFRPBS TP-PL`
@@ -1543,7 +1543,7 @@
 * burnished `PWURPB/EURB/-D`
 * through. `THRU TP-PL`
 * With `KPA/W`
-* splendor `SHREPBD/O*R`
+* splendor `SPHREPBD/O*R`
 * dismal `TKEUS/PHAL`
 * dwelling! `TKWELG SKHRAPL`
 * glazing, `TKPWHRAEUGZ/-G KW-BG`

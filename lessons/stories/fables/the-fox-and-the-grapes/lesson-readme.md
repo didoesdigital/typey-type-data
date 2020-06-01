@@ -35,7 +35,7 @@
 * quench `KWEFRPB`
 * my `PHEU`
 * thirst," `THEUFRT KW-BG KR-GS`
-* quoth `KWO*ET`
+* quoth `KW*/*U/O*/T*/H*`
 * he. `HE TP-PL`
 * Drawing `KPA/TKRAUG`
 * back `PWABG`

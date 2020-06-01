@@ -214,7 +214,7 @@
 * heart, `HART KW-BG`
 * are `R`
 * willing `-LG`
-* divide `KWAOEUD`
+* divide `TKWAOEUD`
 * what `WHA`
 * have, `SR KW-BG`
 * luck. `HRUBG TP-PL`
@@ -264,7 +264,7 @@
 * soon `SAOPB`
 * opportunity `TAOUPBT`
 * pulling `PULG`
-* feather,' `TP*ET KW-BG AE`
+* feather,' `TP*ERT KW-BG AE`
 * as `AZ`
 * gone `TKPWOPB`
 * she `SHE`
@@ -280,7 +280,7 @@
 * afterwards, `A*FRDZ KW-BG`
 * thinking `THEUG`
 * how `HOU`
-* feather `TP*ET`
+* feather `TP*ERT`
 * herself, `H*ERS KW-BG`
 * scarcely `SKAEURS/HREU`
 * touched `TUFPD`

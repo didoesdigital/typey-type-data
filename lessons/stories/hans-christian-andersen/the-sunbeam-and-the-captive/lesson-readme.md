@@ -135,7 +135,7 @@
 * his `HEUS`
 * wings, `WEUPBGS KW-BG`
 * pecks `PEBGS`
-* feather `TP*ET`
+* feather `TP*ERT`
 * them, `THEPL KW-BG`
 * puffs `PUF/-S`
 * out, `OUT KW-BG`
@@ -176,7 +176,7 @@
 * spring `SPREUPBG`
 * wall. `WAUL TP-PL`
 * sound `SOUPBD`
-* hunter's `HURPBT AES`
+* hunter's `HUPB/TER AES`
 * horn, `HORPB KW-BG`
 * merry `PHER/REU`
 * full. `TPUL TP-PL`

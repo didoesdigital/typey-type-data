@@ -646,7 +646,7 @@
 * also `HR-S`
 * rise `RAOEUZ`
 * done, `TKOPB KW-BG`
-* splendor, `SHREPBD/O*R KW-BG`
+* splendor, `SPHREPBD/O*R KW-BG`
 * experience `SPAOERPBS`
 * happiness. `HAEP/-PBS TP-PL`
 * grand, `TKPWRAPBD KW-BG`

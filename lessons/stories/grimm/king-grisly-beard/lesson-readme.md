@@ -568,7 +568,7 @@
 * ill-treatment `EUL H-PB TRAOEPL`
 * me. `PHE TP-PL`
 * over: `OEFR STPH-FPLT`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * wisdom, `WEUZ/TKOPL KW-BG`
 * hold `HOLD`
 * our `OUR`

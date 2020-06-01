@@ -90,7 +90,7 @@
 * bee-hives, `PWAOE H-PB HAOEUFS KW-BG`
 * some `SOPL`
 * them `THEPL`
-* spacious `SPAERBS`
+* spacious `SPAEURBS`
 * "Huns' `KR-GS xxx Huns AE`
 * graves," `TKPWRAEUFS KW-BG KR-GS`
 * others `OERS`
@@ -239,7 +239,7 @@
 * couch, `KOUFP KW-BG`
 * holy `HOEUL`
 * words `WORDZ`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * come `KOPL`
 * mind: `PHAOEUPBD STPH-FPLT`
 * "If `KR-GS KPA/TP`

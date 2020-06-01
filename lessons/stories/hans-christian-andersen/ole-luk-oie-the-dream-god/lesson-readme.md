@@ -1085,7 +1085,7 @@
 * wind, `WEUPBD KW-BG`
 * rites `RAO*EUT/-S`
 * together `TOGT`
-* bind `PWEUPBD`
+* bind `PWAOEUPBD`
 * A `KPA/AEU`
 * loving `HRUFG`
 * Though `KPA/THOE`

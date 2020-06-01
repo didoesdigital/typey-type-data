@@ -101,7 +101,7 @@
 * herself `H*ERS`
 * beak, `PWAOEBG KW-BG`
 * little `HREUL`
-* feather `TP*ET`
+* feather `TP*ERT`
 * came `KAEUPL`
 * out. `OUT TP-PL`
 * "There `KR-GS KPA/THR`

@@ -92,7 +92,7 @@
 * end `EPBD`
 * him. `HEUPL TP-PL`
 * thus `THUS`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * Nothing `KPA/TPHOG`
 * escapes `ES/KAEUPS`
 * master's `PHAFRT AES`

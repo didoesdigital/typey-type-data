@@ -45,7 +45,7 @@
 * make `PHAEUBG`
 * pilgrimages `PEUL/TKPWREUPL/APBLGS`
 * tottering `xxx tottering`
-* splendors `SHREPBD/O*R/-S`
+* splendors `SPHREPBD/O*R/-S`
 * Southern `SO*URPB`
 * Asia. `A*ERB TP-PL`
 * In `KPA/TPH`

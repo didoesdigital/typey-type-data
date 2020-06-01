@@ -563,7 +563,7 @@
 * high, `HAOEU KW-BG`
 * said, `SAEUD KW-BG`
 * "Thou `KR-GS KPA/THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * present `PREPBT`
 * here `HAOER`
 * happiest `HAP/KWREFT`
@@ -651,7 +651,7 @@
 * much `PHUFP`
 * one, `WUPB KW-BG`
 * brandy `PWRAPBD/KWREU`
-* complaints `KHRAOEUPBS`
+* complaints `KPHRAEUPBTS`
 * stomach, `STUPL KW-BG`
 * especially `EPS`
 * medical `PHED/K-L`
@@ -910,7 +910,7 @@
 * roof `RAOF`
 * off; `OF STPH*FPLT`
 * said—a `SAEUD EPL/TKA*RB AEU`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * living `HREUFG`
 * years. `KWRAOERS TP-PL`
 * "If `KR-GS KPA/TP`
@@ -933,7 +933,7 @@
 * scarcely `SKAEURS/HREU`
 * carefully `KA*EUFL`
 * up. `UP TP-PL`
-* torch `TOFRB`
+* torch `TOFRPB`
 * lantern `HRAPB/TERPB`
 * reach `RAOEFP`
 * less `HRES`
@@ -1072,7 +1072,7 @@
 * garden, `TKPWA*RPB KW-BG`
 * allowed `HRO*UD`
 * witness `W-PBS`
-* splendor `SHREPBD/O*R`
+* splendor `SPHREPBD/O*R`
 * festivities. `TPEFT/EUFT/TEU/-S TP-PL`
 * Among `KPA/PHOPBG`
 * latter `HRAERT`

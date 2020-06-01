@@ -219,7 +219,7 @@ Something
 'will': HR
 'be': -B
 'an': APB
-'architect,': TREGT KW-BG
+'architect,': TREBGT KW-BG
 'which': WEU
 'will': HR
 'place': PHRAEUS
@@ -357,7 +357,7 @@ Something
 'be': -B
 'called': KAULD
 'an': APB
-'architect.': TREGT TP-PL
+'architect.': TREBGT TP-PL
 'I': EU
 'may': PHAE
 'even': AOEPB
@@ -598,7 +598,7 @@ Something
 'find': TPAOEUPBD
 'out': OUT
 'and': SKP
-'expose;': SPOES STPH*FPLT
+'expose;': SPO*ES STPH*FPLT
 'that': THA
 'will': HR
 'be': -B
@@ -1231,7 +1231,7 @@ Something
 'come': KOPL
 'to': TO
 'the': -T
-'architect,': TREGT KW-BG
+'architect,': TREBGT KW-BG
 'the': -T
 'third': THEURD
 'brother,': PWROER KW-BG
@@ -1263,7 +1263,7 @@ Something
 'to': TO
 'be': -B
 'an': APB
-'architect,': TREGT KW-BG
+'architect,': TREBGT KW-BG
 'a': AEU
 'high': HAOEU
 'and': SKP
@@ -1301,7 +1301,7 @@ Something
 'name': TPHAEUPL
 'from': TPR
 'the': -T
-'architect,': TREGT KW-BG
+'architect,': TREBGT KW-BG
 'and': SKP
 'the': -T
 'handsomest': H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*
@@ -1897,7 +1897,7 @@ Something
 'in': TPH
 'her': HER
 'full': TPUL
-'splendor,': SHREPBD/O*R KW-BG
+'splendor,': SPHREPBD/O*R KW-BG
 'I': EU
 'glanced': TKPWHRAPBS/-D
 'from': TPR
@@ -2524,13 +2524,13 @@ Something
 'has': HAS
 'brought.': PWRAUT TP-PL
 'What': KPA/WHA
-'dost': TKO/*T
+'dost': TK*/O*/S*/T*
 'thou': THO*U
 'bring?': PWREU H-F
 'I': EU
 'know': TPHOE
 'thou': THO*U
-'hast': HA*FT
+'hast': H*/A*/S*/T*
 'accomplished': PHREURBD
 'nothing,': TPHOG KW-BG
 'not': TPHOT
@@ -2571,7 +2571,7 @@ Something
 'something.': S-G TP-PL
 'But': KPA/PWUT
 'thou': THO*U
-'canst': K/*T
+'canst': K*/A*/TPH*/S*/T*
 'not': TPHOT
 'return': RURPB
 'to': TO
@@ -2741,7 +2741,7 @@ Something
 'here': HAOER
 'until': TPH-L
 'thou': THO*U
-'hast': HA*FT
+'hast': H*/A*/S*/T*
 'performed': PORPLD
 'one': WUPB
 'good': TKPWAOD

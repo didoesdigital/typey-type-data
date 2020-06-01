@@ -1065,7 +1065,7 @@
 * carrying `KAERG`
 * staff `STAF`
 * hand, `HAPBD KW-BG`
-* herd `HE*RD`
+* herd `H*ERD`
 * cows `KOUS`
 * oxen `OBGS/*EPB`
 * stumbled `STUPL/-BLD`

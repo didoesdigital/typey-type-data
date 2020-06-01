@@ -290,7 +290,7 @@
 * somebody `S-B`
 * look `HRAOBG`
 * after `AF`
-* pigs, `PAO*EGS KW-BG`
+* pigs, `PEUGZ KW-BG`
 * many." `PHAEPB TP-PL KR-GS`
 * Thus `KPA/THUS`
 * appointed `POEUPBD`
@@ -593,7 +593,7 @@
 * help `HEP`
 * bowing `PWOUG`
 * now `TPHOU`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * despise `STKPAOEUZ`
 * honest `HO*PBS`
 * appreciate `PRAOERB`

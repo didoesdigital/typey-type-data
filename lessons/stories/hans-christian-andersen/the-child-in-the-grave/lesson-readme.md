@@ -732,7 +732,7 @@
 * asked, `SK-D KW-BG`
 * "From `KR-GS KPA/TPR`
 * whence `WHEPBS`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * derived `TKRAOEUFD`
 * faith?" `TPA*EUT H-F KR-GS`
 * children, `KHEURPB KW-BG`

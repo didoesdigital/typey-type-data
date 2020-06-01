@@ -105,7 +105,7 @@
 * does `TKOS`
 * good-for-nothing `TKPWAOD H-PB TPOR H-PB TPHOG`
 * want `WAPBT`
-* parlour?' `PAR/HROUR/A*U H-F AE`
+* parlour?' `PAR/HROR/A*U H-F AE`
 * said `SAEUD`
 * they; `THE STPH*FPLT`
 * 'they `AE THE`

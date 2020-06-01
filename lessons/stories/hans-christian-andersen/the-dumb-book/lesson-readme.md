@@ -113,7 +113,7 @@
 * once `WUPBS`
 * energetic `TPH-RG/EUBG`
 * young `KWRUPBG`
-* studied `STUD/EUD`
+* studied `STOEUD`
 * languages, `HRAPBLGS KW-BG`
 * sang `SAPBG`
 * even `AOEPB`

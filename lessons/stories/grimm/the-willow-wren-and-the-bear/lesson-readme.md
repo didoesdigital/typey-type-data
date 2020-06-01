@@ -400,7 +400,7 @@
 * beg `PWEG`
 * pardon `PARD`
 * say `SAEU`
-* honourable `H*/O*/TPH*/O*/*U/R*/-BL`
+* honourable `HOPB/RABL/A*U`
 * do `TKO`
 * that.' `THA TP-PL AE`
 * 'Growler, `AE xxx Growler KW-BG`

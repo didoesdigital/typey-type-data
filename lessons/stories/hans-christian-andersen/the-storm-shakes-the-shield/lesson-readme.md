@@ -18,7 +18,7 @@
 * red `RED`
 * breeches `PWRAOEFP/-S`
 * coat, `KOET KW-BG`
-* feather `TP*ET`
+* feather `TP*ERT`
 * his `HEUS`
 * cap—for `KAP EPL/TKA*RB TPOR`
 * that's `THATS`

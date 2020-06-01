@@ -280,7 +280,7 @@
 * play. `PHRAEU TP-PL`
 * The `KPA/-T`
 * doctor `TKR`
-* prescribed `PREUBD`
+* prescribed `PRAOEUBD`
 * day `TKAEU`
 * should `SHO`
 * feet `TPAOET`

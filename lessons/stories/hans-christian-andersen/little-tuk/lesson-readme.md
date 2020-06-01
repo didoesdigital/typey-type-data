@@ -428,7 +428,7 @@
 * bay, `PWAEU KW-BG`
 * slopes `SHROEPS`
 * overgrown `AUFR/TKPWROEPB`
-* verdure, `SRER/SKWRUR KW-BG`
+* verdure, `KR*/*E/R*/TK*/*U/R*/*E KW-BG`
 * its `EUTS`
 * summit `SUPLT`
 * fine `TPAOEUPB`

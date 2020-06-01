@@ -950,7 +950,7 @@
 * created, `KRAOETD KW-BG`
 * amusing `A/PHAOUFG`
 * person `PERPB`
-* exposed `SPOEDZ`
+* exposed `EBGS/POED/-D`
 * satire." `SA/TAOEUR TP-PL KR-GS`
 * Such `KPA/SUFP`
 * tutor's `TAOURT AES`

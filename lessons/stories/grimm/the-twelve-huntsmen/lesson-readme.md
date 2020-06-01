@@ -336,7 +336,7 @@
 * servant, `SEFRB/APBT KW-BG`
 * disposed `TKEUS/POES/-D`
 * disclosed `TKEUS/HROES/-D`
-* project. `PROPBL TP-PL`
+* project. `PROPBLG TP-PL`
 * alone `A/HROEPB`
 * girls: `TKPWEURLS STPH-FPLT`
 * constraint, `SKRAEUPBT KW-BG`

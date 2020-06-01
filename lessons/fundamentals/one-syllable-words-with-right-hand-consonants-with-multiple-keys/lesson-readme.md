@@ -348,6 +348,7 @@
 * alms `AUPLS`
 * rack `RABG`
 * counts `KOUPBTS`
+* knots `TPHO*TS`
 * swarm `SWARPL`
 * hawk `HAUBG`
 * worms `WORPLS`

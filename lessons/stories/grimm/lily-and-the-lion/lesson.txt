@@ -844,7 +844,7 @@ Lily and the Lion
 'ray': RAEU
 'of': -F
 'the': -T
-'torch-light': TOFRB H-PB HRAOEUT
+'torch-light': TOFRPB H-PB HRAOEUT
 'should': SHO
 'fall': TPAUL
 'upon': POPB
@@ -1024,7 +1024,7 @@ Lily and the Lion
 'fall': TPAUL
 'a': AEU
 'white': WHAOEUT
-'feather,': TP*ET KW-BG
+'feather,': TP*ERT KW-BG
 'that': THA
 'will': HR
 'show': SHOE
@@ -1065,7 +1065,7 @@ Lily and the Lion
 'then': THEPB
 'a': AEU
 'white': WHAOEUT
-'feather': TP*ET
+'feather': TP*ERT
 'fell,': TPEL KW-BG
 'and': SKP
 'showed': SHOED
@@ -1143,7 +1143,7 @@ Lily and the Lion
 'missed': PHEUFD
 'the': -T
 'white': WHAOEUT
-'feather,': TP*ET KW-BG
+'feather,': TP*ERT KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -1190,7 +1190,7 @@ Lily and the Lion
 'and': SKP
 'the': -T
 'valley's': SRAL/KWREU AES
-'depth--hast': TK*EPT H-PB H-PB HA*FT
+'depth--hast': TK*EPT H-PB H-PB H*/A*/S*/T*
 'thou': THO*U
 'anywhere': TPHEUR
 'seen': SAOEPB
@@ -1251,7 +1251,7 @@ Lily and the Lion
 'over': OEFR
 'field': TPAOELD
 'and': SKP
-'grove--hast': TKPWROEF H-PB H-PB HA*FT
+'grove--hast': TKPWROEF H-PB H-PB H*/A*/S*/T*
 'thou': THO*U
 'nowhere': TPHO/WR
 'seen': SAOEPB
@@ -1307,7 +1307,7 @@ Lily and the Lion
 'and': SKP
 'under': TPH-PB
 'every': EF
-'leaf--hast': HRAOEF H-PB H-PB HA*FT
+'leaf--hast': HRAOEF H-PB H-PB H*/A*/S*/T*
 'thou': THO*U
 'not': TPHOT
 'seen': SAOEPB
@@ -1555,7 +1555,7 @@ Lily and the Lion
 'if,': TP KW-BG
 'therefore,': TH-FR KW-BG
 'thou': THO*U
-'dost': TKO/*T
+'dost': TK*/O*/S*/T*
 'forget': TPERGT
 'to': TO
 'throw': THROE

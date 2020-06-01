@@ -800,7 +800,7 @@
 * does `TKOS`
 * enchantment `EPB/KHAPLT`
 * seem `SAOEPL`
-* bind `PWEUPBD`
+* bind `PWAOEUPBD`
 * me?' `PHE H-F AE`
 * 'False `AE KPA/TPALS`
 * fickle `TPEUBG/*L`

@@ -207,7 +207,7 @@
 * pillow, `PEUL/OE KW-BG`
 * lay `HRAEU`
 * glittering `TKPWHREUT/ERG`
-* underneath; `UPBD/TPHO*ET STPH*FPLT`
+* underneath; `UPBD/TPHAO*ET STPH*FPLT`
 * same `SAEUPL`
 * happened `HAPD`
 * indeed `TPHAOEPBD`

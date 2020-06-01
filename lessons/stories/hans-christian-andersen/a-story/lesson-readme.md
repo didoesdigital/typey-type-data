@@ -429,7 +429,7 @@
 * wantonness—in `WAPB/TO*PB/-PBS EPL/TKA*RB TPH`
 * short, `SHORT KW-BG`
 * whole `WHOEL`
-* seven-coloured `SEFPB H-PB KHROURD/A*U`
+* seven-coloured `SEFPB H-PB KHROURD`
 * bow `PWOE`
 * sin. `SEUPB TP-PL`
 * therein, `THR-PB KW-BG`

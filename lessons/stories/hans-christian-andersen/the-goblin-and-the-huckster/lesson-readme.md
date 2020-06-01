@@ -615,7 +615,7 @@
 * reflect, `TPHREBGT KW-BG`
 * hesitated, `HES/TAEUT/-D KW-BG`
 * last, `HRAFT KW-BG`
-* divide `KWAOEUD`
+* divide `TKWAOEUD`
 * myself `PHAO*EUS`
 * between `TWAOEPB`
 * two; `TWO STPH*FPLT`

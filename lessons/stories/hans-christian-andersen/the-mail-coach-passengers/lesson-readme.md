@@ -37,8 +37,8 @@
 * clock `KHROBG`
 * striking `STRAOEUG`
 * twelve. `TWEFL TP-PL`
-* "Tan-ta-ra-ra, `KR-GS KPA/TAPB H-PB TAEU H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG`
-* tan-ta-ra-ra," `TAPB H-PB TAEU H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG KR-GS`
+* "Tan-ta-ra-ra, `KR-GS KPA/TAPB H-PB TA/A*U H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG`
+* tan-ta-ra-ra," `TAPB H-PB TA/A*U H-PB HRO*ER/RA H-PB HRO*ER/RA KW-BG KR-GS`
 * sounded `SOUPBD/-D`
 * horn, `HORPB KW-BG`
 * mail-coach `PHAEUL H-PB KOEFP`
@@ -47,7 +47,7 @@
 * up. `UP TP-PL`
 * The `KPA/-T`
 * clumsy `KHRUPL/SEU`
-* vehicle `SREBG`
+* vehicle `SRAOEBG`
 * stopped `STOPD`
 * gate `TKPWAET`
 * of `-F`
@@ -345,7 +345,7 @@
 * speaker `SPAOERBG`
 * only `OEPBL`
 * wanted `WAPBTD`
-* remind `R*EUPBD`
+* remind `RAO*EUPBD`
 * name, `TPHAEUPL KW-BG`
 * make `PHAEUBG`
 * an `APB`

@@ -735,7 +735,7 @@
 * warmth `WARPLT`
 * increased, `EUPB/KRAOEFD KW-BG`
 * decreased. `TKE/KRAOES/-D TP-PL`
-* complaint, `KPAEUPBT KW-BG`
+* complaint, `KPHRAEUPBT KW-BG`
 * sign. `SAOEUPB TP-PL`
 * One `KPA/WUPB`
 * morning `PHORPBG`

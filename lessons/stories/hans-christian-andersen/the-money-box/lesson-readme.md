@@ -163,7 +163,7 @@
 * them, `THEPL KW-BG`
 * least `HRAOEFT`
 * intention `SPWEPBGS`
-* expose `SPOES`
+* expose `SPO*ES`
 * themselves `TH*EPLS`
 * way, `WAEU KW-BG`
 * object `OBT`

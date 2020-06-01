@@ -100,11 +100,11 @@ The Three Languages
 'what': WHA
 'have': SR
 'you': U
-'learnt?'': HRERPBT/A*U H-F AE
+'learnt?'': HRERPBT H-F AE
 ''Father,': AE KPA/TPAER KW-BG
 'I': EU
 'have': SR
-'learnt': HRERPBT/A*U
+'learnt': HRERPBT
 'what': WHA
 'the': -T
 'dogs': TKOGS
@@ -125,7 +125,7 @@ The Three Languages
 'all': AUL
 'you': U
 'have': SR
-'learnt?': HRERPBT/A*U H-F
+'learnt?': HRERPBT H-F
 'I': EU
 'will': HR
 'send': SEPBD
@@ -162,13 +162,13 @@ The Three Languages
 'what': WHA
 'have': SR
 'you': U
-'learnt?'': HRERPBT/A*U H-F AE
+'learnt?'': HRERPBT H-F AE
 'He': KPA/HE
 'answered:': AEPBS/-D STPH-FPLT
 ''Father,': AE KPA/TPAER KW-BG
 'I': EU
 'have': SR
-'learnt': HRERPBT/A*U
+'learnt': HRERPBT
 'what': WHA
 'the': -T
 'birds': PWEURDZ
@@ -193,7 +193,7 @@ The Three Languages
 'precious': PRERBS
 'time': TAOEUPL
 'and': SKP
-'learnt': HRERPBT/A*U
+'learnt': HRERPBT
 'nothing;': TPHOG STPH*FPLT
 'are': R
 'you': U
@@ -253,7 +253,7 @@ The Three Languages
 'what': WHA
 'have': SR
 'you': U
-'learnt?'': HRERPBT/A*U H-F AE
+'learnt?'': HRERPBT H-F AE
 'he': HE
 'answered:': AEPBS/-D STPH-FPLT
 ''Dear': AE KPA/TKAER
@@ -262,7 +262,7 @@ The Three Languages
 'have': SR
 'this': TH
 'year': KWRAOER
-'learnt': HRERPBT/A*U
+'learnt': HRERPBT
 'what': WHA
 'the': -T
 'frogs': TPROGS
@@ -622,7 +622,7 @@ The Three Languages
 'I': EU
 'have': SR
 'likewise': HRAOEUBG/WAOEUS
-'learnt,': HRERPBT/A*U KW-BG
+'learnt,': HRERPBT KW-BG
 'from': TPR
 'their': THAEUR
 'discourse,': TKEUS/KORS KW-BG

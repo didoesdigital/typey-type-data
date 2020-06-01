@@ -267,7 +267,7 @@
 * cruel `KRAOUL`
 * villain, `SREUL/AEUPB KW-BG`
 * thou `THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * killed `KEULD`
 * friend `TPREPBD`
 * dog. `TKOG TP-PL`

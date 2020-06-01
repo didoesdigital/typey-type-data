@@ -666,7 +666,7 @@
 * baptism, `PWAPT/EUFPL KW-BG`
 * people. `PAOEPL TP-PL`
 * Thou `KPA/THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * willed `HR-D`
 * respect `R-PT`
 * command. `KPHAPBD TP-PL`
@@ -693,7 +693,7 @@
 * repentance. `RE/PEPB/TAPBS TP-PL`
 * understand `URPBD`
 * now. `TPHOU TP-PL`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * truth, `TRAO*UT KW-BG`
 * unless `TPH-LS`
 * name `TPHAEUPL`

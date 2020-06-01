@@ -525,7 +525,7 @@
 * what `WHA`
 * grief `TKPWRAOEF`
 * thou `THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * thy `THAO*EU`
 * mother" `PHOER KR-GS`
 * "Oh `KR-GS KPA/O*ERBGS`

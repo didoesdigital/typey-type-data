@@ -270,7 +270,7 @@
 * better `PWOERT`
 * do, `TKORBGS`
 * plan, `PHRAPB KW-BG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * tailoring `TAEUL/ORG`
 * beginning; `TKPWEUPB/-G STPH*FPLT`
 * needle, `TPHAO*ELD KW-BG`

@@ -78,7 +78,7 @@
 * piebald `PAOEU/PWAULD`
 * fool, `TPAOL KW-BG`
 * hungry `HUPBG/REU`
-* mouse-hunter, `PHOUS H-PB HURPBT KW-BG`
+* mouse-hunter, `PHOUS H-PB HUPB/TER KW-BG`
 * what `WHA`
 * can `K`
 * be `-B`
@@ -92,7 +92,7 @@
 * on? `OPB H-F`
 * What `KPA/WHA`
 * have `SR`
-* learnt? `HRERPBT/A*U H-F`
+* learnt? `HRERPBT H-F`
 * many `PHAEPB`
 * arts `ARTS`
 * do `TKO`
@@ -142,7 +142,7 @@
 * Just `KPA/SKWRUFT`
 * then `THEPB`
 * came `KAEUPL`
-* hunter `HURPBT`
+* hunter `HUPB/TER`
 * four `TPOUR`
 * dogs. `TKOGS TP-PL`
 * sprang `SPRAPBG`

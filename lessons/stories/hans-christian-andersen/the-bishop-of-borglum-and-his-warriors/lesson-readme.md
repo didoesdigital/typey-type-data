@@ -341,7 +341,7 @@
 * just `SKWRUFT`
 * rights. `RAOEUTS TP-PL`
 * Borglum, `xxx Borglum KW-BG`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * thou `THO*U`
 * purpose? `PURP H-F`
 * What `KPA/WHA`
@@ -495,7 +495,7 @@
 * poor `PAOR`
 * women, `WEUPL KW-BG`
 * humble `HUPL/-BL`
-* vehicle `SREBG`
+* vehicle `SRAOEBG`
 * drawn `TKRAUPB`
 * black `PWHRABG`
 * oxen, `OBGS/*EPB KW-BG`
@@ -517,7 +517,7 @@
 * followers. `TPOL/*ER/-S TP-PL`
 * paused, `PAUS/-D KW-BG`
 * gazed `TKPWAEZ/-D`
-* vehicle, `SREBG KW-BG`
+* vehicle, `SRAOEBG KW-BG`
 * questioned `KWED`
 * women `WEUPL`
 * goal `TKPWOEL`
@@ -574,7 +574,7 @@
 * him." `HEUPL TP-PL KR-GS`
 * Jens `SKWREPB/-S`
 * Glob `KPA/TKPWHROB`
-* complaint `KPAEUPBT`
+* complaint `KPHRAEUPBT`
 * him `HEUPL`
 * temporal `TEPL/PRAL`
 * spiritual `SPEURT/WAL`
@@ -900,7 +900,7 @@
 * arises; `A/RAOEUS/-S STPH*FPLT`
 * gleams `TKPWHRAOEPL/-S`
 * ancient `AEURBT`
-* splendor; `SHREPBD/O*R STPH*FPLT`
+* splendor; `SPHREPBD/O*R STPH*FPLT`
 * sing `SEUPBG`
 * silver-embroidered `SEUL/SRER H-PB EPL/PWROEUD/ERD`
 * mantle, `PHAPBT/*L KW-BG`
@@ -948,7 +948,7 @@
 * buried. `PWUR/EUD TP-PL`
 * Sleep `KPA/SHRAOEP`
 * sweetly, `SWAOET/HREU KW-BG`
-* canst `K/*T`
+* canst `K*/A*/TPH*/S*/T*`
 * sleep! `SHRAOEP SKHRAPL`
 * morning. `PHORPBG TP-PL`
 * flings `TPHREUPBGS`

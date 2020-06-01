@@ -1093,7 +1093,7 @@
 * journey." `SKWRURPB TP-PL KR-GS`
 * yellow, `KWREL/OE KW-BG`
 * fell, `TPEL KW-BG`
-* stormy `STOR/PH*EU`
+* stormy `STOERPL`
 * Autumn `KPA/AU/UPL`
 * howled. `HOUL/-D TP-PL`
 * far `TPAR`

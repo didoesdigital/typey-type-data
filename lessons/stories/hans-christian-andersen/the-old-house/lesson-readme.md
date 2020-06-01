@@ -116,7 +116,7 @@
 * disgrace `TKEUS/TKPWRAEUS`
 * whole `WHOEL`
 * street. `STRAOET TP-PL`
-* parapet `PRA/PET`
+* parapet `P*/A*/R*/A*/P*/*E/T*`
 * projects `PROPBLGZ`
 * so `SO`
 * far `TPAR`

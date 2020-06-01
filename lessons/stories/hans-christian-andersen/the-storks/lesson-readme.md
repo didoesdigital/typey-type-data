@@ -235,7 +235,7 @@
 * "I `KR-GS EU`
 * teach `TAOEFP`
 * fly, `TPHRAOEU KW-BG`
-* learnt, `HRERPBT/A*U KW-BG`
+* learnt, `HRERPBT KW-BG`
 * meadows, `PHED/OES KW-BG`
 * pay `PAEU`
 * visit `SREUFT`

@@ -43,6 +43,7 @@
 * trenches `TREFRPBS`
 * link `HR*EUPBG`
 * ranch `RAFRPB`
+* torch `TOFRPB`
 * arches `AFRPBS`
 * curved `KUFRBD`
 * starve `STAFRB`

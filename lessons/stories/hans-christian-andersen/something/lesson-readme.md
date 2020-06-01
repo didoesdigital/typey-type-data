@@ -133,7 +133,7 @@
 * know `TPHOE`
 * better `PWOERT`
 * than `THAPB`
-* architect, `TREGT KW-BG`
+* architect, `TREBGT KW-BG`
 * place `PHRAEUS`
 * me `PHE`
 * those `THOZ`
@@ -193,7 +193,7 @@
 * instructed `EUPB/STRUBGD`
 * drawing, `TKRAUG KW-BG`
 * called `KAULD`
-* architect. `TREGT TP-PL`
+* architect. `TREBGT TP-PL`
 * attain `A/TAEUPB`
 * rank, `RA*PBG KW-BG`
 * placed `PHRAEUFD`
@@ -300,7 +300,7 @@
 * business `PWEUS`
 * find `TPAOEUPBD`
 * out `OUT`
-* expose; `SPOES STPH*FPLT`
+* expose; `SPO*ES STPH*FPLT`
 * something, `S-G KW-BG`
 * fancy." `TPAEPBS TP-PL KR-GS`
 * And `AFPBD`
@@ -761,7 +761,7 @@
 * yet `KWRET`
 * her `HER`
 * full `TPUL`
-* splendor, `SHREPBD/O*R KW-BG`
+* splendor, `SPHREPBD/O*R KW-BG`
 * glanced `TKPWHRAPBS/-D`
 * wide `WAOEUD`
 * sea; `SAE STPH*FPLT`
@@ -954,10 +954,10 @@
 * "this `KR-GS TH`
 * brought. `PWRAUT TP-PL`
 * What `KPA/WHA`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * thou `THO*U`
 * bring? `PWREU H-F`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * accomplished `PHREURBD`
 * nothing, `TPHOG KW-BG`
 * single `SEUPBLG`
@@ -973,7 +973,7 @@
 * useless, `AOUS/-LS KW-BG`
 * unless `TPH-LS`
 * will, `HR KW-BG`
-* canst `K/*T`
+* canst `K*/A*/TPH*/S*/T*`
 * thee." `THAOE TP-PL KR-GS`
 * soul, `SOUL KW-BG`
 * mother `PHOER`

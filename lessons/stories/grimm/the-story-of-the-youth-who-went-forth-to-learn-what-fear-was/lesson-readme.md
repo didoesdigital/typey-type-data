@@ -205,7 +205,7 @@
 * respect `R-PT`
 * knew `TPHAOU`
 * nothing `TPHOG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * nothing. `TPHOG TP-PL`
 * 'Just `AE KPA/SKWRUFT`
 * think,' `THEU KW-BG AE`
@@ -641,7 +641,7 @@
 * wished `WEURBD`
 * night. `TPHAOEUT TP-PL`
 * entrance `SPWRAPBS`
-* parlour `PAR/HROUR/A*U`
+* parlour `PAR/HROR/A*U`
 * loudly: `HROUD/HREU STPH-FPLT`
 * host `HOEFT`
 * this, `TH KW-BG`

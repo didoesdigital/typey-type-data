@@ -182,7 +182,7 @@
 * bright `PWRAOEUT`
 * beholds `PWE/HOLD/-S`
 * him. `HEUPL TP-PL`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * thou `THO*U`
 * know `TPHOE`
 * him? `HEUPL H-F`
@@ -228,7 +228,7 @@
 * came `KAEUPL`
 * radiance `RAEUD/KWRAPBS`
 * perchance `PER/KHAPBS`
-* didst `TKEU/*T`
+* didst `TK*/*EU/TK*/S*/T*`
 * turn `TURPB`
 * away `A/WAEU`
 * him `HEUPL`

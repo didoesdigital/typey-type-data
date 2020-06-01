@@ -291,7 +291,7 @@
 * done `TKOPB`
 * this?' `TH H-F AE`
 * 'Thou `AE KPA/THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * shaved `SHAEUFD`
 * soul `SOUL`
 * enough,' `TPHUF KW-BG AE`
@@ -418,9 +418,9 @@
 * dwarf's `TKWAFR AES`
 * third `THEURD`
 * gift. `TKPWEUFT TP-PL`
-* 'Bind `AE KPA/PWEUPBD`
+* 'Bind `AE KPA/PWAOEUPBD`
 * fast, `TPAFT KW-BG`
-* bind `PWEUPBD`
+* bind `PWAOEUPBD`
 * pity's `PEUT/TEU AES`
 * sake.' `SAEUBG TP-PL AE`
 * seized `SAOEZ/-D`

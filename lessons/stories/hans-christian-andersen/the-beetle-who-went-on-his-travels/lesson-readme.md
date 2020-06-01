@@ -644,7 +644,7 @@
 * journey." `SKWRURPB TP-PL KR-GS`
 * "Certainly," `KR-GS KPA/SERPBL KW-BG KR-GS`
 * happy; `HAEP STPH*FPLT`
-* exposed `SPOEDZ`
+* exposed `EBGS/POED/-D`
 * cleanliness `KHREPB/HR*EUPBS`
 * greatly `TKPWRAELT`
 * exhausts `KPAUFTS`
@@ -1074,7 +1074,7 @@
 * "creep `KR-GS KRAOEP`
 * away, `A/WAEU KW-BG`
 * thou `THO*U`
-* canst. `K/*T TP-PL`
+* canst. `K*/A*/TPH*/S*/T* TP-PL`
 * thy `THAO*EU`
 * liberty." `HREURBT TP-PL KR-GS`
 * straight `STRAEUT`

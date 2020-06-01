@@ -637,7 +637,7 @@
 * cloak `KHROEBG`
 * side, `SAOEUD KW-BG`
 * starry `STAR/REU`
-* underneath `UPBD/TPHO*ET`
+* underneath `UPBD/TPHAO*ET`
 * tore `TO*R`
 * off, `OF KW-BG`
 * form `TPORPL`

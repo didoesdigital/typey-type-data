@@ -285,7 +285,7 @@
 * fellows `TPO*EULS`
 * you." `U TP-PL KR-GS`
 * "Well," `KR-GS KPA/WEL KW-BG KR-GS`
-* quoth `KWO*ET`
+* quoth `KW*/*U/O*/T*/H*`
 * "If `KR-GS KPA/TP`
 * take `TAEUBG`
 * Billy-goat, `PWEUL/HREU H-PB TKPWO*ET KW-BG`

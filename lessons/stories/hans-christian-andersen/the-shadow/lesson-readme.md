@@ -789,7 +789,7 @@
 * prose; `PROES STPH*FPLT`
 * say, `SAEU KW-BG`
 * truth, `TRAO*UT KW-BG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * everything." `EFRG TP-PL KR-GS`
 * "Poetry!" `KR-GS KPA/POEURT SKHRAPL KR-GS`
 * exclaimed `SKHRAEUPL/-D`
@@ -839,7 +839,7 @@
 * time, `TAOEUPL KW-BG`
 * do." `TKO TP-PL KR-GS`
 * "And `KR-GS AFPBD`
-* didst `TKEU/*T`
+* didst `TK*/*EU/TK*/S*/T*`
 * thou `THO*U`
 * asked `SK-D`
 * everything, `EFRG KW-BG`
@@ -1206,7 +1206,7 @@
 * road `RAOD`
 * recovery `ROEUFR`
 * illness," `HR*PBS KW-BG KR-GS`
-* complaint `KPAEUPBT`
+* complaint `KPHRAEUPBT`
 * case `KAEUS`
 * entirely `SPWAOEURL`
 * failed. `TPAEULD TP-PL`

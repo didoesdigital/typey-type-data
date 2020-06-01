@@ -727,7 +727,7 @@
 * minutes. `PHEUPBS TP-PL`
 * O `O*P`
 * race, `RAEUS KW-BG`
-* canst `K/*T`
+* canst `K*/A*/TPH*/S*/T*`
 * thou `THO*U`
 * grasp `TKPWRAFP`
 * happiness `HAEP/-PBS`

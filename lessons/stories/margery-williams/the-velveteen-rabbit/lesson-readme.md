@@ -211,7 +211,7 @@
 * patches `PAFPS`
 * showed `SHOED`
 * seams `SAEPLS`
-* underneath, `UPBD/TPHO*ET KW-BG`
+* underneath, `UPBD/TPHAO*ET KW-BG`
 * hairs `HAEURS`
 * tail `TAEUL`
 * been `PW-PB`

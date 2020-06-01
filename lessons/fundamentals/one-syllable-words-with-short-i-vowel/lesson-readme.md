@@ -23,6 +23,7 @@
 * skilled `SKEULD`
 * whipped `WHEUPD`
 * width `WEUTD`
+* pigs `PEUGZ`
 * twist `TWEUFT`
 * tips `TEUPS`
 * Whig `WHEUG`

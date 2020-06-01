@@ -595,7 +595,7 @@
 * please," `PHRES KW-BG KR-GS`
 * wife, `WAOEUF KW-BG`
 * softly: `SOFT/HREU STPH-FPLT`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * thou `THO*U`
 * body `PWO*ED`
 * answered: `AEPBS/-D STPH-FPLT`
@@ -642,7 +642,7 @@
 * down, `TKOUPB KW-BG`
 * hair `HAEUR`
 * shoulders. `SHOURLDZ TP-PL`
-* "Nought `KR-GS KPA/TPHA*UT`
+* "Nought `KR-GS KPA/TPHAUT/A*U`
 * avail," `A/SRAEUL KW-BG KR-GS`
 * "you `KR-GS U`
 * die"; `TKAOEU KR-GS STPH*FPLT`

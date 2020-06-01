@@ -34,7 +34,7 @@
 * which `WEU`
 * he `HE`
 * had `H`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * from `TPR`
 * mother. `PHOER TP-PL`
 * corn-fields `KORPB H-PB TPAOELDZ`

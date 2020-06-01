@@ -85,7 +85,7 @@
 * diligent `TKEUL/SKWREPBT`
 * servants. `SER/SRAPBTS TP-PL`
 * The `KPA/-T`
-* spacious `SPAERBS`
+* spacious `SPAEURBS`
 * stables `STAEUBLS`
 * filled `TPEULD`
 * most `PHOFT`
@@ -711,7 +711,7 @@
 * want `WAPBT`
 * skin." `SKEUPB TP-PL KR-GS`
 * finding `TPAOEUPBGD`
-* avenue `AFP`
+* avenue `AEF`
 * escape; `SKAEP STPH*FPLT`
 * bring `PWREU`
 * sacrifice `SARBG/TPAOEUS`
@@ -832,7 +832,7 @@
 * dishes `TKEURBS`
 * attend `A/TEPBD`
 * geese `TKPWAOES`
-* pigs, `PAO*EGS KW-BG`
+* pigs, `PEUGZ KW-BG`
 * vagrant `SRAEUG/RAPBT`
 * engage `EPB/TKPWAEUPBLG`
 * fatigued, `TPA/TAOEGD KW-BG`

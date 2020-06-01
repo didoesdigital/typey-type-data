@@ -230,7 +230,7 @@
 * walk `WAUBG`
 * rampart. `RAFRP/ART TP-PL`
 * Thou `KPA/THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * white `WHAOEUT`
 * frock `TPROBG`
 * on; `OPB STPH*FPLT`

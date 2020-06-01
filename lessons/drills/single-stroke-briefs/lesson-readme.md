@@ -111,7 +111,7 @@
 * allowance `HROUPBS`
 * alms `AUPLS`
 * alter `AURLT`
-* alternate `HRERPBT`
+* alternate `HR-RPBT`
 * altogether `HR-GT`
 * amalgam `TKPWHRA*PL`
 * ambiguity `TKPWAOUT`
@@ -203,7 +203,7 @@
 * arable `ARBL`
 * arc `ARBG`
 * arch `AFRPB`
-* architect `TREGT`
+* architect `TREBGT`
 * architecture `TREBGS`
 * archival `KRAOEUFL`
 * archive `KRAO*EUF`
@@ -282,7 +282,7 @@
 * autonomic `TPHO*EUBG`
 * availability `SRAEUBLT`
 * available `SRAEUBL`
-* avenue `AFP`
+* avenue `AEF`
 * aver `A*FR`
 * average `AFRG`
 * averaged `AFRGD`
@@ -480,7 +480,7 @@
 * billion `PWOEUPB`
 * billionth `PW*LT`
 * bin `PWEUPB`
-* bind `PWEUPBD`
+* bind `PWAOEUPBD`
 * binder `PWAOEURPBD`
 * bing `PWEUPBG`
 * binge `PW*EUPBG`
@@ -871,7 +871,7 @@
 * cast `KAFT`
 * caste `KA*ES`
 * castle `KAFL`
-* casual `KAEFL`
+* casual `KARBL`
 * cat `KAT`
 * cataract `KRA*BT`
 * catch `KAFP`
@@ -1016,7 +1016,7 @@
 * chord `KHORD`
 * chore `KHOR`
 * choroid `KRO*EUD`
-* chorus `KHOERS`
+* chorus `KHOURS`
 * chosen `KHOEFPB`
 * chow `KHOU`
 * chrome `KROEPL`
@@ -1250,8 +1250,8 @@
 * complacent `KPHRAEUFPBT`
 * complain `KPHRAEUPB`
 * complainer `KPHRAEURPB`
-* complaint `KPAEUPBT`
-* complaints `KHRAOEUPBS`
+* complaint `KPHRAEUPBT`
+* complaints `KPHRAEUPBTS`
 * complement `PHREPLT`
 * complete `KPHRAOET`
 * completed `KPHRAOETD`
@@ -1268,7 +1268,7 @@
 * complied `KPHRAOEUD`
 * complies `KPHRAOEUS`
 * compliment `KPHREUPLT`
-* component `KPOEPT`
+* component `KPOEPBT`
 * components `KPOEPBTS`
 * comport `KPORT`
 * compose `KPOES`
@@ -1869,7 +1869,7 @@
 * developer `SHR*ER`
 * development `SREPLT`
 * deviation `TKAOEFGS`
-* device `TKWEUS`
+* device `TKWAOEUS`
 * devil `TKEFL`
 * devoid `TKWOEUD`
 * devote `TKWOET`
@@ -1887,7 +1887,7 @@
 * diagnostic `TKAOEUGT`
 * diagram `TKPRA*EPL`
 * dial `TKAOEUL`
-* dialogue `TKHR*OG`
+* dialogue `TKHROG`
 * dialysis `TKA*ELS`
 * diamond `TKAOEUPLD`
 * diaphragm `TPRAEPL`
@@ -1902,7 +1902,7 @@
 * diction `TK*EUBGS`
 * didn't `TK-PBT`
 * died `TKAOEUD`
-* diet `TKAO*EUT`
+* diet `TKAOEUT`
 * differ `TK-FR`
 * difference `TKEUFRPBS`
 * differentiation `TKEUFRPBGS`
@@ -2008,7 +2008,7 @@
 * diversion `TKWERGS`
 * diversity `TKWEFRT`
 * divert `TKWERT`
-* divide `KWAOEUD`
+* divide `TKWAOEUD`
 * divided `TKWAOEUTD`
 * dividend `TK*F`
 * dividing `TKWAOEUGD`
@@ -2026,7 +2026,7 @@
 * doctoring `TKR-G`
 * doctors `TKR-S`
 * doctrine `TKORBGT`
-* document `TKOUPLT`
+* document `TKAOUPLT`
 * documenting `TKAOUPLGT`
 * dodge `TKOPBLG`
 * doe `TKO*E`
@@ -2351,7 +2351,7 @@
 * gourd `TKPWORD`
 * gout `TKPWOUT`
 * gov `TKPWOF`
-* govern `TKPWOFPB`
+* govern `TKPWOFRPB`
 * governess `TKPWO*FRPBS`
 * government `TKPWOFT`
 * gown `TKPWOUPB`
@@ -2391,7 +2391,7 @@
 * grateful `TKPWRA*EUFL`
 * grating `TKPWRAEUGT`
 * grave `TKPWRAEUF`
-* gravel `TKRAFL`
+* gravel `TKPWRAFL`
 * graven `TKPWRAEUFPB`
 * graver `TKPWRAEUFR`
 * gravid `TKPWRA*FD`
@@ -2597,7 +2597,7 @@
 * herb `ERB`
 * herbal `ERBL`
 * herbs `HERBS`
-* herd `HE*RD`
+* herd `H*ERD`
 * herds `HERDZ`
 * here `HAOER`
 * here's `HAOERS`
@@ -2807,7 +2807,7 @@
 * indicating `KAEUGT`
 * indication `KA*EUGS`
 * indicator `KOERT`
-* indict `TKAOEUT`
+* indict `TKAO*EUT`
 * indictment `TKAOEUPLT`
 * indicts `TKAOEUTS`
 * individual `SREUD`
@@ -2919,7 +2919,7 @@
 * intern `SPWERPB`
 * internal `SPWERPBL`
 * international `SPWRARBL`
-* internet `STPH*ET`
+* internet `STPHET`
 * interpret `TERP`
 * interpretation `SPWERPGS`
 * interpreter `TRER`
@@ -3033,7 +3033,7 @@
 * jot `SKWROT`
 * joule `SKWRAO*UL`
 * jounce `SKWROUPBS`
-* journal `SKWRURPL`
+* journal `SKWRURPBL`
 * journey `SKWRURPB`
 * joust `SKWROUFT`
 * jowl `SKWROUL`
@@ -3487,7 +3487,7 @@
 * phoned `TPOEPBD`
 * phoning `TPOEPBG`
 * photo `TPOET`
-* photograph `TPOEF`
+* photograph `TPRAF`
 * photographer `TPRAFR`
 * photographers `TPOEFRS`
 * photographic `TPRAFBG`
@@ -3766,7 +3766,7 @@
 * prerequisite `PR-R`
 * preschool `PRAOL`
 * prescribe `PREUB`
-* prescribed `PREUBD`
+* prescribed `PRAOEUBD`
 * prescribing `PR*EUBG`
 * prescription `PR-PGS`
 * presence `PREPBS`
@@ -3831,7 +3831,7 @@
 * probed `PROEBD`
 * probing `PROEBG`
 * procedural `PRAOERLD`
-* procedure `PRAOURD`
+* procedure `PRAOEPBLG`
 * proceed `PROED`
 * proceeds `PRAOEDZ`
 * process `PROEUS`
@@ -3864,7 +3864,7 @@
 * progression `PROGS`
 * prohibit `PREUBT`
 * prohibition `PROEUBGS`
-* project `PROPBL`
+* project `PROPBLG`
 * projection `PROPBGS`
 * prom `PROPL`
 * promise `PROPLS`
@@ -4200,7 +4200,7 @@
 * remember `RER`
 * remembered `RERD`
 * remembrance `RERPBS`
-* remind `R*EUPBD`
+* remind `RAO*EUPBD`
 * reminder `RAOEURPBD`
 * remit `REPLT`
 * remote `RAOEPLT`
@@ -4246,7 +4246,7 @@
 * responsible `SPOPB`
 * responsibly `SPOEPBL`
 * responsive `SPO*F`
-* restaurant `TRAUPBT`
+* restaurant `STRAUPBT`
 * restrict `REUBGT`
 * restriction `REUBGS`
 * restroom `R*ERPL`
@@ -4257,7 +4257,7 @@
 * rete `RAO*ET`
 * retire `RAO*EUR`
 * retired `RAO*EURD`
-* retirement `RAO*EUPLT`
+* retirement `RAO*EURPLT`
 * retiring `RAO*EURPBG`
 * rev `REF`
 * revaluation `R*EFLGS`
@@ -4630,7 +4630,7 @@
 * senatorial `STPHORL`
 * send `SEPBD`
 * senile `STPHAOEUL`
-* senior `SOEURPB`
+* senior `SAOERPB`
 * sentence `STEPBS`
 * sentenced `STPH-PBD`
 * sentencing `STPH-PBG`
@@ -5120,7 +5120,7 @@
 * spa `SPA`
 * spaced `SPAEUFD`
 * spacing `SPAEUFG`
-* spacious `SPAERBS`
+* spacious `SPAEURBS`
 * spade `SPAEUD`
 * spam `SPAPL`
 * span `SPAPB`
@@ -5473,7 +5473,7 @@
 * stubble `STUBL`
 * stubborn `STURPB`
 * stud `STUD`
-* studio `STOEUD`
+* studio `STAOUD/KWROE`
 * stuffer `STUFR`
 * stuffing `STUFG`
 * stump `STUFRP`
@@ -5786,7 +5786,7 @@
 * theme `THAOEPL`
 * then `THEPB`
 * thence `THEPBS`
-* theology `THOLG`
+* theology `THAOELG`
 * theorem `THOEURPL`
 * theoretical `THOEURL`
 * theories `THOEURS`
@@ -5963,7 +5963,7 @@
 * topping `TOPG`
 * topple `TO*PL`
 * toque `TO*EBG`
-* torch `TOFRB`
+* torch `TOFRPB`
 * tore `TO*R`
 * torment `TORPLT`
 * torn `TORPB`
@@ -6275,7 +6275,7 @@
 * veg `SREPBLG`
 * vegetable `SREBL`
 * vehement `SRAOEPLT`
-* vehicle `SREBG`
+* vehicle `SRAOEBG`
 * veil `SRAEUL`
 * vein `SRAEUPB`
 * velocity `SHROFT`
@@ -6334,7 +6334,7 @@
 * virgin `SREURPB`
 * virile `SREURL`
 * virtue `SRAOURT`
-* virus `SREURS`
+* virus `SRAOEURS`
 * vital `SRAO*EULT`
 * vitamin `SRAO*EUPB`
 * vivid `SREUFD`
@@ -6359,7 +6359,7 @@
 * vowing `SROUG`
 * voyage `SROEUPBLG`
 * vulnerability `SRUPBLT`
-* vulnerable `SRUBL`
+* vulnerable `SRUPBL`
 * vulture `SRAOUFP`
 * vying `SRAOEUG`
 * wad `WAD`

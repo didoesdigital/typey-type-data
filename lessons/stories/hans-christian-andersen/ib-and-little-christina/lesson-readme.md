@@ -4,7 +4,7 @@
 * the `-T`
 * forest `TPOEFRT`
 * that `THA`
-* extends `ST*EPBDZ`
+* extends `EBGS/TEPBDZ`
 * from `TPR`
 * banks `PWA*PBGS`
 * of `-F`
@@ -389,7 +389,7 @@
 * fields, `TPAOELDZ KW-BG`
 * be `-B`
 * seen `SAOEPB`
-* herd `HE*RD`
+* herd `H*ERD`
 * cattle, `KA*LT KW-BG`
 * farm `TPARPL`
 * laborers. `HRAEUB/ERS TP-PL`

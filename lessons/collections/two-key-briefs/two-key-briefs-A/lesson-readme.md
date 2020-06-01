@@ -8,7 +8,7 @@
 * after `AF`
 * ar `AR`
 * app `AP`
-* al `HRO*ER/AL`
+* al `AL`
 * ago `AG`
 * at `AT`
 * add `AD`

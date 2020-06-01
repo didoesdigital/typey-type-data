@@ -105,7 +105,7 @@
 * driven `TKREUFPB`
 * out, `OUT KW-BG`
 * peasant `PEFPBT`
-* cow-herd `KO*U H-PB HE*RD`
+* cow-herd `KO*U H-PB H*ERD`
 * said: `SAEUD STPH-FPLT`
 * 'Look, `AE KPA/HRAOBG KW-BG`
 * calf `KAF`
@@ -141,7 +141,7 @@
 * night `TPHAOEUT`
 * going `TKPW-G`
 * drive `TKRAOEUF`
-* herd `HE*RD`
+* herd `H*ERD`
 * home `HOEPL`
 * again, `TKPWEPB KW-BG`
 * calf: `KAF STPH-FPLT`

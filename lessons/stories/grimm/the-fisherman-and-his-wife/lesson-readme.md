@@ -225,7 +225,7 @@
 * filthy `TPEUL/THEU`
 * pigsty `xxx pigsty`
 * had?' `H H-F AE`
-* parlour, `PAR/HROUR/A*U KW-BG`
+* parlour, `PAR/HROR/A*U KW-BG`
 * bedchamber, `PWED/TK-LS/KHAEURPL/KW-BG`
 * kitchen; `K-FP STPH*FPLT`
 * garden, `TKPWA*RPB KW-BG`
@@ -634,7 +634,7 @@
 * rocks `ROBGS`
 * shook. `SHAOBG TP-PL`
 * became `PWAEUPL`
-* stormy `STOR/PH*EU`
+* stormy `STOERPL`
 * clouds, `KHROUDZ KW-BG`
 * lightnings `HRAOEUT/TPHEUPBG/-S`
 * played, `PHRAEUD KW-BG`

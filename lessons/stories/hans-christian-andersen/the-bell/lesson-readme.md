@@ -687,7 +687,7 @@
 * height, `HAOEUT KW-BG`
 * set. `SET TP-PL`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
-* splendour!" `SHREPBD/O*UR/A*U SKHRAPL KR-GS`
+* splendour!" `SHREPBD/O*R/A*U SKHRAPL KR-GS`
 * sea, `SAE KW-BG`
 * majestic `PHA/SKWREFT/EUBG`
 * rolling `ROLG`

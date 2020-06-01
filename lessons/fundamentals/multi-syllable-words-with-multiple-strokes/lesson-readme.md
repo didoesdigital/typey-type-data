@@ -372,7 +372,6 @@
 * directions `TKREBGS/-S`
 * Negro `TPHAOEG/ROE`
 * fearful `TPAOER/-FL`
-* studied `STUD/EUD`
 * commenced `KPHEPBS/-D`
 * repeat `RE/PAOET`
 * steadily `STED/HREU`
@@ -820,6 +819,7 @@
 * observing `OEB/-G`
 * conveyed `KAUPB/SRAEUD`
 * resemblance `RE/SEPL/PWHRAPBS`
+* extend `EBGS/TEPBD`
 * rebellion `RE/PWEL/KWROPB`
 * inclination `EUPBG/TPHAEUGS`
 * copper `KOP/ER`
@@ -880,6 +880,7 @@
 * fountain `TPOUPB/TAEUPB`
 * Clara `KHRA/RA`
 * rejoice `RE/SKWROEUS`
+* extending `EBGS/TEPBD/-G`
 * hasty `HAEUS/TEU`
 * replace `RE/PHRAEUS`
 * deliberately `TKHREUB/RAT/HREU`
@@ -1035,6 +1036,7 @@
 * awaiting `A/WAEUT/-G`
 * potatoes `POE/TAEUT/-S`
 * likeness `HRAOEUBG/-PBS`
+* harbour `HAR/PWOUR`
 * jolly `SKWROL/HREU`
 * generosity `SKWREPB/ROFT`
 * sincerity `SEUPB/SERT`
@@ -1167,6 +1169,7 @@
 * appealed `AEP/-D`
 * turkey `TUR/KAE`
 * discharged `TKEUS/KHARPBLGD`
+* Rachel `RAEU/KHEL`
 * hardy `HAR/TKEU`
 * ecclesiastical `KHRAOES/KWRAFT/K-L`
 * captive `KAPT/EUF`
@@ -1300,6 +1303,7 @@
 * carelessly `KAEURLS/HREU`
 * Allen `AL/-PB`
 * husbands `HUZ/-Z`
+* exercises `KPERZ/-S`
 * removal `RE/PHOFL`
 * Scottish `SKOT/EURB`
 * assertion `A/SERGS`
@@ -1308,6 +1312,7 @@
 * philosophers `TPHROS/TPER/-S`
 * adequate `AD/KWAT`
 * vaguely `SRAEUG/HREU`
+* hunter `HUPB/TER`
 * yielding `KWRAOELD/-G`
 * newsletter `TPHUS/HRER`
 * historian `HEUFT/ORPB`
@@ -1336,6 +1341,7 @@
 * esteemed `ES/TAOEPLD`
 * cherished `KHER/EURB/-D`
 * brandy `PWRAPBD/KWREU`
+* homer `HOEPL/ER`
 * acute `A/KAOUT`
 * embarrassed `EPL/PWRAFD`
 * Janet `SKWRAPB/ET`
@@ -1798,6 +1804,7 @@
 * encouraging `EPB/KORPBLG/-G`
 * diplomatic `TKEUPL/PHAT/EUBG`
 * forcing `TPORS/-G`
+* studio `STAOUD/KWROE`
 * ascend `A/SEPBD`
 * unbroken `UPB/PWROEPB`
 * Apollo `A/POL/HRO`
@@ -1894,6 +1901,7 @@
 * synonymous `SEUPB/PHUS`
 * sinister `SEUPB/STER`
 * advocate `AFD/KAT`
+* extends `EBGS/TEPBDZ`
 * solemnity `SOL/EPL/TEU`
 * detachment `TKE/TAPLT`
 * infernal `EUPB/TPERPBL`
@@ -2315,6 +2323,7 @@
 * avenge `A/SREPBG`
 * minority `PHAOEUPB/ORT`
 * Spaniard `SPAPB/KWRARD`
+* perils `PER/EUL/-S`
 * Larry `HRAR/REU`
 * aloof `A/HRAOF`
 * despairing `TKE/SPAEUR/-G`
@@ -2327,6 +2336,7 @@
 * accession `ABG/SEGS`
 * Cairo `KAOEU/ROE`
 * twenty-one `TWEPBT/WUPB`
+* municipal `PHAOUPBS/PAL`
 * achievements `A/KHAOEFPLTS`
 * cherish `KHER/EURB`
 * deserving `TKAOE/SER/-FG`
@@ -2440,6 +2450,7 @@
 * manila `PHAPB/EUL/A`
 * massacre `PHAS/K-R`
 * harmonious `HAR/PHOEPB/KWROUS`
+* dreamy `TKRAOEPL/KWREU`
 * burgundy `PWURG/TKEU`
 * collections `KHREBGS/-S`
 * unkind `UPB/KAOEUPBD`
@@ -2663,6 +2674,7 @@
 * skipper `SKEUP/ER`
 * implements `EUPL/PHREPLTS`
 * recompense `RAOE/KPEPBS`
+* laboured `HRAEU/PWOUR/-D`
 * exaggeration `KPAPBLG/RAEUGS`
 * shepherds `SHEP/ERDZ`
 * lilies `HREUL/KWREU/-S`
@@ -2750,6 +2762,7 @@
 * facilities `TPAS/EULTS`
 * slippery `SHREUP/REU`
 * pondered `POPBD/ERD`
+* Henrietta `HEPB/RET/TA`
 * Wellington `WELG/TOPB`
 * foreman `TPOER/PHAPB`
 * sultan `SUL/TAPB`
@@ -3252,8 +3265,6 @@
 * forfeit `TPOR/TPET`
 * perverse `PER/SRERS`
 * ambush `APL/PWURB`
-* verdure `SRER/SKWRUR`
-* parapet `PRA/PET`
 * cessation `SES/AEUGS`
 * ankle `APB/K-L`
 * fervently `TPEFRB/EPBT/HREU`
@@ -3266,7 +3277,6 @@
 * scattering `SKAT/ERG`
 * detestable `TKE/TEFT/-BL`
 * abandoning `A/PWAPBD/OPBG`
-* Somerset `SOPL/ER/SET`
 * weakly `WAEBG/HREU`
 * surveying `SUR/SRAEUG`
 * anniversary `APB/SRERS/REU`

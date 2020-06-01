@@ -142,6 +142,7 @@
 * skilled `SKEULD`
 * whipped `WHEUPD`
 * width `WEUTD`
+* pigs `PEUGZ`
 * stead `STED`
 * cuts `KUTS`
 * harp `HARP`

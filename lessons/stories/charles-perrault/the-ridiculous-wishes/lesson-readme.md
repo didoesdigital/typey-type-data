@@ -123,7 +123,7 @@
 * how `HOU`
 * greatly `TKPWRAELT`
 * thou `THO*U`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * wrong `WROPBG`
 * me. `PHE TP-PL`
 * Hark! `KPA/HARBG SKHRAPL`
@@ -250,7 +250,7 @@
 * she `SHE`
 * approved `A/PROFD`
 * husband's `HUS/AES`
-* resolve `RE/SOL/*F`
+* resolve `ROF`
 * act `ABGT`
 * prudence `PRAOUPBS`
 * circumspection. `SEURBG/SPEBGS TP-PL`

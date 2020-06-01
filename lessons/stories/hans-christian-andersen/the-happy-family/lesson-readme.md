@@ -50,7 +50,7 @@
 * splendid `SPHREPB/TKEUD`
 * sight; `SAOEUT STPH*FPLT`
 * all `AUL`
-* splendor `SHREPBD/O*R`
+* splendor `SPHREPBD/O*R`
 * snails. `STPHAEUL/-S TP-PL`
 * great `TKPWRAET`
 * white `WHAOEUT`
@@ -301,7 +301,7 @@
 * like `HRAOEUBG`
 * know `TPHOE`
 * far `TPAR`
-* extends, `ST*EPBDZ KW-BG`
+* extends, `EBGS/TEPBDZ KW-BG`
 * lies `HRAO*EUS`
 * beyond `KWROPBD`
 * it." `T TP-PL KR-GS`

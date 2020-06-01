@@ -51,7 +51,7 @@
 * my `PHEU`
 * hour `HOUR`
 * distress," `STKRES KW-BG KR-GS`
-* quoth `KWO*ET`
+* quoth `KW*/*U/O*/T*/H*`
 * he. `HE TP-PL`
 * But `KPA/PWUT`
 * appeared `A/PAOERD`

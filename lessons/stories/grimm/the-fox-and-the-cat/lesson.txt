@@ -105,7 +105,7 @@ The Fox and the Cat
 'fool,': TPAOL KW-BG
 'you': U
 'hungry': HUPBG/REU
-'mouse-hunter,': PHOUS H-PB HURPBT KW-BG
+'mouse-hunter,': PHOUS H-PB HUPB/TER KW-BG
 'what': WHA
 'can': K
 'you': U
@@ -126,7 +126,7 @@ The Fox and the Cat
 'What': KPA/WHA
 'have': SR
 'you': U
-'learnt?': HRERPBT/A*U H-F
+'learnt?': HRERPBT H-F
 'How': KPA/HOU
 'many': PHAEPB
 'arts': ARTS
@@ -209,7 +209,7 @@ The Fox and the Cat
 'then': THEPB
 'came': KAEUPL
 'a': AEU
-'hunter': HURPBT
+'hunter': HUPB/TER
 'with': W
 'four': TPOUR
 'dogs.': TKOGS TP-PL

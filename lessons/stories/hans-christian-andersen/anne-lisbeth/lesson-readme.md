@@ -1404,7 +1404,7 @@
 * shore, `SHOR KW-BG`
 * before, `PW-FR KW-BG`
 * "Thou `KR-GS KPA/THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * grave: `TKPWRAEUF STPH-FPLT`
 * altogether `HR-GT`
 * thy `THAO*EU`

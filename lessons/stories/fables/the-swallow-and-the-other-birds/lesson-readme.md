@@ -27,7 +27,7 @@
 * "Beware `KR-GS KPA/PWE/WAEUR`
 * of `-F`
 * man," `PHAPB KW-BG KR-GS`
-* quoth `KWO*ET`
+* quoth `KW*/*U/O*/T*/H*`
 * the `-T`
 * Swallow. `KPA/SWAL TP-PL`
 * "Why, `KR-GS KPA/KWR KW-BG`

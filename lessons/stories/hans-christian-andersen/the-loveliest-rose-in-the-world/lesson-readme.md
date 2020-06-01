@@ -164,7 +164,7 @@
 * spot `SPOT`
 * where `W-R`
 * blooms `PWHRAOPL/-S`
-* splendor. `SHREPBD/O*R TP-PL`
+* splendor. `SPHREPBD/O*R TP-PL`
 * It `KPA/T`
 * coffin `KOFPB`
 * Romeo `ROEPL/KWROE`

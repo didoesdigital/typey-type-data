@@ -76,9 +76,9 @@
 * asked: `SK-D STPH-FPLT`
 * 'Now, `AE KPA/TPHOU KW-BG`
 * have `SR`
-* learnt?' `HRERPBT/A*U H-F AE`
+* learnt?' `HRERPBT H-F AE`
 * 'Father, `AE KPA/TPAER KW-BG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * dogs `TKOGS`
 * say `SAEU`
 * when `WHEPB`
@@ -93,7 +93,7 @@
 * 'is `AE S`
 * that `THA`
 * all `AUL`
-* learnt? `HRERPBT/A*U H-F`
+* learnt? `HRERPBT H-F`
 * send `SEPBD`
 * another `TPHOER`
 * to `TO`
@@ -286,7 +286,7 @@
 * until `TPH-L`
 * away, `A/WAEU KW-BG`
 * likewise `HRAOEUBG/WAOEUS`
-* learnt, `HRERPBT/A*U KW-BG`
+* learnt, `HRERPBT KW-BG`
 * discourse, `TKEUS/KORS KW-BG`
 * how `HOU`
 * done.' `TKOPB TP-PL AE`

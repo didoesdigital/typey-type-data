@@ -132,7 +132,7 @@
 * consented, `KEFPBT/-D KW-BG`
 * next `TPHEGT`
 * day `TKAEU`
-* laboured `HRAEU/PWOUR/-D/A*U`
+* laboured `HRAEU/PWOUR/-D`
 * with `W`
 * his `HEUS`
 * strength, `STREPBG KW-BG`
@@ -316,7 +316,7 @@
 * man: `PHAPB STPH-FPLT`
 * 'Now `AE KPA/TPHOU`
 * go `TKPW`
-* bind `PWEUPBD`
+* bind `PWAOEUPBD`
 * carry `KAER`
 * judge.' `SKWRUPBLG TP-PL AE`
 * In `KPA/TPH`

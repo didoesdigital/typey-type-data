@@ -43,7 +43,7 @@
 * ok `O*EBG`
 * so `SO`
 * sh `xxx sh`
-* ta `TAEU`
+* ta `TA/A*U`
 * ti `T*/SKWREU`
 * to `TO`
 * up `UP`

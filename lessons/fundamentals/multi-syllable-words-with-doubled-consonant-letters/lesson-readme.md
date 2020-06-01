@@ -1016,6 +1016,7 @@
 * pudding `PUD/-G`
 * predecessor `PRED/SES/O*R`
 * slippery `SHREUP/REU`
+* Henrietta `HEPB/RET/TA`
 * Wellington `WELG/TOPB`
 * fullest `TPUL/EFT`
 * scaffold `SKAFLD`

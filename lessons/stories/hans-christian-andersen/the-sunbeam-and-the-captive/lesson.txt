@@ -197,7 +197,7 @@ The Sunbeam and the Captive
 'wings,': WEUPBGS KW-BG
 'pecks': PEBGS
 'a': AEU
-'feather': TP*ET
+'feather': TP*ERT
 'from': TPR
 'one': WUPB
 'of': -F
@@ -282,7 +282,7 @@ The Sunbeam and the Captive
 'sound': SOUPBD
 'of': -F
 'the': -T
-'hunter's': HURPBT AES
+'hunter's': HUPB/TER AES
 'horn,': HORPB KW-BG
 'merry': PHER/REU
 'and': SKP
@@ -338,7 +338,7 @@ The Sunbeam and the Captive
 'strains': STRAEUPBS
 'of': -F
 'the': -T
-'hunter's': HURPBT AES
+'hunter's': HUPB/TER AES
 'horn;': HORPB STPH*FPLT
 'continue': T-PB
 'your': KWROUR

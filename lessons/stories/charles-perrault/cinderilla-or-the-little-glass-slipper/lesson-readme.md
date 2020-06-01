@@ -442,7 +442,7 @@
 * set `SET`
 * horses `HORSZ`
 * beautiful `PWAOUFL`
-* mouse-coloured `PHOUS H-PB KHROURD/A*U`
+* mouse-coloured `PHOUS H-PB KHROURD`
 * dapple-grey. `TKAP/-L H-PB TKPWRA*EU TP-PL`
 * Being `KPA/-BG`
 * loss `HROS`
@@ -678,7 +678,7 @@
 * materials, `TAOERLS KW-BG`
 * hands `HAPBDZ`
 * conducted `KUBGTD`
-* honourable `H*/O*/TPH*/O*/*U/R*/-BL`
+* honourable `HOPB/RABL/A*U`
 * seat, `SAOET KW-BG`
 * afterwards `A*FRDZ`
 * dance `TKAPBS`
@@ -718,7 +718,7 @@
 * whereupon `WRUP`
 * curtesy `xxx curtesy`
 * company, `K-P KW-BG`
-* hasted `HA*FT/-D`
+* hasted `H*/A*/S*/T*/-D`
 * fast `TPAFT`
 * could. `KO TP-PL`
 * home, `HOEPL KW-BG`

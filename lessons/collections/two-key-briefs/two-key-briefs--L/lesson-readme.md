@@ -3,7 +3,7 @@
 * it'll `T-L`
 * historical `HOEURL`
 * recall `-RL`
-* al `HRO*ER/AL`
+* al `AL`
 * El `EL`
 * you'll `UL`
 * willing `-LG`

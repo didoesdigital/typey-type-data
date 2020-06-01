@@ -742,7 +742,7 @@
 * brought `PWRAUT`
 * East `AO*EFT`
 * West `W*EFT`
-* Indies. `*EU/TPH*/TK*/*EU/*E/S* TP-PL`
+* Indies. `*EUP/TPH*/TK*/*EU/*E/S* TP-PL`
 * They `KPA/THE`
 * clay, `KHRAEU KW-BG`
 * form `TPORPL`

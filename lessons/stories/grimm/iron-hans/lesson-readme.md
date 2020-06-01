@@ -522,7 +522,7 @@
 * city. `STEU TP-PL`
 * work, `WORBG KW-BG`
 * none, `TPHOPB KW-BG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * himself. `H*EUPLS TP-PL`
 * At `KPA/AT`
 * court `KORT`

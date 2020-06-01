@@ -410,7 +410,7 @@
 * hear `HAER`
 * here `HAOER`
 * heard `HAERD`
-* herd `HE*RD`
+* herd `H*ERD`
 * heated `HAOET/-D`
 * heeded `HAOED/-D`
 * hew `HAO*U`
@@ -530,7 +530,7 @@
 * load `HRAOD`
 * lode `HROED`
 * loan `HRAOPB`
-* lone `HROPB`
+* lone `HROEPB`
 * loch `HRO/*FP`
 * lock `HROBG`
 * locks `HROBGZ`
@@ -735,7 +735,7 @@
 * rime `REUPL/SKWR*E`
 * right `RAOEUT`
 * rite `RAO*EUT`
-* Wright `WRA*ET`
+* Wright `WRAOEUGT`
 * write `WREU`
 * ring `REUPBG`
 * wring `WREUPBG`

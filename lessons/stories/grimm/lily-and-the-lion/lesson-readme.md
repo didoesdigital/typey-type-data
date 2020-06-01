@@ -369,7 +369,7 @@
 * thing; `THEUPBG STPH*FPLT`
 * least `HRAOEFT`
 * ray `RAEU`
-* torch-light `TOFRB H-PB HRAOEUT`
+* torch-light `TOFRPB H-PB HRAOEUT`
 * fall `TPAUL`
 * enchantment `EPB/KHAPLT`
 * become `PW-BG`
@@ -428,7 +428,7 @@
 * face `TPAEUS`
 * earth, `*ERT KW-BG`
 * now `TPHOU`
-* feather, `TP*ET KW-BG`
+* feather, `TP*ERT KW-BG`
 * show `SHOE`
 * am `APL`
 * going; `TKPW-G STPH*FPLT`
@@ -440,7 +440,7 @@
 * door, `TKAOR KW-BG`
 * poor `PAOR`
 * followed; `TPOLD STPH*FPLT`
-* feather `TP*ET`
+* feather `TP*ERT`
 * fell, `TPEL KW-BG`
 * showed `SHOED`
 * journey. `SKWRURPB TP-PL`
@@ -480,7 +480,7 @@
 * hill's `HEUL AES`
 * top `TOP`
 * valley's `SRAL/KWREU AES`
-* depth--hast `TK*EPT H-PB H-PB HA*FT`
+* depth--hast `TK*EPT H-PB H-PB H*/A*/S*/T*`
 * thou `THO*U`
 * anywhere `TPHEUR`
 * dove?' `TKOF H-F AE`
@@ -501,7 +501,7 @@
 * unto `UPB/TO`
 * night, `TPHAOEUT KW-BG`
 * field `TPAOELD`
-* grove--hast `TKPWROEF H-PB H-PB HA*FT`
+* grove--hast `TKPWROEF H-PB H-PB H*/A*/S*/T*`
 * moon, `PHAOPB KW-BG`
 * cannot `K/TPHOT`
 * help `HEP`
@@ -513,7 +513,7 @@
 * blowest `PWHROE/EFT`
 * tree `TRAOE`
 * under `TPH-PB`
-* leaf--hast `HRAOEF H-PB H-PB HA*FT`
+* leaf--hast `HRAOEF H-PB H-PB H*/A*/S*/T*`
 * night-wind, `TPHAOEUT H-PB WEUPBD KW-BG`
 * 'but `AE PWUT`
 * ask `SK`
@@ -587,7 +587,7 @@
 * way; `WAEU STPH*FPLT`
 * if, `TP KW-BG`
 * therefore, `TH-FR KW-BG`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * forget `TPERGT`
 * nut, `TPHUT KW-BG`
 * sea.' `SAE TP-PL AE`

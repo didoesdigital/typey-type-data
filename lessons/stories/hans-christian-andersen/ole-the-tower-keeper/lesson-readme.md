@@ -90,7 +90,7 @@
 * might `PHAOEUT`
 * been. `PW-PB TP-PL`
 * He `KPA/HE`
-* studied, `STUD/EUD KW-BG`
+* studied, `STOEUD KW-BG`
 * too, `TAO KW-BG`
 * been `PW-PB`
 * assistant `SEUFPBT`
@@ -1357,7 +1357,7 @@
 * inscription, `EUPB/SKREUPGS KW-BG`
 * 'Quicker `AE KPA/KW*EURBG`
 * melts `PHELTS`
-* didst `TKEU/*T`
+* didst `TK*/*EU/TK*/S*/T*`
 * thou `THO*U`
 * help!' `HEP SKHRAPL AE`
 * fancy `TPAEPBS`

@@ -46,7 +46,7 @@
 * Catherine `KA*T/REUPB`
 * Virginia `SRA*`
 * Debra `TK*EB/RA`
-* Rachel `RAEUFPL`
+* Rachel `RAEU/KHEL`
 * Janet `SKWRAPB/ET`
 * Emma `EPL/PHA`
 * Carolyn `KA*R/HREUPB`

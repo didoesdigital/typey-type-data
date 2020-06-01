@@ -101,6 +101,7 @@
 * reserved `REFRBD`
 * representation `REPGS`
 * temples `TA*EPLS`
+* govern `TKPWOFRPB`
 * formation `TPAURGS`
 * prohibition `PROEUBGS`
 * inspiration `SPRAEUGS`

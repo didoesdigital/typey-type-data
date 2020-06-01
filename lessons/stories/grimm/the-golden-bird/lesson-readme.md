@@ -124,7 +124,7 @@
 * harm; `HARPL STPH*FPLT`
 * only `OEPBL`
 * dropped `TKROPD`
-* feather `TP*ET`
+* feather `TP*ERT`
 * from `TPR`
 * tail, `TAEUL KW-BG`
 * then `THEPB`

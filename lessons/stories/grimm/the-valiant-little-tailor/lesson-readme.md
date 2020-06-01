@@ -563,7 +563,7 @@
 * thought: `THAUT STPH-FPLT`
 * 'It `AE KPA/T`
 * more `PHOR`
-* spacious `SPAERBS`
+* spacious `SPAEURBS`
 * workshop.' `WO*P TP-PL AE`
 * bed, `PWED KW-BG`
 * lie `HRAOEU`
@@ -1029,7 +1029,7 @@
 * outside, `OUDZ KW-BG`
 * asleep `A/SHRAOEP`
 * in, `TPH KW-BG`
-* bind `PWEUPBD`
+* bind `PWAOEUPBD`
 * board `PWAORD`
 * ship `SHEUP`
 * wide `WAOEUD`

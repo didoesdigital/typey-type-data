@@ -187,7 +187,7 @@
 * than `THAPB`
 * span `SPAPB`
 * which `WEU`
-* extends `ST*EPBDZ`
+* extends `EBGS/TEPBDZ`
 * only `OEPBL`
 * time `TAOEUPL`
 * when `WHEPB`

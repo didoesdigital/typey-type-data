@@ -673,7 +673,7 @@
 * walked `WAUBGD`
 * castle `KAFL`
 * large `HRARPBLG`
-* avenue `AFP`
+* avenue `AEF`
 * into; `TPHAO STPH*FPLT`
 * surprised `SPRAOEUFD`
 * was, `WAS KW-BG`
@@ -691,7 +691,7 @@
 * always `AULS`
 * valiant. `SRAL/KWRAPBT TP-PL`
 * He `KPA/HE`
-* spacious `SPAERBS`
+* spacious `SPAEURBS`
 * everything `EFRG`
 * frozen `TPROEFPB`
 * fearless `TPAOERLS`

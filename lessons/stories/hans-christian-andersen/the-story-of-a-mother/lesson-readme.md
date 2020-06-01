@@ -712,7 +712,7 @@
 * yours. `KWROURS TP-PL`
 * Take `KPA/TAEUBG`
 * back—they `PWABG EPL/TKA*RB THE`
-* clearer `KHAOER/*ER`
+* clearer `KHRAOER/*ER`
 * now `TPHOU`
 * before—and `PW-FR EPL/TKA*RB SKP`
 * well `WEL`

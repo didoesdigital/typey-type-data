@@ -509,7 +509,7 @@
 * sackful `SABG/-FL`
 * They `KPA/THE`
 * feed `TPAOED`
-* pigs `PAO*EGS`
+* pigs `PEUGZ`
 * with." `W TP-PL KR-GS`
 * terrible `TERBL`
 * waste," `WAEFT KW-BG KR-GS`

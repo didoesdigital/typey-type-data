@@ -709,7 +709,7 @@
 * mother!" `PHOER SKHRAPL KR-GS`
 * birds, `PWEURDZ KW-BG`
 * fell `TPEL`
-* feather `TP*ET`
+* feather `TP*ERT`
 * until `TPH-L`
 * bleeding `PWHRAOEGD`
 * rose-bush. `ROEZ H-PB PWURB TP-PL`
@@ -901,7 +901,7 @@
 * number `TPHUPL`
 * black, `PWHRABG KW-BG`
 * white, `WHAOEUT KW-BG`
-* gaily-coloured `TKPWAEU/HREU H-PB KHROURD/A*U`
+* gaily-coloured `TKPWAEU/HREU H-PB KHROURD`
 * pigeons, `PEUPBLG/-PBS KW-BG`
 * sunlight. `SULGT TP-PL`
 * pigeon-mothers `PEUGS H-PB PHOERS`
@@ -1191,11 +1191,11 @@
 * permission `PERPLGS`
 * dig `TKEUG`
 * given `TKPWEUFPB`
-* architect, `TREGT KW-BG`
+* architect, `TREBGT KW-BG`
 * finer `TPAOEURPB`
 * never `TPHEFR`
 * seen. `SAOEPB TP-PL`
-* architect `TREGT`
+* architect `TREBGT`
 * planted `PHRAPBT/-D`
 * emblem `EPL/PWHREPL`
 * yielded `KWRAOELD/-D`

@@ -306,7 +306,7 @@
 * boundless `PWOUPBD/-LS`
 * love `HRUF`
 * God, `TKPWO*D KW-BG`
-* extends `ST*EPBDZ`
+* extends `EBGS/TEPBDZ`
 * works `WORBGS`
 * creation, `KRAEGS KW-BG`
 * everything `EFRG`

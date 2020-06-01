@@ -599,7 +599,7 @@
 * token `TO*EPB`
 * book, `PWAOBG KW-BG`
 * snowdrop: `STPHOE/TK-LS/TKROP STPH-FPLT`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * meaning." `PHAOEPBG TP-PL KR-GS`
 * Snowdrop `KPA/STPHOE/TK-LS/TKROP`
 * back `PWABG`

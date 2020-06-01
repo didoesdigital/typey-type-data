@@ -258,7 +258,7 @@
 * given `TKPWEUFPB`
 * thee? `THAOE H-F`
 * Thou `KPA/THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * nothing `TPHOG`
 * else `ELS`
 * do `TKO`

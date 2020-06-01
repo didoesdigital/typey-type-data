@@ -310,7 +310,7 @@
 * together, `TOGT KW-BG`
 * become `PW-BG`
 * acquainted, `A/KWAEUPBTD KW-BG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * love `HRUF`
 * each `AOEFP`
 * other. `OER TP-PL`

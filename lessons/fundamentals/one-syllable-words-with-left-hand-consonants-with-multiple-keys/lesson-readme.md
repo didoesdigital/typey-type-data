@@ -462,6 +462,7 @@
 * snapped `STPHAPD`
 * greet `TKPWRAOET`
 * logs `HROGS`
+* diet `TKAOEUT`
 * maids `PHAEUDZ`
 * bees `PWAOES`
 * lays `HRAEUZ`

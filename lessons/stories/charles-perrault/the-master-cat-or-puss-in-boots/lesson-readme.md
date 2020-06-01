@@ -412,7 +412,7 @@
 * needs `TPHAOEDZ`
 * airing. `AEURG TP-PL`
 * overjoyed `AUFR/SKWROEUD`
-* project `PROPBL`
+* project `PROPBLG`
 * begin `TKPWEUPB`
 * succeed, `SKAOED KW-BG`
 * marched `PHAFRPBD`
@@ -611,7 +611,7 @@
 * Princess, `KPA/PREUPB/SES KW-BG`
 * followed `TPOLD`
 * first. `TPEUFRT TP-PL`
-* spacious `SPAERBS`
+* spacious `SPAEURBS`
 * hall, `HAUL KW-BG`
 * found `TPOUPBD`
 * magnificent `PHAFPBT`

@@ -596,7 +596,7 @@
 * soft `SOFT`
 * voice `SROEUS`
 * cried `KRAOEUD`
-* parlour: `PAR/HROUR/A*U STPH-FPLT`
+* parlour: `PAR/HROR/A*U STPH-FPLT`
 * 'Nibble, `AE KPA/TPHEUBL KW-BG`
 * nibble, `TPHEUBL KW-BG`
 * gnaw, `TPHA*U KW-BG`
@@ -877,7 +877,7 @@
 * over.' `OEFR TP-PL AE`
 * 'Little `AE KPA/HREUL`
 * duck, `TKUBG KW-BG`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * thou `THO*U`
 * see, `SAOE KW-BG`
 * waiting `WAEUGT`
@@ -909,7 +909,7 @@
 * afar `A/TPAR`
 * run, `RUPB KW-BG`
 * rushed `RURBD`
-* parlour, `PAR/HROUR/A*U KW-BG`
+* parlour, `PAR/HROR/A*U KW-BG`
 * themselves `TH*EPLS`
 * neck. `TPHEBG TP-PL`
 * man `PHAPB`

@@ -595,7 +595,7 @@
 * brighter. `PWRAOEURT TP-PL`
 * cry `KRAOEU`
 * that—no, `THA EPL/TKA*RB TPHO KW-BG`
-* splendor `SHREPBD/O*R`
+* splendor `SPHREPBD/O*R`
 * joy! `SKWROEU SKHRAPL`
 * confident, `K-FT KW-BG`
 * yet `KWRET`
@@ -674,7 +674,7 @@
 * Fowl. `KPA/TPO*UL TP-PL`
 * "Aha, `KR-GS xxx Aha KW-BG`
 * allies," `AL/HRAOEUS KW-BG KR-GS`
-* quoth `KWO*ET`
+* quoth `KW*/*U/O*/T*/H*`
 * "Just `KR-GS KPA/SKWRUFT`
 * thing!" `THEUPBG SKHRAPL KR-GS`
 * turned `TURPBD`

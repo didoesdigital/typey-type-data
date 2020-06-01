@@ -77,7 +77,7 @@
 * able `ABL`
 * join `SKWROEUPB`
 * song `SOPBG`
-* chorus `KHOERS`
+* chorus `KHOURS`
 * bliss." `PWHREUS TP-PL KR-GS`
 * These `KPA/THEZ`
 * words `WORDZ`
@@ -287,7 +287,7 @@
 * forest `TPOEFRT`
 * its `EUTS`
 * spring `SPREUPBG`
-* verdure, `SRER/SKWRUR KW-BG`
+* verdure, `KR*/*E/R*/TK*/*U/R*/*E KW-BG`
 * till `TEUL`
 * neighbor's `TPHAEUB AES`
 * son `SOPB`

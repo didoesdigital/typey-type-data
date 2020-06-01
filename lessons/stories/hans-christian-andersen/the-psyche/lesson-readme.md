@@ -565,7 +565,7 @@
 * era `ER/KWRA`
 * arisen `A/RAOEUZ/-D`
 * poor `PAOR`
-* studio. `STOEUD TP-PL`
+* studio. `STAOUD/KWROE TP-PL`
 * Life `KPA/HRAOEUF`
 * cheerfulness `KHAOER/-FL/-PBS`
 * gleamed `TKPWHRAOEPL/-D`
@@ -1387,12 +1387,12 @@
 * happy `HAEP`
 * now? `TPHOU H-F`
 * Thou `KPA/THO*U`
-* hast `HA*FT`
+* hast `H*/A*/S*/T*`
 * sinned `SEUPB/-D`
 * against `TKPWEPBS`
 * God, `TKPWO*D KW-BG`
 * boon `PWAOPB`
-* thee—hast `THAOE EPL/TKA*RB HA*FT`
+* thee—hast `THAOE EPL/TKA*RB H*/A*/S*/T*`
 * neglected `TPHEGD`
 * mission `PHEUGS`
 * world! `WORLD SKHRAPL`
@@ -1405,11 +1405,11 @@
 * truth! `TRAO*UT SKHRAPL`
 * gained? `TKPWAEUPBD H-F`
 * found? `TPOUPBD H-F`
-* Dost `KPA/TKO/*T`
+* Dost `KPA/TK*/O*/S*/T*`
 * fashion `TPAGS`
 * thyself `THAOEU/SEFL`
 * religion `RE/HR-GS`
-* dreamy `TKRAOE/PH*EU`
+* dreamy `TKRAOEPL/KWREU`
 * thine `THAOEUPB`
 * idea, `KWR-D KW-BG`
 * do? `TKO H-F`
@@ -1539,7 +1539,7 @@
 * lacked `HRABGD`
 * strength, `STREPBG KW-BG`
 * strength `STREPBG`
-* didst `TKEU/*T`
+* didst `TK*/*EU/TK*/S*/T*`
 * give `TKPWEUF`
 * Immortality—the `KPA/EUPL/POR/TALT EPL/TKA*RB -T`
 * breast—away `PWREFT EPL/TKA*RB A/WAEU`

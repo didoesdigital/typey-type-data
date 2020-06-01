@@ -553,7 +553,7 @@
 * pieces `PAOEFS`
 * furniture `TPURPBT`
 * sing `SEUPBG`
-* chorus, `KHOERS KW-BG`
+* chorus, `KHOURS KW-BG`
 * "'Klink! `KR-GS AE xxx Klink SKHRAPL`
 * clanks! `KHRA*PBG/-S SKHRAPL`
 * thousand `THOEUPB`

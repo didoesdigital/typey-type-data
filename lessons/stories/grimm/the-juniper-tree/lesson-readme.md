@@ -557,7 +557,7 @@
 * kerchief `xxx kerchief`
 * me, `PHE KW-BG`
 * lie `HRAOEU`
-* Underneath `KPA/UPBD/TPHO*ET`
+* Underneath `KPA/UPBD/TPHAO*ET`
 * Kywitt, `xxx Kywitt KW-BG`
 * am `APL`
 * I!' `EU SKHRAPL AE`

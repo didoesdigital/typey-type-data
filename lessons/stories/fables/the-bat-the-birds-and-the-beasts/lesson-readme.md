@@ -44,7 +44,7 @@
 * Beasts `KPA/PWAOEFT/-S`
 * who `WHO`
 * passing `PAFG`
-* underneath `UPBD/TPHO*ET`
+* underneath `UPBD/TPHAO*ET`
 * him `HEUPL`
 * looked `HRAOBGD`
 * up `UP`

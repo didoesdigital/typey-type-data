@@ -115,7 +115,7 @@
 * sat `SAT`
 * thin `THEUPB`
 * stalk `STAUBG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * from `TPR`
 * surroundings `SRAOUPBD/-G`
 * how `HOU`
@@ -211,7 +211,7 @@
 * near `TPHAOER`
 * least `HRAOEFT`
 * all `AUL`
-* splendour." `SHREPBD/O*UR/A*U TP-PL KR-GS`
+* splendour." `SHREPBD/O*R/A*U TP-PL KR-GS`
 * And `AFPBD`
 * still `STEUL`
 * thinking, `THEUG KW-BG`
@@ -509,7 +509,7 @@
 * each `AOEFP`
 * your `KWROUR`
 * fragrant `TPRAEUG/RAPBT`
-* remind `R*EUPBD`
+* remind `RAO*EUPBD`
 * lost." `HRO*S TP-PL KR-GS`
 * wish `WEURB`
 * console `KAUPB/SOEL`

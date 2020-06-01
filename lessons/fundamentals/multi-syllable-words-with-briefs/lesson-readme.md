@@ -195,6 +195,7 @@
 * contributed `KR-BTD`
 * licensed `HR-PBD`
 * transfer `TRAF`
+* Australia `AUS`
 * sentences `STPH-PBSZ`
 * enters `SPWR-S`
 * conference `K-FPBS`
@@ -220,6 +221,7 @@
 * ultimately `*ULT`
 * envelope `TPH-FL`
 * headquarters `H-RS`
+* alternate `HR-RPBT`
 * identity `AOEUTD`
 * consist `KAO`
 * transport `TR-PT`
@@ -229,6 +231,7 @@
 * accepts `SEPS`
 * accounted `K-TD`
 * observer `OERB`
+* avenue `AEF`
 * efficient `TP-RBT`
 * ideals `KWR-LS`
 * conferred `K-FRD`

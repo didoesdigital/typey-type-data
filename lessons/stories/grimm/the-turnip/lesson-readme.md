@@ -446,7 +446,7 @@
 * yet `KWRET`
 * an `APB`
 * below, `PWHRO KW-BG`
-* learnt `HRERPBT/A*U`
+* learnt `HRERPBT`
 * matters `PHAERTS`
 * unknown `UPB/TPHOEPB`
 * sat `SAT`
@@ -495,7 +495,7 @@
 * dangling `TKAPBG/-LG`
 * 'How `AE KPA/HOU`
 * friend?' `TPREPBD H-F AE`
-* 'dost `AE TKO/*T`
+* 'dost `AE TK*/O*/S*/T*`
 * comes `KOPLS`
 * unto `UPB/TO`
 * thee? `THAOE H-F`

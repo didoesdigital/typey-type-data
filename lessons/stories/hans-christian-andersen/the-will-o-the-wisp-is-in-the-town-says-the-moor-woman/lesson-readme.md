@@ -263,7 +263,7 @@
 * found `TPOUPBD`
 * beam `PWAEPL`
 * new `TPHU`
-* splendor, `SHREPBD/O*R KW-BG`
+* splendor, `SPHREPBD/O*R KW-BG`
 * lovelier `xxx lovelier`
 * ever. `-FR TP-PL`
 * "Who `KR-GS KPA/WHO`
@@ -481,7 +481,7 @@
 * legends. `HREPBLGDZ TP-PL`
 * Down `KPA/TKOUPB`
 * part `PART`
-* avenue `AFP`
+* avenue `AEF`
 * chestnut `KHEFT/TPHUT`
 * lures `HRURS`
 * wanderer `WAPBD/RER`

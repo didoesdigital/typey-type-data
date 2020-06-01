@@ -22,7 +22,7 @@
 * straw. `STRAU TP-PL`
 * "Ho! `KR-GS KPA/HO*E SKHRAPL`
 * ho!" `HO*E SKHRAPL KR-GS`
-* quoth `KWO*ET`
+* quoth `KW*/*U/O*/T*/H*`
 * he, `HE KW-BG`
 * "that's `KW-GS/THATS`
 * for `TPOR`

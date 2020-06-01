@@ -100,7 +100,7 @@
 * go," `TKPW KW-BG KR-GS`
 * "I `KR-GS EU`
 * have `SR`
-* nought `TPHA*UT`
+* nought `TPHAUT/A*U`
 * man `PHAPB`
 * who `WHO`
 * can `K`

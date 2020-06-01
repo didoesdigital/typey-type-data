@@ -301,7 +301,7 @@
 * here `HAOER`
 * there, `THR KW-BG`
 * Until `KPA/TPH-L`
-* parlour `PAR/HROUR/A*U`
+* parlour `PAR/HROR/A*U`
 * door. `TKAOR TP-PL`
 * With `KPA/W`
 * five `TPEUF`

@@ -128,7 +128,7 @@
 * mournest `PHOURPB/EFT`
 * thou, `THO*U KW-BG`
 * wherefore `W-R/TPOR`
-* dost `TKO/*T`
+* dost `TK*/O*/S*/T*`
 * thou `THO*U`
 * suffer `SUFR`
 * thus?" `THUS H-F KR-GS`
@@ -197,13 +197,13 @@
 * courage, `KORPBLG KW-BG`
 * form `TPORPL`
 * arose `A/ROES`
-* splendor `SHREPBD/O*R`
+* splendor `SPHREPBD/O*R`
 * majesty, `PHAPBLG/STEU KW-BG`
 * vanished `SRAPB/EURBD`
 * glancing `TKPWHRAPBS/-G`
 * northern `TPHOERPB`
 * light. `HRAOEUT TP-PL`
-* Nought `KPA/TPHA*UT`
+* Nought `KPA/TPHAUT/A*U`
 * be `-B`
 * seen `SAOEPB`
 * green `TKPWRAOEPB`

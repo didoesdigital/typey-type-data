@@ -35,7 +35,7 @@
 * superscript `SAOUP/SKREUPT`
 * subscript `SAUB/SKREUPT`
 * scrobble `SKROBL`
-* feather `TP*ET`
+* feather `TP*ERT`
 * iPhone `TPO*EPB`
 * affinity `A/TPEUPBT`
 * agile `APBLG/AOEUL`

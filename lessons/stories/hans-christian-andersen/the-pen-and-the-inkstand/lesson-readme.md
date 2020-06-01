@@ -250,7 +250,7 @@
 * pearls; `PERLS STPH*FPLT`
 * birds `PWEURDZ`
 * twittering `HRO*ER/TWEUT/*ER/-G`
-* chorus, `KHOERS KW-BG`
+* chorus, `KHOURS KW-BG`
 * then `THEPB`
 * rising `RAOEUFG`
 * swelling `SWELG`
