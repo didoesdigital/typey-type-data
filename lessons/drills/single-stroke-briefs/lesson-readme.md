@@ -4584,7 +4584,6 @@
 * secrecy `SKRAES`
 * secret `SKRET`
 * secretaries `SEBGTS`
-* secretary `SEBGT/REU`
 * secrete `SKRAOET`
 * secretion `SKRAOEGS`
 * sect `SEBGT`
@@ -5473,7 +5472,6 @@
 * stubble `STUBL`
 * stubborn `STURPB`
 * stud `STUD`
-* studio `STAOUD/KWROE`
 * stuffer `STUFR`
 * stuffing `STUFG`
 * stump `STUFRP`
