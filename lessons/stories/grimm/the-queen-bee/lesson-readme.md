@@ -102,7 +102,7 @@
 * eggs. `EGS TP-PL`
 * But `KPA/PWUT`
 * dwarf `TKWAFR`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Let `AE KPA/HRET`
 * things `THEUPBGS`
 * enjoy `TPHOEUPBLG`
@@ -195,7 +195,7 @@
 * then `THEPB`
 * rose `ROEZ`
 * He `KPA/HE`
-* said `SAEUD`
+* said `SED`
 * nothing, `TPHOG KW-BG`
 * took `TAOBG`
 * hold `HOLD`
@@ -225,7 +225,7 @@
 * disenchanted. `TKEUS/EPB/KHAPBT/-D TP-PL`
 * first `TPEUFRT`
 * tablet `TABLT`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'In `AE KPA/TPH`
 * wood, `WAOD KW-BG`
 * moss, `PHOS KW-BG`

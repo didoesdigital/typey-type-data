@@ -69,7 +69,7 @@
 * asleep. `A/SHRAOEP TP-PL`
 * In `KPA/TPH`
 * after `AF`
-* said `SAEUD`
+* said `SED`
 * prayers, `PRAEURS KW-BG`
 * sat `SAT`
 * himself `H*EUPLS`

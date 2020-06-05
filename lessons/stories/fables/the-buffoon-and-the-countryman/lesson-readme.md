@@ -38,7 +38,7 @@
 * But `KPA/PWUT`
 * Countryman `KPA/KREU/PHA*PB`
 * stood `STAOD`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Call `KR-GS KPA/KAUL`
 * pig's `PEUG AES`
 * squeak! `SKWAOEBG SKHRAPL`

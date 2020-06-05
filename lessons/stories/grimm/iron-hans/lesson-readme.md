@@ -41,7 +41,7 @@
 * has `HAS`
 * befallen `PWE/TPAUL/*EPB`
 * him,' `HEUPL KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * king, `KEUPBG KW-BG`
 * and `SKP`
@@ -62,7 +62,7 @@
 * third `THEURD`
 * day, `TKAEU KW-BG`
 * huntsmen, `HUPBTS/PH*EPB KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Scour `AE KPA/SKOUR`
 * whole `WHOEL`
 * through, `THRU KW-BG`

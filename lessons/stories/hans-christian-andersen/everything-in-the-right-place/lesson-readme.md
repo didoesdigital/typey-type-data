@@ -195,7 +195,7 @@
 * assist `S*EUFT`
 * her. `HER TP-PL`
 * place," `PHRAEUS KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * imitating `EUPL/TAEUT/-G`
 * noble `TPHOEBL`
 * baron, `PWAR/ROPB KW-BG`
@@ -226,7 +226,7 @@
 * flute `TPHRAOUT`
 * yonder `KWROPBD/ER`
 * mansion," `PHAPBGS KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * given `TKPWEUFPB`
 * him `HEUPL`
 * great `TKPWRAET`
@@ -321,7 +321,7 @@
 * staked `STAEUBGD`
 * card `KARD`
 * lost. `HRO*S TP-PL`
-* said `SAEUD`
+* said `SED`
 * when `WHEPB`
 * last `HRAFT`
 * safely `SAEUFL`

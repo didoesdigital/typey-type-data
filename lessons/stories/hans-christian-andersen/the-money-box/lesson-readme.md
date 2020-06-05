@@ -195,7 +195,7 @@
 * has `HAS`
 * its `EUTS`
 * value," `SRAOUL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * wagon; `WAG/OPB STPH*FPLT`
 * "we `KR-GS WE`
 * cannot `K/TPHOT`
@@ -217,7 +217,7 @@
 * message. `PHEPBLG TP-PL`
 * But `KPA/PWUT`
 * reply, `RE/PHREU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * if `TP`
 * part, `PART KW-BG`
 * enjoy `TPHOEUPBLG`

@@ -18,7 +18,7 @@
 * coming `KO*G`
 * down `TKOUPB`
 * road, `RAOD KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "I `KR-GS EU`
 * see `SAOE`
 * way `WAEU`

@@ -53,7 +53,7 @@
 * grisly `TKPWREUS/HREU`
 * skeleton, `SKEL/TOPB KW-BG`
 * appeared `A/PAOERD`
-* said `SAEUD`
+* said `SED`
 * to `TO`
 * him: `HEUPL STPH-FPLT`
 * "What `KR-GS KPA/WHA`

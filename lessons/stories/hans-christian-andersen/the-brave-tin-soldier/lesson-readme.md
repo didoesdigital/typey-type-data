@@ -298,7 +298,7 @@
 * toy `TOEU`
 * puzzle. `PUFL TP-PL`
 * soldier," `SHRERPBLG KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * goblin, `TKPWOB/HREUPB KW-BG`
 * "don't `KW-GS/TKOEPBT`
 * wish `WEURB`
@@ -387,7 +387,7 @@
 * happened `HAPD`
 * pass `PAS`
 * by, `PWEU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Look, `KR-GS KPA/HRAOBG KW-BG`
 * soldier. `SHRERPBLG TP-PL`
 * ought `OT`

@@ -229,7 +229,7 @@
 * good `TKPWAOD`
 * food `TPAOD`
 * found; `TPOUPBD STPH*FPLT`
-* said `SAEUD`
+* said `SED`
 * pitiful `PEUT/-FL`
 * tone: `TOEPB STPH-FPLT`
 * 'Something `AE KPA/S-G`
@@ -537,7 +537,7 @@
 * sacksful `SABG/-S/-FL`
 * millet-seed `PHEUL/ET H-PB SAOED`
 * grass; `TKPWRAS STPH*FPLT`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Tomorrow `AE KPA/TORPL`
 * morning `PHORPBG`
 * sunrise `SUPB/RAOEUS`

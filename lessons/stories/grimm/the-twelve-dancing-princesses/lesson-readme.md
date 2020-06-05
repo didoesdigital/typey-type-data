@@ -172,7 +172,7 @@
 * what `WHA`
 * better `PWOERT`
 * do,' `TKO KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * soldier; `SHRERPBLG STPH*FPLT`
 * 'but `AE PWUT`
 * think `THEU`
@@ -205,7 +205,7 @@
 * asleep.' `A/SHRAOEP TP-PL AE`
 * gave `TKPWAEUF`
 * cloak, `KHROEBG KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'As `AE KPA/AZ`
 * on `OPB`
 * become `PW-BG`

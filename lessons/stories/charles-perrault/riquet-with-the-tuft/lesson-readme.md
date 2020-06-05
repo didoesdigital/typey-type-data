@@ -92,7 +92,7 @@
 * began `TKPWAPB`
 * prattle, `PRAT/*L KW-BG`
 * but `PWUT`
-* said `SAEUD`
+* said `SED`
 * thousand `THOEUPB`
 * pretty `PREUT`
 * things, `THEUPBGS KW-BG`

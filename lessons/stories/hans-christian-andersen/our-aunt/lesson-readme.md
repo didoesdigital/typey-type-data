@@ -76,7 +76,7 @@
 * "The `KR-GS KPA/-T`
 * my `PHEU`
 * school," `SKAOL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * she, `SHE KW-BG`
 * "the `KR-GS -T`
 * source `S-RS`
@@ -395,7 +395,7 @@
 * already `HR-R`
 * connected `KEBGTD`
 * machinery, `PH-PB/REU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * benefactor. `PWEPB/TPABG/TOR TP-PL`
 * custom `KUFPL`
 * those `THOZ`
@@ -652,7 +652,7 @@
 * all, `AUL KW-BG`
 * soil `SOEUL`
 * lips `HREUPS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * Flabs, `xxx Flabs KW-BG`
 * whole `WHOEL`
 * written `WREUPB`

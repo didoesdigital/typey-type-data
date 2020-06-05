@@ -203,7 +203,7 @@
 * wherever `W-FR`
 * was. `WAS TP-PL`
 * "Here," `KR-GS KPA/HAOER KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "are `KR-GS R`
 * keys `KAOES`
@@ -439,7 +439,7 @@
 * again `TKPWEPB`
 * same `SAEUPL`
 * evening, `AOEPBG KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * received `SAOEFD`
 * letters `HRERTS`
 * road, `RAOD KW-BG`
@@ -576,7 +576,7 @@
 * "Anne, `KR-GS A*EPB KW-BG`
 * Anne, `A*EPB KW-BG`
 * coming?" `KO*G H-F KR-GS`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * sun, `SUPB KW-BG`
 * makes `PHAEUBGS`
 * dust, `TKUFT KW-BG`

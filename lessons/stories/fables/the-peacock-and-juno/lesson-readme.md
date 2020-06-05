@@ -35,7 +35,7 @@
 * favourite `TPAEUFRT/A*U`
 * bird, `PWEURD KW-BG`
 * she `SHE`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Be `KR-GS KPA/-B`
 * content `KAUPBT`
 * with `W`

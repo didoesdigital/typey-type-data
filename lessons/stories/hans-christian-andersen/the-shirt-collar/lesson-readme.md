@@ -53,7 +53,7 @@
 * "Upon `KR-GS KPA/POPB`
 * my `PHEU`
 * word," `WORD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * shirt-collar, `SHEURT H-PB KHRAR KW-BG`
 * "I `KR-GS EU`
 * have `SR`

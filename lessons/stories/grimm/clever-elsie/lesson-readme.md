@@ -18,13 +18,13 @@
 * up `UP`
 * her `HER`
 * father `TPAER`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'We `AE KPA/WE`
 * will `HR`
 * get `TKPWET`
 * married.' `PHAERD TP-PL AE`
 * 'Yes,' `AE KPA/KWRE KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * mother, `PHOER KW-BG`
 * 'if `AE TP`

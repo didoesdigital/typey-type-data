@@ -30,7 +30,7 @@
 * obtained `OB/TAEUPBD`
 * first `TPEUFRT`
 * prize," `PRAOEUZ KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * hare. `HA*ER TP-PL`
 * "Justice `KR-GS KPA/SKWRUFS`
 * must `PHUFT`

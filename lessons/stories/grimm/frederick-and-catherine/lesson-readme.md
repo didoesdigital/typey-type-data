@@ -22,7 +22,7 @@
 * One `KPA/WUPB`
 * day `TKAEU`
 * Frederick `TPRED/REUBG`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * 'Kate! `AE KA*ET SKHRAPL`
 * I `EU`
 * am `APL`
@@ -51,7 +51,7 @@
 * ale.' `AEL TP-PL AE`
 * 'Very `AE KPA/SRE`
 * well,' `WEL KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * she, `SHE KW-BG`
 * 'it `AE T`
 * all `AUL`
@@ -240,7 +240,7 @@
 * quite `KWAOEUT`
 * pleased `PHRAOEFD`
 * cleverness, `KHREFR/-PBS KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'How `AE KPA/HOU`
 * very `SRE`
 * neat `TPHAOET`

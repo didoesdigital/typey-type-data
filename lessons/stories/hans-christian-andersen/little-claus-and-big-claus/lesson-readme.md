@@ -112,7 +112,7 @@
 * proud `PROUD`
 * smacked `SPHABGD`
 * whip, `WHEUP KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Gee-up, `KR-GS KPA/SKWRAOE H-PB UP KW-BG`
 * my `PHEU`
 * horses." `HORSZ TP-PL KR-GS`
@@ -121,7 +121,7 @@
 * not `TPHOT`
 * say `SAEU`
 * that," `THA KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Big `KPA/PWEUG`
 * Claus; `xxx Claus STPH*FPLT`
 * "for `KR-GS TPOR`

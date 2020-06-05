@@ -3,7 +3,7 @@
 * "Be `KR-GS KPA/-B`
 * quiet `KWAO*EUT`
 * now," `TPHOU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * an `APB`
 * old `OLD`
 * Nurse `KPA/TPHURS`
@@ -36,7 +36,7 @@
 * window `WOEUPBD`
 * as `AZ`
 * this `TH`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * So `KPA/SO`
 * he `HE`
 * crouched `KROUFPD`

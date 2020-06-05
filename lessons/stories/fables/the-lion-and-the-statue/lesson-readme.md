@@ -58,7 +58,7 @@
 * all `AUL`
 * very `SRE`
 * well," `WEL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Lion, `KPA/HRO*EUPB KW-BG`
 * "but `KR-GS PWUT`
 * proves `PROFS`

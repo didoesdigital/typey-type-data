@@ -80,7 +80,7 @@
 * cut `KUT`
 * two. `TWO TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "No `KR-GS KPA/TPHO`
 * gratitude `TKPWRAT/TAOUD`

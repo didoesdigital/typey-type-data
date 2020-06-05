@@ -20,7 +20,7 @@
 * by. `PWEU TP-PL`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * Cousin," `KPA/KUZ KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * Dog. `KPA/TKOG TP-PL`
 * "I `KR-GS EU`

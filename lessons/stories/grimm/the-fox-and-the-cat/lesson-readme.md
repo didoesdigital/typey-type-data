@@ -71,7 +71,7 @@
 * not. `TPHOT TP-PL`
 * At `KPA/AT`
 * last `HRAFT`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Oh, `AE KPA/O*ERBGS KW-BG`
 * wretched `WREFPD`
 * beard-cleaner, `PWAERD H-PB KHRAOERPB KW-BG`
@@ -120,7 +120,7 @@
 * myself.' `PHAO*EUS TP-PL AE`
 * 'Is `AE KPA/S`
 * all?' `AUL H-F AE`
-* said `SAEUD`
+* said `SED`
 * master `PHAFRT`
 * hundred `HUPBD`
 * arts, `ARTS KW-BG`

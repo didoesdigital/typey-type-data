@@ -148,7 +148,7 @@
 * fresh `TPRERB`
 * blotting-paper `PWHROGT H-PB PAEUP`
 * absorbed `SPWORBD`
-* said `SAEUD`
+* said `SED`
 * asked `SK-D`
 * more. `PHOR TP-PL`
 * very `SRE`
@@ -164,7 +164,7 @@
 * see `SAOE`
 * Rome," `RO*EPL KW-BG KR-GS`
 * she `SHE`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "it `KR-GS T`
 * must `PHUFT`
 * lovely `HROFL`
@@ -466,7 +466,7 @@
 * morning. `PHORPBG TP-PL`
 * "She `KR-GS KPA/SHE`
 * accustomed `A/KUFPD`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * beauty, `PWAOUT KW-BG`
 * tired. `TAOEURD TP-PL`
 * sleep `SHRAOEP`
@@ -699,7 +699,7 @@
 * works. `WORBGS TP-PL`
 * silent, `SHREPBT KW-BG`
 * approbation `ARP/PWAEUGS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * while `WHAOEUL`
 * mamma-in-law `PHAPL/PHA H-PB TPH H-PB HRAU`
 * made `PHAED`

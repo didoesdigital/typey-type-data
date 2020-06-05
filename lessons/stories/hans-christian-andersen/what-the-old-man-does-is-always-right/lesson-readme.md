@@ -172,7 +172,7 @@
 * know `TPHOE`
 * best, `PWEFT KW-BG`
 * man," `PHAPB KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * "It `KR-GS KPA/T`
 * fair-day `TPAEUR TKA*EU`
 * to-day; `TO H-PB TKAEU STPH*FPLT`
@@ -266,7 +266,7 @@
 * Hallo `HA*L/KWRO`
 * there! `THR SKHRAPL`
 * cow," `KO*U KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "I `KR-GS EU`
 * what; `WHA STPH*FPLT`
 * dare `TKAEUR`
@@ -376,7 +376,7 @@
 * sorts `SORTS`
 * profits `PROFTS`
 * How `KPA/HOU`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'If `AE KPA/TP`
 * now `TPHOU`
 * goose!' `TKPWAOS SKHRAPL AE`
@@ -529,7 +529,7 @@
 * rotten. `ROT/EPB TP-PL`
 * property, `PROT KW-BG`
 * woman `WOPL`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * see `SAOE`
 * property—a `PROT EPL/TKA*RB AEU`
 * sackful; `SABG/-FL STPH*FPLT`
@@ -579,7 +579,7 @@
 * that?" `THA H-F KR-GS`
 * one. `WUPB TP-PL`
 * "Why, `KR-GS KPA/KWR KW-BG`
-* know"—said `TPHOE KR-GS EPL/TKA*RB SAEUD`
+* know"—said `TPHOE KR-GS EPL/TKA*RB SED`
 * exchanged `KPAEUPBG/-D`
 * cow, `KO*U KW-BG`
 * down `TKOUPB`

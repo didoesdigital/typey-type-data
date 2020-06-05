@@ -287,7 +287,7 @@
 * kissed `K*EUFD`
 * me, `PHE KW-BG`
 * eyes `AO*EUS`
-* said `SAEUD`
+* said `SED`
 * quite `KWAOEUT`
 * plainly, `PHRAEUPBL KW-BG`
 * 'I `AE EU`
@@ -443,7 +443,7 @@
 * lamp; `HRAFRP STPH*FPLT`
 * believe `PWHREF`
 * nothing `TPHOG`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * And `AFPBD`
 * discovered `SKOFD`
 * power `POUR`
@@ -556,7 +556,7 @@
 * gifts. `TKPWEUFTS TP-PL`
 * penetrate `PEPB/TRAEUT`
 * thoroughly," `THORL KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * becoming `PW-BG/-G`
 * rusty, `RUS/TEU KW-BG`
 * and, `SKP KW-BG`
@@ -842,7 +842,7 @@
 * imagine `PHAPBLG`
 * seeing `SAOEG`
 * all," `AUL KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * taper `TAEURP`
 * smallest `SPHAUL/EFT`
 * detail `TKE/TAEUL`

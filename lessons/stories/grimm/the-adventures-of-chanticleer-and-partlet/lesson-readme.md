@@ -15,7 +15,7 @@
 * quite `KWAOEUT`
 * ripe `RAOEUP`
 * now,' `TPHOU KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * Chanticleer `xxx Chanticleer`
 * to `TO`
 * his `HEUS`
@@ -429,7 +429,7 @@
 * drove. `TKROEF TP-PL`
 * Soon `KPA/SAOPB`
 * cat `KAT`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Where `AE KPA/W-R`
 * going?' `TKPW-G H-F AE`
 * replied, `RE/PHRAOEUD KW-BG`

@@ -135,7 +135,7 @@
 * sent `SEPBT`
 * another `TPHOER`
 * Jove, `SKWROEF KW-BG`
-* said `SAEUD`
+* said `SED`
 * him, `HEUPL KW-BG`
 * "We `KR-GS KPA/WE`
 * want `WAPBT`

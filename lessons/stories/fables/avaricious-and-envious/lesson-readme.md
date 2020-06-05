@@ -57,7 +57,7 @@
 * gold. `TKPWOELD TP-PL`
 * No `KPA/TPHO`
 * sooner `SAORPB`
-* said `SAEUD`
+* said `SED`
 * than `THAPB`
 * done; `TKOPB STPH*FPLT`
 * all `AUL`

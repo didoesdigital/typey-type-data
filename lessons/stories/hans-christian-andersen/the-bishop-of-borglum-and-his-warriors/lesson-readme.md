@@ -326,7 +326,7 @@
 * woman `WOPL`
 * do `TKO`
 * rule?" `RAOUL H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * bishop. `PWEURB/OP TP-PL`
 * summoned `SPHUPBD`
 * law `HRAU`

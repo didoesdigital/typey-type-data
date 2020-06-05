@@ -49,7 +49,7 @@
 * breast, `PWREFT KW-BG`
 * she `SHE`
 * stopped `STOPD`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Good `KR-GS KPA/TKPWAOD`
 * evening, `AOEPBG KW-BG`
 * soldier; `SHRERPBLG STPH*FPLT`
@@ -71,7 +71,7 @@
 * "Thank `KR-GS KPA/THAPBG`
 * you, `U KW-BG`
 * witch," `WEUFP KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * soldier. `SHRERPBLG TP-PL`
 * "Do `KR-GS KPA/TKO`
 * see `SAOE`
@@ -478,7 +478,7 @@
 * her?" `HER H-F KR-GS`
 * "She `KR-GS KPA/SHE`
 * all," `AUL KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "she `KR-GS SHE`
 * lives `HREUFS`
 * castle, `KAFL KW-BG`

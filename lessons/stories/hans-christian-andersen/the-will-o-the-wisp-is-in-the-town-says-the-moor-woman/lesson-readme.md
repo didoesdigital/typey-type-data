@@ -17,7 +17,7 @@
 * from `TPR`
 * him—so `HEUPL EPL/TKA*RB SO`
 * he `HE`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * The `KPA/-T`
 * Story `KPA/STOER`
 * that `THA`
@@ -109,7 +109,7 @@
 * past `PAFT`
 * gone—so `TKPWOPB EPL/TKA*RB SO`
 * people `PAOEPL`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * yet `KWRET`
 * door, `TKAOR KW-BG`
 * or `OR`
@@ -125,7 +125,7 @@
 * gone `TKPWOPB`
 * other `OER`
 * things," `THEUPBGS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * man. `PHAPB TP-PL`
 * But `KPA/PWUT`
 * story `STOER`
@@ -646,7 +646,7 @@
 * down, `TKOUPB KW-BG`
 * large; `HRARPBLG STPH*FPLT`
 * meadow `PHED/OE`
-* vapor. `SRAEUP TP-PL`
+* vapor. `SRAEURP TP-PL`
 * moor-woman `PHO*R H-PB WOPL`
 * brewing. `PWRAOU/-G TP-PL`
 * evening. `AOEPBG TP-PL`
@@ -1336,7 +1336,7 @@
 * veil. `SRAEUL TP-PL`
 * "'Take `KR-GS AE KPA/TAEUBG`
 * that,' `THA KW-BG AE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'and `AE SKP`
 * you'll `UL`
 * higher `HAOEUR`

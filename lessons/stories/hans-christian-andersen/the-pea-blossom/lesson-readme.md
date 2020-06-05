@@ -104,7 +104,7 @@
 * is `S`
 * turning `TURPBG`
 * suppose," `SPOS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * they,—and `THE KW-BG EPL/TKA*RB SKP`
 * perhaps `PRAPS`
 * right. `RAOEUT TP-PL`
@@ -368,7 +368,7 @@
 * opened `OEPD`
 * it. `T TP-PL`
 * "Oh!" `KR-GS KPA/O*ERBGS SKHRAPL KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "there `KR-GS THR`
 * actually `TAOULT`
 * pea `PAE`

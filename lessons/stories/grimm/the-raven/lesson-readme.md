@@ -41,7 +41,7 @@
 * castle, `KAFL KW-BG`
 * opened `OEPD`
 * window, `WOEUPBD KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'I `AE EU`
 * wish `WEURB`
 * you `U`
@@ -107,7 +107,7 @@
 * As `KPA/AZ`
 * drew `TKRAOU`
 * near, `TPHAOER KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * am `APL`
 * by `PWEU`
 * birth `PW*EURT`
@@ -288,7 +288,7 @@
 * before `PW-FR`
 * reached `RAOEFPD`
 * spot, `SPOT KW-BG`
-* said `SAEUD`
+* said `SED`
 * herself, `H*ERS KW-BG`
 * sighing, `SAOEU/-G KW-BG`
 * has `HAS`

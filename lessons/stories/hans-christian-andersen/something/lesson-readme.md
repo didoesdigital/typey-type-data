@@ -12,7 +12,7 @@
 * in `TPH`
 * the `-T`
 * world," `WORLD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * eldest `ELD/EFT`
 * of `-F`
 * five `TPEUF`
@@ -675,7 +675,7 @@
 * her. `HER TP-PL`
 * am `APL`
 * woman," `WOPL KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "without `KR-GS WOUT`
 * family. `TPAEPL TP-PL`
 * dyke." `TKAOEUBG TP-PL KR-GS`
@@ -689,7 +689,7 @@
 * claim `KHRAEUPL`
 * doors `TKAORS`
 * open `OEP`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * through `THRU`
 * mercy `PHER/SEU`
 * allowed `HRO*UD`

@@ -71,7 +71,7 @@
 * 'I `AE EU`
 * know `TPHOE`
 * would,' `WO KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * man; `PHAPB STPH*FPLT`
 * 'it `AE T`
 * is `S`
@@ -92,7 +92,7 @@
 * Then `KPA/THEPB`
 * eldest `ELD/EFT`
 * son `SOPB`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * will `HR`
 * soon `SAOPB`
 * find `TPAOEUPBD`
@@ -404,7 +404,7 @@
 * several `SEFRL`
 * knights `TPHAO*EUT/-S`
 * sitting `SEUGT`
-* trance; `TRA*PBS STPH*FPLT`
+* trance; `T*/R*/A*/TPH*/KR*/*E STPH*FPLT`
 * pulled `PULD`
 * rings `REUPBGS`
 * fingers. `TPEURPBGS TP-PL`

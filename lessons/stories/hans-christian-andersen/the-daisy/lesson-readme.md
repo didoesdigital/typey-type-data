@@ -413,7 +413,7 @@
 * piece `PAOES`
 * turf `T*UFR`
 * lark," `HRARBG KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * boys, `PWOEUS KW-BG`
 * square `SKWAEUR`
 * remained `RE/PHAEUPBD`
@@ -490,7 +490,7 @@
 * little. `HREUL TP-PL`
 * noticed `TPH-TS/-D`
 * nodded `TPHOD/-D`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "You `KR-GS KPA/U`
 * also `HR-S`
 * fade `TPAEUD`

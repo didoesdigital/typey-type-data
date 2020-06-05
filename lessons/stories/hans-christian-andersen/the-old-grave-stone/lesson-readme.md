@@ -93,7 +93,7 @@
 * an `APB`
 * grave-stone. `TKPWRAEUF H-PB STOEPB TP-PL`
 * "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * master `PHAFRT`
 * "I `KR-GS EU`
 * believe `PWHREF`
@@ -314,13 +314,13 @@
 * love `HRUF`
 * each `AOEFP`
 * other. `OER TP-PL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * only `OEPBL`
 * stood `STAOD`
 * listened `HREUFPBD`
 * what `WHA`
 * others `OERS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * filled `TPEULD`
 * me `PHE`
 * strange `STRAEUPBG`

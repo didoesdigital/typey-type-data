@@ -103,7 +103,7 @@
 * Their `KPA/THAEUR`
 * colours `KHROURS/A*U`
 * patterns, `PAT/ERPBS KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * exceptionally `SEPBGS/HREU`
 * beautiful, `PWAOUFL KW-BG`
 * but `PWUT`
@@ -285,10 +285,10 @@
 * "Now, `KR-GS KPA/TPHOU KW-BG`
 * you `U`
 * say?" `SAEU H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * while `WHAOEUL`
 * busily `PWEUZ/HREU`
-* weaving. `WEFG TP-PL`
+* weaving. `WAOEFG TP-PL`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * pretty, `PREUT KW-BG`
 * exceedingly `EBGS/AOED/TKPWHREU`
@@ -315,7 +315,7 @@
 * attentively, `A/TEPBT/EUFL KW-BG`
 * might `PHAOEUT`
 * relate `RELT`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * did. `TK TP-PL`
 * Now `KPA/TPHOU`
 * more `PHOR`
@@ -471,7 +471,7 @@
 * arms `ARPLS`
 * something `S-G`
 * hands `HAPBDZ`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "These `KR-GS KPA/THEZ`
 * trousers!" `TROUZ/ERS SKHRAPL KR-GS`
 * "This `KR-GS KPA/TH`
@@ -571,7 +571,7 @@
 * father, `TPAER KW-BG`
 * whispered `WHEUS/PERD`
 * other `OER`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * cried `KRAOEUD`
 * people. `PAOEPL TP-PL`
 * deep `TKAOEP`

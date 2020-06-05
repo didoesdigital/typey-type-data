@@ -28,7 +28,7 @@
 * faggot `TPAGT`
 * sticks, `STEUBGS KW-BG`
 * and `SKP`
-* said `SAEUD`
+* said `SED`
 * eldest `ELD/EFT`
 * son: `SOPB STPH-FPLT`
 * "Break `KR-GS KPA/PWRAEBG`

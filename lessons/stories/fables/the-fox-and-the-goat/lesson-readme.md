@@ -34,7 +34,7 @@
 * have `SR`
 * you `U`
 * heard?" `HAERD H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * Fox; `KPA/TPOBGS STPH*FPLT`
 * "there `KR-GS THR`
 * is `S`

@@ -58,7 +58,7 @@
 * stirring. `STEURG TP-PL`
 * "Come `KR-GS KPA/KOPL`
 * in," `TPH KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * flower. `TPHRO*UR TP-PL`
 * "I `KR-GS EU`
 * cannot," `K/TPHOT KW-BG KR-GS`
@@ -328,7 +328,7 @@
 * "You'll `KR-GS KPA/U AE HR*/HR*`
 * break!" `PWRAEBG SKHRAPL KR-GS`
 * they `THE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "and `KR-GS SKP`
 * fade, `TPAEUD KW-BG`
 * fade! `TPAEUD SKHRAPL`
@@ -401,7 +401,7 @@
 * "He `KR-GS KPA/HE`
 * my `PHEU`
 * gauk," `xxx gauk KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * took `TAOBG`
 * laid `HRAEUD`
 * piece `PAOES`

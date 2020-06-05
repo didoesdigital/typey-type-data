@@ -275,7 +275,7 @@
 * isn't `S-PBT`
 * how `HOU`
 * made," `PHAED KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * "It's `KR-GS KPA/T AES`
 * thing `THEUPBG`
 * happens `HAPS`
@@ -362,7 +362,7 @@
 * Uncle `*UPBG/-L`
 * me `PHE`
 * Real," `KPA/RAEL KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "That `KR-GS KPA/THA`
 * many `PHAEPB`
 * years `KWRAOERS`
@@ -439,7 +439,7 @@
 * open, `OEP KW-BG`
 * swoop. `SWAOP TP-PL`
 * "Here," `KR-GS KPA/HAOER KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "take `KR-GS TAEUBG`
 * Bunny! `KPA/PWUPB/TPHEU SKHRAPL`
 * He'll `KPA/HE AE HR*/HR*`

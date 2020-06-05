@@ -123,7 +123,7 @@
 * approached `A/PROEFPD`
 * royal `ROEUL`
 * spirit, `SPEURT KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Why `KR-GS KPA/KWR`
 * mournest `PHOURPB/EFT`
 * thou, `THO*U KW-BG`

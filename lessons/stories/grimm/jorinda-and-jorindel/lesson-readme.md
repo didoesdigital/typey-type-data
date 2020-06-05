@@ -127,7 +127,7 @@
 * might `PHAOEUT`
 * alone; `A/HROEPB STPH*FPLT`
 * Jorindel `xxx Jorindel`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'We `AE KPA/WE`
 * must `PHUFT`
 * care `KAEUR`
@@ -329,7 +329,7 @@
 * dear `TKAER`
 * Jorinda: `xxx Jorinda STPH-FPLT`
 * laughed `HRAFD`
-* said `SAEUD`
+* said `SED`
 * again; `TKPWEPB STPH*FPLT`
 * then `THEPB`
 * way. `WAEU TP-PL`

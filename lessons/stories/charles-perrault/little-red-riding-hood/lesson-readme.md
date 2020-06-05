@@ -58,7 +58,7 @@
 * having `SR-G`
 * some `SOPL`
 * girdle-cakes, `TKPWEURD/*L H-PB KAEUBG/-S KW-BG`
-* said `SAEUD`
+* said `SED`
 * to `TO`
 * her: `HER STPH-FPLT`
 * "Go, `KR-GS KPA/TKPW KW-BG`

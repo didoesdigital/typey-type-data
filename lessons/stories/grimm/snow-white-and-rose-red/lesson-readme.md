@@ -93,7 +93,7 @@
 * went `WEPBT`
 * out `OUT`
 * together, `TOGT KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'We `AE KPA/WE`
 * will `HR`
 * not `TPHOT`
@@ -191,7 +191,7 @@
 * looked `HRAOBGD`
 * quite `KWAOEUT`
 * kindly `KAOEUPBD/HREU`
-* said `SAEUD`
+* said `SED`
 * into `TPHAO`
 * forest. `TPOEFRT TP-PL`
 * And `AFPBD`
@@ -867,7 +867,7 @@
 * gold. `TKPWOELD TP-PL`
 * king's `KEUPBG/AES`
 * son,' `SOPB KW-BG AE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'and `AE SKP`
 * bewitched `PWE/WEUFP/-D`
 * stolen `STOEL/EPB`

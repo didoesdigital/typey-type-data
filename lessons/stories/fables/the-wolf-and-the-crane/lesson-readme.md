@@ -53,7 +53,7 @@
 * would `WO`
 * give `TKPWEUF`
 * anything," `TPHEUG KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "if `KR-GS TP`
 * you `U`
@@ -97,7 +97,7 @@
 * grinned `TKPWREUPB/-D`
 * showed `SHOED`
 * teeth `TAO*ET`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Be `KR-GS KPA/-B`
 * content. `KAUPBT TP-PL`
 * You `KPA/U`

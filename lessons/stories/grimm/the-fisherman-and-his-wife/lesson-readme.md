@@ -55,7 +55,7 @@
 * fish. `TPEURB TP-PL`
 * But `KPA/PWUT`
 * fish `TPEURB`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Pray `AE KPA/PRAEU`
 * let `HRET`
 * me `PHE`
@@ -74,7 +74,7 @@
 * go!' `TKPW SKHRAPL AE`
 * 'Oh, `AE KPA/O*ERBGS KW-BG`
 * ho!' `HO*E SKHRAPL AE`
-* said `SAEUD`
+* said `SED`
 * man, `PHAPB KW-BG`
 * 'you `AE U`
 * need `TPHAOED`
@@ -161,7 +161,7 @@
 * stood `STAOD`
 * water's `WAUR AES`
 * edge, `EPBLG KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'O `AE O*P`
 * man `PHAPB`
 * sea! `SAE SKHRAPL`

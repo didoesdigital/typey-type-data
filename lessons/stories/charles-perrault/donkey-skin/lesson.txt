@@ -355,7 +355,7 @@ Donkey-Skin
 'last': HRAFT
 'hour': HOUR
 'approach,': PROEFP KW-BG
-'said': SAEUD
+'said': SED
 'to': TO
 'her': HER
 'husband,': HUS KW-BG
@@ -424,7 +424,7 @@ Donkey-Skin
 'dear': TKAER
 'spouse,"': SPOUS KW-BG KR-GS
 'he': HE
-'said': SAEUD
+'said': SED
 'at': AT
 'last,': HRAFT KW-BG
 '"speak': KR-GS SPAOEBG
@@ -677,7 +677,7 @@ Donkey-Skin
 'a': AEU
 'trifle,': TRAOEUFL KW-BG
 'and': SKP
-'said': SAEUD
+'said': SED
 'that': THA
 'it': T
 'mattered': PHAERTD
@@ -1101,7 +1101,7 @@ Donkey-Skin
 'dear': TKAER
 'child,"': KHAOEULD KW-BG KR-GS
 'she': SHE
-'said': SAEUD
+'said': SED
 'to': TO
 'her,': HER KW-BG
 '"it': KR-GS T
@@ -1395,7 +1395,7 @@ Donkey-Skin
 'comfort': K-FRT
 'her': HER
 'and': SKP
-'said:': SAEUD STPH-FPLT
+'said:': SED STPH-FPLT
 '"Either': KR-GS KPA/AOERT
 'I': EU
 'am': APL
@@ -1593,7 +1593,7 @@ Donkey-Skin
 'my': PHEU
 'child,"': KHAOEULD KW-BG KR-GS
 'she': SHE
-'said': SAEUD
+'said': SED
 'to': TO
 'the': -T
 'Princess,': KPA/PREUPB/SES KW-BG
@@ -2941,7 +2941,7 @@ Donkey-Skin
 'tears.': TAERS TP-PL
 '"Madam,"': KR-GS PHAD/APL KW-BG KR-GS
 'he': HE
-'said': SAEUD
+'said': SED
 'at': AT
 'last,': HRAFT KW-BG
 'in': TPH
@@ -3070,7 +3070,7 @@ Donkey-Skin
 '"Well,': KR-GS KPA/WEL KW-BG
 'Madam,"': PHAD/APL KW-BG KR-GS
 'he': HE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"since': KR-GS SEUPBS
 'you': U
 'would': WO
@@ -3173,7 +3173,7 @@ Donkey-Skin
 '"It': KR-GS KPA/T
 'matters': PHAERTS
 'not,"': TPHOT KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'Queen;': KWAO*EPB STPH*FPLT
 '"my': KR-GS PHEU
@@ -3729,7 +3729,7 @@ Donkey-Skin
 'the': -T
 'King': KO*EUPBG
 'had': H
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 'and': SKP
 'the': -T
 'Prince,': PR*EUPBS KW-BG
@@ -3739,7 +3739,7 @@ Donkey-Skin
 'tears': TAERS
 'and': SKP
 'caresses,': KA/RES/S*E KW-BG
-'said': SAEUD
+'said': SED
 'to': TO
 'them:': THEPL STPH-FPLT
 '"My': KR-GS KPA/PHEU
@@ -4015,13 +4015,13 @@ Donkey-Skin
 'me': PHE
 'the': -T
 'cake,"': KAEUBG KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'Prince.': PR*EUPBS TP-PL
 'Everyone': KPA/EFRPB
 'laughed': HRAFD
 'and': SKP
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"No,"': KR-GS KPA/TPHO KW-BG KR-GS
 'so': SO
 'dirty': TKOEURT
@@ -4035,14 +4035,14 @@ Donkey-Skin
 'her': HER
 'at': AT
 'once,"': WUPBS KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'King;': KO*EUPBG STPH*FPLT
 '"it': KR-GS T
 'shall': SHAL
 'not': TPHOT
 'be': -B
-'said': SAEUD
+'said': SED
 'that': THA
 'I': EU
 'left': HREFT
@@ -4264,7 +4264,7 @@ Donkey-Skin
 'and': SKP
 'confounded,': KOPB/TPOUPBD/-D KW-BG
 'he': HE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"Is': KR-GS KPA/S
 'it': T
 'you': U
@@ -4293,7 +4293,7 @@ Donkey-Skin
 'me': PHE
 'your': KWROUR
 'hand,"': HAPBD KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'Prince': PR*EUPBS
 'trembling,': TREPL/-BLG KW-BG

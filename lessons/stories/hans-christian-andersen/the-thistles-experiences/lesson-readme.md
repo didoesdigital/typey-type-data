@@ -124,7 +124,7 @@
 * bride `PWRAOEUD`
 * worth `WO*RT`
 * winning, `W-G KW-BG`
-* said `SAEUD`
+* said `SED`
 * more `PHOR`
 * than `THAPB`
 * one `WUPB`
@@ -182,7 +182,7 @@
 * is `S`
 * flower `TPHRO*UR`
 * Scotland," `SKOT/HRAPBD KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * blooms `PWHRAOPL/-S`
 * scutcheon `xxx scutcheon`
 * my `PHEU`
@@ -336,7 +336,7 @@
 * lively `HRAOEUFL`
 * manner, `PHAERPB KW-BG`
 * last `HRAFT`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * full `TPUL`
 * conviction, `K-FBGS KW-BG`
 * pot." `POT TP-PL KR-GS`

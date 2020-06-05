@@ -242,7 +242,7 @@
 * robbery, `ROB/REU KW-BG`
 * but `PWUT`
 * nothing `TPHOG`
-* said `SAEUD`
+* said `SED`
 * any `TPHEU`
 * avail, `A/SRAEUL KW-BG`
 * answered `AEPBS/-D`

@@ -56,7 +56,7 @@
 * do `TKO`
 * you `U`
 * for?" `TPOR H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * Satyr. `KPA/SAEURT TP-PL`
 * "My `KR-GS KPA/PHEU`
 * are `R`

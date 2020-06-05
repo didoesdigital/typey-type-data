@@ -63,7 +63,7 @@
 * bade `PWAEUD`
 * good `TKPWAOD`
 * day, `TKAEU KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Do `AE KPA/TKO`
 * give `TKPWEUF`
 * me `PHE`
@@ -132,7 +132,7 @@
 * drink `TKREU`
 * son, `SOPB KW-BG`
 * too, `TAO KW-BG`
-* said `SAEUD`
+* said `SED`
 * sensibly `SEPBS/PWHREU`
 * enough: `TPHUF STPH-FPLT`
 * 'What `AE KPA/WHA`

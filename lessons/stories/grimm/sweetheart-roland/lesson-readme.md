@@ -51,7 +51,7 @@
 * quiet, `KWAO*EUT KW-BG`
 * my `PHEU`
 * child,' `KHAOEULD KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * old `OLD`
 * woman, `WOPL KW-BG`
 * 'and `AE SKP`
@@ -379,7 +379,7 @@
 * now `TPHOU`
 * set `SET`
 * free, `TPRAOE KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Now `AE KPA/TPHOU`
 * father `TPAER`
 * arrange `A/RAEUPBG`

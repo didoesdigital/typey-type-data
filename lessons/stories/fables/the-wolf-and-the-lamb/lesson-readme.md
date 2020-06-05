@@ -58,7 +58,7 @@
 * "Nay, `KR-GS KPA/TPHAEU KW-BG`
 * master, `PHAFRT KW-BG`
 * nay," `TPHAEU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Lambikin; `HRAPL/SKWREU/K*EUPB/STPH*FPLT`
 * be `-B`
 * muddy `PHUD/KWREU`

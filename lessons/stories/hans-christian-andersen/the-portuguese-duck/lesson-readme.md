@@ -11,7 +11,7 @@
 * were `WR`
 * some `SOPL`
 * who `WHO`
-* said `SAEUD`
+* said `SED`
 * she `SHE`
 * came `KAEUPL`
 * Spain, `SPAEUPB KW-BG`
@@ -181,7 +181,7 @@
 * Portuguese. `PORT/TKPWAOES TP-PL`
 * "Poor `KR-GS KPA/PAOR`
 * creature!" `KRAOEFP SKHRAPL KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * another, `TPHOER KW-BG`
 * up. `UP TP-PL`
 * "We `KR-GS KPA/WE`
@@ -222,7 +222,7 @@
 * kindly. `KAOEUPBD/HREU TP-PL`
 * "That `KR-GS KPA/THA`
 * deed," `TKAOED KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * hope `HOEP`
 * others `OERS`
 * will `HR`
@@ -443,7 +443,7 @@
 * dialect: `TKAOEU/HREBGT STPH-FPLT`
 * race `RAEUS`
 * yourself," `KWRO*URS KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * ducks, `TKUBGZ KW-BG`
 * even `AOEPB`
 * Portuguese, `PORT/TKPWAOES KW-BG`

@@ -134,7 +134,7 @@
 * branches. `PWRAFRPBS TP-PL`
 * "Poor `KR-GS KPA/PAOR`
 * rose-bush!" `ROEZ H-PB PWURB SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * child, `KHAOEULD KW-BG`
 * "let `KR-GS HRET`
 * above `PWOF`

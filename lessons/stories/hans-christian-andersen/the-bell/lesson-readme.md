@@ -98,7 +98,7 @@
 * time `TAOEUPL`
 * elapsed: `AOE/HRAPS/-D STPH-FPLT`
 * one `WUPB`
-* said `SAEUD`
+* said `SED`
 * other, `OER KW-BG`
 * "I `KR-GS EU`
 * really `R-L`
@@ -200,7 +200,7 @@
 * no `TPHO`
 * tune, `TAOUPB KW-BG`
 * he `HE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * sweeter `SWAOERT`
 * bell. `PWEL TP-PL`
 * emperor `EPL/ROR`
@@ -380,7 +380,7 @@
 * flowers, `TPHRO*URS KW-BG`
 * therefore, `TH-FR KW-BG`
 * trees, `TRAOES KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Now `KR-GS KPA/TPHOU`
 * are `R`
 * here; `HAOER STPH*FPLT`
@@ -591,7 +591,7 @@
 * "Shall `KR-GS KPA/SHAL`
 * beat `PWAET`
 * him?" `HEUPL H-F KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * thrash `THRARB`
 * him? `HEUPL H-F`
 * son!" `SOPB SKHRAPL KR-GS`

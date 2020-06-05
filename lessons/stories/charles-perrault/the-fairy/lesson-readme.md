@@ -117,7 +117,7 @@
 * my `PHEU`
 * heart, `HART KW-BG`
 * Goody," `KPA/TKPWAO/TKEU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * pretty `PREUT`
 * maid; `PHAEUD STPH*FPLT`
 * rinsing `REUPBS/-G`

@@ -22,7 +22,7 @@
 * daughter `TKAUR`
 * to `TO`
 * bed-side, `PWED H-PB SAOEUD KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Always `AE KPA/AULS`
 * be `-B`
 * good `TKPWAOD`
@@ -106,7 +106,7 @@
 * good-for-nothing `TKPWAOD H-PB TPOR H-PB TPHOG`
 * want `WAPBT`
 * parlour?' `PAR/HROR/A*U H-F AE`
-* said `SAEUD`
+* said `SED`
 * they; `THE STPH*FPLT`
 * 'they `AE THE`
 * who `WHO`
@@ -541,7 +541,7 @@
 * ashes `ARBS`
 * frock. `TPROBG TP-PL`
 * held, `HELD KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * still `STEUL`
 * finer `TPAOEURPB`
 * than `THAPB`

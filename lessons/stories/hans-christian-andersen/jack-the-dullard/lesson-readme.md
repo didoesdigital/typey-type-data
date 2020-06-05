@@ -168,7 +168,7 @@
 * Then `KPA/THEPB`
 * rubbed `RUBD`
 * corners `KRORPB/-S`
-* mouths `PHO*UTSZ`
+* mouths `PHO*UT/-S`
 * fish-oil, `TPEURB H-PB OEUL KW-BG`
 * might `PHAOEUT`
 * become `PW-BG`
@@ -207,7 +207,7 @@
 * "Jack `KR-GS SKWRA*BG`
 * Dullard." `KPA/TKUL/ARD TP-PL KR-GS`
 * "Hallo!" `KR-GS HA*L/KWRO SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * Jack `SKWRA*BG`
 * Dullard, `KPA/TKUL/ARD KW-BG`
 * "where `KR-GS W-R`
@@ -294,7 +294,7 @@
 * carry `KAER`
 * me `PHE`
 * well!" `WEL SKHRAPL KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * done. `TKOPB TP-PL`
 * He `KPA/HE`
 * pressed `PREFD`

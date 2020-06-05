@@ -65,7 +65,7 @@
 * point `POEUPBT`
 * death. `TK*T TP-PL`
 * wrong," `WROPBG KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Ass: `KPA/A*S STPH-FPLT`
 * "Better `KR-GS KPA/PWOERT`
 * humble `HUPL/-BL`

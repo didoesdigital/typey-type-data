@@ -70,7 +70,7 @@
 * He `KPA/HE`
 * pointed `POEUPBTD`
 * hay `HA*EU`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "What `KR-GS KPA/WHA`
 * are `R`
 * those `THOZ`

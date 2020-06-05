@@ -11,7 +11,7 @@
 * a `AEU`
 * mouse, `PHOUS KW-BG`
 * and `SKP`
-* said `SAEUD`
+* said `SED`
 * so `SO`
 * much `PHUFP`
 * to `TO`
@@ -81,7 +81,7 @@
 * length, `HREPBG KW-BG`
 * after `AF`
 * consideration, `K-RGS KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'I `AE EU`
 * no `TPHO`
 * place `PHRAEUS`

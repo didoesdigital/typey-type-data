@@ -46,7 +46,7 @@
 * one. `WUPB TP-PL`
 * One `KPA/WUPB`
 * day `TKAEU`
-* said `SAEUD`
+* said `SED`
 * her: `HER STPH-FPLT`
 * 'Listen, `AE KPA/HREUFPB KW-BG`
 * I `EU`
@@ -106,7 +106,7 @@
 * out, `OUT KW-BG`
 * peasant `PEFPBT`
 * cow-herd `KO*U H-PB H*ERD`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Look, `AE KPA/HRAOBG KW-BG`
 * calf `KAF`
 * there, `THR KW-BG`
@@ -619,7 +619,7 @@
 * himself, `H*EUPLS KW-BG`
 * crowd, `KROUD KW-BG`
 * declared `TKE/KHRAEURD`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * towards `TORDZ`
 * water. `WAUR TP-PL`
 * began `TKPWAPB`
@@ -662,7 +662,7 @@
 * feeding, `TPAOEGD KW-BG`
 * thence `THEPBS`
 * away `A/WAEU`
-* Said `KPA/SAEUD`
+* Said `KPA/SED`
 * peasants: `PEFPBT/-S STPH-FPLT`
 * 'Are `AE KPA/R`
 * yes,' `KWRE KW-BG AE`

@@ -81,7 +81,7 @@
 * 'He's `AE KPA/HE AES`
 * round `ROUPBD`
 * tub,' `TUB KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * she. `SHE TP-PL`
 * next `TPHEGT`
 * tall: `TAUL STPH-FPLT`
@@ -172,7 +172,7 @@
 * alms; `AUPLS STPH*FPLT`
 * heard `HAERD`
 * him, `HEUPL KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Let `AE KPA/HRET`
 * come `KOPL`
 * in.' `TPH TP-PL AE`

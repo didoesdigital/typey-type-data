@@ -104,7 +104,7 @@
 * taking `TAEUG`
 * pity `PEUT/TEU`
 * her, `HER KW-BG`
-* said `SAEUD`
+* said `SED`
 * clergyman, `KHRERPBLG/PHAPB KW-BG`
 * "Look `KR-GS KPA/HRAOBG`
 * here, `HAOER KW-BG`
@@ -390,7 +390,7 @@
 * just `SKWRUFT`
 * lifting `HREUFT/-G`
 * up `UP`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * dancing `TKAPBS/-G`
 * shoes!" `SHAOUS SKHRAPL KR-GS`
 * help `HEP`
@@ -620,7 +620,7 @@
 * "Now, `KR-GS KPA/TPHOU KW-BG`
 * suffered `SUFRD`
 * shoes," `SHAOUS KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * me." `PHE TP-PL KR-GS`
 * quickly `KWEULG`
 * church-door; `KHUFRPB H-PB TKAOR STPH*FPLT`
@@ -657,7 +657,7 @@
 * service `S-FS`
 * there. `THR TP-PL`
 * industrious, `STREUS KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * everything `EFRG`
 * could; `KO STPH*FPLT`
 * mind `PHAOEUPBD`

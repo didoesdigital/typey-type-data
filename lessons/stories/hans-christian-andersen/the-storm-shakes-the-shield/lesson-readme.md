@@ -318,7 +318,7 @@
 * however `HOUF`
 * may `PHAE`
 * grow," `TKPWROE KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * grandfather. `TKPWR-F TP-PL`
 * Nor `KPA/TPH-R`
 * did `TK`
@@ -398,7 +398,7 @@
 * or `OR`
 * signs; `SAOEUPBS STPH*FPLT`
 * and, `SKP KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * instructive `STRUBGT/EUF`
 * thing, `THEUPBG KW-BG`
 * town, `TOUPB KW-BG`
@@ -563,7 +563,7 @@
 * picture `P*EUFP`
 * malice—so `PHAL/EUS EPL/TKA*RB SO`
 * neighbors `TPHAEUBS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * cooper's `HRO*ER/KAORP AES`
 * tub `TUB`
 * under `TPH-PB`

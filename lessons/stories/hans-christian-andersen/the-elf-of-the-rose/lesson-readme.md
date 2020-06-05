@@ -213,7 +213,7 @@
 * "But `KR-GS KPA/PWUT`
 * must `PHUFT`
 * part," `PART KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * man; `PHAPB STPH*FPLT`
 * "your `KR-GS KWROUR`
 * brother `PWROER`
@@ -421,7 +421,7 @@
 * dream `TKRAOEPL`
 * I `EU`
 * you," `U KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "you `KR-GS U`
 * find `TPAOEUPBD`
 * your `KWROUR`

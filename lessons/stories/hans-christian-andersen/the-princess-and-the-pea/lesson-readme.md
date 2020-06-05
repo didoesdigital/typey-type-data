@@ -112,7 +112,7 @@
 * heels. `HAOELS TP-PL`
 * And `AFPBD`
 * yet `KWRET`
-* said `SAEUD`
+* said `SED`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * we'll `WAOEL`
 * soon `SAOPB`

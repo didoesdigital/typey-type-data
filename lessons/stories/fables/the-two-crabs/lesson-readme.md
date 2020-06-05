@@ -18,7 +18,7 @@
 * the `-T`
 * sand. `SAPBD TP-PL`
 * "Child," `KR-GS KPA/KHAOEULD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * mother, `PHOER KW-BG`
 * "you `KR-GS U`
 * are `R`

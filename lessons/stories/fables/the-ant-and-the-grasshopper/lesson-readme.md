@@ -39,7 +39,7 @@
 * come `KOPL`
 * chat `KHAT`
 * me," `PHE KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Grasshopper, `KPA/TKPWHR*FRPBLG KW-BG`
 * "instead `KR-GS STPHED`
 * toiling `TOEUL/-G`

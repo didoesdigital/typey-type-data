@@ -123,7 +123,7 @@
 * "Everything `KR-GS KPA/EFRG`
 * bestowed `PWE/STOEU/-D`
 * here," `HAOER KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * angel. `APB/SKWREL TP-PL`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * not `TPHOT`

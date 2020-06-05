@@ -155,7 +155,7 @@
 * beautiful `PWAOUFL`
 * existence `KPEUFS`
 * is!" `S SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * each `AOEFP`
 * rose. `ROEZ TP-PL`
 * "The `KR-GS KPA/-T`
@@ -579,7 +579,7 @@
 * either. `AOERT TP-PL`
 * "It's `KR-GS KPA/T AES`
 * sparrow," `SPAEUR/ROE KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * not, `TPHOT KW-BG`
 * however, `HOUF KW-BG`
 * let `HRET`

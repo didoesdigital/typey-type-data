@@ -48,7 +48,7 @@
 * him, `HEUPL KW-BG`
 * this `TH`
 * wiser `WAOEUZ/ER`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "You `KR-GS KPA/U`
 * will `HR`
 * only `OEPBL`

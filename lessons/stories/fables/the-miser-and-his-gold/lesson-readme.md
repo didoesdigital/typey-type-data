@@ -78,7 +78,7 @@
 * one `WUPB`
 * them. `THEPL TP-PL`
 * "Nay," `KR-GS KPA/TPHAEU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "I `KR-GS EU`
 * only `OEPBL`

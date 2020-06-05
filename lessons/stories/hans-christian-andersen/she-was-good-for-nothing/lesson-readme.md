@@ -101,7 +101,7 @@
 * good `TKPWAOD`
 * civil `SEUFL`
 * boy," `PWOEU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * mayor. `PHAEUR TP-PL`
 * "I `KR-GS EU`
 * suppose `SPOS`
@@ -214,7 +214,7 @@
 * steady. `STAED TP-PL`
 * carried `KAERD`
 * away," `A/WAEU KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "it `KR-GS T`
 * come, `KOPL KW-BG`
 * want `WAPBT`
@@ -530,7 +530,7 @@
 * shook `SHAOBG`
 * under `TPH-PB`
 * her, `HER KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * long `HROPBG`
 * eat `AOET`
 * whole `WHOEL`

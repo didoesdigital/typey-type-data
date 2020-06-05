@@ -34,7 +34,7 @@
 * he `HE`
 * received. `SAOEFD TP-PL`
 * The `KPA/-T`
-* said `SAEUD`
+* said `SED`
 * him: `HEUPL STPH-FPLT`
 * 'You `AE KPA/U`
 * may `PHAE`
@@ -271,7 +271,7 @@
 * stood `STAOD`
 * before `PW-FR`
 * him, `HEUPL KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Lord, `AE HRO*RD KW-BG`
 * are `R`
 * commands?' `KPHAPBDZ H-F AE`

@@ -142,7 +142,7 @@
 * than `THAPB`
 * wealth `W*ELT`
 * kingdom: `KEUPBG/TKOPL STPH-FPLT`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'One `AE KPA/WUPB`
 * is `S`
 * use `AOUS`
@@ -240,7 +240,7 @@
 * poor. `PAOR TP-PL`
 * 'I `AE EU`
 * silly,' `SEUL/HREU KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * 'if `AE TP`
 * shabby `SHAB/KWREU`
@@ -384,7 +384,7 @@
 * stretched `STREFPD`
 * Before `KPA/PW-FR`
 * gate `TKPWAET`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * chamber `KHAEURPL`
 * hung `HUPBG`
 * cage, `KAEUPBLG KW-BG`
@@ -533,7 +533,7 @@
 * days, `TKAEUS KW-BG`
 * done `TKOPB`
 * little, `HREUL KW-BG`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * 'Lie `AE KPA/HRAOEU`
 * sleep; `SHRAOEP STPH*FPLT`
 * work `WORBG`
@@ -597,7 +597,7 @@
 * away.' `A/WAEU TP-PL AE`
 * This, `KPA/TH KW-BG`
 * too, `TAO KW-BG`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * off `OF`
 * mounted `PHOUPBTD`
 * rode `ROED`

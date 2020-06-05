@@ -265,7 +265,7 @@
 * mentioned `PHEPBGS/-D`
 * here, `HAOER KW-BG`
 * nightingale," `TPHAOEUT/-G/TKPWAEL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * "they `KR-GS THE`
 * say `SAEU`
 * thing `THEUPBG`
@@ -383,7 +383,7 @@
 * little `HREUL`
 * girl `TKPWEURL`
 * kitchen, `K-FP KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * yes, `KWRE KW-BG`
 * quite `KWAOEUT`
 * well; `WEL STPH*FPLT`
@@ -621,7 +621,7 @@
 * other; `OER STPH*FPLT`
 * took `TAOBG`
 * water `WAUR`
-* mouths `PHO*UTSZ`
+* mouths `PHO*UT/-S`
 * make `PHAEUBG`
 * utter `UT/ER`
 * gurgling `TKPWURG/-LG`
@@ -1021,7 +1021,7 @@
 * say." `SAEU TP-PL KR-GS`
 * on, `OPB KW-BG`
 * Chinaman `KWHRAOEUPB/PHA*PB`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * shouted `SHOUT/-D`
 * "You `KR-GS KPA/U`
 * pray `PRAEU`

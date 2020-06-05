@@ -35,7 +35,7 @@
 * is `S`
 * he `HE`
 * doing?" `TK*G H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * others. `OERS TP-PL`
 * "That `KR-GS KPA/THA`
 * seed `SAOED`

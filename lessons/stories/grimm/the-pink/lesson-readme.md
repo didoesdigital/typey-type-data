@@ -36,7 +36,7 @@
 * angel `APB/SKWREL`
 * from `TPR`
 * came `KAEUPL`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Be `AE KPA/-B`
 * at `AT`
 * rest, `REFT KW-BG`
@@ -190,7 +190,7 @@
 * big `PWEUG`
 * enough `TPHUF`
 * speak, `SPAOEBG KW-BG`
-* said `SAEUD`
+* said `SED`
 * him: `HEUPL STPH-FPLT`
 * 'Wish `AE KPA/WEURB`
 * beautiful `PWAOUFL`
@@ -410,7 +410,7 @@
 * eaten, `AOET/EPB KW-BG`
 * satisfied,' `SAED KW-BG AE`
 * there. `THR TP-PL`
-* Said `KPA/SAEUD`
+* Said `KPA/SED`
 * he: `HE STPH-FPLT`
 * dear `TKAER`
 * torn `TORPB`

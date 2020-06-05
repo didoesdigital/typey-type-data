@@ -29,7 +29,7 @@
 * what `WHA`
 * is `S`
 * that?" `THA H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * Cock. `KPA/KOBG TP-PL`
 * "King `KR-GS KO*EUPBG`

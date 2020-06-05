@@ -6,7 +6,7 @@
 * are `R`
 * quite `KWAOEUT`
 * dead," `TKED KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * little `HREUL`
 * Ida, `xxx Ida KW-BG`
 * "they `KR-GS THE`
@@ -462,7 +462,7 @@
 * lawyer `HRAUR`
 * jokes, `SKWROEBGS KW-BG`
 * say `SAEU`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * nonsense `TPHOPB/SEPBS`
 * head! `HED SKHRAPL`
 * absurd `AB/SURD`
@@ -823,7 +823,7 @@
 * keep `KAOEP`
 * bed; `PWED STPH*FPLT`
 * mind `PHAOEUPBD`
-* said,— `SAEUD KW-BG EPL/TKA*RB`
+* said,— `SED KW-BG EPL/TKA*RB`
 * "We `KR-GS KPA/WE`
 * live `HREUF`
 * long. `HROPBG TP-PL`
@@ -909,7 +909,7 @@
 * dead `TKED`
 * "This `KR-GS KPA/TH`
 * coffin," `KOFPB KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * by, `PWEU KW-BG`
 * cousins `KUS/EUPBS`
 * visit `SREUFT`

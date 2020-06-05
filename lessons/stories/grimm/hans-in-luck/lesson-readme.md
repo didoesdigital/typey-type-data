@@ -83,7 +83,7 @@
 * master. `PHAFRT TP-PL`
 * At `KPA/AT`
 * last `HRAFT`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Master, `AE KPA/PHAFRT KW-BG`
 * my `PHEU`
 * time `TAOEUPL`
@@ -156,7 +156,7 @@
 * capital `KPAL`
 * horse. `HORS TP-PL`
 * 'Ah!' `AE KPA/HA*E SKHRAPL AE`
-* said `SAEUD`
+* said `SED`
 * aloud, `A/HROUD KW-BG`
 * 'what `AE WHA`
 * fine `TPAOEUPB`

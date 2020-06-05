@@ -58,7 +58,7 @@
 * also `HR-S`
 * heart; `HART STPH*FPLT`
 * less `HRES`
-* said `SAEUD`
+* said `SED`
 * heart `HART`
 * than `THAPB`
 * money. `PHUPB TP-PL`
@@ -115,7 +115,7 @@
 * am `APL`
 * child `KHAOEULD`
 * court," `KORT KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * now `TPHOU`
 * might `PHAOEUT`
 * just `SKWRUFT`

@@ -150,7 +150,7 @@
 * little `HREUL`
 * pussy `PUS/SEU`
 * cat," `KAT KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * But `KPA/PWUT`
 * rose-tree `ROEZ H-PB TRAOE`
 * unpacked. `UPB/PABGD TP-PL`
@@ -165,7 +165,7 @@
 * more `PHOR`
 * than `THAPB`
 * nice," `TPHAOEUS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * emperor, `EPL/ROR KW-BG`
 * "it `KR-GS T`
 * charming." `KHARPL/-G TP-PL KR-GS`
@@ -176,7 +176,7 @@
 * "For `KR-GS KPA/TPOR`
 * shame, `SHAEUPL KW-BG`
 * pa," `HRO*ER/PA KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * not `TPHOT`
 * artificial, `TPHR*EURBL KW-BG`
 * natural!" `TPHARL SKHRAPL KR-GS`

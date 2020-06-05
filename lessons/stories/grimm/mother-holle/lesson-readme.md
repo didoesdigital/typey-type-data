@@ -96,7 +96,7 @@
 * giving `TKPWEUFG`
 * violent `SRAOEUPBLT`
 * scolding, `SKOLD/-G KW-BG`
-* said `SAEUD`
+* said `SED`
 * unkindly, `UPB/KAOEUPBD/HREU KW-BG`
 * 'As `AE KPA/AZ`
 * you `U`
@@ -306,7 +306,7 @@
 * After `KPA/AF`
 * waiting `WAEUGT`
 * awhile, `A/WHAOEUL KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'I `AE EU`
 * cannot `K/TPHOT`
 * stay `STAEU`
@@ -590,7 +590,7 @@
 * both.' `PWO*T TP-PL AE`
 * short `SHORT`
 * side `SAOEUD`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'See, `AE KPA/SAOE KW-BG`
 * pretty `PREUT`
 * here--why `HAOER H-PB H-PB KWR`
@@ -710,7 +710,7 @@
 * reply. `RE/PHREU TP-PL`
 * 'But, `AE KPA/PWUT KW-BG`
 * eyes `AO*EUS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * see `SAOE`
 * dear.' `TKAER TP-PL AE`
 * hug `HUG`

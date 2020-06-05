@@ -56,7 +56,7 @@
 * lot. `HROT TP-PL`
 * "My `KR-GS KPA/PHEU`
 * brothers," `PWROERS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "may `KR-GS PHAE`
 * get `TKPWET`
@@ -126,7 +126,7 @@
 * much `PHUFP`
 * upon `POPB`
 * what `WHA`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * however `HOUF`
 * often `OFPB`
 * seen `SAOEPB`

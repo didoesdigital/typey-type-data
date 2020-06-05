@@ -42,7 +42,7 @@
 * formed `TPORPLD`
 * blooming `PWHRAOPL/-G`
 * olive `OL/EUF`
-* laurel `HRAURL`
+* laurel `HRAU/REL`
 * branches, `PWRAFRPBS KW-BG`
 * brought `PWRAUT`
 * from `TPR`
@@ -198,7 +198,7 @@
 * came `KAEUPL`
 * by `PWEU`
 * roebuck, `HRO*ER/ROE/PWUBG KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'What `AE KPA/WHA`
 * ailest `AEUL/EFT`
 * thee, `THAOE KW-BG`
@@ -840,7 +840,7 @@
 * beloved `PWHROFD`
 * paid `PAEUD`
 * visit. `SREUFT TP-PL`
-* said `SAEUD`
+* said `SED`
 * longing `HROPBG/-G`
 * much; `PHUFP STPH*FPLT`
 * whole `WHOEL`
@@ -1163,7 +1163,7 @@
 * "To-morrow `KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE`
 * leave `HREF`
 * us," `US KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * am `APL`
 * sorry." `SOER TP-PL KR-GS`
 * "Sorry!" `KR-GS KPA/SOER SKHRAPL KR-GS`

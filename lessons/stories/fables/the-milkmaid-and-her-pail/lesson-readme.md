@@ -36,7 +36,7 @@
 * from `TPR`
 * Farmer `KPA/TPAR/PHER`
 * Brown," `PWRO*UPB KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * she, `SHE KW-BG`
 * "and `KR-GS SKP`
 * they `THE`

@@ -73,7 +73,7 @@
 * attention `A/T-PBGS`
 * what `WHA`
 * he `HE`
-* said `SAEUD`
+* said `SED`
 * than `THAPB`
 * most `PHOFT`
 * other `OER`
@@ -544,7 +544,7 @@
 * am `APL`
 * admitted `AD/PHEUTD`
 * Christians," `KREUGS/-S KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "they `KR-GS THE`
 * mock `PHOBG`
 * girl; `TKPWEURL STPH*FPLT`

@@ -29,7 +29,7 @@
 * together `TOGT`
 * before `PW-FR`
 * house `HOUS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'I `AE EU`
 * will `HR`
 * shoot `SHAOT`
@@ -71,7 +71,7 @@
 * do `TKO`
 * with `W`
 * him?' `HEUPL H-F AE`
-* said `SAEUD`
+* said `SED`
 * shepherd, `SHEP/ERD KW-BG`
 * 'he `AE HE`
 * not `TPHOT`

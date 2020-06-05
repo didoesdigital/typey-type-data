@@ -20,7 +20,7 @@
 * bag `PWAG`
 * tricks," `TREUBGS KW-BG KR-GS`
 * he `HE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "which `KR-GS WEU`
 * contains `KAUPB/TAEUPBS`
 * hundred `HUPBD`
@@ -29,7 +29,7 @@
 * enemies." `EPB/PHEUS TP-PL KR-GS`
 * only `OEPBL`
 * one," `WUPB KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * Cat; `KPA/KAT STPH*FPLT`
 * "but `KR-GS PWUT`
@@ -96,7 +96,7 @@
 * been `PW-PB`
 * looking `HRAOG`
 * on, `OPB KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Better `KR-GS KPA/PWOERT`
 * safe `SAEUF`
 * way `WAEU`

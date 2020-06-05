@@ -38,7 +38,7 @@
 * before `PW-FR`
 * end. `EPBD TP-PL`
 * Then `KPA/THEPB`
-* said `SAEUD`
+* said `SED`
 * beloved: `PWHROFD STPH-FPLT`
 * 'I `AE EU`
 * must `PHUFT`
@@ -97,7 +97,7 @@
 * think `THEU`
 * what `WHA`
 * doing, `TK*G KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Yes, `AE KPA/KWRE KW-BG`
 * dear `TKAER`
 * your `KWROUR`

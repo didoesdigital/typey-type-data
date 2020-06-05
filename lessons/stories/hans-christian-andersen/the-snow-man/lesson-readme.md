@@ -5,7 +5,7 @@
 * so `SO`
 * delightfully `TKHRAOEUT/TPHREU`
 * cold," `KOELD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * Snow `KPA/STPHOE`
 * Man, `KPA/PHAPB KW-BG`
@@ -631,7 +631,7 @@
 * crackling `KRABG/-LG`
 * within `W-PB`
 * me," `PHE KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "Shall `KR-GS KPA/SHAL`
 * get `TKPWET`
 * there? `THR H-F`

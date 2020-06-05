@@ -79,7 +79,7 @@
 * comrade, `KOPL/RAD KW-BG`
 * and, `SKP KW-BG`
 * laughing, `HRAFG KW-BG`
-* said `SAEUD`
+* said `SED`
 * "What `KR-GS KPA/WHA`
 * was `WAS`
 * it `T`

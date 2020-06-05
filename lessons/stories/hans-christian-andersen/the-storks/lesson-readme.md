@@ -164,7 +164,7 @@
 * "Just `KR-GS KPA/SKWRUFT`
 * hear `HAER`
 * singing," `SEUPBG/-G KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * storks; `STORBG/-S STPH*FPLT`
 * "they `KR-GS THE`
 * say `SAEU`
@@ -205,7 +205,7 @@
 * mind. `PHAOEUPBD TP-PL`
 * "See," `KR-GS KPA/SAOE KW-BG KR-GS`
 * she `SHE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "How `KR-GS KPA/HOU`
 * quiet `KWAO*EUT`
 * stands, `STAPBDZ KW-BG`

@@ -122,7 +122,7 @@
 * some `SOPL`
 * same `SAEUPL`
 * sort," `SORT KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * huckster: `HUBG/STER STPH-FPLT`
 * "I `KR-GS EU`
 * gave `TKPWAEUF`

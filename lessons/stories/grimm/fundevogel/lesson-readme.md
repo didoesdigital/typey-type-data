@@ -123,7 +123,7 @@
 * out `OUT`
 * spring. `SPREUPBG TP-PL`
 * saw `SAU`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Listen, `AE KPA/HREUFPB KW-BG`
 * Sanna, `xxx Sanna KW-BG`
 * why `KWR`
@@ -145,7 +145,7 @@
 * would `WO`
 * then `THEPB`
 * cook `KAOBG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Early `AE KPA/ERL`
 * tomorrow `TORPL`
 * morning, `PHORPBG KW-BG`
@@ -165,7 +165,7 @@
 * still `STEUL`
 * bed. `PWED TP-PL`
 * Then `KPA/THEPB`
-* said `SAEUD`
+* said `SED`
 * Fundevogel: `xxx Fundevogel STPH-FPLT`
 * leave `HREF`
 * me, `PHE KW-BG`
@@ -281,7 +281,7 @@
 * distance. `STKAPBS TP-PL`
 * 'Fundevogel, `AE xxx Fundevogel KW-BG`
 * now; `TPHOU STPH*FPLT`
-* Said `KPA/SAEUD`
+* Said `KPA/SED`
 * church, `KHUFRPB KW-BG`
 * I'll `AOEUL`
 * chandelier `KHAPBD/HRAOER`

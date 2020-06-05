@@ -117,7 +117,7 @@
 * cut `KUT`
 * lock `HROBG`
 * hair, `HAEUR KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Take `AE KPA/TAEUBG`
 * it, `T KW-BG`
 * dear `TKAER`
@@ -150,7 +150,7 @@
 * began `TKPWAPB`
 * feel `TPAOEL`
 * thirsty: `THEURS/TEU STPH-FPLT`
-* said `SAEUD`
+* said `SED`
 * maid, `PHAEUD KW-BG`
 * 'Pray `AE KPA/PRAEU`
 * get `TKPWET`
@@ -195,7 +195,7 @@
 * become `PW-BG`
 * me?' `PHE H-F AE`
 * answered `AEPBS/-D`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * alas! `A/HRAS SKHRAPL`
 * if `TP`
 * thy `THAO*EU`

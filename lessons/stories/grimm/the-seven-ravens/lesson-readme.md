@@ -32,7 +32,7 @@
 * not `TPHOT`
 * live; `HREUF STPH*FPLT`
 * but `PWUT`
-* said `SAEUD`
+* said `SED`
 * should `SHO`
 * at `AT`
 * be `-B`
@@ -265,7 +265,7 @@
 * moon `PHAOPB`
 * cold `KOELD`
 * chilly, `KHEUL/HREU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'I `AE EU`
 * smell `SPHEL`
 * flesh `TPHRERB`

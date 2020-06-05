@@ -162,7 +162,7 @@
 * French `TPREFRPB`
 * Italian; `TA*PBL STPH*FPLT`
 * coin `KOEUPB`
-* said `SAEUD`
+* said `SED`
 * they `THE`
 * this `TH`
 * town, `TOUPB KW-BG`
@@ -455,7 +455,7 @@
 * her, `HER KW-BG`
 * looking `HRAOG`
 * earnestly, `ERPB/EFT/HREU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'No, `AE KPA/TPHO KW-BG`
 * try `TREU`
 * deceive `STKAOEF`

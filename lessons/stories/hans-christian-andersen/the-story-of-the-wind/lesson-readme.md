@@ -219,7 +219,7 @@
 * goblets `TKPWOBLT/-S`
 * clashed, `KHRARB/-D KW-BG`
 * I," `EU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * "was `KR-GS WAS`
 * able `ABL`
 * drown `TKROUPB`
@@ -1073,7 +1073,7 @@
 * 'After `AE KPA/AF`
 * spring `SPREUPBG`
 * come,' `KOPL KW-BG AE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'after `AE AF`
 * want, `WAPBT KW-BG`
 * times. `TAOEUPLS TP-PL`

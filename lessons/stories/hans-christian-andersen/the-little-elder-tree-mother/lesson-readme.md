@@ -96,7 +96,7 @@
 * drink `TKREU`
 * your `KWROUR`
 * tea," `TAE KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * mother; `PHOER STPH*FPLT`
 * "perhaps `KR-GS PRAPS`
 * you `U`
@@ -333,7 +333,7 @@
 * wedding `WEGD`
 * take `TAEUBG`
 * place,' `PHRAEUS KW-BG AE`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * it—they `T EPL/TKA*RB THE`
 * talking `TAUG`
 * bygone `PW*EU/TKPWOPB`
@@ -377,7 +377,7 @@
 * school `SKAOL`
 * learn `HRERPB`
 * something,' `S-G KW-BG AE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * confirmed; `K-FRPL/-D STPH*FPLT`
 * both `PWO*T`
 * wept `WEPT`
@@ -490,7 +490,7 @@
 * horrible!' `HORBL SKHRAPL AE`
 * "'Then `KR-GS AE KPA/THEPB`
 * married,' `PHAERD KW-BG AE`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * 'Do `AE KPA/TKO`
 * our `OUR`
 * boy, `PWOEU KW-BG`
@@ -652,7 +652,7 @@
 * horse's `HORS AES`
 * head, `HED KW-BG`
 * black `PWHRABG`
-* mane `PHA*EPB`
+* mane `PH*/A*/TPH*/*E`
 * fluttering `TPHRUT/ERG`
 * wind, `WEUPBD KW-BG`
 * four `TPOUR`

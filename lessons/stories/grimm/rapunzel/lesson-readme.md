@@ -189,7 +189,7 @@
 * can `K`
 * you `U`
 * dare,' `TKAEUR KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * angry `APBG/REU`
 * look, `HRAOBG KW-BG`
 * 'descend `AE TKE/SEPBD`
@@ -390,7 +390,7 @@
 * laid `HRAEUD`
 * hand `HAPBD`
 * his. `HEUS TP-PL`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'I `AE EU`
 * willingly `HR-G/HREU`
 * know `TPHOE`

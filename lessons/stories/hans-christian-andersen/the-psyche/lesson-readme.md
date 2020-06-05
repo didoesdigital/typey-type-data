@@ -273,7 +273,7 @@
 * merriest `PHER/KWREFT`
 * friends. `TPREPBDZ TP-PL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
-* said `SAEUD`
+* said `SED`
 * good `TKPWAOD`
 * many `PHAEPB`
 * things `THEUPBGS`
@@ -313,7 +313,7 @@
 * life' `HRAOEUF AE`
 * disappeared `TKEUS/PAOERD`
 * before `PW-FR`
-* vapor `SRAEUP`
+* vapor `SRAEURP`
 * when `WHEPB`
 * saw `SAU`
 * divine `TKWAOEUPB`
@@ -813,7 +813,7 @@
 * poured `PORD`
 * tongue—he `TUPBG EPL/TKA*RB HE`
 * knew `TPHAOU`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * Does `KPA/TKOS`
 * crater `KRAEU/TER`
 * volcano `SROL/KAEU/TPHOE`
@@ -916,7 +916,7 @@
 * question `KWE`
 * further, `TPURT KW-BG`
 * merely `PHAOERL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Your `KR-GS KPA/KWROUR`
 * blood `PWHRAOD`
 * grows `TKPWRO*ES`
@@ -1563,7 +1563,7 @@
 * reliance `RE/HRAOEUPBS`
 * love `HRUF`
 * thrills `THREULS`
-* believer. `PWHREFR TP-PL`
+* believer. `PWHRAOEFR TP-PL`
 * die. `TKAOEU TP-PL`
 * Shall `KPA/SHAL`
 * consciousness? `KOPBS/-PBS H-F`

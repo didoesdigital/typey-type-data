@@ -87,7 +87,7 @@
 * could `KO`
 * save `SAF`
 * her," `HER KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * wisest `WAOEUZ/*ES`
 * among `PHOPBG`
 * them. `THEPL TP-PL`
@@ -379,7 +379,7 @@
 * cross. `KROS TP-PL`
 * see `SAOE`
 * it," `T KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "He `KR-GS KPA/HE`
 * beholds `PWE/HOLD/-S`
 * this, `TH KW-BG`

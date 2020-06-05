@@ -54,7 +54,7 @@
 * "I `KR-GS EU`
 * am `APL`
 * sorry," `SOER KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Fox, `KPA/TPOBGS KW-BG`
 * "the `KR-GS -T`
 * is `S`

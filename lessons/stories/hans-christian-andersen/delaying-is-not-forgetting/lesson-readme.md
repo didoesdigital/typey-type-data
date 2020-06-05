@@ -140,7 +140,7 @@
 * him. `HEUPL TP-PL`
 * "Mrs. `KR-GS PH*P/R*/S* TP-PL`
 * Mogen," `xxx Mogen KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * fellow, `TPO*EUL KW-BG`
 * "do `KR-GS TKO`
 * you `U`
@@ -327,7 +327,7 @@
 * easy, `EZ KW-BG`
 * deed `TKAOED`
 * small," `SPHAL KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "the `KR-GS -T`
 * afforded `A/TPORD/-D`
 * infinitely `EUPB/TPEUPBT/HREU`
@@ -408,7 +408,7 @@
 * other `OER`
 * dearly. `TKAERL TP-PL`
 * came `KAEUPL`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "We `KR-GS KPA/WE`
 * both `PWO*T`
 * nothing! `TPHOG SKHRAPL`
@@ -452,7 +452,7 @@
 * prospering `PROS/PERG`
 * every `EF`
 * respect," `R-PT KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * woman `WOPL`
 * brave `PWRAEUF`
 * heart. `HART TP-PL`

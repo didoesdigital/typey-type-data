@@ -125,7 +125,7 @@
 * doubt `TKOUT`
 * on `OPB`
 * subject, `SUBT KW-BG`
-* said `SAEUD`
+* said `SED`
 * feverish `TPAOEFR/EURB`
 * agony, `AG/TPHEU KW-BG`
 * "God `KR-GS TKPWO*D`
@@ -235,7 +235,7 @@
 * see `SAOE`
 * husband, `HUS KW-BG`
 * tears, `TAERS KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "We `KR-GS KPA/WE`
 * have `SR`
 * closed `KHROEFD`

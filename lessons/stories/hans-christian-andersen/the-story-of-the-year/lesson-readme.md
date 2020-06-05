@@ -164,7 +164,7 @@
 * cold. `KOELD TP-PL`
 * "Tweet, `KR-GS KPA/TWAOET KW-BG`
 * tweet," `TWAOET KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * another; `TPHOER STPH*FPLT`
 * "they `KR-GS THE`
 * call `KAUL`
@@ -463,7 +463,7 @@
 * information `TPH-FGS`
 * wanted. `WAPBTD TP-PL`
 * man `PHAPB`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * Winter, `W*EUPBT/*ER KW-BG`
 * dead `TKED`
 * yet, `KWRET KW-BG`
@@ -693,7 +693,7 @@
 * days. `TKAEUS TP-PL`
 * world `WORLD`
 * again `TKPWEPB`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * blessed `PWHR*EFD`
 * time `TAOEUPL`
 * to-day." `TO H-PB TKAEU TP-PL KR-GS`

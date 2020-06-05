@@ -30,7 +30,7 @@
 * saw `SAU`
 * him `HEUPL`
 * they `THE`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'There's `AE KPA/THR AES`
 * a `AEU`
 * fellow `TPO*EUL`
@@ -125,7 +125,7 @@
 * came `KAEUPL`
 * pass `PAS`
 * that `THA`
-* said `SAEUD`
+* said `SED`
 * one `WUPB`
 * day: `TKAEU STPH-FPLT`
 * 'Hearken `AE KPA/HARBG/*EPB`
@@ -596,7 +596,7 @@
 * Those `KPA/THOZ`
 * fellows `TPO*EULS`
 * open `OEP`
-* mouths, `PHO*UTSZ KW-BG`
+* mouths, `PHO*UT/-S KW-BG`
 * few `TPAOU`
 * old `OLD`
 * bodies `PWOEDZ`

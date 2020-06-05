@@ -72,7 +72,7 @@
 * hands `HAPBDZ`
 * they `THE`
 * place `PHRAEUS`
-* mouths `PHO*UTSZ`
+* mouths `PHO*UT/-S`
 * close `KHROES`
 * mouth `PHO*UT`
 * animal, `PHAPBL KW-BG`
@@ -329,7 +329,7 @@
 * carnival, `KARPB/SRAL KW-BG`
 * stopped. `STOPD TP-PL`
 * fast," `TPAFT KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * animal; `PHAPBL STPH*FPLT`
 * "hold `KR-GS HOLD`
 * fast, `TPAFT KW-BG`
@@ -626,7 +626,7 @@
 * endowed `EPB/TKOU/-D`
 * Angelo; `APB/SKWRE/HROE STPH*FPLT`
 * Dante, `TKAPB/TAEU KW-BG`
-* laurel `HRAURL`
+* laurel `HRAU/REL`
 * wreath `WRAO*ET`
 * brow; `PWROU STPH*FPLT`
 * Alfieri `xxx Alfieri`
@@ -801,7 +801,7 @@
 * "Certainly `KR-GS KPA/SERPBL`
 * must `PHUFT`
 * money," `PHUPB KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * began `TKPWAPB`
 * cry, `KRAOEU KW-BG`
 * struck `STRUBG`
@@ -826,7 +826,7 @@
 * marito `PHAR/AOE/TOE`
 * arm. `ARPL TP-PL`
 * "Felicita," `KR-GS xxx Felicita KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "what `KR-GS WHA`
 * doing `TK*G`
 * child?" `KHAOEULD H-F KR-GS`
@@ -1131,7 +1131,7 @@
 * Away `KPA/A/WAEU`
 * already-deserted `HR-R H-PB STK*ERT/-D`
 * stooped `STAOPD`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "how `KR-GS HOU`
 * longed `HROPBG/-D`
 * you! `U SKHRAPL`

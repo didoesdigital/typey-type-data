@@ -70,7 +70,7 @@
 * doctor. `TKR TP-PL`
 * 'Oh, `AE KPA/O*ERBGS KW-BG`
 * yes,' `KWRE KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * doctor, `TKR KW-BG`
 * 'that `AE THA`
 * is `S`
@@ -156,7 +156,7 @@
 * Knowall. `xxx Knowall TP-PL`
 * Yes, `KPA/KWRE KW-BG`
 * was, `WAS KW-BG`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * go `TKPW`
 * him `HEUPL`
 * bring `PWREU`
@@ -197,7 +197,7 @@
 * delicate `TKEL/KAT`
 * fare, `TPA*ER KW-BG`
 * nudged `TPHUPBLG/-D`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Grete, `AE xxx Grete KW-BG`
 * first,' `TPEUFRT KW-BG AE`
 * meaning `PHAOEPBG`

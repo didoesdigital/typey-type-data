@@ -166,7 +166,7 @@
 * thick, `THEUBG KW-BG`
 * fat `TPAT`
 * ugly," `ULG KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * young `KWRUPBG`
 * Frogs; `KPA/TPROGS STPH*FPLT`
 * "and `KR-GS SKP`

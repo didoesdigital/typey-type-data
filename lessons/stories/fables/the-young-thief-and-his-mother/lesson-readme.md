@@ -40,7 +40,7 @@
 * Mother `KPA/PHOER`
 * came `KAEUPL`
 * him `HEUPL`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "I `KR-GS EU`
 * want `WAPBT`
 * whisper `WEUS/PER`
@@ -73,7 +73,7 @@
 * is `S`
 * punish `P-RB`
 * her," `HER KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "When `KR-GS KPA/WHEPB`
 * I `EU`
 * began `TKPWAPB`
@@ -100,7 +100,7 @@
 * "He `KR-GS KPA/HE`
 * right, `RAOEUT KW-BG`
 * woman," `WOPL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Priest; `KPA/PRAOEFT STPH*FPLT`
 * "the `KR-GS -T`
 * Lord `HRO*RD`

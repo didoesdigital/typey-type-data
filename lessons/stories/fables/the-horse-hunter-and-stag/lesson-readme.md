@@ -24,7 +24,7 @@
 * The `KPA/-T`
 * agreed, `TKPWRAED KW-BG`
 * but `PWUT`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "If `KR-GS KPA/TP`
 * you `U`
 * desire `STKAOEUR`
@@ -68,7 +68,7 @@
 * Then `KPA/THEPB`
 * aid `AEUD`
 * overcame `AUFR/KAEUPL`
-* said `SAEUD`
+* said `SED`
 * Hunter: `HURPBT STPH-FPLT`
 * "Now, `KR-GS KPA/TPHOU KW-BG`
 * get `TKPWET`

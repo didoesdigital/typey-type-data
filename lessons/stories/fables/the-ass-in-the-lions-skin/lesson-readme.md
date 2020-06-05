@@ -64,7 +64,7 @@
 * shortly `SHORLT`
 * afterwards `A*FRDZ`
 * Fox `KPA/TPOBGS`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * I `EU`
 * you `U`

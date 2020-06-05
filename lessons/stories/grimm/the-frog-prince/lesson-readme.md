@@ -91,7 +91,7 @@
 * began `TKPWAPB`
 * bewail `PWE/WAEUL`
 * loss, `HROS KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Alas! `AE KPA/A/HRAS SKHRAPL`
 * if `TP`
 * I `EU`
@@ -119,7 +119,7 @@
 * weep `WAOEP`
 * bitterly?' `PWEURLT H-F AE`
 * 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
-* said `SAEUD`
+* said `SED`
 * she, `SHE KW-BG`
 * 'what `AE WHA`
 * can `K`
@@ -200,7 +200,7 @@
 * called `KAULD`
 * her, `HER KW-BG`
 * 'Stay, `AE KPA/STAEU KW-BG`
-* said,' `SAEUD KW-BG AE`
+* said,' `SED KW-BG AE`
 * But `KPA/PWUT`
 * did `TK`
 * stop `STOP`
@@ -226,7 +226,7 @@
 * door, `TKAOR KW-BG`
 * voice `SROEUS`
 * cried `KRAOEUD`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Open `AE KPA/OEP`
 * dear, `TKAER KW-BG`
 * Open `KPA/OEP`

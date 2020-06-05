@@ -86,7 +86,7 @@
 * scolded `SKOLD/-D`
 * him, `HEUPL KW-BG`
 * but `PWUT`
-* said `SAEUD`
+* said `SED`
 * nothing `TPHOG`
 * only `OEPBL`
 * sighed. `SAOEU/-D TP-PL`

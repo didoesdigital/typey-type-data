@@ -45,7 +45,7 @@
 * who `WHO`
 * jumps `SKWR*UPLS`
 * highest," `HAOEU/EFT KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * King, `KO*EUPBG KW-BG`
 * "for `KR-GS TPOR`
 * it `T`
@@ -115,7 +115,7 @@
 * come `KOPL`
 * from `TPR`
 * field, `TPAOELD KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * been `PW-PB`
 * put `PUT`
 * into `TPHAO`

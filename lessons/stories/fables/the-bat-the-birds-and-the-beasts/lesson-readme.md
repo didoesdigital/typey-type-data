@@ -28,7 +28,7 @@
 * passed `PAFD`
 * his `HEUS`
 * perch `PEFRPB`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Come `KR-GS KPA/KOPL`
 * with `W`
 * us"; `US KR-GS STPH*FPLT`
@@ -86,7 +86,7 @@
 * torn `TORPB`
 * pieces. `PAOEFS TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Bat, `KPA/PWAT KW-BG`
 * see `SAOE`
 * now, `TPHOU KW-BG`

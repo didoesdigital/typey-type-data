@@ -150,7 +150,7 @@
 * peep." `PAOEP TP-PL KR-GS`
 * "Quack, `KR-GS KPA/KWA*BG KW-BG`
 * quack," `KWA*BG KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * mother, `PHOER KW-BG`
 * they `THE`
 * all `AUL`
@@ -457,7 +457,7 @@
 * did `TK`
 * bid, `PWEUD KW-BG`
 * stared, `STAERD KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Look, `KR-GS KPA/HRAOBG KW-BG`
 * here `HAOER`
 * brood, `PWRAO*D KW-BG`
@@ -598,7 +598,7 @@
 * hedge `HEPBLG`
 * palings. `P*/A*/HR*/*EU/TPH*/TKPW*/S* TP-PL`
 * "They `KR-GS KPA/THE`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * eyes, `AO*EUS KW-BG`
 * still `STEUL`
 * farther, `TPA*RT KW-BG`

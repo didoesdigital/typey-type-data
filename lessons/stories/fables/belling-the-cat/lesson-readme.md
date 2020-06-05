@@ -21,7 +21,7 @@
 * enemy, `EPB/PHEU KW-BG`
 * Cat. `KPA/KAT TP-PL`
 * Some `KPA/SOPL`
-* said `SAEUD`
+* said `SED`
 * this, `TH KW-BG`
 * and `SKP`
 * some `SOPL`
@@ -104,7 +104,7 @@
 * until `TPH-L`
 * an `APB`
 * old `OLD`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "That `KR-GS KPA/THA`
 * is `S`
 * very `SRE`

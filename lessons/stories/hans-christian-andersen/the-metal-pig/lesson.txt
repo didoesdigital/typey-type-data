@@ -89,7 +89,7 @@ The Metal Pig
 'they': THE
 'place': PHRAEUS
 'their': THAEUR
-'mouths': PHO*UTSZ
+'mouths': PHO*UT/-S
 'close': KHROES
 'to': TO
 'the': -T
@@ -574,7 +574,7 @@ The Metal Pig
 'stopped.': STOPD TP-PL
 '"Hold': KR-GS KPA/HOLD
 'fast,"': TPAFT KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'animal;': PHAPBL STPH*FPLT
 '"hold': KR-GS HOLD
@@ -588,7 +588,7 @@ The Metal Pig
 'The': KPA/-T
 'little': HREUL
 'boy': PWOEU
-'said': SAEUD
+'said': SED
 'not': TPHOT
 'a': AEU
 'word;': WORD STPH*FPLT
@@ -1027,7 +1027,7 @@ The Metal Pig
 'you': U
 'beautiful': PWAOUFL
 'animal,"': PHAPBL KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'little': HREUL
 'boy,': PWOEU KW-BG
@@ -1156,7 +1156,7 @@ The Metal Pig
 'my': PHEU
 'dear': TKAER
 'creature,"': KRAOEFP KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'little': HREUL
 'boy.': PWOEU TP-PL
@@ -1317,7 +1317,7 @@ The Metal Pig
 'Dante,': TKAPB/TAEU KW-BG
 'with': W
 'the': -T
-'laurel': HRAURL
+'laurel': HRAU/REL
 'wreath': WRAO*ET
 'round': ROUPBD
 'his': HEUS
@@ -1808,7 +1808,7 @@ The Metal Pig
 'some': SOPL
 'money,"': PHUPB KW-BG KR-GS
 'she': SHE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'began': TKPWAPB
@@ -1874,7 +1874,7 @@ The Metal Pig
 'arm.': ARPL TP-PL
 '"Felicita,"': KR-GS xxx Felicita KW-BG KR-GS
 'she': SHE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"what': KR-GS WHA
 'are': R
 'you': U
@@ -2181,7 +2181,7 @@ The Metal Pig
 'are': R
 'soon': SAOPB
 'intimate,"': SPWEU/PHAT KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'woman,': WOPL KW-BG
 'as': AZ
@@ -2203,7 +2203,7 @@ The Metal Pig
 'and': SKP
 'drink,': TKREU KW-BG
 'and': SKP
-'said': SAEUD
+'said': SED
 'he': HE
 'should': SHO
 'stay': STAEU
@@ -2369,7 +2369,7 @@ The Metal Pig
 'cheek.': KHAOEBG TP-PL
 'Then': KPA/THEPB
 'she': SHE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"He': KR-GS KPA/HE
 'is': S
 'a': AEU
@@ -2573,7 +2573,7 @@ The Metal Pig
 'box': PWOBGS
 'of': -F
 'colors,"': KHRORS KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'woman': WOPL
 'to': TO
@@ -2686,7 +2686,7 @@ The Metal Pig
 'go': TKPW
 'home': HOEPL
 'now,"': TPHOU KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'painter,': PA*EURPBT KW-BG
 'while': WHAOEUL
@@ -2776,7 +2776,7 @@ The Metal Pig
 'don't': TKOEPBT
 'you': U
 'go?"': TKPW H-F KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'painter.': PA*EURPBT TP-PL
 'Then': KPA/THEPB
@@ -2877,7 +2877,7 @@ The Metal Pig
 'happy': HAEP
 'creature,"': KRAOEFP KW-BG KR-GS
 'he': HE
-'said;': SAEUD STPH*FPLT
+'said;': SED STPH*FPLT
 '"how': KR-GS HOU
 'I': EU
 'have': SR
@@ -2938,7 +2938,7 @@ The Metal Pig
 'she': SHE
 'would': WO
 'have': SR
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"Here': KR-GS KPA/HAOER
 'I': EU
 'am': APL
@@ -3298,7 +3298,7 @@ The Metal Pig
 '"It': KR-GS KPA/T
 'is': S
 'I,"': EU KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'he.': HE TP-PL
 '"Bellissima': KR-GS KPA/PWEL/HREUS/PHA/TPHR-RB
 'is': S
@@ -3997,7 +3997,7 @@ The Metal Pig
 'The': KPA/-T
 'painter': PA*EURPBT
 'was': WAS
-'said': SAEUD
+'said': SED
 'to': TO
 'be': -B
 'a': AEU
@@ -4032,7 +4032,7 @@ The Metal Pig
 'it': T
 'was': WAS
 'also': HR-S
-'said': SAEUD
+'said': SED
 'that': THA
 'a': AEU
 'young': KWRUPBG
@@ -4183,7 +4183,7 @@ The Metal Pig
 'the': -T
 'frame': TPRAEUPL
 'a': AEU
-'laurel': HRAURL
+'laurel': HRAU/REL
 'wreath': WRAO*ET
 'had': H
 'been': PW-PB

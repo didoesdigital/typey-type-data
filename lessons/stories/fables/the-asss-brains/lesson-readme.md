@@ -41,7 +41,7 @@
 * there `THR`
 * simply `SAO*EPL`
 * pounced `POUPBS/-D`
-* said `SAEUD`
+* said `SED`
 * Fox: `KPA/TPOBGS STPH-FPLT`
 * "Here `KR-GS KPA/HAOER`
 * is `S`

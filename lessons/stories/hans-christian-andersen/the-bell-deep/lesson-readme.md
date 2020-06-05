@@ -152,7 +152,7 @@
 * grandmother `TKPWR-PL`
 * tell `TEL`
 * him; `HEUPL STPH*FPLT`
-* said `SAEUD`
+* said `SED`
 * lead `HRAED`
 * a `AEU`
 * solitary `SOL/TAER`

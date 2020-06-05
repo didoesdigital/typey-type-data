@@ -136,7 +136,7 @@
 * valuable `SRABL`
 * any `TPHEU`
 * corn," `KORPB KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "and `KR-GS SKP`
 * much `PHUFP`
@@ -173,7 +173,7 @@
 * itself `T/SEFL`
 * with `W`
 * pride, `PRAOEUD KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Stupid `KR-GS KPA/STAOUPD`
 * tree; `TRAOE STPH*FPLT`
 * so `SO`

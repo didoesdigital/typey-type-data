@@ -54,7 +54,7 @@
 * contact `KABGT`
 * with `W`
 * you," `U KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * other, `OER KW-BG`
 * "if `KR-GS TP`
 * too `TAO`

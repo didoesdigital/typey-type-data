@@ -19,7 +19,7 @@
 * old `OLD`
 * woman, `WOPL KW-BG`
 * and `SKP`
-* said `SAEUD`
+* said `SED`
 * to `TO`
 * him, `HEUPL KW-BG`
 * 'Good `AE KPA/TKPWAOD`
@@ -62,7 +62,7 @@
 * she `SHE`
 * hold `HOLD`
 * of `-F`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Listen, `AE KPA/HREUFPB KW-BG`
 * my `PHEU`
 * friend, `TPREPBD KW-BG`
@@ -179,7 +179,7 @@
 * happens `HAPS`
 * just `SKWRUFT`
 * woman `WOPL`
-* said'; `SAEUD AE STPH*FPLT`
+* said'; `SED AE STPH*FPLT`
 * then `THEPB`
 * shot `SHOT`
 * them `THEPL`
@@ -471,7 +471,7 @@
 * And `AFPBD`
 * passed `PAFD`
 * on. `OPB TP-PL`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * soon `SAOPB`
 * gone, `TKPWOPB KW-BG`
 * climbed `KHRAOEUPLD`

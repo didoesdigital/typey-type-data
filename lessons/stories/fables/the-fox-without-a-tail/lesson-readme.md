@@ -97,7 +97,7 @@
 * is `S`
 * very `SRE`
 * well," `WEL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * older `OERLD`
 * foxes; `TPOBGS/-S STPH*FPLT`
 * "but `KR-GS PWUT`

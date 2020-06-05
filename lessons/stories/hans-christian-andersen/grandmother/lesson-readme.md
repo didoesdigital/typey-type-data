@@ -197,7 +197,7 @@
 * beautiful `PWAOUFL`
 * tale; `TAEL STPH*FPLT`
 * finished, `TP*EURBD KW-BG`
-* said `SAEUD`
+* said `SED`
 * tired, `TAOEURD KW-BG`
 * leaned `HRAOEPBD`
 * head `HED`

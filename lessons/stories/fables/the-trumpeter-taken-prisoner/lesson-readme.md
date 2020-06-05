@@ -36,7 +36,7 @@
 * do `TKO`
 * not `TPHOT`
 * fight," `TPAOEUT KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "and `KR-GS SKP`
 * indeed `TPHAOEPBD`

@@ -104,7 +104,7 @@
 * friend, `TPREPBD KW-BG`
 * why `KWR`
 * sorrowful?' `SOR/ROEFL H-F AE`
-* said `SAEUD`
+* said `SED`
 * merchant; `PHEFRPBT STPH*FPLT`
 * 'what `AE WHA`
 * is `S`
@@ -290,7 +290,7 @@
 * must `PHUFT`
 * keep `KAOEP`
 * word. `WORD TP-PL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Father, `AE KPA/TPAER KW-BG`
 * that; `THA STPH*FPLT`
 * shall `SHAL`
@@ -537,7 +537,7 @@
 * health.' `H*ELT TP-PL AE`
 * And `AFPBD`
 * pass `PAS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * bore `PWOR`
 * all, `AUL KW-BG`
 * spoke `SPOEBG`

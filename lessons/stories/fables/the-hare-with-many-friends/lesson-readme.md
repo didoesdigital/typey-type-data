@@ -56,7 +56,7 @@
 * "He `KR-GS KPA/HE`
 * felt `TPELT`
 * sure," `SHUR KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "that `KR-GS THA`
 * friends `TPREPBDZ`
 * would `WO`

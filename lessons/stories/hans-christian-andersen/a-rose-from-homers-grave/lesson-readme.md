@@ -96,7 +96,7 @@
 * head `HED`
 * heap `HAOEP`
 * stones, `STOEPBS KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Here `KR-GS KPA/HAOER`
 * rests `REFTS`
 * greatest `TKPWRAET/EFT`

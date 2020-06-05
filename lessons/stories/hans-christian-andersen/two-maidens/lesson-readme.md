@@ -155,7 +155,7 @@
 * ready `R-D`
 * his `HEUS`
 * engagement," `EPB/TKPWAEUPLT KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * youngest, `KWRUPBG/EFT KW-BG`
 * betrothed `PWE/TRO*T/-D`
 * paver's `PAFR AES`
@@ -218,7 +218,7 @@
 * submit `SPHEUT`
 * your `KWROUR`
 * notice," `TPH-TS KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "that `KR-GS THA`
 * 'maiden' `AE PHAEUD/*EPB AE`
 * common `KPHOPB`

@@ -12,7 +12,7 @@ Something
 'in': TPH
 'the': -T
 'world,"': WORLD KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'eldest': ELD/EFT
 'of': -F
@@ -62,7 +62,7 @@ Something
 'enough': TPHUF
 'for': TPOR
 'me,"': PHE KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'second': SEBGD
 'brother;': PWROER STPH*FPLT
@@ -167,7 +167,7 @@ Something
 'it': T
 'all': AUL
 'nothing,"': TPHOG KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'third;': THEURD STPH*FPLT
 '"not': KR-GS TPHOT
@@ -405,7 +405,7 @@ Something
 'in': TPH
 'my': PHEU
 'opinion,"': P-PB KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'fourth;': TPO*URT STPH*FPLT
 '"I': KR-GS EU
@@ -493,7 +493,7 @@ Something
 'good': TKPWAOD
 'for': TPOR
 'much,"': PHUFP KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'fifth': TP*EUT
 'brother,': PWROER KW-BG
@@ -615,7 +615,7 @@ Something
 'a': AEU
 'critic.': KREUT/EUBG TP-PL
 'People': KPA/PAOEPL
-'said': SAEUD
+'said': SED
 'of': -F
 'this': TH
 'fifth': TP*EUT
@@ -1541,7 +1541,7 @@ Something
 'importance.': PORPBS TP-PL
 'People': KPA/PAOEPL
 'always': AULS
-'said': SAEUD
+'said': SED
 'he': HE
 'had': H
 'a': AEU
@@ -1617,7 +1617,7 @@ Something
 'the': -T
 'same': SAEUPL
 'time,"': TAOEUPL KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'critic.': KREUT/EUBG TP-PL
 '"Pray': KR-GS KPA/PRAEU
@@ -1627,7 +1627,7 @@ Something
 'my': PHEU
 'good': TKPWAOD
 'woman?"': WOPL H-F KR-GS
-'said': SAEUD
+'said': SED
 'he;': HE STPH*FPLT
 '"do': KR-GS TKO
 'you': U
@@ -1666,7 +1666,7 @@ Something
 'old': OLD
 'woman,"': WOPL KW-BG KR-GS
 'she': SHE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"without': KR-GS WOUT
 'my': PHEU
 'family.': TPAEPL TP-PL
@@ -1718,7 +1718,7 @@ Something
 'for': TPOR
 'me,"': PHE KW-BG KR-GS
 'she': SHE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 '"It': KR-GS KPA/T
 'would': WO
 'be': -B
@@ -2507,7 +2507,7 @@ Something
 'immortal': EUPL/PHORT/A*L
 'beauty.': PWAOUT TP-PL
 '"See,"': KR-GS KPA/SAOE KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'angel,': APB/SKWREL KW-BG
 'pointing': POEUPBGT
@@ -2603,7 +2603,7 @@ Something
 'for': TPOR
 'him.': HEUPL TP-PL
 'She': KPA/SHE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 '"His': KR-GS KPA/HEUS
 'brother': PWROER
 'made': PHAED
@@ -2673,7 +2673,7 @@ Something
 'of': -F
 'mercy."': PHER/SEU TP-PL KR-GS
 '"Then,"': KR-GS KPA/THEPB KW-BG KR-GS
-'said': SAEUD
+'said': SED
 'the': -T
 'angel,': APB/SKWREL KW-BG
 '"thy': KR-GS THAO*EU

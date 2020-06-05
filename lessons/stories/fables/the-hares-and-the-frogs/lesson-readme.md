@@ -70,7 +70,7 @@
 * into `TPHAO`
 * water. `WAUR TP-PL`
 * "Truly," `KR-GS KPA/TRAOUL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * one `WUPB`
 * Hares, `KPA/HA*ER/-S KW-BG`
 * "things `KR-GS THEUPBGS`

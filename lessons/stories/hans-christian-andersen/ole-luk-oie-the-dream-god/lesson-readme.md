@@ -180,7 +180,7 @@
 * "Now `KR-GS KPA/TPHOU`
 * pay `PAEU`
 * attention," `A/T-PBGS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * when `WHEPB`
 * Hjalmar `xxx Hjalmar`
 * was `WAS`
@@ -713,7 +713,7 @@
 * runs `RUPBS`
 * desert. `STK*ERT TP-PL`
 * understand `URPBD`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * quacked `KWA*BG/-D`
 * themselves, `TH*EPLS KW-BG`
 * "We `KR-GS KPA/WE`

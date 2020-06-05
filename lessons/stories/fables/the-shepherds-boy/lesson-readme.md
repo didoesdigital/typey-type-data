@@ -113,7 +113,7 @@
 * complained, `KPHRAEUPBD KW-BG`
 * wise `WAOEUS`
 * man `PHAPB`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "A `KR-GS KPA/AEU`
 * liar `HRAOEUR`
 * will `HR`

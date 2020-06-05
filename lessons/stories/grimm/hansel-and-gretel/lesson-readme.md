@@ -53,7 +53,7 @@
 * about `PW`
 * anxiety, `KPAO*EUT KW-BG`
 * groaned `TKPWROEPBD`
-* said `SAEUD`
+* said `SED`
 * wife: `WAOEUF STPH-FPLT`
 * 'What `AE KPA/WHA`
 * is `S`
@@ -252,7 +252,7 @@
 * wood.' `WAOD TP-PL AE`
 * She `KPA/SHE`
 * gave `TKPWAEUF`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'There `AE KPA/THR`
 * something `S-G`
 * your `KWROUR`

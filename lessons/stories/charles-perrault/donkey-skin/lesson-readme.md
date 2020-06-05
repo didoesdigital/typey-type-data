@@ -206,7 +206,7 @@
 * last `HRAFT`
 * hour `HOUR`
 * approach, `PROEFP KW-BG`
-* said `SAEUD`
+* said `SED`
 * husband, `HUS KW-BG`
 * dissolved `TKEUS/SOFLD`
 * tears: `TAERS STPH-FPLT`
@@ -617,7 +617,7 @@
 * all, `AUL KW-BG`
 * hastened `HAEUS/-PBD`
 * comfort `K-FRT`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Either `KR-GS KPA/AOERT`
 * am `APL`
 * greatly `TKPWRAELT`
@@ -1090,7 +1090,7 @@
 * it." `T TP-PL KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * Madam," `PHAD/APL KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "since `KR-GS SEUPBS`
 * thought, `THAUT KW-BG`
 * you. `U TP-PL`

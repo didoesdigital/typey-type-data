@@ -4,7 +4,7 @@
 * mother `PHOER`
 * of `-F`
 * Hans `HAPBS`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Whither `AE KPA/WHEU/THER`
 * away, `A/WAEU KW-BG`
 * Hans?' `HAPBS H-F AE`
@@ -212,7 +212,7 @@
 * cut `KUT`
 * out `OUT`
 * all `AUL`
-* calves' `KA*F/-S AE`
+* calves' `KA*FLS AE`
 * sheep's `SHAOEP AES`
 * eyes, `AO*EUS KW-BG`
 * threw `THRAOU`

@@ -44,7 +44,7 @@
 * bad `PWAD`
 * way, `WAEU KW-BG`
 * neighbour," `TPHAEUB/A*U KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * hedgehog; `HEPBLG/HOG STPH*FPLT`
 * "shall `KR-GS SHAL`
 * I `EU`

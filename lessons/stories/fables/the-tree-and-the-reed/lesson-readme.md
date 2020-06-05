@@ -3,7 +3,7 @@
 * "Well, `KR-GS KPA/WEL KW-BG`
 * little `HREUL`
 * one," `WUPB KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * a `AEU`
 * Tree `KPA/TRAOE`
 * to `TO`

@@ -162,7 +162,7 @@
 * later `HRAEURT`
 * called `KAULD`
 * husband, `HUS KW-BG`
-* said `SAEUD`
+* said `SED`
 * him, `HEUPL KW-BG`
 * weeping. `WAOEP/-G TP-PL`
 * 'If `AE KPA/TP`
@@ -261,7 +261,7 @@
 * came `KAEUPL`
 * running `R*UPBG`
 * store-room, `STOR H-PB RAOPL KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Mother, `AE KPA/PHOER KW-BG`
 * give `TKPWEUF`
 * an `APB`

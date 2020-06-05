@@ -56,7 +56,7 @@
 * But `KPA/PWUT`
 * appeared `A/PAOERD`
 * him, `HEUPL KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Tut, `KR-GS TUT KW-BG`
 * man, `PHAPB KW-BG`
 * don't `TKOEPBT`

@@ -25,7 +25,7 @@
 * provided `PROE/SRAOUD/-D`
 * for. `TPOR TP-PL`
 * He `KPA/HE`
-* said `SAEUD`
+* said `SED`
 * to `TO`
 * himself, `H*EUPLS KW-BG`
 * 'I `AE EU`
@@ -108,7 +108,7 @@
 * there `THR`
 * dark `TKARBG`
 * forest,' `TPOEFRT KW-BG AE`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * tried `TRAOEUD`
 * excuse `SKAOUS`
 * herself `H*ERS`
@@ -306,7 +306,7 @@
 * view. `SRAOU TP-PL`
 * 'Keep `AE KPA/KAOEP`
 * mouse,' `PHOUS KW-BG AE`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * 'do `AE TKO`
 * move `PHOF`
 * or `OR`

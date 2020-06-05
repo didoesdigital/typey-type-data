@@ -285,7 +285,7 @@
 * excepting `KPEPT/-G`
 * sun. `SUPB TP-PL`
 * landlord `HR-LD`
-* said `SAEUD`
+* said `SED`
 * know `TPHOE`
 * taken `TAEPB`
 * house—nobody `HOUS EPL/TKA*RB TPHOEB`
@@ -515,7 +515,7 @@
 * little, `HREUL KW-BG`
 * tall; `TAUL STPH*FPLT`
 * came. `KAEUPL TP-PL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Hem, `KR-GS KPA/HEPL KW-BG`
 * a-hem;" `AEU H-PB HEPL STPH*FPLT KR-GS`
 * useless. `AOUS/-LS TP-PL`

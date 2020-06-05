@@ -83,7 +83,7 @@
 * road `RAOD`
 * by. `PWEU TP-PL`
 * She `KPA/SHE`
-* said `SAEUD`
+* said `SED`
 * an `APB`
 * apple-branch `A*EPL H-PB PWRAFRPB`
 * most `PHOFT`
@@ -437,7 +437,7 @@
 * snowy `STPHOE/WEU`
 * feathers `TP*ET/ERS`
 * down. `TKOUPB TP-PL`
-* mouths, `PHO*UTSZ KW-BG`
+* mouths, `PHO*UT/-S KW-BG`
 * tried `TRAOEUD`
 * blow `PWHROE`
 * coronal `KROEPBL`

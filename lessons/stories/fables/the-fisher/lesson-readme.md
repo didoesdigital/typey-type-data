@@ -56,7 +56,7 @@
 * when `WHEPB`
 * I `EU`
 * play," `PHRAEU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he. `HE TP-PL`
 * "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * an `APB`

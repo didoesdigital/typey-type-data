@@ -18,7 +18,7 @@
 * its `EUTS`
 * nature. `TPHAEURT TP-PL`
 * Jupiter `SKWRAOUP/TER`
-* said `SAEUD`
+* said `SED`
 * "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
 * but `PWUT`
 * Venus `SRAO*EPBS`

@@ -109,7 +109,7 @@
 * "Was `KR-GS KPA/WAS`
 * not `TPHOT`
 * right?" `RAOEUT H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * Mouse. `KPA/PHOUS TP-PL`
 * Little `KPA/HREUL`
 * friends `TPREPBDZ`

@@ -244,7 +244,7 @@
 * your `KWROUR`
 * orders." `ORDZ TP-PL KR-GS`
 * "Well," `KR-GS KPA/WEL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * prince. `PREUPBS TP-PL`
 * "Then `KR-GS KPA/THEPB`
 * will `HR`

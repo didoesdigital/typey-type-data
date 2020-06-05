@@ -18,7 +18,7 @@
 * me `PHE`
 * go, `TKPW-RBGS`
 * master," `PHAFRT KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * Fish. `KPA/TPEURB TP-PL`
 * "I `KR-GS EU`

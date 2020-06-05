@@ -83,7 +83,7 @@
 * it, `T KW-BG`
 * at `AT`
 * length `HREPBG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'The `AE KPA/-T`
 * jam `SKWRAPL`
 * seems `SAOEPLS`
@@ -144,7 +144,7 @@
 * won't `WOEPBT`
 * taste `TAEUFT`
 * bitter,' `PWEURT KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * 'but `AE PWUT`
 * I `EU`

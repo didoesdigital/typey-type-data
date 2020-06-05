@@ -141,7 +141,7 @@
 * weeds, `WAOEDZ KW-BG`
 * although `HR*T`
 * they `THE`
-* said `SAEUD`
+* said `SED`
 * growth `TKPWRO*UT`
 * been `PW-PB`
 * stunted. `STUPBT/-D TP-PL`
@@ -619,7 +619,7 @@
 * lips. `HREUPS TP-PL`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * well," `WEL KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * room. `RAOPL TP-PL`
 * thought! `THAUT SKHRAPL`
 * whom `WHOPL`
@@ -1272,7 +1272,7 @@
 * done `TKOPB`
 * daytime, `TKAEUPLT KW-BG`
 * understood `*URPBD`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * am `APL`
 * raven-mother; `RAFPB H-PB PHOER STPH*FPLT`
 * raven-mother," `RAFPB H-PB PHOER KW-BG KR-GS`
@@ -1416,7 +1416,7 @@
 * "Now `KR-GS KPA/TPHOU`
 * house `HOUS`
 * God," `TKPWO*D KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "and `KR-GS SKP`
 * happy." `HAEP TP-PL KR-GS`
 * region `RAOEGS`

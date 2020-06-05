@@ -98,7 +98,7 @@
 * for `TPOR`
 * you `U`
 * sing," `SEUPBG KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * bottle `PWO*LT`
 * neck: `TPHEBG STPH-FPLT`
 * is, `S-RBGS`
@@ -561,7 +561,7 @@
 * empty `EPLT`
 * raised `RA*EUFD`
 * high, `HAOEU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Thou `KR-GS KPA/THO*U`
 * hast `H*/A*/S*/T*`
 * present `PREPBT`
@@ -909,7 +909,7 @@
 * discovered `SKOFD`
 * roof `RAOF`
 * off; `OF STPH*FPLT`
-* said—a `SAEUD EPL/TKA*RB AEU`
+* said—a `SED EPL/TKA*RB AEU`
 * learnt `HRERPBT`
 * living `HREUFG`
 * years. `KWRAOERS TP-PL`
@@ -959,7 +959,7 @@
 * broken, `PWROEPB KW-BG`
 * still, `STEUL KW-BG`
 * understood `*URPBD`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * heard `HAERD`
 * furnaces `TPURPBS/-S`
 * merchant's; `PHEFRPBT AE S* STPH*FPLT`

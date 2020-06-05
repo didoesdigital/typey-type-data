@@ -81,7 +81,7 @@
 * it, `T KW-BG`
 * young `KWRUPBG`
 * fox, `TPOBGS KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'What `AE KPA/WHA`
 * may `PHAE`
 * you `U`
@@ -116,7 +116,7 @@
 * thank `THAPBG`
 * you, `U KW-BG`
 * miss,' `PHEUS KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * 'what `AE WHA`
 * is `S`
 * doing?' `TK*G H-F AE`

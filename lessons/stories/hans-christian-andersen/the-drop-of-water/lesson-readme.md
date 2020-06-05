@@ -141,7 +141,7 @@
 * up. `UP TP-PL`
 * "That `KR-GS KPA/THA`
 * horrible!" `HORBL SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * Kribble-Krabble. `xxx Kribble H-PB xxx Krabble TP-PL`
 * "Can `KR-GS KPA/K`
 * persuade `PER/SWAEUD`

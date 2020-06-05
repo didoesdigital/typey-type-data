@@ -60,7 +60,7 @@
 * honey `HUPB/KWREU`
 * mouth `PHO*UT`
 * lair, `HRA*EUR KW-BG`
-* said `SAEUD`
+* said `SED`
 * it: `T STPH-FPLT`
 * "Let's `KR-GS KPA/HRET AES`
 * forget `TPERGT`

@@ -125,7 +125,7 @@
 * do `TKO`
 * you `U`
 * not?" `TPHOT H-F KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "Our `KR-GS KPA/OUR`
 * all-merciful `AUL H-PB PHERS/-FL`
 * God `TKPWO*D`
@@ -204,7 +204,7 @@
 * long `HROPBG`
 * black `PWHRABG`
 * garments, `TKPWARPLTS KW-BG`
-* said `SAEUD`
+* said `SED`
 * "Death `KR-GS KPA/TK*T`
 * has `HAS`
 * been `PW-PB`
@@ -274,7 +274,7 @@
 * tears; `TAERS STPH*FPLT`
 * till `TEUL`
 * length `HREPBG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Go `KR-GS KPA/TKPW`
 * right, `RAOEUT KW-BG`
 * into `TPHAO`

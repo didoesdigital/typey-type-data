@@ -152,7 +152,7 @@
 * sitting `SEUGT`
 * with `W`
 * fire, `TPAOEUR KW-BG`
-* said `SAEUD`
+* said `SED`
 * her, `HER KW-BG`
 * heart `HART`
 * ready `R-D`
@@ -248,7 +248,7 @@
 * father's `TPAER/AES`
 * stool, `STOL KW-BG`
 * hear `HAER`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * being `-BG`
 * seen. `SAOEPB TP-PL`
 * again, `TKPWEPB KW-BG`
@@ -377,7 +377,7 @@
 * Having `KPA/SR-G`
 * bellies, `PWEL/HREU/-S KW-BG`
 * woman `WOPL`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
 * children? `KHEURPB H-F`
 * feast `TPAOEFT`
@@ -810,7 +810,7 @@
 * hooked `HAOBGD`
 * noses, `TPHO*EFS KW-BG`
 * wide `WAOEUD`
-* mouths, `PHO*UTSZ KW-BG`
+* mouths, `PHO*UT/-S KW-BG`
 * sharp `SHARP`
 * teeth `TAO*ET`
 * standing `STAPBG`

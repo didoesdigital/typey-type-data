@@ -38,7 +38,7 @@
 * is `S`
 * as `AZ`
 * if `TP`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Good-day." `KR-GS KPA/TKPWAOD H-PB TKAEU TP-PL KR-GS`
 * cannons `KAPB/TPHOPB/-S`
 * answer `AEPBS`
@@ -324,7 +324,7 @@
 * "That `KR-GS KPA/THA`
 * coat `KOET`
 * world," `WORLD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * man. `PHAPB TP-PL`
 * "The `KR-GS KPA/-T`
 * lions `HRAOEU/O*PBS`

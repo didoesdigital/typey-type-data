@@ -35,7 +35,7 @@
 * is `S`
 * elfin `*EFL/*EUPB`
 * hill," `HEUL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * lizards; `HREUZ/ARDZ STPH*FPLT`
 * "I `KR-GS EU`
 * have `SR`
@@ -875,7 +875,7 @@
 * ring `REUPBG`
 * it, `T KW-BG`
 * betrothal. `PWE/TRO/THAL TP-PL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Hold `KR-GS KPA/HOLD`
 * fast `TPAFT`
 * have: `SR STPH-FPLT`

@@ -195,7 +195,7 @@
 * of." `-F TP-PL KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * then," `THEPB KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * fly, `TPHRAOEU KW-BG`
 * "we `KR-GS WE`
 * live; `HREUF STPH*FPLT`

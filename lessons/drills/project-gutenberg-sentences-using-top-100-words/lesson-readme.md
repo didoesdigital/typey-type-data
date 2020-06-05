@@ -196,7 +196,7 @@
 * did.' `TK TP-PL AE`
 * has?' `HAS H-F AE`
 * must. `PHUFT TP-PL`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * will. `HR TP-PL`
 * and. `SKP TP-PL`
 * His `KPA/HEUS`
@@ -366,8 +366,8 @@
 * for? `TPOR H-F`
 * Have `KPA/SR`
 * is `S`
-* said… `SAEUD SKWR*RBGS`
-* said!' `SAEUD SKHRAPL AE`
+* said… `SED SKWR*RBGS`
+* said!' `SED SKHRAPL AE`
 * there! `THR SKHRAPL`
 * would. `WO TP-PL`
 * would? `WO H-F`
@@ -408,7 +408,7 @@
 * this… `TH SKWR*RBGS`
 * Out, `KPA/OUT KW-BG`
 * out! `OUT SKHRAPL`
-* Said `KPA/SAEUD`
+* Said `KPA/SED`
 * her!' `HER SKHRAPL AE`
 * See, `KPA/SAOE KW-BG`
 * be `-B`
@@ -427,7 +427,7 @@
 * for. `TPOR TP-PL`
 * of?' `-F H-F AE`
 * What, `KPA/WHA KW-BG`
-* said? `SAEUD H-F`
+* said? `SED H-F`
 * are.' `R TP-PL AE`
 * are?' `R H-F AE`
 * did!' `TK SKHRAPL AE`
@@ -436,7 +436,7 @@
 * know! `TPHOE SKHRAPL`
 * know. `TPHOEFPLT`
 * know? `TPHOE H-F`
-* said! `SAEUD SKHRAPL`
+* said! `SED SKHRAPL`
 * see… `SAOE SKWR*RBGS`
 * see!' `SAOE SKHRAPL AE`
 * see?' `SAOE H-F AE`
@@ -549,7 +549,7 @@
 * did `TK`
 * has `HAS`
 * may `PHAE`
-* said... `SAEUD TP-PL TP-PL TP-PL`
+* said... `SED TP-PL TP-PL TP-PL`
 * was `WAS`
 * would!' `WO SKHRAPL AE`
 * would.' `WO TP-PL AE`
@@ -716,7 +716,7 @@
 * Good--good! `KPA/TKPWAOD H-PB H-PB TKPWAOD SKHRAPL`
 * been!' `PW-PB SKHRAPL AE`
 * must `PHUFT`
-* said `SAEUD`
+* said `SED`
 * should!' `SHO SKHRAPL AE`
 * a--. `AEU H-PB H-PB TP-PL`
 * he, `HE KW-BG`
@@ -1021,7 +1021,7 @@
 * been!" `PW-PB SKHRAPL KR-GS`
 * all, `AUL KW-BG`
 * these `THEZ`
-* said." `SAEUD TP-PL KR-GS`
+* said." `SED TP-PL KR-GS`
 * "Women, `KR-GS KPA/WEUPL KW-BG`
 * some?" `SOPL H-F KR-GS`
 * (From `PREPB KPA/TPR`
@@ -1177,7 +1177,7 @@
 * down `TKOUPB`
 * that!' `THA SKHRAPL AE`
 * on… `OPB SKWR*RBGS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * this!' `TH SKHRAPL AE`
 * first? `TPEUFRT H-F`
 * Who-who-can `KPA/WHO H-PB WHO H-PB K`
@@ -1211,7 +1211,7 @@
 * 'Would `AE KPA/WO`
 * "Had `KR-GS KPA/H`
 * "No--what `KR-GS KPA/TPHO H-PB H-PB WHA`
-* "Said `KR-GS KPA/SAEUD`
+* "Said `KR-GS KPA/SED`
 * this?… `TH H-F SKWR*RBGS`
 * any." `TPHEU TP-PL KR-GS`
 * us `US`
@@ -1236,7 +1236,7 @@
 * been." `PW-PB TP-PL KR-GS`
 * it; `T STPH*FPLT`
 * "These `KR-GS KPA/THEZ`
-* said?" `SAEUD H-F KR-GS`
+* said?" `SED H-F KR-GS`
 * did?" `TK H-F KR-GS`
 * "What--you `KR-GS KPA/WHA H-PB H-PB U`
 * , `KW-BG`
@@ -1279,7 +1279,7 @@
 * would, `WO KW-BG`
 * can--?" `K H-PB H-PB H-F KR-GS`
 * us." `US TP-PL KR-GS`
-* said!" `SAEUD SKHRAPL KR-GS`
+* said!" `SED SKHRAPL KR-GS`
 * '"What `AE KR-GS KPA/WHA`
 * --"Will `H-PB H-PB KR-GS W*EUL`
 * --She `H-PB H-PB KPA/SHE`
@@ -1289,7 +1289,7 @@
 * he--he `HE H-PB H-PB HE`
 * only? `OEPBL H-F`
 * women--women! `WEUPL H-PB H-PB WEUPL SKHRAPL`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * good; `TKPWAOD STPH*FPLT`
 * "'That `KR-GS AE KPA/THA`
 * little, `HREUL KW-BG`
@@ -1352,7 +1352,7 @@
 * "There; `KR-GS KPA/THR STPH*FPLT`
 * there; `THR STPH*FPLT`
 * all--is `AUL H-PB H-PB S`
-* said--he `SAEUD H-PB H-PB HE`
+* said--he `SED H-PB H-PB HE`
 * made." `PHAED TP-PL KR-GS`
 * some, `SOPL KW-BG`
 * other, `OER KW-BG`

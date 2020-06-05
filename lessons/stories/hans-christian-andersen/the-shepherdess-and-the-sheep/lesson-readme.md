@@ -233,7 +233,7 @@
 * "You `KR-GS KPA/U`
 * will `HR`
 * husband," `HUS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Chinaman `KWHRAOEUPB/PHA*PB`
 * "who `KR-GS WHO`
 * I `EU`
@@ -467,7 +467,7 @@
 * When `KPA/WHEPB`
 * chimney-sweep `KHEUPL/TPHEU H-PB SWAOEP`
 * firm, `TPEURPL KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "My `KR-GS KPA/PHEU`
 * way `WAEU`
 * through `THRU`
@@ -550,7 +550,7 @@
 * expected. `KP-PTD TP-PL`
 * "This `KR-GS KPA/TH`
 * much," `PHUFP KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * large. `HRARPBLG TP-PL`
 * Oh, `KPA/O*ERBGS KW-BG`
 * wish `WEURB`

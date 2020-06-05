@@ -50,7 +50,7 @@
 * your `KWROUR`
 * opinion, `P-PB KW-BG`
 * it?" `T H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * as `AZ`
 * seized `SAOEZ/-D`
 * round `ROUPBD`
@@ -297,7 +297,7 @@
 * breast-pin. `PWREFT H-PB PEUPB TP-PL`
 * suppose `SPOS`
 * diamond?" `TKAOEUPLD H-F KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "Why `KR-GS KPA/KWR`
 * yes, `KWRE KW-BG`
 * kind," `KEUPBD KW-BG KR-GS`

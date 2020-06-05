@@ -2,7 +2,7 @@
 
 * "Oh `KR-GS KPA/O*ERBGS`
 * Father," `KPA/TPAER KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * a `AEU`
 * little `HREUL`
 * Frog `KPA/TPROG`
@@ -101,7 +101,7 @@
 * swelled. `SWELD TP-PL`
 * And `AFPBD`
 * then `THEPB`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "I'm `KR-GS EU AE PH*`
 * sure `SHUR`
 * is `S`

@@ -45,7 +45,7 @@
 * their `THAEUR`
 * face. `TPAEUS TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Fox, `KPA/TPOBGS KW-BG`
 * "you `KR-GS U`
 * look `HRAOBG`

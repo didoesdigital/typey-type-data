@@ -48,7 +48,7 @@
 * fate. `TPAEUT TP-PL`
 * "Some `KR-GS KPA/SOPL`
 * men," `PHEPB KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "have `KR-GS SR`
 * only `OEPBL`
 * make `PHAEUBG`
@@ -214,7 +214,7 @@
 * "Behold `KR-GS KPA/PWE/HOLD`
 * me, `PHE KW-BG`
 * Fanny," `KPA/TPAPB/KWREU KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "Make `KR-GS KPA/PHAEUBG`
 * up `UP`
 * fire `TPAOEUR`
@@ -342,7 +342,7 @@
 * think `THEU`
 * of. `-F/TP-PL`
 * "What!" `KR-GS KPA/WHA SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * "when `KR-GS WHEPB`
 * you `U`
 * call `KAUL`

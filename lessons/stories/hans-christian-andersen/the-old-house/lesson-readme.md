@@ -270,7 +270,7 @@
 * paper `PAEUP`
 * took `TAOBG`
 * door `TKAOR`
-* said `SAEUD`
+* said `SED`
 * attendant `A/TEPBD/APBT`
 * waited `WAEUTD`
 * man, `PHAPB KW-BG`
@@ -803,7 +803,7 @@
 * broker's, `PWROERBG AE S* KW-BG`
 * eyes `AO*EUS`
 * sparkled `SPAR/K-LD`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * tune." `TAOUPB TP-PL KR-GS`
 * wars! `WARS SKHRAPL`
 * wars!" `WARS SKHRAPL KR-GS`

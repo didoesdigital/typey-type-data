@@ -57,7 +57,7 @@
 * with `W`
 * her, `HER KW-BG`
 * came, `KAEUPL KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * to `TO`
 * dispose `TKEUS/POES`
 * shares `SHAEURS`
@@ -135,7 +135,7 @@
 * "He `KR-GS KPA/HE`
 * doesn't `TKOPBT`
 * bite," `PWAOEUT KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * "he `KR-GS HE`
 * has `HAS`
 * no `TPHO`

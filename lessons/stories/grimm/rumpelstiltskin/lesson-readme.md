@@ -89,7 +89,7 @@
 * straw, `STRAU KW-BG`
 * gave `TKPWAEUF`
 * spinning-wheel, `SPEUPBG H-PB WHAOEL KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'All `AE KPA/AUL`
 * spun `SPUPB`
 * into `TPHAO`
@@ -102,7 +102,7 @@
 * vain `SRA*EUPB`
 * poor `PAOR`
 * maiden `PHAEUD/*EPB`
-* said `SAEUD`
+* said `SED`
 * it `T`
 * only `OEPBL`
 * silly `SEUL/HREU`
@@ -289,7 +289,7 @@
 * glad, `TKPWHRAD KW-BG`
 * forgot `TPAURGT`
 * dwarf, `TKWAFR KW-BG`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * But `KPA/PWUT`
 * sitting `SEUGT`
 * playing `PHRAEUG`

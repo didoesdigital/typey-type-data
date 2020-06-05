@@ -43,7 +43,7 @@
 * never `TPHEFR`
 * in `TPH`
 * cage." `KAEUPBLG TP-PL KR-GS`
-* said `SAEUD`
+* said `SED`
 * bird. `PWEURD TP-PL`
 * "Then `KR-GS KPA/THEPB`
 * I'll `AOEUL`
@@ -86,7 +86,7 @@
 * branch `PWRAFRPB`
 * of `-F`
 * tree `TRAOE`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Never `KR-GS KPA/TPHEFR`
 * believe `PWHREF`
 * captive's `KAPT/EUF AES`

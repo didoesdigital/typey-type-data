@@ -122,7 +122,7 @@
 * washerwoman `WARB/*ER/WO*PL`
 * up `UP`
 * lane," `HRAEPB KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * mother, `PHOER KW-BG`
 * as `AZ`
 * she `SHE`
@@ -204,7 +204,7 @@
 * sleep; `SHRAOEP STPH*FPLT`
 * appeared `A/PAOERD`
 * kind `KEUPBD`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "It `KR-GS KPA/T`
 * would `WO`
 * pity `PEUT/TEU`
@@ -628,7 +628,7 @@
 * Corsor, `xxx Corsor KW-BG`
 * Roeskilde,—Don't `xxx Roeskilde KW-BG EPL/TKA*RB TKO*PB AE T*`
 * towns, `TOUPBS KW-BG`
-* said,—you `SAEUD KW-BG EPL/TKA*RB U`
+* said,—you `SED KW-BG EPL/TKA*RB U`
 * clearly `KAOERL`
 * grave `TKPWRAEUF`
 * peacefully, `PAES/TPHREU KW-BG`

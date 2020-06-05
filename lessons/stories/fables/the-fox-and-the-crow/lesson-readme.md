@@ -27,7 +27,7 @@
 * I `EU`
 * am `APL`
 * Fox," `KPA/TPOBGS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Master `KPA/PHAFRT`
 * Reynard, `RAEU/TPHARD KW-BG`
 * he `HE`

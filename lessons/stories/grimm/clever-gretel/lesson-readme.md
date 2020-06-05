@@ -57,7 +57,7 @@
 * cooking `KAOG`
 * until `TPH-L`
 * satisfied, `SAED KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'The `AE KPA/-T`
 * must `PHUFT`
 * know `TPHOE`
@@ -71,7 +71,7 @@
 * master `PHAFRT`
 * one `WUPB`
 * day `TKAEU`
-* said `SAEUD`
+* said `SED`
 * her: `HER STPH-FPLT`
 * 'Gretel, `AE TKPWRET/EL KW-BG`
 * there `THR`

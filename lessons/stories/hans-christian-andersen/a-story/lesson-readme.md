@@ -91,7 +91,7 @@
 * might `PHAOEUT`
 * well `WEL`
 * have `SR`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "God's `KR-GS TKPWO*D AES`
 * kindness `KEUPBD/-PBS`
 * us `US`
@@ -109,7 +109,7 @@
 * loudly `HROUD/HREU`
 * angrily. `APBG/REU/HREU TP-PL`
 * He `KPA/HE`
-* said `SAEUD`
+* said `SED`
 * wicked, `WEUBGD KW-BG`
 * God `TKPWO*D`
 * would `WO`
@@ -220,7 +220,7 @@
 * me `PHE`
 * is," `S KW-BG KR-GS`
 * she `SHE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "that `KR-GS THA`
 * I `EU`
 * cannot `K/TPHOT`
@@ -381,7 +381,7 @@
 * easily, `AOELS KW-BG`
 * pure, `PAOUR KW-BG`
 * woman," `WOPL KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "Follow `KR-GS KPA/TPOL`
 * me," `PHE KW-BG KR-GS`
 * "It `KR-GS KPA/T`

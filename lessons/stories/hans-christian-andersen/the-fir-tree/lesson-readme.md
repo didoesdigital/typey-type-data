@@ -251,7 +251,7 @@
 * nodded `TPHOD/-D`
 * his `HEUS`
 * head, `HED KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * think `THEU`
 * do. `TKO TP-PL`
@@ -275,7 +275,7 @@
 * enough `TPHUF`
 * go `TKPW`
 * sea," `SAE KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * fir-tree. `TPEUR H-PB TRAOE TP-PL`
 * "What `KR-GS KPA/WHA`
 * sea, `SAE KW-BG`

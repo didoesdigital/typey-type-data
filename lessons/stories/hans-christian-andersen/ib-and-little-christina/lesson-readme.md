@@ -493,7 +493,7 @@
 * cry. `KRAOEU TP-PL`
 * helped `HEPD`
 * up, `UP KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Never `KR-GS KPA/TPHEFR`
 * mind; `PHAOEUPBD STPH*FPLT`
 * follow `TPOL`
@@ -538,7 +538,7 @@
 * stopping; `STOPG STPH*FPLT`
 * remained `RE/PHAEUPBD`
 * eating, `AOEGT KW-BG`
-* mouths `PHO*UTSZ`
+* mouths `PHO*UT/-S`
 * cheeks `KHAOEBGS`
 * became `PWAEUPL`
 * black `PWHRABG`
@@ -551,7 +551,7 @@
 * trouble `TRUBL`
 * pig." `PEUG TP-PL KR-GS`
 * mind," `PHAOEUPBD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Ib; `xxx Ib STPH*FPLT`
 * "we `KR-GS WE`
 * will `HR`
@@ -665,7 +665,7 @@
 * first `TPEUFRT`
 * understand `URPBD`
 * what `WHA`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * drew `TKRAOU`
 * pocket `POBGT`
 * nuts, `TPHUTS KW-BG`

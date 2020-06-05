@@ -102,7 +102,7 @@
 * him. `HEUPL TP-PL`
 * One `KPA/WUPB`
 * day `TKAEU`
-* said `SAEUD`
+* said `SED`
 * himself, `H*EUPLS KW-BG`
 * 'What `AE KPA/WHA`
 * shall `SHAL`
@@ -190,7 +190,7 @@
 * pity `PEUT/TEU`
 * on `OPB`
 * him, `HEUPL KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'You `AE KPA/U`
 * longer. `HRORPBG TP-PL`
 * much `PHUFP`

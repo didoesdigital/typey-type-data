@@ -16,7 +16,7 @@
 * any `TPHEU`
 * higher!" `HAOEUR SKHRAPL KR-GS`
 * So `KPA/SO`
-* said `SAEUD`
+* said `SED`
 * Ole `KPA/O/HRAEU`
 * tower-keeper. `TOUR H-PB KAOEP/*ER TP-PL`
 * "Most `KR-GS KPA/PHOFT`
@@ -269,7 +269,7 @@
 * rare `RAEUR`
 * fellows, `TPO*EULS KW-BG`
 * boulders!" `PWOELD/ERS SKHRAPL KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "and `KR-GS SKP`
 * think `THEU`
 * should `SHO`
@@ -529,7 +529,7 @@
 * little `HREUL`
 * bands, `PWAPBDZ KW-BG`
 * busy `PW-Z`
-* mouths. `PHO*UTSZ TP-PL`
+* mouths. `PHO*UT/-S TP-PL`
 * There `KPA/THR`
 * ringing `REUPBG/-G`
 * bells `PWELS`
@@ -679,7 +679,7 @@
 * peered `PAOER/-D`
 * forth `TPO*RT`
 * flood `TPHRAOD`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'This `AE KPA/TH`
 * shall `SHAL`
 * Zealand!' `SA*E/HRAPBD SKHRAPL AE`
@@ -813,7 +813,7 @@
 * transition `TREUGS`
 * New—from `KPA/TPHU EPL/TKA*RB TPR`
 * other, `OER KW-BG`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * glasses, `TKPWHRAFS KW-BG`
 * meaning. `PHAOEPBG TP-PL`
 * "When `KR-GS KPA/WHEPB`
@@ -1238,7 +1238,7 @@
 * countersigns `KOUPB/TER/SAOEUPBS`
 * service-book, `S-FS H-PB PWAOBG KW-BG`
 * director `TKROR`
-* savings `SAFGS`
+* savings `SAEUFGS`
 * bank `PWA*PBG`
 * life. `HRAOEUF TP-PL`
 * understand `URPBD`

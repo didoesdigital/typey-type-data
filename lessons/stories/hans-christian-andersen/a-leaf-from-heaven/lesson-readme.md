@@ -49,7 +49,7 @@
 * "What `KR-GS KPA/WHA`
 * ridiculous `REULGS`
 * shoot!" `SHAOT SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * one. `WUPB TP-PL`
 * "No `KR-GS KPA/TPHO`
 * one `WUPB`
@@ -386,7 +386,7 @@
 * "This `KR-GS KPA/TH`
 * useful `AOUFL`
 * any," `TPHEU KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * away. `A/WAEU TP-PL`
 * Not `KPA/TPHOT`
 * long `HROPBG`

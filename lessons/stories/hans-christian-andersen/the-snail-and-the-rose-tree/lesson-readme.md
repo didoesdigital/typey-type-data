@@ -41,7 +41,7 @@
 * time `TAOEUPL`
 * comes," `KOPLS KW-BG KR-GS`
 * he `HE`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "I `KR-GS EU`
 * shall `SHAL`
 * do `TKO`
@@ -61,7 +61,7 @@
 * deal `TKAOEL`
 * from `TPR`
 * you," `U KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * rose-tree. `ROEZ H-PB TRAOE TP-PL`
 * "May `KR-GS PHA*EU`
 * I `EU`

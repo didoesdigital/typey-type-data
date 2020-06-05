@@ -438,7 +438,7 @@
 * "She `KR-GS KPA/SHE`
 * tried `TRAOEUD`
 * herself," `H*ERS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * some. `SOPL TP-PL`
 * imagined `PHAPBLGD`
 * things `THEUPBGS`

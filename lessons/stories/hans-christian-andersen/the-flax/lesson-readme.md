@@ -57,7 +57,7 @@
 * I `EU`
 * exceedingly `EBGS/AOED/TKPWHREU`
 * well," `WEL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * flax, `TPHRA*BGS KW-BG`
 * "and `KR-GS SKP`
 * am `APL`
@@ -652,7 +652,7 @@
 * dead `TKED`
 * ashes,— `ARBS KW-BG EPL/TKA*RB`
 * lure: `HRAOUR STPH-FPLT`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * come." `KOPL TP-PL KR-GS`
 * neither `TPHAOERT`
 * hear `HAER`

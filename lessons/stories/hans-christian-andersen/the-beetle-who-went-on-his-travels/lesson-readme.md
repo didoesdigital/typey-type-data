@@ -28,7 +28,7 @@
 * bright, `PWRAOEUT KW-BG`
 * intelligent `SPWEPBLGT`
 * eyes, `AO*EUS KW-BG`
-* mane `PHA*EPB`
+* mane `PH*/A*/TPH*/*E`
 * that `THA`
 * hung `HUPBG`
 * down `TKOUPB`
@@ -94,7 +94,7 @@
 * ones, `WUPBZ KW-BG`
 * first, `TPEUFRT KW-BG`
 * course," `KORS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "and `KR-GS SKP`
 * then `THEPB`
@@ -219,7 +219,7 @@
 * about, `PW KW-BG`
 * one `WUPB`
 * them `THEPL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Is `KR-GS KPA/S`
 * sweet `SWAOET`
 * lovely `HROFL`
@@ -1089,7 +1089,7 @@
 * again. `TKPWEPB TP-PL`
 * For `KPA/TPOR`
 * clung `KHRUPBG`
-* mane, `PHA*EPB KW-BG`
+* mane, `PH*/A*/TPH*/*E KW-BG`
 * might `PHAOEUT`
 * recover `ROFR`
 * "Well," `KR-GS KPA/WEL KW-BG KR-GS`

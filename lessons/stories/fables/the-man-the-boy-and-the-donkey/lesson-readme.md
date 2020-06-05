@@ -24,7 +24,7 @@
 * countryman `KREU/PHA*PB`
 * passed `PAFD`
 * them `THEPL`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "You `KR-GS KPA/U`
 * fools, `TPAOLS KW-BG`
 * what `WHA`
@@ -68,7 +68,7 @@
 * when `WHEPB`
 * two `TWO`
 * women, `WEUPL KW-BG`
-* said `SAEUD`
+* said `SED`
 * other: `OER STPH-FPLT`
 * "Shame `KR-GS KPA/SHAEUPL`
 * lout `HROUT`

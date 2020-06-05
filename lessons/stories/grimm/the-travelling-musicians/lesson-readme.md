@@ -86,7 +86,7 @@
 * so, `SO KW-BG`
 * my `PHEU`
 * friend?' `TPREPBD H-F AE`
-* said `SAEUD`
+* said `SED`
 * ass. `A*S TP-PL`
 * 'Alas!' `AE KPA/A/HRAS SKHRAPL AE`
 * dog, `TKOG KW-BG`
@@ -331,7 +331,7 @@
 * shining `SHAOEUPBG`
 * calling `KAULG`
 * companions `KPAPB/KWROPBS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'There `AE KPA/THR`
 * must `PHUFT`
 * way `WAEU`

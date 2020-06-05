@@ -23,7 +23,7 @@
 * it `T`
 * is, `S-RBGS`
 * wife,' `WAOEUF KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * as `AZ`
 * he `HE`
@@ -120,7 +120,7 @@
 * thumb. `THUPL TP-PL`
 * So `KPA/SO`
 * they `THE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Well, `AE KPA/WEL KW-BG`
 * we `WE`
 * cannot `K/TPHOT`

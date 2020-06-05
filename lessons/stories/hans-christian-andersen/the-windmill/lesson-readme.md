@@ -19,7 +19,7 @@
 * not `TPHOT`
 * at `AT`
 * all," `AUL KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "but `KR-GS PWUT`
 * I `EU`
 * very `SRE`
@@ -343,9 +343,9 @@
 * mill `PHEUL`
 * all.'" `AUL TP-PL AE KR-GS`
 * That `KPA/THA`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * Indeed, `KPA/TPHAOEPBD KW-BG`
-* said `SAEUD`
+* said `SED`
 * more, `PHOR KW-BG`
 * most `PHOFT`
 * important `PORPB`

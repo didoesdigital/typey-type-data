@@ -44,7 +44,7 @@
 * met `PHET`
 * sparrow `SPAEUR/ROE`
 * that `THA`
-* said `SAEUD`
+* said `SED`
 * 'Why `AE KPA/KWR`
 * are `R`
 * you `U`
@@ -195,7 +195,7 @@
 * gone `TKPWOPB`
 * far `TPAR`
 * before `PW-FR`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * much `PHUFP`
 * tired--I `TAOEURD H-PB H-PB EU`
 * nap.' `TPHAP TP-PL AE`

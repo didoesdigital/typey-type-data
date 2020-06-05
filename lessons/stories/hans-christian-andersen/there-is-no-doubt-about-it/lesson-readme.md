@@ -5,7 +5,7 @@
 * a `AEU`
 * terrible `TERBL`
 * affair!" `A/TPAEUR SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * hen, `HEPB KW-BG`
 * and `SKP`
 * in `TPH`
@@ -106,7 +106,7 @@
 * out. `OUT TP-PL`
 * "There `KR-GS KPA/THR`
 * goes," `TKPW-S KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "the `KR-GS -T`
 * more `PHOR`
 * pluck, `PHRUBG KW-BG`
@@ -122,7 +122,7 @@
 * and, `SKP KW-BG`
 * moreover, `PHROEFR KW-BG`
 * been `PW-PB`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * very `SRE`
 * respectable. `R-PT/-BL TP-PL`
 * With `KPA/W`
@@ -160,7 +160,7 @@
 * you `U`
 * hear `HAER`
 * what `WHA`
-* said? `SAEUD H-F`
+* said? `SED H-F`
 * mention `PHEPBGS`
 * names, `TPHAEUPLS KW-BG`
 * there `THR`
@@ -186,14 +186,14 @@
 * ears, `AOERS KW-BG`
 * they `THE`
 * word `WORD`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * They `KPA/THE`
 * rolled `ROLD`
 * eyes, `AO*EUS KW-BG`
 * mother `PHOER`
 * beating `PWAEGT`
 * wings, `WEUPBGS KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "Don't `KR-GS TKO*PB AE T*`
 * listen `HREUFPB`
 * her! `HER SKHRAPL`
@@ -218,7 +218,7 @@
 * it." `T TP-PL KR-GS`
 * "Prenez `KR-GS xxx Prenez`
 * garde `xxx garde`
-* aux `A*UBGS`
+* aux `A*/*U/KP*`
 * enfants!" `xxx enfants SKHRAPL KR-GS`
 * owl; `OUL STPH*FPLT`
 * "children `KR-GS KHEURPB`

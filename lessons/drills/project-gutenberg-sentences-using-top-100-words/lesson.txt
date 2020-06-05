@@ -504,7 +504,7 @@ Project Gutenberg sentences using top 100 words
 'He': KPA/HE
 'must.': PHUFT TP-PL
 'He': KPA/HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'He': KPA/HE
 'will.': HR TP-PL
 'He,': KPA/HE KW-BG
@@ -1066,9 +1066,9 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'so.': SO TP-PL
 'He': KPA/HE
-'said…': SAEUD SKWR*RBGS
+'said…': SED SKWR*RBGS
 'He': KPA/HE
-'said!'': SAEUD SKHRAPL AE
+'said!'': SED SKHRAPL AE
 'He': KPA/HE
 'there!': THR SKHRAPL
 'He': KPA/HE
@@ -1225,7 +1225,7 @@ Project Gutenberg sentences using top 100 words
 'this…': TH SKWR*RBGS
 'Out,': KPA/OUT KW-BG
 'out!': OUT SKHRAPL
-'Said': KPA/SAEUD
+'Said': KPA/SED
 'she.': SHE TP-PL
 'See': KPA/SAOE
 'her!'': HER SKHRAPL AE
@@ -1244,7 +1244,7 @@ Project Gutenberg sentences using top 100 words
 'She': KPA/SHE
 'must.': PHUFT TP-PL
 'She': KPA/SHE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'She': KPA/SHE
 'was.'': WAS TP-PL AE
 'So': KPA/SO
@@ -1362,7 +1362,7 @@ Project Gutenberg sentences using top 100 words
 'Who': KPA/WHO
 'has?'': HAS H-F AE
 'Who': KPA/WHO
-'said?': SAEUD H-F
+'said?': SED H-F
 'Who': KPA/WHO
 'then?': THEPB H-F
 'Who': KPA/WHO
@@ -1418,7 +1418,7 @@ Project Gutenberg sentences using top 100 words
 'You': KPA/U
 'must.': PHUFT TP-PL
 'You': KPA/U
-'said!': SAEUD SKHRAPL
+'said!': SED SKHRAPL
 'You': KPA/U
 'see…': SAOE SKWR*RBGS
 'You': KPA/U
@@ -1683,7 +1683,7 @@ Project Gutenberg sentences using top 100 words
 '--You': H-PB H-PB KPA/U
 'did.': TK TP-PL
 '.You': TP-PL KPA/U
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'About': KPA/PW
 'her.': HER TP-PL
 'About': KPA/PW
@@ -1845,7 +1845,7 @@ Project Gutenberg sentences using top 100 words
 'may': PHAE
 'be.': -B TP-PL
 'He': KPA/HE
-'said...': SAEUD TP-PL TP-PL TP-PL
+'said...': SED TP-PL TP-PL TP-PL
 'He': KPA/HE
 'was': WAS
 'so.': SO TP-PL
@@ -1988,7 +1988,7 @@ Project Gutenberg sentences using top 100 words
 'what?'': WHA H-F AE
 'Over': KPA/OEFR
 'what?': WHA H-F
-'Said': KPA/SAEUD
+'Said': KPA/SED
 'that.': THA TP-PL
 'See': KPA/SAOE
 'there!': THR SKHRAPL
@@ -2086,7 +2086,7 @@ Project Gutenberg sentences using top 100 words
 'They': KPA/THE
 'must.': PHUFT TP-PL
 'They': KPA/THE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'They': KPA/THE
 'were.': WR TP-PL
 'They': KPA/THE
@@ -2709,13 +2709,13 @@ Project Gutenberg sentences using top 100 words
 'must': PHUFT
 'be.': -B TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'it.': T TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'no.': TPHO TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'so.': SO TP-PL
 'He': KPA/HE
 'should!'': SHO SKHRAPL AE
@@ -2790,7 +2790,7 @@ Project Gutenberg sentences using top 100 words
 'over.': OEFR TP-PL
 'It': KPA/T
 'is': S
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'It': KPA/T
 'is': S
 'she!'': SHE SKHRAPL AE
@@ -3863,7 +3863,7 @@ Project Gutenberg sentences using top 100 words
 'Out': KPA/OUT
 'with': W
 'it.': T TP-PL
-'Said': KPA/SAEUD
+'Said': KPA/SED
 'to': TO
 'her?': HER H-F
 'See': KPA/SAOE
@@ -3900,7 +3900,7 @@ Project Gutenberg sentences using top 100 words
 'had.'': H TP-PL AE
 'So': KPA/SO
 'she': SHE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'So': KPA/SO
 'they': THE
 'did.': TK TP-PL
@@ -4121,7 +4121,7 @@ Project Gutenberg sentences using top 100 words
 'made': PHAED
 'it?': T H-F
 'Who': KPA/WHO
-'said': SAEUD
+'said': SED
 'no?': TPHO H-F
 'Who': KPA/WHO
 'was': WAS
@@ -4175,7 +4175,7 @@ Project Gutenberg sentences using top 100 words
 'may': PHAE
 'not.': TPHOT TP-PL
 'You': KPA/U
-'said': SAEUD
+'said': SED
 'it.': T TP-PL
 'You': KPA/U
 'see': SAOE
@@ -4922,7 +4922,7 @@ Project Gutenberg sentences using top 100 words
 'Out': KPA/OUT
 'with': W
 'it.'': T TP-PL AE
-'Said': KPA/SAEUD
+'Said': KPA/SED
 'he': HE
 'that?': THA H-F
 'She': KPA/SHE
@@ -5091,14 +5091,14 @@ Project Gutenberg sentences using top 100 words
 'know': TPHOE
 'it.': T TP-PL
 'They': KPA/THE
-'said': SAEUD
+'said': SED
 'no.': TPHO TP-PL
 'This': KPA/TH
 'for': TPOR
 'you!': U SKHRAPL
 'This': KPA/TH
 'is': S
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'This': KPA/TH
 'was': WAS
 'all!': AUL SKHRAPL
@@ -5194,7 +5194,7 @@ Project Gutenberg sentences using top 100 words
 'of': -F
 'that?': THA H-F
 'What': KPA/WHA
-'said': SAEUD
+'said': SED
 'he?': HE H-F
 'What': KPA/WHA
 'then?...': THEPB H-F TP-PL TP-PL TP-PL
@@ -5306,7 +5306,7 @@ Project Gutenberg sentences using top 100 words
 'see.': SAOE TP-PL
 'You,': KPA/U KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 ''Is': AE KPA/S
 'it': T
 'good?'': TKPWAOD H-F AE
@@ -5608,10 +5608,10 @@ Project Gutenberg sentences using top 100 words
 'made': PHAED
 'it?"': T H-F KR-GS
 '"Who': KR-GS KPA/WHO
-'said': SAEUD
+'said': SED
 'it?"': T H-F KR-GS
 '"Who': KR-GS KPA/WHO
-'said': SAEUD
+'said': SED
 'so?"': SO H-F KR-GS
 '"Who': KR-GS KPA/WHO
 'was': WAS
@@ -5904,7 +5904,7 @@ Project Gutenberg sentences using top 100 words
 'women?': WEUPL H-F
 'Good,': KPA/TKPWAOD KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'Have': KPA/SR
 'with': W
 'you.': U TP-PL
@@ -6109,7 +6109,7 @@ Project Gutenberg sentences using top 100 words
 'could': KO
 'not.': TPHOT TP-PL
 'She': KPA/SHE
-'said': SAEUD
+'said': SED
 'more.': PHOR TP-PL
 'She': KPA/SHE
 'was': WAS
@@ -6272,7 +6272,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'this?'': TH H-F AE
 'What': KPA/WHA
-'said': SAEUD
+'said': SED
 'you?': STPHU
 'What': KPA/WHA
 'was': WAS
@@ -6331,10 +6331,10 @@ Project Gutenberg sentences using top 100 words
 'made': PHAED
 'them?': THEPL H-F
 'Who': KPA/WHO
-'said': SAEUD
+'said': SED
 'that?': THA H-F
 'Who': KPA/WHO
-'said': SAEUD
+'said': SED
 'this?': TH H-F
 'Who': KPA/WHO
 'then': THEPB
@@ -6522,7 +6522,7 @@ Project Gutenberg sentences using top 100 words
 'not': TPHOT
 'in."': TPH TP-PL KR-GS
 '"He': KR-GS KPA/HE
-'said': SAEUD
+'said': SED
 'that?"': THA H-F KR-GS
 '"He': KR-GS KPA/HE
 'was': WAS
@@ -6604,7 +6604,7 @@ Project Gutenberg sentences using top 100 words
 'now!"': TPHOU SKHRAPL KR-GS
 '"So': KR-GS KPA/SO
 'they': THE
-'said."': SAEUD TP-PL KR-GS
+'said."': SED TP-PL KR-GS
 '"So': KR-GS KPA/SO
 'would': WO
 'you!"': U SKHRAPL KR-GS
@@ -6683,7 +6683,7 @@ Project Gutenberg sentences using top 100 words
 'of': -F
 'them?"': THEPL H-F KR-GS
 '"What': KR-GS KPA/WHA
-'said': SAEUD
+'said': SED
 'he?"': HE H-F KR-GS
 '"Which': KR-GS KPA/WEU
 'is': S
@@ -6898,7 +6898,7 @@ Project Gutenberg sentences using top 100 words
 'not.': TPHOT TP-PL
 'But': KPA/PWUT
 'he': HE
-'said': SAEUD
+'said': SED
 'no.': TPHO TP-PL
 'But': KPA/PWUT
 'it': T
@@ -7010,7 +7010,7 @@ Project Gutenberg sentences using top 100 words
 'see.': SAOE TP-PL
 'He': KPA/HE
 'has': HAS
-'said': SAEUD
+'said': SED
 'so.': SO TP-PL
 'He': KPA/HE
 'has,': HAS KW-BG
@@ -7021,7 +7021,7 @@ Project Gutenberg sentences using top 100 words
 'have': SR
 'it.': T TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'it': T
 'was.': WAS TP-PL
 'He': KPA/HE
@@ -7259,7 +7259,7 @@ Project Gutenberg sentences using top 100 words
 'of': -F
 'the': -T
 'two.': TWO TP-PL
-'Said': KPA/SAEUD
+'Said': KPA/SED
 'he': HE
 'not': TPHOT
 'so?': SO H-F
@@ -7537,7 +7537,7 @@ Project Gutenberg sentences using top 100 words
 'the': -T
 'man?': PHAPB H-F
 'Who': KPA/WHO
-'said': SAEUD
+'said': SED
 'that?'': THA H-F AE
 'Who': KPA/WHO
 'then': THEPB
@@ -7753,7 +7753,7 @@ Project Gutenberg sentences using top 100 words
 '"It': KR-GS KPA/T
 'is': S
 'so': SO
-'said."': SAEUD TP-PL KR-GS
+'said."': SED TP-PL KR-GS
 '"It': KR-GS KPA/T
 'must': PHUFT
 'be': -B
@@ -7793,7 +7793,7 @@ Project Gutenberg sentences using top 100 words
 'that,': THA KW-BG
 'now!"': TPHOU SKHRAPL KR-GS
 '"She': KR-GS KPA/SHE
-'said': SAEUD
+'said': SED
 'that?"': THA H-F KR-GS
 '"Should': KR-GS KPA/SHO
 'it': T
@@ -7801,7 +7801,7 @@ Project Gutenberg sentences using top 100 words
 '"So': KR-GS KPA/SO
 'it': T
 'is': S
-'said."': SAEUD TP-PL KR-GS
+'said."': SED TP-PL KR-GS
 '"So': KR-GS KPA/SO
 'now': TPHOU
 'there!'"': THR SKHRAPL AE KR-GS
@@ -7891,7 +7891,7 @@ Project Gutenberg sentences using top 100 words
 'he': HE
 'be?"': -B H-F KR-GS
 '"Who': KR-GS KPA/WHO
-'said': SAEUD
+'said': SED
 'that?"': THA H-F KR-GS
 '"Who': KR-GS KPA/WHO
 'was': WAS
@@ -8052,7 +8052,7 @@ Project Gutenberg sentences using top 100 words
 'she?': SHE H-F
 'And': AFPBD
 'you': U
-'said': SAEUD
+'said': SED
 'no.': TPHO TP-PL
 'And--and--good?'': AFPBD H-PB H-PB SKP H-PB H-PB TKPWAOD H-F AE
 'Are': KPA/R
@@ -8263,7 +8263,7 @@ Project Gutenberg sentences using top 100 words
 'there': THR
 'now.': TPHOU TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'no': TPHO
 'more.': PHOR TP-PL
 'Hers': KPA/HERS
@@ -8418,7 +8418,7 @@ Project Gutenberg sentences using top 100 words
 'Or': KPA/OR
 'so': SO
 'they': THE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'Or': KPA/OR
 'what': WHA
 'are': R
@@ -8432,7 +8432,7 @@ Project Gutenberg sentences using top 100 words
 'is.': S TP-PL
 'See--now--that!'': KPA/SAOE H-PB H-PB TPHOU H-PB H-PB THA SKHRAPL AE
 'She': KPA/SHE
-'said': SAEUD
+'said': SED
 'it': T
 'all.': AUL TP-PL
 'She': KPA/SHE
@@ -8561,7 +8561,7 @@ Project Gutenberg sentences using top 100 words
 'see': SAOE
 'him!': HEUPL SKHRAPL
 'We': KPA/WE
-'said': SAEUD
+'said': SED
 'no': TPHO
 'more.': PHOR TP-PL
 'Were': KPA/WR
@@ -8781,7 +8781,7 @@ Project Gutenberg sentences using top 100 words
 'do': TKO
 'that.': THA TP-PL
 'You': KPA/U
-'said': SAEUD
+'said': SED
 'it': T
 'was.': WAS TP-PL
 'You': KPA/U
@@ -9285,7 +9285,7 @@ Project Gutenberg sentences using top 100 words
 'that?': THA H-F
 'And': AFPBD
 'what': WHA
-'said': SAEUD
+'said': SED
 'he?': HE H-F
 'And': AFPBD
 'who': WHO
@@ -9449,7 +9449,7 @@ Project Gutenberg sentences using top 100 words
 'that?': THA H-F
 'Do': KPA/TKO
 'then,': THEPB KW-BG
-'said': SAEUD
+'said': SED
 'he.': HE TP-PL
 'Do': KPA/TKO
 'you': U
@@ -9518,7 +9518,7 @@ Project Gutenberg sentences using top 100 words
 'be': -B
 'there!': THR SKHRAPL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'he': HE
 'would.': WO TP-PL
 'He': KPA/HE
@@ -9644,7 +9644,7 @@ Project Gutenberg sentences using top 100 words
 'not.'': TPHOT TP-PL AE
 'No,': KPA/TPHO KW-BG
 'no,': TPHORBGS
-'said': SAEUD
+'said': SED
 'she.': SHE TP-PL
 'No,': KPA/TPHO KW-BG
 'not': TPHOT
@@ -9721,7 +9721,7 @@ Project Gutenberg sentences using top 100 words
 'some': SOPL
 'one': WUPB
 'must.': PHUFT TP-PL
-'Said': KPA/SAEUD
+'Said': KPA/SED
 'he': HE
 'was': WAS
 'a--!'': AEU H-PB H-PB SKHRAPL AE
@@ -9743,7 +9743,7 @@ Project Gutenberg sentences using top 100 words
 'know.': TPHOEFPLT
 'She': KPA/SHE
 'has': HAS
-'said': SAEUD
+'said': SED
 'it?'': T H-F AE
 'She': KPA/SHE
 'is': S
@@ -9751,7 +9751,7 @@ Project Gutenberg sentences using top 100 words
 'of': -F
 'us.': US TP-PL
 'She': KPA/SHE
-'said': SAEUD
+'said': SED
 'no': TPHO
 'more.': PHOR TP-PL
 'She': KPA/SHE
@@ -9776,7 +9776,7 @@ Project Gutenberg sentences using top 100 words
 'be.': -B TP-PL
 'So': KPA/SO
 'you': U
-'said': SAEUD
+'said': SED
 'then.': THEPB TP-PL
 'So,': KPA/SO KW-BG
 'that': THA
@@ -10624,7 +10624,7 @@ Project Gutenberg sentences using top 100 words
 ''"So': AE KR-GS KPA/SO
 'it': T
 'was': WAS
-'said."': SAEUD TP-PL KR-GS
+'said."': SED TP-PL KR-GS
 ''Now,': AE KPA/TPHOU KW-BG
 'all': AUL
 'is': S
@@ -10729,7 +10729,7 @@ Project Gutenberg sentences using top 100 words
 'there?': THR H-F
 'And': AFPBD
 'what': WHA
-'said': SAEUD
+'said': SED
 'he?'': HE H-F AE
 'And': AFPBD
 'you': U
@@ -10797,7 +10797,7 @@ Project Gutenberg sentences using top 100 words
 'this…': TH SKWR*RBGS
 'But': KPA/PWUT
 'what': WHA
-'said': SAEUD
+'said': SED
 'she?': SHE H-F
 'But': KPA/PWUT
 'what': WHA
@@ -10867,7 +10867,7 @@ Project Gutenberg sentences using top 100 words
 'did': TK
 'as': AZ
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'He': KPA/HE
 'did': TK
 'not': TPHOT
@@ -10905,7 +10905,7 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'as': AZ
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'It': KPA/T
 'will,': HR KW-BG
 'it': T
@@ -10954,7 +10954,7 @@ Project Gutenberg sentences using top 100 words
 'did.': TK TP-PL
 'Not': KPA/TPHOT
 'good,': TKPWAOD KW-BG
-'said': SAEUD
+'said': SED
 'he.': HE TP-PL
 'Not': KPA/TPHOT
 'with': W
@@ -11074,7 +11074,7 @@ Project Gutenberg sentences using top 100 words
 'There': KPA/THR
 'is,': S-RBGS
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'There': KPA/THR
 'you': U
 'are': R
@@ -11088,11 +11088,11 @@ Project Gutenberg sentences using top 100 words
 'not': TPHOT
 'know!'': TPHOE SKHRAPL AE
 'They': KPA/THE
-'said': SAEUD
+'said': SED
 'no': TPHO
 'more.': PHOR TP-PL
 'They': KPA/THE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 'It': KPA/T
 'was.': WAS TP-PL
 'They': KPA/THE
@@ -11297,7 +11297,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'will': HR
 'be': -B
-'said?': SAEUD H-F
+'said?': SED H-F
 'What': KPA/WHA
 'will': HR
 'she': SHE
@@ -11416,7 +11416,7 @@ Project Gutenberg sentences using top 100 words
 'there.': THR TP-PL
 'You': KPA/U
 'have': SR
-'said': SAEUD
+'said': SED
 'now.': TPHOU TP-PL
 'You': KPA/U
 'know': TPHOE
@@ -11443,7 +11443,7 @@ Project Gutenberg sentences using top 100 words
 'know': TPHOE
 'now.': TPHOU TP-PL
 'You': KPA/U
-'said': SAEUD
+'said': SED
 'not': TPHOT
 'this?': TH H-F
 'You': KPA/U
@@ -11604,7 +11604,7 @@ Project Gutenberg sentences using top 100 words
 'not': TPHOT
 'one?"': WUPB H-F KR-GS
 '"He': KR-GS KPA/HE
-'said': SAEUD
+'said': SED
 'he': HE
 'would."': WO TP-PL KR-GS
 '"He': KR-GS KPA/HE
@@ -11844,7 +11844,7 @@ Project Gutenberg sentences using top 100 words
 'the': -T
 'other?"': OER H-F KR-GS
 '"Who': KR-GS KPA/WHO
-'said': SAEUD
+'said': SED
 'you': U
 'had?"': H H-F KR-GS
 '"Who': KR-GS KPA/WHO
@@ -11877,7 +11877,7 @@ Project Gutenberg sentences using top 100 words
 'you?"': U H-F KR-GS
 '"You': KR-GS KPA/U
 'have': SR
-'said': SAEUD
+'said': SED
 'it."': T TP-PL KR-GS
 '"You': KR-GS KPA/U
 'know': TPHOE
@@ -12355,7 +12355,7 @@ Project Gutenberg sentences using top 100 words
 'Very': KPA/SRE
 'good,': TKPWAOD KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'What': KPA/WHA
 'Woman': KPA/WOPL
 'is': S
@@ -12446,12 +12446,12 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'to': TO
 'be': -B
-'said!': SAEUD SKHRAPL
+'said!': SED SKHRAPL
 'What': KPA/WHA
 'is': S
 'to': TO
 'be': -B
-'said?': SAEUD H-F
+'said?': SED H-F
 'What': KPA/WHA
 'should': SHO
 'she': SHE
@@ -12705,7 +12705,7 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'he': HE
 'there?"': THR H-F KR-GS
-'"Said': KR-GS KPA/SAEUD
+'"Said': KR-GS KPA/SED
 'in': TPH
 'good': TKPWAOD
 'time!"': TAOEUPL SKHRAPL KR-GS
@@ -13086,7 +13086,7 @@ Project Gutenberg sentences using top 100 words
 'see': SAOE
 'her.': HER TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'that': THA
 'he': HE
 'had.': H TP-PL
@@ -13209,7 +13209,7 @@ Project Gutenberg sentences using top 100 words
 'us.': US TP-PL
 'The': KPA/-T
 'man': PHAPB
-'said': SAEUD
+'said': SED
 'he': HE
 'was.': WAS TP-PL
 'There': KPA/THR
@@ -13346,7 +13346,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'should': SHO
 'be': -B
-'said?': SAEUD H-F
+'said?': SED H-F
 'What': KPA/WHA
 'should': SHO
 'they': THE
@@ -13696,7 +13696,7 @@ Project Gutenberg sentences using top 100 words
 '"What': KR-GS KPA/WHA
 'have': SR
 'you': U
-'said?"': SAEUD H-F KR-GS
+'said?"': SED H-F KR-GS
 '"What': KR-GS KPA/WHA
 'is': S
 'it': T
@@ -13843,7 +13843,7 @@ Project Gutenberg sentences using top 100 words
 'on.': OPB TP-PL
 'And': AFPBD
 'so': SO
-'said': SAEUD
+'said': SED
 'they': THE
 'all.': AUL TP-PL
 'And': AFPBD
@@ -14004,12 +14004,12 @@ Project Gutenberg sentences using top 100 words
 'to': TO
 'women.'': WEUPL TP-PL AE
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'he': HE
 'could': KO
 'not.': TPHOT TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'no': TPHO
 'more': PHOR
 'then.': THEPB TP-PL
@@ -14091,7 +14091,7 @@ Project Gutenberg sentences using top 100 words
 'No': KPA/TPHO
 'one': WUPB
 'has': HAS
-'said': SAEUD
+'said': SED
 'that.': THA TP-PL
 'Now': KPA/TPHOU
 'then,': THEPB KW-BG
@@ -14204,7 +14204,7 @@ Project Gutenberg sentences using top 100 words
 'They': KPA/THE
 'were,': WR KW-BG
 'they': THE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'This': KPA/TH
 'is': S
 'all': AUL
@@ -14405,7 +14405,7 @@ Project Gutenberg sentences using top 100 words
 'have?': SR H-F
 'What': KPA/WHA
 'you': U
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 'is': S
 'it?': T H-F
 'When': KPA/WHEPB
@@ -14583,7 +14583,7 @@ Project Gutenberg sentences using top 100 words
 'see': SAOE
 'him."': HEUPL TP-PL KR-GS
 '"He': KR-GS KPA/HE
-'said': SAEUD
+'said': SED
 'you': U
 'were': WR
 'to."': TO TP-PL KR-GS
@@ -14863,7 +14863,7 @@ Project Gutenberg sentences using top 100 words
 'be?'': -B H-F AE
 'And': AFPBD
 'what': WHA
-'said': SAEUD
+'said': SED
 'he': HE
 'then?': THEPB H-F
 'And': AFPBD
@@ -14957,7 +14957,7 @@ Project Gutenberg sentences using top 100 words
 'Could': KPA/KO
 'he': HE
 'have': SR
-'said': SAEUD
+'said': SED
 'it?': T H-F
 'Did': KPA/TK
 'you': U
@@ -15004,12 +15004,12 @@ Project Gutenberg sentences using top 100 words
 'to': TO
 'me.': PHE TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'that': THA
 'would': WO
 'do.': TKO TP-PL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'to': TO
 'him:': HEUPL STPH-FPLT
 'Which?': KPA/WEU H-F
@@ -15123,7 +15123,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'good,': TKPWAOD KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'That': KPA/THA
 'is,': S-RBGS
 'she': SHE
@@ -15138,12 +15138,12 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'what': WHA
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'That': KPA/THA
 'will': HR
 'do,': TKORBGS
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'Then': KPA/THEPB
 'have': SR
 'it,': T KW-BG
@@ -15173,7 +15173,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'not,': TPHOT KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'There,': KPA/THR KW-BG
 'do': TKO
 'as': AZ
@@ -15324,7 +15324,7 @@ Project Gutenberg sentences using top 100 words
 'be,': -B KW-BG
 'now?': TPHOU H-F
 'Who': KPA/WHO
-'said': SAEUD
+'said': SED
 'it': T
 'was,': WAS KW-BG
 'man?'': PHAPB H-F AE
@@ -15566,7 +15566,7 @@ Project Gutenberg sentences using top 100 words
 'what': WHA
 'may': PHAE
 'be': -B
-'said!"': SAEUD SKHRAPL KR-GS
+'said!"': SED SKHRAPL KR-GS
 '"Some': KR-GS KPA/SOPL
 'other': OER
 'man,': PHAPB KW-BG
@@ -15585,7 +15585,7 @@ Project Gutenberg sentences using top 100 words
 'that': THA
 'all': AUL
 'he': HE
-'said?"': SAEUD H-F KR-GS
+'said?"': SED H-F KR-GS
 '"We': KR-GS KPA/WE
 'must': PHUFT
 'see': SAOE
@@ -15728,7 +15728,7 @@ Project Gutenberg sentences using top 100 words
 'like': HRAOEUBG
 'that?"': THA H-F KR-GS
 '--She': H-PB H-PB KPA/SHE
-'said': SAEUD
+'said': SED
 'it,': T KW-BG
 'we': WE
 'know.': TPHOEFPLT
@@ -15872,7 +15872,7 @@ Project Gutenberg sentences using top 100 words
 'could': KO
 'not': TPHOT
 'have': SR
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'He': KPA/HE
 'would': WO
 'not': TPHOT
@@ -16042,7 +16042,7 @@ Project Gutenberg sentences using top 100 words
 'the': -T
 'man!': PHAPB SKHRAPL
 'They': KPA/THE
-'said:': SAEUD STPH-FPLT
+'said:': SED STPH-FPLT
 'We': KPA/WE
 'know': TPHOE
 'him.': HEUPL TP-PL
@@ -16092,7 +16092,7 @@ Project Gutenberg sentences using top 100 words
 'can': K
 'she': SHE
 'have': SR
-'said?': SAEUD H-F
+'said?': SED H-F
 'What': KPA/WHA
 'can': K
 'we': WE
@@ -16506,12 +16506,12 @@ Project Gutenberg sentences using top 100 words
 'my': PHEU
 'miss,': PHEUS KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 '--There': H-PB H-PB KPA/THR
 'he': HE
 'is,': S-RBGS
 'she': SHE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'About': KPA/PW
 'you,': U KW-BG
 'not': TPHOT
@@ -16720,13 +16720,13 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'not': TPHOT
 'much': PHUFP
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'They': KPA/THE
 'did': TK
 'as': AZ
 'he': HE
 'had': H
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'They': KPA/THE
 'were': WR
 'all': AUL
@@ -16768,7 +16768,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'can': K
 'be': -B
-'said': SAEUD
+'said': SED
 'for': TPOR
 'it.': T TP-PL
 'What': KPA/WHA
@@ -16803,7 +16803,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'has': HAS
 'she': SHE
-'said': SAEUD
+'said': SED
 'of': -F
 'me?': PHE H-F
 'What': KPA/WHA
@@ -16850,7 +16850,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'is': S
 'that,': THA KW-BG
-'said': SAEUD
+'said': SED
 'they?': THE H-F
 'What': KPA/WHA
 'more': PHOR
@@ -16862,7 +16862,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'to': TO
 'be': -B
-'said?': SAEUD H-F
+'said?': SED H-F
 'What': KPA/WHA
 'was': WAS
 'it': T
@@ -17017,7 +17017,7 @@ Project Gutenberg sentences using top 100 words
 'not': TPHOT
 'as': AZ
 'she': SHE
-'said?"': SAEUD H-F KR-GS
+'said?"': SED H-F KR-GS
 '"No': KR-GS KPA/TPHO
 'more': PHOR
 'than': THAPB
@@ -17088,7 +17088,7 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'that': THA
 'you': U
-'said?"': SAEUD H-F KR-GS
+'said?"': SED H-F KR-GS
 '"What': KR-GS KPA/WHA
 'will': HR
 'we': WE
@@ -17346,7 +17346,7 @@ Project Gutenberg sentences using top 100 words
 'it?': T H-F
 'They': KPA/THE
 'all': AUL
-'said': SAEUD
+'said': SED
 'they': THE
 'would.': WO TP-PL
 'They': KPA/THE
@@ -17586,7 +17586,7 @@ Project Gutenberg sentences using top 100 words
 'can': K
 'they': THE
 'have': SR
-'said?"': SAEUD H-F KR-GS
+'said?"': SED H-F KR-GS
 '"What': KR-GS KPA/WHA
 'can': K
 'we': WE
@@ -17660,7 +17660,7 @@ Project Gutenberg sentences using top 100 words
 'do': TKO
 'that,': THA KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'And': AFPBD
 'not': TPHOT
 'one': WUPB
@@ -17833,13 +17833,13 @@ Project Gutenberg sentences using top 100 words
 'there': THR
 'before.': PW-FR TP-PL
 'She': KPA/SHE
-'said': SAEUD
+'said': SED
 'she': SHE
 'did': TK
 'not': TPHOT
 'know.': TPHOEFPLT
 'She': KPA/SHE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 'so': SO
 'it': T
 'should': SHO
@@ -17898,7 +17898,7 @@ Project Gutenberg sentences using top 100 words
 'there': THR
 'to': TO
 'be': -B
-'said?': SAEUD H-F
+'said?': SED H-F
 'What': KPA/WHA
 'will': HR
 'you': U
@@ -18034,7 +18034,7 @@ Project Gutenberg sentences using top 100 words
 '"And': KR-GS AFPBD
 'what': WHA
 'she': SHE
-'said': SAEUD
+'said': SED
 'to': TO
 'you?"': U H-F KR-GS
 '"And': KR-GS AFPBD
@@ -18310,7 +18310,7 @@ Project Gutenberg sentences using top 100 words
 'should': SHO
 'not': TPHOT
 'have': SR
-'said': SAEUD
+'said': SED
 'it.': T TP-PL
 'Is': KPA/S
 'he': HE
@@ -18327,7 +18327,7 @@ Project Gutenberg sentences using top 100 words
 'over.': OEFR TP-PL
 'No,': KPA/TPHO KW-BG
 'he': HE
-'said,': SAEUD KW-BG
+'said,': SED KW-BG
 'over': OEFR
 'for': TPOR
 'good.': TKPWAOD TP-PL
@@ -18341,7 +18341,7 @@ Project Gutenberg sentences using top 100 words
 'has': HAS
 'more': PHOR
 'than': THAPB
-'said': SAEUD
+'said': SED
 'it.'': T TP-PL AE
 'She': KPA/SHE
 'must': PHUFT
@@ -18350,7 +18350,7 @@ Project Gutenberg sentences using top 100 words
 'be': -B
 'his.': HEUS TP-PL
 'She': KPA/SHE
-'said': SAEUD
+'said': SED
 'she': SHE
 'would': WO
 'see': SAOE
@@ -18844,7 +18844,7 @@ Project Gutenberg sentences using top 100 words
 'as': AZ
 'you': U
 'have': SR
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'You': KPA/U
 'could,': KO KW-BG
 'but': PWUT
@@ -18852,7 +18852,7 @@ Project Gutenberg sentences using top 100 words
 'have': SR
 'not.': TPHOT TP-PL
 'You': KPA/U
-'said': SAEUD
+'said': SED
 'that': THA
 'over': OEFR
 'and': SKP
@@ -18972,7 +18972,7 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'it': T
 'you': U
-'said': SAEUD
+'said': SED
 'to': TO
 'me?"': PHE H-F KR-GS
 '"What,': KR-GS KPA/WHA KW-BG
@@ -19035,7 +19035,7 @@ Project Gutenberg sentences using top 100 words
 'all?': AUL H-F
 'But': KPA/PWUT
 'they': THE
-'said': SAEUD
+'said': SED
 'to': TO
 'him:': HEUPL STPH-FPLT
 'We': KPA/WE
@@ -19066,7 +19066,7 @@ Project Gutenberg sentences using top 100 words
 'with': W
 'him!': HEUPL SKHRAPL
 'He': KPA/HE
-'said': SAEUD
+'said': SED
 'he': HE
 'would,': WO KW-BG
 'and': SKP
@@ -19098,7 +19098,7 @@ Project Gutenberg sentences using top 100 words
 'one.': WUPB TP-PL
 'Was': KPA/WAS
 'much': PHUFP
-'said': SAEUD
+'said': SED
 'about': PW
 'it': T
 'at--?'': AT H-PB H-PB H-F AE
@@ -19292,7 +19292,7 @@ Project Gutenberg sentences using top 100 words
 'what': WHA
 'has': HAS
 'he': HE
-'said': SAEUD
+'said': SED
 'to': TO
 'that?'': THA H-F AE
 'And': AFPBD
@@ -19404,15 +19404,15 @@ Project Gutenberg sentences using top 100 words
 'other': OER
 'is?"': S H-F KR-GS
 '"He': KR-GS KPA/HE
-'said': SAEUD
+'said': SED
 'he': HE
 'would': WO
 'not': TPHOT
 'have': SR
 'it."': T TP-PL KR-GS
 '"He': KR-GS KPA/HE
-'said--he': SAEUD H-PB H-PB HE
-'said': SAEUD
+'said--he': SED H-PB H-PB HE
+'said': SED
 'he': HE
 'was': WAS
 'made."': PHAED TP-PL KR-GS
@@ -19521,7 +19521,7 @@ Project Gutenberg sentences using top 100 words
 'what': WHA
 'you': U
 'have': SR
-'said?': SAEUD H-F
+'said?': SED H-F
 'It': KPA/T
 'will': HR
 'do': TKO
@@ -19541,7 +19541,7 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'all': AUL
 'she': SHE
-'said': SAEUD
+'said': SED
 'about': PW
 'it.': T TP-PL
 'This': KPA/TH
@@ -19565,7 +19565,7 @@ Project Gutenberg sentences using top 100 words
 'be': -B
 'women,': WEUPL KW-BG
 'he': HE
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'Would': KPA/WO
 'there': THR
 'were': WR
@@ -19640,7 +19640,7 @@ Project Gutenberg sentences using top 100 words
 'see': SAOE
 'what': WHA
 'you': U
-'said': SAEUD
+'said': SED
 'about': PW
 'me."': PHE TP-PL KR-GS
 '"What': KR-GS KPA/WHA
@@ -19714,7 +19714,7 @@ Project Gutenberg sentences using top 100 words
 'one.': WUPB TP-PL
 'For': KPA/TPOR
 'some': SOPL
-'said:': SAEUD STPH-FPLT
+'said:': SED STPH-FPLT
 'He': KPA/HE
 'is': S
 'a': AEU
@@ -19782,7 +19782,7 @@ Project Gutenberg sentences using top 100 words
 'what': WHA
 'you': U
 'have': SR
-'said?"': SAEUD H-F KR-GS
+'said?"': SED H-F KR-GS
 '"First': KR-GS KPA/TPEUFRT
 'of': -F
 'all,': AUL KW-BG
@@ -19910,7 +19910,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'not': TPHOT
 'like,': HRAOEUBG KW-BG
-'said': SAEUD
+'said': SED
 'the': -T
 'other.': OER TP-PL
 'They': KPA/THE
@@ -20137,7 +20137,7 @@ Project Gutenberg sentences using top 100 words
 'more,': PHOR KW-BG
 'he': HE
 'had': H
-'said.': SAEUD TP-PL
+'said.': SED TP-PL
 'Then': KPA/THEPB
 'what': WHA
 'will': HR
@@ -20434,7 +20434,7 @@ Project Gutenberg sentences using top 100 words
 'that': THA
 'could': KO
 'be': -B
-'said': SAEUD
+'said': SED
 'about': PW
 'him.': HEUPL TP-PL
 'Do': KPA/TKO

@@ -18,7 +18,7 @@
 * beautifully `PWAOUFL/HREU`
 * that `THA`
 * he `HE`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Brother `AE KPA/PWROER`
 * wolf, `WOFL KW-BG`
 * what `WHA`
@@ -30,7 +30,7 @@
 * King `KO*EUPBG`
 * of `-F`
 * birds,' `PWEURDZ KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * 'before `AE PW-FR`
 * whom `WHOPL`
 * we `WE`

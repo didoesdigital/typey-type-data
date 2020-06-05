@@ -135,7 +135,7 @@
 * kindness. `KEUPBD/-PBS TP-PL`
 * "Darling `KR-GS KPA/TKARLG`
 * daisy," `TKAEU/SEU KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * her, `HER KW-BG`
 * "you `KR-GS U`
 * wisest `WAOEUZ/*ES`
@@ -350,7 +350,7 @@
 * listened `HREUFPBD`
 * him. `HEUPL TP-PL`
 * At `KPA/AT`
-* said,— `SAEUD KW-BG EPL/TKA*RB`
+* said,— `SED KW-BG EPL/TKA*RB`
 * "Friendship, `KR-GS KPA/TPREP KW-BG`
 * please; `PHRES STPH*FPLT`
 * nothing `TPHOG`
@@ -411,7 +411,7 @@
 * could `KO`
 * exist `KPEUFT`
 * here, `HAOER KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * well `WEL`
 * enough. `TPHUF TP-PL`
 * "But `KR-GS KPA/PWUT`

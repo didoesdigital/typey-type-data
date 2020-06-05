@@ -43,7 +43,7 @@
 * to `TO`
 * his `HEUS`
 * master, `PHAFRT KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'I `AE EU`
 * have `SR`
 * you `U`
@@ -82,7 +82,7 @@
 * of `-F`
 * money `PHUPB`
 * have, `SR KW-BG`
-* said `SAEUD`
+* said `SED`
 * himself, `H*EUPLS KW-BG`
 * 'Why `AE KPA/KWR`
 * should `SHO`

@@ -17,7 +17,7 @@
 * made `PHAED`
 * there. `THR TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * "where `KR-GS W-R`
 * can `K`

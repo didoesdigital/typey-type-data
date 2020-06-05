@@ -121,7 +121,7 @@
 * "Pack `KR-GS KPA/PABG`
 * up!" `UP SKHRAPL KR-GS`
 * "Yes," `KR-GS KPA/KWRE KW-BG KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "it `KR-GS T`
 * is `S`
 * well `WEL`
@@ -232,7 +232,7 @@
 * present." `PREPBT TP-PL KR-GS`
 * "Thank `KR-GS KPA/THAPBG`
 * you," `U KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * son. `SOPB TP-PL`
 * back `PWABG`
 * wood, `WAOD KW-BG`
@@ -304,7 +304,7 @@
 * "But `KR-GS KPA/PWUT`
 * must `PHUFT`
 * Saturday," `SATD KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "for `KR-GS TPOR`
 * take `TAEUBG`
 * tea `TAE`

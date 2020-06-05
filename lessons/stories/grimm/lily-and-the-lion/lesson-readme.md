@@ -37,7 +37,7 @@
 * third, `THEURD KW-BG`
 * called `KAULD`
 * Lily, `KPA/HREUL/KWREU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Dear `AE KPA/TKAER`
 * father, `TPAER KW-BG`
 * me `PHE`
@@ -65,7 +65,7 @@
 * flowers, `TPHRO*URS KW-BG`
 * her `HER`
 * father `TPAER`
-* said `SAEUD`
+* said `SED`
 * would `WO`
 * try `TREU`
 * could `KO`
@@ -594,7 +594,7 @@
 * our `OUR`
 * wanderer `WAPBD/RER`
 * forth, `TPO*RT KW-BG`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * plucked `PHRUBGD`
 * eleventh `HREFPBT`
 * rod, `ROD KW-BG`
@@ -676,7 +676,7 @@
 * led `HRED`
 * sat `SAT`
 * feet, `TPAOET KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * followed `TPOLD`
 * been `PW-PB`
 * seek `SAOEBG`

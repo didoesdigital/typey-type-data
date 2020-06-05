@@ -68,7 +68,7 @@
 * your `KWROUR`
 * respects `R-PTS`
 * me?" `PHE H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * Fox. `KPA/TPOBGS TP-PL`
 * "I `KR-GS EU`
 * beg `PWEG`

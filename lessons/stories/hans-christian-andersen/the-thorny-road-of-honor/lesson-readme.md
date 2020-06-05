@@ -667,7 +667,7 @@
 * innumerable `EUPB/TPHAOUPL/RABL`
 * crowd `KROUD`
 * gathered, `TKPWAERD KW-BG`
-* said `SAEUD`
+* said `SED`
 * sail `SAEUL`
 * wind `WEUPBD`
 * weather, `WHR* KW-BG`

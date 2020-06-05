@@ -61,7 +61,7 @@
 * Then `KPA/THEPB`
 * straw `STRAU`
 * began `TKPWAPB`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Dear `AE KPA/TKAER`
 * friends, `TPREPBDZ KW-BG`
 * whence `WHEPBS`
@@ -110,7 +110,7 @@
 * fate `TPAEUT`
 * fallen `TPAUL/-PB`
 * lot?' `HROT H-F AE`
-* said `SAEUD`
+* said `SED`
 * 'The `AE KPA/-T`
 * has `HAS`
 * destroyed `STKROEUD`

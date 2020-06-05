@@ -30,7 +30,7 @@
 * more `PHOR`
 * eat, `AOET KW-BG`
 * and `SKP`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'I `AE EU`
 * want `WAPBT`
 * you `U`
@@ -81,7 +81,7 @@
 * 'What's `AE KPA/WHA AES`
 * matter, `PHAERT KW-BG`
 * friend?' `TPREPBD H-F AE`
-* said `SAEUD`
+* said `SED`
 * he, `HE KW-BG`
 * 'why `AE KWR`
 * do `TKO`
@@ -248,7 +248,7 @@
 * servant, `SEFRB/APBT KW-BG`
 * heart `HART`
 * relented, `xxx relented KW-BG`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * 'Thou `AE KPA/THO*U`
 * shalt `SHALT`
 * stay `STAEU`

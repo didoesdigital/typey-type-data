@@ -59,7 +59,7 @@
 * thousand `THOEUPB`
 * years `KWRAOERS`
 * ago!" `AG SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * he. `HE TP-PL`
 * "It `KR-GS KPA/T`
 * an `APB`

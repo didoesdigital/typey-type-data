@@ -25,7 +25,7 @@
 * went `WEPBT`
 * fairy, `TPAEUR/REU KW-BG`
 * and `SKP`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "I `KR-GS EU`
 * should `SHO`
 * so `SO`
@@ -44,7 +44,7 @@
 * be `-B`
 * easily `AOELS`
 * managed," `PHAPBGD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * fairy. `TPAEUR/REU TP-PL`
 * "Here `KR-GS KPA/HAOER`
@@ -789,7 +789,7 @@
 * "Perhaps `KR-GS KPA/PRAPS`
 * sang `SAPBG`
 * summer," `SAOURPL KW-BG KR-GS`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * pleasure `PHRERB`
 * me, `PHE KW-BG`
 * dear, `TKAER KW-BG`

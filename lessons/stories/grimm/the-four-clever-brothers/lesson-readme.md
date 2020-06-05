@@ -2,7 +2,7 @@
 
 * 'Dear `AE KPA/TKAER`
 * children,' `KHEURPB KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * a `AEU`
 * poor `PAOR`
 * man `PHAPB`
@@ -72,7 +72,7 @@
 * country. `KREU TP-PL`
 * Then `KPA/THEPB`
 * eldest `ELD/EFT`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Here `AE KPA/HAOER`
 * we `WE`
 * part; `PART STPH*FPLT`
@@ -595,7 +595,7 @@
 * marrying `PHAR/REU/-G`
 * them. `THEPL TP-PL`
 * kingdom, `KEUPBG/TKOPL KW-BG`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * lived `HREUFD`
 * happily `HAP/HREU`
 * rest `REFT`

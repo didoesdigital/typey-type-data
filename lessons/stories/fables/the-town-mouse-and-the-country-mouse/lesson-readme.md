@@ -56,7 +56,7 @@
 * at `AT`
 * country `KREU`
 * fare, `TPA*ER KW-BG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * "I `KR-GS EU`
 * cannot `K/TPHOT`
 * understand, `URPBD KW-BG`
@@ -93,7 +93,7 @@
 * life." `HRAOEUF TP-PL KR-GS`
 * No `KPA/TPHO`
 * sooner `SAORPB`
-* said `SAEUD`
+* said `SED`
 * than `THAPB`
 * done: `TKOPB STPH-FPLT`
 * two `TWO`

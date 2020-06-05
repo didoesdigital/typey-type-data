@@ -232,7 +232,7 @@
 * "For `KR-GS KPA/TPOR`
 * my `PHEU`
 * part," `PART KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * "I `KR-GS EU`
 * will `HR`
 * wear `WAER`
@@ -724,7 +724,7 @@
 * home, `HOEPL KW-BG`
 * seek `SAOEBG`
 * thanked `THAPBGD`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "she `KR-GS SHE`
 * heartily `HART/HREU`
 * desired `STKAOEURD`

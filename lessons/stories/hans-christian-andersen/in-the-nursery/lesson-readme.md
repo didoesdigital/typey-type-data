@@ -24,7 +24,7 @@
 * play `PHRAEU`
 * too," `TAO KW-BG KR-GS`
 * he `HE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "and `KR-GS SKP`
 * it `T`
 * may `PHAE`
@@ -138,7 +138,7 @@
 * are `R`
 * two `TWO`
 * characters," `KRARS KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Anna. `APB/TPHA TP-PL`
 * "Here's `KR-GS KPA/HAOER AES`
 * brother's `PWROER/AES`

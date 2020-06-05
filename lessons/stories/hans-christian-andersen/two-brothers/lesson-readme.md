@@ -75,7 +75,7 @@
 * right `RAOEUT`
 * thing," `THEUPBG KW-BG KR-GS`
 * he `HE`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * "yes, `KR-GS KWRE KW-BG`
 * right—the `RAOEUT EPL/TKA*RB -T`
 * correct `KREBGT`
@@ -115,7 +115,7 @@
 * truth, `TRAO*UT KW-BG`
 * which `WEU`
 * she `SHE`
-* said `SAEUD`
+* said `SED`
 * countenance `KOUPBT/TPHAPBS`
 * Lord `HRO*RD`
 * this `TH`

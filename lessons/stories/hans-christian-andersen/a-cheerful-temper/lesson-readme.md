@@ -146,7 +146,7 @@
 * or `OR`
 * grave. `TKPWRAEUF TP-PL`
 * face `TPAEUS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * nothing, `TPHOG KW-BG`
 * all `AUL`
 * end `EPBD`
@@ -325,7 +325,7 @@
 * man, `PHAPB KW-BG`
 * lived `HREUFD`
 * might `PHAOEUT`
-* said `SAEUD`
+* said `SED`
 * occupy `OBG/PAOEU`
 * position. `POGS TP-PL`
 * upon, `POPB KW-BG`

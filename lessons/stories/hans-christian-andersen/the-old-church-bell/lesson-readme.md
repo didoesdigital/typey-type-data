@@ -678,7 +678,7 @@
 * round `ROUPBD`
 * follow `TPOL`
 * bell. `PWEL TP-PL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * Marbach `xxx Marbach`
 * sold `SOELD`
 * copper; `KOP/ER STPH*FPLT`

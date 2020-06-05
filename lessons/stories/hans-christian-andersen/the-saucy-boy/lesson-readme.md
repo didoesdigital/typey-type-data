@@ -59,7 +59,7 @@
 * out `OUT`
 * this `TH`
 * weather," `WHR* KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * open `OEP`
 * door! `TKAOR SKHRAPL`
@@ -85,7 +85,7 @@
 * windows. `WOEUPBDZ TP-PL`
 * "Poor `KR-GS KPA/PAOR`
 * creature!" `KRAOEFP SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * got `TKPWOT`
 * up `UP`
 * opened `OEPD`
@@ -259,7 +259,7 @@
 * see `SAOE`
 * now `TPHOU`
 * spoilt?" `S*/P*/O*/*EU/HR*/T* H-F KR-GS`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * and, `SKP KW-BG`
 * loudly `HROUD/HREU`
 * laughing, `HRAFG KW-BG`

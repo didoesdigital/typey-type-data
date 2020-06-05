@@ -222,7 +222,7 @@
 * spite `SPAOEUT`
 * than `THAPB`
 * age, `AEUPBLG KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * hand `HAPBD`
 * pierced `PAOERS/-D`
 * spindle, `S*EUPBLD KW-BG`
@@ -333,7 +333,7 @@
 * doing `TK*G`
 * there, `THR KW-BG`
 * Goody?" `KPA/TKPWAO/TKEU H-F KR-GS`
-* said `SAEUD`
+* said `SED`
 * "I `KR-GS EU`
 * am `APL`
 * spinning, `SPEUPBG KW-BG`

@@ -97,7 +97,7 @@
 * its `EUTS`
 * head `HED`
 * water `WAUR`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'I `AE EU`
 * know `TPHOE`
 * what `WHA`
@@ -128,7 +128,7 @@
 * cease `SAOES`
 * looking `HRAOG`
 * joy, `SKWROEU KW-BG`
-* said `SAEUD`
+* said `SED`
 * he `HE`
 * would `WO`
 * hold `HOLD`

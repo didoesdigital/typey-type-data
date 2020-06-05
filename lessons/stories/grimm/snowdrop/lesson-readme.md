@@ -53,7 +53,7 @@
 * red `RED`
 * sprinkled `SPREUPB/K-LD`
 * white `WHAOEUT`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Would `AE KPA/WO`
 * my `PHEU`
 * little `HREUL`
@@ -375,7 +375,7 @@
 * them `THEPL`
 * story; `STOER STPH*FPLT`
 * pitied `PEUT/EUD`
-* said `SAEUD`
+* said `SED`
 * keep `KAOEP`
 * things `THEUPBGS`
 * order, `ORD KW-BG`
@@ -411,7 +411,7 @@
 * handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
 * lady `HRA*ED`
 * land; `HRAPBD STPH*FPLT`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * land: `HRAPBD STPH-FPLT`
 * over `OEFR`
 * greenwood `xxx greenwood`

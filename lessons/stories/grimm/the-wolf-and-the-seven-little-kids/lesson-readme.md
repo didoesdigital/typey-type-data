@@ -39,7 +39,7 @@
 * food. `TPAOD TP-PL`
 * So `KPA/SO`
 * called `KAULD`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Dear `AE KPA/TKAER`
 * children, `KHEURPB KW-BG`
 * I `EU`
@@ -215,7 +215,7 @@
 * were `WR`
 * white, `WHAOEUT KW-BG`
 * believed `PWHREFD`
-* said `SAEUD`
+* said `SED`
 * true, `TRAOU KW-BG`
 * opened `OEPD`
 * door. `TKAOR TP-PL`
@@ -328,7 +328,7 @@
 * belly. `PWEL/HREU TP-PL`
 * 'Ah, `AE KPA/HA*E KW-BG`
 * heavens,' `HEFPBS KW-BG AE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'is `AE S`
 * possible `POB`
 * whom `WHOPL`

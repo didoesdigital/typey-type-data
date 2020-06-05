@@ -113,7 +113,7 @@
 * my `PHEU`
 * riches, `REUFPS KW-BG`
 * sunshine!" `SUPB/SHAO*EUPB SKHRAPL KR-GS`
-* said `SAEUD`
+* said `SED`
 * mother; `PHOER STPH*FPLT`
 * kissed `K*EUFD`
 * locks, `HROBGZ KW-BG`
@@ -131,7 +131,7 @@
 * roll `ROL`
 * joy. `SKWROEU TP-PL`
 * Drum `KPA/TKRUPL`
-* said—the `SAEUD EPL/TKA*RB -T`
+* said—the `SED EPL/TKA*RB -T`
 * Fire-drum, `KPA/TPAOEUR H-PB TKRUPL KW-BG`
 * beaten `PWAET/*EPB`
 * fire `TPAOEUR`
@@ -154,7 +154,7 @@
 * town `TOUPB`
 * repeated `RE/PAOETD`
 * Fire-drum `KPA/TPAOEUR H-PB TKRUPL`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * boy `PWOEU`
 * taken `TAEPB`
 * church, `KHUFRPB KW-BG`
@@ -255,7 +255,7 @@
 * "Fool!" `KR-GS KPA/TPAOL SKHRAPL KR-GS`
 * Fire-drum; `KPA/TPAOEUR H-PB TKRUPL STPH*FPLT`
 * only `OEPBL`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "Dub, `KR-GS KPA/TKUB KW-BG`
 * rub-a-dub!" `RUB H-PB AEU H-PB TKUB SKHRAPL KR-GS`
 * He `KPA/HE`
@@ -853,7 +853,7 @@
 * hand, `HAPBD KW-BG`
 * eyes. `AO*EUS TP-PL`
 * Heaven `KPA/HEFPB`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * may `PHAE`
 * allowed `HRO*UD`
 * guess `TKPWES`

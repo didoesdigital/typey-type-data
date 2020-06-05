@@ -44,7 +44,7 @@
 * met `PHET`
 * Crow, `KPA/KROE KW-BG`
 * who `WHO`
-* said `SAEUD`
+* said `SED`
 * Eagle: `KPA/AOEG/*L STPH-FPLT`
 * "Tortoise `KR-GS KPA/TOR/TOS`
 * is `S`

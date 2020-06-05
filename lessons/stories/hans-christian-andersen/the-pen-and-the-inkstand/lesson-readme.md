@@ -35,7 +35,7 @@
 * wonderful." `WUFL TP-PL KR-GS`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * certainly," `SERPBL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * to `TO`
 * pen, `PEPB KW-BG`
 * and `SKP`

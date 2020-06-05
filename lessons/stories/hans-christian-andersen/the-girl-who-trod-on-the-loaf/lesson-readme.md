@@ -122,7 +122,7 @@
 * it," `T KW-BG KR-GS`
 * mother `PHOER`
 * often `OFPB`
-* said `SAEUD`
+* said `SED`
 * her. `HER TP-PL`
 * "As `KR-GS KPA/AZ`
 * you `U`
@@ -230,7 +230,7 @@
 * went `WEPBT`
 * by, `PWEU KW-BG`
 * mistress `PHEUS/TRES`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * "you `KR-GS U`
 * home `HOEPL`
 * again, `TKPWEPB KW-BG`

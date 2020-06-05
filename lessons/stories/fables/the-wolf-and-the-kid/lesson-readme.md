@@ -54,7 +54,7 @@
 * my `PHEU`
 * young `KWRUPBG`
 * friend," `TPREPBD KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * Wolf. `KPA/WOFL TP-PL`
 * "It `KR-GS KPA/T`
 * is `S`

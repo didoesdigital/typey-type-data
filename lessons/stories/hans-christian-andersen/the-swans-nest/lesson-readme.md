@@ -274,7 +274,7 @@
 * them `THEPL`
 * hear `HAER`
 * before `PW-FR`
-* said `SAEUD`
+* said `SED`
 * spirit `SPEURT`
 * truth, `TRAO*UT KW-BG`
 * "This `KR-GS KPA/TH`

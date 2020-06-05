@@ -15,7 +15,7 @@
 * other `OER`
 * toys, `TOEUS KW-BG`
 * the `-T`
-* said `SAEUD`
+* said `SED`
 * to `TO`
 * ball, `PWAUL KW-BG`
 * "Shall `KR-GS KPA/SHAL`
@@ -171,7 +171,7 @@
 * says, `SEZ KW-BG`
 * 'Will `AE W*EUL`
 * you?' `U H-F AE`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Yes,' `AE KPA/KWRE KW-BG AE`
 * myself `PHAO*EUS`
 * silently, `SHREPBLT KW-BG`
@@ -364,7 +364,7 @@
 * talk," `TAUBG KW-BG KR-GS`
 * examining `KP-G`
 * morocco," `HRO*ER/PHORBG/KOE KW-BG KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * sewn `SWEPB`
 * body; `PWO*ED STPH*FPLT`
 * look `HRAOBG`

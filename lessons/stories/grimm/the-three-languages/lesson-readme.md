@@ -21,7 +21,7 @@
 * learn `HRERPB`
 * nothing. `TPHOG TP-PL`
 * Then `KPA/THEPB`
-* said `SAEUD`
+* said `SED`
 * the `-T`
 * father: `TPAER STPH-FPLT`
 * 'Hark `AE KPA/HARBG`
@@ -113,7 +113,7 @@
 * say.' `SAEU TP-PL AE`
 * fell `TPEL`
 * rage `RAEUPBLG`
-* said: `SAEUD STPH-FPLT`
+* said: `SED STPH-FPLT`
 * 'Oh, `AE KPA/O*ERBGS KW-BG`
 * lost `HRO*S`
 * man, `PHAPB KW-BG`

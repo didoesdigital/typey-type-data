@@ -55,7 +55,7 @@
 * is `S`
 * born `PWORPB`
 * that," `THA KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * itself. `T/SEFL TP-PL`
 * "Not `KR-GS KPA/TPHOT`
 * all `AUL`
@@ -259,7 +259,7 @@
 * "The `KR-GS KPA/-T`
 * world `WORLD`
 * good!" `TKPWAOD SKHRAPL KR-GS`
-* said. `SAEUD TP-PL`
+* said. `SED TP-PL`
 * "Everything `KR-GS KPA/EFRG`
 * stupid." `STAOUPD TP-PL KR-GS`
 * puffed `PUFD`

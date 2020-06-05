@@ -241,7 +241,7 @@
 * cask `KAFBG`
 * carnival `KARPB/SRAL`
 * time," `TAOEUPL KW-BG KR-GS`
-* said `SAEUD`
+* said `SED`
 * he; `HE STPH*FPLT`
 * "I'll `KR-GS EU AE HR*/HR*`
 * prepare `PRAEP`
@@ -655,7 +655,7 @@
 * soles `SOELS`
 * skates, `SKAEUTS KW-BG`
 * knew, `TPHAOU KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * few `TPAOU`
 * weeks `WAOEBGS`
 * amusement `A/PHAOUS/*PLT`

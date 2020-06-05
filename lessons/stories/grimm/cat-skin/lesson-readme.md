@@ -40,7 +40,7 @@
 * near `TPHAOER`
 * called `KAULD`
 * king `KEUPBG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * 'Promise `AE KPA/PROPLS`
 * me `PHE`
 * you `U`
@@ -130,7 +130,7 @@
 * queen: `KWAOEPB STPH-FPLT`
 * then `THEPB`
 * he `HE`
-* said `SAEUD`
+* said `SED`
 * courtiers, `KORT/KWRERS KW-BG`
 * 'May `AE PHA*EU`
 * my `PHEU`

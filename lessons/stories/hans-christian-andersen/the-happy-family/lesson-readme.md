@@ -241,7 +241,7 @@
 * see `SAOE`
 * grew; `TKPWRAOU STPH*FPLT`
 * father `TPAER`
-* said `SAEUD`
+* said `SED`
 * perceive `SPAOEF`
 * begged `PWEGD`
 * him `HEUPL`
@@ -478,7 +478,7 @@
 * inheritance, `EUPB/HER/TAPBS KW-BG`
 * repeated `RE/PAOETD`
 * often `OFPB`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * finest `TPAOEUPB/EFT`
 * led `HRED`
 * upright `AUP/RAOEUGT`

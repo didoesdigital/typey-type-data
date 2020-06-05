@@ -58,7 +58,7 @@
 * His `KPA/HEUS`
 * inborn `EUPB/PWORPB`
 * cheerfulness, `KHAOER/-FL/-PBS KW-BG`
-* said, `SAEUD KW-BG`
+* said, `SED KW-BG`
 * tested `TEFTD`
 * by `PWEU`
 * member `PHEB`
@@ -320,7 +320,7 @@
 * world `WORLD`
 * series `SAOERZ`
 * miracles,' `PHEUR/K-LS KW-BG AE`
-* said `SAEUD`
+* said `SED`
 * lecturer, `HREBG/KHUR/ER KW-BG`
 * 'but `AE PWUT`
 * accustomed `A/KUFPD`
@@ -380,7 +380,7 @@
 * women.' `WEUPL TP-PL AE`
 * "'I `KR-GS AE EU`
 * understand,' `URPBD KW-BG AE`
-* said; `SAEUD STPH*FPLT`
+* said; `SED STPH*FPLT`
 * 'you `AE U`
 * life `HRAOEUF`
 * breathed `PWRAO*ETD`
