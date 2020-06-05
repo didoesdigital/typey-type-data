@@ -1,6 +1,6 @@
 # JavaScript objects, properties, and methods
 
-* Array `KPA/A/RAEU`
+* Array `A/RA*EU`
 * Date `KPA/TKAEUT`
 * eval `SRA*EL`
 * function `TPUBGS`
