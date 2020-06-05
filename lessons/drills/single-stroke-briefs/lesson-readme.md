@@ -433,7 +433,7 @@
 * believable `PWHREFBL`
 * believe `PWHREF`
 * believed `PWHREFD`
-* believer `PWHREFR`
+* believer `PWHRAOEFR`
 * believing `PWHREFG`
 * bell `PWEL`
 * belle `PW*EL`
@@ -2580,7 +2580,7 @@
 * hell `HEL`
 * helmet `H*EPLT`
 * help `HEP`
-* helpful `H*EFL`
+* helpful `HEFPL`
 * helpings `HEPGS`
 * hem `HEPL`
 * heme `HAO*EPL`
@@ -3113,7 +3113,7 @@
 * notification `TPHOEUFGS`
 * notified `TPHOEUFD`
 * notify `TPHOEUF`
-* noting `TPHO*EGT`
+* noting `TPHOEGT`
 * notion `TPHOEGS`
 * noun `TPHOUPB`
 * nourish `TPHURB`
@@ -3236,7 +3236,7 @@
 * organelle `TKPWR*EL`
 * organelles `TKPWRELS`
 * organic `TKPWRO*PBG`
-* organism `TPWREUFPL`
+* organism `TKPWREUFPL`
 * organisms `TKPWREUFPLS`
 * organization `ORGS`
 * organize `ORG`
@@ -6012,7 +6012,6 @@
 * tram `TRAPL`
 * tramp `TRAFRP`
 * trample `TRAFRPL`
-* trance `TRA*PBS`
 * tranche `TRAFRPB`
 * trans `TRAPBS`
 * transaction `TKRABGS`
@@ -6249,7 +6248,7 @@
 * vane `SRAEPB`
 * vanity `SRAPBT`
 * vapid `SRAPD`
-* vapor `SRAEUP`
+* vapor `SRAEURP`
 * var `SRAR`
 * variability `SRAEURBLT`
 * variable `SRAEURB`
@@ -6431,7 +6430,7 @@
 * weather `WHR*`
 * weave `WEF`
 * weaver `WAOEFR`
-* weaving `WEFG`
+* weaving `WAOEFG`
 * web `WEB`
 * webbed `WEBD`
 * webbing `WEBG`
