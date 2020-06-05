@@ -695,7 +695,7 @@
 * rush `RURB`
 * sad `SAD`
 * safe `SAEUF`
-* said `SAEUD`
+* said `SED`
 * same `SAEUPL`
 * sat `SAT`
 * save `SAF`
