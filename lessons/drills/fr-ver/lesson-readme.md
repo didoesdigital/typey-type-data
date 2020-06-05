@@ -5,7 +5,7 @@
 * achiever `A/KHAOEFR`
 * aver `A*FR`
 * beaver `PWAOEFR`
-* believer `PWHREFR`
+* believer `PWHRAOEFR`
 * braver `PWRAEUFR`
 * cadaver `KA/TKAFR`
 * cantilever `KAPBT/HRAOEFR`
