@@ -62,7 +62,6 @@
 * listening to `THROEUFPBG`
 * meant to `TPHOEPBT`
 * message to `TPHOEPBLG`
-* next to `TPHOEGT`
 * obligation to `TKPWHRAOEUGS`
 * opportunity to `TAOUBT`
 * out to `TPOUT`
