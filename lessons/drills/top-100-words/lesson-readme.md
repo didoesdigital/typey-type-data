@@ -41,7 +41,7 @@
 * their `THAEUR`
 * so `SO`
 * an `APB`
-* said `SAEUD`
+* said `SED`
 * them `THEPL`
 * we `WE`
 * who `WHO`

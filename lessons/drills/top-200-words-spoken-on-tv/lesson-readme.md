@@ -134,7 +134,7 @@
 * there's `THR-S`
 * should `SHO`
 * anything `TPHEUG`
-* said `SAEUD`
+* said `SED`
 * much `PHUFP`
 * any `TPHEU`
 * life `HRAOEUF`
