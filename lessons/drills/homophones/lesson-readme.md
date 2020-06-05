@@ -545,7 +545,7 @@
 * mail `PHAEUL`
 * male `PHAEL`
 * main `PHAEUPB`
-* mane `PHA*EPB`
+* mane `PH*/A*/TPH*/*E`
 * maize `PHAEUZ`
 * Mays `PHA*EU/-S`
 * maze `PHAEZ`
