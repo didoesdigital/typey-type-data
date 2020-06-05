@@ -207,7 +207,7 @@
 * more. `PHOR TP-PL`
 * made `PHAED`
 * most `PHOFT`
-* skilful `SKEUL/*FL`
+* skilful `SKEUL/-FL/A*U`
 * workmen `WORBG/PHEPB`
 * weave `WEF`
 * golden, `TKPWOELD/*EPB KW-BG`

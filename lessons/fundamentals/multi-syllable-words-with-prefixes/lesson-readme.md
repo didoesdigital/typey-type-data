@@ -293,6 +293,7 @@
 * insist `EUPB/SEUFT`
 * inheritance `EUPB/HER/TAPBS`
 * enjoying `EPB/SKWROEUG`
+* subscribe `SAUB/SKRAOEUB`
 * descend `TKE/SEPBD`
 * avail `A/SRAEUL`
 * embraced `EPL/PWRAEUFD`

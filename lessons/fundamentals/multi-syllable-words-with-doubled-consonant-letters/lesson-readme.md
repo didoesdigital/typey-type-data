@@ -747,7 +747,7 @@
 * loneliness `HROPBL/-PBS`
 * dazzling `TKAZ/-LG`
 * efficiency `AOERB`
-* tranquillity `TRAPB/KW*EULT`
+* tranquillity `TRAPB/KWEULT/A*U`
 * Russians `R*UGS/-S`
 * approbation `ARP/PWAEUGS`
 * allegiance `A/HREPBLG/APBS`

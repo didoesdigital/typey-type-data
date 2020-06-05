@@ -2849,7 +2849,7 @@
 * inhibition `TPHEUGS`
 * inhibitor `HOEURBT`
 * inhibitors `TPHOERBTS`
-* initial `TPHURBL`
+* initial `TPHEURBL`
 * initials `TPHEURBLS`
 * initiate `TPHEURBT`
 * initiated `TPHEURBTD`

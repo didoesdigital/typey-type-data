@@ -201,7 +201,7 @@
 * much, `PHUFP KW-BG`
 * became `PWAEUPL`
 * such `SUFP`
-* skilful `SKEUL/*FL`
+* skilful `SKEUL/-FL/A*U`
 * star-gazer, `STAR H-PB xxx gazer KW-BG`
 * served `SEFRBD`
 * time, `TAOEUPL KW-BG`

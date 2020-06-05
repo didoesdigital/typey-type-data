@@ -430,7 +430,7 @@
 * offer `OFR`
 * service. `S-FS TP-PL`
 * yes, `KWRE KW-BG`
-* skilful `SKEUL/*FL`
+* skilful `SKEUL/-FL/A*U`
 * game `TKPWAEUPL`
 * deer `TKAOER`
 * quarters `KWART/ERS`

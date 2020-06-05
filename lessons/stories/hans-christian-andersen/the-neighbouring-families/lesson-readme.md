@@ -372,7 +372,7 @@
 * ours! `OURS SKHRAPL`
 * causes `KAUFS`
 * damp. `TKAFRP TP-PL`
-* daresay `TKAEUR/SAEU`
+* daresay `TKAEUR/TK-LS/SAEU`
 * away; `A/WAEU STPH*FPLT`
 * then `THEPB`
 * shall, `SHAL KW-BG`

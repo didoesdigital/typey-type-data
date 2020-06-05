@@ -4597,7 +4597,7 @@
 * discuss `SKUS`
 * firing `TPAOEURG`
 * background `PW-GD`
-* subscribe `SUB/SKRAOEUB`
+* subscribe `SAUB/SKRAOEUB`
 * tenderly `TERPBD/HREU`
 * transcribe `TREUB`
 * descend `TKE/SEPBD`
@@ -6032,7 +6032,7 @@
 * negotiations `TKPWOEGS/-S`
 * assented `ASZ/EPBT/-D`
 * jail `SKWRAEUL`
-* skilful `SKEUL/*FL`
+* skilful `SKEUL/-FL/A*U`
 * ideals `KWR-LS`
 * conferred `K-FRD`
 * resulted `RULTD`
@@ -6542,7 +6542,7 @@
 * li `HR*/SKWREU`
 * efficiency `AOERB`
 * marvel `PHAFRL`
-* tranquillity `TRAPB/KW*EULT`
+* tranquillity `TRAPB/KWEULT/A*U`
 * Agnes `AG/TPHES`
 * charities `KHAEURT/KWREU/-S`
 * Spenser `S*P/P*/*E/TPH*/S*/*E/R*`
@@ -7761,7 +7761,7 @@
 * schedule `SKED`
 * calmness `KAUPL/-PBS`
 * protector `PREBG/TOR`
-* concealment `KOPB/SAOEL/*PLT`
+* concealment `KAUPB/SAOEL/*PLT`
 * trench `TREFRPB`
 * fore `TPO*ER`
 * accession `ABG/SEGS`
@@ -8461,7 +8461,7 @@
 * cylinder `SEUL/TKER`
 * teddy `TED/TKEU`
 * summary `SUPL/REU`
-* daresay `TKAEUR/SAEU`
+* daresay `TKAEUR/TK-LS/SAEU`
 * photographs `TPOEFS`
 * colleges `KHREPBLGS`
 * dissolution `TKEUS/SHRAOUGS`
@@ -9077,7 +9077,7 @@
 * unaware `AUPB/WAOEUR`
 * vase `SRAS`
 * ty `TAO*E`
-* initial `TPHURBL`
+* initial `TPHEURBL`
 * baths `PWA*TS`
 * weighty `WAEU/TEU`
 * minimum `PHEUPL`

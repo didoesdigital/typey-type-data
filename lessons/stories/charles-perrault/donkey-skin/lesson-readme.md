@@ -556,7 +556,7 @@
 * hopeful, `HOEFL KW-BG`
 * called `KAULD`
 * together `TOGT`
-* skilful `SKEUL/*FL`
+* skilful `SKEUL/-FL/A*U`
 * workmen, `WORBG/PHEPB KW-BG`
 * demanded `TKPHAPBD/-D`
 * robe `ROEB`

@@ -940,7 +940,7 @@
 * latest `HRAEUT/EFT`
 * visiting `SREUFT/-G`
 * enjoying `EPB/SKWROEUG`
-* subscribe `SUB/SKRAOEUB`
+* subscribe `SAUB/SKRAOEUB`
 * tenderly `TERPBD/HREU`
 * descend `TKE/SEPBD`
 * majesty's `PHAPBLG/STEU/AES`
@@ -2681,7 +2681,7 @@
 * cylinder `SEUL/TKER`
 * teddy `TED/TKEU`
 * summary `SUPL/REU`
-* daresay `TKAEUR/SAEU`
+* daresay `TKAEUR/TK-LS/SAEU`
 * dissolution `TKEUS/SHRAOUGS`
 * Geneva `SKWRE/TPHAOE/SRA`
 * vehemence `SRAOEPL/EPBS`
