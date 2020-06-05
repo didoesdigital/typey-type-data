@@ -1,6 +1,5 @@
 # One-syllable words with long vowels
 
-* said `SAEUD`
 * here `HAOER`
 * right `RAOEUT`
 * side `SAOEUD`

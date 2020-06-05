@@ -2,6 +2,7 @@
 
 * was `WAS`
 * her `HER`
+* said `SED`
 * has `HAS`
 * well `WEL`
 * part `PART`

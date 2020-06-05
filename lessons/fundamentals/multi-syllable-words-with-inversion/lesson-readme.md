@@ -117,11 +117,14 @@
 * favors `TPAEUFRS`
 * bewilderment `PWE/WEULD/ERPLT`
 * folding `TPOELGD`
+* helpful `HEFPL`
 * taller `TAURL`
 * vehemently `SRAOEPLT/HREU`
 * dealer `TKAOERL`
 * misunderstanding `PHURPBGD`
+* universities `AOUFRTS`
 * boiler `PWOEURL`
+* trailer `TRAEURL`
 * rustle `RUFLT`
 * indefinitely `EUPB/TKEFPBLT`
 * diversity `TKWEFRT`
