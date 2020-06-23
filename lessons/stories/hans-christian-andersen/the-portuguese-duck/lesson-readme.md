@@ -366,7 +366,7 @@
 * "he `KR-GS HE`
 * requires `RAOEURS`
 * rest `REFT`
-* nursing. `TPHURBGS TP-PL`
+* nursing. `TPHURS/-G TP-PL`
 * singing-bird `SEUPBG/-G H-PB PWEURD`
 * prepare `PRAEP`
 * another `TPHOER`

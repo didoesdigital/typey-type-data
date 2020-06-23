@@ -958,6 +958,7 @@
 * mocking `PHOBG/-G`
 * coldness `KOELD/-PBS`
 * biggest `PWEUG/EFT`
+* nursing `TPHURS/-G`
 * degraded `TKE/TKPWRAEUD/-D`
 * perils `PER/EUL/-S`
 * Larry `HRAR/REU`

@@ -2317,6 +2317,7 @@
 * circus `SEUR/KUS`
 * moustache `PHUS/STARB`
 * biggest `PWEUG/EFT`
+* nursing `TPHURS/-G`
 * degraded `TKE/TKPWRAEUD/-D`
 * avenge `A/SREPBG`
 * minority `PHAOEUPB/ORT`

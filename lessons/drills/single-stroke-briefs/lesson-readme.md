@@ -3135,7 +3135,6 @@
 * number `TPHUPL`
 * numerous `TPHAOUPLS`
 * nun `TPHUPB`
-* nursing `TPHURBGS`
 * nurture `TPHAOURT`
 * nut `TPHUT`
 * nutrient `TPHAOURPBT`

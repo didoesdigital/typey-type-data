@@ -7735,7 +7735,7 @@
 * lowering `HROERG`
 * biggest `PWEUG/EFT`
 * sly `SHRAOEU`
-* nursing `TPHURBGS`
+* nursing `TPHURS/-G`
 * boon `PWAOPB`
 * weighing `WAEG`
 * Oklahoma `O*BG`

@@ -89,7 +89,7 @@
 * had `H`
 * attended `A/TEPBD/-D`
 * sick `SEUBG`
-* nursing `TPHURBGS`
+* nursing `TPHURS/-G`
 * carrying `KAERG`
 * her `HER`
 * bosom, `PWUZ/OPL KW-BG`
