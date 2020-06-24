@@ -97,7 +97,7 @@
 * no," `TPHO KW-BG KR-GS`
 * Serpent; `KPA/SERP/EPBT STPH*FPLT`
 * "take `KR-GS TAEUBG`
-* away `A/WAEU`
+* away `WA*EU`
 * your `KWROUR`
 * gifts; `TKPWEUFTS STPH*FPLT`
 * can `K`

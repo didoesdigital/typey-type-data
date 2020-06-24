@@ -190,7 +190,7 @@
 * friends, `TPREPBDZ KW-BG`
 * artists, `TR-FTS KW-BG`
 * like `HRAOEUBG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * spirit, `SPEURT KW-BG`
 * hopes `HOEPS`
 * thoughts; `THAUTS STPH*FPLT`
@@ -332,7 +332,7 @@
 * breast `PWREFT`
 * swelled, `SWELD KW-BG`
 * within `W-PB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * something `S-G`
 * high, `HAOEU KW-BG`
 * holy, `HOEUL KW-BG`
@@ -664,7 +664,7 @@
 * "Thou `KR-GS KPA/THO*U`
 * ancient `AEURBT`
 * Greeks," `TKPWRAOEBGS KW-BG KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * delighted `TKHRAOEUTD`
 * friends; `TPREPBDZ STPH*FPLT`
 * "soon `KR-GS SAOPB`
@@ -847,7 +847,7 @@
 * night. `TPHAOEUT TP-PL`
 * "Madman!" `KR-GS KPA/PHAD/PHAPB SKHRAPL KR-GS`
 * cried, `KRAOEUD KW-BG`
-* "away! `KR-GS A/WAEU SKHRAPL`
+* "away! `KR-GS WA*EU SKHRAPL`
 * begone!" `xxx begone SKHRAPL KR-GS`
 * turned `TURPBD`
 * back `PWABG`
@@ -958,7 +958,7 @@
 * me. `PHE TP-PL`
 * man!" `PHAPB SKHRAPL KR-GS`
 * drew `TKRAOU`
-* away `A/WAEU`
+* away `WA*EU`
 * At `KPA/AT`
 * moment `PHOEPLT`
 * able `ABL`
@@ -1150,7 +1150,7 @@
 * go, `TKPW-RBGS`
 * painful `PAEUFL`
 * bosom. `PWUZ/OPL TP-PL`
-* "Away! `KR-GS KPA/A/WAEU SKHRAPL`
+* "Away! `KR-GS KPA/WA*EU SKHRAPL`
 * These, `KPA/THEZ KW-BG`
 * echoed `EBG/OE/-D`
 * heart, `HART KW-BG`
@@ -1427,7 +1427,7 @@
 * This `KPA/TH`
 * him!" `HEUPL SKHRAPL KR-GS`
 * monk `PHO*PBG`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * "Once `KR-GS KPA/WUPBS`
 * extended `EBGS/TEPBD/-D`
 * finger `TPEURPBG`
@@ -1501,7 +1501,7 @@
 * "Nothing `KR-GS KPA/TPHOG`
 * without—this `WOUT EPL/TKA*RB TH`
 * squandered `SKWAPBD/TKERD`
-* away!" `A/WAEU SKHRAPL KR-GS`
+* away!" `WA*EU SKHRAPL KR-GS`
 * thought `THAUT`
 * rolled `ROLD`
 * snowball, `STPHOEBL KW-BG`
@@ -1542,7 +1542,7 @@
 * didst `TK*/*EU/TK*/S*/T*`
 * give `TKPWEUF`
 * Immortality—the `KPA/EUPL/POR/TALT EPL/TKA*RB -T`
-* breast—away `PWREFT EPL/TKA*RB A/WAEU`
+* breast—away `PWREFT EPL/TKA*RB WA*EU`
 * it!—it `T SKHRAPL EPL/TKA*RB T`
 * best `PWEFT`
 * gleam `TKPWHRAOEPL`
@@ -1655,7 +1655,7 @@
 * pieces `PAOEFS`
 * dust. `TKUFT TP-PL`
 * Centuries `KPA/KREPBT/REUS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * unaltered, `xxx unaltered KW-BG`
 * radiant `RAEUD/KWRAPBT`
 * large, `HRARPBLG KW-BG`
@@ -1705,7 +1705,7 @@
 * weakness—in `WAEBG/-PBS EPL/TKA*RB TPH`
 * fact, `TPABGT KW-BG`
 * human. `HAOUPL TP-PL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * scattered `SKAT/ERD`
 * destined `TKES/TEUPBD`
 * be; `-B STPH*FPLT`

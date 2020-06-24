@@ -67,10 +67,10 @@
 * candles `KAPBD/-LS`
 * cheese `KHAOES`
 * for `TPOR`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * one `WUPB`
 * send, `SEPBD KW-BG`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * obtained `OB/TAEUPBD`
 * what `WHA`
 * wished, `WEURBD KW-BG`
@@ -191,7 +191,7 @@
 * sold `SOELD`
 * best `PWEFT`
 * butter. `PWAOURT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * night, `TPHAOEUT KW-BG`
 * closed, `KHROEFD KW-BG`
@@ -205,7 +205,7 @@
 * huckster's `HUBG/STER AES`
 * slept, `SHREPT KW-BG`
 * took `TAOBG`
-* away `A/WAEU`
+* away `WA*EU`
 * her `HER`
 * tongue, `TUPBG KW-BG`
 * course, `KORS KW-BG`
@@ -420,7 +420,7 @@
 * side, `SAOEUD KW-BG`
 * just `SKWRUFT`
 * turn `TURPB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * other `OER`
 * side `SAOEUD`
 * describe `SKREU`
@@ -509,7 +509,7 @@
 * out, `OUT KW-BG`
 * tones `TOEPBS`
 * died `TKAOEUD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * shivered, `SH*EUFR/-D KW-BG`
 * crept `KREPT`
 * warm `WARPL`

@@ -239,7 +239,7 @@
 * bird `PWEURD`
 * passage. `PAFPBLG TP-PL`
 * singing-bird `SEUPBG/-G H-PB PWEURD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * mountain `PHOUPB/TAEUPB`
 * valley, `SRAL/KWREU KW-BG`
 * field `TPAOELD`
@@ -353,7 +353,7 @@
 * wandering `WAPBGD`
 * through `THRU`
 * country. `KREU TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * these `THEZ`
 * their `THAEUR`
 * tales, `TAELS KW-BG`
@@ -388,7 +388,7 @@
 * colors `KHRORS`
 * glow `TKPWHROE`
 * fresh `TPRERB`
-* lustre, `HRUS/TER/A*U KW-BG`
+* lustre, `HRUFRT/A*U KW-BG`
 * story `STOER`
 * pour `POR`
 * blessed `PWHR*EFD`

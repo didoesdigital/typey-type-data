@@ -63,7 +63,7 @@
 * you.' `U TP-PL AE`
 * So `KPA/SO`
 * rode `ROED`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * reached `RAOEFPD`
 * father, `TPAER KW-BG`
 * the `-T`
@@ -191,7 +191,7 @@
 * suit. `SAOUT TP-PL`
 * Thereupon `KPA/THRUP`
 * took `TAOBG`
-* away `A/WAEU`
+* away `WA*EU`
 * with `W`
 * them, `THEPL KW-BG`
 * court `KORT`

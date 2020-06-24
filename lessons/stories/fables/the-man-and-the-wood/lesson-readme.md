@@ -60,7 +60,7 @@
 * had `H`
 * been `PW-PB`
 * giving `TKPWEUFG`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * means `PHAOEPBS`
 * destroying `STKROEUG`
 * themselves. `TH*EPLS TP-PL`

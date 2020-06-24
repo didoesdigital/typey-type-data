@@ -217,7 +217,7 @@
 * has `HAS`
 * spared. `SPAEURD TP-PL`
 * washes `WARBS`
-* away `A/WAEU`
+* away `WA*EU`
 * blood `PWHRAOD`
 * flowed `TPHROED`
 * cloven `KHROEFPB`
@@ -357,7 +357,7 @@
 * servants, `SER/SRAPBTS KW-BG`
 * who `WHO`
 * ride `RAOEUD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * city `STEU`
 * Pope? `PO*EP H-F`
 * time `TAOEUPL`
@@ -459,7 +459,7 @@
 * travelled `TRAFL/*LD`
 * Danish `TKAEUPB/EURB`
 * land. `HRAPBD TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * stranger `STRAEURPBG`
 * country, `KREU KW-BG`
 * tongue `TUPBG`
@@ -633,7 +633,7 @@
 * eve, `HRO*ER/AOEF KW-BG`
 * mass, `PHAS KW-BG`
 * Widberg. `xxx Widberg TP-PL`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * read `RAED`
 * consequently `KWEPBT/HREU`
 * Thyland; `xxx Thyland STPH*FPLT`
@@ -756,7 +756,7 @@
 * him, `HEUPL KW-BG`
 * follow `TPOL`
 * Ten `KPA/TEPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * youngest `KWRUPBG/EFT`
 * men `PHEPB`
 * side. `SAOEUD TP-PL`

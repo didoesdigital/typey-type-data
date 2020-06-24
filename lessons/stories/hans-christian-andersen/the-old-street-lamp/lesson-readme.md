@@ -194,7 +194,7 @@
 * oil. `OEUL TP-PL`
 * people `PAOEPL`
 * thoroughly `THORL`
-* honest, `HO*PBS KW-BG`
+* honest, `HOPBS KW-BG`
 * they `THE`
 * cheated `KHAOETD`
 * single `SEUPBLG`
@@ -248,7 +248,7 @@
 * one, `WUPB KW-BG`
 * especially `EPS`
 * authority. `THORT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * recalled `-RLD`
 * mind, `PHAOEUPBD KW-BG`
 * flash `TPHRARB`
@@ -410,7 +410,7 @@
 * shines `SHAOEUPBS`
 * dark. `TKARBG TP-PL`
 * considered `KR-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * descended `TKE/SEPBD/-D`
 * stem, `STEPL KW-BG`
 * forest. `TPOEFRT TP-PL`
@@ -467,7 +467,7 @@
 * "that `KR-GS THA`
 * are `R`
 * going `TKPW-G`
-* away `A/WAEU`
+* away `WA*EU`
 * to-morrow? `TO H-PB HRO*ER/PHOR/ROE H-F`
 * Is `KPA/S`
 * we `WE`
@@ -519,7 +519,7 @@
 * lamp," `HRAFRP KW-BG KR-GS`
 * wind, `WEUPBD KW-BG`
 * puffing `PUFG`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * moon `PHAOPB`
 * burst `PWUFRT`
 * forth `TPO*RT`
@@ -846,7 +846,7 @@
 * taper `TAEURP`
 * smallest `SPHAUL/EFT`
 * detail `TKE/TAEUL`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * lofty `HROF/TEU`
 * trees, `TRAOES KW-BG`
 * thickly `THEUBG/HREU`
@@ -1012,6 +1012,6 @@
 * congress, `KOPB/TKPWRESZ KW-BG`
 * take `TAEUBG`
 * pleasure." `PHRERB TP-PL KR-GS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * deserved `TKAOE/SER/-FD`
 * be. `-B TP-PL`

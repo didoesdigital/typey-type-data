@@ -86,7 +86,7 @@
 * extended `EBGS/TEPBD/-D`
 * far `TPAR`
 * gardener `TKPWARD/TPHER`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * did `TK`
 * know `TPHOE`
 * where `W-R`
@@ -227,7 +227,7 @@
 * "the `KR-GS -T`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * all," `AUL KW-BG KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "What `KR-GS KPA/WHA`
 * this? `TH H-F`
 * nothing `TPHOG`
@@ -430,7 +430,7 @@
 * sang, `SAPBG KW-BG`
 * followed `TPOLD`
 * her. `HER TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * along, `HRAOPBG KW-BG`
 * cow `KO*U`
 * began `TKPWAPB`
@@ -482,7 +482,7 @@
 * added, `AD/-D KW-BG`
 * pointing `POEUPBGT`
 * gray `TKPWRAEU`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * bough. `PWO*U TP-PL`
 * "Is `KR-GS KPA/S`
 * possible?" `POB H-F KR-GS`
@@ -723,7 +723,7 @@
 * Japan's." `SKWRA/PAPB AE S* TP-PL KR-GS`
 * "This `KR-GS KPA/TH`
 * beautiful," `PWAOUFL KW-BG KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * saw `SAU`
 * brought `PWRAUT`
 * title `TAOEULT`
@@ -946,7 +946,7 @@
 * royal `ROEUL`
 * bed; `PWED STPH*FPLT`
 * dead, `TKED KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * pay `PAEU`
 * homage `OPL/APBLG`
 * successor. `SUBG/SES/SOR TP-PL`
@@ -1180,7 +1180,7 @@
 * conceal `KAUPB/SAOEL`
 * it." `T TP-PL KR-GS`
 * saying, `SAEUG KW-BG`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * dead `TKED`
 * when, `WHEPB KW-BG`
 * lo! `HRO SKHRAPL`

@@ -379,7 +379,7 @@
 * watery `WAT/REU`
 * all `AUL`
 * withered `WEU/THER/-D`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Nobody `KPA/TPHOEB`
 * ground—the `TKPWROUPBD EPL/TKA*RB -T`
 * blessing—the `PWHR*EFG EPL/TKA*RB -T`
@@ -521,7 +521,7 @@
 * soon `SAOPB`
 * something. `S-G TP-PL`
 * But, `KPA/PWUT KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * give `TKPWEUF`
 * again." `TKPWEPB TP-PL KR-GS`
 * saying, `SAEUG KW-BG`
@@ -579,7 +579,7 @@
 * second `SEBGD`
 * poet, `POET KW-BG`
 * because `PWAU`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * We `KPA/WE`
 * WHAT `*URP/WHA`
 * ONE `*URP/WUPB`

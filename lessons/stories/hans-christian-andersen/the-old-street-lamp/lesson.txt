@@ -360,7 +360,7 @@ The Old Street Lamp
 'people': PAOEPL
 'were': WR
 'thoroughly': THORL
-'honest,': HO*PBS KW-BG
+'honest,': HOPBS KW-BG
 'they': THE
 'had': H
 'never': TPHEFR
@@ -470,7 +470,7 @@ The Old Street Lamp
 'those': THOZ
 'in': TPH
 'authority.': THORT TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'many': PHAEPB
 'things': THEUPBGS
 'were': WR
@@ -854,7 +854,7 @@ The Old Street Lamp
 'dark.': TKARBG TP-PL
 'He': KPA/HE
 'considered': KR-D
-'himself': H*EUPLS
+'himself': HEUPLS
 'descended': TKE/SEPBD/-D
 'from': TPR
 'an': APB
@@ -1028,7 +1028,7 @@ The Old Street Lamp
 'you': U
 'are': R
 'going': TKPW-G
-'away': A/WAEU
+'away': WA*EU
 'to-morrow?': TO H-PB HRO*ER/PHOR/ROE H-F
 'Is': KPA/S
 'this': TH
@@ -1191,7 +1191,7 @@ The Old Street Lamp
 'the': -T
 'wind,': WEUPBD KW-BG
 'puffing': PUFG
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'At': KPA/AT
 'this': TH
 'moment': PHOEPLT
@@ -1591,7 +1591,7 @@ The Old Street Lamp
 'So': KPA/SO
 'he': HE
 'laid': HRAEUD
-'himself': H*EUPLS
+'himself': HEUPLS
 'to': TO
 'rest.': REFT/TP-PL
 '"Wax': KR-GS KPA/WABGS
@@ -1689,7 +1689,7 @@ The Old Street Lamp
 'as': AZ
 'he': HE
 'had': H
-'himself': H*EUPLS
+'himself': HEUPLS
 'hung': HUPBG
 'it': T
 'up': UP
@@ -2210,7 +2210,7 @@ The Old Street Lamp
 'as': AZ
 'he': HE
 'did': TK
-'himself.': H*EUPLS TP-PL
+'himself.': HEUPLS TP-PL
 'The': KPA/-T
 'lofty': HROF/TEU
 'trees,': TRAOES KW-BG
@@ -2807,7 +2807,7 @@ The Old Street Lamp
 'at': AT
 'rest': REFT
 'in': TPH
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 'and': SKP
 'not': TPHOT
 'more': PHOR

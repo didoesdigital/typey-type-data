@@ -55,7 +55,7 @@
 * girls `TKPWEURLS`
 * ever `-FR`
 * seen. `SAOEPB TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * people `PAOEPL`
 * naturally `TPHRARL`
 * love `HRUF`
@@ -283,7 +283,7 @@
 * "and `KR-GS SKP`
 * minute." `PHEUPB TP-PL KR-GS`
 * So `KPA/SO`
-* away `A/WAEU`
+* away `WA*EU`
 * went, `WEPBT KW-BG`
 * grumbling `TKPWRUPL/-BLG`
 * way, `WAEU KW-BG`
@@ -407,7 +407,7 @@
 * fell `TPEL`
 * her; `HER STPH*FPLT`
 * considering `KR-G`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * such `SUFP`
 * worth `WO*RT`
 * any `TPHEU`

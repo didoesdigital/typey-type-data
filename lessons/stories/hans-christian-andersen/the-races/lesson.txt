@@ -129,7 +129,7 @@ The Races
 'but': PWUT
 'he': HE
 'injured': SKWR-RD
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 'and': SKP
 'broke': PWROEBG
 'his': HEUS
@@ -141,7 +141,7 @@ The Races
 'made.': PHAED TP-PL
 'He': KPA/HE
 'gave': TKPWAEUF
-'himself': H*EUPLS
+'himself': HEUPLS
 'up': UP
 'entirely': SPWAOEURL
 'to': TO
@@ -205,7 +205,7 @@ The Races
 'been!': PW-PB SKHRAPL
 'far,': TPAR KW-BG
 'far': TPAR
-'away."': A/WAEU TP-PL KR-GS
+'away."': WA*EU TP-PL KR-GS
 '"Yes,': KR-GS KPA/KWRE KW-BG
 'that': THA
 'is': S
@@ -291,7 +291,7 @@ The Races
 'you': U
 'have': SR
 'slept': SHREPT
-'away': A/WAEU
+'away': WA*EU
 'half': HAF
 'your': KWROUR
 'time': TAOEUPL
@@ -510,7 +510,7 @@ The Races
 'give': TKPWEUF
 'me': PHE
 'your': KWROUR
-'attention,': A/T-PBGS KW-BG
+'attention,': TAEPBGS KW-BG
 'and': SKP
 'I': EU
 'will': HR
@@ -676,7 +676,7 @@ The Races
 'he': HE
 'has': HAS
 'concealed': KAUPB/SAOELD
-'himself.': H*EUPLS TP-PL
+'himself.': HEUPLS TP-PL
 'No;': KPA/TPHO STPH*FPLT
 'there': THR
 'is': S

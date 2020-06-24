@@ -220,7 +220,7 @@
 * cold `KOELD`
 * winds `WEUPBDZ`
 * driven `TKREUFPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * we `WE`
 * rule; `RAOUL STPH*FPLT`
 * all `AUL`
@@ -465,7 +465,7 @@
 * about `PW`
 * it; `T STPH*FPLT`
 * passed `PAFD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * by, `PWEU KW-BG`
 * again, `TKPWEPB KW-BG`
 * before `PW-FR`

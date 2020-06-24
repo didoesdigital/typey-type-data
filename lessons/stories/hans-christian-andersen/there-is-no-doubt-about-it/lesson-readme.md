@@ -94,7 +94,7 @@
 * respectable `R-PT/-BL`
 * every `EF`
 * way. `WAEU TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * upon `POPB`
 * roost, `RAOFT KW-BG`
 * plucked `PHRUBGD`
@@ -234,7 +234,7 @@
 * talk `TAUBG`
 * to." `TO TP-PL KR-GS`
 * flew `TPHRAOU`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * "Too-whoo! `KR-GS KPA/TAO H-PB WHAO SKHRAPL`
 * Too-whoo!" `KPA/TAO H-PB WHAO SKHRAPL KR-GS`
 * both `PWO*T`
@@ -280,7 +280,7 @@
 * like `HRAOEUBG`
 * others, `OERS KW-BG`
 * attract `A/TRABGT`
-* attention `A/T-PBGS`
+* attention `TAEPBGS`
 * cock. `KOBG TP-PL`
 * dangerous `TKAEUPBLGS`
 * game, `TKPWAEUPL KW-BG`

@@ -289,7 +289,7 @@
 * something `S-G`
 * herself, `H*ERS KW-BG`
 * seized `SAOEZ/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * hand. `HAPBD TP-PL`
 * Poor `KPA/PAOR`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
@@ -315,10 +315,10 @@
 * has `HAS`
 * bound `PWOUPBD`
 * Hie `xxx Hie`
-* away! `A/WAEU SKHRAPL`
-* away!' `A/WAEU SKHRAPL AE`
+* away! `WA*EU SKHRAPL`
+* away!' `WA*EU SKHRAPL AE`
 * On `KPA/OPB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * free. `TPRAOE TP-PL`
 * fell `TPEL`
 * knees `TPHAOEZ`

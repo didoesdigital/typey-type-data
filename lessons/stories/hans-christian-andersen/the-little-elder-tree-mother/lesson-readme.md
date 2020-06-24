@@ -63,7 +63,7 @@
 * man `PHAPB`
 * lived `HREUFD`
 * by `PWEU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * in `TPH`
 * upper `AOURP`
 * storey `STOR/KWREU`
@@ -114,7 +114,7 @@
 * smilingly. `SPHAOEULG/HREU TP-PL`
 * "But `KR-GS KPA/PWUT`
 * did `TK`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * get `TKPWET`
 * his `HEUS`
 * feet?" `TPAOET H-F KR-GS`
@@ -404,7 +404,7 @@
 * years `KWRAOERS`
 * travelling `TRAFL/HREUPBG`
 * far `TPAR`
-* away `A/WAEU`
+* away `WA*EU`
 * home.' `HOEPL TP-PL AE`
 * "'And `KR-GS AE AFPBD`
 * often `OFPB`
@@ -667,7 +667,7 @@
 * "Hooray! `KR-GS xxx Hooray SKHRAPL`
 * shall `SHAL`
 * ride `RAOEUD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * miles!" `PHAOEULS SKHRAPL KR-GS`
 * "we `KR-GS WE`
 * nobleman's `TPHOEBL/PHA*PB AES`

@@ -158,9 +158,9 @@
 * sparkling, `SPAR/K-LG KW-BG`
 * soon `SAOPB`
 * showed `SHOED`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * clever `KHREFR`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * always `AULS`
 * knew `TPHAOU`
 * well `WEL`
@@ -378,7 +378,7 @@
 * wished; `WEURBD STPH*FPLT`
 * taken `TAEPB`
 * leave `HREF`
-* away `A/WAEU`
+* away `WA*EU`
 * journeyed `SKWRURPB/EUD`
 * began `TKPWAPB`
 * dusky, `TKUS/KEU KW-BG`
@@ -676,7 +676,7 @@
 * stool, `STOL KW-BG`
 * overset `AUFR/SET`
 * milk-pail. `PH*EULG H-PB PAEUL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * pick `PEUBG`
 * dirt, `TKEURT KW-BG`
 * master `PHAFRT`
@@ -718,7 +718,7 @@
 * swallowed `SWALD`
 * whole `WHOEL`
 * gulp, `TKPWUL/*P KW-BG`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * disheartened; `TKEUS/HART/*EPB/-D STPH*FPLT`
 * dislike `TKEUS/HRAOEUBG`
 * chat `KHAT`
@@ -756,7 +756,7 @@
 * heart's `HART AES`
 * content. `KAUPBT TP-PL`
 * enough `TPHUF`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * eaten `AOET/EPB`
 * in. `TPH TP-PL`
 * This `KPA/TH`

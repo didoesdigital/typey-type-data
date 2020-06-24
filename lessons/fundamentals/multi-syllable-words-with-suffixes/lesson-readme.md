@@ -4,7 +4,6 @@
 * answered `AEPBS/-D`
 * beginning `TKPWEUPB/-G`
 * donations `TKOE/TPHAEUGS/-S`
-* exclaimed `SKHRAEUPL/-D`
 * scarcely `SKAEURS/HREU`
 * greatest `TKPWRAET/EFT`
 * political `PHREU/K-L`
@@ -108,7 +107,6 @@
 * readable `RAED/-BL`
 * hurry `HUR/REU`
 * hanging `HAPBG/-G`
-* useless `AOUS/-LS`
 * attempted `A/TEPL/-D`
 * hastily `HAEUFT/HREU`
 * generations `SKWREPB/RAEUGS/-S`
@@ -157,7 +155,7 @@
 * distinctly `TKEUS/TEUPBGT/HREU`
 * gloomy `TKPWHRAOPL/KWREU`
 * preceding `PRE/SAOED/-G`
-* pronounced `PRO/TPHOUPBS/-D`
+* pronounced `PROUPBS/-D`
 * tendency `TEPBD/SEU`
 * earnestly `ERPB/EFT/HREU`
 * harmless `HARPL/-LS`
@@ -379,14 +377,12 @@
 * sacrifices `SABG/TPAOEUS/-S`
 * worldly `WORLD/HREU`
 * trifling `TRAOEUFL/-G`
-* functions `TPUPBGS/-S`
 * resulting `RULT/-G`
 * duly `TKAOU/HREU`
 * infinitely `EUPB/TPEUPBT/HREU`
 * fiercely `TPAOERS/HREU`
 * exalted `KPALT/-D`
 * binary `PWAOEUPB/AER`
-* agitated `APBLG/TAEUT/-D`
 * marching `PHAFRPB/-G`
 * essence `ES/EPBS`
 * positions `POGS/-S`
@@ -592,7 +588,7 @@
 * Percy `PER/SEU`
 * profitable `PROFT/-BL`
 * speculation `SPEBG/HRAEUGS`
-* foreigners `TPORPB/ER/-S`
+* foreigners `TPORPB/ERS`
 * ghastly `TKPWAFT/HREU`
 * barbarous `PWARB/ROUS`
 * patriotism `PAEURT/EUFPL`
@@ -1076,7 +1072,6 @@
 * tempting `TEPLT/-G`
 * gratifying `TKPWRAT/TPAOEUG`
 * stupidity `STAOUPD/TEU`
-* antagonist `APBT/AG/TPHEUFT`
 * expanded `EBGS/PAPBD/-D`
 * abuses `PWAOUS/-S`
 * exultation `KPUL/TAEUGS`
@@ -1384,4 +1379,3 @@
 * enchanting `EPB/KHAPBT/-G`
 * purified `PAOUR/TPAOEUD`
 * Syrian `SEUR/KWRAPB`
-* repressed `RE/PRES/-D`

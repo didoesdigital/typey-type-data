@@ -65,7 +65,7 @@
 * wretch `WREFP`
 * often `OFPB`
 * disguises `TKEUS/TKPWAOEUZ/-Z`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * but `PWUT`
 * know `TPHOE`
 * him `HEUPL`
@@ -84,7 +84,7 @@
 * care `KAEUR`
 * ourselves; `O*URSZ STPH*FPLT`
 * may `PHAE`
-* away `A/WAEU`
+* away `WA*EU`
 * without `WOUT`
 * any `TPHEU`
 * anxiety.' `KPAO*EUT TP-PL AE`
@@ -139,7 +139,7 @@
 * wolf `WOFL`
 * shopkeeper `SHOP/KAOEP/ER`
 * bought `PWAUT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * great `TKPWRAET`
 * lump `HRUFRP`
 * chalk, `KHAUBG KW-BG`
@@ -181,7 +181,7 @@
 * white `WHAOEUT`
 * meal `PHAOEL`
 * thought `THAUT`
-* himself: `H*EUPLS STPH-FPLT`
+* himself: `HEUPLS STPH-FPLT`
 * 'The `AE KPA/-T`
 * wants `WAPBTS`
 * deceive `STKAOEF`

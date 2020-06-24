@@ -13,7 +13,7 @@
 * bitter `PWEURT`
 * winter's `WEURPBT AES`
 * night. `TPHAOEUT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * he `HE`
 * was `WAS`
 * roaming `ROEPLG`

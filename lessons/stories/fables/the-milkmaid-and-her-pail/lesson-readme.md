@@ -15,7 +15,7 @@
 * Pail `KPA/PAEUL`
 * on `OPB`
 * head. `HED TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * she `SHE`
 * went `WEPBT`
 * along `HRAOPBG`

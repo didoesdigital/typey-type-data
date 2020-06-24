@@ -138,7 +138,7 @@
 * town: `TOUPB STPH-FPLT`
 * "Red `KR-GS KPA/RED`
 * hair! `HAEUR SKHRAPL`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * has `HAS`
 * Believe `KPA/PWHREF`
 * drum, `TKRUPL KW-BG`
@@ -241,7 +241,7 @@
 * came `KAEUPL`
 * crumbled `KRUPL/-BLD`
 * washed `WARBD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * also, `HR-S KW-BG`
 * son. `SOPB TP-PL`
 * "Peter's `KR-GS PAOERT AES`
@@ -518,7 +518,7 @@
 * dog `TKOG`
 * regiment, `REPBLG/*PLT KW-BG`
 * which `WEU`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * along `HRAOPBG`
 * merrily `PHER/HREU`
 * been `PW-PB`
@@ -564,7 +564,7 @@
 * battle. `PWA*LT TP-PL`
 * Bombshells `xxx Bombshells`
 * tore `TO*R`
-* away `A/WAEU`
+* away `WA*EU`
 * flesh `TPHRERB`
 * strips; `STREUPS STPH*FPLT`
 * bombshells `xxx bombshells`
@@ -634,7 +634,7 @@
 * awoke. `A/WOEBG TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * God `TKPWO*D`
-* Himself!" `KPA/H*EUPLS SKHRAPL KR-GS`
+* Himself!" `KPA/HEUPLS SKHRAPL KR-GS`
 * folded `TPOELD/-D`
 * hands, `HAPBDZ KW-BG`
 * hid `HEUD`
@@ -719,7 +719,7 @@
 * made `PHAED`
 * three `THRAOE`
 * times `TAOEUPLS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * was. `WAS TP-PL`
 * weeks `WAOEBGS`
 * parents' `PARPBTS AE`

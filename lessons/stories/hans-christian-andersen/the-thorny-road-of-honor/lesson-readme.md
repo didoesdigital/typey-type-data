@@ -128,7 +128,7 @@
 * itself `T/SEFL`
 * shall `SHAL`
 * pass `PAS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * We `KPA/WE`
 * look `HRAOBG`
 * down `TKOUPB`
@@ -175,7 +175,7 @@
 * gods `TKPWODZ`
 * ancients. `AEURBT/-S TP-PL`
 * He `KPA/HE`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * present; `PREPBT STPH*FPLT`
 * risen `REUFPB`
 * spectator's `SPEBGT/AEURT AES`
@@ -602,7 +602,7 @@
 * crime. `KRAOEUPL TP-PL`
 * ship `SHEUP`
 * sails `SAEULS`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * quitting `KWEUT/-G`
 * shores. `SHORS TP-PL`
 * leans `HRAOEPBS`
@@ -635,7 +635,7 @@
 * want `WAPBT`
 * more?" `PHOR H-F KR-GS`
 * And `AFPBD`
-* away `A/WAEU`
+* away `WA*EU`
 * famous `TPAEUPLS`
 * Dane, `TKA*EUPB KW-BG`
 * astronomer, `A/STROPB/PHER KW-BG`

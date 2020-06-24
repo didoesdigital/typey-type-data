@@ -31,7 +31,7 @@
 * test. `TEFT TP-PL`
 * He `KPA/HE`
 * stretched `STREFPD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * out `OUT`
 * under `TPH-PB`
 * bench, `PWEFRPB KW-BG`
@@ -190,7 +190,7 @@
 * Cat `KPA/KAT`
 * downstairs `TKOUPB/STAEURS`
 * sent `SEPBT`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Soon `KPA/SAOPB`
 * afterwards `A*FRDZ`
 * there `THR`
@@ -216,7 +216,7 @@
 * they `THE`
 * all `AUL`
 * turned `TURPBD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * until `TPH-L`
 * last `HRAFT`
 * came `KAEUPL`

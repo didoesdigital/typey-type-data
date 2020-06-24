@@ -112,4 +112,4 @@
 * forever." `TPOFR TP-PL KR-GS`
 * then `THEPB`
 * song-bird `SOPBG H-PB PWEURD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`

@@ -6,7 +6,7 @@
 * Hans `HAPBS`
 * said: `SED STPH-FPLT`
 * 'Whither `AE KPA/WHEU/THER`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * Hans?' `HAPBS H-F AE`
 * answered: `AEPBS/-D STPH-FPLT`
 * 'To `AE KPA/TO`
@@ -140,7 +140,7 @@
 * bacon, `PWAEU/KOPB KW-BG`
 * rope, `ROEP KW-BG`
 * drags `TKRAGS`
-* away `A/WAEU`
+* away `WA*EU`
 * behind `HEUPBD`
 * him. `HEUPL TP-PL`
 * dogs `TKOGS`

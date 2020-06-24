@@ -169,7 +169,7 @@
 * brother `PWROER`
 * quieter, `KWAOEURT KW-BG`
 * buried `PWUR/EUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * entirely `SPWAOEURL`
 * his `HEUS`
 * books. `PWAOBGS TP-PL`
@@ -228,7 +228,7 @@
 * thoughts `THAUTS`
 * lifted `HREUFTD`
 * carried `KAERD`
-* away `A/WAEU`
+* away `WA*EU`
 * wonderful `WUFL`
 * distance; `STKAPBS STPH*FPLT`
 * seemed `SAOEPLD`

@@ -505,7 +505,7 @@ The Flax
 'I': EU
 'had': H
 'no': TPHO
-'attention,': A/T-PBGS KW-BG
+'attention,': TAEPBGS KW-BG
 'nor': TPH-R
 'any': TPHEU
 'water': WAUR
@@ -692,7 +692,7 @@ The Flax
 'fortune."': TP-RPB TP-PL KR-GS
 'Years': KPA/KWRAOERS
 'passed': PAFD
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -729,7 +729,7 @@ The Flax
 'but': PWUT
 'it': T
 'is': S
-'useless': AOUS/-LS
+'useless': AOUFLS
 'to': TO
 'expect': KP-PT
 'impossibilities."': EUPL/POBLT/-S TP-PL KR-GS

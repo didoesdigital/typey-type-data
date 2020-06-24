@@ -214,7 +214,7 @@
 * him `HEUPL`
 * kiss. `KEUS TP-PL`
 * Then `KPA/THEPB`
-* away `A/WAEU`
+* away `WA*EU`
 * sold `SOELD`
 * bartered `PWART/ERD`
 * else. `ELS TP-PL`
@@ -259,7 +259,7 @@
 * milk, `PH*EULG KW-BG`
 * am `APL`
 * certain," `SERPB KW-BG KR-GS`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * "That `KR-GS KPA/THA`
 * exchange: `KPAEUPBG STPH-FPLT`
 * horse. `HORS TP-PL`
@@ -323,7 +323,7 @@
 * fleece `TPHRAOES`
 * back. `PWABG TP-PL`
 * should `SHO`
-* fellow," `TPO*EUL KW-BG KR-GS`
+* fellow," `TP*EL KW-BG KR-GS`
 * "There `KR-GS KPA/THR`
 * plenty `PHREPBT`
 * our `OUR`
@@ -488,7 +488,7 @@
 * glass `TKPWHRAS`
 * ale `AEL`
 * refresh `RERB`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * steps `STEPS`
 * inn. `TPH*PB TP-PL`
 * just `SKWRUFT`
@@ -643,7 +643,7 @@
 * you're `UR`
 * about," `PW KW-BG KR-GS`
 * embraced `EPL/PWRAEUFD`
-* attention `A/T-PBGS`
+* attention `TAEPBGS`
 * strangers, `STRAEURPBGS KW-BG`
 * nor `TPH-R`
 * did `TK`
@@ -712,7 +712,7 @@
 * apples." `APLS TP-PL KR-GS`
 * must `PHUFT`
 * that!" `THA SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * "My `KR-GS KPA/PHEU`
 * dear, `TKAER KW-BG`
 * husband, `HUS KW-BG`
@@ -740,7 +740,7 @@
 * handful `HAPBD/-FL`
 * herbs. `HERBS TP-PL`
 * 'Lend!' `AE KPA/HREPBD SKHRAPL AE`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * 'I `AE EU`
 * nothing `TPHOG`
 * lend; `HREPBD STPH*FPLT`

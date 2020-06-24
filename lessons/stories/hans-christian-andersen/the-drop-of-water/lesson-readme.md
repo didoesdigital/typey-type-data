@@ -67,7 +67,7 @@
 * great `TKPWRAET`
 * plateful `PHRAEUT/-FL`
 * spiders `SPAOEUD/ERS`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * about `PW`
 * crowd. `KROUD TP-PL`
 * And `AFPBD`
@@ -250,7 +250,7 @@
 * longer `HRORPBG`
 * mine! `PHAOEUPB SKHRAPL`
 * Bah! `KPA/PWA* SKHRAPL`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * with `W`
 * it! `T SKHRAPL`
 * has `HAS`
@@ -262,7 +262,7 @@
 * him `HEUPL`
 * more." `PHOR TP-PL KR-GS`
 * hacked `HABG/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * up, `UP KW-BG`
 * because `PWAU`
 * sitting `SEUGT`

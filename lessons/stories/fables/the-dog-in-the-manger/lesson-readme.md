@@ -57,7 +57,7 @@
 * getting `TKPWEGT`
 * straw, `STRAU KW-BG`
 * went `WEPBT`
-* away `A/WAEU`
+* away `WA*EU`
 * muttering: `PHUT/*ER/-G STPH-FPLT`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * people `PAOEPL`

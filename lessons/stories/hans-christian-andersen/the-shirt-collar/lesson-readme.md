@@ -45,7 +45,7 @@
 * day `TKAEU`
 * happened `HAPD`
 * find `TPAOEUPBD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * same `SAEUPL`
 * washing-tub `WARBG H-PB TUB`
 * as `AZ`
@@ -123,7 +123,7 @@
 * "is `KR-GS S`
 * enough?" `TPHUF H-F KR-GS`
 * "Get `KR-GS KPA/TKPWET`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * don't `TKOEPBT`
 * come `KOPL`
 * near `TPHAOER`
@@ -212,7 +212,7 @@
 * them `THEPL`
 * smooth. `SPHAO*T TP-PL`
 * "Oh!" `KR-GS KPA/O*ERBGS SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * "what `KR-GS WHA`
 * first-rate `TPEUFRT H-PB RAEUT`
 * dancer `TKARPBS`
@@ -260,7 +260,7 @@
 * obliged `OE/PWHRAOEUPBLGD`
 * thrown `THROEPB`
 * by `PWEU`
-* useless. `AOUS/-LS TP-PL`
+* useless. `AOUFLS TP-PL`
 * hair-brush," `HAEUR H-PB PWRURB KW-BG KR-GS`
 * thought `THAUT`
 * remarked `RARBGD`

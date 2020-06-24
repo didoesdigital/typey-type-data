@@ -63,7 +63,7 @@
 * touch `TUFP`
 * my `PHEU`
 * prey." `PRA*EU TP-PL KR-GS`
-* away `A/WAEU`
+* away `WA*EU`
 * waited; `WAEUTD STPH*FPLT`
 * but `PWUT`
 * finding `TPAOEUPBGD`

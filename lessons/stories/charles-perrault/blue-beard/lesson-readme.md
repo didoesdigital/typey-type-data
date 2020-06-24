@@ -44,7 +44,7 @@
 * women `WEUPL`
 * girls `TKPWEURLS`
 * ran `RAPB`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * him. `HEUPL TP-PL`
 * One `KPA/WUPB`
@@ -161,7 +161,7 @@
 * mighty `PHAOEUT/KWREU`
 * civil `SEUFL`
 * gentleman. `SKWRA*PL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * as `AZ`
 * returned `RURPBD`
@@ -685,7 +685,7 @@
 * musqueteer; `xxx musqueteer STPH*FPLT`
 * immediately `PHAOELD`
 * save `SAF`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * pursued `PUR/SAOUD`
 * close, `KHROES KW-BG`
 * overtook `AUFR/TAOBG`

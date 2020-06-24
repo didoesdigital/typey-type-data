@@ -54,7 +54,7 @@
 * allowed `HRO*UD`
 * to `TO`
 * roll `ROL`
-* away `A/WAEU`
+* away `WA*EU`
 * them. `THEPL TP-PL`
 * shilling `SHEULG`
 * made `PHAED`
@@ -219,7 +219,7 @@
 * behind `HEUPBD`
 * corner `KRORPB`
 * fallen. `TPAUL/-PB TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * clothes `KHRO*ETS`
 * being `-BG`
 * carried `KAERD`
@@ -275,7 +275,7 @@
 * story `STOER`
 * afterwards `A*FRDZ`
 * related `RAELTD`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * "'False! `KR-GS AE KPA/TPALS SKHRAPL`
 * nothing!' `TPHOG SKHRAPL AE`
 * he. `HE TP-PL`
@@ -568,7 +568,7 @@
 * pressed `PREFD`
 * crack. `KRABG TP-PL`
 * false, `TPALS KW-BG`
-* away,—that `A/WAEU KW-BG EPL/TKA*RB THA`
+* away,—that `WA*EU KW-BG EPL/TKA*RB THA`
 * knew; `TPHAOU STPH*FPLT`
 * there `THR`
 * shillings `SHEUL/-GS`
@@ -666,7 +666,7 @@
 * heard `HAERD`
 * this. `TH TP-PL`
 * more `PHOR`
-* honest `HO*PBS`
+* honest `HOPBS`
 * home, `HOEPL KW-BG`
 * each `AOEFP`
 * recognise `REZ/A*U`

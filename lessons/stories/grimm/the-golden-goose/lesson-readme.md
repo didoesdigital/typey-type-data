@@ -138,7 +138,7 @@
 * 'What `AE KPA/WHA`
 * will `HR`
 * taken `TAEPB`
-* away `A/WAEU`
+* away `WA*EU`
 * off!' `OF SKHRAPL AE`
 * His `KPA/HEUS`
 * punishment, `PUPLT KW-BG`
@@ -148,7 +148,7 @@
 * blows `PWHROES`
 * tree `TRAOE`
 * struck `STRUBG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * leg, `HREG KW-BG`
 * carried `KAERD`
 * home. `HOEPL TP-PL`
@@ -296,14 +296,14 @@
 * screamed `SKRAOEPLD`
 * out: `OUT STPH-FPLT`
 * 'Keep `AE KPA/KAOEP`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * goodness' `TKPWAOD/-PBS AE`
 * sake `SAEUBG`
 * keep `KAOEP`
-* away!' `A/WAEU SKHRAPL AE`
+* away!' `WA*EU SKHRAPL AE`
 * did `TK`
 * why `KWR`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * 'The `AE KPA/-T`
 * there,' `THR KW-BG AE`
 * thought, `THAUT KW-BG`
@@ -355,7 +355,7 @@
 * same `SAEUPL`
 * time `TAOEUPL`
 * pull `PUL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * likewise `HRAOEUBG/WAOEUS`
 * stuck `STUBG`
 * fast, `TPAFT KW-BG`
@@ -479,7 +479,7 @@
 * bride, `PWRAOEUD KW-BG`
 * vexed `SREBGS/-D`
 * ugly `ULG`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * everyone `EFRPB`
 * take `TAEUBG`
 * new `TPHU`
@@ -538,7 +538,7 @@
 * sail `SAEUL`
 * land `HRAPBD`
 * water. `WAUR TP-PL`
-* 'As `AE KPA/AZ`
+* 'As `AE KPA/AS`
 * sailing `SAEULG`
 * back `PWABG`
 * it,' `T KW-BG AE`

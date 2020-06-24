@@ -105,7 +105,7 @@
 * 'No, `AE KPA/TPHO KW-BG`
 * lady `HRA*ED`
 * gone `TKPWOPB`
-* away `A/WAEU`
+* away `WA*EU`
 * again.' `TKPWEPB TP-PL AE`
 * So `KPA/SO`
 * took `TAOBG`
@@ -115,7 +115,7 @@
 * nest `TPHEFT`
 * lay, `HRAEU KW-BG`
 * trotted `TROT/-D`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * however, `HOUF KW-BG`
 * could `KO`
 * rest `REFT`
@@ -159,7 +159,7 @@
 * not! `TPHOT SKHRAPL`
 * Our `KPA/OUR`
 * parents `PARPBTS`
-* honest `HO*PBS`
+* honest `HOPBS`
 * people! `PAOEPL SKHRAPL`
 * Bear, `KPA/PWAER KW-BG`
 * will `HR`
@@ -264,7 +264,7 @@
 * most `PHOFT`
 * crafty, `KRAF/TEU KW-BG`
 * forest `TPOEFRT`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * assembled, `A/SEPL/-BLD KW-BG`
 * hid `HEUD`
 * herself `H*ERS`

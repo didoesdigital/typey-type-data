@@ -118,13 +118,13 @@
 * man `PHAPB`
 * must `PHUFT`
 * drink `TKREU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * death, `TK*T KW-BG`
 * so `SO`
 * may `PHAE`
 * marry `PHAER`
 * young `KWRUPBG`
-* fellow! `TPO*EUL SKHRAPL`
+* fellow! `TP*EL SKHRAPL`
 * Yes, `KPA/KWRE KW-BG`
 * how `HOU`
 * many `PHAEPB`
@@ -314,7 +314,7 @@
 * actors `A*RBGTS`
 * actresses `ABG/TRES/-S`
 * passed `PAFD`
-* away `A/WAEU`
+* away `WA*EU`
 * surely `SHURL`
 * field `TPAOELD`
 * their `THAEUR`
@@ -412,7 +412,7 @@
 * two `TWO`
 * places `PHRAEUFS`
 * give `TKPWEUF`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Often `KPA/OFPB`
 * flies `TPHRAOEUS`
 * quite `KWAOEUT`
@@ -531,7 +531,7 @@
 * Solomon' `SOL/PHOPB AE`
 * over," `OEFR KW-BG KR-GS`
 * gone `TKPWOPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * stairs `STAEURS`
 * stairs; `STAEURS STPH*FPLT`
 * play `PHRAEU`
@@ -635,12 +635,12 @@
 * countries `KUPBTS`
 * belong, `PWHROPBG KW-BG`
 * poor `PAOR`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * obliged `OE/PWHRAOEUPBLGD`
 * cockcrow, `xxx cockcrow KW-BG`
 * Paradise. `KPA/PAR/TKAOEUS TP-PL`
 * Let `KPA/HRET`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * performers, `PORPL/*ER/-S KW-BG`
 * tragedians `TRA/TKPWAOED/KWRAPB/-S`
 * comedians, `KPHAOED/KWRAPB/-S KW-BG`
@@ -747,7 +747,7 @@
 * terror `TER/O*R`
 * felt `TPELT`
 * light. `HRAOEUT TP-PL`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * leg `HREG`
 * partition, `PAR/TEUGS KW-BG`
 * bench. `PWEFRPB TP-PL`

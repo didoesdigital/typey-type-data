@@ -196,7 +196,7 @@
 * seen, `SAOEPB KW-BG`
 * suit `SAOUT`
 * exactly;" `ELG STPH*FPLT KR-GS`
-* away `A/WAEU`
+* away `WA*EU`
 * went. `WEPBT TP-PL`
 * "We `KR-GS KPA/WE`
 * go `TKPW`
@@ -225,7 +225,7 @@
 * than `THAPB`
 * others," `OERS KW-BG KR-GS`
 * they. `THE TP-PL`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * last, `HRAFT KW-BG`
 * spoke `SPOEBG`
 * flew `TPHRAOU`
@@ -251,7 +251,7 @@
 * indeed, `TPHAOEPBD KW-BG`
 * unnoticed `UPB/TPH-TS/-D`
 * God. `TKPWO*D TP-PL`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * Within `KPA/W-PB`
 * garret `TKPWAEUR/RET`
 * lived `HREUFD`
@@ -309,7 +309,7 @@
 * helped `HEPD`
 * my `PHEU`
 * took `TAOBG`
-* Himself `KPA/H*EUPLS`
+* Himself `KPA/HEUPLS`
 * provided `PROE/SRAOUD/-D`
 * her. `HER TP-PL`
 * Now `KPA/TPHOU`
@@ -355,7 +355,7 @@
 * lowest `HROEFT`
 * pane `PAEPB`
 * window—"Mother," `WOEUPBD EPL/TKA*RB KR-GS KPA/PHOER KW-BG KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "what `KR-GS WHA`
 * can `K`
 * peeps `PAOEPS`

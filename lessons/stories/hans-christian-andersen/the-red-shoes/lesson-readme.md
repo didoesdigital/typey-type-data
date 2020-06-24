@@ -475,7 +475,7 @@
 * nodding `TPHOD/-G`
 * frightened, `TPRAOEUFPBD KW-BG`
 * throw `THROE`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * stuck `STUBG`
 * fast. `TPAFT TP-PL`
 * tore `TO*R`
@@ -563,7 +563,7 @@
 * God. `TKPWO*D TP-PL`
 * night. `TPHAOEUT TP-PL`
 * bore `PWOR`
-* away `A/WAEU`
+* away `WA*EU`
 * thorns `THORPB/-S`
 * stumps `STUPL/-PS`
 * torn `TORPB`

@@ -101,7 +101,7 @@
 * which `WEU`
 * was, `WAS KW-BG`
 * gnawed `TPHA*U/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * ropes `ROEPS`
 * bound `PWOUPBD`
 * King `KO*EUPBG`

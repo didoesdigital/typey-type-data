@@ -120,7 +120,7 @@
 * been `PW-PB`
 * home. `HOEPL TP-PL`
 * took `TAOBG`
-* away `A/WAEU`
+* away `WA*EU`
 * even `AOEPB`
 * what `WHA`
 * left `HREFT`
@@ -153,7 +153,7 @@
 * go `TKPW`
 * out `OUT`
 * balcony `PWAL/KOEPB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * also; `HR-S STPH*FPLT`
 * stars `STARS`
 * came `KAEUPL`
@@ -469,7 +469,7 @@
 * newspapers. `TPHAOUPS TP-PL`
 * "How `KR-GS KPA/HOU`
 * this?" `TH H-F KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * sunshine. `SUPB/SHAO*EUPB TP-PL`
 * lost `HRO*S`
 * shadow. `SHOEUD TP-PL`
@@ -518,7 +518,7 @@
 * said, `SED KW-BG`
 * "Hem, `KR-GS KPA/HEPL KW-BG`
 * a-hem;" `AEU H-PB HEPL STPH*FPLT KR-GS`
-* useless. `AOUS/-LS TP-PL`
+* useless. `AOUFLS TP-PL`
 * That `KPA/THA`
 * vexatious; `SREBGS/AEURBS STPH*FPLT`
 * grows `TKPWRO*ES`
@@ -563,7 +563,7 @@
 * passed—many, `PAFD EPL/TKA*RB PHAEPB KW-BG`
 * many `PHAEPB`
 * years. `KWRAOERS TP-PL`
-* study, `STAO*UD KW-BG`
+* study, `STOEU KW-BG`
 * gentle `SKWR*EPBLT`
 * tap `TAP`
 * door. `TKAOR TP-PL`
@@ -651,7 +651,7 @@
 * footsteps `TPAOT/STEPS`
 * ever `-FR`
 * childhood. `KHAOEULD/H*D TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * trusted `TRUFTD`
 * alone, `A/HROEPB KW-BG`
 * am `APL`
@@ -792,7 +792,7 @@
 * learnt `HRERPBT`
 * everything." `EFRG TP-PL KR-GS`
 * "Poetry!" `KR-GS KPA/POEURT SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * lives `HREUFS`
 * hermit `HERPLT`
 * cities. `STEUS TP-PL`
@@ -1065,7 +1065,7 @@
 * world," `WORLD KW-BG KR-GS`
 * "and `KR-GS SKP`
 * be." `-B TP-PL KR-GS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Everything `KPA/EFRG`
 * wrong `WROPBG`
 * Sorrow `KPA/SROE`

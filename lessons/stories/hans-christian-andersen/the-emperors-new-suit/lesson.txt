@@ -305,7 +305,7 @@ The Emperor's New Suit
 'got': TKPWOT
 'they': THE
 'did': TK
-'away': A/WAEU
+'away': WA*EU
 'with,': W KW-BG
 'and': SKP
 'worked': WORBGD
@@ -411,7 +411,7 @@ The Emperor's New Suit
 'shall': SHAL
 'send': SEPBD
 'my': PHEU
-'honest': HO*PBS
+'honest': HOPBS
 'old': OLD
 'minister': PHEUPB/STER
 'to': TO
@@ -707,7 +707,7 @@ The Emperor's New Suit
 'emperor': EPL/ROR
 'sent': SEPBT
 'another': TPHOER
-'honest': HO*PBS
+'honest': HOPBS
 'courtier': KORT/KWRA*U
 'to': TO
 'the': -T
@@ -849,7 +849,7 @@ The Emperor's New Suit
 'to': TO
 'see': SAOE
 'it': T
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 'while': WHAOEUL
 'it': T
 'was': WAS
@@ -1292,7 +1292,7 @@ The Emperor's New Suit
 'emperor': EPL/ROR
 'looked': HRAOBGD
 'at': AT
-'himself': H*EUPLS
+'himself': HEUPLS
 'in': TPH
 'the': -T
 'glass': TKPWHRAS
@@ -1439,7 +1439,7 @@ The Emperor's New Suit
 'of': -F
 'the': -T
 'windows': WOEUPBDZ
-'exclaimed:': SKHRAEUPL/-D STPH-FPLT
+'exclaimed:': SKHRAEUPLD STPH-FPLT
 '"Indeed,': KR-GS KPA/TPHAOEPBD KW-BG
 'the': -T
 'emperor's': EPL/ROR AES
@@ -1557,7 +1557,7 @@ The Emperor's New Suit
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 '"Now': KR-GS KPA/TPHOU
 'I': EU
 'must': PHUFT

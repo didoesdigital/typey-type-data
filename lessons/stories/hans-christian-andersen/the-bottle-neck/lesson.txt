@@ -174,7 +174,7 @@ The Bottle Neck
 'thought': THAUT
 'them': THEPL
 'to': TO
-'himself': H*EUPLS
+'himself': HEUPLS
 'in': TPH
 'his': HEUS
 'own': OEPB
@@ -419,7 +419,7 @@ The Bottle Neck
 'related': RAELTD
 'it': T
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 'or,': OR KW-BG
 'at': AT
 'least,': HRAOEFT KW-BG
@@ -526,7 +526,7 @@ The Bottle Neck
 'and': SKP
 'he': HE
 'found': TPOUPBD
-'himself': H*EUPLS
+'himself': HEUPLS
 'very': SRE
 'comfortable.': K-BL TP-PL
 'He': KPA/HE
@@ -1122,7 +1122,7 @@ The Bottle Neck
 'young': KWRUPBG
 'people': PAOEPL
 'wandered': WAPBD/-D
-'away': A/WAEU
+'away': WA*EU
 'into': TPHAO
 'the': -T
 'green': TKPWRAOEPB
@@ -1407,7 +1407,7 @@ The Bottle Neck
 'had': H
 'said': SED
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 '"but': KR-GS PWUT
 'I': EU
 'suppose': SPOS
@@ -1909,7 +1909,7 @@ The Bottle Neck
 'the': -T
 'pumps': P*UPLS
 'became': PWAEUPL
-'useless,': AOUS/-LS KW-BG
+'useless,': AOUFLS KW-BG
 'while': WHAOEUL
 'all': AUL
 'around': ARPBD
@@ -2086,7 +2086,7 @@ The Bottle Neck
 'longing': HROPBG/-G
 'to': TO
 'fly': TPHRAOEU
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'It': KPA/T
 'outlived': AOUT/HREUFD
 'the': -T
@@ -2374,7 +2374,7 @@ The Bottle Neck
 'both': PWO*T
 'were': WR
 'put': PUT
-'away': A/WAEU
+'away': WA*EU
 'in': TPH
 'a': AEU
 'large': HRARPBLG
@@ -2875,7 +2875,7 @@ The Bottle Neck
 'came': KAEUPL
 'to': TO
 'carry': KAER
-'away': A/WAEU
+'away': WA*EU
 'the': -T
 'bottles,': PWO*LTS KW-BG
 'and': SKP
@@ -2992,7 +2992,7 @@ The Bottle Neck
 'one': WUPB
 'need': TPHAOED
 'lose': HRUZ
-'himself': H*EUPLS
+'himself': HEUPLS
 'there.': THR TP-PL
 'In': KPA/TPH
 'the': -T
@@ -3802,7 +3802,7 @@ The Bottle Neck
 'was': WAS
 'already': HR-R
 'far': TPAR
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'and': SKP
 'very': SRE
 'soon': SAOPB
@@ -3810,7 +3810,7 @@ The Bottle Neck
 'bottle': PWO*LT
 'was': WAS
 'far': TPAR
-'away': A/WAEU
+'away': WA*EU
 'also;': HR-S STPH*FPLT
 'for': TPOR
 'it': T
@@ -3840,7 +3840,7 @@ The Bottle Neck
 'themselves.': TH*EPLS TP-PL
 'They': KPA/THE
 'went': WEPBT
-'jumping': SKWRUPL/-PG
+'jumping': SKWRUFRPG
 'and': SKP
 'rolling': ROLG
 'about,': PW KW-BG
@@ -4044,7 +4044,7 @@ The Bottle Neck
 'of': -F
 'its': EUTS
 'history.': HEUFRT TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'it': T
 'hung': HUPBG
 'there': THR

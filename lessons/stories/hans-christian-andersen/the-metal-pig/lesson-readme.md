@@ -220,7 +220,7 @@
 * Trinita. `TRAO*EU/TPH*EUT/SKWRA TP-PL`
 * then `THEPB`
 * walked `WAUBGD`
-* away `A/WAEU`
+* away `WA*EU`
 * towards `TORDZ`
 * half `HAF`
 * knelt `TPHELT`
@@ -243,12 +243,12 @@
 * chestnuts, `KHEFT/TPHUT/-S KW-BG`
 * supper. `SAOURP TP-PL`
 * No `KPA/TPHO`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * belonged `PWHROPBGD`
 * him, `HEUPL KW-BG`
 * boldly `PWOLD/HREU`
 * seated `SAOETD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * pig's `PEUG AES`
 * back, `PWABG KW-BG`
 * leaned `HRAOEPBD`
@@ -417,7 +417,7 @@
 * gleaming `TKPWHRAOEPL/-G`
 * colors, `KHRORS KW-BG`
 * reality. `RAOELT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * passed `PAFD`
 * hall `HAUL`
 * hall, `HAUL KW-BG`
@@ -484,7 +484,7 @@
 * hand `HAPBD`
 * below `PWHRO`
 * points `POEUPBTS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * saying, `SAEUG KW-BG`
 * "I `KR-GS EU`
 * heaven." `HEFPB TP-PL KR-GS`
@@ -1128,7 +1128,7 @@
 * evening, `AOEPBG KW-BG`
 * rather `RAER`
 * cold. `KOELD TP-PL`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * already-deserted `HR-R H-PB STK*ERT/-D`
 * stooped `STAOPD`
 * said; `SED STPH*FPLT`
@@ -1291,7 +1291,7 @@
 * incomprehensible. `EUPB/KPREPBS/-BL TP-PL`
 * however, `HOUF KW-BG`
 * consoled `HRO*ER/KR*P/O*/TPH*/S*/O*/HR*/*E/TK*`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * tried `TRAOEUD`
 * soften `SOFPB`
 * lady's `HRAEUD/KWREU/AES`

@@ -55,7 +55,7 @@
 * flown `TPHROEPB`
 * down, `TKOUPB KW-BG`
 * snatched `STPHAFPD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * set `SET`
 * on `OPB`
 * tree. `TRAOE TP-PL`
@@ -64,7 +64,7 @@
 * up, `UP KW-BG`
 * brought `PWRAUT`
 * thought `THAUT`
-* himself: `H*EUPLS STPH-FPLT`
+* himself: `HEUPLS STPH-FPLT`
 * 'You `AE KPA/U`
 * will `HR`
 * take `TAEUBG`
@@ -90,7 +90,7 @@
 * Fundevogel, `xxx Fundevogel KW-BG`
 * because `PWAU`
 * carried `KAERD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Fundevogel `xxx Fundevogel`
 * Lina `HR*EUPB/KWRA`
 * loved `HROFD`
@@ -198,7 +198,7 @@
 * quickly, `KWEULG KW-BG`
 * dress `TKRES`
 * ourselves, `O*URSZ KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * together.' `TOGT TP-PL AE`
 * therefore `TH-FR`
 * dressed `TKREFD`

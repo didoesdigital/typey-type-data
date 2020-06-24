@@ -205,7 +205,7 @@
 * "and `KR-GS SKP`
 * I'll `AOEUL`
 * do `TKO`
-* fellow; `TPO*EUL STPH*FPLT`
+* fellow; `TP*EL STPH*FPLT`
 * duty;" `TKAOUT STPH*FPLT KR-GS`
 * stepped `STEPD`
 * water-trough, `WAUR H-PB TROF KW-BG`
@@ -235,7 +235,7 @@
 * found `TPOUPBD`
 * difficult `TKEUFL`
 * shake `SHAEUBG`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * understood `*URPBD`
 * bath `PWA*T`
 * kindly, `KAOEUPBD/HREU KW-BG`
@@ -253,7 +253,7 @@
 * "but `KR-GS PWUT`
 * know `TPHOE`
 * love `HRUF`
-* fellow-creatures, `TPO*EUL H-PB KRAOEFPS KW-BG`
+* fellow-creatures, `TP*EL H-PB KRAOEFPS KW-BG`
 * except `KPEPT`
 * nobody `TPHOEB`
 * expect `KP-PT`
@@ -593,7 +593,7 @@
 * fell `TPEL`
 * asleep. `A/SHRAOEP TP-PL`
 * busied `PWUS/KWREUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * time `TAOEUPL`
 * lay `HRAEU`
 * down, `TKOUPB KW-BG`
@@ -731,7 +731,7 @@
 * "your `KR-GS KWROUR`
 * mode `PHOED`
 * expressing `EBGS/PRES/-G`
-* attention `A/T-PBGS`
+* attention `TAEPBGS`
 * fact." `TPABGT TP-PL KR-GS`
 * "It `KR-GS KPA/T`
 * sunshine `SUPB/SHAO*EUPB`
@@ -753,7 +753,7 @@
 * looked `HRAOBGD`
 * yesterday." `KWRED TP-PL KR-GS`
 * "Impertinent `KR-GS KPA/EUPL/PERT/TPHEPBT`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * duck: `TKUBG STPH-FPLT`
 * "would `KR-GS WO`
 * compare `KPAR`

@@ -13,7 +13,7 @@
 * Donkey `KPA/TKOPB/KEU`
 * to `TO`
 * market. `PHARBGT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * they `THE`
 * walking `WAUG`
 * along `HRAOPBG`
@@ -61,7 +61,7 @@
 * get `TKPWET`
 * off, `OF KW-BG`
 * got `TKPWOT`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * hadn't `H-PBT`
 * gone `TKPWOPB`
 * far `TPAR`

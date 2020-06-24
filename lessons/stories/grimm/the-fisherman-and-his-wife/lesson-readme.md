@@ -43,7 +43,7 @@
 * sudden `SUD`
 * float `TPHROET`
 * dragged `TKRAGD`
-* away `A/WAEU`
+* away `WA*EU`
 * deep `TKAOEP`
 * into `TPHAO`
 * water: `WAUR STPH-FPLT`
@@ -92,7 +92,7 @@
 * can `K`
 * talk: `TAUBG STPH-FPLT`
 * swim `SWEUPL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * sir, `SEUR KW-BG`
 * soon `SAOPB`
 * you `U`

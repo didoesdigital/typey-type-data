@@ -29,7 +29,7 @@
 * heavy `HOEUF`
 * lead `HRAED`
 * throw `THROE`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * because `PWAU`
 * thought `THAUT`
 * trick `TREUBG`
@@ -58,7 +58,7 @@
 * by `PWEU`
 * selling `SELG`
 * eggs. `EGS TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * grew `TKPWRAOU`
 * greedy; `TKPWRAOE/TKEU STPH*FPLT`
 * thinking `THEUG`

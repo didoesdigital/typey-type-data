@@ -70,7 +70,7 @@
 * give `TKPWEUF`
 * it `T`
 * walked `WAUBGD`
-* away `A/WAEU`
+* away `WA*EU`
 * his `HEUS`
 * nose `TPHOES`
 * in `TPH`

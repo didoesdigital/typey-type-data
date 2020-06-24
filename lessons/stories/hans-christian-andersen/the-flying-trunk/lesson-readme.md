@@ -132,7 +132,7 @@
 * up, `UP KW-BG`
 * therefore `TH-FR`
 * seated `SAOETD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * trunk. `TRUPBG TP-PL`
 * It `KPA/T`
 * wonderful `WUFL`
@@ -150,7 +150,7 @@
 * pressed `PREFD`
 * lock, `HROBG KW-BG`
 * when `WHEPB`
-* away `A/WAEU`
+* away `WA*EU`
 * flew `TPHRAOU`
 * up `UP`
 * chimney `KHEUPL/TPHEU`
@@ -189,7 +189,7 @@
 * dressed `TKREFD`
 * dressing-gowns `TKREFG H-PB TKPWOUPBS`
 * as `AZ`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * happened `HAPD`
 * meet `PHAOET`
 * nurse `TPHURS`
@@ -750,7 +750,7 @@
 * single `SEUPBLG`
 * amongst `PHOPBGS`
 * opinion `P-PB`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * chose. `KHOES TP-PL`
 * chosen,' `KHOEFPB KW-BG AE`
 * might `PHAOEUT`
@@ -825,7 +825,7 @@
 * ears. `AOERS TP-PL`
 * believe `PWHREF`
 * angel. `APB/SKWREL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * flying `TPHRAOEUG`
 * fireworks, `TPAOEUR/WORBGS KW-BG`
 * now, `TPHOU KW-BG`

@@ -40,7 +40,7 @@
 * while `WHAOEUL`
 * hurried `HUR/EUD`
 * home. `HOEPL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * as `AZ`
 * got `TKPWOT`

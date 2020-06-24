@@ -40,7 +40,7 @@
 * molten `PHOLT/*EPB`
 * lead `HRAED`
 * on `OPB`
-* enemy, `EPB/PHEU KW-BG`
+* enemy, `TPHAEPL KW-BG`
 * should `SHO`
 * he `HE`
 * approach. `PROEFP TP-PL`
@@ -141,7 +141,7 @@
 * "Mrs. `KR-GS PH*P/R*/S* TP-PL`
 * Mogen," `xxx Mogen KW-BG KR-GS`
 * said `SED`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * "do `KR-GS TKO`
 * you `U`
 * still `STEUL`
@@ -222,7 +222,7 @@
 * "Delaying `KR-GS KPA/TKHRAEUG`
 * is `S`
 * forgetting," `TPERGT/-G KW-BG KR-GS`
-* fellow. `TPO*EUL TP-PL`
+* fellow. `TP*EL TP-PL`
 * The `KPA/-T`
 * hanged. `HAPBG/-D TP-PL`
 * mansion, `PHAPBGS KW-BG`
@@ -403,7 +403,7 @@
 * One `KPA/WUPB`
 * day `TKAEU`
 * engaged `EPB/TKPWAEUPBLGD`
-* fellow; `TPO*EUL STPH*FPLT`
+* fellow; `TP*EL STPH*FPLT`
 * loved `HROFD`
 * other `OER`
 * dearly. `TKAERL TP-PL`

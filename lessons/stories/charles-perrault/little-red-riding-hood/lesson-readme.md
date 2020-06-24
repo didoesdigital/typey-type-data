@@ -90,7 +90,7 @@
 * who `WHO`
 * another `TPHOER`
 * village. `SREULG TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * going `TKPW-G`
 * thro' `xxx thro AE`
 * wood, `WAOD KW-BG`
@@ -262,7 +262,7 @@
 * come `KOPL`
 * in, `TPH KW-BG`
 * hiding `HAOEUD/-G`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * under `TPH-PB`
 * bedclothes: `PWED/TK-LS/KHRO*ETS STPH-FPLT`
 * "Put `KR-GS KPA/PUT`

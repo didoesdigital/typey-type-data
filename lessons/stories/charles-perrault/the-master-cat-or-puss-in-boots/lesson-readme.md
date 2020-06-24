@@ -47,7 +47,7 @@
 * nothing `TPHOG`
 * but `PWUT`
 * young `KWRUPBG`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * quite `KWAOEUT`
 * comfortless `K-FRT/-LS`
 * at `AT`
@@ -143,7 +143,7 @@
 * heels, `HAOELS KW-BG`
 * or `OR`
 * hide `HAOEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * in `TPH`
 * meal, `PHAOEL KW-BG`
 * make `PHAEUBG`
@@ -507,7 +507,7 @@
 * saying, `SAEUG KW-BG`
 * pass `PAS`
 * near `TPHAOER`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * paying `PAEUG`
 * respects `R-PTS`
 * him. `HEUPL TP-PL`

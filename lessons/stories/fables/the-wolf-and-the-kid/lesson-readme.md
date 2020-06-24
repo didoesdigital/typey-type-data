@@ -3,7 +3,7 @@
 * A `KPA/AEU`
 * Kid `KPA/KEUD`
 * was `WAS`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * up `UP`
 * on `OPB`
 * the `-T`
@@ -26,7 +26,7 @@
 * revile `RE/SRAOEUL`
 * attack `A/TABG`
 * his `HEUS`
-* enemy. `EPB/PHEU TP-PL`
+* enemy. `TPHAEPL TP-PL`
 * "Murderer `KR-GS KPA/PHURD/RER`
 * thief," `THAOEF KW-BG KR-GS`
 * cried, `KRAOEUD KW-BG`
@@ -35,7 +35,7 @@
 * you `U`
 * here `HAOER`
 * near `TPHAOER`
-* honest `HO*PBS`
+* honest `HOPBS`
 * folks' `TPOBG AE`
 * houses? `HO*UFS H-F`
 * How `KPA/HOU`
@@ -50,7 +50,7 @@
 * are `R`
 * known?" `TPHOEPB H-F KR-GS`
 * "Curse `KR-GS KPA/KURS`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * my `PHEU`
 * young `KWRUPBG`
 * friend," `TPREPBD KW-BG KR-GS`

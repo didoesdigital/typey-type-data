@@ -206,7 +206,7 @@
 * gave `TKPWAEUF`
 * cloak, `KHROEBG KW-BG`
 * said, `SED KW-BG`
-* 'As `AE KPA/AZ`
+* 'As `AE KPA/AS`
 * on `OPB`
 * become `PW-BG`
 * invisible, `EUPB/SREUBL KW-BG`
@@ -246,12 +246,12 @@
 * cup `KUP`
 * wine; `WAOEUPB STPH*FPLT`
 * threw `THRAOU`
-* away `A/WAEU`
+* away `WA*EU`
 * secretly, `SKRELT KW-BG`
 * taking `TAEUG`
 * drop. `TKROP TP-PL`
 * laid `HRAEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * down `TKOUPB`
 * little `HREUL`
 * while `WHAOEUL`
@@ -262,7 +262,7 @@
 * laughed `HRAFD`
 * heartily; `HART/HREU STPH*FPLT`
 * 'This `AE KPA/TH`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * too `TAO`
 * done `TKOPB`
 * wiser `WAOEUZ/ER`
@@ -439,7 +439,7 @@
 * stepped `STEPD`
 * boat `PWOET`
 * youngest. `KWRUPBG/EFT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * rowing `ROE/-G`
 * over `OEFR`
 * lake, `HRAEUBG KW-BG`

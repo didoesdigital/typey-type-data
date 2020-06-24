@@ -38,7 +38,7 @@
 * he `HE`
 * wished `WEURBD`
 * for `TPOR`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * but `PWUT`
 * only `OEPBL`
 * on `OPB`

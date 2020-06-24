@@ -71,7 +71,7 @@
 * against `TKPWEPBS`
 * had `H`
 * fly `TPHRAOEU`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * He `KPA/HE`
 * then `THEPB`
 * went `WEPBT`

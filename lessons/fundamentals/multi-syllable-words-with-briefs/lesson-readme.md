@@ -49,6 +49,7 @@
 * observed `OEBD`
 * conversation `K-FRGS`
 * considerable `KR-BL`
+* study `STOEU`
 * produce `PROU`
 * perfectly `P-FRL`
 * island `AOEULD`

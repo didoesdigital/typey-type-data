@@ -71,7 +71,7 @@
 * whole `WHOEL`
 * day `TKAEU`
 * enjoyed `EPB/SKWROEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * warm `WARPL`
 * sunshine, `SUPB/SHAO*EUPB KW-BG`
 * flew `TPHRAOU`
@@ -178,7 +178,7 @@
 * large `HRARPBLG`
 * painted `PAEUPBTD`
 * horns; `HORPBS STPH*FPLT`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * sleep `SHRAOEP`
 * one `WUPB`
 * these `THEZ`
@@ -224,7 +224,7 @@
 * sends `SEPBDZ`
 * me `PHE`
 * far `TPAR`
-* away `A/WAEU`
+* away `WA*EU`
 * business, `PWEUS KW-BG`
 * over `OEFR`
 * mountains `PHOUPB/TAEUPBS`
@@ -461,7 +461,7 @@
 * word `WORD`
 * heart's `HART AES`
 * grief. `TKPWRAOEF TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * night `TPHAOEUT`
 * on, `OPB KW-BG`
 * house, `HOUS KW-BG`
@@ -528,7 +528,7 @@
 * "Alas! `KR-GS KPA/A/HRAS SKHRAPL`
 * good `TKPWAOD`
 * passes `PA*FS`
-* away," `A/WAEU KW-BG KR-GS`
+* away," `WA*EU KW-BG KR-GS`
 * sighed `SAOEU/-D`
 * After `KPA/AF`
 * home, `HOEPL KW-BG`
@@ -689,7 +689,7 @@
 * buzzed `PWUZ/-D`
 * flower-pot. `TPHRO*UR H-PB POT TP-PL`
 * driven `TKREUFPB`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * remove `RE/PHOF`
 * stung `STUPBG`
 * hand, `HAPBD KW-BG`

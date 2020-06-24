@@ -81,7 +81,7 @@
 * hundred `HUPBD`
 * years, `KWRAOERS KW-BG`
 * burns `PWURPBS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * to `TO`
 * death `TK*T`
 * nest; `TPHEFT STPH*FPLT`
@@ -230,7 +230,7 @@
 * perchance `PER/KHAPBS`
 * didst `TK*/*EU/TK*/S*/T*`
 * turn `TURPB`
-* away `A/WAEU`
+* away `WA*EU`
 * him `HEUPL`
 * towards `TORDZ`
 * sparrow `SPAEUR/ROE`

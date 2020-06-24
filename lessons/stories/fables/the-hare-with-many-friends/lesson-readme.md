@@ -38,7 +38,7 @@
 * asked `SK-D`
 * him `HEUPL`
 * carry `KAER`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * on `OPB`
 * his `HEUS`
@@ -138,12 +138,12 @@
 * did `TK`
 * take `TAEUBG`
 * responsibility `SPOPBT`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * so `SO`
 * older `OERLD`
 * persons `PERPBS`
 * than `THAPB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * declined `TKE/KHRAOEUPBD`
 * task. `TAFBG TP-PL`
 * By `KPA/PWEU`

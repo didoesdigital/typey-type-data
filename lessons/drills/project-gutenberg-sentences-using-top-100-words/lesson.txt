@@ -6,7 +6,7 @@ Project Gutenberg sentences using top 100 words
 'man.': PHAPB TP-PL
 'A': KPA/AEU
 'man?': PHAPB H-F
-'As': KPA/AZ
+'As': KPA/AS
 'if.': TP TP-PL
 'At': KPA/AT
 'me!': PHE SKHRAPL
@@ -409,13 +409,13 @@ Project Gutenberg sentences using top 100 words
 'you?': STPHU
 'Are': KPA/R
 'you?': STPHU
-'As': KPA/AZ
+'As': KPA/AS
 'from.': TPR TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'good!': TKPWAOD SKHRAPL
-'As': KPA/AZ
+'As': KPA/AS
 'good?': TKPWAOD H-F
-'As': KPA/AZ
+'As': KPA/AS
 'what?': WHA H-F
 'At': KPA/AT
 'that!': THA SKHRAPL
@@ -974,11 +974,11 @@ Project Gutenberg sentences using top 100 words
 'you…': U SKWR*RBGS
 'Are': KPA/R
 'you?'': U H-F AE
-'As': KPA/AZ
+'As': KPA/AS
 'much.]': PHUFP TP-PL PWR*BGT
-'As': KPA/AZ
+'As': KPA/AS
 'this.'': TH TP-PL AE
-'As': KPA/AZ
+'As': KPA/AS
 'what?'': WHA H-F AE
 'At': KPA/AT
 'first.': TPEUFRT TP-PL
@@ -1472,7 +1472,7 @@ Project Gutenberg sentences using top 100 words
 'you!"': U SKHRAPL KR-GS
 '"Are': KR-GS KPA/R
 'you?"': U H-F KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'what?"': WHA H-F KR-GS
 '"At': KR-GS KPA/AT
 'them!"': THEPL SKHRAPL KR-GS
@@ -1739,7 +1739,7 @@ Project Gutenberg sentences using top 100 words
 'what?'': WHA H-F AE
 'Are': KPA/R
 'they?'': THE H-F AE
-'As': KPA/AZ
+'As': KPA/AS
 'before?': PW-FR H-F
 'Before': KPA/PW-FR
 'me!': PHE SKHRAPL
@@ -2594,16 +2594,16 @@ Project Gutenberg sentences using top 100 words
 'Are': KPA/R
 'we': WE
 'not?': TPHOT H-F
-'As': KPA/AZ
+'As': KPA/AS
 'if': TP
 'from.': TPR TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'if': TP
 'that.': THA TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'it': T
 'is--!': S H-PB H-PB SKHRAPL
-'As': KPA/AZ
+'As': KPA/AS
 'you': U
 'are.': R TP-PL
 'Before': KPA/PW-FR
@@ -3261,9 +3261,9 @@ Project Gutenberg sentences using top 100 words
 'which?"': WEU H-F KR-GS
 '"Any': KR-GS KPA/TPHEU
 'one--?"': WUPB H-PB H-PB H-F KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'before?"': PW-FR H-F KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'we': WE
 'are!"': R SKHRAPL KR-GS
 '"But': KR-GS KPA/PWUT
@@ -3570,10 +3570,10 @@ Project Gutenberg sentences using top 100 words
 'Are': KPA/R
 'you': U
 'not?': TPHOT H-F
-'As': KPA/AZ
+'As': KPA/AS
 'you': U
 'like.': HRAOEUBG TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'you': U
 'will!': HR SKHRAPL
 'Be': KPA/-B
@@ -4183,7 +4183,7 @@ Project Gutenberg sentences using top 100 words
 'You': KPA/U
 'with': W
 'me.': PHE TP-PL
-'[As': PWR-BGT KPA/AZ
+'[As': PWR-BGT KPA/AS
 'before.]': PW-FR TP-PL PWR*BGT
 '[But': PWR-BGT KPA/PWUT
 'he': HE
@@ -4220,10 +4220,10 @@ Project Gutenberg sentences using top 100 words
 '"Are': KR-GS KPA/R
 'you': U
 'up?"': UP H-F KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'you': U
 'are."': R TP-PL KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'you': U
 'see."': SAOE TP-PL KR-GS
 '"But': KR-GS KPA/PWUT
@@ -4616,7 +4616,7 @@ Project Gutenberg sentences using top 100 words
 'Are': KPA/R
 'we': WE
 'women?': WEUPL H-F
-'As': KPA/AZ
+'As': KPA/AS
 'for': TPOR
 'these!': THEZ SKHRAPL
 'At': KPA/AT
@@ -5363,10 +5363,10 @@ Project Gutenberg sentences using top 100 words
 '"Are': KR-GS KPA/R
 'you': U
 'one?"': WUPB H-F KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'you': U
 'like."': HRAOEUBG TP-PL KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'you': U
 'will."': HR TP-PL KR-GS
 '"Before': KR-GS KPA/PW-FR
@@ -5804,7 +5804,7 @@ Project Gutenberg sentences using top 100 words
 'Are': KPA/R
 'you': U
 'there?': THR H-F
-'As': KPA/AZ
+'As': KPA/AS
 'you': U
 'do': TKO
 'us…': US SKWR*RBGS
@@ -6765,7 +6765,7 @@ Project Gutenberg sentences using top 100 words
 ''Who': AE KPA/WHO
 'is': S
 'it?'': T H-F AE
-'--"As': H-PB H-PB KR-GS KPA/AZ
+'--"As': H-PB H-PB KR-GS KPA/AS
 'you': U
 'see."': SAOE TP-PL KR-GS
 '--"Not': H-PB H-PB KR-GS KPA/TPHOT
@@ -6874,7 +6874,7 @@ Project Gutenberg sentences using top 100 words
 'Are': KPA/R
 'you': U
 'there?'': THR H-F AE
-'As': KPA/AZ
+'As': KPA/AS
 'you': U
 'Like': KPA/HRAOEUBG
 'it.': T TP-PL
@@ -8071,7 +8071,7 @@ Project Gutenberg sentences using top 100 words
 'you': U
 'so': SO
 'much?': PHUFP H-F
-'As': KPA/AZ
+'As': KPA/AS
 'to': TO
 'the': -T
 'first.': TPEUFRT TP-PL
@@ -9331,7 +9331,7 @@ Project Gutenberg sentences using top 100 words
 'you': U
 'not': TPHOT
 'good?': TKPWAOD H-F
-'As': KPA/AZ
+'As': KPA/AS
 'you': U
 'will': HR
 'then.': THEPB TP-PL
@@ -10275,7 +10275,7 @@ Project Gutenberg sentences using top 100 words
 'will': HR
 'he': HE
 'not?"': TPHOT H-F KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'much': PHUFP
 'as': AZ
 'that?"': THA H-F KR-GS
@@ -10634,7 +10634,7 @@ Project Gutenberg sentences using top 100 words
 'you': U
 'do?'': TKO H-F AE
 '--': TK-R
-'As': KPA/AZ
+'As': KPA/AS
 'good,': TKPWAOD KW-BG
 'is': S
 'it?': T H-F
@@ -12976,7 +12976,7 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'it': T
 'for?': TPOR H-F
-'As': KPA/AZ
+'As': KPA/AS
 'much': PHUFP
 'as': AZ
 'you': U
@@ -15434,7 +15434,7 @@ Project Gutenberg sentences using top 100 words
 'was': WAS
 'that': THA
 'man?"': PHAPB H-F KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'what,': WHA KW-BG
 'then,': THEPB KW-BG
 'is': S
@@ -20256,7 +20256,7 @@ Project Gutenberg sentences using top 100 words
 'is': S
 'a': AEU
 'woman."': WOPL TP-PL KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'good': TKPWAOD
 'as': AZ
 'one': WUPB

@@ -14,7 +14,7 @@
 * to `TO`
 * the `-T`
 * forest. `TPOEFRT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * he `HE`
 * was `WAS`
 * wandering `WAPBGD`

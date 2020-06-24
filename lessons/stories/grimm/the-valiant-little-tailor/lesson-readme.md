@@ -113,7 +113,7 @@
 * desired, `STKAOEURD KW-BG`
 * but `PWUT`
 * went `WEPBT`
-* away `A/WAEU`
+* away `WA*EU`
 * quite `KWAOEUT`
 * angry `APBG/REU`
 * grumbling. `TKPWRUPL/-BLG TP-PL`
@@ -132,7 +132,7 @@
 * bread `PWRAED`
 * cupboard, `KUP/PWAORD KW-BG`
 * cut `KUT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * piece `PAOES`
 * right `RAOEUT`
 * across `A/KROS`
@@ -181,7 +181,7 @@
 * drove `TKROEF`
 * unbidden `UPB/PWEUD/TK*EPB`
 * guests `TKPWEFTS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * flies, `TPHRAOEUS KW-BG`
 * however, `HOUF KW-BG`
 * understood `*URPBD`
@@ -189,7 +189,7 @@
 * would `WO`
 * not `TPHOT`
 * turned `TURPBD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * back `PWABG`
 * again `TKPWEPB`
 * ever-increasing `*FR/EUPB/KRAOES/-G`
@@ -220,7 +220,7 @@
 * legs `HREGS`
 * out. `OUT TP-PL`
 * 'Are `AE KPA/R`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * sort?' `SORT H-F AE`
 * could `KO`
 * help `HEP`
@@ -357,7 +357,7 @@
 * feel `TPAOEL`
 * respect `R-PT`
 * tiny `TOEUPB`
-* fellow. `TPO*EUL TP-PL`
+* fellow. `TP*EL TP-PL`
 * Nevertheless, `KPA/TPHEFRLS KW-BG`
 * wished `WEURBD`
 * first, `TPEUFRT KW-BG`
@@ -489,7 +489,7 @@
 * arms `ARPLS`
 * giant: `SKWRAOEUPBT STPH-FPLT`
 * such `SUFP`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * yet `KWRET`
 * cannot `K/TPHOT`
 * even `AOEPB`

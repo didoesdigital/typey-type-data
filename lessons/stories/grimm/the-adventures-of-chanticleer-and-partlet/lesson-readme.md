@@ -37,7 +37,7 @@
 * takes `TAEUBGS`
 * them `THEPL`
 * all `AUL`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * 'With `AE KPA/W`
 * my `PHEU`
 * heart,' `HART KW-BG AE`
@@ -100,7 +100,7 @@
 * down, `TKOUPB KW-BG`
 * bid `PWEUD`
 * harness `HARPBS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * draw `TKRAU`
 * her `HER`
 * home. `HOEPL TP-PL`
@@ -185,7 +185,7 @@
 * fast `TPAFT`
 * can.' `K TP-PL AE`
 * And `AFPBD`
-* away `A/WAEU`
+* away `WA*EU`
 * at `AT`
 * pretty `PREUT`
 * pace. `PAEUS TP-PL`
@@ -338,7 +338,7 @@
 * yard, `KWRARD KW-BG`
 * heard `HAERD`
 * coming, `KO*G KW-BG`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * brook `PWRAOBG`
 * ran `RAPB`
 * close `KHROES`
@@ -492,12 +492,12 @@
 * ashes `ARBS`
 * eyes: `AO*EUS STPH-FPLT`
 * wash `WARB`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * splashed `SPHRARBD`
 * water `WAUR`
 * face; `TPAEUS STPH*FPLT`
 * tried `TRAOEUD`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * broke `PWROEBG`
 * pieces `PAOEFS`
 * towel `TOUL`

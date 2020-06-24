@@ -95,7 +95,7 @@
 * out. `OUT TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * galloped `TKPWAL/OP/-D`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * "Enemies `KR-GS KPA/EPB/PHEUS`
 * promises `PROPLS/-S`
 * were `WR`

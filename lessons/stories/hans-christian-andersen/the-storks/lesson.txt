@@ -209,7 +209,7 @@ The Storks
 '"Stork,': KR-GS KPA/STORBG KW-BG
 'stork,': STORBG KW-BG
 'fly': TPHRAOEU
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'Stand': KPA/STAPBD
 'not': TPHOT
 'on': OPB
@@ -571,7 +571,7 @@ The Storks
 'we': WE
 'shall': SHAL
 'fly': TPHRAOEU
-'away': A/WAEU
+'away': WA*EU
 'to': TO
 'warm': WARPL
 'countries': KUPBTS
@@ -1061,7 +1061,7 @@ The Storks
 'the': -T
 'young': KWRUPBG
 'stork,': STORBG KW-BG
-'jumping': SKWRUPL/-PG
+'jumping': SKWRUFRPG
 'out': OUT
 'on': OPB
 'the': -T
@@ -1131,7 +1131,7 @@ The Storks
 '"Stork,': KR-GS KPA/STORBG KW-BG
 'stork,': STORBG KW-BG
 'fly': TPHRAOEU
-'away."': A/WAEU TP-PL KR-GS
+'away."': WA*EU TP-PL KR-GS
 '"Shall': KR-GS KPA/SHAL
 'we': WE
 'fly': TPHRAOEU
@@ -1268,7 +1268,7 @@ The Storks
 'let': HRET
 'them': THEPL
 'scream': SKRAOEPL
-'away': A/WAEU
+'away': WA*EU
 'as': AZ
 'much': PHUFP
 'as': AZ
@@ -1365,7 +1365,7 @@ The Storks
 'was': WAS
 'a': AEU
 'little': HREUL
-'fellow': TPO*EUL
+'fellow': TP*EL
 'not': TPHOT
 'more': PHOR
 'than': THAPB
@@ -1551,7 +1551,7 @@ The Storks
 'lightly': HRAOEULT
 'and': SKP
 'prettily.': PRET/HREU TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'soon': SAOPB
 'as': AZ
 'the': -T

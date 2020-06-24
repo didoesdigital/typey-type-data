@@ -35,7 +35,7 @@ The Tinder-Box
 'now': TPHOU
 'returning': RURPBG
 'home.': HOEPL TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'he': HE
 'walked': WAUBGD
 'on,': OPB KW-BG
@@ -534,7 +534,7 @@ The Tinder-Box
 'blue': PWHRU
 'checked': KHEBGD
 'apron."': AEUP/ROPB TP-PL KR-GS
-'As': KPA/AZ
+'As': KPA/AS
 'soon': SAOPB
 'as': AZ
 'the': -T
@@ -549,7 +549,7 @@ The Tinder-Box
 'tree,': TRAOE KW-BG
 'and': SKP
 'let': HRET
-'himself': H*EUPLS
+'himself': HEUPLS
 'down': TKOUPB
 'through': THRU
 'the': -T
@@ -603,7 +603,7 @@ The Tinder-Box
 '"You're': KR-GS KPA/U AE R*/*E
 'a': AEU
 'pretty': PREUT
-'fellow,"': TPO*EUL KW-BG KR-GS
+'fellow,"': TP*EL KW-BG KR-GS
 'said': SED
 'the': -T
 'soldier,': SHRERPBLG KW-BG
@@ -709,7 +709,7 @@ The Tinder-Box
 'very': SRE
 'quickly': KWEULG
 'threw': THRAOU
-'away': A/WAEU
+'away': WA*EU
 'all': AUL
 'the': -T
 'coppers': KOP/ERS
@@ -850,7 +850,7 @@ The Tinder-Box
 'soldier': SHRERPBLG
 'now': TPHOU
 'threw': THRAOU
-'away': A/WAEU
+'away': WA*EU
 'all': AUL
 'the': -T
 'silver': SEUL/SRER
@@ -1229,7 +1229,7 @@ The Tinder-Box
 'but': PWUT
 'the': -T
 'king': KEUPBG
-'himself': H*EUPLS
+'himself': HEUPLS
 'can': K
 'pass': PAS
 'in': TPH
@@ -1342,7 +1342,7 @@ The Tinder-Box
 'was': WAS
 'a': AEU
 'fine': TPAOEUPB
-'fellow': TPO*EUL
+'fellow': TP*EL
 'and': SKP
 'a': AEU
 'real': RAEL
@@ -1366,7 +1366,7 @@ The Tinder-Box
 'spent': SPEPBT
 'and': SKP
 'gave': TKPWAEUF
-'away': A/WAEU
+'away': WA*EU
 'a': AEU
 'great': TKPWRAET
 'deal': TKAOEL
@@ -1376,7 +1376,7 @@ The Tinder-Box
 'none,': TPHOPB KW-BG
 'he': HE
 'found': TPOUPBD
-'himself': H*EUPLS
+'himself': HEUPLS
 'at': AT
 'last': HRAFT
 'with': W
@@ -1695,7 +1695,7 @@ The Tinder-Box
 'thought': THAUT
 'he': HE
 'to': TO
-'himself;': H*EUPLS STPH*FPLT
+'himself;': HEUPLS STPH*FPLT
 '"but': KR-GS PWUT
 'what': WHA
 'is': S
@@ -2150,7 +2150,7 @@ The Tinder-Box
 'another!"': TPHOER SKHRAPL KR-GS
 'they': THE
 'all': AUL
-'exclaimed;': SKHRAEUPL/-D STPH*FPLT
+'exclaimed;': SKHRAEUPLD STPH*FPLT
 'for': TPOR
 'there': THR
 'were': WR
@@ -2168,7 +2168,7 @@ The Tinder-Box
 'it': T
 'would': WO
 'be': -B
-'useless': AOUS/-LS
+'useless': AOUFLS
 'to': TO
 'search': SEFRPB
 'any': TPHEU

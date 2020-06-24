@@ -358,7 +358,7 @@
 * bear's `PWAER AES`
 * hide `HAOEUD`
 * clean; `KHRAOEPB STPH*FPLT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * growled `TKPWROULD`
 * contentedly `KAUPBT/-D/HREU`
 * comfortably. `KAEBL TP-PL`
@@ -402,7 +402,7 @@
 * cold `KOELD`
 * bad `PWAD`
 * weather.' `WHR* TP-PL AE`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * day `TKAEU`
 * dawned `TKAUPBD`
@@ -427,7 +427,7 @@
 * Snow-white: `KPA/STPHOE H-PB WHAOEUT STPH-FPLT`
 * 'Now `AE KPA/TPHOU`
 * go `TKPW`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * cannot `K/TPHOT`
 * for `TPOR`
 * whole `WHOEL`
@@ -487,7 +487,7 @@
 * seen `SAOEPB`
 * gold `TKPWOELD`
 * sure `SHUR`
-* away `A/WAEU`
+* away `WA*EU`
 * quickly, `KWEULG KW-BG`
 * sight `SAOEUT`
 * trees. `TRAOES TP-PL`
@@ -504,7 +504,7 @@
 * ground, `TKPWROUPBD KW-BG`
 * trunk `TRUPBG`
 * something `S-G`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * backwards `PWABG/WARDZ`
 * forwards `TPAORDZ`
 * grass, `TKPWRAS KW-BG`
@@ -524,7 +524,7 @@
 * end `EPBD`
 * crevice `KREFS`
 * tree, `TRAOE KW-BG`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * dog `TKOG`
 * tied `TAO*EUD`
 * rope, `ROEP KW-BG`
@@ -621,7 +621,7 @@
 * lifted `HREUFTD`
 * up, `UP KW-BG`
 * grumbling `TKPWRUPL/-BLG`
-* himself: `H*EUPLS STPH-FPLT`
+* himself: `HEUPLS STPH-FPLT`
 * 'Uncouth `AE KPA/UPB/KAO*UT`
 * people, `PAOEPL KW-BG`
 * fine `TPAOEUPB`
@@ -745,7 +745,7 @@
 * last `HRAFT`
 * settled `SELTD`
 * far `TPAR`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Immediately `KPA/PHAOELD`
 * heard `HAERD`
 * loud, `HROUD KW-BG`

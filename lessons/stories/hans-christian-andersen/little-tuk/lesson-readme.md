@@ -15,7 +15,7 @@
 * name; `TPHAEUPL STPH*FPLT`
 * he `HE`
 * had `H`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * so `SO`
 * before `PW-FR`
 * could `KO`
@@ -48,7 +48,7 @@
 * much `PHUFP`
 * younger `KWRURPBG`
 * than `THAPB`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * learn `HRERPB`
 * lessons `HROEFPBS`
 * the `-T`
@@ -278,7 +278,7 @@
 * horseback. `HORS/PWA*BG TP-PL`
 * Gallop, `KPA/TKPWAL/OP KW-BG`
 * gallop, `TKPWAL/OP KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * went, `WEPBT KW-BG`
 * seated `SAOETD`
 * front `TPROPBT`
@@ -633,7 +633,7 @@
 * grave `TKPWRAEUF`
 * peacefully, `PAES/TPHREU KW-BG`
 * as—" `AZ EPL/TKA*RB KR-GS`
-* "As `KR-GS KPA/AZ`
+* "As `KR-GS KPA/AS`
 * Soroe," `xxx Soroe KW-BG KR-GS`
 * awaking. `A/WAEUBG/-G TP-PL`
 * bright `PWRAOEUT`

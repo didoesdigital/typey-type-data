@@ -348,7 +348,7 @@
 * read." `RAED TP-PL KR-GS`
 * And `AFPBD`
 * seated `SAOETD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * bedside, `PWED/SAOEUD KW-BG`
 * read `RAED`
 * Him `KPA/HEUPL`

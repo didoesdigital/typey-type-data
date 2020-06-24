@@ -121,7 +121,7 @@
 * shut `SHUT`
 * up--he `UP H-PB H-PB HE`
 * running `R*UPBG`
-* away `A/WAEU`
+* away `WA*EU`
 * steak; `STAEBG STPH*FPLT`
 * that's `THATS`
 * thought `THAUT`
@@ -139,7 +139,7 @@
 * making `PHAEUG`
 * off `OF`
 * it. `T TP-PL`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * across `A/KROS`
 * field: `TPAOELD STPH-FPLT`
 * but `PWUT`
@@ -292,7 +292,7 @@
 * told `TOLD`
 * before.' `PW-FR TP-PL AE`
 * husband `HUS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'If `AE KPA/TP`
 * my `PHEU`
 * manages `PHAPBGZ`
@@ -321,7 +321,7 @@
 * them.' `THEPL TP-PL AE`
 * 'No, `AE KPA/TPHO KW-BG`
 * will.' `HR TP-PL AE`
-* As `KPA/AZ`
+* As `KPA/AS`
 * some `SOPL`
 * pedlars `xxx pedlars`
 * earthenware `*ERT/*EPB/WA*EUR`
@@ -361,7 +361,7 @@
 * went: `WEPBT STPH-FPLT`
 * found `TPOUPBD`
 * were, `WR KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * plenty `PHREPBT`
 * dishes. `TKEURBS TP-PL`
 * house `HOUS`
@@ -512,7 +512,7 @@
 * locked `HROBGD`
 * door `TKAOR`
 * safe `SAEUF`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * 'No,' `AE KPA/TPHO KW-BG AE`
 * 'you `AE U`
 * 'Then `AE KPA/THEPB`

@@ -38,7 +38,7 @@ The Ridiculous Wishes
 'when': WHEPB
 'he': HE
 'wished': WEURBD
-'himself': H*EUPLS
+'himself': HEUPLS
 'dead': TKED
 'and': SKP
 'below': PWHRO
@@ -98,7 +98,7 @@ The Ridiculous Wishes
 'such': SUFP
 'as': AZ
 'I."': EU TP-PL KR-GS
-'As': KPA/AZ
+'As': KPA/AS
 'he': HE
 'spoke': SPOEBG
 'these': THEZ
@@ -128,7 +128,7 @@ The Ridiculous Wishes
 'fear': TPAOER
 'and': SKP
 'threw': THRAOU
-'himself': H*EUPLS
+'himself': HEUPLS
 'on': OPB
 'the': -T
 'ground.': TKPWROUPBD TP-PL
@@ -232,14 +232,14 @@ The Ridiculous Wishes
 'spoken': SPOEPB
 'Jupiter': SKWRAOUP/TER
 'withdrew': WRAOU
-'himself': H*EUPLS
+'himself': HEUPLS
 'and': SKP
 'made': PHAED
 'his': HEUS
 'ascent': A/SKREPBT
 'to': TO
 'Olympus.': O/HREUPL/PUS TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'for': TPOR
 'our': OUR
 'woodcutter,': WAOD/KUT/*ER KW-BG
@@ -533,7 +533,7 @@ The Ridiculous Wishes
 'and': SKP
 'then': THEPB
 'again': TKPWEPB
-'exclaimed': SKHRAEUPL/-D
+'exclaimed': SKHRAEUPLD
 'in': TPH
 'dismay,': TKEUS/PHAEU KW-BG
 'when': WHEPB
@@ -686,7 +686,7 @@ The Ridiculous Wishes
 'bid': PWEUD
 'and': SKP
 'wished': WEURBD
-'himself': H*EUPLS
+'himself': HEUPLS
 'a': AEU
 'widower.': WEUD/OER TP-PL
 '"Enough!': KR-GS KPA/TPHUF SKHRAPL
@@ -843,7 +843,7 @@ The Ridiculous Wishes
 'befall,': PWE/TPAUL KW-BG
 'to': TO
 'wish': WEURB
-'himself': H*EUPLS
+'himself': HEUPLS
 'a': AEU
 'kingdom': KEUPBG/TKOPL
 'of': -F
@@ -870,7 +870,7 @@ The Ridiculous Wishes
 'he': HE
 'said': SED
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 '"that': KR-GS THA
 'there': THR
 'is': S

@@ -92,7 +92,7 @@
 * river; `REUFR STPH*FPLT`
 * before `PW-FR`
 * swam `SWAPL`
-* away `A/WAEU`
+* away `WA*EU`
 * lifted `HREUFTD`
 * its `EUTS`
 * head `HED`

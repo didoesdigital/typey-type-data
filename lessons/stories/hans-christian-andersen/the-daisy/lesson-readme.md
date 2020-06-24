@@ -277,7 +277,7 @@
 * surely `SHURL`
 * witnessed `W-PBS/-D`
 * pleasure `PHRERB`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * done `TKOPB`
 * understood `*URPBD`
 * joy. `SKWROEU TP-PL`
@@ -323,7 +323,7 @@
 * are `R`
 * for." `TPOR TP-PL KR-GS`
 * carried `KAERD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * outside, `OUDZ KW-BG`
 * small `SPHAL`
 * flower—it `TPHRO*UR EPL/TKA*RB T`

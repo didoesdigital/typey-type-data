@@ -1,6 +1,6 @@
 # The Salad
 
-* As `KPA/AZ`
+* As `KPA/AS`
 * a `AEU`
 * merry `PHER/REU`
 * young `KWRUPBG`
@@ -133,7 +133,7 @@
 * luck.' `HRUBG TP-PL AE`
 * thanked `THAPBGD`
 * thought `THAUT`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'If `AE KPA/TP`
 * all `AUL`
 * does `TKOS`
@@ -171,7 +171,7 @@
 * if `TP`
 * wished `WEURBD`
 * have `SR`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * 'Well,' `AE KPA/WEL KW-BG AE`
 * huntsman, `HUPBTS/PHA*PB KW-BG`
 * 'this `AE TH`
@@ -190,7 +190,7 @@
 * Off `KPA/OF`
 * went `WEPBT`
 * chattering `KHAT/ERG`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * fell `TPEL`
 * dead, `TKED KW-BG`
 * it. `T TP-PL`
@@ -266,7 +266,7 @@
 * we `WE`
 * must `PHUFT`
 * get `TKPWET`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * dear `TKAER`
 * child, `KHAOEULD KW-BG`
@@ -315,7 +315,7 @@
 * heart.' `HART TP-PL AE`
 * So `KPA/SO`
 * stole `STOEL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * never `TPHEFR`
 * found `TPOUPBD`
 * now `TPHOU`
@@ -439,7 +439,7 @@
 * myself `PHAO*EUS`
 * feigning `TPAEUPBG`
 * asleep'; `A/SHRAOEP AE STPH*FPLT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * sound `SOUPBD`
 * sleep. `SHRAOEP TP-PL`
 * first `TPEUFRT`
@@ -467,7 +467,7 @@
 * cloud `KHROUD`
 * rolling `ROLG`
 * carry `KAER`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * And `AFPBD`
 * passed `PAFD`
 * on. `OPB TP-PL`
@@ -636,7 +636,7 @@
 * leaves, `HREFS KW-BG`
 * saying, `SAEUG KW-BG`
 * others `OERS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * washed `WARBD`
 * might `PHAOEUT`
 * paid `PAEUD`

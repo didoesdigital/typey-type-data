@@ -231,7 +231,7 @@
 * stories `STOERS`
 * could `KO`
 * tell! `TEL SKHRAPL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * boy `PWOEU`
 * he `HE`
 * seen `SAOEPB`
@@ -389,7 +389,7 @@
 * day `TKAEU`
 * through `THRU`
 * tire `TAOEUR`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * looking `HRAOG`
 * pictures; `P*EUFPS STPH*FPLT`
 * know `TPHOE`
@@ -411,7 +411,7 @@
 * town. `TOUPB TP-PL`
 * told `TOLD`
 * me `PHE`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * hadn't `H-PBT`
 * "a `KR-GS AEU`
 * rogue `ROEG`
@@ -506,7 +506,7 @@
 * barber's `PWARB/ER AES`
 * brazen `PWRAEZ/-PB`
 * dish, `TKEURB KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * hurled `HURLD`
 * straight `STRAEUT`
 * embrasure `EPL/PWRAEUS/AOUR`
@@ -559,7 +559,7 @@
 * likewise `HRAOEUBG/WAOEUS`
 * opinion. `P-PB TP-PL`
 * house, `HOUS KW-BG`
-* perched, `PER/-FPD KW-BG`
+* perched, `PEFRPBD KW-BG`
 * picture `P*EUFP`
 * malice—so `PHAL/EUS EPL/TKA*RB SO`
 * neighbors `TPHAEUBS`

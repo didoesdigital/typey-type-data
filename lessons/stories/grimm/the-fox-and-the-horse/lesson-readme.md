@@ -194,7 +194,7 @@
 * pleased `PHRAOEFD`
 * lion, `HRO*EUPB KW-BG`
 * laid `HRAEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * quietly `KWAO*EULT`
 * horse. `HORS TP-PL`
 * But `KPA/PWUT`
@@ -228,7 +228,7 @@
 * birds `PWEURDZ`
 * wood `WAOD`
 * flew `TPHRAOU`
-* away `A/WAEU`
+* away `WA*EU`
 * fright; `TPRAOEUT STPH*FPLT`
 * let `HRET`
 * sing `SEUPBG`

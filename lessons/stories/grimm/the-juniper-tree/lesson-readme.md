@@ -471,7 +471,7 @@
 * there, `THR KW-BG`
 * told `TOLD`
 * should `SHO`
-* away `A/WAEU`
+* away `WA*EU`
 * quite `KWAOEUT`
 * six `SEUBGS`
 * weeks; `WAOEBGS STPH*FPLT`
@@ -607,7 +607,7 @@
 * right `RAOEUT`
 * claw, `KHRAU KW-BG`
 * sang: `SAPBG STPH-FPLT`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * settled `SELTD`
 * roof `RAOF`
 * shoemaker's `SHAOU/PHA*EURBG AES`
@@ -616,7 +616,7 @@
 * shirt-sleeves, `SHEURT H-PB SHRAOEFS KW-BG`
 * hand `HAPBD`
 * eyes `AO*EUS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * blinded `PWHRAOEUPBD/-D`
 * sun. `SUPB TP-PL`
 * sing!' `SEUPBG SKHRAPL AE`
@@ -665,7 +665,7 @@
 * shoes `SHAOUS`
 * When `KPA/WHEPB`
 * finished, `TP*EURBD KW-BG`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * claw `KHRAU`
 * left, `HREFT KW-BG`
 * mill, `PHEUL KW-BG`
@@ -789,7 +789,7 @@
 * 'See, `AE KPA/SAOE KW-BG`
 * is; `S STPH*FPLT`
 * given `TKPWEUFPB`
-* himself.' `H*EUPLS TP-PL AE`
+* himself.' `HEUPLS TP-PL AE`
 * such `SUFP`
 * trouble, `TRUBL KW-BG`
 * floor, `TPHRAOR KW-BG`
@@ -810,7 +810,7 @@
 * them. `THEPL TP-PL`
 * miserable,' `PHEUZ/-BL KW-BG AE`
 * 'when `AE WHEPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * indeed `TPHAOEPBD`
 * shoes.' `SHAOUS TP-PL AE`
 * sprang `SPRAPBG`

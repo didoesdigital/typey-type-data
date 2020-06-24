@@ -18,7 +18,7 @@
 * garden `TKPWA*RPB`
 * of `-F`
 * heaven. `HEFPB TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * he `HE`
 * was `WAS`
 * kissing `KEUFG`
@@ -130,7 +130,7 @@
 * professor `PROEFR`
 * botany `PWOT/TPHEU`
 * presented `PREPBTD`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * who `WHO`
 * could `KO`
 * explain `SPHRAEUPB`
@@ -387,7 +387,7 @@
 * useful `AOUFL`
 * any," `TPHEU KW-BG KR-GS`
 * said; `SED STPH*FPLT`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Not `KPA/TPHOT`
 * long `HROPBG`
 * after, `AF KW-BG`
@@ -435,7 +435,7 @@
 * am `APL`
 * afraid `A/TPRAEUD`
 * I `EU`
-* away `A/WAEU`
+* away `WA*EU`
 * my `PHEU`
 * bundle, `PWUPBLD KW-BG`
 * has `HAS`
@@ -489,7 +489,7 @@
 * gold, `TKPWOELD KW-BG`
 * improved `EUPL/PROFD`
 * position `POGS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * family. `TPAEPL TP-PL`
 * part `PART`
 * really `R-L`

@@ -423,8 +423,8 @@
 * eyes, `AO*EUS KW-BG`
 * Lady `KPA/HRA*ED`
 * driven `TKREUFPB`
-* away, `A/WAEU KW-BG`
-* away `A/WAEU`
+* away, `WA*EU KW-BG`
+* away `WA*EU`
 * too," `TAO KW-BG KR-GS`
 * whir-r-r-! `WHEUR H-PB R* H-PB R* H-PB SKHRAPL`
 * returned `RURPBD`
@@ -579,7 +579,7 @@
 * building `PW-LG`
 * ship `SHEUP`
 * father, `TPAER KW-BG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * air, `AEUR KW-BG`
 * Ida `xxx Ida`
 * live `HREUF`
@@ -724,7 +724,7 @@
 * passing `PAFG`
 * even `AOEPB`
 * pass `PAS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * drifts `TKREUFTS`
 * onwards, `OPB/WARDZ KW-BG`
 * apple-blossoms `A*EPL H-PB PWHROS/SOPL/-S`
@@ -1170,7 +1170,7 @@
 * lifted `HREUFTD`
 * trembling `TREPL/-BLG`
 * hand, `HAPBD KW-BG`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * agitation, `APBLG/TAEUGS KW-BG`
 * 'Gold! `AE KPA/TKPWOELD SKHRAPL`
 * gold!' `TKPWOELD SKHRAPL AE`
@@ -1235,7 +1235,7 @@
 * taking `TAEUG`
 * Daa's, `xxx Daa AE S* KW-BG`
 * Borreby. `xxx Borreby TP-PL`
-* enemy, `EPB/PHEU KW-BG`
+* enemy, `TPHAEPL KW-BG`
 * Owe `KPA/OE`
 * Ramel, `xxx Ramel KW-BG`
 * Basnas, `xxx Basnas KW-BG`
@@ -1322,8 +1322,8 @@
 * 'Whir-r-r, `AE KPA/WHEUR H-PB R* H-PB R* KW-BG`
 * whir-r-r. `WHEUR H-PB R* H-PB R* TP-PL`
 * Gone `KPA/TKPWOPB`
-* away! `A/WAEU SKHRAPL`
-* away!' `A/WAEU SKHRAPL AE`
+* away! `WA*EU SKHRAPL`
+* away!' `WA*EU SKHRAPL AE`
 * walked `WAUBGD`
 * side `SAOEUD`
 * other; `OER STPH*FPLT`
@@ -1385,7 +1385,7 @@
 * broad `PWRAOD`
 * lands, `HRAPBDZ KW-BG`
 * whir-r-r! `WHEUR H-PB R* H-PB R* SKHRAPL`
-* Away, `KPA/A/WAEU KW-BG`
+* Away, `KPA/WA*EU KW-BG`
 * year `KWRAOER`
 * after `AF`
 * year." `KWRAOER TP-PL KR-GS`
@@ -1430,7 +1430,7 @@
 * lichen. `HREUFP/-PB TP-PL`
 * condition; `K-PB STPH*FPLT`
 * order `ORD`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * That `KPA/THA`
 * touched," `TUFPD KW-BG KR-GS`
 * "For `KR-GS KPA/TPOR`
@@ -1438,7 +1438,7 @@
 * blot `PWHROT`
 * landscape. `HRAPB/SKAEUP TP-PL`
 * drive `TKRAOEUF`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * shed `SHED`
 * standing, `STAPBG KW-BG`
 * woman `WOPL`

@@ -13,7 +13,7 @@
 * an `APB`
 * armourer's `AR/PHOUR/*ER/AES`
 * shop. `SHOP TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * he `HE`
 * glided `TKPWHRAOEUD/-D`
 * over `OEFR`
@@ -52,6 +52,6 @@
 * wrath. `WRA*T TP-PL`
 * It `KPA/T`
 * is `S`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * attacking `A/TABG/-G`
 * insensible. `EUPB/SEPBS/-BL TP-PL`

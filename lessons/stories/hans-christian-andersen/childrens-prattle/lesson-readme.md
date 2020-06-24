@@ -41,7 +41,7 @@
 * dealer, `TKAOERL KW-BG`
 * but `PWUT`
 * always `AULS`
-* honest `HO*PBS`
+* honest `HOPBS`
 * industrious, `STREUS KW-BG`
 * so `SO`
 * that `THA`
@@ -203,7 +203,7 @@
 * worth `WO*RT`
 * bonbons, `xxx bonbons KW-BG`
 * give `TKPWEUF`
-* away `A/WAEU`
+* away `WA*EU`
 * children. `KHEURPB TP-PL`
 * Can `KPA/K`
 * your `KWROUR`

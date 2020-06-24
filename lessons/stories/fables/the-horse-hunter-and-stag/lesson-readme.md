@@ -58,7 +58,7 @@
 * we `WE`
 * follow `TPOL`
 * after `AF`
-* enemy." `EPB/PHEU TP-PL KR-GS`
+* enemy." `TPHAEPL TP-PL KR-GS`
 * agreed `TKPWRAED`
 * conditions, `K-PBS KW-BG`
 * soon `SAOPB`

@@ -83,7 +83,7 @@
 * on `OPB`
 * time, `TAOEUPL KW-BG`
 * servant, `SEFRB/APBT KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * dish, `TKEURB KW-BG`
 * overcome `AUFR/KOPL`
 * with `W`
@@ -108,7 +108,7 @@
 * snake `STPHAEUBG`
 * lying `HRAOEUG`
 * deny `TKOEUPB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * pleasure `PHRERB`
 * tasting `TAEUFT/-G`
 * so `SO`
@@ -423,7 +423,7 @@
 * lie `HRAOEU`
 * here `HAOER`
 * starve?' `STAFRB H-F AE`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * alighted `A/HRAOEUT/-D`
 * killed `KEULD`
 * sword, `SOERD KW-BG`
@@ -491,7 +491,7 @@
 * grieved `TKPWRAOEF/-D`
 * handsome `HAPBD/SOPL`
 * youth; `KWRAO*UT STPH*FPLT`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * leaving `HREFG`
 * alone `A/HROEPB`
 * sea. `SAE TP-PL`
@@ -614,7 +614,7 @@
 * At `KPA/AT`
 * same `SAEUPL`
 * flew `TPHRAOU`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * themselves `TH*EPLS`
 * knee, `TPHAOE KW-BG`
 * whom `WHOPL`

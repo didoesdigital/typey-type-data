@@ -72,7 +72,7 @@
 * see." `SAOE TP-PL KR-GS`
 * So `KPA/SO`
 * blew `PWHRAOU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * out, `OUT KW-BG`
 * out. `OUT TP-PL`
 * "Was `KR-GS KPA/WAS`

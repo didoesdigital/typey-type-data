@@ -9,7 +9,7 @@
 * too `TAO`
 * near `TPHAOER`
 * the `-T`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * and `SKP`
 * was `WAS`
 * captured `KA*FPD`

@@ -174,7 +174,7 @@
 * seat `SAOET`
 * they `THE`
 * all `AUL`
-* away `A/WAEU`
+* away `WA*EU`
 * together. `TOGT TP-PL`
 * came `KAEUPL`
 * nobleman's `TPHOEBL/PHA*PB AES`
@@ -188,7 +188,7 @@
 * too,' `TAO KW-BG AE`
 * he, `HE KW-BG`
 * seated `SAOETD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * her `HER`
 * table. `TAEUBL TP-PL`
 * And `AFPBD`
@@ -254,7 +254,7 @@
 * cover. `KOFR TP-PL`
 * Actually, `KPA/TAOULT KW-BG`
 * there `THR`
-* crabs. `KRAB/-S TP-PL`
+* crabs. `KRABS TP-PL`
 * looked `HRAOBGD`
 * idea `KWR-D`
 * say, `SAEU KW-BG`
@@ -321,7 +321,7 @@
 * backwards `PWABG/WARDZ`
 * forwards, `TPAORDZ KW-BG`
 * cock. `KOBG TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * find `TPAOEUPBD`
 * immediately `PHAOELD`
 * 'I `AE EU`
@@ -331,7 +331,7 @@
 * better `PWOERT`
 * come `KOPL`
 * out!' `OUT SKHRAPL AE`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * meant `PHEPBT`
 * full `TPUL`
 * terror, `TER/O*R KW-BG`

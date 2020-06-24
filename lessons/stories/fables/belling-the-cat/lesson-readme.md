@@ -18,7 +18,7 @@
 * outwit `AOUT/WEUT`
 * their `THAEUR`
 * common `KPHOPB`
-* enemy, `EPB/PHEU KW-BG`
+* enemy, `TPHAEPL KW-BG`
 * Cat. `KPA/KAT TP-PL`
 * Some `KPA/SOPL`
 * said `SED`
@@ -55,7 +55,7 @@
 * sly `SHRAOEU`
 * treacherous `TREFP/ROUS`
 * manner `PHAERPB`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * approaches `A/PROEFPS`
 * us. `US TP-PL`
 * Now, `KPA/TPHOU KW-BG`

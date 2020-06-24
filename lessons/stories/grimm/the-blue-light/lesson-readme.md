@@ -66,7 +66,7 @@
 * earn `ERPB`
 * living, `HREUFG KW-BG`
 * went `WEPBT`
-* away `A/WAEU`
+* away `WA*EU`
 * greatly `TKPWRAELT`
 * troubled, `TRUBLD KW-BG`
 * walked `WAUBGD`
@@ -106,7 +106,7 @@
 * 'who `AE WHO`
 * gives `TKPWEUFS`
 * anything `TPHEUG`
-* run-away `RUPB H-PB A/WAEU`
+* run-away `RUPB H-PB WA*EU`
 * soldier? `SHRERPBLG H-F`
 * Yet `KPA/KWRET`
 * be `-B`
@@ -229,7 +229,7 @@
 * passion, `PAGS KW-BG`
 * fall `TPAUL`
 * again `TKPWEPB`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * poor `PAOR`
 * without `WOUT`
 * injury `SKWRAOUR`
@@ -365,7 +365,7 @@
 * best `PWEFT`
 * inn, `TPH*PB KW-BG`
 * ordered `ORD/-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * handsome `HAPBD/SOPL`
 * clothes, `KHRO*ETS KW-BG`
 * bade `PWAEUD`
@@ -550,7 +550,7 @@
 * you,' `U KW-BG AE`
 * third `THEURD`
 * obliged `OE/PWHRAOEUPBLGD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * hid `HEUD`
 * under `TPH-PB`
 * entire `SPWAOEUR`
@@ -558,7 +558,7 @@
 * daughter's `TKAUR/AES`
 * shoe. `SHAOU TP-PL`
 * soldier's, `SHRERPBLG AE S* KW-BG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * entreaty `SPWRAOE/TEU`
 * gone `TKPWOPB`
 * outside `OUDZ`
@@ -598,7 +598,7 @@
 * ran `RAPB`
 * thither `TH*EURT`
 * wanted. `WAPBTD TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * alone `A/HROEPB`
 * lighted `HRAOEUT/-D`
 * manikin. `xxx manikin TP-PL`

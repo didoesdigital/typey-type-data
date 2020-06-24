@@ -31,7 +31,7 @@
 * across `A/KROS`
 * running `R*UPBG`
 * brook. `PWRAOBG TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * crossed, `KROFD KW-BG`
 * looked `HRAOBGD`
 * down `TKOUPB`

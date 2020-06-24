@@ -60,7 +60,7 @@
 * beast `PWAOEFT`
 * out `OUT`
 * of `-F`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * gets `TKPWETS`
 * rid `REUD`
 * pain `PAEUPB`

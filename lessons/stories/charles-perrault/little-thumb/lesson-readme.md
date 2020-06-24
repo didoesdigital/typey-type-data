@@ -186,7 +186,7 @@
 * up `UP`
 * faggots, `TPAGT/-S KW-BG`
 * run `RUPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * leave `HREF`
 * them, `THEPL KW-BG`
 * without `WOUT`
@@ -243,7 +243,7 @@
 * got `TKPWOT`
 * softly `SOFT/HREU`
 * hid `HEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * under `TPH-PB`
 * father's `TPAER/AES`
 * stool, `STOL KW-BG`
@@ -298,7 +298,7 @@
 * from `TPR`
 * degrees, `TKEGS KW-BG`
 * ran `RAPB`
-* away `A/WAEU`
+* away `WA*EU`
 * once, `WUPBS KW-BG`
 * by-way, `PWEU H-PB WAEU KW-BG`
 * thro' `xxx thro AE`
@@ -364,7 +364,7 @@
 * famished. `TPAPL/EURB/-D TP-PL`
 * immediately `PHAOELD`
 * butcher's. `PWUFP/ER AE S* TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * since `SEUPBS`
 * eaten `AOET/EPB`
 * bit, `PWEUT KW-BG`
@@ -942,7 +942,7 @@
 * killed, `KEULD KW-BG`
 * weltering `WEL/TER/-G`
 * fainted `TPAEUPBT/-D`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * first `TPEUFRT`
 * expedient `EBGS/PAOED/KWREPBT`
 * women `WEUPL`
@@ -991,7 +991,7 @@
 * place `PHRAEUS`
 * hide `HAOEUD`
 * crowded `KROUD/-D`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * minding `PHAOEUPBD/-G`
 * become `PW-BG`
 * Ogre. `KPA/OERG TP-PL`

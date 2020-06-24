@@ -29,7 +29,7 @@
 * little `HREUL`
 * town `TOUPB`
 * Marbach. `xxx Marbach TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * is `S`
 * often `OFPB`
 * case `KAEUS`
@@ -302,7 +302,7 @@
 * two `TWO`
 * older `OERLD`
 * than `THAPB`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * wept `WEPT`
 * scalding `SKALD/-G`
 * tears `TAERS`
@@ -319,7 +319,7 @@
 * little, `HREUL KW-BG`
 * far `TPAR`
 * enough `TPHUF`
-* away `A/WAEU`
+* away `WA*EU`
 * forgotten. `TPORGTD TP-PL`
 * house, `HOUS KW-BG`
 * pointed `POEUPBTD`
@@ -402,7 +402,7 @@
 * head `HED`
 * it, `T KW-BG`
 * thrown `THROEPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * cracked `KRABGD`
 * was, `WAS KW-BG`
 * standing `STAPBG`

@@ -95,7 +95,7 @@
 * dares `TKAEURS`
 * take `TAEUBG`
 * anything `TPHEUG`
-* away `A/WAEU`
+* away `WA*EU`
 * there. `THR TP-PL`
 * We `KPA/WE`
 * set `SET`

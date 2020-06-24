@@ -49,7 +49,7 @@
 * pecked `PEBGD`
 * at `AT`
 * plucked `PHRUBGD`
-* away `A/WAEU`
+* away `WA*EU`
 * borrowed `PWO*ERD`
 * plumes. `PHRAOUPL/-S TP-PL`
 * So `KPA/SO`

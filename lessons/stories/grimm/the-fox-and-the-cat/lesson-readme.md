@@ -137,7 +137,7 @@
 * teach `TAOEFP`
 * people `PAOEPL`
 * get `TKPWET`
-* away `A/WAEU`
+* away `WA*EU`
 * hounds.' `HOUPBDZ TP-PL AE`
 * Just `KPA/SKWRUFT`
 * then `THEPB`

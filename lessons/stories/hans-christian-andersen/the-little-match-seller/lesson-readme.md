@@ -79,7 +79,7 @@
 * upon `POPB`
 * other `OER`
 * ran `RAPB`
-* away `A/WAEU`
+* away `WA*EU`
 * it, `T KW-BG`
 * saying `SAEUG`
 * he `HE`

@@ -341,7 +341,7 @@
 * something `S-G`
 * him. `HEUPL TP-PL`
 * raised `RA*EUFD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * bed `PWED`
 * stretched `STREFPD`
 * arms `ARPLS`
@@ -410,7 +410,7 @@
 * cock `KOBG`
 * crows `KROE/-S`
 * found!" `TPOUPBD SKHRAPL KR-GS`
-* As `KPA/AZ`
+* As `KPA/AS`
 * quickly `KWEULG`
 * carried `KAERD`
 * by `PWEU`
@@ -550,7 +550,7 @@
 * madness—besieged `PHAD/-PBS EPL/TKA*RB PWE/SAOEPBLG/-D`
 * fear `TPAOER`
 * dreams!" `TKRAOEPLS SKHRAPL KR-GS`
-* away `A/WAEU`
+* away `WA*EU`
 * came `KAEUPL`
 * beds `PWEDZ`
 * criminals; `KR-LS STPH*FPLT`

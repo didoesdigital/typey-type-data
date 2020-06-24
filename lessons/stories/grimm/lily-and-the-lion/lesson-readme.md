@@ -152,7 +152,7 @@
 * bed `PWED`
 * that `THA`
 * there, `THR KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * flowers. `TPHRO*URS TP-PL`
 * done, `TKOPB KW-BG`
 * they `THE`
@@ -319,7 +319,7 @@
 * left `HREFT`
 * bride, `PWRAOEUD KW-BG`
 * by `PWEU`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * whither, `WHEU/THER KW-BG`
 * till `TEUL`
 * night `TPHAOEUT`
@@ -528,7 +528,7 @@
 * Red `KPA/RED`
 * Sea, `KPA/SAE KW-BG`
 * are `R`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * fighting `TPAOEUGT`
 * dragon; `TKRAG/O*PB STPH*FPLT`
 * dragon `TKRAG/O*PB`
@@ -618,7 +618,7 @@
 * again `TKPWEPB`
 * forsaken `TPAUR/SA*EUPB`
 * forlorn; `TPAUR/HRORPB STPH*FPLT`
-* 'As `AE KPA/AZ`
+* 'As `AE KPA/AS`
 * blows, `PWHROES KW-BG`
 * cock `KOBG`
 * crows, `KROE/-S KW-BG`

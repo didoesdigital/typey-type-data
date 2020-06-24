@@ -138,7 +138,7 @@
 * nights `TPHAOEUTS`
 * he `HE`
 * shows `SHOES`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * He `KPA/HE`
 * very `SRE`
 * old. `OLD TP-PL`
@@ -188,7 +188,7 @@
 * evening, `AOEPBG KW-BG`
 * setting, `SEGT KW-BG`
 * swinging `SWEUPBG/-G`
-* away `A/WAEU`
+* away `WA*EU`
 * bravely, `PWRAEUFL KW-BG`
 * it `T`
 * broke `PWROEBG`
@@ -411,7 +411,7 @@
 * him `HEUPL`
 * Canute. `xxx Canute TP-PL`
 * bowed `PWOE/-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * bishop `PWEURB/OP`
 * monk; `PHO*PBG STPH*FPLT`
 * offended `OE/TPEPBD/-D`

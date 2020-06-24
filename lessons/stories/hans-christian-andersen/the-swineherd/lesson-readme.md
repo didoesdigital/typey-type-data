@@ -159,7 +159,7 @@
 * nicely `TPHAOEULS`
 * is `S`
 * made," `PHAED KW-BG KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * ladies. `HRAEUDZ TP-PL`
 * "It `KR-GS KPA/T`
 * more `PHOR`
@@ -358,7 +358,7 @@
 * finger. `TPEURPBG TP-PL`
 * "That `KR-GS KPA/THA`
 * know," `TPHOE KW-BG KR-GS`
-* exclaimed. `SKHRAEUPL/-D TP-PL`
+* exclaimed. `SKHRAEUPLD TP-PL`
 * "He `KR-GS KPA/HE`
 * must `PHUFT`
 * well-educated `W*EL TAEUBGTD`
@@ -551,7 +551,7 @@
 * notice `TPH-TS`
 * emperor. `EPL/ROR TP-PL`
 * raised `RA*EUFD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * tiptoe. `TEUP/TOE TP-PL`
 * does `TKOS`
 * this `TH`
@@ -595,7 +595,7 @@
 * now `TPHOU`
 * learnt `HRERPBT`
 * despise `STKPAOEUZ`
-* honest `HO*PBS`
+* honest `HOPBS`
 * appreciate `PRAOERB`
 * nightingale; `TPHAOEUT/-G/TKPWAEL STPH*FPLT`
 * mind `PHAOEUPBD`

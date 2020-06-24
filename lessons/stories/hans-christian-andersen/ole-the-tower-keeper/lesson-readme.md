@@ -55,7 +55,7 @@
 * tower-keeper, `TOUR H-PB KAOEP/*ER KW-BG`
 * strange, `STRAEUPBG KW-BG`
 * talkative `TAUBG/TEUF`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * who `WHO`
 * seemed `SAOEPLD`
 * speak `SPAOEBG`
@@ -174,7 +174,7 @@
 * found `TPOUPBD`
 * together. `TOGT TP-PL`
 * betook `PWE/TAOBG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * thither, `TH*EURT KW-BG`
 * smoked `SPHOEBGD`
 * pipe `PAOEUP`
@@ -190,7 +190,7 @@
 * way `WAEU`
 * read `RAED`
 * books `PWAOBGS`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * often `OFPB`
 * lent `HREPBT`
 * him `HEUPL`
@@ -470,7 +470,7 @@
 * them—they're `THEPL EPL/TKA*RB THE AE R*/*E`
 * too `TAO`
 * stiff. `STEUF TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * you, `U KW-BG`
 * see `SAOE`
 * night, `TPHAOEUT KW-BG`
@@ -604,7 +604,7 @@
 * others, `OERS KW-BG`
 * used, `AOUFD KW-BG`
 * rushed `RURBD`
-* away `A/WAEU`
+* away `WA*EU`
 * fireworks. `TPAOEUR/WORBGS TP-PL`
 * played `PHRAEUD`
 * 'the `AE -T`

@@ -153,7 +153,7 @@
 * us `US`
 * here, `HAOER KW-BG`
 * go `TKPW`
-* away `A/WAEU`
+* away `WA*EU`
 * together, `TOGT KW-BG`
 * repair `RAO*EP`
 * foreign `TPOERPB`
@@ -255,7 +255,7 @@
 * sat `SAT`
 * rest `REFT`
 * brook. `PWRAOBG TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * he `HE`
 * compassionate `KPAGS/TPHAT`
 * heart `HART`

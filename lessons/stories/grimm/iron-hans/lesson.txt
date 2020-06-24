@@ -70,7 +70,7 @@ Iron Hans
 'they': THE
 'too': TAO
 'stayed': STAEUD
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'Then': KPA/THEPB
 'on': OPB
 'the': -T
@@ -160,7 +160,7 @@ Iron Hans
 'unknown': UPB/TPHOEPB
 'huntsman': HUPBTS/PHA*PB
 'announced': A/TPHOUPBS/-D
-'himself': H*EUPLS
+'himself': HEUPLS
 'to': TO
 'the': -T
 'king': KEUPBG
@@ -233,7 +233,7 @@ Iron Hans
 'huntsman': HUPBTS/PHA*PB
 'therefore': TH-FR
 'betook': PWE/TAOBG
-'himself': H*EUPLS
+'himself': HEUPLS
 'with': W
 'his': HEUS
 'dog': TKOG
@@ -354,7 +354,7 @@ Iron Hans
 'and': SKP
 'led': HRED
 'him': HEUPL
-'away': A/WAEU
+'away': WA*EU
 'to': TO
 'the': -T
 'castle.': KAFL TP-PL
@@ -482,7 +482,7 @@ Iron Hans
 'it,'': T KW-BG AE
 'and': SKP
 'ran': RAPB
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'day': TKAEU
@@ -601,7 +601,7 @@ Iron Hans
 'ball,': PWAUL KW-BG
 'and': SKP
 'hurried': HUR/EUD
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'had': H
@@ -619,7 +619,7 @@ Iron Hans
 'do': TKO
 'not': TPHOT
 'go': TKPW
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'or': OR
 'I': EU
 'shall': SHAL
@@ -866,7 +866,7 @@ Iron Hans
 'The': KPA/-T
 'boy': PWOEU
 'placed': PHRAEUFD
-'himself': H*EUPLS
+'himself': HEUPLS
 'by': PWEU
 'the': -T
 'brink': PWR*EUPBG
@@ -893,7 +893,7 @@ Iron Hans
 'nothing': TPHOG
 'fell': TPEL
 'in.': TPH TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'he': HE
 'was': WAS
 'thus': THUS
@@ -1180,7 +1180,7 @@ Iron Hans
 'water.': WAUR TP-PL
 'He': KPA/HE
 'raised': RA*EUFD
-'himself': H*EUPLS
+'himself': HEUPLS
 'up': UP
 'quickly,': KWEULG KW-BG
 'but': PWUT
@@ -1252,7 +1252,7 @@ Iron Hans
 'the': -T
 'boy': PWOEU
 'excuse': SKAOUS
-'himself': H*EUPLS
+'himself': HEUPLS
 'as': AZ
 'he': HE
 'might,': PHAOEUT KW-BG
@@ -1388,7 +1388,7 @@ Iron Hans
 'he': HE
 'could': KO
 'help': HEP
-'himself.': H*EUPLS TP-PL
+'himself.': HEUPLS TP-PL
 'At': KPA/AT
 'length': HREPBG
 'he': HE
@@ -1571,7 +1571,7 @@ Iron Hans
 'to': TO
 'send': SEPBD
 'him': HEUPL
-'away': A/WAEU
+'away': WA*EU
 'at': AT
 'once.': WUPBS TP-PL
 'The': KPA/-T
@@ -1637,7 +1637,7 @@ Iron Hans
 'might': PHAOEUT
 'cool': KAOL
 'him.': HEUPL TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'the': -T
 'sun': SUPB
 'shone': SHO*EPB
@@ -1907,7 +1907,7 @@ Iron Hans
 'to': TO
 'take': TAEUBG
 'it': T
-'away': A/WAEU
+'away': WA*EU
 'from': TPR
 'him,': HEUPL KW-BG
 'but': PWUT
@@ -1958,7 +1958,7 @@ Iron Hans
 'get': TKPWET
 'his': HEUS
 'cap': KAP
-'away': A/WAEU
+'away': WA*EU
 'from': TPR
 'him,': HEUPL KW-BG
 'and': SKP
@@ -1997,7 +1997,7 @@ Iron Hans
 'opposition': OP/POGS
 'to': TO
 'the': -T
-'enemy,': EPB/PHEU KW-BG
+'enemy,': TPHAEPL KW-BG
 'who': WHO
 'was': WAS
 'superior': SPOEUR
@@ -2086,7 +2086,7 @@ Iron Hans
 'it,': T KW-BG
 'and': SKP
 'rode': ROED
-'away': A/WAEU
+'away': WA*EU
 'to': TO
 'the': -T
 'dark': TKARBG
@@ -2263,7 +2263,7 @@ Iron Hans
 'hurricane': HUR/KAEUPB
 'over': OEFR
 'the': -T
-'enemy,': EPB/PHEU KW-BG
+'enemy,': TPHAEPL KW-BG
 'and': SKP
 'beat': PWAET
 'down': TKOUPB
@@ -2376,7 +2376,7 @@ Iron Hans
 'one': WUPB
 'who': WHO
 'carried': KAERD
-'away': A/WAEU
+'away': WA*EU
 'the': -T
 'victory,'': SREUBGT/REU KW-BG AE
 'said': SED
@@ -2414,7 +2414,7 @@ Iron Hans
 ''He': AE KPA/HE
 'followed': TPOLD
 'the': -T
-'enemy,': EPB/PHEU KW-BG
+'enemy,': TPHAEPL KW-BG
 'and': SKP
 'I': EU
 'did': TK
@@ -2530,7 +2530,7 @@ Iron Hans
 'man': PHAPB
 'will': HR
 'show': SHOE
-'himself.'': H*EUPLS TP-PL AE
+'himself.'': HEUPLS TP-PL AE
 'When': KPA/WHEPB
 'the': -T
 'feast': TPAOEFT
@@ -2645,7 +2645,7 @@ Iron Hans
 'it': T
 'he': HE
 'galloped': TKPWAL/OP/-D
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'On': KPA/OPB
 'the': -T
 'second': SEBGD
@@ -2719,7 +2719,7 @@ Iron Hans
 'apple,': A*EPL KW-BG
 'should': SHO
 'go': TKPW
-'away': A/WAEU
+'away': WA*EU
 'again': TKPWEPB
 'they': THE
 'should': SHO

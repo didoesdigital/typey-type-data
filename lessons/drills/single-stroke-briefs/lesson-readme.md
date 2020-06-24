@@ -2635,7 +2635,7 @@
 * hillside `HEULDZ`
 * hilt `HEULT`
 * him `HEUPL`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * hind `HAOEUPBD`
 * hinge `HEUPBG`
 * hint `HEUPBT`
@@ -2670,7 +2670,7 @@
 * homicide `H-DZ`
 * hon `HOPB`
 * hone `HOEPB`
-* honest `HO*PBS`
+* honest `HOPBS`
 * honk `HO*PBG`
 * honor `HO*RPB`
 * hooch `HAOFP`

@@ -130,7 +130,7 @@
 * is `S`
 * capital `KPAL`
 * invention. `EUPB/SREPBGS TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * years `KWRAOERS`
 * on, `OPB KW-BG`
 * Lisbeth's `xxx Lisbeth AES`
@@ -201,7 +201,7 @@
 * tend `TEPBD`
 * cattle `KA*LT`
 * make `PHAEUBG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * useful. `AOUFL TP-PL`
 * The `KPA/-T`
 * great `TKPWRAET`
@@ -462,7 +462,7 @@
 * sink, `S*EUPBG KW-BG`
 * floated `TPHROET/-D`
 * drifted `TKREUFT/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * shore `SHOR`
 * broken; `PWROEPB STPH*FPLT`
 * when, `WHEPB KW-BG`
@@ -612,7 +612,7 @@
 * was. `WAS TP-PL`
 * turned `TURPBD`
 * going `TKPW-G`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * seized `SAOEZ/-D`
 * hand `HAPBD`
 * pressed `PREFD`
@@ -769,7 +769,7 @@
 * form, `TPORPL KW-BG`
 * apparition `AP/REUGS`
 * passing `PAFG`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * hold `HOLD`
 * all; `AUL STPH*FPLT`
 * heaven, `HEFPB KW-BG`
@@ -1309,7 +1309,7 @@
 * voice `SROEUS`
 * wailed, `WAEUL/-D KW-BG`
 * fled `TPHRED`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * sea; `SAE STPH*FPLT`
 * ocean `OEGS`
 * spectre; `SPEBG/TER/A*U STPH*FPLT`
@@ -1357,7 +1357,7 @@
 * again, `TKPWEPB KW-BG`
 * found. `TPOUPBD TP-PL`
 * spent `SPEPBT`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * search `SEFRPB`
 * Towards `KPA/TORDZ`
 * evening, `AOEPBG KW-BG`

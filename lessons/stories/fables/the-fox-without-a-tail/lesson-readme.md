@@ -14,7 +14,7 @@
 * struggling `STRUG/-LG`
 * to `TO`
 * release `RE/HRAOES`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * lost `HRO*S`
 * all `AUL`
 * of `-F`
@@ -30,7 +30,7 @@
 * show `SHOE`
 * among `PHOPBG`
 * his `HEUS`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * foxes. `TPOBGS/-S TP-PL`
 * But `KPA/PWUT`
 * at `AT`
@@ -59,7 +59,7 @@
 * proposed `PROEPD`
 * should `SHO`
 * do `TKO`
-* away `A/WAEU`
+* away `WA*EU`
 * with `W`
 * their `THAEUR`
 * tails. `TAEULS TP-PL`
@@ -91,7 +91,7 @@
 * carrying `KAERG`
 * about `PW`
 * such `SUFP`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * encumbrance. `EPB/KUPL/PWRAPBS TP-PL`
 * "That `KR-GS KPA/THA`
 * is `S`

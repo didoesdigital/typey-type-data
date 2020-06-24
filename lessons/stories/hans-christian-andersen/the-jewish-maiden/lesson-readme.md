@@ -70,7 +70,7 @@
 * one `WUPB`
 * paying `PAEUG`
 * more `PHOR`
-* attention `A/T-PBGS`
+* attention `TAEPBGS`
 * what `WHA`
 * he `HE`
 * said `SED`
@@ -113,7 +113,7 @@
 * Her `KPA/HER`
 * father, `TPAER KW-BG`
 * poor `PAOR`
-* honest `HO*PBS`
+* honest `HOPBS`
 * man, `PHAPB KW-BG`
 * placed `PHRAEUFD`
 * daughter `TKAUR`
@@ -202,7 +202,7 @@
 * covenant `KOFPBT`
 * with `W`
 * God `TKPWO*D`
-* Himself." `KPA/H*EUPLS TP-PL KR-GS`
+* Himself." `KPA/HEUPLS TP-PL KR-GS`
 * And `AFPBD`
 * left `HREFT`
 * Years `KPA/KWRAOERS`
@@ -411,7 +411,7 @@
 * peace `PAES`
 * nor `TPH-R`
 * rest. `REFT/TP-PL`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * lifted `HREUFTD`
 * war-horse; `WAR H-PB HORS STPH*FPLT`
 * color `KROR`
@@ -470,7 +470,7 @@
 * are `R`
 * trouble." `TRUBL TP-PL KR-GS`
 * tears, `TAERS KW-BG`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "Oh `KR-GS KPA/O*ERBGS`
 * how `HOU`
 * imagine `PHAPBLG`
@@ -677,7 +677,7 @@
 * world `WORLD`
 * higher `HAOEUR`
 * union, `TPHAOUPB KW-BG`
-* Himself, `KPA/H*EUPLS KW-BG`
+* Himself, `KPA/HEUPLS KW-BG`
 * leads `HRAEDZ`
 * guides `TKPWAOEUDZ`
 * His `KPA/HEUS`
@@ -700,7 +700,7 @@
 * Christ." `KRAOEUFT TP-PL KR-GS`
 * Yet `KPA/KWRET`
 * trembled `TREPL/-BLD`
-* pronounced `PRO/TPHOUPBS/-D`
+* pronounced `PROUPBS/-D`
 * holy `HOEUL`
 * name. `TPHAEUPL TP-PL`
 * struggled `STRULGD`

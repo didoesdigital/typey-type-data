@@ -12,9 +12,9 @@
 * frightened, `TPRAOEUFPBD KW-BG`
 * and `SKP`
 * ran `RAPB`
-* away `A/WAEU`
+* away `WA*EU`
 * hid `HEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * in `TPH`
 * wood. `WAOD TP-PL`
 * Next `KPA/TPHEGT`

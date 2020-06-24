@@ -237,7 +237,7 @@
 * hands `HAPBDZ`
 * own, `OEPB KW-BG`
 * assured `A/SHURD`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * him `HEUPL`
 * second `SEBGD`
 * marriage. `PHAERPBLG TP-PL`
@@ -376,7 +376,7 @@
 * choose `KHAOS`
 * alien `KWRAEUPBL`
 * stranger `STRAEURPBG`
-* away `A/WAEU`
+* away `WA*EU`
 * him. `HEUPL TP-PL`
 * If, `KPA/TP KW-BG`
 * hand, `HAPBD KW-BG`
@@ -429,7 +429,7 @@
 * In `KPA/TPH`
 * delusions `TKHRAOUGS/-S`
 * imagined `PHAPBLGD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * once `WUPBS`
 * young `KWRUPBG`
 * man; `PHAPB STPH*FPLT`
@@ -812,7 +812,7 @@
 * far, `TPAR KW-BG`
 * far `TPAR`
 * farther `TPA*RT`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * resting `REFT/-G`
 * place, `PHRAEUS KW-BG`
 * although `HR*T`
@@ -1026,7 +1026,7 @@
 * despair `TKE/SPAEUR`
 * remedies `REPL/TKEUS`
 * proved `PROFD`
-* useless. `AOUS/-LS TP-PL`
+* useless. `AOUFLS TP-PL`
 * vain `SRA*EUPB`
 * rewards `RE/WARDZ`
 * doctors; `TKR-S STPH*FPLT`
@@ -1070,7 +1070,7 @@
 * years, `KWRAOERS KW-BG`
 * respectful `R-PT/-FL`
 * subjects! `SUBTS SKHRAPL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * of, `-F KW-BG`
 * marriage, `PHAERPBLG KW-BG`
 * that, `THA KW-BG`
@@ -1224,7 +1224,7 @@
 * pillow, `PEUL/OE KW-BG`
 * unobserved. `xxx unobserved TP-PL`
 * torment `TORPLT`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * planning `PHRAPBG`
 * see `SAOE`
 * belonged, `PWHROPBGD KW-BG`
@@ -1302,7 +1302,7 @@
 * fat. `TPAT TP-PL`
 * better, `PWOERT KW-BG`
 * trial `TRAOEUL`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * chamber-maids; `KHAEURPL H-PB PHAEUDZ STPH*FPLT`
 * succeeded `SUBG/SAOED/-D`
 * better. `PWOERT TP-PL`

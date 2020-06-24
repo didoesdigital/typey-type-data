@@ -64,7 +64,7 @@
 * missed `PHEUFD`
 * fell; `TPEL STPH*FPLT`
 * bounded `PWOUPBD/-D`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * rolled `ROLD`
 * along `HRAOPBG`
 * upon `POPB`
@@ -186,7 +186,7 @@
 * while `WHAOEUL`
 * mouth, `PHO*UT KW-BG`
 * edge `EPBLG`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * saw `SAU`
 * ran `RAPB`
@@ -278,7 +278,7 @@
 * speaking `SPAOEG`
 * knocked `TPHOBGD`
 * king `KEUPBG`
-* 'As `AE KPA/AZ`
+* 'As `AE KPA/AS`
 * given `TKPWEUFPB`
 * word `WORD`
 * must `PHUFT`

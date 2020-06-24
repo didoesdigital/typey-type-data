@@ -97,11 +97,11 @@
 * until `TPH-L`
 * bed `PWED`
 * asleep. `A/SHRAOEP TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * asleep, `A/SHRAOEP KW-BG`
 * seats `SAOETS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * bed. `PWED TP-PL`
 * He `KPA/HE`
 * nicely `TPHAOEULS`
@@ -179,7 +179,7 @@
 * MONDAY `*URP/PHOPBD`
 * "Now `KR-GS KPA/TPHOU`
 * pay `PAEU`
-* attention," `A/T-PBGS KW-BG KR-GS`
+* attention," `TAEPBGS KW-BG KR-GS`
 * said `SED`
 * when `WHEPB`
 * Hjalmar `xxx Hjalmar`
@@ -574,7 +574,7 @@
 * glee, `TKPWHRAOE KW-BG`
 * Or `KPA/OR`
 * kiss `KEUS`
-* away `A/WAEU`
+* away `WA*EU`
 * pearly `PER/HREU`
 * tear. `TAER TP-PL`
 * 'Twas `AE xxx Twas`
@@ -690,7 +690,7 @@
 * bewildered `PWE/WEULD/ERD`
 * amongst `PHOPBGS`
 * "Just `KR-GS KPA/SKWRUFT`
-* fellow," `TPO*EUL KW-BG KR-GS`
+* fellow," `TP*EL KW-BG KR-GS`
 * chickens. `KHEU/KEPB/-S TP-PL`
 * turkey-cock `TUR/KAE H-PB KOBG`
 * puffed `PUFD`
@@ -987,7 +987,7 @@
 * hot `HOT`
 * water. `WAUR TP-PL`
 * Will `W*EUL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * night's `TPHAOEUT AES`
 * rest?' `REFT H-F AE`
 * sigh `SAOEU`

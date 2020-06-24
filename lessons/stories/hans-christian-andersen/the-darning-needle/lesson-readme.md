@@ -110,7 +110,7 @@
 * that." `THA TP-PL KR-GS`
 * "This `KR-GS KPA/TH`
 * quite `KWAOEUT`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * sewing `SWEG`
 * now," `TPHOU KW-BG KR-GS`
 * fingers; `TPEURPBGS STPH*FPLT`
@@ -196,7 +196,7 @@
 * going `TKPW-G`
 * journey," `SKWRURPB KW-BG KR-GS`
 * floated `TPHROET/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * dirty `TKOEURT`
 * water, `WAUR KW-BG`
 * hope `HOEP`
@@ -245,7 +245,7 @@
 * thinking `THEUG`
 * nothing `TPHOG`
 * world `WORLD`
-* himself—only `H*EUPLS EPL/TKA*RB OEPBL`
+* himself—only `HEUPLS EPL/TKA*RB OEPBL`
 * chip. `KHEUP TP-PL`
 * There's `KPA/THR AES`
 * straw `STRAU`
@@ -366,7 +366,7 @@
 * soldier. `SHRERPBLG TP-PL`
 * Sweet-tooth, `KPA/SWAOET H-PB TAO*T KW-BG`
 * dipped `TKEUPD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * sweet `SWAOET`
 * sour, `SOUR KW-BG`
 * pointed `POEUPBTD`
@@ -410,7 +410,7 @@
 * overflowed, `xxx overflowed KW-BG`
 * bottle `PWO*LT`
 * carried `KAERD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * promoted," `PROEPLTD KW-BG KR-GS`
 * "while `KR-GS WHAOEUL`
 * remain `RE/PHAEUPB`
@@ -463,9 +463,9 @@
 * one, `WUPB KW-BG`
 * pricked `PREUBGD`
 * "here's `KR-GS HAOER AES`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * you." `U TP-PL KR-GS`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * young `KWRUPBG`
 * lady," `HRA*ED KW-BG KR-GS`
 * heard `HAERD`

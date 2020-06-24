@@ -169,7 +169,7 @@
 * envy, `EPB/SREU KW-BG`
 * servants, `SER/SRAPBTS KW-BG`
 * 'Take `AE KPA/TAEUBG`
-* away `A/WAEU`
+* away `WA*EU`
 * into `TPHAO`
 * wide `WAOEUD`
 * wood, `WAOD KW-BG`
@@ -180,7 +180,7 @@
 * more.' `PHOR TP-PL AE`
 * servant `SEFRB/APBT`
 * led `HRED`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * his `HEUS`
 * heart `HART`
 * melted `PHELT/-D`
@@ -267,7 +267,7 @@
 * wall `WAUL`
 * stood `STAOD`
 * beds. `PWEDZ TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * hungry, `HUPBG/REU KW-BG`
 * picked `PEUBGD`
 * piece `PAOES`
@@ -520,7 +520,7 @@
 * woman `WOPL`
 * time, `TAOEUPL KW-BG`
 * we `WE`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * got `TKPWOT`
 * home, `HOEPL KW-BG`
 * straight `STRAEUT`
@@ -726,7 +726,7 @@
 * To `KPA/TO`
 * feast `TPAOEFT`
 * asked, `SK-D KW-BG`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * dressing `TKREFG`
 * rich `REUFP`
 * clothes, `KHRO*ETS KW-BG`

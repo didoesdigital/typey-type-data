@@ -381,7 +381,7 @@
 * All `KPA/AUL`
 * while, `WHAOEUL KW-BG`
 * most `PHOFT`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * thinking. `THEUG TP-PL`
 * His `KPA/HEUS`
 * on, `OPB KW-BG`
@@ -413,7 +413,7 @@
 * like `HRAOEUBG`
 * tops, `TOPS KW-BG`
 * rolled `ROLD`
-* away `A/WAEU`
+* away `WA*EU`
 * far `TPAR`
 * could, `KO KW-BG`
 * especially `EPS`

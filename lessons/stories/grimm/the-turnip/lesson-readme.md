@@ -23,7 +23,7 @@
 * try `TREU`
 * to `TO`
 * better `PWOERT`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * so, `SO KW-BG`
 * pulling `PULG`
 * off `OF`
@@ -103,7 +103,7 @@
 * One `KPA/WUPB`
 * day `TKAEU`
 * said `SED`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'What `AE KPA/WHA`
 * shall `SHAL`
 * I `EU`
@@ -214,10 +214,10 @@
 * envied `EPB/SREUD`
 * sorely, `SORL KW-BG`
 * bethought `PWE/THAUT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * contrive `KAUPB/TRAOEUF`
 * same `SAEUPL`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * However, `KPA/HOUF KW-BG`
 * determined `TKERPLD`
 * manage `PHAPBG`
@@ -317,10 +317,10 @@
 * left `HREFT`
 * dangling, `TKAPBG/-LG KW-BG`
 * ran `RAPB`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Meantime `KPA/PHAOEPB/TAO*EUPL`
 * worked `WORBGD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * till `TEUL`
 * hole `HOEL`
 * large `HRARPBLG`
@@ -329,13 +329,13 @@
 * proved `PROFD`
 * student, `STAUPB KW-BG`
 * merry `PHER/REU`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * journeying `SKWRURPB/EUG`
 * along `HRAOPBG`
 * nag, `TPHAG KW-BG`
 * singing `SEUPBG/-G`
 * went. `WEPBT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * sack `SABG`
 * saw `SAU`
@@ -506,7 +506,7 @@
 * saying, `SAEUG KW-BG`
 * trotted `TROT/-D`
 * student's `STAUPB AES`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * gather `TKPWAER`
 * somebody `S-B`
 * should `SHO`

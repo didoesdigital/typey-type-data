@@ -118,7 +118,7 @@
 * own, `OEPB KW-BG`
 * that `THA`
 * saw `SAU`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * up `UP`
 * front `TPROPBT`
 * omnibus `OPL/TPHEU/PWUS`
@@ -257,7 +257,7 @@
 * humor. `HAOURPL TP-PL`
 * Every `KPA/EF`
 * one `WUPB`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * come `KOPL`
 * while `WHAOEUL`
 * sun `SUPB`
@@ -344,7 +344,7 @@
 * evening, `AOEPBG KW-BG`
 * instead `STPHED`
 * enjoying `EPB/SKWROEUG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * quite `KWAOEUT`
 * machinist `PH-PB/EUFT`
 * put `PUT`
@@ -374,7 +374,7 @@
 * beech-tree `PWAOEFP H-PB TRAOE`
 * north `TPHORT`
 * Norway. `TPHOR/WAEU TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * any `TPHEU`
 * consequence! `KWEPBS SKHRAPL`
 * Why `KPA/KWR`

@@ -373,7 +373,7 @@
 * causes `KAUFS`
 * damp. `TKAFRP TP-PL`
 * daresay `TKAEUR/TK-LS/SAEU`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * then `THEPB`
 * shall, `SHAL KW-BG`
 * perhaps, `PRAPS KW-BG`
@@ -538,7 +538,7 @@
 * her `HER`
 * nest; `TPHEFT STPH*FPLT`
 * flew `TPHRAOU`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * same `SAEUPL`
 * happened `HAPD`
 * following `TPOLG`
@@ -653,7 +653,7 @@
 * gold-jacket `TKPWOELD H-PB SKWRABGT`
 * fly," `TPHRAOEU KW-BG KR-GS`
 * letting `HREGT`
-* away `A/WAEU`
+* away `WA*EU`
 * deadly `TKED/HREU`
 * fear, `TPAOER KW-BG`
 * her. `HER TP-PL`
@@ -761,7 +761,7 @@
 * second. `SEBGD TP-PL`
 * "But `KR-GS KPA/PWUT`
 * eldest!" `ELD/EFT SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * third. `THEURD TP-PL`
 * excited; `KPAOEUTD STPH*FPLT`
 * wings, `WEUPBGS KW-BG`
@@ -794,7 +794,7 @@
 * remained `RE/PHAEUPBD`
 * behind `HEUPBD`
 * made `PHAED`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * could, `KO KW-BG`
 * proprietor. `PRO/PRAOEU/TOR TP-PL`
 * this `TH`
@@ -1038,7 +1038,7 @@
 * Do `KPA/TKO`
 * it? `T H-F`
 * don't." `HRO*ER/TKO*PB AE T* TP-PL KR-GS`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * Days `KPA/TKAEUS`
 * years `KWRAOERS`
 * went `WEPBT`

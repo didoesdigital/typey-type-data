@@ -56,7 +56,7 @@
 * they `THE`
 * too `TAO`
 * stayed `STAEUD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Then `KPA/THEPB`
 * on `OPB`
 * third `THEURD`
@@ -118,7 +118,7 @@
 * when `WHEPB`
 * unknown `UPB/TPHOEPB`
 * announced `A/TPHOUPBS/-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * as `AZ`
 * seeking `SAOEBG/-G`
 * situation, `SWAEUGS KW-BG`
@@ -207,7 +207,7 @@
 * bound `PWOUPBD`
 * cords, `KORDZ KW-BG`
 * led `HRED`
-* away `A/WAEU`
+* away `WA*EU`
 * castle. `KAFL TP-PL`
 * astonishment `AS/TOPB/SH-PLT`
 * man; `PHAPB STPH*FPLT`
@@ -303,7 +303,7 @@
 * him: `HEUPL STPH-FPLT`
 * 'Oh, `AE KPA/O*ERBGS KW-BG`
 * man, `PHAPB KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * shall `SHAL`
 * beaten!' `PWAET/*EPB SKHRAPL AE`
 * turned `TURPBD`
@@ -390,7 +390,7 @@
 * show `SHOE`
 * therein, `THR-PB KW-BG`
 * in. `TPH TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * thus `THUS`
 * sitting, `SEUGT KW-BG`
 * finger `TPEURPBG`
@@ -523,7 +523,7 @@
 * work, `WORBG KW-BG`
 * none, `TPHOPB KW-BG`
 * learnt `HRERPBT`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * At `KPA/AT`
 * court `KORT`
 * use `AOUS`
@@ -675,7 +675,7 @@
 * whether `WHR`
 * offer `OFR`
 * opposition `OP/POGS`
-* enemy, `EPB/PHEU KW-BG`
+* enemy, `TPHAEPL KW-BG`
 * superior `SPOEUR`
 * strength `STREPBG`
 * mighty `PHAOEUT/KWREU`
@@ -829,7 +829,7 @@
 * throw `THROE`
 * apple. `A*EPL TP-PL`
 * Perhaps `KPA/PRAPS`
-* himself.' `H*EUPLS TP-PL AE`
+* himself.' `HEUPLS TP-PL AE`
 * announced, `A/TPHOUPBS/-D KW-BG`
 * catch `KAFP`
 * daughter's `TKAUR/AES`

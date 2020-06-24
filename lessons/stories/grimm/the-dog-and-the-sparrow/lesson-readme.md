@@ -96,7 +96,7 @@
 * down `TKOUPB`
 * piece `PAOES`
 * meat.' `PHAET TP-PL AE`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * upon `POPB`
 * shelf: `SHEFL STPH-FPLT`
 * having `SR-G`
@@ -124,7 +124,7 @@
 * snapped `STPHAPD`
 * up, `UP KW-BG`
 * scrambled `SKAPL/-BLD`
-* away `A/WAEU`
+* away `WA*EU`
 * corner, `KRORPB KW-BG`
 * where `W-R`
 * ate `AEUT`
@@ -207,7 +207,7 @@
 * perch `PEFRPB`
 * bush.' `PWURB TP-PL AE`
 * stretched `STREFPD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * road, `RAOD KW-BG`
 * fast `TPAFT`
 * asleep. `A/SHRAOEP TP-PL`
@@ -246,7 +246,7 @@
 * But `KPA/PWUT`
 * carter, `HRO*ER/KA*RT/ER KW-BG`
 * grumbling `TKPWRUPL/-BLG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'You `AE KPA/U`
 * make `PHAEUBG`
 * me, `PHE KW-BG`
@@ -331,7 +331,7 @@
 * kill `KEUL`
 * her; `HER STPH*FPLT`
 * flew `TPHRAOU`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * horse's `HORS AES`
 * such `SUFP`
 * force, `TPORS KW-BG`
@@ -366,7 +366,7 @@
 * two. `TWO TP-PL`
 * 'Alas! `AE KPA/A/HRAS SKHRAPL`
 * miserable `PHEUZ/-BL`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * 'now `AE TPHOU`
 * plague `PHRA*EUG`
 * punish `P-RB`
@@ -407,7 +407,7 @@
 * loft, `HRO*FT KW-BG`
 * eating `AOEGT`
 * rate!' `RAEUT SKHRAPL AE`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * husband `HUS`
 * upstairs, `AUP/STAEURS KW-BG`
 * thousands `THOEUPBS`

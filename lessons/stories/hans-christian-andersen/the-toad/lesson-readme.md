@@ -305,7 +305,7 @@
 * cleverly `KHREFRL`
 * did, `TK KW-BG`
 * gets `TKPWETS`
-* away `A/WAEU`
+* away `WA*EU`
 * whole `WHOEL`
 * bones. `PWOEPBS TP-PL`
 * "Quack!" `KR-GS KPA/KWA*BG SKHRAPL KR-GS`
@@ -403,7 +403,7 @@
 * "I `KR-GS EU`
 * wonder `WOPBD`
 * here? `HAOER H-F`
-* As `KPA/AZ`
+* As `KPA/AS`
 * far, `TPAR KW-BG`
 * try `TREU`
 * go `TKPW`
@@ -678,7 +678,7 @@
 * "Just `KR-GS KPA/SKWRUFT`
 * thing!" `THEUPBG SKHRAPL KR-GS`
 * turned `TURPBD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * morsel; `PHOR/SEL STPH*FPLT`
 * tickle `TEUBG/*L`
 * throat." `THROET TP-PL KR-GS`
@@ -798,7 +798,7 @@
 * specimen `SPEPL`
 * toad," `TAOD KW-BG KR-GS`
 * naturalist. `TPHARL/EUFT TP-PL`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * bottle `PWO*LT`
 * spirits." `SPEURTS TP-PL KR-GS`
 * "You `KR-GS KPA/U`

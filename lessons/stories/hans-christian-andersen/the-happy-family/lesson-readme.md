@@ -154,7 +154,7 @@
 * whole `WHOEL`
 * planted `PHRAPBT/-D`
 * theirs. `THAEURS TP-PL`
-* away `A/WAEU`
+* away `WA*EU`
 * garden; `TKPWA*RPB STPH*FPLT`
 * another `TPHOER`
 * existed `KPEUFTD`

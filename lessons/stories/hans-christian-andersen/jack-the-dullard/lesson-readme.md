@@ -142,7 +142,7 @@
 * arabesques, `AEUR/PWEFBG/-S KW-BG`
 * tasty, `TAEUS/TEU KW-BG`
 * light-fingered `HRAOEUT H-PB TPEUPBG/ERD`
-* fellow. `TPO*EUL TP-PL`
+* fellow. `TP*EL TP-PL`
 * "I `KR-GS EU`
 * shall `SHAL`
 * win `WEUPB`
@@ -247,7 +247,7 @@
 * at `AT`
 * him, `HEUPL KW-BG`
 * rode `ROED`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * "Father, `KR-GS KPA/TPAER KW-BG`
 * dear," `TKAER KW-BG KR-GS`
 * Jack, `SKWRA*BG KW-BG`
@@ -345,7 +345,7 @@
 * dead `TKED`
 * crow. `KROE TP-PL`
 * "Dullard!" `KR-GS KPA/TKUL/ARD SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * "what `KR-GS WHA`
 * that?" `THA H-F KR-GS`
 * "With `KR-GS KPA/W`
@@ -489,7 +489,7 @@
 * say, `SAEU KW-BG`
 * "He `KR-GS KPA/HE`
 * use! `AOUS SKHRAPL`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * hall!" `HAUL SKHRAPL KR-GS`
 * At `KPA/AT`
 * last `HRAFT`
@@ -508,7 +508,7 @@
 * hall `HAUL`
 * looking-glass, `HRAOG H-PB TKPWHRAS KW-BG`
 * saw `SAU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * standing `STAPBG`
 * head; `HED STPH*FPLT`
 * window `WOEUPBD`
@@ -557,7 +557,7 @@
 * witty. `WEUT/TEU TP-PL`
 * use!" `AOUS SKHRAPL KR-GS`
 * Princess. `KPA/PREUPB/SES TP-PL`
-* "Away `KR-GS KPA/A/WAEU`
+* "Away `KR-GS KPA/WA*EU`
 * him!" `HEUPL SKHRAPL KR-GS`
 * obliged `OE/PWHRAOEUPBLGD`
 * accordingly. `A/KORD/TKPWHREU TP-PL`
@@ -624,7 +624,7 @@
 * afford `AFRD`
 * throw `THROE`
 * some `SOPL`
-* away;" `A/WAEU STPH*FPLT KR-GS`
+* away;" `WA*EU STPH*FPLT KR-GS`
 * poured `PORD`
 * pocket. `POBGT TP-PL`
 * that!" `THA SKHRAPL KR-GS`

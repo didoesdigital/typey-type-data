@@ -267,7 +267,7 @@
 * boy `PWOEU`
 * sit `SEUT`
 * warming `WARPLG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * sunshine, `SUPB/SHAO*EUPB KW-BG`
 * watching `WAFPG`
 * red `RED`
@@ -436,7 +436,7 @@
 * both `PWO*T`
 * small,—the `SPHAL KW-BG EPL/TKA*RB -T`
 * good, `TKPWAOD KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * narrow, `TPHO*EUR KW-BG`
 * dark `TKARBG`
 * street. `STRAOET TP-PL`

@@ -55,7 +55,7 @@
 * see `SAOE`
 * nothing, `TPHOG KW-BG`
 * went `WEPBT`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Shortly `KPA/SHORLT`
 * afterwards `A*FRDZ`
 * master `PHAFRT`

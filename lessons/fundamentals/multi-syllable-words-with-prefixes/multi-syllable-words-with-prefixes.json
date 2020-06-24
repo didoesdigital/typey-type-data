@@ -1,14 +1,11 @@
 {
-"A/WAEU": "away",
 "A/HROEPB": "alone",
 "RE/PHRAOEUD": "replied",
 "A/KROS": "across",
 "A/PAOERD": "appeared",
-"A/T-PBGS": "attention",
 "UPB/TO": "unto",
 "RE/PHAEUPBD": "remained",
 "A/TPRAEUD": "afraid",
-"EPB/PHEU": "enemy",
 "A/PAOER": "appear",
 "EUPL/POB": "impossible",
 "RE/PHAEUPB": "remain",
@@ -136,7 +133,6 @@
 "EUPB/TKEUG/TPHAEUGS": "indignation",
 "PRE/SAOED/-G": "preceding",
 "AB/SURD": "absurd",
-"PRO/TPHOUPBS/-D": "pronounced",
 "EPL/ROR": "emperor",
 "RE/HREFD": "relieved",
 "EUPB/SPAOEURD": "inspired",
@@ -215,7 +211,6 @@
 "EPB/SREU": "envy",
 "PRE/TEPBD": "pretend",
 "A/HRAS": "alas",
-"KAUPB/TEFT": "contest",
 "A/WAEUBG/-PBD": "awakened",
 "RAOE/TAEUPBD": "retained",
 "EPL/PWRAEUS": "embrace",
@@ -926,5 +921,5 @@
 "EUPB/SRAEUD": "invade",
 "PRO/HROPBG": "prolong",
 "EPB/KHAPBT/-G": "enchanting",
-"RE/PRES/-D": "repressed"
+"RE/PREFD": "repressed"
 }

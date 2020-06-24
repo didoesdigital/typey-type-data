@@ -102,7 +102,7 @@
 * chicks, `KHEUBGS KW-BG`
 * only `OEPBL`
 * thinks `THEUS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * perspires `PER/SPAOEUR/-S`
 * verdigris. `SRERD/TKPWRAOE TP-PL`
 * No, `KPA/TPHO KW-BG`
@@ -368,7 +368,7 @@
 * it; `T STPH*FPLT`
 * stir. `STEUR TP-PL`
 * stupid," `STAOUPD KW-BG KR-GS`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * lays `HRAEUZ`
 * eggs, `EGS KW-BG`
 * am `APL`

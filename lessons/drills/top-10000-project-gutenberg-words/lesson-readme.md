@@ -110,7 +110,7 @@
 * those `THOZ`
 * came `KAEUPL`
 * come `KOPL`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * way `WAEU`
 * work `WORBG`
 * life `HRAOEUF`
@@ -139,7 +139,7 @@
 * same `SAEUPL`
 * last `HRAFT`
 * thought `THAUT`
-* away `A/WAEU`
+* away `WA*EU`
 * under `TPH-PB`
 * take `TAEUBG`
 * found `TPOUPBD`
@@ -591,7 +591,7 @@
 * certainly `SERPBL`
 * wind `WEUPBD`
 * receive `SAOEF`
-* attention `A/T-PBGS`
+* attention `TAEPBGS`
 * government `TKPWOFT`
 * unto `UPB/TO`
 * church `KHUFRPB`
@@ -607,7 +607,7 @@
 * especially `EPS`
 * greater `TKPWRAERT`
 * yourself `KWRO*URS`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * bear `PWAER`
 * opinion `P-PB`
 * window `WOEUPBD`
@@ -677,14 +677,14 @@
 * Paris `PA*EURS`
 * single `SEUPBLG`
 * joy `SKWROEU`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * broken `PWROEPB`
 * unless `TPH-LS`
 * states `STAEUTS`
 * ship `SHEUP`
 * condition `K-PB`
 * carry `KAER`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * including `KHRUG`
 * filled `TPEULD`
 * seeing `SAOEG`
@@ -845,7 +845,7 @@
 * considerable `KR-BL`
 * c `KR*`
 * broke `PWROEBG`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * seven `SEFPB`
 * private `PRAOEUFT`
 * sit `SEUT`
@@ -883,7 +883,7 @@
 * produced `PRO*UD`
 * summer `SAOURPL`
 * provide `PROEFD`
-* study `STAO*UD`
+* study `STOEU`
 * religion `RE/HR-GS`
 * picture `P*EUFP`
 * walls `WAULS`
@@ -1202,7 +1202,7 @@
 * ships `SHEUPS`
 * thirty `THEURT`
 * sick `SEUBG`
-* honest `HO*PBS`
+* honest `HOPBS`
 * shut `SHUT`
 * talked `TAUBGD`
 * bank `PWA*PBG`
@@ -2398,7 +2398,7 @@
 * wretched `WREFPD`
 * hanging `HAPBG/-G`
 * pipe `PAOEUP`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * nevertheless `TPHEFRLS`
 * print `PREUPBT`
 * smooth `SPHAO*T`
@@ -2992,7 +2992,7 @@
 * whatsoever `WHA/SOFR`
 * pointing `POEUPBGT`
 * verses `SRERSZ`
-* pronounced `PRO/TPHOUPBS/-D`
+* pronounced `PROUPBS/-D`
 * exchange `KPAEUPBG`
 * definite `TKEFPBT`
 * emperor `EPL/ROR`
@@ -3814,7 +3814,7 @@
 * saints `SAEUPBTS`
 * colonel `KURPBL`
 * Egyptian `AOE/SKWREUPGS`
-* contest `KAUPB/TEFT`
+* contest `KEFT`
 * owned `OEPBD`
 * adventures `SREPBGS`
 * exclusion `SKHRAOUGS`
@@ -4719,7 +4719,7 @@
 * honorable `HOPB/RABL`
 * significant `SEUG`
 * barren `PWAEURPB`
-* functions `TPUPBGS/-S`
+* functions `TPUPBGSZ`
 * guided `TKPWAOEUD/-D`
 * dense `TKEPBS`
 * fiction `TP*EUBGS`
@@ -4765,7 +4765,7 @@
 * abbey `AB/PWEU`
 * nowhere `TPHO/WR`
 * anyhow `TPHEU/HOU`
-* agitated `APBLG/TAEUT/-D`
+* agitated `APBLG/TAEUTD`
 * marching `PHAFRPB/-G`
 * catching `KAFPG`
 * el `*E/HR*`
@@ -5825,7 +5825,7 @@
 * worried `WOERD`
 * obstinate `OBS/TPHAT`
 * hasten `HAEUS/-PB`
-* foreigners `TPORPB/ER/-S`
+* foreigners `TPORPB/ERS`
 * elderly `ERLD`
 * overwhelmed `AUFR/WHEPLD`
 * instincts `EUPB/STEUPBGS`
@@ -7234,7 +7234,7 @@
 * proving `PROFG`
 * benevolence `PWEPBL/SREPBS`
 * Brussels `PWRUS/ELS`
-* civilisation `SEUFL/*EU/SAEUGS`
+* civilisation `SEUFLGS/A*U`
 * mounting `PHOUPBT/-G`
 * desiring `STKAOEURG`
 * rushes `RURBS`
@@ -7586,7 +7586,7 @@
 * voluntarily `SROL/TAERL`
 * longitude `HROPBG/TAOUD`
 * permanently `PERPL/HREU`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * babe `PWAEUB`
 * secondly `SEBLGD`
 * violin `SRO*EUPBL`
@@ -7599,7 +7599,7 @@
 * tendencies `TEPBD/SEUS`
 * concrete `KRAOEPBT`
 * resident `REPBLT`
-* lustre `HRUS/TER/A*U`
+* lustre `HRUFRT/A*U`
 * hull `HUL`
 * ominous `OPL/TPHOUS`
 * overboard `AUFR/PWAO*RD`
@@ -7887,7 +7887,7 @@
 * freight `TPRAET`
 * cowardice `KOURD/EUS`
 * wipe `WAOEUP`
-* deserts `STK*ERT/-S`
+* deserts `STK*ERTS`
 * shelves `SHEFLS`
 * denial `TKE/TPHAOEUL`
 * 1b `1/PW*`
@@ -8407,7 +8407,7 @@
 * nous `TPH*/O*/*U/S*`
 * rack `RABG`
 * incomprehensible `EUPB/KPREPBS/-BL`
-* antagonist `APBT/AG/TPHEUFT`
+* antagonist `TPH*EUFT`
 * methinks `PHE/TK-LS/THEUS`
 * barley `PWAR/HREU`
 * plateau `PHRA/TOE`
@@ -9995,7 +9995,7 @@
 * significantly `SEULG`
 * experimental `SPAOERL`
 * film `TPEUPL`
-* repressed `RE/PRES/-D`
+* repressed `RE/PREFD`
 * cooperation `KAOPGS`
 * sequel `SKWEL`
 * wench `WEFRPB`

@@ -159,7 +159,7 @@
 * then `THEPB`
 * will `HR`
 * rouse `ROUZ`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * table `TAEUBL`
 * burst `PWUFRT`
 * asunder `AS/UPBD/ER`
@@ -191,7 +191,7 @@
 * must `PHUFT`
 * be `-B`
 * true. `TRAOU TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * man `PHAPB`
 * related `RAELTD`
 * story, `STOER KW-BG`
@@ -247,7 +247,7 @@
 * only `OEPBL`
 * dream; `TKRAOEPL STPH*FPLT`
 * when `WHEPB`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * went `WEPBT`
 * bed, `PWED KW-BG`
 * thought `THAUT`
@@ -263,7 +263,7 @@
 * sitting `SEUGT`
 * at `AT`
 * work `WORBG`
-* away `A/WAEU`
+* away `WA*EU`
 * last `HRAFT`
 * part `PART`
 * it, `T KW-BG`
@@ -408,7 +408,7 @@
 * ribbon `REUB/O*PB`
 * order, `ORD KW-BG`
 * blew `PWHRAOU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * ship `SHEUP`
 * air `AEUR`
 * order `ORD`
@@ -452,7 +452,7 @@
 * Frederick, `TPRED/REUBG KW-BG`
 * silvery `SEUL/SRER/KWREU`
 * locks `HROBGZ`
-* honest `HO*PBS`
+* honest `HOPBS`
 * blue `PWHRU`
 * lived `HREUFD`
 * him, `HEUPL KW-BG`

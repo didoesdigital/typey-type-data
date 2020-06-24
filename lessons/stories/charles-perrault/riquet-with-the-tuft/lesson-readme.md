@@ -227,7 +227,7 @@
 * best `PWEFT`
 * please `PHRES`
 * her." `HER TP-PL KR-GS`
-* As `KPA/AZ`
+* As `KPA/AS`
 * Princesses `KPA/PREUPB/SES/-S`
 * grew `TKPWRAOU`
 * up, `UP KW-BG`
@@ -283,7 +283,7 @@
 * yet `KWRET`
 * sister `ST-R`
 * bore `PWOR`
-* away `A/WAEU`
+* away `WA*EU`
 * bell, `PWEL KW-BG`
 * almost `HR-PL`
 * always, `AULS KW-BG`
@@ -362,7 +362,7 @@
 * thus `THUS`
 * alone, `A/HROEPB KW-BG`
 * addressed `A/TKREFD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * imaginable `PHAPBLG/-BL`
 * politeness `PHRAOEUT/-PBS`
 * respect. `R-PT TP-PL`
@@ -504,7 +504,7 @@
 * rate, `RAEUT KW-BG`
 * believed `PWHREFD`
 * reserved `REFRBD`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * When `KPA/WHEPB`
 * palace, `PAL/AS KW-BG`
 * Court `KO*RT`
@@ -816,7 +816,7 @@
 * heart, `HART KW-BG`
 * world, `WORLD KW-BG`
 * able." `ABL TP-PL KR-GS`
-* pronounced `PRO/TPHOUPBS/-D`
+* pronounced `PROUPBS/-D`
 * words, `WORDZ KW-BG`
 * appeared `A/PAOERD`
 * finest `TPAOEUPB/EFT`

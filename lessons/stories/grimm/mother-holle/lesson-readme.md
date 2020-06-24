@@ -98,7 +98,7 @@
 * scolding, `SKOLD/-G KW-BG`
 * said `SED`
 * unkindly, `UPB/KAOEUPBD/HREU KW-BG`
-* 'As `AE KPA/AZ`
+* 'As `AE KPA/AS`
 * you `U`
 * have `SR`
 * let `HRET`
@@ -211,7 +211,7 @@
 * terrified, `TER/TPAOEUD KW-BG`
 * turned `TURPBD`
 * run `RUPB`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * But `KPA/PWUT`
 * called `KAULD`
 * 'What `AE KPA/WHA`
@@ -352,11 +352,11 @@
 * close `KHROES`
 * mother's `PHOER/AES`
 * house. `HOUS TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * entered `SPWR-D`
 * courtyard, `KORT/KWRARD KW-BG`
 * cock `KOBG`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * well, `WEL KW-BG`
 * out: `OUT STPH-FPLT`
 * 'Cock-a-doodle-doo! `AE KPA/KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO SKHRAPL`
@@ -547,7 +547,7 @@
 * 'Thank `AE KPA/THAPBG`
 * wolf.' `WOFL TP-PL AE`
 * 'Whither `AE KPA/WHEU/THER`
-* away `A/WAEU`
+* away `WA*EU`
 * early, `ERL KW-BG`
 * Red-Cap?' `KPA/RED H-PB KPA/KAP H-F AE`
 * 'To `AE KPA/TO`
@@ -577,7 +577,7 @@
 * it,' `T KW-BG AE`
 * replied `RE/PHRAOEUD`
 * Red-Cap. `KPA/RED H-PB KPA/KAP TP-PL`
-* himself: `H*EUPLS STPH-FPLT`
+* himself: `HEUPLS STPH-FPLT`
 * tender `TERPBD`
 * young `KWRUPBG`
 * creature! `KRAOEFP SKHRAPL`
@@ -664,7 +664,7 @@
 * put `PUT`
 * clothes, `KHRO*ETS KW-BG`
 * dressed `TKREFD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * laid `HRAEUD`
 * curtains. `KUR/TEUPBS TP-PL`
 * been `PW-PB`
@@ -774,7 +774,7 @@
 * belly, `PWEL/HREU KW-BG`
 * awoke, `A/WOEBG KW-BG`
 * wanted `WAPBTD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * heavy `HOEUF`
 * collapsed `KHRAFD`
 * once, `WUPBS KW-BG`

@@ -93,7 +93,7 @@
 * who `WHO`
 * knew `TPHAOU`
 * stole `STOEL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * took `TAOBG`
 * hen, `HEPB KW-BG`
 * cut `KUT`
@@ -106,7 +106,7 @@
 * apron `AEUP/ROPB`
 * dress. `TKRES TP-PL`
 * carried `KAERD`
-* away `A/WAEU`
+* away `WA*EU`
 * secret `SKRET`
 * place, `PHRAEUS KW-BG`
 * nurse `TPHURS`
@@ -170,7 +170,7 @@
 * The `KPA/-T`
 * however, `HOUF KW-BG`
 * thought `THAUT`
-* himself: `H*EUPLS STPH-FPLT`
+* himself: `HEUPLS STPH-FPLT`
 * 'If `AE KPA/TP`
 * has `HAS`
 * I `EU`
@@ -375,7 +375,7 @@
 * strange `STRAEUPBG`
 * land `HRAPBD`
 * unknown?' `UPB/TPHOEPB H-F AE`
-* As `KPA/AZ`
+* As `KPA/AS`
 * seem `SAOEPL`
 * quite `KWAOEUT`
 * willing, `-LG KW-BG`
@@ -423,7 +423,7 @@
 * descended `TKE/SEPBD/-D`
 * again, `TKPWEPB KW-BG`
 * caused `KAUFD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * announced `A/TPHOUPBS/-D`
 * huntsman, `HUPBTS/PHA*PB KW-BG`
 * asked `SK-D`
@@ -456,7 +456,7 @@
 * one `WUPB`
 * end `EPBD`
 * stationed `STAEUGS/-D`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * began `TKPWAPB`
 * wish. `WEURB TP-PL`
 * Two `KPA/TWO`
@@ -486,7 +486,7 @@
 * feast. `TPAOEFT TP-PL`
 * assembled `A/SEPL/-BLD`
 * huntsman: `HUPBTS/PHA*PB STPH-FPLT`
-* 'As `AE KPA/AZ`
+* 'As `AE KPA/AS`
 * clever, `KHREFR KW-BG`
 * sit `SEUT`
 * me.' `PHE TP-PL AE`

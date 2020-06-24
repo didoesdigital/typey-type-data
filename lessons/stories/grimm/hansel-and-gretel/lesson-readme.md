@@ -291,7 +291,7 @@
 * behind `HEUPBD`
 * for? `TPOR H-F`
 * Pay `KPA/PAEU`
-* attention, `A/T-PBGS KW-BG`
+* attention, `TAEPBGS KW-BG`
 * forget `TPERGT`
 * use `AOUS`
 * legs.' `HREGS TP-PL AE`
@@ -337,7 +337,7 @@
 * cut `KUT`
 * wood. `WAOD TP-PL`
 * done, `TKOPB KW-BG`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * sat `SAT`
 * fire, `TPAOEUR KW-BG`
 * noon `TPHAOPB`
@@ -566,7 +566,7 @@
 * spread `SPRED`
 * wings `WEUPBGS`
 * flew `TPHRAOU`
-* away `A/WAEU`
+* away `WA*EU`
 * roof `RAOF`
 * alighted; `A/HRAOEUT/-D STPH*FPLT`
 * approached `A/PROEFPD`
@@ -891,7 +891,7 @@
 * thy `THAO*EU`
 * white.' `WHAOEUT TP-PL AE`
 * seated `SAOETD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * back, `PWABG KW-BG`
 * told `TOLD`
 * 'No,' `AE KPA/TPHO KW-BG AE`

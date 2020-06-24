@@ -31,7 +31,7 @@
 * smooth, `SPHAO*T KW-BG`
 * although `HR*T`
 * cut `KUT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * slightly, `SHRAOEULT KW-BG`
 * piece `PAOES`
 * of `-F`
@@ -95,7 +95,7 @@
 * if `TP`
 * been `PW-PB`
 * king `KEUPBG`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * "You `KR-GS KPA/U`
 * are `R`
 * good `TKPWAOD`
@@ -213,7 +213,7 @@
 * keep `KAOEP`
 * steady. `STAED TP-PL`
 * carried `KAERD`
-* away," `A/WAEU KW-BG KR-GS`
+* away," `WA*EU KW-BG KR-GS`
 * said; `SED STPH*FPLT`
 * "it `KR-GS T`
 * come, `KOPL KW-BG`
@@ -351,7 +351,7 @@
 * standing `STAPBG`
 * there `THR`
 * water!" `WAUR SKHRAPL KR-GS`
-* exclaimed. `SKHRAEUPL/-D TP-PL`
+* exclaimed. `SKHRAEUPLD TP-PL`
 * need `TPHAOED`
 * give `TKPWEUF`
 * warmth, `WARPLT KW-BG`
@@ -680,7 +680,7 @@
 * young `KWRUPBG`
 * wild `WAOEULD`
 * girl `TKPWEURL`
-* honest; `HO*PBS STPH*FPLT`
+* honest; `HOPBS STPH*FPLT`
 * declare `TKE/KHRAR`
 * sight `SAOEUT`
 * Heaven. `KPA/HEFPB TP-PL`
@@ -969,7 +969,7 @@
 * In `KPA/TPH`
 * His `KPA/HEUS`
 * time `TAOEUPL`
-* Himself, `KPA/H*EUPLS KW-BG`
+* Himself, `KPA/HEUPLS KW-BG`
 * forsake `TPAUR/SAEUBG`
 * fell `TPEL`
 * refreshed, `RERB/-D KW-BG`
@@ -997,7 +997,7 @@
 * tied `TAO*EUD`
 * wisp `W*EUFP`
 * straw, `STRAU KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * thus `THUS`
 * found `TPOUPBD`
 * coffee. `KOEF TP-PL`
@@ -1033,7 +1033,7 @@
 * mayor; `PHAEUR STPH*FPLT`
 * now `TPHOU`
 * whole. `WHOEL TP-PL`
-* honest `HO*PBS`
+* honest `HOPBS`
 * respectable `R-PT/-BL`
 * working `WOG`
 * man." `PHAPB TP-PL KR-GS`

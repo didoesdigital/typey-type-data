@@ -182,7 +182,7 @@
 * it `T`
 * all, `AUL KW-BG`
 * thought `THAUT`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * leg. `HREG TP-PL`
 * "That `KR-GS KPA/THA`
 * is `S`
@@ -212,7 +212,7 @@
 * acquaintance." `KWAEUPB/TAPBS TP-PL KR-GS`
 * Then `KPA/THEPB`
 * laid `HRAEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * full `TPUL`
 * length `HREPBG`
 * behind `HEUPBD`
@@ -633,7 +633,7 @@
 * herself `H*ERS`
 * other, `OER KW-BG`
 * firm `TPEURPL`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * touched `TUFPD`
 * much `PHUFP`
 * almost `HR-PL`
@@ -671,7 +671,7 @@
 * say. `SAEU TP-PL`
 * felt `TPELT`
 * melting `PHELT/-G`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * gun `TKPW-PB`
 * shoulder. `SHOURLD TP-PL`
 * draught `TKRAUFT`

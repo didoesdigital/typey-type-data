@@ -56,7 +56,7 @@
 * part `PART`
 * fight, `TPAOEUT KW-BG`
 * when `WHEPB`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * advanced; `SRAPBS/-D STPH*FPLT`
 * and, `SKP KW-BG`
 * back, `PWABG KW-BG`
@@ -190,7 +190,7 @@
 * you," `U KW-BG KR-GS`
 * "You're `KR-GS KPA/U AE R*/*E`
 * rude `RAOUD`
-* fellow," `TPO*EUL KW-BG KR-GS`
+* fellow," `TP*EL KW-BG KR-GS`
 * beetle, `PWAO*ELT KW-BG`
 * walked `WAUBGD`
 * stable; `STABL STPH*FPLT`
@@ -199,7 +199,7 @@
 * distance, `STKAPBS KW-BG`
 * till `TEUL`
 * found `TPOUPBD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * flower-garden, `TPHRO*UR H-PB TKPWA*RPB KW-BG`
 * all `AUL`
 * fragrant `TPRAEUG/RAPBT`
@@ -274,7 +274,7 @@
 * butterfly." `PW*URT/TPHRAOEU TP-PL KR-GS`
 * conceited `KAUPB/SAOET/-D`
 * are!" `R SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * "Fly `KR-GS KPA/TPHRAOEU`
 * about `PW`
 * butterfly, `PW*URT/TPHRAOEU KW-BG`
@@ -301,10 +301,10 @@
 * already;" `HR-R STPH*FPLT KR-GS`
 * saying, `SAEUG KW-BG`
 * spread `SPRED`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * want `WAPBT`
 * disgusted," `TKEUS/TKPWUFT/-D KW-BG KR-GS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * yet `KWRET`
 * can't `K-PBT`
 * help `HEP`
@@ -508,7 +508,7 @@
 * dear `TKAER`
 * son `SOPB`
 * engaged `EPB/TKPWAEUPBLGD`
-* himself," `H*EUPLS KW-BG KR-GS`
+* himself," `HEUPLS KW-BG KR-GS`
 * mother, `PHOER KW-BG`
 * "dear `KR-GS TKAER`
 * innocent `TPH-PBT`
@@ -698,7 +698,7 @@
 * stables," `STAEUBLS KW-BG KR-GS`
 * now `TPHOU`
 * resting `REFT/-G`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * "Don't `KR-GS TKO*PB AE T*`
 * spoil `SPOEUL`
 * girls," `TKPWEURLS KW-BG KR-GS`
@@ -743,17 +743,17 @@
 * No `KPA/TPHO`
 * sooner `SAORPB`
 * done. `TKOPB TP-PL`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * went, `WEPBT KW-BG`
 * stayed `STAEUD`
-* away `A/WAEU`
+* away `WA*EU`
 * wife `WAOEUF`
 * behind `HEUPBD`
 * forsaken `TPAUR/SA*EUPB`
 * widow. `WO*EUD TP-PL`
 * "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
 * "this `KR-GS TH`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * family `TPAEPL`
 * complete `KPHRAOET`
 * vagabond. `SRAG/PWOPBD TP-PL`
@@ -940,7 +940,7 @@
 * its `EUTS`
 * legs. `HREGS TP-PL`
 * ship `SHEUP`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * current `KURPBT`
 * whenever `WHEFR`
 * too `TAO`
@@ -984,7 +984,7 @@
 * fly, `TPHRAOEU KW-BG`
 * flew. `TPHRAOU TP-PL`
 * world," `WORLD KW-BG KR-GS`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * "it's `KR-GS T AES`
 * abominable `A/PWOPL/TPHABL`
 * world; `WORLD STPH*FPLT`
@@ -1017,7 +1017,7 @@
 * proudly `PROUD/HREU`
 * vexes `SREBGS/-S`
 * anything. `TPHEUG TP-PL`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * sympathy `SEUPL/THEU`
 * world. `WORLD TP-PL`
 * My `KPA/PHEU`
@@ -1072,7 +1072,7 @@
 * hurting `HURGT`
 * "There," `KR-GS KPA/THR KW-BG KR-GS`
 * "creep `KR-GS KRAOEP`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * thou `THO*U`
 * canst. `K*/A*/TPH*/S*/T* TP-PL`
 * thy `THAO*EU`

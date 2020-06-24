@@ -105,7 +105,7 @@
 * side," `SAOEUD KW-BG KR-GS`
 * supposed `SPOED`
 * showing `SHOEG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * once `WUPBS`
 * more. `PHOR TP-PL`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
@@ -127,7 +127,7 @@
 * knew `TPHAOU`
 * how `HOU`
 * move `PHOF`
-* away `A/WAEU`
+* away `WA*EU`
 * this `TH`
 * place,—I `PHRAEUS KW-BG EPL/TKA*RB EU`
 * should `SHO`
@@ -151,8 +151,8 @@
 * even `AOEPB`
 * know `TPHOE`
 * run." `RUPB TP-PL KR-GS`
-* "Away, `KR-GS KPA/A/WAEU KW-BG`
-* away," `A/WAEU KW-BG KR-GS`
+* "Away, `KR-GS KPA/WA*EU KW-BG`
+* away," `WA*EU KW-BG KR-GS`
 * barked `PWARBGD`
 * yard-dog. `KWRARD H-PB TKOG TP-PL`
 * quite `KWAOEUT`
@@ -185,8 +185,8 @@
 * run, `RUPB KW-BG`
 * before `PW-FR`
 * him. `HEUPL TP-PL`
-* Away, `KPA/A/WAEU KW-BG`
-* away, `A/WAEU KW-BG`
+* Away, `KPA/WA*EU KW-BG`
+* away, `WA*EU KW-BG`
 * they `THE`
 * all `AUL`
 * go." `TKPW TP-PL KR-GS`
@@ -248,7 +248,7 @@
 * change." `KHAEUPBG TP-PL KR-GS`
 * him," `HEUPL KW-BG KR-GS`
 * Man `KPA/PHAPB`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * feeling `TPAOELG`
 * talking `TAUG`
 * something `S-G`
@@ -369,14 +369,14 @@
 * beautiful `PWAOUFL`
 * sight," `SAOEUT KW-BG KR-GS`
 * she `SHE`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * her `HER`
 * eyes `AO*EUS`
 * sparkled. `SPAR/K-LD TP-PL`
 * "And `KR-GS AFPBD`
 * we `WE`
 * can't `K-PBT`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * time," `TAOEUPL KW-BG KR-GS`
 * man, `PHAPB KW-BG`
 * pointing `POEUPBGT`
@@ -431,7 +431,7 @@
 * by-and-by, `PWEU H-PB SKP H-PB PWEU KW-BG`
 * gnaw `TPHA*U`
 * bone. `PWOEPB TP-PL`
-* away!" `A/WAEU SKHRAPL KR-GS`
+* away!" `WA*EU SKHRAPL KR-GS`
 * "Are `KR-GS KPA/R`
 * beings `-BGZ`
 * I?" `EU H-F KR-GS`
@@ -612,7 +612,7 @@
 * Don't `TKO*PB AE T*`
 * hear `HAER`
 * am. `APL TP-PL`
-* away! `A/WAEU SKHRAPL`
+* away! `WA*EU SKHRAPL`
 * talk `TAUBG`
 * any `TPHEU`
 * dogs. `TKOGS TP-PL`
@@ -626,7 +626,7 @@
 * iron `AOEURPB`
 * legs, `HREGS KW-BG`
 * size `SAOEUZ`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * "What `KR-GS KPA/WHA`
 * crackling `KRABG/-LG`
 * within `W-PB`
@@ -649,7 +649,7 @@
 * approach `PROEFP`
 * you'll `UL`
 * melt `PHELT`
-* away." `A/WAEU TP-PL KR-GS`
+* away." `WA*EU TP-PL KR-GS`
 * might `PHAOEUT`
 * well `WEL`
 * go," `TKPW KW-BG KR-GS`
@@ -703,7 +703,7 @@
 * These `KPA/THEZ`
 * thaw, `THA*U KW-BG`
 * pictured `P*EUFPD`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * lovely `HROFL`
 * human `HAOUPL`
 * being. `-BG TP-PL`
@@ -731,7 +731,7 @@
 * change; `KHAEUPBG STPH*FPLT`
 * began `TKPWAPB`
 * thaw. `THA*U TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * warmth `WARPLT`
 * increased, `EUPB/KRAOEFD KW-BG`
 * decreased. `TKE/KRAOES/-D TP-PL`

@@ -168,7 +168,7 @@
 * stuffed `STUFD`
 * sawdust `SAU/TKUFT`
 * like `HRAOEUBG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * understood `*URPBD`
 * out-of-date `OUT H-PB -F H-PB TKAEUT`
 * mentioned `PHEPBGS/-D`
@@ -192,7 +192,7 @@
 * poor `PAOR`
 * little `HREUL`
 * feel `TPAOEL`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * insignificant `EUPB/SEUG`
 * commonplace, `KPHOPB/PHRA*EUS KW-BG`
 * person `PERPB`
@@ -231,7 +231,7 @@
 * their `THAEUR`
 * mainsprings `PHAEUPB/SPREUPBG/-S`
 * pass `PAS`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * knew `TPHAOU`
 * toys, `TOEUS KW-BG`
 * would `WO`
@@ -404,7 +404,7 @@
 * swooping `SWAOPG`
 * wind `WEUPBD`
 * hustled `HUS/-LD`
-* away `A/WAEU`
+* away `WA*EU`
 * cupboards. `KUP/PWAORDZ TP-PL`
 * She `KPA/SHE`
 * "tidying `KR-GS TAOEU/TKEU/-G`
@@ -770,7 +770,7 @@
 * backwards. `PWABG/WARDZ TP-PL`
 * smell `SPHEL`
 * right!" `RAOEUT SKHRAPL KR-GS`
-* exclaimed. `SKHRAEUPL/-D TP-PL`
+* exclaimed. `SKHRAEUPLD TP-PL`
 * real!" `RAEL SKHRAPL KR-GS`
 * Real!" `KPA/RAEL SKHRAPL KR-GS`
 * Real! `KPA/RAEL SKHRAPL`
@@ -928,7 +928,7 @@
 * coming `KO*G`
 * in, `TPH KW-BG`
 * tiny `TOEUPB`
-* crabs, `KRAB/-S KW-BG`
+* crabs, `KRABS KW-BG`
 * sand `SAPBD`
 * castles. `KAS/-LS TP-PL`
 * "How `KR-GS KPA/HOU`
@@ -1136,7 +1136,7 @@
 * using `AOUFG`
 * springing `SPREUPBG/-G`
 * turf `T*UFR`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * whirling `WHEURL/-G`
 * others `OERS`
 * did, `TK KW-BG`
@@ -1159,7 +1159,7 @@
 * through. `THRU TP-PL`
 * black `PWHRABG`
 * familiar, `TPAPL KW-BG`
-* himself: `H*EUPLS STPH-FPLT`
+* himself: `HEUPLS STPH-FPLT`
 * looks `HRAOBGS`
 * fever!" `TPAOEF SKHRAPL KR-GS`
 * own `OEPB`

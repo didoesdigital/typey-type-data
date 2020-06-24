@@ -1,15 +1,12 @@
 # Multi-syllable words with prefixes
 
-* away `A/WAEU`
 * alone `A/HROEPB`
 * replied `RE/PHRAOEUD`
 * across `A/KROS`
 * appeared `A/PAOERD`
-* attention `A/T-PBGS`
 * unto `UPB/TO`
 * remained `RE/PHAEUPBD`
 * afraid `A/TPRAEUD`
-* enemy `EPB/PHEU`
 * appear `A/PAOER`
 * impossible `EUPL/POB`
 * remain `RE/PHAEUPB`
@@ -137,7 +134,6 @@
 * indignation `EUPB/TKEUG/TPHAEUGS`
 * preceding `PRE/SAOED/-G`
 * absurd `AB/SURD`
-* pronounced `PRO/TPHOUPBS/-D`
 * emperor `EPL/ROR`
 * relieved `RE/HREFD`
 * inspired `EUPB/SPAOEURD`
@@ -216,7 +212,6 @@
 * envy `EPB/SREU`
 * pretend `PRE/TEPBD`
 * alas `A/HRAS`
-* contest `KAUPB/TEFT`
 * awakened `A/WAEUBG/-PBD`
 * retained `RAOE/TAEUPBD`
 * embrace `EPL/PWRAEUS`
@@ -927,4 +922,4 @@
 * invade `EUPB/SRAEUD`
 * prolong `PRO/HROPBG`
 * enchanting `EPB/KHAPBT/-G`
-* repressed `RE/PRES/-D`
+* repressed `RE/PREFD`

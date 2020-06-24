@@ -93,7 +93,7 @@
 * very `SRE`
 * much `PHUFP`
 * worn `WORPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * so `SO`
 * asked `SK-D`
 * him `HEUPL`

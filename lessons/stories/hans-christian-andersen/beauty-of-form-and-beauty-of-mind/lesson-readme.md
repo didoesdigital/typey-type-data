@@ -169,7 +169,7 @@
 * must `PHUFT`
 * lovely `HROFL`
 * city, `STEU KW-BG`
-* foreigners `TPORPB/ER/-S`
+* foreigners `TPORPB/ERS`
 * would `WO`
 * constantly `SKA*PBLT`
 * arriving `A/RAOEUFG`
@@ -204,7 +204,7 @@
 * old." `OLD TP-PL KR-GS`
 * "An `KR-GS KPA/APB`
 * organist!" `ORG/TPH*EUS SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * lady, `HRA*ED KW-BG`
 * had `H`
 * never `TPHEFR`
@@ -225,7 +225,7 @@
 * smile `SPHAOEUL`
 * lips `HREUPS`
 * faded `TPAEUD/-D`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * caught `KAUT`
 * sight `SAOEUT`
 * pair `PAEUR`
@@ -255,7 +255,7 @@
 * fountain. `TPOUPB/TAEUPB TP-PL`
 * charming `KHARPL/-G`
 * was! `WAS SKHRAPL`
-* study `STAO*UD`
+* study `STOEU`
 * contemplate, `KAUPB/TPHRAEUT KW-BG`
 * converse `KWERS`
 * with; `W STPH*FPLT`
@@ -388,7 +388,7 @@
 * company, `K-P KW-BG`
 * each `AOEFP`
 * imagined `PHAPBLGD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * favored `TPAEUFRD`
 * person `PERPB`
 * accompany `A/K-P`
@@ -513,7 +513,7 @@
 * before. `PW-FR TP-PL`
 * "Good `KR-GS KPA/TKPWAOD`
 * heavens!" `HEFPBS SKHRAPL KR-GS`
-* exclaimed. `SKHRAEUPL/-D TP-PL`
+* exclaimed. `SKHRAEUPLD TP-PL`
 * "So `KR-GS KPA/SO`
 * burning `PWURPBG`
 * mountain; `PHOUPB/TAEUPB STPH*FPLT`
@@ -984,7 +984,7 @@
 * thoroughly `THORL`
 * sick, `SEUBG KW-BG`
 * fading `TPAEUD/-G`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * When `KPA/WHEPB`
 * strong, `STROPBG KW-BG`
 * else `ELS`

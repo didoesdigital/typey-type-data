@@ -47,7 +47,7 @@
 * come `KOPL`
 * take `TAEUBG`
 * me!" `PHE SKHRAPL KR-GS`
-* As `KPA/AZ`
+* As `KPA/AS`
 * spoke, `SPOEBG KW-BG`
 * Death, `KPA/TK*T KW-BG`
 * grisly `TKPWREUS/HREU`

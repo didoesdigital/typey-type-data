@@ -49,7 +49,7 @@
 * raven `RAFPB`
 * would `WO`
 * fly `TPHRAOEU`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * then `THEPB`
 * I `EU`
 * should `SHO`
@@ -68,7 +68,7 @@
 * into `TPHAO`
 * raven, `RAFPB KW-BG`
 * flew `TPHRAOU`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * through `THRU`
 * open `OEP`
@@ -104,7 +104,7 @@
 * followed `TPOLD`
 * sound `SOUPBD`
 * voice. `SROEUS TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * drew `TKRAOU`
 * near, `TPHAOER KW-BG`
 * said, `SED KW-BG`
@@ -247,7 +247,7 @@
 * counts `KOUPBTS`
 * nothing,' `TPHOG KW-BG AE`
 * allowed `HRO*UD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * persuaded, `PER/SWAEUD/-D KW-BG`
 * drank. `TKRA*PBG TP-PL`
 * towards `TORDZ`
@@ -510,7 +510,7 @@
 * giant `SKWRAOEUPBT`
 * stood `STAOD`
 * thought `THAUT`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * sees `SAO*ES`
 * going `TKPW-G`
 * in, `TPH KW-BG`
@@ -609,7 +609,7 @@
 * many `PHAEPB`
 * thousand `THOEUPB`
 * miles `PHAOEULS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * 'How `AE KPA/HOU`
 * get `TKPWET`
 * there?' `THR H-F AE`
@@ -761,7 +761,7 @@
 * bottom. `PWOPLT TP-PL`
 * 'That `AE KPA/THA`
 * ring,' `REUPBG KW-BG AE`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * also `HR-S`
 * coming `KO*G`
 * sought `SAUT`

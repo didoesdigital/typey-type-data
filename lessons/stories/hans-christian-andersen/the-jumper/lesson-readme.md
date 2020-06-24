@@ -311,7 +311,7 @@
 * where `W-R`
 * killed. `KEULD TP-PL`
 * seated `SAOETD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * ditch, `TKEUFP KW-BG`
 * how `HOU`
 * things `THEUPBGS`

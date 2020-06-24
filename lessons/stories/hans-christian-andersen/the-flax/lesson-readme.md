@@ -265,7 +265,7 @@
 * bearing `PWAERG`
 * flowers. `TPHRO*URS TP-PL`
 * Then `KPA/THEPB`
-* attention, `A/T-PBGS KW-BG`
+* attention, `TAEPBGS KW-BG`
 * nor `TPH-R`
 * any `TPHEU`
 * unless `TPH-LS`
@@ -339,7 +339,7 @@
 * fortune." `TP-RPB TP-PL KR-GS`
 * Years `KPA/KWRAOERS`
 * passed `PAFD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * worn `WORPB`
 * together. `TOGT TP-PL`
 * "It `KR-GS KPA/T`
@@ -354,7 +354,7 @@
 * held `HELD`
 * together `TOGT`
 * longer, `HRORPBG KW-BG`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * impossibilities." `EUPL/POBLT/-S TP-PL KR-GS`
 * length `HREPBG`
 * fell `TPEL`

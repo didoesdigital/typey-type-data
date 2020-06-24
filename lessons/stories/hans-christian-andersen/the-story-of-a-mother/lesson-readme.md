@@ -133,13 +133,13 @@
 * surely `SHURL`
 * not `TPHOT`
 * take `TAEUBG`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * me." `PHE TP-PL KR-GS`
 * man, `PHAPB KW-BG`
 * indeed `TPHAOEPBD`
 * Death `KPA/TK*T`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * nodded `TPHOD/-D`
 * his `HEUS`
 * head `HED`
@@ -218,7 +218,7 @@
 * brings `PWREUS`
 * back `PWABG`
 * what `WHA`
-* away." `A/WAEU TP-PL KR-GS`
+* away." `WA*EU TP-PL KR-GS`
 * "Only `KR-GS KPA/OEPBL`
 * tell `TEL`
 * me `PHE`
@@ -546,7 +546,7 @@
 * water-snakes `WAUR H-PB STPHAEUBGS`
 * twining `TWEUPB/-G`
 * them, `THEPL KW-BG`
-* crabs `KRAB/-S`
+* crabs `KRABS`
 * clinging `KHREUPBG/-G`
 * their `THAEUR`
 * stems. `STEPLS TP-PL`
@@ -612,7 +612,7 @@
 * head. `HED TP-PL`
 * touch `TUFP`
 * flower," `TPHRO*UR KW-BG KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * here; `HAOER STPH*FPLT`
 * when `WHEPB`
 * comes—I `KOPLS EPL/TKA*RB EU`
@@ -768,7 +768,7 @@
 * Release `KPA/RE/HRAOES`
 * misery. `PHEUS/REU TP-PL`
 * Rather `KPA/RAER`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * kingdom `KEUPBG/TKOPL`
 * God. `TKPWO*D TP-PL`
 * Forget `KPA/TPERGT`

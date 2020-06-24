@@ -16,7 +16,7 @@
 * where `W-R`
 * to `TO`
 * go. `TKPW TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * as `AZ`
 * saw `SAU`

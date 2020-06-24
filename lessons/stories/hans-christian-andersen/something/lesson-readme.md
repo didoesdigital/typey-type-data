@@ -536,7 +536,7 @@
 * He `KPA/HE`
 * gained `TKPWAEUPBD`
 * made `PHAED`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * last `HRAFT`
 * died, `TKAOEUD KW-BG`
 * "something" `KR-GS S-G KR-GS`
@@ -590,7 +590,7 @@
 * original? `ORPBLG H-F`
 * tried `TRAOEUD`
 * lofty `HROF/TEU`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * fell `TPEL`
 * broke `PWROEBG`
 * neck. `TPHEBG TP-PL`
@@ -825,7 +825,7 @@
 * saw `SAU`
 * outside `OUDZ`
 * running `R*UPBG`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * ice; `AOEUS STPH*FPLT`
 * waving `WAFG`
 * wind; `WEUPBD STPH*FPLT`
@@ -970,7 +970,7 @@
 * likely, `HRAOEULG KW-BG`
 * made, `PHAED KW-BG`
 * brick `PWREUBG`
-* useless, `AOUS/-LS KW-BG`
+* useless, `AOUFLS KW-BG`
 * unless `TPH-LS`
 * will, `HR KW-BG`
 * canst `K*/A*/TPH*/S*/T*`
@@ -998,7 +998,7 @@
 * looked `HRAOBGD`
 * meanest `PHAOEPB/EFT`
 * whose `WHOZ`
-* honest `HO*PBS`
+* honest `HOPBS`
 * deeds `TKAOEDZ`
 * thee `THAOE`
 * appeared `A/PAOERD`
@@ -1008,7 +1008,7 @@
 * Thou `KPA/THO*U`
 * shalt `SHALT`
 * turned `TURPBD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * permission `PERPLGS`
 * gate `TKPWAET`
 * reflect, `TPHREBGT KW-BG`

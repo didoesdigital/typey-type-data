@@ -206,7 +206,7 @@
 * some `SOPL`
 * consequence, `KWEPBS KW-BG`
 * considered `KR-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * quarter `KWAR/TER`
 * coach, `KOEFP KW-BG`
 * because `PWAU`
@@ -250,7 +250,7 @@
 * "No, `KR-GS KPA/TPHO KW-BG`
 * certainly `SERPBL`
 * not!" `TPHOT SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * elder. `ELD/ER TP-PL`
 * am `APL`
 * too `TAO`
@@ -261,7 +261,7 @@
 * 'European `AE UR/PAOEPB`
 * necessity?'" `TPHES/TEU H-F AE KR-GS`
 * observed `OEBD`
-* honest `HO*PBS`
+* honest `HOPBS`
 * Measuring `KPA/PH-RBG`
 * Tape. `KPA/TAEUP TP-PL`
 * "One `KR-GS KPA/WUPB`

@@ -371,7 +371,7 @@
 * garden, `TKPWA*RPB KW-BG`
 * going `TKPW-G`
 * others, `OERS KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * possible. `POB TP-PL`
 * professor `PROEFR`
 * walks `WAUBGS`
@@ -699,7 +699,7 @@
 * slight `SHRAOEUT`
 * carnival `KARPB/SRAL`
 * rod `ROD`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * among `PHOPBG`
 * belonged `PWHROPBGD`
 * them; `THEPL STPH*FPLT`
@@ -754,7 +754,7 @@
 * laughing. `HRAFG TP-PL`
 * also. `HR-S TP-PL`
 * use, `AOUS KW-BG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * remain `RE/PHAEUPB`
 * black `PWHRABG`
 * hat; `HAT STPH*FPLT`
@@ -777,7 +777,7 @@
 * began `TKPWAPB`
 * pull `PUL`
 * way. `WAEU TP-PL`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * astonished, `A/STOPB/EURBD KW-BG`
 * "There `KR-GS KPA/THR`
 * here `HAOER`
@@ -805,7 +805,7 @@
 * alone, `A/HROEPB KW-BG`
 * badly, `PWAD/HREU KW-BG`
 * all. `AUL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * notice `TPH-TS`
 * let `HRET`
 * noise. `TPHOEUS TP-PL`

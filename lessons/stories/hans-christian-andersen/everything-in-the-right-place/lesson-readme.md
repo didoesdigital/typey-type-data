@@ -63,7 +63,7 @@
 * to `TO`
 * drive `TKRAOEUF`
 * them `THEPL`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * bridge, `PWREUPBLG KW-BG`
 * before `PW-FR`
@@ -657,7 +657,7 @@
 * acted `ABGD`
 * here, `HAOER KW-BG`
 * once `WUPBS`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * glory `TKPWHROER`
 * hung `HUPBG`
 * passage `PAFPBLG`
@@ -1085,7 +1085,7 @@
 * families `TPAEPLS`
 * country, `KREU KW-BG`
 * untouched `UPB/TUFPD`
-* honour; `H*/O*/TPH*/O*/*U/R* STPH*FPLT`
+* honour; `HO*RPB/A*U STPH*FPLT`
 * just, `SKWRUFT KW-BG`
 * one's `W*UPBS`
 * duty `TKAOUT`

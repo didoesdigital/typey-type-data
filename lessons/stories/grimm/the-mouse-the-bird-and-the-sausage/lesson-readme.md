@@ -74,7 +74,7 @@
 * one `WUPB`
 * day, `TKAEU KW-BG`
 * met `PHET`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * whom `WHOPL`
 * he `HE`
 * boastfully `PWOEFT/TPHREU`
@@ -128,7 +128,7 @@
 * dinner-time, `TKEURPB H-PB TAOEUPL KW-BG`
 * just `SKWRUFT`
 * threw `THRAOU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * broth, `PWRO*T KW-BG`
 * or `OR`
 * rolled `ROLD`
@@ -216,7 +216,7 @@
 * with `W`
 * fuel `TPAOUL`
 * day. `TKAEU TP-PL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * became `PWAEUPL`
 * uneasy, `UPB/EZ KW-BG`
 * flew `TPHRAOU`
@@ -318,5 +318,5 @@
 * it, `T KW-BG`
 * unable `TPHA*EUBL`
 * recover `ROFR`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * drowned. `TKROUPBD TP-PL`

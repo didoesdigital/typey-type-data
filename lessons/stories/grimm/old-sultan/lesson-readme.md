@@ -165,7 +165,7 @@
 * come `KOPL`
 * wood `WAOD`
 * run `RUPB`
-* away `A/WAEU`
+* away `WA*EU`
 * it; `T STPH*FPLT`
 * must `PHUFT`
 * after `AF`
@@ -234,7 +234,7 @@
 * wished `WEURBD`
 * joy, `SKWROEU KW-BG`
 * 'Now, `AE KPA/TPHOU KW-BG`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * tell `TEL`
 * tales, `TAELS KW-BG`
 * turn `TURPB`
@@ -332,7 +332,7 @@
 * however, `HOUF KW-BG`
 * quite `KWAOEUT`
 * hidden `HEUD/EPB`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * ears `AOERS`
 * bush; `PWURB STPH*FPLT`
 * shook `SHAOBG`
@@ -348,7 +348,7 @@
 * bit `PWEUT`
 * scratched `SKRAFPD`
 * grunted, `TKPWRUPBT/-D KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * roaring `RAORG`
 * out, `OUT KW-BG`
 * 'Look `AE KPA/HRAOBG`

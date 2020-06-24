@@ -108,7 +108,7 @@
 * "The `KR-GS KPA/-T`
 * horse `HORS`
 * eats `AOETS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * up;" `UP STPH*FPLT KR-GS`
 * is `S`
 * say, `SAEU KW-BG`
@@ -423,7 +423,7 @@
 * carried `KAERD`
 * horses `HORSZ`
 * harnessed `HARPBS/-D`
-* As `KPA/AZ`
+* As `KPA/AS`
 * sailed `SAEULD`
 * on, `OPB KW-BG`
 * chance `KHAPBS`
@@ -467,7 +467,7 @@
 * let `HRET`
 * fall `TPAUL`
 * water, `WAUR KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * stream. `STRAOEPL TP-PL`
 * Here `KPA/HAOER`
 * terrible `TERBL`
@@ -781,7 +781,7 @@
 * water; `WAUR STPH*FPLT`
 * secondly, `SEBLGD KW-BG`
 * run `RUPB`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * taken `TAEPB`
 * farm-house `TPARPL H-PB HOUS`
 * borders `PWRORDZ`
@@ -805,7 +805,7 @@
 * earth. `*ERT TP-PL`
 * "It `KR-GS KPA/T`
 * expected!" `KP-PTD SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * "How `KR-GS KPA/HOU`
 * all? `AUL H-F`
 * same; `SAEUPL STPH*FPLT`
@@ -818,7 +818,7 @@
 * new `TPHU`
 * indeed `TPHAOEPBD`
 * many `PHAEPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * until `TPH-L`
 * confirmed, `K-FRPL/-D KW-BG`
 * therefore, `TH-FR KW-BG`
@@ -1383,7 +1383,7 @@
 * For `KPA/TPOR`
 * trembled `TREPL/-BLD`
 * pedestal `PED/STAL`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * toppled `TOP/-LD`
 * over, `OEFR KW-BG`
 * ruin `RAOUPB`

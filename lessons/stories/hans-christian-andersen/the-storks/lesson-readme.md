@@ -145,7 +145,7 @@
 * way. `WAEU TP-PL`
 * "Stork, `KR-GS KPA/STORBG KW-BG`
 * fly `TPHRAOEU`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * Stand `KPA/STAPBD`
 * pray, `PRAEU KW-BG`
 * See `KPA/SAOE`
@@ -297,7 +297,7 @@
 * great `TKPWRAET`
 * review `RE/SRAOU`
 * over, `OEFR KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * warm `WARPL`
 * countries `KUPBTS`
 * far `TPAR`
@@ -484,7 +484,7 @@
 * "Oh `KR-GS KPA/O*ERBGS`
 * no, `TPHORBGS`
 * no," `TPHO KW-BG KR-GS`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * roof `RAOF`
 * others; `OERS STPH*FPLT`
 * now `TPHOU`
@@ -505,7 +505,7 @@
 * came `KAEUPL`
 * again `TKPWEPB`
 * song:— `SOPBG STPH-FPLT EPL/TKA*RB`
-* away." `A/WAEU TP-PL KR-GS`
+* away." `WA*EU TP-PL KR-GS`
 * down, `TKOUPB KW-BG`
 * pick `PEUBG`
 * eyes `AO*EUS`
@@ -566,7 +566,7 @@
 * determined `TKERPLD`
 * first `TPEUFRT`
 * Yet `KPA/KWRET`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * six `SEUBGS`
 * years `KWRAOERS`
 * old. `OLD TP-PL`
@@ -617,7 +617,7 @@
 * pleasure `PHRERB`
 * lightly `HRAOEULT`
 * prettily. `PRET/HREU TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * arrived, `A/RAOEUFD KW-BG`
 * together `TOGT`
 * before `PW-FR`

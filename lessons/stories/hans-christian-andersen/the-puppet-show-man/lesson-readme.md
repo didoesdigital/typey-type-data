@@ -29,13 +29,13 @@
 * been `PW-PB`
 * the `-T`
 * happiest `HAP/KWREFT`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * in `TPH`
 * creation; `KRAEGS STPH*FPLT`
 * and `SKP`
 * indeed `TPHAOEPBD`
 * considered `KR-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * so, `SO KW-BG`
 * for `TPOR`
 * heard `HAERD`
@@ -193,7 +193,7 @@
 * when `WHEPB`
 * are `R`
 * hidden `HEUD/EPB`
-* away `A/WAEU`
+* away `WA*EU`
 * under `TPH-PB`
 * earth. `*ERT TP-PL`
 * experiments `SPERPLTS`
@@ -338,7 +338,7 @@
 * brain, `PWRAEUPB KW-BG`
 * declared `TKE/KHRAEURD`
 * old `OLD`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * might `PHAOEUT`
 * learn `HRERPB`
 * look `HRAOBG`
@@ -551,7 +551,7 @@
 * My `KPA/PHEU`
 * breath `PWR*ET`
 * taken `TAEPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * head `HED`
 * whirled, `WHEURL/-D KW-BG`
 * miserable `PHEUZ/-BL`

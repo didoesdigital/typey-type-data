@@ -232,7 +232,7 @@
 * time `TAOEUPL`
 * would `WO`
 * long `HROPBG`
-* useless. `AOUS/-LS TP-PL`
+* useless. `AOUFLS TP-PL`
 * Well, `KPA/WEL KW-BG`
 * then, `THEPB KW-BG`
 * pearl—the `PERL EPL/TKA*RB -T`
@@ -245,7 +245,7 @@
 * hand-in-hand `HAPBD H-PB TPH H-PB HAPBD`
 * they `THE`
 * floated `TPHROET/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * spot `SPOT`
 * now `TPHOU`
 * lingering. `HREUPBG/ERG TP-PL`
@@ -451,7 +451,7 @@
 * last, `HRAFT KW-BG`
 * wanting, `WAPBGT KW-BG`
 * increases `EUPB/KRAOEFS`
-* lustre, `HRUS/TER/A*U KW-BG`
+* lustre, `HRUFRT/A*U KW-BG`
 * explains `SPHRAEUPBS`
 * meaning `PHAOEPBG`
 * other `OER`

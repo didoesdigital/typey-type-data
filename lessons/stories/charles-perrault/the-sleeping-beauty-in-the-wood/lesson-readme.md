@@ -396,7 +396,7 @@
 * now `TPHOU`
 * noise, `TPHOEUS KW-BG`
 * bethought `PWE/THAUT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * prediction `PREUBGS`
 * must `PHUFT`
 * necessarily `TPHELS`
@@ -410,7 +410,7 @@
 * angel, `APB/SKWREL KW-BG`
 * beautiful; `PWAOUFL STPH*FPLT`
 * swooning `SWAOPB/-G`
-* away `A/WAEU`
+* away `WA*EU`
 * diminished `TKPHEURPB/-D`
 * bit `PWEUT`
 * complexion; `KPHR*EBGS STPH*FPLT`
@@ -480,7 +480,7 @@
 * Queen), `KWAO*EPB PR*EPB KW-BG`
 * governesses, `TKPWO*FRPBS/-S KW-BG`
 * maids `PHAEUDZ`
-* honour, `H*/O*/TPH*/O*/*U/R* KW-BG`
+* honour, `HO*RPB/A*U KW-BG`
 * ladies `HRAEUDZ`
 * bedchamber, `PWED/TK-LS/KHAEURPL/KW-BG`
 * gentlemen, `SKWR*EPL KW-BG`
@@ -622,7 +622,7 @@
 * able `ABL`
 * follow `TPOL`
 * him, `HEUPL KW-BG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * only, `OEPBL KW-BG`
 * thro' `xxx thro AE`
 * wood. `WAOD TP-PL`
@@ -661,7 +661,7 @@
 * adventure; `SREPBG STPH*FPLT`
 * pushed `PURBD`
 * love `HRUF`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * resolved `RO*FLD`
 * moment `PHOEPLT`
 * look `HRAOBG`
@@ -792,7 +792,7 @@
 * assured `A/SHURD`
 * loved `HROFD`
 * better `PWOERT`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * discourse `TKEUS/KORS`
 * connected, `KEBGTD KW-BG`
 * pleased `PHRAOEFD`
@@ -1028,7 +1028,7 @@
 * Aurora's `AU/ROE/RA AES`
 * chamber. `KHAEURPL TP-PL`
 * old, `OLD KW-BG`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * laughing, `HRAFG KW-BG`
 * neck, `TPHEBG KW-BG`
 * ask `SK`

@@ -358,7 +358,7 @@
 * woman, `WOPL KW-BG`
 * speaking `SPAOEG`
 * hope, `HOEP KW-BG`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Ah, `KPA/HA*E KW-BG`
 * well, `WEL KW-BG`
 * so `SO`
@@ -369,7 +369,7 @@
 * was. `WAS TP-PL`
 * Time `KPA/TAOEUPL`
 * passes `PA*FS`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * things `THEUPBGS`
 * changed. `KHAEUPBGD TP-PL`
 * buried, `PWUR/EUD KW-BG`

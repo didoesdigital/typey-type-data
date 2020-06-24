@@ -13,7 +13,7 @@
 * they `THE`
 * had `H`
 * slipped `SHREUPD`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * him—so `HEUPL EPL/TKA*RB SO`
 * he `HE`
@@ -420,7 +420,7 @@
 * none `TPHOPB`
 * bid `PWEUD`
 * welcome, `WELG KW-BG`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * seek `SAOEBG`
 * Out `KPA/OUT`
 * country! `KREU SKHRAPL`
@@ -602,7 +602,7 @@
 * telling `TELG`
 * times; `TAOEUPLS STPH*FPLT`
 * least `HRAOEFT`
-* As `KPA/AZ`
+* As `KPA/AS`
 * nearer, `TPHAOER/*ER KW-BG`
 * noticed `TPH-TS/-D`
 * living `HREUFG`
@@ -791,7 +791,7 @@
 * "By `KR-GS KPA/PWEU`
 * big `PWEUG`
 * brewing-vat!" `PWRAOU/-G H-PB SRAT SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * woman, `WOPL KW-BG`
 * "haven't `KR-GS HAEUFPB AE T*`
 * got `TKPWOT`
@@ -855,7 +855,7 @@
 * last `HRAFT`
 * stroke `STROBG`
 * died `TKAOEUD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * meadow. `PHED/OE TP-PL`
 * vanished, `SRAPB/EURBD KW-BG`
 * stopped `STOPD`
@@ -1493,7 +1493,7 @@
 * speaks `SPAOEBGS`
 * Parliament, `KPA/PAERPLT KW-BG`
 * benefit `PWEF`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * He's `KPA/HE AES`
 * artist `TR-FT`
 * color-pot `KROR H-PB POT`

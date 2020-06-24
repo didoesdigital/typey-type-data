@@ -178,7 +178,7 @@
 * wait `WAEUT`
 * no `TPHO`
 * longer, `HRORPBG KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * commence `KPHEPBS`
 * wooing `WAO/-G`
 * once. `WUPBS TP-PL`
@@ -275,7 +275,7 @@
 * some `SOPL`
 * day," `TKAEU KW-BG KR-GS`
 * he; `HE STPH*FPLT`
-* away `A/WAEU`
+* away `WA*EU`
 * directly, `TKREL KW-BG`
 * felt `TPELT`
 * quite `KWAOEUT`
@@ -437,7 +437,7 @@
 * They `KPA/THE`
 * do `TKO`
 * "Now `KR-GS KPA/TPHOU`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * stalk, `STAUBG KW-BG`
 * flowers," `TPHRO*URS KW-BG KR-GS`
 * butterfly. `PW*URT/TPHRAOEU TP-PL`
@@ -451,7 +451,7 @@
 * here `HAOER`
 * fast." `TPAFT TP-PL KR-GS`
 * consoled `HRO*ER/KR*P/O*/TPH*/S*/O*/HR*/*E/TK*`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * little. `HREUL TP-PL`
 * seems `SAOEPLS`
 * poor `PAOR`

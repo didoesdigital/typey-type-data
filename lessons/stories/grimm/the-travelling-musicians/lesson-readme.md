@@ -1,7 +1,7 @@
 # The Travelling Musicians
 
 * An `KPA/APB`
-* honest `HO*PBS`
+* honest `HOPBS`
 * farmer `TPAR/PHER`
 * had `H`
 * once `WUPBS`
@@ -49,7 +49,7 @@
 * in `TPH`
 * wind, `WEUPBD KW-BG`
 * took `TAOBG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * slyly `SHRAOEU/HREU`
 * off, `OF KW-BG`
 * his `HEUS`
@@ -109,7 +109,7 @@
 * hunting; `HUPBT/-G STPH*FPLT`
 * so `SO`
 * ran `RAPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * what `WHA`
 * do `TKO`
 * earn `ERPB`
@@ -191,7 +191,7 @@
 * lucky `HROEUBG`
 * enough `TPHUF`
 * get `TKPWET`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * her, `HER KW-BG`
 * know `TPHOE`
@@ -217,7 +217,7 @@
 * passing `PAFG`
 * farmyard, `TPARPL/KWRARD KW-BG`
 * cock `KOBG`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * upon `POPB`
 * gate, `TKPWAET KW-BG`
 * screaming `SKRAOEPLG`
@@ -467,7 +467,7 @@
 * eat `AOET`
 * again `TKPWEPB`
 * month. `PHO*PBT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * satisfied `SAED`
 * themselves, `TH*EPLS KW-BG`
 * put `PUT`

@@ -138,7 +138,7 @@
 * done `TKOPB`
 * undone, `UPB/TKOPB KW-BG`
 * comforted `K-FRTD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * well `WEL`
 * loss `HROS`
 * dear `TKAER`
@@ -217,7 +217,7 @@
 * till `TEUL`
 * length `HREPBG`
 * stole `STOEL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * set `SET`
 * out `OUT`
 * wide `WAOEUD`
@@ -259,7 +259,7 @@
 * too `TAO`
 * hot `HOT`
 * fiery; `TPAOEU/REU STPH*FPLT`
-* away `A/WAEU`
+* away `WA*EU`
 * quickly `KWEULG`
 * moon, `PHAOPB KW-BG`
 * moon `PHAOPB`
@@ -331,7 +331,7 @@
 * put `PUT`
 * opened `OEPD`
 * it. `T TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * in, `TPH KW-BG`
 * dwarf `TKWAFR`
 * 'What `AE KPA/WHA`

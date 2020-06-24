@@ -30,7 +30,7 @@
 * now `TPHOU`
 * returning `RURPBG`
 * home. `HOEPL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * walked `WAUBGD`
 * on, `OPB KW-BG`
 * met `PHET`
@@ -280,7 +280,7 @@
 * soon `SAOPB`
 * tied, `TAO*EUD KW-BG`
 * climbed `KHRAOEUPLD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * beneath; `TPHAO*ET STPH*FPLT`
 * found, `TPOUPBD KW-BG`
 * told `TOLD`
@@ -297,7 +297,7 @@
 * staring `STAERG`
 * "You're `KR-GS KPA/U AE R*/*E`
 * pretty `PREUT`
-* fellow," `TPO*EUL KW-BG KR-GS`
+* fellow," `TP*EL KW-BG KR-GS`
 * soldier, `SHRERPBLG KW-BG`
 * seizing `SAOEZ/-G`
 * placing `PHRAEUFG`
@@ -328,7 +328,7 @@
 * contained, `KAUPB/TAEUPBD KW-BG`
 * quickly `KWEULG`
 * threw `THRAOU`
-* away `A/WAEU`
+* away `WA*EU`
 * coppers `KOP/ERS`
 * taken, `TAEPB KW-BG`
 * nothing `TPHOG`
@@ -520,7 +520,7 @@
 * clothes, `KHRO*ETS KW-BG`
 * friends, `TPREPBDZ KW-BG`
 * declared `TKE/KHRAEURD`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * gratified `TKPWRAT/TPAOEUD`
 * exceedingly. `EBGS/AOED/TKPWHREU TP-PL`
 * forever; `TPOFR STPH*FPLT`
@@ -613,7 +613,7 @@
 * "Every `KR-GS KPA/EF`
 * says `SEZ`
 * beautiful," `PWAOUFL KW-BG KR-GS`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * use `AOUS`
 * shut `SHUT`
 * castle `KAFL`
@@ -712,10 +712,10 @@
 * "And `KR-GS AFPBD`
 * one, `WUPB KW-BG`
 * another!" `TPHOER SKHRAPL KR-GS`
-* exclaimed; `SKHRAEUPL/-D STPH*FPLT`
+* exclaimed; `SKHRAEUPLD STPH*FPLT`
 * direction. `TKREBGS TP-PL`
 * felt `TPELT`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * search `SEFRPB`
 * farther. `TPA*RT TP-PL`
 * clever `KHREFR`

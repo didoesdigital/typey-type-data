@@ -197,7 +197,7 @@
 * drenched `TKREPB/-FPD`
 * boiling `PWOEULG`
 * water `WAUR`
-* enemy, `EPB/PHEU KW-BG`
+* enemy, `TPHAEPL KW-BG`
 * clad `KHRAD`
 * white, `WHAOEUT KW-BG`
 * 'biding `AE PWAOEUD/-G`

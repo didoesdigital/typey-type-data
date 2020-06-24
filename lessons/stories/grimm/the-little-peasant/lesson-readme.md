@@ -194,7 +194,7 @@
 * someone `SPH-PB`
 * stolen `STOEL/EPB`
 * gone. `TKPWOPB TP-PL`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * peasant, `PEFPBT KW-BG`
 * however, `HOUF KW-BG`
 * 'Don't `AE TKO*PB AE T*`
@@ -210,7 +210,7 @@
 * him `HEUPL`
 * give `TKPWEUF`
 * cow `KO*U`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * And `AFPBD`
 * now `TPHOU`
 * long `HROPBG`
@@ -349,7 +349,7 @@
 * straw, `STRAU KW-BG`
 * asked, `SK-D KW-BG`
 * 'What `AE KPA/WHA`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * doing `TK*G`
 * there?' `THR H-F AE`
 * 'Ah,' `AE KPA/HA*E KW-BG AE`
@@ -409,7 +409,7 @@
 * says `SEZ`
 * fifth `TP*EUT`
 * keeps `KAOEPS`
-* himself.' `H*EUPLS TP-PL AE`
+* himself.' `HEUPLS TP-PL AE`
 * curious, `KAOURS KW-BG`
 * 'Let `AE KPA/HRET`
 * once.' `WUPBS TP-PL AE`
@@ -616,7 +616,7 @@
 * top `TOP`
 * him; `HEUPL STPH*FPLT`
 * shepherd's `SHEP/ERD AES`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * crowd, `KROUD KW-BG`
 * declared `TKE/KHRAEURD`
 * said. `SED TP-PL`
@@ -661,7 +661,7 @@
 * lambs `HRAPLS`
 * feeding, `TPAOEGD KW-BG`
 * thence `THEPBS`
-* away `A/WAEU`
+* away `WA*EU`
 * Said `KPA/SED`
 * peasants: `PEFPBT/-S STPH-FPLT`
 * 'Are `AE KPA/R`

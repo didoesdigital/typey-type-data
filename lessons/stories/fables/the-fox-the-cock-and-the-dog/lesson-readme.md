@@ -98,7 +98,7 @@
 * began `TKPWAPB`
 * to `TO`
 * turn `TURPB`
-* away `A/WAEU`
+* away `WA*EU`
 * soon `SAOPB`
 * had `H`
 * heard `HAERD`

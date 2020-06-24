@@ -167,7 +167,7 @@
 * took `TAOBG`
 * at `AT`
 * word, `WORD KW-BG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * wheel, `WHAOEL KW-BG`
 * whistled `WHEUS/-LD`
 * sang: `SAPBG STPH-FPLT`
@@ -177,7 +177,7 @@
 * Lo `KPA/HRO`
 * behold! `PWE/HOLD SKHRAPL`
 * Reel `KPA/RAOEL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * reel `RAOEL`
 * Straw `KPA/STRAU`
 * gold!' `TKPWOELD SKHRAPL AE`
@@ -245,7 +245,7 @@
 * is, `S-RBGS`
 * shall `SHAL`
 * queen.' `KWAOEPB TP-PL AE`
-* As `KPA/AZ`
+* As `KPA/AS`
 * alone `A/HROEPB`
 * third `THEURD`
 * time?' `TAOEUPL H-F AE`

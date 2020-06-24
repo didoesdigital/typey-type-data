@@ -299,7 +299,7 @@
 * "Please `KR-GS KPA/PHRES`
 * yourself," `KWRO*URS KW-BG KR-GS`
 * went `WEPBT`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * last `HRAFT`
 * broke, `PWROEBG KW-BG`
 * crept `KREPT`
@@ -308,7 +308,7 @@
 * very `SRE`
 * ugly. `ULG TP-PL`
 * stared `STAERD`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "It `KR-GS KPA/T`
 * like `HRAOEUBG`
 * others. `OERS TP-PL`
@@ -362,7 +362,7 @@
 * legs, `HREGS KW-BG`
 * upright `AUP/RAOEUGT`
 * holds `HOLDZ`
-* himself! `H*EUPLS SKHRAPL`
+* himself! `HEUPLS SKHRAPL`
 * He `KPA/HE`
 * own `OEPB`
 * child, `KHAOEULD KW-BG`
@@ -523,7 +523,7 @@
 * consequence. `KWEPBS TP-PL`
 * strong, `STROPBG KW-BG`
 * able `ABL`
-* himself." `H*EUPLS TP-PL KR-GS`
+* himself." `HEUPLS TP-PL KR-GS`
 * graceful `TKPWRAEUS/-FL`
 * enough," `TPHUF KW-BG KR-GS`
 * duck. `TKUBG TP-PL`
@@ -553,7 +553,7 @@
 * been `PW-PB`
 * spurs, `SPURS KW-BG`
 * fancied `TPAPB/SEU/-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * emperor, `EPL/ROR KW-BG`
 * puffed `PUFD`
 * vessel `SREFL`
@@ -592,7 +592,7 @@
 * kicked `KEUBGD`
 * feet. `TPAOET TP-PL`
 * ran `RAPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * frightening `TPRAOEUT/EPBG`
 * birds `PWEURDZ`
 * hedge `HEPBLG`
@@ -693,7 +693,7 @@
 * clouds `KHROUDZ`
 * dark `TKARBG`
 * floated `TPHROET/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * across `A/KROS`
 * number `TPHUPL`
 * sporting `SPORT/-G`
@@ -904,7 +904,7 @@
 * If `KPA/TP`
 * purr `P*UR`
 * pass `PAS`
-* away." `A/WAEU TP-PL KR-GS`
+* away." `WA*EU TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * water," `WAUR KW-BG KR-GS`
 * refreshing `RE/TPRERB/-G`
@@ -1023,7 +1023,7 @@
 * warmer `WARPL/*ER`
 * countries `KUPBTS`
 * sea. `SAE TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * mounted `PHOUPBTD`
 * higher `HAOEUR`
 * felt `TPELT`
@@ -1034,7 +1034,7 @@
 * towards `TORDZ`
 * cry `KRAOEU`
 * frightened `TPRAOEUFPBD`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * Could `KPA/KO`
 * forget `TPERGT`
 * beautiful, `PWAOUFL KW-BG`

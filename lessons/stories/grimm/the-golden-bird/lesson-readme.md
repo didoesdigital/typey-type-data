@@ -92,9 +92,9 @@
 * young `KWRUPBG`
 * man `PHAPB`
 * laid `HRAEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * watch. `WAFP TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * clock `KHROBG`
 * struck `STRUBG`
 * heard `HAERD`
@@ -129,7 +129,7 @@
 * tail, `TAEUL KW-BG`
 * then `THEPB`
 * flew `TPHRAOU`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * brought `PWRAUT`
 * morning, `PHORPBG KW-BG`
 * council `KOUPB/SEUL`
@@ -208,7 +208,7 @@
 * be `-B`
 * poor `PAOR`
 * mean.' `PHAOEPB TP-PL AE`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'What `AE KPA/WHA`
 * can `K`
 * such `SUFP`
@@ -325,7 +325,7 @@
 * sat `SAT`
 * down, `TKOUPB KW-BG`
 * run, `RUPB KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * over `OEFR`
 * stock `STOBG`
 * stone `STOEPB`
@@ -492,7 +492,7 @@
 * kiss, `KEUS KW-BG`
 * she `SHE`
 * lead `HRAED`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * care `KAEUR`
 * suffer `SUFR`
 * leave `HREF`
@@ -527,7 +527,7 @@
 * window.' `WOEUPBD TP-PL AE`
 * Now `KPA/TPHOU`
 * big `PWEUG`
-* away: `A/WAEU STPH-FPLT`
+* away: `WA*EU STPH-FPLT`
 * worked `WORBGD`
 * seven `SEFPB`
 * days, `TKAEUS KW-BG`
@@ -594,7 +594,7 @@
 * whether `WHR`
 * true `TRAOU`
 * hand, `HAPBD KW-BG`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * This, `KPA/TH KW-BG`
 * too, `TAO KW-BG`
 * said; `SED STPH*FPLT`

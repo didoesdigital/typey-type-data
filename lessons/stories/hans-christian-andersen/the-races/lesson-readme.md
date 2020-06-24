@@ -94,7 +94,7 @@
 * door; `TKAOR STPH*FPLT`
 * he `HE`
 * injured `SKWR-RD`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * broke `PWROEBG`
 * his `HEUS`
 * collar-bone `KHRAR H-PB PWOEPB`
@@ -103,7 +103,7 @@
 * made. `PHAED TP-PL`
 * He `KPA/HE`
 * gave `TKPWAEUF`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * up `UP`
 * entirely `SPWAOEURL`
 * ran `RAPB`
@@ -134,7 +134,7 @@
 * far `TPAR`
 * been! `PW-PB SKHRAPL`
 * far, `TPAR KW-BG`
-* away." `A/WAEU TP-PL KR-GS`
+* away." `WA*EU TP-PL KR-GS`
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * is `S`
 * your `KWROUR`
@@ -182,7 +182,7 @@
 * moor-hen," `PHO*R H-PB HEPB KW-BG KR-GS`
 * he, `HE KW-BG`
 * "that `KR-GS THA`
-* away `A/WAEU`
+* away `WA*EU`
 * time `TAOEUPL`
 * fatherland; `TPAER/HRA*PBD STPH*FPLT`
 * then `THEPB`
@@ -275,7 +275,7 @@
 * as `AZ`
 * give `TKPWEUF`
 * me `PHE`
-* attention, `A/T-PBGS KW-BG`
+* attention, `TAEPBGS KW-BG`
 * explain `SPHRAEUPB`
 * beginning. `TKPWEUPB/-G TP-PL`
 * eighth `A*ET`
@@ -329,7 +329,7 @@
 * track, `TRABG KW-BG`
 * thinking `THEUG`
 * concealed `KAUPB/SAOELD`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * No; `KPA/TPHO STPH*FPLT`
 * something `S-G`
 * else `ELS`

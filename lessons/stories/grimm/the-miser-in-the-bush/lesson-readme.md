@@ -75,7 +75,7 @@
 * service `S-FS`
 * penny. `PEPB/TPHEU TP-PL`
 * poor `PAOR`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * thought `THAUT`
 * great `TKPWRAET`
 * deal `TKAOEL`
@@ -83,7 +83,7 @@
 * money `PHUPB`
 * have, `SR KW-BG`
 * said `SED`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'Why `AE KPA/KWR`
 * should `SHO`
 * work `WORBG`
@@ -110,7 +110,7 @@
 * over `OEFR`
 * hill `HEUL`
 * valley. `SRAL/KWREU TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * jogged `SKWROGD`
 * along `HRAOPBG`
 * fields, `TPAOELDZ KW-BG`
@@ -159,10 +159,10 @@
 * pitied `PEUT/EUD`
 * had; `H STPH*FPLT`
 * return, `RURPB KW-BG`
-* 'As `AE KPA/AZ`
+* 'As `AE KPA/AS`
 * such `SUFP`
 * kind `KEUPBD`
-* honest `HO*PBS`
+* honest `HOPBS`
 * heart, `HART KW-BG`
 * grant `TKPWRAPBT`
 * wishes--one `WEURBS H-PB H-PB WUPB`
@@ -228,7 +228,7 @@
 * twig `TWEUG`
 * sat `SAT`
 * thrush `THRURB`
-* away `A/WAEU`
+* away `WA*EU`
 * most `PHOFT`
 * joyfully. `SKWROEUFL/HREU TP-PL`
 * 'Oh, `AE KPA/O*ERBGS KW-BG`
@@ -257,7 +257,7 @@
 * middle, `PH*EULD KW-BG`
 * companion `KPAPB/KWROPB`
 * played `PHRAEUD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * began `TKPWAPB`
 * dance `TKAPBS`
 * spring `SPREUPBG`
@@ -273,7 +273,7 @@
 * hung `HUPBG`
 * rags `RAG/-S`
 * about `PW`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * scratched `SKRAFPD`
 * wounded, `WOUPBD/-D KW-BG`
 * blood `PWHRAOD`
@@ -322,7 +322,7 @@
 * just `SKWRUFT`
 * gained `TKPWAEUPBD`
 * cheating `KHAOEGT`
-* fellow. `TPO*EUL TP-PL`
+* fellow. `TP*EL TP-PL`
 * When `KPA/WHEPB`
 * saw `SAU`
 * money, `PHUPB KW-BG`

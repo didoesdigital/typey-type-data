@@ -74,7 +74,7 @@
 * had `H`
 * melted `PHELT/-D`
 * it `T`
-* away `A/WAEU`
+* away `WA*EU`
 * again, `TKPWEPB KW-BG`
 * father `TPAER`
 * married `PHAERD`
@@ -230,7 +230,7 @@
 * hat: `HAT STPH-FPLT`
 * so `SO`
 * broke `PWROEBG`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * got `TKPWOT`
 * daughter. `TKAUR TP-PL`
 * it, `T KW-BG`
@@ -274,7 +274,7 @@
 * son `SOPB`
 * choose `KHAOS`
 * bride `PWRAOEUD`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * Ashputtel's `xxx Ashputtel AES`
 * come; `KOPL STPH*FPLT`
 * up, `UP KW-BG`
@@ -360,7 +360,7 @@
 * gay, `TKPWAEU KW-BG`
 * Hither, `KPA/H*EURT KW-BG`
 * haste `HAEUFT`
-* away! `A/WAEU SKHRAPL`
+* away! `WA*EU SKHRAPL`
 * One `KPA/WUPB`
 * me, `PHE KW-BG`
 * quick! `KWEUBG SKHRAPL`
@@ -535,7 +535,7 @@
 * beneath `TPHAO*ET`
 * might `PHAOEUT`
 * carry `KAER`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * lain `HRAEUPB`
 * amid `A/PHEUD`
 * ashes `ARBS`
@@ -582,7 +582,7 @@
 * has `HAS`
 * sprung `SPRUPBG`
 * pear-tree.' `PAER H-PB TRAOE TP-PL AE`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'Can `AE KPA/K`
 * Ashputtel?' `xxx Ashputtel H-F AE`
 * axe `ABGS`
@@ -732,5 +732,5 @@
 * side!' `SAOEUD SKHRAPL AE`
 * song, `SOPBG KW-BG`
 * flying, `TPHRAOEUG KW-BG`
-* perched `PER/-FPD`
+* perched `PEFRPBD`
 * shoulder, `SHOURLD KW-BG`

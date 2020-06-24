@@ -84,7 +84,7 @@
 * if `TP`
 * drive `TKRAOEUF`
 * these `THEZ`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * others `OERS`
 * will `HR`
 * come `KOPL`

@@ -253,14 +253,14 @@
 * help `HEP`
 * need, `TPHAOED KW-BG`
 * went `WEPBT`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * journeyed `SKWRURPB/EUD`
 * night, `TPHAOEUT KW-BG`
 * till `TEUL`
 * last `HRAFT`
 * large `HRARPBLG`
 * wood. `WAOD TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * tired, `TAOEURD KW-BG`
 * sat `SAT`
 * down `TKOUPB`
@@ -543,7 +543,7 @@
 * anything `TPHEUG`
 * about `PW`
 * ring; `REUPBG STPH*FPLT`
-* away `A/WAEU`
+* away `WA*EU`
 * business. `PWEUS TP-PL`
 * After `KPA/AF`
 * feast, `TPAOEFT KW-BG`

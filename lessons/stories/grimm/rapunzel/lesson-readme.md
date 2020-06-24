@@ -93,7 +93,7 @@
 * it, `T KW-BG`
 * quite `KWAOEUT`
 * pined `PAOEUPB/-D`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * began `TKPWAPB`
 * look `HRAOBG`
 * pale `PAEL`
@@ -177,7 +177,7 @@
 * gloom `TKPWHRAOPL`
 * evening `AOEPBG`
 * therefore, `TH-FR KW-BG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * again; `TKPWEPB STPH*FPLT`
 * but `PWUT`
 * terribly `TERBL/HREU`
@@ -233,7 +233,7 @@
 * say, `SAEU KW-BG`
 * will `HR`
 * allow `HROU`
-* away `A/WAEU`
+* away `WA*EU`
 * will, `HR KW-BG`
 * make `PHAEUBG`
 * condition, `K-PB KW-BG`

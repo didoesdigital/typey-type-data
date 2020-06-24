@@ -126,7 +126,7 @@
 * consequence `KWEPBS`
 * this `TH`
 * gave `TKPWAEUF`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * up `UP`
 * drink, `TKREU KW-BG`
 * body `PWO*ED`
@@ -316,7 +316,7 @@
 * daughter. `TKAUR TP-PL`
 * water-lily `WAUR H-PB HREUL/KWREU`
 * plucked `PHRUBGD`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * watered `WAURD`
 * salt `SALT`
 * tears—a `TAERS EPL/TKA*RB AEU`

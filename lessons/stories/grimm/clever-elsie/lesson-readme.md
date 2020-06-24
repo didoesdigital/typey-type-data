@@ -361,7 +361,7 @@
 * 'Yes, `AE KPA/KWRE KW-BG`
 * that.' `THA TP-PL AE`
 * gone `TKPWOPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * cooked `KAOBGD`
 * broth `PWRO*T`
 * herself: `H*ERS STPH-FPLT`

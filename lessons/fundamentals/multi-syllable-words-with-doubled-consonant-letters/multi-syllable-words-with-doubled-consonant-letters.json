@@ -23,10 +23,10 @@
 "EFBGT": "effect",
 "PREUT": "pretty",
 "OFS": "office",
-"A/T-PBGS": "attention",
+"TAEPBGS": "attention",
 "HRERTS": "letters",
 "EPS": "especially",
-"TPO*EUL": "fellow",
+"TP*EL": "fellow",
 "HRAERT": "latter",
 "HAPD": "happened",
 "KORG": "according",
@@ -220,7 +220,7 @@
 "KPHUPBT": "community",
 "A/PARPBT": "apparent",
 "HUR/REU": "hurry",
-"AOUS/-LS": "useless",
+"AOUFLS": "useless",
 "TPHEFRLS": "nevertheless",
 "TPHELS": "necessarily",
 "A/TEPL/-D": "attempted",
@@ -1200,5 +1200,5 @@
 "TPAOEPBS": "Philippines",
 "PWUG/KWREU": "buggy",
 "STKPHEUS/A*L": "dismissal",
-"RE/PRES/-D": "repressed"
+"RE/PREFD": "repressed"
 }

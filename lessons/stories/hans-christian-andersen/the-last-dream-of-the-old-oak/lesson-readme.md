@@ -582,7 +582,7 @@
 * ran `RAPB`
 * vigor `SREUG/O*R`
 * life. `HRAOEUF TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * grew `TKPWRAOU`
 * higher `HAOEUR`
 * still `STEUL`
@@ -854,7 +854,7 @@
 * down! `TKOUPB SKHRAPL`
 * oak,—our `OEBG KW-BG EPL/TKA*RB OUR`
 * coast!" `KOEFT SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * fallen `TPAUL/-PB`
 * Who `KPA/WHO`
 * replace `RE/PHRAEUS`

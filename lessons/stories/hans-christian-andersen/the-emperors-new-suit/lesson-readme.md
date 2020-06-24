@@ -170,7 +170,7 @@
 * precious `PRERBS`
 * gold-cloth; `TKPWOELD H-PB KHRO*T STPH*FPLT`
 * got `TKPWOT`
-* away `A/WAEU`
+* away `WA*EU`
 * with, `W KW-BG`
 * worked `WORBGD`
 * empty `EPLT`
@@ -219,7 +219,7 @@
 * neighbours `TPHAEUBS/A*U`
 * were. `WR TP-PL`
 * shall `SHAL`
-* honest `HO*PBS`
+* honest `HOPBS`
 * old `OLD`
 * minister `PHEUPB/STER`
 * weavers," `WAOEFR/-S KW-BG KR-GS`
@@ -375,7 +375,7 @@
 * At `KPA/AT`
 * last `HRAFT`
 * wished `WEURBD`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * still `STEUL`
 * loom. `HRAOPL TP-PL`
 * With `KPA/W`
@@ -506,7 +506,7 @@
 * put `PUT`
 * after `AF`
 * another; `TPHOER STPH*FPLT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * glass `TKPWHRAS`
 * side. `SAOEUD TP-PL`
 * "How `KR-GS KPA/HOU`
@@ -546,7 +546,7 @@
 * under `TPH-PB`
 * street `STRAOET`
 * windows `WOEUPBDZ`
-* exclaimed: `SKHRAEUPL/-D STPH-FPLT`
+* exclaimed: `SKHRAEUPLD STPH-FPLT`
 * "Indeed, `KR-GS KPA/TPHAOEPBD KW-BG`
 * incomparable! `EUPB/KPARBL SKHRAPL`
 * long `HROPBG`

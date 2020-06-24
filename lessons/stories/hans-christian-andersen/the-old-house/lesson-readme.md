@@ -300,7 +300,7 @@
 * not `TPHOT`
 * pay `PAEU`
 * visit `SREUFT`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * His `KPA/HEUS`
 * gave `TKPWAEUF`
 * him `HEUPL`
@@ -700,7 +700,7 @@
 * believe `PWHREF`
 * altogether `HR-GT`
 * pleasant. `PHREFPBT TP-PL`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * shelf. `SHEFL TP-PL`
 * saw `SAU`
 * present. `PREPBT TP-PL`
@@ -770,7 +770,7 @@
 * happy; `HAEP STPH*FPLT`
 * life." `HRAOEUF TP-PL KR-GS`
 * given `TKPWEUFPB`
-* away," `A/WAEU KW-BG KR-GS`
+* away," `WA*EU KW-BG KR-GS`
 * "you `KR-GS U`
 * stay. `STAEU TP-PL`
 * Don't `TKO*PB AE T*`
@@ -811,7 +811,7 @@
 * loud `HROUD`
 * could, `KO KW-BG`
 * threw `THRAOU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * floor. `TPHRAOR TP-PL`
 * Where `KPA/W-R`
 * fallen? `TPAUL/-PB H-F`
@@ -858,13 +858,13 @@
 * country `KREU`
 * own `OEPB`
 * grave; `TKPWRAEUF STPH*FPLT`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * followed `TPOLD`
 * friends `TPREPBDZ`
 * dead; `TKED STPH*FPLT`
 * hand `HAPBD`
 * moved `PHOFD`
-* away `A/WAEU`
+* away `WA*EU`
 * few `TPAOU`
 * after, `AF KW-BG`
 * auction `AUBGS`
@@ -955,7 +955,7 @@
 * earth `*ERT`
 * fingers. `TPEURPBGS TP-PL`
 * "Oh `KR-GS KPA/O*ERBGS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * pricked `PREUBGD`
 * her. `HER TP-PL`
 * Out `KPA/OUT`

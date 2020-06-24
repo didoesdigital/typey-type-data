@@ -156,7 +156,7 @@
 * child's `KHAOEULD/AES`
 * When `KPA/WHEPB`
 * gone `TKPWOPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * up `UP`
 * went `WEPBT`
 * sweetheart, `SWAOET/HART KW-BG`
@@ -190,7 +190,7 @@
 * counsel `KOUPB`
 * first `TPEUFRT`
 * take `TAEUBG`
-* away `A/WAEU`
+* away `WA*EU`
 * magic `PHAPBLG/EUBG`
 * wand, `WAPBD KW-BG`
 * or `OR`
@@ -341,7 +341,7 @@
 * while `WHAOEUL`
 * do `TKO`
 * it.' `T TP-PL AE`
-* As `KPA/AZ`
+* As `KPA/AS`
 * hastily `HAEUFT/HREU`
 * hedge `HEPBLG`
 * going `TKPW-G`
@@ -464,7 +464,7 @@
 * being `-BG`
 * house, `HOUS KW-BG`
 * concealed `KAUPB/SAOELD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * certainly `SERPBL`
 * pleased `PHRAOEFD`
 * attendance, `A/TEPBD/APBS KW-BG`
@@ -532,7 +532,7 @@
 * girls `TKPWEURLS`
 * present `PREPBT`
 * sing `SEUPBG`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * bridal `PWRAOEU/TKAL`
 * pair. `PAEUR TP-PL`
 * this, `TH KW-BG`

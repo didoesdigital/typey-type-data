@@ -314,7 +314,7 @@
 * "Croak," `KR-GS KPA/KROEBG KW-BG KR-GS`
 * night-raven `TPHAOEUT H-PB RAFPB`
 * flew `TPHRAOU`
-* away `A/WAEU`
+* away `WA*EU`
 * invitations. `EUPB/SREU/TAEUGS/-S TP-PL`
 * maidens `PHAEUD/*EPB/-S`
 * we're `WAOER`
@@ -456,7 +456,7 @@
 * seeking `SAOEBG/-G`
 * wife. `WAOEUF TP-PL`
 * true-hearted, `TRAOU H-PB HART/-D KW-BG`
-* honest, `HO*PBS KW-BG`
+* honest, `HOPBS KW-BG`
 * Norwegian `TPHOR/WAOEGS`
 * graybeard; `xxx graybeard STPH*FPLT`
 * cheerful `KHAOER/-FL`
@@ -522,7 +522,7 @@
 * times, `TAOEUPLS KW-BG`
 * like." `HRAOEUBG TP-PL KR-GS`
 * Two `KPA/TWO`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * in, `TPH KW-BG`
 * quicker `KW*EURBG`
 * other, `OER KW-BG`
@@ -850,7 +850,7 @@
 * "No `KR-GS KPA/TPHO`
 * cares `KAEURS`
 * troubles `TRUBLS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * me; `PHE STPH*FPLT`
 * sew `SWE`
 * clothes." `KHRO*ETS TP-PL KR-GS`

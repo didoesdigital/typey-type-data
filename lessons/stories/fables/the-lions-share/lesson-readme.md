@@ -54,7 +54,7 @@
 * front `TPROPBT`
 * of `-F`
 * carcass `KAR/KAS`
-* pronounced `PRO/TPHOUPBS/-D`
+* pronounced `PROUPBS/-D`
 * judgment: `SKWRUPLT STPH-FPLT`
 * first `TPEUFRT`
 * quarter `KWAR/TER`
@@ -94,7 +94,7 @@
 * Fox `KPA/TPOBGS`
 * he `HE`
 * walked `WAUBGD`
-* away `A/WAEU`
+* away `WA*EU`
 * tail `TAEUL`
 * between `TWAOEPB`
 * legs; `HREGS STPH*FPLT`

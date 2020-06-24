@@ -129,7 +129,7 @@
 * come, `KOPL KW-BG`
 * I `EU`
 * take `TAEUBG`
-* away `A/WAEU`
+* away `WA*EU`
 * from `TPR`
 * it `T`
 * be `-B`

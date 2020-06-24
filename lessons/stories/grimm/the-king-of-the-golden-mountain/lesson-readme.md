@@ -81,7 +81,7 @@
 * roaming `ROEPLG`
 * along `HRAOPBG`
 * brown `PWROUPB`
-* study, `STAO*UD KW-BG`
+* study, `STOEU KW-BG`
 * thinking `THEUG`
 * with `W`
 * no `TPHO`
@@ -213,7 +213,7 @@
 * horror, `HOR/O*R KW-BG`
 * saw `SAU`
 * bound `PWOUPBD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * do; `TKO STPH*FPLT`
 * gold `TKPWOELD`
 * come, `KOPL KW-BG`
@@ -452,7 +452,7 @@
 * ran `RAPB`
 * ashore `A/SHOR`
 * unknown `UPB/TPHOEPB`
-* As `KPA/AZ`
+* As `KPA/AS`
 * jumped `SKWR*UPLD`
 * shore `SHOR`
 * beautiful `PWAOUFL`
@@ -461,7 +461,7 @@
 * dreary `TKRAOE/REU`
 * enchanted. `EPB/KHAPBT/-D TP-PL`
 * 'Here,' `AE KPA/HAOER KW-BG AE`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'must `AE PHUFT`
 * prize `PRAOEUZ`
 * of.' `-F TP-PL AE`
@@ -516,7 +516,7 @@
 * word, `WORD KW-BG`
 * o'clock `KHRO*BG`
 * go `TKPW`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * second `SEBGD`
 * others `OERS`
 * third `THEURD`
@@ -576,7 +576,7 @@
 * gave `TKPWAEUF`
 * rest `REFT`
 * agreed. `TKPWRAED TP-PL`
-* away `A/WAEU`
+* away `WA*EU`
 * wishing-ring, `WEURBG H-PB REUPBG KW-BG`
 * 'Take `AE KPA/TAEUBG`
 * ring, `REUPBG KW-BG`
@@ -675,7 +675,7 @@
 * fallen `TPAUL/-PB`
 * asleep, `A/SHRAOEP KW-BG`
 * softly `SOFT/HREU`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * herself `H*ERS`
 * kingdom. `KEUPBG/TKOPL TP-PL`
 * awoke `A/WOEBG`
@@ -772,7 +772,7 @@
 * eat `AOET`
 * plate, `PHRAET KW-BG`
 * ate `AEUT`
-* himself; `H*EUPLS STPH*FPLT`
+* himself; `HEUPLS STPH*FPLT`
 * glass `TKPWHRAS`
 * wine `WAOEUPB`
 * handed `HAPBD/-D`

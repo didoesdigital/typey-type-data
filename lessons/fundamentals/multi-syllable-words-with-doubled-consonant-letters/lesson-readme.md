@@ -24,10 +24,10 @@
 * effect `EFBGT`
 * pretty `PREUT`
 * office `OFS`
-* attention `A/T-PBGS`
+* attention `TAEPBGS`
 * letters `HRERTS`
 * especially `EPS`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * latter `HRAERT`
 * happened `HAPD`
 * according `KORG`
@@ -221,7 +221,7 @@
 * community `KPHUPBT`
 * apparent `A/PARPBT`
 * hurry `HUR/REU`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * nevertheless `TPHEFRLS`
 * necessarily `TPHELS`
 * attempted `A/TEPL/-D`
@@ -1201,4 +1201,4 @@
 * Philippines `TPAOEPBS`
 * buggy `PWUG/KWREU`
 * dismissal `STKPHEUS/A*L`
-* repressed `RE/PRES/-D`
+* repressed `RE/PREFD`

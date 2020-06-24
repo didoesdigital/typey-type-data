@@ -4,7 +4,7 @@
 * man! `PHAPB SKHRAPL`
 * man. `PHAPB TP-PL`
 * man? `PHAPB H-F`
-* As `KPA/AZ`
+* As `KPA/AS`
 * if. `TP TP-PL`
 * At `KPA/AT`
 * me! `PHE SKHRAPL`
@@ -453,7 +453,7 @@
 * now?" `TPHOU H-F KR-GS`
 * two?" `TWO H-F KR-GS`
 * "Are `KR-GS KPA/R`
-* "As `KR-GS KPA/AZ`
+* "As `KR-GS KPA/AS`
 * them!" `THEPL SKHRAPL KR-GS`
 * good!" `TKPWAOD SKHRAPL KR-GS`
 * now." `TPHOU TP-PL KR-GS`
@@ -866,7 +866,7 @@
 * about?' `PW H-F AE`
 * men!... `PHEPB SKHRAPL TP-PL TP-PL TP-PL`
 * made `PHAED`
-* [As `PWR-BGT KPA/AZ`
+* [As `PWR-BGT KPA/AS`
 * before.] `PW-FR TP-PL PWR*BGT`
 * [But `PWR-BGT KPA/PWUT`
 * 'So `AE KPA/SO`
@@ -1027,7 +1027,7 @@
 * (From `PREPB KPA/TPR`
 * Will. `W*EUL TP-PL`
 * *"It `STA*R KR-GS KPA/T`
-* --"As `H-PB H-PB KR-GS KPA/AZ`
+* --"As `H-PB H-PB KR-GS KPA/AS`
 * --"Not `H-PB H-PB KR-GS KPA/TPHOT`
 * --"What `H-PB H-PB KR-GS KPA/WHA`
 * All: `KPA/AUL STPH-FPLT`

@@ -83,7 +83,7 @@
 * consequence `KWEPBS`
 * soon `SAOPB`
 * found `TPOUPBD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * entirely `SPWAOEURL`
 * bald. `PWAULD TP-PL`
 * Yield `KPA/KWRAOELD`

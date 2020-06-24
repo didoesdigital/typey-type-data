@@ -1215,7 +1215,7 @@ Something
 'he': HE
 'had': H
 'made': PHAED
-'himself': H*EUPLS
+'himself': HEUPLS
 'something,': S-G KW-BG
 'and': SKP
 'at': AT
@@ -1402,7 +1402,7 @@ Something
 'a': AEU
 'lofty': HROF/TEU
 'storey': STOR/KWREU
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 'but': PWUT
 'it': T
 'fell': TPEL
@@ -1572,7 +1572,7 @@ Something
 'so': SO
 'he': HE
 'found': TPOUPBD
-'himself': H*EUPLS
+'himself': HEUPLS
 'standing': STAPBG
 'and': SKP
 'waiting': WAEUGT
@@ -1654,7 +1654,7 @@ Something
 'be': -B
 'St.': S*T
 'Peter': PAOERT
-'himself': H*EUPLS
+'himself': HEUPLS
 'who': WHO
 'spoke': SPOEBG
 'to': TO
@@ -2092,7 +2092,7 @@ Something
 'outside': OUDZ
 'running': R*UPBG
 'and': SKP
-'jumping': SKWRUPL/-PG
+'jumping': SKWRUFRPG
 'about': PW
 'on': OPB
 'the': -T
@@ -2558,7 +2558,7 @@ Something
 'brick': PWREUBG
 'would': WO
 'be': -B
-'useless,': AOUS/-LS KW-BG
+'useless,': AOUFLS KW-BG
 'unless': TPH-LS
 'done': TKOPB
 'with': W
@@ -2692,7 +2692,7 @@ Something
 'all,': AUL KW-BG
 'he': HE
 'whose': WHOZ
-'honest': HO*PBS
+'honest': HOPBS
 'deeds': TKAOEDZ
 'to': TO
 'thee': THAOE
@@ -2713,7 +2713,7 @@ Something
 'not': TPHOT
 'be': -B
 'turned': TURPBD
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'Thou': KPA/THO*U
 'shalt': SHALT
 'have': SR

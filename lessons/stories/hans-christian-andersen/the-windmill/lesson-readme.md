@@ -269,7 +269,7 @@
 * What `KPA/WHA`
 * bitter `PWEURT`
 * passed `PAFD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * whole `WHOEL`
 * comfortable. `K-BL TP-PL`
 * "The `KR-GS KPA/-T`
@@ -381,7 +381,7 @@
 * conflagration, `KAUPB/TPHRA/RAEUGS KW-BG`
 * wind `WEUPBD`
 * carried `KAERD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Whatever `KPA/WHAF`
 * been `PW-PB`
 * alive `A/HRAOEUF`

@@ -295,7 +295,7 @@
 * heads, `HEDZ KW-BG`
 * willing `-LG`
 * do. `TKO TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * doing `TK*G`
 * this, `TH KW-BG`
 * her: `HER STPH-FPLT`
@@ -606,7 +606,7 @@
 * promised `PROPLS/-D`
 * fail `TPAEUL`
 * midnight; `PHAOEUPBT STPH*FPLT`
-* away `A/WAEU`
+* away `WA*EU`
 * drove, `TKROEF KW-BG`
 * scarce `SKAEURS`
 * contain `TAEUPB`
@@ -652,7 +652,7 @@
 * Ha! `KPA/HAE SKHRAPL`
 * is!" `S SKHRAPL KR-GS`
 * King `KO*EUPBG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * old `OLD`
 * was, `WAS KW-BG`
 * help `HEP`
@@ -825,7 +825,7 @@
 * breath, `PWR*ET KW-BG`
 * cloaths, `xxx cloaths KW-BG`
 * finery, `TPAOEUPB/REU KW-BG`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * dropped. `TKROPD TP-PL`
 * guards `TKPWARDZ`
 * palace `PAL/AS`

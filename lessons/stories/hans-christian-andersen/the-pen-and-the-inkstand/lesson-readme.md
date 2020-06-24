@@ -221,7 +221,7 @@
 * gets `TKPWETS`
 * me." `PHE TP-PL KR-GS`
 * "Inkpot!" `KR-GS xxx Inkpot SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * contemptuously. `KAUPB/TEPLT/WOUS/HREU TP-PL`
 * Late `KPA/HRAEUT`
 * evening `AOEPBG`

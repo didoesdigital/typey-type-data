@@ -146,13 +146,13 @@ The Golden Bird
 'young': KWRUPBG
 'man': PHAPB
 'laid': HRAEUD
-'himself': H*EUPLS
+'himself': HEUPLS
 'under': TPH-PB
 'the': -T
 'tree': TRAOE
 'to': TO
 'watch.': WAFP TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'the': -T
 'clock': KHROBG
 'struck': STRUBG
@@ -219,7 +219,7 @@ The Golden Bird
 'and': SKP
 'then': THEPB
 'flew': TPHRAOU
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'The': KPA/-T
 'golden': TKPWOELD/*EPB
 'feather': TP*ERT
@@ -416,7 +416,7 @@ The Golden Bird
 'son': SOPB
 'thought': THAUT
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 ''What': AE KPA/WHA
 'can': K
 'such': SUFP
@@ -758,7 +758,7 @@ The Golden Bird
 'to': TO
 'run,': RUPB KW-BG
 'and': SKP
-'away': A/WAEU
+'away': WA*EU
 'they': THE
 'went': WEPBT
 'over': OEFR
@@ -919,10 +919,10 @@ The Golden Bird
 'young': KWRUPBG
 'man': PHAPB
 'sat': SAT
-'himself': H*EUPLS
+'himself': HEUPLS
 'down,': TKOUPB KW-BG
 'and': SKP
-'away': A/WAEU
+'away': WA*EU
 'they': THE
 'went': WEPBT
 'over': OEFR
@@ -989,7 +989,7 @@ The Golden Bird
 'thought': THAUT
 'he': HE
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 ''It': AE KPA/T
 'will': HR
 'be': -B
@@ -999,7 +999,7 @@ The Golden Bird
 'thing': THEUPBG
 'to': TO
 'bring': PWREU
-'away': A/WAEU
+'away': WA*EU
 'such': SUFP
 'a': AEU
 'fine': TPAOEUPB
@@ -1194,7 +1194,7 @@ The Golden Bird
 'and': SKP
 'snoring:': STPHOERPBG STPH-FPLT
 'take': TAEUBG
-'away': A/WAEU
+'away': WA*EU
 'the': -T
 'horse': HORS
 'quietly,': KWAO*EULT KW-BG
@@ -1229,7 +1229,7 @@ The Golden Bird
 'fox's': TPOBGS AES
 'tail,': TAEUL KW-BG
 'and': SKP
-'away': A/WAEU
+'away': WA*EU
 'they': THE
 'went': WEPBT
 'over': OEFR
@@ -1294,7 +1294,7 @@ The Golden Bird
 'he': HE
 'deserves': TKEFRBS
 'it.'': T TP-PL AE
-'As': KPA/AZ
+'As': KPA/AS
 'he': HE
 'took': TAOBG
 'up': UP
@@ -1394,7 +1394,7 @@ The Golden Bird
 'would': WO
 'have': SR
 'carried': KAERD
-'away': A/WAEU
+'away': WA*EU
 'both': PWO*T
 'the': -T
 'bird': PWEURD
@@ -1449,7 +1449,7 @@ The Golden Bird
 'you': U
 'lead': HRAED
 'her': HER
-'away;': A/WAEU STPH*FPLT
+'away;': WA*EU STPH*FPLT
 'but': PWUT
 'take': TAEUBG
 'care': KAEUR
@@ -1477,7 +1477,7 @@ The Golden Bird
 'tail,': TAEUL KW-BG
 'and': SKP
 'so': SO
-'away': A/WAEU
+'away': WA*EU
 'they': THE
 'went': WEPBT
 'over': OEFR
@@ -1489,7 +1489,7 @@ The Golden Bird
 'hair': HAEUR
 'whistled': WHEUS/-LD
 'again.': TKPWEPB TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'they': THE
 'came': KAEUPL
 'to': TO
@@ -1526,7 +1526,7 @@ The Golden Bird
 'agreed': TKPWRAED
 'to': TO
 'run': RUPB
-'away': A/WAEU
+'away': WA*EU
 'with': W
 'him,': HEUPL KW-BG
 'but': PWUT
@@ -1606,7 +1606,7 @@ The Golden Bird
 'days': TKAEUS
 'you': U
 'dig': TKEUG
-'away': A/WAEU
+'away': WA*EU
 'the': -T
 'hill': HEUL
 'that': THA
@@ -1630,7 +1630,7 @@ The Golden Bird
 'not': TPHOT
 'take': TAEUBG
 'it': T
-'away:': A/WAEU STPH-FPLT
+'away:': WA*EU STPH-FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -1703,7 +1703,7 @@ The Golden Bird
 'his': HEUS
 'word,': WORD KW-BG
 'and': SKP
-'away': A/WAEU
+'away': WA*EU
 'went': WEPBT
 'the': -T
 'young': KWRUPBG
@@ -1833,7 +1833,7 @@ The Golden Bird
 'side,': SAOEUD KW-BG
 'and': SKP
 'gallop': TKPWAL/OP
-'away': A/WAEU
+'away': WA*EU
 'as': AZ
 'fast': TPAFT
 'as': AZ
@@ -1923,7 +1923,7 @@ The Golden Bird
 'your': KWROUR
 'hand,': HAPBD KW-BG
 'ride': RAOEUD
-'away.'': A/WAEU TP-PL AE
+'away.'': WA*EU TP-PL AE
 'This,': KPA/TH KW-BG
 'too,': TAO KW-BG
 'happened': HAPD
@@ -2006,7 +2006,7 @@ The Golden Bird
 'no': TPHO
 'river.'': REUFR TP-PL AE
 'Then': KPA/THEPB
-'away': A/WAEU
+'away': WA*EU
 'he': HE
 'went.': WEPBT TP-PL
 ''Well,'': AE KPA/WEL KW-BG AE
@@ -2071,7 +2071,7 @@ The Golden Bird
 'to': TO
 'be': -B
 'hanged.'': HAPBG/-D TP-PL AE
-'As': KPA/AZ
+'As': KPA/AS
 'he': HE
 'came': KAEUPL
 'nearer,': TPHAOER/*ER KW-BG
@@ -2380,7 +2380,7 @@ The Golden Bird
 'So': KPA/SO
 'he': HE
 'dressed': TKREFD
-'himself': H*EUPLS
+'himself': HEUPLS
 'as': AZ
 'a': AEU
 'poor': PAOR

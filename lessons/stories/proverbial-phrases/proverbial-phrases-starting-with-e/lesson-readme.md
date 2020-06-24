@@ -83,7 +83,7 @@
 * little `HREUL`
 * bit `PWEUT`
 * helps. `HEPS TP-PL`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * Devil `KPA/TKEFL`
 * take `TAEUBG`
 * hindmost. `HAOEUPBD/PHO*ES TP-PL`

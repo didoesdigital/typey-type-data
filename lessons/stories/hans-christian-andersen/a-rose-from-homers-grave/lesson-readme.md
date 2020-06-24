@@ -132,7 +132,7 @@
 * bloom `PWHRAOPL`
 * nightingale." `TPHAOEUT/-G/TKPWAEL TP-PL KR-GS`
 * Then `KPA/THEPB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * death. `TK*T TP-PL`
 * A `KPA/AEU`
 * camel-driver `KAPL/EL H-PB TKREUFR`
@@ -188,7 +188,7 @@
 * placed `PHRAEUFD`
 * book, `PWAOBG KW-BG`
 * carried `KAERD`
-* away `A/WAEU`
+* away `WA*EU`
 * into `TPHAO`
 * distant `STKAPBT`
 * part `PART`

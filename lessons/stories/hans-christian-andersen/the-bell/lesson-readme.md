@@ -579,7 +579,7 @@
 * will `HR`
 * follow, `TPOL KW-BG`
 * quick `KWEUBG`
-* fellow. `TPO*EUL TP-PL`
+* fellow. `TP*EL TP-PL`
 * "if `KR-GS TP`
 * I `EU`
 * world." `WORLD TP-PL KR-GS`

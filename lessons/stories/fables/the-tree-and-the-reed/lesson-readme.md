@@ -74,7 +74,7 @@
 * from `TPR`
 * roots, `RAOTS KW-BG`
 * cast `KAFT`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * log `HROG`
 * on `OPB`
 * while `WHAOEUL`

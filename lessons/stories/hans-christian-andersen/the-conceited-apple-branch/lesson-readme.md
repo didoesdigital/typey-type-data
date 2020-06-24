@@ -353,7 +353,7 @@
 * seed, `SAOED KW-BG`
 * wool, `WAOL KW-BG`
 * fly `TPHRAOEU`
-* away `A/WAEU`
+* away `WA*EU`
 * pieces `PAOEFS`
 * roads, `RAODZ KW-BG`
 * cling `KHREUPBG`
@@ -562,7 +562,7 @@
 * lightly `HRAOEULT`
 * formed, `TPORPLD KW-BG`
 * flutter `TPHRUT/ER`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * now `TPHOU`
 * drew `TKRAOU`
 * forth `TPO*RT`
@@ -575,7 +575,7 @@
 * blown `PWHROEPB`
 * wind. `WEUPBD TP-PL`
 * "See," `KR-GS KPA/SAOE KW-BG KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "how `KR-GS HOU`
 * wonderfully `WOPBD/TPHREU`
 * God `TKPWO*D`

@@ -524,7 +524,7 @@ Little Claus and Big Claus
 'him': HEUPL
 'to': TO
 'go': TKPW
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'as': AZ
 'her': HER
 'husband': HUS
@@ -548,7 +548,7 @@ Little Claus and Big Claus
 'Little': KPA/HREUL
 'Claus': xxx Claus
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 'as': AZ
 'the': -T
 'farmer's': TPAR/PHER AES
@@ -640,7 +640,7 @@ Little Claus and Big Claus
 'while': WHAOEUL
 'he': HE
 'turned': TURPBD
-'himself': H*EUPLS
+'himself': HEUPLS
 'to': TO
 'get': TKPWET
 'comfortable,': K-BL KW-BG
@@ -801,7 +801,7 @@ Little Claus and Big Claus
 'he': HE
 'would': WO
 'put': PUT
-'himself': H*EUPLS
+'himself': HEUPLS
 'in': TPH
 'a': AEU
 'terrible': TERBL
@@ -858,7 +858,7 @@ Little Claus and Big Claus
 'sexton': SEBGS/TOPB
 'to': TO
 'hide': HAOEUD
-'himself': H*EUPLS
+'himself': HEUPLS
 'in': TPH
 'a': AEU
 'large': HRARPBLG
@@ -890,7 +890,7 @@ Little Claus and Big Claus
 'then': THEPB
 'quickly': KWEULG
 'put': PUT
-'away': A/WAEU
+'away': WA*EU
 'the': -T
 'wine,': WAOEUPB KW-BG
 'and': SKP
@@ -1712,7 +1712,7 @@ Little Claus and Big Claus
 'you': U
 'must': PHUFT
 'take': TAEUBG
-'away': A/WAEU
+'away': WA*EU
 'the': -T
 'chest': KHEFT
 'as': AZ
@@ -1771,7 +1771,7 @@ Little Claus and Big Claus
 'which': WEU
 'to': TO
 'carry': KAER
-'away': A/WAEU
+'away': WA*EU
 'the': -T
 'chest': KHEFT
 'and': SKP
@@ -1954,7 +1954,7 @@ Little Claus and Big Claus
 'out': OUT
 'first."': TPEUFRT TP-PL KR-GS
 '"Oh,"': KR-GS KPA/O*ERBGS KW-BG KR-GS
-'exclaimed': SKHRAEUPL/-D
+'exclaimed': SKHRAEUPLD
 'Little': KPA/HREUL
 'Claus,': xxx Claus KW-BG
 'pretending': PRE/TEPBD/-G
@@ -2070,7 +2070,7 @@ Little Claus and Big Claus
 'said': SED
 'he': HE
 'to': TO
-'himself': H*EUPLS
+'himself': HEUPLS
 'when': WHEPB
 'he': HE
 'reached': RAOEFPD
@@ -2487,7 +2487,7 @@ Little Claus and Big Claus
 'while': WHAOEUL
 'he': HE
 'seated': SAOETD
-'himself': H*EUPLS
+'himself': HEUPLS
 'in': TPH
 'a': AEU
 'chair': KHAEUR
@@ -2646,7 +2646,7 @@ Little Claus and Big Claus
 'drove,': TKROEF KW-BG
 'and': SKP
 'rode': ROED
-'away': A/WAEU
+'away': WA*EU
 'through': THRU
 'the': -T
 'wood.': WAOD TP-PL
@@ -3548,7 +3548,7 @@ Little Claus and Big Claus
 '"And': KR-GS AFPBD
 'I,': EU KW-BG
 'poor': PAOR
-'fellow,"': TPO*EUL KW-BG KR-GS
+'fellow,"': TP*EL KW-BG KR-GS
 'said': SED
 'the': -T
 'drover,': TKROEFR KW-BG
@@ -3722,7 +3722,7 @@ Little Claus and Big Claus
 'may': PHAE
 'lie!"': HRAOEU SKHRAPL KR-GS
 'he': HE
-'exclaimed;': SKHRAEUPL/-D STPH*FPLT
+'exclaimed;': SKHRAEUPLD STPH*FPLT
 '"you': KR-GS U
 'will': HR
 'play': PHRAEU
@@ -4180,10 +4180,10 @@ Little Claus and Big Claus
 '"What': KR-GS KPA/WHA
 'a': AEU
 'lucky': HROEUBG
-'fellow': TPO*EUL
+'fellow': TP*EL
 'you': U
 'are!"': R SKHRAPL KR-GS
-'exclaimed': SKHRAEUPL/-D
+'exclaimed': SKHRAEUPLD
 'Great': KPA/TKPWRAET
 'Claus.': xxx Claus TP-PL
 '"Do': KR-GS KPA/TKO

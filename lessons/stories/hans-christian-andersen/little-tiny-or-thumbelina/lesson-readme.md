@@ -263,7 +263,7 @@
 * then `THEPB`
 * might `PHAOEUT`
 * run `RUPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * light `HRAOEUT`
 * swan's `SWAPB AES`
 * down. `TKOUPB TP-PL`
@@ -355,8 +355,8 @@
 * croak," `KROEBG KW-BG KR-GS`
 * all `AUL`
 * say `SAEU`
-* himself; `H*EUPLS STPH*FPLT`
-* away `A/WAEU`
+* himself; `HEUPLS STPH*FPLT`
+* away `WA*EU`
 * leaving `HREFG`
 * alone `A/HROEPB`
 * wept. `WEPT TP-PL`
@@ -373,7 +373,7 @@
 * lifted `HREUFTD`
 * heads `HEDZ`
 * above `PWOF`
-* As `KPA/AZ`
+* As `KPA/AS`
 * soon `SAOPB`
 * caught `KAUT`
 * sight `SAOEUT`
@@ -453,7 +453,7 @@
 * tree. `TRAOE TP-PL`
 * brook, `PWRAOBG KW-BG`
 * get `TKPWET`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * Oh, `KPA/O*ERBGS KW-BG`
 * how `HOU`
 * frightened `TPRAOEUFPBD`
@@ -462,7 +462,7 @@
 * But `KPA/PWUT`
 * especially `EPS`
 * free `TPRAOE`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * die `TKAOEU`
 * hunger. `HURPBG TP-PL`
 * trouble `TRUBL`
@@ -767,7 +767,7 @@
 * that, `THA KW-BG`
 * clever `KHREFR`
 * man!" `PHAPB SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * use `AOUS`
 * twittering, `HRO*ER/TWEUT/*ER/-G KW-BG`
 * winter `WEURPBT`

@@ -60,7 +60,7 @@ The Raven
 'and': SKP
 'would': WO
 'fly': TPHRAOEU
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'then': THEPB
 'I': EU
 'should': SHO
@@ -89,7 +89,7 @@ The Raven
 'raven,': RAFPB KW-BG
 'and': SKP
 'flew': TPHRAOU
-'away': A/WAEU
+'away': WA*EU
 'from': TPR
 'her': HER
 'through': THRU
@@ -148,7 +148,7 @@ The Raven
 'of': -F
 'the': -T
 'voice.': SROEUS TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'he': HE
 'drew': TKRAOU
 'near,': TPHAOER KW-BG
@@ -443,13 +443,13 @@ The Raven
 'last': HRAFT
 'he': HE
 'allowed': HRO*UD
-'himself': H*EUPLS
+'himself': HEUPLS
 'to': TO
 'be': -B
 'persuaded,': PER/SWAEUD/-D KW-BG
 'and': SKP
 'drank.': TKRA*PBG TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'it': T
 'drew': TKRAOU
 'towards': TORDZ
@@ -701,7 +701,7 @@ The Raven
 'fell': TPEL
 'fast': TPAFT
 'asleep.': A/SHRAOEP TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'the': -T
 'raven': RAFPB
 'drove': TKROEF
@@ -849,7 +849,7 @@ The Raven
 'days,': TKAEUS KW-BG
 'and': SKP
 'throwing': THROEG
-'himself': H*EUPLS
+'himself': HEUPLS
 'down,': TKOUPB KW-BG
 'he': HE
 'slept': SHREPT
@@ -1088,7 +1088,7 @@ The Raven
 'here': HAOER
 'and': SKP
 'driven': TKREUFPB
-'away': A/WAEU
+'away': WA*EU
 'again,': TKPWEPB KW-BG
 'and': SKP
 'it': T
@@ -1311,7 +1311,7 @@ The Raven
 'He': KPA/HE
 'thought': THAUT
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 ''If': AE KPA/TP
 'the': -T
 'giant': SKWRAOEUPBT
@@ -1593,7 +1593,7 @@ The Raven
 'brother,': PWROER KW-BG
 'who': WHO
 'was': WAS
-'away': A/WAEU
+'away': WA*EU
 'in': TPH
 'search': SEFRPB
 'of': -F
@@ -1686,7 +1686,7 @@ The Raven
 'many': PHAEPB
 'thousand': THOEUPB
 'miles': PHAOEULS
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 ''How': AE KPA/HOU
 'shall': SHAL
 'I': EU
@@ -1857,7 +1857,7 @@ The Raven
 'and': SKP
 'said': SED
 'to': TO
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 ''I': AE EU
 'will': HR
 'remain': RE/PHAEUPB
@@ -1869,7 +1869,7 @@ The Raven
 'so': SO
 'he': HE
 'built': PWEULT
-'himself': H*EUPLS
+'himself': HEUPLS
 'a': AEU
 'little': HREUL
 'hut,': HUT KW-BG
@@ -2321,7 +2321,7 @@ The Raven
 'own': OEPB
 'ring,'': REUPBG KW-BG AE
 'she': SHE
-'exclaimed,': SKHRAEUPL/-D KW-BG
+'exclaimed,': SKHRAEUPLD KW-BG
 ''and': AE SKP
 'if': TP
 'that': THA

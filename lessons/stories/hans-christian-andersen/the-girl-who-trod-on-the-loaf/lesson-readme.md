@@ -124,7 +124,7 @@
 * often `OFPB`
 * said `SED`
 * her. `HER TP-PL`
-* "As `KR-GS KPA/AZ`
+* "As `KR-GS KPA/AS`
 * you `U`
 * used `AOUFD`
 * trample `TRAFRPL`
@@ -459,7 +459,7 @@
 * winked `WEUPB/-BGD`
 * blinked, `PWHREUPB/-BGD KW-BG`
 * fly `TPHRAOEU`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * wings `WEUPBGS`
 * pulled `PULD`
 * off; `OF STPH*FPLT`
@@ -519,7 +519,7 @@
 * marsh `PHA*RB`
 * disappeared. `TKEUS/PAOERD TP-PL`
 * wept `WEPT`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * Inge! `xxx Inge SKHRAPL`
 * what `WHA`
@@ -532,7 +532,7 @@
 * never `TPHEFR`
 * born! `PWORPB SKHRAPL`
 * My `KPA/PHEU`
-* useless `AOUS/-LS`
+* useless `AOUFLS`
 * now." `TPHOU TP-PL KR-GS`
 * words `WORDZ`
 * kind `KEUPBD`
@@ -639,7 +639,7 @@
 * changed, `KHAEUPBGD KW-BG`
 * years `KWRAOERS`
 * passed `PAFD`
-* away `A/WAEU`
+* away `WA*EU`
 * less `HRES`
 * frequently `TPREL`
 * mentioned. `PHEPBGS/-D TP-PL`
@@ -670,7 +670,7 @@
 * long `HROPBG`
 * bitter `PWEURT`
 * time—then `TAOEUPL EPL/TKA*RB THEPB`
-* pronounced `PRO/TPHOUPBS/-D`
+* pronounced `PROUPBS/-D`
 * more, `PHOR KW-BG`
 * two `TWO`
 * bright `PWRAOEUT`
@@ -691,7 +691,7 @@
 * whom `WHOPL`
 * God `TKPWO*D`
 * taking `TAEUG`
-* Himself. `KPA/H*EUPLS TP-PL`
+* Himself. `KPA/HEUPLS TP-PL`
 * In `KPA/TPH`
 * hour `HOUR`
 * existence `KPEUFS`
@@ -705,7 +705,7 @@
 * shed `SHED`
 * prayed `PRAEUD`
 * now. `TPHOU TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * closed `KHROEFD`
 * soul `SOUL`
 * hidden `HEUD/EPB`
@@ -916,7 +916,7 @@
 * birds, `PWEURDZ KW-BG`
 * single `SEUPBLG`
 * crumb `KRUPL`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * gave `TKPWAEUF`
 * rest `REFT`
 * course `KORS`

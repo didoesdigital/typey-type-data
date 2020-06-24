@@ -33,7 +33,7 @@
 * said: `SED STPH-FPLT`
 * 'There's `AE KPA/THR AES`
 * a `AEU`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * will `HR`
 * give `TKPWEUF`
 * his `HEUS`
@@ -164,7 +164,7 @@
 * smiled `SPHAOEULD`
 * heard `HAERD`
 * that, `THA KW-BG`
-* himself: `H*EUPLS STPH-FPLT`
+* himself: `HEUPLS STPH-FPLT`
 * 'Goodness, `AE KPA/TKPWAOD/-PBS KW-BG`
 * blockhead `xxx blockhead`
 * mine `PHAOEUPB`
@@ -178,7 +178,7 @@
 * wants `WAPBTS`
 * sickle `SEUBG/*L`
 * bend `PWEPBD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * betimes.' `PWE/TAOEUPLS TP-PL AE`
 * sighed, `SAOEU/-D KW-BG`
 * answered `AEPBS/-D`
@@ -298,8 +298,8 @@
 * 'What `AE KPA/WHA`
 * want `WAPBT`
 * here?--speak `HAOER H-F H-PB H-PB SPAOEBG`
-* honest `HO*PBS`
-* fellow, `TPO*EUL KW-BG`
+* honest `HOPBS`
+* fellow, `TP*EL KW-BG`
 * throw `THROE`
 * down `TKOUPB`
 * steps!' `STEPS SKHRAPL AE`
@@ -370,7 +370,7 @@
 * would `WO`
 * gave `TKPWAEUF`
 * answer `AEPBS`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * scoundrel, `SKOUPBD/REL KW-BG`
 * threw `THRAOU`
 * downstairs. `TKOUPB/STAEURS TP-PL`
@@ -379,7 +379,7 @@
 * sorry `SOER`
 * were.' `WR TP-PL AE`
 * woman `WOPL`
-* away `A/WAEU`
+* away `WA*EU`
 * found `TPOUPBD`
 * moaning `PHOEPBG`
 * corner, `KRORPB KW-BG`
@@ -434,7 +434,7 @@
 * times `TAOEUPLS`
 * either `AOERT`
 * speak `SPAOEBG`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * 'Ah,' `AE KPA/HA*E KW-BG AE`
 * unhappiness `UPB/HAEP/-PBS`
 * you. `U TP-PL`
@@ -490,7 +490,7 @@
 * conversation `K-FRGS`
 * youth `KWRAO*UT`
 * holding `HOELGD`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * walked `WAUBGD`
 * little `HREUL`
 * farther `TPA*RT`
@@ -810,7 +810,7 @@
 * far, `TPAR KW-BG`
 * cutting-knife, `KUGT H-PB TPHAOEUF KW-BG`
 * cried: `KRAOEUD STPH-FPLT`
-* 'Away `AE KPA/A/WAEU`
+* 'Away `AE KPA/WA*EU`
 * vermin,' `SRER/PHEUPB KW-BG AE`
 * down. `TKOUPB TP-PL`
 * Some `KPA/SOPL`
@@ -819,7 +819,7 @@
 * fish-pond. `TPEURB H-PB POPBD TP-PL`
 * fanned `TPAPB/-D`
 * embers `EPL/PWER/-S`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * thus `THUS`
 * sat, `SAT KW-BG`
 * longer, `HRORPBG KW-BG`
@@ -923,7 +923,7 @@
 * bench `PWEFRPB`
 * mine.' `PHAOEUPB TP-PL AE`
 * push `PURB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * allow `HROU`
 * thrust `THRUFT`
 * off `OF`
@@ -1004,7 +1004,7 @@
 * arms `ARPLS`
 * blood `PWHRAOD`
 * circulate `SEURBG/HRAEUT`
-* As `KPA/AZ`
+* As `KPA/AS`
 * good, `TKPWAOD KW-BG`
 * 'When `AE KPA/WHEPB`
 * lie `HRAOEU`

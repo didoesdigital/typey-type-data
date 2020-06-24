@@ -209,7 +209,7 @@
 * buttonhole `PW*UPBT/HOEL`
 * man, `PHAPB KW-BG`
 * felt `TPELT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * highly `HAOEUL`
 * honored. `HOPB/ORD TP-PL`
 * Each `KPA/AOEFP`
@@ -550,8 +550,8 @@
 * breeze `PWRAOEZ`
 * carried `KAERD`
 * spoken `SPOEPB`
-* away, `A/WAEU KW-BG`
-* away. `A/WAEU TP-PL`
+* away, `WA*EU KW-BG`
+* away. `WA*EU TP-PL`
 * "What `KR-GS KPA/WHA`
 * can `K`
 * experience!" `SPAOERPBS SKHRAPL KR-GS`

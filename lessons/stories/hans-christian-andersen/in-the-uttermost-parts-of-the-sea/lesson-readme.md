@@ -315,7 +315,7 @@
 * beaming `PWAEPL/-G`
 * face `TPAEUS`
 * gazing. `TKPWAEUFG TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * cup `KUP`
 * lily, `HREUL/KWREU KW-BG`
 * angel `APB/SKWREL`
@@ -407,7 +407,7 @@
 * laughed `HRAFD`
 * wept `WEPT`
 * letter; `HRERT STPH*FPLT`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * ice `AOEUS`
 * shadow `SHOEUD`
 * angel's `APB/SKWREL AES`

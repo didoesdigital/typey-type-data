@@ -51,7 +51,7 @@
 * with `W`
 * shining `SHAOEUPBG`
 * plumage `PHRAOUPL/APBLG`
-* honest `HO*PBS`
+* honest `HOPBS`
 * eyes, `AO*EUS KW-BG`
 * soared `SAORD`
 * southward `SO*UT/WARD`

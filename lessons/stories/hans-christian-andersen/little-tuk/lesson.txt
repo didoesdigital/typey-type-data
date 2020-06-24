@@ -16,7 +16,7 @@ Little Tuk
 'he': HE
 'had': H
 'called': KAULD
-'himself': H*EUPLS
+'himself': HEUPLS
 'so': SO
 'before': PW-FR
 'he': HE
@@ -62,7 +62,7 @@ Little Tuk
 'much': PHUFP
 'younger': KWRURPBG
 'than': THAPB
-'himself,': H*EUPLS KW-BG
+'himself,': HEUPLS KW-BG
 'and': SKP
 'he': HE
 'had': H
@@ -565,12 +565,12 @@ Little Tuk
 'moment': PHOEPLT
 'he': HE
 'found': TPOUPBD
-'himself': H*EUPLS
+'himself': HEUPLS
 'on': OPB
 'horseback.': HORS/PWA*BG TP-PL
 'Gallop,': KPA/TKPWAL/OP KW-BG
 'gallop,': TKPWAL/OP KW-BG
-'away': A/WAEU
+'away': WA*EU
 'he': HE
 'went,': WEPBT KW-BG
 'seated': SAOETD
@@ -1469,7 +1469,7 @@ Little Tuk
 'sleep': SHRAOEP
 'peacefully,': PAES/TPHREU KW-BG
 'as—"': AZ EPL/TKA*RB KR-GS
-'"As': KR-GS KPA/AZ
+'"As': KR-GS KPA/AS
 'if': TP
 'I': EU
 'lay': HRAEU

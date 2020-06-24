@@ -283,7 +283,7 @@ Rumpelstiltskin
 'word,': WORD KW-BG
 'and': SKP
 'sat': SAT
-'himself': H*EUPLS
+'himself': HEUPLS
 'down': TKOUPB
 'to': TO
 'the': -T
@@ -300,9 +300,9 @@ Rumpelstiltskin
 'and': SKP
 'behold!': PWE/HOLD SKHRAPL
 'Reel': KPA/RAOEL
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'reel': RAOEL
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'Straw': KPA/STRAU
 'into': TPHAO
 'gold!'': TKPWOELD SKHRAPL AE
@@ -427,9 +427,9 @@ Rumpelstiltskin
 'and': SKP
 'behold!': PWE/HOLD SKHRAPL
 'Reel': KPA/RAOEL
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'reel': RAOEL
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'Straw': KPA/STRAU
 'into': TPHAO
 'gold!'': TKPWOELD SKHRAPL AE
@@ -486,7 +486,7 @@ Rumpelstiltskin
 'be': -B
 'my': PHEU
 'queen.'': KWAOEPB TP-PL AE
-'As': KPA/AZ
+'As': KPA/AS
 'soon': SAOPB
 'as': AZ
 'she': SHE

@@ -57,7 +57,7 @@
 * whistling `WHEUS/-LG`
 * after `AF`
 * him. `HEUPL TP-PL`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * bounded `PWOUPBD/-D`
 * Hart, `HA*RT KW-BG`
 * soon, `SAOPB KW-BG`

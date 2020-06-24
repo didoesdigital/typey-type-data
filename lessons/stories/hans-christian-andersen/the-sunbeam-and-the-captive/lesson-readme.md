@@ -129,7 +129,7 @@
 * tweet," `TWAOET KW-BG KR-GS`
 * then `THEPB`
 * perches `PER/-FPS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * near `TPHAOER`
 * flutters `TPHRUT/ERS`
 * his `HEUS`
@@ -181,7 +181,7 @@
 * merry `PHER/REU`
 * full. `TPUL TP-PL`
 * starts, `STARTS KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * sunbeam `SUPB/PWAOEPL`
 * gradually `TKPWRAD/WAEL`
 * vanishes, `SRAPB/EURBS KW-BG`

@@ -256,7 +256,7 @@
 * fell `TPEL`
 * from `TPR`
 * floated `TPHROET/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * water. `WAUR TP-PL`
 * frightened `TPRAOEUFPBD`
 * did `TK`
@@ -328,7 +328,7 @@
 * do; `TKO STPH*FPLT`
 * he `HE`
 * amused `A/PHAOUS/-D`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * sitting `SEUGT`
 * kitchen `K-FP`
 * window, `WOEUPBD KW-BG`
@@ -336,7 +336,7 @@
 * going `TKPW-G`
 * on; `OPB STPH*FPLT`
 * courtyard. `KORT/KWRARD TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * looked `HRAOBGD`
 * pretty, `PREUT KW-BG`
 * too `TAO`
@@ -472,7 +472,7 @@
 * hills, `HEULS KW-BG`
 * dales, `TKAEL/-S KW-BG`
 * rocks, `ROBGS KW-BG`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * whirl'd `WHEURL AE TK*`
 * Till `KPA/TEUL`
 * silvery `SEUL/SRER/KWREU`
@@ -508,7 +508,7 @@
 * way, `WAEU KW-BG`
 * hills `HEULS`
 * far `TPAR`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * back `PWABG`
 * bound `PWOUPBD`
 * dark. `TKARBG TP-PL`
@@ -544,7 +544,7 @@
 * fed; `TPED STPH*FPLT`
 * how `HOU`
 * blown `PWHROEPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * themselves. `TH*EPLS TP-PL`
 * boy `PWOEU`
 * day: `TKAEU STPH-FPLT`

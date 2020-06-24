@@ -458,7 +458,7 @@
 * important `PORPB`
 * play. `PHRAEU TP-PL`
 * undoes `UPB/TKOS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * addresses `A/TKREFS`
 * speech `SPAOEFP`
 * you, `U KW-BG`
@@ -572,7 +572,7 @@
 * performers `PORPL/*ER/-S`
 * natural, `TPHARL KW-BG`
 * passed `PAFD`
-* away `A/WAEU`
+* away `WA*EU`
 * interval `EUPBT/SRAL`
 * before `PW-FR`
 * tea-time." `TAE H-PB TAOEUPL TP-PL KR-GS`

@@ -145,7 +145,7 @@
 * buildings `PWHR-GS`
 * great `TKPWRAET`
 * treasures `TR-RBS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * admiringly: `AD/PHAOEURG/HREU STPH-FPLT`
 * "What `KR-GS KPA/WHA`
 * mighty `PHAOEUT/KWREU`
@@ -366,7 +366,7 @@
 * cities?—took `STEUS H-F EPL/TKA*RB TAOBG`
 * strange `STRAEUPBG`
 * shapes, `SHAEUPS KW-BG`
-* crabs `KRAB/-S`
+* crabs `KRABS`
 * many, `PHAEPB KW-BG`
 * miles `PHAOEULS`
 * long, `HROPBG KW-BG`
@@ -468,7 +468,7 @@
 * too, `TAO KW-BG`
 * flinging `TPHREUPBG/-G`
 * them `THEPL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * danced `TKAPBS/-D`
 * about `PW`
 * before `PW-FR`

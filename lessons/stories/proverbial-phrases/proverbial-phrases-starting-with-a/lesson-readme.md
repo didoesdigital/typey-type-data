@@ -168,7 +168,7 @@
 * day `TKAEU`
 * keeps `KAOEPS`
 * doctor `TKR`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * army `AERPL`
 * marches `PHAFRPB/-S`
 * stomach. `STUPL TP-PL`
@@ -197,7 +197,7 @@
 * forth `TPO*RT`
 * May `PHA*EU`
 * flowers. `TPHRO*URS TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * make `PHAEUBG`
 * your `KWROUR`
 * bed, `PWED KW-BG`

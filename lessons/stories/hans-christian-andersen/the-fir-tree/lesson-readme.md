@@ -290,7 +290,7 @@
 * explain," `SPHRAEUPB KW-BG KR-GS`
 * flying `TPHRAOEUG`
 * quickly `KWEULG`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * "Rejoice `KR-GS KPA/RE/SKWROEUS`
 * thy `THAO*EU`
 * youth," `KWRAO*UT KW-BG KR-GS`
@@ -411,7 +411,7 @@
 * am `APL`
 * well `WEL`
 * taken `TAEPB`
-* away `A/WAEU`
+* away `WA*EU`
 * last `HRAFT`
 * year. `KWRAOER TP-PL`
 * wagon, `WAG/OPB KW-BG`
@@ -456,7 +456,7 @@
 * discontented `TKEUS/KOPB/TEPBT/-D`
 * first `TPEUFRT`
 * fall. `TPAUL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * axe `ABGS`
 * stem, `STEPL KW-BG`
 * divided `TKWAOEUTD`
@@ -578,7 +578,7 @@
 * beautiful! `PWAOUFL SKHRAPL`
 * "This `KR-GS KPA/TH`
 * evening," `AOEPBG KW-BG KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "how `KR-GS HOU`
 * be!" `-B SKHRAPL KR-GS`
 * evening `AOEPBG`
@@ -619,7 +619,7 @@
 * burnt `PWURPBT`
 * "Help! `KR-GS KPA/HEP SKHRAPL`
 * help!" `HEP SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * ladies, `HRAEUDZ KW-BG`
 * there `THR`
 * danger, `TKAEUPBLG KW-BG`
@@ -697,7 +697,7 @@
 * shade," `SHAEUD KW-BG KR-GS`
 * man, `PHAPB KW-BG`
 * seated `SAOETD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * hearing `HAERG`
 * also, `HR-S KW-BG`
 * relate `RELT`
@@ -720,7 +720,7 @@
 * crying `KRAOEUG`
 * quite `KWAOEUT`
 * still, `STEUL KW-BG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * "Shall `KR-GS KPA/SHAL`
 * do `TKO`
 * this?" `TH H-F KR-GS`
@@ -974,7 +974,7 @@
 * Yes; `KPA/KWRE STPH*FPLT`
 * clear `KHRAOER`
 * packed `PABGD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * pulled `PULD`
 * roughly `R*UFL`
 * garret `TKPWAEUR/RET`

@@ -518,7 +518,7 @@ Hansel and Gretel
 'behind': HEUPBD
 'for?': TPOR H-F
 'Pay': KPA/PAEU
-'attention,': A/T-PBGS KW-BG
+'attention,': TAEPBGS KW-BG
 'and': SKP
 'do': TKO
 'not': TPHOT
@@ -690,7 +690,7 @@ Hansel and Gretel
 'and': SKP
 'fetch': TPEFP
 'you': U
-'away.'': A/WAEU TP-PL AE
+'away.'': WA*EU TP-PL AE
 'Hansel': HAPB/SEL
 'and': SKP
 'Gretel': TKPWRET/EL
@@ -1320,7 +1320,7 @@ Hansel and Gretel
 'and': SKP
 'fetch': TPEFP
 'you': U
-'away.'': A/WAEU TP-PL AE
+'away.'': WA*EU TP-PL AE
 'When': KPA/WHEPB
 'it': T
 'was': WAS
@@ -1592,7 +1592,7 @@ Hansel and Gretel
 'wings': WEUPBGS
 'and': SKP
 'flew': TPHRAOU
-'away': A/WAEU
+'away': WA*EU
 'before': PW-FR
 'them,': THEPL KW-BG
 'and': SKP
@@ -2521,7 +2521,7 @@ Hansel and Gretel
 'but': PWUT
 'Gretel': TKPWRET/EL
 'ran': RAPB
-'away': A/WAEU
+'away': WA*EU
 'and': SKP
 'the': -T
 'godless': TKPWOD/-LS
@@ -2754,7 +2754,7 @@ Hansel and Gretel
 'and': SKP
 'Hansel': HAPB/SEL
 'seated': SAOETD
-'himself': H*EUPLS
+'himself': HEUPLS
 'on': OPB
 'its': EUTS
 'back,': PWABG KW-BG
@@ -2921,7 +2921,7 @@ Hansel and Gretel
 'it,': T KW-BG
 'may': PHAE
 'make': PHAEUBG
-'himself': H*EUPLS
+'himself': HEUPLS
 'a': AEU
 'big': PWEUG
 'fur': TPUR

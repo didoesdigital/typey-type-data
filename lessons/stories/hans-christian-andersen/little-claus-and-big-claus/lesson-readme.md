@@ -270,7 +270,7 @@
 * wanted, `WAPBTD KW-BG`
 * told `TOLD`
 * go `TKPW`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * her `HER`
 * husband `HUS`
 * allow `HROU`
@@ -279,7 +279,7 @@
 * "Then `KR-GS KPA/THEPB`
 * lie `HRAOEU`
 * here," `HAOER KW-BG KR-GS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * shut `SHUT`
 * face. `TPAEUS TP-PL`
 * farmhouse `TPARPL/HOUS`
@@ -312,7 +312,7 @@
 * climbed `KHRAOEUPLD`
 * roof `RAOF`
 * turned `TURPBD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * comfortable, `K-BL KW-BG`
 * wooden `WAOD/EPB`
 * shutters, `SHUT/ERS KW-BG`
@@ -399,7 +399,7 @@
 * endure `EPB/TKAOUR`
 * then `THEPB`
 * quickly `KWEULG`
-* away `A/WAEU`
+* away `WA*EU`
 * hid `HEUD`
 * rest `REFT`
 * nice `TPHAOEUS`
@@ -706,7 +706,7 @@
 * alone," `A/HROEPB KW-BG KR-GS`
 * within `W-PB`
 * "let `KR-GS HRET`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * pretending `PRE/TEPBD/-G`
 * "he `KR-GS HE`
 * still, `STEUL KW-BG`
@@ -1076,7 +1076,7 @@
 * "And `KR-GS AFPBD`
 * I, `EU KW-BG`
 * poor `PAOR`
-* fellow," `TPO*EUL KW-BG KR-GS`
+* fellow," `TP*EL KW-BG KR-GS`
 * drover, `TKROEFR KW-BG`
 * already, `HR-R KW-BG`
 * "Open `KR-GS KPA/OEP`
@@ -1104,7 +1104,7 @@
 * believing `PWHREFG`
 * "There `KR-GS KPA/THR`
 * lie!" `HRAOEU SKHRAPL KR-GS`
-* exclaimed; `SKHRAEUPL/-D STPH*FPLT`
+* exclaimed; `SKHRAEUPLD STPH*FPLT`
 * play `PHRAEU`
 * more `PHOR`
 * tricks `TREUBGS`
@@ -1210,7 +1210,7 @@
 * mile, `PHAOEUL KW-BG`
 * quickly." `KWEULG TP-PL KR-GS`
 * lucky `HROEUBG`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * are!" `R SKHRAPL KR-GS`
 * sea-cattle `SAE H-PB KA*LT`
 * river?" `REUFR H-F KR-GS`

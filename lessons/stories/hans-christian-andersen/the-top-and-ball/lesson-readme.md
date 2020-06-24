@@ -118,7 +118,7 @@
 * top. `TOP TP-PL`
 * "The `KR-GS KPA/-T`
 * major `PHAEUPBLG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * turned `TURPBD`
 * me. `PHE TP-PL`
 * He `KPA/HE`
@@ -222,7 +222,7 @@
 * ninth `TPHAO*EUPBT`
 * rose `ROEZ`
 * remained `RE/PHAEUPBD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * did `TK`
 * return. `RURPB TP-PL`
 * searched `SEFRPBD`
@@ -391,7 +391,7 @@
 * clean `KHRAOEPB`
 * dust-bin. `TKUFT H-PB PWEUPB TP-PL`
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "here `KR-GS HAOER`
 * gilt `TKPW*EULT`
 * top." `TOP TP-PL KR-GS`
@@ -404,7 +404,7 @@
 * heard `HAERD`
 * word `WORD`
 * died `TKAOEUD`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * When `KPA/WHEPB`
 * beloved `PWHROFD`
 * object `OBT`

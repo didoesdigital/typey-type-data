@@ -26,7 +26,7 @@
 * enough `TPHUF`
 * he `HE`
 * will `HR`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * credit `KRET`
 * where `W-R`
 * due. `TKAOU TP-PL`

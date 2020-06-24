@@ -48,7 +48,7 @@
 * assent `ASZ/EPBT`
 * ate `AEUT`
 * eight `AET`
-* away `A/WAEU`
+* away `WA*EU`
 * aweigh `A/WAE`
 * aye `AO*EU`
 * eye `AOEU`

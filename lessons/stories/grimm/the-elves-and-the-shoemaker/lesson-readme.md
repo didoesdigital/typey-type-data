@@ -10,7 +10,7 @@
 * very `SRE`
 * hard `HARD`
 * and `SKP`
-* honest: `HO*PBS STPH-FPLT`
+* honest: `HOPBS STPH-FPLT`
 * but `PWUT`
 * still `STEUL`
 * he `HE`
@@ -72,7 +72,7 @@
 * said `SED`
 * prayers, `PRAEURS KW-BG`
 * sat `SAT`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * down `TKOUPB`
 * work; `WORBG STPH*FPLT`
 * when, `WHEPB KW-BG`
@@ -212,7 +212,7 @@
 * watched `WAFPD`
 * would `WO`
 * happen. `HAP TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * midnight, `PHAOEUPBT KW-BG`
 * little `HREUL`
 * naked `TPHAEUBGD`
@@ -227,7 +227,7 @@
 * stitching `STEUFPG`
 * rapping `RAPG`
 * tapping `TAPG`
-* away `A/WAEU`
+* away `WA*EU`
 * rate, `RAEUT KW-BG`
 * shoemaker `SHAOU/PHA*EURBG`
 * take `TAEUBG`

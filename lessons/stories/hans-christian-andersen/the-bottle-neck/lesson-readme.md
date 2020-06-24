@@ -114,7 +114,7 @@
 * speak; `SPAOEBG STPH*FPLT`
 * thought `THAUT`
 * them `THEPL`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * his `HEUS`
 * own `OEPB`
 * mind, `PHAOEUPBD KW-BG`
@@ -232,7 +232,7 @@
 * remarkable; `RARBG/-BL STPH*FPLT`
 * he, `HE KW-BG`
 * fact, `TPABGT KW-BG`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * or, `OR KW-BG`
 * least, `HRAOEFT KW-BG`
 * mind. `PHAOEUPBD TP-PL`
@@ -492,7 +492,7 @@
 * joyful `SKWROEUFL`
 * expression. `EBGS/PREGS TP-PL`
 * wandered `WAPBD/-D`
-* away `A/WAEU`
+* away `WA*EU`
 * wood, `WAOD KW-BG`
 * talked `TAUBGD`
 * together. `TOGT TP-PL`
@@ -731,7 +731,7 @@
 * sprang `SPRAPBG`
 * leak, `HRAEBG KW-BG`
 * pumps `P*UPLS`
-* useless, `AOUS/-LS KW-BG`
+* useless, `AOUFLS KW-BG`
 * around `ARPBD`
 * black `PWHRABG`
 * night. `TPHAOEUT TP-PL`
@@ -780,7 +780,7 @@
 * stove `STOF`
 * longing `HROPBG/-G`
 * fly `TPHRAOEU`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * outlived `AOUT/HREUFD`
 * storms `STORPLS`
 * calm, `KAUPL KW-BG`
@@ -1210,7 +1210,7 @@
 * half `HAF`
 * long. `HROPBG TP-PL`
 * was! `WAS SKHRAPL`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * roof, `RAOF KW-BG`
 * broke `PWROEBG`
 * pieces. `PAOEFS TP-PL`
@@ -1218,7 +1218,7 @@
 * got `TKPWOT`
 * impetus `*EUPL/TUS`
 * stop `STOP`
-* jumping `SKWRUPL/-PG`
+* jumping `SKWRUFRPG`
 * rolling `ROLG`
 * about, `PW KW-BG`
 * court-yard, `KORT H-PB KWRARD KW-BG`
@@ -1248,7 +1248,7 @@
 * balloon; `PWHRAOPB STPH*FPLT`
 * further `TPURT`
 * history. `HEUFRT TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * below, `PWHRO KW-BG`
 * room `RAOPL`
 * within. `W-PB TP-PL`

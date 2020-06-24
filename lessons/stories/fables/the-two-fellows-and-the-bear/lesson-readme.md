@@ -30,7 +30,7 @@
 * branch `PWRAFRPB`
 * tree, `TRAOE KW-BG`
 * hid `HEUD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * among `PHOPBG`
 * leaves. `HREFS TP-PL`
 * The `KPA/-T`
@@ -73,7 +73,7 @@
 * dead `TKED`
 * meat. `PHAET TP-PL`
 * Then `KPA/THEPB`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * tree `TRAOE`
 * came `KAEUPL`
 * comrade, `KOPL/RAD KW-BG`
@@ -95,6 +95,6 @@
 * trust `TRUFT`
 * friend `TPREPBD`
 * who `WHO`
-* deserts `STK*ERT/-S`
+* deserts `STK*ERTS`
 * you `U`
 * pinch." `PEUFRPB TP-PL KR-GS`

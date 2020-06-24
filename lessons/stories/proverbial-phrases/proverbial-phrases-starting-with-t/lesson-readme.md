@@ -119,7 +119,7 @@
 * end `EPBD`
 * justifies `SKWRUFZ`
 * means. `PHAOEPBS TP-PL`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * my `PHEU`
 * friend. `TPREPBD TP-PL`
 * exception `KPEPGS`
@@ -247,7 +247,7 @@
 * I. `EU TP-PL`
 * fish `TPEURB`
 * sea. `SAE TP-PL`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * among `PHOPBG`
 * thieves. `THAOEFS TP-PL`
 * many `PHAEPB`

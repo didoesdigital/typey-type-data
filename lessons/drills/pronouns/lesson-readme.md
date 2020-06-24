@@ -33,7 +33,7 @@
 * herself `H*ERS`
 * him `HEUPL`
 * his `HEUS`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * it `T`
 * its `EUTS`
 * it's `T-S`

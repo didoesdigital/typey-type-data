@@ -7,7 +7,7 @@
 * a `AEU`
 * land `HRAPBD`
 * far `TPAR`
-* away `A/WAEU`
+* away `WA*EU`
 * in `TPH`
 * the `-T`
 * East `AO*EFT`
@@ -178,7 +178,7 @@
 * in.' `TPH TP-PL AE`
 * brought `PWRAUT`
 * dirty-looking `TKOEURT SKWRAOG`
-* fellow; `TPO*EUL STPH*FPLT`
+* fellow; `TP*EL STPH*FPLT`
 * sung `SUPBG`
 * before `PW-FR`
 * princess, `PREUPB/SES KW-BG`
@@ -544,7 +544,7 @@
 * sprang `SPRAPBG`
 * door `TKAOR`
 * run `RUPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * steps `STEPS`
 * Grisly-beard `KPA/TKPWREUS/HREU H-PB PWAERD`
 * overtook `AUFR/TAOBG`

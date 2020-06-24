@@ -89,7 +89,7 @@
 * he `HE`
 * do `TKO`
 * for `TPOR`
-* himself.' `H*EUPLS TP-PL AE`
+* himself.' `HEUPLS TP-PL AE`
 * brother `PWROER`
 * way; `WAEU STPH*FPLT`
 * as `AZ`
@@ -133,7 +133,7 @@
 * is `S`
 * not `TPHOT`
 * an `APB`
-* honest `HO*PBS`
+* honest `HOPBS`
 * calling, `KAULG KW-BG`
 * one `WUPB`
 * look `HRAOBG`
@@ -165,7 +165,7 @@
 * trade, `TRAEUD KW-BG`
 * soon `SAOPB`
 * showed `SHOED`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * so `SO`
 * clever, `KHREFR KW-BG`
 * could `KO`
@@ -330,7 +330,7 @@
 * 'Five.' `AE KPA/TPEUF TP-PL AE`
 * 'Now,' `AE KPA/TPHOU KW-BG AE`
 * 'take `AE TAEUBG`
-* away `A/WAEU`
+* away `WA*EU`
 * without `WOUT`
 * letting `HREGT`
 * bird `PWEURD`

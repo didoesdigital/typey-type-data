@@ -262,7 +262,7 @@ The Mail-Coach Passengers
 'and': SKP
 'a': AEU
 'famous': TPAEUPLS
-'fellow': TPO*EUL
+'fellow': TP*EL
 'he': HE
 'looked,': HRAOBGD KW-BG
 'arrayed': A/RAEU/-D
@@ -358,7 +358,7 @@ The Mail-Coach Passengers
 'seemed': SAOEPLD
 'a': AEU
 'merry': PHER/REU
-'fellow.': TPO*EUL TP-PL
+'fellow.': TP*EL TP-PL
 'He': KPA/HE
 'was': WAS
 'a': AEU
@@ -910,7 +910,7 @@ The Mail-Coach Passengers
 'a': AEU
 'plump': PHRUFRP
 'young': KWRUPBG
-'fellow,': TPO*EUL KW-BG
+'fellow,': TP*EL KW-BG
 'clad': KHRAD
 'in': TPH
 'summer': SAOURPL
@@ -1509,7 +1509,7 @@ The Mail-Coach Passengers
 'coach': KOEFP
 'may': PHAE
 'drive': TKRAOEUF
-'away,"': A/WAEU KW-BG KR-GS
+'away,"': WA*EU KW-BG KR-GS
 'said': SED
 'the': -T
 'sentry;': SEPBT/REU STPH*FPLT

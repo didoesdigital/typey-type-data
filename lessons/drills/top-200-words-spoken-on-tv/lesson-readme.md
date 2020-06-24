@@ -168,7 +168,7 @@
 * ever `-FR`
 * night `TPHAOEUT`
 * than `THAPB`
-* away `A/WAEU`
+* away `WA*EU`
 * first `TPEUFRT`
 * believe `PWHREF`
 * other `OER`

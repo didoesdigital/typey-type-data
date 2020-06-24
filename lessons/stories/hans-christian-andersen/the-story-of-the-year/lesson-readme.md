@@ -280,7 +280,7 @@
 * knowledge; `TPHOPBLG STPH*FPLT`
 * shall `SHAL`
 * fly `TPHRAOEU`
-* away `A/WAEU`
+* away `WA*EU`
 * wait? `WAEUT H-F`
 * nearer `TPHAOER/*ER`
 * then, `THEPB KW-BG`
@@ -342,7 +342,7 @@
 * ones, `WUPBZ KW-BG`
 * now `TPHOU`
 * flown `TPHROEPB`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * brought `PWRAUT`
 * up `UP`
 * there. `THR TP-PL`
@@ -917,7 +917,7 @@
 * salt `SALT`
 * sea, `SAE KW-BG`
 * Summer `KPA/SAOURPL`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * strong `STROPBG`
 * sturdy `STUR/TKEU`
 * limbs `HREUPLS`
@@ -998,7 +998,7 @@
 * woman—Summer `WOPL EPL/TKA*RB KPA/SAOURPL`
 * consort. `KOPB/SORT TP-PL`
 * "See," `KR-GS KPA/SAOE KW-BG KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "what `KR-GS WHA`
 * wealth, `W*ELT KW-BG`
 * blessings `PWHREFGS`

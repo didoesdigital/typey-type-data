@@ -264,7 +264,7 @@
 * loudly `HROUD/HREU`
 * laughing, `HRAFG KW-BG`
 * ran `RAPB`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * What `KPA/WHA`
 * naughty `TPHAU/TEU`
 * taken `TAEPB`
@@ -346,7 +346,7 @@
 * chandelier `KHAPBD/HRAOER`
 * theatre `THAO*ERT`
 * blazes `PWHRAEUZ/-Z`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * think `THEU`
 * lamp; `HRAFRP STPH*FPLT`
 * find `TPAOEUPBD`

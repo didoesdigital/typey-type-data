@@ -27,7 +27,7 @@
 * He `KPA/HE`
 * said `SED`
 * to `TO`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'I `AE EU`
 * will `HR`
 * give `TKPWEUF`
@@ -281,7 +281,7 @@
 * am `APL`
 * obliged `OE/PWHRAOEUPBLGD`
 * fire! `TPAOEUR SKHRAPL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * their `THAEUR`
 * power `POUR`
 * kill `KEUL`
@@ -408,7 +408,7 @@
 * tomorrow; `TORPL STPH*FPLT`
 * won't `WOEPBT`
 * run `RUPB`
-* away.' `A/WAEU TP-PL AE`
+* away.' `WA*EU TP-PL AE`
 * 'The `AE KPA/-T`
 * right,' `RAOEUT KW-BG AE`
 * robbers, `RORBS KW-BG`

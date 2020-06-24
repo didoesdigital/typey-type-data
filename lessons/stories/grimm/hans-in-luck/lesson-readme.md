@@ -137,7 +137,7 @@
 * off `OF`
 * road `RAOD`
 * homewards. `HOEPL/WARDZ TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * went `WEPBT`
 * lazily `HRAEUZ/HREU`
 * on, `OPB KW-BG`
@@ -257,7 +257,7 @@
 * delighted `TKHRAOEUTD`
 * sat `SAT`
 * drew `TKRAOU`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * squared `KWAEURD`
 * elbows, `EL/PWOES KW-BG`
 * turned `TURPBD`
@@ -292,7 +292,7 @@
 * smacked `SPHABGD`
 * cried `KRAOEUD`
 * 'Jip!' `AE xxx Jip SKHRAPL AE`
-* Away `KPA/A/WAEU`
+* Away `KPA/WA*EU`
 * horse `HORS`
 * full `TPUL`
 * gallop; `TKPWAL/OP STPH*FPLT`
@@ -315,7 +315,7 @@
 * stopped `STOPD`
 * it. `T TP-PL`
 * soon `SAOPB`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * legs `HREGS`
 * again, `TKPWEPB KW-BG`
 * sadly `SAD/HREU`
@@ -384,7 +384,7 @@
 * jumped `SKWR*UPLD`
 * wished `WEURBD`
 * morning, `PHORPBG KW-BG`
-* away `A/WAEU`
+* away `WA*EU`
 * rode. `ROED TP-PL`
 * brushed `PWRURBD`
 * wiped `WAOEUPD`
@@ -556,7 +556,7 @@
 * cow; `KO*U STPH*FPLT`
 * taking `TAEUG`
 * wheel-barrow, `WHAOEL H-PB PWAEUR/ROE KW-BG`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * holding `HOELGD`
 * string `STREUPBG`
 * its `EUTS`
@@ -627,7 +627,7 @@
 * worthy `WO*RT/KWREU`
 * seem `SAOEPL`
 * sort `SORT`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * help `HEP`
 * doing `TK*G`
 * turn. `TURPB TP-PL`

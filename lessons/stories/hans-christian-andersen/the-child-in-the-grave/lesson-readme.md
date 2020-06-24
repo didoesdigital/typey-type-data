@@ -150,7 +150,7 @@
 * great `TKPWRAET`
 * grief `TKPWRAOEF`
 * fell `TPEL`
-* away `A/WAEU`
+* away `WA*EU`
 * faith `TPA*EUT`
 * God, `TKPWO*D KW-BG`
 * dark `TKARBG`
@@ -279,7 +279,7 @@
 * rudder. `RUD/ER TP-PL`
 * So `KPA/SO`
 * passed `PAFD`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * similar `SHRAR`
 * days `TKAEUS`
 * followed, `TPOLD KW-BG`
@@ -341,7 +341,7 @@
 * arms `ARPLS`
 * prayed, `PRAEUD KW-BG`
 * soon `SAOPB`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * healthful `H*ELT/-FL`
 * therefore `TH-FR`
 * wife `WAOEUF`
@@ -419,7 +419,7 @@
 * longer `HRORPBG`
 * strength `STREPBG`
 * raise! `RAEUZ SKHRAPL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * cot, `KOT KW-BG`
 * now `TPHOU`
 * grave; `TKPWRAEUF STPH*FPLT`
@@ -567,7 +567,7 @@
 * earthly `*ERT/HREU`
 * saw,—he `SAU KW-BG EPL/TKA*RB HE`
 * called `KAULD`
-* Himself. `KPA/H*EUPLS TP-PL`
+* Himself. `KPA/HEUPLS TP-PL`
 * sounds `SOUPBDZ`
 * music, `PHAOUFBG KW-BG`
 * words, `WORDZ KW-BG`
@@ -590,7 +590,7 @@
 * And `AFPBD`
 * gladly. `TKPWHRAD/HREU TP-PL`
 * May `PHA*EU`
-* away? `A/WAEU H-F`
+* away? `WA*EU H-F`
 * will `HR`
 * come `KOPL`
 * soon, `SAOPB KW-BG`

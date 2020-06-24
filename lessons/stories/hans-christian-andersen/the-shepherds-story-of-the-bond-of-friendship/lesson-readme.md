@@ -224,7 +224,7 @@
 * will `HR`
 * drive `TKRAOEUF`
 * them `THEPL`
-* away `A/WAEU`
+* away `WA*EU`
 * across `A/KROS`
 * islands!' `AOEU/HRAPBDZ SKHRAPL AE`
 * cried `KRAOEUD`
@@ -318,7 +318,7 @@
 * Turks `TURBGS`
 * night. `TPHAOEUT TP-PL`
 * He `KPA/HE`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * wounded, `WOUPBD/-D KW-BG`
 * bound `PWOUPBD`
 * up `UP`
@@ -926,7 +926,7 @@
 * "How `KR-GS KPA/HOU`
 * you `U`
 * know!" `TPHOE SKHRAPL KR-GS`
-* exclaimed, `SKHRAEUPL/-D KW-BG`
+* exclaimed, `SKHRAEUPLD KW-BG`
 * "and `KR-GS SKP`
 * wonders `WOPBDZ`
 * relate?" `RELT H-F KR-GS`
@@ -1135,7 +1135,7 @@
 * daily, `TKAEUL KW-BG`
 * soul." `SOUL TP-PL KR-GS`
 * thine," `THAOEUPB KW-BG KR-GS`
-* exclaimed; `SKHRAEUPL/-D STPH*FPLT`
+* exclaimed; `SKHRAEUPLD STPH*FPLT`
 * "thine! `KR-GS THAOEUPB SKHRAPL`
 * wrong `WROPBG`
 * so. `SO TP-PL`
@@ -1190,14 +1190,14 @@
 * threw `THRAOU`
 * pressed `PREFD`
 * lips `HREUPS`
-* As `KPA/AZ`
+* As `KPA/AS`
 * ground, `TKPWROUPBD KW-BG`
 * darkness, `TKARBG/-PBS KW-BG`
 * heart `HART`
 * Before `KPA/PW-FR`
 * daybreak `TKAEU/PWRAEBG`
 * "Farewell," `KR-GS KPA/TPAER/WEL KW-BG KR-GS`
-* away. `A/WAEU TP-PL`
+* away. `WA*EU TP-PL`
 * money `PHUPB`
 * betrothed `PWE/TRO*T/-D`
 * wife. `WAOEUF TP-PL`

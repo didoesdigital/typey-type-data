@@ -62,10 +62,10 @@ Common Words
 'at': AT
 'attack': A/TABG
 'attempt': A/TEPLT
-'attention': A/T-PBGS
+'attention': TAEPBGS
 'aunt': AUPBT
 'avoid': A/SROEUD
-'away': A/WAEU
+'away': WA*EU
 'baby': PWAEB
 'back': PWABG
 'bad': PWAD
@@ -405,7 +405,7 @@ Common Words
 'hide': HAOEUD
 'high': HAOEU
 'him': HEUPL
-'himself': H*EUPLS
+'himself': HEUPLS
 'his': HEUS
 'hit': HEUT
 'hold': HOLD
@@ -816,7 +816,7 @@ Common Words
 'struggle': STRULG
 'stuck': STUBG
 'student': STAUPB
-'study': STAO*UD
+'study': STOEU
 'stuff': STUF
 'stupid': STAOUPD
 'such': SUFP

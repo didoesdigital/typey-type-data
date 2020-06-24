@@ -33,7 +33,7 @@
 * great `TKPWRAET`
 * deal—that `TKAOEL EPL/TKA*RB THA`
 * is, `S-RBGS`
-* himself. `H*EUPLS TP-PL`
+* himself. `HEUPLS TP-PL`
 * "Only `KR-GS KPA/OEPBL`
 * wait `WAEUT`
 * till `TEUL`
@@ -363,7 +363,7 @@
 * drop `TKROP`
 * leaves, `HREFS KW-BG`
 * blown `PWHROEPB`
-* away `A/WAEU`
+* away `WA*EU`
 * by `PWEU`
 * wind. `WEUPBD TP-PL`
 * once `WUPBS`

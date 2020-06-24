@@ -110,7 +110,7 @@
 * those `THOZ`
 * came `KAEUPL`
 * come `KOPL`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * way `WAEU`
 * work `WORBG`
 * life `HRAOEUF`
@@ -139,7 +139,7 @@
 * same `SAEUPL`
 * last `HRAFT`
 * thought `THAUT`
-* away `A/WAEU`
+* away `WA*EU`
 * under `TPH-PB`
 * take `TAEUBG`
 * found `TPOUPBD`
@@ -591,7 +591,7 @@
 * certainly `SERPBL`
 * wind `WEUPBD`
 * receive `SAOEF`
-* attention `A/T-PBGS`
+* attention `TAEPBGS`
 * government `TKPWOFT`
 * unto `UPB/TO`
 * church `KHUFRPB`
@@ -607,7 +607,7 @@
 * especially `EPS`
 * greater `TKPWRAERT`
 * yourself `KWRO*URS`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * bear `PWAER`
 * opinion `P-PB`
 * window `WOEUPBD`
@@ -677,14 +677,14 @@
 * Paris `PA*EURS`
 * single `SEUPBLG`
 * joy `SKWROEU`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * broken `PWROEPB`
 * unless `TPH-LS`
 * states `STAEUTS`
 * ship `SHEUP`
 * condition `K-PB`
 * carry `KAER`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * including `KHRUG`
 * filled `TPEULD`
 * seeing `SAOEG`
@@ -845,7 +845,7 @@
 * considerable `KR-BL`
 * c `KR*`
 * broke `PWROEBG`
-* honour `H*/O*/TPH*/O*/*U/R*`
+* honour `HO*RPB/A*U`
 * seven `SEFPB`
 * private `PRAOEUFT`
 * sit `SEUT`
@@ -883,7 +883,7 @@
 * produced `PRO*UD`
 * summer `SAOURPL`
 * provide `PROEFD`
-* study `STAO*UD`
+* study `STOEU`
 * religion `RE/HR-GS`
 * picture `P*EUFP`
 * walls `WAULS`

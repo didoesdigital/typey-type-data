@@ -34,7 +34,7 @@
 * moments `PHOEPLTS`
 * when `WHEPB`
 * wished `WEURBD`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * dead `TKED`
 * below `PWHRO`
 * ground. `TKPWROUPBD TP-PL`
@@ -75,7 +75,7 @@
 * such `SUFP`
 * as `AZ`
 * I." `EU TP-PL KR-GS`
-* As `KPA/AZ`
+* As `KPA/AS`
 * spoke `SPOEBG`
 * words `WORDZ`
 * great `TKPWRAET`
@@ -319,7 +319,7 @@
 * cry `KRAOEU`
 * fear, `TPAOER KW-BG`
 * then `THEPB`
-* exclaimed `SKHRAEUPL/-D`
+* exclaimed `SKHRAEUPLD`
 * dismay, `TKEUS/PHAEU KW-BG`
 * perceived `SPAOEFD`
 * strange `STRAEUPBG`
@@ -471,7 +471,7 @@
 * thought. `THAUT TP-PL`
 * "It `KR-GS KPA/T`
 * true," `TRAOU KW-BG KR-GS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * "that `KR-GS THA`
 * none `TPHOPB`
 * King, `KO*EUPBG KW-BG`

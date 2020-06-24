@@ -235,8 +235,8 @@
 * them; `THEPL STPH*FPLT`
 * harm `HARPL`
 * me.' `PHE TP-PL AE`
-* As `KPA/AZ`
-* himself `H*EUPLS`
+* As `KPA/AS`
+* himself `HEUPLS`
 * would `WO`
 * so, `SO KW-BG`
 * gave `TKPWAEUF`
@@ -284,7 +284,7 @@
 * below `PWHRO`
 * rest `REFT`
 * until `TPH-L`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * likewise `HRAOEUBG/WAOEUS`
 * learnt, `HRERPBT KW-BG`
 * discourse, `TKEUS/KORS KW-BG`

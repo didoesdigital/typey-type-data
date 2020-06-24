@@ -125,7 +125,7 @@
 * let `HRET`
 * go; `TKPW STPH*FPLT`
 * prince `PREUPBS`
-* himself, `H*EUPLS KW-BG`
+* himself, `HEUPLS KW-BG`
 * 'If `AE KPA/TP`
 * bring `PWREU`
 * my `PHEU`
@@ -217,7 +217,7 @@
 * again `TKPWEPB`
 * rang `RAPBG`
 * ears, `AOERS KW-BG`
-* himself `H*EUPLS`
+* himself `HEUPLS`
 * unable `TPHA*EUBL`
 * move `PHOF`
 * step, `STEP KW-BG`
@@ -473,7 +473,7 @@
 * by `PWEU`
 * full `TPUL`
 * hastened `HAEUS/-PBD`
-* away `A/WAEU`
+* away `WA*EU`
 * time. `TAOEUPL TP-PL`
 * Just `KPA/SKWRUFT`
 * twelve, `TWEFL KW-BG`
@@ -720,7 +720,7 @@
 * whom `WHOPL`
 * order `ORD`
 * rid `REUD`
-* enemy `EPB/PHEU`
+* enemy `TPHAEPL`
 * feed `TPAOED`
 * people. `PAOEPL TP-PL`
 * touched `TUFPD`
@@ -765,7 +765,7 @@
 * once. `WUPBS TP-PL`
 * haste `HAEUFT`
 * wife, `WAOEUF KW-BG`
-* As `KPA/AZ`
+* As `KPA/AS`
 * golden `TKPWOELD/*EPB`
 * road, `RAOD KW-BG`
 * look `HRAOBG`

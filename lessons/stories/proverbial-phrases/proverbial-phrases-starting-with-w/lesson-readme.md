@@ -80,7 +80,7 @@
 * make `PHAEUBG`
 * lemonade. `HREPL/TPHAEUD TP-PL`
 * cat `KAT`
-* away, `A/WAEU KW-BG`
+* away, `WA*EU KW-BG`
 * mice `PHAOEUS`
 * will `HR`
 * play. `PHRAEU TP-PL`

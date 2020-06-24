@@ -348,8 +348,8 @@
 * cried `KRAOEUD`
 * "They `KR-GS KPA/THE`
 * running `R*UPBG`
-* away! `A/WAEU SKHRAPL`
-* away!" `A/WAEU SKHRAPL KR-GS`
+* away! `WA*EU SKHRAPL`
+* away!" `WA*EU SKHRAPL KR-GS`
 * two `TWO`
 * frightened `TPRAOEUFPBD`
 * this, `TH KW-BG`
@@ -589,7 +589,7 @@
 * door, `TKAOR KW-BG`
 * going `TKPW-G`
 * room. `RAOPL TP-PL`
-* As `KPA/AZ`
+* As `KPA/AS`
 * quiet, `KWAO*EUT KW-BG`
 * out. `OUT TP-PL`
 * Alas! `KPA/A/HRAS SKHRAPL`
@@ -637,7 +637,7 @@
 * ever." `-FR TP-PL KR-GS`
 * "Do `KR-GS KPA/TKO`
 * so?" `SO H-F KR-GS`
-* "As `KR-GS KPA/AZ`
+* "As `KR-GS KPA/AS`
 * done `TKOPB`
 * good," `TKPWAOD KW-BG KR-GS`
 * "we `KR-GS WE`

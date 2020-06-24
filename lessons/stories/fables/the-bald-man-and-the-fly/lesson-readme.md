@@ -36,9 +36,9 @@
 * blow `PWHROE`
 * at `AT`
 * little `HREUL`
-* enemy, `EPB/PHEU KW-BG`
+* enemy, `TPHAEPL KW-BG`
 * but `PWUT`
-* acks `A*/KR*/K*/S*`
+* acks `ABG/-S`
 * palm `PAPL`
 * head `HED`
 * instead; `STPHED STPH*FPLT`

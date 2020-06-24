@@ -736,7 +736,7 @@ Snow-White and Rose-Red
 'and': SKP
 'he': HE
 'stretched': STREFPD
-'himself': H*EUPLS
+'himself': HEUPLS
 'by': PWEU
 'the': -T
 'fire': TPAOEUR
@@ -859,7 +859,7 @@ Snow-White and Rose-Red
 'the': -T
 'bad': PWAD
 'weather.'': WHR* TP-PL AE
-'As': KPA/AZ
+'As': KPA/AS
 'soon': SAOPB
 'as': AZ
 'day': TKAEU
@@ -890,7 +890,7 @@ Snow-White and Rose-Red
 'same': SAEUPL
 'time,': TAOEUPL KW-BG
 'laid': HRAEUD
-'himself': H*EUPLS
+'himself': HEUPLS
 'down': TKOUPB
 'by': PWEU
 'the': -T
@@ -947,7 +947,7 @@ Snow-White and Rose-Red
 'I': EU
 'must': PHUFT
 'go': TKPW
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'and': SKP
 'cannot': K/TPHOT
 'come': KOPL
@@ -1099,7 +1099,7 @@ Snow-White and Rose-Red
 'The': KPA/-T
 'bear': PWAER
 'ran': RAPB
-'away': A/WAEU
+'away': WA*EU
 'quickly,': KWEULG KW-BG
 'and': SKP
 'was': WAS
@@ -1144,7 +1144,7 @@ Snow-White and Rose-Red
 'trunk': TRUPBG
 'something': S-G
 'was': WAS
-'jumping': SKWRUPL/-PG
+'jumping': SKWRUFRPG
 'backwards': PWABG/WARDZ
 'and': SKP
 'forwards': TPAORDZ
@@ -1196,9 +1196,9 @@ Snow-White and Rose-Red
 'and': SKP
 'the': -T
 'little': HREUL
-'fellow': TPO*EUL
+'fellow': TP*EL
 'was': WAS
-'jumping': SKWRUPL/-PG
+'jumping': SKWRUFRPG
 'about': PW
 'like': HRAOEUBG
 'a': AEU
@@ -1347,7 +1347,7 @@ Snow-White and Rose-Red
 'I': EU
 'cannot': K/TPHOT
 'get': TKPWET
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'and': SKP
 'the': -T
 'silly,': SEUL/HREU KW-BG
@@ -1438,13 +1438,13 @@ Snow-White and Rose-Red
 'of': -F
 'the': -T
 'beard.': PWAERD TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'soon': SAOPB
 'as': AZ
 'the': -T
 'dwarf': TKWAFR
 'felt': TPELT
-'himself': H*EUPLS
+'himself': HEUPLS
 'free': TPRAOE
 'he': HE
 'laid': HRAEUD
@@ -1472,7 +1472,7 @@ Snow-White and Rose-Red
 'up,': UP KW-BG
 'grumbling': TKPWRUPL/-BLG
 'to': TO
-'himself:': H*EUPLS STPH-FPLT
+'himself:': HEUPLS STPH-FPLT
 ''Uncouth': AE KPA/UPB/KAO*UT
 'people,': PAOEPL KW-BG
 'to': TO
@@ -1520,7 +1520,7 @@ Snow-White and Rose-Red
 'dish': TKEURB
 'of': -F
 'fish.': TPEURB TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'they': THE
 'came': KAEUPL
 'near': TPHAOER
@@ -1533,7 +1533,7 @@ Snow-White and Rose-Red
 'a': AEU
 'large': HRARPBLG
 'grasshopper': TKPWHR*FRPBLG
-'jumping': SKWRUPL/-PG
+'jumping': SKWRUFRPG
 'towards': TORDZ
 'the': -T
 'water,': WAUR KW-BG
@@ -1815,7 +1815,7 @@ Snow-White and Rose-Red
 'he': HE
 'dragged': TKRAGD
 'it': T
-'away': A/WAEU
+'away': WA*EU
 'and': SKP
 'disappeared': TKEUS/PAOERD
 'behind': HEUPBD
@@ -1891,7 +1891,7 @@ Snow-White and Rose-Red
 'rock': ROBG
 'not': TPHOT
 'far': TPAR
-'away.': A/WAEU TP-PL
+'away.': WA*EU TP-PL
 'Immediately': KPA/PHAOELD
 'they': THE
 'heard': HAERD
@@ -1952,7 +1952,7 @@ Snow-White and Rose-Red
 'his': HEUS
 'booty': PWAOT/TEU
 'go.': TKPW TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'soon': SAOPB
 'as': AZ
 'the': -T
@@ -2008,7 +2008,7 @@ Snow-White and Rose-Red
 'stones,': STOEPBS KW-BG
 'and': SKP
 'slipped': SHREUPD
-'away': A/WAEU
+'away': WA*EU
 'again': TKPWEPB
 'under': TPH-PB
 'the': -T
@@ -2037,7 +2037,7 @@ Snow-White and Rose-Red
 'business': PWEUS
 'in': TPH
 'town.': TOUPB TP-PL
-'As': KPA/AZ
+'As': KPA/AS
 'they': THE
 'crossed': KROFD
 'the': -T
@@ -2200,7 +2200,7 @@ Snow-White and Rose-Red
 'a': AEU
 'slender': SHRERPBD
 'little': HREUL
-'fellow': TPO*EUL
+'fellow': TP*EL
 'as': AZ
 'I?': EU H-F
 'you': U
@@ -2261,7 +2261,7 @@ Snow-White and Rose-Red
 'girls': TKPWEURLS
 'had': H
 'run': RUPB
-'away,': A/WAEU KW-BG
+'away,': WA*EU KW-BG
 'but': PWUT
 'the': -T
 'bear': PWAER

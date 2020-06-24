@@ -167,7 +167,7 @@
 * him, `HEUPL KW-BG`
 * poor `PAOR`
 * old `OLD`
-* fellow." `TPO*EUL TP-PL KR-GS`
+* fellow." `TP*EL TP-PL KR-GS`
 * And `AFPBD`
 * delivered `TKHREUFRD`
 * papers, `PAEUPS KW-BG`
@@ -343,7 +343,7 @@
 * till `TEUL`
 * others `OERS`
 * gone `TKPWOPB`
-* away; `A/WAEU STPH*FPLT`
+* away; `WA*EU STPH*FPLT`
 * sat `SAT`
 * down, `TKOUPB KW-BG`
 * held `HELD`

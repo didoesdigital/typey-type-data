@@ -159,7 +159,7 @@
 * am `APL`
 * myself;" `PHAO*EUS STPH*FPLT KR-GS`
 * famous `TPAEUPLS`
-* fellow `TPO*EUL`
+* fellow `TP*EL`
 * looked, `HRAOBGD KW-BG`
 * arrayed `A/RAEU/-D`
 * bear-skin `PWAER H-PB SKEUPB`
@@ -221,7 +221,7 @@
 * He `KPA/HE`
 * seemed `SAOEPLD`
 * merry `PHER/REU`
-* fellow. `TPO*EUL TP-PL`
+* fellow. `TP*EL TP-PL`
 * director `TKROR`
 * theatre, `THAO*ERT KW-BG`
 * manager `PHARPBG`
@@ -495,7 +495,7 @@
 * JULY, `*URP/SKWRUL KW-BG`
 * her. `HER TP-PL`
 * plump `PHRUFRP`
-* fellow, `TPO*EUL KW-BG`
+* fellow, `TP*EL KW-BG`
 * clad `KHRAD`
 * garments `TKPWARPLTS`
 * wearing `WAERG`
@@ -733,7 +733,7 @@
 * Bethlehem.'" `PW*ET/HREPL TP-PL AE KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * drive `TKRAOEUF`
-* away," `A/WAEU KW-BG KR-GS`
+* away," `WA*EU KW-BG KR-GS`
 * "we `KR-GS WE`
 * Let `KPA/HRET`
 * horses `HORSZ`
