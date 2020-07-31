@@ -326,7 +326,7 @@
 * pity `PEUT/TEU`
 * you.' `U TP-PL AE`
 * 'Yes, `AE KPA/KWRE KW-BG`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * Cat-skin, `KPA/KAT H-PB SKEUPB KW-BG`
 * do `TKO`
 * kitchen; `K-FP STPH*FPLT`

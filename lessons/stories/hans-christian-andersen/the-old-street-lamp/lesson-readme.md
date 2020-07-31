@@ -631,7 +631,7 @@
 * lies `HRAO*EUS`
 * truest `TRAOU/*ES`
 * pleasure, `PHRERB KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * share `SHAEUR`
 * others `OERS`
 * half `HAF`
@@ -930,7 +930,7 @@
 * burned `PWURPBD`
 * began `TKPWAPB`
 * perceive `SPAOEF`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * hidden `HEUD/EPB`
 * treasure `TRERB`
 * life. `HRAOEUF TP-PL`
@@ -990,7 +990,7 @@
 * deck `TKEBG`
 * ship `SHEUP`
 * sailing `SAEULG`
-* across `A/KROS`
+* across `KRAOS`
 * foaming `TPOEPLG`
 * sea `SAE`
 * clear, `KHRAOER KW-BG`

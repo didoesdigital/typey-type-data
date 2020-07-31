@@ -100,7 +100,7 @@ Project Gutenberg sentences using top 100 words
 'By': KPA/PWEU
 'him?': HEUPL H-F
 'By': KPA/PWEU
-'you?': STPHU
+'you?': U H-F
 'Can': KPA/K
 'he?': HE H-F
 'Can': KPA/K
@@ -118,7 +118,7 @@ Project Gutenberg sentences using top 100 words
 'Do': KPA/TKO
 'we?'': WE H-F AE
 'Do': KPA/TKO
-'you?': STPHU
+'you?': U H-F
 'Do,': KPA/TKO KW-BG
 'do.': TKO TP-PL
 'For': KPA/TPOR
@@ -237,7 +237,7 @@ Project Gutenberg sentences using top 100 words
 'On': KPA/OPB
 'now.': TPHOU TP-PL
 'On': KPA/OPB
-'you?': STPHU
+'you?': U H-F
 'Or': KPA/OR
 'had.': H TP-PL
 'Or': KPA/OR
@@ -285,7 +285,7 @@ Project Gutenberg sentences using top 100 words
 'To': KPA/TO
 'you.': U TP-PL
 'To': KPA/TO
-'you?': STPHU
+'you?': U H-F
 'Up': KPA/UP
 'now!': TPHOU SKHRAPL
 'Up,': KPA/UP KW-BG
@@ -406,9 +406,9 @@ Project Gutenberg sentences using top 100 words
 'And': AFPBD
 'you.': U TP-PL
 'And': AFPBD
-'you?': STPHU
+'you?': U H-F
 'Are': KPA/R
-'you?': STPHU
+'you?': U H-F
 'As': KPA/AS
 'from.': TPR TP-PL
 'As': KPA/AS
@@ -442,7 +442,7 @@ Project Gutenberg sentences using top 100 words
 'But': KPA/PWUT
 'you!': U SKHRAPL
 'But': KPA/PWUT
-'you?': STPHU
+'you?': U H-F
 'But,': KPA/PWUT KW-BG
 'do.': TKO TP-PL
 'But,': KPA/PWUT KW-BG
@@ -454,7 +454,7 @@ Project Gutenberg sentences using top 100 words
 'By': KPA/PWEU
 'what?': WHA H-F
 'Can': KPA/K
-'you?': STPHU
+'you?': U H-F
 'Did': KPA/TK
 'it!'': T SKHRAPL AE
 'Did': KPA/TK
@@ -462,7 +462,7 @@ Project Gutenberg sentences using top 100 words
 'Did': KPA/TK
 'you!': U SKHRAPL
 'Did': KPA/TK
-'you?': STPHU
+'you?': U H-F
 'Do': KPA/TKO
 'now.'': TPHOU TP-PL AE
 'Do': KPA/TKO
@@ -484,7 +484,7 @@ Project Gutenberg sentences using top 100 words
 'For': KPA/TPOR
 'men.': PHEPB TP-PL
 'For': KPA/TPOR
-'you?': STPHU
+'you?': U H-F
 'From': KPA/TPR
 'me.': PHE TP-PL
 'From': KPA/TPR
@@ -1061,7 +1061,7 @@ Project Gutenberg sentences using top 100 words
 'Have': KPA/SR
 'you!': U SKHRAPL
 'Have': KPA/SR
-'you?': STPHU
+'you?': U H-F
 'He': KPA/HE
 'is': S
 'so.': SO TP-PL
@@ -1121,7 +1121,7 @@ Project Gutenberg sentences using top 100 words
 'Know': KPA/TPHOE
 'you!': U SKHRAPL
 'Know': KPA/TPHOE
-'you?': STPHU
+'you?': U H-F
 'Like': KPA/HRAOEUBG
 'her!': HER SKHRAPL
 'Like': KPA/HRAOEUBG
@@ -1134,7 +1134,7 @@ Project Gutenberg sentences using top 100 words
 'it!'': T SKHRAPL AE
 'Man,': KPA/PHAPB KW-BG
 'man!': PHAPB SKHRAPL
-'Miss': KPA/PHEUS
+'Miss': PH*EUS
 'me?'': PHE H-F AE
 'More': KPA/PHOR
 'man!': PHAPB SKHRAPL
@@ -1143,7 +1143,7 @@ Project Gutenberg sentences using top 100 words
 'Must': KPA/PHUFT
 'you!': U SKHRAPL
 'Must': KPA/PHUFT
-'you?': STPHU
+'you?': U H-F
 'No': KPA/TPHO
 '-': H-PB
 'no…': TPHO SKWR*RBGS
@@ -1368,7 +1368,7 @@ Project Gutenberg sentences using top 100 words
 'Who': KPA/WHO
 'will?': HR H-F
 'Who,': KPA/WHO KW-BG
-'you?': STPHU
+'you?': U H-F
 'Will': W*EUL
 'it?'': T H-F AE
 'Will': W*EUL
@@ -1376,7 +1376,7 @@ Project Gutenberg sentences using top 100 words
 'Will': W*EUL
 'she?': SHE H-F
 'Will': W*EUL
-'you?': STPHU
+'you?': U H-F
 'With': KPA/W
 'her?': HER H-F
 'With': KPA/W
@@ -1663,13 +1663,13 @@ Project Gutenberg sentences using top 100 words
 '--"In': H-PB H-PB KR-GS KPA/TPH
 'May?': PHA*EU H-F
 '--Are': H-PB H-PB KPA/R
-'you?': STPHU
+'you?': U H-F
 '--Can': H-PB H-PB KPA/K
-'you?': STPHU
+'you?': U H-F
 '--Did': H-PB H-PB KPA/TK
 'she?': SHE H-F
 '--Did': H-PB H-PB KPA/TK
-'you?': STPHU
+'you?': U H-F
 '--From': H-PB H-PB KPA/TPR
 'me!': PHE SKHRAPL
 '--Of': H-PB H-PB KPA/-F
@@ -1789,7 +1789,7 @@ Project Gutenberg sentences using top 100 words
 'Could': KPA/KO
 'she?': SHE H-F
 'Could': KPA/KO
-'you?': STPHU
+'you?': U H-F
 'Did': KPA/TK
 'they?'': THE H-F AE
 'Do': KPA/TKO
@@ -1872,7 +1872,7 @@ Project Gutenberg sentences using top 100 words
 'you!': U SKHRAPL
 'Is': KPA/S
 'it': T
-'you?': STPHU
+'you?': U H-F
 'Is': KPA/S
 'she': SHE
 'up?': UP H-F
@@ -2206,7 +2206,7 @@ Project Gutenberg sentences using top 100 words
 'Would': KPA/WO
 'she?': SHE H-F
 'Would': KPA/WO
-'you?': STPHU
+'you?': U H-F
 'You': KPA/U
 'have!'': SR SKHRAPL AE
 'You': KPA/U
@@ -2549,7 +2549,7 @@ Project Gutenberg sentences using top 100 words
 '--Has': H-PB H-PB KPA/HAS
 'been?': PW-PB H-F
 '--Will': H-PB H-PB W*EUL
-'you?': STPHU
+'you?': U H-F
 ':': STPH-FPLT
 'Are': KPA/R
 'they?': THE H-F
@@ -2610,7 +2610,7 @@ Project Gutenberg sentences using top 100 words
 'you!': U SKHRAPL
 'But': KPA/PWUT
 'do': TKO
-'you?': STPHU
+'you?': U H-F
 'But': KPA/PWUT
 'has': HAS
 'he?': HE H-F
@@ -2666,7 +2666,7 @@ Project Gutenberg sentences using top 100 words
 'us.': US TP-PL
 'Do': KPA/TKO
 'not': TPHOT
-'you?': STPHU
+'you?': U H-F
 'Do': KPA/TKO
 'with': W
 'it?': T H-F
@@ -3638,7 +3638,7 @@ Project Gutenberg sentences using top 100 words
 'be?': -B H-F
 'Did': KPA/TK
 'not': TPHOT
-'you?': STPHU
+'you?': U H-F
 'Did': KPA/TK
 'you': U
 'not?': TPHOT H-F
@@ -3659,7 +3659,7 @@ Project Gutenberg sentences using top 100 words
 'him!'': HEUPL SKHRAPL AE
 'Do': KPA/TKO
 'with': W
-'you?': STPHU
+'you?': U H-F
 'Do': KPA/TKO
 'you': U
 'know?': TPHOE H-F
@@ -4070,7 +4070,7 @@ Project Gutenberg sentences using top 100 words
 'it?'': T H-F AE
 'What': KPA/WHA
 'of': -F
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'she': SHE
 'do?': TKO H-F
@@ -4101,7 +4101,7 @@ Project Gutenberg sentences using top 100 words
 'you!': U SKHRAPL
 'Who': KPA/WHO
 'are': R
-'you?': STPHU
+'you?': U H-F
 'Who': KPA/WHO
 'has': HAS
 'not?': TPHOT H-F
@@ -4554,7 +4554,7 @@ Project Gutenberg sentences using top 100 words
 'what?': WHA H-F
 'And': AFPBD
 'have': SR
-'you?': STPHU
+'you?': U H-F
 'And': AFPBD
 'is': S
 'it': T
@@ -4606,7 +4606,7 @@ Project Gutenberg sentences using top 100 words
 'now?': TPHOU H-F
 'And': AFPBD
 'will': HR
-'you?': STPHU
+'you?': U H-F
 'And': AFPBD
 'with': W
 'one?': WUPB H-F
@@ -4895,7 +4895,7 @@ Project Gutenberg sentences using top 100 words
 'me?'': PHE H-F AE
 'Not': KPA/TPHOT
 'with': W
-'you?': STPHU
+'you?': U H-F
 'One': KPA/WUPB
 'man': PHAPB
 'only.': OEPBL TP-PL
@@ -5159,7 +5159,7 @@ Project Gutenberg sentences using top 100 words
 'woman!': WOPL SKHRAPL
 'What': KPA/WHA
 'are': R
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'be': -B
 'they?': THE H-F
@@ -5251,7 +5251,7 @@ Project Gutenberg sentences using top 100 words
 'that?': THA H-F
 'Will': W*EUL
 'not': TPHOT
-'you?': STPHU
+'you?': U H-F
 'Will': W*EUL
 'you': U
 'not?': TPHOT H-F
@@ -6044,7 +6044,7 @@ Project Gutenberg sentences using top 100 words
 'me.': PHE TP-PL
 'Not': KPA/TPHOT
 'about': PW
-'you?': STPHU
+'you?': U H-F
 'Not': KPA/TPHOT
 'after': AF
 'him!': HEUPL SKHRAPL
@@ -6273,7 +6273,7 @@ Project Gutenberg sentences using top 100 words
 'this?'': TH H-F AE
 'What': KPA/WHA
 'said': SED
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'was': WAS
 'that?': THA H-F
@@ -6282,7 +6282,7 @@ Project Gutenberg sentences using top 100 words
 'this?': TH H-F
 'What': KPA/WHA
 'will': HR
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'with': W
 'him?': HEUPL H-F
@@ -6756,7 +6756,7 @@ Project Gutenberg sentences using top 100 words
 '--': TK-R
 'Who': KPA/WHO
 'are': R
-'you?': STPHU
+'you?': U H-F
 '--': TK-R
 'Who': KPA/WHO
 'is': S
@@ -6779,7 +6779,7 @@ Project Gutenberg sentences using top 100 words
 'it?': T H-F
 '--And': H-PB H-PB AFPBD
 'will': HR
-'you?': STPHU
+'you?': U H-F
 '--Of': H-PB H-PB KPA/-F
 'what': WHA
 'then?': THEPB H-F
@@ -6985,7 +6985,7 @@ Project Gutenberg sentences using top 100 words
 'Do': KPA/TKO
 'you,': U KW-BG
 'do': TKO
-'you?': STPHU
+'you?': U H-F
 'Down': KPA/TKOUPB
 'with': W
 'him!'': HEUPL SKHRAPL AE
@@ -7450,7 +7450,7 @@ Project Gutenberg sentences using top 100 words
 'him?': HEUPL H-F
 'What': KPA/WHA
 'about': PW
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'are': R
 'these?': THEZ H-F
@@ -7476,7 +7476,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'is': S
 'in': TPH
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'is': S
 'it': T
@@ -7515,7 +7515,7 @@ Project Gutenberg sentences using top 100 words
 'him?'': HEUPL H-F AE
 'What': KPA/WHA
 'would': WO
-'you?': STPHU
+'you?': U H-F
 'When': KPA/WHEPB
 'the': -T
 'First.': KPA/TPEUFRT TP-PL
@@ -7572,7 +7572,7 @@ Project Gutenberg sentences using top 100 words
 'You': KPA/U
 'do,': TKORBGS
 'do': TKO
-'you?': STPHU
+'you?': U H-F
 'You': KPA/U
 'know': TPHOE
 'it': T
@@ -7964,7 +7964,7 @@ Project Gutenberg sentences using top 100 words
 'not.': TPHOT TP-PL
 '--And': H-PB H-PB AFPBD
 'would': WO
-'you?': STPHU
+'you?': U H-F
 '--What': H-PB H-PB KPA/WHA
 'was': WAS
 'that?': THA H-F
@@ -8146,7 +8146,7 @@ Project Gutenberg sentences using top 100 words
 'But': KPA/PWUT
 'who': WHO
 'are': R
-'you?': STPHU
+'you?': U H-F
 'But': KPA/PWUT
 'who': WHO
 'is': S
@@ -8422,7 +8422,7 @@ Project Gutenberg sentences using top 100 words
 'Or': KPA/OR
 'what': WHA
 'are': R
-'you?': STPHU
+'you?': U H-F
 'Over': KPA/OEFR
 'after': AF
 'over.': OEFR TP-PL
@@ -8787,7 +8787,7 @@ Project Gutenberg sentences using top 100 words
 'You': KPA/U
 'see,': SAOE KW-BG
 'do': TKO
-'you?': STPHU
+'you?': U H-F
 ''And': AE AFPBD
 'with': W
 'that?'': THA H-F AE
@@ -9188,7 +9188,7 @@ Project Gutenberg sentences using top 100 words
 ''And': AE AFPBD
 'who': WHO
 'are': R
-'you?': STPHU
+'you?': U H-F
 '(This': PREPB KPA/TH
 'was': WAS
 'to': TO
@@ -10040,7 +10040,7 @@ Project Gutenberg sentences using top 100 words
 'What': KPA/WHA
 'men': PHEPB
 'are': R
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'of': -F
 'it,': T KW-BG
@@ -10163,7 +10163,7 @@ Project Gutenberg sentences using top 100 words
 'You': KPA/U
 'are,': R KW-BG
 'are': R
-'you?': STPHU
+'you?': U H-F
 'You': KPA/U
 'could': KO
 'see': SAOE
@@ -10171,7 +10171,7 @@ Project Gutenberg sentences using top 100 words
 'You': KPA/U
 'did,': TK KW-BG
 'did': TK
-'you?': STPHU
+'you?': U H-F
 'You': KPA/U
 'had': H
 'it': T
@@ -12027,7 +12027,7 @@ Project Gutenberg sentences using top 100 words
 'But': KPA/PWUT
 'what': WHA
 'about': PW
-'you?': STPHU
+'you?': U H-F
 'But': KPA/PWUT
 'what': WHA
 'can': K
@@ -12509,7 +12509,7 @@ Project Gutenberg sentences using top 100 words
 'Who,': KPA/WHO KW-BG
 'then,': THEPB KW-BG
 'are': R
-'you?': STPHU
+'you?': U H-F
 'Woman': KPA/WOPL
 'that': THA
 'you': U
@@ -13885,7 +13885,7 @@ Project Gutenberg sentences using top 100 words
 'And': AFPBD
 'you--who': U H-PB H-PB WHO
 'are': R
-'you?': STPHU
+'you?': U H-F
 'But': KPA/PWUT
 'do': TKO
 'you': U
@@ -14305,7 +14305,7 @@ Project Gutenberg sentences using top 100 words
 'a': AEU
 'woman': WOPL
 'are': R
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'are': R
 'they': THE
@@ -14315,7 +14315,7 @@ Project Gutenberg sentences using top 100 words
 'are': R
 'they': THE
 'to': TO
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'are': R
 'you': U
@@ -14345,7 +14345,7 @@ Project Gutenberg sentences using top 100 words
 'has': HAS
 'he': HE
 'made': PHAED
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'have': SR
 'you': U
@@ -15933,7 +15933,7 @@ Project Gutenberg sentences using top 100 words
 'do': TKO
 'not,': TPHOT KW-BG
 'do': TKO
-'you?': STPHU
+'you?': U H-F
 'No;': KPA/TPHO STPH*FPLT
 'it': T
 'is': S
@@ -16110,7 +16110,7 @@ Project Gutenberg sentences using top 100 words
 'we': WE
 'do': TKO
 'for': TPOR
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'could': KO
 'it': T
@@ -16635,7 +16635,7 @@ Project Gutenberg sentences using top 100 words
 'But': KPA/PWUT
 'will': HR
 'you--could': U H-PB H-PB KO
-'you?': STPHU
+'you?': U H-F
 'Do': KPA/TKO
 'you': U
 'know': TPHOE
@@ -16834,7 +16834,7 @@ Project Gutenberg sentences using top 100 words
 'he,': HE KW-BG
 'is': S
 'with': W
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'is': S
 'it': T
@@ -17366,7 +17366,7 @@ Project Gutenberg sentences using top 100 words
 'they': THE
 'do': TKO
 'for': TPOR
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'have': SR
 'you': U
@@ -17710,7 +17710,7 @@ Project Gutenberg sentences using top 100 words
 'know': TPHOE
 'that,': THA KW-BG
 'do': TKO
-'you?': STPHU
+'you?': U H-F
 'And': AFPBD
 'you--what': U H-PB H-PB WHA
 'did': TK
@@ -17886,7 +17886,7 @@ Project Gutenberg sentences using top 100 words
 'to': TO
 'do': TKO
 'with': W
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'know': TPHOE
 'you': U
@@ -17976,7 +17976,7 @@ Project Gutenberg sentences using top 100 words
 'him': HEUPL
 'there,': THR KW-BG
 'do': TKO
-'you?': STPHU
+'you?': U H-F
 'You': KPA/U
 'see,': SAOE KW-BG
 'there': THR
@@ -18451,7 +18451,7 @@ Project Gutenberg sentences using top 100 words
 'all': AUL
 'these': THEZ
 'with': W
-'you?': STPHU
+'you?': U H-F
 'With': KPA/W
 'me,': PHE KW-BG
 'what': WHA
@@ -18824,7 +18824,7 @@ Project Gutenberg sentences using top 100 words
 'it': T
 'if': TP
 'not': TPHOT
-'you?': STPHU
+'you?': U H-F
 'Would': KPA/WO
 'you': U
 'like': HRAOEUBG
@@ -19122,7 +19122,7 @@ Project Gutenberg sentences using top 100 words
 'to': TO
 'do': TKO
 'with': W
-'you?': STPHU
+'you?': U H-F
 'What': KPA/WHA
 'would': WO
 'you': U
@@ -20327,7 +20327,7 @@ Project Gutenberg sentences using top 100 words
 'upon': POPB
 'this,': TH KW-BG
 'would': WO
-'you?': STPHU
+'you?': U H-F
 ''Would': AE KPA/WO
 'you': U
 'like': HRAOEUBG

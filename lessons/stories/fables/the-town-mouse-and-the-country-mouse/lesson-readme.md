@@ -58,7 +58,7 @@
 * fare, `TPA*ER KW-BG`
 * said: `SED STPH-FPLT`
 * "I `KR-GS EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * understand, `URPBD KW-BG`
 * Cousin, `KPA/KUZ KW-BG`
 * how `HOU`

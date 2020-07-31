@@ -373,7 +373,7 @@
 * extremely `KPRAOEPL`
 * melancholy, `PHEL/KOL/HREU KW-BG`
 * her: `HER STPH-FPLT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * comprehend, `KPREPBD KW-BG`
 * how `HOU`
 * you `U`
@@ -782,7 +782,7 @@
 * deformity, `TK-FRPL/TEU KW-BG`
 * thing `THEUPBG`
 * displeases `TKEUS/PHRAOES/-S`
-* you? `STPHU`
+* you? `U H-F`
 * Are `KPA/R`
 * dissatisfied `TKEUS/SAED`
 * humour, `HAOURPL/A*U KW-BG`

@@ -252,7 +252,7 @@
 * coast `KOEFT`
 * Jutland. `xxx Jutland TP-PL`
 * hurried `HUR/EUD`
-* across `A/KROS`
+* across `KRAOS`
 * heath `HAO*ET`
 * Jutland's `xxx Jutland AES`
 * wood-girt `WAOD H-PB TKPWEURT`
@@ -610,7 +610,7 @@
 * also. `HR-S TP-PL`
 * He `KPA/HE`
 * allowed `HRO*UD`
-* remain, `RE/PHAEUPB KW-BG`
+* remain, `RAEUPL KW-BG`
 * got `TKPWOT`
 * it, `T KW-BG`
 * because `PWAU`
@@ -1254,7 +1254,7 @@
 * crevices, `KREFS/-S KW-BG`
 * Mr. `PHR-FPLT`
 * Ramel `xxx Ramel`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * Dorothea `xxx Dorothea`
 * wept `WEPT`
 * bitterly, `PWEURLT KW-BG`
@@ -1477,7 +1477,7 @@
 * Daa. `xxx Daa TP-PL`
 * school-boys `SKAOL H-PB PWOEUS`
 * psalm `SAUPL`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * earth `*ERT`
 * O-h, `O*P H-PB H* KW-BG`
 * end, `EPBD KW-BG`

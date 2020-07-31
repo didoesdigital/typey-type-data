@@ -820,7 +820,7 @@
 * hard `HARD`
 * snow, `STPHOE KW-BG`
 * people `PAOEPL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * plant `PHRAPBT`
 * me. `PHE TP-PL`
 * sheltered `SHELT/ERD`

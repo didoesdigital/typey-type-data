@@ -295,7 +295,7 @@
 * wide `WAOEUD`
 * world, `WORLD KW-BG`
 * we `WE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * stay `STAEU`
 * here." `HAOER TP-PL KR-GS`
 * whatever `WHAF`

@@ -488,7 +488,7 @@
 * ill: `EUL STPH-FPLT`
 * everything `EFRG`
 * me, `PHE KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * bear `PWAER`
 * it. `T TP-PL`
 * Is `KPA/S`

@@ -5,7 +5,7 @@
 * during `TKURG`
 * a `AEU`
 * battle `PWA*LT`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * too `TAO`
 * near `TPHAOER`
 * the `-T`
@@ -50,7 +50,7 @@
 * trumpet, `TRUPLT KW-BG`
 * surely `SHURL`
 * that `THA`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * harm `HARPL`
 * you; `U STPH*FPLT`
 * then `THEPB`

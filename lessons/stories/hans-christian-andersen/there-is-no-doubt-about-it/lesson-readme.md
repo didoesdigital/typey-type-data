@@ -23,7 +23,7 @@
 * affair `A/TPAEUR`
 * hen-roost. `HEPB H-PB RAOFT TP-PL`
 * I `EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * sleep `SHRAOEP`
 * alone `A/HROEPB`
 * to-night. `TO H-PB TPHAOEUT TP-PL`
@@ -46,7 +46,7 @@
 * made `PHAED`
 * feathers `TP*ET/ERS`
 * other `OER`
-* hens `HEPB/-S`
+* hens `HEPBZ`
 * bristle `PWREUFL`
 * up, `UP KW-BG`
 * cock's `KOBG AES`
@@ -118,7 +118,7 @@
 * merrily, `PHER/HREU KW-BG`
 * for `TPOR`
 * best `PWEFT`
-* hens, `HEPB/-S KW-BG`
+* hens, `HEPBZ KW-BG`
 * and, `SKP KW-BG`
 * moreover, `PHROEFR KW-BG`
 * been `PW-PB`
@@ -337,7 +337,7 @@
 * really `R-L`
 * started. `STARTD TP-PL`
 * "Five `KR-GS KPA/TPEUF`
-* hens," `HEPB/-S KW-BG KR-GS`
+* hens," `HEPBZ KW-BG KR-GS`
 * now `TPHOU`
 * ran, `RAPB KW-BG`
 * "have `KR-GS SR`
@@ -385,4 +385,4 @@
 * may `PHAE`
 * grow `TKPWROE`
 * five `TPEUF`
-* hens. `HEPB/-S TP-PL`
+* hens. `HEPBZ TP-PL`

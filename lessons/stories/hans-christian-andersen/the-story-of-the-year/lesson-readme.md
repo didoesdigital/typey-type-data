@@ -399,7 +399,7 @@
 * sleigh, `SHRA*EU KW-BG`
 * beat `PWAET`
 * arms `ARPLS`
-* across `A/KROS`
+* across `KRAOS`
 * chest `KHEFT`
 * keep `KAOEP`
 * whip `WHEUP`
@@ -1220,7 +1220,7 @@
 * son, `SOPB KW-BG`
 * thing, `THEUPBG KW-BG`
 * them,— `THEPL KW-BG EPL/TKA*RB`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * dead, `TKED KW-BG`
 * spring, `SPREUPBG KW-BG`
 * "When `KR-GS KPA/WHEPB`

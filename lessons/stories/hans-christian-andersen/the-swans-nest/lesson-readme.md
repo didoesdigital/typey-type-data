@@ -186,7 +186,7 @@
 * rise `RAOEUZ`
 * higher `HAOEUR`
 * sunlight `SULGT`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * days; `TKAEUS STPH*FPLT`
 * rustling `RUS/-LG`
 * among `PHOPBG`

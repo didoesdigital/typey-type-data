@@ -63,7 +63,7 @@
 * sensible `SEPBS/-BL`
 * people, `PAOEPL KW-BG`
 * must `PHUFT`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * house `HOUS`
 * during `TKURG`
 * whole `WHOEL`
@@ -634,7 +634,7 @@
 * sparkled `SPAR/K-LD`
 * fingers, `TPEURPBGS KW-BG`
 * real. `RAEL TP-PL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * astonishment," `AS/TOPB/SH-PLT KW-BG KR-GS`
 * man. `PHAPB TP-PL`
 * "What `KR-GS KPA/WHA`
@@ -946,7 +946,7 @@
 * cake `KAEUBG`
 * woman, `WOPL KW-BG`
 * concealed. `KAUPB/SAOELD TP-PL`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * ran `RAPB`
 * streets `STRAOETS`
 * moonlight. `PHAOLGT TP-PL`
@@ -1154,7 +1154,7 @@
 * similar `SHRAR`
 * feeling `TPAOELG`
 * crushed `KRURBD`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * perceive `SPAOEF`
 * feeling, `TPAOELG KW-BG`
 * pride. `PRAOEUD TP-PL`
@@ -1366,7 +1366,7 @@
 * "Now, `KR-GS KPA/TPHOU KW-BG`
 * really, `R-L KW-BG`
 * ridiculous," `REULGS KW-BG KR-GS`
-* cannot, `K/TPHOT KW-BG`
+* cannot, `SK-PBT KW-BG`
 * not, `TPHOT KW-BG`
 * submit `SPHEUT`
 * folly. `TPOL/HREU TP-PL`

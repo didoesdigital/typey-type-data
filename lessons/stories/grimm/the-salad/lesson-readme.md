@@ -366,7 +366,7 @@
 * there, `THR KW-BG`
 * whenever `WHEFR`
 * think `THEU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * help `HEP`
 * being `-BG`
 * sorrowful, `SOR/ROEFL KW-BG`
@@ -375,7 +375,7 @@
 * it? `T H-F`
 * only `OEPBL`
 * flies--man `TPHRAOEUS H-PB H-PB PHAPB`
-* cannot.' `K/TPHOT TP-PL AE`
+* cannot.' `SK-PBT TP-PL AE`
 * that's `THATS`
 * grief,' `TKPWRAOEF KW-BG AE`
 * 'I'll `AE EU AE HR*/HR*`
@@ -561,7 +561,7 @@
 * 'Countryman,' `AE KPA/KREU/PHA*PB KW-BG AE`
 * 'who `AE WHO`
 * are `R`
-* you? `STPHU`
+* you? `U H-F`
 * business?' `PWEUS H-F AE`
 * am,' `APL KW-BG AE`
 * 'a `AE AEU`

@@ -194,7 +194,7 @@
 * magic `PHAPBLG/EUBG`
 * wand, `WAPBD KW-BG`
 * or `OR`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * escape `SKAEP`
 * pursues `PUR/SAOUS`
 * us.' `US TP-PL AE`
@@ -507,7 +507,7 @@
 * marry `PHAER`
 * answered: `AEPBS/-D STPH-FPLT`
 * 'No,' `AE KPA/TPHO KW-BG AE`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * faithful `TPA*EUT/-FL`
 * although `HR*T`
 * deserted `STK*ERT/-D`

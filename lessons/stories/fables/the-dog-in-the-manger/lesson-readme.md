@@ -66,6 +66,6 @@
 * others `OERS`
 * what `WHA`
 * they `THE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * enjoy `TPHOEUPBLG`
 * themselves." `TH*EPLS TP-PL KR-GS`

@@ -43,7 +43,7 @@
 * my `PHEU`
 * old `OLD`
 * doll `TKOL`
-* cannot, `K/TPHOT KW-BG`
+* cannot, `SK-PBT KW-BG`
 * she `SHE`
 * is `S`
 * fright, `TPRAOEUT KW-BG`
@@ -56,7 +56,7 @@
 * can `K`
 * always `AULS`
 * get `TKPWET`
-* actors `A*RBGTS`
+* actors `ARBGTS`
 * if `TP`
 * makes `PHAEUBGS`
 * use `AOUS`
@@ -109,7 +109,7 @@
 * every `EF`
 * see. `SAOE TP-PL`
 * want `WAPBT`
-* actors. `A*RBGTS TP-PL`
+* actors. `ARBGTS TP-PL`
 * Let `KPA/HRET`
 * us `US`
 * see `SAOE`
@@ -378,7 +378,7 @@
 * way. `WAEU TP-PL`
 * Just `KPA/SKWRUFT`
 * look `HRAOBG`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * Glove, `KPA/TKPWHROF KW-BG`
 * she's `SHAOES`
 * pointing `POEUPBGT`

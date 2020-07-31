@@ -308,7 +308,7 @@
 * awhile, `A/WHAOEUL KW-BG`
 * said, `SED KW-BG`
 * 'I `AE EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * stay `STAEU`
 * any `TPHEU`
 * longer, `HRORPBG KW-BG`

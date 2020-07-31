@@ -575,7 +575,7 @@
 * hundred, `HUPBD KW-BG`
 * bigger `PWEURG`
 * sure, `SHUR KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * expected `KP-PTD`
 * old `OLD`
 * grown-up `TKPWR*UP`

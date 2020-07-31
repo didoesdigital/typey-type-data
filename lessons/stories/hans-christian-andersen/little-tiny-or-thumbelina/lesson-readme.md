@@ -277,7 +277,7 @@
 * island `AOEULD`
 * her, `HER KW-BG`
 * small, `SPHAL KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * escape; `SKAEP STPH*FPLT`
 * and, `SKP KW-BG`
 * we `WE`
@@ -932,7 +932,7 @@
 * grieved `TKPWRAOEF/-D`
 * left `HREFT`
 * manner, `PHAERPB KW-BG`
-* cannot." `K/TPHOT TP-PL KR-GS`
+* cannot." `SK-PBT TP-PL KR-GS`
 * then, `THEPB KW-BG`
 * farewell, `TPAER/WEL KW-BG`
 * good, `TKPWAOD KW-BG`

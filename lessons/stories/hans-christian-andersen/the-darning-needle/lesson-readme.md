@@ -394,7 +394,7 @@
 * boasters, `PWOES/TER/-S KW-BG`
 * boasters `PWOES/TER/-S`
 * will `HR`
-* remain; `RE/PHAEUPB STPH*FPLT`
+* remain; `RAEUPL STPH*FPLT`
 * left `HREFT`
 * them." `THEPL TP-PL KR-GS`
 * "And `KR-GS AFPBD`
@@ -413,7 +413,7 @@
 * away. `WA*EU TP-PL`
 * promoted," `PROEPLTD KW-BG KR-GS`
 * "while `KR-GS WHAOEUL`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * here; `HAOER STPH*FPLT`
 * fine, `TPAOEUPB KW-BG`
 * my `PHEU`
@@ -435,7 +435,7 @@
 * Ah! `KPA/HA*E SKHRAPL`
 * even `AOEPB`
 * mother `PHOER`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * find `TPAOEUPBD`
 * me. `PHE TP-PL`
 * Had `KPA/H`

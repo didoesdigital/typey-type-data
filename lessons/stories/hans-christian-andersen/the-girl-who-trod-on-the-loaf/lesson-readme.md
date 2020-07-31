@@ -268,7 +268,7 @@
 * where `W-R`
 * footpath `TPAOT/PA*T`
 * led `HRED`
-* across `A/KROS`
+* across `KRAOS`
 * moor, `PHO*R KW-BG`
 * found `TPOUPBD`
 * small `SPHAL`

@@ -407,7 +407,7 @@
 * day `TKAEU`
 * dawned `TKAUPBD`
 * trotted `TROT/-D`
-* across `A/KROS`
+* across `KRAOS`
 * Henceforth `KPA/HEPBS/TPO*RT`
 * evening `AOEPBG`
 * same `SAEUPL`
@@ -428,7 +428,7 @@
 * 'Now `AE KPA/TPHOU`
 * go `TKPW`
 * away, `WA*EU KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * for `TPOR`
 * whole `WHOEL`
 * summer.' `SAOURPL TP-PL AE`
@@ -752,7 +752,7 @@
 * piteous `PEUT/KWROUS`
 * cry. `KRAOEU TP-PL`
 * horror `HOR/O*R`
-* eagle `AOEG/*L`
+* eagle `AOEG/-L`
 * seized `SAOEZ/-D`
 * acquaintance `KWAEUPB/TAPBS`
 * dwarf, `TKWAFR KW-BG`

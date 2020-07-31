@@ -72,7 +72,7 @@
 * were `WR`
 * pursued `PUR/SAOUD`
 * by `PWEU`
-* enemies, `EPB/PHEUS KW-BG`
+* enemies, `TPHAEPLS KW-BG`
 * dogs; `TKOGS STPH*FPLT`
 * much `PHUFP`
 * way `WAEU`

@@ -675,7 +675,7 @@
 * Witches `KPA/WEUFP/-S`
 * red `RED`
 * eyes, `AO*EUS KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * far, `TPAR KW-BG`
 * keen `KAOEPB`
 * scent `SKEPBT`
@@ -887,7 +887,7 @@
 * bridge `PWREUPBLG`
 * sight, `SAOEUT KW-BG`
 * Take `KPA/TAEUBG`
-* across `A/KROS`
+* across `KRAOS`
 * thy `THAO*EU`
 * white.' `WHAOEUT TP-PL AE`
 * seated `SAOETD`
@@ -898,7 +898,7 @@
 * replied `RE/PHRAOEUD`
 * heavy `HOEUF`
 * duck; `TKUBG STPH*FPLT`
-* across, `A/KROS KW-BG`
+* across, `KRAOS KW-BG`
 * after `AF`
 * other.' `OER TP-PL AE`
 * so, `SO KW-BG`

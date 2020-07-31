@@ -345,7 +345,7 @@
 * ferret `TPERT`
 * about, `PW KW-BG`
 * yet `KWRET`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * are; `R STPH*FPLT`
 * ball `PWAUL`
 * keeps `KAOEPS`
@@ -905,7 +905,7 @@
 * rises `RAOEUZ/-Z`
 * winged `WEUPBGD`
 * urchin, `UR/KHEUPB KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * angel `APB/SKWREL`
 * child, `KHAOEULD KW-BG`
 * goblin `TKPWOB/HREUPB`
@@ -1138,7 +1138,7 @@
 * wonder `WOPBD`
 * of? `-F H-F`
 * Shall `KPA/SHAL`
-* you? `STPHU`
+* you? `U H-F`
 * glove `TKPWHROF`
 * lying `HRAOEUG`
 * pointing `POEUPBGT`

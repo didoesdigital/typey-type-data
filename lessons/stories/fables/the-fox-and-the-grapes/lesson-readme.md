@@ -88,5 +88,5 @@
 * despise `STKPAOEUZ`
 * what `WHA`
 * you `U`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * get. `TKPWET TP-PL`

@@ -13,7 +13,7 @@
 * devices `TKWAOEUSZ`
 * for `TPOR`
 * escaping `ES/KAEUPG`
-* enemies. `EPB/PHEUS TP-PL`
+* enemies. `TPHAEPLS TP-PL`
 * "I `KR-GS EU`
 * have `SR`
 * whole `WHOEL`
@@ -26,7 +26,7 @@
 * hundred `HUPBD`
 * ways `WAEUS`
 * my `PHEU`
-* enemies." `EPB/PHEUS TP-PL KR-GS`
+* enemies." `TPHAEPLS TP-PL KR-GS`
 * only `OEPBL`
 * one," `WUPB KW-BG KR-GS`
 * said `SED`
@@ -89,7 +89,7 @@
 * soon `SAOPB`
 * killed `KEULD`
 * huntsmen. `HUPBTS/PH*EPB TP-PL`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * Puss, `KPA/PUSZ KW-BG`
 * who `WHO`
 * had `H`
@@ -103,5 +103,5 @@
 * than `THAPB`
 * on `OPB`
 * which `WEU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * reckon." `REBG/-PB TP-PL KR-GS`

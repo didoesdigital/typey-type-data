@@ -188,7 +188,7 @@
 * will `HR`
 * myself `PHAO*EUS`
 * straight `STRAEUT`
-* across, `A/KROS KW-BG`
+* across, `KRAOS KW-BG`
 * then `THEPB`
 * can `K`
 * walk `WAUBG`
@@ -221,7 +221,7 @@
 * afraid, `A/TPRAEUD KW-BG`
 * stood `STAOD`
 * still, `STEUL KW-BG`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * farther. `TPA*RT TP-PL`
 * burn, `PWURPB KW-BG`
 * broke `PWROEBG`

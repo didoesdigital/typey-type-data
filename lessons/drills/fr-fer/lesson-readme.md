@@ -31,5 +31,5 @@
 * suffer `SUFR`
 * surfer `SUR/TPER`
 * transfer `TRAF`
-* wafer `WAFR`
+* wafer `WAEFR`
 * woofer `WAOFR`

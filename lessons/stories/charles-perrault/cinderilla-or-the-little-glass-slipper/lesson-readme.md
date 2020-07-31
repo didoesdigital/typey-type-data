@@ -23,7 +23,7 @@
 * She `KPA/SHE`
 * had, `H KW-BG`
 * by `PWEU`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * husband, `HUS KW-BG`
 * two `TWO`
 * daughters `TKAURS`
@@ -777,7 +777,7 @@
 * her? `HER H-F`
 * Ah! `KPA/HA*E SKHRAPL`
 * dear `TKAER`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * Charlotte, `KHARL/OT KW-BG`
 * do `TKO`
 * lend `HREPBD`

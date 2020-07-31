@@ -110,7 +110,7 @@
 * as `AZ`
 * we `WE`
 * do, `TKORBGS`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * speak; `SPAOEBG STPH*FPLT`
 * thought `THAUT`
 * them `THEPL`
@@ -224,7 +224,7 @@
 * aloud, `A/HROUD KW-BG`
 * good `TKPWAOD`
 * reason—because `R-PB EPL/TKA*RB PWAU`
-* cannot." `K/TPHOT TP-PL KR-GS`
+* cannot." `SK-PBT TP-PL KR-GS`
 * Then `KPA/THEPB`
 * related `RAELTD`
 * history, `HEUFRT KW-BG`

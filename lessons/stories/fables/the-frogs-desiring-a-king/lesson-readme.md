@@ -99,7 +99,7 @@
 * or `OR`
 * two `TWO`
 * boldest `PWOLD/EFT`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * towards `TORDZ`
 * even `AOEPB`
 * dared `TKAEURD`

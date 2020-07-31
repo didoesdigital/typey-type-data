@@ -235,7 +235,7 @@
 * bursts; `PWUFRTS STPH*FPLT`
 * even `AOEPB`
 * men `PHEPB`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * that. `THA TP-PL`
 * In `KPA/TPH`
 * flash `TPHRARB`
@@ -269,7 +269,7 @@
 * looked `HRAOBGD`
 * up, `UP KW-BG`
 * flashed `TPHRARBD`
-* across `A/KROS`
+* across `KRAOS`
 * whole `WHOEL`
 * world `WORLD`
 * were `WR`

@@ -19,7 +19,7 @@
 * skin `SKEUPB`
 * deep. `TKAOEP TP-PL`
 * Beggars `KPA/PWEG/ERS`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * be `-B`
 * choosers. `KHAOZ/ER/-S TP-PL`
 * Behind `KPA/HEUPBD`
@@ -55,7 +55,7 @@
 * candle `KA*PBLD`
 * curse `KURS`
 * darkness. `TKARBG/-PBS TP-PL`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * silent `SHREPBT`
 * thought `THAUT`
 * fool `TPAOL`

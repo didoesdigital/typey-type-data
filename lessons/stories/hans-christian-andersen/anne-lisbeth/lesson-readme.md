@@ -557,7 +557,7 @@
 * I `EU`
 * again." `TKPWEPB TP-PL KR-GS`
 * drove `TKROEF`
-* across `A/KROS`
+* across `KRAOS`
 * country `KREU`
 * grazier's `xxx grazier AES`
 * cart, `KART KW-BG`
@@ -720,7 +720,7 @@
 * should `SHO`
 * think `THEU`
 * enjoy `TPHOEUPBLG`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * position `POGS`
 * flew `TPHRAOU`
 * screaming `SKRAOEPLG`

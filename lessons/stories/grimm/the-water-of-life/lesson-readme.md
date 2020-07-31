@@ -500,7 +500,7 @@
 * never `TPHEFR`
 * fail `TPAEUL`
 * you.' `U TP-PL AE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * home `HOEPL`
 * without `WOUT`
 * brothers'; `PWROERS AE STPH*FPLT`
@@ -618,7 +618,7 @@
 * days. `TKAEUS TP-PL`
 * laughed `HRAFD`
 * 'Well, `AE KPA/WEL KW-BG`
-* you? `STPHU`
+* you? `U H-F`
 * You `KPA/U`
 * trouble `TRUBL`
 * shall `SHAL`

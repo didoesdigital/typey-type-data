@@ -219,7 +219,7 @@
 * kind, `KEUPBD KW-BG`
 * far `TPAR`
 * see, `SAOE KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * discern `TKEUS/ERPB`
 * anything `TPHEUG`
 * like `HRAOEUBG`
@@ -298,7 +298,7 @@
 * To `KPA/TO`
 * become `PW-BG`
 * different `TKEUFRT`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * same! `SAEUPL SKHRAPL`
 * That's `KPA/THA AES`
 * difficult `TKEUFL`
@@ -376,7 +376,7 @@
 * ashes. `ARBS TP-PL`
 * smoke `SPHOEBG`
 * drove `TKROEF`
-* across `A/KROS`
+* across `KRAOS`
 * scene `SAEPB`
 * conflagration, `KAUPB/TPHRA/RAEUGS KW-BG`
 * wind `WEUPBD`

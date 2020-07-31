@@ -376,7 +376,7 @@
 * she. `SHE TP-PL`
 * 'But, `AE KPA/PWUT KW-BG`
 * king--the `KEUPBG H-PB H-PB -T`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * king?' `KEUPBG H-F AE`
 * 'Husband,' `AE KPA/HUS KW-BG AE`
 * 'say `AE SAEU`
@@ -618,7 +618,7 @@
 * frightened `TPRAOEUFPBD`
 * started `STARTD`
 * fell `TPEL`
-* 'cannot `AE K/TPHOT`
+* 'cannot `AE SK-PBT`
 * 'No,' `AE KPA/TPHO KW-BG AE`
 * uneasy `UPB/EZ`
 * moon `PHAOPB`

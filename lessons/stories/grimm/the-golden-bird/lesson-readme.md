@@ -116,7 +116,7 @@
 * up `UP`
 * shot `SHOT`
 * an `APB`
-* arrow `AR/OE`
+* arrow `RO*EUR`
 * it. `T TP-PL`
 * But `KPA/PWUT`
 * did `TK`
@@ -633,7 +633,7 @@
 * brothers, `PWROERS KW-BG`
 * turned `TURPBD`
 * robbers; `RORBS STPH*FPLT`
-* 'Cannot `AE KPA/K/TPHOT`
+* 'Cannot `AE KPA/SK-PBT`
 * saved?' `SAFD H-F AE`
 * 'No,' `AE KPA/TPHO KW-BG AE`
 * bestow `PWE/STOEU`
@@ -691,7 +691,7 @@
 * evil `AOEFL`
 * befallen `PWE/TPAUL/*EPB`
 * 'Yet,' `AE KPA/KWRET KW-BG AE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * here, `HAOER KW-BG`
 * fast.' `TPAFT TP-PL AE`
 * pulled `PULD`

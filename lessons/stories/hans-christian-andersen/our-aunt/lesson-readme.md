@@ -234,7 +234,7 @@
 * windows `WOEUPBDZ`
 * opera-box. `OP/RA H-PB PWOBGS TP-PL`
 * One `KPA/WUPB`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * sit `SEUT`
 * look `HRAOBG`
 * one's `W*UPBS`
@@ -311,7 +311,7 @@
 * well `WEL`
 * it. `T TP-PL`
 * distinguished `STKPWAOURBD`
-* actors `A*RBGTS`
+* actors `ARBGTS`
 * actresses `ABG/TRES/-S`
 * passed `PAFD`
 * away `WA*EU`

@@ -42,7 +42,7 @@
 * your `KWROUR`
 * lot; `HROT STPH*FPLT`
 * one `WUPB`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * be `-B`
 * first `TPEUFRT`
 * everything." `EFRG TP-PL KR-GS`

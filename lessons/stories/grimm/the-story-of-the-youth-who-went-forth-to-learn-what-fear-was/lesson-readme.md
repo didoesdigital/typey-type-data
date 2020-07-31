@@ -576,7 +576,7 @@
 * burning. `PWURPBG TP-PL`
 * grew `TKPWRAOU`
 * angry, `APBG/REU KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * help `HEP`
 * you, `U KW-BG`
 * burnt `PWURPBT`

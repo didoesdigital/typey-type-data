@@ -159,7 +159,7 @@
 * nothing `TPHOG`
 * more, `PHOR KW-BG`
 * even `AOEPB`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * seen `SAOEPB`
 * unless `TPH-LS`
 * has `HAS`

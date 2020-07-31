@@ -32,7 +32,7 @@
 * worse `WORS`
 * than `THAPB`
 * open `OEP`
-* enemies. `EPB/PHEUS TP-PL`
+* enemies. `TPHAEPLS TP-PL`
 * Fake `KPA/TPAEUBG`
 * it `T`
 * til' `T*/*EU/HR*/AE`

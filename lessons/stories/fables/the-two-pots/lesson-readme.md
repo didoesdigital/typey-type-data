@@ -72,5 +72,5 @@
 * The `KPA/-T`
 * strong `STROPBG`
 * weak `WAEBG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * company. `K-P TP-PL`

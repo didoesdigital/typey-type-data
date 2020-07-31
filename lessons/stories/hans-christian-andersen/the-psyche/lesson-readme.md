@@ -1261,7 +1261,7 @@
 * reality; `RAOELT STPH*FPLT`
 * floating `TPHROEGT`
 * islands `AOEU/HRAPBDZ`
-* across `A/KROS`
+* across `KRAOS`
 * life. `HRAOEUF TP-PL`
 * vanity `SRAPBT`
 * delusion—and `TKHRAOUGS EPL/TKA*RB SKP`

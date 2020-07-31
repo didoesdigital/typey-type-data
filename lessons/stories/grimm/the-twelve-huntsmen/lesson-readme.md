@@ -195,7 +195,7 @@
 * with `W`
 * them, `THEPL KW-BG`
 * court `KORT`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * betrothed, `PWE/TRO*T/-D KW-BG`
 * dearly. `TKAERL TP-PL`
 * if `TP`
@@ -238,7 +238,7 @@
 * mistaken, `SPHA*EUPB KW-BG`
 * girls.' `TKPWEURLS TP-PL AE`
 * 'That `AE KPA/THA`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * true! `TRAOU SKHRAPL`
 * How `KPA/HOU`
 * prove `PROF`

@@ -629,7 +629,7 @@
 * straw, `STRAU KW-BG`
 * 'I `AE EU`
 * myself `PHAO*EUS`
-* across, `A/KROS KW-BG`
+* across, `KRAOS KW-BG`
 * may `PHAE`
 * pass `PAS`
 * me.' `PHE TP-PL AE`
@@ -643,7 +643,7 @@
 * wood `WAOD`
 * am `APL`
 * enough; `TPHUF STPH*FPLT`
-* across `A/KROS`
+* across `KRAOS`
 * stream, `STRAOEPL KW-BG`
 * down; `TKOUPB STPH*FPLT`
 * managed `PHAPBGD`

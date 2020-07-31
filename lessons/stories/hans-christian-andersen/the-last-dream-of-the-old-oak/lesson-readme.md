@@ -415,7 +415,7 @@
 * taking `TAEUG`
 * their `THAEUR`
 * flight `TPHRAOEUT`
-* across `A/KROS`
+* across `KRAOS`
 * sea. `SAE TP-PL`
 * But `KPA/PWUT`
 * leafless, `HRAOEF/-LS KW-BG`

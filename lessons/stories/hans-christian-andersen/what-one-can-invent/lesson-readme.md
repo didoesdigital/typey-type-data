@@ -212,7 +212,7 @@
 * come `KOPL`
 * hither. `H*EURT TP-PL`
 * You `KPA/U`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * anything, `TPHEUG KW-BG`
 * yet `KWRET`
 * want `WAPBT`

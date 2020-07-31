@@ -5,7 +5,7 @@
 * about `PW`
 * above `PWOF`
 * accept `SEP`
-* across `A/KROS`
+* across `KRAOS`
 * act `ABGT`
 * actually `TAOULT`
 * add `AD`
@@ -673,7 +673,7 @@
 * red `RED`
 * relationship `R*EUP`
 * relax `RE/HRABGS`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * remember `RER`
 * remind `RAO*EUPBD`
 * repeat `RE/PAOET`

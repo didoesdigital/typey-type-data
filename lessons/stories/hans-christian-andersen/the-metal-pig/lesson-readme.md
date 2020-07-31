@@ -316,7 +316,7 @@
 * sounded `SOUPBD/-D`
 * them `THEPL`
 * all `AUL`
-* across `A/KROS`
+* across `KRAOS`
 * noble `TPHOEBL`
 * square. `SKWAEUR TP-PL`
 * By `KPA/PWEU`

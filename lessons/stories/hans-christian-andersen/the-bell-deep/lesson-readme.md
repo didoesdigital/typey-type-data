@@ -91,7 +91,7 @@
 * kitchen `K-FP`
 * plants; `PHRAPBTS STPH*FPLT`
 * here `HAOER`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * be `-B`
 * seen `SAOEPB`
 * at `AT`

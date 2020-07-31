@@ -104,9 +104,9 @@
 * allergen `HR*EPB`
 * allergic `HRERBG`
 * allergies `HRERPBLGS`
-* allergy `HRERPLG`
+* allergy `HRERPBLG`
 * allocate `KHRA*EUT`
-* allocation `KHRA*EUG`
+* allocation `KHRA*EUGS`
 * allow `HROU`
 * allowance `HROUPBS`
 * alms `AUPLS`
@@ -152,7 +152,7 @@
 * ant `A*PBT`
 * anterior `AERPBT`
 * antibiotic `AEBT`
-* antibody `TPHOEBD`
+* antibody `TPHAOEBD`
 * anticipate `SPA*EUT`
 * anticipated `SPAEUTD`
 * anticipating `SPA*EUG`
@@ -220,7 +220,7 @@
 * arranges `ARPBGS`
 * arrest `A*EURS`
 * arrhythmia `RA*EUPL`
-* arteries `RARTSZ`
+* arteries `RARTS`
 * artery `RART`
 * arthritic `THREUBG`
 * arthritis `THRAOEUTS`
@@ -6360,7 +6360,7 @@
 * vying `SRAOEUG`
 * wad `WAD`
 * wade `WAEUD`
-* wafer `WAFR`
+* wafer `WAEFR`
 * waffle `WAFL`
 * waft `WAFT`
 * wag `WAG`
@@ -6410,7 +6410,7 @@
 * watering `WAURPBG`
 * watt `WAT`
 * waved `WAFD`
-* waver `WA*EFR`
+* waver `WAFR`
 * waving `WAFG`
 * wax `WABGS`
 * we'd `WAOED`

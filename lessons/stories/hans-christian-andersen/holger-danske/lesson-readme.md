@@ -666,7 +666,7 @@
 * wind `WEUPBD`
 * brought `PWRAUT`
 * hunting-horn `HUPBT/-G H-PB HORPB`
-* across `A/KROS`
+* across `KRAOS`
 * neighboring `TPHAEUB/-G`
 * shores. `SHORS TP-PL`
 * sailed `SAEULD`

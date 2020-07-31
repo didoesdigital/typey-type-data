@@ -139,7 +139,7 @@
 * but `PWUT`
 * home `HOEPL`
 * back, `PWABG KW-BG`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * purse, `PURS KW-BG`
 * certainly `SERPBL`
 * mark `PHARBG`
@@ -176,7 +176,7 @@
 * meant. `PHEPBT TP-PL`
 * A `KPA/AEU`
 * man `PHAPB`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * see `SAOE`
 * much `PHUFP`
 * if `TP`
@@ -391,7 +391,7 @@
 * obliged `OE/PWHRAOEUPBLGD`
 * somebody,' `S-B KW-BG AE`
 * she; `SHE STPH*FPLT`
-* cannot, `K/TPHOT KW-BG`
+* cannot, `SK-PBT KW-BG`
 * best `PWEFT`
 * intentions, `EUPB/TEPBGS/-S KW-BG`
 * bad `PWAD`

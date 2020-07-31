@@ -347,7 +347,7 @@
 * good-for-nothing `TKPWAOD H-PB TPOR H-PB TPHOG`
 * girls, `TKPWEURLS KW-BG`
 * running `R*UPBG`
-* across `A/KROS`
+* across `KRAOS`
 * young `KWRUPBG`
 * man? `PHAPB H-F`
 * Is `KPA/S`
@@ -443,7 +443,7 @@
 * sorely, `SORL KW-BG`
 * great `TKPWRAET`
 * thirst `THEUFRT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * quench `KWEFRPB`
 * it; `T STPH*FPLT`
 * cold `KOELD`

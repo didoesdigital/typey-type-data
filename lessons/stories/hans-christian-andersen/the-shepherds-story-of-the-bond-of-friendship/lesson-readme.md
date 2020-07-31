@@ -225,7 +225,7 @@
 * drive `TKRAOEUF`
 * them `THEPL`
 * away `WA*EU`
-* across `A/KROS`
+* across `KRAOS`
 * islands!' `AOEU/HRAPBDZ SKHRAPL AE`
 * cried `KRAOEUD`
 * young `KWRUPBG`
@@ -1177,7 +1177,7 @@
 * loves `HRUFS`
 * you, `U KW-BG`
 * dear `TKAER`
-* you? `STPHU`
+* you? `U H-F`
 * silence `SHREPBS`
 * proves `PROFS`
 * affection." `A*FBGS TP-PL KR-GS`

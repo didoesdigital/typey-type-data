@@ -33,7 +33,7 @@
 * well `WEL`
 * said. `SED TP-PL`
 * What `KPA/WHA`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * be `-B`
 * cured `KAOURD`
 * must `PHUFT`

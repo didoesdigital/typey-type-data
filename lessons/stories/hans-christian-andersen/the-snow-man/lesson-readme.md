@@ -363,7 +363,7 @@
 * contemplated `KAUPB/TPHRAEUT/-D`
 * scene. `SAEPB TP-PL`
 * "Summer `KR-GS KPA/SAOURPL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * show `SHOE`
 * more `PHOR`
 * beautiful `PWAOUFL`

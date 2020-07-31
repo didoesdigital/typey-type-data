@@ -153,7 +153,7 @@
 * well," `WEL KW-BG KR-GS`
 * ball; `PWAUL STPH*FPLT`
 * "but `KR-GS PWUT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * accept `SEP`
 * your `KWROUR`
 * proposal. `PROEL TP-PL`

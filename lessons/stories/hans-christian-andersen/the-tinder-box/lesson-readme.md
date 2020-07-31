@@ -234,7 +234,7 @@
 * If `KPA/TP`
 * also `HR-S`
 * placed `PHRAEUFD`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * hurt `HURT`
 * may `PHAE`
 * will." `HR TP-PL KR-GS`

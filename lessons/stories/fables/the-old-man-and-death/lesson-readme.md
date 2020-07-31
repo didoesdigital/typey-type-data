@@ -32,7 +32,7 @@
 * cried `KRAOEUD`
 * out: `OUT STPH-FPLT`
 * "I `KR-GS EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * bear `PWAER`
 * this `TH`
 * life `HRAOEUF`

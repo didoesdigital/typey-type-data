@@ -83,7 +83,7 @@
 * age, `AEUPBLG KW-BG`
 * nearing `TPHAOERG`
 * graveyard. `TKPWRAEUF/KWRARD TP-PL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * good, `TKPWAOD KW-BG`
 * careful. `KAEUFL TP-PL`
 * beat `PWAET`

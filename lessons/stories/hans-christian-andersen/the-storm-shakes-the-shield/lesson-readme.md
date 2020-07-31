@@ -89,7 +89,7 @@
 * shield `SHAOELD`
 * itself `T/SEFL`
 * double `TKUBL`
-* eagle `AOEG/*L`
+* eagle `AOEG/-L`
 * displayed, `TKEUS/PHRAEUD KW-BG`
 * big `PWEUG`
 * boot; `PWAOT STPH*FPLT`

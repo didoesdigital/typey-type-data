@@ -235,7 +235,7 @@
 * splendid `SPHREPB/TKEUD`
 * precious `PRERBS`
 * thing, `THEUPBG KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * describe `SKREU`
 * it," `T KW-BG KR-GS`
 * Mother-Toad. `KPA/PHOER H-PB KPA/TAOD TP-PL`
@@ -416,7 +416,7 @@
 * dust `TKUFT`
 * powdered `POURD/-D`
 * marched `PHAFRPBD`
-* across `A/KROS`
+* across `KRAOS`
 * way. `WAEU TP-PL`
 * "I've `KR-GS/AOEUF`
 * place `PHRAEUS`
@@ -710,7 +710,7 @@
 * You `KPA/U`
 * disagreeable `TKEUS/TKPWRAOEBL`
 * at. `AT TP-PL`
-* Cannot `KPA/K/TPHOT`
+* Cannot `KPA/SK-PBT`
 * peace `PAES`
 * property? `PROT H-F`
 * Now `KPA/TPHOU`

@@ -38,7 +38,7 @@
 * Mask `KPA/PHAFBG`
 * such `SUFP`
 * as `AZ`
-* actors `A*RBGTS`
+* actors `ARBGTS`
 * use `AOUS`
 * put `PUT`
 * over `OEFR`

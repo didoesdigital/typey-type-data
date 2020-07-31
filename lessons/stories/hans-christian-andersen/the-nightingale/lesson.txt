@@ -637,7 +637,7 @@ The Nightingale
 'majesty,"': PHAPBLG/STEU KW-BG KR-GS
 'said': SED
 'he,': HE KW-BG
-'"cannot': KR-GS K/TPHOT
+'"cannot': KR-GS SK-PBT
 'believe': PWHREF
 'everything': EFRG
 'contained': KAUPB/TAEUPBD
@@ -683,7 +683,7 @@ The Nightingale
 'and': SKP
 'therefore': TH-FR
 'it': T
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'contain': TAEUPB
 'a': AEU
 'falsehood.': TPALS/HAOD TP-PL
@@ -1525,7 +1525,7 @@ The Nightingale
 'was': WAS
 'now': TPHOU
 'to': TO
-'remain': RE/PHAEUPB
+'remain': RAEUPL
 'at': AT
 'court,': KORT KW-BG
 'to': TO
@@ -2170,7 +2170,7 @@ The Nightingale
 'something': S-G
 'wanting,': WAPBGT KW-BG
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'exactly': ELG
 'tell': TEL
 'what."': WHA TP-PL KR-GS
@@ -2409,7 +2409,7 @@ The Nightingale
 'the': -T
 'bird': PWEURD
 'sounded': SOUPBD/-D
-'"whizz."': KR-GS WEUZ/STKPW* TP-PL KR-GS
+'"whizz."': KR-GS WEUZ/A*U TP-PL KR-GS
 'Then': KPA/THEPB
 'a': AEU
 'spring': SPREUPBG
@@ -3285,7 +3285,7 @@ The Nightingale
 '"You': KR-GS KPA/U
 'must': PHUFT
 'always': AULS
-'remain': RE/PHAEUPB
+'remain': RAEUPL
 'with': W
 'me,"': PHE KW-BG KR-GS
 'said': SED
@@ -3333,7 +3333,7 @@ The Nightingale
 'here': HAOER
 'still.': STEUL TP-PL
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'live': HREUF
 'in': TPH
 'the': -T

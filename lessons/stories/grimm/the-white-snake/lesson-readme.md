@@ -355,7 +355,7 @@
 * ant-king `A*PBT H-PB KEUPBG`
 * complain: `KPHRAEUPB STPH-FPLT`
 * 'Why `AE KPA/KWR`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * folks, `TPOBG KW-BG`
 * clumsy `KHRUPL/SEU`
 * beasts, `PWAOEFT/-S KW-BG`

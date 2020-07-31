@@ -619,7 +619,7 @@
 * myself `PHAO*EUS`
 * between `TWAOEPB`
 * two; `TWO STPH*FPLT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * give `TKPWEUF`
 * jam." `SKWRAPL TP-PL KR-GS`
 * this `TH`

@@ -735,7 +735,7 @@
 * long? `HROPBG H-F`
 * It's `KPA/T AES`
 * understand. `URPBD TP-PL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * trick `TREUBG`
 * hers, `HERS KW-BG`
 * mean `PHAOEPB`

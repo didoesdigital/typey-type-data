@@ -251,7 +251,7 @@
 * So, `KPA/SO KW-BG`
 * drawing `TKRAUG`
 * back, `PWABG KW-BG`
-* arrow, `AR/OE KW-BG`
+* arrow, `RO*EUR KW-BG`
 * aimed, `AEUPLD KW-BG`
 * shot `SHOT`
 * heart. `HART TP-PL`
@@ -322,7 +322,7 @@
 * black `PWHRABG`
 * coat. `KOET TP-PL`
 * They `KPA/THE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * recognise `REZ/A*U`
 * him. `HEUPL TP-PL`
 * then, `THEPB KW-BG`
@@ -330,7 +330,7 @@
 * student `STAUPB`
 * too, `TAO KW-BG`
 * sticks `STEUBGS`
-* arrow `AR/OE`
+* arrow `RO*EUR`
 * chest. `KHEFT TP-PL`
 * when `WHEPB`
 * go `TKPW`

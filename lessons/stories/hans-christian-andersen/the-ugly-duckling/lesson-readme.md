@@ -202,7 +202,7 @@
 * but `PWUT`
 * I `EU`
 * never `TPHEFR`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * such `SUFP`
 * distance. `STKAPBS TP-PL`
 * Are `KPA/R`
@@ -694,7 +694,7 @@
 * dark `TKARBG`
 * floated `TPHROET/-D`
 * away `WA*EU`
-* across `A/KROS`
+* across `KRAOS`
 * number `TPHUPL`
 * sporting `SPORT/-G`
 * dogs `TKOGS`
@@ -847,7 +847,7 @@
 * duck's `TKUBG AES`
 * eggs. `EGS TP-PL`
 * wait `WAEUT`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * trial `TRAOEUL`
 * three `THRAOE`
 * weeks, `WAOEBGS KW-BG`
@@ -932,7 +932,7 @@
 * understand `URPBD`
 * me," `PHE KW-BG KR-GS`
 * duckling. `TKUBG/-LG TP-PL`
-* you? `STPHU`
+* you? `U H-F`
 * Who `KPA/WHO`
 * you, `U KW-BG`
 * wonder? `WOPBD H-F`
@@ -1180,7 +1180,7 @@
 * matter: `PHAERT STPH-FPLT`
 * killed `KEULD`
 * beaten `PWAET/*EPB`
-* hens, `HEPB/-S KW-BG`
+* hens, `HEPBZ KW-BG`
 * maiden `PHAEUD/*EPB`
 * feeds `TPAOEDZ`
 * poultry, `POL/TREU KW-BG`

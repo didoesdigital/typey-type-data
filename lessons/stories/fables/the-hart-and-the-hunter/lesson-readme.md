@@ -53,7 +53,7 @@
 * approached `A/PROEFPD`
 * sent `SEPBT`
 * an `APB`
-* arrow `AR/OE`
+* arrow `RO*EUR`
 * whistling `WHEUS/-LG`
 * after `AF`
 * him. `HEUPL TP-PL`

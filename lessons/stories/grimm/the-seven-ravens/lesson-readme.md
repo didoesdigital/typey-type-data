@@ -288,7 +288,7 @@
 * wood, `WAOD KW-BG`
 * 'If `AE KPA/TP`
 * you `U`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * unlock `UPB/HROBG`
 * castle `KAFL`
 * stands `STAPBDZ`

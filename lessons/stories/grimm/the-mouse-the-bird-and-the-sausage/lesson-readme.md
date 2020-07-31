@@ -227,7 +227,7 @@
 * flown `TPHROEPB`
 * far, `TPAR KW-BG`
 * however, `HOUF KW-BG`
-* across `A/KROS`
+* across `KRAOS`
 * dog `TKOG`
 * who, `WHO KW-BG`
 * having `SR-G`
@@ -264,7 +264,7 @@
 * agreed `TKPWRAED`
 * best `PWEFT`
 * things `THEUPBGS`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * another. `TPHOER TP-PL`
 * So `KPA/SO`
 * looked `HRAOBGD`

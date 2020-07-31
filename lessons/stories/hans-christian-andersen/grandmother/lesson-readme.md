@@ -167,7 +167,7 @@
 * he `HE`
 * gives `TKPWEUFS`
 * smiles. `SPHAOEULS TP-PL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * smile `SPHAOEUL`
 * now. `TPHOU TP-PL`
 * Yes, `KPA/KWRE KW-BG`

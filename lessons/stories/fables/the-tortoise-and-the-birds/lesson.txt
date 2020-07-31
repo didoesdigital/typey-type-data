@@ -13,7 +13,7 @@ The Tortoise and the Birds
 'he': HE
 'asked': SK-D
 'an': APB
-'Eagle': KPA/AOEG/*L
+'Eagle': KPA/AOEG/-L
 'to': TO
 'carry': KAER
 'him': HEUPL
@@ -30,7 +30,7 @@ The Tortoise and the Birds
 'her': HER
 'trouble.': TRUBL TP-PL
 'The': KPA/-T
-'Eagle': KPA/AOEG/*L
+'Eagle': KPA/AOEG/-L
 'agreed': TKPWRAED
 'and': SKP
 'seizing': SAOEZ/-G
@@ -55,7 +55,7 @@ The Tortoise and the Birds
 'said': SED
 'to': TO
 'the': -T
-'Eagle:': KPA/AOEG/*L STPH-FPLT
+'Eagle:': KPA/AOEG/-L STPH-FPLT
 '"Tortoise': KR-GS KPA/TOR/TOS
 'is': S
 'good': TKPWAOD
@@ -67,7 +67,7 @@ The Tortoise and the Birds
 'hard,"': HARD KW-BG KR-GS
 'said': SED
 'the': -T
-'Eagle': KPA/AOEG/*L
+'Eagle': KPA/AOEG/-L
 'in': TPH
 'reply.': RE/PHREU TP-PL
 '"The': KR-GS KPA/-T
@@ -83,7 +83,7 @@ The Tortoise and the Birds
 'answer;': AEPBS STPH*FPLT
 'and': SKP
 'the': -T
-'Eagle,': KPA/AOEG/*L KW-BG
+'Eagle,': KPA/AOEG/-L KW-BG
 'taking': TAEUG
 'the': -T
 'hint,': HEUPBT KW-BG

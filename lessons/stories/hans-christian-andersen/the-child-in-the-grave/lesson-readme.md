@@ -360,7 +360,7 @@
 * through `THRU`
 * garden, `TKPWA*RPB KW-BG`
 * path `PA*T`
-* across `A/KROS`
+* across `KRAOS`
 * field `TPAOELD`
 * led `HRED`
 * churchyard. `KH*URPBLG/KWRARD TP-PL`

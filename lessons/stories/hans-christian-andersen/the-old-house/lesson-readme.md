@@ -111,7 +111,7 @@
 * will `HR`
 * heap `HAOEP`
 * rubbish `RUB/EURB`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * here `HAOER`
 * disgrace `TKEUS/TKPWRAEUS`
 * whole `WHOEL`
@@ -192,7 +192,7 @@
 * all `AUL`
 * sorts `SORTS`
 * scenes `SAOEPBS`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * times. `TAOEUPLS TP-PL`
 * How `KPA/HOU`
 * must `PHUFT`
@@ -569,7 +569,7 @@
 * lions, `HRAOEU/O*PBS KW-BG`
 * shoemakers' `SHAOU/PHA*EURBG/-S AE`
 * boots, `PWAOTS KW-BG`
-* eagle `AOEG/*L`
+* eagle `AOEG/-L`
 * heads, `HEDZ KW-BG`
 * shoemakers `SHAOU/PHA*EURBG/-S`
 * arranged `ARPBG/-D`
@@ -584,7 +584,7 @@
 * nuts. `TPHUTS TP-PL`
 * pleasant, `PHREFPBT KW-BG`
 * certainly, `SERPBL KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * endure `EPB/TKAOUR`
 * it," `T KW-BG KR-GS`
 * soldier, `SHRERPBLG KW-BG`
@@ -993,7 +993,7 @@
 * happened `HAPD`
 * boy." `PWOEU TP-PL KR-GS`
 * told `TOLD`
-* across, `A/KROS KW-BG`
+* across, `KRAOS KW-BG`
 * lonely; `HROEPBL STPH*FPLT`
 * related `RAELTD`
 * clearly `KAOERL`

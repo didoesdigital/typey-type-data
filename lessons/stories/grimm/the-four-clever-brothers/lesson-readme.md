@@ -394,7 +394,7 @@
 * out, `OUT KW-BG`
 * red `RED`
 * streak `STRAOEBG`
-* across `A/KROS`
+* across `KRAOS`
 * necks, `TPHEBG/-S KW-BG`
 * sewn `SWEPB`
 * 'Well `AE KPA/WEL`
@@ -572,7 +572,7 @@
 * word, `WORD KW-BG`
 * 'Each `AE KPA/AOEFP`
 * right; `RAOEUT STPH*FPLT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * lady, `HRA*ED KW-BG`
 * best `PWEFT`
 * neither `TPHAOERT`

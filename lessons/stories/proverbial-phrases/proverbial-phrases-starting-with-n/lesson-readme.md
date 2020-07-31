@@ -122,6 +122,6 @@
 * succeeds `SUBG/SAOEDZ`
 * like `HRAOEUBG`
 * success. `SKES TP-PL`
-* ventured, `SREPB/KHURD KW-BG`
+* ventured, `SRERPBTD KW-BG`
 * nothing `TPHOG`
 * gained. `TKPWAEUPBD TP-PL`

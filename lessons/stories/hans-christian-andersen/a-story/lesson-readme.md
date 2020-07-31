@@ -223,7 +223,7 @@
 * said, `SED KW-BG`
 * "that `KR-GS THA`
 * I `EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * collect `KHREBGT`
 * my `PHEU`
 * thoughts, `THAUTS KW-BG`
@@ -611,7 +611,7 @@
 * When `KPA/WHEPB`
 * ago, `AG KW-BG`
 * passed `PAFD`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * master, `PHAFRT KW-BG`
 * remembered `RERD`
 * struck `STRUBG`

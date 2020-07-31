@@ -246,7 +246,7 @@
 * opened `OEPD`
 * eyes `AO*EUS`
 * wide, `WAOEUD KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * all," `AUL KW-BG KR-GS`
 * so. `SO TP-PL`
 * Both `KPA/PWO*T`

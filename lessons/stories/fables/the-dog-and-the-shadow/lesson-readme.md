@@ -28,7 +28,7 @@
 * cross `KROS`
 * plank `PHRA*PBG`
 * lying `HRAOEUG`
-* across `A/KROS`
+* across `KRAOS`
 * running `R*UPBG`
 * brook. `PWRAOBG TP-PL`
 * As `KPA/AS`

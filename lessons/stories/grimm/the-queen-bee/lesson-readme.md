@@ -148,7 +148,7 @@
 * back, `PWABG KW-BG`
 * pretty `PREUT`
 * insects `EUPB/SEBGTS`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * let `HRET`
 * burn `PWURPB`
 * At `KPA/AT`

@@ -1,7 +1,7 @@
 # The Eagle and the Arrow
 
 * An `KPA/APB`
-* Eagle `KPA/AOEG/*L`
+* Eagle `KPA/AOEG/-L`
 * was `WAS`
 * soaring `SAORG`
 * through `THRU`
@@ -11,10 +11,10 @@
 * suddenly `SULD`
 * it `T`
 * heard `HAERD`
-* whizz `WEUZ/STKPW*`
+* whizz `WEUZ/A*U`
 * of `-F`
 * an `APB`
-* Arrow, `KPA/AR/OE KW-BG`
+* Arrow, `KPA/RO*EUR KW-BG`
 * and `SKP`
 * felt `TPELT`
 * itself `T/SEFL`
@@ -33,7 +33,7 @@
 * it. `T TP-PL`
 * Looking `KPA/HRAOG`
 * upon `POPB`
-* Arrow `KPA/AR/OE`
+* Arrow `KPA/RO*EUR`
 * which `WEU`
 * had `H`
 * been `PW-PB`
@@ -53,7 +53,7 @@
 * often `OFPB`
 * give `TKPWEUF`
 * our `OUR`
-* enemies `EPB/PHEUS`
+* enemies `TPHAEPLS`
 * means `PHAOEPBS`
 * for `TPOR`
 * destruction." `STKRUBGS TP-PL KR-GS`

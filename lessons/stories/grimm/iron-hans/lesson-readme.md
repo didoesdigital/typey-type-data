@@ -105,7 +105,7 @@
 * it, `T KW-BG`
 * sometimes `STAOEUPLS`
 * an `APB`
-* eagle `AOEG/*L`
+* eagle `AOEG/-L`
 * or `OR`
 * hawk `HAUBG`
 * flying `TPHRAOEUG`
@@ -267,7 +267,7 @@
 * On `KPA/OPB`
 * ridden `REUD/-PB`
 * hunting, `HUPBT/-G KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * open `OEP`
 * even `AOEPB`
 * if `TP`
@@ -445,7 +445,7 @@
 * more, `PHOR KW-BG`
 * happens `HAPS`
 * polluted `PHRAOUT/-D`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * me.' `PHE TP-PL AE`
 * sat `SAT`
 * stir `STEUR`
@@ -559,7 +559,7 @@
 * answered: `AEPBS/-D STPH-FPLT`
 * 'Ah, `AE KPA/HA*E KW-BG`
 * Lord, `HRO*RD KW-BG`
-* cannot; `K/TPHOT STPH*FPLT`
+* cannot; `SK-PBT STPH*FPLT`
 * sore `SOR`
 * place `PHRAEUS`
 * head.' `HED TP-PL AE`
@@ -917,7 +917,7 @@
 * me. `PHE TP-PL`
 * helped `HEPD`
 * victory `SREUBGT/REU`
-* enemies.' `EPB/PHEUS TP-PL AE`
+* enemies.' `TPHAEPLS TP-PL AE`
 * perform `PORPL`
 * deeds `TKAOEDZ`
 * boy; `PWOEU STPH*FPLT`

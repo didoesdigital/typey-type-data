@@ -775,7 +775,7 @@ The Puppet-Show Man
 'might': PHAOEUT
 'be': -B
 'living': HREUFG
-'actors,': A*RBGTS KW-BG
+'actors,': ARBGTS KW-BG
 'and': SKP
 'you': U
 'their': THAEUR
@@ -1043,7 +1043,7 @@ The Puppet-Show Man
 'had': H
 'become': PW-BG
 'distinguished': STKPWAOURBD
-'actors—at': A*RBGTS EPL/TKA*RB AT
+'actors—at': ARBGTS EPL/TKA*RB AT
 'least,': HRAOEFT KW-BG
 'so': SO
 'they': THE
@@ -1498,7 +1498,7 @@ The Puppet-Show Man
 'consciousness': KOPBS/-PBS
 'that': THA
 'my': PHEU
-'former': TPORPL/*ER
+'former': TPRORPL
 'wish': WEURB
 'had': H
 'been': PW-PB

@@ -221,7 +221,7 @@
 * swallow `SWAL`
 * flew `TPHRAOU`
 * swiftness `SWEUFT/-PBS`
-* arrow `AR/OE`
+* arrow `RO*EUR`
 * arbour, `AR/PWOUR/A*U KW-BG`
 * turning `TURPBG`
 * flight, `TPHRAOEUT KW-BG`

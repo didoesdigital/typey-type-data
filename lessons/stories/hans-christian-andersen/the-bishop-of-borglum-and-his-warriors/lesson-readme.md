@@ -113,7 +113,7 @@
 * Aalborg, `xxx Aalborg KW-BG`
 * heath `HAO*ET`
 * meadow, `PHED/OE KW-BG`
-* across `A/KROS`
+* across `KRAOS`
 * blue `PWHRU`
 * sea. `SAE TP-PL`
 * Now `KPA/TPHOU`
@@ -619,7 +619,7 @@
 * Under `KPA/TPH-PB`
 * shield `SHAOELD`
 * Pope, `PO*EP KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * reach `RAOEFP`
 * thee; `THAOE STPH*FPLT`
 * writes `WRAOEUTS`

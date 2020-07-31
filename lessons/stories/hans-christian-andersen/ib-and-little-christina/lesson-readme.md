@@ -245,7 +245,7 @@
 * year `KWRAOER`
 * younger `KWRURPBG`
 * than `THAPB`
-* across `A/KROS`
+* across `KRAOS`
 * cottage `KOT/APBLG`
 * Jans, `SKWRA*PB/-S KW-BG`
 * there. `THR TP-PL`
@@ -269,7 +269,7 @@
 * Once `KPA/WUPBS`
 * wandered `WAPBD/-D`
 * forest, `TPOEFRT KW-BG`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * climb `KHRAOEUPL`
 * high `HAOEU`
 * ridge. `REUPBLG TP-PL`
@@ -518,7 +518,7 @@
 * stood `STAOD`
 * listen. `HREUFPB TP-PL`
 * Presently `KPA/PREPBLT`
-* eagle `AOEG/*L`
+* eagle `AOEG/-L`
 * sounded `SOUPBD/-D`
 * wood; `WAOD STPH*FPLT`
 * ugly `ULG`
@@ -991,7 +991,7 @@
 * spoken `SPOEPB`
 * subject. `SUBT TP-PL`
 * hours `HOURS`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * together, `TOGT KW-BG`
 * obliged `OE/PWHRAOEUPBLGD`
 * return `RURPB`

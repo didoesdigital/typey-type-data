@@ -361,7 +361,7 @@
 * we `WE`
 * do `TKO`
 * them, `THEPL KW-BG`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * kitchen, `K-FP KW-BG`
 * light, `HRAOEUT KW-BG`
 * clean `KHRAOEPB`

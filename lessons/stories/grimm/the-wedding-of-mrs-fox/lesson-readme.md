@@ -54,7 +54,7 @@
 * herself `H*ERS`
 * in, `TPH KW-BG`
 * maid, `PHAEUD KW-BG`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * Cat, `KPA/KAT KW-BG`
 * sat `SAT`
 * by `PWEU`

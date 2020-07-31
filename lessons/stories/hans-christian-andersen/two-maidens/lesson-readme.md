@@ -46,7 +46,7 @@
 * has `HAS`
 * stick `STEUBG`
 * passed `PAFD`
-* across `A/KROS`
+* across `KRAOS`
 * through `THRU`
 * her `HER`
 * waist, `WAEUFT KW-BG`

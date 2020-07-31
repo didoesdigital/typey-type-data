@@ -73,7 +73,7 @@
 * did `TK`
 * not `TPHOT`
 * return, `RURPB KW-BG`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * take `TAEUBG`
 * out `OUT`
 * brains `PWRAEUPBS`

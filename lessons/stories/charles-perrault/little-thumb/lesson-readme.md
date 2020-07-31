@@ -166,7 +166,7 @@
 * keep `KAOEP`
 * our `OUR`
 * I `EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * see `SAOE`
 * starve `STAFRB`
 * death `TK*T`
@@ -494,7 +494,7 @@
 * gone, `TKPWOPB KW-BG`
 * fell `TPEL`
 * again `TKPWEPB`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * uneasiness, `UPB/EZ/-PBS KW-BG`
 * surer `SHUR/ER`
 * carry `KAER`
@@ -507,7 +507,7 @@
 * account `K-T`
 * get `TKPWET`
 * difficulty `TKOEUFLT`
-* former; `TPORPL/*ER STPH*FPLT`
+* former; `TPRORPL STPH*FPLT`
 * though `THOE`
 * betimes `PWE/TAOEUPLS`
 * pick `PEUBG`

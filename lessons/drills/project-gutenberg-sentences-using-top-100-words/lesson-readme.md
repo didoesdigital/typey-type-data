@@ -53,7 +53,7 @@
 * we. `WE TP-PL`
 * all. `AUL TP-PL`
 * him? `HEUPL H-F`
-* you? `STPHU`
+* you? `U H-F`
 * Can `KPA/K`
 * Did `KPA/TK`
 * not! `TPHOT SKHRAPL`
@@ -380,7 +380,7 @@
 * she--? `SHE H-PB H-PB H-F`
 * there? `THR H-F`
 * Man, `KPA/PHAPB KW-BG`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * More `KPA/PHOR`
 * - `H-PB`
 * no… `TPHO SKWR*RBGS`

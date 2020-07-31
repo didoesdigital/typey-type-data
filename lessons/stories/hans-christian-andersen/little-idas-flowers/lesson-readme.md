@@ -95,7 +95,7 @@
 * their `THAEUR`
 * heads." `HEDZ TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * dance?" `TKAPBS H-F KR-GS`
 * cried `KRAOEUD`
 * Ida. `xxx Ida TP-PL`
@@ -153,7 +153,7 @@
 * when `WHEPB`
 * swam `SWAPL`
 * towards `TORDZ`
-* you? `STPHU`
+* you? `U H-F`
 * Well, `KPA/WEL KW-BG`
 * capital `KPAL`
 * balls `PWAULS`
@@ -421,7 +421,7 @@
 * fingers, `TPEURPBGS KW-BG`
 * stung `STUPBG`
 * sharply `SHARP/HREU`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * touch `TUFP`
 * since." `SEUPBS TP-PL KR-GS`
 * funny!" `TPAOUPB SKHRAPL KR-GS`
@@ -649,7 +649,7 @@
 * piano `PAPB/TPHOE`
 * remembered `RERD`
 * saying `SAEUG`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * Lina, `HR*EUPB/KWRA KW-BG`
 * friends. `TPREPBDZ TP-PL`
 * laughed `HRAFD`
@@ -755,7 +755,7 @@
 * also. `HR-S TP-PL`
 * use, `AOUS KW-BG`
 * himself `HEUPLS`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * black `PWHRABG`
 * hat; `HAT STPH*FPLT`
 * dance. `TKAPBS TP-PL`
@@ -925,7 +925,7 @@
 * Their `KPA/THAEUR`
 * given `TKPWEUFPB`
 * bow `PWOE`
-* arrow, `AR/OE KW-BG`
+* arrow, `RO*EUR KW-BG`
 * brought `PWRAUT`
 * show `SHOE`
 * obtained `OB/TAEUPBD`

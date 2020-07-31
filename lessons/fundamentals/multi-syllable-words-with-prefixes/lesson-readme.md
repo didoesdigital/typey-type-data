@@ -2,14 +2,12 @@
 
 * alone `A/HROEPB`
 * replied `RE/PHRAOEUD`
-* across `A/KROS`
 * appeared `A/PAOERD`
 * unto `UPB/TO`
 * remained `RE/PHAEUPBD`
 * afraid `A/TPRAEUD`
 * appear `A/PAOER`
 * impossible `EUPL/POB`
-* remain `RE/PHAEUPB`
 * beside `PWE/SAOEUD`
 * religion `RE/HR-GS`
 * declared `TKE/KHRAEURD`
@@ -24,7 +22,6 @@
 * engaged `EPB/TKPWAEUPBLGD`
 * aside `A/SAOEUD`
 * removed `RE/PHOFD`
-* enemies `EPB/PHEUS`
 * alive `A/HRAOEUF`
 * remains `RE/PHAEUPBS`
 * apparently `A/PARPBLT`

@@ -304,7 +304,7 @@
 * first `TPEUFRT`
 * ground; `TKPWROUPBD STPH*FPLT`
 * espied `AOE/SPAOEUD`
-* enemies `EPB/PHEUS`
+* enemies `TPHAEPLS`
 * coming, `KO*G KW-BG`
 * saw `SAU`
 * cat's `KAT AES`

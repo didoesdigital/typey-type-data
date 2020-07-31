@@ -588,7 +588,7 @@
 * peasant. `PEFPBT TP-PL`
 * Christian `KREUGS`
 * Second. `S*EBG/OPBD TP-PL`
-* Enemies `KPA/EPB/PHEUS`
+* Enemies `KPA/TPHAEPLS`
 * wrote `WRO`
 * history. `HEUFRT TP-PL`
 * remember `RER`
@@ -597,7 +597,7 @@
 * years, `KWRAOERS KW-BG`
 * if `TP`
 * we `WE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * forget `TPERGT`
 * crime. `KRAOEUPL TP-PL`
 * ship `SHEUP`

@@ -419,7 +419,7 @@
 * lifted `HREUFTD`
 * up, `UP KW-BG`
 * wafted `WAFT/-D`
-* across `A/KROS`
+* across `KRAOS`
 * opposite `OP/SEUT`
 * shore `SHOR`
 * swing, `SWEUPBG KW-BG`
@@ -667,7 +667,7 @@
 * breath `PWR*ET`
 * colder `KOERLD`
 * powerless. `POURLS TP-PL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * prevail `PRE/SRAEUL`
 * against `TKPWEPBS`
 * Death. `KPA/TK*T TP-PL`

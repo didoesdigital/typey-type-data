@@ -61,7 +61,7 @@
 * said `SED`
 * flower. `TPHRO*UR TP-PL`
 * "I `KR-GS EU`
-* cannot," `K/TPHOT KW-BG KR-GS`
+* cannot," `SK-PBT KW-BG KR-GS`
 * Sunbeam. `KPA/SUPB/PWAOEPL TP-PL`
 * am `APL`
 * not `TPHOT`
@@ -595,7 +595,7 @@
 * days. `TKAEUS TP-PL`
 * thou `THO*U`
 * shalt `SHALT`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * token `TO*EPB`
 * book, `PWAOBG KW-BG`
 * snowdrop: `STPHOE/TK-LS/TKROP STPH-FPLT`

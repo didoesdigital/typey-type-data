@@ -187,7 +187,7 @@
 * you `U`
 * enter `SPWER`
 * gate?" `TKPWAET H-F KR-GS`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * well `WEL`
 * describe `SKREU`
 * it," `T KW-BG KR-GS`

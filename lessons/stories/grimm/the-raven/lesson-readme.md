@@ -430,7 +430,7 @@
 * finished `TP*EURBD`
 * words: `WORDZ STPH-FPLT`
 * see `SAOE`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * here `HAOER`
 * free; `TPRAOE STPH*FPLT`
 * if, `TP KW-BG`

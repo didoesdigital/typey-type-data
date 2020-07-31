@@ -111,7 +111,7 @@
 * great `TKPWRAET`
 * deal; `TKAOEL STPH*FPLT`
 * although `HR*T`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * see, `SAOE KW-BG`
 * poor `PAOR`
 * miserable `PHEUZ/-BL`
@@ -271,7 +271,7 @@
 * first, `TPEUFRT KW-BG`
 * agreeable `TKPWRAOEBL`
 * them `THEPL`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * long `HROPBG`
 * dry `TKRAOEU`
 * land, `HRAPBD KW-BG`
@@ -674,7 +674,7 @@
 * run `RUPB`
 * burning `PWURPBG`
 * torches `TOR/-FPS`
-* across `A/KROS`
+* across `KRAOS`
 * smooth `SPHAO*T`
 * ice, `AOEUS KW-BG`
 * transparent `TRAEUPBT`

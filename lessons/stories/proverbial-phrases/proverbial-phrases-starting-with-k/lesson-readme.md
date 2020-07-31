@@ -7,7 +7,7 @@
 * friends `TPREPBDZ`
 * close `KHROES`
 * and `SKP`
-* enemies `EPB/PHEUS`
+* enemies `TPHAEPLS`
 * closer. `KHROERS TP-PL`
 * powder `PO*URD`
 * dry. `TKRAOEU TP-PL`

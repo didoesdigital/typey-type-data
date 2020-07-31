@@ -584,7 +584,7 @@
 * pool. `PAOL TP-PL`
 * footpath `TPAOT/PA*T`
 * led `HRED`
-* across `A/KROS`
+* across `KRAOS`
 * fields `TPAOELDZ`
 * close `KHROES`
 * High `KPA/HAOEU`
@@ -1067,7 +1067,7 @@
 * haughty `HAU/TEU`
 * menials `PHAOEPBL/-S`
 * horror-struck `HOR/O*R H-PB STRUBG`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * sit `SEUT`
 * daughter `TKAUR`
 * end `EPBD`

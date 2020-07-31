@@ -170,7 +170,7 @@ The Old House
 'heap': HAOEP
 'of': -F
 'rubbish': RUB/EURB
-'remain': RE/PHAEUPB
+'remain': RAEUPL
 'here': HAOER
 'to': TO
 'be': -B
@@ -324,7 +324,7 @@ The Old House
 'had': H
 'been': PW-PB
 'in': TPH
-'former': TPORPL/*ER
+'former': TPRORPL
 'times.': TAOEUPLS TP-PL
 'How': KPA/HOU
 'the': -T
@@ -1277,7 +1277,7 @@ The Old House
 'boots,': PWAOTS KW-BG
 'but': PWUT
 'an': APB
-'eagle': AOEG/*L
+'eagle': AOEG/-L
 'with': W
 'two': TWO
 'heads,': HEDZ KW-BG
@@ -1328,7 +1328,7 @@ The Old House
 'old': OLD
 'house.': HOUS TP-PL
 '"I': KR-GS EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'endure': EPB/TKAOUR
 'it,"': T KW-BG KR-GS
 'said': SED
@@ -1358,14 +1358,14 @@ The Old House
 'family,': TPAEPL KW-BG
 'and': SKP
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'get': TKPWET
 'used': AOUFD
 'to': TO
 'this': TH
 'life.': HRAOEUF TP-PL
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'bear': PWAER
 'it.': T TP-PL
 'The': KPA/-T
@@ -1450,7 +1450,7 @@ The Old House
 'grave.': TKPWRAEUF TP-PL
 'Oh,': KPA/O*ERBGS KW-BG
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'bear': PWAER
 'it."': T TP-PL KR-GS
 '"You': KR-GS KPA/U
@@ -1503,7 +1503,7 @@ The Old House
 'soldier,': SHRERPBLG KW-BG
 '"and': KR-GS SKP
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'bear': PWAER
 'it."': T TP-PL KR-GS
 '"You': KR-GS KPA/U
@@ -1655,7 +1655,7 @@ The Old House
 'like': HRAOEUBG
 'another.': TPHOER TP-PL
 '"I': KR-GS EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'bear': PWAER
 'it': T
 'any': TPHEU
@@ -1694,7 +1694,7 @@ The Old House
 'some': SOPL
 'change;': KHAEUPBG STPH*FPLT
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'bear': PWAER
 'it.': T TP-PL
 'Now': KPA/TPHOU
@@ -1998,7 +1998,7 @@ The Old House
 'very': SRE
 'happy;': HAEP STPH*FPLT
 'I': EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'endure': EPB/TKAOUR
 'this': TH
 'life."': HRAOEUF TP-PL KR-GS
@@ -2889,7 +2889,7 @@ The Old House
 'he': HE
 'had': H
 'sent': SEPBT
-'across,': A/KROS KW-BG
+'across,': KRAOS KW-BG
 'because': PWAU
 'he': HE
 'thought': THAUT

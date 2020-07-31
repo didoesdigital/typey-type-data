@@ -326,7 +326,7 @@
 * imperial `EUPL/PAOERL`
 * majesty," `PHAPBLG/STEU KW-BG KR-GS`
 * he, `HE KW-BG`
-* "cannot `KR-GS K/TPHOT`
+* "cannot `KR-GS SK-PBT`
 * believe `PWHREF`
 * contained `KAUPB/TAEUPBD`
 * books; `PWAOBGS STPH*FPLT`
@@ -345,7 +345,7 @@
 * mighty `PHAOEUT/KWREU`
 * Japan, `SKWRA/PAPB KW-BG`
 * therefore `TH-FR`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * contain `TAEUPB`
 * falsehood. `TPALS/HAOD TP-PL`
 * here `HAOER`
@@ -642,7 +642,7 @@
 * fact `TPABGT`
 * visit `SREUFT`
 * successful. `SKEFL TP-PL`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * court, `KORT KW-BG`
 * own `OEPB`
 * cage, `KAEUPBLG KW-BG`
@@ -884,7 +884,7 @@
 * listening `HR-PBG`
 * inside `TPH-DZ`
 * sounded `SOUPBD/-D`
-* "whizz." `KR-GS WEUZ/STKPW* TP-PL KR-GS`
+* "whizz." `KR-GS WEUZ/A*U TP-PL KR-GS`
 * spring `SPREUPBG`
 * cracked. `KRABGD TP-PL`
 * "Whir-r-r-r" `KR-GS KPA/WHEUR H-PB R* H-PB R* H-PB R* KR-GS`

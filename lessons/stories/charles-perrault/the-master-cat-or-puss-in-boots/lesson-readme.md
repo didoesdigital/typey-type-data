@@ -596,7 +596,7 @@
 * "What! `KR-GS KPA/WHA SKHRAPL`
 * Marquis?" `PHAR/KWEUS H-F KR-GS`
 * belong `PWHROPBG`
-* you? `STPHU`
+* you? `U H-F`
 * can `K`
 * finer `TPAOEURPB`
 * court, `KORT KW-BG`

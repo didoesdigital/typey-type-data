@@ -36,7 +36,7 @@
 * Fox, `KPA/TPOBGS KW-BG`
 * how `HOU`
 * are `R`
-* you? `STPHU`
+* you? `U H-F`
 * How `KPA/HOU`
 * all `AUL`
 * with `W`

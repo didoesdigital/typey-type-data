@@ -560,7 +560,7 @@
 * ugly. `ULG TP-PL`
 * Do `KPA/TKO`
 * know `TPHOE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * However, `KPA/HOUF KW-BG`
 * doesn't `TKOPBT`
 * matter, `PHAERT KW-BG`
@@ -617,7 +617,7 @@
 * gold." `TKPWOELD TP-PL KR-GS`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * indeed, `TPHAOEPBD KW-BG`
-* cannot," `K/TPHOT KW-BG KR-GS`
+* cannot," `SK-PBT KW-BG KR-GS`
 * "only `KR-GS OEPBL`
 * think `THEU`
 * profit `PROFT`
@@ -676,7 +676,7 @@
 * bridge `PWREUPBLG`
 * lately `HRAEULT`
 * built `PWEULT`
-* across `A/KROS`
+* across `KRAOS`
 * it, `T KW-BG`
 * middle `PH*EULD`
 * stopped, `STOPD KW-BG`
@@ -753,7 +753,7 @@
 * tar, `TAR KW-BG`
 * whatever `WHAF`
 * stick `STEUBG`
-* remain. `RE/PHAEUPB TP-PL`
+* remain. `RAEUPL TP-PL`
 * And `AFPBD`
 * happened; `HAPD STPH*FPLT`
 * returned, `RURPBD KW-BG`

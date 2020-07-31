@@ -9,7 +9,6 @@
 * permission `PERPLGS`
 * simply `SAO*EPL`
 * possession `PEFGS`
-* nation `TPHA*EUGS`
 * passion `PAGS`
 * difference `TKEUFRPBS`
 * nations `TPHA*EUGSZ`

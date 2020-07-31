@@ -236,7 +236,7 @@
 * almost `HR-PL`
 * small `SPHAL`
 * thou `THO*U`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * water `WAUR`
 * want `WAPBT`
 * however `HOUF`
@@ -471,7 +471,7 @@
 * longer `HRORPBG`
 * art `ART`
 * spoke `SPOEBG`
-* across `A/KROS`
+* across `KRAOS`
 * brother `PWROER`
 * early `ERL`
 * ought `OT`
@@ -721,7 +721,7 @@
 * occasion `KWAEUGS`
 * married `PHAERD`
 * man's `PHAPB/AES`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * food `TPAOD`
 * youth `KWRAO*UT`
 * learned `HRERPBD`
@@ -760,7 +760,7 @@
 * simple `S*EUPL`
 * tree `TRAOE`
 * leaving `HREFG`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * society `SOET`
 * fight `TPAOEUT`
 * wall `WAUL`
@@ -965,7 +965,7 @@
 * island `AOEULD`
 * meeting `PHAOEGT`
 * camp `KAFRP`
-* nation `TPHA*EUGS`
+* nation `TPH-GS`
 * existence `KPEUFS`
 * reply `RE/PHREU`
 * I'd `AOEUD`

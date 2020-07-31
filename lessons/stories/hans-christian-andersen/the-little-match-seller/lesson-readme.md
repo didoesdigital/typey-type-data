@@ -61,7 +61,7 @@
 * them `THEPL`
 * in `TPH`
 * running `R*UPBG`
-* across `A/KROS`
+* across `KRAOS`
 * street `STRAOET`
 * avoid `A/SROEUD`
 * two `TWO`

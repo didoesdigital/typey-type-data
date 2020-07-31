@@ -76,5 +76,5 @@
 * undercover `UPBD/KOFR`
 * voiceover `SROEUS/O*EFR`
 * waiver `WAEUFR`
-* waver `WA*EFR`
+* waver `WAFR`
 * weaver `WAOEFR`

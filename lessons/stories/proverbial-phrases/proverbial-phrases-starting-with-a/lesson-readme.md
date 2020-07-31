@@ -61,7 +61,7 @@
 * dangerous `TKAEUPBLGS`
 * thing. `THEUPBG TP-PL`
 * leopard `HREP/ARD`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * change `KHAEUPBG`
 * spots. `SPOTS TP-PL`
 * mill `PHEUL`

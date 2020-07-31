@@ -515,7 +515,7 @@
 * In `KPA/TPH`
 * home, `HOEPL KW-BG`
 * king, `KEUPBG KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * strange `STRAEUPBG`
 * keep `KAOEP`
 * 'Why?' `AE KPA/KWR H-F AE`

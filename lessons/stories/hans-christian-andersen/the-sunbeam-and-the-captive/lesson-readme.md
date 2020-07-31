@@ -160,7 +160,7 @@
 * rises `RAOEUZ/-Z`
 * thought `THAUT`
 * he `HE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * rightly `RAOEULT`
 * analyze, `APBLZ KW-BG`
 * has `HAS`

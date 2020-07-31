@@ -333,7 +333,7 @@
 * looked `HRAOBGD`
 * just `SKWRUFT`
 * same `SAEUPL`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * times. `TAOEUPLS TP-PL`
 * But `KPA/PWUT`
 * churchyard `KH*URPBLG/KWRARD`

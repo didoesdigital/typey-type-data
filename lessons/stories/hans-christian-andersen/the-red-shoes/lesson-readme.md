@@ -580,7 +580,7 @@
 * out, `OUT KW-BG`
 * come `KOPL`
 * out! `OUT SKHRAPL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * in, `TPH KW-BG`
 * must `PHUFT`
 * dance." `TKAPBS TP-PL KR-GS`
@@ -606,7 +606,7 @@
 * confessed `KAUPB/TPES/-D`
 * sin, `SEUPB KW-BG`
 * struck `STRUBG`
-* across `A/KROS`
+* across `KRAOS`
 * deep `TKAOEP`
 * forest. `TPOEFRT TP-PL`
 * carved `KAFRBD`

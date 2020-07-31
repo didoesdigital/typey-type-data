@@ -154,7 +154,7 @@
 * become `PW-BG`
 * Christian. `KREUGS TP-PL`
 * "I `KR-GS EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * any `TPHEU`
 * longer `HRORPBG`
 * an `APB`
@@ -319,7 +319,7 @@
 * baptism. `PWAPT/EUFPL TP-PL`
 * New `KPA/TPHU`
 * Testament `TEFT/TPH-PL/*PLT`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * sealed `SAOELD`
 * knew `TPHAOU`
 * deal `TKAOEL`
@@ -451,7 +451,7 @@
 * commands `KPHAPBDZ`
 * us `US`
 * forgive `TPAURG`
-* enemies, `EPB/PHEUS KW-BG`
+* enemies, `TPHAEPLS KW-BG`
 * love `HRUF`
 * neighbors; `TPHAEUBS STPH*FPLT`
 * love. `HRUF TP-PL`
@@ -748,7 +748,7 @@
 * beyond `KWROPBD`
 * psalms `SAUPL/-S`
 * Christians `KREUGS/-S`
-* across `A/KROS`
+* across `KRAOS`
 * churchyard, `KH*URPBLG/KWRARD KW-BG`
 * echo `EBG/OE`
 * reaches `RAOEFPS`

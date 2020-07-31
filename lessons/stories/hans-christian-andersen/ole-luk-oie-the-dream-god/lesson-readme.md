@@ -322,7 +322,7 @@
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * willing `-LG`
 * so, `SO KW-BG`
-* cannot," `K/TPHOT KW-BG KR-GS`
+* cannot," `SK-PBT KW-BG KR-GS`
 * letters; `HRERTS STPH*FPLT`
 * "we `KR-GS WE`
 * wretchedly `WREFPD/HREU`
@@ -401,7 +401,7 @@
 * rustled, `RUS/-LD KW-BG`
 * clouds `KHROUDZ`
 * moved `PHOFD`
-* across `A/KROS`
+* across `KRAOS`
 * sky, `SKAOEU KW-BG`
 * casting `KAFT/-G`
 * shadows `SHO*EUDZ`
@@ -786,7 +786,7 @@
 * happy, `HAEP KW-BG`
 * thank `THAPBG`
 * spread `SPRED`
-* hens `HEPB/-S`
+* hens `HEPBZ`
 * clucked, `KHRUBG/-D KW-BG`
 * turned `TURPBD`
 * scarlet `SKARLT`
@@ -975,7 +975,7 @@
 * Ole,' `KPA/O/HRAEU KW-BG AE`
 * me, `PHE KW-BG`
 * 'we `AE WE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * lie `HRAOEU`
 * awake `A/WAEUBG`
 * evil `AOEFL`
@@ -1246,7 +1246,7 @@
 * back `PWABG`
 * holes, `HOELS KW-BG`
 * else `ELS`
-* remain, `RE/PHAEUPB KW-BG`
+* remain, `RAEUPL KW-BG`
 * falling `TPAULG`
 * stars, `STARS KW-BG`
 * tumble `TUPL/-BL`

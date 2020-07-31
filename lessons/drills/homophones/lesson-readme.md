@@ -914,7 +914,7 @@
 * waive `WAEUF`
 * wave `WAF`
 * waiver `WAEUFR`
-* waver `WA*EFR`
+* waver `WAFR`
 * wale `xxx wale`
 * war `WAR`
 * wore `WOR`

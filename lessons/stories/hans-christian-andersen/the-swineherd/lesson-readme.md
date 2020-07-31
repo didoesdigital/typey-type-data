@@ -37,7 +37,7 @@
 * "Will `KR-GS W*EUL`
 * you `U`
 * me?" `PHE H-F KR-GS`
-* ventured `SREPB/KHURD`
+* ventured `SRERPBTD`
 * do `TKO`
 * so, `SO KW-BG`
 * for `TPOR`
@@ -382,7 +382,7 @@
 * "God `KR-GS TKPWO*D`
 * forbid," `TPORBD KW-BG KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * sell `SEL`
 * less," `HRES KW-BG KR-GS`
 * did `TK`

@@ -699,7 +699,7 @@
 * cock `KOBG`
 * struts `STRUTS`
 * scratches `SKRAFPS`
-* hens. `HEPB/-S TP-PL`
+* hens. `HEPBZ TP-PL`
 * proud `PROUD`
 * is! `S SKHRAPL`
 * Now `KPA/TPHOU`
@@ -1031,4 +1031,4 @@
 * teapot," `TAE/POT KW-BG KR-GS`
 * "and `KR-GS SKP`
 * may `PHAE`
-* remain." `RE/PHAEUPB TP-PL KR-GS`
+* remain." `RAEUPL TP-PL KR-GS`

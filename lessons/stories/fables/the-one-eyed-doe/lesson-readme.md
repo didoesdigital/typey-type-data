@@ -68,7 +68,7 @@
 * dying `TKAOEUG`
 * voice, `SROEUS KW-BG`
 * "You `KR-GS KPA/U`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * escape `SKAEP`
 * your `KWROUR`
 * fate." `TPAEUT TP-PL KR-GS`

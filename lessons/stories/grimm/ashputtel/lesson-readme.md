@@ -317,7 +317,7 @@
 * nothing `TPHOG`
 * wear, `WAER KW-BG`
 * all, `AUL KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * even `AOEPB`
 * dance--you `TKAPBS H-PB H-PB U`
 * go `TKPW`
@@ -596,7 +596,7 @@
 * carried `KAERD`
 * third `THEURD`
 * day, `TKAEU KW-BG`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * one, `WUPB KW-BG`
 * gold: `TKPWOELD STPH-FPLT`
 * knew `TPHAOU`

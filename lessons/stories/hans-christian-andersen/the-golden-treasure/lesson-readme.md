@@ -583,7 +583,7 @@
 * It's `KPA/T AES`
 * use `AOUS`
 * thinking `THEUG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * help `HEP`
 * even `AOEPB`
 * far `TPAR`
@@ -806,7 +806,7 @@
 * houses, `HO*UFS KW-BG`
 * burgomaster's `xxx burgomaster AES`
 * gives `TKPWEUFS`
-* Miss `KPA/PHEUS`
+* Miss `PH*EUS`
 * Charlotte `KHARL/OT`
 * piano-forte `PAPB/TPHOE H-PB TPOR/TAEU`
 * lessons." `HROEFPBS TP-PL KR-GS`
@@ -1025,7 +1025,7 @@
 * elves `EFLS`
 * midsummer `PHEUD/SAOURPL`
 * dancing `TKAPBS/-G`
-* across `A/KROS`
+* across `KRAOS`
 * strings. `STREUPBGS TP-PL`
 * sounds `SOUPBDZ`
 * piping `PAOEUPG`

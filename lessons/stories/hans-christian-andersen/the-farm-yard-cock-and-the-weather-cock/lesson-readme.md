@@ -65,7 +65,7 @@
 * must `PHUFT`
 * things, `THEUPBGS KW-BG`
 * too. `TAO TP-PL`
-* hens, `HEPB/-S KW-BG`
+* hens, `HEPBZ KW-BG`
 * ducks, `TKUBGZ KW-BG`
 * animals `PHAPBLS`
 * next `TPHEGT`
@@ -97,7 +97,7 @@
 * latter `HRAERT`
 * has `HAS`
 * neither `TPHAOERT`
-* hens `HEPB/-S`
+* hens `HEPBZ`
 * nor `TPH-R`
 * chicks, `KHEUBGS KW-BG`
 * only `OEPBL`

@@ -72,7 +72,7 @@
 * half `HAF`
 * page `PAEUPBLG`
 * paper, `PAEUP KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * contain? `TAEUPB H-F`
 * From `KPA/TPR`
 * me, `PHE KW-BG`
@@ -279,7 +279,7 @@
 * yet `KWRET`
 * bow `PWOE`
 * glide `TKPWHRAOEUD`
-* across `A/KROS`
+* across `KRAOS`
 * strings `STREUPBGS`
 * so `SO`
 * easily `AOELS`

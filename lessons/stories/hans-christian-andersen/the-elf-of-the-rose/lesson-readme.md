@@ -336,7 +336,7 @@
 * sister `ST-R`
 * suppose `SPOS`
 * dead; `TKED STPH*FPLT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * back, `PWABG KW-BG`
 * dare `TKAEUR`
 * question `KWE`
@@ -658,7 +658,7 @@
 * sleeper, `SHRAOEP/*ER KW-BG`
 * dreadful `TKRED/-FL`
 * dreams `TKRAOEPLS`
-* across `A/KROS`
+* across `KRAOS`
 * pricked `PREUBGD`
 * tongue `TUPBG`
 * poisoned `POEUS/OPBD`

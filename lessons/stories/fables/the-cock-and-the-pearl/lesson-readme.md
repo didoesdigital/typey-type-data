@@ -11,7 +11,7 @@
 * the `-T`
 * farmyard `TPARPL/KWRARD`
 * among `PHOPBG`
-* hens `HEPB/-S`
+* hens `HEPBZ`
 * when `WHEPB`
 * suddenly `SULD`
 * he `HE`

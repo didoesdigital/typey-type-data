@@ -675,7 +675,7 @@
 * secret `SKRET`
 * embassy, `EPL/PWAES KW-BG`
 * questions, `KWES KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * betray `PWE/TRAEU`
 * secret." `SKRET TP-PL KR-GS`
 * stepped `STEPD`
@@ -763,7 +763,7 @@
 * hands." `HAPBDZ TP-PL KR-GS`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * unmarried `UPB/PHAEUR/EUD`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * daughters," `TKAURS KW-BG KR-GS`
 * mother. `PHOER TP-PL`
 * "Fie `KR-GS xxx Fie`
@@ -773,7 +773,7 @@
 * In `KPA/TPH`
 * mean `PHAOEPB`
 * sailed `SAEULD`
-* across `A/KROS`
+* across `KRAOS`
 * ditch `TKEUFP`
 * cabbage `KAB/APBLG`
 * leaf, `HRAOEF KW-BG`

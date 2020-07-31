@@ -198,7 +198,7 @@
 * said `SED`
 * wagon; `WAG/OPB STPH*FPLT`
 * "we `KR-GS WE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * be `-B`
 * noblemen; `TPHOEBL/PH*EPB STPH*FPLT`
 * must `PHUFT`

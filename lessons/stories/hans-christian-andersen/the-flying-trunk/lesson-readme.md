@@ -814,7 +814,7 @@
 * of, `-F KW-BG`
 * packed `PABGD`
 * What `KPA/WHA`
-* whizzing `WEUZ/STKPW*/-G`
+* whizzing `WEUZ/A*U/-G`
 * popping `POPG`
 * off! `OF SKHRAPL`
 * Turks, `TURBGS KW-BG`

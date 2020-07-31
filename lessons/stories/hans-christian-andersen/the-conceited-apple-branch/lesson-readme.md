@@ -318,7 +318,7 @@
 * good `TKPWAOD`
 * often `OFPB`
 * hidden, `HEUD/EPB KW-BG`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * forgotten `TPORGTD`
 * by `PWEU`
 * Him,—not `KPA/HEUPL KW-BG EPL/TKA*RB TPHOT`
@@ -368,7 +368,7 @@
 * made `PHAED`
 * flowers." `TPHRO*URS TP-PL KR-GS`
 * presently `PREPBLT`
-* across `A/KROS`
+* across `KRAOS`
 * whole `WHOEL`
 * group `TKPWROUP`
 * children, `KHEURPB KW-BG`

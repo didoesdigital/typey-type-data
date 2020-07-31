@@ -164,7 +164,7 @@
 * very `SRE`
 * shocking. `SHOBG/-G TP-PL`
 * "We `KR-GS KPA/WE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * expect `KP-PT`
 * happy `HAEP`
 * always," `AULS KW-BG KR-GS`
@@ -479,7 +479,7 @@
 * wisest `WAOEUZ/*ES`
 * plan," `PHRAPB KW-BG KR-GS`
 * that. `THA TP-PL`
-* remain `RE/PHAEUPB`
+* remain `RAEUPL`
 * home, `HOEPL KW-BG`
 * honor, `HO*RPB KW-BG`
 * old `OLD`

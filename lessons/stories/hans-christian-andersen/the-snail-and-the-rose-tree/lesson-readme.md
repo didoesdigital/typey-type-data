@@ -227,7 +227,7 @@
 * bloom `PWHRAOPL`
 * gladness, `TKPWHRAD/-PBS KW-BG`
 * because `PWAU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * otherwise. `O*ERZ TP-PL`
 * sun `SUPB`
 * shone `SHO*EPB`

@@ -387,7 +387,7 @@
 * your `KWROUR`
 * puppets, `PUPT/-S KW-BG`
 * living `HREUFG`
-* actors, `A*RBGTS KW-BG`
+* actors, `ARBGTS KW-BG`
 * their `THAEUR`
 * director. `TKROR TP-PL`
 * believed `PWHREFD`
@@ -477,7 +477,7 @@
 * us `US`
 * all; `AUL STPH*FPLT`
 * distinguished `STKPWAOURBD`
-* actors—at `A*RBGTS EPL/TKA*RB AT`
+* actors—at `ARBGTS EPL/TKA*RB AT`
 * least, `HRAOEFT KW-BG`
 * themselves—and `TH*EPLS EPL/TKA*RB SKP`
 * ready `R-D`
@@ -631,7 +631,7 @@
 * still `STEUL`
 * sitting `SEUGT`
 * consciousness `KOPBS/-PBS`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * foolish `TPAOL/EURB`
 * one. `WUPB TP-PL`
 * inquired `EUPB/KWAOEURD`

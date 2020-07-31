@@ -428,7 +428,7 @@
 * hour `HOUR`
 * when `WHEPB`
 * you; `U STPH*FPLT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * me `PHE`
 * while?' `WHAOEUL H-F AE`
 * unwillingly, `TPH-LG/HREU KW-BG`

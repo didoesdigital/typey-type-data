@@ -165,7 +165,7 @@
 * Then `KPA/THEPB`
 * eye `AOEU`
 * glanced `TKPWHRAPBS/-D`
-* across `A/KROS`
+* across `KRAOS`
 * paling—outside `PAL/-G EPL/TKA*RB OUDZ`
 * bush, `PWURB KW-BG`
 * reddish-blue, `RED/EURB H-PB PWHRU KW-BG`
@@ -375,7 +375,7 @@
 * only `OEPBL`
 * stab `STAB`
 * them! `THEPL SKHRAPL`
-* cannot." `K/TPHOT TP-PL KR-GS`
+* cannot." `SK-PBT TP-PL KR-GS`
 * hung `HUPBG`
 * heads `HEDZ`
 * faded; `TPAEUD/-D STPH*FPLT`

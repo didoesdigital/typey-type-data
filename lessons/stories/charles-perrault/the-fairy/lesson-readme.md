@@ -148,7 +148,7 @@
 * dear, `TKAER KW-BG`
 * mannerly, `PHAERPB/HREU KW-BG`
 * I `EU`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * help `HEP`
 * giving `TKPWEUFG`
 * you `U`

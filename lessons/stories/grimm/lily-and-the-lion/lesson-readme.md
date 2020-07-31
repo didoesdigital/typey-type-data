@@ -503,7 +503,7 @@
 * field `TPAOELD`
 * grove--hast `TKPWROEF H-PB H-PB H*/A*/S*/T*`
 * moon, `PHAOPB KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * help `HEP`
 * egg--break `EG H-PB H-PB PWRAEBG`
 * night-wind `TPHAOEUT H-PB WEUPBD`
@@ -760,7 +760,7 @@
 * seated `SAOETD`
 * themselves `TH*EPLS`
 * Sea. `KPA/SAE TP-PL`
-* across `A/KROS`
+* across `KRAOS`
 * nut `TPHUT`
 * water, `WAUR KW-BG`
 * arose `A/ROES`

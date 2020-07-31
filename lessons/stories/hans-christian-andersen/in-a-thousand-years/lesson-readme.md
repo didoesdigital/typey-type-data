@@ -102,7 +102,7 @@
 * sit `SEUT`
 * look `HRAOBG`
 * out `OUT`
-* across `A/KROS`
+* across `KRAOS`
 * his `HEUS`
 * waving `WAFG`
 * corn `KORPB`

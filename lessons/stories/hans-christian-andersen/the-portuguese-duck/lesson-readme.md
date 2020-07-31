@@ -494,7 +494,7 @@
 * talented `TAL/EPBT/-D`
 * polite. `PHRAOEUT TP-PL`
 * It `KPA/T`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * warn `WARPB`
 * trust `TRUFT`
 * yonder, `KWROPBD/ER KW-BG`
@@ -631,7 +631,7 @@
 * And `AFPBD`
 * then `THEPB`
 * repeated `RE/PAOETD`
-* former `TPORPL/*ER`
+* former `TPRORPL`
 * joke `SKWROEBG`
 * "Portulak," `KR-GS xxx Portulak KW-BG KR-GS`
 * declared `TKE/KHRAEURD`

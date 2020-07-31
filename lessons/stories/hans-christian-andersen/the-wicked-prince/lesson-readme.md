@@ -292,7 +292,7 @@
 * attached `A/TAFPD`
 * swiftness `SWEUFT/-PBS`
 * an `APB`
-* arrow `AR/OE`
+* arrow `RO*EUR`
 * towards `TORDZ`
 * sun. `SUPB TP-PL`
 * soon `SAOPB`

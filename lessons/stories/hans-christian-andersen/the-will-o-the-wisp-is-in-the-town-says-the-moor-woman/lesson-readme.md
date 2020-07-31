@@ -532,7 +532,7 @@
 * crows `KROE/-S`
 * flew `TPHRAOU`
 * hundreds `HUPBS`
-* across `A/KROS`
+* across `KRAOS`
 * screamed, `SKRAOEPLD KW-BG`
 * "Krah! `KR-GS xxx Krah SKHRAPL`
 * da!—Krah! `TKA SKHRAPL EPL/TKA*RB xxx Krah SKHRAPL`
@@ -697,7 +697,7 @@
 * your `KWROUR`
 * pleasure?" `PHRERB H-F KR-GS`
 * he. `HE TP-PL`
-* you? `STPHU`
+* you? `U H-F`
 * You're `KPA/U AE R*/*E`
 * first `TPEUFRT`
 * Are `KPA/R`
@@ -1256,7 +1256,7 @@
 * soon `SAOPB`
 * becomes `PW-BGS`
 * extinguished, `EBGS/TEUPBG/WEURBD KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * lit `HREUT`
 * again; `TKPWEPB STPH*FPLT`
 * led `HRED`

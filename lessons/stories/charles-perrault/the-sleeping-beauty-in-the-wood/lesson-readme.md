@@ -16,7 +16,7 @@
 * no `TPHO`
 * children, `KHEURPB KW-BG`
 * it `T`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * be `-B`
 * expressed. `EBGS/PREFD TP-PL`
 * They `KPA/THE`

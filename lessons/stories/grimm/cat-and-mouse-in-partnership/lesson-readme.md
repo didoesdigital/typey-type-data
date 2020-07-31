@@ -51,7 +51,7 @@
 * 'and `AE SKP`
 * you, `U KW-BG`
 * little `HREUL`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * venture `SREPBT/UR`
 * everywhere, `WEFR KW-BG`
 * you `U`

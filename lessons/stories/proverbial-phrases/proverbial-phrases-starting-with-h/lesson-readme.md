@@ -35,7 +35,7 @@
 * can, `K KW-BG`
 * does; `TKOS STPH*FPLT`
 * he `HE`
-* cannot, `K/TPHOT KW-BG`
+* cannot, `SK-PBT KW-BG`
 * teaches. `TAOEFPS TP-PL`
 * hesitates `HES/TAEUTS`
 * lost. `HRO*S TP-PL`

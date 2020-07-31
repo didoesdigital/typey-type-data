@@ -64,7 +64,7 @@
 * ridge `REUPBLG`
 * gable, `TKPWAEUBL KW-BG`
 * we `WE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * do `TKO`
 * without `WOUT`
 * stork. `STORBG TP-PL`

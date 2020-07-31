@@ -13,7 +13,7 @@
 * he `HE`
 * asked `SK-D`
 * an `APB`
-* Eagle `KPA/AOEG/*L`
+* Eagle `KPA/AOEG/-L`
 * carry `KAER`
 * him `HEUPL`
 * his `HEUS`
@@ -45,7 +45,7 @@
 * Crow, `KPA/KROE KW-BG`
 * who `WHO`
 * said `SED`
-* Eagle: `KPA/AOEG/*L STPH-FPLT`
+* Eagle: `KPA/AOEG/-L STPH-FPLT`
 * "Tortoise `KR-GS KPA/TOR/TOS`
 * is `S`
 * good `TKPWAOD`
@@ -63,7 +63,7 @@
 * was `WAS`
 * Crow's `KPA/KROE AES`
 * answer; `AEPBS STPH*FPLT`
-* Eagle, `KPA/AOEG/*L KW-BG`
+* Eagle, `KPA/AOEG/-L KW-BG`
 * taking `TAEUG`
 * hint, `HEUPBT KW-BG`
 * let `HRET`

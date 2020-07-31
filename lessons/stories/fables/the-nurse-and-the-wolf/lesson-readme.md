@@ -96,7 +96,7 @@
 * "Ah," `KR-GS KPA/HA*E KW-BG KR-GS`
 * galloped `TKPWAL/OP/-D`
 * away, `WA*EU KW-BG`
-* "Enemies `KR-GS KPA/EPB/PHEUS`
+* "Enemies `KR-GS KPA/TPHAEPLS`
 * promises `PROPLS/-S`
 * were `WR`
 * made `PHAED`

@@ -64,7 +64,7 @@
 * muddy `PHUD/KWREU`
 * up `UP`
 * there, `THR KW-BG`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * cause `KAUS`
 * of `-F`
 * it, `T KW-BG`

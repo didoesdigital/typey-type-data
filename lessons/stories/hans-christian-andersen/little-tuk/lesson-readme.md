@@ -143,7 +143,7 @@
 * good `TKPWAOD`
 * boy, `PWOEU KW-BG`
 * run `RUPB`
-* across `A/KROS`
+* across `KRAOS`
 * help `HEP`
 * woman, `WOPL KW-BG`
 * won't `WOEPBT`

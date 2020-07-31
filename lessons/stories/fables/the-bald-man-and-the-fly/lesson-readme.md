@@ -60,4 +60,4 @@
 * notice `TPH-TS`
 * of `-F`
 * despicable `TKE/SPEUBG/-BL`
-* enemies." `EPB/PHEUS TP-PL KR-GS`
+* enemies." `TPHAEPLS TP-PL KR-GS`

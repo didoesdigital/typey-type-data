@@ -140,7 +140,7 @@
 * off `OF`
 * it. `T TP-PL`
 * Away `KPA/WA*EU`
-* across `A/KROS`
+* across `KRAOS`
 * field: `TPAOELD STPH-FPLT`
 * but `PWUT`
 * faster `TPA*FRT`

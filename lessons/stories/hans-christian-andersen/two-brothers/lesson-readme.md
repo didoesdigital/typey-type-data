@@ -249,7 +249,7 @@
 * glided `TKPWHRAOEUD/-D`
 * rolling `ROLG`
 * waves `WAFS`
-* across `A/KROS`
+* across `KRAOS`
 * ocean `OEGS`
 * time, `TAOEUPL KW-BG`
 * came `KAEUPL`
@@ -342,7 +342,7 @@
 * swifter `SWEUF/TER`
 * bird `PWEURD`
 * an `APB`
-* arrow—swifter `AR/OE EPL/TKA*RB SWEUF/TER`
+* arrow—swifter `RO*EUR EPL/TKA*RB SWEUF/TER`
 * anything `TPHEUG`
 * earthly `*ERT/HREU`
 * origin—carried `O*RPBLG EPL/TKA*RB KAERD`

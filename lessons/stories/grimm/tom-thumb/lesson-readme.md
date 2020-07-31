@@ -123,7 +123,7 @@
 * said, `SED KW-BG`
 * 'Well, `AE KPA/WEL KW-BG`
 * we `WE`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * have `SR`
 * got `TKPWOT`
 * what `WHA`

@@ -196,12 +196,12 @@ The Golden Bird
 'and': SKP
 'shot': SHOT
 'an': APB
-'arrow': AR/OE
+'arrow': RO*EUR
 'at': AT
 'it.': T TP-PL
 'But': KPA/PWUT
 'the': -T
-'arrow': AR/OE
+'arrow': RO*EUR
 'did': TK
 'the': -T
 'bird': PWEURD
@@ -432,7 +432,7 @@ The Golden Bird
 'he': HE
 'shot': SHOT
 'his': HEUS
-'arrow': AR/OE
+'arrow': RO*EUR
 'at': AT
 'the': -T
 'fox;': TPOBGS STPH*FPLT
@@ -2091,7 +2091,7 @@ The Golden Bird
 'so': SO
 'he': HE
 'said,': SED KW-BG
-''Cannot': AE KPA/K/TPHOT
+''Cannot': AE KPA/SK-PBT
 'they': THE
 'in': TPH
 'any': TPHEU
@@ -2331,7 +2331,7 @@ The Golden Bird
 'said': SED
 'he,': HE KW-BG
 ''I': AE EU
-'cannot': K/TPHOT
+'cannot': SK-PBT
 'leave': HREF
 'you': U
 'here,': HAOER KW-BG

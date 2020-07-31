@@ -135,7 +135,7 @@
 * himself `HEUPLS`
 * piece `PAOES`
 * right `RAOEUT`
-* across `A/KROS`
+* across `KRAOS`
 * loaf `HROEF`
 * spread `SPRED`
 * over `OEFR`
@@ -491,7 +491,7 @@
 * such `SUFP`
 * fellow, `TP*EL KW-BG`
 * yet `KWRET`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * even `AOEPB`
 * tree!' `TRAOE SKHRAPL AE`
 * They `KPA/THE`

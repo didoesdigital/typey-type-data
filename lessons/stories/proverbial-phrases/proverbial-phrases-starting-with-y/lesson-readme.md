@@ -21,7 +21,7 @@
 * horse `HORS`
 * water, `WAUR KW-BG`
 * but `PWUT`
-* cannot `K/TPHOT`
+* cannot `SK-PBT`
 * make `PHAEUBG`
 * it `T`
 * drink. `TKREU TP-PL`
