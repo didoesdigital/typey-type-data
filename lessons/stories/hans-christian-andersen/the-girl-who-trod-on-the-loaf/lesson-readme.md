@@ -442,7 +442,7 @@
 * than `THAPB`
 * terrible `TERBL`
 * hunger `HURPBG`
-* tormented `TOR/-PLTD`
+* tormented `TORPLTD`
 * stoop `STAOP`
 * break `PWRAEBG`
 * piece `PAOES`

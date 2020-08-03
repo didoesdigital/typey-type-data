@@ -28,7 +28,6 @@
 * unfortunately `UFL`
 * professionals `PREPBLS`
 * communication `KAEUBGS`
-* contraceptive `K*EF`
 * videocassette `SRAOBG`
 * photographing `TPOEFG`
 * magnification `PHA*PBGS`

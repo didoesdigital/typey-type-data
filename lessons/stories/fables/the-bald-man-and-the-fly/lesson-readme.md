@@ -44,7 +44,7 @@
 * instead; `STPHED STPH*FPLT`
 * again `TKPWEPB`
 * the `-T`
-* tormented `TOR/-PLTD`
+* tormented `TORPLTD`
 * him, `HEUPL KW-BG`
 * this `TH`
 * wiser `WAOEUZ/ER`

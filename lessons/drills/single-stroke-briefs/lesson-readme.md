@@ -1408,7 +1408,6 @@
 * continued `T-PBD`
 * contraband `KPWAPBD`
 * contraception `K*EPBGS`
-* contraceptive `K*EF`
 * contract `KR-T`
 * contraction `KRABGS`
 * contradict `KR*BGT`
