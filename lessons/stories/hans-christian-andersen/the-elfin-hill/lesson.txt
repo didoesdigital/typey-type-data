@@ -1294,7 +1294,7 @@ The Elfin Hill
 'two': TWO
 'young': KWRUPBG
 'northern': TPHOERPB
-'goblins;': TKPWOB/HREUPB/-S STPH*FPLT
+'goblins;': TKPWOB/HREUPBS STPH*FPLT
 'they': THE
 'put': PUT
 'their': THAEUR
@@ -1827,7 +1827,7 @@ The Elfin Hill
 'leg': HREG
 '(for': PREPB TPOR
 'the': -T
-'goblins': TKPWOB/HREUPB/-S
+'goblins': TKPWOB/HREUPBS
 'are': R
 'left-legged),': HREFT H-PB HREG/-D PR*EPB KW-BG
 'and': SKP

@@ -614,7 +614,7 @@
 * excepting `KPEPT/-G`
 * young `KWRUPBG`
 * northern `TPHOERPB`
-* goblins; `TKPWOB/HREUPB/-S STPH*FPLT`
+* goblins; `TKPWOB/HREUPBS STPH*FPLT`
 * put `PUT`
 * legs `HREGS`
 * right. `RAOEUT TP-PL`
@@ -797,7 +797,7 @@
 * left `HREFT`
 * leg `HREG`
 * (for `PREPB TPOR`
-* goblins `TKPWOB/HREUPB/-S`
+* goblins `TKPWOB/HREUPBS`
 * left-legged), `HREFT H-PB HREG/-D PR*EPB KW-BG`
 * second `SEBGD`
 * chord `KHORD`

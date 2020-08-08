@@ -860,7 +860,7 @@
 * picking `P*EUG`
 * tub; `TUB STPH*FPLT`
 * songs, `SOPBGS KW-BG`
-* goblins `TKPWOB/HREUPB/-S`
+* goblins `TKPWOB/HREUPBS`
 * sorcerers. `SORS/*ER/-S TP-PL`
 * more `PHOR`
 * pleasant `PHREFPBT`
