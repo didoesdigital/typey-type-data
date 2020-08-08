@@ -319,7 +319,7 @@
 * gone, `TKPWOPB KW-BG`
 * will `HR`
 * soon `SAOPB`
-* forgotten," `TPORGTD KW-BG KR-GS`
+* forgotten," `TPAURGTD KW-BG KR-GS`
 * brother; `PWROER STPH*FPLT`
 * "he `KR-GS HE`
 * come `KOPL`

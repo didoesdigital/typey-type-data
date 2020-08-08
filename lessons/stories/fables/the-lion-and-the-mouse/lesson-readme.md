@@ -43,7 +43,7 @@
 * I `EU`
 * shall `SHAL`
 * never `TPHEFR`
-* forget `TPERGT`
+* forget `TPORGT`
 * it: `T STPH-FPLT`
 * knows `TPHOEZ`
 * but `PWUT`

@@ -970,7 +970,7 @@
 * longing `HROPBG/-G`
 * tear `TAER`
 * accustomed—to `A/KUFPD EPL/TKA*RB TO`
-* forget, `TPERGT KW-BG`
+* forget, `TPORGT KW-BG`
 * possible, `POB KW-BG`
 * individuality; `SREUPBLGT STPH*FPLT`
 * therefore `TH-FR`
@@ -1626,7 +1626,7 @@
 * sun, `SUPB KW-BG`
 * names, `TPHAEUPLS KW-BG`
 * name `TPHAEUPL`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * see, `SAOE KW-BG`
 * moving `PHOFG`
 * sunshine, `SUPB/SHAO*EUPB KW-BG`
@@ -1731,7 +1731,7 @@
 * spectators, `SPEBG/TAEUT/O*RS KW-BG`
 * image `EUPBLG`
 * portrayed `POR/TRAEUD`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * vast `SRAFT`
 * firmament `TPEURPL/*PLT`
 * knows `TPHOEZ`

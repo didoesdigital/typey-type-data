@@ -208,7 +208,7 @@
 * among `PHOPBG`
 * so `SO`
 * far `TPAR`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * becoming `PW-BG/-G`
 * plucks `PHRUBG/-S`
 * out `OUT`
@@ -336,7 +336,7 @@
 * which `WEU`
 * really `R-L`
 * started. `STARTD TP-PL`
-* "Five `KR-GS KPA/TPEUF`
+* "Five `KR-GS KPA/TPAOEUF`
 * hens," `HEPBZ KW-BG KR-GS`
 * now `TPHOU`
 * ran, `RAPB KW-BG`
@@ -384,5 +384,5 @@
 * printed; `PREUPBTD STPH*FPLT`
 * may `PHAE`
 * grow `TKPWROE`
-* five `TPEUF`
+* five `TPAOEUF`
 * hens. `HEPBZ TP-PL`

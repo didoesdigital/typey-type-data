@@ -405,7 +405,7 @@
 * eyes, `AO*EUS KW-BG`
 * even `AOEPB`
 * sick-bed, `SEUBG H-PB PWED KW-BG`
-* forget. `TPERGT TP-PL`
+* forget. `TPORGT TP-PL`
 * How `KPA/HOU`
 * meaning `PHAOEPBG`
 * glance `TKPWHRAPBS`
@@ -635,7 +635,7 @@
 * sisters," `ST-RS KW-BG KR-GS`
 * "Mother, `KR-GS KPA/PHOER KW-BG`
 * surely `SHURL`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * them." `THEPL TP-PL KR-GS`
 * remembered `RERD`
 * those `THOZ`

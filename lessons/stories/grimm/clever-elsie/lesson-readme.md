@@ -311,7 +311,7 @@
 * below: `PWHRO STPH-FPLT`
 * too `TAO`
 * about.' `PW TP-PL AE`
-* five `TPEUF`
+* five `TPAOEUF`
 * them `THEPL`
 * lamenting `HRAPLT/-G`
 * quite `KWAOEUT`

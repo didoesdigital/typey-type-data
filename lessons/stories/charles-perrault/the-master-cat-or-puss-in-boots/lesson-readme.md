@@ -633,7 +633,7 @@
 * possessed, `POS/ES/-D KW-BG`
 * after `AF`
 * drank `TKRA*PBG`
-* five `TPEUF`
+* five `TPAOEUF`
 * six `SEUBGS`
 * glasses: `TKPWHRAFS STPH-FPLT`
 * "It `KR-GS KPA/T`

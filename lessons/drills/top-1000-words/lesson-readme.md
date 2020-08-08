@@ -415,7 +415,7 @@
 * met `PHET`
 * evening `AOEPBG`
 * returned `RURPBD`
-* five `TPEUF`
+* five `TPAOEUF`
 * strong `STROPBG`
 * able `ABL`
 * French `TPREFRPB`
@@ -931,7 +931,7 @@
 * appears `A/PAOERS`
 * Rome `RO*EPL`
 * laugh `HRAF`
-* forget `TPERGT`
+* forget `TPORGT`
 * Europe `AO*URP`
 * passage `PAFPBLG`
 * eight `AET`

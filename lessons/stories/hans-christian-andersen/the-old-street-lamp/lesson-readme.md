@@ -74,7 +74,7 @@
 * her `HER`
 * garret, `TKPWAEUR/RET KW-BG`
 * alone `A/HROEPB`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * The `KPA/-T`
 * lamp `HRAFRP`
 * very `SRE`
@@ -345,7 +345,7 @@
 * weeping. `WAOEP/-G TP-PL`
 * Never `KPA/TPHEFR`
 * shall `SHAL`
-* forget `TPERGT`
+* forget `TPORGT`
 * sorrowful `SOR/ROEFL`
 * me." `PHE TP-PL KR-GS`
 * These `KPA/THEZ`

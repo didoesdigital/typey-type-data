@@ -194,7 +194,7 @@
 * told `TOLD`
 * me `PHE`
 * this, `TH KW-BG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * it! `T SKHRAPL`
 * Now `KPA/TPHOU`
 * will `HR`
@@ -270,7 +270,7 @@
 * what `WHA`
 * preserved `PREFRBD`
 * there `THR`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * Delaying `KPA/TKHRAEUG`
 * forgetting! `TPERGT/-G SKHRAPL`
 * goes `TKPW-S`
@@ -346,10 +346,10 @@
 * It `KPA/T`
 * concealed `KAUPB/SAOELD`
 * hidden, `HEUD/EPB KW-BG`
-* forget `TPERGT`
+* forget `TPORGT`
 * it. `T TP-PL`
 * Delayed `KPA/TKHRAEUD`
-* forgotten! `TPORGTD SKHRAPL`
+* forgotten! `TPAURGTD SKHRAPL`
 * An `KPA/APB`
 * stood `STAOD`
 * large `HRARPBLG`

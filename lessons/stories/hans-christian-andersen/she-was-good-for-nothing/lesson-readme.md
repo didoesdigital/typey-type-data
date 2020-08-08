@@ -867,7 +867,7 @@
 * yes, `KWRE KW-BG`
 * dear, `TKAER KW-BG`
 * mistress," `PHEUS/TRES KW-BG KR-GS`
-* forget `TPERGT`
+* forget `TPORGT`
 * husband `HUS`
 * me." `PHE TP-PL KR-GS`
 * those `THOZ`
@@ -894,7 +894,7 @@
 * believe `PWHREF`
 * became `PWAEUPL`
 * lawyer. `HRAUR TP-PL`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * known `TPHOEPB`
 * lost `HRO*S`
 * looks, `HRAOBGS KW-BG`
@@ -905,7 +905,7 @@
 * misfortune `PHEUZ/TP-RPB`
 * fallen `TPAUL/-PB`
 * "We `KR-GS KPA/WE`
-* five `TPEUF`
+* five `TPAOEUF`
 * hundred `HUPBD`
 * dollars," `TKHRARS KW-BG KR-GS`
 * "and `KR-GS SKP`

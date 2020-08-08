@@ -144,7 +144,7 @@
 * life; `HRAOEUF STPH*FPLT`
 * they `THE`
 * are `R`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * Song `KPA/SOPBG`
 * doth `TKA*UT`
 * not `TPHOT`

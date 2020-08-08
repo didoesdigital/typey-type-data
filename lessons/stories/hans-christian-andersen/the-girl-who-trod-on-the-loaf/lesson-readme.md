@@ -415,7 +415,7 @@
 * face `TPAEUS`
 * vain `SRA*EUPB`
 * proud. `PROUD TP-PL`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * soiled `SOEULD`
 * clothes `KHRO*ETS`
 * become `PW-BG`

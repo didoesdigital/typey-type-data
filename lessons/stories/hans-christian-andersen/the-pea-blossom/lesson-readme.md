@@ -3,7 +3,7 @@
 * There `KPA/THR`
 * were `WR`
 * once `WUPBS`
-* five `TPEUF`
+* five `TPAOEUF`
 * peas `PAOEZ`
 * in `TPH`
 * one `WUPB`
@@ -142,7 +142,7 @@
 * travel `TRAFL`
 * furthest," `TPURT/EFT KW-BG KR-GS`
 * smallest `SPHAUL/EFT`
-* five; `TPEUF STPH*FPLT`
+* five; `TPAOEUF STPH*FPLT`
 * "we `KR-GS WE`
 * see `SAOE`
 * now." `TPHOU TP-PL KR-GS`

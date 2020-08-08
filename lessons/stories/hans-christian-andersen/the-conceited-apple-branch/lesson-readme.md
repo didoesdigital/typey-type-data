@@ -319,7 +319,7 @@
 * often `OFPB`
 * hidden, `HEUD/EPB KW-BG`
 * remain `RAEUPL`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * by `PWEU`
 * Him,—not `KPA/HEUPL KW-BG EPL/TKA*RB TPHOT`
 * only `OEPBL`

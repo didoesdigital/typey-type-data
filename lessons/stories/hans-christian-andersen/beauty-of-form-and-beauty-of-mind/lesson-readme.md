@@ -1024,7 +1024,7 @@
 * mamma-in-law; `PHAPL/PHA H-PB TPH H-PB HRAU STPH*FPLT`
 * "he `KR-GS HE`
 * ugliest, `ULG/KWREFT KW-BG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * wife. `WAOEUF TP-PL`
 * Men `KPA/PHEPB`
 * constancy. `KOPB/STAPB/SEU TP-PL`

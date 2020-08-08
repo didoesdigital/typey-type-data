@@ -372,12 +372,12 @@
 * whither `WHEU/THER`
 * quickly? `KWEULG H-F`
 * Do `KPA/TKO`
-* forget `TPERGT`
+* forget `TPORGT`
 * christening `KREUFPB/-G`
 * today!' `TOED SKHRAPL AE`
 * sleeve, `SHRAOEF KW-BG`
 * Whilst `KPA/WHAOEULS`
-* five `TPEUF`
+* five `TPAOEUF`
 * trotting `TROT/-G`
 * thus `THUS`
 * other, `OER KW-BG`

@@ -35,7 +35,7 @@
 * hear `HAER`
 * now `TPHOU`
 * before `PW-FR`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * emperor's `EPL/ROR AES`
 * palace `PAL/AS`
 * was `WAS`
@@ -187,7 +187,7 @@
 * descriptions `SKREUFPGS`
 * town, `TOUPB KW-BG`
 * palace, `PAL/AS KW-BG`
-* forget `TPERGT`
+* forget `TPORGT`
 * really `R-L`
 * greatest `TKPWRAET/EFT`
 * wonder. `WOPBD TP-PL`
@@ -925,7 +925,7 @@
 * course `KORS`
 * contradicted `KR*EUBGT/-D`
 * him. `HEUPL TP-PL`
-* Five `KPA/TPEUF`
+* Five `KPA/TPAOEUF`
 * grief `TKPWRAOEF`
 * land. `HRAPBD TP-PL`
 * fond `TPOPBD`

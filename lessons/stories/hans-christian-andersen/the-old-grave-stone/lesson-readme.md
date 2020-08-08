@@ -456,10 +456,10 @@
 * shook `SHAOBG`
 * head `HED`
 * mournfully, `PHOURPB/TPHREU KW-BG`
-* "Forgotten! `KR-GS KPA/TPORGTD SKHRAPL`
+* "Forgotten! `KR-GS KPA/TPAURGTD SKHRAPL`
 * yes, `KWRE KW-BG`
 * will `HR`
-* forgotten!" `TPORGTD SKHRAPL KR-GS`
+* forgotten!" `TPAURGTD SKHRAPL KR-GS`
 * conversation `K-FRGS`
 * turned `TURPBD`
 * other `OER`
@@ -550,7 +550,7 @@
 * course `KORS`
 * poem. `POEPL TP-PL`
 * never `TPHEFR`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * live `HREUF`
 * story `STOER`
 * song." `SOPBG TP-PL KR-GS`

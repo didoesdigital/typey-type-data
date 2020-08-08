@@ -71,7 +71,7 @@
 * night, `TPHAOEUT KW-BG`
 * made `PHAED`
 * kites `KAOEUT/-S`
-* five `TPEUF`
+* five `TPAOEUF`
 * pound `POUPBD`
 * notes, `TPHOETS KW-BG`
 * threw `THRAOU`

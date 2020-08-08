@@ -81,7 +81,7 @@
 * mighty `PHAOEUT/KWREU`
 * moment `PHOEPLT`
 * are `R`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * like `HRAOEUBG`
 * those `THOZ`
 * who `WHO`

@@ -181,7 +181,7 @@
 * engaged; `EPB/TKPWAEUPBLGD STPH*FPLT`
 * will `HR`
 * promise `PROPLS`
-* forget `TPERGT`
+* forget `TPORGT`
 * you." `U TP-PL KR-GS`
 * "Much `KR-GS KPA/PHUFP`
 * top; `TOP STPH*FPLT`
@@ -374,7 +374,7 @@
 * swallow; `SWAL STPH*FPLT`
 * fell `TPEL`
 * roof, `RAOF KW-BG`
-* five `TPEUF`
+* five `TPAOEUF`
 * years, `KWRAOERS KW-BG`
 * thoroughly `THORL`
 * drenched. `TKREPB/-FPD TP-PL`

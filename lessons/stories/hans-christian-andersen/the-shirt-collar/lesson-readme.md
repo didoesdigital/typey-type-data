@@ -327,7 +327,7 @@
 * then, `THEPB KW-BG`
 * turned `TURPBD`
 * down. `TKOUPB TP-PL`
-* forget `TPERGT`
+* forget `TPORGT`
 * first `TPEUFRT`
 * love; `HRUF STPH*FPLT`
 * girdle, `TKPWEURD/*L KW-BG`

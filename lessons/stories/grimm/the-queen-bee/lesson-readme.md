@@ -284,7 +284,7 @@
 * life `HRAOEUF`
 * saved) `SAFD PR*EPB`
 * help `HEP`
-* five `TPEUF`
+* five `TPAOEUF`
 * ants; `A*PBT/-S STPH*FPLT`
 * long `HROPBG`
 * before `PW-FR`

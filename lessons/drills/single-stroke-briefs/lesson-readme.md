@@ -469,7 +469,7 @@
 * bier `PWEUR`
 * bifurcation `PWAOEUFRGS`
 * bigger `PWEURG`
-* bight `PWAOEUGT`
+* bight `PW*/*EU/TKPW*/H*/T*`
 * bigot `PWEUGT`
 * bike `PWAOEUBG`
 * biker `PWAOEURBG`
@@ -4646,7 +4646,7 @@
 * serf `S*EFR`
 * serge `SERPBLG`
 * sergeant `S-GT`
-* serial `SAO*ERL`
+* serial `SAOERL`
 * series `SAOERZ`
 * serology `SROLG`
 * serous `S*ERS`

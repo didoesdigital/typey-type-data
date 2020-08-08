@@ -391,7 +391,7 @@
 * mamma `PHAPL/PHA`
 * turned `TURPBD`
 * doors." `TKAORS TP-PL KR-GS`
-* five `TPEUF`
+* five `TPAOEUF`
 * six `SEUBGS`
 * many `PHAEPB`
 * diamonds, `TKAOEUPLDZ KW-BG`

@@ -474,7 +474,7 @@
 * water. `WAUR TP-PL`
 * saw `SAU`
 * "Don't `KR-GS TKO*PB AE T*`
-* forget `TPERGT`
+* forget `TPORGT`
 * names `TPHAEUPLS`
 * these `THEZ`
 * towns," `TOUPBS KW-BG KR-GS`

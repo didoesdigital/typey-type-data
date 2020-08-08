@@ -3,7 +3,7 @@
 * There `KPA/THR`
 * were `WR`
 * once `WUPBS`
-* five-and-twenty `TPEUF H-PB SKP H-PB TWEPBT`
+* five-and-twenty `TPAOEUF H-PB SKP H-PB TWEPBT`
 * tin `TEUPB`
 * soldiers, `SHRERPBLGS KW-BG`
 * who `WHO`

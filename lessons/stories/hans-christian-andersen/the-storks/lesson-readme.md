@@ -680,7 +680,7 @@
 * death," `TK*T KW-BG KR-GS`
 * him `HEUPL`
 * brother. `PWROER TP-PL`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * good `TKPWAOD`
 * boy `PWOEU`
 * laugh `HRAF`

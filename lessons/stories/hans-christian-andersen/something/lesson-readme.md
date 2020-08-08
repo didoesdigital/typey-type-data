@@ -15,7 +15,7 @@
 * said `SED`
 * eldest `ELD/EFT`
 * of `-F`
-* five `TPEUF`
+* five `TPAOEUF`
 * brothers. `PWROERS TP-PL`
 * don't `TKOEPBT`
 * care `KAEUR`
@@ -480,7 +480,7 @@
 * Home `KPA/HOEPL`
 * friends `TPREPBDZ`
 * ne'er `TPH*/*E/AE/*ER`
-* forget, `TPERGT KW-BG`
+* forget, `TPORGT KW-BG`
 * yet." `KWRET TP-PL KR-GS`
 * did. `TK TP-PL`
 * return `RURPB`

@@ -455,7 +455,7 @@
 * those `THOZ`
 * were `WR`
 * buried, `PWUR/EUD KW-BG`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * blue `PWHRU`
 * wood `WAOD`
 * thing `THEUPBG`
@@ -922,7 +922,7 @@
 * of. `-F/TP-PL`
 * arises `A/RAOEUS/-S`
 * within `W-PB`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * things `THEUPBGS`
 * themselves `TH*EPLS`
 * remembered; `RERD STPH*FPLT`
@@ -979,7 +979,7 @@
 * weigh `WAE`
 * reckoning `REBG/-PBG`
 * year; `KWRAOER STPH*FPLT`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * sins `SEUPBZ`
 * against `TKPWEPBS`
 * neighbor, `TPHAEUB KW-BG`
@@ -1259,7 +1259,7 @@
 * pointed `POEUPBTD`
 * crying `KRAOEUG`
 * ride `RAOEUD`
-* forget `TPERGT`
+* forget `TPORGT`
 * child." `KHAOEULD TP-PL KR-GS`
 * gathered `TKPWAERD`
 * hastened `HAEUS/-PBD`

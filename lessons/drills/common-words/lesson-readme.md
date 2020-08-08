@@ -305,7 +305,7 @@
 * fire `TPAOEUR`
 * first `TPEUFRT`
 * fit `TPEUT`
-* five `TPEUF`
+* five `TPAOEUF`
 * fix `TPEUBGS`
 * flash `TPHRARB`
 * flip `TPHREUP`
@@ -317,7 +317,7 @@
 * foot `TPAOT`
 * for `TPOR`
 * force `TPORS`
-* forget `TPERGT`
+* forget `TPORGT`
 * form `TPORPL`
 * forward `TPAORD`
 * found `TPOUPBD`

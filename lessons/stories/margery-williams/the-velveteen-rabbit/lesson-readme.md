@@ -93,7 +93,7 @@
 * new `TPHU`
 * presents `PREPBTS`
 * Velveteen `KPA/SREL/SRE/TAOEPB`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * long `HROPBG`
 * time `TAOEUPL`
 * lived `HREUFD`

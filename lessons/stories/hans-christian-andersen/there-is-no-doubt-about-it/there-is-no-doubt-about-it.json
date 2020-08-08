@@ -375,7 +375,7 @@
 "HAS": "has",
 "SO": "so",
 "TPAR": "far",
-"TPORGTD": "forgotten",
+"TPAURGTD": "forgotten",
 "WHA": "what",
 "S": "is",
 "PW-BG/-G": "becoming",
@@ -689,7 +689,7 @@
 "H": "had",
 "R-L": "really",
 "STARTD TP-PL": "started.",
-"KR-GS KPA/TPEUF": "\"Five",
+"KR-GS KPA/TPAOEUF": "\"Five",
 "HEPBZ KW-BG KR-GS": "hens,\"",
 "T": "it",
 "TPHOU": "now",
@@ -840,6 +840,6 @@
 "AOELS": "easily",
 "TKPWROE": "grow",
 "TPHAO": "into",
-"TPEUF": "five",
+"TPAOEUF": "five",
 "HEPBZ TP-PL": "hens."
 }

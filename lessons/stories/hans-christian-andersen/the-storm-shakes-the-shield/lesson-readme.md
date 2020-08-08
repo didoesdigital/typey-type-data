@@ -322,7 +322,7 @@
 * grandfather. `TKPWR-F TP-PL`
 * Nor `KPA/TPH-R`
 * did `TK`
-* forget `TPERGT`
+* forget `TPORGT`
 * it, `T KW-BG`
 * though `THOE`
 * saw `SAU`
@@ -546,7 +546,7 @@
 * perpetrated `PERP/TRAEUT/-D`
 * gale, `TKPWAEL KW-BG`
 * seemed `SAOEPLD`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * writes `WRAOEUTS`
 * paper `PAEUP`
 * understand `URPBD`

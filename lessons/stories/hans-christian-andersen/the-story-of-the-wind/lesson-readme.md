@@ -160,7 +160,7 @@
 * Dorothea; `xxx Dorothea STPH*FPLT`
 * have `SR`
 * never `TPHEFR`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * their `THAEUR`
 * names. `TPHAEUPLS TP-PL`
 * rich, `REUFP KW-BG`

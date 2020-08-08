@@ -370,7 +370,7 @@
 * interior `SPWER/KWROR`
 * remained `RE/PHAEUPBD`
 * through `THRU`
-* five `TPEUF`
+* five `TPAOEUF`
 * acts, `ABGZ KW-BG`
 * pronounce `PROUPBS`
 * sensible, `SEPBS/-BL KW-BG`

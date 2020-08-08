@@ -962,11 +962,11 @@
 * extravagantly `EBGS/TRAFG/APBT/HREU`
 * merry. `PHER/REU TP-PL`
 * you'll `UL`
-* forget `TPERGT`
+* forget `TPORGT`
 * dignity, `TKEUG/TEU KW-BG`
 * any, `TPHEU KW-BG`
 * ought `OT`
-* forget. `TPERGT TP-PL`
+* forget. `TPORGT TP-PL`
 * dance, `TKAPBS KW-BG`
 * song `SOPBG`
 * sound: `SOUPBD STPH-FPLT`
@@ -1291,7 +1291,7 @@
 * selected `SHREBGTD`
 * us? `US H-F`
 * Perhaps `KPA/PRAPS`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * recorded—small `RORD/-D EPL/TKA*RB SPHAL`
 * pea, `PAE KW-BG`
 * pea `PAE`
@@ -1344,7 +1344,7 @@
 * provisions `PRO/SREUGS/-S`
 * eternity. `AOE/TERPBT TP-PL`
 * king—I `KEUPBG EPL/TKA*RB EU`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * names `TPHAEUPLS`
 * sometimes `STAOEUPLS`
 * day;—there `TKAEU STPH*FPLT EPL/TKA*RB THR`

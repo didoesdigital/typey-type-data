@@ -246,7 +246,7 @@
 * opened `OEPD`
 * whom `WHOPL`
 * quite `KWAOEUT`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * At `KPA/AT`
 * this `TH`
 * sight `SAOEUT`

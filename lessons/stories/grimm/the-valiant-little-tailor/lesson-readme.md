@@ -590,7 +590,7 @@
 * earliest `ERL/KWREFT`
 * dawn `TKAUPB`
 * forest, `TPOEFRT KW-BG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * once `WUPBS`
 * walked `WAUBGD`
 * merrily `PHER/HREU`

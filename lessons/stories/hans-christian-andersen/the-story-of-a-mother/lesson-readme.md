@@ -771,9 +771,9 @@
 * away. `WA*EU TP-PL`
 * kingdom `KEUPBG/TKOPL`
 * God. `TKPWO*D TP-PL`
-* Forget `KPA/TPERGT`
+* Forget `KPA/TPORGT`
 * entreaties; `EPB/TRAOET/KWREUS STPH*FPLT`
-* forget `TPERGT`
+* forget `TPORGT`
 * done." `TKOPB TP-PL KR-GS`
 * understand `URPBD`
 * "Will `KR-GS W*EUL`

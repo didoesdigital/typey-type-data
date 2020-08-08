@@ -690,7 +690,7 @@
 * four `TPOUR`
 * eight `AET`
 * work, `WORBG KW-BG`
-* five, `TPEUF KW-BG`
+* five, `TPAOEUF KW-BG`
 * last `HRAFT`
 * work. `WORBG TP-PL`
 * 'what `AE WHA`

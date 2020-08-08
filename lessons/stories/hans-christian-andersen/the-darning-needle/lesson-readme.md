@@ -268,7 +268,7 @@
 * newspaper; `TPHAOUP STPH*FPLT`
 * written `WREUPB`
 * been `PW-PB`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * ago, `AG KW-BG`
 * yet `KWRET`
 * gives `TKPWEUFS`
@@ -320,7 +320,7 @@
 * cook. `KAOBG TP-PL`
 * She `KPA/SHE`
 * hand `HAPBD`
-* five `TPEUF`
+* five `TPAOEUF`
 * anything `TPHEUG`
 * these `THEZ`
 * seen; `SAOEPB STPH*FPLT`
@@ -503,7 +503,7 @@
 * sea-sickness `SAE H-PB SEUBG/-PBS`
 * steel `STAOEL`
 * stomach, `STUPL KW-BG`
-* forget `TPERGT`
+* forget `TPORGT`
 * one's `W*UPBS`
 * own `OEPB`
 * importance. `PORPBS TP-PL`

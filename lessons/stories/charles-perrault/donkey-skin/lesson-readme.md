@@ -1211,7 +1211,7 @@
 * drew `TKRAOU`
 * cleverly `KHREFRL`
 * mouth, `PHO*UT KW-BG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * examined `KP-D`
 * fine `TPAOEUPB`
 * emerald `EPL/RALD`

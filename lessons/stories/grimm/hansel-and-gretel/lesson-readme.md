@@ -292,7 +292,7 @@
 * for? `TPOR H-F`
 * Pay `KPA/PAEU`
 * attention, `TAEPBGS KW-BG`
-* forget `TPERGT`
+* forget `TPORGT`
 * use `AOUS`
 * legs.' `HREGS TP-PL AE`
 * 'Ah, `AE KPA/HA*E KW-BG`

@@ -300,7 +300,7 @@
 * through `THRU`
 * underground `UPBD/TKPWROUPBD`
 * passage, `PAFPBLG KW-BG`
-* forget `TPERGT`
+* forget `TPORGT`
 * On `KPA/OPB`
 * way `WAEU`
 * showed `SHOED`
@@ -568,7 +568,7 @@
 * thrown `THROEPB`
 * prison. `PREUZ TP-PL`
 * flight `TPHRAOEUT`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * most `PHOFT`
 * valuable `SRABL`
 * things `THEUPBGS`

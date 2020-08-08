@@ -518,7 +518,7 @@
 * nothing; `TPHOG STPH*FPLT`
 * room, `RAOPL KW-BG`
 * don't `TKOEPBT`
-* forget `TPERGT`
+* forget `TPORGT`
 * "Good `KR-GS KPA/TKPWAOD`
 * morning", `PHORPBG KR-GS KW-BG`
 * peep `PAOEP`

@@ -1224,7 +1224,7 @@ The Bottle Neck
 'never': TPHEFR
 'after': AF
 'that': THA
-'forget': TPERGT
+'forget': TPORGT
 'the': -T
 'performance': P-FRPBS
 'of': -F
@@ -2829,7 +2829,7 @@ The Bottle Neck
 'left': HREFT
 'there': THR
 'and': SKP
-'forgotten.': TPORGTD TP-PL
+'forgotten.': TPAURGTD TP-PL
 '"There's': KR-GS KPA/THR AES
 'no': TPHO
 'place': PHRAEUS
@@ -3121,7 +3121,7 @@ The Bottle Neck
 'is': S
 'easy': EZ
 'to': TO
-'forget': TPERGT
+'forget': TPORGT
 'that': THA
 'one': WUPB
 'has': HAS
@@ -3275,7 +3275,7 @@ The Bottle Neck
 'never': TPHEFR
 'to': TO
 'be': -B
-'forgotten,': TPORGTD KW-BG
+'forgotten,': TPAURGTD KW-BG
 'let': HRET
 'a': AEU
 'maiden': PHAEUD/*EPB

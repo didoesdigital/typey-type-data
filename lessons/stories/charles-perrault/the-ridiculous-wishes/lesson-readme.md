@@ -97,7 +97,7 @@
 * on `OPB`
 * "My `KR-GS KPA/PHEU`
 * lord," `HRORD KW-BG KR-GS`
-* "forget `KR-GS TPERGT`
+* "forget `KR-GS TPORGT`
 * my `PHEU`
 * foolish `TPAOL/EURB`
 * speech; `SPAOEFP STPH*FPLT`

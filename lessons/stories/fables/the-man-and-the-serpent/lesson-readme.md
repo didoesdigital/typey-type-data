@@ -63,7 +63,7 @@
 * said `SED`
 * it: `T STPH-FPLT`
 * "Let's `KR-GS KPA/HRET AES`
-* forget `TPERGT`
+* forget `TPORGT`
 * forgive; `TPAURG STPH*FPLT`
 * perhaps `PRAPS`
 * you `U`
@@ -109,4 +109,4 @@
 * Injuries `KPA/SKWR*RS`
 * may `PHAE`
 * forgiven, `TPAURGD KW-BG`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`

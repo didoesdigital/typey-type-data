@@ -304,7 +304,7 @@
 * parlour `PAR/HROR/A*U`
 * door. `TKAOR TP-PL`
 * With `KPA/W`
-* five `TPEUF`
+* five `TPAOEUF`
 * gold `TKPWOELD`
 * rings `REUPBGS`
 * knocks: `TPHOBGS STPH-FPLT`

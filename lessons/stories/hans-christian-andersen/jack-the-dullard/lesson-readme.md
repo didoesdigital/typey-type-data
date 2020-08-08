@@ -499,7 +499,7 @@
 * did `TK`
 * now; `TPHOU STPH*FPLT`
 * absolutely `SHRAOULT`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * altogether; `HR-GT STPH*FPLT`
 * boards `PWORDZ`
 * re-echo `R*E EBG/KWRO`

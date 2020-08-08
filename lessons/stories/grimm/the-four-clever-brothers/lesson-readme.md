@@ -327,7 +327,7 @@
 * are `R`
 * it.' `T TP-PL AE`
 * star-gazer `STAR H-PB xxx gazer`
-* 'Five.' `AE KPA/TPEUF TP-PL AE`
+* 'Five.' `AE KPA/TPAOEUF TP-PL AE`
 * 'Now,' `AE KPA/TPHOU KW-BG AE`
 * 'take `AE TAEUBG`
 * away `WA*EU`
@@ -342,7 +342,7 @@
 * climbed `KHRAOEUPLD`
 * up `UP`
 * brought `PWRAUT`
-* five `TPEUF`
+* five `TPAOEUF`
 * bird; `PWEURD STPH*FPLT`
 * saw `SAU`
 * felt `TPELT`

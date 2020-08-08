@@ -430,7 +430,7 @@
 * so." `SO TP-PL KR-GS`
 * came `KAEUPL`
 * ditch; `TKEUFP STPH*FPLT`
-* forget-me-nots `TPERGT H-PB PHE H-PB TPHOT/-S`
+* forget-me-nots `TPORGT H-PB PHE H-PB TPHOT/-S`
 * growing `TKPWROEG`
 * there, `THR KW-BG`
 * meadow-sweet; `PHED/OE H-PB SWAOET STPH*FPLT`

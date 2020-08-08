@@ -75,7 +75,7 @@
 * only `OEPBL`
 * once `WUPBS`
 * in `TPH`
-* five `TPEUF`
+* five `TPAOEUF`
 * years, `KWRAOERS KW-BG`
 * then `THEPB`
 * had `H`

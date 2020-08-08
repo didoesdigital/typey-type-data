@@ -368,7 +368,7 @@
 * time `TAOEUPL`
 * stood `STAOD`
 * window, `WOEUPBD KW-BG`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * at `AT`
 * length `HREPBG`
 * cast `KAFT`

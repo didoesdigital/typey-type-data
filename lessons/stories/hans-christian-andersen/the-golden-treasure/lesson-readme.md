@@ -973,7 +973,7 @@
 * "I `KR-GS EU`
 * fortune, `TP-RPB KW-BG`
 * pupil, `PAOUPL KW-BG`
-* forget `TPERGT`
+* forget `TPORGT`
 * master." `PHAFRT TP-PL KR-GS`
 * "His `KR-GS KPA/HEUS`
 * cross. `KROS TP-PL`

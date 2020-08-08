@@ -684,7 +684,7 @@
 * an `APB`
 * apple `A*EPL`
 * fig `TP*EUG`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * "A `KR-GS KPA/AEU`
 * story, `STOER KW-BG`
 * story," `STOER KW-BG KR-GS`

@@ -718,5 +718,5 @@
 * rest `REFT`
 * worthy `WO*RT/KWREU`
 * gentleman, `SKWRA*PL KW-BG`
-* forget `TPERGT`
+* forget `TPORGT`
 * ill `EUL`

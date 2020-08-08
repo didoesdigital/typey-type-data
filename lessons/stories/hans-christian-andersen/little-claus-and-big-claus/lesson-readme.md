@@ -77,7 +77,7 @@
 * smack `SPHABG`
 * whip `WHEUP`
 * over `OEFR`
-* five `TPEUF`
+* five `TPAOEUF`
 * they `THE`
 * as `AZ`
 * good `TKPWAOD`

@@ -394,7 +394,7 @@
 * beautifully `PWAOUFL/HREU`
 * solemnly `SOL/EPL/HREU`
 * four `TPOUR`
-* five `TPEUF`
+* five `TPAOEUF`
 * their `THAEUR`
 * minds `PHAOEUPBDZ`
 * still `STEUL`

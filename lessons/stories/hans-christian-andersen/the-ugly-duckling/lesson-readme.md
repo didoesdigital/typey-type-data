@@ -1036,7 +1036,7 @@
 * frightened `TPRAOEUFPBD`
 * himself. `HEUPLS TP-PL`
 * Could `KPA/KO`
-* forget `TPERGT`
+* forget `TPORGT`
 * beautiful, `PWAOUFL KW-BG`
 * happy `HAEP`
 * birds; `PWEURDZ STPH*FPLT`

@@ -523,7 +523,7 @@
 * drawn `TKRAUPB`
 * time! `TAOEUPL SKHRAPL`
 * never `TPHEFR`
-* forget `TPERGT`
+* forget `TPORGT`
 * performance `P-FRPBS`
 * moment; `PHOEPLT STPH*FPLT`
 * indeed `TPHAOEPBD`
@@ -979,7 +979,7 @@
 * contents `KAUPBTS`
 * itself `T/SEFL`
 * left `HREFT`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * "There's `KR-GS KPA/THR AES`
 * cellar." `SEL/AR TP-PL KR-GS`
 * occurred `KROEURD`
@@ -1089,7 +1089,7 @@
 * herself `H*ERS`
 * pair; `PAEUR STPH*FPLT`
 * hours `HOURS`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * let `HRET`
 * maiden `PHAEUD/*EPB`
 * may. `PHAE TP-PL`

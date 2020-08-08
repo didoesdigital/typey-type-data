@@ -598,7 +598,7 @@
 * if `TP`
 * we `WE`
 * cannot `SK-PBT`
-* forget `TPERGT`
+* forget `TPORGT`
 * crime. `KRAOEUPL TP-PL`
 * ship `SHEUP`
 * sails `SAEULS`

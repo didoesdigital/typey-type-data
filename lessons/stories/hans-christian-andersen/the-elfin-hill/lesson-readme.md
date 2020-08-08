@@ -863,7 +863,7 @@
 * any `TPHEU`
 * subject. `SUBT TP-PL`
 * "Here `KR-GS KPA/HAOER`
-* five `TPEUF`
+* five `TPAOEUF`
 * fingers," `TPEURPBGS KW-BG KR-GS`
 * "now `KR-GS TPHOU`
 * story `STOER`

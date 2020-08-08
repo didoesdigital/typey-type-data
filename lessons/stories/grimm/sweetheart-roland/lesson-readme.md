@@ -557,7 +557,7 @@
 * bride, `PWRAOEUD KW-BG`
 * other!' `OER SKHRAPL AE`
 * Everything `KPA/EFRG`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * vanished `SRAPB/EURBD`
 * mind, `PHAOEUPBD KW-BG`
 * suddenly `SULD`

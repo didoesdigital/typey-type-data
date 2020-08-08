@@ -550,7 +550,7 @@
 * joy `SKWROEU`
 * happiness `HAEP/-PBS`
 * morning, `PHORPBG KW-BG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * it, `T KW-BG`
 * although `HR*T`
 * remembered `RERD`
@@ -765,7 +765,7 @@
 * always `AULS`
 * sang `SAPBG`
 * never `TPHEFR`
-* forget `TPERGT`
+* forget `TPORGT`
 * that!" `THA SKHRAPL KR-GS`
 * during `TKURG`
 * whole `WHOEL`

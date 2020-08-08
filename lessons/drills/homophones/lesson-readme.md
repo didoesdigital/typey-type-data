@@ -97,7 +97,7 @@
 * birth `PW*EURT`
 * better `PWOERT`
 * bettor `PWET/TOR`
-* bight `PWAOEUGT`
+* bight `PW*/*EU/TKPW*/H*/T*`
 * bite `PWAOEUT`
 * billed `PW*EULD`
 * build `PWEULD`
@@ -186,7 +186,7 @@
 * scents `SKREPBT/-S`
 * sense `SEPBS`
 * cereal `KRAOERL`
-* serial `SAO*ERL`
+* serial `SAOERL`
 * cession `KREGS`
 * session `SEGS`
 * chaise `KHAEUZ`
@@ -255,7 +255,7 @@
 * queue `KWAOU`
 * currant `KUR/RAPBT`
 * current `KURPBT`
-* curser `xxx curser`
+* curser `KURS/*ER`
 * cursor `KUR/SOR`
 * dam `TKAPL`
 * damn `TKA*EPL`
@@ -268,7 +268,7 @@
 * dense `TKEPBS`
 * dents `TKEPBTS`
 * dependence `TKPEPBS`
-* dependents `TKPEPBD/TKEPBTS`
+* dependents `TKPEPBTS`
 * dew `TKAO*U`
 * do `TKO`
 * due `TKAOU`
@@ -284,7 +284,7 @@
 * doughs `TKOE/-S`
 * doze `TKOEZ`
 * done `TKOPB`
-* dun `xxx dun`
+* dun `TKUPB`
 * dual `TKAOUL`
 * duel `TKAO*UL`
 * ducked `TKUBGD`
@@ -349,7 +349,7 @@
 * fourth `TPO*URT`
 * foul `TPOUL`
 * fowl `TPO*UL`
-* frees `TPRAOE/-S`
+* frees `TPRAOES`
 * freeze `TPRAOEZ`
 * frieze `TPRAO*EZ`
 * friar `TPRAOEU/A*R`
@@ -452,10 +452,10 @@
 * incite `EUPB/KRAOEUT`
 * insight `EUPB/SAOEUT`
 * instance `STPHAPBS`
-* instants `STPHAPBT/-S`
+* instants `STPHAPBTS`
 * intense `SPWEPBS`
 * intents `EUPB/TEPBTS`
-* intension `EUPB/TEPBGS`
+* intension `EUPB/TK-LS/TEPBGS`
 * intention `SPWEPBGS`
 * it's `T-S`
 * its `EUTS`
@@ -524,7 +524,7 @@
 * lie `HRAOEU`
 * lye `HRAO*EU`
 * links `HR*EUPBGS`
-* lynx `HREUPBGS`
+* lynx `HRAO*EPBGS`
 * lo `HRO`
 * low `HROE`
 * load `HRAOD`
@@ -684,7 +684,7 @@
 * presents `PREPBTS`
 * pride `PRAOEUD`
 * pried `PRAOEU/-D`
-* prier `xxx prier`
+* prier `PRAOEU/*ER`
 * prior `PROEUR`
 * pries `PRAOEU/-S`
 * prize `PRAOEUZ`

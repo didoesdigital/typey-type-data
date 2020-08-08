@@ -381,6 +381,6 @@
 * has `HAS`
 * healed, `HAELD KW-BG`
 * things `THEUPBGS`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * Now `KPA/TPHOU`
 * is. `S TP-PL`

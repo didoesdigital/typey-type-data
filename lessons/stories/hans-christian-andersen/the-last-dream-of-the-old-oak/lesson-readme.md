@@ -771,7 +771,7 @@
 * joyful `SKWROEUFL`
 * tone. `TOEPB TP-PL`
 * "I `KR-GS EU`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * Can `KPA/K`
 * such `SUFP`
 * imagined?" `PHAPBLGD H-F KR-GS`

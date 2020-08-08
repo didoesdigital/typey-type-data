@@ -582,7 +582,7 @@
 * councillors `KOUPB/SEU/HROR/-S`
 * place; `PHRAEUS STPH*FPLT`
 * wife `WAOEUF`
-* five `TPEUF`
+* five `TPAOEUF`
 * daughters, `TKAURS KW-BG`
 * folded `TPOELD/-D`
 * hands `HAPBDZ`

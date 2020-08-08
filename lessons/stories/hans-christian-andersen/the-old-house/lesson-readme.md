@@ -1015,7 +1015,7 @@
 * "Yes, `KR-GS KPA/KWRE KW-BG`
 * lonely," `HROEPBL KW-BG KR-GS`
 * "still `KR-GS STEUL`
-* forgotten." `TPORGTD TP-PL KR-GS`
+* forgotten." `TPAURGTD TP-PL KR-GS`
 * "Delightful `KR-GS KPA/TKHRAOEUT/-FL`
 * indeed," `TPHAOEPBD KW-BG KR-GS`
 * voice `SROEUS`

@@ -320,7 +320,7 @@
 * far `TPAR`
 * enough `TPHUF`
 * away `WA*EU`
-* forgotten. `TPORGTD TP-PL`
+* forgotten. `TPAURGTD TP-PL`
 * house, `HOUS KW-BG`
 * pointed `POEUPBTD`
 * gable, `TKPWAEUBL KW-BG`
@@ -463,7 +463,7 @@
 * front!" `TPROPBT SKHRAPL KR-GS`
 * long `HROPBG`
 * quite `KWAOEUT`
-* forgotten, `TPORGTD KW-BG`
+* forgotten, `TPAURGTD KW-BG`
 * imagined `PHAPBLGD`
 * again `TKPWEPB`
 * melting `PHELT/-G`

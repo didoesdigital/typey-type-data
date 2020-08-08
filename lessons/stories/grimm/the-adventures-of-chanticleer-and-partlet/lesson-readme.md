@@ -216,7 +216,7 @@
 * miles `PHAOEULS`
 * off, `OF KW-BG`
 * drinking `TKREUG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * how `HOU`
 * late `HRAEUT`
 * was; `WAS STPH*FPLT`

@@ -65,7 +65,7 @@
 * fell `TPEL`
 * need `TPHAOED`
 * met `PHET`
-* five `TPEUF`
+* five `TPAOEUF`
 * live `HREUF`
 * fear `TPAOER`
 * doubt `TKOUT`

@@ -304,7 +304,7 @@
 * 'you `AE U`
 * always `AULS`
 * afraid; `A/TPRAEUD STPH*FPLT`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * many `PHAEPB`
 * kings' `KEUPBGS AE`
 * sons `SOPBS`

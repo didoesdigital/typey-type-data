@@ -95,7 +95,7 @@
 * whole `WHOEL`
 * must `PHUFT`
 * have `SR`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * themselves `TH*EPLS`
 * over `OEFR`
 * game `TKPWAEUPL`

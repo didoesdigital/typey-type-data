@@ -662,7 +662,7 @@
 * sink `S*EUPBG`
 * ground. `TKPWROUPBD TP-PL`
 * What `KPA/WHA`
-* forget `TPERGT`
+* forget `TPORGT`
 * when `WHEPB`
 * promise, `PROPLS KW-BG`
 * silly, `SEUL/HREU KW-BG`

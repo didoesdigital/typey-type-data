@@ -1117,7 +1117,7 @@
 * hen `HEPB`
 * yard, `KWRARD KW-BG`
 * brought `PWRAUT`
-* five `TPEUF`
+* five `TPAOEUF`
 * broods `PWRAODZ`
 * grapes `TKPWRAEUPS`
 * hang `HAPBG`

@@ -588,7 +588,7 @@
 * if, `TP KW-BG`
 * therefore, `TH-FR KW-BG`
 * dost `TK*/O*/S*/T*`
-* forget `TPERGT`
+* forget `TPORGT`
 * nut, `TPHUT KW-BG`
 * sea.' `SAE TP-PL AE`
 * our `OUR`
@@ -749,7 +749,7 @@
 * spell `SPEL`
 * me, `PHE KW-BG`
 * altogether `HR-GT`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * Heaven `KPA/HEFPB`
 * hath `HA*T`
 * sent `SEPBT`

@@ -1178,7 +1178,7 @@
 * art `ART`
 * lord. `HRORD TP-PL`
 * being `-BG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * livest. `xxx livest TP-PL`
 * hour `HOUR`
 * thy `THAO*EU`

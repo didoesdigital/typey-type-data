@@ -133,7 +133,7 @@
 * out, `OUT KW-BG`
 * peeped `PAOEPD`
 * saw `SAU`
-* five `TPEUF`
+* five `TPAOEUF`
 * or `OR`
 * six `SEUBGS`
 * ones `WUPBZ`

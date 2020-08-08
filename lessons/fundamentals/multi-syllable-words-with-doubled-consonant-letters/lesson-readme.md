@@ -94,7 +94,7 @@
 * marry `PHAER`
 * excellent `KPHREPBT`
 * finally `TPHRAOEUPBL`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * possessed `POS/ES/-D`
 * progress `PROG`
 * narrow `TPHO*EUR`

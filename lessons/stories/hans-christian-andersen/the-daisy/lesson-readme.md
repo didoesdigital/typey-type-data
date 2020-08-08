@@ -461,7 +461,7 @@
 * "they `KR-GS THE`
 * gone `TKPWOPB`
 * out, `OUT KW-BG`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * give `TKPWEUF`
 * me `PHE`
 * anything `TPHEUG`

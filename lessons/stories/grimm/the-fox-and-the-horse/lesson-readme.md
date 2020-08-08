@@ -102,7 +102,7 @@
 * house; `HOUS STPH*FPLT`
 * master `PHAFRT`
 * has `HAS`
-* forgotten `TPORGTD`
+* forgotten `TPAURGTD`
 * all `AUL`
 * have `SR`
 * done `TKOPB`
