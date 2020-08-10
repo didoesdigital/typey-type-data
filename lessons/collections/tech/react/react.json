@@ -20,6 +20,7 @@
 "S-P/KPOEPBT/TKEUD/AUD": "componentDidUpdate",
 "S-P/KPOEPBT/WEUL/UPB/PHO*UPBT": "componentWillUnmount",
 "S-P/KPOEPBT/TKEUD/KA*FP": "componentDidCatch",
+"S-P/TKPWET/TKRAOEUFD/STAEUT/TPR/PRO*PS": "getDerivedStateFromProps",
 "S-P/TKPWET/TKRAOEUFD/STAEUT/TPR/RO*EUR": "getDerivedStateFromError",
 "S-P/TPRO*E": "=>",
 "SKP*Z": "&&",
