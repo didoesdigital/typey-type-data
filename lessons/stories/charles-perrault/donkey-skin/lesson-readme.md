@@ -798,7 +798,7 @@
 * sent `SEPBT`
 * hundred `HUPBD`
 * gendarmes, `SKWRAPB/TKARPL/-S KW-BG`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * musketeers `PHUFBG/TAOER/-S`
 * quest `KWEFT`
 * her; `HER STPH*FPLT`

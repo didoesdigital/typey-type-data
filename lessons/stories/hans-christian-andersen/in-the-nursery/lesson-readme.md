@@ -556,7 +556,7 @@
 * chorus, `KHOURS KW-BG`
 * "'Klink! `KR-GS AE xxx Klink SKHRAPL`
 * clanks! `KHRA*PBG/-S SKHRAPL`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * thanks; `THAPBGS STPH*FPLT`
 * over!' `OEFR SKHRAPL AE`
 * applaud," `A/PHRAUD KW-BG KR-GS`

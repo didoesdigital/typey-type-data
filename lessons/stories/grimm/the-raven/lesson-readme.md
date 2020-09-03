@@ -607,7 +607,7 @@
 * older `OERLD`
 * looking `HRAOG`
 * many `PHAEPB`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * miles `PHAOEULS`
 * away. `WA*EU TP-PL`
 * 'How `AE KPA/HOU`

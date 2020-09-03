@@ -3,7 +3,7 @@
 * Yes, `KPA/KWRE KW-BG`
 * in `TPH`
 * a `AEU`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * years `KWRAOERS`
 * people `PAOEPL`
 * will `HR`

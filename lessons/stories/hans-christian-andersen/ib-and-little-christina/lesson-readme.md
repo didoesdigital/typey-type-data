@@ -1193,7 +1193,7 @@
 * wife `WAOEUF`
 * died `TKAOEUD`
 * property, `PROT KW-BG`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * dollars, `TKHRARS KW-BG`
 * inherited `EUPB/HERTD`
 * son. `SOPB TP-PL`

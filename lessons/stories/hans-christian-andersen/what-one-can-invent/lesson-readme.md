@@ -56,7 +56,7 @@
 * "Happy `KR-GS KPA/HAEP`
 * people `PAOEPL`
 * were `WR`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * years `KWRAOERS`
 * ago!" `AG SKHRAPL KR-GS`
 * said `SED`

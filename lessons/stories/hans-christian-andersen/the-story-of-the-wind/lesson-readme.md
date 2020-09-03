@@ -1203,7 +1203,7 @@
 * clattering `KHRAT/ERG`
 * ground, `TKPWROUPBD KW-BG`
 * brake `PWRAEUBG`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * pieces. `PAOEFS TP-PL`
 * bubble `PWUBL`
 * happiness `HAEP/-PBS`

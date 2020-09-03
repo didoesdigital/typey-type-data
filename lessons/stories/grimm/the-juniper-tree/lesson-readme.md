@@ -5,7 +5,7 @@
 * ago, `AG KW-BG`
 * some `SOPL`
 * two `TWO`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * years `KWRAOERS`
 * or `OR`
 * so, `SO KW-BG`

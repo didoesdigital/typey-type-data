@@ -384,7 +384,7 @@
 * boy `PWOEU`
 * lost `HRO*S`
 * forth `TPO*RT`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * looking `HRAOG`
 * I'll `AOEUL`
 * family `TPAEPL`

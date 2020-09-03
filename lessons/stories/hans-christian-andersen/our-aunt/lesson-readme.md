@@ -266,7 +266,7 @@
 * paces `PAEUS/-S`
 * theatre; `THAO*ERT STPH*FPLT`
 * I've `AOEUF`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * go, `TKPW-RBGS`
 * military `PHEUL/TAER`
 * measurement." `PHEPLT TP-PL KR-GS`

@@ -50,7 +50,7 @@
 * indeed. `TPHAOEPBD TP-PL`
 * journey `SKWRURPB`
 * of `-F`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * miles `PHAOEULS`
 * begins `TKPWEUPBS`
 * with `W`

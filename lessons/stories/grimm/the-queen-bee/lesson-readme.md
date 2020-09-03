@@ -230,7 +230,7 @@
 * wood, `WAOD KW-BG`
 * moss, `PHOS KW-BG`
 * lie `HRAOEU`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * pearls `PERLS`
 * belonging `PWE/HROPBG/-G`
 * king's `KEUPBG/AES`

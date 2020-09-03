@@ -442,7 +442,7 @@
 * broke `PWROEBG`
 * goods `TKPWAODZ`
 * into `TPHAO`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * pieces. `PAOEFS TP-PL`
 * cry, `KRAOEU KW-BG`
 * do. `TKO TP-PL`

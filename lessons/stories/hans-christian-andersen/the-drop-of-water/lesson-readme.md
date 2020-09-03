@@ -46,7 +46,7 @@
 * he `HE`
 * sees `SAO*ES`
 * above `PWOF`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * wonderful `WUFL`
 * creatures `KRAOEFPS`
 * are `R`

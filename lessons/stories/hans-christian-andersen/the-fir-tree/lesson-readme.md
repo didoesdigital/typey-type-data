@@ -133,7 +133,7 @@
 * stately `STAEULT`
 * dignity `TKEUG/TEU`
 * companions." `KPAPB/KWROPBS TP-PL KR-GS`
-* discontented, `TKEUS/KOPB/TEPBT/-D KW-BG`
+* discontented, `TKEUS/KAUPBTD KW-BG`
 * that `THA`
 * took `TAOBG`
 * no `TPHO`
@@ -453,7 +453,7 @@
 * short `SHORT`
 * before `PW-FR`
 * Christmas, `KREUS/PHAS KW-BG`
-* discontented `TKEUS/KOPB/TEPBT/-D`
+* discontented `TKEUS/KAUPBTD`
 * first `TPEUFRT`
 * fall. `TPAUL TP-PL`
 * As `KPA/AS`

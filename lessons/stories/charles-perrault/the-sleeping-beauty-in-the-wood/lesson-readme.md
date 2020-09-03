@@ -440,7 +440,7 @@
 * years, `KWRAOERS KW-BG`
 * Matakin, `xxx Matakin KW-BG`
 * twelve `TWEFL`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * leagues `HRAOEG/-S`
 * off, `OF KW-BG`
 * accident `STKEPB`

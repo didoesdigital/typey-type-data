@@ -548,7 +548,7 @@
 * porcelain `PORS/HRAPB`
 * glittered `TKPWHREUT/ERD`
 * light `HRAOEUT`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * lamps. `HRA*PLS TP-PL`
 * Beautiful `KPA/PWAOUFL`
 * round `ROUPBD`

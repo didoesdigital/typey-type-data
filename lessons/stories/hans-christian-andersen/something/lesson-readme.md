@@ -244,7 +244,7 @@
 * age, `AEUPBLG KW-BG`
 * besides `PW-DZ`
 * building `PW-LG`
-* storey `STOR/KWREU`
+* storey `STOR/TK-LS/KWREU`
 * genius." `SKWRAOEPB/KWROUS TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * supposing `SPOEFG`
@@ -908,7 +908,7 @@
 * lifting `HREUFT/-G`
 * covering, `KOFRG KW-BG`
 * brake `PWRAEUBG`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * pieces. `PAOEFS TP-PL`
 * sea-wall, `SAE H-PB WAUL KW-BG`
 * sparks `SPARBGS`

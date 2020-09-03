@@ -739,7 +739,7 @@
 * write `WREU`
 * ring `REUPBG`
 * wring `WREUPBG`
-* ringer `REUPB/TKPWER`
+* ringer `REUPBG/*ER`
 * wringer `WREUPBG/*ER`
 * rise `RAOEUZ`
 * ryes `RAOEU/-S`
@@ -830,7 +830,7 @@
 * steel `STAOEL`
 * step `STEP`
 * steppe `xxx steppe`
-* storey `STOR/KWREU`
+* storey `STOR/TK-LS/KWREU`
 * story `STOER`
 * straight `STRAEUT`
 * strait `STRA*EUT`
@@ -949,7 +949,7 @@
 * wean `WAOEPB`
 * ween `WE/*EPB`
 * wearer `WAER/*ER`
-* where're `W-R AE R*/*E`
+* where're `W-R/AE/TK-LS/R*/*E`
 * weather `WHR*`
 * whether `WHR`
 * whee `WHAOE`

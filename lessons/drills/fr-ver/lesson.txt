@@ -56,7 +56,7 @@ FR: -ver
 'rediscover': RE/SKOFR
 'reliever': RE/HREFR
 'remover': RE/PHOFR
-'retriever': RE/TRAO*EFR
+'retriever': RE/TRAOEFR
 'revolver': SROFR
 'river': REUFR
 'rover': ROEFR
@@ -71,7 +71,7 @@ FR: -ver
 'sliver': SHREUFR
 'takeover': TAEUBG/O*EFR
 'transceiver': TRAPB/SAO*EFR
-'turnover': TURPB/SKWROEFR
+'turnover': TURPB/O*EFR
 'uncover': UPB/KOFR
 'undercover': UPBD/KOFR
 'voiceover': SROEUS/O*EFR

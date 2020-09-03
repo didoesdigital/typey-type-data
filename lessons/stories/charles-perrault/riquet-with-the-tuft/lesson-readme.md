@@ -93,7 +93,7 @@
 * prattle, `PRAT/*L KW-BG`
 * but `PWUT`
 * said `SED`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * pretty `PREUT`
 * things, `THEUPBGS KW-BG`
 * and `SKP`

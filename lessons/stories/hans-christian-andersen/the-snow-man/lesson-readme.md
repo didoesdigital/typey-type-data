@@ -621,7 +621,7 @@
 * no `TPHO`
 * listening. `HR-PBG TP-PL`
 * looking `HRAOG`
-* storey; `STOR/KWREU STPH*FPLT`
+* storey; `STOR/TK-LS/KWREU STPH*FPLT`
 * four `TPOUR`
 * iron `AOEURPB`
 * legs, `HREGS KW-BG`

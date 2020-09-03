@@ -782,7 +782,7 @@
 * creature `KRAOEFP`
 * world? `WORLD H-F`
 * poetry. `POEURT TP-PL`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * years, `KWRAOERS KW-BG`
 * written `WREUPB`
 * poetry `POEURT`

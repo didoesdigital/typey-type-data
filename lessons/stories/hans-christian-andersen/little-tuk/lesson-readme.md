@@ -342,7 +342,7 @@
 * carried `KAERD`
 * arms, `ARPLS KW-BG`
 * contained `KAUPB/TAEUPBD`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * inhabitants; `EUPB/HABT/APBTS STPH*FPLT`
 * mere `PHAOER`
 * boast, `PWOEFT KW-BG`

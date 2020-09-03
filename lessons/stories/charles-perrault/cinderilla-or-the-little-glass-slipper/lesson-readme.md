@@ -699,7 +699,7 @@
 * gazing `TKPWAEUFG`
 * sat `SAT`
 * shewing `S*/H*/*E/W*/-G`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * civilities, `SEUFLT/-S KW-BG`
 * part `PART`
 * oranges `ORPBGS`

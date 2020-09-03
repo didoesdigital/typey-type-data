@@ -680,7 +680,7 @@
 * soldiers, `SHRERPBLGS KW-BG`
 * set `SET`
 * against `TKPWEPBS`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * miles `PHAOEULS`
 * end `EPBD`
 * this?' `TH H-F AE`

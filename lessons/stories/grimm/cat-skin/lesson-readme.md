@@ -189,7 +189,7 @@
 * this, `TH KW-BG`
 * want `WAPBT`
 * mantle `PHAPBT/*L`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * different `TKEUFRT`
 * kinds `KEUPBDZ`
 * fur `TPUR`

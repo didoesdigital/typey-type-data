@@ -200,7 +200,7 @@
 * which `WEU`
 * stands `STAPBDZ`
 * obelisk, `OB/HREUFBG KW-BG`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * old." `OLD TP-PL KR-GS`
 * "An `KR-GS KPA/APB`
 * organist!" `ORG/TPH*EUS SKHRAPL KR-GS`

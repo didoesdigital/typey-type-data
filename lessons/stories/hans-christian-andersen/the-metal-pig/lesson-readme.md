@@ -167,7 +167,7 @@
 * under `TPH-PB`
 * roof `RAOF`
 * wings, `WEUPBGS KW-BG`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * roses `ROES/-S`
 * bloom `PWHRAOPL`
 * winter, `WEURPBT KW-BG`

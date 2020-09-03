@@ -18,7 +18,7 @@
 * a `AEU`
 * country `KREU`
 * many `PHAEPB`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * miles `PHAOEULS`
 * off `OF`
 * sat `SAT`

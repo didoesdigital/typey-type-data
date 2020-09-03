@@ -296,7 +296,7 @@
 * knew `TPHAOU`
 * homesick, `xxx homesick KW-BG`
 * although `HR*T`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * times `TAOEUPLS`
 * better `PWOERT`
 * off `OF`

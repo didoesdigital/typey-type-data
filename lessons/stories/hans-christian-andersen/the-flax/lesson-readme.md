@@ -617,7 +617,7 @@
 * sun," `SUPB KW-BG KR-GS`
 * voice `SROEUS`
 * flames; `TPHRAEUPLS STPH*FPLT`
-* thousand `THOEUPB`
+* thousand `THOUD`
 * voices `SROEUFS`
 * echoed `EBG/OE/-D`
 * words; `WORDZ STPH*FPLT`

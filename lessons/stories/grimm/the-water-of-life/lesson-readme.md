@@ -173,7 +173,7 @@
 * haughtily, `HAUT/HREU KW-BG`
 * rode `ROED`
 * on. `OPB TP-PL`
-* enraged `EPB/RAEUPBLG/-D`
+* enraged `EPB/RAEUPBLGD`
 * behaviour, `PWAEUFR/A*U KW-BG`
 * laid `HRAEUD`
 * fairy `TPAEUR/REU`
