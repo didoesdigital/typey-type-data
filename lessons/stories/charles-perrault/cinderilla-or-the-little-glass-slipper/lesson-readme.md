@@ -673,7 +673,7 @@
 * some `SOPL`
 * next `TPHEGT`
 * pattern, `PAERPB KW-BG`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * meet `PHAOET`
 * materials, `TAOERLS KW-BG`
 * hands `HAPBDZ`

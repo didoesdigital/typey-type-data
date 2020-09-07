@@ -645,7 +645,7 @@
 * leave `HREF`
 * woodcutting, `WAOD/K*UT/-G KW-BG`
 * sawyer, `HRO*ER/SAUR KW-BG`
-* supply `SPHAOEU`
+* supply `SPHRAOEU`
 * wood `WAOD`
 * parish. `PAR/EURB TP-PL`
 * spent `SPEPBT`

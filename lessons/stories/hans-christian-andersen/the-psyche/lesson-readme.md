@@ -969,7 +969,7 @@
 * soul; `SOUL STPH*FPLT`
 * longing `HROPBG/-G`
 * tear `TAER`
-* accustomed—to `A/KUFPD EPL/TKA*RB TO`
+* accustomed—to `A/KUFPLD EPL/TKA*RB TO`
 * forget, `TPORGT KW-BG`
 * possible, `POB KW-BG`
 * individuality; `SREUPBLGT STPH*FPLT`

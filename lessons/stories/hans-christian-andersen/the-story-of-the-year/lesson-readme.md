@@ -363,7 +363,7 @@
 * food, `TPAOD KW-BG`
 * consider `KR`
 * ourselves `O*URSZ`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * for. `TPOR TP-PL`
 * So `KPA/SO`
 * stay `STAEU`

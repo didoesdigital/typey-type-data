@@ -555,7 +555,7 @@
 * wine `WAOEUPB`
 * tarred `TARD`
 * cask; `KAFBG STPH*FPLT`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * better `PWOERT`
 * fare `TPA*ER`
 * kept `KEPT`

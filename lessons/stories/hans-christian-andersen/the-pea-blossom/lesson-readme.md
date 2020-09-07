@@ -310,7 +310,7 @@
 * my `PHEU`
 * took `TAOBG`
 * Himself `KPA/HEUPLS`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * her. `HER TP-PL`
 * Now `KPA/TPHOU`
 * would `WO`

@@ -1421,7 +1421,7 @@
 * painful `PAEUFL`
 * luxuries `HRUBGS/REUS`
 * lately `HRAEULT`
-* accustomed. `A/KUFPD TP-PL`
+* accustomed. `A/KUFPLD TP-PL`
 * eldest `ELD/EFT`
 * suffered `SUFRD`
 * hunger `HURPBG`

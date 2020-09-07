@@ -611,7 +611,7 @@
 * mutter `PHUT/*ER`
 * 'Ah, `AE KPA/HA*E KW-BG`
 * Ah, `KPA/HA*E KW-BG`
-* waggoner `WAG/TKPWOPB/TK-LS/*ER`
+* waggoner `WAG/OPB/*ER/A*U`
 * striding `STRAOEUD/-G`
 * behind `HEUPBD`
 * you?' `U H-F AE`
@@ -631,11 +631,11 @@
 * 'Enough `AE KPA/TPHUF`
 * foolish `TPAOL/EURB`
 * chatter,' `KHAT/ER KW-BG AE`
-* waggoner. `WAG/TKPWOPB/TK-LS/*ER TP-PL`
+* waggoner. `WAG/OPB/*ER/A*U TP-PL`
 * 'Come, `AE KPA/KOPL KW-BG`
 * about `PW`
 * place `PHRAEUS`
-* waggoner, `WAG/TKPWOPB/TK-LS/*ER KW-BG`
+* waggoner, `WAG/OPB/*ER/A*U KW-BG`
 * arrived `A/RAOEUFD`
 * inn `TPH*PB`
 * wished `WEURBD`

@@ -608,7 +608,7 @@
 * them, `THEPL KW-BG`
 * once `WUPBS`
 * more `PHOR`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * for. `TPOR TP-PL`
 * their `THAEUR`
 * wooden `WAOD/EPB`

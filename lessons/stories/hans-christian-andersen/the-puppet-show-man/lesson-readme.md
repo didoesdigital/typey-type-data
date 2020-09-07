@@ -323,7 +323,7 @@
 * said `SED`
 * lecturer, `HREBG/KHUR/ER KW-BG`
 * 'but `AE PWUT`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * them `THEPL`
 * call `KAUL`
 * everyday `EFRD`

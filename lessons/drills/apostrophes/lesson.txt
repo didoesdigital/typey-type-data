@@ -55,17 +55,17 @@ Apostrophes
 'how're': HOU/*R
 'l'chaim': HR*/KHAOEUPL
 'licensee's': HR-PBS/AOES/AE
-'let's assume': HRAETS/SAOUPL
+'let's assume': HRETS/SAOUPL
 'layman's': HRAEU/PHAPB/AES
 'lady's': HRAEUD/KWREU/AES
-'ladies'': HRAEUD/KWREUS/AE
+'ladies'': HRAEUDZ/AE
 'let's': HRETS
 'lieutenant's': HRAOUT/AES
 'l'etat c'est moi': HRE/TA/SAEU/PHOEU
 'lens's': HREPBS/AES
 'let's say': HRETS/SAEU
 'lovin'': HROFPB
-'husbands'': HUS/-S/AE
+'husbands'': HUSZ/AE
 'husband's': HUS/AES
 'company's': K-P/AES
 'can't': K-PBT
@@ -89,7 +89,7 @@ Apostrophes
 'competitor's': KPET/TOR/AES
 'c'mon': KPHO*PB
 'complainant's': KPHRAEUPB/APBT/AES
-'complaint's': KPHRAEUPB/APBTS/AE
+'complaint's': KPHRAEUPBT/AES
 'correct me if I'm wrong': KROPBG
 'customer's': KUFT/PHER/AES
 'customers'': KUFT/PHERS/AE
@@ -110,7 +110,7 @@ Apostrophes
 'objet d'art': OB/SKWRE/TKAR
 'o'er': OE/*ER
 'old wives'': OELD/WEUF/AES
-'oh, it's': OERBGS/-S/T-S
+'oh, it's': OERBGS/T-S
 'passenger's side': P-DZ/AOE
 'patrolman's': TROEPL/AES
 'petitioner's': PAET/*ER/AES
@@ -185,7 +185,7 @@ Apostrophes
 'seller's': SEL/HRER/AES
 'sellers'': SEL/*ERS/AE
 'certain he'll': SERPB/EL
-'isn't necessary': SEUPBT/TPHELS
+'isn't necessary': S-PBT/TPHES
 'shouldn't': SHOPBT
 'she'd': SHAOED
 'she'll': SHAOEL
@@ -211,7 +211,7 @@ Apostrophes
 'gentlemen's': SKWRE/AES
 'jury's': SKWREUR/AES
 's'more': SPHOR
-'s'mores': SPHOR/-S
+'s'mores': SPHORS
 'haven't': SR-PB
 'isn't it': ST-PBT
 'stenographer's': STEPB/TKPWRAFR/AES
@@ -257,7 +257,7 @@ Apostrophes
 'that's on': THAT/OPB
 'that's not': THAT/TPHOTS
 'that's one': THAT/WUPB
-'that's just the': THATS/SKWR*UF/-T
+'that's just the': THATS/SKWRUFT/-T
 'that's how it': THATS/THOU
 'that's because': THATS/PWAU
 'that you're': THAUR

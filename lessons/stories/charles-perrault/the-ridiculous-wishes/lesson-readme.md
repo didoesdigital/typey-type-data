@@ -425,7 +425,7 @@
 * angry `APBG/REU`
 * dame's `TKAEUPL AES`
 * nose. `TPHOES TP-PL`
-* paused `PAUS/-D`
+* paused `PAUFD`
 * beheld `PWE/HELD`
 * wrought. `WROT TP-PL`
 * comely `KOPL/HREU`

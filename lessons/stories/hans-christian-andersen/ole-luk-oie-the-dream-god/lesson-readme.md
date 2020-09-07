@@ -1153,7 +1153,7 @@
 * swallow; `SWAL STPH*FPLT`
 * bad `PWAD`
 * weather." `WHR* TP-PL KR-GS`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * it," `T KW-BG KR-GS`
 * hen. `HEPB TP-PL`
 * cold `KOELD`

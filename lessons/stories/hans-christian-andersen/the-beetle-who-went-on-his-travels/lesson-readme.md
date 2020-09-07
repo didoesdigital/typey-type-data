@@ -230,7 +230,7 @@
 * is." `S TP-PL KR-GS`
 * "I `KR-GS EU`
 * am `APL`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * better `PWOERT`
 * things," `THEUPBGS KW-BG KR-GS`
 * "Do `KR-GS KPA/TKO`

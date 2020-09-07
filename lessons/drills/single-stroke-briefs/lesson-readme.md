@@ -5550,7 +5550,7 @@
 * supplied `SPHRAOEUD`
 * supplier `SHRAOEUR`
 * supplies `SPHRAOEUZ`
-* supply `SPHAOEU`
+* supply `SPHRAOEU`
 * support `SPOR`
 * supporting `SPORG`
 * supposed `SPOED`

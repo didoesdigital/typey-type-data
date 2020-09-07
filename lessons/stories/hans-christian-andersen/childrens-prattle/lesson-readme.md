@@ -365,7 +365,7 @@
 * pride,—well, `PRAOEUD KW-BG EPL/TKA*RB WEL KW-BG`
 * respected `R-PTD`
 * honored `HOPB/ORD`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * birth `PW*EURT`
 * position, `POGS KW-BG`
 * cause `KAUS`

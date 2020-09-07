@@ -22,7 +22,7 @@
 * be `-B`
 * well `WEL`
 * married `PHAERD`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * for. `TPOR TP-PL`
 * He `KPA/HE`
 * said `SED`

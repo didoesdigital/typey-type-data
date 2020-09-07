@@ -593,7 +593,7 @@
 * lonely `HROEPBL`
 * dull `TKUL`
 * here. `HAOER TP-PL`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * live `HREUF`
 * family, `TPAEPL KW-BG`
 * used `AOUFD`

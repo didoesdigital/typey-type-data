@@ -86,7 +86,7 @@
 * Her `KPA/HER`
 * own `OEPB`
 * boy `PWOEU`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * being `-BG`
 * where `W-R`
 * mouth `PHO*UT`

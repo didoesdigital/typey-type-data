@@ -502,7 +502,7 @@
 * especial `ES/PERBL`
 * care `KAEUR`
 * advantage `SRAPBG`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * for. `TPOR TP-PL`
 * sit `SEUT`
 * fence, `TPEPBS KW-BG`

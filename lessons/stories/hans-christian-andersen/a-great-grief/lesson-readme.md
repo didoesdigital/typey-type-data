@@ -84,7 +84,7 @@
 * attentively, `A/TEPBT/EUFL KW-BG`
 * seized `SAOEZ/-D`
 * pen, `PEPB KW-BG`
-* paused, `PAUS/-D KW-BG`
+* paused, `PAUFD KW-BG`
 * begged `PWEGD`
 * repeat `RE/PAOET`
 * direction `TKREBGS`

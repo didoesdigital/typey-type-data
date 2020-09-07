@@ -75,7 +75,7 @@
 * his `HEUS`
 * veins, `SRAEUPBS KW-BG`
 * was `WAS`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * consort `KOPB/SORT`
 * only `OEPBL`
 * with `W`

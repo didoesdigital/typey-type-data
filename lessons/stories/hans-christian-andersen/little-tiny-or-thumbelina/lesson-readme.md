@@ -652,7 +652,7 @@
 * If `KPA/TP`
 * him `HEUPL`
 * well `WEL`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * indeed. `TPHAOEPBD TP-PL`
 * blind, `PWHRAOEUPBD KW-BG`
 * prettiest `PRET/KWREFT`

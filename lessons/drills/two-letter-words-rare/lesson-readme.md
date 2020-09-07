@@ -30,11 +30,11 @@
 * nu `TPH*U`
 * od `O*/TK*`
 * oe `O*/*E`
-* oi `O*/*EU`
+* oi `O*EU`
 * oo `AO`
 * op `OP`
 * os `O*/-S`
-* oy `O*EU`
+* oy `O*/KWR*`
 * pe `P*/*E`
 * po `PO`
 * qi `HRO*ER/K*EU`

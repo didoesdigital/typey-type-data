@@ -461,7 +461,7 @@
 * if `TP`
 * share `SHAEUR`
 * living, `HREUFG KW-BG`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * marry `PHAER`
 * remained `RE/PHAEUPBD`
 * quite `KWAOEUT`

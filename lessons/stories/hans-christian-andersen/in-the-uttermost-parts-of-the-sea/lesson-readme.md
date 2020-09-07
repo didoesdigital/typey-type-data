@@ -156,7 +156,7 @@
 * abundance, `PWUPB/TKAPBS KW-BG`
 * snow-houses `STPHOE H-PB HO*UFS`
 * soon `SAOPB`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * warm `WARPL`
 * carpets, `KARPTS KW-BG`
 * also `HR-S`
@@ -373,7 +373,7 @@
 * he, `HE KW-BG`
 * her `HER`
 * grandson, `TKPWR-S KW-BG`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * do. `TKO TP-PL`
 * daughter `TKAUR`
 * village `SREULG`

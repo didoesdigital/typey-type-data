@@ -155,7 +155,7 @@
 * terror `TER/O*R`
 * Harry `HAR/REU`
 * process `PROEUS`
-* supply `SPHAOEU`
+* supply `SPHRAOEU`
 * addressed `A/TKREFD`
 * connected `KEBGTD`
 * addition `AGS`
@@ -179,7 +179,7 @@
 * approached `A/PROEFPD`
 * disappeared `TKEUS/PAOERD`
 * interrupted `EUPBT/RUPTD`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * innocent `TPH-PBT`
 * hurried `HUR/EUD`
 * attitude `AT/TAOUD`
@@ -1042,7 +1042,7 @@
 * pebbles `PEBLS`
 * Willie `WEUL/AO*E`
 * knitting `TPHEUT/-G`
-* supplying `SHRAOEUG`
+* supplying `SPHRAOEUG`
 * unnoticed `UPB/TPH-TS/-D`
 * bully `PWHRAOUL`
 * prettiest `PRET/KWREFT`

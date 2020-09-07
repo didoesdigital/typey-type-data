@@ -103,7 +103,7 @@
 * 'It `AE KPA/T`
 * shall `SHAL`
 * be,' `-B KW-BG AE`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * say. `SAEU TP-PL`
 * wife, `WAOEUF KW-BG`
 * in `TPH`
@@ -355,7 +355,7 @@
 * salutations `SHRAOUT/AEUGS/-S`
 * any `TPHEU`
 * who `WHO`
-* paused `PAUS/-D`
+* paused `PAUFD`
 * sport `SPORT`
 * do `TKO`
 * honor. `HO*RPB TP-PL`

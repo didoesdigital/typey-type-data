@@ -19,6 +19,7 @@
 * Paul `PAUL`
 * soil `SOEUL`
 * souls `SOULS`
+* paused `PAUFD`
 * causes `KAUFS`
 * calls `KAULS`
 * pause `PAUS`

@@ -200,7 +200,7 @@
 * single `SEUPBLG`
 * drop `TKROP`
 * oil `OEUL`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * This `KPA/TH`
 * lamp's `HRAFRP AES`
 * night `TPHAOEUT`
@@ -1006,7 +1006,7 @@
 * no, `TPHORBGS`
 * live. `HREUF TP-PL`
 * myself `PHAO*EUS`
-* supply `SPHAOEU`
+* supply `SPHRAOEU`
 * off `OF`
 * picture `P*EUFP`
 * congress, `KOPB/TKPWRESZ KW-BG`

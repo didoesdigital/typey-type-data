@@ -515,7 +515,7 @@
 * train `TRAEUPB`
 * twelve `TWEFL`
 * followers. `TPOL/*ER/-S TP-PL`
-* paused, `PAUS/-D KW-BG`
+* paused, `PAUFD KW-BG`
 * gazed `TKPWAEZ/-D`
 * vehicle, `SRAOEBG KW-BG`
 * questioned `KWED`

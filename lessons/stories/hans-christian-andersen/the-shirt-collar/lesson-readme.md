@@ -147,7 +147,7 @@
 * master; `PHAFRT STPH*FPLT`
 * boaster. `PWOES/TER TP-PL`
 * "Don't `KR-GS TKO*PB AE T*`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * it." `T TP-PL KR-GS`
 * "Affectation!" `KR-GS KPA/AFBG/TAEUGS SKHRAPL KR-GS`
 * Then `KPA/THEPB`

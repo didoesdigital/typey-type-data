@@ -465,7 +465,7 @@
 * late `HRAEUT`
 * morning. `PHORPBG TP-PL`
 * "She `KR-GS KPA/SHE`
-* accustomed `A/KUFPD`
+* accustomed `A/KUFPLD`
 * said. `SED TP-PL`
 * beauty, `PWAOUT KW-BG`
 * tired. `TAOEURD TP-PL`

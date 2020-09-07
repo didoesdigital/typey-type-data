@@ -502,7 +502,7 @@
 * scholar `SKHRAR`
 * school, `SKAOL KW-BG`
 * neither `TPHAOERT`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * clothes `KHRO*ETS`
 * food. `TPAOD TP-PL`
 * number, `TPHUPL KW-BG`

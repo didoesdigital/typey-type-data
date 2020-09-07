@@ -675,7 +675,7 @@
 * furious. `TPAOURS TP-PL`
 * you,' `U KW-BG AE`
 * cried `KRAOEUD`
-* paused `PAUS/-D`
+* paused `PAUFD`
 * about, `PW KW-BG`
 * fighting. `TPAOEUGT TP-PL`
 * A `KPA/AEU`

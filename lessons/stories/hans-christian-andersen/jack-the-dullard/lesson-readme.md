@@ -446,7 +446,7 @@
 * Jack. `SKWRA*BG TP-PL`
 * Now `KPA/TPHOU`
 * suitor `SAOU/TOR`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * number, `TPHUPL KW-BG`
 * placed `PHRAEUFD`
 * rows `ROES`

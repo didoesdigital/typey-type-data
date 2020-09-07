@@ -5,7 +5,6 @@
 * ceased `SAOES/-D`
 * wounded `WOUPBD/-D`
 * ended `EPBD/-D`
-* paused `PAUS/-D`
 * shouted `SHOUT/-D`
 * glanced `TKPWHRAPBS/-D`
 * bowed `PWOE/-D`

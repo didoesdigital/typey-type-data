@@ -1004,7 +1004,7 @@
 * tailor `TAEURL`
 * gave `TKPWAEUF`
 * clothes; `KHRO*ETS STPH*FPLT`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * way. `WAEU TP-PL`
 * overseer `AUFR/SAOER`
 * mint `PHEUPBT`

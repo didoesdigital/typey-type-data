@@ -16,7 +16,7 @@
 * mentioned `PHEPBGS/-D`
 * servant `SEFRB/APBT`
 * ordered `ORD/-D`
-* provided `PROE/SRAOUD/-D`
+* provided `PROE/SRAOEUD/-D`
 * mighty `PHAOEUT/KWREU`
 * decided `STKAOEUD/-D`
 * promised `PROPLS/-D`
