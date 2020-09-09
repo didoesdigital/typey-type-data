@@ -7,7 +7,7 @@
 * a `AEU`
 * petition `PE/TEUGS`
 * before `PW-FR`
-* Juno `SKWRAOUPB/KWRO`
+* Juno `SKWRAOUPB/SKWRO`
 * desiring `STKAOEURG`
 * to `TO`
 * have `SR`

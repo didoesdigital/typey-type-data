@@ -682,7 +682,7 @@
 * said, `SED KW-BG`
 * 'This `AE KPA/TH`
 * shall `SHAL`
-* Zealand!' `SA*E/HRAPBD SKHRAPL AE`
+* Zealand!' `xxx Zealand SKHRAPL AE`
 * dwelling-place `TKWELG H-PB PHRAEUS`
 * birds `PWEURDZ`
 * unknown `UPB/TPHOEPB`

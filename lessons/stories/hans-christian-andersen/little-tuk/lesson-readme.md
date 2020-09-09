@@ -89,7 +89,7 @@
 * heart `HART`
 * towns `TOUPBS`
 * in `TPH`
-* Zealand, `SA*E/HRAPBD KW-BG`
+* Zealand, `xxx Zealand KW-BG`
 * described `KREUFD`
 * them. `THEPL TP-PL`
 * His `KPA/HEUS`

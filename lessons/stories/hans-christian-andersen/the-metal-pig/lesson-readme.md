@@ -217,7 +217,7 @@
 * elegant `EL/TKPWAPBT`
 * marble `PHAERBL`
 * Della `TKEL/HRA`
-* Trinita. `TRAO*EU/TPH*EUT/SKWRA TP-PL`
+* Trinita. `xxx Trinita TP-PL`
 * then `THEPB`
 * walked `WAUBGD`
 * away `WA*EU`
@@ -1365,7 +1365,7 @@
 * turn `TURPB`
 * pages. `PAEUPBLGS TP-PL`
 * dell `HRO*ER/TKEL`
-* Trinita `TRAO*EU/TPH*EUT/SKWRA`
+* Trinita `xxx Trinita`
 * slender `SHRERPBD`
 * pillar, `PEUL/AR KW-BG`
 * Justice, `KPA/SKWRUFS KW-BG`
