@@ -125,7 +125,7 @@
 * you `U`
 * mean?" `PHAOEPB H-F KR-GS`
 * creature `KRAOEFP`
-* reply. `RE/PHREU TP-PL`
+* reply. `RE/PHRAOEU TP-PL`
 * "Everything `KR-GS KPA/EFRG`
 * around `ARPBD`
 * me `PHE`
@@ -153,7 +153,7 @@
 * shall `SHAL`
 * likely `HRAOEULG`
 * live `HREUF`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * days, `TKAEUS KW-BG`
 * my `PHEU`
 * long; `HROPBG STPH*FPLT`
@@ -782,7 +782,7 @@
 * God, `TKPWO*D KW-BG`
 * imagined, `PHAPBLGD KW-BG`
 * possible," `POB KW-BG KR-GS`
-* reply `RE/PHREU`
+* reply `RE/PHRAOEU`
 * air. `AEUR TP-PL`
 * onwards, `OPB/WARDZ KW-BG`
 * loosening `HRAOS/EPBG`

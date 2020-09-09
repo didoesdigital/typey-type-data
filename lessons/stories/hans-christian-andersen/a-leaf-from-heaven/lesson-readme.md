@@ -272,7 +272,7 @@
 * deep `TKAOEP`
 * fount `TPOUPBT`
 * melody, `PHEL/TKEU KW-BG`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * years `KWRAOERS`
 * exhaust. `KPAUFT TP-PL`
 * With `KPA/W`

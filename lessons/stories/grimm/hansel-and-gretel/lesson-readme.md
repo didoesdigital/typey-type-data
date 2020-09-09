@@ -518,7 +518,7 @@
 * out, `OUT KW-BG`
 * found `TPOUPBD`
 * crumbs, `KRUPLS KW-BG`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * birds `PWEURDZ`
 * fly `TPHRAOEU`
 * woods `WAODZ`

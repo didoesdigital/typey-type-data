@@ -637,7 +637,7 @@
 * earth `*ERT`
 * false `TPALS`
 * constable, `KAUPB/STABL KW-BG`
-* treated `TRAETD`
+* treated `TRAOETD`
 * lightning, `HRAOEUT/TPHEUPBG KW-BG`
 * darting `TKART/-G`
 * way, `WAEU KW-BG`

@@ -197,7 +197,7 @@
 * this, `TH KW-BG`
 * greatly `TKPWRAELT`
 * astonished `A/STOPB/EURBD`
-* pleased; `PHRAOEFD STPH*FPLT`
+* pleased; `PHREFD STPH*FPLT`
 * but `PWUT`
 * heart `HART`
 * grew `TKPWRAOU`

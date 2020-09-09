@@ -13,7 +13,7 @@
 * summer `SAOURPL`
 * night. `TPHAOEUT TP-PL`
 * So `KPA/SO`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * was `WAS`
 * he `HE`
 * with `W`

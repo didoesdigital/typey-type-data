@@ -111,7 +111,7 @@
 * or `OR`
 * four `TPOUR`
 * ladies `HRAEUDZ`
-* acquaintance, `KWAEUPB/TAPBS KW-BG`
+* acquaintance, `KWAEUPBS KW-BG`
 * young `KWRUPBG`
 * people `PAOEPL`
 * neighbourhood, `TPHAOD/A*U KW-BG`
@@ -196,7 +196,7 @@
 * carry `KAER`
 * into `TPHAO`
 * if `TP`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * make `PHAEUBG`
 * good `TKPWAOD`
 * cheer `KHAOER`

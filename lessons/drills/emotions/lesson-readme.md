@@ -80,7 +80,7 @@
 * passionate `PAGS/AT`
 * peaceful `PAES/-FL`
 * pensive `PEPB/SEUF`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * polite `PHRAOEUT`
 * relaxed `RE/HRAGD`
 * reverent `R*EFRPBT`

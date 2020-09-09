@@ -714,7 +714,7 @@
 * owner `OERPB`
 * invisible, `EUPB/SREUBL KW-BG`
 * form `TPORPL`
-* pleased; `PHRAOEFD STPH*FPLT`
+* pleased; `PHREFD STPH*FPLT`
 * pair `PAEUR`
 * boots `PWAOTS`
 * carried `KAERD`
@@ -814,7 +814,7 @@
 * him? `HEUPL H-F`
 * Ought `KPA/OT`
 * such `SUFP`
-* treatment `TRAOEPL`
+* treatment `TRAOEPLT`
 * thee?' `THAOE H-F AE`
 * sent `SEPBT`
 * company, `K-P KW-BG`

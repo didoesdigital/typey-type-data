@@ -238,7 +238,7 @@
 * about `PW`
 * cellar, `SEL/AR KW-BG`
 * quite `KWAOEUT`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * cleverness, `KHREFR/-PBS KW-BG`
 * said, `SED KW-BG`
 * 'How `AE KPA/HOU`

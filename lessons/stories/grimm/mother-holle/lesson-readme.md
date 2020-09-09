@@ -316,7 +316,7 @@
 * here, `HAOER KW-BG`
 * return `RURPB`
 * people.' `PAOEPL TP-PL AE`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * should `SHO`
 * want `WAPBT`
 * your `KWROUR`
@@ -707,7 +707,7 @@
 * have!' `SR SKHRAPL AE`
 * with, `W KW-BG`
 * child,' `KHAOEULD KW-BG AE`
-* reply. `RE/PHREU TP-PL`
+* reply. `RE/PHRAOEU TP-PL`
 * 'But, `AE KPA/PWUT KW-BG`
 * eyes `AO*EUS`
 * said. `SED TP-PL`

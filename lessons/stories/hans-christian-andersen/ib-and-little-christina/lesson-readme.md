@@ -1066,7 +1066,7 @@
 * one; `WUPB STPH*FPLT`
 * master's `PHAFRT AES`
 * son, `SOPB KW-BG`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * marry `PHAER`
 * situation `SWAEUGS`
 * office `OFS`

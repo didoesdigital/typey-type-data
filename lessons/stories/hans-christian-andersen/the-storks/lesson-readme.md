@@ -662,7 +662,7 @@
 * parents `PARPBTS`
 * glad `TKPWHRAD`
 * child, `KHAOEULD KW-BG`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * brother `PWROER`
 * sister. `ST-R TP-PL`
 * fetch `TPEFP`

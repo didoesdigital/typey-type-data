@@ -355,7 +355,7 @@
 * Turkish `TUR/KEURB`
 * pasha, `PARB/KWRA KW-BG`
 * cruelly `KRAOUL/HREU`
-* treated `TRAETD`
+* treated `TRAOETD`
 * yoked `KWRO*EBG/-D`
 * oxen `OBGS/*EPB`
 * plough, `PHROU/A*U KW-BG`

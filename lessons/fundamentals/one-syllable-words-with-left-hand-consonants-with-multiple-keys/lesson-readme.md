@@ -122,7 +122,7 @@
 * news `TPHUS`
 * bit `PWEUT`
 * floor `TPHRAOR`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * leaves `HREFS`
 * fast `TPAFT`
 * laugh `HRAF`
@@ -243,6 +243,7 @@
 * ball `PWAUL`
 * fierce `TPAOERS`
 * cloud `KHROUD`
+* classes `KHRASZ`
 * fleet `TPHRAOET`
 * gaze `TKPWAEZ`
 * meal `PHAOEL`

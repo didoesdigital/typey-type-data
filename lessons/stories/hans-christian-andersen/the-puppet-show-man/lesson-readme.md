@@ -273,7 +273,7 @@
 * science, `SKRAOEUPBS KW-BG`
 * believe `PWHREF`
 * equally `KWAEL`
-* pleased. `PHRAOEFD TP-PL`
+* pleased. `PHREFD TP-PL`
 * But `KPA/PWUT`
 * it, `T KW-BG`
 * much `PHUFP`
@@ -350,7 +350,7 @@
 * "'One `KR-GS AE KPA/WUPB`
 * happiest!' `HAP/KWREFT SKHRAPL AE`
 * idea `KWR-D`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * him; `HEUPL STPH*FPLT`
 * 'are `AE R`
 * you `U`
@@ -497,7 +497,7 @@
 * great `TKPWRAET`
 * genius, `SKWRAOEPB/KWROUS KW-BG`
 * begged `PWEGD`
-* treated `TRAETD`
+* treated `TRAOETD`
 * such. `SUFP TP-PL`
 * acted `ABGD`
 * queen `KWAOEPB`

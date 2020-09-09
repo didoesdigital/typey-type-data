@@ -535,7 +535,7 @@
 * room `RAOPL`
 * red `RED`
 * hot. `HOT TP-PL`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * hot `HOT`
 * here!" `HAOER SKHRAPL KR-GS`
 * observed `OEBD`
@@ -572,13 +572,13 @@
 * to-day," `TO H-PB TKAEU KW-BG KR-GS`
 * "What—what `KR-GS KPA/WHA EPL/TKA*RB WHA`
 * you—were `U EPL/TKA*RB WR`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * ob-" `O*/PW* H-PB KR-GS`
 * stammered `STAPL/ERD`
 * he—and `HE EPL/TKA*RB SKP`
 * wrote `WRO`
 * down, `TKOUPB KW-BG`
-* "pleased `KR-GS PHRAOEFD`
+* "pleased `KR-GS PHREFD`
 * goat. `TKPWO*ET TP-PL`
 * "Well, `KR-GS KPA/WEL KW-BG`
 * it's `T-S`

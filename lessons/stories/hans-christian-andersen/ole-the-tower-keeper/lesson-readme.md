@@ -362,7 +362,7 @@
 * us `US`
 * through. `THRU TP-PL`
 * acting `A*G`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * years `KWRAOERS`
 * still `STEUL`
 * on. `OPB TP-PL`
@@ -540,7 +540,7 @@
 * tattoo `TA/TAO`
 * family `TPAEPL`
 * circle; `SOEURBG STPH*FPLT`
-* acquaintance `KWAEUPB/TAPBS`
+* acquaintance `KWAEUPBS`
 * write `WREU`
 * putting `PUGT`
 * names, `TPHAEUPLS KW-BG`
@@ -756,7 +756,7 @@
 * form `TPORPL`
 * man's `PHAPB/AES`
 * grave. `TKPWRAEUF TP-PL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * star, `STAR KW-BG`
 * find `TPAOEUPBD`
 * gift `TKPWEUFT`

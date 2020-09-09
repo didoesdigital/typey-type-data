@@ -102,7 +102,7 @@
 * have `SR`
 * journeymen, `SKWRURPB/PH*EPB KW-BG`
 * wife `WAOEUF`
-* treated `TRAETD`
+* treated `TRAOETD`
 * as `AZ`
 * master's `PHAFRT AES`
 * wife. `WAOEUF TP-PL`

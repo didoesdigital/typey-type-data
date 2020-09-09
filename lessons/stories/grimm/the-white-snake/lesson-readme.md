@@ -566,7 +566,7 @@
 * full, `TPUL KW-BG`
 * missing. `PHEUFG TP-PL`
 * night `TPHAOEUT`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * ants, `A*PBT/-S KW-BG`
 * grateful `TKPWRA*EUFL`
 * creatures `KRAOEFPS`

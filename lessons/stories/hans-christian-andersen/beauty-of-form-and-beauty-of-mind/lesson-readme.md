@@ -874,7 +874,7 @@
 * eye, `AOEU KW-BG`
 * save `SAF`
 * intimate `SPWEU/PHAT`
-* acquaintance, `KWAEUPB/TAPBS KW-BG`
+* acquaintance, `KWAEUPBS KW-BG`
 * noticed `TPH-TS/-D`
 * girl, `TKPWEURL KW-BG`
 * yet `KWRET`

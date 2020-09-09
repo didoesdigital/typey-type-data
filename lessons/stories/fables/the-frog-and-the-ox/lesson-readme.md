@@ -92,7 +92,7 @@
 * "Bigger, `KR-GS KPA/PWEURG KW-BG`
 * father, `TPAER KW-BG`
 * bigger," `PWEURG KW-BG KR-GS`
-* reply. `RE/PHREU TP-PL`
+* reply. `RE/PHRAOEU TP-PL`
 * took `TAOBG`
 * deep `TKAOEP`
 * breath, `PWR*ET KW-BG`

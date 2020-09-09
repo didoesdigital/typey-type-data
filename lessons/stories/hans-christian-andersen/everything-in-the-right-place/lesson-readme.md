@@ -357,7 +357,7 @@
 * saw `SAU`
 * taken `TAEPB`
 * root, `RAOT KW-BG`
-* pleased; `PHRAOEFD STPH*FPLT`
+* pleased; `PHREFD STPH*FPLT`
 * tree. `TRAOE TP-PL`
 * tree `TRAOE`
 * advancing, `SRAPBS/-G KW-BG`
@@ -866,7 +866,7 @@
 * opinion, `P-PB KW-BG`
 * wrong. `WROPBG TP-PL`
 * upper `AOURP`
-* classes `KHRA*FS`
+* classes `KHRASZ`
 * sees `SAO*ES`
 * touchingly `TUFPG/HREU`
 * traits; `TRAEUTS STPH*FPLT`

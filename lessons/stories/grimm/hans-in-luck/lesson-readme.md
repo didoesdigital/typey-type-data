@@ -640,7 +640,7 @@
 * squire `SKWAOEUR`
 * stolen `STOEL/EPB`
 * sty. `STAOEU TP-PL`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * afraid `A/TPRAEUD`
 * saw `SAU`
 * squire's `SKWAOEUR AES`

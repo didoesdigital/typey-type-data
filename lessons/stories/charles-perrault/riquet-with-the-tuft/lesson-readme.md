@@ -67,7 +67,7 @@
 * as `AZ`
 * much `PHUFP`
 * wit `WEUT`
-* pleased. `PHRAOEFD TP-PL`
+* pleased. `PHREFD TP-PL`
 * All `KPA/AUL`
 * this `TH`
 * somewhat `SWHA`
@@ -397,7 +397,7 @@
 * yours." `KWROURS TP-PL KR-GS`
 * "You `KR-GS KPA/U`
 * are `R`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * so," `SO KW-BG KR-GS`
 * Princess, `KPA/PREUPB/SES KW-BG`
 * stopped. `STOPD TP-PL`
@@ -491,7 +491,7 @@
 * facility `TPAS/EULT`
 * speaking `SPAOEG`
 * whatever `WHAF`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * polite, `PHRAOEUT KW-BG`
 * easy, `EZ KW-BG`
 * natural `TPHARL`

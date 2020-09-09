@@ -208,7 +208,7 @@
 * singer, `SEURPBG KW-BG`
 * your `KWROUR`
 * fortune `TP-RPB`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * thought, `THAUT KW-BG`
 * joined `SKWROEUPBD`
 * party. `PAERT TP-PL`
@@ -532,7 +532,7 @@
 * scratched `SKRAFPD`
 * him. `HEUPL TP-PL`
 * This `KPA/TH`
-* dreadfully, `TKRED/-FL/KWREU KW-BG`
+* dreadfully, `TKRED/TPHREU KW-BG`
 * back `PWABG`
 * door; `TKAOR STPH*FPLT`
 * there `THR`

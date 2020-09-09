@@ -235,7 +235,7 @@
 * short `SHORT`
 * time. `TAOEUPL TP-PL`
 * pea-blossom `PAE H-PB PWHROFPL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * him `HEUPL`
 * most `PHOFT`
 * all; `AUL STPH*FPLT`

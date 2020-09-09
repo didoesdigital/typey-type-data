@@ -159,7 +159,7 @@
 * foreign `TPOERPB`
 * country.' `KREU TP-PL AE`
 * proposition `PROPGS`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * two `TWO`
 * others, `OERS KW-BG`
 * they `THE`

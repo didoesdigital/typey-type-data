@@ -431,7 +431,7 @@
 * believed; `PWHREFD STPH*FPLT`
 * idea `KWR-D`
 * song `SOPBG`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * wondered `WOPBD/-D`
 * whether `WHR`
 * become `PW-BG`
@@ -978,7 +978,7 @@
 * So `KPA/SO`
 * chatter `KHAT/ER`
 * on, `OPB KW-BG`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * years. `KWRAOERS TP-PL`
 * ate `AEUT`
 * lustily; `HR*US/HREU STPH*FPLT`

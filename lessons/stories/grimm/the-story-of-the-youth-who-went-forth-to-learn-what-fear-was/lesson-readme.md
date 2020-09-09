@@ -273,7 +273,7 @@
 * 'Who `AE KPA/WHO`
 * there?' `THR H-F AE`
 * cried `KRAOEUD`
-* reply, `RE/PHREU KW-BG`
+* reply, `RE/PHRAOEU KW-BG`
 * did `TK`
 * move `PHOF`
 * stir. `STEUR TP-PL`
@@ -717,7 +717,7 @@
 * nights `TPHAOEUTS`
 * castle.' `KAFL TP-PL AE`
 * looked `HRAOBGD`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * ask `SK`
 * things `THEUPBGS`
 * life.' `HRAOEUF TP-PL AE`

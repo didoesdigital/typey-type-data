@@ -107,7 +107,7 @@
 * "The `KR-GS KPA/-T`
 * old `OLD`
 * student," `STAUPB KW-BG KR-GS`
-* reply. `RE/PHREU TP-PL`
+* reply. `RE/PHRAOEU TP-PL`
 * "They `KR-GS KPA/THE`
 * say `SAEU`
 * once `WUPBS`

@@ -644,7 +644,7 @@
 * allowed `HRO*UD`
 * depart. `TKPART TP-PL`
 * counsel `KOUPB`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * sent `SEPBT`
 * courtiers `KORT/KWRERS`
 * offer `OFR`

@@ -457,7 +457,7 @@
 * us, `US KW-BG`
 * themselves `TH*EPLS`
 * trouble `TRUBL`
-* acquaintance, `KWAEUPB/TAPBS KW-BG`
+* acquaintance, `KWAEUPBS KW-BG`
 * fowls, `TPO*UL/-S KW-BG`
 * born `PWORPB`
 * occupy `OBG/PAOEU`

@@ -322,7 +322,7 @@
 * believe. `PWHREF TP-PL`
 * William `WOEUPL`
 * Tell `KPA/TEL`
-* treated `TRAETD`
+* treated `TRAOETD`
 * just `SKWRUFT`
 * Danske. `xxx Danske TP-PL`
 * These `KPA/THEZ`

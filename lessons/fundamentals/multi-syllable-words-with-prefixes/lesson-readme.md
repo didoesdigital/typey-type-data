@@ -13,7 +13,7 @@
 * declared `TKE/KHRAEURD`
 * attempt `A/TEPLT`
 * appears `A/PAOERS`
-* reply `RE/PHREU`
+* reply `RE/PHRAOEU`
 * religious `RE/HREURBS`
 * affairs `A/TPAEURS`
 * repeated `RE/PAOETD`
@@ -541,7 +541,7 @@
 * attire `A/TAOEUR`
 * reluctantly `RE/HRUBGT/APBT/HREU`
 * implies `EUPL/PHRAOEUS`
-* displeased `TKEUS/PHRAOES/-D`
+* displeased `TKEUS/PHREFD`
 * reluctance `RE/HRUBG/TAPBS`
 * imported `EUPL/PORT/-D`
 * abrupt `AB/RUPT`

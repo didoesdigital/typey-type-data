@@ -351,7 +351,7 @@
 * thinking `THEUG`
 * impossible. `EUPL/POB TP-PL`
 * Council `KPA/KOUPB/SEUL`
-* treated `TRAETD`
+* treated `TRAOETD`
 * promise `PROPLS`
 * trifle, `TRAOEUFL KW-BG`
 * mattered `PHAERTD`
@@ -609,7 +609,7 @@
 * hours `HOURS`
 * elapse. `AOE/HRAPS TP-PL`
 * though `THOE`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * delivered, `TKHREUFRD KW-BG`
 * distress `STKRES`
 * women `WEUPL`
@@ -1190,7 +1190,7 @@
 * Prince; `PR*EUPBS STPH*FPLT`
 * man `PHAPB`
 * deign `TKAEUPB`
-* reply, `RE/PHREU KW-BG`
+* reply, `RE/PHRAOEU KW-BG`
 * word `WORD`
 * quickly `KWEULG`
 * back `PWABG`

@@ -187,7 +187,7 @@
 * fatherland; `TPAER/HRA*PBD STPH*FPLT`
 * then `THEPB`
 * will `HR`
-* treated `TRAETD`
+* treated `TRAOETD`
 * consideration." `K-RGS TP-PL KR-GS`
 * deserved `TKAOE/SER/-FD`
 * not `TPHOT`

@@ -890,7 +890,7 @@
 * personal `PERPBL`
 * America `PHERBG`
 * watch `WAFP`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * leaves `HREFS`
 * declared `TKE/KHRAEURD`
 * hot `HOT`
@@ -967,7 +967,7 @@
 * camp `KAFRP`
 * nation `TPH-GS`
 * existence `KPEUFS`
-* reply `RE/PHREU`
+* reply `RE/PHRAOEU`
 * I'd `AOEUD`
 * copies `KO*EPS`
 * sky `SKAOEU`
@@ -1576,7 +1576,7 @@
 * wholly `WHOE/HREU`
 * teeth `TAO*ET`
 * busy `PW-Z`
-* treated `TRAETD`
+* treated `TRAOETD`
 * burning `PWURPBG`
 * shame `SHAEUPL`
 * quality `KWALT`
@@ -1719,7 +1719,7 @@
 * friendly `TPREPBLD`
 * entrance `SPWRAPBS`
 * rooms `RAOPLS`
-* admit `AD/PHEUT`
+* admit `TKPHEUT`
 * supply `SPHRAOEU`
 * clean `KHRAOEPB`
 * useful `AOUFL`
@@ -1760,7 +1760,7 @@
 * notes `TPHOETS`
 * Italian `TA*PBL`
 * gradually `TKPWRAD/WAEL`
-* acquaintance `KWAEUPB/TAPBS`
+* acquaintance `KWAEUPBS`
 * bought `PWAUT`
 * souls `SOULS`
 * mission `PHEUGS`
@@ -1923,7 +1923,7 @@
 * interrupted `EUPBT/RUPTD`
 * stock `STOBG`
 * readers `RAERDZ`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * female `TPAEL`
 * protect `PREBGT`
 * accustomed `A/KUFPLD`
@@ -2028,7 +2028,7 @@
 * anybody `TPHEUB`
 * self `S*EF`
 * extremely `KPRAOEPL`
-* treatment `TRAOEPL`
+* treatment `TRAOEPLT`
 * throat `THROET`
 * dreams `TKRAOEPLS`
 * patient `PAEURB`
@@ -2084,7 +2084,7 @@
 * shalt `SHALT`
 * remark `RARBG`
 * cook `KAOBG`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * pause `PAUS`
 * inclined `EUPB/KHRAOEUPBD`
 * convinced `KWEUPBS/-D`
@@ -2175,7 +2175,7 @@
 * hero `HOEUR`
 * accomplished `PHREURBD`
 * doth `TKA*UT`
-* classes `KHRA*FS`
+* classes `KHRASZ`
 * thanks `THAPBGS`
 * banks `PWA*PBGS`
 * philosophy `TPEUFLS`
@@ -7045,7 +7045,7 @@
 * gilded `TKPWEULD/-D`
 * clumsy `KHRUPL/SEU`
 * satin `SA/TEUPB`
-* displeased `TKEUS/PHRAOES/-D`
+* displeased `TKEUS/PHREFD`
 * odor `O*ERD`
 * clearer `KHRAOER/*ER`
 * prairie `PRAEUR/AO*E`
@@ -7251,7 +7251,7 @@
 * Theodore `THAOE/TKOR`
 * stating `STAEUGT`
 * toast `TOEFT`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * Judith `SKWRUD/*EUT`
 * asterisk `STREUFBG`
 * Virgil `SREUR/SKWREUL`

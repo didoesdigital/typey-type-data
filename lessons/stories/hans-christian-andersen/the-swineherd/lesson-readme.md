@@ -349,7 +349,7 @@
 * stopped `STOPD`
 * looked `HRAOBGD`
 * quite `KWAOEUT`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * it—in `T EPL/TKA*RB TPH`
 * fact, `TPABGT KW-BG`
 * tune `TAOUPB`

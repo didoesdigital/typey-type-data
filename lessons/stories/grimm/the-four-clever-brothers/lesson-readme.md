@@ -197,7 +197,7 @@
 * understand `URPBD`
 * stars.' `STARS TP-PL AE`
 * plan `PHRAPB`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * much, `PHUFP KW-BG`
 * became `PWAEUPL`
 * such `SUFP`

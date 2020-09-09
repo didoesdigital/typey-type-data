@@ -541,7 +541,7 @@
 * celebrated. `SEL/PWRAEUT/-D TP-PL`
 * light `HRAOEUT`
 * streamed `STRAOEPL/-D`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * lamps, `HRA*PLS KW-BG`
 * rockets `ROBGTS`
 * shot `SHOT`

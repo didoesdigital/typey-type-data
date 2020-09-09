@@ -624,7 +624,7 @@
 * them, `THEPL KW-BG`
 * polite `PHRAOEUT`
 * be, `-B KW-BG`
-* reply `RE/PHREU`
+* reply `RE/PHRAOEU`
 * question. `KWE TP-PL`
 * "You `KR-GS KPA/U`
 * exceedingly `EBGS/AOED/TKPWHREU`

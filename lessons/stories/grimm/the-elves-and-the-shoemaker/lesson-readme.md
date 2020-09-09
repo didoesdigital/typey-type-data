@@ -288,7 +288,7 @@
 * bargain; `PWARG/AEUPB STPH*FPLT`
 * shoes.' `SHAOUS TP-PL AE`
 * thought `THAUT`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * cobbler `KOB/HRER`
 * much; `PHUFP STPH*FPLT`
 * things `THEUPBGS`

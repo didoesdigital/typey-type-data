@@ -565,7 +565,7 @@
 * silly `SEUL/HREU`
 * pride, `PRAOEUD KW-BG`
 * show `SHOE`
-* ill-treatment `EUL H-PB TRAOEPL`
+* ill-treatment `EUL H-PB TRAOEPLT`
 * me. `PHE TP-PL`
 * over: `OEFR STPH-FPLT`
 * learnt `HRERPBT`

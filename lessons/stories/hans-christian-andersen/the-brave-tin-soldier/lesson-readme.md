@@ -209,7 +209,7 @@
 * must `PHUFT`
 * try `TREU`
 * make `PHAEUBG`
-* acquaintance." `KWAEUPB/TAPBS TP-PL KR-GS`
+* acquaintance." `KWAEUPBS TP-PL KR-GS`
 * Then `KPA/THEPB`
 * laid `HRAEUD`
 * himself `HEUPLS`

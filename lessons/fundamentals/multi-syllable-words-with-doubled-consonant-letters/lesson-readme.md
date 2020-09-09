@@ -845,7 +845,7 @@
 * Brussels `PWRUS/ELS`
 * harness `HARPBS`
 * channels `KHAPBLS`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * accomplishment `PHREUPLT`
 * syllable `SEUL/-BL`
 * commissioners `KPHEUGS/ERS`

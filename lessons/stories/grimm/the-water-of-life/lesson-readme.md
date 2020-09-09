@@ -465,7 +465,7 @@
 * quarter `KWAR/TER`
 * sprang `SPRAPBG`
 * couch `KOUFP`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * frightened, `TPRAOEUFPBD KW-BG`
 * ran `RAPB`
 * filled `TPEULD`
@@ -542,7 +542,7 @@
 * together, `TOGT KW-BG`
 * waste `WAEFT`
 * war `WAR`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * famine, `TPAPL/-PB KW-BG`
 * feared `TPAOERD`
 * want. `WAPBT TP-PL`

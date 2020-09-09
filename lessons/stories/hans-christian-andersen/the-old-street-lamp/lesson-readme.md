@@ -948,7 +948,7 @@
 * endowed `EPB/TKOU/-D`
 * decay `TKE/KAEU`
 * rust `RUFT`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * therefore `TH-FR`
 * melting-furnace `PHELT/-G H-PB TPURPBS`
 * changed `KHAEUPBGD`

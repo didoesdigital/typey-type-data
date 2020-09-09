@@ -216,7 +216,7 @@
 * verbal `SRERBL`
 * message. `PHEPBLG TP-PL`
 * But `KPA/PWUT`
-* reply, `RE/PHREU KW-BG`
+* reply, `RE/PHRAOEU KW-BG`
 * said, `SED KW-BG`
 * if `TP`
 * part, `PART KW-BG`
@@ -352,7 +352,7 @@
 * burst, `PWUFRT KW-BG`
 * declared `TKE/KHRAEURD`
 * players, `PHRAEURS KW-BG`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * much. `PHUFP TP-PL`
 * So `KPA/SO`
 * mind `PHAOEUPBD`

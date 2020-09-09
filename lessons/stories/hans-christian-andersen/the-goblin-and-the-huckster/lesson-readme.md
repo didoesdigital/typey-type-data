@@ -438,7 +438,7 @@
 * their `THAEUR`
 * opinions `P-PBS`
 * confidence `K-F`
-* treated `TRAETD`
+* treated `TRAOETD`
 * him `HEUPL`
 * respect, `R-PT KW-BG`
 * read `RAED`

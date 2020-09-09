@@ -6,7 +6,7 @@
 * had `H`
 * made `PHAED`
 * the `-T`
-* acquaintance `KWAEUPB/TAPBS`
+* acquaintance `KWAEUPBS`
 * of `-F`
 * a `AEU`
 * mouse, `PHOUS KW-BG`

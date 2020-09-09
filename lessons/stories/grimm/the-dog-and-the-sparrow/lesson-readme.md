@@ -410,7 +410,7 @@
 * Away `KPA/WA*EU`
 * husband `HUS`
 * upstairs, `AUP/STAEURS KW-BG`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * sitting `SEUGT`
 * floor `TPHRAOR`
 * corn, `KORPB KW-BG`

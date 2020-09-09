@@ -551,12 +551,12 @@
 * south `SOUT`
 * red, `RED KW-BG`
 * if `TP`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * storm `STORPL`
 * rising. `RAOEUFG TP-PL`
 * At `KPA/AT`
 * sight `SAOEUT`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * frightened, `TPRAOEUFPBD KW-BG`
 * trembled `TREPL/-BLD`
 * knees `TPHAOEZ`

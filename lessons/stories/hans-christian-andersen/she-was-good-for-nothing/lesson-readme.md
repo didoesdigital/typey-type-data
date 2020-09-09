@@ -720,7 +720,7 @@
 * difference `TKEUFRPBS`
 * between `TWAOEPB`
 * 'He `AE KPA/HE`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * now,' `TPHOU KW-BG AE`
 * 'with `AE W`
 * face; `TPAEUS STPH*FPLT`
@@ -785,7 +785,7 @@
 * threw `THRAOU`
 * myself `PHAO*EUS`
 * passed `PAFD`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * night; `TPHAOEUT STPH*FPLT`
 * God `TKPWO*D`
 * knows `TPHOEZ`

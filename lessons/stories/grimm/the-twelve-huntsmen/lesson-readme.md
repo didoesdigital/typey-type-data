@@ -271,7 +271,7 @@
 * roll `ROL`
 * about.' `PW TP-PL AE`
 * well `WEL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * counsel, `KOUPB KW-BG`
 * strewn. `STRAOUPB TP-PL`
 * was, `WAS KW-BG`

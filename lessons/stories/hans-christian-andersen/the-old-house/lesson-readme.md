@@ -290,7 +290,7 @@
 * because `PWAU`
 * know `TPHOE`
 * And `AFPBD`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * carried `KAERD`
 * soldier `SHRERPBLG`
 * into `TPHAO`
@@ -372,7 +372,7 @@
 * asses' `A*S/-S AE`
 * ears, `AOERS KW-BG`
 * flowers `TPHRO*URS`
-* pleased. `PHRAOEFD TP-PL`
+* pleased. `PHREFD TP-PL`
 * pot `POT`
 * pinks `PEUPB/-BGS`
 * growing `TKPWROEG`
@@ -1009,7 +1009,7 @@
 * "no `KR-GS TPHO`
 * knows. `TPHOEZ TP-PL`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * been," `PW-PB KW-BG KR-GS`
 * she. `SHE TP-PL`
 * "Yes, `KR-GS KPA/KWRE KW-BG`

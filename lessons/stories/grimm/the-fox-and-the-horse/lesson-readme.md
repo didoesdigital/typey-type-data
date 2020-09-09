@@ -167,7 +167,7 @@
 * his `HEUS`
 * carcase.' `xxx carcase TP-PL AE`
 * greatly `TKPWRAELT`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * set `SET`
 * immediately; `PHAOELD STPH*FPLT`
 * when `WHEPB`
@@ -191,7 +191,7 @@
 * leisure.' `HR*ERB TP-PL AE`
 * This `KPA/TH`
 * advice `SREUS`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * lion, `HRO*EUPB KW-BG`
 * laid `HRAEUD`
 * himself `HEUPLS`

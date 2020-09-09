@@ -268,7 +268,7 @@
 * tail `TAEUL`
 * peacock, `PAE/KOBG KW-BG`
 * covered `KOFRD`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * eyes, `AO*EUS KW-BG`
 * each `AOEFP`
 * eye `AOEU`

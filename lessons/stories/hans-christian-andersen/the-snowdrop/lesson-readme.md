@@ -444,7 +444,7 @@
 * read `RAED`
 * dear `TKAER`
 * friend. `TPREPBD TP-PL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * he `HE`
 * was! `WAS SKHRAPL`
 * laid, `HRAEUD KW-BG`

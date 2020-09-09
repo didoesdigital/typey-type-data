@@ -280,7 +280,7 @@
 * perhaps `PRAPS`
 * fancied `TPAPB/SEU/-D`
 * everything `EFRG`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * him, `HEUPL KW-BG`
 * excepting `KPEPT/-G`
 * sun. `SUPB TP-PL`
@@ -1088,7 +1088,7 @@
 * chance `KHAPBS`
 * you. `U TP-PL`
 * sake `SAEUBG`
-* acquaintance. `KWAEUPB/TAPBS TP-PL`
+* acquaintance. `KWAEUPBS TP-PL`
 * expenses `SPEPBS/-S`
 * journey, `SKWRURPB KW-BG`
 * write `WREU`
@@ -1313,7 +1313,7 @@
 * proud `PROUD`
 * humor, `HAOURPL KW-BG`
 * correctly, `KRELG KW-BG`
-* treated `TRAETD`
+* treated `TRAOETD`
 * so," `SO KW-BG KR-GS`
 * doorway, `TKAOR/WAEU KW-BG`
 * sun, `SUPB KW-BG`

@@ -43,7 +43,7 @@
 * not `TPHOT`
 * even `AOEPB`
 * condescend `KOPBD/SEPBD`
-* reply. `RE/PHREU TP-PL`
+* reply. `RE/PHRAOEU TP-PL`
 * The `KPA/-T`
 * next `TPHEGT`
 * day `TKAEU`

@@ -174,7 +174,7 @@
 * surrounded `SROUPBD/-D`
 * them! `THEPL SKHRAPL`
 * It `KPA/T`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * hear `HAER`
 * that, `THA KW-BG`
 * preacher `PRAO*EFP`

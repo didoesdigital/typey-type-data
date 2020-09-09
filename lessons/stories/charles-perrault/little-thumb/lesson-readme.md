@@ -476,7 +476,7 @@
 * ate `AEUT`
 * such `SUFP`
 * appetite `AP/TAOEUT`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * both `PWO*T`
 * mother, `PHOER KW-BG`
 * acquainted `A/KWAEUPBTD`
@@ -558,7 +558,7 @@
 * terrible `TERBL`
 * high `HAOEU`
 * wind, `WEUPBD KW-BG`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * afraid. `A/TPRAEUD TP-PL`
 * side `SAOEUD`
 * houling `xxx houling`
@@ -735,7 +735,7 @@
 * luckily `HRULG`
 * entertain `EPBT/TAEUPB`
 * Ogres `KPA/OEG/ERS`
-* acquaintance, `KWAEUPB/TAPBS KW-BG`
+* acquaintance, `KWAEUPBS KW-BG`
 * pay `PAEU`
 * visit `SREUFT`
 * day `TKAEU`
@@ -1106,7 +1106,7 @@
 * causing `KAUFG`
 * known, `TPHOEPB KW-BG`
 * whatever `WHAF`
-* pleased; `PHRAOEFD STPH*FPLT`
+* pleased; `PHREFD STPH*FPLT`
 * paid `PAEUD`
 * carrying `KAERG`
 * orders `ORDZ`

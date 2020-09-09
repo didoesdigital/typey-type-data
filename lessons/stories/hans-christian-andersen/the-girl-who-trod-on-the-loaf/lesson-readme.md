@@ -148,7 +148,7 @@
 * lived `HREUFD`
 * at `AT`
 * distance, `STKAPBS KW-BG`
-* treated `TRAETD`
+* treated `TRAOETD`
 * own `OEPB`
 * dressed `TKREFD`
 * fine `TPAOEUPB`
@@ -587,7 +587,7 @@
 * "But `KR-GS KPA/PWUT`
 * come `KOPL`
 * again?" `TKPWEPB H-F KR-GS`
-* reply, `RE/PHREU KW-BG`
+* reply, `RE/PHRAOEU KW-BG`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * again." `TKPWEPB TP-PL KR-GS`
 * if `TP`
@@ -614,7 +614,7 @@
 * here `HAOER`
 * again. `TKPWEPB TP-PL`
 * Poor `KPA/PAOR`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * her." `HER TP-PL KR-GS`
 * These `KPA/THEZ`
 * pitying `PEUT/EUG`

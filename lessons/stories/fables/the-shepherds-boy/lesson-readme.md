@@ -60,7 +60,7 @@
 * considerable `KR-BL`
 * time. `TAOEUPL TP-PL`
 * This `KPA/TH`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * boy `PWOEU`
 * much `PHUFP`
 * that `THA`

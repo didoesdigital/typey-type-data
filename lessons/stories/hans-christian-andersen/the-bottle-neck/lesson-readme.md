@@ -1152,7 +1152,7 @@
 * fear `TPAOER`
 * striking `STRAOEUG`
 * anything." `TPHEUG TP-PL KR-GS`
-* Thousands `KPA/THOEUPBS`
+* Thousands `KPA/THOUDZ`
 * gazed `TKPWAEZ/-D`
 * balloon, `PWHRAOPB KW-BG`
 * also; `HR-S STPH*FPLT`

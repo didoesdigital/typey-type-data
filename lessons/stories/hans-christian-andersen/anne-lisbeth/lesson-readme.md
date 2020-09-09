@@ -279,7 +279,7 @@
 * this, `TH KW-BG`
 * him. `HEUPL TP-PL`
 * world `WORLD`
-* treated `TRAETD`
+* treated `TRAOETD`
 * boy, `PWOEU KW-BG`
 * otherwise. `O*ERZ TP-PL`
 * It `KPA/T`
@@ -820,7 +820,7 @@
 * alarmed `A/HRARPLD`
 * remember `RER`
 * dreamed, `TKREPLD KW-BG`
-* dreadful. `TKRED/-FL TP-PL`
+* dreadful. `TKREFL TP-PL`
 * They `KPA/THE`
 * drank `TKRA*PBG`
 * their `THAEUR`

@@ -54,7 +54,7 @@
 * too `TAO`
 * hard," `HARD KW-BG KR-GS`
 * in `TPH`
-* reply. `RE/PHREU TP-PL`
+* reply. `RE/PHRAOEU TP-PL`
 * rocks `ROBGS`
 * will `HR`
 * soon `SAOPB`

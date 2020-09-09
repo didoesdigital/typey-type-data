@@ -304,7 +304,7 @@
 * tell `TEL`
 * much." `PHUFP TP-PL KR-GS`
 * "We `KR-GS KPA/WE`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * hear `HAER`
 * that," `THA KW-BG KR-GS`
 * described `KREUFD`
@@ -407,7 +407,7 @@
 * Am `KPA/APL`
 * emperor? `EPL/ROR H-F`
 * indeed `TPHAOEPBD`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * thing `THEUPBG`
 * happen `HAP`
 * me." `PHE TP-PL KR-GS`

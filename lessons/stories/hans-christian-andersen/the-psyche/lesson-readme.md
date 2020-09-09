@@ -39,7 +39,7 @@
 * and `SKP`
 * elsewhere `ELS/W-R`
 * during `TKURG`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * years `KWRAOERS`
 * our `OUR`
 * rolling `ROLG`

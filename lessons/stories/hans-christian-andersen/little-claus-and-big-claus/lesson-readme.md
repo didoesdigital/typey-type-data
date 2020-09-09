@@ -168,7 +168,7 @@
 * "Good `KR-GS KPA/TKPWAOD`
 * day," `TKAEU KW-BG KR-GS`
 * became `PWAEUPL`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * thought `THAUT`
 * grand `TKPWRAPBD`
 * have `SR`
@@ -274,7 +274,7 @@
 * her `HER`
 * husband `HUS`
 * allow `HROU`
-* admit `AD/PHEUT`
+* admit `TKPHEUT`
 * strangers. `STRAEURPBGS TP-PL`
 * "Then `KR-GS KPA/THEPB`
 * lie `HRAOEU`
@@ -601,7 +601,7 @@
 * exactly `ELG`
 * our `OUR`
 * How `KPA/HOU`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * is!" `S SKHRAPL KR-GS`
 * drink `TKREU`
 * sat `SAT`

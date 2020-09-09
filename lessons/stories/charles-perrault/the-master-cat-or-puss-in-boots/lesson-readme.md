@@ -239,7 +239,7 @@
 * (for `PREPB TPOR`
 * title `TAOEULT`
 * Puss `KPA/PUSZ`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * master) `PHAFRT PR*EPB`
 * "has `KR-GS HAS`
 * commanded `KPHAPBD/-D`

@@ -319,7 +319,7 @@
 * wicked `WEUBGD`
 * look. `HRAOBG TP-PL`
 * 'how `AE HOU`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * look! `HRAOBG SKHRAPL`
 * Yes, `KPA/KWRE KW-BG`
 * kill `KEUL`
@@ -724,7 +724,7 @@
 * 'How `AE KPA/HOU`
 * feel,' `TPAOEL KW-BG AE`
 * 'so `AE SO`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * cheerful.' `KHAOER/-FL TP-PL AE`
 * 'And `AE AFPBD`
 * I,' `EU KW-BG AE`

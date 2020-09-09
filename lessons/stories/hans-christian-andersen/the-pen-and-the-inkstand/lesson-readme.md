@@ -389,7 +389,7 @@
 * settled `SELTD`
 * matter `PHAERT`
 * by `PWEU`
-* reply; `RE/PHREU STPH*FPLT`
+* reply; `RE/PHRAOEU STPH*FPLT`
 * something `S-G`
 * make `PHAEUBG`
 * sleep `SHRAOEP`

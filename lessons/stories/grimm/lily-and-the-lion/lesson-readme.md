@@ -158,7 +158,7 @@
 * they `THE`
 * riding `RAOEUD/-G`
 * well `WEL`
-* pleased, `PHRAOEFD KW-BG`
+* pleased, `PHREFD KW-BG`
 * up `UP`
 * sprang `SPRAPBG`
 * fierce `TPAOERS`
@@ -648,7 +648,7 @@
 * palace, `PAL/AS KW-BG`
 * gazed `TKPWAEZ/-D`
 * her; `HER STPH*FPLT`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * bride `PWRAOEUD`
 * sold. `SOELD TP-PL`
 * 'Not `AE KPA/TPHOT`

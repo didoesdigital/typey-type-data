@@ -264,7 +264,7 @@
 * air `AEUR`
 * see `SAOE`
 * which `WEU`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * much. `PHUFP TP-PL`
 * sat `SAT`
 * by `PWEU`

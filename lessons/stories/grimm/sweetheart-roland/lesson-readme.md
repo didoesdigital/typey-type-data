@@ -466,7 +466,7 @@
 * concealed `KAUPB/SAOELD`
 * himself `HEUPLS`
 * certainly `SERPBL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * attendance, `A/TEPBD/APBS KW-BG`
 * last `HRAFT`
 * afraid `A/TPRAEUD`

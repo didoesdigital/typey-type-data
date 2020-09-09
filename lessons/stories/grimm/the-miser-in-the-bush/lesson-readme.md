@@ -331,7 +331,7 @@
 * proposal.' `PROEL TP-PL AE`
 * So `KPA/SO`
 * travelled `TRAFL/*LD`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * with `W`
 * bargain. `PWARG/AEUPB TP-PL`
 * Meanwhile `KPA/PHAOEPB/WHAOEUL`

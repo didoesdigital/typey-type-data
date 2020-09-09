@@ -336,7 +336,7 @@
 * up `UP`
 * stairs." `STAEURS TP-PL KR-GS`
 * word; `WORD STPH*FPLT`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * afraid. `A/TPRAEUD TP-PL`
 * They `KPA/THE`
 * entered `SPWR-D`
@@ -1214,7 +1214,7 @@
 * watch-house `WAFP H-PB HOUS`
 * dog." `TKOG TP-PL KR-GS`
 * was, `WAS KW-BG`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * trouble. `TRUBL TP-PL`
 * know `TPHOE`
 * whether `WHR`

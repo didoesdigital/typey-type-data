@@ -217,7 +217,7 @@
 * approval `A/PROFL`
 * moment, `PHOEPLT KW-BG`
 * for `TPOR`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * find `TPAOEUPBD`
 * such `SUFP`
 * description `SKREUPGS`

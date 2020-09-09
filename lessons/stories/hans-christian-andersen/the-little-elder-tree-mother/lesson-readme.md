@@ -326,7 +326,7 @@
 * remember `RER`
 * date, `TKAEUT KW-BG`
 * sitting `SEUGT`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * here. `HAOER TP-PL`
 * 'I `AE EU`
 * well `WEL`
@@ -435,7 +435,7 @@
 * dust-bin `TKUFT H-PB PWEUPB`
 * moment `PHOEPLT`
 * doorway, `TKAOR/WAEU KW-BG`
-* dreadful `TKRED/-FL`
+* dreadful `TKREFL`
 * weather. `WHR* TP-PL`
 * Then `KPA/THEPB`
 * postman `POEFT/PHAPB`
@@ -757,7 +757,7 @@
 * summer, `SAOURPL KW-BG`
 * autumn `AU/UPL`
 * winter, `WEURPBT KW-BG`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * pictures `P*EUFPS`
 * reflected `TPHREBGTD`
 * boy's `PWOEU AES`

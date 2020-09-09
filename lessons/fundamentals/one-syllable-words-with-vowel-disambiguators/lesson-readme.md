@@ -14,7 +14,6 @@
 * troops `TRAOPS`
 * woods `WAODZ`
 * weight `WAET`
-* treated `TRAETD`
 * proof `PRAOF`
 * wear `WAER`
 * roof `RAOF`

@@ -774,7 +774,7 @@
 * first `TPEUFRT`
 * view `SRAOU`
 * seem `SAOEPL`
-* admit `AD/PHEUT`
+* admit `TKPHEUT`
 * of: `-F STPH-FPLT`
 * "Is `KR-GS KPA/S`
 * you, `U KW-BG`
@@ -795,7 +795,7 @@
 * himself; `HEUPLS STPH*FPLT`
 * discourse `TKEUS/KORS`
 * connected, `KEBGTD KW-BG`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * more; `PHOR STPH*FPLT`
 * eloquence, `EL/KWEPBS KW-BG`
 * deal `TKAOEL`

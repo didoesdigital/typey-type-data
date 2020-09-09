@@ -890,7 +890,7 @@
 * personal `PERPBL`
 * America `PHERBG`
 * watch `WAFP`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * leaves `HREFS`
 * declared `TKE/KHRAEURD`
 * hot `HOT`
@@ -967,7 +967,7 @@
 * camp `KAFRP`
 * nation `TPH-GS`
 * existence `KPEUFS`
-* reply `RE/PHREU`
+* reply `RE/PHRAOEU`
 * I'd `AOEUD`
 * copies `KO*EPS`
 * sky `SKAOEU`

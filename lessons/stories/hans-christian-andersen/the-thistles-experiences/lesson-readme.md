@@ -434,7 +434,7 @@
 * idea `KWR-D`
 * cambric `KAPL/PWREUBG`
 * rightly `RAOEULT`
-* treated. `TRAETD TP-PL`
+* treated. `TRAOETD TP-PL`
 * summer `SAOURPL`
 * went `WEPBT`
 * by, `PWEU KW-BG`

@@ -512,7 +512,7 @@
 * ball `PWAUL`
 * with; `W STPH*FPLT`
 * are `R`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * it?" `T H-F KR-GS`
 * "O `KR-GS O*P`
 * yes," `KWRE KW-BG KR-GS`
@@ -921,7 +921,7 @@
 * beg `PWEG`
 * pardon `PARD`
 * ill `EUL`
-* treatment `TRAOEPL`
+* treatment `TRAOEPLT`
 * undergo. `UPBD/TKPW TP-PL`
 * embraced `EPL/PWRAEUFD`
 * forgave `TPA*URG`

@@ -242,7 +242,7 @@
 * child `KHAOEULD`
 * world; `WORLD STPH*FPLT`
 * well `WEL`
-* treated, `TRAETD KW-BG`
+* treated, `TRAOETD KW-BG`
 * care `KAEUR`
 * mother.' `PHOER TP-PL AE`
 * terror `TER/O*R`

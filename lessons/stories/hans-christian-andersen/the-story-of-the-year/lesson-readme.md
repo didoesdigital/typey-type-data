@@ -355,7 +355,7 @@
 * us, `US KW-BG`
 * would `WO`
 * done `TKOPB`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * them `THEPL`
 * also `HR-S`
 * strew `STRAOU`

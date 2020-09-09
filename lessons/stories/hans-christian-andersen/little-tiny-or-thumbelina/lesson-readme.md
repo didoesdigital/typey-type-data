@@ -419,7 +419,7 @@
 * fluttered `TPHRUT/ERD`
 * alighted `A/HRAOEUT/-D`
 * leaf. `HRAOEF TP-PL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * him, `HEUPL KW-BG`
 * glad `TKPWHRAD`
 * now `TPHOU`
@@ -549,7 +549,7 @@
 * remained `RE/PHAEUPBD`
 * withered `WEU/THER/-D`
 * stalk. `STAUBG TP-PL`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * cold, `KOELD KW-BG`
 * clothes `KHRO*ETS`
 * torn, `TORPB KW-BG`
@@ -995,7 +995,7 @@
 * soon, `SAOPB KW-BG`
 * over, `OEFR KW-BG`
 * place. `PHRAEUS TP-PL`
-* pleased; `PHRAOEFD STPH*FPLT`
+* pleased; `PHREFD STPH*FPLT`
 * tiresome `TAOEUR/SO*PL`
 * rose, `ROEZ KW-BG`
 * down, `TKOUPB KW-BG`

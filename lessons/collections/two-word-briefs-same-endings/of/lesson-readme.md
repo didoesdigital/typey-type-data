@@ -5,7 +5,6 @@
 * because of `PWAUF`
 * book of `PWAOFBG`
 * case of `KAEUFS`
-* class of `KHRAFS`
 * consist of `KAOF`
 * consisted of `KAOFD`
 * consisting of `KAOFG`

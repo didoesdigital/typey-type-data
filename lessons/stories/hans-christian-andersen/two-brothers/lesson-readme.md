@@ -136,7 +136,7 @@
 * no `TPHO`
 * fairy `TPAEUR/REU`
 * tale `TAEL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * him `HEUPL`
 * so `SO`
 * much. `PHUFP TP-PL`

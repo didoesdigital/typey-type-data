@@ -93,7 +93,7 @@
 * dances; `TKAPBS/-S STPH*FPLT`
 * something." `S-G TP-PL KR-GS`
 * earth-worm `*ERT H-PB WORPL`
-* acquaintance," `KWAEUPB/TAPBS KW-BG KR-GS`
+* acquaintance," `KWAEUPBS KW-BG KR-GS`
 * third `THEURD`
 * "the `KR-GS -T`
 * come `KOPL`
@@ -256,7 +256,7 @@
 * carefully `KA*EUFL`
 * selected; `SHREBGTD STPH*FPLT`
 * we `WE`
-* admit `AD/PHEUT`
+* admit `TKPHEUT`
 * persons `PERPBS`
 * high `HAOEU`
 * rank; `RA*PBG STPH*FPLT`
@@ -979,7 +979,7 @@
 * riven `xxx riven`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * much `PHUFP`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * goblin!" `TKPWOB/HREUPB SKHRAPL KR-GS`
 * better," `PWOERT KW-BG KR-GS`
 * earth-worm. `*ERT H-PB WORPL TP-PL`

@@ -28,7 +28,7 @@
 * intended `SPWEPBD/-D`
 * trademark `TRAEUD/PHARBG`
 * appears `A/PAOERS`
-* reply `RE/PHREU`
+* reply `RE/PHRAOEU`
 * religious `RE/HREURBS`
 * father's `TPAER/AES`
 * affairs `A/TPAEURS`
@@ -125,7 +125,6 @@
 * splendid `SPHREPB/TKEUD`
 * instantly `EUPB/STAPBT/HREU`
 * increase `EUPB/KRAOES`
-* admit `AD/PHEUT`
 * delicate `TKEL/KAT`
 * remove `RE/PHOF`
 * addressed `A/TKREFD`
@@ -134,7 +133,6 @@
 * release `RE/HRAOES`
 * ahead `A/HED`
 * gradually `TKPWRAD/WAEL`
-* acquaintance `KWAEUPB/TAPBS`
 * sacrifice `SARBG/TPAOEUS`
 * buried `PWUR/EUD`
 * commanded `KPHAPBD/-D`
@@ -169,7 +167,6 @@
 * Israel `EUZ/RAEL`
 * disappeared `TKEUS/PAOERD`
 * interrupted `EUPBT/RUPTD`
-* dreadful `TKRED/-FL`
 * accustomed `A/KUFPLD`
 * temper `TEPL/PER`
 * avoid `A/SROEUD`
@@ -1967,7 +1964,7 @@
 * Liverpool `HREUFR/PAOL`
 * clumsy `KHRUPL/SEU`
 * satin `SA/TEUPB`
-* displeased `TKEUS/PHRAOES/-D`
+* displeased `TKEUS/PHREFD`
 * Hudson `HUD/SOPB`
 * feudal `TPAOU/TKAL`
 * freshness `TPRERB/-PBS`
@@ -2080,7 +2077,7 @@
 * perchance `PER/KHAPBS`
 * forbade `TPOR/PWAEUD`
 * Theodore `THAOE/TKOR`
-* dreadfully `TKRED/-FL/KWREU`
+* dreadfully `TKRED/TPHREU`
 * Virgil `SREUR/SKWREUL`
 * edifice `ED/TPEUS`
 * sundry `SUPBD/REU`

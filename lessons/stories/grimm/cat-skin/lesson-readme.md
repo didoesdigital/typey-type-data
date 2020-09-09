@@ -478,7 +478,7 @@
 * over, `OEFR KW-BG`
 * ordered `ORD/-D`
 * in; `TPH STPH*FPLT`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * him `HEUPL`
 * well, `WEL KW-BG`
 * tasted `TAEUFT/-D`

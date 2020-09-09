@@ -438,7 +438,7 @@
 * heart `HART`
 * cause `KAUS`
 * trouble `TRUBL`
-* treated `TRAETD`
+* treated `TRAOETD`
 * cast-off `KAFT SKWRO*F`
 * coin. `KOEUPB TP-PL`
 * who, `WHO KW-BG`

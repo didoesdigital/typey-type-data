@@ -227,7 +227,7 @@
 * who `WHO`
 * sits `SEUTS`
 * this `TH`
-* dreadful; `TKRED/-FL STPH*FPLT`
+* dreadful; `TKREFL STPH*FPLT`
 * tower, `TOUR KW-BG`
 * mind `PHAOEUPBD`
 * him. `HEUPL TP-PL`
@@ -811,7 +811,7 @@
 * gibbet `TKPWEUB/ET`
 * erected, `AOE/REBGD KW-BG`
 * several `SEFRL`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * people. `PAOEPL TP-PL`
 * splendid `SPHREPB/TKEUD`
 * thrones `THRO*EPB/-S`

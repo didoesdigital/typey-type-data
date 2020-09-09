@@ -130,7 +130,7 @@
 * krabbling `xxx krabbling`
 * there! `THR SKHRAPL`
 * All `KPA/AUL`
-* thousands `THOEUPBS`
+* thousands `THOUDZ`
 * little `HREUL`
 * hopped `HOPD`
 * sprang `SPRAPBG`

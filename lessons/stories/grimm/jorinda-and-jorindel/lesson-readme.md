@@ -28,7 +28,7 @@
 * any `TPHEU`
 * shape `SHAEUP`
 * she `SHE`
-* pleased. `PHRAOEFD TP-PL`
+* pleased. `PHREFD TP-PL`
 * All `KPA/AUL`
 * day `TKAEU`
 * long `HROPBG`

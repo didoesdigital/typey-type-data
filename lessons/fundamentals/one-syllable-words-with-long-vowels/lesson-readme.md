@@ -58,6 +58,7 @@
 * rode `ROED`
 * post `POEFT`
 * coat `KOET`
+* treated `TRAOETD`
 * pair `PAEUR`
 * ride `RAOEUD`
 * seated `SAOETD`

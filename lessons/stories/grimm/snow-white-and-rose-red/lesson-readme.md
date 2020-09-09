@@ -754,7 +754,7 @@
 * horror `HOR/O*R`
 * eagle `AOEG/-L`
 * seized `SAOEZ/-D`
-* acquaintance `KWAEUPB/TAPBS`
+* acquaintance `KWAEUPBS`
 * dwarf, `TKWAFR KW-BG`
 * carry `KAER`
 * off. `OF TP-PL`

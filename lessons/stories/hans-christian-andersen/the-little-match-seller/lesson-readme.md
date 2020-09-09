@@ -326,7 +326,7 @@
 * door `TKAOR`
 * rich `REUFP`
 * merchant's. `PHEFRPBT AE S* TP-PL`
-* Thousands `KPA/THOEUPBS`
+* Thousands `KPA/THOUDZ`
 * tapers `TAEURPS`
 * green `TKPWRAOEPB`
 * branches, `PWRAFRPBS KW-BG`

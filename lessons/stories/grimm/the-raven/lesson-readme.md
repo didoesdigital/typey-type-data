@@ -558,7 +558,7 @@
 * eaten `AOET/EPB`
 * drunk `TKR*UPBG`
 * unconsumed. `xxx unconsumed TP-PL`
-* pleased `PHRAOEFD`
+* pleased `PHREFD`
 * good `TKPWAOD`
 * cheer, `KHAOER KW-BG`
 * ate `AEUT`
