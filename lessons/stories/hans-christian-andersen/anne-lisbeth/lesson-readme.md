@@ -142,7 +142,7 @@
 * although `HR*T`
 * they `THE`
 * said `SED`
-* growth `TKPWRO*UT`
+* growth `TKPWRO*ET`
 * been `PW-PB`
 * stunted. `STUPBT/-D TP-PL`
 * become `PW-BG`

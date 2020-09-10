@@ -2033,7 +2033,7 @@
 * dreams `TKRAOEPLS`
 * patient `PAEURB`
 * speed `SPAOED`
-* growth `TKPWRO*UT`
+* growth `TKPWRO*ET`
 * quantity `KWAPBT`
 * Latin `HRA/TEUPB`
 * immense `EUPL/EPBS`

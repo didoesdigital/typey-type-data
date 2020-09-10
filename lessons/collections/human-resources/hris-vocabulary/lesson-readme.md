@@ -59,7 +59,7 @@
 * collective bargaining `KHREBGT/T*EUF/PWAR/TKPWAEUPB/-G`
 * motivation `PHOET/SRAEUGS`
 * interpersonal `SPWR/PERPBL`
-* growth `TKPWRO*UT`
+* growth `TKPWRO*ET`
 * mindset `PHAOEUPBD/SET`
 * performance `P-FRPBS`
 * performs `PORPLS`

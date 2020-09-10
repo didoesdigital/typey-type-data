@@ -593,7 +593,7 @@
 * broader `PWRAORD`
 * fuller; `TPUL/*ER STPH*FPLT`
 * proportion `PORPGS`
-* growth, `TKPWRO*UT KW-BG`
+* growth, `TKPWRO*ET KW-BG`
 * self-satisfaction `SEF/SAEBGS`
 * increased, `EUPB/KRAOEFD KW-BG`
 * arose `A/ROES`

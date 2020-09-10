@@ -2444,7 +2444,7 @@
 * growl `TKPWROUL`
 * grown `TKPWROEPB`
 * grown-up `TKPWR*UP`
-* growth `TKPWRO*UT`
+* growth `TKPWRO*ET`
 * grub `TKPWRUB`
 * grudge `TKPWRUPBLG`
 * gruel `TKPWRAOUL`

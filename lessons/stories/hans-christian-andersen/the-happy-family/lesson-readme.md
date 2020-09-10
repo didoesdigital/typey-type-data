@@ -108,7 +108,7 @@
 * beds `PWEDZ`
 * walks `WAUBGS`
 * garden—its `TKPWA*RPB EPL/TKA*RB EUTS`
-* growth `TKPWRO*UT`
+* growth `TKPWRO*ET`
 * check—till `KHEBG EPL/TKA*RB TEUL`
 * became `PWAEUPL`
 * at `AT`

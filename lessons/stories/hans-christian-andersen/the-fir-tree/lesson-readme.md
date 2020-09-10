@@ -296,7 +296,7 @@
 * youth," `KWRAO*UT KW-BG KR-GS`
 * sunbeam; `SUPB/PWAOEPL STPH*FPLT`
 * "rejoice `KR-GS RE/SKWROEUS`
-* growth, `TKPWRO*UT KW-BG`
+* growth, `TKPWRO*ET KW-BG`
 * life `HRAOEUF`
 * thee." `THAOE TP-PL KR-GS`
 * kissed `K*EUFD`
@@ -912,7 +912,7 @@
 * all," `AUL KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * checked `KHEBGD`
-* growth." `TKPWRO*UT TP-PL KR-GS`
+* growth." `TKPWRO*ET TP-PL KR-GS`
 * stories `STOERS`
 * relate," `RELT KW-BG KR-GS`
 * mice. `PHAOEUS TP-PL`
