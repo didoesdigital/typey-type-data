@@ -972,6 +972,16 @@
   ]
   , "practiceCourse": [
     {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-u/lesson.txt",
+      "lessonTitle": "Proverbs starting with U",
+      "target": 6
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-v/lesson.txt",
+      "lessonTitle": "Proverbs starting with V",
+      "target": 6
+    },
+    {
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-z/lesson.txt",
       "lessonTitle": "Proverbial phrases starting with Z",
       "target": 7
@@ -980,6 +990,11 @@
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-v/lesson.txt",
       "lessonTitle": "Proverbial phrases starting with V",
       "target": 11
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-r/lesson.txt",
+      "lessonTitle": "Proverbs starting with R",
+      "target": 12
     },
     {
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-j/lesson.txt",
@@ -992,9 +1007,39 @@
       "target": 30
     },
     {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-m/lesson.txt",
+      "lessonTitle": "Proverbs starting with M",
+      "target": 32
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-s/lesson.txt",
+      "lessonTitle": "Proverbs starting with S",
+      "target": 36
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-o/lesson.txt",
+      "lessonTitle": "Proverbs starting with O",
+      "target": 40
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-c/lesson.txt",
+      "lessonTitle": "Proverbs starting with C",
+      "target": 47
+    },
+    {
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-r/lesson.txt",
       "lessonTitle": "Proverbial phrases starting with R",
       "target": 48
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-p/lesson.txt",
+      "lessonTitle": "Proverbs starting with P",
+      "target": 59
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-f/lesson.txt",
+      "lessonTitle": "Proverbs starting with F",
+      "target": 61
     },
     {
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-k/lesson.txt",
@@ -1007,9 +1052,24 @@
       "target": 62
     },
     {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-g/lesson.txt",
+      "lessonTitle": "Proverbs starting with G",
+      "target": 64
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-l/lesson.txt",
+      "lessonTitle": "Proverbs starting with L",
+      "target": 67
+    },
+    {
       "path": "/lessons/stories/fables/the-serpent-and-the-file/lesson.txt",
       "lessonTitle": "The Serpent and the File",
       "target": 68
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-n/lesson.txt",
+      "lessonTitle": "Proverbs starting with N",
+      "target": 70
     },
     {
       "path": "/lessons/stories/fables/the-wolf-and-the-kid/lesson.txt",
@@ -1042,6 +1102,11 @@
       "target": 83
     },
     {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-b/lesson.txt",
+      "lessonTitle": "Proverbs starting with B",
+      "target": 84
+    },
+    {
       "path": "/lessons/stories/fables/the-fisher-and-the-little-fish/lesson.txt",
       "lessonTitle": "The Fisher and the Little Fish",
       "target": 85
@@ -1060,6 +1125,11 @@
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-g/lesson.txt",
       "lessonTitle": "Proverbial phrases starting with G",
       "target": 87
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-e/lesson.txt",
+      "lessonTitle": "Proverbs starting with E",
+      "target": 90
     },
     {
       "path": "/lessons/stories/fables/the-two-pots/lesson.txt",
@@ -1100,6 +1170,11 @@
       "path": "/lessons/stories/fables/the-wolf-in-sheeps-clothing/lesson.txt",
       "lessonTitle": "The Wolf in Sheep's Clothing",
       "target": 105
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-h/lesson.txt",
+      "lessonTitle": "Proverbs starting with H",
+      "target": 106
     },
     {
       "path": "/lessons/stories/fables/the-bundle-of-sticks/lesson.txt",
@@ -1145,6 +1220,16 @@
       "path": "/lessons/stories/fables/the-goose-with-the-golden-eggs/lesson.txt",
       "lessonTitle": "The Goose With the Golden Eggs",
       "target": 120
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-w/lesson.txt",
+      "lessonTitle": "Proverbs starting with W",
+      "target": 124
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-y/lesson.txt",
+      "lessonTitle": "Proverbs starting with Y",
+      "target": 124
     },
     {
       "path": "/lessons/stories/fables/the-hares-and-the-frogs/lesson.txt",
@@ -1312,6 +1397,11 @@
       "target": 184
     },
     {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-d/lesson.txt",
+      "lessonTitle": "Proverbs starting with D",
+      "target": 185
+    },
+    {
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-s/lesson.txt",
       "lessonTitle": "Proverbial phrases starting with S",
       "target": 186
@@ -1362,9 +1452,19 @@
       "target": 249
     },
     {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-t/lesson.txt",
+      "lessonTitle": "Proverbs starting with T",
+      "target": 256
+    },
+    {
       "path": "/lessons/stories/fables/the-hare-with-many-friends/lesson.txt",
       "lessonTitle": "The Hare With Many Friends",
       "target": 269
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-i/lesson.txt",
+      "lessonTitle": "Proverbs starting with I",
+      "target": 273
     },
     {
       "path": "/lessons/stories/fables/the-frogs-desiring-a-king/lesson.txt",
@@ -1390,6 +1490,11 @@
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-d/lesson.txt",
       "lessonTitle": "Proverbial phrases starting with D",
       "target": 330
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-a/lesson.txt",
+      "lessonTitle": "Proverbs starting with A",
+      "target": 363
     },
     {
       "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-a/lesson.txt",
