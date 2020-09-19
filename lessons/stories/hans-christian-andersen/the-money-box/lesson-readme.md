@@ -54,7 +54,7 @@
 * two `TWO`
 * box, `PWOBGS KW-BG`
 * besides `PW-DZ`
-* pence. `P*/EPBS TP-PL`
+* pence. `PEPBTS TP-PL`
 * The `KPA/-T`
 * money-pig `PHUPB H-PB PEUG`
 * stuffed `STUFD`

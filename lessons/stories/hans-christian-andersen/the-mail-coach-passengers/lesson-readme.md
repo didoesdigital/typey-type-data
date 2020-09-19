@@ -182,7 +182,7 @@
 * I `EU`
 * throw `THROE`
 * shillings `SHEUL/-GS`
-* pence `P*/EPBS`
+* pence `PEPBTS`
 * among `PHOPBG`
 * people; `PAOEPL STPH*FPLT`
 * balls, `PWAULS KW-BG`

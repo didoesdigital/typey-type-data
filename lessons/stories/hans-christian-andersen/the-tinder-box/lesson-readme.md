@@ -188,12 +188,12 @@
 * take `TAEUBG`
 * from `TPR`
 * many `PHAEPB`
-* pence `P*/EPBS`
+* pence `PEPBTS`
 * please, `PHRES KW-BG`
 * they `THE`
 * only `OEPBL`
 * copper `KOP/ER`
-* pence; `P*/EPBS STPH*FPLT`
+* pence; `PEPBTS STPH*FPLT`
 * but `PWUT`
 * if `TP`
 * would `WO`

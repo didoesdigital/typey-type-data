@@ -1197,7 +1197,7 @@
     "category": "Stories",
     "subcategory": "Proverbial phrases",
     "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-b/lesson.txt",
-    "wordCount": 142,
+    "wordCount": 138,
     "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-c/lesson.txt"
   },
   {
@@ -1396,6 +1396,195 @@
     "subcategory": "Proverbial phrases",
     "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-z/lesson.txt",
     "wordCount": 7,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-a/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with A",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-a/lesson.txt",
+    "wordCount": 363,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-b/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with B",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-b/lesson.txt",
+    "wordCount": 84,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-c/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with C",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-c/lesson.txt",
+    "wordCount": 47,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-d/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with D",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-d/lesson.txt",
+    "wordCount": 185,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-e/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with E",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-e/lesson.txt",
+    "wordCount": 90,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-f/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with F",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-f/lesson.txt",
+    "wordCount": 61,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-g/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with G",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-g/lesson.txt",
+    "wordCount": 64,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-h/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with H",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-h/lesson.txt",
+    "wordCount": 106,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-i/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with I",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-i/lesson.txt",
+    "wordCount": 273,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-l/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with L",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-l/lesson.txt",
+    "wordCount": 67,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-m/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with M",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-m/lesson.txt",
+    "wordCount": 32,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-n/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with N",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-n/lesson.txt",
+    "wordCount": 70,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-o/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with O",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-o/lesson.txt",
+    "wordCount": 40,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-p/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with P",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-p/lesson.txt",
+    "wordCount": 59,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-r/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with R",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-r/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-s/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with S",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-s/lesson.txt",
+    "wordCount": 36,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-t/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with T",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-t/lesson.txt",
+    "wordCount": 256,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-u/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with U",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-u/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-v/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with V",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-v/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-w/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with W",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-w/lesson.txt",
+    "wordCount": 124,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-y/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with Y",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-y/lesson.txt",
+    "wordCount": 124,
     "suggestedNext": "/stories/charles-perrault/the-fairy/lesson.txt"
   },
   {

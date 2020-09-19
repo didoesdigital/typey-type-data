@@ -182,7 +182,7 @@
 * ear, `AOER KW-BG`
 * finest `TPAOEUPB/EFT`
 * kind, `KEUPBD KW-BG`
-* ninepence `xxx ninepence`
+* ninepence `TPHAOEUPB/TK-LS/PEPBTS`
 * drop. `TKROP TP-PL`
 * now `TPHOU`
 * were `WR`

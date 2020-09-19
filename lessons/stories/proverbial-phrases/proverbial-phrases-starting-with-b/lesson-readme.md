@@ -89,9 +89,6 @@
 * spoon `SPAOPB`
 * one's `W*UPBS`
 * mouth. `PHO*UT TP-PL`
-* Boys `KPA/PWOEUS`
-* will `HR`
-* boys. `PWOEUS TP-PL`
 * Brevity `KPA/PWR*EFT`
 * soul `SOUL`
 * wit. `WEUT TP-PL`
