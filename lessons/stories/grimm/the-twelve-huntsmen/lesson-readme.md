@@ -67,7 +67,7 @@
 * reached `RAOEFPD`
 * father, `TPAER KW-BG`
 * the `-T`
-* latter `HRAERT`
+* latter `HRART`
 * dangerously `TKAEUPBLG/SHREU`
 * ill, `EUL KW-BG`
 * near `TPHAOER`

@@ -147,7 +147,7 @@
 * family, `TPAEPL KW-BG`
 * faithful `TPA*EUT/-FL`
 * grumpy; `TKPWRUPL/PEU STPH*FPLT`
-* latter `HRAERT`
+* latter `HRART`
 * my `PHEU`
 * grandchildren's `TKPWR-PB AES`
 * fault, `TPAULT KW-BG`

@@ -325,7 +325,7 @@
 * bottom `PWOPLT`
 * points `POEUPBTS`
 * outward. `AOUT/WARD TP-PL`
-* latter `HRAERT`
+* latter `HRART`
 * hole `HOEL`
 * has `HAS`
 * cut `KUT`

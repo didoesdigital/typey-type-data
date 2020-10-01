@@ -620,7 +620,7 @@
 * lips `HREUPS`
 * remained `RE/PHAEUPBD`
 * arm `ARPL`
-* latter `HRAERT`
+* latter `HRART`
 * duty `TKAOUT`
 * send `SEPBD`
 * distance `STKAPBS`

@@ -674,7 +674,7 @@
 * journeyed `SKWRURPB/EUD`
 * forth.' `TPO*RT TP-PL AE`
 * rest, `REFT KW-BG`
-* latter `HRAERT`
+* latter `HRART`
 * him, `HEUPL KW-BG`
 * far `TPAR`
 * thence `THEPBS`

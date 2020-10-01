@@ -576,7 +576,7 @@
 * beard; `PWAERD STPH*FPLT`
 * now `TPHOU`
 * tight `TAOEUT`
-* silly, `SEUL/HREU KW-BG`
+* silly, `SHREU KW-BG`
 * sleek, `SHRAOEBG KW-BG`
 * milk-faced `PH*EULG H-PB TPAEUFD`
 * things `THEUPBGS`

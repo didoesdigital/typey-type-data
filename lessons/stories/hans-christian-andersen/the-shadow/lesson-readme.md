@@ -273,7 +273,7 @@
 * dark, `TKARBG KW-BG`
 * music `PHAOUFBG`
 * heard `HAERD`
-* interior `SPWER/KWROR`
+* interior `OERPBT`
 * house. `HOUS TP-PL`
 * considered `KR-D`
 * delightful; `TKHRAOEUT/-FL STPH*FPLT`
@@ -1165,7 +1165,7 @@
 * addressed `A/TKREFD`
 * thou. `THO*U TP-PL`
 * far," `TPAR KW-BG KR-GS`
-* latter, `HRAERT KW-BG`
+* latter, `HRART KW-BG`
 * me." `PHE TP-PL KR-GS`
 * However, `KPA/HOUF KW-BG`
 * obliged `OE/PWHRAOEUPBLGD`

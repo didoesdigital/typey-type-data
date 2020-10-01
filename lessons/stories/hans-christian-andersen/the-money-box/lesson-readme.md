@@ -249,7 +249,7 @@
 * mental `PHEPBL`
 * improvement, `PROFPLT KW-BG`
 * commenced `KPHEPBS/-D`
-* latter `HRAERT`
+* latter `HRART`
 * first. `TPEUFRT TP-PL`
 * rocking-horse `ROBG/-G H-PB HORS`
 * spoke `SPOEBG`

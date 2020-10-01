@@ -716,7 +716,7 @@
 * heart `HART`
 * telling `TELG`
 * lest `HR*ES`
-* latter `HRAERT`
+* latter `HRART`
 * should `SHO`
 * think `THEU`
 * enjoy `TPHOEUPBLG`

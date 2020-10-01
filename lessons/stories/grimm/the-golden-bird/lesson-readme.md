@@ -239,7 +239,7 @@
 * dirty, `TKOEURT KW-BG`
 * poor. `PAOR TP-PL`
 * 'I `AE EU`
-* silly,' `SEUL/HREU KW-BG AE`
+* silly,' `SHREU KW-BG AE`
 * said `SED`
 * he, `HE KW-BG`
 * 'if `AE TP`

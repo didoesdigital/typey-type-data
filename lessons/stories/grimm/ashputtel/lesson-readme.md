@@ -643,7 +643,7 @@
 * queen `KWAOEPB`
 * toes; `TO*ES STPH*FPLT`
 * walk.' `WAUBG TP-PL AE`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * toe, `TO*E KW-BG`
 * squeezed `SKWAOEZ/-D`
 * son. `SOPB TP-PL`

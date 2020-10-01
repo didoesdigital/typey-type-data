@@ -316,7 +316,7 @@
 * same, `SAEUPL KW-BG`
 * blacking `PWHRABG/-G`
 * its `EUTS`
-* interior. `SPWER/KWROR TP-PL`
+* interior. `OERPBT TP-PL`
 * When `KPA/WHEPB`
 * bottles `PWO*LTS`
 * packed `PABGD`
@@ -1075,7 +1075,7 @@
 * splendor `SPHREPBD/O*R`
 * festivities. `TPEFT/EUFT/TEU/-S TP-PL`
 * Among `KPA/PHOPBG`
-* latter `HRAERT`
+* latter `HRART`
 * maid, `PHAEUD KW-BG`
 * alone `A/HROEPB`
 * thinking, `THEUG KW-BG`

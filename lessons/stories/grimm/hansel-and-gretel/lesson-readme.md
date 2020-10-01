@@ -807,7 +807,7 @@
 * know `TPHOE`
 * it; `T STPH*FPLT`
 * in?' `TPH H-F AE`
-* 'Silly `AE KPA/SEUL/HREU`
+* 'Silly `AE KPA/SHREU`
 * goose,' `TKPWAOS KW-BG AE`
 * woman. `WOPL TP-PL`
 * big `PWEUG`

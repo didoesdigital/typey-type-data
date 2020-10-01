@@ -411,7 +411,7 @@
 * other `OER`
 * trees `TRAOES`
 * snails. `STPHAEUL/-S TP-PL`
-* latter `HRAERT`
+* latter `HRART`
 * houses `HO*UFS`
 * spat `SPAT`
 * world, `WORLD KW-BG`

@@ -364,7 +364,7 @@
 * hold `HOLD`
 * my `PHEU`
 * gown.' `TKPWOUPB TP-PL AE`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * creature!' `KRAOEFP SKHRAPL AE`
 * 'it `AE T`
 * nail `TPHAEUL`

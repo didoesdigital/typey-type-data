@@ -228,7 +228,7 @@
 * 'hand-rammer,' `AE HAPBD H-PB xxx rammer KW-BG AE`
 * or `OR`
 * 'stamper,' `AE STAPL/PER KW-BG AE`
-* latter `HRAERT`
+* latter `HRART`
 * also `HR-S`
 * been `PW-PB`
 * proposed, `PROEPD KW-BG`

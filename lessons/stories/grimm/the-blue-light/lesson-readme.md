@@ -604,7 +604,7 @@
 * manikin. `xxx manikin TP-PL`
 * 'Have `AE KPA/SR`
 * fear,' `TPAOER KW-BG AE`
-* latter `HRAERT`
+* latter `HRART`
 * master. `PHAFRT TP-PL`
 * 'Go `AE KPA/TKPW`
 * wheresoever `xxx wheresoever`

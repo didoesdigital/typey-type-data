@@ -566,7 +566,7 @@
 * tightly `TAO*EULT`
 * round `ROUPBD`
 * leg—as `HREG EPL/TKA*RB AZ`
-* latter `HRAERT`
+* latter `HRART`
 * cut `KUT`
 * off; `OF STPH*FPLT`
 * pain `PAEUPB`

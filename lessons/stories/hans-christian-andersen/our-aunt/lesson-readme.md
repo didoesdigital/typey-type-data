@@ -367,7 +367,7 @@
 * far. `TPAR TP-PL`
 * when, `WHEPB KW-BG`
 * same `SAEUPL`
-* interior `SPWER/KWROR`
+* interior `OERPBT`
 * remained `RE/PHAEUPBD`
 * through `THRU`
 * five `TPAOEUF`
@@ -782,7 +782,7 @@
 * long `HROPBG`
 * Sunday `SUPBD`
 * Sunday. `SUPBD TP-PL`
-* latter `HRAERT`
+* latter `HRART`
 * therefore, `TH-FR KW-BG`
 * child `KHAOEULD`
 * "for `KR-GS TPOR`

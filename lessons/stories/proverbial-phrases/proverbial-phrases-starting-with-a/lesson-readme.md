@@ -209,7 +209,7 @@
 * shall `SHAL`
 * reap. `RAOEP TP-PL`
 * Ask `KPA/SK`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * question `KWE`
 * get `TKPWET`
 * answer. `AEPBS TP-PL`

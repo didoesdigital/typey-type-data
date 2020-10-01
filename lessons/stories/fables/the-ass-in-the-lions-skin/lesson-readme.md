@@ -75,7 +75,7 @@
 * clothes `KHRO*ETS`
 * may `PHAE`
 * disguise, `STKPWAOEUS KW-BG`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * words `WORDZ`
 * will `HR`
 * disclose `TKEUS/KHROES`

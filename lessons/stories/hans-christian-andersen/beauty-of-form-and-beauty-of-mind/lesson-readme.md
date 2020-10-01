@@ -243,7 +243,7 @@
 * no `TPHO`
 * such `SUFP`
 * daughter `TKAUR`
-* silly. `SEUL/HREU TP-PL`
+* silly. `SHREU TP-PL`
 * mother `PHOER`
 * fountain `TPOUPB/TAEUPB`
 * questions; `KWES STPH*FPLT`

@@ -26,7 +26,7 @@
 * in `TPH`
 * house, `HOUS KW-BG`
 * whose `WHOZ`
-* interior `SPWER/KWROR`
+* interior `OERPBT`
 * is `S`
 * sufficiently `SUFL`
 * poverty-stricken; `POFRT H-PB STREUPB STPH*FPLT`

@@ -282,7 +282,7 @@
 * mountains. `PHOUPB/TAEUPBS TP-PL`
 * Thus `KPA/THUS`
 * proud `PROUD`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * people, `PAOEPL KW-BG`
 * think `THEU`
 * themselves `TH*EPLS`

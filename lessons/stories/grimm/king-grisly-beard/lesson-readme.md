@@ -457,7 +457,7 @@
 * 'Who `AE KPA/WHO`
 * would `WO`
 * thought `THAUT`
-* silly,' `SEUL/HREU KW-BG AE`
+* silly,' `SHREU KW-BG AE`
 * he, `HE KW-BG`
 * 'as `AE AZ`
 * earthenware `*ERT/*EPB/WA*EUR`
@@ -562,7 +562,7 @@
 * stall. `STAUL TP-PL`
 * done `TKOPB`
 * cure `KAOUR`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * pride, `PRAOEUD KW-BG`
 * show `SHOE`
 * ill-treatment `EUL H-PB TRAOEPLT`

@@ -119,7 +119,7 @@
 * melted `PHELT/-D`
 * down. `TKOUPB TP-PL`
 * In `KPA/TPH`
-* latter `HRAERT`
+* latter `HRART`
 * case `KAEUS`
 * might `PHAOEUT`
 * turned `TURPBD`

@@ -133,7 +133,6 @@
 * cavalry `KAFL/REU`
 * Christians `KREUGS/-S`
 * passions `PAGS/-S`
-* interior `SPWER/KWROR`
 * directions `TKREBGS/-S`
 * fearful `TPAOER/-FL`
 * commenced `KPHEPBS/-D`
@@ -171,7 +170,6 @@
 * legally `HRAOEG/HREU`
 * doubtful `TKOUT/-FL`
 * instances `EUPB/STAPBS/-S`
-* silly `SEUL/HREU`
 * Lucy `HRAOU/SEU`
 * invitation `EUPB/SREU/TAEUGS`
 * narrative `TPHAR/TEUF`

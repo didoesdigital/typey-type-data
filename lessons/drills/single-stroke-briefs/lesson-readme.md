@@ -6123,7 +6123,7 @@
 * tub `TUB`
 * tubal `TAOUBL`
 * tube `TAOUB`
-* tuberculosis `T-B`
+* tuberculosis `T*B`
 * tubing `TAOUBG`
 * tubular `TPWHRAR`
 * tubule `TAO*UBL`

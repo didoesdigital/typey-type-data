@@ -28,7 +28,7 @@
 * letters `HRERTS`
 * especially `EPS`
 * fellow `TP*EL`
-* latter `HRAERT`
+* latter `HRART`
 * happened `HAPD`
 * according `KORG`
 * beginning `TKPWEUPB/-G`
@@ -300,7 +300,7 @@
 * arrive `A/RAOEUF`
 * legally `HRAOEG/HREU`
 * corrupt `KRUPT`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * indifferent `EUPB/TKEUFRPB`
 * recall `-RL`
 * occupation `OUPGS`

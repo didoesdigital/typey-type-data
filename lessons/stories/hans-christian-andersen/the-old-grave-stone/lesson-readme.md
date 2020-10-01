@@ -110,7 +110,7 @@
 * My `KPA/PHEU`
 * father `TPAER`
 * bought `PWAUT`
-* latter; `HRAERT STPH*FPLT`
+* latter; `HRART STPH*FPLT`
 * most `PHOFT`
 * them `THEPL`
 * cut `KUT`

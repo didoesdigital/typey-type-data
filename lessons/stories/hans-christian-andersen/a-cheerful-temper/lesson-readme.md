@@ -252,7 +252,7 @@
 * me. `PHE TP-PL`
 * My `KPA/PHEU`
 * walks `WAUBGS`
-* latter `HRAERT`
+* latter `HRART`
 * bathing-places `PWA*EUGT H-PB PHRAEUFS`
 * humor. `HAOURPL TP-PL`
 * Every `KPA/EF`

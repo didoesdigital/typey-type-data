@@ -94,7 +94,7 @@
 * be `-B`
 * thrown `THROEPB`
 * after `AF`
-* latter `HRAERT`
+* latter `HRART`
 * been `PW-PB`
 * kept `KEPT`
 * without `WOUT`

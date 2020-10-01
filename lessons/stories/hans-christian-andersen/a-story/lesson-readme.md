@@ -714,7 +714,7 @@
 * justice `SKWRUFS`
 * crimes `KRAOEUPLS`
 * defence; `TKEFPB/A*U STPH*FPLT`
-* latter `HRAERT`
+* latter `HRART`
 * brilliant `PWREULT`
 * one, `WUPB KW-BG`
 * Who `KPA/WHO`

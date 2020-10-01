@@ -8,7 +8,7 @@
 * Far `KPA/TPAR`
 * in `TPH`
 * the `-T`
-* interior `SPWER/KWROR`
+* interior `OERPBT`
 * of `-F`
 * country `KREU`
 * lay `HRAEU`

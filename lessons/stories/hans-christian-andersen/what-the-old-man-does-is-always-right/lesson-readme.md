@@ -77,7 +77,7 @@
 * low, `HROE KW-BG`
 * only `OEPBL`
 * one `WUPB`
-* latter `HRAERT`
+* latter `HRART`
 * made `PHAED`
 * open. `OEP TP-PL`
 * baking-oven `PWAEUBG/-G H-PB OEFPB`

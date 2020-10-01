@@ -8,7 +8,7 @@
 * to `TO`
 * at the `TE`
 * of it `T-F`
-* tuberculosis `T-B`
+* it be `T-B`
 * it'll `T-L`
 * it's `T-S`
 * it has `T-Z`

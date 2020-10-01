@@ -94,7 +94,7 @@
 * creak, `KRAEBG KW-BG`
 * less `HRES`
 * crow. `KROE TP-PL`
-* latter `HRAERT`
+* latter `HRART`
 * has `HAS`
 * neither `TPHAOERT`
 * hens `HEPBZ`

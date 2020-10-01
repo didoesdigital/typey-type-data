@@ -257,7 +257,7 @@
 * either `AOERT`
 * answer `AEPBS`
 * asked `SK-D`
-* silly; `SEUL/HREU STPH*FPLT`
+* silly; `SHREU STPH*FPLT`
 * unhandy, `UPB/HAPBD/KWREU/KW-BG`
 * could `KO`
 * place `PHRAEUS`
@@ -519,7 +519,7 @@
 * discourse, `TKEUS/KORS KW-BG`
 * infinitely `EUPB/TPEUPBT/HREU`
 * witty `WEUT/TEU`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * impertinences `*EUPL/PERT/TPHEPBS/-S`
 * before. `PW-FR TP-PL`
 * overjoyed `AUFR/SKWROEUD`
@@ -665,7 +665,7 @@
 * forget `TPORGT`
 * when `WHEPB`
 * promise, `PROPLS KW-BG`
-* silly, `SEUL/HREU KW-BG`
+* silly, `SHREU KW-BG`
 * obtained `OB/TAEUPBD`
 * vast `SRAFT`
 * stock `STOBG`

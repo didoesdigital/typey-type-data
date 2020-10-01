@@ -353,7 +353,6 @@
 * Alice `AL/EUS`
 * Christians `KREUGS/-S`
 * passions `PAGS/-S`
-* interior `SPWER/KWROR`
 * confined `KAUPB/TPAOEUPBD`
 * Jerusalem `SKWRER/AOUS/HREPL`
 * directions `TKREBGS/-S`
@@ -441,7 +440,6 @@
 * doubtful `TKOUT/-FL`
 * instances `EUPB/STAPBS/-S`
 * defeat `TKE/TPAOET`
-* silly `SEUL/HREU`
 * indifferent `EUPB/TKEUFRPB`
 * discourse `TKEUS/KORS`
 * regions `RAOE/SKWROPBS`

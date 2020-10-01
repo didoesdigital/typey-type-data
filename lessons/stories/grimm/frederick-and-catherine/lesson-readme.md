@@ -497,7 +497,7 @@
 * together `TOGT`
 * somewhere.' `SWR TP-PL AE`
 * goose `TKPWAOS`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * things!' `THEUPBGS SKHRAPL AE`
 * husband. `HUS TP-PL`
 * can `K`

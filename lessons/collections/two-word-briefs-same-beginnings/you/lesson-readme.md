@@ -2,7 +2,7 @@
 
 * you believe `UBL`
 * you believed `UBLD`
-* you can `KU`
+* you can `UBG`
 * you could `KOU`
 * you did `TKU`
 * you do `TKOU`

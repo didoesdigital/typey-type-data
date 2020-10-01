@@ -205,7 +205,7 @@
 * "You `KR-GS KPA/U`
 * merry `PHER/REU`
 * boy," `PWOEU KW-BG KR-GS`
-* latter. `HRAERT TP-PL`
+* latter. `HRART TP-PL`
 * "What `KR-GS KPA/WHA`
 * is `S`
 * your `KWROUR`

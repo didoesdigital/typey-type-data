@@ -504,7 +504,7 @@
 * around `ARPBD`
 * them. `THEPL TP-PL`
 * Far `KPA/TPAR`
-* interior `SPWER/KWROR`
+* interior `OERPBT`
 * noisy `TPHOEU/SEU`
 * swarm `SWARPL`
 * laborers `HRAEUB/ERS`

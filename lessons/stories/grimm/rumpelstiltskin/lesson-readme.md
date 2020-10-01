@@ -105,7 +105,7 @@
 * said `SED`
 * it `T`
 * only `OEPBL`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * father, `TPAER KW-BG`
 * she `SHE`
 * do `TKO`

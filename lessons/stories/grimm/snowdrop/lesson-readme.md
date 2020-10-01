@@ -604,7 +604,7 @@
 * 'No,' `AE KPA/TPHO KW-BG AE`
 * it.' `T TP-PL AE`
 * 'You `AE KPA/U`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * girl!' `TKPWEURL SKHRAPL AE`
 * other, `OER KW-BG`
 * 'what `AE WHA`

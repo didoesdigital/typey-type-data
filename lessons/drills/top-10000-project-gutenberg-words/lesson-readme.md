@@ -620,7 +620,7 @@
 * lips `HREUPS`
 * remained `RE/PHAEUPBD`
 * arm `ARPL`
-* latter `HRAERT`
+* latter `HRART`
 * duty `TKAOUT`
 * send `SEPBD`
 * distance `STKAPBS`
@@ -2776,7 +2776,7 @@
 * landed `HRAPBD/-D`
 * Christians `KREUGS/-S`
 * passions `PAGS/-S`
-* interior `SPWER/KWROR`
+* interior `OERPBT`
 * scarce `SKAEURS`
 * lightly `HRAOEULT`
 * disturbed `STKURBD`
@@ -3172,7 +3172,7 @@
 * coach `KOEFP`
 * criminal `KR-L`
 * knocked `TPHOBGD`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * humour `HAOURPL/A*U`
 * masses `PHAS/-S`
 * indifferent `EUPB/TKEUFRPB`

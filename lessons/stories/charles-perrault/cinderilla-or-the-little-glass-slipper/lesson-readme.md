@@ -851,7 +851,7 @@
 * taken `TAEPB`
 * up; `UP STPH*FPLT`
 * during `TKURG`
-* latter `HRAERT`
+* latter `HRART`
 * certainly `SERPBL`
 * love `HRUF`
 * person `PERPB`

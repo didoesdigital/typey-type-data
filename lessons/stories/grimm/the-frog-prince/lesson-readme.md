@@ -155,7 +155,7 @@
 * thought `THAUT`
 * princess, `PREUPB/SES KW-BG`
 * 'this `AE TH`
-* silly `SEUL/HREU`
+* silly `SHREU`
 * is `S`
 * talking! `TAUG SKHRAPL`
 * He `KPA/HE`
