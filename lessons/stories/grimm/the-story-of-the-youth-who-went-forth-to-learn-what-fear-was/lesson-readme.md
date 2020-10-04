@@ -918,7 +918,7 @@
 * sitting `SEUGT`
 * place. `PHRAEUS TP-PL`
 * part `PART`
-* bargain,' `PWARG/AEUPB KW-BG AE`
+* bargain,' `PWAR/TKPWAEUPB KW-BG AE`
 * 'the `AE -T`
 * bench `PWEFRPB`
 * mine.' `PHAOEUPB TP-PL AE`

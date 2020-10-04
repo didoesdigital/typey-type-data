@@ -378,7 +378,7 @@
 * can `K`
 * work: `WORBG STPH-FPLT`
 * what `WHA`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * got! `TKPWOT SKHRAPL`
 * However, `KPA/HOUF KW-BG`
 * I'll `AOEUL`

@@ -3,7 +3,7 @@
 * itself `T/SEFL`
 * answered `AEPBS/-D`
 * beginning `TKPWEUPB/-G`
-* donations `TKOE/TPHAEUGS/-S`
+* donations `TKOEPBGS/-S`
 * scarcely `SKAEURS/HREU`
 * greatest `TKPWRAET/EFT`
 * political `PHREU/K-L`

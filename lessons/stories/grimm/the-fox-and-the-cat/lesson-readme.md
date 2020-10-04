@@ -124,7 +124,7 @@
 * master `PHAFRT`
 * hundred `HUPBD`
 * arts, `ARTS KW-BG`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * sackful `SABG/-FL`
 * cunning. `KUPBG TP-PL`
 * You `KPA/U`

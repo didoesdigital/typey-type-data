@@ -823,7 +823,7 @@
 * off, `OF KW-BG`
 * purchaser `PUR`
 * regrets `RAOE/TKPWRETS`
-* bargain. `PWARG/AEUPB TP-PL`
+* bargain. `PWAR/TKPWAEUPB TP-PL`
 * disagreeable `TKEUS/TKPWRAOEBL`
 * find `TPAOEUPBD`
 * button `PW*PB`

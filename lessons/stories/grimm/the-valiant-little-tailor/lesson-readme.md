@@ -460,7 +460,7 @@
 * look `HRAOBG`
 * round, `ROUPBD KW-BG`
 * tree, `TRAOE KW-BG`
-* bargain: `PWARG/AEUPB STPH-FPLT`
+* bargain: `PWAR/TKPWAEUPB STPH-FPLT`
 * behind, `HEUPBD KW-BG`
 * merry `PHER/REU`
 * happy, `HAEP KW-BG`

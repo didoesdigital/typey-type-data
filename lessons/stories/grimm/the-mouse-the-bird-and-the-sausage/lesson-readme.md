@@ -175,7 +175,7 @@
 * servant `SEFRB/APBT`
 * enough, `TPHUF KW-BG`
 * fool `TPAOL`
-* bargain, `PWARG/AEUPB KW-BG`
+* bargain, `PWAR/TKPWAEUPB KW-BG`
 * now `TPHOU`
 * make `PHAEUBG`
 * change, `KHAEUPBG KW-BG`

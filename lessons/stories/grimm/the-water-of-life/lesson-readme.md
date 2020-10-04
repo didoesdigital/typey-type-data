@@ -643,7 +643,7 @@
 * tales, `TAELS KW-BG`
 * lose `HRUZ`
 * life `HRAOEUF`
-* bargain: `PWARG/AEUPB STPH-FPLT`
+* bargain: `PWAR/TKPWAEUPB STPH-FPLT`
 * quiet, `KWAO*EUT KW-BG`
 * off.' `OF TP-PL AE`
 * still `STEUL`

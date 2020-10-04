@@ -184,7 +184,7 @@
 * boy `PWOEU`
 * Heinel; `xxx Heinel STPH*FPLT`
 * agreed `TKPWRAED`
-* bargain, `PWARG/AEUPB KW-BG`
+* bargain, `PWAR/TKPWAEUPB KW-BG`
 * signed `SAOEUPBD`
 * sealed `SAOELD`
 * bond `PWOPBD`

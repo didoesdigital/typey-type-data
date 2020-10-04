@@ -381,7 +381,7 @@
 * coffins, `KOFPB/-S KW-BG`
 * inscriptions `EUPB/SKREUPGS/-S`
 * announcements `A/TPHOUPBS/-PLTS`
-* bargain. `PWARG/AEUPB TP-PL`
+* bargain. `PWAR/TKPWAEUPB TP-PL`
 * A `KPA/AEU`
 * person `PERPB`
 * walk `WAUBG`

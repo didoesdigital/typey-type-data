@@ -97,7 +97,7 @@
 * little `HREUL`
 * town `TOUPB`
 * into `TPHAO`
-* bargain, `PWARG/AEUPB KW-BG`
+* bargain, `PWAR/TKPWAEUPB KW-BG`
 * so `SO`
 * well, `WEL KW-BG`
 * indeed, `TPHAOEPBD KW-BG`
@@ -378,7 +378,7 @@
 * upper `AOURP`
 * part `PART`
 * missing `PHEUFG`
-* bargain; `PWARG/AEUPB STPH*FPLT`
+* bargain; `PWAR/TKPWAEUPB STPH*FPLT`
 * also `HR-S`
 * Princess?" `KPA/PREUPB/SES H-F KR-GS`
 * "Most `KR-GS KPA/PHOFT`

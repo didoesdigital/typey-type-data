@@ -30,7 +30,7 @@
 * ones; `WUPBZ STPH*FPLT`
 * they `THE`
 * gilt `TKPW*EULT`
-* bargain. `PWARG/AEUPB TP-PL`
+* bargain. `PWAR/TKPWAEUPB TP-PL`
 * Their `KPA/THAEUR`
 * hair `HAEUR`
 * gleamed `TKPWHRAOEPL/-D`

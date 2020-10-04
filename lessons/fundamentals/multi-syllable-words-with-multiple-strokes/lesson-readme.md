@@ -10,7 +10,7 @@
 * remained `RE/PHAEUPBD`
 * blockquote `PWHROBG/TK-LS/KWOET`
 * beginning `TKPWEUPB/-G`
-* donations `TKOE/TPHAEUGS/-S`
+* donations `TKOEPBGS/-S`
 * afraid `A/TPRAEUD`
 * appear `A/PAOER`
 * impossible `EUPL/POB`
@@ -721,7 +721,6 @@
 * leather `HRE/THER`
 * interfere `EUPBT/TPAOER`
 * violently `SRAOEUL/HREPBT/HREU`
-* donation `TKOE/PHAEUGS`
 * witnesses `W-PBS/-S`
 * timber `TEUPL/PWER`
 * Jackson `SKWRABG/SOPB`
@@ -812,7 +811,7 @@
 * solemnly `SOL/EPL/HREU`
 * twenty-four `TWEPBT/TPOUR`
 * crimson `KREUPL/SOPB`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * fatigue `TPA/TAOEG`
 * Adams `AD/APLS`
 * dislike `TKEUS/HRAOEUBG`

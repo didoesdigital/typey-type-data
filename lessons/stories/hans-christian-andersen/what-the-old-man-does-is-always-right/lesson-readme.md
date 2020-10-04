@@ -339,7 +339,7 @@
 * exchange?" `KPAEUPBG H-F KR-GS`
 * quite `KWAOEUT`
 * ready, `R-D KW-BG`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * quickly `KWEULG`
 * made. `PHAED TP-PL`
 * then `THEPB`
@@ -390,7 +390,7 @@
 * your `KWROUR`
 * goose, `TKPWAOS KW-BG`
 * thanks `THAPBGS`
-* bargain." `PWARG/AEUPB TP-PL KR-GS`
+* bargain." `PWAR/TKPWAEUPB TP-PL KR-GS`
 * other `OER`
 * least `HRAOEFT`
 * objection, `OBGS KW-BG`
@@ -616,7 +616,7 @@
 * I'll `AOEUL`
 * throw `THROE`
 * myself `PHAO*EUS`
-* bargain; `PWARG/AEUPB STPH*FPLT`
+* bargain; `PWAR/TKPWAEUPB STPH*FPLT`
 * pile `PAOEUL`
 * measure, `PH*ERB KW-BG`
 * fancy." `TPAEPBS TP-PL KR-GS`

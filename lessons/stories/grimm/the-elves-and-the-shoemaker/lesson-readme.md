@@ -285,7 +285,7 @@
 * waistcoat, `WA*EUS/KOET KW-BG`
 * pantaloons `xxx pantaloons`
 * into `TPHAO`
-* bargain; `PWARG/AEUPB STPH*FPLT`
+* bargain; `PWAR/TKPWAEUPB STPH*FPLT`
 * shoes.' `SHAOUS TP-PL AE`
 * thought `THAUT`
 * pleased `PHREFD`

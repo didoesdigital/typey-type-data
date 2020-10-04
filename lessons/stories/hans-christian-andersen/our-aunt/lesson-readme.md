@@ -684,7 +684,7 @@
 * ballet `PWA/HRAEU`
 * prologue `PRO/HROG`
 * epilogue `EP/HROG`
-* bargain; `PWARG/AEUPB STPH*FPLT`
+* bargain; `PWAR/TKPWAEUPB STPH*FPLT`
 * late `HRAEUT`
 * night. `TPHAOEUT TP-PL`
 * needs `TPHAOEDZ`

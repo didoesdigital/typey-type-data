@@ -664,7 +664,7 @@
 * heavy `HOEUF`
 * sweet `SWAOET`
 * plain `PHRAEUPB`
-* donations `TKOE/TPHAEUGS/-S`
+* donations `TKOEPBGS/-S`
 * immediately `PHAOELD`
 * wrote `WRO`
 * mouth `PHO*UT`

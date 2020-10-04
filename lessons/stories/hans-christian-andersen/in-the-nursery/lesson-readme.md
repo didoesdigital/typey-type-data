@@ -306,7 +306,7 @@
 * upper `AOURP`
 * part `PART`
 * morocco, `HRO*ER/PHORBG/KOE KW-BG`
-* bargain. `PWARG/AEUPB TP-PL`
+* bargain. `PWAR/TKPWAEUPB TP-PL`
 * Snikke, `xxx Snikke KW-BG`
 * snakke, `xxx snakke KW-BG`
 * snak! `xxx snak SKHRAPL`

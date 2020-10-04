@@ -342,7 +342,7 @@
 * world.' `WORLD TP-PL AE`
 * But `KPA/PWUT`
 * hearing `HAERG`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * wanted `WAPBTD`
 * make, `PHAEUBG KW-BG`
 * crept `KREPT`

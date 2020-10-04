@@ -285,7 +285,7 @@
 * give `TKPWEUF`
 * heavy `HOEUF`
 * sum `SUPL`
-* bargain, `PWARG/AEUPB KW-BG`
+* bargain, `PWAR/TKPWAEUPB KW-BG`
 * denounce `TKE/TPHOUPBS`
 * them, `THEPL KW-BG`
 * hanged. `HAPBG/-D TP-PL`

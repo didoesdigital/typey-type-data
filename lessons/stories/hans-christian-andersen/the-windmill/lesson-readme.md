@@ -38,7 +38,7 @@
 * use `AOUS`
 * too; `TAO STPH*FPLT`
 * into `TPHAO`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * stearine `xxx stearine`
 * candles, `KAPBD/-LS KW-BG`
 * train `TRAEUPB`

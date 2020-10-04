@@ -99,6 +99,7 @@
 * combination `KPWEUPBGS`
 * institution `STPHAOUGS`
 * reserved `REFRBD`
+* donation `TKOEPBGS`
 * representation `REPGS`
 * temples `TA*EPLS`
 * govern `TKPWOFRPB`

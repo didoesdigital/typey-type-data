@@ -333,7 +333,7 @@
 * travelled `TRAFL/*LD`
 * pleased `PHREFD`
 * with `W`
-* bargain. `PWARG/AEUPB TP-PL`
+* bargain. `PWAR/TKPWAEUPB TP-PL`
 * Meanwhile `KPA/PHAOEPB/WHAOEUL`
 * half-naked `HAF H-PB TPHAEUBGD`
 * piteous `PEUT/KWROUS`
@@ -350,7 +350,7 @@
 * rascal `RAS/K-L`
 * robbed `ROBD`
 * beaten `PWAET/*EPB`
-* bargain; `PWARG/AEUPB STPH*FPLT`
+* bargain; `PWAR/TKPWAEUPB STPH*FPLT`
 * carried `KAERD`
 * back `PWABG`
 * neck. `TPHEBG TP-PL`

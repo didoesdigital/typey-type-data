@@ -361,7 +361,7 @@
 * cheese, `KHAOES KW-BG`
 * every `EF`
 * day, `TKAEU KW-BG`
-* bargain. `PWARG/AEUPB TP-PL`
+* bargain. `PWAR/TKPWAEUPB TP-PL`
 * What `KPA/WHA`
 * prize!' `PRAOEUZ SKHRAPL AE`
 * 'Well,' `AE KPA/WEL KW-BG AE`
@@ -395,7 +395,7 @@
 * then `THEPB`
 * drove `TKROEF`
 * quietly, `KWAO*EULT KW-BG`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * one. `WUPB TP-PL`
 * 'If `AE KPA/TP`
 * bread `PWRAED`
@@ -670,7 +670,7 @@
 * do, `TKORBGS`
 * goose.' `TKPWAOS TP-PL AE`
 * ought `OT`
-* bargain,' `PWARG/AEUPB KW-BG AE`
+* bargain,' `PWAR/TKPWAEUPB KW-BG AE`
 * countryman; `KREU/PHA*PB STPH*FPLT`
 * 'give `AE TKPWEUF`
 * pig, `PEUG KW-BG`

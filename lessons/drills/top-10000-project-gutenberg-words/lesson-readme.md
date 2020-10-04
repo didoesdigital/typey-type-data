@@ -664,7 +664,7 @@
 * heavy `HOEUF`
 * sweet `SWAOET`
 * plain `PHRAEUPB`
-* donations `TKOE/TPHAEUGS/-S`
+* donations `TKOEPBGS/-S`
 * immediately `PHAOELD`
 * wrote `WRO`
 * mouth `PHO*UT`
@@ -3997,7 +3997,7 @@
 * effected `TPEBGD`
 * passengers `PAEPBGS`
 * violently `SRAOEUL/HREPBT/HREU`
-* donation `TKOE/PHAEUGS`
+* donation `TKOEPBGS`
 * steamer `STAOEPL/*ER`
 * witnesses `W-PBS/-S`
 * specified `SPEFD`
@@ -4264,7 +4264,7 @@
 * teachers `TAO*EFPS`
 * ma'am `PHAPL`
 * danced `TKAPBS/-D`
-* bargain `PWARG/AEUPB`
+* bargain `PWAR/TKPWAEUPB`
 * dealt `TKELT`
 * fatigue `TPA/TAOEG`
 * telephone `TEFL`
