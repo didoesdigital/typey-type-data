@@ -311,7 +311,7 @@
 * coming `KO*G`
 * by, `PWEU KW-BG`
 * driving `TKRAOEUFG`
-* cow, `KO*U KW-BG`
+* cow, `KOU KW-BG`
 * stopped `STOPD`
 * it. `T TP-PL`
 * soon `SAOPB`
@@ -336,7 +336,7 @@
 * I'm `AOEUPL`
 * now `TPHOU`
 * all: `AUL STPH-FPLT`
-* cow `KO*U`
+* cow `KOU`
 * better `PWOERT`
 * than `THAPB`
 * smart `SPHART`
@@ -354,7 +354,7 @@
 * one's `W*UPBS`
 * leisure `HR*ERB`
 * behind `HEUPBD`
-* cow--keep `KO*U H-PB H-PB KAOEP`
+* cow--keep `KOU H-PB H-PB KAOEP`
 * company, `K-P KW-BG`
 * milk, `PH*EULG KW-BG`
 * butter, `PWAOURT KW-BG`
@@ -520,12 +520,12 @@
 * 'who `AE WHO`
 * it? `T H-F`
 * shame `SHAEUPL`
-* cow! `KO*U SKHRAPL`
+* cow! `KOU SKHRAPL`
 * If `KPA/TP`
 * kill `KEUL`
 * for? `TPOR H-F`
 * hate `HAEUT`
-* cow-beef; `KO*U H-PB PWAOEF STPH*FPLT`
+* cow-beef; `KOU H-PB PWAOEF STPH*FPLT`
 * tender `TERPBD`
 * enough `TPHUF`
 * me. `PHE TP-PL`
@@ -548,12 +548,12 @@
 * To `KPA/TO`
 * please `PHRES`
 * change, `KHAEUPBG KW-BG`
-* cow.' `KO*U TP-PL AE`
+* cow.' `KOU TP-PL AE`
 * 'Heaven `AE KPA/HEFPB`
 * reward `RE/WARD`
 * kindness `KEUPBD/-PBS`
 * self-denial!' `S*EF H-PB TKE/TPHAOEUL SKHRAPL AE`
-* cow; `KO*U STPH*FPLT`
+* cow; `KOU STPH*FPLT`
 * taking `TAEUG`
 * wheel-barrow, `WHAOEL H-PB PWAEUR/ROE KW-BG`
 * away, `WA*EU KW-BG`
@@ -746,7 +746,7 @@
 * it.' `T TP-PL AE`
 * 'And `AE AFPBD`
 * pig?' `PEUG H-F AE`
-* cow?' `KO*U H-F AE`
+* cow?' `KOU H-F AE`
 * horse?' `HORS H-F AE`
 * silver?' `SEUL/SRER H-F AE`
 * 'Oh! `AE KPA/O*ERBGS SKHRAPL`
@@ -818,7 +818,7 @@
 * given `TKPWEUFPB`
 * joy `SKWROEU`
 * getting `TKPWEGT`
-* cow. `KO*U TP-PL`
+* cow. `KOU TP-PL`
 * farther, `TPA*RT KW-BG`
 * tired `TAOEURD`
 * sadly: `SAD/HREU STPH-FPLT`

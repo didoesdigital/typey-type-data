@@ -248,7 +248,7 @@
 * trudging `TRUPBLG/-G`
 * along, `HRAOPBG KW-BG`
 * driving `TKRAOEUFG`
-* cow `KO*U`
+* cow `KOU`
 * fair. `TPAEUR TP-PL`
 * beautiful `PWAOUFL`
 * creature `KRAOEFP`
@@ -265,14 +265,14 @@
 * horse. `HORS TP-PL`
 * Hallo `HA*L/KWRO`
 * there! `THR SKHRAPL`
-* cow," `KO*U KW-BG KR-GS`
+* cow," `KOU KW-BG KR-GS`
 * said. `SED TP-PL`
 * "I `KR-GS EU`
 * what; `WHA STPH*FPLT`
 * dare `TKAEUR`
 * say `SAEU`
 * value `SRAOUL`
-* cow; `KO*U STPH*FPLT`
+* cow; `KOU STPH*FPLT`
 * but `PWUT`
 * don't `TKOEPBT`
 * care `KAEUR`
@@ -305,7 +305,7 @@
 * look `HRAOBG`
 * it; `T STPH*FPLT`
 * went `WEPBT`
-* cow. `KO*U TP-PL`
+* cow. `KOU TP-PL`
 * Leading `KPA/HRAEGD`
 * animal, `PHAPBL KW-BG`
 * strode `STROED`
@@ -581,7 +581,7 @@
 * "Why, `KR-GS KPA/KWR KW-BG`
 * know"—said `TPHOE KR-GS EPL/TKA*RB SED`
 * exchanged `KPAEUPBG/-D`
-* cow, `KO*U KW-BG`
+* cow, `KOU KW-BG`
 * down `TKOUPB`
 * apples. `APLS TP-PL`
 * "Well, `KR-GS KPA/WEL KW-BG`

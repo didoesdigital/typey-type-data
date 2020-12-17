@@ -332,7 +332,7 @@
 * deer; `TKAOER STPH*FPLT`
 * were `WR`
 * stables `STAEUBLS`
-* cow-houses. `KO*U H-PB HO*UFS TP-PL`
+* cow-houses. `KOU H-PB HO*UFS TP-PL`
 * 'Well,' `AE KPA/WEL KW-BG AE`
 * 'now `AE TPHOU`
 * cheerful `KHAOER/-FL`

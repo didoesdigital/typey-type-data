@@ -30,7 +30,7 @@
 * so `SO`
 * much `PHUFP`
 * as `AZ`
-* cow, `KO*U KW-BG`
+* cow, `KOU KW-BG`
 * still `STEUL`
 * less `HRES`
 * money `PHUPB`
@@ -77,7 +77,7 @@
 * get `TKPWET`
 * big `PWEUG`
 * be `-B`
-* cow.' `KO*U TP-PL AE`
+* cow.' `KOU TP-PL AE`
 * woman `WOPL`
 * also `HR-S`
 * liked `HRAOEUBGD`
@@ -105,7 +105,7 @@
 * driven `TKREUFPB`
 * out, `OUT KW-BG`
 * peasant `PEFPBT`
-* cow-herd `KO*U H-PB H*ERD`
+* cow-herd `KOU H-PB H*ERD`
 * said: `SED STPH-FPLT`
 * 'Look, `AE KPA/HRAOBG KW-BG`
 * calf `KAF`
@@ -209,7 +209,7 @@
 * condemned `KAUPB/TKEPL/-D`
 * him `HEUPL`
 * give `TKPWEUF`
-* cow `KO*U`
+* cow `KOU`
 * away. `WA*EU TP-PL`
 * And `AFPBD`
 * now `TPHOU`
@@ -523,7 +523,7 @@
 * wealth `W*ELT`
 * came. `KAEUPL TP-PL`
 * sold `SOELD`
-* cow's `KO*U AES`
+* cow's `KOU AES`
 * town, `TOUPB KW-BG`
 * talers.' `xxx talers TP-PL AE`
 * When `KPA/WHEPB`

@@ -1508,7 +1508,7 @@
 * covert `KOEFRT`
 * covet `KO*FT`
 * coving `KOEFG`
-* cow `KO*U`
+* cow `KOU`
 * coward `KOURD`
 * cower `KOUR`
 * cowl `KOUL`

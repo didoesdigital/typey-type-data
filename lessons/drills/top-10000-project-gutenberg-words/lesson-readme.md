@@ -4401,7 +4401,7 @@
 * Charlotte `KHARL/OT`
 * endeavoured `EPB/TKEUFRD/A*U`
 * ardent `ARD/EPBT`
-* cow `KO*U`
+* cow `KOU`
 * mill `PHEUL`
 * victims `SREUPLS`
 * prejudice `PREPBLG`

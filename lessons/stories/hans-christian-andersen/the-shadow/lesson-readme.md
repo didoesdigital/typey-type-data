@@ -1073,7 +1073,7 @@
 * pursued `PUR/SAOUD`
 * value `SRAOUL`
 * nutmeg `TPHUT/PHEG`
-* cow. `KO*U TP-PL`
+* cow. `KOU TP-PL`
 * At `KPA/AT`
 * length `HREPBG`
 * fell `TPEL`

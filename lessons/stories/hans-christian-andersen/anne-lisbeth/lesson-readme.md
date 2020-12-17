@@ -196,7 +196,7 @@
 * living; `HREUFG STPH*FPLT`
 * took `TAOBG`
 * Mary's `PHA*ER AES`
-* cow, `KO*U KW-BG`
+* cow, `KOU KW-BG`
 * knew `TPHAOU`
 * tend `TEPBD`
 * cattle `KA*LT`

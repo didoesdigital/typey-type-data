@@ -547,7 +547,7 @@ Hans in Luck
 'by,': PWEU KW-BG
 'driving': TKRAOEUFG
 'a': AEU
-'cow,': KO*U KW-BG
+'cow,': KOU KW-BG
 'had': H
 'not': TPHOT
 'stopped': STOPD
@@ -611,7 +611,7 @@ Hans in Luck
 'I': EU
 'like': HRAOEUBG
 'your': KWROUR
-'cow': KO*U
+'cow': KOU
 'now': TPHOU
 'a': AEU
 'great': TKPWRAET
@@ -656,7 +656,7 @@ Hans in Luck
 'leisure': HR*ERB
 'behind': HEUPBD
 'that': THA
-'cow--keep': KO*U H-PB H-PB KAOEP
+'cow--keep': KOU H-PB H-PB KAOEP
 'good': TKPWAOD
 'company,': K-P KW-BG
 'and': SKP
@@ -694,7 +694,7 @@ Hans in Luck
 'will': HR
 'change': KHAEUPBG
 'my': PHEU
-'cow': KO*U
+'cow': KOU
 'for': TPOR
 'your': KWROUR
 'horse;': HORS STPH*FPLT
@@ -738,7 +738,7 @@ Hans in Luck
 'Hans': HAPBS
 'and': SKP
 'the': -T
-'cow': KO*U
+'cow': KOU
 'good': TKPWAOD
 'morning,': PHORPBG KW-BG
 'and': SKP
@@ -762,7 +762,7 @@ Hans in Luck
 'drove': TKROEF
 'off': OF
 'his': HEUS
-'cow': KO*U
+'cow': KOU
 'quietly,': KWAO*EULT KW-BG
 'and': SKP
 'thought': THAUT
@@ -811,7 +811,7 @@ Hans in Luck
 'can': K
 'milk': PH*EULG
 'my': PHEU
-'cow': KO*U
+'cow': KOU
 'and': SKP
 'drink': TKREU
 'the': -T
@@ -858,7 +858,7 @@ Hans in Luck
 'again,': TKPWEPB KW-BG
 'driving': TKRAOEUFG
 'his': HEUS
-'cow': KO*U
+'cow': KOU
 'towards': TORDZ
 'his': HEUS
 'mother's': PHOER/AES
@@ -927,7 +927,7 @@ Hans in Luck
 'will': HR
 'milk': PH*EULG
 'my': PHEU
-'cow': KO*U
+'cow': KOU
 'and': SKP
 'quench': KWEFRPB
 'my': PHEU
@@ -964,7 +964,7 @@ Hans in Luck
 'thought': THAUT
 'that': THA
 'this': TH
-'cow,': KO*U KW-BG
+'cow,': KOU KW-BG
 'which': WEU
 'was': WAS
 'to': TO
@@ -1078,11 +1078,11 @@ Hans in Luck
 'to': TO
 'milk': PH*EULG
 'his': HEUS
-'cow,': KO*U KW-BG
+'cow,': KOU KW-BG
 'but': PWUT
 'found': TPOUPBD
 'the': -T
-'cow': KO*U
+'cow': KOU
 'was': WAS
 'dry': TKRAOEU
 'too.': TAO TP-PL
@@ -1102,7 +1102,7 @@ Hans in Luck
 'refresh': RERB
 'yourself;': KWRO*URS STPH*FPLT
 'your': KWROUR
-'cow': KO*U
+'cow': KOU
 'will': HR
 'give': TKPWEUF
 'you': U
@@ -1144,7 +1144,7 @@ Hans in Luck
 'only': OEPBL
 'a': AEU
 'dry': TKRAOEU
-'cow!': KO*U SKHRAPL
+'cow!': KOU SKHRAPL
 'If': KPA/TP
 'I': EU
 'kill': KEUL
@@ -1157,7 +1157,7 @@ Hans in Luck
 'for?': TPOR H-F
 'I': EU
 'hate': HAEUT
-'cow-beef;': KO*U H-PB PWAOEF STPH*FPLT
+'cow-beef;': KOU H-PB PWAOEF STPH*FPLT
 'it': T
 'is': S
 'not': TPHOT
@@ -1228,7 +1228,7 @@ Hans in Luck
 'pig': PEUG
 'for': TPOR
 'the': -T
-'cow.'': KO*U TP-PL AE
+'cow.'': KOU TP-PL AE
 ''Heaven': AE KPA/HEFPB
 'reward': RE/WARD
 'you': U
@@ -1245,7 +1245,7 @@ Hans in Luck
 'the': -T
 'butcher': PWUFP/ER
 'the': -T
-'cow;': KO*U STPH*FPLT
+'cow;': KOU STPH*FPLT
 'and': SKP
 'taking': TAEUG
 'the': -T
@@ -1894,12 +1894,12 @@ Hans in Luck
 ''I': AE EU
 'gave': TKPWAEUF
 'a': AEU
-'cow': KO*U
+'cow': KOU
 'for': TPOR
 'it.'': T TP-PL AE
 ''And': AE AFPBD
 'the': -T
-'cow?'': KO*U H-F AE
+'cow?'': KOU H-F AE
 ''I': AE EU
 'gave': TKPWAEUF
 'a': AEU
@@ -2188,7 +2188,7 @@ Hans in Luck
 'at': AT
 'getting': TKPWEGT
 'the': -T
-'cow.': KO*U TP-PL
+'cow.': KOU TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE

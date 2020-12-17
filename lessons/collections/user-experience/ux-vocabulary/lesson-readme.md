@@ -147,7 +147,7 @@
 * audience `AUPBS`
 * task `TAFBG`
 * thumbnail `THUPL/TPHAEUL`
-* URL `*URL`
+* URL `URL`
 * white `WHAOEUT`
 * space `SPAEUS`
 * within-page `W-PB H-PB PAEUPBLG`

@@ -619,11 +619,11 @@
 * slept `SHREPT`
 * awake `A/WAEUBG`
 * mouth `PHO*UT`
-* cow; `KO*U STPH*FPLT`
+* cow; `KOU STPH*FPLT`
 * hay `HA*EU`
-* cow's `KO*U AES`
+* cow's `KOU AES`
 * rick, `HRO*ER/REUBG KW-BG`
-* cow `KO*U`
+* cow `KOU`
 * mouthful `PHO*UT/-FL`
 * it. `T TP-PL`
 * lack-a-day!' `HRABG H-PB AEU H-PB TKAEU SKHRAPL AE`
@@ -691,7 +691,7 @@
 * surely `SHURL`
 * mad!' `PHAD SKHRAPL AE`
 * However, `KPA/HOUF KW-BG`
-* cow-house, `KO*U H-PB HOUS KW-BG`
+* cow-house, `KOU H-PB HOUS KW-BG`
 * matter. `PHAERT TP-PL`
 * Scarcely `KPA/SKAEURS/HREU`
 * set `SET`

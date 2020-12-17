@@ -432,7 +432,7 @@
 * her. `HER TP-PL`
 * As `KPA/AS`
 * along, `HRAOPBG KW-BG`
-* cow `KO*U`
+* cow `KOU`
 * began `TKPWAPB`
 * lowing. `HROE/-G TP-PL`
 * "Oh," `KR-GS KPA/O*ERBGS KW-BG KR-GS`
