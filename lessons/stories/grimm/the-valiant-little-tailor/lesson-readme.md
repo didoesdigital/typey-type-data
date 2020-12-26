@@ -264,7 +264,7 @@
 * workshop `WO*P`
 * too `TAO`
 * small `SPHAL`
-* valour. `SRAL/HROR/A*U TP-PL`
+* valour. `SRARL/A*U TP-PL`
 * Before `KPA/PW-FR`
 * sought `SAUT`
 * about `PW`

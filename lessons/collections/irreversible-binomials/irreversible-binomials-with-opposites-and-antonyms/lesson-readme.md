@@ -1,7 +1,7 @@
 # Irreversible binomials with opposites and antonyms
 
 * addition and subtraction `AGS/SKP/SAUB/TRABGS`
-* assets and liabilities `AS/ET/-S/SKP/HRAOEUBLTS`
+* assets and liabilities `SA*ETS/SKP/HRAOEUBLTS`
 * back and forth `PWABG/SKP/TPO*RT`
 * balls and strikes `PWAULS/SKP/STRAOEUBGS`
 * beginning to end `TKPWEUPB/-G/TO/EPBD`
@@ -29,7 +29,7 @@
 * floor to ceiling `TPHRAOR/TO/KAOELG`
 * food and drink `TPAOD/SKP/TKREU`
 * fore and aft `TPO*ER/SKP/A*/TP*/T*`
-* foreign and domestic `TPOERPB/SKP/PHEFBG`
+* foreign and domestic `TPORPB/SKP/PHEFBG`
 * forward and backward `TPAORD/SKP/PWABG/WARD`
 * friend or foe `TPREPBD/OR/TPOE`
 * front to back `TPROPBT/TO/PWABG`

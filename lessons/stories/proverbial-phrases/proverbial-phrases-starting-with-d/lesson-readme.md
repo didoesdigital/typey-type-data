@@ -14,7 +14,7 @@
 * better `PWOERT`
 * part `PART`
 * of `-F`
-* valour. `SRAL/HROR/A*U TP-PL`
+* valour. `SRARL/A*U TP-PL`
 * Do `KPA/TKO`
 * as `AZ`
 * I `EU`

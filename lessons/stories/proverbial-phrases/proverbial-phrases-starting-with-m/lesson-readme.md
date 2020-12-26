@@ -22,8 +22,8 @@
 * a `AEU`
 * little `HREUL`
 * makes `PHAEUBGS`
-* mickle. `PHEUBG/*L TP-PL`
-* mickle `PHEUBG/*L`
+* mickle. `PHEUBG/TK-LS/HR*/*E TP-PL`
+* mickle `PHEUBG/TK-LS/HR*/*E`
 * muckle. `PHUBG/*L TP-PL`
 * true `TRAOU`
 * word `WORD`

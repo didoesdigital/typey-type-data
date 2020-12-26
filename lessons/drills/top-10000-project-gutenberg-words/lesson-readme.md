@@ -7101,7 +7101,7 @@
 * thereupon `THRUP`
 * unlucky `UPB/HRUBG/KWREU`
 * eighth `A*ET`
-* valour `SRAL/HROR/A*U`
+* valour `SRARL/A*U`
 * grammar `TKPWRARPL`
 * relaxed `RE/HRAGD`
 * mentions `PHEPBGS/-S`
@@ -8551,7 +8551,7 @@
 * etiquette `ET/KET`
 * theater `THAOERT`
 * Thanksgiving `THAPBGS/TKPWEUFG`
-* valor `SRAL/O*R`
+* valor `SRARL`
 * untouched `UPB/TUFPD`
 * tactics `TABGT/EUBGS`
 * drug `TKRUG`

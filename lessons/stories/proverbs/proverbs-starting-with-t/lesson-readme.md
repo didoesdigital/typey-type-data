@@ -85,7 +85,7 @@
 * at `AT`
 * tunnel. `TUPBL TP-PL`
 * slip `SHREUP`
-* 'twixt `TW*EUBGS`
+* 'twixt `TW*EUBGTS`
 * cup `KUP`
 * lip. `HREUP TP-PL`
 * accounting `K-GT`

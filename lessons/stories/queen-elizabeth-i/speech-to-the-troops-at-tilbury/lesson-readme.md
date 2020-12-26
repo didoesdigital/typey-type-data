@@ -158,7 +158,7 @@
 * obedience `OE/PWAOED/KWREPBS`
 * concord `KOPB/KORD`
 * camp, `KAFRP KW-BG`
-* valour `SRAL/HROR/A*U`
+* valour `SRARL/A*U`
 * field, `TPAOELD KW-BG`
 * shortly `SHORLT`
 * famous `TPAEUPLS`
