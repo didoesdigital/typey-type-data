@@ -431,7 +431,7 @@
 * done, `TKOPB KW-BG`
 * sat `SAT`
 * angrily `APBG/REU/HREU`
-* sulkily `xxx sulkily`
+* sulkily `S*ULG/TK-LS/*EU/HREU`
 * chimney `KHEUPL/TPHEU`
 * corner. `KRORPB TP-PL`
 * outside `OUDZ`

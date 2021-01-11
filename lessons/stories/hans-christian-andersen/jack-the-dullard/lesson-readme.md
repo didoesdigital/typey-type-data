@@ -546,7 +546,7 @@
 * "my `KR-GS PHEU`
 * father `TPAER`
 * roast `ROEFT`
-* pullets `xxx pullets`
+* pullets `PUL/ET/-S`
 * today." `TOED TP-PL KR-GS`
 * "Baa!" `KR-GS xxx Baa SKHRAPL KR-GS`
 * baa-lamb. `xxx baa H-PB HRAPL TP-PL`
@@ -586,7 +586,7 @@
 * abominably `A*/PW*/O*/PH*/*EU/TPH*/A*/PW*/HR*/KWR*`
 * here." `HAOER TP-PL KR-GS`
 * I'm `AOEUPL`
-* pullets," `xxx pullets KW-BG KR-GS`
+* pullets," `PUL/ET/-S KW-BG KR-GS`
 * "Ah, `KR-GS KPA/HA*E KW-BG`
 * that's `THATS`
 * lucky!" `HROEUBG SKHRAPL KR-GS`

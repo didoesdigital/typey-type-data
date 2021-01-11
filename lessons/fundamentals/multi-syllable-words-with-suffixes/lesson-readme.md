@@ -1104,7 +1104,6 @@
 * madly `PHAD/HREU`
 * noticeable `TPH-TS/-BL`
 * pudding `PUD/-G`
-* magnetic `PHAPBG/EUBG`
 * decency `TKAOEPBS/SEU`
 * observance `OEB/APBS`
 * diplomacy `TKPHROEPL/SEU`

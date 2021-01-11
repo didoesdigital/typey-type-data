@@ -318,7 +318,7 @@
 * top `TOP`
 * tree `TRAOE`
 * there `THR`
-* chaffinch's `xxx chaffinch AES`
+* chaffinch's `KHAF/TK-LS/TPH-FP AES`
 * nest; `TPHEFT STPH*FPLT`
 * tell `TEL`
 * me `PHE`
@@ -484,7 +484,7 @@
 * beast `PWAOEFT`
 * did `TK`
 * it, `T KW-BG`
-* snoring. `STPHOERPBG TP-PL`
+* snoring. `STPHOERG TP-PL`
 * hastened `HAEUS/-PBD`
 * full `TPUL`
 * joy `SKWROEU`

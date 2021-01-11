@@ -129,7 +129,7 @@
 * than `THAPB`
 * by `PWEU`
 * sea. `SAE TP-PL`
-* electro-magnetic `xxx electro H-PB PHAPBG/EUBG`
+* electro-magnetic `HRERBGT/H-PB/PH*EGT`
 * wire `WAOEUR`
 * ocean `OEGS`
 * telegraphed `TEL/TKPWRAFD`
@@ -179,7 +179,7 @@
 * Channel, `KPA/KHAPBL KW-BG`
 * France, `TPRAPBS KW-BG`
 * Charlemagne `KHARL/PHAEUPB`
-* Napoleon. `PHA/POEL/KWROPB TP-PL`
+* Napoleon. `TPHA/POL/KWROPB TP-PL`
 * Moliere `xxx Moliere`
 * named, `TPHAEUPLD KW-BG`
 * learned `HRERPBD`

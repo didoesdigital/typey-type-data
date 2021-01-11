@@ -44,7 +44,7 @@
 * of `-F`
 * little `HREUL`
 * sister, `ST-R KW-BG`
-* Gustava, `TKPWUS/TAF/KWRA KW-BG`
+* Gustava, `TKPWUS/TAF/TK-LS/A* KW-BG`
 * much `PHUFP`
 * younger `KWRURPBG`
 * than `THAPB`
@@ -89,7 +89,7 @@
 * heart `HART`
 * towns `TOUPBS`
 * in `TPH`
-* Zealand, `xxx Zealand KW-BG`
+* Zealand, `KPA/STKPWAOEL/TK-LS/APBD KW-BG`
 * described `KREUFD`
 * them. `THEPL TP-PL`
 * His `KPA/HEUS`
@@ -97,7 +97,7 @@
 * came `KAEUPL`
 * last, `HRAFT KW-BG`
 * took `TAOBG`
-* Gustava `TKPWUS/TAF/KWRA`
+* Gustava `TKPWUS/TAF/TK-LS/A*`
 * arms. `ARPLS TP-PL`
 * Then `KPA/THEPB`
 * ran `RAPB`
@@ -366,7 +366,7 @@
 * dressed `TKREFD`
 * sailor, `SAEU/HROR KW-BG`
 * enough `TPHUF`
-* middy, `xxx middy KW-BG`
+* middy, `PH*EUD/KWREU KW-BG`
 * one. `WUPB TP-PL`
 * bring `PWREU`
 * greetings `TKPWRAOEGTS`
@@ -517,7 +517,7 @@
 * Absalom, `xxx Absalom KW-BG`
 * shrunk `SHR*UPBG`
 * together, `TOGT KW-BG`
-* wagged `WAG/-D`
+* wagged `WAG/TK-LS/TKPW/-D`
 * frog `TPROG`
 * spring. `SPREUPBG TP-PL`
 * "Croak," `KR-GS KPA/KROEBG KW-BG KR-GS`

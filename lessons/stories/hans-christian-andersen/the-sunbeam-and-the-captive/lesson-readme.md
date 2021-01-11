@@ -195,7 +195,7 @@
 * Still `KPA/STEUL`
 * shone `SHO*EPB`
 * heart, `HART KW-BG`
-* twittering `HRO*ER/TWEUT/*ER/-G`
+* twittering `HRO*ER/TWEUT/*ERG`
 * touched `TUFPD`
 * it. `T TP-PL`
 * Sound `KPA/SOUPBD`

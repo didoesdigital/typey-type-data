@@ -719,7 +719,7 @@
 * bad `PWAD`
 * temper. `TEPL/PER TP-PL`
 * "Give `KR-GS KPA/TKPWEUF`
-* chicken," `KHEU/KEPB KW-BG KR-GS`
+* chicken," `KH*EUPB KW-BG KR-GS`
 * standing `STAPBG`
 * way." `WAEU TP-PL KR-GS`
 * "Why `KR-GS KPA/KWR`

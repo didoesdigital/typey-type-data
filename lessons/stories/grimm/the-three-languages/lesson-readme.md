@@ -247,7 +247,7 @@
 * went `WEPBT`
 * inside, `TPH-DZ KW-BG`
 * did `TK`
-* wagged `WAG/-D`
+* wagged `WAG/TK-LS/TKPW/-D`
 * their `THAEUR`
 * tails `TAEULS`
 * quite `KWAOEUT`

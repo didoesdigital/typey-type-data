@@ -311,7 +311,7 @@
 * branch `PWRAFRPB`
 * been `PW-PB`
 * by `PWEU`
-* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
+* handsomest `HAPBD/SO*PL/TK-LS/S*/T*`
 * men, `PHEPB KW-BG`
 * wood `WAOD`
 * blazed `PWHRAEUZ/-D`
@@ -959,7 +959,7 @@
 * summit `SUPLT`
 * tower, `TOUR KW-BG`
 * creaked `KRAEBG/-D`
-* snoring `STPHOERPBG`
+* snoring `STPHOERG`
 * warder, `WARD/*ER KW-BG`
 * warder `WARD/*ER`
 * rats. `RATS/TP-PL`

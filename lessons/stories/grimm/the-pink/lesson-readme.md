@@ -538,7 +538,7 @@
 * beasts, `PWAOEFT/-S KW-BG`
 * tore `TO*R`
 * sprinkled `SPREUPB/K-LD`
-* chicken.' `KHEU/KEPB TP-PL AE`
+* chicken.' `KH*EUPB TP-PL AE`
 * dog `TKOG`
 * golden `TKPWOELD/*EPB`
 * collar, `KHRAR KW-BG`

@@ -700,7 +700,7 @@
 * burst `PWUFRT`
 * forth, `TPO*RT KW-BG`
 * bird `PWEURD`
-* carolled `KAR/OL/-D`
+* carolled `KAR/OL/-D/A*U`
 * song, `SOPBG KW-BG`
 * church-bells `KHUFRPB H-PB PWELS`
 * early `ERL`

@@ -53,7 +53,7 @@
 * there `THR`
 * was `WAS`
 * a `AEU`
-* twittering `HRO*ER/TWEUT/*ER/-G`
+* twittering `HRO*ER/TWEUT/*ERG`
 * fluttering `TPHRUT/ERG`
 * of `-F`
 * little `HREUL`
@@ -659,7 +659,7 @@
 * tell `TEL`
 * you! `U SKHRAPL`
 * snore; `STPHAUR STPH*FPLT`
-* snoring `STPHOERPBG`
+* snoring `STPHOERG`
 * night, `TPHAOEUT KW-BG`
 * hardly `HA*RLD`
 * quarter `KWAR/TER`
@@ -713,7 +713,7 @@
 * angel `APB/SKWREL`
 * justice `SKWRUFS`
 * crimes `KRAOEUPLS`
-* defence; `TKEFPB/A*U STPH*FPLT`
+* defence; `TKEFS/A*U STPH*FPLT`
 * latter `HRART`
 * brilliant `PWREULT`
 * one, `WUPB KW-BG`

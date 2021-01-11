@@ -423,7 +423,7 @@
 * floor `TPHRAOR`
 * fast `TPAFT`
 * asleep `A/SHRAOEP`
-* snoring. `STPHOERPBG TP-PL`
+* snoring. `STPHOERG TP-PL`
 * assured `A/SHURD`
 * this, `TH KW-BG`
 * cask. `KAFBG TP-PL`

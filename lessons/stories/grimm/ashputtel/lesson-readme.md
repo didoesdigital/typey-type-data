@@ -356,7 +356,7 @@
 * fly! `TPHRAOEU SKHRAPL`
 * Blackbird, `KPA/PWHRABG/PWEURD KW-BG`
 * thrush, `THRURB KW-BG`
-* chaffinch `xxx chaffinch`
+* chaffinch `KHAF/TK-LS/TPH-FP`
 * gay, `TKPWAEU KW-BG`
 * Hither, `KPA/H*EURT KW-BG`
 * haste `HAEUFT`

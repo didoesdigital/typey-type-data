@@ -264,7 +264,7 @@
 * fitted `TPEUTD`
 * out `OUT`
 * many `PHAEPB`
-* colours; `KHROURS/A*U STPH*FPLT`
+* colours; `KHRORS/A*U STPH*FPLT`
 * tail `TAEUL`
 * peacock, `PAE/KOBG KW-BG`
 * covered `KOFRD`

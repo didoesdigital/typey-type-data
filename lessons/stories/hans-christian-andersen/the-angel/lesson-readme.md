@@ -303,7 +303,7 @@
 * sun `SUPB`
 * shone, `SHO*EPB KW-BG`
 * birds `PWEURDZ`
-* carolled `KAR/OL/-D`
+* carolled `KAR/OL/-D/A*U`
 * gayly. `TKPWAEU/HREU TP-PL`
 * One `KPA/WUPB`
 * day `TKAEU`

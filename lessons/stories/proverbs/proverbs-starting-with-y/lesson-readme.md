@@ -32,7 +32,7 @@
 * of `-F`
 * sow's `SOE AES`
 * ear. `AOER TP-PL`
-* chicken `KHEU/KEPB`
+* chicken `KH*EUPB`
 * soup `SOUP`
 * poop. `PAOP TP-PL`
 * run `RUPB`

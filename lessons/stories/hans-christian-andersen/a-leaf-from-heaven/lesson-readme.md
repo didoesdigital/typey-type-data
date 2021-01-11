@@ -360,7 +360,7 @@
 * foreigner, `TPORPB/ER KW-BG`
 * no `TPHO`
 * doubt," `TKOUT KW-BG KR-GS`
-* burdocks. `xxx burdocks TP-PL`
+* burdocks. `PW*/*U/R*/TK-LS/TKOBG/-S TP-PL`
 * "We `KR-GS KPA/WE`
 * can `K`
 * never `TPHEFR`

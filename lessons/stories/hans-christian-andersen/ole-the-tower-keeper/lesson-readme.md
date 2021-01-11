@@ -682,7 +682,7 @@
 * said, `SED KW-BG`
 * 'This `AE KPA/TH`
 * shall `SHAL`
-* Zealand!' `xxx Zealand SKHRAPL AE`
+* Zealand!' `KPA/STKPWAOEL/TK-LS/APBD SKHRAPL AE`
 * dwelling-place `TKWELG H-PB PHRAEUS`
 * birds `PWEURDZ`
 * unknown `UPB/TPHOEPB`
@@ -886,7 +886,7 @@
 * bird `PWEURD`
 * soars `SAORS`
 * upward, `AUP/WARD KW-BG`
-* twittering `HRO*ER/TWEUT/*ER/-G`
+* twittering `HRO*ER/TWEUT/*ERG`
 * guileless `TKPWAOEUL/-LS`
 * cheerfulness, `KHAOER/-FL/-PBS KW-BG`
 * listen `HREUFPB`

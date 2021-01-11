@@ -741,7 +741,7 @@
 * ham, `HAPL KW-BG`
 * beef, `PWAOEF KW-BG`
 * cold `KOELD`
-* chicken, `KHEU/KEPB KW-BG`
+* chicken, `KH*EUPB KW-BG`
 * roast `ROEFT`
 * pig, `PEUG KW-BG`
 * apple-dumplings, `A*EPL H-PB TKUFRP/-LGS KW-BG`

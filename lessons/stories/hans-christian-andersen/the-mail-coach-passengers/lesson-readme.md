@@ -410,7 +410,7 @@
 * MAY. `*URP/PHAE TP-PL`
 * wore `WOR`
 * dress `TKRES`
-* overshoes; `xxx overshoes STPH*FPLT`
+* overshoes; `AUFR/SHAOS STPH*FPLT`
 * her `HER`
 * light `HRAOEUT`
 * green, `TKPWRAOEPB KW-BG`
@@ -548,7 +548,7 @@
 * recreations, `RE/KRAEGS/-S KW-BG`
 * dancing `TKAPBS/-G`
 * playing `PHRAEUG`
-* greenwood, `xxx greenwood KW-BG`
+* greenwood, `TKPWRAOEPB/TK-LS/WAOD KW-BG`
 * "harvest `KR-GS HAR/SREFT`
 * homes." `HOEPLS TP-PL KR-GS`
 * thorough `THRO`

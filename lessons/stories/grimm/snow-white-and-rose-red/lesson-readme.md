@@ -795,7 +795,7 @@
 * stones; `STOEPBS STPH*FPLT`
 * glittered `TKPWHREUT/ERD`
 * sparkled `SPAR/K-LD`
-* colours `KHROURS/A*U`
+* colours `KHRORS/A*U`
 * beautifully `PWAOUFL/HREU`
 * stared `STAERD`
 * them. `THEPL TP-PL`

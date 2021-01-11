@@ -270,7 +270,7 @@
 * lane; `HRAEPB STPH*FPLT`
 * price `PRAOEUS`
 * admission `AD/PHEUGS`
-* trouser `TROUZ/ER`
+* trouser `TROURS`
 * button, `PW*PB KW-BG`
 * every `EF`
 * boy `PWOEU`

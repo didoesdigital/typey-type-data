@@ -11,7 +11,7 @@
 * his `HEUS`
 * wife `WAOEUF`
 * in `TPH`
-* pigsty, `xxx pigsty KW-BG`
+* pigsty, `PEUG/TK-LS/STAOEU KW-BG`
 * close `KHROES`
 * by `PWEU`
 * the `-T`
@@ -138,7 +138,7 @@
 * this `TH`
 * nasty `TPHAS/TEU`
 * dirty `TKOEURT`
-* pigsty; `xxx pigsty STPH*FPLT`
+* pigsty; `PEUG/TK-LS/STAOEU STPH*FPLT`
 * tell `TEL`
 * we `WE`
 * want `WAPBT`
@@ -223,7 +223,7 @@
 * better `PWOERT`
 * than `THAPB`
 * filthy `TPEUL/THEU`
-* pigsty `xxx pigsty`
+* pigsty `PEUG/TK-LS/STAOEU`
 * had?' `H H-F AE`
 * parlour, `PAR/HROR/A*U KW-BG`
 * bedchamber, `PWED/TK-LS/KHAEURPL/KW-BG`

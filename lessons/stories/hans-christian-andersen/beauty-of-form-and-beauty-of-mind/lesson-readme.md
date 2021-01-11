@@ -50,7 +50,7 @@
 * towns `TOUPBS`
 * in `TPH`
 * island `AOEULD`
-* Zealand. `xxx Zealand TP-PL`
+* Zealand. `KPA/STKPWAOEL/TK-LS/APBD TP-PL`
 * The `KPA/-T`
 * whole `WHOEL`
 * town `TOUPB`

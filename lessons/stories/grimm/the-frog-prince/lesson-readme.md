@@ -241,7 +241,7 @@
 * By `KPA/PWEU`
 * fountain `TPOUPB/TAEUPB`
 * cool, `KAOL KW-BG`
-* greenwood `xxx greenwood`
+* greenwood `TKPWRAOEPB/TK-LS/WAOD`
 * shade.' `SHAEUD TP-PL AE`
 * opened `OEPD`
 * whom `WHOPL`

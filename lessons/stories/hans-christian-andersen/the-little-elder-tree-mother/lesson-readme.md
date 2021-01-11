@@ -419,7 +419,7 @@
 * Many `KPA/PHAEPB`
 * time `TAOEUPL`
 * night `TPHAOEUT`
-* weathercock `xxx weathercock`
+* weathercock `WHR*/TK-LS/KOBG`
 * turned; `TURPBD STPH*FPLT`
 * turned `TURPBD`
 * often, `OFPB KW-BG`

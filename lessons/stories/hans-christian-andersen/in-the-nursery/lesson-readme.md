@@ -14,7 +14,7 @@
 * little `HREUL`
 * Anna `APB/TPHA`
 * her `HER`
-* grandpapa `xxx grandpapa`
+* grandpapa `TKPWRAPBD/TK-LS/HRO*ER/PA/PA`
 * left `HREFT`
 * at `AT`
 * home. `HOEPL TP-PL`
@@ -64,7 +64,7 @@
 * what `WHA`
 * has," `HAS KW-BG KR-GS`
 * observed `OEBD`
-* grandpapa. `xxx grandpapa TP-PL`
+* grandpapa. `TKPWRAPBD/TK-LS/HRO*ER/PA/PA TP-PL`
 * "Now `KR-GS KPA/TPHOU`
 * we'll `WAOEL`
 * go `TKPW`
@@ -370,7 +370,7 @@
 * way `WAEU`
 * all." `AUL TP-PL KR-GS`
 * "They `KR-GS KPA/THE`
-* grandpapa; `xxx grandpapa STPH*FPLT`
+* grandpapa; `TKPWRAPBD/TK-LS/HRO*ER/PA/PA STPH*FPLT`
 * public `PHREUBG`
 * demands `TKPHAPBDZ`
 * it, `T KW-BG`

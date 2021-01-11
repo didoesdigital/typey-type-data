@@ -140,7 +140,7 @@
 * he, `HE KW-BG`
 * "and `KR-GS SKP`
 * much `PHUFP`
-* handsomer; `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R* STPH*FPLT`
+* handsomer; `HAPBD/SO*PL/TK-LS/*E/R* STPH*FPLT`
 * my `PHEU`
 * flowers `TPHRO*URS`
 * are `R`

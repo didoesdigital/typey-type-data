@@ -97,7 +97,7 @@
 * branches, `PWRAFRPBS KW-BG`
 * at `AT`
 * foot `TPAOT`
-* paling, `PAL/-G KW-BG`
+* paling, `HRO*ER/PA/HREUPBG KW-BG`
 * pool `PAOL`
 * water, `WAUR KW-BG`
 * which `WEU`

@@ -399,7 +399,7 @@
 * almost `HR-PL`
 * angrily `APBG/REU/HREU`
 * spring, `SPREUPBG KW-BG`
-* twittering `HRO*ER/TWEUT/*ER/-G`
+* twittering `HRO*ER/TWEUT/*ERG`
 * birds, `PWEURDZ KW-BG`
 * cheerful `KHAOER/-FL`
 * green; `TKPWRAOEPB STPH*FPLT`
@@ -554,7 +554,7 @@
 * accurately `ABG/RAT/HREU`
 * egg `EG`
 * laid, `HRAEUD KW-BG`
-* chicken `KHEU/KEPB`
+* chicken `KH*EUPB`
 * creep `KRAOEP`
 * egg. `EG TP-PL`
 * she `SHE`

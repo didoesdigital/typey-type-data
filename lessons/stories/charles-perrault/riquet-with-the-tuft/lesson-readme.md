@@ -821,7 +821,7 @@
 * appeared `A/PAOERD`
 * finest `TPAOEUPB/EFT`
 * earth; `*ERT STPH*FPLT`
-* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
+* handsomest `HAPBD/SO*PL/TK-LS/S*/T*`
 * amiable `APL/KWRABL`
 * ever `-FR`
 * saw. `SAU TP-PL`

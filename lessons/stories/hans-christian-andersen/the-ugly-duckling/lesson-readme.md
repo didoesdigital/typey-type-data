@@ -69,7 +69,7 @@
 * side `SAOEUD`
 * grew `TKPWRAOU`
 * great `TKPWRAET`
-* burdock `xxx burdock`
+* burdock `PW*/*U/R*/TK-LS/TKOBG`
 * leaves, `HREFS KW-BG`
 * so `SO`
 * high, `HAOEU KW-BG`

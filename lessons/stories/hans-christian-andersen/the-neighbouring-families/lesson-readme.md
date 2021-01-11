@@ -480,7 +480,7 @@
 * wheel, `WHAOEL KW-BG`
 * these `THEZ`
 * various `SRAEURS`
-* colours `KHROURS/A*U`
+* colours `KHRORS/A*U`
 * makes `PHAEUBGS`
 * one's `W*UPBS`
 * eyes `AO*EUS`
@@ -619,7 +619,7 @@
 * sparrow-mother. `SPAEUR/ROE H-PB PHOER TP-PL`
 * Out `KPA/OUT`
 * box, `PWOBGS KW-BG`
-* colours, `KHROURS/A*U KW-BG`
+* colours, `KHRORS/A*U KW-BG`
 * quantity `KWAPBT`
 * shining `SHAOEUPBG`
 * leaf-gold, `HRAOEF H-PB TKPWOELD KW-BG`
@@ -692,7 +692,7 @@
 * certainly `SERPBL`
 * peacock, `PAE/KOBG KW-BG`
 * glitters `TKPWHREUT/ERS`
-* colours; `KHROURS/A*U STPH*FPLT`
+* colours; `KHRORS/A*U STPH*FPLT`
 * ache, `AEUBG KW-BG`
 * mother `PHOER`
 * Peep! `KPA/PAOEP SKHRAPL`
@@ -1055,7 +1055,7 @@
 * whatever `WHAF`
 * call `KAUL`
 * course `KORS`
-* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
+* handsomest `HAPBD/SO*PL/TK-LS/S*/T*`
 * cleverest; `KHR*EFR/*ES STPH*FPLT`
 * way, `WAEU KW-BG`
 * that, `THA KW-BG`

@@ -177,7 +177,7 @@
 * everything! `EFRG SKHRAPL`
 * tulips `TAOU/HREUPS`
 * finest `TPAOEUPB/EFT`
-* colours, `KHROURS/A*U KW-BG`
+* colours, `KHRORS/A*U KW-BG`
 * knew `TPHAOU`
 * well, `WEL KW-BG`
 * too, `TAO KW-BG`

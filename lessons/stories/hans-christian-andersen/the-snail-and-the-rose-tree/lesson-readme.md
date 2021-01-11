@@ -192,7 +192,7 @@
 * Have `KPA/SR`
 * anything `TPHEUG`
 * say `SAEU`
-* defence? `TKEFPB/A*U H-F`
+* defence? `TKEFS/A*U H-F`
 * now `TPHOU`
 * soon `SAOPB`
 * be `-B`

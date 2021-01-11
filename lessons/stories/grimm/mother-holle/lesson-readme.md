@@ -732,7 +732,7 @@
 * loud. `HROUD TP-PL`
 * huntsman `HUPBTS/PHA*PB`
 * 'How `AE KPA/HOU`
-* snoring! `STPHOERPBG SKHRAPL`
+* snoring! `STPHOERG SKHRAPL`
 * wants `WAPBTS`
 * anything.' `TPHEUG TP-PL AE`
 * lying `HRAOEUG`

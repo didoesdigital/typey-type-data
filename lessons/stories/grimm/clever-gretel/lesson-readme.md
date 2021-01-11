@@ -269,7 +269,7 @@
 * an `APB`
 * enormous `TPHO*RPLS`
 * drink `TKREU`
-* chicken `KHEU/KEPB`
+* chicken `KH*EUPB`
 * great `TKPWRAET`
 * glee. `TKPWHRAOE TP-PL`
 * chickens `KHEU/KEPB/-S`
@@ -385,7 +385,7 @@
 * one,' `WUPB KW-BG AE`
 * meaning `PHAOEPBG`
 * leave `HREF`
-* chicken, `KHEU/KEPB KW-BG`
+* chicken, `KH*EUPB KW-BG`
 * both. `PWO*T TP-PL`
 * however, `HOUF KW-BG`
 * otherwise `O*ERZ`

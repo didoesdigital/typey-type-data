@@ -1103,7 +1103,7 @@
 * comeliness, `xxx comeliness KW-BG`
 * originals `ORPBLGS`
 * far `TPAR`
-* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
+* handsomer `HAPBD/SO*PL/TK-LS/*E/R*`
 * portraits. `POR/TRAT/-S TP-PL`
 * burners `PWURPB/ERS`
 * six-armed `SEUBGS H-PB ARPLD`

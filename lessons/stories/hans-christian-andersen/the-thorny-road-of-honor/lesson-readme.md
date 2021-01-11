@@ -153,7 +153,7 @@
 * had `H`
 * been `PW-PB`
 * shield `SHAOELD`
-* defence `TKEFPB/A*U`
+* defence `TKEFS/A*U`
 * people `PAOEPL`
 * thirty `THEURT`
 * tyrants, `TAOEUR/APBTS KW-BG`
@@ -386,7 +386,7 @@
 * madman," `PHAD/PHAPB KW-BG KR-GS`
 * replies `RE/PHRAOEUS`
 * keeper `KAOEP/*ER`
-* madhouse. `xxx madhouse TP-PL`
+* madhouse. `PHAD/TK-LS/HOUS TP-PL`
 * "What `KR-GS KPA/WHA`
 * whimsical `WEUPLS/K-L`
 * ideas `KWR-DZ`

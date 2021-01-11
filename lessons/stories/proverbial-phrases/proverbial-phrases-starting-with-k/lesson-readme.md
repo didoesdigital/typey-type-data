@@ -13,7 +13,7 @@
 * dry. `TKRAOEU TP-PL`
 * Kill `KPA/KEUL`
 * the `-T`
-* chicken `KHEU/KEPB`
+* chicken `KH*EUPB`
 * to `TO`
 * scare `SKAEUR`
 * monkey. `PHOPB/KAE TP-PL`

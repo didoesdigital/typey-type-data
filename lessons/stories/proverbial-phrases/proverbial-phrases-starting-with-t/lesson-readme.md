@@ -49,7 +49,7 @@
 * from `TPR`
 * tree. `TRAOE TP-PL`
 * best `PWEFT`
-* defence `TKEFPB/A*U`
+* defence `TKEFS/A*U`
 * a `AEU`
 * good `TKPWAOD`
 * offence. `OF/EPBS TP-PL`

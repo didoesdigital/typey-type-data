@@ -511,7 +511,7 @@
 * slowly `SHROEL`
 * much `PHUFP`
 * tired, `TAOEURD KW-BG`
-* snoring `STPHOERPBG`
+* snoring `STPHOERG`
 * bed; `PWED STPH*FPLT`
 * 'Now `AE KPA/TPHOU`
 * safe'; `SAEUF AE STPH*FPLT`

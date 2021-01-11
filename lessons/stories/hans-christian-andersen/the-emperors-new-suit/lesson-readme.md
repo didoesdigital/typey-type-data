@@ -101,7 +101,7 @@
 * cloth `KHRO*T`
 * imagined. `PHAPBLGD TP-PL`
 * Their `KPA/THAEUR`
-* colours `KHROURS/A*U`
+* colours `KHRORS/A*U`
 * patterns, `PAT/ERPBS KW-BG`
 * said, `SED KW-BG`
 * exceptionally `SEPBGS/HREU`
@@ -259,7 +259,7 @@
 * exquisite `EBGS/KWEUFT`
 * pattern `PAERPB`
 * beautiful `PWAOUFL`
-* colours, `KHROURS/A*U KW-BG`
+* colours, `KHRORS/A*U KW-BG`
 * pointing `POEUPBGT`
 * poor `PAOR`
 * tried `TRAOEUD`
@@ -300,7 +300,7 @@
 * "What `KR-GS KPA/WHA`
 * pattern, `PAERPB KW-BG`
 * brilliant `PWREULT`
-* colours! `KHROURS/A*U SKHRAPL`
+* colours! `KHRORS/A*U SKHRAPL`
 * tell `TEL`
 * much." `PHUFP TP-PL KR-GS`
 * "We `KR-GS KPA/WE`

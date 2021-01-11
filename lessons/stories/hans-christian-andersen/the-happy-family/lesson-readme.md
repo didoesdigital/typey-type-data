@@ -10,7 +10,7 @@
 * is `S`
 * certainly `SERPBL`
 * the `-T`
-* burdock-leaf. `xxx burdock H-PB HRAOEF TP-PL`
+* burdock-leaf. `PW*/*U/R*/TK-LS/TKOBG H-PB HRAOEF TP-PL`
 * If `KPA/TP`
 * you `U`
 * hold `HOLD`
@@ -36,7 +36,7 @@
 * wonderfully `WOPBD/TPHREU`
 * large. `HRARPBLG TP-PL`
 * A `KPA/AEU`
-* burdock `xxx burdock`
+* burdock `PW*/*U/R*/TK-LS/TKOBG`
 * never `TPHEFR`
 * grows `TKPWRO*ES`
 * alone; `A/HROEPB STPH*FPLT`
@@ -85,7 +85,7 @@
 * snails `STPHAEUL/-S`
 * lived `HREUFD`
 * on `OPB`
-* burdock-leaves, `xxx burdock H-PB HREFS KW-BG`
+* burdock-leaves, `PW*/*U/R*/TK-LS/TKOBG H-PB HREFS KW-BG`
 * was `WAS`
 * planted. `PHRAPBT/-D TP-PL`
 * There `KPA/THR`
@@ -115,7 +115,7 @@
 * last `HRAFT`
 * quite `KWAOEUT`
 * forest `TPOEFRT`
-* burdocks. `xxx burdocks TP-PL`
+* burdocks. `PW*/*U/R*/TK-LS/TKOBG/-S TP-PL`
 * Here `KPA/HAOER`
 * stood `STAOD`
 * apple `A*EPL`
@@ -258,7 +258,7 @@
 * fast. `TPAFT TP-PL`
 * "Listen, `KR-GS KPA/HREUFPB KW-BG`
 * drumming `TKRUPL/-G`
-* burdock-leaves; `xxx burdock H-PB HREFS STPH*FPLT`
+* burdock-leaves; `PW*/*U/R*/TK-LS/TKOBG H-PB HREFS STPH*FPLT`
 * turn, `TURPB KW-BG`
 * turn; `TURPB STPH*FPLT`
 * turn," `TURPB KW-BG KR-GS`

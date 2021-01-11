@@ -116,7 +116,7 @@
 * all, `AUL KW-BG`
 * course, `KORS KW-BG`
 * very `SRE`
-* praiseworthy; `xxx praiseworthy STPH*FPLT`
+* praiseworthy; `PRAEUS/TK-LS/WO*RT/KWREU STPH*FPLT`
 * therefore `TH-FR`
 * prize." `PRAOEUZ TP-PL KR-GS`
 * think `THEU`

@@ -360,7 +360,7 @@
 * soldiers `SHRERPBLGS`
 * fast `TPAFT`
 * asleep `A/SHRAOEP`
-* snoring: `STPHOERPBG STPH-FPLT`
+* snoring: `STPHOERG STPH-FPLT`
 * take `TAEUBG`
 * notice `TPH-TS`
 * them, `THEPL KW-BG`
@@ -451,7 +451,7 @@
 * All `KPA/AUL`
 * right, `RAOEUT KW-BG`
 * lay `HRAEU`
-* snoring `STPHOERPBG`
+* snoring `STPHOERG`
 * hand `HAPBD`
 * saddle. `SA*LD TP-PL`
 * pity `PEUT/TEU`

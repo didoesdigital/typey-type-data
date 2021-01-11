@@ -290,12 +290,12 @@
 * cylinder, `SEUL/TKER KW-BG`
 * should `SHO`
 * become `PW-BG`
-* magnetic. `PHAPBG/EUBG TP-PL`
+* magnetic. `PH*EGT TP-PL`
 * How `KPA/HOU`
 * does `TKOS`
 * this `TH`
 * happen? `HAP H-F`
-* magnetic `PHAPBG/EUBG`
+* magnetic `PH*EGT`
 * sparks `SPARBGS`
 * come `KOPL`
 * it,—but `T KW-BG EPL/TKA*RB PWUT`
@@ -311,7 +311,7 @@
 * comes `KOPLS`
 * upon `POPB`
 * them, `THEPL KW-BG`
-* Napoleon, `PHA/POEL/KWROPB KW-BG`
+* Napoleon, `TPHA/POL/KWROPB KW-BG`
 * or `OR`
 * Luther, `HRAO*UT/*ER KW-BG`
 * some `SOPL`

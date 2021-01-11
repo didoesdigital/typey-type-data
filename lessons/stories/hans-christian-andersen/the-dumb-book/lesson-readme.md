@@ -34,7 +34,7 @@
 * busy. `PW-Z TP-PL`
 * yard, `KWRARD KW-BG`
 * an `APB`
-* arbour `AR/PWOUR/A*U`
+* arbour `AR/PWOR/A*U`
 * formed `TPORPLD`
 * by `PWEU`
 * lilac `HRAOEUL/ABG`
@@ -222,7 +222,7 @@
 * flew `TPHRAOU`
 * swiftness `SWEUFT/-PBS`
 * arrow `RO*EUR`
-* arbour, `AR/PWOUR/A*U KW-BG`
+* arbour, `AR/PWOR/A*U KW-BG`
 * turning `TURPBG`
 * flight, `TPHRAOEUT KW-BG`
 * twittered `HRO*ER/TWEUT/*ER/-D`

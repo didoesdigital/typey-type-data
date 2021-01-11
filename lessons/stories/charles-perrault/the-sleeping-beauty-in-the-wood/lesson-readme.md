@@ -735,7 +735,7 @@
 * ranks, `RA*PBGS KW-BG`
 * muskets `PHUFBGT/-S`
 * shoulders, `SHOURLDZ KW-BG`
-* snoring `STPHOERPBG`
+* snoring `STPHOERG`
 * loud `HROUD`
 * could. `KO TP-PL`
 * through `THRU`
@@ -925,7 +925,7 @@
 * called `KAULD`
 * Day, `KPA/TKAEU KW-BG`
 * even `AOEPB`
-* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
+* handsomer `HAPBD/SO*PL/TK-LS/*E/R*`
 * sister. `ST-R TP-PL`
 * once `WUPBS`
 * order `ORD`

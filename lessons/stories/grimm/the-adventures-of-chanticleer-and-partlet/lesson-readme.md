@@ -376,7 +376,7 @@
 * head `HED`
 * morning': `PHORPBG AE STPH-FPLT`
 * saying, `SAEUG KW-BG`
-* sulkily `xxx sulkily`
+* sulkily `S*ULG/TK-LS/*EU/HREU`
 * chair; `KHAEUR STPH*FPLT`
 * but, `PWUT KW-BG`
 * oh `O*ERBGS`

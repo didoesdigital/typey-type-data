@@ -167,7 +167,7 @@
 * entirely `SPWAOEURL`
 * spoilt `S*/P*/O*/*EU/HR*/T*`
 * rain, `RAEUPB KW-BG`
-* colours `KHROURS/A*U`
+* colours `KHRORS/A*U`
 * arrows `AR/OES`
 * run `RUPB`
 * into `TPHAO`

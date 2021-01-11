@@ -300,7 +300,7 @@
 * small `SPHAL`
 * room `RAOPL`
 * near `TPHAOER`
-* pigsty; `xxx pigsty STPH*FPLT`
+* pigsty; `PEUG/TK-LS/STAOEU STPH*FPLT`
 * worked `WORBGD`
 * day `TKAEU`
 * long, `HROPBG KW-BG`
@@ -370,7 +370,7 @@
 * One `KPA/WUPB`
 * go `TKPW`
 * ask; `SK STPH*FPLT`
-* pattens. `xxx pattens TP-PL`
+* pattens. `PAT/TK-LS/TEN/-S TP-PL`
 * "What `KR-GS KPA/WHA`
 * take `TAEUBG`
 * your `KWROUR`
@@ -474,7 +474,7 @@
 * quickly `KWEULG`
 * round, `ROUPBD KW-BG`
 * waltzes, `WAULGT/-S KW-BG`
-* galops, `xxx galops KW-BG`
+* galops, `TKPWA*L/TK-LS/OP/-S KW-BG`
 * polkas `POE/KA/-S`
 * since `SEUPBS`
 * creation `KRAEGS`
@@ -524,7 +524,7 @@
 * kissed `K*EUFD`
 * wonder `WOPBD`
 * crowd `KROUD`
-* pigsty `xxx pigsty`
+* pigsty `PEUG/TK-LS/STAOEU`
 * means!" `PHAOEPBS SKHRAPL KR-GS`
 * come `KOPL`
 * balcony. `PWAL/KOEPB TP-PL`

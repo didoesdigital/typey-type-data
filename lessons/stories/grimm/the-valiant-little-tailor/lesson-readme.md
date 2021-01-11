@@ -249,7 +249,7 @@
 * hear `HAER`
 * it!' `T SKHRAPL AE`
 * heart `HART`
-* wagged `WAG/-D`
+* wagged `WAG/TK-LS/TKPW/-D`
 * joy `SKWROEU`
 * like `HRAOEUBG`
 * lamb's `HRAPL AES`

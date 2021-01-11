@@ -1574,7 +1574,6 @@
 * effectually `EFBG/KHUL/HREU`
 * dimly `TKEUPL/HREU`
 * withered `WEU/THER/-D`
-* chicken `KHEU/KEPB`
 * distrust `TKEUS/TRUFT`
 * verily `SRER/HREU`
 * desperately `TKES/PRAT/HREU`
@@ -2729,7 +2728,6 @@
 * noticeable `TPH-TS/-BL`
 * pudding `PUD/-G`
 * volcanic `SROL/KAPBG`
-* magnetic `PHAPBG/EUBG`
 * decency `TKAOEPBS/SEU`
 * observance `OEB/APBS`
 * diplomacy `TKPHROEPL/SEU`

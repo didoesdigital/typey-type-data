@@ -98,7 +98,7 @@
 * to `TO`
 * think `THEU`
 * anyone `TPHEUPB`
-* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
+* handsomer `HAPBD/SO*PL/TK-LS/*E/R*`
 * than `THAPB`
 * was. `WAS TP-PL`
 * She `KPA/SHE`
@@ -408,13 +408,13 @@
 * dead, `TKED KW-BG`
 * believed `PWHREFD`
 * must `PHUFT`
-* handsomest `H*/A*/TPH*/TK*/S*/O*/PH*/*E/S*/T*`
+* handsomest `HAPBD/SO*PL/TK-LS/S*/T*`
 * lady `HRA*ED`
 * land; `HRAPBD STPH*FPLT`
 * said: `SED STPH-FPLT`
 * land: `HRAPBD STPH-FPLT`
 * over `OEFR`
-* greenwood `xxx greenwood`
+* greenwood `TKPWRAOEPB/TK-LS/WAOD`
 * shade, `SHAEUD KW-BG`
 * Where `KPA/W-R`
 * dwelling `TKWELG`
@@ -456,7 +456,7 @@
 * she; `SHE STPH*FPLT`
 * 'laces `AE HRAEUS/-S`
 * bobbins `PWOB/*EUPB/-S`
-* colours.' `KHROURS/A*U TP-PL AE`
+* colours.' `KHRORS/A*U TP-PL AE`
 * in; `TPH STPH*FPLT`
 * seems `SAOEPLS`
 * sort `SORT`

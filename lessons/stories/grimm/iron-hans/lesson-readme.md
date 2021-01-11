@@ -903,7 +903,7 @@
 * festival, `TPEFT/SRAL KW-BG`
 * always `AULS`
 * different `TKEUFRT`
-* colours, `KHROURS/A*U KW-BG`
+* colours, `KHRORS/A*U KW-BG`
 * apples?' `APLS H-F AE`
 * 'Yes,' `AE KPA/KWRE KW-BG AE`
 * 'and `AE SKP`

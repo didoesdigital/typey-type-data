@@ -359,7 +359,7 @@
 * tales, `TAELS KW-BG`
 * around `ARPBD`
 * them, `THEPL KW-BG`
-* twittering `HRO*ER/TWEUT/*ER/-G`
+* twittering `HRO*ER/TWEUT/*ERG`
 * song, `SOPBG KW-BG`
 * dies `TKAOEUZ`
 * long `HROPBG`

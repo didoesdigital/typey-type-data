@@ -166,7 +166,7 @@
 * eye `AOEU`
 * glanced `TKPWHRAPBS/-D`
 * across `KRAOS`
-* paling—outside `PAL/-G EPL/TKA*RB OUDZ`
+* paling—outside `HRO*ER/PA/HREUPBG EPL/TKA*RB OUDZ`
 * bush, `PWURB KW-BG`
 * reddish-blue, `RED/EURB H-PB PWHRU KW-BG`
 * sturdy `STUR/TKEU`
@@ -184,7 +184,7 @@
 * Scotland," `SKOT/HRAPBD KW-BG KR-GS`
 * said. `SED TP-PL`
 * blooms `PWHRAOPL/-S`
-* scutcheon `xxx scutcheon`
+* scutcheon `S*/KR*/*U/T*/KR*/H*/*E/O*/TPH*`
 * my `PHEU`
 * country. `KREU TP-PL`
 * Give `KPA/TKPWEUF`
@@ -278,7 +278,7 @@
 * before `PW-FR`
 * heard, `HAERD KW-BG`
 * men, `PHEPB KW-BG`
-* twittering `HRO*ER/TWEUT/*ER/-G`
+* twittering `HRO*ER/TWEUT/*ERG`
 * birds, `PWEURDZ KW-BG`
 * air `AEUR`
 * stores `STORS`
@@ -368,7 +368,7 @@
 * where `W-R`
 * was. `WAS TP-PL`
 * "The `KR-GS KPA/-T`
-* thievish `xxx thievish`
+* thievish `T*/H*/*EU/*E/SR*/*EU/S*/H*`
 * rabble!" `RABL SKHRAPL KR-GS`
 * Thistle. `KPA/THEUFL TP-PL`
 * "If `KR-GS KPA/TP`
@@ -500,7 +500,7 @@
 * wife, `WAOEUF KW-BG`
 * garden. `TKPWA*RPB TP-PL`
 * along `HRAOPBG`
-* paling, `PAL/-G KW-BG`
+* paling, `HRO*ER/PA/HREUPBG KW-BG`
 * wife `WAOEUF`
 * "There's `KR-GS KPA/THR AES`
 * still `STEUL`

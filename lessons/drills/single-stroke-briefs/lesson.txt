@@ -469,7 +469,6 @@ Single-Stroke Briefs
 'bier': PWEUR
 'bifurcation': PWAOEUFRGS
 'bigger': PWEURG
-'bight': PW*/*EU/TKPW*/H*/T*
 'bigot': PWEUGT
 'bike': PWAOEUBG
 'biker': PWAOEURBG
@@ -1670,7 +1669,7 @@ Single-Stroke Briefs
 'dammed': TKAPLD
 'damming': TKAPLG
 'dammit': TKAPLT
-'damn': TKA*EPL
+'damn': TKAEPL
 'damp': TKAFRP
 'dance': TKAPBS
 'dancer': TKARPBS
@@ -5025,7 +5024,7 @@ Single-Stroke Briefs
 'snoot': STPHAOT
 'snooze': STPHAOZ
 'snore': STPHAUR
-'snoring': STPHOERPBG
+'snoring': STPHOERG
 'snort': STPHORT
 'snot': STPHO*T
 'snout': STPHOUT

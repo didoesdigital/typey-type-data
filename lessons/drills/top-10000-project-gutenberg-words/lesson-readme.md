@@ -6162,7 +6162,7 @@
 * mantle `PHAPBT/*L`
 * ne'er `TPH*/*E/AE/*ER`
 * discussing `STKUFG`
-* chicken `KHEU/KEPB`
+* chicken `KH*EUPB`
 * judicial `SKWREURBL`
 * consistent `KAOPBT`
 * ridicule `REULG`
@@ -8118,7 +8118,7 @@
 * hem `HEPL`
 * gorge `TKPWORPBLG`
 * baptized `PWAP/TAOEUZ/-D`
-* damn `TKA*EPL`
+* damn `TKAEPL`
 * silvery `SEUL/SRER/KWREU`
 * pastor `PAS/TOR`
 * inherent `EUPB/HERPBT`
@@ -8615,7 +8615,7 @@
 * pudding `PUD/-G`
 * volcanic `SROL/KAPBG`
 * Locke `HRO*BG`
-* magnetic `PHAPBG/EUBG`
+* magnetic `PH*EGT`
 * deals `TKAOELS`
 * core `KOR`
 * decency `TKAOEPBS/SEU`

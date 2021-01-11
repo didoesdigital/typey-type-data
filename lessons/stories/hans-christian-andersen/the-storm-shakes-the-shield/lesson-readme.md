@@ -5,7 +5,7 @@
 * old `OLD`
 * days, `TKAEUS KW-BG`
 * when `WHEPB`
-* grandpapa `xxx grandpapa`
+* grandpapa `TKPWRAPBD/TK-LS/HRO*ER/PA/PA`
 * was `WAS`
 * quite `KWAOEUT`
 * a `AEU`
@@ -467,7 +467,7 @@
 * more `PHOR`
 * than `THAPB`
 * proud `PROUD`
-* weathercock `xxx weathercock`
+* weathercock `WHR*/TK-LS/KOBG`
 * church `KHUFRPB`
 * tower `TOUR`
 * bow, `PWOE KW-BG`
@@ -679,7 +679,7 @@
 * witnessed `W-PBS/-D`
 * our `OUR`
 * day; `TKAEU STPH*FPLT`
-* grandpapa's `xxx grandpapa AES`
+* grandpapa's `TKPWRAPBD/TK-LS/HRO*ER/PA/PA AES`
 * boy. `PWOEU TP-PL`
 * Perhaps `KPA/PRAPS`
 * shall `SHAL`

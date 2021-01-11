@@ -773,7 +773,7 @@
 * plenty. `PHREPBT TP-PL`
 * cuckoo `KAO/KAO`
 * lark `HRARBG`
-* carolled, `KAR/OL/-D KW-BG`
+* carolled, `KAR/OL/-D/A*U KW-BG`
 * spring. `SPREUPBG TP-PL`
 * careful `KAEUFL`
 * willows `WEUL/HROE/-S`

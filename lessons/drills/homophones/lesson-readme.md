@@ -258,7 +258,7 @@
 * curser `KURS/*ER`
 * cursor `KUR/SOR`
 * dam `TKAPL`
-* damn `TKA*EPL`
+* damn `TKAEPL`
 * Dane `TKA*EUPB`
 * deign `TKAEUPB`
 * days `TKAEUS`

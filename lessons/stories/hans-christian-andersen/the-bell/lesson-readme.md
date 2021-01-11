@@ -703,7 +703,7 @@
 * melted `PHELT/-D`
 * together `TOGT`
 * glowing `TKPWHROEG`
-* colours; `KHROURS/A*U STPH*FPLT`
+* colours; `KHRORS/A*U STPH*FPLT`
 * too. `TAO TP-PL`
 * whole `WHOEL`
 * nature `TPHAEURT`

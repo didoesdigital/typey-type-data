@@ -68,7 +68,7 @@
 * to `TO`
 * shew `S*/H*/*E/W*`
 * herself `H*ERS`
-* colours. `KHROURS/A*U TP-PL`
+* colours. `KHRORS/A*U TP-PL`
 * could `KO`
 * not `TPHOT`
 * bear `PWAER`
@@ -173,7 +173,7 @@
 * apparel, `A/PAEURL KW-BG`
 * hundred `HUPBD`
 * times `TAOEUPLS`
-* handsomer `H*/A*/TPH*/TK*/S*/O*/PH*/*E/R*`
+* handsomer `HAPBD/SO*PL/TK-LS/*E/R*`
 * than `THAPB`
 * sisters, `ST-RS KW-BG`
 * tho' `THO* AE`
