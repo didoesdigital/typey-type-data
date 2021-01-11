@@ -70,7 +70,7 @@
 * directions, `TKREBGS/-S KW-BG`
 * he `HE`
 * young `KWRUPBG`
-* ladies' `HRAEUD/KWREUS/AE`
+* ladies' `HRAEUDZ/AE`
 * blood `PWHRAOD`
 * his `HEUS`
 * veins, `SRAEUPBS KW-BG`

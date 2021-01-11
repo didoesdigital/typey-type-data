@@ -256,7 +256,7 @@
 * old `OLD`
 * fiddle. `TP*EULD TP-PL`
 * slip `SHREUP`
-* 'twixt `TW*EUBGTS`
+* 'twixt `A*E/TW*EUBGS`
 * cup `KUP`
 * lip. `HREUP TP-PL`
 * one `WUPB`

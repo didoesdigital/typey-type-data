@@ -6,7 +6,7 @@
 * I'd `AOEUD`
 * I've `AOEUF`
 * all `AUL`
-* all's `AUL AES`
+* all's `AUL/AES`
 * anybody `TPHEUB`
 * anybody's `TPHEUB/AES`
 * else `ELS`
@@ -22,7 +22,7 @@
 * he'd `HAOED`
 * he's `HAOES`
 * individual `SREUD`
-* individual's `SREUD AES`
+* individual's `SREUD/AES`
 * it `T`
 * it has `T-Z`
 * it is `T/S`
@@ -33,9 +33,9 @@
 * no one `TPHOEUPB`
 * no one's `TPHO/W*UPBS`
 * nobody `TPHOEB`
-* nobody's `TPHOEB AES`
+* nobody's `TPHOEB/AES`
 * nothing `TPHOG`
-* nothing's `TPHOG AES`
+* nothing's `TPHOG/AES`
 * one `WUPB`
 * one's `W*UPBS`
 * other's `OER/AES`
@@ -48,7 +48,7 @@
 * she'd `SHAOED`
 * she's `SHAOES`
 * something `S-G`
-* something's `S-G AES`
+* something's `S-G/AES`
 * that `THA`
 * that'd `THATD`
 * that's `THATS`

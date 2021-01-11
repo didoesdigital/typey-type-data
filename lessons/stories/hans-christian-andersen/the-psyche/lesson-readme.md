@@ -1611,7 +1611,7 @@
 * convent. `KOPB/SREPBT TP-PL`
 * sun `SUPB`
 * censers `SEPBS/ERS`
-* Mass `PHA*S`
+* Mass `KPA*/PHAS`
 * celebrated. `SEL/PWRAEUT/-D TP-PL`
 * by. `PWEU TP-PL`
 * bones `PWOEPBS`

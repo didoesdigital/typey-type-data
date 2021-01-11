@@ -16,7 +16,7 @@
 * ed `HRO*ER/ED`
 * ef `AOE/TP*`
 * el `*E/HR*`
-* 'em `AOE/EPL`
+* 'em `*EPL`
 * em `*E/PH*`
 * en `*E/TPH*`
 * er `*E/R*`

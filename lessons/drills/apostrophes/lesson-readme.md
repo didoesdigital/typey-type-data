@@ -5,16 +5,16 @@
 * what's `WHATS`
 * no one's `TPHO/W*UPBS`
 * he'll `*EL`
-* 'em `AOE/EPL`
+* 'em `*EPL`
 * 'em think `*EPL/THEU`
 * you'd `UD`
-* '60s `A*E/0EU6/-S`
-* '70s `A*E/0EU7/-S`
-* '50s `A*E/50/-S`
-* '60 `A*E/0EU6`
+* '60s `A*E/0EU6S`
+* '70s `A*E/0EU7S`
+* '50s `A*E/50S`
+* '60 `AE 0EU6`
 * 'burb `AE/PWURB`
 * 'burbs `AE/PWURB/-S`
-* 's `AES/ES`
+* 's `AES`
 * ain't `AEUPBT`
 * airman's `AEUR/PHAPB/AES`
 * he'd `HAOED`
@@ -33,7 +33,7 @@
 * I'm anxious `AOEUPL/SHUS`
 * I'm dating `AOEUPL/TKAEUGT`
 * you've `UF`
-* he didn't `E/TKEUPBT`
+* he didn't `HE/TKEUPBT`
 * everything's `EFRGS`
 * else's `ELS/AES`
 * early '80 `ERL/AE/0EU8`
@@ -54,7 +54,7 @@
 * who's `WHOES`
 * how're `HOU/*R`
 * l'chaim `HR*/KHAOEUPL`
-* licensee's `HR-PBS/AOES/AE`
+* licensee's `HR-PBS/AES`
 * let's assume `HRETS/SAOUPL`
 * layman's `HRAEU/PHAPB/AES`
 * lady's `HRAEUD/KWREU/AES`
@@ -70,7 +70,7 @@
 * company's `K-P/AES`
 * can't `K-PBT`
 * companies' `K-PS/AE`
-* 'cause `KAUS/AE`
+* 'cause `KA*US`
 * coup d'etat `KAOUD/TA`
 * chairman's `KHEURPL/AES`
 * child's `KHAOEULD/AES`
@@ -92,7 +92,7 @@
 * complaint's `KPHRAEUPBT/AES`
 * correct me if I'm wrong `KROPBG`
 * customer's `KUFT/PHER/AES`
-* customers' `KUFT/PHERS/AE`
+* customers' `KUS/PHERS/AE`
 * why'd `KWR*D`
 * why's `KWR*S`
 * why it's `KWR/T-S`
@@ -123,8 +123,8 @@
 * must've `PH*UF`
 * manager's `PH-G/AES`
 * management's `PH-GT/AES`
-* maitre d' `PHAEU/TRE/TKAOE`
-* maitre d'hotel `PHAEU/TER/TKE/HOE/TEL`
+* maitre d' `PHA*EURT/TK*P`
+* maitre d'hotel `PHAEUT/ER/TKOE/TEL`
 * mightn't `PHAOEUT/-PBT`
 * man's `PHAPB/AES`
 * ma'am `PHAPL`
@@ -133,11 +133,11 @@
 * 'mid that `PHEUD/THA`
 * 'mid those `PHEUD/THOES`
 * militia's `PHEUL/EURB/SKWRA/AES`
-* months' `PHO*PBT/-S/AE`
+* months' `PHO*PBTS/AE`
 * movie 'til `PHOEF/TEUL`
 * mother's `PHOER/AES`
-* mother-in-law's `PHOER/EUPB/HRAU/AES`
-* mother-in-laws' `PHOER/EUPB/HRAUS/AE`
+* mother-in-law's `PHOER/TPH/HRAU/AES`
+* mother-in-laws' `PHOER/TPH/HRAUS/AE`
 * mothers' `PHOERS/AE`
 * monkey's `PHOPB/KAE/AES`
 * mom's `PHOPL/AES`
@@ -182,7 +182,7 @@
 * c'est la vie `SAEU/HRA/SRAOE`
 * supervisor's `SAOUP/SRAOEUS/ORS/AE`
 * sergeant's `SARPBLG/EPBT/AES`
-* seller's `SEL/HRER/AES`
+* seller's `SEL/*ER/AES`
 * sellers' `SEL/*ERS/AE`
 * certain he'll `SERPB/EL`
 * isn't necessary `S-PBT/TPHES`
@@ -247,16 +247,16 @@
 * they've `THEF`
 * they'll `THEL`
 * they're `THER`
-* that've `THA*F`
+* that've `THAF`
 * that'll `THAL`
 * that can't `THABG/-PBT`
 * that's correct `THAEBG`
 * that's right `THAERT`
 * that's elliptical `THAS/AOE/HREUPT/K-L`
-* that's the `THAT/-T`
-* that's on `THAT/OPB`
-* that's not `THAT/TPHOTS`
-* that's one `THAT/WUPB`
+* that's the `THATS/-T`
+* that's on `THATS/OPB`
+* that's not `THATS/TPHOT`
+* that's one `THATS/WUPB`
 * that's just the `THATS/SKWRUFT/-T`
 * that's how it `THATS/THOU`
 * that's because `THATS/PWAU`
@@ -265,7 +265,7 @@
 * they haven't `THEFPBT`
 * they're puke `THER/PAOUBG`
 * they're repeatedly `THER/RAEPD/HREU`
-* think I'm `THEU/AOEUFPL`
+* think I'm `THEU/AOEUPL`
 * there'd `THR-D`
 * there've `THR*F`
 * there'll `THR-L`
@@ -299,7 +299,7 @@
 * doesn't `TKOPBT`
 * don't qualify `TKOPBT/KWAL/TPEU`
 * doesn't agree `TKOPBT/TKPWRA*E`
-* doesn't want `TKOPBT/WAPBL`
+* doesn't want `TKOPBT/WAPBT`
 * guy's `TKPWAOEU/AES`
 * guys' `TKPWAOEUS/AE`
 * don't go `TKPWOEPBT`
@@ -328,19 +328,19 @@
 * anyone's `TPHEU/WUPB/AES`
 * anybody's `TPHEUB/AES`
 * know that you're `TPHOE/THAUR`
-* nor'easter `TPHOR/AOEFT/*ER`
-* now they're `TPHOU/TPHER`
+* nor'easter `TPHOR/AO*ES/ER`
+* now they're `TPHOU/THER`
 * only if it's `TPOEPBL/T-S`
 * don't forget `TPOEPBT/TPORGT`
 * friend's `TPREPBD/AES`
 * wasn't in `TPWHAEPBT`
-* friends' `TREPBDZ/AE`
-* treasurer's `TRERB/RERS/AE`
+* friends' `TREPBDS/AE`
+* treasurer's `TRERB/RER/AES`
 * trompe-l'oeil `TRO*PL/HROEU`
 * trustee's `TRUFT/KWRAE/AES`
-* 'twixt `TW*EUBGTS`
+* 'twixt `A*E/TW*EUBGS`
 * 'twas `TWA*S`
-* 'twas brillig `TWAS/PWREUL/EUG`
+* 'twas brillig `TWA*S/PWREUL/EUG`
 * what's it `TWHATS`
 * 'twould `TWOD`
 * wouldn't it `TWOPBT`
@@ -348,9 +348,9 @@
 * you can't `UBG/-PBT`
 * you've earned `UF/*ERPBD`
 * you haven't `UFPBT`
-* umbrella'd `UPL/PWREL/HRA/-D`
-* you're at `UR/ALT`
-* you're looking `UR/RAOBG/-G`
+* umbrella'd `UPL/PWREL/HRA/*D`
+* you're at `UR/AT`
+* you're looking `UR/HRAOG`
 * you aren't `URPBT`
 * we've `WAOEF`
 * one's `W*UPBS`
@@ -359,10 +359,10 @@
 * where's `W-RS`
 * wasn't `WAEPBT`
 * we'll `WAOEL`
-* we've got `WAOE/TKPWOFT`
+* we've got `WAOEF/TKPWOT`
 * we'd `WAOED`
 * we're `WAOER`
-* we're closer to `WAOER/KHROES/TO*ER`
+* we're closer to `WAOER/KHROERS/TO`
 * wife's `WAOEUF/AES`
 * wives' `WAOEUFS/AE`
 * wouldn't apply `WAOPBT/PHRAOEU`
@@ -385,8 +385,7 @@
 * what he can't `WHAEBG/-PBT`
 * what's the `WHAT/-T`
 * what's going `WHAT/TKPW-G`
-* what's going on `WHATS/TKPW-G/OB`
-* what's important to note `WHATS/TPORPB/TPHOET`
+* what's going on `WHATS/TKPW-G/OPB`
 * what you can't `WHAUBG/-PBT`
 * what you haven't `WHAUFPBT`
 * what you're `WHAUR`
@@ -396,12 +395,12 @@
 * who've `WHOF`
 * who'll `WHOL`
 * who haven't `WHOFPBT`
-* what's that `WHOTS/THA`
+* what's that `WHATS/THA`
 * when you can't `WHUBG/-PBT`
 * when you haven't `WHUFPBT`
 * when you aren't `WHURPBT`
 * would've `WO*UF`
-* won't even try `WOEPB/AOEPB/TRAOEUT`
+* won't even try `WOEPBT/AOEPB/TRAOEU`
 * won't `WOEPBT`
 * workers' comp `WOFRP`
 * workers' compensation `WOFRPGS`
@@ -418,6 +417,3 @@
 * where you haven't `WRUFPBT`
 * where you aren't `WRURPBT`
 * one's self `WUPB/AES/SEFL`
-* counsellor's `KOUPBL/A*U/AES`
-* g'day `TKPW* AE TKAEU`
-* driver's licence `TKR-LS/A*U`

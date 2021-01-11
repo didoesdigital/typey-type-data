@@ -1146,7 +1146,7 @@
 * excellent `KPHREPBT`
 * confidence `K-F`
 * marked `PHARBGD`
-* 'em `AOE/EPL`
+* 'em `*EPL`
 * Jesus `SKWRAOES/US`
 * exactly `ELG`
 * importance `PORPBS`
@@ -9656,7 +9656,7 @@
 * Dover `TKOEFR`
 * ambush `APL/PWURB`
 * evermore `-FR/PHO*R`
-* Mass. `PHAS/TP-PL`
+* Mass. `KPA*/PHAS/TP-PL`
 * blot `PWHROT`
 * nook `TPHAOBG`
 * verdure `KR*/*E/R*/TK*/*U/R*/*E`
