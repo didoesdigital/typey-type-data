@@ -8,3 +8,5 @@ Medical suffixes
 '^genicity': SKWREPB/SEUS/TEU
 '^philicity': TPHREUFT
 '^phobicity': TPOEB/EUS/TEU
+ignore_characters='^'
+warning_message=Hint: use ignore spacing setting and don’t type ^
