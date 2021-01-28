@@ -731,7 +731,7 @@
 * home `HOEPL`
 * Africa. `AFR/KA TP-PL`
 * "Those `KR-GS KPA/THOZ`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * thin `THEUPB`
 * legs `HREGS`
 * yours," `KWROURS KW-BG KR-GS`

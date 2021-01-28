@@ -4015,7 +4015,7 @@ Little Claus and Big Claus
 'the': -T
 'air.': AEUR TP-PL
 'How': KPA/HOU
-'handsome': HAPBD/SOPL
+'handsome': HAPBD/SO*PL
 'all': AUL
 'the': -T
 'people': PAOEPL
@@ -4391,7 +4391,7 @@ Little Claus and Big Claus
 'then': THEPB
 'tied': TAO*EUD
 'it': T
-'tightly,': TAO*EULT KW-BG
+'tightly,': TAOEUT/HREU KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'it': T

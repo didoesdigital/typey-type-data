@@ -533,7 +533,7 @@
 * green `TKPWRAOEPB`
 * baize `PWA/AOEUZ`
 * it, `T KW-BG`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * carpet. `KARPT TP-PL`
 * How `KPA/HOU`
 * trembled! `TREPL/-BLD SKHRAPL`

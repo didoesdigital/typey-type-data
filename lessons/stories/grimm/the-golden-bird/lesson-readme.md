@@ -376,7 +376,7 @@
 * try `TREU`
 * cage `KAEUPBLG`
 * put `PUT`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * one, `WUPB KW-BG`
 * otherwise `O*ERZ`
 * repent `RE/PEPBT`

@@ -768,7 +768,7 @@
 * cheers `KHAOERS`
 * given; `TKPWEUFPB STPH*FPLT`
 * gay `TKPWAEU`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * pair. `PAEUR TP-PL`
 * "Pygmalion `KR-GS PEUG/PHAEUL/KWROPB`
 * loved `HROFD`

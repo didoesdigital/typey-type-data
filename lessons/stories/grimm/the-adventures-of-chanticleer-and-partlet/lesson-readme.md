@@ -290,7 +290,7 @@
 * let `HRET`
 * come `KOPL`
 * bespoke `PWE/SPOEBG`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * supper, `SAOURP KW-BG`
 * spent `SPEPBT`
 * evening `AOEPBG`

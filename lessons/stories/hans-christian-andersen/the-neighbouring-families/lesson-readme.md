@@ -563,7 +563,7 @@
 * attached `A/TAFPD`
 * tree. `TRAOE TP-PL`
 * drawn `TKRAUPB`
-* tightly `TAO*EULT`
+* tightly `TAOEUT/HREU`
 * round `ROUPBD`
 * leg—as `HREG EPL/TKA*RB AZ`
 * latter `HRART`

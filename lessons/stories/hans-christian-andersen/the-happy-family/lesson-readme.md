@@ -502,7 +502,7 @@
 * decay, `TKE/KAEU KW-BG`
 * world `WORLD`
 * dead; `TKED STPH*FPLT`
-* contradicted `KR*EUBGT/-D`
+* contradicted `KR*BGT/-D`
 * fell `TPEL`
 * play `PHRAEU`
 * drum `TKRUPL`

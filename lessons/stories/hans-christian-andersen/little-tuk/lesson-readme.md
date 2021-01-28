@@ -308,7 +308,7 @@
 * King `KO*EUPBG`
 * Waldemar `xxx Waldemar`
 * young `KWRUPBG`
-* gayly-dressed `TKPWAEU/HREU H-PB TKREFD`
+* gayly-dressed `TKPWAEU/TK-LS/HREU H-PB TKREFD`
 * ladies `HRAEUDZ`
 * court `KORT`
 * dancing `TKAPBS/-G`

@@ -427,7 +427,7 @@
 * side `SAOEUD`
 * lake `HRAEUBG`
 * boats `PWOETS`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * princes `PREUPBS/-S`
 * them, `THEPL KW-BG`
 * seemed `SAOEPLD`

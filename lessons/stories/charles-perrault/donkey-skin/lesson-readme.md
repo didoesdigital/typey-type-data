@@ -949,7 +949,7 @@
 * return `RURPB`
 * hunt. `HUPBT TP-PL`
 * This `KPA/TH`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * mother, `PHOER KW-BG`
 * adored `A/TKOR/-D`
 * people. `PAOEPL TP-PL`
@@ -1411,7 +1411,7 @@
 * heartily, `HART/HREU KW-BG`
 * confused `KAOUFD`
 * caresses `KA/RES/S*E`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * thank `THAPBG`
 * ceiling `KAOELG`
 * opened, `OEPD KW-BG`

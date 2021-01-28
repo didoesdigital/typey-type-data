@@ -379,7 +379,7 @@
 * asked `SK-D`
 * husband, `HUS KW-BG`
 * young `KWRUPBG`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * 'He `AE KPA/HE`
 * love `HRUF`
 * old `OLD`

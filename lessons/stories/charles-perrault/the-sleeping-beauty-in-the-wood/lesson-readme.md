@@ -624,7 +624,7 @@
 * him, `HEUPL KW-BG`
 * himself, `HEUPLS KW-BG`
 * only, `OEPBL KW-BG`
-* thro' `xxx thro AE`
+* thro' `T*/H*/R*/O*/-PBT`
 * wood. `WAOD TP-PL`
 * bloody-bones, `PWHRAO/TKEU H-PB PWOEPBS KW-BG`
 * runs `RUPBS`
@@ -705,7 +705,7 @@
 * shewed `S*/H*/*E/W*/-D`
 * itself, `T/SEFL KW-BG`
 * stretched `STREFPD`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * men `PHEPB`
 * animals, `PHAPBLS KW-BG`
 * seeming `SAOEPL/-G`

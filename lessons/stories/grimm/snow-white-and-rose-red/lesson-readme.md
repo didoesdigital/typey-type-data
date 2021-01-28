@@ -862,7 +862,7 @@
 * waited, `WAEUTD KW-BG`
 * bearskin `PWAER/SKEUPB`
 * fell `TPEL`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * clothed `KHRO*T/-D`
 * gold. `TKPWOELD TP-PL`
 * king's `KEUPBG/AES`

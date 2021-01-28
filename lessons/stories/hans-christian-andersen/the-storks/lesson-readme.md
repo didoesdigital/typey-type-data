@@ -459,7 +459,7 @@
 * down `TKOUPB`
 * fell `TPEL`
 * plump, `PHRUFRP KW-BG`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * too `TAO`
 * heavy. `HOEUF TP-PL`
 * don't `TKOEPBT`

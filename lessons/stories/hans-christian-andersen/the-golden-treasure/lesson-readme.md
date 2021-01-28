@@ -498,7 +498,7 @@
 * soldiers' `SHRERPBLGS AE`
 * heads, `HEDZ KW-BG`
 * heads—into `HEDZ EPL/TKA*RB TPHAO`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * limbs; `HREUPLS STPH*FPLT`
 * pressed `PREFD`
 * forward. `TPAORD TP-PL`

@@ -48,7 +48,7 @@
 * Jupiter, `SKWRAOUP/TER KW-BG`
 * Venus, `SRAO*EPBS KW-BG`
 * "how `KR-GS HOU`
-* becomingly `PW-BG/HREU`
+* becomingly `PW-BG/-G/HREU`
 * she `SHE`
 * behaves. `PWHAEUFS TP-PL`
 * Who `KPA/WHO`

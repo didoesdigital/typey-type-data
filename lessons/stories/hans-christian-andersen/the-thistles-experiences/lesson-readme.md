@@ -302,7 +302,7 @@
 * heart `HART`
 * question. `KWE TP-PL`
 * They `KPA/THE`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * pair—it `PAEUR EPL/TKA*RB T`
 * good `TKPWAOD`
 * match. `PHAFP TP-PL`

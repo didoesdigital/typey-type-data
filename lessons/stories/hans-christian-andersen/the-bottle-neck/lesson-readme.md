@@ -752,7 +752,7 @@
 * hand, `HAPBD KW-BG`
 * corked `KORBG/-D`
 * down `TKOUPB`
-* tightly, `TAO*EULT KW-BG`
+* tightly, `TAOEUT/HREU KW-BG`
 * threw `THRAOU`
 * foaming `TPOEPLG`
 * sea. `SAE TP-PL`

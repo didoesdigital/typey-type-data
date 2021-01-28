@@ -306,7 +306,7 @@
 * mounted `PHOUPBTD`
 * tower. `TOUR TP-PL`
 * young `KWRUPBG`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * thoughtful `THAUFL`
 * exceedingly. `EBGS/AOED/TKPWHREU TP-PL`
 * looked `HRAOBGD`

@@ -735,7 +735,7 @@
 * colors `KHRORS`
 * heraldic `HERLD/EUBG`
 * devices. `TKWAOEUSZ TP-PL`
-* Gayly-dressed `KPA/TKPWAEU/HREU H-PB TKREFD`
+* Gayly-dressed `KPA/TKPWAEU/TK-LS/HREU H-PB TKREFD`
 * serving-men, `SEFRBG H-PB PHEPB KW-BG`
 * adorned `A/TKORPB/-D`
 * trappings `TRAPG/-S`

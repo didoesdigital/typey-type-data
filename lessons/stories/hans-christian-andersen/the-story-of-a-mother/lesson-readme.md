@@ -654,7 +654,7 @@
 * flower; `TPHRO*UR STPH*FPLT`
 * held `HELD`
 * hands `HAPBDZ`
-* tightly `TAO*EULT`
+* tightly `TAOEUT/HREU`
 * fast `TPAFT`
 * most `PHOFT`
 * anxious `KPUS`

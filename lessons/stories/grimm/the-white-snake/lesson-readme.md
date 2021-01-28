@@ -361,11 +361,11 @@
 * beasts, `PWAOEFT/-S KW-BG`
 * keep `KAOEP`
 * our `OUR`
-* bodies? `PWOEDZ H-F`
+* bodies? `PWO*EDZ H-F`
 * That `KPA/THA`
 * stupid `STAOUPD`
 * horse, `HORS KW-BG`
-* hoofs, `HAOF/-S KW-BG`
+* hoofs, `HAOF/*S KW-BG`
 * treading `TRAOED/-G`
 * people `PAOEPL`
 * without `WOUT`
@@ -489,7 +489,7 @@
 * waves.' `WAFS TP-PL AE`
 * All `KPA/AUL`
 * grieved `TKPWRAOEF/-D`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * youth; `KWRAO*UT STPH*FPLT`
 * away, `WA*EU KW-BG`
 * leaving `HREFG`

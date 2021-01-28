@@ -304,7 +304,7 @@
 * shone, `SHO*EPB KW-BG`
 * birds `PWEURDZ`
 * carolled `KAR/OL/-D/A*U`
-* gayly. `TKPWAEU/HREU TP-PL`
+* gayly. `TKPWAEU/TK-LS/HREU TP-PL`
 * One `KPA/WUPB`
 * day `TKAEU`
 * field-flowers, `TPAOELD H-PB TPHRO*URS KW-BG`

@@ -114,7 +114,7 @@
 * your `KWROUR`
 * shall `SHAL`
 * be `-B`
-* handsome.' `HAPBD/SOPL TP-PL AE`
+* handsome.' `HAPBD/SO*PL TP-PL AE`
 * Then `KPA/THEPB`
 * gave `TKPWAEUF`
 * him `HEUPL`

@@ -118,7 +118,7 @@
 * large `HRARPBLG`
 * doll, `TKOL KW-BG`
 * still `STEUL`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * though `THOE`
 * rather `RAER`
 * old, `OLD KW-BG`

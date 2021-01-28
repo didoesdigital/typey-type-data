@@ -357,7 +357,7 @@
 * astonished `A/STOPB/EURBD`
 * see, `SAOE KW-BG`
 * instead `STPHED`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * prince, `PREUPBS KW-BG`
 * gazing `TKPWAEUFG`
 * most `PHOFT`

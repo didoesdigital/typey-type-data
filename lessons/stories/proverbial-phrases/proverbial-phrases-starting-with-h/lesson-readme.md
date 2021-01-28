@@ -8,9 +8,9 @@
 * than `THAPB`
 * no `TPHO`
 * bread. `PWRAED TP-PL`
-* Handsome `KPA/HAPBD/SOPL`
+* Handsome `KPA/HAPBD/SO*PL`
 * as `AZ`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * does. `TKOS TP-PL`
 * Hard `KPA/HARD`
 * cases `KAEUSZ`

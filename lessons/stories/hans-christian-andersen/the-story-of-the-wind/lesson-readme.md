@@ -785,7 +785,7 @@
 * pearls, `PERLS KW-BG`
 * braided `PWRAEUD/-D`
 * hair. `HAEUR TP-PL`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * women. `WEUPL TP-PL`
 * appeared `A/PAOERD`
 * clad `KHRAD`

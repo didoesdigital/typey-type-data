@@ -863,7 +863,7 @@
 * fear `TPAOER`
 * stupid `STAOUPD`
 * having `SR-G`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * year `KWRAOER`
 * passed, `PAFD KW-BG`
 * turn `TURPB`
@@ -923,7 +923,7 @@
 * good `TKPWAOD`
 * ever; `-FR STPH*FPLT`
 * course `KORS`
-* contradicted `KR*EUBGT/-D`
+* contradicted `KR*BGT/-D`
 * him. `HEUPL TP-PL`
 * Five `KPA/TPAOEUF`
 * grief `TKPWRAOEF`

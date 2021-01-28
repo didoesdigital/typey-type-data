@@ -366,7 +366,7 @@
 * inn, `TPH*PB KW-BG`
 * ordered `ORD/-D`
 * himself `HEUPLS`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * clothes, `KHRO*ETS KW-BG`
 * bade `PWAEUD`
 * landlord `HR-LD`

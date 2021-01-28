@@ -1056,7 +1056,7 @@
 * creatures, `KRAOEFPS KW-BG`
 * they. `THE TP-PL`
 * gladly `TKPWHRAD/HREU`
-* encouragement. `EPB/KORPBLGT TP-PL`
+* encouragement. `EPB/KURPBLGT TP-PL`
 * colder `KOERLD`
 * colder; `KOERLD STPH*FPLT`
 * obliged `OE/PWHRAOEUPBLGD`

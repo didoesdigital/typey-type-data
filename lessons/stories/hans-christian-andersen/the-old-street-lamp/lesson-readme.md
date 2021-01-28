@@ -260,7 +260,7 @@
 * conviction `K-FBGS`
 * remembered. `RERD TP-PL`
 * "There `KR-GS KPA/THR`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * man `PHAPB`
 * once," `WUPBS KW-BG KR-GS`
 * thought `THAUT`

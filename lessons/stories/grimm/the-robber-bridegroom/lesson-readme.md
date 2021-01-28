@@ -427,7 +427,7 @@
 * assured `A/SHURD`
 * this, `TH KW-BG`
 * cask. `KAFBG TP-PL`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * sleepers, `SHRAOEP/*ER/-S KW-BG`
 * close `KHROES`
 * together, `TOGT KW-BG`

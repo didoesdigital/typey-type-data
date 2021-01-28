@@ -348,7 +348,7 @@
 * origin—carried `O*RPBLG EPL/TKA*RB KAERD`
 * space, `SPAEUS KW-BG`
 * heavenly `HEFPBL`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * bound `PWOUPBD`
 * together `TOGT`
 * by `PWEU`

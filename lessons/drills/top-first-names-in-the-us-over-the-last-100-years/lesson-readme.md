@@ -64,7 +64,7 @@
 * Frances `TPRAPB/SES`
 * Martha `PHAR/THA`
 * Judith `SKWRUD/*EUT`
-* Cheryl `SHERL`
+* Cheryl `KHERL`
 * Megan `PHEG/A*PB`
 * Andrea `RAEPBD`
 * Olivia `OE/HREUF/KWRA`

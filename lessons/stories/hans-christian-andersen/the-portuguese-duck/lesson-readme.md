@@ -75,7 +75,7 @@
 * "but, `KR-GS PWUT KW-BG`
 * still, `STEUL KW-BG`
 * he's `HAOES`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * bird, `PWEURD KW-BG`
 * there's `THR-S`
 * no `TPHO`

@@ -87,7 +87,7 @@
 * grew `TKPWRAOU`
 * up `UP`
 * large `HRARPBLG`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * flower, `TPHRO*UR KW-BG`
 * something `S-G`
 * tulip `TAOUL/EUP`
@@ -95,7 +95,7 @@
 * with `W`
 * its `EUTS`
 * leaves `HREFS`
-* tightly `TAO*EULT`
+* tightly `TAOEUT/HREU`
 * closed `KHROEFD`
 * as `AZ`
 * if `TP`

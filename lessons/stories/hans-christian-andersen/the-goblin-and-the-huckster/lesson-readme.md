@@ -589,7 +589,7 @@
 * red `RED`
 * cap, `KAP KW-BG`
 * held `HELD`
-* tightly `TAO*EULT`
+* tightly `TAOEUT/HREU`
 * hands. `HAPBDZ TP-PL`
 * greatest `TKPWRAET/EFT`
 * treasure `TRERB`

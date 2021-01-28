@@ -1443,7 +1443,7 @@
 * reader `RAERD`
 * published `PHR*EURBD`
 * direct `TKREBGT`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * you'll `UL`
 * joined `SKWROEUPBD`
 * actually `TAOULT`
@@ -4910,7 +4910,7 @@
 * shallow `SHOEUL`
 * doom `TKAOPL`
 * dreaded `TKRED/-D`
-* encouragement `EPB/KORPBLGT`
+* encouragement `EPB/KURPBLGT`
 * impatiently `EUPL/PAEURBT/HREU`
 * scent `SKEPBT`
 * varieties `SRAOEURTS`
@@ -5615,7 +5615,7 @@
 * onward `AOPB/WA*RD`
 * crowds `KROUDZ`
 * marrying `PHAR/REU/-G`
-* tightly `TAO*EULT`
+* tightly `TAOEUT/HREU`
 * sullen `SUL/-PB`
 * brutal `PWRAOULT`
 * axe `ABGS`

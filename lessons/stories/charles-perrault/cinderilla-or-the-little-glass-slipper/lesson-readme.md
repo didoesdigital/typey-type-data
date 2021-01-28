@@ -647,7 +647,7 @@
 * noise `TPHOEUS`
 * of, `-F KW-BG`
 * "Ha! `KR-GS KPA/HAE SKHRAPL`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * is! `S SKHRAPL`
 * Ha! `KPA/HAE SKHRAPL`
 * is!" `S SKHRAPL KR-GS`
@@ -889,7 +889,7 @@
 * looked `HRAOBGD`
 * earnestly `ERPB/EFT/HREU`
 * finding `TPAOEUPBGD`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * try, `TREU KW-BG`
 * orders `ORDZ`
 * let `HRET`

@@ -292,7 +292,7 @@
 * there, `THR KW-BG`
 * because `PWAU`
 * frightened `TPRAOEUFPBD`
-* thro' `xxx thro AE`
+* thro' `T*/H*/R*/O*/-PBT`
 * rooms, `RAOPLS KW-BG`
 * closets, `KHROS/ETS KW-BG`
 * fine, `TPAOEUPB KW-BG`
@@ -385,7 +385,7 @@
 * clotted `KHROTD`
 * blood, `PWHRAOD KW-BG`
 * reflected `TPHREBGTD`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * dead `TKED`
 * ranged `RAEUPBGD`
 * against `TKPWEPBS`

@@ -2467,7 +2467,7 @@ Donkey-Skin
 'was': WAS
 'young': KWRUPBG
 'and': SKP
-'handsome,': HAPBD/SOPL KW-BG
+'handsome,': HAPBD/SO*PL KW-BG
 'beloved': PWHROFD
 'of': -F
 'his': HEUS
@@ -3285,7 +3285,7 @@ Donkey-Skin
 'so': SO
 'young,': KWRUPBG KW-BG
 'so': SO
-'handsome,': HAPBD/SOPL KW-BG
+'handsome,': HAPBD/SO*PL KW-BG
 'and': SKP
 'so': SO
 'shapely,': SHAEUP/HREU KW-BG
@@ -4429,7 +4429,7 @@ Donkey-Skin
 'love': HRUF
 'of': -F
 'the': -T
-'handsome': HAPBD/SOPL
+'handsome': HAPBD/SO*PL
 'young': KWRUPBG
 'Prince,': PR*EUPBS KW-BG
 'was': WAS

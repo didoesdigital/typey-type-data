@@ -314,7 +314,7 @@
 * decree `TKE/KRAOE`
 * proclaimed `PRO/KHRAEUPL/-D`
 * imitation `EUPL/TAEUGS`
-* encouragement `EPB/KORPBLGT`
+* encouragement `EPB/KURPBLGT`
 * impatiently `EUPL/PAEURBT/HREU`
 * irregular `EUR/REG`
 * awaited `A/WAEUT/-D`

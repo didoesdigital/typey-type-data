@@ -189,7 +189,7 @@
 * two `TWO`
 * people `PAOEPL`
 * arbor,—a `AR/PWOR KW-BG EPL/TKA*RB AEU`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * young `KWRUPBG`
 * man `PHAPB`
 * lady. `HRA*ED TP-PL`

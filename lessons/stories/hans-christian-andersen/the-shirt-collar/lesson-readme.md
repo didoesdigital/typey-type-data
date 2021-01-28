@@ -114,7 +114,7 @@
 * garter; `TKPWAR/TER STPH*FPLT`
 * given `TKPWEUFPB`
 * any `TPHEU`
-* encouragement `EPB/KORPBLGT`
+* encouragement `EPB/KURPBLGT`
 * so." `SO TP-PL KR-GS`
 * "Oh, `KR-GS KPA/O*ERBGS KW-BG`
 * is `S`

@@ -1966,7 +1966,6 @@
 * disguise `STKPWAOEUS`
 * disguised `STKPWAOEUFD`
 * dish `TKEURB`
-* disinfectant `TKEPBGT`
 * disk `TK*EUFBG`
 * disorder `TKORD`
 * dispatch `STKPAFP`

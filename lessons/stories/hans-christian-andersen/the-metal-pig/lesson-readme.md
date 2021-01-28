@@ -668,7 +668,7 @@
 * rapidly `RAEPLD`
 * obliged `OE/PWHRAOEUPBLGD`
 * cling `KHREUPBG`
-* tightly `TAO*EULT`
+* tightly `TAOEUT/HREU`
 * him. `HEUPL TP-PL`
 * wind `WEUPBD`
 * whistled `WHEUS/-LD`
@@ -1447,7 +1447,7 @@
 * greater `TKPWRAERT`
 * proof `PRAOF`
 * talent. `THREPBT TP-PL`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * clothed `KHRO*T/-D`
 * rags, `RAG/-S KW-BG`
 * lying `HRAOEUG`

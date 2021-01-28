@@ -58,7 +58,7 @@
 * satisfaction `SAEBGS`
 * demonstrable `STRABL`
 * partnerships `P*EUPS`
-* disinfectant `TKEPBGT`
+* disinfectant `TKEUS/EUPB/TPEBG/TAPBT`
 * preponderate `P-PT`
 * contributing `KR-BGT`
 * neighborhood `TPHAOD`

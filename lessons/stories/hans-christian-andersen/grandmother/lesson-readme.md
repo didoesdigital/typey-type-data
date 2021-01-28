@@ -178,7 +178,7 @@
 * thoughts `THAUTS`
 * recollections `REBGT/-G/-S`
 * past; `PAFT STPH*FPLT`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * man `PHAPB`
 * gone, `TKPWOPB KW-BG`
 * sitting `SEUGT`

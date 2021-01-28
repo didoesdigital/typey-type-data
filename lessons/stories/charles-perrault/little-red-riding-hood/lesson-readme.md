@@ -92,7 +92,7 @@
 * village. `SREULG TP-PL`
 * As `KPA/AS`
 * going `TKPW-G`
-* thro' `xxx thro AE`
+* thro' `T*/H*/R*/O*/-PBT`
 * wood, `WAOD KW-BG`
 * met `PHET`
 * with `W`

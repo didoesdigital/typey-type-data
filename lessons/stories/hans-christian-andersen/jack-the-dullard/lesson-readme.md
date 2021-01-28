@@ -155,7 +155,7 @@
 * papa `HRO*ER/PA/PA`
 * gave `TKPWAEUF`
 * each `AOEFP`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * horse. `HORS TP-PL`
 * newspaper `TPHAOUP`
 * black `PWHRABG`

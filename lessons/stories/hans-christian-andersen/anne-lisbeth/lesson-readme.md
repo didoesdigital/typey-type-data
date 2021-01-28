@@ -514,7 +514,7 @@
 * fourteen `TPRAOEPB`
 * age, `AEUPBLG KW-BG`
 * tall, `TAUL KW-BG`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * clever. `KHREFR TP-PL`
 * seen `SAOEPB`
 * since `SEUPBS`
@@ -785,7 +785,7 @@
 * earth, `*ERT KW-BG`
 * holding `HOELGD`
 * sleeve `SHRAOEF`
-* tightly `TAO*EULT`
+* tightly `TAOEUT/HREU`
 * herself `H*ERS`
 * lifted `HREUFTD`
 * ground; `TKPWROUPBD STPH*FPLT`

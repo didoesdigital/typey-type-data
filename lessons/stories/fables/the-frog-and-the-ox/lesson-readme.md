@@ -35,7 +35,7 @@
 * tail, `TAEUL KW-BG`
 * it `T`
 * had `H`
-* hoofs `HAOF/-S`
+* hoofs `HAOF/*S`
 * divided `TKWAOEUTD`
 * in `TPH`
 * two." `TWO TP-PL KR-GS`

@@ -897,7 +897,7 @@
 * summoned `SPHUPBD`
 * presence, `PREPBS KW-BG`
 * head. `HED TP-PL`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * amazed. `A/PHAEUFD TP-PL`
 * 'Are `AE KPA/R`
 * festival, `TPEFT/SRAL KW-BG`

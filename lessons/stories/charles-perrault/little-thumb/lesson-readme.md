@@ -301,7 +301,7 @@
 * away `WA*EU`
 * once, `WUPBS KW-BG`
 * by-way, `PWEU H-PB WAEU KW-BG`
-* thro' `xxx thro AE`
+* thro' `T*/H*/R*/O*/-PBT`
 * winding `WAOEUPBD/-G`
 * bushes. `PWURBS TP-PL`
 * When `KPA/WHEPB`

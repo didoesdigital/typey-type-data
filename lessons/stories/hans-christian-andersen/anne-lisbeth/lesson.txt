@@ -1121,7 +1121,7 @@ Anne Lisbeth
 'of': -F
 'age,': AEUPBLG KW-BG
 'tall,': TAUL KW-BG
-'handsome,': HAPBD/SOPL KW-BG
+'handsome,': HAPBD/SO*PL KW-BG
 'and': SKP
 'clever.': KHREFR TP-PL
 'She': KPA/SHE
@@ -1975,7 +1975,7 @@ Anne Lisbeth
 'the': -T
 'sleeve': SHRAOEF
 'so': SO
-'tightly': TAO*EULT
+'tightly': TAOEUT/HREU
 'that': THA
 'she': SHE
 'felt': TPELT

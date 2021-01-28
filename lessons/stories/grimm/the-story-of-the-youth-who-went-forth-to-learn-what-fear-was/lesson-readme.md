@@ -599,7 +599,7 @@
 * mouths, `PHO*UT/-S KW-BG`
 * few `TPAOU`
 * old `OLD`
-* bodies `PWOEDZ`
+* bodies `PWO*EDZ`
 * burnt.' `PWURPBT TP-PL AE`
 * day, `TKAEU KW-BG`
 * 'Such `AE KPA/SUFP`
@@ -862,7 +862,7 @@
 * he: `HE STPH-FPLT`
 * 'After `AE KPA/AF`
 * pity,--for `PEUT/TEU KW-BG H-PB H-PB TPOR`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * man.' `PHAPB TP-PL AE`
 * astonished, `A/STOPB/EURBD KW-BG`
 * glad, `TKPWHRAD KW-BG`

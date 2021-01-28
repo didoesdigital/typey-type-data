@@ -1012,7 +1012,7 @@
 * coins `KOEUPBS`
 * women `WEUPL`
 * declared `TKE/KHRAEURD`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * adieu. `A/TKAOU TP-PL`
 * card. `KARD TP-PL`
 * sunny `SAOUPB`

@@ -223,7 +223,7 @@
 * give `TKPWEUF`
 * gift, `TKPWEUFT KW-BG`
 * power `POUR`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * best `PWEFT`
 * please `PHRES`
 * her." `HER TP-PL KR-GS`
@@ -558,7 +558,7 @@
 * However, `KPA/HOUF KW-BG`
 * powerful, `POURL KW-BG`
 * rich, `REUFP KW-BG`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * good `TKPWAOD`
 * inclination `EUPBG/TPHAEUGS`
 * him. `HEUPL TP-PL`
@@ -811,7 +811,7 @@
 * love, `HRUF KW-BG`
 * favour `TPAEU/SROUR`
 * to, `TO KW-BG`
-* handsome." `HAPBD/SOPL TP-PL KR-GS`
+* handsome." `HAPBD/SO*PL TP-PL KR-GS`
 * wish, `WEURB KW-BG`
 * heart, `HART KW-BG`
 * world, `WORLD KW-BG`

@@ -478,7 +478,7 @@
 * "'I `KR-GS AE EU`
 * you—you `U EPL/TKA*RB U`
 * quickly `KWEULG`
-* handsome, `HAPBD/SOPL KW-BG`
+* handsome, `HAPBD/SO*PL KW-BG`
 * still. `STEUL TP-PL`
 * yellow `KWREL/OE`
 * silk `S*EULG`

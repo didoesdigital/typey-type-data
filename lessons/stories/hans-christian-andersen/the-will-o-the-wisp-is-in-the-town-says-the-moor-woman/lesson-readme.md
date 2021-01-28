@@ -1372,7 +1372,7 @@
 * on, `OPB KW-BG`
 * sent `SEPBT`
 * couple `KUPL`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * dogs, `TKOGS KW-BG`
 * hunt `HUPBT`
 * spoor `xxx spoor`

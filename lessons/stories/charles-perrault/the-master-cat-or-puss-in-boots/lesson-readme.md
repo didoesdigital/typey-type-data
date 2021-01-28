@@ -110,7 +110,7 @@
 * that `THA`
 * may `PHAE`
 * scamper `SKAPL/PER`
-* thro' `xxx thro AE`
+* thro' `T*/H*/R*/O*/-PBT`
 * dirt `TKEURT`
 * brambles, `PWRAPL/-BLS KW-BG`
 * shall `SHAL`
@@ -235,7 +235,7 @@
 * noble `TPHOEBL`
 * lord `HRORD`
 * Marquis `PHAR/KWEUS`
-* Carabas" `xxx Carabas KR-GS`
+* Carabas" `KR*P/A*/R*/A*/PW*/A*/S* KR-GS`
 * (for `PREPB TPOR`
 * title `TAOEULT`
 * Puss `KPA/PUSZ`
@@ -328,7 +328,7 @@
 * leave `HREF`
 * rest `REFT`
 * me." `PHE TP-PL KR-GS`
-* Carabas `xxx Carabas`
+* Carabas `KR*P/A*/R*/A*/PW*/A*/S*`
 * advised `SRAOEUFD`
 * to, `TO KW-BG`
 * knowing `TPHOEG`
@@ -358,7 +358,7 @@
 * run `RUPB`
 * assistance `SEUFPBS`
 * lordship `HRORD/SH-P`
-* Carabas. `xxx Carabas TP-PL`
+* Carabas. `KR*P/A*/R*/A*/PW*/A*/S* TP-PL`
 * they `THE`
 * came `KAEUPL`
 * coach, `KOEFP KW-BG`
@@ -394,7 +394,7 @@
 * mien `PH*/*EU/*E/TPH*`
 * well `WEL`
 * made, `PHAED KW-BG`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * person), `PERPB PR*EPB KW-BG`
 * daughter `TKAUR`
 * secret `SKRET`
@@ -432,7 +432,7 @@
 * meadow `PHED/OE`
 * mow `PHOE`
 * belongs `PWHROPBGS`
-* Carabas, `xxx Carabas KW-BG`
+* Carabas, `KR*P/A*/R*/A*/PW*/A*/S* KW-BG`
 * be `-B`
 * chopped `KHOPD`
 * small `SPHAL`
@@ -443,7 +443,7 @@
 * whom `WHOPL`
 * belonged. `PWHROPBGD TP-PL`
 * "To `KR-GS KPA/TO`
-* Carabas," `xxx Carabas KW-BG KR-GS`
+* Carabas," `KR*P/A*/R*/A*/PW*/A*/S* KW-BG KR-GS`
 * answered `AEPBS/-D`
 * threats `THRETS`
 * terribly `TERBL/HREU`
@@ -592,7 +592,7 @@
 * King: `KO*EUPBG STPH-FPLT`
 * "Your `KR-GS KPA/KWROUR`
 * welcome `WELG`
-* Carabas." `xxx Carabas TP-PL KR-GS`
+* Carabas." `KR*P/A*/R*/A*/PW*/A*/S* TP-PL KR-GS`
 * "What! `KR-GS KPA/WHA SKHRAPL`
 * Marquis?" `PHAR/KWEUS H-F KR-GS`
 * belong `PWHROPBG`

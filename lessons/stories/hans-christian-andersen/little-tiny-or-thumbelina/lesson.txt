@@ -123,7 +123,7 @@ Little Tiny or Thumbelina
 'up': UP
 'a': AEU
 'large': HRARPBLG
-'handsome': HAPBD/SOPL
+'handsome': HAPBD/SO*PL
 'flower,': TPHRO*UR KW-BG
 'something': S-G
 'like': HRAOEUBG
@@ -135,7 +135,7 @@ Little Tiny or Thumbelina
 'with': W
 'its': EUTS
 'leaves': HREFS
-'tightly': TAO*EULT
+'tightly': TAOEUT/HREU
 'closed': KHROEFD
 'as': AZ
 'if': TP
@@ -3261,7 +3261,7 @@ Little Tiny or Thumbelina
 'is': S
 'a': AEU
 'very': SRE
-'handsome': HAPBD/SOPL
+'handsome': HAPBD/SO*PL
 'mole;': PHOEL STPH*FPLT
 'the': -T
 'queen': KWAOEPB
@@ -4120,7 +4120,7 @@ Little Tiny or Thumbelina
 '"Yes,"': KR-GS KPA/KWRE KW-BG KR-GS
 'to': TO
 'the': -T
-'handsome': HAPBD/SOPL
+'handsome': HAPBD/SO*PL
 'prince.': PREUPBS TP-PL
 'Then': KPA/THEPB
 'all': AUL

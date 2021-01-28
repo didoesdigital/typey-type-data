@@ -165,7 +165,7 @@
 * little `HREUL`
 * boy `PWOEU`
 * holding `HOELGD`
-* tightly, `TAO*EULT KW-BG`
+* tightly, `TAOEUT/HREU KW-BG`
 * fine `TPAOEUPB`
 * his `HEUS`
 * pea-shooter. `PAE H-PB SHAORT TP-PL`

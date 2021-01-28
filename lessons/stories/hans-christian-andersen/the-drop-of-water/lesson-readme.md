@@ -81,7 +81,7 @@
 * other's `OER/AES`
 * legs `HREGS`
 * arms `ARPLS`
-* bodies, `PWOEDZ KW-BG`
+* bodies, `PWO*EDZ KW-BG`
 * before `PW-FR`
 * behind; `HEUPBD STPH*FPLT`
 * yet `KWRET`

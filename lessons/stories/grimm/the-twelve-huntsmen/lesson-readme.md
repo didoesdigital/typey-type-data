@@ -212,7 +212,7 @@
 * know `TPHOE`
 * her, `HER KW-BG`
 * but `PWUT`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * fellows, `TPO*EULS KW-BG`
 * 'Yes,' `AE KPA/KWRE KW-BG AE`
 * willingly `HR-G/HREU`

@@ -394,7 +394,7 @@ Riquet With the Tuft
 'power': POUR
 'to': TO
 'make': PHAEUBG
-'handsome': HAPBD/SOPL
+'handsome': HAPBD/SO*PL
 'the': -T
 'person': PERPB
 'who': WHO
@@ -1379,7 +1379,7 @@ Riquet With the Tuft
 'rich,': REUFP KW-BG
 'witty': WEUT/TEU
 'and': SKP
-'handsome,': HAPBD/SOPL KW-BG
+'handsome,': HAPBD/SO*PL KW-BG
 'that': THA
 'she': SHE
 'could': KO
@@ -2280,7 +2280,7 @@ Riquet With the Tuft
 'favour': TPAEU/SROUR
 'to,': TO KW-BG
 'extremely': KPRAOEPL
-'handsome."': HAPBD/SOPL TP-PL KR-GS
+'handsome."': HAPBD/SO*PL TP-PL KR-GS
 '"If': KR-GS KPA/TP
 'it': T
 'be': -B

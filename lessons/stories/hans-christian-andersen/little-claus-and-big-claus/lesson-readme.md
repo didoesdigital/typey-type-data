@@ -1184,7 +1184,7 @@
 * past `PAFT`
 * birds `PWEURDZ`
 * air. `AEUR TP-PL`
-* handsome `HAPBD/SOPL`
+* handsome `HAPBD/SO*PL`
 * were, `WR KW-BG`
 * grazing `TKPWRAEUZ/-G`
 * hills `HEULS`
@@ -1249,7 +1249,7 @@
 * there's `THR-S`
 * fear `TPAOER`
 * stone `STOEPB`
-* tightly, `TAO*EULT KW-BG`
+* tightly, `TAOEUT/HREU KW-BG`
 * push. `PURB TP-PL`
 * "Plump!" `KR-GS KPA/PHRUFRP SKHRAPL KR-GS`
 * "I'm `KR-GS EU AE PH*`
