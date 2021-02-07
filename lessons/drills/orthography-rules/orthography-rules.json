@@ -30,7 +30,7 @@
 "PWE/SET": "beset",
 "PWE/SET/-G": "besetting",
 "PWA*EBG/STAB": "backstab",
-"PWA*EBG/STAB/ER": "backstabber",
+"PWA*EBG/STAB/*ER": "backstabber",
 "PWEUG": "big",
 "PWEUG/EFT": "biggest",
 "SELT": "settle",
