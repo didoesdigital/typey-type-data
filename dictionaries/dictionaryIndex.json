@@ -501,6 +501,26 @@
   },
   {
     "author": "Typey Type",
+    "title": "Cardinal Number Words",
+    "subtitle": "",
+    "category": "Drills",
+    "tagline": "Typey Type’s Cardinal Number Words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/cardinal-number-words/",
+    "subcategory": "",
+    "path": "/dictionaries/lessons/drills/cardinal-number-words/cardinal-number-words.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "Ordinal Number Words",
+    "subtitle": "",
+    "category": "Drills",
+    "tagline": "Typey Type’s Ordinal Number Words dictionary lets you write all the words needed for that lesson.",
+    "link": "/lessons/drills/ordinal-number-words/",
+    "subcategory": "",
+    "path": "/dictionaries/lessons/drills/ordinal-number-words/ordinal-number-words.json"
+  },
+  {
+    "author": "Typey Type",
     "title": "Apostrophes",
     "subtitle": "",
     "category": "Drills",

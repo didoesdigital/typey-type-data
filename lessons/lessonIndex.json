@@ -487,6 +487,24 @@
     "subcategory": "",
     "path": "/drills/two-letter-words-rare/lesson.txt",
     "wordCount": 51,
+    "suggestedNext": "/drills/cardinal-number-words/lesson.txt"
+  },
+  {
+    "title": "Cardinal Number Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/cardinal-number-words/lesson.txt",
+    "wordCount": 38,
+    "suggestedNext": "/drills/ordinal-number-words/lesson.txt"
+  },
+  {
+    "title": "Ordinal Number Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/ordinal-number-words/lesson.txt",
+    "wordCount": 38,
     "suggestedNext": "/drills/apostrophes/lesson.txt"
   },
   {
