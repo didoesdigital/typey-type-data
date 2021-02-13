@@ -186,6 +186,16 @@
       "target": 100
     },
     {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Cardinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Ordinal Number Words",
+      "target": 38
+    },
+    {
       "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
       "lessonTitle": "Multi-syllable words with prefixes",
       "target": 50
@@ -638,6 +648,16 @@
       "target": 100
     },
     {
+      "path": "/lessons/drills/cardinal-number-words/lesson.txt",
+      "lessonTitle": "Cardinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Ordinal Number Words",
+      "target": 38
+    },
+    {
       "path": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
       "lessonTitle": "Multi-syllable words with multiple strokes",
       "target": 15
@@ -923,6 +943,16 @@
       "path": "/lessons/drills/time/lesson.txt",
       "lessonTitle": "Time",
       "target": 62
+    },
+    {
+      "path": "/lessons/drills/cardinal-number-words/lesson.txt",
+      "lessonTitle": "Cardinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Ordinal Number Words",
+      "target": 38
     },
     {
       "path": "/lessons/drills/longest-words/lesson.txt",
