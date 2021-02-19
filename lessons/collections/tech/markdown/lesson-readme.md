@@ -12,7 +12,7 @@
 * ```block``` `KH-FG KH-FG KH-FG PWHROBG KH-FG KH-FG KH-FG`
 * > Blockquote `A*EPBG/PWHROBG/TK-LS/KWOET`
 * - Bulleted `PWHR-T/PW*ULT/-D`
-* + List `PWHR*T HR*EUS`
+* + List `PWHR*T/HR*EUS`
 * []() `PWR-BGT PWR*BGT PREPB PR*EPB`
 * ![]() `SKHRAPL PWR-BGT PWR*BGT PREPB PR*EPB`
 * [di](http://di.id.au) `PH*LG/TK*EU/STPH-G/STPH-G/TK-LS/HAOEPT/TK*EU/P-P/EUD/P-P/A*/U*`

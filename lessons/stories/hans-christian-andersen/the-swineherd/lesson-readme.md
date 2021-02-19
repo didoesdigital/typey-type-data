@@ -370,7 +370,7 @@
 * One `KPA/WUPB`
 * go `TKPW`
 * ask; `SK STPH*FPLT`
-* pattens. `PAT/TK-LS/TEN/-S TP-PL`
+* pattens. `PAT/TK-LS/TEPB/-S TP-PL`
 * "What `KR-GS KPA/WHA`
 * take `TAEUBG`
 * your `KWROUR`
