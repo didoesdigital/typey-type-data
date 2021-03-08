@@ -4014,7 +4014,7 @@
     "title": "The Velveteen Rabbit",
     "subtitle": "",
     "category": "Stories",
-    "tagline": "Typey Type’s The Velveteen Rabbit dictionary lets you write all the words needed for that lesson from Margery Williams’s books",
+    "tagline": "Typey Type’s The Velveteen Rabbit dictionary lets you write all the words needed for that lesson from Margery Williams’s books.",
     "link": "/lessons/stories/margery-williams/the-velveteen-rabbit/",
     "subcategory": "Margery Williams’s books",
     "path": "/dictionaries/lessons/stories/margery-williams/the-velveteen-rabbit/the-velveteen-rabbit.json"
@@ -4024,9 +4024,89 @@
     "title": "Speech to the Troops at Tilbury",
     "subtitle": "",
     "category": "Stories",
-    "tagline": "Typey Type’s Speech to the Troops at Tilbury dictionary lets you write all the words needed for that lesson from Queen Elizabeth I’s speeches",
+    "tagline": "Typey Type’s Speech to the Troops at Tilbury dictionary lets you write all the words needed for that lesson from Queen Elizabeth I’s speeches.",
     "link": "/lessons/stories/queen-elizabeth-i/speech-to-the-troops-at-tilbury/",
     "subcategory": "Queen Elizabeth I’s speeches",
     "path": "/dictionaries/lessons/stories/queen-elizabeth-i/speech-to-the-troops-at-tilbury/speech-to-the-troops-at-tilbury.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "A Haunted House",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s A Haunted House dictionary lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/a-haunted-house/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/a-haunted-house/a-haunted-house.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "A Society",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s A Society lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/a-society/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/a-society/a-society.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "Monday or Tuesday",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s Monday or Tuesday dictionary lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/monday-or-tuesday/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/monday-or-tuesday/monday-or-tuesday.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "An Unwritten Novel",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s An Unwritten Novel dictionary lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/an-unwritten-novel/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/an-unwritten-novel/an-unwritten-novel.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "The String Quartet",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s The String Quartet dictionary lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/the-string-quartet/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/the-string-quartet/the-string-quartet.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "Blue and Green",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s Blue and Green dictionary lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/blue-and-green/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/blue-and-green/blue-and-green.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "Kew Gardens",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s Kew Gardens dictionary lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/kew-gardens/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/kew-gardens/kew-gardens.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "The Mark on the Wall",
+    "subtitle": "",
+    "category": "Stories",
+    "tagline": "Typey Type’s The Mark on the Wall dictionary lets you write all the words needed for that lesson from Virginia Woolf.",
+    "link": "/lessons/stories/virginia-woolf/the-mark-on-the-wall/",
+    "subcategory": "Virginia Woolf",
+    "path": "/dictionaries/lessons/stories/virginia-woolf/the-mark-on-the-wall/the-mark-on-the-wall.json"
   }
 ]
