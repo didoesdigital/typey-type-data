@@ -172,7 +172,7 @@
 * pattern `PAERPB`
 * onboarding `AUPB/PWAORD/-G`
 * undo `UPB/TKO`
-* autosave `A*UT/SAF`
+* autosave `O*EUT/SAF`
 * error `ROEUR`
 * gamification `TKPWAEUPL/TPAEUBGS`
 * taxonomy `TABGS/OPB/PHEU`
