@@ -1595,7 +1595,7 @@
 * blinds `PWHRAOEUPBDZ`
 * sits `SEUTS`
 * solemn `SHREPL`
-* sphinx, `STPEUBGS KW-BG`
+* sphinx, `STPEUPB/-BGS KW-BG`
 * there's `THR-S`
 * sepulchral, `xxx sepulchral KW-BG`
 * undertaker, `UPBD/TAEUBG/*ER KW-BG`

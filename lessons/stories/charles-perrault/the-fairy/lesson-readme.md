@@ -98,7 +98,7 @@
 * house, `HOUS KW-BG`
 * bring `PWREU`
 * home `HOEPL`
-* pitcher `PEUFP/*ER`
+* pitcher `PEUFRP`
 * full `TPUL`
 * it. `T TP-PL`
 * One `KPA/WUPB`
@@ -122,7 +122,7 @@
 * maid; `PHAEUD STPH*FPLT`
 * rinsing `REUPBS/-G`
 * immediately `PHAOELD`
-* pitcher, `PEUFP/*ER KW-BG`
+* pitcher, `PEUFRP KW-BG`
 * took `TAOBG`
 * up `UP`
 * some `SOPL`

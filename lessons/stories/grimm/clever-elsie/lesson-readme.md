@@ -93,7 +93,7 @@
 * beer.' `PWAOER TP-PL AE`
 * Then `KPA/THEPB`
 * took `TAOBG`
-* pitcher `PEUFP/*ER`
+* pitcher `PEUFRP`
 * wall, `WAUL KW-BG`
 * went `WEPBT`
 * cellar, `SEL/AR KW-BG`

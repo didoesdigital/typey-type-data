@@ -29,7 +29,7 @@
 * defer `TKEFR`
 * deferred `TKEFRD`
 * beset `PWE/SET`
-* besetting `PWE/SET/-G`
+* besetting `PWE/SEGT`
 * backstab `PWA*EBG/STAB`
 * backstabber `PWA*EBG/STAB/*ER`
 * big `PWEUG`

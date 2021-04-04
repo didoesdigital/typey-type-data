@@ -240,7 +240,7 @@
 * bread `PWRAED`
 * case `KAEUS`
 * hungry, `HUPBG/REU KW-BG`
-* pitcher `PEUFP/*ER`
+* pitcher `PEUFRP`
 * water `WAUR`
 * thirsty, `THEURS/TEU KW-BG`
 * stool `STOL`

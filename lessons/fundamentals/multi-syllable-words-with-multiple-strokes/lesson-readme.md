@@ -1338,7 +1338,6 @@
 * resigned `RAOE/SAOEUPBD`
 * humility `HAOUPL/EULT`
 * Benjamin `PWEPBG/PHEUPB`
-* diameter `TKAOEUPL/TER`
 * marrying `PHAR/REU/-G`
 * tightly `TAOEUT/HREU`
 * sullen `SUL/-PB`

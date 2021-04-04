@@ -631,7 +631,7 @@
 * landlord `HR-LD`
 * got `TKPWOT`
 * drunk `TKR*UPBG`
-* raved, `RAEUFD KW-BG`
+* raved, `RAEUF/-D KW-BG`
 * merry-makers `PHER/REU H-PB PHAEURBGS`
 * way. `WAEU TP-PL`
 * he, `HE KW-BG`

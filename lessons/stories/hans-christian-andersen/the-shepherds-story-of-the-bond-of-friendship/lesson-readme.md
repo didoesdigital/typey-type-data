@@ -804,7 +804,7 @@
 * throat `THROET`
 * issues `*EURBS`
 * wolf `WOFL`
-* jackal; `HRO*ER/SKWRA*BG/A*L STPH*FPLT`
+* jackal; `SKWRABG/KWREL STPH*FPLT`
 * us, `US KW-BG`
 * considered `KR-D`
 * presence `PREPBS`

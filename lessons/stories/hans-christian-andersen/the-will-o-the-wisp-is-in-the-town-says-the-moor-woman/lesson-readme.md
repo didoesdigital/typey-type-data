@@ -1303,7 +1303,7 @@
 * drying `TKRAOEUG`
 * meadows; `PHED/OES STPH*FPLT`
 * they've `THEF`
-* draining. `TKRA*EUPBG TP-PL`
+* draining. `TKRAEUPBG TP-PL`
 * successors `SUBG/SES/ORS`
 * do?' `TKO H-F AE`
 * "'We `KR-GS AE KPA/WE`

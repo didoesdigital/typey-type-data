@@ -569,7 +569,7 @@
 * spoke `SPOEBG`
 * Billy-goat's `PWEUL/HREU H-PB TKPWO*ET AES`
 * legs; `HREGS STPH*FPLT`
-* sobbed `SKOBD`
+* sobbed `SOBD`
 * bitterly, `PWEURLT KW-BG`
 * kissed `K*EUFD`
 * obliged `OE/PWHRAOEUPBLGD`

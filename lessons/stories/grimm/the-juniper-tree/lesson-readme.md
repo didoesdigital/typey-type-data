@@ -771,7 +771,7 @@
 * delicious `TKHREUGS`
 * spice `SPAOEUS`
 * air!' `AEUR SKHRAPL AE`
-* sobbed. `SKOBD TP-PL`
+* sobbed. `SOBD TP-PL`
 * outside `OUDZ`
 * nearer,' `TPHAOER/*ER KW-BG AE`
 * man. `PHAPB TP-PL`

@@ -373,7 +373,7 @@
 * Surely `KPA/SHURL`
 * must `PHUFT`
 * satire." `SA/TAOEUR TP-PL KR-GS`
-* "Ink-pitcher!" `KR-GS KPA/*EUPBG H-PB PEUFP/*ER SKHRAPL KR-GS`
+* "Ink-pitcher!" `KR-GS KPA/*EUPBG H-PB PEUFRP SKHRAPL KR-GS`
 * cried `KRAOEUD`
 * pen. `PEPB TP-PL`
 * "Writing-stick!" `KR-GS KPA/WREUG H-PB STEUBG SKHRAPL KR-GS`

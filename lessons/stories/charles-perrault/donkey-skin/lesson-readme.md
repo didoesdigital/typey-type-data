@@ -313,7 +313,7 @@
 * make `PHAEUBG`
 * lamentation; `HRAPLT/TAEUGS STPH*FPLT`
 * wept `WEPT`
-* sobbed `SKOBD`
+* sobbed `SOBD`
 * day `TKAEU`
 * night, `TPHAOEUT KW-BG`
 * punctilious `PUPBG/TEUL/KWROUS`

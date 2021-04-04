@@ -5610,7 +5610,7 @@
 * ministry `PH*EUPBS/REU`
 * sexual `SWAUL`
 * Nile `TPHAOEUL`
-* diameter `TKAOEUPL/TER`
+* diameter `TKAOEUPLT`
 * troop `TRAOP`
 * onward `AOPB/WA*RD`
 * crowds `KROUDZ`
@@ -9489,7 +9489,7 @@
 * ethics `TH*EUBGS`
 * conventions `KEFPBGS/-S`
 * stumbling `STUPL/-BLG`
-* pitcher `PEUFP/*ER`
+* pitcher `PEUFRP`
 * slips `SHREUPS`
 * Seine `S*P/*E/*EU/TPH*/*E`
 * officially `TPEURB/HREU`

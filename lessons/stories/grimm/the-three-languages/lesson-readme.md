@@ -198,7 +198,7 @@
 * thither; `TH*EURT STPH*FPLT`
 * warn `WARPB`
 * at `AT`
-* peril `P*ERL`
+* peril `PER/EUL`
 * life, `HRAOEUF KW-BG`
 * full `TPUL`
 * wild `WAOEULD`

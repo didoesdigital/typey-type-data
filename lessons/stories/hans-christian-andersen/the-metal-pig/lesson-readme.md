@@ -870,7 +870,7 @@
 * tomb `TAOUPL`
 * right, `RAOEUT KW-BG`
 * Angelo, `APB/SKWRE/HROE KW-BG`
-* sobbed `SKOBD`
+* sobbed `SOBD`
 * heart `HART`
 * break. `PWRAEBG TP-PL`
 * People `KPA/PAOEPL`

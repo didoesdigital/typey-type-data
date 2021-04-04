@@ -8,7 +8,7 @@
 * came `KAEUPL`
 * upon `POPB`
 * a `AEU`
-* Pitcher `KPA/PEUFP/*ER`
+* Pitcher `KPA/PEUFRP`
 * which `WEU`
 * had `H`
 * once `WUPBS`
@@ -60,7 +60,7 @@
 * pebble `PEBL`
 * dropped `TKROPD`
 * it `T`
-* Pitcher. `KPA/PEUFP/*ER TP-PL`
+* Pitcher. `KPA/PEUFRP TP-PL`
 * another `TPHOER`
 * At `KPA/AT`
 * last, `HRAFT KW-BG`

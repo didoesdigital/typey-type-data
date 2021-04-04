@@ -249,7 +249,7 @@
 * thus `THUS`
 * bring `PWREU`
 * great `TKPWRAET`
-* peril. `P*ERL TP-PL`
+* peril. `PER/EUL TP-PL`
 * maiden `PHAEUD/*EPB`
 * aside, `A/SAOEUD KW-BG`
 * 'Tonight `AE KPA/TOPBT`

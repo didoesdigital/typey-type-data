@@ -606,7 +606,7 @@ Single-Stroke Briefs
 'border': PWRORD
 'bored': PWORD
 'bores': PWORS
-'boric': PWORBG
+'boric': PWOERBG
 'borne': PWOERPB
 'borough': PWRO
 'borrow': PWO*ER
@@ -1007,7 +1007,7 @@ Single-Stroke Briefs
 'choke': KHOEBG
 'choked': KHOEBGD
 'cholesterol': KHRO*L
-'chomp': KHO*PL
+'chomp': KHOFRP
 'chop': KHOP
 'chopped': KHOPD
 'chopping': KHOPG
@@ -1339,9 +1339,6 @@ Single-Stroke Briefs
 'conflict': TPHREUBGT
 'conformation': KPHAEUGS
 'conformational': KPHAEUPBL
-'conformed': K-FRPLD
-'conforming': K-FRPLG
-'conforms': K-FRPLS
 'confront': K-FRPBT
 'confused': KAOUFD
 'confusion': KAUFGS
@@ -1520,7 +1517,7 @@ Single-Stroke Briefs
 'crammed': KRAPLD
 'cramp': KRAFRP
 'crane': KRAEUPB
-'cranial': KHAEUPBL
+'cranial': KRAEUPL
 'crank': KRA*PBG
 'crap': KRAP
 'crash': KRARB
@@ -1571,7 +1568,7 @@ Single-Stroke Briefs
 'crippling': KREUPLG
 'crisis': KRA*ES
 'crisp': KREUFP
-'criteria': KRAOERT
+'criteria': KRAO*ER
 'criterion': KRAOERPB
 'critical': KR*EUL
 'croak': KROEBG
@@ -1583,7 +1580,6 @@ Single-Stroke Briefs
 'cropping': KROPG
 'cross-appeal': KRAEL
 'cross-border': KRORD
-'cross-claim': KRAEUPL
 'cross-complaint': KRAEUPBT
 'cross-examination': KROEBGS
 'cross-interrogatory': KROEUG
@@ -1820,7 +1816,6 @@ Single-Stroke Briefs
 'deprive': TKPRAOEUF
 'depriving': TKPRAOEUFG
 'depth': TK*EPT
-'derange': TKRAEUPBG
 'deranged': TKRAEUPBGD
 'deride': TKRAO*EUD
 'derision': TKREUGS
@@ -1883,7 +1878,7 @@ Single-Stroke Briefs
 'diagnosed': TK-GD
 'diagnosis': TK-GS
 'diagnostic': TKAOEUGT
-'diagram': TKPRA*EPL
+'diagram': TKPRAEPL
 'dial': TKAOEUL
 'dialogue': TKHROG
 'dialysis': TKA*ELS
@@ -2144,14 +2139,13 @@ Single-Stroke Briefs
 'dull': TKUL
 'dumb': TKUPL
 'dump': TKUFRP
-'dumped': TK*UPLD
+'dumped': TKUFRPD
 'dunce': TKUPBS
 'dune': TKAOUPB
 'dung': TKUPBG
 'dungeon': TKUPBGS
 'dunk': TK*UPBG
 'duo': TKWOE
-'duodenum': TKWUPL
 'dupe': TKAOUP
 'duped': TKUPD
 'dur': TKUR
@@ -2228,7 +2222,6 @@ Single-Stroke Briefs
 'geriatric': TKPWRABGT
 'germ': SKWRERPL
 'germs': SKWRERPLS
-'gerunds': SKWRERPBDZ
 'getting': TKPWEGT
 'ghost': TKPWOEFT
 'ghoul': TKPWOUL
@@ -2328,7 +2321,6 @@ Single-Stroke Briefs
 'good-bye': TKPWAOB
 'good-looking': TKPWHRAOBG
 'goodbye': TKPW-B
-'goodwill': TKWEUL
 'goof': TKPWAOF
 'gook': TKPWAOBG
 'goon': TKPWAOPB
@@ -2427,7 +2419,7 @@ Single-Stroke Briefs
 'groin': TKPWROEUPB
 'groom': TKPWRAOPL
 'groove': TKPWRAOF
-'grooved': TKPWRAOFPD
+'grooved': TKPWRAOFD
 'grooving': TKPWRAOFG
 'grope': TKPWROEP
 'groped': TKPWROEPD
@@ -2762,9 +2754,8 @@ Single-Stroke Briefs
 'imagined': PHAPBLGD
 'immediate': PHAOED
 'immune': TPHOEUPL
-'immunodeficiency': PHEURB
 'immunodeficient': PHEURBT
-'immunology': PHOLG
+'immunology': TPHOLG
 'imp': EUFRP
 'impairment': PAEURPLT
 'implement': EUPLT
@@ -2805,7 +2796,7 @@ Single-Stroke Briefs
 'indication': KA*EUGS
 'indicator': KOERT
 'indict': TKAO*EUT
-'indictment': TKAOEUPLT
+'indictment': TKAO*EUPLT
 'indicts': TKAOEUTS
 'individual': SREUD
 'individuality': SREUPBLGT
@@ -2852,7 +2843,7 @@ Single-Stroke Briefs
 'initiated': TPHEURBTD
 'initiation': TPHEURBGS
 'inject': SKWREBGT
-'injection': SKWREBGS
+'injection': SKPWREBGS
 'injure': SKWR-R
 'injured': SKWR-RD
 'injuries': SKWR*RS
@@ -3243,7 +3234,6 @@ Single-Stroke Briefs
 'origin': O*RPBLG
 'original': ORPBLG
 'originality': ORPBLGT
-'osteoarthritis': SRAO*EUTS
 'osteoporosis': PROEFS
 'other': OER
 'otherwise': O*ERZ
@@ -3433,7 +3423,6 @@ Single-Stroke Briefs
 'perform': PORPL
 'performance': P-FRPBS
 'perhaps': PRAPS
-'peril': P*ERL
 'perimeter': PREUPLT
 'perineum': PRAO*EPL
 'period': PAOERD
@@ -3478,7 +3467,7 @@ Single-Stroke Briefs
 'phlegm': TPHREPL
 'phloem': TPHROEPL
 'phlox': TPHRO*BGS
-'phobia': TPOEB
+'phobia': TPOEUB
 'phone': TPOEPB
 'phoned': TPOEPBD
 'phoning': TPOEPBG
@@ -3516,7 +3505,7 @@ Single-Stroke Briefs
 'pill': PEUL
 'pillage': PEULG
 'pilot': PAOEULT
-'pimp': PEUFRP
+'pimp': P*EUPL
 'pimple': PEUFRPL
 'pin': PEUPB
 'pinch': PEUFRPB
@@ -3535,7 +3524,7 @@ Single-Stroke Briefs
 'pith': P*EUT
 'pivot': PEUFT
 'pizza': PEUZ
-'placebo': PRO*EUB
+'placebo': PHROEUB
 'placed': PHRAEUFD
 'placement': PHRAEUPLT
 'placing': PHRAEUFG
@@ -3727,7 +3716,6 @@ Single-Stroke Briefs
 'preaching': PRAOEFPG
 'precept': PREPT
 'preceptor': PRERPT
-'precinct': PREUPBGT
 'precious': PRERBS
 'precipitate': PR*EUPT
 'precipitation': PR*EUPGS
@@ -3750,7 +3738,6 @@ Single-Stroke Briefs
 'preliminary': PREL
 'premise': PREPLS
 'premium': PRAOEPL
-'premolar': PROERL
 'prep': PREP
 'preparation': PREPGS
 'prepare': PRAEP
@@ -3775,7 +3762,7 @@ Single-Stroke Briefs
 'preserved': PREFRBD
 'president': PREZ
 'pressure': PRERB
-'pressured': PR*ERBD
+'pressured': PRERBD
 'presume': PRAOUPL
 'presumed': PRAOUPLD
 'presumption': PRUPGS
@@ -3925,7 +3912,7 @@ Single-Stroke Briefs
 'psychiatry': SKRAOE
 'psycho': SKOE
 'psychological': SKOL
-'psychologist': SKOLGS
+'psychologist': SKO*LGS
 'psychology': SKOLG
 'psychotic': SKO*BG
 'pub': PUB
@@ -4036,7 +4023,7 @@ Single-Stroke Briefs
 'racket': RABGT
 'racquets': RABGTS
 'rad': RAD
-'radiation': RAEUGDZ
+'radiation': RAEGS
 'raffle': RAFL
 'raffled': RAFLD
 'raft': RAFT
@@ -4085,7 +4072,6 @@ Single-Stroke Briefs
 'rattle': RA*LT
 'ravage': RAFPBLG
 'rave': RAF
-'raved': RAEUFD
 'raven': RAFPB
 'raving': RAEUFG
 'raw': RAU
@@ -4178,7 +4164,6 @@ Single-Stroke Briefs
 'region': RAOEGS
 'regional': RAOELGS
 'registration': REGS
-'regs': R*EGS
 'regular': REG
 'regularity': REGT
 'regulate': RELGT
@@ -4445,7 +4430,7 @@ Single-Stroke Briefs
 'saving': SAFG
 'savor': SA*FR
 'sawed': SAUD
-'sawn': SAUPB
+'sawn': SA*UPB
 'sax': SABGS
 'sayer': SAEUR
 'scab': SKAB
@@ -4471,7 +4456,7 @@ Single-Stroke Briefs
 'scarlet': SKARLT
 'scarred': SKARD
 'scarring': SKARG
-'scarves': SKRAFRS
+'scarves': SKAFRS
 'scary': SKAER
 'scat': SKAT
 'scathe': SKA*EUT
@@ -5039,7 +5024,7 @@ Single-Stroke Briefs
 'soaped': SOEPD
 'soar': SAOR
 'sob': SOB
-'sobbed': SKOBD
+'sobbed': SOBD
 'sober': SOERB
 'sociability': SOERBLT
 'social': SOERBL
@@ -5135,7 +5120,7 @@ Single-Stroke Briefs
 'spec': SP*EBG
 'specialist': SPEFLT
 'specialize': SPERBLZ
-'specialty': SPERPL
+'specialty': SPERBLT
 'species': SPAOES
 'specific': SPEFBG
 'specifically': SPEFL
@@ -5154,12 +5139,11 @@ Single-Stroke Briefs
 'spell': SPEL
 'spelt': SPELT
 'spend': SPEPBD
-'sperm': SP*ERPL
+'sperm': SPERPL
 'spew': SPAOU
 'sphere': STPAOER
 'spheric': STPAOERBG
 'sphincter': STPEUPBGT
-'sphinx': STPEUBGS
 'spic': SPEUBG
 'spice': SPAOEUS
 'spider': SPAOEURD
@@ -5720,7 +5704,7 @@ Single-Stroke Briefs
 'teat': TAOET
 'tech': TEFP
 'technician': T*EUBGS
-'technique': TPHAOEBGT
+'technique': TAO*EBG
 'technologies': TOPBLGS
 'technology': TOPBL
 'tee': TAOE
@@ -5730,7 +5714,7 @@ Single-Stroke Briefs
 'teenager': TAEURPBLG
 'teleconference': T-FRPBS
 'telephone': TEFL
-'temp': T*EPL
+'temp': TEFRP
 'template': TPHRAEUT
 'temple': TEFRPL
 'temporarily': TRAERL
@@ -5781,7 +5765,7 @@ Single-Stroke Briefs
 'then': THEPB
 'thence': THEPBS
 'theology': THAOELG
-'theorem': THOEURPL
+'theorem': THAOERPL
 'theoretical': THOEURL
 'theories': THOEURS
 'theory': THOEUR
@@ -6620,7 +6604,6 @@ Single-Stroke Briefs
 'wove': WOEF
 'woven': WOEFPB
 'wow': WO*U
-'wpm': W*PL
 'wrack': WRABG
 'wraith': WRA*EUT
 'wrapped': WRAPD

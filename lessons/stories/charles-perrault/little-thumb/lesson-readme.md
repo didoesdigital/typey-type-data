@@ -961,7 +961,7 @@
 * "The `KR-GS KPA/-T`
 * wretches `WREFP/S*E`
 * instantly." `EUPB/STAPBT/HREU TP-PL KR-GS`
-* pitcher `PEUFP/*ER`
+* pitcher `PEUFRP`
 * water `WAUR`
 * wife's `WAOEUF/AES`
 * herself: `H*ERS STPH-FPLT`
