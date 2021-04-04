@@ -294,7 +294,7 @@
 * longing `HROPBG/-G`
 * home; `HOEPL STPH*FPLT`
 * knew `TPHAOU`
-* homesick, `xxx homesick KW-BG`
+* homesick, `HOEPL/TK-LS/SEUBG KW-BG`
 * although `HR*T`
 * thousand `THOUD`
 * times `TAOEUPLS`

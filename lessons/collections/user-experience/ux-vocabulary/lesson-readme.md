@@ -53,9 +53,9 @@
 * .org `TKORG`
 * alpha `AL/TPA`
 * beta `PWOEUT`
-* branding `PWRAPBD/-G`
+* branding `PWRAPBGD`
 * card `KARD`
-* sorting `SORT/-G`
+* sorting `SORGT`
 * mood `PHAOD`
 * board `PWAORD`
 * personas `PERPB/KWRA/-S`
@@ -100,7 +100,7 @@
 * form `TPORPL`
 * frame `TPRAEUPL`
 * function `TPUBGS`
-* Gestalt `TKPWE/STALT`
+* Gestalt `KPA/TKPWE/STALT`
 * global `TKPWHROEBL`
 * navigation `TPHAF/TKPWAEUGS`
 * elements `HREPLTS`
@@ -122,7 +122,7 @@
 * placeholder `PHRAEUS/HO*ERLD`
 * internationalization `TPHA*EL/SA*EUGS`
 * localization `HROEL/SA*EUGS`
-* kerning `K*ERPB/-G`
+* kerning `K*ERPBG`
 * tittle `TEUT/*L`
 * typography `TAOEUP/TKPWRAEF`
 * terminal `TERPL/TPHAL`
@@ -170,7 +170,7 @@
 * forgiving `TPAURG/-G`
 * signifier `SEUPBG/TPAOEUR`
 * pattern `PAERPB`
-* onboarding `AUPB/PWAORD/-G`
+* onboarding `AOPB/PWAORGD`
 * undo `UPB/TKO`
 * autosave `O*EUT/SAF`
 * error `ROEUR`
@@ -179,4 +179,4 @@
 * artboard `ART/PWAORD`
 * favicon `TPAF/KOPB`
 * nav item `TPHA*F/AOEUT/*EP`
-* connectivity `KEBGT/T*EUFT`
+* connectivity `KEBGT/*EUFT`
