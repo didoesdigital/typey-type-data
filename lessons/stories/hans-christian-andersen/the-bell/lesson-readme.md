@@ -595,7 +595,7 @@
 * thrash `THRARB`
 * him? `HEUPL H-F`
 * son!" `SOPB SKHRAPL KR-GS`
-* undaunted, `xxx undaunted KW-BG`
+* undaunted, `UPB/TKAUPBT/-D KW-BG`
 * deeper `TKAOERP`
 * wonderful `WUFL`
 * flowers `TPHRO*URS`

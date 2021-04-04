@@ -407,7 +407,7 @@
 * water `WAUR`
 * streamed `STRAOEPL/-D`
 * gutter, `TKPWOURT KW-BG`
-* overflowed, `xxx overflowed KW-BG`
+* overflowed, `AUFR/TPHROE/-D KW-BG`
 * bottle `PWO*LT`
 * carried `KAERD`
 * away. `WA*EU TP-PL`
