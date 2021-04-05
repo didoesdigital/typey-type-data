@@ -89,7 +89,7 @@
 * wherever `W-FR`
 * horse `HORS`
 * go. `TKPW TP-PL`
-* Clancy `KHRAPB/SEU`
+* Clancy `KPA/KHRAPB/SEU`
 * of `-F`
 * Overflow `KPA/AUFR/TPHROE`
 * came `KAEUPL`
@@ -216,8 +216,7 @@
 * hoofs `HAOF/*S`
 * strike `STRAOEUBG`
 * firelight `TPAOEUR/TK-LS/HRAOEUT`
-* flint `TPHREUPBT`
-* stones `STOEPBS`
+* flint stones `TPHREUPBT/S-P/STOEPBS`
 * every `EF`
 * stride, `STRAOEUD KW-BG`
 * holds `HOLDZ`
@@ -269,7 +268,7 @@
 * fancy `TPAEPBS`
 * now. `TPHOU TP-PL`
 * And, `AFPBD KW-BG`
-* Clancy, `KHRAPB/SEU KW-BG`
+* Clancy, `KPA/KHRAPB/SEU KW-BG`
 * you `U`
 * must `PHUFT`
 * wheel `WHAOEL`
@@ -298,7 +297,7 @@
 * past `PAFT`
 * ranges `RAEUPBGS`
 * ring `REUPBG`
-* stockwhip, `STOBG/TK-LS/WHEUP KW-BG`
+* stockwhip, `STOBG/WH*EUP KW-BG`
 * met `PHET`
 * face `TPAEUS`
 * face. `TPAEUS TP-PL`
@@ -313,7 +312,7 @@
 * view, `SRAOU KW-BG`
 * charged `KHARPBLGD`
 * beneath `TPHAO*ET`
-* stockwhip `STOBG/TK-LS/WHEUP`
+* stockwhip `STOBG/WH*EUP`
 * sharp `SHARP`
 * sudden `SUD`
 * dash, `TKARB KW-BG`
@@ -329,7 +328,7 @@
 * Resounded `KPA/RE/SO*UPBD/-D`
 * thunder `THUPBD`
 * tread, `TRED KW-BG`
-* stockwhips `STOBG/TK-LS/WHEUPS`
+* stockwhips `STOBG/WH*EUPS`
 * woke `WOEBG`
 * echoes, `EBG/SKWROS KW-BG`
 * fiercely `TPAOERS/HREU`

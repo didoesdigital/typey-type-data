@@ -127,7 +127,7 @@ The Man from Snowy River
 'could': KO
 'go.': TKPW TP-PL
 'And': AFPBD
-'Clancy': KHRAPB/SEU
+'Clancy': KPA/KHRAPB/SEU
 'of': -F
 'the': -T
 'Overflow': KPA/AUFR/TPHROE
@@ -303,7 +303,7 @@ The Man from Snowy River
 'wistful': WEUFT/-FL
 '--': TK-R
 'only': OEPBL
-'Clancy': KHRAPB/SEU
+'Clancy': KPA/KHRAPB/SEU
 'stood': STAOD
 'his': HEUS
 'friend': TPREPBD
@@ -367,8 +367,7 @@ The Man from Snowy River
 'firelight': TPAOEUR/TK-LS/HRAOEUT
 'from': TPR
 'the': -T
-'flint': TPHREUPBT
-'stones': STOEPBS
+'flint stones': TPHREUPBT/S-P/STOEPBS
 'every': EF
 'stride,': STRAOEUD KW-BG
 'The': KPA/-T
@@ -463,7 +462,7 @@ The Man from Snowy River
 'riding': RAOEUD/-G
 'now.': TPHOU TP-PL
 'And,': AFPBD KW-BG
-'Clancy,': KHRAPB/SEU KW-BG
+'Clancy,': KPA/KHRAPB/SEU KW-BG
 'you': U
 'must': PHUFT
 'wheel': WHAOEL
@@ -505,7 +504,7 @@ The Man from Snowy River
 'those': THOZ
 'hills.'': HEULS TP-PL AE
 'So': KPA/SO
-'Clancy': KHRAPB/SEU
+'Clancy': KPA/KHRAPB/SEU
 'rode': ROED
 'to': TO
 'wheel': WHAOEL
@@ -541,7 +540,7 @@ The Man from Snowy River
 'ring': REUPBG
 'With': KPA/W
 'the': -T
-'stockwhip,': STOBG/TK-LS/WHEUP KW-BG
+'stockwhip,': STOBG/WH*EUP KW-BG
 'as': AZ
 'he': HE
 'met': PHET
@@ -575,7 +574,7 @@ The Man from Snowy River
 'charged': KHARPBLGD
 'beneath': TPHAO*ET
 'the': -T
-'stockwhip': STOBG/TK-LS/WHEUP
+'stockwhip': STOBG/WH*EUP
 'with': W
 'a': AEU
 'sharp': SHARP
@@ -610,7 +609,7 @@ The Man from Snowy River
 'tread,': TRED KW-BG
 'And': AFPBD
 'the': -T
-'stockwhips': STOBG/TK-LS/WHEUPS
+'stockwhips': STOBG/WH*EUPS
 'woke': WOEBG
 'the': -T
 'echoes,': EBG/SKWROS KW-BG
@@ -672,7 +671,7 @@ The Man from Snowy River
 'mountain's': PHOUPB/TAEUPB AES
 'summit,': SUPLT KW-BG
 'even': AOEPB
-'Clancy': KHRAPB/SEU
+'Clancy': KPA/KHRAPB/SEU
 'took': TAOBG
 'a': AEU
 'pull,': PUL KW-BG
@@ -721,7 +720,7 @@ The Man from Snowy River
 'he': HE
 'swung': SWUPBG
 'his': HEUS
-'stockwhip': STOBG/TK-LS/WHEUP
+'stockwhip': STOBG/WH*EUP
 'round': ROUPBD
 'and': SKP
 'gave': TKPWAEUF
@@ -752,8 +751,7 @@ The Man from Snowy River
 'He': KPA/HE
 'sent': SEPBT
 'the': -T
-'flint': TPHREUPBT
-'stones': STOEPBS
+'flint stones': TPHREUPBT/S-P/STOEPBS
 'flying,': TPHRAOEUG KW-BG
 'but': PWUT
 'the': -T
@@ -854,7 +852,7 @@ The Man from Snowy River
 'him': HEUPL
 'ply': PHRAOEU
 'the': -T
-'stockwhip': STOBG/TK-LS/WHEUP
+'stockwhip': STOBG/WH*EUP
 'fiercely,': TPAOERS/HREU KW-BG
 'he': HE
 'was': WAS
