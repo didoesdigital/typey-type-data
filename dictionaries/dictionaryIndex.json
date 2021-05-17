@@ -130,14 +130,14 @@
     "path": "/dictionaries/didoesdigital/modifiers-single-stroke.json"
   },
   {
-    "author": "JeremyGG",
+    "author": "Jade-GG",
     "title": "Phrasing Dictionary 18 Mar 2019",
     "subtitle": "",
     "category": "Individual",
     "subcategory": "Phrasing",
-    "tagline": "JeremyGG’s auto-generated phrasing dictionary lets you write sentences like “I didn’t know that” or “you don’t really care about” in one stroke using a system based on frequency data gathered from Datamuse and from experience. It’s designed to have almost no conflicts with existing Plover theory.",
-    "link": "https://github.com/JeremyGG/plover_phrasing",
-    "path": "/dictionaries/individual/jeremygg-phrs-18-mar-2019.json"
+    "tagline": "Jade-GG’s auto-generated phrasing dictionary lets you write sentences like “I didn’t know that” or “you don’t really care about” in one stroke using a system based on frequency data gathered from Datamuse and from experience. It’s designed to have almost no conflicts with existing Plover theory.",
+    "link": "https://github.com/Jade-GG/plover_phrasing",
+    "path": "/dictionaries/individual/jade-gg-phrs-18-mar-2019.json"
   },
   {
     "author": "Typey Type",

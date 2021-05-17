@@ -1,4 +1,4 @@
-# JeremyGG: phrasing briefs
+# Jade-GG: phrasing briefs
 
 * it `KPWH`
 * it like the `KPWH*BLGT`
