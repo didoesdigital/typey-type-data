@@ -4003,7 +4003,7 @@
 * quit `KWEUT`
 * quite `KWAOEUT`
 * quiver `KWEUFR`
-* quiz `KWUZ`
+* quiz `KWEUZ`
 * quizzes `KWEUSZ`
 * quo `KWOE`
 * quorum `KWORPL`
