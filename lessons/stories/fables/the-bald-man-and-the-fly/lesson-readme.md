@@ -38,7 +38,7 @@
 * little `HREUL`
 * enemy, `TPHAEPL KW-BG`
 * but `PWUT`
-* acks `ABG/-S`
+* —whack— `EPL/TKA*RB WHABG EPL/TKA*RB`
 * palm `PAPL`
 * head `HED`
 * instead; `STPHED STPH*FPLT`
