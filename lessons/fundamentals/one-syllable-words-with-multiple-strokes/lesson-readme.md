@@ -25,8 +25,6 @@
 * sounded `SOUPBD/-D`
 * beasts `PWAOEFT/-S`
 * hatred `HAEU/TRED`
-* startled `START/-LD`
-* mingled `PHEUPBG/-LD`
 * masses `PHAS/-S`
 * trembled `TREPL/-BLD`
 * roses `ROES/-S`
