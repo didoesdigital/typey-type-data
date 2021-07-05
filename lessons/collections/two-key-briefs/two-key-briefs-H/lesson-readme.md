@@ -1,12 +1,10 @@
 # Two-key briefs H-*
 
 * this `TH`
-* charge `KHARPBLG`
 * will `HR`
 * he `HE`
 * uh `HU`
 * ? `H-F`
-* historical `HOEURL`
 * handgun `H-G`
 * had the `H-T`
 * had had `H-D`
