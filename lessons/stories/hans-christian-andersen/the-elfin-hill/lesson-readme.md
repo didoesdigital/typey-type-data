@@ -699,7 +699,7 @@
 * tremendous `TREPLD`
 * almost `HR-PL`
 * other. `OER TP-PL`
-* usual `URBL`
+* usual `AOURB`
 * way, `WAEU KW-BG`
 * stamping `STAPL/-PG`
 * feet, `TPAOET KW-BG`

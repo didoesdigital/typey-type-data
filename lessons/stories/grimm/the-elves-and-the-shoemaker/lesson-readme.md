@@ -123,7 +123,7 @@
 * price `PRAOEUS`
 * higher `HAOEUR`
 * than `THAPB`
-* usual `URBL`
+* usual `AOURB`
 * for `TPOR`
 * them; `THEPL STPH*FPLT`
 * poor `PAOR`
@@ -307,7 +307,7 @@
 * skipping, `SKEUPG KW-BG`
 * hopped `HOPD`
 * round `ROUPBD`
-* usual; `URBL STPH*FPLT`
+* usual; `AOURB STPH*FPLT`
 * saw `SAU`
 * clothes `KHRO*ETS`
 * lying `HRAOEUG`

@@ -210,7 +210,7 @@
 * cored `KOR/-D`
 * chute `SHAOUT`
 * shoot `SHAOT`
-* cite `KRAOEUR`
+* cite `KRAOEUT`
 * sight `SAOEUT`
 * site `SAO*EUT`
 * clause `KHRAUS`

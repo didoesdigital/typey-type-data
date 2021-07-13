@@ -191,7 +191,7 @@
 * world!" `WORLD SKHRAPL KR-GS`
 * In `KPA/TPH`
 * autumn, `AU/UPL KW-BG`
-* usual, `URBL KW-BG`
+* usual, `AOURB KW-BG`
 * wood-cutters `WAOD H-PB KUT/ERS`
 * came `KAEUPL`
 * cut `KUT`

@@ -828,7 +828,7 @@
 * wandering `WAPBGD`
 * wearisome; `WAOE/REU/SPH STPH*FPLT`
 * events `AOEFPBTS`
-* usual `URBL`
+* usual `AOURB`
 * occupation. `OUPGS TP-PL`
 * travel, `TRAFL KW-BG`
 * till `TEUL`

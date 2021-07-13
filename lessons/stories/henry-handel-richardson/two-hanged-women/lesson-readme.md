@@ -38,7 +38,7 @@
 * let's `HRETS`
 * make `PHAEUBG`
 * for `TPOR`
-* usual," `URBL KW-BG KR-GS`
+* usual," `AOURB KW-BG KR-GS`
 * said `SED`
 * boy. `PWOEU TP-PL`
 * But `KPA/PWUT`

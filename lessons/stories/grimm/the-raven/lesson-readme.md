@@ -366,7 +366,7 @@
 * temptation, `TEPL/TAEUGS KW-BG`
 * draught. `TKRAUFT TP-PL`
 * hour `HOUR`
-* usual `URBL`
+* usual `AOURB`
 * felt `TPELT`
 * more `PHOR`
 * weariness `WAOER/REU/-PBS`

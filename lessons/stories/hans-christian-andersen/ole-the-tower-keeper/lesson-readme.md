@@ -416,7 +416,7 @@
 * myself `PHAO*EUS`
 * completely, `KPHRAOELT KW-BG`
 * forgot `TPAURGT`
-* usual `URBL`
+* usual `AOURB`
 * diversion, `TKWERGS KW-BG`
 * wild `WAOEULD`
 * hunt `HUPBT`

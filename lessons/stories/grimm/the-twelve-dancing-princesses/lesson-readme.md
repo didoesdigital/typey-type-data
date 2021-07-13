@@ -450,7 +450,7 @@
 * though `THOE`
 * we `WE`
 * get `TKPWET`
-* usual, `URBL KW-BG`
+* usual, `AOURB KW-BG`
 * tired: `TAOEURD STPH-FPLT`
 * seems `SAOEPLS`
 * heavy `HOEUF`

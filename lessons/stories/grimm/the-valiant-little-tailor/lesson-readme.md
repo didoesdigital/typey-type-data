@@ -1045,7 +1045,7 @@
 * business,' `PWEUS KW-BG AE`
 * At `KPA/AT`
 * wife `WAOEUF`
-* usual `URBL`
+* usual `AOURB`
 * asleep, `A/SHRAOEP KW-BG`
 * door, `TKAOR KW-BG`
 * pretending `PRE/TEPBD/-G`

@@ -394,7 +394,7 @@
 * nest, `TPHEFT KW-BG`
 * cuckoo `KAO/KAO`
 * carried `KAERD`
-* usual `URBL`
+* usual `AOURB`
 * vocal `SROELG`
 * performances, `PER/TPORPL/APBS/-S KW-BG`
 * well-known `WEL/TPHO*EPB`

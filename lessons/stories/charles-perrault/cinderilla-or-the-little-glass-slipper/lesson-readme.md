@@ -245,7 +245,7 @@
 * I," `EU KW-BG KR-GS`
 * "shall `KR-GS SHAL`
 * only `OEPBL`
-* usual `URBL`
+* usual `AOURB`
 * petticoat; `PET/KOET STPH*FPLT`
 * then, `THEPB KW-BG`
 * make `PHAEUBG`

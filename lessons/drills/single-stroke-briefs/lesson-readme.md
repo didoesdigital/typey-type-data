@@ -1039,7 +1039,7 @@
 * circled `SOEURBGD`
 * circuit `SEURBGT`
 * circulation `SHRAEURBGS`
-* cite `KRAOEUR`
+* cite `KRAOEUT`
 * cited `KRAOEUTD`
 * citric `STR*EUBG`
 * civic `SEUFBG`
@@ -6206,7 +6206,7 @@
 * use `AOUS`
 * useful `AOUFL`
 * user `AOURS`
-* usual `URBL`
+* usual `AOURB`
 * utility `AOULT`
 * vacant `SRAEUBGT`
 * vacation `SRAEUBGS`

@@ -203,7 +203,7 @@
 * able `ABL`
 * go `TKPW`
 * about `PW`
-* usual, `URBL KW-BG`
+* usual, `AOURB KW-BG`
 * married `PHAERD`
 * again. `TKPWEPB TP-PL`
 * He `KPA/HE`

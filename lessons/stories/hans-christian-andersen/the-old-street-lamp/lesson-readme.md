@@ -926,7 +926,7 @@
 * thought, `THAUT KW-BG`
 * "Now `KR-GS KPA/TPHOU`
 * me," `PHE KW-BG KR-GS`
-* usual. `URBL TP-PL`
+* usual. `AOURB TP-PL`
 * burned `PWURPBD`
 * began `TKPWAPB`
 * perceive `SPAOEF`

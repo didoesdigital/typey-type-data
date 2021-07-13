@@ -1134,7 +1134,7 @@
 * flute." `TPHRAOUT TP-PL KR-GS`
 * Everything `KPA/EFRG`
 * again `TKPWEPB`
-* usual `URBL`
+* usual `AOURB`
 * order, `ORD KW-BG`
 * except `KPEPT`
 * pictures `P*EUFPS`

@@ -153,7 +153,7 @@
 * went `WEPBT`
 * look `HRAOBG`
 * it `T`
-* usual: `URBL STPH-FPLT`
+* usual: `AOURB STPH-FPLT`
 * fair, `TPAEUR KW-BG`
 * beauteous `PWAOUT/KWROUS`
 * see, `SAOE KW-BG`

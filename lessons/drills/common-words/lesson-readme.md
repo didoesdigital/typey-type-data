@@ -912,7 +912,7 @@
 * upon `POPB`
 * us `US`
 * use `AOUS`
-* usual `URBL`
+* usual `AOURB`
 * usually `AOURBL`
 * very `SRE`
 * visit `SREUFT`

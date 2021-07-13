@@ -228,7 +228,7 @@
 * odd `OD`
 * uncommon `UPB/KPHOPB`
 * name, `TPHAEUPL KW-BG`
-* usual `URBL`
+* usual `AOURB`
 * your `KWROUR`
 * family?' `TPAEPL H-F AE`
 * does `TKOS`

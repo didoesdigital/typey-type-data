@@ -63,7 +63,7 @@
 * round `ROUPBD`
 * fire `TPAOEUR`
 * began `TKPWAPB`
-* usual `URBL`
+* usual `AOURB`
 * to `TO`
 * praise `PRAEUS`
 * men—how `PHEPB EPL/TKA*RB HOU`
