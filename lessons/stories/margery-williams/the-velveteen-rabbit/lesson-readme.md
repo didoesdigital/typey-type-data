@@ -75,7 +75,7 @@
 * loved `HROFD`
 * him, `HEUPL KW-BG`
 * then `THEPB`
-* Aunts `A*UPBT/-S`
+* Aunts `KPA/AUPBTS`
 * Uncles `KPA/UPB/K-LS`
 * came `KAEUPL`
 * to `TO`

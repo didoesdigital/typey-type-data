@@ -189,7 +189,7 @@
 * you.' `U TP-PL AE`
 * leads `HRAEDZ`
 * rack, `RABG KW-BG`
-* binds `PWAOEUPBDZ`
+* binds `PWEUPBDZ`
 * fast. `TPAFT TP-PL`
 * Then `KPA/THEPB`
 * mother. `PHOER TP-PL`

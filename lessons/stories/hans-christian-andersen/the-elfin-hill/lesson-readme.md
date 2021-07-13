@@ -940,7 +940,7 @@
 * taken `TAEPB`
 * mother `PHOER`
 * you, `U KW-BG`
-* aunts." `AUPBT/-S TP-PL KR-GS`
+* aunts." `AUPBTS TP-PL KR-GS`
 * youngsters `KWR*UPBGS/ERS`
 * rather `RAER`
 * speech `SPAOEFP`
