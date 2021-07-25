@@ -558,7 +558,7 @@
 * man `PHAPB`
 * low `HROE`
 * origin, `O*RPBLG KW-BG`
-* possessing `POE/SES/-G`
+* possessing `PESZ/-G`
 * pride; `PRAOEUD STPH*FPLT`
 * eyes `AO*EUS`
 * forehead `TPOER/HED`

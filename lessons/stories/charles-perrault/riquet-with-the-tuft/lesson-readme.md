@@ -751,7 +751,7 @@
 * did." `TK TP-PL KR-GS`
 * sense," `SEPBS KW-BG KR-GS`
 * "would `KR-GS WO`
-* entitled, `SPWAOEUPBLTD KW-BG`
+* entitled, `SPWAOEULTD KW-BG`
 * say, `SAEU KW-BG`
 * reproach `RE/PROEFP`
 * breach `PWRAEFP`

@@ -168,7 +168,7 @@
 * were, `WR KW-BG`
 * considered `KR-D`
 * themselves `TH*EPLS`
-* entitled `SPWAOEUPBLTD`
+* entitled `SPWAOEULTD`
 * marry `PHAER`
 * Princess. `KPA/PREUPB/SES TP-PL`
 * nothing, `TPHOG KW-BG`

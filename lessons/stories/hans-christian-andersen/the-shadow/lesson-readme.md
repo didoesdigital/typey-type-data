@@ -848,7 +848,7 @@
 * But—it `KPA/PWUT EPL/TKA*RB T`
 * pride `PRAOEUD`
 * part, `PART KW-BG`
-* possessing `POE/SES/-G`
+* possessing `PESZ/-G`
 * knowledge `TPHOPBLG`
 * do, `TKORBGS`
 * position, `POGS KW-BG`
