@@ -150,7 +150,7 @@
 * URL `URL`
 * white `WHAOEUT`
 * space `SPAEUS`
-* within-page `W-PB H-PB PAEUPBLG`
+* within-page `W-PB/H-PB/PAEUPBLG`
 * modal `PHOE/TKAL`
 * leading `HRAEGD`
 * learnability `HRERPB/-BLT`
