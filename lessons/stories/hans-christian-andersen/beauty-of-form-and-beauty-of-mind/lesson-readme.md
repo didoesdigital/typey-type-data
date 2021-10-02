@@ -96,7 +96,7 @@
 * before `PW-FR`
 * house, `HOUS KW-BG`
 * watching `WAFPG`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * windows; `WOEUPBDZ STPH*FPLT`
 * watchman `WAFP/PHAPB`
 * might `PHAOEUT`

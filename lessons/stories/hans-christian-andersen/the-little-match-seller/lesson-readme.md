@@ -312,7 +312,7 @@
 * damp, `TKAFRP KW-BG`
 * before `PW-FR`
 * her. `HER TP-PL`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * match, `PHAFP KW-BG`
 * then `THEPB`
 * found `TPOUPBD`

@@ -781,7 +781,7 @@
 * stork. `STORBG TP-PL`
 * hopped `HOPD`
 * deck. `TKEBG TP-PL`
-* rested `REFT/-D`
+* rested `REFTD`
 * now, `TPHOU KW-BG`
 * happy, `HAEP KW-BG`
 * thank `THAPBG`

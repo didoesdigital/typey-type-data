@@ -398,7 +398,7 @@
 * sit `SEUT`
 * while `WHAOEUL`
 * wedding-torches `WEGD H-PB TOR/-FPS`
-* lighted; `HRAOEUT/-D STPH*FPLT`
+* lighted; `HRAOEUTD STPH*FPLT`
 * but, `PWUT KW-BG`
 * unluckily, `UPB/HRULG KW-BG`
 * crack `KRABG`
@@ -766,7 +766,7 @@
 * arose `A/ROES`
 * sea, `SAE KW-BG`
 * whereon `WROPB`
-* rested `REFT/-D`
+* rested `REFTD`
 * while, `WHAOEUL KW-BG`
 * safely `SAEUFL`
 * There `KPA/THR`

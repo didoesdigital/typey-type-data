@@ -1489,7 +1489,7 @@
 * sake `SAEUBG`
 * service; `S-FS STPH*FPLT`
 * perhaps `PRAPS`
-* priests. `PRAOEFT/-S TP-PL`
+* priests. `PRAOEFTS TP-PL`
 * speaks `SPAOEBGS`
 * Parliament, `KPA/PAERPLT KW-BG`
 * benefit `PWEF`

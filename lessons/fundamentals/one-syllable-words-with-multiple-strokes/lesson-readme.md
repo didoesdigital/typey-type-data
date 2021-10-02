@@ -9,13 +9,10 @@
 * glanced `TKPWHRAPBS/-D`
 * bowed `PWOE/-D`
 * nodded `TPHOD/-D`
-* lighted `HRAOEUT/-D`
-* priests `PRAOEFT/-S`
 * gazed `TKPWAEZ/-D`
 * senses `SEPBS/-S`
 * handed `HAPBD/-D`
 * crowded `KROUD/-D`
-* rested `REFT/-D`
 * les `HRE/-S`
 * founded `TPOUPBD/-D`
 * princes `PREUPBS/-S`

@@ -327,7 +327,7 @@
 * together, `TOGT KW-BG`
 * high `HAOEU`
 * hill. `HEUL TP-PL`
-* lighted, `HRAOEUT/-D KW-BG`
+* lighted, `HRAOEUTD KW-BG`
 * flames `TPHRAEUPLS`
 * were `WR`
 * burning `PWURPBG`

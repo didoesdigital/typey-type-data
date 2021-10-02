@@ -499,7 +499,7 @@
 * Jesus. `SKWRAOES/US TP-PL`
 * On `KPA/OPB`
 * eyes `AO*EUS`
-* rested `REFT/-D`
+* rested `REFTD`
 * longer `HRORPBG`
 * than `THAPB`
 * any `TPHEU`

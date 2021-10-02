@@ -219,7 +219,7 @@
 * peace. `PAES TP-PL`
 * It `KPA/T`
 * if `TP`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * up `UP`
 * ray `RAEU`
 * sunshine. `SUPB/SHAO*EUPB TP-PL`

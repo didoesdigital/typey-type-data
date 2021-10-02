@@ -342,7 +342,7 @@
 * without `WOUT`
 * looking `HRAOG`
 * inn `TPH*PB`
-* rested `REFT/-D`
+* rested `REFTD`
 * there `THR`
 * ease. `AOES TP-PL`
 * In `KPA/TPH`

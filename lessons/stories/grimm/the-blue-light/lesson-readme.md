@@ -600,7 +600,7 @@
 * wanted. `WAPBTD TP-PL`
 * As `KPA/AS`
 * alone `A/HROEPB`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * manikin. `xxx manikin TP-PL`
 * 'Have `AE KPA/SR`
 * fear,' `TPAOER KW-BG AE`

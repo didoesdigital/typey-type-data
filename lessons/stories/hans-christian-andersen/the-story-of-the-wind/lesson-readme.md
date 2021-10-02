@@ -433,7 +433,7 @@
 * passed `PAFD`
 * Funen `xxx Funen`
 * Belt. `KPA/PWELT TP-PL`
-* rested `REFT/-D`
+* rested `REFTD`
 * glorious `TKPWHRORS`
 * wood, `WAOD KW-BG`
 * heron `HER/ROPB`

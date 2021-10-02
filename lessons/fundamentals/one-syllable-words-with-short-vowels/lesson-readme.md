@@ -64,6 +64,7 @@
 * rolled `ROLD`
 * what's `WHATS`
 * port `PORT`
+* rested `REFTD`
 * poured `PORD`
 * costs `KOFTS`
 * sorts `SORTS`

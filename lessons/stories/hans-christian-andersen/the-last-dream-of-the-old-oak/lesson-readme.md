@@ -98,7 +98,7 @@
 * one `WUPB`
 * tiny `TOEUPB`
 * creatures `KRAOEFPS`
-* rested `REFT/-D`
+* rested `REFTD`
 * his `HEUS`
 * large `HRARPBLG`
 * fresh `TPRERB`

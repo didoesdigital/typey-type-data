@@ -791,7 +791,7 @@
 * quite `KWAOEUT`
 * plainly `PHRAEUPBL`
 * outline `AOUT/HRAOEUPB`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * roasted `ROEFT/-D`
 * roots `RAOTS`
 * slept `SHREPT`
@@ -832,7 +832,7 @@
 * skins, `SKEUPBS KW-BG`
 * sheep `SHAOEP`
 * belonging `PWE/HROPBG/-G`
-* priests, `PRAOEFT/-S KW-BG`
+* priests, `PRAOEFTS KW-BG`
 * peasants, `PEFPBT/-S KW-BG`
 * playfellows `PHRAEU/TK-LS/TPO*EUL/-S`
 * turtles. `TURT/-LS TP-PL`
@@ -921,7 +921,7 @@
 * veneration. `SREPB/RAEUGS TP-PL`
 * stories `STOERS`
 * legends `HREPBLGDZ`
-* priests `PRAOEFT/-S`
+* priests `PRAOEFTS`
 * times. `TAOEUPLS TP-PL`
 * "How `KR-GS KPA/HOU`
 * you `U`

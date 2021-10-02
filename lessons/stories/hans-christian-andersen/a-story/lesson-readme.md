@@ -687,7 +687,7 @@
 * wrestled `WREFLD`
 * bent `PWEPBT`
 * double, `TKUBL KW-BG`
-* rested `REFT/-D`
+* rested `REFTD`
 * between `TWAOEPB`
 * knees, `TPHAOEZ KW-BG`
 * tied `TAO*EUD`

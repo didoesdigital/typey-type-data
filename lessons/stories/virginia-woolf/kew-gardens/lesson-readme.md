@@ -877,7 +877,7 @@
 * earth. `*ERT TP-PL`
 * action `*BGS`
 * fact `TPABGT`
-* rested `REFT/-D`
+* rested `REFTD`
 * hers `HERS`
 * expressed `EBGS/PREFD`
 * feelings `TPAOELGS`

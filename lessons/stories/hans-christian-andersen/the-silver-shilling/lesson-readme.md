@@ -519,7 +519,7 @@
 * child `KHAOEULD`
 * laughed `HRAFD`
 * kissed `K*EUFD`
-* rested `REFT/-D`
+* rested `REFTD`
 * whole `WHOEL`
 * night `TPHAOEUT`
 * warm, `WARPL KW-BG`

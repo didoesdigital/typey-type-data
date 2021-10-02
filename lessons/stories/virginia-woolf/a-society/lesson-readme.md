@@ -624,7 +624,7 @@
 * mowing `PHOEG`
 * machine." `PH-PB TP-PL KR-GS`
 * this `TH`
-* lighted. `HRAOEUT/-D TP-PL`
+* lighted. `HRAOEUTD TP-PL`
 * mother's `PHOER/AES`
 * name——" `TPHAEUPL EPL/TKA*RB EPL/TKA*RB KR-GS`
 * added. `AD/-D TP-PL`

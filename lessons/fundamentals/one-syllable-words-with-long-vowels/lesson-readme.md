@@ -80,6 +80,7 @@
 * hide `HAOEUD`
 * host `HOEFT`
 * spare `SPAEUR`
+* priests `PRAOEFTS`
 * haste `HAEUFT`
 * rear `RAOER`
 * pipe `PAOEUP`

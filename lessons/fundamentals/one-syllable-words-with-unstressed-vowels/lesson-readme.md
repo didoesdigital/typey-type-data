@@ -14,6 +14,7 @@
 * waves `WAFS`
 * troubled `TRUBLD`
 * rolled `ROLD`
+* rested `REFTD`
 * poured `PORD`
 * parted `PARTD`
 * sources `SORSZ`

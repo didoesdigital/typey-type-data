@@ -2244,7 +2244,7 @@
 * plainly `PHRAEUPBL`
 * risk `REUFBG`
 * ad `A*D`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * angel `APB/SKWREL`
 * rapid `RAPD`
 * distinct `STKEUPBG`
@@ -2310,7 +2310,7 @@
 * weakness `WAEBG/-PBS`
 * furnished `TPURPB/-D`
 * China `KHOEUPB`
-* priests `PRAOEFT/-S`
+* priests `PRAOEFTS`
 * flying `TPHRAOEUG`
 * cloth `KHRO*T`
 * gazed `TKPWAEZ/-D`
@@ -2574,7 +2574,7 @@
 * opposed `PO*EFD`
 * treaty `TRAET`
 * contents `KAUPBTS`
-* rested `REFT/-D`
+* rested `REFTD`
 * mode `PHOED`
 * poured `PORD`
 * les `HRE/-S`

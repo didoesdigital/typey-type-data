@@ -522,7 +522,7 @@
 * came. `KAEUPL TP-PL`
 * And `AFPBD`
 * cold, `KOELD KW-BG`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * fire, `TPAOEUR KW-BG`
 * midnight `PHAOEUPBT`
 * wind `WEUPBD`

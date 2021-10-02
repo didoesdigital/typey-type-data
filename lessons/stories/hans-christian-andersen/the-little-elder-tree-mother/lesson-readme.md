@@ -779,7 +779,7 @@
 * fixed `TPEUFD`
 * girl's `TKPWEURL/AES`
 * against `TKPWEPBS`
-* rested `REFT/-D`
+* rested `REFTD`
 * flight. `TPHRAOEUT TP-PL`
 * "It `KR-GS KPA/T`
 * here `HAOER`

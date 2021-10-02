@@ -390,7 +390,7 @@
 * wiped `WAOEUPD`
 * face `TPAEUS`
 * hands, `HAPBDZ KW-BG`
-* rested `REFT/-D`
+* rested `REFTD`
 * while, `WHAOEUL KW-BG`
 * then `THEPB`
 * drove `TKROEF`

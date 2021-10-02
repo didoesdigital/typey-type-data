@@ -225,7 +225,7 @@
 * mind. `PHAOEUPBD TP-PL`
 * How `KPA/HOU`
 * persons `PERPBS`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * their `THAEUR`
 * way, `WAEU KW-BG`
 * how `HOU`

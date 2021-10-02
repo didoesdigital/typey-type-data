@@ -988,7 +988,7 @@
 * fell. `TPEL TP-PL`
 * Her `KPA/HER`
 * head `HED`
-* rested `REFT/-D`
+* rested `REFTD`
 * dry `TKRAOEU`
 * land, `HRAPBD KW-BG`
 * feet `TPAOET`

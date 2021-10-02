@@ -250,6 +250,7 @@
 * guests `TKPWEFTS`
 * job `SKWROB`
 * loves `HRUFS`
+* lighted `HRAOEUTD`
 * gets `TKPWETS`
 * lights `HRAOEUTS`
 * dared `TKAEURD`

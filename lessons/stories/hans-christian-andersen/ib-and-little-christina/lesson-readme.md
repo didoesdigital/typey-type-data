@@ -1215,7 +1215,7 @@
 * summers `SAOURPLS`
 * bloom; `PWHRAOPL STPH*FPLT`
 * snow `STPHOE`
-* rested `REFT/-D`
+* rested `REFTD`
 * winds `WEUPBDZ`
 * blew `PWHRAOU`
 * sheltered `SHELT/ERD`
@@ -1431,7 +1431,7 @@
 * child," `KHAOEULD KW-BG KR-GS`
 * sighed `SAOEU/-D`
 * she. `SHE TP-PL`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * piece `PAOES`
 * candle `KA*PBLD`
 * threw `THRAOU`

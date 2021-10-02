@@ -335,7 +335,7 @@
 * A `KPA/AEU`
 * holy `HOEUL`
 * calm `KAUPL`
-* rested `REFT/-D`
+* rested `REFTD`
 * face, `TPAEUS KW-BG`
 * earthly `*ERT/HREU`
 * remains `RE/PHAEUPBS`

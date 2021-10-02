@@ -132,7 +132,7 @@
 * tree, `TRAOE KW-BG`
 * find `TPAOEUPBD`
 * hall, `HAUL KW-BG`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * by `PWEU`
 * three `THRAOE`
 * hundred `HUPBD`

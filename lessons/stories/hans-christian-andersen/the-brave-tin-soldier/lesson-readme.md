@@ -651,7 +651,7 @@
 * fault `TPAULT`
 * snuff-box. `STPHUF H-PB PWOBGS TP-PL`
 * flames `TPHRAEUPLS`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * heat `HAOET`
 * terrible, `TERBL KW-BG`
 * proceeded `PROE/SAOED/-D`

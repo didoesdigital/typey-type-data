@@ -32,7 +32,7 @@
 * burn `PWURPB`
 * the `-T`
 * quicker, `KW*EURBG KW-BG`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * with `W`
 * handful `HAPBD/-FL`
 * straw. `STRAU TP-PL`

@@ -302,7 +302,7 @@
 * searched `SEFRPBD`
 * gold. `TKPWOELD TP-PL`
 * They `KPA/THE`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * their `THAEUR`
 * lamps, `HRA*PLS KW-BG`
 * saw `SAU`

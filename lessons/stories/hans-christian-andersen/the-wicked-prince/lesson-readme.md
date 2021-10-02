@@ -225,7 +225,7 @@
 * wished `WEURBD`
 * placed `PHRAEUFD`
 * altars, `AL/TAR/-S KW-BG`
-* priests `PRAOEFT/-S`
+* priests `PRAOEFTS`
 * opposed `PO*EFD`
 * him, `HEUPL KW-BG`
 * saying: `SAEUG STPH-FPLT`

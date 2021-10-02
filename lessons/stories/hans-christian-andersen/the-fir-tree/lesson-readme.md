@@ -584,7 +584,7 @@
 * evening `AOEPBG`
 * come," `KOPL KW-BG KR-GS`
 * tapers `TAEURPS`
-* lighted! `HRAOEUT/-D SKHRAPL`
+* lighted! `HRAOEUTD SKHRAPL`
 * shall `SHAL`
 * happen. `HAP TP-PL`
 * Will `W*EUL`
@@ -606,7 +606,7 @@
 * headache `HAEUBG`
 * us. `US TP-PL`
 * At `KPA/AT`
-* lighted, `HRAOEUT/-D KW-BG`
+* lighted, `HRAOEUTD KW-BG`
 * glistening `TKPWHREUFP/-G`
 * blaze `PWHRAEUZ`
 * light `HRAOEUT`

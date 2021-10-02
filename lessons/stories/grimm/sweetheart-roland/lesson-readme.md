@@ -447,7 +447,7 @@
 * cleaned, `KHRAOEPBD KW-BG`
 * fire `TPAOEUR`
 * hearth `HAERT`
-* lighted, `HRAOEUT/-D KW-BG`
+* lighted, `HRAOEUTD KW-BG`
 * water `WAUR`
 * fetched, `TPEFP/-D KW-BG`
 * noon, `TPHAOPB KW-BG`

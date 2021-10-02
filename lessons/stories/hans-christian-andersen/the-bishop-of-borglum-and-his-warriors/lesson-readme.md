@@ -646,7 +646,7 @@
 * bear `PWAER`
 * horse `HORS`
 * rider, `ROEURD KW-BG`
-* priests `PRAOEFT/-S`
+* priests `PRAOEFTS`
 * men. `PHEPB TP-PL`
 * shortest `SHORT/EFT`
 * waving `WAFG`
@@ -764,7 +764,7 @@
 * midnight. `PHAOEUPBT TP-PL`
 * Christmas. `KREUS/PHAS TP-PL`
 * abated. `A/PWAEUT/-D TP-PL`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * up; `UP STPH*FPLT`
 * gleaming `TKPWHRAOEPL/-G`
 * radiance `RAEUD/KWRAPBS`
@@ -814,7 +814,7 @@
 * First `KPA/TPEUFRT`
 * made. `PHAED TP-PL`
 * slain `SHRAEUPB`
-* priests. `PRAOEFT/-S TP-PL`
+* priests. `PRAOEFTS TP-PL`
 * word `WORD`
 * matter, `PHAERT KW-BG`
 * speak `SPAOEBG`

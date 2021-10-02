@@ -224,7 +224,7 @@
 * Every `KPA/EF`
 * sacred `SKRED`
 * volume `SROL`
-* rested `REFT/-D`
+* rested `REFTD`
 * head, `HED KW-BG`
 * he `HE`
 * known `TPHOEPB`

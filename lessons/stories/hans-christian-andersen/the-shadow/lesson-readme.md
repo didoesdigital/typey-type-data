@@ -197,7 +197,7 @@
 * beneath, `TPHAO*ET KW-BG`
 * tables `TAEUBLS`
 * chairs, `KHAEURS KW-BG`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * candles `KAPBD/-LS`
 * by `PWEU`
 * hundreds, `HUPBS KW-BG`
@@ -827,7 +827,7 @@
 * rooms `RAOPLS`
 * open, `OEP KW-BG`
 * brilliantly `PWREULT/HREU`
-* lighted. `HRAOEUT/-D TP-PL`
+* lighted. `HRAOEUTD TP-PL`
 * blaze `PWHRAEUZ`
 * killed `KEULD`
 * approached `A/PROEFPD`

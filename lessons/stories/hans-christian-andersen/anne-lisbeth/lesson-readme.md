@@ -1394,7 +1394,7 @@
 * chance," `KHAPBS KW-BG KR-GS`
 * happen `HAP`
 * chance? `KHAPBS H-F`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * sun, `SUPB KW-BG`
 * peace `PAES`
 * rest. `REFT/TP-PL`

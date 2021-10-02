@@ -994,7 +994,7 @@
 * hazel-bushes, `HAEUZ/EL H-PB PWURBS KW-BG`
 * nuts `TPHUTS`
 * bunches, `PWUFRPBS KW-BG`
-* rested `REFT/-D`
+* rested `REFTD`
 * woman—Summer `WOPL EPL/TKA*RB KPA/SAOURPL`
 * consort. `KOPB/SORT TP-PL`
 * "See," `KR-GS KPA/SAOE KW-BG KR-GS`

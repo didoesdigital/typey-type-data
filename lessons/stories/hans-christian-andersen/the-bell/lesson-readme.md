@@ -722,7 +722,7 @@
 * disappeared, `TKEUS/PAOERD KW-BG`
 * millions `PH-LS`
 * stars `STARS`
-* lighted; `HRAOEUT/-D STPH*FPLT`
+* lighted; `HRAOEUTD STPH*FPLT`
 * diamond `TKAOEUPLD`
 * lamps `HRA*PLS`
 * arms `ARPLS`

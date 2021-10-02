@@ -758,7 +758,7 @@
 * pleasant `PHREFPBT`
 * evening.' `AOEPBG TP-PL AE`
 * took `TAOBG`
-* lighted `HRAOEUT/-D`
+* lighted `HRAOEUTD`
 * them; `THEPL STPH*FPLT`
 * dear `TKAER`
 * me, `PHE KW-BG`
