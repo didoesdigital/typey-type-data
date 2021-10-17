@@ -373,7 +373,7 @@
 * at `AT`
 * flower. `TPHRO*UR TP-PL`
 * came `KAEUPL`
-* swineherd; `SWAOEUPB/TK-LS/HE*RD STPH*FPLT`
+* swineherd; `SWAOEUPB/TK-LS/H*ERD STPH*FPLT`
 * collecting `KHREBGT/-G`
 * shrubs `SHRUBS`
 * burn `PWURPB`
@@ -431,7 +431,7 @@
 * described `KREUFD`
 * appearance `PAOERPBS`
 * mistaken. `SPHA*EUPB TP-PL`
-* swineherd, `SWAOEUPB/TK-LS/HE*RD KW-BG`
+* swineherd, `SWAOEUPB/TK-LS/H*ERD KW-BG`
 * am `APL`
 * afraid `A/TPRAEUD`
 * I `EU`
@@ -450,7 +450,7 @@
 * Ignorance `KPA/EUG/RAPBS`
 * ignorance `EUG/RAPBS`
 * indeed!" `TPHAOEPBD SKHRAPL KR-GS`
-* swineherd `SWAOEUPB/TK-LS/HE*RD`
+* swineherd `SWAOEUPB/TK-LS/H*ERD`
 * these `THEZ`
 * words `WORDZ`
 * heart, `HART KW-BG`

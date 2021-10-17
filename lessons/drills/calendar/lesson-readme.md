@@ -13,14 +13,14 @@
 * November `TPHOF`
 * December `TKAOES`
 * jan `HRO*ER/SKWRA*PB`
-* feb `TP*/E*/PW*`
+* feb `TP*/*E/PW*`
 * mar `PHAR`
 * apr `A*/P*/R*`
 * may `PHAE`
 * jun `SKWR*/*U/TPH*`
 * jul `SKWR*/*U/HR*`
 * aug `A*/*U/TKPW*`
-* sep `S*/E*/P*`
+* sep `S*/*E/P*`
 * oct `O*/KR*/T*`
 * nov `TPH*/O*/SR*`
 * dec `TK*EBG`

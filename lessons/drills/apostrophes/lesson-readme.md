@@ -334,7 +334,7 @@
 * don't forget `TPOEPBT/TPORGT`
 * friend's `TPREPBD/AES`
 * wasn't in `TPWHAEPBT`
-* friends' `TREPBDS/AE`
+* friends' `TPREPBDZ/AE`
 * treasurer's `TRERB/RER/AES`
 * trompe-l'oeil `TRO*PL/HROEU`
 * trustee's `TRUFT/KWRAE/AES`

@@ -42,7 +42,7 @@
 * si `S*EU`
 * st `S*/T*`
 * un `*U/TPH*`
-* ur `U*/R*`
+* ur `*U/R*`
 * ut `UT`
 * wo `W*/O*`
 * xi `KPEU`

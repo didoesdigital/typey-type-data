@@ -7,7 +7,7 @@
 * belt and braces `PWELT/SKP/PWRAEUS/-S`
 * big and bad `PWEUG/SKP/PWAD`
 * the birds and the bees `-T/PWEURDZ/SKP/-T/PWAOES`
-* bish bash bosh `PW*/EU*/*RB/PWARB/PWO*RB`
+* bish bash bosh `PW*/*EU/*RB/PWARB/PWO*RB`
 * black and blue `PWHRABG/SKP/PWHRU`
 * bold and beautiful `PWOLD/SKP/PWAOUFL`
 * bootleggers and Baptists `PWAOT/HREG/*ER/-S/SKP/PWAPT/EUFT/-S`

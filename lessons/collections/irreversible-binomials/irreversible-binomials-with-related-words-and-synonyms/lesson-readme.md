@@ -14,7 +14,7 @@
 * chapter and verse `KHAPT/SKP/SRERS`
 * this day and age `TH/TKAEU/SKP/AEUPBLG`
 * dollars and cents `TKHRARS/SKP/S-TS`
-* dot the i's and cross the t's `TKOT/-T/EU*/AES/SKP/KROS/-T/T*/AES`
+* dot the i's and cross the t's `TKOT/-T/*EU/AES/SKP/KROS/-T/T*/AES`
 * fear and loathing `TPAOER/SKP/HROET/-G`
 * first and foremost `TPEURS/SKP/TPOER/PHO*ES`
 * hail and farewell `HAEUL/SKP/TPAER/WEL`

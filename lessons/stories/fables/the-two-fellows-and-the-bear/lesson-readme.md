@@ -85,7 +85,7 @@
 * it `T`
 * that `THA`
 * Master `KPA/PHAFRT`
-* Bruin `PB*P/R*/*U/*EU/TPH*`
+* Bruin `PW*P/R*/*U/*EU/TPH*`
 * whispered `WHEUS/PERD`
 * you?" `U H-F KR-GS`
 * "He `KR-GS KPA/HE`

@@ -295,7 +295,7 @@
 * Thus `KPA/THUS`
 * appointed `POEUPBD`
 * imperial `EUPL/PAOERL`
-* swineherd, `SWAOEUPB/TK-LS/HE*RD KW-BG`
+* swineherd, `SWAOEUPB/TK-LS/H*ERD KW-BG`
 * wretchedly `WREFPD/HREU`
 * small `SPHAL`
 * room `RAOPL`
@@ -362,7 +362,7 @@
 * "He `KR-GS KPA/HE`
 * must `PHUFT`
 * well-educated `W*EL TAEUBGTD`
-* swineherd. `SWAOEUPB/TK-LS/HE*RD TP-PL`
+* swineherd. `SWAOEUPB/TK-LS/H*ERD TP-PL`
 * Go `KPA/TKPW`
 * ask `SK`
 * instrument `STRUPLT`
@@ -408,7 +408,7 @@
 * ladies." `HRAEUDZ TP-PL KR-GS`
 * "No, `KR-GS KPA/TPHO KW-BG`
 * thank `THAPBG`
-* swineherd: `SWAOEUPB/TK-LS/HE*RD STPH-FPLT`
+* swineherd: `SWAOEUPB/TK-LS/H*ERD STPH-FPLT`
 * "ten `KR-GS TEPB`
 * or `OR`
 * keep `KAOEP`
@@ -427,7 +427,7 @@
 * their `THAEUR`
 * dresses, `TKRES/-S KW-BG`
 * gave `TKPWAEUF`
-* swineherd `SWAOEUPB/TK-LS/HE*RD`
+* swineherd `SWAOEUPB/TK-LS/H*ERD`
 * received `SAOEFD`
 * pleasure! `PHRERB SKHRAPL`
 * Day `KPA/TKAEU`
@@ -458,12 +458,12 @@
 * "Of `KR-GS KPA/-F`
 * course `KORS`
 * not," `TPHOT KW-BG KR-GS`
-* swineherd—that `SWAOEUPB/TK-LS/HE*RD EPL/TKA*RB THA`
+* swineherd—that `SWAOEUPB/TK-LS/H*ERD EPL/TKA*RB THA`
 * say, `SAEU KW-BG`
 * prince—but `PREUPBS EPL/TKA*RB PWUT`
 * otherwise `O*ERZ`
 * real `RAEL`
-* swineherd—did `SWAOEUPB/TK-LS/HE*RD EPL/TKA*RB TK`
+* swineherd—did `SWAOEUPB/TK-LS/H*ERD EPL/TKA*RB TK`
 * waste `WAEFT`
 * without `WOUT`
 * doing `TK*G`
