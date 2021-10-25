@@ -31,6 +31,7 @@
 * do `TKO`
 * as `AZ`
 * Romans `RO*EPBS`
+* do. `TKO TP-PL`
 * cat's `KAT AES`
 * away `WA*EU`
 * mice `PHAOEUS`
