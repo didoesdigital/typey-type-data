@@ -135,7 +135,7 @@
 * outside `OUDZ`
 * van `SRAPB`
 * discharges, `TKEUS/KHAPBLGS KW-BG`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * Thingummy `xxx Thingummy`
 * drinks `TKREUS`
 * tea `TAE`

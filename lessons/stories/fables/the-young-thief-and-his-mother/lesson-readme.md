@@ -16,7 +16,7 @@
 * condemned `KAUPB/TKEPL/-D`
 * to `TO`
 * be `-B`
-* executed `SKAOUTD`
+* executed `SKAOUT/-D`
 * for `TPOR`
 * it. `T TP-PL`
 * He `KPA/HE`

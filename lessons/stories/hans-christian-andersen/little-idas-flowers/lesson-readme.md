@@ -649,7 +649,7 @@
 * piano `PAPB/TPHOE`
 * remembered `RERD`
 * saying `SAEUG`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * Lina, `HR*EUPB/KWRA KW-BG`
 * friends. `TPREPBDZ TP-PL`
 * laughed `HRAFD`

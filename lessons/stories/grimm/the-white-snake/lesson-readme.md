@@ -183,7 +183,7 @@
 * should `SHO`
 * looked `HRAOBGD`
 * guilty `TKPW-LT`
-* executed. `SKAOUTD TP-PL`
+* executed. `SKAOUT/-D TP-PL`
 * In `KPA/TPH`
 * vain `SRA*EUPB`
 * declared `TKE/KHRAEURD`

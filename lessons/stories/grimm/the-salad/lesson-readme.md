@@ -429,7 +429,7 @@
 * do. `TKO TP-PL`
 * belonged `PWHROPBGD`
 * fierce `TPAOERS`
-* giants `SKWRAOEUPBTS`
+* giants `SKWRAOEUPBT/-S`
 * lived `HREUFD`
 * it; `T STPH*FPLT`
 * three `THRAOE`

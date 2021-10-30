@@ -692,7 +692,7 @@
 * saying `SAEUG`
 * travelled `TRAFL/*LD`
 * three `THRAOE`
-* giants `SKWRAOEUPBTS`
+* giants `SKWRAOEUPBT/-S`
 * sharing `SHAEURG`
 * goods; `TKPWAODZ STPH*FPLT`
 * cried `KRAOEUD`

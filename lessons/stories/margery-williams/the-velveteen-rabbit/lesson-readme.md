@@ -754,7 +754,7 @@
 * still!" `STEUL SKHRAPL KR-GS`
 * longing `HROPBG/-G`
 * funny `TPAOUPB`
-* tickly `TEUBG/HREU`
+* tickly `TEUBG/TK-LS/HREU`
 * feeling `TPAOELG`
 * give `TKPWEUF`
 * world `WORLD`

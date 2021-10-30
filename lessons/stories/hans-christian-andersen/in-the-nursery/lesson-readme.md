@@ -378,7 +378,7 @@
 * way. `WAEU TP-PL`
 * Just `KPA/SKWRUFT`
 * look `HRAOBG`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * Glove, `KPA/TKPWHROF KW-BG`
 * she's `SHAOES`
 * pointing `POEUPBGT`

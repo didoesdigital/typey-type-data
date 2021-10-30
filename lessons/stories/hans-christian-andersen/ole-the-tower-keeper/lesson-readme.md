@@ -1384,7 +1384,7 @@
 * true. `TRAOU TP-PL`
 * lord `HRORD`
 * constable `KAUPB/STABL`
-* executed, `SKAOUTD KW-BG`
+* executed, `SKAOUT/-D KW-BG`
 * execute `SKAOUT`
 * wrong; `WROPBG STPH*FPLT`
 * innocent `TPH-PBT`

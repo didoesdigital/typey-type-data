@@ -709,7 +709,7 @@
 * more," `PHOR KW-BG KR-GS`
 * replied `RE/PHRAOEUD`
 * looking `HRAOG`
-* crossly `KROS/HREU`
+* crossly `KROS/TK-LS/HREU`
 * is `S`
 * something `S-G`
 * do `TKO`

@@ -777,7 +777,7 @@
 * her? `HER H-F`
 * Ah! `KPA/HA*E SKHRAPL`
 * dear `TKAER`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * Charlotte, `KHARL/OT KW-BG`
 * do `TKO`
 * lend `HREPBD`

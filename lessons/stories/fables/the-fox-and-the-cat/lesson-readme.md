@@ -89,7 +89,7 @@
 * soon `SAOPB`
 * killed `KEULD`
 * huntsmen. `HUPBTS/PH*EPB TP-PL`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * Puss, `KPA/PUSZ KW-BG`
 * who `WHO`
 * had `H`

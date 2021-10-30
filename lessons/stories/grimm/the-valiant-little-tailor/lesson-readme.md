@@ -553,7 +553,7 @@
 * followed `TPOLD`
 * cave, `KAEUF KW-BG`
 * other `OER`
-* giants `SKWRAOEUPBTS`
+* giants `SKWRAOEUPBT/-S`
 * fire, `TPAOEUR KW-BG`
 * them `THEPL`
 * roasted `ROEFT/-D`
@@ -730,7 +730,7 @@
 * country `KREU`
 * lived `HREUFD`
 * two `TWO`
-* giants, `SKWRAOEUPBTS KW-BG`
+* giants, `SKWRAOEUPBT/-S KW-BG`
 * mischief `PHEUS/KHEF`
 * robbing, `ROB/-G KW-BG`
 * murdering, `PHURD/-G KW-BG`
@@ -781,12 +781,12 @@
 * 'Just `AE KPA/SKWRUFT`
 * waiting `WAEUGT`
 * alone `A/HROEPB`
-* giants.' `SKWRAOEUPBTS TP-PL AE`
+* giants.' `SKWRAOEUPBT/-S TP-PL AE`
 * bounded `PWOUPBD/-D`
 * left. `HREFT TP-PL`
 * while `WHAOEUL`
 * perceived `SPAOEFD`
-* giants. `SKWRAOEUPBTS TP-PL`
+* giants. `SKWRAOEUPBT/-S TP-PL`
 * sleeping `SHRAOEPG`
 * snored `STPHAUR/-D`
 * waved `WAFD`

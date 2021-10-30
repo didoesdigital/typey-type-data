@@ -1448,4 +1448,4 @@
 * cheer `KHAOER`
 * more. `PHOR TP-PL`
 * festivities, `TPEFT/EUFT/TEU/-S KW-BG`
-* executed. `SKAOUTD TP-PL`
+* executed. `SKAOUT/-D TP-PL`

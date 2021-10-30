@@ -542,7 +542,7 @@
 * elevate `HR-FT`
 * crush `KRURB`
 * him. `HEUPL TP-PL`
-* executed `SKAOUTD`
+* executed `SKAOUT/-D`
 * marble," `PHAERBL KW-BG KR-GS`
 * wealthy `WEL/TH*EU`
 * patrician. `PA/TREUGS TP-PL`
@@ -623,7 +623,7 @@
 * lines `HRAOEUPBS`
 * made, `PHAED KW-BG`
 * mechanical `PHEBG/K-L`
-* executed, `SKAOUTD KW-BG`
+* executed, `SKAOUT/-D KW-BG`
 * till `TEUL`
 * gradually `TKPWRAD/WAEL`
 * stone `STOEPB`

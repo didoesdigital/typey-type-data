@@ -11,7 +11,7 @@
 * Madam `PHAD/APL`
 * maid `PHAEUD`
 * master `PHAFRT`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * Mr. `PHR-FPLT`
 * Mrs. `PHR-S`
 * Mr. and Mrs. `PHRARPLS`

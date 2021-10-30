@@ -406,7 +406,7 @@
 * stepped `STEPD`
 * She `KPA/SHE`
 * herself `H*ERS`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * MAY. `*URP/PHAE TP-PL`
 * wore `WOR`
 * dress `TKRES`

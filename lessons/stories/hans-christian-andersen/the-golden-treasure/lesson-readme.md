@@ -806,7 +806,7 @@
 * houses, `HO*UFS KW-BG`
 * burgomaster's `xxx burgomaster AES`
 * gives `TKPWEUFS`
-* Miss `PH*EUS`
+* Miss `PH*EUS/S-P`
 * Charlotte `KHARL/OT`
 * piano-forte `PAPB/TPHOE H-PB TPOR/TAEU`
 * lessons." `HROEFPBS TP-PL KR-GS`

@@ -408,7 +408,7 @@
 * groping `TKPWROEPG`
 * grass, `TKPWRAS KW-BG`
 * toes `TO*ES`
-* Giants? `KPA/SKWRAOEUPBTS H-F`
+* Giants? `KPA/SKWRAOEUPBT/-S H-F`
 * As `KPA/AS`
 * which `WEU`
 * are `R`
