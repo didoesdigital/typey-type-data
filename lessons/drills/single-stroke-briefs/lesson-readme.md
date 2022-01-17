@@ -2069,7 +2069,7 @@
 * drainage `TKRAEPBG`
 * drake `TKRAEUBG`
 * dram `TKRAPL`
-* dramatic `TKRA*BG`
+* dramatic `TKRABG`
 * drank `TKRA*PBG`
 * drape `TKRAEUP`
 * draped `TKRAEUPD`

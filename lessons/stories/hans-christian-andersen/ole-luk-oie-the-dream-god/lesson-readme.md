@@ -729,7 +729,7 @@
 * silent, `SHREPBT KW-BG`
 * thought `THAUT`
 * home `HOEPL`
-* Africa. `AFR/KA TP-PL`
+* Africa. `AFRBG TP-PL`
 * "Those `KR-GS KPA/THOZ`
 * handsome `HAPBD/SO*PL`
 * thin `THEUPB`

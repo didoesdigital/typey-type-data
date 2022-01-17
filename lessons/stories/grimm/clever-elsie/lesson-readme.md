@@ -45,7 +45,7 @@
 * Hans; `HAPBS STPH*FPLT`
 * but `PWUT`
 * he `HE`
-* stipulated `STEUP/HRAEUT/-D`
+* stipulated `STEUP/HRAEUTD`
 * that `THA`
 * Elsie `EL/SEU`
 * should `SHO`

@@ -246,7 +246,7 @@
 * fights, `TPAOEUTS KW-BG`
 * give `TKPWEUF`
 * balls. `PWAULS TP-PL`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * box; `PWOBGS STPH*FPLT`
 * wanted `WAPBTD`
 * get `TKPWET`

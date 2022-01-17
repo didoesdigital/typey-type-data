@@ -28,7 +28,7 @@
 * long `HROPBG`
 * red `RED`
 * legs `HREGS`
-* chattered `KHAT/ERD`
+* chattered `KHAERTD`
 * Egyptian `AOE/SKWREUPGS`
 * language, `HRAPBLG KW-BG`
 * which `WEU`
@@ -742,7 +742,7 @@
 * lay `HRAEU`
 * still, `STEUL KW-BG`
 * shot `SHOT`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * through `THRU`
 * gun `TKPW-PB`
 * fired `TPAOEURD`

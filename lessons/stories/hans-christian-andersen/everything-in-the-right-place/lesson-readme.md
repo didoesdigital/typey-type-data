@@ -117,7 +117,7 @@
 * riding `RAOEUD/-G`
 * past `PAFT`
 * goose-girl, `TKPWAOS H-PB TKPWEURL KW-BG`
-* reversed `RE/SRERS/-D`
+* reversed `R*EFRS/-D`
 * his `HEUS`
 * crop, `KROP KW-BG`
 * rough `RUF`

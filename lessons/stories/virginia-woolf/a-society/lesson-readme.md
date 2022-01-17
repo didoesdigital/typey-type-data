@@ -1386,7 +1386,7 @@
 * discussed, `STKUFD KW-BG`
 * rule `RAOUL`
 * India, `EUPBD/KWRA KW-BG`
-* Africa `AFR/KA`
+* Africa `AFRBG`
 * Ireland. `AOEURLD TP-PL`
 * noticed `TPH-TS/-D`
 * uneasiness. `UPB/EZ/-PBS TP-PL`

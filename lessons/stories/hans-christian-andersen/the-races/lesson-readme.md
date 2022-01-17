@@ -221,7 +221,7 @@
 * myself. `PHAO*EUS TP-PL`
 * But `KPA/PWUT`
 * do `TKO`
-* chattering `KHAT/ERG`
+* chattering `KHAERGT`
 * boasting; `PWOEFT/-G STPH*FPLT`
 * contrary, `KRAER KW-BG`
 * despise `STKPAOEUZ`

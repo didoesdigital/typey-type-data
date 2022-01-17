@@ -853,7 +853,7 @@
 * whereas `WRAS`
 * till `TEUL`
 * limp `HREUFRP`
-* horribly, `HOR/PWHREU KW-BG`
+* horribly, `HORBL/KWREU KW-BG`
 * certain `SERPB`
 * sidling `SAOEUD/HREUPBG`
 * air, `AEUR KW-BG`

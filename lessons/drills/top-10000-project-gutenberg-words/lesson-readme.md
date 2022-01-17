@@ -2549,7 +2549,7 @@
 * pen `PEPB`
 * entering `SPWR-G`
 * online `AUPB/HRAOEUPB`
-* Africa `AFR/KA`
+* Africa `AFRBG`
 * permit `PERPLT`
 * th' `T*/H*/AE`
 * tide `TAOEUD`
@@ -3785,7 +3785,7 @@
 * Polly `POL/HREU`
 * recorded `RORD/-D`
 * modification `PHOD/KAEUGS`
-* dramatic `TKRA*BG`
+* dramatic `TKRABG`
 * statements `STAEUPLTS`
 * upstairs `AUP/STAEURS`
 * varied `SRAERD`

@@ -245,7 +245,7 @@
 * King's `KO*EUPBG AES`
 * face, `TPAEUS KW-BG`
 * King `KO*EUPBG`
-* horribly `HOR/PWHREU`
+* horribly `HORBL/KWREU`
 * rude. `RAOUD TP-PL`
 * stood `STAOD`
 * long `HROPBG`

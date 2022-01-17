@@ -617,7 +617,7 @@
 * flowers? `TPHRO*URS H-F`
 * another, `TPHOER KW-BG`
 * prettiest `PRET/KWREFT`
-* rarest.' `RAEUR/*ES TP-PL AE`
+* rarest.' `RAEUR/EFT TP-PL AE`
 * no,' `TPHO KW-BG AE`
 * replied `RE/PHRAOEUD`
 * 'the `AE -T`

@@ -580,7 +580,7 @@
 * come `KOPL`
 * embalmed `EPL/PWAUPL/-D`
 * sage `SAEUPBLG`
-* onions `OPB/KWROPBS`
+* onions `OPB/KWR-PBS`
 * apples." `APLS TP-PL KR-GS`
 * So `KPA/SO`
 * herself `H*ERS`

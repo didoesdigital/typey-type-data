@@ -194,7 +194,7 @@
 * Thespis `xxx Thespis`
 * sat `SAT`
 * guise `TKPWAOEUZ`
-* chattering `KHAT/ERG`
+* chattering `KHAERGT`
 * raven, `RAFPB KW-BG`
 * flapped `TPHRAPD`
 * black `PWHRABG`

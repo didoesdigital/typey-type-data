@@ -406,7 +406,7 @@
 * walk `WAUBG`
 * move `PHOF`
 * about, `PW KW-BG`
-* rattled. `RAT/-LD TP-PL`
+* rattled. `RA*LTD TP-PL`
 * he: `HE STPH-FPLT`
 * 'What `AE KPA/WHA`
 * rumbles `RUPL/-BLS`

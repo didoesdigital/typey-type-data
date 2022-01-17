@@ -303,7 +303,6 @@
 * remarks `RARBG/-S`
 * empire `EPL/PAOEUR`
 * online `AUPB/HRAOEUPB`
-* Africa `AFR/KA`
 * maintain `PHAEUPB/TAEUPB`
 * generation `SKWREPB/RAEUGS`
 * limitation `HREUPL/TAEUGS`

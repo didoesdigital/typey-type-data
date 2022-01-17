@@ -29,7 +29,7 @@
 * He `KPA/HE`
 * that `THA`
 * goes `TKPW-S`
-* a-borrowing, `AEU H-PB PWO*ERPBG KW-BG`
+* a-borrowing, `AEU H-PB PWO*ERG KW-BG`
 * a-sorrowing. `AEU H-PB SROE/-G TP-PL`
 * who `WHO`
 * can, `K KW-BG`

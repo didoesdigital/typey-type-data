@@ -102,7 +102,7 @@
 * imagined. `PHAPBLGD TP-PL`
 * Their `KPA/THAEUR`
 * colours `KHRORS/A*U`
-* patterns, `PAT/ERPBS KW-BG`
+* patterns, `PAERPBS KW-BG`
 * said, `SED KW-BG`
 * exceptionally `SEPBGS/HREU`
 * beautiful, `PWAOUFL KW-BG`

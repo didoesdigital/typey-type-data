@@ -455,7 +455,7 @@
 * hungry `HUPBG/REU`
 * weary; `WAOE/REU STPH*FPLT`
 * Peter, `PAOERT KW-BG`
-* horribly `HOR/PWHREU`
+* horribly `HORBL/KWREU`
 * bemired; `xxx bemired STPH*FPLT`
 * me `PHE`
 * clean `KHRAOEPB`

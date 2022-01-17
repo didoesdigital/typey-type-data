@@ -342,7 +342,7 @@
 * silk `S*EULG`
 * gowns; `TKPWOUPBS STPH*FPLT`
 * armor `AR/PHOR`
-* rattled, `RAT/-LD KW-BG`
+* rattled, `RA*LTD KW-BG`
 * dresses `TKRES/-S`
 * rustled. `RUS/-LD TP-PL`
 * went `WEPBT`
@@ -664,7 +664,7 @@
 * Tanta-ra-ra." `KPA/TAPBT/SKWRA H-PB HRO*ER/RA H-PB HRO*ER/RA TP-PL KR-GS`
 * swords `SOERDZ`
 * knight's `TPHAO*EUT AES`
-* rattled. `RAT/-LD TP-PL`
+* rattled. `RA*LTD TP-PL`
 * rustled, `RUS/-LD KW-BG`
 * repeated `RE/PAOETD`
 * rhyme, `RAOEUPL KW-BG`
@@ -934,7 +934,7 @@
 * assembled `A/SEPL/-BLD`
 * dozens `TKOZ/-Z`
 * vines, `SRAOEUPBS KW-BG`
-* chattered `KHAT/ERD`
+* chattered `KHAERTD`
 * together `TOGT`
 * house; `HOUS STPH*FPLT`
 * remember `RER`

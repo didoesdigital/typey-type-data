@@ -214,7 +214,7 @@
 * esteemed `ES/TAOEPLD`
 * all. `AUL TP-PL`
 * oldest `OELD/EFT`
-* residents `R*EPBTS`
+* residents `REPBLTS`
 * possessed `POS/ES/-D`
 * ton `TOPB`
 * gold, `TKPWOELD KW-BG`

@@ -692,7 +692,7 @@
 * men-servants `PHEPB H-PB SER/SRAPBTS`
 * singing `SEUPBG/-G`
 * songs, `SOPBGS KW-BG`
-* rattling `RAT/-LG`
+* rattling `RA*LGT`
 * dance,—when `TKAPBS KW-BG EPL/TKA*RB WHEPB`
 * maiden `PHAEUD/*EPB`
 * kiss, `KEUS KW-BG`

@@ -103,7 +103,7 @@
 * positive emotions `PEUF/AO*EGS/-S`
 * pro-social behavior `PROE/H-PB/SOERBL/PWAEUFR`
 * pro-social behaviour `PROE/H-PB/SOERBL/PWAEUFR/A*U`
-* co-operation `KRO/PRAEUGS`
+* co-operation `KOE/PRAEUGS`
 * survey `SOEUF`
 * impact `EUPL/PABGT`
 * communication `KAEUBGS`

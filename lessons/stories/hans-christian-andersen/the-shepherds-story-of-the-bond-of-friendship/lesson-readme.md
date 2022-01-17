@@ -550,7 +550,7 @@
 * prison; `PREUZ STPH*FPLT`
 * worse `WORS`
 * gave `TKPWAEUF`
-* onions `OPB/KWROPBS`
+* onions `OPB/KWR-PBS`
 * musty `PHUS/TEU`
 * wine `WAOEUPB`
 * tarred `TARD`

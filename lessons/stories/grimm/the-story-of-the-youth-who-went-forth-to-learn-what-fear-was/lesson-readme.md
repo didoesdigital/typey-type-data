@@ -797,7 +797,7 @@
 * longer `HRORPBG`
 * move, `PHOF KW-BG`
 * yelled `KWRELD`
-* horribly, `HOR/PWHREU KW-BG`
+* horribly, `HORBL/KWREU KW-BG`
 * got `TKPWOT`
 * pulled `PULD`
 * pieces, `PAOEFS KW-BG`

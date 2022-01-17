@@ -258,7 +258,7 @@
 * roses; `ROES/-S STPH*FPLT`
 * herself `H*ERS`
 * finest `TPAOEUPB/EFT`
-* petal, `PET/TAL KW-BG`
+* petal, `PET/A*L KW-BG`
 * beams `PWAOEPLS`
 * joy, `SKWROEU KW-BG`
 * joy `SKWROEU`

@@ -934,7 +934,7 @@
 * bright `PWRAOEUT`
 * eyes, `AO*EUS KW-BG`
 * peeping `PAOEPG`
-* petals, `PET/TAL/-S KW-BG`
+* petals, `PET/TALS KW-BG`
 * whispering, `WHEUS/PERG KW-BG`
 * spring, `SPREUPBG KW-BG`
 * autumn, `AU/UPL KW-BG`

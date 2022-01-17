@@ -618,7 +618,7 @@
 * good `TKPWAOD`
 * beginning. `TKPWEUPB/-G TP-PL`
 * plates `PHRAEUTS`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * pleasure, `PHRERB KW-BG`
 * carpet-broom `KARPT H-PB PWRAOPL`
 * parsley `PARS/HREU`

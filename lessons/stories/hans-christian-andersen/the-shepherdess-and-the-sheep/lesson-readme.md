@@ -274,7 +274,7 @@
 * "To-night `KR-GS KPA/TO H-PB TPHAOEUT`
 * soon `SAOPB`
 * hear `HAER`
-* rattling `RAT/-LG`
+* rattling `RA*LGT`
 * cupboard, `KUP/PWAORD KW-BG`
 * married, `PHAERD KW-BG`
 * true `TRAOU`

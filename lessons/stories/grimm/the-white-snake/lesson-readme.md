@@ -134,7 +134,7 @@
 * noticed `TPH-TS/-D`
 * sparrows `SPAEUR/ROE/-S`
 * were `WR`
-* chattering `KHAT/ERG`
+* chattering `KHAERGT`
 * together, `TOGT KW-BG`
 * telling `TELG`
 * another `TPHOER`
@@ -183,7 +183,7 @@
 * should `SHO`
 * looked `HRAOBGD`
 * guilty `TKPW-LT`
-* executed. `SKAOUT/-D TP-PL`
+* executed. `SKAOUTD TP-PL`
 * In `KPA/TPH`
 * vain `SRA*EUPB`
 * declared `TKE/KHRAEURD`

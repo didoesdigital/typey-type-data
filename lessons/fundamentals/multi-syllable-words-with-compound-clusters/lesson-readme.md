@@ -52,6 +52,7 @@
 * notion `TPHOEGS`
 * discussion `SKUGS`
 * constitution `TAOUGS`
+* Africa `AFRBG`
 * sovereign `SOFRPB`
 * profession `PREFGS`
 * devotion `TKWOEGS`

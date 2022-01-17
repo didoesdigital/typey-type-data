@@ -138,7 +138,7 @@
 * father, `TPAER KW-BG`
 * would `WO`
 * have `SR`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * off; `OF STPH*FPLT`
 * wife `WAOEUF`
 * governed `TKPWOFRPBD`

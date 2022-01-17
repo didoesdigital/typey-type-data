@@ -26,7 +26,7 @@
 * red `RED`
 * blue `PWHRU`
 * yellow `KWREL/OE`
-* petals `PET/TAL/-S`
+* petals `PET/TALS`
 * marked `PHARBGD`
 * with `W`
 * spots `SPOTS`

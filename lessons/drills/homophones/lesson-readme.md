@@ -321,7 +321,7 @@
 * feudal `TPAOU/TKAL`
 * futile `TPAOU/TEUL`
 * find `TPAOEUPBD`
-* fined `TPAOEUPB/-D`
+* fined `TPAO*EUPBD`
 * finish `TP*EURB`
 * Finnish `TP*EUPB/EURB`
 * fir `TPEUR`
@@ -646,7 +646,7 @@
 * purl `PURL`
 * pedal `P*ELD`
 * peddle `PED/*L`
-* petal `PET/TAL`
+* petal `PET/A*L`
 * peer `PAOER`
 * pier `PAO*ER`
 * penance `PEPB/TPHAPBS`
@@ -726,7 +726,7 @@
 * reek `RAOEBG`
 * wreak `WRAOEBG`
 * residence `R*EPBS`
-* residents `R*EPBTS`
+* residents `REPBLTS`
 * rest `REFT`
 * wrest `WREFT`
 * retch `REFP`

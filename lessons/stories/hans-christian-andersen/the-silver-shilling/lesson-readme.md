@@ -119,7 +119,7 @@
 * me `PHE`
 * now!" `TPHOU SKHRAPL KR-GS`
 * jumped `SKWR*UPLD`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * joy, `SKWROEU KW-BG`
 * put `PUT`
 * back `PWABG`

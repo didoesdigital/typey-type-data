@@ -300,7 +300,7 @@
 * discounted `SKOUPBT/-D`
 * illusion. `EUL/HRAOUGS TP-PL`
 * So `KPA/SO`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * Surrey `xxx Surrey`
 * across `KRAOS`
 * border `PWRORD`

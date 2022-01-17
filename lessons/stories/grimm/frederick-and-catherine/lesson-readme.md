@@ -631,7 +631,7 @@
 * haste `HAEUFT`
 * throw `THROE`
 * down, `TKOUPB KW-BG`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * among `PHOPBG`
 * boughs `PWO*U/-S`
 * cried, `KRAOEUD KW-BG`

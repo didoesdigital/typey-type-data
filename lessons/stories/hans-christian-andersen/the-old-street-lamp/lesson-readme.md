@@ -920,7 +920,7 @@
 * to-day `TO TKA*EU`
 * honor `HO*RPB`
 * man." `PHAPB TP-PL KR-GS`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * metal `PH*ELT`
 * frame, `TPRAEUPL KW-BG`
 * thought, `THAUT KW-BG`

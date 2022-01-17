@@ -163,7 +163,7 @@
 * mortified `PHORT/TPAOEUD`
 * feel! `TPAOEL SKHRAPL`
 * Two `KPA/TWO`
-* winters `WEUPBT/ERS`
+* winters `WEURPBTS`
 * passed, `PAFD KW-BG`
 * third `THEURD`
 * arrived, `A/RAOEUFD KW-BG`

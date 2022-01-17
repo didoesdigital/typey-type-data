@@ -1244,7 +1244,7 @@
 * everything `EFRG`
 * contained, `KAUPB/TAEUPBD KW-BG`
 * pocket. `POBGT TP-PL`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * windows, `WOEUPBDZ KW-BG`
 * beat `PWAET`
 * against `TKPWEPBS`

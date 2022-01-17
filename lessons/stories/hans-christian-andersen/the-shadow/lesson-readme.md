@@ -616,7 +616,7 @@
 * easily `AOELS`
 * so." `SO TP-PL KR-GS`
 * spoke `SPOEBG`
-* rattled `RAT/-LD`
+* rattled `RA*LTD`
 * between `TWAOEPB`
 * fingers `TPEURPBGS`
 * number `TPHUPL`
@@ -1448,4 +1448,4 @@
 * cheer `KHAOER`
 * more. `PHOR TP-PL`
 * festivities, `TPEFT/EUFT/TEU/-S KW-BG`
-* executed. `SKAOUT/-D TP-PL`
+* executed. `SKAOUTD TP-PL`

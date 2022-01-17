@@ -189,7 +189,7 @@
 * about. `PW TP-PL`
 * Off `KPA/OF`
 * went `WEPBT`
-* chattering `KHAT/ERG`
+* chattering `KHAERGT`
 * away; `WA*EU STPH*FPLT`
 * fell `TPEL`
 * dead, `TKED KW-BG`

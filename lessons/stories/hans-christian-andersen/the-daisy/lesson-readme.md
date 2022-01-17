@@ -58,7 +58,7 @@
 * quite `KWAOEUT`
 * opened, `OEPD KW-BG`
 * snow-white `STPHOE/WHAO*EUT`
-* petals `PET/TAL/-S`
+* petals `PET/TALS`
 * round `ROUPBD`
 * yellow `KWREL/OE`
 * centre, `STR/A*U KW-BG`
@@ -332,7 +332,7 @@
 * At `KPA/AT`
 * sunset `SAUPB/SET`
 * folded `TPOELD/-D`
-* petals, `PET/TAL/-S KW-BG`
+* petals, `PET/TALS KW-BG`
 * fell `TPEL`
 * asleep, `A/SHRAOEP KW-BG`
 * dreamt `TKREPLT`

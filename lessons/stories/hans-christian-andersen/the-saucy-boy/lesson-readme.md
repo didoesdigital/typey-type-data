@@ -80,7 +80,7 @@
 * whilst `WHAOEULS`
 * down `TKOUPB`
 * wind `WEUPBD`
-* rattling `RAT/-LG`
+* rattling `RA*LGT`
 * all `AUL`
 * windows. `WOEUPBDZ TP-PL`
 * "Poor `KR-GS KPA/PAOR`

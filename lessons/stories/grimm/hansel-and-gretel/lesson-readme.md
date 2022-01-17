@@ -826,7 +826,7 @@
 * Oh! `KPA/O*ERBGS SKHRAPL`
 * howl `HOUL`
 * quite `KWAOEUT`
-* horribly, `HOR/PWHREU KW-BG`
+* horribly, `HORBL/KWREU KW-BG`
 * ran `RAPB`
 * godless `TKPWOD/-LS`
 * miserably `PHEUZ/RAEBL`
