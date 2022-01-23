@@ -244,7 +244,7 @@
 * age, `AEUPBLG KW-BG`
 * besides `PW-DZ`
 * building `PW-LG`
-* storey `STOR/TK-LS/KWREU`
+* storey `STOER/A*U`
 * genius." `SKWRAOEPB/KWROUS TP-PL KR-GS`
 * "But `KR-GS KPA/PWUT`
 * supposing `SPOEFG`

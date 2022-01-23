@@ -66,7 +66,7 @@
 * himself `HEUPLS`
 * in `TPH`
 * upper `AOURP`
-* storey `STOR/TK-LS/KWREU`
+* storey `STOER/A*U`
 * house `HOUS`
 * came `KAEUPL`
 * in; `TPH STPH*FPLT`

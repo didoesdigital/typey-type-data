@@ -830,7 +830,7 @@
 * steel `STAOEL`
 * step `STEP`
 * steppe `xxx steppe`
-* storey `STOR/TK-LS/KWREU`
+* storey `STOER/A*U`
 * story `STOER`
 * straight `STRAEUT`
 * strait `STRA*EUT`
