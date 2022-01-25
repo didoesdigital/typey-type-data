@@ -3593,7 +3593,7 @@
 * planted `PHRAPBT/-D`
 * paint `PAEUPBT`
 * surrender `SREPBD/UR`
-* establish `SAEBL`
+* establish `STAEB`
 * mild `PHAOEULD`
 * promptly `PROPLT/HREU`
 * appearing `A/PAOERG`
