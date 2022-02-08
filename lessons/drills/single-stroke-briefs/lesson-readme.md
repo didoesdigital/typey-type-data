@@ -102,7 +102,7 @@
 * allege `AELG`
 * alleged `ALGD`
 * allergen `HR*EPB`
-* allergic `HRERBG`
+* allergic `HR-RBG`
 * allergies `HRERPBLGS`
 * allergy `HRERPBLG`
 * allocate `KHRA*EUT`

@@ -692,7 +692,7 @@
 * knees, `TPHAOEZ KW-BG`
 * tied `TAO*EUD`
 * almost `HR-PL`
-* pores. `POER/-S TP-PL`
+* pores. `PO*RS TP-PL`
 * "You `KR-GS KPA/U`
 * killing `KEULG`
 * man," `PHAPB KW-BG KR-GS`

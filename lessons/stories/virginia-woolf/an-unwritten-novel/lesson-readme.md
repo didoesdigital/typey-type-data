@@ -1579,7 +1579,7 @@
 * Paul's `PAUL AES`
 * motor-omnibuses. `PHOERT H-PB OPL/TPHEU/PWUS/-S TP-PL`
 * we're `WAOER`
-* brushing `PWRURB/-G`
+* brushing `PWRURBG`
 * crumbs `KRUPLS`
 * off. `OF TP-PL`
 * Moggridge, `xxx Moggridge KW-BG`
