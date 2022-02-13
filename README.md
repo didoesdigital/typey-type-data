@@ -22,3 +22,9 @@ This project is licensed under GPL-2.0, as shown in [LICENSE](./LICENSE). The fo
 - [Plover’s Main Dictionary Oct 5, 2016](./dictionaries/plover/main-5-oct-2016.json)
 - [Plover’s Commands Dictionary Jun 3, 2018 (latest)](./dictionaries/plover/commands-3-jun-2018.json)
 
+## Related repos
+
+- [Typey Type](https://github.com/didoesdigital/typey-type)
+- [Di's steno dictionaries](https://github.com/didoesdigital/steno-dictionaries)
+- [Stenoboard diagram SVG to React](https://github.com/didoesdigital/typey-type-stenoboard-diagram-svg-to-react)
+
