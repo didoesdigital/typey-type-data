@@ -650,7 +650,7 @@
 * remembered `RERD`
 * saying `SAEUG`
 * Miss `PH*EUS/S-P`
-* Lina, `HR*EUPB/KWRA KW-BG`
+* Lina, `HRAOEPB/TPHA KW-BG`
 * friends. `TPREPBDZ TP-PL`
 * laughed `HRAFD`
 * then, `THEPB KW-BG`
