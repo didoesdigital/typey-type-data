@@ -3062,7 +3062,7 @@
 * keyboard `KAOEBD`
 * kibble `KEUBL`
 * kidding `KEUGD`
-* kidney `KO*EUPD`
+* kidney `KO*EUPBD`
 * killer `KEURL`
 * killings `KEULGS`
 * kiln `KHREUPB`
