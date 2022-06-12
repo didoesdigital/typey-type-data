@@ -97,7 +97,7 @@
 * reads; `RAEDZ STPH*FPLT`
 * third `THEURD`
 * checks `KHEBGS`
-* entries `EPB/TREUS`
+* entries `SPWREUS`
 * pocket `POBGT`
 * book; `PWAOBG STPH*FPLT`
 * fourth `TPO*URT`

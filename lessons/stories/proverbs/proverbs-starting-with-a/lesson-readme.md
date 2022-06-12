@@ -32,7 +32,7 @@
 * its `EUTS`
 * weakest `WAEBG/EFT`
 * link. `HR*EUPBG TP-PL`
-* creaking `KRAOEBG/-G`
+* creaking `KRAEBG/-G`
 * gate `TKPWAET`
 * hangs `HAPBGS`
 * long. `HROPBG TP-PL`

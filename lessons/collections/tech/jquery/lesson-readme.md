@@ -3,7 +3,7 @@
 * $(document) `TK-PL/TK-LS/PREPB/TKOBG/*PLT/PR*EPB`
 * .ready( `P-P/RED/TKEU/TK-LS/PREPB`
 * function(){ `TPUBGS/TK-LS/PREPB/PR*EPB/TPR-BGT`
-* // jQuery `OEU/OEU/SKWR*/KWAO*E`
+* // jQuery `OEU/OEU/SKWR*/KWAO*ER`
 * $("#steno") `TK-PL/TK-LS/PREPB/KW-GS/HAERB/STOEUPB/KR-GS/PR*EPB`
 * html("Hello world"); `P-P/H*PLT/TK-LS/PREPB/KW-GS/HEL/HROE/WORLD/KR-GS/PR*EPB/SKWR*RBGS`
 * $( "a" ) `TP-PL/TK-LS/PREPB/KW-GS/AEU/KR-GS/PR*EPB`

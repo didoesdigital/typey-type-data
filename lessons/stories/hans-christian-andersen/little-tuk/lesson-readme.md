@@ -557,7 +557,7 @@
 * cry `KRAOEU`
 * frogs `TPROGS`
 * moor, `PHO*R KW-BG`
-* creaking `KRAOEBG/-G`
+* creaking `KRAEBG/-G`
 * boots `PWAOTS`
 * marching,—always `PHAFRPB/-G KW-BG EPL/TKA*RB AULS`
 * tone, `TOEPB KW-BG`

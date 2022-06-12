@@ -424,7 +424,7 @@
 * Oh `KPA/O*ERBGS`
 * dear, `TKAER KW-BG`
 * how `HOU`
-* creaking. `KRAOEBG/-G TP-PL`
+* creaking. `KRAEBG/-G TP-PL`
 * certainly `SERPBL`
 * gout `TKPWOUT`
 * cupboard. `KUP/PWAORD TP-PL`

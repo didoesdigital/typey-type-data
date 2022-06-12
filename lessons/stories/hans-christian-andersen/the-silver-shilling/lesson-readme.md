@@ -72,7 +72,7 @@
 * when `WHEPB`
 * had `H`
 * been `PW-PB`
-* circulated `SEURBG/HRAEUT/-D`
+* circulated `SKHRAEUTD`
 * for `TPOR`
 * year `KWRAOER`
 * country `KREU`

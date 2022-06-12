@@ -57,7 +57,7 @@
 * disagreement `TKAOEPLT`
 * satisfaction `SAEBGS`
 * demonstrable `STRABL`
-* partnerships `P*EUPS`
+* partnerships `PARPS`
 * disinfectant `TKEUS/EUPB/TPEBG/TAPBT`
 * preponderate `P-PT`
 * contributing `KR-BGT`

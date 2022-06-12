@@ -5440,7 +5440,7 @@
 * strove `STROEF`
 * structural `STRAOUFPL`
 * structure `STRUFP`
-* structured `STRAOUFPD`
+* structured `STRUFPD`
 * structuring `STRAOUFPG`
 * struggle `STRULG`
 * struggled `STRULGD`
