@@ -163,5 +163,4 @@
 * wrap `WRAP`
 * cot `KOT`
 * sap `SAP`
-* scarf `SKAFR`
 * scar `SKAR`

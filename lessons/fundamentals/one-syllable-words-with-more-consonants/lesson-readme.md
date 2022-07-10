@@ -95,5 +95,4 @@
 * hurts `HURTS`
 * curl `KURL`
 * wrap `WRAP`
-* scarf `SKAFR`
 * scar `SKAR`

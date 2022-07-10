@@ -6,3 +6,4 @@
 * wolves `WOFLS`
 * solve `SOFL`
 * twelfth `TWEFLT`
+* scarf `SKAFR`
