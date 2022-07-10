@@ -35,7 +35,6 @@
 * conclusion `KHRAO*UGS`
 * confusion `KAUFGS`
 * emotion `AO*EGS`
-* destruction `STKRUBGS`
 * production `PROUBGS`
 * region `RAOEGS`
 * suspicion `SPEUGS`
@@ -45,7 +44,6 @@
 * decision `STKEUGS`
 * disposition `TK*EUPGS`
 * preserved `PREFRBD`
-* distinction `STKEUPBGS`
 * observation `OFGS`
 * preserve `PREFRB`
 * Russian `R*UGS`
@@ -180,7 +178,6 @@
 * anticipation `SPAEUGS`
 * justification `SKWRUFGS`
 * comprehension `KPREPBGS`
-* aversion `A*FRGS`
 * recommendation `REPLGS`
 * exhaustion `KPAUGS`
 * cavern `KAFRPB`
