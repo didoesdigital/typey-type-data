@@ -6,7 +6,6 @@
 * had the `H-T`
 * are the `-RT`
 * at `AT`
-* or `OR`
 * ut `UT`
 * of the `-FT`
 * be the `-BT`

@@ -8,5 +8,3 @@
 * Ra `RA`
 * ro `RO`
 * are you `RU`
-* recall `-RL`
-* are the `-RT`

@@ -12,4 +12,3 @@
 * op `OP`
 * ought `OT`
 * odd `OD`
-* 00 `#-Z`

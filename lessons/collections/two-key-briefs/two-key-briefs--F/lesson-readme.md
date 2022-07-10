@@ -9,5 +9,4 @@
 * every `EF`
 * you've `UF`
 * ever `-FR`
-* . `TP-PL`
 * of the `-FT`
