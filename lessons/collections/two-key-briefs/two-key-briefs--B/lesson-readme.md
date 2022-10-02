@@ -1,7 +1,0 @@
-# Two-key briefs *-B
-
-* somebody `S-B`
-* it be `T-B`
-* can be `K-B`
-* ebb `EB`
-* being `-BG`

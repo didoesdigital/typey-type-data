@@ -1,7 +1,0 @@
-# Two-word briefs Which *
-
-* which are `KH-R`
-* which had `KH-D`
-* which the `KH-T`
-* which will `KH-L`
-* which would `KH-LD`

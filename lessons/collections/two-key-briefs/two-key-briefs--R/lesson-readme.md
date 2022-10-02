@@ -1,9 +1,0 @@
-# Two-key briefs *-R
-
-* where `W-R`
-* ar `AR`
-* or `OR`
-* you're `UR`
-* ever `-FR`
-* recall `-RL`
-* are the `-RT`

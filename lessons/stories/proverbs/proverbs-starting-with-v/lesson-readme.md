@@ -1,8 +1,0 @@
-# Proverbs starting with V
-
-* Variety `KPA/SRAEURT`
-* is `S`
-* the `-T`
-* spice `SPAOEUS`
-* of `-F`
-* life. `HRAOEUF TP-PL`

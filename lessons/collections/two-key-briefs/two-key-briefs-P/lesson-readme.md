@@ -1,8 +1,0 @@
-# Two-key briefs P-*
-
-* if `TP`
-* examine `KP`
-* about `PW`
-* po `PO`
-* perfect `P-F`
-* prognosis `P-G`

@@ -1,6 +1,0 @@
-# Two-key briefs *-P
-
-* company `K-P`
-* WordPress `W-P`
-* op `OP`
-* up `UP`

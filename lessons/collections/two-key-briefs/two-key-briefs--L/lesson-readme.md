@@ -1,8 +1,0 @@
-# Two-key briefs *-L
-
-* it'll `T-L`
-* recall `-RL`
-* al `AL`
-* El `EL`
-* you'll `UL`
-* willing `-LG`

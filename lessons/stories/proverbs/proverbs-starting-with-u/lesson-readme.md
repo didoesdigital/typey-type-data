@@ -1,8 +1,0 @@
-# Proverbs starting with U
-
-* Up `KPA/UP`
-* the `-T`
-* creek `KRAOEBG`
-* without `WOUT`
-* a `AEU`
-* paddle. `PAD/*L TP-PL`
