@@ -764,6 +764,51 @@
     "suggestedNext": "/collections/two-key-briefs/two-key-briefs-H/lesson.txt"
   },
   {
+    "title": "Two-key briefs S-*, *-S, and *-Z",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt",
+    "wordCount": 13,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--L/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs T-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-T/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--R/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs K-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-K/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--T/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs P-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-P/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs W-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-W/lesson.txt",
+    "wordCount": 10,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-A/lesson.txt"
+  },
+  {
     "title": "Two-key briefs H-*",
     "subtitle": "",
     "category": "Collections",
@@ -780,6 +825,24 @@
     "path": "/collections/two-key-briefs/two-key-briefs-R/lesson.txt",
     "wordCount": 8,
     "suggestedNext": "/collections/two-key-briefs/two-key-briefs-E/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs A-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-A/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-P/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs O-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-O/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/how/lesson.txt"
   },
   {
     "title": "Two-key briefs E-*",
@@ -800,31 +863,13 @@
     "suggestedNext": "/collections/two-key-briefs/two-key-briefs-K/lesson.txt"
   },
   {
-    "title": "Two-key briefs K-*",
+    "title": "Two-key briefs *-F",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs-K/lesson.txt",
-    "wordCount": 12,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--T/lesson.txt"
-  },
-  {
-    "title": "Two-key briefs *-T",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs--T/lesson.txt",
-    "wordCount": 9,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-T/lesson.txt"
-  },
-  {
-    "title": "Two-key briefs T-*",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs-T/lesson.txt",
-    "wordCount": 12,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--R/lesson.txt"
+    "path": "/collections/two-key-briefs/two-key-briefs--F/lesson.txt",
+    "wordCount": 10,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--G/lesson.txt"
   },
   {
     "title": "Two-key briefs *-R",
@@ -836,49 +881,13 @@
     "suggestedNext": "/collections/two-key-briefs/two-key-briefs-W/lesson.txt"
   },
   {
-    "title": "Two-key briefs W-*",
+    "title": "Two-key briefs *-P",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs-W/lesson.txt",
-    "wordCount": 10,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-A/lesson.txt"
-  },
-  {
-    "title": "Two-key briefs A-*",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs-A/lesson.txt",
-    "wordCount": 12,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-P/lesson.txt"
-  },
-  {
-    "title": "Two-key briefs P-*",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs-P/lesson.txt",
-    "wordCount": 6,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt"
-  },
-  {
-    "title": "Two-key briefs S-*, *-S, and *-Z",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt",
-    "wordCount": 13,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--L/lesson.txt"
-  },
-  {
-    "title": "Two-key briefs *-L",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs--L/lesson.txt",
-    "wordCount": 6,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--B/lesson.txt"
+    "path": "/collections/two-key-briefs/two-key-briefs--P/lesson.txt",
+    "wordCount": 4,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-O/lesson.txt"
   },
   {
     "title": "Two-key briefs *-B",
@@ -890,13 +899,13 @@
     "suggestedNext": "/collections/two-key-briefs/two-key-briefs--F/lesson.txt"
   },
   {
-    "title": "Two-key briefs *-F",
+    "title": "Two-key briefs *-L",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs--F/lesson.txt",
-    "wordCount": 10,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--G/lesson.txt"
+    "path": "/collections/two-key-briefs/two-key-briefs--L/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--B/lesson.txt"
   },
   {
     "title": "Two-key briefs *-G",
@@ -908,22 +917,13 @@
     "suggestedNext": "/collections/two-key-briefs/two-key-briefs--P/lesson.txt"
   },
   {
-    "title": "Two-key briefs *-P",
+    "title": "Two-key briefs *-T",
     "subtitle": "",
     "category": "Collections",
     "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs--P/lesson.txt",
-    "wordCount": 4,
-    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-O/lesson.txt"
-  },
-  {
-    "title": "Two-key briefs O-*",
-    "subtitle": "",
-    "category": "Collections",
-    "subcategory": "Two-key briefs",
-    "path": "/collections/two-key-briefs/two-key-briefs-O/lesson.txt",
-    "wordCount": 12,
-    "suggestedNext": "/collections/two-word-briefs-same-beginnings/how/lesson.txt"
+    "path": "/collections/two-key-briefs/two-key-briefs--T/lesson.txt",
+    "wordCount": 9,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-T/lesson.txt"
   },
   {
     "title": "Two-word briefs How *",
