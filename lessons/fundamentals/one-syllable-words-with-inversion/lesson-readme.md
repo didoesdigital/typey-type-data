@@ -1,9 +1,0 @@
-# One-syllable words with inversion
-
-* twelve `TWEFL`
-* worst `WOFRT`
-* wolf `WOFL`
-* wolves `WOFLS`
-* solve `SOFL`
-* twelfth `TWEFLT`
-* scarf `SKAFR`
