@@ -13,13 +13,11 @@
 "TPUBGS": "function",
 "TPHU": "new",
 "PREPB PR*EPB": "()",
-"TPR-BGT": "{",
 "SPER": "super",
 "PREPB PR*EPB STPH*FPLT": "();",
 "TRAEUS PREPB": "trace(",
 "KR-GS KPA/H-L": "\"Hello",
 "KPA/WORLD SKHRAPL KR-GS": "World!\"",
 "PR*EPB STPH*FPLT": ");",
-"TPR*BGT": "}",
 "TPR*BGT": "}"
 }

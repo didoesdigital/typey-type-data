@@ -12,7 +12,6 @@
 "TPOEUBGS/SKWROUT": "focusout",
 "OEP": "open",
 "PHEPBLG": "message",
-"ROEUR": "error",
 "KHROES": "close",
 "PAEUPBLG/HAO*EUD": "pagehide",
 "PAEUPBLG/SHO*E": "pageshow",
@@ -84,9 +83,6 @@
 "TAOEUPL/A*UD": "timeupdate",
 "SROL/KHAEUPBG": "volumechange",
 "WAEUGT": "waiting",
-"PWORT": "abort",
-"ROEUR": "error",
-"HRAOD": "load",
 "HRAOD/*EPBD": "loadend",
 "HRAOD/STA*RT": "loadstart",
 "PROG": "progress",
@@ -95,7 +91,6 @@
 "STORPBLG": "storage",
 "KHEG": "checking",
 "TKOUPBLD/-G": "downloading",
-"ROEUR": "error",
 "TPHO/A*UD": "noupdate",
 "OB/SHRAOET": "obsolete",
 "AUD/R*D": "updateready",
@@ -107,7 +102,5 @@
 "R-D/STAEUT/KHAEUPBG": "readystatechange",
 "SRAOUL/KHA*EUPBG": "ValueChange",
 "EUPB/SRAL/EUD": "invalid",
-"PHEPBLG": "message",
-"OEP": "open",
 "SHOE": "show"
 }
