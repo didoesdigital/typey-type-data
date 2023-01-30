@@ -83,7 +83,7 @@ The Juniper-Tree
 'some': SOPL
 'apples,': APLS KW-BG
 'and': SKP
-'as': AZ
+'as': AS
 'she': SHE
 'was': WAS
 'peeling': PAOELG
@@ -110,17 +110,17 @@ The Juniper-Tree
 'but': PWUT
 'a': AEU
 'child,': KHAOEULD KW-BG
-'as': AZ
+'as': AS
 'red': RED
-'as': AZ
+'as': AS
 'blood': PWHRAOD
 'and': SKP
-'as': AZ
+'as': AS
 'white': WHAOEUT
-'as': AZ
+'as': AS
 'snow,'': STPHOE KW-BG AE
 'and': SKP
-'as': AZ
+'as': AS
 'she': SHE
 'spoke': SPOEBG
 'the': -T
@@ -318,14 +318,14 @@ The Juniper-Tree
 'that': THA
 'it': T
 'was': WAS
-'as': AZ
+'as': AS
 'white': WHAOEUT
-'as': AZ
+'as': AS
 'snow': STPHOE
 'and': SKP
-'as': AZ
+'as': AS
 'red': RED
-'as': AZ
+'as': AS
 'blood,': PWHRAOD KW-BG
 'her': HER
 'joy': SKWROEU
@@ -370,7 +370,7 @@ The Juniper-Tree
 'to': TO
 'go': TKPW
 'about': PW
-'as': AZ
+'as': AS
 'usual,': AOURB KW-BG
 'and': SKP
 'later': HRAEURT
@@ -398,14 +398,14 @@ The Juniper-Tree
 'boy,': PWOEU KW-BG
 'who': WHO
 'was': WAS
-'as': AZ
+'as': AS
 'red': RED
-'as': AZ
+'as': AS
 'blood': PWHRAOD
 'and': SKP
-'as': AZ
+'as': AS
 'white': WHAOEUT
-'as': AZ
+'as': AS
 'snow.': STPHOE TP-PL
 'The': KPA/-T
 'mother': PHOER
@@ -607,7 +607,7 @@ The Juniper-Tree
 'and': SKP
 'it': T
 'seemed': SAOEPLD
-'as': AZ
+'as': AS
 'if': TP
 'an': APB
 'evil': AOEFL
@@ -723,7 +723,7 @@ The Juniper-Tree
 'for': TPOR
 'yourself.'': KWRO*URS TP-PL AE
 'And': AFPBD
-'as': AZ
+'as': AS
 'he': HE
 'bent': PWEPBT
 'over': OEFR
@@ -1209,7 +1209,7 @@ The Juniper-Tree
 'more': PHOR
 'pudding,': PUD/-G KW-BG
 'and': SKP
-'as': AZ
+'as': AS
 'he': HE
 'ate,': AEUT KW-BG
 'he': HE
@@ -1313,7 +1313,7 @@ The Juniper-Tree
 'then': THEPB
 'together': TOGT
 'again,': TKPWEPB KW-BG
-'as': AZ
+'as': AS
 'it': T
 'might': PHAOEUT
 'be': -B
@@ -1341,7 +1341,7 @@ The Juniper-Tree
 'was': WAS
 'a': AEU
 'burning': PWURPBG
-'as': AZ
+'as': AS
 'of': -F
 'fire,': TPAOEUR KW-BG
 'and': SKP
@@ -1374,7 +1374,7 @@ The Juniper-Tree
 'juniper-tree': SKWRUPB/PER H-PB TRAOE
 'stood': STAOD
 'there': THR
-'as': AZ
+'as': AS
 'before,': PW-FR KW-BG
 'and': SKP
 'the': -T
@@ -1389,11 +1389,11 @@ The Juniper-Tree
 'Marleen': PHAR/HRAOE/*PB
 'now': TPHOU
 'felt': TPELT
-'as': AZ
+'as': AS
 'lighthearted': xxx lighthearted
 'and': SKP
 'happy': HAEP
-'as': AZ
+'as': AS
 'if': TP
 'her': HER
 'brother': PWROER
@@ -1511,7 +1511,7 @@ The Juniper-Tree
 'ran': RAPB
 'out,': OUT KW-BG
 'and': SKP
-'as': AZ
+'as': AS
 'he': HE
 'crossed': KROFD
 'the': -T
@@ -2073,7 +2073,7 @@ The Juniper-Tree
 'a': AEU
 'stone,': STOEPB KW-BG
 'and': SKP
-'as': AZ
+'as': AS
 'they': THE
 'went': WEPBT
 ''Hick': AE KPA/HEUBG
@@ -2424,7 +2424,7 @@ The Juniper-Tree
 'feel': TPAOEL
 'so': SO
 'uneasy,': UPB/EZ KW-BG
-'as': AZ
+'as': AS
 'if': TP
 'a': AEU
 'heavy': HOEUF
@@ -2469,7 +2469,7 @@ The Juniper-Tree
 'I': EU
 'feel': TPAOEL
 'just': SKWRUFT
-'as': AZ
+'as': AS
 'if': TP
 'I': EU
 'were': WR
@@ -2500,7 +2500,7 @@ The Juniper-Tree
 'and': SKP
 'I': EU
 'feel': TPAOEL
-'as': AZ
+'as': AS
 'if': TP
 'there': THR
 'were': WR
@@ -2673,7 +2673,7 @@ The Juniper-Tree
 'wife.': WAOEUF TP-PL
 ''I': AE EU
 'feel': TPAOEL
-'as': AZ
+'as': AS
 'if': TP
 'the': -T
 'whole': WHOEL
@@ -2832,7 +2832,7 @@ The Juniper-Tree
 'fell': TPEL
 'down': TKOUPB
 'again': TKPWEPB
-'as': AZ
+'as': AS
 'if': TP
 'dead.': TKED TP-PL
 'My': KPA/PHEU
@@ -2984,7 +2984,7 @@ The Juniper-Tree
 'for': TPOR
 'I': EU
 'feel': TPAOEL
-'as': AZ
+'as': AS
 'if': TP
 'the': -T
 'world': WORLD
@@ -2994,7 +2994,7 @@ The Juniper-Tree
 'an': APB
 'end.'': EPBD TP-PL AE
 'But': KPA/PWUT
-'as': AZ
+'as': AS
 'she': SHE
 'crossed': KROFD
 'the': -T

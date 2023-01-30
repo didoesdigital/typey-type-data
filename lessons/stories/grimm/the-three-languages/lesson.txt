@@ -29,7 +29,7 @@ The Three Languages
 'my': PHEU
 'son,': SOPB KW-BG
 'try': TREU
-'as': AZ
+'as': AS
 'I': EU
 'will': HR
 'I': EU
@@ -350,7 +350,7 @@ The Three Languages
 'the': -T
 'old': OLD
 'man': PHAPB
-'as': AZ
+'as': AS
 'a': AEU
 'token.': TO*EPB TP-PL
 'The': KPA/-T
@@ -649,7 +649,7 @@ The Three Languages
 'would': WO
 'adopt': TKOPT
 'him': HEUPL
-'as': AZ
+'as': AS
 'a': AEU
 'son': SOPB
 'if': TP
@@ -662,7 +662,7 @@ The Three Languages
 'down': TKOUPB
 'again,': TKPWEPB KW-BG
 'and': SKP
-'as': AZ
+'as': AS
 'he': HE
 'knew': TPHAOU
 'what': WHA
@@ -778,13 +778,13 @@ The Three Languages
 'among': PHOPBG
 'the': -T
 'cardinals': KARD/TPHAL/-S
-'as': AZ
+'as': AS
 'to': TO
 'whom': WHOPL
 'they': THE
 'should': SHO
 'appoint': POEUPB
-'as': AZ
+'as': AS
 'his': HEUS
 'successor.': SUBG/SES/SOR TP-PL
 'They': KPA/THE
@@ -797,7 +797,7 @@ The Three Languages
 'should': SHO
 'be': -B
 'chosen': KHOEFPB
-'as': AZ
+'as': AS
 'pope': POEP
 'who': WHO
 'should': SHO
@@ -811,7 +811,7 @@ The Three Languages
 'token.': TO*EPB TP-PL
 'And': AFPBD
 'just': SKWRUFT
-'as': AZ
+'as': AS
 'that': THA
 'was': WAS
 'decided': STKAOEUD/-D

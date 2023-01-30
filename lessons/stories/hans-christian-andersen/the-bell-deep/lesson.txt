@@ -418,7 +418,7 @@ The Bell-Deep
 'old,': OLD KW-BG
 'very': SRE
 'old,': OLD KW-BG
-'as': AZ
+'as': AS
 'we': WE
 'have': SR
 'already': HR-R
@@ -626,7 +626,7 @@ The Bell-Deep
 'heart': HART
 'beat': PWAET
 'quicker': KW*EURBG
-'as': AZ
+'as': AS
 'he': HE
 'thought.': THAUT TP-PL
 'Ding-dong!': KPA/TKEUPBG H-PB TKOPBG SKHRAPL
@@ -688,7 +688,7 @@ The Bell-Deep
 'two': TWO
 'little': HREUL
 'sticks': STEUBGS
-'as': AZ
+'as': AS
 'if': TP
 'they': THE
 'had': H
@@ -899,7 +899,7 @@ The Bell-Deep
 'stood': STAOD
 'by': PWEU
 'him': HEUPL
-'as': AZ
+'as': AS
 'a': AEU
 'guard': TKPWARD
 'with': W
