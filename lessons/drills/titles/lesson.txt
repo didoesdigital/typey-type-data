@@ -6,7 +6,7 @@ Titles
 'doctor': TKR
 'Hon.': KPA/HOPB/TP-PL
 'Honorable': HO*PB/RABL
-'Honourable': HO*UPB/RABL
+'Honourable': HO*PB/RABL/A*U
 'madam': PH*/A*/TK*/A*/PH*
 'Madam': PHAD/APL
 'maid': PHAEUD
@@ -15,8 +15,8 @@ Titles
 'Mr.': PHR-FPLT
 'Mrs.': PHR-S
 'Mr. and Mrs.': PHRARPLS
-'Ms.': PHOEUFPLTS
-'Mx.': PH*BGS
+'Ms.': PH-S
+'Mx.': PH-BGS
 'Prof.': KPA/PROEF/TP-PL
 'professor': PROEFR
 'Professor': PRO*EFR
