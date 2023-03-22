@@ -223,7 +223,7 @@ Single-Stroke Briefs
 'arteries': RARTS
 'artery': RART
 'arthritic': THREUBG
-'arthritis': THRAOEUTS
+'arthritis': RAO*EUTS
 'article': ARL
 'articles': ARLS
 'artificial': TPHR*EURBL
@@ -277,7 +277,7 @@ Single-Stroke Briefs
 'authorizes': THORS
 'authorizing': THORG
 'auto': OEUT
-'autoimmune': TPHO*EUPL
+'autoimmune': TPHO*EUPB
 'automobile': AUBL
 'autonomic': TPHO*EUBG
 'availability': SRAEUBLT
@@ -911,7 +911,7 @@ Single-Stroke Briefs
 'cereal': KRAOERL
 'cerebellar': SPWHRAR
 'cerebellum': SPWREPL
-'cerebral': SRAOEBL
+'cerebral': KRAOEBL
 'cert': SERT
 'certainty': SERPBT
 'certificate': SER
@@ -958,7 +958,7 @@ Single-Stroke Briefs
 'chart': KHART
 'chat': KHAT
 'chatting': KHAGT
-'chauffeur': SHOEFR
+'chauffeur': KHAUFR
 'cheap': KHAEP
 'cheaper': KHAOERP
 'cheat': KHAOET
@@ -979,7 +979,7 @@ Single-Stroke Briefs
 'cherub': KHERB
 'chew': KHAOU
 'chi': KHEU
-'chic': SHEUBG
+'chic': SHAEBG
 'chick': KHEUBG
 'chide': KHAOEUD
 'chief': KHAOEF
@@ -1029,7 +1029,7 @@ Single-Stroke Briefs
 'chunk': KH*UPG
 'churl': KHURL
 'churn': KHURPB
-'chute': SHAOUT
+'chute': KHAOUT
 'chyme': KHAO*EUPL
 'ciao': KHO*U
 'cigar': STKPWAR
@@ -1073,7 +1073,7 @@ Single-Stroke Briefs
 'clean': KHRAOEPB
 'cleaner': KHRAOERPB
 'cleanup': KHR*UP
-'clearance': KRAOERPBS
+'clearance': KHRAOERBS
 'clearness': KHRAO*ERPBS
 'cleat': KHRAOET
 'cleavage': KHRAO*EFPBLG
@@ -1281,7 +1281,7 @@ Single-Stroke Briefs
 'comprehend': KPREPBD
 'compress': KPRES
 'compresses': KPRESZ
-'compression': KREPGS
+'compression': KPREGS
 'compressive': KPR*EF
 'comprise': KPRAOEUS
 'comprised': KPRAOEUFD
@@ -1539,7 +1539,7 @@ Single-Stroke Briefs
 'creating': KRAOEGT
 'creation': KRAEGS
 'creative': KRAOEF
-'creator': KROEURT
+'creator': KRAOERT
 'creature': KRAOEFP
 'credibility': KREBLT
 'credible': KREUBL
@@ -1808,7 +1808,7 @@ Single-Stroke Briefs
 'deposition': TKEP
 'deprave': TKPRAEUF
 'depreciate': TKPRAOERBT
-'depreciation': TKRAOEGS
+'depreciation': TKAOEPGS
 'depress': TKPRES
 'depressant': TKREFPBT
 'depression': TKPREGS
@@ -1826,7 +1826,7 @@ Single-Stroke Briefs
 'deriving': TKRAO*EUFG
 'dermal': TKERL
 'dermis': TK*ERPLS
-'describable': TKRAOEUBL
+'describable': SKRAOEUBL
 'describe': SKREU
 'described': KREUFD
 'describer': SKREUR
@@ -1873,7 +1873,7 @@ Single-Stroke Briefs
 'devout': TKWOUT
 'dew': TKAO*U
 'diabetes': TKAOEBT
-'diabetic': TKOEUBG
+'diabetic': TKAOEBG
 'diagnose': TK-G
 'diagnosed': TK-GD
 'diagnosis': TK-GS
@@ -1908,10 +1908,10 @@ Single-Stroke Briefs
 'digit': TKEUGT
 'digital': TK*EUL
 'dike': TKAO*EUBG
-'dilate': TKHRAEUT
+'dilate': TKAOEULT
 'dilated': TKHRAEUTD
 'dilating': TKHRAEUGT
-'dilation': TKHRAEUGS
+'dilation': TKAOEULGS
 'dill': TKEUL
 'dilute': KHRAOUT
 'diluted': TKHRAOUTD
@@ -2186,7 +2186,7 @@ Single-Stroke Briefs
 'gastrointestinal': TKPWREFL
 'gate': TKPWAET
 'gather': TKPWAER
-'gauche': TKPWOERB
+'gauche': TKPWAURB
 'gauge': TKPWAUPBLG
 'gauged': TKPWAUPBLGD
 'gaunt': TKPWAUPBT
@@ -2216,9 +2216,9 @@ Single-Stroke Briefs
 'gentlemen': SKWR*EPL
 'geographic': SKWRAOEFBG
 'geography': SKWRAOEF
-'geology': TKPWOLG
+'geology': SKWROLG
 'geometry': SKWROPLT
-'gerbil': TKPWERBL
+'gerbil': SKWRERBL
 'geriatric': TKPWRABGT
 'germ': SKWRERPL
 'germs': SKWRERPLS
@@ -2872,7 +2872,7 @@ Single-Stroke Briefs
 'installment': SAUPLT
 'instance': STPHAPBS
 'instant': STPHAPBT
-'instantaneous': STPHAEUPBS
+'instantaneous': STA*EUPBS
 'instead': STPHED
 'institute': STPHAOUT
 'instituted': STPHAOUTD
@@ -2897,7 +2897,7 @@ Single-Stroke Briefs
 'intend': SPWEPBD
 'intent': SPWEPBT
 'intention': SPWEPBGS
-'interact': TPHRABGT
+'interact': SPWERBGT
 'interaction': TPHRABGS
 'intercourse': SPWROURS
 'interest': TR
@@ -3098,7 +3098,7 @@ Single-Stroke Briefs
 'knob': TPHOB
 'knoll': TPHOEL
 'knot': TPHO*T
-'notification': TPHOEUFGS
+'notification': TPHOEFBGS
 'notified': TPHOEUFD
 'notify': TPHOEUF
 'noting': TPHOEGT
@@ -3114,7 +3114,7 @@ Single-Stroke Briefs
 'nuance': TPHAOUPBS
 'nub': TPHUB
 'nucleotide': TPHRAOEUD
-'nucleus': TPHO*EUBGS
+'nucleus': TPHAO*UBGS
 'nude': TPHAOUD
 'nudge': TPHUPBLG
 'nugget': TPHUGT
@@ -3148,7 +3148,7 @@ Single-Stroke Briefs
 'obvious': OFB
 'occasion': KWAEUGS
 'occasional': KWAEULG
-'occipital': KPEUPT
+'occipital': KPEUPL
 'occlusion': KHRAOUBGS
 'occupant': OUPT
 'occupation': OUPGS
@@ -3245,13 +3245,13 @@ Single-Stroke Briefs
 'outcome': KWUPL
 'outcomes': KWUPLS
 'outer': OURT
-'output': PAOUT
+'output': AOUPT
 'outside': OUDZ
 'outsider': SWAOEURD
 'outstanding': OUPBG
 'oval': OEFL
 'oven': OEFPB
-'overage': OEFRPBLG
+'overage': AUFRPBLG
 'overall': AUFRL
 'overnight': AUFRPBT
 'overrule': O*FRL
@@ -3473,9 +3473,9 @@ Single-Stroke Briefs
 'phoning': TPOEPBG
 'photo': TPOET
 'photograph': TPRAF
-'photographer': TPRAFR
+'photographer': TPOEFR
 'photographers': TPOEFRS
-'photographic': TPRAFBG
+'photographic': TPOEFBG
 'photography': TPOEUF
 'phrase': TPRAEZ
 'phrased': TPRAEUFD
@@ -3542,13 +3542,13 @@ Single-Stroke Briefs
 'planets': PHRA*PBTS
 'plank': PHRA*PBG
 'planned': PHRAPBD
-'planner': PHRARPB
+'planner': PHRAERP
 'planning': PHRAPBG
 'plant': PHRAPBT
 'plants': PHRAPBTS
 'plaque': PHRABG
 'plasm': PHRAFPL
-'plasma': PHROUFPL
+'plasma': PHROEUFP
 'plasmid': PHRAFPD
 'plaster': PHRAFRT
 'plastic': PHR-FBG
@@ -4473,7 +4473,7 @@ Single-Stroke Briefs
 'schizophrenia': SKRAO*EPB
 'schizophrenic': SKRAO*EBG
 'schlock': SHROBG
-'schmaltz': SPHAUTS
+'schmaltz': SPHALTS
 'schmuck': SPH*UBG
 'scholar': SKHRAR
 'schoolboy': SKOEU
@@ -4829,7 +4829,7 @@ Single-Stroke Briefs
 'sit': SEUT
 'site': SAO*EUT
 'sitting': SEUGT
-'situate': SWAEUT
+'situate': SEUFPT
 'situated': SWAEUTD
 'situation': SEUFP
 'sixteen': STAOEPB
@@ -4923,7 +4923,7 @@ Single-Stroke Briefs
 'slot': SHROT
 'sloth': SHRO*T
 'slouch': SHROUFP
-'slough': SHRUF
+'slough': SHROF
 'sloughing': SHRUFG
 'sloven': SHROFPB
 'slow': SHROE
@@ -5033,7 +5033,7 @@ Single-Stroke Briefs
 'sock': SOBG
 'socket': SOBGT
 'sod': SOD
-'sodium': STKUPL
+'sodium': SOEUPL
 'soft': SOFT
 'soften': SOFPB
 'softer': SO*FRT
@@ -5346,7 +5346,7 @@ Single-Stroke Briefs
 'stifle': STAOEUFL
 'stile': ST*EUL
 'stilt': STEULT
-'stimulate': STHREUPLT
+'stimulate': ST*EUPLT
 'stimuli': SHRAO*EU
 'stimulus': SHRUS
 'sting': STEUPBG
@@ -5568,7 +5568,7 @@ Single-Stroke Briefs
 'suspicious': SPEURBS
 'sustain': STAEPB
 'sustainability': STAUPBLT
-'suture': SAOURT
+'suture': SAOUFP
 'sutured': SAOURTD
 'svelte': SRELT
 'swab': SWAB
@@ -5634,7 +5634,7 @@ Single-Stroke Briefs
 'systematic': SPHA*EBG
 'systemic': SPHEBG
 'systole': STO*EL
-'systolic': STO*LG
+'systolic': SHREULG
 'tab': TAB
 'table': TAEUBL
 'tabled': TAEUBLD
@@ -5702,7 +5702,7 @@ Single-Stroke Briefs
 'team': TAEPL
 'tear': TAER
 'teat': TAOET
-'tech': TEFP
+'tech': TEBG
 'technician': T*EUBGS
 'technique': TAO*EBG
 'technologies': TOPBLGS
@@ -5772,7 +5772,7 @@ Single-Stroke Briefs
 'therapeutic': THRAOUBG
 'therapies': TH*ERPS
 'therapist': TH*EUFT
-'therapy': THEURP
+'therapy': THAERP
 'there': THR
 'there'd': THR-D
 'there'll': THR-L
@@ -6002,7 +6002,7 @@ Single-Stroke Briefs
 'transfer': TRAF
 'transference': TR-FRPBS
 'transferred': TR-FRD
-'transferring': TRAFRG
+'transferring': TR-FRG
 'transform': TR-FRPL
 'transformation': TRA*EUGS
 'transit': TRAFPBT
@@ -6056,7 +6056,7 @@ Single-Stroke Briefs
 'trifle': TRAOEUFL
 'trig': TREUG
 'trigger': TREURG
-'triglyceride': THRAOEUG
+'triglyceride': THRAOEUD
 'trike': TRAOEUBG
 'trill': TREUL
 'trillion': TROEUPB

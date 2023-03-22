@@ -249,7 +249,7 @@ Something
 'from': TPR
 'a': AEU
 'bricklayer's': PWREUBG/HRAEU/ER AES
-'laborer,': HRAEUB/RER KW-BG
+'laborer,': HRAEUB/*ER KW-BG
 'or': OR
 'as': AS
 'a': AEU
@@ -2233,7 +2233,7 @@ Something
 'people': PAOEPL
 'should': SHO
 'perish': PER/EURB
-'miserably.': PHEUZ/RAEBL TP-PL
+'miserably.': PHEUS/RAEBL TP-PL
 'I': EU
 'got': TKPWOT
 'a': AEU

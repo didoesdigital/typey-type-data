@@ -479,7 +479,7 @@ The Storks
 'the': -T
 'country': KREU
 'will': HR
-'assemble': A/SEPL/-BL
+'assemble': A/SEPL/*L
 'together,': TOGT KW-BG
 'and': SKP
 'go': TKPW
@@ -1562,7 +1562,7 @@ The Storks
 'storks': STORBG/-S
 'began': TKPWAPB
 'to': TO
-'assemble': A/SEPL/-BL
+'assemble': A/SEPL/*L
 'together': TOGT
 'before': PW-FR
 'taking': TAEUG
