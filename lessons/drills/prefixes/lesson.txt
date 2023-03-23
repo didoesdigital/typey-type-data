@@ -37,8 +37,8 @@ Prefixes
 'anti-^': A*EUPBT/H-PB
 'mid^': PHEUD
 'mid-^': PHEUD/H-PB
-'non-^': TPHA*UPB
 'non^': TPHAUPB
+'non-^': TPHA*UPB
 'on^': AUPB
 ignore_characters='^'
 warning_message=Hint: use exact spacing setting and don’t type ^
