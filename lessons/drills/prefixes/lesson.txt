@@ -36,7 +36,7 @@ Prefixes
 'anti^': A*EUPBT
 'anti-^': A*EUPBT/H-PB
 'mid^': PHEUD
-'mid-^': PHEUD/PHEUD H-PB KR-RT
+'mid-^': PHEUD/H-PB
 'non-^': TPHA*UPB
 'non^': TPHAUPB
 'on^': AUPB
