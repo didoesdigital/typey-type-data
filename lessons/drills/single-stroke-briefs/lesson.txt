@@ -330,7 +330,7 @@ Single-Stroke Briefs
 'ban': PWAPB
 'banal': PWAPBL
 'band': PWAPBD
-'band-aid': PW*PBD
+'band-aid': PW-PBD
 'bandage': PW-PBLG
 'bandaged': PW-PBLGD
 'bane': PWAEUPB
@@ -1693,7 +1693,7 @@ Single-Stroke Briefs
 'dauphin': TKAUFPB
 'dawn': TKAUPB
 'day-by-day': TKAEUBD
-'day-to-day': TKAEUTD
+'day-to-day': TKA*EUTD
 'daylight': TKAEULT
 'days': TKAEUS
 'daytime': TKAEUPLT
@@ -2898,7 +2898,7 @@ Single-Stroke Briefs
 'intent': SPWEPBT
 'intention': SPWEPBGS
 'interact': SPWERBGT
-'interaction': TPHRABGS
+'interaction': SPWRABGS
 'intercourse': SPWROURS
 'interest': TR
 'interestingly': TR-LG
