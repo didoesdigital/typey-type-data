@@ -126,7 +126,7 @@ Homophones
 'bough': PWO*U
 'bow': PWOE
 'boy': PWOEU
-'buoy': PWAOU/WEU
+'buoy': PWAOU/KWREU
 'braid': PWRAEUD
 'brayed': PWRAEU/-D
 'braise': PWRAEUZ
@@ -257,7 +257,7 @@ Homophones
 'currant': KUR/RAPBT
 'current': KURPBT
 'curser': KURS/*ER
-'cursor': KUR/SOR
+'cursor': KURS/O*R
 'dam': TKAPL
 'damn': TKAEPL
 'Dane': TKA*EUPB
@@ -449,7 +449,7 @@ Homophones
 'imminent': EUPL/TPHEPBT
 'in': TPH
 'inn': TPH*PB
-'incidence': EUPBS/TKES
+'incidence': EUPB/STKEPBS
 'incidents': EUPBS/TKEPBTS
 'incite': EUPB/KRAOEUT
 'insight': EUPB/SAOEUT
@@ -515,12 +515,12 @@ Homophones
 'lessor': HRES/SOR
 'let's': HRETS
 'lets': HR*ETS
-'levee': HRE/SRAOE
+'levee': HREF/KWRAE
 'levy': HRE/SREU
 'liar': HRAOEUR
 'lyre': HRAO*EUR
-'lichen': HREUFP/-PB
-'liken': HRAOEUBG/-PB
+'lichen': HREUFP/*EPB
+'liken': HRAOEUBG/*EPB
 'lickerish': xxx lickerish
 'licorice': HREUBG/REUS
 'lie': HRAOEU
@@ -555,7 +555,7 @@ Homophones
 'mall': PHAUL
 'maul': PHA*UL
 'manner': PHAERPB
-'manor': PHA/TPHOR
+'manor': PHAPB/O*R
 'marshal': PHARBL
 'martial': PHAR/SHAL
 'massed': PHAS/-D
@@ -577,7 +577,7 @@ Homophones
 'mints': PHEUPBT/-S
 'mind': PHAOEUPBD
 'mined': PHAOEUPB/-D
-'miner': PHAOEUPB/ER
+'miner': PHAOEUPB/*ER
 'minor': PHAOEURPB
 'missed': PHEUFD
 'mist': PHEUFT
@@ -614,7 +614,7 @@ Homophones
 'won': WOPB
 'oohs': AO*/-S
 'ooze': AOZ
-'overseas': AUF/SAES
+'overseas': AUFR/SAES
 'oversees': AUFR/SAOES
 'paced': PAEUS/-D
 'paste': PAEUFT
@@ -897,7 +897,7 @@ Homophones
 'tract': TRABGT
 'tray': TRAEU
 'trey': TRA*EU
-'udder': UD/ER
+'udder': UD/*ER
 'utter': UT/ER
 'vain': SRA*EUPB
 'vane': SRAEPB
@@ -983,7 +983,7 @@ Homophones
 'white': WHAOEUT
 'wight': xxx wight
 'whither': WHEU/THER
-'wither': W*EUT/ER
+'wither': W*EUT/*ER
 'who's': WHOES
 'whose': WHOZ
 'whoa': WHOE

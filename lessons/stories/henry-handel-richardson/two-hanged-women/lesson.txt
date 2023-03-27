@@ -508,7 +508,7 @@ Two Hanged Women
 'where': W-R
 'you're': UR
 'wrong,': WROPBG KW-BG
-'Betty.': PWET/TEU TP-PL
+'Betty.': PWET/KWREU TP-PL
 'But': KPA/PWUT
 'you': U
 'think': THEU
@@ -586,7 +586,7 @@ Two Hanged Women
 'can't': K-PBT
 'help': HEP
 'it,': T KW-BG
-'Betty,': PWET/TEU KW-BG
+'Betty,': PWET/KWREU KW-BG
 'there's': THR-S
 'something': S-G
 'COMFY': *URP/KOPL/TPEU
@@ -754,7 +754,7 @@ Two Hanged Women
 'it's': T-S
 'so': SO
 'comfy,': KOPL/TPEU KW-BG
-'Betty': PWET/TEU
+'Betty': PWET/KWREU
 'darling': TKARLG
 '. . .': HR-PZ
 'such': SUFP
@@ -845,7 +845,7 @@ Two Hanged Women
 'the': -T
 'girl': TKPWEURL
 'called': KAULD
-'Betty': PWET/TEU
+'Betty': PWET/KWREU
 'held': HELD
 'her': HER
 'fingers': TPEURPBGS
@@ -950,7 +950,7 @@ Two Hanged Women
 'NEARLY': *URP/TPHAOERL
 'twenty-five': TWEPBT/TPAOEUF
 'now,': TPHOU KW-BG
-'Betty.': PWET/TEU TP-PL
+'Betty.': PWET/KWREU TP-PL
 'And': AFPBD
 'other': OER
 'girls': TKPWEURLS
@@ -985,7 +985,7 @@ Two Hanged Women
 'only': OEPBL
 'got': TKPWOT
 'to': TO
-'ogle': OG/-L
+'ogle': OEG/*L
 'them': THEPL
 'a': AEU
 'bit': PWEUT
@@ -1110,7 +1110,7 @@ Two Hanged Women
 'on': OPB
 'you,': U KW-BG
 'a': AEU
-'stranglehold,': STR-PBG/*L/HOELD KW-BG
+'stranglehold,': STR-PBG/*L/HO*ELD KW-BG
 'that': THA
 'nothing'll': TPHOG AE HR*/HR*
 'loosen.': HRAOFPB TP-PL
@@ -1358,7 +1358,7 @@ Two Hanged Women
 'you': U
 'SAY': *URP/SAEU
 'something?': S-G H-F
-'BETTY!': *URP/PWET/TEU SKHRAPL
+'BETTY!': *URP/PWET/KWREU SKHRAPL
 'Why': KPA/KWR
 'won't': WOEPBT
 'you': U
@@ -1497,8 +1497,8 @@ Two Hanged Women
 'cry': KRAOEU
 'of:': -F STPH-FPLT
 '"Oh,': KR-GS KPA/O*ERBGS KW-BG
-'Betty,': PWET/TEU KW-BG
-'Betty!': PWET/TEU SKHRAPL
+'Betty,': PWET/KWREU KW-BG
+'Betty!': PWET/KWREU SKHRAPL
 '. . .': HR-PZ
 'I': EU
 'couldn't,': KOPBT/KW-BG
@@ -1569,7 +1569,7 @@ Two Hanged Women
 'to': TO
 'touch': TUFP
 'me,': PHE KW-BG
-'Betty,': PWET/TEU KW-BG
+'Betty,': PWET/KWREU KW-BG
 'or': OR
 'even': AOEPB
 'takes': TAEUBGS
@@ -1730,7 +1730,7 @@ Two Hanged Women
 'You': KPA/U
 'tell': TEL
 'me,': PHE KW-BG
-'Betty': PWET/TEU
+'Betty': PWET/KWREU
 'darling,': TKARLG KW-BG
 'you': U
 'help': HEP
@@ -1789,7 +1789,7 @@ Two Hanged Women
 'strength': STREPBG
 'she': SHE
 'needed.': TPHAOETD TP-PL
-'Betty': PWET/TEU
+'Betty': PWET/KWREU
 'had': H
 'sat': SAT
 'silent,': SHREPBT KW-BG

@@ -718,7 +718,7 @@ Ole the Tower-Keeper
 'even': AOEPB
 'with': W
 'patent': PAT/EPBT
-'lacquer,': HRABG/ER KW-BG
+'lacquer,': HRABG/*ER KW-BG
 'are': R
 'nothing': TPHOG
 'more': PHOR
@@ -1146,7 +1146,7 @@ Ole the Tower-Keeper
 'the': -T
 'good': TKPWAOD
 'street': STRAOET
-'sweeper': SWAOEP/ER
+'sweeper': SWAOEP/*ER
 'with': W
 'his': HEUS
 'cart,': KART KW-BG
@@ -1199,7 +1199,7 @@ Ole the Tower-Keeper
 'flower,': TPHRO*UR KW-BG
 'a': AEU
 'great': TKPWRAET
-'mushroom,': PHURB/RAOPL KW-BG
+'mushroom,': PHURB/RAO*PL KW-BG
 'a': AEU
 'perfect': P-F
 'roof,': RAOF KW-BG
@@ -1857,7 +1857,7 @@ Ole the Tower-Keeper
 'get': TKPWET
 'the': -T
 'patent': PAT/EPBT
-'lacquer,"': HRABG/ER KW-BG KR-GS
+'lacquer,"': HRABG/*ER KW-BG KR-GS
 'said': SED
 'Ole,': KPA/O/HRAEU KW-BG
 '"for': KR-GS TPOR
@@ -2114,7 +2114,7 @@ Ole the Tower-Keeper
 'sitting': SEUGT
 'in': TPH
 'the': -T
-'arbor': AR/PWOR
+'arbor': ARB/O*R
 'of': -F
 'health.': H*ELT TP-PL
 '"If': KR-GS KPA/TP
@@ -2564,7 +2564,7 @@ Ole the Tower-Keeper
 'be': -B
 'told': TOLD
 'with': W
-'lacquer': HRABG/ER
+'lacquer': HRABG/*ER
 'or': OR
 'only': OEPBL
 'with': W
@@ -3551,7 +3551,7 @@ Ole the Tower-Keeper
 'blooming': PWHRAOPL/-G
 'as': AS
 'an': APB
-'arbor.': AR/PWOR TP-PL
+'arbor.': ARB/O*R TP-PL
 'He': KPA/HE
 'who': WHO
 'always': AULS

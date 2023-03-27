@@ -3,7 +3,7 @@
 "TAURL": "taller",
 "TAUL/EFT": "tallest",
 "TPAT": "fat",
-"TPAT/ER": "fatter",
+"TPAT/*ER": "fatter",
 "TPAT/*ES": "fattest",
 "PWEUG": "big",
 "PWEURG": "bigger",

@@ -748,7 +748,7 @@ The Bishop of Borglum and His Warriors
 'He': KPA/HE
 'is': S
 'her': HER
-'helper': HEL/PER
+'helper': HEP/*ER
 'and': SKP
 'defender.': TK-FD/*ER TP-PL
 'One': KPA/WUPB
@@ -819,7 +819,7 @@ The Bishop of Borglum and His Warriors
 'thee': THAOE
 'before': PW-FR
 'the': -T
-'tribunal': TREU/PWAOUPBL
+'tribunal': TR*EU/PWAOUPBL
 'that': THA
 'shall': SHAL
 'condemn': KAUPB/TKEPL
@@ -2210,7 +2210,7 @@ The Bishop of Borglum and His Warriors
 'may': PHAE
 'be': -B
 'a': AEU
-'glassy': TKPWHRAS/SEU
+'glassy': TKPWHRAS/KWREU
 'mirror—even': PHROR EPL/TKA*RB AOEPB
 'as': AS
 'in': TPH

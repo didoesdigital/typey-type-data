@@ -319,7 +319,7 @@ The Story of the Year
 'off': OF
 'guns,': TKPW-PBS KW-BG
 'to': TO
-'usher': URB/ER
+'usher': URB/*ER
 'in': TPH
 'the': -T
 'new': TPHU
@@ -1838,7 +1838,7 @@ The Story of the Year
 'clouds,': KHROUDZ KW-BG
 'which': WEU
 'in': TPH
-'wavy': WAE/SREU
+'wavy': WAF/KWREU
 'outlines': AOUT/HRAOEUPB/-S
 'of': -F
 'black': PWHRABG

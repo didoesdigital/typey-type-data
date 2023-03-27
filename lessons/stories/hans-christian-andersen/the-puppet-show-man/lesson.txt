@@ -90,7 +90,7 @@ The Puppet-Show Man
 'member': PHEB
 'of': -F
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'Institution,': STPHAO*UGS KW-BG
 'and': SKP
 'the': -T
@@ -207,7 +207,7 @@ The Puppet-Show Man
 'member': PHEB
 'of': -F
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'Institution': STPHAO*UGS
 'in': TPH
 'Copenhagen,': KOEP/*EPB/HAG KW-BG
@@ -452,7 +452,7 @@ The Puppet-Show Man
 'and': SKP
 'now': TPHOU
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'lecturer': HREBG/KHUR/ER
 'was': WAS
 'my': PHEU
@@ -478,7 +478,7 @@ The Puppet-Show Man
 'the': -T
 'curtain,': KUR/TAPB KW-BG
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'lecturer': HREBG/KHUR/ER
 'invited': EUPB/SRAOEUTD
 'me': PHE
@@ -659,7 +659,7 @@ The Puppet-Show Man
 'member': PHEB
 'of': -F
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'Institution,': STPHAO*UGS KW-BG
 'that': THA
 'I': EU
@@ -868,7 +868,7 @@ The Puppet-Show Man
 'eyes': AO*EUS
 'of': -F
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'lecturer.': HREBG/KHUR/ER TP-PL
 'It': KPA/T
 'made': PHAED
@@ -1211,7 +1211,7 @@ The Puppet-Show Man
 'house.': HOUS TP-PL
 'The': KPA/-T
 ''prima': AE PREU/PHA
-'donna'': HRO*ER/TKOPB/TPHA AE
+'donna'': HRO*ER/TKO*PB/KWRA AE
 'would': WO
 'only': OEPBL
 'act': ABGT
@@ -1352,7 +1352,7 @@ The Puppet-Show Man
 'all': AUL
 'from': TPR
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'professor,': PROEFR KW-BG
 'he': HE
 'may': PHAE
@@ -1455,7 +1455,7 @@ The Puppet-Show Man
 'of': -F
 'mortals.': PHOR/TAL/-S TP-PL
 'The': KPA/-T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'professor': PROEFR
 'had': H
 'fully': TPHRAOUL
@@ -1509,7 +1509,7 @@ The Puppet-Show Man
 'inquired': EUPB/KWAOEURD
 'for': TPOR
 'the': -T
-'Polytechnic': KPA/POL/TEBG/TPHEUBG
+'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'professor;': PROEFR STPH*FPLT
 'but': PWUT
 'he': HE

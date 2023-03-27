@@ -95,7 +95,7 @@
 "TURPB/O*EFR": "turnover",
 "AB/SEPBT/EUFPL": "absenteeism",
 "AB/SEPB/TAOE/-S": "absentees",
-"PROUBGT/EUFT": "productivity",
+"PROUBGT/*EUFT": "productivity",
 "PROUBG/EUF": "productive",
 "PRO/ABGT/EUF": "proactive",
 "SPWREUPBS/EUBG/PHOET/SRAEUGS": "intrinsic motivation",

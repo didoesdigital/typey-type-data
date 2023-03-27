@@ -694,7 +694,7 @@ Little Claus and Big Claus
 'wife': WAOEUF
 'and': SKP
 'the': -T
-'sexton': SEBGS/TOPB
+'sexton': SEBGS/TO*PB
 'were': WR
 'sitting': SEUGT
 'at': AT
@@ -792,7 +792,7 @@ Little Claus and Big Claus
 'sight': SAOEUT
 'of': -F
 'a': AEU
-'sexton.': SEBGS/TOPB TP-PL
+'sexton.': SEBGS/TO*PB TP-PL
 'If': KPA/TP
 'one': WUPB
 'appeared': A/PAOERD
@@ -812,7 +812,7 @@ Little Claus and Big Claus
 'this': TH
 'dislike,': TKEUS/HRAOEUBG KW-BG
 'the': -T
-'sexton': SEBGS/TOPB
+'sexton': SEBGS/TO*PB
 'had': H
 'gone': TKPWOPB
 'to': TO
@@ -855,7 +855,7 @@ Little Claus and Big Claus
 'and': SKP
 'begged': PWEGD
 'the': -T
-'sexton': SEBGS/TOPB
+'sexton': SEBGS/TO*PB
 'to': TO
 'hide': HAOEUD
 'himself': HEUPLS
@@ -884,7 +884,7 @@ Little Claus and Big Claus
 'sight': SAOEUT
 'of': -F
 'a': AEU
-'sexton.': SEBGS/TOPB TP-PL
+'sexton.': SEBGS/TO*PB TP-PL
 'The': KPA/-T
 'woman': WOPL
 'then': THEPB
@@ -1401,7 +1401,7 @@ Little Claus and Big Claus
 'much': PHUFP
 'like': HRAOEUBG
 'a': AEU
-'sexton."': SEBGS/TOPB TP-PL KR-GS
+'sexton."': SEBGS/TO*PB TP-PL KR-GS
 '"Ha!"': KR-GS KPA/HAE SKHRAPL KR-GS
 'said': SED
 'the': -T
@@ -1421,7 +1421,7 @@ Little Claus and Big Claus
 'sight': SAOEUT
 'of': -F
 'a': AEU
-'sexton.': SEBGS/TOPB TP-PL
+'sexton.': SEBGS/TO*PB TP-PL
 'However,': KPA/HOUF KW-BG
 'that': THA
 'doesn't': TKOPBT
@@ -1540,7 +1540,7 @@ Little Claus and Big Claus
 'had': H
 'hidden': HEUD/EPB
 'the': -T
-'sexton,': SEBGS/TOPB KW-BG
+'sexton,': SEBGS/TO*PB KW-BG
 'who': WHO
 'now': TPHOU
 'lay': HRAEU
@@ -1574,7 +1574,7 @@ Little Claus and Big Claus
 'exactly': ELG
 'like': HRAOEUBG
 'our': OUR
-'sexton.': SEBGS/TOPB TP-PL
+'sexton.': SEBGS/TO*PB TP-PL
 'How': KPA/HOU
 'dreadful': TKREFL
 'it': T
@@ -1795,7 +1795,7 @@ Little Claus and Big Claus
 'in': TPH
 'which': WEU
 'the': -T
-'sexton': SEBGS/TOPB
+'sexton': SEBGS/TO*PB
 'lay': HRAEU
 'still': STEUL
 'concealed.': KAUPB/SAOELD TP-PL
@@ -1853,7 +1853,7 @@ Little Claus and Big Claus
 'heard': HAERD
 'by': PWEU
 'the': -T
-'sexton,': SEBGS/TOPB KW-BG
+'sexton,': SEBGS/TO*PB KW-BG
 '"Now': KR-GS KPA/TPHOU
 'what': WHA
 'shall': SHAL
@@ -1944,7 +1944,7 @@ Little Claus and Big Claus
 'alone,"': A/HROEPB KW-BG KR-GS
 'cried': KRAOEUD
 'the': -T
-'sexton': SEBGS/TOPB
+'sexton': SEBGS/TO*PB
 'from': TPR
 'within': W-PB
 'the': -T
@@ -1986,7 +1986,7 @@ Little Claus and Big Claus
 'no,"': TPHO KW-BG KR-GS
 'cried': KRAOEUD
 'the': -T
-'sexton;': SEBGS/TOPB STPH*FPLT
+'sexton;': SEBGS/TO*PB STPH*FPLT
 '"I': KR-GS EU
 'will': HR
 'give': TKPWEUF
@@ -2015,7 +2015,7 @@ Little Claus and Big Claus
 'the': -T
 'chest.': KHEFT TP-PL
 'The': KPA/-T
-'sexton': SEBGS/TOPB
+'sexton': SEBGS/TO*PB
 'crept': KREPT
 'out,': OUT KW-BG
 'pushed': PURBD
@@ -2681,7 +2681,7 @@ Little Claus and Big Claus
 'too;': TAO STPH*FPLT
 'but': PWUT
 'as': AS
-'passionate': PAGS/AT
+'passionate': PAGS/A*T
 'as': AS
 'if': TP
 'he': HE
