@@ -35,6 +35,5 @@ Suffix and prefix briefs
 '^s with': W-S
 '^s who have': WHOS/SR
 '^s would': WOS
-
 ignore_characters='^'
 warning_message=Hint: use ignore spacing setting and don’t type ^
