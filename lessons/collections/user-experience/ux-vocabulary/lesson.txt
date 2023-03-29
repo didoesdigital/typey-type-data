@@ -49,8 +49,8 @@ UX design vocabulary
 'Google': TKPW-LG
 'Apple': A*PL/A*PL
 'Amazon': APL/SO*PB
-'.com': KROPL
-'.org': TKORG
+'example.com': KP-PL/KROPL
+'example.org': KP-PL/TKORG
 'alpha': A*FL
 'beta': PWOEUT
 'branding': PWRAPBGD
@@ -70,7 +70,7 @@ UX design vocabulary
 'usability': AOUBLT
 'survey': SOEUF
 'engineering': EPBG/TPHAOERG
-'user-centered': AOURS/H-PB/STR-D
+'user-centered': AOURS/STR*D
 'journey': SKWRURPB
 'feedback': TPAOED/PWA*BG
 'test': TEFT
