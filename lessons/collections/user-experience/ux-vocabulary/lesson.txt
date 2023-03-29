@@ -20,7 +20,7 @@ UX design vocabulary
 'low-fidelity': HROE/TPEUD/ELT
 'high-fidelity': HAOEU/TPEUD/ELT
 'graybox': TKPWRAEU/PWOBGS
-'unsubscribe': UPB/SUB/SKRAOEUB
+'unsubscribe': UPB/SAUB/SKRAOEUB
 'nav': TPHA*F
 'dropdown': TKROP/SKWROUPB
 'wireframe': WAOEUR/TPRAEUPL
@@ -70,7 +70,7 @@ UX design vocabulary
 'usability': AOUBLT
 'survey': SOEUF
 'engineering': EPBG/TPHAOERG
-'user-centered': AOURS/H-PB/STR-D
+'user-centered': AOURS/STR*D
 'journey': SKWRURPB
 'feedback': TPAOED/PWABG
 'test': TEFT
@@ -80,7 +80,7 @@ UX design vocabulary
 'workflow': WORBG/TPHROE
 'affordance': AFRD/APBS
 'animation': APB/PHAEUGS
-'auto-complete': O*EUT/H-PB/KPHRAOET
+'auto-complete': OEUT/KPHRAO*ET
 'browser': PWROURS
 'link': HR*EUPBG
 'validation': SRAL/TKAEUGS
@@ -114,8 +114,8 @@ UX design vocabulary
 'touch': TUFP
 'tooltip': TAOL/TEUP
 'Photoshop': TPOET/SHOP
-'Sketch': SKEFP
-'Illustrator': EUL/TRAEURT
+'Sketch': SKEFP/SKEFP
+'Illustrator': KPA/EUL/STRAEURT
 'icon': AOEUPBG
 'hyperlink': HAOEURP/HR*EUPBG
 'image': EUPBLG
@@ -150,7 +150,7 @@ UX design vocabulary
 'URL': URL
 'white': WHAOEUT
 'space': SPAEUS
-'within-page': W-PB/H-PB/PAEUPBLG
+'within-page': W-PB/PA*EUPBLG
 'modal': PHOED/A*L
 'leading': HRAEGD
 'learnability': HRERPB/-BLT
@@ -178,6 +178,6 @@ UX design vocabulary
 'taxonomy': TABGS/OPB/PHEU
 'artboard': ART/PWAORD
 'favicon': TPAF/KOPB
-'nav item': TPHA*F/AOEUT/*EP
+'nav item': TPHA*F/AOEUPLT
 'connectivity': KEBGT/*EUFT
 warning_message=Hint: use the UX design vocabulary dictionary
