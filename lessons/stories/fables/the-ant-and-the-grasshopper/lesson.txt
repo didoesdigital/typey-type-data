@@ -4,24 +4,24 @@ The Ant and the Grasshopper
 'a': AEU
 'field': TPAOELD
 'one': WUPB
-'summer's': SAOURPL AES
+'summer's': SAOURPL/AES
 'day': TKAEU
 'a': AEU
 'Grasshopper': KPA/TKPWHR*FRPBLG
 'was': WAS
 'hopping': HOPG
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'chirping': KHEURP/-G
 'and': SKP
 'singing': SEUPBG/-G
 'to': TO
 'its': EUTS
-'heart's': HART AES
-'content.': KAUPBT TP-PL
+'heart's': HART/AES
+'content.': KAUPBT/TP-PL
 'An': KPA/APB
 'Ant': KPA/A*PBT
 'passed': PAFD
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'bearing': PWAERG
 'along': HRAOPBG
 'with': W
@@ -36,26 +36,26 @@ The Ant and the Grasshopper
 'taking': TAEUG
 'to': TO
 'the': -T
-'nest.': TPHEFT TP-PL
-'"Why': KR-GS KPA/KWR
+'nest.': TPHEFT/TP-PL
+'"Why': KR-GS/KPA/KWR
 'not': TPHOT
 'come': KOPL
 'and': SKP
 'chat': KHAT
 'with': W
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Grasshopper,': KPA/TKPWHR*FRPBLG KW-BG
-'"instead': KR-GS STPHED
+'Grasshopper,': KPA/TKPWHR*FRPBLG/KW-BG
+'"instead': KR-GS/STPHED
 'of': -F
 'toiling': TOEUL/-G
 'and': SKP
 'moiling': xxx moiling
 'in': TPH
 'that': THA
-'way?"': WAEU H-F KR-GS
-'"I': KR-GS EU
+'way?"': WAEU/H-F/KR-GS
+'"I': KR-GS/EU
 'am': APL
 'helping': HEPG
 'to': TO
@@ -64,24 +64,24 @@ The Ant and the Grasshopper
 'food': TPAOD
 'for': TPOR
 'the': -T
-'winter,"': WEURPBT KW-BG KR-GS
+'winter,"': WEURPBT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Ant,': KPA/A*PBT KW-BG
-'"and': KR-GS SKP
+'Ant,': KPA/A*PBT/KW-BG
+'"and': KR-GS/SKP
 'recommend': REPL
 'you': U
 'to': TO
 'do': TKO
 'the': -T
-'same."': SAEUPL TP-PL KR-GS
-'"Why': KR-GS KPA/KWR
+'same."': SAEUPL/TP-PL/KR-GS
+'"Why': KR-GS/KPA/KWR
 'bother': PWOER
 'about': PW
-'winter?"': WEURPBT H-F KR-GS
+'winter?"': WEURPBT/H-F/KR-GS
 'said': SED
 'the': -T
-'Grasshopper;': KPA/TKPWHR*FRPBLG STPH*FPLT
+'Grasshopper;': KPA/TKPWHR*FRPBLG/STPH*FPLT
 'we': WE
 'have': SR
 'got': TKPWOT
@@ -89,7 +89,7 @@ The Ant and the Grasshopper
 'of': -F
 'food': TPAOD
 'at': AT
-'present."': PREPBT TP-PL KR-GS
+'present."': PREPBT/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'Ant': KPA/A*PBT
@@ -100,7 +100,7 @@ The Ant and the Grasshopper
 'and': SKP
 'continued': T-PBD
 'its': EUTS
-'toil.': TOEUL TP-PL
+'toil.': TOEUL/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'winter': WEURPBT
@@ -115,7 +115,7 @@ The Ant and the Grasshopper
 'itself': T/SEFL
 'dying': TKAOEUG
 'of': -F
-'hunger,': HURPBG KW-BG
+'hunger,': HURPBG/KW-BG
 'while': WHAOEUL
 'it': T
 'saw': SAU
@@ -135,11 +135,11 @@ The Ant and the Grasshopper
 'collected': KHREBGD
 'in': TPH
 'the': -T
-'summer.': SAOURPL TP-PL
+'summer.': SAOURPL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'Grasshopper': KPA/TKPWHR*FRPBLG
-'knew:': TPHAOU STPH-FPLT
+'knew:': TPHAOU/STPH-FPLT
 'It': KPA/T
 'is': S
 'best': PWEFT
@@ -149,4 +149,4 @@ The Ant and the Grasshopper
 'the': -T
 'days': TKAEUS
 'of': -F
-'necessity.': TPHES/TEU TP-PL
+'necessity.': TPHES/TEU/TP-PL

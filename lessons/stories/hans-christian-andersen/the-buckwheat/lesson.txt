@@ -1,11 +1,11 @@
 The Buckwheat
 
 'Very': KPA/SRE
-'often,': OFPB KW-BG
+'often,': OFPB/KW-BG
 'after': AF
 'a': AEU
 'violent': SRAOEUPBLT
-'thunder-storm,': THUPBD H-PB STORPL KW-BG
+'thunder-storm,': THUPBD/H-PB/STORPL/KW-BG
 'a': AEU
 'field': TPAOELD
 'of': -F
@@ -13,7 +13,7 @@ The Buckwheat
 'appears': A/PAOERS
 'blackened': PWHRABG/-PBD
 'and': SKP
-'singed,': SEUPB/-PBLGD KW-BG
+'singed,': SEUPB/-PBLGD/KW-BG
 'as': AS
 'if': TP
 'a': AEU
@@ -23,7 +23,7 @@ The Buckwheat
 'had': H
 'passed': PAFD
 'over': OEFR
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'country': KREU
 'people': PAOEPL
@@ -34,7 +34,7 @@ The Buckwheat
 'is': S
 'caused': KAUFD
 'by': PWEU
-'lightning;': HRAOEUT/TPHEUPBG STPH*FPLT
+'lightning;': HRAOEUT/TPHEUPBG/STPH*FPLT
 'but': PWUT
 'I': EU
 'will': HR
@@ -43,7 +43,7 @@ The Buckwheat
 'what': WHA
 'the': -T
 'sparrow': SPAEUR/ROE
-'says,': SEZ KW-BG
+'says,': SEZ/KW-BG
 'and': SKP
 'the': -T
 'sparrow': SPAEUR/ROE
@@ -52,35 +52,35 @@ The Buckwheat
 'from': TPR
 'an': APB
 'old': OLD
-'willow-tree': WEUL/HROE H-PB TRAOE
+'willow-tree': WEUL/HROE/H-PB/TRAOE
 'which': WEU
 'grew': TKPWRAOU
 'near': TPHAOER
 'a': AEU
 'field': TPAOELD
 'of': -F
-'buckwheat,': PWUBG/WHAOET KW-BG
+'buckwheat,': PWUBG/WHAOET/KW-BG
 'and': SKP
 'is': S
 'there': THR
-'still.': STEUL TP-PL
+'still.': STEUL/TP-PL
 'It': KPA/T
 'is': S
 'a': AEU
 'large': HRARPBLG
 'venerable': SREPB/-BL
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'though': THOE
 'a': AEU
 'little': HREUL
 'crippled': KREUPLD
 'by': PWEU
-'age.': AEUPBLG TP-PL
+'age.': AEUPBLG/TP-PL
 'The': KPA/-T
 'trunk': TRUPBG
 'has': HAS
 'been': PW-PB
-'split,': SPHREUT KW-BG
+'split,': SPHREUT/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
@@ -89,12 +89,12 @@ The Buckwheat
 'grass': TKPWRAS
 'and': SKP
 'brambles': PWRAPL/-BLS
-'grow.': TKPWROE TP-PL
+'grow.': TKPWROE/TP-PL
 'The': KPA/-T
 'tree': TRAOE
 'bends': PWEPBDZ
-'for-ward': TPOR H-PB WARD
-'slightly,': SHRAOEULT KW-BG
+'for-ward': TPOR/H-PB/WARD
+'slightly,': SHRAOEULT/KW-BG
 'and': SKP
 'the': -T
 'branches': PWRAFRPBS
@@ -107,24 +107,24 @@ The Buckwheat
 'just': SKWRUFT
 'like': HRAOEUBG
 'green': TKPWRAOEPB
-'hair.': HAEUR TP-PL
+'hair.': HAEUR/TP-PL
 'Corn': KPA/KORPB
 'grows': TKPWRO*ES
 'in': TPH
 'the': -T
 'surrounding': SROUPBGD
-'fields,': TPAOELDZ KW-BG
+'fields,': TPAOELDZ/KW-BG
 'not': TPHOT
 'only': OEPBL
 'rye': RAOEU
 'and': SKP
-'barley,': PWAR/HREU KW-BG
+'barley,': PWAR/HREU/KW-BG
 'but': PWUT
-'oats,-pretty': OET/-S KW-BG H-PB PREUT
+'oats,-pretty': OET/-S/KW-BG/H-PB/PREUT
 'oats': OET/-S
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'when': WHEPB
-'ripe,': RAOEUP KW-BG
+'ripe,': RAOEUP/KW-BG
 'look': HRAOBG
 'like': HRAOEUBG
 'a': AEU
@@ -132,11 +132,11 @@ The Buckwheat
 'of': -F
 'little': HREUL
 'golden': TKPWOELD/*EPB
-'canary-birds': KA/TPHAER H-PB PWEURDZ
+'canary-birds': KA/TPHAER/H-PB/PWEURDZ
 'sitting': SEUGT
 'on': OPB
 'a': AEU
-'bough.': PWO*U TP-PL
+'bough.': PWO*U/TP-PL
 'The': KPA/-T
 'corn': KORPB
 'has': HAS
@@ -157,7 +157,7 @@ The Buckwheat
 'if': TP
 'in': TPH
 'pious': PAOEU/OUS
-'humility.': HAOUPL/EULT TP-PL
+'humility.': HAOUPL/EULT/TP-PL
 'Once': KPA/WUPBS
 'there': THR
 'was': WAS
@@ -165,7 +165,7 @@ The Buckwheat
 'a': AEU
 'field': TPAOELD
 'of': -F
-'buckwheat,': PWUBG/WHAOET KW-BG
+'buckwheat,': PWUBG/WHAOET/KW-BG
 'and': SKP
 'this': TH
 'field': TPAOELD
@@ -174,7 +174,7 @@ The Buckwheat
 'opposite': OP/SEUT
 'to': TO
 'old': OLD
-'willow-tree.': WEUL/HROE H-PB TRAOE TP-PL
+'willow-tree.': WEUL/HROE/H-PB/TRAOE/TP-PL
 'The': KPA/-T
 'buckwheat': PWUBG/WHAOET
 'did': TK
@@ -183,7 +183,7 @@ The Buckwheat
 'like': HRAOEUBG
 'the': -T
 'other': OER
-'grain,': TKPWRAEUPB KW-BG
+'grain,': TKPWRAEUPB/KW-BG
 'but': PWUT
 'erected': AOE/REBGD
 'its': EUTS
@@ -193,22 +193,22 @@ The Buckwheat
 'stiffly': STEUF/HREU
 'on': OPB
 'the': -T
-'stem.': STEPL TP-PL
-'"I': KR-GS EU
+'stem.': STEPL/TP-PL
+'"I': KR-GS/EU
 'am': APL
 'as': AS
 'valuable': SRABL
 'as': AS
 'any': TPHEU
 'other': OER
-'corn,"': KORPB KW-BG KR-GS
+'corn,"': KORPB/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"and': KR-GS SKP
+'he,': HE/KW-BG
+'"and': KR-GS/SKP
 'I': EU
 'am': APL
 'much': PHUFP
-'handsomer;': HAPBD/SO*PL/TK-LS/*E/R* STPH*FPLT
+'handsomer;': HAPBD/SO*PL/TK-LS/*E/R*/STPH*FPLT
 'my': PHEU
 'flowers': TPHRO*URS
 'are': R
@@ -220,7 +220,7 @@ The Buckwheat
 'of': -F
 'the': -T
 'apple': A*EPL
-'blossom,': PWHROFPL KW-BG
+'blossom,': PWHROFPL/KW-BG
 'and': SKP
 'it': T
 'is': S
@@ -229,7 +229,7 @@ The Buckwheat
 'to': TO
 'look': HRAOBG
 'at': AT
-'us.': US TP-PL
+'us.': US/TP-PL
 'Do': KPA/TKO
 'you': U
 'know': TPHOE
@@ -238,24 +238,24 @@ The Buckwheat
 'prettier': PRET/KWRER
 'than': THAPB
 'we': WE
-'are,': R KW-BG
+'are,': R/KW-BG
 'you': U
 'old': OLD
-'willow-tree?"': WEUL/HROE H-PB TRAOE H-F KR-GS
+'willow-tree?"': WEUL/HROE/H-PB/TRAOE/H-F/KR-GS
 'And': AFPBD
 'the': -T
-'willow-tree': WEUL/HROE H-PB TRAOE
+'willow-tree': WEUL/HROE/H-PB/TRAOE
 'nodded': TPHOD/-D
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'as': AS
 'if': TP
 'he': HE
 'would': WO
-'say,': SAEU KW-BG
-'"Indeed': KR-GS KPA/TPHAOEPBD
+'say,': SAEU/KW-BG
+'"Indeed': KR-GS/KPA/TPHAOEPBD
 'I': EU
-'do."': TKO TP-PL KR-GS
+'do."': TKO/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'buckwheat': PWUBG/WHAOET
@@ -263,11 +263,11 @@ The Buckwheat
 'itself': T/SEFL
 'out': OUT
 'with': W
-'pride,': PRAOEUD KW-BG
+'pride,': PRAOEUD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-'"Stupid': KR-GS KPA/STAOUPD
-'tree;': TRAOE STPH*FPLT
+'said,': SED/KW-BG
+'"Stupid': KR-GS/KPA/STAOUPD
+'tree;': TRAOE/STPH*FPLT
 'he': HE
 'is': S
 'so': SO
@@ -278,31 +278,31 @@ The Buckwheat
 'out': OUT
 'of': -F
 'his': HEUS
-'body."': PWO*ED TP-PL KR-GS
+'body."': PWO*ED/TP-PL/KR-GS
 'There': KPA/THR
 'arose': A/ROES
 'a': AEU
 'very': SRE
 'terrible': TERBL
-'storm.': STORPL TP-PL
+'storm.': STORPL/TP-PL
 'All': KPA/AUL
 'the': -T
-'field-flowers': TPAOELD H-PB TPHRO*URS
+'field-flowers': TPAOELD/H-PB/TPHRO*URS
 'folded': TPOELD/-D
 'their': THAEUR
 'leaves': HREFS
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'or': OR
 'bowed': PWOE/-D
 'their': THAEUR
 'little': HREUL
-'heads,': HEDZ KW-BG
+'heads,': HEDZ/KW-BG
 'while': WHAOEUL
 'the': -T
 'storm': STORPL
 'passed': PAFD
 'over': OEFR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'but': PWUT
 'the': -T
 'buckwheat': PWUBG/WHAOET
@@ -310,44 +310,44 @@ The Buckwheat
 'erect': ER/EBGT
 'in': TPH
 'its': EUTS
-'pride.': PRAOEUD TP-PL
-'"Bend': KR-GS KPA/PWEPBD
+'pride.': PRAOEUD/TP-PL
+'"Bend': KR-GS/KPA/PWEPBD
 'your': KWROUR
 'head': HED
 'as': AS
 'we': WE
-'do,"': TKO KW-BG KR-GS
+'do,"': TKO/KW-BG/KR-GS
 'said': SED
 'the': -T
-'flowers.': TPHRO*URS TP-PL
-'"I': KR-GS EU
+'flowers.': TPHRO*URS/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'no': TPHO
 'occasion': KWAEUGS
 'to': TO
 'do': TKO
-'so,"': SO KW-BG KR-GS
+'so,"': SO/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'buckwheat.': PWUBG/WHAOET TP-PL
-'"Bend': KR-GS KPA/PWEPBD
+'buckwheat.': PWUBG/WHAOET/TP-PL
+'"Bend': KR-GS/KPA/PWEPBD
 'your': KWROUR
 'head': HED
 'as': AS
 'we': WE
-'do,"': TKO KW-BG KR-GS
+'do,"': TKO/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
 'ears': AOERS
 'of': -F
-'corn;': KORPB STPH*FPLT
-'"the': KR-GS -T
+'corn;': KORPB/STPH*FPLT
+'"the': KR-GS/-T
 'angel': APB/SKWREL
 'of': -F
 'the': -T
 'storm': STORPL
 'is': S
-'coming;': KO*G STPH*FPLT
+'coming;': KO*G/STPH*FPLT
 'his': HEUS
 'wings': WEUPBGS
 'spread': SPRED
@@ -358,7 +358,7 @@ The Buckwheat
 'to': TO
 'the': -T
 'earth': *ERT
-'beneath.': TPHAO*ET TP-PL
+'beneath.': TPHAO*ET/TP-PL
 'He': KPA/HE
 'will': HR
 'strike': STRAOEUBG
@@ -369,29 +369,29 @@ The Buckwheat
 'can': K
 'cry': KRAOEU
 'for': TPOR
-'mercy."': PHER/SEU TP-PL KR-GS
-'"But': KR-GS KPA/PWUT
+'mercy."': PHER/SEU/TP-PL/KR-GS
+'"But': KR-GS/KPA/PWUT
 'I': EU
 'will': HR
 'not': TPHOT
 'bend': PWEPBD
 'my': PHEU
-'head,"': HED KW-BG KR-GS
+'head,"': HED/KW-BG/KR-GS
 'said': SED
 'the': -T
-'buckwheat.': PWUBG/WHAOET TP-PL
-'"Close': KR-GS KPA/KHROES
+'buckwheat.': PWUBG/WHAOET/TP-PL
+'"Close': KR-GS/KPA/KHROES
 'your': KWROUR
 'flowers': TPHRO*URS
 'and': SKP
 'bend': PWEPBD
 'your': KWROUR
-'leaves,"': HREFS KW-BG KR-GS
+'leaves,"': HREFS/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
-'willow-tree.': WEUL/HROE H-PB TRAOE TP-PL
-'"Do': KR-GS KPA/TKO
+'willow-tree.': WEUL/HROE/H-PB/TRAOE/TP-PL
+'"Do': KR-GS/KPA/TKO
 'not': TPHOT
 'look': HRAOBG
 'at': AT
@@ -400,24 +400,24 @@ The Buckwheat
 'when': WHEPB
 'the': -T
 'cloud': KHROUD
-'bursts;': PWUFRTS STPH*FPLT
+'bursts;': PWUFRTS/STPH*FPLT
 'even': AOEPB
 'men': PHEPB
 'cannot': SK-PBT
 'do': TKO
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'In': KPA/TPH
 'a': AEU
 'flash': TPHRARB
 'of': -F
 'lightning': HRAOEUT/TPHEUPBG
 'heaven': HEFPB
-'opens,': OEPS KW-BG
+'opens,': OEPS/KW-BG
 'and': SKP
 'we': WE
 'can': K
 'look': HRAOBG
-'in;': TPH STPH*FPLT
+'in;': TPH/STPH*FPLT
 'but': PWUT
 'the': -T
 'sight': SAOEUT
@@ -426,38 +426,38 @@ The Buckwheat
 'even': AOEPB
 'human': HAOUPL
 'beings': -BGZ
-'blind.': PWHRAOEUPBD TP-PL
+'blind.': PWHRAOEUPBD/TP-PL
 'What': KPA/WHA
 'then': THEPB
 'must': PHUFT
 'happen': HAP
 'to': TO
-'us,': US KW-BG
+'us,': US/KW-BG
 'who': WHO
 'only': OEPBL
 'grow': TKPWROE
 'out': OUT
 'of': -F
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'and': SKP
 'are': R
 'so': SO
 'inferior': OEUFPB
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'if': TP
 'we': WE
 'venture': SREPBT/UR
 'to': TO
 'do': TKO
-'so?"': SO H-F KR-GS
-'"Inferior,': KR-GS KPA/OEUFPB KW-BG
-'indeed!"': TPHAOEPBD SKHRAPL KR-GS
+'so?"': SO/H-F/KR-GS
+'"Inferior,': KR-GS/KPA/OEUFPB/KW-BG
+'indeed!"': TPHAOEPBD/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'buckwheat.': PWUBG/WHAOET TP-PL
-'"Now': KR-GS KPA/TPHOU
+'buckwheat.': PWUBG/WHAOET/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'I': EU
 'intend': SPWEPBD
 'to': TO
@@ -465,13 +465,13 @@ The Buckwheat
 'a': AEU
 'peep': PAOEP
 'into': TPHAO
-'heaven."': HEFPB TP-PL KR-GS
+'heaven."': HEFPB/TP-PL/KR-GS
 'Proudly': KPA/PROUD/HREU
 'and': SKP
 'boldly': PWOLD/HREU
 'he': HE
 'looked': HRAOBGD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'while': WHAOEUL
 'the': -T
 'lightning': HRAOEUT/TPHEUPBG
@@ -486,13 +486,13 @@ The Buckwheat
 'world': WORLD
 'were': WR
 'in': TPH
-'flames.': TPHRAEUPLS TP-PL
+'flames.': TPHRAEUPLS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'dreadful': TKREFL
 'storm': STORPL
 'had': H
-'passed,': PAFD KW-BG
+'passed,': PAFD/KW-BG
 'the': -T
 'flowers': TPHRO*URS
 'and': SKP
@@ -506,11 +506,11 @@ The Buckwheat
 'the': -T
 'pure': PAOUR
 'still': STEUL
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'refreshed': RERB/-D
 'by': PWEU
 'the': -T
-'rain,': RAEUPB KW-BG
+'rain,': RAEUPB/KW-BG
 'but': PWUT
 'the': -T
 'buckwheat': PWUBG/WHAOET
@@ -520,26 +520,26 @@ The Buckwheat
 'weed': WAO*ED
 'in': TPH
 'the': -T
-'field,': TPAOELD KW-BG
+'field,': TPAOELD/KW-BG
 'burnt': PWURPBT
 'to': TO
 'blackness': PWHRABG/-PBS
 'by': PWEU
 'the': -T
-'lightning.': HRAOEUT/TPHEUPBG TP-PL
+'lightning.': HRAOEUT/TPHEUPBG/TP-PL
 'The': KPA/-T
 'branches': PWRAFRPBS
 'of': -F
 'the': -T
 'old': OLD
-'willow-tree': WEUL/HROE H-PB TRAOE
+'willow-tree': WEUL/HROE/H-PB/TRAOE
 'rustled': RUS/-LD
 'in': TPH
 'the': -T
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'and': SKP
 'large': HRARPBLG
-'water-drops': WAUR H-PB TKROPS
+'water-drops': WAUR/H-PB/TKROPS
 'fell': TPEL
 'from': TPR
 'his': HEUS
@@ -551,7 +551,7 @@ The Buckwheat
 'old': OLD
 'willow': WEUL/HROE
 'were': WR
-'weeping.': WAOEP/-G TP-PL
+'weeping.': WAOEP/-G/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'sparrows': SPAEUR/ROE/-S
@@ -559,21 +559,21 @@ The Buckwheat
 'why': KWR
 'he': HE
 'was': WAS
-'weeping,': WAOEP/-G KW-BG
+'weeping,': WAOEP/-G/KW-BG
 'when': WHEPB
 'all': AUL
 'around': ARPBD
 'him': HEUPL
 'seemed': SAOEPLD
 'so': SO
-'cheerful.': KHAOER/-FL TP-PL
-'"See,"': KR-GS KPA/SAOE KW-BG KR-GS
+'cheerful.': KHAOER/-FL/TP-PL
+'"See,"': KR-GS/KPA/SAOE/KW-BG/KR-GS
 'they': THE
-'said,': SED KW-BG
-'"how': KR-GS HOU
+'said,': SED/KW-BG
+'"how': KR-GS/HOU
 'the': -T
 'sun': SUPB
-'shines,': SHAOEUPBS KW-BG
+'shines,': SHAOEUPBS/KW-BG
 'and': SKP
 'the': -T
 'clouds': KHROUDZ
@@ -581,7 +581,7 @@ The Buckwheat
 'in': TPH
 'the': -T
 'blue': PWHRU
-'sky.': SKAOEU TP-PL
+'sky.': SKAOEU/TP-PL
 'Do': KPA/TKO
 'you': U
 'not': TPHOT
@@ -592,13 +592,13 @@ The Buckwheat
 'from': TPR
 'flower': TPHRO*UR
 'and': SKP
-'bush?': PWURB H-F
+'bush?': PWURB/H-F
 'Wherefore': KPA/W-R/TPOR
 'do': TKO
 'you': U
-'weep,': WAOEP KW-BG
+'weep,': WAOEP/KW-BG
 'old': OLD
-'willow-tree?"': WEUL/HROE H-PB TRAOE H-F KR-GS
+'willow-tree?"': WEUL/HROE/H-PB/TRAOE/H-F/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'willow': WEUL/HROE
@@ -610,7 +610,7 @@ The Buckwheat
 'pride': PRAOEUD
 'of': -F
 'the': -T
-'buckwheat,': PWUBG/WHAOET KW-BG
+'buckwheat,': PWUBG/WHAOET/KW-BG
 'and': SKP
 'of': -F
 'the': -T
@@ -618,7 +618,7 @@ The Buckwheat
 'which': WEU
 'followed': TPOLD
 'in': TPH
-'consequence.': KWEPBS TP-PL
+'consequence.': KWEPBS/TP-PL
 'This': KPA/TH
 'is': S
 'the': -T
@@ -639,4 +639,4 @@ The Buckwheat
 'some': SOPL
 'tale': TAEL
 'to': TO
-'me.': PHE TP-PL
+'me.': PHE/TP-PL

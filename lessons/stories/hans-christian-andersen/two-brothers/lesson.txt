@@ -5,22 +5,22 @@ Two Brothers
 'of': -F
 'the': -T
 'Danish': TKAEUPB/EURB
-'islands,': AOEU/HRAPBDZ KW-BG
+'islands,': AOEU/HRAPBDZ/KW-BG
 'where': W-R
 'old': OLD
-'Thingstones,': xxx Thingstones KW-BG
+'Thingstones,': xxx Thingstones/KW-BG
 'the': -T
 'seats': SAOETS
 'of': -F
 'justice': SKWRUFS
 'of': -F
 'our': OUR
-'forefathers,': TPOER/TPA*T/ERS KW-BG
+'forefathers,': TPOER/TPA*T/ERS/KW-BG
 'still': STEUL
 'stand': STAPBD
 'in': TPH
 'the': -T
-'cornfields,': KORPB/TPAO*ELD/-S KW-BG
+'cornfields,': KORPB/TPAO*ELD/-S/KW-BG
 'and': SKP
 'huge': HAOUPBLG
 'trees': TRAOES
@@ -29,7 +29,7 @@ Two Brothers
 'the': -T
 'forests': TPOEFRT/-S
 'of': -F
-'beech,': PWAOEFP KW-BG
+'beech,': PWAOEFP/KW-BG
 'there': THR
 'lies': HRAO*EUS
 'a': AEU
@@ -42,7 +42,7 @@ Two Brothers
 'covered': KOFRD
 'with': W
 'red': RED
-'tiles.': TAOEULS TP-PL
+'tiles.': TAOEULS/TP-PL
 'In': KPA/TPH
 'one': WUPB
 'of': -F
@@ -59,7 +59,7 @@ Two Brothers
 'on': OPB
 'the': -T
 'open': OEP
-'hearth;': HAERT STPH*FPLT
+'hearth;': HAERT/STPH*FPLT
 'there': THR
 'was': WAS
 'a': AEU
@@ -67,12 +67,12 @@ Two Brothers
 'going': TKPW-G
 'on': OPB
 'in': TPH
-'glasses,': TKPWHRAFS KW-BG
+'glasses,': TKPWHRAFS/KW-BG
 'and': SKP
 'a': AEU
 'mixing': PH*EUFG
 'and': SKP
-'distilling,': TKEUS/STEUL/-G KW-BG
+'distilling,': TKEUS/STEUL/-G/KW-BG
 'while': WHAOEUL
 'herbs': HERBS
 'were': WR
@@ -82,28 +82,28 @@ Two Brothers
 'and': SKP
 'pounded': POUPBD/-D
 'in': TPH
-'mortars.': PHOR/TAR/-S TP-PL
+'mortars.': PHOR/TAR/-S/TP-PL
 'An': KPA/APB
 'elderly': ERLD
 'man': PHAPB
 'looked': HRAOBGD
 'after': AF
 'it': T
-'all.': AUL TP-PL
-'"One': KR-GS KPA/WUPB
+'all.': AUL/TP-PL
+'"One': KR-GS/KPA/WUPB
 'must': PHUFT
 'only': OEPBL
 'do': TKO
 'the': -T
 'right': RAOEUT
-'thing,"': THEUPBG KW-BG KR-GS
+'thing,"': THEUPBG/KW-BG/KR-GS
 'he': HE
-'said;': SED STPH*FPLT
-'"yes,': KR-GS KWRE KW-BG
+'said;': SED/STPH*FPLT
+'"yes,': KR-GS/KWRE/KW-BG
 'the': -T
-'right—the': RAOEUT EPL/TKA*RB -T
+'right—the': RAOEUT/EPL/TKA*RB/-T
 'correct': KREBGT
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'One': KPA/WUPB
 'must': PHUFT
 'find': TPAOEUPBD
@@ -113,11 +113,11 @@ Two Brothers
 'concerning': K-RPBG
 'every': EF
 'created': KRAOETD
-'particle,': PARL KW-BG
+'particle,': PARL/KW-BG
 'and': SKP
 'keep': KAOEP
 'to': TO
-'that."': THA TP-PL KR-GS
+'that."': THA/TP-PL/KR-GS
 'In': KPA/TPH
 'the': -T
 'room': RAOPL
@@ -128,18 +128,18 @@ Two Brothers
 'sat': SAT
 'her': HER
 'two': TWO
-'sons;': SOPBS STPH*FPLT
+'sons;': SOPBS/STPH*FPLT
 'they': THE
 'were': WR
 'still': STEUL
-'small,': SPHAL KW-BG
+'small,': SPHAL/KW-BG
 'but': PWUT
 'had': H
 'great': TKPWRAET
-'thoughts.': THAUTS TP-PL
+'thoughts.': THAUTS/TP-PL
 'Their': KPA/THAEUR
-'mother,': PHOER KW-BG
-'too,': TAO KW-BG
+'mother,': PHOER/KW-BG
+'too,': TAO/KW-BG
 'had': H
 'always': AULS
 'spoken': SPOEPB
@@ -148,7 +148,7 @@ Two Brothers
 'of': -F
 'right': RAOEUT
 'and': SKP
-'justice,': SKWRUFS KW-BG
+'justice,': SKWRUFS/KW-BG
 'and': SKP
 'exhorted': KPHORT/-D
 'them': THEPL
@@ -156,7 +156,7 @@ Two Brothers
 'keep': KAOEP
 'to': TO
 'the': -T
-'truth,': TRAO*UT KW-BG
+'truth,': TRAO*UT/KW-BG
 'which': WEU
 'she': SHE
 'said': SED
@@ -168,7 +168,7 @@ Two Brothers
 'Lord': HRO*RD
 'in': TPH
 'this': TH
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'The': KPA/-T
 'elder': ELD/ER
 'of': -F
@@ -177,7 +177,7 @@ Two Brothers
 'looked': HRAOBGD
 'roguish': ROEG/EURB
 'and': SKP
-'enterprising.': EPBT/PRAOEUZ/-G TP-PL
+'enterprising.': EPBT/PRAOEUZ/-G/TP-PL
 'He': KPA/HE
 'took': TAOBG
 'a': AEU
@@ -188,34 +188,34 @@ Two Brothers
 'the': -T
 'forces': TPORSZ
 'of': -F
-'nature,': TPHAEURT KW-BG
+'nature,': TPHAEURT/KW-BG
 'of': -F
 'the': -T
 'sun': SUPB
 'and': SKP
 'the': -T
-'moon;': PHAOPB STPH*FPLT
+'moon;': PHAOPB/STPH*FPLT
 'no': TPHO
 'fairy': TPAEUR/REU
 'tale': TAEL
 'pleased': PHREFD
 'him': HEUPL
 'so': SO
-'much.': PHUFP TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'much.': PHUFP/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'how': HOU
 'beautiful': PWAOUFL
 'it': T
 'must': PHUFT
-'be,': -B KW-BG
+'be,': -B/KW-BG
 'he': HE
-'thought,': THAUT KW-BG
+'thought,': THAUT/KW-BG
 'to': TO
 'go': TKPW
 'on': OPB
 'voyages': SROEUPBLGS
 'of': -F
-'discovery,': SKOEFR KW-BG
+'discovery,': SKOEFR/KW-BG
 'or': OR
 'to': TO
 'find': TPAOEUPBD
@@ -233,8 +233,8 @@ Two Brothers
 'be': -B
 'able': ABL
 'to': TO
-'fly!': TPHRAOEU SKHRAPL
-'Yes,': KPA/KWRE KW-BG
+'fly!': TPHRAOEU/SKHRAPL
+'Yes,': KPA/KWRE/KW-BG
 'to': TO
 'find': TPAOEUPBD
 'that': THA
@@ -242,30 +242,30 @@ Two Brothers
 'was': WAS
 'the': -T
 'right': RAOEUT
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'Father': KPA/TPAER
 'was': WAS
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'and': SKP
 'mother': PHOER
 'was': WAS
-'right—truth': RAOEUT EPL/TKA*RB TRAO*UT
+'right—truth': RAOEUT/EPL/TKA*RB/TRAO*UT
 'holds': HOLDZ
 'the': -T
 'world': WORLD
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'The': KPA/-T
 'younger': KWRURPBG
 'brother': PWROER
 'was': WAS
-'quieter,': KWAOEURT KW-BG
+'quieter,': KWAOEURT/KW-BG
 'and': SKP
 'buried': PWUR/EUD
 'himself': HEUPLS
 'entirely': SPWAOEURL
 'in': TPH
 'his': HEUS
-'books.': PWAOBGS TP-PL
+'books.': PWAOBGS/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'read': RAED
@@ -274,17 +274,17 @@ Two Brothers
 'dressing': TKREFG
 'himself': HEUPLS
 'in': TPH
-'sheep-skins': SHAOEP H-PB SKEUPBS
+'sheep-skins': SHAOEP/H-PB/SKEUPBS
 'to': TO
 'personify': PERPB/TPAOEU
-'Esau,': xxx Esau KW-BG
+'Esau,': xxx Esau/KW-BG
 'and': SKP
 'so': SO
 'to': TO
 'usurp': U/SURP
 'his': HEUS
 'brother's': PWROER/AES
-'birthright,': PW*EURT/RAOEUGT KW-BG
+'birthright,': PW*EURT/RAOEUGT/KW-BG
 'he': HE
 'would': WO
 'clench': KHREFRPB
@@ -295,7 +295,7 @@ Two Brothers
 'anger': ARPBG
 'against': TKPWEPBS
 'the': -T
-'deceiver;': TKE/SAOEFR STPH*FPLT
+'deceiver;': TKE/SAOEFR/STPH*FPLT
 'when': WHEPB
 'he': HE
 'read': RAED
@@ -309,13 +309,13 @@ Two Brothers
 'wickedness': WEUBGD/-PBS
 'of': -F
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'tears': TAERS
 'would': WO
 'come': KOPL
 'into': TPHAO
 'his': HEUS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'he': HE
 'was': WAS
@@ -333,14 +333,14 @@ Two Brothers
 'must': PHUFT
 'and': SKP
 'would': WO
-'triumph.': TRAOEUFPL TP-PL
+'triumph.': TRAOEUFPL/TP-PL
 'One': KPA/WUPB
 'evening': AOEPBG
 'he': HE
 'was': WAS
 'lying': HRAOEUG
 'in': TPH
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'but': PWUT
 'the': -T
 'curtains': KUR/TEUPBS
@@ -348,14 +348,14 @@ Two Brothers
 'not': TPHOT
 'yet': KWRET
 'drawn': TKRAUPB
-'close,': KHROES KW-BG
+'close,': KHROES/KW-BG
 'and': SKP
 'the': -T
 'light': HRAOEUT
 'streamed': STRAOEPL/-D
 'in': TPH
 'upon': POPB
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'he': HE
 'had': H
 'taken': TAEPB
@@ -364,7 +364,7 @@ Two Brothers
 'into': TPHAO
 'bed': PWED
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'for': TPOR
 'he': HE
 'wanted': WAPBTD
@@ -374,7 +374,7 @@ Two Brothers
 'the': -T
 'story': STOER
 'of': -F
-'Solon.': xxx Solon TP-PL
+'Solon.': xxx Solon/TP-PL
 'His': KPA/HEUS
 'thoughts': THAUTS
 'lifted': HREUFTD
@@ -384,7 +384,7 @@ Two Brothers
 'away': WA*EU
 'a': AEU
 'wonderful': WUFL
-'distance;': STKAPBS STPH*FPLT
+'distance;': STKAPBS/STPH*FPLT
 'it': T
 'seemed': SAOEPLD
 'to': TO
@@ -401,14 +401,14 @@ Two Brothers
 'along': HRAOPBG
 'under': TPH-PB
 'full': TPUL
-'sail.': SAEUL TP-PL
+'sail.': SAEUL/TP-PL
 'Was': KPA/WAS
 'he': HE
-'dreaming,': TKRAOEPLG KW-BG
+'dreaming,': TKRAOEPLG/KW-BG
 'or': OR
 'what': WHA
 'was': WAS
-'happening?': HAPG H-F
+'happening?': HAPG/H-F
 'It': KPA/T
 'glided': TKPWHRAOEUD/-D
 'over': OEFR
@@ -420,7 +420,7 @@ Two Brothers
 'the': -T
 'ocean': OEGS
 'of': -F
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'to': TO
 'him': HEUPL
@@ -428,27 +428,27 @@ Two Brothers
 'the': -T
 'voice': SROEUS
 'of': -F
-'Solon;': xxx Solon STPH*FPLT
+'Solon;': xxx Solon/STPH*FPLT
 'spoken': SPOEPB
 'in': TPH
 'a': AEU
 'strange': STRAEUPBG
-'tongue,': TUPBG KW-BG
+'tongue,': TUPBG/KW-BG
 'yet': KWRET
 'intelligible': EUPB/TEL/EUBL
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'he': HE
 'heard': HAERD
 'the': -T
 'Danish': TKAEUPB/EURB
-'motto:': PHOT/TOE STPH-FPLT
-'"By': KR-GS KPA/PWEU
+'motto:': PHOT/TOE/STPH-FPLT
+'"By': KR-GS/KPA/PWEU
 'law': HRAU
 'the': -T
 'land': HRAPBD
 'is': S
-'ruled."': RAOULD TP-PL KR-GS
+'ruled."': RAOULD/TP-PL/KR-GS
 'The': KPA/-T
 'genius': SKWRAOEPB/KWROUS
 'of': -F
@@ -459,7 +459,7 @@ Two Brothers
 'in': TPH
 'the': -T
 'humble': HUPL/-BL
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'bent': PWEPBT
 'down': TKOUPB
 'over': OEFR
@@ -471,9 +471,9 @@ Two Brothers
 'kiss': KEUS
 'on': OPB
 'the': -T
-'boy's': PWOEU AES
-'forehead:': TPOER/HED STPH-FPLT
-'"Be': KR-GS KPA/-B
+'boy's': PWOEU/AES
+'forehead:': TPOER/HED/STPH-FPLT
+'"Be': KR-GS/KPA/-B
 'thou': THO*U
 'strong': STROPBG
 'in': TPH
@@ -484,7 +484,7 @@ Two Brothers
 'the': -T
 'battle': PWA*LT
 'of': -F
-'life!': HRAOEUF SKHRAPL
+'life!': HRAOEUF/SKHRAPL
 'With': KPA/W
 'truth': TRAO*UT
 'in': TPH
@@ -495,7 +495,7 @@ Two Brothers
 'the': -T
 'land': HRAPBD
 'of': -F
-'truth!"': TRAO*UT SKHRAPL KR-GS
+'truth!"': TRAO*UT/SKHRAPL/KR-GS
 'The': KPA/-T
 'elder': ELD/ER
 'brother': PWROER
@@ -503,7 +503,7 @@ Two Brothers
 'not': TPHOT
 'yet': KWRET
 'in': TPH
-'bed;': PWED STPH*FPLT
+'bed;': PWED/STPH*FPLT
 'he': HE
 'was': WAS
 'standing': STAPBG
@@ -519,24 +519,24 @@ Two Brothers
 'rose': ROEZ
 'from': TPR
 'the': -T
-'meadows.': PHED/OES TP-PL
+'meadows.': PHED/OES/TP-PL
 'They': KPA/THE
 'were': WR
 'not': TPHOT
 'elves': EFLS
 'dancing': TKAPBS/-G
 'out': OUT
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'as': AS
 'their': THAEUR
 'old': OLD
 'nurse': TPHURS
 'had': H
 'told': TOLD
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'he': HE
 'knew': TPHAOU
-'better—they': PWOERT EPL/TKA*RB THE
+'better—they': PWOERT/EPL/TKA*RB/THE
 'were': WR
 'vapours': SRAEUP/O*RS/A*U
 'which': WEU
@@ -544,23 +544,23 @@ Two Brothers
 'warmer': WARPL/*ER
 'than': THAPB
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'and': SKP
 'that': THA
 'is': S
 'why': KWR
 'they': THE
-'rose.': ROEZ TP-PL
+'rose.': ROEZ/TP-PL
 'A': KPA/AEU
 'shooting': SHAOGT
 'star': STAR
 'lit': HREUT
 'up': UP
 'the': -T
-'sky,': SKAOEU KW-BG
+'sky,': SKAOEU/KW-BG
 'and': SKP
 'the': -T
-'boy's': PWOEU AES
+'boy's': PWOEU/AES
 'thoughts': THAUTS
 'passed': PAFD
 'in': TPH
@@ -576,13 +576,13 @@ Two Brothers
 'to': TO
 'the': -T
 'shining': SHAOEUPBG
-'meteor.': PHAOET/KWROR TP-PL
+'meteor.': PHAOET/KWROR/TP-PL
 'The': KPA/-T
 'stars': STARS
 'gleamed': TKPWHRAOEPL/-D
 'in': TPH
 'the': -T
-'heavens,': HEFPBS KW-BG
+'heavens,': HEFPBS/KW-BG
 'and': SKP
 'it': T
 'seemed': SAOEPLD
@@ -597,26 +597,26 @@ Two Brothers
 'them': THEPL
 'to': TO
 'the': -T
-'earth.': *ERT TP-PL
-'"Fly': KR-GS KPA/TPHRAOEU
+'earth.': *ERT/TP-PL
+'"Fly': KR-GS/KPA/TPHRAOEU
 'with': W
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'sang': SAPBG
 'a': AEU
-'voice,': SROEUS KW-BG
+'voice,': SROEUS/KW-BG
 'which': WEU
 'the': -T
 'boy': PWOEU
 'heard': HAERD
 'in': TPH
 'his': HEUS
-'heart.': HART TP-PL
+'heart.': HART/TP-PL
 'And': AFPBD
 'the': -T
 'mighty': PHAOEUT/KWREU
 'genius': SKWRAOEPB/KWROUS
 'of': -F
-'mankind,': PHAPB/KAOEUPBD KW-BG
+'mankind,': PHAPB/KAOEUPBD/KW-BG
 'swifter': SWEUF/TER
 'than': THAPB
 'a': AEU
@@ -624,16 +624,16 @@ Two Brothers
 'and': SKP
 'than': THAPB
 'an': APB
-'arrow—swifter': RO*EUR EPL/TKA*RB SWEUF/TER
+'arrow—swifter': RO*EUR/EPL/TKA*RB/SWEUF/TER
 'than': THAPB
 'anything': TPHEUG
 'of': -F
 'earthly': *ERT/HREU
-'origin—carried': O*RPBLG EPL/TKA*RB KAERD
+'origin—carried': O*RPBLG/EPL/TKA*RB/KAERD
 'him': HEUPL
 'out': OUT
 'into': TPHAO
-'space,': SPAEUS KW-BG
+'space,': SPAEUS/KW-BG
 'where': W-R
 'the': -T
 'heavenly': HEFPBL
@@ -649,14 +649,14 @@ Two Brothers
 'from': TPR
 'star': STAR
 'to': TO
-'star.': STAR TP-PL
+'star.': STAR/TP-PL
 'Our': KPA/OUR
 'earth': *ERT
 'revolved': ROFLD
 'in': TPH
 'the': -T
 'thin': THEUPB
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'and': SKP
 'the': -T
 'cities': STEUS
@@ -668,19 +668,19 @@ Two Brothers
 'close': KHROES
 'to': TO
 'each': AOEFP
-'other.': OER TP-PL
+'other.': OER/TP-PL
 'Through': KPA/THRU
 'the': -T
 'spheres': STPAOERS
 'echoed': EBG/OE/-D
 'the': -T
-'words:': WORDZ STPH-FPLT
-'"What': KR-GS KPA/WHA
+'words:': WORDZ/STPH-FPLT
+'"What': KR-GS/KPA/WHA
 'is': S
-'near,': TPHAOER KW-BG
+'near,': TPHAOER/KW-BG
 'what': WHA
 'is': S
-'far,': TPAR KW-BG
+'far,': TPAR/KW-BG
 'when': WHEPB
 'thou': THO*U
 'art': ART
@@ -690,7 +690,7 @@ Two Brothers
 'mighty': PHAOEUT/KWREU
 'genius': SKWRAOEPB/KWROUS
 'of': -F
-'mind?"': PHAOEUPBD H-F KR-GS
+'mind?"': PHAOEUPBD/H-F/KR-GS
 'And': AFPBD
 'again': TKPWEPB
 'the': -T
@@ -698,35 +698,35 @@ Two Brothers
 'stood': STAOD
 'by': PWEU
 'the': -T
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'gazing': TKPWAEUFG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'whilst': WHAOEULS
 'his': HEUS
 'younger': KWRURPBG
 'brother': PWROER
 'lay': HRAEU
 'in': TPH
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'Their': KPA/THAEUR
 'mother': PHOER
 'called': KAULD
 'them': THEPL
 'by': PWEU
 'their': THAEUR
-'names:': TPHAEUPLS STPH-FPLT
-'"Anders': KR-GS APBD/*ER/-S
-'Sandoe"': xxx Sandoe KR-GS
+'names:': TPHAEUPLS/STPH-FPLT
+'"Anders': KR-GS/APBD/*ER/-S
+'Sandoe"': xxx Sandoe/KR-GS
 'and': SKP
-'"Hans': KR-GS HAPBS
-'Christian."': KREUGS TP-PL KR-GS
+'"Hans': KR-GS/HAPBS
+'Christian."': KREUGS/TP-PL/KR-GS
 'Denmark': TKEPB/PHARBG
 'and': SKP
 'the': -T
 'whole': WHOEL
 'world': WORLD
 'knows': TPHOEZ
-'them—the': THEPL EPL/TKA*RB -T
+'them—the': THEPL/EPL/TKA*RB/-T
 'two': TWO
 'brothers': PWROERS
-'Oersted.': KPA/*ERS/-D TP-PL
+'Oersted.': KPA/*ERS/-D/TP-PL

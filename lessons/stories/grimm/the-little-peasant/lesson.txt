@@ -12,18 +12,18 @@ The Little Peasant
 'but': PWUT
 'really': R-L
 'rich': REUFP
-'peasants,': PEFPBT/-S KW-BG
+'peasants,': PEFPBT/-S/KW-BG
 'and': SKP
 'just': SKWRUFT
 'one': WUPB
 'poor': PAOR
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'whom': WHOPL
 'they': THE
 'called': KAULD
 'the': -T
 'little': HREUL
-'peasant.': PEFPBT TP-PL
+'peasant.': PEFPBT/TP-PL
 'He': KPA/HE
 'had': H
 'not': TPHOT
@@ -32,14 +32,14 @@ The Little Peasant
 'much': PHUFP
 'as': AS
 'a': AEU
-'cow,': KOU KW-BG
+'cow,': KOU/KW-BG
 'and': SKP
 'still': STEUL
 'less': HRES
 'money': PHUPB
 'to': TO
 'buy': PWAOEU
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'and': SKP
 'yet': KWRET
 'he': HE
@@ -51,43 +51,43 @@ The Little Peasant
 'wish': WEURB
 'to': TO
 'have': SR
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'he': HE
 'said': SED
 'to': TO
-'her:': HER STPH-FPLT
-''Listen,': AE KPA/HREUFPB KW-BG
+'her:': HER/STPH-FPLT
+''Listen,': AE/KPA/HREUFPB/KW-BG
 'I': EU
 'have': SR
 'a': AEU
 'good': TKPWAOD
-'idea,': KWR-D KW-BG
+'idea,': KWR-D/KW-BG
 'there': THR
 'is': S
 'our': OUR
 'gossip': TKPWOFP
 'the': -T
-'carpenter,': KARP/TER KW-BG
+'carpenter,': KARP/TER/KW-BG
 'he': HE
 'shall': SHAL
 'make': PHAEUBG
 'us': US
 'a': AEU
 'wooden': WAOD/EPB
-'calf,': KAF KW-BG
+'calf,': KAF/KW-BG
 'and': SKP
 'paint': PAEUPBT
 'it': T
-'brown,': PWROUPB KW-BG
+'brown,': PWROUPB/KW-BG
 'so': SO
 'that': THA
 'it': T
 'looks': HRAOBGS
 'like': HRAOEUBG
 'any': TPHEU
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'in': TPH
 'time': TAOEUPL
@@ -99,13 +99,13 @@ The Little Peasant
 'and': SKP
 'be': -B
 'a': AEU
-'cow.'': KOU TP-PL AE
+'cow.'': KOU/TP-PL/AE
 'the': -T
 'woman': WOPL
 'also': HR-S
 'liked': HRAOEUBGD
 'the': -T
-'idea,': KWR-D KW-BG
+'idea,': KWR-D/KW-BG
 'and': SKP
 'their': THAEUR
 'gossip': TKPWOFP
@@ -115,7 +115,7 @@ The Little Peasant
 'and': SKP
 'planed': PHRAPB/-D
 'the': -T
-'calf,': KAF KW-BG
+'calf,': KAF/KW-BG
 'and': SKP
 'painted': PAEUPBTD
 'it': T
@@ -123,7 +123,7 @@ The Little Peasant
 'it': T
 'ought': OT
 'to': TO
-'be,': -B KW-BG
+'be,': -B/KW-BG
 'and': SKP
 'made': PHAED
 'it': T
@@ -136,7 +136,7 @@ The Little Peasant
 'if': TP
 'it': T
 'were': WR
-'eating.': AOEGT TP-PL
+'eating.': AOEGT/TP-PL
 'Next': KPA/TPHEGT
 'morning': PHORPBG
 'when': WHEPB
@@ -145,23 +145,23 @@ The Little Peasant
 'were': WR
 'being': -BG
 'driven': TKREUFPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'the': -T
 'little': HREUL
 'peasant': PEFPBT
 'called': KAULD
 'the': -T
-'cow-herd': KOU H-PB H*ERD
+'cow-herd': KOU/H-PB/H*ERD
 'in': TPH
 'and': SKP
-'said:': SED STPH-FPLT
-''Look,': AE KPA/HRAOBG KW-BG
+'said:': SED/STPH-FPLT
+''Look,': AE/KPA/HRAOBG/KW-BG
 'I': EU
 'have': SR
 'a': AEU
 'little': HREUL
 'calf': KAF
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'but': PWUT
 'it': T
 'is': S
@@ -171,12 +171,12 @@ The Little Peasant
 'has': HAS
 'to': TO
 'be': -B
-'carried.'': KAERD TP-PL AE
+'carried.'': KAERD/TP-PL/AE
 'The': KPA/-T
-'cow-herd': KOU H-PB H*ERD
-'said:': SED STPH-FPLT
-''All': AE KPA/AUL
-'right,'': RAOEUT KW-BG AE
+'cow-herd': KOU/H-PB/H*ERD
+'said:': SED/STPH-FPLT
+''All': AE/KPA/AUL
+'right,'': RAOEUT/KW-BG/AE
 'and': SKP
 'took': TAOBG
 'it': T
@@ -188,13 +188,13 @@ The Little Peasant
 'it': T
 'to': TO
 'the': -T
-'pasture,': PAS/KHUR KW-BG
+'pasture,': PAS/KHUR/KW-BG
 'and': SKP
 'set': SET
 'it': T
 'among': PHOPBG
 'the': -T
-'grass.': TKPWRAS TP-PL
+'grass.': TKPWRAS/TP-PL
 'The': KPA/-T
 'little': HREUL
 'calf': KAF
@@ -205,23 +205,23 @@ The Little Peasant
 'one': WUPB
 'which': WEU
 'was': WAS
-'eating,': AOEGT KW-BG
+'eating,': AOEGT/KW-BG
 'and': SKP
 'the': -T
-'cow-herd': KOU H-PB H*ERD
-'said:': SED STPH-FPLT
-''It': AE KPA/T
+'cow-herd': KOU/H-PB/H*ERD
+'said:': SED/STPH-FPLT
+''It': AE/KPA/T
 'will': HR
 'soon': SAOPB
 'run': RUPB
 'by': PWEU
-'itself,': T/SEFL KW-BG
+'itself,': T/SEFL/KW-BG
 'just': SKWRUFT
 'look': HRAOBG
 'how': HOU
 'it': T
 'eats': AOETS
-'already!'': HR-R SKHRAPL AE
+'already!'': HR-R/SKHRAPL/AE
 'At': KPA/AT
 'night': TPHAOEUT
 'when': WHEPB
@@ -233,13 +233,13 @@ The Little Peasant
 'the': -T
 'herd': H*ERD
 'home': HOEPL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'he': HE
 'said': SED
 'to': TO
 'the': -T
-'calf:': KAF STPH-FPLT
-''If': AE KPA/TP
+'calf:': KAF/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'can': K
 'stand': STAPBD
@@ -247,7 +247,7 @@ The Little Peasant
 'and': SKP
 'eat': AOET
 'your': KWROUR
-'fill,': TPEUL KW-BG
+'fill,': TPEUL/KW-BG
 'you': U
 'can': K
 'also': HR-S
@@ -255,7 +255,7 @@ The Little Peasant
 'on': OPB
 'your': KWROUR
 'four': TPOUR
-'legs;': HREGS STPH*FPLT
+'legs;': HREGS/STPH*FPLT
 'I': EU
 'don't': TKOEPBT
 'care': KAEUR
@@ -266,7 +266,7 @@ The Little Peasant
 'again': TKPWEPB
 'in': TPH
 'my': PHEU
-'arms.'': ARPLS TP-PL AE
+'arms.'': ARPLS/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
@@ -274,43 +274,43 @@ The Little Peasant
 'stood': STAOD
 'at': AT
 'his': HEUS
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'waited': WAEUTD
 'for': TPOR
 'his': HEUS
 'little': HREUL
-'calf,': KAF KW-BG
+'calf,': KAF/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
-'cow-herd': KOU H-PB H*ERD
+'cow-herd': KOU/H-PB/H*ERD
 'drove': TKROEF
 'the': -T
 'cows': KOUS
 'through': THRU
 'the': -T
-'village,': SREULG KW-BG
+'village,': SREULG/KW-BG
 'and': SKP
 'the': -T
 'calf': KAF
 'was': WAS
-'missing,': PHEUFG KW-BG
+'missing,': PHEUFG/KW-BG
 'he': HE
 'inquired': EUPB/KWAOEURD
 'where': W-R
 'it': T
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'The': KPA/-T
-'cow-herd': KOU H-PB H*ERD
-'answered:': AEPBS/-D STPH-FPLT
-''It': AE KPA/T
+'cow-herd': KOU/H-PB/H*ERD
+'answered:': AEPBS/-D/STPH-FPLT
+''It': AE/KPA/T
 'is': S
 'still': STEUL
 'standing': STAPBG
 'out': OUT
 'there': THR
-'eating.': AOEGT TP-PL
+'eating.': AOEGT/TP-PL
 'It': KPA/T
 'would': WO
 'not': TPHOT
@@ -318,13 +318,13 @@ The Little Peasant
 'and': SKP
 'come': KOPL
 'with': W
-'us.'': US TP-PL AE
+'us.'': US/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
 'peasant': PEFPBT
-'said:': SED STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'said:': SED/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'but': PWUT
 'I': EU
 'must': PHUFT
@@ -332,7 +332,7 @@ The Little Peasant
 'my': PHEU
 'beast': PWAOEFT
 'back': PWABG
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'Then': KPA/THEPB
 'they': THE
 'went': WEPBT
@@ -340,40 +340,40 @@ The Little Peasant
 'to': TO
 'the': -T
 'meadow': PHED/OE
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'but': PWUT
 'someone': SPH-PB
 'had': H
 'stolen': STOEL/EPB
 'the': -T
-'calf,': KAF KW-BG
+'calf,': KAF/KW-BG
 'and': SKP
 'it': T
 'was': WAS
-'gone.': TKPWOPB TP-PL
+'gone.': TKPWOPB/TP-PL
 'The': KPA/-T
-'cow-herd': KOU H-PB H*ERD
-'said:': SED STPH-FPLT
-''It': AE KPA/T
+'cow-herd': KOU/H-PB/H*ERD
+'said:': SED/STPH-FPLT
+''It': AE/KPA/T
 'must': PHUFT
 'have': SR
 'run': RUPB
-'away.'': WA*EU TP-PL AE
+'away.'': WA*EU/TP-PL/AE
 'The': KPA/-T
-'peasant,': PEFPBT KW-BG
-'however,': HOUF KW-BG
-'said:': SED STPH-FPLT
-''Don't': AE TKO*PB AE T*
+'peasant,': PEFPBT/KW-BG
+'however,': HOUF/KW-BG
+'said:': SED/STPH-FPLT
+''Don't': AE/TKO*PB/AE/T*
 'tell': TEL
 'me': PHE
-'that,'': THA KW-BG AE
+'that,'': THA/KW-BG/AE
 'and': SKP
 'led': HRED
 'the': -T
-'cow-herd': KOU H-PB H*ERD
+'cow-herd': KOU/H-PB/H*ERD
 'before': PW-FR
 'the': -T
-'mayor,': PHAEUR KW-BG
+'mayor,': PHAEUR/KW-BG
 'who': WHO
 'for': TPOR
 'his': HEUS
@@ -392,7 +392,7 @@ The Little Peasant
 'which': WEU
 'had': H
 'run': RUPB
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'And': AFPBD
 'now': TPHOU
 'the': -T
@@ -410,37 +410,37 @@ The Little Peasant
 'had': H
 'so': SO
 'long': HROPBG
-'wished,': WEURBD KW-BG
+'wished,': WEURBD/KW-BG
 'and': SKP
 'they': THE
 'were': WR
 'heartily': HART/HREU
-'glad,': TKPWHRAD KW-BG
+'glad,': TKPWHRAD/KW-BG
 'but': PWUT
 'they': THE
 'had': H
 'no': TPHO
 'food': TPAOD
 'for': TPOR
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'could': KO
 'give': TKPWEUF
 'it': T
 'nothing': TPHOG
 'to': TO
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'so': SO
 'it': T
 'soon': SAOPB
 'had': H
 'to': TO
 'be': -B
-'killed.': KEULD TP-PL
+'killed.': KEULD/TP-PL
 'They': KPA/THE
 'salted': SALT/-D
 'the': -T
-'flesh,': TPHRERB KW-BG
+'flesh,': TPHRERB/KW-BG
 'and': SKP
 'the': -T
 'peasant': PEFPBT
@@ -454,7 +454,7 @@ The Little Peasant
 'sell': SEL
 'the': -T
 'skin': SKEUPB
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -465,7 +465,7 @@ The Little Peasant
 'calf': KAF
 'with': W
 'the': -T
-'proceeds.': PRAOEDZ TP-PL
+'proceeds.': PRAOEDZ/TP-PL
 'On': KPA/OPB
 'the': -T
 'way': WAEU
@@ -473,7 +473,7 @@ The Little Peasant
 'passed': PAFD
 'by': PWEU
 'a': AEU
-'mill,': PHEUL KW-BG
+'mill,': PHEUL/KW-BG
 'and': SKP
 'there': THR
 'sat': SAT
@@ -481,7 +481,7 @@ The Little Peasant
 'raven': RAFPB
 'with': W
 'broken': PWROEPB
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
@@ -494,7 +494,7 @@ The Little Peasant
 'him': HEUPL
 'in': TPH
 'the': -T
-'skin.': SKEUPB TP-PL
+'skin.': SKEUPB/TP-PL
 'But': KPA/PWUT
 'as': AS
 'the': -T
@@ -510,12 +510,12 @@ The Little Peasant
 'of': -F
 'rain': RAEUPB
 'and': SKP
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'he': HE
 'could': KO
 'go': TKPW
 'no': TPHO
-'farther,': TPA*RT KW-BG
+'farther,': TPA*RT/KW-BG
 'and': SKP
 'turned': TURPBD
 'back': PWABG
@@ -525,26 +525,26 @@ The Little Peasant
 'and': SKP
 'begged': PWEGD
 'for': TPOR
-'shelter.': SHELT TP-PL
+'shelter.': SHELT/TP-PL
 'The': KPA/-T
-'miller's': HRO*ER/PHEUL/HRER AES
+'miller's': HRO*ER/PHEUL/HRER/AES
 'wife': WAOEUF
 'was': WAS
 'alone': A/HROEPB
 'in': TPH
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'said': SED
 'to': TO
 'the': -T
-'peasant:': PEFPBT STPH-FPLT
-''Lay': AE KPA/HRAEU
+'peasant:': PEFPBT/STPH-FPLT
+''Lay': AE/KPA/HRAEU
 'yourself': KWRO*URS
 'on': OPB
 'the': -T
 'straw': STRAU
-'there,'': THR KW-BG AE
+'there,'': THR/KW-BG/AE
 'and': SKP
 'gave': TKPWAEUF
 'him': HEUPL
@@ -553,11 +553,11 @@ The Little Peasant
 'of': -F
 'bread': PWRAED
 'and': SKP
-'cheese.': KHAOES TP-PL
+'cheese.': KHAOES/TP-PL
 'The': KPA/-T
 'peasant': PEFPBT
 'ate': AEUT
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'lay': HRAEU
 'down': TKOUPB
@@ -565,46 +565,46 @@ The Little Peasant
 'his': HEUS
 'skin': SKEUPB
 'beside': PWE/SAOEUD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'the': -T
 'woman': WOPL
-'thought:': THAUT STPH-FPLT
-''He': AE KPA/HE
+'thought:': THAUT/STPH-FPLT
+''He': AE/KPA/HE
 'is': S
 'tired': TAOEURD
 'and': SKP
 'has': HAS
 'gone': TKPWOPB
 'to': TO
-'sleep.'': SHRAOEP TP-PL AE
+'sleep.'': SHRAOEP/TP-PL/AE
 'In': KPA/TPH
 'the': -T
 'meantime': PHAOEPB/TAO*EUPL
 'came': KAEUPL
 'the': -T
-'parson;': PAR/SOPB STPH*FPLT
+'parson;': PAR/SOPB/STPH*FPLT
 'the': -T
-'miller's': HRO*ER/PHEUL/HRER AES
+'miller's': HRO*ER/PHEUL/HRER/AES
 'wife': WAOEUF
 'received': SAOEFD
 'him': HEUPL
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''My': AE KPA/PHEU
+'said:': SED/STPH-FPLT
+''My': AE/KPA/PHEU
 'husband': HUS
 'is': S
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'so': SO
 'we': WE
 'will': HR
 'have': SR
 'a': AEU
-'feast.'': TPAOEFT TP-PL AE
+'feast.'': TPAOEFT/TP-PL/AE
 'The': KPA/-T
 'peasant': PEFPBT
-'listened,': HREUFPBD KW-BG
+'listened,': HREUFPBD/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -630,7 +630,7 @@ The Little Peasant
 'of': -F
 'bread': PWRAED
 'and': SKP
-'cheese.': KHAOES TP-PL
+'cheese.': KHAOES/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'woman': WOPL
@@ -638,13 +638,13 @@ The Little Peasant
 'up': UP
 'four': TPOUR
 'different': TKEUFRT
-'things,': THEUPBGS KW-BG
+'things,': THEUPBGS/KW-BG
 'roast': ROEFT
-'meat,': PHAET KW-BG
-'salad,': SALD KW-BG
-'cakes,': KAEUBG/-S KW-BG
+'meat,': PHAET/KW-BG
+'salad,': SALD/KW-BG
+'cakes,': KAEUBG/-S/KW-BG
 'and': SKP
-'wine.': WAOEUPB TP-PL
+'wine.': WAOEUPB/TP-PL
 'Just': KPA/SKWRUFT
 'as': AS
 'they': THE
@@ -654,21 +654,21 @@ The Little Peasant
 'sit': SEUT
 'down': TKOUPB
 'and': SKP
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'there': THR
 'was': WAS
 'a': AEU
 'knocking': TPHOBG/-G
-'outside.': OUDZ TP-PL
+'outside.': OUDZ/TP-PL
 'The': KPA/-T
 'woman': WOPL
-'said:': SED STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
-'heavens!': HEFPBS SKHRAPL
+'said:': SED/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
+'heavens!': HEFPBS/SKHRAPL
 'It': KPA/T
 'is': S
 'my': PHEU
-'husband!'': HUS SKHRAPL AE
+'husband!'': HUS/SKHRAPL/AE
 'she': SHE
 'quickly': KWEULG
 'hid': HEUD
@@ -678,21 +678,21 @@ The Little Peasant
 'inside': TPH-DZ
 'the': -T
 'tiled': TAOEULD
-'stove,': STOF KW-BG
+'stove,': STOF/KW-BG
 'the': -T
 'wine': WAOEUPB
 'under': TPH-PB
 'the': -T
-'pillow,': PEUL/OE KW-BG
+'pillow,': PEUL/OE/KW-BG
 'the': -T
 'salad': SALD
 'on': OPB
 'the': -T
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'the': -T
 'cakes': KAEUBG/-S
 'under': TPH-PB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'the': -T
 'parson': PAR/SOPB
@@ -701,7 +701,7 @@ The Little Peasant
 'closet': KHROFT
 'on': OPB
 'the': -T
-'porch.': POFRPB TP-PL
+'porch.': POFRPB/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'opened': OEPD
@@ -709,20 +709,20 @@ The Little Peasant
 'door': TKAOR
 'for': TPOR
 'her': HER
-'husband,': HUS KW-BG
+'husband,': HUS/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Thank': AE KPA/THAPBG
-'heaven,': HEFPB KW-BG
+'said:': SED/STPH-FPLT
+''Thank': AE/KPA/THAPBG
+'heaven,': HEFPB/KW-BG
 'you': U
 'are': R
 'back': PWABG
-'again!': TKPWEPB SKHRAPL
+'again!': TKPWEPB/SKHRAPL
 'There': KPA/THR
 'is': S
 'such': SUFP
 'a': AEU
-'storm,': STORPL KW-BG
+'storm,': STORPL/KW-BG
 'it': T
 'looks': HRAOBGS
 'as': AS
@@ -733,7 +733,7 @@ The Little Peasant
 'coming': KO*G
 'to': TO
 'an': APB
-'end.'': EPBD TP-PL AE
+'end.'': EPBD/TP-PL/AE
 'The': KPA/-T
 'miller': HRO*ER/PHEUL/HRER
 'saw': SAU
@@ -742,20 +742,20 @@ The Little Peasant
 'lying': HRAOEUG
 'on': OPB
 'the': -T
-'straw,': STRAU KW-BG
+'straw,': STRAU/KW-BG
 'and': SKP
-'asked,': SK-D KW-BG
-''What': AE KPA/WHA
+'asked,': SK-D/KW-BG
+''What': AE/KPA/WHA
 'is': S
 'that': THA
 'fellow': TP*EL
 'doing': TK*G
-'there?'': THR H-F AE
-''Ah,'': AE KPA/HA*E KW-BG AE
+'there?'': THR/H-F/AE
+''Ah,'': AE/KPA/HA*E/KW-BG/AE
 'said': SED
 'the': -T
-'wife,': WAOEUF KW-BG
-''the': AE -T
+'wife,': WAOEUF/KW-BG
+''the': AE/-T
 'poor': PAOR
 'knave': TPHA*EUF
 'came': KAEUPL
@@ -763,11 +763,11 @@ The Little Peasant
 'the': -T
 'storm': STORPL
 'and': SKP
-'rain,': RAEUPB KW-BG
+'rain,': RAEUPB/KW-BG
 'and': SKP
 'begged': PWEGD
 'for': TPOR
-'shelter,': SHELT KW-BG
+'shelter,': SHELT/KW-BG
 'so': SO
 'I': EU
 'gave': TKPWAEUF
@@ -777,21 +777,21 @@ The Little Peasant
 'of': -F
 'bread': PWRAED
 'and': SKP
-'cheese,': KHAOES KW-BG
+'cheese,': KHAOES/KW-BG
 'and': SKP
 'showed': SHOED
 'him': HEUPL
 'where': W-R
 'the': -T
 'straw': STRAU
-'was.'': WAS TP-PL AE
+'was.'': WAS/TP-PL/AE
 'The': KPA/-T
 'man': PHAPB
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'have': SR
 'no': TPHO
-'objection,': OBGS KW-BG
+'objection,': OBGS/KW-BG
 'but': PWUT
 'be': -B
 'quick': KWEUBG
@@ -800,51 +800,51 @@ The Little Peasant
 'me': PHE
 'something': S-G
 'to': TO
-'eat.'': AOET TP-PL AE
+'eat.'': AOET/TP-PL/AE
 'The': KPA/-T
 'woman': WOPL
-'said:': SED STPH-FPLT
-''But': AE KPA/PWUT
+'said:': SED/STPH-FPLT
+''But': AE/KPA/PWUT
 'I': EU
 'have': SR
 'nothing': TPHOG
 'but': PWUT
 'bread': PWRAED
 'and': SKP
-'cheese.'': KHAOES TP-PL AE
-''I': AE EU
+'cheese.'': KHAOES/TP-PL/AE
+''I': AE/EU
 'am': APL
 'contented': KAUPBT/-D
 'with': W
-'anything,'': TPHEUG KW-BG AE
+'anything,'': TPHEUG/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'husband,': HUS KW-BG
-''so': AE SO
+'husband,': HUS/KW-BG
+''so': AE/SO
 'far': TPAR
 'as': AS
 'I': EU
 'am': APL
-'concerned,': K-RPBD KW-BG
+'concerned,': K-RPBD/KW-BG
 'bread': PWRAED
 'and': SKP
 'cheese': KHAOES
 'will': HR
-'do,'': TKO KW-BG AE
+'do,'': TKO/KW-BG/AE
 'and': SKP
 'looked': HRAOBGD
 'at': AT
 'the': -T
 'peasant': PEFPBT
 'and': SKP
-'said:': SED STPH-FPLT
-''Come': AE KPA/KOPL
+'said:': SED/STPH-FPLT
+''Come': AE/KPA/KOPL
 'and': SKP
 'eat': AOET
 'some': SOPL
 'more': PHOR
 'with': W
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'The': KPA/-T
 'peasant': PEFPBT
 'did': TK
@@ -853,12 +853,12 @@ The Little Peasant
 'to': TO
 'be': -B
 'invited': EUPB/SRAOEUTD
-'twice,': TWAOEUS KW-BG
+'twice,': TWAOEUS/KW-BG
 'but': PWUT
 'got': TKPWOT
 'up': UP
 'and': SKP
-'ate.': AEUT TP-PL
+'ate.': AEUT/TP-PL
 'After': KPA/AF
 'this': TH
 'the': -T
@@ -870,72 +870,72 @@ The Little Peasant
 'which': WEU
 'the': -T
 'raven': RAFPB
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'lying': HRAOEUG
 'on': OPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'and': SKP
-'asked:': SK-D STPH-FPLT
-''What': AE KPA/WHA
+'asked:': SK-D/STPH-FPLT
+''What': AE/KPA/WHA
 'have': SR
 'you': U
-'there?'': THR H-F AE
+'there?'': THR/H-F/AE
 'The': KPA/-T
 'peasant': PEFPBT
-'answered:': AEPBS/-D STPH-FPLT
-''I': AE EU
+'answered:': AEPBS/-D/STPH-FPLT
+''I': AE/EU
 'have': SR
 'a': AEU
 'soothsayer': SAO*T/SAEUR
 'inside': TPH-DZ
-'it.'': T TP-PL AE
-''Can': AE KPA/K
+'it.'': T/TP-PL/AE
+''Can': AE/KPA/K
 'he': HE
 'foretell': TPOER/TEL
 'anything': TPHEUG
 'to': TO
-'me?'': PHE H-F AE
+'me?'': PHE/H-F/AE
 'said': SED
 'the': -T
-'miller.': HRO*ER/PHEUL/HRER TP-PL
-''Why': AE KPA/KWR
-'not?'': TPHOT H-F AE
+'miller.': HRO*ER/PHEUL/HRER/TP-PL
+''Why': AE/KPA/KWR
+'not?'': TPHOT/H-F/AE
 'answered': AEPBS/-D
 'the': -T
-'peasant:': PEFPBT STPH-FPLT
-''but': AE PWUT
+'peasant:': PEFPBT/STPH-FPLT
+''but': AE/PWUT
 'he': HE
 'only': OEPBL
 'says': SEZ
 'four': TPOUR
-'things,': THEUPBGS KW-BG
+'things,': THEUPBGS/KW-BG
 'and': SKP
 'the': -T
 'fifth': TP*EUT
 'he': HE
 'keeps': KAOEPS
 'to': TO
-'himself.'': HEUPLS TP-PL AE
+'himself.'': HEUPLS/TP-PL/AE
 'The': KPA/-T
 'miller': HRO*ER/PHEUL/HRER
 'was': WAS
-'curious,': KAOURS KW-BG
+'curious,': KAOURS/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Let': AE KPA/HRET
+'said:': SED/STPH-FPLT
+''Let': AE/KPA/HRET
 'him': HEUPL
 'foretell': TPOER/TEL
 'something': S-G
 'for': TPOR
-'once.'': WUPBS TP-PL AE
+'once.'': WUPBS/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'peasant': PEFPBT
 'pinched': PEUPB/-FPD
 'the': -T
-'raven's': RAFPB AES
-'head,': HED KW-BG
+'raven's': RAFPB/AES
+'head,': HED/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -945,22 +945,22 @@ The Little Peasant
 'a': AEU
 'noise': TPHOEUS
 'like': HRAOEUBG
-'krr,': xxx krr KW-BG
-'krr.': xxx krr TP-PL
+'krr,': xxx krr/KW-BG
+'krr.': xxx krr/TP-PL
 'The': KPA/-T
 'miller': HRO*ER/PHEUL/HRER
-'said:': SED STPH-FPLT
-''What': AE KPA/WHA
+'said:': SED/STPH-FPLT
+''What': AE/KPA/WHA
 'did': TK
 'he': HE
-'say?'': SAEU H-F AE
+'say?'': SAEU/H-F/AE
 'The': KPA/-T
 'peasant': PEFPBT
-'answered:': AEPBS/-D STPH-FPLT
-''In': AE KPA/TPH
+'answered:': AEPBS/-D/STPH-FPLT
+''In': AE/KPA/TPH
 'the': -T
 'first': TPEUFRT
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'he': HE
 'says': SEZ
 'that': THA
@@ -971,37 +971,37 @@ The Little Peasant
 'hidden': HEUD/EPB
 'under': TPH-PB
 'the': -T
-'pillow.'': PEUL/OE TP-PL AE
-''Bless': AE KPA/PWHRES
-'me!'': PHE SKHRAPL AE
+'pillow.'': PEUL/OE/TP-PL/AE
+''Bless': AE/KPA/PWHRES
+'me!'': PHE/SKHRAPL/AE
 'cried': KRAOEUD
 'the': -T
-'miller,': HRO*ER/PHEUL/HRER KW-BG
+'miller,': HRO*ER/PHEUL/HRER/KW-BG
 'and': SKP
 'went': WEPBT
 'there': THR
 'and': SKP
 'found': TPOUPBD
 'the': -T
-'wine.': WAOEUPB TP-PL
-''Now': AE KPA/TPHOU
+'wine.': WAOEUPB/TP-PL
+''Now': AE/KPA/TPHOU
 'go': TKPW
-'on,'': OPB KW-BG AE
+'on,'': OPB/KW-BG/AE
 'said': SED
-'he.': HE TP-PL
+'he.': HE/TP-PL
 'The': KPA/-T
 'peasant': PEFPBT
 'made': PHAED
 'the': -T
 'raven': RAFPB
 'croak': KROEBG
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''In': AE KPA/TPH
+'said:': SED/STPH-FPLT
+''In': AE/KPA/TPH
 'the': -T
 'second': SEBGD
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'he': HE
 'says': SEZ
 'that': THA
@@ -1013,21 +1013,21 @@ The Little Peasant
 'in': TPH
 'the': -T
 'tiled': TAOEULD
-'stove.'': STOF TP-PL AE
-''Upon': AE KPA/POPB
+'stove.'': STOF/TP-PL/AE
+''Upon': AE/KPA/POPB
 'my': PHEU
-'word!'': WORD SKHRAPL AE
+'word!'': WORD/SKHRAPL/AE
 'cried': KRAOEUD
 'the': -T
-'miller,': HRO*ER/PHEUL/HRER KW-BG
+'miller,': HRO*ER/PHEUL/HRER/KW-BG
 'and': SKP
 'went': WEPBT
-'thither,': TH*EURT KW-BG
+'thither,': TH*EURT/KW-BG
 'and': SKP
 'found': TPOUPBD
 'the': -T
 'roast': ROEFT
-'meat.': PHAET TP-PL
+'meat.': PHAET/TP-PL
 'The': KPA/-T
 'peasant': PEFPBT
 'made': PHAED
@@ -1035,10 +1035,10 @@ The Little Peasant
 'raven': RAFPB
 'prophesy': PROF/SEU
 'still': STEUL
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Thirdly,': AE KPA/THEURD/HREU KW-BG
+'said:': SED/STPH-FPLT
+''Thirdly,': AE/KPA/THEURD/HREU/KW-BG
 'he': HE
 'says': SEZ
 'that': THA
@@ -1048,23 +1048,23 @@ The Little Peasant
 'salad': SALD
 'on': OPB
 'the': -T
-'bed.'': PWED TP-PL AE
-''That': AE KPA/THA
+'bed.'': PWED/TP-PL/AE
+''That': AE/KPA/THA
 'would': WO
 'be': -B
 'a': AEU
 'fine': TPAOEUPB
-'thing!'': THEUPBG SKHRAPL AE
+'thing!'': THEUPBG/SKHRAPL/AE
 'cried': KRAOEUD
 'the': -T
-'miller,': HRO*ER/PHEUL/HRER KW-BG
+'miller,': HRO*ER/PHEUL/HRER/KW-BG
 'and': SKP
 'went': WEPBT
 'there': THR
 'and': SKP
 'found': TPOUPBD
 'the': -T
-'salad.': SALD TP-PL
+'salad.': SALD/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'the': -T
@@ -1076,10 +1076,10 @@ The Little Peasant
 'more': PHOR
 'till': TEUL
 'he': HE
-'croaked,': KROEBG/-D KW-BG
+'croaked,': KROEBG/-D/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Fourthly,': AE xxx Fourthly KW-BG
+'said:': SED/STPH-FPLT
+''Fourthly,': AE/xxx Fourthly/KW-BG
 'he': HE
 'says': SEZ
 'that': THA
@@ -1089,23 +1089,23 @@ The Little Peasant
 'cakes': KAEUBG/-S
 'under': TPH-PB
 'the': -T
-'bed.'': PWED TP-PL AE
-''That': AE KPA/THA
+'bed.'': PWED/TP-PL/AE
+''That': AE/KPA/THA
 'would': WO
 'be': -B
 'a': AEU
 'fine': TPAOEUPB
-'thing!'': THEUPBG SKHRAPL AE
+'thing!'': THEUPBG/SKHRAPL/AE
 'cried': KRAOEUD
 'the': -T
-'miller,': HRO*ER/PHEUL/HRER KW-BG
+'miller,': HRO*ER/PHEUL/HRER/KW-BG
 'and': SKP
 'looked': HRAOBGD
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'found': TPOUPBD
 'the': -T
-'cakes.': KAEUBG/-S TP-PL
+'cakes.': KAEUBG/-S/TP-PL
 'And': AFPBD
 'now': TPHOU
 'the': -T
@@ -1115,15 +1115,15 @@ The Little Peasant
 'to': TO
 'the': -T
 'table': TAEUBL
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'but': PWUT
 'the': -T
-'miller's': HRO*ER/PHEUL/HRER AES
+'miller's': HRO*ER/PHEUL/HRER/AES
 'wife': WAOEUF
 'was': WAS
 'frightened': TPRAOEUFPBD
 'to': TO
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
@@ -1134,7 +1134,7 @@ The Little Peasant
 'the': -T
 'keys': KAOES
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'The': KPA/-T
 'miller': HRO*ER/PHEUL/HRER
 'would': WO
@@ -1144,29 +1144,29 @@ The Little Peasant
 'to': TO
 'know': TPHOE
 'the': -T
-'fifth,': TP*EUT KW-BG
+'fifth,': TP*EUT/KW-BG
 'but': PWUT
 'the': -T
 'little': HREUL
 'peasant': PEFPBT
-'said:': SED STPH-FPLT
-''First,': AE KPA/TPEUFRT KW-BG
+'said:': SED/STPH-FPLT
+''First,': AE/KPA/TPEUFRT/KW-BG
 'we': WE
 'will': HR
 'quickly': KWEULG
 'eat': AOET
 'the': -T
 'four': TPOUR
-'things,': THEUPBGS KW-BG
+'things,': THEUPBGS/KW-BG
 'for': TPOR
 'the': -T
 'fifth': TP*EUT
 'is': S
 'something': S-G
-'bad.'': PWAD TP-PL AE
+'bad.'': PWAD/TP-PL/AE
 'So': KPA/SO
 'they': THE
-'ate,': AEUT KW-BG
+'ate,': AEUT/KW-BG
 'and': SKP
 'after': AF
 'that': THA
@@ -1182,14 +1182,14 @@ The Little Peasant
 'for': TPOR
 'the': -T
 'fifth': TP*EUT
-'prophecy,': PROF/KREU KW-BG
+'prophecy,': PROF/KREU/KW-BG
 'until': TPH-L
 'they': THE
 'agreed': TKPWRAED
 'on': OPB
 'three': THRAOE
 'hundred': HUPBD
-'talers.': xxx talers TP-PL
+'talers.': xxx talers/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'peasant': PEFPBT
@@ -1197,23 +1197,23 @@ The Little Peasant
 'more': PHOR
 'pinched': PEUPB/-FPD
 'the': -T
-'raven's': RAFPB AES
+'raven's': RAFPB/AES
 'head': HED
 'till': TEUL
 'he': HE
 'croaked': KROEBG/-D
-'loudly.': HROUD/HREU TP-PL
+'loudly.': HROUD/HREU/TP-PL
 'The': KPA/-T
 'miller': HRO*ER/PHEUL/HRER
-'asked:': SK-D STPH-FPLT
-''What': AE KPA/WHA
+'asked:': SK-D/STPH-FPLT
+''What': AE/KPA/WHA
 'did': TK
 'he': HE
-'say?'': SAEU H-F AE
+'say?'': SAEU/H-F/AE
 'The': KPA/-T
 'peasant': PEFPBT
-'replied:': RE/PHRAOEUD STPH-FPLT
-''He': AE KPA/HE
+'replied:': RE/PHRAOEUD/STPH-FPLT
+''He': AE/KPA/HE
 'says': SEZ
 'that': THA
 'the': -T
@@ -1227,19 +1227,19 @@ The Little Peasant
 'closet': KHROFT
 'on': OPB
 'the': -T
-'porch.'': POFRPB TP-PL AE
+'porch.'': POFRPB/TP-PL/AE
 'The': KPA/-T
 'miller': HRO*ER/PHEUL/HRER
-'said:': SED STPH-FPLT
-''The': AE KPA/-T
+'said:': SED/STPH-FPLT
+''The': AE/KPA/-T
 'Devil': KPA/TKEFL
 'must': PHUFT
 'go': TKPW
-'out,'': OUT KW-BG AE
+'out,'': OUT/KW-BG/AE
 'and': SKP
 'opened': OEPD
 'the': -T
-'house-door;': HOUS H-PB TKAOR STPH*FPLT
+'house-door;': HOUS/H-PB/TKAOR/STPH*FPLT
 'then': THEPB
 'the': -T
 'woman': WOPL
@@ -1249,13 +1249,13 @@ The Little Peasant
 'give': TKPWEUF
 'up': UP
 'the': -T
-'keys,': KAOES KW-BG
+'keys,': KAOES/KW-BG
 'and': SKP
 'the': -T
 'peasant': PEFPBT
 'unlocked': UPB/HROBGD
 'the': -T
-'closet.': KHROFT TP-PL
+'closet.': KHROFT/TP-PL
 'The': KPA/-T
 'parson': PAR/SOPB
 'ran': RAPB
@@ -1264,14 +1264,14 @@ The Little Peasant
 'fast': TPAFT
 'as': AS
 'he': HE
-'could,': KO KW-BG
+'could,': KO/KW-BG
 'and': SKP
 'the': -T
 'miller': HRO*ER/PHEUL/HRER
-'said:': SED STPH-FPLT
-''It': AE KPA/T
+'said:': SED/STPH-FPLT
+''It': AE/KPA/T
 'was': WAS
-'true;': TRAOU STPH*FPLT
+'true;': TRAOU/STPH*FPLT
 'I': EU
 'saw': SAU
 'the': -T
@@ -1280,10 +1280,10 @@ The Little Peasant
 'with': W
 'my': PHEU
 'own': OEPB
-'eyes.'': AO*EUS TP-PL AE
+'eyes.'': AO*EUS/TP-PL/AE
 'The': KPA/-T
-'peasant,': PEFPBT KW-BG
-'however,': HOUF KW-BG
+'peasant,': PEFPBT/KW-BG
+'however,': HOUF/KW-BG
 'made': PHAED
 'off': OF
 'next': TPHEGT
@@ -1294,7 +1294,7 @@ The Little Peasant
 'the': -T
 'three': THRAOE
 'hundred': HUPBD
-'talers.': xxx talers TP-PL
+'talers.': xxx talers/TP-PL
 'At': KPA/AT
 'home': HOEPL
 'the': -T
@@ -1302,17 +1302,17 @@ The Little Peasant
 'peasant': PEFPBT
 'gradually': TKPWRAD/WAEL
 'launched': HRAUFRPBD
-'out;': OUT STPH*FPLT
+'out;': OUT/STPH*FPLT
 'he': HE
 'built': PWEULT
 'a': AEU
 'beautiful': PWAOUFL
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'the': -T
 'peasants': PEFPBT/-S
-'said:': SED STPH-FPLT
-''The': AE KPA/-T
+'said:': SED/STPH-FPLT
+''The': AE/KPA/-T
 'small': SPHAL
 'peasant': PEFPBT
 'has': HAS
@@ -1324,7 +1324,7 @@ The Little Peasant
 'where': W-R
 'golden': TKPWOELD/*EPB
 'snow': STPHOE
-'falls,': TPAULS KW-BG
+'falls,': TPAULS/KW-BG
 'and': SKP
 'people': PAOEPL
 'carry': KAER
@@ -1332,7 +1332,7 @@ The Little Peasant
 'gold': TKPWOELD
 'home': HOEPL
 'in': TPH
-'shovels.'': SHOFLS TP-PL AE
+'shovels.'': SHOFLS/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'small': SPHAL
@@ -1341,7 +1341,7 @@ The Little Peasant
 'brought': PWRAUT
 'before': PW-FR
 'the': -T
-'mayor,': PHAEUR KW-BG
+'mayor,': PHAEUR/KW-BG
 'and': SKP
 'bidden': PWEUD/TK*EPB
 'to': TO
@@ -1350,26 +1350,26 @@ The Little Peasant
 'whence': WHEPBS
 'his': HEUS
 'wealth': W*ELT
-'came.': KAEUPL TP-PL
+'came.': KAEUPL/TP-PL
 'He': KPA/HE
-'answered:': AEPBS/-D STPH-FPLT
-''I': AE EU
+'answered:': AEPBS/-D/STPH-FPLT
+''I': AE/EU
 'sold': SOELD
 'my': PHEU
-'cow's': KOU AES
+'cow's': KOU/AES
 'skin': SKEUPB
 'in': TPH
 'the': -T
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'for': TPOR
 'three': THRAOE
 'hundred': HUPBD
-'talers.'': xxx talers TP-PL AE
+'talers.'': xxx talers/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'peasants': PEFPBT/-S
 'heard': HAERD
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'they': THE
 'too': TAO
 'wished': WEURBD
@@ -1377,14 +1377,14 @@ The Little Peasant
 'enjoy': TPHOEUPBLG
 'this': TH
 'great': TKPWRAET
-'profit,': PROFT KW-BG
+'profit,': PROFT/KW-BG
 'and': SKP
 'ran': RAPB
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'killed': KEULD
 'all': AUL
 'their': THAEUR
-'cows,': KOUS KW-BG
+'cows,': KOUS/KW-BG
 'and': SKP
 'stripped': STREUPD
 'off': OF
@@ -1401,17 +1401,17 @@ The Little Peasant
 'to': TO
 'the': -T
 'greatest': TKPWRAET/EFT
-'advantage.': SRAPBG TP-PL
+'advantage.': SRAPBG/TP-PL
 'The': KPA/-T
-'mayor,': PHAEUR KW-BG
-'however,': HOUF KW-BG
-'said:': SED STPH-FPLT
-''But': AE KPA/PWUT
+'mayor,': PHAEUR/KW-BG
+'however,': HOUF/KW-BG
+'said:': SED/STPH-FPLT
+''But': AE/KPA/PWUT
 'my': PHEU
 'servant': SEFRB/APBT
 'must': PHUFT
 'go': TKPW
-'first.'': TPEUFRT TP-PL AE
+'first.'': TPEUFRT/TP-PL/AE
 'When': KPA/WHEPB
 'she': SHE
 'came': KAEUPL
@@ -1420,7 +1420,7 @@ The Little Peasant
 'merchant': PHEFRPBT
 'in': TPH
 'the': -T
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'he': HE
 'did': TK
 'not': TPHOT
@@ -1432,29 +1432,29 @@ The Little Peasant
 'talers': xxx talers
 'for': TPOR
 'a': AEU
-'skin,': SKEUPB KW-BG
+'skin,': SKEUPB/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
 'others': OERS
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'he': HE
 'did': TK
 'not': TPHOT
 'give': TKPWEUF
 'them': THEPL
 'so': SO
-'much,': PHUFP KW-BG
+'much,': PHUFP/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''What': AE KPA/WHA
+'said:': SED/STPH-FPLT
+''What': AE/KPA/WHA
 'can': K
 'I': EU
 'do': TKO
 'with': W
 'all': AUL
 'these': THEZ
-'skins?'': SKEUPBS H-F AE
+'skins?'': SKEUPBS/H-F/AE
 'Then': KPA/THEPB
 'the': -T
 'peasants': PEFPBT/-S
@@ -1468,13 +1468,13 @@ The Little Peasant
 'have': SR
 'thus': THUS
 'outwitted': AOUT/WEUT/-D
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'wanted': WAPBTD
 'to': TO
 'take': TAEUBG
 'vengeance': SREPBG/APBS
 'on': OPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'accused': A/KAOUFD
 'him': HEUPL
@@ -1483,7 +1483,7 @@ The Little Peasant
 'treachery': TREFP/REU
 'before': PW-FR
 'the': -T
-'mayor.': PHAEUR TP-PL
+'mayor.': PHAEUR/TP-PL
 'The': KPA/-T
 'innocent': TPH-PBT
 'little': HREUL
@@ -1492,7 +1492,7 @@ The Little Peasant
 'unanimously': AOU/TPHAPB/SHREU
 'sentenced': STPH-PBD
 'to': TO
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'and': SKP
 'was': WAS
 'to': TO
@@ -1500,18 +1500,18 @@ The Little Peasant
 'rolled': ROLD
 'into': TPHAO
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'in': TPH
 'a': AEU
 'barrel': PWARL
 'pierced': PAOERS/-D
 'full': TPUL
 'of': -F
-'holes.': HOELS TP-PL
+'holes.': HOELS/TP-PL
 'He': KPA/HE
 'was': WAS
 'led': HRED
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'and': SKP
 'a': AEU
 'priest': PRAOEFT
@@ -1525,7 +1525,7 @@ The Little Peasant
 'mass': PHAS
 'for': TPOR
 'his': HEUS
-'soul.': SOUL TP-PL
+'soul.': SOUL/TP-PL
 'The': KPA/-T
 'others': OERS
 'were': WR
@@ -1535,7 +1535,7 @@ The Little Peasant
 'retire': RAO*EUR
 'to': TO
 'a': AEU
-'distance,': STKAPBS KW-BG
+'distance,': STKAPBS/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -1543,7 +1543,7 @@ The Little Peasant
 'looked': HRAOBGD
 'at': AT
 'the': -T
-'priest,': PRAOEFT KW-BG
+'priest,': PRAOEFT/KW-BG
 'he': HE
 'recognized': REFD
 'the': -T
@@ -1553,36 +1553,36 @@ The Little Peasant
 'been': PW-PB
 'with': W
 'the': -T
-'miller's': HRO*ER/PHEUL/HRER AES
-'wife.': WAOEUF TP-PL
+'miller's': HRO*ER/PHEUL/HRER/AES
+'wife.': WAOEUF/TP-PL
 'He': KPA/HE
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''I': AE EU
+'him:': HEUPL/STPH-FPLT
+''I': AE/EU
 'set': SET
 'you': U
 'free': TPRAOE
 'from': TPR
 'the': -T
-'closet,': KHROFT KW-BG
+'closet,': KHROFT/KW-BG
 'set': SET
 'me': PHE
 'free': TPRAOE
 'from': TPR
 'the': -T
-'barrel.'': PWARL TP-PL AE
+'barrel.'': PWARL/TP-PL/AE
 'At': KPA/AT
 'this': TH
 'same': SAEUPL
 'moment': PHOEPLT
 'up': UP
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'with': W
 'a': AEU
 'flock': TPHROBG
 'of': -F
-'sheep,': SHAOEP KW-BG
+'sheep,': SHAOEP/KW-BG
 'the': -T
 'very': SRE
 'shepherd': SHEP/ERD
@@ -1596,46 +1596,46 @@ The Little Peasant
 'wishing': WEURBG
 'to': TO
 'be': -B
-'mayor,': PHAEUR KW-BG
+'mayor,': PHAEUR/KW-BG
 'so': SO
 'he': HE
 'cried': KRAOEUD
 'with': W
 'all': AUL
 'his': HEUS
-'might:': PHAOEUT STPH-FPLT
-''No,': AE KPA/TPHO KW-BG
+'might:': PHAOEUT/STPH-FPLT
+''No,': AE/KPA/TPHO/KW-BG
 'I': EU
 'will': HR
 'not': TPHOT
 'do': TKO
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'if': TP
 'the': -T
 'whole': WHOEL
 'world': WORLD
 'insists': EUPB/SEUFTS
 'on': OPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'I': EU
 'will': HR
 'not': TPHOT
 'do': TKO
-'it!'': T SKHRAPL AE
+'it!'': T/SKHRAPL/AE
 'The': KPA/-T
 'shepherd': SHEP/ERD
 'hearing': HAERG
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'came': KAEUPL
 'up': UP
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'asked:': SK-D STPH-FPLT
-''What': AE KPA/WHA
+'asked:': SK-D/STPH-FPLT
+''What': AE/KPA/WHA
 'are': R
 'you': U
-'about?': PW H-F
+'about?': PW/H-F
 'What': KPA/WHA
 'is': S
 'it': T
@@ -1643,16 +1643,16 @@ The Little Peasant
 'you': U
 'will': HR
 'not': TPHOT
-'do?'': TKO H-F AE
+'do?'': TKO/H-F/AE
 'The': KPA/-T
 'peasant': PEFPBT
-'said:': SED STPH-FPLT
-''They': AE KPA/THE
+'said:': SED/STPH-FPLT
+''They': AE/KPA/THE
 'want': WAPBT
 'to': TO
 'make': PHAEUBG
 'me': PHE
-'mayor,': PHAEUR KW-BG
+'mayor,': PHAEUR/KW-BG
 'if': TP
 'I': EU
 'will': HR
@@ -1661,17 +1661,17 @@ The Little Peasant
 'myself': PHAO*EUS
 'in': TPH
 'the': -T
-'barrel,': PWARL KW-BG
+'barrel,': PWARL/KW-BG
 'but': PWUT
 'I': EU
 'will': HR
 'not': TPHOT
 'do': TKO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'The': KPA/-T
 'shepherd': SHEP/ERD
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'nothing': TPHOG
 'more': PHOR
 'than': THAPB
@@ -1682,7 +1682,7 @@ The Little Peasant
 'order': ORD
 'to': TO
 'be': -B
-'mayor,': PHAEUR KW-BG
+'mayor,': PHAEUR/KW-BG
 'I': EU
 'would': WO
 'get': TKPWET
@@ -1690,26 +1690,26 @@ The Little Peasant
 'the': -T
 'barrel': PWARL
 'at': AT
-'once.'': WUPBS TP-PL AE
+'once.'': WUPBS/TP-PL/AE
 'The': KPA/-T
 'peasant': PEFPBT
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'will': HR
 'get': TKPWET
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'you': U
 'will': HR
 'be': -B
-'mayor.'': PHAEUR TP-PL AE
+'mayor.'': PHAEUR/TP-PL/AE
 'The': KPA/-T
 'shepherd': SHEP/ERD
 'was': WAS
-'willing,': -LG KW-BG
+'willing,': -LG/KW-BG
 'and': SKP
 'got': TKPWOT
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'the': -T
 'peasant': PEFPBT
@@ -1718,25 +1718,25 @@ The Little Peasant
 'top': TOP
 'down': TKOUPB
 'on': OPB
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'then': THEPB
 'he': HE
 'took': TAOBG
 'the': -T
-'shepherd's': SHEP/ERD AES
+'shepherd's': SHEP/ERD/AES
 'flock': TPHROBG
 'for': TPOR
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'drove': TKROEF
 'it': T
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
 'parson': PAR/SOPB
 'went': WEPBT
 'to': TO
 'the': -T
-'crowd,': KROUD KW-BG
+'crowd,': KROUD/KW-BG
 'and': SKP
 'declared': TKE/KHRAEURD
 'that': THA
@@ -1744,7 +1744,7 @@ The Little Peasant
 'mass': PHAS
 'had': H
 'been': PW-PB
-'said.': SED TP-PL
+'said.': SED/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'came': KAEUPL
@@ -1754,23 +1754,23 @@ The Little Peasant
 'barrel': PWARL
 'towards': TORDZ
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'barrel': PWARL
 'began': TKPWAPB
 'to': TO
-'roll,': ROL KW-BG
+'roll,': ROL/KW-BG
 'the': -T
 'shepherd': SHEP/ERD
-'cried:': KRAOEUD STPH-FPLT
-''I': AE EU
+'cried:': KRAOEUD/STPH-FPLT
+''I': AE/EU
 'am': APL
 'quite': KWAOEUT
 'willing': -LG
 'to': TO
 'be': -B
-'mayor.'': PHAEUR TP-PL AE
+'mayor.'': PHAEUR/TP-PL/AE
 'They': KPA/THE
 'believed': PWHREFD
 'no': TPHO
@@ -1784,14 +1784,14 @@ The Little Peasant
 'who': WHO
 'was': WAS
 'saying': SAEUG
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
-'answered:': AEPBS/-D STPH-FPLT
-''That': AE KPA/THA
+'answered:': AEPBS/-D/STPH-FPLT
+''That': AE/KPA/THA
 'is': S
 'what': WHA
 'we': WE
-'intend,': SPWEPBD KW-BG
+'intend,': SPWEPBD/KW-BG
 'but': PWUT
 'first': TPEUFRT
 'you': U
@@ -1803,7 +1803,7 @@ The Little Peasant
 'little': HREUL
 'down': TKOUPB
 'below': PWHRO
-'there,'': THR KW-BG AE
+'there,'': THR/KW-BG/AE
 'and': SKP
 'they': THE
 'rolled': ROLD
@@ -1812,27 +1812,27 @@ The Little Peasant
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'After': KPA/AF
 'that': THA
 'the': -T
 'peasants': PEFPBT/-S
 'went': WEPBT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'as': AS
 'they': THE
 'were': WR
 'entering': SPWR-G
 'the': -T
-'village,': SREULG KW-BG
+'village,': SREULG/KW-BG
 'the': -T
 'small': SPHAL
 'peasant': PEFPBT
 'also': HR-S
 'came': KAEUPL
 'quietly': KWAO*EULT
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'driving': TKRAOEUFG
 'a': AEU
 'flock': TPHROBG
@@ -1841,37 +1841,37 @@ The Little Peasant
 'and': SKP
 'looking': HRAOG
 'quite': KWAOEUT
-'contented.': KAUPBT/-D TP-PL
+'contented.': KAUPBT/-D/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'peasants': PEFPBT/-S
 'were': WR
-'astonished,': A/STOPB/EURBD KW-BG
+'astonished,': A/STOPB/EURBD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Peasant,': AE KPA/PEFPBT KW-BG
+'said:': SED/STPH-FPLT
+''Peasant,': AE/KPA/PEFPBT/KW-BG
 'from': TPR
 'whence': WHEPBS
 'do': TKO
 'you': U
-'come?': KOPL H-F
+'come?': KOPL/H-F
 'Have': KPA/SR
 'you': U
 'come': KOPL
 'out': OUT
 'of': -F
 'the': -T
-'water?'': WAUR H-F AE
-''Yes,': AE KPA/KWRE KW-BG
-'truly,'': TRAOUL KW-BG AE
+'water?'': WAUR/H-F/AE
+''Yes,': AE/KPA/KWRE/KW-BG
+'truly,'': TRAOUL/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'peasant,': PEFPBT KW-BG
-''I': AE EU
+'peasant,': PEFPBT/KW-BG
+''I': AE/EU
 'sank': SA*PBG
-'deep,': TKAOEP KW-BG
+'deep,': TKAOEP/KW-BG
 'deep': TKAOEP
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'until': TPH-L
 'at': AT
 'last': HRAFT
@@ -1879,7 +1879,7 @@ The Little Peasant
 'got': TKPWOT
 'to': TO
 'the': -T
-'bottom;': PWOPLT STPH*FPLT
+'bottom;': PWOPLT/STPH*FPLT
 'I': EU
 'pushed': PURBD
 'the': -T
@@ -1887,10 +1887,10 @@ The Little Peasant
 'out': OUT
 'of': -F
 'the': -T
-'barrel,': PWARL KW-BG
+'barrel,': PWARL/KW-BG
 'and': SKP
 'crept': KREPT
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'there': THR
 'were': WR
@@ -1903,7 +1903,7 @@ The Little Peasant
 'of': -F
 'lambs': HRAPLS
 'were': WR
-'feeding,': TPAOEGD KW-BG
+'feeding,': TPAOEGD/KW-BG
 'and': SKP
 'from': TPR
 'thence': THEPBS
@@ -1913,24 +1913,24 @@ The Little Peasant
 'flock': TPHROBG
 'away': WA*EU
 'with': W
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'Said': KPA/SED
 'the': -T
-'peasants:': PEFPBT/-S STPH-FPLT
-''Are': AE KPA/R
+'peasants:': PEFPBT/-S/STPH-FPLT
+''Are': AE/KPA/R
 'there': THR
 'any': TPHEU
 'more': PHOR
-'there?'': THR H-F AE
-''Oh,': AE KPA/O*ERBGS KW-BG
-'yes,'': KWRE KW-BG AE
+'there?'': THR/H-F/AE
+''Oh,': AE/KPA/O*ERBGS/KW-BG
+'yes,'': KWRE/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''more': AE PHOR
+'he,': HE/KW-BG
+''more': AE/PHOR
 'than': THAPB
 'I': EU
 'could': KO
-'want.'': WAPBT TP-PL AE
+'want.'': WAPBT/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'peasants': PEFPBT/-S
@@ -1946,24 +1946,24 @@ The Little Peasant
 'some': SOPL
 'sheep': SHAOEP
 'for': TPOR
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'a': AEU
 'flock': TPHROBG
-'apiece,': A/PAOES KW-BG
+'apiece,': A/PAOES/KW-BG
 'but': PWUT
 'the': -T
 'mayor': PHAEUR
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'come': KOPL
-'first.'': TPEUFRT TP-PL AE
+'first.'': TPEUFRT/TP-PL/AE
 'So': KPA/SO
 'they': THE
 'went': WEPBT
 'to': TO
 'the': -T
 'water': WAUR
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'just': SKWRUFT
 'then': THEPB
@@ -1978,45 +1978,45 @@ The Little Peasant
 'in': TPH
 'the': -T
 'blue': PWHRU
-'sky,': SKAOEU KW-BG
+'sky,': SKAOEU/KW-BG
 'which': WEU
 'are': R
 'called': KAULD
 'little': HREUL
-'lambs,': HRAPLS KW-BG
+'lambs,': HRAPLS/KW-BG
 'and': SKP
 'they': THE
 'were': WR
 'reflected': TPHREBGTD
 'in': TPH
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'whereupon': WRUP
 'the': -T
 'peasants': PEFPBT/-S
-'cried:': KRAOEUD STPH-FPLT
-''We': AE KPA/WE
+'cried:': KRAOEUD/STPH-FPLT
+''We': AE/KPA/WE
 'already': HR-R
 'see': SAOE
 'the': -T
 'sheep': SHAOEP
 'down': TKOUPB
-'below!'': PWHRO SKHRAPL AE
+'below!'': PWHRO/SKHRAPL/AE
 'The': KPA/-T
 'mayor': PHAEUR
 'pressed': PREFD
 'forward': TPAORD
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'will': HR
 'go': TKPW
 'down': TKOUPB
-'first,': TPEUFRT KW-BG
+'first,': TPEUFRT/KW-BG
 'and': SKP
 'look': HRAOBG
 'about': PW
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'if': TP
 'things': THEUPBGS
@@ -2024,15 +2024,15 @@ The Little Peasant
 'well': WEL
 'I'll': AOEUL
 'call': KAUL
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'jumped': SKWR*UPLD
-'in;': TPH STPH*FPLT
-'splash!': SPHRARB SKHRAPL
+'in;': TPH/STPH*FPLT
+'splash!': SPHRARB/SKHRAPL
 'went': WEPBT
 'the': -T
-'water;': WAUR STPH*FPLT
+'water;': WAUR/STPH*FPLT
 'it': T
 'sounded': SOUPBD/-D
 'as': AS
@@ -2040,7 +2040,7 @@ The Little Peasant
 'he': HE
 'were': WR
 'calling': KAULG
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'the': -T
 'whole': WHOEL
@@ -2051,21 +2051,21 @@ The Little Peasant
 'him': HEUPL
 'as': AS
 'one': WUPB
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'entire': SPWAOEUR
 'village': SREULG
 'was': WAS
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'and': SKP
 'the': -T
 'small': SPHAL
-'peasant,': PEFPBT KW-BG
+'peasant,': PEFPBT/KW-BG
 'as': AS
 'sole': SOEL
-'heir,': A*EUR KW-BG
+'heir,': A*EUR/KW-BG
 'became': PWAEUPL
 'a': AEU
 'rich': REUFP
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL

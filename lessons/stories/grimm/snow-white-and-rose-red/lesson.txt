@@ -11,7 +11,7 @@ Snow-White and Rose-Red
 'in': TPH
 'a': AEU
 'lonely': HROEPBL
-'cottage.': KOT/APBLG TP-PL
+'cottage.': KOT/APBLG/TP-PL
 'In': KPA/TPH
 'front': TPROPBT
 'of': -F
@@ -23,7 +23,7 @@ Snow-White and Rose-Red
 'wherein': WR-PB
 'stood': STAOD
 'two': TWO
-'rose-trees,': ROEZ H-PB TRAOES KW-BG
+'rose-trees,': ROEZ/H-PB/TRAOES/KW-BG
 'one': WUPB
 'of': -F
 'which': WEU
@@ -33,7 +33,7 @@ Snow-White and Rose-Red
 'the': -T
 'other': OER
 'red': RED
-'roses.': ROES/-S TP-PL
+'roses.': ROES/-S/TP-PL
 'She': KPA/SHE
 'had': H
 'two': TWO
@@ -43,22 +43,22 @@ Snow-White and Rose-Red
 'like': HRAOEUBG
 'the': -T
 'two': TWO
-'rose-trees,': ROEZ H-PB TRAOES KW-BG
+'rose-trees,': ROEZ/H-PB/TRAOES/KW-BG
 'and': SKP
 'one': WUPB
 'was': WAS
 'called': KAULD
-'Snow-white,': KPA/STPHOE H-PB WHAOEUT KW-BG
+'Snow-white,': KPA/STPHOE/H-PB/WHAOEUT/KW-BG
 'and': SKP
 'the': -T
 'other': OER
-'Rose-red.': RO*ES H-PB RED TP-PL
+'Rose-red.': RO*ES/H-PB/RED/TP-PL
 'They': KPA/THE
 'were': WR
 'as': AS
 'good': TKPWAOD
 'and': SKP
-'happy,': HAEP KW-BG
+'happy,': HAEP/KW-BG
 'as': AS
 'busy': PW-Z
 'and': SKP
@@ -70,17 +70,17 @@ Snow-White and Rose-Red
 'in': TPH
 'the': -T
 'world': WORLD
-'were,': WR KW-BG
+'were,': WR/KW-BG
 'only': OEPBL
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'was': WAS
 'more': PHOR
 'quiet': KWAO*EUT
 'and': SKP
 'gentle': SKWR*EPBLT
 'than': THAPB
-'Rose-red.': RO*ES H-PB RED TP-PL
-'Rose-red': RO*ES H-PB RED
+'Rose-red.': RO*ES/H-PB/RED/TP-PL
+'Rose-red': RO*ES/H-PB/RED
 'liked': HRAOEUBGD
 'better': PWOERT
 'to': TO
@@ -95,21 +95,21 @@ Snow-White and Rose-Red
 'flowers': TPHRO*URS
 'and': SKP
 'catching': KAFPG
-'butterflies;': PW*URT/TPHRAOEU/-S STPH*FPLT
+'butterflies;': PW*URT/TPHRAOEU/-S/STPH*FPLT
 'but': PWUT
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'sat': SAT
 'at': AT
 'home': HOEPL
 'with': W
 'her': HER
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'helped': HEPD
 'her': HER
 'with': W
 'her': HER
-'housework,': HOURBG KW-BG
+'housework,': HOURBG/KW-BG
 'or': OR
 'read': RAED
 'to': TO
@@ -119,7 +119,7 @@ Snow-White and Rose-Red
 'was': WAS
 'nothing': TPHOG
 'to': TO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'The': KPA/-T
 'two': TWO
 'children': KHEURPB
@@ -142,31 +142,31 @@ Snow-White and Rose-Red
 'they': THE
 'went': WEPBT
 'out': OUT
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'when': WHEPB
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
-'said:': SED STPH-FPLT
-''We': AE KPA/WE
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
+'said:': SED/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'not': TPHOT
 'leave': HREF
 'each': AOEFP
-'other,'': OER KW-BG AE
-'Rose-red': RO*ES H-PB RED
-'answered:': AEPBS/-D STPH-FPLT
-''Never': AE KPA/TPHEFR
+'other,'': OER/KW-BG/AE
+'Rose-red': RO*ES/H-PB/RED
+'answered:': AEPBS/-D/STPH-FPLT
+''Never': AE/KPA/TPHEFR
 'so': SO
 'long': HROPBG
 'as': AS
 'we': WE
-'live,'': HREUF KW-BG AE
+'live,'': HREUF/KW-BG/AE
 'and': SKP
 'their': THAEUR
 'mother': PHOER
 'would': WO
-'add:': AD STPH-FPLT
-''What': AE KPA/WHA
+'add:': AD/STPH-FPLT
+''What': AE/KPA/WHA
 'one': WUPB
 'has': HAS
 'she': SHE
@@ -174,7 +174,7 @@ Snow-White and Rose-Red
 'share': SHAEUR
 'with': W
 'the': -T
-'other.'': OER TP-PL AE
+'other.'': OER/TP-PL/AE
 'They': KPA/THE
 'often': OFPB
 'ran': RAPB
@@ -185,43 +185,43 @@ Snow-White and Rose-Red
 'and': SKP
 'gathered': TKPWAERD
 'red': RED
-'berries,': PWER/KWREUS KW-BG
+'berries,': PWER/KWREUS/KW-BG
 'and': SKP
 'no': TPHO
 'beasts': PWAOEFT/-S
 'did': TK
 'them': THEPL
 'any': TPHEU
-'harm,': HARPL KW-BG
+'harm,': HARPL/KW-BG
 'but': PWUT
 'came': KAEUPL
 'close': KHROES
 'to': TO
 'them': THEPL
-'trustfully.': xxx trustfully TP-PL
+'trustfully.': xxx trustfully/TP-PL
 'The': KPA/-T
 'little': HREUL
 'hare': HA*ER
 'would': WO
 'eat': AOET
 'a': AEU
-'cabbage-leaf': KAB/APBLG H-PB HRAOEF
+'cabbage-leaf': KAB/APBLG/H-PB/HRAOEF
 'out': OUT
 'of': -F
 'their': THAEUR
-'hands,': HAPBDZ KW-BG
+'hands,': HAPBDZ/KW-BG
 'the': -T
 'roe': HRO*ER/RO*E
 'grazed': TKPWRAEUZ/-D
 'by': PWEU
 'their': THAEUR
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'the': -T
 'stag': STAG
 'leapt': HREPT
 'merrily': PHER/HREU
 'by': PWEU
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'the': -T
 'birds': PWEURDZ
@@ -229,16 +229,16 @@ Snow-White and Rose-Red
 'still': STEUL
 'upon': POPB
 'the': -T
-'boughs,': PWO*U/-S KW-BG
+'boughs,': PWO*U/-S/KW-BG
 'and': SKP
 'sang': SAPBG
 'whatever': WHAF
 'they': THE
-'knew.': TPHAOU TP-PL
+'knew.': TPHAOU/TP-PL
 'No': KPA/TPHO
 'mishap': PHEUZ/HAP
 'overtook': AUFR/TAOBG
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'if': TP
 'they': THE
 'had': H
@@ -247,11 +247,11 @@ Snow-White and Rose-Red
 'late': HRAEUT
 'in': TPH
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'night': TPHAOEUT
 'came': KAEUPL
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'they': THE
 'laid': HRAEUD
 'themselves': TH*EPLS
@@ -261,12 +261,12 @@ Snow-White and Rose-Red
 'another': TPHOER
 'upon': POPB
 'the': -T
-'moss,': PHOS KW-BG
+'moss,': PHOS/KW-BG
 'and': SKP
 'slept': SHREPT
 'until': TPH-L
 'morning': PHORPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'their': THAEUR
 'mother': PHOER
@@ -278,7 +278,7 @@ Snow-White and Rose-Red
 'worry': WOER
 'on': OPB
 'their': THAEUR
-'account.': K-T TP-PL
+'account.': K-T/TP-PL
 'Once': KPA/WUPBS
 'when': WHEPB
 'they': THE
@@ -294,7 +294,7 @@ Snow-White and Rose-Red
 'dawn': TKAUPB
 'had': H
 'roused': ROUZ/-D
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'they': THE
 'saw': SAU
 'a': AEU
@@ -308,7 +308,7 @@ Snow-White and Rose-Red
 'sitting': SEUGT
 'near': TPHAOER
 'their': THAEUR
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'He': KPA/HE
 'got': TKPWOT
 'up': UP
@@ -317,7 +317,7 @@ Snow-White and Rose-Red
 'quite': KWAOEUT
 'kindly': KAOEUPBD/HREU
 'at': AT
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'but': PWUT
 'said': SED
 'nothing': TPHOG
@@ -325,7 +325,7 @@ Snow-White and Rose-Red
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'And': AFPBD
 'when': WHEPB
 'they': THE
@@ -342,7 +342,7 @@ Snow-White and Rose-Red
 'close': KHROES
 'to': TO
 'a': AEU
-'precipice,': PRES/PEUS KW-BG
+'precipice,': PRES/PEUS/KW-BG
 'and': SKP
 'would': WO
 'certainly': SERPBL
@@ -361,7 +361,7 @@ Snow-White and Rose-Red
 'a': AEU
 'few': TPAOU
 'paces': PAEUS/-S
-'further.': TPURT TP-PL
+'further.': TPURT/TP-PL
 'And': AFPBD
 'their': THAEUR
 'mother': PHOER
@@ -378,10 +378,10 @@ Snow-White and Rose-Red
 'watches': WAFPS
 'over': OEFR
 'good': TKPWAOD
-'children.': KHEURPB TP-PL
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'children.': KHEURPB/TP-PL
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'and': SKP
-'Rose-red': RO*ES H-PB RED
+'Rose-red': RO*ES/H-PB/RED
 'kept': KEPT
 'their': THAEUR
 'mother's': PHOER/AES
@@ -397,16 +397,16 @@ Snow-White and Rose-Red
 'to': TO
 'look': HRAOBG
 'inside': TPH-DZ
-'it.': T TP-PL
+'it.': T/TP-PL
 'In': KPA/TPH
 'the': -T
 'summer': SAOURPL
-'Rose-red': RO*ES H-PB RED
+'Rose-red': RO*ES/H-PB/RED
 'took': TAOBG
 'care': KAEUR
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'every': EF
 'morning': PHORPBG
@@ -421,7 +421,7 @@ Snow-White and Rose-Red
 'bed': PWED
 'before': PW-FR
 'she': SHE
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'in': TPH
 'which': WEU
 'was': WAS
@@ -429,11 +429,11 @@ Snow-White and Rose-Red
 'rose': ROEZ
 'from': TPR
 'each': AOEFP
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'In': KPA/TPH
 'the': -T
 'winter': WEURPBT
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'lit': HREUT
 'the': -T
 'fire': TPAOEUR
@@ -443,7 +443,7 @@ Snow-White and Rose-Red
 'kettle': K*ELT
 'on': OPB
 'the': -T
-'hob.': xxx hob TP-PL
+'hob.': xxx hob/TP-PL
 'The': KPA/-T
 'kettle': K*ELT
 'was': WAS
@@ -452,35 +452,35 @@ Snow-White and Rose-Red
 'and': SKP
 'shone': SHO*EPB
 'like': HRAOEUBG
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'so': SO
 'brightly': PWRAOEULT
 'was': WAS
 'it': T
-'polished.': POL/EURBD TP-PL
+'polished.': POL/EURBD/TP-PL
 'In': KPA/TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'when': WHEPB
 'the': -T
 'snowflakes': STPHOE/TPHRAEUBG/-S
-'fell,': TPEL KW-BG
+'fell,': TPEL/KW-BG
 'the': -T
 'mother': PHOER
-'said:': SED STPH-FPLT
-''Go,': AE KPA/TKPW KW-BG
-'Snow-white,': KPA/STPHOE H-PB WHAOEUT KW-BG
+'said:': SED/STPH-FPLT
+''Go,': AE/KPA/TKPW/KW-BG
+'Snow-white,': KPA/STPHOE/H-PB/WHAOEUT/KW-BG
 'and': SKP
 'bolt': PWOLT
 'the': -T
-'door,'': TKAOR KW-BG AE
+'door,'': TKAOR/KW-BG/AE
 'and': SKP
 'then': THEPB
 'they': THE
 'sat': SAT
 'round': ROUPBD
 'the': -T
-'hearth,': HAERT KW-BG
+'hearth,': HAERT/KW-BG
 'and': SKP
 'the': -T
 'mother': PHOER
@@ -494,7 +494,7 @@ Snow-White and Rose-Red
 'of': -F
 'a': AEU
 'large': HRARPBLG
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'and': SKP
 'the': -T
 'two': TWO
@@ -504,7 +504,7 @@ Snow-White and Rose-Red
 'they': THE
 'sat': SAT
 'and': SKP
-'spun.': SPUPB TP-PL
+'spun.': SPUPB/TP-PL
 'And': AFPBD
 'close': KHROES
 'by': PWEU
@@ -514,7 +514,7 @@ Snow-White and Rose-Red
 'lamb': HRAPL
 'upon': POPB
 'the': -T
-'floor,': TPHRAOR KW-BG
+'floor,': TPHRAOR/KW-BG
 'and': SKP
 'behind': HEUPBD
 'them': THEPL
@@ -531,16 +531,16 @@ Snow-White and Rose-Red
 'hidden': HEUD/EPB
 'beneath': TPHAO*ET
 'its': EUTS
-'wings.': WEUPBGS TP-PL
+'wings.': WEUPBGS/TP-PL
 'One': KPA/WUPB
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'as': AS
 'they': THE
 'were': WR
 'thus': THUS
 'sitting': SEUGT
 'comfortably': KAEBL
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'someone': SPH-PB
 'knocked': TPHOBGD
 'at': AT
@@ -553,15 +553,15 @@ Snow-White and Rose-Red
 'to': TO
 'be': -B
 'let': HRET
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'The': KPA/-T
 'mother': PHOER
-'said:': SED STPH-FPLT
-''Quick,': AE KPA/KWEUBG KW-BG
-'Rose-red,': RO*ES H-PB RED KW-BG
+'said:': SED/STPH-FPLT
+''Quick,': AE/KPA/KWEUBG/KW-BG
+'Rose-red,': RO*ES/H-PB/RED/KW-BG
 'open': OEP
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'it': T
 'must': PHUFT
 'be': -B
@@ -570,25 +570,25 @@ Snow-White and Rose-Red
 'who': WHO
 'is': S
 'seeking': SAOEBG/-G
-'shelter.'': SHELT TP-PL AE
-'Rose-red': RO*ES H-PB RED
+'shelter.'': SHELT/TP-PL/AE
+'Rose-red': RO*ES/H-PB/RED
 'went': WEPBT
 'and': SKP
 'pushed': PURBD
 'back': PWABG
 'the': -T
-'bolt,': PWOLT KW-BG
+'bolt,': PWOLT/KW-BG
 'thinking': THEUG
 'that': THA
 'it': T
 'was': WAS
 'a': AEU
 'poor': PAOR
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
-'not;': TPHOT STPH*FPLT
+'not;': TPHOT/STPH*FPLT
 'it': T
 'was': WAS
 'a': AEU
@@ -596,31 +596,31 @@ Snow-White and Rose-Red
 'that': THA
 'stretched': STREFPD
 'his': HEUS
-'broad,': PWRAOD KW-BG
+'broad,': PWRAOD/KW-BG
 'black': PWHRABG
 'head': HED
 'within': W-PB
 'the': -T
-'door.': TKAOR TP-PL
-'Rose-red': RO*ES H-PB RED
+'door.': TKAOR/TP-PL
+'Rose-red': RO*ES/H-PB/RED
 'screamed': SKRAOEPLD
 'and': SKP
 'sprang': SPRAPBG
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'the': -T
 'lamb': HRAPL
-'bleated,': PWHRAET/-D KW-BG
+'bleated,': PWHRAET/-D/KW-BG
 'the': -T
 'dove': TKOF
-'fluttered,': TPHRUT/ERD KW-BG
+'fluttered,': TPHRUT/ERD/KW-BG
 'and': SKP
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'hid': HEUD
 'herself': H*ERS
 'behind': HEUPBD
 'her': HER
 'mother's': PHOER/AES
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'But': KPA/PWUT
 'the': -T
 'bear': PWAER
@@ -628,20 +628,20 @@ Snow-White and Rose-Red
 'to': TO
 'speak': SPAOEBG
 'and': SKP
-'said:': SED STPH-FPLT
-''Do': AE KPA/TKO
+'said:': SED/STPH-FPLT
+''Do': AE/KPA/TKO
 'not': TPHOT
 'be': -B
-'afraid,': A/TPRAEUD KW-BG
+'afraid,': A/TPRAEUD/KW-BG
 'I': EU
 'will': HR
 'do': TKO
 'you': U
 'no': TPHO
-'harm!': HARPL SKHRAPL
+'harm!': HARPL/SKHRAPL
 'I': EU
 'am': APL
-'half-frozen,': HAF H-PB TPROEFPB KW-BG
+'half-frozen,': HAF/H-PB/TPROEFPB/KW-BG
 'and': SKP
 'only': OEPBL
 'want': WAPBT
@@ -651,17 +651,17 @@ Snow-White and Rose-Red
 'a': AEU
 'little': HREUL
 'beside': PWE/SAOEUD
-'you.'': U TP-PL AE
-''Poor': AE KPA/PAOR
-'bear,'': PWAER KW-BG AE
+'you.'': U/TP-PL/AE
+''Poor': AE/KPA/PAOR
+'bear,'': PWAER/KW-BG/AE
 'said': SED
 'the': -T
-'mother,': PHOER KW-BG
-''lie': AE HRAOEU
+'mother,': PHOER/KW-BG
+''lie': AE/HRAOEU
 'down': TKOUPB
 'by': PWEU
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'only': OEPBL
 'take': TAEUBG
 'care': KAEUR
@@ -671,48 +671,48 @@ Snow-White and Rose-Red
 'not': TPHOT
 'burn': PWURPB
 'your': KWROUR
-'coat.'': KOET TP-PL AE
+'coat.'': KOET/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
-'cried:': KRAOEUD STPH-FPLT
-''Snow-white,': AE KPA/STPHOE H-PB WHAOEUT KW-BG
-'Rose-red,': RO*ES H-PB RED KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Snow-white,': AE/KPA/STPHOE/H-PB/WHAOEUT/KW-BG
+'Rose-red,': RO*ES/H-PB/RED/KW-BG
 'come': KOPL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'the': -T
 'bear': PWAER
 'will': HR
 'do': TKO
 'you': U
 'no': TPHO
-'harm,': HARPL KW-BG
+'harm,': HARPL/KW-BG
 'he': HE
 'means': PHAOEPBS
-'well.'': WEL TP-PL AE
+'well.'': WEL/TP-PL/AE
 'So': KPA/SO
 'they': THE
 'both': PWO*T
 'came': KAEUPL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
-'by-and-by': PWEU H-PB SKP H-PB PWEU
+'by-and-by': PWEU/H-PB/SKP/H-PB/PWEU
 'the': -T
 'lamb': HRAPL
 'and': SKP
 'dove': TKOF
 'came': KAEUPL
-'nearer,': TPHAOER/*ER KW-BG
+'nearer,': TPHAOER/*ER/KW-BG
 'and': SKP
 'were': WR
 'not': TPHOT
 'afraid': A/TPRAEUD
 'of': -F
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'bear': PWAER
-'said:': SED STPH-FPLT
-''Here,': AE KPA/HAOER KW-BG
-'children,': KHEURPB KW-BG
+'said:': SED/STPH-FPLT
+''Here,': AE/KPA/HAOER/KW-BG
+'children,': KHEURPB/KW-BG
 'knock': TPHOBG
 'the': -T
 'snow': STPHOE
@@ -721,7 +721,7 @@ Snow-White and Rose-Red
 'my': PHEU
 'coat': KOET
 'a': AEU
-'little';': HREUL AE STPH*FPLT
+'little';': HREUL/AE/STPH*FPLT
 'so': SO
 'they': THE
 'brought': PWRAUT
@@ -730,9 +730,9 @@ Snow-White and Rose-Red
 'and': SKP
 'swept': SWEPT
 'the': -T
-'bear's': PWAER AES
+'bear's': PWAER/AES
 'hide': HAOEUD
-'clean;': KHRAOEPB STPH*FPLT
+'clean;': KHRAOEPB/STPH*FPLT
 'and': SKP
 'he': HE
 'stretched': STREFPD
@@ -744,7 +744,7 @@ Snow-White and Rose-Red
 'growled': TKPWROULD
 'contentedly': KAUPBT/-D/HREU
 'and': SKP
-'comfortably.': KAEBL TP-PL
+'comfortably.': KAEBL/TP-PL
 'It': KPA/T
 'was': WAS
 'not': TPHOT
@@ -754,21 +754,21 @@ Snow-White and Rose-Red
 'grew': TKPWRAOU
 'quite': KWAOEUT
 'at': AT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'played': PHRAEUD
 'tricks': TREUBGS
 'with': W
 'their': THAEUR
 'clumsy': KHRUPL/SEU
-'guest.': TKPWEFT TP-PL
+'guest.': TKPWEFT/TP-PL
 'They': KPA/THE
 'tugged': TUGD
 'his': HEUS
 'hair': HAEUR
 'with': W
 'their': THAEUR
-'hands,': HAPBDZ KW-BG
+'hands,': HAPBDZ/KW-BG
 'put': PUT
 'their': THAEUR
 'feet': TPAOET
@@ -778,21 +778,21 @@ Snow-White and Rose-Red
 'and': SKP
 'rolled': ROLD
 'him': HEUPL
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'or': OR
 'they': THE
 'took': TAOBG
 'a': AEU
-'hazel-switch': HAEUZ/EL H-PB SWEUFP
+'hazel-switch': HAEUZ/EL/H-PB/SWEUFP
 'and': SKP
 'beat': PWAET
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
 'growled': TKPWROULD
 'they': THE
-'laughed.': HRAFD TP-PL
+'laughed.': HRAFD/TP-PL
 'But': KPA/PWUT
 'the': -T
 'bear': PWAER
@@ -801,7 +801,7 @@ Snow-White and Rose-Red
 'all': AUL
 'in': TPH
 'good': TKPWAOD
-'part,': PART KW-BG
+'part,': PART/KW-BG
 'only': OEPBL
 'when': WHEPB
 'they': THE
@@ -810,42 +810,42 @@ Snow-White and Rose-Red
 'rough': RUF
 'he': HE
 'called': KAULD
-'out:': OUT STPH-FPLT
-''Leave': AE KPA/HREF
+'out:': OUT/STPH-FPLT
+''Leave': AE/KPA/HREF
 'me': PHE
-'alive,': A/HRAOEUF KW-BG
-'children,': KHEURPB KW-BG
-'Snow-white,': KPA/STPHOE H-PB WHAOEUT KW-BG
-'Rose-red,': RO*ES H-PB RED KW-BG
+'alive,': A/HRAOEUF/KW-BG
+'children,': KHEURPB/KW-BG
+'Snow-white,': KPA/STPHOE/H-PB/WHAOEUT/KW-BG
+'Rose-red,': RO*ES/H-PB/RED/KW-BG
 'Will': W*EUL
 'you': U
 'beat': PWAET
 'your': KWROUR
 'wooer': WAO/*ER
-'dead?'': TKED H-F AE
+'dead?'': TKED/H-F/AE
 'When': KPA/WHEPB
 'it': T
 'was': WAS
-'bed-time,': PWED H-PB TAOEUPL KW-BG
+'bed-time,': PWED/H-PB/TAOEUPL/KW-BG
 'and': SKP
 'the': -T
 'others': OERS
 'went': WEPBT
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'the': -T
 'mother': PHOER
 'said': SED
 'to': TO
 'the': -T
-'bear:': PWAER STPH-FPLT
-''You': AE KPA/U
+'bear:': PWAER/STPH-FPLT
+''You': AE/KPA/U
 'can': K
 'lie': HRAOEU
 'there': THR
 'by': PWEU
 'the': -T
-'hearth,': HAERT KW-BG
+'hearth,': HAERT/KW-BG
 'and': SKP
 'then': THEPB
 'you': U
@@ -858,7 +858,7 @@ Snow-White and Rose-Red
 'and': SKP
 'the': -T
 'bad': PWAD
-'weather.'': WHR* TP-PL AE
+'weather.'': WHR*/TP-PL/AE
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -869,7 +869,7 @@ Snow-White and Rose-Red
 'children': KHEURPB
 'let': HRET
 'him': HEUPL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'he': HE
 'trotted': TROT/-D
@@ -878,7 +878,7 @@ Snow-White and Rose-Red
 'snow': STPHOE
 'into': TPHAO
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'Henceforth': KPA/HEPBS/TPO*RT
 'the': -T
 'bear': PWAER
@@ -888,13 +888,13 @@ Snow-White and Rose-Red
 'at': AT
 'the': -T
 'same': SAEUPL
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'laid': HRAEUD
 'himself': HEUPLS
 'down': TKOUPB
 'by': PWEU
 'the': -T
-'hearth,': HAERT KW-BG
+'hearth,': HAERT/KW-BG
 'and': SKP
 'let': HRET
 'the': -T
@@ -907,7 +907,7 @@ Snow-White and Rose-Red
 'much': PHUFP
 'as': AS
 'they': THE
-'liked;': HRAOEUBGD STPH*FPLT
+'liked;': HRAOEUBGD/STPH*FPLT
 'and': SKP
 'they': THE
 'got': TKPWOT
@@ -926,7 +926,7 @@ Snow-White and Rose-Red
 'black': PWHRABG
 'friend': TPREPBD
 'had': H
-'arrived.': A/RAOEUFD TP-PL
+'arrived.': A/RAOEUFD/TP-PL
 'When': KPA/WHEPB
 'spring': SPREUPBG
 'had': H
@@ -935,19 +935,19 @@ Snow-White and Rose-Red
 'all': AUL
 'outside': OUDZ
 'was': WAS
-'green,': TKPWRAOEPB KW-BG
+'green,': TKPWRAOEPB/KW-BG
 'the': -T
 'bear': PWAER
 'said': SED
 'one': WUPB
 'morning': PHORPBG
 'to': TO
-'Snow-white:': KPA/STPHOE H-PB WHAOEUT STPH-FPLT
-''Now': AE KPA/TPHOU
+'Snow-white:': KPA/STPHOE/H-PB/WHAOEUT/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'I': EU
 'must': PHUFT
 'go': TKPW
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'cannot': SK-PBT
 'come': KOPL
@@ -955,17 +955,17 @@ Snow-White and Rose-Red
 'for': TPOR
 'the': -T
 'whole': WHOEL
-'summer.'': SAOURPL TP-PL AE
-''Where': AE KPA/W-R
+'summer.'': SAOURPL/TP-PL/AE
+''Where': AE/KPA/W-R
 'are': R
 'you': U
-'going,': TKPW-G KW-BG
-'then,': THEPB KW-BG
+'going,': TKPW-G/KW-BG
+'then,': THEPB/KW-BG
 'dear': TKAER
-'bear?'': PWAER H-F AE
+'bear?'': PWAER/H-F/AE
 'asked': SK-D
-'Snow-white.': KPA/STPHOE H-PB WHAOEUT TP-PL
-''I': AE EU
+'Snow-white.': KPA/STPHOE/H-PB/WHAOEUT/TP-PL
+''I': AE/EU
 'must': PHUFT
 'go': TKPW
 'into': TPHAO
@@ -978,16 +978,16 @@ Snow-White and Rose-Red
 'from': TPR
 'the': -T
 'wicked': WEUBGD
-'dwarfs.': TKWAR/-FS TP-PL
+'dwarfs.': TKWAR/-FS/TP-PL
 'In': KPA/TPH
 'the': -T
-'winter,': WEURPBT KW-BG
+'winter,': WEURPBT/KW-BG
 'when': WHEPB
 'the': -T
 'earth': *ERT
 'is': S
 'frozen': TPROEFPB
-'hard,': HARD KW-BG
+'hard,': HARD/KW-BG
 'they': THE
 'are': R
 'obliged': OE/PWHRAOEUPBLGD
@@ -999,9 +999,9 @@ Snow-White and Rose-Red
 'work': WORBG
 'their': THAEUR
 'way': WAEU
-'through;': THRU STPH*FPLT
+'through;': THRU/STPH*FPLT
 'but': PWUT
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'when': WHEPB
 'the': -T
 'sun': SUPB
@@ -1010,42 +1010,42 @@ Snow-White and Rose-Red
 'and': SKP
 'warmed': WARPLD
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'they': THE
 'break': PWRAEBG
 'through': THRU
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'come': KOPL
 'out': OUT
 'to': TO
 'pry': PRAOEU
 'and': SKP
-'steal;': STAEL STPH*FPLT
+'steal;': STAEL/STPH*FPLT
 'and': SKP
 'what': WHA
 'once': WUPBS
 'gets': TKPWETS
 'into': TPHAO
 'their': THAEUR
-'hands,': HAPBDZ KW-BG
+'hands,': HAPBDZ/KW-BG
 'and': SKP
 'in': TPH
 'their': THAEUR
-'caves,': KAFS KW-BG
+'caves,': KAFS/KW-BG
 'does': TKOS
 'not': TPHOT
 'easily': AOELS
 'see': SAOE
 'daylight': TKAEULT
-'again.'': TKPWEPB TP-PL AE
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'again.'': TKPWEPB/TP-PL/AE
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'was': WAS
 'quite': KWAOEUT
 'sorry': SOER
 'at': AT
 'his': HEUS
-'departure,': TKPART/AOUR KW-BG
+'departure,': TKPART/AOUR/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -1053,13 +1053,13 @@ Snow-White and Rose-Red
 'the': -T
 'door': TKAOR
 'for': TPOR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'the': -T
 'bear': PWAER
 'was': WAS
 'hurrying': HUR/REU/-G
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'he': HE
 'caught': KAUT
 'against': TKPWEPBS
@@ -1074,12 +1074,12 @@ Snow-White and Rose-Red
 'coat': KOET
 'was': WAS
 'torn': TORPB
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'it': T
 'seemed': SAOEPLD
 'to': TO
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'as': AS
 'if': TP
 'she': SHE
@@ -1088,19 +1088,19 @@ Snow-White and Rose-Red
 'gold': TKPWOELD
 'shining': SHAOEUPBG
 'through': THRU
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'she': SHE
 'was': WAS
 'not': TPHOT
 'sure': SHUR
 'about': PW
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'bear': PWAER
 'ran': RAPB
 'away': WA*EU
-'quickly,': KWEULG KW-BG
+'quickly,': KWEULG/KW-BG
 'and': SKP
 'was': WAS
 'soon': SAOPB
@@ -1109,7 +1109,7 @@ Snow-White and Rose-Red
 'sight': SAOEUT
 'behind': HEUPBD
 'the': -T
-'trees.': TRAOES TP-PL
+'trees.': TRAOES/TP-PL
 'A': KPA/AEU
 'short': SHORT
 'time': TAOEUPL
@@ -1124,7 +1124,7 @@ Snow-White and Rose-Red
 'forest': TPOEFRT
 'to': TO
 'get': TKPWET
-'firewood.': TPAOEUR/WAOD TP-PL
+'firewood.': TPAOEUR/WAOD/TP-PL
 'There': KPA/THR
 'they': THE
 'found': TPOUPBD
@@ -1136,7 +1136,7 @@ Snow-White and Rose-Red
 'felled': TPEL/-D
 'on': OPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'and': SKP
 'close': KHROES
 'by': PWEU
@@ -1150,7 +1150,7 @@ Snow-White and Rose-Red
 'forwards': TPAORDZ
 'in': TPH
 'the': -T
-'grass,': TKPWRAS KW-BG
+'grass,': TKPWRAS/KW-BG
 'but': PWUT
 'they': THE
 'could': KO
@@ -1159,7 +1159,7 @@ Snow-White and Rose-Red
 'out': OUT
 'what': WHA
 'it': T
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'came': KAEUPL
@@ -1179,7 +1179,7 @@ Snow-White and Rose-Red
 'beard': PWAERD
 'a': AEU
 'yard': KWRARD
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL
 'The': KPA/-T
 'end': EPBD
 'of': -F
@@ -1192,7 +1192,7 @@ Snow-White and Rose-Red
 'crevice': KREFS
 'of': -F
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -1206,14 +1206,14 @@ Snow-White and Rose-Red
 'tied': TAO*EUD
 'to': TO
 'a': AEU
-'rope,': ROEP KW-BG
+'rope,': ROEP/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
 'know': TPHOE
 'what': WHA
 'to': TO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'He': KPA/HE
 'glared': TKPWHRAEURD
 'at': AT
@@ -1225,12 +1225,12 @@ Snow-White and Rose-Red
 'red': RED
 'eyes': AO*EUS
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Why': AE KPA/KWR
+'cried:': KRAOEUD/STPH-FPLT
+''Why': AE/KPA/KWR
 'do': TKO
 'you': U
 'stand': STAPBD
-'there?': THR H-F
+'there?': THR/H-F
 'Can': KPA/K
 'you': U
 'not': TPHOT
@@ -1238,24 +1238,24 @@ Snow-White and Rose-Red
 'here': HAOER
 'and': SKP
 'help': HEP
-'me?'': PHE H-F AE
-''What': AE KPA/WHA
+'me?'': PHE/H-F/AE
+''What': AE/KPA/WHA
 'are': R
 'you': U
 'up': UP
-'to,': TO KW-BG
+'to,': TO/KW-BG
 'little': HREUL
-'man?'': PHAPB H-F AE
+'man?'': PHAPB/H-F/AE
 'asked': SK-D
-'Rose-red.': RO*ES H-PB RED TP-PL
-''You': AE KPA/U
-'stupid,': STAOUPD KW-BG
+'Rose-red.': RO*ES/H-PB/RED/TP-PL
+''You': AE/KPA/U
+'stupid,': STAOUPD/KW-BG
 'prying': PRAOEUG
-'goose!'': TKPWAOS SKHRAPL AE
+'goose!'': TKPWAOS/SKHRAPL/AE
 'answered': AEPBS/-D
 'the': -T
-'dwarf:': TKWAFR STPH-FPLT
-''I': AE EU
+'dwarf:': TKWAFR/STPH-FPLT
+''I': AE/EU
 'was': WAS
 'going': TKPW-G
 'to': TO
@@ -1268,7 +1268,7 @@ Snow-White and Rose-Red
 'little': HREUL
 'wood': WAOD
 'for': TPOR
-'cooking.': KAOG TP-PL
+'cooking.': KAOG/TP-PL
 'The': KPA/-T
 'little': HREUL
 'bit': PWEUT
@@ -1284,7 +1284,7 @@ Snow-White and Rose-Red
 'up': UP
 'with': W
 'heavy': HOEUF
-'logs;': HROGS STPH*FPLT
+'logs;': HROGS/STPH*FPLT
 'we': WE
 'do': TKO
 'not': TPHOT
@@ -1293,9 +1293,9 @@ Snow-White and Rose-Red
 'much': PHUFP
 'as': AS
 'you': U
-'coarse,': KAORS KW-BG
+'coarse,': KAORS/KW-BG
 'greedy': TKPWRAOE/TKEU
-'folk.': TPOEBG TP-PL
+'folk.': TPOEBG/TP-PL
 'I': EU
 'had': H
 'just': SKWRUFT
@@ -1303,14 +1303,14 @@ Snow-White and Rose-Red
 'the': -T
 'wedge': WEPBLG
 'safely': SAEUFL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'everything': EFRG
 'was': WAS
 'going': TKPW-G
 'as': AS
 'I': EU
-'wished;': WEURBD STPH*FPLT
+'wished;': WEURBD/STPH*FPLT
 'but': PWUT
 'the': -T
 'cursed': KURS/-D
@@ -1321,7 +1321,7 @@ Snow-White and Rose-Red
 'and': SKP
 'suddenly': SULD
 'sprang': SPRAPBG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'the': -T
 'tree': TRAOE
@@ -1337,7 +1337,7 @@ Snow-White and Rose-Red
 'my': PHEU
 'beautiful': PWAOUFL
 'white': WHAOEUT
-'beard;': PWAERD STPH*FPLT
+'beard;': PWAERD/STPH*FPLT
 'so': SO
 'now': TPHOU
 'it': T
@@ -1347,24 +1347,24 @@ Snow-White and Rose-Red
 'I': EU
 'cannot': SK-PBT
 'get': TKPWET
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'the': -T
-'silly,': SHREU KW-BG
-'sleek,': SHRAOEBG KW-BG
-'milk-faced': PH*EULG H-PB TPAEUFD
+'silly,': SHREU/KW-BG
+'sleek,': SHRAOEBG/KW-BG
+'milk-faced': PH*EULG/H-PB/TPAEUFD
 'things': THEUPBGS
-'laugh!': HRAF SKHRAPL
-'Ugh!': KPA/UG SKHRAPL
+'laugh!': HRAF/SKHRAPL
+'Ugh!': KPA/UG/SKHRAPL
 'how': HOU
 'odious': OED/KWROUS
 'you': U
-'are!'': R SKHRAPL AE
+'are!'': R/SKHRAPL/AE
 'The': KPA/-T
 'children': KHEURPB
 'tried': TRAOEUD
 'very': SRE
-'hard,': HARD KW-BG
+'hard,': HARD/KW-BG
 'but': PWUT
 'they': THE
 'could': KO
@@ -1372,31 +1372,31 @@ Snow-White and Rose-Red
 'pull': PUL
 'the': -T
 'beard': PWAERD
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'it': T
 'was': WAS
 'caught': KAUT
 'too': TAO
-'fast.': TPAFT TP-PL
-''I': AE EU
+'fast.': TPAFT/TP-PL
+''I': AE/EU
 'will': HR
 'run': RUPB
 'and': SKP
 'fetch': TPEFP
-'someone,'': SPH-PB KW-BG AE
+'someone,'': SPH-PB/KW-BG/AE
 'said': SED
-'Rose-red.': RO*ES H-PB RED TP-PL
-''You': AE KPA/U
+'Rose-red.': RO*ES/H-PB/RED/TP-PL
+''You': AE/KPA/U
 'senseless': SEPBS/-LS
-'goose!'': TKPWAOS SKHRAPL AE
+'goose!'': TKPWAOS/SKHRAPL/AE
 'snarled': STPHARPLD
 'the': -T
-'dwarf;': TKWAFR STPH*FPLT
-''why': AE KWR
+'dwarf;': TKWAFR/STPH*FPLT
+''why': AE/KWR
 'should': SHO
 'you': U
 'fetch': TPEFP
-'someone?': SPH-PB H-F
+'someone?': SPH-PB/H-F
 'You': KPA/U
 'are': R
 'already': HR-R
@@ -1404,23 +1404,23 @@ Snow-White and Rose-Red
 'too': TAO
 'many': PHAEPB
 'for': TPOR
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'can': K
 'you': U
 'not': TPHOT
 'think': THEU
 'of': -F
 'something': S-G
-'better?'': PWOERT H-F AE
-''Don't': AE TKO*PB AE T*
+'better?'': PWOERT/H-F/AE
+''Don't': AE/TKO*PB/AE/T*
 'be': -B
-'impatient,'': EUPL/PAEURBT KW-BG AE
+'impatient,'': EUPL/PAEURBT/KW-BG/AE
 'said': SED
-'Snow-white,': KPA/STPHOE H-PB WHAOEUT KW-BG
-''I': AE EU
+'Snow-white,': KPA/STPHOE/H-PB/WHAOEUT/KW-BG
+''I': AE/EU
 'will': HR
 'help': HEP
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'and': SKP
 'she': SHE
 'pulled': PULD
@@ -1429,7 +1429,7 @@ Snow-White and Rose-Red
 'out': OUT
 'of': -F
 'her': HER
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'cut': KUT
 'off': OF
@@ -1437,7 +1437,7 @@ Snow-White and Rose-Red
 'end': EPBD
 'of': -F
 'the': -T
-'beard.': PWAERD TP-PL
+'beard.': PWAERD/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -1459,22 +1459,22 @@ Snow-White and Rose-Red
 'roots': RAOTS
 'of': -F
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'which': WEU
 'was': WAS
 'full': TPUL
 'of': -F
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'and': SKP
 'lifted': HREUFTD
 'it': T
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'grumbling': TKPWRUPL/-BLG
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''Uncouth': AE KPA/UPB/KAO*UT
-'people,': PAOEPL KW-BG
+'himself:': HEUPLS/STPH-FPLT
+''Uncouth': AE/KPA/UPB/KAO*UT
+'people,': PAOEPL/KW-BG
 'to': TO
 'cut': KUT
 'off': OF
@@ -1483,11 +1483,11 @@ Snow-White and Rose-Red
 'of': -F
 'my': PHEU
 'fine': TPAOEUPB
-'beard.': PWAERD TP-PL
+'beard.': PWAERD/TP-PL
 'Bad': KPA/PWAD
 'luck': HRUBG
 'to': TO
-'you!'': U SKHRAPL AE
+'you!'': U/SKHRAPL/AE
 'and': SKP
 'then': THEPB
 'he': HE
@@ -1496,7 +1496,7 @@ Snow-White and Rose-Red
 'bag': PWAG
 'upon': POPB
 'his': HEUS
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'went': WEPBT
 'off': OF
@@ -1506,20 +1506,20 @@ Snow-White and Rose-Red
 'looking': HRAOG
 'at': AT
 'the': -T
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'Some': KPA/SOPL
 'time': TAOEUPL
 'afterwards': A*FRDZ
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'and': SKP
-'Rose-red': RO*ES H-PB RED
+'Rose-red': RO*ES/H-PB/RED
 'went': WEPBT
 'to': TO
 'catch': KAFP
 'a': AEU
 'dish': TKEURB
 'of': -F
-'fish.': TPEURB TP-PL
+'fish.': TPEURB/TP-PL
 'As': KPA/AS
 'they': THE
 'came': KAEUPL
@@ -1536,7 +1536,7 @@ Snow-White and Rose-Red
 'jumping': SKWRUFRPG
 'towards': TORDZ
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'as': AS
 'if': TP
 'it': T
@@ -1544,7 +1544,7 @@ Snow-White and Rose-Red
 'going': TKPW-G
 'to': TO
 'leap': HRAOEP
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'They': KPA/THE
 'ran': RAPB
 'to': TO
@@ -1554,14 +1554,14 @@ Snow-White and Rose-Red
 'it': T
 'was': WAS
 'the': -T
-'dwarf.': TKWAFR TP-PL
-''Where': AE KPA/W-R
+'dwarf.': TKWAFR/TP-PL
+''Where': AE/KPA/W-R
 'are': R
 'you': U
-'going?'': TKPW-G H-F AE
+'going?'': TKPW-G/H-F/AE
 'said': SED
-'Rose-red;': RO*ES H-PB RED STPH*FPLT
-''you': AE U
+'Rose-red;': RO*ES/H-PB/RED/STPH*FPLT
+''you': AE/U
 'surely': SHURL
 'don't': TKOEPBT
 'want': WAPBT
@@ -1569,16 +1569,16 @@ Snow-White and Rose-Red
 'go': TKPW
 'into': TPHAO
 'the': -T
-'water?'': WAUR H-F AE
-''I': AE EU
+'water?'': WAUR/H-F/AE
+''I': AE/EU
 'am': APL
 'not': TPHOT
 'such': SUFP
 'a': AEU
-'fool!'': TPAOL SKHRAPL AE
+'fool!'': TPAOL/SKHRAPL/AE
 'cried': KRAOEUD
 'the': -T
-'dwarf;': TKWAFR STPH*FPLT
+'dwarf;': TKWAFR/STPH*FPLT
 ''don't': A*E/TKOEPBT
 'you': U
 'see': SAOE
@@ -1590,7 +1590,7 @@ Snow-White and Rose-Red
 'to': TO
 'pull': PUL
 'me': PHE
-'in?'': TPH H-F AE
+'in?'': TPH/H-F/AE
 'The': KPA/-T
 'little': HREUL
 'man': PHAPB
@@ -1598,7 +1598,7 @@ Snow-White and Rose-Red
 'been': PW-PB
 'sitting': SEUGT
 'there': THR
-'fishing,': TPEURBG KW-BG
+'fishing,': TPEURBG/KW-BG
 'and': SKP
 'unluckily': UPB/HRULG
 'the': -T
@@ -1610,7 +1610,7 @@ Snow-White and Rose-Red
 'beard': PWAERD
 'with': W
 'the': -T
-'fishing-line;': TPEURBG H-PB HRAOEUPB STPH*FPLT
+'fishing-line;': TPEURBG/H-PB/HRAOEUPB/STPH*FPLT
 'a': AEU
 'moment': PHOEPLT
 'later': HRAEURT
@@ -1630,7 +1630,7 @@ Snow-White and Rose-Red
 'to': TO
 'pull': PUL
 'it': T
-'out;': OUT STPH*FPLT
+'out;': OUT/STPH*FPLT
 'the': -T
 'fish': TPEURB
 'kept': KEPT
@@ -1642,7 +1642,7 @@ Snow-White and Rose-Red
 'the': -T
 'dwarf': TKWAFR
 'towards': TORDZ
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'held': HELD
 'on': OPB
@@ -1651,13 +1651,13 @@ Snow-White and Rose-Red
 'the': -T
 'reeds': RAOED/-S
 'and': SKP
-'rushes,': RURBS KW-BG
+'rushes,': RURBS/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'of': -F
 'little': HREUL
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
@@ -1668,7 +1668,7 @@ Snow-White and Rose-Red
 'movements': PHOFPLTS
 'of': -F
 'the': -T
-'fish,': TPEURB KW-BG
+'fish,': TPEURB/KW-BG
 'and': SKP
 'was': WAS
 'in': TPH
@@ -1679,13 +1679,13 @@ Snow-White and Rose-Red
 'dragged': TKRAGD
 'into': TPHAO
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'The': KPA/-T
 'girls': TKPWEURLS
 'came': KAEUPL
 'just': SKWRUFT
 'in': TPH
-'time;': TAOEUPL STPH*FPLT
+'time;': TAOEUPL/STPH*FPLT
 'they': THE
 'held': HELD
 'him': HEUPL
@@ -1698,18 +1698,18 @@ Snow-White and Rose-Red
 'beard': PWAERD
 'from': TPR
 'the': -T
-'line,': HRAOEUPB KW-BG
+'line,': HRAOEUPB/KW-BG
 'but': PWUT
 'all': AUL
 'in': TPH
-'vain,': SRA*EUPB KW-BG
+'vain,': SRA*EUPB/KW-BG
 'beard': PWAERD
 'and': SKP
 'line': HRAOEUPB
 'were': WR
 'entangled': SPWAPBG/-LD
 'fast': TPAFT
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'There': KPA/THR
 'was': WAS
 'nothing': TPHOG
@@ -1724,7 +1724,7 @@ Snow-White and Rose-Red
 'and': SKP
 'cut': KUT
 'the': -T
-'beard,': PWAERD KW-BG
+'beard,': PWAERD/KW-BG
 'whereby': WR-B
 'a': AEU
 'small': SPHAL
@@ -1732,7 +1732,7 @@ Snow-White and Rose-Red
 'of': -F
 'it': T
 'was': WAS
-'lost.': HRO*S TP-PL
+'lost.': HRO*S/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'dwarf': TKWAFR
@@ -1740,17 +1740,17 @@ Snow-White and Rose-Red
 'that': THA
 'he': HE
 'screamed': SKRAOEPLD
-'out:': OUT STPH-FPLT
-''Is': AE KPA/S
+'out:': OUT/STPH-FPLT
+''Is': AE/KPA/S
 'that': THA
-'civil,': SEUFL KW-BG
+'civil,': SEUFL/KW-BG
 'you': U
-'toadstool,': TAOD/STAOL KW-BG
+'toadstool,': TAOD/STAOL/KW-BG
 'to': TO
 'disfigure': TKEUS/TPEUG
 'a': AEU
 'man's': PHAPB/AES
-'face?': TPAEUS H-F
+'face?': TPAEUS/H-F
 'Was': KPA/WAS
 'it': T
 'not': TPHOT
@@ -1762,7 +1762,7 @@ Snow-White and Rose-Red
 'end': EPBD
 'of': -F
 'my': PHEU
-'beard?': PWAERD H-F
+'beard?': PWAERD/H-F
 'Now': KPA/TPHOU
 'you': U
 'have': SR
@@ -1772,7 +1772,7 @@ Snow-White and Rose-Red
 'best': PWEFT
 'part': PART
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'I': EU
 'cannot': SK-PBT
 'let': HRET
@@ -1781,7 +1781,7 @@ Snow-White and Rose-Red
 'seen': SAOEPB
 'by': PWEU
 'my': PHEU
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'I': EU
 'wish': WEURB
 'you': U
@@ -1794,7 +1794,7 @@ Snow-White and Rose-Red
 'soles': SOELS
 'off': OF
 'your': KWROUR
-'shoes!'': SHAOUS SKHRAPL AE
+'shoes!'': SHAOUS/SKHRAPL/AE
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
@@ -1807,7 +1807,7 @@ Snow-White and Rose-Red
 'lay': HRAEU
 'in': TPH
 'the': -T
-'rushes,': RURBS KW-BG
+'rushes,': RURBS/KW-BG
 'and': SKP
 'without': WOUT
 'another': TPHOER
@@ -1820,7 +1820,7 @@ Snow-White and Rose-Red
 'disappeared': TKEUS/PAOERD
 'behind': HEUPBD
 'a': AEU
-'stone.': STOEPB TP-PL
+'stone.': STOEPB/TP-PL
 'It': KPA/T
 'happened': HAPD
 'that': THA
@@ -1839,11 +1839,11 @@ Snow-White and Rose-Red
 'buy': PWAOEU
 'needles': TPHAO*ELDZ
 'and': SKP
-'thread,': THRED KW-BG
+'thread,': THRED/KW-BG
 'and': SKP
 'laces': HRAEUS/-S
 'and': SKP
-'ribbons.': REUB/OPBS TP-PL
+'ribbons.': REUB/OPBS/TP-PL
 'The': KPA/-T
 'road': RAOD
 'led': HRED
@@ -1859,7 +1859,7 @@ Snow-White and Rose-Red
 'rock': ROBG
 'lay': HRAEU
 'strewn': STRAOUPB
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'There': KPA/THR
 'they': THE
 'noticed': TPH-TS/-D
@@ -1869,19 +1869,19 @@ Snow-White and Rose-Red
 'hovering': HOFRG
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'flying': TPHRAOEUG
 'slowly': SHROEL
 'round': ROUPBD
 'and': SKP
 'round': ROUPBD
 'above': PWOF
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'it': T
 'sank': SA*PBG
 'lower': HROUR
 'and': SKP
-'lower,': HROUR KW-BG
+'lower,': HROUR/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -1891,14 +1891,14 @@ Snow-White and Rose-Red
 'rock': ROBG
 'not': TPHOT
 'far': TPAR
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Immediately': KPA/PHAOELD
 'they': THE
 'heard': HAERD
 'a': AEU
-'loud,': HROUD KW-BG
+'loud,': HROUD/KW-BG
 'piteous': PEUT/KWROUS
-'cry.': KRAOEU TP-PL
+'cry.': KRAOEU/TP-PL
 'They': KPA/THE
 'ran': RAPB
 'up': UP
@@ -1915,19 +1915,19 @@ Snow-White and Rose-Red
 'old': OLD
 'acquaintance': KWAEUPBS
 'the': -T
-'dwarf,': TKWAFR KW-BG
+'dwarf,': TKWAFR/KW-BG
 'and': SKP
 'was': WAS
 'going': TKPW-G
 'to': TO
 'carry': KAER
 'him': HEUPL
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'The': KPA/-T
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'full': TPUL
 'of': -F
-'pity,': PEUT/TEU KW-BG
+'pity,': PEUT/TEU/KW-BG
 'at': AT
 'once': WUPBS
 'took': TAOBG
@@ -1936,7 +1936,7 @@ Snow-White and Rose-Red
 'of': -F
 'the': -T
 'little': HREUL
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'and': SKP
 'pulled': PULD
 'against': TKPWEPBS
@@ -1951,7 +1951,7 @@ Snow-White and Rose-Red
 'let': HRET
 'his': HEUS
 'booty': PWAOT/TEU
-'go.': TKPW TP-PL
+'go.': TKPW/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -1968,15 +1968,15 @@ Snow-White and Rose-Red
 'with': W
 'his': HEUS
 'shrill': SHREUL
-'voice:': SROEUS STPH-FPLT
-''Could': AE KPA/KO
+'voice:': SROEUS/STPH-FPLT
+''Could': AE/KPA/KO
 'you': U
 'not': TPHOT
 'have': SR
 'done': TKOPB
 'it': T
 'more': PHOR
-'carefully!': KA*EUFL SKHRAPL
+'carefully!': KA*EUFL/SKHRAPL
 'You': KPA/U
 'dragged': TKRAGD
 'at': AT
@@ -1992,10 +1992,10 @@ Snow-White and Rose-Red
 'and': SKP
 'full': TPUL
 'of': -F
-'holes,': HOELS KW-BG
+'holes,': HOELS/KW-BG
 'you': U
 'clumsy': KHRUPL/SEU
-'creatures!'': KRAOEFPS SKHRAPL AE
+'creatures!'': KRAOEFPS/SKHRAPL/AE
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
@@ -2005,7 +2005,7 @@ Snow-White and Rose-Red
 'full': TPUL
 'of': -F
 'precious': PRERBS
-'stones,': STOEPBS KW-BG
+'stones,': STOEPBS/KW-BG
 'and': SKP
 'slipped': SHREUPD
 'away': WA*EU
@@ -2015,9 +2015,9 @@ Snow-White and Rose-Red
 'rock': ROBG
 'into': TPHAO
 'his': HEUS
-'hole.': HOEL TP-PL
+'hole.': HOEL/TP-PL
 'The': KPA/-T
-'girls,': TKPWEURLS KW-BG
+'girls,': TKPWEURLS/KW-BG
 'who': WHO
 'by': PWEU
 'this': TH
@@ -2026,7 +2026,7 @@ Snow-White and Rose-Red
 'used': AOUFD
 'to': TO
 'his': HEUS
-'ingratitude,': EUPB/TKPWAT/TAOUD KW-BG
+'ingratitude,': EUPB/TKPWAT/TAOUD/KW-BG
 'went': WEPBT
 'on': OPB
 'their': THAEUR
@@ -2036,7 +2036,7 @@ Snow-White and Rose-Red
 'their': THAEUR
 'business': PWEUS
 'in': TPH
-'town.': TOUPB TP-PL
+'town.': TOUPB/TP-PL
 'As': KPA/AS
 'they': THE
 'crossed': KROFD
@@ -2050,7 +2050,7 @@ Snow-White and Rose-Red
 'they': THE
 'surprised': SPRAOEUFD
 'the': -T
-'dwarf,': TKWAFR KW-BG
+'dwarf,': TKWAFR/KW-BG
 'who': WHO
 'had': H
 'emptied': EPL/TEUD
@@ -2063,7 +2063,7 @@ Snow-White and Rose-Red
 'in': TPH
 'a': AEU
 'clean': KHRAOEPB
-'spot,': SPOT KW-BG
+'spot,': SPOT/KW-BG
 'and': SKP
 'had': H
 'not': TPHOT
@@ -2074,7 +2074,7 @@ Snow-White and Rose-Red
 'come': KOPL
 'there': THR
 'so': SO
-'late.': HRAEUT TP-PL
+'late.': HRAEUT/TP-PL
 'The': KPA/-T
 'evening': AOEPBG
 'sun': SUPB
@@ -2082,7 +2082,7 @@ Snow-White and Rose-Red
 'upon': POPB
 'the': -T
 'brilliant': PWREULT
-'stones;': STOEPBS STPH*FPLT
+'stones;': STOEPBS/STPH*FPLT
 'they': THE
 'glittered': TKPWHREUT/ERD
 'and': SKP
@@ -2100,24 +2100,24 @@ Snow-White and Rose-Red
 'and': SKP
 'stared': STAERD
 'at': AT
-'them.': THEPL TP-PL
-''Why': AE KPA/KWR
+'them.': THEPL/TP-PL
+''Why': AE/KPA/KWR
 'do': TKO
 'you': U
 'stand': STAPBD
 'gaping': TKPWAEUP/-G
-'there?'': THR H-F AE
+'there?'': THR/H-F/AE
 'cried': KRAOEUD
 'the': -T
-'dwarf,': TKWAFR KW-BG
+'dwarf,': TKWAFR/KW-BG
 'and': SKP
 'his': HEUS
-'ashen-grey': xxx ashen H-PB TKPWRA*EU
+'ashen-grey': xxx ashen/H-PB/TKPWRA*EU
 'face': TPAEUS
 'became': PWAEUPL
-'copper-red': KOP/ER H-PB RED
+'copper-red': KOP/ER/H-PB/RED
 'with': W
-'rage.': RAEUPBLG TP-PL
+'rage.': RAEUPBLG/TP-PL
 'He': KPA/HE
 'was': WAS
 'still': STEUL
@@ -2127,7 +2127,7 @@ Snow-White and Rose-Red
 'loud': HROUD
 'growling': TKPWROUL/-G
 'was': WAS
-'heard,': HAERD KW-BG
+'heard,': HAERD/KW-BG
 'and': SKP
 'a': AEU
 'black': PWHRABG
@@ -2139,27 +2139,27 @@ Snow-White and Rose-Red
 'out': OUT
 'of': -F
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'The': KPA/-T
 'dwarf': TKWAFR
 'sprang': SPRAPBG
 'up': UP
 'in': TPH
 'a': AEU
-'fright,': TPRAOEUT KW-BG
+'fright,': TPRAOEUT/KW-BG
 'but': PWUT
 'he': HE
 'could': KO
 'not': TPHOT
 'reach': RAOEFP
 'his': HEUS
-'cave,': KAEUF KW-BG
+'cave,': KAEUF/KW-BG
 'for': TPOR
 'the': -T
 'bear': PWAER
 'was': WAS
 'already': HR-R
-'close.': KHROES TP-PL
+'close.': KHROES/TP-PL
 'Then': KPA/THEPB
 'in': TPH
 'the': -T
@@ -2168,29 +2168,29 @@ Snow-White and Rose-Red
 'his': HEUS
 'heart': HART
 'he': HE
-'cried:': KRAOEUD STPH-FPLT
-''Dear': AE KPA/TKAER
+'cried:': KRAOEUD/STPH-FPLT
+''Dear': AE/KPA/TKAER
 'Mr': PH*P/R*
-'Bear,': KPA/PWAER KW-BG
+'Bear,': KPA/PWAER/KW-BG
 'spare': SPAEUR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'will': HR
 'give': TKPWEUF
 'you': U
 'all': AUL
 'my': PHEU
-'treasures;': TR-RBS STPH*FPLT
-'look,': HRAOBG KW-BG
+'treasures;': TR-RBS/STPH*FPLT
+'look,': HRAOBG/KW-BG
 'the': -T
 'beautiful': PWAOUFL
 'jewels': SKWRAOULS
 'lying': HRAOEUG
-'there!': THR SKHRAPL
+'there!': THR/SKHRAPL
 'Grant': TKPWRA*PBT
 'me': PHE
 'my': PHEU
-'life;': HRAOEUF STPH*FPLT
+'life;': HRAOEUF/STPH*FPLT
 'what': WHA
 'do': TKO
 'you': U
@@ -2202,7 +2202,7 @@ Snow-White and Rose-Red
 'little': HREUL
 'fellow': TP*EL
 'as': AS
-'I?': EU H-F
+'I?': EU/H-F
 'you': U
 'would': WO
 'not': TPHOT
@@ -2210,28 +2210,28 @@ Snow-White and Rose-Red
 'me': PHE
 'between': TWAOEPB
 'your': KWROUR
-'teeth.': TAO*ET TP-PL
-'Come,': KPA/KOPL KW-BG
+'teeth.': TAO*ET/TP-PL
+'Come,': KPA/KOPL/KW-BG
 'take': TAEUBG
 'these': THEZ
 'two': TWO
 'wicked': WEUBGD
-'girls,': TKPWEURLS KW-BG
+'girls,': TKPWEURLS/KW-BG
 'they': THE
 'are': R
 'tender': TERPBD
 'morsels': PHOR/SEL/-S
 'for': TPOR
-'you,': U KW-BG
+'you,': U/KW-BG
 'fat': TPAT
 'as': AS
 'young': KWRUPBG
-'quails;': KWAEUL/-S STPH*FPLT
+'quails;': KWAEUL/-S/STPH*FPLT
 'for': TPOR
-'mercy's': PHER/SEU AES
+'mercy's': PHER/SEU/AES
 'sake': SAEUBG
 'eat': AOET
-'them!'': THEPL SKHRAPL AE
+'them!'': THEPL/SKHRAPL/AE
 'The': KPA/-T
 'bear': PWAER
 'took': TAOBG
@@ -2239,7 +2239,7 @@ Snow-White and Rose-Red
 'heed': HAO*ED
 'of': -F
 'his': HEUS
-'words,': WORDZ KW-BG
+'words,': WORDZ/KW-BG
 'but': PWUT
 'gave': TKPWAEUF
 'the': -T
@@ -2250,44 +2250,44 @@ Snow-White and Rose-Red
 'blow': PWHROE
 'with': W
 'his': HEUS
-'paw,': PAU KW-BG
+'paw,': PAU/KW-BG
 'and': SKP
 'he': HE
 'did': TK
 'not': TPHOT
 'move': PHOF
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'The': KPA/-T
 'girls': TKPWEURLS
 'had': H
 'run': RUPB
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'but': PWUT
 'the': -T
 'bear': PWAER
 'called': KAULD
 'to': TO
-'them:': THEPL STPH-FPLT
-''Snow-white': AE KPA/STPHOE H-PB WHAOEUT
+'them:': THEPL/STPH-FPLT
+''Snow-white': AE/KPA/STPHOE/H-PB/WHAOEUT
 'and': SKP
-'Rose-red,': RO*ES H-PB RED KW-BG
+'Rose-red,': RO*ES/H-PB/RED/KW-BG
 'do': TKO
 'not': TPHOT
 'be': -B
-'afraid;': A/TPRAEUD STPH*FPLT
-'wait,': WAEUT KW-BG
+'afraid;': A/TPRAEUD/STPH*FPLT
+'wait,': WAEUT/KW-BG
 'I': EU
 'will': HR
 'come': KOPL
 'with': W
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'they': THE
 'recognized': REFD
 'his': HEUS
 'voice': SROEUS
 'and': SKP
-'waited,': WAEUTD KW-BG
+'waited,': WAEUTD/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -2299,38 +2299,38 @@ Snow-White and Rose-Red
 'his': HEUS
 'bearskin': PWAER/SKEUPB
 'fell': TPEL
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'he': HE
 'stood': STAOD
 'there': THR
 'a': AEU
 'handsome': HAPBD/SO*PL
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'clothed': KHRO*T/-D
 'all': AUL
 'in': TPH
-'gold.': TKPWOELD TP-PL
-''I': AE EU
+'gold.': TKPWOELD/TP-PL
+''I': AE/EU
 'am': APL
 'a': AEU
 'king's': KEUPBG/AES
-'son,'': SOPB KW-BG AE
+'son,'': SOPB/KW-BG/AE
 'he': HE
-'said,': SED KW-BG
-''and': AE SKP
+'said,': SED/KW-BG
+''and': AE/SKP
 'I': EU
 'was': WAS
 'bewitched': PWE/WEUFP/-D
 'by': PWEU
 'that': THA
 'wicked': WEUBGD
-'dwarf,': TKWAFR KW-BG
+'dwarf,': TKWAFR/KW-BG
 'who': WHO
 'had': H
 'stolen': STOEL/EPB
 'my': PHEU
-'treasures;': TR-RBS STPH*FPLT
+'treasures;': TR-RBS/STPH*FPLT
 'I': EU
 'have': SR
 'had': H
@@ -2349,24 +2349,24 @@ Snow-White and Rose-Red
 'freed': TPRAOED
 'by': PWEU
 'his': HEUS
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'Now': KPA/TPHOU
 'he': HE
 'has': HAS
 'got': TKPWOT
 'his': HEUS
-'well-deserved': W*EL TKAOE/SER/-FD
-'punishment.': PUPLT TP-PL
-'Snow-white': KPA/STPHOE H-PB WHAOEUT
+'well-deserved': W*EL/TKAOE/SER/-FD
+'punishment.': PUPLT/TP-PL
+'Snow-white': KPA/STPHOE/H-PB/WHAOEUT
 'was': WAS
 'married': PHAERD
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'Rose-red': RO*ES H-PB RED
+'Rose-red': RO*ES/H-PB/RED
 'to': TO
 'his': HEUS
-'brother,': PWROER KW-BG
+'brother,': PWROER/KW-BG
 'and': SKP
 'they': THE
 'divided': TKWAOEUTD
@@ -2383,7 +2383,7 @@ Snow-White and Rose-Red
 'together': TOGT
 'in': TPH
 'his': HEUS
-'cave.': KAEUF TP-PL
+'cave.': KAEUF/TP-PL
 'The': KPA/-T
 'old': OLD
 'mother': PHOER
@@ -2396,20 +2396,20 @@ Snow-White and Rose-Red
 'children': KHEURPB
 'for': TPOR
 'many': PHAEPB
-'years.': KWRAOERS TP-PL
+'years.': KWRAOERS/TP-PL
 'She': KPA/SHE
 'took': TAOBG
 'the': -T
 'two': TWO
-'rose-trees': ROEZ H-PB TRAOES
+'rose-trees': ROEZ/H-PB/TRAOES
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'they': THE
 'stood': STAOD
 'before': PW-FR
 'her': HER
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'and': SKP
 'every': EF
 'year': KWRAOER
@@ -2417,7 +2417,7 @@ Snow-White and Rose-Red
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'white': WHAOEUT
 'and': SKP
-'red.': RED TP-PL
+'red.': RED/TP-PL

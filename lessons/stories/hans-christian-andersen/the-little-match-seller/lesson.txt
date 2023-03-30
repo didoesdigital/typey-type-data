@@ -14,33 +14,33 @@ The Little Match-Seller
 'of': -F
 'the': -T
 'old': OLD
-'year,': KWRAOER KW-BG
+'year,': KWRAOER/KW-BG
 'and': SKP
 'the': -T
 'snow': STPHOE
 'was': WAS
 'falling': TPAULG
-'fast.': TPAFT TP-PL
+'fast.': TPAFT/TP-PL
 'In': KPA/TPH
 'the': -T
 'cold': KOELD
 'and': SKP
 'the': -T
-'darkness,': TKARBG/-PBS KW-BG
+'darkness,': TKARBG/-PBS/KW-BG
 'a': AEU
 'poor': PAOR
 'little': HREUL
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'with': W
 'bare': PWAEUR
 'head': HED
 'and': SKP
 'naked': TPHAEUBGD
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'roamed': ROEPLD
 'through': THRU
 'the': -T
-'streets.': STRAOETS TP-PL
+'streets.': STRAOETS/TP-PL
 'It': KPA/T
 'is': S
 'true': TRAOU
@@ -54,28 +54,28 @@ The Little Match-Seller
 'when': WHEPB
 'she': SHE
 'left': HREFT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'but': PWUT
 'they': THE
 'were': WR
 'not': TPHOT
 'of': -F
 'much': PHUFP
-'use.': AOUS TP-PL
+'use.': AOUS/TP-PL
 'They': KPA/THE
 'were': WR
 'very': SRE
-'large,': HRARPBLG KW-BG
+'large,': HRARPBLG/KW-BG
 'so': SO
-'large,': HRARPBLG KW-BG
-'indeed,': TPHAOEPBD KW-BG
+'large,': HRARPBLG/KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'that': THA
 'they': THE
 'had': H
 'belonged': PWHROPBGD
 'to': TO
 'her': HER
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'the': -T
 'poor': PAOR
@@ -100,7 +100,7 @@ The Little Match-Seller
 'at': AT
 'a': AEU
 'terrible': TERBL
-'rate.': RAEUT TP-PL
+'rate.': RAEUT/TP-PL
 'One': KPA/WUPB
 'of': -F
 'the': -T
@@ -108,7 +108,7 @@ The Little Match-Seller
 'she': SHE
 'could': KO
 'not': TPHOT
-'find,': TPAOEUPBD KW-BG
+'find,': TPAOEUPBD/KW-BG
 'and': SKP
 'a': AEU
 'boy': PWOEU
@@ -120,7 +120,7 @@ The Little Match-Seller
 'ran': RAPB
 'away': WA*EU
 'with': W
-'it,': T KW-BG
+'it,': T/KW-BG
 'saying': SAEUG
 'that': THA
 'he': HE
@@ -129,14 +129,14 @@ The Little Match-Seller
 'it': T
 'as': AS
 'a': AEU
-'cradle,': KRAEUD/*L KW-BG
+'cradle,': KRAEUD/*L/KW-BG
 'when': WHEPB
 'he': HE
 'had': H
 'children': KHEURPB
 'of': -F
 'his': HEUS
-'own.': OEPB TP-PL
+'own.': OEPB/TP-PL
 'So': KPA/SO
 'the': -T
 'little': HREUL
@@ -147,7 +147,7 @@ The Little Match-Seller
 'her': HER
 'little': HREUL
 'naked': TPHAEUBGD
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'which': WEU
 'were': WR
 'quite': KWAOEUT
@@ -156,7 +156,7 @@ The Little Match-Seller
 'blue': PWHRU
 'with': W
 'the': -T
-'cold.': KOELD TP-PL
+'cold.': KOELD/TP-PL
 'In': KPA/TPH
 'an': APB
 'old': OLD
@@ -166,7 +166,7 @@ The Little Match-Seller
 'a': AEU
 'number': TPHUPL
 'of': -F
-'matches,': PHAFPS KW-BG
+'matches,': PHAFPS/KW-BG
 'and': SKP
 'had': H
 'a': AEU
@@ -175,7 +175,7 @@ The Little Match-Seller
 'them': THEPL
 'in': TPH
 'her': HER
-'hands.': HAPBDZ TP-PL
+'hands.': HAPBDZ/TP-PL
 'No': KPA/TPHO
 'one': WUPB
 'had': H
@@ -185,7 +185,7 @@ The Little Match-Seller
 'her': HER
 'the': -T
 'whole': WHOEL
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'nor': TPH-R
 'had': H
 'any': TPHEU
@@ -194,50 +194,50 @@ The Little Match-Seller
 'here': HAOER
 'even': AOEPB
 'a': AEU
-'penny.': PEPB/TPHEU TP-PL
+'penny.': PEPB/TPHEU/TP-PL
 'Shivering': KPA/SH*EUFR/-G
 'with': W
 'cold': KOELD
 'and': SKP
-'hunger,': HURPBG KW-BG
+'hunger,': HURPBG/KW-BG
 'she': SHE
 'crept': KREPT
-'along;': HRAOPBG STPH*FPLT
+'along;': HRAOPBG/STPH*FPLT
 'poor': PAOR
 'little': HREUL
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'she': SHE
 'looked': HRAOBGD
 'the': -T
 'picture': P*EUFP
 'of': -F
-'misery.': PHEUS/REU TP-PL
+'misery.': PHEUS/REU/TP-PL
 'The': KPA/-T
 'snowflakes': STPHOE/TPHRAEUBG/-S
 'fell': TPEL
 'on': OPB
 'her': HER
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'fair': TPAEUR
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'which': WEU
 'hung': HUPBG
 'in': TPH
 'curls': KURLS
 'on': OPB
 'her': HER
-'shoulders,': SHOURLDZ KW-BG
+'shoulders,': SHOURLDZ/KW-BG
 'but': PWUT
 'she': SHE
 'regarded': RARD/-D
 'them': THEPL
-'not.': TPHOT TP-PL
+'not.': TPHOT/TP-PL
 'Lights': KPA/HRAOEUTS
 'were': WR
 'shining': SHAOEUPBG
 'from': TPR
 'every': EF
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'and': SKP
 'there': THR
 'was': WAS
@@ -246,35 +246,35 @@ The Little Match-Seller
 'smell': SPHEL
 'of': -F
 'roast': ROEFT
-'goose,': TKPWAOS KW-BG
+'goose,': TKPWAOS/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
-'New-year's': KPA/TPHU H-PB KWRAOER AES
-'eve—yes,': HRO*ER/AOEF EPL/TKA*RB KWRE KW-BG
+'New-year's': KPA/TPHU/H-PB/KWRAOER/AES
+'eve—yes,': HRO*ER/AOEF/EPL/TKA*RB/KWRE/KW-BG
 'she': SHE
 'remembered': RERD
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'In': KPA/TPH
 'a': AEU
-'corner,': KRORPB KW-BG
+'corner,': KRORPB/KW-BG
 'between': TWAOEPB
 'two': TWO
-'houses,': HO*UFS KW-BG
+'houses,': HO*UFS/KW-BG
 'one': WUPB
 'of': -F
 'which': WEU
 'projected': PROPBLGD
 'beyond': KWROPBD
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'she': SHE
 'sank': SA*PBG
 'down': TKOUPB
 'and': SKP
 'huddled': HUD/-LD
 'herself': H*ERS
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'She': KPA/SHE
 'had': H
 'drawn': TKRAUPB
@@ -282,7 +282,7 @@ The Little Match-Seller
 'little': HREUL
 'feet': TPAOET
 'under': TPH-PB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'but': PWUT
 'she': SHE
 'could': KO
@@ -290,19 +290,19 @@ The Little Match-Seller
 'keep': KAOEP
 'off': OF
 'the': -T
-'cold;': KOELD STPH*FPLT
+'cold;': KOELD/STPH*FPLT
 'and': SKP
 'she': SHE
 'dared': TKAEURD
 'not': TPHOT
 'go': TKPW
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'for': TPOR
 'she': SHE
 'had': H
 'sold': SOELD
 'no': TPHO
-'matches,': PHAFPS KW-BG
+'matches,': PHAFPS/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -312,14 +312,14 @@ The Little Match-Seller
 'a': AEU
 'penny': PEPB/TPHEU
 'of': -F
-'money.': PHUPB TP-PL
+'money.': PHUPB/TP-PL
 'Her': KPA/HER
 'father': TPAER
 'would': WO
 'certainly': SERPBL
 'beat': PWAET
-'her;': HER STPH*FPLT
-'besides,': PW-DZ KW-BG
+'her;': HER/STPH*FPLT
+'besides,': PW-DZ/KW-BG
 'it': T
 'was': WAS
 'almost': HR-PL
@@ -328,7 +328,7 @@ The Little Match-Seller
 'at': AT
 'home': HOEPL
 'as': AS
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'for': TPOR
 'they': THE
 'had': H
@@ -337,12 +337,12 @@ The Little Match-Seller
 'roof': RAOF
 'to': TO
 'cover': KOFR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'through': THRU
 'which': WEU
 'the': -T
 'wind': WEUPBD
-'howled,': HOUL/-D KW-BG
+'howled,': HOUL/-D/KW-BG
 'although': HR*T
 'the': -T
 'largest': HRARPBLG/EFT
@@ -354,7 +354,7 @@ The Little Match-Seller
 'with': W
 'straw': STRAU
 'and': SKP
-'rags.': RAG/-S TP-PL
+'rags.': RAG/-S/TP-PL
 'Her': KPA/HER
 'little': HREUL
 'hands': HAPBDZ
@@ -363,8 +363,8 @@ The Little Match-Seller
 'frozen': TPROEFPB
 'with': W
 'the': -T
-'cold.': KOELD TP-PL
-'Ah!': KPA/HA*E SKHRAPL
+'cold.': KOELD/TP-PL
+'Ah!': KPA/HA*E/SKHRAPL
 'perhaps': PRAPS
 'a': AEU
 'burning': PWURPBG
@@ -372,7 +372,7 @@ The Little Match-Seller
 'might': PHAOEUT
 'be': -B
 'some': SOPL
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'if': TP
 'she': SHE
 'could': KO
@@ -386,45 +386,45 @@ The Little Match-Seller
 'it': T
 'against': TKPWEPBS
 'the': -T
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'just': SKWRUFT
 'to': TO
 'warm': WARPL
 'her': HER
-'fingers.': TPEURPBGS TP-PL
+'fingers.': TPEURPBGS/TP-PL
 'She': KPA/SHE
 'drew': TKRAOU
 'one': WUPB
-'out-"scratch!"': OUT H-PB KR-GS SKRAFP SKHRAPL KR-GS
+'out-"scratch!"': OUT/H-PB/KR-GS/SKRAFP/SKHRAPL/KR-GS
 'how': HOU
 'it': T
 'sputtered': SPUT/ERD
 'as': AS
 'it': T
-'burnt!': PWURPBT SKHRAPL
+'burnt!': PWURPBT/SKHRAPL
 'It': KPA/T
 'gave': TKPWAEUF
 'a': AEU
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'bright': PWRAOEUT
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'like': HRAOEUBG
 'a': AEU
 'little': HREUL
-'candle,': KA*PBLD KW-BG
+'candle,': KA*PBLD/KW-BG
 'as': AS
 'she': SHE
 'held': HELD
 'her': HER
 'hand': HAPBD
 'over': OEFR
-'it.': T TP-PL
+'it.': T/TP-PL
 'It': KPA/T
 'was': WAS
 'really': R-L
 'a': AEU
 'wonderful': WUFL
-'light.': HRAOEUT TP-PL
+'light.': HRAOEUT/TP-PL
 'It': KPA/T
 'seemed': SAOEPLD
 'to': TO
@@ -439,7 +439,7 @@ The Little Match-Seller
 'a': AEU
 'large': HRARPBLG
 'iron': AOEURPB
-'stove,': STOF KW-BG
+'stove,': STOF/KW-BG
 'with': W
 'polished': POL/EURBD
 'brass': PWRAS
@@ -447,11 +447,11 @@ The Little Match-Seller
 'and': SKP
 'a': AEU
 'brass': PWRAS
-'ornament.': ORPB/*PLT TP-PL
+'ornament.': ORPB/*PLT/TP-PL
 'How': KPA/HOU
 'the': -T
 'fire': TPAOEUR
-'burned!': PWURPBD SKHRAPL
+'burned!': PWURPBD/SKHRAPL
 'and': SKP
 'seemed': SAOEPLD
 'so': SO
@@ -468,19 +468,19 @@ The Little Match-Seller
 'if': TP
 'to': TO
 'warm': WARPL
-'them,': THEPL KW-BG
-'when,': WHEPB KW-BG
-'lo!': HRO SKHRAPL
+'them,': THEPL/KW-BG
+'when,': WHEPB/KW-BG
+'lo!': HRO/SKHRAPL
 'the': -T
 'flame': TPHRAEUPL
 'of': -F
 'the': -T
 'match': PHAFP
 'went': WEPBT
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'the': -T
 'stove': STOF
-'vanished,': SRAPB/EURBD KW-BG
+'vanished,': SRAPB/EURBD/KW-BG
 'and': SKP
 'she': SHE
 'had': H
@@ -489,23 +489,23 @@ The Little Match-Seller
 'remains': RE/PHAEUPBS
 'of': -F
 'the': -T
-'half-burnt': HAF H-PB PWURPBT
+'half-burnt': HAF/H-PB/PWURPBT
 'match': PHAFP
 'in': TPH
 'her': HER
-'hand.': HAPBD TP-PL
+'hand.': HAPBD/TP-PL
 'She': KPA/SHE
 'rubbed': RUBD
 'another': TPHOER
 'match': PHAFP
 'on': OPB
 'the': -T
-'wall.': WAUL TP-PL
+'wall.': WAUL/TP-PL
 'It': KPA/T
 'burst': PWUFRT
 'into': TPHAO
 'a': AEU
-'flame,': TPHRAEUPL KW-BG
+'flame,': TPHRAEUPL/KW-BG
 'and': SKP
 'where': W-R
 'its': EUTS
@@ -520,14 +520,14 @@ The Little Match-Seller
 'transparent': TRAEUPBT
 'as': AS
 'a': AEU
-'veil,': SRAEUL KW-BG
+'veil,': SRAEUL/KW-BG
 'and': SKP
 'she': SHE
 'could': KO
 'see': SAOE
 'into': TPHAO
 'the': -T
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'The': KPA/-T
 'table': TAEUBL
 'was': WAS
@@ -536,31 +536,31 @@ The Little Match-Seller
 'a': AEU
 'snowy': STPHOE/WEU
 'white': WHAOEUT
-'table-cloth,': TAEUBL H-PB KHRO*T KW-BG
+'table-cloth,': TAEUBL/H-PB/KHRO*T/KW-BG
 'on': OPB
 'which': WEU
 'stood': STAOD
 'a': AEU
 'splendid': SPHREPB/TKEUD
 'dinner': TKEURPB
-'service,': S-FS KW-BG
+'service,': S-FS/KW-BG
 'and': SKP
 'a': AEU
 'steaming': STAOEPLG
 'roast': ROEFT
-'goose,': TKPWAOS KW-BG
+'goose,': TKPWAOS/KW-BG
 'stuffed': STUFD
 'with': W
 'apples': APLS
 'and': SKP
 'dried': TKRAOEUD
-'plums.': PHR*UPL/-S TP-PL
+'plums.': PHR*UPL/-S/TP-PL
 'And': AFPBD
 'what': WHA
 'was': WAS
 'still': STEUL
 'more': PHOR
-'wonderful,': WUFL KW-BG
+'wonderful,': WUFL/KW-BG
 'the': -T
 'goose': TKPWAOS
 'jumped': SKWR*UPLD
@@ -572,7 +572,7 @@ The Little Match-Seller
 'waddled': WAD/-LD
 'across': KRAOS
 'the': -T
-'floor,': TPHRAOR KW-BG
+'floor,': TPHRAOR/KW-BG
 'with': W
 'a': AEU
 'knife': TPHAOEUF
@@ -580,32 +580,32 @@ The Little Match-Seller
 'fork': TPORBG
 'in': TPH
 'its': EUTS
-'breast,': PWREFT KW-BG
+'breast,': PWREFT/KW-BG
 'to': TO
 'the': -T
 'little': HREUL
-'girl.': TKPWEURL TP-PL
+'girl.': TKPWEURL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'match': PHAFP
 'went': WEPBT
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'there': THR
 'remained': RE/PHAEUPBD
 'nothing': TPHOG
 'but': PWUT
 'the': -T
-'thick,': THEUBG KW-BG
-'damp,': TKAFRP KW-BG
+'thick,': THEUBG/KW-BG
+'damp,': TKAFRP/KW-BG
 'cold': KOELD
 'wall': WAUL
 'before': PW-FR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'She': KPA/SHE
 'lighted': HRAOEUTD
 'another': TPHOER
-'match,': PHAFP KW-BG
+'match,': PHAFP/KW-BG
 'and': SKP
 'then': THEPB
 'she': SHE
@@ -615,7 +615,7 @@ The Little Match-Seller
 'under': TPH-PB
 'a': AEU
 'beautiful': PWAOUFL
-'Christmas-tree.': KREUS/PHAS H-PB TRAOE TP-PL
+'Christmas-tree.': KREUS/PHAS/H-PB/TRAOE/TP-PL
 'It': KPA/T
 'was': WAS
 'larger': HRAERPBLG
@@ -637,7 +637,7 @@ The Little Match-Seller
 'at': AT
 'the': -T
 'rich': REUFP
-'merchant's.': PHEFRPBT AE S* TP-PL
+'merchant's.': PHEFRPBT/AE/S*/TP-PL
 'Thousands': KPA/THOUDZ
 'of': -F
 'tapers': TAEURPS
@@ -646,10 +646,10 @@ The Little Match-Seller
 'upon': POPB
 'the': -T
 'green': TKPWRAOEPB
-'branches,': PWRAFRPBS KW-BG
+'branches,': PWRAFRPBS/KW-BG
 'and': SKP
 'colored': KHRORD
-'pictures,': P*EUFPS KW-BG
+'pictures,': P*EUFPS/KW-BG
 'like': HRAOEUBG
 'those': THOZ
 'she': SHE
@@ -657,12 +657,12 @@ The Little Match-Seller
 'seen': SAOEPB
 'in': TPH
 'the': -T
-'show-windows,': SHOE H-PB WOEUPBDZ KW-BG
+'show-windows,': SHOE/H-PB/WOEUPBDZ/KW-BG
 'looked': HRAOBGD
 'down': TKOUPB
 'upon': POPB
 'it': T
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'The': KPA/-T
 'little': HREUL
 'one': WUPB
@@ -671,19 +671,19 @@ The Little Match-Seller
 'her': HER
 'hand': HAPBD
 'towards': TORDZ
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'the': -T
 'match': PHAFP
 'went': WEPBT
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'The': KPA/-T
 'Christmas': KREUS/PHAS
 'lights': HRAOEUTS
 'rose': ROEZ
 'higher': HAOEUR
 'and': SKP
-'higher,': HAOEUR KW-BG
+'higher,': HAOEUR/KW-BG
 'till': TEUL
 'they': THE
 'looked': HRAOBGD
@@ -694,13 +694,13 @@ The Little Match-Seller
 'stars': STARS
 'in': TPH
 'the': -T
-'sky.': SKAOEU TP-PL
+'sky.': SKAOEU/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'saw': SAU
 'a': AEU
 'star': STAR
-'fall,': TPAUL KW-BG
+'fall,': TPAUL/KW-BG
 'leaving': HREFG
 'behind': HEUPBD
 'it': T
@@ -708,19 +708,19 @@ The Little Match-Seller
 'bright': PWRAOEUT
 'streak': STRAOEBG
 'of': -F
-'fire.': TPAOEUR TP-PL
-'"Some': KR-GS KPA/SOPL
+'fire.': TPAOEUR/TP-PL
+'"Some': KR-GS/KPA/SOPL
 'one': WUPB
 'is': S
-'dying,"': TKAOEUG KW-BG KR-GS
+'dying,"': TKAOEUG/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
 'little': HREUL
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'for': TPOR
 'her': HER
 'old': OLD
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'the': -T
 'only': OEPBL
 'one': WUPB
@@ -728,12 +728,12 @@ The Little Match-Seller
 'had': H
 'ever': -FR
 'loved': HROFD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'who': WHO
 'was': WAS
 'now': TPHOU
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'had': H
 'told': TOLD
 'her': HER
@@ -741,14 +741,14 @@ The Little Match-Seller
 'when': WHEPB
 'a': AEU
 'star': STAR
-'falls,': TPAULS KW-BG
+'falls,': TPAULS/KW-BG
 'a': AEU
 'soul': SOUL
 'was': WAS
 'going': TKPW-G
 'up': UP
 'to': TO
-'God.': TKPWO*D TP-PL
+'God.': TKPWO*D/TP-PL
 'She': KPA/SHE
 'again': TKPWEPB
 'rubbed': RUBD
@@ -756,40 +756,40 @@ The Little Match-Seller
 'match': PHAFP
 'on': OPB
 'the': -T
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'and': SKP
 'the': -T
 'light': HRAOEUT
 'shone': SHO*EPB
 'round': ROUPBD
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'in': TPH
 'the': -T
 'brightness': PWRAOEUT/-PBS
 'stood': STAOD
 'her': HER
 'old': OLD
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'clear': KHRAOER
 'and': SKP
-'shining,': SHAOEUPBG KW-BG
+'shining,': SHAOEUPBG/KW-BG
 'yet': KWRET
 'mild': PHAOEULD
 'and': SKP
 'loving': HRUFG
 'in': TPH
 'her': HER
-'appearance.': PAOERPBS TP-PL
-'"Grandmother,"': KR-GS KPA/TKPWR-PL KW-BG KR-GS
+'appearance.': PAOERPBS/TP-PL
+'"Grandmother,"': KR-GS/KPA/TKPWR-PL/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
-'one,': WUPB KW-BG
-'"O': KR-GS O*P
+'one,': WUPB/KW-BG
+'"O': KR-GS/O*P
 'take': TAEUBG
 'me': PHE
 'with': W
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'I': EU
 'know': TPHOE
 'you': U
@@ -800,22 +800,22 @@ The Little Match-Seller
 'the': -T
 'match': PHAFP
 'burns': PWURPBS
-'out;': OUT STPH*FPLT
+'out;': OUT/STPH*FPLT
 'you': U
 'will': HR
 'vanish': SRAPB/EURB
 'like': HRAOEUBG
 'the': -T
 'warm': WARPL
-'stove,': STOF KW-BG
+'stove,': STOF/KW-BG
 'the': -T
 'roast': ROEFT
-'goose,': TKPWAOS KW-BG
+'goose,': TKPWAOS/KW-BG
 'and': SKP
 'the': -T
-'large,': HRARPBLG KW-BG
+'large,': HRARPBLG/KW-BG
 'glorious': TKPWHRORS
-'Christmas-tree."': KREUS/PHAS H-PB TRAOE TP-PL KR-GS
+'Christmas-tree."': KREUS/PHAS/H-PB/TRAOE/TP-PL/KR-GS
 'And': AFPBD
 'she': SHE
 'made': PHAED
@@ -826,7 +826,7 @@ The Little Match-Seller
 'whole': WHOEL
 'bundle': PWUPBLD
 'of': -F
-'matches,': PHAFPS KW-BG
+'matches,': PHAFPS/KW-BG
 'for': TPOR
 'she': SHE
 'wished': WEURBD
@@ -834,7 +834,7 @@ The Little Match-Seller
 'keep': KAOEP
 'her': HER
 'grandmother': TKPWR-PL
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'And': AFPBD
 'the': -T
 'matches': PHAFPS
@@ -847,7 +847,7 @@ The Little Match-Seller
 'brighter': PWRAOEURT
 'than': THAPB
 'the': -T
-'noon-day,': TPHAOPB H-PB TKAEU KW-BG
+'noon-day,': TPHAOPB/H-PB/TKAEU/KW-BG
 'and': SKP
 'her': HER
 'grandmother': TKPWR-PL
@@ -858,7 +858,7 @@ The Little Match-Seller
 'large': HRARPBLG
 'or': OR
 'so': SO
-'beautiful.': PWAOUFL TP-PL
+'beautiful.': PWAOUFL/TP-PL
 'She': KPA/SHE
 'took': TAOBG
 'the': -T
@@ -866,7 +866,7 @@ The Little Match-Seller
 'girl': TKPWEURL
 'in': TPH
 'her': HER
-'arms,': ARPLS KW-BG
+'arms,': ARPLS/KW-BG
 'and': SKP
 'they': THE
 'both': PWO*T
@@ -879,7 +879,7 @@ The Little Match-Seller
 'far': TPAR
 'above': PWOF
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'where': W-R
 'there': THR
 'was': WAS
@@ -888,12 +888,12 @@ The Little Match-Seller
 'nor': TPH-R
 'hunger': HURPBG
 'nor': TPH-R
-'pain,': PAEUPB KW-BG
+'pain,': PAEUPB/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
 'with': W
-'God.': TKPWO*D TP-PL
+'God.': TKPWO*D/TP-PL
 'In': KPA/TPH
 'the': -T
 'dawn': TKAUPB
@@ -904,17 +904,17 @@ The Little Match-Seller
 'the': -T
 'poor': PAOR
 'little': HREUL
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'with': W
 'pale': PAEL
 'cheeks': KHAOEBGS
 'and': SKP
 'smiling': SPHAOEULG
-'mouth,': PHO*UT KW-BG
+'mouth,': PHO*UT/KW-BG
 'leaning': HRAOEPBG
 'against': TKPWEPBS
 'the': -T
-'wall;': WAUL STPH*FPLT
+'wall;': WAUL/STPH*FPLT
 'she': SHE
 'had': H
 'been': PW-PB
@@ -927,10 +927,10 @@ The Little Match-Seller
 'evening': AOEPBG
 'of': -F
 'the': -T
-'year;': KWRAOER STPH*FPLT
+'year;': KWRAOER/STPH*FPLT
 'and': SKP
 'the': -T
-'New-year's': KPA/TPHU H-PB KWRAOER AES
+'New-year's': KPA/TPHU/H-PB/KWRAOER/AES
 'sun': SUPB
 'rose': ROEZ
 'and': SKP
@@ -938,35 +938,35 @@ The Little Match-Seller
 'upon': POPB
 'a': AEU
 'little': HREUL
-'corpse!': KORPS SKHRAPL
+'corpse!': KORPS/SKHRAPL
 'The': KPA/-T
 'child': KHAOEULD
 'still': STEUL
-'sat,': SAT KW-BG
+'sat,': SAT/KW-BG
 'in': TPH
 'the': -T
 'stiffness': STEUFPBS
 'of': -F
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'holding': HOELGD
 'the': -T
 'matches': PHAFPS
 'in': TPH
 'her': HER
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'one': WUPB
 'bundle': PWUPBLD
 'of': -F
 'which': WEU
 'was': WAS
-'burnt.': PWURPBT TP-PL
-'"She': KR-GS KPA/SHE
+'burnt.': PWURPBT/TP-PL
+'"She': KR-GS/KPA/SHE
 'tried': TRAOEUD
 'to': TO
 'warm': WARPL
-'herself,"': H*ERS KW-BG KR-GS
+'herself,"': H*ERS/KW-BG/KR-GS
 'said': SED
-'some.': SOPL TP-PL
+'some.': SOPL/TP-PL
 'No': KPA/TPHO
 'one': WUPB
 'imagined': PHAPBLGD
@@ -975,7 +975,7 @@ The Little Match-Seller
 'things': THEUPBGS
 'she': SHE
 'had': H
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'nor': TPH-R
 'into': TPHAO
 'what': WHA
@@ -985,7 +985,7 @@ The Little Match-Seller
 'entered': SPWR-D
 'with': W
 'her': HER
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'on': OPB
-'New-year's': KPA/TPHU H-PB KWRAOER AES
-'day.': TKAEU TP-PL
+'New-year's': KPA/TPHU/H-PB/KWRAOER/AES
+'day.': TKAEU/TP-PL

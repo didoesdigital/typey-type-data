@@ -7,10 +7,10 @@ The Red Shoes
 'there': THR
 'was': WAS
 'little': HREUL
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'pretty': PREUT
 'and': SKP
-'dainty.': TKAEUPB/TEU TP-PL
+'dainty.': TKAEUPB/TEU/TP-PL
 'But': KPA/PWUT
 'in': TPH
 'summer': SAOURPL
@@ -24,7 +24,7 @@ The Red Shoes
 'because': PWAU
 'she': SHE
 'was': WAS
-'poor,': PAOR KW-BG
+'poor,': PAOR/KW-BG
 'and': SKP
 'in': TPH
 'winter': WEURPBT
@@ -34,7 +34,7 @@ The Red Shoes
 'wear': WAER
 'large': HRARPBLG
 'wooden': WAOD/EPB
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'so': SO
 'that': THA
 'her': HER
@@ -42,7 +42,7 @@ The Red Shoes
 'instep': EUPB/STEP
 'grew': TKPWRAOU
 'quite': KWAOEUT
-'red.': RED TP-PL
+'red.': RED/TP-PL
 'In': KPA/TPH
 'the': -T
 'middle': PH*EULD
@@ -52,18 +52,18 @@ The Red Shoes
 'lived': HREUFD
 'an': APB
 'old': OLD
-'shoemaker's': SHAOU/PHA*EURBG AES
-'wife;': WAOEUF STPH*FPLT
+'shoemaker's': SHAOU/PHA*EURBG/AES
+'wife;': WAOEUF/STPH*FPLT
 'she': SHE
 'sat': SAT
 'down': TKOUPB
 'and': SKP
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'as': AS
 'well': WEL
 'as': AS
 'she': SHE
-'could,': KO KW-BG
+'could,': KO/KW-BG
 'a': AEU
 'pair': PAEUR
 'of': -F
@@ -76,14 +76,14 @@ The Red Shoes
 'pieces': PAOEFS
 'of': -F
 'red': RED
-'cloth.': KHRO*T TP-PL
+'cloth.': KHRO*T/TP-PL
 'They': KPA/THE
 'were': WR
-'clumsy,': KHRUPL/SEU KW-BG
+'clumsy,': KHRUPL/SEU/KW-BG
 'but': PWUT
 'she': SHE
 'meant': PHEPBT
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
@@ -91,11 +91,11 @@ The Red Shoes
 'for': TPOR
 'the': -T
 'little': HREUL
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'whose': WHOZ
 'name': TPHAEUPL
 'was': WAS
-'Karen.': KAEURPB TP-PL
+'Karen.': KAEURPB/TP-PL
 'Karen': KAEURPB
 'received': SAOEFD
 'the': -T
@@ -113,19 +113,19 @@ The Red Shoes
 'of': -F
 'her': HER
 'mother's': PHOER/AES
-'funeral.': TPAOUPBL TP-PL
+'funeral.': TPAOUPBL/TP-PL
 'They': KPA/THE
 'were': WR
 'certainly': SERPBL
 'not': TPHOT
 'suitable': SAOUT/-BL
 'for': TPOR
-'mourning;': PHOURPBG STPH*FPLT
+'mourning;': PHOURPBG/STPH*FPLT
 'but': PWUT
 'she': SHE
 'had': H
 'no': TPHO
-'others,': OERS KW-BG
+'others,': OERS/KW-BG
 'and': SKP
 'so': SO
 'she': SHE
@@ -140,7 +140,7 @@ The Red Shoes
 'behind': HEUPBD
 'the': -T
 'humble': HUPL/-BL
-'coffin.': KOFPB TP-PL
+'coffin.': KOFPB/TP-PL
 'Just': KPA/SKWRUFT
 'then': THEPB
 'a': AEU
@@ -148,31 +148,31 @@ The Red Shoes
 'old': OLD
 'carriage': KAEURPBLG
 'came': KAEUPL
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'and': SKP
 'in': TPH
 'it': T
 'sat': SAT
 'an': APB
 'old': OLD
-'lady;': HRA*ED STPH*FPLT
+'lady;': HRA*ED/STPH*FPLT
 'she': SHE
 'looked': HRAOBGD
 'at': AT
 'the': -T
 'little': HREUL
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'and': SKP
 'taking': TAEUG
 'pity': PEUT/TEU
 'on': OPB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'said': SED
 'to': TO
 'the': -T
-'clergyman,': KHRERPBLG/PHAPB KW-BG
-'"Look': KR-GS KPA/HRAOBG
-'here,': HAOER KW-BG
+'clergyman,': KHRERPBLG/PHAPB/KW-BG
+'"Look': KR-GS/KPA/HRAOBG
+'here,': HAOER/KW-BG
 'if': TP
 'you': U
 'will': HR
@@ -180,13 +180,13 @@ The Red Shoes
 'me': PHE
 'the': -T
 'little': HREUL
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'I': EU
 'will': HR
 'take': TAEUBG
 'care': KAEUR
 'of': -F
-'her."': HER TP-PL KR-GS
+'her."': HER/TP-PL/KR-GS
 'Karen': KAEURPB
 'believed': PWHREFD
 'that': THA
@@ -198,19 +198,19 @@ The Red Shoes
 'of': -F
 'the': -T
 'red': RED
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'but': PWUT
 'the': -T
 'old': OLD
 'lady': HRA*ED
 'thought': THAUT
 'them': THEPL
-'hideous,': HEUD/KWROUS KW-BG
+'hideous,': HEUD/KWROUS/KW-BG
 'and': SKP
 'so': SO
 'they': THE
 'were': WR
-'burnt.': PWURPBT TP-PL
+'burnt.': PWURPBT/TP-PL
 'Karen': KAEURPB
 'herself': H*ERS
 'was': WAS
@@ -218,7 +218,7 @@ The Red Shoes
 'very': SRE
 'neatly': TPHAO*ELT
 'and': SKP
-'cleanly;': KHRAOEPBL STPH*FPLT
+'cleanly;': KHRAOEPBL/STPH*FPLT
 'she': SHE
 'was': WAS
 'taught': TAUT
@@ -226,26 +226,26 @@ The Red Shoes
 'read': RAED
 'and': SKP
 'to': TO
-'sew,': SWE KW-BG
+'sew,': SWE/KW-BG
 'and': SKP
 'people': PAOEPL
 'said': SED
 'that': THA
 'she': SHE
 'was': WAS
-'pretty.': PREUT TP-PL
+'pretty.': PREUT/TP-PL
 'But': KPA/PWUT
 'the': -T
 'mirror': PHROR
 'told': TOLD
-'her,': HER KW-BG
-'"You': KR-GS KPA/U
+'her,': HER/KW-BG
+'"You': KR-GS/KPA/U
 'are': R
 'more': PHOR
 'than': THAPB
-'pretty—you': PREUT EPL/TKA*RB U
+'pretty—you': PREUT/EPL/TKA*RB/U
 'are': R
-'beautiful."': PWAOUFL TP-PL KR-GS
+'beautiful."': PWAOUFL/TP-PL/KR-GS
 'One': KPA/WUPB
 'day': TKAEU
 'the': -T
@@ -257,37 +257,37 @@ The Red Shoes
 'part': PART
 'of': -F
 'the': -T
-'country,': KREU KW-BG
+'country,': KREU/KW-BG
 'and': SKP
 'had': H
 'her': HER
 'little': HREUL
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'who': WHO
 'was': WAS
 'a': AEU
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'All': KPA/AUL
 'the': -T
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'amongst': PHOPBGS
 'them': THEPL
 'Karen': KAEURPB
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'streamed': STRAOEPL/-D
 'towards': TORDZ
 'the': -T
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'where': W-R
 'the': -T
 'little': HREUL
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'in': TPH
 'fine': TPAOEUPB
 'white': WHAOEUT
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'stood': STAOD
 'before': PW-FR
 'the': -T
@@ -298,7 +298,7 @@ The Red Shoes
 'to': TO
 'be': -B
 'stared': STAERD
-'at.': AT TP-PL
+'at.': AT/TP-PL
 'She': KPA/SHE
 'wore': WOR
 'neither': TPHAOERT
@@ -307,12 +307,12 @@ The Red Shoes
 'nor': TPH-R
 'a': AEU
 'golden': TKPWOELD/*EPB
-'crown,': KROUPB KW-BG
+'crown,': KROUPB/KW-BG
 'but': PWUT
 'beautiful': PWAOUFL
 'red': RED
 'morocco': HRO*ER/PHORBG/KOE
-'shoes;': SHAOUS STPH*FPLT
+'shoes;': SHAOUS/STPH*FPLT
 'they': THE
 'were': WR
 'indeed': TPHAOEPBD
@@ -322,13 +322,13 @@ The Red Shoes
 'those': THOZ
 'which': WEU
 'the': -T
-'shoemaker's': SHAOU/PHA*EURBG AES
+'shoemaker's': SHAOU/PHA*EURBG/AES
 'wife': WAOEUF
 'had': H
 'sewn': SWEPB
 'for': TPOR
 'little': HREUL
-'Karen.': KAEURPB TP-PL
+'Karen.': KAEURPB/TP-PL
 'There': KPA/THR
 'is': S
 'really': R-L
@@ -342,7 +342,7 @@ The Red Shoes
 'compared': KPARD
 'to': TO
 'red': RED
-'shoes!': SHAOUS SKHRAPL
+'shoes!': SHAOUS/SKHRAPL
 'Karen': KAEURPB
 'was': WAS
 'now': TPHOU
@@ -350,12 +350,12 @@ The Red Shoes
 'enough': TPHUF
 'to': TO
 'be': -B
-'confirmed;': K-FRPL/-D STPH*FPLT
+'confirmed;': K-FRPL/-D/STPH*FPLT
 'she': SHE
 'received': SAOEFD
 'some': SOPL
 'new': TPHU
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -364,7 +364,7 @@ The Red Shoes
 'have': SR
 'some': SOPL
 'new': TPHU
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'The': KPA/-T
 'rich': REUFP
 'shoemaker': SHAOU/PHA*EURBG
@@ -381,7 +381,7 @@ The Red Shoes
 'in': TPH
 'his': HEUS
 'own': OEPB
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'in': TPH
 'which': WEU
 'there': THR
@@ -395,12 +395,12 @@ The Red Shoes
 'shoes': SHAOUS
 'and': SKP
 'white': WHAOEUT
-'slippers.': SHREUP/ERS TP-PL
+'slippers.': SHREUP/ERS/TP-PL
 'It': KPA/T
 'all': AUL
 'looked': HRAOBGD
 'very': SRE
-'lovely,': HROFL KW-BG
+'lovely,': HROFL/KW-BG
 'but': PWUT
 'the': -T
 'old': OLD
@@ -409,7 +409,7 @@ The Red Shoes
 'not': TPHOT
 'see': SAOE
 'very': SRE
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'therefore': TH-FR
 'did': TK
@@ -419,7 +419,7 @@ The Red Shoes
 'pleasure': PHRERB
 'out': OUT
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'Amongst': KPA/PHOPBGS
 'the': -T
 'shoes': SHAOUS
@@ -428,18 +428,18 @@ The Red Shoes
 'pair': PAEUR
 'of': -F
 'red': RED
-'ones,': WUPBZ KW-BG
+'ones,': WUPBZ/KW-BG
 'like': HRAOEUBG
 'those': THOZ
 'which': WEU
 'the': -T
 'princess': PREUPB/SES
 'had': H
-'worn.': WORPB TP-PL
+'worn.': WORPB/TP-PL
 'How': KPA/HOU
 'beautiful': PWAOUFL
 'they': THE
-'were!': WR SKHRAPL
+'were!': WR/SKHRAPL
 'and': SKP
 'the': -T
 'shoemaker': SHAOU/PHA*EURBG
@@ -451,41 +451,41 @@ The Red Shoes
 'made': PHAED
 'for': TPOR
 'a': AEU
-'count's': KOUPBT AES
-'daughter,': TKAUR KW-BG
+'count's': KOUPBT/AES
+'daughter,': TKAUR/KW-BG
 'but': PWUT
 'that': THA
 'they': THE
 'had': H
 'not': TPHOT
 'fitted': TPEUTD
-'her.': HER TP-PL
-'"I': KR-GS EU
+'her.': HER/TP-PL
+'"I': KR-GS/EU
 'suppose': SPOS
 'they': THE
 'are': R
 'of': -F
 'shiny': SHOEUPB
-'leather?"': HRE/THER H-F KR-GS
+'leather?"': HRE/THER/H-F/KR-GS
 'asked': SK-D
 'the': -T
 'old': OLD
-'lady.': HRA*ED TP-PL
-'"They': KR-GS KPA/THE
+'lady.': HRA*ED/TP-PL
+'"They': KR-GS/KPA/THE
 'shine': SHAOEUPB
-'so."': SO TP-PL KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'so."': SO/TP-PL/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'they': THE
 'do': TKO
-'shine,"': SHAOEUPB KW-BG KR-GS
+'shine,"': SHAOEUPB/KW-BG/KR-GS
 'said': SED
-'Karen.': KAEURPB TP-PL
+'Karen.': KAEURPB/TP-PL
 'They': KPA/THE
 'fitted': TPEUTD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'were': WR
-'bought.': PWAUT TP-PL
+'bought.': PWAUT/TP-PL
 'But': KPA/PWUT
 'the': -T
 'old': OLD
@@ -495,7 +495,7 @@ The Red Shoes
 'of': -F
 'their': THAEUR
 'being': -BG
-'red,': RED KW-BG
+'red,': RED/KW-BG
 'for': TPOR
 'she': SHE
 'would': WO
@@ -508,18 +508,18 @@ The Red Shoes
 'confirmed': K-FRPL/-D
 'in': TPH
 'red': RED
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'as': AS
 'she': SHE
 'was': WAS
 'now': TPHOU
 'to': TO
-'be.': -B TP-PL
+'be.': -B/TP-PL
 'Everybody': KPA/EFRB
 'looked': HRAOBGD
 'at': AT
 'her': HER
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'and': SKP
 'the': -T
 'whole': WHOEL
@@ -545,7 +545,7 @@ The Red Shoes
 'figures': TPEUGS
 'on': OPB
 'the': -T
-'monuments,': PHOPB/AOUPLTS KW-BG
+'monuments,': PHOPB/AOUPLTS/KW-BG
 'in': TPH
 'their': THAEUR
 'stiff': STEUF
@@ -553,7 +553,7 @@ The Red Shoes
 'and': SKP
 'long': HROPBG
 'black': PWHRABG
-'robes,': ROEB/-S KW-BG
+'robes,': ROEB/-S/KW-BG
 'had': H
 'their': THAEUR
 'eyes': AO*EUS
@@ -561,7 +561,7 @@ The Red Shoes
 'on': OPB
 'her': HER
 'red': RED
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'It': KPA/T
 'was': WAS
 'only': OEPBL
@@ -584,12 +584,12 @@ The Red Shoes
 'of': -F
 'the': -T
 'holy': HOEUL
-'baptism,': PWAPT/EUFPL KW-BG
+'baptism,': PWAPT/EUFPL/KW-BG
 'of': -F
 'the': -T
 'covenant': KOFPBT
 'with': W
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'and': SKP
 'told': TOLD
 'her': HER
@@ -601,12 +601,12 @@ The Red Shoes
 'be': -B
 'a': AEU
 'grown-up': TKPWR*UP
-'Christian.': KREUGS TP-PL
+'Christian.': KREUGS/TP-PL
 'The': KPA/-T
 'organ': O*RPBG
 'pealed': PA*EL/-D
 'forth': TPO*RT
-'solemnly,': SOL/EPL/HREU KW-BG
+'solemnly,': SOL/EPL/HREU/KW-BG
 'and': SKP
 'the': -T
 'sweet': SWAOET
@@ -618,7 +618,7 @@ The Red Shoes
 'of': -F
 'their': THAEUR
 'old': OLD
-'leader;': HRAOERD STPH*FPLT
+'leader;': HRAOERD/STPH*FPLT
 'but': PWUT
 'Karen': KAEURPB
 'thought': THAUT
@@ -626,7 +626,7 @@ The Red Shoes
 'of': -F
 'her': HER
 'red': RED
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'In': KPA/TPH
 'the': -T
 'afternoon': AFPB
@@ -641,7 +641,7 @@ The Red Shoes
 'had': H
 'worn': WORPB
 'red': RED
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'She': KPA/SHE
 'said': SED
 'that': THA
@@ -656,7 +656,7 @@ The Red Shoes
 'it': T
 'was': WAS
 'very': SRE
-'improper,': EUPL/PROR KW-BG
+'improper,': EUPL/PROR/KW-BG
 'and': SKP
 'that': THA
 'Karen': KAEURPB
@@ -670,45 +670,45 @@ The Red Shoes
 'future': TPAOURT
 'in': TPH
 'black': PWHRABG
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'even': AOEPB
 'if': TP
 'they': THE
 'were': WR
-'old.': OLD TP-PL
+'old.': OLD/TP-PL
 'On': KPA/OPB
 'the': -T
 'following': TPOLG
 'Sunday': SUPBD
 'there': THR
 'was': WAS
-'Communion.': KPA/KPHAOUPB/KWROPB TP-PL
+'Communion.': KPA/KPHAOUPB/KWROPB/TP-PL
 'Karen': KAEURPB
 'looked': HRAOBGD
 'first': TPEUFRT
 'at': AT
 'the': -T
 'black': PWHRABG
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'then': THEPB
 'at': AT
 'the': -T
 'red': RED
-'ones—looked': WUPBZ EPL/TKA*RB HRAOBGD
+'ones—looked': WUPBZ/EPL/TKA*RB/HRAOBGD
 'at': AT
 'the': -T
 'red': RED
 'ones': WUPBZ
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'put': PUT
 'them': THEPL
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'The': KPA/-T
 'sun': SUPB
 'was': WAS
 'shining': SHAOEUPBG
-'gloriously,': TKPWHRORS/HREU KW-BG
+'gloriously,': TKPWHRORS/HREU/KW-BG
 'so': SO
 'Karen': KAEURPB
 'and': SKP
@@ -721,12 +721,12 @@ The Red Shoes
 'footpath': TPAOT/PA*T
 'through': THRU
 'the': -T
-'corn,': KORPB KW-BG
+'corn,': KORPB/KW-BG
 'where': W-R
 'it': T
 'was': WAS
 'rather': RAER
-'dusty.': TKUS/TEU TP-PL
+'dusty.': TKUS/TEU/TP-PL
 'At': KPA/AT
 'the': -T
 'church': KHUFRPB
@@ -739,17 +739,17 @@ The Red Shoes
 'leaning': HRAOEPBG
 'on': OPB
 'a': AEU
-'crutch;': KRUFP STPH*FPLT
+'crutch;': KRUFP/STPH*FPLT
 'he': HE
 'had': H
 'a': AEU
 'wonderfully': WOPBD/TPHREU
 'long': HROPBG
-'beard,': PWAERD KW-BG
+'beard,': PWAERD/KW-BG
 'more': PHOR
 'red': RED
 'than': THAPB
-'white,': WHAOEUT KW-BG
+'white,': WHAOEUT/KW-BG
 'and': SKP
 'he': HE
 'bowed': PWOE/-D
@@ -767,7 +767,7 @@ The Red Shoes
 'might': PHAOEUT
 'wipe': WAOEUP
 'her': HER
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'Then': KPA/THEPB
 'Karen': KAEURPB
 'put': PUT
@@ -775,32 +775,32 @@ The Red Shoes
 'her': HER
 'little': HREUL
 'foot': TPAOT
-'too.': TAO TP-PL
-'"Dear': KR-GS KPA/TKAER
-'me,': PHE KW-BG
+'too.': TAO/TP-PL
+'"Dear': KR-GS/KPA/TKAER
+'me,': PHE/KW-BG
 'what': WHA
 'pretty': PREUT
-'dancing-shoes!"': TKAPBS/-G H-PB SHAOUS SKHRAPL KR-GS
+'dancing-shoes!"': TKAPBS/-G/H-PB/SHAOUS/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'soldier.': SHRERPBLG TP-PL
-'"Sit': KR-GS KPA/SEUT
-'fast,': TPAFT KW-BG
+'soldier.': SHRERPBLG/TP-PL
+'"Sit': KR-GS/KPA/SEUT
+'fast,': TPAFT/KW-BG
 'when': WHEPB
 'you': U
-'dance,"': TKAPBS KW-BG KR-GS
+'dance,"': TKAPBS/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'addressing': A/TKREFG
 'the': -T
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'and': SKP
 'slapping': SHR-PG
 'the': -T
 'soles': SOELS
 'with': W
 'his': HEUS
-'hand.': HAPBD TP-PL
+'hand.': HAPBD/TP-PL
 'The': KPA/-T
 'old': OLD
 'lady': HRA*ED
@@ -816,7 +816,7 @@ The Red Shoes
 'Karen': KAEURPB
 'into': TPHAO
 'the': -T
-'church.': KHUFRPB TP-PL
+'church.': KHUFRPB/TP-PL
 'And': AFPBD
 'all': AUL
 'the': -T
@@ -824,16 +824,16 @@ The Red Shoes
 'inside': TPH-DZ
 'looked': HRAOBGD
 'at': AT
-'Karen's': KAEURPB AES
+'Karen's': KAEURPB/AES
 'red': RED
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
 'figures': TPEUGS
 'gazed': TKPWAEZ/-D
 'at': AT
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'when': WHEPB
 'Karen': KAEURPB
 'knelt': TPHELT
@@ -847,14 +847,14 @@ The Red Shoes
 'goblet': TKPWOBLT
 'to': TO
 'her': HER
-'mouth,': PHO*UT KW-BG
+'mouth,': PHO*UT/KW-BG
 'she': SHE
 'thought': THAUT
 'only': OEPBL
 'of': -F
 'the': -T
 'red': RED
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'It': KPA/T
 'seemed': SAOEPLD
 'to': TO
@@ -867,27 +867,27 @@ The Red Shoes
 'about': PW
 'in': TPH
 'the': -T
-'goblet,': TKPWOBLT KW-BG
+'goblet,': TKPWOBLT/KW-BG
 'and': SKP
 'she': SHE
 'forgot': TPAURGT
 'to': TO
 'sing': SEUPBG
 'the': -T
-'psalm,': SAUPL KW-BG
+'psalm,': SAUPL/KW-BG
 'forgot': TPAURGT
 'to': TO
 'say': SAEU
 'the': -T
-'"Lord's': KR-GS HRO*RD AES
-'Prayer."': KPA/PRAEUR TP-PL KR-GS
+'"Lord's': KR-GS/HRO*RD/AES
+'Prayer."': KPA/PRAEUR/TP-PL/KR-GS
 'Now': KPA/TPHOU
 'every': EF
 'one': WUPB
 'came': KAEUPL
 'out': OUT
 'of': -F
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'and': SKP
 'the': -T
 'old': OLD
@@ -895,7 +895,7 @@ The Red Shoes
 'stepped': STEPD
 'into': TPHAO
 'her': HER
-'carriage.': KAEURPBLG TP-PL
+'carriage.': KAEURPBLG/TP-PL
 'But': KPA/PWUT
 'just': SKWRUFT
 'as': AS
@@ -908,23 +908,23 @@ The Red Shoes
 'to': TO
 'get': TKPWET
 'in': TPH
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'the': -T
 'old': OLD
 'soldier': SHRERPBLG
-'said:': SED STPH-FPLT
-'"Dear': KR-GS KPA/TKAER
-'me,': PHE KW-BG
+'said:': SED/STPH-FPLT
+'"Dear': KR-GS/KPA/TKAER
+'me,': PHE/KW-BG
 'what': WHA
 'pretty': PREUT
 'dancing': TKAPBS/-G
-'shoes!"': SHAOUS SKHRAPL KR-GS
+'shoes!"': SHAOUS/SKHRAPL/KR-GS
 'and': SKP
 'Karen': KAEURPB
 'could': KO
 'not': TPHOT
 'help': HEP
-'it,': T KW-BG
+'it,': T/KW-BG
 'she': SHE
 'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
@@ -932,18 +932,18 @@ The Red Shoes
 'dance': TKAPBS
 'a': AEU
 'few': TPAOU
-'steps;': STEPS STPH*FPLT
+'steps;': STEPS/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'she': SHE
 'had': H
 'once': WUPBS
-'begun,': TKPWUPB KW-BG
+'begun,': TKPWUPB/KW-BG
 'her': HER
 'legs': HREGS
 'continued': T-PBD
 'to': TO
-'dance.': TKAPBS TP-PL
+'dance.': TKAPBS/TP-PL
 'It': KPA/T
 'seemed': SAOEPLD
 'as': AS
@@ -954,18 +954,18 @@ The Red Shoes
 'got': TKPWOT
 'power': POUR
 'over': OEFR
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'She': KPA/SHE
 'danced': TKAPBS/-D
 'round': ROUPBD
 'the': -T
 'church': KHUFRPB
-'corner,': KRORPB KW-BG
+'corner,': KRORPB/KW-BG
 'for': TPOR
 'she': SHE
 'could': KO
 'not': TPHOT
-'stop;': STOP STPH*FPLT
+'stop;': STOP/STPH*FPLT
 'the': -T
 'coachman': KOEFP/PHAPB
 'had': H
@@ -975,19 +975,19 @@ The Red Shoes
 'her': HER
 'and': SKP
 'seize': SAOEZ
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'He': KPA/HE
 'lifted': HREUFTD
 'her': HER
 'into': TPHAO
 'the': -T
-'carriage,': KAEURPBLG KW-BG
+'carriage,': KAEURPBLG/KW-BG
 'but': PWUT
 'her': HER
 'feet': TPAOET
 'continued': T-PBD
 'to': TO
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'so': SO
 'that': THA
 'she': SHE
@@ -996,14 +996,14 @@ The Red Shoes
 'good': TKPWAOD
 'old': OLD
 'lady': HRA*ED
-'violently.': SRAOEUL/HREPBT/HREU TP-PL
+'violently.': SRAOEUL/HREPBT/HREU/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'they': THE
 'took': TAOBG
 'off': OF
 'her': HER
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'and': SKP
 'her': HER
 'legs': HREGS
@@ -1018,7 +1018,7 @@ The Red Shoes
 'put': PUT
 'into': TPHAO
 'the': -T
-'cupboard,': KUP/PWAORD KW-BG
+'cupboard,': KUP/PWAORD/KW-BG
 'but': PWUT
 'Karen': KAEURPB
 'could': KO
@@ -1026,13 +1026,13 @@ The Red Shoes
 'help': HEP
 'looking': HRAOG
 'at': AT
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'old': OLD
 'lady': HRA*ED
 'fell': TPEL
-'ill,': EUL KW-BG
+'ill,': EUL/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -1045,7 +1045,7 @@ The Red Shoes
 'from': TPR
 'her': HER
 'bed': PWED
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'She': KPA/SHE
 'had': H
 'to': TO
@@ -1053,7 +1053,7 @@ The Red Shoes
 'nursed': TPHURS/-D
 'and': SKP
 'waited': WAEUTD
-'upon,': POPB KW-BG
+'upon,': POPB/KW-BG
 'and': SKP
 'this': TH
 'was': WAS
@@ -1062,7 +1062,7 @@ The Red Shoes
 'duty': TKAOUT
 'more': PHOR
 'than': THAPB
-'Karen's.': KAEURPB AE S* TP-PL
+'Karen's.': KAEURPB/AE/S*/TP-PL
 'But': KPA/PWUT
 'there': THR
 'was': WAS
@@ -1071,17 +1071,17 @@ The Red Shoes
 'ball': PWAUL
 'in': TPH
 'the': -T
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'and': SKP
 'Karen': KAEURPB
 'was': WAS
-'invited.': EUPB/SRAOEUTD TP-PL
+'invited.': EUPB/SRAOEUTD/TP-PL
 'She': KPA/SHE
 'looked': HRAOBGD
 'at': AT
 'the': -T
 'red': RED
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'saying': SAEUG
 'to': TO
 'herself': H*ERS
@@ -1092,13 +1092,13 @@ The Red Shoes
 'sin': SEUPB
 'in': TPH
 'doing': TK*G
-'that;': THA STPH*FPLT
+'that;': THA/STPH*FPLT
 'she': SHE
 'put': PUT
 'the': -T
 'red': RED
 'shoes': SHAOUS
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'thinking': THEUG
 'there': THR
 'was': WAS
@@ -1106,18 +1106,18 @@ The Red Shoes
 'harm': HARPL
 'in': TPH
 'that': THA
-'either;': AOERT STPH*FPLT
+'either;': AOERT/STPH*FPLT
 'and': SKP
 'then': THEPB
 'she': SHE
 'went': WEPBT
 'to': TO
 'the': -T
-'ball;': PWAUL STPH*FPLT
+'ball;': PWAUL/STPH*FPLT
 'and': SKP
 'commenced': KPHEPBS/-D
 'to': TO
-'dance.': TKAPBS TP-PL
+'dance.': TKAPBS/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'she': SHE
@@ -1126,13 +1126,13 @@ The Red Shoes
 'go': TKPW
 'to': TO
 'the': -T
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'the': -T
 'shoes': SHAOUS
 'danced': TKAPBS/-D
 'to': TO
 'the': -T
-'left,': HREFT KW-BG
+'left,': HREFT/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -1141,19 +1141,19 @@ The Red Shoes
 'dance': TKAPBS
 'up': UP
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'the': -T
 'shoes': SHAOUS
 'danced': TKAPBS/-D
 'down': TKOUPB
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'down': TKOUPB
 'the': -T
 'stairs': STAEURS
 'through': THRU
 'the': -T
-'street,': STRAOET KW-BG
+'street,': STRAOET/KW-BG
 'and': SKP
 'out': OUT
 'through': THRU
@@ -1161,39 +1161,39 @@ The Red Shoes
 'gates': TKPWAETS
 'of': -F
 'the': -T
-'town.': TOUPB TP-PL
+'town.': TOUPB/TP-PL
 'She': KPA/SHE
-'danced,': TKAPBS/-D KW-BG
+'danced,': TKAPBS/-D/KW-BG
 'and': SKP
 'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'far': TPAR
 'out': OUT
 'into': TPHAO
 'the': -T
 'dark': TKARBG
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'Suddenly': KPA/SULD
 'something': S-G
 'shone': SHO*EPB
 'up': UP
 'among': PHOPBG
 'the': -T
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'and': SKP
 'she': SHE
 'believed': PWHREFD
 'it': T
 'was': WAS
 'the': -T
-'moon,': PHAOPB KW-BG
+'moon,': PHAOPB/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
 'a': AEU
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'But': KPA/PWUT
 'it': T
 'was': WAS
@@ -1203,7 +1203,7 @@ The Red Shoes
 'with': W
 'the': -T
 'red': RED
-'beard;': PWAERD STPH*FPLT
+'beard;': PWAERD/STPH*FPLT
 'he': HE
 'sat': SAT
 'there': THR
@@ -1211,16 +1211,16 @@ The Red Shoes
 'his': HEUS
 'head': HED
 'and': SKP
-'said:': SED STPH-FPLT
-'"Dear': KR-GS KPA/TKAER
-'me,': PHE KW-BG
+'said:': SED/STPH-FPLT
+'"Dear': KR-GS/KPA/TKAER
+'me,': PHE/KW-BG
 'what': WHA
 'pretty': PREUT
 'dancing': TKAPBS/-G
-'shoes!"': SHAOUS SKHRAPL KR-GS
+'shoes!"': SHAOUS/SKHRAPL/KR-GS
 'She': KPA/SHE
 'was': WAS
-'frightened,': TPRAOEUFPBD KW-BG
+'frightened,': TPRAOEUFPBD/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'to': TO
@@ -1228,16 +1228,16 @@ The Red Shoes
 'the': -T
 'red': RED
 'shoes': SHAOUS
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'but': PWUT
 'they': THE
 'stuck': STUBG
-'fast.': TPAFT TP-PL
+'fast.': TPAFT/TP-PL
 'She': KPA/SHE
 'tore': TO*R
 'off': OF
 'her': HER
-'stockings,': STOBG/-G/-S KW-BG
+'stockings,': STOBG/-G/-S/KW-BG
 'but': PWUT
 'the': -T
 'shoes': SHAOUS
@@ -1246,7 +1246,7 @@ The Red Shoes
 'fast': TPAFT
 'to': TO
 'her': HER
-'feet.': TPAOET TP-PL
+'feet.': TPAOET/TP-PL
 'She': KPA/SHE
 'danced': TKAPBS/-D
 'and': SKP
@@ -1259,36 +1259,36 @@ The Red Shoes
 'over': OEFR
 'field': TPAOELD
 'and': SKP
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'in': TPH
 'rain': RAEUPB
 'and': SKP
-'sunshine,': SUPB/SHAO*EUPB KW-BG
+'sunshine,': SUPB/SHAO*EUPB/KW-BG
 'by': PWEU
 'night': TPHAOEUT
 'and': SKP
 'by': PWEU
-'day—but': TKAEU EPL/TKA*RB PWUT
+'day—but': TKAEU/EPL/TKA*RB/PWUT
 'by': PWEU
 'night': TPHAOEUT
 'it': T
 'was': WAS
 'most': PHOFT
-'horrible.': HORBL TP-PL
+'horrible.': HORBL/TP-PL
 'She': KPA/SHE
 'danced': TKAPBS/-D
 'out': OUT
 'into': TPHAO
 'the': -T
 'open': OEP
-'churchyard;': KH*URPBLG/KWRARD STPH*FPLT
+'churchyard;': KH*URPBLG/KWRARD/STPH*FPLT
 'but': PWUT
 'the': -T
 'dead': TKED
 'there': THR
 'did': TK
 'not': TPHOT
-'dance.': TKAPBS TP-PL
+'dance.': TKAPBS/TP-PL
 'They': KPA/THE
 'had': H
 'something': S-G
@@ -1296,7 +1296,7 @@ The Red Shoes
 'to': TO
 'do': TKO
 'than': THAPB
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'She': KPA/SHE
 'wanted': WAPBTD
 'to': TO
@@ -1304,13 +1304,13 @@ The Red Shoes
 'down': TKOUPB
 'on': OPB
 'the': -T
-'pauper's': PAU/PER AES
+'pauper's': PAU/PER/AES
 'grave': TKPWRAEUF
 'where': W-R
 'the': -T
 'bitter': PWEURT
 'fern': TPERPB
-'grows;': TKPWRO*ES STPH*FPLT
+'grows;': TKPWRO*ES/STPH*FPLT
 'but': PWUT
 'for': TPOR
 'her': HER
@@ -1337,7 +1337,7 @@ The Red Shoes
 'in': TPH
 'long': HROPBG
 'white': WHAOEUT
-'robes,': ROEB/-S KW-BG
+'robes,': ROEB/-S/KW-BG
 'with': W
 'wings': WEUPBGS
 'reaching': RAOEFPG
@@ -1347,13 +1347,13 @@ The Red Shoes
 'down': TKOUPB
 'to': TO
 'the': -T
-'earth;': *ERT STPH*FPLT
+'earth;': *ERT/STPH*FPLT
 'his': HEUS
 'face': TPAEUS
 'was': WAS
 'stern': STERPB
 'and': SKP
-'grave,': TKPWRAEUF KW-BG
+'grave,': TKPWRAEUF/KW-BG
 'and': SKP
 'in': TPH
 'his': HEUS
@@ -1363,13 +1363,13 @@ The Red Shoes
 'a': AEU
 'broad': PWRAOD
 'shining': SHAOEUPBG
-'sword.': SOERD TP-PL
-'"Dance': KR-GS KPA/TKAPBS
+'sword.': SOERD/TP-PL
+'"Dance': KR-GS/KPA/TKAPBS
 'you': U
-'shall,"': SHAL KW-BG KR-GS
+'shall,"': SHAL/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"dance': KR-GS TKAPBS
+'he,': HE/KW-BG
+'"dance': KR-GS/TKAPBS
 'in': TPH
 'your': KWROUR
 'red': RED
@@ -1379,7 +1379,7 @@ The Red Shoes
 'are': R
 'pale': PAEL
 'and': SKP
-'cold,': KOELD KW-BG
+'cold,': KOELD/KW-BG
 'till': TEUL
 'your': KWROUR
 'skin': SKEUPB
@@ -1389,14 +1389,14 @@ The Red Shoes
 'you': U
 'are': R
 'a': AEU
-'skeleton!': SKEL/TOPB SKHRAPL
+'skeleton!': SKEL/TOPB/SKHRAPL
 'Dance': KPA/TKAPBS
 'you': U
-'shall,': SHAL KW-BG
+'shall,': SHAL/KW-BG
 'from': TPR
 'door': TKAOR
 'to': TO
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'where': W-R
 'proud': PROUD
@@ -1406,7 +1406,7 @@ The Red Shoes
 'live': HREUF
 'you': U
 'shall': SHAL
-'knock,': TPHOBG KW-BG
+'knock,': TPHOBG/KW-BG
 'so': SO
 'that': THA
 'they': THE
@@ -1415,14 +1415,14 @@ The Red Shoes
 'you': U
 'and': SKP
 'fear': TPAOER
-'you!': U SKHRAPL
+'you!': U/SKHRAPL
 'Dance': KPA/TKAPBS
 'you': U
-'shall,': SHAL KW-BG
-'dance—!"': TKAPBS EPL/TKA*RB SKHRAPL KR-GS
-'"Mercy!"': KR-GS KPA/PHER/SEU SKHRAPL KR-GS
+'shall,': SHAL/KW-BG
+'dance—!"': TKAPBS/EPL/TKA*RB/SKHRAPL/KR-GS
+'"Mercy!"': KR-GS/KPA/PHER/SEU/SKHRAPL/KR-GS
 'cried': KRAOEUD
-'Karen.': KAEURPB TP-PL
+'Karen.': KAEURPB/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'did': TK
@@ -1431,7 +1431,7 @@ The Red Shoes
 'what': WHA
 'the': -T
 'angel': APB/SKWREL
-'answered,': AEPBS/-D KW-BG
+'answered,': AEPBS/-D/KW-BG
 'for': TPOR
 'the': -T
 'shoes': SHAOUS
@@ -1442,17 +1442,17 @@ The Red Shoes
 'gate': TKPWAET
 'into': TPHAO
 'the': -T
-'fields,': TPAOELDZ KW-BG
+'fields,': TPAOELDZ/KW-BG
 'along': HRAOPBG
 'highways': HAOEU/WAEUS
 'and': SKP
-'byways,': PWEU/WA*ES KW-BG
+'byways,': PWEU/WA*ES/KW-BG
 'and': SKP
 'unceasingly': UPB/SAOES/TKPWHREU
 'she': SHE
 'had': H
 'to': TO
-'dance.': TKAPBS TP-PL
+'dance.': TKAPBS/TP-PL
 'One': KPA/WUPB
 'morning': PHORPBG
 'she': SHE
@@ -1463,13 +1463,13 @@ The Red Shoes
 'that': THA
 'she': SHE
 'knew': TPHAOU
-'well;': WEL STPH*FPLT
+'well;': WEL/STPH*FPLT
 'they': THE
 'were': WR
 'singing': SEUPBG/-G
 'a': AEU
 'psalm': SAUPL
-'inside,': TPH-DZ KW-BG
+'inside,': TPH-DZ/KW-BG
 'and': SKP
 'a': AEU
 'coffin': KOFPB
@@ -1479,7 +1479,7 @@ The Red Shoes
 'out': OUT
 'covered': KOFRD
 'with': W
-'flowers.': TPHRO*URS TP-PL
+'flowers.': TPHRO*URS/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'knew': TPHAOU
@@ -1496,9 +1496,9 @@ The Red Shoes
 'the': -T
 'angel': APB/SKWREL
 'of': -F
-'God.': TKPWO*D TP-PL
+'God.': TKPWO*D/TP-PL
 'She': KPA/SHE
-'danced,': TKAPBS/-D KW-BG
+'danced,': TKAPBS/-D/KW-BG
 'and': SKP
 'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
@@ -1509,7 +1509,7 @@ The Red Shoes
 'through': THRU
 'the': -T
 'dark': TKARBG
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'The': KPA/-T
 'shoes': SHAOUS
 'bore': PWOR
@@ -1525,7 +1525,7 @@ The Red Shoes
 'all': AUL
 'torn': TORPB
 'and': SKP
-'bleeding;': PWHRAOEGD STPH*FPLT
+'bleeding;': PWHRAOEGD/STPH*FPLT
 'she': SHE
 'danced': TKAPBS/-D
 'away': WA*EU
@@ -1536,13 +1536,13 @@ The Red Shoes
 'a': AEU
 'lonely': HROEPBL
 'little': HREUL
-'house.': HOUS TP-PL
-'Here,': KPA/HAOER KW-BG
+'house.': HOUS/TP-PL
+'Here,': KPA/HAOER/KW-BG
 'she': SHE
-'knew,': TPHAOU KW-BG
+'knew,': TPHAOU/KW-BG
 'lived': HREUFD
 'the': -T
-'executioner;': EBGS/KAOUGS/*ER STPH*FPLT
+'executioner;': EBGS/KAOUGS/*ER/STPH*FPLT
 'and': SKP
 'she': SHE
 'tapped': TAPD
@@ -1553,31 +1553,31 @@ The Red Shoes
 'the': -T
 'window': WOEUPBD
 'and': SKP
-'said:': SED STPH-FPLT
-'"Come': KR-GS KPA/KOPL
-'out,': OUT KW-BG
+'said:': SED/STPH-FPLT
+'"Come': KR-GS/KPA/KOPL
+'out,': OUT/KW-BG
 'come': KOPL
-'out!': OUT SKHRAPL
+'out!': OUT/SKHRAPL
 'I': EU
 'cannot': SK-PBT
 'come': KOPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'for': TPOR
 'I': EU
 'must': PHUFT
-'dance."': TKAPBS TP-PL KR-GS
+'dance."': TKAPBS/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'executioner': EBGS/KAOUGS/*ER
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'don't': TKOEPBT
 'suppose': SPOS
 'you': U
 'know': TPHOE
 'who': WHO
 'I': EU
-'am.': APL TP-PL
+'am.': APL/TP-PL
 'I': EU
 'strike': STRAOEUBG
 'off': OF
@@ -1585,7 +1585,7 @@ The Red Shoes
 'heads': HEDZ
 'of': -F
 'the': -T
-'wicked,': WEUBGD KW-BG
+'wicked,': WEUBGD/KW-BG
 'and': SKP
 'I': EU
 'notice': TPH-TS
@@ -1596,15 +1596,15 @@ The Red Shoes
 'tingling': TEUPBG/-LG
 'to': TO
 'do': TKO
-'so."': SO TP-PL KR-GS
-'"Don't': KR-GS TKO*PB AE T*
+'so."': SO/TP-PL/KR-GS
+'"Don't': KR-GS/TKO*PB/AE/T*
 'cut': KUT
 'off': OF
 'my': PHEU
-'head!"': HED SKHRAPL KR-GS
+'head!"': HED/SKHRAPL/KR-GS
 'said': SED
-'Karen,': KAEURPB KW-BG
-'"for': KR-GS TPOR
+'Karen,': KAEURPB/KW-BG
+'"for': KR-GS/TPOR
 'then': THEPB
 'I': EU
 'could': KO
@@ -1612,7 +1612,7 @@ The Red Shoes
 'repent': RE/PEPBT
 'of': -F
 'my': PHEU
-'sin.': SEUPB TP-PL
+'sin.': SEUPB/TP-PL
 'But': KPA/PWUT
 'cut': KUT
 'off': OF
@@ -1621,14 +1621,14 @@ The Red Shoes
 'with': W
 'the': -T
 'red': RED
-'shoes."': SHAOUS TP-PL KR-GS
+'shoes."': SHAOUS/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'she': SHE
 'confessed': KAUPB/TPES/-D
 'all': AUL
 'her': HER
-'sin,': SEUPB KW-BG
+'sin,': SEUPB/KW-BG
 'and': SKP
 'the': -T
 'executioner': EBGS/KAOUGS/*ER
@@ -1639,7 +1639,7 @@ The Red Shoes
 'with': W
 'the': -T
 'red': RED
-'shoes;': SHAOUS STPH*FPLT
+'shoes;': SHAOUS/STPH*FPLT
 'but': PWUT
 'the': -T
 'shoes': SHAOUS
@@ -1655,7 +1655,7 @@ The Red Shoes
 'into': TPHAO
 'the': -T
 'deep': TKAOEP
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'And': AFPBD
 'he': HE
 'carved': KAFRBD
@@ -1667,7 +1667,7 @@ The Red Shoes
 'feet': TPAOET
 'and': SKP
 'some': SOPL
-'crutches,': KRUFPS KW-BG
+'crutches,': KRUFPS/KW-BG
 'and': SKP
 'taught': TAUT
 'her': HER
@@ -1678,7 +1678,7 @@ The Red Shoes
 'always': AULS
 'sung': SUPBG
 'by': PWEU
-'sinners;': SEURPBS STPH*FPLT
+'sinners;': SEURPBS/STPH*FPLT
 'she': SHE
 'kissed': K*EUFD
 'the': -T
@@ -1686,14 +1686,14 @@ The Red Shoes
 'that': THA
 'guided': TKPWAOEUD/-D
 'the': -T
-'axe,': ABGS KW-BG
+'axe,': ABGS/KW-BG
 'and': SKP
 'went': WEPBT
 'away': WA*EU
 'over': OEFR
 'the': -T
-'heath.': HAO*ET TP-PL
-'"Now,': KR-GS KPA/TPHOU KW-BG
+'heath.': HAO*ET/TP-PL
+'"Now,': KR-GS/KPA/TPHOU/KW-BG
 'I': EU
 'have': SR
 'suffered': SUFRD
@@ -1701,20 +1701,20 @@ The Red Shoes
 'for': TPOR
 'the': -T
 'red': RED
-'shoes,"': SHAOUS KW-BG KR-GS
+'shoes,"': SHAOUS/KW-BG/KR-GS
 'she': SHE
-'said;': SED STPH*FPLT
-'"I': KR-GS EU
+'said;': SED/STPH*FPLT
+'"I': KR-GS/EU
 'will': HR
 'go': TKPW
 'to': TO
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'so': SO
 'that': THA
 'people': PAOEPL
 'can': K
 'see': SAOE
-'me."': PHE TP-PL KR-GS
+'me."': PHE/TP-PL/KR-GS
 'And': AFPBD
 'she': SHE
 'went': WEPBT
@@ -1722,26 +1722,26 @@ The Red Shoes
 'up': UP
 'to': TO
 'the': -T
-'church-door;': KHUFRPB H-PB TKAOR STPH*FPLT
+'church-door;': KHUFRPB/H-PB/TKAOR/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'she': SHE
 'came': KAEUPL
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'the': -T
 'red': RED
 'shoes': SHAOUS
 'were': WR
 'dancing': TKAPBS/-G
 'before': PW-FR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
-'frightened,': TPRAOEUFPBD KW-BG
+'frightened,': TPRAOEUFPBD/KW-BG
 'and': SKP
 'turned': TURPBD
-'back.': PWABG TP-PL
+'back.': PWABG/TP-PL
 'During': KPA/TKURG
 'the': -T
 'whole': WHOEL
@@ -1753,21 +1753,21 @@ The Red Shoes
 'wept': WEPT
 'many': PHAEPB
 'bitter': PWEURT
-'tears,': TAERS KW-BG
+'tears,': TAERS/KW-BG
 'but': PWUT
 'when': WHEPB
 'Sunday': SUPBD
 'came': KAEUPL
 'again': TKPWEPB
 'she': SHE
-'said:': SED STPH-FPLT
-'"Now': KR-GS KPA/TPHOU
+'said:': SED/STPH-FPLT
+'"Now': KR-GS/KPA/TPHOU
 'I': EU
 'have': SR
 'suffered': SUFRD
 'and': SKP
 'striven': STREUF/*PB
-'enough.': TPHUF TP-PL
+'enough.': TPHUF/TP-PL
 'I': EU
 'believe': PWHREF
 'I': EU
@@ -1786,13 +1786,13 @@ The Red Shoes
 'and': SKP
 'give': TKPWEUF
 'themselves': TH*EPLS
-'airs."': AEUR/-S TP-PL KR-GS
+'airs."': AEUR/-S/TP-PL/KR-GS
 'And': AFPBD
 'so': SO
 'she': SHE
 'went': WEPBT
 'boldly': PWOLD/HREU
-'on;': OPB STPH*FPLT
+'on;': OPB/STPH*FPLT
 'but': PWUT
 'she': SHE
 'had': H
@@ -1812,11 +1812,11 @@ The Red Shoes
 'dancing': TKAPBS/-G
 'along': HRAOPBG
 'before': PW-FR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'became': PWAEUPL
-'terrified,': TER/TPAOEUD KW-BG
+'terrified,': TER/TPAOEUD/KW-BG
 'and': SKP
 'turned': TURPBD
 'back': PWABG
@@ -1826,12 +1826,12 @@ The Red Shoes
 'heartily': HART/HREU
 'of': -F
 'her': HER
-'sin.': SEUPB TP-PL
+'sin.': SEUPB/TP-PL
 'She': KPA/SHE
 'went': WEPBT
 'to': TO
 'the': -T
-'parsonage,': PARS/TPHAPBLG KW-BG
+'parsonage,': PARS/TPHAPBLG/KW-BG
 'and': SKP
 'begged': PWEGD
 'that': THA
@@ -1841,19 +1841,19 @@ The Red Shoes
 'taken': TAEPB
 'into': TPHAO
 'service': S-FS
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'She': KPA/SHE
 'would': WO
 'be': -B
-'industrious,': STREUS KW-BG
+'industrious,': STREUS/KW-BG
 'she': SHE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'and': SKP
 'do': TKO
 'everything': EFRG
 'that': THA
 'she': SHE
-'could;': KO STPH*FPLT
+'could;': KO/STPH*FPLT
 'she': SHE
 'did': TK
 'not': TPHOT
@@ -1869,30 +1869,30 @@ The Red Shoes
 'a': AEU
 'roof': RAOF
 'over': OEFR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'was': WAS
 'with': W
 'good': TKPWAOD
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'The': KPA/-T
-'pastor's': PAS/TOR AES
+'pastor's': PAS/TOR/AES
 'wife': WAOEUF
 'had': H
 'pity': PEUT/TEU
 'on': OPB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'took': TAOBG
 'her': HER
 'into': TPHAO
-'service.': S-FS TP-PL
+'service.': S-FS/TP-PL
 'And': AFPBD
 'she': SHE
 'was': WAS
 'industrious': STREUS
 'and': SKP
-'thoughtful.': THAUFL TP-PL
+'thoughtful.': THAUFL/TP-PL
 'She': KPA/SHE
 'sat': SAT
 'quiet': KWAO*EUT
@@ -1908,14 +1908,14 @@ The Red Shoes
 'Bible': PWAO*EUBL
 'in': TPH
 'the': -T
-'evening.': AOEPBG TP-PL
+'evening.': AOEPBG/TP-PL
 'All': KPA/AUL
 'the': -T
 'children': KHEURPB
 'liked': HRAOEUBGD
 'her': HER
 'very': SRE
-'much,': PHUFP KW-BG
+'much,': PHUFP/KW-BG
 'but': PWUT
 'when': WHEPB
 'they': THE
@@ -1930,7 +1930,7 @@ The Red Shoes
 'would': WO
 'shake': SHAEUBG
 'her': HER
-'head.': HED TP-PL
+'head.': HED/TP-PL
 'On': KPA/OPB
 'the': -T
 'following': TPOLG
@@ -1939,7 +1939,7 @@ The Red Shoes
 'all': AUL
 'went': WEPBT
 'to': TO
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -1949,19 +1949,19 @@ The Red Shoes
 'wished': WEURBD
 'to': TO
 'go': TKPW
-'too;': TAO STPH*FPLT
-'but,': PWUT KW-BG
+'too;': TAO/STPH*FPLT
+'but,': PWUT/KW-BG
 'with': W
 'tears': TAERS
 'in': TPH
 'her': HER
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'she': SHE
 'looked': HRAOBGD
 'sadly': SAD/HREU
 'at': AT
 'her': HER
-'crutches.': KRUFPS TP-PL
+'crutches.': KRUFPS/TP-PL
 'And': AFPBD
 'then': THEPB
 'the': -T
@@ -1969,8 +1969,8 @@ The Red Shoes
 'went': WEPBT
 'to': TO
 'hear': HAER
-'God's': TKPWO*D AES
-'Word,': WORD/WORD KW-BG
+'God's': TKPWO*D/AES
+'Word,': WORD/WORD/KW-BG
 'but': PWUT
 'she': SHE
 'went': WEPBT
@@ -1978,7 +1978,7 @@ The Red Shoes
 'into': TPHAO
 'her': HER
 'little': HREUL
-'room;': RAOPL STPH*FPLT
+'room;': RAOPL/STPH*FPLT
 'this': TH
 'was': WAS
 'only': OEPBL
@@ -1990,14 +1990,14 @@ The Red Shoes
 'bed': PWED
 'and': SKP
 'a': AEU
-'chair.': KHAEUR TP-PL
+'chair.': KHAEUR/TP-PL
 'Here': KPA/HAOER
 'she': SHE
 'sat': SAT
 'down': TKOUPB
 'with': W
 'her': HER
-'hymn-book,': H*EUPL H-PB PWAOBG KW-BG
+'hymn-book,': H*EUPL/H-PB/PWAOBG/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -2007,7 +2007,7 @@ The Red Shoes
 'with': W
 'a': AEU
 'pious': PAOEU/OUS
-'mind,': PHAOEUPBD KW-BG
+'mind,': PHAOEUPBD/KW-BG
 'the': -T
 'wind': WEUPBD
 'carried': KAERD
@@ -2021,7 +2021,7 @@ The Red Shoes
 'her': HER
 'from': TPR
 'the': -T
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'and': SKP
 'in': TPH
 'tears': TAERS
@@ -2031,17 +2031,17 @@ The Red Shoes
 'her': HER
 'face': TPAEUS
 'and': SKP
-'said:': SED STPH-FPLT
-'"O': KR-GS O*P
-'God!': TKPWO*D SKHRAPL
+'said:': SED/STPH-FPLT
+'"O': KR-GS/O*P
+'God!': TKPWO*D/SKHRAPL
 'help': HEP
-'me!"': PHE SKHRAPL KR-GS
+'me!"': PHE/SKHRAPL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'sun': SUPB
 'shone': SHO*EPB
 'so': SO
-'brightly,': PWRAOEULT KW-BG
+'brightly,': PWRAOEULT/KW-BG
 'and': SKP
 'right': RAOEUT
 'before': PW-FR
@@ -2053,7 +2053,7 @@ The Red Shoes
 'God': TKPWO*D
 'in': TPH
 'white': WHAOEUT
-'robes;': ROEB/-S STPH*FPLT
+'robes;': ROEB/-S/STPH*FPLT
 'it': T
 'was': WAS
 'the': -T
@@ -2067,33 +2067,33 @@ The Red Shoes
 'night': TPHAOEUT
 'at': AT
 'the': -T
-'church-door.': KHUFRPB H-PB TKAOR TP-PL
+'church-door.': KHUFRPB/H-PB/TKAOR/TP-PL
 'He': KPA/HE
 'no': TPHO
 'longer': HRORPBG
 'carried': KAERD
 'the': -T
 'sharp': SHARP
-'sword,': SOERD KW-BG
+'sword,': SOERD/KW-BG
 'but': PWUT
 'a': AEU
 'beautiful': PWAOUFL
 'green': TKPWRAOEPB
-'branch,': PWRAFRPB KW-BG
+'branch,': PWRAFRPB/KW-BG
 'full': TPUL
 'of': -F
-'roses;': ROES/-S STPH*FPLT
+'roses;': ROES/-S/STPH*FPLT
 'with': W
 'this': TH
 'he': HE
 'touched': TUFPD
 'the': -T
-'ceiling,': KAOELG KW-BG
+'ceiling,': KAOELG/KW-BG
 'which': WEU
 'rose': ROEZ
 'up': UP
 'very': SRE
-'high,': HAOEU KW-BG
+'high,': HAOEU/KW-BG
 'and': SKP
 'where': W-R
 'he': HE
@@ -2104,15 +2104,15 @@ The Red Shoes
 'shone': SHO*EPB
 'a': AEU
 'golden': TKPWOELD/*EPB
-'star.': STAR TP-PL
+'star.': STAR/TP-PL
 'He': KPA/HE
 'touched': TUFPD
 'the': -T
-'walls,': WAULS KW-BG
+'walls,': WAULS/KW-BG
 'which': WEU
 'opened': OEPD
 'wide': WAOEUD
-'apart,': A/PART KW-BG
+'apart,': A/PART/KW-BG
 'and': SKP
 'she': SHE
 'saw': SAU
@@ -2121,7 +2121,7 @@ The Red Shoes
 'which': WEU
 'was': WAS
 'pealing': PA*EL/-G
-'forth;': TPO*RT STPH*FPLT
+'forth;': TPO*RT/STPH*FPLT
 'she': SHE
 'saw': SAU
 'the': -T
@@ -2132,7 +2132,7 @@ The Red Shoes
 'pastors': PAS/TOR/-S
 'and': SKP
 'their': THAEUR
-'wives,': WAOEUFS KW-BG
+'wives,': WAOEUFS/KW-BG
 'and': SKP
 'the': -T
 'congregation': KOPBG/TKPWAEUGS
@@ -2145,7 +2145,7 @@ The Red Shoes
 'singing': SEUPBG/-G
 'from': TPR
 'their': THAEUR
-'hymn-books.': H*EUPL H-PB PWAOBGS TP-PL
+'hymn-books.': H*EUPL/H-PB/PWAOBGS/TP-PL
 'The': KPA/-T
 'church': KHUFRPB
 'itself': T/SEFL
@@ -2158,7 +2158,7 @@ The Red Shoes
 'in': TPH
 'her': HER
 'narrow': TPHO*EUR
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'or': OR
 'the': -T
 'room': RAOPL
@@ -2166,7 +2166,7 @@ The Red Shoes
 'gone': TKPWOPB
 'to': TO
 'the': -T
-'church.': KHUFRPB TP-PL
+'church.': KHUFRPB/TP-PL
 'She': KPA/SHE
 'sat': SAT
 'in': TPH
@@ -2177,8 +2177,8 @@ The Red Shoes
 'rest': REFT
 'of': -F
 'the': -T
-'pastor's': PAS/TOR AES
-'household,': HOUS/HOLD KW-BG
+'pastor's': PAS/TOR/AES
+'household,': HOUS/HOLD/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -2188,24 +2188,24 @@ The Red Shoes
 'hymn': H*EUPL
 'and': SKP
 'looked': HRAOBGD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'they': THE
 'nodded': TPHOD/-D
 'and': SKP
-'said,': SED KW-BG
-'"It': KR-GS KPA/T
+'said,': SED/KW-BG
+'"It': KR-GS/KPA/T
 'was': WAS
 'right': RAOEUT
 'of': -F
 'you': U
 'to': TO
-'come,': KOPL KW-BG
-'Karen."': KAEURPB TP-PL KR-GS
-'"It': KR-GS KPA/T
+'come,': KOPL/KW-BG
+'Karen."': KAEURPB/TP-PL/KR-GS
+'"It': KR-GS/KPA/T
 'was': WAS
-'mercy,"': PHER/SEU KW-BG KR-GS
+'mercy,"': PHER/SEU/KW-BG/KR-GS
 'said': SED
-'she.': SHE TP-PL
+'she.': SHE/TP-PL
 'The': KPA/-T
 'organ': O*RPBG
 'played': PHRAEUD
@@ -2219,7 +2219,7 @@ The Red Shoes
 'sounded': SOUPBD/-D
 'soft': SOFT
 'and': SKP
-'lovely.': HROFL TP-PL
+'lovely.': HROFL/TP-PL
 'The': KPA/-T
 'bright': PWRAOEUT
 'warm': WARPL
@@ -2233,7 +2233,7 @@ The Red Shoes
 'pew': PAOU
 'where': W-R
 'Karen': KAEURPB
-'sat,': SAT KW-BG
+'sat,': SAT/KW-BG
 'and': SKP
 'her': HER
 'heart': HART
@@ -2241,16 +2241,16 @@ The Red Shoes
 'so': SO
 'filled': TPEULD
 'with': W
-'it,': T KW-BG
+'it,': T/KW-BG
 'so': SO
 'filled': TPEULD
 'with': W
 'peace': PAES
 'and': SKP
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'that': THA
 'it': T
-'broke.': PWROEBG TP-PL
+'broke.': PWROEBG/TP-PL
 'Her': KPA/HER
 'soul': SOUL
 'flew': TPHRAOU
@@ -2258,7 +2258,7 @@ The Red Shoes
 'the': -T
 'sunbeams': SUPB/PWAOEPL/-S
 'to': TO
-'Heaven,': KPA/HEFPB KW-BG
+'Heaven,': KPA/HEFPB/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
@@ -2269,4 +2269,4 @@ The Red Shoes
 'after': AF
 'the': -T
 'Red': KPA/RED
-'Shoes.': KPA/SHAOUS TP-PL
+'Shoes.': KPA/SHAOUS/TP-PL

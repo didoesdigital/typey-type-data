@@ -2,7 +2,7 @@ Speech to the Troops at Tilbury
 
 'My': KPA/PHEU
 'loving': HRUFG
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'We': KPA/WE
 'have': SR
 'been': PW-PB
@@ -14,7 +14,7 @@ Speech to the Troops at Tilbury
 'careful': KAEUFL
 'of': -F
 'our': OUR
-'safety,': SAEFT KW-BG
+'safety,': SAEFT/KW-BG
 'to': TO
 'take': TAEUBG
 'heed': HAO*ED
@@ -25,11 +25,11 @@ Speech to the Troops at Tilbury
 'selves': S*EFLS
 'to': TO
 'armed': ARPLD
-'multitudes,': PHULT/TAOUDZ KW-BG
+'multitudes,': PHULT/TAOUDZ/KW-BG
 'for': TPOR
 'fear': TPAOER
 'of': -F
-'treachery;': TREFP/REU STPH*FPLT
+'treachery;': TREFP/REU/STPH*FPLT
 'but': PWUT
 'I': EU
 'assure': A/SHUR
@@ -46,19 +46,19 @@ Speech to the Troops at Tilbury
 'faithful': TPA*EUT/-FL
 'and': SKP
 'loving': HRUFG
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'Let': KPA/HRET
 'tyrants': TAOEUR/APBTS
-'fear.': TPAOER TP-PL
+'fear.': TPAOER/TP-PL
 'I': EU
 'have': SR
 'always': AULS
 'so': SO
 'behaved': PWHAEUFD
 'myself': PHAO*EUS
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'under': TPH-PB
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'I': EU
 'have': SR
 'placed': PHRAEUFD
@@ -72,32 +72,32 @@ Speech to the Troops at Tilbury
 'loyal': HROEUL
 'hearts': HARTS
 'and': SKP
-'good-will': TKPWAOD H-PB HR
+'good-will': TKPWAOD/H-PB/HR
 'of': -F
 'my': PHEU
-'subjects;': SUBTS STPH*FPLT
+'subjects;': SUBTS/STPH*FPLT
 'and': SKP
 'therefore': TH-FR
 'I': EU
 'am': APL
 'come': KOPL
 'amongst': PHOPBGS
-'you,': U KW-BG
+'you,': U/KW-BG
 'as': AS
 'you': U
-'see,': SAOE KW-BG
+'see,': SAOE/KW-BG
 'at': AT
 'this': TH
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'not': TPHOT
 'for': TPOR
 'my': PHEU
 'recreation': RE/KRAEGS
 'and': SKP
-'disport,': TKEUS/PORT KW-BG
+'disport,': TKEUS/PORT/KW-BG
 'but': PWUT
 'being': -BG
-'resolved,': RO*FLD KW-BG
+'resolved,': RO*FLD/KW-BG
 'in': TPH
 'the': -T
 'midst': PHEUDZ
@@ -105,36 +105,36 @@ Speech to the Troops at Tilbury
 'heat': HAOET
 'of': -F
 'the': -T
-'battle,': PWA*LT KW-BG
+'battle,': PWA*LT/KW-BG
 'to': TO
 'live': HREUF
 'and': SKP
 'die': TKAOEU
 'amongst': PHOPBGS
 'you': U
-'all;': AUL STPH*FPLT
+'all;': AUL/STPH*FPLT
 'to': TO
 'lay': HRAEU
 'down': TKOUPB
 'for': TPOR
 'my': PHEU
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'and': SKP
 'for': TPOR
 'my': PHEU
-'kingdom,': KEUPBG/TKOPL KW-BG
+'kingdom,': KEUPBG/TKOPL/KW-BG
 'and': SKP
 'my': PHEU
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'my': PHEU
 'honour': HO*RPB/A*U
 'and': SKP
 'my': PHEU
-'blood,': PWHRAOD KW-BG
+'blood,': PWHRAOD/KW-BG
 'even': AOEPB
 'in': TPH
 'the': -T
-'dust.': TKUFT TP-PL
+'dust.': TKUFT/TP-PL
 'I': EU
 'know': TPHOE
 'I': EU
@@ -143,9 +143,9 @@ Speech to the Troops at Tilbury
 'body': PWO*ED
 'of': -F
 'a': AEU
-'weak,': WAEBG KW-BG
+'weak,': WAEBG/KW-BG
 'feeble': TPAOEBL
-'woman;': WOPL STPH*FPLT
+'woman;': WOPL/STPH*FPLT
 'but': PWUT
 'I': EU
 'have': SR
@@ -155,14 +155,14 @@ Speech to the Troops at Tilbury
 'stomach': STUPL
 'of': -F
 'a': AEU
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'of': -F
 'a': AEU
 'king': KEUPBG
 'of': -F
 'England': TKPWHRAEPBD
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'and': SKP
 'think': THEU
 'foul': TPOUL
@@ -170,12 +170,12 @@ Speech to the Troops at Tilbury
 'that': THA
 'Parma': PAR/PHA
 'or': OR
-'Spain,': SPAEUPB KW-BG
+'Spain,': SPAEUPB/KW-BG
 'or': OR
 'any': TPHEU
 'prince': PREUPBS
 'of': -F
-'Europe,': AO*URP KW-BG
+'Europe,': AO*URP/KW-BG
 'should': SHO
 'dare': TKAEUR
 'to': TO
@@ -184,7 +184,7 @@ Speech to the Troops at Tilbury
 'borders': PWRORDZ
 'of': -F
 'my': PHEU
-'realm;': R*EL STPH*FPLT
+'realm;': R*EL/STPH*FPLT
 'to': TO
 'which': WEU
 'rather': RAER
@@ -194,20 +194,20 @@ Speech to the Troops at Tilbury
 'shall': SHAL
 'grow': TKPWROE
 'by': PWEU
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'myself': PHAO*EUS
 'will': HR
 'take': TAEUBG
 'up': UP
-'arms,': ARPLS KW-BG
+'arms,': ARPLS/KW-BG
 'I': EU
 'myself': PHAO*EUS
 'will': HR
 'be': -B
 'your': KWROUR
-'general,': SKWREPBL KW-BG
-'judge,': SKWRUPBLG KW-BG
+'general,': SKWREPBL/KW-BG
+'judge,': SKWRUPBLG/KW-BG
 'and': SKP
 'rewarder': RE/WARD/*ER
 'of': -F
@@ -218,10 +218,10 @@ Speech to the Troops at Tilbury
 'virtues': SREUR/TAOUS
 'in': TPH
 'the': -T
-'field.': TPAOELD TP-PL
+'field.': TPAOELD/TP-PL
 'I': EU
 'know': TPHOE
-'already,': HR-R KW-BG
+'already,': HR-R/KW-BG
 'for': TPOR
 'your': KWROUR
 'forwardness': TPAORD/-PBS
@@ -230,7 +230,7 @@ Speech to the Troops at Tilbury
 'deserved': TKAOE/SER/-FD
 'rewards': RE/WARDZ
 'and': SKP
-'crowns;': KROUPBS STPH*FPLT
+'crowns;': KROUPBS/STPH*FPLT
 'and': SKP
 'We': KPA/WE
 'do': TKO
@@ -241,16 +241,16 @@ Speech to the Troops at Tilbury
 'word': WORD
 'of': -F
 'a': AEU
-'prince,': PREUPBS KW-BG
+'prince,': PREUPBS/KW-BG
 'they': THE
 'shall': SHAL
 'be': -B
 'duly': TKAOU/HREU
-'paid.': PAEUD TP-PL
+'paid.': PAEUD/TP-PL
 'In': KPA/TPH
 'the': -T
 'mean': PHAOEPB
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'my': PHEU
 'lieutenant': HRAO*UT
 'general': SKWREPBL
@@ -258,7 +258,7 @@ Speech to the Troops at Tilbury
 'be': -B
 'in': TPH
 'my': PHEU
-'stead,': STED KW-BG
+'stead,': STED/KW-BG
 'than': THAPB
 'whom': WHOPL
 'never': TPHEFR
@@ -269,7 +269,7 @@ Speech to the Troops at Tilbury
 'noble': TPHOEBL
 'or': OR
 'worthy': WO*RT/KWREU
-'subject;': SUBT STPH*FPLT
+'subject;': SUBT/STPH*FPLT
 'not': TPHOT
 'doubting': TKOUGT
 'but': PWUT
@@ -278,19 +278,19 @@ Speech to the Troops at Tilbury
 'obedience': OE/PWAOED/KWREPBS
 'to': TO
 'my': PHEU
-'general,': SKWREPBL KW-BG
+'general,': SKWREPBL/KW-BG
 'by': PWEU
 'your': KWROUR
 'concord': KOPB/KORD
 'in': TPH
 'the': -T
-'camp,': KAFRP KW-BG
+'camp,': KAFRP/KW-BG
 'and': SKP
 'your': KWROUR
 'valour': SRARL/A*U
 'in': TPH
 'the': -T
-'field,': TPAOELD KW-BG
+'field,': TPAOELD/KW-BG
 'we': WE
 'shall': SHAL
 'shortly': SHORLT
@@ -303,11 +303,11 @@ Speech to the Troops at Tilbury
 'enemies': TPHAEPLS
 'of': -F
 'my': PHEU
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'of': -F
 'my': PHEU
-'kingdom,': KEUPBG/TKOPL KW-BG
+'kingdom,': KEUPBG/TKOPL/KW-BG
 'and': SKP
 'of': -F
 'my': PHEU
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL

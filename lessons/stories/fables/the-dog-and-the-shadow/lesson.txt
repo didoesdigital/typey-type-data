@@ -23,7 +23,7 @@ The Dog and the Shadow
 'eat': AOET
 'it': T
 'in': TPH
-'peace.': PAES TP-PL
+'peace.': PAES/TP-PL
 'Now': KPA/TPHOU
 'on': OPB
 'his': HEUS
@@ -39,10 +39,10 @@ The Dog and the Shadow
 'across': KRAOS
 'a': AEU
 'running': R*UPBG
-'brook.': PWRAOBG TP-PL
+'brook.': PWRAOBG/TP-PL
 'As': KPA/AS
 'he': HE
-'crossed,': KROFD KW-BG
+'crossed,': KROFD/KW-BG
 'he': HE
 'looked': HRAOBGD
 'down': TKOUPB
@@ -55,7 +55,7 @@ The Dog and the Shadow
 'in': TPH
 'the': -T
 'water': WAUR
-'beneath.': TPHAO*ET TP-PL
+'beneath.': TPHAO*ET/TP-PL
 'Thinking': KPA/THEUG
 'it': T
 'was': WAS
@@ -65,7 +65,7 @@ The Dog and the Shadow
 'another': TPHOER
 'piece': PAOES
 'of': -F
-'meat,': PHAET KW-BG
+'meat,': PHAET/KW-BG
 'he': HE
 'made': PHAED
 'up': UP
@@ -74,7 +74,7 @@ The Dog and the Shadow
 'to': TO
 'have': SR
 'that': THA
-'also.': HR-S TP-PL
+'also.': HR-S/TP-PL
 'So': KPA/SO
 'he': HE
 'made': PHAED
@@ -85,7 +85,7 @@ The Dog and the Shadow
 'shadow': SHOEUD
 'in': TPH
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'but': PWUT
 'as': AS
 'he': HE
@@ -97,7 +97,7 @@ The Dog and the Shadow
 'of': -F
 'meat': PHAET
 'fell': TPEL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'dropped': TKROPD
 'into': TPHAO
 'the': -T
@@ -106,7 +106,7 @@ The Dog and the Shadow
 'was': WAS
 'never': TPHEFR
 'seen': SAOEPB
-'more.': PHOR TP-PL
+'more.': PHOR/TP-PL
 'Beware': KPA/PWE/WAEUR
 'lest': HR*ES
 'you': U
@@ -117,4 +117,4 @@ The Dog and the Shadow
 'grasping': TKPWRAFPG
 'at': AT
 'the': -T
-'shadow.': SHOEUD TP-PL
+'shadow.': SHOEUD/TP-PL

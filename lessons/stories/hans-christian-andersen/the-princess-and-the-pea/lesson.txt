@@ -13,7 +13,7 @@ The Princess and the Pea
 'to': TO
 'marry': PHAER
 'a': AEU
-'princess;': PREUPB/SES STPH*FPLT
+'princess;': PREUPB/SES/STPH*FPLT
 'but': PWUT
 'she': SHE
 'would': WO
@@ -22,7 +22,7 @@ The Princess and the Pea
 'be': -B
 'a': AEU
 'real': RAEL
-'princess.': PREUPB/SES TP-PL
+'princess.': PREUPB/SES/TP-PL
 'He': KPA/HE
 'travelled': TRAFL/*LD
 'all': AUL
@@ -31,7 +31,7 @@ The Princess and the Pea
 'world': WORLD
 'to': TO
 'find': TPAOEUPBD
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'but': PWUT
 'nowhere': TPHO/WR
 'could': KO
@@ -39,11 +39,11 @@ The Princess and the Pea
 'get': TKPWET
 'what': WHA
 'he': HE
-'wanted.': WAPBTD TP-PL
+'wanted.': WAPBTD/TP-PL
 'There': KPA/THR
 'were': WR
 'princesses': PREUPB/SES/-S
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
@@ -55,7 +55,7 @@ The Princess and the Pea
 'they': THE
 'were': WR
 'real': RAEL
-'ones.': WUPBZ TP-PL
+'ones.': WUPBZ/TP-PL
 'There': KPA/THR
 'was': WAS
 'always': AULS
@@ -68,7 +68,7 @@ The Princess and the Pea
 'as': AS
 'it': T
 'should': SHO
-'be.': -B TP-PL
+'be.': -B/TP-PL
 'So': KPA/SO
 'he': HE
 'came': KAEUPL
@@ -76,7 +76,7 @@ The Princess and the Pea
 'again': TKPWEPB
 'and': SKP
 'was': WAS
-'sad,': SAD KW-BG
+'sad,': SAD/KW-BG
 'for': TPOR
 'he': HE
 'would': WO
@@ -88,26 +88,26 @@ The Princess and the Pea
 'have': SR
 'a': AEU
 'real': RAEL
-'princess.': PREUPB/SES TP-PL
+'princess.': PREUPB/SES/TP-PL
 'One': KPA/WUPB
 'evening': AOEPBG
 'a': AEU
 'terrible': TERBL
 'storm': STORPL
 'came': KAEUPL
-'on;': OPB STPH*FPLT
+'on;': OPB/STPH*FPLT
 'there': THR
 'was': WAS
 'thunder': THUPBD
 'and': SKP
-'lightning,': HRAOEUT/TPHEUPBG KW-BG
+'lightning,': HRAOEUT/TPHEUPBG/KW-BG
 'and': SKP
 'the': -T
 'rain': RAEUPB
 'poured': PORD
 'down': TKOUPB
 'in': TPH
-'torrents.': TORPBT/-S TP-PL
+'torrents.': TORPBT/-S/TP-PL
 'Suddenly': KPA/SULD
 'a': AEU
 'knocking': TPHOBG/-G
@@ -116,7 +116,7 @@ The Princess and the Pea
 'at': AT
 'the': -T
 'city': STEU
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'and': SKP
 'the': -T
 'old': OLD
@@ -124,7 +124,7 @@ The Princess and the Pea
 'went': WEPBT
 'to': TO
 'open': OEP
-'it.': T TP-PL
+'it.': T/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
@@ -136,10 +136,10 @@ The Princess and the Pea
 'front': TPROPBT
 'of': -F
 'the': -T
-'gate.': TKPWAET TP-PL
-'But,': KPA/PWUT KW-BG
+'gate.': TKPWAET/TP-PL
+'But,': KPA/PWUT/KW-BG
 'good': TKPWAOD
-'gracious!': TKPWRAEURBS SKHRAPL
+'gracious!': TKPWRAEURBS/SKHRAPL
 'what': WHA
 'a': AEU
 'sight': SAOEUT
@@ -151,7 +151,7 @@ The Princess and the Pea
 'had': H
 'made': PHAED
 'her': HER
-'look.': HRAOBG TP-PL
+'look.': HRAOBG/TP-PL
 'The': KPA/-T
 'water': WAUR
 'ran': RAPB
@@ -160,7 +160,7 @@ The Princess and the Pea
 'her': HER
 'hair': HAEUR
 'and': SKP
-'clothes;': KHRO*ETS STPH*FPLT
+'clothes;': KHRO*ETS/STPH*FPLT
 'it': T
 'ran': RAPB
 'down': TKOUPB
@@ -175,7 +175,7 @@ The Princess and the Pea
 'again': TKPWEPB
 'at': AT
 'the': -T
-'heels.': HAOELS TP-PL
+'heels.': HAOELS/TP-PL
 'And': AFPBD
 'yet': KWRET
 'she': SHE
@@ -185,39 +185,39 @@ The Princess and the Pea
 'was': WAS
 'a': AEU
 'real': RAEL
-'princess.': PREUPB/SES TP-PL
-'"Well,': KR-GS KPA/WEL KW-BG
+'princess.': PREUPB/SES/TP-PL
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'we'll': WAOEL
 'soon': SAOPB
 'find': TPAOEUPBD
 'that': THA
-'out,"': OUT KW-BG KR-GS
+'out,"': OUT/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
 'old': OLD
-'queen.': KWAOEPB TP-PL
+'queen.': KWAOEPB/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'said': SED
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'bed-room,': PWED H-PB RAOPL KW-BG
+'bed-room,': PWED/H-PB/RAOPL/KW-BG
 'took': TAOBG
 'all': AUL
 'the': -T
 'bedding': PWED/-G
 'off': OF
 'the': -T
-'bedstead,': PWED/TK-LS/STED KW-BG
+'bedstead,': PWED/TK-LS/STED/KW-BG
 'and': SKP
 'laid': HRAEUD
 'a': AEU
 'pea': PAE
 'on': OPB
 'the': -T
-'bottom;': PWOPLT STPH*FPLT
+'bottom;': PWOPLT/STPH*FPLT
 'then': THEPB
 'she': SHE
 'took': TAOBG
@@ -228,17 +228,17 @@ The Princess and the Pea
 'them': THEPL
 'on': OPB
 'the': -T
-'pea,': PAE KW-BG
+'pea,': PAE/KW-BG
 'and': SKP
 'then': THEPB
 'twenty': TWEPBT
-'eider-down': AOEUD/*ER TKO*UPB
+'eider-down': AOEUD/*ER/TKO*UPB
 'beds': PWEDZ
 'on': OPB
 'top': TOP
 'of': -F
 'the': -T
-'mattresses.': PHAT/TRES/-S TP-PL
+'mattresses.': PHAT/TRES/-S/TP-PL
 'On': KPA/OPB
 'this': TH
 'the': -T
@@ -247,7 +247,7 @@ The Princess and the Pea
 'to': TO
 'lie': HRAOEU
 'all': AUL
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
@@ -257,20 +257,20 @@ The Princess and the Pea
 'how': HOU
 'she': SHE
 'had': H
-'slept.': SHREPT TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'slept.': SHREPT/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'very': SRE
-'badly!"': PWAD/HREU SKHRAPL KR-GS
+'badly!"': PWAD/HREU/SKHRAPL/KR-GS
 'said': SED
-'she.': SHE TP-PL
-'"I': KR-GS EU
+'she.': SHE/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'scarcely': SKAEURS/HREU
 'closed': KHROEFD
 'my': PHEU
 'eyes': AO*EUS
 'all': AUL
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'Heaven': KPA/HEFPB
 'only': OEPBL
 'knows': TPHOEZ
@@ -278,14 +278,14 @@ The Princess and the Pea
 'was': WAS
 'in': TPH
 'the': -T
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'but': PWUT
 'I': EU
 'was': WAS
 'lying': HRAOEUG
 'on': OPB
 'something': S-G
-'hard,': HARD KW-BG
+'hard,': HARD/KW-BG
 'so': SO
 'that': THA
 'I': EU
@@ -296,9 +296,9 @@ The Princess and the Pea
 'all': AUL
 'over': OEFR
 'my': PHEU
-'body.': PWO*ED TP-PL
-'It's': KPA/T AES
-'horrible!"': HORBL SKHRAPL KR-GS
+'body.': PWO*ED/TP-PL
+'It's': KPA/T/AES
+'horrible!"': HORBL/SKHRAPL/KR-GS
 'Now': KPA/TPHOU
 'they': THE
 'knew': TPHAOU
@@ -322,8 +322,8 @@ The Princess and the Pea
 'and': SKP
 'the': -T
 'twenty': TWEPBT
-'eider-down': AOEUD/*ER TKO*UPB
-'beds.': PWEDZ TP-PL
+'eider-down': AOEUD/*ER/TKO*UPB
+'beds.': PWEDZ/TP-PL
 'Nobody': KPA/TPHOEB
 'but': PWUT
 'a': AEU
@@ -334,7 +334,7 @@ The Princess and the Pea
 'as': AS
 'sensitive': SEPBT/TEUF
 'as': AS
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'So': KPA/SO
 'the': -T
 'prince': PREUPBS
@@ -342,7 +342,7 @@ The Princess and the Pea
 'her': HER
 'for': TPOR
 'his': HEUS
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'for': TPOR
 'now': TPHOU
 'he': HE
@@ -352,7 +352,7 @@ The Princess and the Pea
 'had': H
 'a': AEU
 'real': RAEL
-'princess;': PREUPB/SES STPH*FPLT
+'princess;': PREUPB/SES/STPH*FPLT
 'and': SKP
 'the': -T
 'pea': PAE
@@ -360,22 +360,22 @@ The Princess and the Pea
 'put': PUT
 'in': TPH
 'the': -T
-'museum,': PHAOUPL KW-BG
+'museum,': PHAOUPL/KW-BG
 'where': W-R
 'it': T
 'may': PHAE
 'still': STEUL
 'be': -B
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'if': TP
 'no': TPHO
 'one': WUPB
 'has': HAS
 'stolen': STOEL/EPB
-'it.': T TP-PL
-'There,': KPA/THR KW-BG
+'it.': T/TP-PL
+'There,': KPA/THR/KW-BG
 'that': THA
 'is': S
 'a': AEU
 'true': TRAOU
-'story.': STOER TP-PL
+'story.': STOER/TP-PL

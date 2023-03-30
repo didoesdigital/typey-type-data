@@ -3,29 +3,29 @@ Grandmother
 'Grandmother': KPA/TKPWR-PL
 'is': S
 'very': SRE
-'old,': OLD KW-BG
+'old,': OLD/KW-BG
 'her': HER
 'face': TPAEUS
 'is': S
-'wrinkled,': WREUPB/K-LD KW-BG
+'wrinkled,': WREUPB/K-LD/KW-BG
 'and': SKP
 'her': HER
 'hair': HAEUR
 'is': S
 'quite': KWAOEUT
-'white;': WHAOEUT STPH*FPLT
+'white;': WHAOEUT/STPH*FPLT
 'but': PWUT
 'her': HER
 'eyes': AO*EUS
 'are': R
 'like': HRAOEUBG
 'two': TWO
-'stars,': STARS KW-BG
+'stars,': STARS/KW-BG
 'and': SKP
 'they': THE
 'have': SR
 'a': AEU
-'mild,': PHAOEULD KW-BG
+'mild,': PHAOEULD/KW-BG
 'gentle': SKWR*EPBLT
 'expression': EBGS/PREGS
 'in': TPH
@@ -34,31 +34,31 @@ Grandmother
 'they': THE
 'look': HRAOBG
 'at': AT
-'you,': U KW-BG
+'you,': U/KW-BG
 'which': WEU
 'does': TKOS
 'you': U
-'good.': TKPWAOD TP-PL
+'good.': TKPWAOD/TP-PL
 'She': KPA/SHE
 'wears': WAERS
 'a': AEU
 'dress': TKRES
 'of': -F
-'heavy,': HOEUF KW-BG
+'heavy,': HOEUF/KW-BG
 'rich': REUFP
-'silk,': S*EULG KW-BG
+'silk,': S*EULG/KW-BG
 'with': W
 'large': HRARPBLG
 'flowers': TPHRO*URS
 'worked': WORBGD
 'on': OPB
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'it': T
 'rustles': RUS/-LS
 'when': WHEPB
 'she': SHE
-'moves.': PHOFS TP-PL
+'moves.': PHOFS/TP-PL
 'And': AFPBD
 'then': THEPB
 'she': SHE
@@ -67,12 +67,12 @@ Grandmother
 'the': -T
 'most': PHOFT
 'wonderful': WUFL
-'stories.': STOERS TP-PL
+'stories.': STOERS/TP-PL
 'Grandmother': KPA/TKPWR-PL
 'knows': TPHOEZ
 'a': AEU
 'great': TKPWRAET
-'deal,': TKAOEL KW-BG
+'deal,': TKAOEL/KW-BG
 'for': TPOR
 'she': SHE
 'was': WAS
@@ -80,36 +80,36 @@ Grandmother
 'before': PW-FR
 'father': TPAER
 'and': SKP
-'mother—that's': PHOER EPL/TKA*RB THA AES
+'mother—that's': PHOER/EPL/TKA*RB/THA/AES
 'quite': KWAOEUT
-'certain.': SERPB TP-PL
+'certain.': SERPB/TP-PL
 'She': KPA/SHE
 'has': HAS
 'a': AEU
-'hymn-book': H*EUPL H-PB PWAOBG
+'hymn-book': H*EUPL/H-PB/PWAOBG
 'with': W
 'large': HRARPBLG
 'silver': SEUL/SRER
-'clasps,': KHRAS/-PS KW-BG
+'clasps,': KHRAS/-PS/KW-BG
 'in': TPH
 'which': WEU
 'she': SHE
 'often': OFPB
-'reads;': RAEDZ STPH*FPLT
+'reads;': RAEDZ/STPH*FPLT
 'and': SKP
 'in': TPH
 'the': -T
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'between': TWAOEPB
 'the': -T
-'leaves,': HREFS KW-BG
+'leaves,': HREFS/KW-BG
 'lies': HRAO*EUS
 'a': AEU
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'quite': KWAOEUT
 'flat': TPHRAT
 'and': SKP
-'dry;': TKRAOEU STPH*FPLT
+'dry;': TKRAOEU/STPH*FPLT
 'it': T
 'is': S
 'not': TPHOT
@@ -123,7 +123,7 @@ Grandmother
 'standing': STAPBG
 'in': TPH
 'the': -T
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'and': SKP
 'yet': KWRET
 'she': SHE
@@ -131,15 +131,15 @@ Grandmother
 'at': AT
 'it': T
 'most': PHOFT
-'pleasantly,': PHRES/APBT/HREU KW-BG
+'pleasantly,': PHRES/APBT/HREU/KW-BG
 'and': SKP
 'tears': TAERS
 'even': AOEPB
 'come': KOPL
 'into': TPHAO
 'her': HER
-'eyes.': AO*EUS TP-PL
-'"I': KR-GS EU
+'eyes.': AO*EUS/TP-PL
+'"I': KR-GS/EU
 'wonder': WOPBD
 'why': KWR
 'grandmother': TKPWR-PL
@@ -153,41 +153,41 @@ Grandmother
 'old': OLD
 'book': PWAOBG
 'that': THA
-'way?': WAEU H-F
+'way?': WAEU/H-F
 'Do': KPA/TKO
 'you': U
-'know?"': TPHOE H-F KR-GS
-'Why,': KPA/KWR KW-BG
+'know?"': TPHOE/H-F/KR-GS
+'Why,': KPA/KWR/KW-BG
 'when': WHEPB
-'grandmother's': TKPWR-PL AES
+'grandmother's': TKPWR-PL/AES
 'tears': TAERS
 'fall': TPAUL
 'upon': POPB
 'the': -T
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'and': SKP
 'she': SHE
 'is': S
 'looking': HRAOG
 'at': AT
-'it,': T KW-BG
+'it,': T/KW-BG
 'the': -T
 'rose': ROEZ
-'revives,': RAOE/SRAOEUFS KW-BG
+'revives,': RAOE/SRAOEUFS/KW-BG
 'and': SKP
 'fills': TPEULS
 'the': -T
 'room': RAOPL
 'with': W
 'its': EUTS
-'fragrance;': TPRAEUG/RAPBS STPH*FPLT
+'fragrance;': TPRAEUG/RAPBS/STPH*FPLT
 'the': -T
 'walls': WAULS
 'vanish': SRAPB/EURB
 'as': AS
 'in': TPH
 'a': AEU
-'mist,': PHEUFT KW-BG
+'mist,': PHEUFT/KW-BG
 'and': SKP
 'all': AUL
 'around': ARPBD
@@ -196,7 +196,7 @@ Grandmother
 'the': -T
 'glorious': TKPWHRORS
 'green': TKPWRAOEPB
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'where': W-R
 'in': TPH
 'summer': SAOURPL
@@ -205,59 +205,59 @@ Grandmother
 'streams': STRAOEPLS
 'through': THRU
 'thick': THEUBG
-'foliage;': TPOEL/APBLG STPH*FPLT
+'foliage;': TPOEL/APBLG/STPH*FPLT
 'and': SKP
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'why': KWR
 'she': SHE
 'is': S
 'young': KWRUPBG
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'a': AEU
 'charming': KHARPL/-G
-'maiden,': PHAEUD/*EPB KW-BG
+'maiden,': PHAEUD/*EPB/KW-BG
 'fresh': TPRERB
 'as': AS
 'a': AEU
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'with': W
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'rosy': ROEZ/SEU
-'cheeks,': KHAOEBGS KW-BG
-'fair,': TPAEUR KW-BG
+'cheeks,': KHAOEBGS/KW-BG
+'fair,': TPAEUR/KW-BG
 'bright': PWRAOEUT
-'ringlets,': REUPBG/HR*ET/-S KW-BG
+'ringlets,': REUPBG/HR*ET/-S/KW-BG
 'and': SKP
 'a': AEU
 'figure': TPEUG
 'pretty': PREUT
 'and': SKP
-'graceful;': TKPWRAEUS/-FL STPH*FPLT
+'graceful;': TKPWRAEUS/-FL/STPH*FPLT
 'but': PWUT
 'the': -T
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'those': THOZ
-'mild,': PHAOEULD KW-BG
+'mild,': PHAOEULD/KW-BG
 'saintly': SAEUPBT/HREU
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'are': R
 'the': -T
-'same,—they': SAEUPL KW-BG EPL/TKA*RB THE
+'same,—they': SAEUPL/KW-BG/EPL/TKA*RB/THE
 'have': SR
 'been': PW-PB
 'left': HREFT
 'to': TO
-'grandmother.': TKPWR-PL TP-PL
+'grandmother.': TKPWR-PL/TP-PL
 'At': KPA/AT
 'her': HER
 'side': SAOEUD
 'sits': SEUTS
 'a': AEU
 'young': KWRUPBG
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'tall': TAUL
 'and': SKP
-'strong;': STROPBG STPH*FPLT
+'strong;': STROPBG/STPH*FPLT
 'he': HE
 'gives': TKPWEUFS
 'her': HER
@@ -265,14 +265,14 @@ Grandmother
 'rose': ROEZ
 'and': SKP
 'she': SHE
-'smiles.': SPHAOEULS TP-PL
+'smiles.': SPHAOEULS/TP-PL
 'Grandmother': KPA/TKPWR-PL
 'cannot': SK-PBT
 'smile': SPHAOEUL
 'like': HRAOEUBG
 'that': THA
-'now.': TPHOU TP-PL
-'Yes,': KPA/KWRE KW-BG
+'now.': TPHOU/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'she': SHE
 'is': S
 'smiling': SPHAOEULG
@@ -281,7 +281,7 @@ Grandmother
 'memory': PHOEURPL
 'of': -F
 'that': THA
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'many': PHAEPB
 'thoughts': THAUTS
@@ -289,14 +289,14 @@ Grandmother
 'recollections': REBGT/-G/-S
 'of': -F
 'the': -T
-'past;': PAFT STPH*FPLT
+'past;': PAFT/STPH*FPLT
 'but': PWUT
 'the': -T
 'handsome': HAPBD/SO*PL
 'young': KWRUPBG
 'man': PHAPB
 'is': S
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'and': SKP
 'the': -T
 'rose': ROEZ
@@ -305,16 +305,16 @@ Grandmother
 'in': TPH
 'the': -T
 'old': OLD
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'and': SKP
 'grandmother': TKPWR-PL
 'is': S
 'sitting': SEUGT
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'again': TKPWEPB
 'an': APB
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'looking': HRAOG
 'down': TKOUPB
 'upon': POPB
@@ -323,34 +323,34 @@ Grandmother
 'rose': ROEZ
 'in': TPH
 'the': -T
-'book.': PWAOBG TP-PL
+'book.': PWAOBG/TP-PL
 'Grandmother': KPA/TKPWR-PL
 'is': S
 'dead': TKED
-'now.': TPHOU TP-PL
+'now.': TPHOU/TP-PL
 'She': KPA/SHE
 'had': H
 'been': PW-PB
 'sitting': SEUGT
 'in': TPH
 'her': HER
-'arm-chair,': ARPL H-PB KHAEUR KW-BG
+'arm-chair,': ARPL/H-PB/KHAEUR/KW-BG
 'telling': TELG
 'us': US
 'a': AEU
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'beautiful': PWAOUFL
-'tale;': TAEL STPH*FPLT
+'tale;': TAEL/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'it': T
 'was': WAS
-'finished,': TP*EURBD KW-BG
+'finished,': TP*EURBD/KW-BG
 'she': SHE
 'said': SED
 'she': SHE
 'was': WAS
-'tired,': TAOEURD KW-BG
+'tired,': TAOEURD/KW-BG
 'and': SKP
 'leaned': HRAOEPBD
 'her': HER
@@ -358,7 +358,7 @@ Grandmother
 'back': PWABG
 'to': TO
 'sleep': SHRAOEP
-'awhile.': A/WHAOEUL TP-PL
+'awhile.': A/WHAOEUL/TP-PL
 'We': KPA/WE
 'could': KO
 'hear': HAER
@@ -367,13 +367,13 @@ Grandmother
 'breathing': PWRAO*EGT
 'as': AS
 'she': SHE
-'slept;': SHREPT STPH*FPLT
+'slept;': SHREPT/STPH*FPLT
 'gradually': TKPWRAD/WAEL
 'it': T
 'became': PWAEUPL
 'quieter': KWAOEURT
 'and': SKP
-'calmer,': KAUPL/*ER KW-BG
+'calmer,': KAUPL/*ER/KW-BG
 'and': SKP
 'on': OPB
 'her': HER
@@ -381,7 +381,7 @@ Grandmother
 'beamed': PWAEPL/-D
 'happiness': HAEP/-PBS
 'and': SKP
-'peace.': PAES TP-PL
+'peace.': PAES/TP-PL
 'It': KPA/T
 'was': WAS
 'as': AS
@@ -392,25 +392,25 @@ Grandmother
 'a': AEU
 'ray': RAEU
 'of': -F
-'sunshine.': SUPB/SHAO*EUPB TP-PL
+'sunshine.': SUPB/SHAO*EUPB/TP-PL
 'She': KPA/SHE
 'smiled': SPHAOEULD
 'once': WUPBS
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'and': SKP
 'then': THEPB
 'people': PAOEPL
 'said': SED
 'she': SHE
 'was': WAS
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'She': KPA/SHE
 'was': WAS
 'laid': HRAEUD
 'in': TPH
 'a': AEU
 'black': PWHRABG
-'coffin,': KOFPB KW-BG
+'coffin,': KOFPB/KW-BG
 'looking': HRAOG
 'mild': PHAOEULD
 'and': SKP
@@ -422,23 +422,23 @@ Grandmother
 'of': -F
 'the': -T
 'shrouded': SHROUD/-D
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'though': THOE
 'her': HER
 'eyes': AO*EUS
 'were': WR
-'closed;': KHROEFD STPH*FPLT
+'closed;': KHROEFD/STPH*FPLT
 'but': PWUT
 'every': EF
 'wrinkle': WREUPBG/*L
 'had': H
-'vanished,': SRAPB/EURBD KW-BG
+'vanished,': SRAPB/EURBD/KW-BG
 'her': HER
 'hair': HAEUR
 'looked': HRAOBGD
 'white': WHAOEUT
 'and': SKP
-'silvery,': SEUL/SRER/KWREU KW-BG
+'silvery,': SEUL/SRER/KWREU/KW-BG
 'and': SKP
 'around': ARPBD
 'her': HER
@@ -446,7 +446,7 @@ Grandmother
 'lingered': HREUPBG/ERD
 'a': AEU
 'sweet': SWAOET
-'smile.': SPHAOEUL TP-PL
+'smile.': SPHAOEUL/TP-PL
 'We': KPA/WE
 'did': TK
 'not': TPHOT
@@ -466,63 +466,63 @@ Grandmother
 'been': PW-PB
 'such': SUFP
 'a': AEU
-'dear,': TKAER KW-BG
+'dear,': TKAER/KW-BG
 'good': TKPWAOD
-'grandmother.': TKPWR-PL TP-PL
+'grandmother.': TKPWR-PL/TP-PL
 'The': KPA/-T
-'hymn-book,': H*EUPL H-PB PWAOBG KW-BG
+'hymn-book,': H*EUPL/H-PB/PWAOBG/KW-BG
 'in': TPH
 'which': WEU
 'the': -T
 'rose': ROEZ
 'still': STEUL
-'lay,': HRAEU KW-BG
+'lay,': HRAEU/KW-BG
 'was': WAS
 'placed': PHRAEUFD
 'under': TPH-PB
 'her': HER
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'for': TPOR
 'so': SO
 'she': SHE
 'had': H
 'wished': WEURBD
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'then': THEPB
 'they': THE
 'buried': PWUR/EUD
-'grandmother.': TKPWR-PL TP-PL
+'grandmother.': TKPWR-PL/TP-PL
 'On': KPA/OPB
 'the': -T
-'grave,': TKPWRAEUF KW-BG
+'grave,': TKPWRAEUF/KW-BG
 'close': KHROES
 'by': PWEU
 'the': -T
 'churchyard': KH*URPBLG/KWRARD
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'they': THE
 'planted': PHRAPBT/-D
 'a': AEU
-'rose-tree;': ROEZ H-PB TRAOE STPH*FPLT
+'rose-tree;': ROEZ/H-PB/TRAOE/STPH*FPLT
 'it': T
 'was': WAS
 'soon': SAOPB
 'full': TPUL
 'of': -F
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'and': SKP
 'the': -T
 'nightingale': TPHAOEUT/-G/TKPWAEL
 'sat': SAT
 'among': PHOPBG
 'the': -T
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'and': SKP
 'sang': SAPBG
 'over': OEFR
 'the': -T
-'grave.': TKPWRAEUF TP-PL
+'grave.': TKPWRAEUF/TP-PL
 'From': KPA/TPR
 'the': -T
 'organ': O*RPBG
@@ -538,7 +538,7 @@ Grandmother
 'of': -F
 'the': -T
 'beautiful': PWAOUFL
-'psalms,': SAUPL/-S KW-BG
+'psalms,': SAUPL/-S/KW-BG
 'which': WEU
 'were': WR
 'written': WREUPB
@@ -552,28 +552,28 @@ Grandmother
 'of': -F
 'the': -T
 'dead': TKED
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'The': KPA/-T
 'moon': PHAOPB
 'shone': SHO*EPB
 'down': TKOUPB
 'upon': POPB
 'the': -T
-'grave,': TKPWRAEUF KW-BG
+'grave,': TKPWRAEUF/KW-BG
 'but': PWUT
 'the': -T
 'dead': TKED
 'was': WAS
 'not': TPHOT
-'there;': THR STPH*FPLT
+'there;': THR/STPH*FPLT
 'every': EF
 'child': KHAOEULD
 'could': KO
 'go': TKPW
-'safely,': SAEUFL KW-BG
+'safely,': SAEUFL/KW-BG
 'even': AOEPB
 'at': AT
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'pluck': PHRUBG
 'a': AEU
@@ -584,7 +584,7 @@ Grandmother
 'by': PWEU
 'the': -T
 'churchyard': KH*URPBLG/KWRARD
-'wall.': WAUL TP-PL
+'wall.': WAUL/TP-PL
 'The': KPA/-T
 'dead': TKED
 'know': TPHOE
@@ -594,7 +594,7 @@ Grandmother
 'do': TKO
 'who': WHO
 'are': R
-'living.': HREUFG TP-PL
+'living.': HREUFG/TP-PL
 'They': KPA/THE
 'know': TPHOE
 'what': WHA
@@ -611,7 +611,7 @@ Grandmother
 'thing': THEUPBG
 'were': WR
 'to': TO
-'happen,': HAP KW-BG
+'happen,': HAP/KW-BG
 'as': AS
 'the': -T
 'appearance': PAOERPBS
@@ -620,19 +620,19 @@ Grandmother
 'dead': TKED
 'person': PERPB
 'among': PHOPBG
-'us.': US TP-PL
+'us.': US/TP-PL
 'They': KPA/THE
 'are': R
 'better': PWOERT
 'off': OF
 'than': THAPB
 'we': WE
-'are;': R STPH*FPLT
+'are;': R/STPH*FPLT
 'the': -T
 'dead': TKED
 'return': RURPB
 'no': TPHO
-'more.': PHOR TP-PL
+'more.': PHOR/TP-PL
 'The': KPA/-T
 'earth': *ERT
 'has': HAS
@@ -640,7 +640,7 @@ Grandmother
 'heaped': HAOEPD
 'on': OPB
 'the': -T
-'coffin,': KOFPB KW-BG
+'coffin,': KOFPB/KW-BG
 'and': SKP
 'it': T
 'is': S
@@ -649,36 +649,36 @@ Grandmother
 'that': THA
 'lies': HRAO*EUS
 'within': W-PB
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'leaves': HREFS
 'of': -F
 'the': -T
-'hymn-book': H*EUPL H-PB PWAOBG
+'hymn-book': H*EUPL/H-PB/PWAOBG
 'are': R
-'dust;': TKUFT STPH*FPLT
+'dust;': TKUFT/STPH*FPLT
 'and': SKP
 'the': -T
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'with': W
 'all': AUL
 'its': EUTS
-'recollections,': REBGT/-G/-S KW-BG
+'recollections,': REBGT/-G/-S/KW-BG
 'has': HAS
 'crumbled': KRUPL/-BLD
 'to': TO
 'dust': TKUFT
-'also.': HR-S TP-PL
+'also.': HR-S/TP-PL
 'But': KPA/PWUT
 'over': OEFR
 'the': -T
 'grave': TKPWRAEUF
 'fresh': TPRERB
 'roses': ROES/-S
-'bloom,': PWHRAOPL KW-BG
+'bloom,': PWHRAOPL/KW-BG
 'the': -T
 'nightingale': TPHAOEUT/-G/TKPWAEL
-'sings,': SEUPBGS KW-BG
+'sings,': SEUPBGS/KW-BG
 'and': SKP
 'the': -T
 'organ': O*RPBG
@@ -691,46 +691,46 @@ Grandmother
 'remembrance': RERPBS
 'of': -F
 'old': OLD
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'with': W
 'the': -T
-'loving,': HRUFG KW-BG
+'loving,': HRUFG/KW-BG
 'gentle': SKWR*EPBLT
 'eyes': AO*EUS
 'that': THA
 'always': AULS
 'looked': HRAOBGD
-'young.': KWRUPBG TP-PL
+'young.': KWRUPBG/TP-PL
 'Eyes': KPA/AO*EUS
 'can': K
 'never': TPHEFR
-'die.': TKAOEU TP-PL
+'die.': TKAOEU/TP-PL
 'Ours': KPA/OURS
 'will': HR
 'once': WUPBS
 'again': TKPWEPB
 'behold': PWE/HOLD
 'dear': TKAER
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'young': KWRUPBG
 'and': SKP
 'beautiful': PWAOUFL
 'as': AS
-'when,': WHEPB KW-BG
+'when,': WHEPB/KW-BG
 'for': TPOR
 'the': -T
 'first': TPEUFRT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'she': SHE
 'kissed': K*EUFD
 'the': -T
-'fresh,': TPRERB KW-BG
+'fresh,': TPRERB/KW-BG
 'red': RED
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'that': THA
 'is': S
 'now': TPHOU
 'dust': TKUFT
 'in': TPH
 'the': -T
-'grave.': TKPWRAEUF TP-PL
+'grave.': TKPWRAEUF/TP-PL

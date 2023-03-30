@@ -1,7 +1,7 @@
 The Valiant Little Tailor
 
 'One': KPA/WUPB
-'summer's': SAOURPL AES
+'summer's': SAOURPL/AES
 'morning': PHORPBG
 'a': AEU
 'little': HREUL
@@ -13,18 +13,18 @@ The Valiant Little Tailor
 'table': TAEUBL
 'by': PWEU
 'the': -T
-'window;': WOEUPBD STPH*FPLT
+'window;': WOEUPBD/STPH*FPLT
 'he': HE
 'was': WAS
 'in': TPH
 'good': TKPWAOD
-'spirits,': SPEURTS KW-BG
+'spirits,': SPEURTS/KW-BG
 'and': SKP
 'sewed': SWE/-D
 'with': W
 'all': AUL
 'his': HEUS
-'might.': PHAOEUT TP-PL
+'might.': PHAOEUT/TP-PL
 'Then': KPA/THEPB
 'came': KAEUPL
 'a': AEU
@@ -33,20 +33,20 @@ The Valiant Little Tailor
 'down': TKOUPB
 'the': -T
 'street': STRAOET
-'crying:': KRAOEUG STPH-FPLT
-''Good': AE KPA/TKPWAOD
-'jams,': SKWRAPLS KW-BG
-'cheap!': KHAEP SKHRAPL
+'crying:': KRAOEUG/STPH-FPLT
+''Good': AE/KPA/TKPWAOD
+'jams,': SKWRAPLS/KW-BG
+'cheap!': KHAEP/SKHRAPL
 'Good': KPA/TKPWAOD
-'jams,': SKWRAPLS KW-BG
-'cheap!'': KHAEP SKHRAPL AE
+'jams,': SKWRAPLS/KW-BG
+'cheap!'': KHAEP/SKHRAPL/AE
 'This': KPA/TH
 'rang': RAPBG
 'pleasantly': PHRES/APBT/HREU
 'in': TPH
 'the': -T
-'tailor's': TAEURL AES
-'ears;': AOERS STPH*FPLT
+'tailor's': TAEURL/AES
+'ears;': AOERS/STPH*FPLT
 'he': HE
 'stretched': STREFPD
 'his': HEUS
@@ -55,14 +55,14 @@ The Valiant Little Tailor
 'out': OUT
 'of': -F
 'the': -T
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'and': SKP
-'called:': KAULD STPH-FPLT
-''Come': AE KPA/KOPL
+'called:': KAULD/STPH-FPLT
+''Come': AE/KPA/KOPL
 'up': UP
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'dear': TKAER
-'woman;': WOPL STPH*FPLT
+'woman;': WOPL/STPH*FPLT
 'here': HAOER
 'you': U
 'will': HR
@@ -70,7 +70,7 @@ The Valiant Little Tailor
 'rid': REUD
 'of': -F
 'your': KWROUR
-'goods.'': TKPWAODZ TP-PL AE
+'goods.'': TKPWAODZ/TP-PL/AE
 'The': KPA/-T
 'woman': WOPL
 'came': KAEUPL
@@ -84,7 +84,7 @@ The Valiant Little Tailor
 'with': W
 'her': HER
 'heavy': HOEUF
-'basket,': PWAFBGT KW-BG
+'basket,': PWAFBGT/KW-BG
 'and': SKP
 'he': HE
 'made': PHAED
@@ -94,39 +94,39 @@ The Valiant Little Tailor
 'the': -T
 'pots': POTS
 'for': TPOR
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'inspected': TPH-PD
 'each': AOEFP
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'lifted': HREUFTD
 'it': T
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'put': PUT
 'his': HEUS
 'nose': TPHOES
 'to': TO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'at': AT
 'length': HREPBG
-'said:': SED STPH-FPLT
-''The': AE KPA/-T
+'said:': SED/STPH-FPLT
+''The': AE/KPA/-T
 'jam': SKWRAPL
 'seems': SAOEPLS
 'to': TO
 'me': PHE
 'to': TO
 'be': -B
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'so': SO
 'weigh': WAE
 'me': PHE
 'out': OUT
 'four': TPOUR
-'ounces,': OUPBS/-S KW-BG
+'ounces,': OUPBS/-S/KW-BG
 'dear': TKAER
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'and': SKP
 'if': TP
 'it': T
@@ -140,7 +140,7 @@ The Valiant Little Tailor
 'is': S
 'of': -F
 'no': TPHO
-'consequence.'': KWEPBS TP-PL AE
+'consequence.'': KWEPBS/TP-PL/AE
 'The': KPA/-T
 'woman': WOPL
 'who': WHO
@@ -150,37 +150,37 @@ The Valiant Little Tailor
 'find': TPAOEUPBD
 'a': AEU
 'good': TKPWAOD
-'sale,': SAEL KW-BG
+'sale,': SAEL/KW-BG
 'gave': TKPWAEUF
 'him': HEUPL
 'what': WHA
 'he': HE
-'desired,': STKAOEURD KW-BG
+'desired,': STKAOEURD/KW-BG
 'but': PWUT
 'went': WEPBT
 'away': WA*EU
 'quite': KWAOEUT
 'angry': APBG/REU
 'and': SKP
-'grumbling.': TKPWRUPL/-BLG TP-PL
-''Now,': AE KPA/TPHOU KW-BG
+'grumbling.': TKPWRUPL/-BLG/TP-PL
+''Now,': AE/KPA/TPHOU/KW-BG
 'this': TH
 'jam': SKWRAPL
 'shall': SHAL
 'be': -B
 'blessed': PWHR*EFD
 'by': PWEU
-'God,'': TKPWO*D KW-BG AE
+'God,'': TKPWO*D/KW-BG/AE
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
-'tailor,': TAEURL KW-BG
-''and': AE SKP
+'tailor,': TAEURL/KW-BG
+''and': AE/SKP
 'give': TKPWEUF
 'me': PHE
 'health': H*ELT
 'and': SKP
-'strength';': STREPBG AE STPH*FPLT
+'strength';': STREPBG/AE/STPH*FPLT
 'so': SO
 'he': HE
 'brought': PWRAUT
@@ -189,7 +189,7 @@ The Valiant Little Tailor
 'out': OUT
 'of': -F
 'the': -T
-'cupboard,': KUP/PWAORD KW-BG
+'cupboard,': KUP/PWAORD/KW-BG
 'cut': KUT
 'himself': HEUPLS
 'a': AEU
@@ -203,14 +203,14 @@ The Valiant Little Tailor
 'the': -T
 'jam': SKWRAPL
 'over': OEFR
-'it.': T TP-PL
-''This': AE KPA/TH
+'it.': T/TP-PL
+''This': AE/KPA/TH
 'won't': WOEPBT
 'taste': TAEUFT
-'bitter,'': PWEURT KW-BG AE
+'bitter,'': PWEURT/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''but': AE PWUT
+'he,': HE/KW-BG
+''but': AE/PWUT
 'I': EU
 'will': HR
 'just': SKWRUFT
@@ -221,24 +221,24 @@ The Valiant Little Tailor
 'I': EU
 'take': TAEUBG
 'a': AEU
-'bite.'': PWAOEUT TP-PL AE
+'bite.'': PWAOEUT/TP-PL/AE
 'He': KPA/HE
 'laid': HRAEUD
 'the': -T
 'bread': PWRAED
 'near': TPHAOER
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'sewed': SWE/-D
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'in': TPH
 'his': HEUS
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'made': PHAED
 'bigger': PWEURG
 'and': SKP
 'bigger': PWEURG
-'stitches.': STEUFPS TP-PL
+'stitches.': STEUFPS/TP-PL
 'In': KPA/TPH
 'the': -T
 'meantime': PHAOEPB/TAO*EUPL
@@ -257,7 +257,7 @@ The Valiant Little Tailor
 'sitting': SEUGT
 'in': TPH
 'great': TKPWRAET
-'numbers,': TPHUPLS KW-BG
+'numbers,': TPHUPLS/KW-BG
 'and': SKP
 'they': THE
 'were': WR
@@ -267,40 +267,40 @@ The Valiant Little Tailor
 'on': OPB
 'it': T
 'in': TPH
-'hosts.': HOEFTS TP-PL
-''Hi!': AE KPA/HEU SKHRAPL
+'hosts.': HOEFTS/TP-PL
+''Hi!': AE/KPA/HEU/SKHRAPL
 'who': WHO
 'invited': EUPB/SRAOEUTD
-'you?'': U H-F AE
+'you?'': U/H-F/AE
 'said': SED
 'the': -T
 'little': HREUL
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'and': SKP
 'drove': TKROEF
 'the': -T
 'unbidden': UPB/PWEUD/TK*EPB
 'guests': TKPWEFTS
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
-'flies,': TPHRAOEUS KW-BG
-'however,': HOUF KW-BG
+'flies,': TPHRAOEUS/KW-BG
+'however,': HOUF/KW-BG
 'who': WHO
 'understood': *URPBD
 'no': TPHO
-'German,': SKWR*ERPB KW-BG
+'German,': SKWR*ERPB/KW-BG
 'would': WO
 'not': TPHOT
 'be': -B
 'turned': TURPBD
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'but': PWUT
 'came': KAEUPL
 'back': PWABG
 'again': TKPWEPB
 'in': TPH
 'ever-increasing': *FR/EUPB/KRAOES/-G
-'companies.': K-PS TP-PL
+'companies.': K-PS/TP-PL
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
@@ -308,7 +308,7 @@ The Valiant Little Tailor
 'last': HRAFT
 'lost': HRO*S
 'all': AUL
-'patience,': PAEURBS KW-BG
+'patience,': PAEURBS/KW-BG
 'and': SKP
 'drew': TKRAOU
 'a': AEU
@@ -320,29 +320,29 @@ The Valiant Little Tailor
 'hole': HOEL
 'under': TPH-PB
 'his': HEUS
-'work-table,': WORBG H-PB TAEUBL KW-BG
+'work-table,': WORBG/H-PB/TAEUBL/KW-BG
 'and': SKP
-'saying:': SAEUG STPH-FPLT
-''Wait,': AE KPA/WAEUT KW-BG
+'saying:': SAEUG/STPH-FPLT
+''Wait,': AE/KPA/WAEUT/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'give': TKPWEUF
 'it': T
 'to': TO
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'struck': STRUBG
 'it': T
 'mercilessly': PHERS/-LS/HREU
 'on': OPB
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'drew': TKRAOU
 'it': T
 'away': WA*EU
 'and': SKP
-'counted,': KOUPBTD KW-BG
+'counted,': KOUPBTD/KW-BG
 'there': THR
 'lay': HRAEU
 'before': PW-FR
@@ -350,22 +350,22 @@ The Valiant Little Tailor
 'no': TPHO
 'fewer': TPAOUR
 'than': THAPB
-'seven,': SEFPB KW-BG
+'seven,': SEFPB/KW-BG
 'dead': TKED
 'and': SKP
 'with': W
 'legs': HREGS
 'stretched': STREFPD
-'out.': OUT TP-PL
-''Are': AE KPA/R
+'out.': OUT/TP-PL
+''Are': AE/KPA/R
 'you': U
 'a': AEU
 'fellow': TP*EL
 'of': -F
 'that': THA
-'sort?'': SORT H-F AE
+'sort?'': SORT/H-F/AE
 'said': SED
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -373,14 +373,14 @@ The Valiant Little Tailor
 'admiring': AD/PHAOEURG
 'his': HEUS
 'own': OEPB
-'bravery.': PWRAEUFR/REU TP-PL
-''The': AE KPA/-T
+'bravery.': PWRAEUFR/REU/TP-PL
+''The': AE/KPA/-T
 'whole': WHOEL
 'town': TOUPB
 'shall': SHAL
 'know': TPHOE
 'of': -F
-'this!'': TH SKHRAPL AE
+'this!'': TH/SKHRAPL/AE
 'And': AFPBD
 'the': -T
 'little': HREUL
@@ -390,32 +390,32 @@ The Valiant Little Tailor
 'cut': KUT
 'himself': HEUPLS
 'a': AEU
-'girdle,': TKPWEURD/*L KW-BG
+'girdle,': TKPWEURD/*L/KW-BG
 'stitched': STEUFPD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'embroidered': EPL/PWROEUD/ERD
 'on': OPB
 'it': T
 'in': TPH
 'large': HRARPBLG
-'letters:': HRERTS STPH-FPLT
-''Seven': AE KPA/SEFPB
+'letters:': HRERTS/STPH-FPLT
+''Seven': AE/KPA/SEFPB
 'at': AT
 'one': WUPB
-'stroke!'': STROBG SKHRAPL AE
-''What,': AE KPA/WHA KW-BG
+'stroke!'': STROBG/SKHRAPL/AE
+''What,': AE/KPA/WHA/KW-BG
 'the': -T
-'town!'': TOUPB SKHRAPL AE
+'town!'': TOUPB/SKHRAPL/AE
 'he': HE
-'continued,': T-PBD KW-BG
-''the': AE -T
+'continued,': T-PBD/KW-BG
+''the': AE/-T
 'whole': WHOEL
 'world': WORLD
 'shall': SHAL
 'hear': HAER
 'of': -F
-'it!'': T SKHRAPL AE
+'it!'': T/SKHRAPL/AE
 'and': SKP
 'his': HEUS
 'heart': HART
@@ -424,14 +424,14 @@ The Valiant Little Tailor
 'joy': SKWROEU
 'like': HRAOEUBG
 'a': AEU
-'lamb's': HRAPL AES
-'tail.': TAEUL TP-PL
+'lamb's': HRAPL/AES
+'tail.': TAEUL/TP-PL
 'The': KPA/-T
 'tailor': TAEURL
 'put': PUT
 'on': OPB
 'the': -T
-'girdle,': TKPWEURD/*L KW-BG
+'girdle,': TKPWEURD/*L/KW-BG
 'and': SKP
 'resolved': RO*FLD
 'to': TO
@@ -439,7 +439,7 @@ The Valiant Little Tailor
 'forth': TPO*RT
 'into': TPHAO
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'because': PWAU
 'he': HE
 'thought': THAUT
@@ -450,11 +450,11 @@ The Valiant Little Tailor
 'small': SPHAL
 'for': TPOR
 'his': HEUS
-'valour.': SRARL/A*U TP-PL
+'valour.': SRARL/A*U/TP-PL
 'Before': KPA/PW-FR
 'he': HE
 'went': WEPBT
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'he': HE
 'sought': SAUT
 'about': PW
@@ -472,22 +472,22 @@ The Valiant Little Tailor
 'could': KO
 'take': TAEUBG
 'with': W
-'him;': HEUPL STPH*FPLT
-'however,': HOUF KW-BG
+'him;': HEUPL/STPH*FPLT
+'however,': HOUF/KW-BG
 'he': HE
 'found': TPOUPBD
 'nothing': TPHOG
 'but': PWUT
 'an': APB
 'old': OLD
-'cheese,': KHAOES KW-BG
+'cheese,': KHAOES/KW-BG
 'and': SKP
 'that': THA
 'he': HE
 'put': PUT
 'in': TPH
 'his': HEUS
-'pocket.': POBGT TP-PL
+'pocket.': POBGT/TP-PL
 'In': KPA/TPH
 'front': TPROPBT
 'of': -F
@@ -503,7 +503,7 @@ The Valiant Little Tailor
 'itself': T/SEFL
 'in': TPH
 'the': -T
-'thicket.': THEUBGT TP-PL
+'thicket.': THEUBGT/TP-PL
 'It': KPA/T
 'had': H
 'to': TO
@@ -513,32 +513,32 @@ The Valiant Little Tailor
 'pocket': POBGT
 'with': W
 'the': -T
-'cheese.': KHAOES TP-PL
+'cheese.': KHAOES/TP-PL
 'Now': KPA/TPHOU
 'he': HE
 'took': TAOBG
 'to': TO
 'the': -T
 'road': RAOD
-'boldly,': PWOLD/HREU KW-BG
+'boldly,': PWOLD/HREU/KW-BG
 'and': SKP
 'as': AS
 'he': HE
 'was': WAS
 'light': HRAOEUT
 'and': SKP
-'nimble,': TPHEUPL/*L KW-BG
+'nimble,': TPHEUPL/*L/KW-BG
 'he': HE
 'felt': TPELT
 'no': TPHO
-'fatigue.': TPA/TAOEG TP-PL
+'fatigue.': TPA/TAOEG/TP-PL
 'The': KPA/-T
 'road': RAOD
 'led': HRED
 'him': HEUPL
 'up': UP
 'a': AEU
-'mountain,': PHOUPB/TAEUPB KW-BG
+'mountain,': PHOUPB/TAEUPB/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -548,7 +548,7 @@ The Valiant Little Tailor
 'highest': HAOEU/EFT
 'point': POEUPBT
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'there': THR
 'sat': SAT
 'a': AEU
@@ -557,21 +557,21 @@ The Valiant Little Tailor
 'looking': HRAOG
 'peacefully': PAES/TPHREU
 'about': PW
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
 'went': WEPBT
 'bravely': PWRAEUFL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'spoke': SPOEBG
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Good': AE KPA/TKPWAOD
-'day,': TKAEU KW-BG
-'comrade,': KOPL/RAD KW-BG
+'said:': SED/STPH-FPLT
+''Good': AE/KPA/TKPWAOD
+'day,': TKAEU/KW-BG
+'comrade,': KOPL/RAD/KW-BG
 'so': SO
 'you': U
 'are': R
@@ -579,21 +579,21 @@ The Valiant Little Tailor
 'there': THR
 'overlooking': AUFR/HRAOBG/-G
 'the': -T
-'wide-spread': WAOEUD H-PB SPRED
-'world!': WORLD SKHRAPL
+'wide-spread': WAOEUD/H-PB/SPRED
+'world!': WORLD/SKHRAPL
 'I': EU
 'am': APL
 'just': SKWRUFT
 'on': OPB
 'my': PHEU
 'way': WAEU
-'thither,': TH*EURT KW-BG
+'thither,': TH*EURT/KW-BG
 'and': SKP
 'want': WAPBT
 'to': TO
 'try': TREU
 'my': PHEU
-'luck.': HRUBG TP-PL
+'luck.': HRUBG/TP-PL
 'Have': KPA/SR
 'you': U
 'any': TPHEU
@@ -601,38 +601,38 @@ The Valiant Little Tailor
 'to': TO
 'go': TKPW
 'with': W
-'me?'': PHE H-F AE
+'me?'': PHE/H-F/AE
 'The': KPA/-T
 'giant': SKWRAOEUPBT
 'looked': HRAOBGD
 'contemptuously': KAUPB/TEPLT/WOUS/HREU
 'at': AT
 'the': -T
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''You': AE KPA/U
-'ragamuffin!': RAG/PHUFPB SKHRAPL
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
+'ragamuffin!': RAG/PHUFPB/SKHRAPL
 'You': KPA/U
 'miserable': PHEUZ/-BL
-'creature!'': KRAOEFP SKHRAPL AE
-''Oh,': AE KPA/O*ERBGS KW-BG
-'indeed?'': TPHAOEPBD H-F AE
+'creature!'': KRAOEFP/SKHRAPL/AE
+''Oh,': AE/KPA/O*ERBGS/KW-BG
+'indeed?'': TPHAOEPBD/H-F/AE
 'answered': AEPBS/-D
 'the': -T
 'little': HREUL
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'and': SKP
 'unbuttoned': UPB/PWUT/O*PB/-D
 'his': HEUS
-'coat,': KOET KW-BG
+'coat,': KOET/KW-BG
 'and': SKP
 'showed': SHOED
 'the': -T
 'giant': SKWRAOEUPBT
 'the': -T
-'girdle,': TKPWEURD/*L KW-BG
-''there': AE THR
+'girdle,': TKPWEURD/*L/KW-BG
+''there': AE/THR
 'may': PHAE
 'you': U
 'read': RAED
@@ -642,14 +642,14 @@ The Valiant Little Tailor
 'a': AEU
 'man': PHAPB
 'I': EU
-'am!'': APL SKHRAPL AE
+'am!'': APL/SKHRAPL/AE
 'The': KPA/-T
 'giant': SKWRAOEUPBT
-'read:': RAED STPH-FPLT
-''Seven': AE KPA/SEFPB
+'read:': RAED/STPH-FPLT
+''Seven': AE/KPA/SEFPB
 'at': AT
 'one': WUPB
-'stroke,'': STROBG KW-BG AE
+'stroke,'': STROBG/KW-BG/AE
 'and': SKP
 'thought': THAUT
 'that': THA
@@ -661,7 +661,7 @@ The Valiant Little Tailor
 'the': -T
 'tailor': TAEURL
 'had': H
-'killed,': KEULD KW-BG
+'killed,': KEULD/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -672,14 +672,14 @@ The Valiant Little Tailor
 'for': TPOR
 'the': -T
 'tiny': TOEUPB
-'fellow.': TP*EL TP-PL
-'Nevertheless,': KPA/TPHEFRLS KW-BG
+'fellow.': TP*EL/TP-PL
+'Nevertheless,': KPA/TPHEFRLS/KW-BG
 'he': HE
 'wished': WEURBD
 'to': TO
 'try': TREU
 'him': HEUPL
-'first,': TPEUFRT KW-BG
+'first,': TPEUFRT/KW-BG
 'and': SKP
 'took': TAOBG
 'a': AEU
@@ -697,41 +697,41 @@ The Valiant Little Tailor
 'dropped': TKROPD
 'out': OUT
 'of': -F
-'it.': T TP-PL
-''Do': AE KPA/TKO
+'it.': T/TP-PL
+''Do': AE/KPA/TKO
 'that': THA
-'likewise,'': HRAOEUBG/WAOEUS KW-BG AE
+'likewise,'': HRAOEUBG/WAOEUS/KW-BG/AE
 'said': SED
 'the': -T
-'giant,': SKWRAOEUPBT KW-BG
-''if': AE TP
+'giant,': SKWRAOEUPBT/KW-BG
+''if': AE/TP
 'you': U
 'have': SR
-'strength.'': STREPBG TP-PL AE
-''Is': AE KPA/S
+'strength.'': STREPBG/TP-PL/AE
+''Is': AE/KPA/S
 'that': THA
-'all?'': AUL H-F AE
+'all?'': AUL/H-F/AE
 'said': SED
 'the': -T
-'tailor,': TAEURL KW-BG
-''that': AE THA
+'tailor,': TAEURL/KW-BG
+''that': AE/THA
 'is': S
 'child's': KHAOEULD/AES
 'play': PHRAEU
 'with': W
-'us!'': US SKHRAPL AE
+'us!'': US/SKHRAPL/AE
 'and': SKP
 'put': PUT
 'his': HEUS
 'hand': HAPBD
 'into': TPHAO
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'brought': PWRAUT
 'out': OUT
 'the': -T
 'soft': SOFT
-'cheese,': KHAOES KW-BG
+'cheese,': KHAOES/KW-BG
 'and': SKP
 'pressed': PREFD
 'it': T
@@ -741,17 +741,17 @@ The Valiant Little Tailor
 'ran': RAPB
 'out': OUT
 'of': -F
-'it.': T TP-PL
-''Faith,'': AE KPA/TPA*EUT KW-BG AE
+'it.': T/TP-PL
+''Faith,'': AE/KPA/TPA*EUT/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''that': AE THA
+'he,': HE/KW-BG
+''that': AE/THA
 'was': WAS
 'a': AEU
 'little': HREUL
-'better,': PWOERT KW-BG
+'better,': PWOERT/KW-BG
 'wasn't': WAEPBT
-'it?'': T H-F AE
+'it?'': T/H-F/AE
 'The': KPA/-T
 'giant': SKWRAOEUPBT
 'did': TK
@@ -759,7 +759,7 @@ The Valiant Little Tailor
 'know': TPHOE
 'what': WHA
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -768,7 +768,7 @@ The Valiant Little Tailor
 'of': -F
 'the': -T
 'little': HREUL
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'giant': SKWRAOEUPBT
@@ -787,22 +787,22 @@ The Valiant Little Tailor
 'could': KO
 'scarcely': SKAEURS/HREU
 'follow': TPOL
-'it.': T TP-PL
-''Now,': AE KPA/TPHOU KW-BG
+'it.': T/TP-PL
+''Now,': AE/KPA/TPHOU/KW-BG
 'little': HREUL
 'mite': PHAO*EUT
 'of': -F
 'a': AEU
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'do': TKO
 'that': THA
-'likewise,'': HRAOEUBG/WAOEUS KW-BG AE
-''Well': AE KPA/WEL
-'thrown,'': THROEPB KW-BG AE
+'likewise,'': HRAOEUBG/WAOEUS/KW-BG/AE
+''Well': AE/KPA/WEL
+'thrown,'': THROEPB/KW-BG/AE
 'said': SED
 'the': -T
-'tailor,': TAEURL KW-BG
-''but': AE PWUT
+'tailor,': TAEURL/KW-BG
+''but': AE/PWUT
 'after': AF
 'all': AUL
 'the': -T
@@ -811,7 +811,7 @@ The Valiant Little Tailor
 'down': TKOUPB
 'to': TO
 'earth': *ERT
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'I': EU
 'will': HR
 'throw': THROE
@@ -823,7 +823,7 @@ The Valiant Little Tailor
 'come': KOPL
 'back': PWABG
 'at': AT
-'all,'': AUL KW-BG AE
+'all,'': AUL/KW-BG/AE
 'and': SKP
 'he': HE
 'put': PUT
@@ -831,49 +831,49 @@ The Valiant Little Tailor
 'hand': HAPBD
 'into': TPHAO
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'took': TAOBG
 'out': OUT
 'the': -T
-'bird,': PWEURD KW-BG
+'bird,': PWEURD/KW-BG
 'and': SKP
 'threw': THRAOU
 'it': T
 'into': TPHAO
 'the': -T
-'air.': AEUR TP-PL
+'air.': AEUR/TP-PL
 'The': KPA/-T
-'bird,': PWEURD KW-BG
+'bird,': PWEURD/KW-BG
 'delighted': TKHRAOEUTD
 'with': W
 'its': EUTS
-'liberty,': HREURBT KW-BG
-'rose,': ROEZ KW-BG
+'liberty,': HREURBT/KW-BG
+'rose,': ROEZ/KW-BG
 'flew': TPHRAOU
 'away': WA*EU
 'and': SKP
 'did': TK
 'not': TPHOT
 'come': KOPL
-'back.': PWABG TP-PL
-''How': AE KPA/HOU
+'back.': PWABG/TP-PL
+''How': AE/KPA/HOU
 'does': TKOS
 'that': THA
 'shot': SHOT
 'please': PHRES
-'you,': U KW-BG
-'comrade?'': KOPL/RAD H-F AE
+'you,': U/KW-BG
+'comrade?'': KOPL/RAD/H-F/AE
 'asked': SK-D
 'the': -T
-'tailor.': TAEURL TP-PL
-''You': AE KPA/U
+'tailor.': TAEURL/TP-PL
+''You': AE/KPA/U
 'can': K
 'certainly': SERPBL
-'throw,'': THROE KW-BG AE
+'throw,'': THROE/KW-BG/AE
 'said': SED
 'the': -T
-'giant,': SKWRAOEUPBT KW-BG
-''but': AE PWUT
+'giant,': SKWRAOEUPBT/KW-BG
+''but': AE/PWUT
 'now': TPHOU
 'we': WE
 'will': HR
@@ -885,7 +885,7 @@ The Valiant Little Tailor
 'to': TO
 'carry': KAER
 'anything': TPHEUG
-'properly.'': PRORL TP-PL AE
+'properly.'': PRORL/TP-PL/AE
 'He': KPA/HE
 'took': TAOBG
 'the': -T
@@ -902,14 +902,14 @@ The Valiant Little Tailor
 'felled': TPEL/-D
 'on': OPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'are': R
 'strong': STROPBG
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'help': HEP
 'me': PHE
 'to': TO
@@ -919,19 +919,19 @@ The Valiant Little Tailor
 'out': OUT
 'of': -F
 'the': -T
-'forest.'': TPOEFRT TP-PL AE
-''Readily,'': AE KPA/RED/HREU KW-BG AE
+'forest.'': TPOEFRT/TP-PL/AE
+''Readily,'': AE/KPA/RED/HREU/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
 'little': HREUL
-'man;': PHAPB STPH*FPLT
-''take': AE TAEUBG
+'man;': PHAPB/STPH*FPLT
+''take': AE/TAEUBG
 'you': U
 'the': -T
 'trunk': TRUPBG
 'on': OPB
 'your': KWROUR
-'shoulders,': SHOURLDZ KW-BG
+'shoulders,': SHOURLDZ/KW-BG
 'and': SKP
 'I': EU
 'will': HR
@@ -940,13 +940,13 @@ The Valiant Little Tailor
 'the': -T
 'branches': PWRAFRPBS
 'and': SKP
-'twigs;': TWEUG/-S STPH*FPLT
+'twigs;': TWEUG/-S/STPH*FPLT
 'after': AF
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'they': THE
 'are': R
 'the': -T
-'heaviest.'': HEF/KWREFT TP-PL AE
+'heaviest.'': HEF/KWREFT/TP-PL/AE
 'The': KPA/-T
 'giant': SKWRAOEUPBT
 'took': TAOBG
@@ -954,7 +954,7 @@ The Valiant Little Tailor
 'trunk': TRUPBG
 'on': OPB
 'his': HEUS
-'shoulder,': SHOURLD KW-BG
+'shoulder,': SHOURLD/KW-BG
 'but': PWUT
 'the': -T
 'tailor': TAEURL
@@ -962,47 +962,47 @@ The Valiant Little Tailor
 'himself': HEUPLS
 'on': OPB
 'a': AEU
-'branch,': PWRAFRPB KW-BG
+'branch,': PWRAFRPB/KW-BG
 'and': SKP
 'the': -T
-'giant,': SKWRAOEUPBT KW-BG
+'giant,': SKWRAOEUPBT/KW-BG
 'who': WHO
 'could': KO
 'not': TPHOT
 'look': HRAOBG
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'had': H
 'to': TO
 'carry': KAER
 'away': WA*EU
 'the': -T
 'whole': WHOEL
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
 'tailor': TAEURL
 'into': TPHAO
 'the': -T
-'bargain:': PWAR/TKPWAEUPB STPH-FPLT
+'bargain:': PWAR/TKPWAEUPB/STPH-FPLT
 'he': HE
-'behind,': HEUPBD KW-BG
+'behind,': HEUPBD/KW-BG
 'was': WAS
 'quite': KWAOEUT
 'merry': PHER/REU
 'and': SKP
-'happy,': HAEP KW-BG
+'happy,': HAEP/KW-BG
 'and': SKP
 'whistled': WHEUS/-LD
 'the': -T
-'song:': SOPBG STPH-FPLT
-''Three': AE KPA/THRAOE
+'song:': SOPBG/STPH-FPLT
+''Three': AE/KPA/THRAOE
 'tailors': TAEUL/O*RS
 'rode': ROED
 'forth': TPO*RT
 'from': TPR
 'the': -T
-'gate,'': TKPWAET KW-BG AE
+'gate,'': TKPWAET/KW-BG/AE
 'as': AS
 'if': TP
 'carrying': KAERG
@@ -1010,9 +1010,9 @@ The Valiant Little Tailor
 'tree': TRAOE
 'were': WR
 'child's': KHAOEULD/AES
-'play.': PHRAEU TP-PL
+'play.': PHRAEU/TP-PL
 'The': KPA/-T
-'giant,': SKWRAOEUPBT KW-BG
+'giant,': SKWRAOEUPBT/KW-BG
 'after': AF
 'he': HE
 'had': H
@@ -1023,15 +1023,15 @@ The Valiant Little Tailor
 'part': PART
 'of': -F
 'the': -T
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'could': KO
 'go': TKPW
 'no': TPHO
-'further,': TPURT KW-BG
+'further,': TPURT/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Hark': AE KPA/HARBG
-'you,': U KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Hark': AE/KPA/HARBG
+'you,': U/KW-BG
 'I': EU
 'shall': SHAL
 'have': SR
@@ -1039,12 +1039,12 @@ The Valiant Little Tailor
 'let': HRET
 'the': -T
 'tree': TRAOE
-'fall!'': TPAUL SKHRAPL AE
+'fall!'': TPAUL/SKHRAPL/AE
 'The': KPA/-T
 'tailor': TAEURL
 'sprang': SPRAPBG
 'nimbly': TPHEUPL/PWHREU
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'seized': SAOEZ/-D
 'the': -T
 'tree': TRAOE
@@ -1057,35 +1057,35 @@ The Valiant Little Tailor
 'had': H
 'been': PW-PB
 'carrying': KAERG
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'said': SED
 'to': TO
 'the': -T
-'giant:': SKWRAOEUPBT STPH-FPLT
-''You': AE KPA/U
+'giant:': SKWRAOEUPBT/STPH-FPLT
+''You': AE/KPA/U
 'are': R
 'such': SUFP
 'a': AEU
 'great': TKPWRAET
-'fellow,': TP*EL KW-BG
+'fellow,': TP*EL/KW-BG
 'and': SKP
 'yet': KWRET
 'cannot': SK-PBT
 'even': AOEPB
 'carry': KAER
 'the': -T
-'tree!'': TRAOE SKHRAPL AE
+'tree!'': TRAOE/SKHRAPL/AE
 'They': KPA/THE
 'went': WEPBT
 'on': OPB
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'as': AS
 'they': THE
 'passed': PAFD
 'a': AEU
-'cherry-tree,': KHER/REU H-PB TRAOE KW-BG
+'cherry-tree,': KHER/REU/H-PB/TRAOE/KW-BG
 'the': -T
 'giant': SKWRAOEUPBT
 'laid': HRAEUD
@@ -1101,20 +1101,20 @@ The Valiant Little Tailor
 'ripest': RAOEUP/*ES
 'fruit': TPRAOUT
 'was': WAS
-'hanging,': HAPBG/-G KW-BG
+'hanging,': HAPBG/-G/KW-BG
 'bent': PWEPBT
 'it': T
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'gave': TKPWAEUF
 'it': T
 'into': TPHAO
 'the': -T
-'tailor's': TAEURL AES
-'hand,': HAPBD KW-BG
+'tailor's': TAEURL/AES
+'hand,': HAPBD/KW-BG
 'and': SKP
 'bade': PWAEUD
 'him': HEUPL
-'eat.': AOET TP-PL
+'eat.': AOET/TP-PL
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
@@ -1126,7 +1126,7 @@ The Valiant Little Tailor
 'to': TO
 'hold': HOLD
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -1137,7 +1137,7 @@ The Valiant Little Tailor
 'it': T
 'sprang': SPRAPBG
 'back': PWABG
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'the': -T
 'tailor': TAEURL
@@ -1147,7 +1147,7 @@ The Valiant Little Tailor
 'the': -T
 'air': AEUR
 'with': W
-'it.': T TP-PL
+'it.': T/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'had': H
@@ -1155,13 +1155,13 @@ The Valiant Little Tailor
 'down': TKOUPB
 'again': TKPWEPB
 'without': WOUT
-'injury,': SKWRAOUR KW-BG
+'injury,': SKWRAOUR/KW-BG
 'the': -T
 'giant': SKWRAOEUPBT
-'said:': SED STPH-FPLT
-''What': AE KPA/WHA
+'said:': SED/STPH-FPLT
+''What': AE/KPA/WHA
 'is': S
-'this?': TH H-F
+'this?': TH/H-F
 'Have': KPA/SR
 'you': U
 'not': TPHOT
@@ -1171,18 +1171,18 @@ The Valiant Little Tailor
 'hold': HOLD
 'the': -T
 'weak': WAEBG
-'twig?'': TWEUG H-F AE
-''There': AE KPA/THR
+'twig?'': TWEUG/H-F/AE
+''There': AE/KPA/THR
 'is': S
 'no': TPHO
 'lack': HRABG
 'of': -F
-'strength,'': STREPBG KW-BG AE
+'strength,'': STREPBG/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
 'little': HREUL
-'tailor.': TAEURL TP-PL
-''Do': AE KPA/TKO
+'tailor.': TAEURL/TP-PL
+''Do': AE/KPA/TKO
 'you': U
 'think': THEU
 'that': THA
@@ -1199,7 +1199,7 @@ The Valiant Little Tailor
 'seven': SEFPB
 'at': AT
 'one': WUPB
-'blow?': PWHROE H-F
+'blow?': PWHROE/H-F
 'I': EU
 'leapt': HREPT
 'over': OEFR
@@ -1214,16 +1214,16 @@ The Valiant Little Tailor
 'there': THR
 'in': TPH
 'the': -T
-'thicket.': THEUBGT TP-PL
+'thicket.': THEUBGT/TP-PL
 'Jump': KPA/SKWRUFRP
 'as': AS
 'I': EU
-'did,': TK KW-BG
+'did,': TK/KW-BG
 'if': TP
 'you': U
 'can': K
 'do': TKO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'The': KPA/-T
 'giant': SKWRAOEUPBT
 'made': PHAED
@@ -1236,13 +1236,13 @@ The Valiant Little Tailor
 'get': TKPWET
 'over': OEFR
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'remained': RE/PHAEUPBD
 'hanging': HAPBG/-G
 'in': TPH
 'the': -T
-'branches,': PWRAFRPBS KW-BG
+'branches,': PWRAFRPBS/KW-BG
 'so': SO
 'that': THA
 'in': TPH
@@ -1253,17 +1253,17 @@ The Valiant Little Tailor
 'kept': KEPT
 'the': -T
 'upper': AOURP
-'hand.': HAPBD TP-PL
+'hand.': HAPBD/TP-PL
 'The': KPA/-T
 'giant': SKWRAOEUPBT
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'are': R
 'such': SUFP
 'a': AEU
 'valiant': SRAL/KWRAPBT
-'fellow,': TP*EL KW-BG
+'fellow,': TP*EL/KW-BG
 'come': KOPL
 'with': W
 'me': PHE
@@ -1275,21 +1275,21 @@ The Valiant Little Tailor
 'the': -T
 'night': TPHAOEUT
 'with': W
-'us.'': US TP-PL AE
+'us.'': US/TP-PL/AE
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
 'was': WAS
-'willing,': -LG KW-BG
+'willing,': -LG/KW-BG
 'and': SKP
 'followed': TPOLD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'cave,': KAEUF KW-BG
+'cave,': KAEUF/KW-BG
 'other': OER
 'giants': SKWRAOEUPBT/-S
 'were': WR
@@ -1297,7 +1297,7 @@ The Valiant Little Tailor
 'there': THR
 'by': PWEU
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'each': AOEFP
 'of': -F
@@ -1312,15 +1312,15 @@ The Valiant Little Tailor
 'and': SKP
 'was': WAS
 'eating': AOEGT
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
 'looked': HRAOBGD
 'round': ROUPBD
 'and': SKP
-'thought:': THAUT STPH-FPLT
-''It': AE KPA/T
+'thought:': THAUT/STPH-FPLT
+''It': AE/KPA/T
 'is': S
 'much': PHUFP
 'more': PHOR
@@ -1329,13 +1329,13 @@ The Valiant Little Tailor
 'than': THAPB
 'in': TPH
 'my': PHEU
-'workshop.'': WO*P TP-PL AE
+'workshop.'': WO*P/TP-PL/AE
 'The': KPA/-T
 'giant': SKWRAOEUPBT
 'showed': SHOED
 'him': HEUPL
 'a': AEU
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'said': SED
 'he': HE
@@ -1346,33 +1346,33 @@ The Valiant Little Tailor
 'in': TPH
 'it': T
 'and': SKP
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'The': KPA/-T
-'bed,': PWED KW-BG
-'however,': HOUF KW-BG
+'bed,': PWED/KW-BG
+'however,': HOUF/KW-BG
 'was': WAS
 'too': TAO
 'big': PWEUG
 'for': TPOR
 'the': -T
 'little': HREUL
-'tailor;': TAEURL STPH*FPLT
+'tailor;': TAEURL/STPH*FPLT
 'he': HE
 'did': TK
 'not': TPHOT
 'lie': HRAOEU
 'down': TKOUPB
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'crept': KREPT
 'into': TPHAO
 'a': AEU
-'corner.': KRORPB TP-PL
+'corner.': KRORPB/TP-PL
 'When': KPA/WHEPB
 'it': T
 'was': WAS
-'midnight,': PHAOEUPBT KW-BG
+'midnight,': PHAOEUPBT/KW-BG
 'and': SKP
 'the': -T
 'giant': SKWRAOEUPBT
@@ -1386,22 +1386,22 @@ The Valiant Little Tailor
 'in': TPH
 'a': AEU
 'sound': SOUPBD
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'he': HE
 'got': TKPWOT
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'took': TAOBG
 'a': AEU
 'great': TKPWRAET
 'iron': AOEURPB
-'bar,': PWAR KW-BG
+'bar,': PWAR/KW-BG
 'cut': KUT
 'through': THRU
 'the': -T
 'bed': PWED
 'with': W
 'one': WUPB
-'blow,': PWHROE KW-BG
+'blow,': PWHROE/KW-BG
 'and': SKP
 'thought': THAUT
 'he': HE
@@ -1411,7 +1411,7 @@ The Valiant Little Tailor
 'the': -T
 'grasshopper': TKPWHR*FRPBLG
 'for': TPOR
-'good.': TKPWAOD TP-PL
+'good.': TKPWAOD/TP-PL
 'With': KPA/W
 'the': -T
 'earliest': ERL/KWREFT
@@ -1421,14 +1421,14 @@ The Valiant Little Tailor
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'had': H
 'quite': KWAOEUT
 'forgotten': TPAURGTD
 'the': -T
 'little': HREUL
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'when': WHEPB
 'all': AUL
 'at': AT
@@ -1441,11 +1441,11 @@ The Valiant Little Tailor
 'quite': KWAOEUT
 'merrily': PHER/HREU
 'and': SKP
-'boldly.': PWOLD/HREU TP-PL
+'boldly.': PWOLD/HREU/TP-PL
 'The': KPA/-T
 'giants': SKWRAOEUPBT/-S
 'were': WR
-'terrified,': TER/TPAOEUD KW-BG
+'terrified,': TER/TPAOEUD/KW-BG
 'they': THE
 'were': WR
 'afraid': A/TPRAEUD
@@ -1455,25 +1455,25 @@ The Valiant Little Tailor
 'strike': STRAOEUBG
 'them': THEPL
 'all': AUL
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'and': SKP
 'ran': RAPB
 'away': WA*EU
 'in': TPH
 'a': AEU
 'great': TKPWRAET
-'hurry.': HUR/REU TP-PL
+'hurry.': HUR/REU/TP-PL
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
 'went': WEPBT
-'onwards,': OPB/WARDZ KW-BG
+'onwards,': OPB/WARDZ/KW-BG
 'always': AULS
 'following': TPOLG
 'his': HEUS
 'own': OEPB
 'pointed': POEUPBTD
-'nose.': TPHOES TP-PL
+'nose.': TPHOES/TP-PL
 'After': KPA/AF
 'he': HE
 'had': H
@@ -1481,7 +1481,7 @@ The Valiant Little Tailor
 'for': TPOR
 'a': AEU
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'he': HE
 'came': KAEUPL
 'to': TO
@@ -1490,12 +1490,12 @@ The Valiant Little Tailor
 'of': -F
 'a': AEU
 'royal': ROEUL
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'and': SKP
 'as': AS
 'he': HE
 'felt': TPELT
-'weary,': WAOE/REU KW-BG
+'weary,': WAOE/REU/KW-BG
 'he': HE
 'lay': HRAEU
 'down': TKOUPB
@@ -1504,11 +1504,11 @@ The Valiant Little Tailor
 'grass': TKPWRAS
 'and': SKP
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Whilst': KPA/WHAOEULS
 'he': HE
 'lay': HRAEU
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'the': -T
 'people': PAOEPL
 'came': KAEUPL
@@ -1517,20 +1517,20 @@ The Valiant Little Tailor
 'him': HEUPL
 'on': OPB
 'all': AUL
-'sides,': SAOEUDZ KW-BG
+'sides,': SAOEUDZ/KW-BG
 'and': SKP
 'read': RAED
 'on': OPB
 'his': HEUS
-'girdle:': TKPWEURD/*L STPH-FPLT
-''Seven': AE KPA/SEFPB
+'girdle:': TKPWEURD/*L/STPH-FPLT
+''Seven': AE/KPA/SEFPB
 'at': AT
 'one': WUPB
-'stroke.'': STROBG TP-PL AE
-''Ah!'': AE KPA/HA*E SKHRAPL AE
+'stroke.'': STROBG/TP-PL/AE
+''Ah!'': AE/KPA/HA*E/SKHRAPL/AE
 'said': SED
-'they,': THE KW-BG
-''what': AE WHA
+'they,': THE/KW-BG
+''what': AE/WHA
 'does': TKOS
 'the': -T
 'great': TKPWRAET
@@ -1541,13 +1541,13 @@ The Valiant Little Tailor
 'the': -T
 'midst': PHEUDZ
 'of': -F
-'peace?': PAES H-F
+'peace?': PAES/H-F
 'He': KPA/HE
 'must': PHUFT
 'be': -B
 'a': AEU
 'mighty': PHAOEUT/KWREU
-'lord.'': HRORD TP-PL AE
+'lord.'': HRORD/TP-PL/AE
 'They': KPA/THE
 'went': WEPBT
 'and': SKP
@@ -1555,7 +1555,7 @@ The Valiant Little Tailor
 'him': HEUPL
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'it': T
@@ -1567,7 +1567,7 @@ The Valiant Little Tailor
 'war': WAR
 'should': SHO
 'break': PWRAEBG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'this': TH
 'would': WO
 'be': -B
@@ -1585,12 +1585,12 @@ The Valiant Little Tailor
 'be': -B
 'allowed': HRO*UD
 'to': TO
-'depart.': TKPART TP-PL
+'depart.': TKPART/TP-PL
 'The': KPA/-T
 'counsel': KOUPB
 'pleased': PHREFD
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'he': HE
 'sent': SEPBT
@@ -1609,14 +1609,14 @@ The Valiant Little Tailor
 'service': S-FS
 'when': WHEPB
 'he': HE
-'awoke.': A/WOEBG TP-PL
+'awoke.': A/WOEBG/TP-PL
 'The': KPA/-T
 'ambassador': APL/PWAS/TKOR
 'remained': RE/PHAEUPBD
 'standing': STAPBG
 'by': PWEU
 'the': -T
-'sleeper,': SHRAOEP/*ER KW-BG
+'sleeper,': SHRAOEP/*ER/KW-BG
 'waited': WAEUTD
 'until': TPH-L
 'he': HE
@@ -1626,83 +1626,83 @@ The Valiant Little Tailor
 'and': SKP
 'opened': OEPD
 'his': HEUS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'then': THEPB
 'conveyed': KAUPB/SRAEUD
 'to': TO
 'him': HEUPL
 'this': TH
-'proposal.': PROEL TP-PL
-''For': AE KPA/TPOR
+'proposal.': PROEL/TP-PL
+''For': AE/KPA/TPOR
 'this': TH
 'very': SRE
 'reason': R-PB
 'have': SR
 'I': EU
 'come': KOPL
-'here,'': HAOER KW-BG AE
+'here,'': HAOER/KW-BG/AE
 'the': -T
 'tailor': TAEURL
-'replied,': RE/PHRAOEUD KW-BG
-''I': AE EU
+'replied,': RE/PHRAOEUD/KW-BG
+''I': AE/EU
 'am': APL
 'ready': R-D
 'to': TO
 'enter': SPWER
 'the': -T
 'king's': KEUPBG/AES
-'service.'': S-FS TP-PL AE
+'service.'': S-FS/TP-PL/AE
 'He': KPA/HE
 'was': WAS
 'therefore': TH-FR
 'honourably': HOPB/RAEBL/A*U
-'received,': SAOEFD KW-BG
+'received,': SAOEFD/KW-BG
 'and': SKP
 'a': AEU
 'special': SPERBL
 'dwelling': TKWELG
 'was': WAS
 'assigned': A/SAOEUPBD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
-'soldiers,': SHRERPBLGS KW-BG
-'however,': HOUF KW-BG
+'soldiers,': SHRERPBLGS/KW-BG
+'however,': HOUF/KW-BG
 'were': WR
 'set': SET
 'against': TKPWEPBS
 'the': -T
 'little': HREUL
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'and': SKP
 'wished': WEURBD
 'him': HEUPL
 'a': AEU
 'thousand': THOUD
 'miles': PHAOEULS
-'away.': WA*EU TP-PL
-''What': AE KPA/WHA
+'away.': WA*EU/TP-PL
+''What': AE/KPA/WHA
 'is': S
 'to': TO
 'be': -B
 'the': -T
 'end': EPBD
 'of': -F
-'this?'': TH H-F AE
+'this?'': TH/H-F/AE
 'they': THE
 'said': SED
 'among': PHOPBG
-'themselves.': TH*EPLS TP-PL
-''If': AE KPA/TP
+'themselves.': TH*EPLS/TP-PL
+''If': AE/KPA/TP
 'we': WE
 'quarrel': KWARL
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'strikes': STRAOEUBGS
 'about': PW
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'seven': SEFPB
 'of': -F
 'us': US
@@ -1710,7 +1710,7 @@ The Valiant Little Tailor
 'fall': TPAUL
 'at': AT
 'every': EF
-'blow;': PWHROE STPH*FPLT
+'blow;': PWHROE/STPH*FPLT
 'not': TPHOT
 'one': WUPB
 'of': -F
@@ -1718,13 +1718,13 @@ The Valiant Little Tailor
 'can': K
 'stand': STAPBD
 'against': TKPWEPBS
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'They': KPA/THE
 'came': KAEUPL
 'therefore': TH-FR
 'to': TO
 'a': AEU
-'decision,': STKEUGS KW-BG
+'decision,': STKEUGS/KW-BG
 'betook': PWE/TAOBG
 'themselves': TH*EPLS
 'in': TPH
@@ -1732,19 +1732,19 @@ The Valiant Little Tailor
 'body': PWO*ED
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'begged': PWEGD
 'for': TPOR
 'their': THAEUR
-'dismissal.': STKPHEUS/A*L TP-PL
-''We': AE KPA/WE
+'dismissal.': STKPHEUS/A*L/TP-PL
+''We': AE/KPA/WE
 'are': R
 'not': TPHOT
-'prepared,'': PRAOEPD KW-BG AE
+'prepared,'': PRAOEPD/KW-BG/AE
 'said': SED
-'they,': THE KW-BG
-''to': AE TO
+'they,': THE/KW-BG
+''to': AE/TO
 'stay': STAEU
 'with': W
 'a': AEU
@@ -1754,7 +1754,7 @@ The Valiant Little Tailor
 'seven': SEFPB
 'at': AT
 'one': WUPB
-'stroke.'': STROBG TP-PL AE
+'stroke.'': STROBG/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'was': WAS
@@ -1771,7 +1771,7 @@ The Valiant Little Tailor
 'all': AUL
 'his': HEUS
 'faithful': TPA*EUT/-FL
-'servants,': SER/SRAPBTS KW-BG
+'servants,': SER/SRAPBTS/KW-BG
 'wished': WEURBD
 'that': THA
 'he': HE
@@ -1781,7 +1781,7 @@ The Valiant Little Tailor
 'eyes': AO*EUS
 'on': OPB
 'the': -T
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'and': SKP
 'would': WO
 'willingly': HR-G/HREU
@@ -1790,7 +1790,7 @@ The Valiant Little Tailor
 'rid': REUD
 'of': -F
 'him': HEUPL
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'But': KPA/PWUT
 'he': HE
 'did': TK
@@ -1800,7 +1800,7 @@ The Valiant Little Tailor
 'give': TKPWEUF
 'him': HEUPL
 'his': HEUS
-'dismissal,': STKPHEUS/A*L KW-BG
+'dismissal,': STKPHEUS/A*L/KW-BG
 'for': TPOR
 'he': HE
 'dreaded': TKRED/-D
@@ -1813,14 +1813,14 @@ The Valiant Little Tailor
 'all': AUL
 'his': HEUS
 'people': PAOEPL
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'and': SKP
 'place': PHRAEUS
 'himself': HEUPLS
 'on': OPB
 'the': -T
 'royal': ROEUL
-'throne.': THRO*EPB TP-PL
+'throne.': THRO*EPB/TP-PL
 'He': KPA/HE
 'thought': THAUT
 'about': PW
@@ -1828,13 +1828,13 @@ The Valiant Little Tailor
 'for': TPOR
 'a': AEU
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
 'found': TPOUPBD
 'good': TKPWAOD
-'counsel.': KOUPB TP-PL
+'counsel.': KOUPB/TP-PL
 'He': KPA/HE
 'sent': SEPBT
 'to': TO
@@ -1853,7 +1853,7 @@ The Valiant Little Tailor
 'was': WAS
 'a': AEU
 'great': TKPWRAET
-'warrior,': WAR/KWROR KW-BG
+'warrior,': WAR/KWROR/KW-BG
 'he': HE
 'had': H
 'one': WUPB
@@ -1861,7 +1861,7 @@ The Valiant Little Tailor
 'to': TO
 'make': PHAEUBG
 'to': TO
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'In': KPA/TPH
 'a': AEU
 'forest': TPOEFRT
@@ -1870,18 +1870,18 @@ The Valiant Little Tailor
 'country': KREU
 'lived': HREUFD
 'two': TWO
-'giants,': SKWRAOEUPBT/-S KW-BG
+'giants,': SKWRAOEUPBT/-S/KW-BG
 'who': WHO
 'caused': KAUFD
 'great': TKPWRAET
 'mischief': PHEUS/KHEF
 'with': W
 'their': THAEUR
-'robbing,': ROB/-G KW-BG
-'murdering,': PHURD/-G KW-BG
-'ravaging,': RAFPBLG/-G KW-BG
+'robbing,': ROB/-G/KW-BG
+'murdering,': PHURD/-G/KW-BG
+'ravaging,': RAFPBLG/-G/KW-BG
 'and': SKP
-'burning,': PWURPBG KW-BG
+'burning,': PWURPBG/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
@@ -1894,7 +1894,7 @@ The Valiant Little Tailor
 'in': TPH
 'danger': TKAEUPBLG
 'of': -F
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'If': KPA/TP
 'the': -T
 'tailor': TAEURL
@@ -1903,7 +1903,7 @@ The Valiant Little Tailor
 'killed': KEULD
 'these': THEZ
 'two': TWO
-'giants,': SKWRAOEUPBT/-S KW-BG
+'giants,': SKWRAOEUPBT/-S/KW-BG
 'he': HE
 'would': WO
 'give': TKPWEUF
@@ -1912,7 +1912,7 @@ The Valiant Little Tailor
 'only': OEPBL
 'daughter': TKAUR
 'to': TO
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'half': HAF
 'of': -F
@@ -1920,7 +1920,7 @@ The Valiant Little Tailor
 'kingdom': KEUPBG/TKOPL
 'as': AS
 'a': AEU
-'dowry,': TKOU/REU KW-BG
+'dowry,': TKOU/REU/KW-BG
 'likewise': HRAOEUBG/WAOEUS
 'one': WUPB
 'hundred': HUPBD
@@ -1931,8 +1931,8 @@ The Valiant Little Tailor
 'him': HEUPL
 'to': TO
 'assist': S*EUFT
-'him.': HEUPL TP-PL
-''That': AE KPA/THA
+'him.': HEUPL/TP-PL
+''That': AE/KPA/THA
 'would': WO
 'indeed': TPHAOEPBD
 'be': -B
@@ -1943,12 +1943,12 @@ The Valiant Little Tailor
 'a': AEU
 'man': PHAPB
 'like': HRAOEUBG
-'me!'': PHE SKHRAPL AE
+'me!'': PHE/SKHRAPL/AE
 'thought': THAUT
 'the': -T
 'little': HREUL
-'tailor.': TAEURL TP-PL
-''One': AE KPA/WUPB
+'tailor.': TAEURL/TP-PL
+''One': AE/KPA/WUPB
 'is': S
 'not': TPHOT
 'offered': OFRD
@@ -1963,17 +1963,17 @@ The Valiant Little Tailor
 'day': TKAEU
 'of': -F
 'one's': W*UPBS
-'life!'': HRAOEUF SKHRAPL AE
-''Oh,': AE KPA/O*ERBGS KW-BG
-'yes,'': KWRE KW-BG AE
+'life!'': HRAOEUF/SKHRAPL/AE
+''Oh,': AE/KPA/O*ERBGS/KW-BG
+'yes,'': KWRE/KW-BG/AE
 'he': HE
-'replied,': RE/PHRAOEUD KW-BG
-''I': AE EU
+'replied,': RE/PHRAOEUD/KW-BG
+''I': AE/EU
 'will': HR
 'soon': SAOPB
 'subdue': SUB/TKAOU
 'the': -T
-'giants,': SKWRAOEUPBT/-S KW-BG
+'giants,': SKWRAOEUPBT/-S/KW-BG
 'and': SKP
 'do': TKO
 'not': TPHOT
@@ -1986,7 +1986,7 @@ The Valiant Little Tailor
 'horsemen': HORS/PH*EPB
 'to': TO
 'do': TKO
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'he': HE
 'who': WHO
 'can': K
@@ -2002,18 +2002,18 @@ The Valiant Little Tailor
 'be': -B
 'afraid': A/TPRAEUD
 'of': -F
-'two.'': TWO TP-PL AE
+'two.'': TWO/TP-PL/AE
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
 'went': WEPBT
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'and': SKP
 'the': -T
 'hundred': HUPBD
 'horsemen': HORS/PH*EPB
 'followed': TPOLD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'came': KAEUPL
@@ -2022,16 +2022,16 @@ The Valiant Little Tailor
 'outskirts': AOUT/SKEURTS
 'of': -F
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'he': HE
 'said': SED
 'to': TO
 'his': HEUS
-'followers:': TPOL/*ER/-S STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'followers:': TPOL/*ER/-S/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'stay': STAEU
 'waiting': WAEUGT
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'I': EU
 'alone': A/HROEPB
 'will': HR
@@ -2039,7 +2039,7 @@ The Valiant Little Tailor
 'finish': TP*EURB
 'off': OF
 'the': -T
-'giants.'': SKWRAOEUPBT/-S TP-PL AE
+'giants.'': SKWRAOEUPBT/-S/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'bounded': PWOUPBD/-D
@@ -2051,20 +2051,20 @@ The Valiant Little Tailor
 'about': PW
 'right': RAOEUT
 'and': SKP
-'left.': HREFT TP-PL
+'left.': HREFT/TP-PL
 'After': KPA/AF
 'a': AEU
 'while': WHAOEUL
 'he': HE
 'perceived': SPAOEFD
 'both': PWO*T
-'giants.': SKWRAOEUPBT/-S TP-PL
+'giants.': SKWRAOEUPBT/-S/TP-PL
 'They': KPA/THE
 'lay': HRAEU
 'sleeping': SHRAOEPG
 'under': TPH-PB
 'a': AEU
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'snored': STPHAUR/-D
 'so': SO
@@ -2074,42 +2074,42 @@ The Valiant Little Tailor
 'waved': WAFD
 'up': UP
 'and': SKP
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'The': KPA/-T
 'little': HREUL
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'not': TPHOT
-'idle,': AOEUD/*L KW-BG
+'idle,': AOEUD/*L/KW-BG
 'gathered': TKPWAERD
 'two': TWO
 'pocketsful': POBGTS/-FL
 'of': -F
-'stones,': STOEPBS KW-BG
+'stones,': STOEPBS/KW-BG
 'and': SKP
 'with': W
 'these': THEZ
 'climbed': KHRAOEUPLD
 'up': UP
 'the': -T
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'was': WAS
 'halfway': HAF/WAEU
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'he': HE
 'slipped': SHREUPD
 'down': TKOUPB
 'by': PWEU
 'a': AEU
-'branch,': PWRAFRPB KW-BG
+'branch,': PWRAFRPB/KW-BG
 'until': TPH-L
 'he': HE
 'sat': SAT
 'just': SKWRUFT
 'above': PWOF
 'the': -T
-'sleepers,': SHRAOEP/*ER/-S KW-BG
+'sleepers,': SHRAOEP/*ER/-S/KW-BG
 'and': SKP
 'then': THEPB
 'let': HRET
@@ -2125,7 +2125,7 @@ The Valiant Little Tailor
 'one': WUPB
 'of': -F
 'the': -T
-'giants.': SKWRAOEUPBT/-S TP-PL
+'giants.': SKWRAOEUPBT/-S/TP-PL
 'For': KPA/TPOR
 'a': AEU
 'long': HROPBG
@@ -2133,41 +2133,41 @@ The Valiant Little Tailor
 'the': -T
 'giant': SKWRAOEUPBT
 'felt': TPELT
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'but': PWUT
 'at': AT
 'last': HRAFT
 'he': HE
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'pushed': PURBD
 'his': HEUS
-'comrade,': KOPL/RAD KW-BG
+'comrade,': KOPL/RAD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Why': AE KPA/KWR
+'said:': SED/STPH-FPLT
+''Why': AE/KPA/KWR
 'are': R
 'you': U
 'knocking': TPHOBG/-G
-'me?'': PHE H-F AE
-''You': AE KPA/U
+'me?'': PHE/H-F/AE
+''You': AE/KPA/U
 'must': PHUFT
 'be': -B
-'dreaming,'': TKRAOEPLG KW-BG AE
+'dreaming,'': TKRAOEPLG/KW-BG/AE
 'said': SED
 'the': -T
-'other,': OER KW-BG
-''I': AE EU
+'other,': OER/KW-BG
+''I': AE/EU
 'am': APL
 'not': TPHOT
 'knocking': TPHOBG/-G
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'They': KPA/THE
 'laid': HRAEUD
 'themselves': TH*EPLS
 'down': TKOUPB
 'to': TO
 'sleep': SHRAOEP
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'then': THEPB
 'the': -T
@@ -2178,37 +2178,37 @@ The Valiant Little Tailor
 'down': TKOUPB
 'on': OPB
 'the': -T
-'second.': SEBGD TP-PL
-''What': AE KPA/WHA
+'second.': SEBGD/TP-PL
+''What': AE/KPA/WHA
 'is': S
 'the': -T
 'meaning': PHAOEPBG
 'of': -F
-'this?'': TH H-F AE
+'this?'': TH/H-F/AE
 'cried': KRAOEUD
 'the': -T
 'other': OER
-''Why': AE KPA/KWR
+''Why': AE/KPA/KWR
 'are': R
 'you': U
 'pelting': PELT/-G
-'me?'': PHE H-F AE
-''I': AE EU
+'me?'': PHE/H-F/AE
+''I': AE/EU
 'am': APL
 'not': TPHOT
 'pelting': PELT/-G
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'first,': TPEUFRT KW-BG
-'growling.': TKPWROUL/-G TP-PL
+'first,': TPEUFRT/KW-BG
+'growling.': TKPWROUL/-G/TP-PL
 'They': KPA/THE
 'disputed': TKEUS/PAOUT/-D
 'about': PW
 'it': T
 'for': TPOR
 'a': AEU
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'but': PWUT
 'as': AS
 'they': THE
@@ -2218,25 +2218,25 @@ The Valiant Little Tailor
 'let': HRET
 'the': -T
 'matter': PHAERT
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'and': SKP
 'their': THAEUR
 'eyes': AO*EUS
 'closed': KHROEFD
 'once': WUPBS
-'more.': PHOR TP-PL
+'more.': PHOR/TP-PL
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
 'began': TKPWAPB
 'his': HEUS
 'game': TKPWAEUPL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'picked': PEUBGD
 'out': OUT
 'the': -T
 'biggest': PWEUG/EFT
-'stone,': STOEPB KW-BG
+'stone,': STOEPB/KW-BG
 'and': SKP
 'threw': THRAOU
 'it': T
@@ -2250,19 +2250,19 @@ The Valiant Little Tailor
 'of': -F
 'the': -T
 'first': TPEUFRT
-'giant.': SKWRAOEUPBT TP-PL
-''That': AE KPA/THA
+'giant.': SKWRAOEUPBT/TP-PL
+''That': AE/KPA/THA
 'is': S
 'too': TAO
-'bad!'': PWAD SKHRAPL AE
+'bad!'': PWAD/SKHRAPL/AE
 'cried': KRAOEUD
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'and': SKP
 'sprang': SPRAPBG
 'up': UP
 'like': HRAOEUBG
 'a': AEU
-'madman,': PHAD/PHAPB KW-BG
+'madman,': PHAD/PHAPB/KW-BG
 'and': SKP
 'pushed': PURBD
 'his': HEUS
@@ -2272,7 +2272,7 @@ The Valiant Little Tailor
 'tree': TRAOE
 'until': TPH-L
 'it': T
-'shook.': SHAOBG TP-PL
+'shook.': SHAOBG/TP-PL
 'The': KPA/-T
 'other': OER
 'paid': PAEUD
@@ -2281,7 +2281,7 @@ The Valiant Little Tailor
 'in': TPH
 'the': -T
 'same': SAEUPL
-'coin,': KOEUPB KW-BG
+'coin,': KOEUPB/KW-BG
 'and': SKP
 'they': THE
 'got': TKPWOT
@@ -2299,7 +2299,7 @@ The Valiant Little Tailor
 'each': AOEFP
 'other': OER
 'so': SO
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'that': THA
 'at': AT
 'last': HRAFT
@@ -2314,21 +2314,21 @@ The Valiant Little Tailor
 'at': AT
 'the': -T
 'same': SAEUPL
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'little': HREUL
 'tailor': TAEURL
 'leapt': HREPT
-'down.': TKOUPB TP-PL
-''It': AE KPA/T
+'down.': TKOUPB/TP-PL
+''It': AE/KPA/T
 'is': S
 'a': AEU
 'lucky': HROEUBG
-'thing,'': THEUPBG KW-BG AE
+'thing,'': THEUPBG/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''that': AE THA
+'he,': HE/KW-BG
+''that': AE/THA
 'they': THE
 'did': TK
 'not': TPHOT
@@ -2340,7 +2340,7 @@ The Valiant Little Tailor
 'which': WEU
 'I': EU
 'was': WAS
-'sitting,': SEUGT KW-BG
+'sitting,': SEUGT/KW-BG
 'or': OR
 'I': EU
 'should': SHO
@@ -2353,12 +2353,12 @@ The Valiant Little Tailor
 'another': TPHOER
 'like': HRAOEUBG
 'a': AEU
-'squirrel;': SKWEURL STPH*FPLT
+'squirrel;': SKWEURL/STPH*FPLT
 'but': PWUT
 'we': WE
 'tailors': TAEUL/O*RS
 'are': R
-'nimble.'': TPHEUPL/*L TP-PL AE
+'nimble.'': TPHEUPL/*L/TP-PL/AE
 'He': KPA/HE
 'drew': TKRAOU
 'out': OUT
@@ -2375,7 +2375,7 @@ The Valiant Little Tailor
 'thrusts': THRUFT/-S
 'in': TPH
 'the': -T
-'breast,': PWREFT KW-BG
+'breast,': PWREFT/KW-BG
 'and': SKP
 'then': THEPB
 'went': WEPBT
@@ -2384,23 +2384,23 @@ The Valiant Little Tailor
 'the': -T
 'horsemen': HORS/PH*EPB
 'and': SKP
-'said:': SED STPH-FPLT
-''The': AE KPA/-T
+'said:': SED/STPH-FPLT
+''The': AE/KPA/-T
 'work': WORBG
 'is': S
-'done;': TKOPB STPH*FPLT
+'done;': TKOPB/STPH*FPLT
 'I': EU
 'have': SR
 'finished': TP*EURBD
 'both': PWO*T
 'of': -F
 'them': THEPL
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'hard': HARD
-'work!': WORBG SKHRAPL
+'work!': WORBG/SKHRAPL
 'They': KPA/THE
 'tore': TO*R
 'up': UP
@@ -2408,12 +2408,12 @@ The Valiant Little Tailor
 'in': TPH
 'their': THAEUR
 'sore': SOR
-'need,': TPHAOED KW-BG
+'need,': TPHAOED/KW-BG
 'and': SKP
 'defended': TKAOE/TPEPBD/-D
 'themselves': TH*EPLS
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'but': PWUT
 'all': AUL
 'that': THA
@@ -2426,51 +2426,51 @@ The Valiant Little Tailor
 'man': PHAPB
 'like': HRAOEUBG
 'myself': PHAO*EUS
-'comes,': KOPLS KW-BG
+'comes,': KOPLS/KW-BG
 'who': WHO
 'can': K
 'kill': KEUL
 'seven': SEFPB
 'at': AT
 'one': WUPB
-'blow.'': PWHROE TP-PL AE
-''But': AE KPA/PWUT
+'blow.'': PWHROE/TP-PL/AE
+''But': AE/KPA/PWUT
 'are': R
 'you': U
 'not': TPHOT
-'wounded?'': WOUPBD/-D H-F AE
+'wounded?'': WOUPBD/-D/H-F/AE
 'asked': SK-D
 'the': -T
-'horsemen.': HORS/PH*EPB TP-PL
-''You': AE KPA/U
+'horsemen.': HORS/PH*EPB/TP-PL
+''You': AE/KPA/U
 'need': TPHAOED
 'not': TPHOT
 'concern': K-RPB
 'yourself': KWRO*URS
 'about': PW
-'that,'': THA KW-BG AE
+'that,'': THA/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'tailor,': TAEURL KW-BG
-''they': AE THE
+'tailor,': TAEURL/KW-BG
+''they': AE/THE
 'have': SR
 'not': TPHOT
 'bent': PWEPBT
 'one': WUPB
 'hair': HAEUR
 'of': -F
-'mine.'': PHAOEUPB TP-PL AE
+'mine.'': PHAOEUPB/TP-PL/AE
 'The': KPA/-T
 'horsemen': HORS/PH*EPB
 'would': WO
 'not': TPHOT
 'believe': PWHREF
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'rode': ROED
 'into': TPHAO
 'the': -T
-'forest;': TPOEFRT STPH*FPLT
+'forest;': TPOEFRT/STPH*FPLT
 'there': THR
 'they': THE
 'found': TPOUPBD
@@ -2479,15 +2479,15 @@ The Valiant Little Tailor
 'swimming': SWEUPLG
 'in': TPH
 'their': THAEUR
-'blood,': PWHRAOD KW-BG
+'blood,': PWHRAOD/KW-BG
 'and': SKP
 'all': AUL
 'round': ROUPBD
 'about': PW
 'lay': HRAEU
 'the': -T
-'torn-up': TORPB SKWR*UP
-'trees.': TRAOES TP-PL
+'torn-up': TORPB/SKWR*UP
+'trees.': TRAOES/TP-PL
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
@@ -2497,13 +2497,13 @@ The Valiant Little Tailor
 'king': KEUPBG
 'the': -T
 'promised': PROPLS/-D
-'reward;': RE/WARD STPH*FPLT
-'he,': HE KW-BG
-'however,': HOUF KW-BG
+'reward;': RE/WARD/STPH*FPLT
+'he,': HE/KW-BG
+'however,': HOUF/KW-BG
 'repented': RE/PEPBT/-D
 'of': -F
 'his': HEUS
-'promise,': PROPLS KW-BG
+'promise,': PROPLS/KW-BG
 'and': SKP
 'again': TKPWEPB
 'bethought': PWE/THAUT
@@ -2515,29 +2515,29 @@ The Valiant Little Tailor
 'rid': REUD
 'of': -F
 'the': -T
-'hero.': HOEUR TP-PL
-''Before': AE KPA/PW-FR
+'hero.': HOEUR/TP-PL
+''Before': AE/KPA/PW-FR
 'you': U
 'receive': SAOEF
 'my': PHEU
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'the': -T
 'half': HAF
 'of': -F
 'my': PHEU
-'kingdom,'': KEUPBG/TKOPL KW-BG AE
+'kingdom,'': KEUPBG/TKOPL/KW-BG/AE
 'said': SED
 'he': HE
 'to': TO
-'him,': HEUPL KW-BG
-''you': AE U
+'him,': HEUPL/KW-BG
+''you': AE/U
 'must': PHUFT
 'perform': PORPL
 'one': WUPB
 'more': PHOR
 'heroic': HOEURBG
-'deed.': TKAOED TP-PL
+'deed.': TKAOED/TP-PL
 'In': KPA/TPH
 'the': -T
 'forest': TPOEFRT
@@ -2547,14 +2547,14 @@ The Valiant Little Tailor
 'which': WEU
 'does': TKOS
 'great': TKPWRAET
-'harm,': HARPL KW-BG
+'harm,': HARPL/KW-BG
 'and': SKP
 'you': U
 'must': PHUFT
 'catch': KAFP
 'it': T
-'first.'': TPEUFRT TP-PL AE
-''I': AE EU
+'first.'': TPEUFRT/TP-PL/AE
+''I': AE/EU
 'fear': TPAOER
 'one': WUPB
 'unicorn': AOUPB/KORPB
@@ -2562,16 +2562,16 @@ The Valiant Little Tailor
 'less': HRES
 'than': THAPB
 'two': TWO
-'giants.': SKWRAOEUPBT/-S TP-PL
+'giants.': SKWRAOEUPBT/-S/TP-PL
 'Seven': KPA/SEFPB
 'at': AT
 'one': WUPB
-'blow,': PWHROE KW-BG
+'blow,': PWHROE/KW-BG
 'is': S
 'my': PHEU
 'kind': KEUPBD
 'of': -F
-'affair.'': A/TPAEUR TP-PL AE
+'affair.'': A/TPAEUR/TP-PL/AE
 'He': KPA/HE
 'took': TAOBG
 'a': AEU
@@ -2580,12 +2580,12 @@ The Valiant Little Tailor
 'an': APB
 'axe': ABGS
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'went': WEPBT
 'forth': TPO*RT
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'again': TKPWEPB
 'bade': PWAEUD
@@ -2597,25 +2597,25 @@ The Valiant Little Tailor
 'him': HEUPL
 'to': TO
 'wait': WAEUT
-'outside.': OUDZ TP-PL
+'outside.': OUDZ/TP-PL
 'He': KPA/HE
 'had': H
 'not': TPHOT
 'long': HROPBG
 'to': TO
-'seek.': SAOEBG TP-PL
+'seek.': SAOEBG/TP-PL
 'The': KPA/-T
 'unicorn': AOUPB/KORPB
 'soon': SAOPB
 'came': KAEUPL
 'towards': TORDZ
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'rushed': RURBD
 'directly': TKREL
 'on': OPB
 'the': -T
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'as': AS
 'if': TP
 'it': T
@@ -2627,9 +2627,9 @@ The Valiant Little Tailor
 'horn': HORPB
 'without': WOUT
 'more': PHOR
-'ado.': A/TKO TP-PL
-''Softly,': AE KPA/SOFT/HREU KW-BG
-'softly;': SOFT/HREU STPH*FPLT
+'ado.': A/TKO/TP-PL
+''Softly,': AE/KPA/SOFT/HREU/KW-BG
+'softly;': SOFT/HREU/STPH*FPLT
 'it': T
 'can't': K-PBT
 'be': -B
@@ -2637,9 +2637,9 @@ The Valiant Little Tailor
 'as': AS
 'quickly': KWEULG
 'as': AS
-'that,'': THA KW-BG AE
+'that,'': THA/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'and': SKP
 'stood': STAOD
 'still': STEUL
@@ -2650,14 +2650,14 @@ The Valiant Little Tailor
 'animal': PHAPBL
 'was': WAS
 'quite': KWAOEUT
-'close,': KHROES KW-BG
+'close,': KHROES/KW-BG
 'and': SKP
 'then': THEPB
 'sprang': SPRAPBG
 'nimbly': TPHEUPL/PWHREU
 'behind': HEUPBD
 'the': -T
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'The': KPA/-T
 'unicorn': AOUPB/KORPB
 'ran': RAPB
@@ -2667,7 +2667,7 @@ The Valiant Little Tailor
 'with': W
 'all': AUL
 'its': EUTS
-'strength,': STREPBG KW-BG
+'strength,': STREPBG/KW-BG
 'and': SKP
 'stuck': STUBG
 'its': EUTS
@@ -2688,21 +2688,21 @@ The Valiant Little Tailor
 'draw': TKRAU
 'it': T
 'out': OUT
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'thus': THUS
 'it': T
 'was': WAS
-'caught.': KAUT TP-PL
-''Now,': AE KPA/TPHOU KW-BG
+'caught.': KAUT/TP-PL
+''Now,': AE/KPA/TPHOU/KW-BG
 'I': EU
 'have': SR
 'got': TKPWOT
 'the': -T
-'bird,'': PWEURD KW-BG AE
+'bird,'': PWEURD/KW-BG/AE
 'said': SED
 'the': -T
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'and': SKP
 'came': KAEUPL
 'out': OUT
@@ -2716,7 +2716,7 @@ The Valiant Little Tailor
 'rope': ROEP
 'round': ROUPBD
 'its': EUTS
-'neck,': TPHEBG KW-BG
+'neck,': TPHEBG/KW-BG
 'and': SKP
 'then': THEPB
 'with': W
@@ -2729,7 +2729,7 @@ The Valiant Little Tailor
 'out': OUT
 'of': -F
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'when': WHEPB
 'all': AUL
@@ -2745,7 +2745,7 @@ The Valiant Little Tailor
 'it': T
 'to': TO
 'the': -T
-'king.': KEUPBG TP-PL
+'king.': KEUPBG/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'still': STEUL
@@ -2755,12 +2755,12 @@ The Valiant Little Tailor
 'him': HEUPL
 'the': -T
 'promised': PROPLS/-D
-'reward,': RE/WARD KW-BG
+'reward,': RE/WARD/KW-BG
 'and': SKP
 'made': PHAED
 'a': AEU
 'third': THEURD
-'demand.': TKPHAPBD TP-PL
+'demand.': TKPHAPBD/TP-PL
 'Before': KPA/PW-FR
 'the': -T
 'wedding': WEGD
@@ -2779,7 +2779,7 @@ The Valiant Little Tailor
 'havoc': HAFBG
 'in': TPH
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'the': -T
 'huntsmen': HUPBTS/PH*EPB
@@ -2787,15 +2787,15 @@ The Valiant Little Tailor
 'give': TKPWEUF
 'him': HEUPL
 'their': THAEUR
-'help.': HEP TP-PL
-''Willingly,'': AE KPA/HR-G/HREU KW-BG AE
+'help.': HEP/TP-PL
+''Willingly,'': AE/KPA/HR-G/HREU/KW-BG/AE
 'said': SED
 'the': -T
-'tailor,': TAEURL KW-BG
-''that': AE THA
+'tailor,': TAEURL/KW-BG
+''that': AE/THA
 'is': S
 'child's': KHAOEULD/AES
-'play!'': PHRAEU SKHRAPL AE
+'play!'': PHRAEU/SKHRAPL/AE
 'He': KPA/HE
 'did': TK
 'not': TPHOT
@@ -2806,7 +2806,7 @@ The Valiant Little Tailor
 'him': HEUPL
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'they': THE
 'were': WR
@@ -2815,7 +2815,7 @@ The Valiant Little Tailor
 'that': THA
 'he': HE
 'did': TK
-'not,': TPHOT KW-BG
+'not,': TPHOT/KW-BG
 'for': TPOR
 'the': -T
 'wild': WAOEULD
@@ -2839,13 +2839,13 @@ The Valiant Little Tailor
 'in': TPH
 'wait': WAEUT
 'for': TPOR
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'boar': PWO*R
 'perceived': SPAOEFD
 'the': -T
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'it': T
 'ran': RAPB
 'on': OPB
@@ -2855,7 +2855,7 @@ The Valiant Little Tailor
 'mouth': PHO*UT
 'and': SKP
 'whetted': WHET/-D
-'tusks,': TUS/-BGS KW-BG
+'tusks,': TUS/-BGS/KW-BG
 'and': SKP
 'was': WAS
 'about': PW
@@ -2864,7 +2864,7 @@ The Valiant Little Tailor
 'him': HEUPL
 'to': TO
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'but': PWUT
 'the': -T
 'hero': HOEUR
@@ -2883,18 +2883,18 @@ The Valiant Little Tailor
 'the': -T
 'window': WOEUPBD
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'and': SKP
 'in': TPH
 'one': WUPB
 'bound': PWOUPBD
 'out': OUT
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'The': KPA/-T
 'boar': PWO*R
 'ran': RAPB
 'after': AF
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'the': -T
 'tailor': TAEURL
@@ -2906,12 +2906,12 @@ The Valiant Little Tailor
 'the': -T
 'door': TKAOR
 'behind': HEUPBD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'then': THEPB
 'the': -T
 'raging': RAG/-G
-'beast,': PWAOEFT KW-BG
+'beast,': PWAOEFT/KW-BG
 'which': WEU
 'was': WAS
 'much': PHUFP
@@ -2924,9 +2924,9 @@ The Valiant Little Tailor
 'out': OUT
 'of': -F
 'the': -T
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'was': WAS
-'caught.': KAUT TP-PL
+'caught.': KAUT/TP-PL
 'The': KPA/-T
 'little': HREUL
 'tailor': TAEURL
@@ -2943,28 +2943,28 @@ The Valiant Little Tailor
 'with': W
 'their': THAEUR
 'own': OEPB
-'eyes.': AO*EUS TP-PL
+'eyes.': AO*EUS/TP-PL
 'The': KPA/-T
-'hero,': HOEUR KW-BG
-'however,': HOUF KW-BG
+'hero,': HOEUR/KW-BG
+'however,': HOUF/KW-BG
 'went': WEPBT
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'who': WHO
 'was': WAS
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'whether': WHR
 'he': HE
 'liked': HRAOEUBGD
 'it': T
 'or': OR
-'not,': TPHOT KW-BG
+'not,': TPHOT/KW-BG
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'keep': KAOEP
 'his': HEUS
-'promise,': PROPLS KW-BG
+'promise,': PROPLS/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'his': HEUS
@@ -2974,7 +2974,7 @@ The Valiant Little Tailor
 'half': HAF
 'of': -F
 'his': HEUS
-'kingdom.': KEUPBG/TKOPL TP-PL
+'kingdom.': KEUPBG/TKOPL/TP-PL
 'Had': KPA/H
 'he': HE
 'known': TPHOEPB
@@ -2983,7 +2983,7 @@ The Valiant Little Tailor
 'was': WAS
 'no': TPHO
 'warlike': WAR/SKWRAOEUBG
-'hero,': HOEUR KW-BG
+'hero,': HOEUR/KW-BG
 'but': PWUT
 'a': AEU
 'little': HREUL
@@ -2992,7 +2992,7 @@ The Valiant Little Tailor
 'was': WAS
 'standing': STAPBG
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'it': T
 'would': WO
 'have': SR
@@ -3004,7 +3004,7 @@ The Valiant Little Tailor
 'more': PHOR
 'than': THAPB
 'it': T
-'did.': TK TP-PL
+'did.': TK/TP-PL
 'The': KPA/-T
 'wedding': WEGD
 'was': WAS
@@ -3014,7 +3014,7 @@ The Valiant Little Tailor
 'magnificence': PHAFPBS
 'and': SKP
 'small': SPHAL
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
@@ -3023,7 +3023,7 @@ The Valiant Little Tailor
 'a': AEU
 'king': KEUPBG
 'was': WAS
-'made.': PHAED TP-PL
+'made.': PHAED/TP-PL
 'After': KPA/AF
 'some': SOPL
 'time': TAOEUPL
@@ -3038,26 +3038,26 @@ The Valiant Little Tailor
 'his': HEUS
 'dreams': TKRAOEPLS
 'at': AT
-'night:': TPHAOEUT STPH-FPLT
-''Boy,': AE KPA/PWOEU KW-BG
+'night:': TPHAOEUT/STPH-FPLT
+''Boy,': AE/KPA/PWOEU/KW-BG
 'make': PHAEUBG
 'me': PHE
 'the': -T
-'doublet,': TKUBL/ET KW-BG
+'doublet,': TKUBL/ET/KW-BG
 'and': SKP
 'patch': PAFP
 'the': -T
-'pantaloons,': xxx pantaloons KW-BG
+'pantaloons,': xxx pantaloons/KW-BG
 'or': OR
 'else': ELS
 'I': EU
 'will': HR
 'rap': RAP
 'the': -T
-'yard-measure': KWRARD H-PB PH*ERB
+'yard-measure': KWRARD/H-PB/PH*ERB
 'over': OEFR
 'your': KWROUR
-'ears.'': AOERS TP-PL AE
+'ears.'': AOERS/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'discovered': SKOFD
@@ -3071,7 +3071,7 @@ The Valiant Little Tailor
 'lord': HRORD
 'had': H
 'been': PW-PB
-'born,': PWORPB KW-BG
+'born,': PWORPB/KW-BG
 'and': SKP
 'next': TPHEGT
 'morning': PHORPBG
@@ -3081,7 +3081,7 @@ The Valiant Little Tailor
 'wrongs': WROPBGS
 'to': TO
 'her': HER
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'begged': PWEGD
 'him': HEUPL
@@ -3093,33 +3093,33 @@ The Valiant Little Tailor
 'rid': REUD
 'of': -F
 'her': HER
-'husband,': HUS KW-BG
+'husband,': HUS/KW-BG
 'who': WHO
 'was': WAS
 'nothing': TPHOG
 'else': ELS
 'but': PWUT
 'a': AEU
-'tailor.': TAEURL TP-PL
+'tailor.': TAEURL/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'comforted': K-FRTD
 'her': HER
 'and': SKP
-'said:': SED STPH-FPLT
-''Leave': AE KPA/HREF
+'said:': SED/STPH-FPLT
+''Leave': AE/KPA/HREF
 'your': KWROUR
 'bedroom': PW-PL
 'door': TKAOR
 'open': OEP
 'this': TH
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'my': PHEU
 'servants': SER/SRAPBTS
 'shall': SHAL
 'stand': STAPBD
-'outside,': OUDZ KW-BG
+'outside,': OUDZ/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -3128,9 +3128,9 @@ The Valiant Little Tailor
 'asleep': A/SHRAOEP
 'shall': SHAL
 'go': TKPW
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'bind': PWAOEUPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'take': TAEUBG
 'him': HEUPL
@@ -3145,45 +3145,45 @@ The Valiant Little Tailor
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world.'': WORLD TP-PL AE
+'world.'': WORLD/TP-PL/AE
 'The': KPA/-T
 'woman': WOPL
 'was': WAS
 'satisfied': SAED
 'with': W
-'this;': TH STPH*FPLT
+'this;': TH/STPH*FPLT
 'but': PWUT
 'the': -T
 'king's': KEUPBG/AES
-'armour-bearer,': AR/PHOUR H-PB PWAER/*ER KW-BG
+'armour-bearer,': AR/PHOUR/H-PB/PWAER/*ER/KW-BG
 'who': WHO
 'had': H
 'heard': HAERD
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'was': WAS
 'friendly': TPREPBLD
 'with': W
 'the': -T
 'young': KWRUPBG
-'lord,': HRORD KW-BG
+'lord,': HRORD/KW-BG
 'and': SKP
 'informed': TPH-FD
 'him': HEUPL
 'of': -F
 'the': -T
 'whole': WHOEL
-'plot.': PHROT TP-PL
-''I'll': AE EU AE HR*/HR*
+'plot.': PHROT/TP-PL
+''I'll': AE/EU/AE/HR*/HR*
 'put': PUT
 'a': AEU
 'screw': SKRAOU
 'into': TPHAO
 'that': THA
-'business,'': PWEUS KW-BG AE
+'business,'': PWEUS/KW-BG/AE
 'said': SED
 'the': -T
 'little': HREUL
-'tailor.': TAEURL TP-PL
+'tailor.': TAEURL/TP-PL
 'At': KPA/AT
 'night': TPHAOEUT
 'he': HE
@@ -3196,7 +3196,7 @@ The Valiant Little Tailor
 'at': AT
 'the': -T
 'usual': AOURB
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -3205,28 +3205,28 @@ The Valiant Little Tailor
 'he': HE
 'had': H
 'fallen': TPAUL/-PB
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'she': SHE
 'got': TKPWOT
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'opened': OEPD
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'then': THEPB
 'lay': HRAEU
 'down': TKOUPB
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'The': KPA/-T
 'little': HREUL
-'tailor,': TAEURL KW-BG
+'tailor,': TAEURL/KW-BG
 'who': WHO
 'was': WAS
 'only': OEPBL
 'pretending': PRE/TEPBD/-G
 'to': TO
 'be': -B
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'began': TKPWAPB
 'to': TO
 'cry': KRAOEU
@@ -3234,8 +3234,8 @@ The Valiant Little Tailor
 'in': TPH
 'a': AEU
 'clear': KHRAOER
-'voice:': SROEUS STPH-FPLT
-''Boy,': AE KPA/PWOEU KW-BG
+'voice:': SROEUS/STPH-FPLT
+''Boy,': AE/KPA/PWOEU/KW-BG
 'make': PHAEUBG
 'me': PHE
 'the': -T
@@ -3244,36 +3244,36 @@ The Valiant Little Tailor
 'patch': PAFP
 'me': PHE
 'the': -T
-'pantaloons,': xxx pantaloons KW-BG
+'pantaloons,': xxx pantaloons/KW-BG
 'or': OR
 'I': EU
 'will': HR
 'rap': RAP
 'the': -T
-'yard-measure': KWRARD H-PB PH*ERB
+'yard-measure': KWRARD/H-PB/PH*ERB
 'over': OEFR
 'your': KWROUR
-'ears.': AOERS TP-PL
+'ears.': AOERS/TP-PL
 'I': EU
 'smote': SPHOET
 'seven': SEFPB
 'at': AT
 'one': WUPB
-'blow.': PWHROE TP-PL
+'blow.': PWHROE/TP-PL
 'I': EU
 'killed': KEULD
 'two': TWO
-'giants,': SKWRAOEUPBT/-S KW-BG
+'giants,': SKWRAOEUPBT/-S/KW-BG
 'I': EU
 'brought': PWRAUT
 'away': WA*EU
 'one': WUPB
-'unicorn,': AOUPB/KORPB KW-BG
+'unicorn,': AOUPB/KORPB/KW-BG
 'and': SKP
 'caught': KAUT
 'a': AEU
 'wild': WAOEULD
-'boar,': PWO*R KW-BG
+'boar,': PWO*R/KW-BG
 'and': SKP
 'am': APL
 'I': EU
@@ -3285,7 +3285,7 @@ The Valiant Little Tailor
 'standing': STAPBG
 'outside': OUDZ
 'the': -T
-'room.'': RAOPL TP-PL AE
+'room.'': RAOPL/TP-PL/AE
 'When': KPA/WHEPB
 'these': THEZ
 'men': PHEPB
@@ -3293,14 +3293,14 @@ The Valiant Little Tailor
 'the': -T
 'tailor': TAEURL
 'speaking': SPAOEG
-'thus,': THUS KW-BG
+'thus,': THUS/KW-BG
 'they': THE
 'were': WR
 'overcome': AUFR/KOPL
 'by': PWEU
 'a': AEU
 'great': TKPWRAET
-'dread,': TKRED KW-BG
+'dread,': TKRED/KW-BG
 'and': SKP
 'ran': RAPB
 'as': AS
@@ -3310,7 +3310,7 @@ The Valiant Little Tailor
 'huntsman': HUPBTS/PHA*PB
 'were': WR
 'behind': HEUPBD
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'none': TPHOPB
 'of': -F
@@ -3320,7 +3320,7 @@ The Valiant Little Tailor
 'anything': TPHEUG
 'further': TPURT
 'against': TKPWEPBS
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'So': KPA/SO
 'the': -T
 'little': HREUL
@@ -3335,4 +3335,4 @@ The Valiant Little Tailor
 'end': EPBD
 'of': -F
 'his': HEUS
-'life.': HRAOEUF TP-PL
+'life.': HRAOEUF/TP-PL

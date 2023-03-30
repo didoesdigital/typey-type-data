@@ -7,7 +7,7 @@ Ashputtel
 'rich': REUFP
 'man': PHAPB
 'fell': TPEL
-'sick;': SEUBG STPH*FPLT
+'sick;': SEUBG/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -16,7 +16,7 @@ Ashputtel
 'her': HER
 'end': EPBD
 'drew': TKRAOU
-'nigh,': TPHAOEU KW-BG
+'nigh,': TPHAOEU/KW-BG
 'she': SHE
 'called': KAULD
 'her': HER
@@ -24,14 +24,14 @@ Ashputtel
 'daughter': TKAUR
 'to': TO
 'her': HER
-'bed-side,': PWED H-PB SAOEUD KW-BG
+'bed-side,': PWED/H-PB/SAOEUD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Always': AE KPA/AULS
+'said,': SED/KW-BG
+''Always': AE/KPA/AULS
 'be': -B
 'a': AEU
 'good': TKPWAOD
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'and': SKP
 'I': EU
 'will': HR
@@ -42,7 +42,7 @@ Ashputtel
 'and': SKP
 'watch': WAFP
 'over': OEFR
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Soon': KPA/SAOPB
 'afterwards': A*FRDZ
 'she': SHE
@@ -50,13 +50,13 @@ Ashputtel
 'her': HER
 'eyes': AO*EUS
 'and': SKP
-'died,': TKAOEUD KW-BG
+'died,': TKAOEUD/KW-BG
 'and': SKP
 'was': WAS
 'buried': PWUR/EUD
 'in': TPH
 'the': -T
-'garden;': TKPWA*RPB STPH*FPLT
+'garden;': TKPWA*RPB/STPH*FPLT
 'and': SKP
 'the': -T
 'little': HREUL
@@ -68,7 +68,7 @@ Ashputtel
 'her': HER
 'grave': TKPWRAEUF
 'and': SKP
-'wept,': WEPT KW-BG
+'wept,': WEPT/KW-BG
 'and': SKP
 'was': WAS
 'always': AULS
@@ -78,7 +78,7 @@ Ashputtel
 'to': TO
 'all': AUL
 'about': PW
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'And': AFPBD
 'the': -T
 'snow': STPHOE
@@ -91,14 +91,14 @@ Ashputtel
 'covering': KOFRG
 'over': OEFR
 'the': -T
-'grave;': TKPWRAEUF STPH*FPLT
+'grave;': TKPWRAEUF/STPH*FPLT
 'but': PWUT
 'by': PWEU
 'the': -T
 'time': TAOEUPL
 'the': -T
 'spring': SPREUPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'the': -T
 'sun': SUPB
@@ -106,13 +106,13 @@ Ashputtel
 'melted': PHELT/-D
 'it': T
 'away': WA*EU
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'her': HER
 'father': TPAER
 'had': H
 'married': PHAERD
 'another': TPHOER
-'wife.': WAOEUF TP-PL
+'wife.': WAOEUF/TP-PL
 'This': KPA/TH
 'new': TPHU
 'wife': WAOEUF
@@ -121,13 +121,13 @@ Ashputtel
 'daughters': TKAURS
 'of': -F
 'her': HER
-'own,': OEPB KW-BG
+'own,': OEPB/KW-BG
 'that': THA
 'she': SHE
 'brought': PWRAUT
 'home': HOEPL
 'with': W
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'they': THE
 'were': WR
 'fair': TPAEUR
@@ -136,7 +136,7 @@ Ashputtel
 'but': PWUT
 'foul': TPOUL
 'at': AT
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -148,18 +148,18 @@ Ashputtel
 'the': -T
 'poor': PAOR
 'little': HREUL
-'girl.': TKPWEURL TP-PL
-''What': AE KPA/WHA
+'girl.': TKPWEURL/TP-PL
+''What': AE/KPA/WHA
 'does': TKOS
 'the': -T
-'good-for-nothing': TKPWAOD H-PB TPOR H-PB TPHOG
+'good-for-nothing': TKPWAOD/H-PB/TPOR/H-PB/TPHOG
 'want': WAPBT
 'in': TPH
 'the': -T
-'parlour?'': PAR/HROR/A*U H-F AE
+'parlour?'': PAR/HROR/A*U/H-F/AE
 'said': SED
-'they;': THE STPH*FPLT
-''they': AE THE
+'they;': THE/STPH*FPLT
+''they': AE/THE
 'who': WHO
 'would': WO
 'eat': AOET
@@ -167,18 +167,18 @@ Ashputtel
 'should': SHO
 'first': TPEUFRT
 'earn': ERPB
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'away': WA*EU
 'with': W
 'the': -T
-'kitchen-maid!'': K-FP H-PB PHAEUD SKHRAPL AE
+'kitchen-maid!'': K-FP/H-PB/PHAEUD/SKHRAPL/AE
 'Then': KPA/THEPB
 'they': THE
 'took': TAOBG
 'away': WA*EU
 'her': HER
 'fine': TPAOEUPB
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'her': HER
@@ -188,17 +188,17 @@ Ashputtel
 'frock': TPROBG
 'to': TO
 'put': PUT
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'laughed': HRAFD
 'at': AT
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'turned': TURPBD
 'her': HER
 'into': TPHAO
 'the': -T
-'kitchen.': K-FP TP-PL
+'kitchen.': K-FP/TP-PL
 'There': KPA/THR
 'she': SHE
 'was': WAS
@@ -206,27 +206,27 @@ Ashputtel
 'to': TO
 'do': TKO
 'hard': HARD
-'work;': WORBG STPH*FPLT
+'work;': WORBG/STPH*FPLT
 'to': TO
 'rise': RAOEUZ
 'early': ERL
 'before': PW-FR
-'daylight,': TKAEULT KW-BG
+'daylight,': TKAEULT/KW-BG
 'to': TO
 'bring': PWREU
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'to': TO
 'make': PHAEUBG
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'to': TO
 'cook': KAOBG
 'and': SKP
 'to': TO
-'wash.': WARB TP-PL
+'wash.': WARB/TP-PL
 'Besides': KPA/PW-DZ
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'the': -T
 'sisters': ST-RS
 'plagued': PHRAEUG/-D
@@ -235,18 +235,18 @@ Ashputtel
 'all': AUL
 'sorts': SORTS
 'of': -F
-'ways,': WAEUS KW-BG
+'ways,': WAEUS/KW-BG
 'and': SKP
 'laughed': HRAFD
 'at': AT
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'In': KPA/TPH
 'the': -T
 'evening': AOEPBG
 'when': WHEPB
 'she': SHE
 'was': WAS
-'tired,': TAOEURD KW-BG
+'tired,': TAOEURD/KW-BG
 'she': SHE
 'had': H
 'no': TPHO
@@ -254,7 +254,7 @@ Ashputtel
 'to': TO
 'lie': HRAOEU
 'down': TKOUPB
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'but': PWUT
 'was': WAS
 'made': PHAED
@@ -265,22 +265,22 @@ Ashputtel
 'hearth': HAERT
 'among': PHOPBG
 'the': -T
-'ashes;': ARBS STPH*FPLT
+'ashes;': ARBS/STPH*FPLT
 'and': SKP
 'as': AS
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'of': -F
-'course,': KORS KW-BG
+'course,': KORS/KW-BG
 'made': PHAED
 'her': HER
 'always': AULS
 'dusty': TKUS/TEU
 'and': SKP
-'dirty,': TKOEURT KW-BG
+'dirty,': TKOEURT/KW-BG
 'they': THE
 'called': KAULD
 'her': HER
-'Ashputtel.': xxx Ashputtel TP-PL
+'Ashputtel.': xxx Ashputtel/TP-PL
 'It': KPA/T
 'happened': HAPD
 'once': WUPBS
@@ -291,7 +291,7 @@ Ashputtel
 'going': TKPW-G
 'to': TO
 'the': -T
-'fair,': TPAEUR KW-BG
+'fair,': TPAEUR/KW-BG
 'and': SKP
 'asked': SK-D
 'his': HEUS
@@ -301,35 +301,35 @@ Ashputtel
 'he': HE
 'should': SHO
 'bring': PWREU
-'them.': THEPL TP-PL
-''Fine': AE TPAO*EUPB
-'clothes,'': KHRO*ETS KW-BG AE
+'them.': THEPL/TP-PL
+''Fine': AE/TPAO*EUPB
+'clothes,'': KHRO*ETS/KW-BG/AE
 'said': SED
 'the': -T
-'first;': TPEUFRT STPH*FPLT
-''Pearls': AE KPA/PERLS
+'first;': TPEUFRT/STPH*FPLT
+''Pearls': AE/KPA/PERLS
 'and': SKP
-'diamonds,'': TKAOEUPLDZ KW-BG AE
+'diamonds,'': TKAOEUPLDZ/KW-BG/AE
 'cried': KRAOEUD
 'the': -T
-'second.': SEBGD TP-PL
-''Now,': AE KPA/TPHOU KW-BG
-'child,'': KHAOEULD KW-BG AE
+'second.': SEBGD/TP-PL
+''Now,': AE/KPA/TPHOU/KW-BG
+'child,'': KHAOEULD/KW-BG/AE
 'said': SED
 'he': HE
 'to': TO
 'his': HEUS
 'own': OEPB
-'daughter,': TKAUR KW-BG
-''what': AE WHA
+'daughter,': TKAUR/KW-BG
+''what': AE/WHA
 'will': HR
 'you': U
-'have?'': SR H-F AE
-''The': AE KPA/-T
+'have?'': SR/H-F/AE
+''The': AE/KPA/-T
 'first': TPEUFRT
-'twig,': TWEUG KW-BG
+'twig,': TWEUG/KW-BG
 'dear': TKAER
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'that': THA
 'brushes': PWRURBS
 'against': TKPWEPBS
@@ -342,9 +342,9 @@ Ashputtel
 'face': TPAEUS
 'to': TO
 'come': KOPL
-'homewards,'': HOEPL/WARDZ KW-BG AE
+'homewards,'': HOEPL/WARDZ/KW-BG/AE
 'said': SED
-'she.': SHE TP-PL
+'she.': SHE/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'bought': PWAUT
@@ -362,31 +362,31 @@ Ashputtel
 'they': THE
 'had': H
 'asked': SK-D
-'for:': TPOR STPH-FPLT
+'for:': TPOR/STPH-FPLT
 'and': SKP
 'on': OPB
 'his': HEUS
 'way': WAEU
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'as': AS
 'he': HE
 'rode': ROED
 'through': THRU
 'a': AEU
 'green': TKPWRAOEPB
-'copse,': KAU/P*/SP-S/-S/SKWR*E KW-BG
+'copse,': KAU/P*/SP-S/-S/SKWR*E/KW-BG
 'a': AEU
 'hazel': HAEUZ/EL
 'twig': TWEUG
 'brushed': PWRURBD
 'against': TKPWEPBS
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'almost': HR-PL
 'pushed': PURBD
 'off': OF
 'his': HEUS
-'hat:': HAT STPH-FPLT
+'hat:': HAT/STPH-FPLT
 'so': SO
 'he': HE
 'broke': PWROEBG
@@ -395,7 +395,7 @@ Ashputtel
 'and': SKP
 'brought': PWRAUT
 'it': T
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -406,11 +406,11 @@ Ashputtel
 'it': T
 'to': TO
 'his': HEUS
-'daughter.': TKAUR TP-PL
+'daughter.': TKAUR/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'took': TAOBG
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
@@ -420,7 +420,7 @@ Ashputtel
 'and': SKP
 'planted': PHRAPBT/-D
 'it': T
-'there;': THR STPH*FPLT
+'there;': THR/STPH*FPLT
 'and': SKP
 'cried': KRAOEUD
 'so': SO
@@ -431,7 +431,7 @@ Ashputtel
 'watered': WAURD
 'with': W
 'her': HER
-'tears;': TAERS STPH*FPLT
+'tears;': TAERS/STPH*FPLT
 'and': SKP
 'there': THR
 'it': T
@@ -440,7 +440,7 @@ Ashputtel
 'became': PWAEUPL
 'a': AEU
 'fine': TPAOEUPB
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'Three': KPA/THRAOE
 'times': TAOEUPLS
 'every': EF
@@ -450,7 +450,7 @@ Ashputtel
 'to': TO
 'it': T
 'and': SKP
-'cried;': KRAOEUD STPH*FPLT
+'cried;': KRAOEUD/STPH*FPLT
 'and': SKP
 'soon': SAOPB
 'a': AEU
@@ -463,22 +463,22 @@ Ashputtel
 'nest': TPHEFT
 'upon': POPB
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'talked': TAUBGD
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'watched': WAFPD
 'over': OEFR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'brought': PWRAUT
 'her': HER
 'whatever': WHAF
 'she': SHE
 'wished': WEURBD
-'for.': TPOR TP-PL
+'for.': TPOR/TP-PL
 'Now': KPA/TPHOU
 'it': T
 'happened': HAPD
@@ -490,13 +490,13 @@ Ashputtel
 'land': HRAPBD
 'held': HELD
 'a': AEU
-'feast,': TPAOEFT KW-BG
+'feast,': TPAOEFT/KW-BG
 'which': WEU
 'was': WAS
 'to': TO
 'last': HRAFT
 'three': THRAOE
-'days;': TKAEUS STPH*FPLT
+'days;': TKAEUS/STPH*FPLT
 'and': SKP
 'out': OUT
 'of': -F
@@ -513,34 +513,34 @@ Ashputtel
 'a': AEU
 'bride': PWRAOEUD
 'for': TPOR
-'himself.': HEUPLS TP-PL
-'Ashputtel's': xxx Ashputtel AES
+'himself.': HEUPLS/TP-PL
+'Ashputtel's': xxx Ashputtel/AES
 'two': TWO
 'sisters': ST-RS
 'were': WR
 'asked': SK-D
 'to': TO
-'come;': KOPL STPH*FPLT
+'come;': KOPL/STPH*FPLT
 'so': SO
 'they': THE
 'called': KAULD
 'her': HER
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Now,': AE KPA/TPHOU KW-BG
+'said,': SED/KW-BG
+''Now,': AE/KPA/TPHOU/KW-BG
 'comb': KOEPL
 'our': OUR
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'brush': PWRURB
 'our': OUR
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'and': SKP
 'tie': TAOEU
 'our': OUR
 'sashes': SARB/-S
 'for': TPOR
-'us,': US KW-BG
+'us,': US/KW-BG
 'for': TPOR
 'we': WE
 'are': R
@@ -550,14 +550,14 @@ Ashputtel
 'at': AT
 'the': -T
 'king's': KEUPBG/AES
-'feast.'': TPAOEFT TP-PL AE
+'feast.'': TPAOEFT/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'did': TK
 'as': AS
 'she': SHE
 'was': WAS
-'told;': TOLD STPH*FPLT
+'told;': TOLD/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'all': AUL
@@ -567,12 +567,12 @@ Ashputtel
 'could': KO
 'not': TPHOT
 'help': HEP
-'crying,': KRAOEUG KW-BG
+'crying,': KRAOEUG/KW-BG
 'for': TPOR
 'she': SHE
 'thought': THAUT
 'to': TO
-'herself,': H*ERS KW-BG
+'herself,': H*ERS/KW-BG
 'she': SHE
 'should': SHO
 'so': SO
@@ -585,7 +585,7 @@ Ashputtel
 'them': THEPL
 'to': TO
 'the': -T
-'ball;': PWAUL STPH*FPLT
+'ball;': PWAUL/STPH*FPLT
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -598,48 +598,48 @@ Ashputtel
 'to': TO
 'let': HRET
 'her': HER
-'go.': TKPW TP-PL
-''You,': AE KPA/U KW-BG
-'Ashputtel!'': xxx Ashputtel SKHRAPL AE
+'go.': TKPW/TP-PL
+''You,': AE/KPA/U/KW-BG
+'Ashputtel!'': xxx Ashputtel/SKHRAPL/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''you': AE U
+'she;': SHE/STPH*FPLT
+''you': AE/U
 'who': WHO
 'have': SR
 'nothing': TPHOG
 'to': TO
-'wear,': WAER KW-BG
+'wear,': WAER/KW-BG
 'no': TPHO
 'clothes': KHRO*ETS
 'at': AT
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'who': WHO
 'cannot': SK-PBT
 'even': AOEPB
-'dance--you': TKAPBS H-PB H-PB U
+'dance--you': TKAPBS/H-PB/H-PB/U
 'want': WAPBT
 'to': TO
 'go': TKPW
 'to': TO
 'the': -T
-'ball?': PWAUL H-F
+'ball?': PWAUL/H-F
 'And': AFPBD
 'when': WHEPB
 'she': SHE
 'kept': KEPT
 'on': OPB
-'begging,': PWEG/-G KW-BG
+'begging,': PWEG/-G/KW-BG
 'she': SHE
 'said': SED
 'at': AT
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'to': TO
 'get': TKPWET
 'rid': REUD
 'of': -F
-'her,': HER KW-BG
-''I': AE EU
+'her,': HER/KW-BG
+''I': AE/EU
 'will': HR
 'throw': THROE
 'this': TH
@@ -648,26 +648,26 @@ Ashputtel
 'peas': PAOEZ
 'into': TPHAO
 'the': -T
-'ash-heap,': ARB H-PB HAOEP KW-BG
+'ash-heap,': ARB/H-PB/HAOEP/KW-BG
 'and': SKP
 'if': TP
 'in': TPH
 'two': TWO
-'hours'': HOURS AE
+'hours'': HOURS/AE
 'time': TAOEUPL
 'you': U
 'have': SR
 'picked': PEUBGD
 'them': THEPL
 'all': AUL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'you': U
 'shall': SHAL
 'go': TKPW
 'to': TO
 'the': -T
 'feast': TPAOEFT
-'too.'': TAO TP-PL AE
+'too.'': TAO/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'threw': THRAOU
@@ -676,7 +676,7 @@ Ashputtel
 'down': TKOUPB
 'among': PHOPBG
 'the': -T
-'ashes,': ARBS KW-BG
+'ashes,': ARBS/KW-BG
 'but': PWUT
 'the': -T
 'little': HREUL
@@ -689,57 +689,57 @@ Ashputtel
 'door': TKAOR
 'into': TPHAO
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'and': SKP
 'cried': KRAOEUD
-'out:': OUT STPH-FPLT
-''Hither,': AE KPA/H*EURT KW-BG
-'hither,': H*EURT KW-BG
+'out:': OUT/STPH-FPLT
+''Hither,': AE/KPA/H*EURT/KW-BG
+'hither,': H*EURT/KW-BG
 'through': THRU
 'the': -T
-'sky,': SKAOEU KW-BG
-'Turtle-doves': KPA/TURLT H-PB TKOFS
+'sky,': SKAOEU/KW-BG
+'Turtle-doves': KPA/TURLT/H-PB/TKOFS
 'and': SKP
-'linnets,': HREUPB/TPHET/-S KW-BG
-'fly!': TPHRAOEU SKHRAPL
-'Blackbird,': KPA/PWHRABG/PWEURD KW-BG
-'thrush,': THRURB KW-BG
+'linnets,': HREUPB/TPHET/-S/KW-BG
+'fly!': TPHRAOEU/SKHRAPL
+'Blackbird,': KPA/PWHRABG/PWEURD/KW-BG
+'thrush,': THRURB/KW-BG
 'and': SKP
 'chaffinch': KHAF/TK-LS/TPH-FP
-'gay,': TKPWAEU KW-BG
-'Hither,': KPA/H*EURT KW-BG
-'hither,': H*EURT KW-BG
+'gay,': TKPWAEU/KW-BG
+'Hither,': KPA/H*EURT/KW-BG
+'hither,': H*EURT/KW-BG
 'haste': HAEUFT
-'away!': WA*EU SKHRAPL
+'away!': WA*EU/SKHRAPL
 'One': KPA/WUPB
 'and': SKP
 'all': AUL
 'come': KOPL
 'help': HEP
-'me,': PHE KW-BG
-'quick!': KWEUBG SKHRAPL
+'me,': PHE/KW-BG
+'quick!': KWEUBG/SKHRAPL
 'Haste': KPA/HAEUFT
-'ye,': KWR*/*E KW-BG
+'ye,': KWR*/*E/KW-BG
 'haste': HAEUFT
-'ye!--pick,': KWR*/*E SKHRAPL H-PB H-PB PEUBG KW-BG
-'pick,': PEUBG KW-BG
-'pick!'': PEUBG SKHRAPL AE
+'ye!--pick,': KWR*/*E/SKHRAPL/H-PB/H-PB/PEUBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick!'': PEUBG/SKHRAPL/AE
 'Then': KPA/THEPB
 'first': TPEUFRT
 'came': KAEUPL
 'two': TWO
 'white': WHAOEUT
-'doves,': TKOFS KW-BG
+'doves,': TKOFS/KW-BG
 'flying': TPHRAOEUG
 'in': TPH
 'at': AT
 'the': -T
 'kitchen': K-FP
-'window;': WOEUPBD STPH*FPLT
+'window;': WOEUPBD/STPH*FPLT
 'next': TPHEGT
 'came': KAEUPL
 'two': TWO
-'turtle-doves;': TURLT H-PB TKOFS STPH*FPLT
+'turtle-doves;': TURLT/H-PB/TKOFS/STPH*FPLT
 'and': SKP
 'after': AF
 'them': THEPL
@@ -749,18 +749,18 @@ Ashputtel
 'little': HREUL
 'birds': PWEURDZ
 'under': TPH-PB
-'heaven,': HEFPB KW-BG
+'heaven,': HEFPB/KW-BG
 'chirping': KHEURP/-G
 'and': SKP
 'fluttering': TPHRUT/ERG
-'in:': TPH STPH-FPLT
+'in:': TPH/STPH-FPLT
 'and': SKP
 'they': THE
 'flew': TPHRAOU
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'ashes.': ARBS TP-PL
+'ashes.': ARBS/TP-PL
 'And': AFPBD
 'the': -T
 'little': HREUL
@@ -772,19 +772,19 @@ Ashputtel
 'and': SKP
 'set': SET
 'to': TO
-'work,': WORBG KW-BG
-'pick,': PEUBG KW-BG
-'pick,': PEUBG KW-BG
-'pick;': PEUBG STPH*FPLT
+'work,': WORBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick;': PEUBG/STPH*FPLT
 'and': SKP
 'then': THEPB
 'the': -T
 'others': OERS
 'began': TKPWAPB
 'to': TO
-'pick,': PEUBG KW-BG
-'pick,': PEUBG KW-BG
-'pick:': PEUBG STPH-FPLT
+'pick,': PEUBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick:': PEUBG/STPH-FPLT
 'and': SKP
 'among': PHOPBG
 'them': THEPL
@@ -796,7 +796,7 @@ Ashputtel
 'all': AUL
 'the': -T
 'good': TKPWAOD
-'grain,': TKPWRAEUPB KW-BG
+'grain,': TKPWRAEUPB/KW-BG
 'and': SKP
 'put': PUT
 'it': T
@@ -806,7 +806,7 @@ Ashputtel
 'but': PWUT
 'left': HREFT
 'the': -T
-'ashes.': ARBS TP-PL
+'ashes.': ARBS/TP-PL
 'Long': KPA/HROPBG
 'before': PW-FR
 'the': -T
@@ -818,7 +818,7 @@ Ashputtel
 'work': WORBG
 'was': WAS
 'quite': KWAOEUT
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'all': AUL
 'flew': TPHRAOU
@@ -826,7 +826,7 @@ Ashputtel
 'again': TKPWEPB
 'at': AT
 'the': -T
-'windows.': WOEUPBDZ TP-PL
+'windows.': WOEUPBDZ/TP-PL
 'Then': KPA/THEPB
 'Ashputtel': xxx Ashputtel
 'brought': PWRAUT
@@ -834,7 +834,7 @@ Ashputtel
 'dish': TKEURB
 'to': TO
 'her': HER
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'overjoyed': AUFR/SKWROEUD
 'at': AT
 'the': -T
@@ -846,26 +846,26 @@ Ashputtel
 'go': TKPW
 'to': TO
 'the': -T
-'ball.': PWAUL TP-PL
+'ball.': PWAUL/TP-PL
 'But': KPA/PWUT
 'the': -T
 'mother': PHOER
-'said,': SED KW-BG
-''No,': AE KPA/TPHO KW-BG
-'no!': TPHO SKHRAPL
+'said,': SED/KW-BG
+''No,': AE/KPA/TPHO/KW-BG
+'no!': TPHO/SKHRAPL
 'you': U
-'slut,': SHRUT KW-BG
+'slut,': SHRUT/KW-BG
 'you': U
 'have': SR
 'no': TPHO
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'cannot': SK-PBT
-'dance;': TKAPBS STPH*FPLT
+'dance;': TKAPBS/STPH*FPLT
 'you': U
 'shall': SHAL
 'not': TPHOT
-'go.'': TKPW TP-PL AE
+'go.'': TKPW/TP-PL/AE
 'And': AFPBD
 'when': WHEPB
 'Ashputtel': xxx Ashputtel
@@ -875,13 +875,13 @@ Ashputtel
 'to': TO
 'go,': TKPW-RBGS
 'she': SHE
-'said,': SED KW-BG
-''If': AE KPA/TP
+'said,': SED/KW-BG
+''If': AE/KPA/TP
 'you': U
 'can': K
 'in': TPH
 'one': WUPB
-'hour's': HOUR AES
+'hour's': HOUR/AES
 'time': TAOEUPL
 'pick': PEUBG
 'two': TWO
@@ -893,11 +893,11 @@ Ashputtel
 'out': OUT
 'of': -F
 'the': -T
-'ashes,': ARBS KW-BG
+'ashes,': ARBS/KW-BG
 'you': U
 'shall': SHAL
 'go': TKPW
-'too.'': TAO TP-PL AE
+'too.'': TAO/TP-PL/AE
 'And': AFPBD
 'thus': THUS
 'she': SHE
@@ -909,7 +909,7 @@ Ashputtel
 'get': TKPWET
 'rid': REUD
 'of': -F
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'So': KPA/SO
 'she': SHE
 'shook': SHAOBG
@@ -919,7 +919,7 @@ Ashputtel
 'peas': PAOEZ
 'into': TPHAO
 'the': -T
-'ashes.': ARBS TP-PL
+'ashes.': ARBS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
@@ -934,43 +934,43 @@ Ashputtel
 'back': PWABG
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'cried': KRAOEUD
 'out': OUT
 'as': AS
-'before:': PW-FR STPH-FPLT
-''Hither,': AE KPA/H*EURT KW-BG
-'hither,': H*EURT KW-BG
+'before:': PW-FR/STPH-FPLT
+''Hither,': AE/KPA/H*EURT/KW-BG
+'hither,': H*EURT/KW-BG
 'through': THRU
 'the': -T
-'sky,': SKAOEU KW-BG
-'Turtle-doves': KPA/TURLT H-PB TKOFS
+'sky,': SKAOEU/KW-BG
+'Turtle-doves': KPA/TURLT/H-PB/TKOFS
 'and': SKP
-'linnets,': HREUPB/TPHET/-S KW-BG
-'fly!': TPHRAOEU SKHRAPL
-'Blackbird,': KPA/PWHRABG/PWEURD KW-BG
-'thrush,': THRURB KW-BG
+'linnets,': HREUPB/TPHET/-S/KW-BG
+'fly!': TPHRAOEU/SKHRAPL
+'Blackbird,': KPA/PWHRABG/PWEURD/KW-BG
+'thrush,': THRURB/KW-BG
 'and': SKP
 'chaffinch': KHAF/TK-LS/TPH-FP
-'gay,': TKPWAEU KW-BG
-'Hither,': KPA/H*EURT KW-BG
-'hither,': H*EURT KW-BG
+'gay,': TKPWAEU/KW-BG
+'Hither,': KPA/H*EURT/KW-BG
+'hither,': H*EURT/KW-BG
 'haste': HAEUFT
-'away!': WA*EU SKHRAPL
+'away!': WA*EU/SKHRAPL
 'One': KPA/WUPB
 'and': SKP
 'all': AUL
 'come': KOPL
 'help': HEP
-'me,': PHE KW-BG
-'quick!': KWEUBG SKHRAPL
+'me,': PHE/KW-BG
+'quick!': KWEUBG/SKHRAPL
 'Haste': KPA/HAEUFT
-'ye,': KWR*/*E KW-BG
+'ye,': KWR*/*E/KW-BG
 'haste': HAEUFT
-'ye!--pick,': KWR*/*E SKHRAPL H-PB H-PB PEUBG KW-BG
-'pick,': PEUBG KW-BG
-'pick!'': PEUBG SKHRAPL AE
+'ye!--pick,': KWR*/*E/SKHRAPL/H-PB/H-PB/PEUBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick!'': PEUBG/SKHRAPL/AE
 'Then': KPA/THEPB
 'first': TPEUFRT
 'came': KAEUPL
@@ -981,11 +981,11 @@ Ashputtel
 'at': AT
 'the': -T
 'kitchen': K-FP
-'window;': WOEUPBD STPH*FPLT
+'window;': WOEUPBD/STPH*FPLT
 'next': TPHEGT
 'came': KAEUPL
 'two': TWO
-'turtle-doves;': TURLT H-PB TKOFS STPH*FPLT
+'turtle-doves;': TURLT/H-PB/TKOFS/STPH*FPLT
 'and': SKP
 'after': AF
 'them': THEPL
@@ -995,18 +995,18 @@ Ashputtel
 'little': HREUL
 'birds': PWEURDZ
 'under': TPH-PB
-'heaven,': HEFPB KW-BG
+'heaven,': HEFPB/KW-BG
 'chirping': KHEURP/-G
 'and': SKP
 'hopping': HOPG
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'And': AFPBD
 'they': THE
 'flew': TPHRAOU
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'ashes;': ARBS STPH*FPLT
+'ashes;': ARBS/STPH*FPLT
 'and': SKP
 'the': -T
 'little': HREUL
@@ -1018,18 +1018,18 @@ Ashputtel
 'and': SKP
 'set': SET
 'to': TO
-'work,': WORBG KW-BG
-'pick,': PEUBG KW-BG
-'pick,': PEUBG KW-BG
-'pick;': PEUBG STPH*FPLT
+'work,': WORBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick;': PEUBG/STPH*FPLT
 'and': SKP
 'then': THEPB
 'the': -T
 'others': OERS
 'began': TKPWAPB
-'pick,': PEUBG KW-BG
-'pick,': PEUBG KW-BG
-'pick;': PEUBG STPH*FPLT
+'pick,': PEUBG/KW-BG
+'pick,': PEUBG/KW-BG
+'pick;': PEUBG/STPH*FPLT
 'and': SKP
 'they': THE
 'put': PUT
@@ -1039,25 +1039,25 @@ Ashputtel
 'grain': TKPWRAEUPB
 'into': TPHAO
 'the': -T
-'dishes,': TKEURBS KW-BG
+'dishes,': TKEURBS/KW-BG
 'and': SKP
 'left': HREFT
 'all': AUL
 'the': -T
-'ashes.': ARBS TP-PL
+'ashes.': ARBS/TP-PL
 'Before': KPA/PW-FR
 'half': HAF
 'an': APB
-'hour's': HOUR AES
+'hour's': HOUR/AES
 'time': TAOEUPL
 'all': AUL
 'was': WAS
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'out': OUT
 'they': THE
 'flew': TPHRAOU
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'And': AFPBD
 'then': THEPB
 'Ashputtel': xxx Ashputtel
@@ -1066,7 +1066,7 @@ Ashputtel
 'dishes': TKEURBS
 'to': TO
 'her': HER
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'rejoicing': RE/SKWROEUFG
 'to': TO
 'think': THEU
@@ -1077,27 +1077,27 @@ Ashputtel
 'go': TKPW
 'to': TO
 'the': -T
-'ball.': PWAUL TP-PL
+'ball.': PWAUL/TP-PL
 'But': KPA/PWUT
 'her': HER
 'mother': PHOER
-'said,': SED KW-BG
-''It': AE KPA/T
+'said,': SED/KW-BG
+''It': AE/KPA/T
 'is': S
 'all': AUL
 'of': -F
 'no': TPHO
-'use,': AOUS KW-BG
+'use,': AOUS/KW-BG
 'you': U
 'cannot': SK-PBT
-'go;': TKPW STPH*FPLT
+'go;': TKPW/STPH*FPLT
 'you': U
 'have': SR
 'no': TPHO
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'cannot': SK-PBT
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'and': SKP
 'you': U
 'would': WO
@@ -1105,7 +1105,7 @@ Ashputtel
 'put': PUT
 'us': US
 'to': TO
-'shame':': SHAEUPL AE STPH-FPLT
+'shame':': SHAEUPL/AE/STPH-FPLT
 'and': SKP
 'off': OF
 'she': SHE
@@ -1116,17 +1116,17 @@ Ashputtel
 'daughters': TKAURS
 'to': TO
 'the': -T
-'ball.': PWAUL TP-PL
+'ball.': PWAUL/TP-PL
 'Now': KPA/TPHOU
 'when': WHEPB
 'all': AUL
 'were': WR
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'and': SKP
 'nobody': TPHOEB
 'left': HREFT
 'at': AT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'Ashputtel': xxx Ashputtel
 'went': WEPBT
 'sorrowfully': SOR/ROEFL/HREU
@@ -1135,18 +1135,18 @@ Ashputtel
 'down': TKOUPB
 'under': TPH-PB
 'the': -T
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'and': SKP
 'cried': KRAOEUD
-'out:': OUT STPH-FPLT
-''Shake,': AE KPA/SHAEUBG KW-BG
-'shake,': SHAEUBG KW-BG
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'out:': OUT/STPH-FPLT
+''Shake,': AE/KPA/SHAEUBG/KW-BG
+'shake,': SHAEUBG/KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'Gold': KPA/TKPWOELD
 'and': SKP
 'silver': SEUL/SRER
 'over': OEFR
-'me!'': PHE SKHRAPL AE
+'me!'': PHE/SKHRAPL/AE
 'Then': KPA/THEPB
 'her': HER
 'friend': TPREPBD
@@ -1156,7 +1156,7 @@ Ashputtel
 'out': OUT
 'of': -F
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'brought': PWRAUT
 'a': AEU
@@ -1165,30 +1165,30 @@ Ashputtel
 'silver': SEUL/SRER
 'dress': TKRES
 'for': TPOR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'slippers': SHREUP/ERS
 'of': -F
 'spangled': SPAPBG/*LD
-'silk;': S*EULG STPH*FPLT
+'silk;': S*EULG/STPH*FPLT
 'and': SKP
 'she': SHE
 'put': PUT
 'them': THEPL
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'followed': TPOLD
 'her': HER
 'sisters': ST-RS
 'to': TO
 'the': -T
-'feast.': TPAOEFT TP-PL
+'feast.': TPAOEFT/TP-PL
 'But': KPA/PWUT
 'they': THE
 'did': TK
 'not': TPHOT
 'know': TPHOE
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'thought': THAUT
 'it': T
@@ -1196,7 +1196,7 @@ Ashputtel
 'be': -B
 'some': SOPL
 'strange': STRAEUPBG
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'she': SHE
 'looked': HRAOBGD
 'so': SO
@@ -1206,14 +1206,14 @@ Ashputtel
 'in': TPH
 'her': HER
 'rich': REUFP
-'clothes;': KHRO*ETS STPH*FPLT
+'clothes;': KHRO*ETS/STPH*FPLT
 'and': SKP
 'they': THE
 'never': TPHEFR
 'once': WUPBS
 'thought': THAUT
 'of': -F
-'Ashputtel,': xxx Ashputtel KW-BG
+'Ashputtel,': xxx Ashputtel/KW-BG
 'taking': TAEUG
 'it': T
 'for': TPOR
@@ -1226,7 +1226,7 @@ Ashputtel
 'home': HOEPL
 'in': TPH
 'the': -T
-'dirt.': TKEURT TP-PL
+'dirt.': TKEURT/TP-PL
 'The': KPA/-T
 'king's': KEUPBG/AES
 'son': SOPB
@@ -1234,7 +1234,7 @@ Ashputtel
 'came': KAEUPL
 'up': UP
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'took': TAOBG
 'her': HER
@@ -1244,17 +1244,17 @@ Ashputtel
 'and': SKP
 'danced': TKAPBS/-D
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
-'else:': ELS STPH-FPLT
+'else:': ELS/STPH-FPLT
 'and': SKP
 'he': HE
 'never': TPHEFR
 'left': HREFT
 'her': HER
-'hand;': HAPBD STPH*FPLT
+'hand;': HAPBD/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'anyone': TPHEUPB
@@ -1264,15 +1264,15 @@ Ashputtel
 'ask': SK
 'her': HER
 'to': TO
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'he': HE
-'said,': SED KW-BG
-''This': AE KPA/TH
+'said,': SED/KW-BG
+''This': AE/KPA/TH
 'lady': HRA*ED
 'is': S
 'dancing': TKAPBS/-G
 'with': W
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'Thus': KPA/THUS
 'they': THE
 'danced': TKAPBS/-D
@@ -1282,20 +1282,20 @@ Ashputtel
 'hour': HOUR
 'of': -F
 'the': -T
-'night;': TPHAOEUT STPH*FPLT
+'night;': TPHAOEUT/STPH*FPLT
 'and': SKP
 'then': THEPB
 'she': SHE
 'wanted': WAPBTD
 'to': TO
 'go': TKPW
-'home:': HOEPL STPH-FPLT
+'home:': HOEPL/STPH-FPLT
 'and': SKP
 'the': -T
 'king's': KEUPBG/AES
 'son': SOPB
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'shall': SHAL
 'go': TKPW
 'and': SKP
@@ -1305,7 +1305,7 @@ Ashputtel
 'you': U
 'to': TO
 'your': KWROUR
-'home';': HOEPL AE STPH*FPLT
+'home';': HOEPL/AE/STPH*FPLT
 'for': TPOR
 'he': HE
 'wanted': WAPBTD
@@ -1315,35 +1315,35 @@ Ashputtel
 'the': -T
 'beautiful': PWAOUFL
 'maiden': PHAEUD/*EPB
-'lived.': HREUFD TP-PL
+'lived.': HREUFD/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'slipped': SHREUPD
 'away': WA*EU
 'from': TPR
-'him,': HEUPL KW-BG
-'unawares,': AUPB/WAOEUR/-S KW-BG
+'him,': HEUPL/KW-BG
+'unawares,': AUPB/WAOEUR/-S/KW-BG
 'and': SKP
 'ran': RAPB
 'off': OF
 'towards': TORDZ
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'and': SKP
 'as': AS
 'the': -T
 'prince': PREUPBS
 'followed': TPOLD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'she': SHE
 'jumped': SKWR*UPLD
 'up': UP
 'into': TPHAO
 'the': -T
-'pigeon-house': PEUGS H-PB HOUS
+'pigeon-house': PEUGS/H-PB/HOUS
 'and': SKP
 'shut': SHUT
 'the': -T
-'door.': TKAOR TP-PL
+'door.': TKAOR/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'waited': WAEUTD
@@ -1351,26 +1351,26 @@ Ashputtel
 'her': HER
 'father': TPAER
 'came': KAEUPL
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'told': TOLD
 'him': HEUPL
 'that': THA
 'the': -T
 'unknown': UPB/TPHOEPB
-'maiden,': PHAEUD/*EPB KW-BG
+'maiden,': PHAEUD/*EPB/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
 'at': AT
 'the': -T
-'feast,': TPAOEFT KW-BG
+'feast,': TPAOEFT/KW-BG
 'had': H
 'hid': HEUD
 'herself': H*ERS
 'in': TPH
 'the': -T
-'pigeon-house.': PEUGS H-PB HOUS TP-PL
+'pigeon-house.': PEUGS/H-PB/HOUS/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'they': THE
@@ -1383,7 +1383,7 @@ Ashputtel
 'found': TPOUPBD
 'no': TPHO
 'one': WUPB
-'within;': W-PB STPH*FPLT
+'within;': W-PB/STPH*FPLT
 'and': SKP
 'as': AS
 'they': THE
@@ -1391,21 +1391,21 @@ Ashputtel
 'back': PWABG
 'into': TPHAO
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'Ashputtel': xxx Ashputtel
 'was': WAS
-'lying,': HRAOEUG KW-BG
+'lying,': HRAOEUG/KW-BG
 'as': AS
 'she': SHE
 'always': AULS
-'did,': TK KW-BG
+'did,': TK/KW-BG
 'in': TPH
 'her': HER
 'dirty': TKOEURT
 'frock': TPROBG
 'by': PWEU
 'the': -T
-'ashes,': ARBS KW-BG
+'ashes,': ARBS/KW-BG
 'and': SKP
 'her': HER
 'dim': TKEUPL
@@ -1415,7 +1415,7 @@ Ashputtel
 'burning': PWURPBG
 'in': TPH
 'the': -T
-'chimney.': KHEUPL/TPHEU TP-PL
+'chimney.': KHEUPL/TPHEU/TP-PL
 'For': KPA/TPOR
 'she': SHE
 'had': H
@@ -1427,12 +1427,12 @@ Ashputtel
 'could': KO
 'through': THRU
 'the': -T
-'pigeon-house': PEUGS H-PB HOUS
+'pigeon-house': PEUGS/H-PB/HOUS
 'and': SKP
 'on': OPB
 'to': TO
 'the': -T
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'and': SKP
 'had': H
 'there': THR
@@ -1440,20 +1440,20 @@ Ashputtel
 'off': OF
 'her': HER
 'beautiful': PWAOUFL
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'put': PUT
 'them': THEPL
 'beneath': TPHAO*ET
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'that': THA
 'the': -T
 'bird': PWEURD
 'might': PHAOEUT
 'carry': KAER
 'them': THEPL
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'had': H
 'lain': HRAEUPB
@@ -1466,7 +1466,7 @@ Ashputtel
 'her': HER
 'little': HREUL
 'grey': TKPWRA*EU
-'frock.': TPROBG TP-PL
+'frock.': TPROBG/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'day': TKAEU
@@ -1475,30 +1475,30 @@ Ashputtel
 'feast': TPAOEFT
 'was': WAS
 'again': TKPWEPB
-'held,': HELD KW-BG
+'held,': HELD/KW-BG
 'and': SKP
 'her': HER
-'father,': TPAER KW-BG
-'mother,': PHOER KW-BG
+'father,': TPAER/KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'sisters': ST-RS
 'were': WR
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'Ashputtel': xxx Ashputtel
 'went': WEPBT
 'to': TO
 'the': -T
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Shake,': AE KPA/SHAEUBG KW-BG
-'shake,': SHAEUBG KW-BG
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'said:': SED/STPH-FPLT
+''Shake,': AE/KPA/SHAEUBG/KW-BG
+'shake,': SHAEUBG/KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'Gold': KPA/TKPWOELD
 'and': SKP
 'silver': SEUL/SRER
 'over': OEFR
-'me!'': PHE SKHRAPL AE
+'me!'': PHE/SKHRAPL/AE
 'And': AFPBD
 'the': -T
 'bird': PWEURD
@@ -1517,7 +1517,7 @@ Ashputtel
 'worn': WORPB
 'the': -T
 'day': TKAEU
-'before.': PW-FR TP-PL
+'before.': PW-FR/TP-PL
 'And': AFPBD
 'when': WHEPB
 'she': SHE
@@ -1526,47 +1526,47 @@ Ashputtel
 'it': T
 'to': TO
 'the': -T
-'ball,': PWAUL KW-BG
+'ball,': PWAUL/KW-BG
 'everyone': EFRPB
 'wondered': WOPBD/-D
 'at': AT
 'her': HER
-'beauty:': PWAOUT STPH-FPLT
+'beauty:': PWAOUT/STPH-FPLT
 'but': PWUT
 'the': -T
 'king's': KEUPBG/AES
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'who': WHO
 'was': WAS
 'waiting': WAEUGT
 'for': TPOR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'took': TAOBG
 'her': HER
 'by': PWEU
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
 'danced': TKAPBS/-D
 'with': W
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'anyone': TPHEUPB
 'asked': SK-D
 'her': HER
 'to': TO
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'he': HE
 'said': SED
 'as': AS
-'before,': PW-FR KW-BG
-''This': AE KPA/TH
+'before,': PW-FR/KW-BG
+''This': AE/KPA/TH
 'lady': HRA*ED
 'is': S
 'dancing': TKAPBS/-G
 'with': W
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'When': KPA/WHEPB
 'night': TPHAOEUT
 'came': KAEUPL
@@ -1574,7 +1574,7 @@ Ashputtel
 'wanted': WAPBTD
 'to': TO
 'go': TKPW
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'and': SKP
 'the': -T
 'king's': KEUPBG/AES
@@ -1582,7 +1582,7 @@ Ashputtel
 'followed': TPOLD
 'here': HAOER
 'as': AS
-'before,': PW-FR KW-BG
+'before,': PW-FR/KW-BG
 'that': THA
 'he': HE
 'might': PHAOEUT
@@ -1591,7 +1591,7 @@ Ashputtel
 'what': WHA
 'house': HOUS
 'she': SHE
-'went:': WEPBT STPH-FPLT
+'went:': WEPBT/STPH-FPLT
 'but': PWUT
 'she': SHE
 'sprang': SPRAPBG
@@ -1607,7 +1607,7 @@ Ashputtel
 'behind': HEUPBD
 'her': HER
 'father's': TPAER/AES
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'In': KPA/TPH
 'this': TH
 'garden': TKPWA*RPB
@@ -1615,26 +1615,26 @@ Ashputtel
 'a': AEU
 'fine': TPAOEUPB
 'large': HRARPBLG
-'pear-tree': PAER H-PB TRAOE
+'pear-tree': PAER/H-PB/TRAOE
 'full': TPUL
 'of': -F
 'ripe': RAOEUP
-'fruit;': TPRAOUT STPH*FPLT
+'fruit;': TPRAOUT/STPH*FPLT
 'and': SKP
-'Ashputtel,': xxx Ashputtel KW-BG
+'Ashputtel,': xxx Ashputtel/KW-BG
 'not': TPHOT
 'knowing': TPHOEG
 'where': W-R
 'to': TO
 'hide': HAOEUD
-'herself,': H*ERS KW-BG
+'herself,': H*ERS/KW-BG
 'jumped': SKWR*UPLD
 'up': UP
 'into': TPHAO
 'it': T
 'without': WOUT
 'being': -BG
-'seen.': SAOEPB TP-PL
+'seen.': SAOEPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'king's': KEUPBG/AES
@@ -1642,7 +1642,7 @@ Ashputtel
 'lost': HRO*S
 'sight': SAOEUT
 'of': -F
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -1651,19 +1651,19 @@ Ashputtel
 'where': W-R
 'she': SHE
 'was': WAS
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'but': PWUT
 'waited': WAEUTD
 'till': TEUL
 'her': HER
 'father': TPAER
 'came': KAEUPL
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'him,': HEUPL KW-BG
-''The': AE KPA/-T
+'him,': HEUPL/KW-BG
+''The': AE/KPA/-T
 'unknown': UPB/TPHOEPB
 'lady': HRA*ED
 'who': WHO
@@ -1672,7 +1672,7 @@ Ashputtel
 'me': PHE
 'has': HAS
 'slipped': SHREUPD
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'I': EU
 'think': THEU
@@ -1682,34 +1682,34 @@ Ashputtel
 'sprung': SPRUPBG
 'into': TPHAO
 'the': -T
-'pear-tree.'': PAER H-PB TRAOE TP-PL AE
+'pear-tree.'': PAER/H-PB/TRAOE/TP-PL/AE
 'The': KPA/-T
 'father': TPAER
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''Can': AE KPA/K
+'himself,': HEUPLS/KW-BG
+''Can': AE/KPA/K
 'it': T
 'be': -B
-'Ashputtel?'': xxx Ashputtel H-F AE
+'Ashputtel?'': xxx Ashputtel/H-F/AE
 'So': KPA/SO
 'he': HE
 'had': H
 'an': APB
 'axe': ABGS
-'brought;': PWRAUT STPH*FPLT
+'brought;': PWRAUT/STPH*FPLT
 'and': SKP
 'they': THE
 'cut': KUT
 'down': TKOUPB
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'but': PWUT
 'found': TPOUPBD
 'no': TPHO
 'one': WUPB
 'upon': POPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'when': WHEPB
 'they': THE
@@ -1717,13 +1717,13 @@ Ashputtel
 'back': PWABG
 'into': TPHAO
 'the': -T
-'kitchen,': K-FP KW-BG
+'kitchen,': K-FP/KW-BG
 'there': THR
 'lay': HRAEU
 'Ashputtel': xxx Ashputtel
 'among': PHOPBG
 'the': -T
-'ashes;': ARBS STPH*FPLT
+'ashes;': ARBS/STPH*FPLT
 'for': TPOR
 'she': SHE
 'had': H
@@ -1735,7 +1735,7 @@ Ashputtel
 'side': SAOEUD
 'of': -F
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'carried': KAERD
 'her': HER
@@ -1747,7 +1747,7 @@ Ashputtel
 'bird': PWEURD
 'at': AT
 'the': -T
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'and': SKP
 'then': THEPB
 'put': PUT
@@ -1755,10 +1755,10 @@ Ashputtel
 'her': HER
 'little': HREUL
 'grey': TKPWRA*EU
-'frock.': TPROBG TP-PL
+'frock.': TPROBG/TP-PL
 'The': KPA/-T
 'third': THEURD
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'when': WHEPB
 'her': HER
 'father': TPAER
@@ -1767,23 +1767,23 @@ Ashputtel
 'and': SKP
 'sisters': ST-RS
 'were': WR
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'she': SHE
 'went': WEPBT
 'again': TKPWEPB
 'into': TPHAO
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Shake,': AE KPA/SHAEUBG KW-BG
-'shake,': SHAEUBG KW-BG
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'said:': SED/STPH-FPLT
+''Shake,': AE/KPA/SHAEUBG/KW-BG
+'shake,': SHAEUBG/KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'Gold': KPA/TKPWOELD
 'and': SKP
 'silver': SEUL/SRER
 'over': OEFR
-'me!'': PHE SKHRAPL AE
+'me!'': PHE/SKHRAPL/AE
 'Then': KPA/THEPB
 'her': HER
 'kind': KEUPBD
@@ -1798,14 +1798,14 @@ Ashputtel
 'than': THAPB
 'the': -T
 'former': TPRORPL
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'and': SKP
 'slippers': SHREUP/ERS
 'which': WEU
 'were': WR
 'all': AUL
 'of': -F
-'gold:': TKPWOELD STPH-FPLT
+'gold:': TKPWOELD/STPH-FPLT
 'so': SO
 'that': THA
 'when': WHEPB
@@ -1819,12 +1819,12 @@ Ashputtel
 'knew': TPHAOU
 'what': WHA
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'for': TPOR
 'wonder': WOPBD
 'at': AT
 'her': HER
-'beauty:': PWAOUT STPH-FPLT
+'beauty:': PWAOUT/STPH-FPLT
 'and': SKP
 'the': -T
 'king's': KEUPBG/AES
@@ -1833,7 +1833,7 @@ Ashputtel
 'with': W
 'nobody': TPHOEB
 'but': PWUT
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'anyone': TPHEUPB
@@ -1841,15 +1841,15 @@ Ashputtel
 'asked': SK-D
 'her': HER
 'to': TO
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'he': HE
-'said,': SED KW-BG
-''This': AE KPA/TH
+'said,': SED/KW-BG
+''This': AE/KPA/TH
 'lady': HRA*ED
 'is': S
-'_my_': RUPBD PHEU RUPBD
-'partner,': PARPB KW-BG
-'sir.'': SEUR TP-PL AE
+'_my_': RUPBD/PHEU/RUPBD
+'partner,': PARPB/KW-BG
+'sir.'': SEUR/TP-PL/AE
 'When': KPA/WHEPB
 'night': TPHAOEUT
 'came': KAEUPL
@@ -1857,7 +1857,7 @@ Ashputtel
 'wanted': WAPBTD
 'to': TO
 'go': TKPW
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'and': SKP
 'the': -T
 'king's': KEUPBG/AES
@@ -1865,26 +1865,26 @@ Ashputtel
 'would': WO
 'go': TKPW
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'himself,': HEUPLS KW-BG
-''I': AE EU
+'himself,': HEUPLS/KW-BG
+''I': AE/EU
 'will': HR
 'not': TPHOT
 'lose': HRUZ
 'her': HER
 'this': TH
-'time';': TAOEUPL AE STPH*FPLT
-'but,': PWUT KW-BG
-'however,': HOUF KW-BG
+'time';': TAOEUPL/AE/STPH*FPLT
+'but,': PWUT/KW-BG
+'however,': HOUF/KW-BG
 'she': SHE
 'again': TKPWEPB
 'slipped': SHREUPD
 'away': WA*EU
 'from': TPR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'though': THOE
 'in': TPH
 'such': SUFP
@@ -1899,12 +1899,12 @@ Ashputtel
 'slipper': SHREUP/ER
 'upon': POPB
 'the': -T
-'stairs.': STAEURS TP-PL
+'stairs.': STAEURS/TP-PL
 'The': KPA/-T
 'prince': PREUPBS
 'took': TAOBG
 'the': -T
-'shoe,': SHAOU KW-BG
+'shoe,': SHAOU/KW-BG
 'and': SKP
 'went': WEPBT
 'the': -T
@@ -1914,10 +1914,10 @@ Ashputtel
 'the': -T
 'king': KEUPBG
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'will': HR
 'take': TAEUBG
 'for': TPOR
@@ -1929,7 +1929,7 @@ Ashputtel
 'this': TH
 'golden': TKPWOELD/*EPB
 'slipper': SHREUP/ER
-'fits.'': TPEUTS TP-PL AE
+'fits.'': TPEUTS/TP-PL/AE
 'Then': KPA/THEPB
 'both': PWO*T
 'the': -T
@@ -1938,12 +1938,12 @@ Ashputtel
 'overjoyed': AUFR/SKWROEUD
 'to': TO
 'hear': HAER
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'for': TPOR
 'they': THE
 'had': H
 'beautiful': PWAOUFL
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'and': SKP
 'had': H
 'no': TPHO
@@ -1954,7 +1954,7 @@ Ashputtel
 'wear': WAER
 'the': -T
 'golden': TKPWOELD/*EPB
-'slipper.': SHREUP/ER TP-PL
+'slipper.': SHREUP/ER/TP-PL
 'The': KPA/-T
 'eldest': ELD/EFT
 'went': WEPBT
@@ -1965,18 +1965,18 @@ Ashputtel
 'where': W-R
 'the': -T
 'slipper': SHREUP/ER
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'to': TO
 'try': TREU
 'it': T
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'the': -T
 'mother': PHOER
 'stood': STAOD
-'by.': PWEU TP-PL
+'by.': PWEU/TP-PL
 'But': KPA/PWUT
 'her': HER
 'great': TKPWRAET
@@ -1985,7 +1985,7 @@ Ashputtel
 'not': TPHOT
 'go': TKPW
 'into': TPHAO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'the': -T
 'shoe': SHAOU
@@ -1995,21 +1995,21 @@ Ashputtel
 'too': TAO
 'small': SPHAL
 'for': TPOR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'mother': PHOER
 'gave': TKPWAEUF
 'her': HER
 'a': AEU
-'knife,': TPHAOEUF KW-BG
+'knife,': TPHAOEUF/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Never': AE KPA/TPHEFR
-'mind,': PHAOEUPBD KW-BG
+'said,': SED/KW-BG
+''Never': AE/KPA/TPHEFR
+'mind,': PHAOEUPBD/KW-BG
 'cut': KUT
 'it': T
-'off;': OF STPH*FPLT
+'off;': OF/STPH*FPLT
 'when': WHEPB
 'you': U
 'are': R
@@ -2019,13 +2019,13 @@ Ashputtel
 'not': TPHOT
 'care': KAEUR
 'about': PW
-'toes;': TO*ES STPH*FPLT
+'toes;': TO*ES/STPH*FPLT
 'you': U
 'will': HR
 'not': TPHOT
 'want': WAPBT
 'to': TO
-'walk.'': WAUBG TP-PL AE
+'walk.'': WAUBG/TP-PL/AE
 'So': KPA/SO
 'the': -T
 'silly': SHREU
@@ -2034,26 +2034,26 @@ Ashputtel
 'off': OF
 'her': HER
 'great': TKPWRAET
-'toe,': TO*E KW-BG
+'toe,': TO*E/KW-BG
 'and': SKP
 'thus': THUS
 'squeezed': SKWAOEZ/-D
 'on': OPB
 'the': -T
-'shoe,': SHAOU KW-BG
+'shoe,': SHAOU/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
 'the': -T
 'king's': KEUPBG/AES
-'son.': SOPB TP-PL
+'son.': SOPB/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
 'her': HER
 'for': TPOR
 'his': HEUS
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'and': SKP
 'set': SET
 'her': HER
@@ -2061,13 +2061,13 @@ Ashputtel
 'him': HEUPL
 'on': OPB
 'his': HEUS
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'rode': ROED
 'away': WA*EU
 'with': W
 'her': HER
-'homewards.': HOEPL/WARDZ TP-PL
+'homewards.': HOEPL/WARDZ/TP-PL
 'But': KPA/PWUT
 'on': OPB
 'their': THAEUR
@@ -2079,11 +2079,11 @@ Ashputtel
 'pass': PAS
 'by': PWEU
 'the': -T
-'hazel-tree': HAEUZ/EL H-PB TRAOE
+'hazel-tree': HAEUZ/EL/H-PB/TRAOE
 'that': THA
 'Ashputtel': xxx Ashputtel
 'had': H
-'planted;': PHRAPBT/-D STPH*FPLT
+'planted;': PHRAPBT/-D/STPH*FPLT
 'and': SKP
 'on': OPB
 'the': -T
@@ -2092,32 +2092,32 @@ Ashputtel
 'a': AEU
 'little': HREUL
 'dove': TKOF
-'singing:': SEUPBG/-G STPH-FPLT
-''Back': AE KPA/PWABG
-'again!': TKPWEPB SKHRAPL
+'singing:': SEUPBG/-G/STPH-FPLT
+''Back': AE/KPA/PWABG
+'again!': TKPWEPB/SKHRAPL
 'back': PWABG
-'again!': TKPWEPB SKHRAPL
+'again!': TKPWEPB/SKHRAPL
 'look': HRAOBG
 'to': TO
 'the': -T
-'shoe!': SHAOU SKHRAPL
+'shoe!': SHAOU/SKHRAPL
 'The': KPA/-T
 'shoe': SHAOU
 'is': S
 'too': TAO
-'small,': SPHAL KW-BG
+'small,': SPHAL/KW-BG
 'and': SKP
 'not': TPHOT
 'made': PHAED
 'for': TPOR
-'you!': U SKHRAPL
-'Prince!': PR*EUPBS SKHRAPL
-'prince!': PREUPBS SKHRAPL
+'you!': U/SKHRAPL
+'Prince!': PR*EUPBS/SKHRAPL
+'prince!': PREUPBS/SKHRAPL
 'look': HRAOBG
 'again': TKPWEPB
 'for': TPOR
 'thy': THAO*EU
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'For': KPA/TPOR
 'she's': SHAOES
 'not': TPHOT
@@ -2128,7 +2128,7 @@ Ashputtel
 'sits': SEUTS
 'by': PWEU
 'thy': THAO*EU
-'side.'': SAOEUD TP-PL AE
+'side.'': SAOEUD/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'prince': PREUPBS
@@ -2138,30 +2138,30 @@ Ashputtel
 'looked': HRAOBGD
 'at': AT
 'her': HER
-'foot;': TPAOT STPH*FPLT
+'foot;': TPAOT/STPH*FPLT
 'and': SKP
 'he': HE
-'saw,': SAU KW-BG
+'saw,': SAU/KW-BG
 'by': PWEU
 'the': -T
 'blood': PWHRAOD
 'that': THA
 'streamed': STRAOEPL/-D
 'from': TPR
-'it,': T KW-BG
+'it,': T/KW-BG
 'what': WHA
 'a': AEU
 'trick': TREUBG
 'she': SHE
 'had': H
 'played': PHRAEUD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'So': KPA/SO
 'he': HE
 'turned': TURPBD
 'his': HEUS
 'horse': HORS
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'and': SKP
 'brought': PWRAUT
 'the': -T
@@ -2170,15 +2170,15 @@ Ashputtel
 'back': PWABG
 'to': TO
 'her': HER
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''This': AE KPA/TH
+'said,': SED/KW-BG
+''This': AE/KPA/TH
 'is': S
 'not': TPHOT
 'the': -T
 'right': RAOEUT
-'bride;': PWRAOEUD STPH*FPLT
+'bride;': PWRAOEUD/STPH*FPLT
 'let': HRET
 'the': -T
 'other': OER
@@ -2188,7 +2188,7 @@ Ashputtel
 'put': PUT
 'on': OPB
 'the': -T
-'slipper.'': SHREUP/ER TP-PL AE
+'slipper.'': SHREUP/ER/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'went': WEPBT
@@ -2201,15 +2201,15 @@ Ashputtel
 'foot': TPAOT
 'into': TPHAO
 'the': -T
-'shoe,': SHAOU KW-BG
+'shoe,': SHAOU/KW-BG
 'all': AUL
 'but': PWUT
 'the': -T
-'heel,': HAOEL KW-BG
+'heel,': HAOEL/KW-BG
 'which': WEU
 'was': WAS
 'too': TAO
-'large.': HRARPBLG TP-PL
+'large.': HRARPBLG/TP-PL
 'But': KPA/PWUT
 'her': HER
 'mother': PHOER
@@ -2219,14 +2219,14 @@ Ashputtel
 'till': TEUL
 'the': -T
 'blood': PWHRAOD
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'took': TAOBG
 'her': HER
 'to': TO
 'the': -T
 'king's': KEUPBG/AES
-'son:': SOPB STPH-FPLT
+'son:': SOPB/STPH-FPLT
 'and': SKP
 'he': HE
 'set': SET
@@ -2239,52 +2239,52 @@ Ashputtel
 'side': SAOEUD
 'on': OPB
 'his': HEUS
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'rode': ROED
 'away': WA*EU
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'the': -T
-'hazel-tree': HAEUZ/EL H-PB TRAOE
+'hazel-tree': HAEUZ/EL/H-PB/TRAOE
 'the': -T
 'little': HREUL
 'dove': TKOF
 'sat': SAT
 'there': THR
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'and': SKP
-'sang:': SAPBG STPH-FPLT
-''Back': AE KPA/PWABG
-'again!': TKPWEPB SKHRAPL
+'sang:': SAPBG/STPH-FPLT
+''Back': AE/KPA/PWABG
+'again!': TKPWEPB/SKHRAPL
 'back': PWABG
-'again!': TKPWEPB SKHRAPL
+'again!': TKPWEPB/SKHRAPL
 'look': HRAOBG
 'to': TO
 'the': -T
-'shoe!': SHAOU SKHRAPL
+'shoe!': SHAOU/SKHRAPL
 'The': KPA/-T
 'shoe': SHAOU
 'is': S
 'too': TAO
-'small,': SPHAL KW-BG
+'small,': SPHAL/KW-BG
 'and': SKP
 'not': TPHOT
 'made': PHAED
 'for': TPOR
-'you!': U SKHRAPL
-'Prince!': PR*EUPBS SKHRAPL
-'prince!': PREUPBS SKHRAPL
+'you!': U/SKHRAPL
+'Prince!': PR*EUPBS/SKHRAPL
+'prince!': PREUPBS/SKHRAPL
 'look': HRAOBG
 'again': TKPWEPB
 'for': TPOR
 'thy': THAO*EU
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'For': KPA/TPOR
 'she's': SHAOES
 'not': TPHOT
@@ -2295,11 +2295,11 @@ Ashputtel
 'sits': SEUTS
 'by': PWEU
 'thy': THAO*EU
-'side.'': SAOEUD TP-PL AE
+'side.'': SAOEUD/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'looked': HRAOBGD
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'saw': SAU
 'that': THA
@@ -2310,14 +2310,14 @@ Ashputtel
 'much': PHUFP
 'from': TPR
 'the': -T
-'shoe,': SHAOU KW-BG
+'shoe,': SHAOU/KW-BG
 'that': THA
 'her': HER
 'white': WHAOEUT
 'stockings': STOBG/-G/-S
 'were': WR
 'quite': KWAOEUT
-'red.': RED TP-PL
+'red.': RED/TP-PL
 'So': KPA/SO
 'he': HE
 'turned': TURPBD
@@ -2328,40 +2328,40 @@ Ashputtel
 'her': HER
 'also': HR-S
 'back': PWABG
-'again.': TKPWEPB TP-PL
-''This': AE KPA/TH
+'again.': TKPWEPB/TP-PL
+''This': AE/KPA/TH
 'is': S
 'not': TPHOT
 'the': -T
 'true': TRAOU
-'bride,'': PWRAOEUD KW-BG AE
+'bride,'': PWRAOEUD/KW-BG/AE
 'said': SED
 'he': HE
 'to': TO
 'the': -T
-'father;': TPAER STPH*FPLT
-''have': AE SR
+'father;': TPAER/STPH*FPLT
+''have': AE/SR
 'you': U
 'no': TPHO
 'other': OER
-'daughters?'': TKAURS H-F AE
-''No,'': AE KPA/TPHO KW-BG AE
+'daughters?'': TKAURS/H-F/AE
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'said': SED
-'he;': HE STPH*FPLT
-''there': AE THR
+'he;': HE/STPH*FPLT
+''there': AE/THR
 'is': S
 'only': OEPBL
 'a': AEU
 'little': HREUL
 'dirty': TKOEURT
 'Ashputtel': xxx Ashputtel
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'the': -T
 'child': KHAOEULD
 'of': -F
 'my': PHEU
 'first': TPEUFRT
-'wife;': WAOEUF STPH*FPLT
+'wife;': WAOEUF/STPH*FPLT
 'I': EU
 'am': APL
 'sure': SHUR
@@ -2369,39 +2369,39 @@ Ashputtel
 'cannot': SK-PBT
 'be': -B
 'the': -T
-'bride.'': PWRAOEUD TP-PL AE
+'bride.'': PWRAOEUD/TP-PL/AE
 'The': KPA/-T
 'prince': PREUPBS
 'told': TOLD
 'him': HEUPL
 'to': TO
 'send': SEPBD
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'But': KPA/PWUT
 'the': -T
 'mother': PHOER
-'said,': SED KW-BG
-''No,': AE KPA/TPHO KW-BG
+'said,': SED/KW-BG
+''No,': AE/KPA/TPHO/KW-BG
 'no,': TPHORBGS
 'she': SHE
 'is': S
 'much': PHUFP
 'too': TAO
-'dirty;': TKOEURT STPH*FPLT
+'dirty;': TKOEURT/STPH*FPLT
 'she': SHE
 'will': HR
 'not': TPHOT
 'dare': TKAEUR
 'to': TO
 'show': SHOE
-'herself.'': H*ERS TP-PL AE
-'However,': KPA/HOUF KW-BG
+'herself.'': H*ERS/TP-PL/AE
+'However,': KPA/HOUF/KW-BG
 'the': -T
 'prince': PREUPBS
 'would': WO
 'have': SR
 'her': HER
-'come;': KOPL STPH*FPLT
+'come;': KOPL/STPH*FPLT
 'and': SKP
 'she': SHE
 'first': TPEUFRT
@@ -2409,7 +2409,7 @@ Ashputtel
 'her': HER
 'face': TPAEUS
 'and': SKP
-'hands,': HAPBDZ KW-BG
+'hands,': HAPBDZ/KW-BG
 'and': SKP
 'then': THEPB
 'went': WEPBT
@@ -2417,14 +2417,14 @@ Ashputtel
 'and': SKP
 'curtsied': xxx curtsied
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'reached': RAOEFPD
 'her': HER
 'the': -T
 'golden': TKPWOELD/*EPB
-'slipper.': SHREUP/ER TP-PL
+'slipper.': SHREUP/ER/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'took': TAOBG
@@ -2434,13 +2434,13 @@ Ashputtel
 'off': OF
 'her': HER
 'left': HREFT
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'and': SKP
 'put': PUT
 'on': OPB
 'the': -T
 'golden': TKPWOELD/*EPB
-'slipper;': SHREUP/ER STPH*FPLT
+'slipper;': SHREUP/ER/STPH*FPLT
 'and': SKP
 'it': T
 'fitted': TPEUTD
@@ -2452,7 +2452,7 @@ Ashputtel
 'been': PW-PB
 'made': PHAED
 'for': TPOR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'And': AFPBD
 'when': WHEPB
 'he': HE
@@ -2465,14 +2465,14 @@ Ashputtel
 'face': TPAEUS
 'he': HE
 'knew': TPHAOU
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''This': AE KPA/TH
+'said,': SED/KW-BG
+''This': AE/KPA/TH
 'is': S
 'the': -T
 'right': RAOEUT
-'bride.'': PWRAOEUD TP-PL AE
+'bride.'': PWRAOEUD/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'mother': PHOER
@@ -2481,7 +2481,7 @@ Ashputtel
 'the': -T
 'sisters': ST-RS
 'were': WR
-'frightened,': TPRAOEUFPBD KW-BG
+'frightened,': TPRAOEUFPBD/KW-BG
 'and': SKP
 'turned': TURPBD
 'pale': PAEL
@@ -2493,42 +2493,42 @@ Ashputtel
 'Ashputtel': xxx Ashputtel
 'on': OPB
 'his': HEUS
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'rode': ROED
 'away': WA*EU
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'And': AFPBD
 'when': WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'the': -T
-'hazel-tree,': HAEUZ/EL H-PB TRAOE KW-BG
+'hazel-tree,': HAEUZ/EL/H-PB/TRAOE/KW-BG
 'the': -T
 'white': WHAOEUT
 'dove': TKOF
-'sang:': SAPBG STPH-FPLT
-''Home!': AE KPA/HOEPL SKHRAPL
-'home!': HOEPL SKHRAPL
+'sang:': SAPBG/STPH-FPLT
+''Home!': AE/KPA/HOEPL/SKHRAPL
+'home!': HOEPL/SKHRAPL
 'look': HRAOBG
 'at': AT
 'the': -T
-'shoe!': SHAOU SKHRAPL
-'Princess!': KPA/PREUPB/SES SKHRAPL
+'shoe!': SHAOU/SKHRAPL
+'Princess!': KPA/PREUPB/SES/SKHRAPL
 'the': -T
 'shoe': SHAOU
 'was': WAS
 'made': PHAED
 'for': TPOR
-'you!': U SKHRAPL
-'Prince!': PR*EUPBS SKHRAPL
-'prince!': PREUPBS SKHRAPL
+'you!': U/SKHRAPL
+'Prince!': PR*EUPBS/SKHRAPL
+'prince!': PREUPBS/SKHRAPL
 'take': TAEUBG
 'home': HOEPL
 'thy': THAO*EU
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'For': KPA/TPOR
 'she': SHE
 'is': S
@@ -2539,7 +2539,7 @@ Ashputtel
 'sits': SEUTS
 'by': PWEU
 'thy': THAO*EU
-'side!'': SAOEUD SKHRAPL AE
+'side!'': SAOEUD/SKHRAPL/AE
 'And': AFPBD
 'when': WHEPB
 'the': -T
@@ -2547,19 +2547,19 @@ Ashputtel
 'had': H
 'done': TKOPB
 'its': EUTS
-'song,': SOPBG KW-BG
+'song,': SOPBG/KW-BG
 'it': T
 'came': KAEUPL
-'flying,': TPHRAOEUG KW-BG
+'flying,': TPHRAOEUG/KW-BG
 'and': SKP
 'perched': PEFRPBD
 'upon': POPB
 'her': HER
 'right': RAOEUT
-'shoulder,': SHOURLD KW-BG
+'shoulder,': SHOURLD/KW-BG
 'and': SKP
 'so': SO
 'went': WEPBT
 'home': HOEPL
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL

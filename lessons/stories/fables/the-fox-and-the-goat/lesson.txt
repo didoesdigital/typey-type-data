@@ -17,13 +17,13 @@ The Fox and the Goat
 'could': KO
 'not': TPHOT
 'get': TKPWET
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'a': AEU
 'Goat': KPA/TKPWO*ET
 'passed': PAFD
 'by': PWEU
 'shortly': SHORLT
-'afterwards,': A*FRDZ KW-BG
+'afterwards,': A*FRDZ/KW-BG
 'and': SKP
 'asked': SK-D
 'the': -T
@@ -33,23 +33,23 @@ The Fox and the Goat
 'was': WAS
 'doing': TK*G
 'down': TKOUPB
-'there.': THR TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'there.': THR/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'have': SR
 'you': U
 'not': TPHOT
-'heard?"': HAERD H-F KR-GS
+'heard?"': HAERD/H-F/KR-GS
 'said': SED
 'the': -T
-'Fox;': KPA/TPOBGS STPH*FPLT
-'"there': KR-GS THR
+'Fox;': KPA/TPOBGS/STPH*FPLT
+'"there': KR-GS/THR
 'is': S
 'going': TKPW-G
 'to': TO
 'be': -B
 'a': AEU
 'great': TKPWRAET
-'drought,': TKROUT KW-BG
+'drought,': TKROUT/KW-BG
 'so': SO
 'I': EU
 'jumped': SKWR*UPLD
@@ -64,26 +64,26 @@ The Fox and the Goat
 'have': SR
 'water': WAUR
 'by': PWEU
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'Why': KPA/KWR
 'don't': TKOEPBT
 'you': U
 'come': KOPL
 'down': TKOUPB
-'too?"': TAO H-F KR-GS
+'too?"': TAO/H-F/KR-GS
 'The': KPA/-T
 'Goat': KPA/TKPWO*ET
 'thought': THAUT
 'well': WEL
 'of': -F
 'this': TH
-'advice,': SREUS KW-BG
+'advice,': SREUS/KW-BG
 'and': SKP
 'jumped': SKWR*UPLD
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'But': KPA/PWUT
 'the': -T
 'Fox': KPA/TPOBGS
@@ -91,7 +91,7 @@ The Fox and the Goat
 'jumped': SKWR*UPLD
 'on': OPB
 'her': HER
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'by': PWEU
 'putting': PUGT
@@ -110,16 +110,16 @@ The Fox and the Goat
 'edge': EPBLG
 'of': -F
 'the': -T
-'well.': WEL TP-PL
-'"Good-bye,': KR-GS KPA/TKPWAOD H-PB PWAO*EU KW-BG
-'friend,"': TPREPBD KW-BG KR-GS
+'well.': WEL/TP-PL
+'"Good-bye,': KR-GS/KPA/TKPWAOD/H-PB/PWAO*EU/KW-BG
+'friend,"': TPREPBD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Fox,': KPA/TPOBGS KW-BG
-'"remember': KR-GS RER
+'Fox,': KPA/TPOBGS/KW-BG
+'"remember': KR-GS/RER
 'next': TPHEGT
-'time,': TAOEUPL KW-BG
-'"Never': KR-GS KPA/TPHEFR
+'time,': TAOEUPL/KW-BG
+'"Never': KR-GS/KPA/TPHEFR
 'trust': TRUFT
 'the': -T
 'advice': SREUS
@@ -127,4 +127,4 @@ The Fox and the Goat
 'a': AEU
 'man': PHAPB
 'in': TPH
-'difficulties."': TKOEUFLTS TP-PL KR-GS
+'difficulties."': TKOEUFLTS/TP-PL/KR-GS

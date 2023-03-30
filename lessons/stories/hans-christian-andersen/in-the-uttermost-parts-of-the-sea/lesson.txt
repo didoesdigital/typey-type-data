@@ -2,7 +2,7 @@ In the Uttermost Parts of the Sea
 
 'Some': KPA/SOPL
 'years': KWRAOERS
-'ago,': AG KW-BG
+'ago,': AG/KW-BG
 'large': HRARPBLG
 'ships': SHEUPS
 'were': WR
@@ -10,12 +10,12 @@ In the Uttermost Parts of the Sea
 'towards': TORDZ
 'the': -T
 'north': TPHORT
-'pole,': POEL KW-BG
+'pole,': POEL/KW-BG
 'to': TO
 'explore': SPHROR
 'the': -T
 'distant': STKAPBT
-'coasts,': KOEFTS KW-BG
+'coasts,': KOEFTS/KW-BG
 'and': SKP
 'to': TO
 'try': TREU
@@ -27,7 +27,7 @@ In the Uttermost Parts of the Sea
 'into': TPHAO
 'those': THOZ
 'unknown': UPB/TPHOEPB
-'regions.': RAOE/SKWROPBS TP-PL
+'regions.': RAOE/SKWROPBS/TP-PL
 'For': KPA/TPOR
 'more': PHOR
 'than': THAPB
@@ -42,29 +42,29 @@ In the Uttermost Parts of the Sea
 'pushing': PURBG
 'its': EUTS
 'way': WAEU
-'northward,': TPHO*RT/WARD KW-BG
+'northward,': TPHO*RT/WARD/KW-BG
 'amid': A/PHEUD
 'snow': STPHOE
 'and': SKP
-'ice,': AOEUS KW-BG
+'ice,': AOEUS/KW-BG
 'and': SKP
 'the': -T
 'sailors': SAEUL/ORS
 'had': H
 'endured': EPB/TKAOURD
 'many': PHAEPB
-'hardships;': HARD/SH-P/-S STPH*FPLT
+'hardships;': HARD/SH-P/-S/STPH*FPLT
 'till': TEUL
 'at': AT
 'length': HREPBG
 'winter': WEURPBT
 'set': SET
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'the': -T
 'sun': SUPB
 'entirely': SPWAOEURL
-'disappeared;': TKEUS/PAOERD STPH*FPLT
+'disappeared;': TKEUS/PAOERD/STPH*FPLT
 'for': TPOR
 'many': PHAEPB
 'weeks': WAOEBGS
@@ -72,16 +72,16 @@ In the Uttermost Parts of the Sea
 'would': WO
 'be': -B
 'constant': STAPBT
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'All': KPA/AUL
-'around,': ARPBD KW-BG
+'around,': ARPBD/KW-BG
 'as': AS
 'far': TPAR
 'as': AS
 'the': -T
 'eye': AOEU
 'could': KO
-'reach,': RAOEFP KW-BG
+'reach,': RAOEFP/KW-BG
 'nothing': TPHOG
 'could': KO
 'be': -B
@@ -89,14 +89,14 @@ In the Uttermost Parts of the Sea
 'but': PWUT
 'fields': TPAOELDZ
 'of': -F
-'ice,': AOEUS KW-BG
+'ice,': AOEUS/KW-BG
 'in': TPH
 'which': WEU
 'the': -T
 'ship': SHEUP
 'remained': RE/PHAEUPBD
 'stuck': STUBG
-'fast.': TPAFT TP-PL
+'fast.': TPAFT/TP-PL
 'The': KPA/-T
 'snow': STPHOE
 'lay': HRAEU
@@ -104,19 +104,19 @@ In the Uttermost Parts of the Sea
 'up': UP
 'in': TPH
 'great': TKPWRAET
-'heaps,': HAOEP/-S KW-BG
+'heaps,': HAOEP/-S/KW-BG
 'and': SKP
 'of': -F
 'these': THEZ
 'the': -T
 'sailors': SAEUL/ORS
 'made': PHAED
-'huts,': HUTS KW-BG
+'huts,': HUTS/KW-BG
 'in': TPH
 'the': -T
 'form': TPORPL
 'of': -F
-'bee-hives,': PWAOE H-PB HAOEUFS KW-BG
+'bee-hives,': PWAOE/H-PB/HAOEUFS/KW-BG
 'some': SOPL
 'of': -F
 'them': THEPL
@@ -128,8 +128,8 @@ In the Uttermost Parts of the Sea
 'one': WUPB
 'of': -F
 'the': -T
-'"Huns'': KR-GS xxx Huns AE
-'graves,"': TKPWRAEUFS KW-BG KR-GS
+'"Huns'': KR-GS/xxx Huns/AE
+'graves,"': TKPWRAEUFS/KW-BG/KR-GS
 'and': SKP
 'others': OERS
 'only': OEPBL
@@ -141,12 +141,12 @@ In the Uttermost Parts of the Sea
 'three': THRAOE
 'or': OR
 'four': TPOUR
-'men.': PHEPB TP-PL
+'men.': PHEPB/TP-PL
 'It': KPA/T
 'was': WAS
 'not': TPHOT
 'quite': KWAOEUT
-'dark;': TKARBG STPH*FPLT
+'dark;': TKARBG/STPH*FPLT
 'the': -T
 'northern': TPHOERPB
 'lights': HRAOEUTS
@@ -155,19 +155,19 @@ In the Uttermost Parts of the Sea
 'red': RED
 'and': SKP
 'blue': PWHRU
-'flames,': TPHRAEUPLS KW-BG
+'flames,': TPHRAEUPLS/KW-BG
 'like': HRAOEUBG
 'continuous': T-PBS
-'fireworks,': TPAOEUR/WORBGS KW-BG
+'fireworks,': TPAOEUR/WORBGS/KW-BG
 'and': SKP
 'the': -T
 'snow': STPHOE
-'glittered,': TKPWHREUT/ERD KW-BG
+'glittered,': TKPWHREUT/ERD/KW-BG
 'and': SKP
 'reflected': TPHREBGTD
 'back': PWABG
 'the': -T
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -176,12 +176,12 @@ In the Uttermost Parts of the Sea
 'was': WAS
 'one': WUPB
 'long': HROPBG
-'twilight.': TWAOEULGT TP-PL
+'twilight.': TWAOEULGT/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'moon': PHAOPB
 'was': WAS
-'brightest,': PWRAOEUT/EFT KW-BG
+'brightest,': PWRAOEUT/EFT/KW-BG
 'the': -T
 'natives': TPHAEUT/EUFS
 'came': KAEUPL
@@ -190,7 +190,7 @@ In the Uttermost Parts of the Sea
 'to': TO
 'see': SAOE
 'the': -T
-'sailors.': SAEUL/ORS TP-PL
+'sailors.': SAEUL/ORS/TP-PL
 'They': KPA/THE
 'had': H
 'a': AEU
@@ -199,18 +199,18 @@ In the Uttermost Parts of the Sea
 'appearance': PAOERPBS
 'in': TPH
 'their': THAEUR
-'rough,': RUF KW-BG
+'rough,': RUF/KW-BG
 'hairy': HAEU/REU
 'dresses': TKRES/-S
 'of': -F
-'fur,': TPUR KW-BG
+'fur,': TPUR/KW-BG
 'and': SKP
 'riding': RAOEUD/-G
 'in': TPH
 'sledges': SHREPBLG/-S
 'over': OEFR
 'the': -T
-'ice.': AOEUS TP-PL
+'ice.': AOEUS/TP-PL
 'They': KPA/THE
 'brought': PWRAUT
 'with': W
@@ -220,17 +220,17 @@ In the Uttermost Parts of the Sea
 'skins': SKEUPBS
 'in': TPH
 'great': TKPWRAET
-'abundance,': PWUPB/TKAPBS KW-BG
+'abundance,': PWUPB/TKAPBS/KW-BG
 'so': SO
 'that': THA
 'the': -T
-'snow-houses': STPHOE H-PB HO*UFS
+'snow-houses': STPHOE/H-PB/HO*UFS
 'were': WR
 'soon': SAOPB
 'provided': PROE/SRAOEUD/-D
 'with': W
 'warm': WARPL
-'carpets,': KARPTS KW-BG
+'carpets,': KARPTS/KW-BG
 'and': SKP
 'the': -T
 'furs': TPURZ
@@ -242,7 +242,7 @@ In the Uttermost Parts of the Sea
 'to': TO
 'wrap': WRAP
 'themselves': TH*EPLS
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'when': WHEPB
 'they': THE
 'slept': SHREPT
@@ -250,7 +250,7 @@ In the Uttermost Parts of the Sea
 'the': -T
 'roofs': RAOFS
 'of': -F
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'while': WHAOEUL
 'outside': OUDZ
 'it': T
@@ -267,19 +267,19 @@ In the Uttermost Parts of the Sea
 'the': -T
 'winter': WEURPBT
 'with': W
-'us.': US TP-PL
+'us.': US/TP-PL
 'In': KPA/TPH
 'our': OUR
 'country': KREU
 'it': T
 'was': WAS
 'still': STEUL
-'autumn,': AU/UPL KW-BG
+'autumn,': AU/UPL/KW-BG
 'though': THOE
 'late': HRAEUT
 'in': TPH
 'the': -T
-'season;': S-PB STPH*FPLT
+'season;': S-PB/STPH*FPLT
 'and': SKP
 'they': THE
 'thought': THAUT
@@ -288,7 +288,7 @@ In the Uttermost Parts of the Sea
 'in': TPH
 'their': THAEUR
 'distant': STKAPBT
-'exile,': EBGS/AOEUL KW-BG
+'exile,': EBGS/AOEUL/KW-BG
 'and': SKP
 'often': OFPB
 'pictured': P*EUFPD
@@ -301,7 +301,7 @@ In the Uttermost Parts of the Sea
 'the': -T
 'trees': TRAOES
 'at': AT
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'Their': KPA/THAEUR
 'watches': WAFPS
 'pointed': POEUPBTD
@@ -309,13 +309,13 @@ In the Uttermost Parts of the Sea
 'the': -T
 'hours': HOURS
 'of': -F
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'and': SKP
 'time': TAOEUPL
 'to': TO
 'go': TKPW
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'although': HR*T
 'in': TPH
 'these': THEZ
@@ -324,12 +324,12 @@ In the Uttermost Parts of the Sea
 'was': WAS
 'now': TPHOU
 'always': AULS
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'In': KPA/TPH
 'one': WUPB
 'of': -F
 'the': -T
-'huts,': HUTS KW-BG
+'huts,': HUTS/KW-BG
 'two': TWO
 'of': -F
 'the': -T
@@ -351,11 +351,11 @@ In the Uttermost Parts of the Sea
 'from': TPR
 'home': HOEPL
 'his': HEUS
-'best,': PWEFT KW-BG
+'best,': PWEFT/KW-BG
 'his': HEUS
 'dearest': TKAER/EFT
-'treasure—a': TRERB EPL/TKA*RB AEU
-'Bible,': PWAO*EUBL KW-BG
+'treasure—a': TRERB/EPL/TKA*RB/AEU
+'Bible,': PWAO*EUBL/KW-BG
 'which': WEU
 'his': HEUS
 'grandmother': TKPWR-PL
@@ -364,7 +364,7 @@ In the Uttermost Parts of the Sea
 'him': HEUPL
 'on': OPB
 'his': HEUS
-'departure.': TKPART/AOUR TP-PL
+'departure.': TKPART/AOUR/TP-PL
 'Every': KPA/EF
 'night': TPHAOEUT
 'the': -T
@@ -373,7 +373,7 @@ In the Uttermost Parts of the Sea
 'rested': REFTD
 'under': TPH-PB
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'he': HE
 'had': H
@@ -385,21 +385,21 @@ In the Uttermost Parts of the Sea
 'was': WAS
 'written': WREUPB
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL
 'Every': KPA/EF
 'day': TKAEU
 'he': HE
 'read': RAED
 'in': TPH
 'the': -T
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'and': SKP
 'while': WHAOEUL
 'stretched': STREFPD
 'on': OPB
 'his': HEUS
 'cold': KOELD
-'couch,': KOUFP KW-BG
+'couch,': KOUFP/KW-BG
 'the': -T
 'holy': HOEUL
 'words': WORDZ
@@ -410,15 +410,15 @@ In the Uttermost Parts of the Sea
 'come': KOPL
 'into': TPHAO
 'his': HEUS
-'mind:': PHAOEUPBD STPH-FPLT
-'"If': KR-GS KPA/TP
+'mind:': PHAOEUPBD/STPH-FPLT
+'"If': KR-GS/KPA/TP
 'I': EU
 'take': TAEUBG
 'the': -T
 'wings': WEUPBGS
 'of': -F
 'the': -T
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'and': SKP
 'fly': TPHRAOEU
 'to': TO
@@ -427,20 +427,20 @@ In the Uttermost Parts of the Sea
 'parts': PARTS
 'of': -F
 'the': -T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'even': AOEPB
 'there': THR
 'Thou': KPA/THO*U
 'art': ART
 'with': W
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'Thy': KPA/THAO*EU
 'right': RAOEUT
 'hand': HAPBD
 'shall': SHAL
 'uphold': UP/HOLD
-'me;"': PHE STPH*FPLT KR-GS
+'me;"': PHE/STPH*FPLT/KR-GS
 'and': SKP
 'under': TPH-PB
 'the': -T
@@ -452,13 +452,13 @@ In the Uttermost Parts of the Sea
 'these': THEZ
 'holy': HOEUL
 'words': WORDZ
-'inspired,': EUPB/SPAOEURD KW-BG
+'inspired,': EUPB/SPAOEURD/KW-BG
 'sleep': SHRAOEP
 'came': KAEUPL
 'upon': POPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'dreams,': TKRAOEPLS KW-BG
+'dreams,': TKRAOEPLS/KW-BG
 'which': WEU
 'are': R
 'the': -T
@@ -467,12 +467,12 @@ In the Uttermost Parts of the Sea
 'God': TKPWO*D
 'to': TO
 'the': -T
-'spirit.': SPEURT TP-PL
+'spirit.': SPEURT/TP-PL
 'The': KPA/-T
 'soul': SOUL
 'lives': HREUFS
 'and': SKP
-'acts,': ABGZ KW-BG
+'acts,': ABGZ/KW-BG
 'while': WHAOEUL
 'the': -T
 'body': PWO*ED
@@ -484,7 +484,7 @@ In the Uttermost Parts of the Sea
 'this': TH
 'life': HRAOEUF
 'in': TPH
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -495,9 +495,9 @@ In the Uttermost Parts of the Sea
 'the': -T
 'sound': SOUPBD
 'of': -F
-'dear,': TKAER KW-BG
+'dear,': TKAER/KW-BG
 'well-known': WEL/TPHO*EPB
-'melodies,': PHEL/TKEU/-S KW-BG
+'melodies,': PHEL/TKEU/-S/KW-BG
 'as': AS
 'if': TP
 'the': -T
@@ -506,7 +506,7 @@ In the Uttermost Parts of the Sea
 'summer': SAOURPL
 'floated': TPHROET/-D
 'around': ARPBD
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'and': SKP
 'over': OEFR
 'his': HEUS
@@ -515,7 +515,7 @@ In the Uttermost Parts of the Sea
 'a': AEU
 'ray': RAEU
 'of': -F
-'brightness,': PWRAOEUT/-PBS KW-BG
+'brightness,': PWRAOEUT/-PBS/KW-BG
 'as': AS
 'if': TP
 'it': T
@@ -526,11 +526,11 @@ In the Uttermost Parts of the Sea
 'covering': KOFRG
 'of': -F
 'his': HEUS
-'snow-roof.': STPHOE H-PB RAOF TP-PL
+'snow-roof.': STPHOE/H-PB/RAOF/TP-PL
 'He': KPA/HE
 'lifted': HREUFTD
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'saw': SAU
 'that': THA
@@ -544,7 +544,7 @@ In the Uttermost Parts of the Sea
 'of': -F
 'the': -T
 'glittering': TKPWHREUT/ERG
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'but': PWUT
 'the': -T
 'dazzling': TKAZ/-LG
@@ -555,21 +555,21 @@ In the Uttermost Parts of the Sea
 'of': -F
 'a': AEU
 'mighty': PHAOEUT/KWREU
-'angel,': APB/SKWREL KW-BG
+'angel,': APB/SKWREL/KW-BG
 'into': TPHAO
 'whose': WHOZ
 'beaming': PWAEPL/-G
 'face': TPAEUS
 'he': HE
 'was': WAS
-'gazing.': TKPWAEUFG TP-PL
+'gazing.': TKPWAEUFG/TP-PL
 'As': KPA/AS
 'from': TPR
 'the': -T
 'cup': KUP
 'of': -F
 'a': AEU
-'lily,': HREUL/KWREU KW-BG
+'lily,': HREUL/KWREU/KW-BG
 'the': -T
 'angel': APB/SKWREL
 'rose': ROEZ
@@ -579,19 +579,19 @@ In the Uttermost Parts of the Sea
 'leaves': HREFS
 'of': -F
 'the': -T
-'Bible;': PWAO*EUBL STPH*FPLT
-'and,': SKP KW-BG
+'Bible;': PWAO*EUBL/STPH*FPLT
+'and,': SKP/KW-BG
 'stretching': STREFPG
 'out': OUT
 'his': HEUS
-'arm,': ARPL KW-BG
+'arm,': ARPL/KW-BG
 'the': -T
 'walls': WAULS
 'of': -F
 'the': -T
 'hut': HUT
 'sunk': S*UPBG
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'as': AS
 'though': THOE
 'they': THE
@@ -600,11 +600,11 @@ In the Uttermost Parts of the Sea
 'formed': TPORPLD
 'of': -F
 'a': AEU
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'airy': AEUR/REU
 'veil': SRAEUL
 'of': -F
-'mist,': PHEUFT KW-BG
+'mist,': PHEUFT/KW-BG
 'and': SKP
 'the': -T
 'green': TKPWRAOEPB
@@ -612,11 +612,11 @@ In the Uttermost Parts of the Sea
 'and': SKP
 'meadows': PHED/OES
 'of': -F
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'with': W
 'its': EUTS
 'ruddy': RUD/TKEU
-'woods,': WAODZ KW-BG
+'woods,': WAODZ/KW-BG
 'lay': HRAEU
 'spread': SPRED
 'around': ARPBD
@@ -629,14 +629,14 @@ In the Uttermost Parts of the Sea
 'a': AEU
 'lovely': HROFL
 'autumn': AU/UPL
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'The': KPA/-T
 'nest': TPHEFT
 'of': -F
 'the': -T
 'stork': STORBG
 'was': WAS
-'empty,': EPLT KW-BG
+'empty,': EPLT/KW-BG
 'but': PWUT
 'ripe': RAOEUP
 'fruit': TPRAOUT
@@ -645,19 +645,19 @@ In the Uttermost Parts of the Sea
 'on': OPB
 'the': -T
 'wild': WAOEULD
-'apple-tree,': A*EPL H-PB TRAOE KW-BG
+'apple-tree,': A*EPL/H-PB/TRAOE/KW-BG
 'although': HR*T
 'the': -T
 'leaves': HREFS
 'had': H
-'fallen.': TPAUL/-PB TP-PL
+'fallen.': TPAUL/-PB/TP-PL
 'The': KPA/-T
 'red': RED
 'hips': HEUPS
 'gleamed': TKPWHRAOEPL/-D
 'on': OPB
 'the': -T
-'hedges,': HEPBLG/-S KW-BG
+'hedges,': HEPBLG/-S/KW-BG
 'and': SKP
 'the': -T
 'starling': STARLG
@@ -672,12 +672,12 @@ In the Uttermost Parts of the Sea
 'window': WOEUPBD
 'of': -F
 'the': -T
-'peasant's': PEFPBT AES
-'hut,': HUT KW-BG
+'peasant's': PEFPBT/AES
+'hut,': HUT/KW-BG
 'which': WEU
 'was': WAS
 'his': HEUS
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'whistled': WHEUS/-LD
 'the': -T
 'tune': TAOUPB
@@ -685,53 +685,53 @@ In the Uttermost Parts of the Sea
 'he': HE
 'had': H
 'taught': TAUT
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'His': KPA/HEUS
 'grandmother': TKPWR-PL
 'hung': HUPBG
 'green': TKPWRAOEPB
-'birds'-food': PWEURDZ AE H-PB TPAOD
+'birds'-food': PWEURDZ/AE/H-PB/TPAOD
 'around': ARPBD
 'the': -T
-'cage,': KAEUPBLG KW-BG
+'cage,': KAEUPBLG/KW-BG
 'as': AS
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'her': HER
-'grandson,': TKPWR-S KW-BG
+'grandson,': TKPWR-S/KW-BG
 'had': H
 'been': PW-PB
 'accustomed': A/KUFPLD
 'to': TO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'The': KPA/-T
 'daughter': TKAUR
 'of': -F
 'the': -T
 'village': SREULG
-'blacksmith,': PWHRABG/SPH*EUT KW-BG
+'blacksmith,': PWHRABG/SPH*EUT/KW-BG
 'who': WHO
 'was': WAS
 'young': KWRUPBG
 'and': SKP
-'fair,': TPAEUR KW-BG
+'fair,': TPAEUR/KW-BG
 'stood': STAOD
 'at': AT
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'drawing': TKRAUG
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'She': KPA/SHE
 'nodded': TPHOD/-D
 'to': TO
 'the': -T
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'and': SKP
 'the': -T
 'old': OLD
 'woman': WOPL
 'nodded': TPHOD/-D
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'pointed': POEUPBTD
 'to': TO
@@ -744,7 +744,7 @@ In the Uttermost Parts of the Sea
 'a': AEU
 'long': HROPBG
 'way': WAEU
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'That': KPA/THA
 'very': SRE
 'morning': PHORPBG
@@ -758,8 +758,8 @@ In the Uttermost Parts of the Sea
 'regions': RAOE/SKWROPBS
 'of': -F
 'the': -T
-'north;': TPHORT STPH*FPLT
-'there,': THR KW-BG
+'north;': TPHORT/STPH*FPLT
+'there,': THR/KW-BG
 'where': W-R
 'the': -T
 'absent': AB/SEPBT
@@ -772,36 +772,36 @@ In the Uttermost Parts of the Sea
 'protecting': PRO/TEBGT/-G
 'hand': HAPBD
 'of': -F
-'God.': TKPWO*D TP-PL
+'God.': TKPWO*D/TP-PL
 'They': KPA/THE
 'laughed': HRAFD
 'and': SKP
 'wept': WEPT
 'over': OEFR
 'the': -T
-'letter;': HRERT STPH*FPLT
+'letter;': HRERT/STPH*FPLT
 'and': SKP
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'far': TPAR
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'amid': A/PHEUD
 'ice': AOEUS
 'and': SKP
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'under': TPH-PB
 'the': -T
 'shadow': SHOEUD
 'of': -F
 'the': -T
-'angel's': APB/SKWREL AES
-'wings,': WEUPBGS KW-BG
+'angel's': APB/SKWREL/AES
+'wings,': WEUPBGS/KW-BG
 'wept': WEPT
 'and': SKP
 'smiled': SPHAOEULD
 'with': W
 'them': THEPL
 'in': TPH
-'spirit;': SPEURT STPH*FPLT
+'spirit;': SPEURT/STPH*FPLT
 'for': TPOR
 'he': HE
 'saw': SAU
@@ -811,7 +811,7 @@ In the Uttermost Parts of the Sea
 'all': AUL
 'in': TPH
 'his': HEUS
-'dream.': TKRAOEPL TP-PL
+'dream.': TKRAOEPL/TP-PL
 'From': KPA/TPR
 'the': -T
 'letter': HRERT
@@ -822,20 +822,20 @@ In the Uttermost Parts of the Sea
 'words': WORDZ
 'of': -F
 'Holy': KPA/HOEUL
-'Writ:': KPA/WREUT STPH-FPLT
-'"In': KR-GS KPA/TPH
+'Writ:': KPA/WREUT/STPH-FPLT
+'"In': KR-GS/KPA/TPH
 'the': -T
 'uttermost': UT/ER/PHO*EFT
 'parts': PARTS
 'of': -F
 'the': -T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'Thy': KPA/THAO*EU
 'right': RAOEUT
 'hand': HAPBD
 'shall': SHAL
 'uphold': UP/HOLD
-'me."': PHE TP-PL KR-GS
+'me."': PHE/TP-PL/KR-GS
 'And': AFPBD
 'as': AS
 'the': -T
@@ -848,7 +848,7 @@ In the Uttermost Parts of the Sea
 'veil': SRAEUL
 'over': OEFR
 'the': -T
-'sleeper,': SHRAOEP/*ER KW-BG
+'sleeper,': SHRAOEP/*ER/KW-BG
 'there': THR
 'was': WAS
 'the': -T
@@ -858,18 +858,18 @@ In the Uttermost Parts of the Sea
 'music': PHAOUFBG
 'and': SKP
 'a': AEU
-'hymn.': H*EUPL TP-PL
+'hymn.': H*EUPL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'vision': SREUGS
-'fled.': TPHRED TP-PL
+'fled.': TPHRED/TP-PL
 'It': KPA/T
 'was': WAS
 'dark': TKARBG
 'again': TKPWEPB
 'in': TPH
 'the': -T
-'snow-hut:': STPHOE H-PB HUT STPH-FPLT
+'snow-hut:': STPHOE/H-PB/HUT/STPH-FPLT
 'but': PWUT
 'the': -T
 'Bible': PWAO*EUBL
@@ -877,7 +877,7 @@ In the Uttermost Parts of the Sea
 'rested': REFTD
 'beneath': TPHAO*ET
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'faith': TPA*EUT
 'and': SKP
@@ -885,23 +885,23 @@ In the Uttermost Parts of the Sea
 'dwelt': TKWELT
 'in': TPH
 'his': HEUS
-'heart.': HART TP-PL
+'heart.': HART/TP-PL
 'God': TKPWO*D
 'was': WAS
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'carried': KAERD
 'home': HOEPL
 'in': TPH
 'his': HEUS
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'even': AOEPB
-'"in': KR-GS TPH
+'"in': KR-GS/TPH
 'the': -T
 'uttermost': UT/ER/PHO*EFT
 'parts': PARTS
 'of': -F
 'the': -T
-'sea."': SAE TP-PL KR-GS
+'sea."': SAE/TP-PL/KR-GS

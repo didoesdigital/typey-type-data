@@ -7,24 +7,24 @@ The Golden Goose
 'who': WHO
 'had': H
 'three': THRAOE
-'sons,': SOPBS KW-BG
+'sons,': SOPBS/KW-BG
 'the': -T
 'youngest': KWRUPBG/EFT
 'of': -F
 'whom': WHOPL
 'was': WAS
 'called': KAULD
-'Dummling,[*]': xxx Dummling KW-BG PWR-BGT STA*R PWR*BGT
+'Dummling,[*]': xxx Dummling/KW-BG/PWR-BGT/STA*R/PWR*BGT
 'and': SKP
 'was': WAS
-'despised,': STKPAOEUDZ KW-BG
-'mocked,': PHOBG/-D KW-BG
+'despised,': STKPAOEUDZ/KW-BG
+'mocked,': PHOBG/-D/KW-BG
 'and': SKP
 'sneered': STPHAOER/-D
 'at': AT
 'on': OPB
 'every': EF
-'occasion.': KWAEUGS TP-PL
+'occasion.': KWAEUGS/TP-PL
 'It': KPA/T
 'happened': HAPD
 'that': THA
@@ -38,7 +38,7 @@ The Golden Goose
 'forest': TPOEFRT
 'to': TO
 'hew': HAO*U
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'before': PW-FR
 'he': HE
@@ -66,7 +66,7 @@ The Golden Goose
 'from': TPR
 'hunger': HURPBG
 'or': OR
-'thirst.': THEUFRT TP-PL
+'thirst.': THEUFRT/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'entered': SPWR-D
@@ -76,17 +76,17 @@ The Golden Goose
 'met': PHET
 'a': AEU
 'little': HREUL
-'grey-haired': TKPWRA*EU H-PB HAEURD
+'grey-haired': TKPWRA*EU/H-PB/HAEURD
 'old': OLD
 'man': PHAPB
 'who': WHO
 'bade': PWAEUD
 'him': HEUPL
 'good': TKPWAOD
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Do': AE KPA/TKO
+'said:': SED/STPH-FPLT
+''Do': AE/KPA/TKO
 'give': TKPWEUF
 'me': PHE
 'a': AEU
@@ -96,7 +96,7 @@ The Golden Goose
 'out': OUT
 'of': -F
 'your': KWROUR
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'let': HRET
 'me': PHE
@@ -105,36 +105,36 @@ The Golden Goose
 'draught': TKRAUFT
 'of': -F
 'your': KWROUR
-'wine;': WAOEUPB STPH*FPLT
+'wine;': WAOEUPB/STPH*FPLT
 'I': EU
 'am': APL
 'so': SO
 'hungry': HUPBG/REU
 'and': SKP
-'thirsty.'': THEURS/TEU TP-PL AE
+'thirsty.'': THEURS/TEU/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'clever': KHREFR
 'son': SOPB
-'answered:': AEPBS/-D STPH-FPLT
-''If': AE KPA/TP
+'answered:': AEPBS/-D/STPH-FPLT
+''If': AE/KPA/TP
 'I': EU
 'give': TKPWEUF
 'you': U
 'my': PHEU
 'cake': KAEUBG
 'and': SKP
-'wine,': WAOEUPB KW-BG
+'wine,': WAOEUPB/KW-BG
 'I': EU
 'shall': SHAL
 'have': SR
 'none': TPHOPB
 'for': TPOR
-'myself;': PHAO*EUS STPH*FPLT
+'myself;': PHAO*EUS/STPH*FPLT
 'be': -B
 'off': OF
 'with': W
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'and': SKP
 'he': HE
 'left': HREFT
@@ -144,7 +144,7 @@ The Golden Goose
 'standing': STAPBG
 'and': SKP
 'went': WEPBT
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -153,7 +153,7 @@ The Golden Goose
 'hew': HAO*U
 'down': TKOUPB
 'a': AEU
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'it': T
 'was': WAS
 'not': TPHOT
@@ -163,7 +163,7 @@ The Golden Goose
 'made': PHAED
 'a': AEU
 'false': TPALS
-'stroke,': STROBG KW-BG
+'stroke,': STROBG/KW-BG
 'and': SKP
 'the': -T
 'axe': ABGS
@@ -171,7 +171,7 @@ The Golden Goose
 'him': HEUPL
 'in': TPH
 'the': -T
-'arm,': ARPL KW-BG
+'arm,': ARPL/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -183,7 +183,7 @@ The Golden Goose
 'have': SR
 'it': T
 'bound': PWOUPBD
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'And': AFPBD
 'this': TH
 'was': WAS
@@ -191,7 +191,7 @@ The Golden Goose
 'little': HREUL
 'grey': TKPWRA*EU
 'man's': PHAPB/AES
-'doing.': TK*G TP-PL
+'doing.': TK*G/TP-PL
 'After': KPA/AF
 'this': TH
 'the': -T
@@ -200,22 +200,22 @@ The Golden Goose
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'his': HEUS
 'mother': PHOER
 'gave': TKPWAEUF
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'like': HRAOEUBG
 'the': -T
-'eldest,': ELD/EFT KW-BG
+'eldest,': ELD/EFT/KW-BG
 'a': AEU
 'cake': KAEUBG
 'and': SKP
 'a': AEU
 'bottle': PWO*LT
 'of': -F
-'wine.': WAOEUPB TP-PL
+'wine.': WAOEUPB/TP-PL
 'The': KPA/-T
 'little': HREUL
 'old': OLD
@@ -223,7 +223,7 @@ The Golden Goose
 'man': PHAPB
 'met': PHET
 'him': HEUPL
-'likewise,': HRAOEUBG/WAOEUS KW-BG
+'likewise,': HRAOEUBG/WAOEUS/KW-BG
 'and': SKP
 'asked': SK-D
 'him': HEUPL
@@ -236,16 +236,16 @@ The Golden Goose
 'a': AEU
 'drink': TKREU
 'of': -F
-'wine.': WAOEUPB TP-PL
+'wine.': WAOEUPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'second': SEBGD
-'son,': SOPB KW-BG
-'too,': TAO KW-BG
+'son,': SOPB/KW-BG
+'too,': TAO/KW-BG
 'said': SED
 'sensibly': SEPBS/PWHREU
-'enough:': TPHUF STPH-FPLT
-''What': AE KPA/WHA
+'enough:': TPHUF/STPH-FPLT
+''What': AE/KPA/WHA
 'I': EU
 'give': TKPWEUF
 'you': U
@@ -254,9 +254,9 @@ The Golden Goose
 'taken': TAEPB
 'away': WA*EU
 'from': TPR
-'myself;': PHAO*EUS STPH*FPLT
+'myself;': PHAO*EUS/STPH*FPLT
 'be': -B
-'off!'': OF SKHRAPL AE
+'off!'': OF/SKHRAPL/AE
 'and': SKP
 'he': HE
 'left': HREFT
@@ -266,13 +266,13 @@ The Golden Goose
 'standing': STAPBG
 'and': SKP
 'went': WEPBT
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'His': KPA/HEUS
-'punishment,': PUPLT KW-BG
-'however,': HOUF KW-BG
+'punishment,': PUPLT/KW-BG
+'however,': HOUF/KW-BG
 'was': WAS
 'not': TPHOT
-'delayed;': TKHRAEUD STPH*FPLT
+'delayed;': TKHRAEUD/STPH*FPLT
 'when': WHEPB
 'he': HE
 'had': H
@@ -288,7 +288,7 @@ The Golden Goose
 'himself': HEUPLS
 'in': TPH
 'the': -T
-'leg,': HREG KW-BG
+'leg,': HREG/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -296,38 +296,38 @@ The Golden Goose
 'to': TO
 'be': -B
 'carried': KAERD
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'Then': KPA/THEPB
 'Dummling': xxx Dummling
-'said:': SED STPH-FPLT
-''Father,': AE KPA/TPAER KW-BG
+'said:': SED/STPH-FPLT
+''Father,': AE/KPA/TPAER/KW-BG
 'do': TKO
 'let': HRET
 'me': PHE
 'go': TKPW
 'and': SKP
 'cut': KUT
-'wood.'': WAOD TP-PL AE
+'wood.'': WAOD/TP-PL/AE
 'The': KPA/-T
 'father': TPAER
-'answered:': AEPBS/-D STPH-FPLT
-''Your': AE KPA/KWROUR
+'answered:': AEPBS/-D/STPH-FPLT
+''Your': AE/KPA/KWROUR
 'brothers': PWROERS
 'have': SR
 'hurt': HURT
 'themselves': TH*EPLS
 'with': W
-'it,': T KW-BG
+'it,': T/KW-BG
 'leave': HREF
 'it': T
-'alone,': A/HROEPB KW-BG
+'alone,': A/HROEPB/KW-BG
 'you': U
 'do': TKO
 'not': TPHOT
 'understand': URPBD
 'anything': TPHEUG
 'about': PW
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'But': KPA/PWUT
 'Dummling': xxx Dummling
 'begged': PWEGD
@@ -337,17 +337,17 @@ The Golden Goose
 'at': AT
 'last': HRAFT
 'he': HE
-'said:': SED STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'said:': SED/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'go': TKPW
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'you': U
 'will': HR
 'get': TKPWET
 'wiser': WAOEUZ/ER
 'by': PWEU
 'hurting': HURGT
-'yourself.'': KWRO*URS TP-PL AE
+'yourself.'': KWRO*URS/TP-PL/AE
 'His': KPA/HEUS
 'mother': PHOER
 'gave': TKPWAEUF
@@ -361,7 +361,7 @@ The Golden Goose
 'baked': PWAEUBGD
 'in': TPH
 'the': -T
-'cinders,': SEUPBD/ERS KW-BG
+'cinders,': SEUPBD/ERS/KW-BG
 'and': SKP
 'with': W
 'it': T
@@ -369,7 +369,7 @@ The Golden Goose
 'bottle': PWO*LT
 'of': -F
 'sour': SOUR
-'beer.': PWAOER TP-PL
+'beer.': PWAOER/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'came': KAEUPL
@@ -383,12 +383,12 @@ The Golden Goose
 'man': PHAPB
 'met': PHET
 'him': HEUPL
-'likewise,': HRAOEUBG/WAOEUS KW-BG
+'likewise,': HRAOEUBG/WAOEUS/KW-BG
 'and': SKP
 'greeting': TKPWRAOET/-G
-'him,': HEUPL KW-BG
-'said:': SED STPH-FPLT
-''Give': AE KPA/TKPWEUF
+'him,': HEUPL/KW-BG
+'said:': SED/STPH-FPLT
+''Give': AE/KPA/TKPWEUF
 'me': PHE
 'a': AEU
 'piece': PAOES
@@ -401,49 +401,49 @@ The Golden Goose
 'out': OUT
 'of': -F
 'your': KWROUR
-'bottle;': PWO*LT STPH*FPLT
+'bottle;': PWO*LT/STPH*FPLT
 'I': EU
 'am': APL
 'so': SO
 'hungry': HUPBG/REU
 'and': SKP
-'thirsty.'': THEURS/TEU TP-PL AE
+'thirsty.'': THEURS/TEU/TP-PL/AE
 'Dummling': xxx Dummling
-'answered:': AEPBS/-D STPH-FPLT
-''I': AE EU
+'answered:': AEPBS/-D/STPH-FPLT
+''I': AE/EU
 'have': SR
 'only': OEPBL
-'cinder-cake': SEUPBD/*ER H-PB KAEUBG
+'cinder-cake': SEUPBD/*ER/H-PB/KAEUBG
 'and': SKP
 'sour': SOUR
-'beer;': PWAOER STPH*FPLT
+'beer;': PWAOER/STPH*FPLT
 'if': TP
 'that': THA
 'pleases': PHRAOES/-S
-'you,': U KW-BG
+'you,': U/KW-BG
 'we': WE
 'will': HR
 'sit': SEUT
 'down': TKOUPB
 'and': SKP
-'eat.'': AOET TP-PL AE
+'eat.'': AOET/TP-PL/AE
 'So': KPA/SO
 'they': THE
 'sat': SAT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'when': WHEPB
 'Dummling': xxx Dummling
 'pulled': PULD
 'out': OUT
 'his': HEUS
-'cinder-cake,': SEUPBD/*ER H-PB KAEUBG KW-BG
+'cinder-cake,': SEUPBD/*ER/H-PB/KAEUBG/KW-BG
 'it': T
 'was': WAS
 'a': AEU
 'fine': TPAOEUPB
 'sweet': SWAOET
-'cake,': KAEUBG KW-BG
+'cake,': KAEUBG/KW-BG
 'and': SKP
 'the': -T
 'sour': SOUR
@@ -451,25 +451,25 @@ The Golden Goose
 'had': H
 'become': PW-BG
 'good': TKPWAOD
-'wine.': WAOEUPB TP-PL
+'wine.': WAOEUPB/TP-PL
 'So': KPA/SO
 'they': THE
 'ate': AEUT
 'and': SKP
-'drank,': TKRA*PBG KW-BG
+'drank,': TKRA*PBG/KW-BG
 'and': SKP
 'after': AF
 'that': THA
 'the': -T
 'little': HREUL
 'man': PHAPB
-'said:': SED STPH-FPLT
-''Since': AE KPA/SEUPBS
+'said:': SED/STPH-FPLT
+''Since': AE/KPA/SEUPBS
 'you': U
 'have': SR
 'a': AEU
 'good': TKPWAOD
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'are': R
 'willing': -LG
@@ -477,21 +477,21 @@ The Golden Goose
 'divide': TKWAOEUD
 'what': WHA
 'you': U
-'have,': SR KW-BG
+'have,': SR/KW-BG
 'I': EU
 'will': HR
 'give': TKPWEUF
 'you': U
 'good': TKPWAOD
-'luck.': HRUBG TP-PL
+'luck.': HRUBG/TP-PL
 'There': KPA/THR
 'stands': STAPBDZ
 'an': APB
 'old': OLD
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'cut': KUT
 'it': T
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'you': U
 'will': HR
@@ -499,7 +499,7 @@ The Golden Goose
 'something': S-G
 'at': AT
 'the': -T
-'roots.'': RAOTS TP-PL AE
+'roots.'': RAOTS/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'little': HREUL
@@ -507,14 +507,14 @@ The Golden Goose
 'took': TAOBG
 'leave': HREF
 'of': -F
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Dummling': xxx Dummling
 'went': WEPBT
 'and': SKP
 'cut': KUT
 'down': TKOUPB
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'when': WHEPB
 'it': T
@@ -531,16 +531,16 @@ The Golden Goose
 'feathers': TP*ET/ERS
 'of': -F
 'pure': PAOUR
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'He': KPA/HE
 'lifted': HREUFTD
 'her': HER
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'taking': TAEUG
 'her': HER
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'went': WEPBT
 'to': TO
 'an': APB
@@ -552,13 +552,13 @@ The Golden Goose
 'would': WO
 'stay': STAEU
 'the': -T
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'host': HOEFT
 'had': H
 'three': THRAOE
-'daughters,': TKAURS KW-BG
+'daughters,': TKAURS/KW-BG
 'who': WHO
 'saw': SAU
 'the': -T
@@ -574,7 +574,7 @@ The Golden Goose
 'wonderful': WUFL
 'bird': PWEURD
 'might': PHAOEUT
-'be,': -B KW-BG
+'be,': -B/KW-BG
 'and': SKP
 'would': WO
 'have': SR
@@ -585,11 +585,11 @@ The Golden Goose
 'of': -F
 'its': EUTS
 'golden': TKPWOELD/*EPB
-'feathers.': TP*ET/ERS TP-PL
+'feathers.': TP*ET/ERS/TP-PL
 'The': KPA/-T
 'eldest': ELD/EFT
-'thought:': THAUT STPH-FPLT
-''I': AE EU
+'thought:': THAUT/STPH-FPLT
+''I': AE/EU
 'shall': SHAL
 'soon': SAOPB
 'find': TPAOEUPBD
@@ -599,7 +599,7 @@ The Golden Goose
 'pulling': PULG
 'out': OUT
 'a': AEU
-'feather,'': TP*ERT KW-BG AE
+'feather,'': TP*ERT/KW-BG/AE
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -614,7 +614,7 @@ The Golden Goose
 'goose': TKPWAOS
 'by': PWEU
 'the': -T
-'wing,': WEUPBG KW-BG
+'wing,': WEUPBG/KW-BG
 'but': PWUT
 'her': HER
 'finger': TPEURPBG
@@ -624,12 +624,12 @@ The Golden Goose
 'sticking': STEUG
 'fast': TPAFT
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'second': SEBGD
 'came': KAEUPL
 'soon': SAOPB
-'afterwards,': A*FRDZ KW-BG
+'afterwards,': A*FRDZ/KW-BG
 'thinking': THEUG
 'only': OEPBL
 'of': -F
@@ -640,7 +640,7 @@ The Golden Goose
 'a': AEU
 'feather': TP*ERT
 'for': TPOR
-'herself,': H*ERS KW-BG
+'herself,': H*ERS/KW-BG
 'but': PWUT
 'she': SHE
 'had': H
@@ -652,7 +652,7 @@ The Golden Goose
 'she': SHE
 'was': WAS
 'held': HELD
-'fast.': TPAFT TP-PL
+'fast.': TPAFT/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'the': -T
@@ -662,19 +662,19 @@ The Golden Goose
 'with': W
 'the': -T
 'like': HRAOEUBG
-'intent,': SPWEPBT KW-BG
+'intent,': SPWEPBT/KW-BG
 'and': SKP
 'the': -T
 'others': OERS
 'screamed': SKRAOEPLD
-'out:': OUT STPH-FPLT
-''Keep': AE KPA/KAOEP
-'away;': WA*EU STPH*FPLT
+'out:': OUT/STPH-FPLT
+''Keep': AE/KPA/KAOEP
+'away;': WA*EU/STPH*FPLT
 'for': TPOR
-'goodness'': TKPWAOD/-PBS AE
+'goodness'': TKPWAOD/-PBS/AE
 'sake': SAEUBG
 'keep': KAOEP
-'away!'': WA*EU SKHRAPL AE
+'away!'': WA*EU/SKHRAPL/AE
 'But': KPA/PWUT
 'she': SHE
 'did': TK
@@ -685,24 +685,24 @@ The Golden Goose
 'was': WAS
 'to': TO
 'keep': KAOEP
-'away.': WA*EU TP-PL
-''The': AE KPA/-T
+'away.': WA*EU/TP-PL
+''The': AE/KPA/-T
 'others': OERS
 'are': R
-'there,'': THR KW-BG AE
+'there,'': THR/KW-BG/AE
 'she': SHE
-'thought,': THAUT KW-BG
-''I': AE EU
+'thought,': THAUT/KW-BG
+''I': AE/EU
 'may': PHAE
 'as': AS
 'well': WEL
 'be': -B
 'there': THR
-'too,'': TAO KW-BG AE
+'too,'': TAO/KW-BG/AE
 'and': SKP
 'ran': RAPB
 'to': TO
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'but': PWUT
 'as': AS
 'soon': SAOPB
@@ -711,13 +711,13 @@ The Golden Goose
 'had': H
 'touched': TUFPD
 'her': HER
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'she': SHE
 'remained': RE/PHAEUPBD
 'sticking': STEUG
 'fast': TPAFT
 'to': TO
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'So': KPA/SO
 'they': THE
 'had': H
@@ -727,7 +727,7 @@ The Golden Goose
 'night': TPHAOEUT
 'with': W
 'the': -T
-'goose.': TKPWAOS TP-PL
+'goose.': TKPWAOS/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'morning': PHORPBG
@@ -740,7 +740,7 @@ The Golden Goose
 'arm': ARPL
 'and': SKP
 'set': SET
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'without': WOUT
 'troubling': TRUBLG
 'himself': HEUPLS
@@ -753,7 +753,7 @@ The Golden Goose
 'hanging': HAPBG/-G
 'on': OPB
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'They': KPA/THE
 'were': WR
 'obliged': OE/PWHRAOEUPBLGD
@@ -761,16 +761,16 @@ The Golden Goose
 'run': RUPB
 'after': AF
 'him': HEUPL
-'continually,': TAEPBL KW-BG
+'continually,': TAEPBL/KW-BG
 'now': TPHOU
-'left,': HREFT KW-BG
+'left,': HREFT/KW-BG
 'now': TPHOU
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'wherever': W-FR
 'his': HEUS
 'legs': HREGS
 'took': TAOBG
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'In': KPA/TPH
 'the': -T
 'middle': PH*EULD
@@ -780,7 +780,7 @@ The Golden Goose
 'the': -T
 'parson': PAR/SOPB
 'met': PHET
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -788,12 +788,12 @@ The Golden Goose
 'the': -T
 'procession': PRO/SEGS
 'he': HE
-'said:': SED STPH-FPLT
-''For': AE KPA/TPOR
-'shame,': SHAEUPL KW-BG
+'said:': SED/STPH-FPLT
+''For': AE/KPA/TPOR
+'shame,': SHAEUPL/KW-BG
 'you': U
-'good-for-nothing': TKPWAOD H-PB TPOR H-PB TPHOG
-'girls,': TKPWEURLS KW-BG
+'good-for-nothing': TKPWAOD/H-PB/TPOR/H-PB/TPHOG
+'girls,': TKPWEURLS/KW-BG
 'why': KWR
 'are': R
 'you': U
@@ -804,10 +804,10 @@ The Golden Goose
 'after': AF
 'this': TH
 'young': KWRUPBG
-'man?': PHAPB H-F
+'man?': PHAPB/H-F
 'Is': KPA/S
 'that': THA
-'seemly?'': SAOEPL/HREU H-F AE
+'seemly?'': SAOEPL/HREU/H-F/AE
 'At': KPA/AT
 'the': -T
 'same': SAEUPL
@@ -824,7 +824,7 @@ The Golden Goose
 'to': TO
 'pull': PUL
 'her': HER
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'but': PWUT
 'as': AS
 'soon': SAOPB
@@ -835,14 +835,14 @@ The Golden Goose
 'he': HE
 'likewise': HRAOEUBG/WAOEUS
 'stuck': STUBG
-'fast,': TPAFT KW-BG
+'fast,': TPAFT/KW-BG
 'and': SKP
 'was': WAS
 'himself': HEUPLS
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'run': RUPB
-'behind.': HEUPBD TP-PL
+'behind.': HEUPBD/TP-PL
 'Before': KPA/PW-FR
 'long': HROPBG
 'the': -T
@@ -852,13 +852,13 @@ The Golden Goose
 'and': SKP
 'saw': SAU
 'his': HEUS
-'master,': PHAFRT KW-BG
+'master,': PHAFRT/KW-BG
 'the': -T
-'parson,': PAR/SOPB KW-BG
+'parson,': PAR/SOPB/KW-BG
 'running': R*UPBG
 'behind': HEUPBD
 'three': THRAOE
-'girls.': TKPWEURLS TP-PL
+'girls.': TKPWEURLS/TP-PL
 'He': KPA/HE
 'was': WAS
 'astonished': A/STOPB/EURBD
@@ -866,14 +866,14 @@ The Golden Goose
 'this': TH
 'and': SKP
 'called': KAULD
-'out:': OUT STPH-FPLT
-''Hi!': AE KPA/HEU SKHRAPL
+'out:': OUT/STPH-FPLT
+''Hi!': AE/KPA/HEU/SKHRAPL
 'your': KWROUR
-'reverence,': R*EFRPBS KW-BG
+'reverence,': R*EFRPBS/KW-BG
 'whither': WHEU/THER
 'away': WA*EU
 'so': SO
-'quickly?': KWEULG H-F
+'quickly?': KWEULG/H-F
 'Do': KPA/TKO
 'not': TPHOT
 'forget': TPORGT
@@ -882,7 +882,7 @@ The Golden Goose
 'have': SR
 'a': AEU
 'christening': KREUFPB/-G
-'today!'': TOED SKHRAPL AE
+'today!'': TOED/SKHRAPL/AE
 'and': SKP
 'running': R*UPBG
 'after': AF
@@ -892,14 +892,14 @@ The Golden Goose
 'him': HEUPL
 'by': PWEU
 'the': -T
-'sleeve,': SHRAOEF KW-BG
+'sleeve,': SHRAOEF/KW-BG
 'but': PWUT
 'was': WAS
 'also': HR-S
 'held': HELD
 'fast': TPAFT
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'Whilst': KPA/WHAOEULS
 'the': -T
 'five': TPAOEUF
@@ -909,7 +909,7 @@ The Golden Goose
 'one': WUPB
 'behind': HEUPBD
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'two': TWO
 'labourers': HRAEUB/ERS/A*U
 'came': KAEUPL
@@ -918,7 +918,7 @@ The Golden Goose
 'hoes': HOEZ
 'from': TPR
 'the': -T
-'fields;': TPAOELDZ STPH*FPLT
+'fields;': TPAOELDZ/STPH*FPLT
 'the': -T
 'parson': PAR/SOPB
 'called': KAULD
@@ -935,7 +935,7 @@ The Golden Goose
 'and': SKP
 'the': -T
 'sexton': SEBGS/TO*PB
-'free.': TPRAOE TP-PL
+'free.': TPRAOE/TP-PL
 'But': KPA/PWUT
 'they': THE
 'had': H
@@ -947,7 +947,7 @@ The Golden Goose
 'they': THE
 'were': WR
 'held': HELD
-'fast,': TPAFT KW-BG
+'fast,': TPAFT/KW-BG
 'and': SKP
 'now': TPHOU
 'there': THR
@@ -960,14 +960,14 @@ The Golden Goose
 'Dummling': xxx Dummling
 'and': SKP
 'the': -T
-'goose.': TKPWAOS TP-PL
+'goose.': TKPWAOS/TP-PL
 'Soon': KPA/SAOPB
 'afterwards': A*FRDZ
 'he': HE
 'came': KAEUPL
 'to': TO
 'a': AEU
-'city,': STEU KW-BG
+'city,': STEU/KW-BG
 'where': W-R
 'a': AEU
 'king': KEUPBG
@@ -986,7 +986,7 @@ The Golden Goose
 'could': KO
 'make': PHAEUBG
 'her': HER
-'laugh.': HRAF TP-PL
+'laugh.': HRAF/TP-PL
 'So': KPA/SO
 'he': HE
 'had': H
@@ -1005,11 +1005,11 @@ The Golden Goose
 'laugh': HRAF
 'should': SHO
 'marry': PHAER
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'When': KPA/WHEPB
 'Dummling': xxx Dummling
 'heard': HAERD
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'he': HE
 'went': WEPBT
 'with': W
@@ -1022,7 +1022,7 @@ The Golden Goose
 'before': PW-FR
 'the': -T
 'king's': KEUPBG/AES
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -1035,24 +1035,24 @@ The Golden Goose
 'running': R*UPBG
 'on': OPB
 'and': SKP
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'one': WUPB
 'behind': HEUPBD
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'she': SHE
 'began': TKPWAPB
 'to': TO
 'laugh': HRAF
 'quite': KWAOEUT
-'loudly,': HROUD/HREU KW-BG
+'loudly,': HROUD/HREU/KW-BG
 'and': SKP
 'as': AS
 'if': TP
 'she': SHE
 'would': WO
 'never': TPHEFR
-'stop.': STOP TP-PL
+'stop.': STOP/TP-PL
 'Thereupon': KPA/THRUP
 'Dummling': xxx Dummling
 'asked': SK-D
@@ -1061,7 +1061,7 @@ The Golden Goose
 'her': HER
 'for': TPOR
 'his': HEUS
-'wife;': WAOEUF STPH*FPLT
+'wife;': WAOEUF/STPH*FPLT
 'but': PWUT
 'the': -T
 'king': KEUPBG
@@ -1069,7 +1069,7 @@ The Golden Goose
 'not': TPHOT
 'like': HRAOEUBG
 'the': -T
-'son-in-law,': SOPB H-PB TPH H-PB HRAU KW-BG
+'son-in-law,': SOPB/H-PB/TPH/H-PB/HRAU/KW-BG
 'and': SKP
 'made': PHAED
 'all': AUL
@@ -1090,25 +1090,25 @@ The Golden Goose
 'a': AEU
 'cellarful': SEL/AR/-FL
 'of': -F
-'wine.': WAOEUPB TP-PL
+'wine.': WAOEUPB/TP-PL
 'Dummling': xxx Dummling
 'thought': THAUT
 'of': -F
 'the': -T
 'little': HREUL
 'grey': TKPWRA*EU
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'who': WHO
 'could': KO
 'certainly': SERPBL
 'help': HEP
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'so': SO
 'he': HE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -1119,18 +1119,18 @@ The Golden Goose
 'had': H
 'felled': TPEL/-D
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'he': HE
 'saw': SAU
 'a': AEU
 'man': PHAPB
-'sitting,': SEUGT KW-BG
+'sitting,': SEUGT/KW-BG
 'who': WHO
 'had': H
 'a': AEU
 'very': SRE
 'sorrowful': SOR/ROEFL
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'Dummling': xxx Dummling
 'asked': SK-D
 'him': HEUPL
@@ -1141,11 +1141,11 @@ The Golden Goose
 'to': TO
 'heart': HART
 'so': SO
-'sorely,': SORL KW-BG
+'sorely,': SORL/KW-BG
 'and': SKP
 'he': HE
-'answered:': AEPBS/-D STPH-FPLT
-''I': AE EU
+'answered:': AEPBS/-D/STPH-FPLT
+''I': AE/EU
 'have': SR
 'such': SUFP
 'a': AEU
@@ -1154,12 +1154,12 @@ The Golden Goose
 'and': SKP
 'cannot': SK-PBT
 'quench': KWEFRPB
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'cold': KOELD
 'water': WAUR
 'I': EU
 'cannot': SK-PBT
-'stand,': STAPBD KW-BG
+'stand,': STAPBD/KW-BG
 'a': AEU
 'barrel': PWARL
 'of': -F
@@ -1167,7 +1167,7 @@ The Golden Goose
 'I': EU
 'have': SR
 'just': SKWRUFT
-'emptied,': EPL/TEUD KW-BG
+'emptied,': EPL/TEUD/KW-BG
 'but': PWUT
 'that': THA
 'to': TO
@@ -1179,15 +1179,15 @@ The Golden Goose
 'on': OPB
 'a': AEU
 'hot': HOT
-'stone!'': STOEPB SKHRAPL AE
-''There,': AE KPA/THR KW-BG
+'stone!'': STOEPB/SKHRAPL/AE
+''There,': AE/KPA/THR/KW-BG
 'I': EU
 'can': K
 'help': HEP
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'said': SED
-'Dummling,': xxx Dummling KW-BG
-''just': AE SKWRUFT
+'Dummling,': xxx Dummling/KW-BG
+''just': AE/SKWRUFT
 'come': KOPL
 'with': W
 'me': PHE
@@ -1195,14 +1195,14 @@ The Golden Goose
 'you': U
 'shall': SHAL
 'be': -B
-'satisfied.'': SAED TP-PL AE
+'satisfied.'': SAED/TP-PL/AE
 'He': KPA/HE
 'led': HRED
 'him': HEUPL
 'into': TPHAO
 'the': -T
 'king's': KEUPBG/AES
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'and': SKP
 'the': -T
 'man': PHAPB
@@ -1210,7 +1210,7 @@ The Golden Goose
 'over': OEFR
 'the': -T
 'huge': HAOUPBLG
-'barrels,': PWARLS KW-BG
+'barrels,': PWARLS/KW-BG
 'and': SKP
 'drank': TKRA*PBG
 'and': SKP
@@ -1218,7 +1218,7 @@ The Golden Goose
 'till': TEUL
 'his': HEUS
 'loins': HROEUPB/-S
-'hurt,': HURT KW-BG
+'hurt,': HURT/KW-BG
 'and': SKP
 'before': PW-FR
 'the': -T
@@ -1230,7 +1230,7 @@ The Golden Goose
 'emptied': EPL/TEUD
 'all': AUL
 'the': -T
-'barrels.': PWARLS TP-PL
+'barrels.': PWARLS/TP-PL
 'Then': KPA/THEPB
 'Dummling': xxx Dummling
 'asked': SK-D
@@ -1238,7 +1238,7 @@ The Golden Goose
 'more': PHOR
 'for': TPOR
 'his': HEUS
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'but': PWUT
 'the': -T
 'king': KEUPBG
@@ -1248,22 +1248,22 @@ The Golden Goose
 'such': SUFP
 'an': APB
 'ugly': ULG
-'fellow,': TP*EL KW-BG
+'fellow,': TP*EL/KW-BG
 'whom': WHOPL
 'everyone': EFRPB
 'called': KAULD
-'Dummling,': xxx Dummling KW-BG
+'Dummling,': xxx Dummling/KW-BG
 'should': SHO
 'take': TAEUBG
 'away': WA*EU
 'his': HEUS
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'he': HE
 'made': PHAED
 'a': AEU
 'new': TPHU
-'condition;': K-PB STPH*FPLT
+'condition;': K-PB/STPH*FPLT
 'he': HE
 'must': PHUFT
 'first': TPEUFRT
@@ -1277,18 +1277,18 @@ The Golden Goose
 'whole': WHOEL
 'mountain': PHOUPB/TAEUPB
 'of': -F
-'bread.': PWRAED TP-PL
+'bread.': PWRAED/TP-PL
 'Dummling': xxx Dummling
 'did': TK
 'not': TPHOT
 'think': THEU
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'but': PWUT
 'went': WEPBT
 'straight': STRAEUT
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'where': W-R
 'in': TPH
 'the': -T
@@ -1306,22 +1306,22 @@ The Golden Goose
 'body': PWO*ED
 'with': W
 'a': AEU
-'strap,': STRAP KW-BG
+'strap,': STRAP/KW-BG
 'and': SKP
 'making': PHAEUG
 'an': APB
 'awful': AUFL
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'and': SKP
-'saying:': SAEUG STPH-FPLT
-''I': AE EU
+'saying:': SAEUG/STPH-FPLT
+''I': AE/EU
 'have': SR
 'eaten': AOET/EPB
 'a': AEU
 'whole': WHOEL
 'ovenful': OEFPB/-FL
 'of': -F
-'rolls,': ROLS KW-BG
+'rolls,': ROLS/KW-BG
 'but': PWUT
 'what': WHA
 'good': TKPWAOD
@@ -1334,11 +1334,11 @@ The Golden Goose
 'a': AEU
 'hunger': HURPBG
 'as': AS
-'I?': EU H-F
+'I?': EU/H-F
 'My': KPA/PHEU
 'stomach': STUPL
 'remains': RE/PHAEUPBS
-'empty,': EPLT KW-BG
+'empty,': EPLT/KW-BG
 'and': SKP
 'I': EU
 'must': PHUFT
@@ -1352,25 +1352,25 @@ The Golden Goose
 'to': TO
 'die': TKAOEU
 'of': -F
-'hunger.'': HURPBG TP-PL AE
+'hunger.'': HURPBG/TP-PL/AE
 'At': KPA/AT
 'this': TH
 'Dummling': xxx Dummling
 'was': WAS
-'glad,': TKPWHRAD KW-BG
+'glad,': TKPWHRAD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Get': AE KPA/TKPWET
+'said:': SED/STPH-FPLT
+''Get': AE/KPA/TKPWET
 'up': UP
 'and': SKP
 'come': KOPL
 'with': W
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'you': U
 'shall': SHAL
 'eat': AOET
 'yourself': KWRO*URS
-'full.'': TPUL TP-PL AE
+'full.'': TPUL/TP-PL/AE
 'He': KPA/HE
 'led': HRED
 'him': HEUPL
@@ -1387,7 +1387,7 @@ The Golden Goose
 'whole': WHOEL
 'Kingdom': KPA/KEUPBG/TKOPL
 'was': WAS
-'collected,': KHREBGD KW-BG
+'collected,': KHREBGD/KW-BG
 'and': SKP
 'from': TPR
 'it': T
@@ -1400,7 +1400,7 @@ The Golden Goose
 'bread': PWRAED
 'to': TO
 'be': -B
-'baked.': PWAEUBGD TP-PL
+'baked.': PWAEUBGD/TP-PL
 'The': KPA/-T
 'man': PHAPB
 'from': TPR
@@ -1408,10 +1408,10 @@ The Golden Goose
 'forest': TPOEFRT
 'stood': STAOD
 'before': PW-FR
-'it,': T KW-BG
+'it,': T/KW-BG
 'began': TKPWAPB
 'to': TO
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'and': SKP
 'by': PWEU
 'the': -T
@@ -1423,7 +1423,7 @@ The Golden Goose
 'whole': WHOEL
 'mountain': PHOUPB/TAEUPB
 'had': H
-'vanished.': SRAPB/EURBD TP-PL
+'vanished.': SRAPB/EURBD/TP-PL
 'Then': KPA/THEPB
 'Dummling': xxx Dummling
 'for': TPOR
@@ -1433,7 +1433,7 @@ The Golden Goose
 'asked': SK-D
 'for': TPOR
 'his': HEUS
-'bride;': PWRAOEUD STPH*FPLT
+'bride;': PWRAOEUD/STPH*FPLT
 'but': PWUT
 'the': -T
 'king': KEUPBG
@@ -1441,7 +1441,7 @@ The Golden Goose
 'sought': SAUT
 'a': AEU
 'way': WAEU
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'ordered': ORD/-D
 'a': AEU
@@ -1453,8 +1453,8 @@ The Golden Goose
 'land': HRAPBD
 'and': SKP
 'on': OPB
-'water.': WAUR TP-PL
-''As': AE KPA/AS
+'water.': WAUR/TP-PL
+''As': AE/KPA/AS
 'soon': SAOPB
 'as': AS
 'you': U
@@ -1462,22 +1462,22 @@ The Golden Goose
 'sailing': SAEULG
 'back': PWABG
 'in': TPH
-'it,'': T KW-BG AE
+'it,'': T/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''you': AE U
+'he,': HE/KW-BG
+''you': AE/U
 'shall': SHAL
 'have': SR
 'my': PHEU
 'daughter': TKAUR
 'for': TPOR
-'wife.'': WAOEUF TP-PL AE
+'wife.'': WAOEUF/TP-PL/AE
 'Dummling': xxx Dummling
 'went': WEPBT
 'straight': STRAEUT
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'there': THR
 'sat': SAT
@@ -1491,16 +1491,16 @@ The Golden Goose
 'had': H
 'given': TKPWEUFPB
 'his': HEUS
-'cake.': KAEUBG TP-PL
+'cake.': KAEUBG/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'heard': HAERD
 'what': WHA
 'Dummling': xxx Dummling
-'wanted,': WAPBTD KW-BG
+'wanted,': WAPBTD/KW-BG
 'he': HE
-'said:': SED STPH-FPLT
-''Since': AE KPA/SEUPBS
+'said:': SED/STPH-FPLT
+''Since': AE/KPA/SEUPBS
 'you': U
 'have': SR
 'given': TKPWEUFPB
@@ -1509,13 +1509,13 @@ The Golden Goose
 'eat': AOET
 'and': SKP
 'to': TO
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'I': EU
 'will': HR
 'give': TKPWEUF
 'you': U
 'the': -T
-'ship;': SHEUP STPH*FPLT
+'ship;': SHEUP/STPH*FPLT
 'and': SKP
 'I': EU
 'do': TKO
@@ -1527,7 +1527,7 @@ The Golden Goose
 'were': WR
 'kind': KEUPBD
 'to': TO
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'gave': TKPWAEUF
@@ -1540,13 +1540,13 @@ The Golden Goose
 'on': OPB
 'land': HRAPBD
 'and': SKP
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
 'king': KEUPBG
 'saw': SAU
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'he': HE
 'could': KO
 'no': TPHO
@@ -1556,16 +1556,16 @@ The Golden Goose
 'from': TPR
 'having': SR-G
 'his': HEUS
-'daughter.': TKAUR TP-PL
+'daughter.': TKAUR/TP-PL
 'The': KPA/-T
 'wedding': WEGD
 'was': WAS
-'celebrated,': SEL/PWRAEUT/-D KW-BG
+'celebrated,': SEL/PWRAEUT/-D/KW-BG
 'and': SKP
 'after': AF
 'the': -T
 'king's': KEUPBG/AES
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'Dummling': xxx Dummling
 'inherited': EUPB/HERTD
 'his': HEUS
@@ -1579,6 +1579,6 @@ The Golden Goose
 'contentedly': KAUPBT/-D/HREU
 'with': W
 'his': HEUS
-'wife.': WAOEUF TP-PL
-'[*]': PWR-BGT STA*R PWR*BGT
+'wife.': WAOEUF/TP-PL
+'[*]': PWR-BGT/STA*R/PWR*BGT
 'Simpleton': KPA/S*EUPL/TO*PB

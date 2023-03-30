@@ -16,7 +16,7 @@ The Blue Light
 'served': SEFRBD
 'the': -T
 'king': KEUPBG
-'faithfully,': TPA*EUT/TPHREU KW-BG
+'faithfully,': TPA*EUT/TPHREU/KW-BG
 'but': PWUT
 'when': WHEPB
 'the': -T
@@ -37,23 +37,23 @@ The Blue Light
 'which': WEU
 'he': HE
 'had': H
-'received.': SAOEFD TP-PL
+'received.': SAOEFD/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''You': AE KPA/U
+'him:': HEUPL/STPH-FPLT
+''You': AE/KPA/U
 'may': PHAE
 'return': RURPB
 'to': TO
 'your': KWROUR
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'I': EU
 'need': TPHAOED
 'you': U
 'no': TPHO
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'and': SKP
 'you': U
 'will': HR
@@ -61,7 +61,7 @@ The Blue Light
 'receive': SAOEF
 'any': TPHEU
 'more': PHOR
-'money,': PHUPB KW-BG
+'money,': PHUPB/KW-BG
 'for': TPOR
 'he': HE
 'only': OEPBL
@@ -72,7 +72,7 @@ The Blue Light
 'me': PHE
 'service': S-FS
 'for': TPOR
-'them.'': THEPL TP-PL AE
+'them.'': THEPL/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'soldier': SHRERPBLG
@@ -83,16 +83,16 @@ The Blue Light
 'to': TO
 'earn': ERPB
 'a': AEU
-'living,': HREUFG KW-BG
+'living,': HREUFG/KW-BG
 'went': WEPBT
 'away': WA*EU
 'greatly': TKPWRAELT
-'troubled,': TRUBLD KW-BG
+'troubled,': TRUBLD/KW-BG
 'and': SKP
 'walked': WAUBGD
 'the': -T
 'whole': WHOEL
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'until': TPH-L
 'in': TPH
 'the': -T
@@ -100,20 +100,20 @@ The Blue Light
 'he': HE
 'entered': SPWR-D
 'a': AEU
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'When': KPA/WHEPB
 'darkness': TKARBG/-PBS
 'came': KAEUPL
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'he': HE
 'saw': SAU
 'a': AEU
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'which': WEU
 'he': HE
 'went': WEPBT
 'up': UP
-'to,': TO KW-BG
+'to,': TO/KW-BG
 'and': SKP
 'came': KAEUPL
 'to': TO
@@ -122,62 +122,62 @@ The Blue Light
 'wherein': WR-PB
 'lived': HREUFD
 'a': AEU
-'witch.': WEUFP TP-PL
-''Do': AE KPA/TKO
+'witch.': WEUFP/TP-PL
+''Do': AE/KPA/TKO
 'give': TKPWEUF
 'me': PHE
 'one': WUPB
-'night's': TPHAOEUT AES
-'lodging,': HROPBLG/-G KW-BG
+'night's': TPHAOEUT/AES
+'lodging,': HROPBLG/-G/KW-BG
 'and': SKP
 'a': AEU
 'little': HREUL
 'to': TO
 'eat': AOET
 'and': SKP
-'drink,'': TKREU KW-BG AE
+'drink,'': TKREU/KW-BG/AE
 'said': SED
 'he': HE
 'to': TO
-'her,': HER KW-BG
-''or': AE OR
+'her,': HER/KW-BG
+''or': AE/OR
 'I': EU
 'shall': SHAL
-'starve.'': STAFRB TP-PL AE
-''Oho!'': AE xxx Oho SKHRAPL AE
+'starve.'': STAFRB/TP-PL/AE
+''Oho!'': AE/xxx Oho/SKHRAPL/AE
 'she': SHE
-'answered,': AEPBS/-D KW-BG
-''who': AE WHO
+'answered,': AEPBS/-D/KW-BG
+''who': AE/WHO
 'gives': TKPWEUFS
 'anything': TPHEUG
 'to': TO
 'a': AEU
-'run-away': RUPB H-PB WA*EU
-'soldier?': SHRERPBLG H-F
+'run-away': RUPB/H-PB/WA*EU
+'soldier?': SHRERPBLG/H-F
 'Yet': KPA/KWRET
 'will': HR
 'I': EU
 'be': -B
-'compassionate,': KPAGS/TPHAT KW-BG
+'compassionate,': KPAGS/TPHAT/KW-BG
 'and': SKP
 'take': TAEUBG
 'you': U
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'if': TP
 'you': U
 'will': HR
 'do': TKO
 'what': WHA
 'I': EU
-'wish.'': WEURB TP-PL AE
-''What': AE KPA/WHA
+'wish.'': WEURB/TP-PL/AE
+''What': AE/KPA/WHA
 'do': TKO
 'you': U
-'wish?'': WEURB H-F AE
+'wish?'': WEURB/H-F/AE
 'said': SED
 'the': -T
-'soldier.': SHRERPBLG TP-PL
-''That': AE KPA/THA
+'soldier.': SHRERPBLG/TP-PL
+''That': AE/KPA/THA
 'you': U
 'should': SHO
 'dig': TKEUG
@@ -186,11 +186,11 @@ The Blue Light
 'my': PHEU
 'garden': TKPWA*RPB
 'for': TPOR
-'me,': PHE KW-BG
-'tomorrow.'': TORPL TP-PL AE
+'me,': PHE/KW-BG
+'tomorrow.'': TORPL/TP-PL/AE
 'The': KPA/-T
 'soldier': SHRERPBLG
-'consented,': KEFPBT/-D KW-BG
+'consented,': KEFPBT/-D/KW-BG
 'and': SKP
 'next': TPHEGT
 'day': TKAEU
@@ -198,7 +198,7 @@ The Blue Light
 'with': W
 'all': AUL
 'his': HEUS
-'strength,': STREPBG KW-BG
+'strength,': STREPBG/KW-BG
 'but': PWUT
 'could': KO
 'not': TPHOT
@@ -206,21 +206,21 @@ The Blue Light
 'it': T
 'by': PWEU
 'the': -T
-'evening.': AOEPBG TP-PL
-''I': AE EU
+'evening.': AOEPBG/TP-PL
+''I': AE/EU
 'see': SAOE
 'well': WEL
-'enough,'': TPHUF KW-BG AE
+'enough,'': TPHUF/KW-BG/AE
 'said': SED
 'the': -T
-'witch,': WEUFP KW-BG
-''that': AE THA
+'witch,': WEUFP/KW-BG
+''that': AE/THA
 'you': U
 'can': K
 'do': TKO
 'no': TPHO
 'more': PHOR
-'today,': TOED KW-BG
+'today,': TOED/KW-BG
 'but': PWUT
 'I': EU
 'will': HR
@@ -228,7 +228,7 @@ The Blue Light
 'you': U
 'yet': KWRET
 'another': TPHOER
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'in': TPH
 'payment': PAEUPLT
 'for': TPOR
@@ -241,11 +241,11 @@ The Blue Light
 'a': AEU
 'load': HRAOD
 'of': -F
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'chop': KHOP
 'it': T
-'small.'': SPHAL TP-PL AE
+'small.'': SPHAL/TP-PL/AE
 'The': KPA/-T
 'soldier': SHRERPBLG
 'spent': SPEPBT
@@ -254,7 +254,7 @@ The Blue Light
 'day': TKAEU
 'in': TPH
 'doing': TK*G
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -268,8 +268,8 @@ The Blue Light
 'stay': STAEU
 'one': WUPB
 'night': TPHAOEUT
-'more.': PHOR TP-PL
-''Tomorrow,': AE KPA/TORPL KW-BG
+'more.': PHOR/TP-PL
+''Tomorrow,': AE/KPA/TORPL/KW-BG
 'you': U
 'shall': SHAL
 'only': OEPBL
@@ -280,36 +280,36 @@ The Blue Light
 'trifling': TRAOEUFL/-G
 'piece': PAOES
 'of': -F
-'work.': WORBG TP-PL
+'work.': WORBG/TP-PL
 'Behind': KPA/HEUPBD
 'my': PHEU
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'there': THR
 'is': S
 'an': APB
 'old': OLD
 'dry': TKRAOEU
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'into': TPHAO
 'which': WEU
 'my': PHEU
 'light': HRAOEUT
 'has': HAS
-'fallen,': TPAUL/-PB KW-BG
+'fallen,': TPAUL/-PB/KW-BG
 'it': T
 'burns': PWURPBS
-'blue,': PWHRU KW-BG
+'blue,': PWHRU/KW-BG
 'and': SKP
 'never': TPHEFR
 'goes': TKPW-S
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'you': U
 'shall': SHAL
 'bring': PWREU
 'it': T
 'up': UP
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'Next': KPA/TPHEGT
 'day': TKAEU
 'the': -T
@@ -319,19 +319,19 @@ The Blue Light
 'him': HEUPL
 'to': TO
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'let': HRET
 'him': HEUPL
 'down': TKOUPB
 'in': TPH
 'a': AEU
-'basket.': PWAFBGT TP-PL
+'basket.': PWAFBGT/TP-PL
 'He': KPA/HE
 'found': TPOUPBD
 'the': -T
 'blue': PWHRU
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'and': SKP
 'made': PHAED
 'her': HER
@@ -341,19 +341,19 @@ The Blue Light
 'draw': TKRAU
 'him': HEUPL
 'up': UP
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'She': KPA/SHE
 'did': TK
 'draw': TKRAU
 'him': HEUPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'but': PWUT
 'when': WHEPB
 'he': HE
 'came': KAEUPL
 'near': TPHAOER
 'the': -T
-'edge,': EPBLG KW-BG
+'edge,': EPBLG/KW-BG
 'she': SHE
 'stretched': STREFPD
 'down': TKOUPB
@@ -368,15 +368,15 @@ The Blue Light
 'light': HRAOEUT
 'away': WA*EU
 'from': TPR
-'him.': HEUPL TP-PL
-''No,'': AE KPA/TPHO KW-BG AE
+'him.': HEUPL/TP-PL
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'perceiving': PER/SAOEFG
 'her': HER
 'evil': AOEFL
-'intention,': SPWEPBGS KW-BG
-''I': AE EU
+'intention,': SPWEPBGS/KW-BG
+''I': AE/EU
 'will': HR
 'not': TPHOT
 'give': TKPWEUF
@@ -392,23 +392,23 @@ The Blue Light
 'feet': TPAOET
 'upon': POPB
 'the': -T
-'ground.'': TKPWROUPBD TP-PL AE
+'ground.'': TKPWROUPBD/TP-PL/AE
 'The': KPA/-T
 'witch': WEUFP
 'fell': TPEL
 'into': TPHAO
 'a': AEU
-'passion,': PAGS KW-BG
+'passion,': PAGS/KW-BG
 'let': HRET
 'him': HEUPL
 'fall': TPAUL
 'again': TKPWEPB
 'into': TPHAO
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'went': WEPBT
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
 'poor': PAOR
 'soldier': SHRERPBLG
@@ -418,14 +418,14 @@ The Blue Light
 'on': OPB
 'the': -T
 'moist': PHOEUFT
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'and': SKP
 'the': -T
 'blue': PWHRU
 'light': HRAOEUT
 'went': WEPBT
 'on': OPB
-'burning,': PWURPBG KW-BG
+'burning,': PWURPBG/KW-BG
 'but': PWUT
 'of': -F
 'what': WHA
@@ -433,7 +433,7 @@ The Blue Light
 'was': WAS
 'that': THA
 'to': TO
-'him?': HEUPL H-F
+'him?': HEUPL/H-F
 'He': KPA/HE
 'saw': SAU
 'very': SRE
@@ -443,14 +443,14 @@ The Blue Light
 'could': KO
 'not': TPHOT
 'escape': SKAEP
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'He': KPA/HE
 'sat': SAT
 'for': TPOR
 'a': AEU
 'while': WHAOEUL
 'very': SRE
-'sorrowfully,': SOR/ROEFL/HREU KW-BG
+'sorrowfully,': SOR/ROEFL/HREU/KW-BG
 'then': THEPB
 'suddenly': SULD
 'he': HE
@@ -462,23 +462,23 @@ The Blue Light
 'found': TPOUPBD
 'his': HEUS
 'tobacco': TPWABG
-'pipe,': PAOEUP KW-BG
+'pipe,': PAOEUP/KW-BG
 'which': WEU
 'was': WAS
 'still': STEUL
 'half': HAF
-'full.': TPUL TP-PL
-''This': AE KPA/TH
+'full.': TPUL/TP-PL
+''This': AE/KPA/TH
 'shall': SHAL
 'be': -B
 'my': PHEU
 'last': HRAFT
-'pleasure,'': PHRERB KW-BG AE
+'pleasure,'': PHRERB/KW-BG/AE
 'thought': THAUT
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'pulled': PULD
 'it': T
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'lit': HREUT
 'it': T
 'at': AT
@@ -488,7 +488,7 @@ The Blue Light
 'and': SKP
 'began': TKPWAPB
 'to': TO
-'smoke.': SPHOEBG TP-PL
+'smoke.': SPHOEBG/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'smoke': SPHOEBG
@@ -496,7 +496,7 @@ The Blue Light
 'circled': SOEURBGD
 'about': PW
 'the': -T
-'cavern,': KAFRPB KW-BG
+'cavern,': KAFRPB/KW-BG
 'suddenly': SULD
 'a': AEU
 'little': HREUL
@@ -504,39 +504,39 @@ The Blue Light
 'dwarf': TKWAFR
 'stood': STAOD
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Lord,': AE HRO*RD KW-BG
+'said:': SED/STPH-FPLT
+''Lord,': AE/HRO*RD/KW-BG
 'what': WHA
 'are': R
 'your': KWROUR
-'commands?'': KPHAPBDZ H-F AE
-''What': AE KPA/WHA
+'commands?'': KPHAPBDZ/H-F/AE
+''What': AE/KPA/WHA
 'my': PHEU
 'commands': KPHAPBDZ
-'are?'': R H-F AE
+'are?'': R/H-F/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'quite': KWAOEUT
-'astonished.': A/STOPB/EURBD TP-PL
-''I': AE EU
+'astonished.': A/STOPB/EURBD/TP-PL
+''I': AE/EU
 'must': PHUFT
 'do': TKO
 'everything': EFRG
 'you': U
 'bid': PWEUD
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'said': SED
 'the': -T
 'little': HREUL
-'man.': PHAPB TP-PL
-''Good,'': AE KPA/TKPWAOD KW-BG AE
+'man.': PHAPB/TP-PL
+''Good,'': AE/KPA/TKPWAOD/KW-BG/AE
 'said': SED
 'the': -T
-'soldier;': SHRERPBLG STPH*FPLT
-''then': AE THEPB
+'soldier;': SHRERPBLG/STPH*FPLT
+''then': AE/THEPB
 'in': TPH
 'the': -T
 'first': TPEUFRT
@@ -546,7 +546,7 @@ The Blue Light
 'out': OUT
 'of': -F
 'this': TH
-'well.'': WEL TP-PL AE
+'well.'': WEL/TP-PL/AE
 'The': KPA/-T
 'little': HREUL
 'man': PHAPB
@@ -554,14 +554,14 @@ The Blue Light
 'him': HEUPL
 'by': PWEU
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
 'led': HRED
 'him': HEUPL
 'through': THRU
 'an': APB
 'underground': UPBD/TKPWROUPBD
-'passage,': PAFPBLG KW-BG
+'passage,': PAFPBLG/KW-BG
 'but': PWUT
 'he': HE
 'did': TK
@@ -573,7 +573,7 @@ The Blue Light
 'blue': PWHRU
 'light': HRAOEUT
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'On': KPA/OPB
 'the': -T
 'way': WAEU
@@ -590,7 +590,7 @@ The Blue Light
 'collected': KHREBGD
 'and': SKP
 'hidden': HEUD/EPB
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'the': -T
 'soldier': SHRERPBLG
@@ -601,30 +601,30 @@ The Blue Light
 'as': AS
 'he': HE
 'could': KO
-'carry.': KAER TP-PL
+'carry.': KAER/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'was': WAS
-'above,': PWOF KW-BG
+'above,': PWOF/KW-BG
 'he': HE
 'said': SED
 'to': TO
 'the': -T
 'little': HREUL
-'man:': PHAPB STPH-FPLT
-''Now': AE KPA/TPHOU
+'man:': PHAPB/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'go': TKPW
 'and': SKP
 'bind': PWAOEUPBD
 'the': -T
 'old': OLD
-'witch,': WEUFP KW-BG
+'witch,': WEUFP/KW-BG
 'and': SKP
 'carry': KAER
 'her': HER
 'before': PW-FR
 'the': -T
-'judge.'': SKWRUPBLG TP-PL AE
+'judge.'': SKWRUPBLG/TP-PL/AE
 'In': KPA/TPH
 'a': AEU
 'short': SHORT
@@ -634,15 +634,15 @@ The Blue Light
 'by': PWEU
 'like': HRAOEUBG
 'the': -T
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'riding': RAOEUD/-G
 'on': OPB
 'a': AEU
 'wild': WAOEULD
-'tom-cat': HRO*ER/TOPL H-PB KAT
+'tom-cat': HRO*ER/TOPL/H-PB/KAT
 'and': SKP
 'screaming': SKRAOEPLG
-'frightfully.': TPRAOEUT/-FL/HREU TP-PL
+'frightfully.': TPRAOEUT/-FL/HREU/TP-PL
 'Nor': KPA/TPH-R
 'was': WAS
 'it': T
@@ -651,14 +651,14 @@ The Blue Light
 'the': -T
 'little': HREUL
 'man': PHAPB
-'reappeared.': RAOE/A/PAOERD TP-PL
-''It': AE KPA/T
+'reappeared.': RAOE/A/PAOERD/TP-PL
+''It': AE/KPA/T
 'is': S
 'all': AUL
-'done,'': TKOPB KW-BG AE
+'done,'': TKOPB/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''and': AE SKP
+'he,': HE/KW-BG
+''and': AE/SKP
 'the': -T
 'witch': WEUFP
 'is': S
@@ -666,37 +666,37 @@ The Blue Light
 'hanging': HAPBG/-G
 'on': OPB
 'the': -T
-'gallows.': TKPWAL/HROE/-S TP-PL
+'gallows.': TKPWAL/HROE/-S/TP-PL
 'What': KPA/WHA
 'further': TPURT
 'commands': KPHAPBDZ
 'has': HAS
 'my': PHEU
-'lord?'': HRORD H-F AE
+'lord?'': HRORD/H-F/AE
 'inquired': EUPB/KWAOEURD
 'the': -T
-'dwarf.': TKWAFR TP-PL
-''At': AE KPA/AT
+'dwarf.': TKWAFR/TP-PL
+''At': AE/KPA/AT
 'this': TH
-'moment,': PHOEPLT KW-BG
-'none,'': TPHOPB KW-BG AE
+'moment,': PHOEPLT/KW-BG
+'none,'': TPHOPB/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'soldier;': SHRERPBLG STPH*FPLT
-''you': AE U
+'soldier;': SHRERPBLG/STPH*FPLT
+''you': AE/U
 'can': K
 'return': RURPB
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'only': OEPBL
 'be': -B
 'at': AT
 'hand': HAPBD
-'immediately,': PHAOELD KW-BG
+'immediately,': PHAOELD/KW-BG
 'if': TP
 'I': EU
 'summon': SPHOPB
-'you.'': U TP-PL AE
-''Nothing': AE KPA/TPHOG
+'you.'': U/TP-PL/AE
+''Nothing': AE/KPA/TPHOG
 'more': PHOR
 'is': S
 'needed': TPHAOETD
@@ -710,7 +710,7 @@ The Blue Light
 'at': AT
 'the': -T
 'blue': PWHRU
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'and': SKP
 'I': EU
 'will': HR
@@ -718,13 +718,13 @@ The Blue Light
 'before': PW-FR
 'you': U
 'at': AT
-'once.'': WUPBS TP-PL AE
+'once.'': WUPBS/TP-PL/AE
 'Thereupon': KPA/THRUP
 'he': HE
 'vanished': SRAPB/EURBD
 'from': TPR
 'his': HEUS
-'sight.': SAOEUT TP-PL
+'sight.': SAOEUT/TP-PL
 'The': KPA/-T
 'soldier': SHRERPBLG
 'returned': RURPBD
@@ -734,17 +734,17 @@ The Blue Light
 'from': TPR
 'which': WEU
 'he': HE
-'came.': KAEUPL TP-PL
+'came.': KAEUPL/TP-PL
 'He': KPA/HE
 'went': WEPBT
 'to': TO
 'the': -T
 'best': PWEFT
-'inn,': TPH*PB KW-BG
+'inn,': TPH*PB/KW-BG
 'ordered': ORD/-D
 'himself': HEUPLS
 'handsome': HAPBD/SO*PL
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'then': THEPB
 'bade': PWAEUD
@@ -757,7 +757,7 @@ The Blue Light
 'as': AS
 'handsome': HAPBD/SO*PL
 'as': AS
-'possible.': POB TP-PL
+'possible.': POB/TP-PL
 'When': KPA/WHEPB
 'it': T
 'was': WAS
@@ -769,7 +769,7 @@ The Blue Light
 'taken': TAEPB
 'possession': PEFGS
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'he': HE
 'summoned': SPHUPBD
 'the': -T
@@ -777,23 +777,23 @@ The Blue Light
 'black': PWHRABG
 'manikin': xxx manikin
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'have': SR
 'served': SEFRBD
 'the': -T
 'king': KEUPBG
-'faithfully,': TPA*EUT/TPHREU KW-BG
+'faithfully,': TPA*EUT/TPHREU/KW-BG
 'but': PWUT
 'he': HE
 'has': HAS
 'dismissed': TKEUS/PHEUS/-D
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'left': HREFT
 'me': PHE
 'to': TO
-'hunger,': HURPBG KW-BG
+'hunger,': HURPBG/KW-BG
 'and': SKP
 'now': TPHOU
 'I': EU
@@ -801,43 +801,43 @@ The Blue Light
 'to': TO
 'take': TAEUBG
 'my': PHEU
-'revenge.'': RE/SREPBG TP-PL AE
-''What': AE KPA/WHA
+'revenge.'': RE/SREPBG/TP-PL/AE
+''What': AE/KPA/WHA
 'am': APL
 'I': EU
 'to': TO
-'do?'': TKO H-F AE
+'do?'': TKO/H-F/AE
 'asked': SK-D
 'the': -T
 'little': HREUL
-'man.': PHAPB TP-PL
-''Late': AE KPA/HRAEUT
+'man.': PHAPB/TP-PL
+''Late': AE/KPA/HRAEUT
 'at': AT
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'when': WHEPB
 'the': -T
 'king's': KEUPBG/AES
 'daughter': TKAUR
 'is': S
 'in': TPH
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'bring': PWREU
 'her': HER
 'here': HAOER
 'in': TPH
 'her': HER
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'she': SHE
 'shall': SHAL
 'do': TKO
-'servant's': SEFRB/APBT AES
+'servant's': SEFRB/APBT/AES
 'work': WORBG
 'for': TPOR
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'The': KPA/-T
 'manikin': xxx manikin
-'said:': SED STPH-FPLT
-''That': AE KPA/THA
+'said:': SED/STPH-FPLT
+''That': AE/KPA/THA
 'is': S
 'an': APB
 'easy': EZ
@@ -852,57 +852,57 @@ The Blue Light
 'dangerous': TKAEUPBLGS
 'thing': THEUPBG
 'for': TPOR
-'you,': U KW-BG
+'you,': U/KW-BG
 'for': TPOR
 'if': TP
 'it': T
 'is': S
-'discovered,': SKOFD KW-BG
+'discovered,': SKOFD/KW-BG
 'you': U
 'will': HR
 'fare': TPA*ER
-'ill.'': EUL TP-PL AE
+'ill.'': EUL/TP-PL/AE
 'When': KPA/WHEPB
 'twelve': TWEFL
 'o'clock': KHRO*BG
 'had': H
-'struck,': STRUBG KW-BG
+'struck,': STRUBG/KW-BG
 'the': -T
 'door': TKAOR
 'sprang': SPRAPBG
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'and': SKP
 'the': -T
 'manikin': xxx manikin
 'carried': KAERD
 'in': TPH
 'the': -T
-'princess.': PREUPB/SES TP-PL
-''Aha!': AE xxx Aha SKHRAPL
+'princess.': PREUPB/SES/TP-PL
+''Aha!': AE/xxx Aha/SKHRAPL
 'are': R
 'you': U
-'there?'': THR H-F AE
+'there?'': THR/H-F/AE
 'cried': KRAOEUD
 'the': -T
-'soldier,': SHRERPBLG KW-BG
-''get': AE TKPWET
+'soldier,': SHRERPBLG/KW-BG
+''get': AE/TKPWET
 'to': TO
 'your': KWROUR
 'work': WORBG
 'at': AT
-'once!': WUPBS SKHRAPL
+'once!': WUPBS/SKHRAPL
 'Fetch': KPA/TPEFP
 'the': -T
 'broom': PWRAOPL
 'and': SKP
 'sweep': SWAOEP
 'the': -T
-'chamber.'': KHAEURPL TP-PL AE
+'chamber.'': KHAEURPL/TP-PL/AE
 'When': KPA/WHEPB
 'she': SHE
 'had': H
 'done': TKOPB
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'he': HE
 'ordered': ORD/-D
 'her': HER
@@ -910,7 +910,7 @@ The Blue Light
 'come': KOPL
 'to': TO
 'his': HEUS
-'chair,': KHAEUR KW-BG
+'chair,': KHAEUR/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
@@ -919,11 +919,11 @@ The Blue Light
 'his': HEUS
 'feet': TPAOET
 'and': SKP
-'said:': SED STPH-FPLT
-''Pull': AE KPA/PUL
+'said:': SED/STPH-FPLT
+''Pull': AE/KPA/PUL
 'off': OF
 'my': PHEU
-'boots,'': PWAOTS KW-BG AE
+'boots,'': PWAOTS/KW-BG/AE
 'and': SKP
 'then': THEPB
 'he': HE
@@ -931,38 +931,38 @@ The Blue Light
 'them': THEPL
 'in': TPH
 'her': HER
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'and': SKP
 'made': PHAED
 'her': HER
 'pick': PEUBG
 'them': THEPL
 'up': UP
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'clean': KHRAOEPB
 'and': SKP
 'brighten': PWRAOEUT/*EPB
-'them.': THEPL TP-PL
-'She,': KPA/SHE KW-BG
-'however,': HOUF KW-BG
+'them.': THEPL/TP-PL
+'She,': KPA/SHE/KW-BG
+'however,': HOUF/KW-BG
 'did': TK
 'everything': EFRG
 'he': HE
 'bade': PWAEUD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'without': WOUT
-'opposition,': OP/POGS KW-BG
+'opposition,': OP/POGS/KW-BG
 'silently': SHREPBLT
 'and': SKP
 'with': W
-'half-shut': HAF H-PB SHUT
-'eyes.': AO*EUS TP-PL
+'half-shut': HAF/H-PB/SHUT
+'eyes.': AO*EUS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'first': TPEUFRT
 'cock': KOBG
-'crowed,': KROE/-D KW-BG
+'crowed,': KROE/-D/KW-BG
 'the': -T
 'manikin': xxx manikin
 'carried': KAERD
@@ -971,13 +971,13 @@ The Blue Light
 'to': TO
 'the': -T
 'royal': ROEUL
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'and': SKP
 'laid': HRAEUD
 'her': HER
 'in': TPH
 'her': HER
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'Next': KPA/TPHEGT
 'morning': PHORPBG
 'when': WHEPB
@@ -988,7 +988,7 @@ The Blue Light
 'went': WEPBT
 'to': TO
 'her': HER
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'told': TOLD
 'him': HEUPL
@@ -999,8 +999,8 @@ The Blue Light
 'a': AEU
 'very': SRE
 'strange': STRAEUPBG
-'dream.': TKRAOEPL TP-PL
-''I': AE EU
+'dream.': TKRAOEPL/TP-PL
+''I': AE/EU
 'was': WAS
 'carried': KAERD
 'through': THRU
@@ -1010,15 +1010,15 @@ The Blue Light
 'the': -T
 'rapidity': RAPD/TEU
 'of': -F
-'lightning,'': HRAOEUT/TPHEUPBG KW-BG AE
+'lightning,'': HRAOEUT/TPHEUPBG/KW-BG/AE
 'said': SED
-'she,': SHE KW-BG
-''and': AE SKP
+'she,': SHE/KW-BG
+''and': AE/SKP
 'taken': TAEPB
 'into': TPHAO
 'a': AEU
-'soldier's': SHRERPBLG AES
-'room,': RAOPL KW-BG
+'soldier's': SHRERPBLG/AES
+'room,': RAOPL/KW-BG
 'and': SKP
 'I': EU
 'had': H
@@ -1028,25 +1028,25 @@ The Blue Light
 'him': HEUPL
 'like': HRAOEUBG
 'a': AEU
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'sweep': SWAOEP
 'his': HEUS
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'clean': KHRAOEPB
 'his': HEUS
-'boots,': PWAOTS KW-BG
+'boots,': PWAOTS/KW-BG
 'and': SKP
 'do': TKO
 'all': AUL
 'kinds': KEUPBDZ
 'of': -F
 'menial': PHAOEPBL
-'work.': WORBG TP-PL
+'work.': WORBG/TP-PL
 'It': KPA/T
 'was': WAS
 'only': OEPBL
 'a': AEU
-'dream,': TKRAOEPL KW-BG
+'dream,': TKRAOEPL/KW-BG
 'and': SKP
 'yet': KWRET
 'I': EU
@@ -1060,30 +1060,30 @@ The Blue Light
 'really': R-L
 'had': H
 'done': TKOPB
-'everything.'': EFRG TP-PL AE
-''The': AE KPA/-T
+'everything.'': EFRG/TP-PL/AE
+''The': AE/KPA/-T
 'dream': TKRAOEPL
 'may': PHAE
 'have': SR
 'been': PW-PB
-'true,'': TRAOU KW-BG AE
+'true,'': TRAOU/KW-BG/AE
 'said': SED
 'the': -T
-'king.': KEUPBG TP-PL
-''I': AE EU
+'king.': KEUPBG/TP-PL
+''I': AE/EU
 'will': HR
 'give': TKPWEUF
 'you': U
 'a': AEU
 'piece': PAOES
 'of': -F
-'advice.': SREUS TP-PL
+'advice.': SREUS/TP-PL
 'Fill': KPA/TPEUL
 'your': KWROUR
 'pocket': POBGT
 'full': TPUL
 'of': -F
-'peas,': PAOEZ KW-BG
+'peas,': PAOEZ/KW-BG
 'and': SKP
 'make': PHAEUBG
 'a': AEU
@@ -1091,7 +1091,7 @@ The Blue Light
 'hole': HOEL
 'in': TPH
 'the': -T
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'then': THEPB
 'if': TP
@@ -1099,7 +1099,7 @@ The Blue Light
 'are': R
 'carried': KAERD
 'away': WA*EU
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'they': THE
 'will': HR
 'fall': TPAUL
@@ -1110,12 +1110,12 @@ The Blue Light
 'track': TRABG
 'in': TPH
 'the': -T
-'streets.'': STRAOETS TP-PL AE
+'streets.'': STRAOETS/TP-PL/AE
 'But': KPA/PWUT
 'unseen': UPB/SAOEPB
 'by': PWEU
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'the': -T
 'manikin': xxx manikin
 'was': WAS
@@ -1125,10 +1125,10 @@ The Blue Light
 'when': WHEPB
 'he': HE
 'said': SED
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'and': SKP
 'heard': HAERD
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'At': KPA/AT
 'night': TPHAOEUT
 'when': WHEPB
@@ -1140,7 +1140,7 @@ The Blue Light
 'carried': KAERD
 'through': THRU
 'the': -T
-'streets,': STRAOETS KW-BG
+'streets,': STRAOETS/KW-BG
 'some': SOPL
 'peas': PAOEZ
 'certainly': SERPBL
@@ -1149,12 +1149,12 @@ The Blue Light
 'out': OUT
 'of': -F
 'her': HER
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'but': PWUT
 'they': THE
 'made': PHAED
 'no': TPHO
-'track,': TRABG KW-BG
+'track,': TRABG/KW-BG
 'for': TPOR
 'the': -T
 'crafty': KRAF/TEU
@@ -1168,7 +1168,7 @@ The Blue Light
 'every': EF
 'street': STRAOET
 'there': THR
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'And': AFPBD
 'again': TKPWEPB
 'the': -T
@@ -1177,10 +1177,10 @@ The Blue Light
 'compelled': KPELD
 'to': TO
 'do': TKO
-'servant's': SEFRB/APBT AES
+'servant's': SEFRB/APBT/AES
 'work': WORBG
 'until': TPH-L
-'cock-crow.': KOBG H-PB KROE TP-PL
+'cock-crow.': KOBG/H-PB/KROE/TP-PL
 'Next': KPA/TPHEGT
 'morning': PHORPBG
 'the': -T
@@ -1192,13 +1192,13 @@ The Blue Light
 'to': TO
 'seek': SAOEBG
 'the': -T
-'track,': TRABG KW-BG
+'track,': TRABG/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'all': AUL
 'in': TPH
-'vain,': SRA*EUPB KW-BG
+'vain,': SRA*EUPB/KW-BG
 'for': TPOR
 'in': TPH
 'every': EF
@@ -1206,29 +1206,29 @@ The Blue Light
 'poor': PAOR
 'children': KHEURPB
 'were': WR
-'sitting,': SEUGT KW-BG
+'sitting,': SEUGT/KW-BG
 'picking': P*EUG
 'up': UP
-'peas,': PAOEZ KW-BG
+'peas,': PAOEZ/KW-BG
 'and': SKP
-'saying:': SAEUG STPH-FPLT
-''It': AE KPA/T
+'saying:': SAEUG/STPH-FPLT
+''It': AE/KPA/T
 'must': PHUFT
 'have': SR
 'rained': RAEUPBD
-'peas,': PAOEZ KW-BG
+'peas,': PAOEZ/KW-BG
 'last': HRAFT
-'night.'': TPHAOEUT TP-PL AE
-''We': AE KPA/WE
+'night.'': TPHAOEUT/TP-PL/AE
+''We': AE/KPA/WE
 'must': PHUFT
 'think': THEU
 'of': -F
 'something': S-G
-'else,'': ELS KW-BG AE
+'else,'': ELS/KW-BG/AE
 'said': SED
 'the': -T
-'king;': KEUPBG STPH*FPLT
-''keep': AE KAOEP
+'king;': KEUPBG/STPH*FPLT
+''keep': AE/KAOEP
 'your': KWROUR
 'shoes': SHAOUS
 'on': OPB
@@ -1236,7 +1236,7 @@ The Blue Light
 'you': U
 'go': TKPW
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'before': PW-FR
 'you': U
@@ -1248,25 +1248,25 @@ The Blue Light
 'where': W-R
 'you': U
 'are': R
-'taken,': TAEPB KW-BG
+'taken,': TAEPB/KW-BG
 'hide': HAOEUD
 'one': WUPB
 'of': -F
 'them': THEPL
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'I': EU
 'will': HR
 'soon': SAOPB
 'contrive': KAUPB/TRAOEUF
 'to': TO
 'find': TPAOEUPBD
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'The': KPA/-T
 'black': PWHRABG
 'manikin': xxx manikin
 'heard': HAERD
 'this': TH
-'plot,': PHROT KW-BG
+'plot,': PHROT/KW-BG
 'and': SKP
 'at': AT
 'night': TPHAOEUT
@@ -1279,11 +1279,11 @@ The Blue Light
 'to': TO
 'bring': PWREU
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'revealed': RE/SRAOELD
 'it': T
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'told': TOLD
 'him': HEUPL
@@ -1296,7 +1296,7 @@ The Blue Light
 'to': TO
 'counteract': KOUPBT/ER/ABGT
 'this': TH
-'stratagem,': STRAT/SKWREPL KW-BG
+'stratagem,': STRAT/SKWREPL/KW-BG
 'and': SKP
 'that': THA
 'if': TP
@@ -1306,22 +1306,22 @@ The Blue Light
 'found': TPOUPBD
 'in': TPH
 'the': -T
-'soldier's': SHRERPBLG AES
+'soldier's': SHRERPBLG/AES
 'house': HOUS
 'it': T
 'would': WO
 'go': TKPW
 'badly': PWAD/HREU
 'with': W
-'him.': HEUPL TP-PL
-''Do': AE KPA/TKO
+'him.': HEUPL/TP-PL
+''Do': AE/KPA/TKO
 'what': WHA
 'I': EU
 'bid': PWEUD
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'and': SKP
 'again': TKPWEPB
 'this': TH
@@ -1335,19 +1335,19 @@ The Blue Light
 'work': WORBG
 'like': HRAOEUBG
 'a': AEU
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'but': PWUT
 'before': PW-FR
 'she': SHE
 'went': WEPBT
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'she': SHE
 'hid': HEUD
 'her': HER
 'shoe': SHAOU
 'under': TPH-PB
 'the': -T
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'Next': KPA/TPHEGT
 'morning': PHORPBG
 'the': -T
@@ -1360,17 +1360,17 @@ The Blue Light
 'for': TPOR
 'his': HEUS
 'daughter's': TKAUR/AES
-'shoe.': SHAOU TP-PL
+'shoe.': SHAOU/TP-PL
 'It': KPA/T
 'was': WAS
 'found': TPOUPBD
 'at': AT
 'the': -T
-'soldier's,': SHRERPBLG AE S* KW-BG
+'soldier's,': SHRERPBLG/AE/S*/KW-BG
 'and': SKP
 'the': -T
 'soldier': SHRERPBLG
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'who': WHO
 'at': AT
 'the': -T
@@ -1382,15 +1382,15 @@ The Blue Light
 'gone': TKPWOPB
 'outside': OUDZ
 'the': -T
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'was': WAS
 'soon': SAOPB
 'brought': PWRAUT
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'thrown': THROEPB
 'into': TPHAO
-'prison.': PREUZ TP-PL
+'prison.': PREUZ/TP-PL
 'In': KPA/TPH
 'his': HEUS
 'flight': TPHRAOEUT
@@ -1402,13 +1402,13 @@ The Blue Light
 'valuable': SRABL
 'things': THEUPBGS
 'he': HE
-'had,': H KW-BG
+'had,': H/KW-BG
 'the': -T
 'blue': PWHRU
 'light': HRAOEUT
 'and': SKP
 'the': -T
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'and': SKP
 'had': H
 'only': OEPBL
@@ -1416,12 +1416,12 @@ The Blue Light
 'ducat': TKUBG/A*T
 'in': TPH
 'his': HEUS
-'pocket.': POBGT TP-PL
+'pocket.': POBGT/TP-PL
 'And': AFPBD
 'now': TPHOU
 'loaded': HRAOD/-D
 'with': W
-'chains,': KHAEUPBS KW-BG
+'chains,': KHAEUPBS/KW-BG
 'he': HE
 'was': WAS
 'standing': STAPBG
@@ -1430,7 +1430,7 @@ The Blue Light
 'window': WOEUPBD
 'of': -F
 'his': HEUS
-'dungeon,': TKUPBGS KW-BG
+'dungeon,': TKUPBGS/KW-BG
 'when': WHEPB
 'he': HE
 'chanced': KHAPBS/-D
@@ -1441,7 +1441,7 @@ The Blue Light
 'his': HEUS
 'comrades': KOPL/RADZ
 'passing': PAFG
-'by.': PWEU TP-PL
+'by.': PWEU/TP-PL
 'The': KPA/-T
 'soldier': SHRERPBLG
 'tapped': TAPD
@@ -1449,17 +1449,17 @@ The Blue Light
 'the': -T
 'pane': PAEPB
 'of': -F
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'and': SKP
 'when': WHEPB
 'this': TH
 'man': PHAPB
 'came': KAEUPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''Be': AE KPA/-B
+'him:': HEUPL/STPH-FPLT
+''Be': AE/KPA/-B
 'so': SO
 'kind': KEUPBD
 'as': AS
@@ -1475,7 +1475,7 @@ The Blue Light
 'lying': HRAOEUG
 'in': TPH
 'the': -T
-'inn,': TPH*PB KW-BG
+'inn,': TPH*PB/KW-BG
 'and': SKP
 'I': EU
 'will': HR
@@ -1485,7 +1485,7 @@ The Blue Light
 'ducat': TKUBG/A*T
 'for': TPOR
 'doing': TK*G
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'His': KPA/HEUS
 'comrade': KOPL/RAD
 'ran': RAPB
@@ -1495,7 +1495,7 @@ The Blue Light
 'him': HEUPL
 'what': WHA
 'he': HE
-'wanted.': WAPBTD TP-PL
+'wanted.': WAPBTD/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -1503,7 +1503,7 @@ The Blue Light
 'soldier': SHRERPBLG
 'was': WAS
 'alone': A/HROEPB
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'he': HE
 'lighted': HRAOEUTD
 'his': HEUS
@@ -1512,61 +1512,61 @@ The Blue Light
 'summoned': SPHUPBD
 'the': -T
 'black': PWHRABG
-'manikin.': xxx manikin TP-PL
-''Have': AE KPA/SR
+'manikin.': xxx manikin/TP-PL
+''Have': AE/KPA/SR
 'no': TPHO
-'fear,'': TPAOER KW-BG AE
+'fear,'': TPAOER/KW-BG/AE
 'said': SED
 'the': -T
 'latter': HRART
 'to': TO
 'his': HEUS
-'master.': PHAFRT TP-PL
-''Go': AE KPA/TKPW
+'master.': PHAFRT/TP-PL
+''Go': AE/KPA/TKPW
 'wheresoever': xxx wheresoever
 'they': THE
 'take': TAEUBG
-'you,': U KW-BG
+'you,': U/KW-BG
 'and': SKP
 'let': HRET
 'them': THEPL
 'do': TKO
 'what': WHA
 'they': THE
-'will,': HR KW-BG
+'will,': HR/KW-BG
 'only': OEPBL
 'take': TAEUBG
 'the': -T
 'blue': PWHRU
 'light': HRAOEUT
 'with': W
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Next': KPA/TPHEGT
 'day': TKAEU
 'the': -T
 'soldier': SHRERPBLG
 'was': WAS
-'tried,': TRAOEUD KW-BG
+'tried,': TRAOEUD/KW-BG
 'and': SKP
 'though': THOE
 'he': HE
 'had': H
 'done': TKOPB
 'nothing': TPHOG
-'wicked,': WEUBGD KW-BG
+'wicked,': WEUBGD/KW-BG
 'the': -T
 'judge': SKWRUPBLG
 'condemned': KAUPB/TKEPL/-D
 'him': HEUPL
 'to': TO
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'was': WAS
 'led': HRED
 'forth': TPO*RT
 'to': TO
-'die,': TKAOEU KW-BG
+'die,': TKAOEU/KW-BG
 'he': HE
 'begged': PWEGD
 'a': AEU
@@ -1574,14 +1574,14 @@ The Blue Light
 'favour': TPAEU/SROUR
 'of': -F
 'the': -T
-'king.': KEUPBG TP-PL
-''What': AE KPA/WHA
+'king.': KEUPBG/TP-PL
+''What': AE/KPA/WHA
 'is': S
-'it?'': T H-F AE
+'it?'': T/H-F/AE
 'asked': SK-D
 'the': -T
-'king.': KEUPBG TP-PL
-''That': AE KPA/THA
+'king.': KEUPBG/TP-PL
+''That': AE/KPA/THA
 'I': EU
 'may': PHAE
 'smoke': SPHOEBG
@@ -1590,15 +1590,15 @@ The Blue Light
 'pipe': PAOEUP
 'on': OPB
 'my': PHEU
-'way.'': WAEU TP-PL AE
-''You': AE KPA/U
+'way.'': WAEU/TP-PL/AE
+''You': AE/KPA/U
 'may': PHAE
 'smoke': SPHOEBG
-'three,'': THRAOE KW-BG AE
+'three,'': THRAOE/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'king,': KEUPBG KW-BG
-''but': AE PWUT
+'king,': KEUPBG/KW-BG
+''but': AE/PWUT
 'do': TKO
 'not': TPHOT
 'imagine': PHAPBLG
@@ -1607,7 +1607,7 @@ The Blue Light
 'will': HR
 'spare': SPAEUR
 'your': KWROUR
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'soldier': SHRERPBLG
@@ -1621,7 +1621,7 @@ The Blue Light
 'at': AT
 'the': -T
 'blue': PWHRU
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -1632,7 +1632,7 @@ The Blue Light
 'of': -F
 'smoke': SPHOEBG
 'had': H
-'ascended,': A/SEPBD/-D KW-BG
+'ascended,': A/SEPBD/-D/KW-BG
 'the': -T
 'manikin': xxx manikin
 'was': WAS
@@ -1643,25 +1643,25 @@ The Blue Light
 'cudgel': xxx cudgel
 'in': TPH
 'his': HEUS
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''What': AE KPA/WHA
+'said:': SED/STPH-FPLT
+''What': AE/KPA/WHA
 'does': TKOS
 'my': PHEU
 'lord': HRORD
-'command?'': KPHAPBD H-F AE
-''Strike': AE KPA/STRAOEUBG
+'command?'': KPHAPBD/H-F/AE
+''Strike': AE/KPA/STRAOEUBG
 'down': TKOUPB
 'to': TO
 'earth': *ERT
 'that': THA
 'false': TPALS
 'judge': SKWRUPBLG
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'his': HEUS
-'constable,': KAUPB/STABL KW-BG
+'constable,': KAUPB/STABL/KW-BG
 'and': SKP
 'spare': SPAEUR
 'not': TPHOT
@@ -1672,7 +1672,7 @@ The Blue Light
 'treated': TRAOETD
 'me': PHE
 'so': SO
-'ill.'': EUL TP-PL AE
+'ill.'': EUL/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'manikin': xxx manikin
@@ -1680,13 +1680,13 @@ The Blue Light
 'on': OPB
 'them': THEPL
 'like': HRAOEUBG
-'lightning,': HRAOEUT/TPHEUPBG KW-BG
+'lightning,': HRAOEUT/TPHEUPBG/KW-BG
 'darting': TKART/-G
 'this': TH
 'way': WAEU
 'and': SKP
 'that': THA
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'whosoever': WHO/SOFR
 'was': WAS
@@ -1699,25 +1699,25 @@ The Blue Light
 'cudgel': xxx cudgel
 'fell': TPEL
 'to': TO
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
 'venture': SREPBT/UR
 'to': TO
 'stir': STEUR
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'was': WAS
-'terrified;': TER/TPAOEUD STPH*FPLT
+'terrified;': TER/TPAOEUD/STPH*FPLT
 'he': HE
 'threw': THRAOU
 'himself': HEUPLS
 'on': OPB
 'the': -T
-'soldier's': SHRERPBLG AES
-'mercy,': PHER/SEU KW-BG
+'soldier's': SHRERPBLG/AES
+'mercy,': PHER/SEU/KW-BG
 'and': SKP
 'merely': PHAOERL
 'to': TO
@@ -1726,16 +1726,16 @@ The Blue Light
 'to': TO
 'live': HREUF
 'at': AT
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'gave': TKPWAEUF
 'him': HEUPL
 'his': HEUS
 'kingdom': KEUPBG/TKOPL
 'for': TPOR
 'his': HEUS
-'own,': OEPB KW-BG
+'own,': OEPB/KW-BG
 'and': SKP
 'his': HEUS
 'daughter': TKAUR
 'to': TO
-'wife.': WAOEUF TP-PL
+'wife.': WAOEUF/TP-PL

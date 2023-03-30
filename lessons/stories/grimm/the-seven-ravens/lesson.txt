@@ -8,20 +8,20 @@ The Seven Ravens
 'who': WHO
 'had': H
 'seven': SEFPB
-'sons,': SOPBS KW-BG
+'sons,': SOPBS/KW-BG
 'and': SKP
 'last': HRAFT
 'of': -F
 'all': AUL
 'one': WUPB
-'daughter.': TKAUR TP-PL
+'daughter.': TKAUR/TP-PL
 'Although': KPA/HR*T
 'the': -T
 'little': HREUL
 'girl': TKPWEURL
 'was': WAS
 'very': SRE
-'pretty,': PREUT KW-BG
+'pretty,': PREUT/KW-BG
 'she': SHE
 'was': WAS
 'so': SO
@@ -34,7 +34,7 @@ The Seven Ravens
 'she': SHE
 'could': KO
 'not': TPHOT
-'live;': HREUF STPH*FPLT
+'live;': HREUF/STPH*FPLT
 'but': PWUT
 'they': THE
 'said': SED
@@ -43,7 +43,7 @@ The Seven Ravens
 'at': AT
 'once': WUPBS
 'be': -B
-'christened.': KREUS/-PBD TP-PL
+'christened.': KREUS/-PBD/TP-PL
 'So': KPA/SO
 'the': -T
 'father': TPAER
@@ -60,14 +60,14 @@ The Seven Ravens
 'to': TO
 'get': TKPWET
 'some': SOPL
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'but': PWUT
 'the': -T
 'other': OER
 'six': SEUBGS
 'ran': RAPB
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Each': KPA/AOEFP
 'wanted': WAPBTD
 'to': TO
@@ -76,7 +76,7 @@ The Seven Ravens
 'at': AT
 'drawing': TKRAUG
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'so': SO
 'they': THE
@@ -93,7 +93,7 @@ The Seven Ravens
 'fall': TPAUL
 'into': TPHAO
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'they': THE
 'stood': STAOD
@@ -102,7 +102,7 @@ The Seven Ravens
 'looking': HRAOG
 'at': AT
 'one': WUPB
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
@@ -114,14 +114,14 @@ The Seven Ravens
 'none': TPHOPB
 'dared': TKAEURD
 'go': TKPW
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'In': KPA/TPH
 'the': -T
 'meantime': PHAOEPB/TAO*EUPL
 'the': -T
 'father': TPAER
 'was': WAS
-'uneasy,': UPB/EZ KW-BG
+'uneasy,': UPB/EZ/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -133,11 +133,11 @@ The Seven Ravens
 'men': PHEPB
 'stay': STAEU
 'so': SO
-'long.': HROPBG TP-PL
-''Surely,'': AE KPA/SHURL KW-BG AE
+'long.': HROPBG/TP-PL
+''Surely,'': AE/KPA/SHURL/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''the': AE -T
+'he,': HE/KW-BG
+''the': AE/-T
 'whole': WHOEL
 'seven': SEFPB
 'must': PHUFT
@@ -148,7 +148,7 @@ The Seven Ravens
 'some': SOPL
 'game': TKPWAEUPL
 'of': -F
-'play';': PHRAEU AE STPH*FPLT
+'play';': PHRAEU/AE/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -161,7 +161,7 @@ The Seven Ravens
 'yet': KWRET
 'did': TK
 'not': TPHOT
-'come,': KOPL KW-BG
+'come,': KOPL/KW-BG
 'he': HE
 'flew': TPHRAOU
 'into': TPHAO
@@ -173,7 +173,7 @@ The Seven Ravens
 'all': AUL
 'turned': TURPBD
 'into': TPHAO
-'ravens.': RA*EUF/-PBS TP-PL
+'ravens.': RA*EUF/-PBS/TP-PL
 'Scarcely': KPA/SKAEURS/HREU
 'had': H
 'he': HE
@@ -187,7 +187,7 @@ The Seven Ravens
 'croaking': KROEBG/-G
 'over': OEFR
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'up': UP
@@ -202,7 +202,7 @@ The Seven Ravens
 'flying': TPHRAOEUG
 'round': ROUPBD
 'and': SKP
-'round.': ROUPBD TP-PL
+'round.': ROUPBD/TP-PL
 'Sorry': KPA/SOER
 'as': AS
 'he': HE
@@ -212,7 +212,7 @@ The Seven Ravens
 'his': HEUS
 'wish': WEURB
 'so': SO
-'fulfilled,': TPUL/TPEULD KW-BG
+'fulfilled,': TPUL/TPEULD/KW-BG
 'he': HE
 'did': TK
 'not': TPHOT
@@ -223,7 +223,7 @@ The Seven Ravens
 'done': TKOPB
 'could': KO
 'be': -B
-'undone,': UPB/TKOPB KW-BG
+'undone,': UPB/TKOPB/KW-BG
 'and': SKP
 'comforted': K-FRTD
 'himself': HEUPLS
@@ -243,7 +243,7 @@ The Seven Ravens
 'his': HEUS
 'dear': TKAER
 'little': HREUL
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'who': WHO
 'soon': SAOPB
 'became': PWAEUPL
@@ -252,7 +252,7 @@ The Seven Ravens
 'every': EF
 'day': TKAEU
 'more': PHOR
-'beautiful.': PWAOUFL TP-PL
+'beautiful.': PWAOUFL/TP-PL
 'For': KPA/TPOR
 'a': AEU
 'long': HROPBG
@@ -267,7 +267,7 @@ The Seven Ravens
 'ever': -FR
 'had': H
 'any': TPHEU
-'brothers;': PWROERS STPH*FPLT
+'brothers;': PWROERS/STPH*FPLT
 'for': TPOR
 'her': HER
 'father': TPAER
@@ -281,7 +281,7 @@ The Seven Ravens
 'of': -F
 'them': THEPL
 'before': PW-FR
-'her:': HER STPH-FPLT
+'her:': HER/STPH-FPLT
 'but': PWUT
 'one': WUPB
 'day': TKAEU
@@ -295,14 +295,14 @@ The Seven Ravens
 'her': HER
 'speak': SPAOEBG
 'of': -F
-'them.': THEPL TP-PL
-''Yes,'': AE KPA/KWRE KW-BG AE
+'them.': THEPL/TP-PL
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'said': SED
-'they,': THE KW-BG
-''she': AE SHE
+'they,': THE/KW-BG
+''she': AE/SHE
 'is': S
 'beautiful': PWAOUFL
-'indeed,': TPHAOEPBD KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'but': PWUT
 'still': STEUL
 ''tis': TEUS
@@ -317,32 +317,32 @@ The Seven Ravens
 'lost': HRO*S
 'for': TPOR
 'her': HER
-'sake.'': SAEUBG TP-PL AE
+'sake.'': SAEUBG/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'was': WAS
 'much': PHUFP
-'grieved,': TKPWRAOEF/-D KW-BG
+'grieved,': TKPWRAOEF/-D/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
 'her': HER
 'father': TPAER
 'and': SKP
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'asked': SK-D
 'if': TP
 'she': SHE
 'had': H
 'any': TPHEU
-'brothers,': PWROERS KW-BG
+'brothers,': PWROERS/KW-BG
 'and': SKP
 'what': WHA
 'had': H
 'become': PW-BG
 'of': -F
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'So': KPA/SO
 'they': THE
 'dared': TKAEURD
@@ -352,7 +352,7 @@ The Seven Ravens
 'the': -T
 'truth': TRAO*UT
 'from': TPR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'but': PWUT
 'said': SED
 'it': T
@@ -360,7 +360,7 @@ The Seven Ravens
 'the': -T
 'will': HR
 'of': -F
-'Heaven,': KPA/HEFPB KW-BG
+'Heaven,': KPA/HEFPB/KW-BG
 'and': SKP
 'that': THA
 'her': HER
@@ -371,7 +371,7 @@ The Seven Ravens
 'innocent': TPH-PBT
 'cause': KAUS
 'of': -F
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'but': PWUT
 'the': -T
 'little': HREUL
@@ -381,7 +381,7 @@ The Seven Ravens
 'about': PW
 'it': T
 'every': EF
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'thought': THAUT
 'herself': H*ERS
@@ -395,14 +395,14 @@ The Seven Ravens
 'bring': PWREU
 'her': HER
 'brothers': PWROERS
-'back;': PWABG STPH*FPLT
+'back;': PWABG/STPH*FPLT
 'and': SKP
 'she': SHE
 'had': H
 'neither': TPHAOERT
 'rest': REFT
 'nor': TPH-R
-'ease,': AOES KW-BG
+'ease,': AOES/KW-BG
 'till': TEUL
 'at': AT
 'length': HREPBG
@@ -410,7 +410,7 @@ The Seven Ravens
 'day': TKAEU
 'she': SHE
 'stole': STOEL
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'set': SET
 'out': OUT
@@ -421,19 +421,19 @@ The Seven Ravens
 'to': TO
 'find': TPAOEUPBD
 'her': HER
-'brothers,': PWROERS KW-BG
+'brothers,': PWROERS/KW-BG
 'wherever': W-FR
 'they': THE
 'might': PHAOEUT
-'be,': -B KW-BG
+'be,': -B/KW-BG
 'and': SKP
 'free': TPRAOE
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'whatever': WHAF
 'it': T
 'might': PHAOEUT
 'cost': KOFT
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'She': KPA/SHE
 'took': TAOBG
 'nothing': TPHOG
@@ -450,7 +450,7 @@ The Seven Ravens
 'mother': PHOER
 'had': H
 'given': TKPWEUFPB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'a': AEU
 'loaf': HROEF
 'of': -F
@@ -460,7 +460,7 @@ The Seven Ravens
 'she': SHE
 'should': SHO
 'be': -B
-'hungry,': HUPBG/REU KW-BG
+'hungry,': HUPBG/REU/KW-BG
 'a': AEU
 'little': HREUL
 'pitcher': PEUFRP
@@ -471,7 +471,7 @@ The Seven Ravens
 'she': SHE
 'should': SHO
 'be': -B
-'thirsty,': THEURS/TEU KW-BG
+'thirsty,': THEURS/TEU/KW-BG
 'and': SKP
 'a': AEU
 'little': HREUL
@@ -483,13 +483,13 @@ The Seven Ravens
 'she': SHE
 'should': SHO
 'be': -B
-'weary.': WAOE/REU TP-PL
+'weary.': WAOE/REU/TP-PL
 'Thus': KPA/THUS
 'she': SHE
 'went': WEPBT
 'on': OPB
 'and': SKP
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'journeyed': SKWRURPB/EUD
 'till': TEUL
@@ -498,13 +498,13 @@ The Seven Ravens
 'to': TO
 'the': -T
 'world's': WORLD/AES
-'end;': EPBD STPH*FPLT
+'end;': EPBD/STPH*FPLT
 'then': THEPB
 'she': SHE
 'came': KAEUPL
 'to': TO
 'the': -T
-'sun,': SUPB KW-BG
+'sun,': SUPB/KW-BG
 'but': PWUT
 'the': -T
 'sun': SUPB
@@ -513,7 +513,7 @@ The Seven Ravens
 'too': TAO
 'hot': HOT
 'and': SKP
-'fiery;': TPAOEU/REU STPH*FPLT
+'fiery;': TPAOEU/REU/STPH*FPLT
 'so': SO
 'she': SHE
 'ran': RAPB
@@ -521,23 +521,23 @@ The Seven Ravens
 'quickly': KWEULG
 'to': TO
 'the': -T
-'moon,': PHAOPB KW-BG
+'moon,': PHAOPB/KW-BG
 'but': PWUT
 'the': -T
 'moon': PHAOPB
 'was': WAS
 'cold': KOELD
 'and': SKP
-'chilly,': KHEUL/HREU KW-BG
+'chilly,': KHEUL/HREU/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'smell': SPHEL
 'flesh': TPHRERB
 'and': SKP
 'blood': PWHRAOD
 'this': TH
-'way!'': WAEU SKHRAPL AE
+'way!'': WAEU/SKHRAPL/AE
 'so': SO
 'she': SHE
 'took': TAOBG
@@ -550,7 +550,7 @@ The Seven Ravens
 'came': KAEUPL
 'to': TO
 'the': -T
-'stars,': STARS KW-BG
+'stars,': STARS/KW-BG
 'and': SKP
 'the': -T
 'stars': STARS
@@ -559,7 +559,7 @@ The Seven Ravens
 'and': SKP
 'kind': KEUPBD
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'each': AOEFP
 'star': STAR
@@ -568,7 +568,7 @@ The Seven Ravens
 'his': HEUS
 'own': OEPB
 'little': HREUL
-'stool;': STOL STPH*FPLT
+'stool;': STOL/STPH*FPLT
 'but': PWUT
 'the': -T
 'morning': PHORPBG
@@ -582,10 +582,10 @@ The Seven Ravens
 'little': HREUL
 'piece': PAOES
 'of': -F
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''If': AE KPA/TP
+'said,': SED/KW-BG
+''If': AE/KPA/TP
 'you': U
 'have': SR
 'not': TPHOT
@@ -593,7 +593,7 @@ The Seven Ravens
 'little': HREUL
 'piece': PAOES
 'of': -F
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'you': U
 'cannot': SK-PBT
 'unlock': UPB/HROBG
@@ -603,12 +603,12 @@ The Seven Ravens
 'stands': STAPBDZ
 'on': OPB
 'the': -T
-'glass-mountain,': TKPWHRAS H-PB PHOUPB/TAEUPB KW-BG
+'glass-mountain,': TKPWHRAS/H-PB/PHOUPB/TAEUPB/KW-BG
 'and': SKP
 'there': THR
 'your': KWROUR
 'brothers': PWROERS
-'live.'': HREUF TP-PL AE
+'live.'': HREUF/TP-PL/AE
 'The': KPA/-T
 'little': HREUL
 'girl': TKPWEURL
@@ -616,14 +616,14 @@ The Seven Ravens
 'the': -T
 'piece': PAOES
 'of': -F
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'rolled': ROLD
 'it': T
 'up': UP
 'in': TPH
 'a': AEU
 'little': HREUL
-'cloth,': KHRO*T KW-BG
+'cloth,': KHRO*T/KW-BG
 'and': SKP
 'went': WEPBT
 'on': OPB
@@ -633,12 +633,12 @@ The Seven Ravens
 'came': KAEUPL
 'to': TO
 'the': -T
-'glass-mountain,': TKPWHRAS H-PB PHOUPB/TAEUPB KW-BG
+'glass-mountain,': TKPWHRAS/H-PB/PHOUPB/TAEUPB/KW-BG
 'and': SKP
 'found': TPOUPBD
 'the': -T
 'door': TKAOR
-'shut.': SHUT TP-PL
+'shut.': SHUT/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'felt': TPELT
@@ -647,7 +647,7 @@ The Seven Ravens
 'little': HREUL
 'piece': PAOES
 'of': -F
-'wood;': WAOD STPH*FPLT
+'wood;': WAOD/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'she': SHE
@@ -657,7 +657,7 @@ The Seven Ravens
 'it': T
 'was': WAS
 'not': TPHOT
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'she': SHE
 'saw': SAU
@@ -669,18 +669,18 @@ The Seven Ravens
 'of': -F
 'the': -T
 'good': TKPWAOD
-'stars.': STARS TP-PL
+'stars.': STARS/TP-PL
 'What': KPA/WHA
 'was': WAS
 'to': TO
 'be': -B
-'done?': TKOPB H-F
+'done?': TKOPB/H-F
 'She': KPA/SHE
 'wanted': WAPBTD
 'to': TO
 'save': SAF
 'her': HER
-'brothers,': PWROERS KW-BG
+'brothers,': PWROERS/KW-BG
 'and': SKP
 'had': H
 'no': TPHO
@@ -690,7 +690,7 @@ The Seven Ravens
 'castle': KAFL
 'of': -F
 'the': -T
-'glass-mountain;': TKPWHRAS H-PB PHOUPB/TAEUPB STPH*FPLT
+'glass-mountain;': TKPWHRAS/H-PB/PHOUPB/TAEUPB/STPH*FPLT
 'so': SO
 'this': TH
 'faithful': TPA*EUT/-FL
@@ -708,7 +708,7 @@ The Seven Ravens
 'off': OF
 'her': HER
 'little': HREUL
-'finger,': TPEURPBG KW-BG
+'finger,': TPEURPBG/KW-BG
 'that': THA
 'was': WAS
 'just': SKWRUFT
@@ -721,7 +721,7 @@ The Seven Ravens
 'wood': WAOD
 'she': SHE
 'had': H
-'lost,': HRO*S KW-BG
+'lost,': HRO*S/KW-BG
 'and': SKP
 'put': PUT
 'it': T
@@ -730,45 +730,45 @@ The Seven Ravens
 'door': TKAOR
 'and': SKP
 'opened': OEPD
-'it.': T TP-PL
+'it.': T/TP-PL
 'As': KPA/AS
 'she': SHE
 'went': WEPBT
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'a': AEU
 'little': HREUL
 'dwarf': TKWAFR
 'came': KAEUPL
 'up': UP
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''What': AE KPA/WHA
+'said,': SED/KW-BG
+''What': AE/KPA/WHA
 'are': R
 'you': U
 'seeking': SAOEBG/-G
-'for?'': TPOR H-F AE
-''I': AE EU
+'for?'': TPOR/H-F/AE
+''I': AE/EU
 'seek': SAOEBG
 'for': TPOR
 'my': PHEU
-'brothers,': PWROERS KW-BG
+'brothers,': PWROERS/KW-BG
 'the': -T
 'seven': SEFPB
-'ravens,'': RA*EUF/-PBS KW-BG AE
+'ravens,'': RA*EUF/-PBS/KW-BG/AE
 'answered': AEPBS/-D
-'she.': SHE TP-PL
+'she.': SHE/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'dwarf': TKWAFR
-'said,': SED KW-BG
-''My': AE KPA/PHEU
+'said,': SED/KW-BG
+''My': AE/KPA/PHEU
 'masters': PHAFT/ERS
 'are': R
 'not': TPHOT
 'at': AT
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'but': PWUT
 'if': TP
 'you': U
@@ -776,10 +776,10 @@ The Seven Ravens
 'wait': WAEUT
 'till': TEUL
 'they': THE
-'come,': KOPL KW-BG
+'come,': KOPL/KW-BG
 'pray': PRAEU
 'step': STEP
-'in.'': TPH TP-PL AE
+'in.'': TPH/TP-PL/AE
 'Now': KPA/TPHOU
 'the': -T
 'little': HREUL
@@ -788,7 +788,7 @@ The Seven Ravens
 'getting': TKPWEGT
 'their': THAEUR
 'dinner': TKEURPB
-'ready,': R-D KW-BG
+'ready,': R-D/KW-BG
 'and': SKP
 'he': HE
 'brought': PWRAUT
@@ -797,20 +797,20 @@ The Seven Ravens
 'upon': POPB
 'seven': SEFPB
 'little': HREUL
-'plates,': PHRAEUTS KW-BG
+'plates,': PHRAEUTS/KW-BG
 'and': SKP
 'their': THAEUR
 'drink': TKREU
 'in': TPH
 'seven': SEFPB
 'little': HREUL
-'glasses,': TKPWHRAFS KW-BG
+'glasses,': TKPWHRAFS/KW-BG
 'and': SKP
 'set': SET
 'them': THEPL
 'upon': POPB
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
@@ -822,7 +822,7 @@ The Seven Ravens
 'ate': AEUT
 'a': AEU
 'small': SPHAL
-'piece,': PAOES KW-BG
+'piece,': PAOES/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
@@ -833,7 +833,7 @@ The Seven Ravens
 'drank': TKRA*PBG
 'a': AEU
 'small': SPHAL
-'drop;': TKROP STPH*FPLT
+'drop;': TKROP/STPH*FPLT
 'but': PWUT
 'she': SHE
 'let': HRET
@@ -849,7 +849,7 @@ The Seven Ravens
 'into': TPHAO
 'the': -T
 'last': HRAFT
-'glass.': TKPWHRAS TP-PL
+'glass.': TKPWHRAS/TP-PL
 'On': KPA/OPB
 'a': AEU
 'sudden': SUD
@@ -861,25 +861,25 @@ The Seven Ravens
 'croaking': KROEBG/-G
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'and': SKP
 'the': -T
 'dwarf': TKWAFR
-'said,': SED KW-BG
-''Here': AE KPA/HAOER
+'said,': SED/KW-BG
+''Here': AE/KPA/HAOER
 'come': KOPL
 'my': PHEU
-'masters.'': PHAFT/ERS TP-PL AE
+'masters.'': PHAFT/ERS/TP-PL/AE
 'When': KPA/WHEPB
 'they': THE
 'came': KAEUPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'they': THE
 'wanted': WAPBTD
 'to': TO
 'eat': AOET
 'and': SKP
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'for': TPOR
@@ -887,20 +887,20 @@ The Seven Ravens
 'little': HREUL
 'plates': PHRAEUTS
 'and': SKP
-'glasses.': TKPWHRAFS TP-PL
+'glasses.': TKPWHRAFS/TP-PL
 'Then': KPA/THEPB
 'said': SED
 'one': WUPB
 'after': AF
 'the': -T
-'other,': OER KW-BG
-''Who': AE KPA/WHO
+'other,': OER/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'eaten': AOET/EPB
 'from': TPR
 'my': PHEU
 'little': HREUL
-'plate?': PHRAET H-F
+'plate?': PHRAET/H-F
 'And': AFPBD
 'who': WHO
 'has': HAS
@@ -910,9 +910,9 @@ The Seven Ravens
 'of': -F
 'my': PHEU
 'little': HREUL
-'glass?'': TKPWHRAS H-F AE
-''Caw!': AE KPA/KA*U SKHRAPL
-'Caw!': KPA/KA*U SKHRAPL
+'glass?'': TKPWHRAS/H-F/AE
+''Caw!': AE/KPA/KA*U/SKHRAPL
+'Caw!': KPA/KA*U/SKHRAPL
 'well': WEL
 'I': EU
 'ween': WE/*EPB
@@ -921,7 +921,7 @@ The Seven Ravens
 'have': SR
 'this': TH
 'way': WAEU
-'been.'': PW-PB TP-PL AE
+'been.'': PW-PB/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'seventh': S*EPBT
@@ -931,16 +931,16 @@ The Seven Ravens
 'bottom': PWOPLT
 'of': -F
 'his': HEUS
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'and': SKP
 'found': TPOUPBD
 'there': THR
 'the': -T
-'ring,': REUPBG KW-BG
+'ring,': REUPBG/KW-BG
 'he': HE
 'looked': HRAOBGD
 'at': AT
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'knew': TPHAOU
 'that': THA
@@ -949,29 +949,29 @@ The Seven Ravens
 'his': HEUS
 'father's': TPAER/AES
 'and': SKP
-'mother's,': PHOER AE S* KW-BG
+'mother's,': PHOER/AE/S*/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''O': AE O*P
+'said,': SED/KW-BG
+''O': AE/O*P
 'that': THA
 'our': OUR
 'little': HREUL
 'sister': ST-R
 'would': WO
 'but': PWUT
-'come!': KOPL SKHRAPL
+'come!': KOPL/SKHRAPL
 'then': THEPB
 'we': WE
 'should': SHO
 'be': -B
-'free.'': TPRAOE TP-PL AE
+'free.'': TPRAOE/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'little': HREUL
 'girl': TKPWEURL
 'heard': HAERD
 'this': TH
-'(for': PREPB TPOR
+'(for': PREPB/TPOR
 'she': SHE
 'stood': STAOD
 'behind': HEUPBD
@@ -981,10 +981,10 @@ The Seven Ravens
 'the': -T
 'time': TAOEUPL
 'and': SKP
-'listened),': HREUFPBD PR*EPB KW-BG
+'listened),': HREUFPBD/PR*EPB/KW-BG
 'she': SHE
 'ran': RAPB
-'forward,': TPAORD KW-BG
+'forward,': TPAORD/KW-BG
 'and': SKP
 'in': TPH
 'an': APB
@@ -996,15 +996,15 @@ The Seven Ravens
 'their': THAEUR
 'right': RAOEUT
 'form': TPORPL
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'and': SKP
 'all': AUL
 'hugged': HUGD
 'and': SKP
 'kissed': K*EUFD
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'went': WEPBT
 'merrily': PHER/HREU
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL

@@ -7,52 +7,52 @@ Everything in the Right Place
 'a': AEU
 'hundred': HUPBD
 'years': KWRAOERS
-'ago!': AG SKHRAPL
+'ago!': AG/SKHRAPL
 'At': KPA/AT
 'the': -T
 'border': PWRORD
 'of': -F
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'near': TPHAOER
 'a': AEU
 'large': HRARPBLG
-'lake,': HRAEUBG KW-BG
+'lake,': HRAEUBG/KW-BG
 'stood': STAOD
 'the': -T
 'old': OLD
-'mansion:': PHAPBGS STPH-FPLT
+'mansion:': PHAPBGS/STPH-FPLT
 'deep': TKAOEP
 'ditches': TKEUFPS
 'surrounded': SROUPBD/-D
 'it': T
 'on': OPB
 'every': EF
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'in': TPH
 'which': WEU
 'reeds': RAOED/-S
 'and': SKP
 'bulrushes': xxx bulrushes
-'grew.': TKPWRAOU TP-PL
+'grew.': TKPWRAOU/TP-PL
 'Close': KPA/KHROES
 'by': PWEU
 'the': -T
-'drawbridge,': TKRAU/PWREUPBLG KW-BG
+'drawbridge,': TKRAU/PWREUPBLG/KW-BG
 'near': TPHAOER
 'the': -T
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'there': THR
 'was': WAS
 'an': APB
 'old': OLD
 'willow': WEUL/HROE
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'which': WEU
 'bent': PWEPBT
 'over': OEFR
 'the': -T
-'reeds.': RAOED/-S TP-PL
+'reeds.': RAOED/-S/TP-PL
 'From': KPA/TPR
 'the': -T
 'narrow': TPHO*EUR
@@ -66,8 +66,8 @@ Everything in the Right Place
 'the': -T
 'trampling': TRAFRP/-LG
 'of': -F
-'horses'': HORSZ AE
-'feet;': TPAOET STPH*FPLT
+'horses'': HORSZ/AE
+'feet;': TPAOET/STPH*FPLT
 'therefore': TH-FR
 'a': AEU
 'little': HREUL
@@ -84,7 +84,7 @@ Everything in the Right Place
 'away': WA*EU
 'from': TPR
 'the': -T
-'bridge,': PWREUPBLG KW-BG
+'bridge,': PWREUPBLG/KW-BG
 'before': PW-FR
 'the': -T
 'whole': WHOEL
@@ -92,22 +92,22 @@ Everything in the Right Place
 'party': PAERT
 'came': KAEUPL
 'galloping': TKPWAL/OP/-G
-'up;': UP STPH*FPLT
+'up;': UP/STPH*FPLT
 'they': THE
-'came,': KAEUPL KW-BG
-'however,': HOUF KW-BG
+'came,': KAEUPL/KW-BG
+'however,': HOUF/KW-BG
 'so': SO
-'quickly,': KWEULG KW-BG
+'quickly,': KWEULG/KW-BG
 'that': THA
 'the': -T
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'in': TPH
 'order': ORD
 'to': TO
 'avoid': A/SROEUD
 'being': -BG
 'run': RUPB
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'placed': PHRAEUFD
 'herself': H*ERS
 'on': OPB
@@ -115,10 +115,10 @@ Everything in the Right Place
 'of': -F
 'the': -T
 'high': HAOEU
-'corner-stones': KRORPB H-PB STOEPBS
+'corner-stones': KRORPB/H-PB/STOEPBS
 'of': -F
 'the': -T
-'bridge.': PWREUPBLG TP-PL
+'bridge.': PWREUPBLG/TP-PL
 'She': KPA/SHE
 'was': WAS
 'still': STEUL
@@ -128,17 +128,17 @@ Everything in the Right Place
 'and': SKP
 'very': SRE
 'delicately': TKEL/KAT/HREU
-'built;': PWEULT STPH*FPLT
+'built;': PWEULT/STPH*FPLT
 'she': SHE
 'had': H
 'bright': PWRAOEUT
 'blue': PWHRU
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'a': AEU
-'gentle,': SKWR*EPBLT KW-BG
+'gentle,': SKWR*EPBLT/KW-BG
 'sweet': SWAOET
-'expression.': EBGS/PREGS TP-PL
+'expression.': EBGS/PREGS/TP-PL
 'But': KPA/PWUT
 'such': SUFP
 'things': THEUPBGS
@@ -146,7 +146,7 @@ Everything in the Right Place
 'baron': PWAR/ROPB
 'did': TK
 'not': TPHOT
-'notice;': TPH-TS STPH*FPLT
+'notice;': TPH-TS/STPH*FPLT
 'while': WHAOEUL
 'he': HE
 'was': WAS
@@ -154,12 +154,12 @@ Everything in the Right Place
 'past': PAFT
 'the': -T
 'little': HREUL
-'goose-girl,': TKPWAOS H-PB TKPWEURL KW-BG
+'goose-girl,': TKPWAOS/H-PB/TKPWEURL/KW-BG
 'he': HE
 'reversed': R*EFRS/-D
 'his': HEUS
 'hunting': HUPBT/-G
-'crop,': KROP KW-BG
+'crop,': KROP/KW-BG
 'and': SKP
 'in': TPH
 'rough': RUF
@@ -177,42 +177,42 @@ Everything in the Right Place
 'backward': PWABG/WARD
 'into': TPHAO
 'the': -T
-'ditch.': TKEUFP TP-PL
-'"Everything': KR-GS KPA/EFRG
+'ditch.': TKEUFP/TP-PL
+'"Everything': KR-GS/KPA/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place!"': PHRAEUS SKHRAPL KR-GS
+'place!"': PHRAEUS/SKHRAPL/KR-GS
 'he': HE
-'cried.': KRAOEUD TP-PL
-'"Into': KR-GS KPA/TPHAO
+'cried.': KRAOEUD/TP-PL
+'"Into': KR-GS/KPA/TPHAO
 'the': -T
 'ditch': TKEUFP
 'with': W
-'you."': U TP-PL KR-GS
+'you."': U/TP-PL/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'burst': PWUFRT
 'out': OUT
-'laughing,': HRAFG KW-BG
+'laughing,': HRAFG/KW-BG
 'for': TPOR
 'that': THA
 'he': HE
 'called': KAULD
-'fun;': TPUPB STPH*FPLT
+'fun;': TPUPB/STPH*FPLT
 'the': -T
 'others': OERS
 'joined': SKWROEUPBD
-'in—the': TPH EPL/TKA*RB -T
+'in—the': TPH/EPL/TKA*RB/-T
 'whole': WHOEL
 'party': PAERT
 'shouted': SHOUT/-D
 'and': SKP
-'cried,': KRAOEUD KW-BG
+'cried,': KRAOEUD/KW-BG
 'while': WHAOEUL
 'the': -T
 'hounds': HOUPBDZ
-'barked.': PWARBGD TP-PL
+'barked.': PWARBGD/TP-PL
 'While': KPA/WHAOEUL
 'the': -T
 'poor': PAOR
@@ -229,7 +229,7 @@ Everything in the Right Place
 'of': -F
 'the': -T
 'willow': WEUL/HROE
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'by': PWEU
 'the': -T
 'help': HEP
@@ -240,7 +240,7 @@ Everything in the Right Place
 'herself': H*ERS
 'over': OEFR
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -257,18 +257,18 @@ Everything in the Right Place
 'disappeared': TKEUS/PAOERD
 'through': THRU
 'the': -T
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'the': -T
 'girl': TKPWEURL
 'endeavoured': EPB/TKEUFRD/A*U
 'to': TO
 'scramble': SKRAPL/-BL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'but': PWUT
 'the': -T
 'branch': PWRAFRPB
 'broke': PWROEBG
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'she': SHE
 'would': WO
@@ -277,7 +277,7 @@ Everything in the Right Place
 'backward': PWABG/WARD
 'among': PHOPBG
 'the': -T
-'rushes,': RURBS KW-BG
+'rushes,': RURBS/KW-BG
 'had': H
 'not': TPHOT
 'a': AEU
@@ -289,14 +289,14 @@ Everything in the Right Place
 'her': HER
 'at': AT
 'this': TH
-'moment.': PHOEPLT TP-PL
+'moment.': PHOEPLT/TP-PL
 'It': KPA/T
 'was': WAS
 'the': -T
 'hand': HAPBD
 'of': -F
 'a': AEU
-'pedlar;': xxx pedlar STPH*FPLT
+'pedlar;': xxx pedlar/STPH*FPLT
 'he': HE
 'had': H
 'witnessed': W-PBS/-D
@@ -306,24 +306,24 @@ Everything in the Right Place
 'from': TPR
 'a': AEU
 'short': SHORT
-'distance,': STKAPBS KW-BG
+'distance,': STKAPBS/KW-BG
 'and': SKP
 'now': TPHOU
 'hastened': HAEUS/-PBD
 'to': TO
 'assist': S*EUFT
-'her.': HER TP-PL
-'"Everything': KR-GS KPA/EFRG
+'her.': HER/TP-PL
+'"Everything': KR-GS/KPA/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place,"': PHRAEUS KW-BG KR-GS
+'place,"': PHRAEUS/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'imitating': EUPL/TAEUT/-G
 'the': -T
 'noble': TPHOEBL
-'baron,': PWAR/ROPB KW-BG
+'baron,': PWAR/ROPB/KW-BG
 'and': SKP
 'pulling': PULG
 'the': -T
@@ -333,7 +333,7 @@ Everything in the Right Place
 'to': TO
 'the': -T
 'dry': TKRAOEU
-'ground.': TKPWROUPBD TP-PL
+'ground.': TKPWROUPBD/TP-PL
 'He': KPA/HE
 'wished': WEURBD
 'to': TO
@@ -348,7 +348,7 @@ Everything in the Right Place
 'had': H
 'been': PW-PB
 'broken': PWROEPB
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'but': PWUT
 'it': T
 'is': S
@@ -360,7 +360,7 @@ Everything in the Right Place
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place;': PHRAEUS STPH*FPLT
+'place;': PHRAEUS/STPH*FPLT
 'therefore': TH-FR
 'he': HE
 'stuck': STUBG
@@ -369,13 +369,13 @@ Everything in the Right Place
 'into': TPHAO
 'the': -T
 'soft': SOFT
-'ground.': TKPWROUPBD TP-PL
-'"Grow': KR-GS KPA/TKPWROE
+'ground.': TKPWROUPBD/TP-PL
+'"Grow': KR-GS/KPA/TKPWROE
 'and': SKP
 'thrive': THRAOEUF
 'if': TP
 'you': U
-'can,': K KW-BG
+'can,': K/KW-BG
 'and': SKP
 'produce': PROU
 'a': AEU
@@ -386,9 +386,9 @@ Everything in the Right Place
 'yonder': KWROPBD/ER
 'at': AT
 'the': -T
-'mansion,"': PHAPBGS KW-BG KR-GS
+'mansion,"': PHAPBGS/KW-BG/KR-GS
 'he': HE
-'said;': SED STPH*FPLT
+'said;': SED/STPH*FPLT
 'it': T
 'would': WO
 'have': SR
@@ -405,31 +405,31 @@ Everything in the Right Place
 'his': HEUS
 'companions': KPAPB/KWROPBS
 'well': WEL
-'thrashed.': THRARB/-D TP-PL
+'thrashed.': THRARB/-D/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'entered': SPWR-D
 'the': -T
-'castle—but': KAFL EPL/TKA*RB PWUT
+'castle—but': KAFL/EPL/TKA*RB/PWUT
 'not': TPHOT
 'the': -T
 'banqueting': PWAPB/KWET/-G
-'hall;': HAUL STPH*FPLT
+'hall;': HAUL/STPH*FPLT
 'he': HE
 'was': WAS
 'too': TAO
 'humble': HUPL/-BL
 'for': TPOR
-'that.': THA TP-PL
-'No;': KPA/TPHO STPH*FPLT
+'that.': THA/TP-PL
+'No;': KPA/TPHO/STPH*FPLT
 'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
-'servants'': SER/SRAPBTS AE
-'hall.': HAUL TP-PL
+'servants'': SER/SRAPBTS/AE
+'hall.': HAUL/TP-PL
 'The': KPA/-T
-'men-servants': PHEPB H-PB SER/SRAPBTS
+'men-servants': PHEPB/H-PB/SER/SRAPBTS
 'and': SKP
 'maids': PHAEUDZ
 'looked': HRAOBGD
@@ -441,7 +441,7 @@ Everything in the Right Place
 'and': SKP
 'bargained': PWAR/TKPWAPBD
 'with': W
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'loud': HROUD
 'crying': KRAOEUG
 'and': SKP
@@ -450,17 +450,17 @@ Everything in the Right Place
 'heard': HAERD
 'from': TPR
 'the': -T
-'master's': PHAFRT AES
+'master's': PHAFRT/AES
 'table': TAEUBL
-'above:': PWOF STPH-FPLT
+'above:': PWOF/STPH-FPLT
 'they': THE
 'called': KAULD
 'it': T
-'singing—indeed,': SEUPBG/-G EPL/TKA*RB TPHAOEPBD KW-BG
+'singing—indeed,': SEUPBG/-G/EPL/TKA*RB/TPHAOEPBD/KW-BG
 'they': THE
 'did': TK
 'their': THAEUR
-'best.': PWEFT TP-PL
+'best.': PWEFT/TP-PL
 'Laughter': KPA/HRAFR
 'and': SKP
 'the': -T
@@ -472,13 +472,13 @@ Everything in the Right Place
 'through': THRU
 'the': -T
 'open': OEP
-'windows:': WOEUPBDZ STPH-FPLT
+'windows:': WOEUPBDZ/STPH-FPLT
 'there': THR
 'they': THE
 'were': WR
 'feasting': TPAOEFT/-G
 'and': SKP
-'revelling;': REFL/-G STPH*FPLT
+'revelling;': REFL/-G/STPH*FPLT
 'wine': WAOEUPB
 'and': SKP
 'strong': STROPBG
@@ -490,14 +490,14 @@ Everything in the Right Place
 'the': -T
 'glasses': TKPWHRAFS
 'and': SKP
-'jugs;': SKWRUG/-S STPH*FPLT
+'jugs;': SKWRUG/-S/STPH*FPLT
 'the': -T
 'favourite': TPAEUFRT/A*U
 'dogs': TKOGS
 'ate': AEUT
 'with': W
 'their': THAEUR
-'masters;': PHAFT/ERS STPH*FPLT
+'masters;': PHAFT/ERS/STPH*FPLT
 'now': TPHOU
 'and': SKP
 'then': THEPB
@@ -507,7 +507,7 @@ Everything in the Right Place
 'one': WUPB
 'of': -F
 'these': THEZ
-'animals,': PHAPBLS KW-BG
+'animals,': PHAPBLS/KW-BG
 'after': AF
 'having': SR-G
 'wiped': WAOEUPD
@@ -516,33 +516,33 @@ Everything in the Right Place
 'first': TPEUFRT
 'with': W
 'the': -T
-'tablecloth.': TAEUBL/KHRO*T TP-PL
+'tablecloth.': TAEUBL/KHRO*T/TP-PL
 'They': KPA/THE
 'ordered': ORD/-D
 'the': -T
 'pedlar': xxx pedlar
 'to': TO
 'come': KOPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'but': PWUT
 'only': OEPBL
 'to': TO
 'make': PHAEUBG
 'fun': TPUPB
 'of': -F
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'wine': WAOEUPB
 'had': H
 'got': TKPWOT
 'into': TPHAO
 'their': THAEUR
-'heads,': HEDZ KW-BG
+'heads,': HEDZ/KW-BG
 'and': SKP
 'reason': R-PB
 'had': H
 'left': HREFT
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'They': KPA/THE
 'poured': PORD
 'beer': PWAOER
@@ -554,22 +554,22 @@ Everything in the Right Place
 'could': KO
 'drink': TKREU
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'but': PWUT
-'quick.': KWEUBG TP-PL
-'That's': KPA/THA AES
+'quick.': KWEUBG/TP-PL
+'That's': KPA/THA/AES
 'what': WHA
 'they': THE
 'called': KAULD
-'fun,': TPUPB KW-BG
+'fun,': TPUPB/KW-BG
 'and': SKP
 'it': T
 'made': PHAED
 'them': THEPL
-'laugh.': HRAF TP-PL
+'laugh.': HRAF/TP-PL
 'Then': KPA/THEPB
-'meadows,': PHED/OES KW-BG
-'peasants,': PEFPBT/-S KW-BG
+'meadows,': PHED/OES/KW-BG
+'peasants,': PEFPBT/-S/KW-BG
 'and': SKP
 'farmyards': TPARPL/KWRARD/-S
 'were': WR
@@ -578,12 +578,12 @@ Everything in the Right Place
 'one': WUPB
 'card': KARD
 'and': SKP
-'lost.': HRO*S TP-PL
-'"Everything': KR-GS KPA/EFRG
+'lost.': HRO*S/TP-PL
+'"Everything': KR-GS/KPA/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place!"': PHRAEUS SKHRAPL KR-GS
+'place!"': PHRAEUS/SKHRAPL/KR-GS
 'the': -T
 'pedlar': xxx pedlar
 'said': SED
@@ -598,19 +598,19 @@ Everything in the Right Place
 'of': -F
 'Sodom': SOD/OPL
 'and': SKP
-'Gomorrah,': TPOPL/OR/RA KW-BG
+'Gomorrah,': TPOPL/OR/RA/KW-BG
 'as': AS
 'he': HE
 'called': KAULD
-'it.': T TP-PL
-'"The': KR-GS KPA/-T
+'it.': T/TP-PL
+'"The': KR-GS/KPA/-T
 'open': OEP
 'high': HAOEU
 'road': RAOD
 'is': S
 'my': PHEU
 'right': RAOEUT
-'place;': PHRAEUS STPH*FPLT
+'place;': PHRAEUS/STPH*FPLT
 'up': UP
 'there': THR
 'I': EU
@@ -618,16 +618,16 @@ Everything in the Right Place
 'not': TPHOT
 'feel': TPAOEL
 'at': AT
-'ease."': AOES TP-PL KR-GS
+'ease."': AOES/TP-PL/KR-GS
 'The': KPA/-T
 'little': HREUL
-'maid,': PHAEUD KW-BG
+'maid,': PHAEUD/KW-BG
 'who': WHO
 'was': WAS
 'still': STEUL
 'watching': WAFPG
 'the': -T
-'geese,': TKPWAOES KW-BG
+'geese,': TKPWAOES/KW-BG
 'nodded': TPHOD/-D
 'kindly': KAOEUPBD/HREU
 'to': TO
@@ -637,11 +637,11 @@ Everything in the Right Place
 'passed': PAFD
 'through': THRU
 'the': -T
-'gate.': TKPWAET TP-PL
+'gate.': TKPWAET/TP-PL
 'Days': KPA/TKAEUS
 'and': SKP
 'weeks': WAOEBGS
-'passed,': PAFD KW-BG
+'passed,': PAFD/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -649,7 +649,7 @@ Everything in the Right Place
 'that': THA
 'the': -T
 'broken': PWROEPB
-'willow-branch': WEUL/HROE H-PB PWRAFRPB
+'willow-branch': WEUL/HROE/H-PB/PWRAFRPB
 'which': WEU
 'the': -T
 'peddlar': xxx peddlar
@@ -664,41 +664,41 @@ Everything in the Right Place
 'remained': RE/PHAEUPBD
 'fresh': TPRERB
 'and': SKP
-'green—nay,': TKPWRAOEPB EPL/TKA*RB TPHAEU KW-BG
+'green—nay,': TKPWRAOEPB/EPL/TKA*RB/TPHAEU/KW-BG
 'it': T
 'even': AOEPB
 'put': PUT
 'forth': TPO*RT
 'fresh': TPRERB
-'twigs;': TWEUG/-S STPH*FPLT
+'twigs;': TWEUG/-S/STPH*FPLT
 'the': -T
 'little': HREUL
-'goose-girl': TKPWAOS H-PB TKPWEURL
+'goose-girl': TKPWAOS/H-PB/TKPWEURL
 'saw': SAU
 'that': THA
 'the': -T
 'branch': PWRAFRPB
 'had': H
 'taken': TAEPB
-'root,': RAOT KW-BG
+'root,': RAOT/KW-BG
 'and': SKP
 'was': WAS
 'very': SRE
-'pleased;': PHREFD STPH*FPLT
+'pleased;': PHREFD/STPH*FPLT
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'so': SO
 'she': SHE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'was': WAS
 'now': TPHOU
 'her': HER
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'While': KPA/WHAOEUL
 'the': -T
 'tree': TRAOE
 'was': WAS
-'advancing,': SRAPBS/-G KW-BG
+'advancing,': SRAPBS/-G/KW-BG
 'everything': EFRG
 'else': ELS
 'at': AT
@@ -706,11 +706,11 @@ Everything in the Right Place
 'castle': KAFL
 'was': WAS
 'going': TKPW-G
-'backward,': PWABG/WARD KW-BG
+'backward,': PWABG/WARD/KW-BG
 'through': THRU
 'feasting': TPAOEFT/-G
 'and': SKP
-'gambling,': TKPWAPL/-BLG KW-BG
+'gambling,': TKPWAPL/-BLG/KW-BG
 'for': TPOR
 'these': THEZ
 'are': R
@@ -720,7 +720,7 @@ Everything in the Right Place
 'which': WEU
 'nobody': TPHOEB
 'stands': STAPBDZ
-'safely.': SAEUFL TP-PL
+'safely.': SAEUFL/TP-PL
 'Less': KPA/HRES
 'than': THAPB
 'six': SEUBGS
@@ -732,10 +732,10 @@ Everything in the Right Place
 'out': OUT
 'of': -F
 'his': HEUS
-'castle-gate': KAFL H-PB TKPWAET
+'castle-gate': KAFL/H-PB/TKPWAET
 'a': AEU
 'poor': PAOR
-'beggar,': PWEG/ER KW-BG
+'beggar,': PWEG/ER/KW-BG
 'while': WHAOEUL
 'the': -T
 'baronial': PWAR/ROPB/KWRAL
@@ -746,7 +746,7 @@ Everything in the Right Place
 'by': PWEU
 'a': AEU
 'rich': REUFP
-'tradesman.': TRAEUDZ/PHA*PB TP-PL
+'tradesman.': TRAEUDZ/PHA*PB/TP-PL
 'He': KPA/HE
 'was': WAS
 'the': -T
@@ -766,14 +766,14 @@ Everything in the Right Place
 'for': TPOR
 'him': HEUPL
 'to': TO
-'drink;': TKREU STPH*FPLT
+'drink;': TKREU/STPH*FPLT
 'but': PWUT
 'honesty': HOPBS/TEU
 'and': SKP
 'industry': STREU
 'bring': PWREU
 'one': WUPB
-'forward,': TPAORD KW-BG
+'forward,': TPAORD/KW-BG
 'and': SKP
 'now': TPHOU
 'the': -T
@@ -784,23 +784,23 @@ Everything in the Right Place
 'of': -F
 'the': -T
 'baronial': PWAR/ROPB/KWRAL
-'estate.': ES/TAEUT TP-PL
+'estate.': ES/TAEUT/TP-PL
 'From': KPA/TPR
 'that': THA
 'time': TAOEUPL
 'forward': TPAORD
 'no': TPHO
-'card-playing': KARD H-PB PHRAEUG
+'card-playing': KARD/H-PB/PHRAEUG
 'was': WAS
 'permitted': PERPLT/-D
-'there.': THR TP-PL
+'there.': THR/TP-PL
 '"That's': KW-GS/KPA*/THATS
 'a': AEU
 'bad': PWAD
-'pastime,"': xxx pastime KW-BG KR-GS
+'pastime,"': xxx pastime/KW-BG/KR-GS
 'he': HE
-'said;': SED STPH*FPLT
-'"when': KR-GS WHEPB
+'said;': SED/STPH*FPLT
+'"when': KR-GS/WHEPB
 'the': -T
 'devil': TKEFL
 'saw': SAU
@@ -819,10 +819,10 @@ Everything in the Right Place
 'in': TPH
 'opposition': OP/POGS
 'to': TO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'invented': EUPB/SREPBTD
-'card-playing."': KARD H-PB PHRAEUG TP-PL KR-GS
+'card-playing."': KARD/H-PB/PHRAEUG/TP-PL/KR-GS
 'The': KPA/-T
 'new': TPHU
 'proprietor': PRO/PRAOEU/TOR
@@ -831,21 +831,21 @@ Everything in the Right Place
 'estate': ES/TAEUT
 'took': TAOBG
 'a': AEU
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'whom': WHOPL
 'did': TK
 'he': HE
-'take?—The': TAEUBG H-F EPL/TKA*RB KPA/-T
+'take?—The': TAEUBG/H-F/EPL/TKA*RB/KPA/-T
 'little': HREUL
-'goose-girl,': TKPWAOS H-PB TKPWEURL KW-BG
+'goose-girl,': TKPWAOS/H-PB/TKPWEURL/KW-BG
 'who': WHO
 'had': H
 'always': AULS
 'remained': RE/PHAEUPBD
 'good': TKPWAOD
 'and': SKP
-'kind,': KEUPBD KW-BG
+'kind,': KEUPBD/KW-BG
 'and': SKP
 'who': WHO
 'looked': HRAOBGD
@@ -864,14 +864,14 @@ Everything in the Right Place
 'lady': HRA*ED
 'of': -F
 'high': HAOEU
-'birth.': PW*EURT TP-PL
+'birth.': PW*EURT/TP-PL
 'And': AFPBD
 'how': HOU
 'did': TK
 'all': AUL
 'this': TH
 'come': KOPL
-'about?': PW H-F
+'about?': PW/H-F
 'That': KPA/THA
 'would': WO
 'be': -B
@@ -884,11 +884,11 @@ Everything in the Right Place
 'in': TPH
 'our': OUR
 'busy': PW-Z
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'but': PWUT
 'it': T
 'really': R-L
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'and': SKP
 'the': -T
 'most': PHOFT
@@ -898,7 +898,7 @@ Everything in the Right Place
 'yet': KWRET
 'to': TO
 'be': -B
-'told.': TOLD TP-PL
+'told.': TOLD/TP-PL
 'It': KPA/T
 'was': WAS
 'pleasant': PHREFPBT
@@ -910,54 +910,54 @@ Everything in the Right Place
 'the': -T
 'old': OLD
 'place': PHRAEUS
-'now:': TPHOU STPH-FPLT
+'now:': TPHOU/STPH-FPLT
 'the': -T
 'mother': PHOER
 'superintended': SAOUP/SPWEPBD/-D
 'the': -T
-'household,': HOUS/HOLD KW-BG
+'household,': HOUS/HOLD/KW-BG
 'and': SKP
 'the': -T
 'father': TPAER
 'looked': HRAOBGD
 'after': AF
 'things': THEUPBGS
-'out-of-doors,': OUT H-PB -F H-PB TKAORS KW-BG
+'out-of-doors,': OUT/H-PB/-F/H-PB/TKAORS/KW-BG
 'and': SKP
 'they': THE
 'were': WR
 'indeed': TPHAOEPBD
 'very': SRE
-'prosperous.': PROFP/ROUS TP-PL
+'prosperous.': PROFP/ROUS/TP-PL
 'Where': KPA/W-R
 'honesty': HOPBS/TEU
 'leads': HRAEDZ
 'the': -T
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'prosperity': PROFP/ERT
 'is': S
 'sure': SHUR
 'to': TO
-'follow.': TPOL TP-PL
+'follow.': TPOL/TP-PL
 'The': KPA/-T
 'old': OLD
 'mansion': PHAPBGS
 'was': WAS
 'repaired': RAEURPD
 'and': SKP
-'painted,': PAEUPBTD KW-BG
+'painted,': PAEUPBTD/KW-BG
 'the': -T
 'ditches': TKEUFPS
 'were': WR
 'cleaned': KHRAOEPBD
 'and': SKP
-'fruit-trees': TPRAOUT H-PB TRAOES
-'planted;': PHRAPBT/-D STPH*FPLT
+'fruit-trees': TPRAOUT/H-PB/TRAOES
+'planted;': PHRAPBT/-D/STPH*FPLT
 'all': AUL
 'was': WAS
 'homely': HOEPL/HREU
 'and': SKP
-'pleasant,': PHREFPBT KW-BG
+'pleasant,': PHREFPBT/KW-BG
 'and': SKP
 'the': -T
 'floors': THRAORS
@@ -968,7 +968,7 @@ Everything in the Right Place
 'shining': SHAOEUPBG
 'as': AS
 'a': AEU
-'pasteboard.': PA*EUS/PWORD TP-PL
+'pasteboard.': PA*EUS/PWORD/TP-PL
 'In': KPA/TPH
 'the': -T
 'long': HROPBG
@@ -982,57 +982,57 @@ Everything in the Right Place
 'sat': SAT
 'at': AT
 'the': -T
-'spinning-wheel': SPEUPBG H-PB WHAOEL
+'spinning-wheel': SPEUPBG/H-PB/WHAOEL
 'in': TPH
 'the': -T
 'large': HRARPBLG
-'hall;': HAUL STPH*FPLT
+'hall;': HAUL/STPH*FPLT
 'every': EF
 'Sunday': SUPBD
 'the': -T
-'counsellor—this': KOUPBL/A*U EPL/TKA*RB TH
+'counsellor—this': KOUPBL/A*U/EPL/TKA*RB/TH
 'title': TAOEULT
 'the': -T
 'pedlar': xxx pedlar
 'had': H
-'obtained,': OB/TAEUPBD KW-BG
+'obtained,': OB/TAEUPBD/KW-BG
 'although': HR*T
 'only': OEPBL
 'in': TPH
 'his': HEUS
 'old': OLD
-'days—read': TKAEUS EPL/TKA*RB RAED
+'days—read': TKAEUS/EPL/TKA*RB/RAED
 'aloud': A/HROUD
 'a': AEU
 'portion': PORGS
 'from': TPR
 'the': -T
-'Bible.': PWAO*EUBL TP-PL
+'Bible.': PWAO*EUBL/TP-PL
 'The': KPA/-T
 'children': KHEURPB
-'(for': PREPB TPOR
+'(for': PREPB/TPOR
 'they': THE
 'had': H
-'children)': KHEURPB PR*EPB
+'children)': KHEURPB/PR*EPB
 'all': AUL
 'received': SAOEFD
 'the': -T
 'best': PWEFT
-'education,': TKAEUBGS KW-BG
+'education,': TKAEUBGS/KW-BG
 'but': PWUT
 'they': THE
 'were': WR
 'not': TPHOT
 'all': AUL
 'equally': KWAEL
-'clever,': KHREFR KW-BG
+'clever,': KHREFR/KW-BG
 'as': AS
 'is': S
 'the': -T
 'case': KAEUS
 'in': TPH
 'all': AUL
-'families.': TPAEPLS TP-PL
+'families.': TPAEPLS/TP-PL
 'In': KPA/TPH
 'the': -T
 'meantime': PHAOEPB/TAO*EUPL
@@ -1048,44 +1048,44 @@ Everything in the Right Place
 'into': TPHAO
 'a': AEU
 'splendid': SPHREPB/TKEUD
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'stood': STAOD
-'there,': THR KW-BG
-'free,': TPRAOE KW-BG
+'there,': THR/KW-BG
+'free,': TPRAOE/KW-BG
 'and': SKP
 'was': WAS
 'never': TPHEFR
-'clipped.': KHREUPD TP-PL
-'"It': KR-GS KPA/T
+'clipped.': KHREUPD/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'our': OUR
 'genealogical': SKWRAO*EPB/HR-L
-'tree,"': TRAOE KW-BG KR-GS
+'tree,"': TRAOE/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
 'people': PAOEPL
 'to': TO
 'their': THAEUR
-'children,': KHEURPB KW-BG
-'"and': KR-GS SKP
+'children,': KHEURPB/KW-BG
+'"and': KR-GS/SKP
 'therefore': TH-FR
 'it': T
 'must': PHUFT
 'be': -B
-'honoured."': HOPB/OURD/A*U TP-PL KR-GS
+'honoured."': HOPB/OURD/A*U/TP-PL/KR-GS
 'A': KPA/AEU
 'hundred': HUPBD
 'years': KWRAOERS
 'had': H
-'elapsed.': AOE/HRAPS/-D TP-PL
+'elapsed.': AOE/HRAPS/-D/TP-PL
 'It': KPA/T
 'was': WAS
 'in': TPH
 'our': OUR
 'own': OEPB
-'days;': TKAEUS STPH*FPLT
+'days;': TKAEUS/STPH*FPLT
 'the': -T
 'lake': HRAEUBG
 'had': H
@@ -1093,16 +1093,16 @@ Everything in the Right Place
 'transformed': TR-FRPLD
 'into': TPHAO
 'marsh': PHA*RB
-'land;': HRAPBD STPH*FPLT
+'land;': HRAPBD/STPH*FPLT
 'the': -T
 'whole': WHOEL
 'baronial': PWAR/ROPB/KWRAL
 'seat': SAOET
-'had,': H KW-BG
+'had,': H/KW-BG
 'as': AS
 'it': T
-'were,': WR KW-BG
-'disappeared.': TKEUS/PAOERD TP-PL
+'were,': WR/KW-BG
+'disappeared.': TKEUS/PAOERD/TP-PL
 'A': KPA/AEU
 'pool': PAOL
 'of': -F
@@ -1118,7 +1118,7 @@ Everything in the Right Place
 'of': -F
 'the': -T
 'deep': TKAOEP
-'ditches;': TKEUFPS STPH*FPLT
+'ditches;': TKEUFPS/STPH*FPLT
 'and': SKP
 'here': HAOER
 'stood': STAOD
@@ -1128,14 +1128,14 @@ Everything in the Right Place
 'tree': TRAOE
 'with': W
 'overhanging': AUFR/HAPBG/-G
-'branches—that': PWRAFRPBS EPL/TKA*RB THA
+'branches—that': PWRAFRPBS/EPL/TKA*RB/THA
 'was': WAS
 'the': -T
 'genealogical': SKWRAO*EPB/HR-L
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'Here': KPA/HAOER
 'it': T
-'stood,': STAOD KW-BG
+'stood,': STAOD/KW-BG
 'and': SKP
 'showed': SHOED
 'how': HOU
@@ -1150,12 +1150,12 @@ Everything in the Right Place
 'not': TPHOT
 'interfere': EUPBT/TPAOER
 'with': W
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
-'trunk,': TRUPBG KW-BG
+'trunk,': TRUPBG/KW-BG
 'it': T
 'is': S
-'true,': TRAOU KW-BG
+'true,': TRAOU/KW-BG
 'was': WAS
 'cleft': KHREFT
 'in': TPH
@@ -1166,26 +1166,26 @@ Everything in the Right Place
 'root': RAOT
 'to': TO
 'the': -T
-'crown;': KROUPB STPH*FPLT
+'crown;': KROUPB/STPH*FPLT
 'the': -T
 'storms': STORPLS
 'had': H
 'bent': PWEPBT
 'it': T
 'a': AEU
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'but': PWUT
 'it': T
 'still': STEUL
 'stood': STAOD
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
 'every': EF
 'crevice': KREFS
 'and': SKP
-'cleft,': KHREFT KW-BG
+'cleft,': KHREFT/KW-BG
 'in': TPH
 'which': WEU
 'wind': WEUPBD
@@ -1193,35 +1193,35 @@ Everything in the Right Place
 'weather': WHR*
 'had': H
 'carried': KAERD
-'mould,': PHOULD KW-BG
+'mould,': PHOULD/KW-BG
 'blades': PWHRAEUDZ
 'of': -F
 'grass': TKPWRAS
 'and': SKP
 'flowers': TPHRO*URS
 'sprang': SPRAPBG
-'forth.': TPO*RT TP-PL
+'forth.': TPO*RT/TP-PL
 'Especially': KPA/EPS
-'above,': PWOF KW-BG
+'above,': PWOF/KW-BG
 'where': W-R
 'the': -T
 'large': HRARPBLG
 'boughs': PWO*U/-S
-'parted,': PARTD KW-BG
+'parted,': PARTD/KW-BG
 'there': THR
 'was': WAS
 'quite': KWAOEUT
 'a': AEU
 'hanging': HAPBG/-G
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'in': TPH
 'which': WEU
 'wild': WAOEULD
 'raspberries': RAZ/PWER/KWREUS
 'and': SKP
-'hart's-tongue': HRO*ER/HA*RT AE S* H-PB TUPBG
+'hart's-tongue': HRO*ER/HA*RT/AE/S*/H-PB/TUPBG
 'ferns': TPERPB/-S
-'throve,': xxx throve KW-BG
+'throve,': xxx throve/KW-BG
 'and': SKP
 'even': AOEPB
 'a': AEU
@@ -1229,7 +1229,7 @@ Everything in the Right Place
 'mistletoe': PHEUS/-L/TOE
 'had': H
 'taken': TAEPB
-'root,': RAOT KW-BG
+'root,': RAOT/KW-BG
 'and': SKP
 'grew': TKPWRAOU
 'gracefully': TKPWRAEUS/-FL/HREU
@@ -1237,7 +1237,7 @@ Everything in the Right Place
 'the': -T
 'old': OLD
 'willow': WEUL/HROE
-'branches,': PWRAFRPBS KW-BG
+'branches,': PWRAFRPBS/KW-BG
 'which': WEU
 'were': WR
 'reflected': TPHREBGTD
@@ -1257,7 +1257,7 @@ Everything in the Right Place
 'corner': KRORPB
 'of': -F
 'the': -T
-'pool.': PAOL TP-PL
+'pool.': PAOL/TP-PL
 'A': KPA/AEU
 'footpath': TPAOT/PA*T
 'which': WEU
@@ -1270,27 +1270,27 @@ Everything in the Right Place
 'by': PWEU
 'the': -T
 'old': OLD
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'High': KPA/HAOEU
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'on': OPB
 'the': -T
 'woody': WAO/TKEU
-'hillside,': HEULDZ KW-BG
+'hillside,': HEULDZ/KW-BG
 'stood': STAOD
 'the': -T
 'new': TPHU
-'mansion.': PHAPBGS TP-PL
+'mansion.': PHAPBGS/TP-PL
 'It': KPA/T
 'had': H
 'a': AEU
 'splendid': SPHREPB/TKEUD
-'view,': SRAOU KW-BG
+'view,': SRAOU/KW-BG
 'and': SKP
 'was': WAS
 'large': HRARPBLG
 'and': SKP
-'magnificent;': PHAFPBT STPH*FPLT
+'magnificent;': PHAFPBT/STPH*FPLT
 'its': EUTS
 'window': WOEUPBD
 'panes': PAEPBS
@@ -1307,7 +1307,7 @@ Everything in the Right Place
 'none': TPHOPB
 'there': THR
 'at': AT
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'The': KPA/-T
 'large': HRARPBLG
 'flight': TPHRAOEUT
@@ -1326,8 +1326,8 @@ Everything in the Right Place
 'with': W
 'roses': ROES/-S
 'and': SKP
-'broad-leaved': PWRAOD H-PB HREF/-D
-'plants.': PHRAPBTS TP-PL
+'broad-leaved': PWRAOD/H-PB/HREF/-D
+'plants.': PHRAPBTS/TP-PL
 'The': KPA/-T
 'lawn': HRAUPB
 'was': WAS
@@ -1344,11 +1344,11 @@ Everything in the Right Place
 'separately': SERPLT
 'morning': PHORPBG
 'and': SKP
-'evening.': AOEPBG TP-PL
-'Inside,': KPA/TPH-DZ KW-BG
+'evening.': AOEPBG/TP-PL
+'Inside,': KPA/TPH-DZ/KW-BG
 'in': TPH
 'the': -T
-'hall,': HAUL KW-BG
+'hall,': HAUL/KW-BG
 'valuable': SRABL
 'oil': OEUL
 'paintings': PAEUPBGS
@@ -1356,7 +1356,7 @@ Everything in the Right Place
 'hanging': HAPBG/-G
 'on': OPB
 'the': -T
-'walls.': WAULS TP-PL
+'walls.': WAULS/TP-PL
 'Here': KPA/HAOER
 'stood': STAOD
 'chairs': KHAEURS
@@ -1366,7 +1366,7 @@ Everything in the Right Place
 'with': W
 'silk': S*EULG
 'and': SKP
-'velvet,': SREL/SRET KW-BG
+'velvet,': SREL/SRET/KW-BG
 'which': WEU
 'could': KO
 'be': -B
@@ -1374,14 +1374,14 @@ Everything in the Right Place
 'rolled': ROLD
 'about': PW
 'on': OPB
-'castors;': KAS/TOR/-S STPH*FPLT
+'castors;': KAS/TOR/-S/STPH*FPLT
 'there': THR
 'were': WR
 'tables': TAEUBLS
 'with': W
 'polished': POL/EURBD
 'marble': PHAERBL
-'tops,': TOPS KW-BG
+'tops,': TOPS/KW-BG
 'and': SKP
 'books': PWAOBGS
 'bound': PWOUPBD
@@ -1389,14 +1389,14 @@ Everything in the Right Place
 'morocco': HRO*ER/PHORBG/KOE
 'with': W
 'gilt': TKPW*EULT
-'edges.': EPBLGS TP-PL
-'Indeed,': KPA/TPHAOEPBD KW-BG
+'edges.': EPBLGS/TP-PL
+'Indeed,': KPA/TPHAOEPBD/KW-BG
 'well-to-do': TWOEL/TKO
 'and': SKP
 'distinguished': STKPWAOURBD
 'people': PAOEPL
 'lived': HREUFD
-'here;': HAOER STPH*FPLT
+'here;': HAOER/STPH*FPLT
 'it': T
 'was': WAS
 'the': -T
@@ -1406,7 +1406,7 @@ Everything in the Right Place
 'baron': PWAR/ROPB
 'and': SKP
 'his': HEUS
-'family.': TPAEPL TP-PL
+'family.': TPAEPL/TP-PL
 'Each': KPA/AOEFP
 'article': ARL
 'was': WAS
@@ -1414,12 +1414,12 @@ Everything in the Right Place
 'keeping': KAOEPG
 'with': W
 'its': EUTS
-'surroundings.': SRAOUPBD/-G TP-PL
-'"Everything': KR-GS KPA/EFRG
+'surroundings.': SRAOUPBD/-G/TP-PL
+'"Everything': KR-GS/KPA/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place"': PHRAEUS KR-GS
+'place"': PHRAEUS/KR-GS
 'was': WAS
 'the': -T
 'motto': PHOT/TOE
@@ -1429,7 +1429,7 @@ Everything in the Right Place
 'they': THE
 'also': HR-S
 'acted': ABGD
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'and': SKP
 'therefore': TH-FR
 'all': AUL
@@ -1458,16 +1458,16 @@ Everything in the Right Place
 'led': HRED
 'to': TO
 'the': -T
-'servants'': SER/SRAPBTS AE
-'rooms.': RAOPLS TP-PL
+'servants'': SER/SRAPBTS/AE
+'rooms.': RAOPLS/TP-PL
 'It': KPA/T
 'was': WAS
 'all': AUL
 'old': OLD
-'lumber,': HRUPL/PWER KW-BG
+'lumber,': HRUPL/PWER/KW-BG
 'especially': EPS
 'two': TWO
-'portraits—one': POR/TRAT/-S EPL/TKA*RB WUPB
+'portraits—one': POR/TRAT/-S/EPL/TKA*RB/WUPB
 'representing': REPG
 'a': AEU
 'man': PHAPB
@@ -1477,7 +1477,7 @@ Everything in the Right Place
 'coat': KOET
 'with': W
 'a': AEU
-'wig,': WEUG KW-BG
+'wig,': WEUG/KW-BG
 'and': SKP
 'the': -T
 'other': OER
@@ -1493,7 +1493,7 @@ Everything in the Right Place
 'rose': ROEZ
 'in': TPH
 'her': HER
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'each': AOEFP
 'of': -F
 'them': THEPL
@@ -1505,17 +1505,17 @@ Everything in the Right Place
 'wreath': WRAO*ET
 'of': -F
 'willow': WEUL/HROE
-'branches.': PWRAFRPBS TP-PL
+'branches.': PWRAFRPBS/TP-PL
 'Both': KPA/PWO*T
 'portraits': POR/TRAT/-S
 'had': H
 'many': PHAEPB
 'holes': HOELS
 'in': TPH
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'because': PWAU
 'the': -T
-'baron's': PWAR/ROPB AES
+'baron's': PWAR/ROPB/AES
 'sons': SOPBS
 'used': AOUFD
 'the': -T
@@ -1526,21 +1526,21 @@ Everything in the Right Place
 'targets': TARGTS
 'for': TPOR
 'their': THAEUR
-'crossbows.': KROS/PWOE/-S TP-PL
+'crossbows.': KROS/PWOE/-S/TP-PL
 'They': KPA/THE
 'represented': REPD
 'the': -T
 'counsellor': KOUPBL/A*U
 'and': SKP
 'his': HEUS
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'from': TPR
 'whom': WHOPL
 'the': -T
 'whole': WHOEL
 'family': TPAEPL
-'descended.': TKE/SEPBD/-D TP-PL
-'"But': KR-GS KPA/PWUT
+'descended.': TKE/SEPBD/-D/TP-PL
+'"But': KR-GS/KPA/PWUT
 'they': THE
 'did': TK
 'not': TPHOT
@@ -1548,13 +1548,13 @@ Everything in the Right Place
 'belong': PWHROPBG
 'to': TO
 'our': OUR
-'family,"': TPAEPL KW-BG KR-GS
+'family,"': TPAEPL/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
-'boys;': PWOEUS STPH*FPLT
-'"he': KR-GS HE
+'boys;': PWOEUS/STPH*FPLT
+'"he': KR-GS/HE
 'was': WAS
 'a': AEU
 'pedlar': xxx pedlar
@@ -1562,30 +1562,30 @@ Everything in the Right Place
 'she': SHE
 'kept': KEPT
 'the': -T
-'geese.': TKPWAOES TP-PL
+'geese.': TKPWAOES/TP-PL
 'They': KPA/THE
 'were': WR
 'not': TPHOT
 'like': HRAOEUBG
 'papa': HRO*ER/PA/PA
 'and': SKP
-'mamma."': PHAPL/PHA TP-PL KR-GS
+'mamma."': PHAPL/PHA/TP-PL/KR-GS
 'The': KPA/-T
 'portraits': POR/TRAT/-S
 'were': WR
 'old': OLD
-'lumber,': HRUPL/PWER KW-BG
+'lumber,': HRUPL/PWER/KW-BG
 'and': SKP
-'"everything': KR-GS EFRG
+'"everything': KR-GS/EFRG
 'in': TPH
 'its': EUTS
 'right': RAOEUT
-'place."': PHRAEUS TP-PL KR-GS
+'place."': PHRAEUS/TP-PL/KR-GS
 'That': KPA/THA
 'was': WAS
 'why': KWR
 'the': -T
-'great-grandparents': TKPWRA*ET TKPWR-PTS
+'great-grandparents': TKPWRA*ET/TKPWR-PTS
 'had': H
 'been': PW-PB
 'hung': HUPBG
@@ -1596,8 +1596,8 @@ Everything in the Right Place
 'leading': HRAEGD
 'to': TO
 'the': -T
-'servants'': SER/SRAPBTS AE
-'rooms.': RAOPLS TP-PL
+'servants'': SER/SRAPBTS/AE
+'rooms.': RAOPLS/TP-PL
 'The': KPA/-T
 'son': SOPB
 'of': -F
@@ -1608,7 +1608,7 @@ Everything in the Right Place
 'tutor': TAOURT
 'at': AT
 'the': -T
-'mansion.': PHAPBGS TP-PL
+'mansion.': PHAPBGS/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'he': HE
@@ -1626,12 +1626,12 @@ Everything in the Right Place
 'and': SKP
 'their': THAEUR
 'elder': ELD/ER
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'who': WHO
 'had': H
 'lately': HRAEULT
 'been': PW-PB
-'confirmed.': K-FRPL/-D TP-PL
+'confirmed.': K-FRPL/-D/TP-PL
 'They': KPA/THE
 'walked': WAUBGD
 'along': HRAOPBG
@@ -1643,7 +1643,7 @@ Everything in the Right Place
 'the': -T
 'old': OLD
 'willow': WEUL/HROE
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'while': WHAOEUL
 'they': THE
@@ -1656,19 +1656,19 @@ Everything in the Right Place
 'a': AEU
 'bunch': PWUFRPB
 'of': -F
-'field-flowers.': TPAOELD H-PB TPHRO*URS TP-PL
-'"Everything': KR-GS KPA/EFRG
+'field-flowers.': TPAOELD/H-PB/TPHRO*URS/TP-PL
+'"Everything': KR-GS/KPA/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place,"': PHRAEUS KW-BG KR-GS
+'place,"': PHRAEUS/KW-BG/KR-GS
 'and': SKP
 'indeed': TPHAOEPBD
 'the': -T
 'bunch': PWUFRPB
 'looked': HRAOBGD
 'very': SRE
-'beautiful.': PWAOUFL TP-PL
+'beautiful.': PWAOUFL/TP-PL
 'At': KPA/AT
 'the': -T
 'same': SAEUPL
@@ -1679,7 +1679,7 @@ Everything in the Right Place
 'all': AUL
 'that': THA
 'was': WAS
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'and': SKP
 'she': SHE
 'very': SRE
@@ -1688,7 +1688,7 @@ Everything in the Right Place
 'to': TO
 'hear': HAER
 'the': -T
-'pastor's': PAS/TOR AES
+'pastor's': PAS/TOR/AES
 'son': SOPB
 'speak': SPAOEBG
 'about': PW
@@ -1702,17 +1702,17 @@ Everything in the Right Place
 'and': SKP
 'women': WEUPL
 'in': TPH
-'history.': HEUFRT TP-PL
+'history.': HEUFRT/TP-PL
 'She': KPA/SHE
 'had': H
 'a': AEU
 'healthy': HOEUFLT
-'mind,': PHAOEUPBD KW-BG
+'mind,': PHAOEUPBD/KW-BG
 'noble': TPHOEBL
 'in': TPH
 'thought': THAUT
 'and': SKP
-'deed,': TKAOED KW-BG
+'deed,': TKAOED/KW-BG
 'and': SKP
 'with': W
 'a': AEU
@@ -1725,20 +1725,20 @@ Everything in the Right Place
 'that': THA
 'God': TKPWO*D
 'had': H
-'created.': KRAOETD TP-PL
+'created.': KRAOETD/TP-PL
 'They': KPA/THE
 'stopped': STOPD
 'at': AT
 'the': -T
 'old': OLD
 'willow': WEUL/HROE
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'as': AS
 'the': -T
 'youngest': KWRUPBG/EFT
 'of': -F
 'the': -T
-'baron's': PWAR/ROPB AES
+'baron's': PWAR/ROPB/AES
 'sons': SOPBS
 'wished': WEURBD
 'very': SRE
@@ -1748,7 +1748,7 @@ Everything in the Right Place
 'a': AEU
 'flute': TPHRAOUT
 'from': TPR
-'it,': T KW-BG
+'it,': T/KW-BG
 'such': SUFP
 'as': AS
 'had': H
@@ -1759,40 +1759,40 @@ Everything in the Right Place
 'from': TPR
 'other': OER
 'willow': WEUL/HROE
-'trees;': TRAOES STPH*FPLT
+'trees;': TRAOES/STPH*FPLT
 'the': -T
-'pastor's': PAS/TOR AES
+'pastor's': PAS/TOR/AES
 'son': SOPB
 'broke': PWROEBG
 'a': AEU
 'branch': PWRAFRPB
-'off.': OF TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'off.': OF/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'pray': PRAEU
 'do': TKO
 'not': TPHOT
 'do': TKO
-'it!"': T SKHRAPL KR-GS
+'it!"': T/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'young': KWRUPBG
-'lady;': HRA*ED STPH*FPLT
+'lady;': HRA*ED/STPH*FPLT
 'but': PWUT
 'it': T
 'was': WAS
 'already': HR-R
-'done.': TKOPB TP-PL
-'"That': KR-GS KPA/THA
+'done.': TKOPB/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'our': OUR
 'famous': TPAEUPLS
 'old': OLD
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'I': EU
 'love': HRUF
 'it': T
 'very': SRE
-'much.': PHUFP TP-PL
+'much.': PHUFP/TP-PL
 'They': KPA/THE
 'often': OFPB
 'laugh': HRAF
@@ -1801,12 +1801,12 @@ Everything in the Right Place
 'at': AT
 'home': HOEPL
 'about': PW
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'that': THA
 'does': TKOS
 'not': TPHOT
-'matter.': PHAERT TP-PL
+'matter.': PHAERT/TP-PL
 'There': KPA/THR
 'is': S
 'a': AEU
@@ -1814,7 +1814,7 @@ Everything in the Right Place
 'attached': A/TAFPD
 'to': TO
 'this': TH
-'tree."': TRAOE TP-PL KR-GS
+'tree."': TRAOE/TP-PL/KR-GS
 'And': AFPBD
 'now': TPHOU
 'she': SHE
@@ -1827,14 +1827,14 @@ Everything in the Right Place
 'know': TPHOE
 'about': PW
 'the': -T
-'tree—the': TRAOE EPL/TKA*RB -T
+'tree—the': TRAOE/EPL/TKA*RB/-T
 'old': OLD
-'mansion,': PHAPBGS KW-BG
+'mansion,': PHAPBGS/KW-BG
 'the': -T
 'pedlar': xxx pedlar
 'and': SKP
 'the': -T
-'goose-girl': TKPWAOS H-PB TKPWEURL
+'goose-girl': TKPWAOS/H-PB/TKPWEURL
 'who': WHO
 'had': H
 'met': PHET
@@ -1842,7 +1842,7 @@ Everything in the Right Place
 'for': TPOR
 'the': -T
 'first': TPEUFRT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'had': H
 'become': PW-BG
@@ -1857,50 +1857,50 @@ Everything in the Right Place
 'the': -T
 'young': KWRUPBG
 'lady': HRA*ED
-'belonged.': PWHROPBGD TP-PL
-'"They': KR-GS KPA/THE
+'belonged.': PWHROPBGD/TP-PL
+'"They': KR-GS/KPA/THE
 'did': TK
 'not': TPHOT
 'like': HRAOEUBG
 'to': TO
 'be': -B
-'knighted,': TPHAO*EUT/-D KW-BG
+'knighted,': TPHAO*EUT/-D/KW-BG
 'the': -T
 'good': TKPWAOD
 'old': OLD
-'people,"': PAOEPL KW-BG KR-GS
+'people,"': PAOEPL/KW-BG/KR-GS
 'she': SHE
-'said;': SED STPH*FPLT
-'"their': KR-GS THAEUR
+'said;': SED/STPH*FPLT
+'"their': KR-GS/THAEUR
 'motto': PHOT/TOE
 'was': WAS
-''everything': AE EFRG
+''everything': AE/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place,'': PHRAEUS KW-BG AE
+'place,'': PHRAEUS/KW-BG/AE
 'and': SKP
 'it': T
 'would': WO
 'not': TPHOT
 'be': -B
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'they': THE
-'thought,': THAUT KW-BG
+'thought,': THAUT/KW-BG
 'to': TO
 'purchase': PUFP
 'a': AEU
 'title': TAOEULT
 'for': TPOR
-'money.': PHUPB TP-PL
+'money.': PHUPB/TP-PL
 'My': KPA/PHEU
-'grandfather,': TKPWR-F KW-BG
+'grandfather,': TKPWR-F/KW-BG
 'the': -T
 'first': TPEUFRT
-'baron,': PWAR/ROPB KW-BG
+'baron,': PWAR/ROPB/KW-BG
 'was': WAS
 'their': THAEUR
-'son.': SOPB TP-PL
+'son.': SOPB/TP-PL
 'They': KPA/THE
 'say': SAEU
 'he': HE
@@ -1908,7 +1908,7 @@ Everything in the Right Place
 'a': AEU
 'very': SRE
 'learned': HRERPBD
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'a': AEU
 'great': TKPWRAET
 'favourite': TPAEUFRT/A*U
@@ -1916,27 +1916,27 @@ Everything in the Right Place
 'the': -T
 'princes': PREUPBS/-S
 'and': SKP
-'princesses,': PREUPB/SES/-S KW-BG
+'princesses,': PREUPB/SES/-S/KW-BG
 'and': SKP
 'was': WAS
 'invited': EUPB/SRAOEUTD
 'to': TO
 'all': AUL
 'court': KORT
-'festivities.': TPEFT/EUFT/TEU/-S TP-PL
+'festivities.': TPEFT/EUFT/TEU/-S/TP-PL
 'The': KPA/-T
 'others': OERS
 'at': AT
 'home': HOEPL
 'love': HRUF
 'him': HEUPL
-'best;': PWEFT STPH*FPLT
-'but,': PWUT KW-BG
+'best;': PWEFT/STPH*FPLT
+'but,': PWUT/KW-BG
 'I': EU
 'do': TKO
 'not': TPHOT
 'know': TPHOE
-'why,': KWR KW-BG
+'why,': KWR/KW-BG
 'there': THR
 'seemed': SAOEPLD
 'to': TO
@@ -1951,11 +1951,11 @@ Everything in the Right Place
 'that': THA
 'attracts': A/TRABGTS
 'my': PHEU
-'heart!': HART SKHRAPL
+'heart!': HART/SKHRAPL
 'How': KPA/HOU
-'homely,': HOEPL/HREU KW-BG
+'homely,': HOEPL/HREU/KW-BG
 'how': HOU
-'patriarchal,': PAEU/TRAR/KAL KW-BG
+'patriarchal,': PAEU/TRAR/KAL/KW-BG
 'it': T
 'must': PHUFT
 'have': SR
@@ -1963,17 +1963,17 @@ Everything in the Right Place
 'in': TPH
 'the': -T
 'old': OLD
-'mansion,': PHAPBGS KW-BG
+'mansion,': PHAPBGS/KW-BG
 'where': W-R
 'the': -T
 'mistress': PHEUS/TRES
 'sat': SAT
 'at': AT
 'the': -T
-'spinning-wheel': SPEUPBG H-PB WHAOEL
+'spinning-wheel': SPEUPBG/H-PB/WHAOEL
 'with': W
 'her': HER
-'maids,': PHAEUDZ KW-BG
+'maids,': PHAEUDZ/KW-BG
 'while': WHAOEUL
 'her': HER
 'husband': HUS
@@ -1982,18 +1982,18 @@ Everything in the Right Place
 'out': OUT
 'of': -F
 'the': -T
-'Bible!"': PWAO*EUBL SKHRAPL KR-GS
-'"They': KR-GS KPA/THE
+'Bible!"': PWAO*EUBL/SKHRAPL/KR-GS
+'"They': KR-GS/KPA/THE
 'must': PHUFT
 'have': SR
 'been': PW-PB
-'excellent,': KPHREPBT KW-BG
+'excellent,': KPHREPBT/KW-BG
 'sensible': SEPBS/-BL
-'people,"': PAOEPL KW-BG KR-GS
+'people,"': PAOEPL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'pastor's': PAS/TOR AES
-'son.': SOPB TP-PL
+'pastor's': PAS/TOR/AES
+'son.': SOPB/TP-PL
 'And': AFPBD
 'with': W
 'this': TH
@@ -2004,7 +2004,7 @@ Everything in the Right Place
 'to': TO
 'noblemen': TPHOEBL/PH*EPB
 'and': SKP
-'commoners;': KPHOPB/ERS STPH*FPLT
+'commoners;': KPHOPB/ERS/STPH*FPLT
 'from': TPR
 'the': -T
 'manner': PHAERPB
@@ -2018,7 +2018,7 @@ Everything in the Right Place
 'significance': SEUGS
 'of': -F
 'being': -BG
-'noble,': TPHOEBL KW-BG
+'noble,': TPHOEBL/KW-BG
 'it': T
 'seemed': SAOEPLD
 'almost': HR-PL
@@ -2030,9 +2030,9 @@ Everything in the Right Place
 'belong': PWHROPBG
 'to': TO
 'a': AEU
-'commoner's': KPHOPB/*ER AES
-'family.': TPAEPL TP-PL
-'"It': KR-GS KPA/T
+'commoner's': KPHOPB/*ER/AES
+'family.': TPAEPL/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'good': TKPWAOD
 'fortune': TP-RPB
@@ -2044,7 +2044,7 @@ Everything in the Right Place
 'who': WHO
 'have': SR
 'distinguished': STKPWAOURBD
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'and': SKP
 'to': TO
 'possess': PESZ
@@ -2061,7 +2061,7 @@ Everything in the Right Place
 'all': AUL
 'that': THA
 'is': S
-'good.': TKPWAOD TP-PL
+'good.': TKPWAOD/TP-PL
 'It': KPA/T
 'is': S
 'a': AEU
@@ -2072,7 +2072,7 @@ Everything in the Right Place
 'to': TO
 'a': AEU
 'noble': TPHOEBL
-'family,': TPAEPL KW-BG
+'family,': TPAEPL/KW-BG
 'whose': WHOZ
 'name': TPHAEUPL
 'serves': SEFRBS
@@ -2084,11 +2084,11 @@ Everything in the Right Place
 'to': TO
 'the': -T
 'highest': HAOEU/EFT
-'circles.': SOEURBGS TP-PL
+'circles.': SOEURBGS/TP-PL
 'Nobility': KPA/TPHOEBLT
 'is': S
 'a': AEU
-'distinction;': STKEUPBGS STPH*FPLT
+'distinction;': STKEUPBGS/STPH*FPLT
 'it': T
 'is': S
 'a': AEU
@@ -2101,19 +2101,19 @@ Everything in the Right Place
 'of': -F
 'its': EUTS
 'own': OEPB
-'value.': SRAOUL TP-PL
+'value.': SRAOUL/TP-PL
 'It': KPA/T
 'is': S
 'the': -T
 'fallacy': TPAL/SEU
 'of': -F
 'the': -T
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'many': PHAEPB
 'poets': POETS
 'express': EBGS/PRES
-'it,': T KW-BG
+'it,': T/KW-BG
 'to': TO
 'say': SAEU
 'that': THA
@@ -2124,35 +2124,35 @@ Everything in the Right Place
 'is': S
 'bad': PWAD
 'and': SKP
-'stupid,': STAOUPD KW-BG
+'stupid,': STAOUPD/KW-BG
 'and': SKP
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'on': OPB
 'the': -T
-'contrary,': KRAER KW-BG
+'contrary,': KRAER/KW-BG
 'the': -T
 'lower': HROUR
 'one': WUPB
 'goes': TKPW-S
 'among': PHOPBG
 'the': -T
-'poor,': PAOR KW-BG
+'poor,': PAOR/KW-BG
 'the': -T
 'more': PHOR
 'brilliant': PWREULT
 'virtues': SREUR/TAOUS
 'one': WUPB
-'finds.': TPAOEUPBDZ TP-PL
+'finds.': TPAOEUPBDZ/TP-PL
 'I': EU
 'do': TKO
 'not': TPHOT
 'share': SHAEUR
 'this': TH
-'opinion,': P-PB KW-BG
+'opinion,': P-PB/KW-BG
 'for': TPOR
 'it': T
 'is': S
-'wrong.': WROPBG TP-PL
+'wrong.': WROPBG/TP-PL
 'In': KPA/TPH
 'the': -T
 'upper': AOURP
@@ -2162,7 +2162,7 @@ Everything in the Right Place
 'many': PHAEPB
 'touchingly': TUFPG/HREU
 'beautiful': PWAOUFL
-'traits;': TRAEUTS STPH*FPLT
+'traits;': TRAEUTS/STPH*FPLT
 'my': PHEU
 'own': OEPB
 'mother': PHOER
@@ -2170,26 +2170,26 @@ Everything in the Right Place
 'told': TOLD
 'me': PHE
 'of': -F
-'such,': SUFP KW-BG
+'such,': SUFP/KW-BG
 'and': SKP
 'I': EU
 'could': KO
 'mention': PHEPBGS
-'several.': SEFRL TP-PL
+'several.': SEFRL/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'she': SHE
 'was': WAS
 'visiting': SREUFT/-G
 'a': AEU
-'nobleman's': TPHOEBL/PHA*PB AES
+'nobleman's': TPHOEBL/PHA*PB/AES
 'house': HOUS
 'in': TPH
-'town;': TOUPB STPH*FPLT
+'town;': TOUPB/STPH*FPLT
 'my': PHEU
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'I': EU
-'believe,': PWHREF KW-BG
+'believe,': PWHREF/KW-BG
 'had': H
 'been': PW-PB
 'the': -T
@@ -2199,7 +2199,7 @@ Everything in the Right Place
 'she': SHE
 'was': WAS
 'a': AEU
-'child.': KHAOEULD TP-PL
+'child.': KHAOEULD/TP-PL
 'My': KPA/PHEU
 'mother': PHOER
 'and': SKP
@@ -2209,7 +2209,7 @@ Everything in the Right Place
 'alone': A/HROEPB
 'in': TPH
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'when': WHEPB
 'he': HE
 'suddenly': SULD
@@ -2223,7 +2223,7 @@ Everything in the Right Place
 'limping': HREUPL/-PG
 'into': TPHAO
 'the': -T
-'courtyard;': KORT/KWRARD STPH*FPLT
+'courtyard;': KORT/KWRARD/STPH*FPLT
 'she': SHE
 'came': KAEUPL
 'every': EF
@@ -2234,25 +2234,25 @@ Everything in the Right Place
 'gift': TKPWEUFT
 'away': WA*EU
 'with': W
-'her.': HER TP-PL
-'"'There': KR-GS AE KPA/THR
+'her.': HER/TP-PL
+'"'There': KR-GS/AE/KPA/THR
 'is': S
 'the': -T
 'poor': PAOR
 'old': OLD
-'woman,'': WOPL KW-BG AE
+'woman,'': WOPL/KW-BG/AE
 'said': SED
 'the': -T
-'nobleman;': TPHOEBL/PHA*PB STPH*FPLT
-''it': AE T
+'nobleman;': TPHOEBL/PHA*PB/STPH*FPLT
+''it': AE/T
 'is': S
 'so': SO
 'difficult': TKEUFL
 'for': TPOR
 'her': HER
 'to': TO
-'walk.'': WAUBG TP-PL AE
-'"My': KR-GS KPA/PHEU
+'walk.'': WAUBG/TP-PL/AE
+'"My': KR-GS/KPA/PHEU
 'mother': PHOER
 'had': H
 'hardly': HA*RLD
@@ -2265,10 +2265,10 @@ Everything in the Right Place
 'disappeared': TKEUS/PAOERD
 'from': TPR
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'went': WEPBT
-'downstairs,': TKOUPB/STAEURS KW-BG
+'downstairs,': TKOUPB/STAEURS/KW-BG
 'in': TPH
 'order': ORD
 'to': TO
@@ -2283,7 +2283,7 @@ Everything in the Right Place
 'she': SHE
 'came': KAEUPL
 'to': TO
-'fetch.': TPEFP TP-PL
+'fetch.': TPEFP/TP-PL
 'Of': KPA/-F
 'course': KORS
 'this': TH
@@ -2291,7 +2291,7 @@ Everything in the Right Place
 'only': OEPBL
 'a': AEU
 'little': HREUL
-'incident,': STK*EPBT KW-BG
+'incident,': STK*EPBT/KW-BG
 'but': PWUT
 'it': T
 'has': HAS
@@ -2301,12 +2301,12 @@ Everything in the Right Place
 'like': HRAOEUBG
 'the': -T
 'poor': PAOR
-'widow's': WO*EUD AES
+'widow's': WO*EUD/AES
 'two': TWO
 'mites': PHAO*EUT/-S
 'in': TPH
 'the': -T
-'Bible,': PWAO*EUBL KW-BG
+'Bible,': PWAO*EUBL/KW-BG
 'the': -T
 'sound': SOUPBD
 'which': WEU
@@ -2317,7 +2317,7 @@ Everything in the Right Place
 'of': -F
 'every': EF
 'human': HAOUPL
-'heart;': HART STPH*FPLT
+'heart;': HART/STPH*FPLT
 'and': SKP
 'this': TH
 'is': S
@@ -2329,7 +2329,7 @@ Everything in the Right Place
 'show': SHOE
 'and': SKP
 'point': POEUPBT
-'out—more': OUT EPL/TKA*RB PHOR
+'out—more': OUT/EPL/TKA*RB/PHOR
 'especially': EPS
 'in': TPH
 'our': OUR
@@ -2340,18 +2340,18 @@ Everything in the Right Place
 'to': TO
 'sing': SEUPBG
 'of': -F
-'this;': TH STPH*FPLT
+'this;': TH/STPH*FPLT
 'it': T
 'does': TKOS
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'it': T
 'mitigates': PHEUT/TKPWAEUTS
 'and': SKP
-'reconciles!': REBG/SAOEULS SKHRAPL
+'reconciles!': REBG/SAOEULS/SKHRAPL
 'But': KPA/PWUT
 'when': WHEPB
 'a': AEU
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'simply': SAO*EPL
 'because': PWAU
 'he': HE
@@ -2362,7 +2362,7 @@ Everything in the Right Place
 'and': SKP
 'possesses': POE/SES/-S
 'a': AEU
-'genealogy,': SKWRAOEPB/OLG KW-BG
+'genealogy,': SKWRAOEPB/OLG/KW-BG
 'stands': STAPBDZ
 'on': OPB
 'his': HEUS
@@ -2376,7 +2376,7 @@ Everything in the Right Place
 'like': HRAOEUBG
 'an': APB
 'Arabian': A/RAEUB/KWRAPB
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'says': SEZ
 'when': WHEPB
@@ -2386,19 +2386,19 @@ Everything in the Right Place
 'been': PW-PB
 'in': TPH
 'a': AEU
-'room:': RAOPL STPH-FPLT
-''Some': AE KPA/SOPL
+'room:': RAOPL/STPH-FPLT
+''Some': AE/KPA/SOPL
 'people': PAOEPL
 'from': TPR
 'the': -T
 'street': STRAOET
 'have': SR
 'been': PW-PB
-'here,'': HAOER KW-BG AE
+'here,'': HAOER/KW-BG/AE
 'there': THR
 'nobility': TPHOEBLT
 'is': S
-'decaying;': TKAOE/KAEUG STPH*FPLT
+'decaying;': TKAOE/KAEUG/STPH*FPLT
 'it': T
 'has': HAS
 'become': PW-BG
@@ -2409,7 +2409,7 @@ Everything in the Right Place
 'kind': KEUPBD
 'that': THA
 'Thespis': xxx Thespis
-'created,': KRAOETD KW-BG
+'created,': KRAOETD/KW-BG
 'and': SKP
 'it': T
 'is': S
@@ -2421,17 +2421,17 @@ Everything in the Right Place
 'is': S
 'exposed': EBGS/POED/-D
 'in': TPH
-'satire."': SA/TAOEUR TP-PL KR-GS
+'satire."': SA/TAOEUR/TP-PL/KR-GS
 'Such': KPA/SUFP
 'was': WAS
 'the': -T
-'tutor's': TAOURT AES
-'speech;': SPAOEFP STPH*FPLT
+'tutor's': TAOURT/AES
+'speech;': SPAOEFP/STPH*FPLT
 'it': T
 'was': WAS
 'a': AEU
 'little': HREUL
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'but': PWUT
 'while': WHAOEUL
 'he': HE
@@ -2442,7 +2442,7 @@ Everything in the Right Place
 'finished': TP*EURBD
 'cutting': KUGT
 'the': -T
-'flute.': TPHRAOUT TP-PL
+'flute.': TPHRAOUT/TP-PL
 'There': KPA/THR
 'was': WAS
 'a': AEU
@@ -2450,7 +2450,7 @@ Everything in the Right Place
 'party': PAERT
 'at': AT
 'the': -T
-'mansion;': PHAPBGS STPH*FPLT
+'mansion;': PHAPBGS/STPH*FPLT
 'many': PHAEPB
 'guests': TKPWEFTS
 'from': TPR
@@ -2461,7 +2461,7 @@ Everything in the Right Place
 'the': -T
 'capital': KPAL
 'had': H
-'arrived.': A/RAOEUFD TP-PL
+'arrived.': A/RAOEUFD/TP-PL
 'There': KPA/THR
 'were': WR
 'ladies': HRAEUDZ
@@ -2470,7 +2470,7 @@ Everything in the Right Place
 'and': SKP
 'with': W
 'tasteless': TAEUFT/-LS
-'dresses;': TKRES/-S STPH*FPLT
+'dresses;': TKRES/-S/STPH*FPLT
 'the': -T
 'big': PWEUG
 'hall': HAUL
@@ -2478,7 +2478,7 @@ Everything in the Right Place
 'quite': KWAOEUT
 'crowded': KROUD/-D
 'with': W
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'The': KPA/-T
 'clergymen': KHRERPBLG/PHEPB
 'stood': STAOD
@@ -2486,7 +2486,7 @@ Everything in the Right Place
 'together': TOGT
 'in': TPH
 'a': AEU
-'corner,': KRORPB KW-BG
+'corner,': KRORPB/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'as': AS
@@ -2496,31 +2496,31 @@ Everything in the Right Place
 'preparing': PRAOEPG
 'for': TPOR
 'a': AEU
-'funeral,': TPAOUPBL KW-BG
+'funeral,': TPAOUPBL/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'a': AEU
-'festival—only': TPEFT/SRAL EPL/TKA*RB OEPBL
+'festival—only': TPEFT/SRAL/EPL/TKA*RB/OEPBL
 'the': -T
 'amusement': A/PHAOUS/*PLT
 'had': H
 'not': TPHOT
 'yet': KWRET
-'begun.': TKPWUPB TP-PL
+'begun.': TKPWUPB/TP-PL
 'A': KPA/AEU
 'great': TKPWRAET
 'concert': KERT
 'was': WAS
 'to': TO
 'take': TAEUBG
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'and': SKP
 'that': THA
 'is': S
 'why': KWR
 'the': -T
-'baron's': PWAR/ROPB AES
+'baron's': PWAR/ROPB/AES
 'young': KWRUPBG
 'son': SOPB
 'had': H
@@ -2529,18 +2529,18 @@ Everything in the Right Place
 'willow': WEUL/HROE
 'flute': TPHRAOUT
 'with': W
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'but': PWUT
 'he': HE
 'could': KO
 'not': TPHOT
 'make': PHAEUBG
 'it': T
-'sound,': SOUPBD KW-BG
+'sound,': SOUPBD/KW-BG
 'nor': TPH-R
 'could': KO
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'therefore': TH-FR
 'the': -T
@@ -2548,7 +2548,7 @@ Everything in the Right Place
 'was': WAS
 'good': TKPWAOD
 'for': TPOR
-'nothing.': TPHOG TP-PL
+'nothing.': TPHOG/TP-PL
 'There': KPA/THR
 'was': WAS
 'music': PHAOUFBG
@@ -2563,60 +2563,60 @@ Everything in the Right Place
 'those': THOZ
 'that': THA
 'perform': PORPL
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'otherwise': O*ERZ
 'quite': KWAOEUT
-'charming!': KHARPL/-G SKHRAPL
-'"Are': KR-GS KPA/R
+'charming!': KHARPL/-G/SKHRAPL
+'"Are': KR-GS/KPA/R
 'you': U
 'an': APB
-'artist?"': TR-FT H-F KR-GS
+'artist?"': TR-FT/H-F/KR-GS
 'said': SED
 'a': AEU
-'cavalier,': KAF/HRAOER KW-BG
+'cavalier,': KAF/HRAOER/KW-BG
 'the': -T
 'son': SOPB
 'of': -F
 'his': HEUS
-'father;': TPAER STPH*FPLT
-'"you': KR-GS U
+'father;': TPAER/STPH*FPLT
+'"you': KR-GS/U
 'play': PHRAEU
 'on': OPB
 'the': -T
-'flute,': TPHRAOUT KW-BG
+'flute,': TPHRAOUT/KW-BG
 'you': U
 'have': SR
 'made': PHAED
 'it': T
-'yourself;': KWRO*URS STPH*FPLT
+'yourself;': KWRO*URS/STPH*FPLT
 'it': T
 'is': S
 'genius': SKWRAOEPB/KWROUS
 'that': THA
-'rules—the': RAOULS EPL/TKA*RB -T
+'rules—the': RAOULS/EPL/TKA*RB/-T
 'place': PHRAEUS
 'of': -F
 'honour': HO*RPB/A*U
 'is': S
 'due': TKAOU
 'to': TO
-'you."': U TP-PL KR-GS
-'"Certainly': KR-GS KPA/SERPBL
-'not!': TPHOT SKHRAPL
+'you."': U/TP-PL/KR-GS
+'"Certainly': KR-GS/KPA/SERPBL
+'not!': TPHOT/SKHRAPL
 'I': EU
 'only': OEPBL
 'advance': SRAPBS
 'with': W
 'the': -T
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'that': THA
 'of': -F
 'course': KORS
 'one': WUPB
 'can't': K-PBT
-'help."': HEP TP-PL KR-GS
-'"I': KR-GS EU
+'help."': HEP/TP-PL/KR-GS
+'"I': KR-GS/EU
 'hope': HOEP
 'you': U
 'will': HR
@@ -2626,9 +2626,9 @@ Everything in the Right Place
 'with': W
 'the': -T
 'little': HREUL
-'instrument—will': STRUPLT EPL/TKA*RB HR
+'instrument—will': STRUPLT/EPL/TKA*RB/HR
 'you': U
-'not?"': TPHOT H-F KR-GS
+'not?"': TPHOT/H-F/KR-GS
 'Thus': KPA/THUS
 'saying': SAEUG
 'he': HE
@@ -2648,7 +2648,7 @@ Everything in the Right Place
 'tree': TRAOE
 'by': PWEU
 'the': -T
-'pool;': PAOL STPH*FPLT
+'pool;': PAOL/STPH*FPLT
 'and': SKP
 'then': THEPB
 'announced': A/TPHOUPBS/-D
@@ -2666,36 +2666,36 @@ Everything in the Right Place
 'solo': SO/HRO
 'on': OPB
 'the': -T
-'flute.': TPHRAOUT TP-PL
+'flute.': TPHRAOUT/TP-PL
 'They': KPA/THE
 'wished': WEURBD
 'to': TO
 'tease': TAOES
-'him—that': HEUPL EPL/TKA*RB THA
+'him—that': HEUPL/EPL/TKA*RB/THA
 'was': WAS
-'evident,': AEFT KW-BG
+'evident,': AEFT/KW-BG
 'and': SKP
 'therefore': TH-FR
 'the': -T
 'tutor': TAOURT
 'declined': TKE/KHRAOEUPBD
 'to': TO
-'play,': PHRAEU KW-BG
+'play,': PHRAEU/KW-BG
 'although': HR*T
 'he': HE
 'could': KO
 'do': TKO
 'so': SO
 'very': SRE
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'They': KPA/THE
 'urged': URPBLGD
 'and': SKP
 'requested': KW-D
-'him,': HEUPL KW-BG
-'however,': HOUF KW-BG
+'him,': HEUPL/KW-BG
+'however,': HOUF/KW-BG
 'so': SO
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'that': THA
 'at': AT
 'last': HRAFT
@@ -2709,12 +2709,12 @@ Everything in the Right Place
 'it': T
 'to': TO
 'his': HEUS
-'lips.': HREUPS TP-PL
+'lips.': HREUPS/TP-PL
 'That': KPA/THA
 'was': WAS
 'a': AEU
 'marvellous': PHAFLS/A*U
-'flute!': TPHRAOUT SKHRAPL
+'flute!': TPHRAOUT/SKHRAPL
 'Its': KPA/EUTS
 'sound': SOUPBD
 'was': WAS
@@ -2726,13 +2726,13 @@ Everything in the Right Place
 'of': -F
 'a': AEU
 'steam': STAEPL
-'engine;': TPH-PBLG STPH*FPLT
+'engine;': TPH-PBLG/STPH*FPLT
 'in': TPH
 'fact': TPABGT
 'it': T
 'was': WAS
 'much': PHUFP
-'stronger,': STRORPBG KW-BG
+'stronger,': STRORPBG/KW-BG
 'for': TPOR
 'it': T
 'sounded': SOUPBD/-D
@@ -2741,20 +2741,20 @@ Everything in the Right Place
 'heard': HAERD
 'in': TPH
 'the': -T
-'yard,': KWRARD KW-BG
+'yard,': KWRARD/KW-BG
 'in': TPH
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'in': TPH
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'many': PHAEPB
 'miles': PHAOEULS
 'round': ROUPBD
 'in': TPH
 'the': -T
-'country;': KREU STPH*FPLT
+'country;': KREU/STPH*FPLT
 'at': AT
 'the': -T
 'same': SAEUPL
@@ -2763,23 +2763,23 @@ Everything in the Right Place
 'storm': STORPL
 'rose': ROEZ
 'and': SKP
-'roared;': RAORD STPH*FPLT
-'"Everything': KR-GS KPA/EFRG
+'roared;': RAORD/STPH*FPLT
+'"Everything': KR-GS/KPA/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place."': PHRAEUS TP-PL KR-GS
+'place."': PHRAEUS/TP-PL/KR-GS
 'And': AFPBD
 'with': W
 'this': TH
 'the': -T
-'baron,': PWAR/ROPB KW-BG
+'baron,': PWAR/ROPB/KW-BG
 'as': AS
 'if': TP
 'carried': KAERD
 'by': PWEU
 'the': -T
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'flew': TPHRAOU
 'out': OUT
 'of': -F
@@ -2788,24 +2788,24 @@ Everything in the Right Place
 'straight': STRAEUT
 'into': TPHAO
 'the': -T
-'shepherd's': SHEP/ERD AES
-'cottage,': KOT/APBLG KW-BG
+'shepherd's': SHEP/ERD/AES
+'cottage,': KOT/APBLG/KW-BG
 'and': SKP
 'the': -T
 'shepherd': SHEP/ERD
-'flew—not': TPHRAOU EPL/TKA*RB TPHOT
+'flew—not': TPHRAOU/EPL/TKA*RB/TPHOT
 'into': TPHAO
 'the': -T
-'hall,': HAUL KW-BG
+'hall,': HAUL/KW-BG
 'thither': TH*EURT
 'he': HE
 'could': KO
 'not': TPHOT
-'come—but': KOPL EPL/TKA*RB PWUT
+'come—but': KOPL/EPL/TKA*RB/PWUT
 'into': TPHAO
 'the': -T
-'servants'': SER/SRAPBTS AE
-'hall,': HAUL KW-BG
+'servants'': SER/SRAPBTS/AE
+'hall,': HAUL/KW-BG
 'among': PHOPBG
 'the': -T
 'smart': SPHART
@@ -2816,12 +2816,12 @@ Everything in the Right Place
 'about': PW
 'in': TPH
 'silk': S*EULG
-'stockings;': STOBG/-G/-S STPH*FPLT
+'stockings;': STOBG/-G/-S/STPH*FPLT
 'these': THEZ
 'haughty': HAU/TEU
 'menials': PHAOEPBL/-S
 'looked': HRAOBGD
-'horror-struck': HOR/O*R H-PB STRUBG
+'horror-struck': HOR/O*R/H-PB/STRUBG
 'that': THA
 'such': SUFP
 'a': AEU
@@ -2832,13 +2832,13 @@ Everything in the Right Place
 'at': AT
 'table': TAEUBL
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'But': KPA/PWUT
 'in': TPH
 'the': -T
 'hall': HAUL
 'the': -T
-'baron's': PWAR/ROPB AES
+'baron's': PWAR/ROPB/AES
 'daughter': TKAUR
 'flew': TPHRAOU
 'to': TO
@@ -2851,21 +2851,21 @@ Everything in the Right Place
 'end': EPBD
 'of': -F
 'the': -T
-'table—she': TAEUBL EPL/TKA*RB SHE
+'table—she': TAEUBL/EPL/TKA*RB/SHE
 'was': WAS
 'worthy': WO*RT/KWREU
 'to': TO
 'sit': SEUT
-'there;': THR STPH*FPLT
+'there;': THR/STPH*FPLT
 'the': -T
-'pastor's': PAS/TOR AES
+'pastor's': PAS/TOR/AES
 'son': SOPB
 'had': H
 'the': -T
 'seat': SAOET
 'next': TPHEGT
 'to': TO
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'the': -T
 'two': TWO
 'sat': SAT
@@ -2876,10 +2876,10 @@ Everything in the Right Place
 'were': WR
 'a': AEU
 'bridal': PWRAOEU/TKAL
-'pair.': PAEUR TP-PL
+'pair.': PAEUR/TP-PL
 'An': KPA/APB
 'old': OLD
-'Count,': KO*UPBT KW-BG
+'Count,': KO*UPBT/KW-BG
 'belonging': PWE/HROPBG/-G
 'to': TO
 'one': WUPB
@@ -2889,18 +2889,18 @@ Everything in the Right Place
 'families': TPAEPLS
 'of': -F
 'the': -T
-'country,': KREU KW-BG
+'country,': KREU/KW-BG
 'remained': RE/PHAEUPBD
 'untouched': UPB/TUFPD
 'in': TPH
 'his': HEUS
 'place': PHRAEUS
 'of': -F
-'honour;': HO*RPB/A*U STPH*FPLT
+'honour;': HO*RPB/A*U/STPH*FPLT
 'the': -T
 'flute': TPHRAOUT
 'was': WAS
-'just,': SKWRUFT KW-BG
+'just,': SKWRUFT/KW-BG
 'and': SKP
 'it': T
 'is': S
@@ -2908,9 +2908,9 @@ Everything in the Right Place
 'duty': TKAOUT
 'to': TO
 'be': -B
-'so.': SO TP-PL
+'so.': SO/TP-PL
 'The': KPA/-T
-'sharp-tongued': SHARP H-PB TUPBG/-D
+'sharp-tongued': SHARP/H-PB/TUPBG/-D
 'cavalier': KAF/HRAOER
 'who': WHO
 'had': H
@@ -2919,7 +2919,7 @@ Everything in the Right Place
 'flute': TPHRAOUT
 'to': TO
 'be': -B
-'played,': PHRAEUD KW-BG
+'played,': PHRAEUD/KW-BG
 'and': SKP
 'who': WHO
 'was': WAS
@@ -2927,16 +2927,16 @@ Everything in the Right Place
 'child': KHAOEULD
 'of': -F
 'his': HEUS
-'parents,': PARPBTS KW-BG
+'parents,': PARPBTS/KW-BG
 'flew': TPHRAOU
 'headlong': HED/HROPBG
 'into': TPHAO
 'the': -T
-'fowl-house,': TPO*UL H-PB HOUS KW-BG
+'fowl-house,': TPO*UL/H-PB/HOUS/KW-BG
 'but': PWUT
 'not': TPHOT
 'he': HE
-'alone.': A/HROEPB TP-PL
+'alone.': A/HROEPB/TP-PL
 'The': KPA/-T
 'flute': TPHRAOUT
 'was': WAS
@@ -2946,16 +2946,16 @@ Everything in the Right Place
 'distance': STKAPBS
 'of': -F
 'a': AEU
-'mile,': PHAOEUL KW-BG
+'mile,': PHAOEUL/KW-BG
 'and': SKP
 'strange': STRAEUPBG
 'events': AOEFPBTS
 'took': TAOBG
-'place.': PHRAEUS TP-PL
+'place.': PHRAEUS/TP-PL
 'A': KPA/AEU
 'rich': REUFP
-'banker's': PWAPB/KER AES
-'family,': TPAEPL KW-BG
+'banker's': PWAPB/KER/AES
+'family,': TPAEPL/KW-BG
 'who': WHO
 'were': WR
 'driving': TKRAOEUFG
@@ -2963,12 +2963,12 @@ Everything in the Right Place
 'a': AEU
 'coach': KOEFP
 'and': SKP
-'four,': TPOUR KW-BG
+'four,': TPOUR/KW-BG
 'were': WR
 'blown': PWHROEPB
 'out': OUT
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -2979,7 +2979,7 @@ Everything in the Right Place
 'it': T
 'with': W
 'their': THAEUR
-'footmen.': TPAOT/PH*EPB TP-PL
+'footmen.': TPAOT/PH*EPB/TP-PL
 'Two': KPA/TWO
 'rich': REUFP
 'farmers': TPARPL/ERS
@@ -2994,30 +2994,30 @@ Everything in the Right Place
 'than': THAPB
 'their': THAEUR
 'own': OEPB
-'corn-fields,': KORPB H-PB TPAOELDZ KW-BG
+'corn-fields,': KORPB/H-PB/TPAOELDZ/KW-BG
 'were': WR
 'flung': TPHRUPBG
 'into': TPHAO
 'the': -T
-'ditch;': TKEUFP STPH*FPLT
+'ditch;': TKEUFP/STPH*FPLT
 'it': T
 'was': WAS
 'a': AEU
 'dangerous': TKAEUPBLGS
-'flute.': TPHRAOUT TP-PL
+'flute.': TPHRAOUT/TP-PL
 'Fortunately': KPA/TP-RPBL
 'it': T
 'burst': PWUFRT
 'at': AT
 'the': -T
 'first': TPEUFRT
-'sound,': SOUPBD KW-BG
+'sound,': SOUPBD/KW-BG
 'and': SKP
 'that': THA
 'was': WAS
 'a': AEU
 'good': TKPWAOD
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'for': TPOR
 'then': THEPB
 'it': T
@@ -3026,13 +3026,13 @@ Everything in the Right Place
 'back': PWABG
 'into': TPHAO
 'its': EUTS
-'owner's': OERPB AES
-'pocket—"its': POBGT EPL/TKA*RB KR-GS EUTS
+'owner's': OERPB/AES
+'pocket—"its': POBGT/EPL/TKA*RB/KR-GS/EUTS
 'right': RAOEUT
-'place."': PHRAEUS TP-PL KR-GS
+'place."': PHRAEUS/TP-PL/KR-GS
 'The': KPA/-T
 'next': TPHEGT
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'nobody': TPHOEB
 'spoke': SPOEBG
 'a': AEU
@@ -3041,22 +3041,22 @@ Everything in the Right Place
 'what': WHA
 'had': H
 'taken': TAEPB
-'place;': PHRAEUS STPH*FPLT
+'place;': PHRAEUS/STPH*FPLT
 'thus': THUS
 'originated': ORPBLG/TPHAEUT/-D
 'the': -T
-'phrase,': TPRAEZ KW-BG
-'"to': KR-GS TO
+'phrase,': TPRAEZ/KW-BG
+'"to': KR-GS/TO
 'pocket': POBGT
 'the': -T
-'flute."': TPHRAOUT TP-PL KR-GS
+'flute."': TPHRAOUT/TP-PL/KR-GS
 'Everything': KPA/EFRG
 'was': WAS
 'again': TKPWEPB
 'in': TPH
 'its': EUTS
 'usual': AOURB
-'order,': ORD KW-BG
+'order,': ORD/KW-BG
 'except': KPEPT
 'that': THA
 'the': -T
@@ -3068,12 +3068,12 @@ Everything in the Right Place
 'peddlar': xxx peddlar
 'and': SKP
 'the': -T
-'goose-girl': TKPWAOS H-PB TKPWEURL
+'goose-girl': TKPWAOS/H-PB/TKPWEURL
 'were': WR
 'hanging': HAPBG/-G
 'in': TPH
 'the': -T
-'banqueting-hall.': PWAPB/KWET/-G H-PB HAUL TP-PL
+'banqueting-hall.': PWAPB/KWET/-G/H-PB/HAUL/TP-PL
 'There': KPA/THR
 'they': THE
 'were': WR
@@ -3084,7 +3084,7 @@ Everything in the Right Place
 'if': TP
 'blown': PWHROEPB
 'up': UP
-'there;': THR STPH*FPLT
+'there;': THR/STPH*FPLT
 'and': SKP
 'as': AS
 'a': AEU
@@ -3097,31 +3097,31 @@ Everything in the Right Place
 'painted': PAEUPBTD
 'by': PWEU
 'a': AEU
-'master's': PHAFRT AES
-'hand,': HAPBD KW-BG
+'master's': PHAFRT/AES
+'hand,': HAPBD/KW-BG
 'they': THE
 'remained': RE/PHAEUPBD
 'there': THR
 'and': SKP
 'were': WR
-'restored.': RAOE/STORD TP-PL
-'"Everything': KR-GS KPA/EFRG
+'restored.': RAOE/STORD/TP-PL
+'"Everything': KR-GS/KPA/EFRG
 'in': TPH
 'the': -T
 'right': RAOEUT
-'place,"': PHRAEUS KW-BG KR-GS
+'place,"': PHRAEUS/KW-BG/KR-GS
 'and': SKP
 'to': TO
 'this': TH
 'it': T
 'will': HR
-'come.': KOPL TP-PL
+'come.': KOPL/TP-PL
 'Eternity': KPA/AOE/TERPBT
 'is': S
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'much': PHUFP
 'longer': HRORPBG
 'indeed': TPHAOEPBD
 'than': THAPB
 'this': TH
-'story.': STOER TP-PL
+'story.': STOER/TP-PL

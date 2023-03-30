@@ -6,19 +6,19 @@ Proverbial phrases starting with A
 'is': S
 'better': PWOERT
 'than': THAPB
-'none.': TPHOPB TP-PL
+'none.': TPHOPB/TP-PL
 'A': KPA/AEU
 'bad': PWAD
 'penny': PEPB/TPHEU
 'always': AULS
 'turns': TURPBS
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'A': KPA/AEU
 'bad': PWAD
 'workman': WORBG/PHAPB
 'blames': PWHRAEUPLS
 'his': HEUS
-'tools.': TAOLS TP-PL
+'tools.': TAOLS/TP-PL
 'A': KPA/AEU
 'bird': PWEURD
 'in': TPH
@@ -29,14 +29,14 @@ Proverbial phrases starting with A
 'two': TWO
 'in': TPH
 'the': -T
-'bush.': PWURB TP-PL
+'bush.': PWURB/TP-PL
 'A': KPA/AEU
 'cat': KAT
 'may': PHAE
 'look': HRAOBG
 'at': AT
 'a': AEU
-'king.': KEUPBG TP-PL
+'king.': KEUPBG/TP-PL
 'A': KPA/AEU
 'chain': KHAEUPB
 'is': S
@@ -46,14 +46,14 @@ Proverbial phrases starting with A
 'as': AS
 'its': EUTS
 'weakest': WAEBG/EFT
-'link.': HR*EUPBG TP-PL
+'link.': HR*EUPBG/TP-PL
 'A': KPA/AEU
 'dog': TKOG
 'is': S
 'a': AEU
 'man's': PHAPB/AES
 'best': PWEFT
-'friend.': TPREPBD TP-PL
+'friend.': TPREPBD/TP-PL
 'A': KPA/AEU
 'fool': TPAOL
 'and': SKP
@@ -61,7 +61,7 @@ Proverbial phrases starting with A
 'money': PHUPB
 'are': R
 'soon': SAOPB
-'parted.': PARTD TP-PL
+'parted.': PARTD/TP-PL
 'A': KPA/AEU
 'friend': TPREPBD
 'in': TPH
@@ -69,7 +69,7 @@ Proverbial phrases starting with A
 'is': S
 'a': AEU
 'friend': TPREPBD
-'indeed.': TPHAOEPBD TP-PL
+'indeed.': TPHAOEPBD/TP-PL
 'A': KPA/AEU
 'journey': SKWRURPB
 'of': -F
@@ -80,20 +80,20 @@ Proverbial phrases starting with A
 'with': W
 'a': AEU
 'single': SEUPBLG
-'step.': STEP TP-PL
+'step.': STEP/TP-PL
 'A': KPA/AEU
 'little': HREUL
 'learning': HRERPBG
 'is': S
 'a': AEU
 'dangerous': TKAEUPBLGS
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'A': KPA/AEU
 'leopard': HREP/ARD
 'cannot': SK-PBT
 'change': KHAEUPBG
 'its': EUTS
-'spots.': SPOTS TP-PL
+'spots.': SPOTS/TP-PL
 'A': KPA/AEU
 'mill': PHEUL
 'cannot': SK-PBT
@@ -103,7 +103,7 @@ Proverbial phrases starting with A
 'water': WAUR
 'that': THA
 'is': S
-'past.': PAFT TP-PL
+'past.': PAFT/TP-PL
 'A': KPA/AEU
 'miss': PHEUS
 'is': S
@@ -111,82 +111,82 @@ Proverbial phrases starting with A
 'good': TKPWAOD
 'as': AS
 'a': AEU
-'mile.': PHAOEUL TP-PL
+'mile.': PHAOEUL/TP-PL
 'A': KPA/AEU
 'new': TPHU
 'language': HRAPBLG
 'is': S
 'a': AEU
 'new': TPHU
-'life.': HRAOEUF TP-PL
+'life.': HRAOEUF/TP-PL
 'A': KPA/AEU
 'penny': PEPB/TPHEU
 'saved': SAFD
 'is': S
 'a': AEU
 'penny': PEPB/TPHEU
-'earned.': ERPBD TP-PL
+'earned.': ERPBD/TP-PL
 'A': KPA/AEU
 'picture': P*EUFP
 'is': S
 'worth': WO*RT
 'a': AEU
 'thousand': THOUD
-'words.': WORDZ TP-PL
+'words.': WORDZ/TP-PL
 'A': KPA/AEU
 'rising': RAOEUFG
 'tide': TAOEUD
 'lifts': HREUFTS
 'all': AUL
-'boats.': PWOETS TP-PL
+'boats.': PWOETS/TP-PL
 'A': KPA/AEU
 'rolling': ROLG
 'stone': STOEPB
 'gathers': TKPWAERS
 'no': TPHO
-'moss.': PHOS TP-PL
+'moss.': PHOS/TP-PL
 'A': KPA/AEU
 'stitch': STEUFP
 'in': TPH
 'time': TAOEUPL
 'saves': SAFS
-'nine.': TPHAOEUPB TP-PL
+'nine.': TPHAOEUPB/TP-PL
 'A': KPA/AEU
 'watched': WAFPD
 'man': PHAPB
 'never': TPHEFR
-'plays.': PHRAEUZ TP-PL
+'plays.': PHRAEUZ/TP-PL
 'A': KPA/AEU
 'watched': WAFPD
 'pot': POT
 'never': TPHEFR
-'boils.': PWOEULS TP-PL
+'boils.': PWOEULS/TP-PL
 'Absence': KPA/AB/SEPBS
 'makes': PHAEUBGS
 'the': -T
 'heart': HART
 'grow': TKPWROE
-'fonder.': TPOPB/TKER TP-PL
+'fonder.': TPOPB/TKER/TP-PL
 'Absolute': KPA/SHRAOUT
 'power': POUR
 'corrupts': KRUPTS
-'absolutely.': SHRAOULT TP-PL
+'absolutely.': SHRAOULT/TP-PL
 'Accidents': KPA/STKEPBTS
 'will': HR
 'happen': HAP
 'in': TPH
 'the': -T
-'best-regulated': PWEFT H-PB RAELGTD
-'families.': TPAEPLS TP-PL
+'best-regulated': PWEFT/H-PB/RAELGTD
+'families.': TPAEPLS/TP-PL
 'Actions': KPA/-BGSZ
 'speak': SPAOEBG
 'louder': HROURD
 'than': THAPB
-'words.': WORDZ TP-PL
+'words.': WORDZ/TP-PL
 'Adversity': KPA/AD/SRERS/TEU
 'makes': PHAEUBGS
 'strange': STRAEUPBG
-'bedfellows.': PWED/TPEL/HROE/-S TP-PL
+'bedfellows.': PWED/TPEL/HROE/-S/TP-PL
 'All': KPA/AUL
 'good': TKPWAOD
 'things': THEUPBGS
@@ -194,7 +194,7 @@ Proverbial phrases starting with A
 'to': TO
 'he': HE
 'who': WHO
-'waits.': WAEUT/-S TP-PL
+'waits.': WAEUT/-S/TP-PL
 'All': KPA/AUL
 'good': TKPWAOD
 'things': THEUPBGS
@@ -202,11 +202,11 @@ Proverbial phrases starting with A
 'come': KOPL
 'to': TO
 'an': APB
-'end.': EPBD TP-PL
+'end.': EPBD/TP-PL
 'All': KPA/AUL
 'hands': HAPBDZ
 'on': OPB
-'deck.': TKEBG TP-PL
+'deck.': TKEBG/TP-PL
 'All': KPA/AUL
 'is': S
 'grist': TKPWR*EUS
@@ -214,35 +214,35 @@ Proverbial phrases starting with A
 'comes': KOPLS
 'to': TO
 'the': -T
-'mill.': PHEUL TP-PL
+'mill.': PHEUL/TP-PL
 'All': KPA/AUL
 'roads': RAODZ
 'lead': HRAED
 'to': TO
-'Rome.': RO*EPL TP-PL
+'Rome.': RO*EPL/TP-PL
 'All': KPA/AUL
 'that': THA
 'glitters': TKPWHREUT/ERS
 'is': S
 'not': TPHOT
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'All': KPA/AUL
 'the': -T
 'world': WORLD
 'loves': HRUFS
 'a': AEU
-'lover.': HRUFR TP-PL
+'lover.': HRUFR/TP-PL
 'All': KPA/AUL
 'things': THEUPBGS
 'come': KOPL
 'to': TO
 'those': THOZ
 'who': WHO
-'wait.': WAEUT TP-PL
+'wait.': WAEUT/TP-PL
 'All': KPA/AUL
 'things': THEUPBGS
 'must': PHUFT
-'pass.': PAS TP-PL
+'pass.': PAS/TP-PL
 'All': KPA/AUL
 'work': WORBG
 'and': SKP
@@ -252,19 +252,19 @@ Proverbial phrases starting with A
 'Jack': SKWRA*BG
 'a': AEU
 'dull': TKUL
-'boy.': PWOEU TP-PL
+'boy.': PWOEU/TP-PL
 'All': KPA/AUL
 'you': U
 'need': TPHAOED
 'is': S
-'love.': HRUF TP-PL
+'love.': HRUF/TP-PL
 'All': KPA/AUL
 'is': S
 'fair': TPAEUR
 'in': TPH
 'love': HRUF
 'and': SKP
-'war.': WAR TP-PL
+'war.': WAR/TP-PL
 'All': KPA/AUL
 'is': S
 'for': TPOR
@@ -276,13 +276,13 @@ Proverbial phrases starting with A
 'of': -F
 'all': AUL
 'possible': POB
-'worlds.': WORLDZ TP-PL
+'worlds.': WORLDZ/TP-PL
 'All': KPA/AUL
 'is': S
 'well': WEL
 'that': THA
 'ends': EPBDZ
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'An': KPA/APB
 'apple': A*EPL
 'a': AEU
@@ -290,13 +290,13 @@ Proverbial phrases starting with A
 'keeps': KAOEPS
 'the': -T
 'doctor': TKR
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'An': KPA/APB
 'army': AERPL
 'marches': PHAFRPB/-S
 'on': OPB
 'its': EUTS
-'stomach.': STUPL TP-PL
+'stomach.': STUPL/TP-PL
 'An': KPA/APB
 'eye': AOEU
 'for': TPOR
@@ -306,17 +306,17 @@ Proverbial phrases starting with A
 'the': -T
 'whole': WHOEL
 'world': WORLD
-'blind.': PWHRAOEUPBD TP-PL
+'blind.': PWHRAOEUPBD/TP-PL
 'An': KPA/APB
-'Englishman's': EPBG/HREURB/PHAPB AES
+'Englishman's': EPBG/HREURB/PHAPB/AES
 'home': HOEPL
 'is': S
 'his': HEUS
-'castle.': KAFL TP-PL
+'castle.': KAFL/TP-PL
 'Another': KPA/TPHOER
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'another': TPHOER
-'dollar.': TKHRAR TP-PL
+'dollar.': TKHRAR/TP-PL
 'An': KPA/APB
 'ounce': OUPBS
 'of': -F
@@ -326,41 +326,41 @@ Proverbial phrases starting with A
 'a': AEU
 'pound': POUPBD
 'of': -F
-'cure.': KAOUR TP-PL
+'cure.': KAOUR/TP-PL
 'Any': KPA/TPHEU
 'port': PORT
 'in': TPH
 'a': AEU
-'storm.': STORPL TP-PL
+'storm.': STORPL/TP-PL
 'Any': KPA/TPHEU
 'publicity': PHR*EUFT
 'is': S
 'good': TKPWAOD
-'publicity.': PHR*EUFT TP-PL
+'publicity.': PHR*EUFT/TP-PL
 'April': PREUL
 'showers': SHOURS
 'bring': PWREU
 'forth': TPO*RT
 'May': PHA*EU
-'flowers.': TPHRO*URS TP-PL
+'flowers.': TPHRO*URS/TP-PL
 'As': KPA/AS
 'you': U
 'make': PHAEUBG
 'your': KWROUR
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'so': SO
 'you': U
 'must': PHUFT
 'lie': HRAOEU
 'upon': POPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'As': KPA/AS
 'you': U
 'sow': SOE
 'so': SO
 'shall': SHAL
 'you': U
-'reap.': RAOEP TP-PL
+'reap.': RAOEP/TP-PL
 'Ask': KPA/SK
 'a': AEU
 'silly': SHREU
@@ -371,7 +371,7 @@ Proverbial phrases starting with A
 'get': TKPWET
 'a': AEU
 'silly': SHREU
-'answer.': AEPBS TP-PL
+'answer.': AEPBS/TP-PL
 'Ask': KPA/SK
 'my': PHEU
 'companion': KPAPB/KWROPB
@@ -379,18 +379,18 @@ Proverbial phrases starting with A
 'I': EU
 'be': -B
 'a': AEU
-'thief.': THAOEF TP-PL
+'thief.': THAOEF/TP-PL
 'Ask': KPA/SK
 'no': TPHO
 'questions': KWES
 'and': SKP
 'hear': HAER
 'no': TPHO
-'lies.': HRAO*EUS TP-PL
+'lies.': HRAO*EUS/TP-PL
 'Attack': KPA/A/TABG
 'is': S
 'the': -T
 'best': PWEFT
 'form': TPORPL
 'of': -F
-'defense.': TKEFS TP-PL
+'defense.': TKEFS/TP-PL

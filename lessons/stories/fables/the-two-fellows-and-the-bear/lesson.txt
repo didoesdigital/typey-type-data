@@ -7,14 +7,14 @@ The Two Fellows and the Bear
 'together': TOGT
 'through': THRU
 'a': AEU
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'when': WHEPB
 'a': AEU
 'Bear': KPA/PWAER
 'rushed': RURBD
 'out': OUT
 'upon': POPB
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'One': KPA/WUPB
 'of': -F
 'the': -T
@@ -23,7 +23,7 @@ The Two Fellows and the Bear
 'to': TO
 'be': -B
 'in': TPH
-'front,': TPROPBT KW-BG
+'front,': TPROPBT/KW-BG
 'and': SKP
 'he': HE
 'seized': SAOEZ/-D
@@ -33,50 +33,50 @@ The Two Fellows and the Bear
 'branch': PWRAFRPB
 'of': -F
 'a': AEU
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'hid': HEUD
 'himself': HEUPLS
 'among': PHOPBG
 'the': -T
-'leaves.': HREFS TP-PL
+'leaves.': HREFS/TP-PL
 'The': KPA/-T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'seeing': SAOEG
 'no': TPHO
 'help': HEP
 'for': TPOR
-'it,': T KW-BG
+'it,': T/KW-BG
 'threw': THRAOU
 'himself': HEUPLS
 'flat': TPHRAT
 'down': TKOUPB
 'upon': POPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'with': W
 'his': HEUS
 'face': TPAEUS
 'in': TPH
 'the': -T
-'dust.': TKUFT TP-PL
+'dust.': TKUFT/TP-PL
 'The': KPA/-T
-'Bear,': KPA/PWAER KW-BG
+'Bear,': KPA/PWAER/KW-BG
 'coming': KO*G
 'up': UP
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'put': PUT
 'his': HEUS
 'muzzle': PHUZ/*L
 'close': KHROES
 'to': TO
 'his': HEUS
-'ear,': AOER KW-BG
+'ear,': AOER/KW-BG
 'and': SKP
 'sniffed': STPHEUFD
 'and': SKP
-'sniffed.': STPHEUFD TP-PL
+'sniffed.': STPHEUFD/TP-PL
 'But': KPA/PWUT
 'at': AT
 'last': HRAFT
@@ -89,14 +89,14 @@ The Two Fellows and the Bear
 'head': HED
 'and': SKP
 'slouched': SHROUFPD
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'for': TPOR
 'bears': PWAERS
 'will': HR
 'not': TPHOT
 'touch': TUFP
 'dead': TKED
-'meat.': PHAET TP-PL
+'meat.': PHAET/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'fellow': TP*EL
@@ -107,11 +107,11 @@ The Two Fellows and the Bear
 'down': TKOUPB
 'to': TO
 'his': HEUS
-'comrade,': KOPL/RAD KW-BG
-'and,': SKP KW-BG
-'laughing,': HRAFG KW-BG
+'comrade,': KOPL/RAD/KW-BG
+'and,': SKP/KW-BG
+'laughing,': HRAFG/KW-BG
 'said': SED
-'"What': KR-GS KPA/WHA
+'"What': KR-GS/KPA/WHA
 'was': WAS
 'it': T
 'that': THA
@@ -119,14 +119,14 @@ The Two Fellows and the Bear
 'Bruin': PW*P/R*/*U/*EU/TPH*
 'whispered': WHEUS/PERD
 'to': TO
-'you?"': U H-F KR-GS
-'"He': KR-GS KPA/HE
+'you?"': U/H-F/KR-GS
+'"He': KR-GS/KPA/HE
 'told': TOLD
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'said': SED
 'the': -T
-'other,': OER KW-BG
-'"Never': KR-GS KPA/TPHEFR
+'other,': OER/KW-BG
+'"Never': KR-GS/KPA/TPHEFR
 'trust': TRUFT
 'a': AEU
 'friend': TPREPBD
@@ -135,4 +135,4 @@ The Two Fellows and the Bear
 'you': U
 'at': AT
 'a': AEU
-'pinch."': PEUFRPB TP-PL KR-GS
+'pinch."': PEUFRPB/TP-PL/KR-GS

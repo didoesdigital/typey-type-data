@@ -12,7 +12,7 @@ The Hart in the Ox-Stall
 'refuge': REF/AOUPBLG
 'into': TPHAO
 'an': APB
-'ox-stall,': O*BGS H-PB STAUL KW-BG
+'ox-stall,': O*BGS/H-PB/STAUL/KW-BG
 'and': SKP
 'buried': PWUR/EUD
 'itself': T/SEFL
@@ -20,7 +20,7 @@ The Hart in the Ox-Stall
 'a': AEU
 'truss': TRUS
 'of': -F
-'hay,': HA*EU KW-BG
+'hay,': HA*EU/KW-BG
 'leaving': HREFG
 'nothing': TPHOG
 'to': TO
@@ -31,7 +31,7 @@ The Hart in the Ox-Stall
 'tips': TEUPS
 'of': -F
 'his': HEUS
-'horns.': HORPBS TP-PL
+'horns.': HORPBS/TP-PL
 'Soon': KPA/SAOPB
 'after': AF
 'the': -T
@@ -46,44 +46,44 @@ The Hart in the Ox-Stall
 'had': H
 'seen': SAOEPB
 'the': -T
-'Hart.': HA*RT TP-PL
+'Hart.': HA*RT/TP-PL
 'The': KPA/-T
 'stable': STABL
-'boys,': PWOEUS KW-BG
+'boys,': PWOEUS/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
 'resting': REFT/-G
 'after': AF
 'their': THAEUR
-'dinner,': TKEURPB KW-BG
+'dinner,': TKEURPB/KW-BG
 'looked': HRAOBGD
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'but': PWUT
 'could': KO
 'see': SAOE
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'and': SKP
 'the': -T
 'Hunters': KPA/HURPBTS
 'went': WEPBT
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Shortly': KPA/SHORLT
 'afterwards': A*FRDZ
 'the': -T
 'master': PHAFRT
 'came': KAEUPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'looking': HRAOG
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'saw': SAU
 'that': THA
 'something': S-G
 'unusual': TPHAOURB
 'had': H
 'taken': TAEPB
-'place.': PHRAEUS TP-PL
+'place.': PHRAEUS/TP-PL
 'He': KPA/HE
 'pointed': POEUPBTD
 'to': TO
@@ -92,8 +92,8 @@ The Hart in the Ox-Stall
 'of': -F
 'hay': HA*EU
 'and': SKP
-'said:': SED STPH-FPLT
-'"What': KR-GS KPA/WHA
+'said:': SED/STPH-FPLT
+'"What': KR-GS/KPA/WHA
 'are': R
 'those': THOZ
 'two': TWO
@@ -103,7 +103,7 @@ The Hart in the Ox-Stall
 'out': OUT
 'of': -F
 'the': -T
-'hay?"': HA*EU H-F KR-GS
+'hay?"': HA*EU/H-F/KR-GS
 'And': AFPBD
 'when': WHEPB
 'the': -T
@@ -115,14 +115,14 @@ The Hart in the Ox-Stall
 'they': THE
 'discovered': SKOFD
 'the': -T
-'Hart,': HA*RT KW-BG
+'Hart,': HA*RT/KW-BG
 'and': SKP
 'soon': SAOPB
 'made': PHAED
 'an': APB
 'end': EPBD
 'of': -F
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'thus': THUS
 'learnt': HRERPBT
@@ -130,5 +130,5 @@ The Hart in the Ox-Stall
 'Nothing': KPA/TPHOG
 'escapes': ES/KAEUPS
 'the': -T
-'master's': PHAFRT AES
-'eye.': AOEU TP-PL
+'master's': PHAFRT/AES
+'eye.': AOEU/TP-PL

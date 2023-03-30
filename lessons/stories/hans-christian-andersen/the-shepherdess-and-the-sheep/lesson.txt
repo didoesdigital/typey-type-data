@@ -11,7 +11,7 @@ The Shepherdess and the Sheep
 'quite': KWAOEUT
 'black': PWHRABG
 'with': W
-'age,': AEUPBLG KW-BG
+'age,': AEUPBLG/KW-BG
 'and': SKP
 'ornamented': ORPB/*PLT/-D
 'with': W
@@ -19,8 +19,8 @@ The Shepherdess and the Sheep
 'foliage': TPOEL/APBLG
 'and': SKP
 'curious': KAOURS
-'figures?': TPEUGS H-F
-'Well,': KPA/WEL KW-BG
+'figures?': TPEUGS/H-F
+'Well,': KPA/WEL/KW-BG
 'just': SKWRUFT
 'such': SUFP
 'a': AEU
@@ -28,7 +28,7 @@ The Shepherdess and the Sheep
 'stood': STAOD
 'in': TPH
 'a': AEU
-'parlor,': PAR/HROR KW-BG
+'parlor,': PAR/HROR/KW-BG
 'and': SKP
 'had': H
 'been': PW-PB
@@ -41,7 +41,7 @@ The Shepherdess and the Sheep
 'legacy': HREG/SEU
 'by': PWEU
 'the': -T
-'great-grandmother.': TKPWRAET H-PB TKPWR-PL TP-PL
+'great-grandmother.': TKPWRAET/H-PB/TKPWR-PL/TP-PL
 'It': KPA/T
 'was': WAS
 'covered': KOFRD
@@ -53,7 +53,7 @@ The Shepherdess and the Sheep
 'carved': KAFRBD
 'roses': ROES/-S
 'and': SKP
-'tulips;': TAOU/HREUPS STPH*FPLT
+'tulips;': TAOU/HREUPS/STPH*FPLT
 'the': -T
 'most': PHOFT
 'curious': KAOURS
@@ -61,17 +61,17 @@ The Shepherdess and the Sheep
 'were': WR
 'drawn': TKRAUPB
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
 'them': THEPL
 'peeped': PAOEPD
 'little': HREUL
-'stags'': STAG/-S AE
-'heads,': HEDZ KW-BG
+'stags'': STAG/-S/AE
+'heads,': HEDZ/KW-BG
 'with': W
-'antlers.': APBT/HRER/-S TP-PL
+'antlers.': APBT/HRER/-S/TP-PL
 'In': KPA/TPH
 'the': -T
 'middle': PH*EULD
@@ -90,31 +90,31 @@ The Shepherdess and the Sheep
 'ridiculous': REULGS
 'to': TO
 'look': HRAOBG
-'at.': AT TP-PL
+'at.': AT/TP-PL
 'He': KPA/HE
 'grinned': TKPWREUPB/-D
 'at': AT
-'you,': U KW-BG
+'you,': U/KW-BG
 'for': TPOR
 'no': TPHO
 'one': WUPB
 'could': KO
 'call': KAUL
 'it': T
-'laughing.': HRAFG TP-PL
+'laughing.': HRAFG/TP-PL
 'He': KPA/HE
 'had': H
-'goat's': TKPWO*ET AES
-'legs,': HREGS KW-BG
+'goat's': TKPWO*ET/AES
+'legs,': HREGS/KW-BG
 'little': HREUL
 'horns': HORPBS
 'on': OPB
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'a': AEU
 'long': HROPBG
-'beard;': PWAERD STPH*FPLT
+'beard;': PWAERD/STPH*FPLT
 'the': -T
 'children': KHEURPB
 'in': TPH
@@ -122,10 +122,10 @@ The Shepherdess and the Sheep
 'room': RAOPL
 'always': AULS
 'called': KAULD
-'him,': HEUPL KW-BG
-'"Major': KR-GS KPA/PHAEUPBLG
-'general-field-sergeant-commander': SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER
-'Billy-goat's-legs."': PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL KR-GS
+'him,': HEUPL/KW-BG
+'"Major': KR-GS/KPA/PHAEUPBLG
+'general-field-sergeant-commander': SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
+'Billy-goat's-legs."': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/TP-PL/KR-GS
 'It': KPA/T
 'was': WAS
 'certainly': SERPBL
@@ -134,7 +134,7 @@ The Shepherdess and the Sheep
 'difficult': TKEUFL
 'name': TPHAEUPL
 'to': TO
-'pronounce,': PROUPBS KW-BG
+'pronounce,': PROUPBS/KW-BG
 'and': SKP
 'there': THR
 'are': R
@@ -145,7 +145,7 @@ The Shepherdess and the Sheep
 'receive': SAOEF
 'such': SUFP
 'a': AEU
-'title,': TAOEULT KW-BG
+'title,': TAOEULT/KW-BG
 'but': PWUT
 'then': THEPB
 'it': T
@@ -158,11 +158,11 @@ The Shepherdess and the Sheep
 'be': -B
 'carved': KAFRBD
 'at': AT
-'all;': AUL STPH*FPLT
+'all;': AUL/STPH*FPLT
 'yet': KWRET
 'there': THR
 'he': HE
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'always': AULS
 'looking': HRAOG
 'at': AT
@@ -170,7 +170,7 @@ The Shepherdess and the Sheep
 'table': TAEUBL
 'under': TPH-PB
 'the': -T
-'looking-glass,': HRAOG H-PB TKPWHRAS KW-BG
+'looking-glass,': HRAOG/H-PB/TKPWHRAS/KW-BG
 'where': W-R
 'stood': STAOD
 'a': AEU
@@ -180,11 +180,11 @@ The Shepherdess and the Sheep
 'shepherdess': SHEP/ERD/*ES
 'made': PHAED
 'of': -F
-'china.': KHAOEUPB/A TP-PL
+'china.': KHAOEUPB/A/TP-PL
 'Her': KPA/HER
 'shoes': SHAOUS
 'were': WR
-'gilt,': TKPW*EULT KW-BG
+'gilt,': TKPW*EULT/KW-BG
 'and': SKP
 'her': HER
 'dress': TKRES
@@ -194,25 +194,25 @@ The Shepherdess and the Sheep
 'rose': ROEZ
 'or': OR
 'an': APB
-'ornament.': ORPB/*PLT TP-PL
+'ornament.': ORPB/*PLT/TP-PL
 'She': KPA/SHE
 'wore': WOR
 'a': AEU
-'hat,': HAT KW-BG
+'hat,': HAT/KW-BG
 'and': SKP
 'carried': KAERD
 'a': AEU
-'crook,': KRAOBG KW-BG
+'crook,': KRAOBG/KW-BG
 'that': THA
 'were': WR
 'both': PWO*T
-'gilded,': TKPWEULD/-D KW-BG
+'gilded,': TKPWEULD/-D/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'very': SRE
 'bright': PWRAOEUT
 'and': SKP
-'pretty.': PREUT TP-PL
+'pretty.': PREUT/TP-PL
 'Close': KPA/KHROES
 'by': PWEU
 'her': HER
@@ -220,19 +220,19 @@ The Shepherdess and the Sheep
 'stood': STAOD
 'a': AEU
 'little': HREUL
-'chimney-sweep,': KHEUPL/TPHEU H-PB SWAOEP KW-BG
+'chimney-sweep,': KHEUPL/TPHEU/H-PB/SWAOEP/KW-BG
 'as': AS
 'black': PWHRABG
 'as': AS
-'coal,': KOEL KW-BG
+'coal,': KOEL/KW-BG
 'and': SKP
 'also': HR-S
 'made': PHAED
 'of': -F
-'china.': KHAOEUPB/A TP-PL
+'china.': KHAOEUPB/A/TP-PL
 'He': KPA/HE
-'was,': WAS KW-BG
-'however,': HOUF KW-BG
+'was,': WAS/KW-BG
+'however,': HOUF/KW-BG
 'quite': KWAOEUT
 'as': AS
 'clean': KHRAOEPB
@@ -242,13 +242,13 @@ The Shepherdess and the Sheep
 'any': TPHEU
 'other': OER
 'china': KHAOEUPB/A
-'figure;': TPEUG STPH*FPLT
+'figure;': TPEUG/STPH*FPLT
 'he': HE
 'only': OEPBL
 'represented': REPD
 'a': AEU
 'black': PWHRABG
-'chimney-sweep,': KHEUPL/TPHEU H-PB SWAOEP KW-BG
+'chimney-sweep,': KHEUPL/TPHEU/H-PB/SWAOEP/KW-BG
 'and': SKP
 'the': -T
 'china': KHAOEUPB/A
@@ -261,21 +261,21 @@ The Shepherdess and the Sheep
 'made': PHAED
 'him': HEUPL
 'a': AEU
-'prince,': PREUPBS KW-BG
+'prince,': PREUPBS/KW-BG
 'had': H
 'they': THE
 'felt': TPELT
 'inclined': EUPB/KHRAOEUPBD
 'to': TO
 'do': TKO
-'so.': SO TP-PL
+'so.': SO/TP-PL
 'He': KPA/HE
 'stood': STAOD
 'holding': HOELGD
 'his': HEUS
 'ladder': HRAERD
 'quite': KWAOEUT
-'handily,': HAPBD/HREU KW-BG
+'handily,': HAPBD/HREU/KW-BG
 'and': SKP
 'his': HEUS
 'face': TPAEUS
@@ -286,13 +286,13 @@ The Shepherdess and the Sheep
 'rosy': ROEZ/SEU
 'as': AS
 'a': AEU
-'girl's;': TKPWEURL AE S* STPH*FPLT
-'indeed,': TPHAOEPBD KW-BG
+'girl's;': TKPWEURL/AE/S*/STPH*FPLT
+'indeed,': TPHAOEPBD/KW-BG
 'that': THA
 'was': WAS
 'rather': RAER
 'a': AEU
-'mistake,': SPHAEUBG KW-BG
+'mistake,': SPHAEUBG/KW-BG
 'it': T
 'should': SHO
 'have': SR
@@ -301,7 +301,7 @@ The Shepherdess and the Sheep
 'black': PWHRABG
 'marks': PHARBGS
 'on': OPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'He': KPA/HE
 'and': SKP
 'the': -T
@@ -310,26 +310,26 @@ The Shepherdess and the Sheep
 'been': PW-PB
 'placed': PHRAEUFD
 'close': KHROES
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'side': SAOEUD
 'by': PWEU
-'side;': SAOEUD STPH*FPLT
-'and,': SKP KW-BG
+'side;': SAOEUD/STPH*FPLT
+'and,': SKP/KW-BG
 'being': -BG
 'so': SO
-'placed,': PHRAEUFD KW-BG
+'placed,': PHRAEUFD/KW-BG
 'they': THE
 'became': PWAEUPL
 'engaged': EPB/TKPWAEUPBLGD
 'to': TO
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
 'very': SRE
 'well': WEL
-'suited,': SAOUTD KW-BG
+'suited,': SAOUTD/KW-BG
 'being': -BG
 'both': PWO*T
 'made': PHAED
@@ -338,39 +338,39 @@ The Shepherdess and the Sheep
 'same': SAEUPL
 'sort': SORT
 'of': -F
-'china,': KHAOEUPB/A KW-BG
+'china,': KHAOEUPB/A/KW-BG
 'and': SKP
 'being': -BG
 'equally': KWAEL
-'fragile.': TPRAPBLG/*L TP-PL
+'fragile.': TPRAPBLG/*L/TP-PL
 'Close': KPA/KHROES
 'to': TO
 'them': THEPL
 'stood': STAOD
 'another': TPHOER
-'figure,': TPEUG KW-BG
+'figure,': TPEUG/KW-BG
 'three': THRAOE
 'times': TAOEUPLS
 'as': AS
 'large': HRARPBLG
 'as': AS
 'they': THE
-'were,': WR KW-BG
+'were,': WR/KW-BG
 'and': SKP
 'also': HR-S
 'made': PHAED
 'of': -F
-'china.': KHAOEUPB/A TP-PL
+'china.': KHAOEUPB/A/TP-PL
 'He': KPA/HE
 'was': WAS
 'an': APB
 'old': OLD
-'Chinaman,': KWHRAOEUPB/PHA*PB KW-BG
+'Chinaman,': KWHRAOEUPB/PHA*PB/KW-BG
 'who': WHO
 'could': KO
 'nod': TPHOD
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'used': AOUFD
 'to': TO
@@ -382,24 +382,24 @@ The Shepherdess and the Sheep
 'grandfather': TKPWR-F
 'of': -F
 'the': -T
-'shepherdess,': SHEP/ERD/*ES KW-BG
+'shepherdess,': SHEP/ERD/*ES/KW-BG
 'although': HR*T
 'he': HE
 'could': KO
 'not': TPHOT
 'prove': PROF
-'it.': T TP-PL
+'it.': T/TP-PL
 'He': KPA/HE
 'however': HOUF
 'assumed': A/SAOUPLD
 'authority': THORT
 'over': OEFR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'therefore': TH-FR
 'when': WHEPB
-'"Major-general-field-sergeant-commander': KR-GS KPA/PHAEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER
-'Billy-goat's-legs"': PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS KR-GS
+'"Major-general-field-sergeant-commander': KR-GS/KPA/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
+'Billy-goat's-legs"': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/KR-GS
 'asked': SK-D
 'for': TPOR
 'the': -T
@@ -408,7 +408,7 @@ The Shepherdess and the Sheep
 'to': TO
 'be': -B
 'his': HEUS
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'he': HE
 'nodded': TPHOD/-D
 'his': HEUS
@@ -417,26 +417,26 @@ The Shepherdess and the Sheep
 'show': SHOE
 'that': THA
 'he': HE
-'consented.': KEFPBT/-D TP-PL
-'"You': KR-GS KPA/U
+'consented.': KEFPBT/-D/TP-PL
+'"You': KR-GS/KPA/U
 'will': HR
 'have': SR
 'a': AEU
-'husband,"': HUS KW-BG KR-GS
+'husband,"': HUS/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
 'Chinaman': KWHRAOEUPB/PHA*PB
 'to': TO
-'her,': HER KW-BG
-'"who': KR-GS WHO
+'her,': HER/KW-BG
+'"who': KR-GS/WHO
 'I': EU
 'really': R-L
 'believe': PWHREF
 'is': S
 'made': PHAED
 'of': -F
-'mahogany.': PHA/HOG/TPHEU TP-PL
+'mahogany.': PHA/HOG/TPHEU/TP-PL
 'He': KPA/HE
 'will': HR
 'make': PHAEUBG
@@ -444,8 +444,8 @@ The Shepherdess and the Sheep
 'a': AEU
 'lady': HRA*ED
 'of': -F
-'Major-general-field-sergeant-commander': KPA/PHAEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER
-'Billy-goat's-legs.': PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL
+'Major-general-field-sergeant-commander': KPA/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
+'Billy-goat's-legs.': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/TP-PL
 'He': KPA/HE
 'has': HAS
 'the': -T
@@ -454,7 +454,7 @@ The Shepherdess and the Sheep
 'full': TPUL
 'of': -F
 'silver': SEUL/SRER
-'plate,': PHRAET KW-BG
+'plate,': PHRAET/KW-BG
 'which': WEU
 'he': HE
 'keeps': KAOEPS
@@ -462,19 +462,19 @@ The Shepherdess and the Sheep
 'up': UP
 'in': TPH
 'secret': SKRET
-'drawers."': TKRAURS TP-PL KR-GS
-'"I': KR-GS EU
+'drawers."': TKRAURS/TP-PL/KR-GS
+'"I': KR-GS/EU
 'won't': WOEPBT
 'go': TKPW
 'into': TPHAO
 'the': -T
 'dark': TKARBG
-'cupboard,"': KUP/PWAORD KW-BG KR-GS
+'cupboard,"': KUP/PWAORD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
-'shepherdess.': SHEP/ERD/*ES TP-PL
-'"I': KR-GS EU
+'shepherdess.': SHEP/ERD/*ES/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'heard': HAERD
 'that': THA
@@ -484,18 +484,18 @@ The Shepherdess and the Sheep
 'china': KHAOEUPB/A
 'wives': WAOEUFS
 'there': THR
-'already."': HR-R TP-PL KR-GS
-'"Then': KR-GS KPA/THEPB
+'already."': HR-R/TP-PL/KR-GS
+'"Then': KR-GS/KPA/THEPB
 'you': U
 'shall': SHAL
 'be': -B
 'the': -T
-'twelfth,"': TWEFLT KW-BG KR-GS
+'twelfth,"': TWEFLT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
-'Chinaman.': KWHRAOEUPB/PHA*PB TP-PL
-'"To-night': KR-GS KPA/TO H-PB TPHAOEUT
+'Chinaman.': KWHRAOEUPB/PHA*PB/TP-PL
+'"To-night': KR-GS/KPA/TO/H-PB/TPHAOEUT
 'as': AS
 'soon': SAOPB
 'as': AS
@@ -506,18 +506,18 @@ The Shepherdess and the Sheep
 'in': TPH
 'the': -T
 'old': OLD
-'cupboard,': KUP/PWAORD KW-BG
+'cupboard,': KUP/PWAORD/KW-BG
 'you': U
 'shall': SHAL
 'be': -B
-'married,': PHAERD KW-BG
+'married,': PHAERD/KW-BG
 'as': AS
 'true': TRAOU
 'as': AS
 'I': EU
 'am': APL
 'a': AEU
-'Chinaman;"': KWHRAOEUPB/PHA*PB STPH*FPLT KR-GS
+'Chinaman;"': KWHRAOEUPB/PHA*PB/STPH*FPLT/KR-GS
 'and': SKP
 'then': THEPB
 'he': HE
@@ -526,27 +526,27 @@ The Shepherdess and the Sheep
 'head': HED
 'and': SKP
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'little': HREUL
 'shepherdess': SHEP/ERD/*ES
-'cried,': KRAOEUD KW-BG
+'cried,': KRAOEUD/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'at': AT
 'her': HER
-'sweetheart,': SWAOET/HART KW-BG
+'sweetheart,': SWAOET/HART/KW-BG
 'the': -T
 'china': KHAOEUPB/A
-'chimney-sweep.': KHEUPL/TPHEU H-PB SWAOEP TP-PL
-'"I': KR-GS EU
+'chimney-sweep.': KHEUPL/TPHEU/H-PB/SWAOEP/TP-PL
+'"I': KR-GS/EU
 'must': PHUFT
 'entreat': SPWRAOET
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'said': SED
-'she,': SHE KW-BG
-'"to': KR-GS TO
+'she,': SHE/KW-BG
+'"to': KR-GS/TO
 'go': TKPW
 'out': OUT
 'with': W
@@ -554,26 +554,26 @@ The Shepherdess and the Sheep
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'for': TPOR
 'we': WE
 'cannot': SK-PBT
 'stay': STAEU
-'here."': HAOER TP-PL KR-GS
-'"I': KR-GS EU
+'here."': HAOER/TP-PL/KR-GS
+'"I': KR-GS/EU
 'will': HR
 'do': TKO
 'whatever': WHAF
 'you': U
-'wish,"': WEURB KW-BG KR-GS
+'wish,"': WEURB/KW-BG/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
-'chimney-sweep;': KHEUPL/TPHEU H-PB SWAOEP STPH*FPLT
-'"let': KR-GS HRET
+'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
+'"let': KR-GS/HRET
 'us': US
 'go': TKPW
-'immediately:': PHAOELD STPH-FPLT
+'immediately:': PHAOELD/STPH-FPLT
 'I': EU
 'think': THEU
 'I': EU
@@ -585,8 +585,8 @@ The Shepherdess and the Sheep
 'you': U
 'with': W
 'my': PHEU
-'profession."': PREFGS TP-PL KR-GS
-'"If': KR-GS KPA/TP
+'profession."': PREFGS/TP-PL/KR-GS
+'"If': KR-GS/KPA/TP
 'we': WE
 'were': WR
 'but': PWUT
@@ -594,10 +594,10 @@ The Shepherdess and the Sheep
 'down': TKOUPB
 'from': TPR
 'the': -T
-'table!"': TAEUBL SKHRAPL KR-GS
+'table!"': TAEUBL/SKHRAPL/KR-GS
 'said': SED
-'she;': SHE STPH*FPLT
-'"I': KR-GS EU
+'she;': SHE/STPH*FPLT
+'"I': KR-GS/EU
 'shall': SHAL
 'not': TPHOT
 'be': -B
@@ -609,11 +609,11 @@ The Shepherdess and the Sheep
 'out': OUT
 'in': TPH
 'the': -T
-'world."': WORLD TP-PL KR-GS
+'world."': WORLD/TP-PL/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'comforted': K-FRTD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'showed': SHOED
 'her': HER
@@ -628,11 +628,11 @@ The Shepherdess and the Sheep
 'carved': KAFRBD
 'edge': EPBLG
 'and': SKP
-'gilt-leaf': TKPW*EULT H-PB HRAOEF
+'gilt-leaf': TKPW*EULT/H-PB/HRAOEF
 'ornaments': ORPB/-PLTS
 'of': -F
 'the': -T
-'table.': TAEUBL TP-PL
+'table.': TAEUBL/TP-PL
 'He': KPA/HE
 'brought': PWRAUT
 'his': HEUS
@@ -640,7 +640,7 @@ The Shepherdess and the Sheep
 'ladder': HRAERD
 'to': TO
 'help': HEP
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'so': SO
 'they': THE
@@ -648,7 +648,7 @@ The Shepherdess and the Sheep
 'to': TO
 'reach': RAOEFP
 'the': -T
-'floor.': TPHRAOR TP-PL
+'floor.': TPHRAOR/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'they': THE
@@ -656,7 +656,7 @@ The Shepherdess and the Sheep
 'at': AT
 'the': -T
 'old': OLD
-'cupboard,': KUP/PWAORD KW-BG
+'cupboard,': KUP/PWAORD/KW-BG
 'they': THE
 'saw': SAU
 'it': T
@@ -664,50 +664,50 @@ The Shepherdess and the Sheep
 'all': AUL
 'in': TPH
 'an': APB
-'uproar.': AUP/RAOR TP-PL
+'uproar.': AUP/RAOR/TP-PL
 'The': KPA/-T
 'carved': KAFRBD
 'stags': STAG/-S
 'pushed': PURBD
 'out': OUT
 'their': THAEUR
-'heads,': HEDZ KW-BG
+'heads,': HEDZ/KW-BG
 'raised': RA*EUFD
 'their': THAEUR
-'antlers,': APBT/HRER/-S KW-BG
+'antlers,': APBT/HRER/-S/KW-BG
 'and': SKP
 'twisted': TWEUFTD
 'their': THAEUR
-'necks.': TPHEBG/-S TP-PL
+'necks.': TPHEBG/-S/TP-PL
 'The': KPA/-T
-'major-general': PHAEUPBLG H-PB SKWREPBL
+'major-general': PHAEUPBLG/H-PB/SKWREPBL
 'sprung': SPRUPBG
 'up': UP
 'in': TPH
 'the': -T
-'air;': AEUR STPH*FPLT
+'air;': AEUR/STPH*FPLT
 'and': SKP
 'cried': KRAOEUD
 'out': OUT
 'to': TO
 'the': -T
 'old': OLD
-'Chinaman,': KWHRAOEUPB/PHA*PB KW-BG
-'"They': KR-GS KPA/THE
+'Chinaman,': KWHRAOEUPB/PHA*PB/KW-BG
+'"They': KR-GS/KPA/THE
 'are': R
 'running': R*UPBG
-'away!': WA*EU SKHRAPL
+'away!': WA*EU/SKHRAPL
 'they': THE
 'are': R
 'running': R*UPBG
-'away!"': WA*EU SKHRAPL KR-GS
+'away!"': WA*EU/SKHRAPL/KR-GS
 'The': KPA/-T
 'two': TWO
 'were': WR
 'rather': RAER
 'frightened': TPRAOEUFPBD
 'at': AT
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'so': SO
 'they': THE
 'jumped': SKWR*UPLD
@@ -716,7 +716,7 @@ The Shepherdess and the Sheep
 'drawer': TKRAUR
 'of': -F
 'the': -T
-'window-seat.': WOEUPBD H-PB SAOET TP-PL
+'window-seat.': WOEUPBD/H-PB/SAOET/TP-PL
 'Here': KPA/HAOER
 'were': WR
 'three': THRAOE
@@ -727,36 +727,36 @@ The Shepherdess and the Sheep
 'cards': KARDZ
 'not': TPHOT
 'quite': KWAOEUT
-'complete,': KPHRAOET KW-BG
+'complete,': KPHRAOET/KW-BG
 'and': SKP
 'a': AEU
-'doll's': TKOL AES
-'theatre,': THAO*ERT KW-BG
+'doll's': TKOL/AES
+'theatre,': THAO*ERT/KW-BG
 'which': WEU
 'had': H
 'been': PW-PB
 'built': PWEULT
 'up': UP
 'very': SRE
-'neatly.': TPHAO*ELT TP-PL
+'neatly.': TPHAO*ELT/TP-PL
 'A': KPA/AEU
 'comedy': KOPL/TKEU
 'was': WAS
 'being': -BG
 'performed': PORPLD
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
 'queens': HRO*ER/KWAOEPBS
 'of': -F
-'diamonds,': TKAOEUPLDZ KW-BG
-'clubs,': KHRUBS KW-BG
+'diamonds,': TKAOEUPLDZ/KW-BG
+'clubs,': KHRUBS/KW-BG
 'and': SKP
-'hearts,': HARTS KW-BG
+'hearts,': HARTS/KW-BG
 'and': SKP
-'spades,': SPAEUDZ KW-BG
+'spades,': SPAEUDZ/KW-BG
 'sat': SAT
 'in': TPH
 'the': -T
@@ -765,14 +765,14 @@ The Shepherdess and the Sheep
 'fanning': TPAPB/-G
 'themselves': TH*EPLS
 'with': W
-'tulips,': TAOU/HREUPS KW-BG
+'tulips,': TAOU/HREUPS/KW-BG
 'and': SKP
 'behind': HEUPBD
 'them': THEPL
 'stood': STAOD
 'all': AUL
 'the': -T
-'knaves,': TPHA*EUF/-S KW-BG
+'knaves,': TPHA*EUF/-S/KW-BG
 'showing': SHOEG
 'that': THA
 'they': THE
@@ -785,19 +785,19 @@ The Shepherdess and the Sheep
 'playing': PHRAEUG
 'cards': KARDZ
 'generally': SKWRERPBL
-'have.': SR TP-PL
+'have.': SR/TP-PL
 'The': KPA/-T
 'play': PHRAEU
 'was': WAS
 'about': PW
 'two': TWO
-'lovers,': HRUFRS KW-BG
+'lovers,': HRUFRS/KW-BG
 'who': WHO
 'were': WR
 'not': TPHOT
 'allowed': HRO*UD
 'to': TO
-'marry,': PHAER KW-BG
+'marry,': PHAER/KW-BG
 'and': SKP
 'the': -T
 'shepherdess': SHEP/ERD/*ES
@@ -809,33 +809,33 @@ The Shepherdess and the Sheep
 'like': HRAOEUBG
 'her': HER
 'own': OEPB
-'story.': STOER TP-PL
-'"I': KR-GS EU
+'story.': STOER/TP-PL
+'"I': KR-GS/EU
 'cannot': SK-PBT
 'bear': PWAER
-'it,"': T KW-BG KR-GS
+'it,"': T/KW-BG/KR-GS
 'said': SED
-'she,': SHE KW-BG
-'"I': KR-GS EU
+'she,': SHE/KW-BG
+'"I': KR-GS/EU
 'must': PHUFT
 'get': TKPWET
 'out': OUT
 'of': -F
 'the': -T
-'drawer;"': TKRAUR STPH*FPLT KR-GS
+'drawer;"': TKRAUR/STPH*FPLT/KR-GS
 'but': PWUT
 'when': WHEPB
 'they': THE
 'reached': RAOEFPD
 'the': -T
-'floor,': TPHRAOR KW-BG
+'floor,': TPHRAOR/KW-BG
 'and': SKP
 'cast': KAFT
 'their': THAEUR
 'eyes': AO*EUS
 'on': OPB
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'there': THR
 'was': WAS
 'the': -T
@@ -846,7 +846,7 @@ The Shepherdess and the Sheep
 'shaking': SHAEUG
 'his': HEUS
 'whole': WHOEL
-'body,': PWO*ED KW-BG
+'body,': PWO*ED/KW-BG
 'till': TEUL
 'all': AUL
 'at': AT
@@ -856,56 +856,56 @@ The Shepherdess and the Sheep
 'came': KAEUPL
 'on': OPB
 'the': -T
-'floor,': TPHRAOR KW-BG
-'"plump."': KR-GS PHRUFRP TP-PL KR-GS
-'"The': KR-GS KPA/-T
+'floor,': TPHRAOR/KW-BG
+'"plump."': KR-GS/PHRUFRP/TP-PL/KR-GS
+'"The': KR-GS/KPA/-T
 'old': OLD
 'Chinaman': KWHRAOEUPB/PHA*PB
 'is': S
-'coming,"': KO*G KW-BG KR-GS
+'coming,"': KO*G/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
 'shepherdess': SHEP/ERD/*ES
 'in': TPH
 'a': AEU
-'fright,': TPRAOEUT KW-BG
+'fright,': TPRAOEUT/KW-BG
 'and': SKP
 'down': TKOUPB
 'she': SHE
 'fell': TPEL
 'on': OPB
 'one': WUPB
-'knee.': TPHAOE TP-PL
-'"I': KR-GS EU
+'knee.': TPHAOE/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'thought': THAUT
 'of': -F
-'something,"': S-G KW-BG KR-GS
+'something,"': S-G/KW-BG/KR-GS
 'said': SED
 'the': -T
-'chimney-sweep;': KHEUPL/TPHEU H-PB SWAOEP STPH*FPLT
-'"let': KR-GS HRET
+'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
+'"let': KR-GS/HRET
 'us': US
 'get': TKPWET
 'into': TPHAO
 'the': -T
 'great': TKPWRAET
-'pot-pourri': POT H-PB xxx pourri
+'pot-pourri': POT/H-PB/xxx pourri
 'jar': SKWRAR
 'which': WEU
 'stands': STAPBDZ
 'in': TPH
 'the': -T
-'corner;': KRORPB STPH*FPLT
+'corner;': KRORPB/STPH*FPLT
 'there': THR
 'we': WE
 'can': K
 'lie': HRAOEU
 'on': OPB
-'rose-leaves': ROEZ H-PB HREFS
+'rose-leaves': ROEZ/H-PB/HREFS
 'and': SKP
-'lavender,': HRAF/TKER KW-BG
+'lavender,': HRAF/TKER/KW-BG
 'and': SKP
 'throw': THROE
 'salt': SALT
@@ -916,15 +916,15 @@ The Shepherdess and the Sheep
 'he': HE
 'comes': KOPLS
 'near': TPHAOER
-'us."': US TP-PL KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
+'us."': US/TP-PL/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
 'that': THA
 'will': HR
 'never': TPHEFR
-'do,"': TKO KW-BG KR-GS
+'do,"': TKO/KW-BG/KR-GS
 'said': SED
-'she,': SHE KW-BG
-'"because': KR-GS PWAU
+'she,': SHE/KW-BG
+'"because': KR-GS/PWAU
 'I': EU
 'know': TPHOE
 'that': THA
@@ -932,11 +932,11 @@ The Shepherdess and the Sheep
 'Chinaman': KWHRAOEUPB/PHA*PB
 'and': SKP
 'the': -T
-'pot-pourri': POT H-PB xxx pourri
+'pot-pourri': POT/H-PB/xxx pourri
 'jar': SKWRAR
 'were': WR
 'lovers': HRUFRS
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'and': SKP
 'there': THR
 'always': AULS
@@ -945,7 +945,7 @@ The Shepherdess and the Sheep
 'a': AEU
 'feeling': TPAOELG
 'of': -F
-'good-will': TKPWAOD H-PB HR
+'good-will': TKPWAOD/H-PB/HR
 'between': TWAOEPB
 'those': THOZ
 'who': WHO
@@ -954,8 +954,8 @@ The Shepherdess and the Sheep
 'so': SO
 'intimate': SPWEU/PHAT
 'as': AS
-'that.': THA TP-PL
-'No,': KPA/TPHO KW-BG
+'that.': THA/TP-PL
+'No,': KPA/TPHO/KW-BG
 'there': THR
 'is': S
 'nothing': TPHOG
@@ -969,8 +969,8 @@ The Shepherdess and the Sheep
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world."': WORLD TP-PL KR-GS
-'"Have': KR-GS KPA/SR
+'world."': WORLD/TP-PL/KR-GS
+'"Have': KR-GS/KPA/SR
 'you': U
 'really': R-L
 'courage': KORPBLG
@@ -983,11 +983,11 @@ The Shepherdess and the Sheep
 'wide': WAOEUD
 'world': WORLD
 'with': W
-'me?"': PHE H-F KR-GS
+'me?"': PHE/H-F/KR-GS
 'said': SED
 'the': -T
-'chimney-sweep;': KHEUPL/TPHEU H-PB SWAOEP STPH*FPLT
-'"have': KR-GS SR
+'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
+'"have': KR-GS/SR
 'you': U
 'thought': THAUT
 'how': HOU
@@ -1002,24 +1002,24 @@ The Shepherdess and the Sheep
 'come': KOPL
 'back': PWABG
 'here': HAOER
-'again?"': TKPWEPB H-F KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'again?"': TKPWEPB/H-F/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'I': EU
-'have,"': SR KW-BG KR-GS
+'have,"': SR/KW-BG/KR-GS
 'she': SHE
-'replied.': RE/PHRAOEUD TP-PL
+'replied.': RE/PHRAOEUD/TP-PL
 'When': KPA/WHEPB
 'the': -T
-'chimney-sweep': KHEUPL/TPHEU H-PB SWAOEP
+'chimney-sweep': KHEUPL/TPHEU/H-PB/SWAOEP
 'saw': SAU
 'that': THA
 'she': SHE
 'was': WAS
 'quite': KWAOEUT
-'firm,': TPEURPL KW-BG
+'firm,': TPEURPL/KW-BG
 'he': HE
-'said,': SED KW-BG
-'"My': KR-GS KPA/PHEU
+'said,': SED/KW-BG
+'"My': KR-GS/KPA/PHEU
 'way': WAEU
 'is': S
 'through': THRU
@@ -1028,7 +1028,7 @@ The Shepherdess and the Sheep
 'and': SKP
 'up': UP
 'the': -T
-'chimney.': KHEUPL/TPHEU TP-PL
+'chimney.': KHEUPL/TPHEU/TP-PL
 'Have': KPA/SR
 'you': U
 'courage': KORPBLG
@@ -1038,11 +1038,11 @@ The Shepherdess and the Sheep
 'me': PHE
 'through': THRU
 'the': -T
-'fire-box,': TPAOEUR H-PB PWOBGS KW-BG
+'fire-box,': TPAOEUR/H-PB/PWOBGS/KW-BG
 'and': SKP
 'the': -T
 'iron': AOEURPB
-'pipe?': PAOEUP H-F
+'pipe?': PAOEUP/H-F
 'When': KPA/WHEPB
 'we': WE
 'get': TKPWET
@@ -1056,7 +1056,7 @@ The Shepherdess and the Sheep
 'to': TO
 'manage': PHAPBG
 'very': SRE
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'We': KPA/WE
 'shall': SHAL
 'soon': SAOPB
@@ -1068,7 +1068,7 @@ The Shepherdess and the Sheep
 'one': WUPB
 'to': TO
 'reach': RAOEFP
-'us,': US KW-BG
+'us,': US/KW-BG
 'and': SKP
 'we': WE
 'shall': SHAL
@@ -1083,7 +1083,7 @@ The Shepherdess and the Sheep
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world."': WORLD TP-PL KR-GS
+'world."': WORLD/TP-PL/KR-GS
 'So': KPA/SO
 'he': HE
 'led': HRED
@@ -1093,13 +1093,13 @@ The Shepherdess and the Sheep
 'door': TKAOR
 'of': -F
 'the': -T
-'stove.': STOF TP-PL
-'"It': KR-GS KPA/T
+'stove.': STOF/TP-PL
+'"It': KR-GS/KPA/T
 'looks': HRAOBGS
 'very': SRE
-'dark,"': TKARBG KW-BG KR-GS
+'dark,"': TKARBG/KW-BG/KR-GS
 'said': SED
-'she;': SHE STPH*FPLT
+'she;': SHE/STPH*FPLT
 'still': STEUL
 'she': SHE
 'went': WEPBT
@@ -1112,24 +1112,24 @@ The Shepherdess and the Sheep
 'and': SKP
 'through': THRU
 'the': -T
-'pipe,': PAOEUP KW-BG
+'pipe,': PAOEUP/KW-BG
 'where': W-R
 'it': T
 'was': WAS
 'as': AS
 'dark': TKARBG
 'as': AS
-'pitch.': PEUFP TP-PL
-'"Now': KR-GS KPA/TPHOU
+'pitch.': PEUFP/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'we': WE
 'are': R
 'in': TPH
 'the': -T
-'chimney,"': KHEUPL/TPHEU KW-BG KR-GS
+'chimney,"': KHEUPL/TPHEU/KW-BG/KR-GS
 'said': SED
-'he;': HE STPH*FPLT
-'"and': KR-GS SKP
-'look,': HRAOBG KW-BG
+'he;': HE/STPH*FPLT
+'"and': KR-GS/SKP
+'look,': HRAOBG/KW-BG
 'there': THR
 'is': S
 'a': AEU
@@ -1137,7 +1137,7 @@ The Shepherdess and the Sheep
 'star': STAR
 'shining': SHAOEUPBG
 'above': PWOF
-'it."': T TP-PL KR-GS
+'it."': T/TP-PL/KR-GS
 'It': KPA/T
 'was': WAS
 'a': AEU
@@ -1154,34 +1154,34 @@ The Shepherdess and the Sheep
 'show': SHOE
 'them': THEPL
 'the': -T
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'So': KPA/SO
 'they': THE
-'clambered,': KHRAPL/ERD KW-BG
+'clambered,': KHRAPL/ERD/KW-BG
 'and': SKP
 'crept': KREPT
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'a': AEU
 'frightful': TPRAOEUT/-FL
 'steep': STAOEP
 'place': PHRAEUS
 'it': T
-'was;': WAS STPH*FPLT
+'was;': WAS/STPH*FPLT
 'but': PWUT
 'the': -T
-'chimney-sweep': KHEUPL/TPHEU H-PB SWAOEP
+'chimney-sweep': KHEUPL/TPHEU/H-PB/SWAOEP
 'helped': HEPD
 'her': HER
 'and': SKP
 'supported': SPORD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'till': TEUL
 'they': THE
 'got': TKPWOT
 'higher': HAOEUR
 'and': SKP
-'higher.': HAOEUR TP-PL
+'higher.': HAOEUR/TP-PL
 'He': KPA/HE
 'showed': SHOED
 'her': HER
@@ -1195,7 +1195,7 @@ The Shepherdess and the Sheep
 'her': HER
 'little': HREUL
 'china': KHAOEUPB/A
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'so': SO
 'at': AT
 'last': HRAFT
@@ -1205,30 +1205,30 @@ The Shepherdess and the Sheep
 'top': TOP
 'of': -F
 'the': -T
-'chimney,': KHEUPL/TPHEU KW-BG
+'chimney,': KHEUPL/TPHEU/KW-BG
 'and': SKP
 'sat': SAT
 'themselves': TH*EPLS
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
 'very': SRE
-'tired,': TAOEURD KW-BG
+'tired,': TAOEURD/KW-BG
 'as': AS
 'may': PHAE
 'be': -B
-'supposed.': SPOED TP-PL
+'supposed.': SPOED/TP-PL
 'The': KPA/-T
-'sky,': SKAOEU KW-BG
+'sky,': SKAOEU/KW-BG
 'with': W
 'all': AUL
 'its': EUTS
-'stars,': STARS KW-BG
+'stars,': STARS/KW-BG
 'was': WAS
 'over': OEFR
 'their': THAEUR
-'heads,': HEDZ KW-BG
+'heads,': HEDZ/KW-BG
 'and': SKP
 'below': PWHRO
 'were': WR
@@ -1236,7 +1236,7 @@ The Shepherdess and the Sheep
 'roofs': RAOFS
 'of': -F
 'the': -T
-'town.': TOUPB TP-PL
+'town.': TOUPB/TP-PL
 'They': KPA/THE
 'could': KO
 'see': SAOE
@@ -1249,7 +1249,7 @@ The Shepherdess and the Sheep
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'and': SKP
 'the': -T
 'poor': PAOR
@@ -1260,8 +1260,8 @@ The Shepherdess and the Sheep
 'head': HED
 'on': OPB
 'her': HER
-'chimney-sweep's': KHEUPL/TPHEU H-PB SWAOEP AES
-'shoulder,': SHOURLD KW-BG
+'chimney-sweep's': KHEUPL/TPHEU/H-PB/SWAOEP/AES
+'shoulder,': SHOURLD/KW-BG
 'and': SKP
 'wept': WEPT
 'till': TEUL
@@ -1271,7 +1271,7 @@ The Shepherdess and the Sheep
 'gilt': TKPW*EULT
 'off': OF
 'her': HER
-'sash;': SARB STPH*FPLT
+'sash;': SARB/STPH*FPLT
 'the': -T
 'world': WORLD
 'was': WAS
@@ -1280,23 +1280,23 @@ The Shepherdess and the Sheep
 'to': TO
 'what': WHA
 'she': SHE
-'expected.': KP-PTD TP-PL
-'"This': KR-GS KPA/TH
+'expected.': KP-PTD/TP-PL
+'"This': KR-GS/KPA/TH
 'is': S
 'too': TAO
-'much,"': PHUFP KW-BG KR-GS
+'much,"': PHUFP/KW-BG/KR-GS
 'she': SHE
-'said;': SED STPH*FPLT
-'"I': KR-GS EU
+'said;': SED/STPH*FPLT
+'"I': KR-GS/EU
 'cannot': SK-PBT
 'bear': PWAER
-'it,': T KW-BG
+'it,': T/KW-BG
 'the': -T
 'world': WORLD
 'is': S
 'too': TAO
-'large.': HRARPBLG TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'large.': HRARPBLG/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'I': EU
 'wish': WEURB
 'I': EU
@@ -1306,11 +1306,11 @@ The Shepherdess and the Sheep
 'on': OPB
 'the': -T
 'table': TAEUBL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'under': TPH-PB
 'the': -T
 'looking': HRAOG
-'glass;': TKPWHRAS STPH*FPLT
+'glass;': TKPWHRAS/STPH*FPLT
 'I': EU
 'shall': SHAL
 'never': TPHEFR
@@ -1321,7 +1321,7 @@ The Shepherdess and the Sheep
 'am': APL
 'safe': SAEUF
 'back': PWABG
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'Now': KPA/TPHOU
 'I': EU
 'have': SR
@@ -1331,46 +1331,46 @@ The Shepherdess and the Sheep
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'you': U
 'will': HR
 'take': TAEUBG
 'me': PHE
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'if': TP
 'you': U
 'love': HRUF
-'me."': PHE TP-PL KR-GS
+'me."': PHE/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
-'chimney-sweep': KHEUPL/TPHEU H-PB SWAOEP
+'chimney-sweep': KHEUPL/TPHEU/H-PB/SWAOEP
 'tried': TRAOEUD
 'to': TO
 'reason': R-PB
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'spoke': SPOEBG
 'of': -F
 'the': -T
 'old': OLD
-'Chinaman,': KWHRAOEUPB/PHA*PB KW-BG
+'Chinaman,': KWHRAOEUPB/PHA*PB/KW-BG
 'and': SKP
 'of': -F
 'the': -T
-'Major-general-field-sergeant-commander': KPA/PHAEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER
-'Billy-goat's': PWEUL/HREU H-PB TKPWO*ET AES
-'legs;': HREGS STPH*FPLT
+'Major-general-field-sergeant-commander': KPA/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
+'Billy-goat's': PWEUL/HREU/H-PB/TKPWO*ET/AES
+'legs;': HREGS/STPH*FPLT
 'but': PWUT
 'she': SHE
 'sobbed': SOBD
 'so': SO
-'bitterly,': PWEURLT KW-BG
+'bitterly,': PWEURLT/KW-BG
 'and': SKP
 'kissed': K*EUFD
 'her': HER
 'little': HREUL
-'chimney-sweep': KHEUPL/TPHEU H-PB SWAOEP
+'chimney-sweep': KHEUPL/TPHEU/H-PB/SWAOEP
 'till': TEUL
 'he': HE
 'was': WAS
@@ -1379,24 +1379,24 @@ The Shepherdess and the Sheep
 'do': TKO
 'all': AUL
 'she': SHE
-'asked,': SK-D KW-BG
+'asked,': SK-D/KW-BG
 'foolish': TPAOL/EURB
 'as': AS
 'it': T
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'And': AFPBD
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'with': W
 'a': AEU
 'great': TKPWRAET
 'deal': TKAOEL
 'of': -F
-'trouble,': TRUBL KW-BG
+'trouble,': TRUBL/KW-BG
 'they': THE
 'climbed': KHRAOEUPLD
 'down': TKOUPB
 'the': -T
-'chimney,': KHEUPL/TPHEU KW-BG
+'chimney,': KHEUPL/TPHEU/KW-BG
 'and': SKP
 'then': THEPB
 'crept': KREPT
@@ -1404,26 +1404,26 @@ The Shepherdess and the Sheep
 'the': -T
 'pipe': PAOEUP
 'and': SKP
-'stove,': STOF KW-BG
+'stove,': STOF/KW-BG
 'which': WEU
 'were': WR
 'certainly': SERPBL
 'not': TPHOT
 'very': SRE
 'pleasant': PHREFPBT
-'places.': PHRAEUFS TP-PL
+'places.': PHRAEUFS/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'stood': STAOD
 'in': TPH
 'the': -T
 'dark': TKARBG
-'fire-box,': TPAOEUR H-PB PWOBGS KW-BG
+'fire-box,': TPAOEUR/H-PB/PWOBGS/KW-BG
 'and': SKP
 'listened': HREUFPBD
 'behind': HEUPBD
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'to': TO
 'hear': HAER
 'what': WHA
@@ -1432,16 +1432,16 @@ The Shepherdess and the Sheep
 'on': OPB
 'in': TPH
 'the': -T
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'As': KPA/AS
 'it': T
 'was': WAS
 'all': AUL
-'quiet,': KWAO*EUT KW-BG
+'quiet,': KWAO*EUT/KW-BG
 'they': THE
 'peeped': PAOEPD
-'out.': OUT TP-PL
-'Alas!': KPA/A/HRAS SKHRAPL
+'out.': OUT/TP-PL
+'Alas!': KPA/A/HRAS/SKHRAPL
 'there': THR
 'lay': HRAEU
 'the': -T
@@ -1449,7 +1449,7 @@ The Shepherdess and the Sheep
 'Chinaman': KWHRAOEUPB/PHA*PB
 'on': OPB
 'the': -T
-'floor;': TPHRAOR STPH*FPLT
+'floor;': TPHRAOR/STPH*FPLT
 'he': HE
 'had': H
 'fallen': TPAUL/-PB
@@ -1463,18 +1463,18 @@ The Shepherdess and the Sheep
 'to': TO
 'run': RUPB
 'after': AF
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'was': WAS
 'broken': PWROEPB
 'into': TPHAO
 'three': THRAOE
-'pieces;': PAOEFS STPH*FPLT
+'pieces;': PAOEFS/STPH*FPLT
 'his': HEUS
 'back': PWABG
 'had': H
 'separated': SERPTD
-'entirely,': SPWAOEURL KW-BG
+'entirely,': SPWAOEURL/KW-BG
 'and': SKP
 'his': HEUS
 'head': HED
@@ -1485,86 +1485,86 @@ The Shepherdess and the Sheep
 'corner': KRORPB
 'of': -F
 'the': -T
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'The': KPA/-T
-'major-general': PHAEUPBLG H-PB SKWREPBL
+'major-general': PHAEUPBLG/H-PB/SKWREPBL
 'stood': STAOD
 'in': TPH
 'his': HEUS
 'old': OLD
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'and': SKP
 'appeared': A/PAOERD
 'lost': HRO*S
 'in': TPH
-'thought.': THAUT TP-PL
-'"This': KR-GS KPA/TH
+'thought.': THAUT/TP-PL
+'"This': KR-GS/KPA/TH
 'is': S
-'terrible,"': TERBL KW-BG KR-GS
+'terrible,"': TERBL/KW-BG/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
-'shepherdess.': SHEP/ERD/*ES TP-PL
-'"My': KR-GS KPA/PHEU
+'shepherdess.': SHEP/ERD/*ES/TP-PL
+'"My': KR-GS/KPA/PHEU
 'poor': PAOR
 'old': OLD
 'grandfather': TKPWR-F
 'is': S
 'broken': PWROEPB
 'to': TO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'it': T
 'is': S
 'our': OUR
-'fault.': TPAULT TP-PL
+'fault.': TPAULT/TP-PL
 'I': EU
 'shall': SHAL
 'never': TPHEFR
 'live': HREUF
 'after': AF
-'this;"': TH STPH*FPLT KR-GS
+'this;"': TH/STPH*FPLT/KR-GS
 'and': SKP
 'she': SHE
 'wrung': WRUPBG
 'her': HER
 'little': HREUL
-'hands.': HAPBDZ TP-PL
-'"He': KR-GS KPA/HE
+'hands.': HAPBDZ/TP-PL
+'"He': KR-GS/KPA/HE
 'can': K
 'be': -B
-'riveted,"': R*EUFT/-D KW-BG KR-GS
+'riveted,"': R*EUFT/-D/KW-BG/KR-GS
 'said': SED
 'the': -T
-'chimney-sweep;': KHEUPL/TPHEU H-PB SWAOEP STPH*FPLT
-'"he': KR-GS HE
+'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
+'"he': KR-GS/HE
 'can': K
 'be': -B
-'riveted.': R*EUFT/-D TP-PL
+'riveted.': R*EUFT/-D/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'be': -B
 'so': SO
-'hasty.': HAEUS/TEU TP-PL
+'hasty.': HAEUS/TEU/TP-PL
 'If': KPA/TP
 'they': THE
 'cement': SEPLT
 'his': HEUS
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'put': PUT
 'a': AEU
 'good': TKPWAOD
 'rivet': R*EUFT
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'he': HE
 'will': HR
 'be': -B
 'as': AS
 'good': TKPWAOD
 'as': AS
-'new,': TPHU KW-BG
+'new,': TPHU/KW-BG
 'and': SKP
 'be': -B
 'able': ABL
@@ -1577,13 +1577,13 @@ The Shepherdess and the Sheep
 'to': TO
 'us': US
 'as': AS
-'ever."': -FR TP-PL KR-GS
-'"Do': KR-GS KPA/TKO
+'ever."': -FR/TP-PL/KR-GS
+'"Do': KR-GS/KPA/TKO
 'you': U
 'think': THEU
-'so?"': SO H-F KR-GS
+'so?"': SO/H-F/KR-GS
 'said': SED
-'she;': SHE STPH*FPLT
+'she;': SHE/STPH*FPLT
 'and': SKP
 'then': THEPB
 'they': THE
@@ -1591,61 +1591,61 @@ The Shepherdess and the Sheep
 'up': UP
 'to': TO
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'stood': STAOD
 'in': TPH
 'their': THAEUR
 'old': OLD
-'places.': PHRAEUFS TP-PL
-'"As': KR-GS KPA/AS
+'places.': PHRAEUFS/TP-PL
+'"As': KR-GS/KPA/AS
 'we': WE
 'have': SR
 'done': TKOPB
 'no': TPHO
-'good,"': TKPWAOD KW-BG KR-GS
+'good,"': TKPWAOD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'chimney-sweep,': KHEUPL/TPHEU H-PB SWAOEP KW-BG
-'"we': KR-GS WE
+'chimney-sweep,': KHEUPL/TPHEU/H-PB/SWAOEP/KW-BG
+'"we': KR-GS/WE
 'might': PHAOEUT
 'as': AS
 'well': WEL
 'have': SR
 'remained': RE/PHAEUPBD
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'instead': STPHED
 'of': -F
 'taking': TAEUG
 'so': SO
 'much': PHUFP
-'trouble."': TRUBL TP-PL KR-GS
-'"I': KR-GS EU
+'trouble."': TRUBL/TP-PL/KR-GS
+'"I': KR-GS/EU
 'wish': WEURB
 'grandfather': TKPWR-F
 'was': WAS
-'riveted,"': R*EUFT/-D KW-BG KR-GS
+'riveted,"': R*EUFT/-D/KW-BG/KR-GS
 'said': SED
 'the': -T
-'shepherdess.': SHEP/ERD/*ES TP-PL
-'"Will': KR-GS W*EUL
+'shepherdess.': SHEP/ERD/*ES/TP-PL
+'"Will': KR-GS/W*EUL
 'it': T
 'cost': KOFT
-'much,': PHUFP KW-BG
+'much,': PHUFP/KW-BG
 'I': EU
-'wonder?"': WOPBD H-F KR-GS
+'wonder?"': WOPBD/H-F/KR-GS
 'And': AFPBD
 'she': SHE
 'had': H
 'her': HER
-'wish.': WEURB TP-PL
+'wish.': WEURB/TP-PL
 'The': KPA/-T
 'family': TPAEPL
 'had': H
 'the': -T
-'Chinaman's': KWHRAOEUPB/PHA*PB AES
+'Chinaman's': KWHRAOEUPB/PHA*PB/AES
 'back': PWABG
-'mended,': PHEPBD/-D KW-BG
+'mended,': PHEPBD/-D/KW-BG
 'and': SKP
 'a': AEU
 'strong': STROPBG
@@ -1653,13 +1653,13 @@ The Shepherdess and the Sheep
 'put': PUT
 'through': THRU
 'his': HEUS
-'neck;': TPHEBG STPH*FPLT
+'neck;': TPHEBG/STPH*FPLT
 'he': HE
 'looked': HRAOBGD
 'as': AS
 'good': TKPWAOD
 'as': AS
-'new,': TPHU KW-BG
+'new,': TPHU/KW-BG
 'but': PWUT
 'he': HE
 'could': KO
@@ -1667,8 +1667,8 @@ The Shepherdess and the Sheep
 'longer': HRORPBG
 'nod': TPHOD
 'his': HEUS
-'head.': HED TP-PL
-'"You': KR-GS KPA/U
+'head.': HED/TP-PL
+'"You': KR-GS/KPA/U
 'have': SR
 'become': PW-BG
 'proud': PROUD
@@ -1678,11 +1678,11 @@ The Shepherdess and the Sheep
 'broke': PWROEBG
 'you': U
 'to': TO
-'pieces,"': PAOEFS KW-BG KR-GS
+'pieces,"': PAOEFS/KW-BG/KR-GS
 'said': SED
-'Major-general-field-sergeant-commander': KPA/PHAEUPBLG H-PB SKWREPBL H-PB TPAOELD H-PB S-GT H-PB KPHAPBD/*ER
-'Billy-goat's-legs.': PWEUL/HREU H-PB TKPWO*ET AE S* H-PB HREGS TP-PL
-'"You': KR-GS KPA/U
+'Major-general-field-sergeant-commander': KPA/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
+'Billy-goat's-legs.': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/TP-PL
+'"You': KR-GS/KPA/U
 'have': SR
 'no': TPHO
 'reason': R-PB
@@ -1690,16 +1690,16 @@ The Shepherdess and the Sheep
 'give': TKPWEUF
 'yourself': KWRO*URS
 'such': SUFP
-'airs.': AEUR/-S TP-PL
+'airs.': AEUR/-S/TP-PL
 'Am': KPA/APL
 'I': EU
 'to': TO
 'have': SR
 'her': HER
 'or': OR
-'not?"': TPHOT H-F KR-GS
+'not?"': TPHOT/H-F/KR-GS
 'The': KPA/-T
-'chimney-sweep': KHEUPL/TPHEU H-PB SWAOEP
+'chimney-sweep': KHEUPL/TPHEU/H-PB/SWAOEP
 'and': SKP
 'the': -T
 'little': HREUL
@@ -1709,20 +1709,20 @@ The Shepherdess and the Sheep
 'at': AT
 'the': -T
 'old': OLD
-'Chinaman,': KWHRAOEUPB/PHA*PB KW-BG
+'Chinaman,': KWHRAOEUPB/PHA*PB/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
 'afraid': A/TPRAEUD
 'he': HE
 'might': PHAOEUT
-'nod;': TPHOD STPH*FPLT
+'nod;': TPHOD/STPH*FPLT
 'but': PWUT
 'he': HE
 'was': WAS
 'not': TPHOT
-'able:': ABL STPH-FPLT
-'besides,': PW-DZ KW-BG
+'able:': ABL/STPH-FPLT
+'besides,': PW-DZ/KW-BG
 'it': T
 'was': WAS
 'so': SO
@@ -1741,7 +1741,7 @@ The Shepherdess and the Sheep
 'back': PWABG
 'of': -F
 'his': HEUS
-'neck.': TPHEBG TP-PL
+'neck.': TPHEBG/TP-PL
 'And': AFPBD
 'so': SO
 'the': -T
@@ -1749,14 +1749,14 @@ The Shepherdess and the Sheep
 'china': KHAOEUPB/A
 'people': PAOEPL
 'remained': RE/PHAEUPBD
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'were': WR
 'glad': TKPWHRAD
 'of': -F
 'the': -T
-'grandfather's': TKPWR-F AES
-'rivet,': R*EUFT KW-BG
+'grandfather's': TKPWR-F/AES
+'rivet,': R*EUFT/KW-BG
 'and': SKP
 'continued': T-PBD
 'to': TO
@@ -1768,4 +1768,4 @@ The Shepherdess and the Sheep
 'were': WR
 'broken': PWROEPB
 'to': TO
-'pieces.': PAOEFS TP-PL
+'pieces.': PAOEFS/TP-PL

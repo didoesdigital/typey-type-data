@@ -2,7 +2,7 @@ The Fox and the Grapes
 
 'One': KPA/WUPB
 'hot': HOT
-'summer's': SAOURPL AES
+'summer's': SAOURPL/AES
 'day': TKAEU
 'a': AEU
 'Fox': KPA/TPOBGS
@@ -31,49 +31,49 @@ The Fox and the Grapes
 'over': OEFR
 'a': AEU
 'lofty': HROF/TEU
-'branch.': PWRAFRPB TP-PL
-'"Just': KR-GS KPA/SKWRUFT
+'branch.': PWRAFRPB/TP-PL
+'"Just': KR-GS/KPA/SKWRUFT
 'the': -T
 'thing': THEUPBG
 'to': TO
 'quench': KWEFRPB
 'my': PHEU
-'thirst,"': THEUFRT KW-BG KR-GS
+'thirst,"': THEUFRT/KW-BG/KR-GS
 'quoth': KW*/*U/O*/T*/H*
-'he.': HE TP-PL
+'he.': HE/TP-PL
 'Drawing': KPA/TKRAUG
 'back': PWABG
 'a': AEU
 'few': TPAOU
-'paces,': PAEUS/-S KW-BG
+'paces,': PAEUS/-S/KW-BG
 'he': HE
 'took': TAOBG
 'a': AEU
 'run': RUPB
 'and': SKP
 'a': AEU
-'jump,': SKWRUFRP KW-BG
+'jump,': SKWRUFRP/KW-BG
 'and': SKP
 'just': SKWRUFT
 'missed': PHEUFD
 'the': -T
-'bunch.': PWUFRPB TP-PL
+'bunch.': PWUFRPB/TP-PL
 'Turning': KPA/TURPBG
 'round': ROUPBD
 'again': TKPWEPB
 'with': W
 'a': AEU
-'One,': KPA/WUPB KW-BG
-'Two,': KPA/TWO KW-BG
-'Three,': KPA/THRAOE KW-BG
+'One,': KPA/WUPB/KW-BG
+'Two,': KPA/TWO/KW-BG
+'Three,': KPA/THRAOE/KW-BG
 'he': HE
 'jumped': SKWR*UPLD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'but': PWUT
 'with': W
 'no': TPHO
 'greater': TKPWRAERT
-'success.': SKES TP-PL
+'success.': SKES/TP-PL
 'Again': KPA/TKPWEPB
 'and': SKP
 'again': TKPWEPB
@@ -82,7 +82,7 @@ The Fox and the Grapes
 'after': AF
 'the': -T
 'tempting': TEPLT/-G
-'morsel,': PHOR/SEL KW-BG
+'morsel,': PHOR/SEL/KW-BG
 'but': PWUT
 'at': AT
 'last': HRAFT
@@ -90,7 +90,7 @@ The Fox and the Grapes
 'to': TO
 'give': TKPWEUF
 'it': T
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'walked': WAUBGD
 'away': WA*EU
@@ -99,14 +99,14 @@ The Fox and the Grapes
 'nose': TPHOES
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
-'saying:': SAEUG STPH-FPLT
-'"I': KR-GS EU
+'air,': AEUR/KW-BG
+'saying:': SAEUG/STPH-FPLT
+'"I': KR-GS/EU
 'am': APL
 'sure': SHUR
 'they': THE
 'are': R
-'sour."': SOUR TP-PL KR-GS
+'sour."': SOUR/TP-PL/KR-GS
 'It': KPA/T
 'is': S
 'easy': EZ
@@ -115,4 +115,4 @@ The Fox and the Grapes
 'what': WHA
 'you': U
 'cannot': SK-PBT
-'get.': TKPWET TP-PL
+'get.': TKPWET/TP-PL

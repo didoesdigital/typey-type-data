@@ -14,13 +14,13 @@ The Ass and the Lapdog
 'his': HEUS
 'beasts': PWAOEFT/-S
 'of': -F
-'burden:': PWURD STPH-FPLT
+'burden:': PWURD/STPH-FPLT
 'among': PHOPBG
 'them': THEPL
 'was': WAS
 'his': HEUS
 'favourite': TPAEUFRT/A*U
-'Ass,': KPA/A*S KW-BG
+'Ass,': KPA/A*S/KW-BG
 'that': THA
 'was': WAS
 'always': AULS
@@ -30,7 +30,7 @@ The Ass and the Lapdog
 'often': OFPB
 'carried': KAERD
 'his': HEUS
-'master.': PHAFRT TP-PL
+'master.': PHAFRT/TP-PL
 'With': KPA/W
 'the': -T
 'Farmer': KPA/TPAR/PHER
@@ -51,19 +51,19 @@ The Ass and the Lapdog
 'happy': HAEP
 'as': AS
 'could': KO
-'be.': -B TP-PL
+'be.': -B/TP-PL
 'The': KPA/-T
 'Farmer': KPA/TPAR/PHER
 'felt': TPELT
 'in': TPH
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'gave': TKPWAEUF
 'the': -T
 'Lapdog': KPA/HRAP/TK-LS/TKOG
 'some': SOPL
 'dainty': TKAEUPB/TEU
-'food,': TPAOD KW-BG
+'food,': TPAOD/KW-BG
 'and': SKP
 'sat': SAT
 'down': TKOUPB
@@ -74,14 +74,14 @@ The Ass and the Lapdog
 'orders': ORDZ
 'to': TO
 'his': HEUS
-'servants.': SER/SRAPBTS TP-PL
+'servants.': SER/SRAPBTS/TP-PL
 'The': KPA/-T
 'Lapdog': KPA/HRAP/TK-LS/TKOG
 'jumped': SKWR*UPLD
 'into': TPHAO
 'his': HEUS
-'master's': PHAFRT AES
-'lap,': HRAP KW-BG
+'master's': PHAFRT/AES
+'lap,': HRAP/KW-BG
 'and': SKP
 'lay': HRAEU
 'there': THR
@@ -91,11 +91,11 @@ The Ass and the Lapdog
 'Farmer': KPA/TPAR/PHER
 'stroked': STROEBGD
 'his': HEUS
-'ears.': AOERS TP-PL
+'ears.': AOERS/TP-PL
 'The': KPA/-T
-'Ass,': KPA/A*S KW-BG
+'Ass,': KPA/A*S/KW-BG
 'seeing': SAOEG
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'broke': PWROEBG
 'loose': HRAOS
 'from': TPR
@@ -118,30 +118,30 @@ The Ass and the Lapdog
 'his': HEUS
 'sides': SAOEUDZ
 'with': W
-'laughter,': HRAFR KW-BG
+'laughter,': HRAFR/KW-BG
 'so': SO
 'the': -T
 'Ass': KPA/A*S
 'went': WEPBT
 'up': UP
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'putting': PUGT
 'his': HEUS
 'feet': TPAOET
 'upon': POPB
 'the': -T
-'Farmer's': KPA/TPAR/PHER AES
+'Farmer's': KPA/TPAR/PHER/AES
 'shoulder': SHOURLD
 'attempted': A/TEPL/-D
 'to': TO
 'climb': KHRAOEUPL
 'into': TPHAO
 'his': HEUS
-'lap.': HRAP TP-PL
+'lap.': HRAP/TP-PL
 'The': KPA/-T
-'Farmer's': KPA/TPAR/PHER AES
+'Farmer's': KPA/TPAR/PHER/AES
 'servants': SER/SRAPBTS
 'rushed': RURBD
 'up': UP
@@ -154,9 +154,9 @@ The Ass and the Lapdog
 'taught': TAUT
 'the': -T
 'Ass': KPA/A*S
-'that:': THA STPH-FPLT
+'that:': THA/STPH-FPLT
 'Clumsy': KPA/KHRUPL/SEU
 'jesting': SKWREFT/-G
 'is': S
 'no': TPHO
-'joke.': SKWROEBG TP-PL
+'joke.': SKWROEBG/TP-PL

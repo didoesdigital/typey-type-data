@@ -5,7 +5,7 @@ Snowdrop
 'the': -T
 'middle': PH*EULD
 'of': -F
-'winter,': WEURPBT KW-BG
+'winter,': WEURPBT/KW-BG
 'when': WHEPB
 'the': -T
 'broad': PWRAOD
@@ -14,7 +14,7 @@ Snowdrop
 'snow': STPHOE
 'were': WR
 'falling': TPAULG
-'around,': ARPBD KW-BG
+'around,': ARPBD/KW-BG
 'that': THA
 'the': -T
 'queen': KWAOEPB
@@ -29,7 +29,7 @@ Snowdrop
 'working': WOG
 'at': AT
 'her': HER
-'window.': WOEUPBD TP-PL
+'window.': WOEUPBD/TP-PL
 'The': KPA/-T
 'frame': TPRAEUPL
 'of': -F
@@ -40,7 +40,7 @@ Snowdrop
 'of': -F
 'fine': TPAOEUPB
 'black': PWHRABG
-'ebony,': EB/TPHEU KW-BG
+'ebony,': EB/TPHEU/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -49,11 +49,11 @@ Snowdrop
 'out': OUT
 'upon': POPB
 'the': -T
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'she': SHE
 'pricked': PREUBGD
 'her': HER
-'finger,': TPEURPBG KW-BG
+'finger,': TPEURPBG/KW-BG
 'and': SKP
 'three': THRAOE
 'drops': TKROPS
@@ -61,7 +61,7 @@ Snowdrop
 'blood': PWHRAOD
 'fell': TPEL
 'upon': POPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'gazed': TKPWAEZ/-D
@@ -74,10 +74,10 @@ Snowdrop
 'sprinkled': SPREUPB/K-LD
 'the': -T
 'white': WHAOEUT
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Would': AE KPA/WO
+'said,': SED/KW-BG
+''Would': AE/KPA/WO
 'that': THA
 'my': PHEU
 'little': HREUL
@@ -88,19 +88,19 @@ Snowdrop
 'white': WHAOEUT
 'as': AS
 'that': THA
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'as': AS
 'red': RED
 'as': AS
 'that': THA
-'blood,': PWHRAOD KW-BG
+'blood,': PWHRAOD/KW-BG
 'and': SKP
 'as': AS
 'black': PWHRABG
 'as': AS
 'this': TH
 'ebony': EB/TPHEU
-'windowframe!'': xxx windowframe SKHRAPL AE
+'windowframe!'': xxx windowframe/SKHRAPL/AE
 'And': AFPBD
 'so': SO
 'the': -T
@@ -109,51 +109,51 @@ Snowdrop
 'really': R-L
 'did': TK
 'grow': TKPWROE
-'up;': UP STPH*FPLT
+'up;': UP/STPH*FPLT
 'her': HER
 'skin': SKEUPB
 'was': WAS
 'as': AS
 'white': WHAOEUT
 'as': AS
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'her': HER
 'cheeks': KHAOEBGS
 'as': AS
 'rosy': ROEZ/SEU
 'as': AS
 'the': -T
-'blood,': PWHRAOD KW-BG
+'blood,': PWHRAOD/KW-BG
 'and': SKP
 'her': HER
 'hair': HAEUR
 'as': AS
 'black': PWHRABG
 'as': AS
-'ebony;': EB/TPHEU STPH*FPLT
+'ebony;': EB/TPHEU/STPH*FPLT
 'and': SKP
 'she': SHE
 'was': WAS
 'called': KAULD
-'Snowdrop.': KPA/STPHOE/TK-LS/TKROP TP-PL
+'Snowdrop.': KPA/STPHOE/TK-LS/TKROP/TP-PL
 'But': KPA/PWUT
 'this': TH
 'queen': KWAOEPB
-'died;': TKAOEUD STPH*FPLT
+'died;': TKAOEUD/STPH*FPLT
 'and': SKP
 'the': -T
 'king': KEUPBG
 'soon': SAOPB
 'married': PHAERD
 'another': TPHOER
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'who': WHO
 'became': PWAEUPL
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'and': SKP
 'was': WAS
 'very': SRE
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'but': PWUT
 'so': SO
 'vain': SRA*EUPB
@@ -171,12 +171,12 @@ Snowdrop
 'handsomer': HAPBD/SO*PL/TK-LS/*E/R*
 'than': THAPB
 'she': SHE
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'She': KPA/SHE
 'had': H
 'a': AEU
 'fairy': TPAEUR/REU
-'looking-glass,': HRAOG H-PB TKPWHRAS KW-BG
+'looking-glass,': HRAOG/H-PB/TKPWHRAS/KW-BG
 'to': TO
 'which': WEU
 'she': SHE
@@ -191,50 +191,50 @@ Snowdrop
 'upon': POPB
 'herself': H*ERS
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
-'say:': SAEU STPH-FPLT
-''Tell': AE KPA/TEL
-'me,': PHE KW-BG
-'glass,': TKPWHRAS KW-BG
+'say:': SAEU/STPH-FPLT
+''Tell': AE/KPA/TEL
+'me,': PHE/KW-BG
+'glass,': TKPWHRAS/KW-BG
 'tell': TEL
 'me': PHE
-'true!': TRAOU SKHRAPL
+'true!': TRAOU/SKHRAPL
 'Of': KPA/-F
 'all': AUL
 'the': -T
 'ladies': HRAEUDZ
 'in': TPH
 'the': -T
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'Who': KPA/WHO
 'is': S
-'fairest,': TPAEUR/EFT KW-BG
+'fairest,': TPAEUR/EFT/KW-BG
 'tell': TEL
-'me,': PHE KW-BG
-'who?'': WHO H-F AE
+'me,': PHE/KW-BG
+'who?'': WHO/H-F/AE
 'And': AFPBD
 'the': -T
 'glass': TKPWHRAS
 'had': H
 'always': AULS
-'answered:': AEPBS/-D STPH-FPLT
-''Thou,': AE KPA/THO*U KW-BG
-'queen,': KWAOEPB KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Thou,': AE/KPA/THO*U/KW-BG
+'queen,': KWAOEPB/KW-BG
 'art': ART
 'the': -T
 'fairest': TPAEUR/EFT
 'in': TPH
 'all': AUL
 'the': -T
-'land.'': HRAPBD TP-PL AE
+'land.'': HRAPBD/TP-PL/AE
 'But': KPA/PWUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'grew': TKPWRAOU
 'more': PHOR
 'and': SKP
 'more': PHOR
-'beautiful;': PWAOUFL STPH*FPLT
+'beautiful;': PWAOUFL/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -248,13 +248,13 @@ Snowdrop
 'bright': PWRAOEUT
 'as': AS
 'the': -T
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'fairer': TPAEUR/*ER
 'than': THAPB
 'the': -T
 'queen': KWAOEPB
-'herself.': H*ERS TP-PL
+'herself.': H*ERS/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'glass': TKPWHRAS
@@ -262,7 +262,7 @@ Snowdrop
 'day': TKAEU
 'answered': AEPBS/-D
 'the': -T
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'when': WHEPB
 'she': SHE
 'went': WEPBT
@@ -271,22 +271,22 @@ Snowdrop
 'in': TPH
 'it': T
 'as': AS
-'usual:': AOURB STPH-FPLT
-''Thou,': AE KPA/THO*U KW-BG
-'queen,': KWAOEPB KW-BG
+'usual:': AOURB/STPH-FPLT
+''Thou,': AE/KPA/THO*U/KW-BG
+'queen,': KWAOEPB/KW-BG
 'art': ART
-'fair,': TPAEUR KW-BG
+'fair,': TPAEUR/KW-BG
 'and': SKP
 'beauteous': PWAOUT/KWROUS
 'to': TO
-'see,': SAOE KW-BG
+'see,': SAOE/KW-BG
 'But': KPA/PWUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'is': S
 'lovelier': xxx lovelier
 'far': TPAR
 'than': THAPB
-'thee!'': THAOE SKHRAPL AE
+'thee!'': THAOE/SKHRAPL/AE
 'When': KPA/WHEPB
 'she': SHE
 'heard': HAERD
@@ -297,23 +297,23 @@ Snowdrop
 'with': W
 'rage': RAEUPBLG
 'and': SKP
-'envy,': EPB/SREU KW-BG
+'envy,': EPB/SREU/KW-BG
 'and': SKP
 'called': KAULD
 'to': TO
 'one': WUPB
 'of': -F
 'her': HER
-'servants,': SER/SRAPBTS KW-BG
+'servants,': SER/SRAPBTS/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Take': AE KPA/TAEUBG
+'said,': SED/KW-BG
+''Take': AE/KPA/TAEUBG
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'away': WA*EU
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'that': THA
 'I': EU
 'may': PHAE
@@ -321,13 +321,13 @@ Snowdrop
 'see': SAOE
 'her': HER
 'any': TPHEU
-'more.'': PHOR TP-PL AE
+'more.'': PHOR/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'servant': SEFRB/APBT
 'led': HRED
 'her': HER
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'but': PWUT
 'his': HEUS
 'heart': HART
@@ -339,24 +339,24 @@ Snowdrop
 'to': TO
 'spare': SPAEUR
 'her': HER
-'life,': HRAOEUF KW-BG
+'life,': HRAOEUF/KW-BG
 'and': SKP
 'he': HE
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'will': HR
 'not': TPHOT
 'hurt': HURT
-'you,': U KW-BG
+'you,': U/KW-BG
 'thou': THO*U
 'pretty': PREUT
-'child.'': KHAOEULD TP-PL AE
+'child.'': KHAOEULD/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'left': HREFT
 'her': HER
 'by': PWEU
-'herself;': H*ERS STPH*FPLT
+'herself;': H*ERS/STPH*FPLT
 'and': SKP
 'though': THOE
 'he': HE
@@ -372,7 +372,7 @@ Snowdrop
 'tear': TAER
 'her': HER
 'in': TPH
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'he': HE
 'felt': TPELT
 'as': AS
@@ -402,7 +402,7 @@ Snowdrop
 'her': HER
 'to': TO
 'her': HER
-'fate,': TPAEUT KW-BG
+'fate,': TPAEUT/KW-BG
 'with': W
 'the': -T
 'chance': KHAPBS
@@ -411,7 +411,7 @@ Snowdrop
 'finding': TPAOEUPBGD
 'and': SKP
 'saving': SAFG
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'poor': PAOR
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
@@ -422,20 +422,20 @@ Snowdrop
 'wood': WAOD
 'in': TPH
 'great': TKPWRAET
-'fear;': TPAOER STPH*FPLT
+'fear;': TPAOER/STPH*FPLT
 'and': SKP
 'the': -T
 'wild': WAOEULD
 'beasts': PWAOEFT/-S
 'roared': RAORD
 'about': PW
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'but': PWUT
 'none': TPHOPB
 'did': TK
 'her': HER
 'any': TPHEU
-'harm.': HARPL TP-PL
+'harm.': HARPL/TP-PL
 'In': KPA/TPH
 'the': -T
 'evening': AOEPBG
@@ -446,12 +446,12 @@ Snowdrop
 'cottage': KOT/APBLG
 'among': PHOPBG
 'the': -T
-'hills,': HEULS KW-BG
+'hills,': HEULS/KW-BG
 'and': SKP
 'went': WEPBT
 'in': TPH
 'to': TO
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'for': TPOR
 'her': HER
 'little': HREUL
@@ -460,7 +460,7 @@ Snowdrop
 'carry': KAER
 'her': HER
 'no': TPHO
-'further.': TPURT TP-PL
+'further.': TPURT/TP-PL
 'Everything': KPA/EFRG
 'was': WAS
 'spruce': SPRAOUS
@@ -468,7 +468,7 @@ Snowdrop
 'neat': TPHAOET
 'in': TPH
 'the': -T
-'cottage:': KOT/APBLG STPH-FPLT
+'cottage:': KOT/APBLG/STPH-FPLT
 'on': OPB
 'the': -T
 'table': TAEUBL
@@ -476,16 +476,16 @@ Snowdrop
 'spread': SPRED
 'a': AEU
 'white': WHAOEUT
-'cloth,': KHRO*T KW-BG
+'cloth,': KHRO*T/KW-BG
 'and': SKP
 'there': THR
 'were': WR
 'seven': SEFPB
 'little': HREUL
-'plates,': PHRAEUTS KW-BG
+'plates,': PHRAEUTS/KW-BG
 'seven': SEFPB
 'little': HREUL
-'loaves,': HROEFS KW-BG
+'loaves,': HROEFS/KW-BG
 'and': SKP
 'seven': SEFPB
 'little': HREUL
@@ -493,7 +493,7 @@ Snowdrop
 'with': W
 'wine': WAOEUPB
 'in': TPH
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'and': SKP
 'seven': SEFPB
 'knives': TPHAOEUFS
@@ -501,7 +501,7 @@ Snowdrop
 'forks': TPORBGS
 'laid': HRAEUD
 'in': TPH
-'order;': ORD STPH*FPLT
+'order;': ORD/STPH*FPLT
 'and': SKP
 'by': PWEU
 'the': -T
@@ -509,12 +509,12 @@ Snowdrop
 'stood': STAOD
 'seven': SEFPB
 'little': HREUL
-'beds.': PWEDZ TP-PL
+'beds.': PWEDZ/TP-PL
 'As': KPA/AS
 'she': SHE
 'was': WAS
 'very': SRE
-'hungry,': HUPBG/REU KW-BG
+'hungry,': HUPBG/REU/KW-BG
 'she': SHE
 'picked': PEUBGD
 'a': AEU
@@ -532,7 +532,7 @@ Snowdrop
 'out': OUT
 'of': -F
 'each': AOEFP
-'glass;': TKPWHRAS STPH*FPLT
+'glass;': TKPWHRAS/STPH*FPLT
 'and': SKP
 'after': AF
 'that': THA
@@ -550,24 +550,24 @@ Snowdrop
 'all': AUL
 'the': -T
 'little': HREUL
-'beds;': PWEDZ STPH*FPLT
+'beds;': PWEDZ/STPH*FPLT
 'but': PWUT
 'one': WUPB
 'was': WAS
 'too': TAO
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'and': SKP
 'another': TPHOER
 'was': WAS
 'too': TAO
-'short,': SHORT KW-BG
+'short,': SHORT/KW-BG
 'till': TEUL
 'at': AT
 'last': HRAFT
 'the': -T
 'seventh': S*EPBT
 'suited': SAOUTD
-'her:': HER STPH-FPLT
+'her:': HER/STPH-FPLT
 'and': SKP
 'there': THR
 'she': SHE
@@ -577,7 +577,7 @@ Snowdrop
 'and': SKP
 'went': WEPBT
 'to': TO
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'By': KPA/PWEU
 'and': SKP
 'by': PWEU
@@ -587,30 +587,30 @@ Snowdrop
 'masters': PHAFT/ERS
 'of': -F
 'the': -T
-'cottage.': KOT/APBLG TP-PL
+'cottage.': KOT/APBLG/TP-PL
 'Now': KPA/TPHOU
 'they': THE
 'were': WR
 'seven': SEFPB
 'little': HREUL
-'dwarfs,': TKWAR/-FS KW-BG
+'dwarfs,': TKWAR/-FS/KW-BG
 'that': THA
 'lived': HREUFD
 'among': PHOPBG
 'the': -T
-'mountains,': PHOUPB/TAEUPBS KW-BG
+'mountains,': PHOUPB/TAEUPBS/KW-BG
 'and': SKP
 'dug': TKUG
 'and': SKP
 'searched': SEFRPBD
 'for': TPOR
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'They': KPA/THE
 'lighted': HRAOEUTD
 'up': UP
 'their': THAEUR
 'seven': SEFPB
-'lamps,': HRA*PLS KW-BG
+'lamps,': HRA*PLS/KW-BG
 'and': SKP
 'saw': SAU
 'at': AT
@@ -619,89 +619,89 @@ Snowdrop
 'all': AUL
 'was': WAS
 'not': TPHOT
-'right.': RAOEUT TP-PL
+'right.': RAOEUT/TP-PL
 'The': KPA/-T
 'first': TPEUFRT
-'said,': SED KW-BG
-''Who': AE KPA/WHO
+'said,': SED/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'sitting': SEUGT
 'on': OPB
 'my': PHEU
-'stool?'': STOL H-F AE
+'stool?'': STOL/H-F/AE
 'The': KPA/-T
-'second,': SEBGD KW-BG
-''Who': AE KPA/WHO
+'second,': SEBGD/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'eating': AOEGT
 'off': OF
 'my': PHEU
-'plate?'': PHRAET H-F AE
+'plate?'': PHRAET/H-F/AE
 'The': KPA/-T
-'third,': THEURD KW-BG
-''Who': AE KPA/WHO
+'third,': THEURD/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'picking': P*EUG
 'my': PHEU
-'bread?'': PWRAED H-F AE
+'bread?'': PWRAED/H-F/AE
 'The': KPA/-T
-'fourth,': TPO*URT KW-BG
-''Who': AE KPA/WHO
+'fourth,': TPO*URT/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'meddling': PHED/-LG
 'with': W
 'my': PHEU
-'spoon?'': SPAOPB H-F AE
+'spoon?'': SPAOPB/H-F/AE
 'The': KPA/-T
-'fifth,': TP*EUT KW-BG
-''Who': AE KPA/WHO
+'fifth,': TP*EUT/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'handling': HAPBLG
 'my': PHEU
-'fork?'': TPORBG H-F AE
+'fork?'': TPORBG/H-F/AE
 'The': KPA/-T
-'sixth,': S*BGS KW-BG
-''Who': AE KPA/WHO
+'sixth,': S*BGS/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'cutting': KUGT
 'with': W
 'my': PHEU
-'knife?'': TPHAOEUF H-F AE
+'knife?'': TPHAOEUF/H-F/AE
 'The': KPA/-T
-'seventh,': S*EPBT KW-BG
-''Who': AE KPA/WHO
+'seventh,': S*EPBT/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'drinking': TKREUG
 'my': PHEU
-'wine?'': WAOEUPB H-F AE
+'wine?'': WAOEUPB/H-F/AE
 'Then': KPA/THEPB
 'the': -T
 'first': TPEUFRT
 'looked': HRAOBGD
 'round': ROUPBD
 'and': SKP
-'said,': SED KW-BG
-''Who': AE KPA/WHO
+'said,': SED/KW-BG
+''Who': AE/KPA/WHO
 'has': HAS
 'been': PW-PB
 'lying': HRAOEUG
 'on': OPB
 'my': PHEU
-'bed?'': PWED H-F AE
+'bed?'': PWED/H-F/AE
 'And': AFPBD
 'the': -T
 'rest': REFT
 'came': KAEUPL
 'running': R*UPBG
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'everyone': EFRPB
 'cried': KRAOEUD
@@ -712,12 +712,12 @@ Snowdrop
 'been': PW-PB
 'upon': POPB
 'his': HEUS
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'But': KPA/PWUT
 'the': -T
 'seventh': S*EPBT
 'saw': SAU
-'Snowdrop,': KPA/STPHOE/TK-LS/TKROP KW-BG
+'Snowdrop,': KPA/STPHOE/TK-LS/TKROP/KW-BG
 'and': SKP
 'called': KAULD
 'all': AUL
@@ -727,7 +727,7 @@ Snowdrop
 'come': KOPL
 'and': SKP
 'see': SAOE
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'and': SKP
 'they': THE
 'cried': KRAOEUD
@@ -743,17 +743,17 @@ Snowdrop
 'to': TO
 'look': HRAOBG
 'at': AT
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Good': AE KPA/TKPWAOD
-'heavens!': HEFPBS SKHRAPL
+'said,': SED/KW-BG
+''Good': AE/KPA/TKPWAOD
+'heavens!': HEFPBS/SKHRAPL
 'what': WHA
 'a': AEU
 'lovely': HROFL
 'child': KHAOEULD
 'she': SHE
-'is!'': S SKHRAPL AE
+'is!'': S/SKHRAPL/AE
 'And': AFPBD
 'they': THE
 'were': WR
@@ -761,14 +761,14 @@ Snowdrop
 'glad': TKPWHRAD
 'to': TO
 'see': SAOE
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'took': TAOBG
 'care': KAEUR
 'not': TPHOT
 'to': TO
 'wake': WAEUBG
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'and': SKP
 'the': -T
 'seventh': S*EPBT
@@ -783,12 +783,12 @@ Snowdrop
 'other': OER
 'dwarfs': TKWAR/-FS
 'in': TPH
-'turn,': TURPB KW-BG
+'turn,': TURPB/KW-BG
 'till': TEUL
 'the': -T
 'night': TPHAOEUT
 'was': WAS
-'gone.': TKPWOPB TP-PL
+'gone.': TKPWOPB/TP-PL
 'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
@@ -797,11 +797,11 @@ Snowdrop
 'them': THEPL
 'all': AUL
 'her': HER
-'story;': STOER STPH*FPLT
+'story;': STOER/STPH*FPLT
 'and': SKP
 'they': THE
 'pitied': PEUT/EUD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'said': SED
 'if': TP
@@ -811,7 +811,7 @@ Snowdrop
 'all': AUL
 'things': THEUPBGS
 'in': TPH
-'order,': ORD KW-BG
+'order,': ORD/KW-BG
 'and': SKP
 'cook': KAOBG
 'and': SKP
@@ -821,13 +821,13 @@ Snowdrop
 'and': SKP
 'spin': SPEUPB
 'for': TPOR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'she': SHE
 'might': PHAOEUT
 'stay': STAEU
 'where': W-R
 'she': SHE
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'and': SKP
 'they': THE
 'would': WO
@@ -835,7 +835,7 @@ Snowdrop
 'good': TKPWAOD
 'care': KAEUR
 'of': -F
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'went': WEPBT
@@ -845,7 +845,7 @@ Snowdrop
 'long': HROPBG
 'to': TO
 'their': THAEUR
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'seeking': SAOEBG/-G
 'for': TPOR
 'gold': TKPWOELD
@@ -853,20 +853,20 @@ Snowdrop
 'silver': SEUL/SRER
 'in': TPH
 'the': -T
-'mountains:': PHOUPB/TAEUPBS STPH-FPLT
+'mountains:': PHOUPB/TAEUPBS/STPH-FPLT
 'but': PWUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'was': WAS
 'left': HREFT
 'at': AT
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'and': SKP
 'they': THE
 'warned': WARPBD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''The': AE KPA/-T
+'said,': SED/KW-BG
+''The': AE/KPA/-T
 'queen': KWAOEPB
 'will': HR
 'soon': SAOPB
@@ -874,7 +874,7 @@ Snowdrop
 'out': OUT
 'where': W-R
 'you': U
-'are,': R KW-BG
+'are,': R/KW-BG
 'so': SO
 'take': TAEUBG
 'care': KAEUR
@@ -882,17 +882,17 @@ Snowdrop
 'let': HRET
 'no': TPHO
 'one': WUPB
-'in.'': TPH TP-PL AE
+'in.'': TPH/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'now': TPHOU
 'that': THA
 'she': SHE
 'thought': THAUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'was': WAS
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'believed': PWHREFD
 'that': THA
 'she': SHE
@@ -903,7 +903,7 @@ Snowdrop
 'lady': HRA*ED
 'in': TPH
 'the': -T
-'land;': HRAPBD STPH*FPLT
+'land;': HRAPBD/STPH*FPLT
 'and': SKP
 'she': SHE
 'went': WEPBT
@@ -911,47 +911,47 @@ Snowdrop
 'her': HER
 'glass': TKPWHRAS
 'and': SKP
-'said:': SED STPH-FPLT
-''Tell': AE KPA/TEL
-'me,': PHE KW-BG
-'glass,': TKPWHRAS KW-BG
+'said:': SED/STPH-FPLT
+''Tell': AE/KPA/TEL
+'me,': PHE/KW-BG
+'glass,': TKPWHRAS/KW-BG
 'tell': TEL
 'me': PHE
-'true!': TRAOU SKHRAPL
+'true!': TRAOU/SKHRAPL
 'Of': KPA/-F
 'all': AUL
 'the': -T
 'ladies': HRAEUDZ
 'in': TPH
 'the': -T
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'Who': KPA/WHO
 'is': S
-'fairest,': TPAEUR/EFT KW-BG
+'fairest,': TPAEUR/EFT/KW-BG
 'tell': TEL
-'me,': PHE KW-BG
-'who?'': WHO H-F AE
+'me,': PHE/KW-BG
+'who?'': WHO/H-F/AE
 'And': AFPBD
 'the': -T
 'glass': TKPWHRAS
-'answered:': AEPBS/-D STPH-FPLT
-''Thou,': AE KPA/THO*U KW-BG
-'queen,': KWAOEPB KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Thou,': AE/KPA/THO*U/KW-BG
+'queen,': KWAOEPB/KW-BG
 'art': ART
 'the': -T
 'fairest': TPAEUR/EFT
 'in': TPH
 'all': AUL
 'this': TH
-'land:': HRAPBD STPH-FPLT
+'land:': HRAPBD/STPH-FPLT
 'But': KPA/PWUT
 'over': OEFR
 'the': -T
-'hills,': HEULS KW-BG
+'hills,': HEULS/KW-BG
 'in': TPH
 'the': -T
 'greenwood': TKPWRAOEPB/TK-LS/WAOD
-'shade,': SHAEUD KW-BG
+'shade,': SHAEUD/KW-BG
 'Where': KPA/W-R
 'the': -T
 'seven': SEFPB
@@ -959,29 +959,29 @@ Snowdrop
 'their': THAEUR
 'dwelling': TKWELG
 'have': SR
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'There': KPA/THR
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'is': S
 'hiding': HAOEUD/-G
 'her': HER
-'head;': HED STPH*FPLT
+'head;': HED/STPH*FPLT
 'and': SKP
 'she': SHE
 'Is': KPA/S
 'lovelier': xxx lovelier
-'far,': TPAR KW-BG
+'far,': TPAR/KW-BG
 'O': O*P
-'queen!': KWAOEPB SKHRAPL
+'queen!': KWAOEPB/SKHRAPL
 'than': THAPB
-'thee.'': THAOE TP-PL AE
+'thee.'': THAOE/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'queen': KWAOEPB
 'was': WAS
 'very': SRE
 'much': PHUFP
-'frightened;': TPRAOEUFPBD STPH*FPLT
+'frightened;': TPRAOEUFPBD/STPH*FPLT
 'for': TPOR
 'she': SHE
 'knew': TPHAOU
@@ -991,7 +991,7 @@ Snowdrop
 'always': AULS
 'spoke': SPOEBG
 'the': -T
-'truth,': TRAO*UT KW-BG
+'truth,': TRAO*UT/KW-BG
 'and': SKP
 'was': WAS
 'sure': SHUR
@@ -1000,7 +1000,7 @@ Snowdrop
 'servant': SEFRB/APBT
 'had': H
 'betrayed': PWE/TRAEUD
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'And': AFPBD
 'she': SHE
 'could': KO
@@ -1017,7 +1017,7 @@ Snowdrop
 'beautiful': PWAOUFL
 'than': THAPB
 'she': SHE
-'was;': WAS STPH*FPLT
+'was;': WAS/STPH*FPLT
 'so': SO
 'she': SHE
 'dressed': TKREFD
@@ -1026,69 +1026,69 @@ Snowdrop
 'as': AS
 'an': APB
 'old': OLD
-'pedlar,': xxx pedlar KW-BG
+'pedlar,': xxx pedlar/KW-BG
 'and': SKP
 'went': WEPBT
 'her': HER
 'way': WAEU
 'over': OEFR
 'the': -T
-'hills,': HEULS KW-BG
+'hills,': HEULS/KW-BG
 'to': TO
 'the': -T
 'place': PHRAEUS
 'where': W-R
 'the': -T
 'dwarfs': TKWAR/-FS
-'dwelt.': TKWELT TP-PL
+'dwelt.': TKWELT/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
-'cried,': KRAOEUD KW-BG
-''Fine': AE TPAO*EUPB
+'cried,': KRAOEUD/KW-BG
+''Fine': AE/TPAO*EUPB
 'wares': WAEURS
 'to': TO
-'sell!'': SEL SKHRAPL AE
+'sell!'': SEL/SKHRAPL/AE
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'looked': HRAOBGD
 'out': OUT
 'at': AT
 'the': -T
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Good': AE KPA/TKPWAOD
-'day,': TKAEU KW-BG
+'said,': SED/KW-BG
+''Good': AE/KPA/TKPWAOD
+'day,': TKAEU/KW-BG
 'good': TKPWAOD
-'woman!': WOPL SKHRAPL
+'woman!': WOPL/SKHRAPL
 'what': WHA
 'have': SR
 'you': U
 'to': TO
-'sell?'': SEL H-F AE
-''Good': AE KPA/TKPWAOD
-'wares,': WAEURS KW-BG
+'sell?'': SEL/H-F/AE
+''Good': AE/KPA/TKPWAOD
+'wares,': WAEURS/KW-BG
 'fine': TPAOEUPB
-'wares,'': WAEURS KW-BG AE
+'wares,'': WAEURS/KW-BG/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''laces': AE HRAEUS/-S
+'she;': SHE/STPH*FPLT
+''laces': AE/HRAEUS/-S
 'and': SKP
 'bobbins': PWOB/*EUPB/-S
 'of': -F
 'all': AUL
-'colours.'': KHRORS/A*U TP-PL AE
-''I': AE EU
+'colours.'': KHRORS/A*U/TP-PL/AE
+''I': AE/EU
 'will': HR
 'let': HRET
 'the': -T
 'old': OLD
 'lady': HRA*ED
-'in;': TPH STPH*FPLT
+'in;': TPH/STPH*FPLT
 'she': SHE
 'seems': SAOEPLS
 'to': TO
@@ -1098,9 +1098,9 @@ Snowdrop
 'good': TKPWAOD
 'sort': SORT
 'of': -F
-'body,'': PWO*ED KW-BG AE
+'body,'': PWO*ED/KW-BG/AE
 'thought': THAUT
-'Snowdrop,': KPA/STPHOE/TK-LS/TKROP KW-BG
+'Snowdrop,': KPA/STPHOE/TK-LS/TKROP/KW-BG
 'as': AS
 'she': SHE
 'ran': RAPB
@@ -1108,19 +1108,19 @@ Snowdrop
 'and': SKP
 'unbolted': UPB/PWOELT/-D
 'the': -T
-'door.': TKAOR TP-PL
-''Bless': AE KPA/PWHRES
-'me!'': PHE SKHRAPL AE
+'door.': TKAOR/TP-PL
+''Bless': AE/KPA/PWHRES
+'me!'': PHE/SKHRAPL/AE
 'said': SED
 'the': -T
 'old': OLD
-'woman,': WOPL KW-BG
-''how': AE HOU
+'woman,': WOPL/KW-BG
+''how': AE/HOU
 'badly': PWAD/HREU
 'your': KWROUR
 'stays': STAEUS
 'are': R
-'laced!': HRAEUS/-D SKHRAPL
+'laced!': HRAEUS/-D/SKHRAPL
 'Let': KPA/HRET
 'me': PHE
 'lace': HRAEUS
@@ -1132,39 +1132,39 @@ Snowdrop
 'my': PHEU
 'nice': TPHAOEUS
 'new': TPHU
-'laces.'': HRAEUS/-S TP-PL AE
+'laces.'': HRAEUS/-S/TP-PL/AE
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'did': TK
 'not': TPHOT
 'dream': TKRAOEPL
 'of': -F
 'any': TPHEU
-'mischief;': PHEUS/KHEF STPH*FPLT
+'mischief;': PHEUS/KHEF/STPH*FPLT
 'so': SO
 'she': SHE
 'stood': STAOD
 'before': PW-FR
 'the': -T
 'old': OLD
-'woman;': WOPL STPH*FPLT
+'woman;': WOPL/STPH*FPLT
 'but': PWUT
 'she': SHE
 'set': SET
 'to': TO
 'work': WORBG
 'so': SO
-'nimbly,': TPHEUPL/PWHREU KW-BG
+'nimbly,': TPHEUPL/PWHREU/KW-BG
 'and': SKP
 'pulled': PULD
 'the': -T
 'lace': HRAEUS
 'so': SO
-'tight,': TAOEUT KW-BG
+'tight,': TAOEUT/KW-BG
 'that': THA
-'Snowdrop's': KPA/STPHOE/TK-LS/TKROP AES
+'Snowdrop's': KPA/STPHOE/TK-LS/TKROP/AES
 'breath': PWR*ET
 'was': WAS
-'stopped,': STOPD KW-BG
+'stopped,': STOPD/KW-BG
 'and': SKP
 'she': SHE
 'fell': TPEL
@@ -1173,22 +1173,22 @@ Snowdrop
 'if': TP
 'she': SHE
 'were': WR
-'dead.': TKED TP-PL
-''There's': AE KPA/THR AES
+'dead.': TKED/TP-PL
+''There's': AE/KPA/THR/AES
 'an': APB
 'end': EPBD
 'to': TO
 'all': AUL
 'thy': THAO*EU
-'beauty,'': PWAOUT KW-BG AE
+'beauty,'': PWAOUT/KW-BG/AE
 'said': SED
 'the': -T
 'spiteful': SPAOEUT/-FL
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'and': SKP
 'went': WEPBT
 'away': WA*EU
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'In': KPA/TPH
 'the': -T
 'evening': AOEPBG
@@ -1196,7 +1196,7 @@ Snowdrop
 'seven': SEFPB
 'dwarfs': TKWAR/-FS
 'came': KAEUPL
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'and': SKP
 'I': EU
 'need': TPHAOED
@@ -1215,29 +1215,29 @@ Snowdrop
 'out': OUT
 'upon': POPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'as': AS
 'if': TP
 'she': SHE
 'was': WAS
 'quite': KWAOEUT
-'dead.': TKED TP-PL
-'However,': KPA/HOUF KW-BG
+'dead.': TKED/TP-PL
+'However,': KPA/HOUF/KW-BG
 'they': THE
 'lifted': HREUFTD
 'her': HER
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
 'found': TPOUPBD
 'what': WHA
 'ailed': AEUL/-D
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'they': THE
 'cut': KUT
 'the': -T
-'lace;': HRAEUS STPH*FPLT
+'lace;': HRAEUS/STPH*FPLT
 'and': SKP
 'in': TPH
 'a': AEU
@@ -1246,28 +1246,28 @@ Snowdrop
 'she': SHE
 'began': TKPWAPB
 'to': TO
-'breathe,': PWRAO*ET KW-BG
+'breathe,': PWRAO*ET/KW-BG
 'and': SKP
 'very': SRE
 'soon': SAOPB
 'came': KAEUPL
 'to': TO
 'life': HRAOEUF
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'Then': KPA/THEPB
 'they': THE
-'said,': SED KW-BG
-''The': AE KPA/-T
+'said,': SED/KW-BG
+''The': AE/KPA/-T
 'old': OLD
 'woman': WOPL
 'was': WAS
 'the': -T
 'queen': KWAOEPB
-'herself;': H*ERS STPH*FPLT
+'herself;': H*ERS/STPH*FPLT
 'take': TAEUBG
 'care': KAEUR
 'another': TPHOER
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'let': HRET
 'no': TPHO
@@ -1276,24 +1276,24 @@ Snowdrop
 'when': WHEPB
 'we': WE
 'are': R
-'away.'': WA*EU TP-PL AE
+'away.'': WA*EU/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'queen': KWAOEPB
 'got': TKPWOT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'she': SHE
 'went': WEPBT
 'straight': STRAEUT
 'to': TO
 'her': HER
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'and': SKP
 'spoke': SPOEBG
 'to': TO
 'it': T
 'as': AS
-'before;': PW-FR STPH*FPLT
+'before;': PW-FR/STPH*FPLT
 'but': PWUT
 'to': TO
 'her': HER
@@ -1301,24 +1301,24 @@ Snowdrop
 'grief': TKPWRAOEF
 'it': T
 'still': STEUL
-'said:': SED STPH-FPLT
-''Thou,': AE KPA/THO*U KW-BG
-'queen,': KWAOEPB KW-BG
+'said:': SED/STPH-FPLT
+''Thou,': AE/KPA/THO*U/KW-BG
+'queen,': KWAOEPB/KW-BG
 'art': ART
 'the': -T
 'fairest': TPAEUR/EFT
 'in': TPH
 'all': AUL
 'this': TH
-'land:': HRAPBD STPH-FPLT
+'land:': HRAPBD/STPH-FPLT
 'But': KPA/PWUT
 'over': OEFR
 'the': -T
-'hills,': HEULS KW-BG
+'hills,': HEULS/KW-BG
 'in': TPH
 'the': -T
 'greenwood': TKPWRAOEPB/TK-LS/WAOD
-'shade,': SHAEUD KW-BG
+'shade,': SHAEUD/KW-BG
 'Where': KPA/W-R
 'the': -T
 'seven': SEFPB
@@ -1326,22 +1326,22 @@ Snowdrop
 'their': THAEUR
 'dwelling': TKWELG
 'have': SR
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'There': KPA/THR
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'is': S
 'hiding': HAOEUD/-G
 'her': HER
-'head;': HED STPH*FPLT
+'head;': HED/STPH*FPLT
 'and': SKP
 'she': SHE
 'Is': KPA/S
 'lovelier': xxx lovelier
-'far,': TPAR KW-BG
+'far,': TPAR/KW-BG
 'O': O*P
-'queen!': KWAOEPB SKHRAPL
+'queen!': KWAOEPB/SKHRAPL
 'than': THAPB
-'thee.'': THAOE TP-PL AE
+'thee.'': THAOE/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'blood': PWHRAOD
@@ -1353,19 +1353,19 @@ Snowdrop
 'with': W
 'spite': SPAOEUT
 'and': SKP
-'malice,': PHAL/EUS KW-BG
+'malice,': PHAL/EUS/KW-BG
 'to': TO
 'see': SAOE
 'that': THA
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'still': STEUL
-'lived;': HREUFD STPH*FPLT
+'lived;': HREUFD/STPH*FPLT
 'and': SKP
 'she': SHE
 'dressed': TKREFD
 'herself': H*ERS
 'up': UP
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'but': PWUT
 'in': TPH
 'quite': KWAOEUT
@@ -1376,61 +1376,61 @@ Snowdrop
 'one': WUPB
 'she': SHE
 'wore': WOR
-'before,': PW-FR KW-BG
+'before,': PW-FR/KW-BG
 'and': SKP
 'took': TAOBG
 'with': W
 'her': HER
 'a': AEU
 'poisoned': POEUS/OPBD
-'comb.': KOEPL TP-PL
+'comb.': KOEPL/TP-PL
 'When': KPA/WHEPB
 'she': SHE
 'reached': RAOEFPD
 'the': -T
-'dwarfs'': TKWAR/-FS AE
-'cottage,': KOT/APBLG KW-BG
+'dwarfs'': TKWAR/-FS/AE
+'cottage,': KOT/APBLG/KW-BG
 'she': SHE
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
-'cried,': KRAOEUD KW-BG
-''Fine': AE TPAO*EUPB
+'cried,': KRAOEUD/KW-BG
+''Fine': AE/TPAO*EUPB
 'wares': WAEURS
 'to': TO
-'sell!'': SEL SKHRAPL AE
+'sell!'': SEL/SKHRAPL/AE
 'But': KPA/PWUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'dare': TKAEUR
 'not': TPHOT
 'let': HRET
 'anyone': TPHEUPB
-'in.'': TPH TP-PL AE
+'in.'': TPH/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'queen': KWAOEPB
-'said,': SED KW-BG
-''Only': AE KPA/OEPBL
+'said,': SED/KW-BG
+''Only': AE/KPA/OEPBL
 'look': HRAOBG
 'at': AT
 'my': PHEU
 'beautiful': PWAOUFL
-'combs!'': KOEPLS SKHRAPL AE
+'combs!'': KOEPLS/SKHRAPL/AE
 'and': SKP
 'gave': TKPWAEUF
 'her': HER
 'the': -T
 'poisoned': POEUS/OPBD
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'And': AFPBD
 'it': T
 'looked': HRAOBGD
 'so': SO
-'pretty,': PREUT KW-BG
+'pretty,': PREUT/KW-BG
 'that': THA
 'she': SHE
 'took': TAOBG
@@ -1444,14 +1444,14 @@ Snowdrop
 'hair': HAEUR
 'to': TO
 'try': TREU
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'but': PWUT
 'the': -T
 'moment': PHOEPLT
 'it': T
 'touched': TUFPD
 'her': HER
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'the': -T
 'poison': POEUGS
 'was': WAS
@@ -1461,18 +1461,18 @@ Snowdrop
 'she': SHE
 'fell': TPEL
 'down': TKOUPB
-'senseless.': SEPBS/-LS TP-PL
-''There': AE KPA/THR
+'senseless.': SEPBS/-LS/TP-PL
+''There': AE/KPA/THR
 'you': U
 'may': PHAE
-'lie,'': HRAOEU KW-BG AE
+'lie,'': HRAOEU/KW-BG/AE
 'said': SED
 'the': -T
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'and': SKP
 'went': WEPBT
 'her': HER
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'But': KPA/PWUT
 'by': PWEU
 'good': TKPWAOD
@@ -1484,7 +1484,7 @@ Snowdrop
 'very': SRE
 'early': ERL
 'that': THA
-'evening;': AOEPBG STPH*FPLT
+'evening;': AOEPBG/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -1493,18 +1493,18 @@ Snowdrop
 'lying': HRAOEUG
 'on': OPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'they': THE
 'thought': THAUT
 'what': WHA
 'had': H
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'and': SKP
 'soon': SAOPB
 'found': TPOUPBD
 'the': -T
 'poisoned': POEUS/OPBD
-'comb.': KOEPL TP-PL
+'comb.': KOEPL/TP-PL
 'And': AFPBD
 'when': WHEPB
 'they': THE
@@ -1513,14 +1513,14 @@ Snowdrop
 'away': WA*EU
 'she': SHE
 'got': TKPWOT
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'told': TOLD
 'them': THEPL
 'all': AUL
 'that': THA
 'had': H
-'passed;': PAFD STPH*FPLT
+'passed;': PAFD/STPH*FPLT
 'and': SKP
 'they': THE
 'warned': WARPBD
@@ -1533,7 +1533,7 @@ Snowdrop
 'the': -T
 'door': TKAOR
 'to': TO
-'anyone.': TPHEUPB TP-PL
+'anyone.': TPHEUPB/TP-PL
 'Meantime': KPA/PHAOEPB/TAO*EUPL
 'the': -T
 'queen': KWAOEPB
@@ -1541,7 +1541,7 @@ Snowdrop
 'home': HOEPL
 'to': TO
 'her': HER
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'and': SKP
 'shook': SHAOBG
 'with': W
@@ -1554,19 +1554,19 @@ Snowdrop
 'same': SAEUPL
 'answer': AEPBS
 'as': AS
-'before;': PW-FR STPH*FPLT
+'before;': PW-FR/STPH*FPLT
 'and': SKP
 'she': SHE
-'said,': SED KW-BG
-''Snowdrop': AE KPA/STPHOE/TK-LS/TKROP
+'said,': SED/KW-BG
+''Snowdrop': AE/KPA/STPHOE/TK-LS/TKROP
 'shall': SHAL
-'die,': TKAOEU KW-BG
+'die,': TKAOEU/KW-BG
 'if': TP
 'it': T
 'cost': KOFT
 'me': PHE
 'my': PHEU
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'So': KPA/SO
 'she': SHE
 'went': WEPBT
@@ -1574,20 +1574,20 @@ Snowdrop
 'herself': H*ERS
 'into': TPHAO
 'her': HER
-'chamber,': KHAEURPL KW-BG
+'chamber,': KHAEURPL/KW-BG
 'and': SKP
 'got': TKPWOT
 'ready': R-D
 'a': AEU
 'poisoned': POEUS/OPBD
-'apple:': A*EPL STPH-FPLT
+'apple:': A*EPL/STPH-FPLT
 'the': -T
 'outside': OUDZ
 'looked': HRAOBGD
 'very': SRE
 'rosy': ROEZ/SEU
 'and': SKP
-'tempting,': TEPLT/-G KW-BG
+'tempting,': TEPLT/-G/KW-BG
 'but': PWUT
 'whoever': WHOFR
 'tasted': TAEUFT/-D
@@ -1595,7 +1595,7 @@ Snowdrop
 'was': WAS
 'sure': SHUR
 'to': TO
-'die.': TKAOEU TP-PL
+'die.': TKAOEU/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'dressed': TKREFD
@@ -1603,8 +1603,8 @@ Snowdrop
 'up': UP
 'as': AS
 'a': AEU
-'peasant's': PEFPBT AES
-'wife,': WAOEUF KW-BG
+'peasant's': PEFPBT/AES
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'travelled': TRAFL/*LD
 'over': OEFR
@@ -1612,13 +1612,13 @@ Snowdrop
 'hills': HEULS
 'to': TO
 'the': -T
-'dwarfs'': TKWAR/-FS AE
-'cottage,': KOT/APBLG KW-BG
+'dwarfs'': TKWAR/-FS/AE
+'cottage,': KOT/APBLG/KW-BG
 'and': SKP
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'door;': TKAOR STPH*FPLT
+'door;': TKAOR/STPH*FPLT
 'but': PWUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'put': PUT
@@ -1629,78 +1629,78 @@ Snowdrop
 'the': -T
 'window': WOEUPBD
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'dare': TKAEUR
 'not': TPHOT
 'let': HRET
 'anyone': TPHEUPB
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'for': TPOR
 'the': -T
 'dwarfs': TKWAR/-FS
 'have': SR
 'told': TOLD
 'me': PHE
-'not.'': TPHOT TP-PL AE
-''Do': AE KPA/TKO
+'not.'': TPHOT/TP-PL/AE
+''Do': AE/KPA/TKO
 'as': AS
 'you': U
-'please,'': PHRES KW-BG AE
+'please,'': PHRES/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'woman,': WOPL KW-BG
-''but': AE PWUT
+'woman,': WOPL/KW-BG
+''but': AE/PWUT
 'at': AT
 'any': TPHEU
 'rate': RAEUT
 'take': TAEUBG
 'this': TH
 'pretty': PREUT
-'apple;': A*EPL STPH*FPLT
+'apple;': A*EPL/STPH*FPLT
 'I': EU
 'will': HR
 'give': TKPWEUF
 'it': T
-'you.'': U TP-PL AE
-''No,'': AE KPA/TPHO KW-BG AE
+'you.'': U/TP-PL/AE
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'said': SED
-'Snowdrop,': KPA/STPHOE/TK-LS/TKROP KW-BG
-''I': AE EU
+'Snowdrop,': KPA/STPHOE/TK-LS/TKROP/KW-BG
+''I': AE/EU
 'dare': TKAEUR
 'not': TPHOT
 'take': TAEUBG
-'it.'': T TP-PL AE
-''You': AE KPA/U
+'it.'': T/TP-PL/AE
+''You': AE/KPA/U
 'silly': SHREU
-'girl!'': TKPWEURL SKHRAPL AE
+'girl!'': TKPWEURL/SKHRAPL/AE
 'answered': AEPBS/-D
 'the': -T
-'other,': OER KW-BG
-''what': AE WHA
+'other,': OER/KW-BG
+''what': AE/WHA
 'are': R
 'you': U
 'afraid': A/TPRAEUD
-'of?': -F H-F
+'of?': -F/H-F
 'Do': KPA/TKO
 'you': U
 'think': THEU
 'it': T
 'is': S
-'poisoned?': POEUS/OPBD H-F
-'Come!': KPA/KOPL SKHRAPL
+'poisoned?': POEUS/OPBD/H-F
+'Come!': KPA/KOPL/SKHRAPL
 'do': TKO
 'you': U
 'eat': AOET
 'one': WUPB
-'part,': PART KW-BG
+'part,': PART/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'eat': AOET
 'the': -T
-'other.'': OER TP-PL AE
+'other.'': OER/TP-PL/AE
 'Now': KPA/TPHOU
 'the': -T
 'apple': A*EPL
@@ -1712,27 +1712,27 @@ Snowdrop
 'one': WUPB
 'side': SAOEUD
 'was': WAS
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'though': THOE
 'the': -T
 'other': OER
 'side': SAOEUD
 'was': WAS
-'poisoned.': POEUS/OPBD TP-PL
+'poisoned.': POEUS/OPBD/TP-PL
 'Then': KPA/THEPB
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'was': WAS
 'much': PHUFP
 'tempted': TEPLT/-D
 'to': TO
-'taste,': TAEUFT KW-BG
+'taste,': TAEUFT/KW-BG
 'for': TPOR
 'the': -T
 'apple': A*EPL
 'looked': HRAOBGD
 'so': SO
 'very': SRE
-'nice;': TPHAOEUS STPH*FPLT
+'nice;': TPHAOEUS/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -1740,12 +1740,12 @@ Snowdrop
 'the': -T
 'old': OLD
 'woman': WOPL
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'she': SHE
 'could': KO
 'wait': WAEUT
 'no': TPHO
-'longer.': HRORPBG TP-PL
+'longer.': HRORPBG/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'had': H
@@ -1755,7 +1755,7 @@ Snowdrop
 'piece': PAOES
 'into': TPHAO
 'her': HER
-'mouth,': PHO*UT KW-BG
+'mouth,': PHO*UT/KW-BG
 'when': WHEPB
 'she': SHE
 'fell': TPEL
@@ -1763,44 +1763,44 @@ Snowdrop
 'dead': TKED
 'upon': POPB
 'the': -T
-'ground.': TKPWROUPBD TP-PL
-''This': AE KPA/TH
+'ground.': TKPWROUPBD/TP-PL
+''This': AE/KPA/TH
 'time': TAOEUPL
 'nothing': TPHOG
 'will': HR
 'save': SAF
-'thee,'': THAOE KW-BG AE
+'thee,'': THAOE/KW-BG/AE
 'said': SED
 'the': -T
-'queen;': KWAOEPB STPH*FPLT
+'queen;': KWAOEPB/STPH*FPLT
 'and': SKP
 'she': SHE
 'went': WEPBT
 'home': HOEPL
 'to': TO
 'her': HER
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
 'it': T
-'said:': SED STPH-FPLT
-''Thou,': AE KPA/THO*U KW-BG
-'queen,': KWAOEPB KW-BG
+'said:': SED/STPH-FPLT
+''Thou,': AE/KPA/THO*U/KW-BG
+'queen,': KWAOEPB/KW-BG
 'art': ART
 'the': -T
 'fairest': TPAEUR/EFT
 'of': -F
 'all': AUL
 'the': -T
-'fair.'': TPAEUR TP-PL AE
+'fair.'': TPAEUR/TP-PL/AE
 'And': AFPBD
 'then': THEPB
 'her': HER
 'wicked': WEUBGD
 'heart': HART
 'was': WAS
-'glad,': TKPWHRAD KW-BG
+'glad,': TKPWHRAD/KW-BG
 'and': SKP
 'as': AS
 'happy': HAEP
@@ -1809,29 +1809,29 @@ Snowdrop
 'a': AEU
 'heart': HART
 'could': KO
-'be.': -B TP-PL
+'be.': -B/TP-PL
 'When': KPA/WHEPB
 'evening': AOEPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'the': -T
 'dwarfs': TKWAR/-FS
 'had': H
 'gone': TKPWOPB
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'they': THE
 'found': TPOUPBD
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'lying': HRAOEUG
 'on': OPB
 'the': -T
-'ground:': TKPWROUPBD STPH-FPLT
+'ground:': TKPWROUPBD/STPH-FPLT
 'no': TPHO
 'breath': PWR*ET
 'came': KAEUPL
 'from': TPR
 'her': HER
-'lips,': HREUPS KW-BG
+'lips,': HREUPS/KW-BG
 'and': SKP
 'they': THE
 'were': WR
@@ -1840,15 +1840,15 @@ Snowdrop
 'she': SHE
 'was': WAS
 'quite': KWAOEUT
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'They': KPA/THE
 'lifted': HREUFTD
 'her': HER
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'combed': KOEPLD
 'her': HER
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'and': SKP
 'washed': WARBD
 'her': HER
@@ -1856,19 +1856,19 @@ Snowdrop
 'with': W
 'wine': WAOEUPB
 'and': SKP
-'water;': WAUR STPH*FPLT
+'water;': WAUR/STPH*FPLT
 'but': PWUT
 'all': AUL
 'was': WAS
 'in': TPH
-'vain,': SRA*EUPB KW-BG
+'vain,': SRA*EUPB/KW-BG
 'for': TPOR
 'the': -T
 'little': HREUL
 'girl': TKPWEURL
 'seemed': SAOEPLD
 'quite': KWAOEUT
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'So': KPA/SO
 'they': THE
 'laid': HRAEUD
@@ -1876,7 +1876,7 @@ Snowdrop
 'down': TKOUPB
 'upon': POPB
 'a': AEU
-'bier,': PWEUR KW-BG
+'bier,': PWEUR/KW-BG
 'and': SKP
 'all': AUL
 'seven': SEFPB
@@ -1886,7 +1886,7 @@ Snowdrop
 'her': HER
 'three': THRAOE
 'whole': WHOEL
-'days;': TKAEUS STPH*FPLT
+'days;': TKAEUS/STPH*FPLT
 'and': SKP
 'then': THEPB
 'they': THE
@@ -1894,13 +1894,13 @@ Snowdrop
 'they': THE
 'would': WO
 'bury': PWUR/REU
-'her:': HER STPH-FPLT
+'her:': HER/STPH-FPLT
 'but': PWUT
 'her': HER
 'cheeks': KHAOEBGS
 'were': WR
 'still': STEUL
-'rosy;': ROEZ/SEU STPH*FPLT
+'rosy;': ROEZ/SEU/STPH*FPLT
 'and': SKP
 'her': HER
 'face': TPAEUS
@@ -1912,11 +1912,11 @@ Snowdrop
 'while': WHAOEUL
 'she': SHE
 'was': WAS
-'alive;': A/HRAOEUF STPH*FPLT
+'alive;': A/HRAOEUF/STPH*FPLT
 'so': SO
 'they': THE
-'said,': SED KW-BG
-''We': AE KPA/WE
+'said,': SED/KW-BG
+''We': AE/KPA/WE
 'will': HR
 'never': TPHEFR
 'bury': PWUR/REU
@@ -1924,14 +1924,14 @@ Snowdrop
 'in': TPH
 'the': -T
 'cold': KOELD
-'ground.'': TKPWROUPBD TP-PL AE
+'ground.'': TKPWROUPBD/TP-PL/AE
 'And': AFPBD
 'they': THE
 'made': PHAED
 'a': AEU
 'coffin': KOFPB
 'of': -F
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'so': SO
 'that': THA
 'they': THE
@@ -1939,7 +1939,7 @@ Snowdrop
 'still': STEUL
 'look': HRAOBG
 'at': AT
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'wrote': WRO
 'upon': POPB
@@ -1950,14 +1950,14 @@ Snowdrop
 'what': WHA
 'her': HER
 'name': TPHAEUPL
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'and': SKP
 'that': THA
 'she': SHE
 'was': WAS
 'a': AEU
 'king's': KEUPBG/AES
-'daughter.': TKAUR TP-PL
+'daughter.': TKAUR/TP-PL
 'And': AFPBD
 'the': -T
 'coffin': KOFPB
@@ -1965,7 +1965,7 @@ Snowdrop
 'set': SET
 'among': PHOPBG
 'the': -T
-'hills,': HEULS KW-BG
+'hills,': HEULS/KW-BG
 'and': SKP
 'one': WUPB
 'of': -F
@@ -1976,7 +1976,7 @@ Snowdrop
 'by': PWEU
 'it': T
 'and': SKP
-'watched.': WAFPD TP-PL
+'watched.': WAFPD/TP-PL
 'And': AFPBD
 'the': -T
 'birds': PWEURDZ
@@ -1984,40 +1984,40 @@ Snowdrop
 'the': -T
 'air': AEUR
 'came': KAEUPL
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'and': SKP
 'bemoaned': PWE/PHOEPB/-D
-'Snowdrop;': KPA/STPHOE/TK-LS/TKROP STPH*FPLT
+'Snowdrop;': KPA/STPHOE/TK-LS/TKROP/STPH*FPLT
 'and': SKP
 'first': TPEUFRT
 'of': -F
 'all': AUL
 'came': KAEUPL
 'an': APB
-'owl,': OUL KW-BG
+'owl,': OUL/KW-BG
 'and': SKP
 'then': THEPB
 'a': AEU
-'raven,': RAFPB KW-BG
+'raven,': RAFPB/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
 'a': AEU
-'dove,': TKOF KW-BG
+'dove,': TKOF/KW-BG
 'and': SKP
 'sat': SAT
 'by': PWEU
 'her': HER
-'side.': SAOEUD TP-PL
+'side.': SAOEUD/TP-PL
 'And': AFPBD
 'thus': THUS
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'lay': HRAEU
 'for': TPOR
 'a': AEU
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'still': STEUL
 'only': OEPBL
@@ -2026,7 +2026,7 @@ Snowdrop
 'though': THOE
 'she': SHE
 'was': WAS
-'asleep;': A/SHRAOEP STPH*FPLT
+'asleep;': A/SHRAOEP/STPH*FPLT
 'for': TPOR
 'she': SHE
 'was': WAS
@@ -2035,17 +2035,17 @@ Snowdrop
 'as': AS
 'white': WHAOEUT
 'as': AS
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'and': SKP
 'as': AS
 'red': RED
 'as': AS
-'blood,': PWHRAOD KW-BG
+'blood,': PWHRAOD/KW-BG
 'and': SKP
 'as': AS
 'black': PWHRABG
 'as': AS
-'ebony.': EB/TPHEU TP-PL
+'ebony.': EB/TPHEU/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'a': AEU
@@ -2055,12 +2055,12 @@ Snowdrop
 'called': KAULD
 'at': AT
 'the': -T
-'dwarfs'': TKWAR/-FS AE
-'house;': HOUS STPH*FPLT
+'dwarfs'': TKWAR/-FS/AE
+'house;': HOUS/STPH*FPLT
 'and': SKP
 'he': HE
 'saw': SAU
-'Snowdrop,': KPA/STPHOE/TK-LS/TKROP KW-BG
+'Snowdrop,': KPA/STPHOE/TK-LS/TKROP/KW-BG
 'and': SKP
 'read': RAED
 'what': WHA
@@ -2068,13 +2068,13 @@ Snowdrop
 'written': WREUPB
 'in': TPH
 'golden': TKPWOELD/*EPB
-'letters.': HRERTS TP-PL
+'letters.': HRERTS/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'offered': OFRD
 'the': -T
 'dwarfs': TKWAR/-FS
-'money,': PHUPB KW-BG
+'money,': PHUPB/KW-BG
 'and': SKP
 'prayed': PRAEUD
 'and': SKP
@@ -2085,11 +2085,11 @@ Snowdrop
 'him': HEUPL
 'take': TAEUBG
 'her': HER
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'but': PWUT
 'they': THE
-'said,': SED KW-BG
-''We': AE KPA/WE
+'said,': SED/KW-BG
+''We': AE/KPA/WE
 'will': HR
 'not': TPHOT
 'part': PART
@@ -2101,20 +2101,20 @@ Snowdrop
 'gold': TKPWOELD
 'in': TPH
 'the': -T
-'world.'': WORLD TP-PL AE
+'world.'': WORLD/TP-PL/AE
 'At': KPA/AT
-'last,': HRAFT KW-BG
-'however,': HOUF KW-BG
+'last,': HRAFT/KW-BG
+'however,': HOUF/KW-BG
 'they': THE
 'had': H
 'pity': PEUT/TEU
 'on': OPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'him': HEUPL
 'the': -T
-'coffin;': KOFPB STPH*FPLT
+'coffin;': KOFPB/STPH*FPLT
 'but': PWUT
 'the': -T
 'moment': PHOEPLT
@@ -2127,7 +2127,7 @@ Snowdrop
 'it': T
 'home': HOEPL
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'the': -T
 'piece': PAOES
 'of': -F
@@ -2136,25 +2136,25 @@ Snowdrop
 'from': TPR
 'between': TWAOEPB
 'her': HER
-'lips,': HREUPS KW-BG
+'lips,': HREUPS/KW-BG
 'and': SKP
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Where': AE KPA/W-R
+'said,': SED/KW-BG
+''Where': AE/KPA/W-R
 'am': APL
-'I?'': EU H-F AE
+'I?'': EU/H-F/AE
 'And': AFPBD
 'the': -T
 'prince': PREUPBS
-'said,': SED KW-BG
-''Thou': AE KPA/THO*U
+'said,': SED/KW-BG
+''Thou': AE/KPA/THO*U
 'art': ART
 'quite': KWAOEUT
 'safe': SAEUF
 'with': W
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'told': TOLD
@@ -2162,10 +2162,10 @@ Snowdrop
 'all': AUL
 'that': THA
 'had': H
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'love': HRUF
 'you': U
 'far': TPAR
@@ -2173,7 +2173,7 @@ Snowdrop
 'than': THAPB
 'all': AUL
 'the': -T
-'world;': WORLD STPH*FPLT
+'world;': WORLD/STPH*FPLT
 'so': SO
 'come': KOPL
 'with': W
@@ -2181,22 +2181,22 @@ Snowdrop
 'to': TO
 'my': PHEU
 'father's': TPAER/AES
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'and': SKP
 'you': U
 'shall': SHAL
 'be': -B
 'my': PHEU
-'wife.'': WAOEUF TP-PL AE
+'wife.'': WAOEUF/TP-PL/AE
 'And': AFPBD
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
-'consented,': KEFPBT/-D KW-BG
+'consented,': KEFPBT/-D/KW-BG
 'and': SKP
 'went': WEPBT
 'home': HOEPL
 'with': W
 'the': -T
-'prince;': PREUPBS STPH*FPLT
+'prince;': PREUPBS/STPH*FPLT
 'and': SKP
 'everything': EFRG
 'was': WAS
@@ -2209,20 +2209,20 @@ Snowdrop
 'splendour': SHREPBD/O*R/A*U
 'for': TPOR
 'their': THAEUR
-'wedding.': WEGD TP-PL
+'wedding.': WEGD/TP-PL
 'To': KPA/TO
 'the': -T
 'feast': TPAOEFT
 'was': WAS
-'asked,': SK-D KW-BG
+'asked,': SK-D/KW-BG
 'among': PHOPBG
 'the': -T
-'rest,': REFT KW-BG
-'Snowdrop's': KPA/STPHOE/TK-LS/TKROP AES
+'rest,': REFT/KW-BG
+'Snowdrop's': KPA/STPHOE/TK-LS/TKROP/AES
 'old': OLD
 'enemy': TPHAEPL
 'the': -T
-'queen;': KWAOEPB STPH*FPLT
+'queen;': KWAOEPB/STPH*FPLT
 'and': SKP
 'as': AS
 'she': SHE
@@ -2232,51 +2232,51 @@ Snowdrop
 'in': TPH
 'fine': TPAOEUPB
 'rich': REUFP
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'she': SHE
 'looked': HRAOBGD
 'in': TPH
 'the': -T
 'glass': TKPWHRAS
 'and': SKP
-'said:': SED STPH-FPLT
-''Tell': AE KPA/TEL
-'me,': PHE KW-BG
-'glass,': TKPWHRAS KW-BG
+'said:': SED/STPH-FPLT
+''Tell': AE/KPA/TEL
+'me,': PHE/KW-BG
+'glass,': TKPWHRAS/KW-BG
 'tell': TEL
 'me': PHE
-'true!': TRAOU SKHRAPL
+'true!': TRAOU/SKHRAPL
 'Of': KPA/-F
 'all': AUL
 'the': -T
 'ladies': HRAEUDZ
 'in': TPH
 'the': -T
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'Who': KPA/WHO
 'is': S
-'fairest,': TPAEUR/EFT KW-BG
+'fairest,': TPAEUR/EFT/KW-BG
 'tell': TEL
-'me,': PHE KW-BG
-'who?'': WHO H-F AE
+'me,': PHE/KW-BG
+'who?'': WHO/H-F/AE
 'And': AFPBD
 'the': -T
 'glass': TKPWHRAS
-'answered:': AEPBS/-D STPH-FPLT
-''Thou,': AE KPA/THO*U KW-BG
-'lady,': HRA*ED KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Thou,': AE/KPA/THO*U/KW-BG
+'lady,': HRA*ED/KW-BG
 'art': ART
 'loveliest': HROFL/KWREFT
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'I': EU
-'ween;': WE/*EPB STPH*FPLT
+'ween;': WE/*EPB/STPH*FPLT
 'But': KPA/PWUT
 'lovelier': xxx lovelier
 'far': TPAR
 'is': S
 'the': -T
-'new-made': TPHU H-PB PHAED
-'queen.'': KWAOEPB TP-PL AE
+'new-made': TPHU/H-PB/PHAED
+'queen.'': KWAOEPB/TP-PL/AE
 'When': KPA/WHEPB
 'she': SHE
 'heard': HAERD
@@ -2284,7 +2284,7 @@ Snowdrop
 'she': SHE
 'started': STARTD
 'with': W
-'rage;': RAEUPBLG STPH*FPLT
+'rage;': RAEUPBLG/STPH*FPLT
 'but': PWUT
 'her': HER
 'envy': EPB/SREU
@@ -2292,7 +2292,7 @@ Snowdrop
 'curiosity': KAOURS/TEU
 'were': WR
 'so': SO
-'great,': TKPWRAET KW-BG
+'great,': TKPWRAET/KW-BG
 'that': THA
 'she': SHE
 'could': KO
@@ -2303,12 +2303,12 @@ Snowdrop
 'to': TO
 'see': SAOE
 'the': -T
-'bride.': PWRAOEUD TP-PL
+'bride.': PWRAOEUD/TP-PL
 'And': AFPBD
 'when': WHEPB
 'she': SHE
 'got': TKPWOT
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'saw': SAU
 'that': THA
@@ -2317,26 +2317,26 @@ Snowdrop
 'no': TPHO
 'other': OER
 'than': THAPB
-'Snowdrop,': KPA/STPHOE/TK-LS/TKROP KW-BG
-'who,': WHO KW-BG
+'Snowdrop,': KPA/STPHOE/TK-LS/TKROP/KW-BG
+'who,': WHO/KW-BG
 'as': AS
 'she': SHE
-'thought,': THAUT KW-BG
+'thought,': THAUT/KW-BG
 'had': H
 'been': PW-PB
 'dead': TKED
 'a': AEU
 'long': HROPBG
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'she': SHE
 'choked': KHOEBGD
 'with': W
-'rage,': RAEUPBLG KW-BG
+'rage,': RAEUPBLG/KW-BG
 'and': SKP
 'fell': TPEL
 'down': TKOUPB
 'and': SKP
-'died:': TKAOEUD STPH-FPLT
+'died:': TKAOEUD/STPH-FPLT
 'but': PWUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'and': SKP
@@ -2349,9 +2349,9 @@ Snowdrop
 'over': OEFR
 'that': THA
 'land': HRAPBD
-'many,': PHAEPB KW-BG
+'many,': PHAEPB/KW-BG
 'many': PHAEPB
-'years;': KWRAOERS STPH*FPLT
+'years;': KWRAOERS/STPH*FPLT
 'and': SKP
 'sometimes': STAOEUPLS
 'they': THE
@@ -2359,7 +2359,7 @@ Snowdrop
 'up': UP
 'into': TPHAO
 'the': -T
-'mountains,': PHOUPB/TAEUPBS KW-BG
+'mountains,': PHOUPB/TAEUPBS/KW-BG
 'and': SKP
 'paid': PAEUD
 'a': AEU
@@ -2367,7 +2367,7 @@ Snowdrop
 'to': TO
 'the': -T
 'little': HREUL
-'dwarfs,': TKWAR/-FS KW-BG
+'dwarfs,': TKWAR/-FS/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
@@ -2379,4 +2379,4 @@ Snowdrop
 'her': HER
 'time': TAOEUPL
 'of': -F
-'need.': TPHAOED TP-PL
+'need.': TPHAOED/TP-PL

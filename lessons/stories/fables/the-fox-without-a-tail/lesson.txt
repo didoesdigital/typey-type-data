@@ -10,7 +10,7 @@ The Fox Without a Tail
 'tail': TAEUL
 'in': TPH
 'a': AEU
-'trap,': TRAP KW-BG
+'trap,': TRAP/KW-BG
 'and': SKP
 'in': TPH
 'struggling': STRUG/-LG
@@ -23,7 +23,7 @@ The Fox Without a Tail
 'it': T
 'but': PWUT
 'the': -T
-'stump.': STUFRP TP-PL
+'stump.': STUFRP/TP-PL
 'At': KPA/AT
 'first': TPEUFRT
 'he': HE
@@ -35,7 +35,7 @@ The Fox Without a Tail
 'among': PHOPBG
 'his': HEUS
 'fellow': TP*EL
-'foxes.': TPOBGS/-S TP-PL
+'foxes.': TPOBGS/-S/TP-PL
 'But': KPA/PWUT
 'at': AT
 'last': HRAFT
@@ -48,7 +48,7 @@ The Fox Without a Tail
 'face': TPAEUS
 'upon': POPB
 'his': HEUS
-'misfortune,': PHEUZ/TP-RPB KW-BG
+'misfortune,': PHEUZ/TP-RPB/KW-BG
 'and': SKP
 'summoned': SPHUPBD
 'all': AUL
@@ -68,7 +68,7 @@ The Fox Without a Tail
 'to': TO
 'place': PHRAEUS
 'before': PW-FR
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'had': H
@@ -85,7 +85,7 @@ The Fox Without a Tail
 'away': WA*EU
 'with': W
 'their': THAEUR
-'tails.': TAEULS TP-PL
+'tails.': TAEULS/TP-PL
 'He': KPA/HE
 'pointed': POEUPBTD
 'out': OUT
@@ -100,9 +100,9 @@ The Fox Without a Tail
 'pursued': PUR/SAOUD
 'by': PWEU
 'their': THAEUR
-'enemies,': TPHAEPLS KW-BG
+'enemies,': TPHAEPLS/KW-BG
 'the': -T
-'dogs;': TKOGS STPH*FPLT
+'dogs;': TKOGS/STPH*FPLT
 'how': HOU
 'much': PHUFP
 'it': T
@@ -123,7 +123,7 @@ The Fox Without a Tail
 'conversation': K-FRGS
 'with': W
 'one': WUPB
-'another.': TPHOER TP-PL
+'another.': TPHOER/TP-PL
 'He': KPA/HE
 'failed': TPAEULD
 'to': TO
@@ -136,19 +136,19 @@ The Fox Without a Tail
 'such': SUFP
 'a': AEU
 'useless': AOUFLS
-'encumbrance.': EPB/KUPL/PWRAPBS TP-PL
-'"That': KR-GS KPA/THA
+'encumbrance.': EPB/KUPL/PWRAPBS/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'all': AUL
 'very': SRE
-'well,"': WEL KW-BG KR-GS
+'well,"': WEL/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
 'older': OERLD
-'foxes;': TPOBGS/-S STPH*FPLT
-'"but': KR-GS PWUT
+'foxes;': TPOBGS/-S/STPH*FPLT
+'"but': KR-GS/PWUT
 'I': EU
 'do': TKO
 'not': TPHOT
@@ -172,7 +172,7 @@ The Fox Without a Tail
 'to': TO
 'lose': HRUZ
 'it': T
-'yourself."': KWRO*URS TP-PL KR-GS
+'yourself."': KWRO*URS/TP-PL/KR-GS
 'Distrust': KPA/TKEUS/TRUFT
 'interested': TR-D
-'advice.': SREUS TP-PL
+'advice.': SREUS/TP-PL

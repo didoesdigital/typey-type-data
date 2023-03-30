@@ -5,7 +5,7 @@ The Flax
 'was': WAS
 'in': TPH
 'full': TPUL
-'bloom;': PWHRAOPL STPH*FPLT
+'bloom;': PWHRAOPL/STPH*FPLT
 'it': T
 'had': H
 'pretty': PREUT
@@ -19,19 +19,19 @@ The Flax
 'wings': WEUPBGS
 'of': -F
 'a': AEU
-'moth,': PHO*T KW-BG
+'moth,': PHO*T/KW-BG
 'or': OR
 'even': AOEPB
 'more': PHOR
-'so.': SO TP-PL
+'so.': SO/TP-PL
 'The': KPA/-T
 'sun': SUPB
-'shone,': SHO*EPB KW-BG
+'shone,': SHO*EPB/KW-BG
 'and': SKP
 'the': -T
 'showers': SHOURS
 'watered': WAURD
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'this': TH
 'was': WAS
@@ -55,29 +55,29 @@ The Flax
 'kissed': K*EUFD
 'by': PWEU
 'their': THAEUR
-'mother.': PHOER TP-PL
+'mother.': PHOER/TP-PL
 'They': KPA/THE
 'look': HRAOBG
 'much': PHUFP
 'prettier': PRET/KWRER
 'for': TPOR
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'so': SO
 'did': TK
 'the': -T
-'flax.': TPHRA*BGS TP-PL
-'"People': KR-GS KPA/PAOEPL
+'flax.': TPHRA*BGS/TP-PL
+'"People': KR-GS/KPA/PAOEPL
 'say': SAEU
 'that': THA
 'I': EU
 'look': HRAOBG
 'exceedingly': EBGS/AOED/TKPWHREU
-'well,"': WEL KW-BG KR-GS
+'well,"': WEL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'flax,': TPHRA*BGS KW-BG
-'"and': KR-GS SKP
+'flax,': TPHRA*BGS/KW-BG
+'"and': KR-GS/SKP
 'that': THA
 'I': EU
 'am': APL
@@ -93,16 +93,16 @@ The Flax
 'beautiful': PWAOUFL
 'piece': PAOES
 'of': -F
-'linen.': HREUPB/-PB TP-PL
+'linen.': HREUPB/-PB/TP-PL
 'How': KPA/HOU
 'fortunate': TP-RPBT
 'I': EU
-'am;': APL STPH*FPLT
+'am;': APL/STPH*FPLT
 'it': T
 'makes': PHAEUBGS
 'me': PHE
 'so': SO
-'happy,': HAEP KW-BG
+'happy,': HAEP/KW-BG
 'it': T
 'is': S
 'such': SUFP
@@ -117,12 +117,12 @@ The Flax
 'be': -B
 'made': PHAED
 'of': -F
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'How': KPA/HOU
 'the': -T
 'sunshine': SUPB/SHAO*EUPB
 'cheers': KHAOERS
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'how': HOU
 'sweet': SWAOET
@@ -130,11 +130,11 @@ The Flax
 'refreshing': RE/TPRERB/-G
 'is': S
 'the': -T
-'rain;': RAEUPB STPH*FPLT
+'rain;': RAEUPB/STPH*FPLT
 'my': PHEU
 'happiness': HAEP/-PBS
 'overpowers': AUFR/POUR/-S
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'no': TPHO
 'one': WUPB
 'in': TPH
@@ -145,15 +145,15 @@ The Flax
 'happier': HAP/KWRER
 'than': THAPB
 'I': EU
-'am."': APL TP-PL KR-GS
-'"Ah,': KR-GS KPA/HA*E KW-BG
-'yes,': KWRE KW-BG
+'am."': APL/TP-PL/KR-GS
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'yes,': KWRE/KW-BG
 'no': TPHO
-'doubt,"': TKOUT KW-BG KR-GS
+'doubt,"': TKOUT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'fern,': TPERPB KW-BG
-'"but': KR-GS PWUT
+'fern,': TPERPB/KW-BG
+'"but': KR-GS/PWUT
 'you': U
 'do': TKO
 'not': TPHOT
@@ -170,45 +170,45 @@ The Flax
 'my': PHEU
 'sticks': STEUBGS
 'are': R
-'knotty;"': TPHOT/TEU STPH*FPLT KR-GS
+'knotty;"': TPHOT/TEU/STPH*FPLT/KR-GS
 'and': SKP
 'then': THEPB
 'it': T
 'sung': SUPBG
 'quite': KWAOEUT
-'mournfully—': PHOURPB/TPHREU EPL/TKA*RB
-'"Snip,': KR-GS KPA/STPHEUP KW-BG
-'snap,': STPHAP KW-BG
-'snurre,': xxx snurre KW-BG
+'mournfully—': PHOURPB/TPHREU/EPL/TKA*RB
+'"Snip,': KR-GS/KPA/STPHEUP/KW-BG
+'snap,': STPHAP/KW-BG
+'snurre,': xxx snurre/KW-BG
 'Basse': xxx Basse
-'lurre:': xxx lurre STPH-FPLT
+'lurre:': xxx lurre/STPH-FPLT
 'The': KPA/-T
 'song': SOPBG
 'is': S
-'ended."': EPBD/-D TP-PL KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
+'ended."': EPBD/-D/TP-PL/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
 'it': T
 'is': S
 'not': TPHOT
-'ended,"': EPBD/-D KW-BG KR-GS
+'ended,"': EPBD/-D/KW-BG/KR-GS
 'said': SED
 'the': -T
-'flax.': TPHRA*BGS TP-PL
-'"To-morrow': KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE
+'flax.': TPHRA*BGS/TP-PL
+'"To-morrow': KR-GS/KPA/TO/H-PB/HRO*ER/PHOR/ROE
 'the': -T
 'sun': SUPB
 'will': HR
-'shine,': SHAOEUPB KW-BG
+'shine,': SHAOEUPB/KW-BG
 'or': OR
 'the': -T
 'rain': RAEUPB
-'descend.': TKE/SEPBD TP-PL
+'descend.': TKE/SEPBD/TP-PL
 'I': EU
 'feel': TPAOEL
 'that': THA
 'I': EU
 'am': APL
-'growing.': TKPWROEG TP-PL
+'growing.': TKPWROEG/TP-PL
 'I': EU
 'feel': TPAOEL
 'that': THA
@@ -216,36 +216,36 @@ The Flax
 'am': APL
 'in': TPH
 'full': TPUL
-'blossom.': PWHROFPL TP-PL
+'blossom.': PWHROFPL/TP-PL
 'I': EU
 'am': APL
 'the': -T
 'happiest': HAP/KWREFT
 'of': -F
 'all': AUL
-'creatures."': KRAOEFPS TP-PL KR-GS
-'Well,': KPA/WEL KW-BG
+'creatures."': KRAOEFPS/TP-PL/KR-GS
+'Well,': KPA/WEL/KW-BG
 'one': WUPB
 'day': TKAEU
 'some': SOPL
 'people': PAOEPL
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'who': WHO
 'took': TAOBG
 'hold': HOLD
 'of': -F
 'the': -T
-'flax,': TPHRA*BGS KW-BG
+'flax,': TPHRA*BGS/KW-BG
 'and': SKP
 'pulled': PULD
 'it': T
 'up': UP
 'by': PWEU
 'the': -T
-'roots;': RAOTS STPH*FPLT
+'roots;': RAOTS/STPH*FPLT
 'this': TH
 'was': WAS
-'painful;': PAEUFL STPH*FPLT
+'painful;': PAEUFL/STPH*FPLT
 'then': THEPB
 'it': T
 'was': WAS
@@ -258,10 +258,10 @@ The Flax
 'intended': SPWEPBD/-D
 'to': TO
 'drown': TKROUPB
-'it;': T STPH*FPLT
-'and,': SKP KW-BG
+'it;': T/STPH*FPLT
+'and,': SKP/KW-BG
 'after': AF
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'placed': PHRAEUFD
 'near': TPHAOER
 'a': AEU
@@ -272,32 +272,32 @@ The Flax
 'were': WR
 'to': TO
 'be': -B
-'roasted;': ROEFT/-D STPH*FPLT
+'roasted;': ROEFT/-D/STPH*FPLT
 'all': AUL
 'this': TH
 'was': WAS
 'very': SRE
-'shocking.': SHOBG/-G TP-PL
-'"We': KR-GS KPA/WE
+'shocking.': SHOBG/-G/TP-PL
+'"We': KR-GS/KPA/WE
 'cannot': SK-PBT
 'expect': KP-PT
 'to': TO
 'be': -B
 'happy': HAEP
-'always,"': AULS KW-BG KR-GS
+'always,"': AULS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'flax;': TPHRA*BGS STPH*FPLT
-'"by': KR-GS PWEU
+'flax;': TPHRA*BGS/STPH*FPLT
+'"by': KR-GS/PWEU
 'experiencing': SPAOERPBGS
 'evil': AOEFL
 'as': AS
 'well': WEL
 'as': AS
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'we': WE
 'become': PW-BG
-'wise."': WAOEUS TP-PL KR-GS
+'wise."': WAOEUS/TP-PL/KR-GS
 'And': AFPBD
 'certainly': SERPBL
 'there': THR
@@ -309,17 +309,17 @@ The Flax
 'store': STOR
 'for': TPOR
 'the': -T
-'flax.': TPHRA*BGS TP-PL
+'flax.': TPHRA*BGS/TP-PL
 'It': KPA/T
 'was': WAS
-'steeped,': STAOEP/-D KW-BG
+'steeped,': STAOEP/-D/KW-BG
 'and': SKP
-'roasted,': ROEFT/-D KW-BG
+'roasted,': ROEFT/-D/KW-BG
 'and': SKP
-'broken,': PWROEPB KW-BG
+'broken,': PWROEPB/KW-BG
 'and': SKP
-'combed;': KOEPLD STPH*FPLT
-'indeed,': TPHAOEPBD KW-BG
+'combed;': KOEPLD/STPH*FPLT
+'indeed,': TPHAOEPBD/KW-BG
 'it': T
 'scarcely': SKAEURS/HREU
 'knew': TPHAOU
@@ -327,7 +327,7 @@ The Flax
 'was': WAS
 'done': TKOPB
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'it': T
@@ -336,9 +336,9 @@ The Flax
 'on': OPB
 'the': -T
 'spinning': SPEUPBG
-'wheel.': WHAOEL TP-PL
-'"Whirr,': KR-GS xxx Whirr KW-BG
-'whirr,"': xxx whirr KW-BG KR-GS
+'wheel.': WHAOEL/TP-PL
+'"Whirr,': KR-GS/xxx Whirr/KW-BG
+'whirr,"': xxx whirr/KW-BG/KR-GS
 'went': WEPBT
 'the': -T
 'wheel': WHAOEL
@@ -351,13 +351,13 @@ The Flax
 'not': TPHOT
 'collect': KHREBGT
 'its': EUTS
-'thoughts.': THAUTS TP-PL
-'"Well,': KR-GS KPA/WEL KW-BG
+'thoughts.': THAUTS/TP-PL
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'I': EU
 'have': SR
 'been': PW-PB
 'very': SRE
-'happy,"': HAEP KW-BG KR-GS
+'happy,"': HAEP/KW-BG/KR-GS
 'he': HE
 'thought': THAUT
 'in': TPH
@@ -365,14 +365,14 @@ The Flax
 'midst': PHEUDZ
 'of': -F
 'his': HEUS
-'pain,': PAEUPB KW-BG
-'"and': KR-GS SKP
+'pain,': PAEUPB/KW-BG
+'"and': KR-GS/SKP
 'must': PHUFT
 'be': -B
 'contented': KAUPBT/-D
 'with': W
 'the': -T
-'past;"': PAFT STPH*FPLT KR-GS
+'past;"': PAFT/STPH*FPLT/KR-GS
 'and': SKP
 'contented': KAUPBT/-D
 'he': HE
@@ -383,7 +383,7 @@ The Flax
 'put': PUT
 'on': OPB
 'the': -T
-'loom,': HRAOPL KW-BG
+'loom,': HRAOPL/KW-BG
 'and': SKP
 'became': PWAEUPL
 'a': AEU
@@ -391,27 +391,27 @@ The Flax
 'piece': PAOES
 'of': -F
 'white': WHAOEUT
-'linen.': HREUPB/-PB TP-PL
+'linen.': HREUPB/-PB/TP-PL
 'All': KPA/AUL
 'the': -T
-'flax,': TPHRA*BGS KW-BG
+'flax,': TPHRA*BGS/KW-BG
 'even': AOEPB
 'to': TO
 'the': -T
 'last': HRAFT
-'stalk,': STAUBG KW-BG
+'stalk,': STAUBG/KW-BG
 'was': WAS
 'used': AOUFD
 'in': TPH
 'making': PHAEUG
 'this': TH
 'one': WUPB
-'piece.': PAOES TP-PL
-'"Well,': KR-GS KPA/WEL KW-BG
+'piece.': PAOES/TP-PL
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'this': TH
 'is': S
 'quite': KWAOEUT
-'wonderful;': WUFL STPH*FPLT
+'wonderful;': WUFL/STPH*FPLT
 'I': EU
 'could': KO
 'not': TPHOT
@@ -424,7 +424,7 @@ The Flax
 'so': SO
 'favored': TPAEUFRD
 'by': PWEU
-'fortune.': TP-RPB TP-PL
+'fortune.': TP-RPB/TP-PL
 'The': KPA/-T
 'fern': TPERPB
 'was': WAS
@@ -434,26 +434,26 @@ The Flax
 'its': EUTS
 'song': SOPBG
 'of': -F
-''Snip,': AE KPA/STPHEUP KW-BG
-'snap,': STPHAP KW-BG
-'snurre,': xxx snurre KW-BG
+''Snip,': AE/KPA/STPHEUP/KW-BG
+'snap,': STPHAP/KW-BG
+'snurre,': xxx snurre/KW-BG
 'Basse': xxx Basse
-'lurre.'': xxx lurre TP-PL AE
+'lurre.'': xxx lurre/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'song': SOPBG
 'is': S
 'not': TPHOT
 'ended': EPBD/-D
-'yet,': KWRET KW-BG
+'yet,': KWRET/KW-BG
 'I': EU
 'am': APL
-'sure;': SHUR STPH*FPLT
+'sure;': SHUR/STPH*FPLT
 'it': T
 'is': S
 'only': OEPBL
 'just': SKWRUFT
-'beginning.': TKPWEUPB/-G TP-PL
+'beginning.': TKPWEUPB/-G/TP-PL
 'How': KPA/HOU
 'wonderful': WUFL
 'it': T
@@ -463,14 +463,14 @@ The Flax
 'all': AUL
 'I': EU
 'have': SR
-'suffered,': SUFRD KW-BG
+'suffered,': SUFRD/KW-BG
 'I': EU
 'am': APL
 'made': PHAED
 'something': S-G
 'of': -F
 'at': AT
-'last;': HRAFT STPH*FPLT
+'last;': HRAFT/STPH*FPLT
 'I': EU
 'am': APL
 'the': -T
@@ -478,17 +478,17 @@ The Flax
 'person': PERPB
 'in': TPH
 'the': -T
-'world—so': WORLD EPL/TKA*RB SO
+'world—so': WORLD/EPL/TKA*RB/SO
 'strong': STROPBG
 'and': SKP
-'fine;': TPAOEUPB STPH*FPLT
+'fine;': TPAOEUPB/STPH*FPLT
 'and': SKP
 'how': HOU
-'white,': WHAOEUT KW-BG
+'white,': WHAOEUT/KW-BG
 'and': SKP
 'what': WHA
 'a': AEU
-'length!': HREPBG SKHRAPL
+'length!': HREPBG/SKHRAPL
 'This': KPA/TH
 'is': S
 'something': S-G
@@ -500,19 +500,19 @@ The Flax
 'plant': PHRAPBT
 'and': SKP
 'bearing': PWAERG
-'flowers.': TPHRO*URS TP-PL
+'flowers.': TPHRO*URS/TP-PL
 'Then': KPA/THEPB
 'I': EU
 'had': H
 'no': TPHO
-'attention,': TAEPBGS KW-BG
+'attention,': TAEPBGS/KW-BG
 'nor': TPH-R
 'any': TPHEU
 'water': WAUR
 'unless': TPH-LS
 'it': T
-'rained;': RAEUPBD STPH*FPLT
-'now,': TPHOU KW-BG
+'rained;': RAEUPBD/STPH*FPLT
+'now,': TPHOU/KW-BG
 'I': EU
 'am': APL
 'watched': WAFPD
@@ -526,24 +526,24 @@ The Flax
 'maid': PHAEUD
 'turns': TURPBS
 'me': PHE
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'and': SKP
 'I': EU
 'have': SR
 'a': AEU
-'shower-bath': SHOUR H-PB PWA*T
+'shower-bath': SHOUR/H-PB/PWA*T
 'from': TPR
 'the': -T
-'watering-pot': WAURPBG H-PB POT
+'watering-pot': WAURPBG/H-PB/POT
 'every': EF
-'evening.': AOEPBG TP-PL
-'Yes,': KPA/KWRE KW-BG
+'evening.': AOEPBG/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'and': SKP
 'the': -T
-'clergyman's': KHRERPBLG/PHAPB AES
+'clergyman's': KHRERPBLG/PHAPB/AES
 'wife': WAOEUF
 'noticed': TPH-TS/-D
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'said': SED
 'I': EU
@@ -556,7 +556,7 @@ The Flax
 'in': TPH
 'the': -T
 'whole': WHOEL
-'parish.': PAR/EURB TP-PL
+'parish.': PAR/EURB/TP-PL
 'I': EU
 'cannot': SK-PBT
 'be': -B
@@ -564,37 +564,37 @@ The Flax
 'than': THAPB
 'I': EU
 'am': APL
-'now."': TPHOU TP-PL KR-GS
+'now."': TPHOU/TP-PL/KR-GS
 'After': KPA/AF
 'some': SOPL
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'the': -T
 'linen': HREUPB/-PB
 'was': WAS
 'taken': TAEPB
 'into': TPHAO
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'placed': PHRAEUFD
 'under': TPH-PB
 'the': -T
-'scissors,': SEUS/ORS KW-BG
+'scissors,': SEUS/ORS/KW-BG
 'and': SKP
 'cut': KUT
 'and': SKP
 'torn': TORPB
 'into': TPHAO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'then': THEPB
 'pricked': PREUBGD
 'with': W
-'needles.': TPHAO*ELDZ TP-PL
+'needles.': TPHAO*ELDZ/TP-PL
 'This': KPA/TH
 'certainly': SERPBL
 'was': WAS
 'not': TPHOT
-'pleasant;': PHREFPBT STPH*FPLT
+'pleasant;': PHREFPBT/STPH*FPLT
 'but': PWUT
 'at': AT
 'last': HRAFT
@@ -613,34 +613,34 @@ The Flax
 'not': TPHOT
 'like': HRAOEUBG
 'to': TO
-'name,': TPHAEUPL KW-BG
+'name,': TPHAEUPL/KW-BG
 'and': SKP
 'yet': KWRET
 'everybody': EFRB
 'should': SHO
 'wear': WAER
-'one.': WUPB TP-PL
-'"See,': KR-GS KPA/SAOE KW-BG
-'now,': TPHOU KW-BG
-'then,"': THEPB KW-BG KR-GS
+'one.': WUPB/TP-PL
+'"See,': KR-GS/KPA/SAOE/KW-BG
+'now,': TPHOU/KW-BG
+'then,"': THEPB/KW-BG/KR-GS
 'said': SED
 'the': -T
-'flax;': TPHRA*BGS STPH*FPLT
-'"I': KR-GS EU
+'flax;': TPHRA*BGS/STPH*FPLT
+'"I': KR-GS/EU
 'have': SR
 'become': PW-BG
 'something': S-G
 'of': -F
-'importance.': PORPBS TP-PL
+'importance.': PORPBS/TP-PL
 'This': KPA/TH
 'was': WAS
 'my': PHEU
-'destiny;': TKEFT/TPHEU STPH*FPLT
+'destiny;': TKEFT/TPHEU/STPH*FPLT
 'it': T
 'is': S
 'quite': KWAOEUT
 'a': AEU
-'blessing.': PWHR*EFG TP-PL
+'blessing.': PWHR*EFG/TP-PL
 'Now': KPA/TPHOU
 'I': EU
 'shall': SHAL
@@ -650,12 +650,12 @@ The Flax
 'use': AOUS
 'in': TPH
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'as': AS
 'everyone': EFRPB
 'ought': OT
 'to': TO
-'be;': -B STPH*FPLT
+'be;': -B/STPH*FPLT
 'it': T
 'is': S
 'the': -T
@@ -663,14 +663,14 @@ The Flax
 'way': WAEU
 'to': TO
 'be': -B
-'happy.': HAEP TP-PL
+'happy.': HAEP/TP-PL
 'I': EU
 'am': APL
 'now': TPHOU
 'divided': TKWAOEUTD
 'into': TPHAO
 'twelve': TWEFL
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'yet': KWRET
 'we': WE
@@ -683,16 +683,16 @@ The Flax
 'in': TPH
 'the': -T
 'whole': WHOEL
-'dozen.': TKOZ TP-PL
+'dozen.': TKOZ/TP-PL
 'It': KPA/T
 'is': S
 'most': PHOFT
 'extraordinary': KPRORD
 'good': TKPWAOD
-'fortune."': TP-RPB TP-PL KR-GS
+'fortune."': TP-RPB/TP-PL/KR-GS
 'Years': KPA/KWRAOERS
 'passed': PAFD
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -705,19 +705,19 @@ The Flax
 'could': KO
 'scarcely': SKAEURS/HREU
 'hold': HOLD
-'together.': TOGT TP-PL
-'"It': KR-GS KPA/T
+'together.': TOGT/TP-PL
+'"It': KR-GS/KPA/T
 'must': PHUFT
 'end': EPBD
 'very': SRE
-'soon,"': SAOPB KW-BG KR-GS
+'soon,"': SAOPB/KW-BG/KR-GS
 'said': SED
 'the': -T
 'pieces': PAOEFS
 'to': TO
 'each': AOEFP
-'other;': OER STPH*FPLT
-'"we': KR-GS WE
+'other;': OER/STPH*FPLT
+'"we': KR-GS/WE
 'would': WO
 'gladly': TKPWHRAD/HREU
 'have': SR
@@ -725,14 +725,14 @@ The Flax
 'together': TOGT
 'a': AEU
 'little': HREUL
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'but': PWUT
 'it': T
 'is': S
 'useless': AOUFLS
 'to': TO
 'expect': KP-PT
-'impossibilities."': EUPL/POBLT/-S TP-PL KR-GS
+'impossibilities."': EUPL/POBLT/-S/TP-PL/KR-GS
 'And': AFPBD
 'at': AT
 'length': HREPBG
@@ -741,7 +741,7 @@ The Flax
 'into': TPHAO
 'rags': RAG/-S
 'and': SKP
-'tatters,': TAT/ERS KW-BG
+'tatters,': TAT/ERS/KW-BG
 'and': SKP
 'thought': THAUT
 'it': T
@@ -749,30 +749,30 @@ The Flax
 'all': AUL
 'over': OEFR
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
 'torn': TORPB
 'to': TO
-'shreds,': SHR*EDZ KW-BG
+'shreds,': SHR*EDZ/KW-BG
 'and': SKP
 'steeped': STAOEP/-D
 'in': TPH
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'made': PHAED
 'into': TPHAO
 'a': AEU
-'pulp,': PUPL KW-BG
+'pulp,': PUPL/KW-BG
 'and': SKP
-'dried,': TKRAOEUD KW-BG
+'dried,': TKRAOEUD/KW-BG
 'and': SKP
 'they': THE
 'knew': TPHAOU
 'not': TPHOT
 'what': WHA
-'besides,': PW-DZ KW-BG
+'besides,': PW-DZ/KW-BG
 'till': TEUL
 'all': AUL
 'at': AT
@@ -782,32 +782,32 @@ The Flax
 'themselves': TH*EPLS
 'beautiful': PWAOUFL
 'white': WHAOEUT
-'paper.': PAEUP TP-PL
-'"Well,': KR-GS KPA/WEL KW-BG
-'now,': TPHOU KW-BG
+'paper.': PAEUP/TP-PL
+'"Well,': KR-GS/KPA/WEL/KW-BG
+'now,': TPHOU/KW-BG
 'this': TH
 'is': S
 'a': AEU
-'surprise;': SPRAOEUS STPH*FPLT
+'surprise;': SPRAOEUS/STPH*FPLT
 'a': AEU
 'glorious': TKPWHRORS
 'surprise': SPRAOEUS
-'too,"': TAO KW-BG KR-GS
+'too,"': TAO/KW-BG/KR-GS
 'said': SED
 'the': -T
-'paper.': PAEUP TP-PL
-'"I': KR-GS EU
+'paper.': PAEUP/TP-PL
+'"I': KR-GS/EU
 'am': APL
 'now': TPHOU
 'finer': TPAOEURPB
 'than': THAPB
-'ever,': -FR KW-BG
+'ever,': -FR/KW-BG
 'and': SKP
 'I': EU
 'shall': SHAL
 'be': -B
 'written': WREUPB
-'upon,': POPB KW-BG
+'upon,': POPB/KW-BG
 'and': SKP
 'who': WHO
 'can': K
@@ -820,11 +820,11 @@ The Flax
 'have': SR
 'written': WREUPB
 'upon': POPB
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'This': KPA/TH
 'is': S
 'wonderful': WUFL
-'luck!"': HRUBG SKHRAPL KR-GS
+'luck!"': HRUBG/SKHRAPL/KR-GS
 'And': AFPBD
 'sure': SHUR
 'enough': TPHUF
@@ -837,18 +837,18 @@ The Flax
 'were': WR
 'written': WREUPB
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'only': OEPBL
 'once': WUPBS
 'was': WAS
 'there': THR
 'a': AEU
-'blot,': PWHROT KW-BG
+'blot,': PWHROT/KW-BG
 'which': WEU
 'was': WAS
 'very': SRE
-'fortunate.': TP-RPBT TP-PL
+'fortunate.': TP-RPBT/TP-PL
 'Then': KPA/THEPB
 'people': PAOEPL
 'heard': HAERD
@@ -856,14 +856,14 @@ The Flax
 'stories': STOERS
 'and': SKP
 'poetry': POEURT
-'read,': RAED KW-BG
+'read,': RAED/KW-BG
 'and': SKP
 'it': T
 'made': PHAED
 'them': THEPL
 'wiser': WAOEUZ/ER
 'and': SKP
-'better;': PWOERT STPH*FPLT
+'better;': PWOERT/STPH*FPLT
 'for': TPOR
 'all': AUL
 'that': THA
@@ -874,7 +874,7 @@ The Flax
 'good': TKPWAOD
 'and': SKP
 'sensible': SEPBS/-BL
-'meaning,': PHAOEPBG KW-BG
+'meaning,': PHAOEPBG/KW-BG
 'and': SKP
 'a': AEU
 'great': TKPWRAET
@@ -886,28 +886,28 @@ The Flax
 'words': WORDZ
 'on': OPB
 'this': TH
-'paper.': PAEUP TP-PL
-'"I': KR-GS EU
+'paper.': PAEUP/TP-PL
+'"I': KR-GS/EU
 'never': TPHEFR
 'imagined': PHAPBLGD
 'anything': TPHEUG
 'like': HRAOEUBG
-'this,"': TH KW-BG KR-GS
+'this,"': TH/KW-BG/KR-GS
 'said': SED
 'the': -T
-'paper,': PAEUP KW-BG
-'"when': KR-GS WHEPB
+'paper,': PAEUP/KW-BG
+'"when': KR-GS/WHEPB
 'I': EU
 'was': WAS
 'only': OEPBL
 'a': AEU
 'little': HREUL
 'blue': PWHRU
-'flower,': TPHRO*UR KW-BG
+'flower,': TPHRO*UR/KW-BG
 'growing': TKPWROEG
 'in': TPH
 'the': -T
-'fields.': TPAOELDZ TP-PL
+'fields.': TPAOELDZ/TP-PL
 'How': KPA/HOU
 'could': KO
 'I': EU
@@ -925,18 +925,18 @@ The Flax
 'and': SKP
 'joy': SKWROEU
 'to': TO
-'man?': PHAPB H-F
+'man?': PHAPB/H-F
 'I': EU
 'cannot': SK-PBT
 'understand': URPBD
 'it': T
-'myself,': PHAO*EUS KW-BG
+'myself,': PHAO*EUS/KW-BG
 'and': SKP
 'yet': KWRET
 'it': T
 'is': S
 'really': R-L
-'so.': SO TP-PL
+'so.': SO/TP-PL
 'Heaven': KPA/HEFPB
 'knows': TPHOEZ
 'that': THA
@@ -944,7 +944,7 @@ The Flax
 'have': SR
 'done': TKOPB
 'nothing': TPHOG
-'myself,': PHAO*EUS KW-BG
+'myself,': PHAO*EUS/KW-BG
 'but': PWUT
 'what': WHA
 'I': EU
@@ -959,7 +959,7 @@ The Flax
 'for': TPOR
 'my': PHEU
 'own': OEPB
-'preservation;': PREFRGS STPH*FPLT
+'preservation;': PREFRGS/STPH*FPLT
 'and': SKP
 'yet': KWRET
 'I': EU
@@ -972,7 +972,7 @@ The Flax
 'and': SKP
 'honor': HO*RPB
 'to': TO
-'another.': TPHOER TP-PL
+'another.': TPHOER/TP-PL
 'Each': KPA/AOEFP
 'time': TAOEUPL
 'I': EU
@@ -981,7 +981,7 @@ The Flax
 'the': -T
 'song': SOPBG
 'is': S
-'ended;': EPBD/-D STPH*FPLT
+'ended;': EPBD/-D/STPH*FPLT
 'and': SKP
 'then': THEPB
 'something': S-G
@@ -990,7 +990,7 @@ The Flax
 'better': PWOERT
 'begins': TKPWEUPBS
 'for': TPOR
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'I': EU
 'suppose': SPOS
 'now': TPHOU
@@ -1003,23 +1003,23 @@ The Flax
 'travels': TRAFLS
 'about': PW
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'so': SO
 'that': THA
 'people': PAOEPL
 'may': PHAE
 'read': RAED
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'It': KPA/T
 'cannot': SK-PBT
 'be': -B
-'otherwise;': O*ERZ STPH*FPLT
-'indeed,': TPHAOEPBD KW-BG
+'otherwise;': O*ERZ/STPH*FPLT
+'indeed,': TPHAOEPBD/KW-BG
 'it': T
 'is': S
 'more': PHOR
 'than': THAPB
-'probable;': PROB STPH*FPLT
+'probable;': PROB/STPH*FPLT
 'for': TPOR
 'I': EU
 'have': SR
@@ -1028,7 +1028,7 @@ The Flax
 'thoughts': THAUTS
 'written': WREUPB
 'upon': POPB
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'than': THAPB
 'I': EU
 'had': H
@@ -1036,12 +1036,12 @@ The Flax
 'flowers': TPHRO*URS
 'in': TPH
 'olden': OLD/*EPB
-'times.': TAOEUPLS TP-PL
+'times.': TAOEUPLS/TP-PL
 'I': EU
 'am': APL
 'happier': HAP/KWRER
 'than': THAPB
-'ever."': -FR TP-PL KR-GS
+'ever."': -FR/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'paper': PAEUP
@@ -1050,13 +1050,13 @@ The Flax
 'go': TKPW
 'on': OPB
 'its': EUTS
-'travels;': TRAFLS STPH*FPLT
+'travels;': TRAFLS/STPH*FPLT
 'it': T
 'was': WAS
 'sent': SEPBT
 'to': TO
 'the': -T
-'printer,': PREURPBT KW-BG
+'printer,': PREURPBT/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
@@ -1068,17 +1068,17 @@ The Flax
 'set': SET
 'up': UP
 'in': TPH
-'type,': TAOEUP KW-BG
+'type,': TAOEUP/KW-BG
 'to': TO
 'make': PHAEUBG
 'a': AEU
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'or': OR
-'rather,': RAER KW-BG
+'rather,': RAER/KW-BG
 'many': PHAEPB
 'hundreds': HUPBS
 'of': -F
-'books;': PWAOBGS STPH*FPLT
+'books;': PWAOBGS/STPH*FPLT
 'for': TPOR
 'so': SO
 'many': PHAEPB
@@ -1092,12 +1092,12 @@ The Flax
 'from': TPR
 'a': AEU
 'printed': PREUPBTD
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'than': THAPB
 'from': TPR
 'the': -T
 'written': WREUPB
-'paper;': PAEUP STPH*FPLT
+'paper;': PAEUP/STPH*FPLT
 'and': SKP
 'if': TP
 'the': -T
@@ -1107,7 +1107,7 @@ The Flax
 'sent': SEPBT
 'around': ARPBD
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'it': T
 'would': WO
 'have': SR
@@ -1121,38 +1121,38 @@ The Flax
 'half': HAF
 'through': THRU
 'its': EUTS
-'journey.': SKWRURPB TP-PL
-'"This': KR-GS KPA/TH
+'journey.': SKWRURPB/TP-PL
+'"This': KR-GS/KPA/TH
 'is': S
 'certainly': SERPBL
 'the': -T
 'wisest': WAOEUZ/*ES
-'plan,"': PHRAPB KW-BG KR-GS
+'plan,"': PHRAPB/KW-BG/KR-GS
 'said': SED
 'the': -T
 'written': WREUPB
-'paper;': PAEUP STPH*FPLT
-'"I': KR-GS EU
+'paper;': PAEUP/STPH*FPLT
+'"I': KR-GS/EU
 'really': R-L
 'did': TK
 'not': TPHOT
 'think': THEU
 'of': -F
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'I': EU
 'shall': SHAL
 'remain': RAEUPL
 'at': AT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'be': -B
 'held': HELD
 'in': TPH
-'honor,': HO*RPB KW-BG
+'honor,': HO*RPB/KW-BG
 'like': HRAOEUBG
 'some': SOPL
 'old': OLD
-'grandfather,': TKPWR-F KW-BG
+'grandfather,': TKPWR-F/KW-BG
 'as': AS
 'I': EU
 'really': R-L
@@ -1161,12 +1161,12 @@ The Flax
 'all': AUL
 'these': THEZ
 'new': TPHU
-'books.': PWAOBGS TP-PL
+'books.': PWAOBGS/TP-PL
 'They': KPA/THE
 'will': HR
 'do': TKO
 'some': SOPL
-'good.': TKPWAOD TP-PL
+'good.': TKPWAOD/TP-PL
 'I': EU
 'could': KO
 'not': TPHOT
@@ -1175,7 +1175,7 @@ The Flax
 'about': PW
 'as': AS
 'they': THE
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'Yet': KPA/KWRET
 'he': HE
 'who': WHO
@@ -1185,7 +1185,7 @@ The Flax
 'has': HAS
 'looked': HRAOBGD
 'at': AT
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'as': AS
 'every': EF
 'word': WORD
@@ -1195,14 +1195,14 @@ The Flax
 'pen': PEPB
 'upon': POPB
 'my': PHEU
-'surface.': SUFS TP-PL
+'surface.': SUFS/TP-PL
 'I': EU
 'am': APL
 'the': -T
 'most': PHOFT
 'honored': HOPB/ORD
 'of': -F
-'all."': AUL TP-PL KR-GS
+'all."': AUL/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'paper': PAEUP
@@ -1213,7 +1213,7 @@ The Flax
 'bundle': PWUPBLD
 'with': W
 'other': OER
-'papers,': PAEUPS KW-BG
+'papers,': PAEUPS/KW-BG
 'and': SKP
 'thrown': THROEPB
 'into': TPHAO
@@ -1223,18 +1223,18 @@ The Flax
 'stood': STAOD
 'in': TPH
 'the': -T
-'washhouse.': xxx washhouse TP-PL
-'"After': KR-GS KPA/AF
-'work,': WORBG KW-BG
+'washhouse.': xxx washhouse/TP-PL
+'"After': KR-GS/KPA/AF
+'work,': WORBG/KW-BG
 'it': T
 'is': S
 'well': WEL
 'to': TO
-'rest,"': REFT KW-BG KR-GS
+'rest,"': REFT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'paper,': PAEUP KW-BG
-'"and': KR-GS SKP
+'paper,': PAEUP/KW-BG
+'"and': KR-GS/SKP
 'a': AEU
 'very': SRE
 'good': TKPWAOD
@@ -1242,21 +1242,21 @@ The Flax
 'to': TO
 'collect': KHREBGT
 'one's': W*UPBS
-'thoughts.': THAUTS TP-PL
+'thoughts.': THAUTS/TP-PL
 'Now': KPA/TPHOU
 'I': EU
 'am': APL
-'able,': ABL KW-BG
+'able,': ABL/KW-BG
 'for': TPOR
 'the': -T
 'first': TPEUFRT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'to': TO
 'think': THEU
 'of': -F
 'my': PHEU
 'real': RAEL
-'condition;': K-PB STPH*FPLT
+'condition;': K-PB/STPH*FPLT
 'and': SKP
 'to': TO
 'know': TPHOE
@@ -1264,33 +1264,33 @@ The Flax
 'self': S*EF
 'is': S
 'true': TRAOU
-'progress.': PROG TP-PL
+'progress.': PROG/TP-PL
 'What': KPA/WHA
 'will': HR
 'be': -B
 'done': TKOPB
 'with': W
 'me': PHE
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'I': EU
-'wonder?': WOPBD H-F
+'wonder?': WOPBD/H-F
 'No': KPA/TPHO
 'doubt': TKOUT
 'I': EU
 'shall': SHAL
 'still': STEUL
 'go': TKPW
-'forward.': TPAORD TP-PL
+'forward.': TPAORD/TP-PL
 'I': EU
 'have': SR
 'always': AULS
 'progressed': PROGD
-'hitherto,': H*EUT/ER/TO KW-BG
+'hitherto,': H*EUT/ER/TO/KW-BG
 'as': AS
 'I': EU
 'know': TPHOE
 'quite': KWAOEUT
-'well."': WEL TP-PL KR-GS
+'well."': WEL/TP-PL/KR-GS
 'Now': KPA/TPHOU
 'it': T
 'happened': HAPD
@@ -1305,7 +1305,7 @@ The Flax
 'tub': TUB
 'was': WAS
 'taken': TAEPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'laid': HRAEUD
 'on': OPB
@@ -1313,7 +1313,7 @@ The Flax
 'hearth': HAERT
 'to': TO
 'be': -B
-'burnt.': PWURPBT TP-PL
+'burnt.': PWURPBT/TP-PL
 'People': KPA/PAOEPL
 'said': SED
 'it': T
@@ -1323,19 +1323,19 @@ The Flax
 'sold': SOELD
 'at': AT
 'the': -T
-'shop,': SHOP KW-BG
+'shop,': SHOP/KW-BG
 'to': TO
 'wrap': WRAP
 'up': UP
 'butter': PWAOURT
 'and': SKP
-'sugar,': SHURG KW-BG
+'sugar,': SHURG/KW-BG
 'because': PWAU
 'it': T
 'had': H
 'been': PW-PB
 'written': WREUPB
-'upon.': POPB TP-PL
+'upon.': POPB/TP-PL
 'The': KPA/-T
 'children': KHEURPB
 'in': TPH
@@ -1344,7 +1344,7 @@ The Flax
 'stood': STAOD
 'round': ROUPBD
 'the': -T
-'stove;': STOF STPH*FPLT
+'stove;': STOF/STPH*FPLT
 'for': TPOR
 'they': THE
 'wanted': WAPBTD
@@ -1352,18 +1352,18 @@ The Flax
 'see': SAOE
 'the': -T
 'paper': PAEUP
-'burn,': PWURPB KW-BG
+'burn,': PWURPB/KW-BG
 'because': PWAU
 'it': T
 'flamed': TPHRAEUPLD
 'up': UP
 'so': SO
-'prettily,': PRET/HREU KW-BG
+'prettily,': PRET/HREU/KW-BG
 'and': SKP
-'afterwards,': A*FRDZ KW-BG
+'afterwards,': A*FRDZ/KW-BG
 'among': PHOPBG
 'the': -T
-'ashes,': ARBS KW-BG
+'ashes,': ARBS/KW-BG
 'so': SO
 'many': PHAEPB
 'red': RED
@@ -1375,15 +1375,15 @@ The Flax
 'one': WUPB
 'after': AF
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'here': HAOER
 'and': SKP
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'as': AS
 'quick': KWEUBG
 'as': AS
 'the': -T
-'wind.': WEUPBD TP-PL
+'wind.': WEUPBD/TP-PL
 'They': KPA/THE
 'called': KAULD
 'it': T
@@ -1393,14 +1393,14 @@ The Flax
 'come': KOPL
 'out': OUT
 'of': -F
-'school,': SKAOL KW-BG
+'school,': SKAOL/KW-BG
 'and': SKP
 'the': -T
 'last': HRAFT
 'spark': SPARBG
 'was': WAS
 'the': -T
-'schoolmaster.': xxx schoolmaster TP-PL
+'schoolmaster.': xxx schoolmaster/TP-PL
 'They': KPA/THE
 'often': OFPB
 'thought': THAUT
@@ -1408,15 +1408,15 @@ The Flax
 'last': HRAFT
 'spark': SPARBG
 'had': H
-'come;': KOPL STPH*FPLT
+'come;': KOPL/STPH*FPLT
 'and': SKP
 'one': WUPB
 'would': WO
-'cry,': KRAOEU KW-BG
-'"There': KR-GS KPA/THR
+'cry,': KRAOEU/KW-BG
+'"There': KR-GS/KPA/THR
 'goes': TKPW-S
 'the': -T
-'schoolmaster;"': xxx schoolmaster STPH*FPLT KR-GS
+'schoolmaster;"': xxx schoolmaster/STPH*FPLT/KR-GS
 'but': PWUT
 'the': -T
 'next': TPHEGT
@@ -1424,10 +1424,10 @@ The Flax
 'another': TPHOER
 'spark': SPARBG
 'would': WO
-'appear,': A/PAOER KW-BG
+'appear,': A/PAOER/KW-BG
 'shining': SHAOEUPBG
 'so': SO
-'beautifully.': PWAOUFL/HREU TP-PL
+'beautifully.': PWAOUFL/HREU/TP-PL
 'How': KPA/HOU
 'they': THE
 'would': WO
@@ -1439,19 +1439,19 @@ The Flax
 'sparks': SPARBGS
 'all': AUL
 'went': WEPBT
-'to!': TO SKHRAPL
+'to!': TO/SKHRAPL
 'Perhaps': KPA/PRAPS
 'we': WE
 'shall': SHAL
 'find': TPAOEUPBD
 'out': OUT
 'some': SOPL
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'but': PWUT
 'we': WE
 'don't': TKOEPBT
 'know': TPHOE
-'now.': TPHOU TP-PL
+'now.': TPHOU/TP-PL
 'The': KPA/-T
 'whole': WHOEL
 'bundle': PWUPBLD
@@ -1462,23 +1462,23 @@ The Flax
 'placed': PHRAEUFD
 'on': OPB
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'was': WAS
 'soon': SAOPB
-'alight.': A/HRAOEUT TP-PL
-'"Ugh,"': KR-GS KPA/UG KW-BG KR-GS
+'alight.': A/HRAOEUT/TP-PL
+'"Ugh,"': KR-GS/KPA/UG/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
-'paper,': PAEUP KW-BG
+'paper,': PAEUP/KW-BG
 'as': AS
 'it': T
 'burst': PWUFRT
 'into': TPHAO
 'a': AEU
 'bright': PWRAOEUT
-'flame;': TPHRAEUPL STPH*FPLT
-'"ugh."': KR-GS UG TP-PL KR-GS
+'flame;': TPHRAEUPL/STPH*FPLT
+'"ugh."': KR-GS/UG/TP-PL/KR-GS
 'It': KPA/T
 'was': WAS
 'certainly': SERPBL
@@ -1487,7 +1487,7 @@ The Flax
 'pleasant': PHREFPBT
 'to': TO
 'be': -B
-'burning;': PWURPBG STPH*FPLT
+'burning;': PWURPBG/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'the': -T
@@ -1495,14 +1495,14 @@ The Flax
 'was': WAS
 'wrapped': WRAPD
 'in': TPH
-'flames,': TPHRAEUPLS KW-BG
+'flames,': TPHRAEUPLS/KW-BG
 'the': -T
 'flames': TPHRAEUPLS
 'mounted': PHOUPBTD
 'up': UP
 'into': TPHAO
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'higher': HAOEUR
 'than': THAPB
 'the': -T
@@ -1516,7 +1516,7 @@ The Flax
 'its': EUTS
 'little': HREUL
 'blue': PWHRU
-'flower,': TPHRO*UR KW-BG
+'flower,': TPHRO*UR/KW-BG
 'and': SKP
 'they': THE
 'glistened': TKPWHREUS/-PBD
@@ -1527,7 +1527,7 @@ The Flax
 'never': TPHEFR
 'could': KO
 'have': SR
-'glistened.': TKPWHREUS/-PBD TP-PL
+'glistened.': TKPWHREUS/-PBD/TP-PL
 'All': KPA/AUL
 'the': -T
 'written': WREUPB
@@ -1537,7 +1537,7 @@ The Flax
 'red': RED
 'in': TPH
 'a': AEU
-'moment,': PHOEPLT KW-BG
+'moment,': PHOEPLT/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
@@ -1546,8 +1546,8 @@ The Flax
 'thoughts': THAUTS
 'turned': TURPBD
 'to': TO
-'fire.': TPAOEUR TP-PL
-'"Now': KR-GS KPA/TPHOU
+'fire.': TPAOEUR/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'I': EU
 'am': APL
 'mounting': PHOUPBT/-G
@@ -1555,13 +1555,13 @@ The Flax
 'up': UP
 'to': TO
 'the': -T
-'sun,"': SUPB KW-BG KR-GS
+'sun,"': SUPB/KW-BG/KR-GS
 'said': SED
 'a': AEU
 'voice': SROEUS
 'in': TPH
 'the': -T
-'flames;': TPHRAEUPLS STPH*FPLT
+'flames;': TPHRAEUPLS/STPH*FPLT
 'and': SKP
 'it': T
 'was': WAS
@@ -1572,7 +1572,7 @@ The Flax
 'voices': SROEUFS
 'echoed': EBG/OE/-D
 'the': -T
-'words;': WORDZ STPH*FPLT
+'words;': WORDZ/STPH*FPLT
 'and': SKP
 'the': -T
 'flames': TPHRAEUPLS
@@ -1580,19 +1580,19 @@ The Flax
 'up': UP
 'through': THRU
 'the': -T
-'chimney,': KHEUPL/TPHEU KW-BG
+'chimney,': KHEUPL/TPHEU/KW-BG
 'and': SKP
 'went': WEPBT
 'out': OUT
 'at': AT
 'the': -T
-'top.': TOP TP-PL
+'top.': TOP/TP-PL
 'Then': KPA/THEPB
 'a': AEU
 'number': TPHUPL
 'of': -F
 'tiny': TOEUPB
-'beings,': -BGZ KW-BG
+'beings,': -BGZ/KW-BG
 'as': AS
 'many': PHAEPB
 'in': TPH
@@ -1604,15 +1604,15 @@ The Flax
 'the': -T
 'flax': TPHRA*BGS
 'had': H
-'been,': PW-PB KW-BG
+'been,': PW-PB/KW-BG
 'and': SKP
 'invisible': EUPB/SREUBL
 'to': TO
 'mortal': PHOR/TAL
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'floated': TPHROET/-D
 'above': PWOF
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'They': KPA/THE
 'were': WR
 'even': AOEPB
@@ -1627,13 +1627,13 @@ The Flax
 'which': WEU
 'they': THE
 'were': WR
-'born;': PWORPB STPH*FPLT
+'born;': PWORPB/STPH*FPLT
 'and': SKP
 'as': AS
 'the': -T
 'flames': TPHRAEUPLS
 'were': WR
-'extinguished,': EBGS/TEUPBG/WEURBD KW-BG
+'extinguished,': EBGS/TEUPBG/WEURBD/KW-BG
 'and': SKP
 'nothing': TPHOG
 'remained': RE/PHAEUPBD
@@ -1642,29 +1642,29 @@ The Flax
 'paper': PAEUP
 'but': PWUT
 'black': PWHRABG
-'ashes,': ARBS KW-BG
+'ashes,': ARBS/KW-BG
 'these': THEZ
 'little': HREUL
 'beings': -BGZ
 'danced': TKAPBS/-D
 'upon': POPB
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'whenever': WHEFR
 'they': THE
 'touched': TUFPD
-'it,': T KW-BG
+'it,': T/KW-BG
 'bright': PWRAOEUT
 'red': RED
 'sparks': SPARBGS
-'appeared.': A/PAOERD TP-PL
-'"The': KR-GS KPA/-T
+'appeared.': A/PAOERD/TP-PL
+'"The': KR-GS/KPA/-T
 'children': KHEURPB
 'are': R
 'all': AUL
 'out': OUT
 'of': -F
-'school,': SKAOL KW-BG
+'school,': SKAOL/KW-BG
 'and': SKP
 'the': -T
 'schoolmaster': xxx schoolmaster
@@ -1672,48 +1672,48 @@ The Flax
 'the': -T
 'last': HRAFT
 'of': -F
-'all,"': AUL KW-BG KR-GS
+'all,"': AUL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'It': KPA/T
 'was': WAS
 'good': TKPWAOD
-'fun,': TPUPB KW-BG
+'fun,': TPUPB/KW-BG
 'and': SKP
 'they': THE
 'sang': SAPBG
 'over': OEFR
 'the': -T
 'dead': TKED
-'ashes,—': ARBS KW-BG EPL/TKA*RB
-'"Snip,': KR-GS KPA/STPHEUP KW-BG
-'snap,': STPHAP KW-BG
-'snurre,': xxx snurre KW-BG
+'ashes,—': ARBS/KW-BG/EPL/TKA*RB
+'"Snip,': KR-GS/KPA/STPHEUP/KW-BG
+'snap,': STPHAP/KW-BG
+'snurre,': xxx snurre/KW-BG
 'Basse': xxx Basse
-'lure:': HRAOUR STPH-FPLT
+'lure:': HRAOUR/STPH-FPLT
 'The': KPA/-T
 'song': SOPBG
 'is': S
-'ended."': EPBD/-D TP-PL KR-GS
+'ended."': EPBD/-D/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
 'invisible': EUPB/SREUBL
 'beings': -BGZ
-'said,': SED KW-BG
-'"The': KR-GS KPA/-T
+'said,': SED/KW-BG
+'"The': KR-GS/KPA/-T
 'song': SOPBG
 'is': S
 'never': TPHEFR
-'ended;': EPBD/-D STPH*FPLT
+'ended;': EPBD/-D/STPH*FPLT
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
 'is': S
 'yet': KWRET
 'to': TO
-'come."': KOPL TP-PL KR-GS
+'come."': KOPL/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'children': KHEURPB
@@ -1722,13 +1722,13 @@ The Flax
 'hear': HAER
 'nor': TPH-R
 'understand': URPBD
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'nor': TPH-R
 'should': SHO
-'they;': THE STPH*FPLT
+'they;': THE/STPH*FPLT
 'for': TPOR
 'children': KHEURPB
 'must': PHUFT
 'not': TPHOT
 'know': TPHOE
-'everything.': EFRG TP-PL
+'everything.': EFRG/TP-PL

@@ -6,39 +6,39 @@ She Was Good for Nothing
 'at': AT
 'the': -T
 'open': OEP
-'window.': WOEUPBD TP-PL
+'window.': WOEUPBD/TP-PL
 'He': KPA/HE
 'looked': HRAOBGD
-'smart,': SPHART KW-BG
+'smart,': SPHART/KW-BG
 'for': TPOR
 'his': HEUS
-'shirt-frill,': SHEURT H-PB TPREUL KW-BG
+'shirt-frill,': SHEURT/H-PB/TPREUL/KW-BG
 'in': TPH
 'which': WEU
 'he': HE
 'had': H
 'stuck': STUBG
 'a': AEU
-'breast-pin,': PWREFT H-PB PEUPB KW-BG
+'breast-pin,': PWREFT/H-PB/PEUPB/KW-BG
 'and': SKP
 'his': HEUS
-'ruffles,': RUFL/-S KW-BG
+'ruffles,': RUFL/-S/KW-BG
 'were': WR
 'very': SRE
-'fine.': TPAOEUPB TP-PL
+'fine.': TPAOEUPB/TP-PL
 'He': KPA/HE
 'had': H
 'shaved': SHAEUFD
 'his': HEUS
 'chin': KHEUPB
 'uncommonly': UPB/KPHOPBL
-'smooth,': SPHAO*T KW-BG
+'smooth,': SPHAO*T/KW-BG
 'although': HR*T
 'he': HE
 'had': H
 'cut': KUT
 'himself': HEUPLS
-'slightly,': SHRAOEULT KW-BG
+'slightly,': SHRAOEULT/KW-BG
 'and': SKP
 'had': H
 'stuck': STUBG
@@ -48,12 +48,12 @@ She Was Good for Nothing
 'newspaper': TPHAOUP
 'over': OEFR
 'the': -T
-'place.': PHRAEUS TP-PL
-'"Hark': KR-GS KPA/HARBG
-''ee,': AE *E/*E KW-BG
-'youngster!"': KWRUPBG/STER SKHRAPL KR-GS
+'place.': PHRAEUS/TP-PL
+'"Hark': KR-GS/KPA/HARBG
+''ee,': AE/*E/*E/KW-BG
+'youngster!"': KWRUPBG/STER/SKHRAPL/KR-GS
 'cried': KRAOEUD
-'he.': HE TP-PL
+'he.': HE/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'to': TO
@@ -69,22 +69,22 @@ She Was Good for Nothing
 'of': -F
 'a': AEU
 'poor': PAOR
-'washer-woman,': WARB/*ER H-PB WOPL KW-BG
+'washer-woman,': WARB/*ER/H-PB/WOPL/KW-BG
 'who': WHO
 'was': WAS
 'just': SKWRUFT
 'going': TKPW-G
 'past': PAFT
 'the': -T
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'He': KPA/HE
-'stopped,': STOPD KW-BG
+'stopped,': STOPD/KW-BG
 'and': SKP
 'respectfully': R-PT/TPHREU
 'took': TAOBG
 'off': OF
 'his': HEUS
-'cap.': KAP TP-PL
+'cap.': KAP/TP-PL
 'The': KPA/-T
 'peak': PAEBG
 'of': -F
@@ -94,7 +94,7 @@ She Was Good for Nothing
 'broken': PWROEPB
 'in': TPH
 'the': -T
-'middle,': PH*EULD KW-BG
+'middle,': PH*EULD/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -108,7 +108,7 @@ She Was Good for Nothing
 'it': T
 'in': TPH
 'his': HEUS
-'pocket.': POBGT TP-PL
+'pocket.': POBGT/TP-PL
 'He': KPA/HE
 'stood': STAOD
 'before': PW-FR
@@ -120,15 +120,15 @@ She Was Good for Nothing
 'but': PWUT
 'clean': KHRAOEPB
 'and': SKP
-'well-mended': W*EL PHEPBD/-D
-'clothes,': KHRO*ETS KW-BG
+'well-mended': W*EL/PHEPBD/-D
+'clothes,': KHRO*ETS/KW-BG
 'with': W
 'heavy': HOEUF
 'wooden': WAOD/EPB
 'shoes': SHAOUS
 'on': OPB
 'his': HEUS
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'looking': HRAOG
 'as': AS
 'humble': HUPL/-BL
@@ -139,18 +139,18 @@ She Was Good for Nothing
 'been': PW-PB
 'the': -T
 'king': KEUPBG
-'himself.': HEUPLS TP-PL
-'"You': KR-GS KPA/U
+'himself.': HEUPLS/TP-PL
+'"You': KR-GS/KPA/U
 'are': R
 'a': AEU
 'good': TKPWAOD
 'and': SKP
 'civil': SEUFL
-'boy,"': PWOEU KW-BG KR-GS
+'boy,"': PWOEU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'mayor.': PHAEUR TP-PL
-'"I': KR-GS EU
+'mayor.': PHAEUR/TP-PL
+'"I': KR-GS/EU
 'suppose': SPOS
 'your': KWROUR
 'mother': PHOER
@@ -162,7 +162,7 @@ She Was Good for Nothing
 'down': TKOUPB
 'by': PWEU
 'the': -T
-'river,': REUFR KW-BG
+'river,': REUFR/KW-BG
 'and': SKP
 'you': U
 'are': R
@@ -178,33 +178,33 @@ She Was Good for Nothing
 'have': SR
 'in': TPH
 'your': KWROUR
-'pocket.': POBGT TP-PL
+'pocket.': POBGT/TP-PL
 'It': KPA/T
 'is': S
 'very': SRE
 'bad': PWAD
 'for': TPOR
 'your': KWROUR
-'mother.': PHOER TP-PL
+'mother.': PHOER/TP-PL
 'How': KPA/HOU
 'much': PHUFP
 'have': SR
 'you': U
 'got': TKPWOT
 'in': TPH
-'it?"': T H-F KR-GS
-'"Only': KR-GS KPA/OEPBL
+'it?"': T/H-F/KR-GS
+'"Only': KR-GS/KPA/OEPBL
 'half': HAF
 'a': AEU
-'quartern,"': xxx quartern KW-BG KR-GS
+'quartern,"': xxx quartern/KW-BG/KR-GS
 'stammered': STAPL/ERD
 'the': -T
 'boy': PWOEU
 'in': TPH
 'a': AEU
 'frightened': TPRAOEUFPBD
-'voice.': SROEUS TP-PL
-'"And': KR-GS AFPBD
+'voice.': SROEUS/TP-PL
+'"And': KR-GS/AFPBD
 'she': SHE
 'has': HAS
 'had': H
@@ -213,26 +213,26 @@ She Was Good for Nothing
 'much': PHUFP
 'this': TH
 'morning': PHORPBG
-'already?"': HR-R H-F KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
+'already?"': HR-R/H-F/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
 'it': T
 'was': WAS
-'yesterday,"': KWRED KW-BG KR-GS
+'yesterday,"': KWRED/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'boy.': PWOEU TP-PL
-'"Two': KR-GS KPA/TWO
+'boy.': PWOEU/TP-PL
+'"Two': KR-GS/KPA/TWO
 'halves': HAFS
 'make': PHAEUBG
 'a': AEU
-'whole,"': WHOEL KW-BG KR-GS
+'whole,"': WHOEL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'mayor.': PHAEUR TP-PL
-'"She's': KR-GS KPA/SHE AES
+'mayor.': PHAEUR/TP-PL
+'"She's': KR-GS/KPA/SHE/AES
 'good': TKPWAOD
 'for': TPOR
-'nothing.': TPHOG TP-PL
+'nothing.': TPHOG/TP-PL
 'What': KPA/WHA
 'a': AEU
 'sad': SAD
@@ -241,7 +241,7 @@ She Was Good for Nothing
 'is': S
 'with': W
 'these': THEZ
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'Tell': KPA/TEL
 'your': KWROUR
 'mother': PHOER
@@ -251,23 +251,23 @@ She Was Good for Nothing
 'be': -B
 'ashamed': A/SHAEUPLD
 'of': -F
-'herself.': H*ERS TP-PL
-'Don't': TKO*PB AE T*
+'herself.': H*ERS/TP-PL
+'Don't': TKO*PB/AE/T*
 'you': U
 'become': PW-BG
 'a': AEU
-'drunkard,': TKR*UPBG/ARD KW-BG
+'drunkard,': TKR*UPBG/ARD/KW-BG
 'but': PWUT
 'I': EU
 'expect': KP-PT
 'you': U
 'will': HR
-'though.': THOE TP-PL
+'though.': THOE/TP-PL
 'Poor': KPA/PAOR
-'child!': KHAOEULD SKHRAPL
-'there,': THR KW-BG
+'child!': KHAOEULD/SKHRAPL
+'there,': THR/KW-BG
 'go': TKPW
-'now."': TPHOU TP-PL KR-GS
+'now."': TPHOU/TP-PL/KR-GS
 'The': KPA/-T
 'boy': PWOEU
 'went': WEPBT
@@ -279,7 +279,7 @@ She Was Good for Nothing
 'cap': KAP
 'in': TPH
 'his': HEUS
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'while': WHAOEUL
 'the': -T
 'wind': WEUPBD
@@ -292,7 +292,7 @@ She Was Good for Nothing
 'locks': HROBGZ
 'stood': STAOD
 'up': UP
-'straight.': STRAEUT TP-PL
+'straight.': STRAEUT/TP-PL
 'He': KPA/HE
 'turned': TURPBD
 'round': ROUPBD
@@ -309,7 +309,7 @@ She Was Good for Nothing
 'led': HRED
 'to': TO
 'the': -T
-'river,': REUFR KW-BG
+'river,': REUFR/KW-BG
 'where': W-R
 'his': HEUS
 'mother': PHOER
@@ -320,7 +320,7 @@ She Was Good for Nothing
 'by': PWEU
 'her': HER
 'washing': WARBG
-'bench,': PWEFRPB KW-BG
+'bench,': PWEFRPB/KW-BG
 'beating': PWAEGT
 'the': -T
 'linen': HREUPB/-PB
@@ -328,7 +328,7 @@ She Was Good for Nothing
 'a': AEU
 'heavy': HOEUF
 'wooden': WAOD/EPB
-'bar.': PWAR TP-PL
+'bar.': PWAR/TP-PL
 'The': KPA/-T
 'floodgates': TPHRAOD/TKPWAET/-S
 'at': AT
@@ -337,14 +337,14 @@ She Was Good for Nothing
 'had': H
 'been': PW-PB
 'drawn': TKRAUPB
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'as': AS
 'the': -T
 'water': WAUR
 'rolled': ROLD
 'rapidly': RAEPLD
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'the': -T
 'sheets': SHAOETS
 'were': WR
@@ -352,16 +352,16 @@ She Was Good for Nothing
 'along': HRAOPBG
 'by': PWEU
 'the': -T
-'stream,': STRAOEPL KW-BG
+'stream,': STRAOEPL/KW-BG
 'and': SKP
 'nearly': TPHAOERL
 'overturned': AUFR/TURPBD
 'the': -T
-'bench,': PWEFRPB KW-BG
+'bench,': PWEFRPB/KW-BG
 'so': SO
 'that': THA
 'the': -T
-'washer-woman': WARB/*ER H-PB WOPL
+'washer-woman': WARB/*ER/H-PB/WOPL
 'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
@@ -371,17 +371,17 @@ She Was Good for Nothing
 'to': TO
 'keep': KAOEP
 'it': T
-'steady.': STAED TP-PL
-'"I': KR-GS EU
+'steady.': STAED/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'been': PW-PB
 'very': SRE
 'nearly': TPHAOERL
 'carried': KAERD
-'away,"': WA*EU KW-BG KR-GS
+'away,"': WA*EU/KW-BG/KR-GS
 'she': SHE
-'said;': SED STPH*FPLT
-'"it': KR-GS T
+'said;': SED/STPH*FPLT
+'"it': KR-GS/T
 'is': S
 'a': AEU
 'good': TKPWAOD
@@ -389,33 +389,33 @@ She Was Good for Nothing
 'that': THA
 'you': U
 'are': R
-'come,': KOPL KW-BG
+'come,': KOPL/KW-BG
 'for': TPOR
 'I': EU
 'want': WAPBT
 'something': S-G
 'to': TO
 'strengthen': STREPBG/THEPB
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'It': KPA/T
 'is': S
 'cold': KOELD
 'in': TPH
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'I': EU
 'have': SR
 'stood': STAOD
 'here': HAOER
 'six': SEUBGS
-'hours.': HOURS TP-PL
+'hours.': HOURS/TP-PL
 'Have': KPA/SR
 'you': U
 'brought': PWRAUT
 'anything': TPHEUG
 'for': TPOR
-'me?"': PHE H-F KR-GS
+'me?"': PHE/H-F/KR-GS
 'The': KPA/-T
 'boy': PWOEU
 'drew': TKRAOU
@@ -423,7 +423,7 @@ She Was Good for Nothing
 'bottle': PWO*LT
 'from': TPR
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'the': -T
 'mother': PHOER
@@ -431,70 +431,70 @@ She Was Good for Nothing
 'it': T
 'to': TO
 'her': HER
-'lips,': HREUPS KW-BG
+'lips,': HREUPS/KW-BG
 'and': SKP
 'drank': TKRA*PBG
 'a': AEU
-'little.': HREUL TP-PL
-'"Ah,': KR-GS KPA/HA*E KW-BG
+'little.': HREUL/TP-PL
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
 'how': HOU
 'much': PHUFP
 'good': TKPWAOD
 'that': THA
-'does,': TKOS KW-BG
+'does,': TKOS/KW-BG
 'and': SKP
 'how': HOU
 'it': T
 'warms': WARPLS
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'she': SHE
-'said;': SED STPH*FPLT
-'"it': KR-GS T
+'said;': SED/STPH*FPLT
+'"it': KR-GS/T
 'is': S
 'as': AS
 'good': TKPWAOD
 'as': AS
 'a': AEU
 'hot': HOT
-'meal,': PHAOEL KW-BG
+'meal,': PHAOEL/KW-BG
 'and': SKP
 'not': TPHOT
 'so': SO
-'dear.': TKAER TP-PL
+'dear.': TKAER/TP-PL
 'Drink': KPA/TKREU
 'a': AEU
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'my': PHEU
-'boy;': PWOEU STPH*FPLT
+'boy;': PWOEU/STPH*FPLT
 'you': U
 'look': HRAOBG
 'quite': KWAOEUT
-'pale;': PAEL STPH*FPLT
+'pale;': PAEL/STPH*FPLT
 'you': U
 'are': R
 'shivering': SH*EUFR/-G
 'in': TPH
 'your': KWROUR
 'thin': THEUPB
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'autumn': AU/UPL
 'has': HAS
 'really': R-L
-'come.': KOPL TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'come.': KOPL/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'how': HOU
 'cold': KOELD
 'the': -T
 'water': WAUR
-'is!': S SKHRAPL
+'is!': S/SKHRAPL
 'I': EU
 'hope': HOEP
 'I': EU
 'shall': SHAL
 'not': TPHOT
 'be': -B
-'ill.': EUL TP-PL
+'ill.': EUL/TP-PL
 'But': KPA/PWUT
 'no,': TPHORBGS
 'I': EU
@@ -503,34 +503,34 @@ She Was Good for Nothing
 'be': -B
 'afraid': A/TPRAEUD
 'of': -F
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'Give': KPA/TKPWEUF
 'me': PHE
 'a': AEU
 'little': HREUL
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'and': SKP
 'you': U
 'may': PHAE
 'have': SR
 'a': AEU
 'sip': SEUP
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'but': PWUT
 'only': OEPBL
 'a': AEU
-'sip;': SEUP STPH*FPLT
+'sip;': SEUP/STPH*FPLT
 'you': U
 'must': PHUFT
 'not': TPHOT
 'get': TKPWET
 'used': AOUFD
 'to': TO
-'it,': T KW-BG
+'it,': T/KW-BG
 'my': PHEU
-'poor,': PAOR KW-BG
+'poor,': PAOR/KW-BG
 'dear': TKAER
-'child."': KHAOEULD TP-PL KR-GS
+'child."': KHAOEULD/TP-PL/KR-GS
 'She': KPA/SHE
 'stepped': STEPD
 'up': UP
@@ -544,11 +544,11 @@ She Was Good for Nothing
 'stood': STAOD
 'as': AS
 'she': SHE
-'spoke,': SPOEBG KW-BG
+'spoke,': SPOEBG/KW-BG
 'and': SKP
 'came': KAEUPL
 'on': OPB
-'shore.': SHOR TP-PL
+'shore.': SHOR/TP-PL
 'The': KPA/-T
 'water': WAUR
 'dripped': TKREUPD
@@ -562,12 +562,12 @@ She Was Good for Nothing
 'bound': PWOUPBD
 'round': ROUPBD
 'her': HER
-'body,': PWO*ED KW-BG
+'body,': PWO*ED/KW-BG
 'and': SKP
 'from': TPR
 'her': HER
-'gown.': TKPWOUPB TP-PL
-'"I': KR-GS EU
+'gown.': TKPWOUPB/TP-PL
+'"I': KR-GS/EU
 'work': WORBG
 'hard': HARD
 'and': SKP
@@ -576,14 +576,14 @@ She Was Good for Nothing
 'with': W
 'my': PHEU
 'poor': PAOR
-'hands,"': HAPBDZ KW-BG KR-GS
+'hands,"': HAPBDZ/KW-BG/KR-GS
 'said': SED
-'she,': SHE KW-BG
-'"but': KR-GS PWUT
+'she,': SHE/KW-BG
+'"but': KR-GS/PWUT
 'I': EU
 'do': TKO
 'it': T
-'willingly,': HR-G/HREU KW-BG
+'willingly,': HR-G/HREU/KW-BG
 'that': THA
 'I': EU
 'may': PHAE
@@ -595,32 +595,32 @@ She Was Good for Nothing
 'up': UP
 'honestly': HOPB/EFT/HREU
 'and': SKP
-'truthfully,': TRAO*UT/TPHREU KW-BG
+'truthfully,': TRAO*UT/TPHREU/KW-BG
 'my': PHEU
 'dear': TKAER
-'boy."': PWOEU TP-PL KR-GS
+'boy."': PWOEU/TP-PL/KR-GS
 'At': KPA/AT
 'the': -T
 'same': SAEUPL
-'moment,': PHOEPLT KW-BG
+'moment,': PHOEPLT/KW-BG
 'a': AEU
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'rather': RAER
 'older': OERLD
 'than': THAPB
-'herself,': H*ERS KW-BG
+'herself,': H*ERS/KW-BG
 'came': KAEUPL
 'towards': TORDZ
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'She': KPA/SHE
 'was': WAS
 'a': AEU
-'miserable-looking': PHEUZ/-BL SKWRAOG
-'object,': OBT KW-BG
+'miserable-looking': PHEUZ/-BL/SKWRAOG
+'object,': OBT/KW-BG
 'lame': HRAEUPL
 'of': -F
 'one': WUPB
-'leg,': HREG KW-BG
+'leg,': HREG/KW-BG
 'and': SKP
 'with': W
 'a': AEU
@@ -633,10 +633,10 @@ She Was Good for Nothing
 'one': WUPB
 'of': -F
 'her': HER
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'which': WEU
 'was': WAS
-'blind.': PWHRAOEUPBD TP-PL
+'blind.': PWHRAOEUPBD/TP-PL
 'This': KPA/TH
 'curl': KURL
 'was': WAS
@@ -645,7 +645,7 @@ She Was Good for Nothing
 'conceal': KAUPB/SAOEL
 'the': -T
 'blind': PWHRAOEUPBD
-'eye,': AOEU KW-BG
+'eye,': AOEU/KW-BG
 'but': PWUT
 'it': T
 'made': PHAED
@@ -653,41 +653,41 @@ She Was Good for Nothing
 'defect': TKEFBGT
 'only': OEPBL
 'more': PHOR
-'visible.': SREUBL TP-PL
+'visible.': SREUBL/TP-PL
 'She': KPA/SHE
 'was': WAS
 'a': AEU
 'friend': TPREPBD
 'of': -F
 'the': -T
-'laundress,': HRAUPBD/RESZ KW-BG
+'laundress,': HRAUPBD/RESZ/KW-BG
 'and': SKP
 'was': WAS
-'called,': KAULD KW-BG
+'called,': KAULD/KW-BG
 'among': PHOPBG
 'the': -T
-'neighbors,': TPHAEUBS KW-BG
-'"Lame': KR-GS KPA/HRAEUPL
-'Martha,': PHAR/THA KW-BG
+'neighbors,': TPHAEUBS/KW-BG
+'"Lame': KR-GS/KPA/HRAEUPL
+'Martha,': PHAR/THA/KW-BG
 'with': W
 'the': -T
-'curl."': KURL TP-PL KR-GS
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'curl."': KURL/TP-PL/KR-GS
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'you': U
 'poor': PAOR
-'thing;': THEUPBG STPH*FPLT
+'thing;': THEUPBG/STPH*FPLT
 'how': HOU
 'you': U
 'do': TKO
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'standing': STAPBG
 'there': THR
 'in': TPH
 'the': -T
-'water!"': WAUR SKHRAPL KR-GS
+'water!"': WAUR/SKHRAPL/KR-GS
 'she': SHE
-'exclaimed.': SKHRAEUPLD TP-PL
-'"You': KR-GS KPA/U
+'exclaimed.': SKHRAEUPLD/TP-PL
+'"You': KR-GS/KPA/U
 'really': R-L
 'do': TKO
 'need': TPHAOED
@@ -697,7 +697,7 @@ She Was Good for Nothing
 'you': U
 'a': AEU
 'little': HREUL
-'warmth,': WARPLT KW-BG
+'warmth,': WARPLT/KW-BG
 'and': SKP
 'yet': KWRET
 'spiteful': SPAOEUT/-FL
@@ -709,19 +709,19 @@ She Was Good for Nothing
 'few': TPAOU
 'drops': TKROPS
 'you': U
-'take."': TAEUBG TP-PL KR-GS
+'take."': TAEUBG/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'Martha': PHAR/THA
 'repeated': RE/PAOETD
 'to': TO
 'the': -T
-'laundress,': HRAUPBD/RESZ KW-BG
+'laundress,': HRAUPBD/RESZ/KW-BG
 'in': TPH
 'a': AEU
 'very': SRE
 'few': TPAOU
-'minutes,': PHEUPBS KW-BG
+'minutes,': PHEUPBS/KW-BG
 'all': AUL
 'that': THA
 'the': -T
@@ -730,11 +730,11 @@ She Was Good for Nothing
 'said': SED
 'to': TO
 'her': HER
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'which': WEU
 'she': SHE
 'had': H
-'overheard;': AUFR/HAERD STPH*FPLT
+'overheard;': AUFR/HAERD/STPH*FPLT
 'and': SKP
 'she': SHE
 'felt': TPELT
@@ -744,36 +744,36 @@ She Was Good for Nothing
 'any': TPHEU
 'man': PHAPB
 'could': KO
-'speak,': SPAOEBG KW-BG
+'speak,': SPAOEBG/KW-BG
 'as': AS
 'he': HE
 'had': H
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'of': -F
 'a': AEU
 'mother': PHOER
 'to': TO
 'her': HER
 'own': OEPB
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'about': PW
 'the': -T
 'few': TPAOU
 'drops': TKROPS
 'she': SHE
 'had': H
-'taken;': TAEPB STPH*FPLT
+'taken;': TAEPB/STPH*FPLT
 'and': SKP
 'she': SHE
 'was': WAS
 'still': STEUL
 'more': PHOR
 'angry': APBG/REU
-'because,': PWAU KW-BG
+'because,': PWAU/KW-BG
 'on': OPB
 'that': THA
 'very': SRE
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'the': -T
 'mayor': PHAEUR
 'was': WAS
@@ -781,47 +781,47 @@ She Was Good for Nothing
 'to': TO
 'have': SR
 'a': AEU
-'dinner-party,': TKEURPB H-PB PAERT KW-BG
+'dinner-party,': TKEURPB/H-PB/PAERT/KW-BG
 'at': AT
 'which': WEU
 'there': THR
 'would': WO
 'be': -B
-'wine,': WAOEUPB KW-BG
-'strong,': STROPBG KW-BG
+'wine,': WAOEUPB/KW-BG
+'strong,': STROPBG/KW-BG
 'rich': REUFP
-'wine,': WAOEUPB KW-BG
+'wine,': WAOEUPB/KW-BG
 'drunk': TKR*UPBG
 'by': PWEU
 'the': -T
-'bottle.': PWO*LT TP-PL
-'"Many': KR-GS KPA/PHAEPB
+'bottle.': PWO*LT/TP-PL
+'"Many': KR-GS/KPA/PHAEPB
 'will': HR
 'take': TAEUBG
 'more': PHOR
 'than': THAPB
 'they': THE
-'ought,': OT KW-BG
+'ought,': OT/KW-BG
 'but': PWUT
 'they': THE
 'don't': TKOEPBT
 'call': KAUL
 'that': THA
-'drinking!': TKREUG SKHRAPL
+'drinking!': TKREUG/SKHRAPL
 'They': KPA/THE
 'are': R
 'all': AUL
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'you': U
 'are': R
 'good': TKPWAOD
 'for': TPOR
 'nothing': TPHOG
-'indeed!"': TPHAOEPBD SKHRAPL KR-GS
+'indeed!"': TPHAOEPBD/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'Martha': PHAR/THA
-'indignantly.': EUPB/TKEUG/TPHAPBT/HREU TP-PL
-'"And': KR-GS AFPBD
+'indignantly.': EUPB/TKEUG/TPHAPBT/HREU/TP-PL
+'"And': KR-GS/AFPBD
 'so': SO
 'he': HE
 'spoke': SPOEBG
@@ -829,22 +829,22 @@ She Was Good for Nothing
 'you': U
 'in': TPH
 'that': THA
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'did': TK
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'my': PHEU
-'child?"': KHAOEULD H-F KR-GS
+'child?"': KHAOEULD/H-F/KR-GS
 'said': SED
 'the': -T
-'washer-woman,': WARB/*ER H-PB WOPL KW-BG
+'washer-woman,': WARB/*ER/H-PB/WOPL/KW-BG
 'and': SKP
 'her': HER
 'lips': HREUPS
 'trembled': TREPL/-BLD
 'as': AS
 'she': SHE
-'spoke.': SPOEBG TP-PL
-'"He': KR-GS KPA/HE
+'spoke.': SPOEBG/TP-PL
+'"He': KR-GS/KPA/HE
 'says': SEZ
 'you': U
 'have': SR
@@ -854,12 +854,12 @@ She Was Good for Nothing
 'is': S
 'good': TKPWAOD
 'for': TPOR
-'nothing.': TPHOG TP-PL
-'Well,': KPA/WEL KW-BG
+'nothing.': TPHOG/TP-PL
+'Well,': KPA/WEL/KW-BG
 'perhaps': PRAPS
 'he': HE
 'is': S
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'but': PWUT
 'he': HE
 'should': SHO
@@ -869,7 +869,7 @@ She Was Good for Nothing
 'it': T
 'to': TO
 'my': PHEU
-'child.': KHAOEULD TP-PL
+'child.': KHAOEULD/TP-PL
 'How': KPA/HOU
 'much': PHUFP
 'has': HAS
@@ -878,17 +878,17 @@ She Was Good for Nothing
 'me': PHE
 'from': TPR
 'that': THA
-'house!"': HOUS SKHRAPL KR-GS
-'"Yes,"': KR-GS KPA/KWRE KW-BG KR-GS
+'house!"': HOUS/SKHRAPL/KR-GS
+'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
 'said': SED
-'Martha;': PHAR/THA STPH*FPLT
-'"I': KR-GS EU
+'Martha;': PHAR/THA/STPH*FPLT
+'"I': KR-GS/EU
 'remember': RER
 'you': U
 'were': WR
 'in': TPH
 'service': S-FS
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'lived': HREUFD
 'in': TPH
@@ -896,16 +896,16 @@ She Was Good for Nothing
 'house': HOUS
 'when': WHEPB
 'the': -T
-'mayor's': PHAEUR AES
+'mayor's': PHAEUR/AES
 'parents': PARPBTS
 'were': WR
-'alive;': A/HRAOEUF STPH*FPLT
+'alive;': A/HRAOEUF/STPH*FPLT
 'how': HOU
 'many': PHAEPB
 'years': KWRAOERS
 'ago': AG
 'that': THA
-'is.': S TP-PL
+'is.': S/TP-PL
 'Bushels': KPA/PWURB/-LS
 'of': -F
 'salt': SALT
@@ -913,33 +913,33 @@ She Was Good for Nothing
 'been': PW-PB
 'eaten': AOET/EPB
 'since': SEUPBS
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'and': SKP
 'people': PAOEPL
 'may': PHAE
 'well': WEL
 'be': -B
-'thirsty,"': THEURS/TEU KW-BG KR-GS
+'thirsty,"': THEURS/TEU/KW-BG/KR-GS
 'and': SKP
 'Martha': PHAR/THA
-'smiled.': SPHAOEULD TP-PL
-'"The': KR-GS KPA/-T
-'mayor's': PHAEUR AES
+'smiled.': SPHAOEULD/TP-PL
+'"The': KR-GS/KPA/-T
+'mayor's': PHAEUR/AES
 'great': TKPWRAET
-'dinner-party': TKEURPB H-PB PAERT
-'to-day': TO TKA*EU
+'dinner-party': TKEURPB/H-PB/PAERT
+'to-day': TO/TKA*EU
 'ought': OT
 'to': TO
 'have': SR
 'been': PW-PB
 'put': PUT
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'but': PWUT
 'the': -T
 'news': TPHUS
 'came': KAEUPL
 'too': TAO
-'late.': HRAEUT TP-PL
+'late.': HRAEUT/TP-PL
 'The': KPA/-T
 'footman': TPAOT/PHA*PB
 'told': TOLD
@@ -948,7 +948,7 @@ She Was Good for Nothing
 'dinner': TKEURPB
 'was': WAS
 'already': HR-R
-'cooked,': KAOBGD KW-BG
+'cooked,': KAOBGD/KW-BG
 'when': WHEPB
 'a': AEU
 'letter': HRERT
@@ -957,26 +957,26 @@ She Was Good for Nothing
 'say': SAEU
 'that': THA
 'the': -T
-'mayor's': PHAEUR AES
+'mayor's': PHAEUR/AES
 'younger': KWRURPBG
 'brother': PWROER
 'in': TPH
 'Copenhagen': KOEP/*EPB/HAG
 'is': S
-'dead."': TKED TP-PL KR-GS
-'"Dead!"': KR-GS KPA/TKED SKHRAPL KR-GS
+'dead."': TKED/TP-PL/KR-GS
+'"Dead!"': KR-GS/KPA/TKED/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
-'laundress,': HRAUPBD/RESZ KW-BG
+'laundress,': HRAUPBD/RESZ/KW-BG
 'turning': TURPBG
 'pale': PAEL
 'as': AS
-'death.': TK*T TP-PL
-'"Yes,': KR-GS KPA/KWRE KW-BG
-'certainly,"': SERPBL KW-BG KR-GS
+'death.': TK*T/TP-PL
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'certainly,"': SERPBL/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
-'Martha;': PHAR/THA STPH*FPLT
-'"but': KR-GS PWUT
+'Martha;': PHAR/THA/STPH*FPLT
+'"but': KR-GS/PWUT
 'why': KWR
 'do': TKO
 'you': U
@@ -985,39 +985,39 @@ She Was Good for Nothing
 'so': SO
 'much': PHUFP
 'to': TO
-'heart?': HART H-F
+'heart?': HART/H-F
 'I': EU
 'suppose': SPOS
 'you': U
 'knew': TPHAOU
 'him': HEUPL
 'years': KWRAOERS
-'ago,': AG KW-BG
+'ago,': AG/KW-BG
 'when': WHEPB
 'you': U
 'were': WR
 'in': TPH
 'service': S-FS
-'there?"': THR H-F KR-GS
-'"Is': KR-GS KPA/S
+'there?"': THR/H-F/KR-GS
+'"Is': KR-GS/KPA/S
 'he': HE
-'dead?"': TKED H-F KR-GS
+'dead?"': TKED/H-F/KR-GS
 'she': SHE
-'exclaimed.': SKHRAEUPLD TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'exclaimed.': SKHRAEUPLD/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'he': HE
 'was': WAS
 'such': SUFP
 'a': AEU
-'kind,': KEUPBD KW-BG
-'good-hearted': TKPWAOD H-PB HART/-D
-'man,': PHAPB KW-BG
+'kind,': KEUPBD/KW-BG
+'good-hearted': TKPWAOD/H-PB/HART/-D
+'man,': PHAPB/KW-BG
 'there': THR
 'are': R
 'not': TPHOT
 'many': PHAEPB
 'like': HRAOEUBG
-'him,"': HEUPL KW-BG KR-GS
+'him,"': HEUPL/KW-BG/KR-GS
 'and': SKP
 'the': -T
 'tears': TAERS
@@ -1027,62 +1027,62 @@ She Was Good for Nothing
 'cheeks': KHAOEBGS
 'as': AS
 'she': SHE
-'spoke.': SPOEBG TP-PL
+'spoke.': SPOEBG/TP-PL
 'Then': KPA/THEPB
 'she': SHE
-'cried,': KRAOEUD KW-BG
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'cried,': KRAOEUD/KW-BG
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'dear': TKAER
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'I': EU
 'feel': TPAOEL
 'quite': KWAOEUT
-'ill:': EUL STPH-FPLT
+'ill:': EUL/STPH-FPLT
 'everything': EFRG
 'is': S
 'going': TKPW-G
 'round': ROUPBD
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'cannot': SK-PBT
 'bear': PWAER
-'it.': T TP-PL
+'it.': T/TP-PL
 'Is': KPA/S
 'the': -T
 'bottle': PWO*LT
-'empty?"': EPLT H-F KR-GS
+'empty?"': EPLT/H-F/KR-GS
 'and': SKP
 'she': SHE
 'leaned': HRAOEPBD
 'against': TKPWEPBS
 'the': -T
-'plank.': PHRA*PBG TP-PL
-'"Dear': KR-GS KPA/TKAER
-'me,': PHE KW-BG
+'plank.': PHRA*PBG/TP-PL
+'"Dear': KR-GS/KPA/TKAER
+'me,': PHE/KW-BG
 'you': U
 'are': R
 'ill': EUL
-'indeed,"': TPHAOEPBD KW-BG KR-GS
+'indeed,"': TPHAOEPBD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'other': OER
-'woman.': WOPL TP-PL
-'"Come,': KR-GS KPA/KOPL KW-BG
+'woman.': WOPL/TP-PL
+'"Come,': KR-GS/KPA/KOPL/KW-BG
 'cheer': KHAOER
-'up;': UP STPH*FPLT
+'up;': UP/STPH*FPLT
 'perhaps': PRAPS
 'it': T
 'will': HR
 'pass': PAS
-'off.': OF TP-PL
-'No,': KPA/TPHO KW-BG
-'indeed,': TPHAOEPBD KW-BG
+'off.': OF/TP-PL
+'No,': KPA/TPHO/KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'I': EU
 'see': SAOE
 'you': U
 'are': R
 'really': R-L
-'ill;': EUL STPH*FPLT
+'ill;': EUL/STPH*FPLT
 'the': -T
 'best': PWEFT
 'thing': THEUPBG
@@ -1094,22 +1094,22 @@ She Was Good for Nothing
 'to': TO
 'lead': HRAED
 'you': U
-'home."': HOEPL TP-PL KR-GS
-'"But': KR-GS KPA/PWUT
+'home."': HOEPL/TP-PL/KR-GS
+'"But': KR-GS/KPA/PWUT
 'my': PHEU
 'washing': WARBG
-'yonder?"': KWROPBD/ER H-F KR-GS
-'"I': KR-GS EU
+'yonder?"': KWROPBD/ER/H-F/KR-GS
+'"I': KR-GS/EU
 'will': HR
 'take': TAEUBG
 'care': KAEUR
 'of': -F
-'that.': THA TP-PL
-'Come,': KPA/KOPL KW-BG
+'that.': THA/TP-PL
+'Come,': KPA/KOPL/KW-BG
 'give': TKPWEUF
 'me': PHE
 'your': KWROUR
-'arm.': ARPL TP-PL
+'arm.': ARPL/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'can': K
@@ -1120,7 +1120,7 @@ She Was Good for Nothing
 'care': KAEUR
 'of': -F
 'the': -T
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'and': SKP
 'I'll': AOEUL
 'come': KOPL
@@ -1128,12 +1128,12 @@ She Was Good for Nothing
 'and': SKP
 'finish': TP*EURB
 'the': -T
-'washing;': WARBG STPH*FPLT
+'washing;': WARBG/STPH*FPLT
 'it': T
 'is': S
 'but': PWUT
 'a': AEU
-'trifle."': TRAOEUFL TP-PL KR-GS
+'trifle."': TRAOEUFL/TP-PL/KR-GS
 'The': KPA/-T
 'limbs': HREUPLS
 'of': -F
@@ -1141,11 +1141,11 @@ She Was Good for Nothing
 'laundress': HRAUPBD/RESZ
 'shook': SHAOBG
 'under': TPH-PB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'she': SHE
-'said,': SED KW-BG
-'"I': KR-GS EU
+'said,': SED/KW-BG
+'"I': KR-GS/EU
 'have': SR
 'stood': STAOD
 'too': TAO
@@ -1153,7 +1153,7 @@ She Was Good for Nothing
 'in': TPH
 'the': -T
 'cold': KOELD
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'I': EU
 'have': SR
@@ -1166,56 +1166,56 @@ She Was Good for Nothing
 'day': TKAEU
 'since': SEUPBS
 'the': -T
-'morning.': PHORPBG TP-PL
+'morning.': PHORPBG/TP-PL
 'O': O*P
 'kind': KEUPBD
-'Heaven,': KPA/HEFPB KW-BG
+'Heaven,': KPA/HEFPB/KW-BG
 'help': HEP
 'me': PHE
 'to': TO
 'get': TKPWET
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'I': EU
 'am': APL
 'in': TPH
 'a': AEU
 'burning': PWURPBG
-'fever.': TPAOEF TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'fever.': TPAOEF/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'my': PHEU
 'poor': PAOR
-'child,"': KHAOEULD KW-BG KR-GS
+'child,"': KHAOEULD/KW-BG/KR-GS
 'and': SKP
 'she': SHE
 'burst': PWUFRT
 'into': TPHAO
-'tears.': TAERS TP-PL
+'tears.': TAERS/TP-PL
 'And': AFPBD
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'poor': PAOR
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'wept': WEPT
-'also,': HR-S KW-BG
+'also,': HR-S/KW-BG
 'as': AS
 'he': HE
 'sat': SAT
 'alone': A/HROEPB
 'by': PWEU
 'the': -T
-'river,': REUFR KW-BG
+'river,': REUFR/KW-BG
 'near': TPHAOER
 'to': TO
 'and': SKP
 'watching': WAFPG
 'the': -T
 'damp': TKAFRP
-'linen.': HREUPB/-PB TP-PL
+'linen.': HREUPB/-PB/TP-PL
 'The': KPA/-T
 'two': TWO
 'women': WEUPL
 'walked': WAUBGD
 'very': SRE
-'slowly.': SHROEL TP-PL
+'slowly.': SHROEL/TP-PL
 'The': KPA/-T
 'laundress': HRAUPBD/RESZ
 'slipped': SHREUPD
@@ -1223,18 +1223,18 @@ She Was Good for Nothing
 'tottered': xxx tottered
 'through': THRU
 'the': -T
-'lane,': HRAEPB KW-BG
+'lane,': HRAEPB/KW-BG
 'and': SKP
 'round': ROUPBD
 'the': -T
-'corner,': KRORPB KW-BG
+'corner,': KRORPB/KW-BG
 'into': TPHAO
 'the': -T
 'street': STRAOET
 'where': W-R
 'the': -T
 'mayor': PHAEUR
-'lived;': HREUFD STPH*FPLT
+'lived;': HREUFD/STPH*FPLT
 'and': SKP
 'just': SKWRUFT
 'as': AS
@@ -1244,18 +1244,18 @@ She Was Good for Nothing
 'front': TPROPBT
 'of': -F
 'his': HEUS
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'she': SHE
 'sank': SA*PBG
 'down': TKOUPB
 'upon': POPB
 'the': -T
-'pavement.': PAEUFPLT TP-PL
+'pavement.': PAEUFPLT/TP-PL
 'Many': KPA/PHAEPB
 'persons': PERPBS
 'came': KAEUPL
 'round': ROUPBD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'Lame': KPA/HRAEUPL
 'Martha': PHAR/THA
@@ -1264,7 +1264,7 @@ She Was Good for Nothing
 'the': -T
 'house': HOUS
 'for': TPOR
-'help.': HEP TP-PL
+'help.': HEP/TP-PL
 'The': KPA/-T
 'mayor': PHAEUR
 'and': SKP
@@ -1273,27 +1273,27 @@ She Was Good for Nothing
 'came': KAEUPL
 'to': TO
 'the': -T
-'window.': WOEUPBD TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'window.': WOEUPBD/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'it': T
 'is': S
 'the': -T
-'laundress,"': HRAUPBD/RESZ KW-BG KR-GS
+'laundress,"': HRAUPBD/RESZ/KW-BG/KR-GS
 'said': SED
-'he;': HE STPH*FPLT
-'"she': KR-GS SHE
+'he;': HE/STPH*FPLT
+'"she': KR-GS/SHE
 'has': HAS
 'had': H
 'a': AEU
 'little': HREUL
 'drop': TKROP
 'too': TAO
-'much.': PHUFP TP-PL
+'much.': PHUFP/TP-PL
 'She': KPA/SHE
 'is': S
 'good': TKPWAOD
 'for': TPOR
-'nothing.': TPHOG TP-PL
+'nothing.': TPHOG/TP-PL
 'It': KPA/T
 'is': S
 'a': AEU
@@ -1303,27 +1303,27 @@ She Was Good for Nothing
 'her': HER
 'pretty': PREUT
 'little': HREUL
-'son.': SOPB TP-PL
+'son.': SOPB/TP-PL
 'I': EU
 'like': HRAOEUBG
 'the': -T
 'boy': PWOEU
 'very': SRE
-'well;': WEL STPH*FPLT
+'well;': WEL/STPH*FPLT
 'but': PWUT
 'the': -T
 'mother': PHOER
 'is': S
 'good': TKPWAOD
 'for': TPOR
-'nothing."': TPHOG TP-PL KR-GS
+'nothing."': TPHOG/TP-PL/KR-GS
 'After': KPA/AF
 'a': AEU
 'while': WHAOEUL
 'the': -T
 'laundress': HRAUPBD/RESZ
 'recovered': ROFRD
-'herself,': H*ERS KW-BG
+'herself,': H*ERS/KW-BG
 'and': SKP
 'they': THE
 'led': HRED
@@ -1331,12 +1331,12 @@ She Was Good for Nothing
 'to': TO
 'her': HER
 'poor': PAOR
-'dwelling,': TKWELG KW-BG
+'dwelling,': TKWELG/KW-BG
 'and': SKP
 'put': PUT
 'her': HER
 'to': TO
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'Kind': KPA/KEUPBD
 'Martha': PHAR/THA
 'warmed': WARPLD
@@ -1345,52 +1345,52 @@ She Was Good for Nothing
 'of': -F
 'beer': PWAOER
 'for': TPOR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'with': W
 'butter': PWAOURT
 'and': SKP
-'sugar—she': SHURG EPL/TKA*RB SHE
+'sugar—she': SHURG/EPL/TKA*RB/SHE
 'considered': KR-D
 'this': TH
 'the': -T
 'best': PWEFT
-'medicine—and': PHED EPL/TKA*RB SKP
+'medicine—and': PHED/EPL/TKA*RB/SKP
 'then': THEPB
 'hastened': HAEUS/-PBD
 'to': TO
 'the': -T
-'river,': REUFR KW-BG
+'river,': REUFR/KW-BG
 'washed': WARBD
 'and': SKP
-'rinsed,': REUPBS/-D KW-BG
+'rinsed,': REUPBS/-D/KW-BG
 'badly': PWAD/HREU
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'to': TO
 'be': -B
-'sure,': SHUR KW-BG
+'sure,': SHUR/KW-BG
 'but': PWUT
 'she': SHE
 'did': TK
 'her': HER
-'best.': PWEFT TP-PL
+'best.': PWEFT/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'drew': TKRAOU
 'the': -T
 'linen': HREUPB/-PB
-'ashore,': A/SHOR KW-BG
+'ashore,': A/SHOR/KW-BG
 'wet': WET
 'as': AS
 'it': T
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'and': SKP
 'laid': HRAEUD
 'it': T
 'in': TPH
 'a': AEU
-'basket.': PWAFBGT TP-PL
+'basket.': PWAFBGT/TP-PL
 'Before': KPA/PW-FR
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'she': SHE
 'was': WAS
 'sitting': SEUGT
@@ -1401,9 +1401,9 @@ She Was Good for Nothing
 'room': RAOPL
 'with': W
 'the': -T
-'laundress.': HRAUPBD/RESZ TP-PL
+'laundress.': HRAUPBD/RESZ/TP-PL
 'The': KPA/-T
-'mayor's': PHAEUR AES
+'mayor's': PHAEUR/AES
 'cook': KAOBG
 'had': H
 'given': TKPWEUFPB
@@ -1420,7 +1420,7 @@ She Was Good for Nothing
 'for': TPOR
 'the': -T
 'sick': SEUBG
-'woman.': WOPL TP-PL
+'woman.': WOPL/TP-PL
 'Martha': PHAR/THA
 'and': SKP
 'the': -T
@@ -1430,7 +1430,7 @@ She Was Good for Nothing
 'good': TKPWAOD
 'things': THEUPBGS
 'very': SRE
-'much;': PHUFP STPH*FPLT
+'much;': PHUFP/STPH*FPLT
 'but': PWUT
 'the': -T
 'sick': SEUBG
@@ -1443,16 +1443,16 @@ She Was Good for Nothing
 'smell': SPHEL
 'was': WAS
 'very': SRE
-'nourishing,': TPHUR/EURB/-G KW-BG
+'nourishing,': TPHUR/EURB/-G/KW-BG
 'she': SHE
-'thought.': THAUT TP-PL
-'By-and-by': KPA/PWEU H-PB SKP H-PB PWEU
+'thought.': THAUT/TP-PL
+'By-and-by': KPA/PWEU/H-PB/SKP/H-PB/PWEU
 'the': -T
 'boy': PWOEU
 'was': WAS
 'put': PUT
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'in': TPH
 'the': -T
 'same': SAEUPL
@@ -1464,13 +1464,13 @@ She Was Good for Nothing
 'which': WEU
 'his': HEUS
 'mother': PHOER
-'lay;': HRAEU STPH*FPLT
+'lay;': HRAEU/STPH*FPLT
 'but': PWUT
 'he': HE
 'slept': SHREPT
 'at': AT
 'her': HER
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'covered': KOFRD
 'with': W
 'an': APB
@@ -1481,7 +1481,7 @@ She Was Good for Nothing
 'blue': PWHRU
 'and': SKP
 'white': WHAOEUT
-'patchwork.': PAFP/WORBG TP-PL
+'patchwork.': PAFP/WORBG/TP-PL
 'The': KPA/-T
 'laundress': HRAUPBD/RESZ
 'felt': TPELT
@@ -1490,13 +1490,13 @@ She Was Good for Nothing
 'better': PWOERT
 'by': PWEU
 'this': TH
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'The': KPA/-T
 'warm': WARPL
 'beer': PWAOER
 'had': H
 'strengthened': STR*EPBG/-PBD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'the': -T
 'smell': SPHEL
@@ -1508,30 +1508,30 @@ She Was Good for Nothing
 'been': PW-PB
 'pleasant': PHREFPBT
 'to': TO
-'her.': HER TP-PL
-'"Many': KR-GS KPA/PHAEPB
-'thanks,': THAPBGS KW-BG
+'her.': HER/TP-PL
+'"Many': KR-GS/KPA/PHAEPB
+'thanks,': THAPBGS/KW-BG
 'you': U
 'good': TKPWAOD
-'soul,"': SOUL KW-BG KR-GS
+'soul,"': SOUL/KW-BG/KR-GS
 'she': SHE
 'said': SED
 'to': TO
-'Martha.': PHAR/THA TP-PL
-'"Now': KR-GS KPA/TPHOU
+'Martha.': PHAR/THA/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'the': -T
 'boy': PWOEU
 'is': S
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'I': EU
 'will': HR
 'tell': TEL
 'you': U
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'He': KPA/HE
 'is': S
 'soon': SAOPB
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'How': KPA/HOU
 'gentle': SKWR*EPBLT
 'and': SKP
@@ -1545,7 +1545,7 @@ She Was Good for Nothing
 'with': W
 'his': HEUS
 'eyes': AO*EUS
-'closed!': KHROEFD SKHRAPL
+'closed!': KHROEFD/SKHRAPL
 'He': KPA/HE
 'does': TKOS
 'not': TPHOT
@@ -1554,7 +1554,7 @@ She Was Good for Nothing
 'his': HEUS
 'mother': PHOER
 'has': HAS
-'suffered;': SUFRD STPH*FPLT
+'suffered;': SUFRD/STPH*FPLT
 'and': SKP
 'Heaven': KPA/HEFPB
 'grant': TKPWRAPBT
@@ -1562,19 +1562,19 @@ She Was Good for Nothing
 'never': TPHEFR
 'may': PHAE
 'know': TPHOE
-'it.': T TP-PL
+'it.': T/TP-PL
 'I': EU
 'was': WAS
 'in': TPH
 'service': S-FS
 'at': AT
 'the': -T
-'counsellor's,': KOUPBL/A*U AE S* KW-BG
+'counsellor's,': KOUPBL/A*U/AE/S*/KW-BG
 'the': -T
 'father': TPAER
 'of': -F
 'the': -T
-'mayor,': PHAEUR KW-BG
+'mayor,': PHAEUR/KW-BG
 'and': SKP
 'it': T
 'happened': HAPD
@@ -1583,20 +1583,20 @@ She Was Good for Nothing
 'youngest': KWRUPBG/EFT
 'of': -F
 'his': HEUS
-'sons,': SOPBS KW-BG
+'sons,': SOPBS/KW-BG
 'the': -T
-'student,': STAUPB KW-BG
+'student,': STAUPB/KW-BG
 'came': KAEUPL
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'I': EU
 'was': WAS
 'a': AEU
 'young': KWRUPBG
 'wild': WAOEULD
 'girl': TKPWEURL
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'but': PWUT
-'honest;': HOPBS STPH*FPLT
+'honest;': HOPBS/STPH*FPLT
 'that': THA
 'I': EU
 'can': K
@@ -1605,16 +1605,16 @@ She Was Good for Nothing
 'the': -T
 'sight': SAOEUT
 'of': -F
-'Heaven.': KPA/HEFPB TP-PL
+'Heaven.': KPA/HEFPB/TP-PL
 'The': KPA/-T
 'student': STAUPB
 'was': WAS
 'merry': PHER/REU
 'and': SKP
-'gay,': TKPWAEU KW-BG
+'gay,': TKPWAEU/KW-BG
 'brave': PWRAEUF
 'and': SKP
-'affectionate;': A*FBGS/TPHAT STPH*FPLT
+'affectionate;': A*FBGS/TPHAT/STPH*FPLT
 'every': EF
 'drop': TKROP
 'of': -F
@@ -1624,41 +1624,41 @@ She Was Good for Nothing
 'was': WAS
 'good': TKPWAOD
 'and': SKP
-'honorable;': HOPB/RABL STPH*FPLT
+'honorable;': HOPB/RABL/STPH*FPLT
 'a': AEU
 'better': PWOERT
 'man': PHAPB
 'never': TPHEFR
 'lived': HREUFD
 'on': OPB
-'earth.': *ERT TP-PL
+'earth.': *ERT/TP-PL
 'He': KPA/HE
 'was': WAS
 'the': -T
 'son': SOPB
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'I': EU
 'was': WAS
 'only': OEPBL
 'a': AEU
-'maid;': PHAEUD STPH*FPLT
+'maid;': PHAEUD/STPH*FPLT
 'but': PWUT
 'he': HE
 'loved': HROFD
 'me': PHE
 'truly': TRAOUL
 'and': SKP
-'honorably,': HOPB/RAEBL KW-BG
+'honorably,': HOPB/RAEBL/KW-BG
 'and': SKP
 'he': HE
 'told': TOLD
 'his': HEUS
 'mother': PHOER
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'She': KPA/SHE
 'was': WAS
 'to': TO
@@ -1667,17 +1667,17 @@ She Was Good for Nothing
 'an': APB
 'angel': APB/SKWREL
 'upon': POPB
-'earth;': *ERT STPH*FPLT
+'earth;': *ERT/STPH*FPLT
 'she': SHE
 'was': WAS
 'so': SO
 'wise': WAOEUS
 'and': SKP
-'loving.': HRUFG TP-PL
+'loving.': HRUFG/TP-PL
 'He': KPA/HE
 'went': WEPBT
 'to': TO
-'travel,': TRAFL KW-BG
+'travel,': TRAFL/KW-BG
 'and': SKP
 'before': PW-FR
 'he': HE
@@ -1689,7 +1689,7 @@ She Was Good for Nothing
 'ring': REUPBG
 'on': OPB
 'my': PHEU
-'finger;': TPEURPBG STPH*FPLT
+'finger;': TPEURPBG/STPH*FPLT
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -1699,12 +1699,12 @@ She Was Good for Nothing
 'out': OUT
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'my': PHEU
 'mistress': PHEUS/TRES
 'sent': SEPBT
 'for': TPOR
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'Gently': KPA/SKWREPBT/HREU
 'and': SKP
 'earnestly': ERPB/EFT/HREU
@@ -1712,7 +1712,7 @@ She Was Good for Nothing
 'drew': TKRAOU
 'me': PHE
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'spake': S*/P*/A*/K*/*E
 'as': AS
@@ -1720,16 +1720,16 @@ She Was Good for Nothing
 'an': APB
 'angel': APB/SKWREL
 'were': WR
-'speaking.': SPAOEG TP-PL
+'speaking.': SPAOEG/TP-PL
 'She': KPA/SHE
 'showed': SHOED
 'me': PHE
-'clearly,': KAOERL KW-BG
+'clearly,': KAOERL/KW-BG
 'in': TPH
 'spirit': SPEURT
 'and': SKP
 'in': TPH
-'truth,': TRAO*UT KW-BG
+'truth,': TRAO*UT/KW-BG
 'the': -T
 'difference': TKEUFRPBS
 'there': THR
@@ -1737,24 +1737,24 @@ She Was Good for Nothing
 'between': TWAOEPB
 'him': HEUPL
 'and': SKP
-'me.': PHE TP-PL
-''He': AE KPA/HE
+'me.': PHE/TP-PL
+''He': AE/KPA/HE
 'is': S
 'pleased': PHREFD
-'now,'': TPHOU KW-BG AE
+'now,'': TPHOU/KW-BG/AE
 'she': SHE
-'said,': SED KW-BG
-''with': AE W
+'said,': SED/KW-BG
+''with': AE/W
 'your': KWROUR
 'pretty': PREUT
-'face;': TPAEUS STPH*FPLT
+'face;': TPAEUS/STPH*FPLT
 'but': PWUT
 'good': TKPWAOD
 'looks': HRAOBGS
 'do': TKO
 'not': TPHOT
 'last': HRAFT
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL
 'You': KPA/U
 'have': SR
 'not': TPHOT
@@ -1762,7 +1762,7 @@ She Was Good for Nothing
 'educated': TAEUBGTD
 'like': HRAOEUBG
 'he': HE
-'has.': HAS TP-PL
+'has.': HAS/TP-PL
 'You': KPA/U
 'are': R
 'not': TPHOT
@@ -1770,23 +1770,23 @@ She Was Good for Nothing
 'in': TPH
 'mind': PHAOEUPBD
 'and': SKP
-'rank,': RA*PBG KW-BG
+'rank,': RA*PBG/KW-BG
 'and': SKP
 'therein': THR-PB
 'lies': HRAO*EUS
 'the': -T
-'misfortune.': PHEUZ/TP-RPB TP-PL
+'misfortune.': PHEUZ/TP-RPB/TP-PL
 'I': EU
 'esteem': ES/TAOEPL
 'the': -T
-'poor,'': PAOR KW-BG AE
+'poor,'': PAOR/KW-BG/AE
 'she': SHE
-'added.': AD/-D TP-PL
-''In': AE KPA/TPH
+'added.': AD/-D/TP-PL
+''In': AE/KPA/TPH
 'the': -T
 'sight': SAOEUT
 'of': -F
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'they': THE
 'may': PHAE
 'occupy': OBG/PAOEU
@@ -1797,7 +1797,7 @@ She Was Good for Nothing
 'many': PHAEPB
 'of': -F
 'the': -T
-'rich;': REUFP STPH*FPLT
+'rich;': REUFP/STPH*FPLT
 'but': PWUT
 'here': HAOER
 'upon': POPB
@@ -1810,14 +1810,14 @@ She Was Good for Nothing
 'upon': POPB
 'a': AEU
 'false': TPALS
-'track,': TRABG KW-BG
+'track,': TRABG/KW-BG
 'lest': HR*ES
 'we': WE
 'are': R
 'overturned': AUFR/TURPBD
 'in': TPH
 'our': OUR
-'plans,': PHRAPBS KW-BG
+'plans,': PHRAPBS/KW-BG
 'like': HRAOEUBG
 'a': AEU
 'carriage': KAEURPBLG
@@ -1826,40 +1826,40 @@ She Was Good for Nothing
 'by': PWEU
 'a': AEU
 'dangerous': TKAEUPBLGS
-'road.': RAOD TP-PL
+'road.': RAOD/TP-PL
 'I': EU
 'know': TPHOE
 'a': AEU
 'worthy': WO*RT/KWREU
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'an': APB
-'artisan,': ART/SAPB KW-BG
+'artisan,': ART/SAPB/KW-BG
 'who': WHO
 'wishes': WEURBS
 'to': TO
 'marry': PHAER
-'you.': U TP-PL
+'you.': U/TP-PL
 'I': EU
 'mean': PHAOEPB
-'Eric,': *ERBG KW-BG
+'Eric,': *ERBG/KW-BG
 'the': -T
-'glovemaker.': TKPWHROF/PHA*EURBG TP-PL
+'glovemaker.': TKPWHROF/PHA*EURBG/TP-PL
 'He': KPA/HE
 'is': S
 'a': AEU
-'widower,': WEUD/OER KW-BG
+'widower,': WEUD/OER/KW-BG
 'without': WOUT
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'and': SKP
 'in': TPH
 'a': AEU
 'good': TKPWAOD
-'position.': POGS TP-PL
+'position.': POGS/TP-PL
 'Will': W*EUL
 'you': U
 'think': THEU
 'it': T
-'over?'': OEFR H-F AE
+'over?'': OEFR/H-F/AE
 'Every': KPA/EF
 'word': WORD
 'she': SHE
@@ -1869,28 +1869,28 @@ She Was Good for Nothing
 'heart': HART
 'like': HRAOEUBG
 'a': AEU
-'knife;': TPHAOEUF STPH*FPLT
+'knife;': TPHAOEUF/STPH*FPLT
 'but': PWUT
 'I': EU
 'knew': TPHAOU
 'she': SHE
 'was': WAS
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'and': SKP
 'the': -T
 'thought': THAUT
 'pressed': PREFD
 'heavily': HEFL
 'upon': POPB
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'I': EU
 'kissed': K*EUFD
 'her': HER
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
 'wept': WEPT
 'bitter': PWEURT
-'tears,': TAERS KW-BG
+'tears,': TAERS/KW-BG
 'and': SKP
 'I': EU
 'wept': WEPT
@@ -1901,28 +1901,28 @@ She Was Good for Nothing
 'went': WEPBT
 'to': TO
 'my': PHEU
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'threw': THRAOU
 'myself': PHAO*EUS
 'on': OPB
 'the': -T
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'I': EU
 'passed': PAFD
 'through': THRU
 'a': AEU
 'dreadful': TKREFL
-'night;': TPHAOEUT STPH*FPLT
+'night;': TPHAOEUT/STPH*FPLT
 'God': TKPWO*D
 'knows': TPHOEZ
 'what': WHA
 'I': EU
-'suffered,': SUFRD KW-BG
+'suffered,': SUFRD/KW-BG
 'and': SKP
 'how': HOU
 'I': EU
-'struggled.': STRULGD TP-PL
+'struggled.': STRULGD/TP-PL
 'The': KPA/-T
 'following': TPOLG
 'Sunday': SUPBD
@@ -1940,7 +1940,7 @@ She Was Good for Nothing
 'to': TO
 'direct': TKREBGT
 'my': PHEU
-'path.': PA*T TP-PL
+'path.': PA*T/TP-PL
 'It': KPA/T
 'seemed': SAOEPLD
 'like': HRAOEUBG
@@ -1956,7 +1956,7 @@ She Was Good for Nothing
 'Eric': *ERBG
 'came': KAEUPL
 'towards': TORDZ
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'and': SKP
 'then': THEPB
 'there': THR
@@ -1966,7 +1966,7 @@ She Was Good for Nothing
 'doubt': TKOUT
 'in': TPH
 'my': PHEU
-'mind.': PHAOEUPBD TP-PL
+'mind.': PHAOEUPBD/TP-PL
 'We': KPA/WE
 'were': WR
 'suited': SAOUTD
@@ -1976,44 +1976,44 @@ She Was Good for Nothing
 'in': TPH
 'rank': RA*PBG
 'and': SKP
-'circumstances.': SEURBGS TP-PL
+'circumstances.': SEURBGS/TP-PL
 'He': KPA/HE
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'even': AOEPB
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'a': AEU
 'man': PHAPB
 'of': -F
 'good': TKPWAOD
-'means.': PHAOEPBS TP-PL
+'means.': PHAOEPBS/TP-PL
 'I': EU
 'went': WEPBT
 'up': UP
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'took': TAOBG
 'his': HEUS
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Do': AE KPA/TKO
+'said,': SED/KW-BG
+''Do': AE/KPA/TKO
 'you': U
 'still': STEUL
 'feel': TPAOEL
 'the': -T
 'same': SAEUPL
 'for': TPOR
-'me?'': PHE H-F AE
-''Yes;': AE KPA/KWRE STPH*FPLT
+'me?'': PHE/H-F/AE
+''Yes;': AE/KPA/KWRE/STPH*FPLT
 'ever': -FR
 'and': SKP
-'always,'': AULS KW-BG AE
+'always,'': AULS/KW-BG/AE
 'said': SED
-'he.': HE TP-PL
-''Will': AE W*EUL
-'you,': U KW-BG
-'then,': THEPB KW-BG
+'he.': HE/TP-PL
+''Will': AE/W*EUL
+'you,': U/KW-BG
+'then,': THEPB/KW-BG
 'marry': PHAER
 'a': AEU
 'maiden': PHAEUD/*EPB
@@ -2021,37 +2021,37 @@ She Was Good for Nothing
 'honors': HO*RPBS
 'and': SKP
 'esteems': ES/TAOEPL/-S
-'you,': U KW-BG
+'you,': U/KW-BG
 'although': HR*T
 'she': SHE
 'cannot': SK-PBT
 'offer': OFR
 'you': U
 'her': HER
-'love?': HRUF H-F
+'love?': HRUF/H-F
 'but': PWUT
 'that': THA
 'may': PHAE
-'come.'': KOPL TP-PL AE
-''Yes,': AE KPA/KWRE KW-BG
+'come.'': KOPL/TP-PL/AE
+''Yes,': AE/KPA/KWRE/KW-BG
 'it': T
 'will': HR
-'come,'': KOPL KW-BG AE
+'come,'': KOPL/KW-BG/AE
 'said': SED
-'he;': HE STPH*FPLT
+'he;': HE/STPH*FPLT
 'and': SKP
 'we': WE
 'joined': SKWROEUPBD
 'our': OUR
 'hands': HAPBDZ
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'I': EU
 'went': WEPBT
 'home': HOEPL
 'to': TO
 'my': PHEU
-'mistress.': PHEUS/TRES TP-PL
+'mistress.': PHEUS/TRES/TP-PL
 'The': KPA/-T
 'gold': TKPWOELD
 'ring': REUPBG
@@ -2066,7 +2066,7 @@ She Was Good for Nothing
 'next': TPHEGT
 'to': TO
 'my': PHEU
-'heart.': HART TP-PL
+'heart.': HART/TP-PL
 'I': EU
 'could': KO
 'not': TPHOT
@@ -2077,17 +2077,17 @@ She Was Good for Nothing
 'finger': TPEURPBG
 'during': TKURG
 'the': -T
-'daytime,': TKAEUPLT KW-BG
+'daytime,': TKAEUPLT/KW-BG
 'but': PWUT
 'only': OEPBL
 'in': TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'when': WHEPB
 'I': EU
 'went': WEPBT
 'to': TO
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'I': EU
 'kissed': K*EUFD
 'the': -T
@@ -2096,7 +2096,7 @@ She Was Good for Nothing
 'my': PHEU
 'lips': HREUPS
 'almost': HR-PL
-'bled,': PWHRED KW-BG
+'bled,': PWHRED/KW-BG
 'and': SKP
 'then': THEPB
 'I': EU
@@ -2104,7 +2104,7 @@ She Was Good for Nothing
 'it': T
 'to': TO
 'my': PHEU
-'mistress,': PHEUS/TRES KW-BG
+'mistress,': PHEUS/TRES/KW-BG
 'and': SKP
 'told': TOLD
 'her': HER
@@ -2123,7 +2123,7 @@ She Was Good for Nothing
 'glovemaker': TKPWHROF/PHA*EURBG
 'the': -T
 'following': TPOLG
-'week.': WAOEBG TP-PL
+'week.': WAOEBG/TP-PL
 'Then': KPA/THEPB
 'my': PHEU
 'mistress': PHEUS/TRES
@@ -2131,10 +2131,10 @@ She Was Good for Nothing
 'her': HER
 'arms': ARPLS
 'round': ROUPBD
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'kissed': K*EUFD
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'She': KPA/SHE
 'did': TK
 'not': TPHOT
@@ -2142,9 +2142,9 @@ She Was Good for Nothing
 'that': THA
 'I': EU
 'was': WAS
-''good': AE TKPWAOD
+''good': AE/TKPWAOD
 'for': TPOR
-'nothing;'': TPHOG STPH*FPLT AE
+'nothing;'': TPHOG/STPH*FPLT/AE
 'very': SRE
 'likely': HRAOEULG
 'I': EU
@@ -2154,23 +2154,23 @@ She Was Good for Nothing
 'than': THAPB
 'I': EU
 'am': APL
-'now;': TPHOU STPH*FPLT
+'now;': TPHOU/STPH*FPLT
 'but': PWUT
 'the': -T
 'misfortunes': PHEUZ/TP-RPB/-S
 'of': -F
 'this': TH
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'were': WR
 'unknown': UPB/TPHOEPB
 'to': TO
 'me': PHE
-'then.': THEPB TP-PL
+'then.': THEPB/TP-PL
 'At': KPA/AT
 'Michaelmas': PH*P/*EU/KR*/H*/A*/*E/HR*/PH*/A*/S*
 'we': WE
 'were': WR
-'married,': PHAERD KW-BG
+'married,': PHAERD/KW-BG
 'and': SKP
 'for': TPOR
 'the': -T
@@ -2180,32 +2180,32 @@ She Was Good for Nothing
 'went': WEPBT
 'well': WEL
 'with': W
-'us.': US TP-PL
+'us.': US/TP-PL
 'We': KPA/WE
 'had': H
 'a': AEU
 'journeyman': SKWROURPB/EU/PHAPB
 'and': SKP
 'an': APB
-'apprentice,': PREPBT/EUS KW-BG
+'apprentice,': PREPBT/EUS/KW-BG
 'and': SKP
 'you': U
 'were': WR
 'our': OUR
-'servant,': SEFRB/APBT KW-BG
-'Martha."': PHAR/THA TP-PL KR-GS
-'"Ah,': KR-GS KPA/HA*E KW-BG
-'yes,': KWRE KW-BG
+'servant,': SEFRB/APBT/KW-BG
+'Martha."': PHAR/THA/TP-PL/KR-GS
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'yes,': KWRE/KW-BG
 'and': SKP
 'you': U
 'were': WR
 'a': AEU
-'dear,': TKAER KW-BG
+'dear,': TKAER/KW-BG
 'good': TKPWAOD
-'mistress,"': PHEUS/TRES KW-BG KR-GS
+'mistress,"': PHEUS/TRES/KW-BG/KR-GS
 'said': SED
-'Martha,': PHAR/THA KW-BG
-'"I': KR-GS EU
+'Martha,': PHAR/THA/KW-BG
+'"I': KR-GS/EU
 'shall': SHAL
 'never': TPHEFR
 'forget': TPORGT
@@ -2217,8 +2217,8 @@ She Was Good for Nothing
 'husband': HUS
 'were': WR
 'to': TO
-'me."': PHE TP-PL KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'me."': PHE/TP-PL/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'those': THOZ
 'were': WR
 'happy': HAEP
@@ -2227,88 +2227,88 @@ She Was Good for Nothing
 'you': U
 'were': WR
 'with': W
-'us,': US KW-BG
+'us,': US/KW-BG
 'although': HR*T
 'we': WE
 'had': H
 'no': TPHO
 'children': KHEURPB
 'at': AT
-'first.': TPEUFRT TP-PL
+'first.': TPEUFRT/TP-PL
 'The': KPA/-T
 'student': STAUPB
 'I': EU
 'never': TPHEFR
 'met': PHET
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'Yet': KPA/KWRET
 'I': EU
 'saw': SAU
 'him': HEUPL
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'although': HR*T
 'he': HE
 'did': TK
 'not': TPHOT
 'see': SAOE
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'He': KPA/HE
 'came': KAEUPL
 'to': TO
 'his': HEUS
 'mother's': PHOER/AES
-'funeral.': TPAOUPBL TP-PL
+'funeral.': TPAOUPBL/TP-PL
 'I': EU
 'saw': SAU
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'looking': HRAOG
 'pale': PAEL
 'as': AS
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'and': SKP
 'deeply': TKAO*EPL
-'troubled,': TRUBLD KW-BG
+'troubled,': TRUBLD/KW-BG
 'standing': STAPBG
 'at': AT
 'her': HER
-'grave;': TKPWRAEUF STPH*FPLT
+'grave;': TKPWRAEUF/STPH*FPLT
 'for': TPOR
 'she': SHE
 'was': WAS
 'his': HEUS
-'mother.': PHOER TP-PL
+'mother.': PHOER/TP-PL
 'Sometime': KPA/STAOEUPL
-'after,': AF KW-BG
+'after,': AF/KW-BG
 'when': WHEPB
 'his': HEUS
 'father': TPAER
-'died,': TKAOEUD KW-BG
+'died,': TKAOEUD/KW-BG
 'he': HE
 'was': WAS
 'in': TPH
 'foreign': TPOERPB
-'lands,': HRAPBDZ KW-BG
+'lands,': HRAPBDZ/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
 'come': KOPL
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'I': EU
 'know': TPHOE
 'that': THA
 'he': HE
 'never': TPHEFR
-'married,': PHAERD KW-BG
+'married,': PHAERD/KW-BG
 'I': EU
 'believe': PWHREF
 'he': HE
 'became': PWAEUPL
 'a': AEU
-'lawyer.': HRAUR TP-PL
+'lawyer.': HRAUR/TP-PL
 'He': KPA/HE
 'had': H
 'forgotten': TPAURGTD
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'even': AOEPB
 'had': H
@@ -2319,7 +2319,7 @@ She Was Good for Nothing
 'not': TPHOT
 'have': SR
 'known': TPHOEPB
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'for': TPOR
 'I': EU
 'have': SR
@@ -2327,7 +2327,7 @@ She Was Good for Nothing
 'all': AUL
 'my': PHEU
 'good': TKPWAOD
-'looks,': HRAOBGS KW-BG
+'looks,': HRAOBGS/KW-BG
 'and': SKP
 'perhaps': PRAPS
 'that': THA
@@ -2335,7 +2335,7 @@ She Was Good for Nothing
 'all': AUL
 'for': TPOR
 'the': -T
-'best."': PWEFT TP-PL KR-GS
+'best."': PWEFT/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'she': SHE
@@ -2345,21 +2345,21 @@ She Was Good for Nothing
 'dark': TKARBG
 'days': TKAEUS
 'of': -F
-'trial,': TRAOEUL KW-BG
+'trial,': TRAOEUL/KW-BG
 'when': WHEPB
 'misfortune': PHEUZ/TP-RPB
 'had': H
 'fallen': TPAUL/-PB
 'upon': POPB
-'them.': THEPL TP-PL
-'"We': KR-GS KPA/WE
+'them.': THEPL/TP-PL
+'"We': KR-GS/KPA/WE
 'had': H
 'five': TPAOEUF
 'hundred': HUPBD
-'dollars,"': TKHRARS KW-BG KR-GS
+'dollars,"': TKHRARS/KW-BG/KR-GS
 'she': SHE
-'said,': SED KW-BG
-'"and': KR-GS SKP
+'said,': SED/KW-BG
+'"and': KR-GS/SKP
 'there': THR
 'was': WAS
 'a': AEU
@@ -2372,7 +2372,7 @@ She Was Good for Nothing
 'sold': SOELD
 'for': TPOR
 'two': TWO
-'hundred,': HUPBD KW-BG
+'hundred,': HUPBD/KW-BG
 'so': SO
 'we': WE
 'thought': THAUT
@@ -2393,11 +2393,11 @@ She Was Good for Nothing
 'one': WUPB
 'in': TPH
 'its': EUTS
-'place;': PHRAEUS STPH*FPLT
+'place;': PHRAEUS/STPH*FPLT
 'so': SO
 'it': T
 'was': WAS
-'bought.': PWAUT TP-PL
+'bought.': PWAUT/TP-PL
 'The': KPA/-T
 'builder': PWEURLD
 'and': SKP
@@ -2417,10 +2417,10 @@ She Was Good for Nothing
 'twenty': TWEPBT
 'dollars': TKHRARS
 'to': TO
-'build.': PWEULD TP-PL
+'build.': PWEULD/TP-PL
 'Eric': *ERBG
 'had': H
-'credit,': KRET KW-BG
+'credit,': KRET/KW-BG
 'so': SO
 'he': HE
 'borrowed': PWO*ERD
@@ -2429,36 +2429,36 @@ She Was Good for Nothing
 'in': TPH
 'the': -T
 'chief': KHAOEF
-'town.': TOUPB TP-PL
+'town.': TOUPB/TP-PL
 'But': KPA/PWUT
 'the': -T
-'captain,': KAPT KW-BG
+'captain,': KAPT/KW-BG
 'who': WHO
 'was': WAS
 'bringing': PWREUG
 'it': T
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'was': WAS
-'shipwrecked,': SHEUP/WREBGD KW-BG
+'shipwrecked,': SHEUP/WREBGD/KW-BG
 'and': SKP
 'the': -T
 'money': PHUPB
-'lost.': HRO*S TP-PL
+'lost.': HRO*S/TP-PL
 'Just': KPA/SKWRUFT
 'about': PW
 'this': TH
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'my': PHEU
 'dear': TKAER
 'sweet': SWAOET
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'who': WHO
 'lies': HRAO*EUS
 'sleeping': SHRAOEPG
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'was': WAS
-'born,': PWORPB KW-BG
+'born,': PWORPB/KW-BG
 'and': SKP
 'my': PHEU
 'husband': HUS
@@ -2468,7 +2468,7 @@ She Was Good for Nothing
 'a': AEU
 'severe': SWAOER
 'lingering': HREUPBG/ERG
-'illness.': HR*PBS TP-PL
+'illness.': HR*PBS/TP-PL
 'For': KPA/TPOR
 'three': THRAOE
 'quarters': KWART/ERS
@@ -2482,17 +2482,17 @@ She Was Good for Nothing
 'dress': TKRES
 'and': SKP
 'undress': UPB/TKRES
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'We': KPA/WE
 'were': WR
 'backward': PWABG/WARD
 'in': TPH
 'our': OUR
-'payments,': PAEUPLTS KW-BG
+'payments,': PAEUPLTS/KW-BG
 'we': WE
 'borrowed': PWO*ERD
 'more': PHOR
-'money,': PHUPB KW-BG
+'money,': PHUPB/KW-BG
 'and': SKP
 'all': AUL
 'that': THA
@@ -2501,18 +2501,18 @@ She Was Good for Nothing
 'was': WAS
 'lost': HRO*S
 'and': SKP
-'sold,': SOELD KW-BG
+'sold,': SOELD/KW-BG
 'and': SKP
 'then': THEPB
 'my': PHEU
 'husband': HUS
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL
 'Since': KPA/SEUPBS
 'then': THEPB
 'I': EU
 'have': SR
-'worked,': WORBGD KW-BG
-'toiled,': TOEUL/-D KW-BG
+'worked,': WORBGD/KW-BG
+'toiled,': TOEUL/-D/KW-BG
 'and': SKP
 'striven': STREUF/*PB
 'for': TPOR
@@ -2520,7 +2520,7 @@ She Was Good for Nothing
 'sake': SAEUBG
 'of': -F
 'the': -T
-'child.': KHAOEULD TP-PL
+'child.': KHAOEULD/TP-PL
 'I': EU
 'have': SR
 'scrubbed': SKRUBD
@@ -2530,7 +2530,7 @@ She Was Good for Nothing
 'coarse': KAORS
 'and': SKP
 'fine': TPAOEUPB
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'but': PWUT
 'I': EU
 'have': SR
@@ -2541,12 +2541,12 @@ She Was Good for Nothing
 'make': PHAEUBG
 'myself': PHAO*EUS
 'better': PWOERT
-'off;': OF STPH*FPLT
+'off;': OF/STPH*FPLT
 'and': SKP
 'it': T
 'was': WAS
-'God's': TKPWO*D AES
-'will.': HR TP-PL
+'God's': TKPWO*D/AES
+'will.': HR/TP-PL
 'In': KPA/TPH
 'His': KPA/HEUS
 'own': OEPB
@@ -2556,7 +2556,7 @@ She Was Good for Nothing
 'take': TAEUBG
 'me': PHE
 'to': TO
-'Himself,': KPA/HEUPLS KW-BG
+'Himself,': KPA/HEUPLS/KW-BG
 'but': PWUT
 'I': EU
 'know': TPHOE
@@ -2565,30 +2565,30 @@ She Was Good for Nothing
 'never': TPHEFR
 'forsake': TPAUR/SAEUBG
 'my': PHEU
-'boy."': PWOEU TP-PL KR-GS
+'boy."': PWOEU/TP-PL/KR-GS
 'Then': KPA/THEPB
 'she': SHE
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
 'she': SHE
 'felt': TPELT
 'much': PHUFP
-'refreshed,': RERB/-D KW-BG
+'refreshed,': RERB/-D/KW-BG
 'and': SKP
 'strong': STROPBG
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'as': AS
 'she': SHE
-'thought,': THAUT KW-BG
+'thought,': THAUT/KW-BG
 'to': TO
 'go': TKPW
 'on': OPB
 'with': W
 'her': HER
-'work.': WORBG TP-PL
+'work.': WORBG/TP-PL
 'But': KPA/PWUT
 'as': AS
 'soon': SAOPB
@@ -2598,12 +2598,12 @@ She Was Good for Nothing
 'into': TPHAO
 'the': -T
 'cold': KOELD
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'a': AEU
 'sudden': SUD
 'faintness': TPAEUPBT/-PBS
 'seized': SAOEZ/-D
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'she': SHE
 'clutched': KHRUFPD
 'at': AT
@@ -2612,29 +2612,29 @@ She Was Good for Nothing
 'convulsively': KOPB/SRUL/S*EUF/HREU
 'with': W
 'her': HER
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'took': TAOBG
 'one': WUPB
 'step': STEP
-'forward,': TPAORD KW-BG
+'forward,': TPAORD/KW-BG
 'and': SKP
-'fell.': TPEL TP-PL
+'fell.': TPEL/TP-PL
 'Her': KPA/HER
 'head': HED
 'rested': REFTD
 'on': OPB
 'dry': TKRAOEU
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'but': PWUT
 'her': HER
 'feet': TPAOET
 'were': WR
 'in': TPH
 'the': -T
-'water;': WAUR STPH*FPLT
+'water;': WAUR/STPH*FPLT
 'her': HER
 'wooden': WAOD/EPB
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'which': WEU
 'were': WR
 'only': OEPBL
@@ -2644,13 +2644,13 @@ She Was Good for Nothing
 'a': AEU
 'wisp': W*EUFP
 'of': -F
-'straw,': STRAU KW-BG
+'straw,': STRAU/KW-BG
 'were': WR
 'carried': KAERD
 'away': WA*EU
 'by': PWEU
 'the': -T
-'stream,': STRAOEPL KW-BG
+'stream,': STRAOEPL/KW-BG
 'and': SKP
 'thus': THUS
 'she': SHE
@@ -2665,7 +2665,7 @@ She Was Good for Nothing
 'bring': PWREU
 'her': HER
 'some': SOPL
-'coffee.': KOEF TP-PL
+'coffee.': KOEF/TP-PL
 'In': KPA/TPH
 'the': -T
 'meantime': PHAOEPB/TAO*EUPL
@@ -2679,7 +2679,7 @@ She Was Good for Nothing
 'house': HOUS
 'by': PWEU
 'the': -T
-'mayor,': PHAEUR KW-BG
+'mayor,': PHAEUR/KW-BG
 'to': TO
 'say': SAEU
 'that': THA
@@ -2688,18 +2688,18 @@ She Was Good for Nothing
 'come': KOPL
 'to': TO
 'him': HEUPL
-'immediately,': PHAOELD KW-BG
+'immediately,': PHAOELD/KW-BG
 'as': AS
 'he': HE
 'had': H
 'something': S-G
 'to': TO
 'tell': TEL
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'It': KPA/T
 'was': WAS
 'too': TAO
-'late;': HRAEUT STPH*FPLT
+'late;': HRAEUT/STPH*FPLT
 'a': AEU
 'surgeon': SURG
 'had': H
@@ -2712,33 +2712,33 @@ She Was Good for Nothing
 'vein': SRAEUPB
 'in': TPH
 'her': HER
-'arm,': ARPL KW-BG
+'arm,': ARPL/KW-BG
 'but': PWUT
 'the': -T
 'poor': PAOR
 'woman': WOPL
 'was': WAS
-'dead.': TKED TP-PL
-'"She': KR-GS KPA/SHE
+'dead.': TKED/TP-PL
+'"She': KR-GS/KPA/SHE
 'has': HAS
 'drunk': TKR*UPBG
 'herself': H*ERS
 'to': TO
-'death,"': TK*T KW-BG KR-GS
+'death,"': TK*T/KW-BG/KR-GS
 'said': SED
 'the': -T
 'cruel': KRAOUL
-'mayor.': PHAEUR TP-PL
+'mayor.': PHAEUR/TP-PL
 'In': KPA/TPH
 'the': -T
-'letter,': HRERT KW-BG
+'letter,': HRERT/KW-BG
 'containing': KAUPB/TAEUPBG
 'the': -T
 'news': TPHUS
 'of': -F
 'his': HEUS
 'brother's': PWROER/AES
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'it': T
 'was': WAS
 'stated': STAEUTD
@@ -2757,19 +2757,19 @@ She Was Good for Nothing
 'dollars': TKHRARS
 'to': TO
 'the': -T
-'glovemaker's': TKPWHROF/PHA*EURBG AES
-'widow,': WO*EUD KW-BG
+'glovemaker's': TKPWHROF/PHA*EURBG/AES
+'widow,': WO*EUD/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
 'his': HEUS
 'mother's': PHOER/AES
-'maid,': PHAEUD KW-BG
+'maid,': PHAEUD/KW-BG
 'to': TO
 'be': -B
 'paid': PAEUD
 'with': W
-'discretion,': SKREGS KW-BG
+'discretion,': SKREGS/KW-BG
 'in': TPH
 'large': HRARPBLG
 'or': OR
@@ -2780,21 +2780,21 @@ She Was Good for Nothing
 'widow': WO*EUD
 'or': OR
 'her': HER
-'child.': KHAOEULD TP-PL
-'"There': KR-GS KPA/THR
+'child.': KHAOEULD/TP-PL
+'"There': KR-GS/KPA/THR
 'was': WAS
 'something': S-G
 'between': TWAOEPB
 'my': PHEU
 'brother': PWROER
 'and': SKP
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'I': EU
-'remember,"': RER KW-BG KR-GS
+'remember,"': RER/KW-BG/KR-GS
 'said': SED
 'the': -T
-'mayor;': PHAEUR STPH*FPLT
-'"it': KR-GS T
+'mayor;': PHAEUR/STPH*FPLT
+'"it': KR-GS/T
 'is': S
 'a': AEU
 'good': TKPWAOD
@@ -2805,7 +2805,7 @@ She Was Good for Nothing
 'out': OUT
 'of': -F
 'the': -T
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'for': TPOR
 'now': TPHOU
 'the': -T
@@ -2813,7 +2813,7 @@ She Was Good for Nothing
 'will': HR
 'have': SR
 'the': -T
-'whole.': WHOEL TP-PL
+'whole.': WHOEL/TP-PL
 'I': EU
 'will': HR
 'place': PHRAEUS
@@ -2824,7 +2824,7 @@ She Was Good for Nothing
 'to': TO
 'bring': PWREU
 'him': HEUPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'that': THA
 'he': HE
 'may': PHAE
@@ -2832,7 +2832,7 @@ She Was Good for Nothing
 'a': AEU
 'respectable': R-PT/-BL
 'working': WOG
-'man."': PHAPB TP-PL KR-GS
+'man."': PHAPB/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'blessing': PWHR*EFG
@@ -2841,7 +2841,7 @@ She Was Good for Nothing
 'rested': REFTD
 'upon': POPB
 'these': THEZ
-'words.': WORDZ TP-PL
+'words.': WORDZ/TP-PL
 'The': KPA/-T
 'mayor': PHAEUR
 'sent': SEPBT
@@ -2851,14 +2851,14 @@ She Was Good for Nothing
 'to': TO
 'come': KOPL
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'promised': PROPLS/-D
 'to': TO
 'take': TAEUBG
 'care': KAEUR
 'of': -F
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'most': PHOFT
 'cruelly': KRAOUL/HREU
@@ -2873,19 +2873,19 @@ She Was Good for Nothing
 'his': HEUS
 'mother': PHOER
 'was': WAS
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'for': TPOR
-'"she': KR-GS SHE
+'"she': KR-GS/SHE
 'was': WAS
 'good': TKPWAOD
 'for': TPOR
-'nothing."': TPHOG TP-PL KR-GS
+'nothing."': TPHOG/TP-PL/KR-GS
 'They': KPA/THE
 'carried': KAERD
 'her': HER
 'to': TO
 'the': -T
-'churchyard,': KH*URPBLG/KWRARD KW-BG
+'churchyard,': KH*URPBLG/KWRARD/KW-BG
 'the': -T
 'churchyard': KH*URPBLG/KWRARD
 'in': TPH
@@ -2893,7 +2893,7 @@ She Was Good for Nothing
 'the': -T
 'poor': PAOR
 'were': WR
-'buried.': PWUR/EUD TP-PL
+'buried.': PWUR/EUD/TP-PL
 'Martha': PHAR/THA
 'strewed': STRAOU/-D
 'sand': SAPBD
@@ -2903,67 +2903,67 @@ She Was Good for Nothing
 'and': SKP
 'planted': PHRAPBT/-D
 'a': AEU
-'rose-tree': ROEZ H-PB TRAOE
+'rose-tree': ROEZ/H-PB/TRAOE
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'the': -T
 'boy': PWOEU
 'stood': STAOD
 'by': PWEU
 'her': HER
-'side.': SAOEUD TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'side.': SAOEUD/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'my': PHEU
 'poor': PAOR
-'mother!"': PHOER SKHRAPL KR-GS
+'mother!"': PHOER/SKHRAPL/KR-GS
 'he': HE
-'cried,': KRAOEUD KW-BG
+'cried,': KRAOEUD/KW-BG
 'while': WHAOEUL
 'the': -T
 'tears': TAERS
 'rolled': ROLD
 'down': TKOUPB
 'his': HEUS
-'cheeks.': KHAOEBGS TP-PL
-'"Is': KR-GS KPA/S
+'cheeks.': KHAOEBGS/TP-PL
+'"Is': KR-GS/KPA/S
 'it': T
 'true': TRAOU
 'what': WHA
 'they': THE
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'that': THA
 'she': SHE
 'was': WAS
 'good': TKPWAOD
 'for': TPOR
-'nothing?"': TPHOG H-F KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
-'indeed,': TPHAOEPBD KW-BG
+'nothing?"': TPHOG/H-F/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'it': T
 'is': S
 'not': TPHOT
-'true,"': TRAOU KW-BG KR-GS
+'true,"': TRAOU/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'old': OLD
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'raising': RA*EUFG
 'her': HER
 'eyes': AO*EUS
 'to': TO
-'heaven;': HEFPB STPH*FPLT
-'"she': KR-GS SHE
+'heaven;': HEFPB/STPH*FPLT
+'"she': KR-GS/SHE
 'was': WAS
 'worth': WO*RT
 'a': AEU
 'great': TKPWRAET
-'deal;': TKAOEL STPH*FPLT
+'deal;': TKAOEL/STPH*FPLT
 'I': EU
 'knew': TPHAOU
 'it': T
 'years': KWRAOERS
-'ago,': AG KW-BG
+'ago,': AG/KW-BG
 'and': SKP
 'since': SEUPBS
 'the': -T
@@ -2979,7 +2979,7 @@ She Was Good for Nothing
 'of': -F
 'it': T
 'than': THAPB
-'ever.': -FR TP-PL
+'ever.': -FR/TP-PL
 'I': EU
 'say': SAEU
 'she': SHE
@@ -2988,28 +2988,28 @@ She Was Good for Nothing
 'good': TKPWAOD
 'and': SKP
 'worthy': WO*RT/KWREU
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'and': SKP
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'who': WHO
 'is': S
 'in': TPH
-'heaven,': HEFPB KW-BG
+'heaven,': HEFPB/KW-BG
 'knows': TPHOEZ
 'I': EU
 'am': APL
 'speaking': SPAOEG
 'the': -T
-'truth,': TRAO*UT KW-BG
+'truth,': TRAO*UT/KW-BG
 'though': THOE
 'the': -T
 'world': WORLD
 'may': PHAE
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'even': AOEPB
 'now': TPHOU
 'she': SHE
 'was': WAS
 'good': TKPWAOD
 'for': TPOR
-'nothing."': TPHOG TP-PL KR-GS
+'nothing."': TPHOG/TP-PL/KR-GS

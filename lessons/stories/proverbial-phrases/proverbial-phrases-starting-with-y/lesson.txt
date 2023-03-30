@@ -6,12 +6,12 @@ Proverbial phrases starting with Y
 'too': TAO
 'old': OLD
 'to': TO
-'learn.': HRERPB TP-PL
+'learn.': HRERPB/TP-PL
 'You': KPA/U
 'are': R
 'what': WHA
 'you': U
-'eat.': AOET TP-PL
+'eat.': AOET/TP-PL
 'You': KPA/U
 'can': K
 'have': SR
@@ -20,31 +20,31 @@ Proverbial phrases starting with Y
 'of': -F
 'a': AEU
 'good': TKPWAOD
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'You': KPA/U
 'can': K
 'lead': HRAED
 'a': AEU
 'horse': HORS
 'to': TO
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'but': PWUT
 'you': U
 'cannot': SK-PBT
 'make': PHAEUBG
 'it': T
-'drink.': TKREU TP-PL
+'drink.': TKREU/TP-PL
 'You': KPA/U
 'can': K
 'never': TPHEFR
-'tell.': TEL TP-PL
+'tell.': TEL/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'always': AULS
 'get': TKPWET
 'what': WHA
 'you': U
-'want.': WAPBT TP-PL
+'want.': WAPBT/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'have': SR
@@ -53,7 +53,7 @@ Proverbial phrases starting with Y
 'and': SKP
 'eat': AOET
 'it': T
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'get': TKPWET
@@ -61,7 +61,7 @@ Proverbial phrases starting with Y
 'out': OUT
 'of': -F
 'a': AEU
-'stone.': STOEPB TP-PL
+'stone.': STOEPB/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'make': PHAEUBG
@@ -70,8 +70,8 @@ Proverbial phrases starting with Y
 'purse': PURS
 'from': TPR
 'a': AEU
-'sow's': SOE AES
-'ear.': AOER TP-PL
+'sow's': SOE/AES
+'ear.': AOER/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'make': PHAEUBG
@@ -79,18 +79,18 @@ Proverbial phrases starting with Y
 'omelette': OPL/HRET/A*U
 'without': WOUT
 'breaking': PWRAEG
-'eggs.': EGS TP-PL
+'eggs.': EGS/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'make': PHAEUBG
 'bricks': PWREUBGS
 'without': WOUT
-'straw.': STRAU TP-PL
+'straw.': STRAU/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'push': PURB
 'a': AEU
-'rope.': ROEP TP-PL
+'rope.': ROEP/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'run': RUPB
@@ -101,7 +101,7 @@ Proverbial phrases starting with Y
 'hunt': HUPBT
 'with': W
 'the': -T
-'hounds.': HOUPBDZ TP-PL
+'hounds.': HOUPBDZ/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'teach': TAOEFP
@@ -109,12 +109,12 @@ Proverbial phrases starting with Y
 'old': OLD
 'dog': TKOG
 'new': TPHU
-'tricks.': TREUBGS TP-PL
+'tricks.': TREUBGS/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'win': WEUPB
 'them': THEPL
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'You': KPA/U
 'catch': KAFP
 'more': PHOR
@@ -123,7 +123,7 @@ Proverbial phrases starting with Y
 'honey': HUPB/KWREU
 'than': THAPB
 'with': W
-'vinegar.': SREUPB/TKPWAR TP-PL
+'vinegar.': SREUPB/TKPWAR/TP-PL
 'You': KPA/U
 'pay': PAEU
 'your': KWROUR
@@ -132,13 +132,13 @@ Proverbial phrases starting with Y
 'you': U
 'take': TAEUBG
 'your': KWROUR
-'choice.': KHOEUS TP-PL
+'choice.': KHOEUS/TP-PL
 'Youth': KPA/KWRAO*UT
 'is': S
 'wasted': WAEFD
 'on': OPB
 'the': -T
-'young.': KWRUPBG TP-PL
+'young.': KWRUPBG/TP-PL
 'You': KPA/U
 'may': PHAE
 'as': AS
@@ -151,14 +151,14 @@ Proverbial phrases starting with Y
 'as': AS
 'for': TPOR
 'a': AEU
-'lamb.': HRAPL TP-PL
+'lamb.': HRAPL/TP-PL
 'You': KPA/U
 'must': PHUFT
 'have': SR
 'rocks': ROBGS
 'in': TPH
 'your': KWROUR
-'head.': HED TP-PL
+'head.': HED/TP-PL
 'You': KPA/U
 'scratch': SKRAFP
 'my': PHEU
@@ -167,7 +167,7 @@ Proverbial phrases starting with Y
 'I': EU
 'will': HR
 'scratch': SKRAFP
-'yours.': KWROURS TP-PL
+'yours.': KWROURS/TP-PL
 'You've': KPA/UF
 'got': TKPWOT
 'to': TO
@@ -176,7 +176,7 @@ Proverbial phrases starting with Y
 'wheat': WHAOET
 'from': TPR
 'the': -T
-'chaff.': KHAF TP-PL
+'chaff.': KHAF/TP-PL
 'You've': KPA/UF
 'made': PHAED
 'your': KWROUR
@@ -186,4 +186,4 @@ Proverbial phrases starting with Y
 'must': PHUFT
 'lie': HRAOEU
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL

@@ -14,17 +14,17 @@ The Fox and the Cat
 'for': TPOR
 'escaping': ES/KAEUPG
 'its': EUTS
-'enemies.': TPHAEPLS TP-PL
-'"I': KR-GS EU
+'enemies.': TPHAEPLS/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'a': AEU
 'whole': WHOEL
 'bag': PWAG
 'of': -F
-'tricks,"': TREUBGS KW-BG KR-GS
+'tricks,"': TREUBGS/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"which': KR-GS WEU
+'said,': SED/KW-BG
+'"which': KR-GS/WEU
 'contains': KAUPB/TAEUPBS
 'a': AEU
 'hundred': HUPBD
@@ -32,21 +32,21 @@ The Fox and the Cat
 'of': -F
 'escaping': ES/KAEUPG
 'my': PHEU
-'enemies."': TPHAEPLS TP-PL KR-GS
-'"I': KR-GS EU
+'enemies."': TPHAEPLS/TP-PL/KR-GS
+'"I': KR-GS/EU
 'have': SR
 'only': OEPBL
-'one,"': WUPB KW-BG KR-GS
+'one,"': WUPB/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Cat;': KPA/KAT STPH*FPLT
-'"but': KR-GS PWUT
+'Cat;': KPA/KAT/STPH*FPLT
+'"but': KR-GS/PWUT
 'I': EU
 'can': K
 'generally': SKWRERPBL
 'manage': PHAPBG
 'with': W
-'that."': THA TP-PL KR-GS
+'that."': THA/TP-PL/KR-GS
 'Just': KPA/SKWRUFT
 'at': AT
 'that': THA
@@ -62,7 +62,7 @@ The Fox and the Cat
 'hounds': HOUPBDZ
 'coming': KO*G
 'towards': TORDZ
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'the': -T
 'Cat': KPA/KAT
@@ -76,30 +76,30 @@ The Fox and the Cat
 'herself': H*ERS
 'in': TPH
 'the': -T
-'boughs.': PWO*U/-S TP-PL
-'"This': KR-GS KPA/TH
+'boughs.': PWO*U/-S/TP-PL
+'"This': KR-GS/KPA/TH
 'is': S
 'my': PHEU
-'plan,"': PHRAPB KW-BG KR-GS
+'plan,"': PHRAPB/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Cat.': KPA/KAT TP-PL
-'"What': KR-GS KPA/WHA
+'Cat.': KPA/KAT/TP-PL
+'"What': KR-GS/KPA/WHA
 'are': R
 'you': U
 'going': TKPW-G
 'to': TO
-'do?"': TKO H-F KR-GS
+'do?"': TKO/H-F/KR-GS
 'The': KPA/-T
 'Fox': KPA/TPOBGS
 'thought': THAUT
 'first': TPEUFRT
 'of': -F
 'one': WUPB
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'then': THEPB
 'of': -F
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'and': SKP
 'while': WHAOEUL
 'he': HE
@@ -110,7 +110,7 @@ The Fox and the Cat
 'came': KAEUPL
 'nearer': TPHAOER/*ER
 'and': SKP
-'nearer,': TPHAOER/*ER KW-BG
+'nearer,': TPHAOER/*ER/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -130,16 +130,16 @@ The Fox and the Cat
 'killed': KEULD
 'by': PWEU
 'the': -T
-'huntsmen.': HUPBTS/PH*EPB TP-PL
+'huntsmen.': HUPBTS/PH*EPB/TP-PL
 'Miss': PH*EUS/S-P
-'Puss,': KPA/PUSZ KW-BG
+'Puss,': KPA/PUSZ/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
 'looking': HRAOG
-'on,': OPB KW-BG
-'said:': SED STPH-FPLT
-'"Better': KR-GS KPA/PWOERT
+'on,': OPB/KW-BG
+'said:': SED/STPH-FPLT
+'"Better': KR-GS/KPA/PWOERT
 'one': WUPB
 'safe': SAEUF
 'way': WAEU
@@ -150,4 +150,4 @@ The Fox and the Cat
 'which': WEU
 'you': U
 'cannot': SK-PBT
-'reckon."': REBG/-PB TP-PL KR-GS
+'reckon."': REBG/-PB/TP-PL/KR-GS

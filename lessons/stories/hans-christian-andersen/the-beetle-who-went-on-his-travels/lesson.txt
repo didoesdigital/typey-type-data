@@ -11,7 +11,7 @@ The Beetle Who Went on His Travels
 'horse': HORS
 'shod': SHOD
 'with': W
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'He': KPA/HE
 'had': H
 'a': AEU
@@ -19,22 +19,22 @@ The Beetle Who Went on His Travels
 'shoe': SHAOU
 'on': OPB
 'each': AOEFP
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'and': SKP
 'why': KWR
 'was': WAS
-'this?': TH H-F
+'this?': TH/H-F
 'He': KPA/HE
 'was': WAS
 'a': AEU
 'beautiful': PWAOUFL
-'creature,': KRAOEFP KW-BG
+'creature,': KRAOEFP/KW-BG
 'with': W
 'slender': SHRERPBD
-'legs,': HREGS KW-BG
-'bright,': PWRAOEUT KW-BG
+'legs,': HREGS/KW-BG
+'bright,': PWRAOEUT/KW-BG
 'intelligent': SPWEPBLGT
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'a': AEU
 'mane': PH*/A*/TPH*/*E
@@ -46,7 +46,7 @@ The Beetle Who Went on His Travels
 'neck': TPHEBG
 'like': HRAOEUBG
 'a': AEU
-'veil.': SRAEUL TP-PL
+'veil.': SRAEUL/TP-PL
 'He': KPA/HE
 'had': H
 'carried': KAERD
@@ -58,42 +58,42 @@ The Beetle Who Went on His Travels
 'smoke': SPHOEBG
 'in': TPH
 'the': -T
-'battle-field,': PWA*LT H-PB TPAOELD KW-BG
+'battle-field,': PWA*LT/H-PB/TPAOELD/KW-BG
 'with': W
 'the': -T
 'bullets': PW*ULTS
 'whistling': WHEUS/-LG
 'round': ROUPBD
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'he': HE
 'had': H
 'kicked': KEUBGD
 'and': SKP
-'bitten,': PWEUT/-PB KW-BG
+'bitten,': PWEUT/-PB/KW-BG
 'and': SKP
 'taken': TAEPB
 'part': PART
 'in': TPH
 'the': -T
-'fight,': TPAOEUT KW-BG
+'fight,': TPAOEUT/KW-BG
 'when': WHEPB
 'the': -T
 'enemy': TPHAEPL
-'advanced;': SRAPBS/-D STPH*FPLT
-'and,': SKP KW-BG
+'advanced;': SRAPBS/-D/STPH*FPLT
+'and,': SKP/KW-BG
 'with': W
 'his': HEUS
 'master': PHAFRT
 'on': OPB
 'his': HEUS
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'he': HE
 'had': H
 'dashed': TKARBD
 'over': OEFR
 'the': -T
 'fallen': TPAUL/-PB
-'foe,': TPOE KW-BG
+'foe,': TPOE/KW-BG
 'and': SKP
 'saved': SAFD
 'the': -T
@@ -101,8 +101,8 @@ The Beetle Who Went on His Travels
 'crown': KROUPB
 'and': SKP
 'the': -T
-'Emperor's': KPA/EPL/ROR AES
-'life,': HRAOEUF KW-BG
+'Emperor's': KPA/EPL/ROR/AES
+'life,': HRAOEUF/KW-BG
 'which': WEU
 'was': WAS
 'of': -F
@@ -111,18 +111,18 @@ The Beetle Who Went on His Travels
 'than': THAPB
 'the': -T
 'brightest': PWRAOEUT/EFT
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'This': KPA/TH
 'is': S
 'the': -T
 'reason': R-PB
 'of': -F
 'the': -T
-'Emperor's': KPA/EPL/ROR AES
+'Emperor's': KPA/EPL/ROR/AES
 'horse': HORS
 'wearing': WAERG
 'golden': TKPWOELD/*EPB
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'A': KPA/AEU
 'beetle': PWAO*ELT
 'came': KAEUPL
@@ -130,7 +130,7 @@ The Beetle Who Went on His Travels
 'forth': TPO*RT
 'from': TPR
 'the': -T
-'stable,': STABL KW-BG
+'stable,': STABL/KW-BG
 'where': W-R
 'the': -T
 'farrier': xxx farrier
@@ -138,19 +138,19 @@ The Beetle Who Went on His Travels
 'been': PW-PB
 'shoeing': SHAOU/-G
 'the': -T
-'horse.': HORS TP-PL
-'"Great': KR-GS KPA/TKPWRAET
-'ones,': WUPBZ KW-BG
-'first,': TPEUFRT KW-BG
+'horse.': HORS/TP-PL
+'"Great': KR-GS/KPA/TKPWRAET
+'ones,': WUPBZ/KW-BG
+'first,': TPEUFRT/KW-BG
 'of': -F
-'course,"': KORS KW-BG KR-GS
+'course,"': KORS/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"and': KR-GS SKP
+'he,': HE/KW-BG
+'"and': KR-GS/SKP
 'then': THEPB
 'the': -T
 'little': HREUL
-'ones;': WUPBZ STPH*FPLT
+'ones;': WUPBZ/STPH*FPLT
 'but': PWUT
 'size': SAOEUZ
 'is': S
@@ -159,7 +159,7 @@ The Beetle Who Went on His Travels
 'a': AEU
 'proof': PRAOF
 'of': -F
-'greatness."': TKPWRAET/-PBS TP-PL KR-GS
+'greatness."': TKPWRAET/-PBS/TP-PL/KR-GS
 'He': KPA/HE
 'stretched': STREFPD
 'out': OUT
@@ -168,45 +168,45 @@ The Beetle Who Went on His Travels
 'leg': HREG
 'as': AS
 'he': HE
-'spoke.': SPOEBG TP-PL
-'"And': KR-GS AFPBD
+'spoke.': SPOEBG/TP-PL
+'"And': KR-GS/AFPBD
 'pray': PRAEU
 'what': WHA
 'do': TKO
 'you': U
-'want?"': WAPBT H-F KR-GS
+'want?"': WAPBT/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'farrier.': xxx farrier TP-PL
-'"Golden': KR-GS KPA/TKPWOELD/*EPB
-'shoes,"': SHAOUS KW-BG KR-GS
+'farrier.': xxx farrier/TP-PL
+'"Golden': KR-GS/KPA/TKPWOELD/*EPB
+'shoes,"': SHAOUS/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"Why,': KR-GS KPA/KWR KW-BG
+'beetle.': PWAO*ELT/TP-PL
+'"Why,': KR-GS/KPA/KWR/KW-BG
 'you': U
 'must': PHUFT
 'be': -B
 'out': OUT
 'of': -F
 'your': KWROUR
-'senses,"': SEPBS/-S KW-BG KR-GS
+'senses,"': SEPBS/-S/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
-'farrier.': xxx farrier TP-PL
-'"Golden': KR-GS KPA/TKPWOELD/*EPB
+'farrier.': xxx farrier/TP-PL
+'"Golden': KR-GS/KPA/TKPWOELD/*EPB
 'shoes': SHAOUS
 'for': TPOR
-'you,': U KW-BG
-'indeed!"': TPHAOEPBD SKHRAPL KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
-'certainly;': SERPBL STPH*FPLT
+'you,': U/KW-BG
+'indeed!"': TPHAOEPBD/SKHRAPL/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'certainly;': SERPBL/STPH*FPLT
 'golden': TKPWOELD/*EPB
-'shoes,"': SHAOUS KW-BG KR-GS
+'shoes,"': SHAOUS/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"Am': KR-GS KPA/APL
+'beetle.': PWAO*ELT/TP-PL
+'"Am': KR-GS/KPA/APL
 'I': EU
 'not': TPHOT
 'just': SKWRUFT
@@ -216,13 +216,13 @@ The Beetle Who Went on His Travels
 'that': THA
 'great': TKPWRAET
 'creature': KRAOEFP
-'yonder,': KWROPBD/ER KW-BG
+'yonder,': KWROPBD/ER/KW-BG
 'who': WHO
 'is': S
 'waited': WAEUTD
 'upon': POPB
 'and': SKP
-'brushed,': PWRURBD KW-BG
+'brushed,': PWRURBD/KW-BG
 'and': SKP
 'has': HAS
 'food': TPAOD
@@ -230,7 +230,7 @@ The Beetle Who Went on His Travels
 'drink': TKREU
 'placed': PHRAEUFD
 'before': PW-FR
-'him?': HEUPL H-F
+'him?': HEUPL/H-F
 'And': AFPBD
 'don't': TKOEPBT
 'I': EU
@@ -238,26 +238,26 @@ The Beetle Who Went on His Travels
 'to': TO
 'the': -T
 'royal': ROEUL
-'stables?"': STAEUBLS H-F KR-GS
-'"But': KR-GS KPA/PWUT
+'stables?"': STAEUBLS/H-F/KR-GS
+'"But': KR-GS/KPA/PWUT
 'why': KWR
 'does': TKOS
 'the': -T
 'horse': HORS
 'have': SR
 'golden': TKPWOELD/*EPB
-'shoes?"': SHAOUS H-F KR-GS
+'shoes?"': SHAOUS/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'farrier;': xxx farrier STPH*FPLT
-'"of': KR-GS -F
+'farrier;': xxx farrier/STPH*FPLT
+'"of': KR-GS/-F
 'course': KORS
 'you': U
 'understand': URPBD
 'the': -T
-'reason?"': R-PB H-F KR-GS
-'"Understand!': KR-GS KPA/URPBD SKHRAPL
-'Well,': KPA/WEL KW-BG
+'reason?"': R-PB/H-F/KR-GS
+'"Understand!': KR-GS/KPA/URPBD/SKHRAPL
+'Well,': KPA/WEL/KW-BG
 'I': EU
 'understand': URPBD
 'that': THA
@@ -267,16 +267,16 @@ The Beetle Who Went on His Travels
 'personal': PERPBL
 'slight': SHRAOEUT
 'to': TO
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"It': KR-GS KPA/T
+'beetle.': PWAO*ELT/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'done': TKOPB
 'to': TO
 'annoy': A/TPHOEU
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'so': SO
 'I': EU
 'intend': SPWEPBD
@@ -289,28 +289,28 @@ The Beetle Who Went on His Travels
 'and': SKP
 'seek': SAOEBG
 'my': PHEU
-'fortune."': TP-RPB TP-PL KR-GS
-'"Go': KR-GS KPA/TKPW
+'fortune."': TP-RPB/TP-PL/KR-GS
+'"Go': KR-GS/KPA/TKPW
 'along': HRAOPBG
 'with': W
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'said': SED
 'the': -T
-'farrier.': xxx farrier TP-PL
-'"You're': KR-GS KPA/U AE R*/*E
+'farrier.': xxx farrier/TP-PL
+'"You're': KR-GS/KPA/U/AE/R*/*E
 'a': AEU
 'rude': RAOUD
-'fellow,"': TP*EL KW-BG KR-GS
+'fellow,"': TP*EL/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'as': AS
 'he': HE
 'walked': WAUBGD
 'out': OUT
 'of': -F
 'the': -T
-'stable;': STABL STPH*FPLT
+'stable;': STABL/STPH*FPLT
 'and': SKP
 'then': THEPB
 'he': HE
@@ -318,7 +318,7 @@ The Beetle Who Went on His Travels
 'for': TPOR
 'a': AEU
 'short': SHORT
-'distance,': STKAPBS KW-BG
+'distance,': STKAPBS/KW-BG
 'till': TEUL
 'he': HE
 'found': TPOUPBD
@@ -326,15 +326,15 @@ The Beetle Who Went on His Travels
 'in': TPH
 'a': AEU
 'beautiful': PWAOUFL
-'flower-garden,': TPHRO*UR H-PB TKPWA*RPB KW-BG
+'flower-garden,': TPHRO*UR/H-PB/TKPWA*RPB/KW-BG
 'all': AUL
 'fragrant': TPRAEUG/RAPBT
 'with': W
 'roses': ROES/-S
 'and': SKP
-'lavender.': HRAF/TKER TP-PL
+'lavender.': HRAF/TKER/TP-PL
 'The': KPA/-T
-'lady-birds,': HRA*ED H-PB PWEURDZ KW-BG
+'lady-birds,': HRA*ED/H-PB/PWEURDZ/KW-BG
 'with': W
 'red': RED
 'and': SKP
@@ -342,55 +342,55 @@ The Beetle Who Went on His Travels
 'shells': SHELS
 'on': OPB
 'their': THAEUR
-'backs,': PWABGS KW-BG
+'backs,': PWABGS/KW-BG
 'and': SKP
 'delicate': TKEL/KAT
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'were': WR
 'flying': TPHRAOEUG
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'and': SKP
 'one': WUPB
 'of': -F
 'them': THEPL
-'said,': SED KW-BG
-'"Is': KR-GS KPA/S
+'said,': SED/KW-BG
+'"Is': KR-GS/KPA/S
 'it': T
 'not': TPHOT
 'sweet': SWAOET
 'and': SKP
 'lovely': HROFL
-'here?': HAOER H-F
-'Oh,': KPA/O*ERBGS KW-BG
+'here?': HAOER/H-F
+'Oh,': KPA/O*ERBGS/KW-BG
 'how': HOU
 'beautiful': PWAOUFL
 'everything': EFRG
-'is."': S TP-PL KR-GS
-'"I': KR-GS EU
+'is."': S/TP-PL/KR-GS
+'"I': KR-GS/EU
 'am': APL
 'accustomed': A/KUFPLD
 'to': TO
 'better': PWOERT
-'things,"': THEUPBGS KW-BG KR-GS
+'things,"': THEUPBGS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"Do': KR-GS KPA/TKO
+'beetle.': PWAO*ELT/TP-PL
+'"Do': KR-GS/KPA/TKO
 'you': U
 'call': KAUL
 'this': TH
-'beautiful?': PWAOUFL H-F
-'Why,': KPA/KWR KW-BG
+'beautiful?': PWAOUFL/H-F
+'Why,': KPA/KWR/KW-BG
 'there': THR
 'is': S
 'not': TPHOT
 'even': AOEPB
 'a': AEU
-'dung-heap."': TKUPBG H-PB HAOEP TP-PL KR-GS
+'dung-heap."': TKUPBG/H-PB/HAOEP/TP-PL/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'under': TPH-PB
 'the': -T
@@ -404,37 +404,37 @@ The Beetle Who Went on His Travels
 'a': AEU
 'caterpillar': KAT/PHRAR
 'crawling': KRAULG
-'along.': HRAOPBG TP-PL
-'"How': KR-GS KPA/HOU
+'along.': HRAOPBG/TP-PL
+'"How': KR-GS/KPA/HOU
 'beautiful': PWAOUFL
 'this': TH
 'world': WORLD
-'is!"': S SKHRAPL KR-GS
+'is!"': S/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'caterpillar.': KAT/PHRAR TP-PL
-'"The': KR-GS KPA/-T
+'caterpillar.': KAT/PHRAR/TP-PL
+'"The': KR-GS/KPA/-T
 'sun': SUPB
 'is': S
 'so': SO
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'I': EU
 'quite': KWAOEUT
 'enjoy': TPHOEUPBLG
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'soon': SAOPB
 'I': EU
 'shall': SHAL
 'go': TKPW
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'and': SKP
 'die': TKAOEU
 'as': AS
 'they': THE
 'call': KAUL
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'I': EU
 'shall': SHAL
@@ -445,118 +445,118 @@ The Beetle Who Went on His Travels
 'wings': WEUPBGS
 'to': TO
 'fly': TPHRAOEU
-'with,': W KW-BG
+'with,': W/KW-BG
 'like': HRAOEUBG
 'a': AEU
-'butterfly."': PW*URT/TPHRAOEU TP-PL KR-GS
-'"How': KR-GS KPA/HOU
+'butterfly."': PW*URT/TPHRAOEU/TP-PL/KR-GS
+'"How': KR-GS/KPA/HOU
 'conceited': KAUPB/SAOET/-D
 'you': U
-'are!"': R SKHRAPL KR-GS
+'are!"': R/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"Fly': KR-GS KPA/TPHRAOEU
+'beetle.': PWAO*ELT/TP-PL
+'"Fly': KR-GS/KPA/TPHRAOEU
 'about': PW
 'as': AS
 'a': AEU
-'butterfly,': PW*URT/TPHRAOEU KW-BG
-'indeed!': TPHAOEPBD SKHRAPL
+'butterfly,': PW*URT/TPHRAOEU/KW-BG
+'indeed!': TPHAOEPBD/SKHRAPL
 'what': WHA
 'of': -F
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'I': EU
 'have': SR
 'come': KOPL
 'out': OUT
 'of': -F
 'the': -T
-'Emperor's': KPA/EPL/ROR AES
-'stable,': STABL KW-BG
+'Emperor's': KPA/EPL/ROR/AES
+'stable,': STABL/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'not': TPHOT
 'even': AOEPB
 'the': -T
-'Emperor's': KPA/EPL/ROR AES
-'horse,': HORS KW-BG
-'who,': WHO KW-BG
+'Emperor's': KPA/EPL/ROR/AES
+'horse,': HORS/KW-BG
+'who,': WHO/KW-BG
 'in': TPH
-'fact,': TPABGT KW-BG
+'fact,': TPABGT/KW-BG
 'wears': WAERS
 'my': PHEU
-'cast-off': KAFT SKWRO*F
+'cast-off': KAFT/SKWRO*F
 'golden': TKPWOELD/*EPB
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'has': HAS
 'any': TPHEU
 'idea': KWR-D
 'of': -F
-'flying,': TPHRAOEUG KW-BG
+'flying,': TPHRAOEUG/KW-BG
 'excepting': KPEPT/-G
-'myself.': PHAO*EUS TP-PL
+'myself.': PHAO*EUS/TP-PL
 'To': KPA/TO
 'have': SR
 'wings': WEUPBGS
 'and': SKP
-'fly!': TPHRAOEU SKHRAPL
-'why,': KWR KW-BG
+'fly!': TPHRAOEU/SKHRAPL
+'why,': KWR/KW-BG
 'I': EU
 'can': K
 'do': TKO
 'that': THA
-'already;"': HR-R STPH*FPLT KR-GS
+'already;"': HR-R/STPH*FPLT/KR-GS
 'and': SKP
 'so': SO
-'saying,': SAEUG KW-BG
+'saying,': SAEUG/KW-BG
 'he': HE
 'spread': SPRED
 'his': HEUS
 'wings': WEUPBGS
 'and': SKP
 'flew': TPHRAOU
-'away.': WA*EU TP-PL
-'"I': KR-GS EU
+'away.': WA*EU/TP-PL
+'"I': KR-GS/EU
 'don't': TKOEPBT
 'want': WAPBT
 'to': TO
 'be': -B
-'disgusted,"': TKEUS/TKPWUFT/-D KW-BG KR-GS
+'disgusted,"': TKEUS/TKPWUFT/-D/KW-BG/KR-GS
 'he': HE
 'said': SED
 'to': TO
-'himself,': HEUPLS KW-BG
-'"and': KR-GS SKP
+'himself,': HEUPLS/KW-BG
+'"and': KR-GS/SKP
 'yet': KWRET
 'I': EU
 'can't': K-PBT
 'help': HEP
-'it."': T TP-PL KR-GS
+'it."': T/TP-PL/KR-GS
 'Soon': KPA/SAOPB
-'after,': AF KW-BG
+'after,': AF/KW-BG
 'he': HE
 'fell': TPEL
 'down': TKOUPB
 'upon': POPB
 'an': APB
 'extensive': EBGS/TEPBS/EUF
-'lawn,': HRAUPB KW-BG
+'lawn,': HRAUPB/KW-BG
 'and': SKP
 'for': TPOR
 'a': AEU
 'time': TAOEUPL
 'pretended': PRE/TEPBD/-D
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'but': PWUT
 'at': AT
 'last': HRAFT
 'fell': TPEL
 'asleep': A/SHRAOEP
 'in': TPH
-'earnest.': ERPB/EFT TP-PL
+'earnest.': ERPB/EFT/TP-PL
 'Suddenly': KPA/SULD
 'a': AEU
 'heavy': HOEUF
@@ -567,7 +567,7 @@ The Beetle Who Went on His Travels
 'falling': TPAULG
 'from': TPR
 'the': -T
-'clouds.': KHROUDZ TP-PL
+'clouds.': KHROUDZ/TP-PL
 'The': KPA/-T
 'beetle': PWAO*ELT
 'woke': WOEBG
@@ -586,11 +586,11 @@ The Beetle Who Went on His Travels
 'the': -T
 'earth': *ERT
 'for': TPOR
-'shelter,': SHELT KW-BG
+'shelter,': SHELT/KW-BG
 'but': PWUT
 'he': HE
 'could': KO
-'not.': TPHOT TP-PL
+'not.': TPHOT/TP-PL
 'He': KPA/HE
 'was': WAS
 'tumbled': TUPL/-BLD
@@ -599,7 +599,7 @@ The Beetle Who Went on His Travels
 'over': OEFR
 'with': W
 'the': -T
-'rain,': RAEUPB KW-BG
+'rain,': RAEUPB/KW-BG
 'sometimes': STAOEUPLS
 'swimming': SWEUPLG
 'on': OPB
@@ -609,17 +609,17 @@ The Beetle Who Went on His Travels
 'sometimes': STAOEUPLS
 'on': OPB
 'his': HEUS
-'back;': PWABG STPH*FPLT
+'back;': PWABG/STPH*FPLT
 'and': SKP
 'as': AS
 'for': TPOR
-'flying,': TPHRAOEUG KW-BG
+'flying,': TPHRAOEUG/KW-BG
 'that': THA
 'was': WAS
 'out': OUT
 'of': -F
 'the': -T
-'question.': KWE TP-PL
+'question.': KWE/TP-PL
 'He': KPA/HE
 'began': TKPWAPB
 'to': TO
@@ -630,15 +630,15 @@ The Beetle Who Went on His Travels
 'escape': SKAEP
 'with': W
 'his': HEUS
-'life,': HRAOEUF KW-BG
+'life,': HRAOEUF/KW-BG
 'so': SO
 'he': HE
-'remained,': RE/PHAEUPBD KW-BG
+'remained,': RE/PHAEUPBD/KW-BG
 'quietly': KWAO*EULT
 'lying': HRAOEUG
 'where': W-R
 'he': HE
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'After': KPA/AF
 'a': AEU
 'while': WHAOEUL
@@ -647,7 +647,7 @@ The Beetle Who Went on His Travels
 'cleared': KHRAOERD
 'up': UP
 'a': AEU
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'and': SKP
 'the': -T
 'beetle': PWAO*ELT
@@ -659,15 +659,15 @@ The Beetle Who Went on His Travels
 'water': WAUR
 'from': TPR
 'his': HEUS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'look': HRAOBG
 'about': PW
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'saw': SAU
 'something': S-G
-'gleaming,': TKPWHRAOEPL/-G KW-BG
+'gleaming,': TKPWHRAOEPL/-G/KW-BG
 'and': SKP
 'he': HE
 'managed': PHAPBGD
@@ -677,7 +677,7 @@ The Beetle Who Went on His Travels
 'way': WAEU
 'up': UP
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'It': KPA/T
 'was': WAS
 'linen': HREUPB/-PB
@@ -689,7 +689,7 @@ The Beetle Who Went on His Travels
 'bleach': PWHRAEFP
 'on': OPB
 'the': -T
-'grass.': TKPWRAS TP-PL
+'grass.': TKPWRAS/TP-PL
 'He': KPA/HE
 'crept': KREPT
 'into': TPHAO
@@ -698,7 +698,7 @@ The Beetle Who Went on His Travels
 'of': -F
 'the': -T
 'damp': TKAFRP
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'which': WEU
 'certainly': SERPBL
 'was': WAS
@@ -713,12 +713,12 @@ The Beetle Who Went on His Travels
 'as': AS
 'the': -T
 'warm': WARPL
-'stable,': STABL KW-BG
+'stable,': STABL/KW-BG
 'but': PWUT
 'there': THR
 'was': WAS
 'nothing': TPHOG
-'better,': PWOERT KW-BG
+'better,': PWOERT/KW-BG
 'so': SO
 'he': HE
 'remained': RE/PHAEUPBD
@@ -729,7 +729,7 @@ The Beetle Who Went on His Travels
 'whole': WHOEL
 'day': TKAEU
 'and': SKP
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'the': -T
 'rain': RAEUPB
@@ -737,7 +737,7 @@ The Beetle Who Went on His Travels
 'on': OPB
 'all': AUL
 'the': -T
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'Towards': KPA/TORDZ
 'morning': PHORPBG
 'he': HE
@@ -745,7 +745,7 @@ The Beetle Who Went on His Travels
 'out': OUT
 'of': -F
 'his': HEUS
-'hiding-place,': HAOEUD/-G H-PB PHRAEUS KW-BG
+'hiding-place,': HAOEUD/-G/H-PB/PHRAEUS/KW-BG
 'feeling': TPAOELG
 'in': TPH
 'a': AEU
@@ -754,14 +754,14 @@ The Beetle Who Went on His Travels
 'temper': TEPL/PER
 'with': W
 'the': -T
-'climate.': KHRAOEUPLT TP-PL
+'climate.': KHRAOEUPLT/TP-PL
 'Two': KPA/TWO
 'frogs': TPROGS
 'were': WR
 'sitting': SEUGT
 'on': OPB
 'the': -T
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'and': SKP
 'their': THAEUR
 'bright': PWRAOEUT
@@ -769,17 +769,17 @@ The Beetle Who Went on His Travels
 'actually': TAOULT
 'glistened': TKPWHREUS/-PBD
 'with': W
-'pleasure.': PHRERB TP-PL
-'"Wonderful': KR-GS KPA/WUFL
+'pleasure.': PHRERB/TP-PL
+'"Wonderful': KR-GS/KPA/WUFL
 'weather': WHR*
-'this,"': TH KW-BG KR-GS
+'this,"': TH/KW-BG/KR-GS
 'cried': KRAOEUD
 'one': WUPB
 'of': -F
-'them,': THEPL KW-BG
-'"and': KR-GS SKP
+'them,': THEPL/KW-BG
+'"and': KR-GS/SKP
 'so': SO
-'refreshing.': RE/TPRERB/-G TP-PL
+'refreshing.': RE/TPRERB/-G/TP-PL
 'This': KPA/TH
 'linen': HREUPB/-PB
 'holds': HOLDZ
@@ -787,7 +787,7 @@ The Beetle Who Went on His Travels
 'water': WAUR
 'together': TOGT
 'so': SO
-'beautifully,': PWAOUFL/HREU KW-BG
+'beautifully,': PWAOUFL/HREU/KW-BG
 'that': THA
 'my': PHEU
 'hind': HAOEUPBD
@@ -799,15 +799,15 @@ The Beetle Who Went on His Travels
 'were': WR
 'going': TKPW-G
 'to': TO
-'swim."': SWEUPL TP-PL KR-GS
-'"I': KR-GS EU
+'swim."': SWEUPL/TP-PL/KR-GS
+'"I': KR-GS/EU
 'should': SHO
 'like': HRAOEUBG
 'to': TO
-'know,"': TPHOE KW-BG KR-GS
+'know,"': TPHOE/KW-BG/KR-GS
 'said': SED
-'another,': TPHOER KW-BG
-'"If': KR-GS KPA/TP
+'another,': TPHOER/KW-BG
+'"If': KR-GS/KPA/TP
 'the': -T
 'swallow': SWAL
 'who': WHO
@@ -820,7 +820,7 @@ The Beetle Who Went on His Travels
 'journeys': SKWRURPB/EUS
 'to': TO
 'foreign': TPOERPB
-'lands,': HRAPBDZ KW-BG
+'lands,': HRAPBDZ/KW-BG
 'ever': -FR
 'met': PHET
 'with': W
@@ -828,10 +828,10 @@ The Beetle Who Went on His Travels
 'better': PWOERT
 'climate': KHRAOEUPLT
 'than': THAPB
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'What': KPA/WHA
 'delicious': TKHREUGS
-'moisture!': PHOEUFT/UR SKHRAPL
+'moisture!': PHOEUFT/UR/SKHRAPL
 'It': KPA/T
 'is': S
 'as': AS
@@ -841,7 +841,7 @@ The Beetle Who Went on His Travels
 'in': TPH
 'a': AEU
 'wet': WET
-'ditch.': TKEUFP TP-PL
+'ditch.': TKEUFP/TP-PL
 'I': EU
 'am': APL
 'sure': SHUR
@@ -857,30 +857,30 @@ The Beetle Who Went on His Travels
 'love': HRUF
 'for': TPOR
 'his': HEUS
-'fatherland."': TPAER/HRA*PBD TP-PL KR-GS
-'"Have': KR-GS KPA/SR
+'fatherland."': TPAER/HRA*PBD/TP-PL/KR-GS
+'"Have': KR-GS/KPA/SR
 'you': U
 'ever': -FR
 'been': PW-PB
 'in': TPH
 'the': -T
-'Emperor's': KPA/EPL/ROR AES
-'stable?"': STABL H-F KR-GS
+'Emperor's': KPA/EPL/ROR/AES
+'stable?"': STABL/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"There': KR-GS KPA/THR
+'beetle.': PWAO*ELT/TP-PL
+'"There': KR-GS/KPA/THR
 'the': -T
 'moisture': PHOEUFT/UR
 'is': S
 'warm': WARPL
 'and': SKP
-'refreshing;': RE/TPRERB/-G STPH*FPLT
+'refreshing;': RE/TPRERB/-G/STPH*FPLT
 'that's': THATS
 'the': -T
 'climate': KHRAOEUPLT
 'for': TPOR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'but': PWUT
 'I': EU
 'could': KO
@@ -891,7 +891,7 @@ The Beetle Who Went on His Travels
 'me': PHE
 'on': OPB
 'my': PHEU
-'travels.': TRAFLS TP-PL
+'travels.': TRAFLS/TP-PL
 'Is': KPA/S
 'there': THR
 'not': TPHOT
@@ -901,14 +901,14 @@ The Beetle Who Went on His Travels
 'here': HAOER
 'in': TPH
 'this': TH
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'where': W-R
 'a': AEU
 'person': PERPB
 'of': -F
-'rank,': RA*PBG KW-BG
+'rank,': RA*PBG/KW-BG
 'like': HRAOEUBG
-'myself,': PHAO*EUS KW-BG
+'myself,': PHAO*EUS/KW-BG
 'could': KO
 'take': TAEUBG
 'up': UP
@@ -917,7 +917,7 @@ The Beetle Who Went on His Travels
 'and': SKP
 'feel': TPAOEL
 'at': AT
-'home?"': HOEPL H-F KR-GS
+'home?"': HOEPL/H-F/KR-GS
 'But': KPA/PWUT
 'the': -T
 'frogs': TPROGS
@@ -928,16 +928,16 @@ The Beetle Who Went on His Travels
 'would': WO
 'not': TPHOT
 'understand': URPBD
-'him.': HEUPL TP-PL
-'"I': KR-GS EU
+'him.': HEUPL/TP-PL
+'"I': KR-GS/EU
 'never': TPHEFR
 'ask': SK
 'a': AEU
 'question': KWE
-'twice,"': TWAOEUS KW-BG KR-GS
+'twice,"': TWAOEUS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'after': AF
 'he': HE
 'had': H
@@ -945,11 +945,11 @@ The Beetle Who Went on His Travels
 'this': TH
 'one': WUPB
 'three': THRAOE
-'times,': TAOEUPLS KW-BG
+'times,': TAOEUPLS/KW-BG
 'and': SKP
 'received': SAOEFD
 'no': TPHO
-'answer.': AEPBS TP-PL
+'answer.': AEPBS/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
@@ -964,7 +964,7 @@ The Beetle Who Went on His Travels
 'piece': PAOES
 'of': -F
 'broken': PWROEPB
-'crockery-ware,': KROBG/REU H-PB WAEUR KW-BG
+'crockery-ware,': KROBG/REU/H-PB/WAEUR/KW-BG
 'which': WEU
 'certainly': SERPBL
 'ought': OT
@@ -973,12 +973,12 @@ The Beetle Who Went on His Travels
 'have': SR
 'been': PW-PB
 'lying': HRAOEUG
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'But': KPA/PWUT
 'as': AS
 'it': T
 'was': WAS
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'it': T
 'formed': TPORPLD
 'a': AEU
@@ -996,23 +996,23 @@ The Beetle Who Went on His Travels
 'who': WHO
 'dwelt': TKWELT
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL
 'Their': KPA/THAEUR
 'requirements': RAOEURPLTS
 'were': WR
 'not': TPHOT
-'many,': PHAEPB KW-BG
+'many,': PHAEPB/KW-BG
 'they': THE
 'were': WR
 'very': SRE
-'sociable,': SOERB/-BL KW-BG
+'sociable,': SOERB/-BL/KW-BG
 'and': SKP
 'full': TPUL
 'of': -F
 'affection': A*FBGS
 'for': TPOR
 'their': THAEUR
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'so': SO
 'much': PHUFP
 'so': SO
@@ -1030,19 +1030,19 @@ The Beetle Who Went on His Travels
 'clever': KHREFR
 'of': -F
 'them': THEPL
-'all.': AUL TP-PL
-'"Our': KR-GS KPA/OUR
+'all.': AUL/TP-PL
+'"Our': KR-GS/KPA/OUR
 'dear': TKAER
 'son': SOPB
 'has': HAS
 'engaged': EPB/TKPWAEUPBLGD
-'himself,"': HEUPLS KW-BG KR-GS
+'himself,"': HEUPLS/KW-BG/KR-GS
 'said': SED
 'one': WUPB
-'mother,': PHOER KW-BG
-'"dear': KR-GS TKAER
+'mother,': PHOER/KW-BG
+'"dear': KR-GS/TKAER
 'innocent': TPH-PBT
-'boy;': PWOEU STPH*FPLT
+'boy;': PWOEU/STPH*FPLT
 'his': HEUS
 'greatest': TKPWRAET/EFT
 'ambition': APL/PWEUGS
@@ -1055,8 +1055,8 @@ The Beetle Who Went on His Travels
 'creep': KRAOEP
 'into': TPHAO
 'a': AEU
-'clergyman's': KHRERPBLG/PHAPB AES
-'ear.': AOER TP-PL
+'clergyman's': KHRERPBLG/PHAPB/AES
+'ear.': AOER/TP-PL
 'That': KPA/THA
 'is': S
 'a': AEU
@@ -1064,43 +1064,43 @@ The Beetle Who Went on His Travels
 'artless': ART/-LS
 'and': SKP
 'loveable': HRUF/-BL
-'wish;': WEURB STPH*FPLT
+'wish;': WEURB/STPH*FPLT
 'and': SKP
 'being': -BG
 'engaged': EPB/TKPWAEUPBLGD
 'will': HR
 'keep': KAOEP
 'him': HEUPL
-'steady.': STAED TP-PL
+'steady.': STAED/TP-PL
 'What': KPA/WHA
 'happiness': HAEP/-PBS
 'for': TPOR
 'a': AEU
-'mother!"': PHOER SKHRAPL KR-GS
-'"Our': KR-GS KPA/OUR
-'son,"': SOPB KW-BG KR-GS
+'mother!"': PHOER/SKHRAPL/KR-GS
+'"Our': KR-GS/KPA/OUR
+'son,"': SOPB/KW-BG/KR-GS
 'said': SED
-'another,': TPHOER KW-BG
-'"had': KR-GS H
+'another,': TPHOER/KW-BG
+'"had': KR-GS/H
 'scarcely': SKAEURS/HREU
 'crept': KREPT
 'out': OUT
 'of': -F
 'the': -T
-'egg,': EG KW-BG
+'egg,': EG/KW-BG
 'when': WHEPB
 'he': HE
 'was': WAS
 'off': OF
 'on': OPB
 'his': HEUS
-'travels.': TRAFLS TP-PL
+'travels.': TRAFLS/TP-PL
 'He': KPA/HE
 'is': S
 'all': AUL
 'life': HRAOEUF
 'and': SKP
-'spirits,': SPEURTS KW-BG
+'spirits,': SPEURTS/KW-BG
 'I': EU
 'expect': KP-PT
 'he': HE
@@ -1110,19 +1110,19 @@ The Beetle Who Went on His Travels
 'his': HEUS
 'horns': HORPBS
 'with': W
-'running.': R*UPBG TP-PL
+'running.': R*UPBG/TP-PL
 'How': KPA/HOU
 'charming': KHARPL/-G
 'this': TH
 'is': S
 'for': TPOR
 'a': AEU
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'is': S
 'it': T
 'not': TPHOT
 'Mr.': PHR-FPLT
-'Beetle?"': KPA/PWAO*ELT H-F KR-GS
+'Beetle?"': KPA/PWAO*ELT/H-F/KR-GS
 'for': TPOR
 'she': SHE
 'knew': TPHAOU
@@ -1131,21 +1131,21 @@ The Beetle Who Went on His Travels
 'by': PWEU
 'his': HEUS
 'horny': HOR/TPH*EU
-'coat.': KOET TP-PL
-'"You': KR-GS KPA/U
+'coat.': KOET/TP-PL
+'"You': KR-GS/KPA/U
 'are': R
 'both': PWO*T
 'quite': KWAOEUT
-'right,"': RAOEUT KW-BG KR-GS
+'right,"': RAOEUT/KW-BG/KR-GS
 'said': SED
-'he;': HE STPH*FPLT
+'he;': HE/STPH*FPLT
 'so': SO
 'they': THE
 'begged': PWEGD
 'him': HEUPL
 'to': TO
 'walk': WAUBG
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'that': THA
 'is': S
 'to': TO
@@ -1161,33 +1161,33 @@ The Beetle Who Went on His Travels
 'piece': PAOES
 'of': -F
 'earthenware.': *ERT/*EPB/WA*EUR/TP-PL
-'"Now': KR-GS KPA/TPHOU
+'"Now': KR-GS/KPA/TPHOU
 'you': U
 'shall': SHAL
 'also': HR-S
 'see': SAOE
 'my': PHEU
 'little': HREUL
-'earwigs,"': xxx earwigs KW-BG KR-GS
+'earwigs,"': xxx earwigs/KW-BG/KR-GS
 'said': SED
 'a': AEU
 'third': THEURD
 'and': SKP
 'a': AEU
 'fourth': TPO*URT
-'mother,': PHOER KW-BG
-'"they': KR-GS THE
+'mother,': PHOER/KW-BG
+'"they': KR-GS/THE
 'are': R
 'lovely': HROFL
 'little': HREUL
-'things,': THEUPBGS KW-BG
+'things,': THEUPBGS/KW-BG
 'and': SKP
 'highly': HAOEUL
-'amusing.': A/PHAOUFG TP-PL
+'amusing.': A/PHAOUFG/TP-PL
 'They': KPA/THE
 'are': R
 'never': TPHEFR
-'ill-behaved,': EUL H-PB PWHAEUFD KW-BG
+'ill-behaved,': EUL/H-PB/PWHAEUFD/KW-BG
 'except': KPEPT
 'when': WHEPB
 'they': THE
@@ -1195,21 +1195,21 @@ The Beetle Who Went on His Travels
 'uncomfortable': TPH-BL
 'in': TPH
 'their': THAEUR
-'inside,': TPH-DZ KW-BG
+'inside,': TPH-DZ/KW-BG
 'which': WEU
 'unfortunately': UFL
 'often': OFPB
 'happens': HAPS
 'at': AT
 'their': THAEUR
-'age."': AEUPBLG TP-PL KR-GS
+'age."': AEUPBLG/TP-PL/KR-GS
 'Thus': KPA/THUS
 'each': AOEFP
 'mother': PHOER
 'spoke': SPOEBG
 'of': -F
 'her': HER
-'baby,': PWAEB KW-BG
+'baby,': PWAEB/KW-BG
 'and': SKP
 'their': THAEUR
 'babies': PWAEBS
@@ -1217,7 +1217,7 @@ The Beetle Who Went on His Travels
 'after': AF
 'their': THAEUR
 'own': OEPB
-'fashion,': TPAGS KW-BG
+'fashion,': TPAGS/KW-BG
 'and': SKP
 'made': PHAED
 'use': AOUS
@@ -1236,30 +1236,30 @@ The Beetle Who Went on His Travels
 'beard': PWAERD
 'of': -F
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"They': KR-GS KPA/THE
+'beetle.': PWAO*ELT/TP-PL
+'"They': KR-GS/KPA/THE
 'are': R
 'always': AULS
 'busy': PW-Z
 'about': PW
-'something,': S-G KW-BG
+'something,': S-G/KW-BG
 'the': -T
 'little': HREUL
-'rogues,"': ROEG/-S KW-BG KR-GS
+'rogues,"': ROEG/-S/KW-BG/KR-GS
 'said': SED
 'the': -T
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'beaming': PWAEPL/-G
 'with': W
 'maternal': PHA/TERPBL
-'pride;': PRAOEUD STPH*FPLT
+'pride;': PRAOEUD/STPH*FPLT
 'but': PWUT
 'the': -T
 'beetle': PWAO*ELT
 'felt': TPELT
 'it': T
 'a': AEU
-'bore,': PWOR KW-BG
+'bore,': PWOR/KW-BG
 'and': SKP
 'he': HE
 'therefore': TH-FR
@@ -1269,26 +1269,26 @@ The Beetle Who Went on His Travels
 'to': TO
 'the': -T
 'nearest': TPHAOER/EFT
-'dung-heap.': TKUPBG H-PB HAOEP TP-PL
-'"That': KR-GS KPA/THA
+'dung-heap.': TKUPBG/H-PB/HAOEP/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'quite': KWAOEUT
 'out': OUT
 'in': TPH
 'the': -T
 'great': TKPWRAET
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'on': OPB
 'the': -T
 'other': OER
 'side': SAOEUD
 'of': -F
 'the': -T
-'ditch,"': TKEUFP KW-BG KR-GS
+'ditch,"': TKEUFP/KW-BG/KR-GS
 'answered': AEPBS/-D
 'an': APB
-'earwig,': xxx earwig KW-BG
-'"I': KR-GS EU
+'earwig,': xxx earwig/KW-BG
+'"I': KR-GS/EU
 'hope': HOEP
 'none': TPHOPB
 'of': -F
@@ -1298,25 +1298,25 @@ The Beetle Who Went on His Travels
 'ever': -FR
 'go': TKPW
 'so': SO
-'far,': TPAR KW-BG
+'far,': TPAR/KW-BG
 'it': T
 'would': WO
 'be': -B
 'the': -T
 'death': TK*T
 'of': -F
-'me."': PHE TP-PL KR-GS
-'"But': KR-GS KPA/PWUT
+'me."': PHE/TP-PL/KR-GS
+'"But': KR-GS/KPA/PWUT
 'I': EU
 'shall': SHAL
 'try': TREU
 'to': TO
 'get': TKPWET
 'so': SO
-'far,"': TPAR KW-BG KR-GS
+'far,"': TPAR/KW-BG/KR-GS
 'said': SED
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'and': SKP
 'he': HE
 'walked': WAUBGD
@@ -1325,7 +1325,7 @@ The Beetle Who Went on His Travels
 'taking': TAEUG
 'any': TPHEU
 'formal': TPORL
-'leave,': HREF KW-BG
+'leave,': HREF/KW-BG
 'which': WEU
 'is': S
 'considered': KR-D
@@ -1333,30 +1333,30 @@ The Beetle Who Went on His Travels
 'polite': PHRAOEUT
 'thing': THEUPBG
 'to': TO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'arrived': A/RAOEUFD
 'at': AT
 'the': -T
-'ditch,': TKEUFP KW-BG
+'ditch,': TKEUFP/KW-BG
 'he': HE
 'met': PHET
 'several': SEFRL
-'friends,': TPREPBDZ KW-BG
+'friends,': TPREPBDZ/KW-BG
 'all': AUL
 'them': THEPL
-'beetles;': PWAOET/-LS STPH*FPLT
-'"We': KR-GS KPA/WE
+'beetles;': PWAOET/-LS/STPH*FPLT
+'"We': KR-GS/KPA/WE
 'live': HREUF
-'here,"': HAOER KW-BG KR-GS
+'here,"': HAOER/KW-BG/KR-GS
 'they': THE
-'said,': SED KW-BG
-'"and': KR-GS SKP
+'said,': SED/KW-BG
+'"and': KR-GS/SKP
 'we': WE
 'are': R
 'very': SRE
-'comfortable.': K-BL TP-PL
+'comfortable.': K-BL/TP-PL
 'May': PHA*EU
 'we': WE
 'ask': SK
@@ -1367,37 +1367,37 @@ The Beetle Who Went on His Travels
 'into': TPHAO
 'this': TH
 'rich': REUFP
-'mud,': PHUD KW-BG
+'mud,': PHUD/KW-BG
 'you': U
 'must': PHUFT
 'be': -B
 'fatigued': TPA/TAOEGD
 'after': AF
 'your': KWROUR
-'journey."': SKWRURPB TP-PL KR-GS
-'"Certainly,"': KR-GS KPA/SERPBL KW-BG KR-GS
+'journey."': SKWRURPB/TP-PL/KR-GS
+'"Certainly,"': KR-GS/KPA/SERPBL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'beetle,': PWAO*ELT KW-BG
-'"I': KR-GS EU
+'beetle,': PWAO*ELT/KW-BG
+'"I': KR-GS/EU
 'shall': SHAL
 'be': -B
 'most': PHOFT
-'happy;': HAEP STPH*FPLT
+'happy;': HAEP/STPH*FPLT
 'I': EU
 'have': SR
 'been': PW-PB
 'exposed': EBGS/POED/-D
 'to': TO
 'the': -T
-'rain,': RAEUPB KW-BG
+'rain,': RAEUPB/KW-BG
 'and': SKP
 'have': SR
 'had': H
 'to': TO
 'lie': HRAOEU
 'upon': POPB
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'and': SKP
 'cleanliness': KHREPB/HR*EUPBS
 'is': S
@@ -1406,7 +1406,7 @@ The Beetle Who Went on His Travels
 'that': THA
 'greatly': TKPWRAELT
 'exhausts': KPAUFTS
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'I': EU
 'have': SR
 'also': HR-S
@@ -1426,7 +1426,7 @@ The Beetle Who Went on His Travels
 'piece': PAOES
 'of': -F
 'broken': PWROEPB
-'crockery.': KROBG/REU TP-PL
+'crockery.': KROBG/REU/TP-PL
 'It': KPA/T
 'is': S
 'really': R-L
@@ -1438,53 +1438,53 @@ The Beetle Who Went on His Travels
 'one's': W*UPBS
 'own': OEPB
 'kindred': KEUPBD/RED
-'again."': TKPWEPB TP-PL KR-GS
-'"Perhaps': KR-GS KPA/PRAPS
+'again."': TKPWEPB/TP-PL/KR-GS
+'"Perhaps': KR-GS/KPA/PRAPS
 'you': U
 'came': KAEUPL
 'from': TPR
 'a': AEU
-'dung-heap,"': TKUPBG H-PB HAOEP KW-BG KR-GS
+'dung-heap,"': TKUPBG/H-PB/HAOEP/KW-BG/KR-GS
 'observed': OEBD
 'the': -T
 'oldest': OELD/EFT
 'of': -F
-'them.': THEPL TP-PL
-'"No,': KR-GS KPA/TPHO KW-BG
-'indeed,': TPHAOEPBD KW-BG
+'them.': THEPL/TP-PL
+'"No,': KR-GS/KPA/TPHO/KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'I': EU
 'came': KAEUPL
 'from': TPR
 'a': AEU
 'much': PHUFP
 'grander': TKPWRAPBD/*ER
-'place,"': PHRAEUS KW-BG KR-GS
+'place,"': PHRAEUS/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'beetle;': PWAO*ELT STPH*FPLT
-'"I': KR-GS EU
+'beetle;': PWAO*ELT/STPH*FPLT
+'"I': KR-GS/EU
 'came': KAEUPL
 'from': TPR
 'the': -T
-'emperor's': EPL/ROR AES
-'stable,': STABL KW-BG
+'emperor's': EPL/ROR/AES
+'stable,': STABL/KW-BG
 'where': W-R
 'I': EU
 'was': WAS
-'born,': PWORPB KW-BG
+'born,': PWORPB/KW-BG
 'with': W
 'golden': TKPWOELD/*EPB
 'shoes': SHAOUS
 'on': OPB
 'my': PHEU
-'feet.': TPAOET TP-PL
+'feet.': TPAOET/TP-PL
 'I': EU
 'am': APL
 'travelling': TRAFL/HREUPBG
 'on': OPB
 'a': AEU
 'secret': SKRET
-'embassy,': EPL/PWAES KW-BG
+'embassy,': EPL/PWAES/KW-BG
 'but': PWUT
 'you': U
 'must': PHUFT
@@ -1492,13 +1492,13 @@ The Beetle Who Went on His Travels
 'ask': SK
 'me': PHE
 'any': TPHEU
-'questions,': KWES KW-BG
+'questions,': KWES/KW-BG
 'for': TPOR
 'I': EU
 'cannot': SK-PBT
 'betray': PWE/TRAEU
 'my': PHEU
-'secret."': SKRET TP-PL KR-GS
+'secret."': SKRET/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'beetle': PWAO*ELT
@@ -1507,14 +1507,14 @@ The Beetle Who Went on His Travels
 'into': TPHAO
 'the': -T
 'rich': REUFP
-'mud,': PHUD KW-BG
+'mud,': PHUD/KW-BG
 'where': W-R
 'sat': SAT
 'three': THRAOE
-'young-lady': KWRUPBG H-PB HRA*ED
-'beetles,': PWAOET/-LS KW-BG
+'young-lady': KWRUPBG/H-PB/HRA*ED
+'beetles,': PWAOET/-LS/KW-BG
 'who': WHO
-'tittered,': xxx tittered KW-BG
+'tittered,': xxx tittered/KW-BG
 'because': PWAU
 'they': THE
 'did': TK
@@ -1522,72 +1522,72 @@ The Beetle Who Went on His Travels
 'know': TPHOE
 'what': WHA
 'to': TO
-'say.': SAEU TP-PL
-'"None': KR-GS KPA/TPHOPB
+'say.': SAEU/TP-PL
+'"None': KR-GS/KPA/TPHOPB
 'of': -F
 'them': THEPL
 'are': R
 'engaged': EPB/TKPWAEUPBLGD
-'yet,"': KWRET KW-BG KR-GS
+'yet,"': KWRET/KW-BG/KR-GS
 'said': SED
 'their': THAEUR
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'the': -T
 'beetle': PWAO*ELT
 'maidens': PHAEUD/*EPB/-S
 'tittered': xxx tittered
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'this': TH
 'time': TAOEUPL
 'quite': KWAOEUT
 'in': TPH
-'confusion.': KAUFGS TP-PL
-'"I': KR-GS EU
+'confusion.': KAUFGS/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'never': TPHEFR
 'seen': SAOEPB
 'greater': TKPWRAERT
-'beauties,': PWAOUTS KW-BG
+'beauties,': PWAOUTS/KW-BG
 'even': AOEPB
 'in': TPH
 'the': -T
 'royal': ROEUL
-'stables,"': STAEUBLS KW-BG KR-GS
+'stables,"': STAEUBLS/KW-BG/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'who': WHO
 'was': WAS
 'now': TPHOU
 'resting': REFT/-G
-'himself.': HEUPLS TP-PL
-'"Don't': KR-GS TKO*PB AE T*
+'himself.': HEUPLS/TP-PL
+'"Don't': KR-GS/TKO*PB/AE/T*
 'spoil': SPOEUL
 'my': PHEU
-'girls,"': TKPWEURLS KW-BG KR-GS
+'girls,"': TKPWEURLS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'mother;': PHOER STPH*FPLT
-'"and': KR-GS SKP
+'mother;': PHOER/STPH*FPLT
+'"and': KR-GS/SKP
 'don't': TKOEPBT
 'talk': TAUBG
 'to': TO
-'them,': THEPL KW-BG
-'pray,': PRAEU KW-BG
+'them,': THEPL/KW-BG
+'pray,': PRAEU/KW-BG
 'unless': TPH-LS
 'you': U
 'have': SR
 'serious': SAOERS
-'intentions."': EUPB/TEPBGS/-S TP-PL KR-GS
+'intentions."': EUPB/TEPBGS/-S/TP-PL/KR-GS
 'But': KPA/PWUT
 'of': -F
 'course': KORS
 'the': -T
-'beetle's': PWAO*ELT AES
+'beetle's': PWAO*ELT/AES
 'intentions': EUPB/TEPBGS/-S
 'were': WR
-'serious,': SAOERS KW-BG
+'serious,': SAOERS/KW-BG
 'and': SKP
 'after': AF
 'a': AEU
@@ -1595,46 +1595,46 @@ The Beetle Who Went on His Travels
 'our': OUR
 'friend': TPREPBD
 'was': WAS
-'engaged.': EPB/TKPWAEUPBLGD TP-PL
+'engaged.': EPB/TKPWAEUPBLGD/TP-PL
 'The': KPA/-T
 'mother': PHOER
 'gave': TKPWAEUF
 'them': THEPL
 'her': HER
-'blessing,': PWHR*EFG KW-BG
+'blessing,': PWHR*EFG/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
 'other': OER
 'beetles': PWAOET/-LS
 'cried': KRAOEUD
-'"hurrah."': KR-GS HUR/RA TP-PL KR-GS
+'"hurrah."': KR-GS/HUR/RA/TP-PL/KR-GS
 'Immediately': KPA/PHAOELD
 'after': AF
 'the': -T
 'betrothal': PWE/TRO/THAL
 'came': KAEUPL
 'the': -T
-'marriage,': PHAERPBLG KW-BG
+'marriage,': PHAERPBLG/KW-BG
 'for': TPOR
 'there': THR
 'was': WAS
 'no': TPHO
 'reason': R-PB
 'to': TO
-'delay.': TKHRAEU TP-PL
+'delay.': TKHRAEU/TP-PL
 'The': KPA/-T
 'following': TPOLG
 'day': TKAEU
 'passed': PAFD
 'very': SRE
-'pleasantly,': PHRES/APBT/HREU KW-BG
+'pleasantly,': PHRES/APBT/HREU/KW-BG
 'and': SKP
 'the': -T
 'next': TPHEGT
 'was': WAS
 'tolerably': TOR/RABL
-'comfortable;': K-BL STPH*FPLT
+'comfortable;': K-BL/STPH*FPLT
 'but': PWUT
 'on': OPB
 'the': -T
@@ -1651,25 +1651,25 @@ The Beetle Who Went on His Travels
 'food': TPAOD
 'for': TPOR
 'his': HEUS
-'wife,': WAOEUF KW-BG
-'and,': SKP KW-BG
-'perhaps,': PRAPS KW-BG
+'wife,': WAOEUF/KW-BG
+'and,': SKP/KW-BG
+'perhaps,': PRAPS/KW-BG
 'for': TPOR
-'children.': KHEURPB TP-PL
-'"I': KR-GS EU
+'children.': KHEURPB/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'allowed': HRO*UD
 'myself': PHAO*EUS
 'to': TO
 'be': -B
 'taken': TAEPB
-'in,"': TPH KW-BG KR-GS
+'in,"': TPH/KW-BG/KR-GS
 'said': SED
 'our': OUR
 'beetle': PWAO*ELT
 'to': TO
-'himself,': HEUPLS KW-BG
-'"and': KR-GS SKP
+'himself,': HEUPLS/KW-BG
+'"and': KR-GS/SKP
 'now': TPHOU
 'there's': THR-S
 'nothing': TPHOG
@@ -1680,17 +1680,17 @@ The Beetle Who Went on His Travels
 'to': TO
 'take': TAEUBG
 'them': THEPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'in': TPH
-'return."': RURPB TP-PL KR-GS
+'return."': RURPB/TP-PL/KR-GS
 'No': KPA/TPHO
 'sooner': SAORPB
 'said': SED
 'than': THAPB
-'done.': TKOPB TP-PL
+'done.': TKOPB/TP-PL
 'Away': KPA/WA*EU
 'he': HE
-'went,': WEPBT KW-BG
+'went,': WEPBT/KW-BG
 'and': SKP
 'stayed': STAEUD
 'away': WA*EU
@@ -1698,7 +1698,7 @@ The Beetle Who Went on His Travels
 'day': TKAEU
 'and': SKP
 'all': AUL
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'his': HEUS
 'wife': WAOEUF
@@ -1706,13 +1706,13 @@ The Beetle Who Went on His Travels
 'behind': HEUPBD
 'a': AEU
 'forsaken': TPAUR/SA*EUPB
-'widow.': WO*EUD TP-PL
-'"Oh,"': KR-GS KPA/O*ERBGS KW-BG KR-GS
+'widow.': WO*EUD/TP-PL
+'"Oh,"': KR-GS/KPA/O*ERBGS/KW-BG/KR-GS
 'said': SED
 'the': -T
 'other': OER
-'beetles,': PWAOET/-LS KW-BG
-'"this': KR-GS TH
+'beetles,': PWAOET/-LS/KW-BG
+'"this': KR-GS/TH
 'fellow': TP*EL
 'that': THA
 'we': WE
@@ -1726,7 +1726,7 @@ The Beetle Who Went on His Travels
 'but': PWUT
 'a': AEU
 'complete': KPHRAOET
-'vagabond.': SRAG/PWOPBD TP-PL
+'vagabond.': SRAG/PWOPBD/TP-PL
 'He': KPA/HE
 'has': HAS
 'gone': TKPWOPB
@@ -1739,36 +1739,36 @@ The Beetle Who Went on His Travels
 'burden': PWURD
 'upon': POPB
 'our': OUR
-'hands."': HAPBDZ TP-PL KR-GS
-'"Well,': KR-GS KPA/WEL KW-BG
+'hands."': HAPBDZ/TP-PL/KR-GS
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'she': SHE
 'can': K
 'be': -B
 'unmarried': UPB/PHAEUR/EUD
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'remain': RAEUPL
 'here': HAOER
 'with': W
 'my': PHEU
 'other': OER
-'daughters,"': TKAURS KW-BG KR-GS
+'daughters,"': TKAURS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'mother.': PHOER TP-PL
-'"Fie': KR-GS xxx Fie
+'mother.': PHOER/TP-PL
+'"Fie': KR-GS/xxx Fie
 'on': OPB
 'the': -T
 'villain': SREUL/AEUPB
 'that': THA
 'forsook': TPOR/SAOBG
-'her!"': HER SKHRAPL KR-GS
+'her!"': HER/SKHRAPL/KR-GS
 'In': KPA/TPH
 'the': -T
 'mean': PHAOEPB
 'time': TAOEUPL
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'who': WHO
 'had': H
 'sailed': SAEULD
@@ -1778,14 +1778,14 @@ The Beetle Who Went on His Travels
 'on': OPB
 'a': AEU
 'cabbage': KAB/APBLG
-'leaf,': HRAOEF KW-BG
+'leaf,': HRAOEF/KW-BG
 'had': H
 'been': PW-PB
 'journeying': SKWRURPB/EUG
 'on': OPB
 'the': -T
 'other': OER
-'side.': SAOEUD TP-PL
+'side.': SAOEUD/TP-PL
 'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
@@ -1795,7 +1795,7 @@ The Beetle Who Went on His Travels
 'up': UP
 'to': TO
 'the': -T
-'ditch.': TKEUFP TP-PL
+'ditch.': TKEUFP/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'saw': SAU
@@ -1809,20 +1809,20 @@ The Beetle Who Went on His Travels
 'him': HEUPL
 'over': OEFR
 'and': SKP
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'looking': HRAOG
 'very': SRE
 'learned': HRERPBD
 'all': AUL
 'the': -T
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'especially': EPS
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'who': WHO
 'was': WAS
 'a': AEU
-'boy.': PWOEU TP-PL
-'"Allah': KR-GS AL/HRA
+'boy.': PWOEU/TP-PL
+'"Allah': KR-GS/AL/HRA
 'sees': SAO*ES
 'the': -T
 'black': PWHRABG
@@ -1830,28 +1830,28 @@ The Beetle Who Went on His Travels
 'in': TPH
 'the': -T
 'black': PWHRABG
-'stone,': STOEPB KW-BG
+'stone,': STOEPB/KW-BG
 'and': SKP
 'the': -T
 'black': PWHRABG
-'rock.': ROBG TP-PL
+'rock.': ROBG/TP-PL
 'Is': KPA/S
 'not': TPHOT
 'that': THA
 'written': WREUPB
 'in': TPH
 'the': -T
-'Koran?"': KOR/A*PB H-F KR-GS
+'Koran?"': KOR/A*PB/H-F/KR-GS
 'he': HE
-'asked.': SK-D TP-PL
+'asked.': SK-D/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'translated': THRAEUTD
 'the': -T
-'beetle's': PWAO*ELT AES
+'beetle's': PWAO*ELT/AES
 'name': TPHAEUPL
 'into': TPHAO
-'Latin,': HRA/TEUPB KW-BG
+'Latin,': HRA/TEUPB/KW-BG
 'and': SKP
 'said': SED
 'a': AEU
@@ -1859,25 +1859,25 @@ The Beetle Who Went on His Travels
 'deal': TKAOEL
 'upon': POPB
 'the': -T
-'creature's': KRAOEFP AES
+'creature's': KRAOEFP/AES
 'nature': TPHAEURT
 'and': SKP
-'history.': HEUFRT TP-PL
+'history.': HEUFRT/TP-PL
 'The': KPA/-T
 'second': SEBGD
-'person,': PERPB KW-BG
+'person,': PERPB/KW-BG
 'who': WHO
 'was': WAS
 'older': OERLD
 'and': SKP
 'a': AEU
-'scholar,': SKHRAR KW-BG
+'scholar,': SKHRAR/KW-BG
 'proposed': PROEPD
 'to': TO
 'carry': KAER
 'the': -T
 'beetle': PWAO*ELT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'as': AS
 'they': THE
 'wanted': WAPBTD
@@ -1886,7 +1886,7 @@ The Beetle Who Went on His Travels
 'good': TKPWAOD
 'specimens': SPEPLS
 'as': AS
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'Our': KPA/OUR
 'beetle': PWAO*ELT
 'considered': KR-D
@@ -1894,7 +1894,7 @@ The Beetle Who Went on His Travels
 'speech': SPAOEFP
 'a': AEU
 'great': TKPWRAET
-'insult,': EUPB/SULT KW-BG
+'insult,': EUPB/SULT/KW-BG
 'so': SO
 'he': HE
 'flew': TPHRAOU
@@ -1902,13 +1902,13 @@ The Beetle Who Went on His Travels
 'out': OUT
 'of': -F
 'the': -T
-'speaker's': SPAOERBG AES
-'hand.': HAPBD TP-PL
+'speaker's': SPAOERBG/AES
+'hand.': HAPBD/TP-PL
 'His': KPA/HEUS
 'wings': WEUPBGS
 'were': WR
 'dry': TKRAOEU
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'so': SO
 'they': THE
 'carried': KAERD
@@ -1916,14 +1916,14 @@ The Beetle Who Went on His Travels
 'to': TO
 'a': AEU
 'great': TKPWRAET
-'distance,': STKAPBS KW-BG
+'distance,': STKAPBS/KW-BG
 'till': TEUL
 'at': AT
 'last': HRAFT
 'he': HE
 'reached': RAOEFPD
 'a': AEU
-'hothouse,': HOT/TK-LS/HOUS KW-BG
+'hothouse,': HOT/TK-LS/HOUS/KW-BG
 'where': W-R
 'a': AEU
 'sash': SARB
@@ -1933,7 +1933,7 @@ The Beetle Who Went on His Travels
 'roof': RAOF
 'was': WAS
 'partly': PARLT
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'so': SO
 'he': HE
 'quietly': KWAO*EULT
@@ -1945,37 +1945,37 @@ The Beetle Who Went on His Travels
 'in': TPH
 'the': -T
 'warm': WARPL
-'earth.': *ERT TP-PL
-'"It': KR-GS KPA/T
+'earth.': *ERT/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'very': SRE
 'comfortable': K-BL
-'here,"': HAOER KW-BG KR-GS
+'here,"': HAOER/KW-BG/KR-GS
 'he': HE
 'said': SED
 'to': TO
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'soon': SAOPB
 'after': AF
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'dreamed': TKREPLD
 'that': THA
 'the': -T
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'horse': HORS
 'was': WAS
-'dying,': TKAOEUG KW-BG
+'dying,': TKAOEUG/KW-BG
 'and': SKP
 'had': H
 'left': HREFT
 'him': HEUPL
 'his': HEUS
 'golden': TKPWOELD/*EPB
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'and': SKP
 'also': HR-S
 'promised': PROPLS/-D
@@ -1984,12 +1984,12 @@ The Beetle Who Went on His Travels
 'should': SHO
 'have': SR
 'two': TWO
-'more.': PHOR TP-PL
+'more.': PHOR/TP-PL
 'All': KPA/AUL
 'this': TH
 'was': WAS
 'very': SRE
-'delightful,': TKHRAOEUT/-FL KW-BG
+'delightful,': TKHRAOEUT/-FL/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -2002,29 +2002,29 @@ The Beetle Who Went on His Travels
 'and': SKP
 'looked': HRAOBGD
 'around': ARPBD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'What': KPA/WHA
 'a': AEU
 'splendid': SPHREPB/TKEUD
 'place': PHRAEUS
 'the': -T
 'hothouse': HOT/TK-LS/HOUS
-'was!': WAS SKHRAPL
+'was!': WAS/SKHRAPL
 'At': KPA/AT
 'the': -T
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'large': HRARPBLG
-'palm-trees': PAPL H-PB TRAOES
+'palm-trees': PAPL/H-PB/TRAOES
 'were': WR
-'growing;': TKPWROEG STPH*FPLT
+'growing;': TKPWROEG/STPH*FPLT
 'and': SKP
 'the': -T
 'sunlight': SULGT
 'made': PHAED
 'the': -T
-'leaves—look': HREFS EPL/TKA*RB HRAOBG
+'leaves—look': HREFS/EPL/TKA*RB/HRAOBG
 'quite': KWAOEUT
-'glossy;': TKPWHROS/SEU STPH*FPLT
+'glossy;': TKPWHROS/SEU/STPH*FPLT
 'and': SKP
 'beneath': TPHAO*ET
 'them': THEPL
@@ -2033,31 +2033,31 @@ The Beetle Who Went on His Travels
 'profusion': PRO/TPAOUGS
 'of': -F
 'luxuriant': HRUBGS/UR/KWRAPBT
-'green,': TKPWRAOEPB KW-BG
+'green,': TKPWRAOEPB/KW-BG
 'and': SKP
 'of': -F
 'flowers': TPHRO*URS
 'red': RED
 'like': HRAOEUBG
-'flame,': TPHRAEUPL KW-BG
+'flame,': TPHRAEUPL/KW-BG
 'yellow': KWREL/OE
 'as': AS
-'amber,': APL/PWER KW-BG
+'amber,': APL/PWER/KW-BG
 'or': OR
 'white': WHAOEUT
 'as': AS
-'new-fallen': TPHU H-PB TPAUL/-PB
-'snow!': STPHOE SKHRAPL
-'"What': KR-GS KPA/WHA
+'new-fallen': TPHU/H-PB/TPAUL/-PB
+'snow!': STPHOE/SKHRAPL
+'"What': KR-GS/KPA/WHA
 'a': AEU
 'wonderful': WUFL
 'quantity': KWAPBT
 'of': -F
-'plants,"': PHRAPBTS KW-BG KR-GS
+'plants,"': PHRAPBTS/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
-'beetle;': PWAO*ELT STPH*FPLT
-'"how': KR-GS HOU
+'beetle;': PWAO*ELT/STPH*FPLT
+'"how': KR-GS/HOU
 'good': TKPWAOD
 'they': THE
 'will': HR
@@ -2065,12 +2065,12 @@ The Beetle Who Went on His Travels
 'when': WHEPB
 'they': THE
 'are': R
-'decayed!': TKAOE/KAEUD SKHRAPL
+'decayed!': TKAOE/KAEUD/SKHRAPL
 'This': KPA/TH
 'is': S
 'a': AEU
 'capital': KPAL
-'store-room.': STOR H-PB RAOPL TP-PL
+'store-room.': STOR/H-PB/RAOPL/TP-PL
 'There': KPA/THR
 'must': PHUFT
 'certainly': SERPBL
@@ -2080,7 +2080,7 @@ The Beetle Who Went on His Travels
 'of': -F
 'mine': PHAOEUPB
 'living': HREUFG
-'here;': HAOER STPH*FPLT
+'here;': HAOER/STPH*FPLT
 'I': EU
 'will': HR
 'just': SKWRUFT
@@ -2095,24 +2095,24 @@ The Beetle Who Went on His Travels
 'whom': WHOPL
 'I': EU
 'can': K
-'associate.': SOERBT TP-PL
+'associate.': SOERBT/TP-PL
 'I'm': AOEUPL
-'proud,': PROUD KW-BG
-'certainly;': SERPBL STPH*FPLT
+'proud,': PROUD/KW-BG
+'certainly;': SERPBL/STPH*FPLT
 'but': PWUT
 'I'm': AOEUPL
 'also': HR-S
 'proud': PROUD
 'of': -F
 'being': -BG
-'so."': SO TP-PL KR-GS
+'so."': SO/TP-PL/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'prowled': PROULD
 'about': PW
 'in': TPH
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'and': SKP
 'thought': THAUT
 'what': WHA
@@ -2124,31 +2124,31 @@ The Beetle Who Went on His Travels
 'about': PW
 'the': -T
 'dying': TKAOEUG
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'the': -T
 'golden': TKPWOELD/*EPB
 'shoes': SHAOUS
 'he': HE
 'had': H
-'inherited.': EUPB/HERTD TP-PL
+'inherited.': EUPB/HERTD/TP-PL
 'Suddenly': KPA/SULD
 'a': AEU
 'hand': HAPBD
 'seized': SAOEZ/-D
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'and': SKP
 'squeezed': SKWAOEZ/-D
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'turned': TURPBD
 'him': HEUPL
 'round': ROUPBD
 'and': SKP
-'round.': ROUPBD TP-PL
+'round.': ROUPBD/TP-PL
 'The': KPA/-T
-'gardener's': TKPWARD/TPHER AES
+'gardener's': TKPWARD/TPHER/AES
 'little': HREUL
 'son': SOPB
 'and': SKP
@@ -2158,32 +2158,32 @@ The Beetle Who Went on His Travels
 'come': KOPL
 'into': TPHAO
 'the': -T
-'hothouse,': HOT/TK-LS/HOUS KW-BG
-'and,': SKP KW-BG
+'hothouse,': HOT/TK-LS/HOUS/KW-BG
+'and,': SKP/KW-BG
 'seeing': SAOEG
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'wanted': WAPBTD
 'to': TO
 'have': SR
 'some': SOPL
 'fun': TPUPB
 'with': W
-'him.': HEUPL TP-PL
-'First,': KPA/TPEUFRT KW-BG
+'him.': HEUPL/TP-PL
+'First,': KPA/TPEUFRT/KW-BG
 'he': HE
 'was': WAS
-'wrapped,': WRAPD KW-BG
+'wrapped,': WRAPD/KW-BG
 'in': TPH
 'a': AEU
-'vine-leaf,': SRAOEUPB H-PB HRAOEF KW-BG
+'vine-leaf,': SRAOEUPB/H-PB/HRAOEF/KW-BG
 'and': SKP
 'put': PUT
 'into': TPHAO
 'a': AEU
 'warm': WARPL
-'trousers'': TROUZ/ERS AE
-'pocket.': POBGT TP-PL
+'trousers'': TROUZ/ERS/AE
+'pocket.': POBGT/TP-PL
 'He': KPA/HE
 'twisted': TWEUFTD
 'and': SKP
@@ -2192,7 +2192,7 @@ The Beetle Who Went on His Travels
 'with': W
 'all': AUL
 'his': HEUS
-'might,': PHAOEUT KW-BG
+'might,': PHAOEUT/KW-BG
 'but': PWUT
 'he': HE
 'got': TKPWOT
@@ -2201,8 +2201,8 @@ The Beetle Who Went on His Travels
 'squeeze': SKWAOEZ
 'from': TPR
 'the': -T
-'boy's': PWOEU AES
-'hand,': HAPBD KW-BG
+'boy's': PWOEU/AES
+'hand,': HAPBD/KW-BG
 'as': AS
 'a': AEU
 'hint': HEUPBT
@@ -2210,7 +2210,7 @@ The Beetle Who Went on His Travels
 'him': HEUPL
 'to': TO
 'keep': KAOEP
-'quiet.': KWAO*EUT TP-PL
+'quiet.': KWAO*EUT/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'boy': PWOEU
@@ -2226,7 +2226,7 @@ The Beetle Who Went on His Travels
 'end': EPBD
 'of': -F
 'the': -T
-'garden.': TKPWA*RPB TP-PL
+'garden.': TKPWA*RPB/TP-PL
 'Here': KPA/HAOER
 'the': -T
 'beetle': PWAO*ELT
@@ -2237,7 +2237,7 @@ The Beetle Who Went on His Travels
 'old': OLD
 'broken': PWROEPB
 'wooden': WAOD/EPB
-'shoe,': SHAOU KW-BG
+'shoe,': SHAOU/KW-BG
 'in': TPH
 'which': WEU
 'a': AEU
@@ -2249,7 +2249,7 @@ The Beetle Who Went on His Travels
 'upright': AUP/RAOEUGT
 'for': TPOR
 'a': AEU
-'mast,': PHAFT KW-BG
+'mast,': PHAFT/KW-BG
 'and': SKP
 'to': TO
 'this': TH
@@ -2262,23 +2262,23 @@ The Beetle Who Went on His Travels
 'a': AEU
 'piece': PAOES
 'of': -F
-'worsted.': WORS/TED TP-PL
+'worsted.': WORS/TED/TP-PL
 'Now': KPA/TPHOU
 'he': HE
 'was': WAS
 'a': AEU
-'sailor,': SAEU/HROR KW-BG
+'sailor,': SAEU/HROR/KW-BG
 'and': SKP
 'had': H
 'to': TO
 'sail': SAEUL
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
 'lake': HRAEUBG
 'was': WAS
 'not': TPHOT
 'very': SRE
-'large,': HRARPBLG KW-BG
+'large,': HRARPBLG/KW-BG
 'but': PWUT
 'to': TO
 'the': -T
@@ -2286,7 +2286,7 @@ The Beetle Who Went on His Travels
 'it': T
 'seemed': SAOEPLD
 'an': APB
-'ocean,': OEGS KW-BG
+'ocean,': OEGS/KW-BG
 'and': SKP
 'he': HE
 'was': WAS
@@ -2301,18 +2301,18 @@ The Beetle Who Went on His Travels
 'over': OEFR
 'on': OPB
 'his': HEUS
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'kicked': KEUBGD
 'out': OUT
 'his': HEUS
-'legs.': HREGS TP-PL
+'legs.': HREGS/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'little': HREUL
 'ship': SHEUP
 'sailed': SAEULD
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'sometimes': STAOEUPLS
 'the': -T
 'current': KURPBT
@@ -2320,7 +2320,7 @@ The Beetle Who Went on His Travels
 'the': -T
 'water': WAUR
 'seized': SAOEZ/-D
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'whenever': WHEFR
 'it': T
@@ -2337,41 +2337,41 @@ The Beetle Who Went on His Travels
 'turned': TURPBD
 'up': UP
 'his': HEUS
-'trousers,': TROUZ/ERS KW-BG
+'trousers,': TROUZ/ERS/KW-BG
 'and': SKP
 'went': WEPBT
 'in': TPH
 'after': AF
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'brought': PWRAUT
 'it': T
 'back': PWABG
 'to': TO
-'land.': HRAPBD TP-PL
+'land.': HRAPBD/TP-PL
 'But': KPA/PWUT
 'at': AT
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'just': SKWRUFT
 'as': AS
 'it': T
 'went': WEPBT
 'merrily': PHER/HREU
 'out': OUT
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'the': -T
 'two': TWO
 'boys': PWOEUS
 'were': WR
-'called,': KAULD KW-BG
+'called,': KAULD/KW-BG
 'and': SKP
 'so': SO
-'angrily,': APBG/REU/HREU KW-BG
+'angrily,': APBG/REU/HREU/KW-BG
 'that': THA
 'they': THE
 'hastened': HAEUS/-PBD
 'to': TO
-'obey,': OE/PWAEU KW-BG
+'obey,': OE/PWAEU/KW-BG
 'and': SKP
 'ran': RAPB
 'away': WA*EU
@@ -2382,7 +2382,7 @@ The Beetle Who Went on His Travels
 'could': KO
 'from': TPR
 'the': -T
-'pond,': POPBD KW-BG
+'pond,': POPBD/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -2392,7 +2392,7 @@ The Beetle Who Went on His Travels
 'left': HREFT
 'to': TO
 'its': EUTS
-'fate.': TPAEUT TP-PL
+'fate.': TPAEUT/TP-PL
 'It': KPA/T
 'was': WAS
 'carried': KAERD
@@ -2402,13 +2402,13 @@ The Beetle Who Went on His Travels
 'farther': TPA*RT
 'from': TPR
 'the': -T
-'shore,': SHOR KW-BG
+'shore,': SHOR/KW-BG
 'till': TEUL
 'it': T
 'reached': RAOEFPD
 'the': -T
 'open': OEP
-'sea.': SAE TP-PL
+'sea.': SAE/TP-PL
 'This': KPA/TH
 'was': WAS
 'a': AEU
@@ -2416,7 +2416,7 @@ The Beetle Who Went on His Travels
 'prospect': PRO/SPEBGT
 'for': TPOR
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'for': TPOR
 'he': HE
 'could': KO
@@ -2429,7 +2429,7 @@ The Beetle Who Went on His Travels
 'bound': PWOUPBD
 'to': TO
 'the': -T
-'mast.': PHAFT TP-PL
+'mast.': PHAFT/TP-PL
 'Then': KPA/THEPB
 'a': AEU
 'fly': TPHRAOEU
@@ -2438,20 +2438,20 @@ The Beetle Who Went on His Travels
 'paid': PAEUD
 'him': HEUPL
 'a': AEU
-'visit.': SREUFT TP-PL
-'"What': KR-GS KPA/WHA
+'visit.': SREUFT/TP-PL
+'"What': KR-GS/KPA/WHA
 'beautiful': PWAOUFL
-'weather,"': WHR* KW-BG KR-GS
+'weather,"': WHR*/KW-BG/KR-GS
 'said': SED
 'the': -T
-'fly;': TPHRAOEU STPH*FPLT
-'"I': KR-GS EU
+'fly;': TPHRAOEU/STPH*FPLT
+'"I': KR-GS/EU
 'shall': SHAL
 'rest': REFT
 'here': HAOER
 'and': SKP
 'sun': SUPB
-'myself.': PHAO*EUS TP-PL
+'myself.': PHAO*EUS/TP-PL
 'You': KPA/U
 'must': PHUFT
 'have': SR
@@ -2459,16 +2459,16 @@ The Beetle Who Went on His Travels
 'pleasant': PHREFPBT
 'time': TAOEUPL
 'of': -F
-'it."': T TP-PL KR-GS
-'"You': KR-GS KPA/U
+'it."': T/TP-PL/KR-GS
+'"You': KR-GS/KPA/U
 'speak': SPAOEBG
 'without': WOUT
 'knowing': TPHOEG
 'the': -T
-'facts,"': TPABGZ KW-BG KR-GS
+'facts,"': TPABGZ/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'beetle;': PWAO*ELT STPH*FPLT
+'beetle;': PWAO*ELT/STPH*FPLT
 '"don't': KW-GS/TKOEPBT
 'you': U
 'see': SAOE
@@ -2476,49 +2476,49 @@ The Beetle Who Went on His Travels
 'I': EU
 'am': APL
 'a': AEU
-'prisoner?"': PREURZ H-F KR-GS
-'"Ah,': KR-GS KPA/HA*E KW-BG
+'prisoner?"': PREURZ/H-F/KR-GS
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
 'but': PWUT
 'I'm': AOEUPL
 'not': TPHOT
 'a': AEU
-'prisoner,"': PREURZ KW-BG KR-GS
+'prisoner,"': PREURZ/KW-BG/KR-GS
 'remarked': RARBGD
 'the': -T
-'fly,': TPHRAOEU KW-BG
+'fly,': TPHRAOEU/KW-BG
 'and': SKP
 'away': WA*EU
 'he': HE
-'flew.': TPHRAOU TP-PL
-'"Well,': KR-GS KPA/WEL KW-BG
+'flew.': TPHRAOU/TP-PL
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'now': TPHOU
 'I': EU
 'know': TPHOE
 'the': -T
-'world,"': WORLD KW-BG KR-GS
+'world,"': WORLD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'beetle': PWAO*ELT
 'to': TO
-'himself;': HEUPLS STPH*FPLT
-'"it's': KR-GS T AES
+'himself;': HEUPLS/STPH*FPLT
+'"it's': KR-GS/T/AES
 'an': APB
 'abominable': A/PWOPL/TPHABL
-'world;': WORLD STPH*FPLT
+'world;': WORLD/STPH*FPLT
 'I'm': AOEUPL
 'the': -T
 'only': OEPBL
 'respectable': R-PT/-BL
 'person': PERPB
 'in': TPH
-'it.': T TP-PL
-'First,': KPA/TPEUFRT KW-BG
+'it.': T/TP-PL
+'First,': KPA/TPEUFRT/KW-BG
 'they': THE
 'refuse': REF/AOUS
 'me': PHE
 'my': PHEU
 'golden': TKPWOELD/*EPB
-'shoes;': SHAOUS STPH*FPLT
+'shoes;': SHAOUS/STPH*FPLT
 'then': THEPB
 'I': EU
 'have': SR
@@ -2526,24 +2526,24 @@ The Beetle Who Went on His Travels
 'lie': HRAOEU
 'on': OPB
 'damp': TKAFRP
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'and': SKP
 'to': TO
 'stand': STAPBD
 'in': TPH
 'a': AEU
-'draught;': TKRAUFT STPH*FPLT
+'draught;': TKRAUFT/STPH*FPLT
 'and': SKP
 'to': TO
 'crown': KROUPB
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'they': THE
 'fasten': TPAFPB
 'a': AEU
 'wife': WAOEUF
 'upon': POPB
-'me.': PHE TP-PL
-'Then,': KPA/THEPB KW-BG
+'me.': PHE/TP-PL
+'Then,': KPA/THEPB/KW-BG
 'when': WHEPB
 'I': EU
 'have': SR
@@ -2553,13 +2553,13 @@ The Beetle Who Went on His Travels
 'forward': TPAORD
 'in': TPH
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'and': SKP
 'found': TPOUPBD
 'out': OUT
 'a': AEU
 'comfortable': K-BL
-'position,': POGS KW-BG
+'position,': POGS/KW-BG
 'just': SKWRUFT
 'as': AS
 'I': EU
@@ -2567,7 +2567,7 @@ The Beetle Who Went on His Travels
 'wish': WEURB
 'it': T
 'to': TO
-'be,': -B KW-BG
+'be,': -B/KW-BG
 'one': WUPB
 'of': -F
 'these': THEZ
@@ -2577,7 +2577,7 @@ The Beetle Who Went on His Travels
 'and': SKP
 'ties': TAOEUZ
 'me': PHE
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'leaves': HREFS
 'me': PHE
@@ -2587,10 +2587,10 @@ The Beetle Who Went on His Travels
 'of': -F
 'the': -T
 'wild': WAOEULD
-'waves,': WAFS KW-BG
+'waves,': WAFS/KW-BG
 'while': WHAOEUL
 'the': -T
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'favorite': TPAEUFRT
 'horse': HORS
 'goes': TKPW-S
@@ -2600,13 +2600,13 @@ The Beetle Who Went on His Travels
 'on': OPB
 'his': HEUS
 'golden': TKPWOELD/*EPB
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'This': KPA/TH
 'vexes': SREBGS/-S
 'me': PHE
 'more': PHOR
 'than': THAPB
-'anything.': TPHEUG TP-PL
+'anything.': TPHEUG/TP-PL
 'But': KPA/PWUT
 'it': T
 'is': S
@@ -2617,13 +2617,13 @@ The Beetle Who Went on His Travels
 'sympathy': SEUPL/THEU
 'in': TPH
 'this': TH
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'My': KPA/PHEU
 'career': KRAOER
 'has': HAS
 'been': PW-PB
 'very': SRE
-'interesting,': TR-G KW-BG
+'interesting,': TR-G/KW-BG
 'but': PWUT
 'what's': WHATS
 'the': -T
@@ -2635,7 +2635,7 @@ The Beetle Who Went on His Travels
 'knows': TPHOEZ
 'anything': TPHEUG
 'about': PW
-'it?': T H-F
+'it?': T/H-F
 'The': KPA/-T
 'world': WORLD
 'does': TKOS
@@ -2647,7 +2647,7 @@ The Beetle Who Went on His Travels
 'acquainted': A/KWAEUPBTD
 'with': W
 'my': PHEU
-'adventures,': SREPBGS KW-BG
+'adventures,': SREPBGS/KW-BG
 'for': TPOR
 'it': T
 'ought': OT
@@ -2659,10 +2659,10 @@ The Beetle Who Went on His Travels
 'shoes': SHAOUS
 'when': WHEPB
 'the': -T
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'horse': HORS
 'was': WAS
-'shod,': SHOD KW-BG
+'shod,': SHOD/KW-BG
 'and': SKP
 'I': EU
 'stretched': STREFPD
@@ -2671,8 +2671,8 @@ The Beetle Who Went on His Travels
 'feet': TPAOET
 'to': TO
 'be': -B
-'shod,': SHOD KW-BG
-'too.': TAO TP-PL
+'shod,': SHOD/KW-BG
+'too.': TAO/TP-PL
 'If': KPA/TP
 'I': EU
 'had': H
@@ -2687,7 +2687,7 @@ The Beetle Who Went on His Travels
 'ornament': ORPB/*PLT
 'to': TO
 'the': -T
-'stable;': STABL STPH*FPLT
+'stable;': STABL/STPH*FPLT
 'now': TPHOU
 'I': EU
 'am': APL
@@ -2698,32 +2698,32 @@ The Beetle Who Went on His Travels
 'and': SKP
 'to': TO
 'the': -T
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'It': KPA/T
 'is': S
 'all': AUL
 'over': OEFR
 'with': W
-'me."': PHE TP-PL KR-GS
+'me."': PHE/TP-PL/KR-GS
 'But': KPA/PWUT
 'all': AUL
 'was': WAS
 'not': TPHOT
 'yet': KWRET
-'over.': OEFR TP-PL
+'over.': OEFR/TP-PL
 'A': KPA/AEU
-'boat,': PWOET KW-BG
+'boat,': PWOET/KW-BG
 'in': TPH
 'which': WEU
 'were': WR
 'a': AEU
 'few': TPAOU
 'young': KWRUPBG
-'girls,': TKPWEURLS KW-BG
+'girls,': TKPWEURLS/KW-BG
 'came': KAEUPL
 'rowing': ROE/-G
-'up.': UP TP-PL
-'"Look,': KR-GS KPA/HRAOBG KW-BG
+'up.': UP/TP-PL
+'"Look,': KR-GS/KPA/HRAOBG/KW-BG
 'yonder': KWROPBD/ER
 'is': S
 'an': APB
@@ -2731,14 +2731,14 @@ The Beetle Who Went on His Travels
 'wooden': WAOD/EPB
 'shoe': SHAOU
 'sailing': SAEULG
-'along,"': HRAOPBG KW-BG KR-GS
+'along,"': HRAOPBG/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
 'younger': KWRURPBG
-'girls.': TKPWEURLS TP-PL
-'"And': KR-GS AFPBD
+'girls.': TKPWEURLS/TP-PL
+'"And': KR-GS/AFPBD
 'there's': THR-S
 'a': AEU
 'poor': PAOR
@@ -2747,9 +2747,9 @@ The Beetle Who Went on His Travels
 'bound': PWOUPBD
 'fast': TPAFT
 'in': TPH
-'it,"': T KW-BG KR-GS
+'it,"': T/KW-BG/KR-GS
 'said': SED
-'another.': TPHOER TP-PL
+'another.': TPHOER/TP-PL
 'The': KPA/-T
 'boat': PWOET
 'now': TPHOU
@@ -2757,8 +2757,8 @@ The Beetle Who Went on His Travels
 'close': KHROES
 'to': TO
 'our': OUR
-'beetle's': PWAO*ELT AES
-'ship,': SHEUP KW-BG
+'beetle's': PWAO*ELT/AES
+'ship,': SHEUP/KW-BG
 'and': SKP
 'the': -T
 'young': KWRUPBG
@@ -2768,7 +2768,7 @@ The Beetle Who Went on His Travels
 'out': OUT
 'of': -F
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'One': KPA/WUPB
 'of': -F
 'them': THEPL
@@ -2780,7 +2780,7 @@ The Beetle Who Went on His Travels
 'scissors': SEUS/ORS
 'from': TPR
 'her': HER
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'cut': KUT
 'the': -T
@@ -2788,7 +2788,7 @@ The Beetle Who Went on His Travels
 'without': WOUT
 'hurting': HURGT
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -2800,17 +2800,17 @@ The Beetle Who Went on His Travels
 'him': HEUPL
 'on': OPB
 'the': -T
-'grass.': TKPWRAS TP-PL
-'"There,"': KR-GS KPA/THR KW-BG KR-GS
+'grass.': TKPWRAS/TP-PL
+'"There,"': KR-GS/KPA/THR/KW-BG/KR-GS
 'she': SHE
-'said,': SED KW-BG
-'"creep': KR-GS KRAOEP
-'away,': WA*EU KW-BG
+'said,': SED/KW-BG
+'"creep': KR-GS/KRAOEP
+'away,': WA*EU/KW-BG
 'or': OR
-'fly,': TPHRAOEU KW-BG
+'fly,': TPHRAOEU/KW-BG
 'if': TP
 'thou': THO*U
-'canst.': K*/A*/TPH*/S*/T* TP-PL
+'canst.': K*/A*/TPH*/S*/T*/TP-PL
 'It': KPA/T
 'is': S
 'a': AEU
@@ -2819,11 +2819,11 @@ The Beetle Who Went on His Travels
 'to': TO
 'have': SR
 'thy': THAO*EU
-'liberty."': HREURBT TP-PL KR-GS
+'liberty."': HREURBT/TP-PL/KR-GS
 'Away': KPA/WA*EU
 'flew': TPHRAOU
 'the': -T
-'beetle,': PWAO*ELT KW-BG
+'beetle,': PWAO*ELT/KW-BG
 'straight': STRAEUT
 'through': THRU
 'the': -T
@@ -2832,29 +2832,29 @@ The Beetle Who Went on His Travels
 'of': -F
 'a': AEU
 'large': HRARPBLG
-'building;': PW-LG STPH*FPLT
+'building;': PW-LG/STPH*FPLT
 'there': THR
 'he': HE
 'sank': SA*PBG
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'tired': TAOEURD
 'and': SKP
-'exhausted,': KPAUFTD KW-BG
+'exhausted,': KPAUFTD/KW-BG
 'exactly': ELG
 'on': OPB
 'the': -T
 'mane': PH*/A*/TPH*/*E
 'of': -F
 'the': -T
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'favorite': TPAEUFRT
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'who': WHO
 'was': WAS
 'standing': STAPBG
 'in': TPH
 'his': HEUS
-'stable;': STABL STPH*FPLT
+'stable;': STABL/STPH*FPLT
 'and': SKP
 'the': -T
 'beetle': PWAO*ELT
@@ -2862,7 +2862,7 @@ The Beetle Who Went on His Travels
 'himself': HEUPLS
 'at': AT
 'home': HOEPL
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'For': KPA/TPOR
 'some': SOPL
 'time': TAOEUPL
@@ -2870,24 +2870,24 @@ The Beetle Who Went on His Travels
 'clung': KHRUPBG
 'to': TO
 'the': -T
-'mane,': PH*/A*/TPH*/*E KW-BG
+'mane,': PH*/A*/TPH*/*E/KW-BG
 'that': THA
 'he': HE
 'might': PHAOEUT
 'recover': ROFR
-'himself.': HEUPLS TP-PL
-'"Well,"': KR-GS KPA/WEL KW-BG KR-GS
+'himself.': HEUPLS/TP-PL
+'"Well,"': KR-GS/KPA/WEL/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"here': KR-GS HAOER
+'said,': SED/KW-BG
+'"here': KR-GS/HAOER
 'I': EU
-'am,': APL KW-BG
+'am,': APL/KW-BG
 'seated': SAOETD
 'on': OPB
 'the': -T
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'favorite': TPAEUFRT
-'horse,—sitting': HORS KW-BG EPL/TKA*RB SEUGT
+'horse,—sitting': HORS/KW-BG/EPL/TKA*RB/SEUGT
 'upon': POPB
 'him': HEUPL
 'as': AS
@@ -2896,7 +2896,7 @@ The Beetle Who Went on His Travels
 'were': WR
 'the': -T
 'emperor': EPL/ROR
-'himself.': HEUPLS TP-PL
+'himself.': HEUPLS/TP-PL
 'But': KPA/PWUT
 'what': WHA
 'was': WAS
@@ -2904,14 +2904,14 @@ The Beetle Who Went on His Travels
 'the': -T
 'farrier': xxx farrier
 'asked': SK-D
-'me?': PHE H-F
-'Ah,': KPA/HA*E KW-BG
+'me?': PHE/H-F
+'Ah,': KPA/HA*E/KW-BG
 'I': EU
 'remember': RER
-'now,—that's': TPHOU KW-BG EPL/TKA*RB THA AES
+'now,—that's': TPHOU/KW-BG/EPL/TKA*RB/THA/AES
 'a': AEU
 'good': TKPWAOD
-'thought,—he': THAUT KW-BG EPL/TKA*RB HE
+'thought,—he': THAUT/KW-BG/EPL/TKA*RB/HE
 'asked': SK-D
 'me': PHE
 'why': KWR
@@ -2922,15 +2922,15 @@ The Beetle Who Went on His Travels
 'given': TKPWEUFPB
 'to': TO
 'the': -T
-'horse.': HORS TP-PL
+'horse.': HORS/TP-PL
 'The': KPA/-T
 'answer': AEPBS
 'is': S
 'quite': KWAOEUT
 'clear': KHRAOER
 'to': TO
-'me,': PHE KW-BG
-'now.': TPHOU TP-PL
+'me,': PHE/KW-BG
+'now.': TPHOU/TP-PL
 'They': KPA/THE
 'were': WR
 'given': TKPWEUFPB
@@ -2939,7 +2939,7 @@ The Beetle Who Went on His Travels
 'horse': HORS
 'on': OPB
 'my': PHEU
-'account."': K-T TP-PL KR-GS
+'account."': K-T/TP-PL/KR-GS
 'And': AFPBD
 'this': TH
 'reflection': RE/TPHR*EBGS
@@ -2949,44 +2949,44 @@ The Beetle Who Went on His Travels
 'into': TPHAO
 'a': AEU
 'good': TKPWAOD
-'temper.': TEPL/PER TP-PL
+'temper.': TEPL/PER/TP-PL
 'The': KPA/-T
-'sun's': SUPB AES
+'sun's': SUPB/AES
 'rays': RA*ES
 'also': HR-S
 'came': KAEUPL
 'streaming': STRAOEPL/-G
 'into': TPHAO
 'the': -T
-'stable,': STABL KW-BG
+'stable,': STABL/KW-BG
 'and': SKP
 'shone': SHO*EPB
 'upon': POPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'made': PHAED
 'the': -T
 'place': PHRAEUS
 'lively': HRAOEUFL
 'and': SKP
-'bright.': PWRAOEUT TP-PL
-'"Travelling': KR-GS KPA/TRAFL/HREUPBG
+'bright.': PWRAOEUT/TP-PL
+'"Travelling': KR-GS/KPA/TRAFL/HREUPBG
 'expands': EBGS/PAPBDZ
 'the': -T
 'mind': PHAOEUPBD
 'very': SRE
-'much,"': PHUFP KW-BG KR-GS
+'much,"': PHUFP/KW-BG/KR-GS
 'said': SED
 'the': -T
-'beetle.': PWAO*ELT TP-PL
-'"The': KR-GS KPA/-T
+'beetle.': PWAO*ELT/TP-PL
+'"The': KR-GS/KPA/-T
 'world': WORLD
 'is': S
 'not': TPHOT
 'so': SO
 'bad': PWAD
 'after': AF
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'if': TP
 'you': U
 'know': TPHOE
@@ -2996,4 +2996,4 @@ The Beetle Who Went on His Travels
 'things': THEUPBGS
 'as': AS
 'they': THE
-'come."': KOPL TP-PL KR-GS
+'come."': KOPL/TP-PL/KR-GS

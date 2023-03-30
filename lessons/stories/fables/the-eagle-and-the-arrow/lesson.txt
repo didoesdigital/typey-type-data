@@ -15,27 +15,27 @@ The Eagle and the Arrow
 'whizz': WEUZ/A*U
 'of': -F
 'an': APB
-'Arrow,': KPA/RO*EUR KW-BG
+'Arrow,': KPA/RO*EUR/KW-BG
 'and': SKP
 'felt': TPELT
 'itself': T/SEFL
 'wounded': WOUPBD/-D
 'to': TO
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'Slowly': KPA/SHROEL
 'it': T
 'fluttered': TPHRUT/ERD
 'down': TKOUPB
 'to': TO
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'with': W
 'its': EUTS
-'life-blood': HRAOEUF H-PB PWHRAOD
+'life-blood': HRAOEUF/H-PB/PWHRAOD
 'pouring': PORG
 'out': OUT
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'Looking': KPA/HRAOG
 'down': TKOUPB
 'upon': POPB
@@ -46,7 +46,7 @@ The Eagle and the Arrow
 'it': T
 'had': H
 'been': PW-PB
-'pierced,': PAOERS/-D KW-BG
+'pierced,': PAOERS/-D/KW-BG
 'it': T
 'found': TPOUPBD
 'that': THA
@@ -63,14 +63,14 @@ The Eagle and the Arrow
 'of': -F
 'its': EUTS
 'own': OEPB
-'plumes.': PHRAOUPL/-S TP-PL
-'"Alas!"': KR-GS KPA/A/HRAS SKHRAPL KR-GS
+'plumes.': PHRAOUPL/-S/TP-PL
+'"Alas!"': KR-GS/KPA/A/HRAS/SKHRAPL/KR-GS
 'it': T
-'cried,': KRAOEUD KW-BG
+'cried,': KRAOEUD/KW-BG
 'as': AS
 'it': T
-'died,': TKAOEUD KW-BG
-'"We': KR-GS KPA/WE
+'died,': TKAOEUD/KW-BG
+'"We': KR-GS/KPA/WE
 'often': OFPB
 'give': TKPWEUF
 'our': OUR
@@ -80,4 +80,4 @@ The Eagle and the Arrow
 'for': TPOR
 'our': OUR
 'own': OEPB
-'destruction."': STKRUBGS TP-PL KR-GS
+'destruction."': STKRUBGS/TP-PL/KR-GS

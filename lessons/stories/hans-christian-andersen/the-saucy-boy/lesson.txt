@@ -8,22 +8,22 @@ The Saucy Boy
 'was': WAS
 'an': APB
 'old': OLD
-'poet,': POET KW-BG
+'poet,': POET/KW-BG
 'one': WUPB
 'of': -F
 'those': THOZ
 'right': RAOEUT
 'good': TKPWAOD
 'old': OLD
-'poets.': POETS TP-PL
+'poets.': POETS/TP-PL
 'One': KPA/WUPB
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'as': AS
 'he': HE
 'was': WAS
 'sitting': SEUGT
 'at': AT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'there': THR
 'was': WAS
 'a': AEU
@@ -31,12 +31,12 @@ The Saucy Boy
 'storm': STORPL
 'going': TKPW-G
 'on': OPB
-'outside;': OUDZ STPH*FPLT
+'outside;': OUDZ/STPH*FPLT
 'the': -T
 'rain': RAEUPB
 'was': WAS
 'pouring': PORG
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'but': PWUT
 'the': -T
 'old': OLD
@@ -45,7 +45,7 @@ The Saucy Boy
 'comfortably': KAEBL
 'in': TPH
 'his': HEUS
-'chimney-corner,': KHEUPL/TPHEU H-PB KRORPB KW-BG
+'chimney-corner,': KHEUPL/TPHEU/H-PB/KRORPB/KW-BG
 'where': W-R
 'the': -T
 'fire': TPAOEUR
@@ -55,8 +55,8 @@ The Saucy Boy
 'the': -T
 'apples': APLS
 'were': WR
-'roasting.': ROEFT/-G TP-PL
-'"There': KR-GS KPA/THR
+'roasting.': ROEFT/-G/TP-PL
+'"There': KR-GS/KPA/THR
 'will': HR
 'not': TPHOT
 'be': -B
@@ -73,25 +73,25 @@ The Saucy Boy
 'out': OUT
 'in': TPH
 'this': TH
-'weather,"': WHR* KW-BG KR-GS
+'weather,"': WHR*/KW-BG/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'said.': SED/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'open': OEP
 'the': -T
-'door!': TKAOR SKHRAPL
+'door!': TKAOR/SKHRAPL
 'I': EU
 'am': APL
 'so': SO
 'cold': KOELD
 'and': SKP
 'wet': WET
-'through,"': THRU KW-BG KR-GS
+'through,"': THRU/KW-BG/KR-GS
 'called': KAULD
 'a': AEU
 'little': HREUL
 'child': KHAOEULD
-'outside.': OUDZ TP-PL
+'outside.': OUDZ/TP-PL
 'It': KPA/T
 'was': WAS
 'crying': KRAOEUG
@@ -99,7 +99,7 @@ The Saucy Boy
 'knocking': TPHOBG/-G
 'at': AT
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'whilst': WHAOEULS
 'the': -T
 'rain': RAEUPB
@@ -113,28 +113,28 @@ The Saucy Boy
 'rattling': RA*LGT
 'all': AUL
 'the': -T
-'windows.': WOEUPBDZ TP-PL
-'"Poor': KR-GS KPA/PAOR
-'creature!"': KRAOEFP SKHRAPL KR-GS
+'windows.': WOEUPBDZ/TP-PL
+'"Poor': KR-GS/KPA/PAOR
+'creature!"': KRAOEFP/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'poet,': POET KW-BG
+'poet,': POET/KW-BG
 'and': SKP
 'got': TKPWOT
 'up': UP
 'and': SKP
 'opened': OEPD
 'the': -T
-'door.': TKAOR TP-PL
+'door.': TKAOR/TP-PL
 'Before': KPA/PW-FR
 'him': HEUPL
 'stood': STAOD
 'a': AEU
 'little': HREUL
-'boy;': PWOEU STPH*FPLT
+'boy;': PWOEU/STPH*FPLT
 'he': HE
 'was': WAS
-'naked,': TPHAEUBGD KW-BG
+'naked,': TPHAEUBGD/KW-BG
 'and': SKP
 'the': -T
 'water': WAUR
@@ -143,19 +143,19 @@ The Saucy Boy
 'his': HEUS
 'long': HROPBG
 'fair': TPAEUR
-'locks.': HROBGZ TP-PL
+'locks.': HROBGZ/TP-PL
 'He': KPA/HE
 'was': WAS
 'shivering': SH*EUFR/-G
 'with': W
-'cold;': KOELD STPH*FPLT
+'cold;': KOELD/STPH*FPLT
 'if': TP
 'he': HE
 'had': H
 'not': TPHOT
 'been': PW-PB
 'let': HRET
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'he': HE
 'would': WO
 'certainly': SERPBL
@@ -163,27 +163,27 @@ The Saucy Boy
 'perished': PER/EURB/-D
 'in': TPH
 'the': -T
-'storm.': STORPL TP-PL
-'"Poor': KR-GS KPA/PAOR
+'storm.': STORPL/TP-PL
+'"Poor': KR-GS/KPA/PAOR
 'little': HREUL
-'thing!"': THEUPBG SKHRAPL KR-GS
+'thing!"': THEUPBG/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'poet,': POET KW-BG
+'poet,': POET/KW-BG
 'and': SKP
 'took': TAOBG
 'him': HEUPL
 'by': PWEU
 'the': -T
-'hand.': HAPBD TP-PL
-'"Come': KR-GS KPA/KOPL
+'hand.': HAPBD/TP-PL
+'"Come': KR-GS/KPA/KOPL
 'to': TO
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'I': EU
 'will': HR
 'soon': SAOPB
 'warm': WARPL
-'you.': U TP-PL
+'you.': U/TP-PL
 'You': KPA/U
 'shall': SHAL
 'have': SR
@@ -191,25 +191,25 @@ The Saucy Boy
 'wine': WAOEUPB
 'and': SKP
 'an': APB
-'apple,': A*EPL KW-BG
+'apple,': A*EPL/KW-BG
 'for': TPOR
 'you': U
 'are': R
 'such': SUFP
 'a': AEU
 'pretty': PREUT
-'boy."': PWOEU TP-PL KR-GS
+'boy."': PWOEU/TP-PL/KR-GS
 'And': AFPBD
 'he': HE
-'was,': WAS KW-BG
-'too.': TAO TP-PL
+'was,': WAS/KW-BG
+'too.': TAO/TP-PL
 'His': KPA/HEUS
 'eyes': AO*EUS
 'sparkled': SPAR/K-LD
 'like': HRAOEUBG
 'two': TWO
 'bright': PWRAOEUT
-'stars,': STARS KW-BG
+'stars,': STARS/KW-BG
 'and': SKP
 'although': HR*T
 'the': -T
@@ -219,27 +219,27 @@ The Saucy Boy
 'from': TPR
 'his': HEUS
 'fair': TPAEUR
-'locks,': HROBGZ KW-BG
+'locks,': HROBGZ/KW-BG
 'they': THE
 'still': STEUL
 'curled': KURLD
 'quite': KWAOEUT
-'beautifully.': PWAOUFL/HREU TP-PL
+'beautifully.': PWAOUFL/HREU/TP-PL
 'He': KPA/HE
 'looked': HRAOBGD
 'like': HRAOEUBG
 'a': AEU
 'little': HREUL
-'angel,': APB/SKWREL KW-BG
+'angel,': APB/SKWREL/KW-BG
 'but': PWUT
 'was': WAS
 'pale': PAEL
 'with': W
-'cold,': KOELD KW-BG
+'cold,': KOELD/KW-BG
 'and': SKP
 'trembling': TREPL/-BLG
 'all': AUL
-'over.': OEFR TP-PL
+'over.': OEFR/TP-PL
 'In': KPA/TPH
 'his': HEUS
 'hand': HAPBD
@@ -247,7 +247,7 @@ The Saucy Boy
 'held': HELD
 'a': AEU
 'splendid': SPHREPB/TKEUD
-'bow,': PWOE KW-BG
+'bow,': PWOE/KW-BG
 'but': PWUT
 'it': T
 'had': H
@@ -256,7 +256,7 @@ The Saucy Boy
 'spoilt': S*/P*/O*/*EU/HR*/T*
 'by': PWEU
 'the': -T
-'rain,': RAEUPB KW-BG
+'rain,': RAEUPB/KW-BG
 'and': SKP
 'the': -T
 'colours': KHRORS/A*U
@@ -271,7 +271,7 @@ The Saucy Boy
 'another': TPHOER
 'by': PWEU
 'getting': TKPWEGT
-'wet.': WET TP-PL
+'wet.': WET/TP-PL
 'The': KPA/-T
 'old': OLD
 'man': PHAPB
@@ -279,7 +279,7 @@ The Saucy Boy
 'down': TKOUPB
 'by': PWEU
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'taking': TAEUG
 'the': -T
@@ -287,7 +287,7 @@ The Saucy Boy
 'boy': PWOEU
 'on': OPB
 'his': HEUS
-'knee,': TPHAOE KW-BG
+'knee,': TPHAOE/KW-BG
 'wrung': WRUPBG
 'the': -T
 'water': WAUR
@@ -301,7 +301,7 @@ The Saucy Boy
 'hands': HAPBDZ
 'in': TPH
 'his': HEUS
-'own.': OEPB TP-PL
+'own.': OEPB/TP-PL
 'He': KPA/HE
 'then': THEPB
 'made': PHAED
@@ -309,16 +309,16 @@ The Saucy Boy
 'some': SOPL
 'hot': HOT
 'spiced': SPAOEUS/-D
-'wine,': WAOEUPB KW-BG
+'wine,': WAOEUPB/KW-BG
 'which': WEU
 'quickly': KWEULG
 'revived': RE/SRAOEUFD
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'so': SO
 'that': THA
 'with': W
 'reddening': RED/-PBG
-'cheeks,': KHAOEBGS KW-BG
+'cheeks,': KHAOEBGS/KW-BG
 'he': HE
 'sprang': SPRAPBG
 'upon': POPB
@@ -329,74 +329,74 @@ The Saucy Boy
 'around': ARPBD
 'the': -T
 'old': OLD
-'man.': PHAPB TP-PL
-'"You': KR-GS KPA/U
+'man.': PHAPB/TP-PL
+'"You': KR-GS/KPA/U
 'are': R
 'a': AEU
 'merry': PHER/REU
-'boy,"': PWOEU KW-BG KR-GS
+'boy,"': PWOEU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'latter.': HRART TP-PL
-'"What': KR-GS KPA/WHA
+'latter.': HRART/TP-PL
+'"What': KR-GS/KPA/WHA
 'is': S
 'your': KWROUR
-'name?"': TPHAEUPL H-F KR-GS
-'"My': KR-GS KPA/PHEU
+'name?"': TPHAEUPL/H-F/KR-GS
+'"My': KR-GS/KPA/PHEU
 'name': TPHAEUPL
 'is': S
-'Cupid,"': KPA/KAOUPD KW-BG KR-GS
+'Cupid,"': KPA/KAOUPD/KW-BG/KR-GS
 'he': HE
-'answered.': AEPBS/-D TP-PL
-'"Don't': KR-GS TKO*PB AE T*
+'answered.': AEPBS/-D/TP-PL
+'"Don't': KR-GS/TKO*PB/AE/T*
 'you': U
 'know': TPHOE
-'me?': PHE H-F
+'me?': PHE/H-F
 'There': KPA/THR
 'lies': HRAO*EUS
 'my': PHEU
-'bow.': PWOE TP-PL
+'bow.': PWOE/TP-PL
 'I': EU
 'shoot': SHAOT
 'with': W
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'you': U
 'know.': TPHOEFPLT
-'Look,': KPA/HRAOBG KW-BG
+'Look,': KPA/HRAOBG/KW-BG
 'the': -T
 'weather': WHR*
 'is': S
 'getting': TKPWEGT
 'fine': TPAOEUPB
-'again—the': TKPWEPB EPL/TKA*RB -T
+'again—the': TKPWEPB/EPL/TKA*RB/-T
 'moon': PHAOPB
 'is': S
-'shining."': SHAOEUPBG TP-PL KR-GS
-'"But': KR-GS KPA/PWUT
+'shining."': SHAOEUPBG/TP-PL/KR-GS
+'"But': KR-GS/KPA/PWUT
 'your': KWROUR
 'bow': PWOE
 'is': S
-'spoilt,"': S*/P*/O*/*EU/HR*/T* KW-BG KR-GS
+'spoilt,"': S*/P*/O*/*EU/HR*/T*/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
-'poet.': POET TP-PL
-'"That': KR-GS KPA/THA
+'poet.': POET/TP-PL
+'"That': KR-GS/KPA/THA
 'would': WO
 'be': -B
-'unfortunate,"': TPHORPBT KW-BG KR-GS
+'unfortunate,"': TPHORPBT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'taking': TAEUG
 'it': T
 'up': UP
 'and': SKP
 'looking': HRAOG
 'at': AT
-'it.': T TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'it.': T/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'it's': T-S
 'quite': KWAOEUT
 'dry': TKRAOEU
@@ -404,24 +404,24 @@ The Saucy Boy
 'isn't': S-PBT
 'damaged': TKAPBLGD
 'at': AT
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'The': KPA/-T
 'string': STREUPBG
 'is': S
 'quite': KWAOEUT
-'tight;': TAOEUT STPH*FPLT
+'tight;': TAOEUT/STPH*FPLT
 'I'll': AOEUL
 'try': TREU
-'it."': T TP-PL KR-GS
-'So,': KPA/SO KW-BG
+'it."': T/TP-PL/KR-GS
+'So,': KPA/SO/KW-BG
 'drawing': TKRAUG
 'it': T
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'he': HE
 'took': TAOBG
 'an': APB
-'arrow,': RO*EUR KW-BG
-'aimed,': AEUPLD KW-BG
+'arrow,': RO*EUR/KW-BG
+'aimed,': AEUPLD/KW-BG
 'and': SKP
 'shot': SHOT
 'the': -T
@@ -431,8 +431,8 @@ The Saucy Boy
 'right': RAOEUT
 'in': TPH
 'the': -T
-'heart.': HART TP-PL
-'"Do': KR-GS KPA/TKO
+'heart.': HART/TP-PL
+'"Do': KR-GS/KPA/TKO
 'you': U
 'see': SAOE
 'now': TPHOU
@@ -441,14 +441,14 @@ The Saucy Boy
 'bow': PWOE
 'was': WAS
 'not': TPHOT
-'spoilt?"': S*/P*/O*/*EU/HR*/T* H-F KR-GS
+'spoilt?"': S*/P*/O*/*EU/HR*/T*/H-F/KR-GS
 'he': HE
-'said,': SED KW-BG
-'and,': SKP KW-BG
+'said,': SED/KW-BG
+'and,': SKP/KW-BG
 'loudly': HROUD/HREU
-'laughing,': HRAFG KW-BG
+'laughing,': HRAFG/KW-BG
 'ran': RAPB
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'What': KPA/WHA
 'a': AEU
 'naughty': TPHAU/TEU
@@ -459,7 +459,7 @@ The Saucy Boy
 'old': OLD
 'poet': POET
 'like': HRAOEUBG
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'who': WHO
 'had': H
 'taken': TAEPB
@@ -467,13 +467,13 @@ The Saucy Boy
 'into': TPHAO
 'his': HEUS
 'warm': WARPL
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'had': H
 'been': PW-PB
 'so': SO
 'good': TKPWAOD
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'had': H
 'given': TKPWEUFPB
@@ -484,7 +484,7 @@ The Saucy Boy
 'and': SKP
 'the': -T
 'best': PWEFT
-'apple!': A*EPL SKHRAPL
+'apple!': A*EPL/SKHRAPL
 'The': KPA/-T
 'good': TKPWAOD
 'old': OLD
@@ -493,24 +493,24 @@ The Saucy Boy
 'upon': POPB
 'the': -T
 'floor': TPHRAOR
-'crying;': KRAOEUG STPH*FPLT
+'crying;': KRAOEUG/STPH*FPLT
 'he': HE
 'was': WAS
 'really': R-L
 'shot': SHOT
 'in': TPH
 'the': -T
-'heart.': HART TP-PL
-'"Oh!"': KR-GS KPA/O*ERBGS SKHRAPL KR-GS
+'heart.': HART/TP-PL
+'"Oh!"': KR-GS/KPA/O*ERBGS/SKHRAPL/KR-GS
 'he': HE
-'cried,': KRAOEUD KW-BG
-'"what': KR-GS WHA
+'cried,': KRAOEUD/KW-BG
+'"what': KR-GS/WHA
 'a': AEU
 'naughty': TPHAU/TEU
 'boy': PWOEU
 'this': TH
 'Cupid': KPA/KAOUPD
-'is!': S SKHRAPL
+'is!': S/SKHRAPL
 'I': EU
 'shall': SHAL
 'tell': TEL
@@ -519,7 +519,7 @@ The Saucy Boy
 'good': TKPWAOD
 'children': KHEURPB
 'about': PW
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'so': SO
 'that': THA
 'they': THE
@@ -529,50 +529,50 @@ The Saucy Boy
 'to': TO
 'play': PHRAEU
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'lest': HR*ES
 'he': HE
 'hurt': HURT
-'them."': THEPL TP-PL KR-GS
+'them."': THEPL/TP-PL/KR-GS
 'And': AFPBD
 'all': AUL
 'good': TKPWAOD
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'both': PWO*T
 'girls': TKPWEURLS
 'and': SKP
-'boys,': PWOEUS KW-BG
+'boys,': PWOEUS/KW-BG
 'whom': WHOPL
 'he': HE
 'told': TOLD
 'about': PW
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'were': WR
 'on': OPB
 'their': THAEUR
 'guard': TKPWARD
 'against': TKPWEPBS
 'wicked': WEUBGD
-'Cupid;': KPA/KAOUPD STPH*FPLT
+'Cupid;': KPA/KAOUPD/STPH*FPLT
 'but': PWUT
 'he': HE
 'deceives': TKAOE/SAOEFS
 'them': THEPL
 'all': AUL
 'the': -T
-'same,': SAEUPL KW-BG
+'same,': SAEUPL/KW-BG
 'for': TPOR
 'he': HE
 'is': S
 'very': SRE
-'deep.': TKAOEP TP-PL
+'deep.': TKAOEP/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'students': STAOUPBDZ
 'come': KOPL
 'out': OUT
 'of': -F
-'class,': KHRAS KW-BG
+'class,': KHRAS/KW-BG
 'he': HE
 'walks': WAUBGS
 'beside': PWE/SAOEUD
@@ -582,39 +582,39 @@ The Saucy Boy
 'book': PWAOBG
 'under': TPH-PB
 'his': HEUS
-'arm,': ARPL KW-BG
+'arm,': ARPL/KW-BG
 'and': SKP
 'wearing': WAERG
 'a': AEU
 'black': PWHRABG
-'coat.': KOET TP-PL
+'coat.': KOET/TP-PL
 'They': KPA/THE
 'cannot': SK-PBT
 'recognise': REZ/A*U
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'And': AFPBD
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'if': TP
 'they': THE
 'take': TAEUBG
 'him': HEUPL
 'by': PWEU
 'the': -T
-'arm,': ARPL KW-BG
+'arm,': ARPL/KW-BG
 'believing': PWHREFG
 'him': HEUPL
 'to': TO
 'be': -B
 'a': AEU
 'student': STAUPB
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'he': HE
 'sticks': STEUBGS
 'an': APB
 'arrow': RO*EUR
 'into': TPHAO
 'their': THAEUR
-'chest.': KHEFT TP-PL
+'chest.': KHEFT/TP-PL
 'And': AFPBD
 'when': WHEPB
 'the': -T
@@ -624,19 +624,19 @@ The Saucy Boy
 'church': KHUFRPB
 'to': TO
 'be': -B
-'confirmed,': K-FRPL/-D KW-BG
+'confirmed,': K-FRPL/-D/KW-BG
 'he': HE
 'is': S
 'amongst': PHOPBGS
 'them': THEPL
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'In': KPA/TPH
-'fact,': TPABGT KW-BG
+'fact,': TPABGT/KW-BG
 'he': HE
 'is': S
 'always': AULS
 'after': AF
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'He': KPA/HE
 'sits': SEUTS
 'in': TPH
@@ -648,7 +648,7 @@ The Saucy Boy
 'theatre': THAO*ERT
 'and': SKP
 'blazes': PWHRAEUZ/-Z
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'so': SO
 'that': THA
 'people': PAOEPL
@@ -656,14 +656,14 @@ The Saucy Boy
 'it': T
 'is': S
 'a': AEU
-'lamp;': HRAFRP STPH*FPLT
+'lamp;': HRAFRP/STPH*FPLT
 'but': PWUT
 'they': THE
 'soon': SAOPB
 'find': TPAOEUPBD
 'out': OUT
 'their': THAEUR
-'mistake.': SPHAEUBG TP-PL
+'mistake.': SPHAEUBG/TP-PL
 'He': KPA/HE
 'walks': WAUBGS
 'about': PW
@@ -674,8 +674,8 @@ The Saucy Boy
 'and': SKP
 'on': OPB
 'the': -T
-'promenades.': PROPL/TPHAUDZ TP-PL
-'Yes,': KPA/KWRE KW-BG
+'promenades.': PROPL/TPHAUDZ/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'once': WUPBS
 'he': HE
 'shot': SHOT
@@ -687,25 +687,25 @@ The Saucy Boy
 'in': TPH
 'the': -T
 'heart': HART
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'Just': KPA/SKWRUFT
 'ask': SK
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'you': U
 'will': HR
 'hear': HAER
 'what': WHA
 'they': THE
-'say.': SAEU TP-PL
-'Oh!': KPA/O*ERBGS SKHRAPL
+'say.': SAEU/TP-PL
+'Oh!': KPA/O*ERBGS/SKHRAPL
 'he': HE
 'is': S
 'a': AEU
 'bad': PWAD
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'this': TH
-'Cupid,': KPA/KAOUPD KW-BG
+'Cupid,': KPA/KAOUPD/KW-BG
 'and': SKP
 'you': U
 'must': PHUFT
@@ -715,15 +715,15 @@ The Saucy Boy
 'to': TO
 'do': TKO
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'for': TPOR
 'he': HE
 'is': S
 'after': AF
 'every': EF
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'Just': KPA/SKWRUFT
-'think,': THEU KW-BG
+'think,': THEU/KW-BG
 'he': HE
 'even': AOEPB
 'shot': SHOT
@@ -731,26 +731,26 @@ The Saucy Boy
 'arrow': RO*EUR
 'at': AT
 'old': OLD
-'grandmother;': TKPWR-PL STPH*FPLT
+'grandmother;': TKPWR-PL/STPH*FPLT
 'but': PWUT
 'that': THA
 'was': WAS
 'a': AEU
 'long': HROPBG
 'time': TAOEUPL
-'ago.': AG TP-PL
+'ago.': AG/TP-PL
 'The': KPA/-T
 'wound': WOUPBD
 'has': HAS
 'long': HROPBG
 'been': PW-PB
-'healed,': HAELD KW-BG
+'healed,': HAELD/KW-BG
 'but': PWUT
 'such': SUFP
 'things': THEUPBGS
 'are': R
 'never': TPHEFR
-'forgotten.': TPAURGTD TP-PL
+'forgotten.': TPAURGTD/TP-PL
 'Now': KPA/TPHOU
 'you': U
 'know': TPHOE
@@ -761,4 +761,4 @@ The Saucy Boy
 'this': TH
 'wicked': WEUBGD
 'Cupid': KPA/KAOUPD
-'is.': S TP-PL
+'is.': S/TP-PL

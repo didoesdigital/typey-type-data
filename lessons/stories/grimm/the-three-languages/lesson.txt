@@ -6,28 +6,28 @@ The Three Languages
 'once': WUPBS
 'lived': HREUFD
 'in': TPH
-'Switzerland,': SWEUZ/HRAPBD KW-BG
+'Switzerland,': SWEUZ/HRAPBD/KW-BG
 'who': WHO
 'had': H
 'an': APB
 'only': OEPBL
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'but': PWUT
 'he': HE
 'was': WAS
-'stupid,': STAOUPD KW-BG
+'stupid,': STAOUPD/KW-BG
 'and': SKP
 'could': KO
 'learn': HRERPB
-'nothing.': TPHOG TP-PL
+'nothing.': TPHOG/TP-PL
 'Then': KPA/THEPB
 'said': SED
 'the': -T
-'father:': TPAER STPH-FPLT
-''Hark': AE KPA/HARBG
-'you,': U KW-BG
+'father:': TPAER/STPH-FPLT
+''Hark': AE/KPA/HARBG
+'you,': U/KW-BG
 'my': PHEU
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'try': TREU
 'as': AS
 'I': EU
@@ -38,12 +38,12 @@ The Three Languages
 'nothing': TPHOG
 'into': TPHAO
 'your': KWROUR
-'head.': HED TP-PL
+'head.': HED/TP-PL
 'You': KPA/U
 'must': PHUFT
 'go': TKPW
 'from': TPR
-'hence,': HEPBS KW-BG
+'hence,': HEPBS/KW-BG
 'I': EU
 'will': HR
 'give': TKPWEUF
@@ -54,7 +54,7 @@ The Three Languages
 'of': -F
 'a': AEU
 'celebrated': SEL/PWRAEUT/-D
-'master,': PHAFRT KW-BG
+'master,': PHAFRT/KW-BG
 'who': WHO
 'shall': SHAL
 'see': SAOE
@@ -63,7 +63,7 @@ The Three Languages
 'can': K
 'do': TKO
 'with': W
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'was': WAS
@@ -71,7 +71,7 @@ The Three Languages
 'into': TPHAO
 'a': AEU
 'strange': STRAEUPBG
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'and': SKP
 'remained': RE/PHAEUPBD
 'a': AEU
@@ -79,29 +79,29 @@ The Three Languages
 'year': KWRAOER
 'with': W
 'the': -T
-'master.': PHAFRT TP-PL
+'master.': PHAFRT/TP-PL
 'At': KPA/AT
 'the': -T
 'end': EPBD
 'of': -F
 'this': TH
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'he': HE
 'came': KAEUPL
 'home': HOEPL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'his': HEUS
 'father': TPAER
-'asked:': SK-D STPH-FPLT
-''Now,': AE KPA/TPHOU KW-BG
+'asked:': SK-D/STPH-FPLT
+''Now,': AE/KPA/TPHOU/KW-BG
 'my': PHEU
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'what': WHA
 'have': SR
 'you': U
-'learnt?'': HRERPBT H-F AE
-''Father,': AE KPA/TPAER KW-BG
+'learnt?'': HRERPBT/H-F/AE
+''Father,': AE/KPA/TPAER/KW-BG
 'I': EU
 'have': SR
 'learnt': HRERPBT
@@ -111,36 +111,36 @@ The Three Languages
 'say': SAEU
 'when': WHEPB
 'they': THE
-'bark.'': PWARBG TP-PL AE
-''Lord': AE HRO*RD
+'bark.'': PWARBG/TP-PL/AE
+''Lord': AE/HRO*RD
 'have': SR
 'mercy': PHER/SEU
 'on': OPB
-'us!'': US SKHRAPL AE
+'us!'': US/SKHRAPL/AE
 'cried': KRAOEUD
 'the': -T
-'father;': TPAER STPH*FPLT
-''is': AE S
+'father;': TPAER/STPH*FPLT
+''is': AE/S
 'that': THA
 'all': AUL
 'you': U
 'have': SR
-'learnt?': HRERPBT H-F
+'learnt?': HRERPBT/H-F
 'I': EU
 'will': HR
 'send': SEPBD
 'you': U
 'into': TPHAO
 'another': TPHOER
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'to': TO
 'another': TPHOER
-'master.'': PHAFRT TP-PL AE
+'master.'': PHAFRT/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'was': WAS
 'taken': TAEPB
-'thither,': TH*EURT KW-BG
+'thither,': TH*EURT/KW-BG
 'and': SKP
 'stayed': STAEUD
 'a': AEU
@@ -148,7 +148,7 @@ The Three Languages
 'with': W
 'this': TH
 'master': PHAFRT
-'likewise.': HRAOEUBG/WAOEUS TP-PL
+'likewise.': HRAOEUBG/WAOEUS/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'came': KAEUPL
@@ -156,23 +156,23 @@ The Three Languages
 'the': -T
 'father': TPAER
 'again': TKPWEPB
-'asked:': SK-D STPH-FPLT
-''My': AE KPA/PHEU
-'son,': SOPB KW-BG
+'asked:': SK-D/STPH-FPLT
+''My': AE/KPA/PHEU
+'son,': SOPB/KW-BG
 'what': WHA
 'have': SR
 'you': U
-'learnt?'': HRERPBT H-F AE
+'learnt?'': HRERPBT/H-F/AE
 'He': KPA/HE
-'answered:': AEPBS/-D STPH-FPLT
-''Father,': AE KPA/TPAER KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Father,': AE/KPA/TPAER/KW-BG
 'I': EU
 'have': SR
 'learnt': HRERPBT
 'what': WHA
 'the': -T
 'birds': PWEURDZ
-'say.'': SAEU TP-PL AE
+'say.'': SAEU/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'father': TPAER
@@ -181,11 +181,11 @@ The Three Languages
 'a': AEU
 'rage': RAEUPBLG
 'and': SKP
-'said:': SED STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'said:': SED/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'you': U
 'lost': HRO*S
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'you': U
 'have': SR
 'spent': SPEPBT
@@ -194,7 +194,7 @@ The Three Languages
 'time': TAOEUPL
 'and': SKP
 'learnt': HRERPBT
-'nothing;': TPHOG STPH*FPLT
+'nothing;': TPHOG/STPH*FPLT
 'are': R
 'you': U
 'not': TPHOT
@@ -203,7 +203,7 @@ The Three Languages
 'appear': A/PAOER
 'before': PW-FR
 'my': PHEU
-'eyes?': AO*EUS H-F
+'eyes?': AO*EUS/H-F
 'I': EU
 'will': HR
 'send': SEPBD
@@ -211,7 +211,7 @@ The Three Languages
 'to': TO
 'a': AEU
 'third': THEURD
-'master,': PHAFRT KW-BG
+'master,': PHAFRT/KW-BG
 'but': PWUT
 'if': TP
 'you': U
@@ -219,14 +219,14 @@ The Three Languages
 'nothing': TPHOG
 'this': TH
 'time': TAOEUPL
-'also,': HR-S KW-BG
+'also,': HR-S/KW-BG
 'I': EU
 'will': HR
 'no': TPHO
 'longer': HRORPBG
 'be': -B
 'your': KWROUR
-'father.'': TPAER TP-PL AE
+'father.'': TPAER/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'remained': RE/PHAEUPBD
@@ -237,27 +237,27 @@ The Three Languages
 'the': -T
 'third': THEURD
 'master': PHAFRT
-'also,': HR-S KW-BG
+'also,': HR-S/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
 'came': KAEUPL
 'home': HOEPL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'his': HEUS
 'father': TPAER
-'inquired:': EUPB/KWAOEURD STPH-FPLT
-''My': AE KPA/PHEU
-'son,': SOPB KW-BG
+'inquired:': EUPB/KWAOEURD/STPH-FPLT
+''My': AE/KPA/PHEU
+'son,': SOPB/KW-BG
 'what': WHA
 'have': SR
 'you': U
-'learnt?'': HRERPBT H-F AE
+'learnt?'': HRERPBT/H-F/AE
 'he': HE
-'answered:': AEPBS/-D STPH-FPLT
-''Dear': AE KPA/TKAER
-'father,': TPAER KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Dear': AE/KPA/TKAER
+'father,': TPAER/KW-BG
 'I': EU
 'have': SR
 'this': TH
@@ -266,7 +266,7 @@ The Three Languages
 'what': WHA
 'the': -T
 'frogs': TPROGS
-'croak.'': KROEBG TP-PL AE
+'croak.'': KROEBG/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'father': TPAER
@@ -275,26 +275,26 @@ The Three Languages
 'the': -T
 'most': PHOFT
 'furious': TPAOURS
-'anger,': ARPBG KW-BG
+'anger,': ARPBG/KW-BG
 'sprang': SPRAPBG
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'called': KAULD
 'his': HEUS
 'people': PAOEPL
-'thither,': TH*EURT KW-BG
+'thither,': TH*EURT/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''This': AE KPA/TH
+'said:': SED/STPH-FPLT
+''This': AE/KPA/TH
 'man': PHAPB
 'is': S
 'no': TPHO
 'longer': HRORPBG
 'my': PHEU
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'I': EU
 'drive': TKRAOEUF
 'him': HEUPL
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'and': SKP
 'command': KPHAPBD
 'you': U
@@ -304,28 +304,28 @@ The Three Languages
 'out': OUT
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'kill': KEUL
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'They': KPA/THE
 'took': TAOBG
 'him': HEUPL
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'but': PWUT
 'when': WHEPB
 'they': THE
 'should': SHO
 'have': SR
 'killed': KEULD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'they': THE
 'could': KO
 'not': TPHOT
 'do': TKO
 'it': T
 'for': TPOR
-'pity,': PEUT/TEU KW-BG
+'pity,': PEUT/TEU/KW-BG
 'and': SKP
 'let': HRET
 'him': HEUPL
@@ -352,11 +352,11 @@ The Three Languages
 'man': PHAPB
 'as': AS
 'a': AEU
-'token.': TO*EPB TP-PL
+'token.': TO*EPB/TP-PL
 'The': KPA/-T
 'youth': KWRAO*UT
 'wandered': WAPBD/-D
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'after': AF
 'some': SOPL
@@ -370,16 +370,16 @@ The Three Languages
 'begged': PWEGD
 'for': TPOR
 'a': AEU
-'night's': TPHAOEUT AES
-'lodging.': HROPBLG/-G TP-PL
-''Yes,'': AE KPA/KWRE KW-BG AE
+'night's': TPHAOEUT/AES
+'lodging.': HROPBLG/-G/TP-PL
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'said': SED
 'the': -T
 'lord': HRORD
 'of': -F
 'the': -T
-'castle,': KAFL KW-BG
-''if': AE TP
+'castle,': KAFL/KW-BG
+''if': AE/TP
 'you': U
 'will': HR
 'pass': PAS
@@ -390,13 +390,13 @@ The Three Languages
 'in': TPH
 'the': -T
 'old': OLD
-'tower,': TOUR KW-BG
+'tower,': TOUR/KW-BG
 'go': TKPW
-'thither;': TH*EURT STPH*FPLT
+'thither;': TH*EURT/STPH*FPLT
 'but': PWUT
 'I': EU
 'warn': WARPB
-'you,': U KW-BG
+'you,': U/KW-BG
 'it': T
 'is': S
 'at': AT
@@ -404,20 +404,20 @@ The Three Languages
 'peril': PER/EUL
 'of': -F
 'your': KWROUR
-'life,': HRAOEUF KW-BG
+'life,': HRAOEUF/KW-BG
 'for': TPOR
 'it': T
 'is': S
 'full': TPUL
 'of': -F
 'wild': WAOEULD
-'dogs,': TKOGS KW-BG
+'dogs,': TKOGS/KW-BG
 'which': WEU
 'bark': PWARBG
 'and': SKP
 'howl': HOUL
 'without': WOUT
-'stopping,': STOPG KW-BG
+'stopping,': STOPG/KW-BG
 'and': SKP
 'at': AT
 'certain': SERPB
@@ -429,12 +429,12 @@ The Three Languages
 'be': -B
 'given': TKPWEUFPB
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'whom': WHOPL
 'they': THE
 'at': AT
 'once': WUPBS
-'devour.'': TKE/SROUR TP-PL AE
+'devour.'': TKE/SROUR/TP-PL/AE
 'The': KPA/-T
 'whole': WHOEL
 'district': TR-T
@@ -445,7 +445,7 @@ The Three Languages
 'dismay': TKEUS/PHAEU
 'because': PWAU
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'yet': KWRET
 'no': TPHO
@@ -455,16 +455,16 @@ The Three Languages
 'anything': TPHEUG
 'to': TO
 'stop': STOP
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'The': KPA/-T
-'youth,': KWRAO*UT KW-BG
-'however,': HOUF KW-BG
+'youth,': KWRAO*UT/KW-BG
+'however,': HOUF/KW-BG
 'was': WAS
 'without': WOUT
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'said:': SED/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'let': HRET
 'me': PHE
 'go': TKPW
@@ -472,7 +472,7 @@ The Three Languages
 'to': TO
 'the': -T
 'barking': PWARBG/-G
-'dogs,': TKOGS KW-BG
+'dogs,': TKOGS/KW-BG
 'and': SKP
 'give': TKPWEUF
 'me': PHE
@@ -482,21 +482,21 @@ The Three Languages
 'can': K
 'throw': THROE
 'to': TO
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'they': THE
 'will': HR
 'do': TKO
 'nothing': TPHOG
 'to': TO
 'harm': HARPL
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'As': KPA/AS
 'he': HE
 'himself': HEUPLS
 'would': WO
 'have': SR
 'it': T
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'they': THE
 'gave': TKPWAEUF
 'him': HEUPL
@@ -505,25 +505,25 @@ The Three Languages
 'for': TPOR
 'the': -T
 'wild': WAOEULD
-'animals,': PHAPBLS KW-BG
+'animals,': PHAPBLS/KW-BG
 'and': SKP
 'led': HRED
 'him': HEUPL
 'down': TKOUPB
 'to': TO
 'the': -T
-'tower.': TOUR TP-PL
+'tower.': TOUR/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'went': WEPBT
-'inside,': TPH-DZ KW-BG
+'inside,': TPH-DZ/KW-BG
 'the': -T
 'dogs': TKOGS
 'did': TK
 'not': TPHOT
 'bark': PWARBG
 'at': AT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'wagged': WAG/TK-LS/TKPW/-D
 'their': THAEUR
@@ -531,13 +531,13 @@ The Three Languages
 'quite': KWAOEUT
 'amicably': APL/KA/PWHREU
 'around': ARPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'ate': AEUT
 'what': WHA
 'he': HE
 'set': SET
 'before': PW-FR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
@@ -546,21 +546,21 @@ The Three Languages
 'hair': HAEUR
 'of': -F
 'his': HEUS
-'head.': HED TP-PL
+'head.': HED/TP-PL
 'Next': KPA/TPHEGT
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'to': TO
 'the': -T
 'astonishment': AS/TOPB/SH-PLT
 'of': -F
-'everyone,': EFRPB KW-BG
+'everyone,': EFRPB/KW-BG
 'he': HE
 'came': KAEUPL
 'out': OUT
 'again': TKPWEPB
 'safe': SAEUF
 'and': SKP
-'unharmed,': xxx unharmed KW-BG
+'unharmed,': xxx unharmed/KW-BG
 'and': SKP
 'said': SED
 'to': TO
@@ -568,30 +568,30 @@ The Three Languages
 'lord': HRORD
 'of': -F
 'the': -T
-'castle:': KAFL STPH-FPLT
-''The': AE KPA/-T
+'castle:': KAFL/STPH-FPLT
+''The': AE/KPA/-T
 'dogs': TKOGS
 'have': SR
 'revealed': RE/SRAOELD
 'to': TO
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'in': TPH
 'their': THAEUR
 'own': OEPB
-'language,': HRAPBLG KW-BG
+'language,': HRAPBLG/KW-BG
 'why': KWR
 'they': THE
 'dwell': TKWEL
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'bring': PWREU
 'evil': AOEFL
 'on': OPB
 'the': -T
-'land.': HRAPBD TP-PL
+'land.': HRAPBD/TP-PL
 'They': KPA/THE
 'are': R
-'bewitched,': PWE/WEUFP/-D KW-BG
+'bewitched,': PWE/WEUFP/-D/KW-BG
 'and': SKP
 'are': R
 'obliged': OE/PWHRAOEUPBLGD
@@ -606,7 +606,7 @@ The Three Languages
 'below': PWHRO
 'in': TPH
 'the': -T
-'tower,': TOUR KW-BG
+'tower,': TOUR/KW-BG
 'and': SKP
 'they': THE
 'can': K
@@ -617,27 +617,27 @@ The Three Languages
 'it': T
 'is': S
 'taken': TAEPB
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'I': EU
 'have': SR
 'likewise': HRAOEUBG/WAOEUS
-'learnt,': HRERPBT KW-BG
+'learnt,': HRERPBT/KW-BG
 'from': TPR
 'their': THAEUR
-'discourse,': TKEUS/KORS KW-BG
+'discourse,': TKEUS/KORS/KW-BG
 'how': HOU
 'that': THA
 'is': S
 'to': TO
 'be': -B
-'done.'': TKOPB TP-PL AE
+'done.'': TKOPB/TP-PL/AE
 'Then': KPA/THEPB
 'all': AUL
 'who': WHO
 'heard': HAERD
 'this': TH
-'rejoiced,': RE/SKWROEUS/-D KW-BG
+'rejoiced,': RE/SKWROEUS/-D/KW-BG
 'and': SKP
 'the': -T
 'lord': HRORD
@@ -656,11 +656,11 @@ The Three Languages
 'he': HE
 'accomplished': PHREURBD
 'it': T
-'successfully.': SUBG/SES/TPHREU TP-PL
+'successfully.': SUBG/SES/TPHREU/TP-PL
 'He': KPA/HE
 'went': WEPBT
 'down': TKOUPB
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'as': AS
 'he': HE
@@ -673,7 +673,7 @@ The Three Languages
 'he': HE
 'did': TK
 'it': T
-'thoroughly,': THORL KW-BG
+'thoroughly,': THORL/KW-BG
 'and': SKP
 'brought': PWRAUT
 'a': AEU
@@ -683,7 +683,7 @@ The Three Languages
 'gold': TKPWOELD
 'out': OUT
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'howling': HOUL/-G
 'of': -F
@@ -694,10 +694,10 @@ The Three Languages
 'henceforth': HEPBS/TPO*RT
 'heard': HAERD
 'no': TPHO
-'more;': PHOR STPH*FPLT
+'more;': PHOR/STPH*FPLT
 'they': THE
 'had': H
-'disappeared,': TKEUS/PAOERD KW-BG
+'disappeared,': TKEUS/PAOERD/KW-BG
 'and': SKP
 'the': -T
 'country': KREU
@@ -705,7 +705,7 @@ The Three Languages
 'freed': TPRAOED
 'from': TPR
 'the': -T
-'trouble.': TRUBL TP-PL
+'trouble.': TRUBL/TP-PL
 'After': KPA/AF
 'some': SOPL
 'time': TAOEUPL
@@ -720,7 +720,7 @@ The Three Languages
 'would': WO
 'travel': TRAFL
 'to': TO
-'Rome.': RO*EPL TP-PL
+'Rome.': RO*EPL/TP-PL
 'On': KPA/OPB
 'the': -T
 'way': WAEU
@@ -728,7 +728,7 @@ The Three Languages
 'passed': PAFD
 'by': PWEU
 'a': AEU
-'marsh,': PHA*RB KW-BG
+'marsh,': PHA*RB/KW-BG
 'in': TPH
 'which': WEU
 'a': AEU
@@ -737,11 +737,11 @@ The Three Languages
 'frogs': TPROGS
 'were': WR
 'sitting': SEUGT
-'croaking.': KROEBG/-G TP-PL
+'croaking.': KROEBG/-G/TP-PL
 'He': KPA/HE
 'listened': HREUFPBD
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -751,25 +751,25 @@ The Three Languages
 'what': WHA
 'they': THE
 'were': WR
-'saying,': SAEUG KW-BG
+'saying,': SAEUG/KW-BG
 'he': HE
 'grew': TKPWRAOU
 'very': SRE
 'thoughtful': THAUFL
 'and': SKP
-'sad.': SAD TP-PL
+'sad.': SAD/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE
 'arrived': A/RAOEUFD
 'in': TPH
-'Rome,': RO*EPL KW-BG
+'Rome,': RO*EPL/KW-BG
 'where': W-R
 'the': -T
 'Pope': PO*EP
 'had': H
 'just': SKWRUFT
-'died,': TKAOEUD KW-BG
+'died,': TKAOEUD/KW-BG
 'and': SKP
 'there': THR
 'was': WAS
@@ -786,7 +786,7 @@ The Three Languages
 'appoint': POEUPB
 'as': AS
 'his': HEUS
-'successor.': SUBG/SES/SOR TP-PL
+'successor.': SUBG/SES/SOR/TP-PL
 'They': KPA/THE
 'at': AT
 'length': HREPBG
@@ -808,21 +808,21 @@ The Three Languages
 'divine': TKWAOEUPB
 'and': SKP
 'miraculous': PHRABG/HROUS
-'token.': TO*EPB TP-PL
+'token.': TO*EPB/TP-PL
 'And': AFPBD
 'just': SKWRUFT
 'as': AS
 'that': THA
 'was': WAS
 'decided': STKAOEUD/-D
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'the': -T
 'young': KWRUPBG
 'count': KOUPBT
 'entered': SPWR-D
 'into': TPHAO
 'the': -T
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'and': SKP
 'suddenly': SULD
 'two': TWO
@@ -835,7 +835,7 @@ The Three Languages
 'and': SKP
 'remained': RE/PHAEUPBD
 'sitting': SEUGT
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'The': KPA/-T
 'ecclesiastics': KHRAOES/KWRAFT/EUBG/-S
 'recognized': REFD
@@ -843,7 +843,7 @@ The Three Languages
 'the': -T
 'token': TO*EPB
 'from': TPR
-'above,': PWOF KW-BG
+'above,': PWOF/KW-BG
 'and': SKP
 'asked': SK-D
 'him': HEUPL
@@ -854,10 +854,10 @@ The Three Languages
 'he': HE
 'would': WO
 'be': -B
-'pope.': POEP TP-PL
+'pope.': POEP/TP-PL
 'He': KPA/HE
 'was': WAS
-'undecided,': UPB/STKAOEUD/-D KW-BG
+'undecided,': UPB/STKAOEUD/-D/KW-BG
 'and': SKP
 'knew': TPHAOU
 'not': TPHOT
@@ -866,7 +866,7 @@ The Three Languages
 'were': WR
 'worthy': WO*RT/KWREU
 'of': -F
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'but': PWUT
 'the': -T
 'doves': TKOFS
@@ -874,7 +874,7 @@ The Three Languages
 'him': HEUPL
 'to': TO
 'do': TKO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'at': AT
 'length': HREPBG
@@ -886,7 +886,7 @@ The Three Languages
 'he': HE
 'anointed': A/TPHOEUPBT/-D
 'and': SKP
-'consecrated,': KOPBS/KRAEUT/-D KW-BG
+'consecrated,': KOPBS/KRAEUT/-D/KW-BG
 'and': SKP
 'thus': THUS
 'was': WAS
@@ -900,12 +900,12 @@ The Three Languages
 'frogs': TPROGS
 'on': OPB
 'his': HEUS
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'which': WEU
 'had': H
 'so': SO
 'affected': A/TPEBGD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'that': THA
 'he': HE
 'was': WAS
@@ -914,14 +914,14 @@ The Three Languages
 'his': HEUS
 'Holiness': KPA/HOEUL/-PBS
 'the': -T
-'Pope.': PO*EP TP-PL
+'Pope.': PO*EP/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'had': H
 'to': TO
 'sing': SEUPBG
 'a': AEU
-'mass,': PHAS KW-BG
+'mass,': PHAS/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
@@ -929,7 +929,7 @@ The Three Languages
 'one': WUPB
 'word': WORD
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'the': -T
 'two': TWO
@@ -938,11 +938,11 @@ The Three Languages
 'continually': TAEPBL
 'on': OPB
 'his': HEUS
-'shoulders,': SHOURLDZ KW-BG
+'shoulders,': SHOURLDZ/KW-BG
 'and': SKP
 'said': SED
 'it': T
 'all': AUL
 'in': TPH
 'his': HEUS
-'ear.': AOER TP-PL
+'ear.': AOER/TP-PL

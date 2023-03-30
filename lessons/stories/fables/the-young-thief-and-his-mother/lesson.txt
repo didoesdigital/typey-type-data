@@ -20,7 +20,7 @@ The Young Thief and His Mother
 'be': -B
 'executed': SKAOUTD
 'for': TPOR
-'it.': T TP-PL
+'it.': T/TP-PL
 'He': KPA/HE
 'expressed': EBGS/PREFD
 'his': HEUS
@@ -28,7 +28,7 @@ The Young Thief and His Mother
 'to': TO
 'see': SAOE
 'his': HEUS
-'Mother,': KPA/PHOER KW-BG
+'Mother,': KPA/PHOER/KW-BG
 'and': SKP
 'to': TO
 'speak': SPAOEBG
@@ -39,13 +39,13 @@ The Young Thief and His Mother
 'was': WAS
 'led': HRED
 'to': TO
-'execution,': SKAOUGS KW-BG
+'execution,': SKAOUGS/KW-BG
 'and': SKP
 'of': -F
 'course': KORS
 'this': TH
 'was': WAS
-'granted.': TKPWRAPBTD TP-PL
+'granted.': TKPWRAPBTD/TP-PL
 'When': KPA/WHEPB
 'his': HEUS
 'Mother': KPA/PHOER
@@ -53,13 +53,13 @@ The Young Thief and His Mother
 'to': TO
 'him': HEUPL
 'he': HE
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'want': WAPBT
 'to': TO
 'whisper': WEUS/PER
 'to': TO
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -67,17 +67,17 @@ The Young Thief and His Mother
 'her': HER
 'ear': AOER
 'near': TPHAOER
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'he': HE
 'nearly': TPHAOERL
 'bit': PWEUT
 'it': T
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'All': KPA/AUL
 'the': -T
 'bystanders': PWEU/STAPB/ERS
 'were': WR
-'horrified,': HOR/TPAOEUD KW-BG
+'horrified,': HOR/TPAOEUD/KW-BG
 'and': SKP
 'asked': SK-D
 'him': HEUPL
@@ -90,15 +90,15 @@ The Young Thief and His Mother
 'brutal': PWRAOULT
 'and': SKP
 'inhuman': EUPB/HAOUPL
-'conduct.': KUBGT TP-PL
-'"It': KR-GS KPA/T
+'conduct.': KUBGT/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'to': TO
 'punish': P-RB
-'her,"': HER KW-BG KR-GS
+'her,"': HER/KW-BG/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"When': KR-GS KPA/WHEPB
+'said.': SED/TP-PL
+'"When': KR-GS/KPA/WHEPB
 'I': EU
 'was': WAS
 'young': KWRUPBG
@@ -107,28 +107,28 @@ The Young Thief and His Mother
 'with': W
 'stealing': STAELG
 'little': HREUL
-'things,': THEUPBGS KW-BG
+'things,': THEUPBGS/KW-BG
 'and': SKP
 'brought': PWRAUT
 'them': THEPL
 'home': HOEPL
 'to': TO
-'Mother.': KPA/PHOER TP-PL
+'Mother.': KPA/PHOER/TP-PL
 'Instead': KPA/STPHED
 'of': -F
 'rebuking': RE/PWAOUBG/-G
 'and': SKP
 'punishing': P-RBG
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'she': SHE
 'laughed': HRAFD
 'and': SKP
-'said:': SED STPH-FPLT
-'"It': KR-GS KPA/T
+'said:': SED/STPH-FPLT
+'"It': KR-GS/KPA/T
 'will': HR
 'not': TPHOT
 'be': -B
-'noticed."': TPH-TS/-D TP-PL KR-GS
+'noticed."': TPH-TS/-D/TP-PL/KR-GS
 'It': KPA/T
 'is': S
 'because': PWAU
@@ -138,19 +138,19 @@ The Young Thief and His Mother
 'I': EU
 'am': APL
 'here': HAOER
-'to-day."': TO H-PB TKAEU TP-PL KR-GS
-'"He': KR-GS KPA/HE
+'to-day."': TO/H-PB/TKAEU/TP-PL/KR-GS
+'"He': KR-GS/KPA/HE
 'is': S
-'right,': RAOEUT KW-BG
-'woman,"': WOPL KW-BG KR-GS
+'right,': RAOEUT/KW-BG
+'woman,"': WOPL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Priest;': KPA/PRAOEFT STPH*FPLT
-'"the': KR-GS -T
+'Priest;': KPA/PRAOEFT/STPH*FPLT
+'"the': KR-GS/-T
 'Lord': HRO*RD
 'hath': HA*T
-'said:': SED STPH-FPLT
-'"Train': KR-GS KPA/TRAEUPB
+'said:': SED/STPH-FPLT
+'"Train': KR-GS/KPA/TRAEUPB
 'up': UP
 'a': AEU
 'child': KHAOEULD
@@ -159,7 +159,7 @@ The Young Thief and His Mother
 'way': WAEU
 'he': HE
 'should': SHO
-'go;': TKPW STPH*FPLT
+'go;': TKPW/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -169,4 +169,4 @@ The Young Thief and His Mother
 'will': HR
 'not': TPHOT
 'depart': TKPART
-'therefrom."': THR-FRPL TP-PL KR-GS
+'therefrom."': THR-FRPL/TP-PL/KR-GS

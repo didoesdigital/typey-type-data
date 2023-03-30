@@ -20,7 +20,7 @@ The Shepherd's Boy
 'near': TPHAOER
 'a': AEU
 'dark': TKARBG
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'It': KPA/T
 'was': WAS
 'rather': RAER
@@ -28,7 +28,7 @@ The Shepherd's Boy
 'for': TPOR
 'him': HEUPL
 'all': AUL
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'so': SO
 'he': HE
 'thought': THAUT
@@ -45,7 +45,7 @@ The Shepherd's Boy
 'company': K-P
 'and': SKP
 'some': SOPL
-'excitement.': KPAOEUPLT TP-PL
+'excitement.': KPAOEUPLT/TP-PL
 'He': KPA/HE
 'rushed': RURBD
 'down': TKOUPB
@@ -54,8 +54,8 @@ The Shepherd's Boy
 'village': SREULG
 'calling': KAULG
 'out': OUT
-'"Wolf,': KR-GS KPA/WOFL KW-BG
-'Wolf,"': KPA/WOFL KW-BG KR-GS
+'"Wolf,': KR-GS/KPA/WOFL/KW-BG
+'Wolf,"': KPA/WOFL/KW-BG/KR-GS
 'and': SKP
 'the': -T
 'villagers': SREUL/APBLG/ERS
@@ -63,7 +63,7 @@ The Shepherd's Boy
 'out': OUT
 'to': TO
 'meet': PHAOET
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'some': SOPL
 'of': -F
@@ -74,7 +74,7 @@ The Shepherd's Boy
 'for': TPOR
 'a': AEU
 'considerable': KR-BL
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'This': KPA/TH
 'pleased': PHREFD
 'the': -T
@@ -90,7 +90,7 @@ The Shepherd's Boy
 'tried': TRAOEUD
 'the': -T
 'same': SAEUPL
-'trick,': TREUBG KW-BG
+'trick,': TREUBG/KW-BG
 'and': SKP
 'again': TKPWEPB
 'the': -T
@@ -98,7 +98,7 @@ The Shepherd's Boy
 'came': KAEUPL
 'to': TO
 'his': HEUS
-'help.': HEP TP-PL
+'help.': HEP/TP-PL
 'But': KPA/PWUT
 'shortly': SHORLT
 'after': AF
@@ -111,13 +111,13 @@ The Shepherd's Boy
 'out': OUT
 'from': TPR
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
 'worry': WOER
 'the': -T
-'sheep,': SHAOEP KW-BG
+'sheep,': SHAOEP/KW-BG
 'and': SKP
 'the': -T
 'boy': PWOEU
@@ -125,30 +125,30 @@ The Shepherd's Boy
 'course': KORS
 'cried': KRAOEUD
 'out': OUT
-'"Wolf,': KR-GS KPA/WOFL KW-BG
-'Wolf,"': KPA/WOFL KW-BG KR-GS
+'"Wolf,': KR-GS/KPA/WOFL/KW-BG
+'Wolf,"': KPA/WOFL/KW-BG/KR-GS
 'still': STEUL
 'louder': HROURD
 'than': THAPB
-'before.': PW-FR TP-PL
+'before.': PW-FR/TP-PL
 'But': KPA/PWUT
 'this': TH
 'time': TAOEUPL
 'the': -T
-'villagers,': SREUL/APBLG/ERS KW-BG
+'villagers,': SREUL/APBLG/ERS/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
 'fooled': TPAOLD
 'twice': TWAOEUS
-'before,': PW-FR KW-BG
+'before,': PW-FR/KW-BG
 'thought': THAUT
 'the': -T
 'boy': PWOEU
 'was': WAS
 'again': TKPWEPB
 'deceiving': TKE/SAOEFG
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'nobody': TPHOEB
 'stirred': STEURD
@@ -156,7 +156,7 @@ The Shepherd's Boy
 'come': KOPL
 'to': TO
 'his': HEUS
-'help.': HEP TP-PL
+'help.': HEP/TP-PL
 'So': KPA/SO
 'the': -T
 'Wolf': KPA/WOFL
@@ -166,29 +166,29 @@ The Shepherd's Boy
 'meal': PHAOEL
 'off': OF
 'the': -T
-'boy's': PWOEU AES
-'flock,': TPHROBG KW-BG
+'boy's': PWOEU/AES
+'flock,': TPHROBG/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
 'boy': PWOEU
-'complained,': KPHRAEUPBD KW-BG
+'complained,': KPHRAEUPBD/KW-BG
 'the': -T
 'wise': WAOEUS
 'man': PHAPB
 'of': -F
 'the': -T
 'village': SREULG
-'said:': SED STPH-FPLT
-'"A': KR-GS KPA/AEU
+'said:': SED/STPH-FPLT
+'"A': KR-GS/KPA/AEU
 'liar': HRAOEUR
 'will': HR
 'not': TPHOT
 'be': -B
-'believed,': PWHREFD KW-BG
+'believed,': PWHREFD/KW-BG
 'even': AOEPB
 'when': WHEPB
 'he': HE
 'speaks': SPAOEBGS
 'the': -T
-'truth."': TRAO*UT TP-PL KR-GS
+'truth."': TRAO*UT/TP-PL/KR-GS

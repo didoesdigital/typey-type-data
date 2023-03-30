@@ -15,7 +15,7 @@ The Lion in Love
 'marriage': PHAERPBLG
 'to': TO
 'her': HER
-'parents.': PARPBTS TP-PL
+'parents.': PARPBTS/TP-PL
 'The': KPA/-T
 'old': OLD
 'people': PAOEPL
@@ -24,7 +24,7 @@ The Lion in Love
 'know': TPHOE
 'what': WHA
 'to': TO
-'say.': SAEU TP-PL
+'say.': SAEU/TP-PL
 'They': KPA/THE
 'did': TK
 'not': TPHOT
@@ -35,7 +35,7 @@ The Lion in Love
 'daughter': TKAUR
 'to': TO
 'the': -T
-'Lion,': KPA/HRO*EUPB KW-BG
+'Lion,': KPA/HRO*EUPB/KW-BG
 'yet': KWRET
 'they': THE
 'did': TK
@@ -46,20 +46,20 @@ The Lion in Love
 'the': -T
 'King': KO*EUPBG
 'of': -F
-'Beasts.': KPA/PWAOEFT/-S TP-PL
+'Beasts.': KPA/PWAOEFT/-S/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'the': -T
 'father': TPAER
-'said:': SED STPH-FPLT
-'"We': KR-GS KPA/WE
+'said:': SED/STPH-FPLT
+'"We': KR-GS/KPA/WE
 'feel': TPAOEL
 'highly': HAOEUL
 'honoured': HOPB/OURD/A*U
 'by': PWEU
 'your': KWROUR
-'Majesty's': KPA/PHAPBLG/STEU AES
-'proposal,': PROEL KW-BG
+'Majesty's': KPA/PHAPBLG/STEU/AES
+'proposal,': PROEL/KW-BG
 'but': PWUT
 'you': U
 'see': SAOE
@@ -69,7 +69,7 @@ The Lion in Love
 'a': AEU
 'tender': TERPBD
 'young': KWRUPBG
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'and': SKP
 'we': WE
 'fear': TPAOER
@@ -86,7 +86,7 @@ The Lion in Love
 'do': TKO
 'her': HER
 'some': SOPL
-'injury.': SKWRAOUR TP-PL
+'injury.': SKWRAOUR/TP-PL
 'Might': KPA/PHAOEUT
 'I': EU
 'venture': SREPBT/UR
@@ -99,11 +99,11 @@ The Lion in Love
 'have': SR
 'your': KWROUR
 'claws': KHRAU/-S
-'removed,': RE/PHOFD KW-BG
+'removed,': RE/PHOFD/KW-BG
 'and': SKP
 'your': KWROUR
 'teeth': TAO*ET
-'extracted,': EBGS/TRABGD KW-BG
+'extracted,': EBGS/TRABGD/KW-BG
 'then': THEPB
 'we': WE
 'would': WO
@@ -111,7 +111,7 @@ The Lion in Love
 'consider': KR
 'your': KWROUR
 'proposal': PROEL
-'again."': TKPWEPB TP-PL KR-GS
+'again."': TKPWEPB/TP-PL/KR-GS
 'The': KPA/-T
 'Lion': KPA/HRO*EUPB
 'was': WAS
@@ -130,7 +130,7 @@ The Lion in Love
 'big': PWEUG
 'teeth': TAO*ET
 'taken': TAEPB
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -148,15 +148,15 @@ The Lion in Love
 'laughed': HRAFD
 'in': TPH
 'his': HEUS
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'and': SKP
 'bade': PWAEUD
 'him': HEUPL
 'do': TKO
 'his': HEUS
-'worst.': WOFRT TP-PL
+'worst.': WOFRT/TP-PL
 'Love': KPA/HRUF
 'can': K
 'tame': TAEUPL
 'the': -T
-'wildest.': WAOEULD/EFT TP-PL
+'wildest.': WAOEULD/EFT/TP-PL

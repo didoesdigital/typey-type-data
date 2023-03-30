@@ -13,7 +13,7 @@ The Man and the Wood
 'axe': ABGS
 'in': TPH
 'his': HEUS
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
 'begged': PWEGD
 'all': AUL
@@ -31,7 +31,7 @@ The Man and the Wood
 'for': TPOR
 'a': AEU
 'particular': PHRAR
-'purpose.': PURP TP-PL
+'purpose.': PURP/TP-PL
 'The': KPA/-T
 'Trees': KPA/TRAOES
 'were': WR
@@ -42,7 +42,7 @@ The Man and the Wood
 'one': WUPB
 'of': -F
 'their': THAEUR
-'branches.': PWRAFRPBS TP-PL
+'branches.': PWRAFRPBS/TP-PL
 'What': KPA/WHA
 'did': TK
 'the': -T
@@ -54,7 +54,7 @@ The Man and the Wood
 'into': TPHAO
 'the': -T
 'axe': ABGS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'soon': SAOPB
 'set': SET
@@ -64,7 +64,7 @@ The Man and the Wood
 'down': TKOUPB
 'tree': TRAOE
 'after': AF
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'Trees': KPA/TRAOES
@@ -82,4 +82,4 @@ The Man and the Wood
 'means': PHAOEPBS
 'of': -F
 'destroying': STKROEUG
-'themselves.': TH*EPLS TP-PL
+'themselves.': TH*EPLS/TP-PL

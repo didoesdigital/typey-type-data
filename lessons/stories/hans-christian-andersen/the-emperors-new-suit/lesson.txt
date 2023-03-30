@@ -1,12 +1,12 @@
 The Emperor's New Suit
 
-'Many,': KPA/PHAEPB KW-BG
+'Many,': KPA/PHAEPB/KW-BG
 'many': PHAEPB
 'years': KWRAOERS
 'ago': AG
 'lived': HREUFD
 'an': APB
-'emperor,': EPL/ROR KW-BG
+'emperor,': EPL/ROR/KW-BG
 'who': WHO
 'thought': THAUT
 'so': SO
@@ -24,7 +24,7 @@ The Emperor's New Suit
 'order': ORD
 'to': TO
 'obtain': OB/TAEUPB
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'his': HEUS
 'only': OEPBL
 'ambition': APL/PWEUGS
@@ -33,26 +33,26 @@ The Emperor's New Suit
 'be': -B
 'always': AULS
 'well': WEL
-'dressed.': TKREFD TP-PL
+'dressed.': TKREFD/TP-PL
 'He': KPA/HE
 'did': TK
 'not': TPHOT
 'care': KAEUR
 'for': TPOR
 'his': HEUS
-'soldiers,': SHRERPBLGS KW-BG
+'soldiers,': SHRERPBLGS/KW-BG
 'and': SKP
 'the': -T
 'theatre': THAO*ERT
 'did': TK
 'not': TPHOT
 'amuse': A/PHAOUS
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'the': -T
 'only': OEPBL
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'in': TPH
-'fact,': TPABGT KW-BG
+'fact,': TPABGT/KW-BG
 'he': HE
 'thought': THAUT
 'anything': TPHEUG
@@ -67,7 +67,7 @@ The Emperor's New Suit
 'new': TPHU
 'suit': SAOUT
 'of': -F
-'clothes.': KHRO*ETS TP-PL
+'clothes.': KHRO*ETS/TP-PL
 'He': KPA/HE
 'had': H
 'a': AEU
@@ -77,7 +77,7 @@ The Emperor's New Suit
 'hour': HOUR
 'of': -F
 'the': -T
-'day;': TKAEU STPH*FPLT
+'day;': TKAEU/STPH*FPLT
 'and': SKP
 'as': AS
 'one': WUPB
@@ -86,23 +86,23 @@ The Emperor's New Suit
 'of': -F
 'a': AEU
 'king': KEUPBG
-'"He': KR-GS KPA/HE
+'"He': KR-GS/KPA/HE
 'is': S
 'in': TPH
 'his': HEUS
-'cabinet,"': KABT KW-BG KR-GS
+'cabinet,"': KABT/KW-BG/KR-GS
 'so': SO
 'one': WUPB
 'could': KO
 'say': SAEU
 'of': -F
-'him,': HEUPL KW-BG
-'"The': KR-GS KPA/-T
+'him,': HEUPL/KW-BG
+'"The': KR-GS/KPA/-T
 'emperor': EPL/ROR
 'is': S
 'in': TPH
 'his': HEUS
-'dressing-room."': TKREFG H-PB RAOPL TP-PL KR-GS
+'dressing-room."': TKREFG/H-PB/RAOPL/TP-PL/KR-GS
 'The': KPA/-T
 'great': TKPWRAET
 'city': STEU
@@ -111,7 +111,7 @@ The Emperor's New Suit
 'resided': RE/SAOEUD/-D
 'was': WAS
 'very': SRE
-'gay;': TKPWAEU STPH*FPLT
+'gay;': TKPWAEU/STPH*FPLT
 'every': EF
 'day': TKAEU
 'many': PHAEPB
@@ -122,7 +122,7 @@ The Emperor's New Suit
 'of': -F
 'the': -T
 'globe': TKPWHROEB
-'arrived.': A/RAOEUFD TP-PL
+'arrived.': A/RAOEUFD/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'two': TWO
@@ -130,7 +130,7 @@ The Emperor's New Suit
 'came': KAEUPL
 'to': TO
 'this': TH
-'city;': STEU STPH*FPLT
+'city;': STEU/STPH*FPLT
 'they': THE
 'made': PHAED
 'people': PAOEPL
@@ -138,7 +138,7 @@ The Emperor's New Suit
 'that': THA
 'they': THE
 'were': WR
-'weavers,': WAOEFR/-S KW-BG
+'weavers,': WAOEFR/-S/KW-BG
 'and': SKP
 'declared': TKE/KHRAEURD
 'they': THE
@@ -149,18 +149,18 @@ The Emperor's New Suit
 'cloth': KHRO*T
 'to': TO
 'be': -B
-'imagined.': PHAPBLGD TP-PL
+'imagined.': PHAPBLGD/TP-PL
 'Their': KPA/THAEUR
 'colours': KHRORS/A*U
 'and': SKP
-'patterns,': PAERPBS KW-BG
+'patterns,': PAERPBS/KW-BG
 'they': THE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'were': WR
 'not': TPHOT
 'only': OEPBL
 'exceptionally': KPEPGS/HREU
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'but': PWUT
 'the': -T
 'clothes': KHRO*ETS
@@ -186,16 +186,16 @@ The Emperor's New Suit
 'office': OFS
 'or': OR
 'unpardonably': UPB/PAR/TKOPB/PWHREU
-'stupid.': STAOUPD TP-PL
-'"That': KR-GS KPA/THA
+'stupid.': STAOUPD/TP-PL
+'"That': KR-GS/KPA/THA
 'must': PHUFT
 'be': -B
 'wonderful': WUFL
-'cloth,"': KHRO*T KW-BG KR-GS
+'cloth,"': KHRO*T/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
-'emperor.': EPL/ROR TP-PL
-'"If': KR-GS KPA/TP
+'emperor.': EPL/ROR/TP-PL
+'"If': KR-GS/KPA/TP
 'I': EU
 'were': WR
 'to': TO
@@ -224,7 +224,7 @@ The Emperor's New Suit
 'unfit': UPB/TPEUT
 'for': TPOR
 'their': THAEUR
-'places,': PHRAEUFS KW-BG
+'places,': PHRAEUFS/KW-BG
 'and': SKP
 'I': EU
 'could': KO
@@ -233,7 +233,7 @@ The Emperor's New Suit
 'clever': KHREFR
 'from': TPR
 'the': -T
-'stupid.': STAOUPD TP-PL
+'stupid.': STAOUPD/TP-PL
 'I': EU
 'must': PHUFT
 'have': SR
@@ -243,7 +243,7 @@ The Emperor's New Suit
 'for': TPOR
 'me': PHE
 'without': WOUT
-'delay."': TKHRAEU TP-PL KR-GS
+'delay."': TKHRAEU/TP-PL/KR-GS
 'And': AFPBD
 'he': HE
 'gave': TKPWAEUF
@@ -254,9 +254,9 @@ The Emperor's New Suit
 'money': PHUPB
 'to': TO
 'the': -T
-'swindlers,': SWEUPBD/HRERS KW-BG
+'swindlers,': SWEUPBD/HRERS/KW-BG
 'in': TPH
-'advance,': SRAPBS KW-BG
+'advance,': SRAPBS/KW-BG
 'that': THA
 'they': THE
 'should': SHO
@@ -267,12 +267,12 @@ The Emperor's New Suit
 'any': TPHEU
 'loss': HROS
 'of': -F
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'They': KPA/THE
 'set': SET
 'up': UP
 'two': TWO
-'looms,': HRAOPLS KW-BG
+'looms,': HRAOPLS/KW-BG
 'and': SKP
 'pretended': PRE/TEPBD/-D
 'to': TO
@@ -280,7 +280,7 @@ The Emperor's New Suit
 'very': SRE
 'hard': HARD
 'at': AT
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'but': PWUT
 'they': THE
 'did': TK
@@ -288,7 +288,7 @@ The Emperor's New Suit
 'whatever': WHAF
 'on': OPB
 'the': -T
-'looms.': HRAOPLS TP-PL
+'looms.': HRAOPLS/TP-PL
 'They': KPA/THE
 'asked': SK-D
 'for': TPOR
@@ -299,14 +299,14 @@ The Emperor's New Suit
 'the': -T
 'most': PHOFT
 'precious': PRERBS
-'gold-cloth;': TKPWOELD H-PB KHRO*T STPH*FPLT
+'gold-cloth;': TKPWOELD/H-PB/KHRO*T/STPH*FPLT
 'all': AUL
 'they': THE
 'got': TKPWOT
 'they': THE
 'did': TK
 'away': WA*EU
-'with,': W KW-BG
+'with,': W/KW-BG
 'and': SKP
 'worked': WORBGD
 'at': AT
@@ -316,8 +316,8 @@ The Emperor's New Suit
 'till': TEUL
 'late': HRAEUT
 'at': AT
-'night.': TPHAOEUT TP-PL
-'"I': KR-GS EU
+'night.': TPHAOEUT/TP-PL
+'"I': KR-GS/EU
 'should': SHO
 'very': SRE
 'much': PHUFP
@@ -331,10 +331,10 @@ The Emperor's New Suit
 'on': OPB
 'with': W
 'the': -T
-'cloth,"': KHRO*T KW-BG KR-GS
+'cloth,"': KHRO*T/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
-'emperor.': EPL/ROR TP-PL
+'emperor.': EPL/ROR/TP-PL
 'But': KPA/PWUT
 'he': HE
 'felt': TPELT
@@ -355,8 +355,8 @@ The Emperor's New Suit
 'could': KO
 'not': TPHOT
 'see': SAOE
-'it.': T TP-PL
-'Personally,': KPA/PHRERPBL KW-BG
+'it.': T/TP-PL
+'Personally,': KPA/PHRERPBL/KW-BG
 'he': HE
 'was': WAS
 'of': -F
@@ -366,7 +366,7 @@ The Emperor's New Suit
 'had': H
 'nothing': TPHOG
 'to': TO
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'yet': KWRET
 'he': HE
 'thought': THAUT
@@ -381,7 +381,7 @@ The Emperor's New Suit
 'see': SAOE
 'how': HOU
 'matters': PHAERTS
-'stood.': STAOD TP-PL
+'stood.': STAOD/TP-PL
 'Everybody': KPA/EFRB
 'in': TPH
 'the': -T
@@ -393,7 +393,7 @@ The Emperor's New Suit
 'quality': KWALT
 'the': -T
 'stuff': STUF
-'possessed,': POS/ES/-D KW-BG
+'possessed,': POS/ES/-D/KW-BG
 'and': SKP
 'all': AUL
 'were': WR
@@ -406,8 +406,8 @@ The Emperor's New Suit
 'stupid': STAOUPD
 'their': THAEUR
 'neighbours': TPHAEUBS/A*U
-'were.': WR TP-PL
-'"I': KR-GS EU
+'were.': WR/TP-PL
+'"I': KR-GS/EU
 'shall': SHAL
 'send': SEPBD
 'my': PHEU
@@ -416,22 +416,22 @@ The Emperor's New Suit
 'minister': PHEUPB/STER
 'to': TO
 'the': -T
-'weavers,"': WAOEFR/-S KW-BG KR-GS
+'weavers,"': WAOEFR/-S/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
-'emperor.': EPL/ROR TP-PL
-'"He': KR-GS KPA/HE
+'emperor.': EPL/ROR/TP-PL
+'"He': KR-GS/KPA/HE
 'can': K
 'judge': SKWRUPBLG
 'best': PWEFT
 'how': HOU
 'the': -T
 'stuff': STUF
-'looks,': HRAOBGS KW-BG
+'looks,': HRAOBGS/KW-BG
 'for': TPOR
 'he': HE
 'is': S
-'intelligent,': SPWEPBLGT KW-BG
+'intelligent,': SPWEPBLGT/KW-BG
 'and': SKP
 'nobody': TPHOEB
 'understands': URPBDZ
@@ -439,7 +439,7 @@ The Emperor's New Suit
 'office': OFS
 'better': PWOERT
 'than': THAPB
-'he."': HE TP-PL KR-GS
+'he."': HE/TP-PL/KR-GS
 'The': KPA/-T
 'good': TKPWAOD
 'old': OLD
@@ -455,36 +455,36 @@ The Emperor's New Suit
 'before': PW-FR
 'the': -T
 'empty': EPLT
-'looms.': HRAOPLS TP-PL
-'"Heaven': KR-GS KPA/HEFPB
+'looms.': HRAOPLS/TP-PL
+'"Heaven': KR-GS/KPA/HEFPB
 'preserve': PREFRB
-'us!"': US SKHRAPL KR-GS
+'us!"': US/SKHRAPL/KR-GS
 'he': HE
-'thought,': THAUT KW-BG
+'thought,': THAUT/KW-BG
 'and': SKP
 'opened': OEPD
 'his': HEUS
 'eyes': AO*EUS
-'wide,': WAOEUD KW-BG
-'"I': KR-GS EU
+'wide,': WAOEUD/KW-BG
+'"I': KR-GS/EU
 'cannot': SK-PBT
 'see': SAOE
 'anything': TPHEUG
 'at': AT
-'all,"': AUL KW-BG KR-GS
+'all,"': AUL/KW-BG/KR-GS
 'but': PWUT
 'he': HE
 'did': TK
 'not': TPHOT
 'say': SAEU
-'so.': SO TP-PL
+'so.': SO/TP-PL
 'Both': KPA/PWO*T
 'swindlers': SWEUPBD/HRERS
 'requested': KW-D
 'him': HEUPL
 'to': TO
 'come': KOPL
-'near,': TPHAOER KW-BG
+'near,': TPHAOER/KW-BG
 'and': SKP
 'asked': SK-D
 'him': HEUPL
@@ -499,12 +499,12 @@ The Emperor's New Suit
 'and': SKP
 'the': -T
 'beautiful': PWAOUFL
-'colours,': KHRORS/A*U KW-BG
+'colours,': KHRORS/A*U/KW-BG
 'pointing': POEUPBGT
 'to': TO
 'the': -T
 'empty': EPLT
-'looms.': HRAOPLS TP-PL
+'looms.': HRAOPLS/TP-PL
 'The': KPA/-T
 'poor': PAOR
 'old': OLD
@@ -512,39 +512,39 @@ The Emperor's New Suit
 'tried': TRAOEUD
 'his': HEUS
 'very': SRE
-'best,': PWEFT KW-BG
+'best,': PWEFT/KW-BG
 'but': PWUT
 'he': HE
 'could': KO
 'see': SAOE
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'for': TPOR
 'there': THR
 'was': WAS
 'nothing': TPHOG
 'to': TO
 'be': -B
-'seen.': SAOEPB TP-PL
-'"Oh': KR-GS KPA/O*ERBGS
-'dear,"': TKAER KW-BG KR-GS
+'seen.': SAOEPB/TP-PL
+'"Oh': KR-GS/KPA/O*ERBGS
+'dear,"': TKAER/KW-BG/KR-GS
 'he': HE
-'thought,': THAUT KW-BG
-'"can': KR-GS K
+'thought,': THAUT/KW-BG
+'"can': KR-GS/K
 'I': EU
 'be': -B
 'so': SO
-'stupid?': STAOUPD H-F
+'stupid?': STAOUPD/H-F
 'I': EU
 'should': SHO
 'never': TPHEFR
 'have': SR
 'thought': THAUT
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'and': SKP
 'nobody': TPHOEB
 'must': PHUFT
 'know': TPHOE
-'it!': T SKHRAPL
+'it!': T/SKHRAPL
 'Is': KPA/S
 'it': T
 'possible': POB
@@ -555,8 +555,8 @@ The Emperor's New Suit
 'fit': TPEUT
 'for': TPOR
 'my': PHEU
-'office?': OFS H-F
-'No,': KPA/TPHO KW-BG
+'office?': OFS/H-F
+'No,': KPA/TPHO/KW-BG
 'no,': TPHORBGS
 'I': EU
 'cannot': SK-PBT
@@ -568,33 +568,33 @@ The Emperor's New Suit
 'to': TO
 'see': SAOE
 'the': -T
-'cloth."': KHRO*T TP-PL KR-GS
-'"Now,': KR-GS KPA/TPHOU KW-BG
+'cloth."': KHRO*T/TP-PL/KR-GS
+'"Now,': KR-GS/KPA/TPHOU/KW-BG
 'have': SR
 'you': U
 'got': TKPWOT
 'nothing': TPHOG
 'to': TO
-'say?"': SAEU H-F KR-GS
+'say?"': SAEU/H-F/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
-'swindlers,': SWEUPBD/HRERS KW-BG
+'swindlers,': SWEUPBD/HRERS/KW-BG
 'while': WHAOEUL
 'he': HE
 'pretended': PRE/TEPBD/-D
 'to': TO
 'be': -B
 'busily': PWEUZ/HREU
-'weaving.': WAOEFG TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'weaving.': WAOEFG/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'it': T
 'is': S
 'very': SRE
-'pretty,': PREUT KW-BG
+'pretty,': PREUT/KW-BG
 'exceedingly': EBGS/AOED/TKPWHREU
-'beautiful,"': PWAOUFL KW-BG KR-GS
+'beautiful,"': PWAOUFL/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'old': OLD
@@ -602,14 +602,14 @@ The Emperor's New Suit
 'looking': HRAOG
 'through': THRU
 'his': HEUS
-'glasses.': TKPWHRAFS TP-PL
-'"What': KR-GS KPA/WHA
+'glasses.': TKPWHRAFS/TP-PL
+'"What': KR-GS/KPA/WHA
 'a': AEU
 'beautiful': PWAOUFL
-'pattern,': PAERPB KW-BG
+'pattern,': PAERPB/KW-BG
 'what': WHA
 'brilliant': PWREULT
-'colours!': KHRORS/A*U SKHRAPL
+'colours!': KHRORS/A*U/SKHRAPL
 'I': EU
 'shall': SHAL
 'tell': TEL
@@ -621,17 +621,17 @@ The Emperor's New Suit
 'the': -T
 'cloth': KHRO*T
 'very': SRE
-'much."': PHUFP TP-PL KR-GS
-'"We': KR-GS KPA/WE
+'much."': PHUFP/TP-PL/KR-GS
+'"We': KR-GS/KPA/WE
 'are': R
 'pleased': PHREFD
 'to': TO
 'hear': HAER
-'that,"': THA KW-BG KR-GS
+'that,"': THA/KW-BG/KR-GS
 'said': SED
 'the': -T
 'two': TWO
-'weavers,': WAOEFR/-S KW-BG
+'weavers,': WAOEFR/-S/KW-BG
 'and': SKP
 'described': KREUFD
 'to': TO
@@ -642,12 +642,12 @@ The Emperor's New Suit
 'explained': SPHRAEUPBD
 'the': -T
 'curious': KAOURS
-'pattern.': PAERPB TP-PL
+'pattern.': PAERPB/TP-PL
 'The': KPA/-T
 'old': OLD
 'minister': PHEUPB/STER
 'listened': HREUFPBD
-'attentively,': A/TEPBT/EUFL KW-BG
+'attentively,': A/TEPBT/EUFL/KW-BG
 'that': THA
 'he': HE
 'might': PHAOEUT
@@ -657,31 +657,31 @@ The Emperor's New Suit
 'emperor': EPL/ROR
 'what': WHA
 'they': THE
-'said;': SED STPH*FPLT
+'said;': SED/STPH*FPLT
 'and': SKP
 'so': SO
 'he': HE
-'did.': TK TP-PL
+'did.': TK/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'swindlers': SWEUPBD/HRERS
 'asked': SK-D
 'for': TPOR
 'more': PHOR
-'money,': PHUPB KW-BG
+'money,': PHUPB/KW-BG
 'silk': S*EULG
 'and': SKP
-'gold-cloth,': TKPWOELD H-PB KHRO*T KW-BG
+'gold-cloth,': TKPWOELD/H-PB/KHRO*T/KW-BG
 'which': WEU
 'they': THE
 'required': RAOEURD
 'for': TPOR
-'weaving.': WAOEFG TP-PL
+'weaving.': WAOEFG/TP-PL
 'They': KPA/THE
 'kept': KEPT
 'everything': EFRG
 'for': TPOR
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'and': SKP
 'not': TPHOT
 'a': AEU
@@ -689,18 +689,18 @@ The Emperor's New Suit
 'came': KAEUPL
 'near': TPHAOER
 'the': -T
-'loom,': HRAOPL KW-BG
+'loom,': HRAOPL/KW-BG
 'but': PWUT
 'they': THE
-'continued,': T-PBD KW-BG
+'continued,': T-PBD/KW-BG
 'as': AS
-'hitherto,': H*EUT/ER/TO KW-BG
+'hitherto,': H*EUT/ER/TO/KW-BG
 'to': TO
 'work': WORBG
 'at': AT
 'the': -T
 'empty': EPLT
-'looms.': HRAOPLS TP-PL
+'looms.': HRAOPLS/TP-PL
 'Soon': KPA/SAOPB
 'afterwards': A*FRDZ
 'the': -T
@@ -718,18 +718,18 @@ The Emperor's New Suit
 'they': THE
 'were': WR
 'getting': TKPWEGT
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'if': TP
 'the': -T
 'cloth': KHRO*T
 'was': WAS
 'nearly': TPHAOERL
-'finished.': TP*EURBD TP-PL
+'finished.': TP*EURBD/TP-PL
 'Like': KPA/HRAOEUBG
 'the': -T
 'old': OLD
-'minister,': PHEUPB/STER KW-BG
+'minister,': PHEUPB/STER/KW-BG
 'he': HE
 'looked': HRAOBGD
 'and': SKP
@@ -737,45 +737,45 @@ The Emperor's New Suit
 'but': PWUT
 'could': KO
 'see': SAOE
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'as': AS
 'there': THR
 'was': WAS
 'nothing': TPHOG
 'to': TO
 'be': -B
-'seen.': SAOEPB TP-PL
-'"Is': KR-GS KPA/S
+'seen.': SAOEPB/TP-PL
+'"Is': KR-GS/KPA/S
 'it': T
 'not': TPHOT
 'a': AEU
 'beautiful': PWAOUFL
 'piece': PAOES
 'of': -F
-'cloth?"': KHRO*T H-F KR-GS
+'cloth?"': KHRO*T/H-F/KR-GS
 'asked': SK-D
 'the': -T
 'two': TWO
-'swindlers,': SWEUPBD/HRERS KW-BG
+'swindlers,': SWEUPBD/HRERS/KW-BG
 'showing': SHOEG
 'and': SKP
 'explaining': SPHRAEUPBG
 'the': -T
 'magnificent': PHAFPBT
-'pattern,': PAERPB KW-BG
-'which,': WEU KW-BG
-'however,': HOUF KW-BG
+'pattern,': PAERPB/KW-BG
+'which,': WEU/KW-BG
+'however,': HOUF/KW-BG
 'did': TK
 'not': TPHOT
-'exist.': KPEUFT TP-PL
-'"I': KR-GS EU
+'exist.': KPEUFT/TP-PL
+'"I': KR-GS/EU
 'am': APL
 'not': TPHOT
-'stupid,"': STAOUPD KW-BG KR-GS
+'stupid,"': STAOUPD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'man.': PHAPB TP-PL
-'"It': KR-GS KPA/T
+'man.': PHAPB/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'therefore': TH-FR
 'my': PHEU
@@ -786,11 +786,11 @@ The Emperor's New Suit
 'I': EU
 'am': APL
 'not': TPHOT
-'fit.': TPEUT TP-PL
+'fit.': TPEUT/TP-PL
 'It': KPA/T
 'is': S
 'very': SRE
-'strange,': STRAEUPBG KW-BG
+'strange,': STRAEUPBG/KW-BG
 'but': PWUT
 'I': EU
 'must': PHUFT
@@ -799,17 +799,17 @@ The Emperor's New Suit
 'any': TPHEU
 'one': WUPB
 'know': TPHOE
-'it;"': T STPH*FPLT KR-GS
+'it;"': T/STPH*FPLT/KR-GS
 'and': SKP
 'he': HE
 'praised': PRA*EUFD
 'the': -T
-'cloth,': KHRO*T KW-BG
+'cloth,': KHRO*T/KW-BG
 'which': WEU
 'he': HE
 'did': TK
 'not': TPHOT
-'see,': SAOE KW-BG
+'see,': SAOE/KW-BG
 'and': SKP
 'expressed': EBGS/PREFD
 'his': HEUS
@@ -821,16 +821,16 @@ The Emperor's New Suit
 'and': SKP
 'the': -T
 'fine': TPAOEUPB
-'pattern.': PAERPB TP-PL
-'"It': KR-GS KPA/T
+'pattern.': PAERPB/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'very': SRE
-'excellent,"': KPHREPBT KW-BG KR-GS
+'excellent,"': KPHREPBT/KW-BG/KR-GS
 'he': HE
 'said': SED
 'to': TO
 'the': -T
-'emperor.': EPL/ROR TP-PL
+'emperor.': EPL/ROR/TP-PL
 'Everybody': KPA/EFRB
 'in': TPH
 'the': -T
@@ -840,7 +840,7 @@ The Emperor's New Suit
 'about': PW
 'the': -T
 'precious': PRERBS
-'cloth.': KHRO*T TP-PL
+'cloth.': KHRO*T/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'the': -T
@@ -849,19 +849,19 @@ The Emperor's New Suit
 'to': TO
 'see': SAOE
 'it': T
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'while': WHAOEUL
 'it': T
 'was': WAS
 'still': STEUL
 'on': OPB
 'the': -T
-'loom.': HRAOPL TP-PL
+'loom.': HRAOPL/TP-PL
 'With': KPA/W
 'a': AEU
 'number': TPHUPL
 'of': -F
-'courtiers,': KORT/KWRERS KW-BG
+'courtiers,': KORT/KWRERS/KW-BG
 'including': KHRUG
 'the': -T
 'two': TWO
@@ -869,14 +869,14 @@ The Emperor's New Suit
 'had': H
 'already': HR-R
 'been': PW-PB
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
 'two': TWO
 'clever': KHREFR
-'swindlers,': SWEUPBD/HRERS KW-BG
+'swindlers,': SWEUPBD/HRERS/KW-BG
 'who': WHO
 'now': TPHOU
 'worked': WORBGD
@@ -884,16 +884,16 @@ The Emperor's New Suit
 'hard': HARD
 'as': AS
 'they': THE
-'could,': KO KW-BG
+'could,': KO/KW-BG
 'but': PWUT
 'without': WOUT
 'using': AOUFG
 'any': TPHEU
-'thread.': THRED TP-PL
-'"Is': KR-GS KPA/S
+'thread.': THRED/TP-PL
+'"Is': KR-GS/KPA/S
 'it': T
 'not': TPHOT
-'magnificent?"': PHAFPBT H-F KR-GS
+'magnificent?"': PHAFPBT/H-F/KR-GS
 'said': SED
 'the': -T
 'two': TWO
@@ -903,8 +903,8 @@ The Emperor's New Suit
 'had': H
 'been': PW-PB
 'there': THR
-'before.': PW-FR TP-PL
-'"Your': KR-GS KPA/KWROUR
+'before.': PW-FR/TP-PL
+'"Your': KR-GS/KPA/KWROUR
 'Majesty': KPA/PHAPBLG/STEU
 'must': PHUFT
 'admire': AD/PHAOEUR
@@ -912,7 +912,7 @@ The Emperor's New Suit
 'colours': KHRORS/A*U
 'and': SKP
 'the': -T
-'pattern."': PAERPB TP-PL KR-GS
+'pattern."': PAERPB/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'they': THE
@@ -920,7 +920,7 @@ The Emperor's New Suit
 'to': TO
 'the': -T
 'empty': EPLT
-'looms,': HRAOPLS KW-BG
+'looms,': HRAOPLS/KW-BG
 'for': TPOR
 'they': THE
 'imagined': PHAPBLGD
@@ -929,32 +929,32 @@ The Emperor's New Suit
 'could': KO
 'see': SAOE
 'the': -T
-'cloth.': KHRO*T TP-PL
-'"What': KR-GS KPA/WHA
+'cloth.': KHRO*T/TP-PL
+'"What': KR-GS/KPA/WHA
 'is': S
-'this?"': TH H-F KR-GS
+'this?"': TH/H-F/KR-GS
 'thought': THAUT
 'the': -T
-'emperor,': EPL/ROR KW-BG
-'"I': KR-GS EU
+'emperor,': EPL/ROR/KW-BG
+'"I': KR-GS/EU
 'do': TKO
 'not': TPHOT
 'see': SAOE
 'anything': TPHEUG
 'at': AT
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'That': KPA/THA
 'is': S
-'terrible!': TERBL SKHRAPL
+'terrible!': TERBL/SKHRAPL
 'Am': KPA/APL
 'I': EU
-'stupid?': STAOUPD H-F
+'stupid?': STAOUPD/H-F
 'Am': KPA/APL
 'I': EU
 'unfit': UPB/TPEUT
 'to': TO
 'be': -B
-'emperor?': EPL/ROR H-F
+'emperor?': EPL/ROR/H-F
 'That': KPA/THA
 'would': WO
 'indeed': TPHAOEPBD
@@ -967,21 +967,21 @@ The Emperor's New Suit
 'could': KO
 'happen': HAP
 'to': TO
-'me."': PHE TP-PL KR-GS
-'"Really,"': KR-GS KPA/R-L KW-BG KR-GS
+'me."': PHE/TP-PL/KR-GS
+'"Really,"': KR-GS/KPA/R-L/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'turning': TURPBG
 'to': TO
 'the': -T
-'weavers,': WAOEFR/-S KW-BG
-'"your': KR-GS KWROUR
+'weavers,': WAOEFR/-S/KW-BG
+'"your': KR-GS/KWROUR
 'cloth': KHRO*T
 'has': HAS
 'our': OUR
 'most': PHOFT
 'gracious': TKPWRAEURBS
-'approval;"': A/PROFL STPH*FPLT KR-GS
+'approval;"': A/PROFL/STPH*FPLT/KR-GS
 'and': SKP
 'nodding': TPHOD/-G
 'contentedly': KAUPBT/-D/HREU
@@ -990,7 +990,7 @@ The Emperor's New Suit
 'at': AT
 'the': -T
 'empty': EPLT
-'loom,': HRAOPL KW-BG
+'loom,': HRAOPL/KW-BG
 'for': TPOR
 'he': HE
 'did': TK
@@ -1001,17 +1001,17 @@ The Emperor's New Suit
 'that': THA
 'he': HE
 'saw': SAU
-'nothing.': TPHOG TP-PL
+'nothing.': TPHOG/TP-PL
 'All': KPA/AUL
 'his': HEUS
-'attendants,': A/TEPBD/APBTS KW-BG
+'attendants,': A/TEPBD/APBTS/KW-BG
 'who': WHO
 'were': WR
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'looked': HRAOBGD
 'and': SKP
-'looked,': HRAOBGD KW-BG
+'looked,': HRAOBGD/KW-BG
 'and': SKP
 'although': HR*T
 'they': THE
@@ -1022,16 +1022,16 @@ The Emperor's New Suit
 'more': PHOR
 'than': THAPB
 'the': -T
-'others,': OERS KW-BG
+'others,': OERS/KW-BG
 'they': THE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'like': HRAOEUBG
 'the': -T
-'emperor,': EPL/ROR KW-BG
-'"It': KR-GS KPA/T
+'emperor,': EPL/ROR/KW-BG
+'"It': KR-GS/KPA/T
 'is': S
 'very': SRE
-'beautiful."': PWAOUFL TP-PL KR-GS
+'beautiful."': PWAOUFL/TP-PL/KR-GS
 'And': AFPBD
 'all': AUL
 'advised': SRAOEUFD
@@ -1051,21 +1051,21 @@ The Emperor's New Suit
 'soon': SAOPB
 'to': TO
 'take': TAEUBG
-'place.': PHRAEUS TP-PL
-'"It': KR-GS KPA/T
+'place.': PHRAEUS/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
-'magnificent,': PHAFPBT KW-BG
-'beautiful,': PWAOUFL KW-BG
-'excellent,"': KPHREPBT KW-BG KR-GS
+'magnificent,': PHAFPBT/KW-BG
+'beautiful,': PWAOUFL/KW-BG
+'excellent,"': KPHREPBT/KW-BG/KR-GS
 'one': WUPB
 'heard': HAERD
 'them': THEPL
-'say;': SAEU STPH*FPLT
+'say;': SAEU/STPH*FPLT
 'everybody': EFRB
 'seemed': SAOEPLD
 'to': TO
 'be': -B
-'delighted,': TKHRAOEUTD KW-BG
+'delighted,': TKHRAOEUTD/KW-BG
 'and': SKP
 'the': -T
 'emperor': EPL/ROR
@@ -1073,9 +1073,9 @@ The Emperor's New Suit
 'the': -T
 'two': TWO
 'swindlers': SWEUPBD/HRERS
-'"Imperial': KR-GS EUPL/PRAOERL
+'"Imperial': KR-GS/EUPL/PRAOERL
 'Court': KO*RT
-'weavers."': WAOEFR/-S TP-PL KR-GS
+'weavers."': WAOEFR/-S/TP-PL/KR-GS
 'The': KPA/-T
 'whole': WHOEL
 'night': TPHAOEUT
@@ -1090,18 +1090,18 @@ The Emperor's New Suit
 'was': WAS
 'to': TO
 'take': TAEUBG
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'the': -T
 'swindlers': SWEUPBD/HRERS
 'pretended': PRE/TEPBD/-D
 'to': TO
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'and': SKP
 'burned': PWURPBD
 'more': PHOR
 'than': THAPB
 'sixteen': STAOEPB
-'candles.': KAPBD/-LS TP-PL
+'candles.': KAPBD/-LS/TP-PL
 'People': KPA/PAOEPL
 'should': SHO
 'see': SAOE
@@ -1112,9 +1112,9 @@ The Emperor's New Suit
 'to': TO
 'finish': TP*EURB
 'the': -T
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'new': TPHU
-'suit.': SAOUT TP-PL
+'suit.': SAOUT/TP-PL
 'They': KPA/THE
 'pretended': PRE/TEPBD/-D
 'to': TO
@@ -1123,7 +1123,7 @@ The Emperor's New Suit
 'cloth': KHRO*T
 'from': TPR
 'the': -T
-'loom,': HRAOPL KW-BG
+'loom,': HRAOPL/KW-BG
 'and': SKP
 'worked': WORBGD
 'about': PW
@@ -1132,24 +1132,24 @@ The Emperor's New Suit
 'air': AEUR
 'with': W
 'big': PWEUG
-'scissors,': SEUS/ORS KW-BG
+'scissors,': SEUS/ORS/KW-BG
 'and': SKP
 'sewed': SWE/-D
 'with': W
 'needles': TPHAO*ELDZ
 'without': WOUT
-'thread,': THRED KW-BG
+'thread,': THRED/KW-BG
 'and': SKP
 'said': SED
 'at': AT
-'last:': HRAFT STPH-FPLT
-'"The': KR-GS KPA/-T
-'emperor's': EPL/ROR AES
+'last:': HRAFT/STPH-FPLT
+'"The': KR-GS/KPA/-T
+'emperor's': EPL/ROR/AES
 'new': TPHU
 'suit': SAOUT
 'is': S
 'ready': R-D
-'now."': TPHOU TP-PL KR-GS
+'now."': TPHOU/TP-PL/KR-GS
 'The': KPA/-T
 'emperor': EPL/ROR
 'and': SKP
@@ -1160,7 +1160,7 @@ The Emperor's New Suit
 'came': KAEUPL
 'to': TO
 'the': -T
-'hall;': HAUL STPH*FPLT
+'hall;': HAUL/STPH*FPLT
 'the': -T
 'swindlers': SWEUPBD/HRERS
 'held': HELD
@@ -1176,31 +1176,31 @@ The Emperor's New Suit
 'their': THAEUR
 'hands': HAPBDZ
 'and': SKP
-'said:': SED STPH-FPLT
-'"These': KR-GS KPA/THEZ
+'said:': SED/STPH-FPLT
+'"These': KR-GS/KPA/THEZ
 'are': R
 'the': -T
-'trousers!"': TROUZ/ERS SKHRAPL KR-GS
-'"This': KR-GS KPA/TH
+'trousers!"': TROUZ/ERS/SKHRAPL/KR-GS
+'"This': KR-GS/KPA/TH
 'is': S
 'the': -T
-'coat!"': KOET SKHRAPL KR-GS
+'coat!"': KOET/SKHRAPL/KR-GS
 'and': SKP
-'"Here': KR-GS KPA/HAOER
+'"Here': KR-GS/KPA/HAOER
 'is': S
 'the': -T
-'cloak!"': KHROEBG SKHRAPL KR-GS
+'cloak!"': KHROEBG/SKHRAPL/KR-GS
 'and': SKP
 'so': SO
-'on.': OPB TP-PL
-'"They': KR-GS KPA/THE
+'on.': OPB/TP-PL
+'"They': KR-GS/KPA/THE
 'are': R
 'all': AUL
 'as': AS
 'light': HRAOEUT
 'as': AS
 'a': AEU
-'cobweb,': KOB/WEB KW-BG
+'cobweb,': KOB/WEB/KW-BG
 'and': SKP
 'one': WUPB
 'must': PHUFT
@@ -1214,7 +1214,7 @@ The Emperor's New Suit
 'all': AUL
 'upon': POPB
 'the': -T
-'body;': PWO*ED STPH*FPLT
+'body;': PWO*ED/STPH*FPLT
 'but': PWUT
 'that': THA
 'is': S
@@ -1222,26 +1222,26 @@ The Emperor's New Suit
 'the': -T
 'beauty': PWAOUT
 'of': -F
-'them."': THEPL TP-PL KR-GS
-'"Indeed!"': KR-GS KPA/TPHAOEPBD SKHRAPL KR-GS
+'them."': THEPL/TP-PL/KR-GS
+'"Indeed!"': KR-GS/KPA/TPHAOEPBD/SKHRAPL/KR-GS
 'said': SED
 'all': AUL
 'the': -T
-'courtiers;': KORT/KWRERS STPH*FPLT
+'courtiers;': KORT/KWRERS/STPH*FPLT
 'but': PWUT
 'they': THE
 'could': KO
 'not': TPHOT
 'see': SAOE
-'anything,': TPHEUG KW-BG
+'anything,': TPHEUG/KW-BG
 'for': TPOR
 'there': THR
 'was': WAS
 'nothing': TPHOG
 'to': TO
 'be': -B
-'seen.': SAOEPB TP-PL
-'"Does': KR-GS KPA/TKOS
+'seen.': SAOEPB/TP-PL
+'"Does': KR-GS/KPA/TKOS
 'it': T
 'please': PHRES
 'your': KWROUR
@@ -1249,11 +1249,11 @@ The Emperor's New Suit
 'now': TPHOU
 'to': TO
 'graciously': TKPWRAEURBS/HREU
-'undress,"': UPB/TKRES KW-BG KR-GS
+'undress,"': UPB/TKRES/KW-BG/KR-GS
 'said': SED
 'the': -T
-'swindlers,': SWEUPBD/HRERS KW-BG
-'"that': KR-GS THA
+'swindlers,': SWEUPBD/HRERS/KW-BG
+'"that': KR-GS/THA
 'we': WE
 'may': PHAE
 'assist': S*EUFT
@@ -1268,10 +1268,10 @@ The Emperor's New Suit
 'before': PW-FR
 'the': -T
 'large': HRARPBLG
-'looking-glass?"': HRAOG H-PB TKPWHRAS H-F KR-GS
+'looking-glass?"': HRAOG/H-PB/TKPWHRAS/H-F/KR-GS
 'The': KPA/-T
 'emperor': EPL/ROR
-'undressed,': UPB/TKRES/-D KW-BG
+'undressed,': UPB/TKRES/-D/KW-BG
 'and': SKP
 'the': -T
 'swindlers': SWEUPBD/HRERS
@@ -1282,11 +1282,11 @@ The Emperor's New Suit
 'new': TPHU
 'suit': SAOUT
 'upon': POPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'one': WUPB
 'piece': PAOES
 'after': AF
-'another;': TPHOER STPH*FPLT
+'another;': TPHOER/STPH*FPLT
 'and': SKP
 'the': -T
 'emperor': EPL/ROR
@@ -1298,31 +1298,31 @@ The Emperor's New Suit
 'glass': TKPWHRAS
 'from': TPR
 'every': EF
-'side.': SAOEUD TP-PL
-'"How': KR-GS KPA/HOU
+'side.': SAOEUD/TP-PL
+'"How': KR-GS/KPA/HOU
 'well': WEL
 'they': THE
-'look!': HRAOBG SKHRAPL
+'look!': HRAOBG/SKHRAPL
 'How': KPA/HOU
 'well': WEL
 'they': THE
-'fit!"': TPEUT SKHRAPL KR-GS
+'fit!"': TPEUT/SKHRAPL/KR-GS
 'said': SED
-'all.': AUL TP-PL
-'"What': KR-GS KPA/WHA
+'all.': AUL/TP-PL
+'"What': KR-GS/KPA/WHA
 'a': AEU
 'beautiful': PWAOUFL
-'pattern!': PAERPB SKHRAPL
+'pattern!': PAERPB/SKHRAPL
 'What': KPA/WHA
 'fine': TPAOEUPB
-'colours!': KHRORS/A*U SKHRAPL
+'colours!': KHRORS/A*U/SKHRAPL
 'That': KPA/THA
 'is': S
 'a': AEU
 'magnificent': PHAFPBT
 'suit': SAOUT
 'of': -F
-'clothes!"': KHRO*ETS SKHRAPL KR-GS
+'clothes!"': KHRO*ETS/SKHRAPL/KR-GS
 'The': KPA/-T
 'master': PHAFRT
 'of': -F
@@ -1334,7 +1334,7 @@ The Emperor's New Suit
 'bearers': PWAER/*ERS
 'of': -F
 'the': -T
-'canopy,': KAPB/PEU KW-BG
+'canopy,': KAPB/PEU/KW-BG
 'which': WEU
 'was': WAS
 'to': TO
@@ -1342,22 +1342,22 @@ The Emperor's New Suit
 'carried': KAERD
 'in': TPH
 'the': -T
-'procession,': PRO/SEGS KW-BG
+'procession,': PRO/SEGS/KW-BG
 'were': WR
-'ready.': R-D TP-PL
-'"I': KR-GS EU
+'ready.': R-D/TP-PL
+'"I': KR-GS/EU
 'am': APL
-'ready,"': R-D KW-BG KR-GS
+'ready,"': R-D/KW-BG/KR-GS
 'said': SED
 'the': -T
-'emperor.': EPL/ROR TP-PL
-'"Does': KR-GS KPA/TKOS
+'emperor.': EPL/ROR/TP-PL
+'"Does': KR-GS/KPA/TKOS
 'not': TPHOT
 'my': PHEU
 'suit': SAOUT
 'fit': TPEUT
 'me': PHE
-'marvellously?"': PHAFRBL/SHREU/A*U H-F KR-GS
+'marvellously?"': PHAFRBL/SHREU/A*U/H-F/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'turned': TURPBD
@@ -1365,7 +1365,7 @@ The Emperor's New Suit
 'more': PHOR
 'to': TO
 'the': -T
-'looking-glass,': HRAOG H-PB TKPWHRAS KW-BG
+'looking-glass,': HRAOG/H-PB/TKPWHRAS/KW-BG
 'that': THA
 'people': PAOEPL
 'should': SHO
@@ -1373,15 +1373,15 @@ The Emperor's New Suit
 'he': HE
 'admired': AD/PHAOEURD
 'his': HEUS
-'garments.': TKPWARPLTS TP-PL
+'garments.': TKPWARPLTS/TP-PL
 'The': KPA/-T
-'chamberlains,': KHAEURPL/TK-LS/HRAEUPB/-S KW-BG
+'chamberlains,': KHAEURPL/TK-LS/HRAEUPB/-S/KW-BG
 'who': WHO
 'were': WR
 'to': TO
 'carry': KAER
 'the': -T
-'train,': TRAEUPB KW-BG
+'train,': TRAEUPB/KW-BG
 'stretched': STREFPD
 'their': THAEUR
 'hands': HAPBDZ
@@ -1394,7 +1394,7 @@ The Emperor's New Suit
 'lifted': HREUFTD
 'up': UP
 'a': AEU
-'train,': TRAEUPB KW-BG
+'train,': TRAEUPB/KW-BG
 'and': SKP
 'pretended': PRE/TEPBD/-D
 'to': TO
@@ -1402,7 +1402,7 @@ The Emperor's New Suit
 'something': S-G
 'in': TPH
 'their': THAEUR
-'hands;': HAPBDZ STPH*FPLT
+'hands;': HAPBDZ/STPH*FPLT
 'they': THE
 'did': TK
 'not': TPHOT
@@ -1415,7 +1415,7 @@ The Emperor's New Suit
 'could': KO
 'not': TPHOT
 'see': SAOE
-'anything.': TPHEUG TP-PL
+'anything.': TPHEUG/TP-PL
 'The': KPA/-T
 'emperor': EPL/ROR
 'marched': PHAFRPBD
@@ -1425,7 +1425,7 @@ The Emperor's New Suit
 'under': TPH-PB
 'the': -T
 'beautiful': PWAOUFL
-'canopy,': KAPB/PEU KW-BG
+'canopy,': KAPB/PEU/KW-BG
 'and': SKP
 'all': AUL
 'who': WHO
@@ -1439,25 +1439,25 @@ The Emperor's New Suit
 'of': -F
 'the': -T
 'windows': WOEUPBDZ
-'exclaimed:': SKHRAEUPLD STPH-FPLT
-'"Indeed,': KR-GS KPA/TPHAOEPBD KW-BG
+'exclaimed:': SKHRAEUPLD/STPH-FPLT
+'"Indeed,': KR-GS/KPA/TPHAOEPBD/KW-BG
 'the': -T
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'new': TPHU
 'suit': SAOUT
 'is': S
-'incomparable!': EUPB/KPARBL SKHRAPL
+'incomparable!': EUPB/KPARBL/SKHRAPL
 'What': KPA/WHA
 'a': AEU
 'long': HROPBG
 'train': TRAEUPB
 'he': HE
-'has!': HAS SKHRAPL
+'has!': HAS/SKHRAPL
 'How': KPA/HOU
 'well': WEL
 'it': T
 'fits': TPEUTS
-'him!"': HEUPL SKHRAPL KR-GS
+'him!"': HEUPL/SKHRAPL/KR-GS
 'Nobody': KPA/TPHOEB
 'wished': WEURBD
 'to': TO
@@ -1466,7 +1466,7 @@ The Emperor's New Suit
 'know': TPHOE
 'he': HE
 'saw': SAU
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'for': TPOR
 'then': THEPB
 'he': HE
@@ -1479,28 +1479,28 @@ The Emperor's New Suit
 'office': OFS
 'or': OR
 'too': TAO
-'stupid.': STAOUPD TP-PL
+'stupid.': STAOUPD/TP-PL
 'Never': KPA/TPHEFR
-'emperor's': EPL/ROR AES
+'emperor's': EPL/ROR/AES
 'clothes': KHRO*ETS
 'were': WR
 'more': PHOR
-'admired.': AD/PHAOEURD TP-PL
-'"But': KR-GS KPA/PWUT
+'admired.': AD/PHAOEURD/TP-PL
+'"But': KR-GS/KPA/PWUT
 'he': HE
 'has': HAS
 'nothing': TPHOG
 'on': OPB
 'at': AT
-'all,"': AUL KW-BG KR-GS
+'all,"': AUL/KW-BG/KR-GS
 'said': SED
 'a': AEU
 'little': HREUL
 'child': KHAOEULD
 'at': AT
-'last.': HRAFT TP-PL
-'"Good': KR-GS KPA/TKPWAOD
-'heavens!': HEFPBS SKHRAPL
+'last.': HRAFT/TP-PL
+'"Good': KR-GS/KPA/TKPWAOD
+'heavens!': HEFPBS/SKHRAPL
 'listen': HREUFPB
 'to': TO
 'the': -T
@@ -1508,10 +1508,10 @@ The Emperor's New Suit
 'of': -F
 'an': APB
 'innocent': TPH-PBT
-'child,"': KHAOEULD KW-BG KR-GS
+'child,"': KHAOEULD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'one': WUPB
 'whispered': WHEUS/PERD
@@ -1522,20 +1522,20 @@ The Emperor's New Suit
 'the': -T
 'child': KHAOEULD
 'had': H
-'said.': SED TP-PL
-'"But': KR-GS KPA/PWUT
+'said.': SED/TP-PL
+'"But': KR-GS/KPA/PWUT
 'he': HE
 'has': HAS
 'nothing': TPHOG
 'on': OPB
 'at': AT
-'all,"': AUL KW-BG KR-GS
+'all,"': AUL/KW-BG/KR-GS
 'cried': KRAOEUD
 'at': AT
 'last': HRAFT
 'the': -T
 'whole': WHOEL
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'That': KPA/THA
 'made': PHAED
 'a': AEU
@@ -1543,7 +1543,7 @@ The Emperor's New Suit
 'impression': EUPL/PREGS
 'upon': POPB
 'the': -T
-'emperor,': EPL/ROR KW-BG
+'emperor,': EPL/ROR/KW-BG
 'for': TPOR
 'it': T
 'seemed': SAOEPLD
@@ -1552,20 +1552,20 @@ The Emperor's New Suit
 'that': THA
 'they': THE
 'were': WR
-'right;': RAOEUT STPH*FPLT
+'right;': RAOEUT/STPH*FPLT
 'but': PWUT
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-'"Now': KR-GS KPA/TPHOU
+'himself,': HEUPLS/KW-BG
+'"Now': KR-GS/KPA/TPHOU
 'I': EU
 'must': PHUFT
 'bear': PWAER
 'up': UP
 'to': TO
 'the': -T
-'end."': EPBD TP-PL KR-GS
+'end."': EPBD/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'chamberlains': KHAEURPL/TK-LS/HRAEUPB/-S
@@ -1573,7 +1573,7 @@ The Emperor's New Suit
 'with': W
 'still': STEUL
 'greater': TKPWRAERT
-'dignity,': TKEUG/TEU KW-BG
+'dignity,': TKEUG/TEU/KW-BG
 'as': AS
 'if': TP
 'they': THE
@@ -1583,4 +1583,4 @@ The Emperor's New Suit
 'which': WEU
 'did': TK
 'not': TPHOT
-'exist.': KPEUFT TP-PL
+'exist.': KPEUFT/TP-PL

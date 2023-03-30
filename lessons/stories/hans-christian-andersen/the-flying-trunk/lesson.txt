@@ -18,7 +18,7 @@ The Flying Trunk
 'whole': WHOEL
 'street': STRAOET
 'with': W
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'and': SKP
 'would': WO
 'even': AOEPB
@@ -29,13 +29,13 @@ The Flying Trunk
 'for': TPOR
 'a': AEU
 'small': SPHAL
-'alley.': AL/KWREU TP-PL
+'alley.': AL/KWREU/TP-PL
 'But': KPA/PWUT
 'he': HE
 'did': TK
 'not': TPHOT
 'do': TKO
-'so;': SO STPH*FPLT
+'so;': SO/STPH*FPLT
 'he': HE
 'knew': TPHAOU
 'the': -T
@@ -49,11 +49,11 @@ The Flying Trunk
 'it': T
 'in': TPH
 'this': TH
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'So': KPA/SO
 'clever': KHREFR
 'was': WAS
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'that': THA
 'every': EF
 'shilling': SHEULG
@@ -63,19 +63,19 @@ The Flying Trunk
 'brought': PWRAUT
 'him': HEUPL
 'a': AEU
-'crown;': KROUPB STPH*FPLT
+'crown;': KROUPB/STPH*FPLT
 'and': SKP
 'so': SO
 'he': HE
 'continued': T-PBD
 'till': TEUL
 'he': HE
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL
 'His': KPA/HEUS
 'son': SOPB
 'inherited': EUPB/HERTD
 'his': HEUS
-'wealth,': W*ELT KW-BG
+'wealth,': W*ELT/KW-BG
 'and': SKP
 'he': HE
 'lived': HREUFD
@@ -83,21 +83,21 @@ The Flying Trunk
 'merry': PHER/REU
 'life': HRAOEUF
 'with': W
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'he': HE
 'went': WEPBT
 'to': TO
 'a': AEU
 'masquerade': PHAS/KRAEUD
 'every': EF
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'made': PHAED
 'kites': KAOEUT/-S
 'out': OUT
 'of': -F
 'five': TPAOEUF
 'pound': POUPBD
-'notes,': TPHOETS KW-BG
+'notes,': TPHOETS/KW-BG
 'and': SKP
 'threw': THRAOU
 'pieces': PAOEFS
@@ -108,13 +108,13 @@ The Flying Trunk
 'sea': SAE
 'instead': STPHED
 'of': -F
-'stones,': STOEPBS KW-BG
+'stones,': STOEPBS/KW-BG
 'making': PHAEUG
 'ducks': TKUBGZ
 'and': SKP
 'drakes': TKRAEUBG/-S
 'of': -F
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'In': KPA/TPH
 'this': TH
 'manner': PHAERPB
@@ -123,7 +123,7 @@ The Flying Trunk
 'lost': HRO*S
 'all': AUL
 'his': HEUS
-'money.': PHUPB TP-PL
+'money.': PHUPB/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE
@@ -134,20 +134,20 @@ The Flying Trunk
 'a': AEU
 'pair': PAEUR
 'of': -F
-'slippers,': SHREUP/ERS KW-BG
+'slippers,': SHREUP/ERS/KW-BG
 'an': APB
 'old': OLD
-'dressing-gown,': TKREFG H-PB TKPWOUPB KW-BG
+'dressing-gown,': TKREFG/H-PB/TKPWOUPB/KW-BG
 'and': SKP
 'four': TPOUR
-'shillings.': SHEUL/-GS TP-PL
+'shillings.': SHEUL/-GS/TP-PL
 'And': AFPBD
 'now': TPHOU
 'all': AUL
 'his': HEUS
 'friends': TPREPBDZ
 'deserted': STK*ERT/-D
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'they': THE
 'could': KO
 'not': TPHOT
@@ -156,15 +156,15 @@ The Flying Trunk
 'him': HEUPL
 'in': TPH
 'the': -T
-'streets;': STRAOETS STPH*FPLT
+'streets;': STRAOETS/STPH*FPLT
 'but': PWUT
 'one': WUPB
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'who': WHO
 'was': WAS
 'very': SRE
-'good-natured,': TKPWAOD H-PB TPHAEURTD KW-BG
+'good-natured,': TKPWAOD/H-PB/TPHAEURTD/KW-BG
 'sent': SEPBT
 'him': HEUPL
 'an': APB
@@ -172,21 +172,21 @@ The Flying Trunk
 'trunk': TRUPBG
 'with': W
 'this': TH
-'message,': PHEPBLG KW-BG
-'"Pack': KR-GS KPA/PABG
-'up!"': UP SKHRAPL KR-GS
-'"Yes,"': KR-GS KPA/KWRE KW-BG KR-GS
+'message,': PHEPBLG/KW-BG
+'"Pack': KR-GS/KPA/PABG
+'up!"': UP/SKHRAPL/KR-GS
+'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"it': KR-GS T
+'said,': SED/KW-BG
+'"it': KR-GS/T
 'is': S
 'all': AUL
 'very': SRE
 'well': WEL
 'to': TO
 'say': SAEU
-''pack': AE PABG
-'up,'"': UP KW-BG AE KR-GS
+''pack': AE/PABG
+'up,'"': UP/KW-BG/AE/KR-GS
 'but': PWUT
 'he': HE
 'had': H
@@ -194,20 +194,20 @@ The Flying Trunk
 'left': HREFT
 'to': TO
 'pack': PABG
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'therefore': TH-FR
 'he': HE
 'seated': SAOETD
 'himself': HEUPLS
 'in': TPH
 'the': -T
-'trunk.': TRUPBG TP-PL
+'trunk.': TRUPBG/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
 'very': SRE
 'wonderful': WUFL
-'trunk;': TRUPBG STPH*FPLT
+'trunk;': TRUPBG/STPH*FPLT
 'no': TPHO
 'sooner': SAORPB
 'did': TK
@@ -221,7 +221,7 @@ The Flying Trunk
 'the': -T
 'trunk': TRUPBG
 'could': KO
-'fly.': TPHRAOEU TP-PL
+'fly.': TPHRAOEU/TP-PL
 'He': KPA/HE
 'shut': SHUT
 'the': -T
@@ -229,7 +229,7 @@ The Flying Trunk
 'and': SKP
 'pressed': PREFD
 'the': -T
-'lock,': HROBG KW-BG
+'lock,': HROBG/KW-BG
 'when': WHEPB
 'away': WA*EU
 'flew': TPHRAOU
@@ -240,28 +240,28 @@ The Flying Trunk
 'chimney': KHEUPL/TPHEU
 'with': W
 'the': -T
-'merchant's': PHEFRPBT AES
+'merchant's': PHEFRPBT/AES
 'son': SOPB
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'right': RAOEUT
 'up': UP
 'into': TPHAO
 'the': -T
-'clouds.': KHROUDZ TP-PL
+'clouds.': KHROUDZ/TP-PL
 'Whenever': KPA/WHEFR
 'the': -T
 'bottom': PWOPLT
 'of': -F
 'the': -T
 'trunk': TRUPBG
-'cracked,': KRABGD KW-BG
+'cracked,': KRABGD/KW-BG
 'he': HE
 'was': WAS
 'in': TPH
 'a': AEU
 'great': TKPWRAET
-'fright,': TPRAOEUT KW-BG
+'fright,': TPRAOEUT/KW-BG
 'for': TPOR
 'if': TP
 'the': -T
@@ -278,8 +278,8 @@ The Flying Trunk
 'somerset': HRO*ER/S*P/O*/PH*/*E/R*/S*/*E/T*
 'over': OEFR
 'the': -T
-'trees.': TRAOES TP-PL
-'However,': KPA/HOUF KW-BG
+'trees.': TRAOES/TP-PL
+'However,': KPA/HOUF/KW-BG
 'he': HE
 'got': TKPWOT
 'safely': SAEUFL
@@ -290,7 +290,7 @@ The Flying Trunk
 'the': -T
 'land': HRAPBD
 'of': -F
-'Turkey.': T*UR/KEU TP-PL
+'Turkey.': T*UR/KEU/TP-PL
 'He': KPA/HE
 'hid': HEUD
 'the': -T
@@ -301,19 +301,19 @@ The Flying Trunk
 'under': TPH-PB
 'some': SOPL
 'dry': TKRAOEU
-'leaves,': HREFS KW-BG
+'leaves,': HREFS/KW-BG
 'and': SKP
 'then': THEPB
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'town:': TOUPB STPH-FPLT
+'town:': TOUPB/STPH-FPLT
 'he': HE
 'could': KO
 'so': SO
 'this': TH
 'very': SRE
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'for': TPOR
 'the': -T
 'Turks': TURBGS
@@ -322,13 +322,13 @@ The Flying Trunk
 'about': PW
 'dressed': TKREFD
 'in': TPH
-'dressing-gowns': TKREFG H-PB TKPWOUPBS
+'dressing-gowns': TKREFG/H-PB/TKPWOUPBS
 'and': SKP
-'slippers,': SHREUP/ERS KW-BG
+'slippers,': SHREUP/ERS/KW-BG
 'as': AS
 'he': HE
 'was': WAS
-'himself.': HEUPLS TP-PL
+'himself.': HEUPLS/TP-PL
 'He': KPA/HE
 'happened': HAPD
 'to': TO
@@ -338,35 +338,35 @@ The Flying Trunk
 'with': W
 'a': AEU
 'little': HREUL
-'child.': KHAOEULD TP-PL
-'"I': KR-GS EU
-'say,': SAEU KW-BG
+'child.': KHAOEULD/TP-PL
+'"I': KR-GS/EU
+'say,': SAEU/KW-BG
 'you': U
 'Turkish': TUR/KEURB
-'nurse,"': TPHURS KW-BG KR-GS
+'nurse,"': TPHURS/KW-BG/KR-GS
 'cried': KRAOEUD
-'he,': HE KW-BG
-'"what': KR-GS WHA
+'he,': HE/KW-BG
+'"what': KR-GS/WHA
 'castle': KAFL
 'is': S
 'that': THA
 'near': TPHAOER
 'the': -T
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'with': W
 'the': -T
 'windows': WOEUPBDZ
 'placed': PHRAEUFD
 'so': SO
-'high?"': HAOEU H-F KR-GS
-'"The': KR-GS KPA/-T
+'high?"': HAOEU/H-F/KR-GS
+'"The': KR-GS/KPA/-T
 'king's': KEUPBG/AES
 'daughter': TKAUR
 'lives': HREUFS
-'there,"': THR KW-BG KR-GS
+'there,"': THR/KW-BG/KR-GS
 'she': SHE
-'replied;': RE/PHRAOEUD STPH*FPLT
-'"it': KR-GS T
+'replied;': RE/PHRAOEUD/STPH*FPLT
+'"it': KR-GS/T
 'has': HAS
 'been': PW-PB
 'prophesied': xxx prophesied
@@ -378,7 +378,7 @@ The Flying Trunk
 'unhappy': UPB/HAEP
 'about': PW
 'a': AEU
-'lover,': HRUFR KW-BG
+'lover,': HRUFR/KW-BG
 'and': SKP
 'therefore': TH-FR
 'no': TPHO
@@ -387,32 +387,32 @@ The Flying Trunk
 'allowed': HRO*UD
 'to': TO
 'visit': SREUFT
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'unless': TPH-LS
 'the': -T
 'king': KEUPBG
 'and': SKP
 'queen': KWAOEPB
 'are': R
-'present."': PREPBT TP-PL KR-GS
-'"Thank': KR-GS KPA/THAPBG
-'you,"': U KW-BG KR-GS
+'present."': PREPBT/TP-PL/KR-GS
+'"Thank': KR-GS/KPA/THAPBG
+'you,"': U/KW-BG/KR-GS
 'said': SED
 'the': -T
-'merchant's': PHEFRPBT AES
-'son.': SOPB TP-PL
+'merchant's': PHEFRPBT/AES
+'son.': SOPB/TP-PL
 'So': KPA/SO
 'he': HE
 'went': WEPBT
 'back': PWABG
 'to': TO
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'seated': SAOETD
 'himself': HEUPLS
 'in': TPH
 'his': HEUS
-'trunk,': TRUPBG KW-BG
+'trunk,': TRUPBG/KW-BG
 'flew': TPHRAOU
 'up': UP
 'to': TO
@@ -420,7 +420,7 @@ The Flying Trunk
 'roof': RAOF
 'of': -F
 'the': -T
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'and': SKP
 'crept': KREPT
 'through': THRU
@@ -428,14 +428,14 @@ The Flying Trunk
 'window': WOEUPBD
 'into': TPHAO
 'the': -T
-'princess's': PREUPB/SES AES
-'room.': RAOPL TP-PL
+'princess's': PREUPB/SES/AES
+'room.': RAOPL/TP-PL
 'She': KPA/SHE
 'lay': HRAEU
 'on': OPB
 'the': -T
 'sofa': SOEF/A
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -443,21 +443,21 @@ The Flying Trunk
 'beautiful': PWAOUFL
 'that': THA
 'the': -T
-'merchant's': PHEFRPBT AES
+'merchant's': PHEFRPBT/AES
 'son': SOPB
 'could': KO
 'not': TPHOT
 'help': HEP
 'kissing': KEUFG
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'she': SHE
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'and': SKP
 'was': WAS
 'very': SRE
 'much': PHUFP
-'frightened;': TPRAOEUFPBD STPH*FPLT
+'frightened;': TPRAOEUFPBD/STPH*FPLT
 'but': PWUT
 'he': HE
 'told': TOLD
@@ -466,7 +466,7 @@ The Flying Trunk
 'was': WAS
 'a': AEU
 'Turkish': TUR/KEURB
-'angel,': APB/SKWREL KW-BG
+'angel,': APB/SKWREL/KW-BG
 'who': WHO
 'had': H
 'come': KOPL
@@ -476,12 +476,12 @@ The Flying Trunk
 'air': AEUR
 'to': TO
 'see': SAOE
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'which': WEU
 'pleased': PHREFD
 'her': HER
 'very': SRE
-'much.': PHUFP TP-PL
+'much.': PHUFP/TP-PL
 'He': KPA/HE
 'sat': SAT
 'down': TKOUPB
@@ -491,7 +491,7 @@ The Flying Trunk
 'and': SKP
 'talked': TAUBGD
 'to': TO
-'her:': HER STPH-FPLT
+'her:': HER/STPH-FPLT
 'he': HE
 'said': SED
 'her': HER
@@ -500,7 +500,7 @@ The Flying Trunk
 'like': HRAOEUBG
 'beautiful': PWAOUFL
 'dark': TKARBG
-'lakes,': HRAEUBGS KW-BG
+'lakes,': HRAEUBGS/KW-BG
 'in': TPH
 'which': WEU
 'the': -T
@@ -509,7 +509,7 @@ The Flying Trunk
 'about': PW
 'like': HRAOEUBG
 'little': HREUL
-'mermaids,': PHER/PHAEUDZ KW-BG
+'mermaids,': PHER/PHAEUDZ/KW-BG
 'and': SKP
 'he': HE
 'told': TOLD
@@ -520,14 +520,14 @@ The Flying Trunk
 'was': WAS
 'a': AEU
 'snowy': STPHOE/WEU
-'mountain,': PHOUPB/TAEUPB KW-BG
+'mountain,': PHOUPB/TAEUPB/KW-BG
 'which': WEU
 'contained': KAUPB/TAEUPBD
 'splendid': SPHREPB/TKEUD
 'halls': HAULS
 'full': TPUL
 'of': -F
-'pictures.': P*EUFPS TP-PL
+'pictures.': P*EUFPS/TP-PL
 'And': AFPBD
 'then': THEPB
 'he': HE
@@ -544,11 +544,11 @@ The Flying Trunk
 'children': KHEURPB
 'from': TPR
 'the': -T
-'rivers.': REUFRS TP-PL
+'rivers.': REUFRS/TP-PL
 'These': KPA/THEZ
 'were': WR
 'delightful': TKHRAOEUT/-FL
-'stories;': STOERS STPH*FPLT
+'stories;': STOERS/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -559,19 +559,19 @@ The Flying Trunk
 'she': SHE
 'would': WO
 'marry': PHAER
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'she': SHE
 'consented': KEFPBT/-D
-'immediately.': PHAOELD TP-PL
-'"But': KR-GS KPA/PWUT
+'immediately.': PHAOELD/TP-PL
+'"But': KR-GS/KPA/PWUT
 'you': U
 'must': PHUFT
 'come': KOPL
 'on': OPB
-'Saturday,"': SATD KW-BG KR-GS
+'Saturday,"': SATD/KW-BG/KR-GS
 'she': SHE
-'said;': SED STPH*FPLT
-'"for': KR-GS TPOR
+'said;': SED/STPH*FPLT
+'"for': KR-GS/TPOR
 'then': THEPB
 'the': -T
 'king': KEUPBG
@@ -581,7 +581,7 @@ The Flying Trunk
 'take': TAEUBG
 'tea': TAE
 'with': W
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'They': KPA/THE
 'will': HR
 'be': -B
@@ -598,7 +598,7 @@ The Flying Trunk
 'marry': PHAER
 'a': AEU
 'Turkish': TUR/KEURB
-'angel;': APB/SKWREL STPH*FPLT
+'angel;': APB/SKWREL/STPH*FPLT
 'but': PWUT
 'you': U
 'must': PHUFT
@@ -610,7 +610,7 @@ The Flying Trunk
 'stories': STOERS
 'to': TO
 'tell': TEL
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'for': TPOR
 'my': PHEU
 'parents': PARPBTS
@@ -620,7 +620,7 @@ The Flying Trunk
 'stories': STOERS
 'better': PWOERT
 'than': THAPB
-'anything.': TPHEUG TP-PL
+'anything.': TPHEUG/TP-PL
 'My': KPA/PHEU
 'mother': PHOER
 'prefers': PREFRS
@@ -629,22 +629,22 @@ The Flying Trunk
 'is': S
 'deep': TKAOEP
 'and': SKP
-'moral;': PHORL STPH*FPLT
+'moral;': PHORL/STPH*FPLT
 'but': PWUT
 'my': PHEU
 'father': TPAER
 'likes': HRAOEUBGS
 'something': S-G
-'funny,': TPAOUPB KW-BG
+'funny,': TPAOUPB/KW-BG
 'to': TO
 'make': PHAEUBG
 'him': HEUPL
-'laugh."': HRAF TP-PL KR-GS
-'"Very': KR-GS KPA/SRE
-'well,"': WEL KW-BG KR-GS
+'laugh."': HRAF/TP-PL/KR-GS
+'"Very': KR-GS/KPA/SRE
+'well,"': WEL/KW-BG/KR-GS
 'he': HE
-'replied;': RE/PHRAOEUD STPH*FPLT
-'"I': KR-GS EU
+'replied;': RE/PHRAOEUD/STPH*FPLT
+'"I': KR-GS/EU
 'shall': SHAL
 'bring': PWREU
 'you': U
@@ -654,11 +654,11 @@ The Flying Trunk
 'portion': PORGS
 'than': THAPB
 'a': AEU
-'story,"': STOER KW-BG KR-GS
+'story,"': STOER/KW-BG/KR-GS
 'and': SKP
 'so': SO
 'they': THE
-'parted.': PARTD TP-PL
+'parted.': PARTD/TP-PL
 'But': KPA/PWUT
 'the': -T
 'princess': PREUPB/SES
@@ -671,12 +671,12 @@ The Flying Trunk
 'studded': STUD/-D
 'with': W
 'gold': TKPWOELD
-'coins,': KOEUPBS KW-BG
+'coins,': KOEUPBS/KW-BG
 'and': SKP
 'these': THEZ
 'he': HE
 'could': KO
-'use.': AOUS TP-PL
+'use.': AOUS/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'flew': TPHRAOU
@@ -688,73 +688,73 @@ The Flying Trunk
 'bought': PWAUT
 'a': AEU
 'new': TPHU
-'dressing-gown,': TKREFG H-PB TKPWOUPB KW-BG
+'dressing-gown,': TKREFG/H-PB/TKPWOUPB/KW-BG
 'and': SKP
 'afterwards': A*FRDZ
 'returned': RURPBD
 'to': TO
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'where': W-R
 'he': HE
 'composed': KPOEFD
 'a': AEU
-'story,': STOER KW-BG
+'story,': STOER/KW-BG
 'so': SO
 'as': AS
 'to': TO
 'be': -B
 'ready': R-D
 'for': TPOR
-'Saturday,': SATD KW-BG
+'Saturday,': SATD/KW-BG
 'which': WEU
 'was': WAS
 'no': TPHO
 'easy': EZ
-'matter.': PHAERT TP-PL
+'matter.': PHAERT/TP-PL
 'It': KPA/T
 'was': WAS
 'ready': R-D
 'however': HOUF
 'by': PWEU
-'Saturday,': SATD KW-BG
+'Saturday,': SATD/KW-BG
 'when': WHEPB
 'he': HE
 'went': WEPBT
 'to': TO
 'see': SAOE
 'the': -T
-'princess.': PREUPB/SES TP-PL
+'princess.': PREUPB/SES/TP-PL
 'The': KPA/-T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'and': SKP
 'the': -T
 'whole': WHOEL
-'court,': KORT KW-BG
+'court,': KORT/KW-BG
 'were': WR
 'at': AT
 'tea': TAE
 'with': W
 'the': -T
-'princess;': PREUPB/SES STPH*FPLT
+'princess;': PREUPB/SES/STPH*FPLT
 'and': SKP
 'he': HE
 'was': WAS
 'received': SAOEFD
 'with': W
 'great': TKPWRAET
-'politeness.': PHRAOEUT/-PBS TP-PL
-'"Will': KR-GS W*EUL
+'politeness.': PHRAOEUT/-PBS/TP-PL
+'"Will': KR-GS/W*EUL
 'you': U
 'tell': TEL
 'us': US
 'a': AEU
-'story?"': STOER H-F KR-GS
+'story?"': STOER/H-F/KR-GS
 'said': SED
 'the': -T
-'queen,—"one': KWAOEPB KW-BG EPL/TKA*RB KR-GS WUPB
+'queen,—"one': KWAOEPB/KW-BG/EPL/TKA*RB/KR-GS/WUPB
 'that': THA
 'is': S
 'instructive': STRUBGT/EUF
@@ -762,8 +762,8 @@ The Flying Trunk
 'full': TPUL
 'of': -F
 'deep': TKAOEP
-'learning."': HRERPBG TP-PL KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'learning."': HRERPBG/TP-PL/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'but': PWUT
 'with': W
 'something': S-G
@@ -771,23 +771,23 @@ The Flying Trunk
 'it': T
 'to': TO
 'laugh': HRAF
-'at,"': AT KW-BG KR-GS
+'at,"': AT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'king.': KEUPBG TP-PL
-'"Certainly,"': KR-GS KPA/SERPBL KW-BG KR-GS
+'king.': KEUPBG/TP-PL
+'"Certainly,"': KR-GS/KPA/SERPBL/KW-BG/KR-GS
 'he': HE
-'replied,': RE/PHRAOEUD KW-BG
+'replied,': RE/PHRAOEUD/KW-BG
 'and': SKP
 'commenced': KPHEPBS/-D
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'asking': SK-G
 'them': THEPL
 'to': TO
 'listen': HREUFPB
-'attentively.': A/TEPBT/EUFL TP-PL
-'"There': KR-GS KPA/THR
+'attentively.': A/TEPBT/EUFL/TP-PL
+'"There': KR-GS/KPA/THR
 'was': WAS
 'once': WUPBS
 'a': AEU
@@ -801,65 +801,65 @@ The Flying Trunk
 'of': -F
 'their': THAEUR
 'high': HAOEU
-'descent.': TKE/SEPBT TP-PL
+'descent.': TKE/SEPBT/TP-PL
 'Their': KPA/THAEUR
 'genealogical': SKWRAO*EPB/HR-L
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'that': THA
 'is,': S-RBGS
 'a': AEU
 'large': HRARPBLG
-'pine-tree': PAOEUPB H-PB TRAOE
+'pine-tree': PAOEUPB/H-PB/TRAOE
 'from': TPR
 'which': WEU
 'they': THE
 'had': H
 'been': PW-PB
-'cut,': KUT KW-BG
+'cut,': KUT/KW-BG
 'was': WAS
 'at': AT
 'one': WUPB
 'time': TAOEUPL
 'a': AEU
-'large,': HRARPBLG KW-BG
+'large,': HRARPBLG/KW-BG
 'old': OLD
 'tree': TRAOE
 'in': TPH
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'The': KPA/-T
 'matches': PHAFPS
 'now': TPHOU
 'lay': HRAEU
 'between': TWAOEPB
 'a': AEU
-'tinder-box': TEUPBD/*ER H-PB PWOBGS
+'tinder-box': TEUPBD/*ER/H-PB/PWOBGS
 'and': SKP
 'an': APB
 'old': OLD
 'iron': AOEURPB
-'saucepan,': SAUS/PAPB KW-BG
+'saucepan,': SAUS/PAPB/KW-BG
 'and': SKP
 'were': WR
 'talking': TAUG
 'about': PW
 'their': THAEUR
 'youthful': KWRAO*UT/-FL
-'days.': TKAEUS TP-PL
-''Ah!': AE KPA/HA*E SKHRAPL
+'days.': TKAEUS/TP-PL
+''Ah!': AE/KPA/HA*E/SKHRAPL
 'then': THEPB
 'we': WE
 'grew': TKPWRAOU
 'on': OPB
 'the': -T
 'green': TKPWRAOEPB
-'boughs,': PWO*U/-S KW-BG
+'boughs,': PWO*U/-S/KW-BG
 'and': SKP
 'were': WR
 'as': AS
 'green': TKPWRAOEPB
 'as': AS
-'they;': THE STPH*FPLT
+'they;': THE/STPH*FPLT
 'every': EF
 'morning': PHORPBG
 'and': SKP
@@ -871,16 +871,16 @@ The Flying Trunk
 'diamond': TKAOEUPLD
 'drops': TKROPS
 'of': -F
-'dew.': TKAO*U TP-PL
+'dew.': TKAO*U/TP-PL
 'Whenever': KPA/WHEFR
 'the': -T
 'sun': SUPB
-'shone,': SHO*EPB KW-BG
+'shone,': SHO*EPB/KW-BG
 'we': WE
 'felt': TPELT
 'his': HEUS
 'warm': WARPL
-'rays,': RA*ES KW-BG
+'rays,': RA*ES/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -892,13 +892,13 @@ The Flying Trunk
 'us': US
 'as': AS
 'they': THE
-'sung.': SUPBG TP-PL
+'sung.': SUPBG/TP-PL
 'We': KPA/WE
 'knew': TPHAOU
 'that': THA
 'we': WE
 'were': WR
-'rich,': REUFP KW-BG
+'rich,': REUFP/KW-BG
 'for': TPOR
 'the': -T
 'other': OER
@@ -909,7 +909,7 @@ The Flying Trunk
 'green': TKPWRAOEPB
 'dress': TKRES
 'in': TPH
-'summer,': SAOURPL KW-BG
+'summer,': SAOURPL/KW-BG
 'but': PWUT
 'our': OUR
 'family': TPAEPL
@@ -919,25 +919,25 @@ The Flying Trunk
 'array': A/RAEU
 'themselves': TH*EPLS
 'in': TPH
-'green,': TKPWRAOEPB KW-BG
+'green,': TKPWRAOEPB/KW-BG
 'summer': SAOURPL
 'and': SKP
-'winter.': WEURPBT TP-PL
+'winter.': WEURPBT/TP-PL
 'But': KPA/PWUT
 'the': -T
-'wood-cutter': WAOD H-PB KAOURT
-'came,': KAEUPL KW-BG
+'wood-cutter': WAOD/H-PB/KAOURT
+'came,': KAEUPL/KW-BG
 'like': HRAOEUBG
 'a': AEU
 'great': TKPWRAET
-'revolution,': REFGS KW-BG
+'revolution,': REFGS/KW-BG
 'and': SKP
 'our': OUR
 'family': TPAEPL
 'fell': TPEL
 'under': TPH-PB
 'the': -T
-'axe.': ABGS TP-PL
+'axe.': ABGS/TP-PL
 'The': KPA/-T
 'head': HED
 'of': -F
@@ -952,7 +952,7 @@ The Flying Trunk
 'a': AEU
 'very': SRE
 'fine': TPAOEUPB
-'ship,': SHEUP KW-BG
+'ship,': SHEUP/KW-BG
 'and': SKP
 'can': K
 'sail': SAEUL
@@ -961,7 +961,7 @@ The Flying Trunk
 'world': WORLD
 'when': WHEPB
 'he': HE
-'will.': HR TP-PL
+'will.': HR/TP-PL
 'The': KPA/-T
 'other': OER
 'branches': PWRAFRPBS
@@ -972,7 +972,7 @@ The Flying Trunk
 'taken': TAEPB
 'to': TO
 'different': TKEUFRT
-'places,': PHRAEUFS KW-BG
+'places,': PHRAEUFS/KW-BG
 'and': SKP
 'our': OUR
 'office': OFS
@@ -984,12 +984,12 @@ The Flying Trunk
 'light': HRAOEUT
 'for': TPOR
 'common': KPHOPB
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'This': KPA/TH
 'is': S
 'how': HOU
 'such': SUFP
-'high-born': HAOEU H-PB PWORPB
+'high-born': HAOEU/H-PB/PWORPB
 'people': PAOEPL
 'as': AS
 'we': WE
@@ -998,24 +998,24 @@ The Flying Trunk
 'be': -B
 'in': TPH
 'a': AEU
-'kitchen.'': K-FP TP-PL AE
-'"'Mine': KR-GS AE KPA/PHAOEUPB
+'kitchen.'': K-FP/TP-PL/AE
+'"'Mine': KR-GS/AE/KPA/PHAOEUPB
 'has': HAS
 'been': PW-PB
 'a': AEU
 'very': SRE
 'different': TKEUFRT
-'fate,'': TPAEUT KW-BG AE
+'fate,'': TPAEUT/KW-BG/AE
 'said': SED
 'the': -T
 'iron': AOEURPB
-'pot,': POT KW-BG
+'pot,': POT/KW-BG
 'which': WEU
 'stood': STAOD
 'by': PWEU
 'the': -T
-'matches;': PHAFPS STPH*FPLT
-''from': AE TPR
+'matches;': PHAFPS/STPH*FPLT
+''from': AE/TPR
 'my': PHEU
 'first': TPEUFRT
 'entrance': SPWRAPBS
@@ -1029,21 +1029,21 @@ The Flying Trunk
 'to': TO
 'cooking': KAOG
 'and': SKP
-'scouring.': SKOUR/-G TP-PL
+'scouring.': SKOUR/-G/TP-PL
 'I': EU
 'am': APL
 'the': -T
 'first': TPEUFRT
 'in': TPH
 'this': TH
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'when': WHEPB
 'anything': TPHEUG
 'solid': SOLD
 'or': OR
 'useful': AOUFL
 'is': S
-'required.': RAOEURD TP-PL
+'required.': RAOEURD/TP-PL
 'My': KPA/PHEU
 'only': OEPBL
 'pleasure': PHRERB
@@ -1055,7 +1055,7 @@ The Flying Trunk
 'and': SKP
 'shining': SHAOEUPBG
 'after': AF
-'dinner,': TKEURPB KW-BG
+'dinner,': TKEURPB/KW-BG
 'and': SKP
 'to': TO
 'sit': SEUT
@@ -1070,34 +1070,34 @@ The Flying Trunk
 'conversation': K-FRGS
 'with': W
 'my': PHEU
-'neighbors.': TPHAEUBS TP-PL
+'neighbors.': TPHAEUBS/TP-PL
 'All': KPA/AUL
 'of': -F
-'us,': US KW-BG
+'us,': US/KW-BG
 'excepting': KPEPT/-G
 'the': -T
-'water-bucket,': WAUR H-PB PWUBGT KW-BG
+'water-bucket,': WAUR/H-PB/PWUBGT/KW-BG
 'which': WEU
 'is': S
 'sometimes': STAOEUPLS
 'taken': TAEPB
 'into': TPHAO
 'the': -T
-'courtyard,': KORT/KWRARD KW-BG
+'courtyard,': KORT/KWRARD/KW-BG
 'live': HREUF
 'here': HAOER
 'together': TOGT
 'within': W-PB
 'these': THEZ
 'four': TPOUR
-'walls.': WAULS TP-PL
+'walls.': WAULS/TP-PL
 'We': KPA/WE
 'get': TKPWET
 'our': OUR
 'news': TPHUS
 'from': TPR
 'the': -T
-'market-basket,': PHARBGT H-PB PWAFBGT KW-BG
+'market-basket,': PHARBGT/H-PB/PWAFBGT/KW-BG
 'but': PWUT
 'he': HE
 'sometimes': STAOEUPLS
@@ -1111,8 +1111,8 @@ The Flying Trunk
 'people': PAOEPL
 'and': SKP
 'the': -T
-'government.': TKPWOFT TP-PL
-'Yes,': KPA/KWRE KW-BG
+'government.': TKPWOFT/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'and': SKP
 'one': WUPB
 'day': TKAEU
@@ -1121,7 +1121,7 @@ The Flying Trunk
 'pot': POT
 'was': WAS
 'so': SO
-'alarmed,': A/HRARPLD KW-BG
+'alarmed,': A/HRARPLD/KW-BG
 'that': THA
 'he': HE
 'fell': TPEL
@@ -1130,23 +1130,23 @@ The Flying Trunk
 'was': WAS
 'broken': PWROEPB
 'to': TO
-'pieces.': PAOEFS TP-PL
+'pieces.': PAOEFS/TP-PL
 'He': KPA/HE
 'was': WAS
 'a': AEU
-'liberal,': HREUBL KW-BG
+'liberal,': HREUBL/KW-BG
 'I': EU
 'can': K
 'tell': TEL
-'you.'': U TP-PL AE
-'"'You': KR-GS AE KPA/U
+'you.'': U/TP-PL/AE
+'"'You': KR-GS/AE/KPA/U
 'are': R
 'talking': TAUG
 'too': TAO
-'much,'': PHUFP KW-BG AE
+'much,'': PHUFP/KW-BG/AE
 'said': SED
 'the': -T
-'tinder-box,': TEUPBD/*ER H-PB PWOBGS KW-BG
+'tinder-box,': TEUPBD/*ER/H-PB/PWOBGS/KW-BG
 'and': SKP
 'the': -T
 'steel': STAOEL
@@ -1158,22 +1158,22 @@ The Flying Trunk
 'some': SOPL
 'sparks': SPARBGS
 'flew': TPHRAOU
-'out,': OUT KW-BG
-'crying,': KRAOEUG KW-BG
-''We': AE KPA/WE
+'out,': OUT/KW-BG
+'crying,': KRAOEUG/KW-BG
+''We': AE/KPA/WE
 'want': WAPBT
 'a': AEU
 'merry': PHER/REU
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'don't': TKOEPBT
-'we?'': WE H-F AE
-'"'Yes,': KR-GS AE KPA/KWRE KW-BG
+'we?'': WE/H-F/AE
+'"'Yes,': KR-GS/AE/KPA/KWRE/KW-BG
 'of': -F
-'course,'': KORS KW-BG AE
+'course,'': KORS/KW-BG/AE
 'said': SED
 'the': -T
-'matches,': PHAFPS KW-BG
-''let': AE HRET
+'matches,': PHAFPS/KW-BG
+''let': AE/HRET
 'us': US
 'talk': TAUBG
 'about': PW
@@ -1182,8 +1182,8 @@ The Flying Trunk
 'are': R
 'the': -T
 'highest': HAOEU/EFT
-'born.'': PWORPB TP-PL AE
-'"'No,': KR-GS AE KPA/TPHO KW-BG
+'born.'': PWORPB/TP-PL/AE
+'"'No,': KR-GS/AE/KPA/TPHO/KW-BG
 'I': EU
 'don't': TKOEPBT
 'like': HRAOEUBG
@@ -1194,20 +1194,20 @@ The Flying Trunk
 'of': -F
 'what': WHA
 'we': WE
-'are,'': R KW-BG AE
+'are,'': R/KW-BG/AE
 'remarked': RARBGD
 'the': -T
-'saucepan;': SAUS/PAPB STPH*FPLT
-''let': AE HRET
+'saucepan;': SAUS/PAPB/STPH*FPLT
+''let': AE/HRET
 'us': US
 'think': THEU
 'of': -F
 'some': SOPL
 'other': OER
-'amusement;': A/PHAOUS/*PLT STPH*FPLT
+'amusement;': A/PHAOUS/*PLT/STPH*FPLT
 'I': EU
 'will': HR
-'begin.': TKPWEUPB TP-PL
+'begin.': TKPWEUPB/TP-PL
 'We': KPA/WE
 'will': HR
 'tell': TEL
@@ -1216,67 +1216,67 @@ The Flying Trunk
 'has': HAS
 'happened': HAPD
 'to': TO
-'ourselves;': O*URSZ STPH*FPLT
+'ourselves;': O*URSZ/STPH*FPLT
 'that': THA
 'will': HR
 'be': -B
 'very': SRE
-'easy,': EZ KW-BG
+'easy,': EZ/KW-BG
 'and': SKP
 'interesting': TR-G
 'as': AS
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'On': KPA/OPB
 'the': -T
 'Baltic': PWALT/EUBG
-'Sea,': KPA/SAE KW-BG
+'Sea,': KPA/SAE/KW-BG
 'near': TPHAOER
 'the': -T
 'Danish': TKAEUPB/EURB
-'shore'—': SHOR AE EPL/TKA*RB
-'"'What': KR-GS AE KPA/WHA
+'shore'—': SHOR/AE/EPL/TKA*RB
+'"'What': KR-GS/AE/KPA/WHA
 'a': AEU
 'pretty': PREUT
-'commencement!'': KPHEPBS/*PLT SKHRAPL AE
+'commencement!'': KPHEPBS/*PLT/SKHRAPL/AE
 'said': SED
 'the': -T
-'plates;': PHRAEUTS STPH*FPLT
-''we': AE WE
+'plates;': PHRAEUTS/STPH*FPLT
+''we': AE/WE
 'shall': SHAL
 'all': AUL
 'like': HRAOEUBG
 'that': THA
-'story,': STOER KW-BG
+'story,': STOER/KW-BG
 'I': EU
 'am': APL
-'sure.'': SHUR TP-PL AE
-'"'Yes;': KR-GS AE KPA/KWRE STPH*FPLT
+'sure.'': SHUR/TP-PL/AE
+'"'Yes;': KR-GS/AE/KPA/KWRE/STPH*FPLT
 'well': WEL
 'in': TPH
 'my': PHEU
-'youth,': KWRAO*UT KW-BG
+'youth,': KWRAO*UT/KW-BG
 'I': EU
 'lived': HREUFD
 'in': TPH
 'a': AEU
 'quiet': KWAO*EUT
-'family,': TPAEPL KW-BG
+'family,': TPAEPL/KW-BG
 'where': W-R
 'the': -T
 'furniture': TPURPBT
 'was': WAS
-'polished,': POL/EURBD KW-BG
+'polished,': POL/EURBD/KW-BG
 'the': -T
 'floors': THRAORS
-'scoured,': SKOUR/-D KW-BG
+'scoured,': SKOUR/-D/KW-BG
 'and': SKP
 'clean': KHRAOEPB
 'curtains': KUR/TEUPBS
 'put': PUT
 'up': UP
 'every': EF
-'fortnight.'': TPORT/TPHAOEUT TP-PL AE
-'"'What': KR-GS AE KPA/WHA
+'fortnight.'': TPORT/TPHAOEUT/TP-PL/AE
+'"'What': KR-GS/AE/KPA/WHA
 'an': APB
 'interesting': TR-G
 'way': WAEU
@@ -1285,11 +1285,11 @@ The Flying Trunk
 'of': -F
 'relating': RAELGT
 'a': AEU
-'story,'': STOER KW-BG AE
+'story,'': STOER/KW-BG/AE
 'said': SED
 'the': -T
-'carpet-broom;': KARPT H-PB PWRAOPL STPH*FPLT
-''it': AE T
+'carpet-broom;': KARPT/H-PB/PWRAOPL/STPH*FPLT
+''it': AE/T
 'is': S
 'easy': EZ
 'to': TO
@@ -1303,7 +1303,7 @@ The Flying Trunk
 'deal': TKAOEL
 'in': TPH
 'women's': WEUPL/*S
-'society,': SOET KW-BG
+'society,': SOET/KW-BG
 'there': THR
 'is': S
 'something': S-G
@@ -1313,36 +1313,36 @@ The Flying Trunk
 'through': THRU
 'what': WHA
 'you': U
-'say.'': SAEU TP-PL AE
-'"'That': KR-GS AE KPA/THA
+'say.'': SAEU/TP-PL/AE
+'"'That': KR-GS/AE/KPA/THA
 'is': S
 'quite': KWAOEUT
-'true,'': TRAOU KW-BG AE
+'true,'': TRAOU/KW-BG/AE
 'said': SED
 'the': -T
-'water-bucket;': WAUR H-PB PWUBGT STPH*FPLT
+'water-bucket;': WAUR/H-PB/PWUBGT/STPH*FPLT
 'and': SKP
 'he': HE
 'made': PHAED
 'a': AEU
 'spring': SPREUPBG
 'with': W
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'and': SKP
 'splashed': SPHRARBD
 'some': SOPL
 'water': WAUR
 'on': OPB
 'the': -T
-'floor.': TPHRAOR TP-PL
-'"Then': KR-GS KPA/THEPB
+'floor.': TPHRAOR/TP-PL
+'"Then': KR-GS/KPA/THEPB
 'the': -T
 'saucepan': SAUS/PAPB
 'went': WEPBT
 'on': OPB
 'with': W
 'his': HEUS
-'story,': STOER KW-BG
+'story,': STOER/KW-BG
 'and': SKP
 'the': -T
 'end': EPBD
@@ -1351,15 +1351,15 @@ The Flying Trunk
 'good': TKPWAOD
 'as': AS
 'the': -T
-'beginning.': TKPWEUPB/-G TP-PL
-'"The': KR-GS KPA/-T
+'beginning.': TKPWEUPB/-G/TP-PL
+'"The': KR-GS/KPA/-T
 'plates': PHRAEUTS
 'rattled': RA*LTD
 'with': W
-'pleasure,': PHRERB KW-BG
+'pleasure,': PHRERB/KW-BG
 'and': SKP
 'the': -T
-'carpet-broom': KARPT H-PB PWRAOPL
+'carpet-broom': KARPT/H-PB/PWRAOPL
 'brought': PWRAUT
 'some': SOPL
 'green': TKPWRAOEPB
@@ -1367,11 +1367,11 @@ The Flying Trunk
 'out': OUT
 'of': -F
 'the': -T
-'dust-hole': TKUFT H-PB HOEL
+'dust-hole': TKUFT/H-PB/HOEL
 'and': SKP
 'crowned': KROUPBD
 'the': -T
-'saucepan,': SAUS/PAPB KW-BG
+'saucepan,': SAUS/PAPB/KW-BG
 'for': TPOR
 'he': HE
 'knew': TPHAOU
@@ -1379,29 +1379,29 @@ The Flying Trunk
 'would': WO
 'vex': SREBGS
 'the': -T
-'others;': OERS STPH*FPLT
+'others;': OERS/STPH*FPLT
 'and': SKP
 'he': HE
-'thought,': THAUT KW-BG
-''If': AE KPA/TP
+'thought,': THAUT/KW-BG
+''If': AE/KPA/TP
 'I': EU
 'crown': KROUPB
 'him': HEUPL
-'to-day': TO TKA*EU
+'to-day': TO/TKA*EU
 'he': HE
 'will': HR
 'crown': KROUPB
 'me': PHE
-'to-morrow.'': TO H-PB HRO*ER/PHOR/ROE TP-PL AE
-'"'Now,': KR-GS AE KPA/TPHOU KW-BG
+'to-morrow.'': TO/H-PB/HRO*ER/PHOR/ROE/TP-PL/AE
+'"'Now,': KR-GS/AE/KPA/TPHOU/KW-BG
 'let': HRET
 'us': US
 'have': SR
 'a': AEU
-'dance,'': TKAPBS KW-BG AE
+'dance,'': TKAPBS/KW-BG/AE
 'said': SED
 'the': -T
-'fire-tongs;': TPAOEUR H-PB TOPBGS STPH*FPLT
+'fire-tongs;': TPAOEUR/H-PB/TOPBGS/STPH*FPLT
 'and': SKP
 'then': THEPB
 'how': HOU
@@ -1414,9 +1414,9 @@ The Flying Trunk
 'leg': HREG
 'in': TPH
 'the': -T
-'air.': AEUR TP-PL
+'air.': AEUR/TP-PL
 'The': KPA/-T
-'chair-cushion': KHAEUR H-PB KUGS
+'chair-cushion': KHAEUR/H-PB/KUGS
 'in': TPH
 'the': -T
 'corner': KRORPB
@@ -1426,15 +1426,15 @@ The Flying Trunk
 'when': WHEPB
 'she': SHE
 'saw': SAU
-'it.': T TP-PL
-'"'Shall': KR-GS AE KPA/SHAL
+'it.': T/TP-PL
+'"'Shall': KR-GS/AE/KPA/SHAL
 'I': EU
 'be': -B
 'crowned': KROUPBD
-'now?'': TPHOU H-F AE
+'now?'': TPHOU/H-F/AE
 'asked': SK-D
 'the': -T
-'fire-tongs;': TPAOEUR H-PB TOPBGS STPH*FPLT
+'fire-tongs;': TPAOEUR/H-PB/TOPBGS/STPH*FPLT
 'so': SO
 'the': -T
 'broom': PWRAOPL
@@ -1443,44 +1443,44 @@ The Flying Trunk
 'wreath': WRAO*ET
 'for': TPOR
 'the': -T
-'tongs.': TOPBGS TP-PL
-'"'They': KR-GS AE KPA/THE
+'tongs.': TOPBGS/TP-PL
+'"'They': KR-GS/AE/KPA/THE
 'were': WR
 'only': OEPBL
 'common': KPHOPB
 'people': PAOEPL
 'after': AF
-'all,'': AUL KW-BG AE
+'all,'': AUL/KW-BG/AE
 'thought': THAUT
 'the': -T
-'matches.': PHAFPS TP-PL
+'matches.': PHAFPS/TP-PL
 'The': KPA/-T
-'tea-urn': TAE H-PB URPB
+'tea-urn': TAE/H-PB/URPB
 'was': WAS
 'now': TPHOU
 'asked': SK-D
 'to': TO
-'sing,': SEUPBG KW-BG
+'sing,': SEUPBG/KW-BG
 'but': PWUT
 'she': SHE
 'said': SED
 'she': SHE
 'had': H
 'a': AEU
-'cold,': KOELD KW-BG
+'cold,': KOELD/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
 'sing': SEUPBG
 'without': WOUT
 'boiling': PWOEULG
-'heat.': HAOET TP-PL
+'heat.': HAOET/TP-PL
 'They': KPA/THE
 'all': AUL
 'thought': THAUT
 'this': TH
 'was': WAS
-'affectation,': AFBG/TAEUGS KW-BG
+'affectation,': AFBG/TAEUGS/KW-BG
 'and': SKP
 'because': PWAU
 'she': SHE
@@ -1492,7 +1492,7 @@ The Flying Trunk
 'excepting': KPEPT/-G
 'in': TPH
 'the': -T
-'parlor,': PAR/HROR KW-BG
+'parlor,': PAR/HROR/KW-BG
 'when': WHEPB
 'on': OPB
 'the': -T
@@ -1500,27 +1500,27 @@ The Flying Trunk
 'with': W
 'the': -T
 'grand': TKPWRAPBD
-'people.': PAOEPL TP-PL
-'"In': KR-GS KPA/TPH
+'people.': PAOEPL/TP-PL
+'"In': KR-GS/KPA/TPH
 'the': -T
 'window': WOEUPBD
 'sat': SAT
 'an': APB
 'old': OLD
-'quill-pen,': KWEUL H-PB PEPB KW-BG
+'quill-pen,': KWEUL/H-PB/PEPB/KW-BG
 'with': W
 'which': WEU
 'the': -T
 'maid': PHAEUD
 'generally': SKWRERPBL
-'wrote.': WRO TP-PL
+'wrote.': WRO/TP-PL
 'There': KPA/THR
 'was': WAS
 'nothing': TPHOG
 'remarkable': RARBG/-BL
 'about': PW
 'the': -T
-'pen,': PEPB KW-BG
+'pen,': PEPB/KW-BG
 'excepting': KPEPT/-G
 'that': THA
 'it': T
@@ -1531,26 +1531,26 @@ The Flying Trunk
 'deeply': TKAO*EPL
 'in': TPH
 'the': -T
-'ink,': *EUPBG KW-BG
+'ink,': *EUPBG/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'proud': PROUD
 'of': -F
-'that.': THA TP-PL
-'"'If': KR-GS AE KPA/TP
+'that.': THA/TP-PL
+'"'If': KR-GS/AE/KPA/TP
 'the': -T
-'tea-urn': TAE H-PB URPB
+'tea-urn': TAE/H-PB/URPB
 'won't': WOEPBT
-'sing,'': SEUPBG KW-BG AE
+'sing,'': SEUPBG/KW-BG/AE
 'said': SED
 'the': -T
-'pen,': PEPB KW-BG
-''she': AE SHE
+'pen,': PEPB/KW-BG
+''she': AE/SHE
 'can': K
 'leave': HREF
 'it': T
-'alone;': A/HROEPB STPH*FPLT
+'alone;': A/HROEPB/STPH*FPLT
 'there': THR
 'is': S
 'a': AEU
@@ -1560,14 +1560,14 @@ The Flying Trunk
 'cage': KAEUPBLG
 'who': WHO
 'can': K
-'sing;': SEUPBG STPH*FPLT
+'sing;': SEUPBG/STPH*FPLT
 'she': SHE
 'has': HAS
 'not': TPHOT
 'been': PW-PB
 'taught': TAUT
-'much,': PHUFP KW-BG
-'certainly,': SERPBL KW-BG
+'much,': PHUFP/KW-BG
+'certainly,': SERPBL/KW-BG
 'but': PWUT
 'we': WE
 'need': TPHAOED
@@ -1577,25 +1577,25 @@ The Flying Trunk
 'this': TH
 'evening': AOEPBG
 'about': PW
-'that.'': THA TP-PL AE
-'"'I': KR-GS AE EU
+'that.'': THA/TP-PL/AE
+'"'I': KR-GS/AE/EU
 'think': THEU
 'it': T
 'highly': HAOEUL
-'improper,'': EUPL/PROR KW-BG AE
+'improper,'': EUPL/PROR/KW-BG/AE
 'said': SED
 'the': -T
-'tea-kettle,': TAE H-PB K*ELT KW-BG
+'tea-kettle,': TAE/H-PB/K*ELT/KW-BG
 'who': WHO
 'was': WAS
 'kitchen': K-FP
-'singer,': SEURPBG KW-BG
+'singer,': SEURPBG/KW-BG
 'and': SKP
-'half-brother': HAF H-PB PWROER
+'half-brother': HAF/H-PB/PWROER
 'to': TO
 'the': -T
-'tea-urn,': TAE H-PB URPB KW-BG
-''that': AE THA
+'tea-urn,': TAE/H-PB/URPB/KW-BG
+''that': AE/THA
 'a': AEU
 'rich': REUFP
 'foreign': TPOERPB
@@ -1604,38 +1604,38 @@ The Flying Trunk
 'be': -B
 'listened': HREUFPBD
 'to': TO
-'here.': HAOER TP-PL
+'here.': HAOER/TP-PL
 'Is': KPA/S
 'it': T
-'patriotic?': PAEU/TROT/EUBG H-F
+'patriotic?': PAEU/TROT/EUBG/H-F
 'Let': KPA/HRET
 'the': -T
-'market-basket': PHARBGT H-PB PWAFBGT
+'market-basket': PHARBGT/H-PB/PWAFBGT
 'decide': STKAOEUD
 'what': WHA
 'is': S
-'right.'': RAOEUT TP-PL AE
-'"'I': KR-GS AE EU
+'right.'': RAOEUT/TP-PL/AE
+'"'I': KR-GS/AE/EU
 'certainly': SERPBL
 'am': APL
-'vexed,'': SREBGS/-D KW-BG AE
+'vexed,'': SREBGS/-D/KW-BG/AE
 'said': SED
 'the': -T
-'basket;': PWAFBGT STPH*FPLT
-''inwardly': AE EUPB/WARD/HREU
-'vexed,': SREBGS/-D KW-BG
+'basket;': PWAFBGT/STPH*FPLT
+''inwardly': AE/EUPB/WARD/HREU
+'vexed,': SREBGS/-D/KW-BG
 'more': PHOR
 'than': THAPB
 'any': TPHEU
 'one': WUPB
 'can': K
-'imagine.': PHAPBLG TP-PL
+'imagine.': PHAPBLG/TP-PL
 'Are': KPA/R
 'we': WE
 'spending': SPEPBG
 'the': -T
 'evening': AOEPBG
-'properly?': PRORL H-F
+'properly?': PRORL/H-F
 'Would': KPA/WO
 'it': T
 'not': TPHOT
@@ -1647,7 +1647,7 @@ The Flying Trunk
 'the': -T
 'house': HOUS
 'in': TPH
-'order?': ORD H-F
+'order?': ORD/H-F
 'If': KPA/TP
 'each': AOEFP
 'were': WR
@@ -1659,47 +1659,47 @@ The Flying Trunk
 'would': WO
 'lead': HRAED
 'a': AEU
-'game;': TKPWAEUPL STPH*FPLT
+'game;': TKPWAEUPL/STPH*FPLT
 'this': TH
 'would': WO
 'be': -B
 'quite': KWAOEUT
 'another': TPHOER
-'thing.'': THEUPBG TP-PL AE
-'"'Let': KR-GS AE KPA/HRET
+'thing.'': THEUPBG/TP-PL/AE
+'"'Let': KR-GS/AE/KPA/HRET
 'us': US
 'act': ABGT
 'a': AEU
-'play,'': PHRAEU KW-BG AE
+'play,'': PHRAEU/KW-BG/AE
 'said': SED
 'they': THE
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'At': KPA/AT
 'the': -T
 'same': SAEUPL
 'moment': PHOEPLT
 'the': -T
 'door': TKAOR
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'and': SKP
 'the': -T
 'maid': PHAEUD
 'came': KAEUPL
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'Then': KPA/THEPB
 'not': TPHOT
 'one': WUPB
-'stirred;': STEURD STPH*FPLT
+'stirred;': STEURD/STPH*FPLT
 'they': THE
 'all': AUL
 'remained': RE/PHAEUPBD
 'quite': KWAOEUT
-'still;': STEUL STPH*FPLT
-'yet,': KWRET KW-BG
+'still;': STEUL/STPH*FPLT
+'yet,': KWRET/KW-BG
 'at': AT
 'the': -T
 'same': SAEUPL
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'there': THR
 'was': WAS
 'not': TPHOT
@@ -1715,7 +1715,7 @@ The Flying Trunk
 'high': HAOEU
 'opinion': P-PB
 'of': -F
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'of': -F
 'what': WHA
@@ -1724,44 +1724,44 @@ The Flying Trunk
 'do': TKO
 'if': TP
 'he': HE
-'chose.': KHOES TP-PL
-'"'Yes,': KR-GS AE KPA/KWRE KW-BG
+'chose.': KHOES/TP-PL
+'"'Yes,': KR-GS/AE/KPA/KWRE/KW-BG
 'if': TP
 'we': WE
 'had': H
-'chosen,'': KHOEFPB KW-BG AE
+'chosen,'': KHOEFPB/KW-BG/AE
 'they': THE
 'each': AOEFP
-'thought,': THAUT KW-BG
-''we': AE WE
+'thought,': THAUT/KW-BG
+''we': AE/WE
 'might': PHAOEUT
 'have': SR
 'spent': SPEPBT
 'a': AEU
 'very': SRE
 'pleasant': PHREFPBT
-'evening.'': AOEPBG TP-PL AE
-'"The': KR-GS KPA/-T
+'evening.'': AOEPBG/TP-PL/AE
+'"The': KR-GS/KPA/-T
 'maid': PHAEUD
 'took': TAOBG
 'the': -T
 'matches': PHAFPS
 'and': SKP
 'lighted': HRAOEUTD
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'dear': TKAER
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'how': HOU
 'they': THE
 'sputtered': SPUT/ERD
 'and': SKP
 'blazed': PWHRAEUZ/-D
-'up!': UP SKHRAPL
-'"'Now': KR-GS AE KPA/TPHOU
-'then,'': THEPB KW-BG AE
+'up!': UP/SKHRAPL
+'"'Now': KR-GS/AE/KPA/TPHOU
+'then,'': THEPB/KW-BG/AE
 'they': THE
-'thought,': THAUT KW-BG
-''every': AE EF
+'thought,': THAUT/KW-BG
+''every': AE/EF
 'one': WUPB
 'will': HR
 'see': SAOE
@@ -1769,15 +1769,15 @@ The Flying Trunk
 'we': WE
 'are': R
 'the': -T
-'first.': TPEUFRT TP-PL
+'first.': TPEUFRT/TP-PL
 'How': KPA/HOU
 'we': WE
-'shine;': SHAOEUPB STPH*FPLT
+'shine;': SHAOEUPB/STPH*FPLT
 'what': WHA
 'a': AEU
 'light': HRAOEUT
 'we': WE
-'give!'': TKPWEUF SKHRAPL AE
+'give!'': TKPWEUF/SKHRAPL/AE
 'Even': KPA/AOEPB
 'while': WHAOEUL
 'they': THE
@@ -1785,15 +1785,15 @@ The Flying Trunk
 'their': THAEUR
 'light': HRAOEUT
 'went': WEPBT
-'out.': OUT TP-PL
-'"What': KR-GS KPA/WHA
+'out.': OUT/TP-PL
+'"What': KR-GS/KPA/WHA
 'a': AEU
 'capital': KPAL
-'story,"': STOER KW-BG KR-GS
+'story,"': STOER/KW-BG/KR-GS
 'said': SED
 'the': -T
-'queen,': KWAOEPB KW-BG
-'"I': KR-GS EU
+'queen,': KWAOEPB/KW-BG
+'"I': KR-GS/EU
 'feel': TPAOEL
 'as': AS
 'if': TP
@@ -1802,27 +1802,27 @@ The Flying Trunk
 'really': R-L
 'in': TPH
 'the': -T
-'kitchen,': K-FP KW-BG
+'kitchen,': K-FP/KW-BG
 'and': SKP
 'could': KO
 'see': SAOE
 'the': -T
-'matches;': PHAFPS STPH*FPLT
-'yes,': KWRE KW-BG
+'matches;': PHAFPS/STPH*FPLT
+'yes,': KWRE/KW-BG
 'you': U
 'shall': SHAL
 'marry': PHAER
 'our': OUR
-'daughter."': TKAUR TP-PL KR-GS
-'"Certainly,"': KR-GS KPA/SERPBL KW-BG KR-GS
+'daughter."': TKAUR/TP-PL/KR-GS
+'"Certainly,"': KR-GS/KPA/SERPBL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'king,': KEUPBG KW-BG
-'"thou': KR-GS THO*U
+'king,': KEUPBG/KW-BG
+'"thou': KR-GS/THO*U
 'shalt': SHALT
 'have': SR
 'our': OUR
-'daughter."': TKAUR TP-PL KR-GS
+'daughter."': TKAUR/TP-PL/KR-GS
 'The': KPA/-T
 'king': KEUPBG
 'said': SED
@@ -1838,21 +1838,21 @@ The Flying Trunk
 'one': WUPB
 'of': -F
 'the': -T
-'family.': TPAEPL TP-PL
+'family.': TPAEPL/TP-PL
 'The': KPA/-T
-'wedding-day': WEGD TKA*EU
+'wedding-day': WEGD/TKA*EU
 'was': WAS
-'fixed,': TPEUFD KW-BG
-'and,': SKP KW-BG
+'fixed,': TPEUFD/KW-BG
+'and,': SKP/KW-BG
 'on': OPB
 'the': -T
 'evening': AOEPBG
-'before,': PW-FR KW-BG
+'before,': PW-FR/KW-BG
 'the': -T
 'whole': WHOEL
 'city': STEU
 'was': WAS
-'illuminated.': EUL/AOUPL/TPHAEUT/-D TP-PL
+'illuminated.': EUL/AOUPL/TPHAEUT/-D/TP-PL
 'Cakes': KPA/KAEUBG/-S
 'and': SKP
 'sweetmeats': xxx sweetmeats
@@ -1860,7 +1860,7 @@ The Flying Trunk
 'thrown': THROEPB
 'among': PHOPBG
 'the': -T
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'The': KPA/-T
 'street': STRAOET
 'boys': PWOEUS
@@ -1869,29 +1869,29 @@ The Flying Trunk
 'tiptoe': TEUP/TOE
 'and': SKP
 'shouted': SHOUT/-D
-'"hurrah,"': KR-GS HUR/RA KW-BG KR-GS
+'"hurrah,"': KR-GS/HUR/RA/KW-BG/KR-GS
 'and': SKP
 'whistled': WHEUS/-LD
 'between': TWAOEPB
 'their': THAEUR
-'fingers;': TPEURPBGS STPH*FPLT
+'fingers;': TPEURPBGS/STPH*FPLT
 'altogether': HR-GT
 'it': T
 'was': WAS
 'a': AEU
 'very': SRE
 'splendid': SPHREPB/TKEUD
-'affair.': A/TPAEUR TP-PL
-'"I': KR-GS EU
+'affair.': A/TPAEUR/TP-PL
+'"I': KR-GS/EU
 'will': HR
 'give': TKPWEUF
 'them': THEPL
 'another': TPHOER
-'treat,"': TRAOET KW-BG KR-GS
+'treat,"': TRAOET/KW-BG/KR-GS
 'said': SED
 'the': -T
-'merchant's': PHEFRPBT AES
-'son.': SOPB TP-PL
+'merchant's': PHEFRPBT/AES
+'son.': SOPB/TP-PL
 'So': KPA/SO
 'he': HE
 'went': WEPBT
@@ -1899,22 +1899,22 @@ The Flying Trunk
 'bought': PWAUT
 'rockets': ROBGTS
 'and': SKP
-'crackers,': KRABG/ERS KW-BG
+'crackers,': KRABG/ERS/KW-BG
 'and': SKP
 'all': AUL
 'sorts': SORTS
 'of': -F
-'fire-works': TPAOEUR H-PB WORBGS
+'fire-works': TPAOEUR/H-PB/WORBGS
 'that': THA
 'could': KO
 'be': -B
 'thought': THAUT
-'of,': -F KW-BG
+'of,': -F/KW-BG
 'packed': PABGD
 'them': THEPL
 'in': TPH
 'his': HEUS
-'trunk,': TRUPBG KW-BG
+'trunk,': TRUPBG/KW-BG
 'and': SKP
 'flew': TPHRAOU
 'up': UP
@@ -1922,7 +1922,7 @@ The Flying Trunk
 'it': T
 'into': TPHAO
 'the': -T
-'air.': AEUR TP-PL
+'air.': AEUR/TP-PL
 'What': KPA/WHA
 'a': AEU
 'whizzing': WEUZ/A*U/-G
@@ -1933,9 +1933,9 @@ The Flying Trunk
 'as': AS
 'they': THE
 'went': WEPBT
-'off!': OF SKHRAPL
+'off!': OF/SKHRAPL
 'The': KPA/-T
-'Turks,': TURBGS KW-BG
+'Turks,': TURBGS/KW-BG
 'when': WHEPB
 'they': THE
 'saw': SAU
@@ -1944,7 +1944,7 @@ The Flying Trunk
 'sight': SAOEUT
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'jumped': SKWR*UPLD
 'so': SO
 'high': HAOEU
@@ -1954,7 +1954,7 @@ The Flying Trunk
 'flew': TPHRAOU
 'about': PW
 'their': THAEUR
-'ears.': AOERS TP-PL
+'ears.': AOERS/TP-PL
 'It': KPA/T
 'was': WAS
 'easy': EZ
@@ -1972,12 +1972,12 @@ The Flying Trunk
 'marry': PHAER
 'a': AEU
 'Turkish': TUR/KEURB
-'angel.': APB/SKWREL TP-PL
+'angel.': APB/SKWREL/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
 'the': -T
-'merchant's': PHEFRPBT AES
+'merchant's': PHEFRPBT/AES
 'son': SOPB
 'had': H
 'come': KOPL
@@ -1991,17 +1991,17 @@ The Flying Trunk
 'wood': WAOD
 'after': AF
 'the': -T
-'fireworks,': TPAOEUR/WORBGS KW-BG
+'fireworks,': TPAOEUR/WORBGS/KW-BG
 'he': HE
-'thought,': THAUT KW-BG
-'"I': KR-GS EU
+'thought,': THAUT/KW-BG
+'"I': KR-GS/EU
 'will': HR
 'go': TKPW
 'back': PWABG
 'into': TPHAO
 'the': -T
 'town': TOUPB
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'and': SKP
 'hear': HAER
 'what': WHA
@@ -2009,7 +2009,7 @@ The Flying Trunk
 'think': THEU
 'of': -F
 'the': -T
-'entertainment."': TAEUPLT TP-PL KR-GS
+'entertainment."': TAEUPLT/TP-PL/KR-GS
 'It': KPA/T
 'was': WAS
 'very': SRE
@@ -2026,10 +2026,10 @@ The Flying Trunk
 'things': THEUPBGS
 'people': PAOEPL
 'did': TK
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'to': TO
 'be': -B
-'sure!': SHUR SKHRAPL
+'sure!': SHUR/SKHRAPL
 'every': EF
 'one': WUPB
 'whom': WHOPL
@@ -2040,44 +2040,44 @@ The Flying Trunk
 'different': TKEUFRT
 'tale': TAEL
 'to': TO
-'tell,': TEL KW-BG
+'tell,': TEL/KW-BG
 'though': THOE
 'they': THE
 'all': AUL
 'thought': THAUT
 'it': T
 'very': SRE
-'beautiful.': PWAOUFL TP-PL
-'"'I': KR-GS AE EU
+'beautiful.': PWAOUFL/TP-PL
+'"'I': KR-GS/AE/EU
 'saw': SAU
 'the': -T
 'Turkish': TUR/KEURB
 'angel': APB/SKWREL
-'myself,"': PHAO*EUS KW-BG KR-GS
+'myself,"': PHAO*EUS/KW-BG/KR-GS
 'said': SED
-'one;': WUPB STPH*FPLT
-'"he': KR-GS HE
+'one;': WUPB/STPH*FPLT
+'"he': KR-GS/HE
 'had': H
 'eyes': AO*EUS
 'like': HRAOEUBG
 'glittering': TKPWHREUT/ERG
-'stars,': STARS KW-BG
+'stars,': STARS/KW-BG
 'and': SKP
 'a': AEU
 'head': HED
 'like': HRAOEUBG
 'foaming': TPOEPLG
-'water."': WAUR TP-PL KR-GS
-'"He': KR-GS KPA/HE
+'water."': WAUR/TP-PL/KR-GS
+'"He': KR-GS/KPA/HE
 'flew': TPHRAOU
 'in': TPH
 'a': AEU
 'mantle': PHAPBT/*L
 'of': -F
-'fire,"': TPAOEUR KW-BG KR-GS
+'fire,"': TPAOEUR/KW-BG/KR-GS
 'cried': KRAOEUD
-'another,': TPHOER KW-BG
-'"and': KR-GS SKP
+'another,': TPHOER/KW-BG
+'"and': KR-GS/SKP
 'lovely': HROFL
 'little': HREUL
 'cherubs': KHERB/-S
@@ -2085,7 +2085,7 @@ The Flying Trunk
 'out': OUT
 'from': TPR
 'the': -T
-'folds."': TPOLDZ TP-PL KR-GS
+'folds."': TPOLDZ/TP-PL/KR-GS
 'He': KPA/HE
 'heard': HAERD
 'many': PHAEPB
@@ -2093,7 +2093,7 @@ The Flying Trunk
 'fine': TPAOEUPB
 'things': THEUPBGS
 'about': PW
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'that': THA
 'the': -T
@@ -2103,7 +2103,7 @@ The Flying Trunk
 'was': WAS
 'to': TO
 'be': -B
-'married.': PHAERD TP-PL
+'married.': PHAERD/TP-PL
 'After': KPA/AF
 'this': TH
 'he': HE
@@ -2117,10 +2117,10 @@ The Flying Trunk
 'himself': HEUPLS
 'in': TPH
 'his': HEUS
-'trunk.': TRUPBG TP-PL
+'trunk.': TRUPBG/TP-PL
 'It': KPA/T
 'had': H
-'disappeared!': TKEUS/PAOERD SKHRAPL
+'disappeared!': TKEUS/PAOERD/SKHRAPL
 'A': KPA/AEU
 'spark': SPARBG
 'from': TPR
@@ -2132,27 +2132,27 @@ The Flying Trunk
 'set': SET
 'it': T
 'on': OPB
-'fire;': TPAOEUR STPH*FPLT
+'fire;': TPAOEUR/STPH*FPLT
 'it': T
 'was': WAS
 'burnt': PWURPBT
 'to': TO
-'ashes!': ARBS SKHRAPL
+'ashes!': ARBS/SKHRAPL
 'So': KPA/SO
 'the': -T
-'merchant's': PHEFRPBT AES
+'merchant's': PHEFRPBT/AES
 'son': SOPB
 'could': KO
 'not': TPHOT
 'fly': TPHRAOEU
 'any': TPHEU
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'nor': TPH-R
 'go': TKPW
 'to': TO
 'meet': PHAOET
 'his': HEUS
-'bride.': PWRAOEUD TP-PL
+'bride.': PWRAOEUD/TP-PL
 'She': KPA/SHE
 'stood': STAOD
 'all': AUL
@@ -2162,7 +2162,7 @@ The Flying Trunk
 'roof': RAOF
 'waiting': WAEUGT
 'for': TPOR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'most': PHOFT
 'likely': HRAOEULG
@@ -2170,7 +2170,7 @@ The Flying Trunk
 'is': S
 'waiting': WAEUGT
 'there': THR
-'still;': STEUL STPH*FPLT
+'still;': STEUL/STPH*FPLT
 'while': WHAOEUL
 'he': HE
 'wanders': WAPBD/ERS
@@ -2179,7 +2179,7 @@ The Flying Trunk
 'world': WORLD
 'telling': TELG
 'fairy': TPAEUR/REU
-'tales,': TAELS KW-BG
+'tales,': TAELS/KW-BG
 'but': PWUT
 'none': TPHOPB
 'of': -F
@@ -2193,4 +2193,4 @@ The Flying Trunk
 'related': RAELTD
 'about': PW
 'the': -T
-'matches.': PHAFPS TP-PL
+'matches.': PHAFPS/TP-PL

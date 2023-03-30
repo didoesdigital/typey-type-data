@@ -15,14 +15,14 @@ Iron Hans
 'forest': TPOEFRT
 'near': TPHAOER
 'his': HEUS
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'full': TPUL
 'of': -F
 'all': AUL
 'kinds': KEUPBDZ
 'of': -F
 'wild': WAOEULD
-'animals.': PHAPBLS TP-PL
+'animals.': PHAPBLS/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'he': HE
@@ -34,22 +34,22 @@ Iron Hans
 'shoot': SHAOT
 'him': HEUPL
 'a': AEU
-'roe,': HRO*ER/RO*E KW-BG
+'roe,': HRO*ER/RO*E/KW-BG
 'but': PWUT
 'he': HE
 'did': TK
 'not': TPHOT
 'come': KOPL
-'back.': PWABG TP-PL
-''Perhaps': AE KPA/PRAPS
+'back.': PWABG/TP-PL
+''Perhaps': AE/KPA/PRAPS
 'some': SOPL
 'accident': STKEPB
 'has': HAS
 'befallen': PWE/TPAUL/*EPB
-'him,'': HEUPL KW-BG AE
+'him,'': HEUPL/KW-BG/AE
 'said': SED
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'the': -T
 'next': TPHEGT
@@ -65,30 +65,30 @@ Iron Hans
 'to': TO
 'search': SEFRPB
 'for': TPOR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'they': THE
 'too': TAO
 'stayed': STAEUD
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Then': KPA/THEPB
 'on': OPB
 'the': -T
 'third': THEURD
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'he': HE
 'sent': SEPBT
 'for': TPOR
 'all': AUL
 'his': HEUS
-'huntsmen,': HUPBTS/PH*EPB KW-BG
+'huntsmen,': HUPBTS/PH*EPB/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Scour': AE KPA/SKOUR
+'said:': SED/STPH-FPLT
+''Scour': AE/KPA/SKOUR
 'the': -T
 'whole': WHOEL
 'forest': TPOEFRT
-'through,': THRU KW-BG
+'through,': THRU/KW-BG
 'and': SKP
 'do': TKO
 'not': TPHOT
@@ -99,23 +99,23 @@ Iron Hans
 'have': SR
 'found': TPOUPBD
 'all': AUL
-'three.'': THRAOE TP-PL AE
+'three.'': THRAOE/TP-PL/AE
 'But': KPA/PWUT
 'of': -F
 'these': THEZ
-'also,': HR-S KW-BG
+'also,': HR-S/KW-BG
 'none': TPHOPB
 'came': KAEUPL
 'home': HOEPL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'none': TPHOPB
 'were': WR
 'seen': SAOEPB
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'From': KPA/TPR
 'that': THA
 'time': TAOEUPL
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'no': TPHO
 'one': WUPB
 'would': WO
@@ -124,7 +124,7 @@ Iron Hans
 'venture': SREPBT/UR
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'it': T
 'lay': HRAEU
@@ -133,13 +133,13 @@ Iron Hans
 'deep': TKAOEP
 'stillness': STEUL/-PBS
 'and': SKP
-'solitude,': SOL/TAOUD KW-BG
+'solitude,': SOL/TAOUD/KW-BG
 'and': SKP
 'nothing': TPHOG
 'was': WAS
 'seen': SAOEPB
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'sometimes': STAOEUPLS
 'an': APB
@@ -149,12 +149,12 @@ Iron Hans
 'hawk': HAUBG
 'flying': TPHRAOEUG
 'over': OEFR
-'it.': T TP-PL
+'it.': T/TP-PL
 'This': KPA/TH
 'lasted': HRAFT/-D
 'for': TPOR
 'many': PHAEPB
-'years,': KWRAOERS KW-BG
+'years,': KWRAOERS/KW-BG
 'when': WHEPB
 'an': APB
 'unknown': UPB/TPHOEPB
@@ -167,7 +167,7 @@ Iron Hans
 'as': AS
 'seeking': SAOEBG/-G
 'a': AEU
-'situation,': SEUFP KW-BG
+'situation,': SEUFP/KW-BG
 'and': SKP
 'offered': OFRD
 'to': TO
@@ -175,23 +175,23 @@ Iron Hans
 'into': TPHAO
 'the': -T
 'dangerous': TKAEUPBLGS
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'The': KPA/-T
-'king,': KEUPBG KW-BG
-'however,': HOUF KW-BG
+'king,': KEUPBG/KW-BG
+'however,': HOUF/KW-BG
 'would': WO
 'not': TPHOT
 'give': TKPWEUF
 'his': HEUS
-'consent,': KEFPBT KW-BG
+'consent,': KEFPBT/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''It': AE KPA/T
+'said:': SED/STPH-FPLT
+''It': AE/KPA/T
 'is': S
 'not': TPHOT
 'safe': SAEUF
 'in': TPH
-'there;': THR STPH*FPLT
+'there;': THR/STPH*FPLT
 'I': EU
 'fear': TPAOER
 'it': T
@@ -204,18 +204,18 @@ Iron Hans
 'than': THAPB
 'with': W
 'the': -T
-'others,': OERS KW-BG
+'others,': OERS/KW-BG
 'and': SKP
 'you': U
 'would': WO
 'never': TPHEFR
 'come': KOPL
 'out': OUT
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'The': KPA/-T
 'huntsman': HUPBTS/PHA*PB
-'replied:': RE/PHRAOEUD STPH-FPLT
-''Lord,': AE HRO*RD KW-BG
+'replied:': RE/PHRAOEUD/STPH-FPLT
+''Lord,': AE/HRO*RD/KW-BG
 'I': EU
 'will': HR
 'venture': SREPBT/UR
@@ -223,12 +223,12 @@ Iron Hans
 'at': AT
 'my': PHEU
 'own': OEPB
-'risk,': REUFBG KW-BG
+'risk,': REUFBG/KW-BG
 'of': -F
 'fear': TPAOER
 'I': EU
 'know': TPHOE
-'nothing.'': TPHOG TP-PL AE
+'nothing.'': TPHOG/TP-PL/AE
 'The': KPA/-T
 'huntsman': HUPBTS/PHA*PB
 'therefore': TH-FR
@@ -239,7 +239,7 @@ Iron Hans
 'dog': TKOG
 'to': TO
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'It': KPA/T
 'was': WAS
 'not': TPHOT
@@ -254,12 +254,12 @@ Iron Hans
 'game': TKPWAEUPL
 'on': OPB
 'the': -T
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'to': TO
 'pursue': PUR/SAOU
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'but': PWUT
 'hardly': HA*RLD
 'had': H
@@ -274,11 +274,11 @@ Iron Hans
 'before': PW-FR
 'a': AEU
 'deep': TKAOEP
-'pool,': PAOL KW-BG
+'pool,': PAOL/KW-BG
 'could': KO
 'go': TKPW
 'no': TPHO
-'farther,': TPA*RT KW-BG
+'farther,': TPA*RT/KW-BG
 'and': SKP
 'a': AEU
 'naked': TPHAEUBGD
@@ -288,18 +288,18 @@ Iron Hans
 'out': OUT
 'of': -F
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'seized': SAOEZ/-D
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'drew': TKRAOU
 'it': T
-'under.': TPH-PB TP-PL
+'under.': TPH-PB/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
 'saw': SAU
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'he': HE
 'went': WEPBT
 'back': PWABG
@@ -315,7 +315,7 @@ Iron Hans
 'bale': PWAEL
 'out': OUT
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'could': KO
@@ -334,7 +334,7 @@ Iron Hans
 'brown': PWROUPB
 'like': HRAOEUBG
 'rusty': RUS/TEU
-'iron,': AOEURPB KW-BG
+'iron,': AOEURPB/KW-BG
 'and': SKP
 'whose': WHOZ
 'hair': HAEUR
@@ -345,19 +345,19 @@ Iron Hans
 'down': TKOUPB
 'to': TO
 'his': HEUS
-'knees.': TPHAOEZ TP-PL
+'knees.': TPHAOEZ/TP-PL
 'They': KPA/THE
 'bound': PWOUPBD
 'him': HEUPL
 'with': W
-'cords,': KORDZ KW-BG
+'cords,': KORDZ/KW-BG
 'and': SKP
 'led': HRED
 'him': HEUPL
 'away': WA*EU
 'to': TO
 'the': -T
-'castle.': KAFL TP-PL
+'castle.': KAFL/TP-PL
 'There': KPA/THR
 'was': WAS
 'great': TKPWRAET
@@ -365,10 +365,10 @@ Iron Hans
 'over': OEFR
 'the': -T
 'wild': WAOEULD
-'man;': PHAPB STPH*FPLT
+'man;': PHAPB/STPH*FPLT
 'the': -T
-'king,': KEUPBG KW-BG
-'however,': HOUF KW-BG
+'king,': KEUPBG/KW-BG
+'however,': HOUF/KW-BG
 'had': H
 'him': HEUPL
 'put': PUT
@@ -378,7 +378,7 @@ Iron Hans
 'cage': KAEUPBLG
 'in': TPH
 'his': HEUS
-'courtyard,': KORT/KWRARD KW-BG
+'courtyard,': KORT/KWRARD/KW-BG
 'and': SKP
 'forbade': TPOR/PWAEUD
 'the': -T
@@ -389,7 +389,7 @@ Iron Hans
 'on': OPB
 'pain': PAEUPB
 'of': -F
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'and': SKP
 'the': -T
 'queen': KWAOEPB
@@ -401,7 +401,7 @@ Iron Hans
 'key': KAOE
 'into': TPHAO
 'her': HER
-'keeping.': KAOEPG TP-PL
+'keeping.': KAOEPG/TP-PL
 'And': AFPBD
 'from': TPR
 'this': TH
@@ -415,7 +415,7 @@ Iron Hans
 'the': -T
 'forest': TPOEFRT
 'with': W
-'safety.': SAEFT TP-PL
+'safety.': SAEFT/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'had': H
@@ -423,38 +423,38 @@ Iron Hans
 'son': SOPB
 'of': -F
 'eight': AET
-'years,': KWRAOERS KW-BG
+'years,': KWRAOERS/KW-BG
 'who': WHO
 'was': WAS
 'once': WUPBS
 'playing': PHRAEUG
 'in': TPH
 'the': -T
-'courtyard,': KORT/KWRARD KW-BG
+'courtyard,': KORT/KWRARD/KW-BG
 'and': SKP
 'while': WHAOEUL
 'he': HE
 'was': WAS
-'playing,': PHRAEUG KW-BG
+'playing,': PHRAEUG/KW-BG
 'his': HEUS
 'golden': TKPWOELD/*EPB
 'ball': PWAUL
 'fell': TPEL
 'into': TPHAO
 'the': -T
-'cage.': KAEUPBLG TP-PL
+'cage.': KAEUPBLG/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'ran': RAPB
 'thither': TH*EURT
 'and': SKP
-'said:': SED STPH-FPLT
-''Give': AE KPA/TKPWEUF
+'said:': SED/STPH-FPLT
+''Give': AE/KPA/TKPWEUF
 'me': PHE
 'my': PHEU
 'ball': PWAUL
-'out.'': OUT TP-PL AE
-''Not': AE KPA/TPHOT
+'out.'': OUT/TP-PL/AE
+''Not': AE/KPA/TPHOT
 'till': TEUL
 'you': U
 'have': SR
@@ -462,27 +462,27 @@ Iron Hans
 'the': -T
 'door': TKAOR
 'for': TPOR
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'man.': PHAPB TP-PL
-''No,'': AE KPA/TPHO KW-BG AE
+'man.': PHAPB/TP-PL
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'said': SED
 'the': -T
-'boy,': PWOEU KW-BG
-''I': AE EU
+'boy,': PWOEU/KW-BG
+''I': AE/EU
 'will': HR
 'not': TPHOT
 'do': TKO
-'that;': THA STPH*FPLT
+'that;': THA/STPH*FPLT
 'the': -T
 'king': KEUPBG
 'has': HAS
 'forbidden': TPAURBTD
-'it,'': T KW-BG AE
+'it,'': T/KW-BG/AE
 'and': SKP
 'ran': RAPB
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'day': TKAEU
@@ -493,19 +493,19 @@ Iron Hans
 'asked': SK-D
 'for': TPOR
 'his': HEUS
-'ball;': PWAUL STPH*FPLT
+'ball;': PWAUL/STPH*FPLT
 'the': -T
 'wild': WAOEULD
 'man': PHAPB
-'said:': SED STPH-FPLT
-''Open': AE KPA/OEP
+'said:': SED/STPH-FPLT
+''Open': AE/KPA/OEP
 'my': PHEU
-'door,'': TKAOR KW-BG AE
+'door,'': TKAOR/KW-BG/AE
 'but': PWUT
 'the': -T
 'boy': PWOEU
 'would': WO
-'not.': TPHOT TP-PL
+'not.': TPHOT/TP-PL
 'On': KPA/OPB
 'the': -T
 'third': THEURD
@@ -515,7 +515,7 @@ Iron Hans
 'had': H
 'ridden': REUD/-PB
 'out': OUT
-'hunting,': HUPBT/-G KW-BG
+'hunting,': HUPBT/-G/KW-BG
 'and': SKP
 'the': -T
 'boy': PWOEU
@@ -523,8 +523,8 @@ Iron Hans
 'once': WUPBS
 'more': PHOR
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'cannot': SK-PBT
 'open': OEP
 'the': -T
@@ -532,59 +532,59 @@ Iron Hans
 'even': AOEPB
 'if': TP
 'I': EU
-'wished,': WEURBD KW-BG
+'wished,': WEURBD/KW-BG
 'for': TPOR
 'I': EU
 'have': SR
 'not': TPHOT
 'the': -T
-'key.'': KAOE TP-PL AE
+'key.'': KAOE/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'wild': WAOEULD
 'man': PHAPB
-'said:': SED STPH-FPLT
-''It': AE KPA/T
+'said:': SED/STPH-FPLT
+''It': AE/KPA/T
 'lies': HRAO*EUS
 'under': TPH-PB
 'your': KWROUR
 'mother's': PHOER/AES
-'pillow,': PEUL/OE KW-BG
+'pillow,': PEUL/OE/KW-BG
 'you': U
 'can': K
 'get': TKPWET
 'it': T
-'there.'': THR TP-PL AE
+'there.'': THR/TP-PL/AE
 'The': KPA/-T
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'who': WHO
 'wanted': WAPBTD
 'to': TO
 'have': SR
 'his': HEUS
 'ball': PWAUL
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'cast': KAFT
 'all': AUL
 'thought': THAUT
 'to': TO
 'the': -T
-'winds,': WEUPBDZ KW-BG
+'winds,': WEUPBDZ/KW-BG
 'and': SKP
 'brought': PWRAUT
 'the': -T
-'key.': KAOE TP-PL
+'key.': KAOE/TP-PL
 'The': KPA/-T
 'door': TKAOR
 'opened': OEPD
 'with': W
-'difficulty,': TKOEUFLT KW-BG
+'difficulty,': TKOEUFLT/KW-BG
 'and': SKP
 'the': -T
 'boy': PWOEU
 'pinched': PEUPB/-FPD
 'his': HEUS
-'fingers.': TPEURPBGS TP-PL
+'fingers.': TPEURPBGS/TP-PL
 'When': KPA/WHEPB
 'it': T
 'was': WAS
@@ -593,51 +593,51 @@ Iron Hans
 'wild': WAOEULD
 'man': PHAPB
 'stepped': STEPD
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'gave': TKPWAEUF
 'him': HEUPL
 'the': -T
 'golden': TKPWOELD/*EPB
-'ball,': PWAUL KW-BG
+'ball,': PWAUL/KW-BG
 'and': SKP
 'hurried': HUR/EUD
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'had': H
 'become': PW-BG
-'afraid;': A/TPRAEUD STPH*FPLT
+'afraid;': A/TPRAEUD/STPH*FPLT
 'he': HE
 'called': KAULD
 'and': SKP
 'cried': KRAOEUD
 'after': AF
-'him:': HEUPL STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'him:': HEUPL/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'wild': WAOEULD
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'do': TKO
 'not': TPHOT
 'go': TKPW
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'or': OR
 'I': EU
 'shall': SHAL
 'be': -B
-'beaten!'': PWAET/*EPB SKHRAPL AE
+'beaten!'': PWAET/*EPB/SKHRAPL/AE
 'The': KPA/-T
 'wild': WAOEULD
 'man': PHAPB
 'turned': TURPBD
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'took': TAOBG
 'him': HEUPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'set': SET
 'him': HEUPL
 'on': OPB
 'his': HEUS
-'shoulder,': SHOURLD KW-BG
+'shoulder,': SHOURLD/KW-BG
 'and': SKP
 'went': WEPBT
 'with': W
@@ -645,17 +645,17 @@ Iron Hans
 'steps': STEPS
 'into': TPHAO
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'king': KEUPBG
 'came': KAEUPL
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'he': HE
 'observed': OEBD
 'the': -T
 'empty': EPLT
-'cage,': KAEUPBLG KW-BG
+'cage,': KAEUPBLG/KW-BG
 'and': SKP
 'asked': SK-D
 'the': -T
@@ -663,28 +663,28 @@ Iron Hans
 'how': HOU
 'that': THA
 'had': H
-'happened.': HAPD TP-PL
+'happened.': HAPD/TP-PL
 'She': KPA/SHE
 'knew': TPHAOU
 'nothing': TPHOG
 'about': PW
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'sought': SAUT
 'the': -T
-'key,': KAOE KW-BG
+'key,': KAOE/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
-'gone.': TKPWOPB TP-PL
+'gone.': TKPWOPB/TP-PL
 'She': KPA/SHE
 'called': KAULD
 'the': -T
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'but': PWUT
 'no': TPHO
 'one': WUPB
-'answered.': AEPBS/-D TP-PL
+'answered.': AEPBS/-D/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'sent': SEPBT
@@ -696,13 +696,13 @@ Iron Hans
 'him': HEUPL
 'in': TPH
 'the': -T
-'fields,': TPAOELDZ KW-BG
+'fields,': TPAOELDZ/KW-BG
 'but': PWUT
 'they': THE
 'did': TK
 'not': TPHOT
 'find': TPAOEUPBD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'could': KO
@@ -710,7 +710,7 @@ Iron Hans
 'guess': TKPWES
 'what': WHA
 'had': H
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'and': SKP
 'much': PHUFP
 'grief': TKPWRAOEF
@@ -718,7 +718,7 @@ Iron Hans
 'in': TPH
 'the': -T
 'royal': ROEUL
-'court.': KORT TP-PL
+'court.': KORT/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'wild': WAOEULD
@@ -729,7 +729,7 @@ Iron Hans
 'reached': RAOEFPD
 'the': -T
 'dark': TKARBG
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'he': HE
 'took': TAOBG
 'the': -T
@@ -737,12 +737,12 @@ Iron Hans
 'down': TKOUPB
 'from': TPR
 'his': HEUS
-'shoulder,': SHOURLD KW-BG
+'shoulder,': SHOURLD/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''You': AE KPA/U
+'him:': HEUPL/STPH-FPLT
+''You': AE/KPA/U
 'will': HR
 'never': TPHEFR
 'see': SAOE
@@ -750,51 +750,51 @@ Iron Hans
 'father': TPAER
 'and': SKP
 'mother': PHOER
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'but': PWUT
 'I': EU
 'will': HR
 'keep': KAOEP
 'you': U
 'with': W
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'for': TPOR
 'you': U
 'have': SR
 'set': SET
 'me': PHE
-'free,': TPRAOE KW-BG
+'free,': TPRAOE/KW-BG
 'and': SKP
 'I': EU
 'have': SR
 'compassion': KPAGS
 'on': OPB
-'you.': U TP-PL
+'you.': U/TP-PL
 'If': KPA/TP
 'you': U
 'do': TKO
 'all': AUL
 'I': EU
 'bid': PWEUD
-'you,': U KW-BG
+'you,': U/KW-BG
 'you': U
 'shall': SHAL
 'fare': TPA*ER
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'Of': KPA/-F
 'treasure': TRERB
 'and': SKP
 'gold': TKPWOELD
 'have': SR
 'I': EU
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'and': SKP
 'more': PHOR
 'than': THAPB
 'anyone': TPHEUPB
 'in': TPH
 'the': -T
-'world.'': WORLD TP-PL AE
+'world.'': WORLD/TP-PL/AE
 'He': KPA/HE
 'made': PHAED
 'a': AEU
@@ -807,7 +807,7 @@ Iron Hans
 'on': OPB
 'which': WEU
 'he': HE
-'slept,': SHREPT KW-BG
+'slept,': SHREPT/KW-BG
 'and': SKP
 'the': -T
 'next': TPHEGT
@@ -818,10 +818,10 @@ Iron Hans
 'him': HEUPL
 'to': TO
 'a': AEU
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Behold,': AE KPA/PWE/HOLD KW-BG
+'said:': SED/STPH-FPLT
+''Behold,': AE/KPA/PWE/HOLD/KW-BG
 'the': -T
 'gold': TKPWOELD
 'well': WEL
@@ -831,12 +831,12 @@ Iron Hans
 'and': SKP
 'clear': KHRAOER
 'as': AS
-'crystal,': KREUFL KW-BG
+'crystal,': KREUFL/KW-BG
 'you': U
 'shall': SHAL
 'sit': SEUT
 'beside': PWE/SAOEUD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'take': TAEUBG
 'care': KAEUR
@@ -844,12 +844,12 @@ Iron Hans
 'nothing': TPHOG
 'falls': TPAULS
 'into': TPHAO
-'it,': T KW-BG
+'it,': T/KW-BG
 'or': OR
 'it': T
 'will': HR
 'be': -B
-'polluted.': PHRAOUT/-D TP-PL
+'polluted.': PHRAOUT/-D/TP-PL
 'I': EU
 'will': HR
 'come': KOPL
@@ -862,7 +862,7 @@ Iron Hans
 'have': SR
 'obeyed': O/PWAEU/-D
 'my': PHEU
-'order.'': ORD TP-PL AE
+'order.'': ORD/TP-PL/AE
 'The': KPA/-T
 'boy': PWOEU
 'placed': PHRAEUFD
@@ -872,7 +872,7 @@ Iron Hans
 'brink': PWR*EUPBG
 'of': -F
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'often': OFPB
 'saw': SAU
@@ -885,19 +885,19 @@ Iron Hans
 'snake': STPHAEUBG
 'show': SHOE
 'itself': T/SEFL
-'therein,': THR-PB KW-BG
+'therein,': THR-PB/KW-BG
 'and': SKP
 'took': TAOBG
 'care': KAEUR
 'that': THA
 'nothing': TPHOG
 'fell': TPEL
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'As': KPA/AS
 'he': HE
 'was': WAS
 'thus': THUS
-'sitting,': SEUGT KW-BG
+'sitting,': SEUGT/KW-BG
 'his': HEUS
 'finger': TPEURPBG
 'hurt': HURT
@@ -911,20 +911,20 @@ Iron Hans
 'it': T
 'in': TPH
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'He': KPA/HE
 'drew': TKRAOU
 'it': T
 'quickly': KWEULG
 'out': OUT
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'but': PWUT
 'saw': SAU
 'that': THA
 'it': T
 'was': WAS
 'quite': KWAOEUT
-'gilded,': TKPWEULD/-D KW-BG
+'gilded,': TKPWEULD/-D/KW-BG
 'and': SKP
 'whatsoever': WHA/SOFR
 'pains': PAEUPBS
@@ -935,65 +935,65 @@ Iron Hans
 'the': -T
 'gold': TKPWOELD
 'off': OF
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'all': AUL
 'was': WAS
 'to': TO
 'no': TPHO
-'purpose.': PURP TP-PL
+'purpose.': PURP/TP-PL
 'In': KPA/TPH
 'the': -T
 'evening': AOEPBG
 'Iron': KPA/AOEURPB
 'Hans': HAPBS
 'came': KAEUPL
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'looked': HRAOBGD
 'at': AT
 'the': -T
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''What': AE KPA/WHA
+'said:': SED/STPH-FPLT
+''What': AE/KPA/WHA
 'has': HAS
 'happened': HAPD
 'to': TO
 'the': -T
-'well?'': WEL H-F AE
-''Nothing': AE KPA/TPHOG
-'nothing,'': TPHOG KW-BG AE
+'well?'': WEL/H-F/AE
+''Nothing': AE/KPA/TPHOG
+'nothing,'': TPHOG/KW-BG/AE
 'he': HE
-'answered,': AEPBS/-D KW-BG
+'answered,': AEPBS/-D/KW-BG
 'and': SKP
 'held': HELD
 'his': HEUS
 'finger': TPEURPBG
 'behind': HEUPBD
 'his': HEUS
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'that': THA
 'the': -T
 'man': PHAPB
 'might': PHAOEUT
 'not': TPHOT
 'see': SAOE
-'it.': T TP-PL
+'it.': T/TP-PL
 'But': KPA/PWUT
 'he': HE
-'said:': SED STPH-FPLT
-''You': AE KPA/U
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
 'have': SR
 'dipped': TKEUPD
 'your': KWROUR
 'finger': TPEURPBG
 'into': TPHAO
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'this': TH
 'time': TAOEUPL
 'it': T
 'may': PHAE
-'pass,': PAS KW-BG
+'pass,': PAS/KW-BG
 'but': PWUT
 'take': TAEUBG
 'care': KAEUR
@@ -1004,7 +1004,7 @@ Iron Hans
 'let': HRET
 'anything': TPHEUG
 'go': TKPW
-'in.'': TPH TP-PL AE
+'in.'': TPH/TP-PL/AE
 'By': KPA/PWEU
 'daybreak': TKAEU/PWRAEBG
 'the': -T
@@ -1017,7 +1017,7 @@ Iron Hans
 'well': WEL
 'and': SKP
 'watching': WAFPG
-'it.': T TP-PL
+'it.': T/TP-PL
 'His': KPA/HEUS
 'finger': TPEURPBG
 'hurt': HURT
@@ -1029,7 +1029,7 @@ Iron Hans
 'it': T
 'over': OEFR
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'then': THEPB
 'unhappily': UPB/HAEP/HREU
@@ -1039,28 +1039,28 @@ Iron Hans
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'He': KPA/HE
 'took': TAOBG
 'it': T
 'quickly': KWEULG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'already': HR-R
 'quite': KWAOEUT
-'gilded.': TKPWEULD/-D TP-PL
+'gilded.': TKPWEULD/-D/TP-PL
 'Iron': KPA/AOEURPB
 'Hans': HAPBS
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'already': HR-R
 'knew': TPHAOU
 'what': WHA
 'had': H
-'happened.': HAPD TP-PL
-''You': AE KPA/U
+'happened.': HAPD/TP-PL
+''You': AE/KPA/U
 'have': SR
 'let': HRET
 'a': AEU
@@ -1068,10 +1068,10 @@ Iron Hans
 'fall': TPAUL
 'into': TPHAO
 'the': -T
-'well,'': WEL KW-BG AE
+'well,'': WEL/KW-BG/AE
 'said': SED
-'he.': HE TP-PL
-''I': AE EU
+'he.': HE/TP-PL
+''I': AE/EU
 'will': HR
 'allow': HROU
 'you': U
@@ -1080,7 +1080,7 @@ Iron Hans
 'by': PWEU
 'it': T
 'once': WUPBS
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'but': PWUT
 'if': TP
 'this': TH
@@ -1101,35 +1101,35 @@ Iron Hans
 'longer': HRORPBG
 'remain': RAEUPL
 'with': W
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'On': KPA/OPB
 'the': -T
 'third': THEURD
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'the': -T
 'boy': PWOEU
 'sat': SAT
 'by': PWEU
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
 'stir': STEUR
 'his': HEUS
-'finger,': TPEURPBG KW-BG
+'finger,': TPEURPBG/KW-BG
 'however': HOUF
 'much': PHUFP
 'it': T
 'hurt': HURT
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'But': KPA/PWUT
 'the': -T
 'time': TAOEUPL
 'was': WAS
 'long': HROPBG
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'looked': HRAOBGD
@@ -1144,7 +1144,7 @@ Iron Hans
 'surface': SUFS
 'of': -F
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'And': AFPBD
 'as': AS
 'he': HE
@@ -1158,7 +1158,7 @@ Iron Hans
 'he': HE
 'was': WAS
 'doing': TK*G
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'and': SKP
 'trying': TRAOEUG
 'to': TO
@@ -1166,7 +1166,7 @@ Iron Hans
 'straight': STRAEUT
 'into': TPHAO
 'the': -T
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'his': HEUS
 'long': HROPBG
 'hair': HAEUR
@@ -1177,12 +1177,12 @@ Iron Hans
 'shoulders': SHOURLDZ
 'into': TPHAO
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'He': KPA/HE
 'raised': RA*EUFD
 'himself': HEUPLS
 'up': UP
-'quickly,': KWEULG KW-BG
+'quickly,': KWEULG/KW-BG
 'but': PWUT
 'the': -T
 'whole': WHOEL
@@ -1199,7 +1199,7 @@ Iron Hans
 'shone': SHO*EPB
 'like': HRAOEUBG
 'the': -T
-'sun.': SUPB TP-PL
+'sun.': SUPB/TP-PL
 'You': KPA/U
 'can': K
 'imagine': PHAPBLG
@@ -1208,17 +1208,17 @@ Iron Hans
 'the': -T
 'poor': PAOR
 'boy': PWOEU
-'was!': WAS SKHRAPL
+'was!': WAS/SKHRAPL
 'He': KPA/HE
 'took': TAOBG
 'his': HEUS
-'pocket-handkerchief': POBGT H-PB HAPB/KER/KHEF
+'pocket-handkerchief': POBGT/H-PB/HAPB/KER/KHEF
 'and': SKP
 'tied': TAO*EUD
 'it': T
 'round': ROUPBD
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'in': TPH
 'order': ORD
 'that': THA
@@ -1227,26 +1227,26 @@ Iron Hans
 'might': PHAOEUT
 'not': TPHOT
 'see': SAOE
-'it.': T TP-PL
+'it.': T/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'came': KAEUPL
 'he': HE
 'already': HR-R
 'knew': TPHAOU
-'everything,': EFRG KW-BG
+'everything,': EFRG/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Take': AE KPA/TAEUBG
+'said:': SED/STPH-FPLT
+''Take': AE/KPA/TAEUBG
 'the': -T
 'handkerchief': HAPB/KER/KHEF
-'off.'': OF TP-PL AE
+'off.'': OF/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'golden': TKPWOELD/*EPB
 'hair': HAEUR
 'streamed': STRAOEPL/-D
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'and': SKP
 'let': HRET
 'the': -T
@@ -1255,13 +1255,13 @@ Iron Hans
 'himself': HEUPLS
 'as': AS
 'he': HE
-'might,': PHAOEUT KW-BG
+'might,': PHAOEUT/KW-BG
 'it': T
 'was': WAS
 'of': -F
 'no': TPHO
-'use.': AOUS TP-PL
-''You': AE KPA/U
+'use.': AOUS/TP-PL
+''You': AE/KPA/U
 'have': SR
 'not': TPHOT
 'stood': STAOD
@@ -1272,19 +1272,19 @@ Iron Hans
 'stay': STAEU
 'here': HAOER
 'no': TPHO
-'longer.': HRORPBG TP-PL
+'longer.': HRORPBG/TP-PL
 'Go': KPA/TKPW
 'forth': TPO*RT
 'into': TPHAO
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'there': THR
 'you': U
 'will': HR
 'learn': HRERPB
 'what': WHA
 'poverty': POFRT
-'is.': S TP-PL
+'is.': S/TP-PL
 'But': KPA/PWUT
 'as': AS
 'you': U
@@ -1292,14 +1292,14 @@ Iron Hans
 'not': TPHOT
 'a': AEU
 'bad': PWAD
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'as': AS
 'I': EU
 'mean': PHAOEPB
 'well': WEL
 'by': PWEU
-'you,': U KW-BG
+'you,': U/KW-BG
 'there': THR
 'is': S
 'one': WUPB
@@ -1307,21 +1307,21 @@ Iron Hans
 'I': EU
 'will': HR
 'grant': TKPWRAPBT
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'if': TP
 'you': U
 'fall': TPAUL
 'into': TPHAO
 'any': TPHEU
-'difficulty,': TKOEUFLT KW-BG
+'difficulty,': TKOEUFLT/KW-BG
 'come': KOPL
 'to': TO
 'the': -T
 'forest': TPOEFRT
 'and': SKP
-'cry:': KRAOEU STPH-FPLT
-'"Iron': KR-GS KPA/AOEURPB
-'Hans,"': HAPBS KW-BG KR-GS
+'cry:': KRAOEU/STPH-FPLT
+'"Iron': KR-GS/KPA/AOEURPB
+'Hans,"': HAPBS/KW-BG/KR-GS
 'and': SKP
 'then': THEPB
 'I': EU
@@ -1329,15 +1329,15 @@ Iron Hans
 'come': KOPL
 'and': SKP
 'help': HEP
-'you.': U TP-PL
+'you.': U/TP-PL
 'My': KPA/PHEU
 'power': POUR
 'is': S
-'great,': TKPWRAET KW-BG
+'great,': TKPWRAET/KW-BG
 'greater': TKPWRAERT
 'than': THAPB
 'you': U
-'think,': THEU KW-BG
+'think,': THEU/KW-BG
 'and': SKP
 'I': EU
 'have': SR
@@ -1345,14 +1345,14 @@ Iron Hans
 'and': SKP
 'silver': SEUL/SRER
 'in': TPH
-'abundance.'': PWUPB/TKAPBS TP-PL AE
+'abundance.'': PWUPB/TKAPBS/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'king's': KEUPBG/AES
 'son': SOPB
 'left': HREFT
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'walked': WAUBGD
 'by': PWEU
@@ -1369,16 +1369,16 @@ Iron Hans
 'reached': RAOEFPD
 'a': AEU
 'great': TKPWRAET
-'city.': STEU TP-PL
+'city.': STEU/TP-PL
 'There': KPA/THR
 'he': HE
 'looked': HRAOBGD
 'for': TPOR
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'but': PWUT
 'could': KO
 'find': TPAOEUPBD
-'none,': TPHOPB KW-BG
+'none,': TPHOPB/KW-BG
 'and': SKP
 'he': HE
 'learnt': HRERPBT
@@ -1388,14 +1388,14 @@ Iron Hans
 'he': HE
 'could': KO
 'help': HEP
-'himself.': HEUPLS TP-PL
+'himself.': HEUPLS/TP-PL
 'At': KPA/AT
 'length': HREPBG
 'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'and': SKP
 'asked': SK-D
 'if': TP
@@ -1403,7 +1403,7 @@ Iron Hans
 'would': WO
 'take': TAEUBG
 'him': HEUPL
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'The': KPA/-T
 'people': PAOEPL
 'about': PW
@@ -1419,16 +1419,16 @@ Iron Hans
 'could': KO
 'make': PHAEUBG
 'of': -F
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'they': THE
 'liked': HRAOEUBGD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'told': TOLD
 'him': HEUPL
 'to': TO
-'stay.': STAEU TP-PL
+'stay.': STAEU/TP-PL
 'At': KPA/AT
 'length': HREPBG
 'the': -T
@@ -1437,7 +1437,7 @@ Iron Hans
 'him': HEUPL
 'into': TPHAO
 'his': HEUS
-'service,': S-FS KW-BG
+'service,': S-FS/KW-BG
 'and': SKP
 'said': SED
 'he': HE
@@ -1445,12 +1445,12 @@ Iron Hans
 'carry': KAER
 'wood': WAOD
 'and': SKP
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'rake': RAEUBG
 'the': -T
 'cinders': SEUPBD/ERS
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'Once': KPA/WUPBS
 'when': WHEPB
 'it': T
@@ -1462,7 +1462,7 @@ Iron Hans
 'else': ELS
 'was': WAS
 'at': AT
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'the': -T
 'cook': KAOBG
 'ordered': ORD/-D
@@ -1474,7 +1474,7 @@ Iron Hans
 'to': TO
 'the': -T
 'royal': ROEUL
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'but': PWUT
 'as': AS
 'he': HE
@@ -1487,13 +1487,13 @@ Iron Hans
 'golden': TKPWOELD/*EPB
 'hair': HAEUR
 'be': -B
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'he': HE
 'kept': KEPT
 'his': HEUS
 'little': HREUL
 'cap': KAP
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'Such': KPA/SUFP
 'a': AEU
 'thing': THEUPBG
@@ -1506,11 +1506,11 @@ Iron Hans
 'under': TPH-PB
 'the': -T
 'king's': KEUPBG/AES
-'notice,': TPH-TS KW-BG
+'notice,': TPH-TS/KW-BG
 'and': SKP
 'he': HE
-'said:': SED STPH-FPLT
-''When': AE KPA/WHEPB
+'said:': SED/STPH-FPLT
+''When': AE/KPA/WHEPB
 'you': U
 'come': KOPL
 'to': TO
@@ -1522,13 +1522,13 @@ Iron Hans
 'take': TAEUBG
 'your': KWROUR
 'hat': HAT
-'off.'': OF TP-PL AE
+'off.'': OF/TP-PL/AE
 'He': KPA/HE
-'answered:': AEPBS/-D STPH-FPLT
-''Ah,': AE KPA/HA*E KW-BG
-'Lord,': HRO*RD KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Ah,': AE/KPA/HA*E/KW-BG
+'Lord,': HRO*RD/KW-BG
 'I': EU
-'cannot;': SK-PBT STPH*FPLT
+'cannot;': SK-PBT/STPH*FPLT
 'I': EU
 'have': SR
 'a': AEU
@@ -1537,7 +1537,7 @@ Iron Hans
 'place': PHRAEUS
 'on': OPB
 'my': PHEU
-'head.'': HED TP-PL AE
+'head.'': HED/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
@@ -1549,7 +1549,7 @@ Iron Hans
 'him': HEUPL
 'and': SKP
 'scolded': SKOLD/-D
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'asked': SK-D
 'how': HOU
@@ -1563,7 +1563,7 @@ Iron Hans
 'that': THA
 'into': TPHAO
 'his': HEUS
-'service;': S-FS STPH*FPLT
+'service;': S-FS/STPH*FPLT
 'and': SKP
 'that': THA
 'he': HE
@@ -1573,21 +1573,21 @@ Iron Hans
 'him': HEUPL
 'away': WA*EU
 'at': AT
-'once.': WUPBS TP-PL
+'once.': WUPBS/TP-PL
 'The': KPA/-T
-'cook,': KAOBG KW-BG
-'however,': HOUF KW-BG
+'cook,': KAOBG/KW-BG
+'however,': HOUF/KW-BG
 'had': H
 'pity': PEUT/TEU
 'on': OPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'exchanged': KPAEUPBG/-D
 'him': HEUPL
 'for': TPOR
 'the': -T
-'gardener's': TKPWARD/TPHER AES
-'boy.': PWOEU TP-PL
+'gardener's': TKPWARD/TPHER/AES
+'boy.': PWOEU/TP-PL
 'And': AFPBD
 'now': TPHOU
 'the': -T
@@ -1598,17 +1598,17 @@ Iron Hans
 'and': SKP
 'water': WAUR
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'hoe': HOE
 'and': SKP
-'dig,': TKEUG KW-BG
+'dig,': TKEUG/KW-BG
 'and': SKP
 'bear': PWAER
 'the': -T
 'wind': WEUPBD
 'and': SKP
 'bad': PWAD
-'weather.': WHR* TP-PL
+'weather.': WHR*/TP-PL
 'Once': KPA/WUPBS
 'in': TPH
 'summer': SAOURPL
@@ -1619,7 +1619,7 @@ Iron Hans
 'alone': A/HROEPB
 'in': TPH
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'the': -T
 'day': TKAEU
 'was': WAS
@@ -1636,7 +1636,7 @@ Iron Hans
 'air': AEUR
 'might': PHAOEUT
 'cool': KAOL
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'As': KPA/AS
 'the': -T
 'sun': SUPB
@@ -1659,7 +1659,7 @@ Iron Hans
 'of': -F
 'the': -T
 'king's': KEUPBG/AES
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'up': UP
 'she': SHE
@@ -1669,23 +1669,23 @@ Iron Hans
 'what': WHA
 'that': THA
 'could': KO
-'be.': -B TP-PL
+'be.': -B/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'saw': SAU
 'the': -T
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'and': SKP
 'cried': KRAOEUD
 'to': TO
-'him:': HEUPL STPH-FPLT
-''Boy,': AE KPA/PWOEU KW-BG
+'him:': HEUPL/STPH-FPLT
+''Boy,': AE/KPA/PWOEU/KW-BG
 'bring': PWREU
 'me': PHE
 'a': AEU
 'wreath': WRAO*ET
 'of': -F
-'flowers.'': TPHRO*URS TP-PL AE
+'flowers.'': TPHRO*URS/TP-PL/AE
 'He': KPA/HE
 'put': PUT
 'his': HEUS
@@ -1693,15 +1693,15 @@ Iron Hans
 'on': OPB
 'with': W
 'all': AUL
-'haste,': HAEUFT KW-BG
+'haste,': HAEUFT/KW-BG
 'and': SKP
 'gathered': TKPWAERD
 'wild': WAOEULD
-'field-flowers': TPAOELD H-PB TPHRO*URS
+'field-flowers': TPAOELD/H-PB/TPHRO*URS
 'and': SKP
 'bound': PWOUPBD
 'them': THEPL
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'was': WAS
@@ -1709,14 +1709,14 @@ Iron Hans
 'the': -T
 'stairs': STAEURS
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'the': -T
 'gardener': TKPWARD/TPHER
 'met': PHET
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''How': AE KPA/HOU
+'said:': SED/STPH-FPLT
+''How': AE/KPA/HOU
 'can': K
 'you': U
 'take': TAEUBG
@@ -1728,49 +1728,49 @@ Iron Hans
 'of': -F
 'such': SUFP
 'common': KPHOPB
-'flowers?': TPHRO*URS H-F
+'flowers?': TPHRO*URS/H-F
 'Go': KPA/TKPW
-'quickly,': KWEULG KW-BG
+'quickly,': KWEULG/KW-BG
 'and': SKP
 'get': TKPWET
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'and': SKP
 'seek': SAOEBG
 'out': OUT
 'the': -T
 'prettiest': PRET/KWREFT
 'and': SKP
-'rarest.'': RAEUR/EFT TP-PL AE
-''Oh,': AE KPA/O*ERBGS KW-BG
-'no,'': TPHO KW-BG AE
+'rarest.'': RAEUR/EFT/TP-PL/AE
+''Oh,': AE/KPA/O*ERBGS/KW-BG
+'no,'': TPHO/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'boy,': PWOEU KW-BG
-''the': AE -T
+'boy,': PWOEU/KW-BG
+''the': AE/-T
 'wild': WAOEULD
 'ones': WUPBZ
 'have': SR
 'more': PHOR
-'scent,': SKEPBT KW-BG
+'scent,': SKEPBT/KW-BG
 'and': SKP
 'will': HR
 'please': PHRES
 'her': HER
-'better.'': PWOERT TP-PL AE
+'better.'': PWOERT/TP-PL/AE
 'When': KPA/WHEPB
 'he': HE
 'got': TKPWOT
 'into': TPHAO
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'the': -T
 'king's': KEUPBG/AES
 'daughter': TKAUR
-'said:': SED STPH-FPLT
-''Take': AE KPA/TAEUBG
+'said:': SED/STPH-FPLT
+''Take': AE/KPA/TAEUBG
 'your': KWROUR
 'cap': KAP
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'it': T
 'is': S
 'not': TPHOT
@@ -1781,20 +1781,20 @@ Iron Hans
 'on': OPB
 'in': TPH
 'my': PHEU
-'presence.'': PREPBS TP-PL AE
+'presence.'': PREPBS/TP-PL/AE
 'He': KPA/HE
 'again': TKPWEPB
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'may': PHAE
-'not,': TPHOT KW-BG
+'not,': TPHOT/KW-BG
 'I': EU
 'have': SR
 'a': AEU
 'sore': SOR
-'head.'': HED TP-PL AE
-'She,': KPA/SHE KW-BG
-'however,': HOUF KW-BG
+'head.'': HED/TP-PL/AE
+'She,': KPA/SHE/KW-BG
+'however,': HOUF/KW-BG
 'caught': KAUT
 'at': AT
 'his': HEUS
@@ -1802,7 +1802,7 @@ Iron Hans
 'and': SKP
 'pulled': PULD
 'it': T
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'then': THEPB
 'his': HEUS
@@ -1812,36 +1812,36 @@ Iron Hans
 'down': TKOUPB
 'on': OPB
 'his': HEUS
-'shoulders,': SHOURLDZ KW-BG
+'shoulders,': SHOURLDZ/KW-BG
 'and': SKP
 'it': T
 'was': WAS
 'splendid': SPHREPB/TKEUD
 'to': TO
-'behold.': PWE/HOLD TP-PL
+'behold.': PWE/HOLD/TP-PL
 'He': KPA/HE
 'wanted': WAPBTD
 'to': TO
 'run': RUPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'but': PWUT
 'she': SHE
 'held': HELD
 'him': HEUPL
 'by': PWEU
 'the': -T
-'arm,': ARPL KW-BG
+'arm,': ARPL/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
 'handful': HAPBD/-FL
 'of': -F
-'ducats.': TKUBG/A*T/-S TP-PL
+'ducats.': TKUBG/A*T/-S/TP-PL
 'With': KPA/W
 'these': THEZ
 'he': HE
-'departed,': TKPART/-D KW-BG
+'departed,': TKPART/-D/KW-BG
 'but': PWUT
 'he': HE
 'cared': KAEURD
@@ -1849,26 +1849,26 @@ Iron Hans
 'for': TPOR
 'the': -T
 'gold': TKPWOELD
-'pieces.': PAOEFS TP-PL
+'pieces.': PAOEFS/TP-PL
 'He': KPA/HE
 'took': TAOBG
 'them': THEPL
 'to': TO
 'the': -T
-'gardener,': TKPWARD/TPHER KW-BG
+'gardener,': TKPWARD/TPHER/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'present': PREPBT
 'them': THEPL
 'to': TO
 'your': KWROUR
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'they': THE
 'can': K
 'play': PHRAEU
 'with': W
-'them.'': THEPL TP-PL AE
+'them.'': THEPL/TP-PL/AE
 'The': KPA/-T
 'following': TPOLG
 'day': TKAEU
@@ -1888,20 +1888,20 @@ Iron Hans
 'a': AEU
 'wreath': WRAO*ET
 'of': -F
-'field-flowers,': TPAOELD H-PB TPHRO*URS KW-BG
+'field-flowers,': TPAOELD/H-PB/TPHRO*URS/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
 'went': WEPBT
 'in': TPH
 'with': W
-'it,': T KW-BG
+'it,': T/KW-BG
 'she': SHE
 'instantly': EUPB/STAPBT/HREU
 'snatched': STPHAFPD
 'at': AT
 'his': HEUS
-'cap,': KAP KW-BG
+'cap,': KAP/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'to': TO
@@ -1909,7 +1909,7 @@ Iron Hans
 'it': T
 'away': WA*EU
 'from': TPR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'he': HE
 'held': HELD
@@ -1917,7 +1917,7 @@ Iron Hans
 'fast': TPAFT
 'with': W
 'both': PWO*T
-'hands.': HAPBDZ TP-PL
+'hands.': HAPBDZ/TP-PL
 'She': KPA/SHE
 'again': TKPWEPB
 'gave': TKPWAEUF
@@ -1925,13 +1925,13 @@ Iron Hans
 'a': AEU
 'handful': HAPBD/-FL
 'of': -F
-'ducats,': TKUBG/A*T/-S KW-BG
+'ducats,': TKUBG/A*T/-S/KW-BG
 'but': PWUT
 'he': HE
 'would': WO
 'not': TPHOT
 'keep': KAOEP
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'them': THEPL
@@ -1942,7 +1942,7 @@ Iron Hans
 'playthings': PHRAEU/THEUPBG/-S
 'for': TPOR
 'his': HEUS
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'On': KPA/OPB
 'the': -T
 'third': THEURD
@@ -1951,7 +1951,7 @@ Iron Hans
 'went': WEPBT
 'just': SKWRUFT
 'the': -T
-'same;': SAEUPL STPH*FPLT
+'same;': SAEUPL/STPH*FPLT
 'she': SHE
 'could': KO
 'not': TPHOT
@@ -1960,29 +1960,29 @@ Iron Hans
 'cap': KAP
 'away': WA*EU
 'from': TPR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'would': WO
 'not': TPHOT
 'have': SR
 'her': HER
-'money.': PHUPB TP-PL
+'money.': PHUPB/TP-PL
 'Not': KPA/TPHOT
 'long': HROPBG
-'afterwards,': A*FRDZ KW-BG
+'afterwards,': A*FRDZ/KW-BG
 'the': -T
 'country': KREU
 'was': WAS
 'overrun': AUFR/RUPB
 'by': PWEU
-'war.': WAR TP-PL
+'war.': WAR/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'gathered': TKPWAERD
 'together': TOGT
 'his': HEUS
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
@@ -1997,7 +1997,7 @@ Iron Hans
 'opposition': OP/POGS
 'to': TO
 'the': -T
-'enemy,': TPHAEPL KW-BG
+'enemy,': TPHAEPL/KW-BG
 'who': WHO
 'was': WAS
 'superior': SPOEUR
@@ -2007,41 +2007,41 @@ Iron Hans
 'had': H
 'a': AEU
 'mighty': PHAOEUT/KWREU
-'army.': AERPL TP-PL
+'army.': AERPL/TP-PL
 'Then': KPA/THEPB
 'said': SED
 'the': -T
-'gardener's': TKPWARD/TPHER AES
-'boy:': PWOEU STPH-FPLT
-''I': AE EU
+'gardener's': TKPWARD/TPHER/AES
+'boy:': PWOEU/STPH-FPLT
+''I': AE/EU
 'am': APL
 'grown': TKPWROEPB
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'will': HR
 'go': TKPW
 'to': TO
 'the': -T
 'wars': WARS
-'also,': HR-S KW-BG
+'also,': HR-S/KW-BG
 'only': OEPBL
 'give': TKPWEUF
 'me': PHE
 'a': AEU
-'horse.'': HORS TP-PL AE
+'horse.'': HORS/TP-PL/AE
 'The': KPA/-T
 'others': OERS
-'laughed,': HRAFD KW-BG
+'laughed,': HRAFD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Seek': AE KPA/SAOEBG
+'said:': SED/STPH-FPLT
+''Seek': AE/KPA/SAOEBG
 'one': WUPB
 'for': TPOR
 'yourself': KWRO*URS
 'when': WHEPB
 'we': WE
 'are': R
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'we': WE
 'will': HR
 'leave': HREF
@@ -2052,55 +2052,55 @@ Iron Hans
 'the': -T
 'stable': STABL
 'for': TPOR
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'When': KPA/WHEPB
 'they': THE
 'had': H
 'gone': TKPWOPB
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'he': HE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'stable,': STABL KW-BG
+'stable,': STABL/KW-BG
 'and': SKP
 'led': HRED
 'the': -T
 'horse': HORS
-'out;': OUT STPH*FPLT
+'out;': OUT/STPH*FPLT
 'it': T
 'was': WAS
 'lame': HRAEUPL
 'of': -F
 'one': WUPB
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'and': SKP
 'limped': HREUPL/-PD
 'hobblety': xxx hobblety
-'jib,': SKWREUB KW-BG
+'jib,': SKWREUB/KW-BG
 'hobblety': xxx hobblety
-'jib;': SKWREUB STPH*FPLT
+'jib;': SKWREUB/STPH*FPLT
 'nevertheless': TPHEFRLS
 'he': HE
 'mounted': PHOUPBTD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'rode': ROED
 'away': WA*EU
 'to': TO
 'the': -T
 'dark': TKARBG
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'came': KAEUPL
 'to': TO
 'the': -T
-'outskirts,': AOUT/SKEURTS KW-BG
+'outskirts,': AOUT/SKEURTS/KW-BG
 'he': HE
 'called': KAULD
-''Iron': AE KPA/AOEURPB
-'Hans'': HAPBS AE
+''Iron': AE/KPA/AOEURPB
+'Hans'': HAPBS/AE
 'three': THRAOE
 'times': TAOEUPLS
 'so': SO
@@ -2110,42 +2110,42 @@ Iron Hans
 'echoed': EBG/OE/-D
 'through': THRU
 'the': -T
-'trees.': TRAOES TP-PL
+'trees.': TRAOES/TP-PL
 'Thereupon': KPA/THRUP
 'the': -T
 'wild': WAOEULD
 'man': PHAPB
 'appeared': A/PAOERD
-'immediately,': PHAOELD KW-BG
+'immediately,': PHAOELD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''What': AE KPA/WHA
+'said:': SED/STPH-FPLT
+''What': AE/KPA/WHA
 'do': TKO
 'you': U
-'desire?'': STKAOEUR H-F AE
-''I': AE EU
+'desire?'': STKAOEUR/H-F/AE
+''I': AE/EU
 'want': WAPBT
 'a': AEU
 'strong': STROPBG
-'steed,': STAOED KW-BG
+'steed,': STAOED/KW-BG
 'for': TPOR
 'I': EU
 'am': APL
 'going': TKPW-G
 'to': TO
 'the': -T
-'wars.'': WARS TP-PL AE
-''That': AE KPA/THA
+'wars.'': WARS/TP-PL/AE
+''That': AE/KPA/THA
 'you': U
 'shall': SHAL
-'have,': SR KW-BG
+'have,': SR/KW-BG
 'and': SKP
 'still': STEUL
 'more': PHOR
 'than': THAPB
 'you': U
 'ask': SK
-'for.'': TPOR TP-PL AE
+'for.'': TPOR/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'wild': WAOEULD
@@ -2154,7 +2154,7 @@ Iron Hans
 'back': PWABG
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -2162,11 +2162,11 @@ Iron Hans
 'long': HROPBG
 'before': PW-FR
 'a': AEU
-'stable-boy': STABL H-PB PWOEU
+'stable-boy': STABL/H-PB/PWOEU
 'came': KAEUPL
 'out': OUT
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'who': WHO
 'led': HRED
 'a': AEU
@@ -2175,12 +2175,12 @@ Iron Hans
 'snorted': STPHORT/-D
 'with': W
 'its': EUTS
-'nostrils,': TPHOS/TREULS KW-BG
+'nostrils,': TPHOS/TREULS/KW-BG
 'and': SKP
 'could': KO
 'hardly': HA*RLD
 'be': -B
-'restrained,': RAOE/STRAEUPBD KW-BG
+'restrained,': RAOE/STRAEUPBD/KW-BG
 'and': SKP
 'behind': HEUPBD
 'them': THEPL
@@ -2193,27 +2193,27 @@ Iron Hans
 'entirely': SPWAOEURL
 'equipped': KWEUPD
 'in': TPH
-'iron,': AOEURPB KW-BG
+'iron,': AOEURPB/KW-BG
 'and': SKP
 'their': THAEUR
 'swords': SOERDZ
 'flashed': TPHRARBD
 'in': TPH
 'the': -T
-'sun.': SUPB TP-PL
+'sun.': SUPB/TP-PL
 'The': KPA/-T
 'youth': KWRAO*UT
 'made': PHAED
 'over': OEFR
 'his': HEUS
-'three-legged': THRAOE H-PB HREG/-D
+'three-legged': THRAOE/H-PB/HREG/-D
 'horse': HORS
 'to': TO
 'the': -T
-'stable-boy,': STABL H-PB PWOEU KW-BG
+'stable-boy,': STABL/H-PB/PWOEU/KW-BG
 'mounted': PHOUPBTD
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'rode': ROED
 'at': AT
@@ -2221,7 +2221,7 @@ Iron Hans
 'head': HED
 'of': -F
 'the': -T
-'soldiers.': SHRERPBLGS TP-PL
+'soldiers.': SHRERPBLGS/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'got': TKPWOT
@@ -2237,7 +2237,7 @@ Iron Hans
 'men': PHEPB
 'had': H
 'already': HR-R
-'fallen,': TPAUL/-PB KW-BG
+'fallen,': TPAUL/-PB/KW-BG
 'and': SKP
 'little': HREUL
 'was': WAS
@@ -2247,7 +2247,7 @@ Iron Hans
 'the': -T
 'rest': REFT
 'give': TKPWEUF
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'youth': KWRAO*UT
@@ -2256,32 +2256,32 @@ Iron Hans
 'with': W
 'his': HEUS
 'iron': AOEURPB
-'soldiers,': SHRERPBLGS KW-BG
+'soldiers,': SHRERPBLGS/KW-BG
 'broke': PWROEBG
 'like': HRAOEUBG
 'a': AEU
 'hurricane': HUR/KAEUPB
 'over': OEFR
 'the': -T
-'enemy,': TPHAEPL KW-BG
+'enemy,': TPHAEPL/KW-BG
 'and': SKP
 'beat': PWAET
 'down': TKOUPB
 'all': AUL
 'who': WHO
 'opposed': PO*EFD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'They': KPA/THE
 'began': TKPWAPB
 'to': TO
-'flee,': TPHRAOE KW-BG
+'flee,': TPHRAOE/KW-BG
 'but': PWUT
 'the': -T
 'youth': KWRAO*UT
-'pursued,': PUR/SAOUD KW-BG
+'pursued,': PUR/SAOUD/KW-BG
 'and': SKP
 'never': TPHEFR
-'stopped,': STOPD KW-BG
+'stopped,': STOPD/KW-BG
 'until': TPH-L
 'there': THR
 'was': WAS
@@ -2289,14 +2289,14 @@ Iron Hans
 'a': AEU
 'single': SEUPBLG
 'man': PHAPB
-'left.': HREFT TP-PL
+'left.': HREFT/TP-PL
 'Instead': KPA/STPHED
 'of': -F
 'returning': RURPBG
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
-'however,': HOUF KW-BG
+'king,': KEUPBG/KW-BG
+'however,': HOUF/KW-BG
 'he': HE
 'conducted': KUBGTD
 'his': HEUS
@@ -2306,40 +2306,40 @@ Iron Hans
 'back': PWABG
 'to': TO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'called': KAULD
 'forth': TPO*RT
 'Iron': KPA/AOEURPB
-'Hans.': HAPBS TP-PL
-''What': AE KPA/WHA
+'Hans.': HAPBS/TP-PL
+''What': AE/KPA/WHA
 'do': TKO
 'you': U
-'desire?'': STKAOEUR H-F AE
+'desire?'': STKAOEUR/H-F/AE
 'asked': SK-D
 'the': -T
 'wild': WAOEULD
-'man.': PHAPB TP-PL
-''Take': AE KPA/TAEUBG
+'man.': PHAPB/TP-PL
+''Take': AE/KPA/TAEUBG
 'back': PWABG
 'your': KWROUR
 'horse': HORS
 'and': SKP
 'your': KWROUR
-'troops,': TRAOPS KW-BG
+'troops,': TRAOPS/KW-BG
 'and': SKP
 'give': TKPWEUF
 'me': PHE
 'my': PHEU
-'three-legged': THRAOE H-PB HREG/-D
+'three-legged': THRAOE/H-PB/HREG/-D
 'horse': HORS
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'All': KPA/AUL
 'that': THA
 'he': HE
 'asked': SK-D
 'was': WAS
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'soon': SAOPB
 'he': HE
@@ -2347,29 +2347,29 @@ Iron Hans
 'riding': RAOEUD/-G
 'on': OPB
 'his': HEUS
-'three-legged': THRAOE H-PB HREG/-D
-'horse.': HORS TP-PL
+'three-legged': THRAOE/H-PB/HREG/-D
+'horse.': HORS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'king': KEUPBG
 'returned': RURPBD
 'to': TO
 'his': HEUS
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'his': HEUS
 'daughter': TKAUR
 'went': WEPBT
 'to': TO
 'meet': PHAOET
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'wished': WEURBD
 'him': HEUPL
 'joy': SKWROEU
 'of': -F
 'his': HEUS
-'victory.': SREUBGT/REU TP-PL
-''I': AE EU
+'victory.': SREUBGT/REU/TP-PL
+''I': AE/EU
 'am': APL
 'not': TPHOT
 'the': -T
@@ -2378,10 +2378,10 @@ Iron Hans
 'carried': KAERD
 'away': WA*EU
 'the': -T
-'victory,'': SREUBGT/REU KW-BG AE
+'victory,'': SREUBGT/REU/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''but': AE PWUT
+'he,': HE/KW-BG
+''but': AE/PWUT
 'a': AEU
 'strange': STRAEUPBG
 'knight': TPHAO*EUT
@@ -2392,7 +2392,7 @@ Iron Hans
 'assistance': SEUFPBS
 'with': W
 'his': HEUS
-'soldiers.'': SHRERPBLGS TP-PL AE
+'soldiers.'': SHRERPBLGS/TP-PL/AE
 'The': KPA/-T
 'daughter': TKAUR
 'wanted': WAPBTD
@@ -2402,26 +2402,26 @@ Iron Hans
 'the': -T
 'strange': STRAEUPBG
 'knight': TPHAO*EUT
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'but': PWUT
 'the': -T
 'king': KEUPBG
 'did': TK
 'not': TPHOT
-'know,': TPHOE KW-BG
+'know,': TPHOE/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''He': AE KPA/HE
+'said:': SED/STPH-FPLT
+''He': AE/KPA/HE
 'followed': TPOLD
 'the': -T
-'enemy,': TPHAEPL KW-BG
+'enemy,': TPHAEPL/KW-BG
 'and': SKP
 'I': EU
 'did': TK
 'not': TPHOT
 'see': SAOE
 'him': HEUPL
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'She': KPA/SHE
 'inquired': EUPB/KWAOEURD
 'of': -F
@@ -2430,41 +2430,41 @@ Iron Hans
 'where': W-R
 'his': HEUS
 'boy': PWOEU
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'but': PWUT
 'he': HE
-'smiled,': SPHAOEULD KW-BG
+'smiled,': SPHAOEULD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''He': AE KPA/HE
+'said:': SED/STPH-FPLT
+''He': AE/KPA/HE
 'has': HAS
 'just': SKWRUFT
 'come': KOPL
 'home': HOEPL
 'on': OPB
 'his': HEUS
-'three-legged': THRAOE H-PB HREG/-D
-'horse,': HORS KW-BG
+'three-legged': THRAOE/H-PB/HREG/-D
+'horse,': HORS/KW-BG
 'and': SKP
 'the': -T
 'others': OERS
 'have': SR
 'been': PW-PB
 'mocking': PHOBG/-G
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'crying:': KRAOEUG STPH-FPLT
-'"Here': KR-GS KPA/HAOER
+'crying:': KRAOEUG/STPH-FPLT
+'"Here': KR-GS/KPA/HAOER
 'comes': KOPLS
 'our': OUR
 'hobblety': xxx hobblety
 'jib': SKWREUB
 'back': PWABG
-'again!"': TKPWEPB SKHRAPL KR-GS
+'again!"': TKPWEPB/SKHRAPL/KR-GS
 'They': KPA/THE
-'asked,': SK-D KW-BG
-'too:': TAO STPH-FPLT
-'"Under': KR-GS KPA/TPH-PB
+'asked,': SK-D/KW-BG
+'too:': TAO/STPH-FPLT
+'"Under': KR-GS/KPA/TPH-PB
 'what': WHA
 'hedge': HEPBLG
 'have': SR
@@ -2474,16 +2474,16 @@ Iron Hans
 'sleeping': SHRAOEPG
 'all': AUL
 'the': -T
-'time?"': TAOEUPL H-F KR-GS
+'time?"': TAOEUPL/H-F/KR-GS
 'So': KPA/SO
 'he': HE
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'did': TK
 'the': -T
 'best': PWEFT
 'of': -F
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'it': T
 'would': WO
@@ -2491,21 +2491,21 @@ Iron Hans
 'gone': TKPWOPB
 'badly': PWAD/HREU
 'without': WOUT
-'me."': PHE TP-PL KR-GS
+'me."': PHE/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'he': HE
 'was': WAS
 'still': STEUL
 'more': PHOR
-'ridiculed.'': REULG/-D TP-PL AE
+'ridiculed.'': REULG/-D/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'said': SED
 'to': TO
 'his': HEUS
-'daughter:': TKAUR STPH-FPLT
-''I': AE EU
+'daughter:': TKAUR/STPH-FPLT
+''I': AE/EU
 'will': HR
 'proclaim': PRO/KHRAEUPL
 'a': AEU
@@ -2516,44 +2516,44 @@ Iron Hans
 'last': HRAFT
 'for': TPOR
 'three': THRAOE
-'days,': TKAEUS KW-BG
+'days,': TKAEUS/KW-BG
 'and': SKP
 'you': U
 'shall': SHAL
 'throw': THROE
 'a': AEU
 'golden': TKPWOELD/*EPB
-'apple.': A*EPL TP-PL
+'apple.': A*EPL/TP-PL
 'Perhaps': KPA/PRAPS
 'the': -T
 'unknown': UPB/TPHOEPB
 'man': PHAPB
 'will': HR
 'show': SHOE
-'himself.'': HEUPLS TP-PL AE
+'himself.'': HEUPLS/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'feast': TPAOEFT
 'was': WAS
-'announced,': A/TPHOUPBS/-D KW-BG
+'announced,': A/TPHOUPBS/-D/KW-BG
 'the': -T
 'youth': KWRAO*UT
 'went': WEPBT
 'out': OUT
 'to': TO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'called': KAULD
 'Iron': KPA/AOEURPB
-'Hans.': HAPBS TP-PL
-''What': AE KPA/WHA
+'Hans.': HAPBS/TP-PL
+''What': AE/KPA/WHA
 'do': TKO
 'you': U
-'desire?'': STKAOEUR H-F AE
+'desire?'': STKAOEUR/H-F/AE
 'asked': SK-D
-'he.': HE TP-PL
-''That': AE KPA/THA
+'he.': HE/TP-PL
+''That': AE/KPA/THA
 'I': EU
 'may': PHAE
 'catch': KAFP
@@ -2561,8 +2561,8 @@ Iron Hans
 'king's': KEUPBG/AES
 'daughter's': TKAUR/AES
 'golden': TKPWOELD/*EPB
-'apple.'': A*EPL TP-PL AE
-''It': AE KPA/T
+'apple.'': A*EPL/TP-PL/AE
+''It': AE/KPA/T
 'is': S
 'as': AS
 'safe': SAEUF
@@ -2571,11 +2571,11 @@ Iron Hans
 'you': U
 'had': H
 'it': T
-'already,'': HR-R KW-BG AE
+'already,'': HR-R/KW-BG/AE
 'said': SED
 'Iron': KPA/AOEURPB
-'Hans.': HAPBS TP-PL
-''You': AE KPA/U
+'Hans.': HAPBS/TP-PL
+''You': AE/KPA/U
 'shall': SHAL
 'likewise': HRAOEUBG/WAOEUS
 'have': SR
@@ -2586,40 +2586,40 @@ Iron Hans
 'armour': AR/PHOUR
 'for': TPOR
 'the': -T
-'occasion,': KWAEUGS KW-BG
+'occasion,': KWAEUGS/KW-BG
 'and': SKP
 'ride': RAOEUD
 'on': OPB
 'a': AEU
 'spirited': SPEURTD
-'chestnut-horse.'': KHEFT/TPHUT H-PB HORS TP-PL AE
+'chestnut-horse.'': KHEFT/TPHUT/H-PB/HORS/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'day': TKAEU
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'the': -T
 'youth': KWRAO*UT
 'galloped': TKPWAL/OP/-D
 'to': TO
 'the': -T
-'spot,': SPOT KW-BG
+'spot,': SPOT/KW-BG
 'took': TAOBG
 'his': HEUS
 'place': PHRAEUS
 'amongst': PHOPBGS
 'the': -T
-'knights,': TPHAO*EUT/-S KW-BG
+'knights,': TPHAO*EUT/-S/KW-BG
 'and': SKP
 'was': WAS
 'recognized': REFD
 'by': PWEU
 'no': TPHO
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'The': KPA/-T
 'king's': KEUPBG/AES
 'daughter': TKAUR
 'came': KAEUPL
-'forward,': TPAORD KW-BG
+'forward,': TPAORD/KW-BG
 'and': SKP
 'threw': THRAOU
 'a': AEU
@@ -2627,7 +2627,7 @@ Iron Hans
 'apple': A*EPL
 'to': TO
 'the': -T
-'knights,': TPHAO*EUT/-S KW-BG
+'knights,': TPHAO*EUT/-S/KW-BG
 'but': PWUT
 'none': TPHOPB
 'of': -F
@@ -2635,7 +2635,7 @@ Iron Hans
 'caught': KAUT
 'it': T
 'but': PWUT
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'only': OEPBL
 'as': AS
 'soon': SAOPB
@@ -2645,7 +2645,7 @@ Iron Hans
 'it': T
 'he': HE
 'galloped': TKPWAL/OP/-D
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'On': KPA/OPB
 'the': -T
 'second': SEBGD
@@ -2657,13 +2657,13 @@ Iron Hans
 'as': AS
 'a': AEU
 'white': WHAOEUT
-'knight,': TPHAO*EUT KW-BG
+'knight,': TPHAO*EUT/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
 'white': WHAOEUT
-'horse.': HORS TP-PL
+'horse.': HORS/TP-PL
 'Again': KPA/TKPWEPB
 'he': HE
 'was': WAS
@@ -2673,29 +2673,29 @@ Iron Hans
 'who': WHO
 'caught': KAUT
 'the': -T
-'apple,': A*EPL KW-BG
+'apple,': A*EPL/KW-BG
 'and': SKP
 'he': HE
 'did': TK
 'not': TPHOT
 'linger': HREURPBG
 'an': APB
-'instant,': STPHAPBT KW-BG
+'instant,': STPHAPBT/KW-BG
 'but': PWUT
 'galloped': TKPWAL/OP/-D
 'off': OF
 'with': W
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'grew': TKPWRAOU
-'angry,': APBG/REU KW-BG
+'angry,': APBG/REU/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''That': AE KPA/THA
+'said:': SED/STPH-FPLT
+''That': AE/KPA/THA
 'is': S
 'not': TPHOT
-'allowed;': HRO*UD STPH*FPLT
+'allowed;': HRO*UD/STPH*FPLT
 'he': HE
 'must': PHUFT
 'appear': A/PAOER
@@ -2704,7 +2704,7 @@ Iron Hans
 'and': SKP
 'tell': TEL
 'his': HEUS
-'name.'': TPHAEUPL TP-PL AE
+'name.'': TPHAEUPL/TP-PL/AE
 'He': KPA/HE
 'gave': TKPWAEUF
 'the': -T
@@ -2716,7 +2716,7 @@ Iron Hans
 'who': WHO
 'caught': KAUT
 'the': -T
-'apple,': A*EPL KW-BG
+'apple,': A*EPL/KW-BG
 'should': SHO
 'go': TKPW
 'away': WA*EU
@@ -2724,7 +2724,7 @@ Iron Hans
 'they': THE
 'should': SHO
 'pursue': PUR/SAOU
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'if': TP
 'he': HE
@@ -2732,7 +2732,7 @@ Iron Hans
 'not': TPHOT
 'come': KOPL
 'back': PWABG
-'willingly,': HR-G/HREU KW-BG
+'willingly,': HR-G/HREU/KW-BG
 'they': THE
 'were': WR
 'to': TO
@@ -2741,11 +2741,11 @@ Iron Hans
 'down': TKOUPB
 'and': SKP
 'stab': STAB
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'On': KPA/OPB
 'the': -T
 'third': THEURD
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'he': HE
 'received': SAOEFD
 'from': TPR
@@ -2759,13 +2759,13 @@ Iron Hans
 'and': SKP
 'a': AEU
 'black': PWHRABG
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'again': TKPWEPB
 'he': HE
 'caught': KAUT
 'the': -T
-'apple.': A*EPL TP-PL
+'apple.': A*EPL/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -2773,12 +2773,12 @@ Iron Hans
 'riding': RAOEUD/-G
 'off': OF
 'with': W
-'it,': T KW-BG
+'it,': T/KW-BG
 'the': -T
 'king's': KEUPBG/AES
 'attendants': A/TEPBD/APBTS
 'pursued': PUR/SAOUD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'one': WUPB
 'of': -F
@@ -2791,20 +2791,20 @@ Iron Hans
 'he': HE
 'wounded': WOUPBD/-D
 'the': -T
-'youth's': KWRAO*UT AES
+'youth's': KWRAO*UT/AES
 'leg': HREG
 'with': W
 'the': -T
 'point': POEUPBT
 'of': -F
 'his': HEUS
-'sword.': SOERD TP-PL
+'sword.': SOERD/TP-PL
 'The': KPA/-T
 'youth': KWRAO*UT
 'nevertheless': TPHEFRLS
 'escaped': SKAEPD
 'from': TPR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'but': PWUT
 'his': HEUS
 'horse': HORS
@@ -2817,8 +2817,8 @@ Iron Hans
 'fell': TPEL
 'from': TPR
 'the': -T
-'youth's': KWRAO*UT AES
-'head,': HED KW-BG
+'youth's': KWRAO*UT/AES
+'head,': HED/KW-BG
 'and': SKP
 'they': THE
 'could': KO
@@ -2827,7 +2827,7 @@ Iron Hans
 'he': HE
 'had': H
 'golden': TKPWOELD/*EPB
-'hair.': HAEUR TP-PL
+'hair.': HAEUR/TP-PL
 'They': KPA/THE
 'rode': ROED
 'back': PWABG
@@ -2836,7 +2836,7 @@ Iron Hans
 'this': TH
 'to': TO
 'the': -T
-'king.': KEUPBG TP-PL
+'king.': KEUPBG/TP-PL
 'The': KPA/-T
 'following': TPOLG
 'day': TKAEU
@@ -2848,14 +2848,14 @@ Iron Hans
 'gardener': TKPWARD/TPHER
 'about': PW
 'his': HEUS
-'boy.': PWOEU TP-PL
-''He': AE KPA/HE
+'boy.': PWOEU/TP-PL
+''He': AE/KPA/HE
 'is': S
 'at': AT
 'work': WORBG
 'in': TPH
 'the': -T
-'garden;': TKPWA*RPB STPH*FPLT
+'garden;': TKPWA*RPB/STPH*FPLT
 'the': -T
 'queer': KWAOER
 'creature': KRAOEFP
@@ -2864,13 +2864,13 @@ Iron Hans
 'at': AT
 'the': -T
 'festival': TPEFT/SRAL
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'and': SKP
 'only': OEPBL
 'came': KAEUPL
 'home': HOEPL
 'yesterday': KWRED
-'evening;': AOEPBG STPH*FPLT
+'evening;': AOEPBG/STPH*FPLT
 'he': HE
 'has': HAS
 'likewise': HRAOEUBG/WAOEUS
@@ -2883,7 +2883,7 @@ Iron Hans
 'which': WEU
 'he': HE
 'has': HAS
-'won.'': WOPB TP-PL AE
+'won.'': WOPB/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'had': H
@@ -2891,7 +2891,7 @@ Iron Hans
 'summoned': SPHUPBD
 'into': TPHAO
 'his': HEUS
-'presence,': PREPBS KW-BG
+'presence,': PREPBS/KW-BG
 'and': SKP
 'he': HE
 'came': KAEUPL
@@ -2903,7 +2903,7 @@ Iron Hans
 'cap': KAP
 'on': OPB
 'his': HEUS
-'head.': HED TP-PL
+'head.': HED/TP-PL
 'But': KPA/PWUT
 'the': -T
 'king's': KEUPBG/AES
@@ -2915,7 +2915,7 @@ Iron Hans
 'and': SKP
 'took': TAOBG
 'it': T
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'then': THEPB
 'his': HEUS
@@ -2925,7 +2925,7 @@ Iron Hans
 'down': TKOUPB
 'over': OEFR
 'his': HEUS
-'shoulders,': SHOURLDZ KW-BG
+'shoulders,': SHOURLDZ/KW-BG
 'and': SKP
 'he': HE
 'was': WAS
@@ -2934,8 +2934,8 @@ Iron Hans
 'that': THA
 'all': AUL
 'were': WR
-'amazed.': A/PHAEUFD TP-PL
-''Are': AE KPA/R
+'amazed.': A/PHAEUFD/TP-PL
+''Are': AE/KPA/R
 'you': U
 'the': -T
 'knight': TPHAO*EUT
@@ -2945,29 +2945,29 @@ Iron Hans
 'day': TKAEU
 'to': TO
 'the': -T
-'festival,': TPEFT/SRAL KW-BG
+'festival,': TPEFT/SRAL/KW-BG
 'always': AULS
 'in': TPH
 'different': TKEUFRT
-'colours,': KHRORS/A*U KW-BG
+'colours,': KHRORS/A*U/KW-BG
 'and': SKP
 'who': WHO
 'caught': KAUT
 'the': -T
 'three': THRAOE
 'golden': TKPWOELD/*EPB
-'apples?'': APLS H-F AE
+'apples?'': APLS/H-F/AE
 'asked': SK-D
 'the': -T
-'king.': KEUPBG TP-PL
-''Yes,'': AE KPA/KWRE KW-BG AE
+'king.': KEUPBG/TP-PL
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'answered': AEPBS/-D
-'he,': HE KW-BG
-''and': AE SKP
+'he,': HE/KW-BG
+''and': AE/SKP
 'here': HAOER
 'the': -T
 'apples': APLS
-'are,'': R KW-BG AE
+'are,'': R/KW-BG/AE
 'and': SKP
 'he': HE
 'took': TAOBG
@@ -2975,18 +2975,18 @@ Iron Hans
 'out': OUT
 'of': -F
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'returned': RURPBD
 'them': THEPL
 'to': TO
 'the': -T
-'king.': KEUPBG TP-PL
-''If': AE KPA/TP
+'king.': KEUPBG/TP-PL
+''If': AE/KPA/TP
 'you': U
 'desire': STKAOEUR
 'further': TPURT
-'proof,': PRAOF KW-BG
+'proof,': PRAOF/KW-BG
 'you': U
 'may': PHAE
 'see': SAOE
@@ -3000,7 +3000,7 @@ Iron Hans
 'when': WHEPB
 'they': THE
 'followed': TPOLD
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'But': KPA/PWUT
 'I': EU
 'am': APL
@@ -3015,32 +3015,32 @@ Iron Hans
 'victory': SREUBGT/REU
 'over': OEFR
 'your': KWROUR
-'enemies.'': TPHAEPLS TP-PL AE
-''If': AE KPA/TP
+'enemies.'': TPHAEPLS/TP-PL/AE
+''If': AE/KPA/TP
 'you': U
 'can': K
 'perform': PORPL
 'such': SUFP
 'deeds': TKAOEDZ
 'as': AS
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'you': U
 'are': R
 'no': TPHO
-'gardener's': TKPWARD/TPHER AES
-'boy;': PWOEU STPH*FPLT
+'gardener's': TKPWARD/TPHER/AES
+'boy;': PWOEU/STPH*FPLT
 'tell': TEL
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'who': WHO
 'is': S
 'your': KWROUR
-'father?'': TPAER H-F AE
-''My': AE KPA/PHEU
+'father?'': TPAER/H-F/AE
+''My': AE/KPA/PHEU
 'father': TPAER
 'is': S
 'a': AEU
 'mighty': PHAOEUT/KWREU
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'gold': TKPWOELD
 'have': SR
@@ -3051,52 +3051,52 @@ Iron Hans
 'great': TKPWRAET
 'as': AS
 'I': EU
-'require.'': RAOEUR TP-PL AE
-''I': AE EU
+'require.'': RAOEUR/TP-PL/AE
+''I': AE/EU
 'well': WEL
-'see,'': SAOE KW-BG AE
+'see,'': SAOE/KW-BG/AE
 'said': SED
 'the': -T
-'king,': KEUPBG KW-BG
-''that': AE THA
+'king,': KEUPBG/KW-BG
+''that': AE/THA
 'I': EU
 'owe': OE
 'my': PHEU
 'thanks': THAPBGS
 'to': TO
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'can': K
 'I': EU
 'do': TKO
 'anything': TPHEUG
 'to': TO
 'please': PHRES
-'you?'': U H-F AE
-''Yes,'': AE KPA/KWRE KW-BG AE
+'you?'': U/H-F/AE
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'answered': AEPBS/-D
-'he,': HE KW-BG
-''that': AE THA
+'he,': HE/KW-BG
+''that': AE/THA
 'indeed': TPHAOEPBD
 'you': U
-'can.': K TP-PL
+'can.': K/TP-PL
 'Give': KPA/TKPWEUF
 'me': PHE
 'your': KWROUR
 'daughter': TKAUR
 'to': TO
-'wife.'': WAOEUF TP-PL AE
+'wife.'': WAOEUF/TP-PL/AE
 'The': KPA/-T
 'maiden': PHAEUD/*EPB
-'laughed,': HRAFD KW-BG
+'laughed,': HRAFD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''He': AE KPA/HE
+'said:': SED/STPH-FPLT
+''He': AE/KPA/HE
 'does': TKOS
 'not': TPHOT
 'stand': STAPBD
 'much': PHUFP
 'on': OPB
-'ceremony,': SER/PHOEPB KW-BG
+'ceremony,': SER/PHOEPB/KW-BG
 'but': PWUT
 'I': EU
 'have': SR
@@ -3110,15 +3110,15 @@ Iron Hans
 'he': HE
 'was': WAS
 'no': TPHO
-'gardener's': TKPWARD/TPHER AES
-'boy,'': PWOEU KW-BG AE
+'gardener's': TKPWARD/TPHER/AES
+'boy,'': PWOEU/KW-BG/AE
 'and': SKP
 'then': THEPB
 'she': SHE
 'went': WEPBT
 'and': SKP
 'kissed': K*EUFD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'His': KPA/HEUS
 'father': TPAER
 'and': SKP
@@ -3126,12 +3126,12 @@ Iron Hans
 'came': KAEUPL
 'to': TO
 'the': -T
-'wedding,': WEGD KW-BG
+'wedding,': WEGD/KW-BG
 'and': SKP
 'were': WR
 'in': TPH
 'great': TKPWRAET
-'delight,': TKHRAOEUT KW-BG
+'delight,': TKHRAOEUT/KW-BG
 'for': TPOR
 'they': THE
 'had': H
@@ -3145,7 +3145,7 @@ Iron Hans
 'their': THAEUR
 'dear': TKAER
 'son': SOPB
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'And': AFPBD
 'as': AS
 'they': THE
@@ -3153,14 +3153,14 @@ Iron Hans
 'sitting': SEUGT
 'at': AT
 'the': -T
-'marriage-feast,': PHAERPBLG H-PB TPAOEFT KW-BG
+'marriage-feast,': PHAERPBLG/H-PB/TPAOEFT/KW-BG
 'the': -T
 'music': PHAOUFBG
 'suddenly': SULD
-'stopped,': STOPD KW-BG
+'stopped,': STOPD/KW-BG
 'the': -T
 'doors': TKAORS
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'and': SKP
 'a': AEU
 'stately': STAEULT
@@ -3170,41 +3170,41 @@ Iron Hans
 'with': W
 'a': AEU
 'great': TKPWRAET
-'retinue.': RET/TPHAOU TP-PL
+'retinue.': RET/TPHAOU/TP-PL
 'He': KPA/HE
 'went': WEPBT
 'up': UP
 'to': TO
 'the': -T
-'youth,': KWRAO*UT KW-BG
+'youth,': KWRAO*UT/KW-BG
 'embraced': EPL/PWRAEUFD
 'him': HEUPL
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'am': APL
 'Iron': KPA/AOEURPB
-'Hans,': HAPBS KW-BG
+'Hans,': HAPBS/KW-BG
 'and': SKP
 'was': WAS
 'by': PWEU
 'enchantment': EPB/KHAPLT
 'a': AEU
 'wild': WAOEULD
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'but': PWUT
 'you': U
 'have': SR
 'set': SET
 'me': PHE
-'free;': TPRAOE STPH*FPLT
+'free;': TPRAOE/STPH*FPLT
 'all': AUL
 'the': -T
 'treasures': TR-RBS
 'which': WEU
 'I': EU
-'possess,': PESZ KW-BG
+'possess,': PESZ/KW-BG
 'shall': SHAL
 'be': -B
 'your': KWROUR
-'property.'': PROT TP-PL AE
+'property.'': PROT/TP-PL/AE

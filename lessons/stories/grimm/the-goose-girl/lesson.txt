@@ -6,7 +6,7 @@ The Goose-Girl
 'a': AEU
 'great': TKPWRAET
 'land': HRAPBD
-'died,': TKAOEUD KW-BG
+'died,': TKAOEUD/KW-BG
 'and': SKP
 'left': HREFT
 'his': HEUS
@@ -17,41 +17,41 @@ The Goose-Girl
 'of': -F
 'their': THAEUR
 'only': OEPBL
-'child.': KHAOEULD TP-PL
+'child.': KHAOEULD/TP-PL
 'This': KPA/TH
 'child': KHAOEULD
 'was': WAS
 'a': AEU
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'who': WHO
 'was': WAS
 'very': SRE
-'beautiful;': PWAOUFL STPH*FPLT
+'beautiful;': PWAOUFL/STPH*FPLT
 'and': SKP
 'her': HER
 'mother': PHOER
 'loved': HROFD
 'her': HER
-'dearly,': TKAERL KW-BG
+'dearly,': TKAERL/KW-BG
 'and': SKP
 'was': WAS
 'very': SRE
 'kind': KEUPBD
 'to': TO
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'And': AFPBD
 'there': THR
 'was': WAS
 'a': AEU
 'good': TKPWAOD
 'fairy': TPAEUR/REU
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'who': WHO
 'was': WAS
 'fond': TPOPBD
 'of': -F
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'and': SKP
 'helped': HEPD
 'her': HER
@@ -59,11 +59,11 @@ The Goose-Girl
 'to': TO
 'watch': WAFP
 'over': OEFR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'When': KPA/WHEPB
 'she': SHE
 'grew': TKPWRAOU
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'she': SHE
 'was': WAS
 'betrothed': PWE/TRO*T/-D
@@ -75,7 +75,7 @@ The Goose-Girl
 'a': AEU
 'great': TKPWRAET
 'way': WAEU
-'off;': OF STPH*FPLT
+'off;': OF/STPH*FPLT
 'and': SKP
 'as': AS
 'the': -T
@@ -86,7 +86,7 @@ The Goose-Girl
 'her': HER
 'to': TO
 'be': -B
-'married,': PHAERD KW-BG
+'married,': PHAERD/KW-BG
 'she': SHE
 'got': TKPWOT
 'ready': R-D
@@ -98,27 +98,27 @@ The Goose-Girl
 'journey': SKWRURPB
 'to': TO
 'his': HEUS
-'country.': KREU TP-PL
+'country.': KREU/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'queen': KWAOEPB
 'her': HER
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'packed': PABGD
 'up': UP
 'a': AEU
 'great': TKPWRAET
 'many': PHAEPB
 'costly': KOFT/HREU
-'things;': THEUPBGS STPH*FPLT
-'jewels,': SKWRAOULS KW-BG
+'things;': THEUPBGS/STPH*FPLT
+'jewels,': SKWRAOULS/KW-BG
 'and': SKP
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'and': SKP
-'silver;': SEUL/SRER STPH*FPLT
-'trinkets,': TREUPB/KETS KW-BG
+'silver;': SEUL/SRER/STPH*FPLT
+'trinkets,': TREUPB/KETS/KW-BG
 'fine': TPAOEUPB
-'dresses,': TKRES/-S KW-BG
+'dresses,': TKRES/-S/KW-BG
 'and': SKP
 'in': TPH
 'short': SHORT
@@ -127,24 +127,24 @@ The Goose-Girl
 'became': PWAEUPL
 'a': AEU
 'royal': ROEUL
-'bride.': PWRAOEUD TP-PL
+'bride.': PWRAOEUD/TP-PL
 'And': AFPBD
 'she': SHE
 'gave': TKPWAEUF
 'her': HER
 'a': AEU
-'waiting-maid': WAEUGT H-PB PHAEUD
+'waiting-maid': WAEUGT/H-PB/PHAEUD
 'to': TO
 'ride': RAOEUD
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'give': TKPWEUF
 'her': HER
 'into': TPHAO
 'the': -T
-'bridegroom's': PWRAOEUD/TKPWRAOPL AES
-'hands;': HAPBDZ STPH*FPLT
+'bridegroom's': PWRAOEUD/TKPWRAOPL/AES
+'hands;': HAPBDZ/STPH*FPLT
 'and': SKP
 'each': AOEFP
 'had': H
@@ -152,23 +152,23 @@ The Goose-Girl
 'horse': HORS
 'for': TPOR
 'the': -T
-'journey.': SKWRURPB TP-PL
+'journey.': SKWRURPB/TP-PL
 'Now': KPA/TPHOU
 'the': -T
-'princess's': PREUPB/SES AES
+'princess's': PREUPB/SES/AES
 'horse': HORS
 'was': WAS
 'the': -T
-'fairy's': TPAEUR/REU AES
-'gift,': TKPWEUFT KW-BG
+'fairy's': TPAEUR/REU/AES
+'gift,': TKPWEUFT/KW-BG
 'and': SKP
 'it': T
 'was': WAS
 'called': KAULD
-'Falada,': xxx Falada KW-BG
+'Falada,': xxx Falada/KW-BG
 'and': SKP
 'could': KO
-'speak.': SPAOEBG TP-PL
+'speak.': SPAOEBG/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'time': TAOEUPL
@@ -177,18 +177,18 @@ The Goose-Girl
 'them': THEPL
 'to': TO
 'set': SET
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'the': -T
 'fairy': TPAEUR/REU
 'went': WEPBT
 'into': TPHAO
 'her': HER
-'bed-chamber,': PWED H-PB KHAEURPL KW-BG
+'bed-chamber,': PWED/H-PB/KHAEURPL/KW-BG
 'and': SKP
 'took': TAOBG
 'a': AEU
 'little': HREUL
-'knife,': TPHAOEUF KW-BG
+'knife,': TPHAOEUF/KW-BG
 'and': SKP
 'cut': KUT
 'off': OF
@@ -196,21 +196,21 @@ The Goose-Girl
 'lock': HROBG
 'of': -F
 'her': HER
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'it': T
 'to': TO
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Take': AE KPA/TAEUBG
+'said,': SED/KW-BG
+''Take': AE/KPA/TAEUBG
 'care': KAEUR
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'dear': TKAER
-'child;': KHAOEULD STPH*FPLT
+'child;': KHAOEULD/STPH*FPLT
 'for': TPOR
 'it': T
 'is': S
@@ -225,7 +225,7 @@ The Goose-Girl
 'you': U
 'on': OPB
 'the': -T
-'road.'': RAOD TP-PL AE
+'road.'': RAOD/TP-PL/AE
 'Then': KPA/THEPB
 'they': THE
 'all': AUL
@@ -235,7 +235,7 @@ The Goose-Girl
 'leave': HREF
 'of': -F
 'the': -T
-'princess;': PREUPB/SES STPH*FPLT
+'princess;': PREUPB/SES/STPH*FPLT
 'and': SKP
 'she': SHE
 'put': PUT
@@ -245,11 +245,11 @@ The Goose-Girl
 'hair': HAEUR
 'into': TPHAO
 'her': HER
-'bosom,': PWUZ/OPL KW-BG
+'bosom,': PWUZ/OPL/KW-BG
 'got': TKPWOT
 'upon': POPB
 'her': HER
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'set': SET
 'off': OF
@@ -258,10 +258,10 @@ The Goose-Girl
 'journey': SKWRURPB
 'to': TO
 'her': HER
-'bridegroom's': PWRAOEUD/TKPWRAOPL AES
-'kingdom.': KEUPBG/TKOPL TP-PL
+'bridegroom's': PWRAOEUD/TKPWRAOPL/AES
+'kingdom.': KEUPBG/TKOPL/TP-PL
 'One': KPA/WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'as': AS
 'they': THE
 'were': WR
@@ -269,23 +269,23 @@ The Goose-Girl
 'along': HRAOPBG
 'by': PWEU
 'a': AEU
-'brook,': PWRAOBG KW-BG
+'brook,': PWRAOBG/KW-BG
 'the': -T
 'princess': PREUPB/SES
 'began': TKPWAPB
 'to': TO
 'feel': TPAOEL
 'very': SRE
-'thirsty:': THEURS/TEU STPH-FPLT
+'thirsty:': THEURS/TEU/STPH-FPLT
 'and': SKP
 'she': SHE
 'said': SED
 'to': TO
 'her': HER
-'maid,': PHAEUD KW-BG
-''Pray': AE KPA/PRAEU
+'maid,': PHAEUD/KW-BG
+''Pray': AE/KPA/PRAEU
 'get': TKPWET
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'fetch': TPEFP
 'me': PHE
@@ -298,23 +298,23 @@ The Goose-Girl
 'out': OUT
 'of': -F
 'yonder': KWROPBD/ER
-'brook,': PWRAOBG KW-BG
+'brook,': PWRAOBG/KW-BG
 'for': TPOR
 'I': EU
 'want': WAPBT
 'to': TO
-'drink.'': TKREU TP-PL AE
-''Nay,'': AE KPA/TPHAEU KW-BG AE
+'drink.'': TKREU/TP-PL/AE
+''Nay,'': AE/KPA/TPHAEU/KW-BG/AE
 'said': SED
 'the': -T
-'maid,': PHAEUD KW-BG
-''if': AE TP
+'maid,': PHAEUD/KW-BG
+''if': AE/TP
 'you': U
 'are': R
-'thirsty,': THEURS/TEU KW-BG
+'thirsty,': THEURS/TEU/KW-BG
 'get': TKPWET
 'off': OF
-'yourself,': KWRO*URS KW-BG
+'yourself,': KWRO*URS/KW-BG
 'and': SKP
 'stoop': STAOP
 'down': TKOUPB
@@ -322,15 +322,15 @@ The Goose-Girl
 'the': -T
 'water': WAUR
 'and': SKP
-'drink;': TKREU STPH*FPLT
+'drink;': TKREU/STPH*FPLT
 'I': EU
 'shall': SHAL
 'not': TPHOT
 'be': -B
 'your': KWROUR
-'waiting-maid': WAEUGT H-PB PHAEUD
+'waiting-maid': WAEUGT/H-PB/PHAEUD
 'any': TPHEU
-'longer.'': HRORPBG TP-PL AE
+'longer.'': HRORPBG/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'was': WAS
@@ -339,19 +339,19 @@ The Goose-Girl
 'that': THA
 'she': SHE
 'got': TKPWOT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'knelt': TPHELT
 'over': OEFR
 'the': -T
 'little': HREUL
-'brook,': PWRAOBG KW-BG
+'brook,': PWRAOBG/KW-BG
 'and': SKP
-'drank;': TKRA*PBG STPH*FPLT
+'drank;': TKRA*PBG/STPH*FPLT
 'for': TPOR
 'she': SHE
 'was': WAS
-'frightened,': TPRAOEUFPBD KW-BG
+'frightened,': TPRAOEUFPBD/KW-BG
 'and': SKP
 'dared': TKAEURD
 'not': TPHOT
@@ -359,38 +359,38 @@ The Goose-Girl
 'out': OUT
 'her': HER
 'golden': TKPWOELD/*EPB
-'cup;': KUP STPH*FPLT
+'cup;': KUP/STPH*FPLT
 'and': SKP
 'she': SHE
 'wept': WEPT
 'and': SKP
-'said,': SED KW-BG
-''Alas!': AE KPA/A/HRAS SKHRAPL
+'said,': SED/KW-BG
+''Alas!': AE/KPA/A/HRAS/SKHRAPL
 'what': WHA
 'will': HR
 'become': PW-BG
 'of': -F
-'me?'': PHE H-F AE
+'me?'': PHE/H-F/AE
 'And': AFPBD
 'the': -T
 'lock': HROBG
 'answered': AEPBS/-D
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Alas!': AE KPA/A/HRAS SKHRAPL
-'alas!': A/HRAS SKHRAPL
+'said:': SED/STPH-FPLT
+''Alas!': AE/KPA/A/HRAS/SKHRAPL
+'alas!': A/HRAS/SKHRAPL
 'if': TP
 'thy': THAO*EU
 'mother': PHOER
 'knew': TPHAOU
-'it,': T KW-BG
-'Sadly,': KPA/SAD/HREU KW-BG
-'sadly,': SAD/HREU KW-BG
+'it,': T/KW-BG
+'Sadly,': KPA/SAD/HREU/KW-BG
+'sadly,': SAD/HREU/KW-BG
 'would': WO
 'she': SHE
 'rue': RAO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'princess': PREUPB/SES
@@ -398,40 +398,40 @@ The Goose-Girl
 'very': SRE
 'gentle': SKWR*EPBLT
 'and': SKP
-'meek,': PHAOEBG KW-BG
+'meek,': PHAOEBG/KW-BG
 'so': SO
 'she': SHE
 'said': SED
 'nothing': TPHOG
 'to': TO
 'her': HER
-'maid's': PHAEUD AES
+'maid's': PHAEUD/AES
 'ill': EUL
-'behaviour,': PWAEUFR/A*U KW-BG
+'behaviour,': PWAEUFR/A*U/KW-BG
 'but': PWUT
 'got': TKPWOT
 'upon': POPB
 'her': HER
 'horse': HORS
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'Then': KPA/THEPB
 'all': AUL
 'rode': ROED
 'farther': TPA*RT
 'on': OPB
 'their': THAEUR
-'journey,': SKWRURPB KW-BG
+'journey,': SKWRURPB/KW-BG
 'till': TEUL
 'the': -T
 'day': TKAEU
 'grew': TKPWRAOU
 'so': SO
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'and': SKP
 'the': -T
 'sun': SUPB
 'so': SO
-'scorching,': SKOR/-FPG KW-BG
+'scorching,': SKOR/-FPG/KW-BG
 'that': THA
 'the': -T
 'bride': PWRAOEUD
@@ -440,27 +440,27 @@ The Goose-Girl
 'feel': TPAOEL
 'very': SRE
 'thirsty': THEURS/TEU
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'and': SKP
 'at': AT
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'when': WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'a': AEU
-'river,': REUFR KW-BG
+'river,': REUFR/KW-BG
 'she': SHE
 'forgot': TPAURGT
 'her': HER
-'maid's': PHAEUD AES
+'maid's': PHAEUD/AES
 'rude': RAOUD
-'speech,': SPAOEFP KW-BG
+'speech,': SPAOEFP/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Pray': AE KPA/PRAEU
+'said,': SED/KW-BG
+''Pray': AE/KPA/PRAEU
 'get': TKPWET
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'fetch': TPEFP
 'me': PHE
@@ -471,30 +471,30 @@ The Goose-Girl
 'in': TPH
 'my': PHEU
 'golden': TKPWOELD/*EPB
-'cup.'': KUP TP-PL AE
+'cup.'': KUP/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'maid': PHAEUD
 'answered': AEPBS/-D
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'even': AOEPB
 'spoke': SPOEBG
 'more': PHOR
 'haughtily': HAUT/HREU
 'than': THAPB
-'before:': PW-FR STPH-FPLT
-''Drink': AE KPA/TKREU
+'before:': PW-FR/STPH-FPLT
+''Drink': AE/KPA/TKREU
 'if': TP
 'you': U
-'will,': HR KW-BG
+'will,': HR/KW-BG
 'but': PWUT
 'I': EU
 'shall': SHAL
 'not': TPHOT
 'be': -B
 'your': KWROUR
-'waiting-maid.'': WAEUGT H-PB PHAEUD TP-PL AE
+'waiting-maid.'': WAEUGT/H-PB/PHAEUD/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'princess': PREUPB/SES
@@ -506,10 +506,10 @@ The Goose-Girl
 'got': TKPWOT
 'off': OF
 'her': HER
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'lay': HRAEU
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'held': HELD
 'her': HER
@@ -517,16 +517,16 @@ The Goose-Girl
 'over': OEFR
 'the': -T
 'running': R*UPBG
-'stream,': STRAOEPL KW-BG
+'stream,': STRAOEPL/KW-BG
 'and': SKP
 'cried': KRAOEUD
 'and': SKP
-'said,': SED KW-BG
-''What': AE KPA/WHA
+'said,': SED/KW-BG
+''What': AE/KPA/WHA
 'will': HR
 'become': PW-BG
 'of': -F
-'me?'': PHE H-F AE
+'me?'': PHE/H-F/AE
 'And': AFPBD
 'the': -T
 'lock': HROBG
@@ -534,27 +534,27 @@ The Goose-Girl
 'hair': HAEUR
 'answered': AEPBS/-D
 'her': HER
-'again:': TKPWEPB STPH-FPLT
-''Alas!': AE KPA/A/HRAS SKHRAPL
-'alas!': A/HRAS SKHRAPL
+'again:': TKPWEPB/STPH-FPLT
+''Alas!': AE/KPA/A/HRAS/SKHRAPL
+'alas!': A/HRAS/SKHRAPL
 'if': TP
 'thy': THAO*EU
 'mother': PHOER
 'knew': TPHAOU
-'it,': T KW-BG
-'Sadly,': KPA/SAD/HREU KW-BG
-'sadly,': SAD/HREU KW-BG
+'it,': T/KW-BG
+'Sadly,': KPA/SAD/HREU/KW-BG
+'sadly,': SAD/HREU/KW-BG
 'would': WO
 'she': SHE
 'rue': RAO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'And': AFPBD
 'as': AS
 'she': SHE
 'leaned': HRAOEPBD
 'down': TKOUPB
 'to': TO
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'the': -T
 'lock': HROBG
 'of': -F
@@ -562,13 +562,13 @@ The Goose-Girl
 'fell': TPEL
 'from': TPR
 'her': HER
-'bosom,': PWUZ/OPL KW-BG
+'bosom,': PWUZ/OPL/KW-BG
 'and': SKP
 'floated': TPHROET/-D
 'away': WA*EU
 'with': W
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'Now': KPA/TPHOU
 'she': SHE
 'was': WAS
@@ -579,21 +579,21 @@ The Goose-Girl
 'did': TK
 'not': TPHOT
 'see': SAOE
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'but': PWUT
 'her': HER
 'maid': PHAEUD
 'saw': SAU
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'was': WAS
 'very': SRE
-'glad,': TKPWHRAD KW-BG
+'glad,': TKPWHRAD/KW-BG
 'for': TPOR
 'she': SHE
 'knew': TPHAOU
 'the': -T
-'charm;': KHARPL STPH*FPLT
+'charm;': KHARPL/STPH*FPLT
 'and': SKP
 'she': SHE
 'saw': SAU
@@ -605,43 +605,43 @@ The Goose-Girl
 'be': -B
 'in': TPH
 'her': HER
-'power,': POUR KW-BG
+'power,': POUR/KW-BG
 'now': TPHOU
 'that': THA
 'she': SHE
 'had': H
 'lost': HRO*S
 'the': -T
-'hair.': HAEUR TP-PL
+'hair.': HAEUR/TP-PL
 'So': KPA/SO
 'when': WHEPB
 'the': -T
 'bride': PWRAOEUD
 'had': H
 'done': TKOPB
-'drinking,': TKREUG KW-BG
+'drinking,': TKREUG/KW-BG
 'and': SKP
 'would': WO
 'have': SR
 'got': TKPWOT
 'upon': POPB
 'Falada': xxx Falada
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'the': -T
 'maid': PHAEUD
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'shall': SHAL
 'ride': RAOEUD
 'upon': POPB
-'Falada,': xxx Falada KW-BG
+'Falada,': xxx Falada/KW-BG
 'and': SKP
 'you': U
 'may': PHAE
 'have': SR
 'my': PHEU
 'horse': HORS
-'instead';': STPHED AE STPH*FPLT
+'instead';': STPHED/AE/STPH*FPLT
 'so': SO
 'she': SHE
 'was': WAS
@@ -650,7 +650,7 @@ The Goose-Girl
 'give': TKPWEUF
 'up': UP
 'her': HER
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'soon': SAOPB
 'afterwards': A*FRDZ
@@ -664,11 +664,11 @@ The Goose-Girl
 'put': PUT
 'on': OPB
 'her': HER
-'maid's': PHAEUD AES
+'maid's': PHAEUD/AES
 'shabby': SHAB/KWREU
-'ones.': WUPBZ TP-PL
+'ones.': WUPBZ/TP-PL
 'At': KPA/AT
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'as': AS
 'they': THE
 'drew': TKRAOU
@@ -677,7 +677,7 @@ The Goose-Girl
 'end': EPBD
 'of': -F
 'their': THAEUR
-'journey,': SKWRURPB KW-BG
+'journey,': SKWRURPB/KW-BG
 'this': TH
 'treacherous': TREFP/ROUS
 'servant': SEFRB/APBT
@@ -693,22 +693,22 @@ The Goose-Girl
 'anyone': TPHEUPB
 'what': WHA
 'had': H
-'happened.': HAPD TP-PL
+'happened.': HAPD/TP-PL
 'But': KPA/PWUT
 'Falada': xxx Falada
 'saw': SAU
 'it': T
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'marked': PHARBGD
 'it': T
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'Then': KPA/THEPB
 'the': -T
-'waiting-maid': WAEUGT H-PB PHAEUD
+'waiting-maid': WAEUGT/H-PB/PHAEUD
 'got': TKPWOT
 'upon': POPB
-'Falada,': xxx Falada KW-BG
+'Falada,': xxx Falada/KW-BG
 'and': SKP
 'the': -T
 'real': RAEL
@@ -717,7 +717,7 @@ The Goose-Girl
 'upon': POPB
 'the': -T
 'other': OER
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'they': THE
 'went': WEPBT
@@ -733,28 +733,28 @@ The Goose-Girl
 'to': TO
 'the': -T
 'royal': ROEUL
-'court.': KORT TP-PL
+'court.': KORT/TP-PL
 'There': KPA/THR
 'was': WAS
 'great': TKPWRAET
 'joy': SKWROEU
 'at': AT
 'their': THAEUR
-'coming,': KO*G KW-BG
+'coming,': KO*G/KW-BG
 'and': SKP
 'the': -T
 'prince': PREUPBS
 'flew': TPHRAOU
 'to': TO
 'meet': PHAOET
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'lifted': HREUFTD
 'the': -T
 'maid': PHAEUD
 'from': TPR
 'her': HER
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'thinking': THEUG
 'she': SHE
 'was': WAS
@@ -765,7 +765,7 @@ The Goose-Girl
 'to': TO
 'be': -B
 'his': HEUS
-'wife;': WAOEUF STPH*FPLT
+'wife;': WAOEUF/STPH*FPLT
 'and': SKP
 'she': SHE
 'was': WAS
@@ -774,7 +774,7 @@ The Goose-Girl
 'to': TO
 'the': -T
 'royal': ROEUL
-'chamber;': KHAEURPL STPH*FPLT
+'chamber;': KHAEURPL/STPH*FPLT
 'but': PWUT
 'the': -T
 'true': TRAOU
@@ -786,7 +786,7 @@ The Goose-Girl
 'in': TPH
 'the': -T
 'court': KORT
-'below.': PWHRO TP-PL
+'below.': PWHRO/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'old': OLD
@@ -799,7 +799,7 @@ The Goose-Girl
 'nothing': TPHOG
 'else': ELS
 'to': TO
-'do;': TKO STPH*FPLT
+'do;': TKO/STPH*FPLT
 'so': SO
 'he': HE
 'amused': A/PHAOUS/-D
@@ -809,31 +809,31 @@ The Goose-Girl
 'at': AT
 'his': HEUS
 'kitchen': K-FP
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'looking': HRAOG
 'at': AT
 'what': WHA
 'was': WAS
 'going': TKPW-G
-'on;': OPB STPH*FPLT
+'on;': OPB/STPH*FPLT
 'and': SKP
 'he': HE
 'saw': SAU
 'her': HER
 'in': TPH
 'the': -T
-'courtyard.': KORT/KWRARD TP-PL
+'courtyard.': KORT/KWRARD/TP-PL
 'As': KPA/AS
 'she': SHE
 'looked': HRAOBGD
 'very': SRE
-'pretty,': PREUT KW-BG
+'pretty,': PREUT/KW-BG
 'and': SKP
 'too': TAO
 'delicate': TKEL/KAT
 'for': TPOR
 'a': AEU
-'waiting-maid,': WAEUGT H-PB PHAEUD KW-BG
+'waiting-maid,': WAEUGT/H-PB/PHAEUD/KW-BG
 'he': HE
 'went': WEPBT
 'up': UP
@@ -852,7 +852,7 @@ The Goose-Girl
 'had': H
 'brought': PWRAUT
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'that': THA
 'was': WAS
 'thus': THUS
@@ -861,8 +861,8 @@ The Goose-Girl
 'in': TPH
 'the': -T
 'court': KORT
-'below.': PWHRO TP-PL
-''I': AE EU
+'below.': PWHRO/TP-PL
+''I': AE/EU
 'brought': PWRAUT
 'her': HER
 'with': W
@@ -875,10 +875,10 @@ The Goose-Girl
 'company': K-P
 'on': OPB
 'the': -T
-'road,'': RAOD KW-BG AE
+'road,'': RAOD/KW-BG/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''pray': AE PRAEU
+'she;': SHE/STPH*FPLT
+''pray': AE/PRAEU
 'give': TKPWEUF
 'the': -T
 'girl': TKPWEURL
@@ -891,7 +891,7 @@ The Goose-Girl
 'may': PHAE
 'not': TPHOT
 'be': -B
-'idle.'': AOEUD/*L TP-PL AE
+'idle.'': AOEUD/*L/TP-PL/AE
 'The': KPA/-T
 'old': OLD
 'king': KEUPBG
@@ -907,13 +907,13 @@ The Goose-Girl
 'for': TPOR
 'her': HER
 'to': TO
-'do;': TKO STPH*FPLT
+'do;': TKO/STPH*FPLT
 'but': PWUT
 'at': AT
 'last': HRAFT
 'he': HE
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'have': SR
 'a': AEU
 'lad': HRAD
@@ -922,19 +922,19 @@ The Goose-Girl
 'care': KAEUR
 'of': -F
 'my': PHEU
-'geese;': TKPWAOES STPH*FPLT
+'geese;': TKPWAOES/STPH*FPLT
 'she': SHE
 'may': PHAE
 'go': TKPW
 'and': SKP
 'help': HEP
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'Now': KPA/TPHOU
 'the': -T
 'name': TPHAEUPL
 'of': -F
 'this': TH
-'lad,': HRAD KW-BG
+'lad,': HRAD/KW-BG
 'that': THA
 'the': -T
 'real': RAEL
@@ -946,9 +946,9 @@ The Goose-Girl
 'watching': WAFPG
 'the': -T
 'king's': KEUPBG/AES
-'geese,': TKPWAOES KW-BG
+'geese,': TKPWAOES/KW-BG
 'was': WAS
-'Curdken.': xxx Curdken TP-PL
+'Curdken.': xxx Curdken/TP-PL
 'But': KPA/PWUT
 'the': -T
 'false': TPALS
@@ -956,23 +956,23 @@ The Goose-Girl
 'said': SED
 'to': TO
 'the': -T
-'prince,': PREUPBS KW-BG
-''Dear': AE KPA/TKAER
-'husband,': HUS KW-BG
+'prince,': PREUPBS/KW-BG
+''Dear': AE/KPA/TKAER
+'husband,': HUS/KW-BG
 'pray': PRAEU
 'do': TKO
 'me': PHE
 'one': WUPB
 'piece': PAOES
 'of': -F
-'kindness.'': KEUPBD/-PBS TP-PL AE
-''That': AE KPA/THA
+'kindness.'': KEUPBD/-PBS/TP-PL/AE
+''That': AE/KPA/THA
 'I': EU
-'will,'': HR KW-BG AE
+'will,'': HR/KW-BG/AE
 'said': SED
 'the': -T
-'prince.': PREUPBS TP-PL
-''Then': AE KPA/THEPB
+'prince.': PREUPBS/TP-PL
+''Then': AE/KPA/THEPB
 'tell': TEL
 'one': WUPB
 'of': -F
@@ -988,23 +988,23 @@ The Goose-Girl
 'horse': HORS
 'I': EU
 'rode': ROED
-'upon,': POPB KW-BG
+'upon,': POPB/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
 'very': SRE
-'unruly,': UPB/RAOU/HREU KW-BG
+'unruly,': UPB/RAOU/HREU/KW-BG
 'and': SKP
 'plagued': PHRAEUG/-D
 'me': PHE
 'sadly': SAD/HREU
 'on': OPB
 'the': -T
-'road';': RAOD AE STPH*FPLT
+'road';': RAOD/AE/STPH*FPLT
 'but': PWUT
 'the': -T
 'truth': TRAO*UT
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'she': SHE
 'was': WAS
 'very': SRE
@@ -1017,7 +1017,7 @@ The Goose-Girl
 'day': TKAEU
 'or': OR
 'other': OER
-'speak,': SPAOEBG KW-BG
+'speak,': SPAOEBG/KW-BG
 'and': SKP
 'tell': TEL
 'all': AUL
@@ -1026,17 +1026,17 @@ The Goose-Girl
 'done': TKOPB
 'to': TO
 'the': -T
-'princess.': PREUPB/SES TP-PL
+'princess.': PREUPB/SES/TP-PL
 'She': KPA/SHE
 'carried': KAERD
 'her': HER
-'point,': POEUPBT KW-BG
+'point,': POEUPBT/KW-BG
 'and': SKP
 'the': -T
 'faithful': TPA*EUT/-FL
 'Falada': xxx Falada
 'was': WAS
-'killed;': KEULD STPH*FPLT
+'killed;': KEULD/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'the': -T
@@ -1044,9 +1044,9 @@ The Goose-Girl
 'princess': PREUPB/SES
 'heard': HAERD
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'she': SHE
-'wept,': WEPT KW-BG
+'wept,': WEPT/KW-BG
 'and': SKP
 'begged': PWEGD
 'the': -T
@@ -1054,7 +1054,7 @@ The Goose-Girl
 'to': TO
 'nail': TPHAEUL
 'up': UP
-'Falada's': xxx Falada AES
+'Falada's': xxx Falada/AES
 'head': HED
 'against': TKPWEPBS
 'a': AEU
@@ -1063,7 +1063,7 @@ The Goose-Girl
 'gate': TKPWAET
 'of': -F
 'the': -T
-'city,': STEU KW-BG
+'city,': STEU/KW-BG
 'through': THRU
 'which': WEU
 'she': SHE
@@ -1073,7 +1073,7 @@ The Goose-Girl
 'every': EF
 'morning': PHORPBG
 'and': SKP
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'that': THA
 'there': THR
 'she': SHE
@@ -1081,7 +1081,7 @@ The Goose-Girl
 'still': STEUL
 'see': SAOE
 'him': HEUPL
-'sometimes.': STAOEUPLS TP-PL
+'sometimes.': STAOEUPLS/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'slaughterer': SHRAUR/*ER
@@ -1091,12 +1091,12 @@ The Goose-Girl
 'do': TKO
 'as': AS
 'she': SHE
-'wished;': WEURBD STPH*FPLT
+'wished;': WEURBD/STPH*FPLT
 'and': SKP
 'cut': KUT
 'off': OF
 'the': -T
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'nailed': TPHAEULD
 'it': T
@@ -1104,11 +1104,11 @@ The Goose-Girl
 'under': TPH-PB
 'the': -T
 'dark': TKARBG
-'gate.': TKPWAET TP-PL
+'gate.': TKPWAET/TP-PL
 'Early': KPA/ERL
 'the': -T
 'next': TPHEGT
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'as': AS
 'she': SHE
 'and': SKP
@@ -1117,63 +1117,63 @@ The Goose-Girl
 'out': OUT
 'through': THRU
 'the': -T
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'she': SHE
 'said': SED
-'sorrowfully:': SOR/ROEFL/HREU STPH-FPLT
-''Falada,': AE xxx Falada KW-BG
-'Falada,': xxx Falada KW-BG
+'sorrowfully:': SOR/ROEFL/HREU/STPH-FPLT
+''Falada,': AE/xxx Falada/KW-BG
+'Falada,': xxx Falada/KW-BG
 'there': THR
 'thou': THO*U
-'hangest!'': HAPBG/EFT SKHRAPL AE
+'hangest!'': HAPBG/EFT/SKHRAPL/AE
 'and': SKP
 'the': -T
 'head': HED
-'answered:': AEPBS/-D STPH-FPLT
-''Bride,': AE KPA/PWRAOEUD KW-BG
-'bride,': PWRAOEUD KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Bride,': AE/KPA/PWRAOEUD/KW-BG
+'bride,': PWRAOEUD/KW-BG
 'there': THR
 'thou': THO*U
-'gangest!': TKPWAPBG/EFT SKHRAPL
-'Alas!': KPA/A/HRAS SKHRAPL
-'alas!': A/HRAS SKHRAPL
+'gangest!': TKPWAPBG/EFT/SKHRAPL
+'Alas!': KPA/A/HRAS/SKHRAPL
+'alas!': A/HRAS/SKHRAPL
 'if': TP
 'thy': THAO*EU
 'mother': PHOER
 'knew': TPHAOU
-'it,': T KW-BG
-'Sadly,': KPA/SAD/HREU KW-BG
-'sadly,': SAD/HREU KW-BG
+'it,': T/KW-BG
+'Sadly,': KPA/SAD/HREU/KW-BG
+'sadly,': SAD/HREU/KW-BG
 'would': WO
 'she': SHE
 'rue': RAO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'Then': KPA/THEPB
 'they': THE
 'went': WEPBT
 'out': OUT
 'of': -F
 'the': -T
-'city,': STEU KW-BG
+'city,': STEU/KW-BG
 'and': SKP
 'drove': TKROEF
 'the': -T
 'geese': TKPWAOES
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'And': AFPBD
 'when': WHEPB
 'she': SHE
 'came': KAEUPL
 'to': TO
 'the': -T
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'she': SHE
 'sat': SAT
 'down': TKOUPB
 'upon': POPB
 'a': AEU
 'bank': PWA*PBG
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'let': HRET
 'down': TKOUPB
@@ -1181,13 +1181,13 @@ The Goose-Girl
 'waving': WAFG
 'locks': HROBGZ
 'of': -F
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'which': WEU
 'were': WR
 'all': AUL
 'of': -F
 'pure': PAOUR
-'silver;': SEUL/SRER STPH*FPLT
+'silver;': SEUL/SRER/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'Curdken': xxx Curdken
@@ -1196,10 +1196,10 @@ The Goose-Girl
 'glitter': TKPWHREURT
 'in': TPH
 'the': -T
-'sun,': SUPB KW-BG
+'sun,': SUPB/KW-BG
 'he': HE
 'ran': RAPB
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'would': WO
 'have': SR
@@ -1208,63 +1208,63 @@ The Goose-Girl
 'of': -F
 'the': -T
 'locks': HROBGZ
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'but': PWUT
 'she': SHE
-'cried:': KRAOEUD STPH-FPLT
-''Blow,': AE KPA/PWHROE KW-BG
-'breezes,': PWRAOEZ/-S KW-BG
-'blow!': PWHROE SKHRAPL
+'cried:': KRAOEUD/STPH-FPLT
+''Blow,': AE/KPA/PWHROE/KW-BG
+'breezes,': PWRAOEZ/-S/KW-BG
+'blow!': PWHROE/SKHRAPL
 'Let': KPA/HRET
-'Curdken's': xxx Curdken AES
+'Curdken's': xxx Curdken/AES
 'hat': HAT
-'go!': TKPW SKHRAPL
-'Blow,': KPA/PWHROE KW-BG
-'breezes,': PWRAOEZ/-S KW-BG
-'blow!': PWHROE SKHRAPL
+'go!': TKPW/SKHRAPL
+'Blow,': KPA/PWHROE/KW-BG
+'breezes,': PWRAOEZ/-S/KW-BG
+'blow!': PWHROE/SKHRAPL
 'Let': KPA/HRET
 'him': HEUPL
 'after': AF
 'it': T
-'go!': TKPW SKHRAPL
-'O'er': O*P AE *E/R*
-'hills,': HEULS KW-BG
-'dales,': TKAEL/-S KW-BG
+'go!': TKPW/SKHRAPL
+'O'er': O*P/AE/*E/R*
+'hills,': HEULS/KW-BG
+'dales,': TKAEL/-S/KW-BG
 'and': SKP
-'rocks,': ROBGS KW-BG
+'rocks,': ROBGS/KW-BG
 'Away': KPA/WA*EU
 'be': -B
 'it': T
-'whirl'd': WHEURL AE TK*
+'whirl'd': WHEURL/AE/TK*
 'Till': KPA/TEUL
 'the': -T
 'silvery': SEUL/SRER/KWREU
 'locks': HROBGZ
 'Are': KPA/R
 'all': AUL
-'comb'd': KOEPL AE TK*
+'comb'd': KOEPL/AE/TK*
 'and': SKP
-'curl'd!': KURL AE TK* SKHRAPL
+'curl'd!': KURL/AE/TK*/SKHRAPL
 'Then': KPA/THEPB
 'there': THR
 'came': KAEUPL
 'a': AEU
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'so': SO
 'strong': STROPBG
 'that': THA
 'it': T
 'blew': PWHRAOU
 'off': OF
-'Curdken's': xxx Curdken AES
-'hat;': HAT STPH*FPLT
+'Curdken's': xxx Curdken/AES
+'hat;': HAT/STPH*FPLT
 'and': SKP
 'away': WA*EU
 'it': T
 'flew': TPHRAOU
 'over': OEFR
 'the': -T
-'hills:': HEULS STPH-FPLT
+'hills:': HEULS/STPH-FPLT
 'and': SKP
 'he': HE
 'was': WAS
@@ -1274,14 +1274,14 @@ The Goose-Girl
 'and': SKP
 'run': RUPB
 'after': AF
-'it;': T STPH*FPLT
-'till,': TEUL KW-BG
+'it;': T/STPH*FPLT
+'till,': TEUL/KW-BG
 'by': PWEU
 'the': -T
 'time': TAOEUPL
 'he': HE
 'came': KAEUPL
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'she': SHE
 'had': H
 'done': TKOPB
@@ -1289,21 +1289,21 @@ The Goose-Girl
 'and': SKP
 'curling': KURLG
 'her': HER
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'and': SKP
 'had': H
 'put': PUT
 'it': T
 'up': UP
 'again': TKPWEPB
-'safe.': SAEUF TP-PL
+'safe.': SAEUF/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'was': WAS
 'very': SRE
 'angry': APBG/REU
 'and': SKP
-'sulky,': S*ULG/KWREU KW-BG
+'sulky,': S*ULG/KWREU/KW-BG
 'and': SKP
 'would': WO
 'not': TPHOT
@@ -1311,7 +1311,7 @@ The Goose-Girl
 'to': TO
 'her': HER
 'at': AT
-'all;': AUL STPH*FPLT
+'all;': AUL/STPH*FPLT
 'but': PWUT
 'they': THE
 'watched': WAFPD
@@ -1323,15 +1323,15 @@ The Goose-Girl
 'dark': TKARBG
 'in': TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'and': SKP
 'then': THEPB
 'drove': TKROEF
 'them': THEPL
-'homewards.': HOEPL/WARDZ TP-PL
+'homewards.': HOEPL/WARDZ/TP-PL
 'The': KPA/-T
 'next': TPHEGT
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'as': AS
 'they': THE
 'were': WR
@@ -1339,57 +1339,57 @@ The Goose-Girl
 'through': THRU
 'the': -T
 'dark': TKARBG
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'the': -T
 'poor': PAOR
 'girl': TKPWEURL
 'looked': HRAOBGD
 'up': UP
 'at': AT
-'Falada's': xxx Falada AES
-'head,': HED KW-BG
+'Falada's': xxx Falada/AES
+'head,': HED/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Falada,': AE xxx Falada KW-BG
-'Falada,': xxx Falada KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Falada,': AE/xxx Falada/KW-BG
+'Falada,': xxx Falada/KW-BG
 'there': THR
 'thou': THO*U
-'hangest!'': HAPBG/EFT SKHRAPL AE
+'hangest!'': HAPBG/EFT/SKHRAPL/AE
 'and': SKP
 'the': -T
 'head': HED
-'answered:': AEPBS/-D STPH-FPLT
-''Bride,': AE KPA/PWRAOEUD KW-BG
-'bride,': PWRAOEUD KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Bride,': AE/KPA/PWRAOEUD/KW-BG
+'bride,': PWRAOEUD/KW-BG
 'there': THR
 'thou': THO*U
-'gangest!': TKPWAPBG/EFT SKHRAPL
-'Alas!': KPA/A/HRAS SKHRAPL
-'alas!': A/HRAS SKHRAPL
+'gangest!': TKPWAPBG/EFT/SKHRAPL
+'Alas!': KPA/A/HRAS/SKHRAPL
+'alas!': A/HRAS/SKHRAPL
 'if': TP
 'thy': THAO*EU
 'mother': PHOER
 'knew': TPHAOU
-'it,': T KW-BG
-'Sadly,': KPA/SAD/HREU KW-BG
-'sadly,': SAD/HREU KW-BG
+'it,': T/KW-BG
+'Sadly,': KPA/SAD/HREU/KW-BG
+'sadly,': SAD/HREU/KW-BG
 'would': WO
 'she': SHE
 'rue': RAO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'drove': TKROEF
 'on': OPB
 'the': -T
-'geese,': TKPWAOES KW-BG
+'geese,': TKPWAOES/KW-BG
 'and': SKP
 'sat': SAT
 'down': TKOUPB
 'again': TKPWEPB
 'in': TPH
 'the': -T
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -1398,58 +1398,58 @@ The Goose-Girl
 'her': HER
 'hair': HAEUR
 'as': AS
-'before;': PW-FR STPH*FPLT
+'before;': PW-FR/STPH*FPLT
 'and': SKP
 'Curdken': xxx Curdken
 'ran': RAPB
 'up': UP
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'to': TO
 'take': TAEUBG
 'hold': HOLD
 'of': -F
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'but': PWUT
 'she': SHE
 'cried': KRAOEUD
 'out': OUT
-'quickly:': KWEULG STPH-FPLT
-''Blow,': AE KPA/PWHROE KW-BG
-'breezes,': PWRAOEZ/-S KW-BG
-'blow!': PWHROE SKHRAPL
+'quickly:': KWEULG/STPH-FPLT
+''Blow,': AE/KPA/PWHROE/KW-BG
+'breezes,': PWRAOEZ/-S/KW-BG
+'blow!': PWHROE/SKHRAPL
 'Let': KPA/HRET
-'Curdken's': xxx Curdken AES
+'Curdken's': xxx Curdken/AES
 'hat': HAT
-'go!': TKPW SKHRAPL
-'Blow,': KPA/PWHROE KW-BG
-'breezes,': PWRAOEZ/-S KW-BG
-'blow!': PWHROE SKHRAPL
+'go!': TKPW/SKHRAPL
+'Blow,': KPA/PWHROE/KW-BG
+'breezes,': PWRAOEZ/-S/KW-BG
+'blow!': PWHROE/SKHRAPL
 'Let': KPA/HRET
 'him': HEUPL
 'after': AF
 'it': T
-'go!': TKPW SKHRAPL
-'O'er': O*P AE *E/R*
-'hills,': HEULS KW-BG
-'dales,': TKAEL/-S KW-BG
+'go!': TKPW/SKHRAPL
+'O'er': O*P/AE/*E/R*
+'hills,': HEULS/KW-BG
+'dales,': TKAEL/-S/KW-BG
 'and': SKP
-'rocks,': ROBGS KW-BG
+'rocks,': ROBGS/KW-BG
 'Away': KPA/WA*EU
 'be': -B
 'it': T
-'whirl'd': WHEURL AE TK*
+'whirl'd': WHEURL/AE/TK*
 'Till': KPA/TEUL
 'the': -T
 'silvery': SEUL/SRER/KWREU
 'locks': HROBGZ
 'Are': KPA/R
 'all': AUL
-'comb'd': KOEPL AE TK*
+'comb'd': KOEPL/AE/TK*
 'and': SKP
-'curl'd!': KURL AE TK* SKHRAPL
+'curl'd!': KURL/AE/TK*/SKHRAPL
 'Then': KPA/THEPB
 'the': -T
 'wind': WEUPBD
@@ -1458,20 +1458,20 @@ The Goose-Girl
 'blew': PWHRAOU
 'away': WA*EU
 'his': HEUS
-'hat;': HAT STPH*FPLT
+'hat;': HAT/STPH*FPLT
 'and': SKP
 'off': OF
 'it': T
 'flew': TPHRAOU
 'a': AEU
 'great': TKPWRAET
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'over': OEFR
 'the': -T
 'hills': HEULS
 'and': SKP
 'far': TPAR
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -1479,7 +1479,7 @@ The Goose-Girl
 'to': TO
 'run': RUPB
 'after': AF
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -1491,11 +1491,11 @@ The Goose-Girl
 'up': UP
 'her': HER
 'hair': HAEUR
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'all': AUL
 'was': WAS
-'safe.': SAEUF TP-PL
+'safe.': SAEUF/TP-PL
 'So': KPA/SO
 'they': THE
 'watched': WAFPD
@@ -1504,23 +1504,23 @@ The Goose-Girl
 'till': TEUL
 'it': T
 'grew': TKPWRAOU
-'dark.': TKARBG TP-PL
+'dark.': TKARBG/TP-PL
 'In': KPA/TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'after': AF
 'they': THE
 'came': KAEUPL
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'Curdken': xxx Curdken
 'went': WEPBT
 'to': TO
 'the': -T
 'old': OLD
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'cannot': SK-PBT
 'have': SR
 'that': THA
@@ -1534,17 +1534,17 @@ The Goose-Girl
 'the': -T
 'geese': TKPWAOES
 'any': TPHEU
-'longer.'': HRORPBG TP-PL AE
-''Why?'': AE KPA/KWR H-F AE
+'longer.'': HRORPBG/TP-PL/AE
+''Why?'': AE/KPA/KWR/H-F/AE
 'said': SED
 'the': -T
-'king.': KEUPBG TP-PL
-''Because,': AE KPA/PWAU KW-BG
+'king.': KEUPBG/TP-PL
+''Because,': AE/KPA/PWAU/KW-BG
 'instead': STPHED
 'of': -F
 'doing': TK*G
 'any': TPHEU
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'she': SHE
 'does': TKOS
 'nothing': TPHOG
@@ -1553,7 +1553,7 @@ The Goose-Girl
 'me': PHE
 'all': AUL
 'day': TKAEU
-'long.'': HROPBG TP-PL AE
+'long.'': HROPBG/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
@@ -1563,11 +1563,11 @@ The Goose-Girl
 'him': HEUPL
 'what': WHA
 'had': H
-'happened.': HAPD TP-PL
+'happened.': HAPD/TP-PL
 'And': AFPBD
 'Curdken': xxx Curdken
-'said,': SED KW-BG
-''When': AE KPA/WHEPB
+'said,': SED/KW-BG
+''When': AE/KPA/WHEPB
 'we': WE
 'go': TKPW
 'in': TPH
@@ -1581,7 +1581,7 @@ The Goose-Girl
 'our': OUR
 'flock': TPHROBG
 'of': -F
-'geese,': TKPWAOES KW-BG
+'geese,': TKPWAOES/KW-BG
 'she': SHE
 'cries': KRAOEUS
 'and': SKP
@@ -1596,36 +1596,36 @@ The Goose-Girl
 'hangs': HAPBGS
 'upon': POPB
 'the': -T
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'and': SKP
-'says:': SEZ STPH-FPLT
-''Falada,': AE xxx Falada KW-BG
-'Falada,': xxx Falada KW-BG
+'says:': SEZ/STPH-FPLT
+''Falada,': AE/xxx Falada/KW-BG
+'Falada,': xxx Falada/KW-BG
 'there': THR
 'thou': THO*U
-'hangest!'': HAPBG/EFT SKHRAPL AE
+'hangest!'': HAPBG/EFT/SKHRAPL/AE
 'and': SKP
 'the': -T
 'head': HED
-'answers:': AEPBS/-S STPH-FPLT
-''Bride,': AE KPA/PWRAOEUD KW-BG
-'bride,': PWRAOEUD KW-BG
+'answers:': AEPBS/-S/STPH-FPLT
+''Bride,': AE/KPA/PWRAOEUD/KW-BG
+'bride,': PWRAOEUD/KW-BG
 'there': THR
 'thou': THO*U
-'gangest!': TKPWAPBG/EFT SKHRAPL
-'Alas!': KPA/A/HRAS SKHRAPL
-'alas!': A/HRAS SKHRAPL
+'gangest!': TKPWAPBG/EFT/SKHRAPL
+'Alas!': KPA/A/HRAS/SKHRAPL
+'alas!': A/HRAS/SKHRAPL
 'if': TP
 'thy': THAO*EU
 'mother': PHOER
 'knew': TPHAOU
-'it,': T KW-BG
-'Sadly,': KPA/SAD/HREU KW-BG
-'sadly,': SAD/HREU KW-BG
+'it,': T/KW-BG
+'Sadly,': KPA/SAD/HREU/KW-BG
+'sadly,': SAD/HREU/KW-BG
 'would': WO
 'she': SHE
 'rue': RAO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'And': AFPBD
 'Curdken': xxx Curdken
 'went': WEPBT
@@ -1642,13 +1642,13 @@ The Goose-Girl
 'where': W-R
 'the': -T
 'geese': TKPWAOES
-'fed;': TPED STPH*FPLT
+'fed;': TPED/STPH*FPLT
 'how': HOU
 'his': HEUS
 'hat': HAT
 'was': WAS
 'blown': PWHROEPB
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'and': SKP
 'how': HOU
 'he': HE
@@ -1657,7 +1657,7 @@ The Goose-Girl
 'to': TO
 'run': RUPB
 'after': AF
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'to': TO
 'leave': HREF
@@ -1666,7 +1666,7 @@ The Goose-Girl
 'of': -F
 'geese': TKPWAOES
 'to': TO
-'themselves.': TH*EPLS TP-PL
+'themselves.': TH*EPLS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'old': OLD
@@ -1680,35 +1680,35 @@ The Goose-Girl
 'again': TKPWEPB
 'the': -T
 'next': TPHEGT
-'day:': TKAEU STPH-FPLT
+'day:': TKAEU/STPH-FPLT
 'and': SKP
 'when': WHEPB
 'morning': PHORPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'he': HE
 'placed': PHRAEUFD
 'himself': HEUPLS
 'behind': HEUPBD
 'the': -T
 'dark': TKARBG
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'and': SKP
 'heard': HAERD
 'how': HOU
 'she': SHE
 'spoke': SPOEBG
 'to': TO
-'Falada,': xxx Falada KW-BG
+'Falada,': xxx Falada/KW-BG
 'and': SKP
 'how': HOU
 'Falada': xxx Falada
-'answered.': AEPBS/-D TP-PL
+'answered.': AEPBS/-D/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'field,': TPAOELD KW-BG
+'field,': TPAOELD/KW-BG
 'and': SKP
 'hid': HEUD
 'himself': HEUPLS
@@ -1717,8 +1717,8 @@ The Goose-Girl
 'bush': PWURB
 'by': PWEU
 'the': -T
-'meadow's': PHED/OE AES
-'side;': SAOEUD STPH*FPLT
+'meadow's': PHED/OE/AES
+'side;': SAOEUD/STPH*FPLT
 'and': SKP
 'he': HE
 'soon': SAOPB
@@ -1733,13 +1733,13 @@ The Goose-Girl
 'the': -T
 'flock': TPHROBG
 'of': -F
-'geese;': TKPWAOES STPH*FPLT
+'geese;': TKPWAOES/STPH*FPLT
 'and': SKP
-'how,': HOU KW-BG
+'how,': HOU/KW-BG
 'after': AF
 'a': AEU
 'little': HREUL
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'she': SHE
 'let': HRET
 'down': TKOUPB
@@ -1749,64 +1749,64 @@ The Goose-Girl
 'glittered': TKPWHREUT/ERD
 'in': TPH
 'the': -T
-'sun.': SUPB TP-PL
+'sun.': SUPB/TP-PL
 'And': AFPBD
 'then': THEPB
 'he': HE
 'heard': HAERD
 'her': HER
-'say:': SAEU STPH-FPLT
-''Blow,': AE KPA/PWHROE KW-BG
-'breezes,': PWRAOEZ/-S KW-BG
-'blow!': PWHROE SKHRAPL
+'say:': SAEU/STPH-FPLT
+''Blow,': AE/KPA/PWHROE/KW-BG
+'breezes,': PWRAOEZ/-S/KW-BG
+'blow!': PWHROE/SKHRAPL
 'Let': KPA/HRET
-'Curdken's': xxx Curdken AES
+'Curdken's': xxx Curdken/AES
 'hat': HAT
-'go!': TKPW SKHRAPL
-'Blow,': KPA/PWHROE KW-BG
-'breezes,': PWRAOEZ/-S KW-BG
-'blow!': PWHROE SKHRAPL
+'go!': TKPW/SKHRAPL
+'Blow,': KPA/PWHROE/KW-BG
+'breezes,': PWRAOEZ/-S/KW-BG
+'blow!': PWHROE/SKHRAPL
 'Let': KPA/HRET
 'him': HEUPL
 'after': AF
 'it': T
-'go!': TKPW SKHRAPL
-'O'er': O*P AE *E/R*
-'hills,': HEULS KW-BG
-'dales,': TKAEL/-S KW-BG
+'go!': TKPW/SKHRAPL
+'O'er': O*P/AE/*E/R*
+'hills,': HEULS/KW-BG
+'dales,': TKAEL/-S/KW-BG
 'and': SKP
-'rocks,': ROBGS KW-BG
+'rocks,': ROBGS/KW-BG
 'Away': KPA/WA*EU
 'be': -B
 'it': T
-'whirl'd': WHEURL AE TK*
+'whirl'd': WHEURL/AE/TK*
 'Till': KPA/TEUL
 'the': -T
 'silvery': SEUL/SRER/KWREU
 'locks': HROBGZ
 'Are': KPA/R
 'all': AUL
-'comb'd': KOEPL AE TK*
+'comb'd': KOEPL/AE/TK*
 'and': SKP
-'curl'd!': KURL AE TK* SKHRAPL
+'curl'd!': KURL/AE/TK*/SKHRAPL
 'And': AFPBD
 'soon': SAOPB
 'came': KAEUPL
 'a': AEU
 'gale': TKPWAEL
 'of': -F
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'and': SKP
 'carried': KAERD
 'away': WA*EU
-'Curdken's': xxx Curdken AES
-'hat,': HAT KW-BG
+'Curdken's': xxx Curdken/AES
+'hat,': HAT/KW-BG
 'and': SKP
 'away': WA*EU
 'went': WEPBT
 'Curdken': xxx Curdken
 'after': AF
-'it,': T KW-BG
+'it,': T/KW-BG
 'while': WHAOEUL
 'the': -T
 'girl': TKPWEURL
@@ -1816,25 +1816,25 @@ The Goose-Girl
 'and': SKP
 'curling': KURLG
 'her': HER
-'hair.': HAEUR TP-PL
+'hair.': HAEUR/TP-PL
 'All': KPA/AUL
 'this': TH
 'the': -T
 'old': OLD
 'king': KEUPBG
-'saw:': SAU STPH-FPLT
+'saw:': SAU/STPH-FPLT
 'so': SO
 'he': HE
 'went': WEPBT
 'home': HOEPL
 'without': WOUT
 'being': -BG
-'seen;': SAOEPB STPH*FPLT
+'seen;': SAOEPB/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
 'little': HREUL
-'goose-girl': TKPWAOS H-PB TKPWEURL
+'goose-girl': TKPWAOS/H-PB/TKPWEURL
 'came': KAEUPL
 'back': PWABG
 'in': TPH
@@ -1843,22 +1843,22 @@ The Goose-Girl
 'he': HE
 'called': KAULD
 'her': HER
-'aside,': A/SAOEUD KW-BG
+'aside,': A/SAOEUD/KW-BG
 'and': SKP
 'asked': SK-D
 'her': HER
 'why': KWR
 'she': SHE
 'did': TK
-'so:': SO STPH-FPLT
+'so:': SO/STPH-FPLT
 'but': PWUT
 'she': SHE
 'burst': PWUFRT
 'into': TPHAO
-'tears,': TAERS KW-BG
+'tears,': TAERS/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''That': AE KPA/THA
+'said,': SED/KW-BG
+''That': AE/KPA/THA
 'I': EU
 'must': PHUFT
 'not': TPHOT
@@ -1866,20 +1866,20 @@ The Goose-Girl
 'you': U
 'or': OR
 'any': TPHEU
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'or': OR
 'I': EU
 'shall': SHAL
 'lose': HRUZ
 'my': PHEU
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'old': OLD
 'king': KEUPBG
 'begged': PWEGD
 'so': SO
-'hard,': HARD KW-BG
+'hard,': HARD/KW-BG
 'that': THA
 'she': SHE
 'had': H
@@ -1892,14 +1892,14 @@ The Goose-Girl
 'him': HEUPL
 'all': AUL
 'the': -T
-'tale,': TAEL KW-BG
+'tale,': TAEL/KW-BG
 'from': TPR
 'beginning': TKPWEUPB/-G
 'to': TO
-'end,': EPBD KW-BG
+'end,': EPBD/KW-BG
 'word': WORD
 'for': TPOR
-'word.': WORD TP-PL
+'word.': WORD/TP-PL
 'And': AFPBD
 'it': T
 'was': WAS
@@ -1910,7 +1910,7 @@ The Goose-Girl
 'that': THA
 'she': SHE
 'did': TK
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'for': TPOR
 'when': WHEPB
 'she': SHE
@@ -1925,17 +1925,17 @@ The Goose-Girl
 'be': -B
 'put': PUT
 'upon': POPB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'gazed': TKPWAEZ/-D
 'on': OPB
 'her': HER
 'with': W
-'wonder,': WOPBD KW-BG
+'wonder,': WOPBD/KW-BG
 'she': SHE
 'was': WAS
 'so': SO
-'beautiful.': PWAOUFL TP-PL
+'beautiful.': PWAOUFL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'called': KAULD
@@ -1950,20 +1950,20 @@ The Goose-Girl
 'only': OEPBL
 'a': AEU
 'false': TPALS
-'bride;': PWRAOEUD STPH*FPLT
+'bride;': PWRAOEUD/STPH*FPLT
 'for': TPOR
 'that': THA
 'she': SHE
 'was': WAS
 'merely': PHAOERL
 'a': AEU
-'waiting-maid,': WAEUGT H-PB PHAEUD KW-BG
+'waiting-maid,': WAEUGT/H-PB/PHAEUD/KW-BG
 'while': WHAOEUL
 'the': -T
 'true': TRAOU
 'bride': PWRAOEUD
 'stood': STAOD
-'by.': PWEU TP-PL
+'by.': PWEU/TP-PL
 'And': AFPBD
 'the': -T
 'young': KWRUPBG
@@ -1973,7 +1973,7 @@ The Goose-Girl
 'he': HE
 'saw': SAU
 'her': HER
-'beauty,': PWAOUT KW-BG
+'beauty,': PWAOUT/KW-BG
 'and': SKP
 'heard': HAERD
 'how': HOU
@@ -1982,7 +1982,7 @@ The Goose-Girl
 'patient': PAEURB
 'she': SHE
 'had': H
-'been;': PW-PB STPH*FPLT
+'been;': PW-PB/STPH*FPLT
 'and': SKP
 'without': WOUT
 'saying': SAEUG
@@ -1990,7 +1990,7 @@ The Goose-Girl
 'to': TO
 'the': -T
 'false': TPALS
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'the': -T
 'king': KEUPBG
 'ordered': ORD/-D
@@ -2004,32 +2004,32 @@ The Goose-Girl
 'for': TPOR
 'all': AUL
 'his': HEUS
-'court.': KORT TP-PL
+'court.': KORT/TP-PL
 'The': KPA/-T
 'bridegroom': PWRAOEUD/TKPWRAOPL
 'sat': SAT
 'at': AT
 'the': -T
-'top,': TOP KW-BG
+'top,': TOP/KW-BG
 'with': W
 'the': -T
 'false': TPALS
 'princess': PREUPB/SES
 'on': OPB
 'one': WUPB
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'and': SKP
 'the': -T
 'true': TRAOU
 'one': WUPB
 'on': OPB
 'the': -T
-'other;': OER STPH*FPLT
+'other;': OER/STPH*FPLT
 'but': PWUT
 'nobody': TPHOEB
 'knew': TPHAOU
 'her': HER
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'for': TPOR
 'her': HER
 'beauty': PWAOUT
@@ -2038,7 +2038,7 @@ The Goose-Girl
 'dazzling': TKAZ/-LG
 'to': TO
 'their': THAEUR
-'eyes;': AO*EUS STPH*FPLT
+'eyes;': AO*EUS/STPH*FPLT
 'and': SKP
 'she': SHE
 'did': TK
@@ -2049,7 +2049,7 @@ The Goose-Girl
 'like': HRAOEUBG
 'the': -T
 'little': HREUL
-'goose-girl,': TKPWAOS H-PB TKPWEURL KW-BG
+'goose-girl,': TKPWAOS/H-PB/TKPWEURL/KW-BG
 'now': TPHOU
 'that': THA
 'she': SHE
@@ -2057,17 +2057,17 @@ The Goose-Girl
 'her': HER
 'brilliant': PWREULT
 'dress': TKRES
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'had': H
 'eaten': AOET/EPB
 'and': SKP
-'drank,': TKRA*PBG KW-BG
+'drank,': TKRA*PBG/KW-BG
 'and': SKP
 'were': WR
 'very': SRE
-'merry,': PHER/REU KW-BG
+'merry,': PHER/REU/KW-BG
 'the': -T
 'old': OLD
 'king': KEUPBG
@@ -2077,10 +2077,10 @@ The Goose-Girl
 'tell': TEL
 'them': THEPL
 'a': AEU
-'tale.': TAEL TP-PL
+'tale.': TAEL/TP-PL
 'So': KPA/SO
 'he': HE
-'began,': TKPWAPB KW-BG
+'began,': TKPWAPB/KW-BG
 'and': SKP
 'told': TOLD
 'all': AUL
@@ -2088,7 +2088,7 @@ The Goose-Girl
 'story': STOER
 'of': -F
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'as': AS
 'if': TP
 'it': T
@@ -2098,13 +2098,13 @@ The Goose-Girl
 'he': HE
 'had': H
 'once': WUPBS
-'heard;': HAERD STPH*FPLT
+'heard;': HAERD/STPH*FPLT
 'and': SKP
 'he': HE
 'asked': SK-D
 'the': -T
 'true': TRAOU
-'waiting-maid': WAEUGT H-PB PHAEUD
+'waiting-maid': WAEUGT/H-PB/PHAEUD
 'what': WHA
 'she': SHE
 'thought': THAUT
@@ -2117,14 +2117,14 @@ The Goose-Girl
 'who': WHO
 'would': WO
 'behave': PWAEUF
-'thus.': THUS TP-PL
-''Nothing': AE KPA/TPHOG
-'better,'': PWOERT KW-BG AE
+'thus.': THUS/TP-PL
+''Nothing': AE/KPA/TPHOG
+'better,'': PWOERT/KW-BG/AE
 'said': SED
 'this': TH
 'false': TPALS
-'bride,': PWRAOEUD KW-BG
-''than': AE THAPB
+'bride,': PWRAOEUD/KW-BG
+''than': AE/THAPB
 'that': THA
 'she': SHE
 'should': SHO
@@ -2137,7 +2137,7 @@ The Goose-Girl
 'round': ROUPBD
 'with': W
 'sharp': SHARP
-'nails,': TPHAEULS KW-BG
+'nails,': TPHAEULS/KW-BG
 'and': SKP
 'that': THA
 'two': TWO
@@ -2147,7 +2147,7 @@ The Goose-Girl
 'be': -B
 'put': PUT
 'to': TO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'should': SHO
 'drag': TKRAG
@@ -2159,27 +2159,27 @@ The Goose-Girl
 'till': TEUL
 'she': SHE
 'was': WAS
-'dead.'': TKED TP-PL AE
-''Thou': AE KPA/THO*U
+'dead.'': TKED/TP-PL/AE
+''Thou': AE/KPA/THO*U
 'art': ART
-'she!'': SHE SKHRAPL AE
+'she!'': SHE/SKHRAPL/AE
 'said': SED
 'the': -T
 'old': OLD
-'king;': KEUPBG STPH*FPLT
-''and': AE SKP
+'king;': KEUPBG/STPH*FPLT
+''and': AE/SKP
 'as': AS
 'thou': THO*U
 'has': HAS
 'judged': SKWRUGD
-'thyself,': THAOEU/SEFL KW-BG
+'thyself,': THAOEU/SEFL/KW-BG
 'so': SO
 'shall': SHAL
 'it': T
 'be': -B
 'done': TKOPB
 'to': TO
-'thee.'': THAOE TP-PL AE
+'thee.'': THAOE/TP-PL/AE
 'And': AFPBD
 'the': -T
 'young': KWRUPBG
@@ -2190,7 +2190,7 @@ The Goose-Girl
 'to': TO
 'his': HEUS
 'true': TRAOU
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'they': THE
 'reigned': RAEPB/-D
@@ -2203,7 +2203,7 @@ The Goose-Girl
 'happiness': HAEP/-PBS
 'all': AUL
 'their': THAEUR
-'lives;': HREUFS STPH*FPLT
+'lives;': HREUFS/STPH*FPLT
 'and': SKP
 'the': -T
 'good': TKPWAOD
@@ -2211,7 +2211,7 @@ The Goose-Girl
 'came': KAEUPL
 'to': TO
 'see': SAOE
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'restored': RAOE/STORD
 'the': -T
@@ -2219,4 +2219,4 @@ The Goose-Girl
 'Falada': xxx Falada
 'to': TO
 'life': HRAOEUF
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL

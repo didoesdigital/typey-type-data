@@ -1,15 +1,15 @@
 The Man and the Serpent
 
 'A': KPA/AEU
-'Countryman's': KPA/KREU/PHA*PB AES
+'Countryman's': KPA/KREU/PHA*PB/AES
 'son': SOPB
 'by': PWEU
 'accident': STKEPB
 'trod': TROD
 'upon': POPB
 'a': AEU
-'Serpent's': KPA/SERP/EPBT AES
-'tail,': TAEUL KW-BG
+'Serpent's': KPA/SERP/EPBT/AES
+'tail,': TAEUL/KW-BG
 'which': WEU
 'turned': TURPBD
 'and': SKP
@@ -18,7 +18,7 @@ The Man and the Serpent
 'so': SO
 'that': THA
 'he': HE
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL
 'The': KPA/-T
 'father': TPAER
 'in': TPH
@@ -26,17 +26,17 @@ The Man and the Serpent
 'rage': RAEUPBLG
 'got': TKPWOT
 'his': HEUS
-'axe,': ABGS KW-BG
+'axe,': ABGS/KW-BG
 'and': SKP
 'pursuing': PUR/SAOUG
 'the': -T
-'Serpent,': KPA/SERP/EPBT KW-BG
+'Serpent,': KPA/SERP/EPBT/KW-BG
 'cut': KUT
 'off': OF
 'part': PART
 'of': -F
 'its': EUTS
-'tail.': TAEUL TP-PL
+'tail.': TAEUL/TP-PL
 'So': KPA/SO
 'the': -T
 'Serpent': KPA/SERP/EPBT
@@ -47,14 +47,14 @@ The Man and the Serpent
 'several': SEFRL
 'of': -F
 'the': -T
-'Farmer's': KPA/TPAR/PHER AES
+'Farmer's': KPA/TPAR/PHER/AES
 'cattle': KA*LT
 'and': SKP
 'caused': KAUFD
 'him': HEUPL
 'severe': SWAOER
-'loss.': HROS TP-PL
-'Well,': KPA/WEL KW-BG
+'loss.': HROS/TP-PL
+'Well,': KPA/WEL/KW-BG
 'the': -T
 'Farmer': KPA/TPAR/PHER
 'thought': THAUT
@@ -66,7 +66,7 @@ The Man and the Serpent
 'up': UP
 'with': W
 'the': -T
-'Serpent,': KPA/SERP/EPBT KW-BG
+'Serpent,': KPA/SERP/EPBT/KW-BG
 'and': SKP
 'brought': PWRAUT
 'food': TPAOD
@@ -77,15 +77,15 @@ The Man and the Serpent
 'mouth': PHO*UT
 'of': -F
 'its': EUTS
-'lair,': HRA*EUR KW-BG
+'lair,': HRA*EUR/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'it:': T STPH-FPLT
-'"Let's': KR-GS KPA/HRET AES
+'it:': T/STPH-FPLT
+'"Let's': KR-GS/KPA/HRET/AES
 'forget': TPORGT
 'and': SKP
-'forgive;': TPAURG STPH*FPLT
+'forgive;': TPAURG/STPH*FPLT
 'perhaps': PRAPS
 'you': U
 'were': WR
@@ -93,13 +93,13 @@ The Man and the Serpent
 'to': TO
 'punish': P-RB
 'my': PHEU
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'and': SKP
 'take': TAEUBG
 'vengeance': SREPBG/APBS
 'on': OPB
 'my': PHEU
-'cattle,': KA*LT KW-BG
+'cattle,': KA*LT/KW-BG
 'but': PWUT
 'surely': SHURL
 'I': EU
@@ -109,7 +109,7 @@ The Man and the Serpent
 'trying': TRAOEUG
 'to': TO
 'revenge': RE/SREPBG
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'now': TPHOU
 'that': THA
 'we': WE
@@ -122,16 +122,16 @@ The Man and the Serpent
 'we': WE
 'be': -B
 'friends': TPREPBDZ
-'again?"': TKPWEPB H-F KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
-'no,"': TPHO KW-BG KR-GS
+'again?"': TKPWEPB/H-F/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
+'no,"': TPHO/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Serpent;': KPA/SERP/EPBT STPH*FPLT
-'"take': KR-GS TAEUBG
+'Serpent;': KPA/SERP/EPBT/STPH*FPLT
+'"take': KR-GS/TAEUBG
 'away': WA*EU
 'your': KWROUR
-'gifts;': TKPWEUFTS STPH*FPLT
+'gifts;': TKPWEUFTS/STPH*FPLT
 'you': U
 'can': K
 'never': TPHEFR
@@ -140,18 +140,18 @@ The Man and the Serpent
 'death': TK*T
 'of': -F
 'your': KWROUR
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'nor': TPH-R
 'I': EU
 'the': -T
 'loss': HROS
 'of': -F
 'my': PHEU
-'tail."': TAEUL TP-PL KR-GS
+'tail."': TAEUL/TP-PL/KR-GS
 'Injuries': KPA/SKWR*RS
 'may': PHAE
 'be': -B
-'forgiven,': TPAURGD KW-BG
+'forgiven,': TPAURGD/KW-BG
 'but': PWUT
 'not': TPHOT
-'forgotten.': TPAURGTD TP-PL
+'forgotten.': TPAURGTD/TP-PL

@@ -20,25 +20,25 @@ A Rose From Homer's Grave
 'the': -T
 'silent': SHREPBT
 'starlight': STARLGT
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'The': KPA/-T
 'winged': WEUPBGD
 'songster': SOPBG/STER
 'serenades': SER/TPHAEUDZ
 'the': -T
 'fragrant': TPRAEUG/RAPBT
-'flowers.': TPHRO*URS TP-PL
+'flowers.': TPHRO*URS/TP-PL
 'Not': KPA/TPHOT
 'far': TPAR
 'from': TPR
-'Smyrna,': SPHEURPB/KWRA KW-BG
+'Smyrna,': SPHEURPB/KWRA/KW-BG
 'where': W-R
 'the': -T
 'merchant': PHEFRPBT
 'drives': TKREUFS
 'his': HEUS
 'loaded': HRAOD/-D
-'camels,': KAPL/EL/-S KW-BG
+'camels,': KAPL/EL/-S/KW-BG
 'proudly': PROUD/HREU
 'arching': AR/-FPG
 'their': THAEUR
@@ -53,15 +53,15 @@ A Rose From Homer's Grave
 'pines': PAOEUPBS
 'over': OEFR
 'holy': HOEUL
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'I': EU
 'saw': SAU
 'a': AEU
 'hedge': HEPBLG
 'of': -F
-'roses.': ROES/-S TP-PL
+'roses.': ROES/-S/TP-PL
 'The': KPA/-T
-'turtle-dove': TURLT H-PB TKOF
+'turtle-dove': TURLT/H-PB/TKOF
 'flew': TPHRAOU
 'among': PHOPBG
 'the': -T
@@ -69,7 +69,7 @@ A Rose From Homer's Grave
 'of': -F
 'the': -T
 'tall': TAUL
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'and': SKP
 'as': AS
 'the': -T
@@ -77,25 +77,25 @@ A Rose From Homer's Grave
 'fell': TPEL
 'upon': POPB
 'her': HER
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'they': THE
 'glistened': TKPWHREUS/-PBD
 'as': AS
 'if': TP
 'they': THE
 'were': WR
-'mother-of-pearl.': PHOER H-PB -F H-PB PERL TP-PL
+'mother-of-pearl.': PHOER/H-PB/-F/H-PB/PERL/TP-PL
 'On': KPA/OPB
 'the': -T
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'grew': TKPWRAOU
 'a': AEU
-'flower,': TPHRO*UR KW-BG
+'flower,': TPHRO*UR/KW-BG
 'more': PHOR
 'beautiful': PWAOUFL
 'than': THAPB
 'them': THEPL
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'to': TO
 'her': HER
@@ -104,12 +104,12 @@ A Rose From Homer's Grave
 'sung': SUPBG
 'of': -F
 'his': HEUS
-'woes;': WOE/-S STPH*FPLT
+'woes;': WOE/-S/STPH*FPLT
 'but': PWUT
 'the': -T
 'rose': ROEZ
 'remained': RE/PHAEUPBD
-'silent,': SHREPBT KW-BG
+'silent,': SHREPBT/KW-BG
 'not': TPHOT
 'even': AOEPB
 'a': AEU
@@ -122,7 +122,7 @@ A Rose From Homer's Grave
 'sympathy': SEUPL/THEU
 'on': OPB
 'her': HER
-'leaves.': HREFS TP-PL
+'leaves.': HREFS/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'she': SHE
@@ -133,17 +133,17 @@ A Rose From Homer's Grave
 'a': AEU
 'heap': HAOEP
 'of': -F
-'stones,': STOEPBS KW-BG
+'stones,': STOEPBS/KW-BG
 'and': SKP
-'said,': SED KW-BG
-'"Here': KR-GS KPA/HAOER
+'said,': SED/KW-BG
+'"Here': KR-GS/KPA/HAOER
 'rests': REFTS
 'the': -T
 'greatest': TKPWRAET/EFT
 'singer': SEURPBG
 'in': TPH
 'the': -T
-'world;': WORLD STPH*FPLT
+'world;': WORLD/STPH*FPLT
 'over': OEFR
 'his': HEUS
 'tomb': TAOUPL
@@ -151,7 +151,7 @@ A Rose From Homer's Grave
 'I': EU
 'spread': SPRED
 'my': PHEU
-'fragrance,': TPRAEUG/RAPBS KW-BG
+'fragrance,': TPRAEUG/RAPBS/KW-BG
 'and': SKP
 'on': OPB
 'it': T
@@ -165,29 +165,29 @@ A Rose From Homer's Grave
 'the': -T
 'storm': STORPL
 'scatters': SKAT/ERS
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'He': KPA/HE
 'who': WHO
 'sung': SUPBG
 'of': -F
 'Troy': TROEU
 'became': PWAEUPL
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'and': SKP
 'from': TPR
 'that': THA
 'earth': *ERT
 'I': EU
 'have': SR
-'sprung.': SPRUPBG TP-PL
-'I,': EU KW-BG
+'sprung.': SPRUPBG/TP-PL
+'I,': EU/KW-BG
 'a': AEU
 'rose': ROEZ
 'from': TPR
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Homer,': HOERPL KW-BG
+'Homer,': HOERPL/KW-BG
 'am': APL
 'too': TAO
 'lofty': HROF/TEU
@@ -195,18 +195,18 @@ A Rose From Homer's Grave
 'bloom': PWHRAOPL
 'for': TPOR
 'a': AEU
-'nightingale."': TPHAOEUT/-G/TKPWAEL TP-PL KR-GS
+'nightingale."': TPHAOEUT/-G/TKPWAEL/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'nightingale': TPHAOEUT/-G/TKPWAEL
 'sung': SUPBG
 'himself': HEUPLS
 'to': TO
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'A': KPA/AEU
-'camel-driver': KAPL/EL H-PB TKREUFR
+'camel-driver': KAPL/EL/H-PB/TKREUFR
 'came': KAEUPL
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'with': W
 'his': HEUS
 'loaded': HRAOD/-D
@@ -214,14 +214,14 @@ A Rose From Homer's Grave
 'and': SKP
 'his': HEUS
 'black': PWHRABG
-'slaves;': SHRAFS STPH*FPLT
+'slaves;': SHRAFS/STPH*FPLT
 'his': HEUS
 'little': HREUL
 'son': SOPB
 'found': TPOUPBD
 'the': -T
 'dead': TKED
-'bird,': PWEURD KW-BG
+'bird,': PWEURD/KW-BG
 'and': SKP
 'buried': PWUR/EUD
 'the': -T
@@ -233,17 +233,17 @@ A Rose From Homer's Grave
 'of': -F
 'the': -T
 'great': TKPWRAET
-'Homer,': HOERPL KW-BG
+'Homer,': HOERPL/KW-BG
 'while': WHAOEUL
 'the': -T
 'rose': ROEZ
 'trembled': TREPL/-BLD
 'in': TPH
 'the': -T
-'wind.': WEUPBD TP-PL
+'wind.': WEUPBD/TP-PL
 'The': KPA/-T
 'evening': AOEPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'the': -T
 'rose': ROEZ
@@ -253,20 +253,20 @@ A Rose From Homer's Grave
 'more': PHOR
 'closely': KHROELS
 'round': ROUPBD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
-'dreamed:': TKREPLD STPH-FPLT
+'dreamed:': TKREPLD/STPH-FPLT
 'and': SKP
 'this': TH
 'was': WAS
 'her': HER
-'dream.': TKRAOEPL TP-PL
+'dream.': TKRAOEPL/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
 'fair': TPAEUR
 'sunshiny': SUPB/TK-LS/SHOEUPB
-'day;': TKAEU STPH*FPLT
+'day;': TKAEU/STPH*FPLT
 'a': AEU
 'crowd': KROUD
 'of': -F
@@ -282,7 +282,7 @@ A Rose From Homer's Grave
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Homer.': HOERPL TP-PL
+'Homer.': HOERPL/TP-PL
 'Among': KPA/PHOPBG
 'the': -T
 'strangers': STRAEURPBGS
@@ -291,7 +291,7 @@ A Rose From Homer's Grave
 'minstrel': PHEUPB/STREL
 'from': TPR
 'the': -T
-'north,': TPHORT KW-BG
+'north,': TPHORT/KW-BG
 'the': -T
 'home': HOEPL
 'of': -F
@@ -304,7 +304,7 @@ A Rose From Homer's Grave
 'of': -F
 'the': -T
 'aurora': AU/ROR/KWRA
-'borealis.': PWOR/A*L/EUS TP-PL
+'borealis.': PWOR/A*L/EUS/TP-PL
 'He': KPA/HE
 'plucked': PHRUBGD
 'the': -T
@@ -314,7 +314,7 @@ A Rose From Homer's Grave
 'it': T
 'in': TPH
 'a': AEU
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'and': SKP
 'carried': KAERD
 'it': T
@@ -325,14 +325,14 @@ A Rose From Homer's Grave
 'part': PART
 'of': -F
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'his': HEUS
-'fatherland.': TPAER/HRA*PBD TP-PL
+'fatherland.': TPAER/HRA*PBD/TP-PL
 'The': KPA/-T
 'rose': ROEZ
 'faded': TPAEUD/-D
 'with': W
-'grief,': TKPWRAOEF KW-BG
+'grief,': TKPWRAOEF/KW-BG
 'and': SKP
 'lay': HRAEU
 'between': TWAOEPB
@@ -340,16 +340,16 @@ A Rose From Homer's Grave
 'leaves': HREFS
 'of': -F
 'the': -T
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'which': WEU
 'he': HE
 'opened': OEPD
 'in': TPH
 'his': HEUS
 'own': OEPB
-'home,': HOEPL KW-BG
-'saying,': SAEUG KW-BG
-'"Here': KR-GS KPA/HAOER
+'home,': HOEPL/KW-BG
+'saying,': SAEUG/KW-BG
+'"Here': KR-GS/KPA/HAOER
 'is': S
 'a': AEU
 'rose': ROEZ
@@ -357,19 +357,19 @@ A Rose From Homer's Grave
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Homer."': HOERPL TP-PL KR-GS
+'Homer."': HOERPL/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'flower': TPHRO*UR
 'awoke': A/WOEBG
 'from': TPR
 'her': HER
-'dream,': TKRAOEPL KW-BG
+'dream,': TKRAOEPL/KW-BG
 'and': SKP
 'trembled': TREPL/-BLD
 'in': TPH
 'the': -T
-'wind.': WEUPBD TP-PL
+'wind.': WEUPBD/TP-PL
 'A': KPA/AEU
 'drop': TKROP
 'of': -F
@@ -380,11 +380,11 @@ A Rose From Homer's Grave
 'leaves': HREFS
 'upon': POPB
 'the': -T
-'singer's': SEURPBG AES
-'grave.': TKPWRAEUF TP-PL
+'singer's': SEURPBG/AES
+'grave.': TKPWRAEUF/TP-PL
 'The': KPA/-T
 'sun': SUPB
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'and': SKP
 'the': -T
 'flower': TPHRO*UR
@@ -392,11 +392,11 @@ A Rose From Homer's Grave
 'more': PHOR
 'beautiful': PWAOUFL
 'than': THAPB
-'ever.': -FR TP-PL
+'ever.': -FR/TP-PL
 'The': KPA/-T
 'day': TKAEU
 'was': WAS
-'hot,': HOT KW-BG
+'hot,': HOT/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -405,11 +405,11 @@ A Rose From Homer's Grave
 'her': HER
 'own': OEPB
 'warm': WARPL
-'Asia.': A*ERB TP-PL
+'Asia.': A*ERB/TP-PL
 'Then': KPA/THEPB
 'footsteps': TPAOT/STEPS
-'approached,': A/PROEFPD KW-BG
-'strangers,': STRAEURPBGS KW-BG
+'approached,': A/PROEFPD/KW-BG
+'strangers,': STRAEURPBGS/KW-BG
 'such': SUFP
 'as': AS
 'the': -T
@@ -418,9 +418,9 @@ A Rose From Homer's Grave
 'seen': SAOEPB
 'in': TPH
 'her': HER
-'dream,': TKRAOEPL KW-BG
+'dream,': TKRAOEPL/KW-BG
 'came': KAEUPL
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'and': SKP
 'among': PHOPBG
 'them': THEPL
@@ -429,18 +429,18 @@ A Rose From Homer's Grave
 'poet': POET
 'from': TPR
 'the': -T
-'north;': TPHORT STPH*FPLT
+'north;': TPHORT/STPH*FPLT
 'he': HE
 'plucked': PHRUBGD
 'the': -T
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'pressed': PREFD
 'a': AEU
 'kiss': KEUS
 'upon': POPB
 'her': HER
 'fresh': TPRERB
-'mouth,': PHO*UT KW-BG
+'mouth,': PHO*UT/KW-BG
 'and': SKP
 'carried': KAERD
 'her': HER
@@ -454,32 +454,32 @@ A Rose From Homer's Grave
 'and': SKP
 'the': -T
 'northern': TPHOERPB
-'lights.': HRAOEUTS TP-PL
+'lights.': HRAOEUTS/TP-PL
 'Like': KPA/HRAOEUBG
 'a': AEU
-'mummy,': PHUPL/PHEU KW-BG
+'mummy,': PHUPL/PHEU/KW-BG
 'the': -T
 'flower': TPHRO*UR
 'now': TPHOU
 'rests': REFTS
 'in': TPH
 'his': HEUS
-'"Iliad,"': KR-GS EUL/KWRAD KW-BG KR-GS
-'and,': SKP KW-BG
+'"Iliad,"': KR-GS/EUL/KWRAD/KW-BG/KR-GS
+'and,': SKP/KW-BG
 'as': AS
 'in': TPH
 'her': HER
-'dream,': TKRAOEPL KW-BG
+'dream,': TKRAOEPL/KW-BG
 'she': SHE
 'hears': HAERS
 'him': HEUPL
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'as': AS
 'he': HE
 'opens': OEPS
 'the': -T
-'book,': PWAOBG KW-BG
-'"Here': KR-GS KPA/HAOER
+'book,': PWAOBG/KW-BG
+'"Here': KR-GS/KPA/HAOER
 'is': S
 'a': AEU
 'rose': ROEZ
@@ -487,4 +487,4 @@ A Rose From Homer's Grave
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Homer."': HOERPL TP-PL KR-GS
+'Homer."': HOERPL/TP-PL/KR-GS

@@ -2,25 +2,25 @@ The Last Dream of the Old Oak
 
 'In': KPA/TPH
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'high': HAOEU
 'up': UP
 'on': OPB
 'the': -T
 'steep': STAOEP
-'shore,': SHOR KW-BG
+'shore,': SHOR/KW-BG
 'and': SKP
 'not': TPHOT
 'far': TPAR
 'from': TPR
 'the': -T
 'open': OEP
-'seacoast,': SAE/KOEFT KW-BG
+'seacoast,': SAE/KOEFT/KW-BG
 'stood': STAOD
 'a': AEU
 'very': SRE
 'old': OLD
-'oak-tree.': OEBG H-PB TRAOE TP-PL
+'oak-tree.': OEBG/H-PB/TRAOE/TP-PL
 'It': KPA/T
 'was': WAS
 'just': SKWRUFT
@@ -29,7 +29,7 @@ The Last Dream of the Old Oak
 'and': SKP
 'sixty-five': SEUBGT/TPAOEUF
 'years': KWRAOERS
-'old,': OLD KW-BG
+'old,': OLD/KW-BG
 'but': PWUT
 'that': THA
 'long': HROPBG
@@ -47,7 +47,7 @@ The Last Dream of the Old Oak
 'might': PHAOEUT
 'be': -B
 'to': TO
-'us;': US STPH*FPLT
+'us;': US/STPH*FPLT
 'we': WE
 'wake': WAEUBG
 'by': PWEU
@@ -55,19 +55,19 @@ The Last Dream of the Old Oak
 'and': SKP
 'sleep': SHRAOEP
 'by': PWEU
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'then': THEPB
 'we': WE
 'have': SR
 'our': OUR
-'dreams.': TKRAOEPLS TP-PL
+'dreams.': TKRAOEPLS/TP-PL
 'It': KPA/T
 'is': S
 'different': TKEUFRT
 'with': W
 'the': -T
-'tree;': TRAOE STPH*FPLT
+'tree;': TRAOE/STPH*FPLT
 'it': T
 'is': S
 'obliged': OE/PWHRAOEUPBLGD
@@ -79,7 +79,7 @@ The Last Dream of the Old Oak
 'seasons': S-PBZ
 'of': -F
 'the': -T
-'year,': KWRAOER KW-BG
+'year,': KWRAOER/KW-BG
 'and': SKP
 'does': TKOS
 'not': TPHOT
@@ -88,13 +88,13 @@ The Last Dream of the Old Oak
 'sleep': SHRAOEP
 'till': TEUL
 'winter': WEURPBT
-'comes.': KOPLS TP-PL
+'comes.': KOPLS/TP-PL
 'Winter': W*EUPBT/*ER
 'is': S
 'its': EUTS
 'time': TAOEUPL
 'for': TPOR
-'rest;': REFT STPH*FPLT
+'rest;': REFT/STPH*FPLT
 'its': EUTS
 'night': TPHAOEUT
 'after': AF
@@ -102,17 +102,17 @@ The Last Dream of the Old Oak
 'long': HROPBG
 'day': TKAEU
 'of': -F
-'spring,': SPREUPBG KW-BG
-'summer,': SAOURPL KW-BG
+'spring,': SPREUPBG/KW-BG
+'summer,': SAOURPL/KW-BG
 'and': SKP
-'autumn.': AU/UPL TP-PL
+'autumn.': AU/UPL/TP-PL
 'On': KPA/OPB
 'many': PHAEPB
 'a': AEU
 'warm': WARPL
-'summer,': SAOURPL KW-BG
+'summer,': SAOURPL/KW-BG
 'the': -T
-'Ephemera,': KPA/AOE/TPEPL/RA KW-BG
+'Ephemera,': KPA/AOE/TPEPL/RA/KW-BG
 'the': -T
 'flies': TPHRAOEUS
 'that': THA
@@ -120,23 +120,23 @@ The Last Dream of the Old Oak
 'for': TPOR
 'only': OEPBL
 'a': AEU
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'had': H
 'fluttered': TPHRUT/ERD
 'about': PW
 'the': -T
 'old': OLD
-'oak,': OEBG KW-BG
+'oak,': OEBG/KW-BG
 'enjoyed': EPB/SKWROEUD
 'life': HRAOEUF
 'and': SKP
 'felt': TPELT
 'happy': HAEP
 'and': SKP
-'if,': TP KW-BG
+'if,': TP/KW-BG
 'for': TPOR
 'a': AEU
-'moment,': PHOEPLT KW-BG
+'moment,': PHOEPLT/KW-BG
 'one': WUPB
 'of': -F
 'the': -T
@@ -149,15 +149,15 @@ The Last Dream of the Old Oak
 'his': HEUS
 'large': HRARPBLG
 'fresh': TPRERB
-'leaves,': HREFS KW-BG
+'leaves,': HREFS/KW-BG
 'the': -T
 'tree': TRAOE
 'would': WO
 'always': AULS
-'say,': SAEU KW-BG
-'"Poor': KR-GS KPA/PAOR
+'say,': SAEU/KW-BG
+'"Poor': KR-GS/KPA/PAOR
 'little': HREUL
-'creature!': KRAOEFP SKHRAPL
+'creature!': KRAOEFP/SKHRAPL
 'your': KWROUR
 'whole': WHOEL
 'life': HRAOEUF
@@ -166,27 +166,27 @@ The Last Dream of the Old Oak
 'of': -F
 'a': AEU
 'single': SEUPBLG
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'How': KPA/HOU
 'very': SRE
-'short.': SHORT TP-PL
+'short.': SHORT/TP-PL
 'It': KPA/T
 'must': PHUFT
 'be': -B
 'quite': KWAOEUT
-'melancholy."': PHEL/KOL/HREU TP-PL KR-GS
-'"Melancholy!': KR-GS KPA/PHEL/KOL/HREU SKHRAPL
+'melancholy."': PHEL/KOL/HREU/TP-PL/KR-GS
+'"Melancholy!': KR-GS/KPA/PHEL/KOL/HREU/SKHRAPL
 'what': WHA
 'do': TKO
 'you': U
-'mean?"': PHAOEPB H-F KR-GS
+'mean?"': PHAOEPB/H-F/KR-GS
 'the': -T
 'little': HREUL
 'creature': KRAOEFP
 'would': WO
 'always': AULS
-'reply.': RE/PHRAOEU TP-PL
-'"Everything': KR-GS KPA/EFRG
+'reply.': RE/PHRAOEU/TP-PL
+'"Everything': KR-GS/KPA/EFRG
 'around': ARPBD
 'me': PHE
 'is': S
@@ -194,42 +194,42 @@ The Last Dream of the Old Oak
 'wonderfully': WOPBD/TPHREU
 'bright': PWRAOEUT
 'and': SKP
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'and': SKP
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'that': THA
 'it': T
 'makes': PHAEUBGS
 'me': PHE
-'joyous."': SKWROEU/KWROUS TP-PL KR-GS
-'"But': KR-GS KPA/PWUT
+'joyous."': SKWROEU/KWROUS/TP-PL/KR-GS
+'"But': KR-GS/KPA/PWUT
 'only': OEPBL
 'for': TPOR
 'one': WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'then': THEPB
 'it': T
 'is': S
 'all': AUL
-'over."': OEFR TP-PL KR-GS
-'"Over!"': KR-GS KPA/OEFR SKHRAPL KR-GS
+'over."': OEFR/TP-PL/KR-GS
+'"Over!"': KR-GS/KPA/OEFR/SKHRAPL/KR-GS
 'repeated': RE/PAOETD
 'the': -T
-'fly;': TPHRAOEU STPH*FPLT
-'"what': KR-GS WHA
+'fly;': TPHRAOEU/STPH*FPLT
+'"what': KR-GS/WHA
 'is': S
 'the': -T
 'meaning': PHAOEPBG
 'of': -F
 'all': AUL
-'over?': OEFR H-F
+'over?': OEFR/H-F
 'Are': KPA/R
 'you': U
 'all': AUL
 'over': OEFR
-'too?"': TAO H-F KR-GS
-'"No;': KR-GS KPA/TPHO STPH*FPLT
+'too?"': TAO/H-F/KR-GS
+'"No;': KR-GS/KPA/TPHO/STPH*FPLT
 'I': EU
 'shall': SHAL
 'very': SRE
@@ -239,14 +239,14 @@ The Last Dream of the Old Oak
 'thousands': THOUDZ
 'of': -F
 'your': KWROUR
-'days,': TKAEUS KW-BG
+'days,': TKAEUS/KW-BG
 'and': SKP
 'my': PHEU
 'day': TKAEU
 'is': S
 'whole': WHOEL
 'seasons': S-PBZ
-'long;': HROPBG STPH*FPLT
+'long;': HROPBG/STPH*FPLT
 'indeed': TPHAOEPBD
 'it': T
 'is': S
@@ -258,20 +258,20 @@ The Last Dream of the Old Oak
 'never': TPHEFR
 'reckon': REBG/-PB
 'it': T
-'out."': OUT TP-PL KR-GS
-'"No?': KR-GS KPA/TPHO H-F
+'out."': OUT/TP-PL/KR-GS
+'"No?': KR-GS/KPA/TPHO/H-F
 'then': THEPB
 'I': EU
 'don't': TKOEPBT
 'understand': URPBD
-'you.': U TP-PL
+'you.': U/TP-PL
 'You': KPA/U
 'may': PHAE
 'have': SR
 'thousands': THOUDZ
 'of': -F
 'my': PHEU
-'days,': TKAEUS KW-BG
+'days,': TKAEUS/KW-BG
 'but': PWUT
 'I': EU
 'have': SR
@@ -285,7 +285,7 @@ The Last Dream of the Old Oak
 'be': -B
 'merry': PHER/REU
 'and': SKP
-'happy.': HAEP TP-PL
+'happy.': HAEP/TP-PL
 'Does': KPA/TKOS
 'all': AUL
 'the': -T
@@ -296,41 +296,41 @@ The Last Dream of the Old Oak
 'cease': SAOES
 'when': WHEPB
 'you': U
-'die?"': TKAOEU H-F KR-GS
-'"No,"': KR-GS KPA/TPHO KW-BG KR-GS
+'die?"': TKAOEU/H-F/KR-GS
+'"No,"': KR-GS/KPA/TPHO/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'tree;': TRAOE STPH*FPLT
-'"it': KR-GS T
+'tree;': TRAOE/STPH*FPLT
+'"it': KR-GS/T
 'will': HR
 'certainly': SERPBL
 'last': HRAFT
 'much': PHUFP
-'longer,—infinitely': HRORPBG KW-BG EPL/TKA*RB EUPB/TPEUPBT/HREU
+'longer,—infinitely': HRORPBG/KW-BG/EPL/TKA*RB/EUPB/TPEUPBT/HREU
 'longer': HRORPBG
 'than': THAPB
 'I': EU
 'can': K
 'even': AOEPB
 'think': THEU
-'of."': -F TP-PL KR-GS
-'"Well,': KR-GS KPA/WEL KW-BG
-'then,"': THEPB KW-BG KR-GS
+'of."': -F/TP-PL/KR-GS
+'"Well,': KR-GS/KPA/WEL/KW-BG
+'then,"': THEPB/KW-BG/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
-'fly,': TPHRAOEU KW-BG
-'"we': KR-GS WE
+'fly,': TPHRAOEU/KW-BG
+'"we': KR-GS/WE
 'have': SR
 'the': -T
 'same': SAEUPL
 'time': TAOEUPL
 'to': TO
-'live;': HREUF STPH*FPLT
+'live;': HREUF/STPH*FPLT
 'only': OEPBL
 'we': WE
 'reckon': REBG/-PB
-'differently."': TKEUFRL TP-PL KR-GS
+'differently."': TKEUFRL/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'little': HREUL
@@ -340,7 +340,7 @@ The Last Dream of the Old Oak
 'floated': TPHROET/-D
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'rejoicing': RE/SKWROEUFG
 'in': TPH
 'her': HER
@@ -349,33 +349,33 @@ The Last Dream of the Old Oak
 'of': -F
 'gauze': TKPWAUZ
 'and': SKP
-'velvet,': SREL/SRET KW-BG
+'velvet,': SREL/SRET/KW-BG
 'rejoicing': RE/SKWROEUFG
 'in': TPH
 'the': -T
 'balmy': PWAL/PH*EU
-'breezes,': PWRAOEZ/-S KW-BG
+'breezes,': PWRAOEZ/-S/KW-BG
 'laden': HRA*ED/-PB
 'with': W
 'the': -T
 'fragrance': TPRAEUG/RAPBS
 'of': -F
-'clover-fields': KHROEFR H-PB TPAOELDZ
+'clover-fields': KHROEFR/H-PB/TPAOELDZ
 'and': SKP
 'wild': WAOEULD
-'roses,': ROES/-S KW-BG
-'elder-blossoms': ELD/ER H-PB PWHROS/SOPL/-S
+'roses,': ROES/-S/KW-BG
+'elder-blossoms': ELD/ER/H-PB/PWHROS/SOPL/-S
 'and': SKP
-'honeysuckle,': HOPB/KWREU/SUBG/*L KW-BG
+'honeysuckle,': HOPB/KWREU/SUBG/*L/KW-BG
 'from': TPR
 'the': -T
 'garden': TKPWA*RPB
-'hedges,': HEPBLG/-S KW-BG
+'hedges,': HEPBLG/-S/KW-BG
 'wild': WAOEULD
-'thyme,': THAOEUPL KW-BG
-'primroses,': PREUPL/ROES/-S KW-BG
+'thyme,': THAOEUPL/KW-BG
+'primroses,': PREUPL/ROES/-S/KW-BG
 'and': SKP
-'mint,': PHEUPBT KW-BG
+'mint,': PHEUPBT/KW-BG
 'and': SKP
 'the': -T
 'scent': SKEPBT
@@ -392,7 +392,7 @@ The Last Dream of the Old Oak
 'intoxicated': EUPB/TOBGS/KAEUT/-D
 'the': -T
 'little': HREUL
-'fly.': TPHRAOEU TP-PL
+'fly.': TPHRAOEU/TP-PL
 'The': KPA/-T
 'long': HROPBG
 'and': SKP
@@ -406,7 +406,7 @@ The Last Dream of the Old Oak
 'joy': SKWROEU
 'and': SKP
 'sweet': SWAOET
-'delights,': TKHRAOEUT/-S KW-BG
+'delights,': TKHRAOEUT/-S/KW-BG
 'that': THA
 'when': WHEPB
 'the': -T
@@ -421,14 +421,14 @@ The Last Dream of the Old Oak
 'its': EUTS
 'happiness': HAEP/-PBS
 'and': SKP
-'enjoyment.': SKWROEUPLT TP-PL
+'enjoyment.': SKWROEUPLT/TP-PL
 'Its': KPA/EUTS
 'wings': WEUPBGS
 'could': KO
 'sustain': STAEPB
 'it': T
 'no': TPHO
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'and': SKP
 'gently': SKWREPBT/HREU
 'and': SKP
@@ -442,7 +442,7 @@ The Last Dream of the Old Oak
 'waving': WAFG
 'blades': PWHRAEUDZ
 'of': -F
-'grass,': TKPWRAS KW-BG
+'grass,': TKPWRAS/KW-BG
 'nodded': TPHOD/-D
 'its': EUTS
 'little': HREUL
@@ -452,29 +452,29 @@ The Last Dream of the Old Oak
 'as': AS
 'it': T
 'could': KO
-'nod,': TPHOD KW-BG
+'nod,': TPHOD/KW-BG
 'and': SKP
 'slept': SHREPT
 'peacefully': PAES/TPHREU
 'and': SKP
-'sweetly.': SWAOET/HREU TP-PL
+'sweetly.': SWAOET/HREU/TP-PL
 'The': KPA/-T
 'fly': TPHRAOEU
 'was': WAS
-'dead.': TKED TP-PL
-'"Poor': KR-GS KPA/PAOR
+'dead.': TKED/TP-PL
+'"Poor': KR-GS/KPA/PAOR
 'little': HREUL
-'Ephemera!"': KPA/AOE/TPEPL/RA SKHRAPL KR-GS
+'Ephemera!"': KPA/AOE/TPEPL/RA/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'oak;': OEBG STPH*FPLT
-'"what': KR-GS WHA
+'oak;': OEBG/STPH*FPLT
+'"what': KR-GS/WHA
 'a': AEU
 'terribly': TERBL/HREU
 'short': SHORT
-'life!"': HRAOEUF SKHRAPL KR-GS
+'life!"': HRAOEUF/SKHRAPL/KR-GS
 'And': AFPBD
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'on': OPB
 'every': EF
 'summer': SAOURPL
@@ -482,16 +482,16 @@ The Last Dream of the Old Oak
 'the': -T
 'dance': TKAPBS
 'was': WAS
-'repeated,': RE/PAOETD KW-BG
+'repeated,': RE/PAOETD/KW-BG
 'the': -T
 'same': SAEUPL
 'questions': KWES
-'asked,': SK-D KW-BG
+'asked,': SK-D/KW-BG
 'and': SKP
 'the': -T
 'same': SAEUPL
 'answers': AEPBS/-S
-'given.': TKPWEUFPB TP-PL
+'given.': TKPWEUFPB/TP-PL
 'The': KPA/-T
 'same': SAEUPL
 'thing': THEUPBG
@@ -501,7 +501,7 @@ The Last Dream of the Old Oak
 'many': PHAEPB
 'generations': SKWREPB/RAEUGS/-S
 'of': -F
-'Ephemera;': KPA/AOE/TPEPL/RA STPH*FPLT
+'Ephemera;': KPA/AOE/TPEPL/RA/STPH*FPLT
 'all': AUL
 'of': -F
 'them': THEPL
@@ -510,7 +510,7 @@ The Last Dream of the Old Oak
 'merry': PHER/REU
 'and': SKP
 'equally': KWAEL
-'happy.': HAEP TP-PL
+'happy.': HAEP/TP-PL
 'The': KPA/-T
 'oak': OEBG
 'remained': RE/PHAEUPBD
@@ -519,33 +519,33 @@ The Last Dream of the Old Oak
 'the': -T
 'morning': PHORPBG
 'of': -F
-'spring,': SPREUPBG KW-BG
+'spring,': SPREUPBG/KW-BG
 'the': -T
 'noon': TPHAOPB
 'of': -F
-'summer,': SAOURPL KW-BG
+'summer,': SAOURPL/KW-BG
 'and': SKP
 'the': -T
 'evening': AOEPBG
 'of': -F
-'autumn;': AU/UPL STPH*FPLT
+'autumn;': AU/UPL/STPH*FPLT
 'its': EUTS
 'time': TAOEUPL
 'of': -F
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'its': EUTS
 'night': TPHAOEUT
 'drew': TKRAOU
-'nigh—winter': TPHAOEU EPL/TKA*RB WEURPBT
+'nigh—winter': TPHAOEU/EPL/TKA*RB/WEURPBT
 'was': WAS
-'coming.': KO*G TP-PL
+'coming.': KO*G/TP-PL
 'Already': KPA/HR-R
 'the': -T
 'storms': STORPLS
 'were': WR
-'singing,': SEUPBG/-G KW-BG
-'"Good-night,': KR-GS KPA/TKPWAOD H-PB TPHAOEUT KW-BG
-'good-night."': TKPWAOD H-PB TPHAOEUT TP-PL KR-GS
+'singing,': SEUPBG/-G/KW-BG
+'"Good-night,': KR-GS/KPA/TKPWAOD/H-PB/TPHAOEUT/KW-BG
+'good-night."': TKPWAOD/H-PB/TPHAOEUT/TP-PL/KR-GS
 'Here': KPA/HAOER
 'fell': TPEL
 'a': AEU
@@ -554,31 +554,31 @@ The Last Dream of the Old Oak
 'there': THR
 'fell': TPEL
 'a': AEU
-'leaf.': HRAOEF TP-PL
-'"We': KR-GS KPA/WE
+'leaf.': HRAOEF/TP-PL
+'"We': KR-GS/KPA/WE
 'will': HR
 'rock': ROBG
 'you': U
 'and': SKP
 'lull': HRUL
-'you.': U TP-PL
+'you.': U/TP-PL
 'Go': KPA/TKPW
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'go': TKPW
 'to': TO
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'We': KPA/WE
 'will': HR
 'sing': SEUPBG
 'you': U
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'and': SKP
 'shake': SHAEUBG
 'you': U
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'and': SKP
 'it': T
 'will': HR
@@ -586,24 +586,24 @@ The Last Dream of the Old Oak
 'your': KWROUR
 'old': OLD
 'twigs': TWEUG/-S
-'good;': TKPWAOD STPH*FPLT
+'good;': TKPWAOD/STPH*FPLT
 'they': THE
 'will': HR
 'even': AOEPB
 'crackle': KRABG/*L
 'with': W
-'pleasure.': PHRERB TP-PL
+'pleasure.': PHRERB/TP-PL
 'Sleep': KPA/SHRAOEP
-'sweetly,': SWAOET/HREU KW-BG
+'sweetly,': SWAOET/HREU/KW-BG
 'sleep': SHRAOEP
-'sweetly,': SWAOET/HREU KW-BG
+'sweetly,': SWAOET/HREU/KW-BG
 'it': T
 'is': S
 'your': KWROUR
-'three-hundred-and-sixty-fifth': THRAOE H-PB HUPBD H-PB SKP H-PB SEUBGT H-PB TP*EUT
-'night.': TPHAOEUT TP-PL
+'three-hundred-and-sixty-fifth': THRAOE/H-PB/HUPBD/H-PB/SKP/H-PB/SEUBGT/H-PB/TP*EUT
+'night.': TPHAOEUT/TP-PL
 'Correctly': KPA/KRELG
-'speaking,': SPAOEG KW-BG
+'speaking,': SPAOEG/KW-BG
 'you': U
 'are': R
 'but': PWUT
@@ -611,45 +611,45 @@ The Last Dream of the Old Oak
 'youngster': KWRUPBG/STER
 'in': TPH
 'the': -T
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'Sleep': KPA/SHRAOEP
-'sweetly,': SWAOET/HREU KW-BG
+'sweetly,': SWAOET/HREU/KW-BG
 'the': -T
 'clouds': KHROUDZ
 'will': HR
 'drop': TKROP
 'snow': STPHOE
 'upon': POPB
-'you,': U KW-BG
+'you,': U/KW-BG
 'which': WEU
 'will': HR
 'be': -B
 'quite': KWAOEUT
 'a': AEU
-'cover-lid,': KOFR H-PB HREUD KW-BG
+'cover-lid,': KOFR/H-PB/HREUD/KW-BG
 'warm': WARPL
 'and': SKP
 'sheltering': SHELT/ERG
 'to': TO
 'your': KWROUR
-'feet.': TPAOET TP-PL
+'feet.': TPAOET/TP-PL
 'Sweet': KPA/SWAOET
 'sleep': SHRAOEP
 'to': TO
-'you,': U KW-BG
+'you,': U/KW-BG
 'and': SKP
 'pleasant': PHREFPBT
-'dreams."': TKRAOEPLS TP-PL KR-GS
+'dreams."': TKRAOEPLS/TP-PL/KR-GS
 'And': AFPBD
 'there': THR
 'stood': STAOD
 'the': -T
-'oak,': OEBG KW-BG
+'oak,': OEBG/KW-BG
 'stripped': STREUPD
 'of': -F
 'all': AUL
 'its': EUTS
-'leaves,': HREFS KW-BG
+'leaves,': HREFS/KW-BG
 'left': HREFT
 'to': TO
 'rest': REFT
@@ -659,7 +659,7 @@ The Last Dream of the Old Oak
 'of': -F
 'a': AEU
 'long': HROPBG
-'winter,': WEURPBT KW-BG
+'winter,': WEURPBT/KW-BG
 'and': SKP
 'to': TO
 'dream': TKRAOEPL
@@ -672,21 +672,21 @@ The Last Dream of the Old Oak
 'happened': HAPD
 'in': TPH
 'its': EUTS
-'life,': HRAOEUF KW-BG
+'life,': HRAOEUF/KW-BG
 'as': AS
 'in': TPH
 'the': -T
 'dreams': TKRAOEPLS
 'of': -F
-'men.': PHEPB TP-PL
+'men.': PHEPB/TP-PL
 'The': KPA/-T
 'great': TKPWRAET
 'tree': TRAOE
 'had': H
 'once': WUPBS
 'been': PW-PB
-'small;': SPHAL STPH*FPLT
-'indeed,': TPHAOEPBD KW-BG
+'small;': SPHAL/STPH*FPLT
+'indeed,': TPHAOEPBD/KW-BG
 'in': TPH
 'its': EUTS
 'cradle': KRAEUD/*L
@@ -694,11 +694,11 @@ The Last Dream of the Old Oak
 'had': H
 'been': PW-PB
 'an': APB
-'acorn.': ABG/KORPB TP-PL
+'acorn.': ABG/KORPB/TP-PL
 'According': KPA/KORG
 'to': TO
 'human': HAOUPL
-'computation,': KOFRP/TAEUGS KW-BG
+'computation,': KOFRP/TAEUGS/KW-BG
 'it': T
 'was': WAS
 'now': TPHOU
@@ -708,7 +708,7 @@ The Last Dream of the Old Oak
 'century': KROEURPBT
 'of': -F
 'its': EUTS
-'existence.': KPEUFS TP-PL
+'existence.': KPEUFS/TP-PL
 'It': KPA/T
 'was': WAS
 'the': -T
@@ -718,7 +718,7 @@ The Last Dream of the Old Oak
 'tree': TRAOE
 'in': TPH
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'Its': KPA/EUTS
 'summit': SUPLT
 'towered': TOURD
@@ -726,7 +726,7 @@ The Last Dream of the Old Oak
 'all': AUL
 'the': -T
 'other': OER
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'and': SKP
 'could': KO
 'be': -B
@@ -734,7 +734,7 @@ The Last Dream of the Old Oak
 'far': TPAR
 'out': OUT
 'at': AT
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'so': SO
 'that': THA
 'it': T
@@ -744,7 +744,7 @@ The Last Dream of the Old Oak
 'landmark': HRAPBD/PHARBG
 'to': TO
 'the': -T
-'sailors.': SAEUL/ORS TP-PL
+'sailors.': SAEUL/ORS/TP-PL
 'It': KPA/T
 'had': H
 'no': TPHO
@@ -755,16 +755,16 @@ The Last Dream of the Old Oak
 'looked': HRAOBGD
 'eagerly': AOERLG
 'for': TPOR
-'it.': T TP-PL
+'it.': T/TP-PL
 'In': KPA/TPH
 'its': EUTS
 'topmost': TOP/PHO*ES
 'branches': PWRAFRPBS
 'the': -T
-'wood-pigeon': WAOD H-PB PEUGS
+'wood-pigeon': WAOD/H-PB/PEUGS
 'built': PWEULT
 'her': HER
-'nest,': TPHEFT KW-BG
+'nest,': TPHEFT/KW-BG
 'and': SKP
 'the': -T
 'cuckoo': KAO/KAO
@@ -773,7 +773,7 @@ The Last Dream of the Old Oak
 'his': HEUS
 'usual': AOURB
 'vocal': SROELG
-'performances,': PER/TPORPL/APBS/-S KW-BG
+'performances,': PER/TPORPL/APBS/-S/KW-BG
 'and': SKP
 'his': HEUS
 'well-known': WEL/TPHO*EPB
@@ -781,10 +781,10 @@ The Last Dream of the Old Oak
 'echoed': EBG/OE/-D
 'amid': A/PHEUD
 'the': -T
-'boughs;': PWO*U/-S STPH*FPLT
+'boughs;': PWO*U/-S/STPH*FPLT
 'and': SKP
 'in': TPH
-'autumn,': AU/UPL KW-BG
+'autumn,': AU/UPL/KW-BG
 'when': WHEPB
 'the': -T
 'leaves': HREFS
@@ -792,7 +792,7 @@ The Last Dream of the Old Oak
 'like': HRAOEUBG
 'beaten': PWAET/*EPB
 'copper': KOP/ER
-'plates,': PHRAEUTS KW-BG
+'plates,': PHRAEUTS/KW-BG
 'the': -T
 'birds': PWEURDZ
 'of': -F
@@ -810,16 +810,16 @@ The Last Dream of the Old Oak
 'flight': TPHRAOEUT
 'across': KRAOS
 'the': -T
-'sea.': SAE TP-PL
+'sea.': SAE/TP-PL
 'But': KPA/PWUT
 'now': TPHOU
 'it': T
 'was': WAS
-'winter,': WEURPBT KW-BG
+'winter,': WEURPBT/KW-BG
 'the': -T
 'tree': TRAOE
 'stood': STAOD
-'leafless,': HRAOEF/-LS KW-BG
+'leafless,': HRAOEF/-LS/KW-BG
 'so': SO
 'that': THA
 'every': EF
@@ -838,7 +838,7 @@ The Last Dream of the Old Oak
 'forth': TPO*RT
 'from': TPR
 'the': -T
-'trunk.': TRUPBG TP-PL
+'trunk.': TRUPBG/TP-PL
 'Crows': xxx Crows
 'and': SKP
 'rooks': RAOBGS
@@ -848,7 +848,7 @@ The Last Dream of the Old Oak
 'and': SKP
 'sat': SAT
 'on': OPB
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'talked': TAUBGD
 'of': -F
@@ -857,7 +857,7 @@ The Last Dream of the Old Oak
 'times': TAOEUPLS
 'which': WEU
 'were': WR
-'beginning,': TKPWEUPB/-G KW-BG
+'beginning,': TKPWEUPB/-G/KW-BG
 'and': SKP
 'how': HOU
 'difficult': TKEUFL
@@ -867,7 +867,7 @@ The Last Dream of the Old Oak
 'winter': WEURPBT
 'to': TO
 'obtain': OB/TAEUPB
-'food.': TPAOD TP-PL
+'food.': TPAOD/TP-PL
 'It': KPA/T
 'was': WAS
 'just': SKWRUFT
@@ -880,11 +880,11 @@ The Last Dream of the Old Oak
 'tree': TRAOE
 'dreamed': TKREPLD
 'a': AEU
-'dream.': TKRAOEPL TP-PL
+'dream.': TKRAOEPL/TP-PL
 'The': KPA/-T
 'tree': TRAOE
-'had,': H KW-BG
-'doubtless,': TKOUT/*LS KW-BG
+'had,': H/KW-BG
+'doubtless,': TKOUT/*LS/KW-BG
 'a': AEU
 'kind': KEUPBD
 'of': -F
@@ -894,7 +894,7 @@ The Last Dream of the Old Oak
 'festive': TPES/TEUF
 'time': TAOEUPL
 'had': H
-'arrived,': A/RAOEUFD KW-BG
+'arrived,': A/RAOEUFD/KW-BG
 'and': SKP
 'in': TPH
 'his': HEUS
@@ -909,7 +909,7 @@ The Last Dream of the Old Oak
 'all': AUL
 'the': -T
 'churches': KHUFRPBS
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'and': SKP
 'yet': KWRET
 'it': T
@@ -920,11 +920,11 @@ The Last Dream of the Old Oak
 'be': -B
 'a': AEU
 'beautiful': PWAOUFL
-'summer's': SAOURPL AES
-'day,': TKAEU KW-BG
+'summer's': SAOURPL/AES
+'day,': TKAEU/KW-BG
 'mild': PHAOEULD
 'and': SKP
-'warm.': WARPL TP-PL
+'warm.': WARPL/TP-PL
 'His': KPA/HEUS
 'mighty': PHAOEUT/KWREU
 'summits': SUPLT/-S
@@ -934,7 +934,7 @@ The Last Dream of the Old Oak
 'spreading': SPREGD
 'fresh': TPRERB
 'green': TKPWRAOEPB
-'foliage;': TPOEL/APBLG STPH*FPLT
+'foliage;': TPOEL/APBLG/STPH*FPLT
 'the': -T
 'sunbeams': SUPB/PWAOEPL/-S
 'played': PHRAEUD
@@ -942,7 +942,7 @@ The Last Dream of the Old Oak
 'the': -T
 'leaves': HREFS
 'and': SKP
-'branches,': PWRAFRPBS KW-BG
+'branches,': PWRAFRPBS/KW-BG
 'and': SKP
 'the': -T
 'air': AEUR
@@ -953,18 +953,18 @@ The Last Dream of the Old Oak
 'from': TPR
 'herb': ERB
 'and': SKP
-'blossom;': PWHROFPL STPH*FPLT
+'blossom;': PWHROFPL/STPH*FPLT
 'painted': PAEUPBTD
 'butterflies': PW*URT/TPHRAOEU/-S
 'chased': KHAEUS/-D
 'each': AOEFP
-'other;': OER STPH*FPLT
+'other;': OER/STPH*FPLT
 'the': -T
 'summer': SAOURPL
 'flies': TPHRAOEUS
 'danced': TKAPBS/-D
 'around': ARPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'as': AS
 'if': TP
 'the': -T
@@ -980,7 +980,7 @@ The Last Dream of the Old Oak
 'and': SKP
 'be': -B
 'merry': PHER/REU
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'All': KPA/AUL
 'that': THA
 'had': H
@@ -998,12 +998,12 @@ The Last Dream of the Old Oak
 'to': TO
 'pass': PAS
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'as': AS
 'in': TPH
 'a': AEU
 'festive': TPES/TEUF
-'procession.': PRO/SEGS TP-PL
+'procession.': PRO/SEGS/TP-PL
 'He': KPA/HE
 'saw': SAU
 'the': -T
@@ -1022,51 +1022,51 @@ The Last Dream of the Old Oak
 'on': OPB
 'their': THAEUR
 'gallant': TKPWAL/HRAPBT
-'steeds,': STAOEDZ KW-BG
+'steeds,': STAOEDZ/KW-BG
 'with': W
 'plumes': PHRAOUPL/-S
 'waving': WAFG
 'in': TPH
 'their': THAEUR
-'hats,': HATS KW-BG
+'hats,': HATS/KW-BG
 'and': SKP
 'falcons': TPAL/KOPB/-S
 'on': OPB
 'their': THAEUR
-'wrists.': WREUFTS TP-PL
+'wrists.': WREUFTS/TP-PL
 'The': KPA/-T
 'hunting': HUPBT/-G
 'horn': HORPB
-'sounded,': SOUPBD/-D KW-BG
+'sounded,': SOUPBD/-D/KW-BG
 'and': SKP
 'the': -T
 'dogs': TKOGS
-'barked.': PWARBGD TP-PL
+'barked.': PWARBGD/TP-PL
 'He': KPA/HE
 'saw': SAU
 'hostile': HOFT/*L
-'warriors,': WAR/KWRORS KW-BG
+'warriors,': WAR/KWRORS/KW-BG
 'in': TPH
 'colored': KHRORD
 'dresses': TKRES/-S
 'and': SKP
 'glittering': TKPWHREUT/ERG
-'armor,': AR/PHOR KW-BG
+'armor,': AR/PHOR/KW-BG
 'with': W
 'spear': SPAOER
 'and': SKP
-'halberd,': xxx halberd KW-BG
+'halberd,': xxx halberd/KW-BG
 'pitching': PEUFPG
 'their': THAEUR
-'tents,': TEPBT/-S KW-BG
+'tents,': TEPBT/-S/KW-BG
 'and': SKP
 'anon': A/TPHOPB
 'striking': STRAOEUG
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'The': KPA/-T
 'watchfires': xxx watchfires
 'again': TKPWEPB
-'blazed,': PWHRAEUZ/-D KW-BG
+'blazed,': PWHRAEUZ/-D/KW-BG
 'and': SKP
 'men': PHEPB
 'sang': SAPBG
@@ -1078,7 +1078,7 @@ The Last Dream of the Old Oak
 'shelter': SHELT
 'of': -F
 'the': -T
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'He': KPA/HE
 'saw': SAU
 'lovers': HRUFRS
@@ -1090,7 +1090,7 @@ The Last Dream of the Old Oak
 'him': HEUPL
 'in': TPH
 'the': -T
-'moonshine,': PHAOPB/SHAO*EUPB KW-BG
+'moonshine,': PHAOPB/SHAO*EUPB/KW-BG
 'and': SKP
 'carve': KAFRB
 'the': -T
@@ -1100,19 +1100,19 @@ The Last Dream of the Old Oak
 'names': TPHAEUPLS
 'in': TPH
 'the': -T
-'grayish-green': TKPWRAEU/EURB H-PB TKPWRAOEPB
+'grayish-green': TKPWRAEU/EURB/H-PB/TKPWRAOEPB
 'bark': PWARBG
 'on': OPB
 'his': HEUS
-'trunk.': TRUPBG TP-PL
-'Once,': KPA/WUPBS KW-BG
+'trunk.': TRUPBG/TP-PL
+'Once,': KPA/WUPBS/KW-BG
 'but': PWUT
 'long': HROPBG
 'years': KWRAOERS
 'had': H
 'intervened': EUPBT/SRAOEPBD
 'since': SEUPBS
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'guitars': TKPWEU/TAR/-S
 'and': SKP
 'Eolian': xxx Eolian
@@ -1125,23 +1125,23 @@ The Last Dream of the Old Oak
 'boughs': PWO*U/-S
 'by': PWEU
 'merry': PHER/REU
-'travellers;': TRA*FL/ERS/A*U STPH*FPLT
+'travellers;': TRA*FL/ERS/A*U/STPH*FPLT
 'now': TPHOU
 'they': THE
 'seemed': SAOEPLD
 'to': TO
 'hang': HAPBG
 'there': THR
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'he': HE
 'could': KO
 'hear': HAER
 'their': THAEUR
 'marvellous': PHAFLS/A*U
-'tones.': TOEPBS TP-PL
+'tones.': TOEPBS/TP-PL
 'The': KPA/-T
-'wood-pigeons': WAOD H-PB PEUPBLG/-PBS
+'wood-pigeons': WAOD/H-PB/PEUPBLG/-PBS
 'cooed': KAO*/-D
 'as': AS
 'if': TP
@@ -1151,7 +1151,7 @@ The Last Dream of the Old Oak
 'feelings': TPAOELGS
 'of': -F
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'the': -T
 'cuckoo': KAO/KAO
@@ -1168,7 +1168,7 @@ The Last Dream of the Old Oak
 'had': H
 'yet': KWRET
 'to': TO
-'live.': HREUF TP-PL
+'live.': HREUF/TP-PL
 'Then': KPA/THEPB
 'it': T
 'seemed': SAOEPLD
@@ -1186,13 +1186,13 @@ The Last Dream of the Old Oak
 'and': SKP
 'stem': STEPL
 'and': SKP
-'leaf,': HRAOEF KW-BG
+'leaf,': HRAOEF/KW-BG
 'rising': RAOEUFG
 'even': AOEPB
 'to': TO
 'the': -T
 'highest': HAOEU/EFT
-'branches.': PWRAFRPBS TP-PL
+'branches.': PWRAFRPBS/TP-PL
 'The': KPA/-T
 'tree': TRAOE
 'felt': TPELT
@@ -1200,7 +1200,7 @@ The Last Dream of the Old Oak
 'stretching': STREFPG
 'and': SKP
 'spreading': SPREGD
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'while': WHAOEUL
 'through': THRU
 'the': -T
@@ -1213,35 +1213,35 @@ The Last Dream of the Old Oak
 'warm': WARPL
 'vigor': SREUG/O*R
 'of': -F
-'life.': HRAOEUF TP-PL
+'life.': HRAOEUF/TP-PL
 'As': KPA/AS
 'he': HE
 'grew': TKPWRAOU
 'higher': HAOEUR
 'and': SKP
 'still': STEUL
-'higher,': HAOEUR KW-BG
+'higher,': HAOEUR/KW-BG
 'with': W
 'increased': EUPB/KRAOEFD
-'strength,': STREPBG KW-BG
+'strength,': STREPBG/KW-BG
 'his': HEUS
 'topmost': TOP/PHO*ES
 'boughs': PWO*U/-S
 'became': PWAEUPL
 'broader': PWRAORD
 'and': SKP
-'fuller;': TPUL/*ER STPH*FPLT
+'fuller;': TPUL/*ER/STPH*FPLT
 'and': SKP
 'in': TPH
 'proportion': PORPGS
 'to': TO
 'his': HEUS
-'growth,': TKPWRO*ET KW-BG
+'growth,': TKPWRO*ET/KW-BG
 'so': SO
 'was': WAS
 'his': HEUS
 'self-satisfaction': SEF/SAEBGS
-'increased,': EUPB/KRAOEFD KW-BG
+'increased,': EUPB/KRAOEFD/KW-BG
 'and': SKP
 'with': W
 'it': T
@@ -1253,16 +1253,16 @@ The Last Dream of the Old Oak
 'grow': TKPWROE
 'higher': HAOEUR
 'and': SKP
-'higher,': HAOEUR KW-BG
+'higher,': HAOEUR/KW-BG
 'to': TO
 'reach': RAOEFP
 'even': AOEPB
 'to': TO
 'the': -T
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'bright': PWRAOEUT
 'sun': SUPB
-'itself.': T/SEFL TP-PL
+'itself.': T/SEFL/TP-PL
 'Already': KPA/HR-R
 'had': H
 'his': HEUS
@@ -1270,7 +1270,7 @@ The Last Dream of the Old Oak
 'branches': PWRAFRPBS
 'pierced': PAOERS/-D
 'the': -T
-'clouds,': KHROUDZ KW-BG
+'clouds,': KHROUDZ/KW-BG
 'which': WEU
 'floated': TPHROET/-D
 'beneath': TPHAO*ET
@@ -1280,39 +1280,39 @@ The Last Dream of the Old Oak
 'of': -F
 'birds': PWEURDZ
 'of': -F
-'passage,': PAFPBLG KW-BG
+'passage,': PAFPBLG/KW-BG
 'or': OR
 'large': HRARPBLG
 'white': WHAOEUT
-'swans;': SWAPBS STPH*FPLT
+'swans;': SWAPBS/STPH*FPLT
 'every': EF
 'leaf': HRAOEF
 'seemed': SAOEPLD
 'gifted': TKPWEUFT/-D
 'with': W
-'sight,': SAOEUT KW-BG
+'sight,': SAOEUT/KW-BG
 'as': AS
 'if': TP
 'it': T
 'possessed': POS/ES/-D
 'eyes': AO*EUS
 'to': TO
-'see.': SAOE TP-PL
+'see.': SAOE/TP-PL
 'The': KPA/-T
 'stars': STARS
 'became': PWAEUPL
 'visible': SREUBL
 'in': TPH
 'broad': PWRAOD
-'daylight,': TKAEULT KW-BG
+'daylight,': TKAEULT/KW-BG
 'large': HRARPBLG
 'and': SKP
-'sparkling,': SPAR/K-LG KW-BG
+'sparkling,': SPAR/K-LG/KW-BG
 'like': HRAOEUBG
 'clear': KHRAOER
 'and': SKP
 'gentle': SKWR*EPBLT
-'eyes.': AO*EUS TP-PL
+'eyes.': AO*EUS/TP-PL
 'They': KPA/THE
 'recalled': -RLD
 'to': TO
@@ -1326,7 +1326,7 @@ The Last Dream of the Old Oak
 'eyes': AO*EUS
 'of': -F
 'a': AEU
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'or': OR
 'in': TPH
 'the': -T
@@ -1343,7 +1343,7 @@ The Last Dream of the Old Oak
 'of': -F
 'the': -T
 'old': OLD
-'oak.': OEBG TP-PL
+'oak.': OEBG/TP-PL
 'These': KPA/THEZ
 'were': WR
 'wonderful': WUFL
@@ -1353,60 +1353,60 @@ The Last Dream of the Old Oak
 'for': TPOR
 'the': -T
 'old': OLD
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'full': TPUL
 'of': -F
 'peace': PAES
 'and': SKP
-'joy;': SKWROEU STPH*FPLT
+'joy;': SKWROEU/STPH*FPLT
 'and': SKP
-'yet,': KWRET KW-BG
+'yet,': KWRET/KW-BG
 'amidst': A/PH*EUFD
 'all': AUL
 'this': TH
-'happiness,': HAEP/-PBS KW-BG
+'happiness,': HAEP/-PBS/KW-BG
 'the': -T
 'tree': TRAOE
 'felt': TPELT
 'a': AEU
-'yearning,': KWRERPBG KW-BG
+'yearning,': KWRERPBG/KW-BG
 'longing': HROPBG/-G
 'desire': STKAOEUR
 'that': THA
 'all': AUL
 'the': -T
 'other': OER
-'trees,': TRAOES KW-BG
-'bushes,': PWURBS KW-BG
-'herbs,': HERBS KW-BG
+'trees,': TRAOES/KW-BG
+'bushes,': PWURBS/KW-BG
+'herbs,': HERBS/KW-BG
 'and': SKP
 'flowers': TPHRO*URS
 'beneath': TPHAO*ET
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'might': PHAOEUT
 'be': -B
 'able': ABL
 'also': HR-S
 'to': TO
 'rise': RAOEUZ
-'higher,': HAOEUR KW-BG
+'higher,': HAOEUR/KW-BG
 'as': AS
 'he': HE
 'had': H
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'to': TO
 'see': SAOE
 'all': AUL
 'this': TH
-'splendor,': SPHREPBD/O*R KW-BG
+'splendor,': SPHREPBD/O*R/KW-BG
 'and': SKP
 'experience': SPAOERPBS
 'the': -T
 'same': SAEUPL
-'happiness.': HAEP/-PBS TP-PL
+'happiness.': HAEP/-PBS/TP-PL
 'The': KPA/-T
-'grand,': TKPWRAPBD KW-BG
+'grand,': TKPWRAPBD/KW-BG
 'majestic': PHA/SKWREFT/EUBG
 'oak': OEBG
 'could': KO
@@ -1419,19 +1419,19 @@ The Last Dream of the Old Oak
 'midst': PHEUDZ
 'of': -F
 'his': HEUS
-'enjoyment,': SKWROEUPLT KW-BG
+'enjoyment,': SKWROEUPLT/KW-BG
 'while': WHAOEUL
 'all': AUL
 'the': -T
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'both': PWO*T
 'great': TKPWRAET
 'and': SKP
-'small,': SPHAL KW-BG
+'small,': SPHAL/KW-BG
 'were': WR
 'not': TPHOT
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'And': AFPBD
 'this': TH
 'feeling': TPAOELG
@@ -1440,10 +1440,10 @@ The Last Dream of the Old Oak
 'trembled': TREPL/-BLD
 'through': THRU
 'every': EF
-'branch,': PWRAFRPB KW-BG
+'branch,': PWRAFRPB/KW-BG
 'through': THRU
 'every': EF
-'leaf,': HRAOEF KW-BG
+'leaf,': HRAOEF/KW-BG
 'as': AS
 'warmly': WARPL/HREU
 'and': SKP
@@ -1458,7 +1458,7 @@ The Last Dream of the Old Oak
 'of': -F
 'a': AEU
 'human': HAOUPL
-'heart.': HART TP-PL
+'heart.': HART/TP-PL
 'The': KPA/-T
 'summit': SUPLT
 'of': -F
@@ -1467,7 +1467,7 @@ The Last Dream of the Old Oak
 'waved': WAFD
 'to': TO
 'and': SKP
-'fro,': TPRO KW-BG
+'fro,': TPRO/KW-BG
 'and': SKP
 'bent': PWEPBT
 'downwards': TKOUPB/WARDZ
@@ -1480,7 +1480,7 @@ The Last Dream of the Old Oak
 'he': HE
 'sought': SAUT
 'for': TPOR
-'something.': S-G TP-PL
+'something.': S-G/TP-PL
 'Then': KPA/THEPB
 'there': THR
 'came': KAEUPL
@@ -1489,7 +1489,7 @@ The Last Dream of the Old Oak
 'the': -T
 'fragrance': TPRAEUG/RAPBS
 'of': -F
-'thyme,': THAOEUPL KW-BG
+'thyme,': THAOEUPL/KW-BG
 'followed': TPOLD
 'by': PWEU
 'the': -T
@@ -1499,7 +1499,7 @@ The Last Dream of the Old Oak
 'of': -F
 'honeysuckle': HOPB/KWREU/SUBG/*L
 'and': SKP
-'violets;': SROEULT/-S STPH*FPLT
+'violets;': SROEULT/-S/STPH*FPLT
 'and': SKP
 'he': HE
 'fancied': TPAPB/SEU/-D
@@ -1509,13 +1509,13 @@ The Last Dream of the Old Oak
 'note': TPHOET
 'of': -F
 'the': -T
-'cuckoo.': KAO/KAO TP-PL
+'cuckoo.': KAO/KAO/TP-PL
 'At': KPA/AT
 'length': HREPBG
 'his': HEUS
 'longing': HROPBG/-G
 'was': WAS
-'satisfied.': SAED TP-PL
+'satisfied.': SAED/TP-PL
 'Up': KPA/UP
 'through': THRU
 'the': -T
@@ -1527,25 +1527,25 @@ The Last Dream of the Old Oak
 'of': -F
 'the': -T
 'forest': TPOEFRT
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'and': SKP
 'beneath': TPHAO*ET
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'the': -T
 'oak': OEBG
 'saw': SAU
 'them': THEPL
-'rising,': RAOEUFG KW-BG
+'rising,': RAOEUFG/KW-BG
 'and': SKP
 'growing': TKPWROEG
 'higher': HAOEUR
 'and': SKP
-'higher.': HAOEUR TP-PL
+'higher.': HAOEUR/TP-PL
 'Bush': PW*URB
 'and': SKP
 'herb': ERB
 'shot': SHOT
-'upward,': AUP/WARD KW-BG
+'upward,': AUP/WARD/KW-BG
 'and': SKP
 'some': SOPL
 'even': AOEPB
@@ -1558,14 +1558,14 @@ The Last Dream of the Old Oak
 'to': TO
 'rise': RAOEUZ
 'more': PHOR
-'quickly.': KWEULG TP-PL
+'quickly.': KWEULG/TP-PL
 'The': KPA/-T
-'birch-tree': PWEUFRPB H-PB TRAOE
+'birch-tree': PWEUFRPB/H-PB/TRAOE
 'was': WAS
 'the': -T
 'quickest': KWEUBG/EFT
 'of': -F
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'Like': KPA/HRAOEUBG
 'a': AEU
 'lightning': HRAOEUT/TPHEUPBG
@@ -1578,7 +1578,7 @@ The Last Dream of the Old Oak
 'in': TPH
 'a': AEU
 'zigzag': S*EUG/SA*G
-'line,': HRAOEUPB KW-BG
+'line,': HRAOEUPB/KW-BG
 'the': -T
 'branches': PWRAFRPBS
 'spreading': SPREGD
@@ -1588,23 +1588,23 @@ The Last Dream of the Old Oak
 'green': TKPWRAOEPB
 'gauze': TKPWAUZ
 'and': SKP
-'banners.': PWAPB/ERS TP-PL
+'banners.': PWAPB/ERS/TP-PL
 'Every': KPA/EF
 'native': TPHAEUFT
 'of': -F
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'even': AOEPB
 'to': TO
 'the': -T
 'brown': PWROUPB
 'and': SKP
 'feathery': TP*ET/KWREU
-'rushes,': RURBS KW-BG
+'rushes,': RURBS/KW-BG
 'grew': TKPWRAOU
 'with': W
 'the': -T
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'while': WHAOEUL
 'the': -T
 'birds': PWEURDZ
@@ -1613,12 +1613,12 @@ The Last Dream of the Old Oak
 'the': -T
 'melody': PHEL/TKEU
 'of': -F
-'song.': SOPBG TP-PL
+'song.': SOPBG/TP-PL
 'On': KPA/OPB
 'a': AEU
 'blade': PWHRAEUD
 'of': -F
-'grass,': TKPWRAS KW-BG
+'grass,': TKPWRAS/KW-BG
 'that': THA
 'fluttered': TPHRUT/ERD
 'in': TPH
@@ -1626,32 +1626,32 @@ The Last Dream of the Old Oak
 'air': AEUR
 'like': HRAOEUBG
 'a': AEU
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'green': TKPWRAOEPB
-'ribbon,': REUB/O*PB KW-BG
+'ribbon,': REUB/O*PB/KW-BG
 'sat': SAT
 'a': AEU
-'grasshopper,': TKPWHR*FRPBLG KW-BG
+'grasshopper,': TKPWHR*FRPBLG/KW-BG
 'cleaning': KHRAOEPBG
 'his': HEUS
 'wings': WEUPBGS
 'with': W
 'his': HEUS
-'legs.': HREGS TP-PL
+'legs.': HREGS/TP-PL
 'May': PHA*EU
 'beetles': PWAOET/-LS
-'hummed,': HUPL/-D KW-BG
+'hummed,': HUPL/-D/KW-BG
 'the': -T
 'bees': PWAOES
-'murmured,': PHUR/PHUR/-D KW-BG
+'murmured,': PHUR/PHUR/-D/KW-BG
 'the': -T
 'birds': PWEURDZ
-'sang,': SAPBG KW-BG
+'sang,': SAPBG/KW-BG
 'each': AOEFP
 'in': TPH
 'his': HEUS
 'own': OEPB
-'way;': WAEU STPH*FPLT
+'way;': WAEU/STPH*FPLT
 'the': -T
 'air': AEUR
 'was': WAS
@@ -1662,8 +1662,8 @@ The Last Dream of the Old Oak
 'of': -F
 'song': SOPBG
 'and': SKP
-'gladness.': TKPWHRAD/-PBS TP-PL
-'"But': KR-GS KPA/PWUT
+'gladness.': TKPWHRAD/-PBS/TP-PL
+'"But': KR-GS/KPA/PWUT
 'where': W-R
 'is': S
 'the': -T
@@ -1674,17 +1674,17 @@ The Last Dream of the Old Oak
 'grows': TKPWRO*ES
 'by': PWEU
 'the': -T
-'water?"': WAUR H-F KR-GS
+'water?"': WAUR/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'oak,': OEBG KW-BG
-'"and': KR-GS SKP
+'oak,': OEBG/KW-BG
+'"and': KR-GS/SKP
 'the': -T
 'purple': PURPL
-'bell-flower,': PWEL H-PB TPHRO*UR KW-BG
+'bell-flower,': PWEL/H-PB/TPHRO*UR/KW-BG
 'and': SKP
 'the': -T
-'daisy?"': TKAEU/SEU H-F KR-GS
+'daisy?"': TKAEU/SEU/H-F/KR-GS
 'You': KPA/U
 'see': SAOE
 'the': -T
@@ -1695,31 +1695,31 @@ The Last Dream of the Old Oak
 'them': THEPL
 'all': AUL
 'with': W
-'him.': HEUPL TP-PL
-'"Here': KR-GS KPA/HAOER
+'him.': HEUPL/TP-PL
+'"Here': KR-GS/KPA/HAOER
 'we': WE
-'are,': R KW-BG
+'are,': R/KW-BG
 'we': WE
 'are': R
-'here,"': HAOER KW-BG KR-GS
+'here,"': HAOER/KW-BG/KR-GS
 'sounded': SOUPBD/-D
 'in': TPH
 'voice': SROEUS
 'and': SKP
-'song.': SOPBG TP-PL
-'"But': KR-GS KPA/PWUT
+'song.': SOPBG/TP-PL
+'"But': KR-GS/KPA/PWUT
 'the': -T
 'beautiful': PWAOUFL
 'thyme': THAOEUPL
 'of': -F
 'last': HRAFT
-'summer,': SAOURPL KW-BG
+'summer,': SAOURPL/KW-BG
 'where': W-R
 'is': S
-'that?': THA H-F
+'that?': THA/H-F
 'and': SKP
 'the': -T
-'lilies-of-the-valley,': HREUL/KWREU/-S H-PB -F H-PB -T H-PB SRAL/KWREU KW-BG
+'lilies-of-the-valley,': HREUL/KWREU/-S/H-PB/-F/H-PB/-T/H-PB/SRAL/KWREU/KW-BG
 'which': WEU
 'last': HRAFT
 'year': KWRAOER
@@ -1728,28 +1728,28 @@ The Last Dream of the Old Oak
 'earth': *ERT
 'with': W
 'their': THAEUR
-'bloom?': PWHRAOPL H-F
+'bloom?': PWHRAOPL/H-F
 'and': SKP
 'the': -T
 'wild': WAOEULD
-'apple-tree': A*EPL H-PB TRAOE
+'apple-tree': A*EPL/H-PB/TRAOE
 'with': W
 'its': EUTS
 'lovely': HROFL
-'blossoms,': PWHROS/SOPL/-S KW-BG
+'blossoms,': PWHROS/SOPL/-S/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
 'glory': TKPWHROER
 'of': -F
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'which': WEU
 'has': HAS
 'flourished': TPHROR/EURB/-D
 'year': KWRAOER
 'after': AF
-'year?': KWRAOER H-F
+'year?': KWRAOER/H-F
 'even': AOEPB
 'what': WHA
 'may': PHAE
@@ -1762,96 +1762,96 @@ The Last Dream of the Old Oak
 'be': -B
 'with': W
 'us': US
-'here."': HAOER TP-PL KR-GS
-'"We': KR-GS KPA/WE
+'here."': HAOER/TP-PL/KR-GS
+'"We': KR-GS/KPA/WE
 'are': R
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'we': WE
 'are': R
-'here,"': HAOER KW-BG KR-GS
+'here,"': HAOER/KW-BG/KR-GS
 'sounded': SOUPBD/-D
 'voices': SROEUFS
 'higher': HAOEUR
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'as': AS
 'if': TP
 'they': THE
 'had': H
 'flown': TPHROEPB
 'there': THR
-'beforehand.': PW-FRPBD TP-PL
-'"Why': KR-GS KPA/KWR
+'beforehand.': PW-FRPBD/TP-PL
+'"Why': KR-GS/KPA/KWR
 'this': TH
 'is': S
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'too': TAO
 'beautiful': PWAOUFL
 'to': TO
 'be': -B
-'believed,"': PWHREFD KW-BG KR-GS
+'believed,"': PWHREFD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'oak': OEBG
 'in': TPH
 'a': AEU
 'joyful': SKWROEUFL
-'tone.': TOEPB TP-PL
-'"I': KR-GS EU
+'tone.': TOEPB/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'them': THEPL
 'all': AUL
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'both': PWO*T
 'great': TKPWRAET
 'and': SKP
-'small;': SPHAL STPH*FPLT
+'small;': SPHAL/STPH*FPLT
 'not': TPHOT
 'one': WUPB
 'has': HAS
 'been': PW-PB
-'forgotten.': TPAURGTD TP-PL
+'forgotten.': TPAURGTD/TP-PL
 'Can': KPA/K
 'such': SUFP
 'happiness': HAEP/-PBS
 'be': -B
-'imagined?"': PHAPBLGD H-F KR-GS
+'imagined?"': PHAPBLGD/H-F/KR-GS
 'It': KPA/T
 'seemed': SAOEPLD
 'almost': HR-PL
-'impossible.': EUPL/POB TP-PL
-'"In': KR-GS KPA/TPH
+'impossible.': EUPL/POB/TP-PL
+'"In': KR-GS/KPA/TPH
 'heaven': HEFPB
 'with': W
 'the': -T
 'Eternal': KPA/AOE/TERPBL
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'it': T
 'can': K
 'be': -B
-'imagined,': PHAPBLGD KW-BG
+'imagined,': PHAPBLGD/KW-BG
 'and': SKP
 'it': T
 'is': S
-'possible,"': POB KW-BG KR-GS
+'possible,"': POB/KW-BG/KR-GS
 'sounded': SOUPBD/-D
 'the': -T
 'reply': RE/PHRAOEU
 'through': THRU
 'the': -T
-'air.': AEUR TP-PL
+'air.': AEUR/TP-PL
 'And': AFPBD
 'the': -T
 'old': OLD
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'as': AS
 'it': T
 'still': STEUL
 'grew': TKPWRAOU
 'upwards': UP/WARDZ
 'and': SKP
-'onwards,': OPB/WARDZ KW-BG
+'onwards,': OPB/WARDZ/KW-BG
 'felt': TPELT
 'that': THA
 'his': HEUS
@@ -1861,22 +1861,22 @@ The Last Dream of the Old Oak
 'themselves': TH*EPLS
 'from': TPR
 'the': -T
-'earth.': *ERT TP-PL
-'"It': KR-GS KPA/T
+'earth.': *ERT/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'right': RAOEUT
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'it': T
 'is': S
-'best,"': PWEFT KW-BG KR-GS
+'best,"': PWEFT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'tree,': TRAOE KW-BG
-'"no': KR-GS TPHO
+'tree,': TRAOE/KW-BG
+'"no': KR-GS/TPHO
 'fetters': TPET/ERS
 'hold': HOLD
 'me': PHE
-'now.': TPHOU TP-PL
+'now.': TPHOU/TP-PL
 'I': EU
 'can': K
 'fly': TPHRAOEU
@@ -1889,21 +1889,21 @@ The Last Dream of the Old Oak
 'in': TPH
 'light': HRAOEUT
 'and': SKP
-'glory.': TKPWHROER TP-PL
+'glory.': TKPWHROER/TP-PL
 'And': AFPBD
 'all': AUL
 'I': EU
 'love': HRUF
 'are': R
 'with': W
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'both': PWO*T
 'small': SPHAL
 'and': SKP
-'great.': TKPWRAET TP-PL
-'All—all': KPA/AUL EPL/TKA*RB AUL
+'great.': TKPWRAET/TP-PL
+'All—all': KPA/AUL/EPL/TKA*RB/AUL
 'are': R
-'here."': HAOER TP-PL KR-GS
+'here."': HAOER/TP-PL/KR-GS
 'Such': KPA/SUFP
 'was': WAS
 'the': -T
@@ -1911,11 +1911,11 @@ The Last Dream of the Old Oak
 'of': -F
 'the': -T
 'old': OLD
-'oak:': OEBG STPH-FPLT
+'oak:': OEBG/STPH-FPLT
 'and': SKP
 'while': WHAOEUL
 'he': HE
-'dreamed,': TKREPLD KW-BG
+'dreamed,': TKREPLD/KW-BG
 'a': AEU
 'mighty': PHAOEUT/KWREU
 'storm': STORPL
@@ -1924,12 +1924,12 @@ The Last Dream of the Old Oak
 'over': OEFR
 'land': HRAPBD
 'and': SKP
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'at': AT
 'the': -T
 'holy': HOEUL
 'Christmas': KREUS/PHAS
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'The': KPA/-T
 'sea': SAE
 'rolled': ROLD
@@ -1938,7 +1938,7 @@ The Last Dream of the Old Oak
 'billows': PWEUL/HROE/-S
 'towards': TORDZ
 'the': -T
-'shore.': SHOR TP-PL
+'shore.': SHOR/TP-PL
 'There': KPA/THR
 'was': WAS
 'a': AEU
@@ -1948,7 +1948,7 @@ The Last Dream of the Old Oak
 'heard': HAERD
 'in': TPH
 'the': -T
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'The': KPA/-T
 'root': RAOT
 'was': WAS
@@ -1972,9 +1972,9 @@ The Last Dream of the Old Oak
 'loosened': HRAOS/-PBD
 'from': TPR
 'the': -T
-'earth.': *ERT TP-PL
+'earth.': *ERT/TP-PL
 'He': KPA/HE
-'fell—his': TPEL EPL/TKA*RB HEUS
+'fell—his': TPEL/EPL/TKA*RB/HEUS
 'three': THRAOE
 'hundred': HUPBD
 'and': SKP
@@ -1988,20 +1988,20 @@ The Last Dream of the Old Oak
 'day': TKAEU
 'of': -F
 'the': -T
-'Ephemera.': KPA/AOE/TPEPL/RA TP-PL
+'Ephemera.': KPA/AOE/TPEPL/RA/TP-PL
 'On': KPA/OPB
 'the': -T
 'morning': PHORPBG
 'of': -F
-'Christmas-day,': KREUS/PHAS H-PB TKAEU KW-BG
+'Christmas-day,': KREUS/PHAS/H-PB/TKAEU/KW-BG
 'when': WHEPB
 'the': -T
 'sun': SUPB
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'the': -T
 'storm': STORPL
 'had': H
-'ceased.': SAOES/-D TP-PL
+'ceased.': SAOES/-D/TP-PL
 'From': KPA/TPR
 'all': AUL
 'the': -T
@@ -2009,39 +2009,39 @@ The Last Dream of the Old Oak
 'sounded': SOUPBD/-D
 'the': -T
 'festive': TPES/TEUF
-'bells,': PWELS KW-BG
+'bells,': PWELS/KW-BG
 'and': SKP
 'from': TPR
 'every': EF
-'hearth,': HAERT KW-BG
+'hearth,': HAERT/KW-BG
 'even': AOEPB
 'of': -F
 'the': -T
 'smallest': SPHAUL/EFT
-'hut,': HUT KW-BG
+'hut,': HUT/KW-BG
 'rose': ROEZ
 'the': -T
 'smoke': SPHOEBG
 'into': TPHAO
 'the': -T
 'blue': PWHRU
-'sky,': SKAOEU KW-BG
+'sky,': SKAOEU/KW-BG
 'like': HRAOEUBG
 'the': -T
 'smoke': SPHOEBG
 'from': TPR
 'the': -T
 'festive': TPES/TEUF
-'thank-offerings': THAPBG H-PB OFRGS
+'thank-offerings': THAPBG/H-PB/OFRGS
 'on': OPB
 'the': -T
-'Druids'': TKRAOU/EUD/-S AE
-'altars.': AL/TAR/-S TP-PL
+'Druids'': TKRAOU/EUD/-S/AE
+'altars.': AL/TAR/-S/TP-PL
 'The': KPA/-T
 'sea': SAE
 'gradually': TKPWRAD/WAEL
 'became': PWAEUPL
-'calm,': KAUPL KW-BG
+'calm,': KAUPL/KW-BG
 'and': SKP
 'on': OPB
 'board': PWAORD
@@ -2055,34 +2055,34 @@ The Last Dream of the Old Oak
 'tempest': TEPL/PEFT
 'during': TKURG
 'the': -T
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'all': AUL
 'the': -T
 'flags': TPHRAGS
 'were': WR
-'displayed,': TKEUS/PHRAEUD KW-BG
+'displayed,': TKEUS/PHRAEUD/KW-BG
 'as': AS
 'a': AEU
 'token': TO*EPB
 'of': -F
 'joy': SKWROEU
 'and': SKP
-'festivity.': TPEFT/EUFT TP-PL
-'"The': KR-GS KPA/-T
+'festivity.': TPEFT/EUFT/TP-PL
+'"The': KR-GS/KPA/-T
 'tree': TRAOE
 'is': S
-'down!': TKOUPB SKHRAPL
+'down!': TKOUPB/SKHRAPL
 'The': KPA/-T
 'old': OLD
-'oak,—our': OEBG KW-BG EPL/TKA*RB OUR
+'oak,—our': OEBG/KW-BG/EPL/TKA*RB/OUR
 'landmark': HRAPBD/PHARBG
 'on': OPB
 'the': -T
-'coast!"': KOEFT SKHRAPL KR-GS
+'coast!"': KOEFT/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
-'sailors.': SAEUL/ORS TP-PL
-'"It': KR-GS KPA/T
+'sailors.': SAEUL/ORS/TP-PL
+'"It': KR-GS/KPA/T
 'must': PHUFT
 'have': SR
 'fallen': TPAUL/-PB
@@ -2091,14 +2091,14 @@ The Last Dream of the Old Oak
 'storm': STORPL
 'of': -F
 'last': HRAFT
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'Who': KPA/WHO
 'can': K
 'replace': RE/PHRAEUS
-'it?': T H-F
-'Alas!': KPA/A/HRAS SKHRAPL
+'it?': T/H-F
+'Alas!': KPA/A/HRAS/SKHRAPL
 'no': TPHO
-'one."': WUPB TP-PL KR-GS
+'one."': WUPB/TP-PL/KR-GS
 'This': KPA/TH
 'was': WAS
 'a': AEU
@@ -2107,18 +2107,18 @@ The Last Dream of the Old Oak
 'over': OEFR
 'the': -T
 'old': OLD
-'tree;': TRAOE STPH*FPLT
-'short,': SHORT KW-BG
+'tree;': TRAOE/STPH*FPLT
+'short,': SHORT/KW-BG
 'but': PWUT
-'well-meant.': WEL H-PB PHEPBT TP-PL
+'well-meant.': WEL/H-PB/PHEPBT/TP-PL
 'There': KPA/THR
 'it': T
 'lay': HRAEU
 'stretched': STREFPD
 'on': OPB
 'the': -T
-'snow-covered': STPHOE H-PB KOFRD
-'shore,': SHOR KW-BG
+'snow-covered': STPHOE/H-PB/KOFRD
+'shore,': SHOR/KW-BG
 'and': SKP
 'over': OEFR
 'it': T
@@ -2130,11 +2130,11 @@ The Last Dream of the Old Oak
 'song': SOPBG
 'from': TPR
 'the': -T
-'ship—a': SHEUP EPL/TKA*RB AEU
+'ship—a': SHEUP/EPL/TKA*RB/AEU
 'song': SOPBG
 'of': -F
 'Christmas': KREUS/PHAS
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'and': SKP
 'of': -F
 'the': -T
@@ -2143,28 +2143,28 @@ The Last Dream of the Old Oak
 'the': -T
 'soul': SOUL
 'of': -F
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'and': SKP
 'of': -F
 'eternal': AOE/TERPBL
 'life': HRAOEUF
 'through': THRU
-'Christ's': KRAOEUFT AES
+'Christ's': KRAOEUFT/AES
 'atoning': A/TOEPB/-G
-'blood.': PWHRAOD TP-PL
-'"Sing': KR-GS KPA/SEUPBG
+'blood.': PWHRAOD/TP-PL
+'"Sing': KR-GS/KPA/SEUPBG
 'aloud': A/HROUD
 'on': OPB
 'the': -T
 'happy': HAEP
-'morn,': PHORPB KW-BG
+'morn,': PHORPB/KW-BG
 'All': KPA/AUL
 'is': S
-'fulfilled,': TPUL/TPEULD KW-BG
+'fulfilled,': TPUL/TPEULD/KW-BG
 'for': TPOR
 'Christ': KRAOEUFT
 'is': S
-'born;': PWORPB STPH*FPLT
+'born;': PWORPB/STPH*FPLT
 'With': KPA/W
 'songs': SOPBGS
 'of': -F
@@ -2172,18 +2172,18 @@ The Last Dream of the Old Oak
 'let': HRET
 'us': US
 'loudly': HROUD/HREU
-'sing,': SEUPBG KW-BG
-''Hallelujahs': AE HAL/HRAOU/KWRA/-S
+'sing,': SEUPBG/KW-BG
+''Hallelujahs': AE/HAL/HRAOU/KWRA/-S
 'to': TO
 'Christ': KRAOEUFT
 'our': OUR
-'King.'"': KO*EUPBG TP-PL AE KR-GS
+'King.'"': KO*EUPBG/TP-PL/AE/KR-GS
 'Thus': KPA/THUS
 'sounded': SOUPBD/-D
 'the': -T
 'old': OLD
 'Christmas': KREUS/PHAS
-'carol,': KAR/OL KW-BG
+'carol,': KAR/OL/KW-BG
 'and': SKP
 'every': EF
 'one': WUPB
@@ -2194,13 +2194,13 @@ The Last Dream of the Old Oak
 'felt': TPELT
 'his': HEUS
 'thoughts': THAUTS
-'elevated,': EL/SRAEUTD KW-BG
+'elevated,': EL/SRAEUTD/KW-BG
 'through': THRU
 'the': -T
 'song': SOPBG
 'and': SKP
 'the': -T
-'prayer,': PRAEUR KW-BG
+'prayer,': PRAEUR/KW-BG
 'even': AOEPB
 'as': AS
 'the': -T
@@ -2212,11 +2212,11 @@ The Last Dream of the Old Oak
 'up': UP
 'in': TPH
 'its': EUTS
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'its': EUTS
 'beautiful': PWAOUFL
 'dream': TKRAOEPL
 'on': OPB
 'that': THA
 'Christmas': KREUS/PHAS
-'morn.': PHORPB TP-PL
+'morn.': PHORPB/TP-PL

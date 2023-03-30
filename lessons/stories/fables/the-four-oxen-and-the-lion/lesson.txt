@@ -14,7 +14,7 @@ The Four Oxen and the Lion
 'Oxen': KPA/OBGS/*EPB
 'used': AOUFD
 'to': TO
-'dwell.': TKWEL TP-PL
+'dwell.': TKWEL/TP-PL
 'Many': KPA/PHAEPB
 'a': AEU
 'time': TAOEUPL
@@ -22,7 +22,7 @@ The Four Oxen and the Lion
 'tried': TRAOEUD
 'to': TO
 'attack': A/TABG
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'but': PWUT
 'whenever': WHEFR
 'he': HE
@@ -34,7 +34,7 @@ The Four Oxen and the Lion
 'tails': TAEULS
 'to': TO
 'one': WUPB
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'so': SO
 'that': THA
 'whichever': KH-FR
@@ -51,15 +51,15 @@ The Four Oxen and the Lion
 'of': -F
 'one': WUPB
 'of': -F
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'At': KPA/AT
-'last,': HRAFT KW-BG
-'however,': HOUF KW-BG
+'last,': HRAFT/KW-BG
+'however,': HOUF/KW-BG
 'they': THE
 'fell': TPEL
-'a-quarrelling': AEU H-PB KWARLG/A*U
+'a-quarrelling': AEU/H-PB/KWARLG/A*U
 'among': PHOPBG
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'and': SKP
 'each': AOEFP
 'went': WEPBT
@@ -73,7 +73,7 @@ The Four Oxen and the Lion
 'corner': KRORPB
 'of': -F
 'the': -T
-'field.': TPAOELD TP-PL
+'field.': TPAOELD/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'Lion': KPA/HRO*EUPB
@@ -89,10 +89,10 @@ The Four Oxen and the Lion
 'end': EPBD
 'of': -F
 'all': AUL
-'four.': TPOUR TP-PL
+'four.': TPOUR/TP-PL
 'United': KWRAOEUPBTD
 'we': WE
-'stand,': STAPBD KW-BG
+'stand,': STAPBD/KW-BG
 'divided': TKWAOEUTD
 'we': WE
-'fall.': TPAUL TP-PL
+'fall.': TPAUL/TP-PL

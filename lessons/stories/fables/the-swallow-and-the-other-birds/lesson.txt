@@ -26,29 +26,29 @@ The Swallow and the Other Birds
 'picking': P*EUG
 'up': UP
 'their': THAEUR
-'food.': TPAOD TP-PL
-'"Beware': KR-GS KPA/PWE/WAEUR
+'food.': TPAOD/TP-PL
+'"Beware': KR-GS/KPA/PWE/WAEUR
 'of': -F
 'that': THA
-'man,"': PHAPB KW-BG KR-GS
+'man,"': PHAPB/KW-BG/KR-GS
 'quoth': KW*/*U/O*/T*/H*
 'the': -T
-'Swallow.': KPA/SWAL TP-PL
-'"Why,': KR-GS KPA/KWR KW-BG
+'Swallow.': KPA/SWAL/TP-PL
+'"Why,': KR-GS/KPA/KWR/KW-BG
 'what': WHA
 'is': S
 'he': HE
-'doing?"': TK*G H-F KR-GS
+'doing?"': TK*G/H-F/KR-GS
 'said': SED
 'the': -T
-'others.': OERS TP-PL
-'"That': KR-GS KPA/THA
+'others.': OERS/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'hemp': HEFRP
 'seed': SAOED
 'he': HE
 'is': S
-'sowing;': SOE/-G STPH*FPLT
+'sowing;': SOE/-G/STPH*FPLT
 'be': -B
 'careful': KAEUFL
 'to': TO
@@ -58,13 +58,13 @@ The Swallow and the Other Birds
 'one': WUPB
 'of': -F
 'the': -T
-'seeds,': SAOEDZ KW-BG
+'seeds,': SAOEDZ/KW-BG
 'or': OR
 'else': ELS
 'you': U
 'will': HR
 'repent': RE/PEPBT
-'it."': T TP-PL KR-GS
+'it."': T/TP-PL/KR-GS
 'The': KPA/-T
 'birds': PWEURDZ
 'paid': PAEUD
@@ -72,8 +72,8 @@ The Swallow and the Other Birds
 'heed': HAO*ED
 'to': TO
 'the': -T
-'Swallow's': KPA/SWAL AES
-'words,': WORDZ KW-BG
+'Swallow's': KPA/SWAL/AES
+'words,': WORDZ/KW-BG
 'and': SKP
 'by': PWEU
 'and': SKP
@@ -86,14 +86,14 @@ The Swallow and the Other Birds
 'was': WAS
 'made': PHAED
 'into': TPHAO
-'cord,': KORD KW-BG
+'cord,': KORD/KW-BG
 'and': SKP
 'of': -F
 'the': -T
 'cords': KORDZ
 'nets': TPHETS
 'were': WR
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'and': SKP
 'many': PHAEPB
 'a': AEU
@@ -102,7 +102,7 @@ The Swallow and the Other Birds
 'had': H
 'despised': STKPAOEUDZ
 'the': -T
-'Swallow's': KPA/SWAL AES
+'Swallow's': KPA/SWAL/AES
 'advice': SREUS
 'was': WAS
 'caught': KAUT
@@ -113,20 +113,20 @@ The Swallow and the Other Birds
 'of': -F
 'that': THA
 'very': SRE
-'hemp.': HEFRP TP-PL
-'"What': KR-GS KPA/WHA
+'hemp.': HEFRP/TP-PL
+'"What': KR-GS/KPA/WHA
 'did': TK
 'I': EU
 'tell': TEL
-'you?"': U H-F KR-GS
+'you?"': U/H-F/KR-GS
 'said': SED
 'the': -T
-'Swallow.': KPA/SWAL TP-PL
+'Swallow.': KPA/SWAL/TP-PL
 'Destroy': KPA/STKROEU
 'the': -T
 'seed': SAOED
 'of': -F
-'evil,': AOEFL KW-BG
+'evil,': AOEFL/KW-BG
 'or': OR
 'it': T
 'will': HR
@@ -134,4 +134,4 @@ The Swallow and the Other Birds
 'up': UP
 'to': TO
 'your': KWROUR
-'ruin.': RAOUPB TP-PL
+'ruin.': RAOUPB/TP-PL

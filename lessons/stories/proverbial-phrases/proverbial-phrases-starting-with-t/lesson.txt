@@ -4,7 +4,7 @@ Proverbial phrases starting with T
 'care': KAEUR
 'of': -F
 'the': -T
-'pennies,': PEPB/EUS KW-BG
+'pennies,': PEPB/EUS/KW-BG
 'and': SKP
 'the': -T
 'pounds': POUPBDZ
@@ -12,40 +12,40 @@ Proverbial phrases starting with T
 'take': TAEUBG
 'care': KAEUR
 'of': -F
-'themselves.': TH*EPLS TP-PL
+'themselves.': TH*EPLS/TP-PL
 'Talk': KPA/TAUBG
 'is': S
-'cheap.': KHAEP TP-PL
+'cheap.': KHAEP/TP-PL
 'Talk': KPA/TAUBG
 'of': -F
 'the': -T
-'Devil,': KPA/TKEFL KW-BG
+'Devil,': KPA/TKEFL/KW-BG
 'and': SKP
 'he': HE
 'is': S
 'bound': PWOUPBD
 'to': TO
-'appear.': A/PAOER TP-PL
+'appear.': A/PAOER/TP-PL
 'Tell': KPA/TEL
 'me': PHE
 'who': WHO
 'your': KWROUR
 'friends': TPREPBDZ
-'are,': R KW-BG
+'are,': R/KW-BG
 'and': SKP
 'I'll': AOEUL
 'tell': TEL
 'you': U
 'who': WHO
 'you': U
-'are.': R TP-PL
+'are.': R/TP-PL
 'Tell': KPA/TEL
 'the': -T
 'truth': TRAO*UT
 'and': SKP
 'shame': SHAEUPL
 'the': -T
-'Devil.': KPA/TKEFL TP-PL
+'Devil.': KPA/TKEFL/TP-PL
 'That': KPA/THA
 'which': WEU
 'does': TKOS
@@ -54,13 +54,13 @@ Proverbial phrases starting with T
 'us': US
 'makes': PHAEUBGS
 'us': US
-'stronger.': STRORPBG TP-PL
+'stronger.': STRORPBG/TP-PL
 'The': KPA/-T
 'age': AEUPBLG
 'of': -F
 'miracles': PHEUR/K-LS
 'is': S
-'past.': PAFT TP-PL
+'past.': PAFT/TP-PL
 'The': KPA/-T
 'apple': A*EPL
 'does': TKOS
@@ -69,16 +69,16 @@ Proverbial phrases starting with T
 'far': TPAR
 'from': TPR
 'the': -T
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'The': KPA/-T
 'best': PWEFT
 'defence': TKEFS/A*U
 'is': S
 'a': AEU
 'good': TKPWAOD
-'offence.': OF/EPBS TP-PL
+'offence.': OF/EPBS/TP-PL
 'The': KPA/-T
-'best-laid': PWEFT H-PB HRAEUD
+'best-laid': PWEFT/H-PB/HRAEUD
 'schemes': SKAOEPLS
 'of': -F
 'mice': PHAOEUS
@@ -86,29 +86,29 @@ Proverbial phrases starting with T
 'men': PHEPB
 'often': OFPB
 'go': TKPW
-'awry.': AU/REU TP-PL
+'awry.': AU/REU/TP-PL
 'The': KPA/-T
 'best': PWEFT
 'things': THEUPBGS
 'in': TPH
 'life': HRAOEUF
 'are': R
-'free.': TPRAOE TP-PL
+'free.': TPRAOE/TP-PL
 'The': KPA/-T
 'bigger': PWEURG
 'they': THE
-'are,': R KW-BG
+'are,': R/KW-BG
 'the': -T
 'harder': HARD/*ER
 'they': THE
-'fall.': TPAUL TP-PL
+'fall.': TPAUL/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'is': S
 'father': TPAER
 'to': TO
 'the': -T
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'The': KPA/-T
 'bread': PWRAED
 'never': TPHEFR
@@ -117,7 +117,7 @@ Proverbial phrases starting with T
 'on': OPB
 'its': EUTS
 'buttered': PWUT/ERD
-'side.': SAOEUD TP-PL
+'side.': SAOEUD/TP-PL
 'The': KPA/-T
 'child': KHAOEULD
 'is': S
@@ -125,14 +125,14 @@ Proverbial phrases starting with T
 'father': TPAER
 'of': -F
 'the': -T
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'The': KPA/-T
 'cobbler': KOB/HRER
 'always': AULS
 'wears': WAERS
 'the': -T
 'worst': WOFRT
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'The': KPA/-T
 'course': KORS
 'of': -F
@@ -141,12 +141,12 @@ Proverbial phrases starting with T
 'never': TPHEFR
 'did': TK
 'run': RUPB
-'smooth.': SPHAO*T TP-PL
+'smooth.': SPHAO*T/TP-PL
 'The': KPA/-T
 'customer': KUFRT
 'is': S
 'always': AULS
-'right.': RAOEUT TP-PL
+'right.': RAOEUT/TP-PL
 'The': KPA/-T
 'darkest': TKARBG/EFT
 'hour': HOUR
@@ -154,7 +154,7 @@ Proverbial phrases starting with T
 'just': SKWRUFT
 'before': PW-FR
 'the': -T
-'dawn.': TKAUPB TP-PL
+'dawn.': TKAUPB/TP-PL
 'The': KPA/-T
 'Devil': KPA/TKEFL
 'finds': TPAOEUPBDZ
@@ -163,28 +163,28 @@ Proverbial phrases starting with T
 'idle': AOEUD/*L
 'hands': HAPBDZ
 'to': TO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'The': KPA/-T
 'Devil': KPA/TKEFL
 'looks': HRAOBGS
 'after': AF
 'his': HEUS
-'own.': OEPB TP-PL
+'own.': OEPB/TP-PL
 'The': KPA/-T
 'die': TKAOEU
 'is': S
-'cast.': KAFT TP-PL
+'cast.': KAFT/TP-PL
 'The': KPA/-T
 'early': ERL
 'bird': PWEURD
 'catches': KAFPS
 'the': -T
-'worm.': WORPL TP-PL
+'worm.': WORPL/TP-PL
 'The': KPA/-T
 'end': EPBD
 'justifies': SKWRUFZ
 'the': -T
-'means.': PHAOEPBS TP-PL
+'means.': PHAOEPBS/TP-PL
 'The': KPA/-T
 'enemy': TPHAEPL
 'of': -F
@@ -192,13 +192,13 @@ Proverbial phrases starting with T
 'enemy': TPHAEPL
 'is': S
 'my': PHEU
-'friend.': TPREPBD TP-PL
+'friend.': TPREPBD/TP-PL
 'The': KPA/-T
 'exception': KPEPGS
 'which': WEU
 'proves': PROFS
 'the': -T
-'rule.': RAOUL TP-PL
+'rule.': RAOUL/TP-PL
 'The': KPA/-T
 'female': TPAEL
 'of': -F
@@ -209,11 +209,11 @@ Proverbial phrases starting with T
 'deadly': TKED/HREU
 'than': THAPB
 'the': -T
-'male.': PHAEL TP-PL
+'male.': PHAEL/TP-PL
 'The': KPA/-T
 'good': TKPWAOD
 'die': TKAOEU
-'young.': KWRUPBG TP-PL
+'young.': KWRUPBG/TP-PL
 'The': KPA/-T
 'grass': TKPWRAS
 'is': S
@@ -225,7 +225,7 @@ Proverbial phrases starting with T
 'side': SAOEUD
 'of': -F
 'the': -T
-'fence.': TPEPBS TP-PL
+'fence.': TPEPBS/TP-PL
 'The': KPA/-T
 'hand': HAPBD
 'that': THA
@@ -234,7 +234,7 @@ Proverbial phrases starting with T
 'cradle': KRAEUD/*L
 'rules': RAOULS
 'the': -T
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'The': KPA/-T
 'husband': HUS
 'is': S
@@ -249,26 +249,26 @@ Proverbial phrases starting with T
 'find': TPAOEUPBD
 'an': APB
 'uncomfortable': TPH-BL
-'pillow.': PEUL/OE TP-PL
+'pillow.': PEUL/OE/TP-PL
 'The': KPA/-T
 'labourer': HRAEUB/RER/A*U
 'is': S
 'worthy': WO*RT/KWREU
 'of': -F
 'his': HEUS
-'hire.': HEUR TP-PL
+'hire.': HEUR/TP-PL
 'The': KPA/-T
 'law': HRAU
 'is': S
 'an': APB
-'ass.': A*S TP-PL
+'ass.': A*S/TP-PL
 'The': KPA/-T
 'leopard': HREP/ARD
 'does': TKOS
 'not': TPHOT
 'change': KHAEUPBG
 'his': HEUS
-'spots.': SPOTS TP-PL
+'spots.': SPOTS/TP-PL
 'The': KPA/-T
 'light': HRAOEUT
 'is': S
@@ -276,14 +276,14 @@ Proverbial phrases starting with T
 'but': PWUT
 'nobody': TPHOEB
 'is': S
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'The': KPA/-T
 'longest': HROPBG/EFT
 'day': TKAEU
 'must': PHUFT
 'have': SR
 'an': APB
-'end.': EPBD TP-PL
+'end.': EPBD/TP-PL
 'The': KPA/-T
 'longest': HROPBG/EFT
 'journey': SKWRURPB
@@ -291,28 +291,28 @@ Proverbial phrases starting with T
 'with': W
 'a': AEU
 'single': SEUPBLG
-'step.': STEP TP-PL
+'step.': STEP/TP-PL
 'The': KPA/-T
 'moon': PHAOPB
 'is': S
 'made': PHAED
 'of': -F
 'green': TKPWRAOEPB
-'cheese.': KHAOES TP-PL
+'cheese.': KHAOES/TP-PL
 'The': KPA/-T
 'more': PHOR
 'the': -T
-'merrier.': PHER/KWRER TP-PL
+'merrier.': PHER/KWRER/TP-PL
 'The': KPA/-T
 'more': PHOR
 'things': THEUPBGS
-'change,': KHAEUPBG KW-BG
+'change,': KHAEUPBG/KW-BG
 'the': -T
 'more': PHOR
 'they': THE
 'stay': STAEU
 'the': -T
-'same.': SAEUPL TP-PL
+'same.': SAEUPL/TP-PL
 'The': KPA/-T
 'only': OEPBL
 'disability': TKABLT
@@ -321,7 +321,7 @@ Proverbial phrases starting with T
 'is': S
 'a': AEU
 'bad': PWAD
-'attitude.': AT/TAOUD TP-PL
+'attitude.': AT/TAOUD/TP-PL
 'The': KPA/-T
 'only': OEPBL
 'way': WAEU
@@ -332,20 +332,20 @@ Proverbial phrases starting with T
 'is': S
 'to': TO
 'love': HRUF
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'The': KPA/-T
 'pen': PEPB
 'is': S
 'mightier': PHAOEUT/KWRER
 'than': THAPB
 'the': -T
-'sword.': SOERD TP-PL
+'sword.': SOERD/TP-PL
 'The': KPA/-T
 'pot': POT
 'calling': KAULG
 'the': -T
 'kettle': K*ELT
-'black.': PWHRABG TP-PL
+'black.': PWHRABG/TP-PL
 'The': KPA/-T
 'proof': PRAOF
 'of': -F
@@ -354,7 +354,7 @@ Proverbial phrases starting with T
 'is': S
 'in': TPH
 'the': -T
-'eating.': AOEGT TP-PL
+'eating.': AOEGT/TP-PL
 'The': KPA/-T
 'road': RAOD
 'to': TO
@@ -363,32 +363,32 @@ Proverbial phrases starting with T
 'paved': PAEUFD
 'with': W
 'good': TKPWAOD
-'intentions.': EUPB/TEPBGS/-S TP-PL
+'intentions.': EUPB/TEPBGS/-S/TP-PL
 'The': KPA/-T
-'shoemaker's': SHAOU/PHA*EURBG AES
+'shoemaker's': SHAOU/PHA*EURBG/AES
 'son': SOPB
 'always': AULS
 'goes': TKPW-S
-'barefoot.': PWAEUR/TPAO*T TP-PL
+'barefoot.': PWAEUR/TPAO*T/TP-PL
 'The': KPA/-T
 'squeaky': SKWAOE/KEU
 'wheel': WHAOEL
 'gets': TKPWETS
 'the': -T
-'grease.': TKPWRAES TP-PL
+'grease.': TKPWRAES/TP-PL
 'The': KPA/-T
 'streets': STRAOETS
 'are': R
 'paved': PAEUFD
 'with': W
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'The': KPA/-T
 'straw': STRAU
 'that': THA
 'broke': PWROEBG
 'the': -T
-'camel's': KAPL/EL AES
-'back.': PWABG TP-PL
+'camel's': KAPL/EL/AES
+'back.': PWABG/TP-PL
 'The': KPA/-T
 'way': WAEU
 'to': TO
@@ -398,16 +398,16 @@ Proverbial phrases starting with T
 'is': S
 'through': THRU
 'his': HEUS
-'stomach.': STUPL TP-PL
+'stomach.': STUPL/TP-PL
 'The': KPA/-T
 'work': WORBG
 'praises': PRAEUS/-S
 'the': -T
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'The': KPA/-T
 'worm': WORPL
 'will': HR
-'turn.': TURPB TP-PL
+'turn.': TURPB/TP-PL
 'There': KPA/THR
 'ain't': AEUPBT
 'no': TPHO
@@ -416,7 +416,7 @@ Proverbial phrases starting with T
 'as': AS
 'a': AEU
 'free': TPRAOE
-'lunch.': HRUPBS TP-PL
+'lunch.': HRUPBS/TP-PL
 'There': KPA/THR
 'are': R
 'more': PHOR
@@ -429,14 +429,14 @@ Proverbial phrases starting with T
 'choking': KHOEBG/-G
 'it': T
 'with': W
-'cream.': KRAOEPL TP-PL
+'cream.': KRAOEPL/TP-PL
 'There': KPA/THR
 'are': R
 'two': TWO
 'sides': SAOEUDZ
 'to': TO
 'every': EF
-'question.': KWE TP-PL
+'question.': KWE/TP-PL
 'There': KPA/THR
 'but': PWUT
 'for': TPOR
@@ -445,14 +445,14 @@ Proverbial phrases starting with T
 'of': -F
 'God': TKPWO*D
 'go': TKPW
-'I.': EU TP-PL
+'I.': EU/TP-PL
 'There': KPA/THR
 'is': S
 'an': APB
 'exception': KPEPGS
 'to': TO
 'every': EF
-'rule.': RAOUL TP-PL
+'rule.': RAOUL/TP-PL
 'There': KPA/THR
 'are': R
 'always': AULS
@@ -460,12 +460,12 @@ Proverbial phrases starting with T
 'fish': TPEURB
 'in': TPH
 'the': -T
-'sea.': SAE TP-PL
+'sea.': SAE/TP-PL
 'There': KPA/THR
 'is': S
 'honour': HO*RPB/A*U
 'among': PHOPBG
-'thieves.': THAOEFS TP-PL
+'thieves.': THAOEFS/TP-PL
 'There': KPA/THR
 'is': S
 'many': PHAEPB
@@ -476,7 +476,7 @@ Proverbial phrases starting with T
 'on': OPB
 'an': APB
 'old': OLD
-'fiddle.': TP*EULD TP-PL
+'fiddle.': TP*EULD/TP-PL
 'There': KPA/THR
 'is': S
 'many': PHAEPB
@@ -485,7 +485,7 @@ Proverbial phrases starting with T
 ''twixt': A*E/TW*EUBGS
 'cup': KUP
 'and': SKP
-'lip.': HREUP TP-PL
+'lip.': HREUP/TP-PL
 'There': KPA/THR
 'is': S
 'more': PHOR
@@ -495,13 +495,13 @@ Proverbial phrases starting with T
 'to': TO
 'skin': SKEUPB
 'a': AEU
-'cat.': KAT TP-PL
+'cat.': KAT/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
 'accounting': K-GT
 'for': TPOR
-'tastes.': TAEUFTS TP-PL
+'tastes.': TAEUFTS/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
@@ -509,33 +509,33 @@ Proverbial phrases starting with T
 'like': HRAOEUBG
 'an': APB
 'old': OLD
-'fool.': TPAOL TP-PL
+'fool.': TPAOL/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
 'place': PHRAEUS
 'like': HRAOEUBG
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
 'shame': SHAEUPL
 'in': TPH
 'not': TPHOT
-'knowing;': TPHOEG STPH*FPLT
+'knowing;': TPHOEG/STPH*FPLT
 'the': -T
 'shame': SHAEUPL
 'lies': HRAO*EUS
 'in': TPH
 'not': TPHOT
 'finding': TPAOEUPBGD
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
 'smoke': SPHOEBG
 'without': WOUT
-'fire.': TPAOEUR TP-PL
+'fire.': TPAOEUR/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
@@ -544,7 +544,7 @@ Proverbial phrases starting with T
 'as': AS
 'a': AEU
 'free': TPRAOE
-'lunch.': HRUPBS TP-PL
+'lunch.': HRUPBS/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
@@ -552,14 +552,14 @@ Proverbial phrases starting with T
 'thing': THEUPBG
 'as': AS
 'bad': PWAD
-'publicity.': PHR*EUFT TP-PL
+'publicity.': PHR*EUFT/TP-PL
 'There': KPA/THR
 'is': S
 'no': TPHO
 'time': TAOEUPL
 'like': HRAOEUBG
 'the': -T
-'present.': PREPBT TP-PL
+'present.': PREPBT/TP-PL
 'There': KPA/THR
 'are': R
 'none': TPHOPB
@@ -570,25 +570,25 @@ Proverbial phrases starting with T
 'who': WHO
 'will': HR
 'not': TPHOT
-'hear.': HAER TP-PL
+'hear.': HAER/TP-PL
 'There': KPA/THR
 'is': S
 'nowt': TPH*/O*/W*/T*
 'so': SO
 'queer': KWAOER
 'as': AS
-'folk.': TPOEBG TP-PL
+'folk.': TPOEBG/TP-PL
 'There': KPA/THR
 'is': S
 'one': WUPB
 'born': PWORPB
 'every': EF
-'minute.': PHEUPB TP-PL
+'minute.': PHEUPB/TP-PL
 'There': KPA/THR
 'is': S
 'safety': SAEFT
 'in': TPH
-'numbers.': TPHUPLS TP-PL
+'numbers.': TPHUPLS/TP-PL
 'They': KPA/THE
 'that': THA
 'sow': SOE
@@ -597,12 +597,12 @@ Proverbial phrases starting with T
 'shall': SHAL
 'reap': RAOEP
 'the': -T
-'whirlwind.': WHEURL/WEUPBD TP-PL
+'whirlwind.': WHEURL/WEUPBD/TP-PL
 'Third': KPA/THEURD
 'time': TAOEUPL
 'is': S
 'a': AEU
-'charm.': KHARPL TP-PL
+'charm.': KHARPL/TP-PL
 'Those': KPA/THOZ
 'who': WHO
 'live': HREUF
@@ -612,7 +612,7 @@ Proverbial phrases starting with T
 'should': SHO
 'not': TPHOT
 'throw': THROE
-'stones.': STOEPBS TP-PL
+'stones.': STOEPBS/TP-PL
 'Those': KPA/THOZ
 'who': WHO
 'know': TPHOE
@@ -635,29 +635,29 @@ Proverbial phrases starting with T
 'will': HR
 'rise': RAOEUZ
 'with': W
-'fleas.': TPHRAE/-S TP-PL
+'fleas.': TPHRAE/-S/TP-PL
 'Time': KPA/TAOEUPL
 'and': SKP
 'tide': TAOEUD
 'wait': WAEUT
 'for': TPOR
 'no': TPHO
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'Time': KPA/TAOEUPL
-'flies.': TPHRAOEUS TP-PL
+'flies.': TPHRAOEUS/TP-PL
 'Time': KPA/TAOEUPL
 'is': S
 'a': AEU
 'great': TKPWRAET
-'healer.': HAEL/*ER TP-PL
+'healer.': HAEL/*ER/TP-PL
 'Time': KPA/TAOEUPL
 'is': S
-'money.': PHUPB TP-PL
+'money.': PHUPB/TP-PL
 'Only': KPA/OEPBL
 'time': TAOEUPL
 'will': HR
-'tell.': TEL TP-PL
-''Tis': AE T*P/*EU/S*
+'tell.': TEL/TP-PL
+''Tis': AE/T*P/*EU/S*
 'better': PWOERT
 'to': TO
 'have': SR
@@ -670,7 +670,7 @@ Proverbial phrases starting with T
 'have': SR
 'loved': HROFD
 'at': AT
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'To': KPA/TO
 'be': -B
 'worn': WORPB
@@ -678,18 +678,18 @@ Proverbial phrases starting with T
 'is': S
 'to': TO
 'be': -B
-'renewed.': RE/TPHAOUD TP-PL
+'renewed.': RE/TPHAOUD/TP-PL
 'To': KPA/TO
 'each': AOEFP
 'his': HEUS
-'own.': OEPB TP-PL
+'own.': OEPB/TP-PL
 'To': KPA/TO
 'err': ER/*R
 'is': S
-'human,': HAOUPL KW-BG
+'human,': HAOUPL/KW-BG
 'to': TO
 'forgive': TPAURG
-'divine.': TKWAOEUPB TP-PL
+'divine.': TKWAOEUPB/TP-PL
 'To': KPA/TO
 'learn': HRERPB
 'a': AEU
@@ -706,13 +706,13 @@ Proverbial phrases starting with T
 'look': HRAOBG
 'at': AT
 'the': -T
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'To': KPA/TO
 'the': -T
 'victor': SREUBG/TOR
 'go': TKPW
 'the': -T
-'spoils.': SPOEULS TP-PL
+'spoils.': SPOEULS/TP-PL
 'To': KPA/TO
 'travel': TRAFL
 'hopefully': HO*EF
@@ -722,35 +722,35 @@ Proverbial phrases starting with T
 'thing': THEUPBG
 'than': THAPB
 'to': TO
-'arrive.': A/RAOEUF TP-PL
+'arrive.': A/RAOEUF/TP-PL
 'Tomorrow': KPA/TORPL
 'is': S
 'another': TPHOER
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'Tomorrow': KPA/TORPL
 'never': TPHEFR
-'comes.': KOPLS TP-PL
+'comes.': KOPLS/TP-PL
 'Too': KPA/TAO
 'many': PHAEPB
 'cooks': KAOBGS
 'spoil': SPOEUL
 'the': -T
-'broth.': PWRO*T TP-PL
+'broth.': PWRO*T/TP-PL
 'Too': KPA/TAO
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'too': TAO
-'late.': HRAEUT TP-PL
+'late.': HRAEUT/TP-PL
 'Too': KPA/TAO
 'much': PHUFP
 'of': -F
 'a': AEU
 'good': TKPWAOD
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'Truth': KPA/TRAO*UT
 'is': S
 'stranger': STRAEURPBG
 'than': THAPB
-'fiction.': TP*EUBGS TP-PL
+'fiction.': TP*EUBGS/TP-PL
 'Truth': KPA/TRAO*UT
 'is': S
 'more': PHOR
@@ -764,11 +764,11 @@ Proverbial phrases starting with T
 'years': KWRAOERS
 'to': TO
 'find': TPAOEUPBD
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'truth': TRAO*UT
 'will': HR
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'Turn': KPA/TURPB
 'your': KWROUR
 'face': TPAEUS
@@ -780,31 +780,31 @@ Proverbial phrases starting with T
 'shadows': SHO*EUDZ
 'fall': TPAUL
 'behind': HEUPBD
-'you.': U TP-PL
+'you.': U/TP-PL
 'Two': KPA/TWO
 'can': K
 'play': PHRAEU
 'at': AT
 'that': THA
-'game.': TKPWAEUPL TP-PL
+'game.': TKPWAEUPL/TP-PL
 'Two': KPA/TWO
 'heads': HEDZ
 'are': R
 'better': PWOERT
 'than': THAPB
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'Two': KPA/TWO
 'is': S
-'company,': K-P KW-BG
+'company,': K-P/KW-BG
 'but': PWUT
 'three': THRAOE
 'is': S
 'a': AEU
-'crowd.': KROUD TP-PL
+'crowd.': KROUD/TP-PL
 'Two': KPA/TWO
 'wrongs': WROPBGS
 'do': TKO
 'not': TPHOT
 'make': PHAEUBG
 'a': AEU
-'right.': RAOEUT TP-PL
+'right.': RAOEUT/TP-PL

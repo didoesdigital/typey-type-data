@@ -21,14 +21,14 @@ The Cock and the Pearl
 'shining': SHAOEUPBG
 'amid': A/PHEUD
 'the': -T
-'straw.': STRAU TP-PL
-'"Ho!': KR-GS KPA/HO*E SKHRAPL
-'ho!"': HO*E SKHRAPL KR-GS
+'straw.': STRAU/TP-PL
+'"Ho!': KR-GS/KPA/HO*E/SKHRAPL
+'ho!"': HO*E/SKHRAPL/KR-GS
 'quoth': KW*/*U/O*/T*/H*
-'he,': HE KW-BG
+'he,': HE/KW-BG
 '"that's': KW-GS/THATS
 'for': TPOR
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'and': SKP
 'soon': SAOPB
 'rooted': RAOT/-D
@@ -37,7 +37,7 @@ The Cock and the Pearl
 'from': TPR
 'beneath': TPHAO*ET
 'the': -T
-'straw.': STRAU TP-PL
+'straw.': STRAU/TP-PL
 'What': KPA/WHA
 'did': TK
 'it': T
@@ -57,20 +57,20 @@ The Cock and the Pearl
 'lost': HRO*S
 'in': TPH
 'the': -T
-'yard?': KWRARD H-F
-'"You': KR-GS KPA/U
+'yard?': KWRARD/H-F
+'"You': KR-GS/KPA/U
 'may': PHAE
 'be': -B
 'a': AEU
-'treasure,"': TRERB KW-BG KR-GS
+'treasure,"': TRERB/KW-BG/KR-GS
 'quoth': KW*/*U/O*/T*/H*
 'Master': KPA/PHAFRT
-'Cock,': KPA/KOBG KW-BG
-'"to': KR-GS TO
+'Cock,': KPA/KOBG/KW-BG
+'"to': KR-GS/TO
 'men': PHEPB
 'that': THA
 'prize': PRAOEUZ
-'you,': U KW-BG
+'you,': U/KW-BG
 'but': PWUT
 'for': TPOR
 'me': PHE
@@ -80,12 +80,12 @@ The Cock and the Pearl
 'have': SR
 'a': AEU
 'single': SEUPBLG
-'barley-corn': PWAR/HREU H-PB KORPB
+'barley-corn': PWAR/HREU/H-PB/KORPB
 'than': THAPB
 'a': AEU
 'peck': PEBG
 'of': -F
-'pearls."': PERLS TP-PL KR-GS
+'pearls."': PERLS/TP-PL/KR-GS
 'Precious': KPA/PRERBS
 'things': THEUPBGS
 'are': R
@@ -94,4 +94,4 @@ The Cock and the Pearl
 'that': THA
 'can': K
 'prize': PRAOEUZ
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL

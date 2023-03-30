@@ -2,24 +2,24 @@ The Sunbeam and the Captive
 
 'It': KPA/T
 'is': S
-'autumn.': AU/UPL TP-PL
+'autumn.': AU/UPL/TP-PL
 'We': KPA/WE
 'stand': STAPBD
 'on': OPB
 'the': -T
-'ramparts,': RAFRP/ART/-S KW-BG
+'ramparts,': RAFRP/ART/-S/KW-BG
 'and': SKP
 'look': HRAOBG
 'out': OUT
 'over': OEFR
 'the': -T
-'sea.': SAE TP-PL
+'sea.': SAE/TP-PL
 'We': KPA/WE
 'look': HRAOBG
 'at': AT
 'the': -T
 'numerous': TPHAOUPLS
-'ships,': SHEUPS KW-BG
+'ships,': SHEUPS/KW-BG
 'and': SKP
 'at': AT
 'the': -T
@@ -31,7 +31,7 @@ The Sunbeam and the Captive
 'side': SAOEUD
 'of': -F
 'the': -T
-'sound,': SOUPBD KW-BG
+'sound,': SOUPBD/KW-BG
 'rising': RAOEUFG
 'far': TPAR
 'above': PWOF
@@ -47,18 +47,18 @@ The Sunbeam and the Captive
 'of': -F
 'the': -T
 'evening': AOEPBG
-'sky.': SKAOEU TP-PL
+'sky.': SKAOEU/TP-PL
 'Behind': KPA/HEUPBD
 'us': US
 'the': -T
 'wood': WAOD
 'is': S
 'sharply': SHARP/HREU
-'defined;': TKE/TPAOEUPBD STPH*FPLT
+'defined;': TKE/TPAOEUPBD/STPH*FPLT
 'mighty': PHAOEUT/KWREU
 'trees': TRAOES
 'surround': SROUPBD
-'us,': US KW-BG
+'us,': US/KW-BG
 'and': SKP
 'the': -T
 'yellow': KWREL/OE
@@ -67,14 +67,14 @@ The Sunbeam and the Captive
 'down': TKOUPB
 'from': TPR
 'the': -T
-'branches.': PWRAFRPBS TP-PL
-'Below,': KPA/PWHRO KW-BG
+'branches.': PWRAFRPBS/TP-PL
+'Below,': KPA/PWHRO/KW-BG
 'at': AT
 'the': -T
 'foot': TPAOT
 'of': -F
 'the': -T
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'stands': STAPBDZ
 'a': AEU
 'gloomy': TKPWHRAOPL/KWREU
@@ -82,14 +82,14 @@ The Sunbeam and the Captive
 'building': PW-LG
 'enclosed': KHRO/-D
 'in': TPH
-'palisades.': PAL/SAEDZ TP-PL
+'palisades.': PAL/SAEDZ/TP-PL
 'The': KPA/-T
 'space': SPAEUS
 'between': TWAOEPB
 'is': S
 'dark': TKARBG
 'and': SKP
-'narrow,': TPHO*EUR KW-BG
+'narrow,': TPHO*EUR/KW-BG
 'but': PWUT
 'still': STEUL
 'more': PHOR
@@ -110,7 +110,7 @@ The Sunbeam and the Captive
 'narrow': TPHO*EUR
 'loopholes': HRAOP/HOEL/-S
 'or': OR
-'windows,': WOEUPBDZ KW-BG
+'windows,': WOEUPBDZ/KW-BG
 'for': TPOR
 'in': TPH
 'these': THEZ
@@ -122,7 +122,7 @@ The Sunbeam and the Captive
 'the': -T
 'criminals': KR-LS
 'are': R
-'confined.': KAUPB/TPAOEUPBD TP-PL
+'confined.': KAUPB/TPAOEUPBD/TP-PL
 'A': KPA/AEU
 'ray': RAEU
 'of': -F
@@ -138,9 +138,9 @@ The Sunbeam and the Captive
 'one': WUPB
 'of': -F
 'the': -T
-'captives,': KAPT/EUFS KW-BG
+'captives,': KAPT/EUFS/KW-BG
 'for': TPOR
-'God's': TKPWO*D AES
+'God's': TKPWO*D/AES
 'sun': SUPB
 'shines': SHAOEUPBS
 'upon': POPB
@@ -148,7 +148,7 @@ The Sunbeam and the Captive
 'evil': AOEFL
 'and': SKP
 'the': -T
-'good.': TKPWAOD TP-PL
+'good.': TKPWAOD/TP-PL
 'The': KPA/-T
 'hardened': HARD/-PBD
 'criminal': KR-L
@@ -159,7 +159,7 @@ The Sunbeam and the Captive
 'at': AT
 'the': -T
 'bright': PWRAOEUT
-'ray.': RAEU TP-PL
+'ray.': RAEU/TP-PL
 'Then': KPA/THEPB
 'a': AEU
 'little': HREUL
@@ -167,7 +167,7 @@ The Sunbeam and the Captive
 'flies': TPHRAOEUS
 'towards': TORDZ
 'the': -T
-'grating,': TKPWRAEUGT KW-BG
+'grating,': TKPWRAEUGT/KW-BG
 'for': TPOR
 'birds': PWEURDZ
 'twitter': HRO*ER/TWEUT/*ER
@@ -179,32 +179,32 @@ The Sunbeam and the Captive
 'as': AS
 'to': TO
 'the': -T
-'unjust.': UPB/SKWRUFT TP-PL
+'unjust.': UPB/SKWRUFT/TP-PL
 'He': KPA/HE
 'only': OEPBL
-'cries,': KRAOEUS KW-BG
-'"Tweet,': KR-GS KPA/TWAOET KW-BG
-'tweet,"': TWAOET KW-BG KR-GS
+'cries,': KRAOEUS/KW-BG
+'"Tweet,': KR-GS/KPA/TWAOET/KW-BG
+'tweet,"': TWAOET/KW-BG/KR-GS
 'and': SKP
 'then': THEPB
 'perches': PER/-FPS
 'himself': HEUPLS
 'near': TPHAOER
 'the': -T
-'grating,': TKPWRAEUGT KW-BG
+'grating,': TKPWRAEUGT/KW-BG
 'flutters': TPHRUT/ERS
 'his': HEUS
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'pecks': PEBGS
 'a': AEU
 'feather': TP*ERT
 'from': TPR
 'one': WUPB
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'puffs': PUF/-S
 'himself': HEUPLS
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'sets': SETS
 'his': HEUS
@@ -215,14 +215,14 @@ The Sunbeam and the Captive
 'his': HEUS
 'breast': PWREFT
 'and': SKP
-'throat.': THROET TP-PL
+'throat.': THROET/TP-PL
 'The': KPA/-T
-'bad,': PWAD KW-BG
+'bad,': PWAD/KW-BG
 'chained': KHAEUPBD
 'man': PHAPB
 'looks': HRAOBGS
 'at': AT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'a': AEU
 'more': PHOR
@@ -232,7 +232,7 @@ The Sunbeam and the Captive
 'into': TPHAO
 'his': HEUS
 'hard': HARD
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'In': KPA/TPH
 'his': HEUS
 'breast': PWREFT
@@ -245,7 +245,7 @@ The Sunbeam and the Captive
 'himself': HEUPLS
 'cannot': SK-PBT
 'rightly': RAOEULT
-'analyze,': APBLZ KW-BG
+'analyze,': APBLZ/KW-BG
 'but': PWUT
 'the': -T
 'thought': THAUT
@@ -254,16 +254,16 @@ The Sunbeam and the Captive
 'connection': KEBGS
 'with': W
 'the': -T
-'sunbeam,': SUPB/PWAOEPL KW-BG
+'sunbeam,': SUPB/PWAOEPL/KW-BG
 'with': W
 'the': -T
-'bird,': PWEURD KW-BG
+'bird,': PWEURD/KW-BG
 'and': SKP
 'with': W
 'the': -T
 'scent': SKEPBT
 'of': -F
-'violets,': SROEULT/-S KW-BG
+'violets,': SROEULT/-S/KW-BG
 'which': WEU
 'grow': TKPWROE
 'luxuriantly': HRUBGS/UR/KWRAPBT/HREU
@@ -274,7 +274,7 @@ The Sunbeam and the Captive
 'foot': TPAOT
 'of': -F
 'the': -T
-'wall.': WAUL TP-PL
+'wall.': WAUL/TP-PL
 'Then': KPA/THEPB
 'there': THR
 'comes': KOPLS
@@ -282,22 +282,22 @@ The Sunbeam and the Captive
 'sound': SOUPBD
 'of': -F
 'the': -T
-'hunter's': HUPB/TER AES
-'horn,': HORPB KW-BG
+'hunter's': HUPB/TER/AES
+'horn,': HORPB/KW-BG
 'merry': PHER/REU
 'and': SKP
-'full.': TPUL TP-PL
+'full.': TPUL/TP-PL
 'The': KPA/-T
 'little': HREUL
 'bird': PWEURD
-'starts,': STARTS KW-BG
+'starts,': STARTS/KW-BG
 'and': SKP
 'flies': TPHRAOEUS
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'the': -T
 'sunbeam': SUPB/PWAOEPL
 'gradually': TKPWRAD/WAEL
-'vanishes,': SRAPB/EURBS KW-BG
+'vanishes,': SRAPB/EURBS/KW-BG
 'and': SKP
 'again': TKPWEPB
 'there': THR
@@ -313,7 +313,7 @@ The Sunbeam and the Captive
 'of': -F
 'that': THA
 'bad': PWAD
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'Still': KPA/STEUL
 'the': -T
 'sun': SUPB
@@ -321,7 +321,7 @@ The Sunbeam and the Captive
 'shone': SHO*EPB
 'into': TPHAO
 'that': THA
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'the': -T
 'twittering': HRO*ER/TWEUT/*ERG
@@ -330,37 +330,37 @@ The Sunbeam and the Captive
 'bird': PWEURD
 'has': HAS
 'touched': TUFPD
-'it.': T TP-PL
+'it.': T/TP-PL
 'Sound': KPA/SOUPBD
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'ye': KWR*/*E
 'glorious': TKPWHRORS
 'strains': STRAEUPBS
 'of': -F
 'the': -T
-'hunter's': HUPB/TER AES
-'horn;': HORPB STPH*FPLT
+'hunter's': HUPB/TER/AES
+'horn;': HORPB/STPH*FPLT
 'continue': T-PB
 'your': KWROUR
 'stirring': STEURG
-'tones,': TOEPBS KW-BG
+'tones,': TOEPBS/KW-BG
 'for': TPOR
 'the': -T
 'evening': AOEPBG
 'is': S
-'mild,': PHAOEULD KW-BG
+'mild,': PHAOEULD/KW-BG
 'and': SKP
 'the': -T
 'surface': SUFS
 'of': -F
 'the': -T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'heaving': HAOEF/-G
 'slowly': SHROEL
 'and': SKP
-'calmly,': KAUPL/HREU KW-BG
+'calmly,': KAUPL/HREU/KW-BG
 'is': S
 'smooth': SPHAO*T
 'as': AS
 'a': AEU
-'mirror.': PHROR TP-PL
+'mirror.': PHROR/TP-PL

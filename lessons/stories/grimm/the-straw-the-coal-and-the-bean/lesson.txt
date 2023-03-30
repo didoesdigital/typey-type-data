@@ -7,7 +7,7 @@ The Straw, the Coal, and the Bean
 'a': AEU
 'poor': PAOR
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'who': WHO
 'had': H
 'gathered': TKPWAERD
@@ -20,7 +20,7 @@ The Straw, the Coal, and the Bean
 'wanted': WAPBTD
 'to': TO
 'cook': KAOBG
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'So': KPA/SO
 'she': SHE
 'made': PHAED
@@ -28,14 +28,14 @@ The Straw, the Coal, and the Bean
 'fire': TPAOEUR
 'on': OPB
 'her': HER
-'hearth,': HAERT KW-BG
+'hearth,': HAERT/KW-BG
 'and': SKP
 'that': THA
 'it': T
 'might': PHAOEUT
 'burn': PWURPB
 'the': -T
-'quicker,': KW*EURBG KW-BG
+'quicker,': KW*EURBG/KW-BG
 'she': SHE
 'lighted': HRAOEUTD
 'it': T
@@ -43,7 +43,7 @@ The Straw, the Coal, and the Bean
 'a': AEU
 'handful': HAPBD/-FL
 'of': -F
-'straw.': STRAU TP-PL
+'straw.': STRAU/TP-PL
 'When': KPA/WHEPB
 'she': SHE
 'was': WAS
@@ -52,13 +52,13 @@ The Straw, the Coal, and the Bean
 'beans': PWAEPBS
 'into': TPHAO
 'the': -T
-'pan,': PAPB KW-BG
+'pan,': PAPB/KW-BG
 'one': WUPB
 'dropped': TKROPD
 'without': WOUT
 'her': HER
 'observing': OEB/-G
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'lay': HRAEU
 'on': OPB
@@ -66,7 +66,7 @@ The Straw, the Coal, and the Bean
 'ground': TKPWROUPBD
 'beside': PWE/SAOEUD
 'a': AEU
-'straw,': STRAU KW-BG
+'straw,': STRAU/KW-BG
 'and': SKP
 'soon': SAOPB
 'afterwards': A*FRDZ
@@ -80,31 +80,31 @@ The Straw, the Coal, and the Bean
 'down': TKOUPB
 'to': TO
 'the': -T
-'two.': TWO TP-PL
+'two.': TWO/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'straw': STRAU
 'began': TKPWAPB
 'and': SKP
-'said:': SED STPH-FPLT
-''Dear': AE KPA/TKAER
-'friends,': TPREPBDZ KW-BG
+'said:': SED/STPH-FPLT
+''Dear': AE/KPA/TKAER
+'friends,': TPREPBDZ/KW-BG
 'from': TPR
 'whence': WHEPBS
 'do': TKO
 'you': U
 'come': KOPL
-'here?'': HAOER H-F AE
+'here?'': HAOER/H-F/AE
 'The': KPA/-T
 'coal': KOEL
-'replied:': RE/PHRAOEUD STPH-FPLT
-''I': AE EU
+'replied:': RE/PHRAOEUD/STPH-FPLT
+''I': AE/EU
 'fortunately': TP-RPBL
 'sprang': SPRAPBG
 'out': OUT
 'of': -F
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'if': TP
 'I': EU
@@ -113,30 +113,30 @@ The Straw, the Coal, and the Bean
 'escaped': SKAEPD
 'by': PWEU
 'sheer': SHAOER
-'force,': TPORS KW-BG
+'force,': TPORS/KW-BG
 'my': PHEU
 'death': TK*T
 'would': WO
 'have': SR
 'been': PW-PB
-'certain,--I': SERPB KW-BG H-PB H-PB EU
+'certain,--I': SERPB/KW-BG/H-PB/H-PB/EU
 'should': SHO
 'have': SR
 'been': PW-PB
 'burnt': PWURPBT
 'to': TO
-'ashes.'': ARBS TP-PL AE
+'ashes.'': ARBS/TP-PL/AE
 'The': KPA/-T
 'bean': PWAEPB
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'too': TAO
 'have': SR
 'escaped': SKAEPD
 'with': W
 'a': AEU
 'whole': WHOEL
-'skin,': SKEUPB KW-BG
+'skin,': SKEUPB/KW-BG
 'but': PWUT
 'if': TP
 'the': -T
@@ -147,7 +147,7 @@ The Straw, the Coal, and the Bean
 'me': PHE
 'into': TPHAO
 'the': -T
-'pan,': PAPB KW-BG
+'pan,': PAPB/KW-BG
 'I': EU
 'should': SHO
 'have': SR
@@ -157,11 +157,11 @@ The Straw, the Coal, and the Bean
 'broth': PWRO*T
 'without': WOUT
 'any': TPHEU
-'mercy,': PHER/SEU KW-BG
+'mercy,': PHER/SEU/KW-BG
 'like': HRAOEUBG
 'my': PHEU
-'comrades.'': KOPL/RADZ TP-PL AE
-''And': AE AFPBD
+'comrades.'': KOPL/RADZ/TP-PL/AE
+''And': AE/AFPBD
 'would': WO
 'a': AEU
 'better': PWOERT
@@ -170,11 +170,11 @@ The Straw, the Coal, and the Bean
 'fallen': TPAUL/-PB
 'to': TO
 'my': PHEU
-'lot?'': HROT H-F AE
+'lot?'': HROT/H-F/AE
 'said': SED
 'the': -T
-'straw.': STRAU TP-PL
-''The': AE KPA/-T
+'straw.': STRAU/TP-PL
+''The': AE/KPA/-T
 'old': OLD
 'woman': WOPL
 'has': HAS
@@ -185,54 +185,54 @@ The Straw, the Coal, and the Bean
 'in': TPH
 'fire': TPAOEUR
 'and': SKP
-'smoke;': SPHOEBG STPH*FPLT
+'smoke;': SPHOEBG/STPH*FPLT
 'she': SHE
 'seized': SAOEZ/-D
 'sixty': SEUBGT
 'of': -F
 'them': THEPL
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'and': SKP
 'took': TAOBG
 'their': THAEUR
-'lives.': HREUFS TP-PL
+'lives.': HREUFS/TP-PL
 'I': EU
 'luckily': HRULG
 'slipped': SHREUPD
 'through': THRU
 'her': HER
-'fingers.'': TPEURPBGS TP-PL AE
-''But': AE KPA/PWUT
+'fingers.'': TPEURPBGS/TP-PL/AE
+''But': AE/KPA/PWUT
 'what': WHA
 'are': R
 'we': WE
 'to': TO
 'do': TKO
-'now?'': TPHOU H-F AE
+'now?'': TPHOU/H-F/AE
 'said': SED
 'the': -T
-'coal.': KOEL TP-PL
-''I': AE EU
-'think,'': THEU KW-BG AE
+'coal.': KOEL/TP-PL
+''I': AE/EU
+'think,'': THEU/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'bean,': PWAEPB KW-BG
-''that': AE THA
+'bean,': PWAEPB/KW-BG
+''that': AE/THA
 'as': AS
 'we': WE
 'have': SR
 'so': SO
 'fortunately': TP-RPBL
 'escaped': SKAEPD
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'we': WE
 'should': SHO
 'keep': KAOEP
 'together': TOGT
 'like': HRAOEUBG
 'good': TKPWAOD
-'companions,': KPAPB/KWROPBS KW-BG
+'companions,': KPAPB/KWROPBS/KW-BG
 'and': SKP
 'lest': HR*ES
 'a': AEU
@@ -241,24 +241,24 @@ The Straw, the Coal, and the Bean
 'should': SHO
 'overtake': AUFR/TAEUBG
 'us': US
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'we': WE
 'should': SHO
 'go': TKPW
 'away': WA*EU
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'repair': RAO*EP
 'to': TO
 'a': AEU
 'foreign': TPOERPB
-'country.'': KREU TP-PL AE
+'country.'': KREU/TP-PL/AE
 'The': KPA/-T
 'proposition': PROPGS
 'pleased': PHREFD
 'the': -T
 'two': TWO
-'others,': OERS KW-BG
+'others,': OERS/KW-BG
 'and': SKP
 'they': THE
 'set': SET
@@ -266,15 +266,15 @@ The Straw, the Coal, and the Bean
 'on': OPB
 'their': THAEUR
 'way': WAEU
-'together.': TOGT TP-PL
-'Soon,': KPA/SAOPB KW-BG
-'however,': HOUF KW-BG
+'together.': TOGT/TP-PL
+'Soon,': KPA/SAOPB/KW-BG
+'however,': HOUF/KW-BG
 'they': THE
 'came': KAEUPL
 'to': TO
 'a': AEU
 'little': HREUL
-'brook,': PWRAOBG KW-BG
+'brook,': PWRAOBG/KW-BG
 'and': SKP
 'as': AS
 'there': THR
@@ -282,7 +282,7 @@ The Straw, the Coal, and the Bean
 'no': TPHO
 'bridge': PWREUPBLG
 'or': OR
-'foot-plank,': TPAOT H-PB PHRA*PBG KW-BG
+'foot-plank,': TPAOT/H-PB/PHRA*PBG/KW-BG
 'they': THE
 'did': TK
 'not': TPHOT
@@ -293,22 +293,22 @@ The Straw, the Coal, and the Bean
 'to': TO
 'get': TKPWET
 'over': OEFR
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'straw': STRAU
 'hit': HEUT
 'on': OPB
 'a': AEU
 'good': TKPWAOD
-'idea,': KWR-D KW-BG
+'idea,': KWR-D/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'will': HR
 'lay': HRAEU
 'myself': PHAO*EUS
 'straight': STRAEUT
-'across,': KRAOS KW-BG
+'across,': KRAOS/KW-BG
 'and': SKP
 'then': THEPB
 'you': U
@@ -320,7 +320,7 @@ The Straw, the Coal, and the Bean
 'as': AS
 'on': OPB
 'a': AEU
-'bridge.'': PWREUPBLG TP-PL AE
+'bridge.'': PWREUPBLG/TP-PL/AE
 'The': KPA/-T
 'straw': STRAU
 'therefore': TH-FR
@@ -331,83 +331,83 @@ The Straw, the Coal, and the Bean
 'bank': PWA*PBG
 'to': TO
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'the': -T
-'coal,': KOEL KW-BG
+'coal,': KOEL/KW-BG
 'who': WHO
 'was': WAS
 'of': -F
 'an': APB
 'impetuous': EUPL/PET/WOUS
-'disposition,': TK*EUPGS KW-BG
+'disposition,': TK*EUPGS/KW-BG
 'tripped': TREUPD
 'quite': KWAOEUT
 'boldly': PWOLD/HREU
 'on': OPB
 'to': TO
 'the': -T
-'newly-built': TPHAOUL PW*EULT
-'bridge.': PWREUPBLG TP-PL
+'newly-built': TPHAOUL/PW*EULT
+'bridge.': PWREUPBLG/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'she': SHE
 'had': H
 'reached': RAOEFPD
 'the': -T
-'middle,': PH*EULD KW-BG
+'middle,': PH*EULD/KW-BG
 'and': SKP
 'heard': HAERD
 'the': -T
 'water': WAUR
 'rushing': RURBG
 'beneath': TPHAO*ET
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'she': SHE
 'was': WAS
 'after': AF
-'all,': AUL KW-BG
-'afraid,': A/TPRAEUD KW-BG
+'all,': AUL/KW-BG
+'afraid,': A/TPRAEUD/KW-BG
 'and': SKP
 'stood': STAOD
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'and': SKP
 'ventured': SRERPBTD
 'no': TPHO
-'farther.': TPA*RT TP-PL
+'farther.': TPA*RT/TP-PL
 'The': KPA/-T
-'straw,': STRAU KW-BG
-'however,': HOUF KW-BG
+'straw,': STRAU/KW-BG
+'however,': HOUF/KW-BG
 'began': TKPWAPB
 'to': TO
-'burn,': PWURPB KW-BG
+'burn,': PWURPB/KW-BG
 'broke': PWROEBG
 'in': TPH
 'two': TWO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'fell': TPEL
 'into': TPHAO
 'the': -T
-'stream.': STRAOEPL TP-PL
+'stream.': STRAOEPL/TP-PL
 'The': KPA/-T
 'coal': KOEL
 'slipped': SHREUPD
 'after': AF
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'hissed': HEUSZ/-D
 'when': WHEPB
 'she': SHE
 'got': TKPWOT
 'into': TPHAO
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'breathed': PWRAO*ETD
 'her': HER
-'last.': HRAFT TP-PL
+'last.': HRAFT/TP-PL
 'The': KPA/-T
-'bean,': PWAEPB KW-BG
+'bean,': PWAEPB/KW-BG
 'who': WHO
 'had': H
 'prudently': PRAOUPBT/HREU
@@ -415,25 +415,25 @@ The Straw, the Coal, and the Bean
 'behind': HEUPBD
 'on': OPB
 'the': -T
-'shore,': SHOR KW-BG
+'shore,': SHOR/KW-BG
 'could': KO
 'not': TPHOT
 'but': PWUT
 'laugh': HRAF
 'at': AT
 'the': -T
-'event,': EFPBT KW-BG
+'event,': EFPBT/KW-BG
 'was': WAS
 'unable': TPHA*EUBL
 'to': TO
-'stop,': STOP KW-BG
+'stop,': STOP/KW-BG
 'and': SKP
 'laughed': HRAFD
 'so': SO
 'heartily': HART/HREU
 'that': THA
 'she': SHE
-'burst.': PWUFRT TP-PL
+'burst.': PWUFRT/TP-PL
 'It': KPA/T
 'would': WO
 'have': SR
@@ -441,12 +441,12 @@ The Straw, the Coal, and the Bean
 'all': AUL
 'over': OEFR
 'with': W
-'her,': HER KW-BG
-'likewise,': HRAOEUBG/WAOEUS KW-BG
-'if,': TP KW-BG
+'her,': HER/KW-BG
+'likewise,': HRAOEUBG/WAOEUS/KW-BG
+'if,': TP/KW-BG
 'by': PWEU
 'good': TKPWAOD
-'fortune,': TP-RPB KW-BG
+'fortune,': TP-RPB/KW-BG
 'a': AEU
 'tailor': TAEURL
 'who': WHO
@@ -455,7 +455,7 @@ The Straw, the Coal, and the Bean
 'in': TPH
 'search': SEFRPB
 'of': -F
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'had': H
 'not': TPHOT
 'sat': SAT
@@ -464,7 +464,7 @@ The Straw, the Coal, and the Bean
 'rest': REFT
 'by': PWEU
 'the': -T
-'brook.': PWRAOBG TP-PL
+'brook.': PWRAOBG/TP-PL
 'As': KPA/AS
 'he': HE
 'had': H
@@ -477,24 +477,24 @@ The Straw, the Coal, and the Bean
 'his': HEUS
 'needle': TPHAO*ELD
 'and': SKP
-'thread,': THRED KW-BG
+'thread,': THRED/KW-BG
 'and': SKP
 'sewed': SWE/-D
 'her': HER
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'The': KPA/-T
 'bean': PWAEPB
 'thanked': THAPBGD
 'him': HEUPL
 'most': PHOFT
-'prettily,': PRET/HREU KW-BG
+'prettily,': PRET/HREU/KW-BG
 'but': PWUT
 'as': AS
 'the': -T
 'tailor': TAEURL
 'used': AOUFD
 'black': PWHRABG
-'thread,': THRED KW-BG
+'thread,': THRED/KW-BG
 'all': AUL
 'beans': PWAEPBS
 'since': SEUPBS
@@ -502,4 +502,4 @@ The Straw, the Coal, and the Bean
 'have': SR
 'a': AEU
 'black': PWHRABG
-'seam.': SAEPL TP-PL
+'seam.': SAEPL/TP-PL

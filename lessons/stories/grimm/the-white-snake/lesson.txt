@@ -17,12 +17,12 @@ The White Snake
 'through': THRU
 'all': AUL
 'the': -T
-'land.': HRAPBD TP-PL
+'land.': HRAPBD/TP-PL
 'Nothing': KPA/TPHOG
 'was': WAS
 'hidden': HEUD/EPB
 'from': TPR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'it': T
 'seemed': SAOEPLD
@@ -40,28 +40,28 @@ The White Snake
 'him': HEUPL
 'through': THRU
 'the': -T
-'air.': AEUR TP-PL
+'air.': AEUR/TP-PL
 'But': KPA/PWUT
 'he': HE
 'had': H
 'a': AEU
 'strange': STRAEUPBG
-'custom;': KUFPL STPH*FPLT
+'custom;': KUFPL/STPH*FPLT
 'every': EF
 'day': TKAEU
 'after': AF
-'dinner,': TKEURPB KW-BG
+'dinner,': TKEURPB/KW-BG
 'when': WHEPB
 'the': -T
 'table': TAEUBL
 'was': WAS
-'cleared,': KHRAOERD KW-BG
+'cleared,': KHRAOERD/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
 'else': ELS
 'was': WAS
-'present,': PREPBT KW-BG
+'present,': PREPBT/KW-BG
 'a': AEU
 'trusty': TRUS/TEU
 'servant': SEFRB/APBT
@@ -71,11 +71,11 @@ The White Snake
 'him': HEUPL
 'one': WUPB
 'more': PHOR
-'dish.': TKEURB TP-PL
+'dish.': TKEURB/TP-PL
 'It': KPA/T
 'was': WAS
-'covered,': KOFRD KW-BG
-'however,': HOUF KW-BG
+'covered,': KOFRD/KW-BG
+'however,': HOUF/KW-BG
 'and': SKP
 'even': AOEPB
 'the': -T
@@ -86,11 +86,11 @@ The White Snake
 'what': WHA
 'was': WAS
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'neither': TPHAOERT
 'did': TK
 'anyone': TPHEUPB
-'know,': TPHOE KW-BG
+'know,': TPHOE/KW-BG
 'for': TPOR
 'the': -T
 'king': KEUPBG
@@ -107,7 +107,7 @@ The White Snake
 'he': HE
 'was': WAS
 'quite': KWAOEUT
-'alone.': A/HROEPB TP-PL
+'alone.': A/HROEPB/TP-PL
 'This': KPA/TH
 'had': H
 'gone': TKPWOPB
@@ -115,17 +115,17 @@ The White Snake
 'for': TPOR
 'a': AEU
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'when': WHEPB
 'one': WUPB
 'day': TKAEU
 'the': -T
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'who': WHO
 'took': TAOBG
 'away': WA*EU
 'the': -T
-'dish,': TKEURB KW-BG
+'dish,': TKEURB/KW-BG
 'was': WAS
 'overcome': AUFR/KOPL
 'with': W
@@ -141,19 +141,19 @@ The White Snake
 'dish': TKEURB
 'into': TPHAO
 'his': HEUS
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'had': H
 'carefully': KA*EUFL
 'locked': HROBGD
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'he': HE
 'lifted': HREUFTD
 'up': UP
 'the': -T
-'cover,': KOFR KW-BG
+'cover,': KOFR/KW-BG
 'and': SKP
 'saw': SAU
 'a': AEU
@@ -162,7 +162,7 @@ The White Snake
 'lying': HRAOEUG
 'on': OPB
 'the': -T
-'dish.': TKEURB TP-PL
+'dish.': TKEURB/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -177,7 +177,7 @@ The White Snake
 'pleasure': PHRERB
 'of': -F
 'tasting': TAEUFT/-G
-'it,': T KW-BG
+'it,': T/KW-BG
 'so': SO
 'he': HE
 'cut': KUT
@@ -190,7 +190,7 @@ The White Snake
 'it': T
 'into': TPHAO
 'his': HEUS
-'mouth.': PHO*UT TP-PL
+'mouth.': PHO*UT/TP-PL
 'No': KPA/TPHO
 'sooner': SAORPB
 'had': H
@@ -209,11 +209,11 @@ The White Snake
 'voices': SROEUFS
 'outside': OUDZ
 'his': HEUS
-'window.': WOEUPBD TP-PL
+'window.': WOEUPBD/TP-PL
 'He': KPA/HE
 'went': WEPBT
 'and': SKP
-'listened,': HREUFPBD KW-BG
+'listened,': HREUFPBD/KW-BG
 'and': SKP
 'then': THEPB
 'noticed': TPH-TS/-D
@@ -225,7 +225,7 @@ The White Snake
 'who': WHO
 'were': WR
 'chattering': KHAERGT
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'telling': TELG
 'one': WUPB
@@ -243,7 +243,7 @@ The White Snake
 'the': -T
 'fields': TPAOELDZ
 'and': SKP
-'woods.': WAODZ TP-PL
+'woods.': WAODZ/TP-PL
 'Eating': KPA/AOEGT
 'the': -T
 'snake': STPHAEUBG
@@ -256,7 +256,7 @@ The White Snake
 'the': -T
 'language': HRAPBLG
 'of': -F
-'animals.': PHAPBLS TP-PL
+'animals.': PHAPBLS/TP-PL
 'Now': KPA/TPHOU
 'it': T
 'so': SO
@@ -272,7 +272,7 @@ The White Snake
 'her': HER
 'most': PHOFT
 'beautiful': PWAOUFL
-'ring,': REUPBG KW-BG
+'ring,': REUPBG/KW-BG
 'and': SKP
 'suspicion': SPEUGS
 'of': -F
@@ -283,13 +283,13 @@ The White Snake
 'upon': POPB
 'this': TH
 'trusty': TRUS/TEU
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'who': WHO
 'was': WAS
 'allowed': HRO*UD
 'to': TO
 'go': TKPW
-'everywhere.': WEFR TP-PL
+'everywhere.': WEFR/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'ordered': ORD/-D
@@ -299,7 +299,7 @@ The White Snake
 'be': -B
 'brought': PWRAUT
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'threatened': THREFPBD
 'with': W
@@ -315,7 +315,7 @@ The White Snake
 'point': POEUPBT
 'out': OUT
 'the': -T
-'thief,': THAOEF KW-BG
+'thief,': THAOEF/KW-BG
 'he': HE
 'himself': HEUPLS
 'should': SHO
@@ -325,20 +325,20 @@ The White Snake
 'as': AS
 'guilty': TKPW-LT
 'and': SKP
-'executed.': SKAOUTD TP-PL
+'executed.': SKAOUTD/TP-PL
 'In': KPA/TPH
 'vain': SRA*EUPB
 'he': HE
 'declared': TKE/KHRAEURD
 'his': HEUS
-'innocence;': TPHEPBS STPH*FPLT
+'innocence;': TPHEPBS/STPH*FPLT
 'he': HE
 'was': WAS
 'dismissed': TKEUS/PHEUS/-D
 'with': W
 'no': TPHO
 'better': PWOERT
-'answer.': AEPBS TP-PL
+'answer.': AEPBS/TP-PL
 'In': KPA/TPH
 'his': HEUS
 'trouble': TRUBL
@@ -360,7 +360,7 @@ The White Snake
 'out': OUT
 'of': -F
 'his': HEUS
-'trouble.': TRUBL TP-PL
+'trouble.': TRUBL/TP-PL
 'Now': KPA/TPHOU
 'some': SOPL
 'ducks': TKUBGZ
@@ -374,8 +374,8 @@ The White Snake
 'and': SKP
 'taking': TAEUG
 'their': THAEUR
-'rest;': REFT STPH*FPLT
-'and,': SKP KW-BG
+'rest;': REFT/STPH*FPLT
+'and,': SKP/KW-BG
 'whilst': WHAOEULS
 'they': THE
 'were': WR
@@ -385,20 +385,20 @@ The White Snake
 'smooth': SPHAO*T
 'with': W
 'their': THAEUR
-'bills,': PWEULS KW-BG
+'bills,': PWEULS/KW-BG
 'they': THE
 'were': WR
 'having': SR-G
 'a': AEU
 'confidential': K-FGS
 'conversation': K-FRGS
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'The': KPA/-T
 'servant': SEFRB/APBT
 'stood': STAOD
 'by': PWEU
 'and': SKP
-'listened.': HREUFPBD TP-PL
+'listened.': HREUFPBD/TP-PL
 'They': KPA/THE
 'were': WR
 'telling': TELG
@@ -416,27 +416,27 @@ The White Snake
 'about': PW
 'all': AUL
 'the': -T
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'and': SKP
 'what': WHA
 'good': TKPWAOD
 'food': TPAOD
 'they': THE
 'had': H
-'found;': TPOUPBD STPH*FPLT
+'found;': TPOUPBD/STPH*FPLT
 'and': SKP
 'one': WUPB
 'said': SED
 'in': TPH
 'a': AEU
 'pitiful': PEUT/-FL
-'tone:': TOEPB STPH-FPLT
-''Something': AE KPA/S-G
+'tone:': TOEPB/STPH-FPLT
+''Something': AE/KPA/S-G
 'lies': HRAO*EUS
 'heavy': HOEUF
 'on': OPB
 'my': PHEU
-'stomach;': STUPL STPH*FPLT
+'stomach;': STUPL/STPH*FPLT
 'as': AS
 'I': EU
 'was': WAS
@@ -451,8 +451,8 @@ The White Snake
 'lay': HRAEU
 'under': TPH-PB
 'the': -T
-'queen's': KWAOEPB AES
-'window.'': WOEUPBD TP-PL AE
+'queen's': KWAOEPB/AES
+'window.'': WOEUPBD/TP-PL/AE
 'The': KPA/-T
 'servant': SEFRB/APBT
 'at': AT
@@ -461,43 +461,43 @@ The White Snake
 'her': HER
 'by': PWEU
 'the': -T
-'neck,': TPHEBG KW-BG
+'neck,': TPHEBG/KW-BG
 'carried': KAERD
 'her': HER
 'to': TO
 'the': -T
-'kitchen,': K-FP KW-BG
+'kitchen,': K-FP/KW-BG
 'and': SKP
 'said': SED
 'to': TO
 'the': -T
-'cook:': KAOBG STPH-FPLT
-''Here': AE KPA/HAOER
+'cook:': KAOBG/STPH-FPLT
+''Here': AE/KPA/HAOER
 'is': S
 'a': AEU
 'fine': TPAOEUPB
-'duck;': TKUBG STPH*FPLT
-'pray,': PRAEU KW-BG
+'duck;': TKUBG/STPH*FPLT
+'pray,': PRAEU/KW-BG
 'kill': KEUL
-'her.'': HER TP-PL AE
-''Yes,'': AE KPA/KWRE KW-BG AE
+'her.'': HER/TP-PL/AE
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'said': SED
 'the': -T
-'cook,': KAOBG KW-BG
+'cook,': KAOBG/KW-BG
 'and': SKP
 'weighed': WA*ED
 'her': HER
 'in': TPH
 'his': HEUS
-'hand;': HAPBD STPH*FPLT
-''she': AE SHE
+'hand;': HAPBD/STPH*FPLT
+''she': AE/SHE
 'has': HAS
 'spared': SPAEURD
 'no': TPHO
 'trouble': TRUBL
 'to': TO
 'fatten': TPAT/-PB
-'herself,': H*ERS KW-BG
+'herself,': H*ERS/KW-BG
 'and': SKP
 'has': HAS
 'been': PW-PB
@@ -506,13 +506,13 @@ The White Snake
 'be': -B
 'roasted': ROEFT/-D
 'long': HROPBG
-'enough.'': TPHUF TP-PL AE
+'enough.'': TPHUF/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'cut': KUT
 'off': OF
 'her': HER
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -521,14 +521,14 @@ The White Snake
 'dressed': TKREFD
 'for': TPOR
 'the': -T
-'spit,': SPEUT KW-BG
+'spit,': SPEUT/KW-BG
 'the': -T
-'queen's': KWAOEPB AES
+'queen's': KWAOEPB/AES
 'ring': REUPBG
 'was': WAS
 'found': TPOUPBD
 'inside': TPH-DZ
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'The': KPA/-T
 'servant': SEFRB/APBT
 'could': KO
@@ -536,22 +536,22 @@ The White Snake
 'easily': AOELS
 'prove': PROF
 'his': HEUS
-'innocence;': TPHEPBS STPH*FPLT
+'innocence;': TPHEPBS/STPH*FPLT
 'and': SKP
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'to': TO
 'make': PHAEUBG
 'amends': APLDZ
 'for': TPOR
 'the': -T
-'wrong,': WROPBG KW-BG
+'wrong,': WROPBG/KW-BG
 'allowed': HRO*UD
 'him': HEUPL
 'to': TO
 'ask': SK
 'a': AEU
-'favour,': TPAEU/SROUR KW-BG
+'favour,': TPAEU/SROUR/KW-BG
 'and': SKP
 'promised': PROPLS/-D
 'him': HEUPL
@@ -565,11 +565,11 @@ The White Snake
 'he': HE
 'could': KO
 'wish': WEURB
-'for.': TPOR TP-PL
+'for.': TPOR/TP-PL
 'The': KPA/-T
 'servant': SEFRB/APBT
 'refused': RAO*UFD
-'everything,': EFRG KW-BG
+'everything,': EFRG/KW-BG
 'and': SKP
 'only': OEPBL
 'asked': SK-D
@@ -580,7 +580,7 @@ The White Snake
 'some': SOPL
 'money': PHUPB
 'for': TPOR
-'travelling,': TRAFL/HREUPBG KW-BG
+'travelling,': TRAFL/HREUPBG/KW-BG
 'as': AS
 'he': HE
 'had': H
@@ -594,7 +594,7 @@ The White Snake
 'go': TKPW
 'about': PW
 'a': AEU
-'little.': HREUL TP-PL
+'little.': HREUL/TP-PL
 'When': KPA/WHEPB
 'his': HEUS
 'request': KW
@@ -605,14 +605,14 @@ The White Snake
 'out': OUT
 'on': OPB
 'his': HEUS
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'one': WUPB
 'day': TKAEU
 'came': KAEUPL
 'to': TO
 'a': AEU
-'pond,': POPBD KW-BG
+'pond,': POPBD/KW-BG
 'where': W-R
 'he': HE
 'saw': SAU
@@ -625,8 +625,8 @@ The White Snake
 'and': SKP
 'gasping': TKPWAS/-PG
 'for': TPOR
-'water.': WAUR TP-PL
-'Now,': KPA/TPHOU KW-BG
+'water.': WAUR/TP-PL
+'Now,': KPA/TPHOU/KW-BG
 'though': THOE
 'it': T
 'is': S
@@ -634,7 +634,7 @@ The White Snake
 'that': THA
 'fishes': TPEURBS
 'are': R
-'dumb,': TKUPL KW-BG
+'dumb,': TKUPL/KW-BG
 'he': HE
 'heard': HAERD
 'them': THEPL
@@ -644,14 +644,14 @@ The White Snake
 'must': PHUFT
 'perish': PER/EURB
 'so': SO
-'miserably,': PHEUS/RAEBL KW-BG
-'and,': SKP KW-BG
+'miserably,': PHEUS/RAEBL/KW-BG
+'and,': SKP/KW-BG
 'as': AS
 'he': HE
 'had': H
 'a': AEU
 'kind': KEUPBD
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'he': HE
 'got': TKPWOT
 'off': OF
@@ -665,20 +665,20 @@ The White Snake
 'back': PWABG
 'into': TPHAO
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'They': KPA/THE
 'leapt': HREPT
 'with': W
-'delight,': TKHRAOEUT KW-BG
+'delight,': TKHRAOEUT/KW-BG
 'put': PUT
 'out': OUT
 'their': THAEUR
-'heads,': HEDZ KW-BG
+'heads,': HEDZ/KW-BG
 'and': SKP
 'cried': KRAOEUD
 'to': TO
-'him:': HEUPL STPH-FPLT
-''We': AE KPA/WE
+'him:': HEUPL/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'remember': RER
 'you': U
@@ -687,10 +687,10 @@ The White Snake
 'you': U
 'for': TPOR
 'saving': SAFG
-'us!'': US SKHRAPL AE
+'us!'': US/SKHRAPL/AE
 'He': KPA/HE
 'rode': ROED
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'after': AF
 'a': AEU
@@ -709,32 +709,32 @@ The White Snake
 'sand': SAPBD
 'at': AT
 'his': HEUS
-'feet.': TPAOET TP-PL
+'feet.': TPAOET/TP-PL
 'He': KPA/HE
-'listened,': HREUFPBD KW-BG
+'listened,': HREUFPBD/KW-BG
 'and': SKP
 'heard': HAERD
 'an': APB
-'ant-king': A*PBT H-PB KEUPBG
-'complain:': KPHRAEUPB STPH-FPLT
-''Why': AE KPA/KWR
+'ant-king': A*PBT/H-PB/KEUPBG
+'complain:': KPHRAEUPB/STPH-FPLT
+''Why': AE/KPA/KWR
 'cannot': SK-PBT
-'folks,': TPOBG KW-BG
+'folks,': TPOBG/KW-BG
 'with': W
 'their': THAEUR
 'clumsy': KHRUPL/SEU
-'beasts,': PWAOEFT/-S KW-BG
+'beasts,': PWAOEFT/-S/KW-BG
 'keep': KAOEP
 'off': OF
 'our': OUR
-'bodies?': PWO*EDZ H-F
+'bodies?': PWO*EDZ/H-F
 'That': KPA/THA
 'stupid': STAOUPD
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'with': W
 'his': HEUS
 'heavy': HOEUF
-'hoofs,': HAOF/*S KW-BG
+'hoofs,': HAOF/*S/KW-BG
 'has': HAS
 'been': PW-PB
 'treading': TRAOED/-G
@@ -742,7 +742,7 @@ The White Snake
 'my': PHEU
 'people': PAOEPL
 'without': WOUT
-'mercy!'': PHER/SEU SKHRAPL AE
+'mercy!'': PHER/SEU/SKHRAPL/AE
 'So': KPA/SO
 'he': HE
 'turned': TURPBD
@@ -753,26 +753,26 @@ The White Snake
 'path': PA*T
 'and': SKP
 'the': -T
-'ant-king': A*PBT H-PB KEUPBG
+'ant-king': A*PBT/H-PB/KEUPBG
 'cried': KRAOEUD
 'out': OUT
 'to': TO
-'him:': HEUPL STPH-FPLT
-''We': AE KPA/WE
+'him:': HEUPL/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'remember': RER
-'you--one': U H-PB H-PB WUPB
+'you--one': U/H-PB/H-PB/WUPB
 'good': TKPWAOD
 'turn': TURPB
 'deserves': TKEFRBS
-'another!'': TPHOER SKHRAPL AE
+'another!'': TPHOER/SKHRAPL/AE
 'The': KPA/-T
 'path': PA*T
 'led': HRED
 'him': HEUPL
 'into': TPHAO
 'a': AEU
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'there': THR
 'he': HE
@@ -783,39 +783,39 @@ The White Snake
 'standing': STAPBG
 'by': PWEU
 'their': THAEUR
-'nest,': TPHEFT KW-BG
+'nest,': TPHEFT/KW-BG
 'and': SKP
 'throwing': THROEG
 'out': OUT
 'their': THAEUR
 'young': KWRUPBG
-'ones.': WUPBZ TP-PL
-''Out': AE KPA/OUT
+'ones.': WUPBZ/TP-PL
+''Out': AE/KPA/OUT
 'with': W
-'you,': U KW-BG
+'you,': U/KW-BG
 'you': U
-'idle,': AOEUD/*L KW-BG
-'good-for-nothing': TKPWAOD H-PB TPOR H-PB TPHOG
-'creatures!'': KRAOEFPS SKHRAPL AE
+'idle,': AOEUD/*L/KW-BG
+'good-for-nothing': TKPWAOD/H-PB/TPOR/H-PB/TPHOG
+'creatures!'': KRAOEFPS/SKHRAPL/AE
 'cried': KRAOEUD
-'they;': THE STPH*FPLT
-''we': AE WE
+'they;': THE/STPH*FPLT
+''we': AE/WE
 'cannot': SK-PBT
 'find': TPAOEUPBD
 'food': TPAOD
 'for': TPOR
 'you': U
 'any': TPHEU
-'longer;': HRORPBG STPH*FPLT
+'longer;': HRORPBG/STPH*FPLT
 'you': U
 'are': R
 'big': PWEUG
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'and': SKP
 'can': K
 'provide': PROEFD
 'for': TPOR
-'yourselves.'': KWRO*URSZ TP-PL AE
+'yourselves.'': KWRO*URSZ/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'poor': PAOR
@@ -824,28 +824,28 @@ The White Snake
 'lay': HRAEU
 'upon': POPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'flapping': TPHRAPG
 'their': THAEUR
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'and': SKP
-'crying:': KRAOEUG STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'crying:': KRAOEUG/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'what': WHA
 'helpless': HEP/-LS
 'chicks': KHEUBGS
 'we': WE
-'are!': R SKHRAPL
+'are!': R/SKHRAPL
 'We': KPA/WE
 'must': PHUFT
 'shift': SHEUFT
 'for': TPOR
-'ourselves,': O*URSZ KW-BG
+'ourselves,': O*URSZ/KW-BG
 'and': SKP
 'yet': KWRET
 'we': WE
 'cannot': SK-PBT
-'fly!': TPHRAOEU SKHRAPL
+'fly!': TPHRAOEU/SKHRAPL
 'What': KPA/WHA
 'can': K
 'we': WE
@@ -854,7 +854,7 @@ The White Snake
 'lie': HRAOEU
 'here': HAOER
 'and': SKP
-'starve?'': STAFRB H-F AE
+'starve?'': STAFRB/H-F/AE
 'So': KPA/SO
 'the': -T
 'good': TKPWAOD
@@ -867,34 +867,34 @@ The White Snake
 'horse': HORS
 'with': W
 'his': HEUS
-'sword,': SOERD KW-BG
+'sword,': SOERD/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'it': T
 'to': TO
 'them': THEPL
 'for': TPOR
-'food.': TPAOD TP-PL
+'food.': TPAOD/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'came': KAEUPL
 'hopping': HOPG
 'up': UP
 'to': TO
-'it,': T KW-BG
+'it,': T/KW-BG
 'satisfied': SAED
 'their': THAEUR
-'hunger,': HURPBG KW-BG
+'hunger,': HURPBG/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''We': AE KPA/WE
+'cried:': KRAOEUD/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'remember': RER
-'you--one': U H-PB H-PB WUPB
+'you--one': U/H-PB/H-PB/WUPB
 'good': TKPWAOD
 'turn': TURPB
 'deserves': TKEFRBS
-'another!'': TPHOER SKHRAPL AE
+'another!'': TPHOER/SKHRAPL/AE
 'And': AFPBD
 'now': TPHOU
 'he': HE
@@ -903,7 +903,7 @@ The White Snake
 'use': AOUS
 'his': HEUS
 'own': OEPB
-'legs,': HREGS KW-BG
+'legs,': HREGS/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -911,13 +911,13 @@ The White Snake
 'walked': WAUBGD
 'a': AEU
 'long': HROPBG
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'he': HE
 'came': KAEUPL
 'to': TO
 'a': AEU
 'large': HRARPBLG
-'city.': STEU TP-PL
+'city.': STEU/TP-PL
 'There': KPA/THR
 'was': WAS
 'a': AEU
@@ -927,22 +927,22 @@ The White Snake
 'crowd': KROUD
 'in': TPH
 'the': -T
-'streets,': STRAOETS KW-BG
+'streets,': STRAOETS/KW-BG
 'and': SKP
 'a': AEU
 'man': PHAPB
 'rode': ROED
 'up': UP
 'on': OPB
-'horseback,': HORS/PWA*BG KW-BG
+'horseback,': HORS/PWA*BG/KW-BG
 'crying': KRAOEUG
-'aloud:': A/HROUD STPH-FPLT
-''The': AE KPA/-T
+'aloud:': A/HROUD/STPH-FPLT
+''The': AE/KPA/-T
 'king's': KEUPBG/AES
 'daughter': TKAUR
 'wants': WAPBTS
 'a': AEU
-'husband;': HUS STPH*FPLT
+'husband;': HUS/STPH*FPLT
 'but': PWUT
 'whoever': WHOFR
 'seeks': SAOEBGS
@@ -952,7 +952,7 @@ The White Snake
 'perform': PORPL
 'a': AEU
 'hard': HARD
-'task,': TAFBG KW-BG
+'task,': TAFBG/KW-BG
 'and': SKP
 'if': TP
 'he': HE
@@ -963,16 +963,16 @@ The White Snake
 'will': HR
 'forfeit': TPOR/TPET
 'his': HEUS
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'Many': KPA/PHAEPB
 'had': H
 'already': HR-R
 'made': PHAED
 'the': -T
-'attempt,': A/TEPLT KW-BG
+'attempt,': A/TEPLT/KW-BG
 'but': PWUT
 'in': TPH
-'vain;': SRA*EUPB STPH*FPLT
+'vain;': SRA*EUPB/STPH*FPLT
 'nevertheless': TPHEFRLS
 'when': WHEPB
 'the': -T
@@ -993,16 +993,16 @@ The White Snake
 'he': HE
 'forgot': TPAURGT
 'all': AUL
-'danger,': TKAEUPBLG KW-BG
+'danger,': TKAEUPBLG/KW-BG
 'went': WEPBT
 'before': PW-FR
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'declared': TKE/KHRAEURD
 'himself': HEUPLS
 'a': AEU
-'suitor.': SAOU/TOR TP-PL
+'suitor.': SAOU/TOR/TP-PL
 'So': KPA/SO
 'he': HE
 'was': WAS
@@ -1010,7 +1010,7 @@ The White Snake
 'out': OUT
 'to': TO
 'the': -T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'and': SKP
 'a': AEU
 'gold': TKPWOELD
@@ -1018,10 +1018,10 @@ The White Snake
 'was': WAS
 'thrown': THROEPB
 'into': TPHAO
-'it,': T KW-BG
+'it,': T/KW-BG
 'before': PW-FR
 'his': HEUS
-'eyes;': AO*EUS STPH*FPLT
+'eyes;': AO*EUS/STPH*FPLT
 'then': THEPB
 'the': -T
 'king': KEUPBG
@@ -1037,10 +1037,10 @@ The White Snake
 'bottom': PWOPLT
 'of': -F
 'the': -T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'and': SKP
-'added:': AD/-D STPH-FPLT
-''If': AE KPA/TP
+'added:': AD/-D/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'come': KOPL
 'up': UP
@@ -1060,7 +1060,7 @@ The White Snake
 'perish': PER/EURB
 'amid': A/PHEUD
 'the': -T
-'waves.'': WAFS TP-PL AE
+'waves.'': WAFS/TP-PL/AE
 'All': KPA/AUL
 'the': -T
 'people': PAOEPL
@@ -1068,17 +1068,17 @@ The White Snake
 'for': TPOR
 'the': -T
 'handsome': HAPBD/SO*PL
-'youth;': KWRAO*UT STPH*FPLT
+'youth;': KWRAO*UT/STPH*FPLT
 'then': THEPB
 'they': THE
 'went': WEPBT
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'leaving': HREFG
 'him': HEUPL
 'alone': A/HROEPB
 'by': PWEU
 'the': -T
-'sea.': SAE TP-PL
+'sea.': SAE/TP-PL
 'He': KPA/HE
 'stood': STAOD
 'on': OPB
@@ -1099,7 +1099,7 @@ The White Snake
 'come': KOPL
 'swimming': SWEUPLG
 'towards': TORDZ
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'they': THE
 'were': WR
@@ -1110,7 +1110,7 @@ The White Snake
 'lives': HREUFS
 'he': HE
 'had': H
-'saved.': SAFD TP-PL
+'saved.': SAFD/TP-PL
 'The': KPA/-T
 'one': WUPB
 'in': TPH
@@ -1121,7 +1121,7 @@ The White Snake
 'mussel': PHUS/EL
 'in': TPH
 'its': EUTS
-'mouth,': PHO*UT KW-BG
+'mouth,': PHO*UT/KW-BG
 'which': WEU
 'it': T
 'laid': HRAEUD
@@ -1130,8 +1130,8 @@ The White Snake
 'shore': SHOR
 'at': AT
 'the': -T
-'youth's': KWRAO*UT AES
-'feet,': TPAOET KW-BG
+'youth's': KWRAO*UT/AES
+'feet,': TPAOET/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -1141,7 +1141,7 @@ The White Snake
 'up': UP
 'and': SKP
 'opened': OEPD
-'it,': T KW-BG
+'it,': T/KW-BG
 'there': THR
 'lay': HRAEU
 'the': -T
@@ -1149,7 +1149,7 @@ The White Snake
 'ring': REUPBG
 'in': TPH
 'the': -T
-'shell.': SHEL TP-PL
+'shell.': SHEL/TP-PL
 'Full': KPA/TPUL
 'of': -F
 'joy': SKWROEU
@@ -1168,7 +1168,7 @@ The White Snake
 'him': HEUPL
 'the': -T
 'promised': PROPLS/-D
-'reward.': RE/WARD TP-PL
+'reward.': RE/WARD/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'the': -T
@@ -1182,10 +1182,10 @@ The White Snake
 'her': HER
 'equal': KWAL
 'in': TPH
-'birth,': PW*EURT KW-BG
+'birth,': PW*EURT/KW-BG
 'she': SHE
 'scorned': SKORPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'required': RAOEURD
 'him': HEUPL
@@ -1193,7 +1193,7 @@ The White Snake
 'to': TO
 'perform': PORPL
 'another': TPHOER
-'task.': TAFBG TP-PL
+'task.': TAFBG/TP-PL
 'She': KPA/SHE
 'went': WEPBT
 'down': TKOUPB
@@ -1209,14 +1209,14 @@ The White Snake
 'ten': TEPB
 'sacksful': SABG/-S/-FL
 'of': -F
-'millet-seed': PHEUL/ET H-PB SAOED
+'millet-seed': PHEUL/ET/H-PB/SAOED
 'on': OPB
 'the': -T
-'grass;': TKPWRAS STPH*FPLT
+'grass;': TKPWRAS/STPH*FPLT
 'then': THEPB
 'she': SHE
-'said:': SED STPH-FPLT
-''Tomorrow': AE KPA/TORPL
+'said:': SED/STPH-FPLT
+''Tomorrow': AE/KPA/TORPL
 'morning': PHORPBG
 'before': PW-FR
 'sunrise': SUPB/RAOEUS
@@ -1224,14 +1224,14 @@ The White Snake
 'must': PHUFT
 'be': -B
 'picked': PEUBGD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'not': TPHOT
 'a': AEU
 'single': SEUPBLG
 'grain': TKPWRAEUPB
 'be': -B
-'wanting.'': WAPBGT TP-PL AE
+'wanting.'': WAPBGT/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'sat': SAT
@@ -1249,13 +1249,13 @@ The White Snake
 'to': TO
 'perform': PORPL
 'this': TH
-'task,': TAFBG KW-BG
+'task,': TAFBG/KW-BG
 'but': PWUT
 'he': HE
 'could': KO
 'think': THEU
 'of': -F
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'and': SKP
 'there': THR
 'he': HE
@@ -1265,14 +1265,14 @@ The White Snake
 'the': -T
 'break': PWRAEBG
 'of': -F
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'when': WHEPB
 'he': HE
 'should': SHO
 'be': -B
 'led': HRED
 'to': TO
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'But': KPA/PWUT
 'as': AS
 'soon': SAOPB
@@ -1296,18 +1296,18 @@ The White Snake
 'standing': STAPBG
 'side': SAOEUD
 'by': PWEU
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'quite': KWAOEUT
-'full,': TPUL KW-BG
+'full,': TPUL/KW-BG
 'and': SKP
 'not': TPHOT
 'a': AEU
 'single': SEUPBLG
 'grain': TKPWRAEUPB
 'was': WAS
-'missing.': PHEUFG TP-PL
+'missing.': PHEUFG/TP-PL
 'The': KPA/-T
-'ant-king': A*PBT H-PB KEUPBG
+'ant-king': A*PBT/H-PB/KEUPBG
 'had': H
 'come': KOPL
 'in': TPH
@@ -1318,7 +1318,7 @@ The White Snake
 'and': SKP
 'thousands': THOUDZ
 'of': -F
-'ants,': A*PBT/-S KW-BG
+'ants,': A*PBT/-S/KW-BG
 'and': SKP
 'the': -T
 'grateful': TKPWRA*EUFL
@@ -1331,13 +1331,13 @@ The White Snake
 'up': UP
 'all': AUL
 'the': -T
-'millet-seed': PHEUL/ET H-PB SAOED
+'millet-seed': PHEUL/ET/H-PB/SAOED
 'and': SKP
 'gathered': TKPWAERD
 'them': THEPL
 'into': TPHAO
 'the': -T
-'sacks.': SABG/-S TP-PL
+'sacks.': SABG/-S/TP-PL
 'Presently': KPA/PREPBLT
 'the': -T
 'king's': KEUPBG/AES
@@ -1347,7 +1347,7 @@ The White Snake
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'and': SKP
 'was': WAS
 'amazed': A/PHAEUFD
@@ -1364,7 +1364,7 @@ The White Snake
 'she': SHE
 'had': H
 'given': TKPWEUFPB
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'could': KO
@@ -1373,16 +1373,16 @@ The White Snake
 'conquer': KAUPB/KER
 'her': HER
 'proud': PROUD
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Although': AE KPA/HR*T
+'said:': SED/STPH-FPLT
+''Although': AE/KPA/HR*T
 'he': HE
 'has': HAS
 'performed': PORPLD
 'both': PWO*T
 'the': -T
-'tasks,': TAFBGS KW-BG
+'tasks,': TAFBGS/KW-BG
 'he': HE
 'shall': SHAL
 'not': TPHOT
@@ -1400,7 +1400,7 @@ The White Snake
 'the': -T
 'Tree': KPA/TRAOE
 'of': -F
-'Life.'': KPA/HRAOEUF TP-PL AE
+'Life.'': KPA/HRAOEUF/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'did': TK
@@ -1411,18 +1411,18 @@ The White Snake
 'Tree': KPA/TRAOE
 'of': -F
 'Life': KPA/HRAOEUF
-'stood,': STAOD KW-BG
+'stood,': STAOD/KW-BG
 'but': PWUT
 'he': HE
 'set': SET
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'would': WO
 'have': SR
 'gone': TKPWOPB
 'on': OPB
 'for': TPOR
-'ever,': -FR KW-BG
+'ever,': -FR/KW-BG
 'as': AS
 'long': HROPBG
 'as': AS
@@ -1430,7 +1430,7 @@ The White Snake
 'legs': HREGS
 'would': WO
 'carry': KAER
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'though': THOE
 'he': HE
 'had': H
@@ -1438,21 +1438,21 @@ The White Snake
 'hope': HOEP
 'of': -F
 'finding': TPAOEUPBGD
-'it.': T TP-PL
+'it.': T/TP-PL
 'After': KPA/AF
 'he': HE
 'had': H
 'wandered': WAPBD/-D
 'through': THRU
 'three': THRAOE
-'kingdoms,': KEUPBG/TKOPL/-S KW-BG
+'kingdoms,': KEUPBG/TKOPL/-S/KW-BG
 'he': HE
 'came': KAEUPL
 'one': WUPB
 'evening': AOEPBG
 'to': TO
 'a': AEU
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'lay': HRAEU
 'down': TKOUPB
@@ -1460,7 +1460,7 @@ The White Snake
 'a': AEU
 'tree': TRAOE
 'to': TO
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'But': KPA/PWUT
 'he': HE
 'heard': HAERD
@@ -1468,7 +1468,7 @@ The White Snake
 'rustling': RUS/-LG
 'in': TPH
 'the': -T
-'branches,': PWRAFRPBS KW-BG
+'branches,': PWRAFRPBS/KW-BG
 'and': SKP
 'a': AEU
 'golden': TKPWOELD/*EPB
@@ -1476,7 +1476,7 @@ The White Snake
 'fell': TPEL
 'into': TPHAO
 'his': HEUS
-'hand.': HAPBD TP-PL
+'hand.': HAPBD/TP-PL
 'At': KPA/AT
 'the': -T
 'same': SAEUPL
@@ -1486,15 +1486,15 @@ The White Snake
 'flew': TPHRAOU
 'down': TKOUPB
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'perched': PEFRPBD
 'themselves': TH*EPLS
 'upon': POPB
 'his': HEUS
-'knee,': TPHAOE KW-BG
+'knee,': TPHAOE/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''We': AE KPA/WE
+'said:': SED/STPH-FPLT
+''We': AE/KPA/WE
 'are': R
 'the': -T
 'three': THRAOE
@@ -1504,12 +1504,12 @@ The White Snake
 'you': U
 'saved': SAFD
 'from': TPR
-'starving;': STAFRBG STPH*FPLT
+'starving;': STAFRBG/STPH*FPLT
 'when': WHEPB
 'we': WE
 'had': H
 'grown': TKPWROEPB
-'big,': PWEUG KW-BG
+'big,': PWEUG/KW-BG
 'and': SKP
 'heard': HAERD
 'that': THA
@@ -1518,7 +1518,7 @@ The White Snake
 'seeking': SAOEBG/-G
 'the': -T
 'Golden': KPA/TKPWOELD/*EPB
-'Apple,': A*PL/A*PL KW-BG
+'Apple,': A*PL/A*PL/KW-BG
 'we': WE
 'flew': TPHRAOU
 'over': OEFR
@@ -1529,27 +1529,27 @@ The White Snake
 'end': EPBD
 'of': -F
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'where': W-R
 'the': -T
 'Tree': KPA/TRAOE
 'of': -F
 'Life': KPA/HRAOEUF
-'stands,': STAPBDZ KW-BG
+'stands,': STAPBDZ/KW-BG
 'and': SKP
 'have': SR
 'brought': PWRAUT
 'you': U
 'the': -T
-'apple.'': A*EPL TP-PL AE
+'apple.'': A*EPL/TP-PL/AE
 'The': KPA/-T
-'youth,': KWRAO*UT KW-BG
+'youth,': KWRAO*UT/KW-BG
 'full': TPUL
 'of': -F
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'set': SET
 'out': OUT
-'homewards,': HOEPL/WARDZ KW-BG
+'homewards,': HOEPL/WARDZ/KW-BG
 'and': SKP
 'took': TAOBG
 'the': -T
@@ -1559,7 +1559,7 @@ The White Snake
 'the': -T
 'king's': KEUPBG/AES
 'beautiful': PWAOUFL
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'who': WHO
 'had': H
 'now': TPHOU
@@ -1568,7 +1568,7 @@ The White Snake
 'excuses': EBGS/KAOUS/-S
 'left': HREFT
 'to': TO
-'make.': PHAEUBG TP-PL
+'make.': PHAEUBG/TP-PL
 'They': KPA/THE
 'cut': KUT
 'the': -T
@@ -1580,7 +1580,7 @@ The White Snake
 'and': SKP
 'ate': AEUT
 'it': T
-'together;': TOGT STPH*FPLT
+'together;': TOGT/STPH*FPLT
 'and': SKP
 'then': THEPB
 'her': HER
@@ -1590,7 +1590,7 @@ The White Snake
 'of': -F
 'love': HRUF
 'for': TPOR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'they': THE
 'lived': HREUFD
@@ -1600,4 +1600,4 @@ The White Snake
 'to': TO
 'a': AEU
 'great': TKPWRAET
-'age.': AEUPBLG TP-PL
+'age.': AEUPBLG/TP-PL

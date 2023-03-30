@@ -5,7 +5,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'father': TPAER
 'had': H
 'two': TWO
-'sons,': SOPBS KW-BG
+'sons,': SOPBS/KW-BG
 'the': -T
 'elder': ELD/ER
 'of': -F
@@ -13,11 +13,11 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'was': WAS
 'smart': SPHART
 'and': SKP
-'sensible,': SEPBS/-BL KW-BG
+'sensible,': SEPBS/-BL/KW-BG
 'and': SKP
 'could': KO
 'do': TKO
-'everything,': EFRG KW-BG
+'everything,': EFRG/KW-BG
 'but': PWUT
 'the': -T
 'younger': KWRURPBG
@@ -29,15 +29,15 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'learn': HRERPB
 'nor': TPH-R
 'understand': URPBD
-'anything,': TPHEUG KW-BG
+'anything,': TPHEUG/KW-BG
 'and': SKP
 'when': WHEPB
 'people': PAOEPL
 'saw': SAU
 'him': HEUPL
 'they': THE
-'said:': SED STPH-FPLT
-''There's': AE KPA/THR AES
+'said:': SED/STPH-FPLT
+''There's': AE/KPA/THR/AES
 'a': AEU
 'fellow': TP*EL
 'who': WHO
@@ -46,13 +46,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'his': HEUS
 'father': TPAER
 'some': SOPL
-'trouble!'': TRUBL SKHRAPL AE
+'trouble!'': TRUBL/SKHRAPL/AE
 'When': KPA/WHEPB
 'anything': TPHEUG
 'had': H
 'to': TO
 'be': -B
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'it': T
 'was': WAS
 'always': AULS
@@ -63,7 +63,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'forced': TPOFRD
 'to': TO
 'do': TKO
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'but': PWUT
 'if': TP
 'his': HEUS
@@ -75,40 +75,40 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'when': WHEPB
 'it': T
 'was': WAS
-'late,': HRAEUT KW-BG
+'late,': HRAEUT/KW-BG
 'or': OR
 'in': TPH
 'the': -T
-'night-time,': TPHAOEUT H-PB TAOEUPL KW-BG
+'night-time,': TPHAOEUT/H-PB/TAOEUPL/KW-BG
 'and': SKP
 'the': -T
 'way': WAEU
 'led': HRED
 'through': THRU
 'the': -T
-'churchyard,': KH*URPBLG/KWRARD KW-BG
+'churchyard,': KH*URPBLG/KWRARD/KW-BG
 'or': OR
 'any': TPHEU
 'other': OER
 'dismal': TKEUS/PHAL
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'he': HE
-'answered:': AEPBS/-D STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'no': TPHO
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'I'll': AOEUL
 'not': TPHOT
 'go': TKPW
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'it': T
 'makes': PHAEUBGS
 'me': PHE
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'for': TPOR
 'he': HE
 'was': WAS
-'afraid.': A/TPRAEUD TP-PL
+'afraid.': A/TPRAEUD/TP-PL
 'Or': KPA/OR
 'when': WHEPB
 'stories': STOERS
@@ -123,16 +123,16 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'made': PHAED
 'the': -T
 'flesh': TPHRERB
-'creep,': KRAOEP KW-BG
+'creep,': KRAOEP/KW-BG
 'the': -T
 'listeners': HR-PB/ERS
 'sometimes': STAOEUPLS
-'said:': SED STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'said:': SED/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'it': T
 'makes': PHAEUBGS
 'us': US
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'The': KPA/-T
 'younger': KWRURPBG
 'sat': SAT
@@ -145,7 +145,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'the': -T
 'rest': REFT
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -153,29 +153,29 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'what': WHA
 'they': THE
 'could': KO
-'mean.': PHAOEPB TP-PL
-''They': AE KPA/THE
+'mean.': PHAOEPB/TP-PL
+''They': AE/KPA/THE
 'are': R
 'always': AULS
-'saying:': SAEUG STPH-FPLT
-'"It': KR-GS KPA/T
+'saying:': SAEUG/STPH-FPLT
+'"It': KR-GS/KPA/T
 'makes': PHAEUBGS
 'me': PHE
-'shudder,': SHUD/ER KW-BG
+'shudder,': SHUD/ER/KW-BG
 'it': T
 'makes': PHAEUBGS
 'me': PHE
-'shudder!"': SHUD/ER SKHRAPL KR-GS
+'shudder!"': SHUD/ER/SKHRAPL/KR-GS
 'It': KPA/T
 'does': TKOS
 'not': TPHOT
 'make': PHAEUBG
 'me': PHE
-'shudder,'': SHUD/ER KW-BG AE
+'shudder,'': SHUD/ER/KW-BG/AE
 'thought': THAUT
-'he.': HE TP-PL
-''That,': AE KPA/THA KW-BG
-'too,': TAO KW-BG
+'he.': HE/TP-PL
+''That,': AE/KPA/THA/KW-BG
+'too,': TAO/KW-BG
 'must': PHUFT
 'be': -B
 'an': APB
@@ -184,7 +184,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'which': WEU
 'I': EU
 'understand': URPBD
-'nothing!'': TPHOG SKHRAPL AE
+'nothing!'': TPHOG/SKHRAPL/AE
 'Now': KPA/TPHOU
 'it': T
 'came': KAEUPL
@@ -197,22 +197,22 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'him': HEUPL
 'one': WUPB
-'day:': TKAEU STPH-FPLT
-''Hearken': AE KPA/HARBG/*EPB
+'day:': TKAEU/STPH-FPLT
+''Hearken': AE/KPA/HARBG/*EPB
 'to': TO
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'you': U
 'fellow': TP*EL
 'in': TPH
 'the': -T
 'corner': KRORPB
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'you': U
 'are': R
 'growing': TKPWROEG
 'tall': TAUL
 'and': SKP
-'strong,': STROPBG KW-BG
+'strong,': STROPBG/KW-BG
 'and': SKP
 'you': U
 'too': TAO
@@ -225,12 +225,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'can': K
 'earn': ERPB
 'your': KWROUR
-'bread.': PWRAED TP-PL
+'bread.': PWRAED/TP-PL
 'Look': KPA/HRAOBG
 'how': HOU
 'your': KWROUR
 'brother': PWROER
-'works,': WORBGS KW-BG
+'works,': WORBGS/KW-BG
 'but': PWUT
 'you': U
 'do': TKO
@@ -238,24 +238,24 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'even': AOEPB
 'earn': ERPB
 'your': KWROUR
-'salt.'': SALT TP-PL AE
-''Well,': AE KPA/WEL KW-BG
-'father,'': TPAER KW-BG AE
+'salt.'': SALT/TP-PL/AE
+''Well,': AE/KPA/WEL/KW-BG
+'father,'': TPAER/KW-BG/AE
 'he': HE
-'replied,': RE/PHRAOEUD KW-BG
-''I': AE EU
+'replied,': RE/PHRAOEUD/KW-BG
+''I': AE/EU
 'am': APL
 'quite': KWAOEUT
 'willing': -LG
 'to': TO
 'learn': HRERPB
-'something--indeed,': S-G H-PB H-PB TPHAOEPBD KW-BG
+'something--indeed,': S-G/H-PB/H-PB/TPHAOEPBD/KW-BG
 'if': TP
 'it': T
 'could': KO
 'but': PWUT
 'be': -B
-'managed,': PHAPBGD KW-BG
+'managed,': PHAPBGD/KW-BG
 'I': EU
 'should': SHO
 'like': HRAOEUBG
@@ -263,14 +263,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'learn': HRERPB
 'how': HOU
 'to': TO
-'shudder.': SHUD/ER TP-PL
+'shudder.': SHUD/ER/TP-PL
 'I': EU
 'don't': TKOEPBT
 'understand': URPBD
 'that': THA
 'at': AT
 'all': AUL
-'yet.'': KWRET TP-PL AE
+'yet.'': KWRET/TP-PL/AE
 'The': KPA/-T
 'elder': ELD/ER
 'brother': PWROER
@@ -278,12 +278,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'when': WHEPB
 'he': HE
 'heard': HAERD
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'and': SKP
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''Goodness,': AE KPA/TKPWAOD/-PBS KW-BG
+'himself:': HEUPLS/STPH-FPLT
+''Goodness,': AE/KPA/TKPWAOD/-PBS/KW-BG
 'what': WHA
 'a': AEU
 'blockhead': xxx blockhead
@@ -291,7 +291,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'brother': PWROER
 'of': -F
 'mine': PHAOEUPB
-'is!': S SKHRAPL
+'is!': S/SKHRAPL
 'He': KPA/HE
 'will': HR
 'never': TPHEFR
@@ -303,7 +303,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'long': HROPBG
 'as': AS
 'he': HE
-'lives!': HREUFS SKHRAPL
+'lives!': HREUFS/SKHRAPL
 'He': KPA/HE
 'who': WHO
 'wants': WAPBTS
@@ -314,14 +314,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'must': PHUFT
 'bend': PWEPBD
 'himself': HEUPLS
-'betimes.'': PWE/TAOEUPLS TP-PL AE
+'betimes.'': PWE/TAOEUPLS/TP-PL/AE
 'The': KPA/-T
 'father': TPAER
-'sighed,': SAOEU/-D KW-BG
+'sighed,': SAOEU/-D/KW-BG
 'and': SKP
 'answered': AEPBS/-D
-'him:': HEUPL STPH-FPLT
-''You': AE KPA/U
+'him:': HEUPL/STPH-FPLT
+''You': AE/KPA/U
 'shall': SHAL
 'soon': SAOPB
 'learn': HRERPB
@@ -329,7 +329,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'is': S
 'to': TO
-'shudder,': SHUD/ER KW-BG
+'shudder,': SHUD/ER/KW-BG
 'but': PWUT
 'you': U
 'will': HR
@@ -338,7 +338,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'your': KWROUR
 'bread': PWRAED
 'by': PWEU
-'that.'': THA TP-PL AE
+'that.'': THA/TP-PL/AE
 'Soon': KPA/SAOPB
 'after': AF
 'this': TH
@@ -350,13 +350,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'house': HOUS
 'on': OPB
 'a': AEU
-'visit,': SREUFT KW-BG
+'visit,': SREUFT/KW-BG
 'and': SKP
 'the': -T
 'father': TPAER
 'bewailed': PWE/WAEUL/-D
 'his': HEUS
-'trouble,': TRUBL KW-BG
+'trouble,': TRUBL/KW-BG
 'and': SKP
 'told': TOLD
 'him': HEUPL
@@ -376,12 +376,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'nothing': TPHOG
 'and': SKP
 'learnt': HRERPBT
-'nothing.': TPHOG TP-PL
-''Just': AE KPA/SKWRUFT
-'think,'': THEU KW-BG AE
+'nothing.': TPHOG/TP-PL
+''Just': AE/KPA/SKWRUFT
+'think,'': THEU/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''when': AE WHEPB
+'he,': HE/KW-BG
+''when': AE/WHEPB
 'I': EU
 'asked': SK-D
 'him': HEUPL
@@ -392,54 +392,54 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'earn': ERPB
 'his': HEUS
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'he': HE
 'actually': TAOULT
 'wanted': WAPBTD
 'to': TO
 'learn': HRERPB
 'to': TO
-'shudder.'': SHUD/ER TP-PL AE
-''If': AE KPA/TP
+'shudder.'': SHUD/ER/TP-PL/AE
+''If': AE/KPA/TP
 'that': THA
 'be': -B
-'all,'': AUL KW-BG AE
+'all,'': AUL/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'sexton,': SEBGS/TO*PB KW-BG
-''he': AE HE
+'sexton,': SEBGS/TO*PB/KW-BG
+''he': AE/HE
 'can': K
 'learn': HRERPB
 'that': THA
 'with': W
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'Send': KPA/SEPBD
 'him': HEUPL
 'to': TO
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'soon': SAOPB
 'polish': POL/EURB
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'The': KPA/-T
 'father': TPAER
 'was': WAS
 'glad': TKPWHRAD
 'to': TO
 'do': TKO
-'it,': T KW-BG
+'it,': T/KW-BG
 'for': TPOR
 'he': HE
-'thought:': THAUT STPH-FPLT
-''It': AE KPA/T
+'thought:': THAUT/STPH-FPLT
+''It': AE/KPA/T
 'will': HR
 'train': TRAEUPB
 'the': -T
 'boy': PWOEU
 'a': AEU
-'little.'': HREUL TP-PL AE
+'little.'': HREUL/TP-PL/AE
 'The': KPA/-T
 'sexton': SEBGS/TO*PB
 'therefore': TH-FR
@@ -447,7 +447,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'him': HEUPL
 'into': TPHAO
 'his': HEUS
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'he': HE
 'had': H
@@ -455,18 +455,18 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'ring': REUPBG
 'the': -T
 'church': KHUFRPB
-'bell.': PWEL TP-PL
+'bell.': PWEL/TP-PL
 'After': KPA/AF
 'a': AEU
 'day': TKAEU
 'or': OR
-'two,': TWO KW-BG
+'two,': TWO/KW-BG
 'the': -T
 'sexton': SEBGS/TO*PB
 'awoke': A/WOEBG
 'him': HEUPL
 'at': AT
-'midnight,': PHAOEUPBT KW-BG
+'midnight,': PHAOEUPBT/KW-BG
 'and': SKP
 'bade': PWAEUD
 'him': HEUPL
@@ -481,22 +481,22 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'ring': REUPBG
 'the': -T
-'bell.': PWEL TP-PL
-''You': AE KPA/U
+'bell.': PWEL/TP-PL
+''You': AE/KPA/U
 'shall': SHAL
 'soon': SAOPB
 'learn': HRERPB
 'what': WHA
 'shuddering': SHUD/ERG
-'is,'': S KW-BG AE
+'is,'': S/KW-BG/AE
 'thought': THAUT
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'and': SKP
 'secretly': SKRELT
 'went': WEPBT
 'there': THR
 'before': PW-FR
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -510,7 +510,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'tower': TOUR
 'and': SKP
 'turned': TURPBD
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'and': SKP
 'was': WAS
 'just': SKWRUFT
@@ -521,7 +521,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'of': -F
 'the': -T
 'bell': PWEL
-'rope,': ROEP KW-BG
+'rope,': ROEP/KW-BG
 'he': HE
 'saw': SAU
 'a': AEU
@@ -534,44 +534,44 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'opposite': OP/SEUT
 'the': -T
 'sounding': SOUPBD/-G
-'hole.': HOEL TP-PL
-''Who': AE KPA/WHO
+'hole.': HOEL/TP-PL
+''Who': AE/KPA/WHO
 'is': S
-'there?'': THR H-F AE
+'there?'': THR/H-F/AE
 'cried': KRAOEUD
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'but': PWUT
 'the': -T
 'figure': TPEUG
 'made': PHAED
 'no': TPHO
-'reply,': RE/PHRAOEU KW-BG
+'reply,': RE/PHRAOEU/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
 'move': PHOF
 'or': OR
-'stir.': STEUR TP-PL
-''Give': AE KPA/TKPWEUF
+'stir.': STEUR/TP-PL
+''Give': AE/KPA/TKPWEUF
 'an': APB
-'answer,'': AEPBS KW-BG AE
+'answer,'': AEPBS/KW-BG/AE
 'cried': KRAOEUD
 'the': -T
-'boy,': PWOEU KW-BG
-''or': AE OR
+'boy,': PWOEU/KW-BG
+''or': AE/OR
 'take': TAEUBG
 'yourself': KWRO*URS
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'you': U
 'have': SR
 'no': TPHO
 'business': PWEUS
 'here': HAOER
 'at': AT
-'night.'': TPHAOEUT TP-PL AE
+'night.'': TPHAOEUT/TP-PL/AE
 'The': KPA/-T
-'sexton,': SEBGS/TO*PB KW-BG
-'however,': HOUF KW-BG
+'sexton,': SEBGS/TO*PB/KW-BG
+'however,': HOUF/KW-BG
 'remained': RE/PHAEUPBD
 'standing': STAPBG
 'motionless': PHOEGS/-LS
@@ -583,24 +583,24 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'he': HE
 'was': WAS
 'a': AEU
-'ghost.': TKPWOEFT TP-PL
+'ghost.': TKPWOEFT/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'cried': KRAOEUD
 'a': AEU
 'second': SEBGD
-'time:': TAOEUPL STPH-FPLT
-''What': AE KPA/WHA
+'time:': TAOEUPL/STPH-FPLT
+''What': AE/KPA/WHA
 'do': TKO
 'you': U
 'want': WAPBT
-'here?--speak': HAOER H-F H-PB H-PB SPAOEBG
+'here?--speak': HAOER/H-F/H-PB/H-PB/SPAOEBG
 'if': TP
 'you': U
 'are': R
 'an': APB
 'honest': HOPBS
-'fellow,': TP*EL KW-BG
+'fellow,': TP*EL/KW-BG
 'or': OR
 'I': EU
 'will': HR
@@ -608,11 +608,11 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'you': U
 'down': TKOUPB
 'the': -T
-'steps!'': STEPS SKHRAPL AE
+'steps!'': STEPS/SKHRAPL/AE
 'The': KPA/-T
 'sexton': SEBGS/TO*PB
-'thought:': THAUT STPH-FPLT
-''He': AE KPA/HE
+'thought:': THAUT/STPH-FPLT
+''He': AE/KPA/HE
 'can't': K-PBT
 'mean': PHAOEPB
 'to': TO
@@ -621,7 +621,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'bad': PWAD
 'as': AS
 'his': HEUS
-'words,'': WORDZ KW-BG AE
+'words,'': WORDZ/KW-BG/AE
 'uttered': UT/ERD
 'no': TPHO
 'sound': SOUPBD
@@ -633,7 +633,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'were': WR
 'made': PHAED
 'of': -F
-'stone.': STOEPB TP-PL
+'stone.': STOEPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'boy': PWOEU
@@ -643,7 +643,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'for': TPOR
 'the': -T
 'third': THEURD
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'as': AS
 'that': THA
@@ -651,7 +651,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'also': HR-S
 'to': TO
 'no': TPHO
-'purpose,': PURP KW-BG
+'purpose,': PURP/KW-BG
 'he': HE
 'ran': RAPB
 'against': TKPWEPBS
@@ -662,7 +662,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'ghost': TKPWOEFT
 'down': TKOUPB
 'the': -T
-'stairs,': STAEURS KW-BG
+'stairs,': STAEURS/KW-BG
 'so': SO
 'that': THA
 'it': T
@@ -677,14 +677,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'there': THR
 'in': TPH
 'a': AEU
-'corner.': KRORPB TP-PL
+'corner.': KRORPB/TP-PL
 'Thereupon': KPA/THRUP
 'he': HE
 'rang': RAPBG
 'the': -T
-'bell,': PWEL KW-BG
+'bell,': PWEL/KW-BG
 'went': WEPBT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'without': WOUT
 'saying': SAEUG
@@ -692,12 +692,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'word': WORD
 'went': WEPBT
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'The': KPA/-T
-'sexton's': SEBGS/TO*PB AES
+'sexton's': SEBGS/TO*PB/AES
 'wife': WAOEUF
 'waited': WAEUTD
 'a': AEU
@@ -705,31 +705,31 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'time': TAOEUPL
 'for': TPOR
 'her': HER
-'husband,': HUS KW-BG
+'husband,': HUS/KW-BG
 'but': PWUT
 'he': HE
 'did': TK
 'not': TPHOT
 'come': KOPL
-'back.': PWABG TP-PL
+'back.': PWABG/TP-PL
 'At': KPA/AT
 'length': HREPBG
 'she': SHE
 'became': PWAEUPL
-'uneasy,': UPB/EZ KW-BG
+'uneasy,': UPB/EZ/KW-BG
 'and': SKP
 'wakened': WAEUBG/-PBD
 'the': -T
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'and': SKP
-'asked:': SK-D STPH-FPLT
-''Do': AE KPA/TKO
+'asked:': SK-D/STPH-FPLT
+''Do': AE/KPA/TKO
 'you': U
 'know': TPHOE
 'where': W-R
 'my': PHEU
 'husband': HUS
-'is?': S H-F
+'is?': S/H-F
 'He': KPA/HE
 'climbed': KHRAOEUPLD
 'up': UP
@@ -737,15 +737,15 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'tower': TOUR
 'before': PW-FR
 'you': U
-'did.'': TK TP-PL AE
-''No,': AE KPA/TPHO KW-BG
+'did.'': TK/TP-PL/AE
+''No,': AE/KPA/TPHO/KW-BG
 'I': EU
 'don't': TKOEPBT
-'know,'': TPHOE KW-BG AE
+'know,'': TPHOE/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'boy,': PWOEU KW-BG
-''but': AE PWUT
+'boy,': PWOEU/KW-BG
+''but': AE/PWUT
 'someone': SPH-PB
 'was': WAS
 'standing': STAPBG
@@ -759,7 +759,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'side': SAOEUD
 'of': -F
 'the': -T
-'steps,': STEPS KW-BG
+'steps,': STEPS/KW-BG
 'and': SKP
 'as': AS
 'he': HE
@@ -770,17 +770,17 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'answer': AEPBS
 'nor': TPH-R
 'go': TKPW
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'I': EU
 'took': TAOBG
 'him': HEUPL
 'for': TPOR
 'a': AEU
-'scoundrel,': SKOUPBD/REL KW-BG
+'scoundrel,': SKOUPBD/REL/KW-BG
 'and': SKP
 'threw': THRAOU
 'him': HEUPL
-'downstairs.': TKOUPB/STAEURS TP-PL
+'downstairs.': TKOUPB/STAEURS/TP-PL
 'Just': KPA/SKWRUFT
 'go': TKPW
 'there': THR
@@ -791,14 +791,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'if': TP
 'it': T
 'was': WAS
-'he.': HE TP-PL
+'he.': HE/TP-PL
 'I': EU
 'should': SHO
 'be': -B
 'sorry': SOER
 'if': TP
 'it': T
-'were.'': WR TP-PL AE
+'were.'': WR/TP-PL/AE
 'The': KPA/-T
 'woman': WOPL
 'ran': RAPB
@@ -806,23 +806,23 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'found': TPOUPBD
 'her': HER
-'husband,': HUS KW-BG
+'husband,': HUS/KW-BG
 'who': WHO
 'was': WAS
 'lying': HRAOEUG
 'moaning': PHOEPBG
 'in': TPH
 'the': -T
-'corner,': KRORPB KW-BG
+'corner,': KRORPB/KW-BG
 'and': SKP
 'had': H
 'broken': PWROEPB
 'his': HEUS
-'leg.': HREG TP-PL
+'leg.': HREG/TP-PL
 'She': KPA/SHE
 'carried': KAERD
 'him': HEUPL
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'then': THEPB
 'with': W
@@ -832,20 +832,20 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'hastened': HAEUS/-PBD
 'to': TO
 'the': -T
-'boy's': PWOEU AES
-'father,': TPAER KW-BG
-''Your': AE KPA/KWROUR
-'boy,'': PWOEU KW-BG AE
+'boy's': PWOEU/AES
+'father,': TPAER/KW-BG
+''Your': AE/KPA/KWROUR
+'boy,'': PWOEU/KW-BG/AE
 'cried': KRAOEUD
-'she,': SHE KW-BG
-''has': AE HAS
+'she,': SHE/KW-BG
+''has': AE/HAS
 'been': PW-PB
 'the': -T
 'cause': KAUS
 'of': -F
 'a': AEU
 'great': TKPWRAET
-'misfortune!': PHEUZ/TP-RPB SKHRAPL
+'misfortune!': PHEUZ/TP-RPB/SKHRAPL
 'He': KPA/HE
 'has': HAS
 'thrown': THROEPB
@@ -859,34 +859,34 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'he': HE
 'broke': PWROEBG
 'his': HEUS
-'leg.': HREG TP-PL
+'leg.': HREG/TP-PL
 'Take': KPA/TAEUBG
 'the': -T
-'good-for-nothing': TKPWAOD H-PB TPOR H-PB TPHOG
+'good-for-nothing': TKPWAOD/H-PB/TPOR/H-PB/TPHOG
 'fellow': TP*EL
 'out': OUT
 'of': -F
 'our': OUR
-'house.'': HOUS TP-PL AE
+'house.'': HOUS/TP-PL/AE
 'The': KPA/-T
 'father': TPAER
 'was': WAS
-'terrified,': TER/TPAOEUD KW-BG
+'terrified,': TER/TPAOEUD/KW-BG
 'and': SKP
 'ran': RAPB
 'thither': TH*EURT
 'and': SKP
 'scolded': SKOLD/-D
 'the': -T
-'boy.': PWOEU TP-PL
-''What': AE KPA/WHA
+'boy.': PWOEU/TP-PL
+''What': AE/KPA/WHA
 'wicked': WEUBGD
 'tricks': TREUBGS
 'are': R
-'these?'': THEZ H-F AE
+'these?'': THEZ/H-F/AE
 'said': SED
-'he.': HE TP-PL
-''The': AE KPA/-T
+'he.': HE/TP-PL
+''The': AE/KPA/-T
 'devil': TKEFL
 'must': PHUFT
 'have': SR
@@ -894,18 +894,18 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'them': THEPL
 'into': TPHAO
 'your': KWROUR
-'head.'': HED TP-PL AE
-''Father,'': AE KPA/TPAER KW-BG AE
+'head.'': HED/TP-PL/AE
+''Father,'': AE/KPA/TPAER/KW-BG/AE
 'he': HE
-'replied,': RE/PHRAOEUD KW-BG
-''do': AE TKO
+'replied,': RE/PHRAOEUD/KW-BG
+''do': AE/TKO
 'listen': HREUFPB
 'to': TO
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'I': EU
 'am': APL
 'quite': KWAOEUT
-'innocent.': TPH-PBT TP-PL
+'innocent.': TPH-PBT/TP-PL
 'He': KPA/HE
 'was': WAS
 'standing': STAPBG
@@ -917,14 +917,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'intent': SPWEPBT
 'on': OPB
 'doing': TK*G
-'evil.': AOEFL TP-PL
+'evil.': AOEFL/TP-PL
 'I': EU
 'did': TK
 'not': TPHOT
 'know': TPHOE
 'who': WHO
 'it': T
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'and': SKP
 'I': EU
 'entreated': SPWRAOET/-D
@@ -937,39 +937,39 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'or': OR
 'to': TO
 'go': TKPW
-'away.'': WA*EU TP-PL AE
-''Ah,'': AE KPA/HA*E KW-BG AE
+'away.'': WA*EU/TP-PL/AE
+''Ah,'': AE/KPA/HA*E/KW-BG/AE
 'said': SED
 'the': -T
-'father,': TPAER KW-BG
-''I': AE EU
+'father,': TPAER/KW-BG
+''I': AE/EU
 'have': SR
 'nothing': TPHOG
 'but': PWUT
 'unhappiness': UPB/HAEP/-PBS
 'with': W
-'you.': U TP-PL
+'you.': U/TP-PL
 'Go': KPA/TKPW
 'out': OUT
 'of': -F
 'my': PHEU
-'sight.': SAOEUT TP-PL
+'sight.': SAOEUT/TP-PL
 'I': EU
 'will': HR
 'see': SAOE
 'you': U
 'no': TPHO
-'more.'': PHOR TP-PL AE
-''Yes,': AE KPA/KWRE KW-BG
-'father,': TPAER KW-BG
+'more.'': PHOR/TP-PL/AE
+''Yes,': AE/KPA/KWRE/KW-BG
+'father,': TPAER/KW-BG
 'right': RAOEUT
-'willingly,': HR-G/HREU KW-BG
+'willingly,': HR-G/HREU/KW-BG
 'wait': WAEUT
 'only': OEPBL
 'until': TPH-L
 'it': T
 'is': S
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'Then': KPA/THEPB
 'will': HR
 'I': EU
@@ -979,41 +979,41 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'learn': HRERPB
 'how': HOU
 'to': TO
-'shudder,': SHUD/ER KW-BG
+'shudder,': SHUD/ER/KW-BG
 'and': SKP
 'then': THEPB
 'I': EU
-'shall,': SHAL KW-BG
+'shall,': SHAL/KW-BG
 'at': AT
 'any': TPHEU
-'rate,': RAEUT KW-BG
+'rate,': RAEUT/KW-BG
 'understand': URPBD
 'one': WUPB
 'art': ART
 'which': WEU
 'will': HR
 'support': SPOR
-'me.'': PHE TP-PL AE
-''Learn': AE KPA/HRERPB
+'me.'': PHE/TP-PL/AE
+''Learn': AE/KPA/HRERPB
 'what': WHA
 'you': U
-'will,'': HR KW-BG AE
+'will,'': HR/KW-BG/AE
 'spoke': SPOEBG
 'the': -T
-'father,': TPAER KW-BG
-''it': AE T
+'father,': TPAER/KW-BG
+''it': AE/T
 'is': S
 'all': AUL
 'the': -T
 'same': SAEUPL
 'to': TO
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'Here': KPA/HAOER
 'are': R
 'fifty': TPAEFT
 'talers': xxx talers
 'for': TPOR
-'you.': U TP-PL
+'you.': U/TP-PL
 'Take': KPA/TAEUBG
 'these': THEZ
 'and': SKP
@@ -1021,7 +1021,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'and': SKP
 'tell': TEL
 'no': TPHO
@@ -1029,12 +1029,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'from': TPR
 'whence': WHEPBS
 'you': U
-'come,': KOPL KW-BG
+'come,': KOPL/KW-BG
 'and': SKP
 'who': WHO
 'is': S
 'your': KWROUR
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'for': TPOR
 'I': EU
 'have': SR
@@ -1043,34 +1043,34 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'be': -B
 'ashamed': A/SHAEUPLD
 'of': -F
-'you.'': U TP-PL AE
-''Yes,': AE KPA/KWRE KW-BG
-'father,': TPAER KW-BG
+'you.'': U/TP-PL/AE
+''Yes,': AE/KPA/KWRE/KW-BG
+'father,': TPAER/KW-BG
 'it': T
 'shall': SHAL
 'be': -B
 'as': AS
 'you': U
-'will.': HR TP-PL
+'will.': HR/TP-PL
 'If': KPA/TP
 'you': U
 'desire': STKAOEUR
 'nothing': TPHOG
 'more': PHOR
 'than': THAPB
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'I': EU
 'can': K
 'easily': AOELS
 'keep': KAOEP
 'it': T
 'in': TPH
-'mind.'': PHAOEUPBD TP-PL AE
+'mind.'': PHAOEUPBD/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'day': TKAEU
-'dawned,': TKAUPBD KW-BG
-'therefore,': TH-FR KW-BG
+'dawned,': TKAUPBD/KW-BG
+'therefore,': TH-FR/KW-BG
 'the': -T
 'boy': PWOEU
 'put': PUT
@@ -1079,29 +1079,29 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'talers': xxx talers
 'into': TPHAO
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'went': WEPBT
 'forth': TPO*RT
 'on': OPB
 'the': -T
 'great': TKPWRAET
-'highway,': HAOEU/WAEU KW-BG
+'highway,': HAOEU/WAEU/KW-BG
 'and': SKP
 'continually': TAEPBL
 'said': SED
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''If': AE KPA/TP
+'himself:': HEUPLS/STPH-FPLT
+''If': AE/KPA/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!': SHUD/ER SKHRAPL
+'shudder!': SHUD/ER/SKHRAPL
 'If': KPA/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'Then': KPA/THEPB
 'a': AEU
 'man': PHAPB
@@ -1116,7 +1116,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'was': WAS
 'holding': HOELGD
 'with': W
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -1131,13 +1131,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'could': KO
 'see': SAOE
 'the': -T
-'gallows,': TKPWAL/HROE/-S KW-BG
+'gallows,': TKPWAL/HROE/-S/KW-BG
 'the': -T
 'man': PHAPB
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''Look,': AE KPA/HRAOBG KW-BG
+'him:': HEUPL/STPH-FPLT
+''Look,': AE/KPA/HRAOBG/KW-BG
 'there': THR
 'is': S
 'the': -T
@@ -1148,24 +1148,24 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'have': SR
 'married': PHAERD
 'the': -T
-'ropemaker's': xxx ropemaker AES
-'daughter,': TKAUR KW-BG
+'ropemaker's': xxx ropemaker/AES
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'are': R
 'now': TPHOU
 'learning': HRERPBG
 'how': HOU
 'to': TO
-'fly.': TPHRAOEU TP-PL
+'fly.': TPHRAOEU/TP-PL
 'Sit': KPA/SEUT
 'down': TKOUPB
 'beneath': TPHAO*ET
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'wait': WAEUT
 'till': TEUL
 'night': TPHAOEUT
-'comes,': KOPLS KW-BG
+'comes,': KOPLS/KW-BG
 'and': SKP
 'you': U
 'will': HR
@@ -1173,21 +1173,21 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'learn': HRERPB
 'how': HOU
 'to': TO
-'shudder.'': SHUD/ER TP-PL AE
-''If': AE KPA/TP
+'shudder.'': SHUD/ER/TP-PL/AE
+''If': AE/KPA/TP
 'that': THA
 'is': S
 'all': AUL
 'that': THA
 'is': S
-'wanted,'': WAPBTD KW-BG AE
+'wanted,'': WAPBTD/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'youth,': KWRAO*UT KW-BG
-''it': AE T
+'youth,': KWRAO*UT/KW-BG
+''it': AE/T
 'is': S
 'easily': AOELS
-'done;': TKOPB STPH*FPLT
+'done;': TKOPB/STPH*FPLT
 'but': PWUT
 'if': TP
 'I': EU
@@ -1198,13 +1198,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'as': AS
 'fast': TPAFT
 'as': AS
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'you': U
 'shall': SHAL
 'have': SR
 'my': PHEU
 'fifty': TPAEFT
-'talers.': xxx talers TP-PL
+'talers.': xxx talers/TP-PL
 'Just': KPA/SKWRUFT
 'come': KOPL
 'back': PWABG
@@ -1213,33 +1213,33 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'early': ERL
 'in': TPH
 'the': -T
-'morning.'': PHORPBG TP-PL AE
+'morning.'': PHORPBG/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'youth': KWRAO*UT
 'went': WEPBT
 'to': TO
 'the': -T
-'gallows,': TKPWAL/HROE/-S KW-BG
+'gallows,': TKPWAL/HROE/-S/KW-BG
 'sat': SAT
 'down': TKOUPB
 'beneath': TPHAO*ET
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'waited': WAEUTD
 'till': TEUL
 'evening': AOEPBG
-'came.': KAEUPL TP-PL
+'came.': KAEUPL/TP-PL
 'And': AFPBD
 'as': AS
 'he': HE
 'was': WAS
-'cold,': KOELD KW-BG
+'cold,': KOELD/KW-BG
 'he': HE
 'lighted': HRAOEUTD
 'himself': HEUPLS
 'a': AEU
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'but': PWUT
 'at': AT
 'midnight': PHAOEUPBT
@@ -1253,12 +1253,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'spite': SPAOEUT
 'of': -F
 'his': HEUS
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'he': HE
 'could': KO
 'not': TPHOT
 'get': TKPWET
-'warm.': WARPL TP-PL
+'warm.': WARPL/TP-PL
 'And': AFPBD
 'as': AS
 'the': -T
@@ -1269,24 +1269,24 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'men': PHEPB
 'against': TKPWEPBS
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'they': THE
 'moved': PHOFD
 'backwards': PWABG/WARDZ
 'and': SKP
-'forwards,': TPAORDZ KW-BG
+'forwards,': TPAORDZ/KW-BG
 'he': HE
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''If': AE KPA/TP
+'himself:': HEUPLS/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'shiver': SHEUFR
 'below': PWHRO
 'by': PWEU
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'how': HOU
 'those': THOZ
 'up': UP
@@ -1294,40 +1294,40 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'must': PHUFT
 'freeze': TPRAOEZ
 'and': SKP
-'suffer!'': SUFR SKHRAPL AE
+'suffer!'': SUFR/SKHRAPL/AE
 'And': AFPBD
 'as': AS
 'he': HE
 'felt': TPELT
 'pity': PEUT/TEU
 'for': TPOR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'he': HE
 'raised': RA*EUFD
 'the': -T
-'ladder,': HRAERD KW-BG
+'ladder,': HRAERD/KW-BG
 'and': SKP
 'climbed': KHRAOEUPLD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'unbound': UPB/PWOUPBD
 'one': WUPB
 'of': -F
 'them': THEPL
 'after': AF
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'brought': PWRAUT
 'down': TKOUPB
 'all': AUL
-'seven.': SEFPB TP-PL
+'seven.': SEFPB/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'stoked': STOEBG/-D
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'blew': PWHRAOU
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'set': SET
 'them': THEPL
@@ -1336,7 +1336,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'to': TO
 'warm': WARPL
-'themselves.': TH*EPLS TP-PL
+'themselves.': TH*EPLS/TP-PL
 'But': KPA/PWUT
 'they': THE
 'sat': SAT
@@ -1344,67 +1344,67 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'did': TK
 'not': TPHOT
-'stir,': STEUR KW-BG
+'stir,': STEUR/KW-BG
 'and': SKP
 'the': -T
 'fire': TPAOEUR
 'caught': KAUT
 'their': THAEUR
-'clothes.': KHRO*ETS TP-PL
+'clothes.': KHRO*ETS/TP-PL
 'So': KPA/SO
 'he': HE
-'said:': SED STPH-FPLT
-''Take': AE KPA/TAEUBG
-'care,': KAEUR KW-BG
+'said:': SED/STPH-FPLT
+''Take': AE/KPA/TAEUBG
+'care,': KAEUR/KW-BG
 'or': OR
 'I': EU
 'will': HR
 'hang': HAPBG
 'you': U
 'up': UP
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'The': KPA/-T
 'dead': TKED
-'men,': PHEPB KW-BG
-'however,': HOUF KW-BG
+'men,': PHEPB/KW-BG
+'however,': HOUF/KW-BG
 'did': TK
 'not': TPHOT
-'hear,': HAER KW-BG
+'hear,': HAER/KW-BG
 'but': PWUT
 'were': WR
 'quite': KWAOEUT
-'silent,': SHREPBT KW-BG
+'silent,': SHREPBT/KW-BG
 'and': SKP
 'let': HRET
 'their': THAEUR
 'rags': RAG/-S
 'go': TKPW
 'on': OPB
-'burning.': PWURPBG TP-PL
+'burning.': PWURPBG/TP-PL
 'At': KPA/AT
 'this': TH
 'he': HE
 'grew': TKPWRAOU
-'angry,': APBG/REU KW-BG
+'angry,': APBG/REU/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'will': HR
 'not': TPHOT
 'take': TAEUBG
-'care,': KAEUR KW-BG
+'care,': KAEUR/KW-BG
 'I': EU
 'cannot': SK-PBT
 'help': HEP
-'you,': U KW-BG
+'you,': U/KW-BG
 'I': EU
 'will': HR
 'not': TPHOT
 'be': -B
 'burnt': PWURPBT
 'with': W
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'and': SKP
 'he': HE
 'hung': HUPBG
@@ -1414,7 +1414,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'each': AOEFP
 'in': TPH
 'his': HEUS
-'turn.': TURPB TP-PL
+'turn.': TURPB/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'sat': SAT
@@ -1424,7 +1424,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'fire': TPAOEUR
 'and': SKP
 'fell': TPEL
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'and': SKP
 'the': -T
 'next': TPHEGT
@@ -1440,23 +1440,23 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'have': SR
 'the': -T
 'fifty': TPAEFT
-'talers,': xxx talers KW-BG
+'talers,': xxx talers/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Well': AE KPA/WEL
+'said:': SED/STPH-FPLT
+''Well': AE/KPA/WEL
 'do': TKO
 'you': U
 'know': TPHOE
 'how': HOU
 'to': TO
-'shudder?'': SHUD/ER H-F AE
-''No,'': AE KPA/TPHO KW-BG AE
+'shudder?'': SHUD/ER/H-F/AE
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'answered': AEPBS/-D
-'he,': HE KW-BG
-''how': AE HOU
+'he,': HE/KW-BG
+''how': AE/HOU
 'should': SHO
 'I': EU
-'know?': TPHOE H-F
+'know?': TPHOE/H-F
 'Those': KPA/THOZ
 'fellows': TPO*EULS
 'up': UP
@@ -1465,7 +1465,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'not': TPHOT
 'open': OEP
 'their': THAEUR
-'mouths,': PHO*UT/-S KW-BG
+'mouths,': PHO*UT/-S/KW-BG
 'and': SKP
 'were': WR
 'so': SO
@@ -1484,7 +1484,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'their': THAEUR
 'bodies': PWO*EDZ
 'get': TKPWET
-'burnt.'': PWURPBT TP-PL AE
+'burnt.'': PWURPBT/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'man': PHAPB
@@ -1498,12 +1498,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'fifty': TPAEFT
 'talers': xxx talers
 'that': THA
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'went': WEPBT
 'away': WA*EU
-'saying:': SAEUG STPH-FPLT
-''Such': AE KPA/SUFP
+'saying:': SAEUG/STPH-FPLT
+''Such': AE/KPA/SUFP
 'a': AEU
 'youth': KWRAO*UT
 'has': HAS
@@ -1511,13 +1511,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'come': KOPL
 'my': PHEU
 'way': WAEU
-'before.'': PW-FR TP-PL AE
+'before.'': PW-FR/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'likewise': HRAOEUBG/WAOEUS
 'went': WEPBT
 'his': HEUS
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'once': WUPBS
 'more': PHOR
@@ -1525,19 +1525,19 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'mutter': PHUT/*ER
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''Ah,': AE KPA/HA*E KW-BG
+'himself:': HEUPLS/STPH-FPLT
+''Ah,': AE/KPA/HA*E/KW-BG
 'if': TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!': SHUD/ER SKHRAPL
-'Ah,': KPA/HA*E KW-BG
+'shudder!': SHUD/ER/SKHRAPL
+'Ah,': KPA/HA*E/KW-BG
 'if': TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'A': KPA/AEU
 'waggoner': WAG/OPB/*ER/A*U
 'who': WHO
@@ -1548,39 +1548,39 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'heard': HAERD
 'this': TH
 'and': SKP
-'asked:': SK-D STPH-FPLT
-''Who': AE KPA/WHO
+'asked:': SK-D/STPH-FPLT
+''Who': AE/KPA/WHO
 'are': R
-'you?'': U H-F AE
-''I': AE EU
+'you?'': U/H-F/AE
+''I': AE/EU
 'don't': TKOEPBT
-'know,'': TPHOE KW-BG AE
+'know,'': TPHOE/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'youth.': KWRAO*UT TP-PL
+'youth.': KWRAO*UT/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'waggoner': WAG/OPB/*ER/A*U
-'asked:': SK-D STPH-FPLT
-''From': AE KPA/TPR
+'asked:': SK-D/STPH-FPLT
+''From': AE/KPA/TPR
 'whence': WHEPBS
 'do': TKO
 'you': U
-'come?'': KOPL H-F AE
-''I': AE EU
+'come?'': KOPL/H-F/AE
+''I': AE/EU
 'know': TPHOE
-'not.'': TPHOT TP-PL AE
-''Who': AE KPA/WHO
+'not.'': TPHOT/TP-PL/AE
+''Who': AE/KPA/WHO
 'is': S
 'your': KWROUR
-'father?'': TPAER H-F AE
-''That': AE KPA/THA
+'father?'': TPAER/H-F/AE
+''That': AE/KPA/THA
 'I': EU
 'may': PHAE
 'not': TPHOT
 'tell': TEL
-'you.'': U TP-PL AE
-''What': AE KPA/WHA
+'you.'': U/TP-PL/AE
+''What': AE/KPA/WHA
 'is': S
 'it': T
 'that': THA
@@ -1590,37 +1590,37 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'muttering': PHUT/*ER/-G
 'between': TWAOEPB
 'your': KWROUR
-'teeth?'': TAO*ET H-F AE
-''Ah,'': AE KPA/HA*E KW-BG AE
+'teeth?'': TAO*ET/H-F/AE
+''Ah,'': AE/KPA/HA*E/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'youth,': KWRAO*UT KW-BG
-''I': AE EU
+'youth,': KWRAO*UT/KW-BG
+''I': AE/EU
 'do': TKO
 'so': SO
 'wish': WEURB
 'I': EU
 'could': KO
-'shudder,': SHUD/ER KW-BG
+'shudder,': SHUD/ER/KW-BG
 'but': PWUT
 'no': TPHO
 'one': WUPB
 'can': K
 'teach': TAOEFP
 'me': PHE
-'how.'': HOU TP-PL AE
-''Enough': AE KPA/TPHUF
+'how.'': HOU/TP-PL/AE
+''Enough': AE/KPA/TPHUF
 'of': -F
 'your': KWROUR
 'foolish': TPAOL/EURB
-'chatter,'': KHAT/ER KW-BG AE
+'chatter,'': KHAT/ER/KW-BG/AE
 'said': SED
 'the': -T
-'waggoner.': WAG/OPB/*ER/A*U TP-PL
-''Come,': AE KPA/KOPL KW-BG
+'waggoner.': WAG/OPB/*ER/A*U/TP-PL
+''Come,': AE/KPA/KOPL/KW-BG
 'go': TKPW
 'with': W
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'will': HR
 'see': SAOE
@@ -1628,13 +1628,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'a': AEU
 'place': PHRAEUS
 'for': TPOR
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'went': WEPBT
 'with': W
 'the': -T
-'waggoner,': WAG/OPB/*ER/A*U KW-BG
+'waggoner,': WAG/OPB/*ER/A*U/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -1650,7 +1650,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'pass': PAS
 'the': -T
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'Then': KPA/THEPB
 'at': AT
 'the': -T
@@ -1663,30 +1663,30 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'again': TKPWEPB
 'said': SED
 'quite': KWAOEUT
-'loudly:': HROUD/HREU STPH-FPLT
-''If': AE KPA/TP
+'loudly:': HROUD/HREU/STPH-FPLT
+''If': AE/KPA/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!': SHUD/ER SKHRAPL
+'shudder!': SHUD/ER/SKHRAPL
 'If': KPA/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'The': KPA/-T
 'host': HOEFT
 'who': WHO
 'heard': HAERD
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'laughed': HRAFD
 'and': SKP
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'that': THA
 'is': S
 'your': KWROUR
-'desire,': STKAOEUR KW-BG
+'desire,': STKAOEUR/KW-BG
 'there': THR
 'ought': OT
 'to': TO
@@ -1696,14 +1696,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'opportunity': TAOUPBT
 'for': TPOR
 'you': U
-'here.'': HAOER TP-PL AE
-''Ah,': AE KPA/HA*E KW-BG
+'here.'': HAOER/TP-PL/AE
+''Ah,': AE/KPA/HA*E/KW-BG
 'be': -B
-'silent,'': SHREPBT KW-BG AE
+'silent,'': SHREPBT/KW-BG/AE
 'said': SED
 'the': -T
-'hostess,': HOS/TESZ KW-BG
-''so': AE SO
+'hostess,': HOS/TESZ/KW-BG
+''so': AE/SO
 'many': PHAEPB
 'prying': PRAOEUG
 'persons': PERPBS
@@ -1711,7 +1711,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'already': HR-R
 'lost': HRO*S
 'their': THAEUR
-'lives,': HREUFS KW-BG
+'lives,': HREUFS/KW-BG
 'it': T
 'would': WO
 'be': -B
@@ -1731,20 +1731,20 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'see': SAOE
 'the': -T
 'daylight': TKAEULT
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'youth': KWRAO*UT
-'said:': SED STPH-FPLT
-''However': AE KPA/HOUF
+'said:': SED/STPH-FPLT
+''However': AE/KPA/HOUF
 'difficult': TKEUFL
 'it': T
 'may': PHAE
-'be,': -B KW-BG
+'be,': -B/KW-BG
 'I': EU
 'will': HR
 'learn': HRERPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'For': KPA/TPOR
 'this': TH
 'purpose': PURP
@@ -1752,19 +1752,19 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'have': SR
 'I': EU
 'journeyed': SKWRURPB/EUD
-'forth.'': TPO*RT TP-PL AE
+'forth.'': TPO*RT/TP-PL/AE
 'He': KPA/HE
 'let': HRET
 'the': -T
 'host': HOEFT
 'have': SR
 'no': TPHO
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'until': TPH-L
 'the': -T
 'latter': HRART
 'told': TOLD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'that': THA
 'not': TPHOT
 'far': TPAR
@@ -1782,7 +1782,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'learn': HRERPB
 'what': WHA
 'shuddering': SHUD/ERG
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'if': TP
 'he': HE
 'would': WO
@@ -1792,7 +1792,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'for': TPOR
 'three': THRAOE
-'nights.': TPHAOEUTS TP-PL
+'nights.': TPHAOEUTS/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'had': H
@@ -1807,7 +1807,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'his': HEUS
 'daughter': TKAUR
 'to': TO
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -1818,27 +1818,27 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'the': -T
 'sun': SUPB
 'shone': SHO*EPB
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'Likewise': KPA/HRAOEUBG/WAOEUS
 'in': TPH
 'the': -T
 'castle': KAFL
 'lay': HRAEU
 'great': TKPWRAET
-'treasures,': TR-RBS KW-BG
+'treasures,': TR-RBS/KW-BG
 'which': WEU
 'were': WR
 'guarded': TKPWARD/-D
 'by': PWEU
 'evil': AOEFL
-'spirits,': SPEURTS KW-BG
+'spirits,': SPEURTS/KW-BG
 'and': SKP
 'these': THEZ
 'treasures': TR-RBS
 'would': WO
 'then': THEPB
 'be': -B
-'freed,': TPRAOED KW-BG
+'freed,': TPRAOED/KW-BG
 'and': SKP
 'would': WO
 'make': PHAEUBG
@@ -1846,7 +1846,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'poor': PAOR
 'man': PHAPB
 'rich': REUFP
-'enough.': TPHUF TP-PL
+'enough.': TPHUF/TP-PL
 'Already': KPA/HR-R
 'many': PHAEPB
 'men': PHEPB
@@ -1854,7 +1854,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'gone': TKPWOPB
 'into': TPHAO
 'the': -T
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'but': PWUT
 'as': AS
 'yet': KWRET
@@ -1862,7 +1862,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'had': H
 'come': KOPL
 'out': OUT
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'youth': KWRAO*UT
@@ -1871,13 +1871,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'morning': PHORPBG
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'it': T
 'be': -B
-'allowed,': HRO*UD KW-BG
+'allowed,': HRO*UD/KW-BG
 'I': EU
 'will': HR
 'willingly': HR-G/HREU
@@ -1887,21 +1887,21 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'in': TPH
 'the': -T
 'haunted': HAUPBT/-D
-'castle.'': KAFL TP-PL AE
+'castle.'': KAFL/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'looked': HRAOBGD
 'at': AT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'as': AS
 'the': -T
 'youth': KWRAO*UT
 'pleased': PHREFD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'he': HE
-'said:': SED STPH-FPLT
-''You': AE KPA/U
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
 'may': PHAE
 'ask': SK
 'for': TPOR
@@ -1913,32 +1913,32 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'the': -T
 'castle': KAFL
 'with': W
-'you,': U KW-BG
+'you,': U/KW-BG
 'but': PWUT
 'they': THE
 'must': PHUFT
 'be': -B
 'things': THEUPBGS
 'without': WOUT
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
-'answered:': AEPBS/-D STPH-FPLT
-''Then': AE KPA/THEPB
+'answered:': AEPBS/-D/STPH-FPLT
+''Then': AE/KPA/THEPB
 'I': EU
 'ask': SK
 'for': TPOR
 'a': AEU
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'a': AEU
 'turning': TURPBG
-'lathe,': HRA*EUT KW-BG
+'lathe,': HRA*EUT/KW-BG
 'and': SKP
 'a': AEU
-'cutting-board': KUGT H-PB PWAORD
+'cutting-board': KUGT/H-PB/PWAORD
 'with': W
 'the': -T
-'knife.'': TPHAOEUF TP-PL AE
+'knife.'': TPHAOEUF/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'had': H
@@ -1952,12 +1952,12 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'him': HEUPL
 'during': TKURG
 'the': -T
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'When': KPA/WHEPB
 'night': TPHAOEUT
 'was': WAS
 'drawing': TKRAUG
-'near,': TPHAOER KW-BG
+'near,': TPHAOER/KW-BG
 'the': -T
 'youth': KWRAO*UT
 'went': WEPBT
@@ -1972,36 +1972,36 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'one': WUPB
 'of': -F
 'the': -T
-'rooms,': RAOPLS KW-BG
+'rooms,': RAOPLS/KW-BG
 'placed': PHRAEUFD
 'the': -T
-'cutting-board': KUGT H-PB PWAORD
+'cutting-board': KUGT/H-PB/PWAORD
 'and': SKP
 'knife': TPHAOEUF
 'beside': PWE/SAOEUD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'seated': SAOETD
 'himself': HEUPLS
 'by': PWEU
 'the': -T
-'turning-lathe.': TURPBG H-PB HRA*EUT TP-PL
-''Ah,': AE KPA/HA*E KW-BG
+'turning-lathe.': TURPBG/H-PB/HRA*EUT/TP-PL
+''Ah,': AE/KPA/HA*E/KW-BG
 'if': TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'said': SED
-'he,': HE KW-BG
-''but': AE PWUT
+'he,': HE/KW-BG
+''but': AE/PWUT
 'I': EU
 'shall': SHAL
 'not': TPHOT
 'learn': HRERPB
 'it': T
 'here': HAOER
-'either.'': AOERT TP-PL AE
+'either.'': AOERT/TP-PL/AE
 'Towards': KPA/TORDZ
 'midnight': PHAOEUPBT
 'he': HE
@@ -2010,38 +2010,38 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'poke': POEBG
 'his': HEUS
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'as': AS
 'he': HE
 'was': WAS
 'blowing': PWHROEG
-'it,': T KW-BG
+'it,': T/KW-BG
 'something': S-G
 'cried': KRAOEUD
 'suddenly': SULD
 'from': TPR
 'one': WUPB
-'corner:': KRORPB STPH-FPLT
-''Au,': AE xxx Au KW-BG
-'miau!': xxx miau SKHRAPL
+'corner:': KRORPB/STPH-FPLT
+''Au,': AE/xxx Au/KW-BG
+'miau!': xxx miau/SKHRAPL
 'how': HOU
 'cold': KOELD
 'we': WE
-'are!'': R SKHRAPL AE
-''You': AE KPA/U
-'fools!'': TPAOLS SKHRAPL AE
+'are!'': R/SKHRAPL/AE
+''You': AE/KPA/U
+'fools!'': TPAOLS/SKHRAPL/AE
 'cried': KRAOEUD
-'he,': HE KW-BG
-''what': AE WHA
+'he,': HE/KW-BG
+''what': AE/WHA
 'are': R
 'you': U
 'crying': KRAOEUG
-'about?': PW H-F
+'about?': PW/H-F
 'If': KPA/TP
 'you': U
 'are': R
-'cold,': KOELD KW-BG
+'cold,': KOELD/KW-BG
 'come': KOPL
 'and': SKP
 'take': TAEUBG
@@ -2052,13 +2052,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'fire': TPAOEUR
 'and': SKP
 'warm': WARPL
-'yourselves.'': KWRO*URSZ TP-PL AE
+'yourselves.'': KWRO*URSZ/TP-PL/AE
 'And': AFPBD
 'when': WHEPB
 'he': HE
 'had': H
 'said': SED
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'two': TWO
 'great': TKPWRAET
 'black': PWHRABG
@@ -2075,7 +2075,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'each': AOEFP
 'side': SAOEUD
 'of': -F
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'savagely': SAF/APBLG/HREU
@@ -2084,90 +2084,90 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'with': W
 'their': THAEUR
 'fiery': TPAOEU/REU
-'eyes.': AO*EUS TP-PL
+'eyes.': AO*EUS/TP-PL
 'After': KPA/AF
 'a': AEU
 'short': SHORT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'when': WHEPB
 'they': THE
 'had': H
 'warmed': WARPLD
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'they': THE
-'said:': SED STPH-FPLT
-''Comrade,': AE KPA/KOPL/RAD KW-BG
+'said:': SED/STPH-FPLT
+''Comrade,': AE/KPA/KOPL/RAD/KW-BG
 'shall': SHAL
 'we': WE
 'have': SR
 'a': AEU
 'game': TKPWAEUPL
 'of': -F
-'cards?'': KARDZ H-F AE
-''Why': AE KPA/KWR
-'not?'': TPHOT H-F AE
+'cards?'': KARDZ/H-F/AE
+''Why': AE/KPA/KWR
+'not?'': TPHOT/H-F/AE
 'he': HE
-'replied,': RE/PHRAOEUD KW-BG
-''but': AE PWUT
+'replied,': RE/PHRAOEUD/KW-BG
+''but': AE/PWUT
 'just': SKWRUFT
 'show': SHOE
 'me': PHE
 'your': KWROUR
-'paws.'': PAU/-S TP-PL AE
+'paws.'': PAU/-S/TP-PL/AE
 'Then': KPA/THEPB
 'they': THE
 'stretched': STREFPD
 'out': OUT
 'their': THAEUR
-'claws.': KHRAU/-S TP-PL
-''Oh,'': AE KPA/O*ERBGS KW-BG AE
+'claws.': KHRAU/-S/TP-PL
+''Oh,'': AE/KPA/O*ERBGS/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''what': AE WHA
+'he,': HE/KW-BG
+''what': AE/WHA
 'long': HROPBG
 'nails': TPHAEULS
 'you': U
-'have!': SR SKHRAPL
-'Wait,': KPA/WAEUT KW-BG
+'have!': SR/SKHRAPL
+'Wait,': KPA/WAEUT/KW-BG
 'I': EU
 'must': PHUFT
 'first': TPEUFRT
 'cut': KUT
 'them': THEPL
 'for': TPOR
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Thereupon': KPA/THRUP
 'he': HE
 'seized': SAOEZ/-D
 'them': THEPL
 'by': PWEU
 'the': -T
-'throats,': THROETS KW-BG
+'throats,': THROETS/KW-BG
 'put': PUT
 'them': THEPL
 'on': OPB
 'the': -T
-'cutting-board': KUGT H-PB PWAORD
+'cutting-board': KUGT/H-PB/PWAORD
 'and': SKP
 'screwed': SKRAOUD
 'their': THAEUR
 'feet': TPAOET
-'fast.': TPAFT TP-PL
-''I': AE EU
+'fast.': TPAFT/TP-PL
+''I': AE/EU
 'have': SR
 'looked': HRAOBGD
 'at': AT
 'your': KWROUR
-'fingers,'': TPEURPBGS KW-BG AE
+'fingers,'': TPEURPBGS/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''and': AE SKP
+'he,': HE/KW-BG
+''and': AE/SKP
 'my': PHEU
 'fancy': TPAEPBS
 'for': TPOR
-'card-playing': KARD H-PB PHRAEUG
+'card-playing': KARD/H-PB/PHRAEUG
 'has': HAS
-'gone,'': TKPWOPB KW-BG AE
+'gone,'': TKPWOPB/KW-BG/AE
 'and': SKP
 'he': HE
 'struck': STRUBG
@@ -2179,7 +2179,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'out': OUT
 'into': TPHAO
 'the': -T
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -2188,7 +2188,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'away': WA*EU
 'with': W
 'these': THEZ
-'two,': TWO KW-BG
+'two,': TWO/KW-BG
 'and': SKP
 'was': WAS
 'about': PW
@@ -2198,7 +2198,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'again': TKPWEPB
 'by': PWEU
 'his': HEUS
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'out': OUT
 'from': TPR
 'every': EF
@@ -2212,8 +2212,8 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'black': PWHRABG
 'dogs': TKOGS
 'with': W
-'red-hot': RED H-PB HOT
-'chains,': KHAEUPBS KW-BG
+'red-hot': RED/H-PB/HOT
+'chains,': KHAEUPBS/KW-BG
 'and': SKP
 'more': PHOR
 'and': SKP
@@ -2226,33 +2226,33 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'could': KO
 'no': TPHO
 'longer': HRORPBG
-'move,': PHOF KW-BG
+'move,': PHOF/KW-BG
 'and': SKP
 'they': THE
 'yelled': KWRELD
-'horribly,': HORBL/KWREU KW-BG
+'horribly,': HORBL/KWREU/KW-BG
 'and': SKP
 'got': TKPWOT
 'on': OPB
 'his': HEUS
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'pulled': PULD
 'it': T
 'to': TO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'tried': TRAOEUD
 'to': TO
 'put': PUT
 'it': T
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'He': KPA/HE
 'watched': WAFPD
 'them': THEPL
 'for': TPOR
 'a': AEU
 'while': WHAOEUL
-'quietly,': KWAO*EULT KW-BG
+'quietly,': KWAO*EULT/KW-BG
 'but': PWUT
 'at': AT
 'last': HRAFT
@@ -2261,38 +2261,38 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'were': WR
 'going': TKPW-G
 'too': TAO
-'far,': TPAR KW-BG
+'far,': TPAR/KW-BG
 'he': HE
 'seized': SAOEZ/-D
 'his': HEUS
-'cutting-knife,': KUGT H-PB TPHAOEUF KW-BG
+'cutting-knife,': KUGT/H-PB/TPHAOEUF/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Away': AE KPA/WA*EU
+'cried:': KRAOEUD/STPH-FPLT
+''Away': AE/KPA/WA*EU
 'with': W
-'you,': U KW-BG
-'vermin,'': SRER/PHEUPB KW-BG AE
+'you,': U/KW-BG
+'vermin,'': SRER/PHEUPB/KW-BG/AE
 'and': SKP
 'began': TKPWAPB
 'to': TO
 'cut': KUT
 'them': THEPL
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'Some': KPA/SOPL
 'of': -F
 'them': THEPL
 'ran': RAPB
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'the': -T
 'others': OERS
 'he': HE
-'killed,': KEULD KW-BG
+'killed,': KEULD/KW-BG
 'and': SKP
 'threw': THRAOU
 'out': OUT
 'into': TPHAO
 'the': -T
-'fish-pond.': TPEURB H-PB POPBD TP-PL
+'fish-pond.': TPEURB/H-PB/POPBD/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'came': KAEUPL
@@ -2307,26 +2307,26 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'again': TKPWEPB
 'and': SKP
 'warmed': WARPLD
-'himself.': HEUPLS TP-PL
+'himself.': HEUPLS/TP-PL
 'And': AFPBD
 'as': AS
 'he': HE
 'thus': THUS
-'sat,': SAT KW-BG
+'sat,': SAT/KW-BG
 'his': HEUS
 'eyes': AO*EUS
 'would': WO
 'keep': KAOEP
 'open': OEP
 'no': TPHO
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'and': SKP
 'he': HE
 'felt': TPELT
 'a': AEU
 'desire': STKAOEUR
 'to': TO
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'looked': HRAOBGD
@@ -2338,20 +2338,20 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'bed': PWED
 'in': TPH
 'the': -T
-'corner.': KRORPB TP-PL
-''That': AE KPA/THA
+'corner.': KRORPB/TP-PL
+''That': AE/KPA/THA
 'is': S
 'the': -T
 'very': SRE
 'thing': THEUPBG
 'for': TPOR
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'and': SKP
 'got': TKPWOT
 'into': TPHAO
-'it.': T TP-PL
+'it.': T/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'was': WAS
@@ -2360,8 +2360,8 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'shut': SHUT
 'his': HEUS
-'eyes,': AO*EUS KW-BG
-'however,': HOUF KW-BG
+'eyes,': AO*EUS/KW-BG
+'however,': HOUF/KW-BG
 'the': -T
 'bed': PWED
 'began': TKPWAPB
@@ -2370,7 +2370,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'of': -F
 'its': EUTS
 'own': OEPB
-'accord,': A/KORD KW-BG
+'accord,': A/KORD/KW-BG
 'and': SKP
 'went': WEPBT
 'over': OEFR
@@ -2378,14 +2378,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'whole': WHOEL
 'of': -F
 'the': -T
-'castle.': KAFL TP-PL
-''That's': AE KPA/THA AES
-'right,'': RAOEUT KW-BG AE
+'castle.': KAFL/TP-PL
+''That's': AE/KPA/THA/AES
+'right,'': RAOEUT/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''but': AE PWUT
+'he,': HE/KW-BG
+''but': AE/PWUT
 'go': TKPW
-'faster.'': TPA*FRT TP-PL AE
+'faster.'': TPA*FRT/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'bed': PWED
@@ -2398,30 +2398,30 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'were': WR
 'harnessed': HARPBS/-D
 'to': TO
-'it,': T KW-BG
+'it,': T/KW-BG
 'up': UP
 'and': SKP
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'over': OEFR
 'thresholds': THRERB/OLDZ
 'and': SKP
-'stairs,': STAEURS KW-BG
+'stairs,': STAEURS/KW-BG
 'but': PWUT
 'suddenly': SULD
-'hop,': HOP KW-BG
-'hop,': HOP KW-BG
+'hop,': HOP/KW-BG
+'hop,': HOP/KW-BG
 'it': T
 'turned': TURPBD
 'over': OEFR
 'upside': UPDZ
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'lay': HRAEU
 'on': OPB
 'him': HEUPL
 'like': HRAOEUBG
 'a': AEU
-'mountain.': PHOUPB/TAEUPB TP-PL
+'mountain.': PHOUPB/TAEUPB/TP-PL
 'But': KPA/PWUT
 'he': HE
 'threw': THRAOU
@@ -2431,35 +2431,35 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'up': UP
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'got': TKPWOT
 'out': OUT
 'and': SKP
-'said:': SED STPH-FPLT
-''Now': AE KPA/TPHOU
+'said:': SED/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'anyone': TPHEUPB
 'who': WHO
-'likes,': HRAOEUBGS KW-BG
+'likes,': HRAOEUBGS/KW-BG
 'may': PHAE
-'drive,'': TKRAOEUF KW-BG AE
+'drive,'': TKRAOEUF/KW-BG/AE
 'and': SKP
 'lay': HRAEU
 'down': TKOUPB
 'by': PWEU
 'his': HEUS
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'slept': SHREPT
 'till': TEUL
 'it': T
 'was': WAS
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
 'the': -T
 'king': KEUPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -2469,7 +2469,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'there': THR
 'on': OPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'he': HE
 'thought': THAUT
 'the': -T
@@ -2481,107 +2481,107 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'he': HE
 'was': WAS
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'Then': KPA/THEPB
 'said': SED
-'he:': HE STPH-FPLT
-''After': AE KPA/AF
+'he:': HE/STPH-FPLT
+''After': AE/KPA/AF
 'all': AUL
 'it': T
 'is': S
 'a': AEU
-'pity,--for': PEUT/TEU KW-BG H-PB H-PB TPOR
+'pity,--for': PEUT/TEU/KW-BG/H-PB/H-PB/TPOR
 'so': SO
 'handsome': HAPBD/SO*PL
 'a': AEU
-'man.'': PHAPB TP-PL AE
+'man.'': PHAPB/TP-PL/AE
 'The': KPA/-T
 'youth': KWRAO*UT
 'heard': HAERD
-'it,': T KW-BG
+'it,': T/KW-BG
 'got': TKPWOT
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''It': AE KPA/T
+'said:': SED/STPH-FPLT
+''It': AE/KPA/T
 'has': HAS
 'not': TPHOT
 'come': KOPL
 'to': TO
 'that': THA
-'yet.'': KWRET TP-PL AE
+'yet.'': KWRET/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
 'was': WAS
-'astonished,': A/STOPB/EURBD KW-BG
+'astonished,': A/STOPB/EURBD/KW-BG
 'but': PWUT
 'very': SRE
-'glad,': TKPWHRAD KW-BG
+'glad,': TKPWHRAD/KW-BG
 'and': SKP
 'asked': SK-D
 'how': HOU
 'he': HE
 'had': H
-'fared.': TPA*ERD TP-PL
-''Very': AE KPA/SRE
+'fared.': TPA*ERD/TP-PL
+''Very': AE/KPA/SRE
 'well': WEL
-'indeed,'': TPHAOEPBD KW-BG AE
+'indeed,'': TPHAOEPBD/KW-BG/AE
 'answered': AEPBS/-D
-'he;': HE STPH*FPLT
-''one': AE WUPB
+'he;': HE/STPH*FPLT
+''one': AE/WUPB
 'night': TPHAOEUT
 'is': S
-'past,': PAFT KW-BG
+'past,': PAFT/KW-BG
 'the': -T
 'two': TWO
 'others': OERS
 'will': HR
 'pass': PAS
-'likewise.'': HRAOEUBG/WAOEUS TP-PL AE
+'likewise.'': HRAOEUBG/WAOEUS/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
-'innkeeper,': *EUPB/KAOEP/ER KW-BG
+'innkeeper,': *EUPB/KAOEP/ER/KW-BG
 'who': WHO
 'opened': OEPD
 'his': HEUS
 'eyes': AO*EUS
 'very': SRE
-'wide,': WAOEUD KW-BG
+'wide,': WAOEUD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'never': TPHEFR
 'expected': KP-PTD
 'to': TO
 'see': SAOE
 'you': U
 'alive': A/HRAOEUF
-'again!': TKPWEPB SKHRAPL
+'again!': TKPWEPB/SKHRAPL
 'Have': KPA/SR
 'you': U
 'learnt': HRERPBT
 'how': HOU
 'to': TO
 'shudder': SHUD/ER
-'yet?'': KWRET H-F AE
-''No,'': AE KPA/TPHO KW-BG AE
+'yet?'': KWRET/H-F/AE
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''it': AE T
+'he,': HE/KW-BG
+''it': AE/T
 'is': S
 'all': AUL
 'in': TPH
-'vain.': SRA*EUPB TP-PL
+'vain.': SRA*EUPB/TP-PL
 'If': KPA/TP
 'someone': SPH-PB
 'would': WO
 'but': PWUT
 'tell': TEL
-'me!'': PHE SKHRAPL AE
+'me!'': PHE/SKHRAPL/AE
 'The': KPA/-T
 'second': SEBGD
 'night': TPHAOEUT
@@ -2592,27 +2592,27 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'into': TPHAO
 'the': -T
 'old': OLD
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'sat': SAT
 'down': TKOUPB
 'by': PWEU
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'once': WUPBS
 'more': PHOR
 'began': TKPWAPB
 'his': HEUS
 'old': OLD
-'song:': SOPBG STPH-FPLT
-''If': AE KPA/TP
+'song:': SOPBG/STPH-FPLT
+''If': AE/KPA/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'When': KPA/WHEPB
 'midnight': PHAOEUPBT
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'an': APB
 'uproar': AUP/RAOR
 'and': SKP
@@ -2621,32 +2621,32 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'tumbling': TUPL/-BLG
 'about': PW
 'was': WAS
-'heard;': HAERD STPH*FPLT
+'heard;': HAERD/STPH*FPLT
 'at': AT
 'first': TPEUFRT
 'it': T
 'was': WAS
-'low,': HROE KW-BG
+'low,': HROE/KW-BG
 'but': PWUT
 'it': T
 'grew': TKPWRAOU
 'louder': HROURD
 'and': SKP
-'louder.': HROURD TP-PL
+'louder.': HROURD/TP-PL
 'Then': KPA/THEPB
 'it': T
 'was': WAS
 'quiet': KWAO*EUT
 'for': TPOR
 'a': AEU
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'and': SKP
 'at': AT
 'length': HREPBG
 'with': W
 'a': AEU
 'loud': HROUD
-'scream,': SKRAOEPL KW-BG
+'scream,': SKRAOEPL/KW-BG
 'half': HAF
 'a': AEU
 'man': PHAPB
@@ -2657,41 +2657,41 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'fell': TPEL
 'before': PW-FR
-'him.': HEUPL TP-PL
-''Hullo!'': AE xxx Hullo SKHRAPL AE
+'him.': HEUPL/TP-PL
+''Hullo!'': AE/xxx Hullo/SKHRAPL/AE
 'cried': KRAOEUD
-'he,': HE KW-BG
-''another': AE TPHOER
+'he,': HE/KW-BG
+''another': AE/TPHOER
 'half': HAF
 'belongs': PWHROPBGS
 'to': TO
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'This': KPA/TH
 'is': S
 'not': TPHOT
-'enough!'': TPHUF SKHRAPL AE
+'enough!'': TPHUF/SKHRAPL/AE
 'Then': KPA/THEPB
 'the': -T
 'uproar': AUP/RAOR
 'began': TKPWAPB
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'there': THR
 'was': WAS
 'a': AEU
 'roaring': RAORG
 'and': SKP
-'howling,': HOUL/-G KW-BG
+'howling,': HOUL/-G/KW-BG
 'and': SKP
 'the': -T
 'other': OER
 'half': HAF
 'fell': TPEL
 'down': TKOUPB
-'likewise.': HRAOEUBG/WAOEUS TP-PL
-''Wait,'': AE KPA/WAEUT KW-BG AE
+'likewise.': HRAOEUBG/WAOEUS/TP-PL
+''Wait,'': AE/KPA/WAEUT/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''I': AE EU
+'he,': HE/KW-BG
+''I': AE/EU
 'will': HR
 'just': SKWRUFT
 'stoke': STOEBG
@@ -2701,7 +2701,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'a': AEU
 'little': HREUL
 'for': TPOR
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'When': KPA/WHEPB
 'he': HE
 'had': H
@@ -2710,13 +2710,13 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'looked': HRAOBGD
 'round': ROUPBD
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'the': -T
 'two': TWO
 'pieces': PAOEFS
 'were': WR
 'joined': SKWROEUPBD
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'a': AEU
 'hideous': HEUD/KWROUS
@@ -2725,35 +2725,35 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'sitting': SEUGT
 'in': TPH
 'his': HEUS
-'place.': PHRAEUS TP-PL
-''That': AE KPA/THA
+'place.': PHRAEUS/TP-PL
+''That': AE/KPA/THA
 'is': S
 'no': TPHO
 'part': PART
 'of': -F
 'our': OUR
-'bargain,'': PWAR/TKPWAEUPB KW-BG AE
+'bargain,'': PWAR/TKPWAEUPB/KW-BG/AE
 'said': SED
 'the': -T
-'youth,': KWRAO*UT KW-BG
-''the': AE -T
+'youth,': KWRAO*UT/KW-BG
+''the': AE/-T
 'bench': PWEFRPB
 'is': S
-'mine.'': PHAOEUPB TP-PL AE
+'mine.'': PHAOEUPB/TP-PL/AE
 'The': KPA/-T
 'man': PHAPB
 'wanted': WAPBTD
 'to': TO
 'push': PURB
 'him': HEUPL
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'the': -T
-'youth,': KWRAO*UT KW-BG
-'however,': HOUF KW-BG
+'youth,': KWRAO*UT/KW-BG
+'however,': HOUF/KW-BG
 'would': WO
 'not': TPHOT
 'allow': HROU
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'but': PWUT
 'thrust': THRUFT
 'him': HEUPL
@@ -2761,7 +2761,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'with': W
 'all': AUL
 'his': HEUS
-'strength,': STREPBG KW-BG
+'strength,': STREPBG/KW-BG
 'and': SKP
 'seated': SAOETD
 'himself': HEUPLS
@@ -2769,17 +2769,17 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'in': TPH
 'his': HEUS
 'own': OEPB
-'place.': PHRAEUS TP-PL
+'place.': PHRAEUS/TP-PL
 'Then': KPA/THEPB
 'still': STEUL
 'more': PHOR
 'men': PHEPB
 'fell': TPEL
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'one': WUPB
 'after': AF
 'the': -T
-'other;': OER STPH*FPLT
+'other;': OER/STPH*FPLT
 'they': THE
 'brought': PWRAUT
 'nine': TPHAOEUPB
@@ -2788,7 +2788,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'legs': HREGS
 'and': SKP
 'two': TWO
-'skulls,': SKULS KW-BG
+'skulls,': SKULS/KW-BG
 'and': SKP
 'set': SET
 'them': THEPL
@@ -2796,9 +2796,9 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'played': PHRAEUD
 'at': AT
-'nine-pins': TPHAOEUPB H-PB PEUPB/-S
+'nine-pins': TPHAOEUPB/H-PB/PEUPB/-S
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'The': KPA/-T
 'youth': KWRAO*UT
 'also': HR-S
@@ -2806,30 +2806,30 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'play': PHRAEU
 'and': SKP
-'said:': SED STPH-FPLT
-''Listen': AE KPA/HREUFPB
-'you,': U KW-BG
+'said:': SED/STPH-FPLT
+''Listen': AE/KPA/HREUFPB
+'you,': U/KW-BG
 'can': K
 'I': EU
 'join': SKWROEUPB
-'you?'': U H-F AE
-''Yes,': AE KPA/KWRE KW-BG
+'you?'': U/H-F/AE
+''Yes,': AE/KPA/KWRE/KW-BG
 'if': TP
 'you': U
 'have': SR
 'any': TPHEU
-'money.'': PHUPB TP-PL AE
-''Money': AE KPA/PHUPB
-'enough,'': TPHUF KW-BG AE
+'money.'': PHUPB/TP-PL/AE
+''Money': AE/KPA/PHUPB
+'enough,'': TPHUF/KW-BG/AE
 'replied': RE/PHRAOEUD
-'he,': HE KW-BG
-''but': AE PWUT
+'he,': HE/KW-BG
+''but': AE/PWUT
 'your': KWROUR
 'balls': PWAULS
 'are': R
 'not': TPHOT
 'quite': KWAOEUT
-'round.'': ROUPBD TP-PL AE
+'round.'': ROUPBD/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
@@ -2847,20 +2847,20 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'till': TEUL
 'they': THE
 'were': WR
-'round.': ROUPBD TP-PL
-''There,': AE KPA/THR KW-BG
+'round.': ROUPBD/TP-PL
+''There,': AE/KPA/THR/KW-BG
 'now': TPHOU
 'they': THE
 'will': HR
 'roll': ROL
-'better!'': PWOERT SKHRAPL AE
+'better!'': PWOERT/SKHRAPL/AE
 'said': SED
-'he.': HE TP-PL
-''Hurrah!': AE KPA/HUR/RA SKHRAPL
+'he.': HE/TP-PL
+''Hurrah!': AE/KPA/HUR/RA/SKHRAPL
 'now': TPHOU
 'we'll': WAOEL
 'have': SR
-'fun!'': TPUPB SKHRAPL AE
+'fun!'': TPUPB/SKHRAPL/AE
 'He': KPA/HE
 'played': PHRAEUD
 'with': W
@@ -2870,24 +2870,24 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'some': SOPL
 'of': -F
 'his': HEUS
-'money,': PHUPB KW-BG
+'money,': PHUPB/KW-BG
 'but': PWUT
 'when': WHEPB
 'it': T
 'struck': STRUBG
-'twelve,': TWEFL KW-BG
+'twelve,': TWEFL/KW-BG
 'everything': EFRG
 'vanished': SRAPB/EURBD
 'from': TPR
 'his': HEUS
-'sight.': SAOEUT TP-PL
+'sight.': SAOEUT/TP-PL
 'He': KPA/HE
 'lay': HRAEU
 'down': TKOUPB
 'and': SKP
 'quietly': KWAO*EULT
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Next': KPA/TPHEGT
 'morning': PHORPBG
 'the': -T
@@ -2896,46 +2896,46 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'to': TO
 'inquire': KW-R
 'after': AF
-'him.': HEUPL TP-PL
-''How': AE KPA/HOU
+'him.': HEUPL/TP-PL
+''How': AE/KPA/HOU
 'has': HAS
 'it': T
 'fared': TPA*ERD
 'with': W
 'you': U
 'this': TH
-'time?'': TAOEUPL H-F AE
+'time?'': TAOEUPL/H-F/AE
 'asked': SK-D
-'he.': HE TP-PL
-''I': AE EU
+'he.': HE/TP-PL
+''I': AE/EU
 'have': SR
 'been': PW-PB
 'playing': PHRAEUG
 'at': AT
-'nine-pins,'': TPHAOEUPB H-PB PEUPB/-S KW-BG AE
+'nine-pins,'': TPHAOEUPB/H-PB/PEUPB/-S/KW-BG/AE
 'he': HE
-'answered,': AEPBS/-D KW-BG
-''and': AE SKP
+'answered,': AEPBS/-D/KW-BG
+''and': AE/SKP
 'have': SR
 'lost': HRO*S
 'a': AEU
 'couple': KUPL
 'of': -F
-'farthings.'': TPA*RT/-G/-S TP-PL AE
-''Have': AE KPA/SR
+'farthings.'': TPA*RT/-G/-S/TP-PL/AE
+''Have': AE/KPA/SR
 'you': U
 'not': TPHOT
 'shuddered': SHUD/ERD
-'then?'': THEPB H-F AE
-''What?'': AE KPA/WHA H-F AE
+'then?'': THEPB/H-F/AE
+''What?'': AE/KPA/WHA/H-F/AE
 'said': SED
-'he,': HE KW-BG
-''I': AE EU
+'he,': HE/KW-BG
+''I': AE/EU
 'have': SR
 'had': H
 'a': AEU
 'wonderful': WUFL
-'time!': TAOEUPL SKHRAPL
+'time!': TAOEUPL/SKHRAPL
 'If': KPA/TP
 'I': EU
 'did': TK
@@ -2945,7 +2945,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'was': WAS
 'to': TO
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'The': KPA/-T
 'third': THEURD
 'night': TPHAOEUT
@@ -2959,16 +2959,16 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'said': SED
 'quite': KWAOEUT
-'sadly:': SAD/HREU STPH-FPLT
-''If': AE KPA/TP
+'sadly:': SAD/HREU/STPH-FPLT
+''If': AE/KPA/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder.'': SHUD/ER TP-PL AE
+'shudder.'': SHUD/ER/TP-PL/AE
 'When': KPA/WHEPB
 'it': T
 'grew': TKPWRAOU
-'late,': HRAEUT KW-BG
+'late,': HRAEUT/KW-BG
 'six': SEUBGS
 'tall': TAUL
 'men': PHEPB
@@ -2977,44 +2977,44 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'brought': PWRAUT
 'a': AEU
-'coffin.': KOFPB TP-PL
+'coffin.': KOFPB/TP-PL
 'Then': KPA/THEPB
 'he': HE
-'said:': SED STPH-FPLT
-''Ha,': AE KPA/HAE KW-BG
-'ha,': HAE KW-BG
+'said:': SED/STPH-FPLT
+''Ha,': AE/KPA/HAE/KW-BG
+'ha,': HAE/KW-BG
 'that': THA
 'is': S
 'certainly': SERPBL
 'my': PHEU
 'little': HREUL
-'cousin,': KUZ KW-BG
+'cousin,': KUZ/KW-BG
 'who': WHO
 'died': TKAOEUD
 'only': OEPBL
 'a': AEU
 'few': TPAOU
 'days': TKAEUS
-'ago,'': AG KW-BG AE
+'ago,'': AG/KW-BG/AE
 'and': SKP
 'he': HE
 'beckoned': PWEBG/KOPB/-D
 'with': W
 'his': HEUS
-'finger,': TPEURPBG KW-BG
+'finger,': TPEURPBG/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Come,': AE KPA/KOPL KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Come,': AE/KPA/KOPL/KW-BG
 'little': HREUL
-'cousin,': KUZ KW-BG
-'come.'': KOPL TP-PL AE
+'cousin,': KUZ/KW-BG
+'come.'': KOPL/TP-PL/AE
 'They': KPA/THE
 'placed': PHRAEUFD
 'the': -T
 'coffin': KOFPB
 'on': OPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'but': PWUT
 'he': HE
 'went': WEPBT
@@ -3024,32 +3024,32 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'took': TAOBG
 'the': -T
 'lid': HREUD
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'a': AEU
 'dead': TKED
 'man': PHAPB
 'lay': HRAEU
-'therein.': THR-PB TP-PL
+'therein.': THR-PB/TP-PL
 'He': KPA/HE
 'felt': TPELT
 'his': HEUS
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'cold': KOELD
 'as': AS
-'ice.': AOEUS TP-PL
-''Wait,'': AE KPA/WAEUT KW-BG AE
+'ice.': AOEUS/TP-PL
+''Wait,'': AE/KPA/WAEUT/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''I': AE EU
+'he,': HE/KW-BG
+''I': AE/EU
 'will': HR
 'warm': WARPL
 'you': U
 'a': AEU
-'little,'': HREUL KW-BG AE
+'little,'': HREUL/KW-BG/AE
 'and': SKP
 'went': WEPBT
 'to': TO
@@ -3066,16 +3066,16 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'the': -T
 'dead': TKED
 'man's': PHAPB/AES
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'but': PWUT
 'he': HE
 'remained': RE/PHAEUPBD
-'cold.': KOELD TP-PL
+'cold.': KOELD/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
 'him': HEUPL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'sat': SAT
 'down': TKOUPB
@@ -3097,34 +3097,34 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'blood': PWHRAOD
 'might': PHAOEUT
 'circulate': SEURBG/HRAEUT
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'As': KPA/AS
 'this': TH
 'also': HR-S
 'did': TK
 'no': TPHO
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'he': HE
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''When': AE KPA/WHEPB
+'himself:': HEUPLS/STPH-FPLT
+''When': AE/KPA/WHEPB
 'two': TWO
 'people': PAOEPL
 'lie': HRAOEU
 'in': TPH
 'bed': PWED
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'they': THE
 'warm': WARPL
 'each': AOEFP
-'other,'': OER KW-BG AE
+'other,'': OER/KW-BG/AE
 'and': SKP
 'carried': KAERD
 'him': HEUPL
 'to': TO
 'the': -T
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'covered': KOFRD
 'him': HEUPL
 'over': OEFR
@@ -3132,7 +3132,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'lay': HRAEU
 'down': TKOUPB
 'by': PWEU
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'After': KPA/AF
 'a': AEU
 'short': SHORT
@@ -3142,46 +3142,46 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'man': PHAPB
 'became': PWAEUPL
 'warm': WARPL
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
-'move.': PHOF TP-PL
+'move.': PHOF/TP-PL
 'Then': KPA/THEPB
 'said': SED
 'the': -T
-'youth,': KWRAO*UT KW-BG
-''See,': AE KPA/SAOE KW-BG
+'youth,': KWRAO*UT/KW-BG
+''See,': AE/KPA/SAOE/KW-BG
 'little': HREUL
-'cousin,': KUZ KW-BG
+'cousin,': KUZ/KW-BG
 'have': SR
 'I': EU
 'not': TPHOT
 'warmed': WARPLD
-'you?'': U H-F AE
+'you?'': U/H-F/AE
 'The': KPA/-T
 'dead': TKED
-'man,': PHAPB KW-BG
-'however,': HOUF KW-BG
+'man,': PHAPB/KW-BG
+'however,': HOUF/KW-BG
 'got': TKPWOT
 'up': UP
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Now': AE KPA/TPHOU
+'cried:': KRAOEUD/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'will': HR
 'I': EU
 'strangle': STRAPBG/*L
-'you.'': U TP-PL AE
-''What!'': AE KPA/WHA SKHRAPL AE
+'you.'': U/TP-PL/AE
+''What!'': AE/KPA/WHA/SKHRAPL/AE
 'said': SED
-'he,': HE KW-BG
-''is': AE S
+'he,': HE/KW-BG
+''is': AE/S
 'that': THA
 'the': -T
 'way': WAEU
 'you': U
 'thank': THAPBG
-'me?': PHE H-F
+'me?': PHE/H-F
 'You': KPA/U
 'shall': SHAL
 'at': AT
@@ -3190,20 +3190,20 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'into': TPHAO
 'your': KWROUR
 'coffin': KOFPB
-'again,'': TKPWEPB KW-BG AE
+'again,'': TKPWEPB/KW-BG/AE
 'and': SKP
 'he': HE
 'took': TAOBG
 'him': HEUPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'threw': THRAOU
 'him': HEUPL
 'into': TPHAO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'shut': SHUT
 'the': -T
-'lid.': HREUD TP-PL
+'lid.': HREUD/TP-PL
 'Then': KPA/THEPB
 'came': KAEUPL
 'the': -T
@@ -3213,15 +3213,15 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'carried': KAERD
 'him': HEUPL
 'away': WA*EU
-'again.': TKPWEPB TP-PL
-''I': AE EU
+'again.': TKPWEPB/TP-PL
+''I': AE/EU
 'cannot': SK-PBT
 'manage': PHAPBG
 'to': TO
-'shudder,'': SHUD/ER KW-BG AE
+'shudder,'': SHUD/ER/KW-BG/AE
 'said': SED
-'he.': HE TP-PL
-''I': AE EU
+'he.': HE/TP-PL
+''I': AE/EU
 'shall': SHAL
 'never': TPHEFR
 'learn': HRERPB
@@ -3231,7 +3231,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'long': HROPBG
 'as': AS
 'I': EU
-'live.'': HREUF TP-PL AE
+'live.'': HREUF/TP-PL/AE
 'Then': KPA/THEPB
 'a': AEU
 'man': PHAPB
@@ -3241,25 +3241,25 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'taller': TAURL
 'than': THAPB
 'all': AUL
-'others,': OERS KW-BG
+'others,': OERS/KW-BG
 'and': SKP
 'looked': HRAOBGD
-'terrible.': TERBL TP-PL
+'terrible.': TERBL/TP-PL
 'He': KPA/HE
 'was': WAS
-'old,': OLD KW-BG
-'however,': HOUF KW-BG
+'old,': OLD/KW-BG
+'however,': HOUF/KW-BG
 'and': SKP
 'had': H
 'a': AEU
 'long': HROPBG
 'white': WHAOEUT
-'beard.': PWAERD TP-PL
-''You': AE KPA/U
-'wretch,'': WREFP KW-BG AE
+'beard.': PWAERD/TP-PL
+''You': AE/KPA/U
+'wretch,'': WREFP/KW-BG/AE
 'cried': KRAOEUD
-'he,': HE KW-BG
-''you': AE U
+'he,': HE/KW-BG
+''you': AE/U
 'shall': SHAL
 'soon': SAOPB
 'learn': HRERPB
@@ -3267,22 +3267,22 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'is': S
 'to': TO
-'shudder,': SHUD/ER KW-BG
+'shudder,': SHUD/ER/KW-BG
 'for': TPOR
 'you': U
 'shall': SHAL
-'die.'': TKAOEU TP-PL AE
-''Not': AE KPA/TPHOT
+'die.'': TKAOEU/TP-PL/AE
+''Not': AE/KPA/TPHOT
 'so': SO
-'fast,'': TPAFT KW-BG AE
+'fast,'': TPAFT/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'youth.': KWRAO*UT TP-PL
-''If': AE KPA/TP
+'youth.': KWRAO*UT/TP-PL
+''If': AE/KPA/TP
 'I': EU
 'am': APL
 'to': TO
-'die,': TKAOEU KW-BG
+'die,': TKAOEU/KW-BG
 'I': EU
 'shall': SHAL
 'have': SR
@@ -3291,52 +3291,52 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'a': AEU
 'say': SAEU
 'in': TPH
-'it.'': T TP-PL AE
-''I': AE EU
+'it.'': T/TP-PL/AE
+''I': AE/EU
 'will': HR
 'soon': SAOPB
 'seize': SAOEZ
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'said': SED
 'the': -T
-'fiend.': TPAOEPBD TP-PL
-''Softly,': AE KPA/SOFT/HREU KW-BG
-'softly,': SOFT/HREU KW-BG
+'fiend.': TPAOEPBD/TP-PL
+''Softly,': AE/KPA/SOFT/HREU/KW-BG
+'softly,': SOFT/HREU/KW-BG
 'do': TKO
 'not': TPHOT
 'talk': TAUBG
 'so': SO
-'big.': PWEUG TP-PL
+'big.': PWEUG/TP-PL
 'I': EU
 'am': APL
 'as': AS
 'strong': STROPBG
 'as': AS
 'you': U
-'are,': R KW-BG
+'are,': R/KW-BG
 'and': SKP
 'perhaps': PRAPS
 'even': AOEPB
-'stronger.'': STRORPBG TP-PL AE
-''We': AE KPA/WE
+'stronger.'': STRORPBG/TP-PL/AE
+''We': AE/KPA/WE
 'shall': SHAL
-'see,'': SAOE KW-BG AE
+'see,'': SAOE/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'man.': PHAPB TP-PL
-''If': AE KPA/TP
+'man.': PHAPB/TP-PL
+''If': AE/KPA/TP
 'you': U
 'are': R
-'stronger,': STRORPBG KW-BG
+'stronger,': STRORPBG/KW-BG
 'I': EU
 'will': HR
 'let': HRET
 'you': U
-'go--come,': TKPW H-PB H-PB KOPL KW-BG
+'go--come,': TKPW/H-PB/H-PB/KOPL/KW-BG
 'we': WE
 'will': HR
-'try.'': TREU TP-PL AE
+'try.'': TREU/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'led': HRED
@@ -3346,11 +3346,11 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'passages': PA*PBLGS
 'to': TO
 'a': AEU
-'Smith's': SPH*EUT AES
-'forge,': TPORPBLG KW-BG
+'Smith's': SPH*EUT/AES
+'forge,': TPORPBLG/KW-BG
 'took': TAOBG
 'an': APB
-'axe,': ABGS KW-BG
+'axe,': ABGS/KW-BG
 'and': SKP
 'with': W
 'one': WUPB
@@ -3360,22 +3360,22 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'anvil': APB/SREUL
 'into': TPHAO
 'the': -T
-'ground.': TKPWROUPBD TP-PL
-''I': AE EU
+'ground.': TKPWROUPBD/TP-PL
+''I': AE/EU
 'can': K
 'do': TKO
 'better': PWOERT
 'than': THAPB
-'that,'': THA KW-BG AE
+'that,'': THA/KW-BG/AE
 'said': SED
 'the': -T
-'youth,': KWRAO*UT KW-BG
+'youth,': KWRAO*UT/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
 'the': -T
 'other': OER
-'anvil.': APB/SREUL TP-PL
+'anvil.': APB/SREUL/TP-PL
 'The': KPA/-T
 'old': OLD
 'man': PHAPB
@@ -3386,25 +3386,25 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'wanted': WAPBTD
 'to': TO
 'look': HRAOBG
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'his': HEUS
 'white': WHAOEUT
 'beard': PWAERD
 'hung': HUPBG
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'youth': KWRAO*UT
 'seized': SAOEZ/-D
 'the': -T
-'axe,': ABGS KW-BG
+'axe,': ABGS/KW-BG
 'split': SPHREUT
 'the': -T
 'anvil': APB/SREUL
 'with': W
 'one': WUPB
-'blow,': PWHROE KW-BG
+'blow,': PWHROE/KW-BG
 'and': SKP
 'in': TPH
 'it': T
@@ -3412,21 +3412,21 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'the': -T
 'old': OLD
 'man's': PHAPB/AES
-'beard.': PWAERD TP-PL
-''Now': AE KPA/TPHOU
+'beard.': PWAERD/TP-PL
+''Now': AE/KPA/TPHOU
 'I': EU
 'have': SR
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'said': SED
 'the': -T
-'youth.': KWRAO*UT TP-PL
-''Now': AE KPA/TPHOU
+'youth.': KWRAO*UT/TP-PL
+''Now': AE/KPA/TPHOU
 'it': T
 'is': S
 'your': KWROUR
 'turn': TURPB
 'to': TO
-'die.'': TKAOEU TP-PL AE
+'die.'': TKAOEU/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'seized': SAOEZ/-D
@@ -3445,14 +3445,14 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'entreated': SPWRAOET/-D
 'him': HEUPL
 'to': TO
-'stop,': STOP KW-BG
+'stop,': STOP/KW-BG
 'when': WHEPB
 'he': HE
 'would': WO
 'give': TKPWEUF
 'him': HEUPL
 'great': TKPWRAET
-'riches.': REUFPS TP-PL
+'riches.': REUFPS/TP-PL
 'The': KPA/-T
 'youth': KWRAO*UT
 'drew': TKRAOU
@@ -3462,7 +3462,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'let': HRET
 'him': HEUPL
-'go.': TKPW TP-PL
+'go.': TKPW/TP-PL
 'The': KPA/-T
 'old': OLD
 'man': PHAPB
@@ -3471,7 +3471,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'back': PWABG
 'into': TPHAO
 'the': -T
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'and': SKP
 'in': TPH
 'a': AEU
@@ -3482,43 +3482,43 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'chests': KHEFT/-S
 'full': TPUL
 'of': -F
-'gold.': TKPWOELD TP-PL
-''Of': AE KPA/-F
-'these,'': THEZ KW-BG AE
+'gold.': TKPWOELD/TP-PL
+''Of': AE/KPA/-F
+'these,'': THEZ/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''one': AE WUPB
+'he,': HE/KW-BG
+''one': AE/WUPB
 'part': PART
 'is': S
 'for': TPOR
 'the': -T
-'poor,': PAOR KW-BG
+'poor,': PAOR/KW-BG
 'the': -T
 'other': OER
 'for': TPOR
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'the': -T
 'third': THEURD
-'yours.'': KWROURS TP-PL AE
+'yours.'': KWROURS/TP-PL/AE
 'In': KPA/TPH
 'the': -T
 'meantime': PHAOEPB/TAO*EUPL
 'it': T
 'struck': STRUBG
-'twelve,': TWEFL KW-BG
+'twelve,': TWEFL/KW-BG
 'and': SKP
 'the': -T
 'spirit': SPEURT
-'disappeared,': TKEUS/PAOERD KW-BG
+'disappeared,': TKEUS/PAOERD/KW-BG
 'so': SO
 'that': THA
 'the': -T
 'youth': KWRAO*UT
 'stood': STAOD
 'in': TPH
-'darkness.': TKARBG/-PBS TP-PL
-''I': AE EU
+'darkness.': TKARBG/-PBS/TP-PL
+''I': AE/EU
 'shall': SHAL
 'still': STEUL
 'be': -B
@@ -3527,51 +3527,51 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'find': TPAOEUPBD
 'my': PHEU
 'way': WAEU
-'out,'': OUT KW-BG AE
+'out,'': OUT/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'and': SKP
 'felt': TPELT
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'found': TPOUPBD
 'the': -T
 'way': WAEU
 'into': TPHAO
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'slept': SHREPT
 'there': THR
 'by': PWEU
 'his': HEUS
-'fire.': TPAOEUR TP-PL
+'fire.': TPAOEUR/TP-PL
 'Next': KPA/TPHEGT
 'morning': PHORPBG
 'the': -T
 'king': KEUPBG
 'came': KAEUPL
 'and': SKP
-'said:': SED STPH-FPLT
-''Now': AE KPA/TPHOU
+'said:': SED/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'you': U
 'must': PHUFT
 'have': SR
 'learnt': HRERPBT
 'what': WHA
 'shuddering': SHUD/ERG
-'is?'': S H-F AE
-''No,'': AE KPA/TPHO KW-BG AE
+'is?'': S/H-F/AE
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'he': HE
-'answered;': AEPBS/-D STPH*FPLT
-''what': AE WHA
+'answered;': AEPBS/-D/STPH*FPLT
+''what': AE/WHA
 'can': K
 'it': T
-'be?': -B H-F
+'be?': -B/H-F
 'My': KPA/PHEU
 'dead': TKED
 'cousin': KUZ
 'was': WAS
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'and': SKP
 'a': AEU
 'bearded': PWAOERD/-D
@@ -3586,7 +3586,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'of': -F
 'money': PHUPB
 'down': TKOUPB
-'below,': PWHRO KW-BG
+'below,': PWHRO/KW-BG
 'but': PWUT
 'no': TPHO
 'one': WUPB
@@ -3596,29 +3596,29 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'was': WAS
 'to': TO
-'shudder.'': SHUD/ER TP-PL AE
-''Then,'': AE KPA/THEPB KW-BG AE
+'shudder.'': SHUD/ER/TP-PL/AE
+''Then,'': AE/KPA/THEPB/KW-BG/AE
 'said': SED
 'the': -T
-'king,': KEUPBG KW-BG
-''you': AE U
+'king,': KEUPBG/KW-BG
+''you': AE/U
 'have': SR
 'saved': SAFD
 'the': -T
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'and': SKP
 'shall': SHAL
 'marry': PHAER
 'my': PHEU
-'daughter.'': TKAUR TP-PL AE
-''That': AE KPA/THA
+'daughter.'': TKAUR/TP-PL/AE
+''That': AE/KPA/THA
 'is': S
 'all': AUL
 'very': SRE
-'well,'': WEL KW-BG AE
+'well,'': WEL/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''but': AE PWUT
+'he,': HE/KW-BG
+''but': AE/PWUT
 'still': STEUL
 'I': EU
 'do': TKO
@@ -3628,7 +3628,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'is': S
 'to': TO
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE
 'Then': KPA/THEPB
 'the': -T
 'gold': TKPWOELD
@@ -3638,7 +3638,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'the': -T
 'wedding': WEGD
-'celebrated;': SEL/PWRAEUT/-D STPH*FPLT
+'celebrated;': SEL/PWRAEUT/-D/STPH*FPLT
 'but': PWUT
 'howsoever': HRO*ER/H*P/O*/W*/S*/O*/*E/SR*/*E/R*
 'much': PHUFP
@@ -3647,41 +3647,41 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'king': KEUPBG
 'loved': HROFD
 'his': HEUS
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'however': HOUF
 'happy': HAEP
 'he': HE
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'he': HE
 'still': STEUL
 'said': SED
-'always:': AULS STPH-FPLT
-''If': AE KPA/TP
+'always:': AULS/STPH-FPLT
+''If': AE/KPA/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder--if': SHUD/ER H-PB H-PB TP
+'shudder--if': SHUD/ER/H-PB/H-PB/TP
 'I': EU
 'could': KO
 'but': PWUT
-'shudder.'': SHUD/ER TP-PL AE
+'shudder.'': SHUD/ER/TP-PL/AE
 'And': AFPBD
 'this': TH
 'at': AT
 'last': HRAFT
 'angered': A*RPBG/-D
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Her': KPA/HER
-'waiting-maid': WAEUGT H-PB PHAEUD
-'said:': SED STPH-FPLT
-''I': AE EU
+'waiting-maid': WAEUGT/H-PB/PHAEUD
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'will': HR
 'find': TPAOEUPBD
 'a': AEU
 'cure': KAOUR
 'for': TPOR
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'he': HE
 'shall': SHAL
 'soon': SAOPB
@@ -3690,7 +3690,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'is': S
 'to': TO
-'shudder.'': SHUD/ER TP-PL AE
+'shudder.'': SHUD/ER/TP-PL/AE
 'She': KPA/SHE
 'went': WEPBT
 'out': OUT
@@ -3701,7 +3701,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'flowed': TPHROED
 'through': THRU
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'and': SKP
 'had': H
 'a': AEU
@@ -3711,7 +3711,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'gudgeons': xxx gudgeons
 'brought': PWRAUT
 'to': TO
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'At': KPA/AT
 'night': TPHAOEUT
 'when': WHEPB
@@ -3719,7 +3719,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'young': KWRUPBG
 'king': KEUPBG
 'was': WAS
-'sleeping,': SHRAOEPG KW-BG
+'sleeping,': SHRAOEPG/KW-BG
 'his': HEUS
 'wife': WAOEUF
 'was': WAS
@@ -3743,7 +3743,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'in': TPH
 'it': T
 'over': OEFR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -3752,26 +3752,26 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'would': WO
 'sprawl': SPRAUL
 'about': PW
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'woke': WOEBG
 'up': UP
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'what': WHA
 'makes': PHAEUBGS
 'me': PHE
 'shudder': SHUD/ER
-'so?--what': SO H-F H-PB H-PB WHA
+'so?--what': SO/H-F/H-PB/H-PB/WHA
 'makes': PHAEUBGS
 'me': PHE
 'shudder': SHUD/ER
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'dear': TKAER
-'wife?': WAOEUF H-F
-'Ah!': KPA/HA*E SKHRAPL
+'wife?': WAOEUF/H-F
+'Ah!': KPA/HA*E/SKHRAPL
 'now': TPHOU
 'I': EU
 'know': TPHOE
@@ -3779,4 +3779,4 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'is': S
 'to': TO
-'shudder!'': SHUD/ER SKHRAPL AE
+'shudder!'': SHUD/ER/SKHRAPL/AE

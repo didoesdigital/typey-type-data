@@ -22,12 +22,12 @@ The Wicked Prince
 'countries': KUPBTS
 'of': -F
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'and': SKP
 'on': OPB
 'frightening': TPRAOEUT/EPBG
 'the': -T
-'people;': PAOEPL STPH*FPLT
+'people;': PAOEPL/STPH*FPLT
 'he': HE
 'devastated': TKEF/STAEUT/-D
 'their': THAEUR
@@ -35,7 +35,7 @@ The Wicked Prince
 'with': W
 'fire': TPAOEUR
 'and': SKP
-'sword,': SOERD KW-BG
+'sword,': SOERD/KW-BG
 'and': SKP
 'his': HEUS
 'soldiers': SHRERPBLGS
@@ -49,10 +49,10 @@ The Wicked Prince
 'and': SKP
 'destroyed': STKROEUD
 'the': -T
-'peasants'': PEFPBT/-S AE
+'peasants'': PEFPBT/-S/AE
 'huts': HUTS
 'by': PWEU
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -63,7 +63,7 @@ The Wicked Prince
 'leaves': HREFS
 'off': OF
 'the': -T
-'branches,': PWRAFRPBS KW-BG
+'branches,': PWRAFRPBS/KW-BG
 'and': SKP
 'the': -T
 'fruit': TPRAOUT
@@ -74,18 +74,18 @@ The Wicked Prince
 'the': -T
 'singed': SEUPB/-PBLGD
 'black': PWHRABG
-'trees.': TRAOES TP-PL
+'trees.': TRAOES/TP-PL
 'Many': KPA/PHAEPB
 'a': AEU
 'poor': PAOR
 'mother': PHOER
-'fled,': TPHRED KW-BG
+'fled,': TPHRED/KW-BG
 'her': HER
 'naked': TPHAEUBGD
 'baby': PWAEB
 'in': TPH
 'her': HER
-'arms,': ARPLS KW-BG
+'arms,': ARPLS/KW-BG
 'behind': HEUPBD
 'the': -T
 'still': STEUL
@@ -93,19 +93,19 @@ The Wicked Prince
 'walls': WAULS
 'of': -F
 'her': HER
-'cottage;': KOT/APBLG STPH*FPLT
+'cottage;': KOT/APBLG/STPH*FPLT
 'but': PWUT
 'also': HR-S
 'there': THR
 'the': -T
 'soldiers': SHRERPBLGS
 'followed': TPOLD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
 'found': TPOUPBD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'she': SHE
 'served': SEFRBD
 'as': AS
@@ -114,7 +114,7 @@ The Wicked Prince
 'to': TO
 'their': THAEUR
 'diabolical': TKAOEUB/HR-LG
-'enjoyments;': SKWROEUPLT/-S STPH*FPLT
+'enjoyments;': SKWROEUPLT/-S/STPH*FPLT
 'demons': TKE/PHOPB/-S
 'could': KO
 'not': TPHOT
@@ -125,7 +125,7 @@ The Wicked Prince
 'things': THEUPBGS
 'than': THAPB
 'these': THEZ
-'soldiers!': SHRERPBLGS SKHRAPL
+'soldiers!': SHRERPBLGS/SKHRAPL
 'The': KPA/-T
 'prince': PREUPBS
 'was': WAS
@@ -135,7 +135,7 @@ The Wicked Prince
 'all': AUL
 'this': TH
 'was': WAS
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'and': SKP
 'that': THA
 'it': T
@@ -148,24 +148,24 @@ The Wicked Prince
 'things': THEUPBGS
 'ought': OT
 'to': TO
-'take.': TAEUBG TP-PL
+'take.': TAEUBG/TP-PL
 'His': KPA/HEUS
 'power': POUR
 'increased': EUPB/KRAOEFD
 'day': TKAEU
 'by': PWEU
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'his': HEUS
 'name': TPHAEUPL
 'was': WAS
 'feared': TPAOERD
 'by': PWEU
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'fortune': TP-RPB
 'favoured': TPAEUFRD/A*U
 'his': HEUS
-'deeds.': TKAOEDZ TP-PL
+'deeds.': TKAOEDZ/TP-PL
 'He': KPA/HE
 'brought': PWRAUT
 'enormous': TPHO*RPLS
@@ -174,7 +174,7 @@ The Wicked Prince
 'from': TPR
 'the': -T
 'conquered': KAUPB/KERD
-'towns,': TOUPBS KW-BG
+'towns,': TOUPBS/KW-BG
 'and': SKP
 'gradually': TKPWRAD/WAEL
 'accumulated': A/KAOUPL/HRAEUTD
@@ -186,14 +186,14 @@ The Wicked Prince
 'could': KO
 'nowhere': TPHO/WR
 'be': -B
-'equalled.': KWAL/-D TP-PL
+'equalled.': KWAL/-D/TP-PL
 'He': KPA/HE
 'erected': AOE/REBGD
 'magnificent': PHAFPBT
-'palaces,': PAL/AS/-S KW-BG
-'churches,': KHUFRPBS KW-BG
+'palaces,': PAL/AS/-S/KW-BG
+'churches,': KHUFRPBS/KW-BG
 'and': SKP
-'halls,': HAULS KW-BG
+'halls,': HAULS/KW-BG
 'and': SKP
 'all': AUL
 'who': WHO
@@ -205,11 +205,11 @@ The Wicked Prince
 'great': TKPWRAET
 'treasures': TR-RBS
 'exclaimed': SKHRAEUPLD
-'admiringly:': AD/PHAOEURG/HREU STPH-FPLT
-'"What': KR-GS KPA/WHA
+'admiringly:': AD/PHAOEURG/HREU/STPH-FPLT
+'"What': KR-GS/KPA/WHA
 'a': AEU
 'mighty': PHAOEUT/KWREU
-'prince!"': PREUPBS SKHRAPL KR-GS
+'prince!"': PREUPBS/SKHRAPL/KR-GS
 'But': KPA/PWUT
 'they': THE
 'did': TK
@@ -223,7 +223,7 @@ The Wicked Prince
 'brought': PWRAUT
 'upon': POPB
 'other': OER
-'countries,': KUPBTS KW-BG
+'countries,': KUPBTS/KW-BG
 'nor': TPH-R
 'did': TK
 'they': THE
@@ -241,7 +241,7 @@ The Wicked Prince
 'of': -F
 'the': -T
 'destroyed': STKROEUD
-'cities.': STEUS TP-PL
+'cities.': STEUS/TP-PL
 'The': KPA/-T
 'prince': PREUPBS
 'often': OFPB
@@ -254,43 +254,43 @@ The Wicked Prince
 'and': SKP
 'his': HEUS
 'magnificent': PHAFPBT
-'edifices,': ED/TPEUS/-S KW-BG
+'edifices,': ED/TPEUS/-S/KW-BG
 'and': SKP
-'thought,': THAUT KW-BG
+'thought,': THAUT/KW-BG
 'like': HRAOEUBG
 'the': -T
-'crowd:': KROUD STPH-FPLT
-'"What': KR-GS KPA/WHA
+'crowd:': KROUD/STPH-FPLT
+'"What': KR-GS/KPA/WHA
 'a': AEU
 'mighty': PHAOEUT/KWREU
-'prince!': PREUPBS SKHRAPL
+'prince!': PREUPBS/SKHRAPL
 'But': KPA/PWUT
 'I': EU
 'must': PHUFT
 'have': SR
-'more—much': PHOR EPL/TKA*RB PHUFP
-'more.': PHOR TP-PL
+'more—much': PHOR/EPL/TKA*RB/PHUFP
+'more.': PHOR/TP-PL
 'No': KPA/TPHO
 'power': POUR
 'on': OPB
 'earth': *ERT
 'must': PHUFT
 'equal': KWAL
-'mine,': PHAOEUPB KW-BG
+'mine,': PHAOEUPB/KW-BG
 'far': TPAR
 'less': HRES
 'exceed': KPAOED
-'it."': T TP-PL KR-GS
+'it."': T/TP-PL/KR-GS
 'He': KPA/HE
 'made': PHAED
 'war': WAR
 'with': W
 'all': AUL
 'his': HEUS
-'neighbours,': TPHAEUBS/A*U KW-BG
+'neighbours,': TPHAEUBS/A*U/KW-BG
 'and': SKP
 'defeated': TKE/TPAOET/-D
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'The': KPA/-T
 'conquered': KAUPB/KERD
 'kings': KEUPBGS
@@ -311,7 +311,7 @@ The Wicked Prince
 'streets': STRAOETS
 'of': -F
 'his': HEUS
-'city.': STEU TP-PL
+'city.': STEU/TP-PL
 'These': KPA/THEZ
 'kings': KEUPBGS
 'had': H
@@ -321,13 +321,13 @@ The Wicked Prince
 'his': HEUS
 'and': SKP
 'his': HEUS
-'courtiers'': KORT/KWRERS AE
+'courtiers'': KORT/KWRERS/AE
 'feet': TPAOET
 'when': WHEPB
 'they': THE
 'sat': SAT
 'at': AT
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'live': HREUF
 'on': OPB
@@ -335,7 +335,7 @@ The Wicked Prince
 'morsels': PHOR/SEL/-S
 'which': WEU
 'they': THE
-'left.': HREFT TP-PL
+'left.': HREFT/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'the': -T
@@ -354,8 +354,8 @@ The Wicked Prince
 'on': OPB
 'the': -T
 'royal': ROEUL
-'palaces;': PAL/AS/-S STPH*FPLT
-'nay,': TPHAEU KW-BG
+'palaces;': PAL/AS/-S/STPH*FPLT
+'nay,': TPHAEU/KW-BG
 'he': HE
 'even': AOEPB
 'wished': WEURBD
@@ -365,47 +365,47 @@ The Wicked Prince
 'placed': PHRAEUFD
 'in': TPH
 'the': -T
-'churches,': KHUFRPBS KW-BG
+'churches,': KHUFRPBS/KW-BG
 'on': OPB
 'the': -T
-'altars,': AL/TAR/-S KW-BG
+'altars,': AL/TAR/-S/KW-BG
 'but': PWUT
 'in': TPH
 'this': TH
 'the': -T
 'priests': PRAOEFTS
 'opposed': PO*EFD
-'him,': HEUPL KW-BG
-'saying:': SAEUG STPH-FPLT
-'"Prince,': KR-GS PR*EUPBS KW-BG
+'him,': HEUPL/KW-BG
+'saying:': SAEUG/STPH-FPLT
+'"Prince,': KR-GS/PR*EUPBS/KW-BG
 'you': U
 'are': R
 'mighty': PHAOEUT/KWREU
-'indeed,': TPHAOEPBD KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'but': PWUT
-'God's': TKPWO*D AES
+'God's': TKPWO*D/AES
 'power': POUR
 'is': S
 'much': PHUFP
 'greater': TKPWRAERT
 'than': THAPB
-'yours;': KWROURS STPH*FPLT
+'yours;': KWROURS/STPH*FPLT
 'we': WE
 'dare': TKAEUR
 'not': TPHOT
 'obey': OE/PWAEU
 'your': KWROUR
-'orders."': ORDZ TP-PL KR-GS
-'"Well,"': KR-GS KPA/WEL KW-BG KR-GS
+'orders."': ORDZ/TP-PL/KR-GS
+'"Well,"': KR-GS/KPA/WEL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'prince.': PREUPBS TP-PL
-'"Then': KR-GS KPA/THEPB
+'prince.': PREUPBS/TP-PL
+'"Then': KR-GS/KPA/THEPB
 'I': EU
 'will': HR
 'conquer': KAUPB/KER
 'God': TKPWO*D
-'too."': TAO TP-PL KR-GS
+'too."': TAO/TP-PL/KR-GS
 'And': AFPBD
 'in': TPH
 'his': HEUS
@@ -420,7 +420,7 @@ The Wicked Prince
 'ship': SHEUP
 'to': TO
 'be': -B
-'constructed,': KRUBGTD KW-BG
+'constructed,': KRUBGTD/KW-BG
 'with': W
 'which': WEU
 'he': HE
@@ -428,7 +428,7 @@ The Wicked Prince
 'sail': SAEUL
 'through': THRU
 'the': -T
-'air;': AEUR STPH*FPLT
+'air;': AEUR/STPH*FPLT
 'it': T
 'was': WAS
 'gorgeously': TKPWORBS/HREU
@@ -437,20 +437,20 @@ The Wicked Prince
 'and': SKP
 'of': -F
 'many': PHAEPB
-'colours;': KHRORS/A*U STPH*FPLT
+'colours;': KHRORS/A*U/STPH*FPLT
 'like': HRAOEUBG
 'the': -T
 'tail': TAEUL
 'of': -F
 'a': AEU
-'peacock,': PAE/KOBG KW-BG
+'peacock,': PAE/KOBG/KW-BG
 'it': T
 'was': WAS
 'covered': KOFRD
 'with': W
 'thousands': THOUDZ
 'of': -F
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'but': PWUT
 'each': AOEFP
 'eye': AOEU
@@ -459,7 +459,7 @@ The Wicked Prince
 'barrel': PWARL
 'of': -F
 'a': AEU
-'gun.': TKPW-PB TP-PL
+'gun.': TKPW-PB/TP-PL
 'The': KPA/-T
 'prince': PREUPBS
 'sat': SAT
@@ -468,7 +468,7 @@ The Wicked Prince
 'centre': STR/A*U
 'of': -F
 'the': -T
-'ship,': SHEUP KW-BG
+'ship,': SHEUP/KW-BG
 'and': SKP
 'had': H
 'only': OEPBL
@@ -487,7 +487,7 @@ The Wicked Prince
 'out': OUT
 'in': TPH
 'all': AUL
-'directions,': TKREBGS/-S KW-BG
+'directions,': TKREBGS/-S/KW-BG
 'while': WHAOEUL
 'the': -T
 'guns': TKPW-PBS
@@ -495,7 +495,7 @@ The Wicked Prince
 'at': AT
 'once': WUPBS
 'loaded': HRAOD/-D
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'Hundreds': KPA/HUPBS
 'of': -F
 'eagles': AOEG/-LS
@@ -503,7 +503,7 @@ The Wicked Prince
 'attached': A/TAFPD
 'to': TO
 'this': TH
-'ship,': SHEUP KW-BG
+'ship,': SHEUP/KW-BG
 'and': SKP
 'it': T
 'rose': ROEZ
@@ -516,21 +516,21 @@ The Wicked Prince
 'up': UP
 'towards': TORDZ
 'the': -T
-'sun.': SUPB TP-PL
+'sun.': SUPB/TP-PL
 'The': KPA/-T
 'earth': *ERT
 'was': WAS
 'soon': SAOPB
 'left': HREFT
 'far': TPAR
-'below,': PWHRO KW-BG
+'below,': PWHRO/KW-BG
 'and': SKP
-'looked,': HRAOBGD KW-BG
+'looked,': HRAOBGD/KW-BG
 'with': W
 'its': EUTS
 'mountains': PHOUPB/TAEUPBS
 'and': SKP
-'woods,': WAODZ KW-BG
+'woods,': WAODZ/KW-BG
 'like': HRAOEUBG
 'a': AEU
 'cornfield': KORPB/TPAO*ELD
@@ -543,7 +543,7 @@ The Wicked Prince
 'which': WEU
 'separated': SERPTD
 'green': TKPWRAOEPB
-'meadows;': PHED/OES STPH*FPLT
+'meadows;': PHED/OES/STPH*FPLT
 'soon': SAOPB
 'it': T
 'looked': HRAOBGD
@@ -555,7 +555,7 @@ The Wicked Prince
 'indistinct': EUPB/TKEUS/TEUPBG
 'lines': HRAOEUPBS
 'upon': POPB
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -565,7 +565,7 @@ The Wicked Prince
 'in': TPH
 'mist': PHEUFT
 'and': SKP
-'clouds.': KHROUDZ TP-PL
+'clouds.': KHROUDZ/TP-PL
 'Higher': KPA/HAOEUR
 'and': SKP
 'higher': HAOEUR
@@ -575,7 +575,7 @@ The Wicked Prince
 'up': UP
 'into': TPHAO
 'the': -T
-'air;': AEUR STPH*FPLT
+'air;': AEUR/STPH*FPLT
 'then': THEPB
 'God': TKPWO*D
 'sent': SEPBT
@@ -586,7 +586,7 @@ The Wicked Prince
 'angels': APB/SKWREL/-S
 'against': TKPWEPBS
 'the': -T
-'ship.': SHEUP TP-PL
+'ship.': SHEUP/TP-PL
 'The': KPA/-T
 'wicked': WEUBGD
 'prince': PREUPBS
@@ -595,7 +595,7 @@ The Wicked Prince
 'of': -F
 'bullets': PW*ULTS
 'upon': POPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'they': THE
 'rebounded': RE/PWOUBD/-D
@@ -608,14 +608,14 @@ The Wicked Prince
 'down': TKOUPB
 'like': HRAOEUBG
 'ordinary': OERD
-'hailstones.': HAEUL/STOEPB/-S TP-PL
+'hailstones.': HAEUL/STOEPB/-S/TP-PL
 'One': KPA/WUPB
 'drop': TKROP
 'of': -F
-'blood,': PWHRAOD KW-BG
+'blood,': PWHRAOD/KW-BG
 'one': WUPB
 'single': SEUPBLG
-'drop,': TKROP KW-BG
+'drop,': TKROP/KW-BG
 'came': KAEUPL
 'out': OUT
 'of': -F
@@ -624,7 +624,7 @@ The Wicked Prince
 'feathers': TP*ET/ERS
 'of': -F
 'the': -T
-'angel's': APB/SKWREL AES
+'angel's': APB/SKWREL/AES
 'wings': WEUPBGS
 'and': SKP
 'fell': TPEL
@@ -635,10 +635,10 @@ The Wicked Prince
 'which': WEU
 'the': -T
 'prince': PREUPBS
-'sat,': SAT KW-BG
+'sat,': SAT/KW-BG
 'burnt': PWURPBT
 'into': TPHAO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'weighed': WA*ED
 'upon': POPB
@@ -646,7 +646,7 @@ The Wicked Prince
 'like': HRAOEUBG
 'thousands': THOUDZ
 'of': -F
-'hundredweights,': xxx hundredweights KW-BG
+'hundredweights,': xxx hundredweights/KW-BG
 'dragging': TKRAG/-G
 'it': T
 'rapidly': RAEPLD
@@ -654,7 +654,7 @@ The Wicked Prince
 'to': TO
 'the': -T
 'earth': *ERT
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'the': -T
 'strong': STROPBG
 'wings': WEUPBGS
@@ -662,18 +662,18 @@ The Wicked Prince
 'the': -T
 'eagles': AOEG/-LS
 'gave': TKPWAEUF
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'the': -T
 'wind': WEUPBD
 'roared': RAORD
 'round': ROUPBD
 'the': -T
-'prince's': PREUPBS AES
-'head,': HED KW-BG
+'prince's': PREUPBS/AES
+'head,': HED/KW-BG
 'and': SKP
 'the': -T
 'clouds': KHROUDZ
-'around—were': ARPBD EPL/TKA*RB WR
+'around—were': ARPBD/EPL/TKA*RB/WR
 'they': THE
 'formed': TPORPLD
 'by': PWEU
@@ -684,46 +684,46 @@ The Wicked Prince
 'from': TPR
 'the': -T
 'burnt': PWURPBT
-'cities?—took': STEUS H-F EPL/TKA*RB TAOBG
+'cities?—took': STEUS/H-F/EPL/TKA*RB/TAOBG
 'strange': STRAEUPBG
-'shapes,': SHAEUPS KW-BG
+'shapes,': SHAEUPS/KW-BG
 'like': HRAOEUBG
 'crabs': KRABS
-'many,': PHAEPB KW-BG
+'many,': PHAEPB/KW-BG
 'many': PHAEPB
 'miles': PHAOEULS
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'which': WEU
 'stretched': STREFPD
 'their': THAEUR
 'claws': KHRAU/-S
 'out': OUT
 'after': AF
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'rose': ROEZ
 'up': UP
 'like': HRAOEUBG
 'enormous': TPHO*RPLS
-'rocks,': ROBGS KW-BG
+'rocks,': ROBGS/KW-BG
 'from': TPR
 'which': WEU
 'rolling': ROLG
 'masses': PHAS/-S
 'dashed': TKARBD
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'became': PWAEUPL
-'fire-spitting': TPAOEUR H-PB SPEUGT
-'dragons.': TKRAG/O*PB/-S TP-PL
+'fire-spitting': TPAOEUR/H-PB/SPEUGT
+'dragons.': TKRAG/O*PB/-S/TP-PL
 'The': KPA/-T
 'prince': PREUPBS
 'was': WAS
 'lying': HRAOEUG
-'half-dead': HAF H-PB TKED
+'half-dead': HAF/H-PB/TKED
 'in': TPH
 'his': HEUS
-'ship,': SHEUP KW-BG
+'ship,': SHEUP/KW-BG
 'when': WHEPB
 'it': T
 'sank': SA*PBG
@@ -742,23 +742,23 @@ The Wicked Prince
 'tree': TRAOE
 'in': TPH
 'the': -T
-'wood.': WAOD TP-PL
-'"I': KR-GS EU
+'wood.': WAOD/TP-PL
+'"I': KR-GS/EU
 'will': HR
 'conquer': KAUPB/KER
-'God!"': TKPWO*D SKHRAPL KR-GS
+'God!"': TKPWO*D/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'prince.': PREUPBS TP-PL
-'"I': KR-GS EU
+'prince.': PREUPBS/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'sworn': SWORPB
-'it:': T STPH-FPLT
+'it:': T/STPH-FPLT
 'my': PHEU
 'will': HR
 'must': PHUFT
 'be': -B
-'done!"': TKOPB SKHRAPL KR-GS
+'done!"': TKOPB/SKHRAPL/KR-GS
 'And': AFPBD
 'he': HE
 'spent': SPEPBT
@@ -774,7 +774,7 @@ The Wicked Prince
 'sail': SAEUL
 'through': THRU
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'and': SKP
 'had': H
 'darts': TKARTS
@@ -789,13 +789,13 @@ The Wicked Prince
 'walls': WAULS
 'of': -F
 'heaven': HEFPB
-'with.': W TP-PL
+'with.': W/TP-PL
 'He': KPA/HE
 'gathered': TKPWAERD
 'warriors': WAR/KWRORS
 'from': TPR
 'all': AUL
-'countries,': KUPBTS KW-BG
+'countries,': KUPBTS/KW-BG
 'so': SO
 'many': PHAEPB
 'that': THA
@@ -812,7 +812,7 @@ The Wicked Prince
 'space': SPAEUS
 'of': -F
 'several': SEFRL
-'miles.': PHAOEULS TP-PL
+'miles.': PHAOEULS/TP-PL
 'They': KPA/THE
 'entered': SPWR-D
 'the': -T
@@ -823,18 +823,18 @@ The Wicked Prince
 'was': WAS
 'approaching': A/PROEFPG
 'his': HEUS
-'own,': OEPB KW-BG
+'own,': OEPB/KW-BG
 'when': WHEPB
 'God': TKPWO*D
 'sent': SEPBT
 'a': AEU
 'swarm': SWARPL
 'of': -F
-'gnats—one': TPHA*T/-S EPL/TKA*RB WUPB
+'gnats—one': TPHA*T/-S/EPL/TKA*RB/WUPB
 'swarm': SWARPL
 'of': -F
 'little': HREUL
-'gnats.': TPHA*T/-S TP-PL
+'gnats.': TPHA*T/-S/TP-PL
 'They': KPA/THE
 'buzzed': PWUZ/-D
 'round': ROUPBD
@@ -845,7 +845,7 @@ The Wicked Prince
 'his': HEUS
 'face': TPAEUS
 'and': SKP
-'hands;': HAPBDZ STPH*FPLT
+'hands;': HAPBDZ/STPH*FPLT
 'angrily': APBG/REU/HREU
 'he': HE
 'drew': TKRAOU
@@ -853,7 +853,7 @@ The Wicked Prince
 'sword': SOERD
 'and': SKP
 'brandished': PWRAPBD/EURB/-D
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'he': HE
 'only': OEPBL
@@ -865,7 +865,7 @@ The Wicked Prince
 'not': TPHOT
 'hit': HEUT
 'the': -T
-'gnats.': TPHA*T/-S TP-PL
+'gnats.': TPHA*T/-S/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'ordered': ORD/-D
@@ -879,7 +879,7 @@ The Wicked Prince
 'wrap': WRAP
 'him': HEUPL
 'in': TPH
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'that': THA
 'the': -T
 'gnats': TPHA*T/-S
@@ -890,13 +890,13 @@ The Wicked Prince
 'able': ABL
 'to': TO
 'reach': RAOEFP
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'servants': SER/SRAPBTS
 'carried': KAERD
 'out': OUT
 'his': HEUS
-'orders,': ORDZ KW-BG
+'orders,': ORDZ/KW-BG
 'but': PWUT
 'one': WUPB
 'single': SEUPBLG
@@ -908,30 +908,30 @@ The Wicked Prince
 'one': WUPB
 'of': -F
 'the': -T
-'coverings,': KOFRG/-S KW-BG
+'coverings,': KOFRG/-S/KW-BG
 'crept': KREPT
 'into': TPHAO
 'the': -T
-'prince's': PREUPBS AES
+'prince's': PREUPBS/AES
 'ear': AOER
 'and': SKP
 'stung': STUPBG
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'place': PHRAEUS
 'burnt': PWURPBT
 'like': HRAOEUBG
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'the': -T
 'poison': POEUGS
 'entered': SPWR-D
 'into': TPHAO
 'his': HEUS
-'blood.': PWHRAOD TP-PL
+'blood.': PWHRAOD/TP-PL
 'Mad': KPA/PHAD
 'with': W
-'pain,': PAEUPB KW-BG
+'pain,': PAEUPB/KW-BG
 'he': HE
 'tore': TO*R
 'off': OF
@@ -940,11 +940,11 @@ The Wicked Prince
 'and': SKP
 'his': HEUS
 'clothes': KHRO*ETS
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'flinging': TPHREUPBG/-G
 'them': THEPL
 'far': TPAR
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'danced': TKAPBS/-D
 'about': PW
@@ -954,22 +954,22 @@ The Wicked Prince
 'of': -F
 'his': HEUS
 'ferocious': TPROERBS
-'soldiers,': SHRERPBLGS KW-BG
+'soldiers,': SHRERPBLGS/KW-BG
 'who': WHO
 'now': TPHOU
 'mocked': PHOBG/-D
 'at': AT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'the': -T
 'mad': PHAD
-'prince,': PREUPBS KW-BG
+'prince,': PREUPBS/KW-BG
 'who': WHO
 'wished': WEURBD
 'to': TO
 'make': PHAEUBG
 'war': WAR
 'with': W
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'and': SKP
 'was': WAS
 'overcome': AUFR/KOPL
@@ -977,4 +977,4 @@ The Wicked Prince
 'a': AEU
 'single': SEUPBLG
 'little': HREUL
-'gnat.': TPHA*T TP-PL
+'gnat.': TPHA*T/TP-PL

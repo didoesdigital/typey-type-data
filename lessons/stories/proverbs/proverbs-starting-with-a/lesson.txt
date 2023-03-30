@@ -6,7 +6,7 @@ Proverbs starting with A
 'always': AULS
 'blames': PWHRAEUPLS
 'his': HEUS
-'tools.': TAOLS TP-PL
+'tools.': TAOLS/TP-PL
 'A': KPA/AEU
 'bird': PWEURD
 'in': TPH
@@ -17,20 +17,20 @@ Proverbs starting with A
 'two': TWO
 'in': TPH
 'the': -T
-'bush.': PWURB TP-PL
+'bush.': PWURB/TP-PL
 'Absence': KPA/AB/SEPBS
 'makes': PHAEUBGS
 'the': -T
 'heart': HART
 'grow': TKPWROE
-'fonder.': TPOPB/TKER TP-PL
+'fonder.': TPOPB/TKER/TP-PL
 'A': KPA/AEU
 'cat': KAT
 'may': PHAE
 'look': HRAOBG
 'at': AT
 'the': -T
-'king.': KEUPBG TP-PL
+'king.': KEUPBG/TP-PL
 'A': KPA/AEU
 'chain': KHAEUPB
 'is': S
@@ -39,24 +39,24 @@ Proverbs starting with A
 'than': THAPB
 'its': EUTS
 'weakest': WAEBG/EFT
-'link.': HR*EUPBG TP-PL
+'link.': HR*EUPBG/TP-PL
 'A': KPA/AEU
 'creaking': KRAEBG/-G
 'gate': TKPWAET
 'hangs': HAPBGS
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL
 'Actions': KPA/-BGSZ
 'speak': SPAOEBG
 'louder': HROURD
 'than': THAPB
-'words.': WORDZ TP-PL
+'words.': WORDZ/TP-PL
 'A': KPA/AEU
 'day': TKAEU
 'late': HRAEUT
 'and': SKP
 'a': AEU
 'dollar': TKHRAR
-'short.': SHORT TP-PL
+'short.': SHORT/TP-PL
 'A': KPA/AEU
 'fool': TPAOL
 'and': SKP
@@ -64,14 +64,14 @@ Proverbs starting with A
 'money': PHUPB
 'are': R
 'soon': SAOPB
-'parted.': PARTD TP-PL
+'parted.': PARTD/TP-PL
 'A': KPA/AEU
 'fox': TPOBGS
 'smells': SPHELS
 'its': EUTS
 'own': OEPB
 'lair': HRA*EUR
-'first.': TPEUFRT TP-PL
+'first.': TPEUFRT/TP-PL
 'A': KPA/AEU
 'friend': TPREPBD
 'in': TPH
@@ -79,41 +79,41 @@ Proverbs starting with A
 'is': S
 'a': AEU
 'friend': TPREPBD
-'indeed.': TPHAOEPBD TP-PL
+'indeed.': TPHAOEPBD/TP-PL
 'After': KPA/AF
 'dinner': TKEURPB
 'sit': SEUT
 'a': AEU
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'after': AF
 'supper': SAOURP
 'walk': WAUBG
 'a': AEU
-'mile.': PHAOEUL TP-PL
+'mile.': PHAOEUL/TP-PL
 'Age': KPA/AEUPBLG
 'before': PW-FR
-'beauty.': PWAOUT TP-PL
+'beauty.': PWAOUT/TP-PL
 'A': KPA/AEU
 'good': TKPWAOD
 'beginning': TKPWEUPB/-G
 'makes': PHAEUBGS
 'a': AEU
 'good': TKPWAOD
-'ending.': EPBGD TP-PL
+'ending.': EPBGD/TP-PL
 'A': KPA/AEU
 'good': TKPWAOD
 'surgeon': SURG
 'has': HAS
 'an': APB
-'eagle's': AOEG/-L AES
-'eye,': AOEU KW-BG
+'eagle's': AOEG/-L/AES
+'eye,': AOEU/KW-BG
 'a': AEU
-'lion's': HRO*EUPB AES
-'heart,': HART KW-BG
+'lion's': HRO*EUPB/AES
+'heart,': HART/KW-BG
 'and': SKP
 'a': AEU
 'lady's': HRAEUD/KWREU/AES
-'hand.': HAPBD TP-PL
+'hand.': HAPBD/TP-PL
 'A': KPA/AEU
 'jack': SKWRABG
 'of': -F
@@ -122,12 +122,12 @@ Proverbs starting with A
 'is': S
 'master': PHAFRT
 'of': -F
-'none.': TPHOPB TP-PL
+'none.': TPHOPB/TP-PL
 'A': KPA/AEU
 'lie': HRAOEU
 'has': HAS
 'no': TPHO
-'legs.': HREGS TP-PL
+'legs.': HREGS/TP-PL
 'A': KPA/AEU
 'lie': HRAOEU
 'can': K
@@ -142,21 +142,21 @@ Proverbs starting with A
 'gets': TKPWETS
 'its': EUTS
 'boots': PWAOTS
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'A': KPA/AEU
 'little': HREUL
 'learning': HRERPBG
 'is': S
 'a': AEU
 'dangerous': TKAEUPBLGS
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'All': KPA/AUL
 'flowers': TPHRO*URS
 'are': R
 'not': TPHOT
 'in': TPH
 'one': WUPB
-'garland.': TKPWAR/HRA*PBD TP-PL
+'garland.': TKPWAR/HRA*PBD/TP-PL
 'All': KPA/AUL
 'good': TKPWAOD
 'things': THEUPBGS
@@ -164,42 +164,42 @@ Proverbs starting with A
 'come': KOPL
 'to': TO
 'an': APB
-'end.': EPBD TP-PL
+'end.': EPBD/TP-PL
 'All': KPA/AUL
 'good': TKPWAOD
 'things': THEUPBGS
 'come': KOPL
 'in': TPH
-'pairs.': PAEURS TP-PL
+'pairs.': PAEURS/TP-PL
 'All': KPA/AUL
 'roads': RAODZ
 'lead': HRAED
 'to': TO
-'Rome.': RO*EPL TP-PL
-'All's': KPA/AUL AES
+'Rome.': RO*EPL/TP-PL
+'All's': KPA/AUL/AES
 'fair': TPAEUR
 'in': TPH
 'love': HRUF
 'and': SKP
-'war.': WAR TP-PL
-'All's': KPA/AUL AES
+'war.': WAR/TP-PL
+'All's': KPA/AUL/AES
 'well': WEL
 'that': THA
 'ends': EPBDZ
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'All': KPA/AUL
 'that': THA
 'glisters': TKPW*/HR*/*EU/S*/T*/*E/R*/S*
 'is': S
 'not': TPHOT
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'All': KPA/AUL
 'things': THEUPBGS
 'come': KOPL
 'to': TO
 'him': HEUPL
 'who': WHO
-'waits.': WAEUT/-S TP-PL
+'waits.': WAEUT/-S/TP-PL
 'All': KPA/AUL
 'work': WORBG
 'and': SKP
@@ -209,14 +209,14 @@ Proverbs starting with A
 'Jack': SKWRA*BG
 'a': AEU
 'dull': TKUL
-'boy.': PWOEU TP-PL
+'boy.': PWOEU/TP-PL
 'A': KPA/AEU
 'merry': PHER/REU
 'heart': HART
 'makes': PHAEUBGS
 'a': AEU
 'long': HROPBG
-'life.': HRAOEUF TP-PL
+'life.': HRAOEUF/TP-PL
 'A': KPA/AEU
 'miss': PHEUS
 'is': S
@@ -224,7 +224,7 @@ Proverbs starting with A
 'good': TKPWAOD
 'as': AS
 'a': AEU
-'mile.': PHAOEUL TP-PL
+'mile.': PHAOEUL/TP-PL
 'An': KPA/APB
 'apple': A*EPL
 'a': AEU
@@ -232,7 +232,7 @@ Proverbs starting with A
 'keeps': KAOEPS
 'the': -T
 'doctor': TKR
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'An': KPA/APB
 'eye': AOEU
 'for': TPOR
@@ -243,7 +243,7 @@ Proverbs starting with A
 'tooth': TAO*T
 'for': TPOR
 'a': AEU
-'tooth.': TAO*T TP-PL
+'tooth.': TAO*T/TP-PL
 'An': KPA/APB
 'ounce': OUPBS
 'of': -F
@@ -253,14 +253,14 @@ Proverbs starting with A
 'a': AEU
 'pound': POUPBD
 'of': -F
-'cure.': KAOUR TP-PL
+'cure.': KAOUR/TP-PL
 'A': KPA/AEU
 'penny': PEPB/TPHEU
 'saved': SAFD
 'is': S
 'a': AEU
 'penny': PEPB/TPHEU
-'earned.': ERPBD TP-PL
+'earned.': ERPBD/TP-PL
 'A': KPA/AEU
 'person': PERPB
 'is': S
@@ -269,97 +269,97 @@ Proverbs starting with A
 'the': -T
 'company': K-P
 'he': HE
-'keeps.': KAOEPS TP-PL
+'keeps.': KAOEPS/TP-PL
 'April': PREUL
 'showers': SHOURS
 'bring': PWREU
 'May': PHA*EU
-'flowers.': TPHRO*URS TP-PL
+'flowers.': TPHRO*URS/TP-PL
 'A': KPA/AEU
 'rolling': ROLG
 'stone': STOEPB
 'gathers': TKPWAERS
 'no': TPHO
-'moss.': PHOS TP-PL
+'moss.': PHOS/TP-PL
 'Ask': KPA/SK
 'and': SKP
 'you': U
 'shall': SHAL
-'receive.': SAOEF TP-PL
+'receive.': SAOEF/TP-PL
 'Ask': KPA/SK
 'me': PHE
 'no': TPHO
-'questions;': KWES STPH*FPLT
+'questions;': KWES/STPH*FPLT
 'I'll': AOEUL
 'tell': TEL
 'you': U
 'no': TPHO
-'lies.': HRAO*EUS TP-PL
+'lies.': HRAO*EUS/TP-PL
 'Ask': KPA/SK
 'no': TPHO
 'questions': KWES
 'and': SKP
 'hear': HAER
 'no': TPHO
-'lies.': HRAO*EUS TP-PL
+'lies.': HRAO*EUS/TP-PL
 'A': KPA/AEU
 'sound': SOUPBD
 'mind': PHAOEUPBD
 'in': TPH
 'a': AEU
 'sound': SOUPBD
-'body.': PWO*ED TP-PL
+'body.': PWO*ED/TP-PL
 'A': KPA/AEU
 'stitch': STEUFP
 'in': TPH
 'time': TAOEUPL
 'saves': SAFS
-'nine.': TPHAOEUPB TP-PL
+'nine.': TPHAOEUPB/TP-PL
 'As': KPA/AS
 'right': RAOEUT
 'as': AS
-'ninepence.': TPHAOEUPB/TK-LS/PEPBTS TP-PL
+'ninepence.': TPHAOEUPB/TK-LS/PEPBTS/TP-PL
 'As': KPA/AS
 'you': U
 'make': PHAEUBG
 'your': KWROUR
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'so': SO
 'you': U
 'must': PHUFT
 'lie': HRAOEU
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL
 'As': KPA/AS
 'you': U
-'sow,': SOE KW-BG
+'sow,': SOE/KW-BG
 'so': SO
 'shall': SHAL
 'you': U
-'reap.': RAOEP TP-PL
+'reap.': RAOEP/TP-PL
 'A': KPA/AEU
 'watched': WAFPD
 'pot': POT
 'will': HR
 'not': TPHOT
-'boil.': PWOEUL TP-PL
+'boil.': PWOEUL/TP-PL
 'A': KPA/AEU
 'word': WORD
 'to': TO
 'the': -T
 'wise': WAOEUS
 'is': S
-'enough.': TPHUF TP-PL
+'enough.': TPHUF/TP-PL
 'A': KPA/AEU
 'word': WORD
 'to': TO
 'the': -T
 'wise': WAOEUS
 'is': S
-'sufficient.': SUF TP-PL
+'sufficient.': SUF/TP-PL
 'A': KPA/AEU
 'word': WORD
 'spoken': SPOEPB
 'is': S
 'past': PAFT
-'recalling.': -RLG TP-PL
+'recalling.': -RLG/TP-PL

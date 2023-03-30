@@ -14,7 +14,7 @@ The Pink
 'had': H
 'given': TKPWEUFPB
 'no': TPHO
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'Every': KPA/EF
 'morning': PHORPBG
 'she': SHE
@@ -36,7 +36,7 @@ The Pink
 'son': SOPB
 'or': OR
 'a': AEU
-'daughter.': TKAUR TP-PL
+'daughter.': TKAUR/TP-PL
 'Then': KPA/THEPB
 'an': APB
 'angel': APB/SKWREL
@@ -46,10 +46,10 @@ The Pink
 'to': TO
 'her': HER
 'and': SKP
-'said:': SED STPH-FPLT
-''Be': AE KPA/-B
+'said:': SED/STPH-FPLT
+''Be': AE/KPA/-B
 'at': AT
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'you': U
 'shall': SHAL
 'have': SR
@@ -59,7 +59,7 @@ The Pink
 'the': -T
 'power': POUR
 'of': -F
-'wishing,': WEURBG KW-BG
+'wishing,': WEURBG/KW-BG
 'so': SO
 'that': THA
 'whatsoever': WHA/SOFR
@@ -68,23 +68,23 @@ The Pink
 'world': WORLD
 'he': HE
 'wishes': WEURBS
-'for,': TPOR KW-BG
+'for,': TPOR/KW-BG
 'that': THA
 'shall': SHAL
 'he': HE
-'have.'': SR TP-PL AE
+'have.'': SR/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'went': WEPBT
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'told': TOLD
 'him': HEUPL
 'the': -T
 'joyful': SKWROEUFL
-'tidings,': TAOEUD/-G/-S KW-BG
+'tidings,': TAOEUD/-G/-S/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -96,14 +96,14 @@ The Pink
 'birth': PW*EURT
 'to': TO
 'a': AEU
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'and': SKP
 'the': -T
 'king': KEUPBG
 'was': WAS
 'filled': TPEULD
 'with': W
-'gladness.': TKPWHRAD/-PBS TP-PL
+'gladness.': TKPWHRAD/-PBS/TP-PL
 'Every': KPA/EF
 'morning': PHORPBG
 'she': SHE
@@ -119,7 +119,7 @@ The Pink
 'wild': WAOEULD
 'beasts': PWAOEFT/-S
 'were': WR
-'kept,': KEPT KW-BG
+'kept,': KEPT/KW-BG
 'and': SKP
 'washed': WARBD
 'herself': H*ERS
@@ -127,7 +127,7 @@ The Pink
 'in': TPH
 'a': AEU
 'clear': KHRAOER
-'stream.': STRAOEPL TP-PL
+'stream.': STRAOEPL/TP-PL
 'It': KPA/T
 'happened': HAPD
 'once': WUPBS
@@ -137,7 +137,7 @@ The Pink
 'was': WAS
 'a': AEU
 'little': HREUL
-'older,': OERLD KW-BG
+'older,': OERLD/KW-BG
 'that': THA
 'it': T
 'was': WAS
@@ -148,12 +148,12 @@ The Pink
 'and': SKP
 'she': SHE
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Then': KPA/THEPB
 'came': KAEUPL
 'the': -T
 'old': OLD
-'cook,': KAOBG KW-BG
+'cook,': KAOBG/KW-BG
 'who': WHO
 'knew': TPHAOU
 'that': THA
@@ -163,21 +163,21 @@ The Pink
 'the': -T
 'power': POUR
 'of': -F
-'wishing,': WEURBG KW-BG
+'wishing,': WEURBG/KW-BG
 'and': SKP
 'stole': STOEL
 'it': T
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'he': HE
 'took': TAOBG
 'a': AEU
-'hen,': HEPB KW-BG
+'hen,': HEPB/KW-BG
 'and': SKP
 'cut': KUT
 'it': T
 'in': TPH
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'dropped': TKROPD
 'some': SOPL
@@ -186,12 +186,12 @@ The Pink
 'blood': PWHRAOD
 'on': OPB
 'the': -T
-'queen's': KWAOEPB AES
+'queen's': KWAOEPB/AES
 'apron': AEUP/ROPB
 'and': SKP
 'on': OPB
 'her': HER
-'dress.': TKRES TP-PL
+'dress.': TKRES/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'carried': KAERD
@@ -201,7 +201,7 @@ The Pink
 'to': TO
 'a': AEU
 'secret': SKRET
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'where': W-R
 'a': AEU
 'nurse': TPHURS
@@ -209,7 +209,7 @@ The Pink
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'suckle': SUBG/-L
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'he': HE
 'ran': RAPB
@@ -233,7 +233,7 @@ The Pink
 'by': PWEU
 'the': -T
 'wild': WAOEULD
-'beasts.': PWAOEFT/-S TP-PL
+'beasts.': PWAOEFT/-S/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'king': KEUPBG
@@ -242,10 +242,10 @@ The Pink
 'blood': PWHRAOD
 'on': OPB
 'her': HER
-'apron,': AEUP/ROPB KW-BG
+'apron,': AEUP/ROPB/KW-BG
 'he': HE
 'believed': PWHREFD
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'fell': TPEL
 'into': TPHAO
 'such': SUFP
@@ -259,7 +259,7 @@ The Pink
 'tower': TOUR
 'to': TO
 'be': -B
-'built,': PWEULT KW-BG
+'built,': PWEULT/KW-BG
 'in': TPH
 'which': WEU
 'neither': TPHAOERT
@@ -275,10 +275,10 @@ The Pink
 'wife': WAOEUF
 'put': PUT
 'into': TPHAO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'walled': WAULD
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'Here': KPA/HAOER
 'she': SHE
 'was': WAS
@@ -290,11 +290,11 @@ The Pink
 'without': WOUT
 'meat': PHAET
 'or': OR
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'and': SKP
 'die': TKAOEU
 'of': -F
-'hunger.': HURPBG TP-PL
+'hunger.': HURPBG/TP-PL
 'But': KPA/PWUT
 'God': TKPWO*D
 'sent': SEPBT
@@ -307,14 +307,14 @@ The Pink
 'shape': SHAEUP
 'of': -F
 'white': WHAOEUT
-'doves,': TKOFS KW-BG
+'doves,': TKOFS/KW-BG
 'which': WEU
 'flew': TPHRAOU
 'to': TO
 'her': HER
 'twice': TWAOEUS
 'a': AEU
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'carried': KAERD
 'her': HER
@@ -324,25 +324,25 @@ The Pink
 'seven': SEFPB
 'years': KWRAOERS
 'were': WR
-'over.': OEFR TP-PL
+'over.': OEFR/TP-PL
 'The': KPA/-T
-'cook,': KAOBG KW-BG
-'however,': HOUF KW-BG
+'cook,': KAOBG/KW-BG
+'however,': HOUF/KW-BG
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''If': AE KPA/TP
+'himself:': HEUPLS/STPH-FPLT
+''If': AE/KPA/TP
 'the': -T
 'child': KHAOEULD
 'has': HAS
 'the': -T
 'power': POUR
 'of': -F
-'wishing,': WEURBG KW-BG
+'wishing,': WEURBG/KW-BG
 'and': SKP
 'I': EU
 'am': APL
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'he': HE
 'might': PHAOEUT
 'very': SRE
@@ -350,7 +350,7 @@ The Pink
 'get': TKPWET
 'me': PHE
 'into': TPHAO
-'trouble.'': TRUBL TP-PL AE
+'trouble.'': TRUBL/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'left': HREFT
@@ -360,19 +360,19 @@ The Pink
 'went': WEPBT
 'to': TO
 'the': -T
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'who': WHO
 'was': WAS
 'already': HR-R
 'big': PWEUG
 'enough': TPHUF
 'to': TO
-'speak,': SPAOEBG KW-BG
+'speak,': SPAOEBG/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''Wish': AE KPA/WEURB
+'him:': HEUPL/STPH-FPLT
+''Wish': AE/KPA/WEURB
 'for': TPOR
 'a': AEU
 'beautiful': PWAOUFL
@@ -381,14 +381,14 @@ The Pink
 'yourself': KWRO*URS
 'with': W
 'a': AEU
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'and': SKP
 'all': AUL
 'else': ELS
 'that': THA
 'pertains': PER/TAEUPBS
 'to': TO
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'Scarcely': KPA/SKAEURS/HREU
 'were': WR
 'the': -T
@@ -396,8 +396,8 @@ The Pink
 'out': OUT
 'of': -F
 'the': -T
-'boy's': PWOEU AES
-'mouth,': PHO*UT KW-BG
+'boy's': PWOEU/AES
+'mouth,': PHO*UT/KW-BG
 'when': WHEPB
 'everything': EFRG
 'was': WAS
@@ -406,7 +406,7 @@ The Pink
 'he': HE
 'had': H
 'wished': WEURBD
-'for.': TPOR TP-PL
+'for.': TPOR/TP-PL
 'After': KPA/AF
 'a': AEU
 'while': WHAOEUL
@@ -414,8 +414,8 @@ The Pink
 'cook': KAOBG
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''It': AE KPA/T
+'him:': HEUPL/STPH-FPLT
+''It': AE/KPA/T
 'is': S
 'not': TPHOT
 'well': WEL
@@ -424,7 +424,7 @@ The Pink
 'to': TO
 'be': -B
 'so': SO
-'alone,': A/HROEPB KW-BG
+'alone,': A/HROEPB/KW-BG
 'wish': WEURB
 'for': TPOR
 'a': AEU
@@ -432,20 +432,20 @@ The Pink
 'girl': TKPWEURL
 'as': AS
 'a': AEU
-'companion.'': KPAPB/KWROPB TP-PL AE
+'companion.'': KPAPB/KWROPB/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'king's': KEUPBG/AES
 'son': SOPB
 'wished': WEURBD
 'for': TPOR
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'and': SKP
 'she': SHE
 'immediately': PHAOELD
 'stood': STAOD
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'was': WAS
 'more': PHOR
@@ -456,11 +456,11 @@ The Pink
 'could': KO
 'have': SR
 'painted': PAEUPBTD
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'The': KPA/-T
 'two': TWO
 'played': PHRAEUD
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'loved': HROFD
 'each': AOEFP
@@ -468,7 +468,7 @@ The Pink
 'with': W
 'all': AUL
 'their': THAEUR
-'hearts,': HARTS KW-BG
+'hearts,': HARTS/KW-BG
 'and': SKP
 'the': -T
 'old': OLD
@@ -478,13 +478,13 @@ The Pink
 'hunting': HUPBT/-G
 'like': HRAOEUBG
 'a': AEU
-'nobleman.': TPHOEBL/PHA*PB TP-PL
+'nobleman.': TPHOEBL/PHA*PB/TP-PL
 'The': KPA/-T
 'thought': THAUT
 'occurred': KROEURD
 'to': TO
-'him,': HEUPL KW-BG
-'however,': HOUF KW-BG
+'him,': HEUPL/KW-BG
+'however,': HOUF/KW-BG
 'that': THA
 'the': -T
 'king's': KEUPBG/AES
@@ -497,14 +497,14 @@ The Pink
 'be': -B
 'with': W
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'thus': THUS
 'bring': PWREU
 'him': HEUPL
 'into': TPHAO
 'great': TKPWRAET
-'peril.': PER/EUL TP-PL
+'peril.': PER/EUL/TP-PL
 'So': KPA/SO
 'he': HE
 'went': WEPBT
@@ -513,15 +513,15 @@ The Pink
 'took': TAOBG
 'the': -T
 'maiden': PHAEUD/*EPB
-'aside,': A/SAOEUD KW-BG
+'aside,': A/SAOEUD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Tonight': AE KPA/TOPBT
+'said:': SED/STPH-FPLT
+''Tonight': AE/KPA/TOPBT
 'when': WHEPB
 'the': -T
 'boy': PWOEU
 'is': S
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'go': TKPW
 'to': TO
 'his': HEUS
@@ -532,30 +532,30 @@ The Pink
 'knife': TPHAOEUF
 'into': TPHAO
 'his': HEUS
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'bring': PWREU
 'me': PHE
 'his': HEUS
 'heart': HART
 'and': SKP
-'tongue,': TUPBG KW-BG
+'tongue,': TUPBG/KW-BG
 'and': SKP
 'if': TP
 'you': U
 'do': TKO
 'not': TPHOT
 'do': TKO
-'it,': T KW-BG
+'it,': T/KW-BG
 'you': U
 'shall': SHAL
 'lose': HRUZ
 'your': KWROUR
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'Thereupon': KPA/THRUP
 'he': HE
 'went': WEPBT
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -566,10 +566,10 @@ The Pink
 'had': H
 'not': TPHOT
 'done': TKOPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Why': AE KPA/KWR
+'said:': SED/STPH-FPLT
+''Why': AE/KPA/KWR
 'should': SHO
 'I': EU
 'shed': SHED
@@ -583,30 +583,30 @@ The Pink
 'has': HAS
 'never': TPHEFR
 'harmed': HARPLD
-'anyone?'': TPHEUPB H-F AE
+'anyone?'': TPHEUPB/H-F/AE
 'The': KPA/-T
 'cook': KAOBG
 'once': WUPBS
 'more': PHOR
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'do': TKO
 'not': TPHOT
 'do': TKO
-'it,': T KW-BG
+'it,': T/KW-BG
 'it': T
 'shall': SHAL
 'cost': KOFT
 'you': U
 'your': KWROUR
 'own': OEPB
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'When': KPA/WHEPB
 'he': HE
 'had': H
 'gone': TKPWOPB
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'she': SHE
 'had': H
 'a': AEU
@@ -614,25 +614,25 @@ The Pink
 'hind': HAOEUPBD
 'brought': PWRAUT
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'ordered': ORD/-D
 'her': HER
 'to': TO
 'be': -B
-'killed,': KEULD KW-BG
+'killed,': KEULD/KW-BG
 'and': SKP
 'took': TAOBG
 'her': HER
 'heart': HART
 'and': SKP
-'tongue,': TUPBG KW-BG
+'tongue,': TUPBG/KW-BG
 'and': SKP
 'laid': HRAEUD
 'them': THEPL
 'on': OPB
 'a': AEU
-'plate,': PHRAET KW-BG
+'plate,': PHRAET/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -640,23 +640,23 @@ The Pink
 'the': -T
 'old': OLD
 'man': PHAPB
-'coming,': KO*G KW-BG
+'coming,': KO*G/KW-BG
 'she': SHE
 'said': SED
 'to': TO
 'the': -T
-'boy:': PWOEU STPH-FPLT
-''Lie': AE KPA/HRAOEU
+'boy:': PWOEU/STPH-FPLT
+''Lie': AE/KPA/HRAOEU
 'down': TKOUPB
 'in': TPH
 'your': KWROUR
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'draw': TKRAU
 'the': -T
 'clothes': KHRO*ETS
 'over': OEFR
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'wicked': WEUBGD
@@ -664,21 +664,21 @@ The Pink
 'came': KAEUPL
 'in': TPH
 'and': SKP
-'said:': SED STPH-FPLT
-''Where': AE KPA/W-R
+'said:': SED/STPH-FPLT
+''Where': AE/KPA/W-R
 'are': R
 'the': -T
-'boy's': PWOEU AES
+'boy's': PWOEU/AES
 'heart': HART
 'and': SKP
-'tongue?'': TUPBG H-F AE
+'tongue?'': TUPBG/H-F/AE
 'The': KPA/-T
 'girl': TKPWEURL
 'reached': RAOEFPD
 'the': -T
 'plate': PHRAET
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'the': -T
 'king's': KEUPBG/AES
@@ -686,25 +686,25 @@ The Pink
 'threw': THRAOU
 'off': OF
 'the': -T
-'quilt,': KWEULT KW-BG
+'quilt,': KWEULT/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''You': AE KPA/U
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
 'old': OLD
-'sinner,': SEUPB/ER KW-BG
+'sinner,': SEUPB/ER/KW-BG
 'why': KWR
 'did': TK
 'you': U
 'want': WAPBT
 'to': TO
 'kill': KEUL
-'me?': PHE H-F
+'me?': PHE/H-F
 'Now': KPA/TPHOU
 'will': HR
 'I': EU
 'pronounce': PROUPBS
 'thy': THAO*EU
-'sentence.': STEPBS TP-PL
+'sentence.': STEPBS/TP-PL
 'You': KPA/U
 'shall': SHAL
 'become': PW-BG
@@ -718,12 +718,12 @@ The Pink
 'collar': KHRAR
 'round': ROUPBD
 'your': KWROUR
-'neck,': TPHEBG KW-BG
+'neck,': TPHEBG/KW-BG
 'and': SKP
 'shall': SHAL
 'eat': AOET
 'burning': PWURPBG
-'coals,': KOEL/-S KW-BG
+'coals,': KOEL/-S/KW-BG
 'till': TEUL
 'the': -T
 'flames': TPHRAEUPLS
@@ -731,14 +731,14 @@ The Pink
 'forth': TPO*RT
 'from': TPR
 'your': KWROUR
-'throat.'': THROET TP-PL AE
+'throat.'': THROET/TP-PL/AE
 'And': AFPBD
 'when': WHEPB
 'he': HE
 'had': H
 'spoken': SPOEPB
 'these': THEZ
-'words,': WORDZ KW-BG
+'words,': WORDZ/KW-BG
 'the': -T
 'old': OLD
 'man': PHAPB
@@ -747,7 +747,7 @@ The Pink
 'into': TPHAO
 'a': AEU
 'poodle': PAOD/*L
-'dog,': TKOG KW-BG
+'dog,': TKOG/KW-BG
 'and': SKP
 'had': H
 'a': AEU
@@ -755,7 +755,7 @@ The Pink
 'collar': KHRAR
 'round': ROUPBD
 'his': HEUS
-'neck,': TPHEBG KW-BG
+'neck,': TPHEBG/KW-BG
 'and': SKP
 'the': -T
 'cooks': KAOBGS
@@ -766,11 +766,11 @@ The Pink
 'up': UP
 'some': SOPL
 'live': HREUF
-'coals,': KOEL/-S KW-BG
+'coals,': KOEL/-S/KW-BG
 'and': SKP
 'these': THEZ
 'he': HE
-'ate,': AEUT KW-BG
+'ate,': AEUT/KW-BG
 'until': TPH-L
 'the': -T
 'flames': TPHRAEUPLS
@@ -778,7 +778,7 @@ The Pink
 'forth': TPO*RT
 'from': TPR
 'his': HEUS
-'throat.': THROET TP-PL
+'throat.': THROET/TP-PL
 'The': KPA/-T
 'king's': KEUPBG/AES
 'son': SOPB
@@ -787,54 +787,54 @@ The Pink
 'a': AEU
 'short': SHORT
 'while': WHAOEUL
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'and': SKP
 'he': HE
 'thought': THAUT
 'of': -F
 'his': HEUS
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'wondered': WOPBD/-D
 'if': TP
 'she': SHE
 'were': WR
 'still': STEUL
-'alive.': A/HRAOEUF TP-PL
+'alive.': A/HRAOEUF/TP-PL
 'At': KPA/AT
 'length': HREPBG
 'he': HE
 'said': SED
 'to': TO
 'the': -T
-'maiden:': PHAEUD/*EPB STPH-FPLT
-''I': AE EU
+'maiden:': PHAEUD/*EPB/STPH-FPLT
+''I': AE/EU
 'will': HR
 'go': TKPW
 'home': HOEPL
 'to': TO
 'my': PHEU
 'own': OEPB
-'country;': KREU STPH*FPLT
+'country;': KREU/STPH*FPLT
 'if': TP
 'you': U
 'will': HR
 'go': TKPW
 'with': W
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'will': HR
 'provide': PROEFD
 'for': TPOR
-'you.'': U TP-PL AE
-''Ah,'': AE KPA/HA*E KW-BG AE
+'you.'': U/TP-PL/AE
+''Ah,'': AE/KPA/HA*E/KW-BG/AE
 'she': SHE
-'replied,': RE/PHRAOEUD KW-BG
-''the': AE -T
+'replied,': RE/PHRAOEUD/KW-BG
+''the': AE/-T
 'way': WAEU
 'is': S
 'so': SO
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'and': SKP
 'what': WHA
 'shall': SHAL
@@ -847,14 +847,14 @@ The Pink
 'where': W-R
 'I': EU
 'am': APL
-'unknown?'': UPB/TPHOEPB H-F AE
+'unknown?'': UPB/TPHOEPB/H-F/AE
 'As': KPA/AS
 'she': SHE
 'did': TK
 'not': TPHOT
 'seem': SAOEPL
 'quite': KWAOEUT
-'willing,': -LG KW-BG
+'willing,': -LG/KW-BG
 'and': SKP
 'as': AS
 'they': THE
@@ -864,7 +864,7 @@ The Pink
 'parted': PARTD
 'from': TPR
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'he': HE
 'wished': WEURBD
 'that': THA
@@ -875,12 +875,12 @@ The Pink
 'into': TPHAO
 'a': AEU
 'beautiful': PWAOUFL
-'pink,': P*EUPBG KW-BG
+'pink,': P*EUPBG/KW-BG
 'and': SKP
 'took': TAOBG
 'her': HER
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
@@ -888,7 +888,7 @@ The Pink
 'to': TO
 'his': HEUS
 'own': OEPB
-'country,': KREU KW-BG
+'country,': KREU/KW-BG
 'and': SKP
 'the': -T
 'poodle': PAOD/*L
@@ -896,7 +896,7 @@ The Pink
 'to': TO
 'run': RUPB
 'after': AF
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'went': WEPBT
 'to': TO
@@ -907,13 +907,13 @@ The Pink
 'his': HEUS
 'mother': PHOER
 'was': WAS
-'confined,': KAUPB/TPAOEUPBD KW-BG
+'confined,': KAUPB/TPAOEUPBD/KW-BG
 'and': SKP
 'as': AS
 'it': T
 'was': WAS
 'so': SO
-'high,': HAOEU KW-BG
+'high,': HAOEU/KW-BG
 'he': HE
 'wished': WEURBD
 'for': TPOR
@@ -926,52 +926,52 @@ The Pink
 'to': TO
 'the': -T
 'very': SRE
-'top.': TOP TP-PL
+'top.': TOP/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'mounted': PHOUPBTD
 'up': UP
 'and': SKP
 'looked': HRAOBGD
-'inside,': TPH-DZ KW-BG
+'inside,': TPH-DZ/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Beloved': AE KPA/PWHROFD
-'mother,': PHOER KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Beloved': AE/KPA/PWHROFD
+'mother,': PHOER/KW-BG
 'Lady': KPA/HRA*ED
-'Queen,': KWAO*EPB KW-BG
+'Queen,': KWAO*EPB/KW-BG
 'are': R
 'you': U
 'still': STEUL
-'alive,': A/HRAOEUF KW-BG
+'alive,': A/HRAOEUF/KW-BG
 'or': OR
 'are': R
 'you': U
-'dead?'': TKED H-F AE
+'dead?'': TKED/H-F/AE
 'She': KPA/SHE
-'answered:': AEPBS/-D STPH-FPLT
-''I': AE EU
+'answered:': AEPBS/-D/STPH-FPLT
+''I': AE/EU
 'have': SR
 'just': SKWRUFT
-'eaten,': AOET/EPB KW-BG
+'eaten,': AOET/EPB/KW-BG
 'and': SKP
 'am': APL
 'still': STEUL
-'satisfied,'': SAED KW-BG AE
+'satisfied,'': SAED/KW-BG/AE
 'for': TPOR
 'she': SHE
 'thought': THAUT
 'the': -T
 'angels': APB/SKWREL/-S
 'were': WR
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'Said': KPA/SED
-'he:': HE STPH-FPLT
-''I': AE EU
+'he:': HE/STPH-FPLT
+''I': AE/EU
 'am': APL
 'your': KWROUR
 'dear': TKAER
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'whom': WHOPL
 'the': -T
 'wild': WAOEULD
@@ -983,27 +983,27 @@ The Pink
 'torn': TORPB
 'from': TPR
 'your': KWROUR
-'arms;': ARPLS STPH*FPLT
+'arms;': ARPLS/STPH*FPLT
 'but': PWUT
 'I': EU
 'am': APL
 'alive': A/HRAOEUF
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'and': SKP
 'will': HR
 'soon': SAOPB
 'set': SET
 'you': U
-'free.'': TPRAOE TP-PL AE
+'free.'': TPRAOE/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'descended': TKE/SEPBD/-D
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'caused': KAUFD
 'himself': HEUPLS
@@ -1013,7 +1013,7 @@ The Pink
 'as': AS
 'a': AEU
 'strange': STRAEUPBG
-'huntsman,': HUPBTS/PHA*PB KW-BG
+'huntsman,': HUPBTS/PHA*PB/KW-BG
 'and': SKP
 'asked': SK-D
 'if': TP
@@ -1021,11 +1021,11 @@ The Pink
 'could': KO
 'offer': OFR
 'him': HEUPL
-'service.': S-FS TP-PL
+'service.': S-FS/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'said': SED
-'yes,': KWRE KW-BG
+'yes,': KWRE/KW-BG
 'if': TP
 'he': HE
 'was': WAS
@@ -1035,12 +1035,12 @@ The Pink
 'get': TKPWET
 'game': TKPWAEUPL
 'for': TPOR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'he': HE
 'should': SHO
 'come': KOPL
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'that': THA
 'deer': TKAOER
@@ -1057,7 +1057,7 @@ The Pink
 'the': -T
 'district': TR-T
 'or': OR
-'country.': KREU TP-PL
+'country.': KREU/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
@@ -1077,14 +1077,14 @@ The Pink
 'at': AT
 'the': -T
 'royal': ROEUL
-'table.': TAEUBL TP-PL
+'table.': TAEUBL/TP-PL
 'So': KPA/SO
 'he': HE
 'summoned': SPHUPBD
 'all': AUL
 'the': -T
 'huntsmen': HUPBTS/PH*EPB
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'bade': PWAEUD
 'them': THEPL
@@ -1094,7 +1094,7 @@ The Pink
 'the': -T
 'forest': TPOEFRT
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'And': AFPBD
 'he': HE
 'went': WEPBT
@@ -1106,7 +1106,7 @@ The Pink
 'form': TPORPL
 'a': AEU
 'great': TKPWRAET
-'circle,': SOEURBG KW-BG
+'circle,': SOEURBG/KW-BG
 'open': OEP
 'at': AT
 'one': WUPB
@@ -1114,11 +1114,11 @@ The Pink
 'where': W-R
 'he': HE
 'stationed': STAEUGS/-D
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
-'wish.': WEURB TP-PL
+'wish.': WEURB/TP-PL
 'Two': KPA/TWO
 'hundred': HUPBD
 'deer': TKAOER
@@ -1130,12 +1130,12 @@ The Pink
 'the': -T
 'circle': SOEURBG
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'and': SKP
 'the': -T
 'huntsmen': HUPBTS/PH*EPB
 'shot': SHOT
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'were': WR
@@ -1144,13 +1144,13 @@ The Pink
 'on': OPB
 'sixty': SEUBGT
 'country': KREU
-'carts,': KARTS KW-BG
+'carts,': KARTS/KW-BG
 'and': SKP
 'driven': TKREUFPB
 'home': HOEPL
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'for': TPOR
 'once': WUPBS
@@ -1162,7 +1162,7 @@ The Pink
 'his': HEUS
 'table': TAEUBL
 'with': W
-'game,': TKPWAEUPL KW-BG
+'game,': TKPWAEUPL/KW-BG
 'after': AF
 'having': SR-G
 'had': H
@@ -1170,7 +1170,7 @@ The Pink
 'at': AT
 'all': AUL
 'for': TPOR
-'years.': KWRAOERS TP-PL
+'years.': KWRAOERS/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'king': KEUPBG
@@ -1178,7 +1178,7 @@ The Pink
 'great': TKPWRAET
 'joy': SKWROEU
 'at': AT
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
 'commanded': KPHAPBD/-D
 'that': THA
@@ -1190,75 +1190,75 @@ The Pink
 'with': W
 'him': HEUPL
 'next': TPHEGT
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'made': PHAED
 'a': AEU
 'great': TKPWRAET
-'feast.': TPAOEFT TP-PL
+'feast.': TPAOEFT/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'were': WR
 'all': AUL
 'assembled': A/SEPL/-BLD
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'he': HE
 'said': SED
 'to': TO
 'the': -T
-'huntsman:': HUPBTS/PHA*PB STPH-FPLT
-''As': AE KPA/AS
+'huntsman:': HUPBTS/PHA*PB/STPH-FPLT
+''As': AE/KPA/AS
 'you': U
 'are': R
 'so': SO
-'clever,': KHREFR KW-BG
+'clever,': KHREFR/KW-BG
 'you': U
 'shall': SHAL
 'sit': SEUT
 'by': PWEU
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'He': KPA/HE
-'replied:': RE/PHRAOEUD STPH-FPLT
-''Lord': AE HRO*RD
-'King,': KO*EUPBG KW-BG
+'replied:': RE/PHRAOEUD/STPH-FPLT
+''Lord': AE/HRO*RD
+'King,': KO*EUPBG/KW-BG
 'your': KWROUR
 'majesty': PHAPBLG/STEU
 'must': PHUFT
 'excuse': SKAOUS
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'am': APL
 'a': AEU
 'poor': PAOR
-'huntsman.'': HUPBTS/PHA*PB TP-PL AE
+'huntsman.'': HUPBTS/PHA*PB/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'king': KEUPBG
 'insisted': EUPB/SEUFTD
 'on': OPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''You': AE KPA/U
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
 'shall': SHAL
 'sit': SEUT
 'by': PWEU
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'until': TPH-L
 'he': HE
 'did': TK
-'it.': T TP-PL
+'it.': T/TP-PL
 'Whilst': KPA/WHAOEULS
 'he': HE
 'was': WAS
 'sitting': SEUGT
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'he': HE
 'thought': THAUT
 'of': -F
 'his': HEUS
 'dearest': TKAER/EFT
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'wished': WEURBD
 'that': THA
@@ -1273,7 +1273,7 @@ The Pink
 'to': TO
 'speak': SPAOEBG
 'of': -F
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'would': WO
 'ask': SK
@@ -1286,16 +1286,16 @@ The Pink
 'queen': KWAOEPB
 'in': TPH
 'the': -T
-'tower,': TOUR KW-BG
+'tower,': TOUR/KW-BG
 'and': SKP
 'if': TP
 'she': SHE
 'were': WR
 'alive': A/HRAOEUF
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'or': OR
 'had': H
-'perished.': PER/EURB/-D TP-PL
+'perished.': PER/EURB/-D/TP-PL
 'Hardly': KPA/HA*RLD
 'had': H
 'he': HE
@@ -1305,15 +1305,15 @@ The Pink
 'than': THAPB
 'the': -T
 'marshal': PHARBL
-'began,': TKPWAPB KW-BG
+'began,': TKPWAPB/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Your': AE KPA/KWROUR
-'majesty,': PHAPBLG/STEU KW-BG
+'said:': SED/STPH-FPLT
+''Your': AE/KPA/KWROUR
+'majesty,': PHAPBLG/STEU/KW-BG
 'we': WE
 'live': HREUF
 'joyously': SKWROEU/OUS/HREU
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'but': PWUT
 'how': HOU
 'is': S
@@ -1322,20 +1322,20 @@ The Pink
 'living': HREUFG
 'in': TPH
 'the': -T
-'tower?': TOUR H-F
+'tower?': TOUR/H-F
 'Is': KPA/S
 'she': SHE
 'still': STEUL
-'alive,': A/HRAOEUF KW-BG
+'alive,': A/HRAOEUF/KW-BG
 'or': OR
 'has': HAS
 'she': SHE
-'died?'': TKAOEUD H-F AE
+'died?'': TKAOEUD/H-F/AE
 'But': KPA/PWUT
 'the': -T
 'king': KEUPBG
-'replied:': RE/PHRAOEUD STPH-FPLT
-''She': AE KPA/SHE
+'replied:': RE/PHRAOEUD/STPH-FPLT
+''She': AE/KPA/SHE
 'let': HRET
 'my': PHEU
 'dear': TKAER
@@ -1346,31 +1346,31 @@ The Pink
 'pieces': PAOEFS
 'by': PWEU
 'wild': WAOEULD
-'beasts;': PWAOEFT/-S STPH*FPLT
+'beasts;': PWAOEFT/-S/STPH*FPLT
 'I': EU
 'will': HR
 'not': TPHOT
 'have': SR
 'her': HER
-'named.'': TPHAEUPLD TP-PL AE
+'named.'': TPHAEUPLD/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
 'arose': A/ROES
 'and': SKP
-'said:': SED STPH-FPLT
-''Gracious': AE KPA/TKPWRAEURBS
+'said:': SED/STPH-FPLT
+''Gracious': AE/KPA/TKPWRAEURBS
 'lord': HRORD
 'father': TPAER
 'she': SHE
 'is': S
 'alive': A/HRAOEUF
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'and': SKP
 'I': EU
 'am': APL
 'her': HER
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'and': SKP
 'I': EU
 'was': WAS
@@ -1379,14 +1379,14 @@ The Pink
 'away': WA*EU
 'by': PWEU
 'wild': WAOEULD
-'beasts,': PWAOEFT/-S KW-BG
+'beasts,': PWAOEFT/-S/KW-BG
 'but': PWUT
 'by': PWEU
 'that': THA
 'wretch': WREFP
 'the': -T
 'old': OLD
-'cook,': KAOBG KW-BG
+'cook,': KAOBG/KW-BG
 'who': WHO
 'tore': TO*R
 'me': PHE
@@ -1396,7 +1396,7 @@ The Pink
 'when': WHEPB
 'she': SHE
 'was': WAS
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'and': SKP
 'sprinkled': SPREUPB/K-LD
 'her': HER
@@ -1406,7 +1406,7 @@ The Pink
 'blood': PWHRAOD
 'of': -F
 'a': AEU
-'chicken.'': KH*EUPB TP-PL AE
+'chicken.'': KH*EUPB/TP-PL/AE
 'Thereupon': KPA/THRUP
 'he': HE
 'took': TAOBG
@@ -1415,20 +1415,20 @@ The Pink
 'with': W
 'the': -T
 'golden': TKPWOELD/*EPB
-'collar,': KHRAR KW-BG
+'collar,': KHRAR/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''That': AE KPA/THA
+'said:': SED/STPH-FPLT
+''That': AE/KPA/THA
 'is': S
 'the': -T
-'wretch!'': WREFP SKHRAPL AE
+'wretch!'': WREFP/SKHRAPL/AE
 'and': SKP
 'caused': KAUFD
 'live': HREUF
 'coals': KOEL/-S
 'to': TO
 'be': -B
-'brought,': PWRAUT KW-BG
+'brought,': PWRAUT/KW-BG
 'and': SKP
 'these': THEZ
 'the': -T
@@ -1441,14 +1441,14 @@ The Pink
 'the': -T
 'sight': SAOEUT
 'of': -F
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'until': TPH-L
 'flames': TPHRAEUPLS
 'burst': PWUFRT
 'forth': TPO*RT
 'from': TPR
 'its': EUTS
-'throat.': THROET TP-PL
+'throat.': THROET/TP-PL
 'On': KPA/OPB
 'this': TH
 'the': -T
@@ -1467,7 +1467,7 @@ The Pink
 'in': TPH
 'his': HEUS
 'true': TRAOU
-'shape,': SHAEUP KW-BG
+'shape,': SHAEUP/KW-BG
 'and': SKP
 'wished': WEURBD
 'him': HEUPL
@@ -1477,23 +1477,23 @@ The Pink
 'form': TPORPL
 'of': -F
 'the': -T
-'cook,': KAOBG KW-BG
+'cook,': KAOBG/KW-BG
 'in': TPH
 'the': -T
 'which': WEU
 'he': HE
 'stood': STAOD
-'immediately,': PHAOELD KW-BG
+'immediately,': PHAOELD/KW-BG
 'with': W
 'his': HEUS
 'white': WHAOEUT
-'apron,': AEUP/ROPB KW-BG
+'apron,': AEUP/ROPB/KW-BG
 'and': SKP
 'his': HEUS
 'knife': TPHAOEUF
 'by': PWEU
 'his': HEUS
-'side.': SAOEUD TP-PL
+'side.': SAOEUD/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'king': KEUPBG
@@ -1503,7 +1503,7 @@ The Pink
 'fell': TPEL
 'into': TPHAO
 'a': AEU
-'passion,': PAGS KW-BG
+'passion,': PAGS/KW-BG
 'and': SKP
 'ordered': ORD/-D
 'him': HEUPL
@@ -1513,15 +1513,15 @@ The Pink
 'into': TPHAO
 'the': -T
 'deepest': TKAOEP/EFT
-'dungeon.': TKUPBGS TP-PL
+'dungeon.': TKUPBGS/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
 'spoke': SPOEBG
 'further': TPURT
 'and': SKP
-'said:': SED STPH-FPLT
-''Father,': AE KPA/TPAER KW-BG
+'said:': SED/STPH-FPLT
+''Father,': AE/KPA/TPAER/KW-BG
 'will': HR
 'you': U
 'see': SAOE
@@ -1539,35 +1539,35 @@ The Pink
 'afterwards': A*FRDZ
 'to': TO
 'murder': PHURD
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'but': PWUT
 'did': TK
 'not': TPHOT
 'do': TKO
-'it,': T KW-BG
+'it,': T/KW-BG
 'though': THOE
 'her': HER
 'own': OEPB
 'life': HRAOEUF
 'depended': TKPEPBD/-D
 'on': OPB
-'it?'': T H-F AE
+'it?'': T/H-F/AE
 'The': KPA/-T
 'king': KEUPBG
-'replied:': RE/PHRAOEUD STPH-FPLT
-''Yes,': AE KPA/KWRE KW-BG
+'replied:': RE/PHRAOEUD/STPH-FPLT
+''Yes,': AE/KPA/KWRE/KW-BG
 'I': EU
 'would': WO
 'like': HRAOEUBG
 'to': TO
 'see': SAOE
-'her.'': HER TP-PL AE
+'her.'': HER/TP-PL/AE
 'The': KPA/-T
 'son': SOPB
-'said:': SED STPH-FPLT
-''Most': AE KPA/PHOFT
+'said:': SED/STPH-FPLT
+''Most': AE/KPA/PHOFT
 'gracious': TKPWRAEURBS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'I': EU
 'will': HR
 'show': SHOE
@@ -1580,7 +1580,7 @@ The Pink
 'of': -F
 'a': AEU
 'beautiful': PWAOUFL
-'flower,'': TPHRO*UR KW-BG AE
+'flower,'': TPHRO*UR/KW-BG/AE
 'and': SKP
 'he': HE
 'thrust': THRUFT
@@ -1593,14 +1593,14 @@ The Pink
 'brought': PWRAUT
 'forth': TPO*RT
 'the': -T
-'pink,': P*EUPBG KW-BG
+'pink,': P*EUPBG/KW-BG
 'and': SKP
 'placed': PHRAEUFD
 'it': T
 'on': OPB
 'the': -T
 'royal': ROEUL
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -1615,12 +1615,12 @@ The Pink
 'one': WUPB
 'to': TO
 'equal': KWAL
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'son': SOPB
-'said:': SED STPH-FPLT
-''Now': AE KPA/TPHOU
+'said:': SED/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'will': HR
 'I': EU
 'show': SHOE
@@ -1630,7 +1630,7 @@ The Pink
 'in': TPH
 'her': HER
 'own': OEPB
-'form,'': TPORPL KW-BG AE
+'form,'': TPORPL/KW-BG/AE
 'and': SKP
 'wished': WEURBD
 'that': THA
@@ -1638,7 +1638,7 @@ The Pink
 'might': PHAOEUT
 'become': PW-BG
 'a': AEU
-'maiden,': PHAEUD/*EPB KW-BG
+'maiden,': PHAEUD/*EPB/KW-BG
 'and': SKP
 'she': SHE
 'stood': STAOD
@@ -1655,19 +1655,19 @@ The Pink
 'her': HER
 'look': HRAOBG
 'more': PHOR
-'so.': SO TP-PL
+'so.': SO/TP-PL
 'And': AFPBD
 'the': -T
 'king': KEUPBG
 'sent': SEPBT
 'two': TWO
-'waiting-maids': WAEUGT H-PB PHAEUDZ
+'waiting-maids': WAEUGT/H-PB/PHAEUDZ
 'and': SKP
 'two': TWO
 'attendants': A/TEPBD/APBTS
 'into': TPHAO
 'the': -T
-'tower,': TOUR KW-BG
+'tower,': TOUR/KW-BG
 'to': TO
 'fetch': TPEFP
 'the': -T
@@ -1678,7 +1678,7 @@ The Pink
 'to': TO
 'the': -T
 'royal': ROEUL
-'table.': TAEUBL TP-PL
+'table.': TAEUBL/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'she': SHE
@@ -1687,10 +1687,10 @@ The Pink
 'in': TPH
 'she': SHE
 'ate': AEUT
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''The': AE KPA/-T
+'said:': SED/STPH-FPLT
+''The': AE/KPA/-T
 'gracious': TKPWRAEURBS
 'and': SKP
 'merciful': PHERS/-FL
@@ -1701,26 +1701,26 @@ The Pink
 'me': PHE
 'in': TPH
 'the': -T
-'tower,': TOUR KW-BG
+'tower,': TOUR/KW-BG
 'will': HR
 'soon': SAOPB
 'set': SET
 'me': PHE
-'free.'': TPRAOE TP-PL AE
+'free.'': TPRAOE/TP-PL/AE
 'She': KPA/SHE
 'lived': HREUFD
 'three': THRAOE
 'days': TKAEUS
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'and': SKP
 'then': THEPB
 'died': TKAOEUD
-'happily,': HAP/HREU KW-BG
+'happily,': HAP/HREU/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
 'was': WAS
-'buried,': PWUR/EUD KW-BG
+'buried,': PWUR/EUD/KW-BG
 'the': -T
 'two': TWO
 'white': WHAOEUT
@@ -1732,12 +1732,12 @@ The Pink
 'food': TPAOD
 'to': TO
 'the': -T
-'tower,': TOUR KW-BG
+'tower,': TOUR/KW-BG
 'and': SKP
 'were': WR
 'angels': APB/SKWREL/-S
 'of': -F
-'heaven,': HEFPB KW-BG
+'heaven,': HEFPB/KW-BG
 'followed': TPOLD
 'her': HER
 'body': PWO*ED
@@ -1746,7 +1746,7 @@ The Pink
 'themselves': TH*EPLS
 'on': OPB
 'her': HER
-'grave.': TKPWRAEUF TP-PL
+'grave.': TKPWRAEUF/TP-PL
 'The': KPA/-T
 'aged': AEUGD
 'king': KEUPBG
@@ -1758,18 +1758,18 @@ The Pink
 'torn': TORPB
 'in': TPH
 'four': TPOUR
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'but': PWUT
 'grief': TKPWRAOEF
 'consumed': KAOUPLD
 'the': -T
 'king's': KEUPBG/AES
 'own': OEPB
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'he': HE
 'soon': SAOPB
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL
 'His': KPA/HEUS
 'son': SOPB
 'married': PHAERD
@@ -1787,7 +1787,7 @@ The Pink
 'flower': TPHRO*UR
 'in': TPH
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'whether': WHR
 'they': THE
@@ -1795,8 +1795,8 @@ The Pink
 'still': STEUL
 'alive': A/HRAOEUF
 'or': OR
-'not,': TPHOT KW-BG
+'not,': TPHOT/KW-BG
 'is': S
 'known': TPHOEPB
 'to': TO
-'God.': TKPWO*D TP-PL
+'God.': TKPWO*D/TP-PL

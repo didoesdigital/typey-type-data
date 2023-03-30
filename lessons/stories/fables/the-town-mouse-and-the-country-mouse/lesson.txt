@@ -21,14 +21,14 @@ The Town Mouse and the Country Mouse
 'cousin': KUZ
 'in': TPH
 'the': -T
-'country.': KREU TP-PL
+'country.': KREU/TP-PL
 'He': KPA/HE
 'was': WAS
 'rough': RUF
 'and': SKP
-'ready,': R-D KW-BG
+'ready,': R-D/KW-BG
 'this': TH
-'cousin,': KUZ KW-BG
+'cousin,': KUZ/KW-BG
 'but': PWUT
 'he': HE
 'loved': HROFD
@@ -39,24 +39,24 @@ The Town Mouse and the Country Mouse
 'made': PHAED
 'him': HEUPL
 'heartily': HART/HREU
-'welcome.': WELG TP-PL
+'welcome.': WELG/TP-PL
 'Beans': KPA/PWAEPBS
 'and': SKP
-'bacon,': PWAEU/KOPB KW-BG
+'bacon,': PWAEU/KOPB/KW-BG
 'cheese': KHAOES
 'and': SKP
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'were': WR
 'all': AUL
 'he': HE
 'had': H
 'to': TO
-'offer,': OFR KW-BG
+'offer,': OFR/KW-BG
 'but': PWUT
 'he': HE
 'offered': OFRD
 'them': THEPL
-'freely.': TPRAOEL TP-PL
+'freely.': TPRAOEL/TP-PL
 'The': KPA/-T
 'Town': KPA/TOUPB
 'Mouse': KPA/PHOUS
@@ -69,13 +69,13 @@ The Town Mouse and the Country Mouse
 'at': AT
 'this': TH
 'country': KREU
-'fare,': TPA*ER KW-BG
+'fare,': TPA*ER/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'cannot': SK-PBT
-'understand,': URPBD KW-BG
-'Cousin,': KPA/KUZ KW-BG
+'understand,': URPBD/KW-BG
+'Cousin,': KPA/KUZ/KW-BG
 'how': HOU
 'you': U
 'can': K
@@ -86,7 +86,7 @@ The Town Mouse and the Country Mouse
 'poor': PAOR
 'food': TPAOD
 'as': AS
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'but': PWUT
 'of': -F
 'course': KORS
@@ -97,7 +97,7 @@ The Town Mouse and the Country Mouse
 'better': PWOERT
 'in': TPH
 'the': -T
-'country;': KREU STPH*FPLT
+'country;': KREU/STPH*FPLT
 'come': KOPL
 'you': U
 'with': W
@@ -109,7 +109,7 @@ The Town Mouse and the Country Mouse
 'you': U
 'how': HOU
 'to': TO
-'live.': HREUF TP-PL
+'live.': HREUF/TP-PL
 'When': KPA/WHEPB
 'you': U
 'have': SR
@@ -129,12 +129,12 @@ The Town Mouse and the Country Mouse
 'stood': STAOD
 'a': AEU
 'country': KREU
-'life."': HRAOEUF TP-PL KR-GS
+'life."': HRAOEUF/TP-PL/KR-GS
 'No': KPA/TPHO
 'sooner': SAORPB
 'said': SED
 'than': THAPB
-'done:': TKOPB STPH-FPLT
+'done:': TKOPB/STPH-FPLT
 'the': -T
 'two': TWO
 'mice': PHAOEUS
@@ -148,12 +148,12 @@ The Town Mouse and the Country Mouse
 'at': AT
 'the': -T
 'Town': KPA/TOUPB
-'Mouse's': KPA/PHOUS AES
+'Mouse's': KPA/PHOUS/AES
 'residence': R*EPBS
 'late': HRAEUT
 'at': AT
-'night.': TPHAOEUT TP-PL
-'"You': KR-GS KPA/U
+'night.': TPHAOEUT/TP-PL
+'"You': KR-GS/KPA/U
 'will': HR
 'want': WAPBT
 'some': SOPL
@@ -161,12 +161,12 @@ The Town Mouse and the Country Mouse
 'after': AF
 'our': OUR
 'long': HROPBG
-'journey,"': SKWRURPB KW-BG KR-GS
+'journey,"': SKWRURPB/KW-BG/KR-GS
 'said': SED
 'the': -T
 'polite': PHRAOEUT
 'Town': KPA/TOUPB
-'Mouse,': KPA/PHOUS KW-BG
+'Mouse,': KPA/PHOUS/KW-BG
 'and': SKP
 'took': TAOBG
 'his': HEUS
@@ -174,7 +174,7 @@ The Town Mouse and the Country Mouse
 'into': TPHAO
 'the': -T
 'grand': TKPWRAPBD
-'dining-room.': TKAOEUPBG H-PB RAOPL TP-PL
+'dining-room.': TKAOEUPBG/H-PB/RAOPL/TP-PL
 'There': KPA/THR
 'they': THE
 'found': TPOUPBD
@@ -183,7 +183,7 @@ The Town Mouse and the Country Mouse
 'of': -F
 'a': AEU
 'fine': TPAOEUPB
-'feast,': TPAOEFT KW-BG
+'feast,': TPAOEFT/KW-BG
 'and': SKP
 'soon': SAOPB
 'the': -T
@@ -199,37 +199,37 @@ The Town Mouse and the Country Mouse
 'all': AUL
 'that': THA
 'was': WAS
-'nice.': TPHAOEUS TP-PL
+'nice.': TPHAOEUS/TP-PL
 'Suddenly': KPA/SULD
 'they': THE
 'heard': HAERD
 'growling': TKPWROUL/-G
 'and': SKP
-'barking.': PWARBG/-G TP-PL
-'"What': KR-GS KPA/WHA
+'barking.': PWARBG/-G/TP-PL
+'"What': KR-GS/KPA/WHA
 'is': S
-'that?"': THA H-F KR-GS
+'that?"': THA/H-F/KR-GS
 'said': SED
 'the': -T
 'Country': KPA/KREU
-'Mouse.': KPA/PHOUS TP-PL
-'"It': KR-GS KPA/T
+'Mouse.': KPA/PHOUS/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'only': OEPBL
 'the': -T
 'dogs': TKOGS
 'of': -F
 'the': -T
-'house,"': HOUS KW-BG KR-GS
+'house,"': HOUS/KW-BG/KR-GS
 'answered': AEPBS/-D
 'the': -T
-'other.': OER TP-PL
-'"Only!"': KR-GS KPA/OEPBL SKHRAPL KR-GS
+'other.': OER/TP-PL
+'"Only!"': KR-GS/KPA/OEPBL/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'Country': KPA/KREU
-'Mouse.': KPA/PHOUS TP-PL
-'"I': KR-GS EU
+'Mouse.': KPA/PHOUS/TP-PL
+'"I': KR-GS/EU
 'do': TKO
 'not': TPHOT
 'like': HRAOEUBG
@@ -237,7 +237,7 @@ The Town Mouse and the Country Mouse
 'music': PHAOUFBG
 'at': AT
 'my': PHEU
-'dinner."': TKEURPB TP-PL KR-GS
+'dinner."': TKEURPB/TP-PL/KR-GS
 'Just': KPA/SKWRUFT
 'at': AT
 'that': THA
@@ -245,12 +245,12 @@ The Town Mouse and the Country Mouse
 'the': -T
 'door': TKAOR
 'flew': TPHRAOU
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'in': TPH
 'came': KAEUPL
 'two': TWO
 'huge': HAOUPBLG
-'mastiffs,': PHAFT/EUF/-S KW-BG
+'mastiffs,': PHAFT/EUF/-S/KW-BG
 'and': SKP
 'the': -T
 'two': TWO
@@ -261,24 +261,24 @@ The Town Mouse and the Country Mouse
 'down': TKOUPB
 'and': SKP
 'run': RUPB
-'off.': OF TP-PL
-'"Good-bye,': KR-GS KPA/TKPWAOD H-PB PWAO*EU KW-BG
-'Cousin,"': KPA/KUZ KW-BG KR-GS
+'off.': OF/TP-PL
+'"Good-bye,': KR-GS/KPA/TKPWAOD/H-PB/PWAO*EU/KW-BG
+'Cousin,"': KPA/KUZ/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Country': KPA/KREU
-'Mouse,': KPA/PHOUS KW-BG
-'"What!': KR-GS KPA/WHA SKHRAPL
+'Mouse,': KPA/PHOUS/KW-BG
+'"What!': KR-GS/KPA/WHA/SKHRAPL
 'going': TKPW-G
 'so': SO
-'soon?"': SAOPB H-F KR-GS
+'soon?"': SAOPB/H-F/KR-GS
 'said': SED
 'the': -T
-'other.': OER TP-PL
-'"Yes,"': KR-GS KPA/KWRE KW-BG KR-GS
+'other.': OER/TP-PL
+'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
 'he': HE
-'replied;': RE/PHRAOEUD STPH*FPLT
-'"Better': KR-GS KPA/PWOERT
+'replied;': RE/PHRAOEUD/STPH*FPLT
+'"Better': KR-GS/KPA/PWOERT
 'beans': PWAEPBS
 'and': SKP
 'bacon': PWAEU/KOPB
@@ -289,4 +289,4 @@ The Town Mouse and the Country Mouse
 'and': SKP
 'ale': AEL
 'in': TPH
-'fear."': TPAOER TP-PL KR-GS
+'fear."': TPAOER/TP-PL/KR-GS

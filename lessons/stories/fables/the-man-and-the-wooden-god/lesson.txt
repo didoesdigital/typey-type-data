@@ -12,7 +12,7 @@ The Man and the Wooden God
 'and': SKP
 'stones': STOEPBS
 'and': SKP
-'idols,': AOEU/TKOL/-S KW-BG
+'idols,': AOEU/TKOL/-S/KW-BG
 'and': SKP
 'prayed': PRAEUD
 'to': TO
@@ -20,7 +20,7 @@ The Man and the Wooden God
 'to': TO
 'give': TKPWEUF
 'them': THEPL
-'luck.': HRUBG TP-PL
+'luck.': HRUBG/TP-PL
 'It': KPA/T
 'happened': HAPD
 'that': THA
@@ -38,19 +38,19 @@ The Man and the Wooden God
 'received': SAOEFD
 'from': TPR
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'but': PWUT
 'his': HEUS
 'luck': HRUBG
 'never': TPHEFR
 'seemed': SAOEPLD
 'to': TO
-'change.': KHAEUPBG TP-PL
+'change.': KHAEUPBG/TP-PL
 'He': KPA/HE
 'prayed': PRAEUD
 'and': SKP
 'he': HE
-'prayed,': PRAEUD KW-BG
+'prayed,': PRAEUD/KW-BG
 'but': PWUT
 'still': STEUL
 'he': HE
@@ -58,7 +58,7 @@ The Man and the Wooden God
 'as': AS
 'unlucky': UPB/HRUBG/KWREU
 'as': AS
-'ever.': -FR TP-PL
+'ever.': -FR/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'in': TPH
@@ -70,7 +70,7 @@ The Man and the Wooden God
 'to': TO
 'the': -T
 'Wooden': KPA/WAOD/EPB
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'and': SKP
 'with': W
 'one': WUPB
@@ -80,17 +80,17 @@ The Man and the Wooden God
 'down': TKOUPB
 'from': TPR
 'its': EUTS
-'pedestal.': PED/STAL TP-PL
+'pedestal.': PED/STAL/TP-PL
 'The': KPA/-T
 'idol': AOEU/TKOL
 'broke': PWROEBG
 'in': TPH
-'two,': TWO KW-BG
+'two,': TWO/KW-BG
 'and': SKP
 'what': WHA
 'did': TK
 'he': HE
-'see?': SAOE H-F
+'see?': SAOE/H-F
 'An': KPA/APB
 'immense': EUPL/EPBS
 'number': TPHUPL
@@ -100,4 +100,4 @@ The Man and the Wooden God
 'all': AUL
 'over': OEFR
 'the': -T
-'place.': PHRAEUS TP-PL
+'place.': PHRAEUS/TP-PL

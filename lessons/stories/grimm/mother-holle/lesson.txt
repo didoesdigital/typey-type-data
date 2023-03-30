@@ -11,44 +11,44 @@ Mother Holle
 'who': WHO
 'had': H
 'two': TWO
-'daughters;': TKAURS STPH*FPLT
+'daughters;': TKAURS/STPH*FPLT
 'one': WUPB
 'of': -F
 'them': THEPL
 'was': WAS
 'beautiful': PWAOUFL
 'and': SKP
-'industrious,': STREUS KW-BG
+'industrious,': STREUS/KW-BG
 'the': -T
 'other': OER
 'ugly': ULG
 'and': SKP
-'lazy.': HRAEZ TP-PL
+'lazy.': HRAEZ/TP-PL
 'The': KPA/-T
-'mother,': PHOER KW-BG
-'however,': HOUF KW-BG
+'mother,': PHOER/KW-BG
+'however,': HOUF/KW-BG
 'loved': HROFD
 'the': -T
 'ugly': ULG
 'and': SKP
 'lazy': HRAEZ
 'one': WUPB
-'best,': PWEFT KW-BG
+'best,': PWEFT/KW-BG
 'because': PWAU
 'she': SHE
 'was': WAS
 'her': HER
 'own': OEPB
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'so': SO
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'who': WHO
 'was': WAS
 'only': OEPBL
 'her': HER
-'stepdaughter,': STEP/TKAUR KW-BG
+'stepdaughter,': STEP/TKAUR/KW-BG
 'was': WAS
 'made': PHAED
 'to': TO
@@ -58,7 +58,7 @@ Mother Holle
 'work': WORBG
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'was': WAS
 'quite': KWAOEUT
@@ -66,7 +66,7 @@ Mother Holle
 'Cinderella': SEUPBD/REL/HRA
 'of': -F
 'the': -T
-'family.': TPAEPL TP-PL
+'family.': TPAEPL/TP-PL
 'Her': KPA/HER
 'stepmother': STEP/PHOER
 'sent': SEPBT
@@ -82,7 +82,7 @@ Mother Holle
 'in': TPH
 'the': -T
 'high': HAOEU
-'road,': RAOD KW-BG
+'road,': RAOD/KW-BG
 'there': THR
 'to': TO
 'spin': SPEUPB
@@ -91,7 +91,7 @@ Mother Holle
 'made': PHAED
 'her': HER
 'fingers': TPEURPBGS
-'bleed.': PWHRAOED TP-PL
+'bleed.': PWHRAOED/TP-PL
 'Now': KPA/TPHOU
 'it': T
 'chanced': KHAPBS/-D
@@ -104,7 +104,7 @@ Mother Holle
 'on': OPB
 'to': TO
 'the': -T
-'spindle,': S*EUPBLD KW-BG
+'spindle,': S*EUPBLD/KW-BG
 'and': SKP
 'as': AS
 'the': -T
@@ -116,7 +116,7 @@ Mother Holle
 'to': TO
 'wash': WARB
 'it': T
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'the': -T
 'spindle': S*EUPBLD
 'suddenly': SULD
@@ -129,7 +129,7 @@ Mother Holle
 'fell': TPEL
 'into': TPHAO
 'the': -T
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'She': KPA/SHE
 'ran': RAPB
 'home': HOEPL
@@ -138,24 +138,24 @@ Mother Holle
 'tell': TEL
 'of': -F
 'her': HER
-'misfortune,': PHEUZ/TP-RPB KW-BG
+'misfortune,': PHEUZ/TP-RPB/KW-BG
 'but': PWUT
 'her': HER
 'stepmother': STEP/PHOER
 'spoke': SPOEBG
 'harshly': HAR/-RB/HREU
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'after': AF
 'giving': TKPWEUFG
 'her': HER
 'a': AEU
 'violent': SRAOEUPBLT
-'scolding,': SKOLD/-G KW-BG
+'scolding,': SKOLD/-G/KW-BG
 'said': SED
-'unkindly,': UPB/KAOEUPBD/HREU KW-BG
-''As': AE KPA/AS
+'unkindly,': UPB/KAOEUPBD/HREU/KW-BG
+''As': AE/KPA/AS
 'you': U
 'have': SR
 'let': HRET
@@ -172,7 +172,7 @@ Mother Holle
 'and': SKP
 'fetch': TPEFP
 'it': T
-'out.'': OUT TP-PL AE
+'out.'': OUT/TP-PL/AE
 'The': KPA/-T
 'girl': TKPWEURL
 'went': WEPBT
@@ -198,7 +198,7 @@ Mother Holle
 'water': WAUR
 'after': AF
 'the': -T
-'spindle.': S*EUPBLD TP-PL
+'spindle.': S*EUPBLD/TP-PL
 'She': KPA/SHE
 'remembered': RERD
 'nothing': TPHOG
@@ -212,10 +212,10 @@ Mother Holle
 'in': TPH
 'a': AEU
 'beautiful': PWAOUFL
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'full': TPUL
 'of': -F
-'sunshine,': SUPB/SHAO*EUPB KW-BG
+'sunshine,': SUPB/SHAO*EUPB/KW-BG
 'and': SKP
 'with': W
 'countless': KOUPBT/-LS
@@ -223,67 +223,67 @@ Mother Holle
 'blooming': PWHRAOPL/-G
 'in': TPH
 'every': EF
-'direction.': TKREBGS TP-PL
+'direction.': TKREBGS/TP-PL
 'She': KPA/SHE
 'walked': WAUBGD
 'over': OEFR
 'the': -T
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'and': SKP
 'presently': PREPBLT
 'she': SHE
 'came': KAEUPL
 'upon': POPB
 'a': AEU
-'baker's': PWAEURBG AES
+'baker's': PWAEURBG/AES
 'oven': OEFPB
 'full': TPUL
 'of': -F
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'and': SKP
 'the': -T
 'loaves': HROEFS
 'cried': KRAOEUD
 'out': OUT
 'to': TO
-'her,': HER KW-BG
-''Take': AE KPA/TAEUBG
+'her,': HER/KW-BG
+''Take': AE/KPA/TAEUBG
 'us': US
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'take': TAEUBG
 'us': US
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'or': OR
-'alas!': A/HRAS SKHRAPL
+'alas!': A/HRAS/SKHRAPL
 'we': WE
 'shall': SHAL
 'be': -B
 'burnt': PWURPBT
 'to': TO
 'a': AEU
-'cinder;': SEUPBD/*ER STPH*FPLT
+'cinder;': SEUPBD/*ER/STPH*FPLT
 'we': WE
 'were': WR
 'baked': PWAEUBGD
 'through': THRU
 'long': HROPBG
-'ago.'': AG TP-PL AE
+'ago.'': AG/TP-PL/AE
 'So': KPA/SO
 'she': SHE
 'took': TAOBG
 'the': -T
-'bread-shovel': PWRAED H-PB SHOFL
+'bread-shovel': PWRAED/H-PB/SHOFL
 'and': SKP
 'drew': TKRAOU
 'them': THEPL
 'all': AUL
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'She': KPA/SHE
 'went': WEPBT
 'on': OPB
 'a': AEU
 'little': HREUL
-'farther,': TPA*RT KW-BG
+'farther,': TPA*RT/KW-BG
 'till': TEUL
 'she': SHE
 'came': KAEUPL
@@ -292,28 +292,28 @@ Mother Holle
 'tree': TRAOE
 'full': TPUL
 'of': -F
-'apples.': APLS TP-PL
-''Shake': AE KPA/SHAEUBG
-'me,': PHE KW-BG
+'apples.': APLS/TP-PL
+''Shake': AE/KPA/SHAEUBG
+'me,': PHE/KW-BG
 'shake': SHAEUBG
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
-'pray,'': PRAEU KW-BG AE
+'pray,'': PRAEU/KW-BG/AE
 'cried': KRAOEUD
 'the': -T
-'tree;': TRAOE STPH*FPLT
-''my': AE PHEU
-'apples,': APLS KW-BG
+'tree;': TRAOE/STPH*FPLT
+''my': AE/PHEU
+'apples,': APLS/KW-BG
 'one': WUPB
 'and': SKP
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'are': R
-'ripe.'': RAOEUP TP-PL AE
+'ripe.'': RAOEUP/TP-PL/AE
 'So': KPA/SO
 'she': SHE
 'shook': SHAOBG
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'the': -T
 'apples': APLS
@@ -323,7 +323,7 @@ Mother Holle
 'upon': POPB
 'her': HER
 'like': HRAOEUBG
-'rain;': RAEUPB STPH*FPLT
+'rain;': RAEUPB/STPH*FPLT
 'but': PWUT
 'she': SHE
 'continued': T-PBD
@@ -337,7 +337,7 @@ Mother Holle
 'apple': A*EPL
 'left': HREFT
 'upon': POPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'carefully': KA*EUFL
@@ -351,7 +351,7 @@ Mother Holle
 'and': SKP
 'walked': WAUBGD
 'on': OPB
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'thing': THEUPBG
@@ -361,7 +361,7 @@ Mother Holle
 'was': WAS
 'a': AEU
 'little': HREUL
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'there': THR
 'she': SHE
@@ -370,37 +370,37 @@ Mother Holle
 'old': OLD
 'woman': WOPL
 'looking': HRAOG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'with': W
 'such': SUFP
 'large': HRARPBLG
-'teeth,': TAO*ET KW-BG
+'teeth,': TAO*ET/KW-BG
 'that': THA
 'she': SHE
 'was': WAS
-'terrified,': TER/TPAOEUD KW-BG
+'terrified,': TER/TPAOEUD/KW-BG
 'and': SKP
 'turned': TURPBD
 'to': TO
 'run': RUPB
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'But': KPA/PWUT
 'the': -T
 'old': OLD
 'woman': WOPL
 'called': KAULD
 'after': AF
-'her,': HER KW-BG
-''What': AE KPA/WHA
+'her,': HER/KW-BG
+''What': AE/KPA/WHA
 'are': R
 'you': U
 'afraid': A/TPRAEUD
-'of,': -F KW-BG
+'of,': -F/KW-BG
 'dear': TKAER
-'child?': KHAOEULD H-F
+'child?': KHAOEULD/H-F
 'Stay': KPA/STAEU
 'with': W
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'if': TP
 'you': U
 'will': HR
@@ -412,19 +412,19 @@ Mother Holle
 'house': HOUS
 'properly': PRORL
 'for': TPOR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'will': HR
 'make': PHAEUBG
 'you': U
 'very': SRE
-'happy.': HAEP TP-PL
+'happy.': HAEP/TP-PL
 'You': KPA/U
 'must': PHUFT
 'be': -B
 'very': SRE
-'careful,': KAEUFL KW-BG
-'however,': HOUF KW-BG
+'careful,': KAEUFL/KW-BG
+'however,': HOUF/KW-BG
 'to': TO
 'make': PHAEUBG
 'my': PHEU
@@ -432,7 +432,7 @@ Mother Holle
 'in': TPH
 'the': -T
 'right': RAOEUT
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'for': TPOR
 'I': EU
 'wish': WEURB
@@ -441,36 +441,36 @@ Mother Holle
 'to': TO
 'shake': SHAEUBG
 'it': T
-'thoroughly,': THORL KW-BG
+'thoroughly,': THORL/KW-BG
 'so': SO
 'that': THA
 'the': -T
 'feathers': TP*ET/ERS
 'fly': TPHRAOEU
-'about;': PW STPH*FPLT
+'about;': PW/STPH*FPLT
 'then': THEPB
 'they': THE
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'down': TKOUPB
 'there': THR
 'in': TPH
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'that': THA
 'it': T
 'is': S
-'snowing;': STPHOEG STPH*FPLT
+'snowing;': STPHOEG/STPH*FPLT
 'for': TPOR
 'I': EU
 'am': APL
 'Mother': KPA/PHOER
-'Holle.'': xxx Holle TP-PL AE
+'Holle.'': xxx Holle/TP-PL/AE
 'The': KPA/-T
 'old': OLD
 'woman': WOPL
 'spoke': SPOEBG
 'so': SO
-'kindly,': KAOEUPBD/HREU KW-BG
+'kindly,': KAOEUPBD/HREU/KW-BG
 'that': THA
 'the': -T
 'girl': TKPWEURL
@@ -483,7 +483,7 @@ Mother Holle
 'enter': SPWER
 'into': TPHAO
 'her': HER
-'service.': S-FS TP-PL
+'service.': S-FS/TP-PL
 'She': KPA/SHE
 'took': TAOBG
 'care': KAEUR
@@ -509,7 +509,7 @@ Mother Holle
 'with': W
 'all': AUL
 'her': HER
-'might,': PHAOEUT KW-BG
+'might,': PHAOEUT/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -519,7 +519,7 @@ Mother Holle
 'like': HRAOEUBG
 'so': SO
 'many': PHAEPB
-'snowflakes.': STPHOE/TPHRAEUBG/-S TP-PL
+'snowflakes.': STPHOE/TPHRAEUBG/-S/TP-PL
 'The': KPA/-T
 'old': OLD
 'woman': WOPL
@@ -528,13 +528,13 @@ Mother Holle
 'good': TKPWAOD
 'as': AS
 'her': HER
-'word:': WORD STPH-FPLT
+'word:': WORD/STPH-FPLT
 'she': SHE
 'never': TPHEFR
 'spoke': SPOEBG
 'angrily': APBG/REU/HREU
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'her': HER
@@ -543,7 +543,7 @@ Mother Holle
 'boiled': PWOEULD
 'meats': PHAETS
 'every': EF
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'So': KPA/SO
 'she': SHE
 'stayed': STAEUD
@@ -553,14 +553,14 @@ Mother Holle
 'Holle': xxx Holle
 'for': TPOR
 'some': SOPL
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'and': SKP
 'then': THEPB
 'she': SHE
 'began': TKPWAPB
 'to': TO
 'grow': TKPWROE
-'unhappy.': UPB/HAEP TP-PL
+'unhappy.': UPB/HAEP/TP-PL
 'She': KPA/SHE
 'could': KO
 'not': TPHOT
@@ -570,7 +570,7 @@ Mother Holle
 'why': KWR
 'she': SHE
 'felt': TPELT
-'sad,': SAD KW-BG
+'sad,': SAD/KW-BG
 'but': PWUT
 'she': SHE
 'became': PWAEUPL
@@ -582,13 +582,13 @@ Mother Holle
 'longing': HROPBG/-G
 'to': TO
 'go': TKPW
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'then': THEPB
 'she': SHE
 'knew': TPHAOU
 'she': SHE
 'was': WAS
-'homesick,': HOEPL/TK-LS/SEUBG KW-BG
+'homesick,': HOEPL/TK-LS/SEUBG/KW-BG
 'although': HR*T
 'she': SHE
 'was': WAS
@@ -605,21 +605,21 @@ Mother Holle
 'her': HER
 'mother': PHOER
 'and': SKP
-'sister.': ST-R TP-PL
+'sister.': ST-R/TP-PL
 'After': KPA/AF
 'waiting': WAEUGT
-'awhile,': A/WHAOEUL KW-BG
+'awhile,': A/WHAOEUL/KW-BG
 'she': SHE
 'went': WEPBT
 'to': TO
 'Mother': KPA/PHOER
 'Holle': xxx Holle
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'am': APL
 'so': SO
-'homesick,': HOEPL/TK-LS/SEUBG KW-BG
+'homesick,': HOEPL/TK-LS/SEUBG/KW-BG
 'that': THA
 'I': EU
 'cannot': SK-PBT
@@ -627,26 +627,26 @@ Mother Holle
 'with': W
 'you': U
 'any': TPHEU
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'for': TPOR
 'although': HR*T
 'I': EU
 'am': APL
 'so': SO
 'happy': HAEP
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'I': EU
 'must': PHUFT
 'return': RURPB
 'to': TO
 'my': PHEU
 'own': OEPB
-'people.'': PAOEPL TP-PL AE
+'people.'': PAOEPL/TP-PL/AE
 'Then': KPA/THEPB
 'Mother': KPA/PHOER
 'Holle': xxx Holle
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'am': APL
 'pleased': PHREFD
 'that': THA
@@ -659,7 +659,7 @@ Mother Holle
 'to': TO
 'your': KWROUR
 'own': OEPB
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'and': SKP
 'as': AS
 'you': U
@@ -669,13 +669,13 @@ Mother Holle
 'so': SO
 'well': WEL
 'and': SKP
-'faithfully,': TPA*EUT/TPHREU KW-BG
+'faithfully,': TPA*EUT/TPHREU/KW-BG
 'I': EU
 'will': HR
 'take': TAEUBG
 'you': U
 'home': HOEPL
-'myself.'': PHAO*EUS TP-PL AE
+'myself.'': PHAO*EUS/TP-PL/AE
 'Thereupon': KPA/THRUP
 'she': SHE
 'led': HRED
@@ -688,30 +688,30 @@ Mother Holle
 'to': TO
 'a': AEU
 'broad': PWRAOD
-'gateway.': TKPWAET/WAEU TP-PL
+'gateway.': TKPWAET/WAEU/TP-PL
 'The': KPA/-T
 'gate': TKPWAET
 'was': WAS
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'and': SKP
 'as': AS
 'the': -T
 'girl': TKPWEURL
 'passed': PAFD
-'through,': THRU KW-BG
+'through,': THRU/KW-BG
 'a': AEU
 'shower': SHOUR
 'of': -F
 'gold': TKPWOELD
 'fell': TPEL
 'upon': POPB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'the': -T
 'gold': TKPWOELD
 'clung': KHRUPBG
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'so': SO
 'that': THA
 'she': SHE
@@ -722,17 +722,17 @@ Mother Holle
 'from': TPR
 'head': HED
 'to': TO
-'foot.': TPAOT TP-PL
-''That': AE KPA/THA
+'foot.': TPAOT/TP-PL
+''That': AE/KPA/THA
 'is': S
 'a': AEU
 'reward': RE/WARD
 'for': TPOR
 'your': KWROUR
-'industry,'': STREU KW-BG AE
+'industry,'': STREU/KW-BG/AE
 'said': SED
 'Mother': KPA/PHOER
-'Holle,': xxx Holle KW-BG
+'Holle,': xxx Holle/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -748,12 +748,12 @@ Mother Holle
 'dropped': TKROPD
 'into': TPHAO
 'the': -T
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'The': KPA/-T
 'gate': TKPWAET
 'was': WAS
 'then': THEPB
-'closed,': KHROEFD KW-BG
+'closed,': KHROEFD/KW-BG
 'and': SKP
 'the': -T
 'girl': TKPWEURL
@@ -768,12 +768,12 @@ Mother Holle
 'to': TO
 'her': HER
 'mother's': PHOER/AES
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'As': KPA/AS
 'she': SHE
 'entered': SPWR-D
 'the': -T
-'courtyard,': KORT/KWRARD KW-BG
+'courtyard,': KORT/KWRARD/KW-BG
 'the': -T
 'cock': KOBG
 'who': WHO
@@ -781,17 +781,17 @@ Mother Holle
 'perched': PEFRPBD
 'on': OPB
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'called': KAULD
-'out:': OUT STPH-FPLT
-''Cock-a-doodle-doo!': AE KPA/KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO SKHRAPL
+'out:': OUT/STPH-FPLT
+''Cock-a-doodle-doo!': AE/KPA/KOBG/H-PB/AEU/H-PB/TKAOD/*L/H-PB/TKAO/SKHRAPL
 'Your': KPA/KWROUR
 'golden': TKPWOELD/*EPB
 'daughter's': TKAUR/AES
 'come': KOPL
 'back': PWABG
 'to': TO
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'went': WEPBT
@@ -800,7 +800,7 @@ Mother Holle
 'her': HER
 'mother': PHOER
 'and': SKP
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -809,13 +809,13 @@ Mother Holle
 'richly': REUFP/HREU
 'covered': KOFRD
 'with': W
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'they': THE
 'gave': TKPWAEUF
 'her': HER
 'a': AEU
 'warm': WARPL
-'welcome.': WELG TP-PL
+'welcome.': WELG/TP-PL
 'She': KPA/SHE
 'related': RAELTD
 'to': TO
@@ -823,7 +823,7 @@ Mother Holle
 'all': AUL
 'that': THA
 'had': H
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -836,14 +836,14 @@ Mother Holle
 'by': PWEU
 'her': HER
 'great': TKPWRAET
-'riches,': REUFPS KW-BG
+'riches,': REUFPS/KW-BG
 'she': SHE
 'thought': THAUT
 'she': SHE
 'should': SHO
 'like': HRAOEUBG
 'her': HER
-'ugly,': ULG KW-BG
+'ugly,': ULG/KW-BG
 'lazy': HRAEZ
 'daughter': TKAUR
 'to': TO
@@ -851,7 +851,7 @@ Mother Holle
 'and': SKP
 'try': TREU
 'her': HER
-'fortune.': TP-RPB TP-PL
+'fortune.': TP-RPB/TP-PL
 'So': KPA/SO
 'she': SHE
 'made': PHAED
@@ -864,7 +864,7 @@ Mother Holle
 'the': -T
 'well': WEL
 'and': SKP
-'spin,': SPEUPB KW-BG
+'spin,': SPEUPB/KW-BG
 'and': SKP
 'the': -T
 'girl': TKPWEURL
@@ -877,7 +877,7 @@ Mother Holle
 'hand': HAPBD
 'into': TPHAO
 'a': AEU
-'thorn-bush,': THORPB H-PB PWURB KW-BG
+'thorn-bush,': THORPB/H-PB/PWURB/KW-BG
 'so': SO
 'that': THA
 'she': SHE
@@ -888,18 +888,18 @@ Mother Holle
 'on': OPB
 'to': TO
 'the': -T
-'spindle;': S*EUPBLD STPH*FPLT
+'spindle;': S*EUPBLD/STPH*FPLT
 'then': THEPB
 'she': SHE
 'threw': THRAOU
 'it': T
 'into': TPHAO
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'jumped': SKWR*UPLD
 'in': TPH
-'herself.': H*ERS TP-PL
+'herself.': H*ERS/TP-PL
 'Like': KPA/HRAOEUBG
 'her': HER
 'sister': ST-R
@@ -908,7 +908,7 @@ Mother Holle
 'in': TPH
 'the': -T
 'beautiful': PWAOUFL
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'and': SKP
 'walked': WAUBGD
 'over': OEFR
@@ -918,39 +918,39 @@ Mother Holle
 'came': KAEUPL
 'to': TO
 'the': -T
-'oven.': OEFPB TP-PL
-''Take': AE KPA/TAEUBG
+'oven.': OEFPB/TP-PL
+''Take': AE/KPA/TAEUBG
 'us': US
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'take': TAEUBG
 'us': US
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'or': OR
-'alas!': A/HRAS SKHRAPL
+'alas!': A/HRAS/SKHRAPL
 'we': WE
 'shall': SHAL
 'be': -B
 'burnt': PWURPBT
 'to': TO
 'a': AEU
-'cinder;': SEUPBD/*ER STPH*FPLT
+'cinder;': SEUPBD/*ER/STPH*FPLT
 'we': WE
 'were': WR
 'baked': PWAEUBGD
 'through': THRU
 'long': HROPBG
-'ago,'': AG KW-BG AE
+'ago,'': AG/KW-BG/AE
 'cried': KRAOEUD
 'the': -T
 'loaves': HROEFS
 'as': AS
-'before.': PW-FR TP-PL
+'before.': PW-FR/TP-PL
 'But': KPA/PWUT
 'the': -T
 'lazy': HRAEZ
 'girl': TKPWEURL
-'answered,': AEPBS/-D KW-BG
-''Do': AE KPA/TKO
+'answered,': AEPBS/-D/KW-BG
+''Do': AE/KPA/TKO
 'you': U
 'think': THEU
 'I': EU
@@ -961,36 +961,36 @@ Mother Holle
 'my': PHEU
 'hands': HAPBDZ
 'for': TPOR
-'you?'': U H-F AE
+'you?'': U/H-F/AE
 'and': SKP
 'walked': WAUBGD
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'Presently': KPA/PREPBLT
 'she': SHE
 'came': KAEUPL
 'to': TO
 'the': -T
-'apple-tree.': A*EPL H-PB TRAOE TP-PL
-''Shake': AE KPA/SHAEUBG
-'me,': PHE KW-BG
+'apple-tree.': A*EPL/H-PB/TRAOE/TP-PL
+''Shake': AE/KPA/SHAEUBG
+'me,': PHE/KW-BG
 'shake': SHAEUBG
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
-'pray;': PRAEU STPH*FPLT
+'pray;': PRAEU/STPH*FPLT
 'my': PHEU
-'apples,': APLS KW-BG
+'apples,': APLS/KW-BG
 'one': WUPB
 'and': SKP
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'are': R
-'ripe,'': RAOEUP KW-BG AE
+'ripe,'': RAOEUP/KW-BG/AE
 'it': T
-'cried.': KRAOEUD TP-PL
+'cried.': KRAOEUD/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'only': OEPBL
-'answered,': AEPBS/-D KW-BG
-''A': AE KPA/AEU
+'answered,': AEPBS/-D/KW-BG
+''A': AE/KPA/AEU
 'nice': TPHAOEUS
 'thing': THEUPBG
 'to': TO
@@ -1006,18 +1006,18 @@ Mother Holle
 'fall': TPAUL
 'on': OPB
 'my': PHEU
-'head,'': HED KW-BG AE
+'head,'': HED/KW-BG/AE
 'and': SKP
 'passed': PAFD
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'she': SHE
 'came': KAEUPL
 'to': TO
 'Mother': KPA/PHOER
-'Holle's': xxx Holle AES
-'house,': HOUS KW-BG
+'Holle's': xxx Holle/AES
+'house,': HOUS/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -1030,13 +1030,13 @@ Mother Holle
 'teeth': TAO*ET
 'from': TPR
 'her': HER
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'she': SHE
 'was': WAS
 'not': TPHOT
 'afraid': A/TPRAEUD
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'engaged': EPB/TKPWAEUPBLGD
 'herself': H*ERS
@@ -1045,7 +1045,7 @@ Mother Holle
 'to': TO
 'the': -T
 'old': OLD
-'woman.': WOPL TP-PL
+'woman.': WOPL/TP-PL
 'The': KPA/-T
 'first': TPEUFRT
 'day': TKAEU
@@ -1054,14 +1054,14 @@ Mother Holle
 'very': SRE
 'obedient': OE/PWAOEPBT
 'and': SKP
-'industrious,': STREUS KW-BG
+'industrious,': STREUS/KW-BG
 'and': SKP
 'exerted': ERBGS/ERT/-D
 'herself': H*ERS
 'to': TO
 'please': PHRES
 'Mother': KPA/PHOER
-'Holle,': xxx Holle KW-BG
+'Holle,': xxx Holle/KW-BG
 'for': TPOR
 'she': SHE
 'thought': THAUT
@@ -1072,18 +1072,18 @@ Mother Holle
 'should': SHO
 'get': TKPWET
 'in': TPH
-'return.': RURPB TP-PL
+'return.': RURPB/TP-PL
 'The': KPA/-T
 'next': TPHEGT
-'day,': TKAEU KW-BG
-'however,': HOUF KW-BG
+'day,': TKAEU/KW-BG
+'however,': HOUF/KW-BG
 'she': SHE
 'began': TKPWAPB
 'to': TO
 'dawdle': TKAUD/*L
 'over': OEFR
 'her': HER
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'and': SKP
 'the': -T
 'third': THEURD
@@ -1092,7 +1092,7 @@ Mother Holle
 'was': WAS
 'more': PHOR
 'idle': AOEUD/*L
-'still;': STEUL STPH*FPLT
+'still;': STEUL/STPH*FPLT
 'then': THEPB
 'she': SHE
 'began': TKPWAPB
@@ -1107,9 +1107,9 @@ Mother Holle
 'refused': RAO*UFD
 'to': TO
 'get': TKPWET
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'Worse': KPA/WORS
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'she': SHE
 'neglected': TPHEGD
 'to': TO
@@ -1118,7 +1118,7 @@ Mother Holle
 'old': OLD
 'woman's': WOPL/AES
 'bed': PWED
-'properly,': PRORL KW-BG
+'properly,': PRORL/KW-BG
 'and': SKP
 'forgot': TPAURGT
 'to': TO
@@ -1130,7 +1130,7 @@ Mother Holle
 'feathers': TP*ET/ERS
 'might': PHAOEUT
 'fly': TPHRAOEU
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'So': KPA/SO
 'Mother': KPA/PHOER
 'Holle': xxx Holle
@@ -1139,56 +1139,56 @@ Mother Holle
 'got': TKPWOT
 'tired': TAOEURD
 'of': -F
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'told': TOLD
 'her': HER
 'she': SHE
 'might': PHAOEUT
-'go.': TKPW TP-PL
+'go.': TKPW/TP-PL
 'The': KPA/-T
 'lazy': HRAEZ
 'girl': TKPWEURL
 'was': WAS
 'delighted': TKHRAOEUTD
 'at': AT
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
 'thought': THAUT
 'to': TO
-'herself,': H*ERS KW-BG
-''The': AE KPA/-T
+'herself,': H*ERS/KW-BG
+''The': AE/KPA/-T
 'gold': TKPWOELD
 'will': HR
 'soon': SAOPB
 'be': -B
-'mine.'': PHAOEUPB TP-PL AE
+'mine.'': PHAOEUPB/TP-PL/AE
 'Mother': KPA/PHOER
 'Holle': xxx Holle
 'led': HRED
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'as': AS
 'she': SHE
 'had': H
 'led': HRED
 'her': HER
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'to': TO
 'the': -T
 'broad': PWRAOD
-'gateway;': TKPWAET/WAEU STPH*FPLT
+'gateway;': TKPWAET/WAEU/STPH*FPLT
 'but': PWUT
 'as': AS
 'she': SHE
 'was': WAS
 'passing': PAFG
-'through,': THRU KW-BG
+'through,': THRU/KW-BG
 'instead': STPHED
 'of': -F
 'the': -T
 'shower': SHOUR
 'of': -F
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'a': AEU
 'great': TKPWRAET
 'bucketful': PWUBGT/-FL
@@ -1197,23 +1197,23 @@ Mother Holle
 'came': KAEUPL
 'pouring': PORG
 'over': OEFR
-'her.': HER TP-PL
-''That': AE KPA/THA
+'her.': HER/TP-PL
+''That': AE/KPA/THA
 'is': S
 'in': TPH
 'return': RURPB
 'for': TPOR
 'your': KWROUR
-'services,'': S-FSZ KW-BG AE
+'services,'': S-FSZ/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'and': SKP
 'she': SHE
 'shut': SHUT
 'the': -T
-'gate.': TKPWAET TP-PL
+'gate.': TKPWAET/TP-PL
 'So': KPA/SO
 'the': -T
 'lazy': HRAEZ
@@ -1224,7 +1224,7 @@ Mother Holle
 'home': HOEPL
 'covered': KOFRD
 'with': W
-'pitch,': PEUFP KW-BG
+'pitch,': PEUFP/KW-BG
 'and': SKP
 'the': -T
 'cock': KOBG
@@ -1236,20 +1236,20 @@ Mother Holle
 'as': AS
 'she': SHE
 'saw': SAU
-'her:': HER STPH-FPLT
-''Cock-a-doodle-doo!': AE KPA/KOBG H-PB AEU H-PB TKAOD/*L H-PB TKAO SKHRAPL
+'her:': HER/STPH-FPLT
+''Cock-a-doodle-doo!': AE/KPA/KOBG/H-PB/AEU/H-PB/TKAOD/*L/H-PB/TKAO/SKHRAPL
 'Your': KPA/KWROUR
 'dirty': TKOEURT
 'daughter's': TKAUR/AES
 'come': KOPL
 'back': PWABG
 'to': TO
-'you.'': U TP-PL AE
-'But,': KPA/PWUT KW-BG
+'you.'': U/TP-PL/AE
+'But,': KPA/PWUT/KW-BG
 'try': TREU
 'what': WHA
 'she': SHE
-'would,': WO KW-BG
+'would,': WO/KW-BG
 'she': SHE
 'could': KO
 'not': TPHOT
@@ -1266,13 +1266,13 @@ Mother Holle
 'long': HROPBG
 'as': AS
 'she': SHE
-'lived.': HREUFD TP-PL
+'lived.': HREUFD/TP-PL
 'LITTLE': *URP/HREUL
-'RED-CAP': *URP/RED H-PB KA*P
-'[LITTLE': PWR-BGT *URP/HREUL
+'RED-CAP': *URP/RED/H-PB/KA*P
+'[LITTLE': PWR-BGT/*URP/HREUL
 'RED': *URP/RED
 'RIDING': *URP/RAOEUD/-G
-'HOOD]': *URP/HAOD PWR*BGT
+'HOOD]': *URP/HAOD/PWR*BGT
 'Once': KPA/WUPBS
 'upon': POPB
 'a': AEU
@@ -1291,14 +1291,14 @@ Mother Holle
 'who': WHO
 'looked': HRAOBGD
 'at': AT
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'but': PWUT
 'most': PHOFT
 'of': -F
 'all': AUL
 'by': PWEU
 'her': HER
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'and': SKP
 'there': THR
 'was': WAS
@@ -1311,7 +1311,7 @@ Mother Holle
 'given': TKPWEUFPB
 'to': TO
 'the': -T
-'child.': KHAOEULD TP-PL
+'child.': KHAOEULD/TP-PL
 'Once': KPA/WUPBS
 'she': SHE
 'gave': TKPWAEUF
@@ -1321,7 +1321,7 @@ Mother Holle
 'cap': KAP
 'of': -F
 'red': RED
-'velvet,': SREL/SRET KW-BG
+'velvet,': SREL/SRET/KW-BG
 'which': WEU
 'suited': SAOUTD
 'her': HER
@@ -1333,24 +1333,24 @@ Mother Holle
 'never': TPHEFR
 'wear': WAER
 'anything': TPHEUG
-'else;': ELS STPH*FPLT
+'else;': ELS/STPH*FPLT
 'so': SO
 'she': SHE
 'was': WAS
 'always': AULS
 'called': KAULD
-''Little': AE KPA/HREUL
-'Red-Cap.'': KPA/RED H-PB KPA/KAP TP-PL AE
+''Little': AE/KPA/HREUL
+'Red-Cap.'': KPA/RED/H-PB/KPA/KAP/TP-PL/AE
 'One': KPA/WUPB
 'day': TKAEU
 'her': HER
 'mother': PHOER
 'said': SED
 'to': TO
-'her:': HER STPH-FPLT
-''Come,': AE KPA/KOPL KW-BG
+'her:': HER/STPH-FPLT
+''Come,': AE/KPA/KOPL/KW-BG
 'Little': KPA/HREUL
-'Red-Cap,': KPA/RED H-PB KPA/KAP KW-BG
+'Red-Cap,': KPA/RED/H-PB/KPA/KAP/KW-BG
 'here': HAOER
 'is': S
 'a': AEU
@@ -1361,34 +1361,34 @@ Mother Holle
 'a': AEU
 'bottle': PWO*LT
 'of': -F
-'wine;': WAOEUPB STPH*FPLT
+'wine;': WAOEUPB/STPH*FPLT
 'take': TAEUBG
 'them': THEPL
 'to': TO
 'your': KWROUR
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'she': SHE
 'is': S
 'ill': EUL
 'and': SKP
-'weak,': WAEBG KW-BG
+'weak,': WAEBG/KW-BG
 'and': SKP
 'they': THE
 'will': HR
 'do': TKO
 'her': HER
-'good.': TKPWAOD TP-PL
+'good.': TKPWAOD/TP-PL
 'Set': KPA/SET
 'out': OUT
 'before': PW-FR
 'it': T
 'gets': TKPWETS
-'hot,': HOT KW-BG
+'hot,': HOT/KW-BG
 'and': SKP
 'when': WHEPB
 'you': U
 'are': R
-'going,': TKPW-G KW-BG
+'going,': TKPW-G/KW-BG
 'walk': WAUBG
 'nicely': TPHAOEULS
 'and': SKP
@@ -1399,7 +1399,7 @@ Mother Holle
 'run': RUPB
 'off': OF
 'the': -T
-'path,': PA*T KW-BG
+'path,': PA*T/KW-BG
 'or': OR
 'you': U
 'may': PHAE
@@ -1407,27 +1407,27 @@ Mother Holle
 'and': SKP
 'break': PWRAEBG
 'the': -T
-'bottle,': PWO*LT KW-BG
+'bottle,': PWO*LT/KW-BG
 'and': SKP
 'then': THEPB
 'your': KWROUR
 'grandmother': TKPWR-PL
 'will': HR
 'get': TKPWET
-'nothing;': TPHOG STPH*FPLT
+'nothing;': TPHOG/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'you': U
 'go': TKPW
 'into': TPHAO
 'her': HER
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'don't': TKOEPBT
 'forget': TPORGT
 'to': TO
-'say,': SAEU KW-BG
-'"Good': KR-GS KPA/TKPWAOD
-'morning",': PHORPBG KR-GS KW-BG
+'say,': SAEU/KW-BG
+'"Good': KR-GS/KPA/TKPWAOD
+'morning",': PHORPBG/KR-GS/KW-BG
 'and': SKP
 'don't': TKOEPBT
 'peep': PAOEP
@@ -1437,50 +1437,50 @@ Mother Holle
 'before': PW-FR
 'you': U
 'do': TKO
-'it.'': T TP-PL AE
-''I': AE EU
+'it.'': T/TP-PL/AE
+''I': AE/EU
 'will': HR
 'take': TAEUBG
 'great': TKPWRAET
-'care,'': KAEUR KW-BG AE
+'care,'': KAEUR/KW-BG/AE
 'said': SED
 'Little': KPA/HREUL
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'to': TO
 'her': HER
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'her': HER
 'hand': HAPBD
 'on': OPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'grandmother': TKPWR-PL
 'lived': HREUFD
 'out': OUT
 'in': TPH
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'half': HAF
 'a': AEU
 'league': HRAOEG
 'from': TPR
 'the': -T
-'village,': SREULG KW-BG
+'village,': SREULG/KW-BG
 'and': SKP
 'just': SKWRUFT
 'as': AS
 'Little': KPA/HREUL
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'entered': SPWR-D
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'a': AEU
 'wolf': WOFL
 'met': PHET
-'her.': HER TP-PL
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'her.': HER/TP-PL
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'did': TK
 'not': TPHOT
 'know': TPHOE
@@ -1489,7 +1489,7 @@ Mother Holle
 'wicked': WEUBGD
 'creature': KRAOEFP
 'he': HE
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'and': SKP
 'was': WAS
 'not': TPHOT
@@ -1497,39 +1497,39 @@ Mother Holle
 'all': AUL
 'afraid': A/TPRAEUD
 'of': -F
-'him.': HEUPL TP-PL
-''Good': AE KPA/TKPWAOD
-'day,': TKAEU KW-BG
+'him.': HEUPL/TP-PL
+''Good': AE/KPA/TKPWAOD
+'day,': TKAEU/KW-BG
 'Little': KPA/HREUL
-'Red-Cap,'': KPA/RED H-PB KPA/KAP KW-BG AE
+'Red-Cap,'': KPA/RED/H-PB/KPA/KAP/KW-BG/AE
 'said': SED
-'he.': HE TP-PL
-''Thank': AE KPA/THAPBG
+'he.': HE/TP-PL
+''Thank': AE/KPA/THAPBG
 'you': U
-'kindly,': KAOEUPBD/HREU KW-BG
-'wolf.'': WOFL TP-PL AE
-''Whither': AE KPA/WHEU/THER
+'kindly,': KAOEUPBD/HREU/KW-BG
+'wolf.'': WOFL/TP-PL/AE
+''Whither': AE/KPA/WHEU/THER
 'away': WA*EU
 'so': SO
-'early,': ERL KW-BG
+'early,': ERL/KW-BG
 'Little': KPA/HREUL
-'Red-Cap?'': KPA/RED H-PB KPA/KAP H-F AE
-''To': AE KPA/TO
+'Red-Cap?'': KPA/RED/H-PB/KPA/KAP/H-F/AE
+''To': AE/KPA/TO
 'my': PHEU
-'grandmother's.'': TKPWR-PL AE S* TP-PL AE
-''What': AE KPA/WHA
+'grandmother's.'': TKPWR-PL/AE/S*/TP-PL/AE
+''What': AE/KPA/WHA
 'have': SR
 'you': U
 'got': TKPWOT
 'in': TPH
 'your': KWROUR
-'apron?'': AEUP/ROPB H-F AE
-''Cake': AE KPA/KAEUBG
+'apron?'': AEUP/ROPB/H-F/AE
+''Cake': AE/KPA/KAEUBG
 'and': SKP
-'wine;': WAOEUPB STPH*FPLT
+'wine;': WAOEUPB/STPH*FPLT
 'yesterday': KWRED
 'was': WAS
-'baking-day,': PWAEUBG/-G H-PB TKAEU KW-BG
+'baking-day,': PWAEUBG/-G/H-PB/TKAEU/KW-BG
 'so': SO
 'poor': PAOR
 'sick': SEUBG
@@ -1538,19 +1538,19 @@ Mother Holle
 'to': TO
 'have': SR
 'something': S-G
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'to': TO
 'make': PHAEUBG
 'her': HER
-'stronger.'': STRORPBG TP-PL AE
-''Where': AE KPA/W-R
+'stronger.'': STRORPBG/TP-PL/AE
+''Where': AE/KPA/W-R
 'does': TKOS
 'your': KWROUR
 'grandmother': TKPWR-PL
-'live,': HREUF KW-BG
+'live,': HREUF/KW-BG
 'Little': KPA/HREUL
-'Red-Cap?'': KPA/RED H-PB KPA/KAP H-F AE
-''A': AE KPA/AEU
+'Red-Cap?'': KPA/RED/H-PB/KPA/KAP/H-F/AE
+''A': AE/KPA/AEU
 'good': TKPWAOD
 'quarter': KWAR/TER
 'of': -F
@@ -1560,7 +1560,7 @@ Mother Holle
 'on': OPB
 'in': TPH
 'the': -T
-'wood;': WAOD STPH*FPLT
+'wood;': WAOD/STPH*FPLT
 'her': HER
 'house': HOUS
 'stands': STAPBDZ
@@ -1568,35 +1568,35 @@ Mother Holle
 'the': -T
 'three': THRAOE
 'large': HRARPBLG
-'oak-trees,': OEBG H-PB TRAOES KW-BG
+'oak-trees,': OEBG/H-PB/TRAOES/KW-BG
 'the': -T
-'nut-trees': TPHUT H-PB TRAOES
+'nut-trees': TPHUT/H-PB/TRAOES
 'are': R
 'just': SKWRUFT
-'below;': PWHRO STPH*FPLT
+'below;': PWHRO/STPH*FPLT
 'you': U
 'surely': SHURL
 'must': PHUFT
 'know': TPHOE
-'it,'': T KW-BG AE
+'it,'': T/KW-BG/AE
 'replied': RE/PHRAOEUD
 'Little': KPA/HREUL
-'Red-Cap.': KPA/RED H-PB KPA/KAP TP-PL
+'Red-Cap.': KPA/RED/H-PB/KPA/KAP/TP-PL
 'The': KPA/-T
 'wolf': WOFL
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''What': AE KPA/WHA
+'himself:': HEUPLS/STPH-FPLT
+''What': AE/KPA/WHA
 'a': AEU
 'tender': TERPBD
 'young': KWRUPBG
-'creature!': KRAOEFP SKHRAPL
+'creature!': KRAOEFP/SKHRAPL
 'what': WHA
 'a': AEU
 'nice': TPHAOEUS
 'plump': PHRUFRP
-'mouthful--she': PHO*UT/-FL H-PB H-PB SHE
+'mouthful--she': PHO*UT/-FL/H-PB/H-PB/SHE
 'will': HR
 'be': -B
 'better': PWOERT
@@ -1605,16 +1605,16 @@ Mother Holle
 'than': THAPB
 'the': -T
 'old': OLD
-'woman.': WOPL TP-PL
+'woman.': WOPL/TP-PL
 'I': EU
 'must': PHUFT
 'act': ABGT
-'craftily,': KRAFT/HREU KW-BG
+'craftily,': KRAFT/HREU/KW-BG
 'so': SO
 'as': AS
 'to': TO
 'catch': KAFP
-'both.'': PWO*T TP-PL AE
+'both.'': PWO*T/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'walked': WAUBGD
@@ -1627,29 +1627,29 @@ Mother Holle
 'side': SAOEUD
 'of': -F
 'Little': KPA/HREUL
-'Red-Cap,': KPA/RED H-PB KPA/KAP KW-BG
+'Red-Cap,': KPA/RED/H-PB/KPA/KAP/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
-'said:': SED STPH-FPLT
-''See,': AE KPA/SAOE KW-BG
+'said:': SED/STPH-FPLT
+''See,': AE/KPA/SAOE/KW-BG
 'Little': KPA/HREUL
-'Red-Cap,': KPA/RED H-PB KPA/KAP KW-BG
+'Red-Cap,': KPA/RED/H-PB/KPA/KAP/KW-BG
 'how': HOU
 'pretty': PREUT
 'the': -T
 'flowers': TPHRO*URS
 'are': R
 'about': PW
-'here--why': HAOER H-PB H-PB KWR
+'here--why': HAOER/H-PB/H-PB/KWR
 'do': TKO
 'you': U
 'not': TPHOT
 'look': HRAOBG
-'round?': ROUPBD H-F
+'round?': ROUPBD/H-F
 'I': EU
-'believe,': PWHREF KW-BG
-'too,': TAO KW-BG
+'believe,': PWHREF/KW-BG
+'too,': TAO/KW-BG
 'that': THA
 'you': U
 'do': TKO
@@ -1661,7 +1661,7 @@ Mother Holle
 'little': HREUL
 'birds': PWEURDZ
 'are': R
-'singing;': SEUPBG/-G STPH*FPLT
+'singing;': SEUPBG/-G/STPH*FPLT
 'you': U
 'walk': WAUBG
 'gravely': TKPWRAEUFL
@@ -1672,7 +1672,7 @@ Mother Holle
 'were': WR
 'going': TKPW-G
 'to': TO
-'school,': SKAOL KW-BG
+'school,': SKAOL/KW-BG
 'while': WHAOEUL
 'everything': EFRG
 'else': ELS
@@ -1682,12 +1682,12 @@ Mother Holle
 'the': -T
 'wood': WAOD
 'is': S
-'merry.'': PHER/REU TP-PL AE
+'merry.'': PHER/REU/TP-PL/AE
 'Little': KPA/HREUL
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'raised': RA*EUFD
 'her': HER
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -1700,26 +1700,26 @@ Mother Holle
 'there': THR
 'through': THRU
 'the': -T
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'and': SKP
 'pretty': PREUT
 'flowers': TPHRO*URS
 'growing': TKPWROEG
-'everywhere,': WEFR KW-BG
+'everywhere,': WEFR/KW-BG
 'she': SHE
-'thought:': THAUT STPH-FPLT
-''Suppose': AE KPA/SPOS
+'thought:': THAUT/STPH-FPLT
+''Suppose': AE/KPA/SPOS
 'I': EU
 'take': TAEUBG
 'grandmother': TKPWR-PL
 'a': AEU
 'fresh': TPRERB
-'nosegay;': TPHOES/TKPWAEU STPH*FPLT
+'nosegay;': TPHOES/TKPWAEU/STPH*FPLT
 'that': THA
 'would': WO
 'please': PHRES
 'her': HER
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'It': KPA/T
 'is': S
 'so': SO
@@ -1735,7 +1735,7 @@ Mother Holle
 'there': THR
 'in': TPH
 'good': TKPWAOD
-'time';': TAOEUPL AE STPH*FPLT
+'time';': TAOEUPL/AE/STPH*FPLT
 'and': SKP
 'so': SO
 'she': SHE
@@ -1749,13 +1749,13 @@ Mother Holle
 'to': TO
 'look': HRAOBG
 'for': TPOR
-'flowers.': TPHRO*URS TP-PL
+'flowers.': TPHRO*URS/TP-PL
 'And': AFPBD
 'whenever': WHEFR
 'she': SHE
 'had': H
 'picked': PEUBGD
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'she': SHE
 'fancied': TPAPB/SEU/-D
 'that': THA
@@ -1766,11 +1766,11 @@ Mother Holle
 'prettier': PRET/KWRER
 'one': WUPB
 'farther': TPA*RT
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'ran': RAPB
 'after': AF
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'so': SO
 'got': TKPWOT
@@ -1779,7 +1779,7 @@ Mother Holle
 'deeper': TKAOERP
 'into': TPHAO
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'Meanwhile': KPA/PHAOEPB/WHAOEUL
 'the': -T
 'wolf': WOFL
@@ -1787,54 +1787,54 @@ Mother Holle
 'straight': STRAEUT
 'to': TO
 'the': -T
-'grandmother's': TKPWR-PL AES
+'grandmother's': TKPWR-PL/AES
 'house': HOUS
 'and': SKP
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'door.': TKAOR TP-PL
-''Who': AE KPA/WHO
+'door.': TKAOR/TP-PL
+''Who': AE/KPA/WHO
 'is': S
-'there?'': THR H-F AE
-''Little': AE KPA/HREUL
-'Red-Cap,'': KPA/RED H-PB KPA/KAP KW-BG AE
+'there?'': THR/H-F/AE
+''Little': AE/KPA/HREUL
+'Red-Cap,'': KPA/RED/H-PB/KPA/KAP/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'wolf.': WOFL TP-PL
-''She': AE KPA/SHE
+'wolf.': WOFL/TP-PL
+''She': AE/KPA/SHE
 'is': S
 'bringing': PWREUG
 'cake': KAEUBG
 'and': SKP
-'wine;': WAOEUPB STPH*FPLT
+'wine;': WAOEUPB/STPH*FPLT
 'open': OEP
 'the': -T
-'door.'': TKAOR TP-PL AE
-''Lift': AE KPA/HREUFT
+'door.'': TKAOR/TP-PL/AE
+''Lift': AE/KPA/HREUFT
 'the': -T
-'latch,'': HRAFP KW-BG AE
+'latch,'': HRAFP/KW-BG/AE
 'called': KAULD
 'out': OUT
 'the': -T
-'grandmother,': TKPWR-PL KW-BG
-''I': AE EU
+'grandmother,': TKPWR-PL/KW-BG
+''I': AE/EU
 'am': APL
 'too': TAO
-'weak,': WAEBG KW-BG
+'weak,': WAEBG/KW-BG
 'and': SKP
 'cannot': SK-PBT
 'get': TKPWET
-'up.'': UP TP-PL AE
+'up.'': UP/TP-PL/AE
 'The': KPA/-T
 'wolf': WOFL
 'lifted': HREUFTD
 'the': -T
-'latch,': HRAFP KW-BG
+'latch,': HRAFP/KW-BG
 'the': -T
 'door': TKAOR
 'sprang': SPRAPBG
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'and': SKP
 'without': WOUT
 'saying': SAEUG
@@ -1845,17 +1845,17 @@ Mother Holle
 'straight': STRAEUT
 'to': TO
 'the': -T
-'grandmother's': TKPWR-PL AES
-'bed,': PWED KW-BG
+'grandmother's': TKPWR-PL/AES
+'bed,': PWED/KW-BG
 'and': SKP
 'devoured': TKWOURD
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'put': PUT
 'on': OPB
 'her': HER
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'dressed': TKREFD
 'himself': HEUPLS
 'in': TPH
@@ -1868,16 +1868,16 @@ Mother Holle
 'and': SKP
 'drew': TKRAOU
 'the': -T
-'curtains.': KUR/TEUPBS TP-PL
+'curtains.': KUR/TEUPBS/TP-PL
 'Little': KPA/HREUL
-'Red-Cap,': KPA/RED H-PB KPA/KAP KW-BG
-'however,': HOUF KW-BG
+'Red-Cap,': KPA/RED/H-PB/KPA/KAP/KW-BG
+'however,': HOUF/KW-BG
 'had': H
 'been': PW-PB
 'running': R*UPBG
 'about': PW
 'picking': P*EUG
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -1890,11 +1890,11 @@ Mother Holle
 'could': KO
 'carry': KAER
 'no': TPHO
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'she': SHE
 'remembered': RERD
 'her': HER
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'and': SKP
 'set': SET
 'out': OUT
@@ -1902,23 +1902,23 @@ Mother Holle
 'the': -T
 'way': WAEU
 'to': TO
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'She': KPA/SHE
 'was': WAS
 'surprised': SPRAOEUFD
 'to': TO
 'find': TPAOEUPBD
 'the': -T
-'cottage-door': KOT/APBLG TKAO*R
+'cottage-door': KOT/APBLG/TKAO*R
 'standing': STAPBG
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'she': SHE
 'had': H
 'such': SUFP
@@ -1929,14 +1929,14 @@ Mother Holle
 'she': SHE
 'said': SED
 'to': TO
-'herself:': H*ERS STPH-FPLT
-''Oh': AE KPA/O*ERBGS
-'dear!': TKAER SKHRAPL
+'herself:': H*ERS/STPH-FPLT
+''Oh': AE/KPA/O*ERBGS
+'dear!': TKAER/SKHRAPL
 'how': HOU
 'uneasy': UPB/EZ
 'I': EU
 'feel': TPAOEL
-'today,': TOED KW-BG
+'today,': TOED/KW-BG
 'and': SKP
 'at': AT
 'other': OER
@@ -1947,16 +1947,16 @@ Mother Holle
 'with': W
 'grandmother': TKPWR-PL
 'so': SO
-'much.'': PHUFP TP-PL AE
+'much.'': PHUFP/TP-PL/AE
 'She': KPA/SHE
 'called': KAULD
-'out:': OUT STPH-FPLT
-''Good': AE KPA/TKPWAOD
-'morning,'': PHORPBG KW-BG AE
+'out:': OUT/STPH-FPLT
+''Good': AE/KPA/TKPWAOD
+'morning,'': PHORPBG/KW-BG/AE
 'but': PWUT
 'received': SAOEFD
 'no': TPHO
-'answer;': AEPBS STPH*FPLT
+'answer;': AEPBS/STPH*FPLT
 'so': SO
 'she': SHE
 'went': WEPBT
@@ -1967,7 +1967,7 @@ Mother Holle
 'drew': TKRAOU
 'back': PWABG
 'the': -T
-'curtains.': KUR/TEUPBS TP-PL
+'curtains.': KUR/TEUPBS/TP-PL
 'There': KPA/THR
 'lay': HRAEU
 'her': HER
@@ -1979,84 +1979,84 @@ Mother Holle
 'far': TPAR
 'over': OEFR
 'her': HER
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'and': SKP
 'looking': HRAOG
 'very': SRE
-'strange.': STRAEUPBG TP-PL
-''Oh!': AE KPA/O*ERBGS SKHRAPL
-'grandmother,'': TKPWR-PL KW-BG AE
+'strange.': STRAEUPBG/TP-PL
+''Oh!': AE/KPA/O*ERBGS/SKHRAPL
+'grandmother,'': TKPWR-PL/KW-BG/AE
 'she': SHE
-'said,': SED KW-BG
-''what': AE WHA
+'said,': SED/KW-BG
+''what': AE/WHA
 'big': PWEUG
 'ears': AOERS
 'you': U
-'have!'': SR SKHRAPL AE
-''The': AE KPA/-T
+'have!'': SR/SKHRAPL/AE
+''The': AE/KPA/-T
 'better': PWOERT
 'to': TO
 'hear': HAER
 'you': U
-'with,': W KW-BG
+'with,': W/KW-BG
 'my': PHEU
-'child,'': KHAOEULD KW-BG AE
+'child,'': KHAOEULD/KW-BG/AE
 'was': WAS
 'the': -T
-'reply.': RE/PHRAOEU TP-PL
-''But,': AE KPA/PWUT KW-BG
-'grandmother,': TKPWR-PL KW-BG
+'reply.': RE/PHRAOEU/TP-PL
+''But,': AE/KPA/PWUT/KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'what': WHA
 'big': PWEUG
 'eyes': AO*EUS
 'you': U
-'have!'': SR SKHRAPL AE
+'have!'': SR/SKHRAPL/AE
 'she': SHE
-'said.': SED TP-PL
-''The': AE KPA/-T
+'said.': SED/TP-PL
+''The': AE/KPA/-T
 'better': PWOERT
 'to': TO
 'see': SAOE
 'you': U
-'with,': W KW-BG
+'with,': W/KW-BG
 'my': PHEU
-'dear.'': TKAER TP-PL AE
-''But,': AE KPA/PWUT KW-BG
-'grandmother,': TKPWR-PL KW-BG
+'dear.'': TKAER/TP-PL/AE
+''But,': AE/KPA/PWUT/KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'what': WHA
 'large': HRARPBLG
 'hands': HAPBDZ
 'you': U
-'have!'': SR SKHRAPL AE
-''The': AE KPA/-T
+'have!'': SR/SKHRAPL/AE
+''The': AE/KPA/-T
 'better': PWOERT
 'to': TO
 'hug': HUG
 'you': U
-'with.'': W TP-PL AE
-''Oh!': AE KPA/O*ERBGS SKHRAPL
-'but,': PWUT KW-BG
-'grandmother,': TKPWR-PL KW-BG
+'with.'': W/TP-PL/AE
+''Oh!': AE/KPA/O*ERBGS/SKHRAPL
+'but,': PWUT/KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'what': WHA
 'a': AEU
 'terrible': TERBL
 'big': PWEUG
 'mouth': PHO*UT
 'you': U
-'have!'': SR SKHRAPL AE
-''The': AE KPA/-T
+'have!'': SR/SKHRAPL/AE
+''The': AE/KPA/-T
 'better': PWOERT
 'to': TO
 'eat': AOET
 'you': U
-'with!'': W SKHRAPL AE
+'with!'': W/SKHRAPL/AE
 'And': AFPBD
 'scarcely': SKAEURS/HREU
 'had': H
 'the': -T
 'wolf': WOFL
 'said': SED
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'than': THAPB
 'with': W
 'one': WUPB
@@ -2069,21 +2069,21 @@ Mother Holle
 'and': SKP
 'swallowed': SWALD
 'up': UP
-'Red-Cap.': KPA/RED H-PB KPA/KAP TP-PL
+'Red-Cap.': KPA/RED/H-PB/KPA/KAP/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'wolf': WOFL
 'had': H
 'appeased': A/PAOEZ/-D
 'his': HEUS
-'appetite,': AP/TAOEUT KW-BG
+'appetite,': AP/TAOEUT/KW-BG
 'he': HE
 'lay': HRAEU
 'down': TKOUPB
 'again': TKPWEPB
 'in': TPH
 'the': -T
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'fell': TPEL
 'asleep': A/SHRAOEP
 'and': SKP
@@ -2091,24 +2091,24 @@ Mother Holle
 'to': TO
 'snore': STPHAUR
 'very': SRE
-'loud.': HROUD TP-PL
+'loud.': HROUD/TP-PL
 'The': KPA/-T
 'huntsman': HUPBTS/PHA*PB
 'was': WAS
 'just': SKWRUFT
 'passing': PAFG
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''How': AE KPA/HOU
+'himself:': HEUPLS/STPH-FPLT
+''How': AE/KPA/HOU
 'the': -T
 'old': OLD
 'woman': WOPL
 'is': S
-'snoring!': STPHOERG SKHRAPL
+'snoring!': STPHOERG/SKHRAPL
 'I': EU
 'must': PHUFT
 'just': SKWRUFT
@@ -2116,20 +2116,20 @@ Mother Holle
 'if': TP
 'she': SHE
 'wants': WAPBTS
-'anything.'': TPHEUG TP-PL AE
+'anything.'': TPHEUG/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
 'came': KAEUPL
 'to': TO
 'the': -T
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'he': HE
 'saw': SAU
 'that': THA
@@ -2138,22 +2138,22 @@ Mother Holle
 'was': WAS
 'lying': HRAOEUG
 'in': TPH
-'it.': T TP-PL
-''Do': AE KPA/TKO
+'it.': T/TP-PL
+''Do': AE/KPA/TKO
 'I': EU
 'find': TPAOEUPBD
 'you': U
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'you': U
 'old': OLD
-'sinner!'': SEUPB/ER SKHRAPL AE
+'sinner!'': SEUPB/ER/SKHRAPL/AE
 'said': SED
-'he.': HE TP-PL
-''I': AE EU
+'he.': HE/TP-PL
+''I': AE/EU
 'have': SR
 'long': HROPBG
 'sought': SAUT
-'you!'': U SKHRAPL AE
+'you!'': U/SKHRAPL/AE
 'Then': KPA/THEPB
 'just': SKWRUFT
 'as': AS
@@ -2163,7 +2163,7 @@ Mother Holle
 'to': TO
 'fire': TPAOEUR
 'at': AT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'it': T
 'occurred': KROEURD
 'to': TO
@@ -2175,25 +2175,25 @@ Mother Holle
 'have': SR
 'devoured': TKWOURD
 'the': -T
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'and': SKP
 'that': THA
 'she': SHE
 'might': PHAOEUT
 'still': STEUL
 'be': -B
-'saved,': SAFD KW-BG
+'saved,': SAFD/KW-BG
 'so': SO
 'he': HE
 'did': TK
 'not': TPHOT
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'but': PWUT
 'took': TAOBG
 'a': AEU
 'pair': PAEUR
 'of': -F
-'scissors,': SEUS/ORS KW-BG
+'scissors,': SEUS/ORS/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -2204,46 +2204,46 @@ Mother Holle
 'of': -F
 'the': -T
 'sleeping': SHRAOEPG
-'wolf.': WOFL TP-PL
+'wolf.': WOFL/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'had': H
 'made': PHAED
 'two': TWO
-'snips,': STPHEUPS KW-BG
+'snips,': STPHEUPS/KW-BG
 'he': HE
 'saw': SAU
 'the': -T
 'little': HREUL
-'Red-Cap': KPA/RED H-PB KPA/KAP
-'shining,': SHAOEUPBG KW-BG
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
+'shining,': SHAOEUPBG/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
 'made': PHAED
 'two': TWO
 'snips': STPHEUPS
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
 'girl': TKPWEURL
 'sprang': SPRAPBG
-'out,': OUT KW-BG
-'crying:': KRAOEUG STPH-FPLT
-''Ah,': AE KPA/HA*E KW-BG
+'out,': OUT/KW-BG
+'crying:': KRAOEUG/STPH-FPLT
+''Ah,': AE/KPA/HA*E/KW-BG
 'how': HOU
 'frightened': TPRAOEUFPBD
 'I': EU
 'have': SR
-'been!': PW-PB SKHRAPL
+'been!': PW-PB/SKHRAPL
 'How': KPA/HOU
 'dark': TKARBG
 'it': T
 'was': WAS
 'inside': TPH-DZ
 'the': -T
-'wolf';': WOFL AE STPH*FPLT
+'wolf';': WOFL/AE/STPH*FPLT
 'and': SKP
 'after': AF
 'that': THA
@@ -2253,14 +2253,14 @@ Mother Holle
 'came': KAEUPL
 'out': OUT
 'alive': A/HRAOEUF
-'also,': HR-S KW-BG
+'also,': HR-S/KW-BG
 'but': PWUT
 'scarcely': SKAEURS/HREU
 'able': ABL
 'to': TO
-'breathe.': PWRAO*ET TP-PL
-'Red-Cap,': KPA/RED H-PB KPA/KAP KW-BG
-'however,': HOUF KW-BG
+'breathe.': PWRAO*ET/TP-PL
+'Red-Cap,': KPA/RED/H-PB/KPA/KAP/KW-BG
+'however,': HOUF/KW-BG
 'quickly': KWEULG
 'fetched': TPEFP/-D
 'great': TKPWRAET
@@ -2270,17 +2270,17 @@ Mother Holle
 'they': THE
 'filled': TPEULD
 'the': -T
-'wolf's': WOFL AES
-'belly,': PWEL/HREU KW-BG
+'wolf's': WOFL/AES
+'belly,': PWEL/HREU/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'he': HE
 'wanted': WAPBTD
 'to': TO
 'run': RUPB
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'but': PWUT
 'the': -T
 'stones': STOEPBS
@@ -2291,27 +2291,27 @@ Mother Holle
 'he': HE
 'collapsed': KHRAFD
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'and': SKP
 'fell': TPEL
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'Then': KPA/THEPB
 'all': AUL
 'three': THRAOE
 'were': WR
-'delighted.': TKHRAOEUTD TP-PL
+'delighted.': TKHRAOEUTD/TP-PL
 'The': KPA/-T
 'huntsman': HUPBTS/PHA*PB
 'drew': TKRAOU
 'off': OF
 'the': -T
-'wolf's': WOFL AES
+'wolf's': WOFL/AES
 'skin': SKEUPB
 'and': SKP
 'went': WEPBT
 'home': HOEPL
 'with': W
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'the': -T
 'grandmother': TKPWR-PL
 'ate': AEUT
@@ -2322,21 +2322,21 @@ Mother Holle
 'the': -T
 'wine': WAOEUPB
 'which': WEU
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'had': H
-'brought,': PWRAUT KW-BG
+'brought,': PWRAUT/KW-BG
 'and': SKP
-'revived,': RE/SRAOEUFD KW-BG
+'revived,': RE/SRAOEUFD/KW-BG
 'but': PWUT
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'thought': THAUT
 'to': TO
-'herself:': H*ERS STPH-FPLT
-''As': AE KPA/AS
+'herself:': H*ERS/STPH-FPLT
+''As': AE/KPA/AS
 'long': HROPBG
 'as': AS
 'I': EU
-'live,': HREUF KW-BG
+'live,': HREUF/KW-BG
 'I': EU
 'will': HR
 'never': TPHEFR
@@ -2344,12 +2344,12 @@ Mother Holle
 'myself': PHAO*EUS
 'leave': HREF
 'the': -T
-'path,': PA*T KW-BG
+'path,': PA*T/KW-BG
 'to': TO
 'run': RUPB
 'into': TPHAO
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'when': WHEPB
 'my': PHEU
 'mother': PHOER
@@ -2358,14 +2358,14 @@ Mother Holle
 'me': PHE
 'to': TO
 'do': TKO
-'so.'': SO TP-PL AE
+'so.'': SO/TP-PL/AE
 'It': KPA/T
 'also': HR-S
 'related': RAELTD
 'that': THA
 'once': WUPBS
 'when': WHEPB
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'was': WAS
 'again': TKPWEPB
 'taking': TAEUG
@@ -2373,12 +2373,12 @@ Mother Holle
 'to': TO
 'the': -T
 'old': OLD
-'grandmother,': TKPWR-PL KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'another': TPHOER
 'wolf': WOFL
 'spoke': SPOEBG
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'tried': TRAOEUD
 'to': TO
@@ -2386,20 +2386,20 @@ Mother Holle
 'her': HER
 'from': TPR
 'the': -T
-'path.': PA*T TP-PL
-'Red-Cap,': KPA/RED H-PB KPA/KAP KW-BG
-'however,': HOUF KW-BG
+'path.': PA*T/TP-PL
+'Red-Cap,': KPA/RED/H-PB/KPA/KAP/KW-BG
+'however,': HOUF/KW-BG
 'was': WAS
 'on': OPB
 'her': HER
-'guard,': TKPWARD KW-BG
+'guard,': TKPWARD/KW-BG
 'and': SKP
 'went': WEPBT
 'straight': STRAEUT
 'forward': TPAORD
 'on': OPB
 'her': HER
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'told': TOLD
 'her': HER
@@ -2409,16 +2409,16 @@ Mother Holle
 'had': H
 'met': PHET
 'the': -T
-'wolf,': WOFL KW-BG
+'wolf,': WOFL/KW-BG
 'and': SKP
 'that': THA
 'he': HE
 'had': H
 'said': SED
-''good': AE TKPWAOD
-'morning'': PHORPBG AE
+''good': AE/TKPWAOD
+'morning'': PHORPBG/AE
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'but': PWUT
 'with': W
 'such': SUFP
@@ -2427,7 +2427,7 @@ Mother Holle
 'look': HRAOBG
 'in': TPH
 'his': HEUS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'that': THA
 'if': TP
 'they': THE
@@ -2446,79 +2446,79 @@ Mother Holle
 'have': SR
 'eaten': AOET/EPB
 'her': HER
-'up.': UP TP-PL
-''Well,'': AE KPA/WEL KW-BG AE
+'up.': UP/TP-PL
+''Well,'': AE/KPA/WEL/KW-BG/AE
 'said': SED
 'the': -T
-'grandmother,': TKPWR-PL KW-BG
-''we': AE WE
+'grandmother,': TKPWR-PL/KW-BG
+''we': AE/WE
 'will': HR
 'shut': SHUT
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'that': THA
 'he': HE
 'may': PHAE
 'not': TPHOT
 'come': KOPL
-'in.'': TPH TP-PL AE
+'in.'': TPH/TP-PL/AE
 'Soon': KPA/SAOPB
 'afterwards': A*FRDZ
 'the': -T
 'wolf': WOFL
-'knocked,': TPHOBGD KW-BG
+'knocked,': TPHOBGD/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Open': AE KPA/OEP
+'cried:': KRAOEUD/STPH-FPLT
+''Open': AE/KPA/OEP
 'the': -T
-'door,': TKAOR KW-BG
-'grandmother,': TKPWR-PL KW-BG
+'door,': TKAOR/KW-BG
+'grandmother,': TKPWR-PL/KW-BG
 'I': EU
 'am': APL
 'Little': KPA/HREUL
-'Red-Cap,': KPA/RED H-PB KPA/KAP KW-BG
+'Red-Cap,': KPA/RED/H-PB/KPA/KAP/KW-BG
 'and': SKP
 'am': APL
 'bringing': PWREUG
 'you': U
 'some': SOPL
-'cakes.'': KAEUBG/-S TP-PL AE
+'cakes.'': KAEUBG/-S/TP-PL/AE
 'But': KPA/PWUT
 'they': THE
 'did': TK
 'not': TPHOT
-'speak,': SPAOEBG KW-BG
+'speak,': SPAOEBG/KW-BG
 'or': OR
 'open': OEP
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'so': SO
 'the': -T
-'grey-beard': TKPWRA*EU H-PB PWAERD
+'grey-beard': TKPWRA*EU/H-PB/PWAERD
 'stole': STOEL
 'twice': TWAOEUS
 'or': OR
 'thrice': THRAOEUS
 'round': ROUPBD
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
 'jumped': SKWR*UPLD
 'on': OPB
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'intending': EUPB/TEPBD/-G
 'to': TO
 'wait': WAEUT
 'until': TPH-L
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'went': WEPBT
 'home': HOEPL
 'in': TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'and': SKP
 'then': THEPB
 'to': TO
@@ -2530,7 +2530,7 @@ Mother Holle
 'her': HER
 'in': TPH
 'the': -T
-'darkness.': TKARBG/-PBS TP-PL
+'darkness.': TKARBG/-PBS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'grandmother': TKPWR-PL
@@ -2539,7 +2539,7 @@ Mother Holle
 'was': WAS
 'in': TPH
 'his': HEUS
-'thoughts.': THAUTS TP-PL
+'thoughts.': THAUTS/TP-PL
 'In': KPA/TPH
 'front': TPROPBT
 'of': -F
@@ -2549,22 +2549,22 @@ Mother Holle
 'a': AEU
 'great': TKPWRAET
 'stone': STOEPB
-'trough,': TROF KW-BG
+'trough,': TROF/KW-BG
 'so': SO
 'she': SHE
 'said': SED
 'to': TO
 'the': -T
-'child:': KHAOEULD STPH-FPLT
-''Take': AE KPA/TAEUBG
+'child:': KHAOEULD/STPH-FPLT
+''Take': AE/KPA/TAEUBG
 'the': -T
-'pail,': PAEUL KW-BG
-'Red-Cap;': KPA/RED H-PB KPA/KAP STPH*FPLT
+'pail,': PAEUL/KW-BG
+'Red-Cap;': KPA/RED/H-PB/KPA/KAP/STPH*FPLT
 'I': EU
 'made': PHAED
 'some': SOPL
 'sausages': SAUFPBLG/-S
-'yesterday,': KWRED KW-BG
+'yesterday,': KWRED/KW-BG
 'so': SO
 'carry': KAER
 'the': -T
@@ -2576,8 +2576,8 @@ Mother Holle
 'them': THEPL
 'to': TO
 'the': -T
-'trough.'': TROF TP-PL AE
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'trough.'': TROF/TP-PL/AE
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'carried': KAERD
 'until': TPH-L
 'the': -T
@@ -2585,7 +2585,7 @@ Mother Holle
 'trough': TROF
 'was': WAS
 'quite': KWAOEUT
-'full.': TPUL TP-PL
+'full.': TPUL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'smell': SPHEL
@@ -2594,13 +2594,13 @@ Mother Holle
 'sausages': SAUFPBLG/-S
 'reached': RAOEFPD
 'the': -T
-'wolf,': WOFL KW-BG
+'wolf,': WOFL/KW-BG
 'and': SKP
 'he': HE
 'sniffed': STPHEUFD
 'and': SKP
 'peeped': PAOEPD
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -2621,7 +2621,7 @@ Mother Holle
 'and': SKP
 'began': TKPWAPB
 'to': TO
-'slip,': SHREUP KW-BG
+'slip,': SHREUP/KW-BG
 'and': SKP
 'slipped': SHREUPD
 'down': TKOUPB
@@ -2632,15 +2632,15 @@ Mother Holle
 'into': TPHAO
 'the': -T
 'great': TKPWRAET
-'trough,': TROF KW-BG
+'trough,': TROF/KW-BG
 'and': SKP
 'was': WAS
-'drowned.': TKROUPBD TP-PL
+'drowned.': TKROUPBD/TP-PL
 'But': KPA/PWUT
-'Red-Cap': KPA/RED H-PB KPA/KAP
+'Red-Cap': KPA/RED/H-PB/KPA/KAP
 'went': WEPBT
 'joyously': SKWROEU/OUS/HREU
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
@@ -2650,4 +2650,4 @@ Mother Holle
 'to': TO
 'harm': HARPL
 'her': HER
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL

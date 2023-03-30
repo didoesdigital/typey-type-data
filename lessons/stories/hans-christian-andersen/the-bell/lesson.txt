@@ -13,12 +13,12 @@ The Bell
 'heard': HAERD
 'in': TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'when': WHEPB
 'the': -T
 'sun': SUPB
 'was': WAS
-'setting,': SEGT KW-BG
+'setting,': SEGT/KW-BG
 'and': SKP
 'his': HEUS
 'last': HRAFT
@@ -29,7 +29,7 @@ The Bell
 'tint': TEUPBT
 'to': TO
 'the': -T
-'chimney-pots,': KHEUPL/TPHEU H-PB POTS KW-BG
+'chimney-pots,': KHEUPL/TPHEU/H-PB/POTS/KW-BG
 'a': AEU
 'strange': STRAEUPBG
 'noise': TPHOEUS
@@ -40,12 +40,12 @@ The Bell
 'of': -F
 'a': AEU
 'church': KHUFRPB
-'bell;': PWEL STPH*FPLT
+'bell;': PWEL/STPH*FPLT
 'it': T
 'only': OEPBL
 'lasted': HRAFT/-D
 'an': APB
-'instant,': STPHAPBT KW-BG
+'instant,': STPHAPBT/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
@@ -64,26 +64,26 @@ The Bell
 'rose': ROEZ
 'from': TPR
 'the': -T
-'town.': TOUPB TP-PL
-'"The': KR-GS KPA/-T
+'town.': TOUPB/TP-PL
+'"The': KR-GS/KPA/-T
 'evening': AOEPBG
 'bell': PWEL
 'is': S
-'ringing,"': REUPBG/-G KW-BG KR-GS
+'ringing,"': REUPBG/-G/KW-BG/KR-GS
 'people': PAOEPL
 'used': AOUFD
 'to': TO
-'say;': SAEU STPH*FPLT
-'"the': KR-GS -T
+'say;': SAEU/STPH*FPLT
+'"the': KR-GS/-T
 'sun': SUPB
 'is': S
-'setting!"': SEGT SKHRAPL KR-GS
+'setting!"': SEGT/SKHRAPL/KR-GS
 'Those': KPA/THOZ
 'who': WHO
 'walked': WAUBGD
 'outside': OUDZ
 'the': -T
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'where': W-R
 'the': -T
 'houses': HO*UFS
@@ -96,13 +96,13 @@ The Bell
 'gardens': TKPWARD/-PBS
 'and': SKP
 'little': HREUL
-'fields,': TPAOELDZ KW-BG
+'fields,': TPAOELDZ/KW-BG
 'saw': SAU
 'the': -T
 'evening': AOEPBG
 'sky': SKAOEU
 'much': PHUFP
-'better,': PWOERT KW-BG
+'better,': PWOERT/KW-BG
 'and': SKP
 'heard': HAERD
 'the': -T
@@ -112,7 +112,7 @@ The Bell
 'bell': PWEL
 'much': PHUFP
 'more': PHOR
-'clearly.': KAOERL TP-PL
+'clearly.': KAOERL/TP-PL
 'It': KPA/T
 'seemed': SAOEPLD
 'as': AS
@@ -122,30 +122,30 @@ The Bell
 'came': KAEUPL
 'from': TPR
 'a': AEU
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'deep': TKAOEP
 'in': TPH
 'the': -T
-'calm,': KAUPL KW-BG
+'calm,': KAUPL/KW-BG
 'fragrant': TPRAEUG/RAPBT
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'thither': TH*EURT
 'people': PAOEPL
 'looked': HRAOBGD
 'with': W
 'devout': TKWOUT
-'feelings.': TPAOELGS TP-PL
+'feelings.': TPAOELGS/TP-PL
 'A': KPA/AEU
 'considerable': KR-BL
 'time': TAOEUPL
-'elapsed:': AOE/HRAPS/-D STPH-FPLT
+'elapsed:': AOE/HRAPS/-D/STPH-FPLT
 'one': WUPB
 'said': SED
 'to': TO
 'the': -T
-'other,': OER KW-BG
-'"I': KR-GS EU
+'other,': OER/KW-BG
+'"I': KR-GS/EU
 'really': R-L
 'wonder': WOPBD
 'if': TP
@@ -156,7 +156,7 @@ The Bell
 'out': OUT
 'in': TPH
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'The': KPA/-T
 'bell': PWEL
 'has': HAS
@@ -164,7 +164,7 @@ The Bell
 'a': AEU
 'strange': STRAEUPBG
 'sweet': SWAOET
-'sound!': SOUPBD SKHRAPL
+'sound!': SOUPBD/SKHRAPL
 'Shall': KPA/SHAL
 'we': WE
 'go': TKPW
@@ -176,13 +176,13 @@ The Bell
 'cause': KAUS
 'of': -F
 'it': T
-'is?"': S H-F KR-GS
+'is?"': S/H-F/KR-GS
 'The': KPA/-T
 'rich': REUFP
-'drove,': TKROEF KW-BG
+'drove,': TKROEF/KW-BG
 'the': -T
 'poor': PAOR
-'walked,': WAUBGD KW-BG
+'walked,': WAUBGD/KW-BG
 'but': PWUT
 'the': -T
 'way': WAEU
@@ -190,7 +190,7 @@ The Bell
 'to': TO
 'them': THEPL
 'extraordinarily': KPRAORLD
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -209,7 +209,7 @@ The Bell
 'wood': WAOD
 'they': THE
 'sat': SAT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'looked': HRAOBGD
 'up': UP
 'into': TPHAO
@@ -224,7 +224,7 @@ The Bell
 'really': R-L
 'in': TPH
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'A': KPA/AEU
 'confectioner': KAUPB/TPEBGS/*ER
 'from': TPR
@@ -238,7 +238,7 @@ The Bell
 'up': UP
 'a': AEU
 'stall': STAUL
-'there;': THR STPH*FPLT
+'there;': THR/STPH*FPLT
 'then': THEPB
 'came': KAEUPL
 'another': TPHOER
@@ -249,7 +249,7 @@ The Bell
 'bell': PWEL
 'over': OEFR
 'his': HEUS
-'stall,': STAUL KW-BG
+'stall,': STAUL/KW-BG
 'which': WEU
 'was': WAS
 'covered': KOFRD
@@ -260,12 +260,12 @@ The Bell
 'it': T
 'from': TPR
 'the': -T
-'rain,': RAEUPB KW-BG
+'rain,': RAEUPB/KW-BG
 'but': PWUT
 'the': -T
 'clapper': KHRAP/ER
 'was': WAS
-'wanting.': WAPBGT TP-PL
+'wanting.': WAPBGT/TP-PL
 'When': KPA/WHEPB
 'people': PAOEPL
 'came': KAEUPL
@@ -279,7 +279,7 @@ The Bell
 'had': H
 'been': PW-PB
 'very': SRE
-'romantic,': RO/PHAPBT/EUBG KW-BG
+'romantic,': RO/PHAPBT/EUBG/KW-BG
 'and': SKP
 'that': THA
 'really': R-L
@@ -289,7 +289,7 @@ The Bell
 'than': THAPB
 'merely': PHAOERL
 'taking': TAEUG
-'tea.': TAE TP-PL
+'tea.': TAE/TP-PL
 'Three': KPA/THRAOE
 'persons': PERPBS
 'declared': TKE/KHRAEURD
@@ -304,14 +304,14 @@ The Bell
 'end': EPBD
 'of': -F
 'the': -T
-'wood;': WAOD STPH*FPLT
+'wood;': WAOD/STPH*FPLT
 'they': THE
 'had': H
 'always': AULS
 'heard': HAERD
 'the': -T
 'strange': STRAEUPBG
-'sound,': SOUPBD KW-BG
+'sound,': SOUPBD/KW-BG
 'but': PWUT
 'there': THR
 'it': T
@@ -324,7 +324,7 @@ The Bell
 'came': KAEUPL
 'from': TPR
 'the': -T
-'town.': TOUPB TP-PL
+'town.': TOUPB/TP-PL
 'One': KPA/WUPB
 'of': -F
 'them': THEPL
@@ -332,7 +332,7 @@ The Bell
 'verses': SRERSZ
 'about': PW
 'the': -T
-'bell,': PWEL KW-BG
+'bell,': PWEL/KW-BG
 'and': SKP
 'said': SED
 'that': THA
@@ -350,11 +350,11 @@ The Bell
 'intelligent': SPWEPBLGT
 'and': SKP
 'beloved': PWHROFD
-'child;': KHAOEULD STPH*FPLT
+'child;': KHAOEULD/STPH*FPLT
 'no': TPHO
-'tune,': TAOUPB KW-BG
+'tune,': TAOUPB/KW-BG
 'he': HE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'was': WAS
 'sweeter': SWAOERT
 'than': THAPB
@@ -362,7 +362,7 @@ The Bell
 'sound': SOUPBD
 'of': -F
 'the': -T
-'bell.': PWEL TP-PL
+'bell.': PWEL/TP-PL
 'The': KPA/-T
 'emperor': EPL/ROR
 'of': -F
@@ -370,7 +370,7 @@ The Bell
 'country': KREU
 'heard': HAERD
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'declared': TKE/KHRAEURD
 'that': THA
@@ -390,10 +390,10 @@ The Bell
 'the': -T
 'title': TAOEULT
 'of': -F
-'"Bellringer': KR-GS xxx Bellringer
+'"Bellringer': KR-GS/xxx Bellringer
 'to': TO
 'the': -T
-'World,"': KPA/WORLD KW-BG KR-GS
+'World,"': KPA/WORLD/KW-BG/KR-GS
 'even': AOEPB
 'if': TP
 'there': THR
@@ -401,7 +401,7 @@ The Bell
 'no': TPHO
 'bell': PWEL
 'at': AT
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'Now': KPA/TPHOU
 'many': PHAEPB
 'went': WEPBT
@@ -415,7 +415,7 @@ The Bell
 'of': -F
 'this': TH
 'splendid': SPHREPB/TKEUD
-'berth;': PW*ERT STPH*FPLT
+'berth;': PW*ERT/STPH*FPLT
 'but': PWUT
 'only': OEPBL
 'one': WUPB
@@ -427,17 +427,17 @@ The Bell
 'some': SOPL
 'sort': SORT
 'of': -F
-'explanation.': SPHRAPBGS TP-PL
+'explanation.': SPHRAPBGS/TP-PL
 'None': KPA/TPHOPB
 'of': -F
 'them': THEPL
 'had': H
 'gone': TKPWOPB
 'far': TPAR
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'nor': TPH-R
 'had': H
-'he,': HE KW-BG
+'he,': HE/KW-BG
 'and': SKP
 'yet': KWRET
 'he': HE
@@ -456,12 +456,12 @@ The Bell
 'in': TPH
 'a': AEU
 'hollow': HOL/OE
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
 'wisdom': WEUZ/TKOPL
-'owl,': OUL KW-BG
+'owl,': OUL/KW-BG
 'which': WEU
 'continually': TAEPBL
 'knocked': TPHOBGD
@@ -469,7 +469,7 @@ The Bell
 'head': HED
 'against': TKPWEPBS
 'the': -T
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'but': PWUT
 'he': HE
 'was': WAS
@@ -493,14 +493,14 @@ The Bell
 'cause': KAUS
 'of': -F
 'the': -T
-'noise.': TPHOEUS TP-PL
+'noise.': TPHOEUS/TP-PL
 'He': KPA/HE
 'was': WAS
 'appointed': POEUPBD
-'"Bellringer': KR-GS xxx Bellringer
+'"Bellringer': KR-GS/xxx Bellringer
 'to': TO
 'the': -T
-'World,"': KPA/WORLD KW-BG KR-GS
+'World,"': KPA/WORLD/KW-BG/KR-GS
 'and': SKP
 'wrote': WRO
 'every': EF
@@ -510,7 +510,7 @@ The Bell
 'dissertation': TKEUS/TAEUGS
 'on': OPB
 'the': -T
-'owl,': OUL KW-BG
+'owl,': OUL/KW-BG
 'but': PWUT
 'by': PWEU
 'this': TH
@@ -525,11 +525,11 @@ The Bell
 'they': THE
 'had': H
 'been': PW-PB
-'before.': PW-FR TP-PL
+'before.': PW-FR/TP-PL
 'It': KPA/T
 'was': WAS
 'just': SKWRUFT
-'confirmation-day.': K-FRPLGS H-PB TKAEU TP-PL
+'confirmation-day.': K-FRPLGS/H-PB/TKAEU/TP-PL
 'The': KPA/-T
 'clergyman': KHRERPBLG/PHAPB
 'had': H
@@ -538,14 +538,14 @@ The Bell
 'beautiful': PWAOUFL
 'and': SKP
 'touching': TUFPG
-'sermon,': SER/PHOPB KW-BG
+'sermon,': SER/PHOPB/KW-BG
 'the': -T
 'candidates': KAPBD/TKATS
 'were': WR
 'deeply': TKAO*EPL
 'moved': PHOFD
 'by': PWEU
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'it': T
 'was': WAS
 'indeed': TPHAOEPBD
@@ -554,7 +554,7 @@ The Bell
 'important': PORPB
 'day': TKAEU
 'for': TPOR
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'they': THE
 'were': WR
 'all': AUL
@@ -566,27 +566,27 @@ The Bell
 'children': KHEURPB
 'to': TO
 'grown-up': TKPWR*UP
-'people;': PAOEPL STPH*FPLT
+'people;': PAOEPL/STPH*FPLT
 'the': -T
 'childish': KHAOEUL/TKEURB
 'soul': SOUL
 'was': WAS
 'to': TO
 'fly': TPHRAOEU
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'as': AS
 'it': T
-'were,': WR KW-BG
+'were,': WR/KW-BG
 'into': TPHAO
 'a': AEU
 'more': PHOR
 'reasonable': R-PBL
-'being.': -BG TP-PL
+'being.': -BG/TP-PL
 'The': KPA/-T
 'sun': SUPB
 'shone': SHO*EPB
 'most': PHOFT
-'brightly;': PWRAOEULT STPH*FPLT
+'brightly;': PWRAOEULT/STPH*FPLT
 'and': SKP
 'the': -T
 'sound': SOUPBD
@@ -600,17 +600,17 @@ The Bell
 'more': PHOR
 'distinctly': TKEUS/TEUPBGT/HREU
 'than': THAPB
-'ever.': -FR TP-PL
+'ever.': -FR/TP-PL
 'They': KPA/THE
 'had': H
 'a': AEU
 'mind': PHAOEUPBD
 'to': TO
 'go': TKPW
-'thither,': TH*EURT KW-BG
+'thither,': TH*EURT/KW-BG
 'all': AUL
 'except': KPEPT
-'three.': THRAOE TP-PL
+'three.': THRAOE/TP-PL
 'One': KPA/WUPB
 'of': -F
 'them': THEPL
@@ -623,7 +623,7 @@ The Bell
 'on': OPB
 'her': HER
 'ball': PWAUL
-'dress,': TKRES KW-BG
+'dress,': TKRES/KW-BG
 'for': TPOR
 'this': TH
 'very': SRE
@@ -639,7 +639,7 @@ The Bell
 'being': -BG
 'confirmed': K-FRPL/-D
 'this': TH
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'otherwise': O*ERZ
 'she': SHE
 'would': WO
@@ -648,12 +648,12 @@ The Bell
 'been': PW-PB
 'allowed': HRO*UD
 'to': TO
-'go.': TKPW TP-PL
+'go.': TKPW/TP-PL
 'The': KPA/-T
-'second,': SEBGD KW-BG
+'second,': SEBGD/KW-BG
 'a': AEU
 'poor': PAOR
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'had': H
 'borrowed': PWO*ERD
 'a': AEU
@@ -672,7 +672,7 @@ The Bell
 'to': TO
 'be': -B
 'confirmed': K-FRPL/-D
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'he': HE
 'had': H
@@ -682,7 +682,7 @@ The Bell
 'at': AT
 'a': AEU
 'certain': SERPB
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'The': KPA/-T
 'third': THEURD
 'said': SED
@@ -699,23 +699,23 @@ The Bell
 'were': WR
 'not': TPHOT
 'with': W
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'he': HE
 'had': H
 'always': AULS
 'been': PW-PB
 'a': AEU
 'good': TKPWAOD
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'and': SKP
 'wished': WEURBD
 'to': TO
 'remain': RAEUPL
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'even': AOEPB
 'after': AF
 'being': -BG
-'confirmed,': K-FRPL/-D KW-BG
+'confirmed,': K-FRPL/-D/KW-BG
 'and': SKP
 'they': THE
 'ought': OT
@@ -724,50 +724,50 @@ The Bell
 'tease': TAOES
 'him': HEUPL
 'for': TPOR
-'this;': TH STPH*FPLT
-'they,': THE KW-BG
-'however,': HOUF KW-BG
+'this;': TH/STPH*FPLT
+'they,': THE/KW-BG
+'however,': HOUF/KW-BG
 'did': TK
 'it': T
 'all': AUL
 'the': -T
-'same.': SAEUPL TP-PL
+'same.': SAEUPL/TP-PL
 'These': KPA/THEZ
-'three,': THRAOE KW-BG
+'three,': THRAOE/KW-BG
 'therefore': TH-FR
 'did': TK
 'not': TPHOT
-'go;': TKPW STPH*FPLT
+'go;': TKPW/STPH*FPLT
 'the': -T
 'others': OERS
 'went': WEPBT
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'The': KPA/-T
 'sun': SUPB
 'was': WAS
-'shining,': SHAOEUPBG KW-BG
+'shining,': SHAOEUPBG/KW-BG
 'the': -T
 'birds': PWEURDZ
 'were': WR
-'singing,': SEUPBG/-G KW-BG
+'singing,': SEUPBG/-G/KW-BG
 'and': SKP
 'the': -T
 'confirmed': K-FRPL/-D
 'children': KHEURPB
 'sang': SAPBG
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'holding': HOELGD
 'each': AOEFP
 'other': OER
 'by': PWEU
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'for': TPOR
 'they': THE
 'had': H
 'no': TPHO
 'position': POGS
-'yet,': KWRET KW-BG
+'yet,': KWRET/KW-BG
 'and': SKP
 'they': THE
 'were': WR
@@ -777,7 +777,7 @@ The Bell
 'the': -T
 'eyes': AO*EUS
 'of': -F
-'God.': TKPWO*D TP-PL
+'God.': TKPWO*D/TP-PL
 'Two': KPA/TWO
 'of': -F
 'the': -T
@@ -789,7 +789,7 @@ The Bell
 'returned': RURPBD
 'to': TO
 'the': -T
-'town;': TOUPB STPH*FPLT
+'town;': TOUPB/STPH*FPLT
 'two': TWO
 'little': HREUL
 'girls': TKPWEURLS
@@ -799,13 +799,13 @@ The Bell
 'made': PHAED
 'garlands': TKPWAR/HRAPBDZ
 'of': -F
-'flowers,': TPHRO*URS KW-BG
-'they,': THE KW-BG
-'therefore,': TH-FR KW-BG
+'flowers,': TPHRO*URS/KW-BG
+'they,': THE/KW-BG
+'therefore,': TH-FR/KW-BG
 'did': TK
 'not': TPHOT
 'go': TKPW
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'others': OERS
@@ -813,7 +813,7 @@ The Bell
 'at': AT
 'the': -T
 'willow': WEUL/HROE
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'where': W-R
 'the': -T
 'confectioner': KAUPB/TPEBGS/*ER
@@ -821,27 +821,27 @@ The Bell
 'put': PUT
 'up': UP
 'his': HEUS
-'stall,': STAUL KW-BG
+'stall,': STAUL/KW-BG
 'they': THE
-'said:': SED STPH-FPLT
-'"Now': KR-GS KPA/TPHOU
+'said:': SED/STPH-FPLT
+'"Now': KR-GS/KPA/TPHOU
 'we': WE
 'are': R
 'out': OUT
-'here;': HAOER STPH*FPLT
+'here;': HAOER/STPH*FPLT
 'the': -T
 'bell': PWEL
 'does': TKOS
 'not': TPHOT
 'in': TPH
 'reality': RAOELT
-'exist—it': KPEUFT EPL/TKA*RB T
+'exist—it': KPEUFT/EPL/TKA*RB/T
 'is': S
 'only': OEPBL
 'something': S-G
 'that': THA
 'people': PAOEPL
-'imagine!"': PHAPBLG SKHRAPL KR-GS
+'imagine!"': PHAPBLG/SKHRAPL/KR-GS
 'Then': KPA/THEPB
 'suddenly': SULD
 'the': -T
@@ -870,18 +870,18 @@ The Bell
 'go': TKPW
 'still': STEUL
 'further': TPURT
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'The': KPA/-T
 'wood': WAOD
 'was': WAS
 'very': SRE
 'thickly': THEUBG/HREU
-'grown.': TKPWROEPB TP-PL
+'grown.': TKPWROEPB/TP-PL
 'It': KPA/T
 'was': WAS
 'difficult': TKEUFL
 'to': TO
-'advance:': SRAPBS STPH-FPLT
+'advance:': SRAPBS/STPH-FPLT
 'wood': WAOD
 'lilies': HREUL/KWREU/-S
 'and': SKP
@@ -889,7 +889,7 @@ The Bell
 'grew': TKPWRAOU
 'almost': HR-PL
 'too': TAO
-'high;': HAOEU STPH*FPLT
+'high;': HAOEU/STPH*FPLT
 'flowering': TPHROU/ERG
 'convolvuli': xxx convolvuli
 'and': SKP
@@ -901,7 +901,7 @@ The Bell
 'from': TPR
 'tree': TRAOE
 'to': TO
-'tree;': TRAOE STPH*FPLT
+'tree;': TRAOE/STPH*FPLT
 'while': WHAOEUL
 'the': -T
 'nightingales': TPHAOEUT/-G/TKPWAEL/-S
@@ -910,11 +910,11 @@ The Bell
 'and': SKP
 'the': -T
 'sunbeams': SUPB/PWAOEPL/-S
-'played.': PHRAEUD TP-PL
+'played.': PHRAEUD/TP-PL
 'That': KPA/THA
 'was': WAS
 'very': SRE
-'beautiful!': PWAOUFL SKHRAPL
+'beautiful!': PWAOUFL/SKHRAPL
 'But': KPA/PWUT
 'the': -T
 'way': WAEU
@@ -922,24 +922,24 @@ The Bell
 'unfit': UPB/TPEUT
 'for': TPOR
 'the': -T
-'girls;': TKPWEURLS STPH*FPLT
+'girls;': TKPWEURLS/STPH*FPLT
 'they': THE
 'would': WO
 'have': SR
 'torn': TORPB
 'their': THAEUR
-'dresses.': TKRES/-S TP-PL
+'dresses.': TKRES/-S/TP-PL
 'Large': KPA/HRARPBLG
-'rocks,': ROBGS KW-BG
+'rocks,': ROBGS/KW-BG
 'covered': KOFRD
 'with': W
 'moss': PHOS
 'of': -F
 'various': SRAEURS
-'hues,': HAOU/-S KW-BG
+'hues,': HAOU/-S/KW-BG
 'were': WR
 'lying': HRAOEUG
-'about;': PW STPH*FPLT
+'about;': PW/STPH*FPLT
 'the': -T
 'fresh': TPRERB
 'spring': SPREUPBG
@@ -949,29 +949,29 @@ The Bell
 'with': W
 'a': AEU
 'peculiar': PE/KAOUL/HRAR
-'sound.': SOUPBD TP-PL
-'"I': KR-GS EU
+'sound.': SOUPBD/TP-PL
+'"I': KR-GS/EU
 'don't': TKOEPBT
 'think': THEU
 'that': THA
 'can': K
 'be': -B
 'the': -T
-'bell,"': PWEL KW-BG KR-GS
+'bell,"': PWEL/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
 'confirmed': K-FRPL/-D
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
 'lay': HRAEU
 'down': TKOUPB
 'and': SKP
-'listened.': HREUFPBD TP-PL
-'"We': KR-GS KPA/WE
+'listened.': HREUFPBD/TP-PL
+'"We': KR-GS/KPA/WE
 'must': PHUFT
 'try': TREU
 'to': TO
@@ -979,17 +979,17 @@ The Bell
 'out': OUT
 'if': TP
 'it': T
-'is!"': S SKHRAPL KR-GS
+'is!"': S/SKHRAPL/KR-GS
 'And': AFPBD
 'there': THR
 'he': HE
-'remained,': RE/PHAEUPBD KW-BG
+'remained,': RE/PHAEUPBD/KW-BG
 'and': SKP
 'let': HRET
 'the': -T
 'others': OERS
 'walk': WAUBG
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'They': KPA/THE
 'came': KAEUPL
 'to': TO
@@ -1002,16 +1002,16 @@ The Bell
 'of': -F
 'trees': TRAOES
 'and': SKP
-'branches;': PWRAFRPBS STPH*FPLT
+'branches;': PWRAFRPBS/STPH*FPLT
 'a': AEU
 'large': HRARPBLG
-'crab-apple': KRAB H-PB A*EPL
+'crab-apple': KRAB/H-PB/A*EPL
 'tree': TRAOE
 'spread': SPRED
 'its': EUTS
 'branches': PWRAFRPBS
 'over': OEFR
-'it,': T KW-BG
+'it,': T/KW-BG
 'as': AS
 'if': TP
 'it': T
@@ -1023,38 +1023,38 @@ The Bell
 'fruit': TPRAOUT
 'on': OPB
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'upon': POPB
 'which': WEU
 'roses': ROES/-S
 'were': WR
-'blooming;': PWHRAOPL/-G STPH*FPLT
+'blooming;': PWHRAOPL/-G/STPH*FPLT
 'the': -T
 'long': HROPBG
 'boughs': PWO*U/-S
 'covered': KOFRD
 'the': -T
-'gable,': TKPWAEUBL KW-BG
+'gable,': TKPWAEUBL/KW-BG
 'where': W-R
 'a': AEU
 'little': HREUL
 'bell': PWEL
 'was': WAS
-'hanging.': HAPBG/-G TP-PL
+'hanging.': HAPBG/-G/TP-PL
 'Was': KPA/WAS
 'this': TH
 'the': -T
 'one': WUPB
 'they': THE
 'had': H
-'heard?': HAERD H-F
+'heard?': HAERD/H-F
 'All': KPA/AUL
 'agreed': TKPWRAED
 'that': THA
 'it': T
 'must': PHUFT
 'be': -B
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'except': KPEPT
 'one': WUPB
 'who': WHO
@@ -1074,7 +1074,7 @@ The Bell
 'at': AT
 'such': SUFP
 'a': AEU
-'distance,': STKAPBS KW-BG
+'distance,': STKAPBS/KW-BG
 'and': SKP
 'that': THA
 'it': T
@@ -1090,14 +1090,14 @@ The Bell
 'so': SO
 'touched': TUFPD
 'men's': PHEPB/AES
-'hearts.': HARTS TP-PL
+'hearts.': HARTS/TP-PL
 'He': KPA/HE
 'who': WHO
 'spoke': SPOEBG
 'was': WAS
 'a': AEU
 'king's': KEUPBG/AES
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'and': SKP
 'therefore': TH-FR
 'the': -T
@@ -1114,18 +1114,18 @@ The Bell
 'cleverer': KHR*EF/RER
 'than': THAPB
 'other': OER
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'Therefore': KPA/TH-FR
 'they': THE
 'let': HRET
 'him': HEUPL
 'go': TKPW
-'alone;': A/HROEPB STPH*FPLT
+'alone;': A/HROEPB/STPH*FPLT
 'and': SKP
 'as': AS
 'he': HE
 'walked': WAUBGD
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'the': -T
 'solitude': SOL/TAOUD
 'of': -F
@@ -1138,7 +1138,7 @@ The Bell
 'reverence': R*EFRPBS
 'in': TPH
 'his': HEUS
-'breast;': PWREFT STPH*FPLT
+'breast;': PWREFT/STPH*FPLT
 'but': PWUT
 'still': STEUL
 'he': HE
@@ -1150,16 +1150,16 @@ The Bell
 'which': WEU
 'the': -T
 'others': OERS
-'rejoiced,': RE/SKWROEUS/-D KW-BG
+'rejoiced,': RE/SKWROEUS/-D/KW-BG
 'and': SKP
-'sometimes,': STAOEUPLS KW-BG
+'sometimes,': STAOEUPLS/KW-BG
 'when': WHEPB
 'the': -T
 'wind': WEUPBD
 'blew': PWHRAOU
 'in': TPH
 'that': THA
-'direction,': TKREBGS KW-BG
+'direction,': TKREBGS/KW-BG
 'he': HE
 'could': KO
 'hear': HAER
@@ -1167,15 +1167,15 @@ The Bell
 'sounds': SOUPBDZ
 'from': TPR
 'the': -T
-'confectioner's': KAUPB/TPEBGS/*ER AES
-'stall,': STAUL KW-BG
+'confectioner's': KAUPB/TPEBGS/*ER/AES
+'stall,': STAUL/KW-BG
 'where': W-R
 'the': -T
 'others': OERS
 'were': WR
 'singing': SEUPBG/-G
 'at': AT
-'tea.': TAE TP-PL
+'tea.': TAE/TP-PL
 'But': KPA/PWUT
 'the': -T
 'deep': TKAOEP
@@ -1185,7 +1185,7 @@ The Bell
 'bell': PWEL
 'were': WR
 'much': PHUFP
-'stronger;': STRORPBG STPH*FPLT
+'stronger;': STRORPBG/STPH*FPLT
 'soon': SAOPB
 'it': T
 'seemed': SAOEPLD
@@ -1197,25 +1197,25 @@ The Bell
 'organ': O*RPBG
 'played': PHRAEUD
 'an': APB
-'accompaniment—the': ABG/KPAEPB/*PLT EPL/TKA*RB -T
+'accompaniment—the': ABG/KPAEPB/*PLT/EPL/TKA*RB/-T
 'sound': SOUPBD
 'came': KAEUPL
 'from': TPR
 'the': -T
-'left,': HREFT KW-BG
+'left,': HREFT/KW-BG
 'from': TPR
 'the': -T
 'side': SAOEUD
 'where': W-R
 'the': -T
 'heart': HART
-'is.': S TP-PL
+'is.': S/TP-PL
 'Now': KPA/TPHOU
 'something': S-G
 'rustled': RUS/-LD
 'among': PHOPBG
 'the': -T
-'bushes,': PWURBS KW-BG
+'bushes,': PWURBS/KW-BG
 'and': SKP
 'a': AEU
 'little': HREUL
@@ -1224,7 +1224,7 @@ The Bell
 'before': PW-FR
 'the': -T
 'king's': KEUPBG/AES
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'in': TPH
 'wooden': WAOD/EPB
 'shoes': SHAOUS
@@ -1241,11 +1241,11 @@ The Bell
 'reach': RAOEFP
 'to': TO
 'his': HEUS
-'wrists.': WREUFTS TP-PL
+'wrists.': WREUFTS/TP-PL
 'They': KPA/THE
 'knew': TPHAOU
 'each': AOEFP
-'other:': OER STPH-FPLT
+'other:': OER/STPH-FPLT
 'the': -T
 'boy': PWOEU
 'was': WAS
@@ -1272,12 +1272,12 @@ The Bell
 'back': PWABG
 'to': TO
 'his': HEUS
-'landlord's': HR-LD AES
-'son.': SOPB TP-PL
+'landlord's': HR-LD/AES
+'son.': SOPB/TP-PL
 'That': KPA/THA
 'he': HE
 'had': H
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'had': H
 'started': STARTD
@@ -1288,7 +1288,7 @@ The Bell
 'shoes': SHAOUS
 'and': SKP
 'old': OLD
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'for': TPOR
 'the': -T
 'sound': SOUPBD
@@ -1297,20 +1297,20 @@ The Bell
 'bell': PWEL
 'was': WAS
 'too': TAO
-'enticing—he': EPB/TAOEUS/-G EPL/TKA*RB HE
+'enticing—he': EPB/TAOEUS/-G/EPL/TKA*RB/HE
 'felt': TPELT
 'he': HE
 'must': PHUFT
 'go': TKPW
-'on.': OPB TP-PL
-'"We': KR-GS KPA/WE
+'on.': OPB/TP-PL
+'"We': KR-GS/KPA/WE
 'might': PHAOEUT
 'go': TKPW
-'together,"': TOGT KW-BG KR-GS
+'together,"': TOGT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'king's': KEUPBG/AES
-'son.': SOPB TP-PL
+'son.': SOPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'poor': PAOR
@@ -1321,7 +1321,7 @@ The Bell
 'shoes': SHAOUS
 'was': WAS
 'quite': KWAOEUT
-'ashamed;': A/SHAEUPLD STPH*FPLT
+'ashamed;': A/SHAEUPLD/STPH*FPLT
 'he': HE
 'pulled': PULD
 'at': AT
@@ -1330,7 +1330,7 @@ The Bell
 'sleeves': SHRAOEFS
 'of': -F
 'his': HEUS
-'jacket,': SKWRABGT KW-BG
+'jacket,': SKWRABGT/KW-BG
 'and': SKP
 'said': SED
 'that': THA
@@ -1342,8 +1342,8 @@ The Bell
 'not': TPHOT
 'walk': WAUBG
 'so': SO
-'fast;': TPAFT STPH*FPLT
-'besides,': PW-DZ KW-BG
+'fast;': TPAFT/STPH*FPLT
+'besides,': PW-DZ/KW-BG
 'he': HE
 'was': WAS
 'of': -F
@@ -1357,7 +1357,7 @@ The Bell
 'sought': SAUT
 'at': AT
 'the': -T
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'for': TPOR
 'there': THR
 'was': WAS
@@ -1366,21 +1366,21 @@ The Bell
 'was': WAS
 'grand': TKPWRAPBD
 'and': SKP
-'magnificent.': PHAFPBT TP-PL
-'"Then': KR-GS KPA/THEPB
+'magnificent.': PHAFPBT/TP-PL
+'"Then': KR-GS/KPA/THEPB
 'we': WE
 'shall': SHAL
 'not': TPHOT
-'meet,"': PHAOET KW-BG KR-GS
+'meet,"': PHAOET/KW-BG/KR-GS
 'said': SED
 'the': -T
 'king's': KEUPBG/AES
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'nodding': TPHOD/-G
 'to': TO
 'the': -T
 'poor': PAOR
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'who': WHO
 'went': WEPBT
 'into': TPHAO
@@ -1389,7 +1389,7 @@ The Bell
 'part': PART
 'of': -F
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'where': W-R
 'the': -T
 'thorns': THORPB/-S
@@ -1400,13 +1400,13 @@ The Bell
 'and': SKP
 'scratched': SKRAFPD
 'his': HEUS
-'hands,': HAPBDZ KW-BG
-'face,': TPAEUS KW-BG
+'hands,': HAPBDZ/KW-BG
+'face,': TPAEUS/KW-BG
 'and': SKP
 'feet': TPAOET
 'until': TPH-L
 'they': THE
-'bled.': PWHRED TP-PL
+'bled.': PWHRED/TP-PL
 'The': KPA/-T
 'king's': KEUPBG/AES
 'son': SOPB
@@ -1414,7 +1414,7 @@ The Bell
 'received': SAOEFD
 'several': SEFRL
 'good': TKPWAOD
-'scratches,': SKRAFPS KW-BG
+'scratches,': SKRAFPS/KW-BG
 'but': PWUT
 'the': -T
 'sun': SUPB
@@ -1422,7 +1422,7 @@ The Bell
 'shining': SHAOEUPBG
 'on': OPB
 'his': HEUS
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'it': T
 'is': S
@@ -1431,23 +1431,23 @@ The Bell
 'we': WE
 'will': HR
 'now': TPHOU
-'follow,': TPOL KW-BG
+'follow,': TPOL/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
 'a': AEU
 'quick': KWEUBG
-'fellow.': TP*EL TP-PL
-'"I': KR-GS EU
+'fellow.': TP*EL/TP-PL
+'"I': KR-GS/EU
 'will': HR
 'and': SKP
 'must': PHUFT
 'find': TPAOEUPBD
 'the': -T
-'bell,"': PWEL KW-BG KR-GS
+'bell,"': PWEL/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"if': KR-GS TP
+'said,': SED/KW-BG
+'"if': KR-GS/TP
 'I': EU
 'have': SR
 'to': TO
@@ -1457,7 +1457,7 @@ The Bell
 'end': EPBD
 'of': -F
 'the': -T
-'world."': WORLD TP-PL KR-GS
+'world."': WORLD/TP-PL/KR-GS
 'Ugly': KPA/ULG
 'monkeys': PHOPB/KEUS
 'sat': SAT
@@ -1468,40 +1468,40 @@ The Bell
 'and': SKP
 'clenched': KHREPB/-FPD
 'their': THAEUR
-'teeth.': TAO*ET TP-PL
-'"Shall': KR-GS KPA/SHAL
+'teeth.': TAO*ET/TP-PL
+'"Shall': KR-GS/KPA/SHAL
 'we': WE
 'beat': PWAET
-'him?"': HEUPL H-F KR-GS
+'him?"': HEUPL/H-F/KR-GS
 'they': THE
-'said.': SED TP-PL
-'"Shall': KR-GS KPA/SHAL
+'said.': SED/TP-PL
+'"Shall': KR-GS/KPA/SHAL
 'we': WE
 'thrash': THRARB
-'him?': HEUPL H-F
+'him?': HEUPL/H-F
 'He': KPA/HE
 'is': S
 'a': AEU
 'king's': KEUPBG/AES
-'son!"': SOPB SKHRAPL KR-GS
+'son!"': SOPB/SKHRAPL/KR-GS
 'But': KPA/PWUT
 'he': HE
 'walked': WAUBGD
 'on': OPB
-'undaunted,': UPB/TKAUPBT/-D KW-BG
+'undaunted,': UPB/TKAUPBT/-D/KW-BG
 'deeper': TKAOERP
 'and': SKP
 'deeper': TKAOERP
 'into': TPHAO
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'where': W-R
 'the': -T
 'most': PHOFT
 'wonderful': WUFL
 'flowers': TPHRO*URS
 'were': WR
-'growing;': TKPWROEG STPH*FPLT
+'growing;': TKPWROEG/STPH*FPLT
 'there': THR
 'were': WR
 'standing': STAPBG
@@ -1509,17 +1509,17 @@ The Bell
 'star': STAR
 'lilies': HREUL/KWREU/-S
 'with': W
-'blood-red': PWHRAOD H-PB RED
-'stamens,': STAEUPL/-PBS KW-BG
-'sky-blue': SKAOEU H-PB PWHRU
+'blood-red': PWHRAOD/H-PB/RED
+'stamens,': STAEUPL/-PBS/KW-BG
+'sky-blue': SKAOEU/H-PB/PWHRU
 'tulips': TAOU/HREUPS
 'shining': SHAOEUPBG
 'when': WHEPB
 'the': -T
 'wind': WEUPBD
 'moved': PHOFD
-'them;': THEPL STPH*FPLT
-'apple-trees': A*EPL H-PB TRAOES
+'them;': THEPL/STPH*FPLT
+'apple-trees': A*EPL/H-PB/TRAOES
 'covered': KOFRD
 'with': W
 'apples': APLS
@@ -1527,7 +1527,7 @@ The Bell
 'large': HRARPBLG
 'glittering': TKPWHREUT/ERG
 'soap': SOEP
-'bubbles:': PWUBLS STPH-FPLT
+'bubbles:': PWUBLS/STPH-FPLT
 'only': OEPBL
 'think': THEU
 'how': HOU
@@ -1537,13 +1537,13 @@ The Bell
 'were': WR
 'in': TPH
 'the': -T
-'sunshine!': SUPB/SHAO*EUPB SKHRAPL
+'sunshine!': SUPB/SHAO*EUPB/SKHRAPL
 'All': KPA/AUL
 'around': ARPBD
 'were': WR
 'beautiful': PWAOUFL
 'green': TKPWRAOEPB
-'meadows,': PHED/OES KW-BG
+'meadows,': PHED/OES/KW-BG
 'where': W-R
 'hart': HRO*ER/HA*RT
 'and': SKP
@@ -1551,13 +1551,13 @@ The Bell
 'played': PHRAEUD
 'in': TPH
 'the': -T
-'grass.': TKPWRAS TP-PL
+'grass.': TKPWRAS/TP-PL
 'There': KPA/THR
 'grew': TKPWRAOU
 'magnificent': PHAFPBT
 'oaks': OEBG/-S
 'and': SKP
-'beech-trees;': PWAOEFP H-PB TRAOES STPH*FPLT
+'beech-trees;': PWAOEFP/H-PB/TRAOES/STPH*FPLT
 'and': SKP
 'if': TP
 'the': -T
@@ -1567,7 +1567,7 @@ The Bell
 'of': -F
 'any': TPHEU
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'long': HROPBG
 'blades': PWHRAEUDZ
 'of': -F
@@ -1576,7 +1576,7 @@ The Bell
 'out': OUT
 'of': -F
 'the': -T
-'clefts;': KHREFT/-S STPH*FPLT
+'clefts;': KHREFT/-S/STPH*FPLT
 'there': THR
 'were': WR
 'also': HR-S
@@ -1585,7 +1585,7 @@ The Bell
 'lakes': HRAEUBGS
 'in': TPH
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'on': OPB
 'which': WEU
 'the': -T
@@ -1596,7 +1596,7 @@ The Bell
 'and': SKP
 'flapping': TPHRAPG
 'their': THAEUR
-'wings.': WEUPBGS TP-PL
+'wings.': WEUPBGS/TP-PL
 'The': KPA/-T
 'king's': KEUPBG/AES
 'son': SOPB
@@ -1604,7 +1604,7 @@ The Bell
 'stood': STAOD
 'still': STEUL
 'and': SKP
-'listened;': HREUFPBD STPH*FPLT
+'listened;': HREUFPBD/STPH*FPLT
 'sometimes': STAOEUPLS
 'he': HE
 'thought': THAUT
@@ -1624,7 +1624,7 @@ The Bell
 'of': -F
 'these': THEZ
 'deep': TKAOEP
-'lakes,': HRAEUBGS KW-BG
+'lakes,': HRAEUBGS/KW-BG
 'but': PWUT
 'soon': SAOPB
 'he': HE
@@ -1633,7 +1633,7 @@ The Bell
 'this': TH
 'was': WAS
 'a': AEU
-'mistake,': SPHAEUBG KW-BG
+'mistake,': SPHAEUBG/KW-BG
 'and': SKP
 'that': THA
 'the': -T
@@ -1644,37 +1644,37 @@ The Bell
 'farther': TPA*RT
 'in': TPH
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'sun': SUPB
-'set,': SET KW-BG
+'set,': SET/KW-BG
 'the': -T
 'clouds': KHROUDZ
 'were': WR
 'as': AS
 'red': RED
 'as': AS
-'fire;': TPAOEUR STPH*FPLT
+'fire;': TPAOEUR/STPH*FPLT
 'it': T
 'became': PWAEUPL
 'quiet': KWAO*EUT
 'in': TPH
 'the': -T
-'wood;': WAOD STPH*FPLT
+'wood;': WAOD/STPH*FPLT
 'he': HE
 'sank': SA*PBG
 'down': TKOUPB
 'on': OPB
 'his': HEUS
-'knees,': TPHAOEZ KW-BG
+'knees,': TPHAOEZ/KW-BG
 'sang': SAPBG
 'an': APB
 'evening': AOEPBG
 'hymn': H*EUPL
 'and': SKP
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'shall': SHAL
 'never': TPHEFR
 'find': TPAOEUPBD
@@ -1682,20 +1682,20 @@ The Bell
 'I': EU
 'am': APL
 'looking': HRAOG
-'for!': TPOR SKHRAPL
+'for!': TPOR/SKHRAPL
 'Now': KPA/TPHOU
 'the': -T
 'sun': SUPB
 'is': S
-'setting,': SEGT KW-BG
+'setting,': SEGT/KW-BG
 'and': SKP
 'the': -T
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'the': -T
 'dark': TKARBG
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'is': S
-'approaching.': A/PROEFPG TP-PL
+'approaching.': A/PROEFPG/TP-PL
 'Yet': KPA/KWRET
 'I': EU
 'may': PHAE
@@ -1711,13 +1711,13 @@ The Bell
 'disappears': TKEUS/PAOERS
 'beneath': TPHAO*ET
 'the': -T
-'horizon.': HORZ/O*PB TP-PL
+'horizon.': HORZ/O*PB/TP-PL
 'I': EU
 'will': HR
 'climb': KHRAOEUPL
 'up': UP
 'these': THEZ
-'rocks,': ROBGS KW-BG
+'rocks,': ROBGS/KW-BG
 'they': THE
 'are': R
 'as': AS
@@ -1725,61 +1725,61 @@ The Bell
 'as': AS
 'the': -T
 'highest': HAOEU/EFT
-'trees!"': TRAOES SKHRAPL KR-GS
+'trees!"': TRAOES/SKHRAPL/KR-GS
 'And': AFPBD
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'taking': TAEUG
 'hold': HOLD
 'of': -F
 'the': -T
 'creepers': KRAOEP/*ERS
 'and': SKP
-'roots,': RAOTS KW-BG
+'roots,': RAOTS/KW-BG
 'he': HE
 'climbed': KHRAOEUPLD
 'up': UP
 'on': OPB
 'the': -T
 'wet': WET
-'stones,': STOEPBS KW-BG
+'stones,': STOEPBS/KW-BG
 'where': W-R
-'water-snakes': WAUR H-PB STPHAEUBGS
+'water-snakes': WAUR/H-PB/STPHAEUBGS
 'were': WR
 'wriggling': WREUG/-LG
 'and': SKP
 'the': -T
-'toads,': TOEDZ KW-BG
+'toads,': TOEDZ/KW-BG
 'as': AS
 'it': T
-'were,': WR KW-BG
+'were,': WR/KW-BG
 'barked': PWARBGD
 'at': AT
-'him:': HEUPL STPH-FPLT
+'him:': HEUPL/STPH-FPLT
 'he': HE
 'reached': RAOEFPD
 'the': -T
 'top': TOP
 'before': PW-FR
 'the': -T
-'sun,': SUPB KW-BG
+'sun,': SUPB/KW-BG
 'seen': SAOEPB
 'from': TPR
 'such': SUFP
 'a': AEU
-'height,': HAOEUT KW-BG
+'height,': HAOEUT/KW-BG
 'had': H
 'quite': KWAOEUT
-'set.': SET TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'set.': SET/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'what': WHA
 'a': AEU
-'splendour!"': SHREPBD/O*R/A*U SKHRAPL KR-GS
+'splendour!"': SHREPBD/O*R/A*U/SKHRAPL/KR-GS
 'The': KPA/-T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'the': -T
 'great': TKPWRAET
 'majestic': PHA/SKWREFT/EUBG
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'which': WEU
 'was': WAS
 'rolling': ROLG
@@ -1788,11 +1788,11 @@ The Bell
 'waves': WAFS
 'against': TKPWEPBS
 'the': -T
-'shore,': SHOR KW-BG
+'shore,': SHOR/KW-BG
 'stretched': STREFPD
 'out': OUT
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'the': -T
 'sun': SUPB
@@ -1809,22 +1809,22 @@ The Bell
 'sea': SAE
 'and': SKP
 'heaven': HEFPB
-'met—all': PHET EPL/TKA*RB AUL
+'met—all': PHET/EPL/TKA*RB/AUL
 'melted': PHELT/-D
 'together': TOGT
 'in': TPH
 'the': -T
 'most': PHOFT
 'glowing': TKPWHROEG
-'colours;': KHRORS/A*U STPH*FPLT
+'colours;': KHRORS/A*U/STPH*FPLT
 'the': -T
 'wood': WAOD
 'was': WAS
-'singing,': SEUPBG/-G KW-BG
+'singing,': SEUPBG/-G/KW-BG
 'and': SKP
 'his': HEUS
 'heart': HART
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'The': KPA/-T
 'whole': WHOEL
 'of': -F
@@ -1833,7 +1833,7 @@ The Bell
 'one': WUPB
 'large': HRARPBLG
 'holy': HOEUL
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'in': TPH
 'which': WEU
 'the': -T
@@ -1843,7 +1843,7 @@ The Bell
 'clouds': KHROUDZ
 'formed': TPORPLD
 'the': -T
-'pillars,': PEUL/AR/-S KW-BG
+'pillars,': PEUL/AR/-S/KW-BG
 'the': -T
 'flowers': TPHRO*URS
 'and': SKP
@@ -1851,14 +1851,14 @@ The Bell
 'the': -T
 'woven': WOEFPB
 'velvet': SREL/SRET
-'carpet,': KARPT KW-BG
+'carpet,': KARPT/KW-BG
 'and': SKP
 'heaven': HEFPB
 'itself': T/SEFL
 'was': WAS
 'the': -T
 'great': TKPWRAET
-'cupola;': KUP/HRA STPH*FPLT
+'cupola;': KUP/HRA/STPH*FPLT
 'up': UP
 'there': THR
 'the': -T
@@ -1870,17 +1870,17 @@ The Bell
 'as': AS
 'the': -T
 'sun': SUPB
-'disappeared,': TKEUS/PAOERD KW-BG
+'disappeared,': TKEUS/PAOERD/KW-BG
 'but': PWUT
 'millions': PH-LS
 'of': -F
 'stars': STARS
 'were': WR
-'lighted;': HRAOEUTD STPH*FPLT
+'lighted;': HRAOEUTD/STPH*FPLT
 'diamond': TKAOEUPLD
 'lamps': HRA*PLS
 'were': WR
-'shining,': SHAOEUPBG KW-BG
+'shining,': SHAOEUPBG/KW-BG
 'and': SKP
 'the': -T
 'king's': KEUPBG/AES
@@ -1890,14 +1890,14 @@ The Bell
 'arms': ARPLS
 'out': OUT
 'towards': TORDZ
-'heaven,': HEFPB KW-BG
+'heaven,': HEFPB/KW-BG
 'towards': TORDZ
 'the': -T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'and': SKP
 'towards': TORDZ
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'Then': KPA/THEPB
 'suddenly': SULD
 'the': -T
@@ -1905,13 +1905,13 @@ The Bell
 'boy': PWOEU
 'with': W
 'the': -T
-'short-sleeved': SHORT H-PB SHRAOEF/-D
+'short-sleeved': SHORT/H-PB/SHRAOEF/-D
 'jacket': SKWRABGT
 'and': SKP
 'the': -T
 'wooden': WAOD/EPB
 'shoes': SHAOUS
-'appeared;': A/PAOERD STPH*FPLT
+'appeared;': A/PAOERD/STPH*FPLT
 'he': HE
 'had': H
 'arrived': A/RAOEUFD
@@ -1923,7 +1923,7 @@ The Bell
 'road': RAOD
 'he': HE
 'had': H
-'chosen.': KHOEFPB TP-PL
+'chosen.': KHOEFPB/TP-PL
 'And': AFPBD
 'they': THE
 'ran': RAPB
@@ -1933,8 +1933,8 @@ The Bell
 'and': SKP
 'took': TAOBG
 'one': WUPB
-'another's': TPHOER AES
-'hand,': HAPBD KW-BG
+'another's': TPHOER/AES
+'hand,': HAPBD/KW-BG
 'in': TPH
 'the': -T
 'great': TKPWRAET
@@ -1942,7 +1942,7 @@ The Bell
 'of': -F
 'nature': TPHAEURT
 'and': SKP
-'poesy,': xxx poesy KW-BG
+'poesy,': xxx poesy/KW-BG
 'and': SKP
 'above': PWOF
 'them': THEPL
@@ -1950,12 +1950,12 @@ The Bell
 'the': -T
 'invisible': EUPB/SREUBL
 'holy': HOEUL
-'bell;': PWEL STPH*FPLT
+'bell;': PWEL/STPH*FPLT
 'happy': HAEP
 'spirits': SPEURTS
 'surrounded': SROUPBD/-D
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'singing': SEUPBG/-G
 'hallelujahs': HAL/HRAOU/SKWRA/-S
 'and': SKP
-'rejoicing.': RE/SKWROEUFG TP-PL
+'rejoicing.': RE/SKWROEUFG/TP-PL

@@ -12,11 +12,11 @@ The Fox and the Mosquitoes
 'entangled': SPWAPBG/-LD
 'in': TPH
 'a': AEU
-'bush,': PWURB KW-BG
+'bush,': PWURB/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
-'move.': PHOF TP-PL
+'move.': PHOF/TP-PL
 'A': KPA/AEU
 'number': TPHUPL
 'of': -F
@@ -35,7 +35,7 @@ The Fox and the Mosquitoes
 'undisturbed': UPB/STKURBD
 'by': PWEU
 'its': EUTS
-'tail.': TAEUL TP-PL
+'tail.': TAEUL/TP-PL
 'A': KPA/AEU
 'hedgehog': HEPBLG/HOG
 'strolling': STROELG
@@ -49,18 +49,18 @@ The Fox and the Mosquitoes
 'went': WEPBT
 'up': UP
 'to': TO
-'him:': HEUPL STPH-FPLT
-'"You': KR-GS KPA/U
+'him:': HEUPL/STPH-FPLT
+'"You': KR-GS/KPA/U
 'are': R
 'in': TPH
 'a': AEU
 'bad': PWAD
-'way,': WAEU KW-BG
-'neighbour,"': TPHAEUB/A*U KW-BG KR-GS
+'way,': WAEU/KW-BG
+'neighbour,"': TPHAEUB/A*U/KW-BG/KR-GS
 'said': SED
 'the': -T
-'hedgehog;': HEPBLG/HOG STPH*FPLT
-'"shall': KR-GS SHAL
+'hedgehog;': HEPBLG/HOG/STPH*FPLT
+'"shall': KR-GS/SHAL
 'I': EU
 'relieve': RE/HREF
 'you': U
@@ -73,43 +73,43 @@ The Fox and the Mosquitoes
 'are': R
 'sucking': SUBG/-G
 'your': KWROUR
-'blood?"': PWHRAOD H-F KR-GS
-'"Thank': KR-GS KPA/THAPBG
-'you,': U KW-BG
+'blood?"': PWHRAOD/H-F/KR-GS
+'"Thank': KR-GS/KPA/THAPBG
+'you,': U/KW-BG
 'Master': KPA/PHAFRT
-'Hedgehog,"': KPA/HEPBLG/HOG KW-BG KR-GS
+'Hedgehog,"': KPA/HEPBLG/HOG/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Fox,': KPA/TPOBGS KW-BG
-'"but': KR-GS PWUT
+'Fox,': KPA/TPOBGS/KW-BG
+'"but': KR-GS/PWUT
 'I': EU
 'would': WO
 'rather': RAER
-'not."': TPHOT TP-PL KR-GS
-'"Why,': KR-GS KPA/KWR KW-BG
+'not."': TPHOT/TP-PL/KR-GS
+'"Why,': KR-GS/KPA/KWR/KW-BG
 'how': HOU
 'is': S
-'that?"': THA H-F KR-GS
+'that?"': THA/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'hedgehog.': HEPBLG/HOG TP-PL
-'"Well,': KR-GS KPA/WEL KW-BG
+'hedgehog.': HEPBLG/HOG/TP-PL
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'you': U
-'see,"': SAOE KW-BG KR-GS
+'see,"': SAOE/KW-BG/KR-GS
 'was': WAS
 'the': -T
-'answer,': AEPBS KW-BG
-'"these': KR-GS THEZ
+'answer,': AEPBS/KW-BG
+'"these': KR-GS/THEZ
 'Mosquitoes': KPA/PHOFBG/TOES
 'have': SR
 'had': H
 'their': THAEUR
-'fill;': TPEUL STPH*FPLT
+'fill;': TPEUL/STPH*FPLT
 'if': TP
 'you': U
 'drive': TKRAOEUF
 'these': THEZ
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'others': OERS
 'will': HR
 'come': KOPL
@@ -120,4 +120,4 @@ The Fox and the Mosquitoes
 'bleed': PWHRAOED
 'me': PHE
 'to': TO
-'death."': TK*T TP-PL KR-GS
+'death."': TK*T/TP-PL/KR-GS

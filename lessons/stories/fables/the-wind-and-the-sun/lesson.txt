@@ -10,7 +10,7 @@ The Wind and the Sun
 'which': WEU
 'was': WAS
 'the': -T
-'stronger.': STRORPBG TP-PL
+'stronger.': STRORPBG/TP-PL
 'Suddenly': KPA/SULD
 'they': THE
 'saw': SAU
@@ -19,19 +19,19 @@ The Wind and the Sun
 'coming': KO*G
 'down': TKOUPB
 'the': -T
-'road,': RAOD KW-BG
+'road,': RAOD/KW-BG
 'and': SKP
 'the': -T
 'Sun': KPA/SUPB
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'see': SAOE
 'a': AEU
 'way': WAEU
 'to': TO
 'decide': STKAOEUD
 'our': OUR
-'dispute.': STKPAOUT TP-PL
+'dispute.': STKPAOUT/TP-PL
 'Whichever': KPA/KH-FR
 'of': -F
 'us': US
@@ -49,16 +49,16 @@ The Wind and the Sun
 'regarded': RARD/-D
 'as': AS
 'the': -T
-'stronger.': STRORPBG TP-PL
+'stronger.': STRORPBG/TP-PL
 'You': KPA/U
-'begin."': TKPWEUPB TP-PL KR-GS
+'begin."': TKPWEUPB/TP-PL/KR-GS
 'So': KPA/SO
 'the': -T
 'Sun': KPA/SUPB
 'retired': RAO*EURD
 'behind': HEUPBD
 'a': AEU
-'cloud,': KHROUD KW-BG
+'cloud,': KHROUD/KW-BG
 'and': SKP
 'the': -T
 'Wind': KPA/WEUPBD
@@ -72,7 +72,7 @@ The Wind and the Sun
 'could': KO
 'upon': POPB
 'the': -T
-'traveller.': TRA*FL/HRER TP-PL
+'traveller.': TRA*FL/HRER/TP-PL
 'But': KPA/PWUT
 'the': -T
 'harder': HARD/*ER
@@ -88,7 +88,7 @@ The Wind and the Sun
 'his': HEUS
 'cloak': KHROEBG
 'round': ROUPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'till': TEUL
 'at': AT
 'last': HRAFT
@@ -99,7 +99,7 @@ The Wind and the Sun
 'give': TKPWEUF
 'up': UP
 'in': TPH
-'despair.': TKE/SPAEUR TP-PL
+'despair.': TKE/SPAEUR/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'Sun': KPA/SUPB
@@ -113,7 +113,7 @@ The Wind and the Sun
 'glory': TKPWHROER
 'upon': POPB
 'the': -T
-'traveller,': TRA*FL/HRER KW-BG
+'traveller,': TRA*FL/HRER/KW-BG
 'who': WHO
 'soon': SAOPB
 'found': TPOUPBD
@@ -125,9 +125,9 @@ The Wind and the Sun
 'with': W
 'his': HEUS
 'cloak': KHROEBG
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'Kindness': KPA/KEUPBD/-PBS
 'effects': TPEBGZ
 'more': PHOR
 'than': THAPB
-'severity.': SRERT TP-PL
+'severity.': SRERT/TP-PL

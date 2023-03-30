@@ -8,14 +8,14 @@ The Hares and the Frogs
 'by': PWEU
 'the': -T
 'other': OER
-'beasts,': PWAOEFT/-S KW-BG
+'beasts,': PWAOEFT/-S/KW-BG
 'they': THE
 'did': TK
 'not': TPHOT
 'know': TPHOE
 'where': W-R
 'to': TO
-'go.': TKPW TP-PL
+'go.': TKPW/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -25,12 +25,12 @@ The Hares and the Frogs
 'single': SEUPBLG
 'animal': PHAPBL
 'approach': PROEFP
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'off': OF
 'they': THE
 'used': AOUFD
 'to': TO
-'run.': RUPB TP-PL
+'run.': RUPB/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'they': THE
@@ -41,7 +41,7 @@ The Hares and the Frogs
 'wild': WAOEULD
 'Horses': KPA/HORSZ
 'stampeding': STA*PLD/-G
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'and': SKP
 'in': TPH
 'quite': KWAOEUT
@@ -56,7 +56,7 @@ The Hares and the Frogs
 'a': AEU
 'lake': HRAEUBG
 'hard': HARD
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'determined': TKERPLD
 'to': TO
 'drown': TKROUPB
@@ -70,7 +70,7 @@ The Hares and the Frogs
 'continual': T-PB/WAL
 'state': STAEUT
 'of': -F
-'fear.': TPAOER TP-PL
+'fear.': TPAOER/TP-PL
 'But': KPA/PWUT
 'just': SKWRUFT
 'as': AS
@@ -81,11 +81,11 @@ The Hares and the Frogs
 'bank': PWA*PBG
 'of': -F
 'the': -T
-'lake,': HRAEUBG KW-BG
+'lake,': HRAEUBG/KW-BG
 'a': AEU
 'troop': TRAOP
 'of': -F
-'Frogs,': KPA/TPROGS KW-BG
+'Frogs,': KPA/TPROGS/KW-BG
 'frightened': TPRAOEUFPBD
 'in': TPH
 'their': THAEUR
@@ -97,31 +97,31 @@ The Hares and the Frogs
 'the': -T
 'Hares': KPA/HA*ER/-S
 'scuttled': SKUT/-LD
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'jumped': SKWR*UPLD
 'into': TPHAO
 'the': -T
-'water.': WAUR TP-PL
-'"Truly,"': KR-GS KPA/TRAOUL KW-BG KR-GS
+'water.': WAUR/TP-PL
+'"Truly,"': KR-GS/KPA/TRAOUL/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
-'Hares,': KPA/HA*ER/-S KW-BG
-'"things': KR-GS THEUPBGS
+'Hares,': KPA/HA*ER/-S/KW-BG
+'"things': KR-GS/THEUPBGS
 'are': R
 'not': TPHOT
 'so': SO
 'bad': PWAD
 'as': AS
 'they': THE
-'seem:': SAOEPL STPH-FPLT
-'"There': KR-GS KPA/THR
+'seem:': SAOEPL/STPH-FPLT
+'"There': KR-GS/KPA/THR
 'is': S
 'always': AULS
 'someone': SPH-PB
 'worse': WORS
 'off': OF
 'than': THAPB
-'yourself."': KWRO*URS TP-PL KR-GS
+'yourself."': KWRO*URS/TP-PL/KR-GS

@@ -12,45 +12,45 @@ The Salad
 'along': HRAOPBG
 'through': THRU
 'a': AEU
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'there': THR
 'came': KAEUPL
 'up': UP
 'a': AEU
 'little': HREUL
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'him,': HEUPL KW-BG
-''Good': AE KPA/TKPWAOD
-'day,': TKAEU KW-BG
+'him,': HEUPL/KW-BG
+''Good': AE/KPA/TKPWAOD
+'day,': TKAEU/KW-BG
 'good': TKPWAOD
-'day;': TKAEU STPH*FPLT
+'day;': TKAEU/STPH*FPLT
 'you': U
 'seem': SAOEPL
 'merry': PHER/REU
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'but': PWUT
 'I': EU
 'am': APL
 'hungry': HUPBG/REU
 'and': SKP
-'thirsty;': THEURS/TEU STPH*FPLT
+'thirsty;': THEURS/TEU/STPH*FPLT
 'do': TKO
 'pray': PRAEU
 'give': TKPWEUF
 'me': PHE
 'something': S-G
 'to': TO
-'eat.'': AOET TP-PL AE
+'eat.'': AOET/TP-PL/AE
 'The': KPA/-T
 'huntsman': HUPBTS/PHA*PB
 'took': TAOBG
 'pity': PEUT/TEU
 'on': OPB
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'put': PUT
 'his': HEUS
@@ -63,25 +63,25 @@ The Salad
 'her': HER
 'what': WHA
 'he': HE
-'had.': H TP-PL
+'had.': H/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'wanted': WAPBTD
 'to': TO
 'go': TKPW
 'his': HEUS
-'way;': WAEU STPH*FPLT
+'way;': WAEU/STPH*FPLT
 'but': PWUT
 'she': SHE
 'took': TAOBG
 'hold': HOLD
 'of': -F
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Listen,': AE KPA/HREUFPB KW-BG
+'said,': SED/KW-BG
+''Listen,': AE/KPA/HREUFPB/KW-BG
 'my': PHEU
-'friend,': TPREPBD KW-BG
+'friend,': TPREPBD/KW-BG
 'to': TO
 'what': WHA
 'I': EU
@@ -89,17 +89,17 @@ The Salad
 'going': TKPW-G
 'to': TO
 'tell': TEL
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'I': EU
 'will': HR
 'reward': RE/WARD
 'you': U
 'for': TPOR
 'your': KWROUR
-'kindness;': KEUPBD/-PBS STPH*FPLT
+'kindness;': KEUPBD/-PBS/STPH*FPLT
 'go': TKPW
 'your': KWROUR
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'after': AF
 'a': AEU
@@ -120,30 +120,30 @@ The Salad
 'sitting': SEUGT
 'on': OPB
 'a': AEU
-'cloak.': KHROEBG TP-PL
+'cloak.': KHROEBG/TP-PL
 'Shoot': KPA/SHAOT
 'into': TPHAO
 'the': -T
 'midst': PHEUDZ
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'one': WUPB
 'will': HR
 'fall': TPAUL
 'down': TKOUPB
-'dead:': TKED STPH-FPLT
+'dead:': TKED/STPH-FPLT
 'the': -T
 'cloak': KHROEBG
 'will': HR
 'fall': TPAUL
-'too;': TAO STPH*FPLT
+'too;': TAO/STPH*FPLT
 'take': TAEUBG
-'it,': T KW-BG
+'it,': T/KW-BG
 'it': T
 'is': S
 'a': AEU
-'wishing-cloak,': WEURBG H-PB KHROEBG KW-BG
+'wishing-cloak,': WEURBG/H-PB/KHROEBG/KW-BG
 'and': SKP
 'when': WHEPB
 'you': U
@@ -161,19 +161,19 @@ The Salad
 'may': PHAE
 'wish': WEURB
 'to': TO
-'be.': -B TP-PL
+'be.': -B/TP-PL
 'Cut': KPA/KUT
 'open': OEP
 'the': -T
 'dead': TKED
-'bird,': PWEURD KW-BG
+'bird,': PWEURD/KW-BG
 'take': TAEUBG
 'out': OUT
 'its': EUTS
 'heart': HART
 'and': SKP
 'keep': KAOEP
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'you': U
 'will': HR
@@ -189,11 +189,11 @@ The Salad
 'morning': PHORPBG
 'when': WHEPB
 'you': U
-'rise.': RAOEUZ TP-PL
+'rise.': RAOEUZ/TP-PL
 'It': KPA/T
 'is': S
 'the': -T
-'bird's': PWEURD AES
+'bird's': PWEURD/AES
 'heart': HART
 'that': THA
 'will': HR
@@ -201,20 +201,20 @@ The Salad
 'you': U
 'this': TH
 'good': TKPWAOD
-'luck.'': HRUBG TP-PL AE
+'luck.'': HRUBG/TP-PL/AE
 'The': KPA/-T
 'huntsman': HUPBTS/PHA*PB
 'thanked': THAPBGD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''If': AE KPA/TP
+'himself,': HEUPLS/KW-BG
+''If': AE/KPA/TP
 'all': AUL
 'this': TH
 'does': TKOS
-'happen,': HAP KW-BG
+'happen,': HAP/KW-BG
 'it': T
 'will': HR
 'be': -B
@@ -222,7 +222,7 @@ The Salad
 'fine': TPAOEUPB
 'thing': THEUPBG
 'for': TPOR
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'When': KPA/WHEPB
 'he': HE
 'had': H
@@ -231,7 +231,7 @@ The Salad
 'hundred': HUPBD
 'steps': STEPS
 'or': OR
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'he': HE
 'heard': HAERD
 'a': AEU
@@ -242,7 +242,7 @@ The Salad
 'the': -T
 'branches': PWRAFRPBS
 'over': OEFR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'up': UP
@@ -259,9 +259,9 @@ The Salad
 'their': THAEUR
 'bills': PWEULS
 'and': SKP
-'feet;': TPAOET STPH*FPLT
-'screaming,': SKRAOEPLG KW-BG
-'fighting,': TPAOEUGT KW-BG
+'feet;': TPAOET/STPH*FPLT
+'screaming,': SKRAOEPLG/KW-BG
+'fighting,': TPAOEUGT/KW-BG
 'and': SKP
 'tugging': TUG/-G
 'at': AT
@@ -274,14 +274,14 @@ The Salad
 'to': TO
 'have': SR
 'it': T
-'himself.': HEUPLS TP-PL
-''Well,'': AE KPA/WEL KW-BG AE
+'himself.': HEUPLS/TP-PL
+''Well,'': AE/KPA/WEL/KW-BG/AE
 'said': SED
 'the': -T
-'huntsman,': HUPBTS/PHA*PB KW-BG
-''this': AE TH
+'huntsman,': HUPBTS/PHA*PB/KW-BG
+''this': AE/TH
 'is': S
-'wonderful;': WUFL STPH*FPLT
+'wonderful;': WUFL/STPH*FPLT
 'this': TH
 'happens': HAPS
 'just': SKWRUFT
@@ -289,7 +289,7 @@ The Salad
 'the': -T
 'old': OLD
 'woman': WOPL
-'said';': SED AE STPH*FPLT
+'said';': SED/AE/STPH*FPLT
 'then': THEPB
 'he': HE
 'shot': SHOT
@@ -304,23 +304,23 @@ The Salad
 'feathers': TP*ET/ERS
 'flew': TPHRAOU
 'all': AUL
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'Off': KPA/OF
 'went': WEPBT
 'the': -T
 'flock': TPHROBG
 'chattering': KHAERGT
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'but': PWUT
 'one': WUPB
 'fell': TPEL
 'down': TKOUPB
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'and': SKP
 'the': -T
 'cloak': KHROEBG
 'with': W
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
@@ -330,22 +330,22 @@ The Salad
 'old': OLD
 'woman': WOPL
 'told': TOLD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'cut': KUT
 'open': OEP
 'the': -T
-'bird,': PWEURD KW-BG
+'bird,': PWEURD/KW-BG
 'took': TAOBG
 'out': OUT
 'the': -T
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'carried': KAERD
 'the': -T
 'cloak': KHROEBG
 'home': HOEPL
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'morning': PHORPBG
@@ -356,7 +356,7 @@ The Salad
 'lifted': HREUFTD
 'up': UP
 'his': HEUS
-'pillow,': PEUL/OE KW-BG
+'pillow,': PEUL/OE/KW-BG
 'and': SKP
 'there': THR
 'lay': HRAEU
@@ -365,19 +365,19 @@ The Salad
 'of': -F
 'gold': TKPWOELD
 'glittering': TKPWHREUT/ERG
-'underneath;': UPBD/TPHAO*ET STPH*FPLT
+'underneath;': UPBD/TPHAO*ET/STPH*FPLT
 'the': -T
 'same': SAEUPL
 'happened': HAPD
 'next': TPHEGT
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'indeed': TPHAOEPBD
 'every': EF
 'day': TKAEU
 'when': WHEPB
 'he': HE
-'arose.': A/ROES TP-PL
+'arose.': A/ROES/TP-PL
 'He': KPA/HE
 'heaped': HAOEPD
 'up': UP
@@ -385,14 +385,14 @@ The Salad
 'great': TKPWRAET
 'deal': TKAOEL
 'of': -F
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''Of': AE KPA/-F
+'himself,': HEUPLS/KW-BG
+''Of': AE/KPA/-F
 'what': WHA
 'use': AOUS
 'is': S
@@ -404,7 +404,7 @@ The Salad
 'I': EU
 'am': APL
 'at': AT
-'home?': HOEPL H-F
+'home?': HOEPL/H-F
 'I': EU
 'will': HR
 'go': TKPW
@@ -415,14 +415,14 @@ The Salad
 'and': SKP
 'look': HRAOBG
 'about': PW
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
 'leave': HREF
 'of': -F
 'his': HEUS
-'friends,': TPREPBDZ KW-BG
+'friends,': TPREPBDZ/KW-BG
 'and': SKP
 'hung': HUPBG
 'his': HEUS
@@ -431,11 +431,11 @@ The Salad
 'bow': PWOE
 'about': PW
 'his': HEUS
-'neck,': TPHEBG KW-BG
+'neck,': TPHEBG/KW-BG
 'and': SKP
 'went': WEPBT
 'his': HEUS
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'It': KPA/T
 'so': SO
 'happened': HAPD
@@ -448,7 +448,7 @@ The Salad
 'through': THRU
 'a': AEU
 'thick': THEUBG
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'at': AT
 'the': -T
 'end': EPBD
@@ -461,7 +461,7 @@ The Salad
 'in': TPH
 'a': AEU
 'green': TKPWRAOEPB
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'and': SKP
 'at': AT
 'one': WUPB
@@ -483,21 +483,21 @@ The Salad
 'side': SAOEUD
 'looking': HRAOG
 'about': PW
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'old': OLD
 'woman': WOPL
 'was': WAS
 'a': AEU
-'witch,': WEUFP KW-BG
+'witch,': WEUFP/KW-BG
 'and': SKP
 'said': SED
 'to': TO
 'the': -T
 'young': KWRUPBG
-'lady,': HRA*ED KW-BG
-''There': AE KPA/THR
+'lady,': HRA*ED/KW-BG
+''There': AE/KPA/THR
 'is': S
 'a': AEU
 'young': KWRUPBG
@@ -511,17 +511,17 @@ The Salad
 'carries': KAERS
 'a': AEU
 'wonderful': WUFL
-'prize;': PRAOEUZ STPH*FPLT
+'prize;': PRAOEUZ/STPH*FPLT
 'we': WE
 'must': PHUFT
 'get': TKPWET
 'it': T
 'away': WA*EU
 'from': TPR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'my': PHEU
 'dear': TKAER
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'for': TPOR
 'it': T
 'is': S
@@ -531,11 +531,11 @@ The Salad
 'us': US
 'than': THAPB
 'for': TPOR
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'has': HAS
 'a': AEU
-'bird's': PWEURD AES
+'bird's': PWEURD/AES
 'heart': HART
 'that': THA
 'brings': PWREUS
@@ -547,7 +547,7 @@ The Salad
 'his': HEUS
 'pillow': PEUL/OE
 'every': EF
-'morning.'': PHORPBG TP-PL AE
+'morning.'': PHORPBG/TP-PL/AE
 'Meantime': KPA/PHAOEPB/TAO*EUPL
 'the': -T
 'huntsman': HUPBTS/PHA*PB
@@ -557,12 +557,12 @@ The Salad
 'looked': HRAOBGD
 'at': AT
 'the': -T
-'lady,': HRA*ED KW-BG
+'lady,': HRA*ED/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'himself,': HEUPLS KW-BG
-''I': AE EU
+'himself,': HEUPLS/KW-BG
+''I': AE/EU
 'have': SR
 'been': PW-PB
 'travelling': TRAFL/HREUPBG
@@ -579,7 +579,7 @@ The Salad
 'castle': KAFL
 'and': SKP
 'rest': REFT
-'myself,': PHAO*EUS KW-BG
+'myself,': PHAO*EUS/KW-BG
 'for': TPOR
 'I': EU
 'have': SR
@@ -590,12 +590,12 @@ The Salad
 'for': TPOR
 'anything': TPHEUG
 'I': EU
-'want';': WAPBT AE STPH*FPLT
+'want';': WAPBT/AE/STPH*FPLT
 'but': PWUT
 'the': -T
 'real': RAEL
 'reason': R-PB
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'that': THA
 'he': HE
 'wanted': WAPBTD
@@ -605,17 +605,17 @@ The Salad
 'of': -F
 'the': -T
 'beautiful': PWAOUFL
-'lady.': HRA*ED TP-PL
+'lady.': HRA*ED/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'was': WAS
 'welcomed': W-BGD
-'kindly;': KAOEUPBD/HREU STPH*FPLT
+'kindly;': KAOEUPBD/HREU/STPH*FPLT
 'and': SKP
 'it': T
 'was': WAS
@@ -639,33 +639,33 @@ The Salad
 'at': AT
 'the': -T
 'lady's': HRAEUD/KWREU/AES
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'doing': TK*G
 'everything': EFRG
 'that': THA
 'she': SHE
-'wished.': WEURBD TP-PL
+'wished.': WEURBD/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'old': OLD
 'woman': WOPL
-'said,': SED KW-BG
-''Now': AE KPA/TPHOU
+'said,': SED/KW-BG
+''Now': AE/KPA/TPHOU
 'is': S
 'the': -T
 'time': TAOEUPL
 'for': TPOR
 'getting': TKPWEGT
 'the': -T
-'bird's': PWEURD AES
-'heart.'': HART TP-PL AE
+'bird's': PWEURD/AES
+'heart.'': HART/TP-PL/AE
 'So': KPA/SO
 'the': -T
 'lady': HRA*ED
 'stole': STOEL
 'it': T
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'he': HE
 'never': TPHEFR
@@ -675,7 +675,7 @@ The Salad
 'gold': TKPWOELD
 'under': TPH-PB
 'his': HEUS
-'pillow,': PEUL/OE KW-BG
+'pillow,': PEUL/OE/KW-BG
 'for': TPOR
 'it': T
 'lay': HRAEU
@@ -683,7 +683,7 @@ The Salad
 'under': TPH-PB
 'the': -T
 'young': KWRUPBG
-'lady's,': HRA*ED AE S* KW-BG
+'lady's,': HRA*ED/AE/S*/KW-BG
 'and': SKP
 'the': -T
 'old': OLD
@@ -692,7 +692,7 @@ The Salad
 'it': T
 'away': WA*EU
 'every': EF
-'morning;': PHORPBG STPH*FPLT
+'morning;': PHORPBG/STPH*FPLT
 'but': PWUT
 'he': HE
 'was': WAS
@@ -705,53 +705,53 @@ The Salad
 'never': TPHEFR
 'missed': PHEUFD
 'his': HEUS
-'prize.': PRAOEUZ TP-PL
-''Well,'': AE KPA/WEL KW-BG AE
+'prize.': PRAOEUZ/TP-PL
+''Well,'': AE/KPA/WEL/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'witch,': WEUFP KW-BG
-''we': AE WE
+'witch,': WEUFP/KW-BG
+''we': AE/WE
 'have': SR
 'got': TKPWOT
 'the': -T
-'bird's': PWEURD AES
-'heart,': HART KW-BG
+'bird's': PWEURD/AES
+'heart,': HART/KW-BG
 'but': PWUT
 'not': TPHOT
 'the': -T
-'wishing-cloak': WEURBG H-PB KHROEBG
-'yet,': KWRET KW-BG
+'wishing-cloak': WEURBG/H-PB/KHROEBG
+'yet,': KWRET/KW-BG
 'and': SKP
 'that': THA
 'we': WE
 'must': PHUFT
 'also': HR-S
-'get.'': TKPWET TP-PL AE
-''Let': AE KPA/HRET
+'get.'': TKPWET/TP-PL/AE
+''Let': AE/KPA/HRET
 'us': US
 'leave': HREF
 'him': HEUPL
-'that,'': THA KW-BG AE
+'that,'': THA/KW-BG/AE
 'said': SED
 'the': -T
 'young': KWRUPBG
-'lady;': HRA*ED STPH*FPLT
-''he': AE HE
+'lady;': HRA*ED/STPH*FPLT
+''he': AE/HE
 'has': HAS
 'already': HR-R
 'lost': HRO*S
 'his': HEUS
-'wealth.'': W*ELT TP-PL AE
+'wealth.'': W*ELT/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'witch': WEUFP
 'was': WAS
 'very': SRE
-'angry,': APBG/REU KW-BG
+'angry,': APBG/REU/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Such': AE KPA/SUFP
+'said,': SED/KW-BG
+''Such': AE/KPA/SUFP
 'a': AEU
 'cloak': KHROEBG
 'is': S
@@ -760,14 +760,14 @@ The Salad
 'rare': RAEUR
 'and': SKP
 'wonderful': WUFL
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'and': SKP
 'I': EU
 'must': PHUFT
 'and': SKP
 'will': HR
 'have': SR
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'So': KPA/SO
 'she': SHE
 'did': TK
@@ -776,13 +776,13 @@ The Salad
 'old': OLD
 'woman': WOPL
 'told': TOLD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'set': SET
 'herself': H*ERS
 'at': AT
 'the': -T
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'about': PW
@@ -791,22 +791,22 @@ The Salad
 'and': SKP
 'seemed': SAOEPLD
 'very': SRE
-'sorrowful;': SOR/ROEFL STPH*FPLT
+'sorrowful;': SOR/ROEFL/STPH*FPLT
 'then': THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
-'said,': SED KW-BG
-''What': AE KPA/WHA
+'said,': SED/KW-BG
+''What': AE/KPA/WHA
 'makes': PHAEUBGS
 'you': U
 'so': SO
-'sad?'': SAD H-F AE
-''Alas!': AE KPA/A/HRAS SKHRAPL
+'sad?'': SAD/H-F/AE
+''Alas!': AE/KPA/A/HRAS/SKHRAPL
 'dear': TKAER
-'sir,'': SEUR KW-BG AE
+'sir,'': SEUR/KW-BG/AE
 'said': SED
-'she,': SHE KW-BG
-''yonder': AE KWROPBD/ER
+'she,': SHE/KW-BG
+''yonder': AE/KWROPBD/ER
 'lies': HRAO*EUS
 'the': -T
 'granite': TKPWRAPB/EUT
@@ -816,7 +816,7 @@ The Salad
 'the': -T
 'costly': KOFT/HREU
 'diamonds': TKAOEUPLDZ
-'grow,': TKPWROE KW-BG
+'grow,': TKPWROE/KW-BG
 'and': SKP
 'I': EU
 'want': WAPBT
@@ -824,7 +824,7 @@ The Salad
 'much': PHUFP
 'to': TO
 'go': TKPW
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'that': THA
 'whenever': WHEFR
 'I': EU
@@ -835,42 +835,42 @@ The Salad
 'cannot': SK-PBT
 'help': HEP
 'being': -BG
-'sorrowful,': SOR/ROEFL KW-BG
+'sorrowful,': SOR/ROEFL/KW-BG
 'for': TPOR
 'who': WHO
 'can': K
 'reach': RAOEFP
-'it?': T H-F
+'it?': T/H-F
 'only': OEPBL
 'the': -T
 'birds': PWEURDZ
 'and': SKP
 'the': -T
-'flies--man': TPHRAOEUS H-PB H-PB PHAPB
-'cannot.'': SK-PBT TP-PL AE
-''If': AE KPA/TP
+'flies--man': TPHRAOEUS/H-PB/H-PB/PHAPB
+'cannot.'': SK-PBT/TP-PL/AE
+''If': AE/KPA/TP
 'that's': THATS
 'all': AUL
 'your': KWROUR
-'grief,'': TKPWRAOEF KW-BG AE
+'grief,'': TKPWRAOEF/KW-BG/AE
 'said': SED
 'the': -T
-'huntsman,': HUPBTS/PHA*PB KW-BG
-''I'll': AE EU AE HR*/HR*
+'huntsman,': HUPBTS/PHA*PB/KW-BG
+''I'll': AE/EU/AE/HR*/HR*
 'take': TAEUBG
 'you': U
 'there': THR
 'with': W
 'all': AUL
 'my': PHEU
-'heart';': HART AE STPH*FPLT
+'heart';': HART/AE/STPH*FPLT
 'so': SO
 'he': HE
 'drew': TKRAOU
 'her': HER
 'under': TPH-PB
 'his': HEUS
-'cloak,': KHROEBG KW-BG
+'cloak,': KHROEBG/KW-BG
 'and': SKP
 'the': -T
 'moment': PHOEPLT
@@ -885,7 +885,7 @@ The Salad
 'they': THE
 'were': WR
 'both': PWO*T
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'The': KPA/-T
 'diamonds': TKAOEUPLDZ
 'glittered': TKPWHREUT/ERD
@@ -904,7 +904,7 @@ The Salad
 'picked': PEUBGD
 'up': UP
 'the': -T
-'finest.': TPAOEUPB/EFT TP-PL
+'finest.': TPAOEUPB/EFT/TP-PL
 'But': KPA/PWUT
 'the': -T
 'old': OLD
@@ -915,15 +915,15 @@ The Salad
 'sleep': SHRAOEP
 'come': KOPL
 'upon': POPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'said': SED
 'to': TO
 'the': -T
 'young': KWRUPBG
-'lady,': HRA*ED KW-BG
-''Let': AE KPA/HRET
+'lady,': HRA*ED/KW-BG
+''Let': AE/KPA/HRET
 'us': US
 'sit': SEUT
 'down': TKOUPB
@@ -931,7 +931,7 @@ The Salad
 'rest': REFT
 'ourselves': O*URSZ
 'a': AEU
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'I': EU
 'am': APL
 'so': SO
@@ -941,11 +941,11 @@ The Salad
 'cannot': SK-PBT
 'stand': STAPBD
 'any': TPHEU
-'longer.'': HRORPBG TP-PL AE
+'longer.'': HRORPBG/TP-PL/AE
 'So': KPA/SO
 'they': THE
 'sat': SAT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'he': HE
 'laid': HRAEUD
@@ -956,7 +956,7 @@ The Salad
 'lap': HRAP
 'and': SKP
 'fell': TPEL
-'asleep;': A/SHRAOEP STPH*FPLT
+'asleep;': A/SHRAOEP/STPH*FPLT
 'and': SKP
 'whilst': WHAOEULS
 'he': HE
@@ -969,21 +969,21 @@ The Salad
 'cloak': KHROEBG
 'from': TPR
 'his': HEUS
-'shoulders,': SHOURLDZ KW-BG
+'shoulders,': SHOURLDZ/KW-BG
 'hung': HUPBG
 'it': T
 'on': OPB
 'her': HER
-'own,': OEPB KW-BG
+'own,': OEPB/KW-BG
 'picked': PEUBGD
 'up': UP
 'the': -T
-'diamonds,': TKAOEUPLDZ KW-BG
+'diamonds,': TKAOEUPLDZ/KW-BG
 'and': SKP
 'wished': WEURBD
 'herself': H*ERS
 'home': HOEPL
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'awoke': A/WOEBG
@@ -994,7 +994,7 @@ The Salad
 'lady': HRA*ED
 'had': H
 'tricked': TREUBGD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'left': HREFT
 'him': HEUPL
@@ -1002,17 +1002,17 @@ The Salad
 'on': OPB
 'the': -T
 'wild': WAOEULD
-'rock,': ROBG KW-BG
+'rock,': ROBG/KW-BG
 'he': HE
-'said,': SED KW-BG
-''Alas!': AE KPA/A/HRAS SKHRAPL
+'said,': SED/KW-BG
+''Alas!': AE/KPA/A/HRAS/SKHRAPL
 'what': WHA
 'roguery': ROEG/REU
 'there': THR
 'is': S
 'in': TPH
 'the': -T
-'world!'': WORLD SKHRAPL AE
+'world!'': WORLD/SKHRAPL/AE
 'and': SKP
 'there': THR
 'he': HE
@@ -1021,12 +1021,12 @@ The Salad
 'great': TKPWRAET
 'grief': TKPWRAOEF
 'and': SKP
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'not': TPHOT
 'knowing': TPHOEG
 'what': WHA
 'to': TO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'Now': KPA/TPHOU
 'this': TH
 'rock': ROBG
@@ -1037,7 +1037,7 @@ The Salad
 'who': WHO
 'lived': HREUFD
 'upon': POPB
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'as': AS
 'he': HE
@@ -1046,12 +1046,12 @@ The Salad
 'of': -F
 'them': THEPL
 'striding': STRAOEUD/-G
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''I': AE EU
+'himself,': HEUPLS/KW-BG
+''I': AE/EU
 'can': K
 'only': OEPBL
 'save': SAF
@@ -1060,7 +1060,7 @@ The Salad
 'feigning': TPAEUPBG
 'to': TO
 'be': -B
-'asleep';': A/SHRAOEP AE STPH*FPLT
+'asleep';': A/SHRAOEP/AE/STPH*FPLT
 'so': SO
 'he': HE
 'laid': HRAEUD
@@ -1073,24 +1073,24 @@ The Salad
 'in': TPH
 'a': AEU
 'sound': SOUPBD
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'giants': SKWRAOEUPBT/-S
 'came': KAEUPL
 'up': UP
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'the': -T
 'first': TPEUFRT
 'pushed': PURBD
 'him': HEUPL
 'with': W
 'his': HEUS
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''What': AE KPA/WHA
+'said,': SED/KW-BG
+''What': AE/KPA/WHA
 'worm': WORPL
 'is': S
 'this': TH
@@ -1098,34 +1098,34 @@ The Salad
 'lies': HRAO*EUS
 'here': HAOER
 'curled': KURLD
-'up?'': UP H-F AE
-''Tread': AE KPA/TRED
+'up?'': UP/H-F/AE
+''Tread': AE/KPA/TRED
 'upon': POPB
 'him': HEUPL
 'and': SKP
 'kill': KEUL
-'him,'': HEUPL KW-BG AE
+'him,'': HEUPL/KW-BG/AE
 'said': SED
 'the': -T
-'second.': SEBGD TP-PL
-''It's': AE KPA/T AES
+'second.': SEBGD/TP-PL
+''It's': AE/KPA/T/AES
 'not': TPHOT
 'worth': WO*RT
 'the': -T
-'trouble,'': TRUBL KW-BG AE
+'trouble,'': TRUBL/KW-BG/AE
 'said': SED
 'the': -T
-'third;': THEURD STPH*FPLT
-''let': AE HRET
+'third;': THEURD/STPH*FPLT
+''let': AE/HRET
 'him': HEUPL
-'live,': HREUF KW-BG
+'live,': HREUF/KW-BG
 'he'll': *EL
 'go': TKPW
 'climbing': KHRAOEUPL/-G
 'higher': HAOEUR
 'up': UP
 'the': -T
-'mountain,': PHOUPB/TAEUPB KW-BG
+'mountain,': PHOUPB/TAEUPB/KW-BG
 'and': SKP
 'some': SOPL
 'cloud': KHROUD
@@ -1135,11 +1135,11 @@ The Salad
 'and': SKP
 'carry': KAER
 'him': HEUPL
-'away.'': WA*EU TP-PL AE
+'away.'': WA*EU/TP-PL/AE
 'And': AFPBD
 'they': THE
 'passed': PAFD
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'huntsman': HUPBTS/PHA*PB
@@ -1147,14 +1147,14 @@ The Salad
 'heard': HAERD
 'all': AUL
 'they': THE
-'said;': SED STPH*FPLT
+'said;': SED/STPH*FPLT
 'and': SKP
 'as': AS
 'soon': SAOPB
 'as': AS
 'they': THE
 'were': WR
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'he': HE
 'climbed': KHRAOEUPLD
 'to': TO
@@ -1162,7 +1162,7 @@ The Salad
 'top': TOP
 'of': -F
 'the': -T
-'mountain,': PHOUPB/TAEUPB KW-BG
+'mountain,': PHOUPB/TAEUPB/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -1177,7 +1177,7 @@ The Salad
 'came': KAEUPL
 'rolling': ROLG
 'around': ARPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'caught': KAUT
 'him': HEUPL
@@ -1190,13 +1190,13 @@ The Salad
 'along': HRAOPBG
 'for': TPOR
 'some': SOPL
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'till': TEUL
 'it': T
 'settled': SELTD
 'in': TPH
 'a': AEU
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'and': SKP
 'he': HE
 'fell': TPEL
@@ -1209,21 +1209,21 @@ The Salad
 'the': -T
 'greens': TKPWRAOEPBS
 'and': SKP
-'cabbages.': KAB/APBLG/-S TP-PL
+'cabbages.': KAB/APBLG/-S/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'looked': HRAOBGD
 'around': ARPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'wish': WEURB
 'I': EU
 'had': H
 'something': S-G
 'to': TO
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'if': TP
 'not': TPHOT
 'I': EU
@@ -1232,7 +1232,7 @@ The Salad
 'worse': WORS
 'off': OF
 'than': THAPB
-'before;': PW-FR STPH*FPLT
+'before;': PW-FR/STPH*FPLT
 'for': TPOR
 'here': HAOER
 'I': EU
@@ -1240,31 +1240,31 @@ The Salad
 'neither': TPHAOERT
 'apples': APLS
 'nor': TPH-R
-'pears,': PAERS KW-BG
+'pears,': PAERS/KW-BG
 'nor': TPH-R
 'any': TPHEU
 'kind': KEUPBD
 'of': -F
-'fruits,': TPRAOUTS KW-BG
+'fruits,': TPRAOUTS/KW-BG
 'nothing': TPHOG
 'but': PWUT
-'vegetables.'': SREBLS TP-PL AE
+'vegetables.'': SREBLS/TP-PL/AE
 'At': KPA/AT
 'last': HRAFT
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''I': AE EU
+'himself,': HEUPLS/KW-BG
+''I': AE/EU
 'can': K
 'eat': AOET
-'salad,': SALD KW-BG
+'salad,': SALD/KW-BG
 'it': T
 'will': HR
 'refresh': RERB
 'and': SKP
 'strengthen': STREPBG/THEPB
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'picked': PEUBGD
@@ -1275,7 +1275,7 @@ The Salad
 'and': SKP
 'ate': AEUT
 'of': -F
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'but': PWUT
 'scarcely': SKAEURS/HREU
 'had': H
@@ -1288,7 +1288,7 @@ The Salad
 'felt': TPELT
 'himself': HEUPLS
 'quite': KWAOEUT
-'changed,': KHAEUPBGD KW-BG
+'changed,': KHAEUPBGD/KW-BG
 'and': SKP
 'saw': SAU
 'with': W
@@ -1299,19 +1299,19 @@ The Salad
 'turned': TURPBD
 'into': TPHAO
 'an': APB
-'ass.': A*S TP-PL
-'However,': KPA/HOUF KW-BG
+'ass.': A*S/TP-PL
+'However,': KPA/HOUF/KW-BG
 'he': HE
 'still': STEUL
 'felt': TPELT
 'very': SRE
-'hungry,': HUPBG/REU KW-BG
+'hungry,': HUPBG/REU/KW-BG
 'and': SKP
 'the': -T
 'salad': SALD
 'tasted': TAEUFT/-D
 'very': SRE
-'nice;': TPHAOEUS STPH*FPLT
+'nice;': TPHAOEUS/STPH*FPLT
 'so': SO
 'he': HE
 'ate': AEUT
@@ -1323,7 +1323,7 @@ The Salad
 'another': TPHOER
 'kind': KEUPBD
 'of': -F
-'salad,': SALD KW-BG
+'salad,': SALD/KW-BG
 'and': SKP
 'scarcely': SKAEURS/HREU
 'had': H
@@ -1337,7 +1337,7 @@ The Salad
 'change': KHAEUPBG
 'come': KOPL
 'over': OEFR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'soon': SAOPB
 'saw': SAU
@@ -1352,7 +1352,7 @@ The Salad
 'his': HEUS
 'old': OLD
 'shape': SHAEUP
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'laid': HRAEUD
@@ -1365,7 +1365,7 @@ The Salad
 'little': HREUL
 'of': -F
 'his': HEUS
-'weariness;': WAOER/REU/-PBS STPH*FPLT
+'weariness;': WAOER/REU/-PBS/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -1385,19 +1385,19 @@ The Salad
 'and': SKP
 'the': -T
 'bad': PWAD
-'salad,': SALD KW-BG
+'salad,': SALD/KW-BG
 'and': SKP
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''This': AE KPA/TH
+'himself,': HEUPLS/KW-BG
+''This': AE/KPA/TH
 'will': HR
 'help': HEP
 'me': PHE
 'to': TO
 'my': PHEU
 'fortune': TP-RPB
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'enable': TPHAEUBL
 'me': PHE
@@ -1408,7 +1408,7 @@ The Salad
 'folks': TPOBG
 'for': TPOR
 'their': THAEUR
-'treachery.'': TREFP/REU TP-PL AE
+'treachery.'': TREFP/REU/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'went': WEPBT
@@ -1421,7 +1421,7 @@ The Salad
 'castle': KAFL
 'of': -F
 'his': HEUS
-'friends;': TPREPBDZ STPH*FPLT
+'friends;': TPREPBDZ/STPH*FPLT
 'and': SKP
 'after': AF
 'wandering': WAPBGD
@@ -1432,7 +1432,7 @@ The Salad
 'he': HE
 'luckily': HRULG
 'found': TPOUPBD
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'stained': STAEUPBD
@@ -1440,7 +1440,7 @@ The Salad
 'face': TPAEUS
 'all': AUL
 'over': OEFR
-'brown,': PWROUPB KW-BG
+'brown,': PWROUPB/KW-BG
 'so': SO
 'that': THA
 'even': AOEPB
@@ -1450,7 +1450,7 @@ The Salad
 'not': TPHOT
 'have': SR
 'known': TPHOEPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'went': WEPBT
 'into': TPHAO
@@ -1460,36 +1460,36 @@ The Salad
 'asked': SK-D
 'for': TPOR
 'a': AEU
-'lodging;': HROPBLG/-G STPH*FPLT
-''I': AE EU
+'lodging;': HROPBLG/-G/STPH*FPLT
+''I': AE/EU
 'am': APL
 'so': SO
-'tired,'': TAOEURD KW-BG AE
+'tired,'': TAOEURD/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''that': AE THA
+'he,': HE/KW-BG
+''that': AE/THA
 'I': EU
 'can': K
 'go': TKPW
 'no': TPHO
-'farther.'': TPA*RT TP-PL AE
-''Countryman,'': AE KPA/KREU/PHA*PB KW-BG AE
+'farther.'': TPA*RT/TP-PL/AE
+''Countryman,'': AE/KPA/KREU/PHA*PB/KW-BG/AE
 'said': SED
 'the': -T
-'witch,': WEUFP KW-BG
-''who': AE WHO
+'witch,': WEUFP/KW-BG
+''who': AE/WHO
 'are': R
-'you?': U H-F
+'you?': U/H-F
 'and': SKP
 'what': WHA
 'is': S
 'your': KWROUR
-'business?'': PWEUS H-F AE
-''I': AE EU
-'am,'': APL KW-BG AE
+'business?'': PWEUS/H-F/AE
+''I': AE/EU
+'am,'': APL/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''a': AE AEU
+'he,': HE/KW-BG
+''a': AE/AEU
 'messenger': PHAEPBG
 'sent': SEPBT
 'by': PWEU
@@ -1504,7 +1504,7 @@ The Salad
 'grows': TKPWRO*ES
 'under': TPH-PB
 'the': -T
-'sun.': SUPB TP-PL
+'sun.': SUPB/TP-PL
 'I': EU
 'have': SR
 'been': PW-PB
@@ -1512,13 +1512,13 @@ The Salad
 'enough': TPHUF
 'to': TO
 'find': TPAOEUPBD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'have': SR
 'brought': PWRAUT
 'it': T
 'with': W
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'but': PWUT
 'the': -T
 'heat': HAOET
@@ -1531,7 +1531,7 @@ The Salad
 'it': T
 'begins': TKPWEUPBS
 'to': TO
-'wither,': W*EUT/*ER KW-BG
+'wither,': W*EUT/*ER/KW-BG
 'and': SKP
 'I': EU
 'don't': TKOEPBT
@@ -1541,7 +1541,7 @@ The Salad
 'can': K
 'carry': KAER
 'it': T
-'farther.'': TPA*RT TP-PL AE
+'farther.'': TPA*RT/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'witch': WEUFP
@@ -1553,39 +1553,39 @@ The Salad
 'of': -F
 'his': HEUS
 'beautiful': PWAOUFL
-'salad,': SALD KW-BG
+'salad,': SALD/KW-BG
 'they': THE
 'longed': HROPBG/-D
 'to': TO
 'taste': TAEUFT
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Dear': AE KPA/TKAER
-'countryman,': KREU/PHA*PB KW-BG
+'said,': SED/KW-BG
+''Dear': AE/KPA/TKAER
+'countryman,': KREU/PHA*PB/KW-BG
 'let': HRET
 'us': US
 'just': SKWRUFT
 'taste': TAEUFT
-'it.'': T TP-PL AE
-''To': AE KPA/TO
+'it.'': T/TP-PL/AE
+''To': AE/KPA/TO
 'be': -B
-'sure,'': SHUR KW-BG AE
+'sure,'': SHUR/KW-BG/AE
 'answered': AEPBS/-D
-'he;': HE STPH*FPLT
-''I': AE EU
+'he;': HE/STPH*FPLT
+''I': AE/EU
 'have': SR
 'two': TWO
 'heads': HEDZ
 'of': -F
 'it': T
 'with': W
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'will': HR
 'give': TKPWEUF
 'you': U
-'one';': WUPB AE STPH*FPLT
+'one';': WUPB/AE/STPH*FPLT
 'so': SO
 'he': HE
 'opened': OEPD
@@ -1595,7 +1595,7 @@ The Salad
 'gave': TKPWAEUF
 'them': THEPL
 'the': -T
-'bad.': PWAD TP-PL
+'bad.': PWAD/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'witch': WEUFP
@@ -1607,7 +1607,7 @@ The Salad
 'kitchen': K-FP
 'to': TO
 'be': -B
-'dressed;': TKREFD STPH*FPLT
+'dressed;': TKREFD/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'it': T
@@ -1621,7 +1621,7 @@ The Salad
 'it': T
 'was': WAS
 'carried': KAERD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'but': PWUT
 'took': TAOBG
 'a': AEU
@@ -1633,7 +1633,7 @@ The Salad
 'them': THEPL
 'in': TPH
 'her': HER
-'mouth,': PHO*UT KW-BG
+'mouth,': PHO*UT/KW-BG
 'and': SKP
 'scarcely': SKAEURS/HREU
 'were': WR
@@ -1657,25 +1657,25 @@ The Salad
 'form': TPORPL
 'of': -F
 'an': APB
-'ass.': A*S TP-PL
+'ass.': A*S/TP-PL
 'Now': KPA/TPHOU
 'the': -T
-'servant-maid': SEFRB/APBT H-PB PHAEUD
+'servant-maid': SEFRB/APBT/H-PB/PHAEUD
 'came': KAEUPL
 'into': TPHAO
 'the': -T
-'kitchen,': K-FP KW-BG
+'kitchen,': K-FP/KW-BG
 'and': SKP
 'seeing': SAOEG
 'the': -T
 'salad': SALD
-'ready,': R-D KW-BG
+'ready,': R-D/KW-BG
 'was': WAS
 'going': TKPW-G
 'to': TO
 'carry': KAER
 'it': T
-'up;': UP STPH*FPLT
+'up;': UP/STPH*FPLT
 'but': PWUT
 'on': OPB
 'the': -T
@@ -1693,11 +1693,11 @@ The Salad
 'old': OLD
 'woman': WOPL
 'had': H
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'ate': AEUT
 'some': SOPL
-'leaves;': HREFS STPH*FPLT
+'leaves;': HREFS/STPH*FPLT
 'so': SO
 'she': SHE
 'also': HR-S
@@ -1710,7 +1710,7 @@ The Salad
 'ran': RAPB
 'after': AF
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'letting': HREGT
 'the': -T
 'dish': TKEURB
@@ -1720,7 +1720,7 @@ The Salad
 'fall': TPAUL
 'on': OPB
 'the': -T
-'ground.': TKPWROUPBD TP-PL
+'ground.': TKPWROUPBD/TP-PL
 'The': KPA/-T
 'messenger': PHAEPBG
 'sat': SAT
@@ -1731,7 +1731,7 @@ The Salad
 'the': -T
 'beautiful': PWAOUFL
 'young': KWRUPBG
-'lady,': HRA*ED KW-BG
+'lady,': HRA*ED/KW-BG
 'and': SKP
 'as': AS
 'nobody': TPHOEB
@@ -1744,34 +1744,34 @@ The Salad
 'longed': HROPBG/-D
 'to': TO
 'taste': TAEUFT
-'it,': T KW-BG
+'it,': T/KW-BG
 'she': SHE
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'don't': TKOEPBT
 'know': TPHOE
 'where': W-R
 'the': -T
 'salad': SALD
 'can': K
-'be.'': -B TP-PL AE
+'be.'': -B/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'thought': THAUT
 'something': S-G
 'must': PHUFT
 'have': SR
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'will': HR
 'go': TKPW
 'into': TPHAO
 'the': -T
 'kitchen': K-FP
 'and': SKP
-'see.'': SAOE TP-PL AE
+'see.'': SAOE/TP-PL/AE
 'And': AFPBD
 'as': AS
 'he': HE
@@ -1784,24 +1784,24 @@ The Salad
 'the': -T
 'court': KORT
 'running': R*UPBG
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'and': SKP
 'the': -T
 'salad': SALD
 'lying': HRAOEUG
 'on': OPB
 'the': -T
-'ground.': TKPWROUPBD TP-PL
-''All': AE KPA/AUL
-'right!'': RAOEUT SKHRAPL AE
+'ground.': TKPWROUPBD/TP-PL
+''All': AE/KPA/AUL
+'right!'': RAOEUT/SKHRAPL/AE
 'said': SED
-'he;': HE STPH*FPLT
-''those': AE THOZ
+'he;': HE/STPH*FPLT
+''those': AE/THOZ
 'two': TWO
 'have': SR
 'had': H
 'their': THAEUR
-'share.'': SHAEUR TP-PL AE
+'share.'': SHAEUR/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
@@ -1810,7 +1810,7 @@ The Salad
 'rest': REFT
 'of': -F
 'the': -T
-'leaves,': HREFS KW-BG
+'leaves,': HREFS/KW-BG
 'laid': HRAEUD
 'them': THEPL
 'on': OPB
@@ -1822,9 +1822,9 @@ The Salad
 'to': TO
 'the': -T
 'young': KWRUPBG
-'lady,': HRA*ED KW-BG
-'saying,': SAEUG KW-BG
-''I': AE EU
+'lady,': HRA*ED/KW-BG
+'saying,': SAEUG/KW-BG
+''I': AE/EU
 'bring': PWREU
 'you': U
 'the': -T
@@ -1836,12 +1836,12 @@ The Salad
 'not': TPHOT
 'wait': WAEUT
 'any': TPHEU
-'longer.'': HRORPBG TP-PL AE
+'longer.'': HRORPBG/TP-PL/AE
 'So': KPA/SO
 'she': SHE
 'ate': AEUT
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'like': HRAOEUBG
 'the': -T
@@ -1852,7 +1852,7 @@ The Salad
 'the': -T
 'court': KORT
 'braying': PWRAEU/-G
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
@@ -1868,17 +1868,17 @@ The Salad
 'they': THE
 'might': PHAOEUT
 'know': TPHOE
-'him.': HEUPL TP-PL
-''Now': AE KPA/TPHOU
+'him.': HEUPL/TP-PL
+''Now': AE/KPA/TPHOU
 'you': U
 'shall': SHAL
 'be': -B
 'paid': PAEUD
 'for': TPOR
 'your': KWROUR
-'roguery,'': ROEG/REU KW-BG AE
+'roguery,'': ROEG/REU/KW-BG/AE
 'said': SED
-'he;': HE STPH*FPLT
+'he;': HE/STPH*FPLT
 'and': SKP
 'tied': TAO*EUD
 'them': THEPL
@@ -1903,64 +1903,64 @@ The Salad
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'window.': WOEUPBD TP-PL
-''What's': AE KPA/WHA AES
+'window.': WOEUPBD/TP-PL
+''What's': AE/KPA/WHA/AES
 'the': -T
-'matter?'': PHAERT H-F AE
+'matter?'': PHAERT/H-F/AE
 'said': SED
 'the': -T
-'miller.': HRO*ER/PHEUL/HRER TP-PL
-''I': AE EU
+'miller.': HRO*ER/PHEUL/HRER/TP-PL
+''I': AE/EU
 'have': SR
 'three': THRAOE
 'tiresome': TAOEUR/SO*PL
 'beasts': PWAOEFT/-S
-'here,'': HAOER KW-BG AE
+'here,'': HAOER/KW-BG/AE
 'said': SED
 'the': -T
-'other;': OER STPH*FPLT
-''if': AE TP
+'other;': OER/STPH*FPLT
+''if': AE/TP
 'you': U
 'will': HR
 'take': TAEUBG
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'give': TKPWEUF
 'them': THEPL
 'food': TPAOD
 'and': SKP
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'treat': TRAOET
 'them': THEPL
 'as': AS
 'I': EU
 'tell': TEL
-'you,': U KW-BG
+'you,': U/KW-BG
 'I': EU
 'will': HR
 'pay': PAEU
 'you': U
 'whatever': WHAF
 'you': U
-'ask.'': SK TP-PL AE
-''With': AE KPA/W
+'ask.'': SK/TP-PL/AE
+''With': AE/KPA/W
 'all': AUL
 'my': PHEU
-'heart,'': HART KW-BG AE
+'heart,'': HART/KW-BG/AE
 'said': SED
 'the': -T
-'miller;': HRO*ER/PHEUL/HRER STPH*FPLT
-''but': AE PWUT
+'miller;': HRO*ER/PHEUL/HRER/STPH*FPLT
+''but': AE/PWUT
 'how': HOU
 'shall': SHAL
 'I': EU
 'treat': TRAOET
-'them?'': THEPL H-F AE
+'them?'': THEPL/H-F/AE
 'Then': KPA/THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
-'said,': SED KW-BG
-''Give': AE KPA/TKPWEUF
+'said,': SED/KW-BG
+''Give': AE/KPA/TKPWEUF
 'the': -T
 'old': OLD
 'one': WUPB
@@ -1971,14 +1971,14 @@ The Salad
 'day': TKAEU
 'and': SKP
 'hay': HA*EU
-'once;': WUPBS STPH*FPLT
+'once;': WUPBS/STPH*FPLT
 'give': TKPWEUF
 'the': -T
 'next': TPHEGT
-'(who': PREPB WHO
+'(who': PREPB/WHO
 'was': WAS
 'the': -T
-'servant-maid)': SEFRB/APBT H-PB PHAEUD PR*EPB
+'servant-maid)': SEFRB/APBT/H-PB/PHAEUD/PR*EPB
 'stripes': STRAOEUPS
 'once': WUPBS
 'a': AEU
@@ -1986,16 +1986,16 @@ The Salad
 'and': SKP
 'hay': HA*EU
 'three': THRAOE
-'times;': TAOEUPLS STPH*FPLT
+'times;': TAOEUPLS/STPH*FPLT
 'and': SKP
 'give': TKPWEUF
 'the': -T
 'youngest': KWRUPBG/EFT
-'(who': PREPB WHO
+'(who': PREPB/WHO
 'was': WAS
 'the': -T
 'beautiful': PWAOUFL
-'lady)': HRA*ED PR*EPB
+'lady)': HRA*ED/PR*EPB
 'hay': HA*EU
 'three': THRAOE
 'times': TAOEUPLS
@@ -2003,7 +2003,7 @@ The Salad
 'day': TKAEU
 'and': SKP
 'no': TPHO
-'stripes':': STRAOEUPS AE STPH-FPLT
+'stripes':': STRAOEUPS/AE/STPH-FPLT
 'for': TPOR
 'he': HE
 'could': KO
@@ -2016,7 +2016,7 @@ The Salad
 'to': TO
 'have': SR
 'her': HER
-'beaten.': PWAET/*EPB TP-PL
+'beaten.': PWAET/*EPB/TP-PL
 'After': KPA/AF
 'this': TH
 'he': HE
@@ -2024,16 +2024,16 @@ The Salad
 'back': PWABG
 'to': TO
 'the': -T
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'where': W-R
 'he': HE
 'found': TPOUPBD
 'everything': EFRG
 'he': HE
-'wanted.': WAPBTD TP-PL
+'wanted.': WAPBTD/TP-PL
 'Some': KPA/SOPL
 'days': TKAEUS
-'after,': AF KW-BG
+'after,': AF/KW-BG
 'the': -T
 'miller': HRO*ER/PHEUL/HRER
 'came': KAEUPL
@@ -2047,16 +2047,16 @@ The Salad
 'old': OLD
 'ass': A*S
 'was': WAS
-'dead;': TKED STPH*FPLT
-''The': AE KPA/-T
+'dead;': TKED/STPH*FPLT
+''The': AE/KPA/-T
 'other': OER
-'two,'': TWO KW-BG AE
+'two,'': TWO/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''are': AE R
+'he,': HE/KW-BG
+''are': AE/R
 'alive': A/HRAOEUF
 'and': SKP
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'but': PWUT
 'are': R
 'so': SO
@@ -2065,12 +2065,12 @@ The Salad
 'they': THE
 'cannot': SK-PBT
 'last': HRAFT
-'long.'': HROPBG TP-PL AE
+'long.'': HROPBG/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'huntsman': HUPBTS/PHA*PB
 'pitied': PEUT/EUD
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'told': TOLD
 'the': -T
@@ -2080,11 +2080,11 @@ The Salad
 'them': THEPL
 'back': PWABG
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'he': HE
 'gave': TKPWAEUF
 'them': THEPL
@@ -2094,7 +2094,7 @@ The Salad
 'good': TKPWAOD
 'salad': SALD
 'to': TO
-'eat.': AOET TP-PL
+'eat.': AOET/TP-PL
 'And': AFPBD
 'the': -T
 'beautiful': PWAOUFL
@@ -2105,12 +2105,12 @@ The Salad
 'her': HER
 'knees': TPHAOEZ
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''O': AE O*P
+'said,': SED/KW-BG
+''O': AE/O*P
 'dearest': TKAER/EFT
-'huntsman!': HUPBTS/PHA*PB SKHRAPL
+'huntsman!': HUPBTS/PHA*PB/SKHRAPL
 'forgive': TPAURG
 'me': PHE
 'all': AUL
@@ -2119,56 +2119,56 @@ The Salad
 'I': EU
 'have': SR
 'done': TKOPB
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'my': PHEU
 'mother': PHOER
 'forced': TPOFRD
 'me': PHE
 'to': TO
-'it,': T KW-BG
+'it,': T/KW-BG
 'it': T
 'was': WAS
 'against': TKPWEPBS
 'my': PHEU
-'will,': HR KW-BG
+'will,': HR/KW-BG
 'for': TPOR
 'I': EU
 'always': AULS
 'loved': HROFD
 'you': U
 'very': SRE
-'much.': PHUFP TP-PL
+'much.': PHUFP/TP-PL
 'Your': KPA/KWROUR
-'wishing-cloak': WEURBG H-PB KHROEBG
+'wishing-cloak': WEURBG/H-PB/KHROEBG
 'hangs': HAPBGS
 'up': UP
 'in': TPH
 'the': -T
-'closet,': KHROFT KW-BG
+'closet,': KHROFT/KW-BG
 'and': SKP
 'as': AS
 'for': TPOR
 'the': -T
-'bird's': PWEURD AES
-'heart,': HART KW-BG
+'bird's': PWEURD/AES
+'heart,': HART/KW-BG
 'I': EU
 'will': HR
 'give': TKPWEUF
 'it': T
 'you': U
-'too.'': TAO TP-PL AE
+'too.'': TAO/TP-PL/AE
 'But': KPA/PWUT
 'he': HE
-'said,': SED KW-BG
-''Keep': AE KPA/KAOEP
-'it,': T KW-BG
+'said,': SED/KW-BG
+''Keep': AE/KPA/KAOEP
+'it,': T/KW-BG
 'it': T
 'will': HR
 'be': -B
 'just': SKWRUFT
 'the': -T
 'same': SAEUPL
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'for': TPOR
 'I': EU
 'mean': PHAOEPB
@@ -2176,11 +2176,11 @@ The Salad
 'make': PHAEUBG
 'you': U
 'my': PHEU
-'wife.'': WAOEUF TP-PL AE
+'wife.'': WAOEUF/TP-PL/AE
 'So': KPA/SO
 'they': THE
 'were': WR
-'married,': PHAERD KW-BG
+'married,': PHAERD/KW-BG
 'and': SKP
 'lived': HREUFD
 'together': TOGT
@@ -2188,4 +2188,4 @@ The Salad
 'happily': HAP/HREU
 'till': TEUL
 'they': THE
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL

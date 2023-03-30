@@ -6,12 +6,12 @@ The Labourer and the Nightingale
 'listening': HR-PBG
 'to': TO
 'a': AEU
-'Nightingale's': KPA/TPHAOEUT/-G/TKPWAEL AES
+'Nightingale's': KPA/TPHAOEUT/-G/TKPWAEL/AES
 'song': SOPBG
 'throughout': THROUT
 'the': -T
 'summer': SAOURPL
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'So': KPA/SO
 'pleased': PHREFD
 'was': WAS
@@ -30,39 +30,39 @@ The Labourer and the Nightingale
 'it': T
 'and': SKP
 'captured': KA*FPD
-'it.': T TP-PL
-'"Now': KR-GS KPA/TPHOU
+'it.': T/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'that': THA
 'I': EU
 'have': SR
 'caught': KAUT
-'thee,"': THAOE KW-BG KR-GS
+'thee,"': THAOE/KW-BG/KR-GS
 'he': HE
-'cried,': KRAOEUD KW-BG
-'"thou': KR-GS THO*U
+'cried,': KRAOEUD/KW-BG
+'"thou': KR-GS/THO*U
 'shalt': SHALT
 'always': AULS
 'sing': SEUPBG
 'to': TO
-'me."': PHE TP-PL KR-GS
-'"We': KR-GS KPA/WE
+'me."': PHE/TP-PL/KR-GS
+'"We': KR-GS/KPA/WE
 'Nightingales': xxx Nightingales
 'never': TPHEFR
 'sing': SEUPBG
 'in': TPH
 'a': AEU
-'cage."': KAEUPBLG TP-PL KR-GS
+'cage."': KAEUPBLG/TP-PL/KR-GS
 'said': SED
 'the': -T
-'bird.': PWEURD TP-PL
-'"Then': KR-GS KPA/THEPB
+'bird.': PWEURD/TP-PL
+'"Then': KR-GS/KPA/THEPB
 'I'll': AOEUL
 'eat': AOET
-'thee."': THAOE TP-PL KR-GS
+'thee."': THAOE/TP-PL/KR-GS
 'said': SED
 'the': -T
-'Labourer.': KPA/HRAEUB/RER/A*U TP-PL
-'"I': KR-GS EU
+'Labourer.': KPA/HRAEUB/RER/A*U/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'always': AULS
 'heard': HAERD
@@ -74,18 +74,18 @@ The Labourer and the Nightingale
 'toast': TOEFT
 'is': S
 'dainty': TKAEUPB/TEU
-'morsel."': PHOR/SEL TP-PL KR-GS
-'"Nay,': KR-GS KPA/TPHAEU KW-BG
+'morsel."': PHOR/SEL/TP-PL/KR-GS
+'"Nay,': KR-GS/KPA/TPHAEU/KW-BG
 'kill': KEUL
 'me': PHE
-'not,"': TPHOT KW-BG KR-GS
+'not,"': TPHOT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Nightingale;': KPA/TPHAOEUT/-G/TKPWAEL STPH*FPLT
-'"but': KR-GS PWUT
+'Nightingale;': KPA/TPHAOEUT/-G/TKPWAEL/STPH*FPLT
+'"but': KR-GS/PWUT
 'let': HRET
 'me': PHE
-'free,': TPRAOE KW-BG
+'free,': TPRAOE/KW-BG
 'and': SKP
 'I'll': AOEUL
 'tell': TEL
@@ -98,12 +98,12 @@ The Labourer and the Nightingale
 'than': THAPB
 'my': PHEU
 'poor': PAOR
-'body."': PWO*ED TP-PL KR-GS
+'body."': PWO*ED/TP-PL/KR-GS
 'The': KPA/-T
 'Labourer': KPA/HRAEUB/RER/A*U
 'let': HRET
 'him': HEUPL
-'loose,': HRAOS KW-BG
+'loose,': HRAOS/KW-BG
 'and': SKP
 'he': HE
 'flew': TPHRAOU
@@ -115,36 +115,36 @@ The Labourer and the Nightingale
 'a': AEU
 'tree': TRAOE
 'and': SKP
-'said:': SED STPH-FPLT
-'"Never': KR-GS KPA/TPHEFR
+'said:': SED/STPH-FPLT
+'"Never': KR-GS/KPA/TPHEFR
 'believe': PWHREF
 'a': AEU
-'captive's': KAPT/EUF AES
-'promise;': PROPLS STPH*FPLT
+'captive's': KAPT/EUF/AES
+'promise;': PROPLS/STPH*FPLT
 'that's': THATS
 'one': WUPB
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'Then': KPA/THEPB
-'again:': TKPWEPB STPH-FPLT
+'again:': TKPWEPB/STPH-FPLT
 'Keep': KPA/KAOEP
 'what': WHA
 'you': U
-'have.': SR TP-PL
+'have.': SR/TP-PL
 'And': AFPBD
 'third': THEURD
 'piece': PAOES
 'of': -F
 'advice': SREUS
-'is:': S STPH-FPLT
+'is:': S/STPH-FPLT
 'Sorrow': KPA/SROE
 'not': TPHOT
 'over': OEFR
 'what': WHA
 'is': S
 'lost': HRO*S
-'forever."': TPOFR TP-PL KR-GS
+'forever."': TPOFR/TP-PL/KR-GS
 'then': THEPB
 'the': -T
-'song-bird': SOPBG H-PB PWEURD
+'song-bird': SOPBG/H-PB/PWEURD
 'flew': TPHRAOU
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL

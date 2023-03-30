@@ -2,19 +2,19 @@ The Old Man and Death
 
 'An': KPA/APB
 'old': OLD
-'labourer,': HRAEUB/RER/A*U KW-BG
+'labourer,': HRAEUB/RER/A*U/KW-BG
 'bent': PWEPBT
 'double': TKUBL
 'with': W
 'age': AEUPBLG
 'and': SKP
-'toil,': TOEUL KW-BG
+'toil,': TOEUL/KW-BG
 'was': WAS
 'gathering': TKPWAERG
 'sticks': STEUBGS
 'in': TPH
 'a': AEU
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE
@@ -30,18 +30,18 @@ The Old Man and Death
 'the': -T
 'bundle': PWUPBLD
 'of': -F
-'sticks,': STEUBGS KW-BG
+'sticks,': STEUBGS/KW-BG
 'and': SKP
 'cried': KRAOEUD
-'out:': OUT STPH-FPLT
-'"I': KR-GS EU
+'out:': OUT/STPH-FPLT
+'"I': KR-GS/EU
 'cannot': SK-PBT
 'bear': PWAER
 'this': TH
 'life': HRAOEUF
 'any': TPHEU
-'longer.': HRORPBG TP-PL
-'Ah,': KPA/HA*E KW-BG
+'longer.': HRORPBG/TP-PL
+'Ah,': KPA/HA*E/KW-BG
 'I': EU
 'wish': WEURB
 'Death': KPA/TK*T
@@ -50,34 +50,34 @@ The Old Man and Death
 'come': KOPL
 'and': SKP
 'take': TAEUBG
-'me!"': PHE SKHRAPL KR-GS
+'me!"': PHE/SKHRAPL/KR-GS
 'As': KPA/AS
 'he': HE
-'spoke,': SPOEBG KW-BG
-'Death,': KPA/TK*T KW-BG
+'spoke,': SPOEBG/KW-BG
+'Death,': KPA/TK*T/KW-BG
 'a': AEU
 'grisly': TKPWREUS/HREU
-'skeleton,': SKEL/TOPB KW-BG
+'skeleton,': SKEL/TOPB/KW-BG
 'appeared': A/PAOERD
 'and': SKP
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-'"What': KR-GS KPA/WHA
+'him:': HEUPL/STPH-FPLT
+'"What': KR-GS/KPA/WHA
 'wouldst': WO/S*/T*
-'thou,': THO*U KW-BG
-'Mortal?': KPA/PHOR/TAL H-F
+'thou,': THO*U/KW-BG
+'Mortal?': KPA/PHOR/TAL/H-F
 'I': EU
 'heard': HAERD
 'thee': THAOE
 'call': KAUL
-'me."': PHE TP-PL KR-GS
-'"Please,': KR-GS KPA/PHRES KW-BG
-'sir,"': SEUR KW-BG KR-GS
+'me."': PHE/TP-PL/KR-GS
+'"Please,': KR-GS/KPA/PHRES/KW-BG
+'sir,"': SEUR/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'woodcutter,': WAOD/KUT/*ER KW-BG
-'"would': KR-GS WO
+'woodcutter,': WAOD/KUT/*ER/KW-BG
+'"would': KR-GS/WO
 'you': U
 'kindly': KAOEUPBD/HREU
 'help': HEP
@@ -91,7 +91,7 @@ The Old Man and Death
 'on': OPB
 'to': TO
 'my': PHEU
-'shoulder?"': SHOURLD H-F KR-GS
+'shoulder?"': SHOURLD/H-F/KR-GS
 'We': KPA/WE
 'would': WO
 'often': OFPB
@@ -101,4 +101,4 @@ The Old Man and Death
 'our': OUR
 'wishes': WEURBS
 'were': WR
-'gratified.': TKPWRAT/TPAOEUD TP-PL
+'gratified.': TKPWRAT/TPAOEUD/TP-PL

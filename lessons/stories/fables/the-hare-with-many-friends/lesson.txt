@@ -15,7 +15,7 @@ The Hare With Many Friends
 'to': TO
 'be': -B
 'her': HER
-'friends.': TPREPBDZ TP-PL
+'friends.': TPREPBDZ/TP-PL
 'But': KPA/PWUT
 'one': WUPB
 'day': TKAEU
@@ -35,13 +35,13 @@ The Hare With Many Friends
 'of': -F
 'her': HER
 'many': PHAEPB
-'Friends.': KPA/TPREPBDZ TP-PL
-'So,': KPA/SO KW-BG
+'Friends.': KPA/TPREPBDZ/TP-PL
+'So,': KPA/SO/KW-BG
 'she': SHE
 'went': WEPBT
 'to': TO
 'the': -T
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'and': SKP
 'asked': SK-D
 'him': HEUPL
@@ -54,10 +54,10 @@ The Hare With Many Friends
 'hounds': HOUPBDZ
 'on': OPB
 'his': HEUS
-'back.': PWABG TP-PL
+'back.': PWABG/TP-PL
 'But': KPA/PWUT
 'he': HE
-'declined,': TKE/KHRAOEUPBD KW-BG
+'declined,': TKE/KHRAOEUPBD/KW-BG
 'stating': STAEUGT
 'that': THA
 'he': HE
@@ -68,13 +68,13 @@ The Hare With Many Friends
 'do': TKO
 'for': TPOR
 'his': HEUS
-'master.': PHAFRT TP-PL
-'"He': KR-GS KPA/HE
+'master.': PHAFRT/TP-PL
+'"He': KR-GS/KPA/HE
 'felt': TPELT
-'sure,"': SHUR KW-BG KR-GS
+'sure,"': SHUR/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"that': KR-GS THA
+'said,': SED/KW-BG
+'"that': KR-GS/THA
 'all': AUL
 'her': HER
 'other': OER
@@ -83,13 +83,13 @@ The Hare With Many Friends
 'come': KOPL
 'to': TO
 'her': HER
-'assistance."': SEUFPBS TP-PL KR-GS
+'assistance."': SEUFPBS/TP-PL/KR-GS
 'She': KPA/SHE
 'then': THEPB
 'applied': A/PHRAOEUD
 'to': TO
 'the': -T
-'bull,': PWUL KW-BG
+'bull,': PWUL/KW-BG
 'and': SKP
 'hoped': HOEPD
 'that': THA
@@ -100,14 +100,14 @@ The Hare With Many Friends
 'hounds': HOUPBDZ
 'with': W
 'his': HEUS
-'horns.': HORPBS TP-PL
+'horns.': HORPBS/TP-PL
 'The': KPA/-T
 'bull': PWUL
-'replied:': RE/PHRAOEUD STPH-FPLT
-'"I': KR-GS EU
+'replied:': RE/PHRAOEUD/STPH-FPLT
+'"I': KR-GS/EU
 'am': APL
 'very': SRE
-'sorry,': SOER KW-BG
+'sorry,': SOER/KW-BG
 'but': PWUT
 'I': EU
 'have': SR
@@ -115,7 +115,7 @@ The Hare With Many Friends
 'appointment': POEUPLT
 'with': W
 'a': AEU
-'lady;': HRA*ED STPH*FPLT
+'lady;': HRA*ED/STPH*FPLT
 'but': PWUT
 'I': EU
 'feel': TPAOEL
@@ -129,10 +129,10 @@ The Hare With Many Friends
 'do': TKO
 'what': WHA
 'you': U
-'want."': WAPBT TP-PL KR-GS
+'want."': WAPBT/TP-PL/KR-GS
 'The': KPA/-T
-'goat,': TKPWO*ET KW-BG
-'however,': HOUF KW-BG
+'goat,': TKPWO*ET/KW-BG
+'however,': HOUF/KW-BG
 'feared': TPAOERD
 'that': THA
 'his': HEUS
@@ -147,19 +147,19 @@ The Hare With Many Friends
 'took': TAOBG
 'her': HER
 'upon': POPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
-'ram,': RAPL KW-BG
+'ram,': RAPL/KW-BG
 'he': HE
 'felt': TPELT
-'sure,': SHUR KW-BG
+'sure,': SHUR/KW-BG
 'was': WAS
 'the': -T
 'proper': PROR
 'friend': TPREPBD
 'to': TO
 'apply': A/PHRAOEU
-'to.': TO TP-PL
+'to.': TO/TP-PL
 'So': KPA/SO
 'she': SHE
 'went': WEPBT
@@ -170,15 +170,15 @@ The Hare With Many Friends
 'told': TOLD
 'him': HEUPL
 'the': -T
-'case.': KAEUS TP-PL
+'case.': KAEUS/TP-PL
 'The': KPA/-T
 'ram': RAPL
-'replied:': RE/PHRAOEUD STPH-FPLT
-'"Another': KR-GS KPA/TPHOER
-'time,': TAOEUPL KW-BG
+'replied:': RE/PHRAOEUD/STPH-FPLT
+'"Another': KR-GS/KPA/TPHOER
+'time,': TAOEUPL/KW-BG
 'my': PHEU
 'dear': TKAER
-'friend.': TPREPBD TP-PL
+'friend.': TPREPBD/TP-PL
 'I': EU
 'do': TKO
 'not': TPHOT
@@ -188,7 +188,7 @@ The Hare With Many Friends
 'on': OPB
 'the': -T
 'present': PREPBT
-'occasion,': KWAEUGS KW-BG
+'occasion,': KWAEUGS/KW-BG
 'as': AS
 'hounds': HOUPBDZ
 'have': SR
@@ -200,18 +200,18 @@ The Hare With Many Friends
 'as': AS
 'well': WEL
 'as': AS
-'hares."': HA*ER/-S TP-PL KR-GS
+'hares."': HA*ER/-S/TP-PL/KR-GS
 'The': KPA/-T
 'Hare': KPA/HA*ER
 'then': THEPB
-'applied,': A/PHRAOEUD KW-BG
+'applied,': A/PHRAOEUD/KW-BG
 'as': AS
 'a': AEU
 'last': HRAFT
-'hope,': HOEP KW-BG
+'hope,': HOEP/KW-BG
 'to': TO
 'the': -T
-'calf,': KAF KW-BG
+'calf,': KAF/KW-BG
 'who': WHO
 'regretted': RE/TKPWRET/-D
 'that': THA
@@ -220,7 +220,7 @@ The Hare With Many Friends
 'unable': TPHA*EUBL
 'to': TO
 'help': HEP
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'as': AS
 'he': HE
 'did': TK
@@ -231,7 +231,7 @@ The Hare With Many Friends
 'the': -T
 'responsibility': SPOPBT
 'upon': POPB
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'as': AS
 'so': SO
 'many': PHAEPB
@@ -242,7 +242,7 @@ The Hare With Many Friends
 'had': H
 'declined': TKE/KHRAOEUPBD
 'the': -T
-'task.': TAFBG TP-PL
+'task.': TAFBG/TP-PL
 'By': KPA/PWEU
 'this': TH
 'time': TAOEUPL
@@ -250,7 +250,7 @@ The Hare With Many Friends
 'hounds': HOUPBDZ
 'were': WR
 'quite': KWAOEUT
-'near,': TPHAOER KW-BG
+'near,': TPHAOER/KW-BG
 'and': SKP
 'the': -T
 'Hare': KPA/HA*ER
@@ -260,12 +260,12 @@ The Hare With Many Friends
 'heels': HAOELS
 'and': SKP
 'luckily': HRULG
-'escaped.': SKAEPD TP-PL
+'escaped.': SKAEPD/TP-PL
 'He': KPA/HE
 'that': THA
 'has': HAS
 'many': PHAEPB
-'friends,': TPREPBDZ KW-BG
+'friends,': TPREPBDZ/KW-BG
 'has': HAS
 'no': TPHO
-'friends.': TPREPBDZ TP-PL
+'friends.': TPREPBDZ/TP-PL

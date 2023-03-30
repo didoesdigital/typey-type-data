@@ -4,33 +4,33 @@ Proverbial phrases starting with D
 'men': PHEPB
 'tell': TEL
 'no': TPHO
-'tales.': TAELS TP-PL
+'tales.': TAELS/TP-PL
 'Devil': KPA/TKEFL
 'take': TAEUBG
 'the': -T
-'hindmost.': HAOEUPBD/PHO*ES TP-PL
+'hindmost.': HAOEUPBD/PHO*ES/TP-PL
 'Discretion': KPA/SKREGS
 'is': S
 'the': -T
 'better': PWOERT
 'part': PART
 'of': -F
-'valour.': SRARL/A*U TP-PL
+'valour.': SRARL/A*U/TP-PL
 'Do': KPA/TKO
 'as': AS
 'I': EU
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'not': TPHOT
 'as': AS
 'I': EU
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'Do': KPA/TKO
 'as': AS
 'you': U
 'would': WO
 'be': -B
 'done': TKOPB
-'by.': PWEU TP-PL
+'by.': PWEU/TP-PL
 'Do': KPA/TKO
 'unto': UPB/TO
 'others': OERS
@@ -41,7 +41,7 @@ Proverbial phrases starting with D
 'them': THEPL
 'do': TKO
 'unto': UPB/TO
-'you.': U TP-PL
+'you.': U/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'bite': PWAOEUT
@@ -49,33 +49,33 @@ Proverbial phrases starting with D
 'hand': HAPBD
 'that': THA
 'feeds': TPAOEDZ
-'you.': U TP-PL
+'you.': U/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'burn': PWURPB
 'your': KWROUR
 'bridges': PWREUPBLGS
 'behind': HEUPBD
-'you.': U TP-PL
+'you.': U/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'cast': KAFT
 'your': KWROUR
 'pearls': PERLS
 'before': PW-FR
-'swine.': SWAOEUPB TP-PL
+'swine.': SWAOEUPB/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'cry': KRAOEU
 'over': OEFR
 'spilled': SPEULD
-'milk.': PH*EULG TP-PL
+'milk.': PH*EULG/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'change': KHAEUPBG
 'horses': HORSZ
 'in': TPH
-'midstream.': PHEUD/STRAOEPL TP-PL
+'midstream.': PHEUD/STRAOEPL/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'count': KOUPBT
@@ -84,7 +84,7 @@ Proverbial phrases starting with D
 'before': PW-FR
 'they': THE
 'are': R
-'hatched.': HAFPD TP-PL
+'hatched.': HAFPD/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'cross': KROS
@@ -94,7 +94,7 @@ Proverbial phrases starting with D
 'you': U
 'come': KOPL
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'cut': KUT
@@ -104,7 +104,7 @@ Proverbial phrases starting with D
 'to': TO
 'spite': SPAOEUT
 'your': KWROUR
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'fish': TPEURB
@@ -113,13 +113,13 @@ Proverbial phrases starting with D
 'shark': SHARBG
 'with': W
 'your': KWROUR
-'hands,': HAPBDZ KW-BG
+'hands,': HAPBDZ/KW-BG
 'fish': TPEURB
 'for': TPOR
 'hands': HAPBDZ
 'with': W
 'a': AEU
-'shark.': SHARBG TP-PL
+'shark.': SHARBG/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'judge': SKWRUPBLG
@@ -127,7 +127,7 @@ Proverbial phrases starting with D
 'book': PWAOBG
 'by': PWEU
 'its': EUTS
-'cover.': KOFR TP-PL
+'cover.': KOFR/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'keep': KAOEP
@@ -135,7 +135,7 @@ Proverbial phrases starting with D
 'dog': TKOG
 'and': SKP
 'bark': PWARBG
-'yourself.': KWRO*URS TP-PL
+'yourself.': KWRO*URS/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'let': HRET
@@ -143,7 +143,7 @@ Proverbial phrases starting with D
 'bastards': PWAS/TARDZ
 'grind': TKPWRAOEUPBD
 'you': U
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'let': HRET
@@ -152,7 +152,7 @@ Proverbial phrases starting with D
 'grow': TKPWROE
 'beneath': TPHAO*ET
 'one's': W*UPBS
-'feet.': TPAOET TP-PL
+'feet.': TPAOET/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'look': HRAOBG
@@ -161,7 +161,7 @@ Proverbial phrases starting with D
 'horse': HORS
 'in': TPH
 'the': -T
-'mouth.': PHO*UT TP-PL
+'mouth.': PHO*UT/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'make': PHAEUBG
@@ -171,12 +171,12 @@ Proverbial phrases starting with D
 'of': -F
 'a': AEU
 'mole': PHOEL
-'hill.': HEUL TP-PL
+'hill.': HEUL/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'meet': PHAOET
 'troubles': TRUBLS
-'half-way.': HAF H-PB WAEU TP-PL
+'half-way.': HAF/H-PB/WAEU/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'put': PUT
@@ -185,7 +185,7 @@ Proverbial phrases starting with D
 'eggs': EGS
 'in': TPH
 'one': WUPB
-'basket.': PWAFBGT TP-PL
+'basket.': PWAFBGT/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'put': PUT
@@ -193,7 +193,7 @@ Proverbial phrases starting with D
 'cart': KART
 'before': PW-FR
 'the': -T
-'horse.': HORS TP-PL
+'horse.': HORS/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'put': PUT
@@ -202,7 +202,7 @@ Proverbial phrases starting with D
 'irons': AOEURPBS
 'in': TPH
 'the': -T
-'fire.': TPAOEUR TP-PL
+'fire.': TPAOEUR/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'put': PUT
@@ -210,7 +210,7 @@ Proverbial phrases starting with D
 'wine': WAOEUPB
 'into': TPHAO
 'old': OLD
-'bottles.': PWO*LTS TP-PL
+'bottles.': PWO*LTS/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'put': PUT
@@ -221,12 +221,12 @@ Proverbial phrases starting with D
 'you': U
 'can': K
 'do': TKO
-'today.': TOED TP-PL
+'today.': TOED/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'rock': ROBG
 'the': -T
-'boat.': PWOET TP-PL
+'boat.': PWOET/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'shut': SHUT
@@ -237,7 +237,7 @@ Proverbial phrases starting with D
 'the': -T
 'horse': HORS
 'has': HAS
-'bolted.': PWOLT/-D TP-PL
+'bolted.': PWOLT/-D/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'spend': SPEPBD
@@ -245,7 +245,7 @@ Proverbial phrases starting with D
 'all': AUL
 'in': TPH
 'one': WUPB
-'place.': PHRAEUS TP-PL
+'place.': PHRAEUS/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'spoil': SPOEUL
@@ -255,13 +255,13 @@ Proverbial phrases starting with D
 'a': AEU
 'ha'porth': HAE/AE/PO*RT/H*
 'of': -F
-'tar.': TAR TP-PL
+'tar.': TAR/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'throw': THROE
 'pearls': PERLS
 'to': TO
-'swine.': SWAOEUPB TP-PL
+'swine.': SWAOEUPB/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'teach': TAOEFP
@@ -269,7 +269,7 @@ Proverbial phrases starting with D
 'Grandmother': KPA/TKPWR-PL
 'to': TO
 'suck': SUBG
-'eggs.': EGS TP-PL
+'eggs.': EGS/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'throw': THROE
@@ -278,7 +278,7 @@ Proverbial phrases starting with D
 'out': OUT
 'with': W
 'the': -T
-'bathwater.': PWA*T/WAUR TP-PL
+'bathwater.': PWA*T/WAUR/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'try': TREU
@@ -287,12 +287,12 @@ Proverbial phrases starting with D
 'before': PW-FR
 'you': U
 'can': K
-'crawl.': KRAUL TP-PL
+'crawl.': KRAUL/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'upset': AUP/SET
 'the': -T
-'apple-cart.': A*EPL H-PB KART TP-PL
+'apple-cart.': A*EPL/H-PB/KART/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'wash': WARB
@@ -300,7 +300,7 @@ Proverbial phrases starting with D
 'dirty': TKOEURT
 'linen': HREUPB/-PB
 'in': TPH
-'public.': PHREUBG TP-PL
+'public.': PHREUBG/TP-PL
 'Do': KPA/TKO
 'not': TPHOT
 'sympathize': SEUPL/THAOEUZ
@@ -309,7 +309,7 @@ Proverbial phrases starting with D
 'who': WHO
 'can': K
 'not': TPHOT
-'empathize.': EPL/THAOEUZ TP-PL
+'empathize.': EPL/THAOEUZ/TP-PL
 'Do': KPA/TKO
 'unto': UPB/TO
 'others': OERS
@@ -320,13 +320,13 @@ Proverbial phrases starting with D
 'them': THEPL
 'do': TKO
 'unto': UPB/TO
-'you.': U TP-PL
+'you.': U/TP-PL
 'Doubt': KPA/TKOUT
 'is': S
 'the': -T
-'beginning,': TKPWEUPB/-G KW-BG
+'beginning,': TKPWEUPB/-G/KW-BG
 'not': TPHOT
 'the': -T
-'end,': EPBD KW-BG
+'end,': EPBD/KW-BG
 'of': -F
-'wisdom.': WEUZ/TKOPL TP-PL
+'wisdom.': WEUZ/TKOPL/TP-PL

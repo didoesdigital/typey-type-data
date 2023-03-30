@@ -11,7 +11,7 @@ Fundevogel
 'the': -T
 'forest': TPOEFRT
 'to': TO
-'hunt,': HUPBT KW-BG
+'hunt,': HUPBT/KW-BG
 'and': SKP
 'as': AS
 'he': HE
@@ -29,11 +29,11 @@ Fundevogel
 'little': HREUL
 'child': KHAOEULD
 'were': WR
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'He': KPA/HE
 'followed': TPOLD
 'the': -T
-'sound,': SOUPBD KW-BG
+'sound,': SOUPBD/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -41,7 +41,7 @@ Fundevogel
 'to': TO
 'a': AEU
 'high': HAOEU
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'at': AT
 'the': -T
@@ -52,7 +52,7 @@ Fundevogel
 'little': HREUL
 'child': KHAOEULD
 'was': WAS
-'sitting,': SEUGT KW-BG
+'sitting,': SEUGT/KW-BG
 'for': TPOR
 'the': -T
 'mother': PHOER
@@ -64,7 +64,7 @@ Fundevogel
 'tree': TRAOE
 'with': W
 'the': -T
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'and': SKP
 'a': AEU
 'bird': PWEURD
@@ -75,61 +75,61 @@ Fundevogel
 'it': T
 'in': TPH
 'her': HER
-'arms,': ARPLS KW-BG
+'arms,': ARPLS/KW-BG
 'had': H
 'flown': TPHROEPB
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'snatched': STPHAFPD
 'it': T
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'set': SET
 'it': T
 'on': OPB
 'the': -T
 'high': HAOEU
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'The': KPA/-T
 'forester': TPOR/ES/TER
 'climbed': KHRAOEUPLD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'brought': PWRAUT
 'the': -T
 'child': KHAOEULD
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''You': AE KPA/U
+'himself:': HEUPLS/STPH-FPLT
+''You': AE/KPA/U
 'will': HR
 'take': TAEUBG
 'him': HEUPL
 'home': HOEPL
 'with': W
-'you,': U KW-BG
+'you,': U/KW-BG
 'and': SKP
 'bring': PWREU
 'him': HEUPL
 'up': UP
 'with': W
 'your': KWROUR
-'Lina.'': HRAOEPB/TPHA TP-PL AE
+'Lina.'': HRAOEPB/TPHA/TP-PL/AE
 'He': KPA/HE
 'took': TAOBG
 'it': T
-'home,': HOEPL KW-BG
-'therefore,': TH-FR KW-BG
+'home,': HOEPL/KW-BG
+'therefore,': TH-FR/KW-BG
 'and': SKP
 'the': -T
 'two': TWO
 'children': KHEURPB
 'grew': TKPWRAOU
 'up': UP
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'And': AFPBD
 'the': -T
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'which': WEU
 'he': HE
 'had': H
@@ -139,14 +139,14 @@ Fundevogel
 'tree': TRAOE
 'was': WAS
 'called': KAULD
-'Fundevogel,': xxx Fundevogel KW-BG
+'Fundevogel,': xxx Fundevogel/KW-BG
 'because': PWAU
 'a': AEU
 'bird': PWEURD
 'had': H
 'carried': KAERD
 'it': T
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Fundevogel': xxx Fundevogel
 'and': SKP
 'Lina': HRAOEPB/TPHA
@@ -165,14 +165,14 @@ Fundevogel
 'other': OER
 'they': THE
 'were': WR
-'sad.': SAD TP-PL
+'sad.': SAD/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'forester': TPOR/ES/TER
 'had': H
 'an': APB
 'old': OLD
-'cook,': KAOBG KW-BG
+'cook,': KAOBG/KW-BG
 'who': WHO
 'one': WUPB
 'evening': AOEPBG
@@ -183,51 +183,51 @@ Fundevogel
 'began': TKPWAPB
 'to': TO
 'fetch': TPEFP
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
 'go': TKPW
 'once': WUPBS
-'only,': OEPBL KW-BG
+'only,': OEPBL/KW-BG
 'but': PWUT
 'many': PHAEPB
-'times,': TAOEUPLS KW-BG
+'times,': TAOEUPLS/KW-BG
 'out': OUT
 'to': TO
 'the': -T
-'spring.': SPREUPBG TP-PL
+'spring.': SPREUPBG/TP-PL
 'Lina': HRAOEPB/TPHA
 'saw': SAU
 'this': TH
 'and': SKP
-'said,': SED KW-BG
-''Listen,': AE KPA/HREUFPB KW-BG
+'said,': SED/KW-BG
+''Listen,': AE/KPA/HREUFPB/KW-BG
 'old': OLD
-'Sanna,': xxx Sanna KW-BG
+'Sanna,': xxx Sanna/KW-BG
 'why': KWR
 'are': R
 'you': U
 'fetching': TPEFP/-G
 'so': SO
 'much': PHUFP
-'water?'': WAUR H-F AE
-''If': AE KPA/TP
+'water?'': WAUR/H-F/AE
+''If': AE/KPA/TP
 'you': U
 'will': HR
 'never': TPHEFR
 'repeat': RE/PAOET
 'it': T
 'to': TO
-'anyone,': TPHEUPB KW-BG
+'anyone,': TPHEUPB/KW-BG
 'I': EU
 'will': HR
 'tell': TEL
 'you': U
-'why.'': KWR TP-PL AE
+'why.'': KWR/TP-PL/AE
 'So': KPA/SO
 'Lina': HRAOEPB/TPHA
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'no,': TPHORBGS
 'she': SHE
 'would': WO
@@ -235,26 +235,26 @@ Fundevogel
 'repeat': RE/PAOET
 'it': T
 'to': TO
-'anyone,': TPHEUPB KW-BG
+'anyone,': TPHEUPB/KW-BG
 'and': SKP
 'then': THEPB
 'the': -T
 'cook': KAOBG
-'said:': SED STPH-FPLT
-''Early': AE KPA/ERL
+'said:': SED/STPH-FPLT
+''Early': AE/KPA/ERL
 'tomorrow': TORPL
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'when': WHEPB
 'the': -T
 'forester': TPOR/ES/TER
 'is': S
 'out': OUT
-'hunting,': HUPBT/-G KW-BG
+'hunting,': HUPBT/-G/KW-BG
 'I': EU
 'will': HR
 'heat': HAOET
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'when': WHEPB
 'it': T
@@ -262,18 +262,18 @@ Fundevogel
 'boiling': PWOEULG
 'in': TPH
 'the': -T
-'kettle,': K*ELT KW-BG
+'kettle,': K*ELT/KW-BG
 'I': EU
 'will': HR
 'throw': THROE
 'in': TPH
-'Fundevogel,': xxx Fundevogel KW-BG
+'Fundevogel,': xxx Fundevogel/KW-BG
 'and': SKP
 'will': HR
 'boil': PWOEUL
 'him': HEUPL
 'in': TPH
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'Early': KPA/ERL
 'next': TPHEGT
 'morning': PHORPBG
@@ -284,7 +284,7 @@ Fundevogel
 'and': SKP
 'went': WEPBT
 'out': OUT
-'hunting,': HUPBT/-G KW-BG
+'hunting,': HUPBT/-G/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -295,44 +295,44 @@ Fundevogel
 'were': WR
 'still': STEUL
 'in': TPH
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'Then': KPA/THEPB
 'Lina': HRAOEPB/TPHA
 'said': SED
 'to': TO
-'Fundevogel:': xxx Fundevogel STPH-FPLT
-''If': AE KPA/TP
+'Fundevogel:': xxx Fundevogel/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'will': HR
 'never': TPHEFR
 'leave': HREF
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'too': TAO
 'will': HR
 'never': TPHEFR
 'leave': HREF
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Fundevogel': xxx Fundevogel
-'said:': SED STPH-FPLT
-''Neither': AE KPA/TPHAOERT
-'now,': TPHOU KW-BG
+'said:': SED/STPH-FPLT
+''Neither': AE/KPA/TPHAOERT
+'now,': TPHOU/KW-BG
 'nor': TPH-R
 'ever': -FR
 'will': HR
 'I': EU
 'leave': HREF
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'said': SED
-'Lina:': HRAOEPB/TPHA STPH-FPLT
-''Then': AE KPA/THEPB
+'Lina:': HRAOEPB/TPHA/STPH-FPLT
+''Then': AE/KPA/THEPB
 'will': HR
 'I': EU
 'tell': TEL
-'you.': U TP-PL
+'you.': U/TP-PL
 'Last': KPA/HRAFT
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'old': OLD
 'Sanna': xxx Sanna
 'carried': KAERD
@@ -352,7 +352,7 @@ Fundevogel
 'she': SHE
 'was': WAS
 'doing': TK*G
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'and': SKP
 'she': SHE
 'said': SED
@@ -364,7 +364,7 @@ Fundevogel
 'not': TPHOT
 'to': TO
 'tell': TEL
-'anyone,': TPHEUPB KW-BG
+'anyone,': TPHEUPB/KW-BG
 'and': SKP
 'she': SHE
 'said': SED
@@ -376,7 +376,7 @@ Fundevogel
 'father': TPAER
 'was': WAS
 'out': OUT
-'hunting,': HUPBT/-G KW-BG
+'hunting,': HUPBT/-G/KW-BG
 'she': SHE
 'would': WO
 'set': SET
@@ -384,38 +384,38 @@ Fundevogel
 'kettle': K*ELT
 'full': TPUL
 'of': -F
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'throw': THROE
 'you': U
 'into': TPHAO
 'it': T
 'and': SKP
 'boil': PWOEUL
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'but': PWUT
 'we': WE
 'will': HR
 'get': TKPWET
 'up': UP
-'quickly,': KWEULG KW-BG
+'quickly,': KWEULG/KW-BG
 'dress': TKRES
-'ourselves,': O*URSZ KW-BG
+'ourselves,': O*URSZ/KW-BG
 'and': SKP
 'go': TKPW
 'away': WA*EU
-'together.'': TOGT TP-PL AE
+'together.'': TOGT/TP-PL/AE
 'The': KPA/-T
 'two': TWO
 'children': KHEURPB
 'therefore': TH-FR
 'got': TKPWOT
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'dressed': TKREFD
 'themselves': TH*EPLS
-'quickly,': KWEULG KW-BG
+'quickly,': KWEULG/KW-BG
 'and': SKP
 'went': WEPBT
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'water': WAUR
@@ -423,7 +423,7 @@ Fundevogel
 'the': -T
 'kettle': K*ELT
 'was': WAS
-'boiling,': PWOEULG KW-BG
+'boiling,': PWOEULG/KW-BG
 'the': -T
 'cook': KAOBG
 'went': WEPBT
@@ -437,33 +437,33 @@ Fundevogel
 'throw': THROE
 'him': HEUPL
 'into': TPHAO
-'it.': T TP-PL
+'it.': T/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'she': SHE
 'came': KAEUPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
 'the': -T
-'beds,': PWEDZ KW-BG
+'beds,': PWEDZ/KW-BG
 'both': PWO*T
 'the': -T
 'children': KHEURPB
 'were': WR
-'gone.': TKPWOPB TP-PL
+'gone.': TKPWOPB/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'was': WAS
 'terribly': TERBL/HREU
-'alarmed,': A/HRARPLD KW-BG
+'alarmed,': A/HRARPLD/KW-BG
 'and': SKP
 'she': SHE
 'said': SED
 'to': TO
-'herself:': H*ERS STPH-FPLT
-''What': AE KPA/WHA
+'herself:': H*ERS/STPH-FPLT
+''What': AE/KPA/WHA
 'shall': SHAL
 'I': EU
 'say': SAEU
@@ -479,7 +479,7 @@ Fundevogel
 'the': -T
 'children': KHEURPB
 'are': R
-'gone?': TKPWOPB H-F
+'gone?': TKPWOPB/H-F
 'They': KPA/THE
 'must': PHUFT
 'be': -B
@@ -489,7 +489,7 @@ Fundevogel
 'get': TKPWET
 'them': THEPL
 'back': PWABG
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'cook': KAOBG
@@ -497,7 +497,7 @@ Fundevogel
 'three': THRAOE
 'servants': SER/SRAPBTS
 'after': AF
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'who': WHO
 'were': WR
 'to': TO
@@ -505,15 +505,15 @@ Fundevogel
 'and': SKP
 'overtake': AUFR/TAEUBG
 'the': -T
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'The': KPA/-T
-'children,': KHEURPB KW-BG
-'however,': HOUF KW-BG
+'children,': KHEURPB/KW-BG
+'however,': HOUF/KW-BG
 'were': WR
 'sitting': SEUGT
 'outside': OUDZ
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -523,40 +523,40 @@ Fundevogel
 'the': -T
 'three': THRAOE
 'servants': SER/SRAPBTS
-'running,': R*UPBG KW-BG
+'running,': R*UPBG/KW-BG
 'Lina': HRAOEPB/TPHA
 'said': SED
 'to': TO
-'Fundevogel:': xxx Fundevogel STPH-FPLT
-''Never': AE KPA/TPHEFR
+'Fundevogel:': xxx Fundevogel/STPH-FPLT
+''Never': AE/KPA/TPHEFR
 'leave': HREF
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'never': TPHEFR
 'leave': HREF
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Fundevogel': xxx Fundevogel
-'said:': SED STPH-FPLT
-''Neither': AE KPA/TPHAOERT
-'now,': TPHOU KW-BG
+'said:': SED/STPH-FPLT
+''Neither': AE/KPA/TPHAOERT
+'now,': TPHOU/KW-BG
 'nor': TPH-R
-'ever.'': -FR TP-PL AE
+'ever.'': -FR/TP-PL/AE
 'Then': KPA/THEPB
 'said': SED
-'Lina:': HRAOEPB/TPHA STPH-FPLT
-''Do': AE KPA/TKO
+'Lina:': HRAOEPB/TPHA/STPH-FPLT
+''Do': AE/KPA/TKO
 'you': U
 'become': PW-BG
 'a': AEU
-'rose-tree,': ROEZ H-PB TRAOE KW-BG
+'rose-tree,': ROEZ/H-PB/TRAOE/KW-BG
 'and': SKP
 'I': EU
 'the': -T
 'rose': ROEZ
 'upon': POPB
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'three': THRAOE
@@ -564,33 +564,33 @@ Fundevogel
 'came': KAEUPL
 'to': TO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'nothing': TPHOG
 'was': WAS
 'there': THR
 'but': PWUT
 'a': AEU
-'rose-tree': ROEZ H-PB TRAOE
+'rose-tree': ROEZ/H-PB/TRAOE
 'and': SKP
 'one': WUPB
 'rose': ROEZ
 'on': OPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'the': -T
 'children': KHEURPB
 'were': WR
-'nowhere.': TPHO/WR TP-PL
+'nowhere.': TPHO/WR/TP-PL
 'Then': KPA/THEPB
 'said': SED
-'they:': THE STPH-FPLT
-''There': AE KPA/THR
+'they:': THE/STPH-FPLT
+''There': AE/KPA/THR
 'is': S
 'nothing': TPHOG
 'to': TO
 'be': -B
 'done': TKOPB
-'here,'': HAOER KW-BG AE
+'here,'': HAOER/KW-BG/AE
 'and': SKP
 'they': THE
 'went': WEPBT
@@ -610,29 +610,29 @@ Fundevogel
 'but': PWUT
 'a': AEU
 'little': HREUL
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'with': W
 'one': WUPB
 'rose': ROEZ
 'on': OPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'old': OLD
 'cook': KAOBG
 'scolded': SKOLD/-D
 'and': SKP
-'said:': SED STPH-FPLT
-''You': AE KPA/U
-'simpletons,': S*EUPL/TO*PB/-S KW-BG
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
+'simpletons,': S*EUPL/TO*PB/-S/KW-BG
 'you': U
 'should': SHO
 'have': SR
 'cut': KUT
 'the': -T
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'in': TPH
-'two,': TWO KW-BG
+'two,': TWO/KW-BG
 'and': SKP
 'have': SR
 'broken': PWROEPB
@@ -644,13 +644,13 @@ Fundevogel
 'it': T
 'home': HOEPL
 'with': W
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'go,': TKPW-RBGS
 'and': SKP
 'do': TKO
 'it': T
 'at': AT
-'once.'': WUPBS TP-PL AE
+'once.'': WUPBS/TP-PL/AE
 'They': KPA/THE
 'had': H
 'therefore': TH-FR
@@ -662,86 +662,86 @@ Fundevogel
 'for': TPOR
 'the': -T
 'second': SEBGD
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'The': KPA/-T
-'children,': KHEURPB KW-BG
-'however,': HOUF KW-BG
+'children,': KHEURPB/KW-BG
+'however,': HOUF/KW-BG
 'saw': SAU
 'them': THEPL
 'coming': KO*G
 'from': TPR
 'a': AEU
-'distance.': STKAPBS TP-PL
+'distance.': STKAPBS/TP-PL
 'Then': KPA/THEPB
 'Lina': HRAOEPB/TPHA
-'said:': SED STPH-FPLT
-''Fundevogel,': AE xxx Fundevogel KW-BG
+'said:': SED/STPH-FPLT
+''Fundevogel,': AE/xxx Fundevogel/KW-BG
 'never': TPHEFR
 'leave': HREF
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'never': TPHEFR
 'leave': HREF
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Fundevogel': xxx Fundevogel
-'said:': SED STPH-FPLT
-''Neither': AE KPA/TPHAOERT
-'now;': TPHOU STPH*FPLT
+'said:': SED/STPH-FPLT
+''Neither': AE/KPA/TPHAOERT
+'now;': TPHOU/STPH*FPLT
 'nor': TPH-R
-'ever.'': -FR TP-PL AE
+'ever.'': -FR/TP-PL/AE
 'Said': KPA/SED
-'Lina:': HRAOEPB/TPHA STPH-FPLT
-''Then': AE KPA/THEPB
+'Lina:': HRAOEPB/TPHA/STPH-FPLT
+''Then': AE/KPA/THEPB
 'do': TKO
 'you': U
 'become': PW-BG
 'a': AEU
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'and': SKP
 'I'll': AOEUL
 'be': -B
 'the': -T
 'chandelier': KHAPBD/HRAOER
 'in': TPH
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'So': KPA/SO
 'when': WHEPB
 'the': -T
 'three': THRAOE
 'servants': SER/SRAPBTS
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'nothing': TPHOG
 'was': WAS
 'there': THR
 'but': PWUT
 'a': AEU
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'with': W
 'a': AEU
 'chandelier': KHAPBD/HRAOER
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL
 'They': KPA/THE
 'said': SED
 'therefore': TH-FR
 'to': TO
 'each': AOEFP
-'other:': OER STPH-FPLT
-''What': AE KPA/WHA
+'other:': OER/STPH-FPLT
+''What': AE/KPA/WHA
 'can': K
 'we': WE
 'do': TKO
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'let': HRET
 'us': US
 'go': TKPW
-'home.'': HOEPL TP-PL AE
+'home.'': HOEPL/TP-PL/AE
 'When': KPA/WHEPB
 'they': THE
 'got': TKPWOT
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'the': -T
 'cook': KAOBG
 'asked': SK-D
@@ -750,7 +750,7 @@ Fundevogel
 'had': H
 'not': TPHOT
 'found': TPOUPBD
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'so': SO
 'they': THE
 'said': SED
@@ -761,23 +761,23 @@ Fundevogel
 'nothing': TPHOG
 'but': PWUT
 'a': AEU
-'church,': KHUFRPB KW-BG
+'church,': KHUFRPB/KW-BG
 'and': SKP
 'there': THR
 'was': WAS
 'a': AEU
 'chandelier': KHAPBD/HRAOER
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'the': -T
 'cook': KAOBG
 'scolded': SKOLD/-D
 'them': THEPL
 'and': SKP
-'said:': SED STPH-FPLT
-''You': AE KPA/U
-'fools!': TPAOLS SKHRAPL
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
+'fools!': TPAOLS/SKHRAPL
 'why': KWR
 'did': TK
 'you': U
@@ -786,14 +786,14 @@ Fundevogel
 'the': -T
 'church': KHUFRPB
 'to': TO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'bring': PWREU
 'the': -T
 'chandelier': KHAPBD/HRAOER
 'home': HOEPL
 'with': W
-'you?'': U H-F AE
+'you?'': U/H-F/AE
 'And': AFPBD
 'now': TPHOU
 'the': -T
@@ -803,7 +803,7 @@ Fundevogel
 'got': TKPWOT
 'on': OPB
 'her': HER
-'legs,': HREGS KW-BG
+'legs,': HREGS/KW-BG
 'and': SKP
 'went': WEPBT
 'with': W
@@ -814,10 +814,10 @@ Fundevogel
 'pursuit': PUR/SAOUT
 'of': -F
 'the': -T
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'The': KPA/-T
-'children,': KHEURPB KW-BG
-'however,': HOUF KW-BG
+'children,': KHEURPB/KW-BG
+'however,': HOUF/KW-BG
 'saw': SAU
 'from': TPR
 'afar': A/TPAR
@@ -826,38 +826,38 @@ Fundevogel
 'three': THRAOE
 'servants': SER/SRAPBTS
 'were': WR
-'coming,': KO*G KW-BG
+'coming,': KO*G/KW-BG
 'and': SKP
 'the': -T
 'cook': KAOBG
 'waddling': WAD/-LG
 'after': AF
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'Then': KPA/THEPB
 'said': SED
-'Lina:': HRAOEPB/TPHA STPH-FPLT
-''Fundevogel,': AE xxx Fundevogel KW-BG
+'Lina:': HRAOEPB/TPHA/STPH-FPLT
+''Fundevogel,': AE/xxx Fundevogel/KW-BG
 'never': TPHEFR
 'leave': HREF
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'never': TPHEFR
 'leave': HREF
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'said': SED
-'Fundevogel:': xxx Fundevogel STPH-FPLT
-''Neither': AE KPA/TPHAOERT
-'now,': TPHOU KW-BG
+'Fundevogel:': xxx Fundevogel/STPH-FPLT
+''Neither': AE/KPA/TPHAOERT
+'now,': TPHOU/KW-BG
 'nor': TPH-R
-'ever.'': -FR TP-PL AE
+'ever.'': -FR/TP-PL/AE
 'Said': KPA/SED
-'Lina:': HRAOEPB/TPHA STPH-FPLT
-''Be': AE KPA/-B
+'Lina:': HRAOEPB/TPHA/STPH-FPLT
+''Be': AE/KPA/-B
 'a': AEU
-'fishpond,': TPEURB/POPBD KW-BG
+'fishpond,': TPEURB/POPBD/KW-BG
 'and': SKP
 'I': EU
 'will': HR
@@ -865,14 +865,14 @@ Fundevogel
 'the': -T
 'duck': TKUBG
 'upon': POPB
-'it.'': T TP-PL AE
+'it.'': T/TP-PL/AE
 'The': KPA/-T
-'cook,': KAOBG KW-BG
-'however,': HOUF KW-BG
+'cook,': KAOBG/KW-BG
+'however,': HOUF/KW-BG
 'came': KAEUPL
 'up': UP
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -883,21 +883,21 @@ Fundevogel
 'lay': HRAEU
 'down': TKOUPB
 'by': PWEU
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'was': WAS
 'about': PW
 'to': TO
 'drink': TKREU
 'it': T
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'But': KPA/PWUT
 'the': -T
 'duck': TKUBG
 'swam': SWAPL
 'quickly': KWEULG
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'seized': SAOEZ/-D
 'her': HER
 'head': HED
@@ -909,7 +909,7 @@ Fundevogel
 'her': HER
 'into': TPHAO
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'there': THR
 'the': -T
@@ -917,24 +917,24 @@ Fundevogel
 'witch': WEUFP
 'had': H
 'to': TO
-'drown.': TKROUPB TP-PL
+'drown.': TKROUPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'children': KHEURPB
 'went': WEPBT
 'home': HOEPL
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'were': WR
 'heartily': HART/HREU
-'delighted,': TKHRAOEUTD KW-BG
+'delighted,': TKHRAOEUTD/KW-BG
 'and': SKP
 'if': TP
 'they': THE
 'have': SR
 'not': TPHOT
-'died,': TKAOEUD KW-BG
+'died,': TKAOEUD/KW-BG
 'they': THE
 'are': R
 'living': HREUFG
-'still.': STEUL TP-PL
+'still.': STEUL/TP-PL

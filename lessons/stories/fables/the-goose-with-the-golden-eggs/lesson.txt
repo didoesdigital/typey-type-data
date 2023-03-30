@@ -18,7 +18,7 @@ The Goose With the Golden Eggs
 'all': AUL
 'yellow': KWREL/OE
 'and': SKP
-'glittering.': TKPWHREUT/ERG TP-PL
+'glittering.': TKPWHREUT/ERG/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'took': TAOBG
@@ -37,7 +37,7 @@ The Goose With the Golden Eggs
 'to': TO
 'throw': THROE
 'it': T
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'because': PWAU
 'he': HE
 'thought': THAUT
@@ -47,7 +47,7 @@ The Goose With the Golden Eggs
 'been': PW-PB
 'played': PHRAEUD
 'upon': POPB
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'But': KPA/PWUT
 'he': HE
 'took': TAOBG
@@ -55,7 +55,7 @@ The Goose With the Golden Eggs
 'home': HOEPL
 'on': OPB
 'second': SEBGD
-'thoughts,': THAUTS KW-BG
+'thoughts,': THAUTS/KW-BG
 'and': SKP
 'soon': SAOPB
 'found': TPOUPBD
@@ -69,13 +69,13 @@ The Goose With the Golden Eggs
 'egg': EG
 'of': -F
 'pure': PAOUR
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'Every': KPA/EF
 'morning': PHORPBG
 'the': -T
 'same': SAEUPL
 'thing': THEUPBG
-'occurred,': KROEURD KW-BG
+'occurred,': KROEURD/KW-BG
 'and': SKP
 'he': HE
 'soon': SAOPB
@@ -84,14 +84,14 @@ The Goose With the Golden Eggs
 'by': PWEU
 'selling': SELG
 'his': HEUS
-'eggs.': EGS TP-PL
+'eggs.': EGS/TP-PL
 'As': KPA/AS
 'he': HE
 'grew': TKPWRAOU
 'rich': REUFP
 'he': HE
 'grew': TKPWRAOU
-'greedy;': TKPWRAOE/TKEU STPH*FPLT
+'greedy;': TKPWRAOE/TKEU/STPH*FPLT
 'and': SKP
 'thinking': THEUG
 'to': TO
@@ -104,7 +104,7 @@ The Goose With the Golden Eggs
 'the': -T
 'Goose': KPA/TKPWAOS
 'could': KO
-'give,': TKPWEUF KW-BG
+'give,': TKPWEUF/KW-BG
 'he': HE
 'killed': KEULD
 'it': T
@@ -114,9 +114,9 @@ The Goose With the Golden Eggs
 'only': OEPBL
 'to': TO
 'find': TPAOEUPBD
-'nothing.': TPHOG TP-PL
+'nothing.': TPHOG/TP-PL
 'Greed': KPA/TKPWRAOED
 'oft': O*FT
 'o'er': OE/*ER
 'reaches': RAOEFPS
-'itself.': T/SEFL TP-PL
+'itself.': T/SEFL/TP-PL

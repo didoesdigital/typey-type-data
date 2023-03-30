@@ -14,7 +14,7 @@ The Trumpeter Taken Prisoner
 'was': WAS
 'captured': KA*FPD
 'by': PWEU
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'They': KPA/THE
 'were': WR
 'about': PW
@@ -34,44 +34,44 @@ The Trumpeter Taken Prisoner
 'his': HEUS
 'plea': PHRAE
 'for': TPOR
-'mercy.': PHER/SEU TP-PL
-'"I': KR-GS EU
+'mercy.': PHER/SEU/TP-PL
+'"I': KR-GS/EU
 'do': TKO
 'not': TPHOT
-'fight,"': TPAOEUT KW-BG KR-GS
+'fight,"': TPAOEUT/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"and': KR-GS SKP
+'he,': HE/KW-BG
+'"and': KR-GS/SKP
 'indeed': TPHAOEPBD
 'carry': KAER
 'no': TPHO
-'weapon;': WEP STPH*FPLT
+'weapon;': WEP/STPH*FPLT
 'I': EU
 'only': OEPBL
 'blow': PWHROE
 'this': TH
-'trumpet,': TRUPLT KW-BG
+'trumpet,': TRUPLT/KW-BG
 'and': SKP
 'surely': SHURL
 'that': THA
 'cannot': SK-PBT
 'harm': HARPL
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'then': THEPB
 'why': KWR
 'should': SHO
 'you': U
 'kill': KEUL
-'me?"': PHE H-F KR-GS
-'"You': KR-GS KPA/U
+'me?"': PHE/H-F/KR-GS
+'"You': KR-GS/KPA/U
 'may': PHAE
 'not': TPHOT
 'fight': TPAOEUT
-'yourself,"': KWRO*URS KW-BG KR-GS
+'yourself,"': KWRO*URS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'others,': OERS KW-BG
-'"but': KR-GS PWUT
+'others,': OERS/KW-BG
+'"but': KR-GS/PWUT
 'you': U
 'encourage': EPB/KORPBLG
 'and': SKP
@@ -80,8 +80,8 @@ The Trumpeter Taken Prisoner
 'men': PHEPB
 'to': TO
 'the': -T
-'fight."': TPAOEUT TP-PL KR-GS
+'fight."': TPAOEUT/TP-PL/KR-GS
 'Words': KPA/WORDZ
 'may': PHAE
 'be': -B
-'deeds.': TKAOEDZ TP-PL
+'deeds.': TKAOEDZ/TP-PL

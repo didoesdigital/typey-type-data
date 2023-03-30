@@ -12,13 +12,13 @@ The Neighbouring Families
 'on': OPB
 'in': TPH
 'the': -T
-'duck-pond,': TKUBG H-PB POPBD KW-BG
+'duck-pond,': TKUBG/H-PB/POPBD/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'nothing': TPHOG
 'after': AF
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'All': KPA/AUL
 'the': -T
 'ducks': TKUBGZ
@@ -33,16 +33,16 @@ The Neighbouring Families
 'their': THAEUR
 'heads': HEDZ
 'in': TPH
-'it—for': T EPL/TKA*RB TPOR
+'it—for': T/EPL/TKA*RB/TPOR
 'they': THE
 'could': KO
 'do': TKO
-'that—at': THA EPL/TKA*RB AT
+'that—at': THA/EPL/TKA*RB/AT
 'once': WUPBS
 'swarm': SWARPL
 'to': TO
 'the': -T
-'sides;': SAOEUDZ STPH*FPLT
+'sides;': SAOEUDZ/STPH*FPLT
 'the': -T
 'traces': TRAEUFS
 'of': -F
@@ -53,7 +53,7 @@ The Neighbouring Families
 'in': TPH
 'the': -T
 'wet': WET
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'and': SKP
 'their': THAEUR
 'cackling': KABG/-LG
@@ -61,9 +61,9 @@ The Neighbouring Families
 'heard': HAERD
 'far': TPAR
 'and': SKP
-'wide.': WAOEUD TP-PL
+'wide.': WAOEUD/TP-PL
 'The': KPA/-T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'which': WEU
 'a': AEU
 'few': TPAOU
@@ -77,16 +77,16 @@ The Neighbouring Families
 'smooth': SPHAO*T
 'as': AS
 'a': AEU
-'mirror,': PHROR KW-BG
+'mirror,': PHROR/KW-BG
 'became': PWAEUPL
 'very': SRE
-'troubled.': TRUBLD TP-PL
-'Before,': KPA/PW-FR KW-BG
+'troubled.': TRUBLD/TP-PL
+'Before,': KPA/PW-FR/KW-BG
 'every': EF
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'every': EF
 'neighbouring': TPHAEUB/-G/A*U
-'bush,': PWURB KW-BG
+'bush,': PWURB/KW-BG
 'the': -T
 'old': OLD
 'farmhouse': TPARPL/HOUS
@@ -98,23 +98,23 @@ The Neighbouring Families
 'roof': RAOF
 'and': SKP
 'the': -T
-'swallows'': SWAL/OES AE
-'nest,': TPHEFT KW-BG
+'swallows'': SWAL/OES/AE
+'nest,': TPHEFT/KW-BG
 'and': SKP
 'especially': EPS
 'the': -T
 'great': TKPWRAET
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'full': TPUL
 'of': -F
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'had': H
 'been': PW-PB
 'reflected': TPHREBGTD
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'covered': KOFRD
 'the': -T
 'wall': WAUL
@@ -123,7 +123,7 @@ The Neighbouring Families
 'out': OUT
 'over': OEFR
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'in': TPH
 'which': WEU
 'everything': EFRG
@@ -133,7 +133,7 @@ The Neighbouring Families
 'if': TP
 'in': TPH
 'a': AEU
-'picture,': P*EUFP KW-BG
+'picture,': P*EUFP/KW-BG
 'except': KPEPT
 'that': THA
 'it': T
@@ -141,7 +141,7 @@ The Neighbouring Families
 'stood': STAOD
 'on': OPB
 'its': EUTS
-'head;': HED STPH*FPLT
+'head;': HED/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'the': -T
@@ -151,12 +151,12 @@ The Neighbouring Families
 'everything': EFRG
 'got': TKPWOT
 'mixed': PHEUGD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'the': -T
 'picture': P*EUFP
 'was': WAS
-'gone.': TKPWOPB TP-PL
+'gone.': TKPWOPB/TP-PL
 'Two': KPA/TWO
 'feathers': TP*ET/ERS
 'which': WEU
@@ -168,7 +168,7 @@ The Neighbouring Families
 'floated': TPHROET/-D
 'up': UP
 'and': SKP
-'down;': TKOUPB STPH*FPLT
+'down;': TKOUPB/STPH*FPLT
 'suddenly': SULD
 'they': THE
 'took': TAOBG
@@ -179,7 +179,7 @@ The Neighbouring Families
 'the': -T
 'wind': WEUPBD
 'were': WR
-'coming,': KO*G KW-BG
+'coming,': KO*G/KW-BG
 'but': PWUT
 'as': AS
 'it': T
@@ -190,7 +190,7 @@ The Neighbouring Families
 'had': H
 'to': TO
 'lie': HRAOEU
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'and': SKP
 'the': -T
 'water': WAUR
@@ -199,41 +199,41 @@ The Neighbouring Families
 'became': PWAEUPL
 'quiet': KWAO*EUT
 'and': SKP
-'smooth.': SPHAO*T TP-PL
+'smooth.': SPHAO*T/TP-PL
 'The': KPA/-T
 'roses': ROES/-S
 'were': WR
 'again': TKPWEPB
-'reflected;': TPHREBGTD STPH*FPLT
+'reflected;': TPHREBGTD/STPH*FPLT
 'they': THE
 'were': WR
 'very': SRE
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'but': PWUT
 'they': THE
 'did': TK
 'not': TPHOT
 'know': TPHOE
-'it,': T KW-BG
+'it,': T/KW-BG
 'for': TPOR
 'no': TPHO
 'one': WUPB
 'had': H
 'told': TOLD
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'The': KPA/-T
 'sun': SUPB
 'shone': SHO*EPB
 'among': PHOPBG
 'the': -T
 'delicate': TKEL/KAT
-'leaves;': HREFS STPH*FPLT
+'leaves;': HREFS/STPH*FPLT
 'everything': EFRG
 'breathed': PWRAO*ETD
 'forth': TPO*RT
 'the': -T
 'loveliest': HROFL/KWREFT
-'fragrance,': TPRAEUG/RAPBS KW-BG
+'fragrance,': TPRAEUG/RAPBS/KW-BG
 'and': SKP
 'all': AUL
 'felt': TPELT
@@ -251,15 +251,15 @@ The Neighbouring Families
 'thought': THAUT
 'of': -F
 'our': OUR
-'happiness.': HAEP/-PBS TP-PL
-'"How': KR-GS KPA/HOU
+'happiness.': HAEP/-PBS/TP-PL
+'"How': KR-GS/KPA/HOU
 'beautiful': PWAOUFL
 'existence': KPEUFS
-'is!"': S SKHRAPL KR-GS
+'is!"': S/SKHRAPL/KR-GS
 'said': SED
 'each': AOEFP
-'rose.': ROEZ TP-PL
-'"The': KR-GS KPA/-T
+'rose.': ROEZ/TP-PL
+'"The': KR-GS/KPA/-T
 'only': OEPBL
 'thing': THEUPBG
 'that': THA
@@ -273,14 +273,14 @@ The Neighbouring Families
 'to': TO
 'kiss': KEUS
 'the': -T
-'sun,': SUPB KW-BG
+'sun,': SUPB/KW-BG
 'because': PWAU
 'it': T
 'is': S
 'so': SO
 'warm': WARPL
 'and': SKP
-'bright.': PWRAOEUT TP-PL
+'bright.': PWRAOEUT/TP-PL
 'I': EU
 'should': SHO
 'also': HR-S
@@ -292,13 +292,13 @@ The Neighbouring Families
 'down': TKOUPB
 'in': TPH
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'which': WEU
 'are': R
 'so': SO
 'much': PHUFP
 'like': HRAOEUBG
-'us,': US KW-BG
+'us,': US/KW-BG
 'and': SKP
 'the': -T
 'pretty': PREUT
@@ -307,13 +307,13 @@ The Neighbouring Families
 'down': TKOUPB
 'in': TPH
 'the': -T
-'nest.': TPHEFT TP-PL
+'nest.': TPHEFT/TP-PL
 'There': KPA/THR
 'are': R
 'some': SOPL
 'up': UP
 'above': PWOF
-'too;': TAO STPH*FPLT
+'too;': TAO/STPH*FPLT
 'they': THE
 'put': PUT
 'out': OUT
@@ -321,7 +321,7 @@ The Neighbouring Families
 'heads': HEDZ
 'and': SKP
 'pipe': PAOEUP
-'softly;': SOFT/HREU STPH*FPLT
+'softly;': SOFT/HREU/STPH*FPLT
 'they': THE
 'have': SR
 'no': TPHO
@@ -330,25 +330,25 @@ The Neighbouring Families
 'their': THAEUR
 'father': TPAER
 'and': SKP
-'mother.': PHOER TP-PL
+'mother.': PHOER/TP-PL
 'We': KPA/WE
 'have': SR
 'good': TKPWAOD
-'neighbours,': TPHAEUBS/A*U KW-BG
+'neighbours,': TPHAEUBS/A*U/KW-BG
 'both': PWO*T
 'below': PWHRO
 'and': SKP
-'above.': PWOF TP-PL
+'above.': PWOF/TP-PL
 'How': KPA/HOU
 'beautiful': PWAOUFL
 'existence': KPEUFS
-'is!"': S SKHRAPL KR-GS
+'is!"': S/SKHRAPL/KR-GS
 'The': KPA/-T
 'young': KWRUPBG
 'ones': WUPBZ
 'above': PWOF
 'and': SKP
-'below—those': PWHRO EPL/TKA*RB THOZ
+'below—those': PWHRO/EPL/TKA*RB/THOZ
 'below': PWHRO
 'were': WR
 'really': R-L
@@ -356,13 +356,13 @@ The Neighbouring Families
 'shadows': SHO*EUDZ
 'in': TPH
 'the': -T
-'water—were': WAUR EPL/TKA*RB WR
-'sparrows;': SPAEUR/ROE/-S STPH*FPLT
+'water—were': WAUR/EPL/TKA*RB/WR
+'sparrows;': SPAEUR/ROE/-S/STPH*FPLT
 'their': THAEUR
 'parents': PARPBTS
 'were': WR
 'sparrows': SPAEUR/ROE/-S
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'and': SKP
 'had': H
 'taken': TAEPB
@@ -370,11 +370,11 @@ The Neighbouring Families
 'of': -F
 'the': -T
 'empty': EPLT
-'swallows'': SWAL/OES AE
+'swallows'': SWAL/OES/AE
 'nest': TPHEFT
 'of': -F
 'last': HRAFT
-'year,': KWRAOER KW-BG
+'year,': KWRAOER/KW-BG
 'and': SKP
 'now': TPHOU
 'lived': HREUFD
@@ -386,14 +386,14 @@ The Neighbouring Families
 'were': WR
 'their': THAEUR
 'own': OEPB
-'property.': PROT TP-PL
-'"Are': KR-GS KPA/R
+'property.': PROT/TP-PL
+'"Are': KR-GS/KPA/R
 'those': THOZ
 'the': -T
-'duck's': TKUBG AES
+'duck's': TKUBG/AES
 'children': KHEURPB
 'swimming': SWEUPLG
-'here?"': HAOER H-F KR-GS
+'here?"': HAOER/H-F/KR-GS
 'asked': SK-D
 'the': -T
 'young': KWRUPBG
@@ -405,25 +405,25 @@ The Neighbouring Families
 'feathers': TP*ET/ERS
 'on': OPB
 'the': -T
-'water.': WAUR TP-PL
-'"If': KR-GS KPA/TP
+'water.': WAUR/TP-PL
+'"If': KR-GS/KPA/TP
 'you': U
 'must': PHUFT
 'ask': SK
-'questions,': KWES KW-BG
+'questions,': KWES/KW-BG
 'ask': SK
 'sensible': SEPBS/-BL
-'ones,"': WUPBZ KW-BG KR-GS
+'ones,"': WUPBZ/KW-BG/KR-GS
 'said': SED
 'their': THAEUR
-'mother.': PHOER TP-PL
-'"Don't': KR-GS TKO*PB AE T*
+'mother.': PHOER/TP-PL
+'"Don't': KR-GS/TKO*PB/AE/T*
 'you': U
 'see': SAOE
 'that': THA
 'they': THE
 'are': R
-'feathers,': TP*ET/ERS KW-BG
+'feathers,': TP*ET/ERS/KW-BG
 'such': SUFP
 'as': AS
 'I': EU
@@ -432,12 +432,12 @@ The Neighbouring Families
 'you': U
 'will': HR
 'wear': WAER
-'too?': TAO H-F
+'too?': TAO/H-F
 'But': KPA/PWUT
 'ours': OURS
 'are': R
-'finer.': TPAOEURPB TP-PL
-'Still,': KPA/STEUL KW-BG
+'finer.': TPAOEURPB/TP-PL
+'Still,': KPA/STEUL/KW-BG
 'I': EU
 'should': SHO
 'like': HRAOEUBG
@@ -447,12 +447,12 @@ The Neighbouring Families
 'up': UP
 'in': TPH
 'the': -T
-'nest,': TPHEFT KW-BG
+'nest,': TPHEFT/KW-BG
 'for': TPOR
 'they': THE
 'keep': KAOEP
 'one': WUPB
-'warm.': WARPL TP-PL
+'warm.': WARPL/TP-PL
 'I': EU
 'am': APL
 'very': SRE
@@ -465,65 +465,65 @@ The Neighbouring Families
 'were': WR
 'so': SO
 'startled': START/-LD
-'about;': PW STPH*FPLT
+'about;': PW/STPH*FPLT
 'not': TPHOT
 'about': PW
-'us,': US KW-BG
-'certainly,': SERPBL KW-BG
+'us,': US/KW-BG
+'certainly,': SERPBL/KW-BG
 'although': HR*T
 'I': EU
 'did': TK
 'say': SAEU
-''peep'': AE PAOEP AE
+''peep'': AE/PAOEP/AE
 'to': TO
 'you': U
 'pretty': PREUT
-'loudly.': HROUD/HREU TP-PL
+'loudly.': HROUD/HREU/TP-PL
 'The': KPA/-T
-'thick-headed': THEUBG H-PB HED/-D
+'thick-headed': THEUBG/H-PB/HED/-D
 'roses': ROES/-S
 'ought': OT
 'to': TO
 'know': TPHOE
-'why,': KWR KW-BG
+'why,': KWR/KW-BG
 'but': PWUT
 'they': THE
 'know': TPHOE
 'nothing': TPHOG
 'at': AT
-'all;': AUL STPH*FPLT
+'all;': AUL/STPH*FPLT
 'they': THE
 'only': OEPBL
 'look': HRAOBG
 'at': AT
 'themselves': TH*EPLS
 'and': SKP
-'smell.': SPHEL TP-PL
+'smell.': SPHEL/TP-PL
 'I': EU
 'am': APL
 'heartily': HART/HREU
 'tired': TAOEURD
 'of': -F
 'such': SUFP
-'neighbours."': TPHAEUBS/A*U TP-PL KR-GS
-'"Listen': KR-GS KPA/HREUFPB
+'neighbours."': TPHAEUBS/A*U/TP-PL/KR-GS
+'"Listen': KR-GS/KPA/HREUFPB
 'to': TO
 'the': -T
 'dear': TKAER
 'little': HREUL
 'birds': PWEURDZ
 'up': UP
-'there,"': THR KW-BG KR-GS
+'there,"': THR/KW-BG/KR-GS
 'said': SED
 'the': -T
-'roses;': ROES/-S STPH*FPLT
-'"they': KR-GS THE
+'roses;': ROES/-S/STPH*FPLT
+'"they': KR-GS/THE
 'begin': TKPWEUPB
 'to': TO
 'want': WAPBT
 'to': TO
 'sing': SEUPBG
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'but': PWUT
 'are': R
 'not': TPHOT
@@ -531,18 +531,18 @@ The Neighbouring Families
 'to': TO
 'manage': PHAPBG
 'it': T
-'yet.': KWRET TP-PL
+'yet.': KWRET/TP-PL
 'But': KPA/PWUT
 'it': T
 'will': HR
 'soon': SAOPB
-'come.': KOPL TP-PL
+'come.': KOPL/TP-PL
 'What': KPA/WHA
 'a': AEU
 'pleasure': PHRERB
 'that': THA
 'must': PHUFT
-'be!': -B SKHRAPL
+'be!': -B/SKHRAPL
 'It': KPA/T
 'is': S
 'fine': TPAOEUPB
@@ -550,7 +550,7 @@ The Neighbouring Families
 'have': SR
 'such': SUFP
 'cheerful': KHAOER/-FL
-'neighbours."': TPHAEUBS/A*U TP-PL KR-GS
+'neighbours."': TPHAEUBS/A*U/TP-PL/KR-GS
 'Suddenly': KPA/SULD
 'two': TWO
 'horses': HORSZ
@@ -559,13 +559,13 @@ The Neighbouring Families
 'up': UP
 'to': TO
 'be': -B
-'watered.': WAURD TP-PL
+'watered.': WAURD/TP-PL
 'A': KPA/AEU
 'peasant': PEFPBT
 'boy': PWOEU
 'rode': ROED
 'on': OPB
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'and': SKP
 'he': HE
 'had': H
@@ -579,13 +579,13 @@ The Neighbouring Families
 'large': HRARPBLG
 'broad': PWRAOD
 'black': PWHRABG
-'hat.': HAT TP-PL
+'hat.': HAT/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'whistled': WHEUS/-LD
 'like': HRAOEUBG
 'a': AEU
-'bird,': PWEURD KW-BG
+'bird,': PWEURD/KW-BG
 'and': SKP
 'rode': ROED
 'into': TPHAO
@@ -594,13 +594,13 @@ The Neighbouring Families
 'where': W-R
 'it': T
 'was': WAS
-'deepest,': TKAOEP/EFT KW-BG
+'deepest,': TKAOEP/EFT/KW-BG
 'and': SKP
 'as': AS
 'he': HE
 'passed': PAFD
 'the': -T
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'he': HE
 'plucked': PHRUBGD
 'a': AEU
@@ -610,37 +610,37 @@ The Neighbouring Families
 'it': T
 'in': TPH
 'his': HEUS
-'hat.': HAT TP-PL
+'hat.': HAT/TP-PL
 'Now': KPA/TPHOU
 'he': HE
 'looked': HRAOBGD
-'dressed,': TKREFD KW-BG
+'dressed,': TKREFD/KW-BG
 'and': SKP
 'rode': ROED
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'The': KPA/-T
 'other': OER
 'roses': ROES/-S
 'looked': HRAOBGD
 'after': AF
 'their': THAEUR
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'and': SKP
 'asked': SK-D
 'each': AOEFP
-'other,': OER KW-BG
-'"Where': KR-GS KPA/W-R
+'other,': OER/KW-BG
+'"Where': KR-GS/KPA/W-R
 'can': K
 'she': SHE
 'be': -B
 'going': TKPW-G
-'to?"': TO H-F KR-GS
+'to?"': TO/H-F/KR-GS
 'But': KPA/PWUT
 'none': TPHOPB
 'of': -F
 'them': THEPL
-'knew.': TPHAOU TP-PL
-'"I': KR-GS EU
+'knew.': TPHAOU/TP-PL
+'"I': KR-GS/EU
 'should': SHO
 'like': HRAOEUBG
 'to': TO
@@ -650,10 +650,10 @@ The Neighbouring Families
 'the': -T
 'world': WORLD
 'for': TPOR
-'once,"': WUPBS KW-BG KR-GS
+'once,"': WUPBS/KW-BG/KR-GS
 'said': SED
-'one;': WUPB STPH*FPLT
-'"but': KR-GS PWUT
+'one;': WUPB/STPH*FPLT
+'"but': KR-GS/PWUT
 'here': HAOER
 'at': AT
 'home': HOEPL
@@ -664,7 +664,7 @@ The Neighbouring Families
 'it': T
 'is': S
 'beautiful': PWAOUFL
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'The': KPA/-T
 'whole': WHOEL
 'day': TKAEU
@@ -674,7 +674,7 @@ The Neighbouring Families
 'shines': SHAOEUPBS
 'bright': PWRAOEUT
 'and': SKP
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -684,7 +684,7 @@ The Neighbouring Families
 'shines': SHAOEUPBS
 'more': PHOR
 'beautifully': PWAOUFL/HREU
-'still;': STEUL STPH*FPLT
+'still;': STEUL/STPH*FPLT
 'we': WE
 'can': K
 'see': SAOE
@@ -695,71 +695,71 @@ The Neighbouring Families
 'little': HREUL
 'holes': HOELS
 'in': TPH
-'it."': T TP-PL KR-GS
+'it."': T/TP-PL/KR-GS
 'They': KPA/THE
 'meant': PHEPBT
 'the': -T
-'stars,': STARS KW-BG
+'stars,': STARS/KW-BG
 'but': PWUT
 'they': THE
 'knew': TPHAOU
 'no': TPHO
-'better.': PWOERT TP-PL
-'"We': KR-GS KPA/WE
+'better.': PWOERT/TP-PL
+'"We': KR-GS/KPA/WE
 'make': PHAEUBG
 'it': T
 'lively': HRAOEUFL
 'about': PW
 'the': -T
-'house,"': HOUS KW-BG KR-GS
+'house,"': HOUS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'sparrow-mother;': SPAEUR/ROE H-PB PHOER STPH*FPLT
-'"and': KR-GS SKP
+'sparrow-mother;': SPAEUR/ROE/H-PB/PHOER/STPH*FPLT
+'"and': KR-GS/SKP
 'people': PAOEPL
 'say': SAEU
 'that': THA
 'a': AEU
-'swallows'': SWAL/OES AE
+'swallows'': SWAL/OES/AE
 'nest': TPHEFT
 'brings': PWREUS
-'luck;': HRUBG STPH*FPLT
+'luck;': HRUBG/STPH*FPLT
 'so': SO
 'they': THE
 'are': R
 'glad': TKPWHRAD
 'of': -F
-'us.': US TP-PL
+'us.': US/TP-PL
 'But': KPA/PWUT
 'such': SUFP
 'neighbours': TPHAEUBS/A*U
 'as': AS
-'ours!': OURS SKHRAPL
+'ours!': OURS/SKHRAPL
 'A': KPA/AEU
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'on': OPB
 'the': -T
 'wall': WAUL
 'like': HRAOEUBG
 'that': THA
 'causes': KAUFS
-'damp.': TKAFRP TP-PL
+'damp.': TKAFRP/TP-PL
 'I': EU
 'daresay': TKAEUR/TK-LS/SAEU
 'it': T
 'will': HR
 'be': -B
 'taken': TAEPB
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'then': THEPB
 'we': WE
-'shall,': SHAL KW-BG
-'perhaps,': PRAPS KW-BG
+'shall,': SHAL/KW-BG
+'perhaps,': PRAPS/KW-BG
 'have': SR
 'some': SOPL
 'corn': KORPB
 'growing': TKPWROEG
-'here.': HAOER TP-PL
+'here.': HAOER/TP-PL
 'The': KPA/-T
 'roses': ROES/-S
 'are': R
@@ -774,7 +774,7 @@ The Neighbouring Families
 'and': SKP
 'to': TO
 'be': -B
-'smelt,': SPHELT KW-BG
+'smelt,': SPHELT/KW-BG
 'or': OR
 'at': AT
 'most': PHOFT
@@ -783,9 +783,9 @@ The Neighbouring Families
 'stuck': STUBG
 'in': TPH
 'a': AEU
-'hat.': HAT TP-PL
+'hat.': HAT/TP-PL
 'Every': KPA/EF
-'year,': KWRAOER KW-BG
+'year,': KWRAOER/KW-BG
 'as': AS
 'I': EU
 'have': SR
@@ -793,12 +793,12 @@ The Neighbouring Families
 'told': TOLD
 'by': PWEU
 'my': PHEU
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'they': THE
 'fall': TPAUL
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'The': KPA/-T
-'farmer's': TPAR/PHER AES
+'farmer's': TPAR/PHER/AES
 'wife': WAOEUF
 'preserves': PRE/SER/*FS
 'them': THEPL
@@ -806,7 +806,7 @@ The Neighbouring Families
 'strews': STRAOU/-S
 'salt': SALT
 'among': PHOPBG
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'then': THEPB
 'they': THE
 'get': TKPWET
@@ -820,7 +820,7 @@ The Neighbouring Families
 'pronounce': PROUPBS
 'nor': TPH-R
 'care': KAEUR
-'to,': TO KW-BG
+'to,': TO/KW-BG
 'and': SKP
 'are': R
 'put': PUT
@@ -831,12 +831,12 @@ The Neighbouring Families
 'make': PHAEUBG
 'a': AEU
 'nice': TPHAOEUS
-'smell.': SPHEL TP-PL
+'smell.': SPHEL/TP-PL
 'You': KPA/U
-'see,': SAOE KW-BG
+'see,': SAOE/KW-BG
 'that's': THATS
 'their': THAEUR
-'life;': HRAOEUF STPH*FPLT
+'life;': HRAOEUF/STPH*FPLT
 'they': THE
 'exist': KPEUFT
 'only': OEPBL
@@ -845,13 +845,13 @@ The Neighbouring Families
 'eye': AOEU
 'and': SKP
 'the': -T
-'nose.': TPHOES TP-PL
+'nose.': TPHOES/TP-PL
 'Now': KPA/TPHOU
 'you': U
-'know."': TPHOE TP-PL KR-GS
+'know."': TPHOE/TP-PL/KR-GS
 'In': KPA/TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'when': WHEPB
 'the': -T
 'gnats': TPHA*T/-S
@@ -866,7 +866,7 @@ The Neighbouring Families
 'in': TPH
 'the': -T
 'red': RED
-'clouds,': KHROUDZ KW-BG
+'clouds,': KHROUDZ/KW-BG
 'the': -T
 'nightingale': TPHAOEUT/-G/TKPWAEL
 'came': KAEUPL
@@ -883,14 +883,14 @@ The Neighbouring Families
 'sunshine': SUPB/SHAO*EUPB
 'to': TO
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'and': SKP
 'that': THA
 'the': -T
 'beautiful': PWAOUFL
 'lived': HREUFD
 'for': TPOR
-'ever.': -FR TP-PL
+'ever.': -FR/TP-PL
 'The': KPA/-T
 'roses': ROES/-S
 'thought': THAUT
@@ -900,14 +900,14 @@ The Neighbouring Families
 'was': WAS
 'singing': SEUPBG/-G
 'about': PW
-'itself,': T/SEFL KW-BG
+'itself,': T/SEFL/KW-BG
 'and': SKP
 'that': THA
 'one': WUPB
 'might': PHAOEUT
 'easily': AOELS
 'have': SR
-'believed;': PWHREFD STPH*FPLT
+'believed;': PWHREFD/STPH*FPLT
 'they': THE
 'had': H
 'no': TPHO
@@ -917,14 +917,14 @@ The Neighbouring Families
 'song': SOPBG
 'was': WAS
 'about': PW
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'But': KPA/PWUT
 'they': THE
 'were': WR
 'very': SRE
 'pleased': PHREFD
 'with': W
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'wondered': WOPBD/-D
 'whether': WHR
@@ -934,8 +934,8 @@ The Neighbouring Families
 'sparrows': SPAEUR/ROE/-S
 'could': KO
 'become': PW-BG
-'nightingales.': TPHAOEUT/-G/TKPWAEL/-S TP-PL
-'"I': KR-GS EU
+'nightingales.': TPHAOEUT/-G/TKPWAEL/-S/TP-PL
+'"I': KR-GS/EU
 'understand': URPBD
 'the': -T
 'song': SOPBG
@@ -943,12 +943,12 @@ The Neighbouring Families
 'that': THA
 'bird': PWEURD
 'very': SRE
-'well,"': WEL KW-BG KR-GS
+'well,"': WEL/KW-BG/KR-GS
 'said': SED
 'the': -T
 'young': KWRUPBG
-'sparrows.': SPAEUR/ROE/-S TP-PL
-'"There': KR-GS KPA/THR
+'sparrows.': SPAEUR/ROE/-S/TP-PL
+'"There': KR-GS/KPA/THR
 'was': WAS
 'only': OEPBL
 'one': WUPB
@@ -958,33 +958,33 @@ The Neighbouring Families
 'not': TPHOT
 'clear': KHRAOER
 'to': TO
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'What': KPA/WHA
 'does': TKOS
-''the': AE -T
-'beautiful'': PWAOUFL AE
-'mean?"': PHAOEPB H-F KR-GS
-'"Nothing': KR-GS KPA/TPHOG
+''the': AE/-T
+'beautiful'': PWAOUFL/AE
+'mean?"': PHAOEPB/H-F/KR-GS
+'"Nothing': KR-GS/KPA/TPHOG
 'at': AT
-'all,"': AUL KW-BG KR-GS
+'all,"': AUL/KW-BG/KR-GS
 'answered': AEPBS/-D
 'their': THAEUR
-'mother;': PHOER STPH*FPLT
+'mother;': PHOER/STPH*FPLT
 '"that's': KW-GS/THATS
 'only': OEPBL
 'something': S-G
-'external.': KPERPBL TP-PL
+'external.': KPERPBL/TP-PL
 'Up': KPA/UP
 'at': AT
 'the': -T
-'Hall,': HA*L KW-BG
+'Hall,': HA*L/KW-BG
 'where': W-R
 'the': -T
 'pigeons': PEUPBLG/-PBS
 'have': SR
 'their': THAEUR
 'own': OEPB
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'corn': KORPB
 'and': SKP
@@ -994,20 +994,20 @@ The Neighbouring Families
 'before': PW-FR
 'them': THEPL
 'every': EF
-'day—I': TKAEU EPL/TKA*RB EU
+'day—I': TKAEU/EPL/TKA*RB/EU
 'have': SR
 'dined': TKAOEUPBD
 'with': W
 'them': THEPL
-'myself,': PHAO*EUS KW-BG
+'myself,': PHAO*EUS/KW-BG
 'and': SKP
 'that': THA
 'you': U
 'shall': SHAL
 'do': TKO
 'in': TPH
-'time,': TAOEUPL KW-BG
-'too;': TAO STPH*FPLT
+'time,': TAOEUPL/KW-BG
+'too;': TAO/STPH*FPLT
 'for': TPOR
 'tell': TEL
 'me': PHE
@@ -1021,7 +1021,7 @@ The Neighbouring Families
 'you': U
 'who': WHO
 'you': U
-'are—up': R EPL/TKA*RB UP
+'are—up': R/EPL/TKA*RB/UP
 'at': AT
 'the': -T
 'Hall': HA*L
@@ -1037,7 +1037,7 @@ The Neighbouring Families
 'crest': KREFT
 'upon': POPB
 'their': THAEUR
-'heads;': HEDZ STPH*FPLT
+'heads;': HEDZ/STPH*FPLT
 'they': THE
 'can': K
 'spread': SPRED
@@ -1047,7 +1047,7 @@ The Neighbouring Families
 'like': HRAOEUBG
 'a': AEU
 'great': TKPWRAET
-'wheel,': WHAOEL KW-BG
+'wheel,': WHAOEL/KW-BG
 'and': SKP
 'these': THEZ
 'are': R
@@ -1061,17 +1061,17 @@ The Neighbouring Families
 'makes': PHAEUBGS
 'one's': W*UPBS
 'eyes': AO*EUS
-'ache.': AEUBG TP-PL
+'ache.': AEUBG/TP-PL
 'These': KPA/THEZ
 'birds': PWEURDZ
 'are': R
 'called': KAULD
-'peacocks,': PAE/KOBG/-S KW-BG
+'peacocks,': PAE/KOBG/-S/KW-BG
 'and': SKP
 'that': THA
 'is': S
-''the': AE -T
-'beautiful.'': PWAOUFL TP-PL AE
+''the': AE/-T
+'beautiful.'': PWAOUFL/TP-PL/AE
 'If': KPA/TP
 'they': THE
 'were': WR
@@ -1088,7 +1088,7 @@ The Neighbouring Families
 'the': -T
 'rest': REFT
 'of': -F
-'us.': US TP-PL
+'us.': US/TP-PL
 'I': EU
 'would': WO
 'have': SR
@@ -1101,19 +1101,19 @@ The Neighbouring Families
 'not': TPHOT
 'been': PW-PB
 'so': SO
-'big."': PWEUG TP-PL KR-GS
-'"I'll': KR-GS EU AE HR*/HR*
+'big."': PWEUG/TP-PL/KR-GS
+'"I'll': KR-GS/EU/AE/HR*/HR*
 'pluck': PHRUBG
-'them,"': THEPL KW-BG KR-GS
+'them,"': THEPL/KW-BG/KR-GS
 'piped': PAOEUPD
 'the': -T
 'young': KWRUPBG
-'sparrow,': SPAEUR/ROE KW-BG
+'sparrow,': SPAEUR/ROE/KW-BG
 'who': WHO
 'had': H
 'no': TPHO
 'feathers': TP*ET/ERS
-'yet.': KWRET TP-PL
+'yet.': KWRET/TP-PL
 'In': KPA/TPH
 'the': -T
 'farmhouse': TPARPL/HOUS
@@ -1121,16 +1121,16 @@ The Neighbouring Families
 'a': AEU
 'young': KWRUPBG
 'married': PHAERD
-'couple;': KUPL STPH*FPLT
+'couple;': KUPL/STPH*FPLT
 'they': THE
 'loved': HROFD
 'each': AOEFP
 'other': OER
-'dearly,': TKAERL KW-BG
+'dearly,': TKAERL/KW-BG
 'were': WR
 'industrious': STREUS
 'and': SKP
-'active,': TAEF KW-BG
+'active,': TAEF/KW-BG
 'and': SKP
 'everything': EFRG
 'in': TPH
@@ -1138,7 +1138,7 @@ The Neighbouring Families
 'home': HOEPL
 'looked': HRAOBGD
 'very': SRE
-'nice.': TPHAOEUS TP-PL
+'nice.': TPHAOEUS/TP-PL
 'On': KPA/OPB
 'Sundays': SUPBDZ
 'the': -T
@@ -1146,7 +1146,7 @@ The Neighbouring Families
 'wife': WAOEUF
 'came': KAEUPL
 'down': TKOUPB
-'early,': ERL KW-BG
+'early,': ERL/KW-BG
 'plucked': PHRUBGD
 'a': AEU
 'handful': HAPBD/-FL
@@ -1154,7 +1154,7 @@ The Neighbouring Families
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'and': SKP
 'put': PUT
 'them': THEPL
@@ -1162,40 +1162,40 @@ The Neighbouring Families
 'a': AEU
 'glass': TKPWHRAS
 'of': -F
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'which': WEU
 'she': SHE
 'placed': PHRAEUFD
 'upon': POPB
 'the': -T
-'cupboard.': KUP/PWAORD TP-PL
-'"Now': KR-GS KPA/TPHOU
+'cupboard.': KUP/PWAORD/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'I': EU
 'see': SAOE
 'that': THA
 'it': T
 'is': S
-'Sunday,"': SUPBD KW-BG KR-GS
+'Sunday,"': SUPBD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'husband,': HUS KW-BG
+'husband,': HUS/KW-BG
 'kissing': KEUFG
 'his': HEUS
 'little': HREUL
-'wife.': WAOEUF TP-PL
+'wife.': WAOEUF/TP-PL
 'They': KPA/THE
 'sat': SAT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'read': RAED
 'their': THAEUR
-'hymn-book,': H*EUPL H-PB PWAOBG KW-BG
+'hymn-book,': H*EUPL/H-PB/PWAOBG/KW-BG
 'and': SKP
 'held': HELD
 'each': AOEFP
 'other': OER
 'by': PWEU
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'while': WHAOEUL
 'the': -T
 'sun': SUPB
@@ -1207,16 +1207,16 @@ The Neighbouring Families
 'roses': ROES/-S
 'and': SKP
 'upon': POPB
-'them.': THEPL TP-PL
-'"This': KR-GS KPA/TH
+'them.': THEPL/TP-PL
+'"This': KR-GS/KPA/TH
 'sight': SAOEUT
 'is': S
 'really': R-L
 'too': TAO
-'tedious,"': TAOED/KWROUS KW-BG KR-GS
+'tedious,"': TAOED/KWROUS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'sparrow-mother,': SPAEUR/ROE H-PB PHOER KW-BG
+'sparrow-mother,': SPAEUR/ROE/H-PB/PHOER/KW-BG
 'who': WHO
 'could': KO
 'see': SAOE
@@ -1225,11 +1225,11 @@ The Neighbouring Families
 'room': RAOPL
 'from': TPR
 'her': HER
-'nest;': TPHEFT STPH*FPLT
+'nest;': TPHEFT/STPH*FPLT
 'and': SKP
 'she': SHE
 'flew': TPHRAOU
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
 'same': SAEUPL
 'thing': THEUPBG
@@ -1237,7 +1237,7 @@ The Neighbouring Families
 'on': OPB
 'the': -T
 'following': TPOLG
-'Sunday,': SUPBD KW-BG
+'Sunday,': SUPBD/KW-BG
 'for': TPOR
 'every': EF
 'Sunday': SUPBD
@@ -1247,21 +1247,21 @@ The Neighbouring Families
 'put': PUT
 'into': TPHAO
 'the': -T
-'glass;': TKPWHRAS STPH*FPLT
+'glass;': TKPWHRAS/STPH*FPLT
 'but': PWUT
 'the': -T
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'bloomed': PWHRAOPL/-D
 'as': AS
 'beautifully': PWAOUFL/HREU
 'as': AS
-'ever.': -FR TP-PL
+'ever.': -FR/TP-PL
 'The': KPA/-T
 'young': KWRUPBG
 'sparrows': SPAEUR/ROE/-S
 'now': TPHOU
 'had': H
-'feathers,': TP*ET/ERS KW-BG
+'feathers,': TP*ET/ERS/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'very': SRE
@@ -1270,13 +1270,13 @@ The Neighbouring Families
 'fly': TPHRAOEU
 'with': W
 'their': THAEUR
-'mother;': PHOER STPH*FPLT
+'mother;': PHOER/STPH*FPLT
 'but': PWUT
 'she': SHE
 'would': WO
 'not': TPHOT
 'allow': HROU
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'so': SO
 'they': THE
@@ -1284,29 +1284,29 @@ The Neighbouring Families
 'to': TO
 'stay': STAEU
 'at': AT
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'In': KPA/TPH
 'one': WUPB
 'of': -F
 'her': HER
-'flights,': TPHRAOEUTS KW-BG
+'flights,': TPHRAOEUTS/KW-BG
 'however': HOUF
 'it': T
 'may': PHAE
 'have': SR
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'she': SHE
 'was': WAS
-'caught,': KAUT KW-BG
+'caught,': KAUT/KW-BG
 'before': PW-FR
 'she': SHE
 'was': WAS
 'aware': A/WAEUR
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'in': TPH
 'a': AEU
-'horse-hair': HORS H-PB HAEUR
+'horse-hair': HORS/H-PB/HAEUR
 'net': TPHET
 'which': WEU
 'some': SOPL
@@ -1315,15 +1315,15 @@ The Neighbouring Families
 'attached': A/TAFPD
 'to': TO
 'a': AEU
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'The': KPA/-T
-'horse-hair': HORS H-PB HAEUR
+'horse-hair': HORS/H-PB/HAEUR
 'was': WAS
 'drawn': TKRAUPB
 'tightly': TAOEUT/HREU
 'round': ROUPBD
 'her': HER
-'leg—as': HREG EPL/TKA*RB AS
+'leg—as': HREG/EPL/TKA*RB/AS
 'tightly': TAOEUT/HREU
 'as': AS
 'if': TP
@@ -1333,14 +1333,14 @@ The Neighbouring Families
 'to': TO
 'be': -B
 'cut': KUT
-'off;': OF STPH*FPLT
+'off;': OF/STPH*FPLT
 'she': SHE
 'was': WAS
 'in': TPH
 'great': TKPWRAET
 'pain': PAEUPB
 'and': SKP
-'terror.': TER/O*R TP-PL
+'terror.': TER/O*R/TP-PL
 'The': KPA/-T
 'boys': PWOEUS
 'came': KAEUPL
@@ -1348,23 +1348,23 @@ The Neighbouring Families
 'up': UP
 'and': SKP
 'seized': SAOEZ/-D
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'in': TPH
 'no': TPHO
 'gentle': SKWR*EPBLT
 'way': WAEU
-'either.': AOERT TP-PL
-'"It's': KR-GS KPA/T AES
+'either.': AOERT/TP-PL
+'"It's': KR-GS/KPA/T/AES
 'only': OEPBL
 'a': AEU
-'sparrow,"': SPAEUR/ROE KW-BG KR-GS
+'sparrow,"': SPAEUR/ROE/KW-BG/KR-GS
 'they': THE
-'said;': SED STPH*FPLT
+'said;': SED/STPH*FPLT
 'they': THE
 'did': TK
-'not,': TPHOT KW-BG
-'however,': HOUF KW-BG
+'not,': TPHOT/KW-BG
+'however,': HOUF/KW-BG
 'let': HRET
 'her': HER
 'go,': TKPW-RBGS
@@ -1373,7 +1373,7 @@ The Neighbouring Families
 'her': HER
 'home': HOEPL
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'every': EF
 'time': TAOEUPL
@@ -1384,7 +1384,7 @@ The Neighbouring Families
 'her': HER
 'on': OPB
 'the': -T
-'beak.': PWAOEBG TP-PL
+'beak.': PWAOEBG/TP-PL
 'In': KPA/TPH
 'the': -T
 'farmhouse': TPARPL/HOUS
@@ -1399,21 +1399,21 @@ The Neighbouring Families
 'into': TPHAO
 'cakes': KAEUBG/-S
 'and': SKP
-'balls,': PWAULS KW-BG
+'balls,': PWAULS/KW-BG
 'both': PWO*T
 'for': TPOR
 'shaving': SHAFG
 'and': SKP
-'washing.': WARBG TP-PL
+'washing.': WARBG/TP-PL
 'He': KPA/HE
 'was': WAS
 'a': AEU
 'merry': PHER/REU
 'old': OLD
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'always': AULS
 'wandering': WAPBGD
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'On': KPA/OPB
 'seeing': SAOEG
 'the': -T
@@ -1422,7 +1422,7 @@ The Neighbouring Families
 'the': -T
 'boys': PWOEUS
 'had': H
-'brought,': PWRAUT KW-BG
+'brought,': PWRAUT/KW-BG
 'and': SKP
 'which': WEU
 'they': THE
@@ -1430,16 +1430,16 @@ The Neighbouring Families
 'they': THE
 'did': TK
 'not': TPHOT
-'want,': WAPBT KW-BG
+'want,': WAPBT/KW-BG
 'he': HE
-'asked,': SK-D KW-BG
-'"Shall': KR-GS KPA/SHAL
+'asked,': SK-D/KW-BG
+'"Shall': KR-GS/KPA/SHAL
 'we': WE
 'make': PHAEUBG
 'it': T
 'look': HRAOBG
 'very': SRE
-'pretty?"': PREUT H-F KR-GS
+'pretty?"': PREUT/H-F/KR-GS
 'At': KPA/AT
 'these': THEZ
 'words': WORDZ
@@ -1449,18 +1449,18 @@ The Neighbouring Families
 'ran': RAPB
 'through': THRU
 'the': -T
-'sparrow-mother.': SPAEUR/ROE H-PB PHOER TP-PL
+'sparrow-mother.': SPAEUR/ROE/H-PB/PHOER/TP-PL
 'Out': KPA/OUT
 'of': -F
 'his': HEUS
-'box,': PWOBGS KW-BG
+'box,': PWOBGS/KW-BG
 'in': TPH
 'which': WEU
 'were': WR
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'colours,': KHRORS/A*U KW-BG
+'colours,': KHRORS/A*U/KW-BG
 'the': -T
 'old': OLD
 'man': PHAPB
@@ -1469,7 +1469,7 @@ The Neighbouring Families
 'quantity': KWAPBT
 'of': -F
 'shining': SHAOEUPBG
-'leaf-gold,': HRAOEF H-PB TKPWOELD KW-BG
+'leaf-gold,': HRAOEF/H-PB/TKPWOELD/KW-BG
 'while': WHAOEUL
 'the': -T
 'boys': PWOEUS
@@ -1481,7 +1481,7 @@ The Neighbouring Families
 'some': SOPL
 'white': WHAOEUT
 'of': -F
-'egg,': EG KW-BG
+'egg,': EG/KW-BG
 'with': W
 'which': WEU
 'the': -T
@@ -1491,37 +1491,37 @@ The Neighbouring Families
 'be': -B
 'smeared': SPHAOERD
 'all': AUL
-'over;': OEFR STPH*FPLT
+'over;': OEFR/STPH*FPLT
 'the': -T
 'gold': TKPWOELD
 'was': WAS
 'stuck': STUBG
 'on': OPB
 'to': TO
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
 'the': -T
-'sparrow-mother': SPAEUR/ROE H-PB PHOER
+'sparrow-mother': SPAEUR/ROE/H-PB/PHOER
 'was': WAS
 'now': TPHOU
 'gilded': TKPWEULD/-D
 'all': AUL
-'over.': OEFR TP-PL
+'over.': OEFR/TP-PL
 'But': KPA/PWUT
-'she,': SHE KW-BG
+'she,': SHE/KW-BG
 'trembling': TREPL/-BLG
 'in': TPH
 'every': EF
-'limb,': HREUPL KW-BG
+'limb,': HREUPL/KW-BG
 'did': TK
 'not': TPHOT
 'think': THEU
 'of': -F
 'the': -T
-'adornment.': A/TKORPB/*PLT TP-PL
+'adornment.': A/TKORPB/*PLT/TP-PL
 'Then': KPA/THEPB
 'the': -T
-'soap-man': SOEP H-PB PHAPB
+'soap-man': SOEP/H-PB/PHAPB
 'tore': TO*R
 'off': OF
 'a': AEU
@@ -1534,7 +1534,7 @@ The Neighbouring Families
 'of': -F
 'his': HEUS
 'old': OLD
-'jacket,': SKWRABGT KW-BG
+'jacket,': SKWRABGT/KW-BG
 'and': SKP
 'cutting': KUGT
 'it': T
@@ -1546,26 +1546,26 @@ The Neighbouring Families
 'look': HRAOBG
 'like': HRAOEUBG
 'a': AEU
-'cock's': KOBG AES
-'comb,': KOEPL KW-BG
+'cock's': KOBG/AES
+'comb,': KOEPL/KW-BG
 'he': HE
 'stuck': STUBG
 'it': T
 'to': TO
 'the': -T
-'bird's': PWEURD AES
-'head.': HED TP-PL
-'"Now': KR-GS KPA/TPHOU
+'bird's': PWEURD/AES
+'head.': HED/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'you': U
 'will': HR
 'see': SAOE
 'the': -T
-'gold-jacket': TKPWOELD H-PB SKWRABGT
-'fly,"': TPHRAOEU KW-BG KR-GS
+'gold-jacket': TKPWOELD/H-PB/SKWRABGT
+'fly,"': TPHRAOEU/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'letting': HREGT
 'the': -T
 'sparrow': SPAEUR/ROE
@@ -1575,33 +1575,33 @@ The Neighbouring Families
 'away': WA*EU
 'in': TPH
 'deadly': TKED/HREU
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'with': W
 'the': -T
 'sun': SUPB
 'shining': SHAOEUPBG
 'upon': POPB
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'How': KPA/HOU
 'she': SHE
-'glittered!': TKPWHREUT/ERD SKHRAPL
+'glittered!': TKPWHREUT/ERD/SKHRAPL
 'All': KPA/AUL
 'the': -T
-'sparrows,': SPAEUR/ROE/-S KW-BG
+'sparrows,': SPAEUR/ROE/-S/KW-BG
 'and': SKP
 'even': AOEPB
 'a': AEU
-'crow—and': KROE EPL/TKA*RB SKP
+'crow—and': KROE/EPL/TKA*RB/SKP
 'an': APB
 'old': OLD
 'boy': PWOEU
 'he': HE
 'was': WAS
-'too—were': TAO EPL/TKA*RB WR
+'too—were': TAO/EPL/TKA*RB/WR
 'startled': START/-LD
 'at': AT
 'the': -T
-'sight;': SAOEUT STPH*FPLT
+'sight;': SAOEUT/STPH*FPLT
 'but': PWUT
 'still': STEUL
 'they': THE
@@ -1616,15 +1616,15 @@ The Neighbouring Families
 'strange': STRAEUPBG
 'bird': PWEURD
 'she': SHE
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'Driven': KPA/TKREUFPB
 'by': PWEU
 'fear': TPAOER
 'and': SKP
-'horror,': HOR/O*R KW-BG
+'horror,': HOR/O*R/KW-BG
 'she': SHE
 'flew': TPHRAOU
-'homeward;': HOEPL/WARD STPH*FPLT
+'homeward;': HOEPL/WARD/STPH*FPLT
 'she': SHE
 'was': WAS
 'almost': HR-PL
@@ -1632,70 +1632,70 @@ The Neighbouring Families
 'fainting': TPAEUPBT/-G
 'to': TO
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'while': WHAOEUL
 'the': -T
 'flock': TPHROBG
 'of': -F
 'pursuing': PUR/SAOUG
 'birds': PWEURDZ
-'increased,': EUPB/KRAOEFD KW-BG
+'increased,': EUPB/KRAOEFD/KW-BG
 'some': SOPL
 'even': AOEPB
 'attempting': A/TEPLT/-G
 'to': TO
 'peck': PEBG
 'at': AT
-'her.': HER TP-PL
-'"Look': KR-GS KPA/HRAOBG
+'her.': HER/TP-PL
+'"Look': KR-GS/KPA/HRAOBG
 'at': AT
-'her!': HER SKHRAPL
+'her!': HER/SKHRAPL
 'Look': KPA/HRAOBG
 'at': AT
-'her!"': HER SKHRAPL KR-GS
+'her!"': HER/SKHRAPL/KR-GS
 'they': THE
 'all': AUL
-'cried.': KRAOEUD TP-PL
-'"Look': KR-GS KPA/HRAOBG
+'cried.': KRAOEUD/TP-PL
+'"Look': KR-GS/KPA/HRAOBG
 'at': AT
-'her!': HER SKHRAPL
+'her!': HER/SKHRAPL
 'Look': KPA/HRAOBG
 'at': AT
-'her"': HER KR-GS
+'her"': HER/KR-GS
 'cried': KRAOEUD
 'her': HER
 'little': HREUL
-'ones,': WUPBZ KW-BG
+'ones,': WUPBZ/KW-BG
 'as': AS
 'she': SHE
 'approached': A/PROEFPD
 'the': -T
-'nest.': TPHEFT TP-PL
-'"That': KR-GS KPA/THA
+'nest.': TPHEFT/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'certainly': SERPBL
 'a': AEU
 'young': KWRUPBG
-'peacock,': PAE/KOBG KW-BG
+'peacock,': PAE/KOBG/KW-BG
 'for': TPOR
 'it': T
 'glitters': TKPWHREUT/ERS
 'in': TPH
 'all': AUL
-'colours;': KHRORS/A*U STPH*FPLT
+'colours;': KHRORS/A*U/STPH*FPLT
 'it': T
 'makes': PHAEUBGS
 'one's': W*UPBS
 'eyes': AO*EUS
-'ache,': AEUBG KW-BG
+'ache,': AEUBG/KW-BG
 'as': AS
 'mother': PHOER
 'told': TOLD
-'us.': US TP-PL
-'Peep!': KPA/PAOEP SKHRAPL
+'us.': US/TP-PL
+'Peep!': KPA/PAOEP/SKHRAPL
 'that's': THATS
-''the': AE -T
-'beautiful'."': PWAOUFL AE TP-PL KR-GS
+''the': AE/-T
+'beautiful'."': PWAOUFL/AE/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'they': THE
@@ -1718,7 +1718,7 @@ The Neighbouring Families
 'get': TKPWET
 'into': TPHAO
 'the': -T
-'nest;': TPHEFT STPH*FPLT
+'nest;': TPHEFT/STPH*FPLT
 'she': SHE
 'was': WAS
 'so': SO
@@ -1728,18 +1728,18 @@ The Neighbouring Families
 'couldn't': KOPBT
 'even': AOEPB
 'say': SAEU
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'much': PHUFP
 'less': HRES
-'"I': KR-GS EU
+'"I': KR-GS/EU
 'am': APL
 'your': KWROUR
 'own': OEPB
-'mother!"': PHOER SKHRAPL KR-GS
+'mother!"': PHOER/SKHRAPL/KR-GS
 'The': KPA/-T
 'other': OER
-'birds,': PWEURDZ KW-BG
-'too,': TAO KW-BG
+'birds,': PWEURDZ/KW-BG
+'too,': TAO/KW-BG
 'now': TPHOU
 'fell': TPEL
 'upon': POPB
@@ -1757,27 +1757,27 @@ The Neighbouring Families
 'bleeding': PWHRAOEGD
 'into': TPHAO
 'the': -T
-'rose-bush.': ROEZ H-PB PWURB TP-PL
-'"Poor': KR-GS KPA/PAOR
-'creature!"': KRAOEFP SKHRAPL KR-GS
+'rose-bush.': ROEZ/H-PB/PWURB/TP-PL
+'"Poor': KR-GS/KPA/PAOR
+'creature!"': KRAOEFP/SKHRAPL/KR-GS
 'said': SED
 'all': AUL
 'the': -T
-'roses;': ROES/-S STPH*FPLT
-'"only': KR-GS OEPBL
+'roses;': ROES/-S/STPH*FPLT
+'"only': KR-GS/OEPBL
 'be': -B
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'and': SKP
 'we': WE
 'will': HR
 'hide': HAOEUD
-'you.': U TP-PL
+'you.': U/TP-PL
 'Lean': KPA/HRAOEPB
 'your': KWROUR
 'little': HREUL
 'head': HED
 'against': TKPWEPBS
-'us."': US TP-PL KR-GS
+'us."': US/TP-PL/KR-GS
 'The': KPA/-T
 'sparrow': SPAEUR/ROE
 'spread': SPRED
@@ -1785,48 +1785,48 @@ The Neighbouring Families
 'her': HER
 'wings': WEUPBGS
 'once': WUPBS
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'then': THEPB
 'drew': TKRAOU
 'them': THEPL
 'closely': KHROELS
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'lay': HRAEU
 'dead': TKED
 'near': TPHAOER
 'the': -T
 'neighbouring': TPHAEUB/-G/A*U
-'family,': TPAEPL KW-BG
+'family,': TPAEPL/KW-BG
 'the': -T
 'beautiful': PWAOUFL
 'fresh': TPRERB
-'roses.': ROES/-S TP-PL
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'roses.': ROES/-S/TP-PL
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'sounded': SOUPBD/-D
 'from': TPR
 'the': -T
-'nest.': TPHEFT TP-PL
-'"Where': KR-GS KPA/W-R
+'nest.': TPHEFT/TP-PL
+'"Where': KR-GS/KPA/W-R
 'can': K
 'mother': PHOER
 'be': -B
 'so': SO
-'long?': HROPBG H-F
-'It's': KPA/T AES
+'long?': HROPBG/H-F
+'It's': KPA/T/AES
 'more': PHOR
 'than': THAPB
 'I': EU
 'can': K
-'understand.': URPBD TP-PL
+'understand.': URPBD/TP-PL
 'It': KPA/T
 'cannot': SK-PBT
 'be': -B
 'a': AEU
 'trick': TREUBG
 'of': -F
-'hers,': HERS KW-BG
+'hers,': HERS/KW-BG
 'and': SKP
 'mean': PHAOEPB
 'that': THA
@@ -1837,7 +1837,7 @@ The Neighbouring Families
 'take': TAEUBG
 'care': KAEUR
 'of': -F
-'ourselves.': O*URSZ TP-PL
+'ourselves.': O*URSZ/TP-PL
 'She': KPA/SHE
 'has': HAS
 'left': HREFT
@@ -1846,7 +1846,7 @@ The Neighbouring Families
 'house': HOUS
 'as': AS
 'an': APB
-'inheritance;': EUPB/HER/TAPBS STPH*FPLT
+'inheritance;': EUPB/HER/TAPBS/STPH*FPLT
 'but': PWUT
 'to': TO
 'which': WEU
@@ -1862,8 +1862,8 @@ The Neighbouring Families
 'families': TPAEPLS
 'of': -F
 'our': OUR
-'own?"': OEPB H-F KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'own?"': OEPB/H-F/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'it': T
 'won't': WOEPBT
 'do': TKO
@@ -1882,11 +1882,11 @@ The Neighbouring Families
 'a': AEU
 'wife': WAOEUF
 'and': SKP
-'children,"'': KHEURPB KW-BG KR-GS AE
+'children,"'': KHEURPB/KW-BG/KR-GS/AE
 'said': SED
 'the': -T
-'smallest.': SPHAUL/EFT TP-PL
-'"I': KR-GS EU
+'smallest.': SPHAUL/EFT/TP-PL
+'"I': KR-GS/EU
 'daresay': TKAEUR/TK-LS/SAEU
 'I': EU
 'shall': SHAL
@@ -1896,35 +1896,35 @@ The Neighbouring Families
 'and': SKP
 'children': KHEURPB
 'than': THAPB
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'said': SED
 'the': -T
-'second.': SEBGD TP-PL
-'"But': KR-GS KPA/PWUT
+'second.': SEBGD/TP-PL
+'"But': KR-GS/KPA/PWUT
 'I': EU
 'am': APL
 'the': -T
-'eldest!"': ELD/EFT SKHRAPL KR-GS
+'eldest!"': ELD/EFT/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
-'third.': THEURD TP-PL
+'third.': THEURD/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'all': AUL
 'got': TKPWOT
-'excited;': KPAOEUTD STPH*FPLT
+'excited;': KPAOEUTD/STPH*FPLT
 'they': THE
 'hit': HEUT
 'out': OUT
 'with': W
 'their': THAEUR
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'pecked': PEBGD
 'with': W
 'their': THAEUR
-'beaks,': PWAOEBG/-S KW-BG
+'beaks,': PWAOEBG/-S/KW-BG
 'and': SKP
-'flop!': TPHROP SKHRAPL
+'flop!': TPHROP/SKHRAPL
 'one': WUPB
 'after': AF
 'another': TPHOER
@@ -1933,13 +1933,13 @@ The Neighbouring Families
 'out': OUT
 'of': -F
 'the': -T
-'nest.': TPHEFT TP-PL
+'nest.': TPHEFT/TP-PL
 'There': KPA/THR
 'they': THE
 'lay': HRAEU
 'with': W
 'their': THAEUR
-'anger,': ARPBG KW-BG
+'anger,': ARPBG/KW-BG
 'holding': HOELGD
 'their': THAEUR
 'heads': HEDZ
@@ -1953,25 +1953,25 @@ The Neighbouring Families
 'that': THA
 'was': WAS
 'turned': TURPBD
-'upwards.': UP/WARDZ TP-PL
+'upwards.': UP/WARDZ/TP-PL
 'That': KPA/THA
 'was': WAS
 'their': THAEUR
 'way': WAEU
 'of': -F
 'looking': HRAOG
-'foolish.': TPAOL/EURB TP-PL
+'foolish.': TPAOL/EURB/TP-PL
 'They': KPA/THE
 'could': KO
 'fly': TPHRAOEU
 'a': AEU
-'little;': HREUL STPH*FPLT
+'little;': HREUL/STPH*FPLT
 'by': PWEU
 'practice': PRABGS
 'they': THE
 'learned': HRERPBD
 'to': TO
-'improve,': EUPL/PROF KW-BG
+'improve,': EUPL/PROF/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -1994,13 +1994,13 @@ The Neighbouring Families
 'the': -T
 'world': WORLD
 'later': HRAEURT
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'It': KPA/T
 'was': WAS
 'to': TO
 'be': -B
 'one': WUPB
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'and': SKP
 'three': THRAOE
 'scratches': SKRAFPS
@@ -2010,7 +2010,7 @@ The Neighbouring Families
 'with': W
 'the': -T
 'left': HREFT
-'foot.': TPAOT TP-PL
+'foot.': TPAOT/TP-PL
 'The': KPA/-T
 'young': KWRUPBG
 'one': WUPB
@@ -2027,19 +2027,19 @@ The Neighbouring Families
 'broad': PWRAOD
 'as': AS
 'he': HE
-'could,': KO KW-BG
+'could,': KO/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
 'the': -T
-'proprietor.': PRO/PRAOEU/TOR TP-PL
+'proprietor.': PRO/PRAOEU/TOR/TP-PL
 'But': KPA/PWUT
 'this': TH
 'greatness': TKPWRAET/-PBS
 'did': TK
 'not': TPHOT
 'last': HRAFT
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL
 'In': KPA/TPH
 'the': -T
 'night': TPHAOEUT
@@ -2053,31 +2053,31 @@ The Neighbouring Families
 'and': SKP
 'seized': SAOEZ/-D
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'the': -T
 'dry': TKRAOEU
 'straw': STRAU
 'blazed': PWHRAEUZ/-D
 'up': UP
-'high,': HAOEU KW-BG
+'high,': HAOEU/KW-BG
 'and': SKP
 'the': -T
 'whole': WHOEL
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'together': TOGT
 'with': W
 'the': -T
 'young': KWRUPBG
-'sparrow,': SPAEUR/ROE KW-BG
+'sparrow,': SPAEUR/ROE/KW-BG
 'was': WAS
-'burned.': PWURPBD TP-PL
+'burned.': PWURPBD/TP-PL
 'The': KPA/-T
 'two': TWO
-'others,': OERS KW-BG
+'others,': OERS/KW-BG
 'who': WHO
 'wanted': WAPBTD
 'to': TO
-'marry,': PHAER KW-BG
+'marry,': PHAER/KW-BG
 'thus': THUS
 'saved': SAFD
 'their': THAEUR
@@ -2086,7 +2086,7 @@ The Neighbouring Families
 'a': AEU
 'stroke': STROBG
 'of': -F
-'luck.': HRUBG TP-PL
+'luck.': HRUBG/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'sun': SUPB
@@ -2104,7 +2104,7 @@ The Neighbouring Families
 'had': H
 'a': AEU
 'quiet': KWAO*EUT
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'there': THR
 'only': OEPBL
 'remained': RE/PHAEUPBD
@@ -2119,29 +2119,29 @@ The Neighbouring Families
 'leaning': HRAOEPBG
 'against': TKPWEPBS
 'the': -T
-'chimney,': KHEUPL/TPHEU KW-BG
+'chimney,': KHEUPL/TPHEU/KW-BG
 'which': WEU
 'was': WAS
 'now': TPHOU
 'its': EUTS
 'own': OEPB
-'master.': PHAFRT TP-PL
+'master.': PHAFRT/TP-PL
 'Thick': KPA/THEUBG
 'smoke': SPHOEBG
 'still': STEUL
 'rose': ROEZ
 'from': TPR
 'the': -T
-'ruins,': RAOUPBS KW-BG
+'ruins,': RAOUPBS/KW-BG
 'but': PWUT
 'the': -T
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'stood': STAOD
-'yonder,': KWROPBD/ER KW-BG
-'fresh,': TPRERB KW-BG
-'blooming,': PWHRAOPL/-G KW-BG
+'yonder,': KWROPBD/ER/KW-BG
+'fresh,': TPRERB/KW-BG
+'blooming,': PWHRAOPL/-G/KW-BG
 'and': SKP
-'untouched,': UPB/TUFPD KW-BG
+'untouched,': UPB/TUFPD/KW-BG
 'every': EF
 'flower': TPHRO*UR
 'and': SKP
@@ -2152,8 +2152,8 @@ The Neighbouring Families
 'in': TPH
 'the': -T
 'clear': KHRAOER
-'water.': WAUR TP-PL
-'"How': KR-GS KPA/HOU
+'water.': WAUR/TP-PL
+'"How': KR-GS/KPA/HOU
 'beautifully': PWAOUFL/HREU
 'the': -T
 'roses': ROES/-S
@@ -2161,20 +2161,20 @@ The Neighbouring Families
 'before': PW-FR
 'the': -T
 'ruined': RAOUPBD
-'house,"': HOUS KW-BG KR-GS
+'house,"': HOUS/KW-BG/KR-GS
 'exclaimed': SKHRAEUPLD
 'a': AEU
-'passer-by.': PAS/*ER H-PB PWEU TP-PL
-'"A': KR-GS KPA/AEU
+'passer-by.': PAS/*ER/H-PB/PWEU/TP-PL
+'"A': KR-GS/KPA/AEU
 'pleasanter': PHREFPBT/*ER
 'picture': P*EUFP
 'cannot': SK-PBT
 'be': -B
-'imagined.': PHAPBLGD TP-PL
+'imagined.': PHAPBLGD/TP-PL
 'I': EU
 'must': PHUFT
 'have': SR
-'that."': THA TP-PL KR-GS
+'that."': THA/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'man': PHAPB
@@ -2188,11 +2188,11 @@ The Neighbouring Families
 'book': PWAOBG
 'with': W
 'white': WHAOEUT
-'leaves:': HREFS STPH-FPLT
+'leaves:': HREFS/STPH-FPLT
 'he': HE
 'was': WAS
 'a': AEU
-'painter,': PA*EURPBT KW-BG
+'painter,': PA*EURPBT/KW-BG
 'and': SKP
 'with': W
 'his': HEUS
@@ -2201,33 +2201,33 @@ The Neighbouring Families
 'drew': TKRAOU
 'the': -T
 'smoking': SPHOEG
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'the': -T
 'charred': KHAR/-D
 'beams': PWAOEPLS
 'and': SKP
 'the': -T
 'overhanging': AUFR/HAPBG/-G
-'chimney,': KHEUPL/TPHEU KW-BG
+'chimney,': KHEUPL/TPHEU/KW-BG
 'which': WEU
 'bent': PWEPBT
 'more': PHOR
 'and': SKP
-'more;': PHOR STPH*FPLT
+'more;': PHOR/STPH*FPLT
 'in': TPH
 'the': -T
 'foreground': TPOER/TKPWROUPBD
 'he': HE
 'put': PUT
 'the': -T
-'large,': HRARPBLG KW-BG
+'large,': HRARPBLG/KW-BG
 'blooming': PWHRAOPL/-G
-'rose-bush,': ROEZ H-PB PWURB KW-BG
+'rose-bush,': ROEZ/H-PB/PWURB/KW-BG
 'which': WEU
 'presented': PREPBTD
 'a': AEU
 'charming': KHARPL/-G
-'view.': SRAOU TP-PL
+'view.': SRAOU/TP-PL
 'For': KPA/TPOR
 'its': EUTS
 'sake': SAEUBG
@@ -2237,7 +2237,7 @@ The Neighbouring Families
 'picture': P*EUFP
 'had': H
 'been': PW-PB
-'drawn.': TKRAUPB TP-PL
+'drawn.': TKRAUPB/TP-PL
 'Later': KPA/HRAEURT
 'in': TPH
 'the': -T
@@ -2251,18 +2251,18 @@ The Neighbouring Families
 'born': PWORPB
 'there': THR
 'came': KAEUPL
-'by.': PWEU TP-PL
-'"Where': KR-GS KPA/W-R
+'by.': PWEU/TP-PL
+'"Where': KR-GS/KPA/W-R
 'is': S
 'the': -T
-'house?"': HOUS H-F KR-GS
+'house?"': HOUS/H-F/KR-GS
 'they': THE
-'asked.': SK-D TP-PL
-'"Where': KR-GS KPA/W-R
+'asked.': SK-D/TP-PL
+'"Where': KR-GS/KPA/W-R
 'is': S
 'the': -T
-'nest?': TPHEFT H-F
-'Peep!': KPA/PAOEP SKHRAPL
+'nest?': TPHEFT/H-F
+'Peep!': KPA/PAOEP/SKHRAPL
 'All': KPA/AUL
 'is': S
 'burned': PWURPBD
@@ -2270,8 +2270,8 @@ The Neighbouring Families
 'our': OUR
 'strong': STROPBG
 'brother': PWROER
-'too.': TAO TP-PL
-'That's': KPA/THA AES
+'too.': TAO/TP-PL
+'That's': KPA/THA/AES
 'what': WHA
 'he': HE
 'has': HAS
@@ -2279,13 +2279,13 @@ The Neighbouring Families
 'for': TPOR
 'keeping': KAOEPG
 'the': -T
-'nest.': TPHEFT TP-PL
+'nest.': TPHEFT/TP-PL
 'The': KPA/-T
 'roses': ROES/-S
 'got': TKPWOT
 'off': OF
 'very': SRE
-'well;': WEL STPH*FPLT
+'well;': WEL/STPH*FPLT
 'there': THR
 'they': THE
 'still': STEUL
@@ -2293,7 +2293,7 @@ The Neighbouring Families
 'with': W
 'their': THAEUR
 'red': RED
-'cheeks.': KHAOEBGS TP-PL
+'cheeks.': KHAOEBGS/TP-PL
 'They': KPA/THE
 'certainly': SERPBL
 'do': TKO
@@ -2301,32 +2301,32 @@ The Neighbouring Families
 'mourn': PHOURPB
 'at': AT
 'their': THAEUR
-'neighbours'': TPHAEUBS/A*U AE
-'misfortunes.': PHEUZ/TP-RPB/-S TP-PL
+'neighbours'': TPHAEUBS/A*U/AE
+'misfortunes.': PHEUZ/TP-RPB/-S/TP-PL
 'I': EU
 'don't': TKOEPBT
 'want': WAPBT
 'to': TO
 'talk': TAUBG
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'it': T
 'looks': HRAOBGS
 'miserable': PHEUZ/-BL
-'here—that's': HAOER EPL/TKA*RB THA AES
+'here—that's': HAOER/EPL/TKA*RB/THA/AES
 'my': PHEU
-'opinion."': P-PB TP-PL KR-GS
+'opinion."': P-PB/TP-PL/KR-GS
 'And': AFPBD
 'away': WA*EU
 'they': THE
-'went.': WEPBT TP-PL
+'went.': WEPBT/TP-PL
 'On': KPA/OPB
 'a': AEU
 'beautiful': PWAOUFL
 'sunny': SAOUPB
 'autumn': AU/UPL
-'day—one': TKAEU EPL/TKA*RB WUPB
+'day—one': TKAEU/EPL/TKA*RB/WUPB
 'could': KO
 'almost': HR-PL
 'have': SR
@@ -2337,13 +2337,13 @@ The Neighbouring Families
 'the': -T
 'middle': PH*EULD
 'of': -F
-'summer—there': SAOURPL EPL/TKA*RB THR
+'summer—there': SAOURPL/EPL/TKA*RB/THR
 'hopped': HOPD
 'about': PW
 'in': TPH
 'the': -T
 'dry': TKRAOEU
-'clean-swept': KHRAOEPB H-PB SWEPT
+'clean-swept': KHRAOEPB/H-PB/SWEPT
 'courtyard': KORT/KWRARD
 'before': PW-FR
 'the': -T
@@ -2355,35 +2355,35 @@ The Neighbouring Families
 'a': AEU
 'number': TPHUPL
 'of': -F
-'black,': PWHRABG KW-BG
-'white,': WHAOEUT KW-BG
+'black,': PWHRABG/KW-BG
+'white,': WHAOEUT/KW-BG
 'and': SKP
-'gaily-coloured': TKPWAEU/HREU H-PB KHROURD
-'pigeons,': PEUPBLG/-PBS KW-BG
+'gaily-coloured': TKPWAEU/HREU/H-PB/KHROURD
+'pigeons,': PEUPBLG/-PBS/KW-BG
 'all': AUL
 'shining': SHAOEUPBG
 'in': TPH
 'the': -T
-'sunlight.': SULGT TP-PL
+'sunlight.': SULGT/TP-PL
 'The': KPA/-T
-'pigeon-mothers': PEUGS H-PB PHOERS
+'pigeon-mothers': PEUGS/H-PB/PHOERS
 'said': SED
 'to': TO
 'their': THAEUR
 'young': KWRUPBG
-'ones:': WUPBZ STPH-FPLT
-'"Stand': KR-GS KPA/STAPBD
+'ones:': WUPBZ/STPH-FPLT
+'"Stand': KR-GS/KPA/STAPBD
 'in': TPH
-'groups,': TKPWRAOUPS KW-BG
+'groups,': TKPWRAOUPS/KW-BG
 'stand': STAPBD
 'in': TPH
-'groups!': TKPWRAOUPS SKHRAPL
+'groups!': TKPWRAOUPS/SKHRAPL
 'for': TPOR
 'that': THA
 'looks': HRAOBGS
 'much': PHUFP
-'better."': PWOERT TP-PL KR-GS
-'"What': KR-GS KPA/WHA
+'better."': PWOERT/TP-PL/KR-GS
+'"What': KR-GS/KPA/WHA
 'kind': KEUPBD
 'of': -F
 'creatures': KRAOEFPS
@@ -2396,32 +2396,32 @@ The Neighbouring Families
 'run': RUPB
 'about': PW
 'behind': HEUPBD
-'us?"': US H-F KR-GS
+'us?"': US/H-F/KR-GS
 'asked': SK-D
 'an': APB
 'old': OLD
-'pigeon,': PEUGS KW-BG
+'pigeon,': PEUGS/KW-BG
 'with': W
 'red': RED
 'and': SKP
 'green': TKPWRAOEPB
 'in': TPH
 'her': HER
-'eyes.': AO*EUS TP-PL
-'"Little': KR-GS KPA/HREUL
+'eyes.': AO*EUS/TP-PL
+'"Little': KR-GS/KPA/HREUL
 'grey': TKPWRA*EU
-'ones!': WUPBZ SKHRAPL
+'ones!': WUPBZ/SKHRAPL
 'Little': KPA/HREUL
 'grey': TKPWRA*EU
-'ones!"': WUPBZ SKHRAPL KR-GS
+'ones!"': WUPBZ/SKHRAPL/KR-GS
 'she': SHE
-'cried.': KRAOEUD TP-PL
-'"They': KR-GS KPA/THE
+'cried.': KRAOEUD/TP-PL
+'"They': KR-GS/KPA/THE
 'are': R
-'sparrows,': SPAEUR/ROE/-S KW-BG
+'sparrows,': SPAEUR/ROE/-S/KW-BG
 'and': SKP
 'good': TKPWAOD
-'creatures.': KRAOEFPS TP-PL
+'creatures.': KRAOEFPS/TP-PL
 'We': KPA/WE
 'have': SR
 'always': AULS
@@ -2430,7 +2430,7 @@ The Neighbouring Families
 'reputation': REP/TAEUGS
 'of': -F
 'being': -BG
-'pious,': PAOEU/OUS KW-BG
+'pious,': PAOEU/OUS/KW-BG
 'so': SO
 'we': WE
 'will': HR
@@ -2442,12 +2442,12 @@ The Neighbouring Families
 'the': -T
 'corn': KORPB
 'with': W
-'us;': US STPH*FPLT
+'us;': US/STPH*FPLT
 'they': THE
 'don't': TKOEPBT
 'interrupt': SPWRUPT
 'our': OUR
-'talk,': TAUBG KW-BG
+'talk,': TAUBG/KW-BG
 'and': SKP
 'they': THE
 'scrape': SKRAEUP
@@ -2455,14 +2455,14 @@ The Neighbouring Families
 'prettily': PRET/HREU
 'when': WHEPB
 'they': THE
-'bow."': PWOE TP-PL KR-GS
+'bow."': PWOE/TP-PL/KR-GS
 'Indeed': KPA/TPHAOEPBD
 'they': THE
 'were': WR
 'continually': TAEPBL
 'making': PHAEUG
 'three': THRAOE
-'foot-scrapings': TPAOT H-PB SKRAEUPG/-S
+'foot-scrapings': TPAOT/H-PB/SKRAEUPG/-S
 'with': W
 'the': -T
 'left': HREFT
@@ -2470,14 +2470,14 @@ The Neighbouring Families
 'and': SKP
 'also': HR-S
 'said': SED
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'By': KPA/PWEU
 'this': TH
 'means': PHAOEPBS
 'they': THE
 'recognised': REFD/A*U
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
@@ -2489,25 +2489,25 @@ The Neighbouring Families
 'on': OPB
 'the': -T
 'burned': PWURPBD
-'house.': HOUS TP-PL
-'"Here': KR-GS KPA/HAOER
+'house.': HOUS/TP-PL
+'"Here': KR-GS/KPA/HAOER
 'is': S
 'excellent': KPHREPBT
-'fare!"': TPA*ER SKHRAPL KR-GS
+'fare!"': TPA*ER/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'sparrow.': SPAEUR/ROE TP-PL
+'sparrow.': SPAEUR/ROE/TP-PL
 'The': KPA/-T
 'pigeons': PEUPBLG/-PBS
 'strutted': STRUT/-D
 'round': ROUPBD
 'one': WUPB
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'puffed': PUFD
 'out': OUT
 'their': THAEUR
 'chests': KHEFT/-S
-'mightily,': PHAOEUT/SKWREU/HREU KW-BG
+'mightily,': PHAOEUT/SKWREU/HREU/KW-BG
 'and': SKP
 'had': H
 'their': THAEUR
@@ -2515,48 +2515,48 @@ The Neighbouring Families
 'private': PRAOEUFT
 'views': SRAOUS
 'and': SKP
-'opinions.': P-PBS TP-PL
-'"Do': KR-GS KPA/TKO
+'opinions.': P-PBS/TP-PL
+'"Do': KR-GS/KPA/TKO
 'you': U
 'see': SAOE
 'that': THA
 'pouter': POUT/*ER
-'pigeon?"': PEUGS H-F KR-GS
+'pigeon?"': PEUGS/H-F/KR-GS
 'said': SED
 'one': WUPB
 'to': TO
 'the': -T
-'other.': OER TP-PL
-'"Do': KR-GS KPA/TKO
+'other.': OER/TP-PL
+'"Do': KR-GS/KPA/TKO
 'you': U
 'see': SAOE
 'how': HOU
 'she': SHE
 'swallows': SWAL/OES
 'the': -T
-'peas?': PAOEZ H-F
+'peas?': PAOEZ/H-F
 'She': KPA/SHE
 'eats': AOETS
 'too': TAO
-'many,': PHAEPB KW-BG
+'many,': PHAEPB/KW-BG
 'and': SKP
 'the': -T
 'best': PWEFT
 'ones': WUPBZ
-'too.': TAO TP-PL
-'Curoo!': xxx Curoo SKHRAPL
-'Curoo!': xxx Curoo SKHRAPL
+'too.': TAO/TP-PL
+'Curoo!': xxx Curoo/SKHRAPL
+'Curoo!': xxx Curoo/SKHRAPL
 'How': KPA/HOU
 'she': SHE
 'lifts': HREUFTS
 'her': HER
-'crest,': KREFT KW-BG
+'crest,': KREFT/KW-BG
 'the': -T
-'ugly,': ULG KW-BG
+'ugly,': ULG/KW-BG
 'spiteful': SPAOEUT/-FL
-'creature!': KRAOEFP SKHRAPL
-'Curoo!': xxx Curoo SKHRAPL
-'Curoo!"': xxx Curoo SKHRAPL KR-GS
+'creature!': KRAOEFP/SKHRAPL
+'Curoo!': xxx Curoo/SKHRAPL
+'Curoo!"': xxx Curoo/SKHRAPL/KR-GS
 'And': AFPBD
 'the': -T
 'eyes': AO*EUS
@@ -2564,27 +2564,27 @@ The Neighbouring Families
 'all': AUL
 'sparkled': SPAR/K-LD
 'with': W
-'malice.': PHAL/EUS TP-PL
-'"Stand': KR-GS KPA/STAPBD
+'malice.': PHAL/EUS/TP-PL
+'"Stand': KR-GS/KPA/STAPBD
 'in': TPH
-'groups!': TKPWRAOUPS SKHRAPL
+'groups!': TKPWRAOUPS/SKHRAPL
 'Stand': KPA/STAPBD
 'in': TPH
-'groups!': TKPWRAOUPS SKHRAPL
+'groups!': TKPWRAOUPS/SKHRAPL
 'Little': KPA/HREUL
 'grey': TKPWRA*EU
-'ones,': WUPBZ KW-BG
+'ones,': WUPBZ/KW-BG
 'little': HREUL
 'grey': TKPWRA*EU
-'ones!': WUPBZ SKHRAPL
-'Curoo,': xxx Curoo KW-BG
-'curoo,': xxx curoo KW-BG
-'curoo!"': xxx curoo SKHRAPL KR-GS
+'ones!': WUPBZ/SKHRAPL
+'Curoo,': xxx Curoo/KW-BG
+'curoo,': xxx curoo/KW-BG
+'curoo!"': xxx curoo/SKHRAPL/KR-GS
 'So': KPA/SO
 'their': THAEUR
 'chatter': KHAT/ER
 'ran': RAPB
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'so': SO
 'it': T
@@ -2594,14 +2594,14 @@ The Neighbouring Families
 'for': TPOR
 'thousands': THOUDZ
 'of': -F
-'years.': KWRAOERS TP-PL
+'years.': KWRAOERS/TP-PL
 'The': KPA/-T
 'sparrows': SPAEUR/ROE/-S
 'ate': AEUT
-'lustily;': HR*US/HREU STPH*FPLT
+'lustily;': HR*US/HREU/STPH*FPLT
 'they': THE
 'listened': HREUFPBD
-'attentively,': A/TEPBT/EUFL KW-BG
+'attentively,': A/TEPBT/EUFL/KW-BG
 'and': SKP
 'even': AOEPB
 'stood': STAOD
@@ -2610,7 +2610,7 @@ The Neighbouring Families
 'ranks': RA*PBGS
 'with': W
 'the': -T
-'others,': OERS KW-BG
+'others,': OERS/KW-BG
 'but': PWUT
 'it': T
 'did': TK
@@ -2618,26 +2618,26 @@ The Neighbouring Families
 'suit': SAOUT
 'them': THEPL
 'at': AT
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'They': KPA/THE
 'were': WR
-'full,': TPUL KW-BG
+'full,': TPUL/KW-BG
 'and': SKP
 'so': SO
 'they': THE
 'left': HREFT
 'the': -T
-'pigeons,': PEUPBLG/-PBS KW-BG
+'pigeons,': PEUPBLG/-PBS/KW-BG
 'exchanging': KPAEUPBG/-G
 'opinions': P-PBS
 'about': PW
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'slipped': SHREUPD
 'in': TPH
 'under': TPH-PB
 'the': -T
 'garden': TKPWA*RPB
-'palings,': P*/A*/HR*/*EU/TPH*/TKPW*/S* KW-BG
+'palings,': P*/A*/HR*/*EU/TPH*/TKPW*/S*/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -2648,67 +2648,67 @@ The Neighbouring Families
 'into': TPHAO
 'the': -T
 'house': HOUS
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'one': WUPB
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'who': WHO
 'was': WAS
 'more': PHOR
 'than': THAPB
-'full,': TPUL KW-BG
+'full,': TPUL/KW-BG
 'and': SKP
 'therefore': TH-FR
 'felt': TPELT
-'brave,': PWRAEUF KW-BG
+'brave,': PWRAEUF/KW-BG
 'hopped': HOPD
 'on': OPB
 'to': TO
 'the': -T
-'threshold.': THRERBLD TP-PL
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'threshold.': THRERBLD/TP-PL
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'said': SED
-'he;': HE STPH*FPLT
-'"I': KR-GS EU
+'he;': HE/STPH*FPLT
+'"I': KR-GS/EU
 'may': PHAE
 'venture': SREPBT/UR
-'that."': THA TP-PL KR-GS
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'that."': THA/TP-PL/KR-GS
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'other;': OER STPH*FPLT
-'"so': KR-GS SO
+'other;': OER/STPH*FPLT
+'"so': KR-GS/SO
 'may': PHAE
-'I,': EU KW-BG
+'I,': EU/KW-BG
 'and': SKP
 'something': S-G
 'more': PHOR
-'too!"': TAO SKHRAPL KR-GS
+'too!"': TAO/SKHRAPL/KR-GS
 'and': SKP
 'he': HE
 'hopped': HOPD
 'into': TPHAO
 'the': -T
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'No': KPA/TPHO
 'one': WUPB
 'was': WAS
-'there;': THR STPH*FPLT
+'there;': THR/STPH*FPLT
 'the': -T
 'third': THEURD
-'sparrow,': SPAEUR/ROE KW-BG
+'sparrow,': SPAEUR/ROE/KW-BG
 'seeing': SAOEG
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'flew': TPHRAOU
 'still': STEUL
 'farther': TPA*RT
 'into': TPHAO
 'the': -T
-'room,': RAOPL KW-BG
-'exclaiming,': SKHRAEUPL/-G KW-BG
-'"All': KR-GS KPA/AUL
+'room,': RAOPL/KW-BG
+'exclaiming,': SKHRAEUPL/-G/KW-BG
+'"All': KR-GS/KPA/AUL
 'or': OR
-'nothing!': TPHOG SKHRAPL
+'nothing!': TPHOG/SKHRAPL
 'It': KPA/T
 'is': S
 'a': AEU
@@ -2717,17 +2717,17 @@ The Neighbouring Families
 'nest': TPHEFT
 'all': AUL
 'the': -T
-'same;': SAEUPL STPH*FPLT
+'same;': SAEUPL/STPH*FPLT
 'and': SKP
 'what': WHA
 'have': SR
 'they': THE
 'put': PUT
 'up': UP
-'here?': HAOER H-F
+'here?': HAOER/H-F
 'What': KPA/WHA
 'is': S
-'it?"': T H-F KR-GS
+'it?"': T/H-F/KR-GS
 'Close': KPA/KHROES
 'to': TO
 'the': -T
@@ -2735,13 +2735,13 @@ The Neighbouring Families
 'the': -T
 'roses': ROES/-S
 'were': WR
-'blooming;': PWHRAOPL/-G STPH*FPLT
+'blooming;': PWHRAOPL/-G/STPH*FPLT
 'they': THE
 'were': WR
 'reflected': TPHREBGTD
 'in': TPH
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'the': -T
 'charred': KHAR/-D
@@ -2750,13 +2750,13 @@ The Neighbouring Families
 'against': TKPWEPBS
 'the': -T
 'overhanging': AUFR/HAPBG/-G
-'chimney.': KHEUPL/TPHEU TP-PL
-'"Do': KR-GS KPA/TKO
+'chimney.': KHEUPL/TPHEU/TP-PL
+'"Do': KR-GS/KPA/TKO
 'tell': TEL
 'me': PHE
 'what': WHA
 'this': TH
-'is.': S TP-PL
+'is.': S/TP-PL
 'How': KPA/HOU
 'comes': KOPLS
 'this': TH
@@ -2765,7 +2765,7 @@ The Neighbouring Families
 'room': RAOPL
 'at': AT
 'the': -T
-'Hall?"': HA*L H-F KR-GS
+'Hall?"': HA*L/H-F/KR-GS
 'And': AFPBD
 'all': AUL
 'three': THRAOE
@@ -2778,22 +2778,22 @@ The Neighbouring Families
 'roses': ROES/-S
 'and': SKP
 'the': -T
-'chimney,': KHEUPL/TPHEU KW-BG
+'chimney,': KHEUPL/TPHEU/KW-BG
 'but': PWUT
 'flew': TPHRAOU
 'against': TKPWEPBS
 'a': AEU
 'flat': TPHRAT
-'wall.': WAUL TP-PL
+'wall.': WAUL/TP-PL
 'It': KPA/T
 'was': WAS
 'all': AUL
 'a': AEU
-'picture,': P*EUFP KW-BG
+'picture,': P*EUFP/KW-BG
 'a': AEU
 'great': TKPWRAET
 'splendid': SPHREPB/TKEUD
-'picture,': P*EUFP KW-BG
+'picture,': P*EUFP/KW-BG
 'which': WEU
 'the': -T
 'artist': TR-FT
@@ -2801,56 +2801,56 @@ The Neighbouring Families
 'painted': PAEUPBTD
 'from': TPR
 'a': AEU
-'sketch.': SKEFP TP-PL
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'sketch.': SKEFP/TP-PL
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'sparrows,': SPAEUR/ROE/-S KW-BG
-'"it's': KR-GS T AES
-'nothing.': TPHOG TP-PL
+'sparrows,': SPAEUR/ROE/-S/KW-BG
+'"it's': KR-GS/T/AES
+'nothing.': TPHOG/TP-PL
 'It': KPA/T
 'only': OEPBL
 'looks': HRAOBGS
 'like': HRAOEUBG
-'something.': S-G TP-PL
-'Peep!': KPA/PAOEP SKHRAPL
+'something.': S-G/TP-PL
+'Peep!': KPA/PAOEP/SKHRAPL
 'that': THA
 'is': S
-''the': AE -T
-'beautiful.'': PWAOUFL TP-PL AE
+''the': AE/-T
+'beautiful.'': PWAOUFL/TP-PL/AE
 'Do': KPA/TKO
 'you': U
 'understand': URPBD
-'it?': T H-F
+'it?': T/H-F
 'I': EU
-'don't."': HRO*ER/TKO*PB AE T* TP-PL KR-GS
+'don't."': HRO*ER/TKO*PB/AE/T*/TP-PL/KR-GS
 'And': AFPBD
 'they': THE
 'flew': TPHRAOU
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'for': TPOR
 'some': SOPL
 'people': PAOEPL
 'came': KAEUPL
 'into': TPHAO
 'the': -T
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'Days': KPA/TKAEUS
 'and': SKP
 'years': KWRAOERS
 'went': WEPBT
-'by.': PWEU TP-PL
+'by.': PWEU/TP-PL
 'The': KPA/-T
 'pigeons': PEUPBLG/-PBS
 'had': H
 'often': OFPB
-'cooed,': KAO*/-D KW-BG
+'cooed,': KAO*/-D/KW-BG
 'not': TPHOT
 'to': TO
 'say': SAEU
-'growled—the': TKPWROULD EPL/TKA*RB -T
+'growled—the': TKPWROULD/EPL/TKA*RB/-T
 'spiteful': SPAOEUT/-FL
-'creatures;': KRAOEFPS STPH*FPLT
+'creatures;': KRAOEFPS/STPH*FPLT
 'the': -T
 'sparrows': SPAEUR/ROE/-S
 'had': H
@@ -2863,24 +2863,24 @@ The Neighbouring Families
 'lived': HREUFD
 'merrily': PHER/HREU
 'in': TPH
-'summer:': SAOURPL STPH-FPLT
+'summer:': SAOURPL/STPH-FPLT
 'they': THE
 'were': WR
 'all': AUL
-'betrothed,': PWE/TRO*T/-D KW-BG
+'betrothed,': PWE/TRO*T/-D/KW-BG
 'or': OR
-'married,': PHAERD KW-BG
+'married,': PHAERD/KW-BG
 'or': OR
 'whatever': WHAF
 'you': U
 'like': HRAOEUBG
 'to': TO
 'call': KAUL
-'it.': T TP-PL
+'it.': T/TP-PL
 'They': KPA/THE
 'had': H
 'little': HREUL
-'ones,': WUPBZ KW-BG
+'ones,': WUPBZ/KW-BG
 'and': SKP
 'of': -F
 'course': KORS
@@ -2892,13 +2892,13 @@ The Neighbouring Families
 'the': -T
 'handsomest': HAPBD/SO*PL/TK-LS/S*/T*
 'and': SKP
-'cleverest;': KHR*EFR/*ES STPH*FPLT
+'cleverest;': KHR*EFR/*ES/STPH*FPLT
 'one': WUPB
 'flew': TPHRAOU
 'this': TH
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'another': TPHOER
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -2909,7 +2909,7 @@ The Neighbouring Families
 'other': OER
 'by': PWEU
 'their': THAEUR
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'and': SKP
 'the': -T
 'three': THRAOE
@@ -2917,7 +2917,7 @@ The Neighbouring Families
 'with': W
 'the': -T
 'left': HREFT
-'foot.': TPAOT TP-PL
+'foot.': TPAOT/TP-PL
 'The': KPA/-T
 'eldest': ELD/EFT
 'had': H
@@ -2931,7 +2931,7 @@ The Neighbouring Families
 'nest': TPHEFT
 'nor': TPH-R
 'young': KWRUPBG
-'ones.': WUPBZ TP-PL
+'ones.': WUPBZ/TP-PL
 'It': KPA/T
 'was': WAS
 'her': HER
@@ -2941,12 +2941,12 @@ The Neighbouring Families
 'see': SAOE
 'a': AEU
 'great': TKPWRAET
-'city,': STEU KW-BG
+'city,': STEU/KW-BG
 'so': SO
 'she': SHE
 'flew': TPHRAOU
 'to': TO
-'Copenhagen.': KOEP/*EPB/HAG TP-PL
+'Copenhagen.': KOEP/*EPB/HAG/TP-PL
 'There': KPA/THR
 'was': WAS
 'a': AEU
@@ -2964,7 +2964,7 @@ The Neighbouring Families
 'castle': KAFL
 'and': SKP
 'the': -T
-'canal,': KAPBL KW-BG
+'canal,': KAPBL/KW-BG
 'upon': POPB
 'which': WEU
 'latter': HRART
@@ -2978,7 +2978,7 @@ The Neighbouring Families
 'with': W
 'apples': APLS
 'and': SKP
-'pottery.': POT/REU TP-PL
+'pottery.': POT/REU/TP-PL
 'The': KPA/-T
 'windows': WOEUPBDZ
 'of': -F
@@ -2992,14 +2992,14 @@ The Neighbouring Families
 'than': THAPB
 'at': AT
 'the': -T
-'top,': TOP KW-BG
+'top,': TOP/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
 'sparrows': SPAEUR/ROE/-S
 'looked': HRAOBGD
 'through': THRU
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'every': EF
 'room': RAOPL
 'appeared': A/PAOERD
@@ -3013,7 +3013,7 @@ The Neighbouring Families
 'brightest': PWRAOEUT/EFT
 'colours': KHRORS/A*U
 'and': SKP
-'shades.': SHAEUDZ TP-PL
+'shades.': SHAEUDZ/TP-PL
 'But': KPA/PWUT
 'in': TPH
 'the': -T
@@ -3023,27 +3023,27 @@ The Neighbouring Families
 'tulip': TAOUL/EUP
 'stood': STAOD
 'white': WHAOEUT
-'men,': PHEPB KW-BG
+'men,': PHEPB/KW-BG
 'made': PHAED
 'of': -F
-'marble;': PHAERBL STPH*FPLT
+'marble;': PHAERBL/STPH*FPLT
 'a': AEU
 'few': TPAOU
 'were': WR
 'of': -F
-'plaster;': PHRAFRT STPH*FPLT
-'still,': STEUL KW-BG
+'plaster;': PHRAFRT/STPH*FPLT
+'still,': STEUL/KW-BG
 'looked': HRAOBGD
 'at': AT
 'with': W
-'sparrows'': SPAEUR/ROE/-S AE
-'eyes,': AO*EUS KW-BG
+'sparrows'': SPAEUR/ROE/-S/AE
+'eyes,': AO*EUS/KW-BG
 'that': THA
 'comes': KOPLS
 'to': TO
 'the': -T
 'same': SAEUPL
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'Up': KPA/UP
 'on': OPB
 'the': -T
@@ -3055,38 +3055,38 @@ The Neighbouring Families
 'drawn': TKRAUPB
 'by': PWEU
 'metal': PH*ELT
-'horses,': HORSZ KW-BG
+'horses,': HORSZ/KW-BG
 'and': SKP
 'the': -T
 'goddess': TKPWOD/ES
 'of': -F
-'Victory,': KPA/SREUBGT/REU KW-BG
+'Victory,': KPA/SREUBGT/REU/KW-BG
 'also': HR-S
 'of': -F
-'metal,': PH*ELT KW-BG
+'metal,': PH*ELT/KW-BG
 'was': WAS
-'driving.': TKRAOEUFG TP-PL
+'driving.': TKRAOEUFG/TP-PL
 'It': KPA/T
 'was': WAS
-'Thorwaldsen's': xxx Thorwaldsen AES
-'Museum.': KPA/PHAOUPL TP-PL
-'"How': KR-GS KPA/HOU
+'Thorwaldsen's': xxx Thorwaldsen/AES
+'Museum.': KPA/PHAOUPL/TP-PL
+'"How': KR-GS/KPA/HOU
 'it': T
-'shines!': SHAOEUPBS SKHRAPL
+'shines!': SHAOEUPBS/SKHRAPL
 'how': HOU
 'it': T
-'shines!"': SHAOEUPBS SKHRAPL KR-GS
+'shines!"': SHAOEUPBS/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'maiden': PHAEUD/*EPB
-'sparrow.': SPAEUR/ROE TP-PL
-'"I': KR-GS EU
+'sparrow.': SPAEUR/ROE/TP-PL
+'"I': KR-GS/EU
 'suppose': SPOS
 'that': THA
 'is': S
-''the': AE -T
-'beautiful.'': PWAOUFL TP-PL AE
-'Peep!': KPA/PAOEP SKHRAPL
+''the': AE/-T
+'beautiful.'': PWAOUFL/TP-PL/AE
+'Peep!': KPA/PAOEP/SKHRAPL
 'But': KPA/PWUT
 'here': HAOER
 'it': T
@@ -3094,14 +3094,14 @@ The Neighbouring Families
 'larger': HRAERPBLG
 'than': THAPB
 'a': AEU
-'peacock."': PAE/KOBG TP-PL KR-GS
+'peacock."': PAE/KOBG/TP-PL/KR-GS
 'She': KPA/SHE
 'still': STEUL
 'remembered': RERD
 'what': WHA
 'in': TPH
 'her': HER
-'childhood's': KHAOEULD/H*D AES
+'childhood's': KHAOEULD/H*D/AES
 'days': TKAEUS
 'her': HER
 'mother': PHOER
@@ -3113,18 +3113,18 @@ The Neighbouring Families
 'greatest': TKPWRAET/EFT
 'among': PHOPBG
 'the': -T
-'beautiful.': PWAOUFL TP-PL
+'beautiful.': PWAOUFL/TP-PL
 'She': KPA/SHE
 'flew': TPHRAOU
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'courtyard:': KORT/KWRARD STPH-FPLT
+'courtyard:': KORT/KWRARD/STPH-FPLT
 'there': THR
 'everything': EFRG
 'was': WAS
 'extremely': KPRAOEPL
-'fine.': TPAOEUPB TP-PL
+'fine.': TPAOEUPB/TP-PL
 'Palms': KPA/PAPLS
 'and': SKP
 'branches': PWRAFRPBS
@@ -3132,7 +3132,7 @@ The Neighbouring Families
 'painted': PAEUPBTD
 'on': OPB
 'the': -T
-'walls,': WAULS KW-BG
+'walls,': WAULS/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -3144,23 +3144,23 @@ The Neighbouring Families
 'a': AEU
 'great': TKPWRAET
 'blooming': PWHRAOPL/-G
-'rose-tree': ROEZ H-PB TRAOE
+'rose-tree': ROEZ/H-PB/TRAOE
 'spreading': SPREGD
 'out': OUT
 'its': EUTS
 'fresh': TPRERB
-'boughs,': PWO*U/-S KW-BG
+'boughs,': PWO*U/-S/KW-BG
 'covered': KOFRD
 'with': W
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'over': OEFR
 'a': AEU
-'grave.': TKPWRAEUF TP-PL
+'grave.': TKPWRAEUF/TP-PL
 'Thither': KPA/TH*EURT
 'flew': TPHRAOU
 'the': -T
 'maiden': PHAEUD/*EPB
-'sparrow,': SPAEUR/ROE KW-BG
+'sparrow,': SPAEUR/ROE/KW-BG
 'for': TPOR
 'she': SHE
 'saw': SAU
@@ -3169,12 +3169,12 @@ The Neighbouring Families
 'her': HER
 'own': OEPB
 'kind': KEUPBD
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'A': KPA/AEU
-'"peep"': KR-GS PAOEP KR-GS
+'"peep"': KR-GS/PAOEP/KR-GS
 'and': SKP
 'three': THRAOE
-'foot-scrapings—in': TPAOT H-PB SKRAEUPG/-S EPL/TKA*RB TPH
+'foot-scrapings—in': TPAOT/H-PB/SKRAEUPG/-S/EPL/TKA*RB/TPH
 'this': TH
 'way': WAEU
 'she': SHE
@@ -3183,13 +3183,13 @@ The Neighbouring Families
 'greeted': TKPWRAOET/-D
 'throughout': THROUT
 'the': -T
-'year,': KWRAOER KW-BG
+'year,': KWRAOER/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
 'here': HAOER
 'had': H
-'responded,': SPOPBD/-D KW-BG
+'responded,': SPOPBD/-D/KW-BG
 'for': TPOR
 'those': THOZ
 'who': WHO
@@ -3200,7 +3200,7 @@ The Neighbouring Families
 'not': TPHOT
 'meet': PHAOET
 'every': EF
-'day;': TKAEU STPH*FPLT
+'day;': TKAEU/STPH*FPLT
 'and': SKP
 'so': SO
 'this': TH
@@ -3210,9 +3210,9 @@ The Neighbouring Families
 'a': AEU
 'habit': HABT
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'But': KPA/PWUT
-'to-day': TO TKA*EU
+'to-day': TO/TKA*EU
 'two': TWO
 'old': OLD
 'sparrows': SPAEUR/ROE/-S
@@ -3223,18 +3223,18 @@ The Neighbouring Families
 'answered': AEPBS/-D
 'with': W
 'a': AEU
-'"peep"': KR-GS PAOEP KR-GS
+'"peep"': KR-GS/PAOEP/KR-GS
 'and': SKP
 'the': -T
-'thrice-repeated': THRAOEUS H-PB RE/PAOETD
+'thrice-repeated': THRAOEUS/H-PB/RE/PAOETD
 'scrape': SKRAEUP
 'with': W
 'the': -T
 'left': HREFT
-'foot.': TPAOT TP-PL
-'"Ah!': KR-GS KPA/HA*E SKHRAPL
-'Good-day!': KPA/TKPWAOD H-PB TKAEU SKHRAPL
-'good-day!"': TKPWAOD H-PB TKAEU SKHRAPL KR-GS
+'foot.': TPAOT/TP-PL
+'"Ah!': KR-GS/KPA/HA*E/SKHRAPL
+'Good-day!': KPA/TKPWAOD/H-PB/TKAEU/SKHRAPL
+'good-day!"': TKPWAOD/H-PB/TKAEU/SKHRAPL/KR-GS
 'They': KPA/THE
 'were': WR
 'two': TWO
@@ -3249,26 +3249,26 @@ The Neighbouring Families
 'one': WUPB
 'of': -F
 'the': -T
-'family.': TPAEPL TP-PL
-'"Do': KR-GS KPA/TKO
+'family.': TPAEPL/TP-PL
+'"Do': KR-GS/KPA/TKO
 'we': WE
 'meet': PHAOET
-'here?': HAOER H-F
-'It's': KPA/T AES
+'here?': HAOER/H-F
+'It's': KPA/T/AES
 'a': AEU
 'grand': TKPWRAPBD
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'but': PWUT
 'there's': THR-S
 'not': TPHOT
 'much': PHUFP
 'to': TO
-'eat.': AOET TP-PL
+'eat.': AOET/TP-PL
 'This': KPA/TH
 'is': S
-''the': AE -T
-'beautiful.'': PWAOUFL TP-PL AE
-'Peep!"': KPA/PAOEP SKHRAPL KR-GS
+''the': AE/-T
+'beautiful.'': PWAOUFL/TP-PL/AE
+'Peep!"': KPA/PAOEP/SKHRAPL/KR-GS
 'Many': KPA/PHAEPB
 'people': PAOEPL
 'came': KAEUPL
@@ -3298,15 +3298,15 @@ The Neighbouring Families
 'these': THEZ
 'works': WORBGS
 'of': -F
-'art.': ART TP-PL
+'art.': ART/TP-PL
 'All': KPA/AUL
 'stood': STAOD
 'with': W
 'enraptured': EPB/RAP/KHURD
 'faces': TPAEUFS
 'round': ROUPBD
-'Thorwaldsen's': xxx Thorwaldsen AES
-'grave,': TKPWRAEUF KW-BG
+'Thorwaldsen's': xxx Thorwaldsen/AES
+'grave,': TKPWRAEUF/KW-BG
 'and': SKP
 'a': AEU
 'few': TPAOU
@@ -3314,24 +3314,24 @@ The Neighbouring Families
 'up': UP
 'the': -T
 'fallen': TPAUL/-PB
-'rose-leaves': ROEZ H-PB HREFS
+'rose-leaves': ROEZ/H-PB/HREFS
 'and': SKP
 'preserved': PREFRBD
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'They': KPA/THE
 'had': H
 'come': KOPL
 'from': TPR
-'afar:': A/TPAR STPH-FPLT
+'afar:': A/TPAR/STPH-FPLT
 'one': WUPB
 'from': TPR
 'mighty': PHAOEUT/KWREU
-'England,': TKPWHRAEPBD KW-BG
+'England,': TKPWHRAEPBD/KW-BG
 'others': OERS
 'from': TPR
 'Germany': SKWRERPL/TPHEU
 'and': SKP
-'France.': TPRAPBS TP-PL
+'France.': TPRAPBS/TP-PL
 'The': KPA/-T
 'fairest': TPAEUR/EFT
 'of': -F
@@ -3347,7 +3347,7 @@ The Neighbouring Families
 'it': T
 'in': TPH
 'her': HER
-'bosom.': PWUZ/OPL TP-PL
+'bosom.': PWUZ/OPL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'sparrows': SPAEUR/ROE/-S
@@ -3356,7 +3356,7 @@ The Neighbouring Families
 'the': -T
 'roses': ROES/-S
 'reigned': RAEPB/-D
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'and': SKP
 'that': THA
 'the': -T
@@ -3366,7 +3366,7 @@ The Neighbouring Families
 'built': PWEULT
 'for': TPOR
 'their': THAEUR
-'sake.': SAEUBG TP-PL
+'sake.': SAEUBG/TP-PL
 'That': KPA/THA
 'appeared': A/PAOERD
 'to': TO
@@ -3375,7 +3375,7 @@ The Neighbouring Families
 'be': -B
 'really': R-L
 'too': TAO
-'much,': PHUFP KW-BG
+'much,': PHUFP/KW-BG
 'but': PWUT
 'since': SEUPBS
 'all': AUL
@@ -3386,15 +3386,15 @@ The Neighbouring Families
 'love': HRUF
 'for': TPOR
 'the': -T
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'they': THE
 'did': TK
 'not': TPHOT
 'wish': WEURB
 'to': TO
 'be': -B
-'behindhand.': xxx behindhand TP-PL
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'behindhand.': xxx behindhand/TP-PL
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'they': THE
 'said': SED
 'sweeping': SWAOEPG
@@ -3402,7 +3402,7 @@ The Neighbouring Families
 'ground': TKPWROUPBD
 'with': W
 'their': THAEUR
-'tails,': TAEULS KW-BG
+'tails,': TAEULS/KW-BG
 'and': SKP
 'blinking': PWHREUPB/K-G
 'with': W
@@ -3410,7 +3410,7 @@ The Neighbouring Families
 'eye': AOEU
 'at': AT
 'the': -T
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'they': THE
 'had': H
 'not': TPHOT
@@ -3427,23 +3427,23 @@ The Neighbouring Families
 'were': WR
 'their': THAEUR
 'old': OLD
-'neighbours.': TPHAEUBS/A*U TP-PL
+'neighbours.': TPHAEUBS/A*U/TP-PL
 'And': AFPBD
 'so': SO
 'they': THE
 'really': R-L
-'were.': WR TP-PL
+'were.': WR/TP-PL
 'The': KPA/-T
 'painter': PA*EURPBT
 'who': WHO
 'had': H
 'drawn': TKRAUPB
 'the': -T
-'rose-bush': ROEZ H-PB PWURB
+'rose-bush': ROEZ/H-PB/PWURB
 'near': TPHAOER
 'the': -T
 'ruined': RAOUPBD
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'had': H
 'afterwards': A*FRDZ
 'obtained': OB/TAEUPBD
@@ -3451,29 +3451,29 @@ The Neighbouring Families
 'to': TO
 'dig': TKEUG
 'it': T
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'had': H
 'given': TKPWEUFPB
 'it': T
 'to': TO
 'the': -T
-'architect,': TREBGT KW-BG
+'architect,': TREBGT/KW-BG
 'for': TPOR
 'finer': TPAOEURPB
 'roses': ROES/-S
 'had': H
 'never': TPHEFR
 'been': PW-PB
-'seen.': SAOEPB TP-PL
+'seen.': SAOEPB/TP-PL
 'The': KPA/-T
 'architect': TREBGT
 'had': H
 'planted': PHRAPBT/-D
 'it': T
 'upon': POPB
-'Thorwaldsen's': xxx Thorwaldsen AES
-'grave,': TKPWRAEUF KW-BG
+'Thorwaldsen's': xxx Thorwaldsen/AES
+'grave,': TKPWRAEUF/KW-BG
 'where': W-R
 'it': T
 'bloomed': PWHRAOPL/-D
@@ -3481,13 +3481,13 @@ The Neighbouring Families
 'an': APB
 'emblem': EPL/PWHREPL
 'of': -F
-''the': AE -T
-'beautiful'': PWAOUFL AE
+''the': AE/-T
+'beautiful'': PWAOUFL/AE
 'and': SKP
 'yielded': KWRAOELD/-D
 'fragrant': TPRAEUG/RAPBT
 'red': RED
-'rose-leaves': ROEZ H-PB HREFS
+'rose-leaves': ROEZ/H-PB/HREFS
 'to': TO
 'be': -B
 'carried': KAERD
@@ -3495,8 +3495,8 @@ The Neighbouring Families
 'mementoes': PHEPLT/TOE/-S
 'to': TO
 'distant': STKAPBT
-'lands.': HRAPBDZ TP-PL
-'"Have': KR-GS KPA/SR
+'lands.': HRAPBDZ/TP-PL
+'"Have': KR-GS/KPA/SR
 'you': U
 'obtained': OB/TAEUPBD
 'an': APB
@@ -3504,13 +3504,13 @@ The Neighbouring Families
 'here': HAOER
 'in': TPH
 'the': -T
-'city?"': STEU H-F KR-GS
+'city?"': STEU/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'sparrows.': SPAEUR/ROE/-S TP-PL
+'sparrows.': SPAEUR/ROE/-S/TP-PL
 'The': KPA/-T
 'roses': ROES/-S
-'nodded;': TPHOD/-D STPH*FPLT
+'nodded;': TPHOD/-D/STPH*FPLT
 'they': THE
 'recognised': REFD/A*U
 'their': THAEUR
@@ -3522,8 +3522,8 @@ The Neighbouring Families
 'to': TO
 'see': SAOE
 'them': THEPL
-'again.': TKPWEPB TP-PL
-'"How': KR-GS KPA/HOU
+'again.': TKPWEPB/TP-PL
+'"How': KR-GS/KPA/HOU
 'glorious': TKPWHRORS
 'it': T
 'is': S
@@ -3531,17 +3531,17 @@ The Neighbouring Families
 'live': HREUF
 'and': SKP
 'to': TO
-'bloom,': PWHRAOPL KW-BG
+'bloom,': PWHRAOPL/KW-BG
 'to': TO
 'see': SAOE
 'old': OLD
 'friends': TPREPBDZ
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'happy': HAEP
 'faces': TPAEUFS
 'every': EF
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'It': KPA/T
 'is': S
 'as': AS
@@ -3550,49 +3550,49 @@ The Neighbouring Families
 'day': TKAEU
 'were': WR
 'a': AEU
-'festival."': TPEFT/SRAL TP-PL KR-GS
-'"Peep!"': KR-GS KPA/PAOEP SKHRAPL KR-GS
+'festival."': TPEFT/SRAL/TP-PL/KR-GS
+'"Peep!"': KR-GS/KPA/PAOEP/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'sparrows.': SPAEUR/ROE/-S TP-PL
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'sparrows.': SPAEUR/ROE/-S/TP-PL
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'they': THE
 'are': R
 'really': R-L
 'our': OUR
 'old': OLD
-'neighbours;': TPHAEUBS/A*U STPH*FPLT
+'neighbours;': TPHAEUBS/A*U/STPH*FPLT
 'we': WE
 'remember': RER
 'their': THAEUR
 'origin': O*RPBLG
 'near': TPHAOER
 'the': -T
-'pond.': POPBD TP-PL
-'Peep!': KPA/PAOEP SKHRAPL
+'pond.': POPBD/TP-PL
+'Peep!': KPA/PAOEP/SKHRAPL
 'how': HOU
 'they': THE
 'have': SR
 'got': TKPWOT
-'on.': OPB TP-PL
-'Yes,': KPA/KWRE KW-BG
+'on.': OPB/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'some': SOPL
 'succeed': SKAOED
 'while': WHAOEUL
 'they': THE
 'are': R
-'asleep.': A/SHRAOEP TP-PL
-'Ah!': KPA/HA*E SKHRAPL
+'asleep.': A/SHRAOEP/TP-PL
+'Ah!': KPA/HA*E/SKHRAPL
 'there's': THR-S
 'a': AEU
 'faded': TPAEUD/-D
-'leaf;': HRAOEF STPH*FPLT
+'leaf;': HRAOEF/STPH*FPLT
 'I': EU
 'can': K
 'see': SAOE
 'that': THA
 'quite': KWAOEUT
-'plainly."': PHRAEUPBL TP-PL KR-GS
+'plainly."': PHRAEUPBL/TP-PL/KR-GS
 'And': AFPBD
 'they': THE
 'pecked': PEBGD
@@ -3601,7 +3601,7 @@ The Neighbouring Families
 'till': TEUL
 'it': T
 'fell': TPEL
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'But': KPA/PWUT
 'the': -T
 'tree': TRAOE
@@ -3611,7 +3611,7 @@ The Neighbouring Families
 'and': SKP
 'greener': TKPWRAOERPB
 'than': THAPB
-'ever;': -FR STPH*FPLT
+'ever;': -FR/STPH*FPLT
 'the': -T
 'roses': ROES/-S
 'bloomed': PWHRAOPL/-D
@@ -3619,7 +3619,7 @@ The Neighbouring Families
 'the': -T
 'sunshine': SUPB/SHAO*EUPB
 'on': OPB
-'Thorwaldsen's': xxx Thorwaldsen AES
+'Thorwaldsen's': xxx Thorwaldsen/AES
 'grave': TKPWRAEUF
 'and': SKP
 'became': PWAEUPL
@@ -3627,4 +3627,4 @@ The Neighbouring Families
 'with': W
 'his': HEUS
 'immortal': EUPL/PHORT/A*L
-'name.': TPHAEUPL TP-PL
+'name.': TPHAEUPL/TP-PL

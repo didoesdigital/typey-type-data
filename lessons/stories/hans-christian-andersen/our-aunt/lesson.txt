@@ -6,14 +6,14 @@ Our Aunt
 'have': SR
 'known': TPHOEPB
 'our': OUR
-'aunt;': AUPBT STPH*FPLT
+'aunt;': AUPBT/STPH*FPLT
 'she': SHE
 'was': WAS
-'charming!': KHARPL/-G SKHRAPL
+'charming!': KHARPL/-G/SKHRAPL
 'That': KPA/THA
 'is': S
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'she': SHE
 'was': WAS
 'not': TPHOT
@@ -25,17 +25,17 @@ Our Aunt
 'word': WORD
 'is': S
 'usually': AOURBL
-'understood;': *URPBD STPH*FPLT
+'understood;': *URPBD/STPH*FPLT
 'but': PWUT
 'she': SHE
 'was': WAS
 'good': TKPWAOD
 'and': SKP
-'kind,': KEUPBD KW-BG
+'kind,': KEUPBD/KW-BG
 'amusing': A/PHAOUFG
 'in': TPH
 'her': HER
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'was': WAS
 'just': SKWRUFT
@@ -54,7 +54,7 @@ Our Aunt
 'and': SKP
 'to': TO
 'laugh': HRAF
-'at.': AT TP-PL
+'at.': AT/TP-PL
 'She': KPA/SHE
 'might': PHAOEUT
 'have': SR
@@ -62,7 +62,7 @@ Our Aunt
 'put': PUT
 'into': TPHAO
 'a': AEU
-'play,': PHRAEU KW-BG
+'play,': PHRAEU/KW-BG
 'and': SKP
 'wholly': WHOE/HREU
 'and': SKP
@@ -84,56 +84,56 @@ Our Aunt
 'what': WHA
 'was': WAS
 'done': TKOPB
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'She': KPA/SHE
 'was': WAS
 'an': APB
 'honorable': HOPB/RABL
-'matron;': PHAEU/TROPB STPH*FPLT
+'matron;': PHAEU/TROPB/STPH*FPLT
 'but': PWUT
 'Agent': KPA/AGT
-'Fabs,': xxx Fabs KW-BG
+'Fabs,': xxx Fabs/KW-BG
 'whom': WHOPL
 'she': SHE
 'used': AOUFD
 'to': TO
 'call': KAUL
-'"Flabs,"': KR-GS xxx Flabs KW-BG KR-GS
+'"Flabs,"': KR-GS/xxx Flabs/KW-BG/KR-GS
 'declared': TKE/KHRAEURD
 'that': THA
 'our': OUR
 'aunt': AUPBT
 'was': WAS
-'stage-struck.': STAEUPBLG H-PB STRUBG TP-PL
-'"The': KR-GS KPA/-T
+'stage-struck.': STAEUPBLG/H-PB/STRUBG/TP-PL
+'"The': KR-GS/KPA/-T
 'theatre': THAO*ERT
 'is': S
 'my': PHEU
-'school,"': SKAOL KW-BG KR-GS
+'school,"': SKAOL/KW-BG/KR-GS
 'said': SED
-'she,': SHE KW-BG
-'"the': KR-GS -T
+'she,': SHE/KW-BG
+'"the': KR-GS/-T
 'source': S-RS
 'of': -F
 'my': PHEU
-'knowledge.': TPHOPBLG TP-PL
+'knowledge.': TPHOPBLG/TP-PL
 'From': KPA/TPR
 'thence': THEPBS
 'I': EU
 'have': SR
 'resuscitated': RE/SUS/TAEUT/-D
 'Biblical': PWEUBL/K-L
-'history.': HEUFRT TP-PL
-'Now,': KPA/TPHOU KW-BG
-''Moses'': AE PHOES/ES AE
+'history.': HEUFRT/TP-PL
+'Now,': KPA/TPHOU/KW-BG
+''Moses'': AE/PHOES/ES/AE
 'and': SKP
-''Joseph': AE SKWROE/SEF
+''Joseph': AE/SKWROE/SEF
 'in': TPH
-'Egypt'—there': AOE/SKWREUPT AE EPL/TKA*RB THR
+'Egypt'—there': AOE/SKWREUPT/AE/EPL/TKA*RB/THR
 'are': R
 'operas': OP/RAS
 'for': TPOR
-'you!': U SKHRAPL
+'you!': U/SKHRAPL
 'I': EU
 'get': TKPWET
 'my': PHEU
@@ -141,14 +141,14 @@ Our Aunt
 'history': HEUFRT
 'from': TPR
 'the': -T
-'theatre,': THAO*ERT KW-BG
+'theatre,': THAO*ERT/KW-BG
 'my': PHEU
-'geography,': SKWRAOEF KW-BG
+'geography,': SKWRAOEF/KW-BG
 'and': SKP
 'my': PHEU
 'knowledge': TPHOPBLG
 'of': -F
-'men.': PHEPB TP-PL
+'men.': PHEPB/TP-PL
 'Out': KPA/OUT
 'of': -F
 'the': -T
@@ -160,25 +160,25 @@ Our Aunt
 'know': TPHOE
 'life': HRAOEUF
 'in': TPH
-'Paris—slippery,': PA*EURS EPL/TKA*RB SHREUP/REU KW-BG
+'Paris—slippery,': PA*EURS/EPL/TKA*RB/SHREUP/REU/KW-BG
 'but': PWUT
 'exceedingly': EBGS/AOED/TKPWHREU
-'interesting.': TR-G TP-PL
+'interesting.': TR-G/TP-PL
 'How': KPA/HOU
 'I': EU
 'have': SR
 'cried': KRAOEUD
 'over': OEFR
-''La': AE KPA/HRA
+''La': AE/KPA/HRA
 'Famille': xxx Famille
-'Roquebourg'—that': xxx Roquebourg AE EPL/TKA*RB THA
+'Roquebourg'—that': xxx Roquebourg/AE/EPL/TKA*RB/THA
 'the': -T
 'man': PHAPB
 'must': PHUFT
 'drink': TKREU
 'himself': HEUPLS
 'to': TO
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'so': SO
 'that': THA
 'she': SHE
@@ -186,8 +186,8 @@ Our Aunt
 'marry': PHAER
 'the': -T
 'young': KWRUPBG
-'fellow!': TP*EL SKHRAPL
-'Yes,': KPA/KWRE KW-BG
+'fellow!': TP*EL/SKHRAPL
+'Yes,': KPA/KWRE/KW-BG
 'how': HOU
 'many': PHAEPB
 'tears': TAERS
@@ -203,26 +203,26 @@ Our Aunt
 'subscribed': SUB/SKRAOEUBD
 'to': TO
 'the': -T
-'theatre!"': THAO*ERT SKHRAPL KR-GS
+'theatre!"': THAO*ERT/SKHRAPL/KR-GS
 'Our': KPA/OUR
 'aunt': AUPBT
 'knew': TPHAOU
 'every': EF
 'acting': A*G
-'play,': PHRAEU KW-BG
+'play,': PHRAEU/KW-BG
 'every': EF
 'bit': PWEUT
 'of': -F
-'scenery,': SAEPB/REU KW-BG
+'scenery,': SAEPB/REU/KW-BG
 'every': EF
-'character,': KRAR KW-BG
+'character,': KRAR/KW-BG
 'every': EF
 'one': WUPB
 'who': WHO
 'appeared': A/PAOERD
 'or': OR
 'had': H
-'appeared.': A/PAOERD TP-PL
+'appeared.': A/PAOERD/TP-PL
 'She': KPA/SHE
 'seemed': SAOEPLD
 'really': R-L
@@ -236,7 +236,7 @@ Our Aunt
 'the': -T
 'theatre': THAO*ERT
 'was': WAS
-'open.': OEP TP-PL
+'open.': OEP/TP-PL
 'Summertime': KPA/SUPL/ER/TAOEUPL
 'without': WOUT
 'a': AEU
@@ -251,12 +251,12 @@ Our Aunt
 'that': THA
 'made': PHAED
 'her': HER
-'old;': OLD STPH*FPLT
-'while,': WHAOEUL KW-BG
+'old;': OLD/STPH*FPLT
+'while,': WHAOEUL/KW-BG
 'on': OPB
 'the': -T
 'other': OER
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'a': AEU
 'theatrical': THAOERT/K-L
 'evening': AOEPBG
@@ -269,25 +269,25 @@ Our Aunt
 'lengthening': HREPB/THEPBG
 'of': -F
 'her': HER
-'life.': HRAOEUF TP-PL
+'life.': HRAOEUF/TP-PL
 'She': KPA/SHE
 'did': TK
 'not': TPHOT
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'as': AS
 'other': OER
 'people': PAOEPL
 'do,': TKORBGS
-'"Now': KR-GS KPA/TPHOU
+'"Now': KR-GS/KPA/TPHOU
 'we': WE
 'shall': SHAL
 'have': SR
-'spring,': SPREUPBG KW-BG
+'spring,': SPREUPBG/KW-BG
 'the': -T
 'stork': STORBG
 'is': S
-'here,"': HAOER KW-BG KR-GS
-'or,': OR KW-BG
+'here,"': HAOER/KW-BG/KR-GS
+'or,': OR/KW-BG
 '"They've': KR-GS/KPA*/THE
 'advertised': TAOEUFD
 'the': -T
@@ -295,20 +295,20 @@ Our Aunt
 'strawberries': STRAU/PWER/KWREUS
 'in': TPH
 'the': -T
-'papers."': PAEUPS TP-PL KR-GS
-'She,': KPA/SHE KW-BG
+'papers."': PAEUPS/TP-PL/KR-GS
+'She,': KPA/SHE/KW-BG
 'on': OPB
 'the': -T
-'contrary,': KRAER KW-BG
+'contrary,': KRAER/KW-BG
 'used': AOUFD
 'to': TO
 'announce': TPHOUPBS
 'the': -T
 'coming': KO*G
 'of': -F
-'autumn,': AU/UPL KW-BG
+'autumn,': AU/UPL/KW-BG
 'with': W
-'"Have': KR-GS KPA/SR
+'"Have': KR-GS/KPA/SR
 'you': U
 'heard': HAERD
 'they're': THER
@@ -316,12 +316,12 @@ Our Aunt
 'boxes': PWOBGSZ
 'for': TPOR
 'the': -T
-'theatre?': THAO*ERT H-F
+'theatre?': THAO*ERT/H-F
 'now': TPHOU
 'the': -T
 'performances': PER/TPORPL/APBS/-S
 'will': HR
-'begin."': TKPWEUPB TP-PL KR-GS
+'begin."': TKPWEUPB/TP-PL/KR-GS
 'She': KPA/SHE
 'used': AOUFD
 'to': TO
@@ -335,7 +335,7 @@ Our Aunt
 'proximity': PROBGS/EUPLT
 'to': TO
 'the': -T
-'theatre.': THAO*ERT TP-PL
+'theatre.': THAO*ERT/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
@@ -353,7 +353,7 @@ Our Aunt
 'lane': HRAEPB
 'behind': HEUPBD
 'the': -T
-'playhouse,': xxx playhouse KW-BG
+'playhouse,': xxx playhouse/KW-BG
 'and': SKP
 'move': PHOF
 'into': TPHAO
@@ -365,7 +365,7 @@ Our Aunt
 'a': AEU
 'little': HREUL
 'farther': TPA*RT
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'live': HREUF
 'there': THR
@@ -377,17 +377,17 @@ Our Aunt
 'had': H
 'no': TPHO
 'opposite': OP/SEUT
-'neighbors.': TPHAEUBS TP-PL
-'"At': KR-GS KPA/AT
-'home,"': HOEPL KW-BG KR-GS
+'neighbors.': TPHAEUBS/TP-PL
+'"At': KR-GS/KPA/AT
+'home,"': HOEPL/KW-BG/KR-GS
 'said': SED
-'she,': SHE KW-BG
-'"my': KR-GS PHEU
+'she,': SHE/KW-BG
+'"my': KR-GS/PHEU
 'windows': WOEUPBDZ
 'must': PHUFT
 'be': -B
 'my': PHEU
-'opera-box.': OP/RA H-PB PWOBGS TP-PL
+'opera-box.': OP/RA/H-PB/PWOBGS/TP-PL
 'One': KPA/WUPB
 'cannot': SK-PBT
 'sit': SEUT
@@ -398,11 +398,11 @@ Our Aunt
 'self': S*EF
 'till': TEUL
 'one's': W*UPBS
-'tired;': TAOEURD STPH*FPLT
+'tired;': TAOEURD/STPH*FPLT
 'one': WUPB
 'must': PHUFT
 'see': SAOE
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'But': KPA/PWUT
 'now': TPHOU
 'I': EU
@@ -414,34 +414,34 @@ Our Aunt
 'go': TKPW
 'into': TPHAO
 'the': -T
-'country.': KREU TP-PL
+'country.': KREU/TP-PL
 'If': KPA/TP
 'I': EU
 'want': WAPBT
 'to': TO
 'see': SAOE
 'human': HAOUPL
-'beings,': -BGZ KW-BG
+'beings,': -BGZ/KW-BG
 'I': EU
 'must': PHUFT
 'go': TKPW
 'into': TPHAO
 'my': PHEU
-'kitchen,': K-FP KW-BG
+'kitchen,': K-FP/KW-BG
 'and': SKP
 'sit': SEUT
 'down': TKOUPB
 'on': OPB
 'the': -T
-'sink,': S*EUPBG KW-BG
+'sink,': S*EUPBG/KW-BG
 'for': TPOR
 'there': THR
 'only': OEPBL
 'I': EU
 'have': SR
 'opposite': OP/SEUT
-'neighbors.': TPHAEUBS TP-PL
-'No;': KPA/TPHO STPH*FPLT
+'neighbors.': TPHAEUBS/TP-PL
+'No;': KPA/TPHO/STPH*FPLT
 'when': WHEPB
 'I': EU
 'lived': HREUFD
@@ -449,7 +449,7 @@ Our Aunt
 'my': PHEU
 'dear': TKAER
 'little': HREUL
-'lane,': HRAEPB KW-BG
+'lane,': HRAEPB/KW-BG
 'I': EU
 'could': KO
 'look': HRAOBG
@@ -457,8 +457,8 @@ Our Aunt
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'ironmonger's': xxx ironmonger AES
-'shop,': SHOP KW-BG
+'ironmonger's': xxx ironmonger/AES
+'shop,': SHOP/KW-BG
 'and': SKP
 'had': H
 'only': OEPBL
@@ -467,7 +467,7 @@ Our Aunt
 'paces': PAEUS/-S
 'to': TO
 'the': -T
-'theatre;': THAO*ERT STPH*FPLT
+'theatre;': THAO*ERT/STPH*FPLT
 'and': SKP
 'now': TPHOU
 'I've': AOEUF
@@ -477,23 +477,23 @@ Our Aunt
 'to': TO
 'go,': TKPW-RBGS
 'military': PHEUL/TAER
-'measurement."': PHEPLT TP-PL KR-GS
+'measurement."': PHEPLT/TP-PL/KR-GS
 'Our': KPA/OUR
 'aunt': AUPBT
 'was': WAS
 'sometimes': STAOEUPLS
-'ill,': EUL KW-BG
+'ill,': EUL/KW-BG
 'but': PWUT
 'however': HOUF
 'unwell': UPB/WEL
 'she': SHE
 'might': PHAOEUT
-'feel,': TPAOEL KW-BG
+'feel,': TPAOEL/KW-BG
 'she': SHE
 'never': TPHEFR
 'missed': PHEUFD
 'the': -T
-'play.': PHRAEU TP-PL
+'play.': PHRAEU/TP-PL
 'The': KPA/-T
 'doctor': TKR
 'prescribed': PRAOEUBD
@@ -508,12 +508,12 @@ Our Aunt
 'in': TPH
 'a': AEU
 'bran': PWRAPB
-'bath,': PWA*T KW-BG
+'bath,': PWA*T/KW-BG
 'and': SKP
 'she': SHE
 'followed': TPOLD
 'his': HEUS
-'advice;': SREUS STPH*FPLT
+'advice;': SREUS/STPH*FPLT
 'but': PWUT
 'she': SHE
 'drove': TKROEF
@@ -522,7 +522,7 @@ Our Aunt
 'theatre': THAO*ERT
 'all': AUL
 'the': -T
-'same,': SAEUPL KW-BG
+'same,': SAEUPL/KW-BG
 'and': SKP
 'sat': SAT
 'with': W
@@ -530,30 +530,30 @@ Our Aunt
 'feet': TPAOET
 'in': TPH
 'bran': PWRAPB
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'If': KPA/TP
 'she': SHE
 'had': H
 'died': TKAOEUD
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'she': SHE
 'would': WO
 'have': SR
 'been': PW-PB
 'very': SRE
-'glad.': TKPWHRAD TP-PL
+'glad.': TKPWHRAD/TP-PL
 'Thorwaldsen': xxx Thorwaldsen
 'died': TKAOEUD
 'in': TPH
 'the': -T
-'theatre,': THAO*ERT KW-BG
+'theatre,': THAO*ERT/KW-BG
 'and': SKP
 'she': SHE
 'called': KAULD
 'that': THA
 'a': AEU
 'happy': HAEP
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'She': KPA/SHE
 'could': KO
 'not': TPHOT
@@ -567,21 +567,21 @@ Our Aunt
 'be': -B
 'a': AEU
 'theatre': THAO*ERT
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'It': KPA/T
 'had': H
-'not,': TPHOT KW-BG
-'indeed,': TPHAOEPBD KW-BG
+'not,': TPHOT/KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'been': PW-PB
 'promised': PROPLS/-D
-'us,': US KW-BG
+'us,': US/KW-BG
 'but': PWUT
 'we': WE
 'might': PHAOEUT
 'very': SRE
 'well': WEL
 'imagine': PHAPBLG
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'many': PHAEPB
 'distinguished': STKPWAOURBD
@@ -599,7 +599,7 @@ Our Aunt
 'field': TPAOELD
 'for': TPOR
 'their': THAEUR
-'talent.': THREPBT TP-PL
+'talent.': THREPBT/TP-PL
 'Our': KPA/OUR
 'aunt': AUPBT
 'had': H
@@ -611,7 +611,7 @@ Our Aunt
 'theatre': THAO*ERT
 'to': TO
 'her': HER
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'A': KPA/AEU
 'telegram': TEL/TKPWRAPL
 'used': AOUFD
@@ -621,7 +621,7 @@ Our Aunt
 'to': TO
 'her': HER
 'at': AT
-'coffee-time,': KOEF H-PB TAOEUPL KW-BG
+'coffee-time,': KOEF/H-PB/TAOEUPL/KW-BG
 'and': SKP
 'it': T
 'used': AOUFD
@@ -629,13 +629,13 @@ Our Aunt
 'consist': KAO
 'of': -F
 'the': -T
-'words,': WORDZ KW-BG
-'"Herr': KR-GS xxx Herr
+'words,': WORDZ/KW-BG
+'"Herr': KR-GS/xxx Herr
 'Sivertsen': xxx Sivertsen
 'is': S
 'at': AT
 'the': -T
-'machinery;"': PH-PB/REU STPH*FPLT KR-GS
+'machinery;"': PH-PB/REU/STPH*FPLT/KR-GS
 'for': TPOR
 'it': T
 'was': WAS
@@ -655,7 +655,7 @@ Our Aunt
 'for': TPOR
 'changing': KHAPBG/-G
 'the': -T
-'scenes.': SAOEPBS TP-PL
+'scenes.': SAOEPBS/TP-PL
 'From': KPA/TPR
 'him': HEUPL
 'she': SHE
@@ -669,38 +669,38 @@ Our Aunt
 'description': SKREUPGS
 'of': -F
 'every': EF
-'piece.': PAOES TP-PL
+'piece.': PAOES/TP-PL
 'His': KPA/HEUS
 'opinion': P-PB
 'of': -F
-'Shakspeare's': xxx Shakspeare AES
-'"Tempest,"': KR-GS KPA/TEPL/PEFT KW-BG KR-GS
-'was,': WAS KW-BG
-'"Mad': KR-GS KPA/PHAD
-'nonsense!': TPHOPB/SEPBS SKHRAPL
-'There's': KPA/THR AES
+'Shakspeare's': xxx Shakspeare/AES
+'"Tempest,"': KR-GS/KPA/TEPL/PEFT/KW-BG/KR-GS
+'was,': WAS/KW-BG
+'"Mad': KR-GS/KPA/PHAD
+'nonsense!': TPHOPB/SEPBS/SKHRAPL
+'There's': KPA/THR/AES
 'so': SO
 'much': PHUFP
 'to': TO
 'put': PUT
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'the': -T
 'first': TPEUFRT
 'scene': SAEPB
 'begins': TKPWEUPBS
 'with': W
-''Water': AE KPA/WAUR
+''Water': AE/KPA/WAUR
 'to': TO
 'the': -T
 'front': TPROPBT
 'of': -F
 'the': -T
-'wings.'"': WEUPBGS TP-PL AE KR-GS
+'wings.'"': WEUPBGS/TP-PL/AE/KR-GS
 'That': KPA/THA
 'is': S
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'the': -T
 'water': WAUR
 'had': H
@@ -708,13 +708,13 @@ Our Aunt
 'come': KOPL
 'forward': TPAORD
 'so': SO
-'far.': TPAR TP-PL
+'far.': TPAR/TP-PL
 'But': KPA/PWUT
-'when,': WHEPB KW-BG
+'when,': WHEPB/KW-BG
 'on': OPB
 'the': -T
 'other': OER
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'the': -T
 'same': SAEUPL
 'interior': OERPBT
@@ -722,29 +722,29 @@ Our Aunt
 'remained': RE/PHAEUPBD
 'through': THRU
 'five': TPAOEUF
-'acts,': ABGZ KW-BG
+'acts,': ABGZ/KW-BG
 'he': HE
 'used': AOUFD
 'to': TO
 'pronounce': PROUPBS
 'it': T
 'a': AEU
-'sensible,': SEPBS/-BL KW-BG
-'well-written': W*EL WREUPB
-'play,': PHRAEU KW-BG
+'sensible,': SEPBS/-BL/KW-BG
+'well-written': W*EL/WREUPB
+'play,': PHRAEU/KW-BG
 'a': AEU
 'resting': REFT/-G
-'play,': PHRAEU KW-BG
+'play,': PHRAEU/KW-BG
 'which': WEU
 'performed': PORPLD
-'itself,': T/SEFL KW-BG
+'itself,': T/SEFL/KW-BG
 'without': WOUT
 'putting': PUGT
 'up': UP
-'scenes.': SAOEPBS TP-PL
+'scenes.': SAOEPBS/TP-PL
 'In': KPA/TPH
 'earlier': RERL
-'times,': TAOEUPLS KW-BG
+'times,': TAOEUPLS/KW-BG
 'by': PWEU
 'which': WEU
 'name': TPHAEUPL
@@ -755,16 +755,16 @@ Our Aunt
 'designate': TKES/TPHAT
 'thirty': THEURT
 'years': KWRAOERS
-'ago,': AG KW-BG
+'ago,': AG/KW-BG
 'she': SHE
 'and': SKP
 'the': -T
-'before-mentioned': PW-FR H-PB PHEPBGS/-D
+'before-mentioned': PW-FR/H-PB/PHEPBGS/-D
 'Herr': xxx Herr
 'Sivertsen': xxx Sivertsen
 'had': H
 'been': PW-PB
-'younger.': KWRURPBG TP-PL
+'younger.': KWRURPBG/TP-PL
 'At': KPA/AT
 'that': THA
 'time': TAOEUPL
@@ -775,14 +775,14 @@ Our Aunt
 'connected': KEBGTD
 'with': W
 'the': -T
-'machinery,': PH-PB/REU KW-BG
+'machinery,': PH-PB/REU/KW-BG
 'and': SKP
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'as': AS
 'she': SHE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'her': HER
-'benefactor.': PWEPB/TPABG/TOR TP-PL
+'benefactor.': PWEPB/TPABG/TOR/TP-PL
 'It': KPA/T
 'used': AOUFD
 'to': TO
@@ -803,7 +803,7 @@ Our Aunt
 'theatre': THAO*ERT
 'the': -T
 'town': TOUPB
-'possessed,': POS/ES/-D KW-BG
+'possessed,': POS/ES/-D/KW-BG
 'spectators': SPEBG/TAEUT/O*RS
 'were': WR
 'admitted': AD/PHEUTD
@@ -812,10 +812,10 @@ Our Aunt
 'part': PART
 'called': KAULD
 'the': -T
-'"flies,"': KR-GS TPHRAOEUS KW-BG KR-GS
+'"flies,"': KR-GS/TPHRAOEUS/KW-BG/KR-GS
 'over': OEFR
 'the': -T
-'stage,': STAEUPBLG KW-BG
+'stage,': STAEUPBLG/KW-BG
 'and': SKP
 'every': EF
 'machinist': PH-PB/EUFT
@@ -826,7 +826,7 @@ Our Aunt
 'places': PHRAEUFS
 'to': TO
 'give': TKPWEUF
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Often': KPA/OFPB
 'the': -T
 'flies': TPHRAOEUS
@@ -835,21 +835,21 @@ Our Aunt
 'full': TPUL
 'of': -F
 'good': TKPWAOD
-'company;': K-P STPH*FPLT
+'company;': K-P/STPH*FPLT
 'it': T
 'was': WAS
 'said': SED
 'that': THA
-'generals'': SKWREPBS AE
+'generals'': SKWREPBS/AE
 'wives': WAOEUFS
 'and': SKP
 'privy': PREU/SREU
-'councillors'': KOUPB/SEU/HROR/-S AE
+'councillors'': KOUPB/SEU/HROR/-S/AE
 'wives': WAOEUFS
 'had': H
 'been': PW-PB
 'up': UP
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'It': KPA/T
 'was': WAS
 'quite': KWAOEUT
@@ -859,7 +859,7 @@ Our Aunt
 'down': TKOUPB
 'behind': HEUPBD
 'the': -T
-'scenes,': SAOEPBS KW-BG
+'scenes,': SAOEPBS/KW-BG
 'and': SKP
 'to': TO
 'see': SAOE
@@ -877,14 +877,14 @@ Our Aunt
 'the': -T
 'curtain': KUR/TAPB
 'was': WAS
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'Our': KPA/OUR
 'aunt': AUPBT
 'had': H
 'been': PW-PB
 'there': THR
 'several': SEFRL
-'times,': TAOEUPLS KW-BG
+'times,': TAOEUPLS/KW-BG
 'as': AS
 'well': WEL
 'when': WHEPB
@@ -897,7 +897,7 @@ Our Aunt
 'there': THR
 'was': WAS
 'a': AEU
-'ballet;': PWA/HRAEU STPH*FPLT
+'ballet;': PWA/HRAEU/STPH*FPLT
 'for': TPOR
 'the': -T
 'pieces': PAOEFS
@@ -921,7 +921,7 @@ Our Aunt
 'see': SAOE
 'from': TPR
 'the': -T
-'flies.': TPHRAOEUS TP-PL
+'flies.': TPHRAOEUS/TP-PL
 'One': KPA/WUPB
 'sat': SAT
 'pretty': PREUT
@@ -930,7 +930,7 @@ Our Aunt
 'the': -T
 'dark': TKARBG
 'up': UP
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'most': PHOFT
 'people': PAOEPL
@@ -939,7 +939,7 @@ Our Aunt
 'supper': SAOURP
 'up': UP
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'Once': KPA/WUPBS
 'three': THRAOE
 'apples': APLS
@@ -960,7 +960,7 @@ Our Aunt
 'the': -T
 'dungeon': TKUPBGS
 'of': -F
-'Ugolino,': xxx Ugolino KW-BG
+'Ugolino,': xxx Ugolino/KW-BG
 'where': W-R
 'that': THA
 'unhappy': UPB/HAEP
@@ -970,7 +970,7 @@ Our Aunt
 'be': -B
 'starved': STAFRBD
 'to': TO
-'death;': TK*T STPH*FPLT
+'death;': TK*T/STPH*FPLT
 'and': SKP
 'there': THR
 'was': WAS
@@ -978,7 +978,7 @@ Our Aunt
 'laughter': HRAFR
 'among': PHOPBG
 'the': -T
-'audience.': AUPBS TP-PL
+'audience.': AUPBS/TP-PL
 'The': KPA/-T
 'sausage': SAUFPBLG
 'was': WAS
@@ -1001,17 +1001,17 @@ Our Aunt
 'up': UP
 'in': TPH
 'the': -T
-'flies.': TPHRAOEUS TP-PL
-'"But': KR-GS KPA/PWUT
+'flies.': TPHRAOEUS/TP-PL
+'"But': KR-GS/KPA/PWUT
 'I': EU
 'was': WAS
 'there': THR
-'seven-and-thirty': SEFPB H-PB SKP H-PB THEURT
-'times,"': TAOEUPLS KW-BG KR-GS
+'seven-and-thirty': SEFPB/H-PB/SKP/H-PB/THEURT
+'times,"': TAOEUPLS/KW-BG/KR-GS
 'said': SED
 'our': OUR
-'aunt,': AUPBT KW-BG
-'"and': KR-GS SKP
+'aunt,': AUPBT/KW-BG
+'"and': KR-GS/SKP
 'I': EU
 'shall': SHAL
 'always': AULS
@@ -1019,7 +1019,7 @@ Our Aunt
 'Mr.': PHR-FPLT
 'Sivertsen': xxx Sivertsen
 'for': TPOR
-'that."': THA TP-PL KR-GS
+'that."': THA/TP-PL/KR-GS
 'On': KPA/OPB
 'the': -T
 'very': SRE
@@ -1033,29 +1033,29 @@ Our Aunt
 'open': OEP
 'to': TO
 'the': -T
-'public,': PHREUBG KW-BG
+'public,': PHREUBG/KW-BG
 'the': -T
-'"Judgment': KR-GS KPA/SKWRUPLT
+'"Judgment': KR-GS/KPA/SKWRUPLT
 'of': -F
-'Solomon"': SOL/PHOPB KR-GS
+'Solomon"': SOL/PHOPB/KR-GS
 'was': WAS
-'performed,': PORPLD KW-BG
+'performed,': PORPLD/KW-BG
 'as': AS
 'our': OUR
 'aunt': AUPBT
 'remembered': RERD
 'very': SRE
-'well.': WEL TP-PL
+'well.': WEL/TP-PL
 'She': KPA/SHE
-'had,': H KW-BG
+'had,': H/KW-BG
 'through': THRU
 'the': -T
 'influence': WEPBS
 'of': -F
 'her': HER
-'benefactor,': PWEPB/TPABG/TOR KW-BG
+'benefactor,': PWEPB/TPABG/TOR/KW-BG
 'Herr': xxx Herr
-'Sivertsen,': xxx Sivertsen KW-BG
+'Sivertsen,': xxx Sivertsen/KW-BG
 'procured': PROE/KAOURD
 'a': AEU
 'free': TPRAOE
@@ -1063,7 +1063,7 @@ Our Aunt
 'for': TPOR
 'the': -T
 'Agent': KPA/AGT
-'Fabs,': xxx Fabs KW-BG
+'Fabs,': xxx Fabs/KW-BG
 'although': HR*T
 'he': HE
 'did': TK
@@ -1072,7 +1072,7 @@ Our Aunt
 'it': T
 'in': TPH
 'the': -T
-'least,': HRAOEFT KW-BG
+'least,': HRAOEFT/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
@@ -1086,7 +1086,7 @@ Our Aunt
 'and': SKP
 'teasing': TAOES/-G
 'our': OUR
-'aunt;': AUPBT STPH*FPLT
+'aunt;': AUPBT/STPH*FPLT
 'but': PWUT
 'she': SHE
 'had': H
@@ -1097,35 +1097,35 @@ Our Aunt
 'admission': AD/PHEUGS
 'to': TO
 'the': -T
-'flies,': TPHRAOEUS KW-BG
+'flies,': TPHRAOEUS/KW-BG
 'for': TPOR
 'all': AUL
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'He': KPA/HE
 'wanted': WAPBTD
 'to': TO
 'look': HRAOBG
 'at': AT
 'this': TH
-'player-stuff': PHRAEUR H-PB STUF
+'player-stuff': PHRAEUR/H-PB/STUF
 'from': TPR
 'the': -T
 'other': OER
-'side.': SAOEUD TP-PL
-'"Those': KR-GS KPA/THOZ
+'side.': SAOEUD/TP-PL
+'"Those': KR-GS/KPA/THOZ
 'were': WR
 'his': HEUS
 'own': OEPB
-'words,': WORDZ KW-BG
+'words,': WORDZ/KW-BG
 'and': SKP
 'they': THE
 'were': WR
 'just': SKWRUFT
 'like': HRAOEUBG
-'him,"': HEUPL KW-BG KR-GS
+'him,"': HEUPL/KW-BG/KR-GS
 'said': SED
 'our': OUR
-'aunt.': AUPBT TP-PL
+'aunt.': AUPBT/TP-PL
 'He': KPA/HE
 'looked': HRAOBGD
 'down': TKOUPB
@@ -1133,14 +1133,14 @@ Our Aunt
 'above': PWOF
 'on': OPB
 'the': -T
-''Judgment': AE KPA/SKWRUPLT
+''Judgment': AE/KPA/SKWRUPLT
 'of': -F
-'Solomon,'': SOL/PHOPB KW-BG AE
+'Solomon,'': SOL/PHOPB/KW-BG/AE
 'and': SKP
 'fell': TPEL
 'asleep': A/SHRAOEP
 'over': OEFR
-'it.': T TP-PL
+'it.': T/TP-PL
 'One': KPA/WUPB
 'would': WO
 'have': SR
@@ -1157,15 +1157,15 @@ Our Aunt
 'toasts': TOEFTS
 'had': H
 'been': PW-PB
-'given.': TKPWEUFPB TP-PL
+'given.': TKPWEUFPB/TP-PL
 'He': KPA/HE
 'went': WEPBT
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'and': SKP
 'was': WAS
 'locked': HROBGD
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'And': AFPBD
 'there': THR
 'he': HE
@@ -1176,75 +1176,75 @@ Our Aunt
 'night': TPHAOEUT
 'in': TPH
 'the': -T
-'flies,': TPHRAOEUS KW-BG
+'flies,': TPHRAOEUS/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
-'woke,': WOEBG KW-BG
+'woke,': WOEBG/KW-BG
 'he': HE
 'told': TOLD
 'a': AEU
-'story,': STOER KW-BG
+'story,': STOER/KW-BG
 'but': PWUT
 'our': OUR
 'aunt': AUPBT
 'would': WO
 'not': TPHOT
 'believe': PWHREF
-'it.': T TP-PL
-'"The': KR-GS KPA/-T
-''Judgment': AE KPA/SKWRUPLT
+'it.': T/TP-PL
+'"The': KR-GS/KPA/-T
+''Judgment': AE/KPA/SKWRUPLT
 'of': -F
-'Solomon'': SOL/PHOPB AE
+'Solomon'': SOL/PHOPB/AE
 'was': WAS
-'over,"': OEFR KW-BG KR-GS
+'over,"': OEFR/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"and': KR-GS SKP
+'said,': SED/KW-BG
+'"and': KR-GS/SKP
 'all': AUL
 'the': -T
 'people': PAOEPL
 'had': H
 'gone': TKPWOPB
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'up': UP
 'stairs': STAEURS
 'and': SKP
 'down': TKOUPB
-'stairs;': STAEURS STPH*FPLT
+'stairs;': STAEURS/STPH*FPLT
 'but': PWUT
 'now': TPHOU
 'the': -T
 'real': RAEL
 'play': PHRAEU
-'began,': TKPWAPB KW-BG
+'began,': TKPWAPB/KW-BG
 'the': -T
-'after-piece,': AF H-PB PAOES KW-BG
+'after-piece,': AF/H-PB/PAOES/KW-BG
 'which': WEU
 'was': WAS
 'the': -T
 'best': PWEFT
 'of': -F
-'all,"': AUL KW-BG KR-GS
+'all,"': AUL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'agent.': AGT TP-PL
-'"Then': KR-GS KPA/THEPB
+'agent.': AGT/TP-PL
+'"Then': KR-GS/KPA/THEPB
 'life': HRAOEUF
 'came': KAEUPL
 'into': TPHAO
 'the': -T
-'affair.': A/TPAEUR TP-PL
+'affair.': A/TPAEUR/TP-PL
 'It': KPA/T
 'was': WAS
 'not': TPHOT
 'the': -T
-''Judgment': AE KPA/SKWRUPLT
+''Judgment': AE/KPA/SKWRUPLT
 'of': -F
-'Solomon'': SOL/PHOPB AE
+'Solomon'': SOL/PHOPB/AE
 'that': THA
 'was': WAS
-'performed;': PORPLD STPH*FPLT
+'performed;': PORPLD/STPH*FPLT
 'no,': TPHORBGS
 'a': AEU
 'real': RAEL
@@ -1255,7 +1255,7 @@ Our Aunt
 'held': HELD
 'upon': POPB
 'the': -T
-'stage."': STAEUPBLG TP-PL KR-GS
+'stage."': STAEUPBLG/TP-PL/KR-GS
 'And': AFPBD
 'Agent': KPA/AGT
 'Fabs': xxx Fabs
@@ -1270,7 +1270,7 @@ Our Aunt
 'aunt': AUPBT
 'believe': PWHREF
 'all': AUL
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'That': KPA/THA
 'was': WAS
 'the': -T
@@ -1285,19 +1285,19 @@ Our Aunt
 'place': PHRAEUS
 'in': TPH
 'the': -T
-'flies.': TPHRAOEUS TP-PL
+'flies.': TPHRAOEUS/TP-PL
 'What': KPA/WHA
 'did': TK
 'the': -T
 'agent': AGT
-'say?': SAEU H-F
-'Why,': KPA/KWR KW-BG
+'say?': SAEU/H-F
+'Why,': KPA/KWR/KW-BG
 'it': T
 'was': WAS
 'curious': KAOURS
 'enough': TPHUF
 'to': TO
-'hear,': HAER KW-BG
+'hear,': HAER/KW-BG
 'but': PWUT
 'there': THR
 'was': WAS
@@ -1305,35 +1305,35 @@ Our Aunt
 'and': SKP
 'satire': SA/TAOEUR
 'in': TPH
-'it.': T TP-PL
-'"It': KR-GS KPA/T
+'it.': T/TP-PL
+'"It': KR-GS/KPA/T
 'looked': HRAOBGD
 'dark': TKARBG
 'enough': TPHUF
 'up': UP
-'there,"': THR KW-BG KR-GS
+'there,"': THR/KW-BG/KR-GS
 'said': SED
 'the': -T
-'agent;': AGT STPH*FPLT
-'"but': KR-GS PWUT
+'agent;': AGT/STPH*FPLT
+'"but': KR-GS/PWUT
 'then': THEPB
 'the': -T
 'magic': PHAPBLG/EUBG
 'business': PWEUS
-'began—a': TKPWAPB EPL/TKA*RB AEU
+'began—a': TKPWAPB/EPL/TKA*RB/AEU
 'great': TKPWRAET
-'performance,': P-FRPBS KW-BG
-''The': AE KPA/-T
+'performance,': P-FRPBS/KW-BG
+''The': AE/KPA/-T
 'Judgment': KPA/SKWRUPLT
 'in': TPH
 'the': -T
-'Theatre.'': KPA/THAO*ERT TP-PL AE
+'Theatre.'': KPA/THAO*ERT/TP-PL/AE
 'The': KPA/-T
-'box-keepers': PWOBGS H-PB KAOERPS
+'box-keepers': PWOBGS/H-PB/KAOERPS
 'were': WR
 'at': AT
 'their': THAEUR
-'posts,': POEFTS KW-BG
+'posts,': POEFTS/KW-BG
 'and': SKP
 'every': EF
 'spectator': SPEBGT/AEURT
@@ -1342,7 +1342,7 @@ Our Aunt
 'show': SHOE
 'his': HEUS
 'ghostly': TKPWOEFT/HREU
-'pass-book,': PAS H-PB PWAOBG KW-BG
+'pass-book,': PAS/H-PB/PWAOBG/KW-BG
 'that': THA
 'it': T
 'might': PHAOEUT
@@ -1358,38 +1358,38 @@ Our Aunt
 'hands': HAPBDZ
 'loose': HRAOS
 'or': OR
-'bound,': PWOUPBD KW-BG
+'bound,': PWOUPBD/KW-BG
 'and': SKP
 'with': W
 'or': OR
 'without': WOUT
 'a': AEU
-'muzzle.': PHUZ/*L TP-PL
+'muzzle.': PHUZ/*L/TP-PL
 'Grand': KPA/TKPWRAPBD
 'people': PAOEPL
 'who': WHO
 'came': KAEUPL
 'too': TAO
-'late,': HRAEUT KW-BG
+'late,': HRAEUT/KW-BG
 'when': WHEPB
 'the': -T
 'performance': P-FRPBS
 'had': H
-'begun,': TKPWUPB KW-BG
+'begun,': TKPWUPB/KW-BG
 'and': SKP
 'young': KWRUPBG
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'who': WHO
 'could': KO
 'not': TPHOT
 'always': AULS
 'watch': WAFP
 'the': -T
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'were': WR
 'tied': TAO*EUD
 'up': UP
-'outside,': OUDZ KW-BG
+'outside,': OUDZ/KW-BG
 'and': SKP
 'had': H
 'list': HR*EUS
@@ -1397,7 +1397,7 @@ Our Aunt
 'put': PUT
 'on': OPB
 'their': THAEUR
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'with': W
 'which': WEU
 'they': THE
@@ -1412,22 +1412,22 @@ Our Aunt
 'of': -F
 'the': -T
 'next': TPHEGT
-'act,': ABGT KW-BG
+'act,': ABGT/KW-BG
 'and': SKP
 'they': THE
 'had': H
 'muzzles': PHUZ/-LS
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'And': AFPBD
 'then': THEPB
 'the': -T
-''Judgment': AE KPA/SKWRUPLT
+''Judgment': AE/KPA/SKWRUPLT
 'on': OPB
 'the': -T
-'Stage'': KPA/STAEUPBLG AE
-'began."': TKPWAPB TP-PL KR-GS
-'"All': KR-GS KPA/AUL
-'malice,': PHAL/EUS KW-BG
+'Stage'': KPA/STAEUPBLG/AE
+'began."': TKPWAPB/TP-PL/KR-GS
+'"All': KR-GS/KPA/AUL
+'malice,': PHAL/EUS/KW-BG
 'and': SKP
 'not': TPHOT
 'a': AEU
@@ -1435,18 +1435,18 @@ Our Aunt
 'of': -F
 'truth': TRAO*UT
 'in': TPH
-'it,"': T KW-BG KR-GS
+'it,"': T/KW-BG/KR-GS
 'said': SED
 'our': OUR
-'aunt.': AUPBT TP-PL
+'aunt.': AUPBT/TP-PL
 'The': KPA/-T
-'painter,': PA*EURPBT KW-BG
+'painter,': PA*EURPBT/KW-BG
 'who': WHO
 'wanted': WAPBTD
 'to': TO
 'get': TKPWET
 'to': TO
-'Paradise,': KPA/PAR/TKAOEUS KW-BG
+'Paradise,': KPA/PAR/TKAOEUS/KW-BG
 'had': H
 'to': TO
 'go': TKPW
@@ -1457,13 +1457,13 @@ Our Aunt
 'he': HE
 'had': H
 'himself': HEUPLS
-'painted,': PAEUPBTD KW-BG
+'painted,': PAEUPBTD/KW-BG
 'but': PWUT
 'which': WEU
 'no': TPHO
 'man': PHAPB
 'could': KO
-'mount.': PHOUPBT TP-PL
+'mount.': PHOUPBT/TP-PL
 'That': KPA/THA
 'was': WAS
 'to': TO
@@ -1471,20 +1471,20 @@ Our Aunt
 'his': HEUS
 'sins': SEUPBZ
 'against': TKPWEPBS
-'perspective.': PEF TP-PL
+'perspective.': PEF/TP-PL
 'All': KPA/AUL
 'the': -T
 'plants': PHRAPBTS
 'and': SKP
-'buildings,': PWHR-GS KW-BG
+'buildings,': PWHR-GS/KW-BG
 'which': WEU
 'the': -T
-'property-man': PROT H-PB PHAPB
+'property-man': PROT/H-PB/PHAPB
 'had': H
-'placed,': PHRAEUFD KW-BG
+'placed,': PHRAEUFD/KW-BG
 'with': W
 'infinite': TPH-FPBT
-'pains,': PAEUPBS KW-BG
+'pains,': PAEUPBS/KW-BG
 'in': TPH
 'countries': KUPBTS
 'to': TO
@@ -1492,7 +1492,7 @@ Our Aunt
 'they': THE
 'did': TK
 'not': TPHOT
-'belong,': PWHROPBG KW-BG
+'belong,': PWHROPBG/KW-BG
 'the': -T
 'poor': PAOR
 'fellow': TP*EL
@@ -1505,14 +1505,14 @@ Our Aunt
 'right': RAOEUT
 'places': PHRAEUFS
 'before': PW-FR
-'cockcrow,': xxx cockcrow KW-BG
+'cockcrow,': xxx cockcrow/KW-BG
 'if': TP
 'he': HE
 'wanted': WAPBTD
 'to': TO
 'get': TKPWET
 'into': TPHAO
-'Paradise.': KPA/PAR/TKAOEUS TP-PL
+'Paradise.': KPA/PAR/TKAOEUS/TP-PL
 'Let': KPA/HRET
 'Herr': xxx Herr
 'Fabs': xxx Fabs
@@ -1522,30 +1522,30 @@ Our Aunt
 'would': WO
 'get': TKPWET
 'in': TPH
-'himself;': HEUPLS STPH*FPLT
+'himself;': HEUPLS/STPH*FPLT
 'but': PWUT
 'what': WHA
 'he': HE
 'said': SED
 'of': -F
 'the': -T
-'performers,': PORPL/*ER/-S KW-BG
+'performers,': PORPL/*ER/-S/KW-BG
 'tragedians': TRA/TKPWAOED/KWRAPB/-S
 'and': SKP
-'comedians,': KPHAOED/KWRAPB/-S KW-BG
+'comedians,': KPHAOED/KWRAPB/-S/KW-BG
 'singers': SEURPBGS
 'and': SKP
-'dancers,': TKAPBS/ERS KW-BG
+'dancers,': TKAPBS/ERS/KW-BG
 'that': THA
 'was': WAS
 'the': -T
 'most': PHOFT
 'rascally': RAS/K-L/HREU
 'of': -F
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'Mr.': PHR-FPLT
-'Fabs,': xxx Fabs KW-BG
-'indeed!—Flabs!': TPHAOEPBD SKHRAPL EPL/TKA*RB xxx Flabs SKHRAPL
+'Fabs,': xxx Fabs/KW-BG
+'indeed!—Flabs!': TPHAOEPBD/SKHRAPL/EPL/TKA*RB/xxx Flabs/SKHRAPL
 'He': KPA/HE
 'did': TK
 'not': TPHOT
@@ -1554,7 +1554,7 @@ Our Aunt
 'be': -B
 'admitted': AD/PHEUTD
 'at': AT
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'our': OUR
 'aunt': AUPBT
@@ -1566,18 +1566,18 @@ Our Aunt
 'with': W
 'what': WHA
 'he': HE
-'said.': SED TP-PL
+'said.': SED/TP-PL
 'And': AFPBD
 'he': HE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'did': TK
-'Flabs,': xxx Flabs KW-BG
+'Flabs,': xxx Flabs/KW-BG
 'that': THA
 'the': -T
 'whole': WHOEL
 'was': WAS
 'written': WREUPB
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'it': T
 'should': SHO
@@ -1588,10 +1588,10 @@ Our Aunt
 'was': WAS
 'dead': TKED
 'and': SKP
-'buried,': PWUR/EUD KW-BG
+'buried,': PWUR/EUD/KW-BG
 'but': PWUT
 'not': TPHOT
-'before,': PW-FR KW-BG
+'before,': PW-FR/KW-BG
 'for': TPOR
 'he': HE
 'would': WO
@@ -1602,7 +1602,7 @@ Our Aunt
 'arms': ARPLS
 'and': SKP
 'legs': HREGS
-'broken.': PWROEPB TP-PL
+'broken.': PWROEPB/TP-PL
 'Once': KPA/WUPBS
 'our': OUR
 'aunt': AUPBT
@@ -1616,15 +1616,15 @@ Our Aunt
 'her': HER
 'temple': TEFRPL
 'of': -F
-'happiness,': HAEP/-PBS KW-BG
+'happiness,': HAEP/-PBS/KW-BG
 'the': -T
-'theatre.': THAO*ERT TP-PL
+'theatre.': THAO*ERT/TP-PL
 'It': KPA/T
 'was': WAS
 'on': OPB
 'a': AEU
 'winter': WEURPBT
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'one': WUPB
 'of': -F
 'those': THOZ
@@ -1638,24 +1638,24 @@ Our Aunt
 'of': -F
 'hours': HOURS
 'of': -F
-'daylight,': TKAEULT KW-BG
+'daylight,': TKAEULT/KW-BG
 'with': W
 'a': AEU
 'gray': TKPWRAEU
-'sky.': SKAOEU TP-PL
+'sky.': SKAOEU/TP-PL
 'It': KPA/T
 'was': WAS
 'terribly': TERBL/HREU
 'cold': KOELD
 'and': SKP
-'snowy,': STPHOE/WEU KW-BG
+'snowy,': STPHOE/WEU/KW-BG
 'but': PWUT
 'aunt': AUPBT
 'must': PHUFT
 'go': TKPW
 'to': TO
 'the': -T
-'theatre.': THAO*ERT TP-PL
+'theatre.': THAO*ERT/TP-PL
 'A': KPA/AEU
 'little': HREUL
 'opera': OP/RA
@@ -1664,7 +1664,7 @@ Our Aunt
 'great': TKPWRAET
 'ballet': PWA/HRAEU
 'were': WR
-'performed,': PORPLD KW-BG
+'performed,': PORPLD/KW-BG
 'and': SKP
 'a': AEU
 'prologue': PRO/HROG
@@ -1673,7 +1673,7 @@ Our Aunt
 'epilogue': EP/HROG
 'into': TPHAO
 'the': -T
-'bargain;': PWAR/TKPWAEUPB STPH*FPLT
+'bargain;': PWAR/TKPWAEUPB/STPH*FPLT
 'and': SKP
 'that': THA
 'would': WO
@@ -1681,12 +1681,12 @@ Our Aunt
 'till': TEUL
 'late': HRAEUT
 'at': AT
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'Our': KPA/OUR
 'aunt': AUPBT
 'must': PHUFT
 'needs': TPHAOEDZ
-'go;': TKPW STPH*FPLT
+'go;': TKPW/STPH*FPLT
 'so': SO
 'she': SHE
 'borrowed': PWO*ERD
@@ -1697,44 +1697,44 @@ Our Aunt
 'boots': PWAOTS
 'of': -F
 'her': HER
-'lodger—boots': HROPBLG/*ER EPL/TKA*RB PWAOTS
+'lodger—boots': HROPBLG/*ER/EPL/TKA*RB/PWAOTS
 'with': W
 'fur': TPUR
 'inside': TPH-DZ
 'and': SKP
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'which': WEU
 'reached': RAOEFPD
 'far': TPAR
 'up': UP
 'her': HER
-'legs.': HREGS TP-PL
+'legs.': HREGS/TP-PL
 'She': KPA/SHE
 'got': TKPWOT
 'to': TO
 'the': -T
-'theatre,': THAO*ERT KW-BG
+'theatre,': THAO*ERT/KW-BG
 'and': SKP
 'to': TO
 'her': HER
-'box;': PWOBGS STPH*FPLT
+'box;': PWOBGS/STPH*FPLT
 'the': -T
 'boots': PWAOTS
 'were': WR
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'and': SKP
 'she': SHE
 'kept': KEPT
 'them': THEPL
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'Suddenly': KPA/SULD
 'there': THR
 'was': WAS
 'a': AEU
 'cry': KRAOEU
 'of': -F
-'"Fire!"': KR-GS KPA/TPAOEUR SKHRAPL KR-GS
+'"Fire!"': KR-GS/KPA/TPAOEUR/SKHRAPL/KR-GS
 'Smoke': KPA/SPHOEBG
 'was': WAS
 'coming': KO*G
@@ -1743,24 +1743,24 @@ Our Aunt
 'of': -F
 'the': -T
 'side': SAOEUD
-'scenes,': SAOEPBS KW-BG
+'scenes,': SAOEPBS/KW-BG
 'and': SKP
 'streamed': STRAOEPL/-D
 'down': TKOUPB
 'from': TPR
 'the': -T
-'flies,': TPHRAOEUS KW-BG
+'flies,': TPHRAOEUS/KW-BG
 'and': SKP
 'there': THR
 'was': WAS
 'a': AEU
 'terrible': TERBL
-'panic.': PA*PBG TP-PL
+'panic.': PA*PBG/TP-PL
 'The': KPA/-T
 'people': PAOEPL
 'came': KAEUPL
 'rushing': RURBG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'our': OUR
 'aunt': AUPBT
@@ -1769,25 +1769,25 @@ Our Aunt
 'last': HRAFT
 'in': TPH
 'the': -T
-'box,': PWOBGS KW-BG
-'"on': KR-GS OPB
+'box,': PWOBGS/KW-BG
+'"on': KR-GS/OPB
 'the': -T
 'second': SEBGD
-'tier,': TAOER KW-BG
+'tier,': TAOER/KW-BG
 'left-hand': HR*PBD
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'for': TPOR
 'from': TPR
 'there': THR
 'the': -T
 'scenery': SAEPB/REU
 'looks': HRAOBGS
-'best,"': PWEFT KW-BG KR-GS
+'best,"': PWEFT/KW-BG/KR-GS
 'she': SHE
 'used': AOUFD
 'to': TO
-'say.': SAEU TP-PL
-'"The': KR-GS KPA/-T
+'say.': SAEU/TP-PL
+'"The': KR-GS/KPA/-T
 'scenes': SAOEPBS
 'are': R
 'always': AULS
@@ -1798,53 +1798,53 @@ Our Aunt
 'best': PWEFT
 'from': TPR
 'the': -T
-'King's': KO*EUPBG AES
-'side."': SAOEUD TP-PL KR-GS
+'King's': KO*EUPBG/AES
+'side."': SAOEUD/TP-PL/KR-GS
 'Aunt': A*UPBT
 'wanted': WAPBTD
 'to': TO
 'come': KOPL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'but': PWUT
 'the': -T
 'people': PAOEPL
 'before': PW-FR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'in': TPH
 'their': THAEUR
 'fright': TPRAOEUT
 'and': SKP
-'heedlessness,': HAOED/-LS/-PBS KW-BG
+'heedlessness,': HAOED/-LS/-PBS/KW-BG
 'slammed': SHRAPLD
 'the': -T
 'door': TKAOR
 'of': -F
 'the': -T
-'box;': PWOBGS STPH*FPLT
+'box;': PWOBGS/STPH*FPLT
 'and': SKP
 'there': THR
 'sat': SAT
 'our': OUR
-'aunt,': AUPBT KW-BG
+'aunt,': AUPBT/KW-BG
 'and': SKP
 'couldn't': KOPBT
 'get': TKPWET
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'couldn't': KOPBT
 'get': TKPWET
-'in;': TPH STPH*FPLT
+'in;': TPH/STPH*FPLT
 'that': THA
 'is': S
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'she': SHE
 'couldn't': KOPBT
 'get': TKPWET
 'into': TPHAO
 'the': -T
 'next': TPHEGT
-'box,': PWOBGS KW-BG
+'box,': PWOBGS/KW-BG
 'for': TPOR
 'the': -T
 'partition': PAR/TEUGS
@@ -1852,15 +1852,15 @@ Our Aunt
 'too': TAO
 'high': HAOEU
 'for': TPOR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'She': KPA/SHE
 'called': KAULD
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
 'heard': HAERD
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'she': SHE
 'looked': HRAOBGD
 'down': TKOUPB
@@ -1870,17 +1870,17 @@ Our Aunt
 'of': -F
 'boxes': PWOBGSZ
 'below': PWHRO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'it': T
 'was': WAS
-'empty,': EPLT KW-BG
+'empty,': EPLT/KW-BG
 'and': SKP
-'low,': HROE KW-BG
+'low,': HROE/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'quite': KWAOEUT
-'near,': TPHAOER KW-BG
+'near,': TPHAOER/KW-BG
 'and': SKP
 'aunt': AUPBT
 'in': TPH
@@ -1890,12 +1890,12 @@ Our Aunt
 'quite': KWAOEUT
 'young': KWRUPBG
 'and': SKP
-'light.': HRAOEUT TP-PL
+'light.': HRAOEUT/TP-PL
 'She': KPA/SHE
 'thought': THAUT
 'of': -F
 'jumping': SKWRUFRPG
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'had': H
 'got': TKPWOT
@@ -1903,21 +1903,21 @@ Our Aunt
 'leg': HREG
 'over': OEFR
 'the': -T
-'partition,': PAR/TEUGS KW-BG
+'partition,': PAR/TEUGS/KW-BG
 'the': -T
 'other': OER
 'resting': REFT/-G
 'on': OPB
 'the': -T
-'bench.': PWEFRPB TP-PL
+'bench.': PWEFRPB/TP-PL
 'There': KPA/THR
 'she': SHE
 'sat': SAT
-'astride,': AS/TRAOEUD KW-BG
+'astride,': AS/TRAOEUD/KW-BG
 'as': AS
 'if': TP
 'on': OPB
-'horseback,': HORS/PWA*BG KW-BG
+'horseback,': HORS/PWA*BG/KW-BG
 'well': WEL
 'wrapped': WRAPD
 'up': UP
@@ -1929,41 +1929,41 @@ Our Aunt
 'one': WUPB
 'leg': HREG
 'hanging': HAPBG/-G
-'out—a': OUT EPL/TKA*RB AEU
+'out—a': OUT/EPL/TKA*RB/AEU
 'leg': HREG
 'in': TPH
 'a': AEU
 'tremendous': TREPLD
 'fur': TPUR
-'boot.': PWAOT TP-PL
+'boot.': PWAOT/TP-PL
 'That': KPA/THA
 'was': WAS
 'a': AEU
 'sight': SAOEUT
 'to': TO
-'behold;': PWE/HOLD STPH*FPLT
+'behold;': PWE/HOLD/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'it': T
 'was': WAS
-'beheld,': PWE/HELD KW-BG
+'beheld,': PWE/HELD/KW-BG
 'our': OUR
 'aunt': AUPBT
 'was': WAS
 'heard': HAERD
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'and': SKP
 'was': WAS
 'saved': SAFD
 'from': TPR
-'burning,': PWURPBG KW-BG
+'burning,': PWURPBG/KW-BG
 'for': TPOR
 'the': -T
 'theatre': THAO*ERT
 'was': WAS
 'not': TPHOT
 'burned': PWURPBD
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'That': KPA/THA
 'was': WAS
 'the': -T
@@ -1972,7 +1972,7 @@ Our Aunt
 'evening': AOEPBG
 'of': -F
 'her': HER
-'life,': HRAOEUF KW-BG
+'life,': HRAOEUF/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -1982,26 +1982,26 @@ Our Aunt
 'could': KO
 'not': TPHOT
 'see': SAOE
-'herself,': H*ERS KW-BG
+'herself,': H*ERS/KW-BG
 'for': TPOR
 'she': SHE
 'would': WO
 'have': SR
 'died': TKAOEUD
 'with': W
-'confusion.': KAUFGS TP-PL
+'confusion.': KAUFGS/TP-PL
 'Her': KPA/HER
 'benefactor': PWEPB/TPABG/TOR
 'in': TPH
 'the': -T
 'machinery': PH-PB/REU
-'department,': TK-PT KW-BG
+'department,': TK-PT/KW-BG
 'Herr': xxx Herr
-'Sivertsen,': xxx Sivertsen KW-BG
+'Sivertsen,': xxx Sivertsen/KW-BG
 'visited': SREUFTD
 'her': HER
 'every': EF
-'Sunday,': SUPBD KW-BG
+'Sunday,': SUPBD/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
@@ -2011,12 +2011,12 @@ Our Aunt
 'from': TPR
 'Sunday': SUPBD
 'to': TO
-'Sunday.': SUPBD TP-PL
+'Sunday.': SUPBD/TP-PL
 'In': KPA/TPH
 'the': -T
 'latter': HRART
-'time,': TAOEUPL KW-BG
-'therefore,': TH-FR KW-BG
+'time,': TAOEUPL/KW-BG
+'therefore,': TH-FR/KW-BG
 'she': SHE
 'used': AOUFD
 'to': TO
@@ -2025,13 +2025,13 @@ Our Aunt
 'a': AEU
 'little': HREUL
 'child': KHAOEULD
-'"for': KR-GS TPOR
+'"for': KR-GS/TPOR
 'the': -T
-'scraps;"': SKRAPS STPH*FPLT KR-GS
+'scraps;"': SKRAPS/STPH*FPLT/KR-GS
 'that': THA
 'is': S
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'to': TO
 'eat': AOET
 'up': UP
@@ -2039,7 +2039,7 @@ Our Aunt
 'remains': RE/PHAEUPBS
 'of': -F
 'the': -T
-'dinner.': TKEURPB TP-PL
+'dinner.': TKEURPB/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
@@ -2047,26 +2047,26 @@ Our Aunt
 'employed': PHOEUD
 'in': TPH
 'the': -T
-'ballet,': PWA/HRAEU KW-BG
+'ballet,': PWA/HRAEU/KW-BG
 'one': WUPB
 'that': THA
 'certainly': SERPBL
 'wanted': WAPBTD
-'feeding.': TPAOEGD TP-PL
+'feeding.': TPAOEGD/TP-PL
 'The': KPA/-T
 'little': HREUL
 'one': WUPB
 'used': AOUFD
 'to': TO
-'appear,': A/PAOER KW-BG
+'appear,': A/PAOER/KW-BG
 'sometimes': STAOEUPLS
 'as': AS
 'an': APB
-'elf,': *EFL KW-BG
+'elf,': *EFL/KW-BG
 'sometimes': STAOEUPLS
 'as': AS
 'a': AEU
-'page;': PAEUPBLG STPH*FPLT
+'page;': PAEUPBLG/STPH*FPLT
 'the': -T
 'most': PHOFT
 'difficult': TKEUFL
@@ -2077,13 +2077,13 @@ Our Aunt
 'play': PHRAEU
 'was': WAS
 'the': -T
-'lion's': HRO*EUPB AES
+'lion's': HRO*EUPB/AES
 'hind': HAOEUPBD
 'leg': HREG
 'in': TPH
 'the': -T
-'"Magic': KR-GS KPA/PHAPBLG/EUBG
-'Flute;"': KPA/TPHRAOUT STPH*FPLT KR-GS
+'"Magic': KR-GS/KPA/PHAPBLG/EUBG
+'Flute;"': KPA/TPHRAOUT/STPH*FPLT/KR-GS
 'but': PWUT
 'as': AS
 'she': SHE
@@ -2093,10 +2093,10 @@ Our Aunt
 'could': KO
 'represent': REPT
 'the': -T
-'fore-feet': TPO*ER H-PB TPAOET
+'fore-feet': TPO*ER/H-PB/TPAOET
 'of': -F
 'the': -T
-'lion.': HRO*EUPB TP-PL
+'lion.': HRO*EUPB/TP-PL
 'She': KPA/SHE
 'certainly': SERPBL
 'only': OEPBL
@@ -2105,7 +2105,7 @@ Our Aunt
 'a': AEU
 'guilder': TKPWEULD/*ER
 'for': TPOR
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'whereas': WRAS
 'the': -T
 'hind': HAOEUPBD
@@ -2116,30 +2116,30 @@ Our Aunt
 'with': W
 'a': AEU
 'whole': WHOEL
-'guilder;': TKPWEULD/*ER STPH*FPLT
+'guilder;': TKPWEULD/*ER/STPH*FPLT
 'but': PWUT
 'then': THEPB
 'she': SHE
 'had': H
 'to': TO
 'walk': WAUBG
-'bent,': PWEPBT KW-BG
+'bent,': PWEPBT/KW-BG
 'and': SKP
 'to': TO
 'do': TKO
 'without': WOUT
 'fresh': TPRERB
-'air.': AEUR TP-PL
-'"That': KR-GS KPA/THA
+'air.': AEUR/TP-PL
+'"That': KR-GS/KPA/THA
 'was': WAS
 'all': AUL
 'very': SRE
 'interesting': TR-G
 'to': TO
-'hear,"': HAER KW-BG KR-GS
+'hear,"': HAER/KW-BG/KR-GS
 'said': SED
 'our': OUR
-'aunt.': AUPBT TP-PL
+'aunt.': AUPBT/TP-PL
 'She': KPA/SHE
 'deserved': TKAOE/SER/-FD
 'to': TO
@@ -2149,14 +2149,14 @@ Our Aunt
 'as': AS
 'the': -T
 'theatre': THAO*ERT
-'stood,': STAOD KW-BG
+'stood,': STAOD/KW-BG
 'but': PWUT
 'she': SHE
 'could': KO
 'not': TPHOT
 'last': HRAFT
 'so': SO
-'long;': HROPBG STPH*FPLT
+'long;': HROPBG/STPH*FPLT
 'and': SKP
 'she': SHE
 'did': TK
@@ -2164,28 +2164,28 @@ Our Aunt
 'die': TKAOEU
 'in': TPH
 'the': -T
-'theatre,': THAO*ERT KW-BG
+'theatre,': THAO*ERT/KW-BG
 'but': PWUT
 'respectably': R-PT/PWHREU
 'in': TPH
 'her': HER
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'Her': KPA/HER
 'last': HRAFT
 'words': WORDZ
-'were,': WR KW-BG
-'moreover,': PHROEFR KW-BG
+'were,': WR/KW-BG
+'moreover,': PHROEFR/KW-BG
 'not': TPHOT
 'without': WOUT
-'meaning.': PHAOEPBG TP-PL
+'meaning.': PHAOEPBG/TP-PL
 'She': KPA/SHE
-'asked,': SK-D KW-BG
-'"What': KR-GS KPA/WHA
+'asked,': SK-D/KW-BG
+'"What': KR-GS/KPA/WHA
 'will': HR
 'the': -T
 'play': PHRAEU
 'be': -B
-'to-morrow?"': TO H-PB HRO*ER/PHOR/ROE H-F KR-GS
+'to-morrow?"': TO/H-PB/HRO*ER/PHOR/ROE/H-F/KR-GS
 'At': KPA/AT
 'her': HER
 'death': TK*T
@@ -2194,18 +2194,18 @@ Our Aunt
 'about': PW
 'five': TPAOEUF
 'hundred': HUPBD
-'dollars.': TKHRARS TP-PL
+'dollars.': TKHRARS/TP-PL
 'We': KPA/WE
 'presume': PRAOUPL
 'this': TH
 'from': TPR
 'the': -T
-'interest,': TR KW-BG
+'interest,': TR/KW-BG
 'which': WEU
 'came': KAEUPL
 'to': TO
 'twenty': TWEPBT
-'dollars.': TKHRARS TP-PL
+'dollars.': TKHRARS/TP-PL
 'This': KPA/TH
 'our': OUR
 'aunt': AUPBT
@@ -2222,7 +2222,7 @@ Our Aunt
 'who': WHO
 'had': H
 'no': TPHO
-'friends;': TPREPBDZ STPH*FPLT
+'friends;': TPREPBDZ/STPH*FPLT
 'it': T
 'was': WAS
 'to': TO
@@ -2238,16 +2238,16 @@ Our Aunt
 'in': TPH
 'the': -T
 'second': SEBGD
-'tier,': TAOER KW-BG
+'tier,': TAOER/KW-BG
 'on': OPB
 'the': -T
 'left': HREFT
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'for': TPOR
 'the': -T
 'Saturday': SATD
-'evening,': AOEPBG KW-BG
-'"for': KR-GS TPOR
+'evening,': AOEPBG/KW-BG
+'"for': KR-GS/TPOR
 'on': OPB
 'that': THA
 'evening': AOEPBG
@@ -2255,12 +2255,12 @@ Our Aunt
 'pieces': PAOEFS
 'were': WR
 'always': AULS
-'given,"': TKPWEUFPB KW-BG KR-GS
+'given,"': TKPWEUFPB/KW-BG/KR-GS
 'it': T
 'said': SED
 'in': TPH
 'the': -T
-'will;': HR STPH*FPLT
+'will;': HR/STPH*FPLT
 'and': SKP
 'the': -T
 'only': OEPBL
@@ -2273,25 +2273,25 @@ Our Aunt
 'enjoyed': EPB/SKWROEUD
 'the': -T
 'legacy': HREG/SEU
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'that': THA
 'she': SHE
 'should': SHO
-'think,': THEU KW-BG
+'think,': THEU/KW-BG
 'every': EF
 'Saturday': SATD
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'of': -F
 'our': OUR
-'aunt,': AUPBT KW-BG
+'aunt,': AUPBT/KW-BG
 'who': WHO
 'was': WAS
 'lying': HRAOEUG
 'in': TPH
 'her': HER
-'grave.': TKPWRAEUF TP-PL
+'grave.': TKPWRAEUF/TP-PL
 'This': KPA/TH
 'was': WAS
 'our': OUR
-'aunt's': AUPBT AES
-'religion.': RE/HR-GS TP-PL
+'aunt's': AUPBT/AES
+'religion.': RE/HR-GS/TP-PL

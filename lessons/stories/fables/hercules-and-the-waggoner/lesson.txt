@@ -12,7 +12,7 @@ Hercules and the Waggoner
 'a': AEU
 'very': SRE
 'muddy': PHUD/KWREU
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE
@@ -27,28 +27,28 @@ Hercules and the Waggoner
 'the': -T
 'wheels': WHAOELS
 'sank': SA*PBG
-'half-way': HAF H-PB WAEU
+'half-way': HAF/H-PB/WAEU
 'into': TPHAO
 'the': -T
-'mire,': PHAOEUR KW-BG
+'mire,': PHAOEUR/KW-BG
 'and': SKP
 'the': -T
 'more': PHOR
 'the': -T
 'horses': HORSZ
-'pulled,': PULD KW-BG
+'pulled,': PULD/KW-BG
 'the': -T
 'deeper': TKAOERP
 'sank': SA*PBG
 'the': -T
-'wheels.': WHAOELS TP-PL
+'wheels.': WHAOELS/TP-PL
 'So': KPA/SO
 'the': -T
 'Waggoner': KPA/WAG/OPB/*ER/A*U
 'threw': THRAOU
 'down': TKOUPB
 'his': HEUS
-'whip,': WHEUP KW-BG
+'whip,': WHEUP/KW-BG
 'and': SKP
 'knelt': TPHELT
 'down': TKOUPB
@@ -57,9 +57,9 @@ Hercules and the Waggoner
 'to': TO
 'Hercules': HERBG/HRES
 'the': -T
-'Strong.': KPA/STROPBG TP-PL
-'"O': KR-GS O*P
-'Hercules,': HERBG/HRES KW-BG
+'Strong.': KPA/STROPBG/TP-PL
+'"O': KR-GS/O*P
+'Hercules,': HERBG/HRES/KW-BG
 'help': HEP
 'me': PHE
 'in': TPH
@@ -67,21 +67,21 @@ Hercules and the Waggoner
 'my': PHEU
 'hour': HOUR
 'of': -F
-'distress,"': STKRES KW-BG KR-GS
+'distress,"': STKRES/KW-BG/KR-GS
 'quoth': KW*/*U/O*/T*/H*
-'he.': HE TP-PL
+'he.': HE/TP-PL
 'But': KPA/PWUT
 'Hercules': HERBG/HRES
 'appeared': A/PAOERD
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-'"Tut,': KR-GS TUT KW-BG
-'man,': PHAPB KW-BG
+'said:': SED/STPH-FPLT
+'"Tut,': KR-GS/TUT/KW-BG
+'man,': PHAPB/KW-BG
 'don't': TKOEPBT
 'sprawl': SPRAUL
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'Get': KPA/TKPWET
 'up': UP
 'and': SKP
@@ -90,11 +90,11 @@ Hercules and the Waggoner
 'shoulder': SHOURLD
 'to': TO
 'the': -T
-'wheel."': WHAOEL TP-PL KR-GS
+'wheel."': WHAOEL/TP-PL/KR-GS
 'The': KPA/-T
 'gods': TKPWODZ
 'help': HEP
 'them': THEPL
 'that': THA
 'help': HEP
-'themselves.': TH*EPLS TP-PL
+'themselves.': TH*EPLS/TP-PL

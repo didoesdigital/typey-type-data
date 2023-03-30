@@ -7,7 +7,7 @@ The Horse and the Ass
 'Ass': KPA/A*S
 'were': WR
 'travelling': TRAFL/HREUPBG
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'the': -T
 'Horse': KPA/HORS
 'prancing': PRAPBS/-G
@@ -15,7 +15,7 @@ The Horse and the Ass
 'in': TPH
 'its': EUTS
 'fine': TPAOEUPB
-'trappings,': TRAPG/-S KW-BG
+'trappings,': TRAPG/-S/KW-BG
 'the': -T
 'Ass': KPA/A*S
 'carrying': KAERG
@@ -26,36 +26,36 @@ The Horse and the Ass
 'weight': WAET
 'in': TPH
 'its': EUTS
-'panniers.': PAPB/TPH*P/KWRER/-S TP-PL
-'"I': KR-GS EU
+'panniers.': PAPB/TPH*P/KWRER/-S/TP-PL
+'"I': KR-GS/EU
 'wish': WEURB
 'I': EU
 'were': WR
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'sighed': SAOEU/-D
 'the': -T
-'Ass;': KPA/A*S STPH*FPLT
-'"nothing': KR-GS TPHOG
+'Ass;': KPA/A*S/STPH*FPLT
+'"nothing': KR-GS/TPHOG
 'to': TO
 'do': TKO
 'and': SKP
 'well': WEL
-'fed,': TPED KW-BG
+'fed,': TPED/KW-BG
 'and': SKP
 'all': AUL
 'that': THA
 'fine': TPAOEUPB
 'harness': HARPBS
 'upon': POPB
-'you."': U TP-PL KR-GS
+'you."': U/TP-PL/KR-GS
 'Next': KPA/TPHEGT
-'day,': TKAEU KW-BG
-'however,': HOUF KW-BG
+'day,': TKAEU/KW-BG
+'however,': HOUF/KW-BG
 'there': THR
 'was': WAS
 'a': AEU
 'great': TKPWRAET
-'battle,': PWA*LT KW-BG
+'battle,': PWA*LT/KW-BG
 'and': SKP
 'the': -T
 'Horse': KPA/HORS
@@ -69,11 +69,11 @@ The Horse and the Ass
 'charge': KHARPBLG
 'of': -F
 'the': -T
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'His': KPA/HEUS
-'friend,': TPREPBD KW-BG
+'friend,': TPREPBD/KW-BG
 'the': -T
-'Ass,': KPA/A*S KW-BG
+'Ass,': KPA/A*S/KW-BG
 'happened': HAPD
 'to': TO
 'pass': PAS
@@ -87,16 +87,16 @@ The Horse and the Ass
 'the': -T
 'point': POEUPBT
 'of': -F
-'death.': TK*T TP-PL
-'"I': KR-GS EU
+'death.': TK*T/TP-PL
+'"I': KR-GS/EU
 'was': WAS
-'wrong,"': WROPBG KW-BG KR-GS
+'wrong,"': WROPBG/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Ass:': KPA/A*S STPH-FPLT
-'"Better': KR-GS KPA/PWOERT
+'Ass:': KPA/A*S/STPH-FPLT
+'"Better': KR-GS/KPA/PWOERT
 'humble': HUPL/-BL
 'security': SKURT
 'than': THAPB
 'gilded': TKPWEULD/-D
-'danger."': TKAEUPBLG TP-PL KR-GS
+'danger."': TKAEUPBLG/TP-PL/KR-GS

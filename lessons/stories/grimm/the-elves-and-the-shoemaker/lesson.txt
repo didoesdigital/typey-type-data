@@ -4,7 +4,7 @@ The Elves and the Shoemaker
 'was': WAS
 'once': WUPBS
 'a': AEU
-'shoemaker,': SHAOU/PHA*EURBG KW-BG
+'shoemaker,': SHAOU/PHA*EURBG/KW-BG
 'who': WHO
 'worked': WORBGD
 'very': SRE
@@ -12,7 +12,7 @@ The Elves and the Shoemaker
 'and': SKP
 'was': WAS
 'very': SRE
-'honest:': HOPBS STPH-FPLT
+'honest:': HOPBS/STPH-FPLT
 'but': PWUT
 'still': STEUL
 'he': HE
@@ -22,7 +22,7 @@ The Elves and the Shoemaker
 'enough': TPHUF
 'to': TO
 'live': HREUF
-'upon;': POPB STPH*FPLT
+'upon;': POPB/STPH*FPLT
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -33,7 +33,7 @@ The Elves and the Shoemaker
 'the': -T
 'world': WORLD
 'was': WAS
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'save': SAF
 'just': SKWRUFT
 'leather': HRE/THER
@@ -43,13 +43,13 @@ The Elves and the Shoemaker
 'one': WUPB
 'pair': PAEUR
 'of': -F
-'shoes.': SHAOUS TP-PL
+'shoes.': SHAOUS/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'cut': KUT
 'his': HEUS
 'leather': HRE/THER
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'all': AUL
 'ready': R-D
 'to': TO
@@ -57,7 +57,7 @@ The Elves and the Shoemaker
 'up': UP
 'the': -T
 'next': TPHEGT
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'meaning': PHAOEPBG
 'to': TO
 'rise': RAOEUZ
@@ -67,7 +67,7 @@ The Elves and the Shoemaker
 'morning': PHORPBG
 'to': TO
 'his': HEUS
-'work.': WORBG TP-PL
+'work.': WORBG/TP-PL
 'His': KPA/HEUS
 'conscience': KAUPBGS
 'was': WAS
@@ -79,23 +79,23 @@ The Elves and the Shoemaker
 'amidst': A/PH*EUFD
 'all': AUL
 'his': HEUS
-'troubles;': TRUBLS STPH*FPLT
+'troubles;': TRUBLS/STPH*FPLT
 'so': SO
 'he': HE
 'went': WEPBT
 'peaceably': PAES/PWHREU
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'left': HREFT
 'all': AUL
 'his': HEUS
 'cares': KAEURS
 'to': TO
-'Heaven,': KPA/HEFPB KW-BG
+'Heaven,': KPA/HEFPB/KW-BG
 'and': SKP
 'soon': SAOPB
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
@@ -104,29 +104,29 @@ The Elves and the Shoemaker
 'had': H
 'said': SED
 'his': HEUS
-'prayers,': PRAEURS KW-BG
+'prayers,': PRAEURS/KW-BG
 'he': HE
 'sat': SAT
 'himself': HEUPLS
 'down': TKOUPB
 'to': TO
 'his': HEUS
-'work;': WORBG STPH*FPLT
-'when,': WHEPB KW-BG
+'work;': WORBG/STPH*FPLT
+'when,': WHEPB/KW-BG
 'to': TO
 'his': HEUS
 'great': TKPWRAET
-'wonder,': WOPBD KW-BG
+'wonder,': WOPBD/KW-BG
 'there': THR
 'stood': STAOD
 'the': -T
 'shoes': SHAOUS
 'all': AUL
 'ready': R-D
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'upon': POPB
 'the': -T
-'table.': TAEUBL TP-PL
+'table.': TAEUBL/TP-PL
 'The': KPA/-T
 'good': TKPWAOD
 'man': PHAPB
@@ -142,12 +142,12 @@ The Elves and the Shoemaker
 'an': APB
 'odd': OD
 'thing': THEUPBG
-'happening.': HAPG TP-PL
+'happening.': HAPG/TP-PL
 'He': KPA/HE
 'looked': HRAOBGD
 'at': AT
 'the': -T
-'workmanship;': WORBG/PHAPB/SH-P STPH*FPLT
+'workmanship;': WORBG/PHAPB/SH-P/STPH*FPLT
 'there': THR
 'was': WAS
 'not': TPHOT
@@ -157,26 +157,26 @@ The Elves and the Shoemaker
 'in': TPH
 'the': -T
 'whole': WHOEL
-'job;': SKWROB STPH*FPLT
+'job;': SKWROB/STPH*FPLT
 'all': AUL
 'was': WAS
 'so': SO
 'neat': TPHAOET
 'and': SKP
-'true,': TRAOU KW-BG
+'true,': TRAOU/KW-BG
 'that': THA
 'it': T
 'was': WAS
 'quite': KWAOEUT
 'a': AEU
-'masterpiece.': PHAFRT/PAOES TP-PL
+'masterpiece.': PHAFRT/PAOES/TP-PL
 'The': KPA/-T
 'same': SAEUPL
 'day': TKAEU
 'a': AEU
 'customer': KUFRT
 'came': KAEUPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'the': -T
 'shoes': SHAOUS
@@ -194,14 +194,14 @@ The Elves and the Shoemaker
 'than': THAPB
 'usual': AOURB
 'for': TPOR
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'and': SKP
 'the': -T
 'poor': PAOR
-'shoemaker,': SHAOU/PHA*EURBG KW-BG
+'shoemaker,': SHAOU/PHA*EURBG/KW-BG
 'with': W
 'the': -T
-'money,': PHUPB KW-BG
+'money,': PHUPB/KW-BG
 'bought': PWAUT
 'leather': HRE/THER
 'enough': TPHUF
@@ -209,7 +209,7 @@ The Elves and the Shoemaker
 'make': PHAEUBG
 'two': TWO
 'pairs': PAEURS
-'more.': PHOR TP-PL
+'more.': PHOR/TP-PL
 'In': KPA/TPH
 'the': -T
 'evening': AOEPBG
@@ -217,12 +217,12 @@ The Elves and the Shoemaker
 'cut': KUT
 'out': OUT
 'the': -T
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
 'bed': PWED
-'early,': ERL KW-BG
+'early,': ERL/KW-BG
 'that': THA
 'he': HE
 'might': PHAOEUT
@@ -232,14 +232,14 @@ The Elves and the Shoemaker
 'begin': TKPWEUPB
 'betimes': PWE/TAOEUPLS
 'next': TPHEGT
-'day;': TKAEU STPH*FPLT
+'day;': TKAEU/STPH*FPLT
 'but': PWUT
 'he': HE
 'was': WAS
 'saved': SAFD
 'all': AUL
 'the': -T
-'trouble,': TRUBL KW-BG
+'trouble,': TRUBL/KW-BG
 'for': TPOR
 'when': WHEPB
 'he': HE
@@ -255,18 +255,18 @@ The Elves and the Shoemaker
 'ready': R-D
 'to': TO
 'his': HEUS
-'hand.': HAPBD TP-PL
+'hand.': HAPBD/TP-PL
 'Soon': KPA/SAOPB
 'in': TPH
 'came': KAEUPL
-'buyers,': PWAOEURS KW-BG
+'buyers,': PWAOEURS/KW-BG
 'who': WHO
 'paid': PAEUD
 'him': HEUPL
 'handsomely': HAPBD/SOPL/HREU
 'for': TPOR
 'his': HEUS
-'goods,': TKPWAODZ KW-BG
+'goods,': TKPWAODZ/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -276,7 +276,7 @@ The Elves and the Shoemaker
 'for': TPOR
 'four': TPOUR
 'pair': PAEUR
-'more.': PHOR TP-PL
+'more.': PHOR/TP-PL
 'He': KPA/HE
 'cut': KUT
 'out': OUT
@@ -290,9 +290,9 @@ The Elves and the Shoemaker
 'done': TKOPB
 'in': TPH
 'the': -T
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'as': AS
-'before;': PW-FR STPH*FPLT
+'before;': PW-FR/STPH*FPLT
 'and': SKP
 'so': SO
 'it': T
@@ -300,7 +300,7 @@ The Elves and the Shoemaker
 'on': OPB
 'for': TPOR
 'some': SOPL
-'time:': TAOEUPL STPH-FPLT
+'time:': TAOEUPL/STPH-FPLT
 'what': WHA
 'was': WAS
 'got': TKPWOT
@@ -312,7 +312,7 @@ The Elves and the Shoemaker
 'always': AULS
 'done': TKOPB
 'by': PWEU
-'daybreak,': TKAEU/PWRAEBG KW-BG
+'daybreak,': TKAEU/PWRAEBG/KW-BG
 'and': SKP
 'the': -T
 'good': TKPWAOD
@@ -323,11 +323,11 @@ The Elves and the Shoemaker
 'and': SKP
 'well': WEL
 'off': OF
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'One': KPA/WUPB
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'about': PW
-'Christmas-time,': KREUS/PHAS H-PB TAOEUPL KW-BG
+'Christmas-time,': KREUS/PHAS/H-PB/TAOEUPL/KW-BG
 'as': AS
 'he': HE
 'and': SKP
@@ -339,12 +339,12 @@ The Elves and the Shoemaker
 'the': -T
 'fire': TPAOEUR
 'chatting': KHAGT
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'he': HE
 'said': SED
 'to': TO
-'her,': HER KW-BG
-''I': AE EU
+'her,': HER/KW-BG
+''I': AE/EU
 'should': SHO
 'like': HRAOEUBG
 'to': TO
@@ -352,7 +352,7 @@ The Elves and the Shoemaker
 'up': UP
 'and': SKP
 'watch': WAFP
-'tonight,': TOPBT KW-BG
+'tonight,': TOPBT/KW-BG
 'that': THA
 'we': WE
 'may': PHAE
@@ -367,18 +367,18 @@ The Elves and the Shoemaker
 'my': PHEU
 'work': WORBG
 'for': TPOR
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'The': KPA/-T
 'wife': WAOEUF
 'liked': HRAOEUBGD
 'the': -T
-'thought;': THAUT STPH*FPLT
+'thought;': THAUT/STPH*FPLT
 'so': SO
 'they': THE
 'left': HREFT
 'a': AEU
 'light': HRAOEUT
-'burning,': PWURPBG KW-BG
+'burning,': PWURPBG/KW-BG
 'and': SKP
 'hid': HEUD
 'themselves': TH*EPLS
@@ -387,7 +387,7 @@ The Elves and the Shoemaker
 'corner': KRORPB
 'of': -F
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'behind': HEUPBD
 'a': AEU
 'curtain': KUR/TAPB
@@ -395,33 +395,33 @@ The Elves and the Shoemaker
 'was': WAS
 'hung': HUPBG
 'up': UP
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'and': SKP
 'watched': WAFPD
 'what': WHA
 'would': WO
-'happen.': HAP TP-PL
+'happen.': HAP/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
 'it': T
 'was': WAS
-'midnight,': PHAOEUPBT KW-BG
+'midnight,': PHAOEUPBT/KW-BG
 'there': THR
 'came': KAEUPL
 'in': TPH
 'two': TWO
 'little': HREUL
 'naked': TPHAEUBGD
-'dwarfs;': TKWAR/-FS STPH*FPLT
+'dwarfs;': TKWAR/-FS/STPH*FPLT
 'and': SKP
 'they': THE
 'sat': SAT
 'themselves': TH*EPLS
 'upon': POPB
 'the': -T
-'shoemaker's': SHAOU/PHA*EURBG AES
-'bench,': PWEFRPB KW-BG
+'shoemaker's': SHAOU/PHA*EURBG/AES
+'bench,': PWEFRPB/KW-BG
 'took': TAOBG
 'up': UP
 'all': AUL
@@ -430,7 +430,7 @@ The Elves and the Shoemaker
 'that': THA
 'was': WAS
 'cut': KUT
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -438,7 +438,7 @@ The Elves and the Shoemaker
 'with': W
 'their': THAEUR
 'little': HREUL
-'fingers,': TPEURPBGS KW-BG
+'fingers,': TPEURPBGS/KW-BG
 'stitching': STEUFPG
 'and': SKP
 'rapping': RAPG
@@ -448,13 +448,13 @@ The Elves and the Shoemaker
 'at': AT
 'such': SUFP
 'a': AEU
-'rate,': RAEUT KW-BG
+'rate,': RAEUT/KW-BG
 'that': THA
 'the': -T
 'shoemaker': SHAOU/PHA*EURBG
 'was': WAS
 'all': AUL
-'wonder,': WOPBD KW-BG
+'wonder,': WOPBD/KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -462,17 +462,17 @@ The Elves and the Shoemaker
 'his': HEUS
 'eyes': AO*EUS
 'off': OF
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'And': AFPBD
 'on': OPB
 'they': THE
-'went,': WEPBT KW-BG
+'went,': WEPBT/KW-BG
 'till': TEUL
 'the': -T
 'job': SKWROB
 'was': WAS
 'quite': KWAOEUT
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'the': -T
 'shoes': SHAOUS
@@ -482,12 +482,12 @@ The Elves and the Shoemaker
 'use': AOUS
 'upon': POPB
 'the': -T
-'table.': TAEUBL TP-PL
+'table.': TAEUBL/TP-PL
 'This': KPA/TH
 'was': WAS
 'long': HROPBG
 'before': PW-FR
-'daybreak;': TKAEU/PWRAEBG STPH*FPLT
+'daybreak;': TKAEU/PWRAEBG/STPH*FPLT
 'and': SKP
 'then': THEPB
 'they': THE
@@ -496,7 +496,7 @@ The Elves and the Shoemaker
 'as': AS
 'quick': KWEUBG
 'as': AS
-'lightning.': HRAOEUT/TPHEUPBG TP-PL
+'lightning.': HRAOEUT/TPHEUPBG/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'day': TKAEU
@@ -505,14 +505,14 @@ The Elves and the Shoemaker
 'said': SED
 'to': TO
 'the': -T
-'shoemaker.': SHAOU/PHA*EURBG TP-PL
-''These': AE KPA/THEZ
+'shoemaker.': SHAOU/PHA*EURBG/TP-PL
+''These': AE/KPA/THEZ
 'little': HREUL
 'wights': xxx wights
 'have': SR
 'made': PHAED
 'us': US
-'rich,': REUFP KW-BG
+'rich,': REUFP/KW-BG
 'and': SKP
 'we': WE
 'ought': OT
@@ -520,7 +520,7 @@ The Elves and the Shoemaker
 'be': -B
 'thankful': THAPBG/-FL
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'do': TKO
 'them': THEPL
@@ -529,7 +529,7 @@ The Elves and the Shoemaker
 'turn': TURPB
 'if': TP
 'we': WE
-'can.': K TP-PL
+'can.': K/TP-PL
 'I': EU
 'am': APL
 'quite': KWAOEUT
@@ -541,14 +541,14 @@ The Elves and the Shoemaker
 'about': PW
 'as': AS
 'they': THE
-'do;': TKO STPH*FPLT
+'do;': TKO/STPH*FPLT
 'and': SKP
 'indeed': TPHAOEPBD
 'it': T
 'is': S
 'not': TPHOT
 'very': SRE
-'decent,': TKAOEPBT KW-BG
+'decent,': TKAOEPBT/KW-BG
 'for': TPOR
 'they': THE
 'have': SR
@@ -560,11 +560,11 @@ The Elves and the Shoemaker
 'keep': KAOEP
 'off': OF
 'the': -T
-'cold.': KOELD TP-PL
+'cold.': KOELD/TP-PL
 'I'll': AOEUL
 'tell': TEL
 'you': U
-'what,': WHA KW-BG
+'what,': WHA/KW-BG
 'I': EU
 'will': HR
 'make': PHAEUBG
@@ -572,12 +572,12 @@ The Elves and the Shoemaker
 'of': -F
 'them': THEPL
 'a': AEU
-'shirt,': SHEURT KW-BG
+'shirt,': SHEURT/KW-BG
 'and': SKP
 'a': AEU
 'coat': KOET
 'and': SKP
-'waistcoat,': WA*EUS/KOET KW-BG
+'waistcoat,': WA*EUS/KOET/KW-BG
 'and': SKP
 'a': AEU
 'pair': PAEUR
@@ -585,7 +585,7 @@ The Elves and the Shoemaker
 'pantaloons': xxx pantaloons
 'into': TPHAO
 'the': -T
-'bargain;': PWAR/TKPWAEUPB STPH*FPLT
+'bargain;': PWAR/TKPWAEUPB/STPH*FPLT
 'and': SKP
 'do': TKO
 'you': U
@@ -597,7 +597,7 @@ The Elves and the Shoemaker
 'little': HREUL
 'pair': PAEUR
 'of': -F
-'shoes.'': SHAOUS TP-PL AE
+'shoes.'': SHAOUS/TP-PL/AE
 'The': KPA/-T
 'thought': THAUT
 'pleased': PHREFD
@@ -605,22 +605,22 @@ The Elves and the Shoemaker
 'good': TKPWAOD
 'cobbler': KOB/HRER
 'very': SRE
-'much;': PHUFP STPH*FPLT
+'much;': PHUFP/STPH*FPLT
 'and': SKP
 'one': WUPB
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'when': WHEPB
 'all': AUL
 'the': -T
 'things': THEUPBGS
 'were': WR
-'ready,': R-D KW-BG
+'ready,': R-D/KW-BG
 'they': THE
 'laid': HRAEUD
 'them': THEPL
 'on': OPB
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'instead': STPHED
 'of': -F
 'the': -T
@@ -630,13 +630,13 @@ The Elves and the Shoemaker
 'used': AOUFD
 'to': TO
 'cut': KUT
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'then': THEPB
 'went': WEPBT
 'and': SKP
 'hid': HEUD
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'to': TO
 'watch': WAFP
 'what': WHA
@@ -644,19 +644,19 @@ The Elves and the Shoemaker
 'little': HREUL
 'elves': EFLS
 'would': WO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'About': KPA/PW
 'midnight': PHAOEUPBT
 'in': TPH
 'they': THE
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'dancing': TKAPBS/-G
 'and': SKP
-'skipping,': SKEUPG KW-BG
+'skipping,': SKEUPG/KW-BG
 'hopped': HOPD
 'round': ROUPBD
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'then': THEPB
 'went': WEPBT
@@ -667,7 +667,7 @@ The Elves and the Shoemaker
 'their': THAEUR
 'work': WORBG
 'as': AS
-'usual;': AOURB STPH*FPLT
+'usual;': AOURB/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'they': THE
@@ -676,15 +676,15 @@ The Elves and the Shoemaker
 'clothes': KHRO*ETS
 'lying': HRAOEUG
 'for': TPOR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'they': THE
 'laughed': HRAFD
 'and': SKP
-'chuckled,': KHUBG/-LD KW-BG
+'chuckled,': KHUBG/-LD/KW-BG
 'and': SKP
 'seemed': SAOEPLD
 'mightily': PHAOEUT/SKWREU/HREU
-'delighted.': TKHRAOEUTD TP-PL
+'delighted.': TKHRAOEUTD/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'dressed': TKREFD
@@ -694,19 +694,19 @@ The Elves and the Shoemaker
 'twinkling': TWEUPB/K-LG
 'of': -F
 'an': APB
-'eye,': AOEU KW-BG
+'eye,': AOEU/KW-BG
 'and': SKP
 'danced': TKAPBS/-D
 'and': SKP
 'capered': KAEU/PER/-D
 'and': SKP
 'sprang': SPRAPBG
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'as': AS
 'merry': PHER/REU
 'as': AS
 'could': KO
-'be;': -B STPH*FPLT
+'be;': -B/STPH*FPLT
 'till': TEUL
 'at': AT
 'last': HRAFT
@@ -715,19 +715,19 @@ The Elves and the Shoemaker
 'out': OUT
 'at': AT
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'away': WA*EU
 'over': OEFR
 'the': -T
-'green.': TKPWRAOEPB TP-PL
+'green.': TKPWRAOEPB/TP-PL
 'The': KPA/-T
 'good': TKPWAOD
 'couple': KUPL
 'saw': SAU
 'them': THEPL
 'no': TPHO
-'more;': PHOR STPH*FPLT
+'more;': PHOR/STPH*FPLT
 'but': PWUT
 'everything': EFRG
 'went': WEPBT
@@ -737,9 +737,9 @@ The Elves and the Shoemaker
 'from': TPR
 'that': THA
 'time': TAOEUPL
-'forward,': TPAORD KW-BG
+'forward,': TPAORD/KW-BG
 'as': AS
 'long': HROPBG
 'as': AS
 'they': THE
-'lived.': HREUFD TP-PL
+'lived.': HREUFD/TP-PL

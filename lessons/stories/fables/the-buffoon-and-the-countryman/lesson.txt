@@ -20,7 +20,7 @@ The Buffoon and the Countryman
 'cries': KRAOEUS
 'of': -F
 'various': SRAEURS
-'animals.': PHAPBLS TP-PL
+'animals.': PHAPBLS/TP-PL
 'He': KPA/HE
 'finished': TP*EURBD
 'off': OF
@@ -41,22 +41,22 @@ The Buffoon and the Countryman
 'porker': PORBG/*ER
 'concealed': KAUPB/SAOELD
 'about': PW
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'But': KPA/PWUT
 'a': AEU
 'Countryman': KPA/KREU/PHA*PB
 'who': WHO
 'stood': STAOD
 'by': PWEU
-'said:': SED STPH-FPLT
-'"Call': KR-GS KPA/KAUL
+'said:': SED/STPH-FPLT
+'"Call': KR-GS/KPA/KAUL
 'that': THA
 'a': AEU
-'pig's': PEUG AES
-'squeak!': SKWAOEBG SKHRAPL
+'pig's': PEUG/AES
+'squeak!': SKWAOEBG/SKHRAPL
 'Nothing': KPA/TPHOG
 'like': HRAOEUBG
-'it.': T TP-PL
+'it.': T/TP-PL
 'You': KPA/U
 'give': TKPWEUF
 'me': PHE
@@ -69,21 +69,21 @@ The Buffoon and the Countryman
 'you': U
 'what': WHA
 'it's': T-S
-'like."': HRAOEUBG TP-PL KR-GS
+'like."': HRAOEUBG/TP-PL/KR-GS
 'The': KPA/-T
 'audience': AUPBS
-'laughed,': HRAFD KW-BG
+'laughed,': HRAFD/KW-BG
 'but': PWUT
 'next': TPHEGT
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'sure': SHUR
-'enough,': TPHUF KW-BG
+'enough,': TPHUF/KW-BG
 'the': -T
 'Countryman': KPA/KREU/PHA*PB
 'appeared': A/PAOERD
 'on': OPB
 'the': -T
-'stage,': STAEUPBLG KW-BG
+'stage,': STAEUPBLG/KW-BG
 'and': SKP
 'putting': PUGT
 'his': HEUS
@@ -104,17 +104,17 @@ The Buffoon and the Countryman
 'to': TO
 'make': PHAEUBG
 'him': HEUPL
-'stop.': STOP TP-PL
-'"You': KR-GS KPA/U
-'fools!"': TPAOLS SKHRAPL KR-GS
+'stop.': STOP/TP-PL
+'"You': KR-GS/KPA/U
+'fools!"': TPAOLS/SKHRAPL/KR-GS
 'he': HE
-'cried,': KRAOEUD KW-BG
-'"see': KR-GS SAOE
+'cried,': KRAOEUD/KW-BG
+'"see': KR-GS/SAOE
 'what': WHA
 'you': U
 'have': SR
 'been': PW-PB
-'hissing,"': HEUSZ/-G KW-BG KR-GS
+'hissing,"': HEUSZ/-G/KW-BG/KR-GS
 'and': SKP
 'held': HELD
 'up': UP
@@ -132,7 +132,7 @@ The Buffoon and the Countryman
 'him': HEUPL
 'utter': UT/ER
 'the': -T
-'squeals.': SKWAOELS TP-PL
+'squeals.': SKWAOELS/TP-PL
 'Men': KPA/PHEPB
 'often': OFPB
 'applaud': A/PHRAUD
@@ -142,4 +142,4 @@ The Buffoon and the Countryman
 'hiss': HEUSZ
 'the': -T
 'real': RAEL
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL

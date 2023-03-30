@@ -16,7 +16,7 @@ The Frogs Desiring a King
 'that': THA
 'just': SKWRUFT
 'suited': SAOUTD
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'they': THE
 'went': WEPBT
 'splashing': SPHRARBG
@@ -28,7 +28,7 @@ The Frogs Desiring a King
 'nobody': TPHOEB
 'troubling': TRUBLG
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'But': KPA/PWUT
 'some': SOPL
 'of': -F
@@ -38,7 +38,7 @@ The Frogs Desiring a King
 'this': TH
 'was': WAS
 'not': TPHOT
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'that': THA
 'they': THE
 'should': SHO
@@ -48,7 +48,7 @@ The Frogs Desiring a King
 'and': SKP
 'a': AEU
 'proper': PROR
-'constitution,': TAOUGS KW-BG
+'constitution,': TAOUGS/KW-BG
 'so': SO
 'they': THE
 'determined': TKERPLD
@@ -64,12 +64,12 @@ The Frogs Desiring a King
 'them': THEPL
 'what': WHA
 'they': THE
-'wanted.': WAPBTD TP-PL
-'"Mighty': KR-GS KPA/PHAOEUT/KWREU
-'Jove,"': SKWROEF KW-BG KR-GS
+'wanted.': WAPBTD/TP-PL
+'"Mighty': KR-GS/KPA/PHAOEUT/KWREU
+'Jove,"': SKWROEF/KW-BG/KR-GS
 'they': THE
-'cried,': KRAOEUD KW-BG
-'"send': KR-GS SEPBD
+'cried,': KRAOEUD/KW-BG
+'"send': KR-GS/SEPBD
 'unto': UPB/TO
 'us': US
 'a': AEU
@@ -83,12 +83,12 @@ The Frogs Desiring a King
 'keep': KAOEP
 'us': US
 'in': TPH
-'order."': ORD TP-PL KR-GS
+'order."': ORD/TP-PL/KR-GS
 'Jove': SKWROEF
 'laughed': HRAFD
 'at': AT
 'their': THAEUR
-'croaking,': KROEBG/-G KW-BG
+'croaking,': KROEBG/-G/KW-BG
 'and': SKP
 'threw': THRAOU
 'down': TKOUPB
@@ -97,14 +97,14 @@ The Frogs Desiring a King
 'swamp': SWAFRP
 'a': AEU
 'huge': HAOUPBLG
-'Log,': KPA/HROG KW-BG
+'Log,': KPA/HROG/KW-BG
 'which': WEU
 'came': KAEUPL
 'down': TKOUPB
 'splashing': SPHRARBG
 'into': TPHAO
 'the': -T
-'swamp.': SWAFRP TP-PL
+'swamp.': SWAFRP/TP-PL
 'The': KPA/-T
 'Frogs': KPA/TPROGS
 'were': WR
@@ -119,7 +119,7 @@ The Frogs Desiring a King
 'made': PHAED
 'in': TPH
 'their': THAEUR
-'midst,': PHEUDZ KW-BG
+'midst,': PHEUDZ/KW-BG
 'and': SKP
 'all': AUL
 'rushed': RURBD
@@ -131,17 +131,17 @@ The Frogs Desiring a King
 'at': AT
 'the': -T
 'horrible': HORBL
-'monster;': PHOPB/STER STPH*FPLT
+'monster;': PHOPB/STER/STPH*FPLT
 'but': PWUT
 'after': AF
 'a': AEU
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'seeing': SAOEG
 'that': THA
 'it': T
 'did': TK
 'not': TPHOT
-'move,': PHOF KW-BG
+'move,': PHOF/KW-BG
 'one': WUPB
 'or': OR
 'two': TWO
@@ -154,18 +154,18 @@ The Frogs Desiring a King
 'out': OUT
 'towards': TORDZ
 'the': -T
-'Log,': KPA/HROG KW-BG
+'Log,': KPA/HROG/KW-BG
 'and': SKP
 'even': AOEPB
 'dared': TKAEURD
 'to': TO
 'touch': TUFP
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'still': STEUL
 'it': T
 'did': TK
 'not': TPHOT
-'move.': PHOF TP-PL
+'move.': PHOF/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'greatest': TKPWRAET/EFT
@@ -184,7 +184,7 @@ The Frogs Desiring a King
 'and': SKP
 'down': TKOUPB
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'thereupon': THRUP
 'all': AUL
 'the': -T
@@ -193,7 +193,7 @@ The Frogs Desiring a King
 'and': SKP
 'did': TK
 'the': -T
-'same;': SAEUPL STPH*FPLT
+'same;': SAEUPL/STPH*FPLT
 'and': SKP
 'for': TPOR
 'some': SOPL
@@ -219,41 +219,41 @@ The Frogs Desiring a King
 'lying': HRAOEUG
 'in': TPH
 'their': THAEUR
-'midst.': PHEUDZ TP-PL
+'midst.': PHEUDZ/TP-PL
 'But': KPA/PWUT
 'this': TH
 'did': TK
 'not': TPHOT
 'suit': SAOUT
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'so': SO
 'they': THE
 'sent': SEPBT
 'another': TPHOER
 'petition': PE/TEUGS
 'to': TO
-'Jove,': SKWROEF KW-BG
+'Jove,': SKWROEF/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'him,': HEUPL KW-BG
-'"We': KR-GS KPA/WE
+'him,': HEUPL/KW-BG
+'"We': KR-GS/KPA/WE
 'want': WAPBT
 'a': AEU
 'real': RAEL
-'king;': KEUPBG STPH*FPLT
+'king;': KEUPBG/STPH*FPLT
 'one': WUPB
 'that': THA
 'will': HR
 'really': R-L
 'rule': RAOUL
 'over': OEFR
-'us."': US TP-PL KR-GS
+'us."': US/TP-PL/KR-GS
 'Now': KPA/TPHOU
 'this': TH
 'made': PHAED
 'Jove': SKWROEF
-'angry,': APBG/REU KW-BG
+'angry,': APBG/REU/KW-BG
 'so': SO
 'he': HE
 'sent': SEPBT
@@ -270,17 +270,17 @@ The Frogs Desiring a King
 'gobbling': TKPWOBLG
 'them': THEPL
 'all': AUL
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'Frogs': KPA/TPROGS
 'repented': RE/PEPBT/-D
 'when': WHEPB
 'too': TAO
-'late.': HRAEUT TP-PL
+'late.': HRAEUT/TP-PL
 'Better': KPA/PWOERT
 'no': TPHO
 'rule': RAOUL
 'than': THAPB
 'cruel': KRAOUL
-'rule.': RAOUL TP-PL
+'rule.': RAOUL/TP-PL

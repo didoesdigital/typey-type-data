@@ -5,7 +5,7 @@ The Loveliest Rose in the World
 'once': WUPBS
 'a': AEU
 'great': TKPWRAET
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'in': TPH
 'whose': WHOZ
 'garden': TKPWA*RPB
@@ -17,18 +17,18 @@ The Loveliest Rose in the World
 'the': -T
 'most': PHOFT
 'splendid': SPHREPB/TKEUD
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'and': SKP
 'from': TPR
 'every': EF
 'land': HRAPBD
 'in': TPH
 'the': -T
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'She': KPA/SHE
 'specially': SPERBL/HREU
 'loved': HROFD
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'and': SKP
 'therefore': TH-FR
 'she': SHE
@@ -39,20 +39,20 @@ The Loveliest Rose in the World
 'varieties': SRAOEURTS
 'of': -F
 'this': TH
-'flower,': TPHRO*UR KW-BG
+'flower,': TPHRO*UR/KW-BG
 'from': TPR
 'the': -T
 'wild': WAOEULD
-'hedge-rose,': HEPBLG H-PB ROEZ KW-BG
+'hedge-rose,': HEPBLG/H-PB/ROEZ/KW-BG
 'with': W
 'its': EUTS
-'apple-scented': A*EPL H-PB SKREPBT/-D
-'leaves,': HREFS KW-BG
+'apple-scented': A*EPL/H-PB/SKREPBT/-D
+'leaves,': HREFS/KW-BG
 'to': TO
 'the': -T
 'splendid': SPHREPB/TKEUD
 'Provence': xxx Provence
-'rose.': ROEZ TP-PL
+'rose.': ROEZ/TP-PL
 'They': KPA/THE
 'grew': TKPWRAOU
 'near': TPHAOER
@@ -60,13 +60,13 @@ The Loveliest Rose in the World
 'shelter': SHELT
 'of': -F
 'the': -T
-'walls,': WAULS KW-BG
+'walls,': WAULS/KW-BG
 'wound': WOUPBD
 'themselves': TH*EPLS
 'round': ROUPBD
 'columns': KHRUPLS
 'and': SKP
-'window-frames,': WOEUPBD H-PB TPRAEUPLS KW-BG
+'window-frames,': WOEUPBD/H-PB/TPRAEUPLS/KW-BG
 'crept': KREPT
 'along': HRAOPBG
 'passages': PA*PBLGS
@@ -76,14 +76,14 @@ The Loveliest Rose in the World
 'ceilings': KRAOELGS
 'of': -F
 'the': -T
-'halls.': HAULS TP-PL
+'halls.': HAULS/TP-PL
 'They': KPA/THE
 'were': WR
 'of': -F
 'every': EF
 'fragrance': TPRAEUG/RAPBS
 'and': SKP
-'color.': KROR TP-PL
+'color.': KROR/TP-PL
 'But': KPA/PWUT
 'care': KAEUR
 'and': SKP
@@ -91,14 +91,14 @@ The Loveliest Rose in the World
 'dwelt': TKWELT
 'within': W-PB
 'these': THEZ
-'halls;': HAULS STPH*FPLT
+'halls;': HAULS/STPH*FPLT
 'the': -T
 'queen': KWAOEPB
 'lay': HRAEU
 'upon': POPB
 'a': AEU
 'sick': SEUBG
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'the': -T
 'doctors': TKR-S
@@ -106,8 +106,8 @@ The Loveliest Rose in the World
 'that': THA
 'she': SHE
 'must': PHUFT
-'die.': TKAOEU TP-PL
-'"There': KR-GS KPA/THR
+'die.': TKAOEU/TP-PL
+'"There': KR-GS/KPA/THR
 'is': S
 'still': STEUL
 'one': WUPB
@@ -115,22 +115,22 @@ The Loveliest Rose in the World
 'that': THA
 'could': KO
 'save': SAF
-'her,"': HER KW-BG KR-GS
+'her,"': HER/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
 'wisest': WAOEUZ/*ES
 'among': PHOPBG
-'them.': THEPL TP-PL
-'"Bring': KR-GS KPA/PWREU
+'them.': THEPL/TP-PL
+'"Bring': KR-GS/KPA/PWREU
 'her': HER
 'the': -T
 'loveliest': HROFL/KWREFT
 'rose': ROEZ
 'in': TPH
 'the': -T
-'world;': WORLD STPH*FPLT
+'world;': WORLD/STPH*FPLT
 'one': WUPB
 'which': WEU
 'exhibits': KHEUBTS
@@ -138,7 +138,7 @@ The Loveliest Rose in the World
 'purest': PAOUR/EFT
 'and': SKP
 'brightest': PWRAOEUT/EFT
-'love,': HRUF KW-BG
+'love,': HRUF/KW-BG
 'and': SKP
 'if': TP
 'it': T
@@ -149,11 +149,11 @@ The Loveliest Rose in the World
 'before': PW-FR
 'her': HER
 'eyes': AO*EUS
-'close,': KHROES KW-BG
+'close,': KHROES/KW-BG
 'she': SHE
 'will': HR
 'not': TPHOT
-'die."': TKAOEU TP-PL KR-GS
+'die."': TKAOEU/TP-PL/KR-GS
 'Then': KPA/THEPB
 'from': TPR
 'all': AUL
@@ -167,14 +167,14 @@ The Loveliest Rose in the World
 'bloomed': PWHRAOPL/-D
 'in': TPH
 'every': EF
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'but': PWUT
 'they': THE
 'were': WR
 'not': TPHOT
 'the': -T
 'right': RAOEUT
-'sort.': SORT TP-PL
+'sort.': SORT/TP-PL
 'The': KPA/-T
 'flower': TPHRO*UR
 'must': PHUFT
@@ -184,7 +184,7 @@ The Loveliest Rose in the World
 'the': -T
 'garden': TKPWA*RPB
 'of': -F
-'love;': HRUF STPH*FPLT
+'love;': HRUF/STPH*FPLT
 'but': PWUT
 'which': WEU
 'of': -F
@@ -197,18 +197,18 @@ The Loveliest Rose in the World
 'highest': HAOEU/EFT
 'and': SKP
 'purest': PAOUR/EFT
-'love?': HRUF H-F
+'love?': HRUF/H-F
 'The': KPA/-T
 'poets': POETS
 'sang': SAPBG
 'of': -F
 'this': TH
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'the': -T
 'loveliest': HROFL/KWREFT
 'in': TPH
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'and': SKP
 'each': AOEFP
 'named': TPHAEUPLD
@@ -219,7 +219,7 @@ The Loveliest Rose in the World
 'worthy': WO*RT/KWREU
 'of': -F
 'that': THA
-'title;': TAOEULT STPH*FPLT
+'title;': TAOEULT/STPH*FPLT
 'and': SKP
 'intelligence': SPWEPBLGS
 'of': -F
@@ -237,25 +237,25 @@ The Loveliest Rose in the World
 'that': THA
 'beat': PWAET
 'with': W
-'love;': HRUF STPH*FPLT
+'love;': HRUF/STPH*FPLT
 'to': TO
 'every': EF
-'class,': KHRAS KW-BG
-'age,': AEUPBLG KW-BG
+'class,': KHRAS/KW-BG
+'age,': AEUPBLG/KW-BG
 'and': SKP
-'condition.': K-PB TP-PL
-'"No': KR-GS KPA/TPHO
+'condition.': K-PB/TP-PL
+'"No': KR-GS/KPA/TPHO
 'one': WUPB
 'has': HAS
 'yet': KWRET
 'named': TPHAEUPLD
 'the': -T
-'flower,"': TPHRO*UR KW-BG KR-GS
+'flower,"': TPHRO*UR/KW-BG/KR-GS
 'said': SED
 'the': -T
 'wise': WAOEUS
-'man.': PHAPB TP-PL
-'"No': KR-GS KPA/TPHO
+'man.': PHAPB/TP-PL
+'"No': KR-GS/KPA/TPHO
 'one': WUPB
 'has': HAS
 'pointed': POEUPBTD
@@ -268,7 +268,7 @@ The Loveliest Rose in the World
 'in': TPH
 'all': AUL
 'its': EUTS
-'splendor.': SPHREPBD/O*R TP-PL
+'splendor.': SPHREPBD/O*R/TP-PL
 'It': KPA/T
 'is': S
 'not': TPHOT
@@ -280,13 +280,13 @@ The Loveliest Rose in the World
 'of': -F
 'Romeo': ROEPL/KWROE
 'and': SKP
-'Juliet,': SKWRAOUL/ET KW-BG
+'Juliet,': SKWRAOUL/ET/KW-BG
 'or': OR
 'from': TPR
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Walburg,': xxx Walburg KW-BG
+'Walburg,': xxx Walburg/KW-BG
 'though': THOE
 'these': THEZ
 'roses': ROES/-S
@@ -294,7 +294,7 @@ The Loveliest Rose in the World
 'live': HREUF
 'in': TPH
 'everlasting': *FR/HRAFT/-G
-'song.': SOPBG TP-PL
+'song.': SOPBG/TP-PL
 'It': KPA/T
 'is': S
 'not': TPHOT
@@ -307,10 +307,10 @@ The Loveliest Rose in the World
 'forth': TPO*RT
 'from': TPR
 'the': -T
-'blood-stained': PWHRAOD H-PB STAEUPBD
+'blood-stained': PWHRAOD/H-PB/STAEUPBD
 'fame': TPAEUPL
 'of': -F
-'Winkelreid.': xxx Winkelreid TP-PL
+'Winkelreid.': xxx Winkelreid/TP-PL
 'The': KPA/-T
 'blood': PWHRAOD
 'which': WEU
@@ -327,12 +327,12 @@ The Loveliest Rose in the World
 'his': HEUS
 'country': KREU
 'is': S
-'sacred,': SKRED KW-BG
+'sacred,': SKRED/KW-BG
 'and': SKP
 'his': HEUS
 'memory': PHOEURPL
 'is': S
-'sweet,': SWAOET KW-BG
+'sweet,': SWAOET/KW-BG
 'and': SKP
 'no': TPHO
 'rose': ROEZ
@@ -346,7 +346,7 @@ The Loveliest Rose in the World
 'flows': TPHROES
 'from': TPR
 'his': HEUS
-'veins.': SRAEUPBS TP-PL
+'veins.': SRAEUPBS/TP-PL
 'Neither': KPA/TPHAOERT
 'is': S
 'it': T
@@ -354,7 +354,7 @@ The Loveliest Rose in the World
 'magic': PHAPBLG/EUBG
 'flower': TPHRO*UR
 'of': -F
-'Science,': KPA/SKRAOEUPBS KW-BG
+'Science,': KPA/SKRAOEUPBS/KW-BG
 'to': TO
 'obtain': OB/TAEUPB
 'which': WEU
@@ -373,20 +373,20 @@ The Loveliest Rose in the World
 'life': HRAOEUF
 'in': TPH
 'sleepless': SHRAOEP/-LS
-'nights,': TPHAOEUTS KW-BG
+'nights,': TPHAOEUTS/KW-BG
 'in': TPH
 'a': AEU
 'lonely': HROEPBL
-'chamber."': KHAEURPL TP-PL KR-GS
-'"I': KR-GS EU
+'chamber."': KHAEURPL/TP-PL/KR-GS
+'"I': KR-GS/EU
 'know': TPHOE
 'where': W-R
 'it': T
-'blooms,"': PWHRAOPL/-S KW-BG KR-GS
+'blooms,"': PWHRAOPL/-S/KW-BG/KR-GS
 'said': SED
 'a': AEU
 'happy': HAEP
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'who': WHO
 'came': KAEUPL
 'with': W
@@ -398,8 +398,8 @@ The Loveliest Rose in the World
 'bedside': PWED/SAOEUD
 'of': -F
 'the': -T
-'queen.': KWAOEPB TP-PL
-'"I': KR-GS EU
+'queen.': KWAOEPB/TP-PL
+'"I': KR-GS/EU
 'know': TPHOE
 'where': W-R
 'the': -T
@@ -408,7 +408,7 @@ The Loveliest Rose in the World
 'in': TPH
 'the': -T
 'world': WORLD
-'is.': S TP-PL
+'is.': S/TP-PL
 'It': KPA/T
 'is': S
 'seen': SAOEPB
@@ -419,7 +419,7 @@ The Loveliest Rose in the World
 'of': -F
 'my': PHEU
 'sweet': SWAOET
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'when': WHEPB
 'it': T
 'expresses': EBGS/PRES/-S
@@ -429,7 +429,7 @@ The Loveliest Rose in the World
 'holy': HOEUL
 'love': HRUF
 'of': -F
-'infancy;': EUPB/TPAEPBS STPH*FPLT
+'infancy;': EUPB/TPAEPBS/STPH*FPLT
 'when': WHEPB
 'refreshed': RERB/-D
 'by': PWEU
@@ -437,44 +437,44 @@ The Loveliest Rose in the World
 'it': T
 'opens': OEPS
 'its': EUTS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'smiles': SPHAOEULS
 'upon': POPB
 'me': PHE
 'with': W
 'childlike': KHAOEULD/HRA*EBG
-'affection."': A*FBGS TP-PL KR-GS
-'"This': KR-GS KPA/TH
+'affection."': A*FBGS/TP-PL/KR-GS
+'"This': KR-GS/KPA/TH
 'is': S
 'a': AEU
 'lovely': HROFL
-'rose,"': ROEZ KW-BG KR-GS
+'rose,"': ROEZ/KW-BG/KR-GS
 'said': SED
 'the': -T
 'wise': WAOEUS
-'man;': PHAPB STPH*FPLT
-'"but': KR-GS PWUT
+'man;': PHAPB/STPH*FPLT
+'"but': KR-GS/PWUT
 'there': THR
 'is': S
 'one': WUPB
 'still': STEUL
 'more': PHOR
-'lovely."': HROFL TP-PL KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'lovely."': HROFL/TP-PL/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'one': WUPB
 'far': TPAR
 'more': PHOR
-'lovely,"': HROFL KW-BG KR-GS
+'lovely,"': HROFL/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
-'women.': WEUPL TP-PL
-'"I': KR-GS EU
+'women.': WEUPL/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'seen': SAOEPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'a': AEU
 'loftier': HROFT/KWRER
@@ -483,17 +483,17 @@ The Loveliest Rose in the World
 'rose': ROEZ
 'does': TKOS
 'not': TPHOT
-'bloom.': PWHRAOPL TP-PL
+'bloom.': PWHRAOPL/TP-PL
 'But': KPA/PWUT
 'it': T
 'was': WAS
-'white,': WHAOEUT KW-BG
+'white,': WHAOEUT/KW-BG
 'like': HRAOEUBG
 'the': -T
 'leaves': HREFS
 'of': -F
 'a': AEU
-'blush-rose.': PWHRURB H-PB ROEZ TP-PL
+'blush-rose.': PWHRURB/H-PB/ROEZ/TP-PL
 'I': EU
 'saw': SAU
 'it': T
@@ -502,20 +502,20 @@ The Loveliest Rose in the World
 'cheeks': KHAOEBGS
 'of': -F
 'the': -T
-'queen.': KWAOEPB TP-PL
+'queen.': KWAOEPB/TP-PL
 'She': KPA/SHE
 'had': H
 'taken': TAEPB
 'off': OF
 'her': HER
 'golden': TKPWOELD/*EPB
-'crown,': KROUPB KW-BG
+'crown,': KROUPB/KW-BG
 'and': SKP
 'through': THRU
 'the': -T
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'dreary': TKRAOE/REU
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'she': SHE
 'carried': KAERD
 'her': HER
@@ -523,13 +523,13 @@ The Loveliest Rose in the World
 'child': KHAOEULD
 'in': TPH
 'her': HER
-'arms.': ARPLS TP-PL
+'arms.': ARPLS/TP-PL
 'She': KPA/SHE
 'wept': WEPT
 'over': OEFR
-'it,': T KW-BG
+'it,': T/KW-BG
 'kissed': K*EUFD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'prayed': PRAEUD
 'for': TPOR
@@ -545,8 +545,8 @@ The Loveliest Rose in the World
 'hour': HOUR
 'of': -F
 'her': HER
-'anguish."': APBG/WEURB TP-PL KR-GS
-'"Holy': KR-GS KPA/HOEUL
+'anguish."': APBG/WEURB/TP-PL/KR-GS
+'"Holy': KR-GS/KPA/HOEUL
 'and': SKP
 'wonderful': WUFL
 'in': TPH
@@ -557,7 +557,7 @@ The Loveliest Rose in the World
 'white': WHAOEUT
 'rose': ROEZ
 'of': -F
-'grief,': TKPWRAOEF KW-BG
+'grief,': TKPWRAOEF/KW-BG
 'but': PWUT
 'it': T
 'is': S
@@ -565,8 +565,8 @@ The Loveliest Rose in the World
 'the': -T
 'one': WUPB
 'we': WE
-'seek."': SAOEBG TP-PL KR-GS
-'"No;': KR-GS KPA/TPHO STPH*FPLT
+'seek."': SAOEBG/TP-PL/KR-GS
+'"No;': KR-GS/KPA/TPHO/STPH*FPLT
 'the': -T
 'loveliest': HROFL/KWREFT
 'rose': ROEZ
@@ -577,31 +577,31 @@ The Loveliest Rose in the World
 'saw': SAU
 'at': AT
 'the': -T
-'Lord's': HRO*RD AES
-'table,"': TAEUBL KW-BG KR-GS
+'Lord's': HRO*RD/AES
+'table,"': TAEUBL/KW-BG/KR-GS
 'said': SED
 'the': -T
 'good': TKPWAOD
 'old': OLD
-'bishop.': PWEURB/OP TP-PL
-'"I': KR-GS EU
+'bishop.': PWEURB/OP/TP-PL
+'"I': KR-GS/EU
 'saw': SAU
 'it': T
 'shine': SHAOEUPB
 'as': AS
 'if': TP
 'an': APB
-'angel's': APB/SKWREL AES
+'angel's': APB/SKWREL/AES
 'face': TPAEUS
 'had': H
-'appeared.': A/PAOERD TP-PL
+'appeared.': A/PAOERD/TP-PL
 'A': KPA/AEU
 'young': KWRUPBG
 'maiden': PHAEUD/*EPB
 'knelt': TPHELT
 'at': AT
 'the': -T
-'altar,': AL/TAR KW-BG
+'altar,': AL/TAR/KW-BG
 'and': SKP
 'renewed': RE/TPHAOUD
 'the': -T
@@ -609,7 +609,7 @@ The Loveliest Rose in the World
 'made': PHAED
 'at': AT
 'her': HER
-'baptism;': PWAPT/EUFPL STPH*FPLT
+'baptism;': PWAPT/EUFPL/STPH*FPLT
 'and': SKP
 'there': THR
 'were': WR
@@ -625,7 +625,7 @@ The Loveliest Rose in the World
 'of': -F
 'that': THA
 'young': KWRUPBG
-'girl.': TKPWEURL TP-PL
+'girl.': TKPWEURL/TP-PL
 'She': KPA/SHE
 'looked': HRAOBGD
 'up': UP
@@ -640,7 +640,7 @@ The Loveliest Rose in the World
 'of': -F
 'her': HER
 'young': KWRUPBG
-'spirit,': SPEURT KW-BG
+'spirit,': SPEURT/KW-BG
 'in': TPH
 'all': AUL
 'the': -T
@@ -650,16 +650,16 @@ The Loveliest Rose in the World
 'highest': HAOEU/EFT
 'and': SKP
 'purest': PAOUR/EFT
-'love."': HRUF TP-PL KR-GS
-'"May': KR-GS PHA*EU
+'love."': HRUF/TP-PL/KR-GS
+'"May': KR-GS/PHA*EU
 'she': SHE
 'be': -B
-'blessed!"': PWHR*EFD SKHRAPL KR-GS
+'blessed!"': PWHR*EFD/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'wise': WAOEUS
-'man:': PHAPB STPH-FPLT
-'"but': KR-GS PWUT
+'man:': PHAPB/STPH-FPLT
+'"but': KR-GS/PWUT
 'no': TPHO
 'one': WUPB
 'has': HAS
@@ -670,7 +670,7 @@ The Loveliest Rose in the World
 'rose': ROEZ
 'in': TPH
 'the': -T
-'world."': WORLD TP-PL KR-GS
+'world."': WORLD/TP-PL/KR-GS
 'Then': KPA/THEPB
 'there': THR
 'came': KAEUPL
@@ -678,20 +678,20 @@ The Loveliest Rose in the World
 'the': -T
 'room': RAOPL
 'a': AEU
-'child—the': KHAOEULD EPL/TKA*RB -T
-'queen's': KWAOEPB AES
+'child—the': KHAOEULD/EPL/TKA*RB/-T
+'queen's': KWAOEPB/AES
 'little': HREUL
-'son.': SOPB TP-PL
+'son.': SOPB/TP-PL
 'Tears': KPA/TAERS
 'stood': STAOD
 'in': TPH
 'his': HEUS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'glistened': TKPWHREUS/-PBD
 'on': OPB
 'his': HEUS
-'cheeks;': KHAOEBGS STPH*FPLT
+'cheeks;': KHAOEBGS/STPH*FPLT
 'he': HE
 'carried': KAERD
 'a': AEU
@@ -702,21 +702,21 @@ The Loveliest Rose in the World
 'binding': PWAOEUPBGD
 'was': WAS
 'of': -F
-'velvet,': SREL/SRET KW-BG
+'velvet,': SREL/SRET/KW-BG
 'with': W
 'silver': SEUL/SRER
-'clasps.': KHRAS/-PS TP-PL
-'"Mother,"': KR-GS KPA/PHOER KW-BG KR-GS
+'clasps.': KHRAS/-PS/TP-PL
+'"Mother,"': KR-GS/KPA/PHOER/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
-'boy;': PWOEU STPH*FPLT
-'"only': KR-GS OEPBL
+'boy;': PWOEU/STPH*FPLT
+'"only': KR-GS/OEPBL
 'hear': HAER
 'what': WHA
 'I': EU
 'have': SR
-'read."': RAED TP-PL KR-GS
+'read."': RAED/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'child': KHAOEULD
@@ -724,7 +724,7 @@ The Loveliest Rose in the World
 'himself': HEUPLS
 'by': PWEU
 'the': -T
-'bedside,': PWED/SAOEUD KW-BG
+'bedside,': PWED/SAOEUD/KW-BG
 'and': SKP
 'read': RAED
 'from': TPR
@@ -741,21 +741,21 @@ The Loveliest Rose in the World
 'to': TO
 'save': SAF
 'all': AUL
-'men,': PHEPB KW-BG
+'men,': PHEPB/KW-BG
 'even': AOEPB
 'who': WHO
 'are': R
 'yet': KWRET
-'unborn.': UPB/PWORPB TP-PL
+'unborn.': UPB/PWORPB/TP-PL
 'He': KPA/HE
-'read,': RAED KW-BG
-'"Greater': KR-GS KPA/TKPWRAERT
+'read,': RAED/KW-BG
+'"Greater': KR-GS/KPA/TKPWRAERT
 'love': HRUF
 'hath': HA*T
 'no': TPHO
 'man': PHAPB
 'than': THAPB
-'this,"': TH KW-BG KR-GS
+'this,"': TH/KW-BG/KR-GS
 'and': SKP
 'as': AS
 'he': HE
@@ -769,7 +769,7 @@ The Loveliest Rose in the World
 'cheeks': KHAOEBGS
 'of': -F
 'the': -T
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'and': SKP
 'her': HER
 'eyes': AO*EUS
@@ -777,7 +777,7 @@ The Loveliest Rose in the World
 'so': SO
 'enlightened': EPB/HRAOEUT/-PBD
 'and': SKP
-'clear,': KHRAOER KW-BG
+'clear,': KHRAOER/KW-BG
 'that': THA
 'she': SHE
 'saw': SAU
@@ -791,7 +791,7 @@ The Loveliest Rose in the World
 'lovely': HROFL
 'rose': ROEZ
 'spring': SPREUPBG
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'a': AEU
 'type': TAOEUP
 'of': -F
@@ -802,21 +802,21 @@ The Loveliest Rose in the World
 'blood': PWHRAOD
 'on': OPB
 'the': -T
-'cross.': KROS TP-PL
-'"I': KR-GS EU
+'cross.': KROS/TP-PL
+'"I': KR-GS/EU
 'see': SAOE
-'it,"': T KW-BG KR-GS
+'it,"': T/KW-BG/KR-GS
 'she': SHE
-'said.': SED TP-PL
-'"He': KR-GS KPA/HE
+'said.': SED/TP-PL
+'"He': KR-GS/KPA/HE
 'who': WHO
 'beholds': PWE/HOLD/-S
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'the': -T
 'loveliest': HROFL/KWREFT
 'rose': ROEZ
 'on': OPB
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'shall': SHAL
 'never': TPHEFR
-'die."': TKAOEU TP-PL KR-GS
+'die."': TKAOEU/TP-PL/KR-GS

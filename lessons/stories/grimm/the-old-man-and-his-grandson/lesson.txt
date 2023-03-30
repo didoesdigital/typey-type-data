@@ -6,20 +6,20 @@ The Old Man and His Grandson
 'a': AEU
 'very': SRE
 'old': OLD
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'whose': WHOZ
 'eyes': AO*EUS
 'had': H
 'become': PW-BG
-'dim,': TKEUPL KW-BG
+'dim,': TKEUPL/KW-BG
 'his': HEUS
 'ears': AOERS
 'dull': TKUL
 'of': -F
-'hearing,': HAERG KW-BG
+'hearing,': HAERG/KW-BG
 'his': HEUS
 'knees': TPHAOEZ
-'trembled,': TREPL/-BLD KW-BG
+'trembled,': TREPL/-BLD/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -31,14 +31,14 @@ The Old Man and His Grandson
 'hardly': HA*RLD
 'hold': HOLD
 'the': -T
-'spoon,': SPAOPB KW-BG
+'spoon,': SPAOPB/KW-BG
 'and': SKP
 'spilt': SPEULT
 'the': -T
 'broth': PWRO*T
 'upon': POPB
 'the': -T
-'table-cloth': TAEUBL H-PB KHRO*T
+'table-cloth': TAEUBL/H-PB/KHRO*T
 'or': OR
 'let': HRET
 'it': T
@@ -46,17 +46,17 @@ The Old Man and His Grandson
 'out': OUT
 'of': -F
 'his': HEUS
-'mouth.': PHO*UT TP-PL
+'mouth.': PHO*UT/TP-PL
 'His': KPA/HEUS
 'son': SOPB
 'and': SKP
 'his': HEUS
-'son's': SOPB AES
+'son's': SOPB/AES
 'wife': WAOEUF
 'were': WR
 'disgusted': TKEUS/TKPWUFT/-D
 'at': AT
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'so': SO
 'the': -T
 'old': OLD
@@ -71,7 +71,7 @@ The Old Man and His Grandson
 'corner': KRORPB
 'behind': HEUPBD
 'the': -T
-'stove,': STOF KW-BG
+'stove,': STOF/KW-BG
 'and': SKP
 'they': THE
 'gave': TKPWAEUF
@@ -81,13 +81,13 @@ The Old Man and His Grandson
 'in': TPH
 'an': APB
 'earthenware': *ERT/*EPB/WA*EUR
-'bowl,': PWOEL KW-BG
+'bowl,': PWOEL/KW-BG
 'and': SKP
 'not': TPHOT
 'even': AOEPB
 'enough': TPHUF
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'he': HE
 'used': AOUFD
@@ -101,9 +101,9 @@ The Old Man and His Grandson
 'eyes': AO*EUS
 'full': TPUL
 'of': -F
-'tears.': TAERS TP-PL
-'Once,': KPA/WUPBS KW-BG
-'too,': TAO KW-BG
+'tears.': TAERS/TP-PL
+'Once,': KPA/WUPBS/KW-BG
+'too,': TAO/KW-BG
 'his': HEUS
 'trembling': TREPL/-BLG
 'hands': HAPBDZ
@@ -111,7 +111,7 @@ The Old Man and His Grandson
 'not': TPHOT
 'hold': HOLD
 'the': -T
-'bowl,': PWOEL KW-BG
+'bowl,': PWOEL/KW-BG
 'and': SKP
 'it': T
 'fell': TPEL
@@ -119,19 +119,19 @@ The Old Man and His Grandson
 'the': -T
 'ground': TKPWROUPBD
 'and': SKP
-'broke.': PWROEBG TP-PL
+'broke.': PWROEBG/TP-PL
 'The': KPA/-T
 'young': KWRUPBG
 'wife': WAOEUF
 'scolded': SKOLD/-D
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'he': HE
 'said': SED
 'nothing': TPHOG
 'and': SKP
 'only': OEPBL
-'sighed.': SAOEU/-D TP-PL
+'sighed.': SAOEU/-D/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'brought': PWRAUT
@@ -142,14 +142,14 @@ The Old Man and His Grandson
 'for': TPOR
 'a': AEU
 'few': TPAOU
-'half-pence,': HAF H-PB PEPBTS KW-BG
+'half-pence,': HAF/H-PB/PEPBTS/KW-BG
 'out': OUT
 'of': -F
 'which': WEU
 'he': HE
 'had': H
 'to': TO
-'eat.': AOET TP-PL
+'eat.': AOET/TP-PL
 'They': KPA/THE
 'were': WR
 'once': WUPBS
@@ -173,25 +173,25 @@ The Old Man and His Grandson
 'wood': WAOD
 'upon': POPB
 'the': -T
-'ground.': TKPWROUPBD TP-PL
-''What': AE KPA/WHA
+'ground.': TKPWROUPBD/TP-PL
+''What': AE/KPA/WHA
 'are': R
 'you': U
 'doing': TK*G
-'there?'': THR H-F AE
+'there?'': THR/H-F/AE
 'asked': SK-D
 'the': -T
-'father.': TPAER TP-PL
-''I': AE EU
+'father.': TPAER/TP-PL
+''I': AE/EU
 'am': APL
 'making': PHAEUG
 'a': AEU
 'little': HREUL
-'trough,'': TROF KW-BG AE
+'trough,'': TROF/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'child,': KHAOEULD KW-BG
-''for': AE TPOR
+'child,': KHAOEULD/KW-BG
+''for': AE/TPOR
 'father': TPAER
 'and': SKP
 'mother': PHOER
@@ -202,7 +202,7 @@ The Old Man and His Grandson
 'when': WHEPB
 'I': EU
 'am': APL
-'big.'': PWEUG TP-PL AE
+'big.'': PWEUG/TP-PL/AE
 'The': KPA/-T
 'man': PHAPB
 'and': SKP
@@ -214,12 +214,12 @@ The Old Man and His Grandson
 'other': OER
 'for': TPOR
 'a': AEU
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'and': SKP
 'presently': PREPBLT
 'began': TKPWAPB
 'to': TO
-'cry.': KRAOEU TP-PL
+'cry.': KRAOEU/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'took': TAOBG
@@ -228,7 +228,7 @@ The Old Man and His Grandson
 'grandfather': TKPWR-F
 'to': TO
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'henceforth': HEPBS/TPO*RT
 'always': AULS
@@ -236,7 +236,7 @@ The Old Man and His Grandson
 'him': HEUPL
 'eat': AOET
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'likewise': HRAOEUBG/WAOEUS
 'said': SED
@@ -248,4 +248,4 @@ The Old Man and His Grandson
 'a': AEU
 'little': HREUL
 'of': -F
-'anything.': TPHEUG TP-PL
+'anything.': TPHEUG/TP-PL

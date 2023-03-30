@@ -8,7 +8,7 @@ The Tortoise and the Birds
 'its': EUTS
 'place': PHRAEUS
 'of': -F
-'residence,': R*EPBS KW-BG
+'residence,': R*EPBS/KW-BG
 'so': SO
 'he': HE
 'asked': SK-D
@@ -20,7 +20,7 @@ The Tortoise and the Birds
 'to': TO
 'his': HEUS
 'new': TPHU
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'promising': PROPLS/-G
 'her': HER
 'a': AEU
@@ -28,7 +28,7 @@ The Tortoise and the Birds
 'reward': RE/WARD
 'for': TPOR
 'her': HER
-'trouble.': TRUBL TP-PL
+'trouble.': TRUBL/TP-PL
 'The': KPA/-T
 'Eagle': KPA/AOEG/-L
 'agreed': TKPWRAED
@@ -43,50 +43,50 @@ The Tortoise and the Birds
 'her': HER
 'talons': TAL/O*PB/-S
 'soared': SAORD
-'aloft.': A/HROFT TP-PL
+'aloft.': A/HROFT/TP-PL
 'on': OPB
 'their': THAEUR
 'way': WAEU
 'they': THE
 'met': PHET
 'a': AEU
-'Crow,': KPA/KROE KW-BG
+'Crow,': KPA/KROE/KW-BG
 'who': WHO
 'said': SED
 'to': TO
 'the': -T
-'Eagle:': KPA/AOEG/-L STPH-FPLT
-'"Tortoise': KR-GS KPA/TOR/TOS
+'Eagle:': KPA/AOEG/-L/STPH-FPLT
+'"Tortoise': KR-GS/KPA/TOR/TOS
 'is': S
 'good': TKPWAOD
-'eating."': AOEGT TP-PL KR-GS
-'"The': KR-GS KPA/-T
+'eating."': AOEGT/TP-PL/KR-GS
+'"The': KR-GS/KPA/-T
 'shell': SHEL
 'is': S
 'too': TAO
-'hard,"': HARD KW-BG KR-GS
+'hard,"': HARD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Eagle': KPA/AOEG/-L
 'in': TPH
-'reply.': RE/PHRAOEU TP-PL
-'"The': KR-GS KPA/-T
+'reply.': RE/PHRAOEU/TP-PL
+'"The': KR-GS/KPA/-T
 'rocks': ROBGS
 'will': HR
 'soon': SAOPB
 'crack': KRABG
 'the': -T
-'shell,"': SHEL KW-BG KR-GS
+'shell,"': SHEL/KW-BG/KR-GS
 'was': WAS
 'the': -T
-'Crow's': KPA/KROE AES
-'answer;': AEPBS STPH*FPLT
+'Crow's': KPA/KROE/AES
+'answer;': AEPBS/STPH*FPLT
 'and': SKP
 'the': -T
-'Eagle,': KPA/AOEG/-L KW-BG
+'Eagle,': KPA/AOEG/-L/KW-BG
 'taking': TAEUG
 'the': -T
-'hint,': HEUPBT KW-BG
+'hint,': HEUPBT/KW-BG
 'let': HRET
 'fall': TPAUL
 'the': -T
@@ -94,7 +94,7 @@ The Tortoise and the Birds
 'on': OPB
 'a': AEU
 'sharp': SHARP
-'rock,': ROBG KW-BG
+'rock,': ROBG/KW-BG
 'and': SKP
 'the': -T
 'two': TWO
@@ -105,11 +105,11 @@ The Tortoise and the Birds
 'meal': PHAOEL
 'of': -F
 'the': -T
-'Tortoise.': KPA/TOR/TOS TP-PL
+'Tortoise.': KPA/TOR/TOS/TP-PL
 'Never': KPA/TPHEFR
 'soar': SAOR
 'aloft': A/HROFT
 'on': OPB
 'an': APB
 'enemy's': EPB/PHEU/AES
-'pinions.': PEUPB/KWROPB/-S TP-PL
+'pinions.': PEUPB/KWROPB/-S/TP-PL

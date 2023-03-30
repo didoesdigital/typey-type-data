@@ -4,16 +4,16 @@ The Lion's Share
 'Lion': KPA/HRO*EUPB
 'went': WEPBT
 'once': WUPBS
-'a-hunting': AEU H-PB HUPBT/-G
+'a-hunting': AEU/H-PB/HUPBT/-G
 'along': HRAOPBG
 'with': W
 'the': -T
-'Fox,': KPA/TPOBGS KW-BG
+'Fox,': KPA/TPOBGS/KW-BG
 'the': -T
-'Jackal,': SKWRA*BG/A*L KW-BG
+'Jackal,': SKWRA*BG/A*L/KW-BG
 'and': SKP
 'the': -T
-'Wolf.': KPA/WOFL TP-PL
+'Wolf.': KPA/WOFL/TP-PL
 'They': KPA/THE
 'hunted': HUPBT/-D
 'and': SKP
@@ -25,12 +25,12 @@ The Lion's Share
 'they': THE
 'surprised': SPRAOEUFD
 'a': AEU
-'Stag,': KPA/STAG KW-BG
+'Stag,': KPA/STAG/KW-BG
 'and': SKP
 'soon': SAOPB
 'took': TAOBG
 'its': EUTS
-'life.': HRAOEUF TP-PL
+'life.': HRAOEUF/TP-PL
 'Then': KPA/THEPB
 'came': KAEUPL
 'the': -T
@@ -40,14 +40,14 @@ The Lion's Share
 'spoil': SPOEUL
 'should': SHO
 'be': -B
-'divided.': TKWAOEUTD TP-PL
-'"Quarter': KR-GS KPA/KWAR/TER
+'divided.': TKWAOEUTD/TP-PL
+'"Quarter': KR-GS/KPA/KWAR/TER
 'me': PHE
 'this': TH
-'Stag,"': KPA/STAG KW-BG KR-GS
+'Stag,"': KPA/STAG/KW-BG/KR-GS
 'roared': RAORD
 'the': -T
-'Lion;': KPA/HRO*EUPB STPH*FPLT
+'Lion;': KPA/HRO*EUPB/STPH*FPLT
 'so': SO
 'the': -T
 'other': OER
@@ -59,7 +59,7 @@ The Lion's Share
 'it': T
 'into': TPHAO
 'four': TPOUR
-'parts.': PARTS TP-PL
+'parts.': PARTS/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'Lion': KPA/HRO*EUPB
@@ -73,7 +73,7 @@ The Lion's Share
 'carcass': KAR/KAS
 'and': SKP
 'pronounced': PROUPBS/-D
-'judgment:': SKWRUPLT STPH-FPLT
+'judgment:': SKWRUPLT/STPH-FPLT
 'The': KPA/-T
 'first': TPEUFRT
 'quarter': KWAR/TER
@@ -86,13 +86,13 @@ The Lion's Share
 'as': AS
 'King': KO*EUPBG
 'of': -F
-'Beasts;': KPA/PWAOEFT/-S STPH*FPLT
+'Beasts;': KPA/PWAOEFT/-S/STPH*FPLT
 'the': -T
 'second': SEBGD
 'is': S
 'mine': PHAOEUPB
 'as': AS
-'arbiter;': ARB/TER STPH*FPLT
+'arbiter;': ARB/TER/STPH*FPLT
 'another': TPHOER
 'share': SHAEUR
 'comes': KOPLS
@@ -103,17 +103,17 @@ The Lion's Share
 'part': PART
 'in': TPH
 'the': -T
-'chase;': KHAEUS STPH*FPLT
+'chase;': KHAEUS/STPH*FPLT
 'and': SKP
 'as': AS
 'for': TPOR
 'the': -T
 'fourth': TPO*URT
-'quarter,': KWAR/TER KW-BG
-'well,': WEL KW-BG
+'quarter,': KWAR/TER/KW-BG
+'well,': WEL/KW-BG
 'as': AS
 'for': TPOR
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'I': EU
 'should': SHO
 'like': HRAOEUBG
@@ -129,7 +129,7 @@ The Lion's Share
 'a': AEU
 'paw': PAU
 'upon': POPB
-'it."': T TP-PL KR-GS
+'it."': T/TP-PL/KR-GS
 '"Humph,"': KR-GS/H*UFRP/KW-RBGTS
 'grumbled': TKPWRUPL/-BLD
 'the': -T
@@ -143,14 +143,14 @@ The Lion's Share
 'tail': TAEUL
 'between': TWAOEPB
 'his': HEUS
-'legs;': HREGS STPH*FPLT
+'legs;': HREGS/STPH*FPLT
 'but': PWUT
 'he': HE
 'spoke': SPOEBG
 'in': TPH
 'a': AEU
 'low': HROE
-'growl."': TKPWROUL TP-PL KR-GS
+'growl."': TKPWROUL/TP-PL/KR-GS
 'You': KPA/U
 'may': PHAE
 'share': SHAEUR
@@ -158,11 +158,11 @@ The Lion's Share
 'labours': HRAEUBS/A*U
 'of': -F
 'the': -T
-'great,': TKPWRAET KW-BG
+'great,': TKPWRAET/KW-BG
 'but': PWUT
 'you': U
 'will': HR
 'not': TPHOT
 'share': SHAEUR
 'the': -T
-'spoil."': SPOEUL TP-PL KR-GS
+'spoil."': SPOEUL/TP-PL/KR-GS

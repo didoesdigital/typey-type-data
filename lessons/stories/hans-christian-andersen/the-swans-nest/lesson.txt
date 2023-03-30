@@ -11,8 +11,8 @@ The Swan's Nest
 'lies': HRAO*EUS
 'an': APB
 'old': OLD
-'swan's': SWAPB AES
-'nest,': TPHEFT KW-BG
+'swan's': SWAPB/AES
+'nest,': TPHEFT/KW-BG
 'wherein': WR-PB
 'swans': SWAPBS
 'are': R
@@ -24,7 +24,7 @@ The Swan's Nest
 'that': THA
 'shall': SHAL
 'never': TPHEFR
-'die.': TKAOEU TP-PL
+'die.': TKAOEU/TP-PL
 'In': KPA/TPH
 'olden': OLD/*EPB
 'times': TAOEUPLS
@@ -41,13 +41,13 @@ The Swan's Nest
 'green': TKPWRAOEPB
 'plains': PHRAEUPBS
 'around': ARPBD
-'Milan,': PHEUL/A*PB KW-BG
+'Milan,': PHEUL/A*PB/KW-BG
 'where': W-R
 'it': T
 'was': WAS
 'delightful': TKHRAOEUT/-FL
 'to': TO
-'dwell.': TKWEL TP-PL
+'dwell.': TKWEL/TP-PL
 'This': KPA/TH
 'flight': TPHRAOEUT
 'of': -F
@@ -55,19 +55,19 @@ The Swan's Nest
 'men': PHEPB
 'called': KAULD
 'the': -T
-'Lombards.': HROPL/PWARD/-S TP-PL
+'Lombards.': HROPL/PWARD/-S/TP-PL
 'Another': KPA/TPHOER
-'flock,': TPHROBG KW-BG
+'flock,': TPHROBG/KW-BG
 'with': W
 'shining': SHAOEUPBG
 'plumage': PHRAOUPL/APBLG
 'and': SKP
 'honest': HOPBS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'soared': SAORD
 'southward': SO*UT/WARD
 'to': TO
-'Byzantium;': PWEUZ/APBT/KWRUPL STPH*FPLT
+'Byzantium;': PWEUZ/APBT/KWRUPL/STPH*FPLT
 'the': -T
 'swans': SWAPBS
 'established': STAEBD
@@ -76,8 +76,8 @@ The Swan's Nest
 'close': KHROES
 'by': PWEU
 'the': -T
-'Emperor's': KPA/EPL/ROR AES
-'throne,': THRO*EPB KW-BG
+'Emperor's': KPA/EPL/ROR/AES
+'throne,': THRO*EPB/KW-BG
 'and': SKP
 'spread': SPRED
 'their': THAEUR
@@ -88,13 +88,13 @@ The Swan's Nest
 'shields': SHAOELDZ
 'to': TO
 'protect': PREBGT
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'They': KPA/THE
 'received': SAOEFD
 'the': -T
 'name': TPHAEUPL
 'of': -F
-'Varangians.': xxx Varangians TP-PL
+'Varangians.': xxx Varangians/TP-PL
 'On': KPA/OPB
 'the': -T
 'coast': KOEFT
@@ -105,10 +105,10 @@ The Swan's Nest
 'a': AEU
 'cry': KRAOEU
 'of': -F
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'for': TPOR
 'the': -T
-'blood-stained': PWHRAOD H-PB STAEUPBD
+'blood-stained': PWHRAOD/H-PB/STAEUPBD
 'swans': SWAPBS
 'that': THA
 'came': KAEUPL
@@ -119,18 +119,18 @@ The Swan's Nest
 'fire': TPAOEUR
 'under': TPH-PB
 'their': THAEUR
-'wings;': WEUPBGS STPH*FPLT
+'wings;': WEUPBGS/STPH*FPLT
 'and': SKP
 'the': -T
 'people': PAOEPL
-'prayed,': PRAEUD KW-BG
-'"Heaven': KR-GS KPA/HEFPB
+'prayed,': PRAEUD/KW-BG
+'"Heaven': KR-GS/KPA/HEFPB
 'deliver': TKHREUFR
 'us': US
 'from': TPR
 'the': -T
 'wild': WAOEULD
-'Northmen."': xxx Northmen TP-PL KR-GS
+'Northmen."': xxx Northmen/TP-PL/KR-GS
 'On': KPA/OPB
 'the': -T
 'fresh': TPRERB
@@ -144,7 +144,7 @@ The Swan's Nest
 'by': PWEU
 'the': -T
 'open': OEP
-'seashore,': SAE/SHOR KW-BG
+'seashore,': SAE/SHOR/KW-BG
 'with': W
 'the': -T
 'crown': KROUPB
@@ -153,7 +153,7 @@ The Swan's Nest
 'kingdoms': KEUPBG/TKOPL/-S
 'on': OPB
 'his': HEUS
-'head;': HED STPH*FPLT
+'head;': HED/STPH*FPLT
 'and': SKP
 'he': HE
 'stretched': STREFPD
@@ -163,7 +163,7 @@ The Swan's Nest
 'sceptre': SEP/TER/A*U
 'over': OEFR
 'the': -T
-'land.': HRAPBD TP-PL
+'land.': HRAPBD/TP-PL
 'The': KPA/-T
 'heathens': HAO*ET/-PBS
 'on': OPB
@@ -172,7 +172,7 @@ The Swan's Nest
 'coast': KOEFT
 'bent': PWEPBT
 'the': -T
-'knee,': TPHAOE KW-BG
+'knee,': TPHAOE/KW-BG
 'and': SKP
 'the': -T
 'Danish': TKAEUPB/EURB
@@ -188,16 +188,16 @@ The Swan's Nest
 'with': W
 'the': -T
 'drawn': TKRAUPB
-'sword.': SOERD TP-PL
-'"That': KR-GS KPA/THA
+'sword.': SOERD/TP-PL
+'"That': KR-GS/KPA/THA
 'was': WAS
 'in': TPH
 'the': -T
 'very': SRE
 'old': OLD
-'times,"': TAOEUPLS KW-BG KR-GS
+'times,"': TAOEUPLS/KW-BG/KR-GS
 'you': U
-'say.': SAEU TP-PL
+'say.': SAEU/TP-PL
 'In': KPA/TPH
 'later': HRAEURT
 'days': TKAEUS
@@ -211,40 +211,40 @@ The Swan's Nest
 'fly': TPHRAOEU
 'from': TPR
 'the': -T
-'nest.': TPHEFT TP-PL
+'nest.': TPHEFT/TP-PL
 'A': KPA/AEU
 'light': HRAOEUT
 'shone': SHO*EPB
 'far': TPAR
 'through': THRU
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'far': TPAR
 'over': OEFR
 'the': -T
 'lands': HRAPBDZ
 'of': -F
 'the': -T
-'earth;': *ERT STPH*FPLT
+'earth;': *ERT/STPH*FPLT
 'the': -T
-'swan,': SWAPB KW-BG
+'swan,': SWAPB/KW-BG
 'with': W
 'the': -T
 'strong': STROPBG
 'beating': PWAEGT
 'of': -F
 'his': HEUS
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'scattered': SKAT/ERD
 'the': -T
 'twilight': TWAOEULGT
-'mists,': PHEUFT/-S KW-BG
+'mists,': PHEUFT/-S/KW-BG
 'and': SKP
 'the': -T
 'starry': STAR/REU
 'sky': SKAOEU
 'was': WAS
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -255,22 +255,22 @@ The Swan's Nest
 'nearer': TPHAOER/*ER
 'to': TO
 'the': -T
-'earth.': *ERT TP-PL
+'earth.': *ERT/TP-PL
 'That': KPA/THA
 'was': WAS
 'the': -T
 'swan': SWAPB
 'Tycho': xxx Tycho
-'Brahe.': xxx Brahe TP-PL
-'"Yes,': KR-GS KPA/KWRE KW-BG
-'then,"': THEPB KW-BG KR-GS
+'Brahe.': xxx Brahe/TP-PL
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'then,"': THEPB/KW-BG/KR-GS
 'you': U
-'say;': SAEU STPH*FPLT
-'"but': KR-GS PWUT
+'say;': SAEU/STPH*FPLT
+'"but': KR-GS/PWUT
 'in': TPH
 'our': OUR
 'own': OEPB
-'days?"': TKAEUS H-F KR-GS
+'days?"': TKAEUS/H-F/KR-GS
 'We': KPA/WE
 'have': SR
 'seen': SAOEPB
@@ -281,7 +281,7 @@ The Swan's Nest
 'by': PWEU
 'in': TPH
 'glorious': TKPWHRORS
-'flight.': TPHRAOEUT TP-PL
+'flight.': TPHRAOEUT/TP-PL
 'One': KPA/WUPB
 'let': HRET
 'his': HEUS
@@ -293,14 +293,14 @@ The Swan's Nest
 'of': -F
 'the': -T
 'golden': TKPWOELD/*EPB
-'harp,': HARP KW-BG
+'harp,': HARP/KW-BG
 'and': SKP
 'it': T
 'resounded': RE/SO*UPBD/-D
 'through': THRU
 'the': -T
-'North.': TPHOERT TP-PL
-'Norway's': TPHOR/WAEU AES
+'North.': TPHOERT/TP-PL
+'Norway's': TPHOR/WAEU/AES
 'mountains': PHOUPB/TAEUPBS
 'seemed': SAOEPLD
 'to': TO
@@ -311,7 +311,7 @@ The Swan's Nest
 'sunlight': SULGT
 'of': -F
 'former': TPRORPL
-'days;': TKAEUS STPH*FPLT
+'days;': TKAEUS/STPH*FPLT
 'there': THR
 'was': WAS
 'a': AEU
@@ -322,25 +322,25 @@ The Swan's Nest
 'trees': TRAOES
 'and': SKP
 'the': -T
-'birches;': PWEUR/-FPS STPH*FPLT
+'birches;': PWEUR/-FPS/STPH*FPLT
 'the': -T
 'gods': TKPWODZ
 'of': -F
 'the': -T
-'North,': TPHOERT KW-BG
+'North,': TPHOERT/KW-BG
 'the': -T
-'heroes,': HOEURS KW-BG
+'heroes,': HOEURS/KW-BG
 'and': SKP
 'the': -T
 'noble': TPHOEBL
-'women,': WEUPL KW-BG
+'women,': WEUPL/KW-BG
 'showed': SHOED
 'themselves': TH*EPLS
 'in': TPH
 'the': -T
 'dark': TKARBG
 'forest': TPOEFRT
-'depths.': TK*EPTS TP-PL
+'depths.': TK*EPTS/TP-PL
 'We': KPA/WE
 'have': SR
 'seen': SAOEPB
@@ -353,11 +353,11 @@ The Swan's Nest
 'upon': POPB
 'the': -T
 'marble': PHAERBL
-'crag,': KRAG KW-BG
+'crag,': KRAG/KW-BG
 'so': SO
 'that': THA
 'it': T
-'burst,': PWUFRT KW-BG
+'burst,': PWUFRT/KW-BG
 'and': SKP
 'the': -T
 'forms': TPORPLS
@@ -372,7 +372,7 @@ The Swan's Nest
 'to': TO
 'the': -T
 'sunny': SAOUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'men': PHEPB
 'in': TPH
@@ -388,7 +388,7 @@ The Swan's Nest
 'behold': PWE/HOLD
 'these': THEZ
 'mighty': PHAOEUT/KWREU
-'forms.': TPORPLS TP-PL
+'forms.': TPORPLS/TP-PL
 'We': KPA/WE
 'have': SR
 'seen': SAOEPB
@@ -409,7 +409,7 @@ The Swan's Nest
 'country': KREU
 'round': ROUPBD
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -422,14 +422,14 @@ The Swan's Nest
 'from': TPR
 'land': HRAPBD
 'to': TO
-'land.': HRAPBD TP-PL
+'land.': HRAPBD/TP-PL
 'And': AFPBD
 'our': OUR
 'Lord': HRO*RD
 'loves': HRUFS
 'the': -T
 'old': OLD
-'swan's': SWAPB AES
+'swan's': SWAPB/AES
 'nest': TPHEFT
 'between': TWAOEPB
 'the': -T
@@ -437,7 +437,7 @@ The Swan's Nest
 'and': SKP
 'the': -T
 'North': TPHOERT
-'Sea.': KPA/SAE TP-PL
+'Sea.': KPA/SAE/TP-PL
 'And': AFPBD
 'when': WHEPB
 'the': -T
@@ -450,7 +450,7 @@ The Swan's Nest
 'air': AEUR
 'to': TO
 'destroy': STKROEU
-'it,': T KW-BG
+'it,': T/KW-BG
 'even': AOEPB
 'the': -T
 'callow': KAL/HROE
@@ -465,7 +465,7 @@ The Swan's Nest
 'margin': PHARPB
 'of': -F
 'the': -T
-'nest,': TPHEFT KW-BG
+'nest,': TPHEFT/KW-BG
 'and': SKP
 'though': THOE
 'their': THAEUR
@@ -477,10 +477,10 @@ The Swan's Nest
 'that': THA
 'their': THAEUR
 'blood': PWHRAOD
-'flows,': TPHROES KW-BG
+'flows,': TPHROES/KW-BG
 'they': THE
 'bear': PWAER
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'strike': STRAOEUBG
 'with': W
@@ -488,18 +488,18 @@ The Swan's Nest
 'wings': WEUPBGS
 'and': SKP
 'their': THAEUR
-'claws.': KHRAU/-S TP-PL
+'claws.': KHRAU/-S/TP-PL
 'Centuries': KPA/KREPBT/REUS
 'will': HR
 'pass': PAS
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'swans': SWAPBS
 'will': HR
 'fly': TPHRAOEU
 'forth': TPO*RT
 'from': TPR
 'the': -T
-'nest,': TPHEFT KW-BG
+'nest,': TPHEFT/KW-BG
 'men': PHEPB
 'will': HR
 'see': SAOE
@@ -509,7 +509,7 @@ The Swan's Nest
 'them': THEPL
 'in': TPH
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'before': PW-FR
 'it': T
 'shall': SHAL
@@ -519,15 +519,15 @@ The Swan's Nest
 'spirit': SPEURT
 'and': SKP
 'in': TPH
-'truth,': TRAO*UT KW-BG
-'"This': KR-GS KPA/TH
+'truth,': TRAO*UT/KW-BG
+'"This': KR-GS/KPA/TH
 'is': S
 'the': -T
 'last': HRAFT
-'swan—the': SWAPB EPL/TKA*RB -T
+'swan—the': SWAPB/EPL/TKA*RB/-T
 'last': HRAFT
 'song': SOPBG
 'from': TPR
 'the': -T
-'swan's': SWAPB AES
-'nest."': TPHEFT TP-PL KR-GS
+'swan's': SWAPB/AES
+'nest."': TPHEFT/TP-PL/KR-GS

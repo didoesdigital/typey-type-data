@@ -15,7 +15,7 @@ The Lion and the Statue
 'and': SKP
 'lions': HRAOEU/O*PBS
 'in': TPH
-'general.': SKWREPBL TP-PL
+'general.': SKWREPBL/TP-PL
 'The': KPA/-T
 'Man': KPA/PHAPB
 'contended': KAUPB/TEPBD/-D
@@ -33,14 +33,14 @@ The Lion and the Statue
 'of': -F
 'their': THAEUR
 'greater': TKPWRAERT
-'intelligence.': SPWEPBLGS TP-PL
-'"Come': KR-GS KPA/KOPL
+'intelligence.': SPWEPBLGS/TP-PL
+'"Come': KR-GS/KPA/KOPL
 'now': TPHOU
 'with': W
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'he': HE
-'cried,': KRAOEUD KW-BG
-'"and': KR-GS SKP
+'cried,': KRAOEUD/KW-BG
+'"and': KR-GS/SKP
 'I': EU
 'will': HR
 'soon': SAOPB
@@ -48,7 +48,7 @@ The Lion and the Statue
 'that': THA
 'I': EU
 'am': APL
-'right."': RAOEUT TP-PL KR-GS
+'right."': RAOEUT/TP-PL/KR-GS
 'So': KPA/SO
 'he': HE
 'took': TAOBG
@@ -72,18 +72,18 @@ The Lion and the Statue
 'his': HEUS
 'mouth': PHO*UT
 'in': TPH
-'two.': TWO TP-PL
-'"That': KR-GS KPA/THA
+'two.': TWO/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'all': AUL
 'very': SRE
-'well,"': WEL KW-BG KR-GS
+'well,"': WEL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Lion,': KPA/HRO*EUPB KW-BG
-'"but': KR-GS PWUT
+'Lion,': KPA/HRO*EUPB/KW-BG
+'"but': KR-GS/PWUT
 'proves': PROFS
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
@@ -92,7 +92,7 @@ The Lion and the Statue
 'who': WHO
 'made': PHAED
 'the': -T
-'statue."': STOEUT TP-PL KR-GS
+'statue."': STOEUT/TP-PL/KR-GS
 'We': KPA/WE
 'can': K
 'easily': AOELS
@@ -103,4 +103,4 @@ The Lion and the Statue
 'wish': WEURB
 'them': THEPL
 'to': TO
-'be.': -B TP-PL
+'be.': -B/TP-PL

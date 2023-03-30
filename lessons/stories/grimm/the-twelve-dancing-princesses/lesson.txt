@@ -8,7 +8,7 @@ The Twelve Dancing Princesses
 'had': H
 'twelve': TWEFL
 'beautiful': PWAOUFL
-'daughters.': TKAURS TP-PL
+'daughters.': TKAURS/TP-PL
 'They': KPA/THE
 'slept': SHREPT
 'in': TPH
@@ -17,20 +17,20 @@ The Twelve Dancing Princesses
 'all': AUL
 'in': TPH
 'one': WUPB
-'room;': RAOPL STPH*FPLT
+'room;': RAOPL/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'they': THE
 'went': WEPBT
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'the': -T
 'doors': TKAORS
 'were': WR
 'shut': SHUT
 'and': SKP
 'locked': HROBGD
-'up;': UP STPH*FPLT
+'up;': UP/STPH*FPLT
 'but': PWUT
 'every': EF
 'morning': PHORPBG
@@ -51,7 +51,7 @@ The Twelve Dancing Princesses
 'danced': TKAPBS/-D
 'in': TPH
 'all': AUL
-'night;': TPHAOEUT STPH*FPLT
+'night;': TPHAOEUT/STPH*FPLT
 'and': SKP
 'yet': KWRET
 'nobody': TPHOEB
@@ -60,12 +60,12 @@ The Twelve Dancing Princesses
 'out': OUT
 'how': HOU
 'it': T
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'or': OR
 'where': W-R
 'they': THE
 'had': H
-'been.': PW-PB TP-PL
+'been.': PW-PB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
@@ -75,7 +75,7 @@ The Twelve Dancing Princesses
 'to': TO
 'all': AUL
 'the': -T
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'that': THA
 'if': TP
 'any': TPHEU
@@ -83,7 +83,7 @@ The Twelve Dancing Princesses
 'could': KO
 'discover': SKOFR
 'the': -T
-'secret,': SKRET KW-BG
+'secret,': SKRET/KW-BG
 'and': SKP
 'find': TPAOEUPBD
 'out': OUT
@@ -96,7 +96,7 @@ The Twelve Dancing Princesses
 'danced': TKAPBS/-D
 'in': TPH
 'the': -T
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'he': HE
 'should': SHO
 'have': SR
@@ -107,40 +107,40 @@ The Twelve Dancing Princesses
 'best': PWEFT
 'for': TPOR
 'his': HEUS
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'should': SHO
 'be': -B
 'king': KEUPBG
 'after': AF
 'his': HEUS
-'death;': TK*T STPH*FPLT
+'death;': TK*T/STPH*FPLT
 'but': PWUT
 'whoever': WHOFR
 'tried': TRAOEUD
 'and': SKP
 'did': TK
 'not': TPHOT
-'succeed,': SKAOED KW-BG
+'succeed,': SKAOED/KW-BG
 'after': AF
 'three': THRAOE
 'days': TKAEUS
 'and': SKP
-'nights,': TPHAOEUTS KW-BG
+'nights,': TPHAOEUTS/KW-BG
 'should': SHO
 'be': -B
 'put': PUT
 'to': TO
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'A': KPA/AEU
 'king's': KEUPBG/AES
 'son': SOPB
 'soon': SAOPB
-'came.': KAEUPL TP-PL
+'came.': KAEUPL/TP-PL
 'He': KPA/HE
 'was': WAS
 'well': WEL
-'entertained,': EPBT/TAEUPBD KW-BG
+'entertained,': EPBT/TAEUPBD/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -161,7 +161,7 @@ The Twelve Dancing Princesses
 'in': TPH
 'their': THAEUR
 'twelve': TWEFL
-'beds.': PWEDZ TP-PL
+'beds.': PWEDZ/TP-PL
 'There': KPA/THR
 'he': HE
 'was': WAS
@@ -173,8 +173,8 @@ The Twelve Dancing Princesses
 'they': THE
 'went': WEPBT
 'to': TO
-'dance;': TKAPBS STPH*FPLT
-'and,': SKP KW-BG
+'dance;': TKAPBS/STPH*FPLT
+'and,': SKP/KW-BG
 'in': TPH
 'order': ORD
 'that': THA
@@ -184,7 +184,7 @@ The Twelve Dancing Princesses
 'without': WOUT
 'his': HEUS
 'hearing': HAERG
-'it,': T KW-BG
+'it,': T/KW-BG
 'the': -T
 'door': TKAOR
 'of': -F
@@ -192,14 +192,14 @@ The Twelve Dancing Princesses
 'chamber': KHAEURPL
 'was': WAS
 'left': HREFT
-'open.': OEP TP-PL
+'open.': OEP/TP-PL
 'But': KPA/PWUT
 'the': -T
 'king's': KEUPBG/AES
 'son': SOPB
 'soon': SAOPB
 'fell': TPEL
-'asleep;': A/SHRAOEP STPH*FPLT
+'asleep;': A/SHRAOEP/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -215,7 +215,7 @@ The Twelve Dancing Princesses
 'had': H
 'all': AUL
 'been': PW-PB
-'dancing,': TKAPBS/-G KW-BG
+'dancing,': TKAPBS/-G/KW-BG
 'for': TPOR
 'the': -T
 'soles': SOELS
@@ -225,7 +225,7 @@ The Twelve Dancing Princesses
 'were': WR
 'full': TPUL
 'of': -F
-'holes.': HOELS TP-PL
+'holes.': HOELS/TP-PL
 'The': KPA/-T
 'same': SAEUPL
 'thing': THEUPBG
@@ -234,7 +234,7 @@ The Twelve Dancing Princesses
 'second': SEBGD
 'and': SKP
 'third': THEURD
-'night:': TPHAOEUT STPH-FPLT
+'night:': TPHAOEUT/STPH-FPLT
 'so': SO
 'the': -T
 'king': KEUPBG
@@ -244,19 +244,19 @@ The Twelve Dancing Princesses
 'to': TO
 'be': -B
 'cut': KUT
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'After': KPA/AF
 'him': HEUPL
 'came': KAEUPL
 'several': SEFRL
-'others;': OERS STPH*FPLT
+'others;': OERS/STPH*FPLT
 'but': PWUT
 'they': THE
 'had': H
 'all': AUL
 'the': -T
 'same': SAEUPL
-'luck,': HRUBG KW-BG
+'luck,': HRUBG/KW-BG
 'and': SKP
 'all': AUL
 'lost': HRO*S
@@ -265,14 +265,14 @@ The Twelve Dancing Princesses
 'in': TPH
 'the': -T
 'same': SAEUPL
-'manner.': PHAERPB TP-PL
+'manner.': PHAERPB/TP-PL
 'Now': KPA/TPHOU
 'it': T
 'chanced': KHAPBS/-D
 'that': THA
 'an': APB
 'old': OLD
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
@@ -283,7 +283,7 @@ The Twelve Dancing Princesses
 'could': KO
 'fight': TPAOEUT
 'no': TPHO
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'passed': PAFD
 'through': THRU
 'the': -T
@@ -291,7 +291,7 @@ The Twelve Dancing Princesses
 'where': W-R
 'this': TH
 'king': KEUPBG
-'reigned:': RAEPB/-D STPH-FPLT
+'reigned:': RAEPB/-D/STPH-FPLT
 'and': SKP
 'as': AS
 'he': HE
@@ -299,36 +299,36 @@ The Twelve Dancing Princesses
 'travelling': TRAFL/HREUPBG
 'through': THRU
 'a': AEU
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'he': HE
 'met': PHET
 'an': APB
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'who': WHO
 'asked': SK-D
 'him': HEUPL
 'where': W-R
 'he': HE
 'was': WAS
-'going.': TKPW-G TP-PL
-''I': AE EU
+'going.': TKPW-G/TP-PL
+''I': AE/EU
 'hardly': HA*RLD
 'know': TPHOE
 'where': W-R
 'I': EU
 'am': APL
-'going,': TKPW-G KW-BG
+'going,': TKPW-G/KW-BG
 'or': OR
 'what': WHA
 'I': EU
 'had': H
 'better': PWOERT
-'do,'': TKO KW-BG AE
+'do,'': TKO/KW-BG/AE
 'said': SED
 'the': -T
-'soldier;': SHRERPBLG STPH*FPLT
-''but': AE PWUT
+'soldier;': SHRERPBLG/STPH*FPLT
+''but': AE/PWUT
 'I': EU
 'think': THEU
 'I': EU
@@ -345,7 +345,7 @@ The Twelve Dancing Princesses
 'that': THA
 'the': -T
 'princesses': PREUPB/SES/-S
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'and': SKP
 'then': THEPB
 'in': TPH
@@ -354,18 +354,18 @@ The Twelve Dancing Princesses
 'might': PHAOEUT
 'be': -B
 'a': AEU
-'king.'': KEUPBG TP-PL AE
-''Well,'': AE KPA/WEL KW-BG AE
+'king.'': KEUPBG/TP-PL/AE
+''Well,'': AE/KPA/WEL/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'dame,': TKAEUPL KW-BG
-''that': AE THA
+'dame,': TKAEUPL/KW-BG
+''that': AE/THA
 'is': S
 'no': TPHO
 'very': SRE
 'hard': HARD
-'task:': TAFBG STPH-FPLT
+'task:': TAFBG/STPH-FPLT
 'only': OEPBL
 'take': TAEUBG
 'care': KAEUR
@@ -387,7 +387,7 @@ The Twelve Dancing Princesses
 'you': U
 'in': TPH
 'the': -T
-'evening;': AOEPBG STPH*FPLT
+'evening;': AOEPBG/STPH*FPLT
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -399,16 +399,16 @@ The Twelve Dancing Princesses
 'to': TO
 'be': -B
 'fast': TPAFT
-'asleep.'': A/SHRAOEP TP-PL AE
+'asleep.'': A/SHRAOEP/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
-'cloak,': KHROEBG KW-BG
+'cloak,': KHROEBG/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''As': AE KPA/AS
+'said,': SED/KW-BG
+''As': AE/KPA/AS
 'soon': SAOPB
 'as': AS
 'you': U
@@ -418,7 +418,7 @@ The Twelve Dancing Princesses
 'you': U
 'will': HR
 'become': PW-BG
-'invisible,': EUPB/SREUBL KW-BG
+'invisible,': EUPB/SREUBL/KW-BG
 'and': SKP
 'you': U
 'will': HR
@@ -431,7 +431,7 @@ The Twelve Dancing Princesses
 'princesses': PREUPB/SES/-S
 'wherever': W-FR
 'they': THE
-'go.'': TKPW TP-PL AE
+'go.'': TKPW/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'soldier': SHRERPBLG
@@ -439,19 +439,19 @@ The Twelve Dancing Princesses
 'all': AUL
 'this': TH
 'good': TKPWAOD
-'counsel,': KOUPB KW-BG
+'counsel,': KOUPB/KW-BG
 'he': HE
 'determined': TKERPLD
 'to': TO
 'try': TREU
 'his': HEUS
-'luck:': HRUBG STPH-FPLT
+'luck:': HRUBG/STPH-FPLT
 'so': SO
 'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'said': SED
 'he': HE
@@ -460,7 +460,7 @@ The Twelve Dancing Princesses
 'to': TO
 'undertake': UPBD/TAEUBG
 'the': -T
-'task.': TAFBG TP-PL
+'task.': TAFBG/TP-PL
 'He': KPA/HE
 'was': WAS
 'as': AS
@@ -470,7 +470,7 @@ The Twelve Dancing Princesses
 'the': -T
 'others': OERS
 'had': H
-'been,': PW-PB KW-BG
+'been,': PW-PB/KW-BG
 'and': SKP
 'the': -T
 'king': KEUPBG
@@ -481,7 +481,7 @@ The Twelve Dancing Princesses
 'to': TO
 'be': -B
 'given': TKPWEUFPB
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -493,7 +493,7 @@ The Twelve Dancing Princesses
 'to': TO
 'the': -T
 'outer': OURT
-'chamber.': KHAEURPL TP-PL
+'chamber.': KHAEURPL/TP-PL
 'Just': KPA/SKWRUFT
 'as': AS
 'he': HE
@@ -501,7 +501,7 @@ The Twelve Dancing Princesses
 'going': TKPW-G
 'to': TO
 'lie': HRAOEU
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'the': -T
 'eldest': ELD/EFT
 'of': -F
@@ -512,7 +512,7 @@ The Twelve Dancing Princesses
 'a': AEU
 'cup': KUP
 'of': -F
-'wine;': WAOEUPB STPH*FPLT
+'wine;': WAOEUPB/STPH*FPLT
 'but': PWUT
 'the': -T
 'soldier': SHRERPBLG
@@ -520,14 +520,14 @@ The Twelve Dancing Princesses
 'it': T
 'all': AUL
 'away': WA*EU
-'secretly,': SKRELT KW-BG
+'secretly,': SKRELT/KW-BG
 'taking': TAEUG
 'care': KAEUR
 'not': TPHOT
 'to': TO
 'drink': TKREU
 'a': AEU
-'drop.': TKROP TP-PL
+'drop.': TKROP/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'laid': HRAEUD
@@ -535,7 +535,7 @@ The Twelve Dancing Princesses
 'down': TKOUPB
 'on': OPB
 'his': HEUS
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'in': TPH
 'a': AEU
@@ -551,7 +551,7 @@ The Twelve Dancing Princesses
 'he': HE
 'was': WAS
 'fast': TPAFT
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'twelve': TWEFL
@@ -560,12 +560,12 @@ The Twelve Dancing Princesses
 'this': TH
 'they': THE
 'laughed': HRAFD
-'heartily;': HART/HREU STPH*FPLT
+'heartily;': HART/HREU/STPH*FPLT
 'and': SKP
 'the': -T
 'eldest': ELD/EFT
-'said,': SED KW-BG
-''This': AE KPA/TH
+'said,': SED/KW-BG
+''This': AE/KPA/TH
 'fellow': TP*EL
 'too': TAO
 'might': PHAOEUT
@@ -580,7 +580,7 @@ The Twelve Dancing Princesses
 'life': HRAOEUF
 'in': TPH
 'this': TH
-'way!'': WAEU SKHRAPL AE
+'way!'': WAEU/SKHRAPL/AE
 'Then': KPA/THEPB
 'they': THE
 'rose': ROEZ
@@ -590,20 +590,20 @@ The Twelve Dancing Princesses
 'their': THAEUR
 'drawers': TKRAURS
 'and': SKP
-'boxes,': PWOBGSZ KW-BG
+'boxes,': PWOBGSZ/KW-BG
 'and': SKP
 'took': TAOBG
 'out': OUT
 'all': AUL
 'their': THAEUR
 'fine': TPAOEUPB
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'dressed': TKREFD
 'themselves': TH*EPLS
 'at': AT
 'the': -T
-'glass,': TKPWHRAS KW-BG
+'glass,': TKPWHRAS/KW-BG
 'and': SKP
 'skipped': SKEUPD
 'about': PW
@@ -614,12 +614,12 @@ The Twelve Dancing Princesses
 'eager': AOERG
 'to': TO
 'begin': TKPWEUPB
-'dancing.': TKAPBS/-G TP-PL
+'dancing.': TKAPBS/-G/TP-PL
 'But': KPA/PWUT
 'the': -T
 'youngest': KWRUPBG/EFT
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'don't': TKOEPBT
 'know': TPHOE
 'how': HOU
@@ -633,7 +633,7 @@ The Twelve Dancing Princesses
 'I': EU
 'feel': TPAOEL
 'very': SRE
-'uneasy;': UPB/EZ STPH*FPLT
+'uneasy;': UPB/EZ/STPH*FPLT
 'I': EU
 'am': APL
 'sure': SHUR
@@ -641,33 +641,33 @@ The Twelve Dancing Princesses
 'mischance': PHEUZ/KHAPBS
 'will': HR
 'befall': PWE/TPAUL
-'us.'': US TP-PL AE
-''You': AE KPA/U
-'simpleton,'': S*EUPL/TO*PB KW-BG AE
+'us.'': US/TP-PL/AE
+''You': AE/KPA/U
+'simpleton,'': S*EUPL/TO*PB/KW-BG/AE
 'said': SED
 'the': -T
-'eldest,': ELD/EFT KW-BG
-''you': AE U
+'eldest,': ELD/EFT/KW-BG
+''you': AE/U
 'are': R
 'always': AULS
-'afraid;': A/TPRAEUD STPH*FPLT
+'afraid;': A/TPRAEUD/STPH*FPLT
 'have': SR
 'you': U
 'forgotten': TPAURGTD
 'how': HOU
 'many': PHAEPB
-'kings'': KEUPBGS AE
+'kings'': KEUPBGS/AE
 'sons': SOPBS
 'have': SR
 'already': HR-R
 'watched': WAFPD
 'in': TPH
-'vain?': SRA*EUPB H-F
+'vain?': SRA*EUPB/H-F
 'And': AFPBD
 'as': AS
 'for': TPOR
 'this': TH
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'even': AOEPB
 'if': TP
 'I': EU
@@ -677,43 +677,43 @@ The Twelve Dancing Princesses
 'him': HEUPL
 'his': HEUS
 'sleeping': SHRAOEPG
-'draught,': TKRAUFT KW-BG
+'draught,': TKRAUFT/KW-BG
 'he': HE
 'would': WO
 'have': SR
 'slept': SHREPT
 'soundly': SOUPBD/HREU
-'enough.'': TPHUF TP-PL AE
+'enough.'': TPHUF/TP-PL/AE
 'When': KPA/WHEPB
 'they': THE
 'were': WR
 'all': AUL
-'ready,': R-D KW-BG
+'ready,': R-D/KW-BG
 'they': THE
 'went': WEPBT
 'and': SKP
 'looked': HRAOBGD
 'at': AT
 'the': -T
-'soldier;': SHRERPBLG STPH*FPLT
+'soldier;': SHRERPBLG/STPH*FPLT
 'but': PWUT
 'he': HE
 'snored': STPHAUR/-D
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
 'stir': STEUR
 'hand': HAPBD
 'or': OR
-'foot:': TPAOT STPH-FPLT
+'foot:': TPAOT/STPH-FPLT
 'so': SO
 'they': THE
 'thought': THAUT
 'they': THE
 'were': WR
 'quite': KWAOEUT
-'safe;': SAEUF STPH*FPLT
+'safe;': SAEUF/STPH*FPLT
 'and': SKP
 'the': -T
 'eldest': ELD/EFT
@@ -726,7 +726,7 @@ The Twelve Dancing Princesses
 'and': SKP
 'clapped': KHRAP/-D
 'her': HER
-'hands,': HAPBDZ KW-BG
+'hands,': HAPBDZ/KW-BG
 'and': SKP
 'the': -T
 'bed': PWED
@@ -736,9 +736,9 @@ The Twelve Dancing Princesses
 'floor': TPHRAOR
 'and': SKP
 'a': AEU
-'trap-door': TRAP TKAO*R
+'trap-door': TRAP/TKAO*R
 'flew': TPHRAOU
-'open.': OEP TP-PL
+'open.': OEP/TP-PL
 'The': KPA/-T
 'soldier': SHRERPBLG
 'saw': SAU
@@ -747,15 +747,15 @@ The Twelve Dancing Princesses
 'down': TKOUPB
 'through': THRU
 'the': -T
-'trap-door': TRAP TKAO*R
+'trap-door': TRAP/TKAO*R
 'one': WUPB
 'after': AF
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'the': -T
 'eldest': ELD/EFT
 'leading': HRAEGD
 'the': -T
-'way;': WAEU STPH*FPLT
+'way;': WAEU/STPH*FPLT
 'and': SKP
 'thinking': THEUG
 'he': HE
@@ -763,10 +763,10 @@ The Twelve Dancing Princesses
 'no': TPHO
 'time': TAOEUPL
 'to': TO
-'lose,': HRUZ KW-BG
+'lose,': HRUZ/KW-BG
 'he': HE
 'jumped': SKWR*UPLD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'put': PUT
 'on': OPB
 'the': -T
@@ -777,10 +777,10 @@ The Twelve Dancing Princesses
 'woman': WOPL
 'had': H
 'given': TKPWEUFPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'followed': TPOLD
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'but': PWUT
 'in': TPH
 'the': -T
@@ -796,31 +796,31 @@ The Twelve Dancing Princesses
 'of': -F
 'the': -T
 'youngest': KWRUPBG/EFT
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'and': SKP
 'she': SHE
 'cried': KRAOEUD
 'out': OUT
 'to': TO
 'her': HER
-'sisters,': ST-RS KW-BG
-''All': AE KPA/AUL
+'sisters,': ST-RS/KW-BG
+''All': AE/KPA/AUL
 'is': S
 'not': TPHOT
-'right;': RAOEUT STPH*FPLT
+'right;': RAOEUT/STPH*FPLT
 'someone': SPH-PB
 'took': TAOBG
 'hold': HOLD
 'of': -F
 'my': PHEU
-'gown.'': TKPWOUPB TP-PL AE
-''You': AE KPA/U
+'gown.'': TKPWOUPB/TP-PL/AE
+''You': AE/KPA/U
 'silly': SHREU
-'creature!'': KRAOEFP SKHRAPL AE
+'creature!'': KRAOEFP/SKHRAPL/AE
 'said': SED
 'the': -T
-'eldest,': ELD/EFT KW-BG
-''it': AE T
+'eldest,': ELD/EFT/KW-BG
+''it': AE/T
 'is': S
 'nothing': TPHOG
 'but': PWUT
@@ -828,12 +828,12 @@ The Twelve Dancing Princesses
 'nail': TPHAEUL
 'in': TPH
 'the': -T
-'wall.'': WAUL TP-PL AE
+'wall.'': WAUL/TP-PL/AE
 'Then': KPA/THEPB
 'down': TKOUPB
 'they': THE
 'all': AUL
-'went,': WEPBT KW-BG
+'went,': WEPBT/KW-BG
 'and': SKP
 'at': AT
 'the': -T
@@ -847,19 +847,19 @@ The Twelve Dancing Princesses
 'delightful': TKHRAOEUT/-FL
 'grove': TKPWROEF
 'of': -F
-'trees;': TRAOES STPH*FPLT
+'trees;': TRAOES/STPH*FPLT
 'and': SKP
 'the': -T
 'leaves': HREFS
 'were': WR
 'all': AUL
 'of': -F
-'silver,': SEUL/SRER KW-BG
+'silver,': SEUL/SRER/KW-BG
 'and': SKP
 'glittered': TKPWHREUT/ERD
 'and': SKP
 'sparkled': SPAR/K-LD
-'beautifully.': PWAOUFL/HREU TP-PL
+'beautifully.': PWAOUFL/HREU/TP-PL
 'The': KPA/-T
 'soldier': SHRERPBLG
 'wished': WEURBD
@@ -870,14 +870,14 @@ The Twelve Dancing Princesses
 'token': TO*EPB
 'of': -F
 'the': -T
-'place;': PHRAEUS STPH*FPLT
+'place;': PHRAEUS/STPH*FPLT
 'so': SO
 'he': HE
 'broke': PWROEBG
 'off': OF
 'a': AEU
 'little': HREUL
-'branch,': PWRAFRPB KW-BG
+'branch,': PWRAFRPB/KW-BG
 'and': SKP
 'there': THR
 'came': KAEUPL
@@ -886,38 +886,38 @@ The Twelve Dancing Princesses
 'noise': TPHOEUS
 'from': TPR
 'the': -T
-'tree.': TRAOE TP-PL
+'tree.': TRAOE/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'youngest': KWRUPBG/EFT
 'daughter': TKAUR
 'said': SED
-'again,': TKPWEPB KW-BG
-''I': AE EU
+'again,': TKPWEPB/KW-BG
+''I': AE/EU
 'am': APL
 'sure': SHUR
 'all': AUL
 'is': S
 'not': TPHOT
-'right--did': RAOEUT H-PB H-PB TK
+'right--did': RAOEUT/H-PB/H-PB/TK
 'not': TPHOT
 'you': U
 'hear': HAER
 'that': THA
-'noise?': TPHOEUS H-F
+'noise?': TPHOEUS/H-F
 'That': KPA/THA
 'never': TPHEFR
 'happened': HAPD
-'before.'': PW-FR TP-PL AE
+'before.'': PW-FR/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'eldest': ELD/EFT
-'said,': SED KW-BG
-''It': AE KPA/T
+'said,': SED/KW-BG
+''It': AE/KPA/T
 'is': S
 'only': OEPBL
 'our': OUR
-'princes,': PREUPBS/-S KW-BG
+'princes,': PREUPBS/-S/KW-BG
 'who': WHO
 'are': R
 'shouting': SHOUGT
@@ -925,7 +925,7 @@ The Twelve Dancing Princesses
 'joy': SKWROEU
 'at': AT
 'our': OUR
-'approach.'': PROEFP TP-PL AE
+'approach.'': PROEFP/TP-PL/AE
 'Then': KPA/THEPB
 'they': THE
 'came': KAEUPL
@@ -933,26 +933,26 @@ The Twelve Dancing Princesses
 'another': TPHOER
 'grove': TKPWROEF
 'of': -F
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'where': W-R
 'all': AUL
 'the': -T
 'leaves': HREFS
 'were': WR
 'of': -F
-'gold;': TKPWOELD STPH*FPLT
+'gold;': TKPWOELD/STPH*FPLT
 'and': SKP
 'afterwards': A*FRDZ
 'to': TO
 'a': AEU
-'third,': THEURD KW-BG
+'third,': THEURD/KW-BG
 'where': W-R
 'the': -T
 'leaves': HREFS
 'were': WR
 'all': AUL
 'glittering': TKPWHREUT/ERG
-'diamonds.': TKAOEUPLDZ TP-PL
+'diamonds.': TKAOEUPLDZ/TP-PL
 'And': AFPBD
 'the': -T
 'soldier': SHRERPBLG
@@ -960,7 +960,7 @@ The Twelve Dancing Princesses
 'a': AEU
 'branch': PWRAFRPB
 'from': TPR
-'each;': AOEFP STPH*FPLT
+'each;': AOEFP/STPH*FPLT
 'and': SKP
 'every': EF
 'time': TAOEUPL
@@ -968,7 +968,7 @@ The Twelve Dancing Princesses
 'was': WAS
 'a': AEU
 'loud': HROUD
-'noise,': TPHOEUS KW-BG
+'noise,': TPHOEUS/KW-BG
 'which': WEU
 'made': PHAED
 'the': -T
@@ -976,22 +976,22 @@ The Twelve Dancing Princesses
 'sister': ST-R
 'tremble': TREPL/-BL
 'with': W
-'fear;': TPAOER STPH*FPLT
+'fear;': TPAOER/STPH*FPLT
 'but': PWUT
 'the': -T
 'eldest': ELD/EFT
 'still': STEUL
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'it': T
 'was': WAS
 'only': OEPBL
 'the': -T
-'princes,': PREUPBS/-S KW-BG
+'princes,': PREUPBS/-S/KW-BG
 'who': WHO
 'were': WR
 'crying': KRAOEUG
 'for': TPOR
-'joy.': SKWROEU TP-PL
+'joy.': SKWROEU/TP-PL
 'So': KPA/SO
 'they': THE
 'went': WEPBT
@@ -1002,7 +1002,7 @@ The Twelve Dancing Princesses
 'to': TO
 'a': AEU
 'great': TKPWRAET
-'lake;': HRAEUBG STPH*FPLT
+'lake;': HRAEUBG/STPH*FPLT
 'and': SKP
 'at': AT
 'the': -T
@@ -1020,7 +1020,7 @@ The Twelve Dancing Princesses
 'handsome': HAPBD/SO*PL
 'princes': PREUPBS/-S
 'in': TPH
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'who': WHO
 'seemed': SAOEPLD
 'to': TO
@@ -1029,7 +1029,7 @@ The Twelve Dancing Princesses
 'there': THR
 'for': TPOR
 'the': -T
-'princesses.': PREUPB/SES/-S TP-PL
+'princesses.': PREUPB/SES/-S/TP-PL
 'One': KPA/WUPB
 'of': -F
 'the': -T
@@ -1037,7 +1037,7 @@ The Twelve Dancing Princesses
 'went': WEPBT
 'into': TPHAO
 'each': AOEFP
-'boat,': PWOET KW-BG
+'boat,': PWOET/KW-BG
 'and': SKP
 'the': -T
 'soldier': SHRERPBLG
@@ -1048,14 +1048,14 @@ The Twelve Dancing Princesses
 'boat': PWOET
 'with': W
 'the': -T
-'youngest.': KWRUPBG/EFT TP-PL
+'youngest.': KWRUPBG/EFT/TP-PL
 'As': KPA/AS
 'they': THE
 'were': WR
 'rowing': ROE/-G
 'over': OEFR
 'the': -T
-'lake,': HRAEUBG KW-BG
+'lake,': HRAEUBG/KW-BG
 'the': -T
 'prince': PREUPBS
 'who': WHO
@@ -1070,8 +1070,8 @@ The Twelve Dancing Princesses
 'and': SKP
 'the': -T
 'soldier': SHRERPBLG
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'do': TKO
 'not': TPHOT
 'know': TPHOE
@@ -1095,35 +1095,35 @@ The Twelve Dancing Princesses
 'so': SO
 'fast': TPAFT
 'as': AS
-'usual,': AOURB KW-BG
+'usual,': AOURB/KW-BG
 'and': SKP
 'I': EU
 'am': APL
 'quite': KWAOEUT
-'tired:': TAOEURD STPH-FPLT
+'tired:': TAOEURD/STPH-FPLT
 'the': -T
 'boat': PWOET
 'seems': SAOEPLS
 'very': SRE
 'heavy': HOEUF
-'today.'': TOED TP-PL AE
-''It': AE KPA/T
+'today.'': TOED/TP-PL/AE
+''It': AE/KPA/T
 'is': S
 'only': OEPBL
 'the': -T
 'heat': HAOET
 'of': -F
 'the': -T
-'weather,'': WHR* KW-BG AE
+'weather,'': WHR*/KW-BG/AE
 'said': SED
 'the': -T
-'princess:': PREUPB/SES STPH-FPLT
-''I': AE EU
+'princess:': PREUPB/SES/STPH-FPLT
+''I': AE/EU
 'feel': TPAOEL
 'it': T
 'very': SRE
 'warm': WARPL
-'too.'': TAO TP-PL AE
+'too.'': TAO/TP-PL/AE
 'On': KPA/OPB
 'the': -T
 'other': OER
@@ -1135,7 +1135,7 @@ The Twelve Dancing Princesses
 'a': AEU
 'fine': TPAOEUPB
 'illuminated': EUL/AOUPL/TPHAEUT/-D
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'from': TPR
 'which': WEU
 'came': KAEUPL
@@ -1145,36 +1145,36 @@ The Twelve Dancing Princesses
 'of': -F
 'horns': HORPBS
 'and': SKP
-'trumpets.': TRUPLTS TP-PL
+'trumpets.': TRUPLTS/TP-PL
 'There': KPA/THR
 'they': THE
 'all': AUL
-'landed,': HRAPBD/-D KW-BG
+'landed,': HRAPBD/-D/KW-BG
 'and': SKP
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'and': SKP
 'each': AOEFP
 'prince': PREUPBS
 'danced': TKAPBS/-D
 'with': W
 'his': HEUS
-'princess;': PREUPB/SES STPH*FPLT
+'princess;': PREUPB/SES/STPH*FPLT
 'and': SKP
 'the': -T
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'who': WHO
 'was': WAS
 'all': AUL
 'the': -T
 'time': TAOEUPL
-'invisible,': EUPB/SREUBL KW-BG
+'invisible,': EUPB/SREUBL/KW-BG
 'danced': TKAPBS/-D
 'with': W
 'them': THEPL
-'too;': TAO STPH*FPLT
+'too;': TAO/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'any': TPHEU
@@ -1188,12 +1188,12 @@ The Twelve Dancing Princesses
 'wine': WAOEUPB
 'set': SET
 'by': PWEU
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'he': HE
 'drank': TKRA*PBG
 'it': T
 'all': AUL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'so': SO
 'that': THA
 'when': WHEPB
@@ -1206,22 +1206,22 @@ The Twelve Dancing Princesses
 'mouth': PHO*UT
 'it': T
 'was': WAS
-'empty.': EPLT TP-PL
+'empty.': EPLT/TP-PL
 'At': KPA/AT
-'this,': TH KW-BG
-'too,': TAO KW-BG
+'this,': TH/KW-BG
+'too,': TAO/KW-BG
 'the': -T
 'youngest': KWRUPBG/EFT
 'sister': ST-R
 'was': WAS
 'terribly': TERBL/HREU
-'frightened,': TPRAOEUFPBD KW-BG
+'frightened,': TPRAOEUFPBD/KW-BG
 'but': PWUT
 'the': -T
 'eldest': ELD/EFT
 'always': AULS
 'silenced': SHREPBS/-D
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'They': KPA/THE
 'danced': TKAPBS/-D
 'on': OPB
@@ -1230,7 +1230,7 @@ The Twelve Dancing Princesses
 'o'clock': KHRO*BG
 'in': TPH
 'the': -T
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'and': SKP
 'then': THEPB
 'all': AUL
@@ -1238,7 +1238,7 @@ The Twelve Dancing Princesses
 'shoes': SHAOUS
 'were': WR
 'worn': WORPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'so': SO
 'that': THA
 'they': THE
@@ -1246,7 +1246,7 @@ The Twelve Dancing Princesses
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'leave': HREF
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'The': KPA/-T
 'princes': PREUPBS/-S
 'rowed': ROE/-D
@@ -1256,7 +1256,7 @@ The Twelve Dancing Princesses
 'over': OEFR
 'the': -T
 'lake': HRAEUBG
-'(but': PREPB PWUT
+'(but': PREPB/PWUT
 'this': TH
 'time': TAOEUPL
 'the': -T
@@ -1269,7 +1269,7 @@ The Twelve Dancing Princesses
 'with': W
 'the': -T
 'eldest': ELD/EFT
-'princess);': PREUPB/SES PR*EPB STPH*FPLT
+'princess);': PREUPB/SES/PR*EPB/STPH*FPLT
 'and': SKP
 'on': OPB
 'the': -T
@@ -1280,7 +1280,7 @@ The Twelve Dancing Princesses
 'leave': HREF
 'of': -F
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'the': -T
 'princesses': PREUPB/SES/-S
 'promising': PROPLS/-G
@@ -1289,24 +1289,24 @@ The Twelve Dancing Princesses
 'again': TKPWEPB
 'the': -T
 'next': TPHEGT
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'the': -T
-'stairs,': STAEURS KW-BG
+'stairs,': STAEURS/KW-BG
 'the': -T
 'soldier': SHRERPBLG
 'ran': RAPB
 'on': OPB
 'before': PW-FR
 'the': -T
-'princesses,': PREUPB/SES/-S KW-BG
+'princesses,': PREUPB/SES/-S/KW-BG
 'and': SKP
 'laid': HRAEUD
 'himself': HEUPLS
-'down;': TKOUPB STPH*FPLT
+'down;': TKOUPB/STPH*FPLT
 'and': SKP
 'as': AS
 'the': -T
@@ -1317,39 +1317,39 @@ The Twelve Dancing Princesses
 'up': UP
 'very': SRE
 'much': PHUFP
-'tired,': TAOEURD KW-BG
+'tired,': TAOEURD/KW-BG
 'they': THE
 'heard': HAERD
 'him': HEUPL
 'snoring': STPHOERG
 'in': TPH
 'his': HEUS
-'bed;': PWED STPH*FPLT
+'bed;': PWED/STPH*FPLT
 'so': SO
 'they': THE
-'said,': SED KW-BG
-''Now': AE KPA/TPHOU
+'said,': SED/KW-BG
+''Now': AE/KPA/TPHOU
 'all': AUL
 'is': S
 'quite': KWAOEUT
-'safe';': SAEUF AE STPH*FPLT
+'safe';': SAEUF/AE/STPH*FPLT
 'then': THEPB
 'they': THE
 'undressed': UPB/TKRES/-D
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'put': PUT
 'away': WA*EU
 'their': THAEUR
 'fine': TPAOEUPB
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'pulled': PULD
 'off': OF
 'their': THAEUR
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'In': KPA/TPH
 'the': -T
 'morning': PHORPBG
@@ -1360,7 +1360,7 @@ The Twelve Dancing Princesses
 'about': PW
 'what': WHA
 'had': H
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'but': PWUT
 'determined': TKERPLD
 'to': TO
@@ -1369,7 +1369,7 @@ The Twelve Dancing Princesses
 'of': -F
 'this': TH
 'strange': STRAEUPBG
-'adventure,': SREPBG KW-BG
+'adventure,': SREPBG/KW-BG
 'and': SKP
 'went': WEPBT
 'again': TKPWEPB
@@ -1377,14 +1377,14 @@ The Twelve Dancing Princesses
 'second': SEBGD
 'and': SKP
 'third': THEURD
-'night;': TPHAOEUT STPH*FPLT
+'night;': TPHAOEUT/STPH*FPLT
 'and': SKP
 'every': EF
 'thing': THEUPBG
 'happened': HAPD
 'just': SKWRUFT
 'as': AS
-'before;': PW-FR STPH*FPLT
+'before;': PW-FR/STPH*FPLT
 'the': -T
 'princesses': PREUPB/SES/-S
 'danced': TKAPBS/-D
@@ -1396,12 +1396,12 @@ The Twelve Dancing Princesses
 'were': WR
 'worn': WORPB
 'to': TO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'then': THEPB
 'returned': RURPBD
-'home.': HOEPL TP-PL
-'However,': KPA/HOUF KW-BG
+'home.': HOEPL/TP-PL
+'However,': KPA/HOUF/KW-BG
 'on': OPB
 'the': -T
 'third': THEURD
@@ -1422,7 +1422,7 @@ The Twelve Dancing Princesses
 'where': W-R
 'he': HE
 'had': H
-'been.': PW-PB TP-PL
+'been.': PW-PB/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -1435,7 +1435,7 @@ The Twelve Dancing Princesses
 'to': TO
 'declare': TKE/KHRAR
 'the': -T
-'secret,': SKRET KW-BG
+'secret,': SKRET/KW-BG
 'he': HE
 'was': WAS
 'taken': TAEPB
@@ -1449,7 +1449,7 @@ The Twelve Dancing Princesses
 'and': SKP
 'the': -T
 'golden': TKPWOELD/*EPB
-'cup;': KUP STPH*FPLT
+'cup;': KUP/STPH*FPLT
 'and': SKP
 'the': -T
 'twelve': TWEFL
@@ -1464,31 +1464,31 @@ The Twelve Dancing Princesses
 'what': WHA
 'he': HE
 'would': WO
-'say.': SAEU TP-PL
+'say.': SAEU/TP-PL
 'And': AFPBD
 'when': WHEPB
 'the': -T
 'king': KEUPBG
 'asked': SK-D
-'him.': HEUPL TP-PL
-''Where': AE KPA/W-R
+'him.': HEUPL/TP-PL
+''Where': AE/KPA/W-R
 'do': TKO
 'my': PHEU
 'twelve': TWEFL
 'daughters': TKAURS
 'dance': TKAPBS
 'at': AT
-'night?'': TPHAOEUT H-F AE
+'night?'': TPHAOEUT/H-F/AE
 'he': HE
-'answered,': AEPBS/-D KW-BG
-''With': AE KPA/W
+'answered,': AEPBS/-D/KW-BG
+''With': AE/KPA/W
 'twelve': TWEFL
 'princes': PREUPBS/-S
 'in': TPH
 'a': AEU
 'castle': KAFL
 'under': TPH-PB
-'ground.'': TKPWROUPBD TP-PL AE
+'ground.'': TKPWROUPBD/TP-PL/AE
 'And': AFPBD
 'then': THEPB
 'he': HE
@@ -1498,7 +1498,7 @@ The Twelve Dancing Princesses
 'all': AUL
 'that': THA
 'had': H
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'and': SKP
 'showed': SHOED
 'him': HEUPL
@@ -1514,14 +1514,14 @@ The Twelve Dancing Princesses
 'had': H
 'brought': PWRAUT
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
 'called': KAULD
 'for': TPOR
 'the': -T
-'princesses,': PREUPB/SES/-S KW-BG
+'princesses,': PREUPB/SES/-S/KW-BG
 'and': SKP
 'asked': SK-D
 'them': THEPL
@@ -1531,7 +1531,7 @@ The Twelve Dancing Princesses
 'soldier': SHRERPBLG
 'said': SED
 'was': WAS
-'true:': TRAOU STPH-FPLT
+'true:': TRAOU/STPH-FPLT
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -1539,7 +1539,7 @@ The Twelve Dancing Princesses
 'that': THA
 'they': THE
 'were': WR
-'discovered,': SKOFD KW-BG
+'discovered,': SKOFD/KW-BG
 'and': SKP
 'that': THA
 'it': T
@@ -1551,11 +1551,11 @@ The Twelve Dancing Princesses
 'deny': TKOEUPB
 'what': WHA
 'had': H
-'happened,': HAPD KW-BG
+'happened,': HAPD/KW-BG
 'they': THE
 'confessed': KAUPB/TPES/-D
 'it': T
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'And': AFPBD
 'the': -T
 'king': KEUPBG
@@ -1570,27 +1570,27 @@ The Twelve Dancing Princesses
 'choose': KHAOS
 'for': TPOR
 'his': HEUS
-'wife;': WAOEUF STPH*FPLT
+'wife;': WAOEUF/STPH*FPLT
 'and': SKP
 'he': HE
-'answered,': AEPBS/-D KW-BG
-''I': AE EU
+'answered,': AEPBS/-D/KW-BG
+''I': AE/EU
 'am': APL
 'not': TPHOT
 'very': SRE
-'young,': KWRUPBG KW-BG
+'young,': KWRUPBG/KW-BG
 'so': SO
 'I': EU
 'will': HR
 'have': SR
 'the': -T
-'eldest.'--And': ELD/EFT TP-PL AE H-PB H-PB AFPBD
+'eldest.'--And': ELD/EFT/TP-PL/AE/H-PB/H-PB/AFPBD
 'they': THE
 'were': WR
 'married': PHAERD
 'that': THA
 'very': SRE
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'the': -T
 'soldier': SHRERPBLG
@@ -1600,4 +1600,4 @@ The Twelve Dancing Princesses
 'be': -B
 'the': -T
 'king's': KEUPBG/AES
-'heir.': A*EUR TP-PL
+'heir.': A*EUR/TP-PL

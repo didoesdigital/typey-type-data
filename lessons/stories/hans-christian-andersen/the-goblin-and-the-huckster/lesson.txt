@@ -5,40 +5,40 @@ The Goblin and the Huckster
 'once': WUPBS
 'a': AEU
 'regular': REG
-'student,': STAUPB KW-BG
+'student,': STAUPB/KW-BG
 'who': WHO
 'lived': HREUFD
 'in': TPH
 'a': AEU
-'garret,': TKPWAEUR/RET KW-BG
+'garret,': TKPWAEUR/RET/KW-BG
 'and': SKP
 'had': H
 'no': TPHO
-'possessions.': POE/SEGS/-S TP-PL
+'possessions.': POE/SEGS/-S/TP-PL
 'And': AFPBD
 'there': THR
 'was': WAS
 'also': HR-S
 'a': AEU
 'regular': REG
-'huckster,': HUBG/STER KW-BG
+'huckster,': HUBG/STER/KW-BG
 'to': TO
 'whom': WHOPL
 'the': -T
 'house': HOUS
-'belonged,': PWHROPBGD KW-BG
+'belonged,': PWHROPBGD/KW-BG
 'and': SKP
 'who': WHO
 'occupied': OUPD
 'the': -T
 'ground': TKPWROUPBD
-'floor.': TPHRAOR TP-PL
+'floor.': TPHRAOR/TP-PL
 'A': KPA/AEU
 'goblin': TKPWOB/HREUPB
 'lived': HREUFD
 'with': W
 'the': -T
-'huckster,': HUBG/STER KW-BG
+'huckster,': HUBG/STER/KW-BG
 'because': PWAU
 'at': AT
 'Christmas': KREUS/PHAS
@@ -50,7 +50,7 @@ The Goblin and the Huckster
 'dish': TKEURB
 'full': TPUL
 'of': -F
-'jam,': SKWRAPL KW-BG
+'jam,': SKWRAPL/KW-BG
 'with': W
 'a': AEU
 'great': TKPWRAET
@@ -59,12 +59,12 @@ The Goblin and the Huckster
 'butter': PWAOURT
 'in': TPH
 'the': -T
-'middle.': PH*EULD TP-PL
+'middle.': PH*EULD/TP-PL
 'The': KPA/-T
 'huckster': HUBG/STER
 'could': KO
 'afford': AFRD
-'this;': TH STPH*FPLT
+'this;': TH/STPH*FPLT
 'and': SKP
 'therefore': TH-FR
 'the': -T
@@ -72,13 +72,13 @@ The Goblin and the Huckster
 'remained': RE/PHAEUPBD
 'with': W
 'the': -T
-'huckster,': HUBG/STER KW-BG
+'huckster,': HUBG/STER/KW-BG
 'which': WEU
 'was': WAS
 'very': SRE
 'cunning': KUPBG
 'of': -F
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'One': KPA/WUPB
 'evening': AOEPBG
 'the': -T
@@ -97,23 +97,23 @@ The Goblin and the Huckster
 'and': SKP
 'cheese': KHAOES
 'for': TPOR
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'he': HE
 'had': H
 'no': TPHO
 'one': WUPB
 'to': TO
-'send,': SEPBD KW-BG
+'send,': SEPBD/KW-BG
 'and': SKP
 'therefore': TH-FR
 'he': HE
 'came': KAEUPL
-'himself;': HEUPLS STPH*FPLT
+'himself;': HEUPLS/STPH*FPLT
 'he': HE
 'obtained': OB/TAEUPBD
 'what': WHA
 'he': HE
-'wished,': WEURBD KW-BG
+'wished,': WEURBD/KW-BG
 'and': SKP
 'then': THEPB
 'the': -T
@@ -125,7 +125,7 @@ The Goblin and the Huckster
 'good': TKPWAOD
 'evening': AOEPBG
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -137,7 +137,7 @@ The Goblin and the Huckster
 'more': PHOR
 'than': THAPB
 'merely': PHAOERL
-'nod,': TPHOD KW-BG
+'nod,': TPHOD/KW-BG
 'for': TPOR
 'she': SHE
 'had': H
@@ -146,7 +146,7 @@ The Goblin and the Huckster
 'to': TO
 'say': SAEU
 'for': TPOR
-'herself.': H*ERS TP-PL
+'herself.': H*ERS/TP-PL
 'The': KPA/-T
 'student': STAUPB
 'nodded': TPHOD/-D
@@ -156,10 +156,10 @@ The Goblin and the Huckster
 'he': HE
 'turned': TURPBD
 'to': TO
-'leave,': HREF KW-BG
+'leave,': HREF/KW-BG
 'then': THEPB
 'suddenly': SULD
-'stopped,': STOPD KW-BG
+'stopped,': STOPD/KW-BG
 'and': SKP
 'began': TKPWAPB
 'reading': RAEGD
@@ -172,7 +172,7 @@ The Goblin and the Huckster
 'the': -T
 'cheese': KHAOES
 'was': WAS
-'wrapped.': WRAPD TP-PL
+'wrapped.': WRAPD/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
@@ -182,7 +182,7 @@ The Goblin and the Huckster
 'of': -F
 'an': APB
 'old': OLD
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'a': AEU
 'book': PWAOBG
 'that': THA
@@ -192,25 +192,25 @@ The Goblin and the Huckster
 'have': SR
 'been': PW-PB
 'torn': TORPB
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
 'full': TPUL
 'of': -F
-'poetry.': POEURT TP-PL
-'"Yonder': KR-GS KPA/KWROPBD/ER
+'poetry.': POEURT/TP-PL
+'"Yonder': KR-GS/KPA/KWROPBD/ER
 'lies': HRAO*EUS
 'some': SOPL
 'more': PHOR
 'of': -F
 'the': -T
 'same': SAEUPL
-'sort,"': SORT KW-BG KR-GS
+'sort,"': SORT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'huckster:': HUBG/STER STPH-FPLT
-'"I': KR-GS EU
+'huckster:': HUBG/STER/STPH-FPLT
+'"I': KR-GS/EU
 'gave': TKPWAEUF
 'an': APB
 'old': OLD
@@ -220,31 +220,31 @@ The Goblin and the Huckster
 'coffee': KOEF
 'berries': PWER/KWREUS
 'for': TPOR
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'you': U
 'shall': SHAL
 'have': SR
 'the': -T
 'rest': REFT
 'for': TPOR
-'sixpence,': S*/*EU/KP*/P*/*E/TPH*/KR*/*E KW-BG
+'sixpence,': S*/*EU/KP*/P*/*E/TPH*/KR*/*E/KW-BG
 'if': TP
 'you': U
-'will."': HR TP-PL KR-GS
-'"Indeed': KR-GS KPA/TPHAOEPBD
+'will."': HR/TP-PL/KR-GS
+'"Indeed': KR-GS/KPA/TPHAOEPBD
 'I': EU
-'will,"': HR KW-BG KR-GS
+'will,"': HR/KW-BG/KR-GS
 'said': SED
 'the': -T
-'student;': STAUPB STPH*FPLT
-'"give': KR-GS TKPWEUF
+'student;': STAUPB/STPH*FPLT
+'"give': KR-GS/TKPWEUF
 'me': PHE
 'the': -T
 'book': PWAOBG
 'instead': STPHED
 'of': -F
 'the': -T
-'cheese;': KHAOES STPH*FPLT
+'cheese;': KHAOES/STPH*FPLT
 'I': EU
 'can': K
 'eat': AOET
@@ -253,7 +253,7 @@ The Goblin and the Huckster
 'and': SKP
 'butter': PWAOURT
 'without': WOUT
-'cheese.': KHAOES TP-PL
+'cheese.': KHAOES/TP-PL
 'It': KPA/T
 'would': WO
 'be': -B
@@ -265,16 +265,16 @@ The Goblin and the Huckster
 'a': AEU
 'book': PWAOBG
 'like': HRAOEUBG
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'You': KPA/U
 'are': R
 'a': AEU
 'clever': KHREFR
-'man;': PHAPB STPH*FPLT
+'man;': PHAPB/STPH*FPLT
 'and': SKP
 'a': AEU
 'practical': PRABGT
-'man;': PHAPB STPH*FPLT
+'man;': PHAPB/STPH*FPLT
 'but': PWUT
 'you': U
 'understand': URPBD
@@ -285,17 +285,17 @@ The Goblin and the Huckster
 'than': THAPB
 'that': THA
 'cask': KAFBG
-'yonder."': KWROPBD/ER TP-PL KR-GS
+'yonder."': KWROPBD/ER/TP-PL/KR-GS
 'This': KPA/TH
 'was': WAS
 'a': AEU
 'very': SRE
 'rude': RAOUD
-'speech,': SPAOEFP KW-BG
+'speech,': SPAOEFP/KW-BG
 'especially': EPS
 'against': TKPWEPBS
 'the': -T
-'cask;': KAFBG STPH*FPLT
+'cask;': KAFBG/STPH*FPLT
 'but': PWUT
 'the': -T
 'huckster': HUBG/STER
@@ -303,14 +303,14 @@ The Goblin and the Huckster
 'the': -T
 'student': STAUPB
 'both': PWO*T
-'laughed,': HRAFD KW-BG
+'laughed,': HRAFD/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
 'only': OEPBL
 'said': SED
 'in': TPH
-'fun.': TPUPB TP-PL
+'fun.': TPUPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'goblin': TKPWOB/HREUPB
@@ -337,17 +337,17 @@ The Goblin and the Huckster
 'sold': SOELD
 'the': -T
 'best': PWEFT
-'butter.': PWAOURT TP-PL
+'butter.': PWAOURT/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
 'it': T
 'was': WAS
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'the': -T
 'shop': SHOP
-'closed,': KHROEFD KW-BG
+'closed,': KHROEFD/KW-BG
 'and': SKP
 'every': EF
 'one': WUPB
@@ -355,7 +355,7 @@ The Goblin and the Huckster
 'bed': PWED
 'except': KPEPT
 'the': -T
-'student,': STAUPB KW-BG
+'student,': STAUPB/KW-BG
 'the': -T
 'goblin': TKPWOB/HREUPB
 'stepped': STEPD
@@ -365,22 +365,22 @@ The Goblin and the Huckster
 'bedroom': PW-PL
 'where': W-R
 'the': -T
-'huckster's': HUBG/STER AES
+'huckster's': HUBG/STER/AES
 'wife': WAOEUF
-'slept,': SHREPT KW-BG
+'slept,': SHREPT/KW-BG
 'and': SKP
 'took': TAOBG
 'away': WA*EU
 'her': HER
-'tongue,': TUPBG KW-BG
+'tongue,': TUPBG/KW-BG
 'which': WEU
 'of': -F
-'course,': KORS KW-BG
+'course,': KORS/KW-BG
 'she': SHE
 'did': TK
 'not': TPHOT
 'then': THEPB
-'want.': WAPBT TP-PL
+'want.': WAPBT/TP-PL
 'Whatever': KPA/WHAF
 'object': OBT
 'in': TPH
@@ -395,7 +395,7 @@ The Goblin and the Huckster
 'received': SAOEFD
 'voice': SROEUS
 'and': SKP
-'speech,': SPAOEFP KW-BG
+'speech,': SPAOEFP/KW-BG
 'and': SKP
 'was': WAS
 'able': ABL
@@ -412,7 +412,7 @@ The Goblin and the Huckster
 'lady': HRA*ED
 'herself': H*ERS
 'could': KO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'It': KPA/T
 'could': KO
 'only': OEPBL
@@ -423,12 +423,12 @@ The Goblin and the Huckster
 'object': OBT
 'at': AT
 'a': AEU
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'which': WEU
 'was': WAS
 'a': AEU
 'good': TKPWAOD
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'as': AS
 'a': AEU
 'number': TPHUPL
@@ -439,7 +439,7 @@ The Goblin and the Huckster
 'have': SR
 'caused': KAUFD
 'great': TKPWRAET
-'confusion.': KAUFGS TP-PL
+'confusion.': KAUFGS/TP-PL
 'The': KPA/-T
 'goblin': TKPWOB/HREUPB
 'laid': HRAEUD
@@ -447,7 +447,7 @@ The Goblin and the Huckster
 'tongue': TUPBG
 'upon': POPB
 'the': -T
-'cask,': KAFBG KW-BG
+'cask,': KAFBG/KW-BG
 'in': TPH
 'which': WEU
 'lay': HRAEU
@@ -455,29 +455,29 @@ The Goblin and the Huckster
 'quantity': KWAPBT
 'of': -F
 'old': OLD
-'newspapers.': TPHAOUPS TP-PL
-'"Is': KR-GS KPA/S
+'newspapers.': TPHAOUPS/TP-PL
+'"Is': KR-GS/KPA/S
 'it': T
 'really': R-L
-'true,"': TRAOU KW-BG KR-GS
+'true,"': TRAOU/KW-BG/KR-GS
 'he': HE
-'asked,': SK-D KW-BG
-'"that': KR-GS THA
+'asked,': SK-D/KW-BG
+'"that': KR-GS/THA
 'you': U
 'do': TKO
 'not': TPHOT
 'know': TPHOE
 'what': WHA
 'poetry': POEURT
-'is?"': S H-F KR-GS
-'"Of': KR-GS KPA/-F
+'is?"': S/H-F/KR-GS
+'"Of': KR-GS/KPA/-F
 'course': KORS
 'I': EU
-'know,"': TPHOE KW-BG KR-GS
+'know,"': TPHOE/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'cask:': KAFBG STPH-FPLT
-'"poetry': KR-GS POEURT
+'cask:': KAFBG/STPH-FPLT
+'"poetry': KR-GS/POEURT
 'is': S
 'something': S-G
 'that': THA
@@ -488,12 +488,12 @@ The Goblin and the Huckster
 'corner': KRORPB
 'of': -F
 'a': AEU
-'newspaper,': TPHAOUP KW-BG
+'newspaper,': TPHAOUP/KW-BG
 'and': SKP
 'is': S
 'sometimes': STAOEUPLS
 'cut': KUT
-'out;': OUT STPH*FPLT
+'out;': OUT/STPH*FPLT
 'and': SKP
 'I': EU
 'may': PHAE
@@ -511,7 +511,7 @@ The Goblin and the Huckster
 'than': THAPB
 'the': -T
 'student': STAUPB
-'has,': HAS KW-BG
+'has,': HAS/KW-BG
 'and': SKP
 'I': EU
 'am': APL
@@ -521,7 +521,7 @@ The Goblin and the Huckster
 'tub': TUB
 'of': -F
 'the': -T
-'huckster's."': HUBG/STER AE S* TP-PL KR-GS
+'huckster's."': HUBG/STER/AE/S*/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'goblin': TKPWOB/HREUPB
@@ -531,7 +531,7 @@ The Goblin and the Huckster
 'on': OPB
 'the': -T
 'coffee': KOEF
-'mill;': PHEUL STPH*FPLT
+'mill;': PHEUL/STPH*FPLT
 'and': SKP
 'how': HOU
 'it': T
@@ -539,7 +539,7 @@ The Goblin and the Huckster
 'go': TKPW
 'to': TO
 'be': -B
-'sure!': SHUR SKHRAPL
+'sure!': SHUR/SKHRAPL
 'Then': KPA/THEPB
 'he': HE
 'put': PUT
@@ -551,7 +551,7 @@ The Goblin and the Huckster
 'and': SKP
 'the': -T
 'cash': KARB
-'box,': PWOBGS KW-BG
+'box,': PWOBGS/KW-BG
 'and': SKP
 'they': THE
 'all': AUL
@@ -561,26 +561,26 @@ The Goblin and the Huckster
 'opinion': P-PB
 'as': AS
 'the': -T
-'waste-paper': WAEFT H-PB PAEUP
-'tub;': TUB STPH*FPLT
+'waste-paper': WAEFT/H-PB/PAEUP
+'tub;': TUB/STPH*FPLT
 'and': SKP
 'a': AEU
 'majority': PHORPBLG
 'must': PHUFT
 'always': AULS
 'be': -B
-'respected.': R-PTD TP-PL
-'"Now': KR-GS KPA/TPHOU
+'respected.': R-PTD/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'I': EU
 'shall': SHAL
 'go': TKPW
 'and': SKP
 'tell': TEL
 'the': -T
-'student,"': STAUPB KW-BG KR-GS
+'student,"': STAUPB/KW-BG/KR-GS
 'said': SED
 'the': -T
-'goblin;': TKPWOB/HREUPB STPH*FPLT
+'goblin;': TKPWOB/HREUPB/STPH*FPLT
 'and': SKP
 'with': W
 'these': THEZ
@@ -598,13 +598,13 @@ The Goblin and the Huckster
 'where': W-R
 'the': -T
 'student': STAUPB
-'lived.': HREUFD TP-PL
+'lived.': HREUFD/TP-PL
 'He': KPA/HE
 'had': H
 'a': AEU
 'candle': KA*PBLD
 'burning': PWURPBG
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'and': SKP
 'the': -T
 'goblin': TKPWOB/HREUPB
@@ -621,7 +621,7 @@ The Goblin and the Huckster
 'in': TPH
 'the': -T
 'torn': TORPB
-'book,': PWAOBG KW-BG
+'book,': PWAOBG/KW-BG
 'which': WEU
 'he': HE
 'had': H
@@ -629,13 +629,13 @@ The Goblin and the Huckster
 'out': OUT
 'of': -F
 'the': -T
-'shop.': SHOP TP-PL
+'shop.': SHOP/TP-PL
 'But': KPA/PWUT
 'how': HOU
 'light': HRAOEUT
 'the': -T
 'room': RAOPL
-'was!': WAS SKHRAPL
+'was!': WAS/SKHRAPL
 'From': KPA/TPR
 'the': -T
 'book': PWAOBG
@@ -649,13 +649,13 @@ The Goblin and the Huckster
 'grew': TKPWRAOU
 'broad': PWRAOD
 'and': SKP
-'full,': TPUL KW-BG
+'full,': TPUL/KW-BG
 'like': HRAOEUBG
 'the': -T
 'stem': STEPL
 'of': -F
 'a': AEU
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'from': TPR
 'which': WEU
 'bright': PWRAOEUT
@@ -665,12 +665,12 @@ The Goblin and the Huckster
 'and': SKP
 'over': OEFR
 'the': -T
-'student's': STAUPB AES
-'head.': HED TP-PL
+'student's': STAUPB/AES
+'head.': HED/TP-PL
 'Each': KPA/AOEFP
 'leaf': HRAOEF
 'was': WAS
-'fresh,': TPRERB KW-BG
+'fresh,': TPRERB/KW-BG
 'and': SKP
 'each': AOEFP
 'flower': TPHRO*UR
@@ -679,13 +679,13 @@ The Goblin and the Huckster
 'a': AEU
 'beautiful': PWAOUFL
 'female': TPAEL
-'head;': HED STPH*FPLT
+'head;': HED/STPH*FPLT
 'some': SOPL
 'with': W
 'dark': TKARBG
 'and': SKP
 'sparkling': SPAR/K-LG
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'others': OERS
 'with': W
@@ -695,12 +695,12 @@ The Goblin and the Huckster
 'wonderfully': WOPBD/TPHREU
 'blue': PWHRU
 'and': SKP
-'clear.': KHRAOER TP-PL
+'clear.': KHRAOER/TP-PL
 'The': KPA/-T
 'fruit': TPRAOUT
 'gleamed': TKPWHRAOEPL/-D
 'like': HRAOEUBG
-'stars,': STARS KW-BG
+'stars,': STARS/KW-BG
 'and': SKP
 'the': -T
 'room': RAOPL
@@ -710,32 +710,32 @@ The Goblin and the Huckster
 'sounds': SOUPBDZ
 'of': -F
 'beautiful': PWAOUFL
-'music.': PHAOUFBG TP-PL
+'music.': PHAOUFBG/TP-PL
 'The': KPA/-T
 'little': HREUL
 'goblin': TKPWOB/HREUPB
 'had': H
 'never': TPHEFR
-'imagined,': PHAPBLGD KW-BG
+'imagined,': PHAPBLGD/KW-BG
 'much': PHUFP
 'less': HRES
 'seen': SAOEPB
 'or': OR
 'heard': HAERD
-'of,': -F KW-BG
+'of,': -F/KW-BG
 'any': TPHEU
 'sight': SAOEUT
 'so': SO
 'glorious': TKPWHRORS
 'as': AS
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'He': KPA/HE
 'stood': STAOD
 'still': STEUL
 'on': OPB
-'tiptoe,': TEUP/TOE KW-BG
+'tiptoe,': TEUP/TOE/KW-BG
 'peeping': PAOEPG
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'till': TEUL
 'the': -T
 'light': HRAOEUT
@@ -743,7 +743,7 @@ The Goblin and the Huckster
 'out': OUT
 'in': TPH
 'the': -T
-'garret.': TKPWAEUR/RET TP-PL
+'garret.': TKPWAEUR/RET/TP-PL
 'The': KPA/-T
 'student': STAUPB
 'no': TPHO
@@ -756,7 +756,7 @@ The Goblin and the Huckster
 'and': SKP
 'gone': TKPWOPB
 'to': TO
-'bed;': PWED STPH*FPLT
+'bed;': PWED/STPH*FPLT
 'but': PWUT
 'the': -T
 'little': HREUL
@@ -764,7 +764,7 @@ The Goblin and the Huckster
 'remained': RE/PHAEUPBD
 'standing': STAPBG
 'there': THR
-'nevertheless,': TPHEFRLS KW-BG
+'nevertheless,': TPHEFRLS/KW-BG
 'and': SKP
 'listening': HR-PBG
 'to': TO
@@ -773,36 +773,36 @@ The Goblin and the Huckster
 'which': WEU
 'still': STEUL
 'sounded': SOUPBD/-D
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'soft': SOFT
 'and': SKP
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'a': AEU
 'sweet': SWAOET
-'cradle-song': KRAEUD/*L H-PB SOPBG
+'cradle-song': KRAEUD/*L/H-PB/SOPBG
 'for': TPOR
 'the': -T
-'student,': STAUPB KW-BG
+'student,': STAUPB/KW-BG
 'who': WHO
 'had': H
 'lain': HRAEUPB
 'down': TKOUPB
 'to': TO
 'rest.': REFT/TP-PL
-'"This': KR-GS KPA/TH
+'"This': KR-GS/KPA/TH
 'is': S
 'a': AEU
 'wonderful': WUFL
-'place,"': PHRAEUS KW-BG KR-GS
+'place,"': PHRAEUS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'goblin;': TKPWOB/HREUPB STPH*FPLT
-'"I': KR-GS EU
+'goblin;': TKPWOB/HREUPB/STPH*FPLT
+'"I': KR-GS/EU
 'never': TPHEFR
 'expected': KP-PTD
 'such': SUFP
 'a': AEU
-'thing.': THEUPBG TP-PL
+'thing.': THEUPBG/TP-PL
 'I': EU
 'should': SHO
 'like': HRAOEUBG
@@ -811,31 +811,31 @@ The Goblin and the Huckster
 'here': HAOER
 'with': W
 'the': -T
-'student;"': STAUPB STPH*FPLT KR-GS
+'student;"': STAUPB/STPH*FPLT/KR-GS
 'and': SKP
 'the': -T
 'little': HREUL
 'man': PHAPB
 'thought': THAUT
 'it': T
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
 'a': AEU
 'sensible': SEPBS/-BL
 'little': HREUL
-'spirit.': SPEURT TP-PL
+'spirit.': SPEURT/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE
-'sighed,': SAOEU/-D KW-BG
-'"but': KR-GS PWUT
+'sighed,': SAOEU/-D/KW-BG
+'"but': KR-GS/PWUT
 'the': -T
 'student': STAUPB
 'has': HAS
 'no': TPHO
-'jam!"': SKWRAPL SKHRAPL KR-GS
+'jam!"': SKWRAPL/SKHRAPL/KR-GS
 'So': KPA/SO
 'he': HE
 'went': WEPBT
@@ -844,8 +844,8 @@ The Goblin and the Huckster
 'again': TKPWEPB
 'into': TPHAO
 'the': -T
-'huckster's': HUBG/STER AES
-'shop,': SHOP KW-BG
+'huckster's': HUBG/STER/AES
+'shop,': SHOP/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -857,7 +857,7 @@ The Goblin and the Huckster
 'back': PWABG
 'when': WHEPB
 'he': HE
-'did,': TK KW-BG
+'did,': TK/KW-BG
 'for': TPOR
 'the': -T
 'cask': KAFBG
@@ -867,7 +867,7 @@ The Goblin and the Huckster
 'out': OUT
 'the': -T
 'lady's': HRAEUD/KWREU/AES
-'tongue;': TUPBG STPH*FPLT
+'tongue;': TUPBG/STPH*FPLT
 'he': HE
 'had': H
 'given': TKPWEUFPB
@@ -880,7 +880,7 @@ The Goblin and the Huckster
 'contained': KAUPB/TAEUPBD
 'on': OPB
 'one': WUPB
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'and': SKP
 'was': WAS
 'just': SKWRUFT
@@ -897,7 +897,7 @@ The Goblin and the Huckster
 'describe': SKREU
 'what': WHA
 'was': WAS
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'when': WHEPB
 'the': -T
 'goblin': TKPWOB/HREUPB
@@ -908,15 +908,15 @@ The Goblin and the Huckster
 'tongue': TUPBG
 'to': TO
 'the': -T
-'lady.': HRA*ED TP-PL
+'lady.': HRA*ED/TP-PL
 'But': KPA/PWUT
 'from': TPR
 'that': THA
 'time': TAOEUPL
-'forward,': TPAORD KW-BG
+'forward,': TPAORD/KW-BG
 'the': -T
 'whole': WHOEL
-'shop,': SHOP KW-BG
+'shop,': SHOP/KW-BG
 'from': TPR
 'the': -T
 'cash': KARB
@@ -925,7 +925,7 @@ The Goblin and the Huckster
 'to': TO
 'the': -T
 'pinewood': PAOEUPB/WAO*D
-'logs,': HROGS KW-BG
+'logs,': HROGS/KW-BG
 'formed': TPORPLD
 'their': THAEUR
 'opinions': P-PBS
@@ -933,7 +933,7 @@ The Goblin and the Huckster
 'that': THA
 'of': -F
 'the': -T
-'cask;': KAFBG STPH*FPLT
+'cask;': KAFBG/STPH*FPLT
 'and': SKP
 'they': THE
 'all': AUL
@@ -941,14 +941,14 @@ The Goblin and the Huckster
 'such': SUFP
 'confidence': K-F
 'in': TPH
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'treated': TRAOETD
 'him': HEUPL
 'with': W
 'so': SO
 'much': PHUFP
-'respect,': R-PT KW-BG
+'respect,': R-PT/KW-BG
 'that': THA
 'when': WHEPB
 'the': -T
@@ -962,7 +962,7 @@ The Goblin and the Huckster
 'art': ART
 'of': -F
 'an': APB
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'they': THE
 'fancied': TPAPB/SEU/-D
 'it': T
@@ -971,13 +971,13 @@ The Goblin and the Huckster
 'come': KOPL
 'from': TPR
 'the': -T
-'cask.': KAFBG TP-PL
+'cask.': KAFBG/TP-PL
 'But': KPA/PWUT
 'after': AF
 'what': WHA
 'he': HE
 'had': H
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'the': -T
 'goblin': TKPWOB/HREUPB
 'could': KO
@@ -993,8 +993,8 @@ The Goblin and the Huckster
 'and': SKP
 'understanding': URPBGD
 'down': TKOUPB
-'stairs;': STAEURS STPH*FPLT
-'so,': SO KW-BG
+'stairs;': STAEURS/STPH*FPLT
+'so,': SO/KW-BG
 'as': AS
 'soon': SAOPB
 'as': AS
@@ -1004,10 +1004,10 @@ The Goblin and the Huckster
 'glimmered': TKPWHREUPL/ERD
 'in': TPH
 'the': -T
-'garret,': TKPWAEUR/RET KW-BG
+'garret,': TKPWAEUR/RET/KW-BG
 'he': HE
 'took': TAOBG
-'courage,': KORPBLG KW-BG
+'courage,': KORPBLG/KW-BG
 'for': TPOR
 'it': T
 'seemed': SAOEPLD
@@ -1021,10 +1021,10 @@ The Goblin and the Huckster
 'light': HRAOEUT
 'were': WR
 'strong': STROPBG
-'cables,': KAEUBLS KW-BG
+'cables,': KAEUBLS/KW-BG
 'drawing': TKRAUG
 'him': HEUPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'obliging': OBL/AOEUPBLG/-G
 'him': HEUPL
@@ -1034,10 +1034,10 @@ The Goblin and the Huckster
 'peep': PAOEP
 'through': THRU
 'the': -T
-'keyhole;': KAOE/HOEL STPH*FPLT
-'and,': SKP KW-BG
+'keyhole;': KAOE/HOEL/STPH*FPLT
+'and,': SKP/KW-BG
 'while': WHAOEUL
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'a': AEU
 'feeling': TPAOELG
 'of': -F
@@ -1051,20 +1051,20 @@ The Goblin and the Huckster
 'experience': SPAOERPBS
 'by': PWEU
 'the': -T
-'ever-moving': -FR H-PB PHOFG
-'sea,': SAE KW-BG
+'ever-moving': -FR/H-PB/PHOFG
+'sea,': SAE/KW-BG
 'when': WHEPB
 'the': -T
 'storm': STORPL
 'breaks': PWRAEBGS
-'forth;': TPO*RT STPH*FPLT
+'forth;': TPO*RT/STPH*FPLT
 'and': SKP
 'it': T
 'brought': PWRAUT
 'tears': TAERS
 'into': TPHAO
 'his': HEUS
-'eyes.': AO*EUS TP-PL
+'eyes.': AO*EUS/TP-PL
 'He': KPA/HE
 'did': TK
 'not': TPHOT
@@ -1072,7 +1072,7 @@ The Goblin and the Huckster
 'know': TPHOE
 'why': KWR
 'he': HE
-'wept,': WEPT KW-BG
+'wept,': WEPT/KW-BG
 'yet': KWRET
 'a': AEU
 'kind': KEUPBD
@@ -1082,8 +1082,8 @@ The Goblin and the Huckster
 'mingled': PHEUPBG/-LD
 'with': W
 'his': HEUS
-'tears.': TAERS TP-PL
-'"How': KR-GS KPA/HOU
+'tears.': TAERS/TP-PL
+'"How': KR-GS/KPA/HOU
 'wonderfully': WOPBD/TPHREU
 'glorious': TKPWHRORS
 'it': T
@@ -1097,14 +1097,14 @@ The Goblin and the Huckster
 'under': TPH-PB
 'such': SUFP
 'a': AEU
-'tree;"': TRAOE STPH*FPLT KR-GS
+'tree;"': TRAOE/STPH*FPLT/KR-GS
 'but': PWUT
 'that': THA
 'was': WAS
 'out': OUT
 'of': -F
 'the': -T
-'question,': KWE KW-BG
+'question,': KWE/KW-BG
 'he': HE
 'must': PHUFT
 'be': -B
@@ -1113,20 +1113,20 @@ The Goblin and the Huckster
 'look': HRAOBG
 'through': THRU
 'the': -T
-'keyhole,': KAOE/HOEL KW-BG
+'keyhole,': KAOE/HOEL/KW-BG
 'and': SKP
 'be': -B
 'thankful': THAPBG/-FL
 'for': TPOR
 'even': AOEPB
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'There': KPA/THR
 'he': HE
 'stood': STAOD
 'on': OPB
 'the': -T
 'old': OLD
-'landing,': HRAPBD/-G KW-BG
+'landing,': HRAPBD/-G/KW-BG
 'with': W
 'the': -T
 'autumn': AU/UPL
@@ -1137,11 +1137,11 @@ The Goblin and the Huckster
 'him': HEUPL
 'through': THRU
 'the': -T
-'trap-door.': TRAP H-PB TKAOR TP-PL
+'trap-door.': TRAP/H-PB/TKAOR/TP-PL
 'It': KPA/T
 'was': WAS
 'very': SRE
-'cold;': KOELD STPH*FPLT
+'cold;': KOELD/STPH*FPLT
 'but': PWUT
 'the': -T
 'little': HREUL
@@ -1150,7 +1150,7 @@ The Goblin and the Huckster
 'not': TPHOT
 'really': R-L
 'feel': TPAOEL
-'it,': T KW-BG
+'it,': T/KW-BG
 'till': TEUL
 'the': -T
 'light': HRAOEUT
@@ -1158,18 +1158,18 @@ The Goblin and the Huckster
 'the': -T
 'garret': TKPWAEUR/RET
 'went': WEPBT
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'the': -T
 'tones': TOEPBS
 'of': -F
 'music': PHAOUFBG
 'died': TKAOEUD
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Then': KPA/THEPB
 'how': HOU
 'he': HE
-'shivered,': SH*EUFR/-D KW-BG
+'shivered,': SH*EUFR/-D/KW-BG
 'and': SKP
 'crept': KREPT
 'down': TKOUPB
@@ -1178,18 +1178,18 @@ The Goblin and the Huckster
 'to': TO
 'his': HEUS
 'warm': WARPL
-'corner,': KRORPB KW-BG
+'corner,': KRORPB/KW-BG
 'where': W-R
 'it': T
 'felt': TPELT
-'home-like': HOEPL SKWRAOEUBG
+'home-like': HOEPL/SKWRAOEUBG
 'and': SKP
-'comfortable.': K-BL TP-PL
+'comfortable.': K-BL/TP-PL
 'And': AFPBD
 'when': WHEPB
 'Christmas': KREUS/PHAS
 'came': KAEUPL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'brought': PWRAUT
 'the': -T
@@ -1201,22 +1201,22 @@ The Goblin and the Huckster
 'great': TKPWRAET
 'lump': HRUFRP
 'of': -F
-'butter,': PWAOURT KW-BG
+'butter,': PWAOURT/KW-BG
 'he': HE
 'liked': HRAOEUBGD
 'the': -T
 'huckster': HUBG/STER
 'best': PWEFT
 'of': -F
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'Soon': KPA/SAOPB
-'after,': AF KW-BG
+'after,': AF/KW-BG
 'in': TPH
 'the': -T
 'middle': PH*EULD
 'of': -F
 'the': -T
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'the': -T
 'goblin': TKPWOB/HREUPB
 'was': WAS
@@ -1234,22 +1234,22 @@ The Goblin and the Huckster
 'and': SKP
 'the': -T
 'house': HOUS
-'doors,': TKAORS KW-BG
+'doors,': TKAORS/KW-BG
 'and': SKP
 'by': PWEU
 'the': -T
 'sound': SOUPBD
 'of': -F
 'the': -T
-'watchman's': WAFP/PHAPB AES
-'horn;': HORPB STPH*FPLT
+'watchman's': WAFP/PHAPB/AES
+'horn;': HORPB/STPH*FPLT
 'for': TPOR
 'a': AEU
 'great': TKPWRAET
 'fire': TPAOEUR
 'had': H
 'broken': PWROEPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'the': -T
 'whole': WHOEL
@@ -1257,27 +1257,27 @@ The Goblin and the Huckster
 'appeared': A/PAOERD
 'full': TPUL
 'of': -F
-'flames.': TPHRAEUPLS TP-PL
+'flames.': TPHRAEUPLS/TP-PL
 'Was': KPA/WAS
 'it': T
 'in': TPH
 'their': THAEUR
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'or': OR
 'a': AEU
-'neighbor's?': TPHAEUB AE S* H-F
+'neighbor's?': TPHAEUB/AE/S*/H-F
 'No': KPA/TPHO
 'one': WUPB
 'could': KO
-'tell,': TEL KW-BG
+'tell,': TEL/KW-BG
 'for': TPOR
 'terror': TER/O*R
 'had': H
 'seized': SAOEZ/-D
 'upon': POPB
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'The': KPA/-T
-'huckster's': HUBG/STER AES
+'huckster's': HUBG/STER/AES
 'wife': WAOEUF
 'was': WAS
 'so': SO
@@ -1287,7 +1287,7 @@ The Goblin and the Huckster
 'took': TAOBG
 'her': HER
 'gold': TKPWOELD
-'ear-rings': AOER H-PB REUPBGS
+'ear-rings': AOER/H-PB/REUPBGS
 'out': OUT
 'of': -F
 'her': HER
@@ -1297,14 +1297,14 @@ The Goblin and the Huckster
 'them': THEPL
 'in': TPH
 'her': HER
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'that': THA
 'she': SHE
 'might': PHAOEUT
 'save': SAF
 'something': S-G
 'at': AT
-'least.': HRAOEFT TP-PL
+'least.': HRAOEFT/TP-PL
 'The': KPA/-T
 'huckster': HUBG/STER
 'ran': RAPB
@@ -1312,7 +1312,7 @@ The Goblin and the Huckster
 'get': TKPWET
 'his': HEUS
 'business': PWEUS
-'papers,': PAEUPS KW-BG
+'papers,': PAEUPS/KW-BG
 'and': SKP
 'the': -T
 'servant': SEFRB/APBT
@@ -1322,13 +1322,13 @@ The Goblin and the Huckster
 'her': HER
 'blue': PWHRU
 'silk': S*EULG
-'mantle,': PHAPBT/*L KW-BG
+'mantle,': PHAPBT/*L/KW-BG
 'which': WEU
 'she': SHE
 'had': H
 'managed': PHAPBGD
 'to': TO
-'buy.': PWAOEU TP-PL
+'buy.': PWAOEU/TP-PL
 'Each': KPA/AOEFP
 'wished': WEURBD
 'to': TO
@@ -1337,17 +1337,17 @@ The Goblin and the Huckster
 'best': PWEFT
 'things': THEUPBGS
 'they': THE
-'had.': H TP-PL
+'had.': H/TP-PL
 'The': KPA/-T
 'goblin': TKPWOB/HREUPB
 'had': H
 'the': -T
 'same': SAEUPL
-'wish;': WEURB STPH*FPLT
-'for,': TPOR KW-BG
+'wish;': WEURB/STPH*FPLT
+'for,': TPOR/KW-BG
 'with': W
 'one': WUPB
-'spring,': SPREUPBG KW-BG
+'spring,': SPREUPBG/KW-BG
 'he': HE
 'was': WAS
 'up': UP
@@ -1355,8 +1355,8 @@ The Goblin and the Huckster
 'and': SKP
 'in': TPH
 'the': -T
-'student's': STAUPB AES
-'room,': RAOPL KW-BG
+'student's': STAUPB/AES
+'room,': RAOPL/KW-BG
 'whom': WHOPL
 'he': HE
 'found': TPOUPBD
@@ -1364,14 +1364,14 @@ The Goblin and the Huckster
 'by': PWEU
 'the': -T
 'open': OEP
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'and': SKP
 'looking': HRAOG
 'quite': KWAOEUT
 'calmly': KAUPL/HREU
 'at': AT
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'which': WEU
 'was': WAS
 'raging': RAG/-G
@@ -1381,7 +1381,7 @@ The Goblin and the Huckster
 'of': -F
 'a': AEU
 'neighbor': TPHAEUB
-'opposite.': OP/SEUT TP-PL
+'opposite.': OP/SEUT/TP-PL
 'The': KPA/-T
 'goblin': TKPWOB/HREUPB
 'caught': KAUT
@@ -1393,21 +1393,21 @@ The Goblin and the Huckster
 'lay': HRAEU
 'on': OPB
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'popped': POPD
 'it': T
 'into': TPHAO
 'his': HEUS
 'red': RED
-'cap,': KAP KW-BG
+'cap,': KAP/KW-BG
 'which': WEU
 'he': HE
 'held': HELD
 'tightly': TAOEUT/HREU
 'with': W
 'both': PWO*T
-'hands.': HAPBDZ TP-PL
+'hands.': HAPBDZ/TP-PL
 'The': KPA/-T
 'greatest': TKPWRAET/EFT
 'treasure': TRERB
@@ -1415,7 +1415,7 @@ The Goblin and the Huckster
 'the': -T
 'house': HOUS
 'was': WAS
-'saved;': SAFD STPH*FPLT
+'saved;': SAFD/STPH*FPLT
 'and': SKP
 'he': HE
 'ran': RAPB
@@ -1424,13 +1424,13 @@ The Goblin and the Huckster
 'it': T
 'to': TO
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'and': SKP
 'seated': SAOETD
 'himself': HEUPLS
 'on': OPB
 'the': -T
-'chimney.': KHEUPL/TPHEU TP-PL
+'chimney.': KHEUPL/TPHEU/TP-PL
 'The': KPA/-T
 'flames': TPHRAEUPLS
 'of': -F
@@ -1442,19 +1442,19 @@ The Goblin and the Huckster
 'him': HEUPL
 'as': AS
 'he': HE
-'sat,': SAT KW-BG
+'sat,': SAT/KW-BG
 'both': PWO*T
 'hands': HAPBDZ
 'pressed': PREFD
 'tightly': TAOEUT/HREU
 'over': OEFR
 'his': HEUS
-'cap,': KAP KW-BG
+'cap,': KAP/KW-BG
 'in': TPH
 'which': WEU
 'the': -T
 'treasure': TRERB
-'lay;': HRAEU STPH*FPLT
+'lay;': HRAEU/STPH*FPLT
 'and': SKP
 'then': THEPB
 'he': HE
@@ -1466,52 +1466,52 @@ The Goblin and the Huckster
 'reigned': RAEPB/-D
 'in': TPH
 'his': HEUS
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'knew': TPHAOU
 'exactly': ELG
 'which': WEU
 'way': WAEU
 'they': THE
-'tended.': TEPBD/-D TP-PL
+'tended.': TEPBD/-D/TP-PL
 'And': AFPBD
-'yet,': KWRET KW-BG
+'yet,': KWRET/KW-BG
 'when': WHEPB
 'the': -T
 'fire': TPAOEUR
 'was': WAS
-'extinguished,': EBGS/TEUPBG/WEURBD KW-BG
+'extinguished,': EBGS/TEUPBG/WEURBD/KW-BG
 'and': SKP
 'the': -T
 'goblin': TKPWOB/HREUPB
 'again': TKPWEPB
 'began': TKPWAPB
 'to': TO
-'reflect,': TPHREBGT KW-BG
+'reflect,': TPHREBGT/KW-BG
 'he': HE
-'hesitated,': HES/TAEUT/-D KW-BG
+'hesitated,': HES/TAEUT/-D/KW-BG
 'and': SKP
 'said': SED
 'at': AT
-'last,': HRAFT KW-BG
-'"I': KR-GS EU
+'last,': HRAFT/KW-BG
+'"I': KR-GS/EU
 'must': PHUFT
 'divide': TKWAOEUD
 'myself': PHAO*EUS
 'between': TWAOEPB
 'the': -T
-'two;': TWO STPH*FPLT
+'two;': TWO/STPH*FPLT
 'I': EU
 'cannot': SK-PBT
 'quite': KWAOEUT
 'give': TKPWEUF
 'up': UP
 'the': -T
-'huckster,': HUBG/STER KW-BG
+'huckster,': HUBG/STER/KW-BG
 'because': PWAU
 'of': -F
 'the': -T
-'jam."': SKWRAPL TP-PL KR-GS
+'jam."': SKWRAPL/TP-PL/KR-GS
 'And': AFPBD
 'this': TH
 'is': S
@@ -1519,12 +1519,12 @@ The Goblin and the Huckster
 'representation': REPGS
 'of': -F
 'human': HAOUPL
-'nature.': TPHAEURT TP-PL
+'nature.': TPHAEURT/TP-PL
 'We': KPA/WE
 'are': R
 'like': HRAOEUBG
 'the': -T
-'goblin;': TKPWOB/HREUPB STPH*FPLT
+'goblin;': TKPWOB/HREUPB/STPH*FPLT
 'we': WE
 'all': AUL
 'go': TKPW
@@ -1532,7 +1532,7 @@ The Goblin and the Huckster
 'visit': SREUFT
 'the': -T
 'huckster': HUBG/STER
-'"because': KR-GS PWAU
+'"because': KR-GS/PWAU
 'of': -F
 'the': -T
-'jam."': SKWRAPL TP-PL KR-GS
+'jam."': SKWRAPL/TP-PL/KR-GS

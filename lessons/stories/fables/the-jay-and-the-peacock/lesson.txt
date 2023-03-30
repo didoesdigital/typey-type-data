@@ -10,7 +10,7 @@ The Jay and the Peacock
 'Peacocks': KPA/PAE/KOBG/-S
 'used': AOUFD
 'to': TO
-'walk,': WAUBG KW-BG
+'walk,': WAUBG/KW-BG
 'found': TPOUPBD
 'there': THR
 'a': AEU
@@ -26,7 +26,7 @@ The Jay and the Peacock
 'when': WHEPB
 'they': THE
 'were': WR
-'moulting.': PHOLT/A*U/-G TP-PL
+'moulting.': PHOLT/A*U/-G/TP-PL
 'He': KPA/HE
 'tied': TAO*EUD
 'them': THEPL
@@ -39,7 +39,7 @@ The Jay and the Peacock
 'down': TKOUPB
 'towards': TORDZ
 'the': -T
-'Peacocks.': KPA/PAE/KOBG/-S TP-PL
+'Peacocks.': KPA/PAE/KOBG/-S/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'came': KAEUPL
@@ -49,7 +49,7 @@ The Jay and the Peacock
 'soon': SAOPB
 'discovered': SKOFD
 'the': -T
-'cheat,': KHAOET KW-BG
+'cheat,': KHAOET/KW-BG
 'and': SKP
 'striding': STRAOEUD/-G
 'up': UP
@@ -63,7 +63,7 @@ The Jay and the Peacock
 'away': WA*EU
 'his': HEUS
 'borrowed': PWO*ERD
-'plumes.': PHRAOUPL/-S TP-PL
+'plumes.': PHRAOUPL/-S/TP-PL
 'So': KPA/SO
 'the': -T
 'Jay': SKWRA*EU
@@ -77,7 +77,7 @@ The Jay and the Peacock
 'to': TO
 'the': -T
 'other': OER
-'Jays,': SKWRA*EU/-S KW-BG
+'Jays,': SKWRA*EU/-S/KW-BG
 'who': WHO
 'had': H
 'watched': WAFPD
@@ -85,18 +85,18 @@ The Jay and the Peacock
 'behaviour': PWAEUFR/A*U
 'from': TPR
 'a': AEU
-'distance;': STKAPBS STPH*FPLT
+'distance;': STKAPBS/STPH*FPLT
 'but': PWUT
 'they': THE
 'were': WR
 'equally': KWAEL
 'annoyed': TPHOEUD
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'told': TOLD
-'him:': HEUPL STPH-FPLT
-'"It': KR-GS KPA/T
+'him:': HEUPL/STPH-FPLT
+'"It': KR-GS/KPA/T
 'is': S
 'not': TPHOT
 'only': OEPBL
@@ -105,4 +105,4 @@ The Jay and the Peacock
 'that': THA
 'make': PHAEUBG
 'fine': TPAOEUPB
-'birds."': PWEURDZ TP-PL KR-GS
+'birds."': PWEURDZ/TP-PL/KR-GS

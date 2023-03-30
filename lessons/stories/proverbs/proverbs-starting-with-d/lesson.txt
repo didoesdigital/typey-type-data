@@ -5,41 +5,41 @@ Proverbs starting with D
 'must': PHUFT
 'have': SR
 'desperate': TKEFP/RAT
-'cures.': KAOURZ TP-PL
+'cures.': KAOURZ/TP-PL
 'Desperate': KPA/TKEFP/RAT
 'diseases': STKAOESZ
 'must': PHUFT
 'have': SR
 'desperate': TKEFP/RAT
-'remedies.': REPL/TKEUS TP-PL
+'remedies.': REPL/TKEUS/TP-PL
 'Desperate': KPA/TKEFP/RAT
 'times': TAOEUPLS
 'call': KAUL
 'for': TPOR
 'desperate': TKEFP/RAT
-'measures.': PH-RBS TP-PL
+'measures.': PH-RBS/TP-PL
 'Different': KPA/TKEUFRT
 'sores': SORZ
 'must': PHUFT
 'have': SR
 'different': TKEUFRT
-'salves.': SAL/*FS TP-PL
+'salves.': SAL/*FS/TP-PL
 'Diseases': KPA/STKAOESZ
 'come': KOPL
 'on': OPB
-'horseback,': HORS/PWA*BG KW-BG
+'horseback,': HORS/PWA*BG/KW-BG
 'but': PWUT
 'steal': STAEL
 'away': WA*EU
 'on': OPB
-'foot.': TPAOT TP-PL
+'foot.': TPAOT/TP-PL
 'Do': KPA/TKO
 'as': AS
 'you': U
 'would': WO
 'be': -B
 'done': TKOPB
-'by.': PWEU TP-PL
+'by.': PWEU/TP-PL
 'Do': KPA/TKO
 'unto': UPB/TO
 'others': OERS
@@ -49,38 +49,38 @@ Proverbs starting with D
 'have': SR
 'done': TKOPB
 'to': TO
-'you.': U TP-PL
+'you.': U/TP-PL
 'Doctors': KPA/TKR-S
 'make': PHAEUBG
 'the': -T
 'worst': WOFRT
-'patients.': PAEURBZ TP-PL
-'Don't': TKO*PB AE T*
+'patients.': PAEURBZ/TP-PL
+'Don't': TKO*PB/AE/T*
 'burn': PWURPB
 'your': KWROUR
 'bridges': PWREUPBLGS
 'before': PW-FR
 'they're': THER
-'crossed.': KROFD TP-PL
-'Don't': TKO*PB AE T*
+'crossed.': KROFD/TP-PL
+'Don't': TKO*PB/AE/T*
 'burn': PWURPB
 'your': KWROUR
 'bridges': PWREUPBLGS
 'behind': HEUPBD
-'you.': U TP-PL
-'Don't': TKO*PB AE T*
+'you.': U/TP-PL
+'Don't': TKO*PB/AE/T*
 'change': KHAEUPBG
 'horses': HORSZ
 'in': TPH
-'midstream.': PHEUD/STRAOEPL TP-PL
-'Don't': TKO*PB AE T*
+'midstream.': PHEUD/STRAOEPL/TP-PL
+'Don't': TKO*PB/AE/T*
 'count': KOUPBT
 'your': KWROUR
 'chickens': KHEU/KEPB/-S
 'before': PW-FR
 'they're': THER
-'hatched.': HAFPD TP-PL
-'Don't': TKO*PB AE T*
+'hatched.': HAFPD/TP-PL
+'Don't': TKO*PB/AE/T*
 'cross': KROS
 'a': AEU
 'bridge': PWREUPBLG
@@ -88,13 +88,13 @@ Proverbs starting with D
 'you': U
 'come': KOPL
 'to': TO
-'it.': T TP-PL
-'Don't': TKO*PB AE T*
+'it.': T/TP-PL
+'Don't': TKO*PB/AE/T*
 'cry': KRAOEU
 'over': OEFR
 'spilt': SPEULT
-'milk.': PH*EULG TP-PL
-'Don't': TKO*PB AE T*
+'milk.': PH*EULG/TP-PL
+'Don't': TKO*PB/AE/T*
 'cut': KUT
 'off': OF
 'your': KWROUR
@@ -102,39 +102,39 @@ Proverbs starting with D
 'to': TO
 'spite': SPAOEUT
 'your': KWROUR
-'face.': TPAEUS TP-PL
-'Don't': TKO*PB AE T*
+'face.': TPAEUS/TP-PL
+'Don't': TKO*PB/AE/T*
 'have': SR
 'too': TAO
 'many': PHAEPB
 'irons': AOEURPBS
 'in': TPH
 'the': -T
-'fire.': TPAOEUR TP-PL
-'Don't': TKO*PB AE T*
+'fire.': TPAOEUR/TP-PL
+'Don't': TKO*PB/AE/T*
 'make': PHAEUBG
 'a': AEU
 'mountain': PHOUPB/TAEUPB
 'out': OUT
 'of': -F
 'a': AEU
-'molehill.': PHOEL/HEUL TP-PL
-'Don't': TKO*PB AE T*
+'molehill.': PHOEL/HEUL/TP-PL
+'Don't': TKO*PB/AE/T*
 'put': PUT
 'all': AUL
 'your': KWROUR
 'eggs': EGS
 'in': TPH
 'one': WUPB
-'basket.': PWAFBGT TP-PL
-'Don't': TKO*PB AE T*
+'basket.': PWAFBGT/TP-PL
+'Don't': TKO*PB/AE/T*
 'put': PUT
 'the': -T
 'cart': KART
 'before': PW-FR
 'the': -T
-'horse.': HORS TP-PL
-'Don't': TKO*PB AE T*
+'horse.': HORS/TP-PL
+'Don't': TKO*PB/AE/T*
 'put': PUT
 'off': OF
 'until': TPH-L
@@ -143,8 +143,8 @@ Proverbs starting with D
 'you': U
 'can': K
 'do': TKO
-'today.': TOED TP-PL
-'Don't': TKO*PB AE T*
+'today.': TOED/TP-PL
+'Don't': TKO*PB/AE/T*
 'shut': SHUT
 'the': -T
 'barn': PWARPB
@@ -153,8 +153,8 @@ Proverbs starting with D
 'the': -T
 'horse': HORS
 'is': S
-'gone.': TKPWOPB TP-PL
-'Don't': TKO*PB AE T*
+'gone.': TKPWOPB/TP-PL
+'Don't': TKO*PB/AE/T*
 'shut': SHUT
 'the': -T
 'gate': TKPWAET
@@ -162,26 +162,26 @@ Proverbs starting with D
 'the': -T
 'horse': HORS
 'has': HAS
-'bolted.': PWOLT/-D TP-PL
-'Don't': TKO*PB AE T*
+'bolted.': PWOLT/-D/TP-PL
+'Don't': TKO*PB/AE/T*
 'spit': SPEUT
 'into': TPHAO
 'the': -T
-'wind.': WEUPBD TP-PL
-'Don't': TKO*PB AE T*
+'wind.': WEUPBD/TP-PL
+'Don't': TKO*PB/AE/T*
 'throw': THROE
 'out': OUT
 'the': -T
 'baby': PWAEB
 'with': W
 'the': -T
-'bathwater.': PWA*T/WAUR TP-PL
+'bathwater.': PWA*T/WAUR/TP-PL
 'Doubt': KPA/TKOUT
 'is': S
 'the': -T
-'beginning,': TKPWEUPB/-G KW-BG
+'beginning,': TKPWEUPB/-G/KW-BG
 'not': TPHOT
 'the': -T
-'end,': EPBD KW-BG
+'end,': EPBD/KW-BG
 'of': -F
-'wisdom.': WEUZ/TKOPL TP-PL
+'wisdom.': WEUZ/TKOPL/TP-PL

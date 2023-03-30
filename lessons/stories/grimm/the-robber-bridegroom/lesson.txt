@@ -9,13 +9,13 @@ The Robber Bridegroom
 'had': H
 'one': WUPB
 'beautiful': PWAOUFL
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
 'was': WAS
 'grown': TKPWROEPB
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'he': HE
 'was': WAS
 'anxious': KPUS
@@ -27,12 +27,12 @@ The Robber Bridegroom
 'married': PHAERD
 'and': SKP
 'provided': PROE/SRAOEUD/-D
-'for.': TPOR TP-PL
+'for.': TPOR/TP-PL
 'He': KPA/HE
 'said': SED
 'to': TO
-'himself,': HEUPLS KW-BG
-''I': AE EU
+'himself,': HEUPLS/KW-BG
+''I': AE/EU
 'will': HR
 'give': TKPWEUF
 'her': HER
@@ -47,13 +47,13 @@ The Robber Bridegroom
 'asks': SK-S
 'for': TPOR
 'her': HER
-'hand.'': HAPBD TP-PL AE
+'hand.'': HAPBD/TP-PL/AE
 'Not': KPA/TPHOT
 'long': HROPBG
 'after': AF
 'a': AEU
 'suitor': SAOU/TOR
-'appeared,': A/PAOERD KW-BG
+'appeared,': A/PAOERD/KW-BG
 'and': SKP
 'as': AS
 'he': HE
@@ -74,13 +74,13 @@ The Robber Bridegroom
 'which': WEU
 'to': TO
 'find': TPAOEUPBD
-'fault,': TPAULT KW-BG
+'fault,': TPAULT/KW-BG
 'he': HE
 'betrothed': PWE/TRO*T/-D
 'his': HEUS
 'daughter': TKAUR
 'to': TO
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'But': KPA/PWUT
 'the': -T
 'girl': TKPWEURL
@@ -99,7 +99,7 @@ The Robber Bridegroom
 'for': TPOR
 'her': HER
 'betrothed': PWE/TRO*T/-D
-'husband.': HUS TP-PL
+'husband.': HUS/TP-PL
 'She': KPA/SHE
 'did': TK
 'not': TPHOT
@@ -108,7 +108,7 @@ The Robber Bridegroom
 'she': SHE
 'could': KO
 'trust': TRUFT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'she': SHE
 'could': KO
@@ -123,21 +123,21 @@ The Robber Bridegroom
 'without': WOUT
 'an': APB
 'inward': EUPB/WARD
-'shudder.': SHUD/ER TP-PL
+'shudder.': SHUD/ER/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'he': HE
 'said': SED
 'to': TO
-'her,': HER KW-BG
-''You': AE KPA/U
+'her,': HER/KW-BG
+''You': AE/KPA/U
 'have': SR
 'not': TPHOT
 'yet': KWRET
 'paid': PAEUD
 'me': PHE
 'a': AEU
-'visit,': SREUFT KW-BG
+'visit,': SREUFT/KW-BG
 'although': HR*T
 'we': WE
 'have': SR
@@ -145,18 +145,18 @@ The Robber Bridegroom
 'betrothed': PWE/TRO*T/-D
 'for': TPOR
 'some': SOPL
-'time.'': TAOEUPL TP-PL AE
-''I': AE EU
+'time.'': TAOEUPL/TP-PL/AE
+''I': AE/EU
 'do': TKO
 'not': TPHOT
 'know': TPHOE
 'where': W-R
 'your': KWROUR
 'house': HOUS
-'is,'': S KW-BG AE
+'is,'': S/KW-BG/AE
 'she': SHE
-'answered.': AEPBS/-D TP-PL
-''My': AE KPA/PHEU
+'answered.': AEPBS/-D/TP-PL
+''My': AE/KPA/PHEU
 'house': HOUS
 'is': S
 'out': OUT
@@ -164,9 +164,9 @@ The Robber Bridegroom
 'in': TPH
 'the': -T
 'dark': TKARBG
-'forest,'': TPOEFRT KW-BG AE
+'forest,'': TPOEFRT/KW-BG/AE
 'he': HE
-'said.': SED TP-PL
+'said.': SED/TP-PL
 'She': KPA/SHE
 'tried': TRAOEUD
 'to': TO
@@ -184,19 +184,19 @@ The Robber Bridegroom
 'find': TPAOEUPBD
 'the': -T
 'way': WAEU
-'thither.': TH*EURT TP-PL
+'thither.': TH*EURT/TP-PL
 'Her': KPA/HER
 'betrothed': PWE/TRO*T/-D
 'only': OEPBL
-'replied,': RE/PHRAOEUD KW-BG
-''You': AE KPA/U
+'replied,': RE/PHRAOEUD/KW-BG
+''You': AE/KPA/U
 'must': PHUFT
 'come': KOPL
 'and': SKP
 'see': SAOE
 'me': PHE
 'next': TPHEGT
-'Sunday;': SUPBD STPH*FPLT
+'Sunday;': SUPBD/STPH*FPLT
 'I': EU
 'have': SR
 'already': HR-R
@@ -204,7 +204,7 @@ The Robber Bridegroom
 'guests': TKPWEFTS
 'for': TPOR
 'that': THA
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'that': THA
 'you': U
@@ -212,17 +212,17 @@ The Robber Bridegroom
 'not': TPHOT
 'mistake': SPHAEUBG
 'the': -T
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'I': EU
 'will': HR
 'strew': STRAOU
 'ashes': ARBS
 'along': HRAOPBG
 'the': -T
-'path.'': PA*T TP-PL AE
+'path.'': PA*T/TP-PL/AE
 'When': KPA/WHEPB
 'Sunday': SUPBD
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -231,7 +231,7 @@ The Robber Bridegroom
 'the': -T
 'girl': TKPWEURL
 'to': TO
-'start,': START KW-BG
+'start,': START/KW-BG
 'a': AEU
 'feeling': TPAOELG
 'of': -F
@@ -243,7 +243,7 @@ The Robber Bridegroom
 'she': SHE
 'could': KO
 'not': TPHOT
-'explain,': SPHRAEUPB KW-BG
+'explain,': SPHRAEUPB/KW-BG
 'and': SKP
 'that': THA
 'she': SHE
@@ -254,7 +254,7 @@ The Robber Bridegroom
 'find': TPAOEUPBD
 'her': HER
 'path': PA*T
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'she': SHE
 'filled': TPEULD
 'her': HER
@@ -271,7 +271,7 @@ The Robber Bridegroom
 'as': AS
 'she': SHE
 'went': WEPBT
-'along.': HRAOPBG TP-PL
+'along.': HRAOPBG/TP-PL
 'On': KPA/OPB
 'reaching': RAOEFPG
 'the': -T
@@ -285,11 +285,11 @@ The Robber Bridegroom
 'path': PA*T
 'strewed': STRAOU/-D
 'with': W
-'ashes,': ARBS KW-BG
+'ashes,': ARBS/KW-BG
 'and': SKP
 'these': THEZ
 'she': SHE
-'followed,': TPOLD KW-BG
+'followed,': TPOLD/KW-BG
 'throwing': THROEG
 'down': TKOUPB
 'some': SOPL
@@ -303,7 +303,7 @@ The Robber Bridegroom
 'every': EF
 'step': STEP
 'she': SHE
-'took.': TAOBG TP-PL
+'took.': TAOBG/TP-PL
 'She': KPA/SHE
 'walked': WAUBGD
 'the': -T
@@ -314,23 +314,23 @@ The Robber Bridegroom
 'came': KAEUPL
 'to': TO
 'the': -T
-'deepest,': TKAOEP/EFT KW-BG
+'deepest,': TKAOEP/EFT/KW-BG
 'darkest': TKARBG/EFT
 'part': PART
 'of': -F
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'There': KPA/THR
 'she': SHE
 'saw': SAU
 'a': AEU
 'lonely': HROEPBL
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'looking': HRAOG
 'so': SO
 'grim': TKPWREUPL
 'and': SKP
-'mysterious,': PHEUFT/KWROUS KW-BG
+'mysterious,': PHEUFT/KWROUS/KW-BG
 'that': THA
 'it': T
 'did': TK
@@ -338,10 +338,10 @@ The Robber Bridegroom
 'please': PHRES
 'her': HER
 'at': AT
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'She': KPA/SHE
 'stepped': STEPD
-'inside,': TPH-DZ KW-BG
+'inside,': TPH-DZ/KW-BG
 'but': PWUT
 'not': TPHOT
 'a': AEU
@@ -349,30 +349,30 @@ The Robber Bridegroom
 'was': WAS
 'to': TO
 'be': -B
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'and': SKP
 'a': AEU
 'great': TKPWRAET
 'silence': SHREPBS
 'reigned': RAEPB/-D
-'throughout.': THROUT TP-PL
+'throughout.': THROUT/TP-PL
 'Suddenly': KPA/SULD
 'a': AEU
 'voice': SROEUS
-'cried:': KRAOEUD STPH-FPLT
-''Turn': AE KPA/TURPB
-'back,': PWABG KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Turn': AE/KPA/TURPB
+'back,': PWABG/KW-BG
 'turn': TURPB
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'young': KWRUPBG
 'maiden': PHAEUD/*EPB
-'fair,': TPAEUR KW-BG
+'fair,': TPAEUR/KW-BG
 'Linger': KPA/HREURPBG
 'not': TPHOT
 'in': TPH
 'this': TH
-'murderers'': PHURD/RER/-S AE
-'lair.'': HRA*EUR TP-PL AE
+'murderers'': PHURD/RER/-S/AE
+'lair.'': HRA*EUR/TP-PL/AE
 'The': KPA/-T
 'girl': TKPWEURL
 'looked': HRAOBGD
@@ -392,27 +392,27 @@ The Robber Bridegroom
 'cage': KAEUPBLG
 'on': OPB
 'the': -T
-'wall.': WAUL TP-PL
+'wall.': WAUL/TP-PL
 'Again': KPA/TKPWEPB
 'it': T
-'cried:': KRAOEUD STPH-FPLT
-''Turn': AE KPA/TURPB
-'back,': PWABG KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Turn': AE/KPA/TURPB
+'back,': PWABG/KW-BG
 'turn': TURPB
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'young': KWRUPBG
 'maiden': PHAEUD/*EPB
-'fair,': TPAEUR KW-BG
+'fair,': TPAEUR/KW-BG
 'Linger': KPA/HREURPBG
 'not': TPHOT
 'in': TPH
 'this': TH
-'murderers'': PHURD/RER/-S AE
-'lair.'': HRA*EUR TP-PL AE
+'murderers'': PHURD/RER/-S/AE
+'lair.'': HRA*EUR/TP-PL/AE
 'The': KPA/-T
 'girl': TKPWEURL
 'passed': PAFD
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'going': TKPW-G
 'from': TPR
 'room': RAOPL
@@ -420,33 +420,33 @@ The Robber Bridegroom
 'room': RAOPL
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'but': PWUT
 'they': THE
 'were': WR
 'all': AUL
-'empty,': EPLT KW-BG
+'empty,': EPLT/KW-BG
 'and': SKP
 'still': STEUL
 'she': SHE
 'saw': SAU
 'no': TPHO
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'she': SHE
 'came': KAEUPL
 'to': TO
 'the': -T
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'and': SKP
 'there': THR
 'sat': SAT
 'a': AEU
-'very,': SRE KW-BG
+'very,': SRE/KW-BG
 'very': SRE
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'who': WHO
 'could': KO
 'not': TPHOT
@@ -454,47 +454,47 @@ The Robber Bridegroom
 'her': HER
 'head': HED
 'from': TPR
-'shaking.': SHAEUG TP-PL
-''Can': AE KPA/K
+'shaking.': SHAEUG/TP-PL
+''Can': AE/KPA/K
 'you': U
 'tell': TEL
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'asked': SK-D
 'the': -T
-'girl,': TKPWEURL KW-BG
-''if': AE TP
+'girl,': TKPWEURL/KW-BG
+''if': AE/TP
 'my': PHEU
 'betrothed': PWE/TRO*T/-D
 'husband': HUS
 'lives': HREUFS
-'here?'': HAOER H-F AE
-''Ah,': AE KPA/HA*E KW-BG
+'here?'': HAOER/H-F/AE
+''Ah,': AE/KPA/HA*E/KW-BG
 'you': U
 'poor': PAOR
-'child,'': KHAOEULD KW-BG AE
+'child,'': KHAOEULD/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
 'old': OLD
-'woman,': WOPL KW-BG
-''what': AE WHA
+'woman,': WOPL/KW-BG
+''what': AE/WHA
 'a': AEU
 'place': PHRAEUS
 'for': TPOR
 'you': U
 'to': TO
 'come': KOPL
-'to!': TO SKHRAPL
+'to!': TO/SKHRAPL
 'This': KPA/TH
 'is': S
 'a': AEU
-'murderers'': PHURD/RER/-S AE
-'den.': TKEPB TP-PL
+'murderers'': PHURD/RER/-S/AE
+'den.': TKEPB/TP-PL
 'You': KPA/U
 'think': THEU
 'yourself': KWRO*URS
 'a': AEU
 'promised': PROPLS/-D
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'and': SKP
 'that': THA
 'your': KWROUR
@@ -502,7 +502,7 @@ The Robber Bridegroom
 'will': HR
 'soon': SAOPB
 'take': TAEUBG
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'but': PWUT
 'it': T
 'is': S
@@ -514,8 +514,8 @@ The Robber Bridegroom
 'keep': KAOEP
 'your': KWROUR
 'marriage': PHAERPBLG
-'feast.': TPAOEFT TP-PL
-'Look,': KPA/HRAOBG KW-BG
+'feast.': TPAOEFT/TP-PL
+'Look,': KPA/HRAOBG/KW-BG
 'do': TKO
 'you': U
 'see': SAOE
@@ -532,7 +532,7 @@ The Robber Bridegroom
 'keep': KAOEP
 'on': OPB
 'the': -T
-'fire!': TPAOEUR SKHRAPL
+'fire!': TPAOEUR/SKHRAPL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -547,18 +547,18 @@ The Robber Bridegroom
 'kill': KEUL
 'you': U
 'without': WOUT
-'mercy,': PHER/SEU KW-BG
+'mercy,': PHER/SEU/KW-BG
 'and': SKP
 'cook': KAOBG
 'and': SKP
 'eat': AOET
-'you,': U KW-BG
+'you,': U/KW-BG
 'for': TPOR
 'they': THE
 'are': R
 'eaters': AOET/*ERS
 'of': -F
-'men.': PHEPB TP-PL
+'men.': PHEPB/TP-PL
 'If': KPA/TP
 'I': EU
 'did': TK
@@ -569,11 +569,11 @@ The Robber Bridegroom
 'you': U
 'and': SKP
 'save': SAF
-'you,': U KW-BG
+'you,': U/KW-BG
 'you': U
 'would': WO
 'be': -B
-'lost.'': HRO*S TP-PL AE
+'lost.'': HRO*S/TP-PL/AE
 'Thereupon': KPA/THRUP
 'the': -T
 'old': OLD
@@ -583,26 +583,26 @@ The Robber Bridegroom
 'behind': HEUPBD
 'a': AEU
 'large': HRARPBLG
-'cask,': KAFBG KW-BG
+'cask,': KAFBG/KW-BG
 'which': WEU
 'quite': KWAOEUT
 'hid': HEUD
 'her': HER
 'from': TPR
-'view.': SRAOU TP-PL
-''Keep': AE KPA/KAOEP
+'view.': SRAOU/TP-PL
+''Keep': AE/KPA/KAOEP
 'as': AS
 'still': STEUL
 'as': AS
 'a': AEU
-'mouse,'': PHOUS KW-BG AE
+'mouse,'': PHOUS/KW-BG/AE
 'she': SHE
-'said;': SED STPH*FPLT
-''do': AE TKO
+'said;': SED/STPH*FPLT
+''do': AE/TKO
 'not': TPHOT
 'move': PHOF
 'or': OR
-'speak,': SPAOEBG KW-BG
+'speak,': SPAOEBG/KW-BG
 'or': OR
 'it': T
 'will': HR
@@ -610,18 +610,18 @@ The Robber Bridegroom
 'all': AUL
 'over': OEFR
 'with': W
-'you.': U TP-PL
-'Tonight,': KPA/TOPBT KW-BG
+'you.': U/TP-PL
+'Tonight,': KPA/TOPBT/KW-BG
 'when': WHEPB
 'the': -T
 'robbers': RORBS
 'are': R
 'all': AUL
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'we': WE
 'will': HR
 'flee': TPHRAOE
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'I': EU
 'have': SR
 'long': HROPBG
@@ -631,7 +631,7 @@ The Robber Bridegroom
 'an': APB
 'opportunity': TAOUPBT
 'to': TO
-'escape.'': SKAEP TP-PL AE
+'escape.'': SKAEP/TP-PL/AE
 'The': KPA/-T
 'words': WORDZ
 'were': WR
@@ -644,18 +644,18 @@ The Robber Bridegroom
 'the': -T
 'godless': TKPWOD/-LS
 'crew': KRAOU
-'returned,': RURPBD KW-BG
+'returned,': RURPBD/KW-BG
 'dragging': TKRAG/-G
 'another': TPHOER
 'young': KWRUPBG
 'girl': TKPWEURL
 'along': HRAOPBG
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'They': KPA/THE
 'were': WR
 'all': AUL
-'drunk,': TKR*UPBG KW-BG
+'drunk,': TKR*UPBG/KW-BG
 'and': SKP
 'paid': PAEUD
 'no': TPHO
@@ -664,27 +664,27 @@ The Robber Bridegroom
 'her': HER
 'cries': KRAOEUS
 'and': SKP
-'lamentations.': HRAPLT/TAEUGS/-S TP-PL
+'lamentations.': HRAPLT/TAEUGS/-S/TP-PL
 'They': KPA/THE
 'gave': TKPWAEUF
 'her': HER
 'wine': WAOEUPB
 'to': TO
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'three': THRAOE
 'glasses': TKPWHRAFS
-'full,': TPUL KW-BG
+'full,': TPUL/KW-BG
 'one': WUPB
 'of': -F
 'white': WHAOEUT
-'wine,': WAOEUPB KW-BG
+'wine,': WAOEUPB/KW-BG
 'one': WUPB
 'of': -F
-'red,': RED KW-BG
+'red,': RED/KW-BG
 'and': SKP
 'one': WUPB
 'of': -F
-'yellow,': KWREL/OE KW-BG
+'yellow,': KWREL/OE/KW-BG
 'and': SKP
 'with': W
 'that': THA
@@ -694,31 +694,31 @@ The Robber Bridegroom
 'way': WAEU
 'and': SKP
 'she': SHE
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'tore': TO*R
 'off': OF
 'her': HER
 'dainty': TKAEUPB/TEU
-'clothing,': KHRO*ET/-G KW-BG
+'clothing,': KHRO*ET/-G/KW-BG
 'laid': HRAEUD
 'her': HER
 'on': OPB
 'a': AEU
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'cut': KUT
 'her': HER
 'beautiful': PWAOUFL
 'body': PWO*ED
 'into': TPHAO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'sprinkled': SPREUPB/K-LD
 'salt': SALT
 'upon': POPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'The': KPA/-T
 'poor': PAOR
 'betrothed': PWE/TRO*T/-D
@@ -729,7 +729,7 @@ The Robber Bridegroom
 'shuddering': SHUD/ERG
 'behind': HEUPBD
 'the': -T
-'cask,': KAFBG KW-BG
+'cask,': KAFBG/KW-BG
 'for': TPOR
 'she': SHE
 'saw': SAU
@@ -744,7 +744,7 @@ The Robber Bridegroom
 'her': HER
 'by': PWEU
 'the': -T
-'robbers.': RORBS TP-PL
+'robbers.': RORBS/TP-PL
 'One': KPA/WUPB
 'of': -F
 'them': THEPL
@@ -762,7 +762,7 @@ The Robber Bridegroom
 'of': -F
 'the': -T
 'murdered': PHURD/-D
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'and': SKP
 'as': AS
 'he': HE
@@ -771,7 +771,7 @@ The Robber Bridegroom
 'draw': TKRAU
 'it': T
 'off': OF
-'easily,': AOELS KW-BG
+'easily,': AOELS/KW-BG
 'he': HE
 'took': TAOBG
 'a': AEU
@@ -780,14 +780,14 @@ The Robber Bridegroom
 'cut': KUT
 'off': OF
 'the': -T
-'finger;': TPEURPBG STPH*FPLT
+'finger;': TPEURPBG/STPH*FPLT
 'but': PWUT
 'the': -T
 'finger': TPEURPBG
 'sprang': SPRAPBG
 'into': TPHAO
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'and': SKP
 'fell': TPEL
 'behind': HEUPBD
@@ -802,7 +802,7 @@ The Robber Bridegroom
 'who': WHO
 'was': WAS
 'hiding': HAOEUD/-G
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'The': KPA/-T
 'robber': ROB/ER
 'took': TAOBG
@@ -812,56 +812,56 @@ The Robber Bridegroom
 'began': TKPWAPB
 'looking': HRAOG
 'for': TPOR
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'he': HE
 'could': KO
 'not': TPHOT
 'find': TPAOEUPBD
-'it.': T TP-PL
-''Have': AE KPA/SR
+'it.': T/TP-PL
+''Have': AE/KPA/SR
 'you': U
 'looked': HRAOBGD
 'behind': HEUPBD
 'the': -T
 'large': HRARPBLG
-'cask?'': KAFBG H-F AE
+'cask?'': KAFBG/H-F/AE
 'said': SED
 'one': WUPB
 'of': -F
 'the': -T
-'others.': OERS TP-PL
+'others.': OERS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'old': OLD
 'woman': WOPL
 'called': KAULD
-'out,': OUT KW-BG
-''Come': AE KPA/KOPL
+'out,': OUT/KW-BG
+''Come': AE/KPA/KOPL
 'and': SKP
 'eat': AOET
 'your': KWROUR
-'suppers,': SUP/ERS KW-BG
+'suppers,': SUP/ERS/KW-BG
 'and': SKP
 'let': HRET
 'the': -T
 'thing': THEUPBG
 'be': -B
 'till': TEUL
-'tomorrow;': TORPL STPH*FPLT
+'tomorrow;': TORPL/STPH*FPLT
 'the': -T
 'finger': TPEURPBG
 'won't': WOEPBT
 'run': RUPB
-'away.'': WA*EU TP-PL AE
-''The': AE KPA/-T
+'away.'': WA*EU/TP-PL/AE
+''The': AE/KPA/-T
 'old': OLD
 'woman': WOPL
 'is': S
-'right,'': RAOEUT KW-BG AE
+'right,'': RAOEUT/KW-BG/AE
 'said': SED
 'the': -T
-'robbers,': RORBS KW-BG
+'robbers,': RORBS/KW-BG
 'and': SKP
 'they': THE
 'ceased': SAOES/-D
@@ -871,7 +871,7 @@ The Robber Bridegroom
 'finger': TPEURPBG
 'and': SKP
 'sat': SAT
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'The': KPA/-T
 'old': OLD
 'woman': WOPL
@@ -882,7 +882,7 @@ The Robber Bridegroom
 'draught': TKRAUFT
 'with': W
 'their': THAEUR
-'wine,': WAOEUPB KW-BG
+'wine,': WAOEUPB/KW-BG
 'and': SKP
 'before': PW-FR
 'long': HROPBG
@@ -895,11 +895,11 @@ The Robber Bridegroom
 'floor': TPHRAOR
 'of': -F
 'the': -T
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'fast': TPAFT
 'asleep': A/SHRAOEP
 'and': SKP
-'snoring.': STPHOERG TP-PL
+'snoring.': STPHOERG/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -908,13 +908,13 @@ The Robber Bridegroom
 'was': WAS
 'assured': A/SHURD
 'of': -F
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'she': SHE
 'came': KAEUPL
 'from': TPR
 'behind': HEUPBD
 'the': -T
-'cask.': KAFBG TP-PL
+'cask.': KAFBG/TP-PL
 'She': KPA/SHE
 'was': WAS
 'obliged': OE/PWHRAOEUPBLGD
@@ -925,12 +925,12 @@ The Robber Bridegroom
 'bodies': PWO*EDZ
 'of': -F
 'the': -T
-'sleepers,': SHRAOEP/*ER/-S KW-BG
+'sleepers,': SHRAOEP/*ER/-S/KW-BG
 'who': WHO
 'were': WR
 'lying': HRAOEUG
 'close': KHROES
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'every': EF
 'moment': PHOEPLT
@@ -944,18 +944,18 @@ The Robber Bridegroom
 'she': SHE
 'should': SHO
 'awaken': A/WA*EUPB
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'But': KPA/PWUT
 'God': TKPWO*D
 'helped': HEPD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'so': SO
 'that': THA
 'she': SHE
 'passed': PAFD
 'safely': SAEUFL
 'over': OEFR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'then': THEPB
 'she': SHE
@@ -964,10 +964,10 @@ The Robber Bridegroom
 'old': OLD
 'woman': WOPL
 'went': WEPBT
-'upstairs,': AUP/STAEURS KW-BG
+'upstairs,': AUP/STAEURS/KW-BG
 'opened': OEPD
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'hastened': HAEUS/-PBD
 'as': AS
@@ -977,8 +977,8 @@ The Robber Bridegroom
 'could': KO
 'from': TPR
 'the': -T
-'murderers'': PHURD/RER/-S AE
-'den.': TKEPB TP-PL
+'murderers'': PHURD/RER/-S/AE
+'den.': TKEPB/TP-PL
 'They': KPA/THE
 'found': TPOUPBD
 'the': -T
@@ -986,20 +986,20 @@ The Robber Bridegroom
 'scattered': SKAT/ERD
 'by': PWEU
 'the': -T
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'but': PWUT
 'the': -T
 'peas': PAOEZ
 'and': SKP
 'lentils': HREPB/TEUL/-S
 'had': H
-'sprouted,': SPROUT/-D KW-BG
+'sprouted,': SPROUT/-D/KW-BG
 'and': SKP
 'grown': TKPWROEPB
 'sufficiently': SUFL
 'above': PWOF
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'to': TO
 'guide': TKPWAOEUD
 'them': THEPL
@@ -1008,12 +1008,12 @@ The Robber Bridegroom
 'moonlight': PHAOLGT
 'along': HRAOPBG
 'the': -T
-'path.': PA*T TP-PL
+'path.': PA*T/TP-PL
 'All': KPA/AUL
 'night': TPHAOEUT
 'long': HROPBG
 'they': THE
-'walked,': WAUBGD KW-BG
+'walked,': WAUBGD/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -1022,7 +1022,7 @@ The Robber Bridegroom
 'they': THE
 'reached': RAOEFPD
 'the': -T
-'mill.': PHEUL TP-PL
+'mill.': PHEUL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'girl': TKPWEURL
@@ -1032,7 +1032,7 @@ The Robber Bridegroom
 'all': AUL
 'that': THA
 'had': H
-'happened.': HAPD TP-PL
+'happened.': HAPD/TP-PL
 'The': KPA/-T
 'day': TKAEU
 'came': KAEUPL
@@ -1042,7 +1042,7 @@ The Robber Bridegroom
 'fixed': TPEUFD
 'for': TPOR
 'the': -T
-'marriage.': PHAERPBLG TP-PL
+'marriage.': PHAERPBLG/TP-PL
 'The': KPA/-T
 'bridegroom': PWRAOEUD/TKPWRAOPL
 'arrived': A/RAOEUFD
@@ -1052,7 +1052,7 @@ The Robber Bridegroom
 'large': HRARPBLG
 'company': K-P
 'of': -F
-'guests,': TKPWEFTS KW-BG
+'guests,': TKPWEFTS/KW-BG
 'for': TPOR
 'the': -T
 'miller': HRO*ER/PHEUL/HRER
@@ -1065,13 +1065,13 @@ The Robber Bridegroom
 'his': HEUS
 'friends': TPREPBDZ
 'and': SKP
-'relations.': RELGS/-S TP-PL
+'relations.': RELGS/-S/TP-PL
 'As': KPA/AS
 'they': THE
 'sat': SAT
 'at': AT
 'the': -T
-'feast,': TPAOEFT KW-BG
+'feast,': TPAOEFT/KW-BG
 'each': AOEFP
 'guest': TKPWEFT
 'in': TPH
@@ -1081,7 +1081,7 @@ The Robber Bridegroom
 'to': TO
 'tell': TEL
 'a': AEU
-'tale;': TAEL STPH*FPLT
+'tale;': TAEL/STPH*FPLT
 'the': -T
 'bride': PWRAOEUD
 'sat': SAT
@@ -1091,37 +1091,37 @@ The Robber Bridegroom
 'not': TPHOT
 'say': SAEU
 'a': AEU
-'word.': WORD TP-PL
-''And': AE AFPBD
-'you,': U KW-BG
+'word.': WORD/TP-PL
+''And': AE/AFPBD
+'you,': U/KW-BG
 'my': PHEU
-'love,'': HRUF KW-BG AE
+'love,'': HRUF/KW-BG/AE
 'said': SED
 'the': -T
-'bridegroom,': PWRAOEUD/TKPWRAOPL KW-BG
+'bridegroom,': PWRAOEUD/TKPWRAOPL/KW-BG
 'turning': TURPBG
 'to': TO
-'her,': HER KW-BG
-''is': AE S
+'her,': HER/KW-BG
+''is': AE/S
 'there': THR
 'no': TPHO
 'tale': TAEL
 'you': U
-'know?': TPHOE H-F
+'know?': TPHOE/H-F
 'Tell': KPA/TEL
 'us': US
-'something.'': S-G TP-PL AE
-''I': AE EU
+'something.'': S-G/TP-PL/AE
+''I': AE/EU
 'will': HR
 'tell': TEL
 'you': U
 'a': AEU
-'dream,': TKRAOEPL KW-BG
-'then,'': THEPB KW-BG AE
+'dream,': TKRAOEPL/KW-BG
+'then,'': THEPB/KW-BG/AE
 'said': SED
 'the': -T
-'bride.': PWRAOEUD TP-PL
-''I': AE EU
+'bride.': PWRAOEUD/TP-PL
+''I': AE/EU
 'went': WEPBT
 'alone': A/HROEPB
 'through': THRU
@@ -1133,14 +1133,14 @@ The Robber Bridegroom
 'last': HRAFT
 'to': TO
 'a': AEU
-'house;': HOUS STPH*FPLT
+'house;': HOUS/STPH*FPLT
 'not': TPHOT
 'a': AEU
 'soul': SOUL
 'could': KO
 'I': EU
 'find': TPAOEUPBD
-'within,': W-PB KW-BG
+'within,': W-PB/KW-BG
 'but': PWUT
 'a': AEU
 'bird': PWEURD
@@ -1153,20 +1153,20 @@ The Robber Bridegroom
 'on': OPB
 'the': -T
 'wall': WAUL
-'cried:': KRAOEUD STPH-FPLT
-''Turn': AE KPA/TURPB
-'back,': PWABG KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Turn': AE/KPA/TURPB
+'back,': PWABG/KW-BG
 'turn': TURPB
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'young': KWRUPBG
 'maiden': PHAEUD/*EPB
-'fair,': TPAEUR KW-BG
+'fair,': TPAEUR/KW-BG
 'Linger': KPA/HREURPBG
 'not': TPHOT
 'in': TPH
 'this': TH
-'murderers'': PHURD/RER/-S AE
-'lair.'': HRA*EUR TP-PL AE
+'murderers'': PHURD/RER/-S/AE
+'lair.'': HRA*EUR/TP-PL/AE
 'and': SKP
 'again': TKPWEPB
 'a': AEU
@@ -1175,15 +1175,15 @@ The Robber Bridegroom
 'it': T
 'said': SED
 'these': THEZ
-'words.'': WORDZ TP-PL AE
-''My': AE KPA/PHEU
-'darling,': TKARLG KW-BG
+'words.'': WORDZ/TP-PL/AE
+''My': AE/KPA/PHEU
+'darling,': TKARLG/KW-BG
 'this': TH
 'is': S
 'only': OEPBL
 'a': AEU
-'dream.'': TKRAOEPL TP-PL AE
-''I': AE EU
+'dream.'': TKRAOEPL/TP-PL/AE
+''I': AE/EU
 'went': WEPBT
 'on': OPB
 'through': THRU
@@ -1192,19 +1192,19 @@ The Robber Bridegroom
 'from': TPR
 'room': RAOPL
 'to': TO
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'but': PWUT
 'they': THE
 'were': WR
 'all': AUL
-'empty,': EPLT KW-BG
+'empty,': EPLT/KW-BG
 'and': SKP
 'everything': EFRG
 'was': WAS
 'so': SO
 'grim': TKPWREUPL
 'and': SKP
-'mysterious.': PHEUFT/KWROUS TP-PL
+'mysterious.': PHEUFT/KWROUS/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'I': EU
@@ -1212,22 +1212,22 @@ The Robber Bridegroom
 'down': TKOUPB
 'to': TO
 'the': -T
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'and': SKP
 'there': THR
 'sat': SAT
 'a': AEU
-'very,': SRE KW-BG
+'very,': SRE/KW-BG
 'very': SRE
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'who': WHO
 'could': KO
 'not': TPHOT
 'keep': KAOEP
 'her': HER
 'head': HED
-'still.': STEUL TP-PL
+'still.': STEUL/TP-PL
 'I': EU
 'asked': SK-D
 'her': HER
@@ -1235,27 +1235,27 @@ The Robber Bridegroom
 'my': PHEU
 'betrothed': PWE/TRO*T/-D
 'lived': HREUFD
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'and': SKP
 'she': SHE
-'answered,': AEPBS/-D KW-BG
-'"Ah,': KR-GS KPA/HA*E KW-BG
+'answered,': AEPBS/-D/KW-BG
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
 'you': U
 'poor': PAOR
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'you': U
 'are': R
 'come': KOPL
 'to': TO
 'a': AEU
-'murderers'': PHURD/RER/-S AE
-'den;': TKEPB STPH*FPLT
+'murderers'': PHURD/RER/-S/AE
+'den;': TKEPB/STPH*FPLT
 'your': KWROUR
 'betrothed': PWE/TRO*T/-D
 'does': TKOS
 'indeed': TPHAOEPBD
 'live': HREUF
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'but': PWUT
 'he': HE
 'will': HR
@@ -1268,15 +1268,15 @@ The Robber Bridegroom
 'cook': KAOBG
 'and': SKP
 'eat': AOET
-'you."'': U TP-PL KR-GS AE
-''My': AE KPA/PHEU
-'darling,': TKARLG KW-BG
+'you."'': U/TP-PL/KR-GS/AE
+''My': AE/KPA/PHEU
+'darling,': TKARLG/KW-BG
 'this': TH
 'is': S
 'only': OEPBL
 'a': AEU
-'dream.'': TKRAOEPL TP-PL AE
-''The': AE KPA/-T
+'dream.'': TKRAOEPL/TP-PL/AE
+''The': AE/KPA/-T
 'old': OLD
 'woman': WOPL
 'hid': HEUD
@@ -1284,7 +1284,7 @@ The Robber Bridegroom
 'behind': HEUPBD
 'a': AEU
 'large': HRARPBLG
-'cask,': KAFBG KW-BG
+'cask,': KAFBG/KW-BG
 'and': SKP
 'scarcely': SKAEURS/HREU
 'had': H
@@ -1295,14 +1295,14 @@ The Robber Bridegroom
 'the': -T
 'robbers': RORBS
 'returned': RURPBD
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'dragging': TKRAG/-G
 'a': AEU
 'young': KWRUPBG
 'girl': TKPWEURL
 'along': HRAOPBG
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'They': KPA/THE
 'gave': TKPWAEUF
 'her': HER
@@ -1311,30 +1311,30 @@ The Robber Bridegroom
 'of': -F
 'wine': WAOEUPB
 'to': TO
-'drink,': TKREU KW-BG
-'white,': WHAOEUT KW-BG
-'red,': RED KW-BG
+'drink,': TKREU/KW-BG
+'white,': WHAOEUT/KW-BG
+'red,': RED/KW-BG
 'and': SKP
-'yellow,': KWREL/OE KW-BG
+'yellow,': KWREL/OE/KW-BG
 'and': SKP
 'with': W
 'that': THA
 'she': SHE
-'died.'': TKAOEUD TP-PL AE
-''My': AE KPA/PHEU
-'darling,': TKARLG KW-BG
+'died.'': TKAOEUD/TP-PL/AE
+''My': AE/KPA/PHEU
+'darling,': TKARLG/KW-BG
 'this': TH
 'is': S
 'only': OEPBL
 'a': AEU
-'dream.'': TKRAOEPL TP-PL AE
-''Then': AE KPA/THEPB
+'dream.'': TKRAOEPL/TP-PL/AE
+''Then': AE/KPA/THEPB
 'they': THE
 'tore': TO*R
 'off': OF
 'her': HER
 'dainty': TKAEUPB/TEU
-'clothing,': KHRO*ET/-G KW-BG
+'clothing,': KHRO*ET/-G/KW-BG
 'and': SKP
 'cut': KUT
 'her': HER
@@ -1346,15 +1346,15 @@ The Robber Bridegroom
 'sprinkled': SPREUPB/K-LD
 'salt': SALT
 'upon': POPB
-'it.'': T TP-PL AE
-''My': AE KPA/PHEU
-'darling,': TKARLG KW-BG
+'it.'': T/TP-PL/AE
+''My': AE/KPA/PHEU
+'darling,': TKARLG/KW-BG
 'this': TH
 'is': S
 'only': OEPBL
 'a': AEU
-'dream.'': TKRAOEPL TP-PL AE
-''And': AE AFPBD
+'dream.'': TKRAOEPL/TP-PL/AE
+''And': AE/AFPBD
 'one': WUPB
 'of': -F
 'the': -T
@@ -1370,7 +1370,7 @@ The Robber Bridegroom
 'left': HREFT
 'on': OPB
 'her': HER
-'finger,': TPEURPBG KW-BG
+'finger,': TPEURPBG/KW-BG
 'and': SKP
 'as': AS
 'it': T
@@ -1378,7 +1378,7 @@ The Robber Bridegroom
 'difficult': TKEUFL
 'to': TO
 'draw': TKRAU
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'he': HE
 'took': TAOBG
 'a': AEU
@@ -1387,7 +1387,7 @@ The Robber Bridegroom
 'cut': KUT
 'off': OF
 'her': HER
-'finger;': TPEURPBG STPH*FPLT
+'finger;': TPEURPBG/STPH*FPLT
 'but': PWUT
 'the': -T
 'finger': TPEURPBG
@@ -1403,7 +1403,7 @@ The Robber Bridegroom
 'cask': KAFBG
 'into': TPHAO
 'my': PHEU
-'lap.': HRAP TP-PL
+'lap.': HRAP/TP-PL
 'And': AFPBD
 'here': HAOER
 'is': S
@@ -1411,7 +1411,7 @@ The Robber Bridegroom
 'finger': TPEURPBG
 'with': W
 'the': -T
-'ring.'': REUPBG TP-PL AE
+'ring.'': REUPBG/TP-PL/AE
 'And': AFPBD
 'with': W
 'these': THEZ
@@ -1428,9 +1428,9 @@ The Robber Bridegroom
 'to': TO
 'the': -T
 'assembled': A/SEPL/-BLD
-'guests.': TKPWEFTS TP-PL
+'guests.': TKPWEFTS/TP-PL
 'The': KPA/-T
-'bridegroom,': PWRAOEUD/TKPWRAOPL KW-BG
+'bridegroom,': PWRAOEUD/TKPWRAOPL/KW-BG
 'who': WHO
 'during': TKURG
 'this': TH
@@ -1438,12 +1438,12 @@ The Robber Bridegroom
 'had': H
 'grown': TKPWROEPB
 'deadly': TKED/HREU
-'pale,': PAEL KW-BG
+'pale,': PAEL/KW-BG
 'up': UP
 'and': SKP
 'tried': TRAOEUD
 'to': TO
-'escape,': SKAEP KW-BG
+'escape,': SKAEP/KW-BG
 'but': PWUT
 'the': -T
 'guests': TKPWEFTS
@@ -1452,13 +1452,13 @@ The Robber Bridegroom
 'and': SKP
 'held': HELD
 'him': HEUPL
-'fast.': TPAFT TP-PL
+'fast.': TPAFT/TP-PL
 'They': KPA/THE
 'delivered': TKHREUFRD
 'him': HEUPL
 'up': UP
 'to': TO
-'justice,': SKWRUFS KW-BG
+'justice,': SKWRUFS/KW-BG
 'and': SKP
 'he': HE
 'and': SKP
@@ -1473,4 +1473,4 @@ The Robber Bridegroom
 'for': TPOR
 'their': THAEUR
 'wicked': WEUBGD
-'deeds.': TKAOEDZ TP-PL
+'deeds.': TKAOEDZ/TP-PL

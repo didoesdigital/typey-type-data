@@ -3,13 +3,13 @@ The Brave Tin Soldier
 'There': KPA/THR
 'were': WR
 'once': WUPBS
-'five-and-twenty': TPAOEUF H-PB SKP H-PB TWEPBT
+'five-and-twenty': TPAOEUF/H-PB/SKP/H-PB/TWEPBT
 'tin': TEUPB
-'soldiers,': SHRERPBLGS KW-BG
+'soldiers,': SHRERPBLGS/KW-BG
 'who': WHO
 'were': WR
 'all': AUL
-'brothers,': PWROERS KW-BG
+'brothers,': PWROERS/KW-BG
 'for': TPOR
 'they': THE
 'had': H
@@ -21,7 +21,7 @@ The Brave Tin Soldier
 'same': SAEUPL
 'old': OLD
 'tin': TEUPB
-'spoon.': SPAOPB TP-PL
+'spoon.': SPAOPB/TP-PL
 'They': KPA/THE
 'shouldered': SHOULD/ER/-D
 'arms': ARPLS
@@ -29,15 +29,15 @@ The Brave Tin Soldier
 'looked': HRAOBGD
 'straight': STRAEUT
 'before': PW-FR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'wore': WOR
 'a': AEU
 'splendid': SPHREPB/TKEUD
-'uniform,': KWRAOUFRPL KW-BG
+'uniform,': KWRAOUFRPL/KW-BG
 'red': RED
 'and': SKP
-'blue.': PWHRU TP-PL
+'blue.': PWHRU/TP-PL
 'The': KPA/-T
 'first': TPEUFRT
 'thing': THEUPBG
@@ -49,14 +49,14 @@ The Brave Tin Soldier
 'heard': HAERD
 'were': WR
 'the': -T
-'words,': WORDZ KW-BG
-'"Tin': KR-GS KPA/TEUPB
-'soldiers!"': SHRERPBLGS SKHRAPL KR-GS
+'words,': WORDZ/KW-BG
+'"Tin': KR-GS/KPA/TEUPB
+'soldiers!"': SHRERPBLGS/SKHRAPL/KR-GS
 'uttered': UT/ERD
 'by': PWEU
 'a': AEU
 'little': HREUL
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'who': WHO
 'clapped': KHRAP/-D
 'his': HEUS
@@ -68,14 +68,14 @@ The Brave Tin Soldier
 'lid': HREUD
 'of': -F
 'the': -T
-'box,': PWOBGS KW-BG
+'box,': PWOBGS/KW-BG
 'in': TPH
 'which': WEU
 'they': THE
-'lay,': HRAEU KW-BG
+'lay,': HRAEU/KW-BG
 'was': WAS
 'taken': TAEPB
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'They': KPA/THE
 'were': WR
 'given': TKPWEUFPB
@@ -83,7 +83,7 @@ The Brave Tin Soldier
 'for': TPOR
 'a': AEU
 'birthday': PWEURT/TKAEU
-'present,': PREPBT KW-BG
+'present,': PREPBT/KW-BG
 'and': SKP
 'he': HE
 'stood': STAOD
@@ -93,27 +93,27 @@ The Brave Tin Soldier
 'to': TO
 'set': SET
 'them': THEPL
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'The': KPA/-T
 'soldiers': SHRERPBLGS
 'were': WR
 'all': AUL
 'exactly': ELG
-'alike,': A/HRAOEUBG KW-BG
+'alike,': A/HRAOEUBG/KW-BG
 'excepting': KPEPT/-G
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'who': WHO
 'had': H
 'only': OEPBL
 'one': WUPB
-'leg;': HREG STPH*FPLT
+'leg;': HREG/STPH*FPLT
 'he': HE
 'had': H
 'been': PW-PB
 'left': HREFT
 'to': TO
 'the': -T
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'and': SKP
 'then': THEPB
 'there': THR
@@ -126,7 +126,7 @@ The Brave Tin Soldier
 'tin': TEUPB
 'to': TO
 'finish': TP*EURB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'so': SO
 'they': THE
 'made': PHAED
@@ -136,7 +136,7 @@ The Brave Tin Soldier
 'firmly': TPEURPL/HREU
 'on': OPB
 'one': WUPB
-'leg,': HREG KW-BG
+'leg,': HREG/KW-BG
 'and': SKP
 'this': TH
 'caused': KAUFD
@@ -144,7 +144,7 @@ The Brave Tin Soldier
 'to': TO
 'be': -B
 'very': SRE
-'remarkable.': RARBG/-BL TP-PL
+'remarkable.': RARBG/-BL/TP-PL
 'The': KPA/-T
 'table': TAEUBL
 'on': OPB
@@ -152,12 +152,12 @@ The Brave Tin Soldier
 'the': -T
 'tin': TEUPB
 'soldiers': SHRERPBLGS
-'stood,': STAOD KW-BG
+'stood,': STAOD/KW-BG
 'was': WAS
 'covered': KOFRD
 'with': W
 'other': OER
-'playthings,': PHRAEU/THEUPBG/-S KW-BG
+'playthings,': PHRAEU/THEUPBG/-S/KW-BG
 'but': PWUT
 'the': -T
 'most': PHOFT
@@ -170,7 +170,7 @@ The Brave Tin Soldier
 'pretty': PREUT
 'little': HREUL
 'paper': PAEUP
-'castle.': KAFL TP-PL
+'castle.': KAFL/TP-PL
 'Through': KPA/THRU
 'the': -T
 'small': SPHAL
@@ -179,7 +179,7 @@ The Brave Tin Soldier
 'rooms': RAOPLS
 'could': KO
 'be': -B
-'seen.': SAOEPB TP-PL
+'seen.': SAOEPB/TP-PL
 'In': KPA/TPH
 'front': TPROPBT
 'of': -F
@@ -194,7 +194,7 @@ The Brave Tin Soldier
 'a': AEU
 'piece': PAOES
 'of': -F
-'looking-glass,': HRAOG H-PB TKPWHRAS KW-BG
+'looking-glass,': HRAOG/H-PB/TKPWHRAS/KW-BG
 'which': WEU
 'was': WAS
 'intended': SPWEPBD/-D
@@ -202,25 +202,25 @@ The Brave Tin Soldier
 'represent': REPT
 'a': AEU
 'transparent': TRAEUPBT
-'lake.': HRAEUBG TP-PL
-'Swans,': KPA/SWAPBS KW-BG
+'lake.': HRAEUBG/TP-PL
+'Swans,': KPA/SWAPBS/KW-BG
 'made': PHAED
 'of': -F
-'wax,': WABGS KW-BG
+'wax,': WABGS/KW-BG
 'swam': SWAPL
 'on': OPB
 'the': -T
-'lake,': HRAEUBG KW-BG
+'lake,': HRAEUBG/KW-BG
 'and': SKP
 'were': WR
 'reflected': TPHREBGTD
 'in': TPH
-'it.': T TP-PL
+'it.': T/TP-PL
 'All': KPA/AUL
 'this': TH
 'was': WAS
 'very': SRE
-'pretty,': PREUT KW-BG
+'pretty,': PREUT/KW-BG
 'but': PWUT
 'the': -T
 'prettiest': PRET/KWREFT
@@ -230,7 +230,7 @@ The Brave Tin Soldier
 'a': AEU
 'tiny': TOEUPB
 'little': HREUL
-'lady,': HRA*ED KW-BG
+'lady,': HRA*ED/KW-BG
 'who': WHO
 'stood': STAOD
 'at': AT
@@ -239,13 +239,13 @@ The Brave Tin Soldier
 'door': TKAOR
 'of': -F
 'the': -T
-'castle;': KAFL STPH*FPLT
-'she,': SHE KW-BG
-'also,': HR-S KW-BG
+'castle;': KAFL/STPH*FPLT
+'she,': SHE/KW-BG
+'also,': HR-S/KW-BG
 'was': WAS
 'made': PHAED
 'of': -F
-'paper,': PAEUP KW-BG
+'paper,': PAEUP/KW-BG
 'and': SKP
 'she': SHE
 'wore': WOR
@@ -253,7 +253,7 @@ The Brave Tin Soldier
 'dress': TKRES
 'of': -F
 'clear': KHRAOER
-'muslin,': PHUS/HREUPB KW-BG
+'muslin,': PHUS/HREUPB/KW-BG
 'with': W
 'a': AEU
 'narrow': TPHO*EUR
@@ -265,7 +265,7 @@ The Brave Tin Soldier
 'just': SKWRUFT
 'like': HRAOEUBG
 'a': AEU
-'scarf.': SKAFR TP-PL
+'scarf.': SKAFR/TP-PL
 'In': KPA/TPH
 'front': TPROPBT
 'of': -F
@@ -275,26 +275,26 @@ The Brave Tin Soldier
 'a': AEU
 'glittering': TKPWHREUT/ERG
 'tinsel': TEUPB/SEL
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'as': AS
 'large': HRARPBLG
 'as': AS
 'her': HER
 'whole': WHOEL
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'The': KPA/-T
 'little': HREUL
 'lady': HRA*ED
 'was': WAS
 'a': AEU
-'dancer,': TKARPBS KW-BG
+'dancer,': TKARPBS/KW-BG
 'and': SKP
 'she': SHE
 'stretched': STREFPD
 'out': OUT
 'both': PWO*T
 'her': HER
-'arms,': ARPLS KW-BG
+'arms,': ARPLS/KW-BG
 'and': SKP
 'raised': RA*EUFD
 'one': WUPB
@@ -302,7 +302,7 @@ The Brave Tin Soldier
 'her': HER
 'legs': HREGS
 'so': SO
-'high,': HAOEU KW-BG
+'high,': HAOEU/KW-BG
 'that': THA
 'the': -T
 'tin': TEUPB
@@ -312,36 +312,36 @@ The Brave Tin Soldier
 'see': SAOE
 'it': T
 'at': AT
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'he': HE
 'thought': THAUT
 'that': THA
-'she,': SHE KW-BG
+'she,': SHE/KW-BG
 'like': HRAOEUBG
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'had': H
 'only': OEPBL
 'one': WUPB
-'leg.': HREG TP-PL
-'"That': KR-GS KPA/THA
+'leg.': HREG/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'the': -T
 'wife': WAOEUF
 'for': TPOR
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'he': HE
-'thought;': THAUT STPH*FPLT
-'"but': KR-GS PWUT
+'thought;': THAUT/STPH*FPLT
+'"but': KR-GS/PWUT
 'she': SHE
 'is': S
 'too': TAO
-'grand,': TKPWRAPBD KW-BG
+'grand,': TKPWRAPBD/KW-BG
 'and': SKP
 'lives': HREUFS
 'in': TPH
 'a': AEU
-'castle,': KAFL KW-BG
+'castle,': KAFL/KW-BG
 'while': WHAOEUL
 'I': EU
 'have': SR
@@ -350,17 +350,17 @@ The Brave Tin Soldier
 'box': PWOBGS
 'to': TO
 'live': HREUF
-'in,': TPH KW-BG
-'five-and-twenty': TPAOEUF H-PB SKP H-PB TWEPBT
+'in,': TPH/KW-BG
+'five-and-twenty': TPAOEUF/H-PB/SKP/H-PB/TWEPBT
 'of': -F
 'us': US
-'altogether,': HR-GT KW-BG
+'altogether,': HR-GT/KW-BG
 'that': THA
 'is': S
 'no': TPHO
 'place': PHRAEUS
 'for': TPOR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Still': KPA/STEUL
 'I': EU
 'must': PHUFT
@@ -368,7 +368,7 @@ The Brave Tin Soldier
 'and': SKP
 'make': PHAEUBG
 'her': HER
-'acquaintance."': KWAEUPBS TP-PL KR-GS
+'acquaintance."': KWAEUPBS/TP-PL/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'laid': HRAEUD
@@ -381,11 +381,11 @@ The Brave Tin Soldier
 'table': TAEUBL
 'behind': HEUPBD
 'a': AEU
-'snuff-box': STPHUF H-PB PWOBGS
+'snuff-box': STPHUF/H-PB/PWOBGS
 'that': THA
 'stood': STAOD
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -395,7 +395,7 @@ The Brave Tin Soldier
 'the': -T
 'little': HREUL
 'delicate': TKEL/KAT
-'lady,': HRA*ED KW-BG
+'lady,': HRA*ED/KW-BG
 'who': WHO
 'continued': T-PBD
 'to': TO
@@ -406,10 +406,10 @@ The Brave Tin Soldier
 'without': WOUT
 'losing': HRAOUFG
 'her': HER
-'balance.': PWAL TP-PL
+'balance.': PWAL/TP-PL
 'When': KPA/WHEPB
 'evening': AOEPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'the': -T
 'other': OER
 'tin': TEUPB
@@ -419,7 +419,7 @@ The Brave Tin Soldier
 'placed': PHRAEUFD
 'in': TPH
 'the': -T
-'box,': PWOBGS KW-BG
+'box,': PWOBGS/KW-BG
 'and': SKP
 'the': -T
 'people': PAOEPL
@@ -428,7 +428,7 @@ The Brave Tin Soldier
 'house': HOUS
 'went': WEPBT
 'to': TO
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'playthings': PHRAEU/THEUPBG/-S
@@ -438,25 +438,25 @@ The Brave Tin Soldier
 'their': THAEUR
 'own': OEPB
 'games': TKPWAEUPLS
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'to': TO
 'pay': PAEU
-'visits,': SREUFTS KW-BG
+'visits,': SREUFTS/KW-BG
 'to': TO
 'have': SR
 'sham': SHAPL
-'fights,': TPAOEUTS KW-BG
+'fights,': TPAOEUTS/KW-BG
 'and': SKP
 'to': TO
 'give': TKPWEUF
-'balls.': PWAULS TP-PL
+'balls.': PWAULS/TP-PL
 'The': KPA/-T
 'tin': TEUPB
 'soldiers': SHRERPBLGS
 'rattled': RA*LTD
 'in': TPH
 'their': THAEUR
-'box;': PWOBGS STPH*FPLT
+'box;': PWOBGS/STPH*FPLT
 'they': THE
 'wanted': WAPBTD
 'to': TO
@@ -465,26 +465,26 @@ The Brave Tin Soldier
 'and': SKP
 'join': SKWROEUPB
 'the': -T
-'amusements,': A/PHAOUS/-PLTS KW-BG
+'amusements,': A/PHAOUS/-PLTS/KW-BG
 'but': PWUT
 'they': THE
 'could': KO
 'not': TPHOT
 'open': OEP
 'the': -T
-'lid.': HREUD TP-PL
+'lid.': HREUD/TP-PL
 'The': KPA/-T
-'nut-crackers': TPHUT H-PB KRABG/ERS
+'nut-crackers': TPHUT/H-PB/KRABG/ERS
 'played': PHRAEUD
 'at': AT
-'leap-frog,': HRAOEP H-PB TPROG KW-BG
+'leap-frog,': HRAOEP/H-PB/TPROG/KW-BG
 'and': SKP
 'the': -T
 'pencil': PEPB/SEUL
 'jumped': SKWR*UPLD
 'about': PW
 'the': -T
-'table.': TAEUBL TP-PL
+'table.': TAEUBL/TP-PL
 'There': KPA/THR
 'was': WAS
 'such': SUFP
@@ -498,11 +498,11 @@ The Brave Tin Soldier
 'and': SKP
 'began': TKPWAPB
 'to': TO
-'talk,': TAUBG KW-BG
+'talk,': TAUBG/KW-BG
 'and': SKP
 'in': TPH
 'poetry': POEURT
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'Only': KPA/OEPBL
 'the': -T
 'tin': TEUPB
@@ -513,16 +513,16 @@ The Brave Tin Soldier
 'remained': RE/PHAEUPBD
 'in': TPH
 'their': THAEUR
-'places.': PHRAEUFS TP-PL
+'places.': PHRAEUFS/TP-PL
 'She': KPA/SHE
 'stood': STAOD
 'on': OPB
-'tiptoe,': TEUP/TOE KW-BG
+'tiptoe,': TEUP/TOE/KW-BG
 'with': W
 'her': HER
 'legs': HREGS
 'stretched': STREFPD
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'as': AS
 'firmly': TPEURPL/HREU
 'as': AS
@@ -531,7 +531,7 @@ The Brave Tin Soldier
 'on': OPB
 'his': HEUS
 'one': WUPB
-'leg.': HREG TP-PL
+'leg.': HREG/TP-PL
 'He': KPA/HE
 'never': TPHEFR
 'took': TAOBG
@@ -542,45 +542,45 @@ The Brave Tin Soldier
 'for': TPOR
 'even': AOEPB
 'a': AEU
-'moment.': PHOEPLT TP-PL
+'moment.': PHOEPLT/TP-PL
 'The': KPA/-T
 'clock': KHROBG
 'struck': STRUBG
-'twelve,': TWEFL KW-BG
-'and,': SKP KW-BG
+'twelve,': TWEFL/KW-BG
+'and,': SKP/KW-BG
 'with': W
 'a': AEU
-'bounce,': PWOUPBS KW-BG
+'bounce,': PWOUPBS/KW-BG
 'up': UP
 'sprang': SPRAPBG
 'the': -T
 'lid': HREUD
 'of': -F
 'the': -T
-'snuff-box;': STPHUF H-PB PWOBGS STPH*FPLT
-'but,': PWUT KW-BG
+'snuff-box;': STPHUF/H-PB/PWOBGS/STPH*FPLT
+'but,': PWUT/KW-BG
 'instead': STPHED
 'of': -F
-'snuff,': STPHUF KW-BG
+'snuff,': STPHUF/KW-BG
 'there': THR
 'jumped': SKWR*UPLD
 'up': UP
 'a': AEU
 'little': HREUL
 'black': PWHRABG
-'goblin;': TKPWOB/HREUPB STPH*FPLT
+'goblin;': TKPWOB/HREUPB/STPH*FPLT
 'for': TPOR
 'the': -T
-'snuff-box': STPHUF H-PB PWOBGS
+'snuff-box': STPHUF/H-PB/PWOBGS
 'was': WAS
 'a': AEU
 'toy': TOEU
-'puzzle.': PUFL TP-PL
-'"Tin': KR-GS KPA/TEUPB
-'soldier,"': SHRERPBLG KW-BG KR-GS
+'puzzle.': PUFL/TP-PL
+'"Tin': KR-GS/KPA/TEUPB
+'soldier,"': SHRERPBLG/KW-BG/KR-GS
 'said': SED
 'the': -T
-'goblin,': TKPWOB/HREUPB KW-BG
+'goblin,': TKPWOB/HREUPB/KW-BG
 '"don't': KW-GS/TKOEPBT
 'wish': WEURB
 'for': TPOR
@@ -589,7 +589,7 @@ The Brave Tin Soldier
 'not': TPHOT
 'belong': PWHROPBG
 'to': TO
-'you."': U TP-PL KR-GS
+'you."': U/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'tin': TEUPB
@@ -597,16 +597,16 @@ The Brave Tin Soldier
 'pretended': PRE/TEPBD/-D
 'not': TPHOT
 'to': TO
-'hear.': HAER TP-PL
-'"Very': KR-GS KPA/SRE
-'well;': WEL STPH*FPLT
+'hear.': HAER/TP-PL
+'"Very': KR-GS/KPA/SRE
+'well;': WEL/STPH*FPLT
 'wait': WAEUT
 'till': TEUL
-'to-morrow,': TO H-PB HRO*ER/PHOR/ROE KW-BG
-'then,"': THEPB KW-BG KR-GS
+'to-morrow,': TO/H-PB/HRO*ER/PHOR/ROE/KW-BG
+'then,"': THEPB/KW-BG/KR-GS
 'said': SED
 'the': -T
-'goblin.': TKPWOB/HREUPB TP-PL
+'goblin.': TKPWOB/HREUPB/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'children': KHEURPB
@@ -614,7 +614,7 @@ The Brave Tin Soldier
 'in': TPH
 'the': -T
 'next': TPHEGT
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'they': THE
 'placed': PHRAEUFD
 'the': -T
@@ -622,8 +622,8 @@ The Brave Tin Soldier
 'soldier': SHRERPBLG
 'in': TPH
 'the': -T
-'window.': WOEUPBD TP-PL
-'Now,': KPA/TPHOU KW-BG
+'window.': WOEUPBD/TP-PL
+'Now,': KPA/TPHOU/KW-BG
 'whether': WHR
 'it': T
 'was': WAS
@@ -631,45 +631,45 @@ The Brave Tin Soldier
 'goblin': TKPWOB/HREUPB
 'who': WHO
 'did': TK
-'it,': T KW-BG
+'it,': T/KW-BG
 'or': OR
 'the': -T
-'draught,': TKRAUFT KW-BG
+'draught,': TKRAUFT/KW-BG
 'is': S
 'not': TPHOT
-'known,': TPHOEPB KW-BG
+'known,': TPHOEPB/KW-BG
 'but': PWUT
 'the': -T
 'window': WOEUPBD
 'flew': TPHRAOU
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'and': SKP
 'out': OUT
 'fell': TPEL
 'the': -T
 'tin': TEUPB
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'heels': HAOELS
 'over': OEFR
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'from': TPR
 'the': -T
 'third': THEURD
-'story,': STOER KW-BG
+'story,': STOER/KW-BG
 'into': TPHAO
 'the': -T
 'street': STRAOET
-'beneath.': TPHAO*ET TP-PL
+'beneath.': TPHAO*ET/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
 'terrible': TERBL
-'fall;': TPAUL STPH*FPLT
+'fall;': TPAUL/STPH*FPLT
 'for': TPOR
 'he': HE
 'came': KAEUPL
 'head': HED
-'downwards,': TKOUPB/WARDZ KW-BG
+'downwards,': TKOUPB/WARDZ/KW-BG
 'his': HEUS
 'helmet': H*EPLT
 'and': SKP
@@ -679,7 +679,7 @@ The Brave Tin Soldier
 'in': TPH
 'between': TWAOEPB
 'the': -T
-'flagstones,': TPHRAG/STOEPB/-S KW-BG
+'flagstones,': TPHRAG/STOEPB/-S/KW-BG
 'and': SKP
 'his': HEUS
 'one': WUPB
@@ -687,7 +687,7 @@ The Brave Tin Soldier
 'up': UP
 'in': TPH
 'the': -T
-'air.': AEUR TP-PL
+'air.': AEUR/TP-PL
 'The': KPA/-T
 'servant': SEFRB/APBT
 'maid': PHAEUD
@@ -702,35 +702,35 @@ The Brave Tin Soldier
 'to': TO
 'look': HRAOBG
 'for': TPOR
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'but': PWUT
 'he': HE
 'was': WAS
 'nowhere': TPHO/WR
 'to': TO
 'be': -B
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'although': HR*T
 'once': WUPBS
 'they': THE
 'nearly': TPHAOERL
 'trod': TROD
 'upon': POPB
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'If': KPA/TP
 'he': HE
 'had': H
 'called': KAULD
-'out,': OUT KW-BG
-'"Here': KR-GS KPA/HAOER
+'out,': OUT/KW-BG
+'"Here': KR-GS/KPA/HAOER
 'I': EU
-'am,"': APL KW-BG KR-GS
+'am,"': APL/KW-BG/KR-GS
 'it': T
 'would': WO
 'have': SR
 'been': PW-PB
 'all': AUL
-'right,': RAOEUT KW-BG
+'right,': RAOEUT/KW-BG
 'but': PWUT
 'he': HE
 'was': WAS
@@ -745,46 +745,46 @@ The Brave Tin Soldier
 'he': HE
 'wore': WOR
 'a': AEU
-'uniform.': KWRAOUFRPL TP-PL
+'uniform.': KWRAOUFRPL/TP-PL
 'Presently': KPA/PREPBLT
 'it': T
 'began': TKPWAPB
 'to': TO
-'rain,': RAEUPB KW-BG
+'rain,': RAEUPB/KW-BG
 'and': SKP
 'the': -T
 'drops': TKROPS
 'fell': TPEL
 'faster': TPA*FRT
 'and': SKP
-'faster,': TPA*FRT KW-BG
+'faster,': TPA*FRT/KW-BG
 'till': TEUL
 'there': THR
 'was': WAS
 'a': AEU
 'heavy': HOEUF
-'shower.': SHOUR TP-PL
+'shower.': SHOUR/TP-PL
 'When': KPA/WHEPB
 'it': T
 'was': WAS
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'two': TWO
 'boys': PWOEUS
 'happened': HAPD
 'to': TO
 'pass': PAS
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'and': SKP
 'one': WUPB
 'of': -F
 'them': THEPL
-'said,': SED KW-BG
-'"Look,': KR-GS KPA/HRAOBG KW-BG
+'said,': SED/KW-BG
+'"Look,': KR-GS/KPA/HRAOBG/KW-BG
 'there': THR
 'is': S
 'a': AEU
 'tin': TEUPB
-'soldier.': SHRERPBLG TP-PL
+'soldier.': SHRERPBLG/TP-PL
 'He': KPA/HE
 'ought': OT
 'to': TO
@@ -793,7 +793,7 @@ The Brave Tin Soldier
 'boat': PWOET
 'to': TO
 'sail': SAEUL
-'in."': TPH TP-PL KR-GS
+'in."': TPH/TP-PL/KR-GS
 'So': KPA/SO
 'they': THE
 'made': PHAED
@@ -802,21 +802,21 @@ The Brave Tin Soldier
 'out': OUT
 'of': -F
 'a': AEU
-'newspaper,': TPHAOUP KW-BG
+'newspaper,': TPHAOUP/KW-BG
 'and': SKP
 'placed': PHRAEUFD
 'the': -T
 'tin': TEUPB
 'soldier': SHRERPBLG
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'sent': SEPBT
 'him': HEUPL
 'sailing': SAEULG
 'down': TKOUPB
 'the': -T
-'gutter,': TKPWOURT KW-BG
+'gutter,': TKPWOURT/KW-BG
 'while': WHAOEUL
 'the': -T
 'two': TWO
@@ -826,41 +826,41 @@ The Brave Tin Soldier
 'the': -T
 'side': SAOEUD
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'clapped': KHRAP/-D
 'their': THAEUR
-'hands.': HAPBDZ TP-PL
+'hands.': HAPBDZ/TP-PL
 'Good': KPA/TKPWAOD
-'gracious,': TKPWRAEURBS KW-BG
+'gracious,': TKPWRAEURBS/KW-BG
 'what': WHA
 'large': HRARPBLG
 'waves': WAFS
 'arose': A/ROES
 'in': TPH
 'that': THA
-'gutter!': TKPWOURT SKHRAPL
+'gutter!': TKPWOURT/SKHRAPL
 'and': SKP
 'how': HOU
 'fast': TPAFT
 'the': -T
 'stream': STRAOEPL
 'rolled': ROLD
-'on!': OPB SKHRAPL
+'on!': OPB/SKHRAPL
 'for': TPOR
 'the': -T
 'rain': RAEUPB
 'had': H
 'been': PW-PB
 'very': SRE
-'heavy.': HOEUF TP-PL
+'heavy.': HOEUF/TP-PL
 'The': KPA/-T
 'paper': PAEUP
 'boat': PWOET
 'rocked': ROBGD
 'up': UP
 'and': SKP
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'turned': TURPBD
 'itself': T/SEFL
@@ -872,25 +872,25 @@ The Brave Tin Soldier
 'the': -T
 'tin': TEUPB
 'soldier': SHRERPBLG
-'trembled;': TREPL/-BLD STPH*FPLT
+'trembled;': TREPL/-BLD/STPH*FPLT
 'yet': KWRET
 'he': HE
 'remained': RE/PHAEUPBD
-'firm;': TPEURPL STPH*FPLT
+'firm;': TPEURPL/STPH*FPLT
 'his': HEUS
 'countenance': KOUPBT/TPHAPBS
 'did': TK
 'not': TPHOT
-'change;': KHAEUPBG STPH*FPLT
+'change;': KHAEUPBG/STPH*FPLT
 'he': HE
 'looked': HRAOBGD
 'straight': STRAEUT
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'shouldered': SHOULD/ER/-D
 'his': HEUS
-'musket.': PHUFBGT TP-PL
+'musket.': PHUFBGT/TP-PL
 'Suddenly': KPA/SULD
 'the': -T
 'boat': PWOET
@@ -904,7 +904,7 @@ The Brave Tin Soldier
 'part': PART
 'of': -F
 'a': AEU
-'drain,': TKRAEUPB KW-BG
+'drain,': TKRAEUPB/KW-BG
 'and': SKP
 'then': THEPB
 'it': T
@@ -914,26 +914,26 @@ The Brave Tin Soldier
 'as': AS
 'the': -T
 'tin': TEUPB
-'soldier's': SHRERPBLG AES
-'box.': PWOBGS TP-PL
-'"Where': KR-GS KPA/W-R
+'soldier's': SHRERPBLG/AES
+'box.': PWOBGS/TP-PL
+'"Where': KR-GS/KPA/W-R
 'am': APL
 'I': EU
 'going': TKPW-G
-'now?"': TPHOU H-F KR-GS
+'now?"': TPHOU/H-F/KR-GS
 'thought': THAUT
-'he.': HE TP-PL
-'"This': KR-GS KPA/TH
+'he.': HE/TP-PL
+'"This': KR-GS/KPA/TH
 'is': S
 'the': -T
 'black': PWHRABG
-'goblin's': TKPWOB/HREUPB AES
-'fault,': TPAULT KW-BG
+'goblin's': TKPWOB/HREUPB/AES
+'fault,': TPAULT/KW-BG
 'I': EU
 'am': APL
-'sure.': SHUR TP-PL
-'Ah,': KPA/HA*E KW-BG
-'well,': WEL KW-BG
+'sure.': SHUR/TP-PL
+'Ah,': KPA/HA*E/KW-BG
+'well,': WEL/KW-BG
 'if': TP
 'the': -T
 'little': HREUL
@@ -945,38 +945,38 @@ The Brave Tin Soldier
 'me': PHE
 'in': TPH
 'the': -T
-'boat,': PWOET KW-BG
+'boat,': PWOET/KW-BG
 'I': EU
 'should': SHO
 'not': TPHOT
 'care': KAEUR
 'for': TPOR
 'any': TPHEU
-'darkness."': TKARBG/-PBS TP-PL KR-GS
+'darkness."': TKARBG/-PBS/TP-PL/KR-GS
 'Suddenly': KPA/SULD
 'there': THR
 'appeared': A/PAOERD
 'a': AEU
 'great': TKPWRAET
-'water-rat,': WAUR H-PB RAT KW-BG
+'water-rat,': WAUR/H-PB/RAT/KW-BG
 'who': WHO
 'lived': HREUFD
 'in': TPH
 'the': -T
-'drain.': TKRAEUPB TP-PL
-'"Have': KR-GS KPA/SR
+'drain.': TKRAEUPB/TP-PL
+'"Have': KR-GS/KPA/SR
 'you': U
 'a': AEU
-'passport?"': PAS/PORT H-F KR-GS
+'passport?"': PAS/PORT/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'rat,': RAT KW-BG
-'"give': KR-GS TKPWEUF
+'rat,': RAT/KW-BG
+'"give': KR-GS/TKPWEUF
 'it': T
 'to': TO
 'me': PHE
 'at': AT
-'once."': WUPBS TP-PL KR-GS
+'once."': WUPBS/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'tin': TEUPB
@@ -989,7 +989,7 @@ The Brave Tin Soldier
 'musket': PHUFBGT
 'tighter': TAO*EURT
 'than': THAPB
-'ever.': -FR TP-PL
+'ever.': -FR/TP-PL
 'The': KPA/-T
 'boat': PWOET
 'sailed': SAEULD
@@ -998,7 +998,7 @@ The Brave Tin Soldier
 'the': -T
 'rat': RAT
 'followed': TPOLD
-'it.': T TP-PL
+'it.': T/TP-PL
 'How': KPA/HOU
 'he': HE
 'did': TK
@@ -1014,22 +1014,22 @@ The Brave Tin Soldier
 'of': -F
 'wood': WAOD
 'and': SKP
-'straw,': STRAU KW-BG
-'"Stop': KR-GS KPA/STOP
-'him,': HEUPL KW-BG
+'straw,': STRAU/KW-BG
+'"Stop': KR-GS/KPA/STOP
+'him,': HEUPL/KW-BG
 'stop': STOP
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'he': HE
 'has': HAS
 'not': TPHOT
 'paid': PAEUD
-'toll,': TOL KW-BG
+'toll,': TOL/KW-BG
 'and': SKP
 'has': HAS
 'not': TPHOT
 'shown': SHOEPB
 'his': HEUS
-'pass."': PAS TP-PL KR-GS
+'pass."': PAS/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'stream': STRAOEPL
@@ -1037,7 +1037,7 @@ The Brave Tin Soldier
 'on': OPB
 'stronger': STRORPBG
 'and': SKP
-'stronger.': STRORPBG TP-PL
+'stronger.': STRORPBG/TP-PL
 'The': KPA/-T
 'tin': TEUPB
 'soldier': SHRERPBLG
@@ -1049,7 +1049,7 @@ The Brave Tin Soldier
 'where': W-R
 'the': -T
 'arch': AFRPB
-'ended.': EPBD/-D TP-PL
+'ended.': EPBD/-D/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'heard': HAERD
@@ -1063,7 +1063,7 @@ The Brave Tin Soldier
 'frighten': TPRAOEUFPB
 'the': -T
 'bravest': PWRA*EUF/*ES
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'At': KPA/AT
 'the': -T
 'end': EPBD
@@ -1080,7 +1080,7 @@ The Brave Tin Soldier
 'over': OEFR
 'a': AEU
 'steep': STAOEP
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'which': WEU
 'made': PHAED
 'it': T
@@ -1094,7 +1094,7 @@ The Brave Tin Soldier
 'would': WO
 'be': -B
 'to': TO
-'us.': US TP-PL
+'us.': US/TP-PL
 'He': KPA/HE
 'was': WAS
 'too': TAO
@@ -1102,12 +1102,12 @@ The Brave Tin Soldier
 'to': TO
 'it': T
 'to': TO
-'stop,': STOP KW-BG
+'stop,': STOP/KW-BG
 'so': SO
 'the': -T
 'boat': PWOET
 'rushed': RURBD
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'the': -T
 'poor': PAOR
@@ -1120,18 +1120,18 @@ The Brave Tin Soldier
 'as': AS
 'stiffly': STEUF/HREU
 'as': AS
-'possible,': POB KW-BG
+'possible,': POB/KW-BG
 'without': WOUT
 'moving': PHOFG
 'an': APB
-'eyelid,': AOEU/HREUD KW-BG
+'eyelid,': AOEU/HREUD/KW-BG
 'to': TO
 'show': SHOE
 'that': THA
 'he': HE
 'was': WAS
 'not': TPHOT
-'afraid.': A/TPRAEUD TP-PL
+'afraid.': A/TPRAEUD/TP-PL
 'The': KPA/-T
 'boat': PWOET
 'whirled': WHEURL/-D
@@ -1139,7 +1139,7 @@ The Brave Tin Soldier
 'three': THRAOE
 'or': OR
 'four': TPOUR
-'times,': TAOEUPLS KW-BG
+'times,': TAOEUPLS/KW-BG
 'and': SKP
 'then': THEPB
 'filled': TPEULD
@@ -1148,13 +1148,13 @@ The Brave Tin Soldier
 'to': TO
 'the': -T
 'very': SRE
-'edge;': EPBLG STPH*FPLT
+'edge;': EPBLG/STPH*FPLT
 'nothing': TPHOG
 'could': KO
 'save': SAF
 'it': T
 'from': TPR
-'sinking.': SEUPB/K-G TP-PL
+'sinking.': SEUPB/K-G/TP-PL
 'He': KPA/HE
 'now': TPHOU
 'stood': STAOD
@@ -1163,14 +1163,14 @@ The Brave Tin Soldier
 'his': HEUS
 'neck': TPHEBG
 'in': TPH
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'while': WHAOEUL
 'deeper': TKAOERP
 'and': SKP
 'deeper': TKAOERP
 'sank': SA*PBG
 'the': -T
-'boat,': PWOET KW-BG
+'boat,': PWOET/KW-BG
 'and': SKP
 'the': -T
 'paper': PAEUP
@@ -1180,7 +1180,7 @@ The Brave Tin Soldier
 'loose': HRAOS
 'with': W
 'the': -T
-'wet,': WET KW-BG
+'wet,': WET/KW-BG
 'till': TEUL
 'at': AT
 'last': HRAFT
@@ -1189,8 +1189,8 @@ The Brave Tin Soldier
 'closed': KHROEFD
 'over': OEFR
 'the': -T
-'soldier's': SHRERPBLG AES
-'head.': HED TP-PL
+'soldier's': SHRERPBLG/AES
+'head.': HED/TP-PL
 'He': KPA/HE
 'thought': THAUT
 'of': -F
@@ -1203,7 +1203,7 @@ The Brave Tin Soldier
 'should': SHO
 'never': TPHEFR
 'see': SAOE
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'the': -T
 'words': WORDZ
@@ -1213,23 +1213,23 @@ The Brave Tin Soldier
 'sounded': SOUPBD/-D
 'in': TPH
 'his': HEUS
-'ears—': AOERS EPL/TKA*RB
-'"Farewell,': KR-GS KPA/TPAER/WEL KW-BG
-'warrior!': WAR/KWROR SKHRAPL
+'ears—': AOERS/EPL/TKA*RB
+'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'warrior!': WAR/KWROR/SKHRAPL
 'ever': -FR
-'brave,': PWRAEUF KW-BG
+'brave,': PWRAEUF/KW-BG
 'Drifting': KPA/TKREUFT/-G
 'onward': AOPB/WA*RD
 'to': TO
 'thy': THAO*EU
-'grave."': TKPWRAEUF TP-PL KR-GS
+'grave."': TKPWRAEUF/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'paper': PAEUP
 'boat': PWOET
 'fell': TPEL
 'to': TO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'the': -T
 'soldier': SHRERPBLG
@@ -1246,7 +1246,7 @@ The Brave Tin Soldier
 'by': PWEU
 'a': AEU
 'great': TKPWRAET
-'fish.': TPEURB TP-PL
+'fish.': TPEURB/TP-PL
 'Oh': KPA/O*ERBGS
 'how': HOU
 'dark': TKARBG
@@ -1254,7 +1254,7 @@ The Brave Tin Soldier
 'was': WAS
 'inside': TPH-DZ
 'the': -T
-'fish!': TPEURB SKHRAPL
+'fish!': TPEURB/SKHRAPL
 'A': KPA/AEU
 'great': TKPWRAET
 'deal': TKAOEL
@@ -1262,16 +1262,16 @@ The Brave Tin Soldier
 'than': THAPB
 'in': TPH
 'the': -T
-'tunnel,': TUPBL KW-BG
+'tunnel,': TUPBL/KW-BG
 'and': SKP
 'narrower': TPHAR/OE/ER
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'but': PWUT
 'the': -T
 'tin': TEUPB
 'soldier': SHRERPBLG
 'continued': T-PBD
-'firm,': TPEURPL KW-BG
+'firm,': TPEURPL/KW-BG
 'and': SKP
 'lay': HRAEU
 'at': AT
@@ -1279,28 +1279,28 @@ The Brave Tin Soldier
 'length': HREPBG
 'shouldering': SHOULD/ER/-G
 'his': HEUS
-'musket.': PHUFBGT TP-PL
+'musket.': PHUFBGT/TP-PL
 'The': KPA/-T
 'fish': TPEURB
 'swam': SWAPL
 'to': TO
 'and': SKP
-'fro,': TPRO KW-BG
+'fro,': TPRO/KW-BG
 'making': PHAEUG
 'the': -T
 'most': PHOFT
 'wonderful': WUFL
-'movements,': PHOFPLTS KW-BG
+'movements,': PHOFPLTS/KW-BG
 'but': PWUT
 'at': AT
 'last': HRAFT
 'he': HE
 'became': PWAEUPL
 'quite': KWAOEUT
-'still.': STEUL TP-PL
+'still.': STEUL/TP-PL
 'After': KPA/AF
 'a': AEU
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'a': AEU
 'flash': TPHRARB
 'of': -F
@@ -1309,29 +1309,29 @@ The Brave Tin Soldier
 'to': TO
 'pass': PAS
 'through': THRU
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'then': THEPB
 'the': -T
 'daylight': TKAEULT
-'approached,': A/PROEFPD KW-BG
+'approached,': A/PROEFPD/KW-BG
 'and': SKP
 'a': AEU
 'voice': SROEUS
 'cried': KRAOEUD
-'out,': OUT KW-BG
-'"I': KR-GS EU
+'out,': OUT/KW-BG
+'"I': KR-GS/EU
 'declare': TKE/KHRAR
 'here': HAOER
 'is': S
 'the': -T
 'tin': TEUPB
-'soldier."': SHRERPBLG TP-PL KR-GS
+'soldier."': SHRERPBLG/TP-PL/KR-GS
 'The': KPA/-T
 'fish': TPEURB
 'had': H
 'been': PW-PB
-'caught,': KAUT KW-BG
+'caught,': KAUT/KW-BG
 'taken': TAEPB
 'to': TO
 'the': -T
@@ -1340,7 +1340,7 @@ The Brave Tin Soldier
 'sold': SOELD
 'to': TO
 'the': -T
-'cook,': KAOBG KW-BG
+'cook,': KAOBG/KW-BG
 'who': WHO
 'took': TAOBG
 'him': HEUPL
@@ -1354,7 +1354,7 @@ The Brave Tin Soldier
 'with': W
 'a': AEU
 'large': HRARPBLG
-'knife.': TPHAOEUF TP-PL
+'knife.': TPHAOEUF/TP-PL
 'She': KPA/SHE
 'picked': PEUBGD
 'up': UP
@@ -1370,13 +1370,13 @@ The Brave Tin Soldier
 'her': HER
 'finger': TPEURPBG
 'and': SKP
-'thumb,': THUPL KW-BG
+'thumb,': THUPL/KW-BG
 'and': SKP
 'carried': KAERD
 'him': HEUPL
 'into': TPHAO
 'the': -T
-'room.': RAOPL TP-PL
+'room.': RAOPL/TP-PL
 'They': KPA/THE
 'were': WR
 'all': AUL
@@ -1392,21 +1392,21 @@ The Brave Tin Soldier
 'about': PW
 'inside': TPH-DZ
 'a': AEU
-'fish;': TPEURB STPH*FPLT
+'fish;': TPEURB/STPH*FPLT
 'but': PWUT
 'he': HE
 'was': WAS
 'not': TPHOT
 'at': AT
 'all': AUL
-'proud.': PROUD TP-PL
+'proud.': PROUD/TP-PL
 'They': KPA/THE
 'placed': PHRAEUFD
 'him': HEUPL
 'on': OPB
 'the': -T
-'table,': TAEUBL KW-BG
-'and—how': SKP EPL/TKA*RB HOU
+'table,': TAEUBL/KW-BG
+'and—how': SKP/EPL/TKA*RB/HOU
 'many': PHAEPB
 'curious': KAOURS
 'things': THEUPBGS
@@ -1414,7 +1414,7 @@ The Brave Tin Soldier
 'happen': HAP
 'in': TPH
 'the': -T
-'world!—there': WORLD SKHRAPL EPL/TKA*RB THR
+'world!—there': WORLD/SKHRAPL/EPL/TKA*RB/THR
 'he': HE
 'was': WAS
 'in': TPH
@@ -1429,19 +1429,19 @@ The Brave Tin Soldier
 'which': WEU
 'he': HE
 'had': H
-'fallen,': TPAUL/-PB KW-BG
+'fallen,': TPAUL/-PB/KW-BG
 'there': THR
 'were': WR
 'the': -T
 'same': SAEUPL
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'the': -T
 'same': SAEUPL
-'playthings,': PHRAEU/THEUPBG/-S KW-BG
+'playthings,': PHRAEU/THEUPBG/-S/KW-BG
 'standing': STAPBG
 'on': OPB
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'the': -T
 'pretty': PREUT
@@ -1453,26 +1453,26 @@ The Brave Tin Soldier
 'dancer': TKARPBS
 'at': AT
 'the': -T
-'door;': TKAOR STPH*FPLT
+'door;': TKAOR/STPH*FPLT
 'she': SHE
 'still': STEUL
 'balanced': PWALD
 'herself': H*ERS
 'on': OPB
 'one': WUPB
-'leg,': HREG KW-BG
+'leg,': HREG/KW-BG
 'and': SKP
 'held': HELD
 'up': UP
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'so': SO
 'she': SHE
 'was': WAS
 'as': AS
 'firm': TPEURPL
 'as': AS
-'himself.': HEUPLS TP-PL
+'himself.': HEUPLS/TP-PL
 'It': KPA/T
 'touched': TUFPD
 'the': -T
@@ -1488,12 +1488,12 @@ The Brave Tin Soldier
 'almost': HR-PL
 'wept': WEPT
 'tin': TEUPB
-'tears,': TAERS KW-BG
+'tears,': TAERS/KW-BG
 'but': PWUT
 'he': HE
 'kept': KEPT
 'them': THEPL
-'back.': PWABG TP-PL
+'back.': PWABG/TP-PL
 'He': KPA/HE
 'only': OEPBL
 'looked': HRAOBGD
@@ -1503,7 +1503,7 @@ The Brave Tin Soldier
 'they': THE
 'both': PWO*T
 'remained': RE/PHAEUPBD
-'silent.': SHREPBT TP-PL
+'silent.': SHREPBT/TP-PL
 'Presently': KPA/PREPBLT
 'one': WUPB
 'of': -F
@@ -1514,20 +1514,20 @@ The Brave Tin Soldier
 'up': UP
 'the': -T
 'tin': TEUPB
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'and': SKP
 'threw': THRAOU
 'him': HEUPL
 'into': TPHAO
 'the': -T
-'stove.': STOF TP-PL
+'stove.': STOF/TP-PL
 'He': KPA/HE
 'had': H
 'no': TPHO
 'reason': R-PB
 'for': TPOR
 'doing': TK*G
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'therefore': TH-FR
 'it': T
 'must': PHUFT
@@ -1543,22 +1543,22 @@ The Brave Tin Soldier
 'lived': HREUFD
 'in': TPH
 'the': -T
-'snuff-box.': STPHUF H-PB PWOBGS TP-PL
+'snuff-box.': STPHUF/H-PB/PWOBGS/TP-PL
 'The': KPA/-T
 'flames': TPHRAEUPLS
 'lighted': HRAOEUTD
 'up': UP
 'the': -T
 'tin': TEUPB
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'as': AS
 'he': HE
-'stood,': STAOD KW-BG
+'stood,': STAOD/KW-BG
 'the': -T
 'heat': HAOET
 'was': WAS
 'very': SRE
-'terrible,': TERBL KW-BG
+'terrible,': TERBL/KW-BG
 'but': PWUT
 'whether': WHR
 'it': T
@@ -1576,7 +1576,7 @@ The Brave Tin Soldier
 'he': HE
 'could': KO
 'not': TPHOT
-'tell.': TEL TP-PL
+'tell.': TEL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'could': KO
@@ -1589,7 +1589,7 @@ The Brave Tin Soldier
 'faded': TPAEUD/-D
 'from': TPR
 'his': HEUS
-'uniform,': KWRAOUFRPL KW-BG
+'uniform,': KWRAOUFRPL/KW-BG
 'but': PWUT
 'whether': WHR
 'they': THE
@@ -1606,27 +1606,27 @@ The Brave Tin Soldier
 'effects': TPEBGZ
 'of': -F
 'his': HEUS
-'sorrow,': SROE KW-BG
+'sorrow,': SROE/KW-BG
 'no': TPHO
 'one': WUPB
 'could': KO
-'say.': SAEU TP-PL
+'say.': SAEU/TP-PL
 'He': KPA/HE
 'looked': HRAOBGD
 'at': AT
 'the': -T
 'little': HREUL
-'lady,': HRA*ED KW-BG
+'lady,': HRA*ED/KW-BG
 'and': SKP
 'she': SHE
 'looked': HRAOBGD
 'at': AT
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'felt': TPELT
 'himself': HEUPLS
 'melting': PHELT/-G
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'but': PWUT
 'he': HE
 'still': STEUL
@@ -1637,7 +1637,7 @@ The Brave Tin Soldier
 'gun': TKPW-PB
 'on': OPB
 'his': HEUS
-'shoulder.': SHOURLD TP-PL
+'shoulder.': SHOURLD/TP-PL
 'Suddenly': KPA/SULD
 'the': -T
 'door': TKAOR
@@ -1655,7 +1655,7 @@ The Brave Tin Soldier
 'up': UP
 'the': -T
 'little': HREUL
-'dancer,': TKARPBS KW-BG
+'dancer,': TKARPBS/KW-BG
 'she': SHE
 'fluttered': TPHRUT/ERD
 'like': HRAOEUBG
@@ -1671,7 +1671,7 @@ The Brave Tin Soldier
 'of': -F
 'the': -T
 'tin': TEUPB
-'soldier,': SHRERPBLG KW-BG
+'soldier,': SHRERPBLG/KW-BG
 'and': SKP
 'was': WAS
 'instantly': EUPB/STAPBT/HREU
@@ -1679,7 +1679,7 @@ The Brave Tin Soldier
 'flames': TPHRAEUPLS
 'and': SKP
 'was': WAS
-'gone.': TKPWOPB TP-PL
+'gone.': TKPWOPB/TP-PL
 'The': KPA/-T
 'tin': TEUPB
 'soldier': SHRERPBLG
@@ -1687,11 +1687,11 @@ The Brave Tin Soldier
 'down': TKOUPB
 'into': TPHAO
 'a': AEU
-'lump,': HRUFRP KW-BG
+'lump,': HRUFRP/KW-BG
 'and': SKP
 'the': -T
 'next': TPHEGT
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'when': WHEPB
 'the': -T
 'maid': PHAEUD
@@ -1702,7 +1702,7 @@ The Brave Tin Soldier
 'out': OUT
 'of': -F
 'the': -T
-'stove,': STOF KW-BG
+'stove,': STOF/KW-BG
 'she': SHE
 'found': TPOUPBD
 'him': HEUPL
@@ -1713,7 +1713,7 @@ The Brave Tin Soldier
 'a': AEU
 'little': HREUL
 'tin': TEUPB
-'heart.': HART TP-PL
+'heart.': HART/TP-PL
 'But': KPA/PWUT
 'of': -F
 'the': -T
@@ -1724,11 +1724,11 @@ The Brave Tin Soldier
 'but': PWUT
 'the': -T
 'tinsel': TEUPB/SEL
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'which': WEU
 'was': WAS
 'burnt': PWURPBT
 'black': PWHRABG
 'as': AS
 'a': AEU
-'cinder.': SEUPBD/*ER TP-PL
+'cinder.': SEUPBD/*ER/TP-PL

@@ -15,11 +15,11 @@ The Hart and the Hunter
 'figure': TPEUG
 'he': HE
 'made': PHAED
-'there.': THR TP-PL
-'"Ah,"': KR-GS KPA/HA*E KW-BG KR-GS
+'there.': THR/TP-PL
+'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"where': KR-GS W-R
+'he,': HE/KW-BG
+'"where': KR-GS/W-R
 'can': K
 'you': U
 'see': SAOE
@@ -27,10 +27,10 @@ The Hart and the Hunter
 'noble': TPHOEBL
 'horns': HORPBS
 'as': AS
-'these,': THEZ KW-BG
+'these,': THEZ/KW-BG
 'with': W
 'such': SUFP
-'antlers!': APBT/HRER/-S SKHRAPL
+'antlers!': APBT/HRER/-S/SKHRAPL
 'I': EU
 'wish': WEURB
 'I': EU
@@ -43,7 +43,7 @@ The Hart and the Hunter
 'such': SUFP
 'a': AEU
 'noble': TPHOEBL
-'crown;': KROUPB STPH*FPLT
+'crown;': KROUPB/STPH*FPLT
 'it': T
 'is': S
 'a': AEU
@@ -53,7 +53,7 @@ The Hart and the Hunter
 'so': SO
 'slim': SHREUPL
 'and': SKP
-'slight."': SHRAOEUT TP-PL KR-GS
+'slight."': SHRAOEUT/TP-PL/KR-GS
 'At': KPA/AT
 'that': THA
 'moment': PHOEPLT
@@ -66,20 +66,20 @@ The Hart and the Hunter
 'arrow': RO*EUR
 'whistling': WHEUS/-LG
 'after': AF
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Away': KPA/WA*EU
 'bounded': PWOUPBD/-D
 'the': -T
-'Hart,': HA*RT KW-BG
+'Hart,': HA*RT/KW-BG
 'and': SKP
-'soon,': SAOPB KW-BG
+'soon,': SAOPB/KW-BG
 'by': PWEU
 'the': -T
 'aid': AEUD
 'of': -F
 'his': HEUS
 'nimble': TPHEUPL/*L
-'legs,': HREGS KW-BG
+'legs,': HREGS/KW-BG
 'was': WAS
 'nearly': TPHAOERL
 'out': OUT
@@ -87,14 +87,14 @@ The Hart and the Hunter
 'sight': SAOEUT
 'of': -F
 'the': -T
-'Hunter;': HURPBT STPH*FPLT
+'Hunter;': HURPBT/STPH*FPLT
 'but': PWUT
 'not': TPHOT
 'noticing': TPH-TS/-G
 'where': W-R
 'he': HE
 'was': WAS
-'going,': TKPW-G KW-BG
+'going,': TKPW-G/KW-BG
 'he': HE
 'passed': PAFD
 'under': TPH-PB
@@ -110,7 +110,7 @@ The Hart and the Hunter
 'his': HEUS
 'antlers': APBT/HRER/-S
 'were': WR
-'caught,': KAUT KW-BG
+'caught,': KAUT/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -119,13 +119,13 @@ The Hart and the Hunter
 'time': TAOEUPL
 'to': TO
 'come': KOPL
-'up.': UP TP-PL
-'"Alas!': KR-GS KPA/A/HRAS SKHRAPL
-'alas!"': A/HRAS SKHRAPL KR-GS
+'up.': UP/TP-PL
+'"Alas!': KR-GS/KPA/A/HRAS/SKHRAPL
+'alas!"': A/HRAS/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
-'Hart:': HA*RT STPH-FPLT
-'"We': KR-GS KPA/WE
+'Hart:': HA*RT/STPH-FPLT
+'"We': KR-GS/KPA/WE
 'often': OFPB
 'despise': STKPAOEUZ
 'what': WHA
@@ -133,4 +133,4 @@ The Hart and the Hunter
 'most': PHOFT
 'useful': AOUFL
 'to': TO
-'us."': US TP-PL KR-GS
+'us."': US/TP-PL/KR-GS

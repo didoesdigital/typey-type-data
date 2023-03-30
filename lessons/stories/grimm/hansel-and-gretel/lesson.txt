@@ -8,14 +8,14 @@ Hansel and Gretel
 'dwelt': TKWELT
 'a': AEU
 'poor': PAOR
-'wood-cutter': WAOD H-PB KAOURT
+'wood-cutter': WAOD/H-PB/KAOURT
 'with': W
 'his': HEUS
 'wife': WAOEUF
 'and': SKP
 'his': HEUS
 'two': TWO
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'The': KPA/-T
 'boy': PWOEU
 'was': WAS
@@ -24,7 +24,7 @@ Hansel and Gretel
 'and': SKP
 'the': -T
 'girl': TKPWEURL
-'Gretel.': TKPWRET/EL TP-PL
+'Gretel.': TKPWRET/EL/TP-PL
 'He': KPA/HE
 'had': H
 'little': HREUL
@@ -32,7 +32,7 @@ Hansel and Gretel
 'bite': PWAOEUT
 'and': SKP
 'to': TO
-'break,': PWRAEBG KW-BG
+'break,': PWRAEBG/KW-BG
 'and': SKP
 'once': WUPBS
 'when': WHEPB
@@ -41,7 +41,7 @@ Hansel and Gretel
 'fell': TPEL
 'on': OPB
 'the': -T
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'he': HE
 'could': KO
 'no': TPHO
@@ -49,7 +49,7 @@ Hansel and Gretel
 'procure': PRO/KAOUR
 'even': AOEPB
 'daily': TKAEUL
-'bread.': PWRAED TP-PL
+'bread.': PWRAED/TP-PL
 'Now': KPA/TPHOU
 'when': WHEPB
 'he': HE
@@ -60,26 +60,26 @@ Hansel and Gretel
 'night': TPHAOEUT
 'in': TPH
 'his': HEUS
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'tossed': TOS/-D
 'about': PW
 'in': TPH
 'his': HEUS
-'anxiety,': KPAO*EUT KW-BG
+'anxiety,': KPAO*EUT/KW-BG
 'he': HE
 'groaned': TKPWROEPBD
 'and': SKP
 'said': SED
 'to': TO
 'his': HEUS
-'wife:': WAOEUF STPH-FPLT
-''What': AE KPA/WHA
+'wife:': WAOEUF/STPH-FPLT
+''What': AE/KPA/WHA
 'is': S
 'to': TO
 'become': PW-BG
 'of': -F
-'us?': US H-F
+'us?': US/H-F
 'How': KPA/HOU
 'are': R
 'we': WE
@@ -87,7 +87,7 @@ Hansel and Gretel
 'feed': TPAOED
 'our': OUR
 'poor': PAOR
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'when': WHEPB
 'we': WE
 'no': TPHO
@@ -96,16 +96,16 @@ Hansel and Gretel
 'anything': TPHEUG
 'even': AOEPB
 'for': TPOR
-'ourselves?'': O*URSZ H-F AE
-''I'll': AE EU AE HR*/HR*
+'ourselves?'': O*URSZ/H-F/AE
+''I'll': AE/EU/AE/HR*/HR*
 'tell': TEL
 'you': U
-'what,': WHA KW-BG
-'husband,'': HUS KW-BG AE
+'what,': WHA/KW-BG
+'husband,'': HUS/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'woman,': WOPL KW-BG
-''early': AE ERL
+'woman,': WOPL/KW-BG
+''early': AE/ERL
 'tomorrow': TORPL
 'morning': PHORPBG
 'we': WE
@@ -122,7 +122,7 @@ Hansel and Gretel
 'it': T
 'is': S
 'the': -T
-'thickest;': THEUBG/EFT STPH*FPLT
+'thickest;': THEUBG/EFT/STPH*FPLT
 'there': THR
 'we': WE
 'will': HR
@@ -130,7 +130,7 @@ Hansel and Gretel
 'a': AEU
 'fire': TPAOEUR
 'for': TPOR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'give': TKPWEUF
 'each': AOEFP
@@ -140,7 +140,7 @@ Hansel and Gretel
 'more': PHOR
 'piece': PAOES
 'of': -F
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'and': SKP
 'then': THEPB
 'we': WE
@@ -152,7 +152,7 @@ Hansel and Gretel
 'and': SKP
 'leave': HREF
 'them': THEPL
-'alone.': A/HROEPB TP-PL
+'alone.': A/HROEPB/TP-PL
 'They': KPA/THE
 'will': HR
 'not': TPHOT
@@ -160,24 +160,24 @@ Hansel and Gretel
 'the': -T
 'way': WAEU
 'home': HOEPL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'we': WE
 'shall': SHAL
 'be': -B
 'rid': REUD
 'of': -F
-'them.'': THEPL TP-PL AE
-''No,': AE KPA/TPHO KW-BG
-'wife,'': WAOEUF KW-BG AE
+'them.'': THEPL/TP-PL/AE
+''No,': AE/KPA/TPHO/KW-BG
+'wife,'': WAOEUF/KW-BG/AE
 'said': SED
 'the': -T
-'man,': PHAPB KW-BG
-''I': AE EU
+'man,': PHAPB/KW-BG
+''I': AE/EU
 'will': HR
 'not': TPHOT
 'do': TKO
-'that;': THA STPH*FPLT
+'that;': THA/STPH*FPLT
 'how': HOU
 'can': K
 'I': EU
@@ -189,7 +189,7 @@ Hansel and Gretel
 'alone': A/HROEPB
 'in': TPH
 'the': -T
-'forest?--the': TPOEFRT H-F H-PB H-PB -T
+'forest?--the': TPOEFRT/H-F/H-PB/H-PB/-T
 'wild': WAOEULD
 'animals': PHAPBLS
 'would': WO
@@ -199,20 +199,20 @@ Hansel and Gretel
 'tear': TAER
 'them': THEPL
 'to': TO
-'pieces.'': PAOEFS TP-PL AE
-''O,': AE O*P KW-BG
+'pieces.'': PAOEFS/TP-PL/AE
+''O,': AE/O*P/KW-BG
 'you': U
-'fool!'': TPAOL SKHRAPL AE
+'fool!'': TPAOL/SKHRAPL/AE
 'said': SED
-'she,': SHE KW-BG
-''then': AE THEPB
+'she,': SHE/KW-BG
+''then': AE/THEPB
 'we': WE
 'must': PHUFT
 'all': AUL
 'four': TPOUR
 'die': TKAOEU
 'of': -F
-'hunger,': HURPBG KW-BG
+'hunger,': HURPBG/KW-BG
 'you': U
 'may': PHAE
 'as': AS
@@ -222,7 +222,7 @@ Hansel and Gretel
 'planks': PHRAPB/-BGS
 'for': TPOR
 'our': OUR
-'coffins,'': KOFPB/-S KW-BG AE
+'coffins,'': KOFPB/-S/KW-BG/AE
 'and': SKP
 'she': SHE
 'left': HREFT
@@ -231,8 +231,8 @@ Hansel and Gretel
 'peace': PAES
 'until': TPH-L
 'he': HE
-'consented.': KEFPBT/-D TP-PL
-''But': AE KPA/PWUT
+'consented.': KEFPBT/-D/TP-PL
+''But': AE/KPA/PWUT
 'I': EU
 'feel': TPAOEL
 'very': SRE
@@ -240,13 +240,13 @@ Hansel and Gretel
 'for': TPOR
 'the': -T
 'poor': PAOR
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'all': AUL
 'the': -T
-'same,'': SAEUPL KW-BG AE
+'same,'': SAEUPL/KW-BG/AE
 'said': SED
 'the': -T
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'The': KPA/-T
 'two': TWO
 'children': KHEURPB
@@ -258,7 +258,7 @@ Hansel and Gretel
 'to': TO
 'sleep': SHRAOEP
 'for': TPOR
-'hunger,': HURPBG KW-BG
+'hunger,': HURPBG/KW-BG
 'and': SKP
 'had': H
 'heard': HAERD
@@ -269,30 +269,30 @@ Hansel and Gretel
 'said': SED
 'to': TO
 'their': THAEUR
-'father.': TPAER TP-PL
+'father.': TPAER/TP-PL
 'Gretel': TKPWRET/EL
 'wept': WEPT
 'bitter': PWEURT
-'tears,': TAERS KW-BG
+'tears,': TAERS/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'Hansel:': HAPB/SEL STPH-FPLT
-''Now': AE KPA/TPHOU
+'Hansel:': HAPB/SEL/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'all': AUL
 'is': S
 'over': OEFR
 'with': W
-'us.'': US TP-PL AE
-''Be': AE KPA/-B
-'quiet,': KWAO*EUT KW-BG
-'Gretel,'': TKPWRET/EL KW-BG AE
+'us.'': US/TP-PL/AE
+''Be': AE/KPA/-B
+'quiet,': KWAO*EUT/KW-BG
+'Gretel,'': TKPWRET/EL/KW-BG/AE
 'said': SED
-'Hansel,': HAPB/SEL KW-BG
-''do': AE TKO
+'Hansel,': HAPB/SEL/KW-BG
+''do': AE/TKO
 'not': TPHOT
 'distress': STKRES
-'yourself,': KWRO*URS KW-BG
+'yourself,': KWRO*URS/KW-BG
 'I': EU
 'will': HR
 'soon': SAOPB
@@ -301,7 +301,7 @@ Hansel and Gretel
 'way': WAEU
 'to': TO
 'help': HEP
-'us.'': US TP-PL AE
+'us.'': US/TP-PL/AE
 'And': AFPBD
 'when': WHEPB
 'the': -T
@@ -309,26 +309,26 @@ Hansel and Gretel
 'folks': TPOBG
 'had': H
 'fallen': TPAUL/-PB
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'he': HE
 'got': TKPWOT
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'put': PUT
 'on': OPB
 'his': HEUS
 'little': HREUL
-'coat,': KOET KW-BG
+'coat,': KOET/KW-BG
 'opened': OEPD
 'the': -T
 'door': TKAOR
-'below,': PWHRO KW-BG
+'below,': PWHRO/KW-BG
 'and': SKP
 'crept': KREPT
-'outside.': OUDZ TP-PL
+'outside.': OUDZ/TP-PL
 'The': KPA/-T
 'moon': PHAOPB
 'shone': SHO*EPB
-'brightly,': PWRAOEULT KW-BG
+'brightly,': PWRAOEULT/KW-BG
 'and': SKP
 'the': -T
 'white': WHAOEUT
@@ -344,7 +344,7 @@ Hansel and Gretel
 'like': HRAOEUBG
 'real': RAEL
 'silver': SEUL/SRER
-'pennies.': PEPB/EUS TP-PL
+'pennies.': PEPB/EUS/TP-PL
 'Hansel': HAPB/SEL
 'stooped': STAOPD
 'and': SKP
@@ -362,7 +362,7 @@ Hansel and Gretel
 'he': HE
 'could': KO
 'get': TKPWET
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
@@ -370,21 +370,21 @@ Hansel and Gretel
 'and': SKP
 'said': SED
 'to': TO
-'Gretel:': TKPWRET/EL STPH-FPLT
-''Be': AE KPA/-B
-'comforted,': K-FRTD KW-BG
+'Gretel:': TKPWRET/EL/STPH-FPLT
+''Be': AE/KPA/-B
+'comforted,': K-FRTD/KW-BG
 'dear': TKAER
 'little': HREUL
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'and': SKP
 'sleep': SHRAOEP
 'in': TPH
-'peace,': PAES KW-BG
+'peace,': PAES/KW-BG
 'God': TKPWO*D
 'will': HR
 'not': TPHOT
 'forsake': TPAUR/SAEUBG
-'us,'': US KW-BG AE
+'us,'': US/KW-BG/AE
 'and': SKP
 'he': HE
 'lay': HRAEU
@@ -392,16 +392,16 @@ Hansel and Gretel
 'again': TKPWEPB
 'in': TPH
 'his': HEUS
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'When': KPA/WHEPB
 'day': TKAEU
-'dawned,': TKAUPBD KW-BG
+'dawned,': TKAUPBD/KW-BG
 'but': PWUT
 'before': PW-FR
 'the': -T
 'sun': SUPB
 'had': H
-'risen,': REUFPB KW-BG
+'risen,': REUFPB/KW-BG
 'the': -T
 'woman': WOPL
 'came': KAEUPL
@@ -409,12 +409,12 @@ Hansel and Gretel
 'awoke': A/WOEBG
 'the': -T
 'two': TWO
-'children,': KHEURPB KW-BG
-'saying:': SAEUG STPH-FPLT
-''Get': AE KPA/TKPWET
-'up,': UP KW-BG
+'children,': KHEURPB/KW-BG
+'saying:': SAEUG/STPH-FPLT
+''Get': AE/KPA/TKPWET
+'up,': UP/KW-BG
 'you': U
-'sluggards!': xxx sluggards SKHRAPL
+'sluggards!': xxx sluggards/SKHRAPL
 'we': WE
 'are': R
 'going': TKPW-G
@@ -423,7 +423,7 @@ Hansel and Gretel
 'forest': TPOEFRT
 'to': TO
 'fetch': TPEFP
-'wood.'': WAOD TP-PL AE
+'wood.'': WAOD/TP-PL/AE
 'She': KPA/SHE
 'gave': TKPWAEUF
 'each': AOEFP
@@ -431,15 +431,15 @@ Hansel and Gretel
 'little': HREUL
 'piece': PAOES
 'of': -F
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''There': AE KPA/THR
+'said:': SED/STPH-FPLT
+''There': AE/KPA/THR
 'is': S
 'something': S-G
 'for': TPOR
 'your': KWROUR
-'dinner,': TKEURPB KW-BG
+'dinner,': TKEURPB/KW-BG
 'but': PWUT
 'do': TKO
 'not': TPHOT
@@ -447,20 +447,20 @@ Hansel and Gretel
 'it': T
 'up': UP
 'before': PW-FR
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'for': TPOR
 'you': U
 'will': HR
 'get': TKPWET
 'nothing': TPHOG
-'else.'': ELS TP-PL AE
+'else.'': ELS/TP-PL/AE
 'Gretel': TKPWRET/EL
 'took': TAOBG
 'the': -T
 'bread': PWRAED
 'under': TPH-PB
 'her': HER
-'apron,': AEUP/ROPB KW-BG
+'apron,': AEUP/ROPB/KW-BG
 'as': AS
 'Hansel': HAPB/SEL
 'had': H
@@ -468,7 +468,7 @@ Hansel and Gretel
 'pebbles': PEBLS
 'in': TPH
 'his': HEUS
-'pocket.': POBGT TP-PL
+'pocket.': POBGT/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'all': AUL
@@ -480,14 +480,14 @@ Hansel and Gretel
 'way': WAEU
 'to': TO
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'had': H
 'walked': WAUBGD
 'a': AEU
 'short': SHORT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'Hansel': HAPB/SEL
 'stood': STAOD
 'still': STEUL
@@ -496,17 +496,17 @@ Hansel and Gretel
 'back': PWABG
 'at': AT
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'did': TK
 'so': SO
 'again': TKPWEPB
 'and': SKP
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'His': KPA/HEUS
 'father': TPAER
-'said:': SED STPH-FPLT
-''Hansel,': AE HAPB/SEL KW-BG
+'said:': SED/STPH-FPLT
+''Hansel,': AE/HAPB/SEL/KW-BG
 'what': WHA
 'are': R
 'you': U
@@ -516,9 +516,9 @@ Hansel and Gretel
 'and': SKP
 'staying': STAEUG
 'behind': HEUPBD
-'for?': TPOR H-F
+'for?': TPOR/H-F
 'Pay': KPA/PAEU
-'attention,': TAEPBGS KW-BG
+'attention,': TAEPBGS/KW-BG
 'and': SKP
 'do': TKO
 'not': TPHOT
@@ -527,43 +527,43 @@ Hansel and Gretel
 'to': TO
 'use': AOUS
 'your': KWROUR
-'legs.'': HREGS TP-PL AE
-''Ah,': AE KPA/HA*E KW-BG
-'father,'': TPAER KW-BG AE
+'legs.'': HREGS/TP-PL/AE
+''Ah,': AE/KPA/HA*E/KW-BG
+'father,'': TPAER/KW-BG/AE
 'said': SED
-'Hansel,': HAPB/SEL KW-BG
-''I': AE EU
+'Hansel,': HAPB/SEL/KW-BG
+''I': AE/EU
 'am': APL
 'looking': HRAOG
 'at': AT
 'my': PHEU
 'little': HREUL
 'white': WHAOEUT
-'cat,': KAT KW-BG
+'cat,': KAT/KW-BG
 'which': WEU
 'is': S
 'sitting': SEUGT
 'up': UP
 'on': OPB
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'and': SKP
 'wants': WAPBTS
 'to': TO
 'say': SAEU
 'goodbye': TKPW-B
 'to': TO
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'The': KPA/-T
 'wife': WAOEUF
-'said:': SED STPH-FPLT
-''Fool,': AE KPA/TPAOL KW-BG
+'said:': SED/STPH-FPLT
+''Fool,': AE/KPA/TPAOL/KW-BG
 'that': THA
 'is': S
 'not': TPHOT
 'your': KWROUR
 'little': HREUL
-'cat,': KAT KW-BG
+'cat,': KAT/KW-BG
 'that': THA
 'is': S
 'the': -T
@@ -574,9 +574,9 @@ Hansel and Gretel
 'shining': SHAOEUPBG
 'on': OPB
 'the': -T
-'chimneys.'': KHEUPL/TPHEU/-S TP-PL AE
-'Hansel,': HAPB/SEL KW-BG
-'however,': HOUF KW-BG
+'chimneys.'': KHEUPL/TPHEU/-S/TP-PL/AE
+'Hansel,': HAPB/SEL/KW-BG
+'however,': HOUF/KW-BG
 'had': H
 'not': TPHOT
 'been': PW-PB
@@ -584,7 +584,7 @@ Hansel and Gretel
 'back': PWABG
 'at': AT
 'the': -T
-'cat,': KAT KW-BG
+'cat,': KAT/KW-BG
 'but': PWUT
 'had': H
 'been': PW-PB
@@ -594,14 +594,14 @@ Hansel and Gretel
 'of': -F
 'the': -T
 'white': WHAOEUT
-'pebble-stones': PEBL H-PB STOEPBS
+'pebble-stones': PEBL/H-PB/STOEPBS
 'out': OUT
 'of': -F
 'his': HEUS
 'pocket': POBGT
 'on': OPB
 'the': -T
-'road.': RAOD TP-PL
+'road.': RAOD/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'had': H
@@ -610,16 +610,16 @@ Hansel and Gretel
 'middle': PH*EULD
 'of': -F
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'the': -T
 'father': TPAER
-'said:': SED STPH-FPLT
-''Now,': AE KPA/TPHOU KW-BG
-'children,': KHEURPB KW-BG
+'said:': SED/STPH-FPLT
+''Now,': AE/KPA/TPHOU/KW-BG
+'children,': KHEURPB/KW-BG
 'pile': PAOEUL
 'up': UP
 'some': SOPL
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'I': EU
 'will': HR
@@ -631,23 +631,23 @@ Hansel and Gretel
 'may': PHAE
 'not': TPHOT
 'be': -B
-'cold.'': KOELD TP-PL AE
+'cold.'': KOELD/TP-PL/AE
 'Hansel': HAPB/SEL
 'and': SKP
 'Gretel': TKPWRET/EL
 'gathered': TKPWAERD
 'brushwood': xxx brushwood
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'as': AS
 'high': HAOEU
 'as': AS
 'a': AEU
 'little': HREUL
-'hill.': HEUL TP-PL
+'hill.': HEUL/TP-PL
 'The': KPA/-T
 'brushwood': xxx brushwood
 'was': WAS
-'lighted,': HRAOEUTD KW-BG
+'lighted,': HRAOEUTD/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -655,12 +655,12 @@ Hansel and Gretel
 'were': WR
 'burning': PWURPBG
 'very': SRE
-'high,': HAOEU KW-BG
+'high,': HAOEU/KW-BG
 'the': -T
 'woman': WOPL
-'said:': SED STPH-FPLT
-''Now,': AE KPA/TPHOU KW-BG
-'children,': KHEURPB KW-BG
+'said:': SED/STPH-FPLT
+''Now,': AE/KPA/TPHOU/KW-BG
+'children,': KHEURPB/KW-BG
 'lay': HRAEU
 'yourselves': KWRO*URSZ
 'down': TKOUPB
@@ -668,7 +668,7 @@ Hansel and Gretel
 'the': -T
 'fire': TPAOEUR
 'and': SKP
-'rest,': REFT KW-BG
+'rest,': REFT/KW-BG
 'we': WE
 'will': HR
 'go': TKPW
@@ -678,11 +678,11 @@ Hansel and Gretel
 'and': SKP
 'cut': KUT
 'some': SOPL
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'When': KPA/WHEPB
 'we': WE
 'have': SR
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'we': WE
 'will': HR
 'come': KOPL
@@ -690,25 +690,25 @@ Hansel and Gretel
 'and': SKP
 'fetch': TPEFP
 'you': U
-'away.'': WA*EU TP-PL AE
+'away.'': WA*EU/TP-PL/AE
 'Hansel': HAPB/SEL
 'and': SKP
 'Gretel': TKPWRET/EL
 'sat': SAT
 'by': PWEU
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'when': WHEPB
 'noon': TPHAOPB
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'each': AOEFP
 'ate': AEUT
 'a': AEU
 'little': HREUL
 'piece': PAOES
 'of': -F
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'and': SKP
 'as': AS
 'they': THE
@@ -717,20 +717,20 @@ Hansel and Gretel
 'strokes': STROEBGS
 'of': -F
 'the': -T
-'wood-axe': WAOD H-PB ABGS
+'wood-axe': WAOD/H-PB/ABGS
 'they': THE
 'believed': PWHREFD
 'that': THA
 'their': THAEUR
 'father': TPAER
 'was': WAS
-'near.': TPHAOER TP-PL
+'near.': TPHAOER/TP-PL
 'It': KPA/T
 'was': WAS
 'not': TPHOT
 'the': -T
-'axe,': ABGS KW-BG
-'however,': HOUF KW-BG
+'axe,': ABGS/KW-BG
+'however,': HOUF/KW-BG
 'but': PWUT
 'a': AEU
 'branch': PWRAFRPB
@@ -749,7 +749,7 @@ Hansel and Gretel
 'blowing': PWHROEG
 'backwards': PWABG/WARDZ
 'and': SKP
-'forwards.': TPAORDZ TP-PL
+'forwards.': TPAORDZ/TP-PL
 'And': AFPBD
 'as': AS
 'they': THE
@@ -759,34 +759,34 @@ Hansel and Gretel
 'such': SUFP
 'a': AEU
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'their': THAEUR
 'eyes': AO*EUS
 'closed': KHROEFD
 'with': W
-'fatigue,': TPA/TAOEG KW-BG
+'fatigue,': TPA/TAOEG/KW-BG
 'and': SKP
 'they': THE
 'fell': TPEL
 'fast': TPAFT
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'When': KPA/WHEPB
 'at': AT
 'last': HRAFT
 'they': THE
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'it': T
 'was': WAS
 'already': HR-R
 'dark': TKARBG
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL
 'Gretel': TKPWRET/EL
 'began': TKPWAPB
 'to': TO
 'cry': KRAOEU
 'and': SKP
-'said:': SED STPH-FPLT
-''How': AE KPA/HOU
+'said:': SED/STPH-FPLT
+''How': AE/KPA/HOU
 'are': R
 'we': WE
 'to': TO
@@ -795,22 +795,22 @@ Hansel and Gretel
 'of': -F
 'the': -T
 'forest': TPOEFRT
-'now?'': TPHOU H-F AE
+'now?'': TPHOU/H-F/AE
 'But': KPA/PWUT
 'Hansel': HAPB/SEL
 'comforted': K-FRTD
 'her': HER
 'and': SKP
-'said:': SED STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'said:': SED/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'wait': WAEUT
 'a': AEU
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'until': TPH-L
 'the': -T
 'moon': PHAOPB
 'has': HAS
-'risen,': REUFPB KW-BG
+'risen,': REUFPB/KW-BG
 'and': SKP
 'then': THEPB
 'we': WE
@@ -818,14 +818,14 @@ Hansel and Gretel
 'soon': SAOPB
 'find': TPAOEUPBD
 'the': -T
-'way.'': WAEU TP-PL AE
+'way.'': WAEU/TP-PL/AE
 'And': AFPBD
 'when': WHEPB
 'the': -T
 'full': TPUL
 'moon': PHAOPB
 'had': H
-'risen,': REUFPB KW-BG
+'risen,': REUFPB/KW-BG
 'Hansel': HAPB/SEL
 'took': TAOBG
 'his': HEUS
@@ -833,7 +833,7 @@ Hansel and Gretel
 'sister': ST-R
 'by': PWEU
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
 'followed': TPOLD
 'the': -T
@@ -841,20 +841,20 @@ Hansel and Gretel
 'which': WEU
 'shone': SHO*EPB
 'like': HRAOEUBG
-'newly-coined': TPHAOUL H-PB KOEUPBD
+'newly-coined': TPHAOUL/H-PB/KOEUPBD
 'silver': SEUL/SRER
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'showed': SHOED
 'them': THEPL
 'the': -T
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'They': KPA/THE
 'walked': WAUBGD
 'the': -T
 'whole': WHOEL
 'night': TPHAOEUT
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'and': SKP
 'by': PWEU
 'break': PWRAEBG
@@ -866,12 +866,12 @@ Hansel and Gretel
 'to': TO
 'their': THAEUR
 'father's': TPAER/AES
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'They': KPA/THE
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -885,12 +885,12 @@ Hansel and Gretel
 'was': WAS
 'Hansel': HAPB/SEL
 'and': SKP
-'Gretel,': TKPWRET/EL KW-BG
+'Gretel,': TKPWRET/EL/KW-BG
 'she': SHE
-'said:': SED STPH-FPLT
-''You': AE KPA/U
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
 'naughty': TPHAU/TEU
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'why': KWR
 'have': SR
 'you': U
@@ -899,7 +899,7 @@ Hansel and Gretel
 'long': HROPBG
 'in': TPH
 'the': -T
-'forest?--we': TPOEFRT H-F H-PB H-PB WE
+'forest?--we': TPOEFRT/H-F/H-PB/H-PB/WE
 'thought': THAUT
 'you': U
 'were': WR
@@ -907,11 +907,11 @@ Hansel and Gretel
 'coming': KO*G
 'back': PWABG
 'at': AT
-'all!'': AUL SKHRAPL AE
+'all!'': AUL/SKHRAPL/AE
 'The': KPA/-T
-'father,': TPAER KW-BG
-'however,': HOUF KW-BG
-'rejoiced,': RE/SKWROEUS/-D KW-BG
+'father,': TPAER/KW-BG
+'however,': HOUF/KW-BG
+'rejoiced,': RE/SKWROEUS/-D/KW-BG
 'for': TPOR
 'it': T
 'had': H
@@ -924,10 +924,10 @@ Hansel and Gretel
 'leave': HREF
 'them': THEPL
 'behind': HEUPBD
-'alone.': A/HROEPB TP-PL
+'alone.': A/HROEPB/TP-PL
 'Not': KPA/TPHOT
 'long': HROPBG
-'afterwards,': A*FRDZ KW-BG
+'afterwards,': A*FRDZ/KW-BG
 'there': THR
 'was': WAS
 'once': WUPBS
@@ -936,7 +936,7 @@ Hansel and Gretel
 'dearth': TK*ERT
 'throughout': THROUT
 'the': -T
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'and': SKP
 'the': -T
 'children': KHEURPB
@@ -948,22 +948,22 @@ Hansel and Gretel
 'night': TPHAOEUT
 'to': TO
 'their': THAEUR
-'father:': TPAER STPH-FPLT
-''Everything': AE KPA/EFRG
+'father:': TPAER/STPH-FPLT
+''Everything': AE/KPA/EFRG
 'is': S
 'eaten': AOET/EPB
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'we': WE
 'have': SR
 'one': WUPB
 'half': HAF
 'loaf': HROEF
-'left,': HREFT KW-BG
+'left,': HREFT/KW-BG
 'and': SKP
 'that': THA
 'is': S
 'the': -T
-'end.': EPBD TP-PL
+'end.': EPBD/TP-PL
 'The': KPA/-T
 'children': KHEURPB
 'must': PHUFT
@@ -975,7 +975,7 @@ Hansel and Gretel
 'farther': TPA*RT
 'into': TPHAO
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'so': SO
 'that': THA
 'they': THE
@@ -985,7 +985,7 @@ Hansel and Gretel
 'their': THAEUR
 'way': WAEU
 'out': OUT
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'there': THR
 'is': S
 'no': TPHO
@@ -993,16 +993,16 @@ Hansel and Gretel
 'means': PHAOEPBS
 'of': -F
 'saving': SAFG
-'ourselves!'': O*URSZ SKHRAPL AE
+'ourselves!'': O*URSZ/SKHRAPL/AE
 'The': KPA/-T
 'man's': PHAPB/AES
 'heart': HART
 'was': WAS
-'heavy,': HOEUF KW-BG
+'heavy,': HOEUF/KW-BG
 'and': SKP
 'he': HE
-'thought:': THAUT STPH-FPLT
-''It': AE KPA/T
+'thought:': THAUT/STPH-FPLT
+''It': AE/KPA/T
 'would': WO
 'be': -B
 'better': PWOERT
@@ -1015,10 +1015,10 @@ Hansel and Gretel
 'mouthful': PHO*UT/-FL
 'with': W
 'your': KWROUR
-'children.'': KHEURPB TP-PL AE
+'children.'': KHEURPB/TP-PL/AE
 'The': KPA/-T
-'woman,': WOPL KW-BG
-'however,': HOUF KW-BG
+'woman,': WOPL/KW-BG
+'however,': HOUF/KW-BG
 'would': WO
 'listen': HREUFPB
 'to': TO
@@ -1027,20 +1027,20 @@ Hansel and Gretel
 'he': HE
 'had': H
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'but': PWUT
 'scolded': SKOLD/-D
 'and': SKP
 'reproached': RAOE/PROEFPD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'who': WHO
 'says': SEZ
 'A': KPA/AEU
 'must': PHUFT
 'say': SAEU
-'B,': PW*P KW-BG
-'likewise,': HRAOEUBG/WAOEUS KW-BG
+'B,': PW*P/KW-BG
+'likewise,': HRAOEUBG/WAOEUS/KW-BG
 'and': SKP
 'as': AS
 'he': HE
@@ -1048,7 +1048,7 @@ Hansel and Gretel
 'yielded': KWRAOELD/-D
 'the': -T
 'first': TPEUFRT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'he': HE
 'had': H
 'to': TO
@@ -1057,10 +1057,10 @@ Hansel and Gretel
 'a': AEU
 'second': SEBGD
 'time': TAOEUPL
-'also.': HR-S TP-PL
+'also.': HR-S/TP-PL
 'The': KPA/-T
-'children,': KHEURPB KW-BG
-'however,': HOUF KW-BG
+'children,': KHEURPB/KW-BG
+'however,': HOUF/KW-BG
 'were': WR
 'still': STEUL
 'awake': A/WAEUBG
@@ -1068,17 +1068,17 @@ Hansel and Gretel
 'had': H
 'heard': HAERD
 'the': -T
-'conversation.': K-FRGS TP-PL
+'conversation.': K-FRGS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'old': OLD
 'folks': TPOBG
 'were': WR
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'Hansel': HAPB/SEL
 'again': TKPWEPB
 'got': TKPWOT
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'to': TO
@@ -1092,49 +1092,49 @@ Hansel and Gretel
 'he': HE
 'had': H
 'done': TKOPB
-'before,': PW-FR KW-BG
+'before,': PW-FR/KW-BG
 'but': PWUT
 'the': -T
 'woman': WOPL
 'had': H
 'locked': HROBGD
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'Hansel': HAPB/SEL
 'could': KO
 'not': TPHOT
 'get': TKPWET
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'Nevertheless': KPA/TPHEFRLS
 'he': HE
 'comforted': K-FRTD
 'his': HEUS
 'little': HREUL
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Do': AE KPA/TKO
+'said:': SED/STPH-FPLT
+''Do': AE/KPA/TKO
 'not': TPHOT
-'cry,': KRAOEU KW-BG
-'Gretel,': TKPWRET/EL KW-BG
+'cry,': KRAOEU/KW-BG
+'Gretel,': TKPWRET/EL/KW-BG
 'go': TKPW
 'to': TO
 'sleep': SHRAOEP
-'quietly,': KWAO*EULT KW-BG
+'quietly,': KWAO*EULT/KW-BG
 'the': -T
 'good': TKPWAOD
 'God': TKPWO*D
 'will': HR
 'help': HEP
-'us.'': US TP-PL AE
+'us.'': US/TP-PL/AE
 'Early': KPA/ERL
 'in': TPH
 'the': -T
 'morning': PHORPBG
 'came': KAEUPL
 'the': -T
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'and': SKP
 'took': TAOBG
 'the': -T
@@ -1142,7 +1142,7 @@ Hansel and Gretel
 'out': OUT
 'of': -F
 'their': THAEUR
-'beds.': PWEDZ TP-PL
+'beds.': PWEDZ/TP-PL
 'Their': KPA/THAEUR
 'piece': PAOES
 'of': -F
@@ -1150,7 +1150,7 @@ Hansel and Gretel
 'was': WAS
 'given': TKPWEUFPB
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
@@ -1159,7 +1159,7 @@ Hansel and Gretel
 'than': THAPB
 'the': -T
 'time': TAOEUPL
-'before.': PW-FR TP-PL
+'before.': PW-FR/TP-PL
 'On': KPA/OPB
 'the': -T
 'way': WAEU
@@ -1171,7 +1171,7 @@ Hansel and Gretel
 'his': HEUS
 'in': TPH
 'his': HEUS
-'pocket,': POBGT KW-BG
+'pocket,': POBGT/KW-BG
 'and': SKP
 'often': OFPB
 'stood': STAOD
@@ -1182,21 +1182,21 @@ Hansel and Gretel
 'morsel': PHOR/SEL
 'on': OPB
 'the': -T
-'ground.': TKPWROUPBD TP-PL
-''Hansel,': AE HAPB/SEL KW-BG
+'ground.': TKPWROUPBD/TP-PL
+''Hansel,': AE/HAPB/SEL/KW-BG
 'why': KWR
 'do': TKO
 'you': U
 'stop': STOP
 'and': SKP
 'look': HRAOBG
-'round?'': ROUPBD H-F AE
+'round?'': ROUPBD/H-F/AE
 'said': SED
 'the': -T
-'father,': TPAER KW-BG
-''go': AE TKPW
-'on.'': OPB TP-PL AE
-''I': AE EU
+'father,': TPAER/KW-BG
+''go': AE/TKPW
+'on.'': OPB/TP-PL/AE
+''I': AE/EU
 'am': APL
 'looking': HRAOG
 'back': PWABG
@@ -1209,26 +1209,26 @@ Hansel and Gretel
 'sitting': SEUGT
 'on': OPB
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'and': SKP
 'wants': WAPBTS
 'to': TO
 'say': SAEU
 'goodbye': TKPW-B
 'to': TO
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'answered': AEPBS/-D
-'Hansel.': HAPB/SEL TP-PL
-''Fool!'': AE KPA/TPAOL SKHRAPL AE
+'Hansel.': HAPB/SEL/TP-PL
+''Fool!'': AE/KPA/TPAOL/SKHRAPL/AE
 'said': SED
 'the': -T
-'woman,': WOPL KW-BG
-''that': AE THA
+'woman,': WOPL/KW-BG
+''that': AE/THA
 'is': S
 'not': TPHOT
 'your': KWROUR
 'little': HREUL
-'pigeon,': PEUGS KW-BG
+'pigeon,': PEUGS/KW-BG
 'that': THA
 'is': S
 'the': -T
@@ -1239,19 +1239,19 @@ Hansel and Gretel
 'shining': SHAOEUPBG
 'on': OPB
 'the': -T
-'chimney.'': KHEUPL/TPHEU TP-PL AE
-'Hansel,': HAPB/SEL KW-BG
+'chimney.'': KHEUPL/TPHEU/TP-PL/AE
+'Hansel,': HAPB/SEL/KW-BG
 'however': HOUF
 'little': HREUL
 'by': PWEU
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'threw': THRAOU
 'all': AUL
 'the': -T
 'crumbs': KRUPLS
 'on': OPB
 'the': -T
-'path.': PA*T TP-PL
+'path.': PA*T/TP-PL
 'The': KPA/-T
 'woman': WOPL
 'led': HRED
@@ -1261,7 +1261,7 @@ Hansel and Gretel
 'deeper': TKAOERP
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'where': W-R
 'they': THE
 'had': H
@@ -1270,23 +1270,23 @@ Hansel and Gretel
 'their': THAEUR
 'lives': HREUFS
 'been': PW-PB
-'before.': PW-FR TP-PL
+'before.': PW-FR/TP-PL
 'Then': KPA/THEPB
 'a': AEU
 'great': TKPWRAET
 'fire': TPAOEUR
 'was': WAS
 'again': TKPWEPB
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'and': SKP
 'the': -T
 'mother': PHOER
-'said:': SED STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'said:': SED/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'sit': SEUT
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'you': U
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'and': SKP
 'when': WHEPB
 'you': U
@@ -1296,7 +1296,7 @@ Hansel and Gretel
 'may': PHAE
 'sleep': SHRAOEP
 'a': AEU
-'little;': HREUL STPH*FPLT
+'little;': HREUL/STPH*FPLT
 'we': WE
 'are': R
 'going': TKPW-G
@@ -1305,7 +1305,7 @@ Hansel and Gretel
 'forest': TPOEFRT
 'to': TO
 'cut': KUT
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -1313,18 +1313,18 @@ Hansel and Gretel
 'when': WHEPB
 'we': WE
 'are': R
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'we': WE
 'will': HR
 'come': KOPL
 'and': SKP
 'fetch': TPEFP
 'you': U
-'away.'': WA*EU TP-PL AE
+'away.'': WA*EU/TP-PL/AE
 'When': KPA/WHEPB
 'it': T
 'was': WAS
-'noon,': TPHAOPB KW-BG
+'noon,': TPHAOPB/KW-BG
 'Gretel': TKPWRET/EL
 'shared': SHAEURD
 'her': HER
@@ -1332,21 +1332,21 @@ Hansel and Gretel
 'of': -F
 'bread': PWRAED
 'with': W
-'Hansel,': HAPB/SEL KW-BG
+'Hansel,': HAPB/SEL/KW-BG
 'who': WHO
 'had': H
 'scattered': SKAT/ERD
 'his': HEUS
 'by': PWEU
 'the': -T
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'fell': TPEL
 'asleep': A/SHRAOEP
 'and': SKP
 'evening': AOEPBG
-'passed,': PAFD KW-BG
+'passed,': PAFD/KW-BG
 'but': PWUT
 'no': TPHO
 'one': WUPB
@@ -1354,7 +1354,7 @@ Hansel and Gretel
 'to': TO
 'the': -T
 'poor': PAOR
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'They': KPA/THE
 'did': TK
 'not': TPHOT
@@ -1363,7 +1363,7 @@ Hansel and Gretel
 'it': T
 'was': WAS
 'dark': TKARBG
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'Hansel': HAPB/SEL
 'comforted': K-FRTD
@@ -1371,14 +1371,14 @@ Hansel and Gretel
 'little': HREUL
 'sister': ST-R
 'and': SKP
-'said:': SED STPH-FPLT
-''Just': AE KPA/SKWRUFT
-'wait,': WAEUT KW-BG
-'Gretel,': TKPWRET/EL KW-BG
+'said:': SED/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
+'wait,': WAEUT/KW-BG
+'Gretel,': TKPWRET/EL/KW-BG
 'until': TPH-L
 'the': -T
 'moon': PHAOPB
-'rises,': RAOEUZ/-Z KW-BG
+'rises,': RAOEUZ/-Z/KW-BG
 'and': SKP
 'then': THEPB
 'we': WE
@@ -1392,7 +1392,7 @@ Hansel and Gretel
 'I': EU
 'have': SR
 'strewn': STRAOUPB
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'they': THE
 'will': HR
 'show': SHOE
@@ -1400,19 +1400,19 @@ Hansel and Gretel
 'our': OUR
 'way': WAEU
 'home': HOEPL
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'moon': PHAOPB
 'came': KAEUPL
 'they': THE
 'set': SET
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'but': PWUT
 'they': THE
 'found': TPOUPBD
 'no': TPHO
-'crumbs,': KRUPLS KW-BG
+'crumbs,': KRUPLS/KW-BG
 'for': TPOR
 'the': -T
 'many': PHAEPB
@@ -1431,23 +1431,23 @@ Hansel and Gretel
 'picked': PEUBGD
 'them': THEPL
 'all': AUL
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'Hansel': HAPB/SEL
 'said': SED
 'to': TO
-'Gretel:': TKPWRET/EL STPH-FPLT
-''We': AE KPA/WE
+'Gretel:': TKPWRET/EL/STPH-FPLT
+''We': AE/KPA/WE
 'shall': SHAL
 'soon': SAOPB
 'find': TPAOEUPBD
 'the': -T
-'way,'': WAEU KW-BG AE
+'way,'': WAEU/KW-BG/AE
 'but': PWUT
 'they': THE
 'did': TK
 'not': TPHOT
 'find': TPAOEUPBD
-'it.': T TP-PL
+'it.': T/TP-PL
 'They': KPA/THE
 'walked': WAUBGD
 'the': -T
@@ -1462,7 +1462,7 @@ Hansel and Gretel
 'from': TPR
 'morning': PHORPBG
 'till': TEUL
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'but': PWUT
 'they': THE
 'did': TK
@@ -1471,11 +1471,11 @@ Hansel and Gretel
 'out': OUT
 'of': -F
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'were': WR
 'very': SRE
-'hungry,': HUPBG/REU KW-BG
+'hungry,': HUPBG/REU/KW-BG
 'for': TPOR
 'they': THE
 'had': H
@@ -1486,12 +1486,12 @@ Hansel and Gretel
 'two': TWO
 'or': OR
 'three': THRAOE
-'berries,': PWER/KWREUS KW-BG
+'berries,': PWER/KWREUS/KW-BG
 'which': WEU
 'grew': TKPWRAOU
 'on': OPB
 'the': -T
-'ground.': TKPWROUPBD TP-PL
+'ground.': TKPWROUPBD/TP-PL
 'And': AFPBD
 'as': AS
 'they': THE
@@ -1505,7 +1505,7 @@ Hansel and Gretel
 'carry': KAER
 'them': THEPL
 'no': TPHO
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'they': THE
 'lay': HRAEU
 'down': TKOUPB
@@ -1514,7 +1514,7 @@ Hansel and Gretel
 'tree': TRAOE
 'and': SKP
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'It': KPA/T
 'was': WAS
 'now': TPHOU
@@ -1526,12 +1526,12 @@ Hansel and Gretel
 'left': HREFT
 'their': THAEUR
 'father's': TPAER/AES
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'They': KPA/THE
 'began': TKPWAPB
 'to': TO
 'walk': WAUBG
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'but': PWUT
 'they': THE
 'always': AULS
@@ -1539,25 +1539,25 @@ Hansel and Gretel
 'deeper': TKAOERP
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'if': TP
 'help': HEP
 'did': TK
 'not': TPHOT
 'come': KOPL
-'soon,': SAOPB KW-BG
+'soon,': SAOPB/KW-BG
 'they': THE
 'must': PHUFT
 'die': TKAOEU
 'of': -F
 'hunger': HURPBG
 'and': SKP
-'weariness.': WAOER/REU/-PBS TP-PL
+'weariness.': WAOER/REU/-PBS/TP-PL
 'When': KPA/WHEPB
 'it': T
 'was': WAS
-'mid-day,': PHEUD/PHEUD H-PB TKAEU KW-BG
+'mid-day,': PHEUD/PHEUD/H-PB/TKAEU/KW-BG
 'they': THE
 'saw': SAU
 'a': AEU
@@ -1567,7 +1567,7 @@ Hansel and Gretel
 'sitting': SEUGT
 'on': OPB
 'a': AEU
-'bough,': PWO*U KW-BG
+'bough,': PWO*U/KW-BG
 'which': WEU
 'sang': SAPBG
 'so': SO
@@ -1579,13 +1579,13 @@ Hansel and Gretel
 'and': SKP
 'listened': HREUFPBD
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'when': WHEPB
 'its': EUTS
 'song': SOPBG
 'was': WAS
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'it': T
 'spread': SPRED
 'its': EUTS
@@ -1594,7 +1594,7 @@ Hansel and Gretel
 'flew': TPHRAOU
 'away': WA*EU
 'before': PW-FR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'they': THE
 'followed': TPOLD
@@ -1604,14 +1604,14 @@ Hansel and Gretel
 'reached': RAOEFPD
 'a': AEU
 'little': HREUL
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'on': OPB
 'the': -T
 'roof': RAOF
 'of': -F
 'which': WEU
 'it': T
-'alighted;': A/HRAOEUT/-D STPH*FPLT
+'alighted;': A/HRAOEUT/-D/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -1630,7 +1630,7 @@ Hansel and Gretel
 'and': SKP
 'covered': KOFRD
 'with': W
-'cakes,': KAEUBG/-S KW-BG
+'cakes,': KAEUBG/-S/KW-BG
 'but': PWUT
 'that': THA
 'the': -T
@@ -1638,21 +1638,21 @@ Hansel and Gretel
 'were': WR
 'of': -F
 'clear': KHRAOER
-'sugar.': SHURG TP-PL
-''We': AE KPA/WE
+'sugar.': SHURG/TP-PL
+''We': AE/KPA/WE
 'will': HR
 'set': SET
 'to': TO
 'work': WORBG
 'on': OPB
-'that,'': THA KW-BG AE
+'that,'': THA/KW-BG/AE
 'said': SED
-'Hansel,': HAPB/SEL KW-BG
-''and': AE SKP
+'Hansel,': HAPB/SEL/KW-BG
+''and': AE/SKP
 'have': SR
 'a': AEU
 'good': TKPWAOD
-'meal.': PHAOEL TP-PL
+'meal.': PHAOEL/TP-PL
 'I': EU
 'will': HR
 'eat': AOET
@@ -1660,24 +1660,24 @@ Hansel and Gretel
 'bit': PWEUT
 'of': -F
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'and': SKP
 'you': U
-'Gretel,': TKPWRET/EL KW-BG
+'Gretel,': TKPWRET/EL/KW-BG
 'can': K
 'eat': AOET
 'some': SOPL
 'of': -F
 'the': -T
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'it': T
 'will': HR
 'taste': TAEUFT
-'sweet.'': SWAOET TP-PL AE
+'sweet.'': SWAOET/TP-PL/AE
 'Hansel': HAPB/SEL
 'reached': RAOEFPD
 'up': UP
-'above,': PWOF KW-BG
+'above,': PWOF/KW-BG
 'and': SKP
 'broke': PWROEBG
 'off': OF
@@ -1690,7 +1690,7 @@ Hansel and Gretel
 'try': TREU
 'how': HOU
 'it': T
-'tasted,': TAEUFT/-D KW-BG
+'tasted,': TAEUFT/-D/KW-BG
 'and': SKP
 'Gretel': TKPWRET/EL
 'leant': HRE/APBT
@@ -1701,7 +1701,7 @@ Hansel and Gretel
 'nibbled': TPHEUB/-LD
 'at': AT
 'the': -T
-'panes.': PAEPBS TP-PL
+'panes.': PAEPBS/TP-PL
 'Then': KPA/THEPB
 'a': AEU
 'soft': SOFT
@@ -1709,49 +1709,49 @@ Hansel and Gretel
 'cried': KRAOEUD
 'from': TPR
 'the': -T
-'parlour:': PAR/HROR/A*U STPH-FPLT
-''Nibble,': AE KPA/TPHEUBL KW-BG
-'nibble,': TPHEUBL KW-BG
-'gnaw,': TPHA*U KW-BG
+'parlour:': PAR/HROR/A*U/STPH-FPLT
+''Nibble,': AE/KPA/TPHEUBL/KW-BG
+'nibble,': TPHEUBL/KW-BG
+'gnaw,': TPHA*U/KW-BG
 'Who': KPA/WHO
 'is': S
 'nibbling': TPHEUB/-LG
 'at': AT
 'my': PHEU
 'little': HREUL
-'house?'': HOUS H-F AE
+'house?'': HOUS/H-F/AE
 'The': KPA/-T
 'children': KHEURPB
-'answered:': AEPBS/-D STPH-FPLT
-''The': AE KPA/-T
-'wind,': WEUPBD KW-BG
+'answered:': AEPBS/-D/STPH-FPLT
+''The': AE/KPA/-T
+'wind,': WEUPBD/KW-BG
 'the': -T
-'wind,': WEUPBD KW-BG
+'wind,': WEUPBD/KW-BG
 'The': KPA/-T
-'heaven-born': HEFPB H-PB PWORPB
-'wind,'': WEUPBD KW-BG AE
+'heaven-born': HEFPB/H-PB/PWORPB
+'wind,'': WEUPBD/KW-BG/AE
 'and': SKP
 'went': WEPBT
 'on': OPB
 'eating': AOEGT
 'without': WOUT
 'disturbing': TKEUS/TURBG
-'themselves.': TH*EPLS TP-PL
-'Hansel,': HAPB/SEL KW-BG
+'themselves.': TH*EPLS/TP-PL
+'Hansel,': HAPB/SEL/KW-BG
 'who': WHO
 'liked': HRAOEUBGD
 'the': -T
 'taste': TAEUFT
 'of': -F
 'the': -T
-'roof,': RAOF KW-BG
+'roof,': RAOF/KW-BG
 'tore': TO*R
 'down': TKOUPB
 'a': AEU
 'great': TKPWRAET
 'piece': PAOES
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'Gretel': TKPWRET/EL
 'pushed': PURBD
@@ -1761,18 +1761,18 @@ Hansel and Gretel
 'of': -F
 'one': WUPB
 'round': ROUPBD
-'window-pane,': WOEUPBD H-PB PAEPB KW-BG
+'window-pane,': WOEUPBD/H-PB/PAEPB/KW-BG
 'sat': SAT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'enjoyed': EPB/SKWROEUD
 'herself': H*ERS
 'with': W
-'it.': T TP-PL
+'it.': T/TP-PL
 'Suddenly': KPA/SULD
 'the': -T
 'door': TKAOR
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'and': SKP
 'a': AEU
 'woman': WOPL
@@ -1780,15 +1780,15 @@ Hansel and Gretel
 'old': OLD
 'as': AS
 'the': -T
-'hills,': HEULS KW-BG
+'hills,': HEULS/KW-BG
 'who': WHO
 'supported': SPORD
 'herself': H*ERS
 'on': OPB
-'crutches,': KRUFPS KW-BG
+'crutches,': KRUFPS/KW-BG
 'came': KAEUPL
 'creeping': KRAOEPG
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'Hansel': HAPB/SEL
 'and': SKP
 'Gretel': TKPWRET/EL
@@ -1805,67 +1805,67 @@ Hansel and Gretel
 'had': H
 'in': TPH
 'their': THAEUR
-'hands.': HAPBDZ TP-PL
+'hands.': HAPBDZ/TP-PL
 'The': KPA/-T
 'old': OLD
-'woman,': WOPL KW-BG
-'however,': HOUF KW-BG
+'woman,': WOPL/KW-BG
+'however,': HOUF/KW-BG
 'nodded': TPHOD/-D
 'her': HER
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'said:': SED/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'you': U
 'dear': TKAER
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'who': WHO
 'has': HAS
 'brought': PWRAUT
 'you': U
-'here?': HAOER H-F
+'here?': HAOER/H-F
 'do': TKO
 'come': KOPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'stay': STAEU
 'with': W
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'No': KPA/TPHO
 'harm': HARPL
 'shall': SHAL
 'happen': HAP
 'to': TO
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'She': KPA/SHE
 'took': TAOBG
 'them': THEPL
 'both': PWO*T
 'by': PWEU
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
 'led': HRED
 'them': THEPL
 'into': TPHAO
 'her': HER
 'little': HREUL
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'Then': KPA/THEPB
 'good': TKPWAOD
 'food': TPAOD
 'was': WAS
 'set': SET
 'before': PW-FR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'milk': PH*EULG
 'and': SKP
-'pancakes,': PAPB/KAEUBG/-S KW-BG
+'pancakes,': PAPB/KAEUBG/-S/KW-BG
 'with': W
-'sugar,': SHURG KW-BG
-'apples,': APLS KW-BG
+'sugar,': SHURG/KW-BG
+'apples,': APLS/KW-BG
 'and': SKP
-'nuts.': TPHUTS TP-PL
+'nuts.': TPHUTS/TP-PL
 'Afterwards': KPA/A*FRDZ
 'two': TWO
 'pretty': PREUT
@@ -1876,7 +1876,7 @@ Hansel and Gretel
 'with': W
 'clean': KHRAOEPB
 'white': WHAOEUT
-'linen,': HREUPB/-PB KW-BG
+'linen,': HREUPB/-PB/KW-BG
 'and': SKP
 'Hansel': HAPB/SEL
 'and': SKP
@@ -1884,13 +1884,13 @@ Hansel and Gretel
 'lay': HRAEU
 'down': TKOUPB
 'in': TPH
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'thought': THAUT
 'they': THE
 'were': WR
 'in': TPH
-'heaven.': HEFPB TP-PL
+'heaven.': HEFPB/TP-PL
 'The': KPA/-T
 'old': OLD
 'woman': WOPL
@@ -1900,20 +1900,20 @@ Hansel and Gretel
 'to': TO
 'be': -B
 'so': SO
-'kind;': KEUPBD STPH*FPLT
+'kind;': KEUPBD/STPH*FPLT
 'she': SHE
 'was': WAS
 'in': TPH
 'reality': RAOELT
 'a': AEU
 'wicked': WEUBGD
-'witch,': WEUFP KW-BG
+'witch,': WEUFP/KW-BG
 'who': WHO
 'lay': HRAEU
 'in': TPH
 'wait': WAEUT
 'for': TPOR
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'and': SKP
 'had': H
 'only': OEPBL
@@ -1928,21 +1928,21 @@ Hansel and Gretel
 'to': TO
 'entice': SPWAOEUS
 'them': THEPL
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'When': KPA/WHEPB
 'a': AEU
 'child': KHAOEULD
 'fell': TPEL
 'into': TPHAO
 'her': HER
-'power,': POUR KW-BG
+'power,': POUR/KW-BG
 'she': SHE
 'killed': KEULD
-'it,': T KW-BG
+'it,': T/KW-BG
 'cooked': KAOBGD
 'and': SKP
 'ate': AEUT
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'that': THA
 'was': WAS
@@ -1950,15 +1950,15 @@ Hansel and Gretel
 'feast': TPAOEFT
 'day': TKAEU
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Witches': KPA/WEUFP/-S
 'have': SR
 'red': RED
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'cannot': SK-PBT
 'see': SAOE
-'far,': TPAR KW-BG
+'far,': TPAR/KW-BG
 'but': PWUT
 'they': THE
 'have': SR
@@ -1967,7 +1967,7 @@ Hansel and Gretel
 'scent': SKEPBT
 'like': HRAOEUBG
 'the': -T
-'beasts,': PWAOEFT/-S KW-BG
+'beasts,': PWAOEFT/-S/KW-BG
 'and': SKP
 'are': R
 'aware': A/WAEUR
@@ -1975,7 +1975,7 @@ Hansel and Gretel
 'human': HAOUPL
 'beings': -BGZ
 'draw': TKRAU
-'near.': TPHAOER TP-PL
+'near.': TPHAOER/TP-PL
 'When': KPA/WHEPB
 'Hansel': HAPB/SEL
 'and': SKP
@@ -1983,23 +1983,23 @@ Hansel and Gretel
 'came': KAEUPL
 'into': TPHAO
 'her': HER
-'neighbourhood,': TPHAOD/A*U KW-BG
+'neighbourhood,': TPHAOD/A*U/KW-BG
 'she': SHE
 'laughed': HRAFD
 'with': W
-'malice,': PHAL/EUS KW-BG
+'malice,': PHAL/EUS/KW-BG
 'and': SKP
 'said': SED
-'mockingly:': PHOBG/-G/HREU STPH-FPLT
-''I': AE EU
+'mockingly:': PHOBG/-G/HREU/STPH-FPLT
+''I': AE/EU
 'have': SR
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'they': THE
 'shall': SHAL
 'not': TPHOT
 'escape': SKAEP
 'me': PHE
-'again!'': TKPWEPB SKHRAPL AE
+'again!'': TKPWEPB/SKHRAPL/AE
 'Early': KPA/ERL
 'in': TPH
 'the': -T
@@ -2008,11 +2008,11 @@ Hansel and Gretel
 'the': -T
 'children': KHEURPB
 'were': WR
-'awake,': A/WAEUBG KW-BG
+'awake,': A/WAEUBG/KW-BG
 'she': SHE
 'was': WAS
 'already': HR-R
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -2024,7 +2024,7 @@ Hansel and Gretel
 'and': SKP
 'looking': HRAOG
 'so': SO
-'pretty,': PREUT KW-BG
+'pretty,': PREUT/KW-BG
 'with': W
 'their': THAEUR
 'plump': PHRUFRP
@@ -2034,13 +2034,13 @@ Hansel and Gretel
 'she': SHE
 'muttered': PHUT/*ER/-D
 'to': TO
-'herself:': H*ERS STPH-FPLT
-''That': AE KPA/THA
+'herself:': H*ERS/STPH-FPLT
+''That': AE/KPA/THA
 'will': HR
 'be': -B
 'a': AEU
 'dainty': TKAEUPB/TEU
-'mouthful!'': PHO*UT/-FL SKHRAPL AE
+'mouthful!'': PHO*UT/-FL/SKHRAPL/AE
 'Then': KPA/THEPB
 'she': SHE
 'seized': SAOEZ/-D
@@ -2048,13 +2048,13 @@ Hansel and Gretel
 'with': W
 'her': HER
 'shrivelled': SHR*EUFLD/A*U
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'carried': KAERD
 'him': HEUPL
 'into': TPHAO
 'a': AEU
 'little': HREUL
-'stable,': STABL KW-BG
+'stable,': STABL/KW-BG
 'and': SKP
 'locked': HROBGD
 'him': HEUPL
@@ -2062,73 +2062,73 @@ Hansel and Gretel
 'behind': HEUPBD
 'a': AEU
 'grated': TKPWRAEUT/-D
-'door.': TKAOR TP-PL
+'door.': TKAOR/TP-PL
 'Scream': KPA/SKRAOEPL
 'as': AS
 'he': HE
-'might,': PHAOEUT KW-BG
+'might,': PHAOEUT/KW-BG
 'it': T
 'would': WO
 'not': TPHOT
 'help': HEP
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'went': WEPBT
 'to': TO
-'Gretel,': TKPWRET/EL KW-BG
+'Gretel,': TKPWRET/EL/KW-BG
 'shook': SHAOBG
 'her': HER
 'till': TEUL
 'she': SHE
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Get': AE KPA/TKPWET
-'up,': UP KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Get': AE/KPA/TKPWET
+'up,': UP/KW-BG
 'lazy': HRAEZ
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'fetch': TPEFP
 'some': SOPL
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'cook': KAOBG
 'something': S-G
 'good': TKPWAOD
 'for': TPOR
 'your': KWROUR
-'brother,': PWROER KW-BG
+'brother,': PWROER/KW-BG
 'he': HE
 'is': S
 'in': TPH
 'the': -T
 'stable': STABL
-'outside,': OUDZ KW-BG
+'outside,': OUDZ/KW-BG
 'and': SKP
 'is': S
 'to': TO
 'be': -B
 'made': PHAED
-'fat.': TPAT TP-PL
+'fat.': TPAT/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'is': S
-'fat,': TPAT KW-BG
+'fat,': TPAT/KW-BG
 'I': EU
 'will': HR
 'eat': AOET
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'Gretel': TKPWRET/EL
 'began': TKPWAPB
 'to': TO
 'weep': WAOEP
-'bitterly,': PWEURLT KW-BG
+'bitterly,': PWEURLT/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
 'all': AUL
 'in': TPH
-'vain,': SRA*EUPB KW-BG
+'vain,': SRA*EUPB/KW-BG
 'for': TPOR
 'she': SHE
 'was': WAS
@@ -2139,7 +2139,7 @@ Hansel and Gretel
 'the': -T
 'wicked': WEUBGD
 'witch': WEUFP
-'commanded.': KPHAPBD/-D TP-PL
+'commanded.': KPHAPBD/-D/TP-PL
 'And': AFPBD
 'now': TPHOU
 'the': -T
@@ -2149,13 +2149,13 @@ Hansel and Gretel
 'cooked': KAOBGD
 'for': TPOR
 'poor': PAOR
-'Hansel,': HAPB/SEL KW-BG
+'Hansel,': HAPB/SEL/KW-BG
 'but': PWUT
 'Gretel': TKPWRET/EL
 'got': TKPWOT
 'nothing': TPHOG
 'but': PWUT
-'crab-shells.': KRAB H-PB SHELS TP-PL
+'crab-shells.': KRAB/H-PB/SHELS/TP-PL
 'Every': KPA/EF
 'morning': PHORPBG
 'the': -T
@@ -2164,10 +2164,10 @@ Hansel and Gretel
 'to': TO
 'the': -T
 'little': HREUL
-'stable,': STABL KW-BG
+'stable,': STABL/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Hansel,': AE HAPB/SEL KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Hansel,': AE/HAPB/SEL/KW-BG
 'stretch': STREFP
 'out': OUT
 'your': KWROUR
@@ -2181,34 +2181,34 @@ Hansel and Gretel
 'will': HR
 'soon': SAOPB
 'be': -B
-'fat.'': TPAT TP-PL AE
-'Hansel,': HAPB/SEL KW-BG
-'however,': HOUF KW-BG
+'fat.'': TPAT/TP-PL/AE
+'Hansel,': HAPB/SEL/KW-BG
+'however,': HOUF/KW-BG
 'stretched': STREFPD
 'out': OUT
 'a': AEU
 'little': HREUL
 'bone': PWOEPB
 'to': TO
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'the': -T
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'who': WHO
 'had': H
 'dim': TKEUPL
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'could': KO
 'not': TPHOT
 'see': SAOE
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'thought': THAUT
 'it': T
 'was': WAS
-'Hansel's': HAPB/SEL AES
-'finger,': TPEURPBG KW-BG
+'Hansel's': HAPB/SEL/AES
+'finger,': TPEURPBG/KW-BG
 'and': SKP
 'was': WAS
 'astonished': A/STOPB/EURBD
@@ -2219,18 +2219,18 @@ Hansel and Gretel
 'way': WAEU
 'of': -F
 'fattening': TPAT/-PBG
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'When': KPA/WHEPB
 'four': TPOUR
 'weeks': WAOEBGS
 'had': H
 'gone': TKPWOPB
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'and': SKP
 'Hansel': HAPB/SEL
 'still': STEUL
 'remained': RE/PHAEUPBD
-'thin,': THEUPB KW-BG
+'thin,': THEUPB/KW-BG
 'she': SHE
 'was': WAS
 'seized': SAOEZ/-D
@@ -2241,36 +2241,36 @@ Hansel and Gretel
 'not': TPHOT
 'wait': WAEUT
 'any': TPHEU
-'longer.': HRORPBG TP-PL
-''Now,': AE KPA/TPHOU KW-BG
-'then,': THEPB KW-BG
-'Gretel,'': TKPWRET/EL KW-BG AE
+'longer.': HRORPBG/TP-PL
+''Now,': AE/KPA/TPHOU/KW-BG
+'then,': THEPB/KW-BG
+'Gretel,'': TKPWRET/EL/KW-BG/AE
 'she': SHE
 'cried': KRAOEUD
 'to': TO
 'the': -T
-'girl,': TKPWEURL KW-BG
-''stir': AE STEUR
-'yourself,': KWRO*URS KW-BG
+'girl,': TKPWEURL/KW-BG
+''stir': AE/STEUR
+'yourself,': KWRO*URS/KW-BG
 'and': SKP
 'bring': PWREU
 'some': SOPL
-'water.': WAUR TP-PL
+'water.': WAUR/TP-PL
 'Let': KPA/HRET
 'Hansel': HAPB/SEL
 'be': -B
 'fat': TPAT
 'or': OR
-'lean,': HRAOEPB KW-BG
+'lean,': HRAOEPB/KW-BG
 'tomorrow': TORPL
 'I': EU
 'will': HR
 'kill': KEUL
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'cook': KAOBG
-'him.'': HEUPL TP-PL AE
-'Ah,': KPA/HA*E KW-BG
+'him.'': HEUPL/TP-PL/AE
+'Ah,': KPA/HA*E/KW-BG
 'how': HOU
 'the': -T
 'poor': PAOR
@@ -2284,7 +2284,7 @@ Hansel and Gretel
 'to': TO
 'fetch': TPEFP
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'how': HOU
 'her': HER
@@ -2293,15 +2293,15 @@ Hansel and Gretel
 'flow': TPHROE
 'down': TKOUPB
 'her': HER
-'cheeks!': KHAOEBGS SKHRAPL
-''Dear': AE KPA/TKAER
-'God,': TKPWO*D KW-BG
+'cheeks!': KHAOEBGS/SKHRAPL
+''Dear': AE/KPA/TKAER
+'God,': TKPWO*D/KW-BG
 'do': TKO
 'help': HEP
-'us,'': US KW-BG AE
+'us,'': US/KW-BG/AE
 'she': SHE
-'cried.': KRAOEUD TP-PL
-''If': AE KPA/TP
+'cried.': KRAOEUD/TP-PL
+''If': AE/KPA/TP
 'the': -T
 'wild': WAOEULD
 'beasts': PWAOEFT/-S
@@ -2311,7 +2311,7 @@ Hansel and Gretel
 'had': H
 'but': PWUT
 'devoured': TKWOURD
-'us,': US KW-BG
+'us,': US/KW-BG
 'we': WE
 'should': SHO
 'at': AT
@@ -2319,27 +2319,27 @@ Hansel and Gretel
 'rate': RAEUT
 'have': SR
 'died': TKAOEUD
-'together.'': TOGT TP-PL AE
-''Just': AE KPA/SKWRUFT
+'together.'': TOGT/TP-PL/AE
+''Just': AE/KPA/SKWRUFT
 'keep': KAOEP
 'your': KWROUR
 'noise': TPHOEUS
 'to': TO
-'yourself,'': KWRO*URS KW-BG AE
+'yourself,'': KWRO*URS/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'woman,': WOPL KW-BG
-''it': AE T
+'woman,': WOPL/KW-BG
+''it': AE/T
 'won't': WOEPBT
 'help': HEP
 'you': U
 'at': AT
-'all.'': AUL TP-PL AE
+'all.'': AUL/TP-PL/AE
 'Early': KPA/ERL
 'in': TPH
 'the': -T
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'Gretel': TKPWRET/EL
 'had': H
 'to': TO
@@ -2352,29 +2352,29 @@ Hansel and Gretel
 'cauldron': KAUL/TKROPB
 'with': W
 'the': -T
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'light': HRAOEUT
 'the': -T
-'fire.': TPAOEUR TP-PL
-''We': AE KPA/WE
+'fire.': TPAOEUR/TP-PL
+''We': AE/KPA/WE
 'will': HR
 'bake': PWAEUBG
-'first,'': TPEUFRT KW-BG AE
+'first,'': TPEUFRT/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'woman,': WOPL KW-BG
-''I': AE EU
+'woman,': WOPL/KW-BG
+''I': AE/EU
 'have': SR
 'already': HR-R
 'heated': HAOET/-D
 'the': -T
-'oven,': OEFPB KW-BG
+'oven,': OEFPB/KW-BG
 'and': SKP
 'kneaded': TPHAO*ED/-D
 'the': -T
-'dough.'': TKOE TP-PL AE
+'dough.'': TKOE/TP-PL/AE
 'She': KPA/SHE
 'pushed': PURBD
 'poor': PAOR
@@ -2382,7 +2382,7 @@ Hansel and Gretel
 'out': OUT
 'to': TO
 'the': -T
-'oven,': OEFPB KW-BG
+'oven,': OEFPB/KW-BG
 'from': TPR
 'which': WEU
 'flames': TPHRAEUPLS
@@ -2390,19 +2390,19 @@ Hansel and Gretel
 'fire': TPAOEUR
 'were': WR
 'already': HR-R
-'darting.': TKART/-G TP-PL
-''Creep': AE KPA/KRAOEP
-'in,'': TPH KW-BG AE
+'darting.': TKART/-G/TP-PL
+''Creep': AE/KPA/KRAOEP
+'in,'': TPH/KW-BG/AE
 'said': SED
 'the': -T
-'witch,': WEUFP KW-BG
-''and': AE SKP
+'witch,': WEUFP/KW-BG
+''and': AE/SKP
 'see': SAOE
 'if': TP
 'it': T
 'is': S
 'properly': PRORL
-'heated,': HAOET/-D KW-BG
+'heated,': HAOET/-D/KW-BG
 'so': SO
 'that': THA
 'we': WE
@@ -2410,12 +2410,12 @@ Hansel and Gretel
 'put': PUT
 'the': -T
 'bread': PWRAED
-'in.'': TPH TP-PL AE
+'in.'': TPH/TP-PL/AE
 'And': AFPBD
 'once': WUPBS
 'Gretel': TKPWRET/EL
 'was': WAS
-'inside,': TPH-DZ KW-BG
+'inside,': TPH-DZ/KW-BG
 'she': SHE
 'intended': SPWEPBD/-D
 'to': TO
@@ -2427,14 +2427,14 @@ Hansel and Gretel
 'her': HER
 'bake': PWAEUBG
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'then': THEPB
 'she': SHE
 'would': WO
 'eat': AOET
-'her,': HER KW-BG
-'too.': TAO TP-PL
+'her,': HER/KW-BG
+'too.': TAO/TP-PL
 'But': KPA/PWUT
 'Gretel': TKPWRET/EL
 'saw': SAU
@@ -2442,10 +2442,10 @@ Hansel and Gretel
 'she': SHE
 'had': H
 'in': TPH
-'mind,': PHAOEUPBD KW-BG
+'mind,': PHAOEUPBD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'do': TKO
 'not': TPHOT
 'know': TPHOE
@@ -2454,30 +2454,30 @@ Hansel and Gretel
 'am': APL
 'to': TO
 'do': TKO
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'how': HOU
 'do': TKO
 'I': EU
 'get': TKPWET
-'in?'': TPH H-F AE
-''Silly': AE KPA/SHREU
-'goose,'': TKPWAOS KW-BG AE
+'in?'': TPH/H-F/AE
+''Silly': AE/KPA/SHREU
+'goose,'': TKPWAOS/KW-BG/AE
 'said': SED
 'the': -T
 'old': OLD
-'woman.': WOPL TP-PL
-''The': AE KPA/-T
+'woman.': WOPL/TP-PL
+''The': AE/KPA/-T
 'door': TKAOR
 'is': S
 'big': PWEUG
-'enough;': TPHUF STPH*FPLT
+'enough;': TPHUF/STPH*FPLT
 'just': SKWRUFT
-'look,': HRAOBG KW-BG
+'look,': HRAOBG/KW-BG
 'I': EU
 'can': K
 'get': TKPWET
 'in': TPH
-'myself!'': PHAO*EUS SKHRAPL AE
+'myself!'': PHAO*EUS/SKHRAPL/AE
 'and': SKP
 'she': SHE
 'crept': KREPT
@@ -2488,7 +2488,7 @@ Hansel and Gretel
 'head': HED
 'into': TPHAO
 'the': -T
-'oven.': OEFPB TP-PL
+'oven.': OEFPB/TP-PL
 'Then': KPA/THEPB
 'Gretel': TKPWRET/EL
 'gave': TKPWAEUF
@@ -2500,24 +2500,24 @@ Hansel and Gretel
 'her': HER
 'far': TPAR
 'into': TPHAO
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'shut': SHUT
 'the': -T
 'iron': AOEURPB
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
 'fastened': TPAS/-PBD
 'the': -T
-'bolt.': PWOLT TP-PL
-'Oh!': KPA/O*ERBGS SKHRAPL
+'bolt.': PWOLT/TP-PL
+'Oh!': KPA/O*ERBGS/SKHRAPL
 'then': THEPB
 'she': SHE
 'began': TKPWAPB
 'to': TO
 'howl': HOUL
 'quite': KWAOEUT
-'horribly,': HORBL/KWREU KW-BG
+'horribly,': HORBL/KWREU/KW-BG
 'but': PWUT
 'Gretel': TKPWRET/EL
 'ran': RAPB
@@ -2530,29 +2530,29 @@ Hansel and Gretel
 'miserably': PHEUS/RAEBL
 'burnt': PWURPBT
 'to': TO
-'death.': TK*T TP-PL
-'Gretel,': TKPWRET/EL KW-BG
-'however,': HOUF KW-BG
+'death.': TK*T/TP-PL
+'Gretel,': TKPWRET/EL/KW-BG
+'however,': HOUF/KW-BG
 'ran': RAPB
 'like': HRAOEUBG
 'lightning': HRAOEUT/TPHEUPBG
 'to': TO
-'Hansel,': HAPB/SEL KW-BG
+'Hansel,': HAPB/SEL/KW-BG
 'opened': OEPD
 'his': HEUS
 'little': HREUL
-'stable,': STABL KW-BG
+'stable,': STABL/KW-BG
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Hansel,': AE HAPB/SEL KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Hansel,': AE/HAPB/SEL/KW-BG
 'we': WE
 'are': R
-'saved!': SAFD SKHRAPL
+'saved!': SAFD/SKHRAPL
 'The': KPA/-T
 'old': OLD
 'witch': WEUFP
 'is': S
-'dead!'': TKED SKHRAPL AE
+'dead!'': TKED/SKHRAPL/AE
 'Then': KPA/THEPB
 'Hansel': HAPB/SEL
 'sprang': SPRAPBG
@@ -2566,7 +2566,7 @@ Hansel and Gretel
 'the': -T
 'door': TKAOR
 'is': S
-'opened.': OEPD TP-PL
+'opened.': OEPD/TP-PL
 'How': KPA/HOU
 'they': THE
 'did': TK
@@ -2574,14 +2574,14 @@ Hansel and Gretel
 'and': SKP
 'embrace': EPL/PWRAEUS
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'dance': TKAPBS
 'about': PW
 'and': SKP
 'kiss': KEUS
 'each': AOEFP
-'other!': OER SKHRAPL
+'other!': OER/SKHRAPL
 'And': AFPBD
 'as': AS
 'they': THE
@@ -2592,13 +2592,13 @@ Hansel and Gretel
 'need': TPHAOED
 'to': TO
 'fear': TPAOER
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'they': THE
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'witch's': WEUFP AES
-'house,': HOUS KW-BG
+'witch's': WEUFP/AES
+'house,': HOUS/KW-BG
 'and': SKP
 'in': TPH
 'every': EF
@@ -2610,15 +2610,15 @@ Hansel and Gretel
 'of': -F
 'pearls': PERLS
 'and': SKP
-'jewels.': SKWRAOULS TP-PL
-''These': AE KPA/THEZ
+'jewels.': SKWRAOULS/TP-PL
+''These': AE/KPA/THEZ
 'are': R
 'far': TPAR
 'better': PWOERT
 'than': THAPB
-'pebbles!'': PEBLS SKHRAPL AE
+'pebbles!'': PEBLS/SKHRAPL/AE
 'said': SED
-'Hansel,': HAPB/SEL KW-BG
+'Hansel,': HAPB/SEL/KW-BG
 'and': SKP
 'thrust': THRUFT
 'into': TPHAO
@@ -2628,47 +2628,47 @@ Hansel and Gretel
 'could': KO
 'be': -B
 'got': TKPWOT
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'Gretel': TKPWRET/EL
-'said:': SED STPH-FPLT
-''I,': AE EU KW-BG
-'too,': TAO KW-BG
+'said:': SED/STPH-FPLT
+''I,': AE/EU/KW-BG
+'too,': TAO/KW-BG
 'will': HR
 'take': TAEUBG
 'something': S-G
 'home': HOEPL
 'with': W
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'and': SKP
 'filled': TPEULD
 'her': HER
 'pinafore': xxx pinafore
-'full.': TPUL TP-PL
-''But': AE KPA/PWUT
+'full.': TPUL/TP-PL
+''But': AE/KPA/PWUT
 'now': TPHOU
 'we': WE
 'must': PHUFT
 'be': -B
-'off,'': OF KW-BG AE
+'off,'': OF/KW-BG/AE
 'said': SED
-'Hansel,': HAPB/SEL KW-BG
-''that': AE THA
+'Hansel,': HAPB/SEL/KW-BG
+''that': AE/THA
 'we': WE
 'may': PHAE
 'get': TKPWET
 'out': OUT
 'of': -F
 'the': -T
-'witch's': WEUFP AES
-'forest.'': TPOEFRT TP-PL AE
+'witch's': WEUFP/AES
+'forest.'': TPOEFRT/TP-PL/AE
 'When': KPA/WHEPB
 'they': THE
 'had': H
 'walked': WAUBGD
 'for': TPOR
 'two': TWO
-'hours,': HOURS KW-BG
+'hours,': HOURS/KW-BG
 'they': THE
 'came': KAEUPL
 'to': TO
@@ -2676,68 +2676,68 @@ Hansel and Gretel
 'great': TKPWRAET
 'stretch': STREFP
 'of': -F
-'water.': WAUR TP-PL
-''We': AE KPA/WE
+'water.': WAUR/TP-PL
+''We': AE/KPA/WE
 'cannot': SK-PBT
-'cross,'': KROS KW-BG AE
+'cross,'': KROS/KW-BG/AE
 'said': SED
-'Hansel,': HAPB/SEL KW-BG
-''I': AE EU
+'Hansel,': HAPB/SEL/KW-BG
+''I': AE/EU
 'see': SAOE
 'no': TPHO
-'foot-plank,': TPAOT H-PB PHRA*PBG KW-BG
+'foot-plank,': TPAOT/H-PB/PHRA*PBG/KW-BG
 'and': SKP
 'no': TPHO
-'bridge.'': PWREUPBLG TP-PL AE
-''And': AE AFPBD
+'bridge.'': PWREUPBLG/TP-PL/AE
+''And': AE/AFPBD
 'there': THR
 'is': S
 'also': HR-S
 'no': TPHO
-'ferry,'': TPER/REU KW-BG AE
+'ferry,'': TPER/REU/KW-BG/AE
 'answered': AEPBS/-D
-'Gretel,': TKPWRET/EL KW-BG
-''but': AE PWUT
+'Gretel,': TKPWRET/EL/KW-BG
+''but': AE/PWUT
 'a': AEU
 'white': WHAOEUT
 'duck': TKUBG
 'is': S
 'swimming': SWEUPLG
-'there:': THR STPH-FPLT
+'there:': THR/STPH-FPLT
 'if': TP
 'I': EU
 'ask': SK
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'she': SHE
 'will': HR
 'help': HEP
 'us': US
-'over.'': OEFR TP-PL AE
+'over.'': OEFR/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
-'cried:': KRAOEUD STPH-FPLT
-''Little': AE KPA/HREUL
-'duck,': TKUBG KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Little': AE/KPA/HREUL
+'duck,': TKUBG/KW-BG
 'little': HREUL
-'duck,': TKUBG KW-BG
+'duck,': TKUBG/KW-BG
 'dost': TK*/O*/S*/T*
 'thou': THO*U
-'see,': SAOE KW-BG
+'see,': SAOE/KW-BG
 'Hansel': HAPB/SEL
 'and': SKP
 'Gretel': TKPWRET/EL
 'are': R
 'waiting': WAEUGT
 'for': TPOR
-'thee?': THAOE H-F
-'There's': KPA/THR AES
+'thee?': THAOE/H-F
+'There's': KPA/THR/AES
 'never': TPHEFR
 'a': AEU
-'plank,': PHRA*PBG KW-BG
+'plank,': PHRA*PBG/KW-BG
 'or': OR
 'bridge': PWREUPBLG
 'in': TPH
-'sight,': SAOEUT KW-BG
+'sight,': SAOEUT/KW-BG
 'Take': KPA/TAEUBG
 'us': US
 'across': KRAOS
@@ -2745,19 +2745,19 @@ Hansel and Gretel
 'thy': THAO*EU
 'back': PWABG
 'so': SO
-'white.'': WHAOEUT TP-PL AE
+'white.'': WHAOEUT/TP-PL/AE
 'The': KPA/-T
 'duck': TKUBG
 'came': KAEUPL
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'Hansel': HAPB/SEL
 'seated': SAOETD
 'himself': HEUPLS
 'on': OPB
 'its': EUTS
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'told': TOLD
 'his': HEUS
@@ -2765,11 +2765,11 @@ Hansel and Gretel
 'to': TO
 'sit': SEUT
 'by': PWEU
-'him.': HEUPL TP-PL
-''No,'': AE KPA/TPHO KW-BG AE
+'him.': HEUPL/TP-PL
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'replied': RE/PHRAOEUD
-'Gretel,': TKPWRET/EL KW-BG
-''that': AE THA
+'Gretel,': TKPWRET/EL/KW-BG
+''that': AE/THA
 'will': HR
 'be': -B
 'too': TAO
@@ -2777,22 +2777,22 @@ Hansel and Gretel
 'for': TPOR
 'the': -T
 'little': HREUL
-'duck;': TKUBG STPH*FPLT
+'duck;': TKUBG/STPH*FPLT
 'she': SHE
 'shall': SHAL
 'take': TAEUBG
 'us': US
-'across,': KRAOS KW-BG
+'across,': KRAOS/KW-BG
 'one': WUPB
 'after': AF
 'the': -T
-'other.'': OER TP-PL AE
+'other.'': OER/TP-PL/AE
 'The': KPA/-T
 'good': TKPWAOD
 'little': HREUL
 'duck': TKUBG
 'did': TK
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -2806,7 +2806,7 @@ Hansel and Gretel
 'for': TPOR
 'a': AEU
 'short': SHORT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'the': -T
 'forest': TPOEFRT
 'seemed': SAOEPLD
@@ -2817,7 +2817,7 @@ Hansel and Gretel
 'more': PHOR
 'familiar': TPAPL
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'at': AT
 'length': HREPBG
@@ -2827,23 +2827,23 @@ Hansel and Gretel
 'afar': A/TPAR
 'their': THAEUR
 'father's': TPAER/AES
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'began': TKPWAPB
 'to': TO
-'run,': RUPB KW-BG
+'run,': RUPB/KW-BG
 'rushed': RURBD
 'into': TPHAO
 'the': -T
-'parlour,': PAR/HROR/A*U KW-BG
+'parlour,': PAR/HROR/A*U/KW-BG
 'and': SKP
 'threw': THRAOU
 'themselves': TH*EPLS
 'round': ROUPBD
 'their': THAEUR
 'father's': TPAER/AES
-'neck.': TPHEBG TP-PL
+'neck.': TPHEBG/TP-PL
 'The': KPA/-T
 'man': PHAPB
 'had': H
@@ -2860,12 +2860,12 @@ Hansel and Gretel
 'children': KHEURPB
 'in': TPH
 'the': -T
-'forest;': TPOEFRT STPH*FPLT
+'forest;': TPOEFRT/STPH*FPLT
 'the': -T
-'woman,': WOPL KW-BG
-'however,': HOUF KW-BG
+'woman,': WOPL/KW-BG
+'however,': HOUF/KW-BG
 'was': WAS
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'Gretel': TKPWRET/EL
 'emptied': EPL/TEUD
 'her': HER
@@ -2878,7 +2878,7 @@ Hansel and Gretel
 'ran': RAPB
 'about': PW
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'Hansel': HAPB/SEL
 'threw': THRAOU
@@ -2893,32 +2893,32 @@ Hansel and Gretel
 'to': TO
 'add': AD
 'to': TO
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'Then': KPA/THEPB
 'all': AUL
 'anxiety': KPAO*EUT
 'was': WAS
 'at': AT
 'an': APB
-'end,': EPBD KW-BG
+'end,': EPBD/KW-BG
 'and': SKP
 'they': THE
 'lived': HREUFD
 'together': TOGT
 'in': TPH
 'perfect': P-F
-'happiness.': HAEP/-PBS TP-PL
+'happiness.': HAEP/-PBS/TP-PL
 'My': KPA/PHEU
 'tale': TAEL
 'is': S
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'there': THR
 'runs': RUPBS
 'a': AEU
-'mouse;': PHOUS STPH*FPLT
+'mouse;': PHOUS/STPH*FPLT
 'whosoever': WHO/SOFR
 'catches': KAFPS
-'it,': T KW-BG
+'it,': T/KW-BG
 'may': PHAE
 'make': PHAEUBG
 'himself': HEUPLS
@@ -2928,4 +2928,4 @@ Hansel and Gretel
 'cap': KAP
 'out': OUT
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL

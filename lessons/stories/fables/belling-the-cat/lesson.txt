@@ -1,7 +1,7 @@
 Belling the Cat
 
 'Long': KPA/HROPBG
-'ago,': AG KW-BG
+'ago,': AG/KW-BG
 'the': -T
 'mice': PHAOEUS
 'had': H
@@ -19,16 +19,16 @@ Belling the Cat
 'outwit': AOUT/WEUT
 'their': THAEUR
 'common': KPHOPB
-'enemy,': TPHAEPL KW-BG
+'enemy,': TPHAEPL/KW-BG
 'the': -T
-'Cat.': KPA/KAT TP-PL
+'Cat.': KPA/KAT/TP-PL
 'Some': KPA/SOPL
 'said': SED
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
 'some': SOPL
 'said': SED
-'that;': THA STPH*FPLT
+'that;': THA/STPH*FPLT
 'but': PWUT
 'at': AT
 'last': HRAFT
@@ -44,21 +44,21 @@ Belling the Cat
 'a': AEU
 'proposal': PROEL
 'to': TO
-'make,': PHAEUBG KW-BG
+'make,': PHAEUBG/KW-BG
 'which': WEU
 'he': HE
 'thought': THAUT
 'would': WO
 'meet': PHAOET
 'the': -T
-'case.': KAEUS TP-PL
-'"You': KR-GS KPA/U
+'case.': KAEUS/TP-PL
+'"You': KR-GS/KPA/U
 'will': HR
 'all': AUL
-'agree,"': TKPWRAE KW-BG KR-GS
+'agree,"': TKPWRAE/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"that': KR-GS THA
+'he,': HE/KW-BG
+'"that': KR-GS/THA
 'our': OUR
 'chief': KHAOEF
 'danger': TKAEUPBLG
@@ -74,8 +74,8 @@ Belling the Cat
 'the': -T
 'enemy': TPHAEPL
 'approaches': A/PROEFPS
-'us.': US TP-PL
-'Now,': KPA/TPHOU KW-BG
+'us.': US/TP-PL
+'Now,': KPA/TPHOU/KW-BG
 'if': TP
 'we': WE
 'could': KO
@@ -84,16 +84,16 @@ Belling the Cat
 'signal': STPHAL
 'of': -F
 'her': HER
-'approach,': PROEFP KW-BG
+'approach,': PROEFP/KW-BG
 'we': WE
 'could': KO
 'easily': AOELS
 'escape': SKAEP
 'from': TPR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'I': EU
-'venture,': SREPBT/UR KW-BG
-'therefore,': TH-FR KW-BG
+'venture,': SREPBT/UR/KW-BG
+'therefore,': TH-FR/KW-BG
 'to': TO
 'propose': PROEP
 'that': THA
@@ -101,7 +101,7 @@ Belling the Cat
 'small': SPHAL
 'bell': PWEL
 'be': -B
-'procured,': PROE/KAOURD KW-BG
+'procured,': PROE/KAOURD/KW-BG
 'and': SKP
 'attached': A/TAFPD
 'by': PWEU
@@ -112,7 +112,7 @@ Belling the Cat
 'neck': TPHEBG
 'of': -F
 'the': -T
-'Cat.': KPA/KAT TP-PL
+'Cat.': KPA/KAT/TP-PL
 'By': KPA/PWEU
 'this': TH
 'means': PHAOEPBS
@@ -123,7 +123,7 @@ Belling the Cat
 'when': WHEPB
 'she': SHE
 'was': WAS
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'and': SKP
 'could': KO
 'easily': AOELS
@@ -133,13 +133,13 @@ Belling the Cat
 'was': WAS
 'in': TPH
 'the': -T
-'neighbourhood."': TPHAOD/A*U TP-PL KR-GS
+'neighbourhood."': TPHAOD/A*U/TP-PL/KR-GS
 'This': KPA/TH
 'proposal': PROEL
 'met': PHET
 'with': W
 'general': SKWREPBL
-'applause,': A/PHRAUS KW-BG
+'applause,': A/PHRAUS/KW-BG
 'until': TPH-L
 'an': APB
 'old': OLD
@@ -147,19 +147,19 @@ Belling the Cat
 'got': TKPWOT
 'up': UP
 'and': SKP
-'said:': SED STPH-FPLT
-'"That': KR-GS KPA/THA
+'said:': SED/STPH-FPLT
+'"That': KR-GS/KPA/THA
 'is': S
 'all': AUL
 'very': SRE
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'but': PWUT
 'who': WHO
 'is': S
 'to': TO
 'bell': PWEL
 'the': -T
-'Cat?"': KPA/KAT H-F KR-GS
+'Cat?"': KPA/KAT/H-F/KR-GS
 'The': KPA/-T
 'mice': PHAOEUS
 'looked': HRAOBGD
@@ -168,16 +168,16 @@ Belling the Cat
 'another': TPHOER
 'and': SKP
 'nobody': TPHOEB
-'spoke.': SPOEBG TP-PL
+'spoke.': SPOEBG/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'old': OLD
 'mouse': PHOUS
-'said:': SED STPH-FPLT
-'"It': KR-GS KPA/T
+'said:': SED/STPH-FPLT
+'"It': KR-GS/KPA/T
 'is': S
 'easy': EZ
 'to': TO
 'propose': PROEP
 'impossible': EUPL/POB
-'remedies."': REPL/TKEUS TP-PL KR-GS
+'remedies."': REPL/TKEUS/TP-PL/KR-GS

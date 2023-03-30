@@ -5,20 +5,20 @@ Rumpelstiltskin
 'side': SAOEUD
 'of': -F
 'a': AEU
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'in': TPH
 'a': AEU
 'country': KREU
 'a': AEU
 'long': HROPBG
 'way': WAEU
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'ran': RAPB
 'a': AEU
 'fine': TPAOEUPB
 'stream': STRAOEPL
 'of': -F
-'water;': WAUR STPH*FPLT
+'water;': WAUR/STPH*FPLT
 'and': SKP
 'upon': POPB
 'the': -T
@@ -26,31 +26,31 @@ Rumpelstiltskin
 'there': THR
 'stood': STAOD
 'a': AEU
-'mill.': PHEUL TP-PL
+'mill.': PHEUL/TP-PL
 'The': KPA/-T
-'miller's': HRO*ER/PHEUL/HRER AES
+'miller's': HRO*ER/PHEUL/HRER/AES
 'house': HOUS
 'was': WAS
 'close': KHROES
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'and': SKP
 'the': -T
-'miller,': HRO*ER/PHEUL/HRER KW-BG
+'miller,': HRO*ER/PHEUL/HRER/KW-BG
 'you': U
 'must': PHUFT
-'know,': TPHOE KW-BG
+'know,': TPHOE/KW-BG
 'had': H
 'a': AEU
 'very': SRE
 'beautiful': PWAOUFL
-'daughter.': TKAUR TP-PL
+'daughter.': TKAUR/TP-PL
 'She': KPA/SHE
-'was,': WAS KW-BG
-'moreover,': PHROEFR KW-BG
+'was,': WAS/KW-BG
+'moreover,': PHROEFR/KW-BG
 'very': SRE
 'shrewd': SHRAOUD
 'and': SKP
-'clever;': KHREFR STPH*FPLT
+'clever;': KHREFR/STPH*FPLT
 'and': SKP
 'the': -T
 'miller': HRO*ER/PHEUL/HRER
@@ -58,7 +58,7 @@ Rumpelstiltskin
 'so': SO
 'proud': PROUD
 'of': -F
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'that': THA
 'he': HE
 'one': WUPB
@@ -68,7 +68,7 @@ Rumpelstiltskin
 'king': KEUPBG
 'of': -F
 'the': -T
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'who': WHO
 'used': AOUFD
 'to': TO
@@ -77,7 +77,7 @@ Rumpelstiltskin
 'hunt': HUPBT
 'in': TPH
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'that': THA
 'his': HEUS
 'daughter': TKAUR
@@ -86,7 +86,7 @@ Rumpelstiltskin
 'gold': TKPWOELD
 'out': OUT
 'of': -F
-'straw.': STRAU TP-PL
+'straw.': STRAU/TP-PL
 'Now': KPA/TPHOU
 'this': TH
 'king': KEUPBG
@@ -94,18 +94,18 @@ Rumpelstiltskin
 'very': SRE
 'fond': TPOPBD
 'of': -F
-'money;': PHUPB STPH*FPLT
+'money;': PHUPB/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
 'heard': HAERD
 'the': -T
-'miller's': HRO*ER/PHEUL/HRER AES
+'miller's': HRO*ER/PHEUL/HRER/AES
 'boast': PWOEFT
 'his': HEUS
 'greediness': TKPWRAOE/TKEU/*PBS
 'was': WAS
-'raised,': RA*EUFD KW-BG
+'raised,': RA*EUFD/KW-BG
 'and': SKP
 'he': HE
 'sent': SEPBT
@@ -116,7 +116,7 @@ Rumpelstiltskin
 'be': -B
 'brought': PWRAUT
 'before': PW-FR
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'led': HRED
@@ -134,15 +134,15 @@ Rumpelstiltskin
 'great': TKPWRAET
 'heap': HAOEP
 'of': -F
-'straw,': STRAU KW-BG
+'straw,': STRAU/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'her': HER
 'a': AEU
-'spinning-wheel,': SPEUPBG H-PB WHAOEL KW-BG
+'spinning-wheel,': SPEUPBG/H-PB/WHAOEL/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''All': AE KPA/AUL
+'said,': SED/KW-BG
+''All': AE/KPA/AUL
 'this': TH
 'must': PHUFT
 'be': -B
@@ -150,12 +150,12 @@ Rumpelstiltskin
 'into': TPHAO
 'gold': TKPWOELD
 'before': PW-FR
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'as': AS
 'you': U
 'love': HRUF
 'your': KWROUR
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
 'It': KPA/T
 'was': WAS
 'in': TPH
@@ -174,7 +174,7 @@ Rumpelstiltskin
 'boast': PWOEFT
 'of': -F
 'her': HER
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'for': TPOR
 'that': THA
 'she': SHE
@@ -187,17 +187,17 @@ Rumpelstiltskin
 'spin': SPEUPB
 'straw': STRAU
 'into': TPHAO
-'gold:': TKPWOELD STPH-FPLT
+'gold:': TKPWOELD/STPH-FPLT
 'the': -T
 'chamber': KHAEURPL
 'door': TKAOR
 'was': WAS
-'locked,': HROBGD KW-BG
+'locked,': HROBGD/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
 'left': HREFT
-'alone.': A/HROEPB TP-PL
+'alone.': A/HROEPB/TP-PL
 'She': KPA/SHE
 'sat': SAT
 'down': TKOUPB
@@ -206,118 +206,118 @@ Rumpelstiltskin
 'corner': KRORPB
 'of': -F
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
 'bewail': PWE/WAEUL
 'her': HER
 'hard': HARD
-'fate;': TPAEUT STPH*FPLT
+'fate;': TPAEUT/STPH*FPLT
 'when': WHEPB
 'on': OPB
 'a': AEU
 'sudden': SUD
 'the': -T
 'door': TKAOR
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'and': SKP
 'a': AEU
-'droll-looking': TKROL SKWRAOG
+'droll-looking': TKROL/SKWRAOG
 'little': HREUL
 'man': PHAPB
 'hobbled': HOB/-LD
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Good': AE KPA/TKPWAOD
+'said,': SED/KW-BG
+''Good': AE/KPA/TKPWAOD
 'morrow': HRO*ER/PHOR/ROE
 'to': TO
-'you,': U KW-BG
+'you,': U/KW-BG
 'my': PHEU
 'good': TKPWAOD
-'lass;': HRAS STPH*FPLT
+'lass;': HRAS/STPH*FPLT
 'what': WHA
 'are': R
 'you': U
 'weeping': WAOEP/-G
-'for?'': TPOR H-F AE
-''Alas!'': AE KPA/A/HRAS SKHRAPL AE
+'for?'': TPOR/H-F/AE
+''Alas!'': AE/KPA/A/HRAS/SKHRAPL/AE
 'said': SED
-'she,': SHE KW-BG
-''I': AE EU
+'she,': SHE/KW-BG
+''I': AE/EU
 'must': PHUFT
 'spin': SPEUPB
 'this': TH
 'straw': STRAU
 'into': TPHAO
-'gold,': TKPWOELD KW-BG
+'gold,': TKPWOELD/KW-BG
 'and': SKP
 'I': EU
 'know': TPHOE
 'not': TPHOT
-'how.'': HOU TP-PL AE
-''What': AE KPA/WHA
+'how.'': HOU/TP-PL/AE
+''What': AE/KPA/WHA
 'will': HR
 'you': U
 'give': TKPWEUF
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'said': SED
 'the': -T
-'hobgoblin,': HOB/TKPWOB/HREUPB KW-BG
-''to': AE TO
+'hobgoblin,': HOB/TKPWOB/HREUPB/KW-BG
+''to': AE/TO
 'do': TKO
 'it': T
 'for': TPOR
-'you?'': U H-F AE
-''My': AE KPA/PHEU
-'necklace,'': TPHEBG/HRAS KW-BG AE
+'you?'': U/H-F/AE
+''My': AE/KPA/PHEU
+'necklace,'': TPHEBG/HRAS/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'maiden.': PHAEUD/*EPB TP-PL
+'maiden.': PHAEUD/*EPB/TP-PL
 'He': KPA/HE
 'took': TAOBG
 'her': HER
 'at': AT
 'her': HER
-'word,': WORD KW-BG
+'word,': WORD/KW-BG
 'and': SKP
 'sat': SAT
 'himself': HEUPLS
 'down': TKOUPB
 'to': TO
 'the': -T
-'wheel,': WHAOEL KW-BG
+'wheel,': WHAOEL/KW-BG
 'and': SKP
 'whistled': WHEUS/-LD
 'and': SKP
-'sang:': SAPBG STPH-FPLT
-''Round': AE KPA/ROUPBD
-'about,': PW KW-BG
+'sang:': SAPBG/STPH-FPLT
+''Round': AE/KPA/ROUPBD
+'about,': PW/KW-BG
 'round': ROUPBD
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'Lo': KPA/HRO
 'and': SKP
-'behold!': PWE/HOLD SKHRAPL
+'behold!': PWE/HOLD/SKHRAPL
 'Reel': KPA/RAOEL
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'reel': RAOEL
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'Straw': KPA/STRAU
 'into': TPHAO
-'gold!'': TKPWOELD SKHRAPL AE
+'gold!'': TKPWOELD/SKHRAPL/AE
 'And': AFPBD
 'round': ROUPBD
 'about': PW
 'the': -T
 'wheel': WHAOEL
 'went': WEPBT
-'merrily;': PHER/HREU STPH*FPLT
+'merrily;': PHER/HREU/STPH*FPLT
 'the': -T
 'work': WORBG
 'was': WAS
 'quickly': KWEULG
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'the': -T
 'straw': STRAU
@@ -325,20 +325,20 @@ Rumpelstiltskin
 'all': AUL
 'spun': SPUPB
 'into': TPHAO
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'king': KEUPBG
 'came': KAEUPL
 'and': SKP
 'saw': SAU
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'he': HE
 'was': WAS
 'greatly': TKPWRAELT
 'astonished': A/STOPB/EURBD
 'and': SKP
-'pleased;': PHREFD STPH*FPLT
+'pleased;': PHREFD/STPH*FPLT
 'but': PWUT
 'his': HEUS
 'heart': HART
@@ -347,20 +347,20 @@ Rumpelstiltskin
 'more': PHOR
 'greedy': TKPWRAOE/TKEU
 'of': -F
-'gain,': TKPWAEUPB KW-BG
+'gain,': TKPWAEUPB/KW-BG
 'and': SKP
 'he': HE
 'shut': SHUT
 'up': UP
 'the': -T
 'poor': PAOR
-'miller's': HRO*ER/PHEUL/HRER AES
+'miller's': HRO*ER/PHEUL/HRER/AES
 'daughter': TKAUR
 'again': TKPWEPB
 'with': W
 'a': AEU
 'fresh': TPRERB
-'task.': TAFBG TP-PL
+'task.': TAFBG/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'knew': TPHAOU
@@ -374,17 +374,17 @@ Rumpelstiltskin
 'once': WUPBS
 'more': PHOR
 'to': TO
-'weep;': WAOEP STPH*FPLT
+'weep;': WAOEP/STPH*FPLT
 'but': PWUT
 'the': -T
 'dwarf': TKWAFR
 'soon': SAOPB
 'opened': OEPD
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''What': AE KPA/WHA
+'said,': SED/KW-BG
+''What': AE/KPA/WHA
 'will': HR
 'you': U
 'give': TKPWEUF
@@ -392,21 +392,21 @@ Rumpelstiltskin
 'to': TO
 'do': TKO
 'your': KWROUR
-'task?'': TAFBG H-F AE
-''The': AE KPA/-T
+'task?'': TAFBG/H-F/AE
+''The': AE/KPA/-T
 'ring': REUPBG
 'on': OPB
 'my': PHEU
-'finger,'': TPEURPBG KW-BG AE
+'finger,'': TPEURPBG/KW-BG/AE
 'said': SED
-'she.': SHE TP-PL
+'she.': SHE/TP-PL
 'So': KPA/SO
 'her': HER
 'little': HREUL
 'friend': TPREPBD
 'took': TAOBG
 'the': -T
-'ring,': REUPBG KW-BG
+'ring,': REUPBG/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -414,33 +414,33 @@ Rumpelstiltskin
 'at': AT
 'the': -T
 'wheel': WHAOEL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'whistled': WHEUS/-LD
 'and': SKP
-'sang:': SAPBG STPH-FPLT
-''Round': AE KPA/ROUPBD
-'about,': PW KW-BG
+'sang:': SAPBG/STPH-FPLT
+''Round': AE/KPA/ROUPBD
+'about,': PW/KW-BG
 'round': ROUPBD
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'Lo': KPA/HRO
 'and': SKP
-'behold!': PWE/HOLD SKHRAPL
+'behold!': PWE/HOLD/SKHRAPL
 'Reel': KPA/RAOEL
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'reel': RAOEL
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'Straw': KPA/STRAU
 'into': TPHAO
-'gold!'': TKPWOELD SKHRAPL AE
-'till,': TEUL KW-BG
+'gold!'': TKPWOELD/SKHRAPL/AE
+'till,': TEUL/KW-BG
 'long': HROPBG
 'before': PW-FR
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'all': AUL
 'was': WAS
 'done': TKOPB
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'was': WAS
@@ -451,32 +451,32 @@ Rumpelstiltskin
 'all': AUL
 'this': TH
 'glittering': TKPWHREUT/ERG
-'treasure;': TRERB STPH*FPLT
+'treasure;': TRERB/STPH*FPLT
 'but': PWUT
 'still': STEUL
 'he': HE
 'had': H
 'not': TPHOT
-'enough:': TPHUF STPH-FPLT
+'enough:': TPHUF/STPH-FPLT
 'so': SO
 'he': HE
 'took': TAOBG
 'the': -T
-'miller's': HRO*ER/PHEUL/HRER AES
+'miller's': HRO*ER/PHEUL/HRER/AES
 'daughter': TKAUR
 'to': TO
 'a': AEU
 'yet': KWRET
 'larger': HRAERPBLG
-'heap,': HAOEP KW-BG
+'heap,': HAOEP/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''All': AE KPA/AUL
+'said,': SED/KW-BG
+''All': AE/KPA/AUL
 'this': TH
 'must': PHUFT
 'be': -B
 'spun': SPUPB
-'tonight;': TOPBT STPH*FPLT
+'tonight;': TOPBT/STPH*FPLT
 'and': SKP
 'if': TP
 'it': T
@@ -485,7 +485,7 @@ Rumpelstiltskin
 'shall': SHAL
 'be': -B
 'my': PHEU
-'queen.'': KWAOEPB TP-PL AE
+'queen.'': KWAOEPB/TP-PL/AE
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -495,10 +495,10 @@ Rumpelstiltskin
 'that': THA
 'dwarf': TKWAFR
 'came': KAEUPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''What': AE KPA/WHA
+'said,': SED/KW-BG
+''What': AE/KPA/WHA
 'will': HR
 'you': U
 'give': TKPWEUF
@@ -510,24 +510,24 @@ Rumpelstiltskin
 'you': U
 'this': TH
 'third': THEURD
-'time?'': TAOEUPL H-F AE
-''I': AE EU
+'time?'': TAOEUPL/H-F/AE
+''I': AE/EU
 'have': SR
 'nothing': TPHOG
-'left,'': HREFT KW-BG AE
+'left,'': HREFT/KW-BG/AE
 'said': SED
-'she.': SHE TP-PL
-''Then': AE KPA/THEPB
+'she.': SHE/TP-PL
+''Then': AE/KPA/THEPB
 'say': SAEU
 'you': U
 'will': HR
 'give': TKPWEUF
-'me,'': PHE KW-BG AE
+'me,'': PHE/KW-BG/AE
 'said': SED
 'the': -T
 'little': HREUL
-'man,': PHAPB KW-BG
-''the': AE -T
+'man,': PHAPB/KW-BG
+''the': AE/-T
 'first': TPEUFRT
 'little': HREUL
 'child': KHAOEULD
@@ -538,15 +538,15 @@ Rumpelstiltskin
 'when': WHEPB
 'you': U
 'are': R
-'queen.'': KWAOEPB TP-PL AE
-''That': AE KPA/THA
+'queen.'': KWAOEPB/TP-PL/AE
+''That': AE/KPA/THA
 'may': PHAE
 'never': TPHEFR
-'be,'': -B KW-BG AE
+'be,'': -B/KW-BG/AE
 'thought': THAUT
 'the': -T
-'miller's': HRO*ER/PHEUL/HRER AES
-'daughter:': TKAUR STPH-FPLT
+'miller's': HRO*ER/PHEUL/HRER/AES
+'daughter:': TKAUR/STPH-FPLT
 'and': SKP
 'as': AS
 'she': SHE
@@ -558,7 +558,7 @@ Rumpelstiltskin
 'get': TKPWET
 'her': HER
 'task': TAFBG
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'she': SHE
 'said': SED
 'she': SHE
@@ -566,7 +566,7 @@ Rumpelstiltskin
 'do': TKO
 'what': WHA
 'he': HE
-'asked.': SK-D TP-PL
+'asked.': SK-D/TP-PL
 'Round': KPA/ROUPBD
 'went': WEPBT
 'the': -T
@@ -575,7 +575,7 @@ Rumpelstiltskin
 'to': TO
 'the': -T
 'old': OLD
-'song,': SOPBG KW-BG
+'song,': SOPBG/KW-BG
 'and': SKP
 'the': -T
 'manikin': xxx manikin
@@ -585,35 +585,35 @@ Rumpelstiltskin
 'the': -T
 'heap': HAOEP
 'into': TPHAO
-'gold.': TKPWOELD TP-PL
+'gold.': TKPWOELD/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'came': KAEUPL
 'in': TPH
 'the': -T
-'morning,': PHORPBG KW-BG
-'and,': SKP KW-BG
+'morning,': PHORPBG/KW-BG
+'and,': SKP/KW-BG
 'finding': TPAOEUPBGD
 'all': AUL
 'he': HE
-'wanted,': WAPBTD KW-BG
+'wanted,': WAPBTD/KW-BG
 'was': WAS
 'forced': TPOFRD
 'to': TO
 'keep': KAOEP
 'his': HEUS
-'word;': WORD STPH*FPLT
+'word;': WORD/STPH*FPLT
 'so': SO
 'he': HE
 'married': PHAERD
 'the': -T
-'miller's': HRO*ER/PHEUL/HRER AES
-'daughter,': TKAUR KW-BG
+'miller's': HRO*ER/PHEUL/HRER/AES
+'daughter,': TKAUR/KW-BG
 'and': SKP
 'she': SHE
 'really': R-L
 'became': PWAEUPL
-'queen.': KWAOEPB TP-PL
+'queen.': KWAOEPB/TP-PL
 'At': KPA/AT
 'the': -T
 'birth': PW*EURT
@@ -625,16 +625,16 @@ Rumpelstiltskin
 'she': SHE
 'was': WAS
 'very': SRE
-'glad,': TKPWHRAD KW-BG
+'glad,': TKPWHRAD/KW-BG
 'and': SKP
 'forgot': TPAURGT
 'the': -T
-'dwarf,': TKWAFR KW-BG
+'dwarf,': TKWAFR/KW-BG
 'and': SKP
 'what': WHA
 'she': SHE
 'had': H
-'said.': SED TP-PL
+'said.': SED/TP-PL
 'But': KPA/PWUT
 'one': WUPB
 'day': TKAEU
@@ -642,7 +642,7 @@ Rumpelstiltskin
 'came': KAEUPL
 'into': TPHAO
 'her': HER
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'where': W-R
 'she': SHE
 'was': WAS
@@ -650,21 +650,21 @@ Rumpelstiltskin
 'playing': PHRAEUG
 'with': W
 'her': HER
-'baby,': PWAEB KW-BG
+'baby,': PWAEB/KW-BG
 'and': SKP
 'put': PUT
 'her': HER
 'in': TPH
 'mind': PHAOEUPBD
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'grieved': TKPWRAOEF/-D
 'sorely': SORL
 'at': AT
 'her': HER
-'misfortune,': PHEUZ/TP-RPB KW-BG
+'misfortune,': PHEUZ/TP-RPB/KW-BG
 'and': SKP
 'said': SED
 'she': SHE
@@ -682,27 +682,27 @@ Rumpelstiltskin
 'would': WO
 'let': HRET
 'her': HER
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'but': PWUT
 'in': TPH
-'vain;': SRA*EUPB STPH*FPLT
+'vain;': SRA*EUPB/STPH*FPLT
 'till': TEUL
 'at': AT
 'last': HRAFT
 'her': HER
 'tears': TAERS
 'softened': SOFPB/-D
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'will': HR
 'give': TKPWEUF
 'you': U
 'three': THRAOE
 'days'': TKAEUS/AE
-'grace,': TKPWRAEUS KW-BG
+'grace,': TKPWRAEUS/KW-BG
 'and': SKP
 'if': TP
 'during': TKURG
@@ -712,19 +712,19 @@ Rumpelstiltskin
 'tell': TEL
 'me': PHE
 'my': PHEU
-'name,': TPHAEUPL KW-BG
+'name,': TPHAEUPL/KW-BG
 'you': U
 'shall': SHAL
 'keep': KAOEP
 'your': KWROUR
-'child.'': KHAOEULD TP-PL AE
+'child.'': KHAOEULD/TP-PL/AE
 'Now': KPA/TPHOU
 'the': -T
 'queen': KWAOEPB
 'lay': HRAEU
 'awake': A/WAEUBG
 'all': AUL
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'thinking': THEUG
 'of': -F
 'all': AUL
@@ -735,7 +735,7 @@ Rumpelstiltskin
 'she': SHE
 'had': H
 'ever': -FR
-'heard;': HAERD STPH*FPLT
+'heard;': HAERD/STPH*FPLT
 'and': SKP
 'she': SHE
 'sent': SEPBT
@@ -748,29 +748,29 @@ Rumpelstiltskin
 'find': TPAOEUPBD
 'out': OUT
 'new': TPHU
-'ones.': WUPBZ TP-PL
+'ones.': WUPBZ/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'day': TKAEU
 'the': -T
 'little': HREUL
 'man': PHAPB
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'she': SHE
 'began': TKPWAPB
 'with': W
-'TIMOTHY,': *URP/TEUPL/THEU KW-BG
-'ICHABOD,': *URP/EUBG/PWOD KW-BG
-'BENJAMIN,': *URP/PWEPBG/PHEUPB KW-BG
-'JEREMIAH,': *URP/SKWRER/PHAOEU/KWRA KW-BG
+'TIMOTHY,': *URP/TEUPL/THEU/KW-BG
+'ICHABOD,': *URP/EUBG/PWOD/KW-BG
+'BENJAMIN,': *URP/PWEPBG/PHEUPB/KW-BG
+'JEREMIAH,': *URP/SKWRER/PHAOEU/KWRA/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
 'names': TPHAEUPLS
 'she': SHE
 'could': KO
-'remember;': RER STPH*FPLT
+'remember;': RER/STPH*FPLT
 'but': PWUT
 'to': TO
 'all': AUL
@@ -779,13 +779,13 @@ Rumpelstiltskin
 'of': -F
 'them': THEPL
 'he': HE
-'said,': SED KW-BG
-''Madam,': AE PHAD/APL KW-BG
+'said,': SED/KW-BG
+''Madam,': AE/PHAD/APL/KW-BG
 'that': THA
 'is': S
 'not': TPHOT
 'my': PHEU
-'name.'': TPHAEUPL TP-PL AE
+'name.'': TPHAEUPL/TP-PL/AE
 'The': KPA/-T
 'second': SEBGD
 'day': TKAEU
@@ -799,13 +799,13 @@ Rumpelstiltskin
 'she': SHE
 'could': KO
 'hear': HAER
-'of,': -F KW-BG
-'BANDY-LEGS,': *URP/PWAPB/TKEU H-PB *URP/HREGS KW-BG
-'HUNCHBACK,': xxx HUNCHBACK KW-BG
-'CROOK-SHANKS,': *URP/KRAOBG H-PB *URP/SHAPB/-BGS KW-BG
+'of,': -F/KW-BG
+'BANDY-LEGS,': *URP/PWAPB/TKEU/H-PB/*URP/HREGS/KW-BG
+'HUNCHBACK,': xxx HUNCHBACK/KW-BG
+'CROOK-SHANKS,': *URP/KRAOBG/H-PB/*URP/SHAPB/-BGS/KW-BG
 'and': SKP
 'so': SO
-'on;': OPB STPH*FPLT
+'on;': OPB/STPH*FPLT
 'but': PWUT
 'the': -T
 'little': HREUL
@@ -816,13 +816,13 @@ Rumpelstiltskin
 'every': EF
 'one': WUPB
 'of': -F
-'them,': THEPL KW-BG
-''Madam,': AE PHAD/APL KW-BG
+'them,': THEPL/KW-BG
+''Madam,': AE/PHAD/APL/KW-BG
 'that': THA
 'is': S
 'not': TPHOT
 'my': PHEU
-'name.'': TPHAEUPL TP-PL AE
+'name.'': TPHAEUPL/TP-PL/AE
 'The': KPA/-T
 'third': THEURD
 'day': TKAEU
@@ -831,10 +831,10 @@ Rumpelstiltskin
 'the': -T
 'messengers': PHAEPBG/-S
 'came': KAEUPL
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'have': SR
 'travelled': TRAFL/*LD
 'two': TWO
@@ -844,16 +844,16 @@ Rumpelstiltskin
 'of': -F
 'any': TPHEU
 'other': OER
-'names;': TPHAEUPLS STPH*FPLT
+'names;': TPHAEUPLS/STPH*FPLT
 'but': PWUT
-'yesterday,': KWRED KW-BG
+'yesterday,': KWRED/KW-BG
 'as': AS
 'I': EU
 'was': WAS
 'climbing': KHRAOEUPL/-G
 'a': AEU
 'high': HAOEU
-'hill,': HEUL KW-BG
+'hill,': HEUL/KW-BG
 'among': PHOPBG
 'the': -T
 'trees': TRAOES
@@ -870,19 +870,19 @@ Rumpelstiltskin
 'each': AOEFP
 'other': OER
 'good': TKPWAOD
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'I': EU
 'saw': SAU
 'a': AEU
 'little': HREUL
-'hut;': HUT STPH*FPLT
+'hut;': HUT/STPH*FPLT
 'and': SKP
 'before': PW-FR
 'the': -T
 'hut': HUT
 'burnt': PWURPBT
 'a': AEU
-'fire;': TPAOEUR STPH*FPLT
+'fire;': TPAOEUR/STPH*FPLT
 'and': SKP
 'round': ROUPBD
 'about': PW
@@ -896,31 +896,31 @@ Rumpelstiltskin
 'dancing': TKAPBS/-G
 'upon': POPB
 'one': WUPB
-'leg,': HREG KW-BG
+'leg,': HREG/KW-BG
 'and': SKP
-'singing:': SEUPBG/-G STPH-FPLT
-'"Merrily': KR-GS KPA/PHER/HREU
+'singing:': SEUPBG/-G/STPH-FPLT
+'"Merrily': KR-GS/KPA/PHER/HREU
 'the': -T
 'feast': TPAOEFT
 'I'll': AOEUL
-'make.': PHAEUBG TP-PL
+'make.': PHAEUBG/TP-PL
 'Today': KPA/TOED
 'I'll': AOEUL
-'brew,': PWRAOU KW-BG
+'brew,': PWRAOU/KW-BG
 'tomorrow': TORPL
-'bake;': PWAEUBG STPH*FPLT
+'bake;': PWAEUBG/STPH*FPLT
 'Merrily': KPA/PHER/HREU
 'I'll': AOEUL
 'dance': TKAPBS
 'and': SKP
-'sing,': SEUPBG KW-BG
+'sing,': SEUPBG/KW-BG
 'For': KPA/TPOR
 'next': TPHEGT
 'day': TKAEU
 'will': HR
 'a': AEU
 'stranger': STRAEURPBG
-'bring.': PWREU TP-PL
+'bring.': PWREU/TP-PL
 'Little': KPA/HREUL
 'does': TKOS
 'my': PHEU
@@ -929,7 +929,7 @@ Rumpelstiltskin
 'Rumpelstiltskin': xxx Rumpelstiltskin
 'is': S
 'my': PHEU
-'name!"': TPHAEUPL SKHRAPL KR-GS
+'name!"': TPHAEUPL/SKHRAPL/KR-GS
 'When': KPA/WHEPB
 'the': -T
 'queen': KWAOEPB
@@ -938,7 +938,7 @@ Rumpelstiltskin
 'she': SHE
 'jumped': SKWR*UPLD
 'for': TPOR
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -952,7 +952,7 @@ Rumpelstiltskin
 'down': TKOUPB
 'upon': POPB
 'her': HER
-'throne,': THRO*EPB KW-BG
+'throne,': THRO*EPB/KW-BG
 'and': SKP
 'called': KAULD
 'all': AUL
@@ -962,7 +962,7 @@ Rumpelstiltskin
 'to': TO
 'enjoy': TPHOEUPBLG
 'the': -T
-'fun;': TPUPB STPH*FPLT
+'fun;': TPUPB/STPH*FPLT
 'and': SKP
 'the': -T
 'nurse': TPHURS
@@ -975,7 +975,7 @@ Rumpelstiltskin
 'baby': PWAEB
 'in': TPH
 'her': HER
-'arms,': ARPLS KW-BG
+'arms,': ARPLS/KW-BG
 'as': AS
 'if': TP
 'it': T
@@ -985,7 +985,7 @@ Rumpelstiltskin
 'to': TO
 'be': -B
 'given': TKPWEUFPB
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'little': HREUL
@@ -1000,7 +1000,7 @@ Rumpelstiltskin
 'having': SR-G
 'the': -T
 'poor': PAOR
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'to': TO
 'take': TAEUBG
 'home': HOEPL
@@ -1011,57 +1011,57 @@ Rumpelstiltskin
 'hut': HUT
 'in': TPH
 'the': -T
-'woods;': WAODZ STPH*FPLT
+'woods;': WAODZ/STPH*FPLT
 'and': SKP
 'he': HE
 'cried': KRAOEUD
-'out,': OUT KW-BG
-''Now,': AE KPA/TPHOU KW-BG
-'lady,': HRA*ED KW-BG
+'out,': OUT/KW-BG
+''Now,': AE/KPA/TPHOU/KW-BG
+'lady,': HRA*ED/KW-BG
 'what': WHA
 'is': S
 'my': PHEU
-'name?'': TPHAEUPL H-F AE
-''Is': AE KPA/S
+'name?'': TPHAEUPL/H-F/AE
+''Is': AE/KPA/S
 'it': T
-'JOHN?'': *URP/SKWROPB H-F AE
+'JOHN?'': *URP/SKWROPB/H-F/AE
 'asked': SK-D
-'she.': SHE TP-PL
-''No,': AE KPA/TPHO KW-BG
-'madam!'': PH*/A*/TK*/A*/PH* SKHRAPL AE
-''Is': AE KPA/S
+'she.': SHE/TP-PL
+''No,': AE/KPA/TPHO/KW-BG
+'madam!'': PH*/A*/TK*/A*/PH*/SKHRAPL/AE
+''Is': AE/KPA/S
 'it': T
-'TOM?'': *URP/TOPL H-F AE
-''No,': AE KPA/TPHO KW-BG
-'madam!'': PH*/A*/TK*/A*/PH* SKHRAPL AE
-''Is': AE KPA/S
+'TOM?'': *URP/TOPL/H-F/AE
+''No,': AE/KPA/TPHO/KW-BG
+'madam!'': PH*/A*/TK*/A*/PH*/SKHRAPL/AE
+''Is': AE/KPA/S
 'it': T
-'JEMMY?'': xxx JEMMY H-F AE
-''It': AE KPA/T
+'JEMMY?'': xxx JEMMY/H-F/AE
+''It': AE/KPA/T
 'is': S
-'not.'': TPHOT TP-PL AE
-''Can': AE KPA/K
+'not.'': TPHOT/TP-PL/AE
+''Can': AE/KPA/K
 'your': KWROUR
 'name': TPHAEUPL
 'be': -B
-'RUMPELSTILTSKIN?'': xxx RUMPELSTILTSKIN H-F AE
+'RUMPELSTILTSKIN?'': xxx RUMPELSTILTSKIN/H-F/AE
 'said': SED
 'the': -T
 'lady': HRA*ED
-'slyly.': SHRAOEU/HREU TP-PL
-''Some': AE KPA/SOPL
+'slyly.': SHRAOEU/HREU/TP-PL
+''Some': AE/KPA/SOPL
 'witch': WEUFP
 'told': TOLD
 'you': U
-'that!--some': THA SKHRAPL H-PB H-PB SOPL
+'that!--some': THA/SKHRAPL/H-PB/H-PB/SOPL
 'witch': WEUFP
 'told': TOLD
 'you': U
-'that!'': THA SKHRAPL AE
+'that!'': THA/SKHRAPL/AE
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'and': SKP
 'dashed': TKARBD
 'his': HEUS
@@ -1074,7 +1074,7 @@ Rumpelstiltskin
 'deep': TKAOEP
 'into': TPHAO
 'the': -T
-'floor,': TPHRAOR KW-BG
+'floor,': TPHRAOR/KW-BG
 'that': THA
 'he': HE
 'was': WAS
@@ -1090,7 +1090,7 @@ Rumpelstiltskin
 'to': TO
 'pull': PUL
 'it': T
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'made': PHAED
@@ -1099,7 +1099,7 @@ Rumpelstiltskin
 'of': -F
 'his': HEUS
 'way': WAEU
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'while': WHAOEUL
 'the': -T
 'nurse': TPHURS
@@ -1107,7 +1107,7 @@ Rumpelstiltskin
 'and': SKP
 'the': -T
 'baby': PWAEB
-'crowed;': KROE/-D STPH*FPLT
+'crowed;': KROE/-D/STPH*FPLT
 'and': SKP
 'all': AUL
 'the': -T
@@ -1122,19 +1122,19 @@ Rumpelstiltskin
 'much': PHUFP
 'trouble': TRUBL
 'for': TPOR
-'nothing,': TPHOG KW-BG
+'nothing,': TPHOG/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''We': AE KPA/WE
+'said,': SED/KW-BG
+''We': AE/KPA/WE
 'wish': WEURB
 'you': U
 'a': AEU
 'very': SRE
 'good': TKPWAOD
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'and': SKP
 'a': AEU
 'merry': PHER/REU
-'feast,': TPAOEFT KW-BG
+'feast,': TPAOEFT/KW-BG
 'Mr': PH*P/R*
-'RUMPLESTILTSKIN!'': *URP/R*UPL/*L/STEUT/SKEUPB SKHRAPL AE
+'RUMPLESTILTSKIN!'': *URP/R*UPL/*L/STEUT/SKEUPB/SKHRAPL/AE

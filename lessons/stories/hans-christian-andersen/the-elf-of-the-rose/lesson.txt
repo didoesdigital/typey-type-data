@@ -8,10 +8,10 @@ The Elf of the Rose
 'garden': TKPWA*RPB
 'grew': TKPWRAOU
 'a': AEU
-'rose-tree,': ROEZ H-PB TRAOE KW-BG
+'rose-tree,': ROEZ/H-PB/TRAOE/KW-BG
 'in': TPH
 'full': TPUL
-'blossom,': PWHROFPL KW-BG
+'blossom,': PWHROFPL/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -22,21 +22,21 @@ The Elf of the Rose
 'roses': ROES/-S
 'lived': HREUFD
 'an': APB
-'elf.': *EFL TP-PL
+'elf.': *EFL/TP-PL
 'He': KPA/HE
 'was': WAS
 'such': SUFP
 'a': AEU
 'little': HREUL
 'wee': WAO*E
-'thing,': THEUPBG KW-BG
+'thing,': THEUPBG/KW-BG
 'that': THA
 'no': TPHO
 'human': HAOUPL
 'eye': AOEU
 'could': KO
 'see': SAOE
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Behind': KPA/HEUPBD
 'each': AOEFP
 'leaf': HRAOEF
@@ -47,7 +47,7 @@ The Elf of the Rose
 'had': H
 'a': AEU
 'sleeping': SHRAOEPG
-'chamber.': KHAEURPL TP-PL
+'chamber.': KHAEURPL/TP-PL
 'He': KPA/HE
 'was': WAS
 'as': AS
@@ -61,7 +61,7 @@ The Elf of the Rose
 'little': HREUL
 'child': KHAOEULD
 'could': KO
-'be,': -B KW-BG
+'be,': -B/KW-BG
 'and': SKP
 'had': H
 'wings': WEUPBGS
@@ -72,8 +72,8 @@ The Elf of the Rose
 'shoulders': SHOURLDZ
 'to': TO
 'his': HEUS
-'feet.': TPAOET TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'feet.': TPAOET/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'what': WHA
 'sweet': SWAOET
 'fragrance': TPRAEUG/RAPBS
@@ -81,7 +81,7 @@ The Elf of the Rose
 'was': WAS
 'in': TPH
 'his': HEUS
-'chambers!': KHAEURPLS SKHRAPL
+'chambers!': KHAEURPLS/SKHRAPL
 'and': SKP
 'how': HOU
 'clean': KHRAOEPB
@@ -89,7 +89,7 @@ The Elf of the Rose
 'beautiful': PWAOUFL
 'were': WR
 'the': -T
-'walls!': WAULS SKHRAPL
+'walls!': WAULS/SKHRAPL
 'for': TPOR
 'they': THE
 'were': WR
@@ -98,7 +98,7 @@ The Elf of the Rose
 'leaves': HREFS
 'of': -F
 'the': -T
-'rose.': ROEZ TP-PL
+'rose.': ROEZ/TP-PL
 'During': KPA/TKURG
 'the': -T
 'whole': WHOEL
@@ -109,12 +109,12 @@ The Elf of the Rose
 'in': TPH
 'the': -T
 'warm': WARPL
-'sunshine,': SUPB/SHAO*EUPB KW-BG
+'sunshine,': SUPB/SHAO*EUPB/KW-BG
 'flew': TPHRAOU
 'from': TPR
 'flower': TPHRO*UR
 'to': TO
-'flower,': TPHRO*UR KW-BG
+'flower,': TPHRO*UR/KW-BG
 'and': SKP
 'danced': TKAPBS/-D
 'on': OPB
@@ -123,7 +123,7 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'flying': TPHRAOEUG
-'butterflies.': PW*URT/TPHRAOEU/-S TP-PL
+'butterflies.': PW*URT/TPHRAOEU/-S/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
@@ -145,7 +145,7 @@ The Elf of the Rose
 'the': -T
 'roads': RAODZ
 'and': SKP
-'cross-roads': KROS H-PB RAODZ
+'cross-roads': KROS/H-PB/RAODZ
 'that': THA
 'are': R
 'on': OPB
@@ -153,7 +153,7 @@ The Elf of the Rose
 'leaf': HRAOEF
 'of': -F
 'a': AEU
-'linden-tree.': xxx linden H-PB TRAOE TP-PL
+'linden-tree.': xxx linden/H-PB/TRAOE/TP-PL
 'What': KPA/WHA
 'we': WE
 'call': KAUL
@@ -161,12 +161,12 @@ The Elf of the Rose
 'veins': SRAEUPBS
 'on': OPB
 'a': AEU
-'leaf,': HRAOEF KW-BG
+'leaf,': HRAOEF/KW-BG
 'he': HE
 'took': TAOBG
 'for': TPOR
-'roads;': RAODZ STPH*FPLT
-'ay,': A/KWR* KW-BG
+'roads;': RAODZ/STPH*FPLT
+'ay,': A/KWR*/KW-BG
 'and': SKP
 'very': SRE
 'long': HROPBG
@@ -174,7 +174,7 @@ The Elf of the Rose
 'they': THE
 'were': WR
 'for': TPOR
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'for': TPOR
 'before': PW-FR
 'he': HE
@@ -182,29 +182,29 @@ The Elf of the Rose
 'half': HAF
 'finished': TP*EURBD
 'his': HEUS
-'task,': TAFBG KW-BG
+'task,': TAFBG/KW-BG
 'the': -T
 'sun': SUPB
 'went': WEPBT
-'down:': TKOUPB STPH-FPLT
+'down:': TKOUPB/STPH-FPLT
 'he': HE
 'had': H
 'commenced': KPHEPBS/-D
 'his': HEUS
 'work': WORBG
 'too': TAO
-'late.': HRAEUT TP-PL
+'late.': HRAEUT/TP-PL
 'It': KPA/T
 'became': PWAEUPL
 'very': SRE
-'cold,': KOELD KW-BG
+'cold,': KOELD/KW-BG
 'the': -T
 'dew': TKAO*U
-'fell,': TPEL KW-BG
+'fell,': TPEL/KW-BG
 'and': SKP
 'the': -T
 'wind': WEUPBD
-'blew;': PWHRAOU STPH*FPLT
+'blew;': PWHRAOU/STPH*FPLT
 'so': SO
 'he': HE
 'thought': THAUT
@@ -218,7 +218,7 @@ The Elf of the Rose
 'be': -B
 'to': TO
 'return': RURPB
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'He': KPA/HE
 'hurried': HUR/EUD
 'himself': HEUPLS
@@ -226,7 +226,7 @@ The Elf of the Rose
 'much': PHUFP
 'as': AS
 'he': HE
-'could;': KO STPH*FPLT
+'could;': KO/STPH*FPLT
 'but': PWUT
 'he': HE
 'found': TPOUPBD
@@ -234,19 +234,19 @@ The Elf of the Rose
 'roses': ROES/-S
 'all': AUL
 'closed': KHROEFD
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'he': HE
 'could': KO
 'not': TPHOT
 'get': TKPWET
-'in;': TPH STPH*FPLT
+'in;': TPH/STPH*FPLT
 'not': TPHOT
 'a': AEU
 'single': SEUPBLG
 'rose': ROEZ
 'stood': STAOD
-'open.': OEP TP-PL
+'open.': OEP/TP-PL
 'The': KPA/-T
 'poor': PAOR
 'little': HREUL
@@ -254,7 +254,7 @@ The Elf of the Rose
 'was': WAS
 'very': SRE
 'much': PHUFP
-'frightened.': TPRAOEUFPBD TP-PL
+'frightened.': TPRAOEUFPBD/TP-PL
 'He': KPA/HE
 'had': H
 'never': TPHEFR
@@ -262,7 +262,7 @@ The Elf of the Rose
 'been': PW-PB
 'out': OUT
 'at': AT
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'but': PWUT
 'had': H
 'always': AULS
@@ -271,43 +271,43 @@ The Elf of the Rose
 'behind': HEUPBD
 'the': -T
 'warm': WARPL
-'rose-leaves.': ROEZ H-PB HREFS TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'rose-leaves.': ROEZ/H-PB/HREFS/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'this': TH
 'would': WO
 'certainly': SERPBL
 'be': -B
 'his': HEUS
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'At': KPA/AT
 'the': -T
 'other': OER
 'end': EPBD
 'of': -F
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'he': HE
 'knew': TPHAOU
 'there': THR
 'was': WAS
 'an': APB
-'arbor,': ARB/O*R KW-BG
+'arbor,': ARB/O*R/KW-BG
 'overgrown': AUFR/TKPWROEPB
 'with': W
 'beautiful': PWAOUFL
-'honey-suckles.': HUPB/KWREU H-PB SUBG/-LS TP-PL
+'honey-suckles.': HUPB/KWREU/H-PB/SUBG/-LS/TP-PL
 'The': KPA/-T
 'blossoms': PWHROS/SOPL/-S
 'looked': HRAOBGD
 'like': HRAOEUBG
 'large': HRARPBLG
 'painted': PAEUPBTD
-'horns;': HORPBS STPH*FPLT
+'horns;': HORPBS/STPH*FPLT
 'and': SKP
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'he': HE
 'would': WO
 'go': TKPW
@@ -319,30 +319,30 @@ The Elf of the Rose
 'these': THEZ
 'till': TEUL
 'the': -T
-'morning.': PHORPBG TP-PL
+'morning.': PHORPBG/TP-PL
 'He': KPA/HE
 'flew': TPHRAOU
-'thither;': TH*EURT STPH*FPLT
+'thither;': TH*EURT/STPH*FPLT
 'but': PWUT
-'"hush!"': KR-GS HURB SKHRAPL KR-GS
+'"hush!"': KR-GS/HURB/SKHRAPL/KR-GS
 'two': TWO
 'people': PAOEPL
 'were': WR
 'in': TPH
 'the': -T
-'arbor,—a': ARB/O*R KW-BG EPL/TKA*RB AEU
+'arbor,—a': ARB/O*R/KW-BG/EPL/TKA*RB/AEU
 'handsome': HAPBD/SO*PL
 'young': KWRUPBG
 'man': PHAPB
 'and': SKP
 'a': AEU
 'beautiful': PWAOUFL
-'lady.': HRA*ED TP-PL
+'lady.': HRA*ED/TP-PL
 'They': KPA/THE
 'sat': SAT
 'side': SAOEUD
 'by': PWEU
-'side,': SAOEUD KW-BG
+'side,': SAOEUD/KW-BG
 'and': SKP
 'wished': WEURBD
 'that': THA
@@ -352,7 +352,7 @@ The Elf of the Rose
 'be': -B
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
-'part.': PART TP-PL
+'part.': PART/TP-PL
 'They': KPA/THE
 'loved': HROFD
 'each': AOEFP
@@ -368,22 +368,22 @@ The Elf of the Rose
 'its': EUTS
 'father': TPAER
 'and': SKP
-'mother.': PHOER TP-PL
-'"But': KR-GS KPA/PWUT
+'mother.': PHOER/TP-PL
+'"But': KR-GS/KPA/PWUT
 'we': WE
 'must': PHUFT
-'part,"': PART KW-BG KR-GS
+'part,"': PART/KW-BG/KR-GS
 'said': SED
 'the': -T
 'young': KWRUPBG
-'man;': PHAPB STPH*FPLT
-'"your': KR-GS KWROUR
+'man;': PHAPB/STPH*FPLT
+'"your': KR-GS/KWROUR
 'brother': PWROER
 'does': TKOS
 'not': TPHOT
 'like': HRAOEUBG
 'our': OUR
-'engagement,': EPB/TKPWAEUPLT KW-BG
+'engagement,': EPB/TKPWAEUPLT/KW-BG
 'and': SKP
 'therefore': TH-FR
 'he': HE
@@ -393,41 +393,41 @@ The Elf of the Rose
 'far': TPAR
 'away': WA*EU
 'on': OPB
-'business,': PWEUS KW-BG
+'business,': PWEUS/KW-BG
 'over': OEFR
 'mountains': PHOUPB/TAEUPBS
 'and': SKP
-'seas.': SAES TP-PL
-'Farewell,': KPA/TPAER/WEL KW-BG
+'seas.': SAES/TP-PL
+'Farewell,': KPA/TPAER/WEL/KW-BG
 'my': PHEU
 'sweet': SWAOET
-'bride;': PWRAOEUD STPH*FPLT
+'bride;': PWRAOEUD/STPH*FPLT
 'for': TPOR
 'so': SO
 'you': U
 'are': R
 'to': TO
-'me."': PHE TP-PL KR-GS
+'me."': PHE/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'they': THE
 'kissed': K*EUFD
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'and': SKP
 'the': -T
 'girl': TKPWEURL
-'wept,': WEPT KW-BG
+'wept,': WEPT/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
-'rose;': ROEZ STPH*FPLT
+'rose;': ROEZ/STPH*FPLT
 'but': PWUT
 'before': PW-FR
 'she': SHE
 'did': TK
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'she': SHE
 'pressed': PREFD
 'a': AEU
@@ -439,31 +439,31 @@ The Elf of the Rose
 'that': THA
 'the': -T
 'flower': TPHRO*UR
-'opened.': OEPD TP-PL
+'opened.': OEPD/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'little': HREUL
 'elf': *EFL
 'flew': TPHRAOU
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'leaned': HRAOEPBD
 'his': HEUS
 'head': HED
 'on': OPB
 'the': -T
-'delicate,': TKEL/KAT KW-BG
+'delicate,': TKEL/KAT/KW-BG
 'fragrant': TPRAEUG/RAPBT
-'walls.': WAULS TP-PL
+'walls.': WAULS/TP-PL
 'Here': KPA/HAOER
 'he': HE
 'could': KO
 'plainly': PHRAEUPBL
 'hear': HAER
 'them': THEPL
-'say,': SAEU KW-BG
-'"Farewell,': KR-GS KPA/TPAER/WEL KW-BG
-'farewell;"': TPAER/WEL STPH*FPLT KR-GS
+'say,': SAEU/KW-BG
+'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'farewell;"': TPAER/WEL/STPH*FPLT/KR-GS
 'and': SKP
 'he': HE
 'felt': TPELT
@@ -477,13 +477,13 @@ The Elf of the Rose
 'the': -T
 'young': KWRUPBG
 'man's': PHAPB/AES
-'breast.': PWREFT TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'breast.': PWREFT/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'how': HOU
 'his': HEUS
 'heart': HART
 'did': TK
-'beat!': PWAET SKHRAPL
+'beat!': PWAET/SKHRAPL
 'The': KPA/-T
 'little': HREUL
 'elf': *EFL
@@ -491,11 +491,11 @@ The Elf of the Rose
 'not': TPHOT
 'go': TKPW
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'it': T
 'thumped': THUPL/-PD
 'so': SO
-'loudly.': HROUD/HREU TP-PL
+'loudly.': HROUD/HREU/TP-PL
 'The': KPA/-T
 'young': KWRUPBG
 'man': PHAPB
@@ -509,7 +509,7 @@ The Elf of the Rose
 'the': -T
 'dark': TKARBG
 'wood': WAOD
-'alone,': A/HROEPB KW-BG
+'alone,': A/HROEPB/KW-BG
 'and': SKP
 'kissed': K*EUFD
 'the': -T
@@ -518,14 +518,14 @@ The Elf of the Rose
 'often': OFPB
 'and': SKP
 'so': SO
-'violently,': SRAOEUL/HREPBT/HREU KW-BG
+'violently,': SRAOEUL/HREPBT/HREU/KW-BG
 'that': THA
 'the': -T
 'little': HREUL
 'elf': *EFL
 'was': WAS
 'almost': HR-PL
-'crushed.': KRURBD TP-PL
+'crushed.': KRURBD/TP-PL
 'He': KPA/HE
 'could': KO
 'feel': TPAOEL
@@ -540,12 +540,12 @@ The Elf of the Rose
 'the': -T
 'young': KWRUPBG
 'man': PHAPB
-'were,': WR KW-BG
+'were,': WR/KW-BG
 'and': SKP
 'the': -T
 'rose': ROEZ
 'had': H
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'as': AS
 'if': TP
 'from': TPR
@@ -554,16 +554,16 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'noonday': xxx noonday
-'sun.': SUPB TP-PL
+'sun.': SUPB/TP-PL
 'There': KPA/THR
 'came': KAEUPL
 'another': TPHOER
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'who': WHO
 'looked': HRAOBGD
 'gloomy': TKPWHRAOPL/KWREU
 'and': SKP
-'wicked.': WEUBGD TP-PL
+'wicked.': WEUBGD/TP-PL
 'He': KPA/HE
 'was': WAS
 'the': -T
@@ -572,13 +572,13 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'beautiful': PWAOUFL
-'maiden.': PHAEUD/*EPB TP-PL
+'maiden.': PHAEUD/*EPB/TP-PL
 'He': KPA/HE
 'drew': TKRAOU
 'out': OUT
 'a': AEU
 'sharp': SHARP
-'knife,': TPHAOEUF KW-BG
+'knife,': TPHAOEUF/KW-BG
 'and': SKP
 'while': WHAOEUL
 'the': -T
@@ -586,20 +586,20 @@ The Elf of the Rose
 'was': WAS
 'kissing': KEUFG
 'the': -T
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'the': -T
 'wicked': WEUBGD
 'man': PHAPB
 'stabbed': STABD
 'him': HEUPL
 'to': TO
-'death;': TK*T STPH*FPLT
+'death;': TK*T/STPH*FPLT
 'then': THEPB
 'he': HE
 'cut': KUT
 'off': OF
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'buried': PWUR/EUD
 'it': T
@@ -612,26 +612,26 @@ The Elf of the Rose
 'earth': *ERT
 'under': TPH-PB
 'the': -T
-'linden-tree.': xxx linden H-PB TRAOE TP-PL
-'"Now': KR-GS KPA/TPHOU
+'linden-tree.': xxx linden/H-PB/TRAOE/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'he': HE
 'is': S
-'gone,': TKPWOPB KW-BG
+'gone,': TKPWOPB/KW-BG
 'and': SKP
 'will': HR
 'soon': SAOPB
 'be': -B
-'forgotten,"': TPAURGTD KW-BG KR-GS
+'forgotten,"': TPAURGTD/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
 'wicked': WEUBGD
-'brother;': PWROER STPH*FPLT
-'"he': KR-GS HE
+'brother;': PWROER/STPH*FPLT
+'"he': KR-GS/HE
 'will': HR
 'never': TPHEFR
 'come': KOPL
 'back': PWABG
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'He': KPA/HE
 'was': WAS
 'going': TKPW-G
@@ -642,7 +642,7 @@ The Elf of the Rose
 'over': OEFR
 'mountains': PHOUPB/TAEUPBS
 'and': SKP
-'seas;': SAES STPH*FPLT
+'seas;': SAES/STPH*FPLT
 'it': T
 'is': S
 'easy': EZ
@@ -656,19 +656,19 @@ The Elf of the Rose
 'in': TPH
 'such': SUFP
 'a': AEU
-'journey.': SKWRURPB TP-PL
+'journey.': SKWRURPB/TP-PL
 'My': KPA/PHEU
 'sister': ST-R
 'will': HR
 'suppose': SPOS
 'he': HE
 'is': S
-'dead;': TKED STPH*FPLT
+'dead;': TKED/STPH*FPLT
 'for': TPOR
 'he': HE
 'cannot': SK-PBT
 'come': KOPL
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'she': SHE
 'will': HR
@@ -678,7 +678,7 @@ The Elf of the Rose
 'question': KWE
 'me': PHE
 'about': PW
-'him."': HEUPL TP-PL KR-GS
+'him."': HEUPL/TP-PL/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'scattered': SKAT/ERD
@@ -691,32 +691,32 @@ The Elf of the Rose
 'earth': *ERT
 'with': W
 'his': HEUS
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'and': SKP
 'went': WEPBT
 'home': HOEPL
 'through': THRU
 'the': -T
-'darkness;': TKARBG/-PBS STPH*FPLT
+'darkness;': TKARBG/-PBS/STPH*FPLT
 'but': PWUT
 'he': HE
 'went': WEPBT
 'not': TPHOT
-'alone,': A/HROEPB KW-BG
+'alone,': A/HROEPB/KW-BG
 'as': AS
 'he': HE
-'thought,—the': THAUT KW-BG EPL/TKA*RB -T
+'thought,—the': THAUT/KW-BG/EPL/TKA*RB/-T
 'little': HREUL
 'elf': *EFL
 'accompanied': A/K-PD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'sat': SAT
 'in': TPH
 'a': AEU
 'dry': TKRAOEU
-'rolled-up': ROLD SKWR*UP
-'linden-leaf,': xxx linden H-PB HRAOEF KW-BG
+'rolled-up': ROLD/SKWR*UP
+'linden-leaf,': xxx linden/H-PB/HRAOEF/KW-BG
 'which': WEU
 'had': H
 'fallen': TPAUL/-PB
@@ -728,25 +728,25 @@ The Elf of the Rose
 'the': -T
 'wicked': WEUBGD
 'man's': PHAPB/AES
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'as': AS
 'he': HE
 'was': WAS
 'digging': TKEUG/-G
 'the': -T
-'grave.': TKPWRAEUF TP-PL
+'grave.': TKPWRAEUF/TP-PL
 'The': KPA/-T
 'hat': HAT
 'was': WAS
 'on': OPB
 'the': -T
 'head': HED
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'which': WEU
 'made': PHAED
 'it': T
 'very': SRE
-'dark,': TKARBG KW-BG
+'dark,': TKARBG/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -759,7 +759,7 @@ The Elf of the Rose
 'at': AT
 'the': -T
 'wicked': WEUBGD
-'deed.': TKAOED TP-PL
+'deed.': TKAOED/TP-PL
 'It': KPA/T
 'was': WAS
 'the': -T
@@ -771,58 +771,58 @@ The Elf of the Rose
 'wicked': WEUBGD
 'man': PHAPB
 'reached': RAOEFPD
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'he': HE
 'took': TAOBG
 'off': OF
 'his': HEUS
-'hat,': HAT KW-BG
+'hat,': HAT/KW-BG
 'and': SKP
 'went': WEPBT
 'into': TPHAO
 'his': HEUS
-'sister's': ST-R AES
-'room.': RAOPL TP-PL
+'sister's': ST-R/AES
+'room.': RAOPL/TP-PL
 'There': KPA/THR
 'lay': HRAEU
 'the': -T
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'blooming': PWHRAOPL/-G
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'dreaming': TKRAOEPLG
 'of': -F
 'him': HEUPL
 'whom': WHOPL
 'she': SHE
 'loved': HROFD
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'and': SKP
 'who': WHO
 'was': WAS
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'she': SHE
-'supposed,': SPOED KW-BG
+'supposed,': SPOED/KW-BG
 'travelling': TRAFL/HREUPBG
 'far': TPAR
 'away': WA*EU
 'over': OEFR
 'mountain': PHOUPB/TAEUPB
 'and': SKP
-'sea.': SAE TP-PL
+'sea.': SAE/TP-PL
 'Her': KPA/HER
 'wicked': WEUBGD
 'brother': PWROER
 'stopped': STOPD
 'over': OEFR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'laughed': HRAFD
-'hideously,': HEUD/KWROUS/HREU KW-BG
+'hideously,': HEUD/KWROUS/HREU/KW-BG
 'as': AS
 'fiends': TPAOEPBDZ
 'only': OEPBL
 'can': K
-'laugh.': HRAF TP-PL
+'laugh.': HRAF/TP-PL
 'The': KPA/-T
 'dry': TKRAOEU
 'leaf': HRAOEF
@@ -833,13 +833,13 @@ The Elf of the Rose
 'hair': HAEUR
 'upon': POPB
 'the': -T
-'counterpane;': xxx counterpane STPH*FPLT
+'counterpane;': xxx counterpane/STPH*FPLT
 'but': PWUT
 'he': HE
 'did': TK
 'not': TPHOT
 'notice': TPH-TS
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
@@ -851,7 +851,7 @@ The Elf of the Rose
 'the': -T
 'early': ERL
 'morning': PHORPBG
-'hours.': HOURS TP-PL
+'hours.': HOURS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'elf': *EFL
@@ -860,7 +860,7 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'withered': WEU/THER/-D
-'leaf,': HRAOEF KW-BG
+'leaf,': HRAOEF/KW-BG
 'placed': PHRAEUFD
 'himself': HEUPLS
 'by': PWEU
@@ -869,18 +869,18 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'sleeping': SHRAOEPG
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'and': SKP
 'told': TOLD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'as': AS
 'in': TPH
 'a': AEU
-'dream,': TKRAOEPL KW-BG
+'dream,': TKRAOEPL/KW-BG
 'of': -F
 'the': -T
 'horrid': HOR/EUD
-'murder;': PHURD STPH*FPLT
+'murder;': PHURD/STPH*FPLT
 'described': KREUFD
 'the': -T
 'place': PHRAEUS
@@ -890,25 +890,25 @@ The Elf of the Rose
 'had': H
 'slain': SHRAEUPB
 'her': HER
-'lover,': HRUFR KW-BG
+'lover,': HRUFR/KW-BG
 'and': SKP
 'buried': PWUR/EUD
 'his': HEUS
-'body;': PWO*ED STPH*FPLT
+'body;': PWO*ED/STPH*FPLT
 'and': SKP
 'told': TOLD
 'her': HER
 'of': -F
 'the': -T
-'linden-tree,': xxx linden H-PB TRAOE KW-BG
+'linden-tree,': xxx linden/H-PB/TRAOE/KW-BG
 'in': TPH
 'full': TPUL
-'blossom,': PWHROFPL KW-BG
+'blossom,': PWHROFPL/KW-BG
 'that': THA
 'stood': STAOD
 'close': KHROES
-'by.': PWEU TP-PL
-'"That': KR-GS KPA/THA
+'by.': PWEU/TP-PL
+'"That': KR-GS/KPA/THA
 'you': U
 'may': PHAE
 'not': TPHOT
@@ -922,10 +922,10 @@ The Elf of the Rose
 'I': EU
 'have': SR
 'told': TOLD
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"you': KR-GS U
+'said,': SED/KW-BG
+'"you': KR-GS/U
 'will': HR
 'find': TPAOEUPBD
 'on': OPB
@@ -933,20 +933,20 @@ The Elf of the Rose
 'bed': PWED
 'a': AEU
 'withered': WEU/THER/-D
-'leaf."': HRAOEF TP-PL KR-GS
+'leaf."': HRAOEF/TP-PL/KR-GS
 'Then': KPA/THEPB
 'she': SHE
-'awoke,': A/WOEBG KW-BG
+'awoke,': A/WOEBG/KW-BG
 'and': SKP
 'found': TPOUPBD
 'it': T
-'there.': THR TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'there.': THR/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'what': WHA
 'bitter': PWEURT
 'tears': TAERS
 'she': SHE
-'shed!': SHED SKHRAPL
+'shed!': SHED/SKHRAPL
 'and': SKP
 'she': SHE
 'could': KO
@@ -958,14 +958,14 @@ The Elf of the Rose
 'any': TPHEU
 'one': WUPB
 'for': TPOR
-'relief.': RE/HRAOEF TP-PL
+'relief.': RE/HRAOEF/TP-PL
 'The': KPA/-T
 'window': WOEUPBD
 'stood': STAOD
 'open': OEP
 'the': -T
 'whole': WHOEL
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -975,12 +975,12 @@ The Elf of the Rose
 'have': SR
 'reached': RAOEFPD
 'the': -T
-'roses,': ROES/-S KW-BG
+'roses,': ROES/-S/KW-BG
 'or': OR
 'any': TPHEU
 'of': -F
 'the': -T
-'flowers;': TPHRO*URS STPH*FPLT
+'flowers;': TPHRO*URS/STPH*FPLT
 'but': PWUT
 'he': HE
 'could': KO
@@ -994,7 +994,7 @@ The Elf of the Rose
 'leave': HREF
 'one': WUPB
 'so': SO
-'afflicted.': A/TPHREUBGD TP-PL
+'afflicted.': A/TPHREUBGD/TP-PL
 'In': KPA/TPH
 'the': -T
 'window': WOEUPBD
@@ -1003,7 +1003,7 @@ The Elf of the Rose
 'bush': PWURB
 'bearing': PWAERG
 'monthly': PHO*PBLT
-'roses.': ROES/-S TP-PL
+'roses.': ROES/-S/TP-PL
 'He': KPA/HE
 'seated': SAOETD
 'himself': HEUPLS
@@ -1011,31 +1011,31 @@ The Elf of the Rose
 'one': WUPB
 'of': -F
 'the': -T
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'and': SKP
 'gazed': TKPWAEZ/-D
 'on': OPB
 'the': -T
 'poor': PAOR
-'girl.': TKPWEURL TP-PL
+'girl.': TKPWEURL/TP-PL
 'Her': KPA/HER
 'brother': PWROER
 'often': OFPB
 'came': KAEUPL
 'into': TPHAO
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'and': SKP
 'would': WO
 'be': -B
 'quite': KWAOEUT
-'cheerful,': KHAOER/-FL KW-BG
+'cheerful,': KHAOER/-FL/KW-BG
 'in': TPH
 'spite': SPAOEUT
 'of': -F
 'his': HEUS
 'base': PWAEUS
-'conduct;': KUBGT STPH*FPLT
+'conduct;': KUBGT/STPH*FPLT
 'so': SO
 'she': SHE
 'dare': TKAEUR
@@ -1047,32 +1047,32 @@ The Elf of the Rose
 'him': HEUPL
 'of': -F
 'her': HER
-'heart's': HART AES
-'grief.': TKPWRAOEF TP-PL
+'heart's': HART/AES
+'grief.': TKPWRAOEF/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
 'night': TPHAOEUT
 'came': KAEUPL
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'she': SHE
 'slipped': SHREUPD
 'out': OUT
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'to': TO
 'the': -T
 'spot': SPOT
 'where': W-R
 'the': -T
-'linden-tree': xxx linden H-PB TRAOE
-'stood;': STAOD STPH*FPLT
+'linden-tree': xxx linden/H-PB/TRAOE
+'stood;': STAOD/STPH*FPLT
 'and': SKP
 'after': AF
 'removing': RAOE/PHOFG
@@ -1080,11 +1080,11 @@ The Elf of the Rose
 'leaves': HREFS
 'from': TPR
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'she': SHE
 'turned': TURPBD
 'it': T
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'there': THR
 'found': TPOUPBD
@@ -1092,8 +1092,8 @@ The Elf of the Rose
 'who': WHO
 'had': H
 'been': PW-PB
-'murdered.': PHURD/-D TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'murdered.': PHURD/-D/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'how': HOU
 'she': SHE
 'wept': WEPT
@@ -1103,7 +1103,7 @@ The Elf of the Rose
 'she': SHE
 'also': HR-S
 'might': PHAOEUT
-'die!': TKAOEU SKHRAPL
+'die!': TKAOEU/SKHRAPL
 'Gladly': KPA/TKPWHRAD/HREU
 'would': WO
 'she': SHE
@@ -1113,11 +1113,11 @@ The Elf of the Rose
 'body': PWO*ED
 'home': HOEPL
 'with': W
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'but': PWUT
 'that': THA
 'was': WAS
-'impossible;': EUPL/POB STPH*FPLT
+'impossible;': EUPL/POB/STPH*FPLT
 'so': SO
 'she': SHE
 'took': TAOBG
@@ -1128,11 +1128,11 @@ The Elf of the Rose
 'with': W
 'the': -T
 'closed': KHROEFD
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'kissed': K*EUFD
 'the': -T
 'cold': KOELD
-'lips,': HREUPS KW-BG
+'lips,': HREUPS/KW-BG
 'and': SKP
 'shook': SHAOBG
 'the': -T
@@ -1141,13 +1141,13 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'beautiful': PWAOUFL
-'hair.': HAEUR TP-PL
-'"I': KR-GS EU
+'hair.': HAEUR/TP-PL
+'"I': KR-GS/EU
 'will': HR
 'keep': KAOEP
-'this,"': TH KW-BG KR-GS
+'this,"': TH/KW-BG/KR-GS
 'said': SED
-'she;': SHE STPH*FPLT
+'she;': SHE/STPH*FPLT
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -1162,7 +1162,7 @@ The Elf of the Rose
 'the': -T
 'earth': *ERT
 'and': SKP
-'leaves,': HREFS KW-BG
+'leaves,': HREFS/KW-BG
 'she': SHE
 'took': TAOBG
 'the': -T
@@ -1177,20 +1177,20 @@ The Elf of the Rose
 'bloomed': PWHRAOPL/-D
 'in': TPH
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'near': TPHAOER
 'the': -T
 'spot': SPOT
 'where': W-R
 'he': HE
 'was': WAS
-'buried,': PWUR/EUD KW-BG
+'buried,': PWUR/EUD/KW-BG
 'and': SKP
 'carried': KAERD
 'them': THEPL
 'home': HOEPL
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'As': KPA/AS
 'soon': SAOPB
 'as': AS
@@ -1198,15 +1198,15 @@ The Elf of the Rose
 'was': WAS
 'in': TPH
 'her': HER
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'she': SHE
 'took': TAOBG
 'the': -T
 'largest': HRARPBLG/EFT
-'flower-pot': TPHRO*UR H-PB POT
+'flower-pot': TPHRO*UR/H-PB/POT
 'she': SHE
 'could': KO
-'find,': TPAOEUPBD KW-BG
+'find,': TPAOEUPBD/KW-BG
 'and': SKP
 'in': TPH
 'this': TH
@@ -1217,12 +1217,12 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'dead': TKED
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'covered': KOFRD
 'it': T
 'up': UP
 'with': W
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'and': SKP
 'planted': PHRAPBT/-D
 'the': -T
@@ -1230,13 +1230,13 @@ The Elf of the Rose
 'of': -F
 'jasmine': SKWRAS/PHEUPB
 'in': TPH
-'it.': T TP-PL
-'"Farewell,': KR-GS KPA/TPAER/WEL KW-BG
-'farewell,"': TPAER/WEL KW-BG KR-GS
+'it.': T/TP-PL
+'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'farewell,"': TPAER/WEL/KW-BG/KR-GS
 'whispered': WHEUS/PERD
 'the': -T
 'little': HREUL
-'elf.': *EFL TP-PL
+'elf.': *EFL/TP-PL
 'He': KPA/HE
 'could': KO
 'not': TPHOT
@@ -1249,7 +1249,7 @@ The Elf of the Rose
 'this': TH
 'agony': AG/TPHEU
 'of': -F
-'grief,': TKPWRAOEF KW-BG
+'grief,': TKPWRAOEF/KW-BG
 'he': HE
 'therefore': TH-FR
 'flew': TPHRAOU
@@ -1260,12 +1260,12 @@ The Elf of the Rose
 'rose': ROEZ
 'in': TPH
 'the': -T
-'garden.': TKPWA*RPB TP-PL
+'garden.': TKPWA*RPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'rose': ROEZ
 'was': WAS
-'faded;': TPAEUD/-D STPH*FPLT
+'faded;': TPAEUD/-D/STPH*FPLT
 'only': OEPBL
 'a': AEU
 'few': TPAOU
@@ -1278,8 +1278,8 @@ The Elf of the Rose
 'green': TKPWRAOEPB
 'hedge': HEPBLG
 'behind': HEUPBD
-'it.': T TP-PL
-'"Alas!': KR-GS KPA/A/HRAS SKHRAPL
+'it.': T/TP-PL
+'"Alas!': KR-GS/KPA/A/HRAS/SKHRAPL
 'how': HOU
 'soon': SAOPB
 'all': AUL
@@ -1289,21 +1289,21 @@ The Elf of the Rose
 'and': SKP
 'beautiful': PWAOUFL
 'passes': PA*FS
-'away,"': WA*EU KW-BG KR-GS
+'away,"': WA*EU/KW-BG/KR-GS
 'sighed': SAOEU/-D
 'the': -T
-'elf.': *EFL TP-PL
+'elf.': *EFL/TP-PL
 'After': KPA/AF
 'a': AEU
 'while': WHAOEUL
 'he': HE
 'found': TPOUPBD
 'another': TPHOER
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'which': WEU
 'became': PWAEUPL
 'his': HEUS
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'for': TPOR
 'among': PHOPBG
 'its': EUTS
@@ -1314,7 +1314,7 @@ The Elf of the Rose
 'could': KO
 'dwell': TKWEL
 'in': TPH
-'safety.': SAEFT TP-PL
+'safety.': SAEFT/TP-PL
 'Every': KPA/EF
 'morning': PHORPBG
 'he': HE
@@ -1325,7 +1325,7 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'poor': PAOR
-'girl,': TKPWEURL KW-BG
+'girl,': TKPWEURL/KW-BG
 'and': SKP
 'always': AULS
 'found': TPOUPBD
@@ -1334,7 +1334,7 @@ The Elf of the Rose
 'by': PWEU
 'the': -T
 'flower': TPHRO*UR
-'pot.': POT TP-PL
+'pot.': POT/TP-PL
 'The': KPA/-T
 'bitter': PWEURT
 'tears': TAERS
@@ -1342,16 +1342,16 @@ The Elf of the Rose
 'upon': POPB
 'the': -T
 'jasmine': SKWRAS/PHEUPB
-'twig,': TWEUG KW-BG
+'twig,': TWEUG/KW-BG
 'and': SKP
 'each': AOEFP
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'as': AS
 'she': SHE
 'became': PWAEUPL
 'paler': PAL/*ER
 'and': SKP
-'paler,': PAL/*ER KW-BG
+'paler,': PAL/*ER/KW-BG
 'the': -T
 'sprig': SPREUG
 'appeared': A/PAOERD
@@ -1359,30 +1359,30 @@ The Elf of the Rose
 'grow': TKPWROE
 'greener': TKPWRAOERPB
 'and': SKP
-'fresher.': TPRERB/*ER TP-PL
+'fresher.': TPRERB/*ER/TP-PL
 'One': KPA/WUPB
 'shoot': SHAOT
 'after': AF
 'another': TPHOER
 'sprouted': SPROUT/-D
-'forth,': TPO*RT KW-BG
+'forth,': TPO*RT/KW-BG
 'and': SKP
 'little': HREUL
 'white': WHAOEUT
 'buds': PWUDZ
-'blossomed,': PWHROS/SOPLD KW-BG
+'blossomed,': PWHROS/SOPLD/KW-BG
 'which': WEU
 'the': -T
 'poor': PAOR
 'girl': TKPWEURL
 'fondly': TPOPBD/HREU
-'kissed.': K*EUFD TP-PL
+'kissed.': K*EUFD/TP-PL
 'But': KPA/PWUT
 'her': HER
 'wicked': WEUBGD
 'brother': PWROER
 'scolded': SKOLD/-D
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'asked': SK-D
 'her': HER
@@ -1390,7 +1390,7 @@ The Elf of the Rose
 'she': SHE
 'was': WAS
 'going': TKPW-G
-'mad.': PHAD TP-PL
+'mad.': PHAD/TP-PL
 'He': KPA/HE
 'could': KO
 'not': TPHOT
@@ -1401,11 +1401,11 @@ The Elf of the Rose
 'weeping': WAOEP/-G
 'over': OEFR
 'that': THA
-'flower-pot,': TPHRO*UR H-PB POT KW-BG
+'flower-pot,': TPHRO*UR/H-PB/POT/KW-BG
 'and': SKP
 'it': T
 'annoyed': TPHOEUD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'did': TK
 'not': TPHOT
@@ -1414,7 +1414,7 @@ The Elf of the Rose
 'closed': KHROEFD
 'eyes': AO*EUS
 'were': WR
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'nor': TPH-R
 'what': WHA
 'red': RED
@@ -1423,7 +1423,7 @@ The Elf of the Rose
 'fading': TPAEUD/-G
 'beneath': TPHAO*ET
 'the': -T
-'earth.': *ERT TP-PL
+'earth.': *ERT/TP-PL
 'And': AFPBD
 'one': WUPB
 'day': TKAEU
@@ -1435,7 +1435,7 @@ The Elf of the Rose
 'head': HED
 'against': TKPWEPBS
 'the': -T
-'flower-pot,': TPHRO*UR H-PB POT KW-BG
+'flower-pot,': TPHRO*UR/H-PB/POT/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -1445,14 +1445,14 @@ The Elf of the Rose
 'rose': ROEZ
 'found': TPOUPBD
 'her': HER
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'seated': SAOETD
 'himself': HEUPLS
 'by': PWEU
 'her': HER
-'ear,': AOER KW-BG
+'ear,': AOER/KW-BG
 'talked': TAUBGD
 'to': TO
 'her': HER
@@ -1461,34 +1461,34 @@ The Elf of the Rose
 'evening': AOEPBG
 'in': TPH
 'the': -T
-'arbor,': ARB/O*R KW-BG
+'arbor,': ARB/O*R/KW-BG
 'of': -F
 'the': -T
 'sweet': SWAOET
 'perfume': PER/TPAOUPL
 'of': -F
 'the': -T
-'rose,': ROEZ KW-BG
+'rose,': ROEZ/KW-BG
 'and': SKP
 'the': -T
 'loves': HRUFS
 'of': -F
 'the': -T
-'elves.': EFLS TP-PL
+'elves.': EFLS/TP-PL
 'Sweetly': KPA/SWAOET/HREU
 'she': SHE
-'dreamed,': TKREPLD KW-BG
+'dreamed,': TKREPLD/KW-BG
 'and': SKP
 'while': WHAOEUL
 'she': SHE
-'dreamt,': TKREPLT KW-BG
+'dreamt,': TKREPLT/KW-BG
 'her': HER
 'life': HRAOEUF
 'passed': PAFD
 'away': WA*EU
 'calmly': KAUPL/HREU
 'and': SKP
-'gently,': SKWREPBT/HREU KW-BG
+'gently,': SKWREPBT/HREU/KW-BG
 'and': SKP
 'her': HER
 'spirit': SPEURT
@@ -1497,9 +1497,9 @@ The Elf of the Rose
 'him': HEUPL
 'whom': WHOPL
 'she': SHE
-'loved,': HROFD KW-BG
+'loved,': HROFD/KW-BG
 'in': TPH
-'heaven.': HEFPB TP-PL
+'heaven.': HEFPB/TP-PL
 'And': AFPBD
 'the': -T
 'jasmine': SKWRAS/PHEUPB
@@ -1507,13 +1507,13 @@ The Elf of the Rose
 'its': EUTS
 'large': HRARPBLG
 'white': WHAOEUT
-'bells,': PWELS KW-BG
+'bells,': PWELS/KW-BG
 'and': SKP
 'spread': SPRED
 'forth': TPO*RT
 'its': EUTS
 'sweet': SWAOET
-'fragrance;': TPRAEUG/RAPBS STPH*FPLT
+'fragrance;': TPRAEUG/RAPBS/STPH*FPLT
 'it': T
 'had': H
 'no': TPHO
@@ -1525,7 +1525,7 @@ The Elf of the Rose
 'grief': TKPWRAOEF
 'for': TPOR
 'the': -T
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'But': KPA/PWUT
 'the': -T
 'wicked': WEUBGD
@@ -1538,13 +1538,13 @@ The Elf of the Rose
 'as': AS
 'his': HEUS
 'own': OEPB
-'property,': PROT KW-BG
+'property,': PROT/KW-BG
 'left': HREFT
 'to': TO
 'him': HEUPL
 'by': PWEU
 'his': HEUS
-'sister,': ST-R KW-BG
+'sister,': ST-R/KW-BG
 'and': SKP
 'he': HE
 'placed': PHRAEUFD
@@ -1552,24 +1552,24 @@ The Elf of the Rose
 'in': TPH
 'his': HEUS
 'sleeping': SHRAOEPG
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'close': KHROES
 'by': PWEU
 'his': HEUS
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'for': TPOR
 'it': T
 'was': WAS
 'very': SRE
 'lovely': HROFL
 'in': TPH
-'appearance,': PAOERPBS KW-BG
+'appearance,': PAOERPBS/KW-BG
 'and': SKP
 'the': -T
 'fragrance': TPRAEUG/RAPBS
 'sweet': SWAOET
 'and': SKP
-'delightful.': TKHRAOEUT/-FL TP-PL
+'delightful.': TKHRAOEUT/-FL/TP-PL
 'The': KPA/-T
 'little': HREUL
 'elf': *EFL
@@ -1577,13 +1577,13 @@ The Elf of the Rose
 'the': -T
 'rose': ROEZ
 'followed': TPOLD
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'flew': TPHRAOU
 'from': TPR
 'flower': TPHRO*UR
 'to': TO
-'flower,': TPHRO*UR KW-BG
+'flower,': TPHRO*UR/KW-BG
 'telling': TELG
 'each': AOEFP
 'little': HREUL
@@ -1598,7 +1598,7 @@ The Elf of the Rose
 'the': -T
 'murdered': PHURD/-D
 'young': KWRUPBG
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'whose': WHOZ
 'head': HED
 'now': TPHOU
@@ -1608,7 +1608,7 @@ The Elf of the Rose
 'the': -T
 'earth': *ERT
 'beneath': TPHAO*ET
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'of': -F
 'the': -T
@@ -1617,20 +1617,20 @@ The Elf of the Rose
 'and': SKP
 'the': -T
 'poor': PAOR
-'sister.': ST-R TP-PL
-'"We': KR-GS KPA/WE
+'sister.': ST-R/TP-PL
+'"We': KR-GS/KPA/WE
 'know': TPHOE
-'it,"': T KW-BG KR-GS
+'it,"': T/KW-BG/KR-GS
 'said': SED
 'each': AOEFP
 'little': HREUL
 'spirit': SPEURT
 'in': TPH
 'the': -T
-'flowers,': TPHRO*URS KW-BG
-'"we': KR-GS WE
+'flowers,': TPHRO*URS/KW-BG
+'"we': KR-GS/WE
 'know': TPHOE
-'it,': T KW-BG
+'it,': T/KW-BG
 'for': TPOR
 'have': SR
 'we': WE
@@ -1644,13 +1644,13 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'murdered': PHURD/-D
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'We': KPA/WE
 'know': TPHOE
-'it,': T KW-BG
+'it,': T/KW-BG
 'we': WE
 'know': TPHOE
-'it,"': T KW-BG KR-GS
+'it,"': T/KW-BG/KR-GS
 'and': SKP
 'the': -T
 'flowers': TPHRO*URS
@@ -1661,7 +1661,7 @@ The Elf of the Rose
 'in': TPH
 'a': AEU
 'peculiar': PE/KAOUL/HRAR
-'manner.': PHAERPB TP-PL
+'manner.': PHAERPB/TP-PL
 'The': KPA/-T
 'elf': *EFL
 'of': -F
@@ -1678,24 +1678,24 @@ The Elf of the Rose
 'quietly': KWAO*EULT
 'in': TPH
 'the': -T
-'matter,': PHAERT KW-BG
+'matter,': PHAERT/KW-BG
 'so': SO
 'he': HE
 'flew': TPHRAOU
 'to': TO
 'the': -T
-'bees,': PWAOES KW-BG
+'bees,': PWAOES/KW-BG
 'who': WHO
 'were': WR
 'gathering': TKPWAERG
-'honey,': HUPB/KWREU KW-BG
+'honey,': HUPB/KWREU/KW-BG
 'and': SKP
 'told': TOLD
 'them': THEPL
 'of': -F
 'the': -T
 'wicked': WEUBGD
-'brother.': PWROER TP-PL
+'brother.': PWROER/TP-PL
 'And': AFPBD
 'the': -T
 'bees': PWAOES
@@ -1703,7 +1703,7 @@ The Elf of the Rose
 'it': T
 'to': TO
 'their': THAEUR
-'queen,': KWAOEPB KW-BG
+'queen,': KWAOEPB/KW-BG
 'who': WHO
 'commanded': KPHAPBD/-D
 'that': THA
@@ -1716,17 +1716,17 @@ The Elf of the Rose
 'and': SKP
 'kill': KEUL
 'the': -T
-'murderer.': PHURD/RER TP-PL
+'murderer.': PHURD/RER/TP-PL
 'But': KPA/PWUT
 'during': TKURG
 'the': -T
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'the': -T
 'first': TPEUFRT
 'after': AF
 'the': -T
-'sister's': ST-R AES
-'death,': TK*T KW-BG
+'sister's': ST-R/AES
+'death,': TK*T/KW-BG
 'while': WHAOEUL
 'the': -T
 'brother': PWROER
@@ -1734,7 +1734,7 @@ The Elf of the Rose
 'sleeping': SHRAOEPG
 'in': TPH
 'his': HEUS
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'close': KHROES
 'to': TO
 'where': W-R
@@ -1743,22 +1743,22 @@ The Elf of the Rose
 'placed': PHRAEUFD
 'the': -T
 'fragrant': TPRAEUG/RAPBT
-'jasmine,': SKWRAS/PHEUPB KW-BG
+'jasmine,': SKWRAS/PHEUPB/KW-BG
 'every': EF
 'flower': TPHRO*UR
 'cup': KUP
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'and': SKP
 'invisibly': EUPB/SREUS/PWHREU
 'the': -T
 'little': HREUL
 'spirits': SPEURTS
 'stole': STOEL
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'armed': ARPLD
 'with': W
 'poisonous': POEUS/TPHOUS
-'spears.': SPAOERZ TP-PL
+'spears.': SPAOERZ/TP-PL
 'They': KPA/THE
 'placed': PHRAEUFD
 'themselves': TH*EPLS
@@ -1767,7 +1767,7 @@ The Elf of the Rose
 'ear': AOER
 'of': -F
 'the': -T
-'sleeper,': SHRAOEP/*ER KW-BG
+'sleeper,': SHRAOEP/*ER/KW-BG
 'told': TOLD
 'him': HEUPL
 'dreadful': TKREFL
@@ -1777,7 +1777,7 @@ The Elf of the Rose
 'flew': TPHRAOU
 'across': KRAOS
 'his': HEUS
-'lips,': HREUPS KW-BG
+'lips,': HREUPS/KW-BG
 'and': SKP
 'pricked': PREUBGD
 'his': HEUS
@@ -1785,15 +1785,15 @@ The Elf of the Rose
 'with': W
 'their': THAEUR
 'poisoned': POEUS/OPBD
-'spears.': SPAOERZ TP-PL
-'"Now': KR-GS KPA/TPHOU
+'spears.': SPAOERZ/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'have': SR
 'we': WE
 'revenged': RE/SREPB/-PBLGD
 'the': -T
-'dead,"': TKED KW-BG KR-GS
+'dead,"': TKED/KW-BG/KR-GS
 'said': SED
-'they,': THE KW-BG
+'they,': THE/KW-BG
 'and': SKP
 'flew': TPHRAOU
 'back': PWABG
@@ -1804,11 +1804,11 @@ The Elf of the Rose
 'of': -F
 'the': -T
 'jasmine': SKWRAS/PHEUPB
-'flowers.': TPHRO*URS TP-PL
+'flowers.': TPHRO*URS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'morning': PHORPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -1816,36 +1816,36 @@ The Elf of the Rose
 'the': -T
 'window': WOEUPBD
 'was': WAS
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'the': -T
 'rose': ROEZ
-'elf,': *EFL KW-BG
+'elf,': *EFL/KW-BG
 'with': W
 'the': -T
 'queen': KWAOEPB
-'bee,': PWAOE KW-BG
+'bee,': PWAOE/KW-BG
 'and': SKP
 'the': -T
 'whole': WHOEL
 'swarm': SWARPL
 'of': -F
-'bees,': PWAOES KW-BG
+'bees,': PWAOES/KW-BG
 'rushed': RURBD
 'in': TPH
 'to': TO
 'kill': KEUL
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'But': KPA/PWUT
 'he': HE
 'was': WAS
 'already': HR-R
-'dead.': TKED TP-PL
+'dead.': TKED/TP-PL
 'People': KPA/PAOEPL
 'were': WR
 'standing': STAPBG
 'round': ROUPBD
 'the': -T
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'saying': SAEUG
 'that': THA
@@ -1856,7 +1856,7 @@ The Elf of the Rose
 'jasmine': SKWRAS/PHEUPB
 'had': H
 'killed': KEULD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'elf': *EFL
@@ -1868,31 +1868,31 @@ The Elf of the Rose
 'revenge': RE/SREPBG
 'of': -F
 'the': -T
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'and': SKP
 'explained': SPHRAEUPBD
 'it': T
 'to': TO
 'the': -T
 'queen': KWAOEPB
-'bee,': PWAOE KW-BG
+'bee,': PWAOE/KW-BG
 'and': SKP
-'she,': SHE KW-BG
+'she,': SHE/KW-BG
 'with': W
 'the': -T
 'whole': WHOEL
-'swarm,': SWARPL KW-BG
+'swarm,': SWARPL/KW-BG
 'buzzed': PWUZ/-D
 'about': PW
 'the': -T
-'flower-pot.': TPHRO*UR H-PB POT TP-PL
+'flower-pot.': TPHRO*UR/H-PB/POT/TP-PL
 'The': KPA/-T
 'bees': PWAOES
 'could': KO
 'not': TPHOT
 'be': -B
 'driven': TKREUFPB
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Then': KPA/THEPB
 'a': AEU
 'man': PHAPB
@@ -1901,7 +1901,7 @@ The Elf of the Rose
 'up': UP
 'to': TO
 'remove': RE/PHOF
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'one': WUPB
 'of': -F
@@ -1911,27 +1911,27 @@ The Elf of the Rose
 'him': HEUPL
 'in': TPH
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'so': SO
 'that': THA
 'he': HE
 'let': HRET
 'the': -T
-'flower-pot': TPHRO*UR H-PB POT
-'fall,': TPAUL KW-BG
+'flower-pot': TPHRO*UR/H-PB/POT
+'fall,': TPAUL/KW-BG
 'and': SKP
 'it': T
 'was': WAS
 'broken': PWROEPB
 'to': TO
-'pieces.': PAOEFS TP-PL
+'pieces.': PAOEFS/TP-PL
 'Then': KPA/THEPB
 'every': EF
 'one': WUPB
 'saw': SAU
 'the': -T
 'whitened': WHAOEUT/-PBD
-'skull,': SKUL KW-BG
+'skull,': SKUL/KW-BG
 'and': SKP
 'they': THE
 'knew': TPHAOU
@@ -1943,7 +1943,7 @@ The Elf of the Rose
 'bed': PWED
 'was': WAS
 'a': AEU
-'murderer.': PHURD/RER TP-PL
+'murderer.': PHURD/RER/TP-PL
 'And': AFPBD
 'the': -T
 'queen': KWAOEPB
@@ -1951,7 +1951,7 @@ The Elf of the Rose
 'hummed': HUPL/-D
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'and': SKP
 'sang': SAPBG
 'of': -F
@@ -1959,7 +1959,7 @@ The Elf of the Rose
 'revenge': RE/SREPBG
 'of': -F
 'the': -T
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'and': SKP
 'of': -F
 'the': -T
@@ -1975,13 +1975,13 @@ The Elf of the Rose
 'smallest': SPHAUL/EFT
 'leaf': HRAOEF
 'dwells': TKWEL/-S
-'One,': KPA/WUPB KW-BG
+'One,': KPA/WUPB/KW-BG
 'who': WHO
 'can': K
 'discover': SKOFR
 'evil': AOEFL
-'deeds,': TKAOEDZ KW-BG
+'deeds,': TKAOEDZ/KW-BG
 'and': SKP
 'punish': P-RB
 'them': THEPL
-'also.': HR-S TP-PL
+'also.': HR-S/TP-PL

@@ -13,7 +13,7 @@ The Wolf and the Seven Little Kids
 'had': H
 'seven': SEFPB
 'little': HREUL
-'kids,': KEUDZ KW-BG
+'kids,': KEUDZ/KW-BG
 'and': SKP
 'loved': HROFD
 'them': THEPL
@@ -26,7 +26,7 @@ The Wolf and the Seven Little Kids
 'mother': PHOER
 'for': TPOR
 'her': HER
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'she': SHE
@@ -39,7 +39,7 @@ The Wolf and the Seven Little Kids
 'and': SKP
 'fetch': TPEFP
 'some': SOPL
-'food.': TPAOD TP-PL
+'food.': TPAOD/TP-PL
 'So': KPA/SO
 'she': SHE
 'called': KAULD
@@ -48,40 +48,40 @@ The Wolf and the Seven Little Kids
 'to': TO
 'her': HER
 'and': SKP
-'said:': SED STPH-FPLT
-''Dear': AE KPA/TKAER
-'children,': KHEURPB KW-BG
+'said:': SED/STPH-FPLT
+''Dear': AE/KPA/TKAER
+'children,': KHEURPB/KW-BG
 'I': EU
 'have': SR
 'to': TO
 'go': TKPW
 'into': TPHAO
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'be': -B
 'on': OPB
 'your': KWROUR
 'guard': TKPWARD
 'against': TKPWEPBS
 'the': -T
-'wolf;': WOFL STPH*FPLT
+'wolf;': WOFL/STPH*FPLT
 'if': TP
 'he': HE
 'comes': KOPLS
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'he': HE
 'will': HR
 'devour': TKE/SROUR
 'you': U
-'all--skin,': AUL H-PB H-PB SKEUPB KW-BG
-'hair,': HAEUR KW-BG
+'all--skin,': AUL/H-PB/H-PB/SKEUPB/KW-BG
+'hair,': HAEUR/KW-BG
 'and': SKP
-'everything.': EFRG TP-PL
+'everything.': EFRG/TP-PL
 'The': KPA/-T
 'wretch': WREFP
 'often': OFPB
 'disguises': TKEUS/TKPWAOEUZ/-Z
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'but': PWUT
 'you': U
 'will': HR
@@ -96,31 +96,31 @@ The Wolf and the Seven Little Kids
 'and': SKP
 'his': HEUS
 'black': PWHRABG
-'feet.'': TPAOET TP-PL AE
+'feet.'': TPAOET/TP-PL/AE
 'The': KPA/-T
 'kids': KEUDZ
-'said:': SED STPH-FPLT
-''Dear': AE KPA/TKAER
-'mother,': PHOER KW-BG
+'said:': SED/STPH-FPLT
+''Dear': AE/KPA/TKAER
+'mother,': PHOER/KW-BG
 'we': WE
 'will': HR
 'take': TAEUBG
 'good': TKPWAOD
 'care': KAEUR
 'of': -F
-'ourselves;': O*URSZ STPH*FPLT
+'ourselves;': O*URSZ/STPH*FPLT
 'you': U
 'may': PHAE
 'go': TKPW
 'away': WA*EU
 'without': WOUT
 'any': TPHEU
-'anxiety.'': KPAO*EUT TP-PL AE
+'anxiety.'': KPAO*EUT/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'old': OLD
 'one': WUPB
-'bleated,': PWHRAET/-D KW-BG
+'bleated,': PWHRAET/-D/KW-BG
 'and': SKP
 'went': WEPBT
 'on': OPB
@@ -129,7 +129,7 @@ The Wolf and the Seven Little Kids
 'with': W
 'an': APB
 'easy': EZ
-'mind.': PHAOEUPBD TP-PL
+'mind.': PHAOEUPBD/TP-PL
 'It': KPA/T
 'was': WAS
 'not': TPHOT
@@ -139,18 +139,18 @@ The Wolf and the Seven Little Kids
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'house-door': HOUS TKAO*R
+'house-door': HOUS/TKAO*R
 'and': SKP
-'called:': KAULD STPH-FPLT
-''Open': AE KPA/OEP
+'called:': KAULD/STPH-FPLT
+''Open': AE/KPA/OEP
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'dear': TKAER
-'children;': KHEURPB STPH*FPLT
+'children;': KHEURPB/STPH*FPLT
 'your': KWROUR
 'mother': PHOER
 'is': S
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'and': SKP
 'has': HAS
 'brought': PWRAUT
@@ -161,7 +161,7 @@ The Wolf and the Seven Little Kids
 'for': TPOR
 'each': AOEFP
 'of': -F
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
@@ -171,39 +171,39 @@ The Wolf and the Seven Little Kids
 'it': T
 'was': WAS
 'the': -T
-'wolf,': WOFL KW-BG
+'wolf,': WOFL/KW-BG
 'by': PWEU
 'the': -T
 'rough': RUF
-'voice.': SROEUS TP-PL
-''We': AE KPA/WE
+'voice.': SROEUS/TP-PL
+''We': AE/KPA/WE
 'will': HR
 'not': TPHOT
 'open': OEP
 'the': -T
-'door,'': TKAOR KW-BG AE
+'door,'': TKAOR/KW-BG/AE
 'cried': KRAOEUD
-'they,': THE KW-BG
-''you': AE U
+'they,': THE/KW-BG
+''you': AE/U
 'are': R
 'not': TPHOT
 'our': OUR
-'mother.': PHOER TP-PL
+'mother.': PHOER/TP-PL
 'She': KPA/SHE
 'has': HAS
 'a': AEU
-'soft,': SOFT KW-BG
+'soft,': SOFT/KW-BG
 'pleasant': PHREFPBT
-'voice,': SROEUS KW-BG
+'voice,': SROEUS/KW-BG
 'but': PWUT
 'your': KWROUR
 'voice': SROEUS
 'is': S
-'rough;': RUF STPH*FPLT
+'rough;': RUF/STPH*FPLT
 'you': U
 'are': R
 'the': -T
-'wolf!'': WOFL SKHRAPL AE
+'wolf!'': WOFL/SKHRAPL/AE
 'Then': KPA/THEPB
 'the': -T
 'wolf': WOFL
@@ -219,7 +219,7 @@ The Wolf and the Seven Little Kids
 'great': TKPWRAET
 'lump': HRUFRP
 'of': -F
-'chalk,': KHAUBG KW-BG
+'chalk,': KHAUBG/KW-BG
 'ate': AEUT
 'this': TH
 'and': SKP
@@ -228,25 +228,25 @@ The Wolf and the Seven Little Kids
 'voice': SROEUS
 'soft': SOFT
 'with': W
-'it.': T TP-PL
+'it.': T/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'came': KAEUPL
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'knocked': TPHOBGD
 'at': AT
 'the': -T
 'door': TKAOR
 'of': -F
 'the': -T
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'and': SKP
-'called:': KAULD STPH-FPLT
-''Open': AE KPA/OEP
+'called:': KAULD/STPH-FPLT
+''Open': AE/KPA/OEP
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'dear': TKAER
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'your': KWROUR
 'mother': PHOER
 'is': S
@@ -261,7 +261,7 @@ The Wolf and the Seven Little Kids
 'for': TPOR
 'each': AOEFP
 'of': -F
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'wolf': WOFL
@@ -272,20 +272,20 @@ The Wolf and the Seven Little Kids
 'paws': PAU/-S
 'against': TKPWEPBS
 'the': -T
-'window,': WOEUPBD KW-BG
+'window,': WOEUPBD/KW-BG
 'and': SKP
 'the': -T
 'children': KHEURPB
 'saw': SAU
 'them': THEPL
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''We': AE KPA/WE
+'cried:': KRAOEUD/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'not': TPHOT
 'open': OEP
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'our': OUR
 'mother': PHOER
 'has': HAS
@@ -293,11 +293,11 @@ The Wolf and the Seven Little Kids
 'black': PWHRABG
 'feet': TPAOET
 'like': HRAOEUBG
-'you:': U STPH-FPLT
+'you:': U/STPH-FPLT
 'you': U
 'are': R
 'the': -T
-'wolf!'': WOFL SKHRAPL AE
+'wolf!'': WOFL/SKHRAPL/AE
 'Then': KPA/THEPB
 'the': -T
 'wolf': WOFL
@@ -306,19 +306,19 @@ The Wolf and the Seven Little Kids
 'a': AEU
 'baker': PWAEURBG
 'and': SKP
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'have': SR
 'hurt': HURT
 'my': PHEU
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'rub': RUB
 'some': SOPL
 'dough': TKOE
 'over': OEFR
 'them': THEPL
 'for': TPOR
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'And': AFPBD
 'when': WHEPB
 'the': -T
@@ -327,15 +327,15 @@ The Wolf and the Seven Little Kids
 'rubbed': RUBD
 'his': HEUS
 'feet': TPAOET
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'he': HE
 'ran': RAPB
 'to': TO
 'the': -T
 'miller': HRO*ER/PHEUL/HRER
 'and': SKP
-'said:': SED STPH-FPLT
-''Strew': AE KPA/STRAOU
+'said:': SED/STPH-FPLT
+''Strew': AE/KPA/STRAOU
 'some': SOPL
 'white': WHAOEUT
 'meal': PHAOEL
@@ -343,53 +343,53 @@ The Wolf and the Seven Little Kids
 'my': PHEU
 'feet': TPAOET
 'for': TPOR
-'me.'': PHE TP-PL AE
+'me.'': PHE/TP-PL/AE
 'The': KPA/-T
 'miller': HRO*ER/PHEUL/HRER
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-''The': AE KPA/-T
+'himself:': HEUPLS/STPH-FPLT
+''The': AE/KPA/-T
 'wolf': WOFL
 'wants': WAPBTS
 'to': TO
 'deceive': STKAOEF
-'someone,'': SPH-PB KW-BG AE
+'someone,'': SPH-PB/KW-BG/AE
 'and': SKP
-'refused;': RAO*UFD STPH*FPLT
+'refused;': RAO*UFD/STPH*FPLT
 'but': PWUT
 'the': -T
 'wolf': WOFL
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'you': U
 'will': HR
 'not': TPHOT
 'do': TKO
-'it,': T KW-BG
+'it,': T/KW-BG
 'I': EU
 'will': HR
 'devour': TKE/SROUR
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'miller': HRO*ER/PHEUL/HRER
 'was': WAS
-'afraid,': A/TPRAEUD KW-BG
+'afraid,': A/TPRAEUD/KW-BG
 'and': SKP
 'made': PHAED
 'his': HEUS
 'paws': PAU/-S
 'white': WHAOEUT
 'for': TPOR
-'him.': HEUPL TP-PL
-'Truly,': KPA/TRAOUL KW-BG
+'him.': HEUPL/TP-PL
+'Truly,': KPA/TRAOUL/KW-BG
 'this': TH
 'is': S
 'the': -T
 'way': WAEU
 'of': -F
-'mankind.': PHAPB/KAOEUPBD TP-PL
+'mankind.': PHAPB/KAOEUPBD/TP-PL
 'So': KPA/SO
 'now': TPHOU
 'the': -T
@@ -401,25 +401,25 @@ The Wolf and the Seven Little Kids
 'time': TAOEUPL
 'to': TO
 'the': -T
-'house-door,': HOUS H-PB TKAOR KW-BG
+'house-door,': HOUS/H-PB/TKAOR/KW-BG
 'knocked': TPHOBGD
 'at': AT
 'it': T
 'and': SKP
-'said:': SED STPH-FPLT
-''Open': AE KPA/OEP
+'said:': SED/STPH-FPLT
+''Open': AE/KPA/OEP
 'the': -T
 'door': TKAOR
 'for': TPOR
-'me,': PHE KW-BG
-'children,': KHEURPB KW-BG
+'me,': PHE/KW-BG
+'children,': KHEURPB/KW-BG
 'your': KWROUR
 'dear': TKAER
 'little': HREUL
 'mother': PHOER
 'has': HAS
 'come': KOPL
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'has': HAS
 'brought': PWRAUT
@@ -433,12 +433,12 @@ The Wolf and the Seven Little Kids
 'the': -T
 'forest': TPOEFRT
 'with': W
-'her.'': HER TP-PL AE
+'her.'': HER/TP-PL/AE
 'The': KPA/-T
 'little': HREUL
 'kids': KEUDZ
-'cried:': KRAOEUD STPH-FPLT
-''First': AE KPA/TPEUFRT
+'cried:': KRAOEUD/STPH-FPLT
+''First': AE/KPA/TPEUFRT
 'show': SHOE
 'us': US
 'your': KWROUR
@@ -453,7 +453,7 @@ The Wolf and the Seven Little Kids
 'our': OUR
 'dear': TKAER
 'little': HREUL
-'mother.'': PHOER TP-PL AE
+'mother.'': PHOER/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'put': PUT
@@ -471,7 +471,7 @@ The Wolf and the Seven Little Kids
 'that': THA
 'they': THE
 'were': WR
-'white,': WHAOEUT KW-BG
+'white,': WHAOEUT/KW-BG
 'they': THE
 'believed': PWHREFD
 'that': THA
@@ -479,11 +479,11 @@ The Wolf and the Seven Little Kids
 'he': HE
 'said': SED
 'was': WAS
-'true,': TRAOU KW-BG
+'true,': TRAOU/KW-BG
 'and': SKP
 'opened': OEPD
 'the': -T
-'door.': TKAOR TP-PL
+'door.': TKAOR/TP-PL
 'But': KPA/PWUT
 'who': WHO
 'should': SHO
@@ -491,7 +491,7 @@ The Wolf and the Seven Little Kids
 'in': TPH
 'but': PWUT
 'the': -T
-'wolf!': WOFL SKHRAPL
+'wolf!': WOFL/SKHRAPL
 'They': KPA/THE
 'were': WR
 'terrified': TER/TPAOEUD
@@ -499,54 +499,54 @@ The Wolf and the Seven Little Kids
 'wanted': WAPBTD
 'to': TO
 'hide': HAOEUD
-'themselves.': TH*EPLS TP-PL
+'themselves.': TH*EPLS/TP-PL
 'One': KPA/WUPB
 'sprang': SPRAPBG
 'under': TPH-PB
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'the': -T
 'second': SEBGD
 'into': TPHAO
 'the': -T
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'the': -T
 'third': THEURD
 'into': TPHAO
 'the': -T
-'stove,': STOF KW-BG
+'stove,': STOF/KW-BG
 'the': -T
 'fourth': TPO*URT
 'into': TPHAO
 'the': -T
-'kitchen,': K-FP KW-BG
+'kitchen,': K-FP/KW-BG
 'the': -T
 'fifth': TP*EUT
 'into': TPHAO
 'the': -T
-'cupboard,': KUP/PWAORD KW-BG
+'cupboard,': KUP/PWAORD/KW-BG
 'the': -T
 'sixth': S*BGS
 'under': TPH-PB
 'the': -T
-'washing-bowl,': WARBG H-PB PWOEL KW-BG
+'washing-bowl,': WARBG/H-PB/PWOEL/KW-BG
 'and': SKP
 'the': -T
 'seventh': S*EPBT
 'into': TPHAO
 'the': -T
-'clock-case.': KHROBG H-PB KAEUS TP-PL
+'clock-case.': KHROBG/H-PB/KAEUS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'wolf': WOFL
 'found': TPOUPBD
 'them': THEPL
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'used': AOUFD
 'no': TPHO
 'great': TKPWRAET
-'ceremony;': SER/PHOEPB STPH*FPLT
+'ceremony;': SER/PHOEPB/STPH*FPLT
 'one': WUPB
 'after': AF
 'the': -T
@@ -556,14 +556,14 @@ The Wolf and the Seven Little Kids
 'them': THEPL
 'down': TKOUPB
 'his': HEUS
-'throat.': THROET TP-PL
+'throat.': THROET/TP-PL
 'The': KPA/-T
-'youngest,': KWRUPBG/EFT KW-BG
+'youngest,': KWRUPBG/EFT/KW-BG
 'who': WHO
 'was': WAS
 'in': TPH
 'the': -T
-'clock-case,': KHROBG H-PB KAEUS KW-BG
+'clock-case,': KHROBG/H-PB/KAEUS/KW-BG
 'was': WAS
 'the': -T
 'only': OEPBL
@@ -571,7 +571,7 @@ The Wolf and the Seven Little Kids
 'he': HE
 'did': TK
 'not': TPHOT
-'find.': TPAOEUPBD TP-PL
+'find.': TPAOEUPBD/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'wolf': WOFL
@@ -582,7 +582,7 @@ The Wolf and the Seven Little Kids
 'he': HE
 'took': TAOBG
 'himself': HEUPLS
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'laid': HRAEUD
 'himself': HEUPLS
 'down': TKOUPB
@@ -593,11 +593,11 @@ The Wolf and the Seven Little Kids
 'the': -T
 'green': TKPWRAOEPB
 'meadow': PHED/OE
-'outside,': OUDZ KW-BG
+'outside,': OUDZ/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'Soon': KPA/SAOPB
 'afterwards': A*FRDZ
 'the': -T
@@ -608,33 +608,33 @@ The Wolf and the Seven Little Kids
 'again': TKPWEPB
 'from': TPR
 'the': -T
-'forest.': TPOEFRT TP-PL
-'Ah!': KPA/HA*E SKHRAPL
+'forest.': TPOEFRT/TP-PL
+'Ah!': KPA/HA*E/SKHRAPL
 'what': WHA
 'a': AEU
 'sight': SAOEUT
 'she': SHE
 'saw': SAU
-'there!': THR SKHRAPL
+'there!': THR/SKHRAPL
 'The': KPA/-T
-'house-door': HOUS TKAO*R
+'house-door': HOUS/TKAO*R
 'stood': STAOD
 'wide': WAOEUD
-'open.': OEP TP-PL
+'open.': OEP/TP-PL
 'The': KPA/-T
-'table,': TAEUBL KW-BG
-'chairs,': KHAEURS KW-BG
+'table,': TAEUBL/KW-BG
+'chairs,': KHAEURS/KW-BG
 'and': SKP
 'benches': PWEPB/-FPS
 'were': WR
 'thrown': THROEPB
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'the': -T
-'washing-bowl': WARBG H-PB PWOEL
+'washing-bowl': WARBG/H-PB/PWOEL
 'lay': HRAEU
 'broken': PWROEPB
 'to': TO
-'pieces,': PAOEFS KW-BG
+'pieces,': PAOEFS/KW-BG
 'and': SKP
 'the': -T
 'quilts': KWEULT/-S
@@ -644,18 +644,18 @@ The Wolf and the Seven Little Kids
 'pulled': PULD
 'off': OF
 'the': -T
-'bed.': PWED TP-PL
+'bed.': PWED/TP-PL
 'She': KPA/SHE
 'sought': SAUT
 'her': HER
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'but': PWUT
 'they': THE
 'were': WR
 'nowhere': TPHO/WR
 'to': TO
 'be': -B
-'found.': TPOUPBD TP-PL
+'found.': TPOUPBD/TP-PL
 'She': KPA/SHE
 'called': KAULD
 'them': THEPL
@@ -663,35 +663,35 @@ The Wolf and the Seven Little Kids
 'after': AF
 'another': TPHOER
 'by': PWEU
-'name,': TPHAEUPL KW-BG
+'name,': TPHAEUPL/KW-BG
 'but': PWUT
 'no': TPHO
 'one': WUPB
-'answered.': AEPBS/-D TP-PL
+'answered.': AEPBS/-D/TP-PL
 'At': KPA/AT
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'when': WHEPB
 'she': SHE
 'came': KAEUPL
 'to': TO
 'the': -T
-'youngest,': KWRUPBG/EFT KW-BG
+'youngest,': KWRUPBG/EFT/KW-BG
 'a': AEU
 'soft': SOFT
 'voice': SROEUS
-'cried:': KRAOEUD STPH-FPLT
-''Dear': AE KPA/TKAER
-'mother,': PHOER KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Dear': AE/KPA/TKAER
+'mother,': PHOER/KW-BG
 'I': EU
 'am': APL
 'in': TPH
 'the': -T
-'clock-case.'': KHROBG H-PB KAEUS TP-PL AE
+'clock-case.'': KHROBG/H-PB/KAEUS/TP-PL/AE
 'She': KPA/SHE
 'took': TAOBG
 'the': -T
 'kid': KEUD
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'it': T
 'told': TOLD
@@ -706,7 +706,7 @@ The Wolf and the Seven Little Kids
 'eaten': AOET/EPB
 'all': AUL
 'the': -T
-'others.': OERS TP-PL
+'others.': OERS/TP-PL
 'Then': KPA/THEPB
 'you': U
 'may': PHAE
@@ -717,7 +717,7 @@ The Wolf and the Seven Little Kids
 'over': OEFR
 'her': HER
 'poor': PAOR
-'children.': KHEURPB TP-PL
+'children.': KHEURPB/TP-PL
 'At': KPA/AT
 'length': HREPBG
 'in': TPH
@@ -725,20 +725,20 @@ The Wolf and the Seven Little Kids
 'grief': TKPWRAOEF
 'she': SHE
 'went': WEPBT
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'the': -T
 'youngest': KWRUPBG/EFT
 'kid': KEUD
 'ran': RAPB
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'the': -T
-'meadow,': PHED/OE KW-BG
+'meadow,': PHED/OE/KW-BG
 'there': THR
 'lay': HRAEU
 'the': -T
@@ -753,7 +753,7 @@ The Wolf and the Seven Little Kids
 'that': THA
 'the': -T
 'branches': PWRAFRPBS
-'shook.': SHAOBG TP-PL
+'shook.': SHAOBG/TP-PL
 'She': KPA/SHE
 'looked': HRAOBGD
 'at': AT
@@ -772,12 +772,12 @@ The Wolf and the Seven Little Kids
 'in': TPH
 'his': HEUS
 'gorged': TKPWORPBLG/-D
-'belly.': PWEL/HREU TP-PL
-''Ah,': AE KPA/HA*E KW-BG
-'heavens,'': HEFPBS KW-BG AE
+'belly.': PWEL/HREU/TP-PL
+''Ah,': AE/KPA/HA*E/KW-BG
+'heavens,'': HEFPBS/KW-BG/AE
 'she': SHE
-'said,': SED KW-BG
-''is': AE S
+'said,': SED/KW-BG
+''is': AE/S
 'it': T
 'possible': POB
 'that': THA
@@ -791,11 +791,11 @@ The Wolf and the Seven Little Kids
 'down': TKOUPB
 'for': TPOR
 'his': HEUS
-'supper,': SAOURP KW-BG
+'supper,': SAOURP/KW-BG
 'can': K
 'be': -B
 'still': STEUL
-'alive?'': A/HRAOEUF H-F AE
+'alive?'': A/HRAOEUF/H-F/AE
 'Then': KPA/THEPB
 'the': -T
 'kid': KEUD
@@ -805,27 +805,27 @@ The Wolf and the Seven Little Kids
 'home': HOEPL
 'and': SKP
 'fetch': TPEFP
-'scissors,': SEUS/ORS KW-BG
+'scissors,': SEUS/ORS/KW-BG
 'and': SKP
 'a': AEU
 'needle': TPHAO*ELD
 'and': SKP
-'thread,': THRED KW-BG
+'thread,': THRED/KW-BG
 'and': SKP
 'the': -T
 'goat': TKPWO*ET
 'cut': KUT
 'open': OEP
 'the': -T
-'monster's': PHOPB/STER AES
-'stomach,': STUPL KW-BG
+'monster's': PHOPB/STER/AES
+'stomach,': STUPL/KW-BG
 'and': SKP
 'hardly': HA*RLD
 'had': H
 'she': SHE
 'made': PHAED
 'one': WUPB
-'cut,': KUT KW-BG
+'cut,': KUT/KW-BG
 'than': THAPB
 'one': WUPB
 'little': HREUL
@@ -833,31 +833,31 @@ The Wolf and the Seven Little Kids
 'thrust': THRUFT
 'its': EUTS
 'head': HED
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
 'had': H
 'cut': KUT
-'farther,': TPA*RT KW-BG
+'farther,': TPA*RT/KW-BG
 'all': AUL
 'six': SEUBGS
 'sprang': SPRAPBG
 'out': OUT
 'one': WUPB
 'after': AF
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'and': SKP
 'were': WR
 'all': AUL
 'still': STEUL
-'alive,': A/HRAOEUF KW-BG
+'alive,': A/HRAOEUF/KW-BG
 'and': SKP
 'had': H
 'suffered': SUFRD
 'no': TPHO
 'injury': SKWRAOUR
-'whatever,': WHAF KW-BG
+'whatever,': WHAF/KW-BG
 'for': TPOR
 'in': TPH
 'his': HEUS
@@ -868,16 +868,16 @@ The Wolf and the Seven Little Kids
 'swallowed': SWALD
 'them': THEPL
 'down': TKOUPB
-'whole.': WHOEL TP-PL
+'whole.': WHOEL/TP-PL
 'What': KPA/WHA
 'rejoicing': RE/SKWROEUFG
 'there': THR
-'was!': WAS SKHRAPL
+'was!': WAS/SKHRAPL
 'They': KPA/THE
 'embraced': EPL/PWRAEUFD
 'their': THAEUR
 'dear': TKAER
-'mother,': PHOER KW-BG
+'mother,': PHOER/KW-BG
 'and': SKP
 'jumped': SKWR*UPLD
 'like': HRAOEUBG
@@ -885,26 +885,26 @@ The Wolf and the Seven Little Kids
 'tailor': TAEURL
 'at': AT
 'his': HEUS
-'wedding.': WEGD TP-PL
+'wedding.': WEGD/TP-PL
 'The': KPA/-T
-'mother,': PHOER KW-BG
-'however,': HOUF KW-BG
-'said:': SED STPH-FPLT
-''Now': AE KPA/TPHOU
+'mother,': PHOER/KW-BG
+'however,': HOUF/KW-BG
+'said:': SED/STPH-FPLT
+''Now': AE/KPA/TPHOU
 'go': TKPW
 'and': SKP
 'look': HRAOBG
 'for': TPOR
 'some': SOPL
 'big': PWEUG
-'stones,': STOEPBS KW-BG
+'stones,': STOEPBS/KW-BG
 'and': SKP
 'we': WE
 'will': HR
 'fill': TPEUL
 'the': -T
 'wicked': WEUBGD
-'beast's': PWAOEFT AES
+'beast's': PWAOEFT/AES
 'stomach': STUPL
 'with': W
 'them': THEPL
@@ -912,7 +912,7 @@ The Wolf and the Seven Little Kids
 'he': HE
 'is': S
 'still': STEUL
-'asleep.'': A/SHRAOEP TP-PL AE
+'asleep.'': A/SHRAOEP/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'seven': SEFPB
@@ -923,7 +923,7 @@ The Wolf and the Seven Little Kids
 'thither': TH*EURT
 'with': W
 'all': AUL
-'speed,': SPAOED KW-BG
+'speed,': SPAOED/KW-BG
 'and': SKP
 'put': PUT
 'as': AS
@@ -937,7 +937,7 @@ The Wolf and the Seven Little Kids
 'they': THE
 'could': KO
 'get': TKPWET
-'in;': TPH STPH*FPLT
+'in;': TPH/STPH*FPLT
 'and': SKP
 'the': -T
 'mother': PHOER
@@ -948,7 +948,7 @@ The Wolf and the Seven Little Kids
 'in': TPH
 'the': -T
 'greatest': TKPWRAET/EFT
-'haste,': HAEUFT KW-BG
+'haste,': HAEUFT/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -960,7 +960,7 @@ The Wolf and the Seven Little Kids
 'and': SKP
 'never': TPHEFR
 'once': WUPBS
-'stirred.': STEURD TP-PL
+'stirred.': STEURD/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'wolf': WOFL
@@ -971,12 +971,12 @@ The Wolf and the Seven Little Kids
 'his': HEUS
 'fill': TPEUL
 'of': -F
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'he': HE
 'got': TKPWOT
 'on': OPB
 'his': HEUS
-'legs,': HREGS KW-BG
+'legs,': HREGS/KW-BG
 'and': SKP
 'as': AS
 'the': -T
@@ -987,7 +987,7 @@ The Wolf and the Seven Little Kids
 'made': PHAED
 'him': HEUPL
 'very': SRE
-'thirsty,': THEURS/TEU KW-BG
+'thirsty,': THEURS/TEU/KW-BG
 'he': HE
 'wanted': WAPBTD
 'to': TO
@@ -996,7 +996,7 @@ The Wolf and the Seven Little Kids
 'a': AEU
 'well': WEL
 'to': TO
-'drink.': TKREU TP-PL
+'drink.': TKREU/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -1006,7 +1006,7 @@ The Wolf and the Seven Little Kids
 'and': SKP
 'to': TO
 'move': PHOF
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'the': -T
 'stones': STOEPBS
 'in': TPH
@@ -1017,29 +1017,29 @@ The Wolf and the Seven Little Kids
 'each': AOEFP
 'other': OER
 'and': SKP
-'rattled.': RA*LTD TP-PL
+'rattled.': RA*LTD/TP-PL
 'Then': KPA/THEPB
 'cried': KRAOEUD
-'he:': HE STPH-FPLT
-''What': AE KPA/WHA
+'he:': HE/STPH-FPLT
+''What': AE/KPA/WHA
 'rumbles': RUPL/-BLS
 'and': SKP
 'tumbles': TUPL/-BLS
 'Against': KPA/TKPWEPBS
 'my': PHEU
 'poor': PAOR
-'bones?': PWOEPBS H-F
+'bones?': PWOEPBS/H-F
 'I': EU
 'thought': THAUT
 ''twas': TWA*S
 'six': SEUBGS
-'kids,': KEUDZ KW-BG
+'kids,': KEUDZ/KW-BG
 'But': KPA/PWUT
 'it': T
 'feels': TPAOELS
 'like': HRAOEUBG
 'big': PWEUG
-'stones.'': STOEPBS TP-PL AE
+'stones.'': STOEPBS/TP-PL/AE
 'And': AFPBD
 'when': WHEPB
 'he': HE
@@ -1053,24 +1053,24 @@ The Wolf and the Seven Little Kids
 'the': -T
 'water': WAUR
 'to': TO
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'the': -T
 'heavy': HOEUF
 'stones': STOEPBS
 'made': PHAED
 'him': HEUPL
 'fall': TPAUL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'he': HE
 'drowned': TKROUPBD
-'miserably.': PHEUS/RAEBL TP-PL
+'miserably.': PHEUS/RAEBL/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'seven': SEFPB
 'kids': KEUDZ
 'saw': SAU
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'they': THE
 'came': KAEUPL
 'running': R*UPBG
@@ -1079,15 +1079,15 @@ The Wolf and the Seven Little Kids
 'spot': SPOT
 'and': SKP
 'cried': KRAOEUD
-'aloud:': A/HROUD STPH-FPLT
-''The': AE KPA/-T
+'aloud:': A/HROUD/STPH-FPLT
+''The': AE/KPA/-T
 'wolf': WOFL
 'is': S
-'dead!': TKED SKHRAPL
+'dead!': TKED/SKHRAPL
 'The': KPA/-T
 'wolf': WOFL
 'is': S
-'dead!'': TKED SKHRAPL AE
+'dead!'': TKED/SKHRAPL/AE
 'and': SKP
 'danced': TKAPBS/-D
 'for': TPOR
@@ -1098,4 +1098,4 @@ The Wolf and the Seven Little Kids
 'well': WEL
 'with': W
 'their': THAEUR
-'mother.': PHOER TP-PL
+'mother.': PHOER/TP-PL

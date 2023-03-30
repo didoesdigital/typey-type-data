@@ -17,14 +17,14 @@ King Grisly-Beard
 'who': WHO
 'was': WAS
 'very': SRE
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'but': PWUT
 'so': SO
-'proud,': PROUD KW-BG
+'proud,': PROUD/KW-BG
 'and': SKP
-'haughty,': HAU/TEU KW-BG
+'haughty,': HAU/TEU/KW-BG
 'and': SKP
-'conceited,': KAUPB/SAOET/-D KW-BG
+'conceited,': KAUPB/SAOET/-D/KW-BG
 'that': THA
 'none': TPHOPB
 'of': -F
@@ -41,14 +41,14 @@ King Grisly-Beard
 'good': TKPWAOD
 'enough': TPHUF
 'for': TPOR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'she': SHE
 'only': OEPBL
 'made': PHAED
 'sport': SPORT
 'of': -F
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'Once': KPA/WUPBS
 'upon': POPB
 'a': AEU
@@ -58,42 +58,42 @@ King Grisly-Beard
 'held': HELD
 'a': AEU
 'great': TKPWRAET
-'feast,': TPAOEFT KW-BG
+'feast,': TPAOEFT/KW-BG
 'and': SKP
 'asked': SK-D
 'thither': TH*EURT
 'all': AUL
 'her': HER
-'suitors;': SAOU/TOR/-S STPH*FPLT
+'suitors;': SAOU/TOR/-S/STPH*FPLT
 'and': SKP
 'they': THE
 'all': AUL
 'sat': SAT
 'in': TPH
 'a': AEU
-'row,': ROE KW-BG
+'row,': ROE/KW-BG
 'ranged': RAEUPBGD
 'according': KORG
 'to': TO
 'their': THAEUR
-'rank--kings,': RA*PBG H-PB H-PB KEUPBGS KW-BG
+'rank--kings,': RA*PBG/H-PB/H-PB/KEUPBGS/KW-BG
 'and': SKP
-'princes,': PREUPBS/-S KW-BG
+'princes,': PREUPBS/-S/KW-BG
 'and': SKP
-'dukes,': TKAOUBG/-S KW-BG
+'dukes,': TKAOUBG/-S/KW-BG
 'and': SKP
-'earls,': A*ERL/-S KW-BG
+'earls,': A*ERL/-S/KW-BG
 'and': SKP
-'counts,': KOUPBTS KW-BG
+'counts,': KOUPBTS/KW-BG
 'and': SKP
-'barons,': PWAR/ROPB/-S KW-BG
+'barons,': PWAR/ROPB/-S/KW-BG
 'and': SKP
-'knights.': TPHAO*EUT/-S TP-PL
+'knights.': TPHAO*EUT/-S/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'princess': PREUPB/SES
 'came': KAEUPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -108,66 +108,66 @@ King Grisly-Beard
 'say': SAEU
 'to': TO
 'every': EF
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'The': KPA/-T
 'first': TPEUFRT
 'was': WAS
 'too': TAO
-'fat:': TPAT STPH-FPLT
-''He's': AE KPA/HE AES
+'fat:': TPAT/STPH-FPLT
+''He's': AE/KPA/HE/AES
 'as': AS
 'round': ROUPBD
 'as': AS
 'a': AEU
-'tub,'': TUB KW-BG AE
+'tub,'': TUB/KW-BG/AE
 'said': SED
-'she.': SHE TP-PL
+'she.': SHE/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'was': WAS
 'too': TAO
-'tall:': TAUL STPH-FPLT
-''What': AE KPA/WHA
+'tall:': TAUL/STPH-FPLT
+''What': AE/KPA/WHA
 'a': AEU
-'maypole!'': xxx maypole SKHRAPL AE
+'maypole!'': xxx maypole/SKHRAPL/AE
 'said': SED
-'she.': SHE TP-PL
+'she.': SHE/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'was': WAS
 'too': TAO
-'short:': SHORT STPH-FPLT
-''What': AE KPA/WHA
+'short:': SHORT/STPH-FPLT
+''What': AE/KPA/WHA
 'a': AEU
-'dumpling!'': TKUFRP/-LG SKHRAPL AE
+'dumpling!'': TKUFRP/-LG/SKHRAPL/AE
 'said': SED
-'she.': SHE TP-PL
+'she.': SHE/TP-PL
 'The': KPA/-T
 'fourth': TPO*URT
 'was': WAS
 'too': TAO
-'pale,': PAEL KW-BG
+'pale,': PAEL/KW-BG
 'and': SKP
 'she': SHE
 'called': KAULD
 'him': HEUPL
-''Wallface.'': AE xxx Wallface TP-PL AE
+''Wallface.'': AE/xxx Wallface/TP-PL/AE
 'The': KPA/-T
 'fifth': TP*EUT
 'was': WAS
 'too': TAO
-'red,': RED KW-BG
+'red,': RED/KW-BG
 'so': SO
 'she': SHE
 'called': KAULD
 'him': HEUPL
-''Coxcomb.'': AE KPA/KOBGS/KOEPL TP-PL AE
+''Coxcomb.'': AE/KPA/KOBGS/KOEPL/TP-PL/AE
 'The': KPA/-T
 'sixth': S*BGS
 'was': WAS
 'not': TPHOT
 'straight': STRAEUT
-'enough;': TPHUF STPH*FPLT
+'enough;': TPHUF/STPH*FPLT
 'so': SO
 'she': SHE
 'said': SED
@@ -176,7 +176,7 @@ King Grisly-Beard
 'like': HRAOEUBG
 'a': AEU
 'green': TKPWRAOEPB
-'stick,': STEUBG KW-BG
+'stick,': STEUBG/KW-BG
 'that': THA
 'had': H
 'been': PW-PB
@@ -185,8 +185,8 @@ King Grisly-Beard
 'dry': TKRAOEU
 'over': OEFR
 'a': AEU
-'baker's': PWAEURBG AES
-'oven.': OEFPB TP-PL
+'baker's': PWAEURBG/AES
+'oven.': OEFPB/TP-PL
 'And': AFPBD
 'thus': THUS
 'she': SHE
@@ -197,7 +197,7 @@ King Grisly-Beard
 'crack': KRABG
 'upon': POPB
 'every': EF
-'one:': WUPB STPH-FPLT
+'one:': WUPB/STPH-FPLT
 'but': PWUT
 'she': SHE
 'laughed': HRAFD
@@ -210,24 +210,24 @@ King Grisly-Beard
 'king': KEUPBG
 'who': WHO
 'was': WAS
-'there.': THR TP-PL
-''Look': AE KPA/HRAOBG
+'there.': THR/TP-PL
+''Look': AE/KPA/HRAOBG
 'at': AT
-'him,'': HEUPL KW-BG AE
+'him,'': HEUPL/KW-BG/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''his': AE HEUS
+'she;': SHE/STPH*FPLT
+''his': AE/HEUS
 'beard': PWAERD
 'is': S
 'like': HRAOEUBG
 'an': APB
 'old': OLD
-'mop;': PHOP STPH*FPLT
+'mop;': PHOP/STPH*FPLT
 'he': HE
 'shall': SHAL
 'be': -B
 'called': KAULD
-'Grisly-beard.'': KPA/TKPWREUS/HREU H-PB PWAERD TP-PL AE
+'Grisly-beard.'': KPA/TKPWREUS/HREU/H-PB/PWAERD/TP-PL/AE
 'So': KPA/SO
 'the': -T
 'king': KEUPBG
@@ -235,7 +235,7 @@ King Grisly-Beard
 'the': -T
 'nickname': TPHEUBG/TPHAEUPL
 'of': -F
-'Grisly-beard.': KPA/TKPWREUS/HREU H-PB PWAERD TP-PL
+'Grisly-beard.': KPA/TKPWREUS/HREU/H-PB/PWAERD/TP-PL
 'But': KPA/PWUT
 'the': -T
 'old': OLD
@@ -249,37 +249,37 @@ King Grisly-Beard
 'how': HOU
 'his': HEUS
 'daughter': TKAUR
-'behaved,': PWHAEUFD KW-BG
+'behaved,': PWHAEUFD/KW-BG
 'and': SKP
 'how': HOU
 'she': SHE
-'ill-treated': EUL TRAO*ETD
+'ill-treated': EUL/TRAO*ETD
 'all': AUL
 'his': HEUS
-'guests;': TKPWEFTS STPH*FPLT
+'guests;': TKPWEFTS/STPH*FPLT
 'and': SKP
 'he': HE
 'vowed': SROUD
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'willing': -LG
 'or': OR
-'unwilling,': TPH-LG KW-BG
+'unwilling,': TPH-LG/KW-BG
 'she': SHE
 'should': SHO
 'marry': PHAER
 'the': -T
 'first': TPEUFRT
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 'be': -B
 'he': HE
 'prince': PREUPBS
 'or': OR
-'beggar,': PWEG/ER KW-BG
+'beggar,': PWEG/ER/KW-BG
 'that': THA
 'came': KAEUPL
 'to': TO
 'the': -T
-'door.': TKAOR TP-PL
+'door.': TKAOR/TP-PL
 'Two': KPA/TWO
 'days': TKAEUS
 'after': AF
@@ -288,7 +288,7 @@ King Grisly-Beard
 'by': PWEU
 'a': AEU
 'travelling': TRAFL/HREUPBG
-'fiddler,': TPEUD/HRER KW-BG
+'fiddler,': TPEUD/HRER/KW-BG
 'who': WHO
 'began': TKPWAPB
 'to': TO
@@ -298,26 +298,26 @@ King Grisly-Beard
 'window': WOEUPBD
 'and': SKP
 'beg': PWEG
-'alms;': AUPLS STPH*FPLT
+'alms;': AUPLS/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
 'king': KEUPBG
 'heard': HAERD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'he': HE
-'said,': SED KW-BG
-''Let': AE KPA/HRET
+'said,': SED/KW-BG
+''Let': AE/KPA/HRET
 'him': HEUPL
 'come': KOPL
-'in.'': TPH TP-PL AE
+'in.'': TPH/TP-PL/AE
 'So': KPA/SO
 'they': THE
 'brought': PWRAUT
 'in': TPH
 'a': AEU
-'dirty-looking': TKOEURT SKWRAOG
-'fellow;': TP*EL STPH*FPLT
+'dirty-looking': TKOEURT/SKWRAOG
+'fellow;': TP*EL/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -328,20 +328,20 @@ King Grisly-Beard
 'king': KEUPBG
 'and': SKP
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'he': HE
 'begged': PWEGD
 'a': AEU
-'boon.': PWAOPB TP-PL
+'boon.': PWAOPB/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
-'said,': SED KW-BG
-''You': AE KPA/U
+'said,': SED/KW-BG
+''You': AE/KPA/U
 'have': SR
 'sung': SUPBG
 'so': SO
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'that': THA
 'I': EU
 'will': HR
@@ -351,17 +351,17 @@ King Grisly-Beard
 'daughter': TKAUR
 'for': TPOR
 'your': KWROUR
-'wife.'': WAOEUF TP-PL AE
+'wife.'': WAOEUF/TP-PL/AE
 'The': KPA/-T
 'princess': PREUPB/SES
 'begged': PWEGD
 'and': SKP
-'prayed;': PRAEUD STPH*FPLT
+'prayed;': PRAEUD/STPH*FPLT
 'but': PWUT
 'the': -T
 'king': KEUPBG
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'have': SR
 'sworn': SWORPB
 'to': TO
@@ -370,13 +370,13 @@ King Grisly-Beard
 'to': TO
 'the': -T
 'first': TPEUFRT
-'comer,': KOPL/ER KW-BG
+'comer,': KOPL/ER/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'keep': KAOEP
 'my': PHEU
-'word.'': WORD TP-PL AE
+'word.'': WORD/TP-PL/AE
 'So': KPA/SO
 'words': WORDZ
 'and': SKP
@@ -384,52 +384,52 @@ King Grisly-Beard
 'were': WR
 'of': -F
 'no': TPHO
-'avail;': A/SRAEUL STPH*FPLT
+'avail;': A/SRAEUL/STPH*FPLT
 'the': -T
 'parson': PAR/SOPB
 'was': WAS
 'sent': SEPBT
-'for,': TPOR KW-BG
+'for,': TPOR/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
 'married': PHAERD
 'to': TO
 'the': -T
-'fiddler.': TPEUD/HRER TP-PL
+'fiddler.': TPEUD/HRER/TP-PL
 'When': KPA/WHEPB
 'this': TH
 'was': WAS
 'over': OEFR
 'the': -T
 'king': KEUPBG
-'said,': SED KW-BG
-''Now': AE KPA/TPHOU
+'said,': SED/KW-BG
+''Now': AE/KPA/TPHOU
 'get': TKPWET
 'ready': R-D
 'to': TO
-'go--you': TKPW H-PB H-PB U
+'go--you': TKPW/H-PB/H-PB/U
 'must': PHUFT
 'not': TPHOT
 'stay': STAEU
-'here--you': HAOER H-PB H-PB U
+'here--you': HAOER/H-PB/H-PB/U
 'must': PHUFT
 'travel': TRAFL
 'on': OPB
 'with': W
 'your': KWROUR
-'husband.'': HUS TP-PL AE
+'husband.'': HUS/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'fiddler': TPEUD/HRER
 'went': WEPBT
 'his': HEUS
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'took': TAOBG
 'her': HER
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'they': THE
 'soon': SAOPB
@@ -437,153 +437,153 @@ King Grisly-Beard
 'to': TO
 'a': AEU
 'great': TKPWRAET
-'wood.': WAOD TP-PL
-''Pray,'': AE KPA/PRAEU KW-BG AE
+'wood.': WAOD/TP-PL
+''Pray,'': AE/KPA/PRAEU/KW-BG/AE
 'said': SED
-'she,': SHE KW-BG
-''whose': AE WHOZ
+'she,': SHE/KW-BG
+''whose': AE/WHOZ
 'is': S
 'this': TH
-'wood?'': WAOD H-F AE
-''It': AE KPA/T
+'wood?'': WAOD/H-F/AE
+''It': AE/KPA/T
 'belongs': PWHROPBGS
 'to': TO
 'King': KO*EUPBG
-'Grisly-beard,'': KPA/TKPWREUS/HREU H-PB PWAERD KW-BG AE
+'Grisly-beard,'': KPA/TKPWREUS/HREU/H-PB/PWAERD/KW-BG/AE
 'answered': AEPBS/-D
-'he;': HE STPH*FPLT
-''hadst': AE xxx hadst
+'he;': HE/STPH*FPLT
+''hadst': AE/xxx hadst
 'thou': THO*U
 'taken': TAEPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'all': AUL
 'had': H
 'been': PW-PB
-'thine.'': THAOEUPB TP-PL AE
-''Ah!': AE KPA/HA*E SKHRAPL
+'thine.'': THAOEUPB/TP-PL/AE
+''Ah!': AE/KPA/HA*E/SKHRAPL
 'unlucky': UPB/HRUBG/KWREU
 'wretch': WREFP
 'that': THA
 'I': EU
-'am!'': APL SKHRAPL AE
+'am!'': APL/SKHRAPL/AE
 'sighed': SAOEU/-D
-'she;': SHE STPH*FPLT
-''would': AE WO
+'she;': SHE/STPH*FPLT
+''would': AE/WO
 'that': THA
 'I': EU
 'had': H
 'married': PHAERD
 'King': KO*EUPBG
-'Grisly-beard!'': KPA/TKPWREUS/HREU H-PB PWAERD SKHRAPL AE
+'Grisly-beard!'': KPA/TKPWREUS/HREU/H-PB/PWAERD/SKHRAPL/AE
 'Next': KPA/TPHEGT
 'they': THE
 'came': KAEUPL
 'to': TO
 'some': SOPL
 'fine': TPAOEUPB
-'meadows.': PHED/OES TP-PL
-''Whose': AE KPA/WHOZ
+'meadows.': PHED/OES/TP-PL
+''Whose': AE/KPA/WHOZ
 'are': R
 'these': THEZ
 'beautiful': PWAOUFL
 'green': TKPWRAOEPB
-'meadows?'': PHED/OES H-F AE
+'meadows?'': PHED/OES/H-F/AE
 'said': SED
-'she.': SHE TP-PL
-''They': AE KPA/THE
+'she.': SHE/TP-PL
+''They': AE/KPA/THE
 'belong': PWHROPBG
 'to': TO
 'King': KO*EUPBG
-'Grisly-beard,': KPA/TKPWREUS/HREU H-PB PWAERD KW-BG
+'Grisly-beard,': KPA/TKPWREUS/HREU/H-PB/PWAERD/KW-BG
 'hadst': xxx hadst
 'thou': THO*U
 'taken': TAEPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'they': THE
 'had': H
 'all': AUL
 'been': PW-PB
-'thine.'': THAOEUPB TP-PL AE
-''Ah!': AE KPA/HA*E SKHRAPL
+'thine.'': THAOEUPB/TP-PL/AE
+''Ah!': AE/KPA/HA*E/SKHRAPL
 'unlucky': UPB/HRUBG/KWREU
 'wretch': WREFP
 'that': THA
 'I': EU
-'am!'': APL SKHRAPL AE
+'am!'': APL/SKHRAPL/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''would': AE WO
+'she;': SHE/STPH*FPLT
+''would': AE/WO
 'that': THA
 'I': EU
 'had': H
 'married': PHAERD
 'King': KO*EUPBG
-'Grisly-beard!'': KPA/TKPWREUS/HREU H-PB PWAERD SKHRAPL AE
+'Grisly-beard!'': KPA/TKPWREUS/HREU/H-PB/PWAERD/SKHRAPL/AE
 'Then': KPA/THEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'a': AEU
 'great': TKPWRAET
-'city.': STEU TP-PL
-''Whose': AE KPA/WHOZ
+'city.': STEU/TP-PL
+''Whose': AE/KPA/WHOZ
 'is': S
 'this': TH
 'noble': TPHOEBL
-'city?'': STEU H-F AE
+'city?'': STEU/H-F/AE
 'said': SED
-'she.': SHE TP-PL
-''It': AE KPA/T
+'she.': SHE/TP-PL
+''It': AE/KPA/T
 'belongs': PWHROPBGS
 'to': TO
 'King': KO*EUPBG
-'Grisly-beard;': KPA/TKPWREUS/HREU H-PB PWAERD STPH*FPLT
+'Grisly-beard;': KPA/TKPWREUS/HREU/H-PB/PWAERD/STPH*FPLT
 'hadst': xxx hadst
 'thou': THO*U
 'taken': TAEPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'it': T
 'had': H
 'all': AUL
 'been': PW-PB
-'thine.'': THAOEUPB TP-PL AE
-''Ah!': AE KPA/HA*E SKHRAPL
+'thine.'': THAOEUPB/TP-PL/AE
+''Ah!': AE/KPA/HA*E/SKHRAPL
 'wretch': WREFP
 'that': THA
 'I': EU
-'am!'': APL SKHRAPL AE
+'am!'': APL/SKHRAPL/AE
 'sighed': SAOEU/-D
-'she;': SHE STPH*FPLT
-''why': AE KWR
+'she;': SHE/STPH*FPLT
+''why': AE/KWR
 'did': TK
 'I': EU
 'not': TPHOT
 'marry': PHAER
 'King': KO*EUPBG
-'Grisly-beard?'': KPA/TKPWREUS/HREU H-PB PWAERD H-F AE
-''That': AE KPA/THA
+'Grisly-beard?'': KPA/TKPWREUS/HREU/H-PB/PWAERD/H-F/AE
+''That': AE/KPA/THA
 'is': S
 'no': TPHO
 'business': PWEUS
 'of': -F
-'mine,'': PHAOEUPB KW-BG AE
+'mine,'': PHAOEUPB/KW-BG/AE
 'said': SED
 'the': -T
-'fiddler:': TPEUD/HRER STPH-FPLT
-''why': AE KWR
+'fiddler:': TPEUD/HRER/STPH-FPLT
+''why': AE/KWR
 'should': SHO
 'you': U
 'wish': WEURB
 'for': TPOR
 'another': TPHOER
-'husband?': HUS H-F
+'husband?': HUS/H-F
 'Am': KPA/APL
 'not': TPHOT
 'I': EU
 'good': TKPWAOD
 'enough': TPHUF
 'for': TPOR
-'you?'': U H-F AE
+'you?'': U/H-F/AE
 'At': KPA/AT
 'last': HRAFT
 'they': THE
@@ -591,51 +591,51 @@ King Grisly-Beard
 'to': TO
 'a': AEU
 'small': SPHAL
-'cottage.': KOT/APBLG TP-PL
-''What': AE KPA/WHA
+'cottage.': KOT/APBLG/TP-PL
+''What': AE/KPA/WHA
 'a': AEU
 'paltry': PAULT/REU
-'place!'': PHRAEUS SKHRAPL AE
+'place!'': PHRAEUS/SKHRAPL/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''to': AE TO
+'she;': SHE/STPH*FPLT
+''to': AE/TO
 'whom': WHOPL
 'does': TKOS
 'that': THA
 'little': HREUL
 'dirty': TKOEURT
 'hole': HOEL
-'belong?'': PWHROPBG H-F AE
+'belong?'': PWHROPBG/H-F/AE
 'Then': KPA/THEPB
 'the': -T
 'fiddler': TPEUD/HRER
-'said,': SED KW-BG
-''That': AE KPA/THA
+'said,': SED/KW-BG
+''That': AE/KPA/THA
 'is': S
 'your': KWROUR
 'and': SKP
 'my': PHEU
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'where': W-R
 'we': WE
 'are': R
 'to': TO
-'live.'': HREUF TP-PL AE
-''Where': AE KPA/W-R
+'live.'': HREUF/TP-PL/AE
+''Where': AE/KPA/W-R
 'are': R
 'your': KWROUR
-'servants?'': SER/SRAPBTS H-F AE
+'servants?'': SER/SRAPBTS/H-F/AE
 'cried': KRAOEUD
-'she.': SHE TP-PL
-''What': AE KPA/WHA
+'she.': SHE/TP-PL
+''What': AE/KPA/WHA
 'do': TKO
 'we': WE
 'want': WAPBT
 'with': W
-'servants?'': SER/SRAPBTS H-F AE
+'servants?'': SER/SRAPBTS/H-F/AE
 'said': SED
-'he;': HE STPH*FPLT
-''you': AE U
+'he;': HE/STPH*FPLT
+''you': AE/U
 'must': PHUFT
 'do': TKO
 'for': TPOR
@@ -644,11 +644,11 @@ King Grisly-Beard
 'is': S
 'to': TO
 'be': -B
-'done.': TKOPB TP-PL
+'done.': TKOPB/TP-PL
 'Now': KPA/TPHOU
 'make': PHAEUBG
 'the': -T
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'and': SKP
 'put': PUT
 'on': OPB
@@ -656,12 +656,12 @@ King Grisly-Beard
 'and': SKP
 'cook': KAOBG
 'my': PHEU
-'supper,': SAOURP KW-BG
+'supper,': SAOURP/KW-BG
 'for': TPOR
 'I': EU
 'am': APL
 'very': SRE
-'tired.'': TAOEURD TP-PL AE
+'tired.'': TAOEURD/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'princess': PREUPB/SES
@@ -671,7 +671,7 @@ King Grisly-Beard
 'making': PHAEUG
 'fires': TPAOEURS
 'and': SKP
-'cooking,': KAOG KW-BG
+'cooking,': KAOG/KW-BG
 'and': SKP
 'the': -T
 'fiddler': TPEUD/HRER
@@ -679,7 +679,7 @@ King Grisly-Beard
 'forced': TPOFRD
 'to': TO
 'help': HEP
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'had': H
@@ -691,7 +691,7 @@ King Grisly-Beard
 'they': THE
 'went': WEPBT
 'to': TO
-'bed;': PWED STPH*FPLT
+'bed;': PWED/STPH*FPLT
 'but': PWUT
 'the': -T
 'fiddler': TPEUD/HRER
@@ -706,13 +706,13 @@ King Grisly-Beard
 'to': TO
 'clean': KHRAOEPB
 'the': -T
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'Thus': KPA/THUS
 'they': THE
 'lived': HREUFD
 'for': TPOR
 'two': TWO
-'days:': TKAEUS STPH-FPLT
+'days:': TKAEUS/STPH-FPLT
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -724,67 +724,67 @@ King Grisly-Beard
 'was': WAS
 'in': TPH
 'the': -T
-'cottage,': KOT/APBLG KW-BG
+'cottage,': KOT/APBLG/KW-BG
 'the': -T
 'man': PHAPB
-'said,': SED KW-BG
-''Wife,': AE KPA/WAOEUF KW-BG
+'said,': SED/KW-BG
+''Wife,': AE/KPA/WAOEUF/KW-BG
 'we': WE
 'can't': K-PBT
 'go': TKPW
 'on': OPB
-'thus,': THUS KW-BG
+'thus,': THUS/KW-BG
 'spending': SPEPBG
 'money': PHUPB
 'and': SKP
 'earning': ERPBG
-'nothing.': TPHOG TP-PL
+'nothing.': TPHOG/TP-PL
 'You': KPA/U
 'must': PHUFT
 'learn': HRERPB
 'to': TO
 'weave': WEF
-'baskets.'': PWAFBGT/-S TP-PL AE
+'baskets.'': PWAFBGT/-S/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'went': WEPBT
 'out': OUT
 'and': SKP
 'cut': KUT
-'willows,': WEUL/HROE/-S KW-BG
+'willows,': WEUL/HROE/-S/KW-BG
 'and': SKP
 'brought': PWRAUT
 'them': THEPL
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'and': SKP
 'she': SHE
 'began': TKPWAPB
 'to': TO
-'weave;': WEF STPH*FPLT
+'weave;': WEF/STPH*FPLT
 'but': PWUT
 'it': T
 'made': PHAED
 'her': HER
 'fingers': TPEURPBGS
 'very': SRE
-'sore.': SOR TP-PL
-''I': AE EU
+'sore.': SOR/TP-PL
+''I': AE/EU
 'see': SAOE
 'this': TH
 'work': WORBG
 'won't': WOEPBT
-'do,'': TKO KW-BG AE
+'do,'': TKO/KW-BG/AE
 'said': SED
-'he:': HE STPH-FPLT
-''try': AE TREU
+'he:': HE/STPH-FPLT
+''try': AE/TREU
 'and': SKP
-'spin;': SPEUPB STPH*FPLT
+'spin;': SPEUPB/STPH*FPLT
 'perhaps': PRAPS
 'you': U
 'will': HR
 'do': TKO
 'that': THA
-'better.'': PWOERT TP-PL AE
+'better.'': PWOERT/TP-PL/AE
 'So': KPA/SO
 'she': SHE
 'sat': SAT
@@ -792,7 +792,7 @@ King Grisly-Beard
 'and': SKP
 'tried': TRAOEUD
 'to': TO
-'spin;': SPEUPB STPH*FPLT
+'spin;': SPEUPB/STPH*FPLT
 'but': PWUT
 'the': -T
 'threads': THREDZ
@@ -803,29 +803,29 @@ King Grisly-Beard
 'till': TEUL
 'the': -T
 'blood': PWHRAOD
-'ran.': RAPB TP-PL
-''See': AE KPA/SAOE
-'now,'': TPHOU KW-BG AE
+'ran.': RAPB/TP-PL
+''See': AE/KPA/SAOE
+'now,'': TPHOU/KW-BG/AE
 'said': SED
 'the': -T
-'fiddler,': TPEUD/HRER KW-BG
-''you': AE U
+'fiddler,': TPEUD/HRER/KW-BG
+''you': AE/U
 'are': R
 'good': TKPWAOD
 'for': TPOR
-'nothing;': TPHOG STPH*FPLT
+'nothing;': TPHOG/STPH*FPLT
 'you': U
 'can': K
 'do': TKO
 'no': TPHO
-'work:': WORBG STPH-FPLT
+'work:': WORBG/STPH-FPLT
 'what': WHA
 'a': AEU
 'bargain': PWAR/TKPWAEUPB
 'I': EU
 'have': SR
-'got!': TKPWOT SKHRAPL
-'However,': KPA/HOUF KW-BG
+'got!': TKPWOT/SKHRAPL
+'However,': KPA/HOUF/KW-BG
 'I'll': AOEUL
 'try': TREU
 'and': SKP
@@ -836,7 +836,7 @@ King Grisly-Beard
 'in': TPH
 'pots': POTS
 'and': SKP
-'pans,': PAPBS KW-BG
+'pans,': PAPBS/KW-BG
 'and': SKP
 'you': U
 'shall': SHAL
@@ -846,11 +846,11 @@ King Grisly-Beard
 'market': PHARBGT
 'and': SKP
 'sell': SEL
-'them.'': THEPL TP-PL AE
-''Alas!'': AE KPA/A/HRAS SKHRAPL AE
+'them.'': THEPL/TP-PL/AE
+''Alas!'': AE/KPA/A/HRAS/SKHRAPL/AE
 'sighed': SAOEU/-D
-'she,': SHE KW-BG
-''if': AE TP
+'she,': SHE/KW-BG
+''if': AE/TP
 'any': TPHEU
 'of': -F
 'my': PHEU
@@ -865,13 +865,13 @@ King Grisly-Beard
 'standing': STAPBG
 'in': TPH
 'the': -T
-'market,': PHARBGT KW-BG
+'market,': PHARBGT/KW-BG
 'how': HOU
 'they': THE
 'will': HR
 'laugh': HRAF
 'at': AT
-'me!'': PHE SKHRAPL AE
+'me!'': PHE/SKHRAPL/AE
 'But': KPA/PWUT
 'her': HER
 'husband': HUS
@@ -879,12 +879,12 @@ King Grisly-Beard
 'not': TPHOT
 'care': KAEUR
 'for': TPOR
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'and': SKP
 'said': SED
 'she': SHE
 'must': PHUFT
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'if': TP
 'she': SHE
 'did': TK
@@ -893,26 +893,26 @@ King Grisly-Beard
 'to': TO
 'die': TKAOEU
 'of': -F
-'hunger.': HURPBG TP-PL
+'hunger.': HURPBG/TP-PL
 'At': KPA/AT
 'first': TPEUFRT
 'the': -T
 'trade': TRAEUD
 'went': WEPBT
-'well;': WEL STPH*FPLT
+'well;': WEL/STPH*FPLT
 'for': TPOR
 'many': PHAEPB
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'seeing': SAOEG
 'such': SUFP
 'a': AEU
 'beautiful': PWAOUFL
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'went': WEPBT
 'to': TO
 'buy': PWAOEU
 'her': HER
-'wares,': WAEURS KW-BG
+'wares,': WAEURS/KW-BG
 'and': SKP
 'paid': PAEUD
 'their': THAEUR
@@ -923,7 +923,7 @@ King Grisly-Beard
 'taking': TAEUG
 'away': WA*EU
 'the': -T
-'goods.': TKPWAODZ TP-PL
+'goods.': TKPWAODZ/TP-PL
 'They': KPA/THE
 'lived': HREUFD
 'on': OPB
@@ -932,7 +932,7 @@ King Grisly-Beard
 'long': HROPBG
 'as': AS
 'it': T
-'lasted;': HRAFT/-D STPH*FPLT
+'lasted;': HRAFT/-D/STPH*FPLT
 'and': SKP
 'then': THEPB
 'her': HER
@@ -942,7 +942,7 @@ King Grisly-Beard
 'fresh': TPRERB
 'lot': HROT
 'of': -F
-'ware,': WAEUR KW-BG
+'ware,': WAEUR/KW-BG
 'and': SKP
 'she': SHE
 'sat': SAT
@@ -955,21 +955,21 @@ King Grisly-Beard
 'corner': KRORPB
 'of': -F
 'the': -T
-'market;': PHARBGT STPH*FPLT
+'market;': PHARBGT/STPH*FPLT
 'but': PWUT
 'a': AEU
 'drunken': TKR*UPBG/*EPB
 'soldier': SHRERPBLG
 'soon': SAOPB
 'came': KAEUPL
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'and': SKP
 'rode': ROED
 'his': HEUS
 'horse': HORS
 'against': TKPWEPBS
 'her': HER
-'stall,': STAUL KW-BG
+'stall,': STAUL/KW-BG
 'and': SKP
 'broke': PWROEBG
 'all': AUL
@@ -978,31 +978,31 @@ King Grisly-Beard
 'into': TPHAO
 'a': AEU
 'thousand': THOUD
-'pieces.': PAOEFS TP-PL
+'pieces.': PAOEFS/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'began': TKPWAPB
 'to': TO
-'cry,': KRAOEU KW-BG
+'cry,': KRAOEU/KW-BG
 'and': SKP
 'knew': TPHAOU
 'not': TPHOT
 'what': WHA
 'to': TO
-'do.': TKO TP-PL
-''Ah!': AE KPA/HA*E SKHRAPL
+'do.': TKO/TP-PL
+''Ah!': AE/KPA/HA*E/SKHRAPL
 'what': WHA
 'will': HR
 'become': PW-BG
 'of': -F
-'me?'': PHE H-F AE
+'me?'': PHE/H-F/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''what': AE WHA
+'she;': SHE/STPH*FPLT
+''what': AE/WHA
 'will': HR
 'my': PHEU
 'husband': HUS
-'say?'': SAEU H-F AE
+'say?'': SAEU/H-F/AE
 'So': KPA/SO
 'she': SHE
 'ran': RAPB
@@ -1010,8 +1010,8 @@ King Grisly-Beard
 'and': SKP
 'told': TOLD
 'him': HEUPL
-'all.': AUL TP-PL
-''Who': AE KPA/WHO
+'all.': AUL/TP-PL
+''Who': AE/KPA/WHO
 'would': WO
 'have': SR
 'thought': THAUT
@@ -1020,10 +1020,10 @@ King Grisly-Beard
 'have': SR
 'been': PW-PB
 'so': SO
-'silly,'': SHREU KW-BG AE
+'silly,'': SHREU/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''as': AE AS
+'he,': HE/KW-BG
+''as': AE/AS
 'to': TO
 'put': PUT
 'an': APB
@@ -1034,17 +1034,17 @@ King Grisly-Beard
 'corner': KRORPB
 'of': -F
 'the': -T
-'market,': PHARBGT KW-BG
+'market,': PHARBGT/KW-BG
 'where': W-R
 'everybody': EFRB
-'passes?': PA*FS H-F
+'passes?': PA*FS/H-F
 'but': PWUT
 'let': HRET
 'us': US
 'have': SR
 'no': TPHO
 'more': PHOR
-'crying;': KRAOEUG STPH*FPLT
+'crying;': KRAOEUG/STPH*FPLT
 'I': EU
 'see': SAOE
 'you': U
@@ -1055,7 +1055,7 @@ King Grisly-Beard
 'this': TH
 'sort': SORT
 'of': -F
-'work,': WORBG KW-BG
+'work,': WORBG/KW-BG
 'so': SO
 'I': EU
 'have': SR
@@ -1063,7 +1063,7 @@ King Grisly-Beard
 'to': TO
 'the': -T
 'king's': KEUPBG/AES
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'and': SKP
 'asked': SK-D
 'if': TP
@@ -1072,14 +1072,14 @@ King Grisly-Beard
 'not': TPHOT
 'want': WAPBT
 'a': AEU
-'kitchen-maid;': K-FP H-PB PHAEUD STPH*FPLT
+'kitchen-maid;': K-FP/H-PB/PHAEUD/STPH*FPLT
 'and': SKP
 'they': THE
 'say': SAEU
 'they': THE
 'will': HR
 'take': TAEUBG
-'you,': U KW-BG
+'you,': U/KW-BG
 'and': SKP
 'there': THR
 'you': U
@@ -1087,13 +1087,13 @@ King Grisly-Beard
 'have': SR
 'plenty': PHREPBT
 'to': TO
-'eat.'': AOET TP-PL AE
+'eat.'': AOET/TP-PL/AE
 'Thus': KPA/THUS
 'the': -T
 'princess': PREUPB/SES
 'became': PWAEUPL
 'a': AEU
-'kitchen-maid,': K-FP H-PB PHAEUD KW-BG
+'kitchen-maid,': K-FP/H-PB/PHAEUD/KW-BG
 'and': SKP
 'helped': HEPD
 'the': -T
@@ -1103,7 +1103,7 @@ King Grisly-Beard
 'all': AUL
 'the': -T
 'dirtiest': TKEURT/KWREFT
-'work;': WORBG STPH*FPLT
+'work;': WORBG/STPH*FPLT
 'but': PWUT
 'she': SHE
 'was': WAS
@@ -1117,12 +1117,12 @@ King Grisly-Beard
 'meat': PHAET
 'that': THA
 'was': WAS
-'left,': HREFT KW-BG
+'left,': HREFT/KW-BG
 'and': SKP
 'on': OPB
 'this': TH
 'they': THE
-'lived.': HREUFD TP-PL
+'lived.': HREUFD/TP-PL
 'She': KPA/SHE
 'had': H
 'not': TPHOT
@@ -1139,11 +1139,11 @@ King Grisly-Beard
 'son': SOPB
 'was': WAS
 'passing': PAFG
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'going': TKPW-G
 'to': TO
 'be': -B
-'married;': PHAERD STPH*FPLT
+'married;': PHAERD/STPH*FPLT
 'and': SKP
 'she': SHE
 'went': WEPBT
@@ -1154,10 +1154,10 @@ King Grisly-Beard
 'windows': WOEUPBDZ
 'and': SKP
 'looked': HRAOBGD
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'Everything': KPA/EFRG
 'was': WAS
-'ready,': R-D KW-BG
+'ready,': R-D/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
@@ -1168,7 +1168,7 @@ King Grisly-Beard
 'the': -T
 'court': KORT
 'was': WAS
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'bitterly': PWEURLT
@@ -1183,7 +1183,7 @@ King Grisly-Beard
 'brought': PWRAUT
 'her': HER
 'so': SO
-'low.': HROE TP-PL
+'low.': HROE/TP-PL
 'And': AFPBD
 'the': -T
 'servants': SER/SRAPBTS
@@ -1193,7 +1193,7 @@ King Grisly-Beard
 'of': -F
 'the': -T
 'rich': REUFP
-'meats,': PHAETS KW-BG
+'meats,': PHAETS/KW-BG
 'which': WEU
 'she': SHE
 'put': PUT
@@ -1202,16 +1202,16 @@ King Grisly-Beard
 'basket': PWAFBGT
 'to': TO
 'take': TAEUBG
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'All': KPA/AUL
 'on': OPB
 'a': AEU
-'sudden,': SUD KW-BG
+'sudden,': SUD/KW-BG
 'as': AS
 'she': SHE
 'was': WAS
 'going': TKPW-G
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'in': TPH
 'came': KAEUPL
 'the': -T
@@ -1219,7 +1219,7 @@ King Grisly-Beard
 'son': SOPB
 'in': TPH
 'golden': TKPWOELD/*EPB
-'clothes;': KHRO*ETS STPH*FPLT
+'clothes;': KHRO*ETS/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -1229,13 +1229,13 @@ King Grisly-Beard
 'woman': WOPL
 'at': AT
 'the': -T
-'door,': TKAOR KW-BG
+'door,': TKAOR/KW-BG
 'he': HE
 'took': TAOBG
 'her': HER
 'by': PWEU
 'the': -T
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'and': SKP
 'said': SED
 'she': SHE
@@ -1245,12 +1245,12 @@ King Grisly-Beard
 'partner': PARPB
 'in': TPH
 'the': -T
-'dance;': TKAPBS STPH*FPLT
+'dance;': TKAPBS/STPH*FPLT
 'but': PWUT
 'she': SHE
 'trembled': TREPL/-BLD
 'for': TPOR
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'for': TPOR
 'she': SHE
 'saw': SAU
@@ -1258,22 +1258,22 @@ King Grisly-Beard
 'it': T
 'was': WAS
 'King': KO*EUPBG
-'Grisly-beard,': KPA/TKPWREUS/HREU H-PB PWAERD KW-BG
+'Grisly-beard,': KPA/TKPWREUS/HREU/H-PB/PWAERD/KW-BG
 'who': WHO
 'was': WAS
 'making': PHAEUG
 'sport': SPORT
 'of': -F
-'her.': HER TP-PL
-'However,': KPA/HOUF KW-BG
+'her.': HER/TP-PL
+'However,': KPA/HOUF/KW-BG
 'he': HE
 'kept': KEPT
 'fast': TPAFT
-'hold,': HOLD KW-BG
+'hold,': HOLD/KW-BG
 'and': SKP
 'led': HRED
 'her': HER
-'in;': TPH STPH*FPLT
+'in;': TPH/STPH*FPLT
 'and': SKP
 'the': -T
 'cover': KOFR
@@ -1281,7 +1281,7 @@ King Grisly-Beard
 'the': -T
 'basket': PWAFBGT
 'came': KAEUPL
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -1289,19 +1289,19 @@ King Grisly-Beard
 'in': TPH
 'it': T
 'fell': TPEL
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'Then': KPA/THEPB
 'everybody': EFRB
 'laughed': HRAFD
 'and': SKP
 'jeered': SKWRAOER/-D
 'at': AT
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'and': SKP
 'she': SHE
 'was': WAS
 'so': SO
-'abashed,': A/PWARBD KW-BG
+'abashed,': A/PWARBD/KW-BG
 'that': THA
 'she': SHE
 'wished': WEURBD
@@ -1312,7 +1312,7 @@ King Grisly-Beard
 'deep': TKAOEP
 'in': TPH
 'the': -T
-'earth.': *ERT TP-PL
+'earth.': *ERT/TP-PL
 'She': KPA/SHE
 'sprang': SPRAPBG
 'to': TO
@@ -1320,24 +1320,24 @@ King Grisly-Beard
 'door': TKAOR
 'to': TO
 'run': RUPB
-'away;': WA*EU STPH*FPLT
+'away;': WA*EU/STPH*FPLT
 'but': PWUT
 'on': OPB
 'the': -T
 'steps': STEPS
 'King': KO*EUPBG
-'Grisly-beard': KPA/TKPWREUS/HREU H-PB PWAERD
+'Grisly-beard': KPA/TKPWREUS/HREU/H-PB/PWAERD
 'overtook': AUFR/TAOBG
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'brought': PWRAUT
 'her': HER
 'back': PWABG
 'and': SKP
-'said,': SED KW-BG
-''Fear': AE KPA/TPAOER
+'said,': SED/KW-BG
+''Fear': AE/KPA/TPAOER
 'me': PHE
-'not!': TPHOT SKHRAPL
+'not!': TPHOT/SKHRAPL
 'I': EU
 'am': APL
 'the': -T
@@ -1349,7 +1349,7 @@ King Grisly-Beard
 'you': U
 'in': TPH
 'the': -T
-'hut.': HUT TP-PL
+'hut.': HUT/TP-PL
 'I': EU
 'brought': PWRAUT
 'you': U
@@ -1358,7 +1358,7 @@ King Grisly-Beard
 'I': EU
 'really': R-L
 'loved': HROFD
-'you.': U TP-PL
+'you.': U/TP-PL
 'I': EU
 'am': APL
 'also': HR-S
@@ -1367,7 +1367,7 @@ King Grisly-Beard
 'that': THA
 'overset': AUFR/SET
 'your': KWROUR
-'stall.': STAUL TP-PL
+'stall.': STAUL/TP-PL
 'I': EU
 'have': SR
 'done': TKOPB
@@ -1380,7 +1380,7 @@ King Grisly-Beard
 'of': -F
 'your': KWROUR
 'silly': SHREU
-'pride,': PRAOEUD KW-BG
+'pride,': PRAOEUD/KW-BG
 'and': SKP
 'to': TO
 'show': SHOE
@@ -1389,17 +1389,17 @@ King Grisly-Beard
 'folly': TPOL/HREU
 'of': -F
 'your': KWROUR
-'ill-treatment': EUL H-PB TRAOEPLT
+'ill-treatment': EUL/H-PB/TRAOEPLT
 'of': -F
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'Now': KPA/TPHOU
 'all': AUL
 'is': S
-'over:': OEFR STPH-FPLT
+'over:': OEFR/STPH-FPLT
 'you': U
 'have': SR
 'learnt': HRERPBT
-'wisdom,': WEUZ/TKOPL KW-BG
+'wisdom,': WEUZ/TKOPL/KW-BG
 'and': SKP
 'it': T
 'is': S
@@ -1408,7 +1408,7 @@ King Grisly-Beard
 'hold': HOLD
 'our': OUR
 'marriage': PHAERPBLG
-'feast.'': TPAOEFT TP-PL AE
+'feast.'': TPAOEFT/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'chamberlains': KHAEURPL/TK-LS/HRAEUPB/-S
@@ -1419,7 +1419,7 @@ King Grisly-Beard
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'robes;': ROEB/-S STPH*FPLT
+'robes;': ROEB/-S/STPH*FPLT
 'and': SKP
 'her': HER
 'father': TPAER
@@ -1429,14 +1429,14 @@ King Grisly-Beard
 'court': KORT
 'were': WR
 'there': THR
-'already,': HR-R KW-BG
+'already,': HR-R/KW-BG
 'and': SKP
 'welcomed': W-BGD
 'her': HER
 'home': HOEPL
 'on': OPB
 'her': HER
-'marriage.': PHAERPBLG TP-PL
+'marriage.': PHAERPBLG/TP-PL
 'Joy': KPA/SKWROEU
 'was': WAS
 'in': TPH
@@ -1444,18 +1444,18 @@ King Grisly-Beard
 'face': TPAEUS
 'and': SKP
 'every': EF
-'heart.': HART TP-PL
+'heart.': HART/TP-PL
 'The': KPA/-T
 'feast': TPAOEFT
 'was': WAS
-'grand;': TKPWRAPBD STPH*FPLT
+'grand;': TKPWRAPBD/STPH*FPLT
 'they': THE
 'danced': TKAPBS/-D
 'and': SKP
-'sang;': SAPBG STPH*FPLT
+'sang;': SAPBG/STPH*FPLT
 'all': AUL
 'were': WR
-'merry;': PHER/REU STPH*FPLT
+'merry;': PHER/REU/STPH*FPLT
 'and': SKP
 'I': EU
 'only': OEPBL
@@ -1468,4 +1468,4 @@ King Grisly-Beard
 'been': PW-PB
 'of': -F
 'the': -T
-'party.': PAERT TP-PL
+'party.': PAERT/TP-PL

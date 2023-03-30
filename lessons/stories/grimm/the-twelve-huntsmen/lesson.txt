@@ -14,7 +14,7 @@ The Twelve Huntsmen
 'he': HE
 'loved': HROFD
 'very': SRE
-'much.': PHUFP TP-PL
+'much.': PHUFP/TP-PL
 'And': AFPBD
 'when': WHEPB
 'he': HE
@@ -24,7 +24,7 @@ The Twelve Huntsmen
 'her': HER
 'and': SKP
 'very': SRE
-'happy,': HAEP KW-BG
+'happy,': HAEP/KW-BG
 'news': TPHUS
 'came': KAEUPL
 'that': THA
@@ -33,7 +33,7 @@ The Twelve Huntsmen
 'lay': HRAEU
 'sick': SEUBG
 'unto': UPB/TO
-'death,': TK*T KW-BG
+'death,': TK*T/KW-BG
 'and': SKP
 'desired': STKAOEURD
 'to': TO
@@ -43,20 +43,20 @@ The Twelve Huntsmen
 'again': TKPWEPB
 'before': PW-FR
 'his': HEUS
-'end.': EPBD TP-PL
+'end.': EPBD/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'said': SED
 'to': TO
 'his': HEUS
-'beloved:': PWHROFD STPH-FPLT
-''I': AE EU
+'beloved:': PWHROFD/STPH-FPLT
+''I': AE/EU
 'must': PHUFT
 'now': TPHOU
 'go': TKPW
 'and': SKP
 'leave': HREF
-'you,': U KW-BG
+'you,': U/KW-BG
 'I': EU
 'give': TKPWEUF
 'you': U
@@ -66,42 +66,42 @@ The Twelve Huntsmen
 'a': AEU
 'remembrance': RERPBS
 'of': -F
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'When': KPA/WHEPB
 'I': EU
 'am': APL
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'I': EU
 'will': HR
 'return': RURPB
 'and': SKP
 'fetch': TPEFP
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'So': KPA/SO
 'he': HE
 'rode': ROED
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
 'reached': RAOEFPD
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'the': -T
 'latter': HRART
 'was': WAS
 'dangerously': TKAEUPBLG/SHREU
-'ill,': EUL KW-BG
+'ill,': EUL/KW-BG
 'and': SKP
 'near': TPHAOER
 'his': HEUS
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'He': KPA/HE
 'said': SED
 'to': TO
-'him:': HEUPL STPH-FPLT
-''Dear': AE KPA/TKAER
-'son,': SOPB KW-BG
+'him:': HEUPL/STPH-FPLT
+''Dear': AE/KPA/TKAER
+'son,': SOPB/KW-BG
 'I': EU
 'wished': WEURBD
 'to': TO
@@ -111,14 +111,14 @@ The Twelve Huntsmen
 'again': TKPWEPB
 'before': PW-FR
 'my': PHEU
-'end,': EPBD KW-BG
+'end,': EPBD/KW-BG
 'promise': PROPLS
 'me': PHE
 'to': TO
 'marry': PHAER
 'as': AS
 'I': EU
-'wish,'': WEURB KW-BG AE
+'wish,'': WEURB/KW-BG/AE
 'and': SKP
 'he': HE
 'named': TPHAEUPLD
@@ -131,7 +131,7 @@ The Twelve Huntsmen
 'to': TO
 'be': -B
 'his': HEUS
-'wife.': WAOEUF TP-PL
+'wife.': WAOEUF/TP-PL
 'The': KPA/-T
 'son': SOPB
 'was': WAS
@@ -146,26 +146,26 @@ The Twelve Huntsmen
 'what': WHA
 'he': HE
 'was': WAS
-'doing,': TK*G KW-BG
+'doing,': TK*G/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Yes,': AE KPA/KWRE KW-BG
+'said:': SED/STPH-FPLT
+''Yes,': AE/KPA/KWRE/KW-BG
 'dear': TKAER
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'your': KWROUR
 'will': HR
 'shall': SHAL
 'be': -B
-'done,'': TKOPB KW-BG AE
+'done,'': TKOPB/KW-BG/AE
 'and': SKP
 'thereupon': THRUP
 'the': -T
 'king': KEUPBG
 'shut': SHUT
 'his': HEUS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL
 'When': KPA/WHEPB
 'therefore': TH-FR
 'the': -T
@@ -173,14 +173,14 @@ The Twelve Huntsmen
 'had': H
 'been': PW-PB
 'proclaimed': PRO/KHRAEUPL/-D
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'the': -T
 'time': TAOEUPL
 'of': -F
 'mourning': PHOURPBG
 'was': WAS
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'he': HE
 'was': WAS
 'forced': TPOFRD
@@ -193,7 +193,7 @@ The Twelve Huntsmen
 'had': H
 'given': TKPWEUFPB
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'caused': KAUFD
 'the': -T
@@ -203,19 +203,19 @@ The Twelve Huntsmen
 'be': -B
 'asked': SK-D
 'in': TPH
-'marriage,': PHAERPBLG KW-BG
+'marriage,': PHAERPBLG/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
 'promised': PROPLS/-D
 'to': TO
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'His': KPA/HEUS
 'first': TPEUFRT
 'betrothed': PWE/TRO*T/-D
 'heard': HAERD
 'of': -F
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
 'fretted': TPRET/-D
 'so': SO
@@ -226,35 +226,35 @@ The Twelve Huntsmen
 'that': THA
 'she': SHE
 'nearly': TPHAOERL
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL
 'Then': KPA/THEPB
 'her': HER
 'father': TPAER
 'said': SED
 'to': TO
-'her:': HER STPH-FPLT
-''Dearest': AE KPA/TKAER/EFT
-'child,': KHAOEULD KW-BG
+'her:': HER/STPH-FPLT
+''Dearest': AE/KPA/TKAER/EFT
+'child,': KHAOEULD/KW-BG
 'why': KWR
 'are': R
 'you': U
 'so': SO
-'sad?': SAD H-F
+'sad?': SAD/H-F
 'You': KPA/U
 'shall': SHAL
 'have': SR
 'whatsoever': WHA/SOFR
 'you': U
-'will.'': HR TP-PL AE
+'will.'': HR/TP-PL/AE
 'She': KPA/SHE
 'thought': THAUT
 'for': TPOR
 'a': AEU
 'moment': PHOEPLT
 'and': SKP
-'said:': SED STPH-FPLT
-''Dear': AE KPA/TKAER
-'father,': TPAER KW-BG
+'said:': SED/STPH-FPLT
+''Dear': AE/KPA/TKAER
+'father,': TPAER/KW-BG
 'I': EU
 'wish': WEURB
 'for': TPOR
@@ -264,22 +264,22 @@ The Twelve Huntsmen
 'like': HRAOEUBG
 'myself': PHAO*EUS
 'in': TPH
-'face,': TPAEUS KW-BG
-'figure,': TPEUG KW-BG
+'face,': TPAEUS/KW-BG
+'figure,': TPEUG/KW-BG
 'and': SKP
-'size.'': SAOEUZ TP-PL AE
+'size.'': SAOEUZ/TP-PL/AE
 'The': KPA/-T
 'father': TPAER
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'it': T
 'be': -B
-'possible,': POB KW-BG
+'possible,': POB/KW-BG
 'your': KWROUR
 'desire': STKAOEUR
 'shall': SHAL
 'be': -B
-'fulfilled,'': TPUL/TPEULD KW-BG AE
+'fulfilled,'': TPUL/TPEULD/KW-BG/AE
 'and': SKP
 'he': HE
 'caused': KAUFD
@@ -291,7 +291,7 @@ The Twelve Huntsmen
 'in': TPH
 'his': HEUS
 'whole': WHOEL
-'kingdom,': KEUPBG/TKOPL KW-BG
+'kingdom,': KEUPBG/TKOPL/KW-BG
 'until': TPH-L
 'eleven': HREFPB
 'young': KWRUPBG
@@ -304,27 +304,27 @@ The Twelve Huntsmen
 'his': HEUS
 'daughter': TKAUR
 'in': TPH
-'face,': TPAEUS KW-BG
-'figure,': TPEUG KW-BG
+'face,': TPAEUS/KW-BG
+'figure,': TPEUG/KW-BG
 'and': SKP
-'size.': SAOEUZ TP-PL
+'size.': SAOEUZ/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'the': -T
 'king's': KEUPBG/AES
-'daughter,': TKAUR KW-BG
+'daughter,': TKAUR/KW-BG
 'she': SHE
 'had': H
 'twelve': TWEFL
 'suits': SAOUTS
 'of': -F
-'huntsmen's': HUPBTS/PH*EPB AES
+'huntsmen's': HUPBTS/PH*EPB/AES
 'clothes': KHRO*ETS
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'all': AUL
-'alike,': A/HRAOEUBG KW-BG
+'alike,': A/HRAOEUBG/KW-BG
 'and': SKP
 'the': -T
 'eleven': HREFPB
@@ -334,8 +334,8 @@ The Twelve Huntsmen
 'put': PUT
 'on': OPB
 'the': -T
-'huntsmen's': HUPBTS/PH*EPB AES
-'clothes,': KHRO*ETS KW-BG
+'huntsmen's': HUPBTS/PH*EPB/AES
+'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'she': SHE
 'herself': H*ERS
@@ -343,7 +343,7 @@ The Twelve Huntsmen
 'on': OPB
 'the': -T
 'twelfth': TWEFLT
-'suit.': SAOUT TP-PL
+'suit.': SAOUT/TP-PL
 'Thereupon': KPA/THRUP
 'she': SHE
 'took': TAOBG
@@ -351,12 +351,12 @@ The Twelve Huntsmen
 'leave': HREF
 'of': -F
 'her': HER
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'rode': ROED
 'away': WA*EU
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'rode': ROED
 'to': TO
@@ -365,12 +365,12 @@ The Twelve Huntsmen
 'of': -F
 'her': HER
 'former': TPRORPL
-'betrothed,': PWE/TRO*T/-D KW-BG
+'betrothed,': PWE/TRO*T/-D/KW-BG
 'whom': WHOPL
 'she': SHE
 'loved': HROFD
 'so': SO
-'dearly.': TKAERL TP-PL
+'dearly.': TKAERL/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'asked': SK-D
@@ -378,7 +378,7 @@ The Twelve Huntsmen
 'he': HE
 'required': RAOEURD
 'any': TPHEU
-'huntsmen,': HUPBTS/PH*EPB KW-BG
+'huntsmen,': HUPBTS/PH*EPB/KW-BG
 'and': SKP
 'if': TP
 'he': HE
@@ -389,7 +389,7 @@ The Twelve Huntsmen
 'them': THEPL
 'into': TPHAO
 'his': HEUS
-'service.': S-FS TP-PL
+'service.': S-FS/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'looked': HRAOBGD
@@ -399,24 +399,24 @@ The Twelve Huntsmen
 'did': TK
 'not': TPHOT
 'know': TPHOE
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'but': PWUT
 'as': AS
 'they': THE
 'were': WR
 'such': SUFP
 'handsome': HAPBD/SO*PL
-'fellows,': TPO*EULS KW-BG
+'fellows,': TPO*EULS/KW-BG
 'he': HE
-'said:': SED STPH-FPLT
-''Yes,'': AE KPA/KWRE KW-BG AE
+'said:': SED/STPH-FPLT
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'and': SKP
 'that': THA
 'he': HE
 'would': WO
 'willingly': HR-G/HREU
 'take': TAEUBG
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'now': TPHOU
 'they': THE
@@ -424,10 +424,10 @@ The Twelve Huntsmen
 'the': -T
 'king's': KEUPBG/AES
 'twelve': TWEFL
-'huntsmen.': HUPBTS/PH*EPB TP-PL
+'huntsmen.': HUPBTS/PH*EPB/TP-PL
 'The': KPA/-T
-'king,': KEUPBG KW-BG
-'however,': HOUF KW-BG
+'king,': KEUPBG/KW-BG
+'however,': HOUF/KW-BG
 'had': H
 'a': AEU
 'lion': HRO*EUPB
@@ -435,7 +435,7 @@ The Twelve Huntsmen
 'was': WAS
 'a': AEU
 'wondrous': WOPBD/ROUS
-'animal,': PHAPBL KW-BG
+'animal,': PHAPBL/KW-BG
 'for': TPOR
 'he': HE
 'knew': TPHAOU
@@ -443,7 +443,7 @@ The Twelve Huntsmen
 'concealed': KAUPB/SAOELD
 'and': SKP
 'secret': SKRET
-'things.': THEUPBGS TP-PL
+'things.': THEUPBGS/TP-PL
 'It': KPA/T
 'came': KAEUPL
 'to': TO
@@ -455,46 +455,46 @@ The Twelve Huntsmen
 'said': SED
 'to': TO
 'the': -T
-'king:': KEUPBG STPH-FPLT
-''You': AE KPA/U
+'king:': KEUPBG/STPH-FPLT
+''You': AE/KPA/U
 'think': THEU
 'you': U
 'have': SR
 'twelve': TWEFL
-'huntsmen?'': HUPBTS/PH*EPB H-F AE
-''Yes,'': AE KPA/KWRE KW-BG AE
+'huntsmen?'': HUPBTS/PH*EPB/H-F/AE
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'said': SED
 'the': -T
-'king,': KEUPBG KW-BG
-''they': AE THE
+'king,': KEUPBG/KW-BG
+''they': AE/THE
 'are': R
 'twelve': TWEFL
-'huntsmen.'': HUPBTS/PH*EPB TP-PL AE
+'huntsmen.'': HUPBTS/PH*EPB/TP-PL/AE
 'The': KPA/-T
 'lion': HRO*EUPB
-'continued:': T-PBD STPH-FPLT
-''You': AE KPA/U
+'continued:': T-PBD/STPH-FPLT
+''You': AE/KPA/U
 'are': R
-'mistaken,': SPHA*EUPB KW-BG
+'mistaken,': SPHA*EUPB/KW-BG
 'they': THE
 'are': R
 'twelve': TWEFL
-'girls.'': TKPWEURLS TP-PL AE
+'girls.'': TKPWEURLS/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
-'said:': SED STPH-FPLT
-''That': AE KPA/THA
+'said:': SED/STPH-FPLT
+''That': AE/KPA/THA
 'cannot': SK-PBT
 'be': -B
-'true!': TRAOU SKHRAPL
+'true!': TRAOU/SKHRAPL
 'How': KPA/HOU
 'will': HR
 'you': U
 'prove': PROF
 'that': THA
 'to': TO
-'me?'': PHE H-F AE
-''Oh,': AE KPA/O*ERBGS KW-BG
+'me?'': PHE/H-F/AE
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'just': SKWRUFT
 'let': HRET
 'some': SOPL
@@ -503,21 +503,21 @@ The Twelve Huntsmen
 'strewn': STRAOUPB
 'in': TPH
 'the': -T
-'ante-chamber,'': APB/TAOE H-PB KHAEURPL KW-BG AE
+'ante-chamber,'': APB/TAOE/H-PB/KHAEURPL/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
-'lion,': HRO*EUPB KW-BG
-''and': AE SKP
+'lion,': HRO*EUPB/KW-BG
+''and': AE/SKP
 'then': THEPB
 'you': U
 'will': HR
 'soon': SAOPB
-'see.': SAOE TP-PL
+'see.': SAOE/TP-PL
 'Men': KPA/PHEPB
 'have': SR
 'a': AEU
 'firm': TPEURPL
-'step,': STEP KW-BG
+'step,': STEP/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE
@@ -527,21 +527,21 @@ The Twelve Huntsmen
 'none': TPHOPB
 'of': -F
 'them': THEPL
-'stir,': STEUR KW-BG
+'stir,': STEUR/KW-BG
 'but': PWUT
 'girls': TKPWEURLS
 'trip': TREUP
 'and': SKP
-'skip,': SKEUP KW-BG
+'skip,': SKEUP/KW-BG
 'and': SKP
 'drag': TKRAG
 'their': THAEUR
-'feet,': TPAOET KW-BG
+'feet,': TPAOET/KW-BG
 'and': SKP
 'the': -T
 'peas': PAOEZ
 'roll': ROL
-'about.'': PW TP-PL AE
+'about.'': PW/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'was': WAS
@@ -549,17 +549,17 @@ The Twelve Huntsmen
 'pleased': PHREFD
 'with': W
 'the': -T
-'counsel,': KOUPB KW-BG
+'counsel,': KOUPB/KW-BG
 'and': SKP
 'caused': KAUFD
 'the': -T
 'peas': PAOEZ
 'to': TO
 'be': -B
-'strewn.': STRAOUPB TP-PL
+'strewn.': STRAOUPB/TP-PL
 'There': KPA/THR
-'was,': WAS KW-BG
-'however,': HOUF KW-BG
+'was,': WAS/KW-BG
+'however,': HOUF/KW-BG
 'a': AEU
 'servant': SEFRB/APBT
 'of': -F
@@ -568,7 +568,7 @@ The Twelve Huntsmen
 'who': WHO
 'favoured': TPAEUFRD/A*U
 'the': -T
-'huntsmen,': HUPBTS/PH*EPB KW-BG
+'huntsmen,': HUPBTS/PH*EPB/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -589,10 +589,10 @@ The Twelve Huntsmen
 'them': THEPL
 'and': SKP
 'repeated': RE/PAOETD
-'everything,': EFRG KW-BG
+'everything,': EFRG/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''The': AE KPA/-T
+'said:': SED/STPH-FPLT
+''The': AE/KPA/-T
 'lion': HRO*EUPB
 'wants': WAPBTS
 'to': TO
@@ -603,27 +603,27 @@ The Twelve Huntsmen
 'that': THA
 'you': U
 'are': R
-'girls.'': TKPWEURLS TP-PL AE
+'girls.'': TKPWEURLS/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'king's': KEUPBG/AES
 'daughter': TKAUR
 'thanked': THAPBGD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'said': SED
 'to': TO
 'her': HER
-'maidens:': PHAEUD/*EPB/-S STPH-FPLT
-''Show': AE KPA/SHOE
+'maidens:': PHAEUD/*EPB/-S/STPH-FPLT
+''Show': AE/KPA/SHOE
 'some': SOPL
-'strength,': STREPBG KW-BG
+'strength,': STREPBG/KW-BG
 'and': SKP
 'step': STEP
 'firmly': TPEURPL/HREU
 'on': OPB
 'the': -T
-'peas.'': PAOEZ TP-PL AE
+'peas.'': PAOEZ/TP-PL/AE
 'So': KPA/SO
 'next': TPHEGT
 'morning': PHORPBG
@@ -636,31 +636,31 @@ The Twelve Huntsmen
 'huntsmen': HUPBTS/PH*EPB
 'called': KAULD
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'they': THE
 'came': KAEUPL
 'into': TPHAO
 'the': -T
-'ante-chamber': APB/TAOE H-PB KHAEURPL
+'ante-chamber': APB/TAOE/H-PB/KHAEURPL
 'where': W-R
 'the': -T
 'peas': PAOEZ
 'were': WR
-'lying,': HRAOEUG KW-BG
+'lying,': HRAOEUG/KW-BG
 'they': THE
 'stepped': STEPD
 'so': SO
 'firmly': TPEURPL/HREU
 'on': OPB
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'had': H
 'such': SUFP
 'a': AEU
-'strong,': STROPBG KW-BG
+'strong,': STROPBG/KW-BG
 'sure': SHUR
-'walk,': WAUBG KW-BG
+'walk,': WAUBG/KW-BG
 'that': THA
 'not': TPHOT
 'one': WUPB
@@ -670,33 +670,33 @@ The Twelve Huntsmen
 'either': AOERT
 'rolled': ROLD
 'or': OR
-'stirred.': STEURD TP-PL
+'stirred.': STEURD/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'went': WEPBT
 'away': WA*EU
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'the': -T
 'king': KEUPBG
 'said': SED
 'to': TO
 'the': -T
-'lion:': HRO*EUPB STPH-FPLT
-''You': AE KPA/U
+'lion:': HRO*EUPB/STPH-FPLT
+''You': AE/KPA/U
 'have': SR
 'lied': HRAOEUD
 'to': TO
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'they': THE
 'walk': WAUBG
 'just': SKWRUFT
 'like': HRAOEUBG
-'men.'': PHEPB TP-PL AE
+'men.'': PHEPB/TP-PL/AE
 'The': KPA/-T
 'lion': HRO*EUPB
-'said:': SED STPH-FPLT
-''They': AE KPA/THE
+'said:': SED/STPH-FPLT
+''They': AE/KPA/THE
 'have': SR
 'been': PW-PB
 'informed': TPH-FD
@@ -709,21 +709,21 @@ The Twelve Huntsmen
 'put': PUT
 'to': TO
 'the': -T
-'test,': TEFT KW-BG
+'test,': TEFT/KW-BG
 'and': SKP
 'have': SR
 'assumed': A/SAOUPLD
 'some': SOPL
-'strength.': STREPBG TP-PL
+'strength.': STREPBG/TP-PL
 'Just': KPA/SKWRUFT
 'let': HRET
 'twelve': TWEFL
-'spinning-wheels': SPEUPBG H-PB WHAOELS
+'spinning-wheels': SPEUPBG/H-PB/WHAOELS
 'be': -B
 'brought': PWRAUT
 'into': TPHAO
 'the': -T
-'ante-chamber,': APB/TAOE H-PB KHAEURPL KW-BG
+'ante-chamber,': APB/TAOE/H-PB/KHAEURPL/KW-BG
 'and': SKP
 'they': THE
 'will': HR
@@ -734,7 +734,7 @@ The Twelve Huntsmen
 'be': -B
 'pleased': PHREFD
 'with': W
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'that': THA
 'is': S
@@ -742,37 +742,37 @@ The Twelve Huntsmen
 'no': TPHO
 'man': PHAPB
 'would': WO
-'do.'': TKO TP-PL AE
+'do.'': TKO/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'liked': HRAOEUBGD
 'the': -T
-'advice,': SREUS KW-BG
+'advice,': SREUS/KW-BG
 'and': SKP
 'had': H
 'the': -T
-'spinning-wheels': SPEUPBG H-PB WHAOELS
+'spinning-wheels': SPEUPBG/H-PB/WHAOELS
 'placed': PHRAEUFD
 'in': TPH
 'the': -T
-'ante-chamber.': APB/TAOE H-PB KHAEURPL TP-PL
+'ante-chamber.': APB/TAOE/H-PB/KHAEURPL/TP-PL
 'But': KPA/PWUT
 'the': -T
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'who': WHO
 'was': WAS
 'well': WEL
 'disposed': TKEUS/POES/-D
 'to': TO
 'the': -T
-'huntsmen,': HUPBTS/PH*EPB KW-BG
+'huntsmen,': HUPBTS/PH*EPB/KW-BG
 'went': WEPBT
 'to': TO
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'disclosed': TKEUS/HROES/-D
 'the': -T
-'project.': PROPBLG TP-PL
+'project.': PROPBLG/TP-PL
 'So': KPA/SO
 'when': WHEPB
 'they': THE
@@ -785,10 +785,10 @@ The Twelve Huntsmen
 'to': TO
 'her': HER
 'eleven': HREFPB
-'girls:': TKPWEURLS STPH-FPLT
-''Show': AE KPA/SHOE
+'girls:': TKPWEURLS/STPH-FPLT
+''Show': AE/KPA/SHOE
 'some': SOPL
-'constraint,': SKRAEUPBT KW-BG
+'constraint,': SKRAEUPBT/KW-BG
 'and': SKP
 'do': TKO
 'not': TPHOT
@@ -796,7 +796,7 @@ The Twelve Huntsmen
 'round': ROUPBD
 'at': AT
 'the': -T
-'spinning-wheels.'': SPEUPBG H-PB WHAOELS TP-PL AE
+'spinning-wheels.'': SPEUPBG/H-PB/WHAOELS/TP-PL/AE
 'And': AFPBD
 'next': TPHEGT
 'morning': PHORPBG
@@ -807,19 +807,19 @@ The Twelve Huntsmen
 'his': HEUS
 'twelve': TWEFL
 'huntsmen': HUPBTS/PH*EPB
-'summoned,': SPHUPBD KW-BG
+'summoned,': SPHUPBD/KW-BG
 'they': THE
 'went': WEPBT
 'through': THRU
 'the': -T
-'ante-chamber,': APB/TAOE H-PB KHAEURPL KW-BG
+'ante-chamber,': APB/TAOE/H-PB/KHAEURPL/KW-BG
 'and': SKP
 'never': TPHEFR
 'once': WUPBS
 'looked': HRAOBGD
 'at': AT
 'the': -T
-'spinning-wheels.': SPEUPBG H-PB WHAOELS TP-PL
+'spinning-wheels.': SPEUPBG/H-PB/WHAOELS/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'king': KEUPBG
@@ -827,14 +827,14 @@ The Twelve Huntsmen
 'said': SED
 'to': TO
 'the': -T
-'lion:': HRO*EUPB STPH-FPLT
-''You': AE KPA/U
+'lion:': HRO*EUPB/STPH-FPLT
+''You': AE/KPA/U
 'have': SR
 'deceived': TKAOE/SAOEFD
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'they': THE
 'are': R
-'men,': PHEPB KW-BG
+'men,': PHEPB/KW-BG
 'for': TPOR
 'they': THE
 'have': SR
@@ -842,23 +842,23 @@ The Twelve Huntsmen
 'looked': HRAOBGD
 'at': AT
 'the': -T
-'spinning-wheels.'': SPEUPBG H-PB WHAOELS TP-PL AE
+'spinning-wheels.'': SPEUPBG/H-PB/WHAOELS/TP-PL/AE
 'The': KPA/-T
 'lion': HRO*EUPB
-'replied:': RE/PHRAOEUD STPH-FPLT
-''They': AE KPA/THE
+'replied:': RE/PHRAOEUD/STPH-FPLT
+''They': AE/KPA/THE
 'have': SR
 'restrained': RAOE/STRAEUPBD
-'themselves.'': TH*EPLS TP-PL AE
+'themselves.'': TH*EPLS/TP-PL/AE
 'The': KPA/-T
-'king,': KEUPBG KW-BG
-'however,': HOUF KW-BG
+'king,': KEUPBG/KW-BG
+'however,': HOUF/KW-BG
 'would': WO
 'no': TPHO
 'longer': HRORPBG
 'believe': PWHREF
 'the': -T
-'lion.': HRO*EUPB TP-PL
+'lion.': HRO*EUPB/TP-PL
 'The': KPA/-T
 'twelve': TWEFL
 'huntsmen': HUPBTS/PH*EPB
@@ -868,14 +868,14 @@ The Twelve Huntsmen
 'king': KEUPBG
 'to': TO
 'the': -T
-'chase,': KHAEUS KW-BG
+'chase,': KHAEUS/KW-BG
 'and': SKP
 'his': HEUS
 'liking': HRAO*EUG
 'for': TPOR
 'them': THEPL
 'continually': TAEPBL
-'increased.': EUPB/KRAOEFD TP-PL
+'increased.': EUPB/KRAOEFD/TP-PL
 'Now': KPA/TPHOU
 'it': T
 'came': KAEUPL
@@ -887,7 +887,7 @@ The Twelve Huntsmen
 'they': THE
 'were': WR
 'out': OUT
-'hunting,': HUPBT/-G KW-BG
+'hunting,': HUPBT/-G/KW-BG
 'news': TPHUS
 'came': KAEUPL
 'that': THA
@@ -895,13 +895,13 @@ The Twelve Huntsmen
 'king's': KEUPBG/AES
 'bride': PWRAOEUD
 'was': WAS
-'approaching.': A/PROEFPG TP-PL
+'approaching.': A/PROEFPG/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'true': TRAOU
 'bride': PWRAOEUD
 'heard': HAERD
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'it': T
 'hurt': HURT
 'her': HER
@@ -912,14 +912,14 @@ The Twelve Huntsmen
 'heart': HART
 'was': WAS
 'almost': HR-PL
-'broken,': PWROEPB KW-BG
+'broken,': PWROEPB/KW-BG
 'and': SKP
 'she': SHE
 'fell': TPEL
 'fainting': TPAEUPBT/-G
 'to': TO
 'the': -T
-'ground.': TKPWROUPBD TP-PL
+'ground.': TKPWROUPBD/TP-PL
 'The': KPA/-T
 'king': KEUPBG
 'thought': THAUT
@@ -929,20 +929,20 @@ The Twelve Huntsmen
 'to': TO
 'his': HEUS
 'dear': TKAER
-'huntsman,': HUPBTS/PHA*PB KW-BG
+'huntsman,': HUPBTS/PHA*PB/KW-BG
 'ran': RAPB
 'up': UP
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'wanted': WAPBTD
 'to': TO
 'help': HEP
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'drew': TKRAOU
 'his': HEUS
 'glove': TKPWHROF
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'saw': SAU
@@ -955,7 +955,7 @@ The Twelve Huntsmen
 'to': TO
 'his': HEUS
 'first': TPEUFRT
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -965,7 +965,7 @@ The Twelve Huntsmen
 'face': TPAEUS
 'he': HE
 'recognized': REFD
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'his': HEUS
 'heart': HART
@@ -975,7 +975,7 @@ The Twelve Huntsmen
 'that': THA
 'he': HE
 'kissed': K*EUFD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'when': WHEPB
 'she': SHE
@@ -983,14 +983,14 @@ The Twelve Huntsmen
 'her': HER
 'eyes': AO*EUS
 'he': HE
-'said:': SED STPH-FPLT
-''You': AE KPA/U
+'said:': SED/STPH-FPLT
+''You': AE/KPA/U
 'are': R
-'mine,': PHAOEUPB KW-BG
+'mine,': PHAOEUPB/KW-BG
 'and': SKP
 'I': EU
 'am': APL
-'yours,': KWROURS KW-BG
+'yours,': KWROURS/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
@@ -999,7 +999,7 @@ The Twelve Huntsmen
 'world': WORLD
 'can': K
 'alter': AURLT
-'that.'': THA TP-PL AE
+'that.'': THA/TP-PL/AE
 'He': KPA/HE
 'sent': SEPBT
 'a': AEU
@@ -1007,7 +1007,7 @@ The Twelve Huntsmen
 'to': TO
 'the': -T
 'other': OER
-'bride,': PWRAOEUD KW-BG
+'bride,': PWRAOEUD/KW-BG
 'and': SKP
 'entreated': SPWRAOET/-D
 'her': HER
@@ -1016,13 +1016,13 @@ The Twelve Huntsmen
 'to': TO
 'her': HER
 'own': OEPB
-'kingdom,': KEUPBG/TKOPL KW-BG
+'kingdom,': KEUPBG/TKOPL/KW-BG
 'for': TPOR
 'he': HE
 'had': H
 'a': AEU
 'wife': WAOEUF
-'already,': HR-R KW-BG
+'already,': HR-R/KW-BG
 'and': SKP
 'someone': SPH-PB
 'who': WHO
@@ -1037,12 +1037,12 @@ The Twelve Huntsmen
 'require': RAOEUR
 'a': AEU
 'new': TPHU
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'Thereupon': KPA/THRUP
 'the': -T
 'wedding': WEGD
 'was': WAS
-'celebrated,': SEL/PWRAEUT/-D KW-BG
+'celebrated,': SEL/PWRAEUT/-D/KW-BG
 'and': SKP
 'the': -T
 'lion': HRO*EUPB
@@ -1050,12 +1050,12 @@ The Twelve Huntsmen
 'again': TKPWEPB
 'taken': TAEPB
 'into': TPHAO
-'favour,': TPAEU/SROUR KW-BG
-'because,': PWAU KW-BG
+'favour,': TPAEU/SROUR/KW-BG
+'because,': PWAU/KW-BG
 'after': AF
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'he': HE
 'had': H
 'told': TOLD
 'the': -T
-'truth.': TRAO*UT TP-PL
+'truth.': TRAO*UT/TP-PL

@@ -2,7 +2,7 @@ The Willow-Wren and the Bear
 
 'Once': KPA/WUPBS
 'in': TPH
-'summer-time': SAOURPL TA*EPL
+'summer-time': SAOURPL/TA*EPL
 'the': -T
 'bear': PWAER
 'and': SKP
@@ -12,7 +12,7 @@ The Willow-Wren and the Bear
 'walking': WAUG
 'in': TPH
 'the': -T
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'the': -T
 'bear': PWAER
@@ -24,9 +24,9 @@ The Willow-Wren and the Bear
 'beautifully': PWAOUFL/HREU
 'that': THA
 'he': HE
-'said:': SED STPH-FPLT
-''Brother': AE KPA/PWROER
-'wolf,': WOFL KW-BG
+'said:': SED/STPH-FPLT
+''Brother': AE/KPA/PWROER
+'wolf,': WOFL/KW-BG
 'what': WHA
 'bird': PWEURD
 'is': S
@@ -34,37 +34,37 @@ The Willow-Wren and the Bear
 'that': THA
 'sings': SEUPBGS
 'so': SO
-'well?'': WEL H-F AE
-''That': AE KPA/THA
+'well?'': WEL/H-F/AE
+''That': AE/KPA/THA
 'is': S
 'the': -T
 'King': KO*EUPBG
 'of': -F
-'birds,'': PWEURDZ KW-BG AE
+'birds,'': PWEURDZ/KW-BG/AE
 'said': SED
 'the': -T
-'wolf,': WOFL KW-BG
-''before': AE PW-FR
+'wolf,': WOFL/KW-BG
+''before': AE/PW-FR
 'whom': WHOPL
 'we': WE
 'must': PHUFT
 'bow': PWOE
-'down.'': TKOUPB TP-PL AE
+'down.'': TKOUPB/TP-PL/AE
 'In': KPA/TPH
 'reality': RAOELT
 'the': -T
 'bird': PWEURD
 'was': WAS
 'the': -T
-'willow-wren.': WEUL/HROE H-PB WREPB TP-PL
-''IF': AE *URP/TP
+'willow-wren.': WEUL/HROE/H-PB/WREPB/TP-PL
+''IF': AE/*URP/TP
 'that's': THATS
 'the': -T
-'case,'': KAEUS KW-BG AE
+'case,'': KAEUS/KW-BG/AE
 'said': SED
 'the': -T
-'bear,': PWAER KW-BG
-''I': AE EU
+'bear,': PWAER/KW-BG
+''I': AE/EU
 'should': SHO
 'very': SRE
 'much': PHUFP
@@ -73,12 +73,12 @@ The Willow-Wren and the Bear
 'see': SAOE
 'his': HEUS
 'royal': ROEUL
-'palace;': PAL/AS STPH*FPLT
-'come,': KOPL KW-BG
+'palace;': PAL/AS/STPH*FPLT
+'come,': KOPL/KW-BG
 'take': TAEUBG
 'me': PHE
-'thither.'': TH*EURT TP-PL AE
-''That': AE KPA/THA
+'thither.'': TH*EURT/TP-PL/AE
+''That': AE/KPA/THA
 'is': S
 'not': TPHOT
 'done': TKOPB
@@ -87,19 +87,19 @@ The Willow-Wren and the Bear
 'you': U
 'seem': SAOEPL
 'to': TO
-'think,'': THEU KW-BG AE
+'think,'': THEU/KW-BG/AE
 'said': SED
 'the': -T
-'wolf;': WOFL STPH*FPLT
-''you': AE U
+'wolf;': WOFL/STPH*FPLT
+''you': AE/U
 'must': PHUFT
 'wait': WAEUT
 'until': TPH-L
 'the': -T
 'Queen': KWAO*EPB
-'comes,'': KOPLS KW-BG AE
+'comes,'': KOPLS/KW-BG/AE
 'Soon': KPA/SAOPB
-'afterwards,': A*FRDZ KW-BG
+'afterwards,': A*FRDZ/KW-BG
 'the': -T
 'Queen': KWAO*EPB
 'arrived': A/RAOEUFD
@@ -108,13 +108,13 @@ The Willow-Wren and the Bear
 'food': TPAOD
 'in': TPH
 'her': HER
-'beak,': PWAOEBG KW-BG
+'beak,': PWAOEBG/KW-BG
 'and': SKP
 'the': -T
 'lord': HRORD
 'King': KO*EUPBG
 'came': KAEUPL
-'too,': TAO KW-BG
+'too,': TAO/KW-BG
 'and': SKP
 'they': THE
 'began': TKPWAPB
@@ -122,7 +122,7 @@ The Willow-Wren and the Bear
 'feed': TPAOED
 'their': THAEUR
 'young': KWRUPBG
-'ones.': WUPBZ TP-PL
+'ones.': WUPBZ/TP-PL
 'The': KPA/-T
 'bear': PWAER
 'would': WO
@@ -131,7 +131,7 @@ The Willow-Wren and the Bear
 'to': TO
 'go': TKPW
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'but': PWUT
 'the': -T
 'wolf': WOFL
@@ -140,10 +140,10 @@ The Willow-Wren and the Bear
 'back': PWABG
 'by': PWEU
 'the': -T
-'sleeve,': SHRAOEF KW-BG
+'sleeve,': SHRAOEF/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''No,': AE KPA/TPHO KW-BG
+'said:': SED/STPH-FPLT
+''No,': AE/KPA/TPHO/KW-BG
 'you': U
 'must': PHUFT
 'wait': WAEUT
@@ -156,7 +156,7 @@ The Willow-Wren and the Bear
 'have': SR
 'gone': TKPWOPB
 'away': WA*EU
-'again.'': TKPWEPB TP-PL AE
+'again.'': TKPWEPB/TP-PL/AE
 'So': KPA/SO
 'they': THE
 'took': TAOBG
@@ -167,13 +167,13 @@ The Willow-Wren and the Bear
 'where': W-R
 'the': -T
 'nest': TPHEFT
-'lay,': HRAEU KW-BG
+'lay,': HRAEU/KW-BG
 'and': SKP
 'trotted': TROT/-D
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'The': KPA/-T
-'bear,': PWAER KW-BG
-'however,': HOUF KW-BG
+'bear,': PWAER/KW-BG
+'however,': HOUF/KW-BG
 'could': KO
 'not': TPHOT
 'rest': REFT
@@ -183,18 +183,18 @@ The Willow-Wren and the Bear
 'seen': SAOEPB
 'the': -T
 'royal': ROEUL
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'and': SKP
 'when': WHEPB
 'a': AEU
 'short': SHORT
 'time': TAOEUPL
 'had': H
-'passed,': PAFD KW-BG
+'passed,': PAFD/KW-BG
 'went': WEPBT
 'to': TO
 'it': T
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'The': KPA/-T
 'King': KO*EUPBG
 'and': SKP
@@ -202,7 +202,7 @@ The Willow-Wren and the Bear
 'had': H
 'just': SKWRUFT
 'flown': TPHROEPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'so': SO
 'he': HE
 'peeped': PAOEPD
@@ -215,67 +215,67 @@ The Willow-Wren and the Bear
 'young': KWRUPBG
 'ones': WUPBZ
 'lying': HRAOEUG
-'there.': THR TP-PL
-''Is': AE KPA/S
+'there.': THR/TP-PL
+''Is': AE/KPA/S
 'that': THA
 'the': -T
 'royal': ROEUL
-'palace?'': PAL/AS H-F AE
+'palace?'': PAL/AS/H-F/AE
 'cried': KRAOEUD
 'the': -T
-'bear;': PWAER STPH*FPLT
-''it': AE T
+'bear;': PWAER/STPH*FPLT
+''it': AE/T
 'is': S
 'a': AEU
 'wretched': WREFPD
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'and': SKP
 'you': U
 'are': R
 'not': TPHOT
-'King's': KO*EUPBG AES
-'children,': KHEURPB KW-BG
+'King's': KO*EUPBG/AES
+'children,': KHEURPB/KW-BG
 'you': U
 'are': R
 'disreputable': TKEUS/REPT/-BL
-'children!'': KHEURPB SKHRAPL AE
+'children!'': KHEURPB/SKHRAPL/AE
 'When': KPA/WHEPB
 'the': -T
 'young': KWRUPBG
 'wrens': WREPB/-S
 'heard': HAERD
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'they': THE
 'were': WR
 'frightfully': TPRAOEUT/-FL/HREU
-'angry,': APBG/REU KW-BG
+'angry,': APBG/REU/KW-BG
 'and': SKP
-'screamed:': SKRAOEPLD STPH-FPLT
-''No,': AE KPA/TPHO KW-BG
+'screamed:': SKRAOEPLD/STPH-FPLT
+''No,': AE/KPA/TPHO/KW-BG
 'that': THA
 'we': WE
 'are': R
-'not!': TPHOT SKHRAPL
+'not!': TPHOT/SKHRAPL
 'Our': KPA/OUR
 'parents': PARPBTS
 'are': R
 'honest': HOPBS
-'people!': PAOEPL SKHRAPL
-'Bear,': KPA/PWAER KW-BG
+'people!': PAOEPL/SKHRAPL
+'Bear,': KPA/PWAER/KW-BG
 'you': U
 'will': HR
 'have': SR
 'to': TO
 'pay': PAEU
 'for': TPOR
-'that!'': THA SKHRAPL AE
+'that!'': THA/SKHRAPL/AE
 'The': KPA/-T
 'bear': PWAER
 'and': SKP
 'the': -T
 'wolf': WOFL
 'grew': TKPWRAOU
-'uneasy,': UPB/EZ KW-BG
+'uneasy,': UPB/EZ/KW-BG
 'and': SKP
 'turned': TURPBD
 'back': PWABG
@@ -283,16 +283,16 @@ The Willow-Wren and the Bear
 'went': WEPBT
 'into': TPHAO
 'their': THAEUR
-'holes.': HOELS TP-PL
+'holes.': HOELS/TP-PL
 'The': KPA/-T
 'young': KWRUPBG
-'willow-wrens,': WEUL/HROE H-PB WREPB/-S KW-BG
-'however,': HOUF KW-BG
+'willow-wrens,': WEUL/HROE/H-PB/WREPB/-S/KW-BG
+'however,': HOUF/KW-BG
 'continued': T-PBD
 'to': TO
 'cry': KRAOEU
 'and': SKP
-'scream,': SKRAOEPL KW-BG
+'scream,': SKRAOEPL/KW-BG
 'and': SKP
 'when': WHEPB
 'their': THAEUR
@@ -301,8 +301,8 @@ The Willow-Wren and the Bear
 'brought': PWRAUT
 'food': TPAOD
 'they': THE
-'said:': SED STPH-FPLT
-''We': AE KPA/WE
+'said:': SED/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'not': TPHOT
 'so': SO
@@ -310,8 +310,8 @@ The Willow-Wren and the Bear
 'as': AS
 'touch': TUFP
 'one': WUPB
-'fly's': TPHRAOEU AES
-'leg,': HREG KW-BG
+'fly's': TPHRAOEU/AES
+'leg,': HREG/KW-BG
 'no,': TPHORBGS
 'not': TPHOT
 'if': TP
@@ -319,7 +319,7 @@ The Willow-Wren and the Bear
 'were': WR
 'dying': TKAOEUG
 'of': -F
-'hunger,': HURPBG KW-BG
+'hunger,': HURPBG/KW-BG
 'until': TPH-L
 'you': U
 'have': SR
@@ -330,7 +330,7 @@ The Willow-Wren and the Bear
 'respectable': R-PT/-BL
 'children': KHEURPB
 'or': OR
-'not;': TPHOT STPH*FPLT
+'not;': TPHOT/STPH*FPLT
 'the': -T
 'bear': PWAER
 'has': HAS
@@ -339,18 +339,18 @@ The Willow-Wren and the Bear
 'and': SKP
 'has': HAS
 'insulted': EUPB/SULT/-D
-'us!'': US SKHRAPL AE
+'us!'': US/SKHRAPL/AE
 'Then': KPA/THEPB
 'the': -T
 'old': OLD
 'King': KO*EUPBG
-'said:': SED STPH-FPLT
-''Be': AE KPA/-B
-'easy,': EZ KW-BG
+'said:': SED/STPH-FPLT
+''Be': AE/KPA/-B
+'easy,': EZ/KW-BG
 'he': HE
 'shall': SHAL
 'be': -B
-'punished,'': PUPBD KW-BG AE
+'punished,'': PUPBD/KW-BG/AE
 'and': SKP
 'he': HE
 'at': AT
@@ -361,41 +361,41 @@ The Willow-Wren and the Bear
 'Queen': KWAO*EPB
 'to': TO
 'the': -T
-'bear's': PWAER AES
-'cave,': KAEUF KW-BG
+'bear's': PWAER/AES
+'cave,': KAEUF/KW-BG
 'and': SKP
 'called': KAULD
-'in:': TPH STPH-FPLT
-''Old': AE KPA/OLD
-'Growler,': xxx Growler KW-BG
+'in:': TPH/STPH-FPLT
+''Old': AE/KPA/OLD
+'Growler,': xxx Growler/KW-BG
 'why': KWR
 'have': SR
 'you': U
 'insulted': EUPB/SULT/-D
 'my': PHEU
-'children?': KHEURPB H-F
+'children?': KHEURPB/H-F
 'You': KPA/U
 'shall': SHAL
 'suffer': SUFR
 'for': TPOR
-'it--we': T H-PB H-PB WE
+'it--we': T/H-PB/H-PB/WE
 'will': HR
 'punish': P-RB
 'you': U
 'by': PWEU
 'a': AEU
 'bloody': PWHRAO/TKEU
-'war.'': WAR TP-PL AE
+'war.'': WAR/TP-PL/AE
 'Thus': KPA/THUS
 'war': WAR
 'was': WAS
 'announced': A/TPHOUPBS/-D
 'to': TO
 'the': -T
-'Bear,': KPA/PWAER KW-BG
+'Bear,': KPA/PWAER/KW-BG
 'and': SKP
 'all': AUL
-'four-footed': TPOUR H-PB TPAOT/-D
+'four-footed': TPOUR/H-PB/TPAOT/-D
 'animals': PHAPBLS
 'were': WR
 'summoned': SPHUPBD
@@ -403,44 +403,44 @@ The Willow-Wren and the Bear
 'take': TAEUBG
 'part': PART
 'in': TPH
-'it,': T KW-BG
-'oxen,': OBGS/*EPB KW-BG
-'asses,': A*S/-S KW-BG
-'cows,': KOUS KW-BG
-'deer,': TKAOER KW-BG
+'it,': T/KW-BG
+'oxen,': OBGS/*EPB/KW-BG
+'asses,': A*S/-S/KW-BG
+'cows,': KOUS/KW-BG
+'deer,': TKAOER/KW-BG
 'and': SKP
 'every': EF
 'other': OER
 'animal': PHAPBL
 'the': -T
 'earth': *ERT
-'contained.': KAUPB/TAEUPBD TP-PL
+'contained.': KAUPB/TAEUPBD/TP-PL
 'And': AFPBD
 'the': -T
-'willow-wren': WEUL/HROE H-PB WREPB
+'willow-wren': WEUL/HROE/H-PB/WREPB
 'summoned': SPHUPBD
 'everything': EFRG
 'which': WEU
 'flew': TPHRAOU
 'in': TPH
 'the': -T
-'air,': AEUR KW-BG
+'air,': AEUR/KW-BG
 'not': TPHOT
 'only': OEPBL
-'birds,': PWEURDZ KW-BG
+'birds,': PWEURDZ/KW-BG
 'large': HRARPBLG
 'and': SKP
-'small,': SPHAL KW-BG
+'small,': SPHAL/KW-BG
 'but': PWUT
-'midges,': PHEUPBLG/-S KW-BG
+'midges,': PHEUPBLG/-S/KW-BG
 'and': SKP
-'hornets,': HORPBT/-S KW-BG
+'hornets,': HORPBT/-S/KW-BG
 'bees': PWAOES
 'and': SKP
 'flies': TPHRAOEUS
 'had': H
 'to': TO
-'come.': KOPL TP-PL
+'come.': KOPL/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'time': TAOEUPL
@@ -449,9 +449,9 @@ The Willow-Wren and the Bear
 'the': -T
 'war': WAR
 'to': TO
-'begin,': TKPWEUPB KW-BG
+'begin,': TKPWEUPB/KW-BG
 'the': -T
-'willow-wren': WEUL/HROE H-PB WREPB
+'willow-wren': WEUL/HROE/H-PB/WREPB
 'sent': SEPBT
 'out': OUT
 'spies': SPAOEU/-S
@@ -461,14 +461,14 @@ The Willow-Wren and the Bear
 'was': WAS
 'the': -T
 'enemy's': EPB/PHEU/AES
-'commander-in-chief.': KPHAPBD/*ER H-PB TPH H-PB KHAOEF TP-PL
+'commander-in-chief.': KPHAPBD/*ER/H-PB/TPH/H-PB/KHAOEF/TP-PL
 'The': KPA/-T
-'gnat,': TPHA*T KW-BG
+'gnat,': TPHA*T/KW-BG
 'who': WHO
 'was': WAS
 'the': -T
 'most': PHOFT
-'crafty,': KRAF/TEU KW-BG
+'crafty,': KRAF/TEU/KW-BG
 'flew': TPHRAOU
 'into': TPHAO
 'the': -T
@@ -477,7 +477,7 @@ The Willow-Wren and the Bear
 'the': -T
 'enemy': TPHAEPL
 'was': WAS
-'assembled,': A/SEPL/-BLD KW-BG
+'assembled,': A/SEPL/-BLD/KW-BG
 'and': SKP
 'hid': HEUD
 'herself': H*ERS
@@ -493,11 +493,11 @@ The Willow-Wren and the Bear
 'was': WAS
 'to': TO
 'be': -B
-'announced.': A/TPHOUPBS/-D TP-PL
+'announced.': A/TPHOUPBS/-D/TP-PL
 'There': KPA/THR
 'stood': STAOD
 'the': -T
-'bear,': PWAER KW-BG
+'bear,': PWAER/KW-BG
 'and': SKP
 'he': HE
 'called': KAULD
@@ -506,8 +506,8 @@ The Willow-Wren and the Bear
 'before': PW-FR
 'him': HEUPL
 'and': SKP
-'said:': SED STPH-FPLT
-''Fox,': AE KPA/TPOBGS KW-BG
+'said:': SED/STPH-FPLT
+''Fox,': AE/KPA/TPOBGS/KW-BG
 'you': U
 'are': R
 'the': -T
@@ -515,40 +515,40 @@ The Willow-Wren and the Bear
 'cunning': KUPBG
 'of': -F
 'all': AUL
-'animals,': PHAPBLS KW-BG
+'animals,': PHAPBLS/KW-BG
 'you': U
 'shall': SHAL
 'be': -B
 'general': SKWREPBL
 'and': SKP
 'lead': HRAED
-'us.'': US TP-PL AE
-''Good,'': AE KPA/TKPWAOD KW-BG AE
+'us.'': US/TP-PL/AE
+''Good,'': AE/KPA/TKPWAOD/KW-BG/AE
 'said': SED
 'the': -T
-'fox,': TPOBGS KW-BG
-''but': AE PWUT
+'fox,': TPOBGS/KW-BG
+''but': AE/PWUT
 'what': WHA
 'signal': STPHAL
 'shall': SHAL
 'we': WE
 'agree': TKPWRAE
-'upon?'': POPB H-F AE
+'upon?'': POPB/H-F/AE
 'No': KPA/TPHO
 'one': WUPB
 'knew': TPHAOU
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'so': SO
 'the': -T
 'fox': TPOBGS
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'have': SR
 'a': AEU
 'fine': TPAOEUPB
 'long': HROPBG
 'bushy': PWURB/KWREU
-'tail,': TAEUL KW-BG
+'tail,': TAEUL/KW-BG
 'which': WEU
 'almost': HR-PL
 'looks': HRAOBGS
@@ -557,7 +557,7 @@ The Willow-Wren and the Bear
 'plume': PHRAOUPL
 'of': -F
 'red': RED
-'feathers.': TP*ET/ERS TP-PL
+'feathers.': TP*ET/ERS/TP-PL
 'When': KPA/WHEPB
 'I': EU
 'lift': HREUFT
@@ -565,62 +565,62 @@ The Willow-Wren and the Bear
 'tail': TAEUL
 'up': UP
 'quite': KWAOEUT
-'high,': HAOEU KW-BG
+'high,': HAOEU/KW-BG
 'all': AUL
 'is': S
 'going': TKPW-G
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'you': U
 'must': PHUFT
-'charge;': KHARPBLG STPH*FPLT
+'charge;': KHARPBLG/STPH*FPLT
 'but': PWUT
 'if': TP
 'I': EU
 'let': HRET
 'it': T
 'hang': HAPBG
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'run': RUPB
 'away': WA*EU
 'as': AS
 'fast': TPAFT
 'as': AS
 'you': U
-'can.'': K TP-PL AE
+'can.'': K/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'gnat': TPHA*T
 'had': H
 'heard': HAERD
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'she': SHE
 'flew': TPHRAOU
 'away': WA*EU
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'revealed': RE/SRAOELD
-'everything,': EFRG KW-BG
+'everything,': EFRG/KW-BG
 'down': TKOUPB
 'to': TO
 'the': -T
 'minutest': PH*/*EU/TPH*/*U/T*/*E/S*/T*
-'detail,': TKE/TAEUL KW-BG
+'detail,': TKE/TAEUL/KW-BG
 'to': TO
 'the': -T
-'willow-wren.': WEUL/HROE H-PB WREPB TP-PL
+'willow-wren.': WEUL/HROE/H-PB/WREPB/TP-PL
 'When': KPA/WHEPB
 'day': TKAEU
-'broke,': PWROEBG KW-BG
+'broke,': PWROEBG/KW-BG
 'and': SKP
 'the': -T
 'battle': PWA*LT
 'was': WAS
 'to': TO
-'begin,': TKPWEUPB KW-BG
+'begin,': TKPWEUPB/KW-BG
 'all': AUL
 'the': -T
-'four-footed': TPOUR H-PB TPAOT/-D
+'four-footed': TPOUR/H-PB/TPAOT/-D
 'animals': PHAPBLS
 'came': KAEUPL
 'running': R*UPBG
@@ -632,9 +632,9 @@ The Willow-Wren and the Bear
 'that': THA
 'the': -T
 'earth': *ERT
-'trembled.': TREPL/-BLD TP-PL
+'trembled.': TREPL/-BLD/TP-PL
 'The': KPA/-T
-'willow-wren': WEUL/HROE H-PB WREPB
+'willow-wren': WEUL/HROE/H-PB/WREPB
 'with': W
 'his': HEUS
 'army': AERPL
@@ -647,9 +647,9 @@ The Willow-Wren and the Bear
 'with': W
 'such': SUFP
 'a': AEU
-'humming,': HUPL/-G KW-BG
+'humming,': HUPL/-G/KW-BG
 'and': SKP
-'whirring,': WHEUR/-G KW-BG
+'whirring,': WHEUR/-G/KW-BG
 'and': SKP
 'swarming': SWARPL/-G
 'that': THA
@@ -658,7 +658,7 @@ The Willow-Wren and the Bear
 'was': WAS
 'uneasy': UPB/EZ
 'and': SKP
-'afraid,': A/TPRAEUD KW-BG
+'afraid,': A/TPRAEUD/KW-BG
 'and': SKP
 'on': OPB
 'both': PWO*T
@@ -667,35 +667,35 @@ The Willow-Wren and the Bear
 'advanced': SRAPBS/-D
 'against': TKPWEPBS
 'each': AOEFP
-'other.': OER TP-PL
+'other.': OER/TP-PL
 'But': KPA/PWUT
 'the': -T
-'willow-wren': WEUL/HROE H-PB WREPB
+'willow-wren': WEUL/HROE/H-PB/WREPB
 'sent': SEPBT
 'down': TKOUPB
 'the': -T
-'hornet,': HORPBT KW-BG
+'hornet,': HORPBT/KW-BG
 'with': W
 'orders': ORDZ
 'to': TO
 'settle': SELT
 'beneath': TPHAO*ET
 'the': -T
-'fox's': TPOBGS AES
-'tail,': TAEUL KW-BG
+'fox's': TPOBGS/AES
+'tail,': TAEUL/KW-BG
 'and': SKP
 'sting': STEUPBG
 'with': W
 'all': AUL
 'his': HEUS
-'might.': PHAOEUT TP-PL
+'might.': PHAOEUT/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'fox': TPOBGS
 'felt': TPELT
 'the': -T
 'first': TPEUFRT
-'string,': STREUPBG KW-BG
+'string,': STREUPBG/KW-BG
 'he': HE
 'started': STARTD
 'so': SO
@@ -703,13 +703,13 @@ The Willow-Wren and the Bear
 'he': HE
 'lifted': HREUFTD
 'one': WUPB
-'leg,': HREG KW-BG
+'leg,': HREG/KW-BG
 'from': TPR
-'pain,': PAEUPB KW-BG
+'pain,': PAEUPB/KW-BG
 'but': PWUT
 'he': HE
 'bore': PWOR
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'still': STEUL
 'kept': KEPT
@@ -718,11 +718,11 @@ The Willow-Wren and the Bear
 'high': HAOEU
 'in': TPH
 'the': -T
-'air;': AEUR STPH*FPLT
+'air;': AEUR/STPH*FPLT
 'at': AT
 'the': -T
 'second': SEBGD
-'sting,': STEUPBG KW-BG
+'sting,': STEUPBG/KW-BG
 'he': HE
 'was': WAS
 'forced': TPOFRD
@@ -732,49 +732,49 @@ The Willow-Wren and the Bear
 'down': TKOUPB
 'for': TPOR
 'a': AEU
-'moment;': PHOEPLT STPH*FPLT
+'moment;': PHOEPLT/STPH*FPLT
 'at': AT
 'the': -T
-'third,': THEURD KW-BG
+'third,': THEURD/KW-BG
 'he': HE
 'could': KO
 'hold': HOLD
 'out': OUT
 'no': TPHO
-'longer,': HRORPBG KW-BG
-'screamed,': SKRAOEPLD KW-BG
+'longer,': HRORPBG/KW-BG
+'screamed,': SKRAOEPLD/KW-BG
 'and': SKP
 'put': PUT
 'his': HEUS
 'tail': TAEUL
 'between': TWAOEPB
 'his': HEUS
-'legs.': HREGS TP-PL
+'legs.': HREGS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'animals': PHAPBLS
 'saw': SAU
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'they': THE
 'thought': THAUT
 'all': AUL
 'was': WAS
-'lost,': HRO*S KW-BG
+'lost,': HRO*S/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
-'flee,': TPHRAOE KW-BG
+'flee,': TPHRAOE/KW-BG
 'each': AOEFP
 'into': TPHAO
 'his': HEUS
-'hole,': HOEL KW-BG
+'hole,': HOEL/KW-BG
 'and': SKP
 'the': -T
 'birds': PWEURDZ
 'had': H
 'won': WOPB
 'the': -T
-'battle.': PWA*LT TP-PL
+'battle.': PWA*LT/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'King': KO*EUPBG
@@ -786,38 +786,38 @@ The Willow-Wren and the Bear
 'their': THAEUR
 'children': KHEURPB
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Children,': AE KPA/KHEURPB KW-BG
-'rejoice,': RE/SKWROEUS KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Children,': AE/KPA/KHEURPB/KW-BG
+'rejoice,': RE/SKWROEUS/KW-BG
 'eat': AOET
 'and': SKP
 'drink': TKREU
 'to': TO
 'your': KWROUR
-'heart's': HART AES
-'content,': KAUPBT KW-BG
+'heart's': HART/AES
+'content,': KAUPBT/KW-BG
 'we': WE
 'have': SR
 'won': WOPB
 'the': -T
-'battle!'': PWA*LT SKHRAPL AE
+'battle!'': PWA*LT/SKHRAPL/AE
 'But': KPA/PWUT
 'the': -T
 'young': KWRUPBG
 'wrens': WREPB/-S
-'said:': SED STPH-FPLT
-''We': AE KPA/WE
+'said:': SED/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'not': TPHOT
 'eat': AOET
-'yet,': KWRET KW-BG
+'yet,': KWRET/KW-BG
 'the': -T
 'bear': PWAER
 'must': PHUFT
 'come': KOPL
 'to': TO
 'the': -T
-'nest,': TPHEFT KW-BG
+'nest,': TPHEFT/KW-BG
 'and': SKP
 'beg': PWEG
 'for': TPOR
@@ -828,23 +828,23 @@ The Willow-Wren and the Bear
 'we': WE
 'are': R
 'honourable': HOPB/RABL/A*U
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'before': PW-FR
 'we': WE
 'will': HR
 'do': TKO
-'that.'': THA TP-PL AE
+'that.'': THA/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
-'willow-wren': WEUL/HROE H-PB WREPB
+'willow-wren': WEUL/HROE/H-PB/WREPB
 'flew': TPHRAOU
 'to': TO
 'the': -T
-'bear's': PWAER AES
+'bear's': PWAER/AES
 'hole': HOEL
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Growler,': AE xxx Growler KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Growler,': AE/xxx Growler/KW-BG
 'you': U
 'are': R
 'to': TO
@@ -854,11 +854,11 @@ The Willow-Wren and the Bear
 'nest': TPHEFT
 'to': TO
 'my': PHEU
-'children,': KHEURPB KW-BG
+'children,': KHEURPB/KW-BG
 'and': SKP
 'beg': PWEG
 'their': THAEUR
-'pardon,': PARD KW-BG
+'pardon,': PARD/KW-BG
 'or': OR
 'else': ELS
 'every': EF
@@ -868,7 +868,7 @@ The Willow-Wren and the Bear
 'body': PWO*ED
 'shall': SHAL
 'be': -B
-'broken.'': PWROEPB TP-PL AE
+'broken.'': PWROEPB/TP-PL/AE
 'So': KPA/SO
 'the': -T
 'bear': PWAER
@@ -877,11 +877,11 @@ The Willow-Wren and the Bear
 'in': TPH
 'the': -T
 'greatest': TKPWRAET/EFT
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'and': SKP
 'begged': PWEGD
 'their': THAEUR
-'pardon.': PARD TP-PL
+'pardon.': PARD/TP-PL
 'And': AFPBD
 'now': TPHOU
 'at': AT
@@ -890,7 +890,7 @@ The Willow-Wren and the Bear
 'young': KWRUPBG
 'wrens': WREPB/-S
 'were': WR
-'satisfied,': SAED KW-BG
+'satisfied,': SAED/KW-BG
 'and': SKP
 'sat': SAT
 'down': TKOUPB
@@ -898,7 +898,7 @@ The Willow-Wren and the Bear
 'and': SKP
 'ate': AEUT
 'and': SKP
-'drank,': TKRA*PBG KW-BG
+'drank,': TKRA*PBG/KW-BG
 'and': SKP
 'made': PHAED
 'merry': PHER/REU
@@ -907,4 +907,4 @@ The Willow-Wren and the Bear
 'late': HRAEUT
 'into': TPHAO
 'the': -T
-'night.': TPHAOEUT TP-PL
+'night.': TPHAOEUT/TP-PL

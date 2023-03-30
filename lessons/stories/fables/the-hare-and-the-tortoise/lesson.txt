@@ -11,22 +11,22 @@ The Hare and the Tortoise
 'before': PW-FR
 'the': -T
 'other': OER
-'animals.': PHAPBLS TP-PL
-'"I': KR-GS EU
+'animals.': PHAPBLS/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'never': TPHEFR
 'yet': KWRET
 'been': PW-PB
-'beaten,"': PWAET/*EPB KW-BG KR-GS
+'beaten,"': PWAET/*EPB/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"when': KR-GS WHEPB
+'he,': HE/KW-BG
+'"when': KR-GS/WHEPB
 'I': EU
 'put': PUT
 'forth': TPO*RT
 'my': PHEU
 'full': TPUL
-'speed.': SPAOED TP-PL
+'speed.': SPAOED/TP-PL
 'I': EU
 'challenge': KHALG
 'any': TPHEU
@@ -35,43 +35,43 @@ The Hare and the Tortoise
 'to': TO
 'race': RAEUS
 'with': W
-'me."': PHE TP-PL KR-GS
+'me."': PHE/TP-PL/KR-GS
 'The': KPA/-T
 'Tortoise': KPA/TOR/TOS
 'said': SED
-'quietly,': KWAO*EULT KW-BG
-'"I': KR-GS EU
+'quietly,': KWAO*EULT/KW-BG
+'"I': KR-GS/EU
 'accept': SEP
 'your': KWROUR
-'challenge."': KHALG TP-PL KR-GS
-'"That': KR-GS KPA/THA
+'challenge."': KHALG/TP-PL/KR-GS
+'"That': KR-GS/KPA/THA
 'is': S
 'a': AEU
 'good': TKPWAOD
-'joke,"': SKWROEBG KW-BG KR-GS
+'joke,"': SKWROEBG/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Hare;': KPA/HA*ER STPH*FPLT
-'"I': KR-GS EU
+'Hare;': KPA/HA*ER/STPH*FPLT
+'"I': KR-GS/EU
 'could': KO
 'dance': TKAPBS
 'round': ROUPBD
 'you': U
 'all': AUL
 'the': -T
-'way."': WAEU TP-PL KR-GS
-'"Keep': KR-GS KPA/KAOEP
+'way."': WAEU/TP-PL/KR-GS
+'"Keep': KR-GS/KPA/KAOEP
 'your': KWROUR
 'boasting': PWOEFT/-G
 'till': TEUL
 'you've': UF
-'beaten,"': PWAET/*EPB KW-BG KR-GS
+'beaten,"': PWAET/*EPB/KW-BG/KR-GS
 'answered': AEPBS/-D
 'the': -T
-'Tortoise.': KPA/TOR/TOS TP-PL
-'"Shall': KR-GS KPA/SHAL
+'Tortoise.': KPA/TOR/TOS/TP-PL
+'"Shall': KR-GS/KPA/SHAL
 'we': WE
-'race?"': RAEUS H-F KR-GS
+'race?"': RAEUS/H-F/KR-GS
 'So': KPA/SO
 'a': AEU
 'course': KORS
@@ -81,7 +81,7 @@ The Hare and the Tortoise
 'a': AEU
 'start': START
 'was': WAS
-'made.': PHAED TP-PL
+'made.': PHAED/TP-PL
 'The': KPA/-T
 'Hare': KPA/HA*ER
 'darted': TKARTD
@@ -90,31 +90,31 @@ The Hare and the Tortoise
 'of': -F
 'sight': SAOEUT
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'but': PWUT
 'soon': SAOPB
 'stopped': STOPD
-'and,': SKP KW-BG
+'and,': SKP/KW-BG
 'to': TO
 'show': SHOE
 'his': HEUS
 'contempt': KAUPB/TEPLT
 'for': TPOR
 'the': -T
-'Tortoise,': KPA/TOR/TOS KW-BG
+'Tortoise,': KPA/TOR/TOS/KW-BG
 'lay': HRAEU
 'down': TKOUPB
 'to': TO
 'have': SR
 'a': AEU
-'nap.': TPHAP TP-PL
+'nap.': TPHAP/TP-PL
 'The': KPA/-T
 'Tortoise': KPA/TOR/TOS
 'plodded': PHROD/-D
 'on': OPB
 'and': SKP
 'plodded': PHROD/-D
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -122,7 +122,7 @@ The Hare and the Tortoise
 'awoke': A/WOEBG
 'from': TPR
 'his': HEUS
-'nap,': TPHAP KW-BG
+'nap,': TPHAP/KW-BG
 'he': HE
 'saw': SAU
 'the': -T
@@ -130,7 +130,7 @@ The Hare and the Tortoise
 'just': SKWRUFT
 'near': TPHAOER
 'the': -T
-'winning-post': W-G H-PB POEFT
+'winning-post': W-G/H-PB/POEFT
 'and': SKP
 'could': KO
 'not': TPHOT
@@ -141,12 +141,12 @@ The Hare and the Tortoise
 'to': TO
 'save': SAF
 'the': -T
-'race.': RAEUS TP-PL
+'race.': RAEUS/TP-PL
 'Then': KPA/THEPB
 'said': SED
 'the': -T
-'Tortoise:': KPA/TOR/TOS STPH-FPLT
-'"Plodding': KR-GS xxx Plodding
+'Tortoise:': KPA/TOR/TOS/STPH-FPLT
+'"Plodding': KR-GS/xxx Plodding
 'wins': WEUPBZ
 'the': -T
-'race."': RAEUS TP-PL KR-GS
+'race."': RAEUS/TP-PL/KR-GS

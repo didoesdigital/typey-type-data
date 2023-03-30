@@ -13,7 +13,7 @@ The Fox and the Horse
 'faithful': TPA*EUT/-FL
 'servant': SEFRB/APBT
 'to': TO
-'him:': HEUPL STPH-FPLT
+'him:': HEUPL/STPH-FPLT
 'but': PWUT
 'he': HE
 'was': WAS
@@ -22,7 +22,7 @@ The Fox and the Horse
 'too': TAO
 'old': OLD
 'to': TO
-'work;': WORBG STPH*FPLT
+'work;': WORBG/STPH*FPLT
 'so': SO
 'the': -T
 'farmer': TPAR/PHER
@@ -32,14 +32,14 @@ The Fox and the Horse
 'nothing': TPHOG
 'more': PHOR
 'to': TO
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'want': WAPBT
 'you': U
 'no': TPHO
-'longer,': HRORPBG KW-BG
+'longer,': HRORPBG/KW-BG
 'so': SO
 'take': TAEUBG
 'yourself': KWRO*URS
@@ -47,7 +47,7 @@ The Fox and the Horse
 'out': OUT
 'of': -F
 'my': PHEU
-'stable;': STABL STPH*FPLT
+'stable;': STABL/STPH*FPLT
 'I': EU
 'shall': SHAL
 'not': TPHOT
@@ -61,7 +61,7 @@ The Fox and the Horse
 'stronger': STRORPBG
 'than': THAPB
 'a': AEU
-'lion.'': HRO*EUPB TP-PL AE
+'lion.'': HRO*EUPB/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'opened': OEPD
@@ -70,13 +70,13 @@ The Fox and the Horse
 'and': SKP
 'turned': TURPBD
 'him': HEUPL
-'adrift.': A/TKREUFT TP-PL
+'adrift.': A/TKREUFT/TP-PL
 'The': KPA/-T
 'poor': PAOR
 'horse': HORS
 'was': WAS
 'very': SRE
-'melancholy,': PHEL/KOL/HREU KW-BG
+'melancholy,': PHEL/KOL/HREU/KW-BG
 'and': SKP
 'wandered': WAPBD/-D
 'up': UP
@@ -84,7 +84,7 @@ The Fox and the Horse
 'down': TKOUPB
 'in': TPH
 'the': -T
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'seeking': SAOEBG/-G
 'some': SOPL
 'little': HREUL
@@ -94,20 +94,20 @@ The Fox and the Horse
 'cold': KOELD
 'wind': WEUPBD
 'and': SKP
-'rain.': RAEUPB TP-PL
+'rain.': RAEUPB/TP-PL
 'Presently': KPA/PREPBLT
 'a': AEU
 'fox': TPOBGS
 'met': PHET
-'him:': HEUPL STPH-FPLT
-''What's': AE KPA/WHA AES
+'him:': HEUPL/STPH-FPLT
+''What's': AE/KPA/WHA/AES
 'the': -T
-'matter,': PHAERT KW-BG
+'matter,': PHAERT/KW-BG
 'my': PHEU
-'friend?'': TPREPBD H-F AE
+'friend?'': TPREPBD/H-F/AE
 'said': SED
-'he,': HE KW-BG
-''why': AE KWR
+'he,': HE/KW-BG
+''why': AE/KWR
 'do': TKO
 'you': U
 'hang': HAPBG
@@ -119,19 +119,19 @@ The Fox and the Horse
 'so': SO
 'lonely': HROEPBL
 'and': SKP
-'woe-begone?'': WOE H-PB xxx begone H-F AE
-''Ah!'': AE KPA/HA*E SKHRAPL AE
+'woe-begone?'': WOE/H-PB/xxx begone/H-F/AE
+''Ah!'': AE/KPA/HA*E/SKHRAPL/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'horse,': HORS KW-BG
-''justice': AE SKWRUFS
+'horse,': HORS/KW-BG
+''justice': AE/SKWRUFS
 'and': SKP
 'avarice': AFR/EUS
 'never': TPHEFR
 'dwell': TKWEL
 'in': TPH
 'one': WUPB
-'house;': HOUS STPH*FPLT
+'house;': HOUS/STPH*FPLT
 'my': PHEU
 'master': PHAFRT
 'has': HAS
@@ -145,7 +145,7 @@ The Fox and the Horse
 'him': HEUPL
 'so': SO
 'many': PHAEPB
-'years,': KWRAOERS KW-BG
+'years,': KWRAOERS/KW-BG
 'and': SKP
 'because': PWAU
 'I': EU
@@ -157,7 +157,7 @@ The Fox and the Horse
 'has': HAS
 'turned': TURPBD
 'me': PHE
-'adrift,': A/TKREUFT KW-BG
+'adrift,': A/TKREUFT/KW-BG
 'and': SKP
 'says': SEZ
 'unless': TPH-LS
@@ -173,26 +173,26 @@ The Fox and the Horse
 'take': TAEUBG
 'me': PHE
 'back': PWABG
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'what': WHA
 'chance': KHAPBS
 'can': K
 'I': EU
 'have': SR
 'of': -F
-'that?': THA H-F
+'that?': THA/H-F
 'he': HE
 'knows': TPHOEZ
 'I': EU
 'have': SR
-'none,': TPHOPB KW-BG
+'none,': TPHOPB/KW-BG
 'or': OR
 'he': HE
 'would': WO
 'not': TPHOT
 'talk': TAUBG
-'so.'': SO TP-PL AE
-'However,': KPA/HOUF KW-BG
+'so.'': SO/TP-PL/AE
+'However,': KPA/HOUF/KW-BG
 'the': -T
 'fox': TPOBGS
 'bid': PWEUD
@@ -200,33 +200,33 @@ The Fox and the Horse
 'be': -B
 'of': -F
 'good': TKPWAOD
-'cheer,': KHAOER KW-BG
+'cheer,': KHAOER/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'will': HR
 'help': HEP
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'lie': HRAOEU
 'down': TKOUPB
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'stretch': STREFP
 'yourself': KWRO*URS
 'out': OUT
 'quite': KWAOEUT
-'stiff,': STEUF KW-BG
+'stiff,': STEUF/KW-BG
 'and': SKP
 'pretend': PRE/TEPBD
 'to': TO
 'be': -B
-'dead.'': TKED TP-PL AE
+'dead.'': TKED/TP-PL/AE
 'The': KPA/-T
 'horse': HORS
 'did': TK
 'as': AS
 'he': HE
 'was': WAS
-'told,': TOLD KW-BG
+'told,': TOLD/KW-BG
 'and': SKP
 'the': -T
 'fox': TPOBGS
@@ -241,19 +241,19 @@ The Fox and the Horse
 'a': AEU
 'cave': KAEUF
 'close': KHROES
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'him,': HEUPL KW-BG
-''A': AE KPA/AEU
+'him,': HEUPL/KW-BG
+''A': AE/KPA/AEU
 'little': HREUL
 'way': WAEU
 'off': OF
 'lies': HRAO*EUS
 'a': AEU
 'dead': TKED
-'horse;': HORS STPH*FPLT
+'horse;': HORS/STPH*FPLT
 'come': KOPL
 'with': W
 'me': PHE
@@ -266,27 +266,27 @@ The Fox and the Horse
 'meal': PHAOEL
 'of': -F
 'his': HEUS
-'carcase.'': xxx carcase TP-PL AE
+'carcase.'': xxx carcase/TP-PL/AE
 'The': KPA/-T
 'lion': HRO*EUPB
 'was': WAS
 'greatly': TKPWRAELT
-'pleased,': PHREFD KW-BG
+'pleased,': PHREFD/KW-BG
 'and': SKP
 'set': SET
 'off': OF
-'immediately;': PHAOELD STPH*FPLT
+'immediately;': PHAOELD/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'the': -T
-'horse,': HORS KW-BG
+'horse,': HORS/KW-BG
 'the': -T
 'fox': TPOBGS
-'said,': SED KW-BG
-''You': AE KPA/U
+'said,': SED/KW-BG
+''You': AE/KPA/U
 'will': HR
 'not': TPHOT
 'be': -B
@@ -295,18 +295,18 @@ The Fox and the Horse
 'eat': AOET
 'him': HEUPL
 'comfortably': KAEBL
-'here;': HAOER STPH*FPLT
+'here;': HAOER/STPH*FPLT
 'I'll': AOEUL
 'tell': TEL
 'you': U
-'what--I': WHA H-PB H-PB EU
+'what--I': WHA/H-PB/H-PB/EU
 'will': HR
 'tie': TAOEU
 'you': U
 'fast': TPAFT
 'to': TO
 'his': HEUS
-'tail,': TAEUL KW-BG
+'tail,': TAEUL/KW-BG
 'and': SKP
 'then': THEPB
 'you': U
@@ -315,18 +315,18 @@ The Fox and the Horse
 'him': HEUPL
 'to': TO
 'your': KWROUR
-'den,': TKEPB KW-BG
+'den,': TKEPB/KW-BG
 'and': SKP
 'eat': AOET
 'him': HEUPL
 'at': AT
 'your': KWROUR
-'leisure.'': HR*ERB TP-PL AE
+'leisure.'': HR*ERB/TP-PL/AE
 'This': KPA/TH
 'advice': SREUS
 'pleased': PHREFD
 'the': -T
-'lion,': HRO*EUPB KW-BG
+'lion,': HRO*EUPB/KW-BG
 'so': SO
 'he': HE
 'laid': HRAEUD
@@ -342,7 +342,7 @@ The Fox and the Horse
 'fast': TPAFT
 'to': TO
 'the': -T
-'horse.': HORS TP-PL
+'horse.': HORS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'fox': TPOBGS
@@ -369,12 +369,12 @@ The Fox and the Horse
 'not': TPHOT
 'set': SET
 'himself': HEUPLS
-'free.': TPRAOE TP-PL
+'free.': TPRAOE/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'work': WORBG
 'was': WAS
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'the': -T
 'fox': TPOBGS
 'clapped': KHRAP/-D
@@ -382,31 +382,31 @@ The Fox and the Horse
 'horse': HORS
 'on': OPB
 'the': -T
-'shoulder,': SHOURLD KW-BG
+'shoulder,': SHOURLD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Jip!': AE xxx Jip SKHRAPL
-'Dobbin!': TKOB/*EUPB SKHRAPL
-'Jip!'': xxx Jip SKHRAPL AE
+'said,': SED/KW-BG
+''Jip!': AE/xxx Jip/SKHRAPL
+'Dobbin!': TKOB/*EUPB/SKHRAPL
+'Jip!'': xxx Jip/SKHRAPL/AE
 'Then': KPA/THEPB
 'up': UP
 'he': HE
-'sprang,': SPRAPBG KW-BG
+'sprang,': SPRAPBG/KW-BG
 'and': SKP
 'moved': PHOFD
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'dragging': TKRAG/-G
 'the': -T
 'lion': HRO*EUPB
 'behind': HEUPBD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'beast': PWAOEFT
 'began': TKPWAPB
 'to': TO
 'roar': ROR
 'and': SKP
-'bellow,': PWEL/HROE KW-BG
+'bellow,': PWEL/HROE/KW-BG
 'till': TEUL
 'all': AUL
 'the': -T
@@ -417,14 +417,14 @@ The Fox and the Horse
 'flew': TPHRAOU
 'away': WA*EU
 'for': TPOR
-'fright;': TPRAOEUT STPH*FPLT
+'fright;': TPRAOEUT/STPH*FPLT
 'but': PWUT
 'the': -T
 'horse': HORS
 'let': HRET
 'him': HEUPL
 'sing': SEUPBG
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'made': PHAED
 'his': HEUS
@@ -435,21 +435,21 @@ The Fox and the Horse
 'fields': TPAOELDZ
 'to': TO
 'his': HEUS
-'master's': PHAFRT AES
-'house.': HOUS TP-PL
-''Here': AE KPA/HAOER
+'master's': PHAFRT/AES
+'house.': HOUS/TP-PL
+''Here': AE/KPA/HAOER
 'he': HE
 'is,': S-RBGS
-'master,'': PHAFRT KW-BG AE
+'master,'': PHAFRT/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''I': AE EU
+'he,': HE/KW-BG
+''I': AE/EU
 'have': SR
 'got': TKPWOT
 'the': -T
 'better': PWOERT
 'of': -F
-'him':': HEUPL AE STPH-FPLT
+'him':': HEUPL/AE/STPH-FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -457,14 +457,14 @@ The Fox and the Horse
 'saw': SAU
 'his': HEUS
 'old': OLD
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'his': HEUS
 'heart': HART
-'relented,': xxx relented KW-BG
+'relented,': xxx relented/KW-BG
 'and': SKP
 'he': HE
-'said.': SED TP-PL
-''Thou': AE KPA/THO*U
+'said.': SED/TP-PL
+''Thou': AE/KPA/THO*U
 'shalt': SHALT
 'stay': STAEU
 'in': TPH
@@ -475,7 +475,7 @@ The Fox and the Horse
 'well': WEL
 'taken': TAEPB
 'care': KAEUR
-'of.'': -F TP-PL AE
+'of.'': -F/TP-PL/AE
 'And': AFPBD
 'so': SO
 'the': -T
@@ -485,8 +485,8 @@ The Fox and the Horse
 'had': H
 'plenty': PHREPBT
 'to': TO
-'eat,': AOET KW-BG
+'eat,': AOET/KW-BG
 'and': SKP
-'lived--till': HREUFD H-PB H-PB TEUL
+'lived--till': HREUFD/H-PB/H-PB/TEUL
 'he': HE
-'died.': TKAOEUD TP-PL
+'died.': TKAOEUD/TP-PL

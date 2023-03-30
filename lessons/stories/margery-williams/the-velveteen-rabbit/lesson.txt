@@ -5,7 +5,7 @@ The Velveteen Rabbit
 'once': WUPBS
 'a': AEU
 'velveteen': SREL/SRE/TAOEPB
-'rabbit,': RABT KW-BG
+'rabbit,': RABT/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -13,29 +13,29 @@ The Velveteen Rabbit
 'he': HE
 'was': WAS
 'really': R-L
-'splendid.': SPHREPB/TKEUD TP-PL
+'splendid.': SPHREPB/TKEUD/TP-PL
 'He': KPA/HE
 'was': WAS
 'fat': TPAT
 'and': SKP
-'bunchy,': PWUFRPB/KWREU KW-BG
+'bunchy,': PWUFRPB/KWREU/KW-BG
 'as': AS
 'a': AEU
 'rabbit': RABT
 'should': SHO
-'be;': -B STPH*FPLT
+'be;': -B/STPH*FPLT
 'his': HEUS
 'coat': KOET
 'was': WAS
 'spotted': SPOT/-D
 'brown': PWROUPB
 'and': SKP
-'white,': WHAOEUT KW-BG
+'white,': WHAOEUT/KW-BG
 'he': HE
 'had': H
 'real': RAEL
 'thread': THRED
-'whiskers,': WHEUS/KER/-S KW-BG
+'whiskers,': WHEUS/KER/-S/KW-BG
 'and': SKP
 'his': HEUS
 'ears': AOERS
@@ -43,10 +43,10 @@ The Velveteen Rabbit
 'lined': HRAOEUPBD
 'with': W
 'pink': P*EUPBG
-'sateen.': SA/TAOEPB TP-PL
+'sateen.': SA/TAOEPB/TP-PL
 'On': KPA/OPB
 'Christmas': KREUS/PHAS
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'when': WHEPB
 'he': HE
 'sat': SAT
@@ -56,8 +56,8 @@ The Velveteen Rabbit
 'top': TOP
 'of': -F
 'the': -T
-'Boy's': KPA/PWOEU AES
-'stocking,': STOBG/-G KW-BG
+'Boy's': KPA/PWOEU/AES
+'stocking,': STOBG/-G/KW-BG
 'with': W
 'a': AEU
 'sprig': SPREUG
@@ -65,32 +65,32 @@ The Velveteen Rabbit
 'holly': HOL/HREU
 'between': TWAOEPB
 'his': HEUS
-'paws,': PAU/-S KW-BG
+'paws,': PAU/-S/KW-BG
 'the': -T
 'effect': EFBGT
 'was': WAS
-'charming.': KHARPL/-G TP-PL
+'charming.': KHARPL/-G/TP-PL
 'There': KPA/THR
 'were': WR
 'other': OER
 'things': THEUPBGS
 'in': TPH
 'the': -T
-'stocking,': STOBG/-G KW-BG
+'stocking,': STOBG/-G/KW-BG
 'nuts': TPHUTS
 'and': SKP
 'oranges': ORPBGS
 'and': SKP
 'a': AEU
 'toy': TOEU
-'engine,': TPH-PBLG KW-BG
+'engine,': TPH-PBLG/KW-BG
 'and': SKP
 'chocolate': KHOBG/HRAT
 'almonds': AL/PHOPBDZ
 'and': SKP
 'a': AEU
 'clockwork': KHROBG/WO*RBG
-'mouse,': PHOUS KW-BG
+'mouse,': PHOUS/KW-BG
 'but': PWUT
 'the': -T
 'Rabbit': KPA/RABT
@@ -99,7 +99,7 @@ The Velveteen Rabbit
 'the': -T
 'best': PWEFT
 'of': -F
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'For': KPA/TPOR
 'at': AT
 'least': HRAOEFT
@@ -108,7 +108,7 @@ The Velveteen Rabbit
 'the': -T
 'Boy': KPA/PWOEU
 'loved': HROFD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'then': THEPB
 'Aunts': KPA/AUPBTS
@@ -116,7 +116,7 @@ The Velveteen Rabbit
 'Uncles': KPA/UPB/K-LS
 'came': KAEUPL
 'to': TO
-'dinner,': TKEURPB KW-BG
+'dinner,': TKEURPB/KW-BG
 'and': SKP
 'there': THR
 'was': WAS
@@ -129,7 +129,7 @@ The Velveteen Rabbit
 'and': SKP
 'unwrapping': UPB/WRAPG
 'of': -F
-'parcels,': PARS/ELS KW-BG
+'parcels,': PARS/ELS/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -145,7 +145,7 @@ The Velveteen Rabbit
 'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'was': WAS
-'forgotten.': TPAURGTD TP-PL
+'forgotten.': TPAURGTD/TP-PL
 'For': KPA/TPOR
 'a': AEU
 'long': HROPBG
@@ -160,7 +160,7 @@ The Velveteen Rabbit
 'on': OPB
 'the': -T
 'nursery': TPHURS/REU
-'floor,': TPHRAOR KW-BG
+'floor,': TPHRAOR/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
@@ -168,17 +168,17 @@ The Velveteen Rabbit
 'very': SRE
 'much': PHUFP
 'about': PW
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'was': WAS
 'naturally': TPHRARL
-'shy,': SHAOEU KW-BG
+'shy,': SHAOEU/KW-BG
 'and': SKP
 'being': -BG
 'only': OEPBL
 'made': PHAED
 'of': -F
-'velveteen,': SREL/SRE/TAOEPB KW-BG
+'velveteen,': SREL/SRE/TAOEPB/KW-BG
 'some': SOPL
 'of': -F
 'the': -T
@@ -187,34 +187,34 @@ The Velveteen Rabbit
 'toys': TOEUS
 'quite': KWAOEUT
 'snubbed': STPHUB/-D
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'mechanical': PHEBG/K-L
 'toys': TOEUS
 'were': WR
 'very': SRE
-'superior,': SPOEUR KW-BG
+'superior,': SPOEUR/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'down': TKOUPB
 'upon': POPB
 'every': EF
 'one': WUPB
-'else;': ELS STPH*FPLT
+'else;': ELS/STPH*FPLT
 'they': THE
 'were': WR
 'full': TPUL
 'of': -F
 'modern': PHOERPB
-'ideas,': KWR-DZ KW-BG
+'ideas,': KWR-DZ/KW-BG
 'and': SKP
 'pretended': PRE/TEPBD/-D
 'they': THE
 'were': WR
-'real.': RAEL TP-PL
+'real.': RAEL/TP-PL
 'The': KPA/-T
 'model': PHOLD
-'boat,': PWOET KW-BG
+'boat,': PWOET/KW-BG
 'who': WHO
 'had': H
 'lived': HREUFD
@@ -226,7 +226,7 @@ The Velveteen Rabbit
 'most': PHOFT
 'of': -F
 'his': HEUS
-'paint,': PAEUPBT KW-BG
+'paint,': PAEUPBT/KW-BG
 'caught': KAUT
 'the': -T
 'tone': TOEPB
@@ -244,7 +244,7 @@ The Velveteen Rabbit
 'rigging': REUG/-G
 'in': TPH
 'technical': TEBG/K-L
-'terms.': TERPLS TP-PL
+'terms.': TERPLS/TP-PL
 'The': KPA/-T
 'Rabbit': KPA/RABT
 'could': KO
@@ -255,7 +255,7 @@ The Velveteen Rabbit
 'a': AEU
 'model': PHOLD
 'of': -F
-'anything,': TPHEUG KW-BG
+'anything,': TPHEUG/KW-BG
 'for': TPOR
 'he': HE
 'didn't': TK-PBT
@@ -263,7 +263,7 @@ The Velveteen Rabbit
 'that': THA
 'real': RAEL
 'rabbits': RABTS
-'existed;': KPEUFTD STPH*FPLT
+'existed;': KPEUFTD/STPH*FPLT
 'he': HE
 'thought': THAUT
 'they': THE
@@ -273,7 +273,7 @@ The Velveteen Rabbit
 'with': W
 'sawdust': SAU/TKUFT
 'like': HRAOEUBG
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'he': HE
 'understood': *URPBD
@@ -281,7 +281,7 @@ The Velveteen Rabbit
 'sawdust': SAU/TKUFT
 'was': WAS
 'quite': KWAOEUT
-'out-of-date': OUT H-PB -F H-PB TKAEUT
+'out-of-date': OUT/H-PB/-F/H-PB/TKAEUT
 'and': SKP
 'should': SHO
 'never': TPHEFR
@@ -289,26 +289,26 @@ The Velveteen Rabbit
 'mentioned': PHEPBGS/-D
 'in': TPH
 'modern': PHOERPB
-'circles.': SOEURBGS TP-PL
+'circles.': SOEURBGS/TP-PL
 'Even': KPA/AOEPB
-'Timothy,': TEUPL/THEU KW-BG
+'Timothy,': TEUPL/THEU/KW-BG
 'the': -T
 'jointed': SKWROEUPBT/-D
 'wooden': WAOD/EPB
-'lion,': HRO*EUPB KW-BG
+'lion,': HRO*EUPB/KW-BG
 'who': WHO
 'was': WAS
 'made': PHAED
 'by': PWEU
 'the': -T
 'disabled': TKABLD
-'soldiers,': SHRERPBLGS KW-BG
+'soldiers,': SHRERPBLGS/KW-BG
 'and': SKP
 'should': SHO
 'have': SR
 'had': H
 'broader': PWRAORD
-'views,': SRAOUS KW-BG
+'views,': SRAOUS/KW-BG
 'put': PUT
 'on': OPB
 'airs': AEUR/-S
@@ -318,7 +318,7 @@ The Velveteen Rabbit
 'was': WAS
 'connected': KEBGTD
 'with': W
-'Government.': KPA/TKPWOFT TP-PL
+'Government.': KPA/TKPWOFT/TP-PL
 'Between': KPA/TWAOEPB
 'them': THEPL
 'all': AUL
@@ -334,7 +334,7 @@ The Velveteen Rabbit
 'very': SRE
 'insignificant': EUPB/SEUG
 'and': SKP
-'commonplace,': KPHOPB/PHRA*EUS KW-BG
+'commonplace,': KPHOPB/PHRA*EUS/KW-BG
 'and': SKP
 'the': -T
 'only': OEPBL
@@ -349,7 +349,7 @@ The Velveteen Rabbit
 'was': WAS
 'the': -T
 'Skin': KPA/SKEUPB
-'Horse.': KPA/HORS TP-PL
+'Horse.': KPA/HORS/TP-PL
 'The': KPA/-T
 'Skin': KPA/SKEUPB
 'Horse': KPA/HORS
@@ -363,7 +363,7 @@ The Velveteen Rabbit
 'any': TPHEU
 'of': -F
 'the': -T
-'others.': OERS TP-PL
+'others.': OERS/TP-PL
 'He': KPA/HE
 'was': WAS
 'so': SO
@@ -380,7 +380,7 @@ The Velveteen Rabbit
 'showed': SHOED
 'the': -T
 'seams': SAEPLS
-'underneath,': UPBD/TPHAO*ET KW-BG
+'underneath,': UPBD/TPHAO*ET/KW-BG
 'and': SKP
 'most': PHOFT
 'of': -F
@@ -396,10 +396,10 @@ The Velveteen Rabbit
 'to': TO
 'string': STREUPBG
 'bead': PWAED
-'necklaces.': TPHEBG/HRAS/-S TP-PL
+'necklaces.': TPHEBG/HRAS/-S/TP-PL
 'He': KPA/HE
 'was': WAS
-'wise,': WAOEUS KW-BG
+'wise,': WAOEUS/KW-BG
 'for': TPOR
 'he': HE
 'had': H
@@ -414,15 +414,15 @@ The Velveteen Rabbit
 'to': TO
 'boast': PWOEFT
 'and': SKP
-'swagger,': SWAG/ER KW-BG
+'swagger,': SWAG/ER/KW-BG
 'and': SKP
-'by-and-by': PWEU H-PB SKP H-PB PWEU
+'by-and-by': PWEU/H-PB/SKP/H-PB/PWEU
 'break': PWRAEBG
 'their': THAEUR
 'mainsprings': PHAEUPB/SPREUPBG/-S
 'and': SKP
 'pass': PAS
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'he': HE
 'knew': TPHAOU
@@ -430,14 +430,14 @@ The Velveteen Rabbit
 'they': THE
 'were': WR
 'only': OEPBL
-'toys,': TOEUS KW-BG
+'toys,': TOEUS/KW-BG
 'and': SKP
 'would': WO
 'never': TPHEFR
 'turn': TURPB
 'into': TPHAO
 'anything': TPHEUG
-'else.': ELS TP-PL
+'else.': ELS/TP-PL
 'For': KPA/TPOR
 'nursery': TPHURS/REU
 'magic': PHAPBLG/EUBG
@@ -445,7 +445,7 @@ The Velveteen Rabbit
 'very': SRE
 'strange': STRAEUPBG
 'and': SKP
-'wonderful,': WUFL KW-BG
+'wonderful,': WUFL/KW-BG
 'and': SKP
 'only': OEPBL
 'those': THOZ
@@ -464,15 +464,15 @@ The Velveteen Rabbit
 'understand': URPBD
 'all': AUL
 'about': PW
-'it.': T TP-PL
-'"What': KR-GS KPA/WHA
+'it.': T/TP-PL
+'"What': KR-GS/KPA/WHA
 'is': S
-'REAL?"': *URP/RAEL H-F KR-GS
+'REAL?"': *URP/RAEL/H-F/KR-GS
 'asked': SK-D
 'the': -T
 'Rabbit': KPA/RABT
 'one': WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'when': WHEPB
 'they': THE
 'were': WR
@@ -483,15 +483,15 @@ The Velveteen Rabbit
 'near': TPHAOER
 'the': -T
 'nursery': TPHURS/REU
-'fender,': TPEPBD/*ER KW-BG
+'fender,': TPEPBD/*ER/KW-BG
 'before': PW-FR
 'Nana': TPHA/TPHA
 'came': KAEUPL
 'to': TO
 'tidy': TAOEU/TKEU
 'the': -T
-'room.': RAOPL TP-PL
-'"Does': KR-GS KPA/TKOS
+'room.': RAOPL/TP-PL
+'"Does': KR-GS/KPA/TKOS
 'it': T
 'mean': PHAOEPB
 'having': SR-G
@@ -502,25 +502,25 @@ The Velveteen Rabbit
 'you': U
 'and': SKP
 'a': AEU
-'stick-out': STEUBG SKWRO*UT
-'handle?"': HAPBL H-F KR-GS
-'"Real': KR-GS KPA/RAEL
+'stick-out': STEUBG/SKWRO*UT
+'handle?"': HAPBL/H-F/KR-GS
+'"Real': KR-GS/KPA/RAEL
 'isn't': S-PBT
 'how': HOU
 'you': U
 'are': R
-'made,"': PHAED KW-BG KR-GS
+'made,"': PHAED/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Skin': KPA/SKEUPB
-'Horse.': KPA/HORS TP-PL
-'"It's': KR-GS KPA/T AES
+'Horse.': KPA/HORS/TP-PL
+'"It's': KR-GS/KPA/T/AES
 'a': AEU
 'thing': THEUPBG
 'that': THA
 'happens': HAPS
 'to': TO
-'you.': U TP-PL
+'you.': U/TP-PL
 'When': KPA/WHEPB
 'a': AEU
 'child': KHAOEULD
@@ -528,39 +528,39 @@ The Velveteen Rabbit
 'you': U
 'for': TPOR
 'a': AEU
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'not': TPHOT
 'just': SKWRUFT
 'to': TO
 'play': PHRAEU
-'with,': W KW-BG
+'with,': W/KW-BG
 'but': PWUT
 'REALLY': *URP/R-L
 'loves': HRUFS
-'you,': U KW-BG
+'you,': U/KW-BG
 'then': THEPB
 'you': U
 'become': PW-BG
-'Real."': KPA/RAEL TP-PL KR-GS
-'"Does': KR-GS KPA/TKOS
+'Real."': KPA/RAEL/TP-PL/KR-GS
+'"Does': KR-GS/KPA/TKOS
 'it': T
-'hurt?"': HURT H-F KR-GS
+'hurt?"': HURT/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'Rabbit.': KPA/RABT TP-PL
-'"Sometimes,"': KR-GS KPA/STAOEUPLS KW-BG KR-GS
+'Rabbit.': KPA/RABT/TP-PL
+'"Sometimes,"': KR-GS/KPA/STAOEUPLS/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Skin': KPA/SKEUPB
-'Horse,': KPA/HORS KW-BG
+'Horse,': KPA/HORS/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
 'always': AULS
-'truthful.': TRAO*UT/-FL TP-PL
-'"When': KR-GS KPA/WHEPB
+'truthful.': TRAO*UT/-FL/TP-PL
+'"When': KR-GS/KPA/WHEPB
 'you': U
 'are': R
 'Real': KPA/RAEL
@@ -568,41 +568,41 @@ The Velveteen Rabbit
 'don't': TKOEPBT
 'mind': PHAOEUPBD
 'being': -BG
-'hurt."': HURT TP-PL KR-GS
-'"Does': KR-GS KPA/TKOS
+'hurt."': HURT/TP-PL/KR-GS
+'"Does': KR-GS/KPA/TKOS
 'it': T
 'happen': HAP
 'all': AUL
 'at': AT
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'like': HRAOEUBG
 'being': -BG
 'wound': WOUPBD
-'up,"': UP KW-BG KR-GS
+'up,"': UP/KW-BG/KR-GS
 'he': HE
-'asked,': SK-D KW-BG
-'"or': KR-GS OR
+'asked,': SK-D/KW-BG
+'"or': KR-GS/OR
 'bit': PWEUT
 'by': PWEU
-'bit?"': PWEUT H-F KR-GS
-'"It': KR-GS KPA/T
+'bit?"': PWEUT/H-F/KR-GS
+'"It': KR-GS/KPA/T
 'doesn't': TKOPBT
 'happen': HAP
 'all': AUL
 'at': AT
-'once,"': WUPBS KW-BG KR-GS
+'once,"': WUPBS/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Skin': KPA/SKEUPB
-'Horse.': KPA/HORS TP-PL
-'"You': KR-GS KPA/U
-'become.': PW-BG TP-PL
+'Horse.': KPA/HORS/TP-PL
+'"You': KR-GS/KPA/U
+'become.': PW-BG/TP-PL
 'It': KPA/T
 'takes': TAEUBGS
 'a': AEU
 'long': HROPBG
-'time.': TAOEUPL TP-PL
-'That's': KPA/THA AES
+'time.': TAOEUPL/TP-PL
+'That's': KPA/THA/AES
 'why': KWR
 'it': T
 'doesn't': TKOPBT
@@ -612,25 +612,25 @@ The Velveteen Rabbit
 'people': PAOEPL
 'who': WHO
 'break': PWRAEBG
-'easily,': AOELS KW-BG
+'easily,': AOELS/KW-BG
 'or': OR
 'have': SR
 'sharp': SHARP
-'edges,': EPBLGS KW-BG
+'edges,': EPBLGS/KW-BG
 'or': OR
 'who': WHO
 'have': SR
 'to': TO
 'be': -B
 'carefully': KA*EUFL
-'kept.': KEPT TP-PL
-'Generally,': KPA/SKWRERPBL KW-BG
+'kept.': KEPT/TP-PL
+'Generally,': KPA/SKWRERPBL/KW-BG
 'by': PWEU
 'the': -T
 'time': TAOEUPL
 'you': U
 'are': R
-'Real,': KPA/RAEL KW-BG
+'Real,': KPA/RAEL/KW-BG
 'most': PHOFT
 'of': -F
 'your': KWROUR
@@ -638,7 +638,7 @@ The Velveteen Rabbit
 'has': HAS
 'been': PW-PB
 'loved': HROFD
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'your': KWROUR
 'eyes': AO*EUS
@@ -653,14 +653,14 @@ The Velveteen Rabbit
 'joints': SKWROEUPBTS
 'and': SKP
 'very': SRE
-'shabby.': SHAB/KWREU TP-PL
+'shabby.': SHAB/KWREU/TP-PL
 'But': KPA/PWUT
 'these': THEZ
 'things': THEUPBGS
 'don't': TKOEPBT
 'matter': PHAERT
 'at': AT
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'because': PWAU
 'once': WUPBS
 'you': U
@@ -669,21 +669,21 @@ The Velveteen Rabbit
 'you': U
 'can't': K-PBT
 'be': -B
-'ugly,': ULG KW-BG
+'ugly,': ULG/KW-BG
 'except': KPEPT
 'to': TO
 'people': PAOEPL
 'who': WHO
 'don't': TKOEPBT
-'understand."': URPBD TP-PL KR-GS
-'"I': KR-GS EU
+'understand."': URPBD/TP-PL/KR-GS
+'"I': KR-GS/EU
 'suppose': SPOS
 'you': U
 'are': R
-'real?"': RAEL H-F KR-GS
+'real?"': RAEL/H-F/KR-GS
 'said': SED
 'the': -T
-'Rabbit.': KPA/RABT TP-PL
+'Rabbit.': KPA/RABT/TP-PL
 'And': AFPBD
 'then': THEPB
 'he': HE
@@ -692,7 +692,7 @@ The Velveteen Rabbit
 'had': H
 'not': TPHOT
 'said': SED
-'it,': T KW-BG
+'it,': T/KW-BG
 'for': TPOR
 'he': HE
 'thought': THAUT
@@ -701,28 +701,28 @@ The Velveteen Rabbit
 'Horse': KPA/HORS
 'might': PHAOEUT
 'be': -B
-'sensitive.': SEPBT/TEUF TP-PL
+'sensitive.': SEPBT/TEUF/TP-PL
 'But': KPA/PWUT
 'the': -T
 'Skin': KPA/SKEUPB
 'Horse': KPA/HORS
 'only': OEPBL
-'smiled.': SPHAOEULD TP-PL
-'"The': KR-GS KPA/-T
-'Boy's': KPA/PWOEU AES
+'smiled.': SPHAOEULD/TP-PL
+'"The': KR-GS/KPA/-T
+'Boy's': KPA/PWOEU/AES
 'Uncle': *UPBG/-L
 'made': PHAED
 'me': PHE
-'Real,"': KPA/RAEL KW-BG KR-GS
+'Real,"': KPA/RAEL/KW-BG/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"That': KR-GS KPA/THA
+'said.': SED/TP-PL
+'"That': KR-GS/KPA/THA
 'was': WAS
 'a': AEU
 'great': TKPWRAET
 'many': PHAEPB
 'years': KWRAOERS
-'ago;': AG STPH*FPLT
+'ago;': AG/STPH*FPLT
 'but': PWUT
 'once': WUPBS
 'you': U
@@ -732,14 +732,14 @@ The Velveteen Rabbit
 'can't': K-PBT
 'become': PW-BG
 'unreal': UPB/RAEL
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'It': KPA/T
 'lasts': HRAFTS
 'for': TPOR
-'always."': AULS TP-PL KR-GS
+'always."': AULS/TP-PL/KR-GS
 'The': KPA/-T
 'Rabbit': KPA/RABT
-'sighed.': SAOEU/-D TP-PL
+'sighed.': SAOEU/-D/TP-PL
 'He': KPA/HE
 'thought': THAUT
 'it': T
@@ -755,18 +755,18 @@ The Velveteen Rabbit
 'Real': KPA/RAEL
 'happened': HAPD
 'to': TO
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'longed': HROPBG/-D
 'to': TO
 'become': PW-BG
-'Real,': KPA/RAEL KW-BG
+'Real,': KPA/RAEL/KW-BG
 'to': TO
 'know': TPHOE
 'what': WHA
 'it': T
 'felt': TPELT
-'like;': HRAOEUBG STPH*FPLT
+'like;': HRAOEUBG/STPH*FPLT
 'and': SKP
 'yet': KWRET
 'the': -T
@@ -782,7 +782,7 @@ The Velveteen Rabbit
 'whiskers': WHEUS/KER/-S
 'was': WAS
 'rather': RAER
-'sad.': SAD TP-PL
+'sad.': SAD/TP-PL
 'He': KPA/HE
 'wished': WEURBD
 'that': THA
@@ -796,7 +796,7 @@ The Velveteen Rabbit
 'things': THEUPBGS
 'happening': HAPG
 'to': TO
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'There': KPA/THR
 'was': WAS
 'a': AEU
@@ -806,7 +806,7 @@ The Velveteen Rabbit
 'who': WHO
 'ruled': RAOULD
 'the': -T
-'nursery.': TPHURS/REU TP-PL
+'nursery.': TPHURS/REU/TP-PL
 'Sometimes': KPA/STAOEUPLS
 'she': SHE
 'took': TAOBG
@@ -816,13 +816,13 @@ The Velveteen Rabbit
 'the': -T
 'playthings': PHRAEU/THEUPBG/-S
 'lying': HRAOEUG
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'and': SKP
-'sometimes,': STAOEUPLS KW-BG
+'sometimes,': STAOEUPLS/KW-BG
 'for': TPOR
 'no': TPHO
 'reason': R-PB
-'whatever,': WHAF KW-BG
+'whatever,': WHAF/KW-BG
 'she': SHE
 'went': WEPBT
 'swooping': SWAOPG
@@ -836,29 +836,29 @@ The Velveteen Rabbit
 'them': THEPL
 'away': WA*EU
 'in': TPH
-'cupboards.': KUP/PWAORDZ TP-PL
+'cupboards.': KUP/PWAORDZ/TP-PL
 'She': KPA/SHE
 'called': KAULD
 'this': TH
-'"tidying': KR-GS TAOEU/TKEU/-G
-'up,"': UP KW-BG KR-GS
+'"tidying': KR-GS/TAOEU/TKEU/-G
+'up,"': UP/KW-BG/KR-GS
 'and': SKP
 'the': -T
 'playthings': PHRAEU/THEUPBG/-S
 'all': AUL
 'hated': HAEUT/-D
-'it,': T KW-BG
+'it,': T/KW-BG
 'especially': EPS
 'the': -T
 'tin': TEUPB
-'ones.': WUPBZ TP-PL
+'ones.': WUPBZ/TP-PL
 'The': KPA/-T
 'Rabbit': KPA/RABT
 'didn't': TK-PBT
 'mind': PHAOEUPBD
 'it': T
 'so': SO
-'much,': PHUFP KW-BG
+'much,': PHUFP/KW-BG
 'for': TPOR
 'wherever': W-FR
 'he': HE
@@ -867,16 +867,16 @@ The Velveteen Rabbit
 'he': HE
 'came': KAEUPL
 'down': TKOUPB
-'soft.': SOFT TP-PL
+'soft.': SOFT/TP-PL
 'One': KPA/WUPB
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'when': WHEPB
 'the': -T
 'Boy': KPA/PWOEU
 'was': WAS
 'going': TKPW-G
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'he': HE
 'couldn't': KOPBT
 'find': TPAOEUPBD
@@ -887,12 +887,12 @@ The Velveteen Rabbit
 'always': AULS
 'slept': SHREPT
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Nana': TPHA/TPHA
 'was': WAS
 'in': TPH
 'a': AEU
-'hurry,': HUR/REU KW-BG
+'hurry,': HUR/REU/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -905,13 +905,13 @@ The Velveteen Rabbit
 'china': KHAOEUPB/A
 'dogs': TKOGS
 'at': AT
-'bedtime,': PWED/TAOUP KW-BG
+'bedtime,': PWED/TAOUP/KW-BG
 'so': SO
 'she': SHE
 'simply': SAO*EPL
 'looked': HRAOBGD
 'about': PW
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'seeing': SAOEG
 'that': THA
@@ -920,24 +920,24 @@ The Velveteen Rabbit
 'cupboard': KUP/PWAORD
 'door': TKAOR
 'stood': STAOD
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'she': SHE
 'made': PHAED
 'a': AEU
-'swoop.': SWAOP TP-PL
-'"Here,"': KR-GS KPA/HAOER KW-BG KR-GS
+'swoop.': SWAOP/TP-PL
+'"Here,"': KR-GS/KPA/HAOER/KW-BG/KR-GS
 'she': SHE
-'said,': SED KW-BG
-'"take': KR-GS TAEUBG
+'said,': SED/KW-BG
+'"take': KR-GS/TAEUBG
 'your': KWROUR
 'old': OLD
-'Bunny!': KPA/PWUPB/TPHEU SKHRAPL
-'He'll': KPA/HE AE HR*/HR*
+'Bunny!': KPA/PWUPB/TPHEU/SKHRAPL
+'He'll': KPA/HE/AE/HR*/HR*
 'do': TKO
 'to': TO
 'sleep': SHRAOEP
 'with': W
-'you!"': U SKHRAPL KR-GS
+'you!"': U/SKHRAPL/KR-GS
 'And': AFPBD
 'she': SHE
 'dragged': TKRAGD
@@ -946,50 +946,50 @@ The Velveteen Rabbit
 'out': OUT
 'by': PWEU
 'one': WUPB
-'ear,': AOER KW-BG
+'ear,': AOER/KW-BG
 'and': SKP
 'put': PUT
 'him': HEUPL
 'into': TPHAO
 'the': -T
-'Boy's': KPA/PWOEU AES
-'arms.': ARPLS TP-PL
+'Boy's': KPA/PWOEU/AES
+'arms.': ARPLS/TP-PL
 'That': KPA/THA
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'for': TPOR
 'many': PHAEPB
 'nights': TPHAOEUTS
-'after,': AF KW-BG
+'after,': AF/KW-BG
 'the': -T
 'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'slept': SHREPT
 'in': TPH
 'the': -T
-'Boy's': KPA/PWOEU AES
-'bed.': PWED TP-PL
+'Boy's': KPA/PWOEU/AES
+'bed.': PWED/TP-PL
 'At': KPA/AT
 'first': TPEUFRT
 'he': HE
 'found': TPOUPBD
 'it': T
 'rather': RAER
-'uncomfortable,': TPH-BL KW-BG
+'uncomfortable,': TPH-BL/KW-BG
 'for': TPOR
 'the': -T
 'Boy': KPA/PWOEU
 'hugged': HUGD
 'him': HEUPL
 'very': SRE
-'tight,': TAOEUT KW-BG
+'tight,': TAOEUT/KW-BG
 'and': SKP
 'sometimes': STAOEUPLS
 'he': HE
 'rolled': ROLD
 'over': OEFR
 'on': OPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'sometimes': STAOEUPLS
 'he': HE
@@ -1005,31 +1005,31 @@ The Velveteen Rabbit
 'Rabbit': KPA/RABT
 'could': KO
 'scarcely': SKAEURS/HREU
-'breathe.': PWRAO*ET TP-PL
+'breathe.': PWRAO*ET/TP-PL
 'And': AFPBD
 'he': HE
-'missed,': PHEUFD KW-BG
-'too,': TAO KW-BG
+'missed,': PHEUFD/KW-BG
+'too,': TAO/KW-BG
 'those': THOZ
 'long': HROPBG
 'moonlight': PHAOLGT
 'hours': HOURS
 'in': TPH
 'the': -T
-'nursery,': TPHURS/REU KW-BG
+'nursery,': TPHURS/REU/KW-BG
 'when': WHEPB
 'all': AUL
 'the': -T
 'house': HOUS
 'was': WAS
-'silent,': SHREPBT KW-BG
+'silent,': SHREPBT/KW-BG
 'and': SKP
 'his': HEUS
 'talks': TAUBGS
 'with': W
 'the': -T
 'Skin': KPA/SKEUPB
-'Horse.': KPA/HORS TP-PL
+'Horse.': KPA/HORS/TP-PL
 'But': KPA/PWUT
 'very': SRE
 'soon': SAOPB
@@ -1037,7 +1037,7 @@ The Velveteen Rabbit
 'grew': TKPWRAOU
 'to': TO
 'like': HRAOEUBG
-'it,': T KW-BG
+'it,': T/KW-BG
 'for': TPOR
 'the': -T
 'Boy': KPA/PWOEU
@@ -1045,7 +1045,7 @@ The Velveteen Rabbit
 'to': TO
 'talk': TAUBG
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'made': PHAED
 'nice': TPHAOEUS
@@ -1066,15 +1066,15 @@ The Velveteen Rabbit
 'real': RAEL
 'rabbits': RABTS
 'lived': HREUFD
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'And': AFPBD
 'they': THE
 'had': H
 'splendid': SPHREPB/TKEUD
 'games': TKPWAEUPLS
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'in': TPH
-'whispers,': WHEUS/PERS KW-BG
+'whispers,': WHEUS/PERS/KW-BG
 'when': WHEPB
 'Nana': TPHA/TPHA
 'had': H
@@ -1086,11 +1086,11 @@ The Velveteen Rabbit
 'and': SKP
 'left': HREFT
 'the': -T
-'night-light': TPHAOEUT H-PB HRAOEUT
+'night-light': TPHAOEUT/H-PB/HRAOEUT
 'burning': PWURPBG
 'on': OPB
 'the': -T
-'mantelpiece.': PHAPBT/-L/PAOES TP-PL
+'mantelpiece.': PHAPBT/-L/PAOES/TP-PL
 'And': AFPBD
 'when': WHEPB
 'the': -T
@@ -1098,7 +1098,7 @@ The Velveteen Rabbit
 'dropped': TKROPD
 'off': OF
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'the': -T
 'Rabbit': KPA/RABT
 'would': WO
@@ -1111,10 +1111,10 @@ The Velveteen Rabbit
 'warm': WARPL
 'chin': KHEUPB
 'and': SKP
-'dream,': TKRAOEPL KW-BG
+'dream,': TKRAOEPL/KW-BG
 'with': W
 'the': -T
-'Boy's': KPA/PWOEU AES
+'Boy's': KPA/PWOEU/AES
 'hands': HAPBDZ
 'clasped': KHRAS/-PD
 'close': KHROES
@@ -1122,19 +1122,19 @@ The Velveteen Rabbit
 'him': HEUPL
 'all': AUL
 'night': TPHAOEUT
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL
 'And': AFPBD
 'so': SO
 'time': TAOEUPL
 'went': WEPBT
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
 'Rabbit': KPA/RABT
 'was': WAS
 'very': SRE
-'happy–so': HAEP EPB/TKA*RB SO
+'happy–so': HAEP/EPB/TKA*RB/SO
 'happy': HAEP
 'that': THA
 'he': HE
@@ -1149,12 +1149,12 @@ The Velveteen Rabbit
 'getting': TKPWEGT
 'shabbier': SHAB/KWRER
 'and': SKP
-'shabbier,': SHAB/KWRER KW-BG
+'shabbier,': SHAB/KWRER/KW-BG
 'and': SKP
 'his': HEUS
 'tail': TAEUL
 'becoming': PW-BG/-G
-'unsewn,': UPB/SWEPB KW-BG
+'unsewn,': UPB/SWEPB/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
@@ -1168,9 +1168,9 @@ The Velveteen Rabbit
 'Boy': KPA/PWOEU
 'had': H
 'kissed': K*EUFD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Spring': KPA/SPREUPBG
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'and': SKP
 'they': THE
 'had': H
@@ -1178,7 +1178,7 @@ The Velveteen Rabbit
 'days': TKAEUS
 'in': TPH
 'the': -T
-'garden,': TKPWA*RPB KW-BG
+'garden,': TKPWA*RPB/KW-BG
 'for': TPOR
 'wherever': W-FR
 'the': -T
@@ -1187,18 +1187,18 @@ The Velveteen Rabbit
 'the': -T
 'Rabbit': KPA/RABT
 'went': WEPBT
-'too.': TAO TP-PL
+'too.': TAO/TP-PL
 'He': KPA/HE
 'had': H
 'rides': RAOEUDZ
 'in': TPH
 'the': -T
-'wheelbarrow,': WHAOEL/PWAR/ROE KW-BG
+'wheelbarrow,': WHAOEL/PWAR/ROE/KW-BG
 'and': SKP
 'picnics': PEUBG/TPHEUBGS
 'on': OPB
 'the': -T
-'grass,': TKPWRAS KW-BG
+'grass,': TKPWRAS/KW-BG
 'and': SKP
 'lovely': HROFL
 'fairy': TPAEUR/REU
@@ -1213,9 +1213,9 @@ The Velveteen Rabbit
 'behind': HEUPBD
 'the': -T
 'flower': TPHRO*UR
-'border.': PWRORD TP-PL
+'border.': PWRORD/TP-PL
 'And': AFPBD
-'once,': WUPBS KW-BG
+'once,': WUPBS/KW-BG
 'when': WHEPB
 'the': -T
 'Boy': KPA/PWOEU
@@ -1227,7 +1227,7 @@ The Velveteen Rabbit
 'go': TKPW
 'out': OUT
 'to': TO
-'tea,': TAE KW-BG
+'tea,': TAE/KW-BG
 'the': -T
 'Rabbit': KPA/RABT
 'was': WAS
@@ -1239,7 +1239,7 @@ The Velveteen Rabbit
 'until': TPH-L
 'long': HROPBG
 'after': AF
-'dusk,': TKUFBG KW-BG
+'dusk,': TKUFBG/KW-BG
 'and': SKP
 'Nana': TPHA/TPHA
 'had': H
@@ -1262,7 +1262,7 @@ The Velveteen Rabbit
 'unless': TPH-LS
 'he': HE
 'was': WAS
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'He': KPA/HE
 'was': WAS
 'wet': WET
@@ -1287,7 +1287,7 @@ The Velveteen Rabbit
 'in': TPH
 'the': -T
 'flower': TPHRO*UR
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'Nana': TPHA/TPHA
 'grumbled': TKPWRUPL/-BLD
@@ -1301,22 +1301,22 @@ The Velveteen Rabbit
 'corner': KRORPB
 'of': -F
 'her': HER
-'apron.': AEUP/ROPB TP-PL
-'"You': KR-GS KPA/U
+'apron.': AEUP/ROPB/TP-PL
+'"You': KR-GS/KPA/U
 'must': PHUFT
 'have': SR
 'your': KWROUR
 'old': OLD
-'Bunny!"': KPA/PWUPB/TPHEU SKHRAPL KR-GS
+'Bunny!"': KPA/PWUPB/TPHEU/SKHRAPL/KR-GS
 'she': SHE
-'said.': SED TP-PL
-'"Fancy': KR-GS KPA/TPAEPBS
+'said.': SED/TP-PL
+'"Fancy': KR-GS/KPA/TPAEPBS
 'all': AUL
 'that': THA
 'fuss': TPUS
 'for': TPOR
 'a': AEU
-'toy!"': TOEU SKHRAPL KR-GS
+'toy!"': TOEU/SKHRAPL/KR-GS
 'The': KPA/-T
 'Boy': KPA/PWOEU
 'sat': SAT
@@ -1327,23 +1327,23 @@ The Velveteen Rabbit
 'stretched': STREFPD
 'out': OUT
 'his': HEUS
-'hands.': HAPBDZ TP-PL
-'"Give': KR-GS KPA/TKPWEUF
+'hands.': HAPBDZ/TP-PL
+'"Give': KR-GS/KPA/TKPWEUF
 'me': PHE
 'my': PHEU
-'Bunny!"': KPA/PWUPB/TPHEU SKHRAPL KR-GS
+'Bunny!"': KPA/PWUPB/TPHEU/SKHRAPL/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"You': KR-GS KPA/U
+'said.': SED/TP-PL
+'"You': KR-GS/KPA/U
 'mustn't': PHUFPBT
 'say': SAEU
-'that.': THA TP-PL
+'that.': THA/TP-PL
 'He': KPA/HE
 'isn't': S-PBT
 'a': AEU
-'toy.': TOEU TP-PL
-'He's': KPA/HE AES
-'REAL!"': *URP/RAEL SKHRAPL KR-GS
+'toy.': TOEU/TP-PL
+'He's': KPA/HE/AES
+'REAL!"': *URP/RAEL/SKHRAPL/KR-GS
 'When': KPA/WHEPB
 'the': -T
 'little': HREUL
@@ -1352,7 +1352,7 @@ The Velveteen Rabbit
 'that': THA
 'he': HE
 'was': WAS
-'happy,': HAEP KW-BG
+'happy,': HAEP/KW-BG
 'for': TPOR
 'he': HE
 'knew': TPHAOU
@@ -1366,30 +1366,30 @@ The Velveteen Rabbit
 'was': WAS
 'true': TRAOU
 'at': AT
-'last.': HRAFT TP-PL
+'last.': HRAFT/TP-PL
 'The': KPA/-T
 'nursery': TPHURS/REU
 'magic': PHAPBLG/EUBG
 'had': H
 'happened': HAPD
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'was': WAS
 'a': AEU
 'toy': TOEU
 'no': TPHO
-'longer.': HRORPBG TP-PL
+'longer.': HRORPBG/TP-PL
 'He': KPA/HE
 'was': WAS
-'Real.': KPA/RAEL TP-PL
+'Real.': KPA/RAEL/TP-PL
 'The': KPA/-T
 'Boy': KPA/PWOEU
 'himself': HEUPLS
 'had': H
 'said': SED
-'it.': T TP-PL
+'it.': T/TP-PL
 'That': KPA/THA
 'night': TPHAOEUT
 'he': HE
@@ -1398,7 +1398,7 @@ The Velveteen Rabbit
 'too': TAO
 'happy': HAEP
 'to': TO
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'and': SKP
 'so': SO
 'much': PHUFP
@@ -1412,19 +1412,19 @@ The Velveteen Rabbit
 'that': THA
 'it': T
 'almost': HR-PL
-'burst.': PWUFRT TP-PL
+'burst.': PWUFRT/TP-PL
 'And': AFPBD
 'into': TPHAO
 'his': HEUS
-'boot-button': PWAOT H-PB PW*PB
-'eyes,': AO*EUS KW-BG
+'boot-button': PWAOT/H-PB/PW*PB
+'eyes,': AO*EUS/KW-BG
 'that': THA
 'had': H
 'long': HROPBG
 'ago': AG
 'lost': HRO*S
 'their': THAEUR
-'polish,': POL/EURB KW-BG
+'polish,': POL/EURB/KW-BG
 'there': THR
 'came': KAEUPL
 'a': AEU
@@ -1432,7 +1432,7 @@ The Velveteen Rabbit
 'of': -F
 'wisdom': WEUZ/TKOPL
 'and': SKP
-'beauty,': PWAOUT KW-BG
+'beauty,': PWAOUT/KW-BG
 'so': SO
 'that': THA
 'even': AOEPB
@@ -1445,10 +1445,10 @@ The Velveteen Rabbit
 'she': SHE
 'picked': PEUBGD
 'him': HEUPL
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
-'said,': SED KW-BG
-'"I': KR-GS EU
+'said,': SED/KW-BG
+'"I': KR-GS/EU
 'declare': TKE/KHRAR
 'if': TP
 'that': THA
@@ -1459,12 +1459,12 @@ The Velveteen Rabbit
 'quite': KWAOEUT
 'a': AEU
 'knowing': TPHOEG
-'expression!"': EBGS/PREGS SKHRAPL KR-GS
+'expression!"': EBGS/PREGS/SKHRAPL/KR-GS
 'That': KPA/THA
 'was': WAS
 'a': AEU
 'wonderful': WUFL
-'Summer!': KPA/SAOURPL SKHRAPL
+'Summer!': KPA/SAOURPL/SKHRAPL
 'Near': KPA/TPHAOER
 'the': -T
 'house': HOUS
@@ -1474,7 +1474,7 @@ The Velveteen Rabbit
 'there': THR
 'was': WAS
 'a': AEU
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -1490,14 +1490,14 @@ The Velveteen Rabbit
 'after': AF
 'tea': TAE
 'to': TO
-'play.': PHRAEU TP-PL
+'play.': PHRAEU/TP-PL
 'He': KPA/HE
 'took': TAOBG
 'the': -T
 'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'before': PW-FR
 'he': HE
@@ -1505,14 +1505,14 @@ The Velveteen Rabbit
 'off': OF
 'to': TO
 'pick': PEUBG
-'flowers,': TPHRO*URS KW-BG
+'flowers,': TPHRO*URS/KW-BG
 'or': OR
 'play': PHRAEU
 'at': AT
 'brigands': PW*/R*/*EU/TKPW*/A*/TPH*/TK*/S*
 'among': PHOPBG
 'the': -T
-'trees,': TRAOES KW-BG
+'trees,': TRAOES/KW-BG
 'he': HE
 'always': AULS
 'made': PHAED
@@ -1524,18 +1524,18 @@ The Velveteen Rabbit
 'somewhere': SWR
 'among': PHOPBG
 'the': -T
-'bracken,': PWRABG/*EPB KW-BG
+'bracken,': PWRABG/*EPB/KW-BG
 'where': W-R
 'he': HE
 'would': WO
 'be': -B
 'quite': KWAOEUT
-'cosy,': KOEZ/A*U KW-BG
+'cosy,': KOEZ/A*U/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
 'a': AEU
-'kind-hearted': KEUPBD H-PB HART/-D
+'kind-hearted': KEUPBD/H-PB/HART/-D
 'little': HREUL
 'boy': PWOEU
 'and': SKP
@@ -1544,16 +1544,16 @@ The Velveteen Rabbit
 'Bunny': KPA/PWUPB/TPHEU
 'to': TO
 'be': -B
-'comfortable.': K-BL TP-PL
+'comfortable.': K-BL/TP-PL
 'One': KPA/WUPB
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'while': WHAOEUL
 'the': -T
 'Rabbit': KPA/RABT
 'was': WAS
 'lying': HRAOEUG
 'there': THR
-'alone,': A/HROEPB KW-BG
+'alone,': A/HROEPB/KW-BG
 'watching': WAFPG
 'the': -T
 'ants': A*PBT/-S
@@ -1568,7 +1568,7 @@ The Velveteen Rabbit
 'paws': PAU/-S
 'in': TPH
 'the': -T
-'grass,': TKPWRAS KW-BG
+'grass,': TKPWRAS/KW-BG
 'he': HE
 'saw': SAU
 'two': TWO
@@ -1581,31 +1581,31 @@ The Velveteen Rabbit
 'tall': TAUL
 'bracken': PWRABG/*EPB
 'near': TPHAOER
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'They': KPA/THE
 'were': WR
 'rabbits': RABTS
 'like': HRAOEUBG
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'but': PWUT
 'quite': KWAOEUT
 'furry': TPUR/REU
 'and': SKP
-'brand-new.': PWRAPBD H-PB TPHU TP-PL
+'brand-new.': PWRAPBD/H-PB/TPHU/TP-PL
 'They': KPA/THE
 'must': PHUFT
 'have': SR
 'been': PW-PB
 'very': SRE
 'well': WEL
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'for': TPOR
 'their': THAEUR
 'seams': SAEPLS
 'didn't': TK-PBT
 'show': SHOE
 'at': AT
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'and': SKP
 'they': THE
 'changed': KHAEUPBGD
@@ -1616,7 +1616,7 @@ The Velveteen Rabbit
 'way': WAEU
 'when': WHEPB
 'they': THE
-'moved;': PHOFD STPH*FPLT
+'moved;': PHOFD/STPH*FPLT
 'one': WUPB
 'minute': PHEUPB
 'they': THE
@@ -1630,7 +1630,7 @@ The Velveteen Rabbit
 'minute': PHEUPB
 'fat': TPAT
 'and': SKP
-'bunchy,': PWUFRPB/KWREU KW-BG
+'bunchy,': PWUFRPB/KWREU/KW-BG
 'instead': STPHED
 'of': -F
 'always': AULS
@@ -1639,24 +1639,24 @@ The Velveteen Rabbit
 'same': SAEUPL
 'like': HRAOEUBG
 'he': HE
-'did.': TK TP-PL
+'did.': TK/TP-PL
 'Their': KPA/THAEUR
 'feet': TPAOET
 'padded': PAD/-D
 'softly': SOFT/HREU
 'on': OPB
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'and': SKP
 'they': THE
 'crept': KREPT
 'quite': KWAOEUT
 'close': KHROES
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'twitching': TWEUFP/-G
 'their': THAEUR
-'noses,': TPHO*EFS KW-BG
+'noses,': TPHO*EFS/KW-BG
 'while': WHAOEUL
 'the': -T
 'Rabbit': KPA/RABT
@@ -1669,7 +1669,7 @@ The Velveteen Rabbit
 'the': -T
 'clockwork': KHROBG/WO*RBG
 'stuck': STUBG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'for': TPOR
 'he': HE
 'knew': TPHAOU
@@ -1683,12 +1683,12 @@ The Velveteen Rabbit
 'to': TO
 'wind': WEUPBD
 'them': THEPL
-'up.': UP TP-PL
+'up.': UP/TP-PL
 'But': KPA/PWUT
 'he': HE
 'couldn't': KOPBT
 'see': SAOE
-'it.': T TP-PL
+'it.': T/TP-PL
 'They': KPA/THE
 'were': WR
 'evidently': AEFD/HREU
@@ -1697,25 +1697,25 @@ The Velveteen Rabbit
 'kind': KEUPBD
 'of': -F
 'rabbit': RABT
-'altogether.': HR-GT TP-PL
+'altogether.': HR-GT/TP-PL
 'They': KPA/THE
 'stared': STAERD
 'at': AT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
 'Rabbit': KPA/RABT
 'stared': STAERD
-'back.': PWABG TP-PL
+'back.': PWABG/TP-PL
 'And': AFPBD
 'all': AUL
 'the': -T
 'time': TAOEUPL
 'their': THAEUR
 'noses': TPHO*EFS
-'twitched.': TWEUFP/-D TP-PL
-'"Why': KR-GS KPA/KWR
+'twitched.': TWEUFP/-D/TP-PL
+'"Why': KR-GS/KPA/KWR
 'don't': TKOEPBT
 'you': U
 'get': TKPWET
@@ -1723,19 +1723,19 @@ The Velveteen Rabbit
 'and': SKP
 'play': PHRAEU
 'with': W
-'us?"': US H-F KR-GS
+'us?"': US/H-F/KR-GS
 'one': WUPB
 'of': -F
 'them': THEPL
-'asked.': SK-D TP-PL
-'"I': KR-GS EU
+'asked.': SK-D/TP-PL
+'"I': KR-GS/EU
 'don't': TKOEPBT
 'feel': TPAOEL
 'like': HRAOEUBG
-'it,"': T KW-BG KR-GS
+'it,"': T/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Rabbit,': KPA/RABT KW-BG
+'Rabbit,': KPA/RABT/KW-BG
 'for': TPOR
 'he': HE
 'didn't': TK-PBT
@@ -1746,17 +1746,17 @@ The Velveteen Rabbit
 'he': HE
 'had': H
 'no': TPHO
-'clockwork.': KHROBG/WO*RBG TP-PL
-'"Ho!"': KR-GS KPA/HO*E SKHRAPL KR-GS
+'clockwork.': KHROBG/WO*RBG/TP-PL
+'"Ho!"': KR-GS/KPA/HO*E/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'furry': TPUR/REU
-'rabbit.': RABT TP-PL
-'"It's': KR-GS KPA/T AES
+'rabbit.': RABT/TP-PL
+'"It's': KR-GS/KPA/T/AES
 'as': AS
 'easy': EZ
 'as': AS
-'anything,"': TPHEUG KW-BG KR-GS
+'anything,"': TPHEUG/KW-BG/KR-GS
 'And': AFPBD
 'he': HE
 'gave': TKPWAEUF
@@ -1769,33 +1769,33 @@ The Velveteen Rabbit
 'on': OPB
 'his': HEUS
 'hind': HAOEUPBD
-'legs.': HREGS TP-PL
-'"I': KR-GS EU
+'legs.': HREGS/TP-PL
+'"I': KR-GS/EU
 'don't': TKOEPBT
 'believe': PWHREF
 'you': U
-'can!"': K SKHRAPL KR-GS
+'can!"': K/SKHRAPL/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"I': KR-GS EU
-'can!"': K SKHRAPL KR-GS
+'said.': SED/TP-PL
+'"I': KR-GS/EU
+'can!"': K/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
-'Rabbit.': KPA/RABT TP-PL
-'"I': KR-GS EU
+'Rabbit.': KPA/RABT/TP-PL
+'"I': KR-GS/EU
 'can': K
 'jump': SKWRUFRP
 'higher': HAOEUR
 'than': THAPB
-'anything!"': TPHEUG SKHRAPL KR-GS
+'anything!"': TPHEUG/SKHRAPL/KR-GS
 'He': KPA/HE
 'meant': PHEPBT
 'when': WHEPB
 'the': -T
 'Boy': KPA/PWOEU
 'threw': THRAOU
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'of': -F
 'course': KORS
@@ -1804,23 +1804,23 @@ The Velveteen Rabbit
 'want': WAPBT
 'to': TO
 'say': SAEU
-'so.': SO TP-PL
-'"Can': KR-GS KPA/K
+'so.': SO/TP-PL
+'"Can': KR-GS/KPA/K
 'you': U
 'hop': HOP
 'on': OPB
 'your': KWROUR
 'hind': HAOEUPBD
-'legs?"': HREGS H-F KR-GS
+'legs?"': HREGS/H-F/KR-GS
 'asked': SK-D
 'the': -T
 'furry': TPUR/REU
-'rabbit.': RABT TP-PL
+'rabbit.': RABT/TP-PL
 'That': KPA/THA
 'was': WAS
 'a': AEU
 'dreadful': TKREFL
-'question,': KWE KW-BG
+'question,': KWE/KW-BG
 'for': TPOR
 'the': -T
 'Velveteen': KPA/SREL/SRE/TAOEPB
@@ -1830,7 +1830,7 @@ The Velveteen Rabbit
 'hind': HAOEUPBD
 'legs': HREGS
 'at': AT
-'all!': AUL SKHRAPL
+'all!': AUL/SKHRAPL
 'The': KPA/-T
 'back': PWABG
 'of': -F
@@ -1840,16 +1840,16 @@ The Velveteen Rabbit
 'all': AUL
 'in': TPH
 'one': WUPB
-'piece,': PAOES KW-BG
+'piece,': PAOES/KW-BG
 'like': HRAOEUBG
 'a': AEU
-'pincushion.': PEUPB/TK-LS/KUGS TP-PL
+'pincushion.': PEUPB/TK-LS/KUGS/TP-PL
 'He': KPA/HE
 'sat': SAT
 'still': STEUL
 'in': TPH
 'the': -T
-'bracken,': PWRABG/*EPB KW-BG
+'bracken,': PWRABG/*EPB/KW-BG
 'and': SKP
 'hoped': HOEPD
 'that': THA
@@ -1857,14 +1857,14 @@ The Velveteen Rabbit
 'other': OER
 'rabbits': RABTS
 'wouldn't': WOPBT
-'notice.': TPH-TS TP-PL
-'"I': KR-GS EU
+'notice.': TPH-TS/TP-PL
+'"I': KR-GS/EU
 'don't': TKOEPBT
 'want': WAPBT
-'to!"': TO SKHRAPL KR-GS
+'to!"': TO/SKHRAPL/KR-GS
 'he': HE
 'said': SED
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'wild': WAOEULD
@@ -1872,7 +1872,7 @@ The Velveteen Rabbit
 'have': SR
 'very': SRE
 'sharp': SHARP
-'eyes.': AO*EUS TP-PL
+'eyes.': AO*EUS/TP-PL
 'And': AFPBD
 'this': TH
 'one': WUPB
@@ -1881,57 +1881,57 @@ The Velveteen Rabbit
 'his': HEUS
 'neck': TPHEBG
 'and': SKP
-'looked.': HRAOBGD TP-PL
-'"He': KR-GS KPA/HE
+'looked.': HRAOBGD/TP-PL
+'"He': KR-GS/KPA/HE
 'hasn't': HAEPBT
 'got': TKPWOT
 'any': TPHEU
 'hind': HAOEUPBD
-'legs!"': HREGS SKHRAPL KR-GS
+'legs!"': HREGS/SKHRAPL/KR-GS
 'he': HE
 'called': KAULD
-'out.': OUT TP-PL
-'"Fancy': KR-GS KPA/TPAEPBS
+'out.': OUT/TP-PL
+'"Fancy': KR-GS/KPA/TPAEPBS
 'a': AEU
 'rabbit': RABT
 'without': WOUT
 'any': TPHEU
 'hind': HAOEUPBD
-'legs!"': HREGS SKHRAPL KR-GS
+'legs!"': HREGS/SKHRAPL/KR-GS
 'And': AFPBD
 'he': HE
 'began': TKPWAPB
 'to': TO
-'laugh.': HRAF TP-PL
-'"I': KR-GS EU
-'have!"': SR SKHRAPL KR-GS
+'laugh.': HRAF/TP-PL
+'"I': KR-GS/EU
+'have!"': SR/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
-'Rabbit.': KPA/RABT TP-PL
-'"I': KR-GS EU
+'Rabbit.': KPA/RABT/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'got': TKPWOT
 'hind': HAOEUPBD
-'legs!': HREGS SKHRAPL
+'legs!': HREGS/SKHRAPL
 'I': EU
 'am': APL
 'sitting': SEUGT
 'on': OPB
-'them!"': THEPL SKHRAPL KR-GS
-'"Then': KR-GS KPA/THEPB
+'them!"': THEPL/SKHRAPL/KR-GS
+'"Then': KR-GS/KPA/THEPB
 'stretch': STREFP
 'them': THEPL
 'out': OUT
 'and': SKP
 'show': SHOE
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'like': HRAOEUBG
-'this!"': TH SKHRAPL KR-GS
+'this!"': TH/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'wild': WAOEULD
-'rabbit.': RABT TP-PL
+'rabbit.': RABT/TP-PL
 'And': AFPBD
 'he': HE
 'began': TKPWAPB
@@ -1939,24 +1939,24 @@ The Velveteen Rabbit
 'whirl': WHEURL
 'round': ROUPBD
 'and': SKP
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'till': TEUL
 'the': -T
 'little': HREUL
 'Rabbit': KPA/RABT
 'got': TKPWOT
 'quite': KWAOEUT
-'dizzy.': TKEUZ/SEU TP-PL
-'"I': KR-GS EU
+'dizzy.': TKEUZ/SEU/TP-PL
+'"I': KR-GS/EU
 'don't': TKOEPBT
 'like': HRAOEUBG
-'dancing,"': TKAPBS/-G KW-BG KR-GS
+'dancing,"': TKAPBS/-G/KW-BG/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"I'd': KR-GS EU AE TK*
+'said.': SED/TP-PL
+'"I'd': KR-GS/EU/AE/TK*
 'rather': RAER
 'sit': SEUT
-'still!"': STEUL SKHRAPL KR-GS
+'still!"': STEUL/SKHRAPL/KR-GS
 'But': KPA/PWUT
 'all': AUL
 'the': -T
@@ -1965,7 +1965,7 @@ The Velveteen Rabbit
 'was': WAS
 'longing': HROPBG/-G
 'to': TO
-'dance,': TKAPBS KW-BG
+'dance,': TKAPBS/KW-BG
 'for': TPOR
 'a': AEU
 'funny': TPAOUPB
@@ -1974,7 +1974,7 @@ The Velveteen Rabbit
 'feeling': TPAOELG
 'ran': RAPB
 'through': THRU
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'felt': TPELT
@@ -1994,16 +1994,16 @@ The Velveteen Rabbit
 'like': HRAOEUBG
 'these': THEZ
 'rabbits': RABTS
-'did.': TK TP-PL
+'did.': TK/TP-PL
 'The': KPA/-T
 'strange': STRAEUPBG
 'rabbit': RABT
 'stopped': STOPD
-'dancing,': TKAPBS/-G KW-BG
+'dancing,': TKAPBS/-G/KW-BG
 'and': SKP
 'came': KAEUPL
 'quite': KWAOEUT
-'close.': KHROES TP-PL
+'close.': KHROES/TP-PL
 'He': KPA/HE
 'came': KAEUPL
 'so': SO
@@ -2017,8 +2017,8 @@ The Velveteen Rabbit
 'brushed': PWRURBD
 'the': -T
 'Velveteen': KPA/SREL/SRE/TAOEPB
-'Rabbit's': KPA/RABT AES
-'ear,': AOER KW-BG
+'Rabbit's': KPA/RABT/AES
+'ear,': AOER/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
@@ -2032,42 +2032,42 @@ The Velveteen Rabbit
 'ears': AOERS
 'and': SKP
 'jumped': SKWR*UPLD
-'backwards.': PWABG/WARDZ TP-PL
-'"He': KR-GS KPA/HE
+'backwards.': PWABG/WARDZ/TP-PL
+'"He': KR-GS/KPA/HE
 'doesn't': TKOPBT
 'smell': SPHEL
-'right!"': RAOEUT SKHRAPL KR-GS
+'right!"': RAOEUT/SKHRAPL/KR-GS
 'he': HE
-'exclaimed.': SKHRAEUPLD TP-PL
-'"He': KR-GS KPA/HE
+'exclaimed.': SKHRAEUPLD/TP-PL
+'"He': KR-GS/KPA/HE
 'isn't': S-PBT
 'a': AEU
 'rabbit': RABT
 'at': AT
-'all!': AUL SKHRAPL
+'all!': AUL/SKHRAPL
 'He': KPA/HE
 'isn't': S-PBT
-'real!"': RAEL SKHRAPL KR-GS
-'"I': KR-GS EU
+'real!"': RAEL/SKHRAPL/KR-GS
+'"I': KR-GS/EU
 'am': APL
-'Real!"': KPA/RAEL SKHRAPL KR-GS
+'Real!"': KPA/RAEL/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
-'Rabbit.': KPA/RABT TP-PL
-'"I': KR-GS EU
+'Rabbit.': KPA/RABT/TP-PL
+'"I': KR-GS/EU
 'am': APL
-'Real!': KPA/RAEL SKHRAPL
+'Real!': KPA/RAEL/SKHRAPL
 'The': KPA/-T
 'Boy': KPA/PWOEU
 'said': SED
-'so!"': SO SKHRAPL KR-GS
+'so!"': SO/SKHRAPL/KR-GS
 'And': AFPBD
 'he': HE
 'nearly': TPHAOERL
 'began': TKPWAPB
 'to': TO
-'cry.': KRAOEU TP-PL
+'cry.': KRAOEU/TP-PL
 'Just': KPA/SKWRUFT
 'then': THEPB
 'there': THR
@@ -2075,14 +2075,14 @@ The Velveteen Rabbit
 'a': AEU
 'sound': SOUPBD
 'of': -F
-'footsteps,': TPAOT/STEPS KW-BG
+'footsteps,': TPAOT/STEPS/KW-BG
 'and': SKP
 'the': -T
 'Boy': KPA/PWOEU
 'ran': RAPB
 'past': PAFT
 'near': TPHAOER
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'with': W
 'a': AEU
@@ -2099,31 +2099,31 @@ The Velveteen Rabbit
 'two': TWO
 'strange': STRAEUPBG
 'rabbits': RABTS
-'disappeared.': TKEUS/PAOERD TP-PL
-'"Come': KR-GS KPA/KOPL
+'disappeared.': TKEUS/PAOERD/TP-PL
+'"Come': KR-GS/KPA/KOPL
 'back': PWABG
 'and': SKP
 'play': PHRAEU
 'with': W
-'me!"': PHE SKHRAPL KR-GS
+'me!"': PHE/SKHRAPL/KR-GS
 'called': KAULD
 'the': -T
 'little': HREUL
-'Rabbit.': KPA/RABT TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'Rabbit.': KPA/RABT/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'do': TKO
 'come': KOPL
-'back!': PWABG SKHRAPL
+'back!': PWABG/SKHRAPL
 'I': EU
 'know': TPHOE
 'I': EU
 'am': APL
-'Real!"': KPA/RAEL SKHRAPL KR-GS
+'Real!"': KPA/RAEL/SKHRAPL/KR-GS
 'But': KPA/PWUT
 'there': THR
 'was': WAS
 'no': TPHO
-'answer,': AEPBS KW-BG
+'answer,': AEPBS/KW-BG
 'only': OEPBL
 'the': -T
 'little': HREUL
@@ -2131,7 +2131,7 @@ The Velveteen Rabbit
 'ran': RAPB
 'to': TO
 'and': SKP
-'fro,': TPRO KW-BG
+'fro,': TPRO/KW-BG
 'and': SKP
 'the': -T
 'bracken': PWRABG/*EPB
@@ -2142,24 +2142,24 @@ The Velveteen Rabbit
 'two': TWO
 'strangers': STRAEURPBGS
 'had': H
-'passed.': PAFD TP-PL
+'passed.': PAFD/TP-PL
 'The': KPA/-T
 'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'was': WAS
 'all': AUL
-'alone.': A/HROEPB TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
-'dear!"': TKAER SKHRAPL KR-GS
+'alone.': A/HROEPB/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'dear!"': TKAER/SKHRAPL/KR-GS
 'he': HE
-'thought.': THAUT TP-PL
-'"Why': KR-GS KPA/KWR
+'thought.': THAUT/TP-PL
+'"Why': KR-GS/KPA/KWR
 'did': TK
 'they': THE
 'run': RUPB
 'away': WA*EU
 'like': HRAOEUBG
-'that?': THA H-F
+'that?': THA/H-F
 'Why': KPA/KWR
 'couldn't': KOPBT
 'they': THE
@@ -2167,7 +2167,7 @@ The Velveteen Rabbit
 'and': SKP
 'talk': TAUBG
 'to': TO
-'me?"': PHE H-F KR-GS
+'me?"': PHE/H-F/KR-GS
 'For': KPA/TPOR
 'a': AEU
 'long': HROPBG
@@ -2175,21 +2175,21 @@ The Velveteen Rabbit
 'he': HE
 'lay': HRAEU
 'very': SRE
-'still,': STEUL KW-BG
+'still,': STEUL/KW-BG
 'watching': WAFPG
 'the': -T
-'bracken,': PWRABG/*EPB KW-BG
+'bracken,': PWRABG/*EPB/KW-BG
 'and': SKP
 'hoping': HOEPG
 'that': THA
 'they': THE
 'would': WO
 'come': KOPL
-'back.': PWABG TP-PL
+'back.': PWABG/TP-PL
 'But': KPA/PWUT
 'they': THE
 'never': TPHEFR
-'returned,': RURPBD KW-BG
+'returned,': RURPBD/KW-BG
 'and': SKP
 'presently': PREPBLT
 'the': -T
@@ -2202,7 +2202,7 @@ The Velveteen Rabbit
 'white': WHAOEUT
 'moths': PHO*T/-S
 'fluttered': TPHRUT/ERD
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'the': -T
 'Boy': KPA/PWOEU
@@ -2210,9 +2210,9 @@ The Velveteen Rabbit
 'and': SKP
 'carried': KAERD
 'him': HEUPL
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'Weeks': KPA/WAOEBGS
-'passed,': PAFD KW-BG
+'passed,': PAFD/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -2221,7 +2221,7 @@ The Velveteen Rabbit
 'very': SRE
 'old': OLD
 'and': SKP
-'shabby,': SHAB/KWREU KW-BG
+'shabby,': SHAB/KWREU/KW-BG
 'but': PWUT
 'the': -T
 'Boy': KPA/PWOEU
@@ -2229,7 +2229,7 @@ The Velveteen Rabbit
 'him': HEUPL
 'just': SKWRUFT
 'as': AS
-'much.': PHUFP TP-PL
+'much.': PHUFP/TP-PL
 'He': KPA/HE
 'loved': HROFD
 'him': HEUPL
@@ -2241,7 +2241,7 @@ The Velveteen Rabbit
 'all': AUL
 'his': HEUS
 'whiskers': WHEUS/KER/-S
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'and': SKP
 'the': -T
 'pink': P*EUPBG
@@ -2250,19 +2250,19 @@ The Velveteen Rabbit
 'his': HEUS
 'ears': AOERS
 'turned': TURPBD
-'grey,': TKPWRA*EU KW-BG
+'grey,': TKPWRA*EU/KW-BG
 'and': SKP
 'his': HEUS
 'brown': PWROUPB
 'spots': SPOTS
-'faded.': TPAEUD/-D TP-PL
+'faded.': TPAEUD/-D/TP-PL
 'He': KPA/HE
 'even': AOEPB
 'began': TKPWAPB
 'to': TO
 'lose': HRUZ
 'his': HEUS
-'shape,': SHAEUP KW-BG
+'shape,': SHAEUP/KW-BG
 'and': SKP
 'he': HE
 'scarcely': SKAEURS/HREU
@@ -2271,17 +2271,17 @@ The Velveteen Rabbit
 'a': AEU
 'rabbit': RABT
 'any': TPHEU
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'except': KPEPT
 'to': TO
 'the': -T
-'Boy.': KPA/PWOEU TP-PL
+'Boy.': KPA/PWOEU/TP-PL
 'To': KPA/TO
 'him': HEUPL
 'he': HE
 'was': WAS
 'always': AULS
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'and': SKP
 'that': THA
 'was': WAS
@@ -2291,7 +2291,7 @@ The Velveteen Rabbit
 'little': HREUL
 'Rabbit': KPA/RABT
 'cared': KAEURD
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'He': KPA/HE
 'didn't': TK-PBT
 'mind': PHAOEUPBD
@@ -2300,7 +2300,7 @@ The Velveteen Rabbit
 'looked': HRAOBGD
 'to': TO
 'other': OER
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'because': PWAU
 'the': -T
 'nursery': TPHURS/REU
@@ -2308,7 +2308,7 @@ The Velveteen Rabbit
 'had': H
 'made': PHAED
 'him': HEUPL
-'Real,': KPA/RAEL KW-BG
+'Real,': KPA/RAEL/KW-BG
 'and': SKP
 'when': WHEPB
 'you': U
@@ -2316,26 +2316,26 @@ The Velveteen Rabbit
 'Real': KPA/RAEL
 'shabbiness': SHAB/PWEU/*PBS
 'doesn't': TKOPBT
-'matter.': PHAERT TP-PL
+'matter.': PHAERT/TP-PL
 'And': AFPBD
-'then,': THEPB KW-BG
+'then,': THEPB/KW-BG
 'one': WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'the': -T
 'Boy': KPA/PWOEU
 'was': WAS
-'ill.': EUL TP-PL
+'ill.': EUL/TP-PL
 'His': KPA/HEUS
 'face': TPAEUS
 'grew': TKPWRAOU
 'very': SRE
-'flushed,': TPHRURBD KW-BG
+'flushed,': TPHRURBD/KW-BG
 'and': SKP
 'he': HE
 'talked': TAUBGD
 'in': TPH
 'his': HEUS
-'sleep,': SHRAOEP KW-BG
+'sleep,': SHRAOEP/KW-BG
 'and': SKP
 'his': HEUS
 'little': HREUL
@@ -2352,7 +2352,7 @@ The Velveteen Rabbit
 'he': HE
 'held': HELD
 'him': HEUPL
-'close.': KHROES TP-PL
+'close.': KHROES/TP-PL
 'Strange': KPA/STRAEUPBG
 'people': PAOEPL
 'came': KAEUPL
@@ -2360,7 +2360,7 @@ The Velveteen Rabbit
 'went': WEPBT
 'in': TPH
 'the': -T
-'nursery,': TPHURS/REU KW-BG
+'nursery,': TPHURS/REU/KW-BG
 'and': SKP
 'a': AEU
 'light': HRAOEUT
@@ -2376,17 +2376,17 @@ The Velveteen Rabbit
 'Velveteen': KPA/SREL/SRE/TAOEPB
 'Rabbit': KPA/RABT
 'lay': HRAEU
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'hidden': HEUD/EPB
 'from': TPR
 'sight': SAOEUT
 'under': TPH-PB
 'the': -T
-'bedclothes,': PWED/TK-LS/KHRO*ETS KW-BG
+'bedclothes,': PWED/TK-LS/KHRO*ETS/KW-BG
 'and': SKP
 'he': HE
 'never': TPHEFR
-'stirred,': STEURD KW-BG
+'stirred,': STEURD/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
@@ -2401,7 +2401,7 @@ The Velveteen Rabbit
 'might': PHAOEUT
 'take': TAEUBG
 'him': HEUPL
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'and': SKP
 'he': HE
 'knew': TPHAOU
@@ -2409,13 +2409,13 @@ The Velveteen Rabbit
 'the': -T
 'Boy': KPA/PWOEU
 'needed': TPHAOETD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
 'long': HROPBG
 'weary': WAOE/REU
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'for': TPOR
 'the': -T
 'Boy': KPA/PWOEU
@@ -2423,7 +2423,7 @@ The Velveteen Rabbit
 'too': TAO
 'ill': EUL
 'to': TO
-'play,': PHRAEU KW-BG
+'play,': PHRAEU/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -2438,12 +2438,12 @@ The Velveteen Rabbit
 'do': TKO
 'all': AUL
 'day': TKAEU
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL
 'But': KPA/PWUT
 'he': HE
 'snuggled': STPHUG/-LD
 'down': TKOUPB
-'patiently,': PAEURBT/HREU KW-BG
+'patiently,': PAEURBT/HREU/KW-BG
 'and': SKP
 'looked': HRAOBGD
 'forward': TPAORD
@@ -2456,7 +2456,7 @@ The Velveteen Rabbit
 'should': SHO
 'be': -B
 'well': WEL
-'again,': TKPWEPB KW-BG
+'again,': TKPWEPB/KW-BG
 'and': SKP
 'they': THE
 'would': WO
@@ -2482,14 +2482,14 @@ The Velveteen Rabbit
 'like': HRAOEUBG
 'they': THE
 'used': AOUFD
-'to.': TO TP-PL
+'to.': TO/TP-PL
 'All': KPA/AUL
 'sorts': SORTS
 'of': -F
 'delightful': TKHRAOEUT/-FL
 'things': THEUPBGS
 'he': HE
-'planned,': PHRAPBD KW-BG
+'planned,': PHRAPBD/KW-BG
 'and': SKP
 'while': WHAOEUL
 'the': -T
@@ -2509,17 +2509,17 @@ The Velveteen Rabbit
 'them': THEPL
 'in': TPH
 'his': HEUS
-'ear.': AOER TP-PL
+'ear.': AOER/TP-PL
 'And': AFPBD
 'presently': PREPBLT
 'the': -T
 'fever': TPAOEF
-'turned,': TURPBD KW-BG
+'turned,': TURPBD/KW-BG
 'and': SKP
 'the': -T
 'Boy': KPA/PWOEU
 'got': TKPWOT
-'better.': PWOERT TP-PL
+'better.': PWOERT/TP-PL
 'He': KPA/HE
 'was': WAS
 'able': ABL
@@ -2531,7 +2531,7 @@ The Velveteen Rabbit
 'and': SKP
 'look': HRAOBG
 'at': AT
-'picture-books,': P*EUFP H-PB PWAOBGS KW-BG
+'picture-books,': P*EUFP/H-PB/PWAOBGS/KW-BG
 'while': WHAOEUL
 'the': -T
 'little': HREUL
@@ -2540,29 +2540,29 @@ The Velveteen Rabbit
 'close': KHROES
 'at': AT
 'his': HEUS
-'side.': SAOEUD TP-PL
+'side.': SAOEUD/TP-PL
 'And': AFPBD
 'one': WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'they': THE
 'let': HRET
 'him': HEUPL
 'get': TKPWET
 'up': UP
 'and': SKP
-'dress.': TKRES TP-PL
+'dress.': TKRES/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
-'bright,': PWRAOEUT KW-BG
+'bright,': PWRAOEUT/KW-BG
 'sunny': SAOUPB
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'and': SKP
 'the': -T
 'windows': WOEUPBDZ
 'stood': STAOD
 'wide': WAOEUD
-'open.': OEP TP-PL
+'open.': OEP/TP-PL
 'They': KPA/THE
 'had': H
 'carried': KAERD
@@ -2572,11 +2572,11 @@ The Velveteen Rabbit
 'on': OPB
 'to': TO
 'the': -T
-'balcony,': PWAL/KOEPB KW-BG
+'balcony,': PWAL/KOEPB/KW-BG
 'wrapped': WRAPD
 'in': TPH
 'a': AEU
-'shawl,': SHAUL KW-BG
+'shawl,': SHAUL/KW-BG
 'and': SKP
 'the': -T
 'little': HREUL
@@ -2586,8 +2586,8 @@ The Velveteen Rabbit
 'up': UP
 'among': PHOPBG
 'the': -T
-'bedclothes,': PWED/TK-LS/KHRO*ETS KW-BG
-'thinking.': THEUG TP-PL
+'bedclothes,': PWED/TK-LS/KHRO*ETS/KW-BG
+'thinking.': THEUG/TP-PL
 'The': KPA/-T
 'Boy': KPA/PWOEU
 'was': WAS
@@ -2595,10 +2595,10 @@ The Velveteen Rabbit
 'to': TO
 'the': -T
 'seaside': SAE/SAOEUD
-'to-morrow.': TO H-PB HRO*ER/PHOR/ROE TP-PL
+'to-morrow.': TO/H-PB/HRO*ER/PHOR/ROE/TP-PL
 'Everything': KPA/EFRG
 'was': WAS
-'arranged,': ARPBG/-D KW-BG
+'arranged,': ARPBG/-D/KW-BG
 'and': SKP
 'now': TPHOU
 'it': T
@@ -2609,12 +2609,12 @@ The Velveteen Rabbit
 'out': OUT
 'the': -T
 'doctor's': TKR/AES
-'orders.': ORDZ TP-PL
+'orders.': ORDZ/TP-PL
 'They': KPA/THE
 'talked': TAUBGD
 'about': PW
 'it': T
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'while': WHAOEUL
 'the': -T
 'little': HREUL
@@ -2622,21 +2622,21 @@ The Velveteen Rabbit
 'lay': HRAEU
 'under': TPH-PB
 'the': -T
-'bedclothes,': PWED/TK-LS/KHRO*ETS KW-BG
+'bedclothes,': PWED/TK-LS/KHRO*ETS/KW-BG
 'with': W
 'just': SKWRUFT
 'his': HEUS
 'head': HED
 'peeping': PAOEPG
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
-'listened.': HREUFPBD TP-PL
+'listened.': HREUFPBD/TP-PL
 'The': KPA/-T
 'room': RAOPL
 'was': WAS
 'to': TO
 'be': -B
-'disinfected,': TKEUS/EUPB/TPEBGT/-D KW-BG
+'disinfected,': TKEUS/EUPB/TPEBGT/-D/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
@@ -2653,19 +2653,19 @@ The Velveteen Rabbit
 'bed': PWED
 'must': PHUFT
 'be': -B
-'burnt.': PWURPBT TP-PL
-'"Hurrah!"': KR-GS KPA/HUR/RA SKHRAPL KR-GS
+'burnt.': PWURPBT/TP-PL
+'"Hurrah!"': KR-GS/KPA/HUR/RA/SKHRAPL/KR-GS
 'thought': THAUT
 'the': -T
 'little': HREUL
-'Rabbit.': KPA/RABT TP-PL
-'"To-morrow': KR-GS KPA/TO H-PB HRO*ER/PHOR/ROE
+'Rabbit.': KPA/RABT/TP-PL
+'"To-morrow': KR-GS/KPA/TO/H-PB/HRO*ER/PHOR/ROE
 'we': WE
 'shall': SHAL
 'go': TKPW
 'to': TO
 'the': -T
-'seaside!"': SAE/SAOEUD SKHRAPL KR-GS
+'seaside!"': SAE/SAOEUD/SKHRAPL/KR-GS
 'For': KPA/TPOR
 'the': -T
 'boy': PWOEU
@@ -2674,7 +2674,7 @@ The Velveteen Rabbit
 'talked': TAUBGD
 'of': -F
 'the': -T
-'seaside,': SAE/SAOEUD KW-BG
+'seaside,': SAE/SAOEUD/KW-BG
 'and': SKP
 'he': HE
 'wanted': WAPBTD
@@ -2686,57 +2686,57 @@ The Velveteen Rabbit
 'big': PWEUG
 'waves': WAFS
 'coming': KO*G
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'the': -T
 'tiny': TOEUPB
-'crabs,': KRABS KW-BG
+'crabs,': KRABS/KW-BG
 'and': SKP
 'the': -T
 'sand': SAPBD
-'castles.': KAS/-LS TP-PL
+'castles.': KAS/-LS/TP-PL
 'Just': KPA/SKWRUFT
 'then': THEPB
 'Nana': TPHA/TPHA
 'caught': KAUT
 'sight': SAOEUT
 'of': -F
-'him.': HEUPL TP-PL
-'"How': KR-GS KPA/HOU
+'him.': HEUPL/TP-PL
+'"How': KR-GS/KPA/HOU
 'about': PW
 'his': HEUS
 'old': OLD
-'Bunny?"': KPA/PWUPB/TPHEU H-F KR-GS
+'Bunny?"': KPA/PWUPB/TPHEU/H-F/KR-GS
 'she': SHE
-'asked.': SK-D TP-PL
-'"That?"': KR-GS KPA/THA H-F KR-GS
+'asked.': SK-D/TP-PL
+'"That?"': KR-GS/KPA/THA/H-F/KR-GS
 'said': SED
 'the': -T
-'doctor.': TKR TP-PL
-'"Why,': KR-GS KPA/KWR KW-BG
+'doctor.': TKR/TP-PL
+'"Why,': KR-GS/KPA/KWR/KW-BG
 'it's': T-S
 'a': AEU
 'mass': PHAS
 'of': -F
 'scarlet': SKARLT
 'fever': TPAOEF
-'germs!–Burn': SKWRERPLS SKHRAPL EPB/TKA*RB KPA/PWURPB
+'germs!–Burn': SKWRERPLS/SKHRAPL/EPB/TKA*RB/KPA/PWURPB
 'it': T
 'at': AT
-'once.': WUPBS TP-PL
-'What?': KPA/WHA H-F
-'Nonsense!': KPA/TPHOPB/SEPBS SKHRAPL
+'once.': WUPBS/TP-PL
+'What?': KPA/WHA/H-F
+'Nonsense!': KPA/TPHOPB/SEPBS/SKHRAPL
 'Get': KPA/TKPWET
 'him': HEUPL
 'a': AEU
 'new': TPHU
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'He': KPA/HE
 'mustn't': PHUFPBT
 'have': SR
 'that': THA
 'any': TPHEU
-'more!"': PHOR SKHRAPL KR-GS
+'more!"': PHOR/SKHRAPL/KR-GS
 'And': AFPBD
 'so': SO
 'the': -T
@@ -2750,12 +2750,12 @@ The Velveteen Rabbit
 'with': W
 'the': -T
 'old': OLD
-'picture-books': P*EUFP H-PB PWAOBGS
+'picture-books': P*EUFP/H-PB/PWAOBGS
 'and': SKP
 'a': AEU
 'lot': HROT
 'of': -F
-'rubbish,': RUB/EURB KW-BG
+'rubbish,': RUB/EURB/KW-BG
 'and': SKP
 'carried': KAERD
 'out': OUT
@@ -2767,7 +2767,7 @@ The Velveteen Rabbit
 'garden': TKPWA*RPB
 'behind': HEUPBD
 'the': -T
-'fowl-house.': TPO*UL H-PB HOUS TP-PL
+'fowl-house.': TPO*UL/H-PB/HOUS/TP-PL
 'That': KPA/THA
 'was': WAS
 'a': AEU
@@ -2776,7 +2776,7 @@ The Velveteen Rabbit
 'to': TO
 'make': PHAEUBG
 'a': AEU
-'bonfire,': PWOPB/TPAOEUR KW-BG
+'bonfire,': PWOPB/TPAOEUR/KW-BG
 'only': OEPBL
 'the': -T
 'gardener': TKPWARD/TPHER
@@ -2788,7 +2788,7 @@ The Velveteen Rabbit
 'to': TO
 'attend': A/TEPBD
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'He': KPA/HE
 'had': H
 'the': -T
@@ -2800,7 +2800,7 @@ The Velveteen Rabbit
 'green': TKPWRAOEPB
 'peas': PAOEZ
 'to': TO
-'gather,': TKPWAER KW-BG
+'gather,': TKPWAER/KW-BG
 'but': PWUT
 'next': TPHEGT
 'morning': PHORPBG
@@ -2814,7 +2814,7 @@ The Velveteen Rabbit
 'burn': PWURPB
 'the': -T
 'whole': WHOEL
-'lot.': HROT TP-PL
+'lot.': HROT/TP-PL
 'That': KPA/THA
 'night': TPHAOEUT
 'the': -T
@@ -2823,7 +2823,7 @@ The Velveteen Rabbit
 'in': TPH
 'a': AEU
 'different': TKEUFRT
-'bedroom,': PW-PL KW-BG
+'bedroom,': PW-PL/KW-BG
 'and': SKP
 'he': HE
 'had': H
@@ -2833,19 +2833,19 @@ The Velveteen Rabbit
 'to': TO
 'sleep': SHRAOEP
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
 'splendid': SPHREPB/TKEUD
-'bunny,': PWUPB/TPHEU KW-BG
+'bunny,': PWUPB/TPHEU/KW-BG
 'all': AUL
 'white': WHAOEUT
 'plush': PHRURB
 'with': W
 'real': RAEL
 'glass': TKPWHRAS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'but': PWUT
 'the': -T
 'Boy': KPA/PWOEU
@@ -2857,15 +2857,15 @@ The Velveteen Rabbit
 'very': SRE
 'much': PHUFP
 'about': PW
-'it.': T TP-PL
+'it.': T/TP-PL
 'For': KPA/TPOR
-'to-morrow': TO H-PB HRO*ER/PHOR/ROE
+'to-morrow': TO/H-PB/HRO*ER/PHOR/ROE
 'he': HE
 'was': WAS
 'going': TKPW-G
 'to': TO
 'the': -T
-'seaside,': SAE/SAOEUD KW-BG
+'seaside,': SAE/SAOEUD/KW-BG
 'and': SKP
 'that': THA
 'in': TPH
@@ -2881,17 +2881,17 @@ The Velveteen Rabbit
 'think': THEU
 'of': -F
 'nothing': TPHOG
-'else.': ELS TP-PL
+'else.': ELS/TP-PL
 'And': AFPBD
 'while': WHAOEUL
 'the': -T
 'Boy': KPA/PWOEU
 'was': WAS
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'dreaming': TKRAOEPLG
 'of': -F
 'the': -T
-'seaside,': SAE/SAOEUD KW-BG
+'seaside,': SAE/SAOEUD/KW-BG
 'the': -T
 'little': HREUL
 'Rabbit': KPA/RABT
@@ -2899,24 +2899,24 @@ The Velveteen Rabbit
 'among': PHOPBG
 'the': -T
 'old': OLD
-'picture-books': P*EUFP H-PB PWAOBGS
+'picture-books': P*EUFP/H-PB/PWAOBGS
 'in': TPH
 'the': -T
 'corner': KRORPB
 'behind': HEUPBD
 'the': -T
-'fowl-house,': TPO*UL H-PB HOUS KW-BG
+'fowl-house,': TPO*UL/H-PB/HOUS/KW-BG
 'and': SKP
 'he': HE
 'felt': TPELT
 'very': SRE
-'lonely.': HROEPBL TP-PL
+'lonely.': HROEPBL/TP-PL
 'The': KPA/-T
 'sack': SABG
 'had': H
 'been': PW-PB
 'left': HREFT
-'untied,': UPB/TAOEUD KW-BG
+'untied,': UPB/TAOEUD/KW-BG
 'and': SKP
 'so': SO
 'by': PWEU
@@ -2935,12 +2935,12 @@ The Velveteen Rabbit
 'opening': OEPG
 'and': SKP
 'look': HRAOBG
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'He': KPA/HE
 'was': WAS
 'shivering': SH*EUFR/-G
 'a': AEU
-'little,': HREUL KW-BG
+'little,': HREUL/KW-BG
 'for': TPOR
 'he': HE
 'had': H
@@ -2952,7 +2952,7 @@ The Velveteen Rabbit
 'in': TPH
 'a': AEU
 'proper': PROR
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'and': SKP
 'by': PWEU
 'this': TH
@@ -2975,7 +2975,7 @@ The Velveteen Rabbit
 'any': TPHEU
 'protection': PREBGS
 'to': TO
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Near': KPA/TPHAOER
 'by': PWEU
 'he': HE
@@ -2985,7 +2985,7 @@ The Velveteen Rabbit
 'thicket': THEUBGT
 'of': -F
 'raspberry': RAZ/PWER/REU
-'canes,': KAEUPB/-S KW-BG
+'canes,': KAEUPB/-S/KW-BG
 'growing': TKPWROEG
 'tall': TAUL
 'and': SKP
@@ -2993,7 +2993,7 @@ The Velveteen Rabbit
 'like': HRAOEUBG
 'a': AEU
 'tropical': TROP/K-L
-'jungle,': SKWRUPBG/-L KW-BG
+'jungle,': SKWRUPBG/-L/KW-BG
 'in': TPH
 'whose': WHOZ
 'shadow': SHOEUD
@@ -3005,7 +3005,7 @@ The Velveteen Rabbit
 'Boy': KPA/PWOEU
 'on': OPB
 'bygone': PW*EU/TKPWOPB
-'mornings.': PHORPBGS TP-PL
+'mornings.': PHORPBGS/TP-PL
 'He': KPA/HE
 'thought': THAUT
 'of': -F
@@ -3015,16 +3015,16 @@ The Velveteen Rabbit
 'hours': HOURS
 'in': TPH
 'the': -T
-'garden–how': TKPWA*RPB EPB/TKA*RB HOU
+'garden–how': TKPWA*RPB/EPB/TKA*RB/HOU
 'happy': HAEP
 'they': THE
-'were–and': WR EPB/TKA*RB SKP
+'were–and': WR/EPB/TKA*RB/SKP
 'a': AEU
 'great': TKPWRAET
 'sadness': SAD/-PBS
 'came': KAEUPL
 'over': OEFR
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'He': KPA/HE
 'seemed': SAOEPLD
 'to': TO
@@ -3033,19 +3033,19 @@ The Velveteen Rabbit
 'all': AUL
 'pass': PAS
 'before': PW-FR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'each': AOEFP
 'more': PHOR
 'beautiful': PWAOUFL
 'than': THAPB
 'the': -T
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'the': -T
 'fairy': TPAEUR/REU
 'huts': HUTS
 'in': TPH
 'the': -T
-'flower-bed,': TPHRO*UR H-PB PWED KW-BG
+'flower-bed,': TPHRO*UR/H-PB/PWED/KW-BG
 'the': -T
 'quiet': KWAO*EUT
 'evenings': AOEPBGS
@@ -3065,7 +3065,7 @@ The Velveteen Rabbit
 'ran': RAPB
 'over': OEFR
 'his': HEUS
-'paws;': PAU/-S STPH*FPLT
+'paws;': PAU/-S/STPH*FPLT
 'the': -T
 'wonderful': WUFL
 'day': TKAEU
@@ -3076,24 +3076,24 @@ The Velveteen Rabbit
 'that': THA
 'he': HE
 'was': WAS
-'Real.': KPA/RAEL TP-PL
+'Real.': KPA/RAEL/TP-PL
 'He': KPA/HE
 'thought': THAUT
 'of': -F
 'the': -T
 'Skin': KPA/SKEUPB
-'Horse,': KPA/HORS KW-BG
+'Horse,': KPA/HORS/KW-BG
 'so': SO
 'wise': WAOEUS
 'and': SKP
-'gentle,': SKWR*EPBLT KW-BG
+'gentle,': SKWR*EPBLT/KW-BG
 'and': SKP
 'all': AUL
 'that': THA
 'he': HE
 'had': H
 'told': TOLD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Of': KPA/-F
 'what': WHA
 'use': AOUS
@@ -3114,13 +3114,13 @@ The Velveteen Rabbit
 'all': AUL
 'ended': EPBD/-D
 'like': HRAOEUBG
-'this?': TH H-F
+'this?': TH/H-F
 'And': AFPBD
 'a': AEU
-'tear,': TAER KW-BG
+'tear,': TAER/KW-BG
 'a': AEU
 'real': RAEL
-'tear,': TAER KW-BG
+'tear,': TAER/KW-BG
 'trickled': TREUBG/-LD
 'down': TKOUPB
 'his': HEUS
@@ -3132,13 +3132,13 @@ The Velveteen Rabbit
 'fell': TPEL
 'to': TO
 'the': -T
-'ground.': TKPWROUPBD TP-PL
+'ground.': TKPWROUPBD/TP-PL
 'And': AFPBD
 'then': THEPB
 'a': AEU
 'strange': STRAEUPBG
 'thing': THEUPBG
-'happened.': HAPD TP-PL
+'happened.': HAPD/TP-PL
 'For': KPA/TPOR
 'where': W-R
 'the': -T
@@ -3151,10 +3151,10 @@ The Velveteen Rabbit
 'out': OUT
 'of': -F
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'a': AEU
 'mysterious': PHEUFT/KWROUS
-'flower,': TPHRO*UR KW-BG
+'flower,': TPHRO*UR/KW-BG
 'not': TPHOT
 'at': AT
 'all': AUL
@@ -3164,7 +3164,7 @@ The Velveteen Rabbit
 'grew': TKPWRAOU
 'in': TPH
 'the': -T
-'garden.': TKPWA*RPB TP-PL
+'garden.': TKPWA*RPB/TP-PL
 'It': KPA/T
 'had': H
 'slender': SHRERPBD
@@ -3173,7 +3173,7 @@ The Velveteen Rabbit
 'the': -T
 'colour': KHROUR
 'of': -F
-'emeralds,': EPL/RALDZ KW-BG
+'emeralds,': EPL/RALDZ/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -3186,7 +3186,7 @@ The Velveteen Rabbit
 'like': HRAOEUBG
 'a': AEU
 'golden': TKPWOELD/*EPB
-'cup.': KUP TP-PL
+'cup.': KUP/TP-PL
 'It': KPA/T
 'was': WAS
 'so': SO
@@ -3197,18 +3197,18 @@ The Velveteen Rabbit
 'Rabbit': KPA/RABT
 'forgot': TPAURGT
 'to': TO
-'cry,': KRAOEU KW-BG
+'cry,': KRAOEU/KW-BG
 'and': SKP
 'just': SKWRUFT
 'lay': HRAEU
 'there': THR
 'watching': WAFPG
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'presently': PREPBLT
 'the': -T
 'blossom': PWHROFPL
-'opened,': OEPD KW-BG
+'opened,': OEPD/KW-BG
 'and': SKP
 'out': OUT
 'of': -F
@@ -3216,7 +3216,7 @@ The Velveteen Rabbit
 'there': THR
 'stepped': STEPD
 'a': AEU
-'fairy.': TPAEUR/REU TP-PL
+'fairy.': TPAEUR/REU/TP-PL
 'She': KPA/SHE
 'was': WAS
 'quite': KWAOEUT
@@ -3226,14 +3226,14 @@ The Velveteen Rabbit
 'in': TPH
 'the': -T
 'whole': WHOEL
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'Her': KPA/HER
 'dress': TKRES
 'was': WAS
 'of': -F
 'pearl': PERL
 'and': SKP
-'dew-drops,': TKAO*U H-PB TKROPS KW-BG
+'dew-drops,': TKAO*U/H-PB/TKROPS/KW-BG
 'and': SKP
 'there': THR
 'were': WR
@@ -3244,7 +3244,7 @@ The Velveteen Rabbit
 'and': SKP
 'in': TPH
 'her': HER
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'and': SKP
 'her': HER
 'face': TPAEUS
@@ -3255,7 +3255,7 @@ The Velveteen Rabbit
 'perfect': P-F
 'flower': TPHRO*UR
 'of': -F
-'all.': AUL TP-PL
+'all.': AUL/TP-PL
 'And': AFPBD
 'she': SHE
 'came': KAEUPL
@@ -3283,23 +3283,23 @@ The Velveteen Rabbit
 'all': AUL
 'damp': TKAFRP
 'from': TPR
-'crying.': KRAOEUG TP-PL
-'"Little': KR-GS KPA/HREUL
-'Rabbit,"': KPA/RABT KW-BG KR-GS
+'crying.': KRAOEUG/TP-PL
+'"Little': KR-GS/KPA/HREUL
+'Rabbit,"': KPA/RABT/KW-BG/KR-GS
 'she': SHE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 '"don't': KW-GS/TKOEPBT
 'you': U
 'know': TPHOE
 'who': WHO
 'I': EU
-'am?"': APL H-F KR-GS
+'am?"': APL/H-F/KR-GS
 'The': KPA/-T
 'Rabbit': KPA/RABT
 'looked': HRAOBGD
 'up': UP
 'at': AT
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'it': T
 'seemed': SAOEPLD
@@ -3311,21 +3311,21 @@ The Velveteen Rabbit
 'seen': SAOEPB
 'her': HER
 'face': TPAEUS
-'before,': PW-FR KW-BG
+'before,': PW-FR/KW-BG
 'but': PWUT
 'he': HE
 'couldn't': KOPBT
 'think': THEU
-'where.': W-R TP-PL
-'"I': KR-GS EU
+'where.': W-R/TP-PL
+'"I': KR-GS/EU
 'am': APL
 'the': -T
 'nursery': TPHURS/REU
 'magic': PHAPBLG/EUBG
-'Fairy,"': KPA/TPAEUR/REU KW-BG KR-GS
+'Fairy,"': KPA/TPAEUR/REU/KW-BG/KR-GS
 'she': SHE
-'said.': SED TP-PL
-'"I': KR-GS EU
+'said.': SED/TP-PL
+'"I': KR-GS/EU
 'take': TAEUBG
 'care': KAEUR
 'of': -F
@@ -3336,7 +3336,7 @@ The Velveteen Rabbit
 'the': -T
 'children': KHEURPB
 'have': SR
-'loved.': HROFD TP-PL
+'loved.': HROFD/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'are': R
@@ -3351,7 +3351,7 @@ The Velveteen Rabbit
 'need': TPHAOED
 'them': THEPL
 'any': TPHEU
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'then': THEPB
 'I': EU
 'come': KOPL
@@ -3365,28 +3365,28 @@ The Velveteen Rabbit
 'turn': TURPB
 'them': THEPL
 'into': TPHAO
-'Real."': KPA/RAEL TP-PL KR-GS
+'Real."': KPA/RAEL/TP-PL/KR-GS
 '"Wasn't': KR-GS/KPA*/WAEPBT
 'I': EU
 'Real': KPA/RAEL
-'before?"': PW-FR H-F KR-GS
+'before?"': PW-FR/H-F/KR-GS
 'asked': SK-D
 'the': -T
 'little': HREUL
-'Rabbit.': KPA/RABT TP-PL
-'"You': KR-GS KPA/U
+'Rabbit.': KPA/RABT/TP-PL
+'"You': KR-GS/KPA/U
 'were': WR
 'Real': KPA/RAEL
 'to': TO
 'the': -T
-'Boy,"': KPA/PWOEU KW-BG KR-GS
+'Boy,"': KPA/PWOEU/KW-BG/KR-GS
 'the': -T
 'Fairy': KPA/TPAEUR/REU
-'said,': SED KW-BG
-'"because': KR-GS PWAU
+'said,': SED/KW-BG
+'"because': KR-GS/PWAU
 'he': HE
 'loved': HROFD
-'you.': U TP-PL
+'you.': U/TP-PL
 'Now': KPA/TPHOU
 'you': U
 'shall': SHAL
@@ -3394,7 +3394,7 @@ The Velveteen Rabbit
 'Real': KPA/RAEL
 'to': TO
 'every': EF
-'one."': WUPB TP-PL KR-GS
+'one."': WUPB/TP-PL/KR-GS
 'And': AFPBD
 'she': SHE
 'held': HELD
@@ -3411,21 +3411,21 @@ The Velveteen Rabbit
 'him': HEUPL
 'into': TPHAO
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'It': KPA/T
 'was': WAS
 'light': HRAOEUT
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'for': TPOR
 'the': -T
 'moon': PHAOPB
 'had': H
-'risen.': REUFPB TP-PL
+'risen.': REUFPB/TP-PL
 'All': KPA/AUL
 'the': -T
 'forest': TPOEFRT
 'was': WAS
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'and': SKP
 'the': -T
 'fronds': TPROPBD/-S
@@ -3435,14 +3435,14 @@ The Velveteen Rabbit
 'shone': SHO*EPB
 'like': HRAOEUBG
 'frosted': TPROFT/-D
-'silver.': SEUL/SRER TP-PL
+'silver.': SEUL/SRER/TP-PL
 'In': KPA/TPH
 'the': -T
 'open': OEP
 'glade': TKPWHRAEUD
 'between': TWAOEPB
 'the': -T
-'tree-trunks': TRAOE H-PB TRUPB/-BGS
+'tree-trunks': TRAOE/H-PB/TRUPB/-BGS
 'the': -T
 'wild': WAOEULD
 'rabbits': RABTS
@@ -3453,7 +3453,7 @@ The Velveteen Rabbit
 'on': OPB
 'the': -T
 'velvet': SREL/SRET
-'grass,': TKPWRAS KW-BG
+'grass,': TKPWRAS/KW-BG
 'but': PWUT
 'when': WHEPB
 'they': THE
@@ -3473,17 +3473,17 @@ The Velveteen Rabbit
 'to': TO
 'stare': STAER
 'at': AT
-'her.': HER TP-PL
+'her.': HER/TP-PL
 '"I've': KR-GS/AOEUF
 'brought': PWRAUT
 'you': U
 'a': AEU
 'new': TPHU
-'playfellow,"': PHRAEU/TK-LS/TPO*EUL KW-BG KR-GS
+'playfellow,"': PHRAEU/TK-LS/TPO*EUL/KW-BG/KR-GS
 'the': -T
 'Fairy': KPA/TPAEUR/REU
-'said.': SED TP-PL
-'"You': KR-GS KPA/U
+'said.': SED/TP-PL
+'"You': KR-GS/KPA/U
 'must': PHUFT
 'be': -B
 'very': SRE
@@ -3499,7 +3499,7 @@ The Velveteen Rabbit
 'to': TO
 'know': TPHOE
 'in': TPH
-'Rabbit-land,': KPA/RABT H-PB HRAPBD KW-BG
+'Rabbit-land,': KPA/RABT/H-PB/HRAPBD/KW-BG
 'for': TPOR
 'he': HE
 'is': S
@@ -3511,7 +3511,7 @@ The Velveteen Rabbit
 'for': TPOR
 'ever': -FR
 'and': SKP
-'ever!"': -FR SKHRAPL KR-GS
+'ever!"': -FR/SKHRAPL/KR-GS
 'And': AFPBD
 'she': SHE
 'kissed': K*EUFD
@@ -3525,14 +3525,14 @@ The Velveteen Rabbit
 'down': TKOUPB
 'on': OPB
 'the': -T
-'grass.': TKPWRAS TP-PL
-'"Run': KR-GS KPA/RUPB
+'grass.': TKPWRAS/TP-PL
+'"Run': KR-GS/KPA/RUPB
 'and': SKP
-'play,': PHRAEU KW-BG
+'play,': PHRAEU/KW-BG
 'little': HREUL
-'Rabbit!"': KPA/RABT SKHRAPL KR-GS
+'Rabbit!"': KPA/RABT/SKHRAPL/KR-GS
 'she': SHE
-'said.': SED TP-PL
+'said.': SED/TP-PL
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
@@ -3545,7 +3545,7 @@ The Velveteen Rabbit
 'moment': PHOEPLT
 'and': SKP
 'never': TPHEFR
-'moved.': PHOFD TP-PL
+'moved.': PHOFD/TP-PL
 'For': KPA/TPOR
 'when': WHEPB
 'he': HE
@@ -3563,7 +3563,7 @@ The Velveteen Rabbit
 'about': PW
 'his': HEUS
 'hind': HAOEUPBD
-'legs,': HREGS KW-BG
+'legs,': HREGS/KW-BG
 'and': SKP
 'he': HE
 'didn't': TK-PBT
@@ -3578,7 +3578,7 @@ The Velveteen Rabbit
 'all': AUL
 'in': TPH
 'one': WUPB
-'piece.': PAOES TP-PL
+'piece.': PAOES/TP-PL
 'He': KPA/HE
 'did': TK
 'not': TPHOT
@@ -3596,7 +3596,7 @@ The Velveteen Rabbit
 'had': H
 'changed': KHAEUPBGD
 'him': HEUPL
-'altogether.': HR-GT TP-PL
+'altogether.': HR-GT/TP-PL
 'And': AFPBD
 'he': HE
 'might': PHAOEUT
@@ -3605,11 +3605,11 @@ The Velveteen Rabbit
 'there': THR
 'a': AEU
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'too': TAO
 'shy': SHAOEU
 'to': TO
-'move,': PHOF KW-BG
+'move,': PHOF/KW-BG
 'if': TP
 'just': SKWRUFT
 'then': THEPB
@@ -3617,7 +3617,7 @@ The Velveteen Rabbit
 'hadn't': H-PBT
 'tickled': TEUBG/-LD
 'his': HEUS
-'nose,': TPHOES KW-BG
+'nose,': TPHOES/KW-BG
 'and': SKP
 'before': PW-FR
 'he': HE
@@ -3633,7 +3633,7 @@ The Velveteen Rabbit
 'toe': TO*E
 'to': TO
 'scratch': SKRAFP
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'he': HE
 'found': TPOUPBD
@@ -3642,7 +3642,7 @@ The Velveteen Rabbit
 'actually': TAOULT
 'had': H
 'hind': HAOEUPBD
-'legs!': HREGS SKHRAPL
+'legs!': HREGS/SKHRAPL
 'Instead': KPA/STPHED
 'of': -F
 'dingy': TKEUPBG/KWREU
@@ -3650,15 +3650,15 @@ The Velveteen Rabbit
 'he': HE
 'had': H
 'brown': PWROUPB
-'fur,': TPUR KW-BG
+'fur,': TPUR/KW-BG
 'soft': SOFT
 'and': SKP
-'shiny,': SHOEUPB KW-BG
+'shiny,': SHOEUPB/KW-BG
 'his': HEUS
 'ears': AOERS
 'twitched': TWEUFP/-D
 'by': PWEU
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'and': SKP
 'his': HEUS
 'whiskers': WHEUS/KER/-S
@@ -3669,7 +3669,7 @@ The Velveteen Rabbit
 'they': THE
 'brushed': PWRURBD
 'the': -T
-'grass.': TKPWRAS TP-PL
+'grass.': TKPWRAS/TP-PL
 'He': KPA/HE
 'gave': TKPWAEUF
 'one': WUPB
@@ -3693,7 +3693,7 @@ The Velveteen Rabbit
 'the': -T
 'turf': T*UFR
 'on': OPB
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'jumping': SKWRUFRPG
 'sideways': SAOEUD/WA*ES
 'and': SKP
@@ -3702,7 +3702,7 @@ The Velveteen Rabbit
 'as': AS
 'the': -T
 'others': OERS
-'did,': TK KW-BG
+'did,': TK/KW-BG
 'and': SKP
 'he': HE
 'grew': TKPWRAOU
@@ -3722,35 +3722,35 @@ The Velveteen Rabbit
 'Fairy': KPA/TPAEUR/REU
 'she': SHE
 'had': H
-'gone.': TKPWOPB TP-PL
+'gone.': TKPWOPB/TP-PL
 'He': KPA/HE
 'was': WAS
 'a': AEU
 'Real': KPA/RAEL
 'Rabbit': KPA/RABT
 'at': AT
-'last,': HRAFT KW-BG
+'last,': HRAFT/KW-BG
 'at': AT
 'home': HOEPL
 'with': W
 'the': -T
 'other': OER
-'rabbits.': RABTS TP-PL
+'rabbits.': RABTS/TP-PL
 'Autumn': KPA/AU/UPL
 'passed': PAFD
 'and': SKP
-'Winter,': W*EUPBT/*ER KW-BG
+'Winter,': W*EUPBT/*ER/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
-'Spring,': KPA/SPREUPBG KW-BG
+'Spring,': KPA/SPREUPBG/KW-BG
 'when': WHEPB
 'the': -T
 'days': TKAEUS
 'grew': TKPWRAOU
 'warm': WARPL
 'and': SKP
-'sunny,': SAOUPB KW-BG
+'sunny,': SAOUPB/KW-BG
 'the': -T
 'Boy': KPA/PWOEU
 'went': WEPBT
@@ -3762,12 +3762,12 @@ The Velveteen Rabbit
 'wood': WAOD
 'behind': HEUPBD
 'the': -T
-'house.': HOUS TP-PL
+'house.': HOUS/TP-PL
 'And': AFPBD
 'while': WHAOEUL
 'he': HE
 'was': WAS
-'playing,': PHRAEUG KW-BG
+'playing,': PHRAEUG/KW-BG
 'two': TWO
 'rabbits': RABTS
 'crept': KREPT
@@ -3778,14 +3778,14 @@ The Velveteen Rabbit
 'and': SKP
 'peeped': PAOEPD
 'at': AT
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'One': KPA/WUPB
 'of': -F
 'them': THEPL
 'was': WAS
 'brown': PWROUPB
 'all': AUL
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'but': PWUT
 'the': -T
 'other': OER
@@ -3794,7 +3794,7 @@ The Velveteen Rabbit
 'markings': PHARBG/-GS
 'under': TPH-PB
 'his': HEUS
-'fur,': TPUR KW-BG
+'fur,': TPUR/KW-BG
 'as': AS
 'though': THOE
 'long': HROPBG
@@ -3802,13 +3802,13 @@ The Velveteen Rabbit
 'he': HE
 'had': H
 'been': PW-PB
-'spotted,': SPOT/-D KW-BG
+'spotted,': SPOT/-D/KW-BG
 'and': SKP
 'the': -T
 'spots': SPOTS
 'still': STEUL
 'showed': SHOED
-'through.': THRU TP-PL
+'through.': THRU/TP-PL
 'And': AFPBD
 'about': PW
 'his': HEUS
@@ -3823,15 +3823,15 @@ The Velveteen Rabbit
 'there': THR
 'was': WAS
 'something': S-G
-'familiar,': TPAPL KW-BG
+'familiar,': TPAPL/KW-BG
 'so': SO
 'that': THA
 'the': -T
 'Boy': KPA/PWOEU
 'thought': THAUT
 'to': TO
-'himself:': HEUPLS STPH-FPLT
-'"Why,': KR-GS KPA/KWR KW-BG
+'himself:': HEUPLS/STPH-FPLT
+'"Why,': KR-GS/KPA/KWR/KW-BG
 'he': HE
 'looks': HRAOBGS
 'just': SKWRUFT
@@ -3846,7 +3846,7 @@ The Velveteen Rabbit
 'I': EU
 'had': H
 'scarlet': SKARLT
-'fever!"': TPAOEF SKHRAPL KR-GS
+'fever!"': TPAOEF/SKHRAPL/KR-GS
 'But': KPA/PWUT
 'he': HE
 'never': TPHEFR
@@ -3857,7 +3857,7 @@ The Velveteen Rabbit
 'was': WAS
 'his': HEUS
 'own': OEPB
-'Bunny,': KPA/PWUPB/TPHEU KW-BG
+'Bunny,': KPA/PWUPB/TPHEU/KW-BG
 'come': KOPL
 'back': PWABG
 'to': TO
@@ -3872,4 +3872,4 @@ The Velveteen Rabbit
 'him': HEUPL
 'to': TO
 'be': -B
-'Real.': KPA/RAEL TP-PL
+'Real.': KPA/RAEL/TP-PL

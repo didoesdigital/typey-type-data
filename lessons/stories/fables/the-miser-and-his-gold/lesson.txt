@@ -22,7 +22,7 @@ The Miser and His Gold
 'tree': TRAOE
 'in': TPH
 'his': HEUS
-'garden;': TKPWA*RPB STPH*FPLT
+'garden;': TKPWA*RPB/STPH*FPLT
 'but': PWUT
 'every': EF
 'week': WAOEBG
@@ -38,13 +38,13 @@ The Miser and His Gold
 'gloat': TKPWHROET
 'over': OEFR
 'his': HEUS
-'gains.': TKPWAEUPBS TP-PL
+'gains.': TKPWAEUPBS/TP-PL
 'A': KPA/AEU
-'robber,': ROB/ER KW-BG
+'robber,': ROB/ER/KW-BG
 'who': WHO
 'had': H
 'noticed': TPH-TS/-D
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'went': WEPBT
 'and': SKP
 'dug': TKUG
@@ -54,7 +54,7 @@ The Miser and His Gold
 'and': SKP
 'decamped': TKE/KAPL/-PD
 'with': W
-'it.': T TP-PL
+'it.': T/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'Miser': KPA/PHAOEUS/*ER
@@ -64,18 +64,18 @@ The Miser and His Gold
 'gloat': TKPWHROET
 'over': OEFR
 'his': HEUS
-'treasures,': TR-RBS KW-BG
+'treasures,': TR-RBS/KW-BG
 'he': HE
 'found': TPOUPBD
 'nothing': TPHOG
 'but': PWUT
 'the': -T
 'empty': EPLT
-'hole.': HOEL TP-PL
+'hole.': HOEL/TP-PL
 'He': KPA/HE
 'tore': TO*R
 'his': HEUS
-'hair,': HAEUR KW-BG
+'hair,': HAEUR/KW-BG
 'and': SKP
 'raised': RA*EUFD
 'such': SUFP
@@ -87,7 +87,7 @@ The Miser and His Gold
 'neighbours': TPHAEUBS/A*U
 'came': KAEUPL
 'around': ARPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'told': TOLD
@@ -100,52 +100,52 @@ The Miser and His Gold
 'and': SKP
 'visit': SREUFT
 'his': HEUS
-'gold.': TKPWOELD TP-PL
-'"Did': KR-GS KPA/TK
+'gold.': TKPWOELD/TP-PL
+'"Did': KR-GS/KPA/TK
 'you': U
 'ever': -FR
 'take': TAEUBG
 'any': TPHEU
 'of': -F
 'it': T
-'out?"': OUT H-F KR-GS
+'out?"': OUT/H-F/KR-GS
 'asked': SK-D
 'one': WUPB
 'of': -F
-'them.': THEPL TP-PL
-'"Nay,"': KR-GS KPA/TPHAEU KW-BG KR-GS
+'them.': THEPL/TP-PL
+'"Nay,"': KR-GS/KPA/TPHAEU/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"I': KR-GS EU
+'he,': HE/KW-BG
+'"I': KR-GS/EU
 'only': OEPBL
 'came': KAEUPL
 'to': TO
 'look': HRAOBG
 'at': AT
-'it."': T TP-PL KR-GS
-'"Then': KR-GS KPA/THEPB
+'it."': T/TP-PL/KR-GS
+'"Then': KR-GS/KPA/THEPB
 'come': KOPL
 'again': TKPWEPB
 'and': SKP
 'look': HRAOBG
 'at': AT
 'the': -T
-'hole,"': HOEL KW-BG KR-GS
+'hole,"': HOEL/KW-BG/KR-GS
 'said': SED
 'a': AEU
-'neighbour;': TPHAEUB/A*U STPH*FPLT
-'"it': KR-GS T
+'neighbour;': TPHAEUB/A*U/STPH*FPLT
+'"it': KR-GS/T
 'will': HR
 'do': TKO
 'you': U
 'just': SKWRUFT
 'as': AS
 'much': PHUFP
-'good."': TKPWAOD TP-PL KR-GS
+'good."': TKPWAOD/TP-PL/KR-GS
 'Wealth': KPA/W*ELT
 'unused': UPB/AOUS/-D
 'might': PHAOEUT
 'as': AS
 'well': WEL
 'not': TPHOT
-'exist.': KPEUFT TP-PL
+'exist.': KPEUFT/TP-PL

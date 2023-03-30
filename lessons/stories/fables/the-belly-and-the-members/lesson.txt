@@ -25,17 +25,17 @@ The Belly and the Members
 'having': SR-G
 'all': AUL
 'the': -T
-'food.': TPAOD TP-PL
+'food.': TPAOD/TP-PL
 'So': KPA/SO
 'they': THE
 'held': HELD
 'a': AEU
-'meeting,': PHAOEGT KW-BG
+'meeting,': PHAOEGT/KW-BG
 'and': SKP
 'after': AF
 'a': AEU
 'long': HROPBG
-'discussion,': SKUGS KW-BG
+'discussion,': SKUGS/KW-BG
 'decided': STKAOEUD/-D
 'to': TO
 'strike': STRAOEUBG
@@ -51,26 +51,26 @@ The Belly and the Members
 'share': SHAEUR
 'of': -F
 'the': -T
-'work.': WORBG TP-PL
+'work.': WORBG/TP-PL
 'So': KPA/SO
 'for': TPOR
 'a': AEU
 'day': TKAEU
 'or': OR
-'two,': TWO KW-BG
+'two,': TWO/KW-BG
 'the': -T
 'Hands': KPA/HAPBDZ
 'refused': RAO*UFD
 'to': TO
 'take': TAEUBG
 'the': -T
-'food,': TPAOD KW-BG
+'food,': TPAOD/KW-BG
 'the': -T
 'Mouth': KPA/PHO*UT
 'refused': RAO*UFD
 'to': TO
 'receive': SAOEF
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'the': -T
 'Teeth': KPA/TAO*ET
@@ -78,7 +78,7 @@ The Belly and the Members
 'no': TPHO
 'work': WORBG
 'to': TO
-'do.': TKO TP-PL
+'do.': TKO/TP-PL
 'but': PWUT
 'after': AF
 'a': AEU
@@ -99,12 +99,12 @@ The Belly and the Members
 'a': AEU
 'very': SRE
 'active': TAEF
-'condition:': K-PB STPH-FPLT
+'condition:': K-PB/STPH-FPLT
 'the': -T
 'Hands': KPA/HAPBDZ
 'could': KO
 'hardly': HA*RLD
-'move,': PHOF KW-BG
+'move,': PHOF/KW-BG
 'and': SKP
 'the': -T
 'Mouth': KPA/PHO*UT
@@ -112,7 +112,7 @@ The Belly and the Members
 'all': AUL
 'parched': PAR/-FPD
 'and': SKP
-'dry,': TKRAOEU KW-BG
+'dry,': TKRAOEU/KW-BG
 'while': WHAOEUL
 'the': -T
 'Legs': KPA/HREGS
@@ -141,7 +141,7 @@ The Belly and the Members
 'work': WORBG
 'for': TPOR
 'the': -T
-'Body,': KPA/PWO*ED KW-BG
+'Body,': KPA/PWO*ED/KW-BG
 'and': SKP
 'that': THA
 'all': AUL
@@ -154,4 +154,4 @@ The Belly and the Members
 'will': HR
 'go': TKPW
 'to': TO
-'pieces.': PAOEFS TP-PL
+'pieces.': PAOEFS/TP-PL

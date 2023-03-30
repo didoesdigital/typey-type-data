@@ -13,8 +13,8 @@ The Ridiculous Wishes
 'found': TPOUPBD
 'life': HRAOEUF
 'very': SRE
-'hard.': HARD TP-PL
-'Indeed,': KPA/TPHAOEPBD KW-BG
+'hard.': HARD/TP-PL
+'Indeed,': KPA/TPHAOEPBD/KW-BG
 'it': T
 'was': WAS
 'his': HEUS
@@ -23,7 +23,7 @@ The Ridiculous Wishes
 'toil': TOEUL
 'for': TPOR
 'little': HREUL
-'guerdon,': xxx guerdon KW-BG
+'guerdon,': xxx guerdon/KW-BG
 'and': SKP
 'although': HR*T
 'he': HE
@@ -42,7 +42,7 @@ The Ridiculous Wishes
 'dead': TKED
 'and': SKP
 'below': PWHRO
-'ground.': TKPWROUPBD TP-PL
+'ground.': TKPWROUPBD/TP-PL
 'One': KPA/WUPB
 'day': TKAEU
 'while': WHAOEUL
@@ -54,28 +54,28 @@ The Ridiculous Wishes
 'again': TKPWEPB
 'lamenting': HRAPLT/-G
 'his': HEUS
-'fate.': TPAEUT TP-PL
-'"Some': KR-GS KPA/SOPL
-'men,"': PHEPB KW-BG KR-GS
+'fate.': TPAEUT/TP-PL
+'"Some': KR-GS/KPA/SOPL
+'men,"': PHEPB/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"have': KR-GS SR
+'said,': SED/KW-BG
+'"have': KR-GS/SR
 'only': OEPBL
 'to': TO
 'make': PHAEUBG
 'known': TPHOEPB
 'their': THAEUR
-'desires,': STKAOEURS KW-BG
+'desires,': STKAOEURS/KW-BG
 'and': SKP
 'straightway': STRAEUT/WA*E
 'these': THEZ
 'are': R
-'granted,': TKPWRAPBTD KW-BG
+'granted,': TKPWRAPBTD/KW-BG
 'and': SKP
 'their': THAEUR
 'every': EF
 'wish': WEURB
-'fulfilled;': TPUL/TPEULD STPH*FPLT
+'fulfilled;': TPUL/TPEULD/STPH*FPLT
 'but': PWUT
 'it': T
 'has': HAS
@@ -85,7 +85,7 @@ The Ridiculous Wishes
 'to': TO
 'wish': WEURB
 'for': TPOR
-'ought,': OT KW-BG
+'ought,': OT/KW-BG
 'for': TPOR
 'the': -T
 'gods': TKPWODZ
@@ -97,7 +97,7 @@ The Ridiculous Wishes
 'of': -F
 'such': SUFP
 'as': AS
-'I."': EU TP-PL KR-GS
+'I."': EU/TP-PL/KR-GS
 'As': KPA/AS
 'he': HE
 'spoke': SPOEBG
@@ -109,7 +109,7 @@ The Ridiculous Wishes
 'great': TKPWRAET
 'noise': TPHOEUS
 'of': -F
-'thunder,': THUPBD KW-BG
+'thunder,': THUPBD/KW-BG
 'and': SKP
 'Jupiter': SKWRAOUP/TER
 'appeared': A/PAOERD
@@ -118,7 +118,7 @@ The Ridiculous Wishes
 'wielding': WAOELD/-G
 'his': HEUS
 'mighty': PHAOEUT/KWREU
-'thunderbolts.': THUPBD/*ER/PWOELT/-S TP-PL
+'thunderbolts.': THUPBD/*ER/PWOELT/-S/TP-PL
 'Our': KPA/OUR
 'poor': PAOR
 'man': PHAPB
@@ -131,33 +131,33 @@ The Ridiculous Wishes
 'himself': HEUPLS
 'on': OPB
 'the': -T
-'ground.': TKPWROUPBD TP-PL
-'"My': KR-GS KPA/PHEU
-'lord,"': HRORD KW-BG KR-GS
+'ground.': TKPWROUPBD/TP-PL
+'"My': KR-GS/KPA/PHEU
+'lord,"': HRORD/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"forget': KR-GS TPORGT
+'said,': SED/KW-BG
+'"forget': KR-GS/TPORGT
 'my': PHEU
 'foolish': TPAOL/EURB
-'speech;': SPAOEFP STPH*FPLT
+'speech;': SPAOEFP/STPH*FPLT
 'heed': HAO*ED
 'not': TPHOT
 'my': PHEU
-'wishes,': WEURBS KW-BG
+'wishes,': WEURBS/KW-BG
 'but': PWUT
 'cease': SAOES
 'thy': THAO*EU
-'thundering!"': THUPBD/ERG SKHRAPL KR-GS
-'"Have': KR-GS KPA/SR
+'thundering!"': THUPBD/ERG/SKHRAPL/KR-GS
+'"Have': KR-GS/KPA/SR
 'no': TPHO
-'fear,"': TPAOER KW-BG KR-GS
+'fear,"': TPAOER/KW-BG/KR-GS
 'answered': AEPBS/-D
-'Jupiter;': SKWRAOUP/TER STPH*FPLT
-'"I': KR-GS EU
+'Jupiter;': SKWRAOUP/TER/STPH*FPLT
+'"I': KR-GS/EU
 'have': SR
 'heard': HAERD
 'thy': THAO*EU
-'plaint,': PHRAEUPBT KW-BG
+'plaint,': PHRAEUPBT/KW-BG
 'and': SKP
 'have': SR
 'come': KOPL
@@ -170,16 +170,16 @@ The Ridiculous Wishes
 'thou': THO*U
 'dost': TK*/O*/S*/T*
 'wrong': WROPBG
-'me.': PHE TP-PL
-'Hark!': KPA/HARBG SKHRAPL
-'I,': EU KW-BG
+'me.': PHE/TP-PL
+'Hark!': KPA/HARBG/SKHRAPL
+'I,': EU/KW-BG
 'who': WHO
 'am': APL
 'sovereign': SOFRPB
 'lord': HRORD
 'of': -F
 'this': TH
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'promise': PROPLS
 'to': TO
 'grant': TKPWRAPBT
@@ -195,11 +195,11 @@ The Ridiculous Wishes
 'please': PHRES
 'thee': THAOE
 'to': TO
-'utter,': UT/ER KW-BG
+'utter,': UT/ER/KW-BG
 'whatever': WHAF
 'these': THEZ
 'may': PHAE
-'be.': -B TP-PL
+'be.': -B/TP-PL
 'Consider': KPA/KR
 'well': WEL
 'what': WHA
@@ -209,24 +209,24 @@ The Ridiculous Wishes
 'thee': THAOE
 'joy': SKWROEU
 'and': SKP
-'prosperity,': PROFP/ERT KW-BG
+'prosperity,': PROFP/ERT/KW-BG
 'and': SKP
 'as': AS
 'thy': THAO*EU
 'happiness': HAEP/-PBS
 'is': S
 'at': AT
-'stake,': STAEUBG KW-BG
+'stake,': STAEUBG/KW-BG
 'be': -B
 'not': TPHOT
-'over-hasty,': OEFR H-PB HAEUS/TEU KW-BG
+'over-hasty,': OEFR/H-PB/HAEUS/TEU/KW-BG
 'but': PWUT
 'revolve': RE/SROFL
 'the': -T
 'matter': PHAERT
 'in': TPH
 'thy': THAO*EU
-'mind."': PHAOEUPBD TP-PL KR-GS
+'mind."': PHAOEUPBD/TP-PL/KR-GS
 'Having': KPA/SR-G
 'thus': THUS
 'spoken': SPOEPB
@@ -238,26 +238,26 @@ The Ridiculous Wishes
 'his': HEUS
 'ascent': A/SKREPBT
 'to': TO
-'Olympus.': O/HREUPL/PUS TP-PL
+'Olympus.': O/HREUPL/PUS/TP-PL
 'As': KPA/AS
 'for': TPOR
 'our': OUR
-'woodcutter,': WAOD/KUT/*ER KW-BG
+'woodcutter,': WAOD/KUT/*ER/KW-BG
 'he': HE
 'blithely': PWHRAO*EUT/HREU
 'corded': KORD/-D
 'his': HEUS
-'faggot,': TPAGT KW-BG
+'faggot,': TPAGT/KW-BG
 'and': SKP
 'throwing': THROEG
 'it': T
 'over': OEFR
 'his': HEUS
-'shoulder,': SHOURLD KW-BG
+'shoulder,': SHOURLD/KW-BG
 'made': PHAED
 'for': TPOR
 'his': HEUS
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'To': KPA/TO
 'one': WUPB
 'so': SO
@@ -268,7 +268,7 @@ The Ridiculous Wishes
 'load': HRAOD
 'also': HR-S
 'seemed': SAOEPLD
-'light,': HRAOEUT KW-BG
+'light,': HRAOEUT/KW-BG
 'and': SKP
 'his': HEUS
 'thoughts': THAUTS
@@ -277,14 +277,14 @@ The Ridiculous Wishes
 'as': AS
 'he': HE
 'strode': STROED
-'along.': HRAOPBG TP-PL
+'along.': HRAOPBG/TP-PL
 'Many': KPA/PHAEPB
 'a': AEU
 'wish': WEURB
 'came': KAEUPL
 'into': TPHAO
 'his': HEUS
-'mind,': PHAOEUPBD KW-BG
+'mind,': PHAOEUPBD/KW-BG
 'but': PWUT
 'he': HE
 'was': WAS
@@ -295,7 +295,7 @@ The Ridiculous Wishes
 'advice': SREUS
 'of': -F
 'his': HEUS
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'who': WHO
 'was': WAS
 'a': AEU
@@ -303,44 +303,44 @@ The Ridiculous Wishes
 'woman': WOPL
 'of': -F
 'good': TKPWAOD
-'understanding.': URPBGD TP-PL
+'understanding.': URPBGD/TP-PL
 'He': KPA/HE
 'had': H
 'soon': SAOPB
 'reached': RAOEFPD
 'his': HEUS
-'cottage,': KOT/APBLG KW-BG
+'cottage,': KOT/APBLG/KW-BG
 'and': SKP
 'casting': KAFT/-G
 'down': TKOUPB
 'his': HEUS
-'faggot:': TPAGT STPH-FPLT
-'"Behold': KR-GS KPA/PWE/HOLD
-'me,': PHE KW-BG
-'Fanny,"': KPA/TPAPB/KWREU KW-BG KR-GS
+'faggot:': TPAGT/STPH-FPLT
+'"Behold': KR-GS/KPA/PWE/HOLD
+'me,': PHE/KW-BG
+'Fanny,"': KPA/TPAPB/KWREU/KW-BG/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"Make': KR-GS KPA/PHAEUBG
+'said.': SED/TP-PL
+'"Make': KR-GS/KPA/PHAEUBG
 'up': UP
 'the': -T
 'fire': TPAOEUR
 'and': SKP
 'spread': SPRED
 'the': -T
-'board,': PWAORD KW-BG
+'board,': PWAORD/KW-BG
 'and': SKP
 'let': HRET
 'there': THR
 'be': -B
 'no': TPHO
-'stint.': STEUPBT TP-PL
+'stint.': STEUPBT/TP-PL
 'We': KPA/WE
 'are': R
-'wealthy,': WEL/TH*EU KW-BG
-'Fanny,': KPA/TPAPB/KWREU KW-BG
+'wealthy,': WEL/TH*EU/KW-BG
+'Fanny,': KPA/TPAPB/KWREU/KW-BG
 'wealthy': WEL/TH*EU
 'for': TPOR
-'evermore;': -FR/PHO*R STPH*FPLT
+'evermore;': -FR/PHO*R/STPH*FPLT
 'we': WE
 'have': SR
 'only': OEPBL
@@ -350,7 +350,7 @@ The Ridiculous Wishes
 'whatsoever': WHA/SOFR
 'we': WE
 'may': PHAE
-'desire."': STKAOEUR TP-PL KR-GS
+'desire."': STKAOEUR/TP-PL/KR-GS
 'Thereupon': KPA/THRUP
 'he': HE
 'told': TOLD
@@ -362,14 +362,14 @@ The Ridiculous Wishes
 'had': H
 'befallen': PWE/TPAUL/*EPB
 'that': THA
-'day.': TKAEU TP-PL
-'Fanny,': KPA/TPAPB/KWREU KW-BG
+'day.': TKAEU/TP-PL
+'Fanny,': KPA/TPAPB/KWREU/KW-BG
 'whose': WHOZ
 'mind': PHAOEUPBD
 'was': WAS
 'quick': KWEUBG
 'and': SKP
-'active,': TAEF KW-BG
+'active,': TAEF/KW-BG
 'immediately': PHAOELD
 'conceived': KAUPB/SAOEFD
 'many': PHAEPB
@@ -379,7 +379,7 @@ The Ridiculous Wishes
 'advancement': SRAPLT
 'of': -F
 'their': THAEUR
-'fortune,': TP-RPB KW-BG
+'fortune,': TP-RPB/KW-BG
 'but': PWUT
 'she': SHE
 'approved': A/PROFD
@@ -391,18 +391,18 @@ The Ridiculous Wishes
 'with': W
 'prudence': PRAOUPBS
 'and': SKP
-'circumspection.': SEURBG/SPEBGS TP-PL
-'"'Twere': KR-GS AE xxx Twere
+'circumspection.': SEURBG/SPEBGS/TP-PL
+'"'Twere': KR-GS/AE/xxx Twere
 'a': AEU
-'pity,"': PEUT/TEU KW-BG KR-GS
+'pity,"': PEUT/TEU/KW-BG/KR-GS
 'she': SHE
-'said,': SED KW-BG
-'"to': KR-GS TO
+'said,': SED/KW-BG
+'"to': KR-GS/TO
 'spoil': SPOEUL
 'our': OUR
 'chances': KHAPBSZ
 'through': THRU
-'impatience.': EUPL/PAEURBS TP-PL
+'impatience.': EUPL/PAEURBS/TP-PL
 'We': KPA/WE
 'had': H
 'best': PWEFT
@@ -410,26 +410,26 @@ The Ridiculous Wishes
 'counsel': KOUPB
 'of': -F
 'the': -T
-'night,': TPHAOEUT KW-BG
+'night,': TPHAOEUT/KW-BG
 'and': SKP
 'wish': WEURB
 'no': TPHO
 'wishes': WEURBS
 'until': TPH-L
-'to-morrow."': TO H-PB HRO*ER/PHOR/ROE TP-PL KR-GS
-'"That': KR-GS KPA/THA
+'to-morrow."': TO/H-PB/HRO*ER/PHOR/ROE/TP-PL/KR-GS
+'"That': KR-GS/KPA/THA
 'is': S
 'well': WEL
-'spoken,"': SPOEPB KW-BG KR-GS
+'spoken,"': SPOEPB/KW-BG/KR-GS
 'answered': AEPBS/-D
-'Harry.': HAR/REU TP-PL
-'"Meanwhile': KR-GS KPA/PHAOEPB/WHAOEUL
+'Harry.': HAR/REU/TP-PL
+'"Meanwhile': KR-GS/KPA/PHAOEPB/WHAOEUL
 'fetch': TPEFP
 'a': AEU
 'bottle': PWO*LT
 'of': -F
 'our': OUR
-'best,': PWEFT KW-BG
+'best,': PWEFT/KW-BG
 'and': SKP
 'we': WE
 'shall': SHAL
@@ -437,7 +437,7 @@ The Ridiculous Wishes
 'to': TO
 'our': OUR
 'good': TKPWAOD
-'fortune."': TP-RPB TP-PL KR-GS
+'fortune."': TP-RPB/TP-PL/KR-GS
 'Fanny': KPA/TPAPB/KWREU
 'brought': PWRAUT
 'a': AEU
@@ -447,13 +447,13 @@ The Ridiculous Wishes
 'store': STOR
 'behind': HEUPBD
 'the': -T
-'faggots,': TPAGT/-S KW-BG
+'faggots,': TPAGT/-S/KW-BG
 'and': SKP
 'our': OUR
 'man': PHAPB
 'enjoyed': EPB/SKWROEUD
 'his': HEUS
-'ease,': AOES KW-BG
+'ease,': AOES/KW-BG
 'leaning': HRAOEPBG
 'back': PWABG
 'in': TPH
@@ -470,19 +470,19 @@ The Ridiculous Wishes
 'goblet': TKPWOBLT
 'in': TPH
 'his': HEUS
-'hand.': HAPBD TP-PL
-'"What': KR-GS KPA/WHA
+'hand.': HAPBD/TP-PL
+'"What': KR-GS/KPA/WHA
 'fine': TPAOEUPB
 'glowing': TKPWHROEG
-'embers!"': EPL/PWER/-S SKHRAPL KR-GS
+'embers!"': EPL/PWER/-S/SKHRAPL/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"and': KR-GS SKP
+'said,': SED/KW-BG
+'"and': KR-GS/SKP
 'what': WHA
 'a': AEU
 'fine': TPAOEUPB
 'toasting': TOEFT/-G
-'fire!': TPAOEUR SKHRAPL
+'fire!': TPAOEUR/SKHRAPL
 'I': EU
 'wish': WEURB
 'we': WE
@@ -491,7 +491,7 @@ The Ridiculous Wishes
 'black': PWHRABG
 'pudding': PUD/-G
 'at': AT
-'hand."': HAPBD TP-PL KR-GS
+'hand."': HAPBD/TP-PL/KR-GS
 'Hardly': KPA/HA*RLD
 'had': H
 'he': HE
@@ -501,41 +501,41 @@ The Ridiculous Wishes
 'when': WHEPB
 'his': HEUS
 'wife': WAOEUF
-'beheld,': PWE/HELD KW-BG
+'beheld,': PWE/HELD/KW-BG
 'to': TO
 'her': HER
 'great': TKPWRAET
-'astonishment,': AS/TOPB/SH-PLT KW-BG
+'astonishment,': AS/TOPB/SH-PLT/KW-BG
 'a': AEU
 'long': HROPBG
 'black': PWHRABG
 'pudding': PUD/-G
-'which,': WEU KW-BG
+'which,': WEU/KW-BG
 'issuing': *EURB/-G
 'from': TPR
 'a': AEU
 'corner': KRORPB
 'of': -F
 'the': -T
-'hearth,': HAERT KW-BG
+'hearth,': HAERT/KW-BG
 'came': KAEUPL
 'winding': WAOEUPBD/-G
 'and': SKP
 'wriggling': WREUG/-LG
 'towards': TORDZ
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'She': KPA/SHE
 'uttered': UT/ERD
 'a': AEU
 'cry': KRAOEU
 'of': -F
-'fear,': TPAOER KW-BG
+'fear,': TPAOER/KW-BG
 'and': SKP
 'then': THEPB
 'again': TKPWEPB
 'exclaimed': SKHRAEUPLD
 'in': TPH
-'dismay,': TKEUS/PHAEU KW-BG
+'dismay,': TKEUS/PHAEU/KW-BG
 'when': WHEPB
 'she': SHE
 'perceived': SPAOEFD
@@ -556,10 +556,10 @@ The Ridiculous Wishes
 'rashly': RARB/HREU
 'and': SKP
 'foolishly': TPAOL/EURB/HREU
-'spoken.': SPOEPB TP-PL
+'spoken.': SPOEPB/TP-PL
 'Turning': KPA/TURPBG
 'upon': POPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'in': TPH
 'her': HER
 'anger': ARPBG
@@ -579,29 +579,29 @@ The Ridiculous Wishes
 'could': KO
 'think': THEU
 'of.': -F/TP-PL
-'"What!"': KR-GS KPA/WHA SKHRAPL KR-GS
+'"What!"': KR-GS/KPA/WHA/SKHRAPL/KR-GS
 'she': SHE
 'said': SED
 'to': TO
-'him,': HEUPL KW-BG
-'"when': KR-GS WHEPB
+'him,': HEUPL/KW-BG
+'"when': KR-GS/WHEPB
 'you': U
 'can': K
 'call': KAUL
 'for': TPOR
 'a': AEU
-'kingdom,': KEUPBG/TKOPL KW-BG
+'kingdom,': KEUPBG/TKOPL/KW-BG
 'for': TPOR
-'gold,': TKPWOELD KW-BG
-'pearls,': PERLS KW-BG
-'rubies,': RAOU/PWEU/KWREU/-S KW-BG
-'diamonds,': TKAOEUPLDZ KW-BG
+'gold,': TKPWOELD/KW-BG
+'pearls,': PERLS/KW-BG
+'rubies,': RAOU/PWEU/KWREU/-S/KW-BG
+'diamonds,': TKAOEUPLDZ/KW-BG
 'for': TPOR
 'princely': PREUPBS/HREU
 'garments': TKPWARPLTS
 'and': SKP
 'wealth': W*ELT
-'untold,': xxx untold KW-BG
+'untold,': xxx untold/KW-BG
 'is': S
 'this': TH
 'the': -T
@@ -612,19 +612,19 @@ The Ridiculous Wishes
 'mind': PHAOEUPBD
 'upon': POPB
 'black': PWHRABG
-'puddings!"': PUD/-G/-S SKHRAPL KR-GS
-'"Nay!"': KR-GS KPA/TPHAEU SKHRAPL KR-GS
+'puddings!"': PUD/-G/-S/SKHRAPL/KR-GS
+'"Nay!"': KR-GS/KPA/TPHAEU/SKHRAPL/KR-GS
 'answered': AEPBS/-D
 'the': -T
-'man,': PHAPB KW-BG
+'man,': PHAPB/KW-BG
 '"'twas': KW-GS/TWA*S
 'a': AEU
 'thoughtless': THAUT/-LS
-'speech,': SPAOEFP KW-BG
+'speech,': SPAOEFP/KW-BG
 'and': SKP
 'a': AEU
 'sad': SAD
-'mistake;': SPHAEUBG STPH*FPLT
+'mistake;': SPHAEUBG/STPH*FPLT
 'but': PWUT
 'I': EU
 'shall': SHAL
@@ -632,29 +632,29 @@ The Ridiculous Wishes
 'be': -B
 'on': OPB
 'my': PHEU
-'guard,': TKPWARD KW-BG
+'guard,': TKPWARD/KW-BG
 'and': SKP
 'shall': SHAL
 'do': TKO
 'better': PWOERT
 'next': TPHEGT
-'time."': TAOEUPL TP-PL KR-GS
-'"Who': KR-GS KPA/WHO
+'time."': TAOEUPL/TP-PL/KR-GS
+'"Who': KR-GS/KPA/WHO
 'knows': TPHOEZ
 'that': THA
 'you': U
-'will?"': HR H-F KR-GS
+'will?"': HR/H-F/KR-GS
 'returned': RURPBD
 'his': HEUS
-'wife.': WAOEUF TP-PL
-'"Once': KR-GS KPA/WUPBS
+'wife.': WAOEUF/TP-PL
+'"Once': KR-GS/KPA/WUPBS
 'a': AEU
 'witless': WEUT/-LS
-'fool,': TPAOL KW-BG
+'fool,': TPAOL/KW-BG
 'always': AULS
 'a': AEU
 'witless': WEUT/-LS
-'fool!"': TPAOL SKHRAPL KR-GS
+'fool!"': TPAOL/SKHRAPL/KR-GS
 'and': SKP
 'giving': TKPWEUFG
 'free': TPRAOE
@@ -663,7 +663,7 @@ The Ridiculous Wishes
 'her': HER
 'vexation': SREBGS/AEUGS
 'and': SKP
-'ill-temper': EUL H-PB TEPL/PER
+'ill-temper': EUL/H-PB/TEPL/PER
 'she': SHE
 'continued': T-PBD
 'to': TO
@@ -675,7 +675,7 @@ The Ridiculous Wishes
 'anger': ARPBG
 'also': HR-S
 'was': WAS
-'stirred,': STEURD KW-BG
+'stirred,': STEURD/KW-BG
 'and': SKP
 'he': HE
 'had': H
@@ -688,27 +688,27 @@ The Ridiculous Wishes
 'wished': WEURBD
 'himself': HEUPLS
 'a': AEU
-'widower.': WEUD/OER TP-PL
-'"Enough!': KR-GS KPA/TPHUF SKHRAPL
-'woman,"': WOPL KW-BG KR-GS
+'widower.': WEUD/OER/TP-PL
+'"Enough!': KR-GS/KPA/TPHUF/SKHRAPL
+'woman,"': WOPL/KW-BG/KR-GS
 'he': HE
 'cried': KRAOEUD
 'at': AT
-'last;': HRAFT STPH*FPLT
-'"put': KR-GS PUT
+'last;': HRAFT/STPH*FPLT
+'"put': KR-GS/PUT
 'a': AEU
 'check': KHEBG
 'upon': POPB
 'thy': THAO*EU
 'froward': TPRO/WA*RD
-'tongue!': TUPBG SKHRAPL
+'tongue!': TUPBG/SKHRAPL
 'Who': KPA/WHO
 'ever': -FR
 'heard': HAERD
 'such': SUFP
 'impertinence': *EUPL/PERT/TPHEPBS
 'as': AS
-'this!': TH SKHRAPL
+'this!': TH/SKHRAPL
 'A': KPA/AEU
 'plague': PHRA*EUG
 'on': OPB
@@ -717,7 +717,7 @@ The Ridiculous Wishes
 'and': SKP
 'on': OPB
 'her': HER
-'pudding!': PUD/-G SKHRAPL
+'pudding!': PUD/-G/SKHRAPL
 'Would': KPA/WO
 'to': TO
 'heaven': HEFPB
@@ -728,7 +728,7 @@ The Ridiculous Wishes
 'end': EPBD
 'of': -F
 'her': HER
-'nose!"': TPHOES SKHRAPL KR-GS
+'nose!"': TPHOES/SKHRAPL/KR-GS
 'No': KPA/TPHO
 'sooner': SAORPB
 'had': H
@@ -744,7 +744,7 @@ The Ridiculous Wishes
 'wish': WEURB
 'was': WAS
 'straightway': STRAEUT/WA*E
-'granted,': TKPWRAPBTD KW-BG
+'granted,': TKPWRAPBTD/KW-BG
 'and': SKP
 'the': -T
 'long': HROPBG
@@ -757,8 +757,8 @@ The Ridiculous Wishes
 'to': TO
 'the': -T
 'angry': APBG/REU
-'dame's': TKAEUPL AES
-'nose.': TPHOES TP-PL
+'dame's': TKAEUPL/AES
+'nose.': TPHOES/TP-PL
 'Our': KPA/OUR
 'man': PHAPB
 'paused': PAUFD
@@ -768,22 +768,22 @@ The Ridiculous Wishes
 'what': WHA
 'he': HE
 'had': H
-'wrought.': WROT TP-PL
+'wrought.': WROT/TP-PL
 'Fanny': KPA/TPAPB/KWREU
 'was': WAS
 'a': AEU
 'comely': KOPL/HREU
 'young': KWRUPBG
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'and': SKP
 'blest': PWHREFT
 'with': W
 'good': TKPWAOD
-'looks,': HRAOBGS KW-BG
+'looks,': HRAOBGS/KW-BG
 'and': SKP
 'truth': TRAO*UT
 'to': TO
-'tell,': TEL KW-BG
+'tell,': TEL/KW-BG
 'this': TH
 'new': TPHU
 'ornament': ORPB/*PLT
@@ -792,12 +792,12 @@ The Ridiculous Wishes
 'set': SET
 'off': OF
 'her': HER
-'beauty.': PWAOUT TP-PL
+'beauty.': PWAOUT/TP-PL
 'Yet': KPA/KWRET
 'it': T
 'offered': OFRD
 'one': WUPB
-'advantage,': SRAPBG KW-BG
+'advantage,': SRAPBG/KW-BG
 'that': THA
 'as': AS
 'it': T
@@ -805,21 +805,21 @@ The Ridiculous Wishes
 'right': RAOEUT
 'before': PW-FR
 'her': HER
-'mouth,': PHO*UT KW-BG
+'mouth,': PHO*UT/KW-BG
 'it': T
 'would': WO
 'thus': THUS
 'effectively': TPEFL
 'curb': KURB
 'her': HER
-'speech.': SPAOEFP TP-PL
-'So,': KPA/SO KW-BG
+'speech.': SPAOEFP/TP-PL
+'So,': KPA/SO/KW-BG
 'having': SR-G
 'now': TPHOU
 'but': PWUT
 'one': WUPB
 'wish': WEURB
-'left,': HREFT KW-BG
+'left,': HREFT/KW-BG
 'he': HE
 'had': H
 'all': AUL
@@ -833,14 +833,14 @@ The Ridiculous Wishes
 'it': T
 'without': WOUT
 'further': TPURT
-'delay,': TKHRAEU KW-BG
-'and,': SKP KW-BG
+'delay,': TKHRAEU/KW-BG
+'and,': SKP/KW-BG
 'before': PW-FR
 'any': TPHEU
 'other': OER
 'mischance': PHEUZ/KHAPBS
 'could': KO
-'befall,': PWE/TPAUL KW-BG
+'befall,': PWE/TPAUL/KW-BG
 'to': TO
 'wish': WEURB
 'himself': HEUPLS
@@ -848,14 +848,14 @@ The Ridiculous Wishes
 'kingdom': KEUPBG/TKOPL
 'of': -F
 'his': HEUS
-'own.': OEPB TP-PL
+'own.': OEPB/TP-PL
 'He': KPA/HE
 'was': WAS
 'about': PW
 'to': TO
 'speak': SPAOEBG
 'the': -T
-'word,': WORD KW-BG
+'word,': WORD/KW-BG
 'when': WHEPB
 'he': HE
 'was': WAS
@@ -863,15 +863,15 @@ The Ridiculous Wishes
 'by': PWEU
 'a': AEU
 'sudden': SUD
-'thought.': THAUT TP-PL
-'"It': KR-GS KPA/T
+'thought.': THAUT/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
-'true,"': TRAOU KW-BG KR-GS
+'true,"': TRAOU/KW-BG/KR-GS
 'he': HE
 'said': SED
 'to': TO
-'himself,': HEUPLS KW-BG
-'"that': KR-GS THA
+'himself,': HEUPLS/KW-BG
+'"that': KR-GS/THA
 'there': THR
 'is': S
 'none': TPHOPB
@@ -879,7 +879,7 @@ The Ridiculous Wishes
 'great': TKPWRAET
 'as': AS
 'a': AEU
-'King,': KO*EUPBG KW-BG
+'King,': KO*EUPBG/KW-BG
 'but': PWUT
 'what': WHA
 'of': -F
@@ -889,7 +889,7 @@ The Ridiculous Wishes
 'must': PHUFT
 'share': SHAEUR
 'his': HEUS
-'dignity?': TKEUG/TEU H-F
+'dignity?': TKEUG/TEU/H-F
 'With': KPA/W
 'what': WHA
 'grace': TKPWRAEUS
@@ -909,7 +909,7 @@ The Ridiculous Wishes
 'pudding': PUD/-G
 'for': TPOR
 'a': AEU
-'nose?"': TPHOES H-F KR-GS
+'nose?"': TPHOES/H-F/KR-GS
 'In': KPA/TPH
 'this': TH
 'dilemma': TKHREPL/A
@@ -920,7 +920,7 @@ The Ridiculous Wishes
 'the': -T
 'case': KAEUS
 'to': TO
-'Fanny,': KPA/TPAPB/KWREU KW-BG
+'Fanny,': KPA/TPAPB/KWREU/KW-BG
 'and': SKP
 'to': TO
 'leave': HREF
@@ -933,7 +933,7 @@ The Ridiculous Wishes
 'rather': RAER
 'be': -B
 'a': AEU
-'Queen,': KWAO*EPB KW-BG
+'Queen,': KWAO*EPB/KW-BG
 'with': W
 'this': TH
 'most': PHOFT
@@ -942,12 +942,12 @@ The Ridiculous Wishes
 'marring': PHAR/-G
 'her': HER
 'good': TKPWAOD
-'looks,': HRAOBGS KW-BG
+'looks,': HRAOBGS/KW-BG
 'or': OR
 'remain': RAEUPL
 'a': AEU
 'peasant': PEFPBT
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'but': PWUT
 'with': W
 'her': HER
@@ -957,13 +957,13 @@ The Ridiculous Wishes
 'of': -F
 'this': TH
 'untoward': UPB/TAORD
-'addition.': AGS TP-PL
-'Fanny's': KPA/TPAPB/KWREU AES
+'addition.': AGS/TP-PL
+'Fanny's': KPA/TPAPB/KWREU/AES
 'mind': PHAOEUPBD
 'was': WAS
 'soon': SAOPB
 'made': PHAED
-'up:': UP STPH-FPLT
+'up:': UP/STPH-FPLT
 'although': HR*T
 'she': SHE
 'had': H
@@ -972,7 +972,7 @@ The Ridiculous Wishes
 'a': AEU
 'crown': KROUPB
 'and': SKP
-'sceptre,': SEP/TER/A*U KW-BG
+'sceptre,': SEP/TER/A*U/KW-BG
 'yet': KWRET
 'a': AEU
 'woman's': WOPL/AES
@@ -981,7 +981,7 @@ The Ridiculous Wishes
 'is': S
 'always': AULS
 'to': TO
-'please.': PHRES TP-PL
+'please.': PHRES/TP-PL
 'To': KPA/TO
 'this': TH
 'great': TKPWRAET
@@ -989,7 +989,7 @@ The Ridiculous Wishes
 'all': AUL
 'else': ELS
 'must': PHUFT
-'yield,': KWRAOELD KW-BG
+'yield,': KWRAOELD/KW-BG
 'and': SKP
 'Fanny': KPA/TPAPB/KWREU
 'would': WO
@@ -1005,7 +1005,7 @@ The Ridiculous Wishes
 'with': W
 'an': APB
 'ugly': ULG
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'Thus': KPA/THUS
 'our': OUR
 'woodcutter': WAOD/KUT/*ER
@@ -1013,19 +1013,19 @@ The Ridiculous Wishes
 'not': TPHOT
 'change': KHAEUPBG
 'his': HEUS
-'state,': STAEUT KW-BG
+'state,': STAEUT/KW-BG
 'did': TK
 'not': TPHOT
 'become': PW-BG
 'a': AEU
-'potentate,': POE/TEPB/TAEUT KW-BG
+'potentate,': POE/TEPB/TAEUT/KW-BG
 'nor': TPH-R
 'fill': TPEUL
 'his': HEUS
 'purse': PURS
 'with': W
 'golden': TKPWOELD/*EPB
-'crowns.': KROUPBS TP-PL
+'crowns.': KROUPBS/TP-PL
 'He': KPA/HE
 'was': WAS
 'thankful': THAPBG/-FL
@@ -1039,7 +1039,7 @@ The Ridiculous Wishes
 'a': AEU
 'more': PHOR
 'humble': HUPL/-BL
-'purpose,': PURP KW-BG
+'purpose,': PURP/KW-BG
 'and': SKP
 'forthwith': TPA*URT/W
 'relieved': RE/HREFD
@@ -1047,4 +1047,4 @@ The Ridiculous Wishes
 'wife': WAOEUF
 'of': -F
 'her': HER
-'encumbrance.': EPB/KUPL/PWRAPBS TP-PL
+'encumbrance.': EPB/KUPL/PWRAPBS/TP-PL

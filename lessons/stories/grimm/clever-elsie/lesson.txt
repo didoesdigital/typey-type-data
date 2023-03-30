@@ -13,7 +13,7 @@ Clever Elsie
 'was': WAS
 'called': KAULD
 'Clever': KPA/KHREFR
-'Elsie.': EL/SEU TP-PL
+'Elsie.': EL/SEU/TP-PL
 'And': AFPBD
 'when': WHEPB
 'she': SHE
@@ -22,17 +22,17 @@ Clever Elsie
 'up': UP
 'her': HER
 'father': TPAER
-'said:': SED STPH-FPLT
-''We': AE KPA/WE
+'said:': SED/STPH-FPLT
+''We': AE/KPA/WE
 'will': HR
 'get': TKPWET
 'her': HER
-'married.'': PHAERD TP-PL AE
-''Yes,'': AE KPA/KWRE KW-BG AE
+'married.'': PHAERD/TP-PL/AE
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'said': SED
 'the': -T
-'mother,': PHOER KW-BG
-''if': AE TP
+'mother,': PHOER/KW-BG
+''if': AE/TP
 'only': OEPBL
 'someone': SPH-PB
 'would': WO
@@ -40,7 +40,7 @@ Clever Elsie
 'who': WHO
 'would': WO
 'have': SR
-'her.'': HER TP-PL AE
+'her.'': HER/TP-PL/AE
 'At': KPA/AT
 'length': HREPBG
 'a': AEU
@@ -51,11 +51,11 @@ Clever Elsie
 'distance': STKAPBS
 'and': SKP
 'wooed': WAO/-D
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'who': WHO
 'was': WAS
 'called': KAULD
-'Hans;': HAPBS STPH*FPLT
+'Hans;': HAPBS/STPH*FPLT
 'but': PWUT
 'he': HE
 'stipulated': STEUP/HRAEUTD
@@ -65,22 +65,22 @@ Clever Elsie
 'should': SHO
 'be': -B
 'really': R-L
-'smart.': SPHART TP-PL
-''Oh,'': AE KPA/O*ERBGS KW-BG AE
+'smart.': SPHART/TP-PL
+''Oh,'': AE/KPA/O*ERBGS/KW-BG/AE
 'said': SED
 'the': -T
-'father,': TPAER KW-BG
-''she': AE SHE
+'father,': TPAER/KW-BG
+''she': AE/SHE
 'has': HAS
 'plenty': PHREPBT
 'of': -F
 'good': TKPWAOD
-'sense';': SEPBS AE STPH*FPLT
+'sense';': SEPBS/AE/STPH*FPLT
 'and': SKP
 'the': -T
 'mother': PHOER
-'said:': SED STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'said:': SED/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'she': SHE
 'can': K
 'see': SAOE
@@ -89,25 +89,25 @@ Clever Elsie
 'coming': KO*G
 'up': UP
 'the': -T
-'street,': STRAOET KW-BG
+'street,': STRAOET/KW-BG
 'and': SKP
 'hear': HAER
 'the': -T
 'flies': TPHRAOEUS
-'coughing.'': KOFG TP-PL AE
-''Well,'': AE KPA/WEL KW-BG AE
+'coughing.'': KOFG/TP-PL/AE
+''Well,'': AE/KPA/WEL/KW-BG/AE
 'said': SED
-'Hans,': HAPBS KW-BG
-''if': AE TP
+'Hans,': HAPBS/KW-BG
+''if': AE/TP
 'she': SHE
 'is': S
 'not': TPHOT
 'really': R-L
-'smart,': SPHART KW-BG
+'smart,': SPHART/KW-BG
 'I': EU
 'won't': WOEPBT
 'have': SR
-'her.'': HER TP-PL AE
+'her.'': HER/TP-PL/AE
 'When': KPA/WHEPB
 'they': THE
 'were': WR
@@ -116,11 +116,11 @@ Clever Elsie
 'dinner': TKEURPB
 'and': SKP
 'had': H
-'eaten,': AOET/EPB KW-BG
+'eaten,': AOET/EPB/KW-BG
 'the': -T
 'mother': PHOER
-'said:': SED STPH-FPLT
-''Elsie,': AE EL/SEU KW-BG
+'said:': SED/STPH-FPLT
+''Elsie,': AE/EL/SEU/KW-BG
 'go': TKPW
 'into': TPHAO
 'the': -T
@@ -128,7 +128,7 @@ Clever Elsie
 'and': SKP
 'fetch': TPEFP
 'some': SOPL
-'beer.'': PWAOER TP-PL AE
+'beer.'': PWAOER/TP-PL/AE
 'Then': KPA/THEPB
 'Clever': KPA/KHREFR
 'Elsie': EL/SEU
@@ -137,11 +137,11 @@ Clever Elsie
 'pitcher': PEUFRP
 'from': TPR
 'the': -T
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'and': SKP
 'tapped': TAPD
 'the': -T
@@ -149,7 +149,7 @@ Clever Elsie
 'briskly': PWREUS/KHREU
 'as': AS
 'she': SHE
-'went,': WEPBT KW-BG
+'went,': WEPBT/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -157,7 +157,7 @@ Clever Elsie
 'might': PHAOEUT
 'not': TPHOT
 'appear': A/PAOER
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL
 'When': KPA/WHEPB
 'she': SHE
 'was': WAS
@@ -166,7 +166,7 @@ Clever Elsie
 'fetched': TPEFP/-D
 'herself': H*ERS
 'a': AEU
-'chair,': KHAEUR KW-BG
+'chair,': KHAEUR/KW-BG
 'and': SKP
 'set': SET
 'it': T
@@ -180,7 +180,7 @@ Clever Elsie
 'no': TPHO
 'need': TPHAOED
 'to': TO
-'stoop,': STAOP KW-BG
+'stoop,': STAOP/KW-BG
 'and': SKP
 'did': TK
 'not': TPHOT
@@ -192,18 +192,18 @@ Clever Elsie
 'herself': H*ERS
 'any': TPHEU
 'unexpected': UPB/EBGS/PEBGD
-'injury.': SKWRAOUR TP-PL
+'injury.': SKWRAOUR/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'placed': PHRAEUFD
 'the': -T
 'can': K
 'before': PW-FR
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'turned': TURPBD
 'the': -T
-'tap,': TAP KW-BG
+'tap,': TAP/KW-BG
 'and': SKP
 'while': WHAOEUL
 'the': -T
@@ -217,33 +217,33 @@ Clever Elsie
 'her': HER
 'eyes': AO*EUS
 'be': -B
-'idle,': AOEUD/*L KW-BG
+'idle,': AOEUD/*L/KW-BG
 'but': PWUT
 'looked': HRAOBGD
 'up': UP
 'at': AT
 'the': -T
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'and': SKP
 'after': AF
 'much': PHUFP
 'peering': PAO*ERG
 'here': HAOER
 'and': SKP
-'there,': THR KW-BG
+'there,': THR/KW-BG
 'saw': SAU
 'a': AEU
-'pick-axe': PEUBG H-PB ABGS
+'pick-axe': PEUBG/H-PB/ABGS
 'exactly': ELG
 'above': PWOF
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'which': WEU
 'the': -T
 'masons': PHAEUS/OPBS
 'had': H
 'accidentally': STKEPBLT
 'left': HREFT
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'Then': KPA/THEPB
 'Clever': KPA/KHREFR
 'Elsie': EL/SEU
@@ -251,20 +251,20 @@ Clever Elsie
 'to': TO
 'weep': WAOEP
 'and': SKP
-'said:': SED STPH-FPLT
-''If': AE KPA/TP
+'said:': SED/STPH-FPLT
+''If': AE/KPA/TP
 'I': EU
 'get': TKPWET
-'Hans,': HAPBS KW-BG
+'Hans,': HAPBS/KW-BG
 'and': SKP
 'we': WE
 'have': SR
 'a': AEU
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'and': SKP
 'he': HE
 'grows': TKPWRO*ES
-'big,': PWEUG KW-BG
+'big,': PWEUG/KW-BG
 'and': SKP
 'we': WE
 'send': SEPBD
@@ -275,10 +275,10 @@ Clever Elsie
 'here': HAOER
 'to': TO
 'draw': TKRAU
-'beer,': PWAOER KW-BG
+'beer,': PWAOER/KW-BG
 'then': THEPB
 'the': -T
-'pick-axe': PEUBG H-PB ABGS
+'pick-axe': PEUBG/H-PB/ABGS
 'will': HR
 'fall': TPAUL
 'on': OPB
@@ -286,7 +286,7 @@ Clever Elsie
 'head': HED
 'and': SKP
 'kill': KEUL
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'sat': SAT
@@ -300,35 +300,35 @@ Clever Elsie
 'strength': STREPBG
 'of': -F
 'her': HER
-'body,': PWO*ED KW-BG
+'body,': PWO*ED/KW-BG
 'over': OEFR
 'the': -T
 'misfortune': PHEUZ/TP-RPB
 'which': WEU
 'lay': HRAEU
 'before': PW-FR
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Those': KPA/THOZ
 'upstairs': AUP/STAEURS
 'waited': WAEUTD
 'for': TPOR
 'the': -T
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'but': PWUT
 'Clever': KPA/KHREFR
 'Elsie': EL/SEU
 'still': STEUL
 'did': TK
 'not': TPHOT
-'come.': KOPL TP-PL
+'come.': KOPL/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'woman': WOPL
 'said': SED
 'to': TO
 'the': -T
-'servant:': SEFRB/APBT STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'servant:': SEFRB/APBT/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'go': TKPW
 'down': TKOUPB
 'into': TPHAO
@@ -338,7 +338,7 @@ Clever Elsie
 'see': SAOE
 'where': W-R
 'Elsie': EL/SEU
-'is.'': S TP-PL AE
+'is.'': S/TP-PL/AE
 'The': KPA/-T
 'maid': PHAEUD
 'went': WEPBT
@@ -350,66 +350,66 @@ Clever Elsie
 'front': TPROPBT
 'of': -F
 'the': -T
-'barrel,': PWARL KW-BG
+'barrel,': PWARL/KW-BG
 'screaming': SKRAOEPLG
-'loudly.': HROUD/HREU TP-PL
-''Elsie': AE EL/SEU
+'loudly.': HROUD/HREU/TP-PL
+''Elsie': AE/EL/SEU
 'why': KWR
 'do': TKO
 'you': U
-'weep?'': WAOEP H-F AE
+'weep?'': WAOEP/H-F/AE
 'asked': SK-D
 'the': -T
-'maid.': PHAEUD TP-PL
-''Ah,'': AE KPA/HA*E KW-BG AE
+'maid.': PHAEUD/TP-PL
+''Ah,'': AE/KPA/HA*E/KW-BG/AE
 'she': SHE
-'answered,': AEPBS/-D KW-BG
-''have': AE SR
+'answered,': AEPBS/-D/KW-BG
+''have': AE/SR
 'I': EU
 'not': TPHOT
 'reason': R-PB
 'to': TO
-'weep?': WAOEP H-F
+'weep?': WAOEP/H-F
 'If': KPA/TP
 'I': EU
 'get': TKPWET
-'Hans,': HAPBS KW-BG
+'Hans,': HAPBS/KW-BG
 'and': SKP
 'we': WE
 'have': SR
 'a': AEU
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'and': SKP
 'he': HE
 'grows': TKPWRO*ES
-'big,': PWEUG KW-BG
+'big,': PWEUG/KW-BG
 'and': SKP
 'has': HAS
 'to': TO
 'draw': TKRAU
 'beer': PWAOER
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'the': -T
-'pick-axe': PEUBG H-PB ABGS
+'pick-axe': PEUBG/H-PB/ABGS
 'will': HR
 'perhaps': PRAPS
 'fall': TPAUL
 'on': OPB
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'and': SKP
 'kill': KEUL
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'Then': KPA/THEPB
 'said': SED
 'the': -T
-'maid:': PHAEUD STPH-FPLT
-''What': AE KPA/WHA
+'maid:': PHAEUD/STPH-FPLT
+''What': AE/KPA/WHA
 'a': AEU
 'clever': KHREFR
 'Elsie': EL/SEU
 'we': WE
-'have!'': SR SKHRAPL AE
+'have!'': SR/SKHRAPL/AE
 'and': SKP
 'sat': SAT
 'down': TKOUPB
@@ -422,17 +422,17 @@ Clever Elsie
 'weep': WAOEP
 'over': OEFR
 'the': -T
-'misfortune.': PHEUZ/TP-RPB TP-PL
+'misfortune.': PHEUZ/TP-RPB/TP-PL
 'After': KPA/AF
 'a': AEU
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'as': AS
 'the': -T
 'maid': PHAEUD
 'did': TK
 'not': TPHOT
 'come': KOPL
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'those': THOZ
 'upstairs': AUP/STAEURS
@@ -440,14 +440,14 @@ Clever Elsie
 'thirsty': THEURS/TEU
 'for': TPOR
 'the': -T
-'beer,': PWAOER KW-BG
+'beer,': PWAOER/KW-BG
 'the': -T
 'man': PHAPB
 'said': SED
 'to': TO
 'the': -T
-'boy:': PWOEU STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'boy:': PWOEU/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'go': TKPW
 'down': TKOUPB
 'into': TPHAO
@@ -460,11 +460,11 @@ Clever Elsie
 'and': SKP
 'the': -T
 'girl': TKPWEURL
-'are.'': R TP-PL AE
+'are.'': R/TP-PL/AE
 'The': KPA/-T
 'boy': PWOEU
 'went': WEPBT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'there': THR
 'sat': SAT
@@ -475,44 +475,44 @@ Clever Elsie
 'girl': TKPWEURL
 'both': PWO*T
 'weeping': WAOEP/-G
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL
 'Then': KPA/THEPB
 'he': HE
-'asked:': SK-D STPH-FPLT
-''Why': AE KPA/KWR
+'asked:': SK-D/STPH-FPLT
+''Why': AE/KPA/KWR
 'are': R
 'you': U
-'weeping?'': WAOEP/-G H-F AE
-''Ah,'': AE KPA/HA*E KW-BG AE
+'weeping?'': WAOEP/-G/H-F/AE
+''Ah,'': AE/KPA/HA*E/KW-BG/AE
 'said': SED
-'Elsie,': EL/SEU KW-BG
-''have': AE SR
+'Elsie,': EL/SEU/KW-BG
+''have': AE/SR
 'I': EU
 'not': TPHOT
 'reason': R-PB
 'to': TO
-'weep?': WAOEP H-F
+'weep?': WAOEP/H-F
 'If': KPA/TP
 'I': EU
 'get': TKPWET
-'Hans,': HAPBS KW-BG
+'Hans,': HAPBS/KW-BG
 'and': SKP
 'we': WE
 'have': SR
 'a': AEU
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'and': SKP
 'he': HE
 'grows': TKPWRO*ES
-'big,': PWEUG KW-BG
+'big,': PWEUG/KW-BG
 'and': SKP
 'has': HAS
 'to': TO
 'draw': TKRAU
 'beer': PWAOER
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'the': -T
-'pick-axe': PEUBG H-PB ABGS
+'pick-axe': PEUBG/H-PB/ABGS
 'will': HR
 'fall': TPAUL
 'on': OPB
@@ -520,48 +520,48 @@ Clever Elsie
 'head': HED
 'and': SKP
 'kill': KEUL
-'him.'': HEUPL TP-PL AE
+'him.'': HEUPL/TP-PL/AE
 'Then': KPA/THEPB
 'said': SED
 'the': -T
-'boy:': PWOEU STPH-FPLT
-''What': AE KPA/WHA
+'boy:': PWOEU/STPH-FPLT
+''What': AE/KPA/WHA
 'a': AEU
 'clever': KHREFR
 'Elsie': EL/SEU
 'we': WE
-'have!'': SR SKHRAPL AE
+'have!'': SR/SKHRAPL/AE
 'and': SKP
 'sat': SAT
 'down': TKOUPB
 'by': PWEU
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'likewise': HRAOEUBG/WAOEUS
 'began': TKPWAPB
 'to': TO
 'howl': HOUL
-'loudly.': HROUD/HREU TP-PL
+'loudly.': HROUD/HREU/TP-PL
 'Upstairs': KPA/AUP/STAEURS
 'they': THE
 'waited': WAEUTD
 'for': TPOR
 'the': -T
-'boy,': PWOEU KW-BG
+'boy,': PWOEU/KW-BG
 'but': PWUT
 'as': AS
 'he': HE
 'still': STEUL
 'did': TK
 'not': TPHOT
-'return,': RURPB KW-BG
+'return,': RURPB/KW-BG
 'the': -T
 'man': PHAPB
 'said': SED
 'to': TO
 'the': -T
-'woman:': WOPL STPH-FPLT
-''Just': AE KPA/SKWRUFT
+'woman:': WOPL/STPH-FPLT
+''Just': AE/KPA/SKWRUFT
 'go': TKPW
 'down': TKOUPB
 'into': TPHAO
@@ -571,11 +571,11 @@ Clever Elsie
 'see': SAOE
 'where': W-R
 'Elsie': EL/SEU
-'is!'': S SKHRAPL AE
+'is!'': S/SKHRAPL/AE
 'The': KPA/-T
 'woman': WOPL
 'went': WEPBT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'found': TPOUPBD
 'all': AUL
@@ -585,13 +585,13 @@ Clever Elsie
 'midst': PHEUDZ
 'of': -F
 'their': THAEUR
-'lamentations,': HRAPLT/TAEUGS/-S KW-BG
+'lamentations,': HRAPLT/TAEUGS/-S/KW-BG
 'and': SKP
 'inquired': EUPB/KWAOEURD
 'what': WHA
 'was': WAS
 'the': -T
-'cause;': KAUS STPH*FPLT
+'cause;': KAUS/STPH*FPLT
 'then': THEPB
 'Elsie': EL/SEU
 'told': TOLD
@@ -607,7 +607,7 @@ Clever Elsie
 'killed': KEULD
 'by': PWEU
 'the': -T
-'pick-axe,': PEUBG H-PB ABGS KW-BG
+'pick-axe,': PEUBG/H-PB/ABGS/KW-BG
 'when': WHEPB
 'it': T
 'grew': TKPWRAOU
@@ -616,37 +616,37 @@ Clever Elsie
 'had': H
 'to': TO
 'draw': TKRAU
-'beer,': PWAOER KW-BG
+'beer,': PWAOER/KW-BG
 'and': SKP
 'the': -T
-'pick-axe': PEUBG H-PB ABGS
+'pick-axe': PEUBG/H-PB/ABGS
 'fell': TPEL
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'Then': KPA/THEPB
 'said': SED
 'the': -T
 'mother': PHOER
-'likewise:': HRAOEUBG/WAOEUS STPH-FPLT
-''What': AE KPA/WHA
+'likewise:': HRAOEUBG/WAOEUS/STPH-FPLT
+''What': AE/KPA/WHA
 'a': AEU
 'clever': KHREFR
 'Elsie': EL/SEU
 'we': WE
-'have!'': SR SKHRAPL AE
+'have!'': SR/SKHRAPL/AE
 'and': SKP
 'sat': SAT
 'down': TKOUPB
 'and': SKP
 'wept': WEPT
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'The': KPA/-T
 'man': PHAPB
 'upstairs': AUP/STAEURS
 'waited': WAEUTD
 'a': AEU
 'short': SHORT
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'but': PWUT
 'as': AS
 'his': HEUS
@@ -660,10 +660,10 @@ Clever Elsie
 'thirst': THEUFRT
 'grew': TKPWRAOU
 'ever': -FR
-'greater,': TKPWRAERT KW-BG
+'greater,': TKPWRAERT/KW-BG
 'he': HE
-'said:': SED STPH-FPLT
-''I': AE EU
+'said:': SED/STPH-FPLT
+''I': AE/EU
 'must': PHUFT
 'go': TKPW
 'into': TPHAO
@@ -674,33 +674,33 @@ Clever Elsie
 'see': SAOE
 'where': W-R
 'Elsie': EL/SEU
-'is.'': S TP-PL AE
+'is.'': S/TP-PL/AE
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
 'got': TKPWOT
 'into': TPHAO
 'the': -T
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'and': SKP
 'they': THE
 'were': WR
 'all': AUL
 'sitting': SEUGT
 'together': TOGT
-'crying,': KRAOEUG KW-BG
+'crying,': KRAOEUG/KW-BG
 'and': SKP
 'he': HE
 'heard': HAERD
 'the': -T
-'reason,': R-PB KW-BG
+'reason,': R-PB/KW-BG
 'and': SKP
 'that': THA
-'Elsie's': EL/SEU AES
+'Elsie's': EL/SEU/AES
 'child': KHAOEULD
 'was': WAS
 'the': -T
-'cause,': KAUS KW-BG
+'cause,': KAUS/KW-BG
 'and': SKP
 'the': -T
 'Elsie': EL/SEU
@@ -712,7 +712,7 @@ Clever Elsie
 'the': -T
 'world': WORLD
 'some': SOPL
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'and': SKP
 'that': THA
 'he': HE
@@ -721,7 +721,7 @@ Clever Elsie
 'killed': KEULD
 'by': PWEU
 'the': -T
-'pick-axe,': PEUBG H-PB ABGS KW-BG
+'pick-axe,': PEUBG/H-PB/ABGS/KW-BG
 'if': TP
 'he': HE
 'should': SHO
@@ -730,7 +730,7 @@ Clever Elsie
 'be': -B
 'sitting': SEUGT
 'beneath': TPHAO*ET
-'it,': T KW-BG
+'it,': T/KW-BG
 'drawing': TKRAUG
 'beer': PWAOER
 'just': SKWRUFT
@@ -741,22 +741,22 @@ Clever Elsie
 'when': WHEPB
 'it': T
 'fell': TPEL
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'he': HE
-'cried:': KRAOEUD STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'what': WHA
 'a': AEU
 'clever': KHREFR
-'Elsie!'': EL/SEU SKHRAPL AE
+'Elsie!'': EL/SEU/SKHRAPL/AE
 'and': SKP
 'sat': SAT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'likewise': HRAOEUBG/WAOEUS
 'wept': WEPT
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'The': KPA/-T
 'bridegroom': PWRAOEUD/TKPWRAOPL
 'stayed': STAEUD
@@ -765,7 +765,7 @@ Clever Elsie
 'for': TPOR
 'a': AEU
 'long': HROPBG
-'time;': TAOEUPL STPH*FPLT
+'time;': TAOEUPL/STPH*FPLT
 'then': THEPB
 'as': AS
 'no': TPHO
@@ -774,14 +774,14 @@ Clever Elsie
 'come': KOPL
 'back': PWABG
 'he': HE
-'thought:': THAUT STPH-FPLT
-''They': AE KPA/THE
+'thought:': THAUT/STPH-FPLT
+''They': AE/KPA/THE
 'must': PHUFT
 'be': -B
 'waiting': WAEUGT
 'for': TPOR
 'me': PHE
-'below:': PWHRO STPH-FPLT
+'below:': PWHRO/STPH-FPLT
 'I': EU
 'too': TAO
 'must': PHUFT
@@ -792,11 +792,11 @@ Clever Elsie
 'what': WHA
 'they': THE
 'are': R
-'about.'': PW TP-PL AE
+'about.'': PW/TP-PL/AE
 'When': KPA/WHEPB
 'he': HE
 'got': TKPWOT
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'the': -T
 'five': TPAOEUF
 'of': -F
@@ -807,24 +807,24 @@ Clever Elsie
 'and': SKP
 'lamenting': HRAPLT/-G
 'quite': KWAOEUT
-'piteously,': PEUT/KWROUS/HREU KW-BG
+'piteously,': PEUT/KWROUS/HREU/KW-BG
 'each': AOEFP
-'out-doing': KWRO*UT TK*G
+'out-doing': KWRO*UT/TK*G
 'the': -T
-'other.': OER TP-PL
-''What': AE KPA/WHA
+'other.': OER/TP-PL
+''What': AE/KPA/WHA
 'misfortune': PHEUZ/TP-RPB
 'has': HAS
 'happened': HAPD
-'then?'': THEPB H-F AE
+'then?'': THEPB/H-F/AE
 'asked': SK-D
-'he.': HE TP-PL
-''Ah,': AE KPA/HA*E KW-BG
+'he.': HE/TP-PL
+''Ah,': AE/KPA/HA*E/KW-BG
 'dear': TKAER
-'Hans,'': HAPBS KW-BG AE
+'Hans,'': HAPBS/KW-BG/AE
 'said': SED
-'Elsie,': EL/SEU KW-BG
-''if': AE TP
+'Elsie,': EL/SEU/KW-BG
+''if': AE/TP
 'we': WE
 'marry': PHAER
 'each': AOEFP
@@ -832,11 +832,11 @@ Clever Elsie
 'and': SKP
 'have': SR
 'a': AEU
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'and': SKP
 'he': HE
 'is': S
-'big,': PWEUG KW-BG
+'big,': PWEUG/KW-BG
 'and': SKP
 'we': WE
 'perhaps': PRAPS
@@ -847,10 +847,10 @@ Clever Elsie
 'draw': TKRAU
 'something': S-G
 'to': TO
-'drink,': TKREU KW-BG
+'drink,': TKREU/KW-BG
 'then': THEPB
 'the': -T
-'pick-axe': PEUBG H-PB ABGS
+'pick-axe': PEUBG/H-PB/ABGS
 'which': WEU
 'has': HAS
 'been': PW-PB
@@ -867,18 +867,18 @@ Clever Elsie
 'were': WR
 'to': TO
 'fall': TPAUL
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'so': SO
 'have': SR
 'we': WE
 'not': TPHOT
 'reason': R-PB
 'to': TO
-'weep?'': WAOEP H-F AE
-''Come,'': AE KPA/KOPL KW-BG AE
+'weep?'': WAOEP/H-F/AE
+''Come,'': AE/KPA/KOPL/KW-BG/AE
 'said': SED
-'Hans,': HAPBS KW-BG
-''more': AE PHOR
+'Hans,': HAPBS/KW-BG
+''more': AE/PHOR
 'understanding': URPBGD
 'than': THAPB
 'that': THA
@@ -887,40 +887,40 @@ Clever Elsie
 'needed': TPHAOETD
 'for': TPOR
 'my': PHEU
-'household,': HOUS/HOLD KW-BG
+'household,': HOUS/HOLD/KW-BG
 'as': AS
 'you': U
 'are': R
 'such': SUFP
 'a': AEU
 'clever': KHREFR
-'Elsie,': EL/SEU KW-BG
+'Elsie,': EL/SEU/KW-BG
 'I': EU
 'will': HR
 'have': SR
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'and': SKP
 'seized': SAOEZ/-D
 'her': HER
-'hand,': HAPBD KW-BG
+'hand,': HAPBD/KW-BG
 'took': TAOBG
 'her': HER
 'upstairs': AUP/STAEURS
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'married': PHAERD
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'After': KPA/AF
 'Hans': HAPBS
 'had': H
 'had': H
 'her': HER
 'some': SOPL
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'he': HE
-'said:': SED STPH-FPLT
-''Wife,': AE KPA/WAOEUF KW-BG
+'said:': SED/STPH-FPLT
+''Wife,': AE/KPA/WAOEUF/KW-BG
 'I': EU
 'am': APL
 'going': TKPW-G
@@ -932,7 +932,7 @@ Clever Elsie
 'some': SOPL
 'money': PHUPB
 'for': TPOR
-'us;': US STPH*FPLT
+'us;': US/STPH*FPLT
 'go': TKPW
 'into': TPHAO
 'the': -T
@@ -946,19 +946,19 @@ Clever Elsie
 'may': PHAE
 'have': SR
 'some': SOPL
-'bread.'': PWRAED TP-PL AE
-''Yes,': AE KPA/KWRE KW-BG
+'bread.'': PWRAED/TP-PL/AE
+''Yes,': AE/KPA/KWRE/KW-BG
 'dear': TKAER
-'Hans,': HAPBS KW-BG
+'Hans,': HAPBS/KW-BG
 'I': EU
 'will': HR
 'do': TKO
-'that.'': THA TP-PL AE
+'that.'': THA/TP-PL/AE
 'After': KPA/AF
 'Hans': HAPBS
 'had': H
 'gone': TKPWOPB
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'she': SHE
 'cooked': KAOBGD
 'herself': H*ERS
@@ -972,7 +972,7 @@ Clever Elsie
 'the': -T
 'field': TPAOELD
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'When': KPA/WHEPB
 'she': SHE
 'came': KAEUPL
@@ -982,25 +982,25 @@ Clever Elsie
 'she': SHE
 'said': SED
 'to': TO
-'herself:': H*ERS STPH-FPLT
-''What': AE KPA/WHA
+'herself:': H*ERS/STPH-FPLT
+''What': AE/KPA/WHA
 'shall': SHAL
 'I': EU
-'do;': TKO STPH*FPLT
+'do;': TKO/STPH*FPLT
 'shall': SHAL
 'I': EU
 'cut': KUT
-'first,': TPEUFRT KW-BG
+'first,': TPEUFRT/KW-BG
 'or': OR
 'shall': SHAL
 'I': EU
 'eat': AOET
-'first?': TPEUFRT H-F
-'Oh,': KPA/O*ERBGS KW-BG
+'first?': TPEUFRT/H-F
+'Oh,': KPA/O*ERBGS/KW-BG
 'I': EU
 'will': HR
 'eat': AOET
-'first.'': TPEUFRT TP-PL AE
+'first.'': TPEUFRT/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'drank': TKRA*PBG
@@ -1013,28 +1013,28 @@ Clever Elsie
 'she': SHE
 'was': WAS
 'fully': TPHRAOUL
-'satisfied,': SAED KW-BG
+'satisfied,': SAED/KW-BG
 'she': SHE
 'once': WUPBS
 'more': PHOR
-'said:': SED STPH-FPLT
-''What': AE KPA/WHA
+'said:': SED/STPH-FPLT
+''What': AE/KPA/WHA
 'shall': SHAL
 'I': EU
-'do?': TKO H-F
+'do?': TKO/H-F
 'Shall': KPA/SHAL
 'I': EU
 'cut': KUT
-'first,': TPEUFRT KW-BG
+'first,': TPEUFRT/KW-BG
 'or': OR
 'shall': SHAL
 'I': EU
 'sleep': SHRAOEP
-'first?': TPEUFRT H-F
+'first?': TPEUFRT/H-F
 'I': EU
 'will': HR
 'sleep': SHRAOEP
-'first.'': TPEUFRT TP-PL AE
+'first.'': TPEUFRT/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'lay': HRAEU
@@ -1044,7 +1044,7 @@ Clever Elsie
 'corn': KORPB
 'and': SKP
 'fell': TPEL
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Hans': HAPBS
 'had': H
 'been': PW-PB
@@ -1053,21 +1053,21 @@ Clever Elsie
 'for': TPOR
 'a': AEU
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'but': PWUT
 'Elsie': EL/SEU
 'did': TK
 'not': TPHOT
-'come;': KOPL STPH*FPLT
+'come;': KOPL/STPH*FPLT
 'then': THEPB
 'said': SED
-'he:': HE STPH-FPLT
-''What': AE KPA/WHA
+'he:': HE/STPH-FPLT
+''What': AE/KPA/WHA
 'a': AEU
 'clever': KHREFR
 'Elsie': EL/SEU
 'I': EU
-'have;': SR STPH*FPLT
+'have;': SR/STPH*FPLT
 'she': SHE
 'is': S
 'so': SO
@@ -1080,7 +1080,7 @@ Clever Elsie
 'come': KOPL
 'home': HOEPL
 'to': TO
-'eat.'': AOET TP-PL AE
+'eat.'': AOET/TP-PL/AE
 'But': KPA/PWUT
 'when': WHEPB
 'evening': AOEPBG
@@ -1089,7 +1089,7 @@ Clever Elsie
 'she': SHE
 'still': STEUL
 'stayed': STAEUD
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'Hans': HAPBS
 'went': WEPBT
 'out': OUT
@@ -1098,11 +1098,11 @@ Clever Elsie
 'what': WHA
 'she': SHE
 'had': H
-'cut,': KUT KW-BG
+'cut,': KUT/KW-BG
 'but': PWUT
 'nothing': TPHOG
 'was': WAS
-'cut,': KUT KW-BG
+'cut,': KUT/KW-BG
 'and': SKP
 'she': SHE
 'was': WAS
@@ -1110,7 +1110,7 @@ Clever Elsie
 'among': PHOPBG
 'the': -T
 'corn': KORPB
-'asleep.': A/SHRAOEP TP-PL
+'asleep.': A/SHRAOEP/TP-PL
 'Then': KPA/THEPB
 'Hans': HAPBS
 'hastened': HAEUS/-PBD
@@ -1118,7 +1118,7 @@ Clever Elsie
 'and': SKP
 'brought': PWRAUT
 'a': AEU
-'fowler's': HRO*ER/TPOUL/*ER AES
+'fowler's': HRO*ER/TPOUL/*ER/AES
 'net': TPHET
 'with': W
 'little': HREUL
@@ -1128,20 +1128,20 @@ Clever Elsie
 'it': T
 'round': ROUPBD
 'about': PW
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'she': SHE
 'still': STEUL
 'went': WEPBT
 'on': OPB
-'sleeping.': SHRAOEPG TP-PL
+'sleeping.': SHRAOEPG/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'ran': RAPB
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'shut': SHUT
 'the': -T
-'house-door,': HOUS H-PB TKAOR KW-BG
+'house-door,': HOUS/H-PB/TKAOR/KW-BG
 'and': SKP
 'sat': SAT
 'down': TKOUPB
@@ -1149,14 +1149,14 @@ Clever Elsie
 'his': HEUS
 'chair': KHAEUR
 'and': SKP
-'worked.': WORBGD TP-PL
+'worked.': WORBGD/TP-PL
 'At': KPA/AT
-'length,': HREPBG KW-BG
+'length,': HREPBG/KW-BG
 'when': WHEPB
 'it': T
 'was': WAS
 'quite': KWAOEUT
-'dark,': TKARBG KW-BG
+'dark,': TKARBG/KW-BG
 'Clever': KPA/KHREFR
 'Elsie': EL/SEU
 'awoke': A/WOEBG
@@ -1172,7 +1172,7 @@ Clever Elsie
 'all': AUL
 'round': ROUPBD
 'about': PW
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'the': -T
 'bells': PWELS
@@ -1182,11 +1182,11 @@ Clever Elsie
 'step': STEP
 'which': WEU
 'she': SHE
-'took.': TAOBG TP-PL
+'took.': TAOBG/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'was': WAS
-'alarmed,': A/HRARPLD KW-BG
+'alarmed,': A/HRARPLD/KW-BG
 'and': SKP
 'became': PWAEUPL
 'uncertain': UPB/SERPB
@@ -1197,17 +1197,17 @@ Clever Elsie
 'Clever': KPA/KHREFR
 'Elsie': EL/SEU
 'or': OR
-'not,': TPHOT KW-BG
+'not,': TPHOT/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Is': AE KPA/S
+'said:': SED/STPH-FPLT
+''Is': AE/KPA/S
 'it': T
-'I,': EU KW-BG
+'I,': EU/KW-BG
 'or': OR
 'is': S
 'it': T
 'not': TPHOT
-'I?'': EU H-F AE
+'I?'': EU/H-F/AE
 'But': KPA/PWUT
 'she': SHE
 'knew': TPHAOU
@@ -1217,19 +1217,19 @@ Clever Elsie
 'to': TO
 'make': PHAEUBG
 'to': TO
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
 'stood': STAOD
 'for': TPOR
 'a': AEU
 'time': TAOEUPL
 'in': TPH
-'doubt;': TKOUT STPH*FPLT
+'doubt;': TKOUT/STPH*FPLT
 'at': AT
 'length': HREPBG
 'she': SHE
-'thought:': THAUT STPH-FPLT
-''I': AE EU
+'thought:': THAUT/STPH-FPLT
+''I': AE/EU
 'will': HR
 'go': TKPW
 'home': HOEPL
@@ -1238,19 +1238,19 @@ Clever Elsie
 'if': TP
 'it': T
 'be': -B
-'I,': EU KW-BG
+'I,': EU/KW-BG
 'or': OR
 'if': TP
 'it': T
 'be': -B
 'not': TPHOT
-'I,': EU KW-BG
+'I,': EU/KW-BG
 'they': THE
 'will': HR
 'be': -B
 'sure': SHUR
 'to': TO
-'know.'': TPHOE TP-PL AE
+'know.'': TPHOE/TP-PL/AE
 'She': KPA/SHE
 'ran': RAPB
 'to': TO
@@ -1259,11 +1259,11 @@ Clever Elsie
 'of': -F
 'her': HER
 'own': OEPB
-'house,': HOUS KW-BG
+'house,': HOUS/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
-'shut;': SHUT STPH*FPLT
+'shut;': SHUT/STPH*FPLT
 'then': THEPB
 'she': SHE
 'knocked': TPHOBGD
@@ -1271,35 +1271,35 @@ Clever Elsie
 'the': -T
 'window': WOEUPBD
 'and': SKP
-'cried:': KRAOEUD STPH-FPLT
-''Hans,': AE HAPBS KW-BG
+'cried:': KRAOEUD/STPH-FPLT
+''Hans,': AE/HAPBS/KW-BG
 'is': S
 'Elsie': EL/SEU
-'within?'': W-PB H-F AE
-''Yes,'': AE KPA/KWRE KW-BG AE
+'within?'': W-PB/H-F/AE
+''Yes,'': AE/KPA/KWRE/KW-BG/AE
 'answered': AEPBS/-D
-'Hans,': HAPBS KW-BG
-''she': AE SHE
+'Hans,': HAPBS/KW-BG
+''she': AE/SHE
 'is': S
-'within.'': W-PB TP-PL AE
+'within.'': W-PB/TP-PL/AE
 'Hereupon': KPA/HAOER/TK-LS/POPB
 'she': SHE
 'was': WAS
-'terrified,': TER/TPAOEUD KW-BG
+'terrified,': TER/TPAOEUD/KW-BG
 'and': SKP
-'said:': SED STPH-FPLT
-''Ah,': AE KPA/HA*E KW-BG
-'heavens!': HEFPBS SKHRAPL
+'said:': SED/STPH-FPLT
+''Ah,': AE/KPA/HA*E/KW-BG
+'heavens!': HEFPBS/SKHRAPL
 'Then': KPA/THEPB
 'it': T
 'is': S
 'not': TPHOT
-'I,'': EU KW-BG AE
+'I,'': EU/KW-BG/AE
 'and': SKP
 'went': WEPBT
 'to': TO
 'another': TPHOER
-'door;': TKAOR STPH*FPLT
+'door;': TKAOR/STPH*FPLT
 'but': PWUT
 'when': WHEPB
 'the': -T
@@ -1314,24 +1314,24 @@ Clever Elsie
 'would': WO
 'not': TPHOT
 'open': OEP
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'she': SHE
 'could': KO
 'get': TKPWET
 'in': TPH
-'nowhere.': TPHO/WR TP-PL
+'nowhere.': TPHO/WR/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'ran': RAPB
 'out': OUT
 'of': -F
 'the': -T
-'village,': SREULG KW-BG
+'village,': SREULG/KW-BG
 'and': SKP
 'no': TPHO
 'one': WUPB
 'has': HAS
 'seen': SAOEPB
 'her': HER
-'since.': SEUPBS TP-PL
+'since.': SEUPBS/TP-PL

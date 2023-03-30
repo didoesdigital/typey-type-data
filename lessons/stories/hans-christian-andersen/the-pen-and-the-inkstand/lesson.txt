@@ -2,21 +2,21 @@ The Pen and the Inkstand
 
 'In': KPA/TPH
 'a': AEU
-'poet's': POET AES
-'room,': RAOPL KW-BG
+'poet's': POET/AES
+'room,': RAOPL/KW-BG
 'where': W-R
 'his': HEUS
 'inkstand': *EUPBG/STA*PBD
 'stood': STAOD
 'on': OPB
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'the': -T
 'remark': RARBG
 'was': WAS
 'once': WUPBS
-'made,': PHAED KW-BG
-'"It': KR-GS KPA/T
+'made,': PHAED/KW-BG
+'"It': KR-GS/KPA/T
 'is': S
 'wonderful': WUFL
 'what': WHA
@@ -26,23 +26,23 @@ The Pen and the Inkstand
 'out': OUT
 'of': -F
 'an': APB
-'inkstand.': *EUPBG/STA*PBD TP-PL
+'inkstand.': *EUPBG/STA*PBD/TP-PL
 'What': KPA/WHA
 'will': HR
 'come': KOPL
-'next?': TPHEGT H-F
+'next?': TPHEGT/H-F
 'It': KPA/T
 'is': S
 'indeed': TPHAOEPBD
-'wonderful."': WUFL TP-PL KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
-'certainly,"': SERPBL KW-BG KR-GS
+'wonderful."': WUFL/TP-PL/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'certainly,"': SERPBL/KW-BG/KR-GS
 'said': SED
 'the': -T
 'inkstand': *EUPBG/STA*PBD
 'to': TO
 'the': -T
-'pen,': PEPB KW-BG
+'pen,': PEPB/KW-BG
 'and': SKP
 'to': TO
 'the': -T
@@ -52,12 +52,12 @@ The Pen and the Inkstand
 'stood': STAOD
 'on': OPB
 'the': -T
-'table;': TAEUBL STPH*FPLT
+'table;': TAEUBL/STPH*FPLT
 '"that's': KW-GS/THATS
 'what': WHA
 'I': EU
 'always': AULS
-'say.': SAEU TP-PL
+'say.': SAEU/TP-PL
 'It': KPA/T
 'is': S
 'wonderful': WUFL
@@ -71,10 +71,10 @@ The Pen and the Inkstand
 'come': KOPL
 'out': OUT
 'of': -F
-'me.': PHE TP-PL
-'It's': KPA/T AES
+'me.': PHE/TP-PL
+'It's': KPA/T/AES
 'quite': KWAOEUT
-'incredible,': TPHEBL KW-BG
+'incredible,': TPHEBL/KW-BG
 'and': SKP
 'I': EU
 'really': R-L
@@ -91,7 +91,7 @@ The Pen and the Inkstand
 'his': HEUS
 'pen': PEPB
 'into': TPHAO
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'One': KPA/WUPB
 'drop': TKROP
 'out': OUT
@@ -104,16 +104,16 @@ The Pen and the Inkstand
 'a': AEU
 'page': PAEUPBLG
 'of': -F
-'paper,': PAEUP KW-BG
+'paper,': PAEUP/KW-BG
 'and': SKP
 'what': WHA
 'cannot': SK-PBT
 'half': HAF
 'a': AEU
 'page': PAEUPBLG
-'contain?': TAEUPB H-F
+'contain?': TAEUPB/H-F
 'From': KPA/TPR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'all': AUL
 'the': -T
 'works': WORBGS
@@ -121,7 +121,7 @@ The Pen and the Inkstand
 'a': AEU
 'poet': POET
 'are': R
-'produced;': PRO*UD STPH*FPLT
+'produced;': PRO*UD/STPH*FPLT
 'all': AUL
 'those': THOZ
 'imaginary': PHAPBLG/AER
@@ -133,19 +133,19 @@ The Pen and the Inkstand
 'have': SR
 'known': TPHOEPB
 'or': OR
-'met.': PHET TP-PL
+'met.': PHET/TP-PL
 'All': KPA/AUL
 'the': -T
 'deep': TKAOEP
-'feeling,': TPAOELG KW-BG
+'feeling,': TPAOELG/KW-BG
 'the': -T
-'humor,': HAOURPL KW-BG
+'humor,': HAOURPL/KW-BG
 'and': SKP
 'the': -T
 'vivid': SREUFD
 'pictures': P*EUFPS
 'of': -F
-'nature.': TPHAEURT TP-PL
+'nature.': TPHAEURT/TP-PL
 'I': EU
 'myself': PHAO*EUS
 'don't': TKOEPBT
@@ -159,13 +159,13 @@ The Pen and the Inkstand
 'not': TPHOT
 'acquainted': A/KWAEUPBTD
 'with': W
-'nature,': TPHAEURT KW-BG
+'nature,': TPHAEURT/KW-BG
 'but': PWUT
 'it': T
 'is': S
 'certainly': SERPBL
 'in': TPH
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'From': KPA/TPR
 'me': PHE
 'have': SR
@@ -181,26 +181,26 @@ The Pen and the Inkstand
 'troops': TRAOPS
 'of': -F
 'charming': KHARPL/-G
-'maidens,': PHAEUD/*EPB/-S KW-BG
+'maidens,': PHAEUD/*EPB/-S/KW-BG
 'and': SKP
 'of': -F
 'brave': PWRAEUF
 'knights': TPHAO*EUT/-S
 'on': OPB
 'prancing': PRAPBS/-G
-'steeds;': STAOEDZ STPH*FPLT
+'steeds;': STAOEDZ/STPH*FPLT
 'of': -F
 'the': -T
 'halt': HALT
 'and': SKP
 'the': -T
-'blind,': PWHRAOEUPBD KW-BG
+'blind,': PWHRAOEUPBD/KW-BG
 'and': SKP
 'I': EU
 'know': TPHOE
 'not': TPHOT
 'what': WHA
-'more,': PHOR KW-BG
+'more,': PHOR/KW-BG
 'for': TPOR
 'I': EU
 'assure': A/SHUR
@@ -210,23 +210,23 @@ The Pen and the Inkstand
 'think': THEU
 'of': -F
 'these': THEZ
-'things."': THEUPBGS TP-PL KR-GS
-'"There': KR-GS KPA/THR
+'things."': THEUPBGS/TP-PL/KR-GS
+'"There': KR-GS/KPA/THR
 'you': U
 'are': R
-'right,"': RAOEUT KW-BG KR-GS
+'right,"': RAOEUT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'pen,': PEPB KW-BG
-'"for': KR-GS TPOR
+'pen,': PEPB/KW-BG
+'"for': KR-GS/TPOR
 'you': U
 'don't': TKOEPBT
 'think': THEU
 'at': AT
-'all;': AUL STPH*FPLT
+'all;': AUL/STPH*FPLT
 'if': TP
 'you': U
-'did,': TK KW-BG
+'did,': TK/KW-BG
 'you': U
 'would': WO
 'see': SAOE
@@ -236,7 +236,7 @@ The Pen and the Inkstand
 'only': OEPBL
 'provide': PROEFD
 'the': -T
-'means.': PHAOEPBS TP-PL
+'means.': PHAOEPBS/TP-PL
 'You': KPA/U
 'give': TKPWEUF
 'the': -T
@@ -251,7 +251,7 @@ The Pen and the Inkstand
 'what': WHA
 'dwells': TKWEL/-S
 'in': TPH
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'what': WHA
 'I': EU
@@ -259,19 +259,19 @@ The Pen and the Inkstand
 'to': TO
 'bring': PWREU
 'to': TO
-'light.': HRAOEUT TP-PL
+'light.': HRAOEUT/TP-PL
 'It': KPA/T
 'is': S
 'the': -T
 'pen': PEPB
 'that': THA
-'writes:': WRAOEUTS STPH-FPLT
+'writes:': WRAOEUTS/STPH-FPLT
 'no': TPHO
 'man': PHAPB
 'doubts': TKOUTS
-'that;': THA STPH*FPLT
-'and,': SKP KW-BG
-'indeed,': TPHAOEPBD KW-BG
+'that;': THA/STPH*FPLT
+'and,': SKP/KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'most': PHOFT
 'people': PAOEPL
 'understand': URPBD
@@ -282,42 +282,42 @@ The Pen and the Inkstand
 'as': AS
 'an': APB
 'old': OLD
-'inkstand."': *EUPBG/STA*PBD TP-PL KR-GS
-'"You': KR-GS KPA/U
+'inkstand."': *EUPBG/STA*PBD/TP-PL/KR-GS
+'"You': KR-GS/KPA/U
 'have': SR
 'had': H
 'very': SRE
 'little': HREUL
-'experience,"': SPAOERPBS KW-BG KR-GS
+'experience,"': SPAOERPBS/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'inkstand.': *EUPBG/STA*PBD TP-PL
-'"You': KR-GS KPA/U
+'inkstand.': *EUPBG/STA*PBD/TP-PL
+'"You': KR-GS/KPA/U
 'have': SR
 'hardly': HA*RLD
 'been': PW-PB
 'in': TPH
 'service': S-FS
 'a': AEU
-'week,': WAOEBG KW-BG
+'week,': WAOEBG/KW-BG
 'and': SKP
 'are': R
 'already': HR-R
 'half': HAF
 'worn': WORPB
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'Do': KPA/TKO
 'you': U
 'imagine': PHAPBLG
 'you': U
 'are': R
 'a': AEU
-'poet?': POET H-F
+'poet?': POET/H-F
 'You': KPA/U
 'are': R
 'only': OEPBL
 'a': AEU
-'servant,': SEFRB/APBT KW-BG
+'servant,': SEFRB/APBT/KW-BG
 'and': SKP
 'before': PW-FR
 'you': U
@@ -326,17 +326,17 @@ The Pen and the Inkstand
 'had': H
 'many': PHAEPB
 'like': HRAOEUBG
-'you,': U KW-BG
+'you,': U/KW-BG
 'some': SOPL
 'of': -F
 'the': -T
 'goose': TKPWAOS
-'family,': TPAEPL KW-BG
+'family,': TPAEPL/KW-BG
 'and': SKP
 'others': OERS
 'of': -F
 'English': TKPWHREURB
-'manufacture.': PH-F TP-PL
+'manufacture.': PH-F/TP-PL
 'I': EU
 'know': TPHOE
 'a': AEU
@@ -349,7 +349,7 @@ The Pen and the Inkstand
 'know': TPHOE
 'a': AEU
 'steel': STAOEL
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'I': EU
 'have': SR
 'had': H
@@ -357,7 +357,7 @@ The Pen and the Inkstand
 'sorts': SORTS
 'in': TPH
 'my': PHEU
-'service,': S-FS KW-BG
+'service,': S-FS/KW-BG
 'and': SKP
 'I': EU
 'shall': SHAL
@@ -366,20 +366,20 @@ The Pen and the Inkstand
 'more': PHOR
 'when': WHEPB
 'he': HE
-'comes—the': KOPLS EPL/TKA*RB -T
+'comes—the': KOPLS/EPL/TKA*RB/-T
 'man': PHAPB
 'who': WHO
 'performs': PORPLS
 'the': -T
 'mechanical': PHEBG/K-L
-'part—and': PART EPL/TKA*RB SKP
+'part—and': PART/EPL/TKA*RB/SKP
 'writes': WRAOEUTS
 'down': TKOUPB
 'what': WHA
 'he': HE
 'obtains': OB/TAEUPBS
 'from': TPR
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'I': EU
 'should': SHO
 'like': HRAOEUBG
@@ -395,12 +395,12 @@ The Pen and the Inkstand
 'gets': TKPWETS
 'out': OUT
 'of': -F
-'me."': PHE TP-PL KR-GS
-'"Inkpot!"': KR-GS xxx Inkpot SKHRAPL KR-GS
+'me."': PHE/TP-PL/KR-GS
+'"Inkpot!"': KR-GS/xxx Inkpot/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
 'pen': PEPB
-'contemptuously.': KAUPB/TEPLT/WOUS/HREU TP-PL
+'contemptuously.': KAUPB/TEPLT/WOUS/HREU/TP-PL
 'Late': KPA/HRAEUT
 'in': TPH
 'the': -T
@@ -408,13 +408,13 @@ The Pen and the Inkstand
 'the': -T
 'poet': POET
 'came': KAEUPL
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'He': KPA/HE
 'had': H
 'been': PW-PB
 'to': TO
 'a': AEU
-'concert,': KERT KW-BG
+'concert,': KERT/KW-BG
 'and': SKP
 'had': H
 'been': PW-PB
@@ -433,7 +433,7 @@ The Pen and the Inkstand
 'he': HE
 'had': H
 'heard': HAERD
-'there.': THR TP-PL
+'there.': THR/TP-PL
 'The': KPA/-T
 'performer': PORPL/*ER
 'had': H
@@ -453,14 +453,14 @@ The Pen and the Inkstand
 'waterdrops': WA*UR/TKROPS
 'or': OR
 'rolling': ROLG
-'pearls;': PERLS STPH*FPLT
+'pearls;': PERLS/STPH*FPLT
 'sometimes': STAOEUPLS
 'like': HRAOEUBG
 'the': -T
 'birds': PWEURDZ
 'twittering': HRO*ER/TWEUT/*ERG
 'in': TPH
-'chorus,': KHOURS KW-BG
+'chorus,': KHOURS/KW-BG
 'and': SKP
 'then': THEPB
 'rising': RAOEUFG
@@ -473,7 +473,7 @@ The Pen and the Inkstand
 'wind': WEUPBD
 'through': THRU
 'the': -T
-'fir-trees.': TPEUR H-PB TRAOES TP-PL
+'fir-trees.': TPEUR/H-PB/TRAOES/TP-PL
 'The': KPA/-T
 'poet': POET
 'felt': TPELT
@@ -483,7 +483,7 @@ The Pen and the Inkstand
 'own': OEPB
 'heart': HART
 'were': WR
-'weeping,': WAOEP/-G KW-BG
+'weeping,': WAOEP/-G/KW-BG
 'but': PWUT
 'in': TPH
 'tones': TOEPBS
@@ -495,13 +495,13 @@ The Pen and the Inkstand
 'of': -F
 'a': AEU
 'woman's': WOPL/AES
-'voice.': SROEUS TP-PL
+'voice.': SROEUS/TP-PL
 'It': KPA/T
 'seemed': SAOEPLD
 'not': TPHOT
 'only': OEPBL
 'the': -T
-'strings,': STREUPBGS KW-BG
+'strings,': STREUPBGS/KW-BG
 'but': PWUT
 'every': EF
 'part': PART
@@ -513,7 +513,7 @@ The Pen and the Inkstand
 'these': THEZ
 'sounds': SOUPBDZ
 'were': WR
-'produced.': PRO*UD TP-PL
+'produced.': PRO*UD/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
@@ -522,7 +522,7 @@ The Pen and the Inkstand
 'and': SKP
 'a': AEU
 'difficult': TKEUFL
-'piece,': PAOES KW-BG
+'piece,': PAOES/KW-BG
 'and': SKP
 'yet': KWRET
 'the': -T
@@ -546,7 +546,7 @@ The Pen and the Inkstand
 'do': TKO
 'it': T
 'who': WHO
-'tried.': TRAOEUD TP-PL
+'tried.': TRAOEUD/TP-PL
 'Even': KPA/AOEPB
 'the': -T
 'violin': SRO*EUPBL
@@ -562,7 +562,7 @@ The Pen and the Inkstand
 'master': PHAFRT
 'who': WHO
 'guided': TKPWAOEUD/-D
-'them;': THEPL STPH*FPLT
+'them;': THEPL/STPH*FPLT
 'it': T
 'was': WAS
 'as': AS
@@ -575,7 +575,7 @@ The Pen and the Inkstand
 'breathed': PWRAO*ETD
 'into': TPHAO
 'the': -T
-'instrument,': STRUPLT KW-BG
+'instrument,': STRUPLT/KW-BG
 'so': SO
 'the': -T
 'audience': AUPBS
@@ -587,17 +587,17 @@ The Pen and the Inkstand
 'beautiful': PWAOUFL
 'sounds': SOUPBDZ
 'he': HE
-'produced.': PRO*UD TP-PL
+'produced.': PRO*UD/TP-PL
 'Not': KPA/TPHOT
 'so': SO
 'the': -T
-'poet;': POET STPH*FPLT
+'poet;': POET/STPH*FPLT
 'he': HE
 'remembered': RERD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'named': TPHAEUPLD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'wrote': WRO
 'down': TKOUPB
@@ -605,8 +605,8 @@ The Pen and the Inkstand
 'thoughts': THAUTS
 'on': OPB
 'the': -T
-'subject.': SUBT TP-PL
-'"How': KR-GS KPA/HOU
+'subject.': SUBT/TP-PL
+'"How': KR-GS/KPA/HOU
 'foolish': TPAOL/EURB
 'it': T
 'would': WO
@@ -621,7 +621,7 @@ The Pen and the Inkstand
 'boast': PWOEFT
 'of': -F
 'their': THAEUR
-'performance,': P-FRPBS KW-BG
+'performance,': P-FRPBS/KW-BG
 'and': SKP
 'yet': KWRET
 'we': WE
@@ -629,23 +629,23 @@ The Pen and the Inkstand
 'often': OFPB
 'commit': KPHEUT
 'that': THA
-'folly.': TPOL/HREU TP-PL
+'folly.': TPOL/HREU/TP-PL
 'The': KPA/-T
-'poet,': POET KW-BG
+'poet,': POET/KW-BG
 'the': -T
-'artist,': TR-FT KW-BG
+'artist,': TR-FT/KW-BG
 'the': -T
 'man': PHAPB
 'of': -F
 'science': SKRAOEUPBS
 'in': TPH
 'his': HEUS
-'laboratory,': HROERB KW-BG
+'laboratory,': HROERB/KW-BG
 'the': -T
-'general,—we': SKWREPBL KW-BG EPL/TKA*RB WE
+'general,—we': SKWREPBL/KW-BG/EPL/TKA*RB/WE
 'all': AUL
 'do': TKO
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'yet': KWRET
 'we': WE
@@ -656,14 +656,14 @@ The Pen and the Inkstand
 'which': WEU
 'the': -T
 'Almighty': KPA/AL/PHAOEUT/KWREU
-'uses;': AOUSZ STPH*FPLT
+'uses;': AOUSZ/STPH*FPLT
 'to': TO
 'Him': KPA/HEUPL
 'alone': A/HROEPB
 'the': -T
 'honor': HO*RPB
 'is': S
-'due.': TKAOU TP-PL
+'due.': TKAOU/TP-PL
 'We': KPA/WE
 'have': SR
 'nothing': TPHOG
@@ -674,15 +674,15 @@ The Pen and the Inkstand
 'we': WE
 'should': SHO
 'be': -B
-'proud."': PROUD TP-PL KR-GS
-'Yes,': KPA/KWRE KW-BG
+'proud."': PROUD/TP-PL/KR-GS
+'Yes,': KPA/KWRE/KW-BG
 'this': TH
 'is': S
 'what': WHA
 'the': -T
 'poet': POET
 'wrote': WRO
-'down.': TKOUPB TP-PL
+'down.': TKOUPB/TP-PL
 'He': KPA/HE
 'wrote': WRO
 'it': T
@@ -691,35 +691,35 @@ The Pen and the Inkstand
 'form': TPORPL
 'of': -F
 'a': AEU
-'parable,': PAEURBL KW-BG
+'parable,': PAEURBL/KW-BG
 'and': SKP
 'called': KAULD
 'it': T
-'"The': KR-GS KPA/-T
+'"The': KR-GS/KPA/-T
 'Master': KPA/PHAFRT
 'and': SKP
 'the': -T
-'Instruments."': KPA/STRAOUPLTS TP-PL KR-GS
-'"That': KR-GS KPA/THA
+'Instruments."': KPA/STRAOUPLTS/TP-PL/KR-GS
+'"That': KR-GS/KPA/THA
 'is': S
 'what': WHA
 'you': U
 'have': SR
-'got,': TKPWOT KW-BG
-'madam,"': PH*/A*/TK*/A*/PH* KW-BG KR-GS
+'got,': TKPWOT/KW-BG
+'madam,"': PH*/A*/TK*/A*/PH*/KW-BG/KR-GS
 'said': SED
 'the': -T
 'pen': PEPB
 'to': TO
 'the': -T
-'inkstand,': *EUPBG/STA*PBD KW-BG
+'inkstand,': *EUPBG/STA*PBD/KW-BG
 'when': WHEPB
 'the': -T
 'two': TWO
 'were': WR
 'alone': A/HROEPB
-'again.': TKPWEPB TP-PL
-'"Did': KR-GS KPA/TK
+'again.': TKPWEPB/TP-PL
+'"Did': KR-GS/KPA/TK
 'you': U
 'hear': HAER
 'him': HEUPL
@@ -729,18 +729,18 @@ The Pen and the Inkstand
 'I': EU
 'had': H
 'written': WREUPB
-'down?"': TKOUPB H-F KR-GS
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'down?"': TKOUPB/H-F/KR-GS
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'what': WHA
 'I': EU
 'gave': TKPWAEUF
 'you': U
 'to': TO
-'write,"': WREU KW-BG KR-GS
+'write,"': WREU/KW-BG/KR-GS
 'retorted': RE/TORT/-D
 'the': -T
-'inkstand.': *EUPBG/STA*PBD TP-PL
-'"That': KR-GS KPA/THA
+'inkstand.': *EUPBG/STA*PBD/TP-PL
+'"That': KR-GS/KPA/THA
 'was': WAS
 'a': AEU
 'cut': KUT
@@ -749,7 +749,7 @@ The Pen and the Inkstand
 'because': PWAU
 'of': -F
 'your': KWROUR
-'conceit.': KAUPB/SAOET TP-PL
+'conceit.': KAUPB/SAOET/TP-PL
 'To': KPA/TO
 'think': THEU
 'that': THA
@@ -761,7 +761,7 @@ The Pen and the Inkstand
 'you': U
 'were': WR
 'being': -BG
-'quizzed.': KWEUZ/-D TP-PL
+'quizzed.': KWEUZ/-D/TP-PL
 'I': EU
 'gave': TKPWAEUF
 'you': U
@@ -769,22 +769,22 @@ The Pen and the Inkstand
 'cut': KUT
 'from': TPR
 'within': W-PB
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'Surely': KPA/SHURL
 'I': EU
 'must': PHUFT
 'know': TPHOE
 'my': PHEU
 'own': OEPB
-'satire."': SA/TAOEUR TP-PL KR-GS
-'"Ink-pitcher!"': KR-GS KPA/*EUPBG H-PB PEUFRP SKHRAPL KR-GS
+'satire."': SA/TAOEUR/TP-PL/KR-GS
+'"Ink-pitcher!"': KR-GS/KPA/*EUPBG/H-PB/PEUFRP/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
-'pen.': PEPB TP-PL
-'"Writing-stick!"': KR-GS KPA/WREUG H-PB STEUBG SKHRAPL KR-GS
+'pen.': PEPB/TP-PL
+'"Writing-stick!"': KR-GS/KPA/WREUG/H-PB/STEUBG/SKHRAPL/KR-GS
 'retorted': RE/TORT/-D
 'the': -T
-'inkstand.': *EUPBG/STA*PBD TP-PL
+'inkstand.': *EUPBG/STA*PBD/TP-PL
 'And': AFPBD
 'each': AOEFP
 'of': -F
@@ -797,7 +797,7 @@ The Pen and the Inkstand
 'given': TKPWEUFPB
 'a': AEU
 'good': TKPWAOD
-'answer.': AEPBS TP-PL
+'answer.': AEPBS/TP-PL
 'It': KPA/T
 'is': S
 'pleasing': PHRAOEFG
@@ -812,7 +812,7 @@ The Pen and the Inkstand
 'matter': PHAERT
 'by': PWEU
 'your': KWROUR
-'reply;': RE/PHRAOEU STPH*FPLT
+'reply;': RE/PHRAOEU/STPH*FPLT
 'it': T
 'is': S
 'something': S-G
@@ -820,20 +820,20 @@ The Pen and the Inkstand
 'make': PHAEUBG
 'you': U
 'sleep': SHRAOEP
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'they': THE
 'both': PWO*T
 'slept': SHREPT
 'well': WEL
 'upon': POPB
-'it.': T TP-PL
+'it.': T/TP-PL
 'But': KPA/PWUT
 'the': -T
 'poet': POET
 'did': TK
 'not': TPHOT
-'sleep.': SHRAOEP TP-PL
+'sleep.': SHRAOEP/TP-PL
 'Thoughts': KPA/THAUTS
 'rose': ROEZ
 'up': UP
@@ -844,10 +844,10 @@ The Pen and the Inkstand
 'tones': TOEPBS
 'of': -F
 'the': -T
-'violin,': SRO*EUPBL KW-BG
+'violin,': SRO*EUPBL/KW-BG
 'falling': TPAULG
 'like': HRAOEUBG
-'pearls,': PERLS KW-BG
+'pearls,': PERLS/KW-BG
 'or': OR
 'rushing': RURBG
 'like': HRAOEUBG
@@ -856,7 +856,7 @@ The Pen and the Inkstand
 'wind': WEUPBD
 'through': THRU
 'the': -T
-'forest.': TPOEFRT TP-PL
+'forest.': TPOEFRT/TP-PL
 'He': KPA/HE
 'understood': *URPBD
 'his': HEUS
@@ -864,7 +864,7 @@ The Pen and the Inkstand
 'heart': HART
 'in': TPH
 'these': THEZ
-'thoughts;': THAUTS STPH*FPLT
+'thoughts;': THAUTS/STPH*FPLT
 'they': THE
 'were': WR
 'as': AS
@@ -879,10 +879,10 @@ The Pen and the Inkstand
 'Master': KPA/PHAFRT
 'of': -F
 'all': AUL
-'minds.': PHAOEUPBDZ TP-PL
-'"To': KR-GS KPA/TO
+'minds.': PHAOEUPBDZ/TP-PL
+'"To': KR-GS/KPA/TO
 'Him': KPA/HEUPL
 'be': -B
 'all': AUL
 'the': -T
-'honor."': HO*RPB TP-PL KR-GS
+'honor."': HO*RPB/TP-PL/KR-GS

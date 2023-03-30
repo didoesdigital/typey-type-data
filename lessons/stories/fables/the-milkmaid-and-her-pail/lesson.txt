@@ -15,7 +15,7 @@ The Milkmaid and Her Pail
 'Pail': KPA/PAEUL
 'on': OPB
 'her': HER
-'head.': HED TP-PL
+'head.': HED/TP-PL
 'As': KPA/AS
 'she': SHE
 'went': WEPBT
@@ -35,31 +35,31 @@ The Milkmaid and Her Pail
 'get': TKPWET
 'for': TPOR
 'the': -T
-'milk.': PH*EULG TP-PL
-'"I'll': KR-GS EU AE HR*/HR*
+'milk.': PH*EULG/TP-PL
+'"I'll': KR-GS/EU/AE/HR*/HR*
 'buy': PWAOEU
 'some': SOPL
 'fowls': TPO*UL/-S
 'from': TPR
 'Farmer': KPA/TPAR/PHER
-'Brown,"': PWRO*UPB KW-BG KR-GS
+'Brown,"': PWRO*UPB/KW-BG/KR-GS
 'said': SED
-'she,': SHE KW-BG
-'"and': KR-GS SKP
+'she,': SHE/KW-BG
+'"and': KR-GS/SKP
 'they': THE
 'will': HR
 'lay': HRAEU
 'eggs': EGS
 'each': AOEFP
-'morning,': PHORPBG KW-BG
+'morning,': PHORPBG/KW-BG
 'which': WEU
 'I': EU
 'will': HR
 'sell': SEL
 'to': TO
 'the': -T
-'parson's': PAR/SOPB AES
-'wife.': WAOEUF TP-PL
+'parson's': PAR/SOPB/AES
+'wife.': WAOEUF/TP-PL
 'With': KPA/W
 'the': -T
 'money': PHUPB
@@ -82,13 +82,13 @@ The Milkmaid and Her Pail
 'and': SKP
 'a': AEU
 'chip': KHEUP
-'hat;': HAT STPH*FPLT
+'hat;': HAT/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'I': EU
 'go': TKPW
 'to': TO
-'market,': PHARBGT KW-BG
+'market,': PHARBGT/KW-BG
 'won't': WOEPBT
 'all': AUL
 'the': -T
@@ -99,17 +99,17 @@ The Milkmaid and Her Pail
 'and': SKP
 'speak': SPAOEBG
 'to': TO
-'me!': PHE SKHRAPL
+'me!': PHE/SKHRAPL
 'Polly': POL/HREU
 'Shaw': SHAU
 'will': HR
 'be': -B
 'that': THA
-'jealous;': SKWR*ELS STPH*FPLT
+'jealous;': SKWR*ELS/STPH*FPLT
 'but': PWUT
 'I': EU
 'don't': TKOEPBT
-'care.': KAEUR TP-PL
+'care.': KAEUR/TP-PL
 'I': EU
 'shall': SHAL
 'just': SKWRUFT
@@ -121,7 +121,7 @@ The Milkmaid and Her Pail
 'my': PHEU
 'head': HED
 'like': HRAOEUBG
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'As': KPA/AS
 'she': SHE
 'spoke': SPOEBG
@@ -129,18 +129,18 @@ The Milkmaid and Her Pail
 'tossed': TOS/-D
 'her': HER
 'head': HED
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'the': -T
 'Pail': KPA/PAEUL
 'fell': TPEL
 'off': OF
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'all': AUL
 'the': -T
 'milk': PH*EULG
 'was': WAS
-'spilt.': SPEULT TP-PL
+'spilt.': SPEULT/TP-PL
 'So': KPA/SO
 'she': SHE
 'had': H
@@ -153,14 +153,14 @@ The Milkmaid and Her Pail
 'mother': PHOER
 'what': WHA
 'had': H
-'occurred.': KROEURD TP-PL
-'"Ah,': KR-GS KPA/HA*E KW-BG
+'occurred.': KROEURD/TP-PL
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
 'my': PHEU
-'child,"': KHAOEULD KW-BG KR-GS
+'child,"': KHAOEULD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'mother,': PHOER KW-BG
-'"Do': KR-GS KPA/TKO
+'mother,': PHOER/KW-BG
+'"Do': KR-GS/KPA/TKO
 'not': TPHOT
 'count': KOUPBT
 'your': KWROUR
@@ -168,4 +168,4 @@ The Milkmaid and Her Pail
 'before': PW-FR
 'they': THE
 'are': R
-'hatched."': HAFPD TP-PL KR-GS
+'hatched."': HAFPD/TP-PL/KR-GS

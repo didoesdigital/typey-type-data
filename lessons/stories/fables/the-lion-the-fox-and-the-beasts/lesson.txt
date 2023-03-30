@@ -23,15 +23,15 @@ The Lion, the Fox, and the Beasts
 'last': HRAFT
 'Will': W*EUL
 'and': SKP
-'Testament.': TEFT/TPH-PL/*PLT TP-PL
+'Testament.': TEFT/TPH-PL/*PLT/TP-PL
 'So': KPA/SO
 'the': -T
 'Goat': KPA/TKPWO*ET
 'came': KAEUPL
 'to': TO
 'the': -T
-'Lion's': KPA/HRO*EUPB AES
-'cave,': KAEUF KW-BG
+'Lion's': KPA/HRO*EUPB/AES
+'cave,': KAEUF/KW-BG
 'and': SKP
 'stopped': STOPD
 'there': THR
@@ -39,12 +39,12 @@ The Lion, the Fox, and the Beasts
 'for': TPOR
 'a': AEU
 'long': HROPBG
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'Then': KPA/THEPB
 'a': AEU
 'Sheep': KPA/SHAOEP
 'went': WEPBT
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'before': PW-FR
 'she': SHE
@@ -64,14 +64,14 @@ The Lion, the Fox, and the Beasts
 'Lord': HRO*RD
 'of': -F
 'the': -T
-'Beasts.': KPA/PWAOEFT/-S TP-PL
+'Beasts.': KPA/PWAOEFT/-S/TP-PL
 'But': KPA/PWUT
 'soon': SAOPB
 'the': -T
 'Lion': KPA/HRO*EUPB
 'seemed': SAOEPLD
 'to': TO
-'recover,': ROFR KW-BG
+'recover,': ROFR/KW-BG
 'and': SKP
 'came': KAEUPL
 'to': TO
@@ -79,11 +79,11 @@ The Lion, the Fox, and the Beasts
 'mouth': PHO*UT
 'of': -F
 'his': HEUS
-'cave,': KAEUF KW-BG
+'cave,': KAEUF/KW-BG
 'and': SKP
 'saw': SAU
 'the': -T
-'Fox,': KPA/TPOBGS KW-BG
+'Fox,': KPA/TPOBGS/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
@@ -91,8 +91,8 @@ The Lion, the Fox, and the Beasts
 'outside': OUDZ
 'for': TPOR
 'some': SOPL
-'time.': TAOEUPL TP-PL
-'"Why': KR-GS KPA/KWR
+'time.': TAOEUPL/TP-PL
+'"Why': KR-GS/KPA/KWR
 'do': TKO
 'you': U
 'not': TPHOT
@@ -102,22 +102,22 @@ The Lion, the Fox, and the Beasts
 'your': KWROUR
 'respects': R-PTS
 'to': TO
-'me?"': PHE H-F KR-GS
+'me?"': PHE/H-F/KR-GS
 'said': SED
 'the': -T
 'Lion': KPA/HRO*EUPB
 'to': TO
 'the': -T
-'Fox.': KPA/TPOBGS TP-PL
-'"I': KR-GS EU
+'Fox.': KPA/TPOBGS/TP-PL
+'"I': KR-GS/EU
 'beg': PWEG
 'your': KWROUR
-'Majesty's': KPA/PHAPBLG/STEU AES
-'pardon,"': PARD KW-BG KR-GS
+'Majesty's': KPA/PHAPBLG/STEU/AES
+'pardon,"': PARD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Fox,': KPA/TPOBGS KW-BG
-'"but': KR-GS PWUT
+'Fox,': KPA/TPOBGS/KW-BG
+'"but': KR-GS/PWUT
 'I': EU
 'noticed': TPH-TS/-D
 'the': -T
@@ -130,20 +130,20 @@ The Lion, the Fox, and the Beasts
 'already': HR-R
 'come': KOPL
 'to': TO
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'and': SKP
 'while': WHAOEUL
 'I': EU
 'see': SAOE
 'many': PHAEPB
-'hoof-marks': HAOF H-PB PHARBGS
+'hoof-marks': HAOF/H-PB/PHARBGS
 'going': TKPW-G
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'I': EU
 'see': SAOE
 'none': TPHOPB
 'coming': KO*G
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'Till': KPA/TEUL
 'the': -T
 'animals': PHAPBLS
@@ -162,7 +162,7 @@ The Lion, the Fox, and the Beasts
 'in': TPH
 'the': -T
 'open': OEP
-'air."': AEUR TP-PL KR-GS
+'air."': AEUR/TP-PL/KR-GS
 'It': KPA/T
 'is': S
 'easier': AO*ERS
@@ -174,4 +174,4 @@ The Lion, the Fox, and the Beasts
 'toils': TOEUL/-S
 'than': THAPB
 'out': OUT
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL

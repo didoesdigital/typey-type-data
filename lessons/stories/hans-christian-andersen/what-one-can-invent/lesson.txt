@@ -12,27 +12,27 @@ What One Can Invent
 'to': TO
 'be': -B
 'a': AEU
-'poet.': POET TP-PL
+'poet.': POET/TP-PL
 'He': KPA/HE
 'wanted': WAPBTD
 'to': TO
 'become': PW-BG
 'one': WUPB
 'by': PWEU
-'Easter,': AOEFRT KW-BG
+'Easter,': AOEFRT/KW-BG
 'and': SKP
 'to': TO
-'marry,': PHAER KW-BG
+'marry,': PHAER/KW-BG
 'and': SKP
 'to': TO
 'live': HREUF
 'by': PWEU
-'poetry.': POEURT TP-PL
+'poetry.': POEURT/TP-PL
 'To': KPA/TO
 'write': WREU
-'poems,': POEPLS KW-BG
+'poems,': POEPLS/KW-BG
 'he': HE
-'knew,': TPHAOU KW-BG
+'knew,': TPHAOU/KW-BG
 'only': OEPBL
 'consists': KAOS
 'in': TPH
@@ -40,19 +40,19 @@ What One Can Invent
 'able': ABL
 'to': TO
 'invent': EUPB/SREPBT
-'something;': S-G STPH*FPLT
+'something;': S-G/STPH*FPLT
 'but': PWUT
 'he': HE
 'could': KO
 'not': TPHOT
 'invent': EUPB/SREPBT
-'anything.': TPHEUG TP-PL
+'anything.': TPHEUG/TP-PL
 'He': KPA/HE
 'had': H
 'been': PW-PB
 'born': PWORPB
 'too': TAO
-'late—everything': HRAEUT EPL/TKA*RB EFRG
+'late—everything': HRAEUT/EPL/TKA*RB/EFRG
 'had': H
 'been': PW-PB
 'taken': TAEPB
@@ -62,7 +62,7 @@ What One Can Invent
 'came': KAEUPL
 'into': TPHAO
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'and': SKP
 'everything': EFRG
 'had': H
@@ -70,8 +70,8 @@ What One Can Invent
 'written': WREUPB
 'and': SKP
 'told': TOLD
-'about.': PW TP-PL
-'"Happy': KR-GS KPA/HAEP
+'about.': PW/TP-PL
+'"Happy': KR-GS/KPA/HAEP
 'people': PAOEPL
 'who': WHO
 'were': WR
@@ -79,10 +79,10 @@ What One Can Invent
 'a': AEU
 'thousand': THOUD
 'years': KWRAOERS
-'ago!"': AG SKHRAPL KR-GS
+'ago!"': AG/SKHRAPL/KR-GS
 'said': SED
-'he.': HE TP-PL
-'"It': KR-GS KPA/T
+'he.': HE/TP-PL
+'"It': KR-GS/KPA/T
 'was': WAS
 'an': APB
 'easy': EZ
@@ -91,7 +91,7 @@ What One Can Invent
 'them': THEPL
 'to': TO
 'become': PW-BG
-'immortal.': EUPL/PHORT/A*L TP-PL
+'immortal.': EUPL/PHORT/A*L/TP-PL
 'Happy': KPA/HAEP
 'even': AOEPB
 'was': WAS
@@ -102,7 +102,7 @@ What One Can Invent
 'a': AEU
 'hundred': HUPBD
 'years': KWRAOERS
-'ago,': AG KW-BG
+'ago,': AG/KW-BG
 'for': TPOR
 'then': THEPB
 'there': THR
@@ -115,20 +115,20 @@ What One Can Invent
 'poem': POEPL
 'could': KO
 'be': -B
-'written.': WREUPB TP-PL
+'written.': WREUPB/TP-PL
 'Now': KPA/TPHOU
 'the': -T
 'world': WORLD
 'is': S
 'written': WREUPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'what': WHA
 'can': K
 'I': EU
 'write': WREU
 'poetry': POEURT
-'about?"': PW H-F KR-GS
+'about?"': PW/H-F/KR-GS
 'Then': KPA/THEPB
 'he': HE
 'studied': STOEUD
@@ -137,21 +137,21 @@ What One Can Invent
 'became': PWAEUPL
 'ill': EUL
 'and': SKP
-'wretched,': WREFPD KW-BG
+'wretched,': WREFPD/KW-BG
 'the': -T
 'wretched': WREFPD
-'man!': PHAPB SKHRAPL
+'man!': PHAPB/SKHRAPL
 'No': KPA/TPHO
 'doctor': TKR
 'could': KO
 'help': HEP
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'perhaps': PRAPS
 'the': -T
 'wise': WAOEUS
 'woman': WOPL
-'could.': KO TP-PL
+'could.': KO/TP-PL
 'She': KPA/SHE
 'lived': HREUFD
 'in': TPH
@@ -160,7 +160,7 @@ What One Can Invent
 'house': HOUS
 'by': PWEU
 'the': -T
-'wayside,': WAEU/SAOEUD KW-BG
+'wayside,': WAEU/SAOEUD/KW-BG
 'where': W-R
 'the': -T
 'gate': TKPWAET
@@ -173,7 +173,7 @@ What One Can Invent
 'who': WHO
 'rode': ROED
 'and': SKP
-'drove.': TKROEF TP-PL
+'drove.': TKROEF/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'could': KO
@@ -182,7 +182,7 @@ What One Can Invent
 'than': THAPB
 'unlock': UPB/HROBG
 'the': -T
-'gate.': TKPWAET TP-PL
+'gate.': TKPWAET/TP-PL
 'She': KPA/SHE
 'was': WAS
 'wiser': WAOEUZ/ER
@@ -200,16 +200,16 @@ What One Can Invent
 'tax': TABGS
 'for': TPOR
 'his': HEUS
-'rank.': RA*PBG TP-PL
-'"I': KR-GS EU
+'rank.': RA*PBG/TP-PL
+'"I': KR-GS/EU
 'must': PHUFT
 'go': TKPW
 'to': TO
-'her,"': HER KW-BG KR-GS
+'her,"': HER/KW-BG/KR-GS
 'said': SED
 'the': -T
 'young': KWRUPBG
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'The': KPA/-T
 'house': HOUS
 'in': TPH
@@ -219,55 +219,55 @@ What One Can Invent
 'was': WAS
 'small': SPHAL
 'and': SKP
-'neat,': TPHAOET KW-BG
+'neat,': TPHAOET/KW-BG
 'but': PWUT
 'dreary': TKRAOE/REU
 'to': TO
-'behold,': PWE/HOLD KW-BG
+'behold,': PWE/HOLD/KW-BG
 'for': TPOR
 'there': THR
 'were': WR
 'no': TPHO
 'flowers': TPHRO*URS
 'near': TPHAOER
-'it—no': T EPL/TKA*RB TPHO
-'trees.': TRAOES TP-PL
+'it—no': T/EPL/TKA*RB/TPHO
+'trees.': TRAOES/TP-PL
 'By': KPA/PWEU
 'the': -T
 'door': TKAOR
 'stood': STAOD
 'a': AEU
-'bee-hive,': PWAOE H-PB HAOEUF KW-BG
+'bee-hive,': PWAOE/H-PB/HAOEUF/KW-BG
 'which': WEU
 'was': WAS
 'very': SRE
-'useful.': AOUFL TP-PL
+'useful.': AOUFL/TP-PL
 'There': KPA/THR
 'was': WAS
 'also': HR-S
 'a': AEU
 'little': HREUL
-'potato-field,': POE/TAEUT H-PB TPAOELD KW-BG
+'potato-field,': POE/TAEUT/H-PB/TPAOELD/KW-BG
 'very': SRE
-'useful,': AOUFL KW-BG
+'useful,': AOUFL/KW-BG
 'and': SKP
 'an': APB
 'earth': *ERT
-'bank,': PWA*PBG KW-BG
+'bank,': PWA*PBG/KW-BG
 'with': W
 'sloe': SHRO*E
 'bushes': PWURBS
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'which': WEU
 'had': H
 'done': TKOPB
-'blossoming,': PWHROFPL/-G KW-BG
+'blossoming,': PWHROFPL/-G/KW-BG
 'and': SKP
 'now': TPHOU
 'bore': PWOR
-'fruit,': TPRAOUT KW-BG
-'sloes,': SHRO*E/-S KW-BG
+'fruit,': TPRAOUT/KW-BG
+'sloes,': SHRO*E/-S/KW-BG
 'that': THA
 'draw': TKRAU
 'one's': W*UPBS
@@ -282,7 +282,7 @@ What One Can Invent
 'frost': TPROFT
 'has': HAS
 'touched': TUFPD
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 '"That's': KW-GS/KPA*/THATS
 'a': AEU
 'true': TRAOU
@@ -290,24 +290,24 @@ What One Can Invent
 'of': -F
 'our': OUR
 'poetryless': POEURT/-LS
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'that': THA
 'I': EU
 'see': SAOE
 'before': PW-FR
 'me': PHE
-'now,"': TPHOU KW-BG KR-GS
+'now,"': TPHOU/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
 'young': KWRUPBG
-'man;': PHAPB STPH*FPLT
+'man;': PHAPB/STPH*FPLT
 'and': SKP
 'that': THA
 'was': WAS
 'at': AT
 'least': HRAOEFT
 'a': AEU
-'thought,': THAUT KW-BG
+'thought,': THAUT/KW-BG
 'a': AEU
 'grain': TKPWRAEUPB
 'of': -F
@@ -321,26 +321,26 @@ What One Can Invent
 'of': -F
 'the': -T
 'wise': WAOEUS
-'woman.': WOPL TP-PL
-'"Write': KR-GS KPA/WREU
+'woman.': WOPL/TP-PL
+'"Write': KR-GS/KPA/WREU
 'that': THA
-'down!"': TKOUPB SKHRAPL KR-GS
+'down!"': TKOUPB/SKHRAPL/KR-GS
 'said': SED
-'she.': SHE TP-PL
-'"Even': KR-GS KPA/AOEPB
+'she.': SHE/TP-PL
+'"Even': KR-GS/KPA/AOEPB
 'crumbs': KRUPLS
 'are': R
-'bread.': PWRAED TP-PL
+'bread.': PWRAED/TP-PL
 'I': EU
 'know': TPHOE
 'why': KWR
 'you': U
 'come': KOPL
-'hither.': H*EURT TP-PL
+'hither.': H*EURT/TP-PL
 'You': KPA/U
 'cannot': SK-PBT
 'invent': EUPB/SREPBT
-'anything,': TPHEUG KW-BG
+'anything,': TPHEUG/KW-BG
 'and': SKP
 'yet': KWRET
 'you': U
@@ -350,57 +350,57 @@ What One Can Invent
 'a': AEU
 'poet': POET
 'by': PWEU
-'Easter."': AOEFRT TP-PL KR-GS
-'"Everything': KR-GS KPA/EFRG
+'Easter."': AOEFRT/TP-PL/KR-GS
+'"Everything': KR-GS/KPA/EFRG
 'has': HAS
 'been': PW-PB
 'written': WREUPB
-'down,"': TKOUPB KW-BG KR-GS
+'down,"': TKOUPB/KW-BG/KR-GS
 'said': SED
-'he.': HE TP-PL
-'"Our': KR-GS KPA/OUR
+'he.': HE/TP-PL
+'"Our': KR-GS/KPA/OUR
 'time': TAOEUPL
 'is': S
 'not': TPHOT
 'the': -T
 'old': OLD
-'time."': TAOEUPL TP-PL KR-GS
-'"No,"': KR-GS KPA/TPHO KW-BG KR-GS
+'time."': TAOEUPL/TP-PL/KR-GS
+'"No,"': KR-GS/KPA/TPHO/KW-BG/KR-GS
 'said': SED
 'the': -T
-'woman.': WOPL TP-PL
-'"In': KR-GS KPA/TPH
+'woman.': WOPL/TP-PL
+'"In': KR-GS/KPA/TPH
 'the': -T
 'old': OLD
 'time': TAOEUPL
 'wise': WAOEUS
 'women': WEUPL
 'were': WR
-'burnt,': PWURPBT KW-BG
+'burnt,': PWURPBT/KW-BG
 'and': SKP
 'poets': POETS
 'went': WEPBT
 'about': PW
 'with': W
 'empty': EPLT
-'stomachs,': STO*BGS KW-BG
+'stomachs,': STO*BGS/KW-BG
 'and': SKP
 'very': SRE
 'much': PHUFP
 'out': OUT
 'at': AT
-'elbows.': EL/PWOES TP-PL
+'elbows.': EL/PWOES/TP-PL
 'The': KPA/-T
 'present': PREPBT
 'time': TAOEUPL
 'is': S
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'it': T
 'is': S
 'the': -T
 'best': PWEFT
 'of': -F
-'times;': TAOEUPLS STPH*FPLT
+'times;': TAOEUPLS/STPH*FPLT
 'but': PWUT
 'you': U
 'have': SR
@@ -411,14 +411,14 @@ What One Can Invent
 'of': -F
 'looking': HRAOG
 'at': AT
-'it.': T TP-PL
+'it.': T/TP-PL
 'Your': KPA/KWROUR
 'ear': AOER
 'is': S
 'not': TPHOT
 'sharpened': SHARP/-PBD
 'to': TO
-'hear,': HAER KW-BG
+'hear,': HAER/KW-BG
 'and': SKP
 'I': EU
 'fancy': TPAEPBS
@@ -427,11 +427,11 @@ What One Can Invent
 'not': TPHOT
 'say': SAEU
 'the': -T
-'Lord's': HRO*RD AES
+'Lord's': HRO*RD/AES
 'Prayer': KPA/PRAEUR
 'in': TPH
 'the': -T
-'evening.': AOEPBG TP-PL
+'evening.': AOEPBG/TP-PL
 'There': KPA/THR
 'is': S
 'plenty': PHREPBT
@@ -439,18 +439,18 @@ What One Can Invent
 'to': TO
 'write': WREU
 'poems': POEPLS
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'and': SKP
 'to': TO
 'tell': TEL
-'of,': -F KW-BG
+'of,': -F/KW-BG
 'for': TPOR
 'any': TPHEU
 'one': WUPB
 'who': WHO
 'knows': TPHOEZ
 'the': -T
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'You': KPA/U
 'can': K
 'read': RAED
@@ -460,7 +460,7 @@ What One Can Invent
 'fruits': TPRAOUTS
 'of': -F
 'the': -T
-'earth,': *ERT KW-BG
+'earth,': *ERT/KW-BG
 'you': U
 'can': K
 'draw': TKRAU
@@ -471,44 +471,44 @@ What One Can Invent
 'and': SKP
 'the': -T
 'standing': STAPBG
-'water;': WAUR STPH*FPLT
+'water;': WAUR/STPH*FPLT
 'but': PWUT
 'you': U
 'must': PHUFT
 'understand': URPBD
-'how—you': HOU EPL/TKA*RB U
+'how—you': HOU/EPL/TKA*RB/U
 'must': PHUFT
 'understand': URPBD
 'how': HOU
 'to': TO
 'catch': KAFP
 'a': AEU
-'sunbeam.': SUPB/PWAOEPL TP-PL
+'sunbeam.': SUPB/PWAOEPL/TP-PL
 'Now': KPA/TPHOU
 'just': SKWRUFT
 'you': U
 'try': TREU
 'my': PHEU
 'spectacles': SPEBGT/K-LS
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'put': PUT
 'my': PHEU
-'ear-trumpet': AOER H-PB TRUPLT
+'ear-trumpet': AOER/H-PB/TRUPLT
 'to': TO
 'your': KWROUR
-'ear,': AOER KW-BG
+'ear,': AOER/KW-BG
 'and': SKP
 'then': THEPB
 'pray': PRAEU
 'to': TO
-'God,': TKPWO*D KW-BG
+'God,': TKPWO*D/KW-BG
 'and': SKP
 'leave': HREF
 'off': OF
 'thinking': THEUG
 'of': -F
-'yourself."': KWRO*URS TP-PL KR-GS
+'yourself."': KWRO*URS/TP-PL/KR-GS
 'The': KPA/-T
 'last': HRAFT
 'was': WAS
@@ -517,21 +517,21 @@ What One Can Invent
 'difficult': TKEUFL
 'thing': THEUPBG
 'to': TO
-'do—more': TKO EPL/TKA*RB PHOR
+'do—more': TKO/EPL/TKA*RB/PHOR
 'than': THAPB
 'a': AEU
 'wise': WAOEUS
 'woman': WOPL
 'ought': OT
 'to': TO
-'ask.': SK TP-PL
+'ask.': SK/TP-PL
 'He': KPA/HE
 'received': SAOEFD
 'the': -T
 'spectacles': SPEBGT/K-LS
 'and': SKP
 'the': -T
-'ear-trumpet,': AOER H-PB TRUPLT KW-BG
+'ear-trumpet,': AOER/H-PB/TRUPLT/KW-BG
 'and': SKP
 'was': WAS
 'posted': POEFTD
@@ -540,7 +540,7 @@ What One Can Invent
 'middle': PH*EULD
 'of': -F
 'the': -T
-'potato-field.': POE/TAEUT H-PB TPAOELD TP-PL
+'potato-field.': POE/TAEUT/H-PB/TPAOELD/TP-PL
 'She': KPA/SHE
 'put': PUT
 'a': AEU
@@ -548,32 +548,32 @@ What One Can Invent
 'potato': POE/TAEUT
 'into': TPHAO
 'his': HEUS
-'hand.': HAPBD TP-PL
+'hand.': HAPBD/TP-PL
 'Sounds': KPA/SOUPBDZ
 'came': KAEUPL
 'from': TPR
 'within': W-PB
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'there': THR
 'came': KAEUPL
 'a': AEU
 'song': SOPBG
 'with': W
-'words,': WORDZ KW-BG
+'words,': WORDZ/KW-BG
 'the': -T
 'history': HEUFRT
 'of': -F
 'the': -T
-'potato,': POE/TAEUT KW-BG
+'potato,': POE/TAEUT/KW-BG
 'an': APB
-'every-day': EF TKA*EU
+'every-day': EF/TKA*EU
 'story': STOER
 'in': TPH
 'ten': TEPB
-'parts,': PARTS KW-BG
+'parts,': PARTS/KW-BG
 'an': APB
 'interesting': TR-G
-'story.': STOER TP-PL
+'story.': STOER/TP-PL
 'And': AFPBD
 'ten': TEPB
 'lines': HRAOEUPBS
@@ -582,13 +582,13 @@ What One Can Invent
 'to': TO
 'tell': TEL
 'it': T
-'in.': TPH TP-PL
+'in.': TPH/TP-PL
 'And': AFPBD
 'what': WHA
 'did': TK
 'the': -T
 'potato': POE/TAEUT
-'sing?': SEUPBG H-F
+'sing?': SEUPBG/H-F
 'She': KPA/SHE
 'sang': SAPBG
 'of': -F
@@ -596,7 +596,7 @@ What One Can Invent
 'and': SKP
 'of': -F
 'her': HER
-'family,': TPAEPL KW-BG
+'family,': TPAEPL/KW-BG
 'of': -F
 'the': -T
 'arrival': A/RAOEUFL
@@ -604,7 +604,7 @@ What One Can Invent
 'the': -T
 'potato': POE/TAEUT
 'in': TPH
-'Europe,': AO*URP KW-BG
+'Europe,': AO*URP/KW-BG
 'of': -F
 'the': -T
 'misrepresentation': PHEUS/REPGS
@@ -617,11 +617,11 @@ What One Can Invent
 'before': PW-FR
 'she': SHE
 'was': WAS
-'acknowledged,': ABG/TPHOPBLGD KW-BG
+'acknowledged,': ABG/TPHOPBLGD/KW-BG
 'as': AS
 'she': SHE
 'is': S
-'now,': TPHOU KW-BG
+'now,': TPHOU/KW-BG
 'to': TO
 'be': -B
 'a': AEU
@@ -631,21 +631,21 @@ What One Can Invent
 'a': AEU
 'lump': HRUFRP
 'of': -F
-'gold.': TKPWOELD TP-PL
-'"We': KR-GS KPA/WE
+'gold.': TKPWOELD/TP-PL
+'"We': KR-GS/KPA/WE
 'were': WR
-'distributed,': TKR-BTD KW-BG
+'distributed,': TKR-BTD/KW-BG
 'by': PWEU
 'the': -T
-'King's': KO*EUPBG AES
-'command,': KPHAPBD KW-BG
+'King's': KO*EUPBG/AES
+'command,': KPHAPBD/KW-BG
 'from': TPR
 'the': -T
-'council-houses': KOUPB/SEUL H-PB HO*UFS
+'council-houses': KOUPB/SEUL/H-PB/HO*UFS
 'through': THRU
 'the': -T
 'various': SRAEURS
-'towns,': TOUPBS KW-BG
+'towns,': TOUPBS/KW-BG
 'and': SKP
 'proclamation': PROBG/PHAEUGS
 'was': WAS
@@ -653,20 +653,20 @@ What One Can Invent
 'of': -F
 'our': OUR
 'great': TKPWRAET
-'value;': SRAOUL STPH*FPLT
+'value;': SRAOUL/STPH*FPLT
 'but': PWUT
 'no': TPHO
 'one': WUPB
 'believed': PWHREFD
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'or': OR
 'even': AOEPB
 'understood': *URPBD
 'how': HOU
 'to': TO
 'plant': PHRAPBT
-'us.': US TP-PL
+'us.': US/TP-PL
 'One': KPA/WUPB
 'man': PHAPB
 'dug': TKUG
@@ -682,7 +682,7 @@ What One Can Invent
 'whole': WHOEL
 'bushel': PWURB/-L
 'of': -F
-'potatoes;': POE/TAEUT/-S STPH*FPLT
+'potatoes;': POE/TAEUT/-S/STPH*FPLT
 'another': TPHOER
 'put': PUT
 'one': WUPB
@@ -693,7 +693,7 @@ What One Can Invent
 'there': THR
 'in': TPH
 'the': -T
-'ground,': TKPWROUPBD KW-BG
+'ground,': TKPWROUPBD/KW-BG
 'and': SKP
 'expected': KP-PTD
 'that': THA
@@ -704,30 +704,30 @@ What One Can Invent
 'up': UP
 'a': AEU
 'perfect': P-F
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'from': TPR
 'which': WEU
 'he': HE
 'might': PHAOEUT
 'shake': SHAEUBG
 'down': TKOUPB
-'potatoes.': POE/TAEUT/-S TP-PL
+'potatoes.': POE/TAEUT/-S/TP-PL
 'And': AFPBD
 'they': THE
 'certainly': SERPBL
-'grew,': TKPWRAOU KW-BG
+'grew,': TKPWRAOU/KW-BG
 'and': SKP
 'produced': PRO*UD
 'flowers': TPHRO*URS
 'and': SKP
 'green': TKPWRAOEPB
 'watery': WAT/REU
-'fruit,': TPRAOUT KW-BG
+'fruit,': TPRAOUT/KW-BG
 'but': PWUT
 'it': T
 'all': AUL
 'withered': WEU/THER/-D
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'Nobody': KPA/TPHOEB
 'thought': THAUT
 'of': -F
@@ -735,49 +735,49 @@ What One Can Invent
 'was': WAS
 'in': TPH
 'the': -T
-'ground—the': TKPWROUPBD EPL/TKA*RB -T
-'blessing—the': PWHR*EFG EPL/TKA*RB -T
-'potato.': POE/TAEUT TP-PL
-'Yes,': KPA/KWRE KW-BG
+'ground—the': TKPWROUPBD/EPL/TKA*RB/-T
+'blessing—the': PWHR*EFG/EPL/TKA*RB/-T
+'potato.': POE/TAEUT/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'we': WE
 'have': SR
 'endured': EPB/TKAOURD
 'and': SKP
-'suffered,': SUFRD KW-BG
+'suffered,': SUFRD/KW-BG
 'that': THA
 'is': S
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'our': OUR
 'forefathers': TPOER/TPA*T/ERS
-'have;': SR STPH*FPLT
+'have;': SR/STPH*FPLT
 'they': THE
 'and': SKP
-'we,': WE KW-BG
+'we,': WE/KW-BG
 'it': T
 'is': S
 'all': AUL
-'one."': WUPB TP-PL KR-GS
+'one."': WUPB/TP-PL/KR-GS
 'What': KPA/WHA
 'a': AEU
 'story': STOER
 'it': T
-'was!': WAS SKHRAPL
-'"Well,': KR-GS KPA/WEL KW-BG
+'was!': WAS/SKHRAPL
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'and': SKP
 'that': THA
 'will': HR
-'do,"': TKO KW-BG KR-GS
+'do,"': TKO/KW-BG/KR-GS
 'said': SED
 'the': -T
-'woman.': WOPL TP-PL
-'"Now': KR-GS KPA/TPHOU
+'woman.': WOPL/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'look': HRAOBG
 'at': AT
 'the': -T
 'sloe': SHRO*E
-'bush."': PWURB TP-PL KR-GS
-'"We': KR-GS KPA/WE
+'bush."': PWURB/TP-PL/KR-GS
+'"We': KR-GS/KPA/WE
 'have': SR
 'also': HR-S
 'some': SOPL
@@ -788,7 +788,7 @@ What One Can Invent
 'home': HOEPL
 'of': -F
 'the': -T
-'potatoes,': POE/TAEUT/-S KW-BG
+'potatoes,': POE/TAEUT/-S/KW-BG
 'but': PWUT
 'higher': HAOEUR
 'towards': TORDZ
@@ -796,15 +796,15 @@ What One Can Invent
 'north': TPHORT
 'than': THAPB
 'they': THE
-'grew,"': TKPWRAOU KW-BG KR-GS
+'grew,"': TKPWRAOU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Sloes.': xxx Sloes TP-PL
-'"There': KR-GS KPA/THR
+'Sloes.': xxx Sloes/TP-PL
+'"There': KR-GS/KPA/THR
 'were': WR
-'Northmen,': xxx Northmen KW-BG
+'Northmen,': xxx Northmen/KW-BG
 'from': TPR
-'Norway,': TPHOR/WAEU KW-BG
+'Norway,': TPHOR/WAEU/KW-BG
 'who': WHO
 'steered': STAOERD
 'westward': WEFT/WARD
@@ -815,24 +815,24 @@ What One Can Invent
 'to': TO
 'an': APB
 'unknown': UPB/TPHOEPB
-'land,': HRAPBD KW-BG
-'where,': W-R KW-BG
+'land,': HRAPBD/KW-BG
+'where,': W-R/KW-BG
 'behind': HEUPBD
 'ice': AOEUS
 'and': SKP
-'snow,': STPHOE KW-BG
+'snow,': STPHOE/KW-BG
 'they': THE
 'found': TPOUPBD
 'plants': PHRAPBTS
 'and': SKP
 'green': TKPWRAOEPB
-'meadows,': PHED/OES KW-BG
+'meadows,': PHED/OES/KW-BG
 'and': SKP
 'bushes': PWURBS
 'with': W
-'blue-black': PWHRU H-PB PWHRABG
-'grapes—sloe': TKPWRAEUPS EPL/TKA*RB SHRO*E
-'bushes.': PWURBS TP-PL
+'blue-black': PWHRU/H-PB/PWHRABG
+'grapes—sloe': TKPWRAEUPS/EPL/TKA*RB/SHRO*E
+'bushes.': PWURBS/TP-PL
 'The': KPA/-T
 'grapes': TKPWRAEUPS
 'were': WR
@@ -843,54 +843,54 @@ What One Can Invent
 'just': SKWRUFT
 'as': AS
 'we': WE
-'are.': R TP-PL
+'are.': R/TP-PL
 'And': AFPBD
 'they': THE
 'called': KAULD
 'the': -T
 'land': HRAPBD
-''wine-land,'': AE WAOEUPB H-PB HRAPBD KW-BG AE
+''wine-land,'': AE/WAOEUPB/H-PB/HRAPBD/KW-BG/AE
 'that': THA
 'is,': S-RBGS
-''Groenland,'': AE xxx Groenland KW-BG AE
+''Groenland,'': AE/xxx Groenland/KW-BG/AE
 'or': OR
-''Sloeland.'"': AE xxx Sloeland TP-PL AE KR-GS
-'"That': KR-GS KPA/THA
+''Sloeland.'"': AE/xxx Sloeland/TP-PL/AE/KR-GS
+'"That': KR-GS/KPA/THA
 'is': S
 'quite': KWAOEUT
 'a': AEU
 'romantic': RO/PHAPBT/EUBG
-'story,"': STOER KW-BG KR-GS
+'story,"': STOER/KW-BG/KR-GS
 'said': SED
 'the': -T
 'young': KWRUPBG
-'man.': PHAPB TP-PL
-'"Yes,': KR-GS KPA/KWRE KW-BG
-'certainly.': SERPBL TP-PL
+'man.': PHAPB/TP-PL
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'certainly.': SERPBL/TP-PL
 'But': KPA/PWUT
 'now': TPHOU
 'come': KOPL
 'with': W
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'said': SED
 'the': -T
 'wise': WAOEUS
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'and': SKP
 'she': SHE
 'led': HRED
 'him': HEUPL
 'to': TO
 'the': -T
-'bee-hive.': PWAOE H-PB HAOEUF TP-PL
+'bee-hive.': PWAOE/H-PB/HAOEUF/TP-PL
 'He': KPA/HE
 'looked': HRAOBGD
 'into': TPHAO
-'it.': T TP-PL
+'it.': T/TP-PL
 'What': KPA/WHA
 'life': HRAOEUF
 'and': SKP
-'labor!': HRAEUB SKHRAPL
+'labor!': HRAEUB/SKHRAPL
 'There': KPA/THR
 'were': WR
 'bees': PWAOES
@@ -898,10 +898,10 @@ What One Can Invent
 'in': TPH
 'all': AUL
 'the': -T
-'passages,': PA*PBLGS KW-BG
+'passages,': PA*PBLGS/KW-BG
 'waving': WAFG
 'their': THAEUR
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'so': SO
 'that': THA
 'a': AEU
@@ -914,18 +914,18 @@ What One Can Invent
 'through': THRU
 'the': -T
 'great': TKPWRAET
-'manufactory;': xxx manufactory STPH*FPLT
+'manufactory;': xxx manufactory/STPH*FPLT
 'that': THA
 'was': WAS
 'their': THAEUR
-'business.': PWEUS TP-PL
+'business.': PWEUS/TP-PL
 'Then': KPA/THEPB
 'there': THR
 'came': KAEUPL
 'in': TPH
 'bees': PWAOES
 'from': TPR
-'without,': WOUT KW-BG
+'without,': WOUT/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
@@ -935,32 +935,32 @@ What One Can Invent
 'baskets': PWAFBGT/-S
 'on': OPB
 'their': THAEUR
-'feet;': TPAOET STPH*FPLT
+'feet;': TPAOET/STPH*FPLT
 'they': THE
 'brought': PWRAUT
-'flower-dust,': TPHRO*UR H-PB TKUFT KW-BG
+'flower-dust,': TPHRO*UR/H-PB/TKUFT/KW-BG
 'which': WEU
 'was': WAS
 'poured': PORD
-'out,': OUT KW-BG
-'sorted,': SORT/-D KW-BG
+'out,': OUT/KW-BG
+'sorted,': SORT/-D/KW-BG
 'and': SKP
 'manufactured': PH-FD
 'into': TPHAO
 'honey': HUPB/KWREU
 'and': SKP
-'wax.': WABGS TP-PL
+'wax.': WABGS/TP-PL
 'They': KPA/THE
 'flew': TPHRAOU
 'in': TPH
 'and': SKP
-'out.': OUT TP-PL
+'out.': OUT/TP-PL
 'The': KPA/-T
-'queen-bee': KWAOEPB H-PB PWAOE
+'queen-bee': KWAOEPB/H-PB/PWAOE
 'wanted': WAPBTD
 'to': TO
 'fly': TPHRAOEU
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'but': PWUT
 'then': THEPB
 'all': AUL
@@ -971,7 +971,7 @@ What One Can Invent
 'have': SR
 'gone': TKPWOPB
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'It': KPA/T
 'was': WAS
 'not': TPHOT
@@ -979,14 +979,14 @@ What One Can Invent
 'the': -T
 'time': TAOEUPL
 'for': TPOR
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'but': PWUT
 'still': STEUL
 'she': SHE
 'wanted': WAPBTD
 'to': TO
 'fly': TPHRAOEU
-'out;': OUT STPH*FPLT
+'out;': OUT/STPH*FPLT
 'so': SO
 'the': -T
 'others': OERS
@@ -994,7 +994,7 @@ What One Can Invent
 'off': OF
 'her': HER
 'majesty's': PHAPBLG/STEU/AES
-'wings,': WEUPBGS KW-BG
+'wings,': WEUPBGS/KW-BG
 'and': SKP
 'she': SHE
 'had': H
@@ -1002,82 +1002,82 @@ What One Can Invent
 'stay': STAEU
 'where': W-R
 'she': SHE
-'was.': WAS TP-PL
-'"Now': KR-GS KPA/TPHOU
+'was.': WAS/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'get': TKPWET
 'upon': POPB
 'the': -T
 'earth': *ERT
-'bank,"': PWA*PBG KW-BG KR-GS
+'bank,"': PWA*PBG/KW-BG/KR-GS
 'said': SED
 'the': -T
 'wise': WAOEUS
-'woman.': WOPL TP-PL
-'"Come': KR-GS KPA/KOPL
+'woman.': WOPL/TP-PL
+'"Come': KR-GS/KPA/KOPL
 'and': SKP
 'look': HRAOBG
 'out': OUT
 'over': OEFR
 'the': -T
-'highway,': HAOEU/WAEU KW-BG
+'highway,': HAOEU/WAEU/KW-BG
 'where': W-R
 'you': U
 'can': K
 'see': SAOE
 'the': -T
-'people."': PAOEPL TP-PL KR-GS
-'"What': KR-GS KPA/WHA
+'people."': PAOEPL/TP-PL/KR-GS
+'"What': KR-GS/KPA/WHA
 'a': AEU
 'crowd': KROUD
 'it': T
-'is!"': S SKHRAPL KR-GS
+'is!"': S/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'young': KWRUPBG
-'man.': PHAPB TP-PL
-'"One': KR-GS KPA/WUPB
+'man.': PHAPB/TP-PL
+'"One': KR-GS/KPA/WUPB
 'story': STOER
 'after': AF
-'another.': TPHOER TP-PL
+'another.': TPHOER/TP-PL
 'It': KPA/T
 'whirls': WHEURL/-S
 'and': SKP
-'whirls!': WHEURL/-S SKHRAPL
-'It's': KPA/T AES
+'whirls!': WHEURL/-S/SKHRAPL
+'It's': KPA/T/AES
 'quite': KWAOEUT
 'a': AEU
 'confusion': KAUFGS
 'before': PW-FR
 'my': PHEU
-'eyes.': AO*EUS TP-PL
+'eyes.': AO*EUS/TP-PL
 'I': EU
 'shall': SHAL
 'go': TKPW
 'out': OUT
 'at': AT
 'the': -T
-'back."': PWABG TP-PL KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
+'back."': PWABG/TP-PL/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
 'go': TKPW
 'straight': STRAEUT
-'forward,"': TPAORD KW-BG KR-GS
+'forward,"': TPAORD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'woman.': WOPL TP-PL
-'"Go': KR-GS KPA/TKPW
+'woman.': WOPL/TP-PL
+'"Go': KR-GS/KPA/TKPW
 'straight': STRAEUT
 'into': TPHAO
 'the': -T
 'crowd': KROUD
 'of': -F
-'people;': PAOEPL STPH*FPLT
+'people;': PAOEPL/STPH*FPLT
 'look': HRAOBG
 'at': AT
 'them': THEPL
 'in': TPH
 'the': -T
 'right': RAOEUT
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'Have': KPA/SR
 'an': APB
 'ear': AOER
@@ -1088,18 +1088,18 @@ What One Can Invent
 'right': RAOEUT
 'heart': HART
 'to': TO
-'feel,': TPAOEL KW-BG
+'feel,': TPAOEL/KW-BG
 'and': SKP
 'you': U
 'will': HR
 'soon': SAOPB
 'invent': EUPB/SREPBT
-'something.': S-G TP-PL
-'But,': KPA/PWUT KW-BG
+'something.': S-G/TP-PL
+'But,': KPA/PWUT/KW-BG
 'before': PW-FR
 'you': U
 'go': TKPW
-'away,': WA*EU KW-BG
+'away,': WA*EU/KW-BG
 'you': U
 'must': PHUFT
 'give': TKPWEUF
@@ -1108,64 +1108,64 @@ What One Can Invent
 'spectacles': SPEBGT/K-LS
 'and': SKP
 'my': PHEU
-'ear-trumpet': AOER H-PB TRUPLT
-'again."': TKPWEPB TP-PL KR-GS
+'ear-trumpet': AOER/H-PB/TRUPLT
+'again."': TKPWEPB/TP-PL/KR-GS
 'And': AFPBD
 'so': SO
-'saying,': SAEUG KW-BG
+'saying,': SAEUG/KW-BG
 'she': SHE
 'took': TAOBG
 'both': PWO*T
 'from': TPR
-'him.': HEUPL TP-PL
-'"Now': KR-GS KPA/TPHOU
+'him.': HEUPL/TP-PL
+'"Now': KR-GS/KPA/TPHOU
 'I': EU
 'do': TKO
 'not': TPHOT
 'see': SAOE
 'the': -T
 'smallest': SPHAUL/EFT
-'thing,"': THEUPBG KW-BG KR-GS
+'thing,"': THEUPBG/KW-BG/KR-GS
 'said': SED
 'the': -T
 'young': KWRUPBG
-'man,': PHAPB KW-BG
-'"and': KR-GS SKP
+'man,': PHAPB/KW-BG
+'"and': KR-GS/SKP
 'now': TPHOU
 'I': EU
 'don't': TKOEPBT
 'hear': HAER
 'anything': TPHEUG
-'more."': PHOR TP-PL KR-GS
-'"Why,': KR-GS KPA/KWR KW-BG
-'then,': THEPB KW-BG
+'more."': PHOR/TP-PL/KR-GS
+'"Why,': KR-GS/KPA/KWR/KW-BG
+'then,': THEPB/KW-BG
 'you': U
 'can't': K-PBT
 'be': -B
 'a': AEU
 'poet': POET
 'by': PWEU
-'Easter,"': AOEFRT KW-BG KR-GS
+'Easter,"': AOEFRT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'wise': WAOEUS
-'woman.': WOPL TP-PL
-'"But,': KR-GS KPA/PWUT KW-BG
+'woman.': WOPL/TP-PL
+'"But,': KR-GS/KPA/PWUT/KW-BG
 'by': PWEU
 'what': WHA
 'time': TAOEUPL
 'can': K
 'I': EU
 'be': -B
-'one?"': WUPB H-F KR-GS
+'one?"': WUPB/H-F/KR-GS
 'asked': SK-D
-'he.': HE TP-PL
-'"Neither': KR-GS KPA/TPHAOERT
+'he.': HE/TP-PL
+'"Neither': KR-GS/KPA/TPHAOERT
 'by': PWEU
 'Easter': AOEFRT
 'nor': TPH-R
 'by': PWEU
-'Whitsuntide!': xxx Whitsuntide SKHRAPL
+'Whitsuntide!': xxx Whitsuntide/SKHRAPL
 'You': KPA/U
 'will': HR
 'not': TPHOT
@@ -1173,8 +1173,8 @@ What One Can Invent
 'how': HOU
 'to': TO
 'invent': EUPB/SREPBT
-'anything."': TPHEUG TP-PL KR-GS
-'"What': KR-GS KPA/WHA
+'anything."': TPHEUG/TP-PL/KR-GS
+'"What': KR-GS/KPA/WHA
 'must': PHUFT
 'I': EU
 'do': TKO
@@ -1183,17 +1183,17 @@ What One Can Invent
 'my': PHEU
 'bread': PWRAED
 'by': PWEU
-'poetry?"': POEURT H-F KR-GS
-'"You': KR-GS KPA/U
+'poetry?"': POEURT/H-F/KR-GS
+'"You': KR-GS/KPA/U
 'can': K
 'do': TKO
 'that': THA
 'before': PW-FR
 'Shrove': xxx Shrove
-'Tuesday.': TAOUZ TP-PL
+'Tuesday.': TAOUZ/TP-PL
 'Hunt': H*UPBT
 'the': -T
-'poets!': POETS SKHRAPL
+'poets!': POETS/SKHRAPL
 'Kill': KPA/KEUL
 'their': THAEUR
 'writings': WRAOEUGS
@@ -1202,22 +1202,22 @@ What One Can Invent
 'you': U
 'will': HR
 'kill': KEUL
-'them.': THEPL TP-PL
-'Don't': TKO*PB AE T*
+'them.': THEPL/TP-PL
+'Don't': TKO*PB/AE/T*
 'be': -B
 'put': PUT
 'out': OUT
 'of': -F
-'countenance.': KOUPBT/TPHAPBS TP-PL
+'countenance.': KOUPBT/TPHAPBS/TP-PL
 'Strike': KPA/STRAOEUBG
 'at': AT
 'them': THEPL
-'boldly,': PWOLD/HREU KW-BG
+'boldly,': PWOLD/HREU/KW-BG
 'and': SKP
 'you'll': UL
 'have': SR
 'carnival': KARPB/SRAL
-'cake,': KAEUBG KW-BG
+'cake,': KAEUBG/KW-BG
 'on': OPB
 'which': WEU
 'you': U
@@ -1227,15 +1227,15 @@ What One Can Invent
 'and': SKP
 'your': KWROUR
 'wife': WAOEUF
-'too."': TAO TP-PL KR-GS
-'"What': KR-GS KPA/WHA
+'too."': TAO/TP-PL/KR-GS
+'"What': KR-GS/KPA/WHA
 'one': WUPB
 'can': K
-'invent!"': EUPB/SREPBT SKHRAPL KR-GS
+'invent!"': EUPB/SREPBT/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
 'young': KWRUPBG
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'And': AFPBD
 'so': SO
 'he': HE
@@ -1245,7 +1245,7 @@ What One Can Invent
 'at': AT
 'every': EF
 'second': SEBGD
-'poet,': POET KW-BG
+'poet,': POET/KW-BG
 'because': PWAU
 'he': HE
 'could': KO
@@ -1253,17 +1253,17 @@ What One Can Invent
 'be': -B
 'a': AEU
 'poet': POET
-'himself.': HEUPLS TP-PL
+'himself.': HEUPLS/TP-PL
 'We': KPA/WE
 'have': SR
 'it': T
 'from': TPR
 'the': -T
 'wise': WAOEUS
-'woman.': WOPL TP-PL
+'woman.': WOPL/TP-PL
 'She': KPA/SHE
 'knows': TPHOEZ
 'WHAT': *URP/WHA
 'ONE': *URP/WUPB
 'CAN': *URP/K
-'INVENT.': *URP/EUPB/SREPBT TP-PL
+'INVENT.': *URP/EUPB/SREPBT/TP-PL

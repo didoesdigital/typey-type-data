@@ -10,17 +10,17 @@ Proverbial phrases starting with E
 'makes': PHAEUBGS
 'a': AEU
 'man': PHAPB
-'healthy,': HOEUFLT KW-BG
+'healthy,': HOEUFLT/KW-BG
 'wealthy': WEL/TH*EU
 'and': SKP
-'wise.': WAOEUS TP-PL
+'wise.': WAOEUS/TP-PL
 'Easier': KPA/AO*ERS
 'said': SED
 'than': THAPB
-'done.': TKOPB TP-PL
+'done.': TKOPB/TP-PL
 'East': AO*EFT
 'is': S
-'east,': AOEFT KW-BG
+'east,': AOEFT/KW-BG
 'and': SKP
 'west': WEFT
 'is': S
@@ -30,25 +30,25 @@ Proverbial phrases starting with E
 'the': -T
 'twain': TWAEUPB
 'shall': SHAL
-'meet.': PHAOET TP-PL
-'East,': AO*EFT KW-BG
-'west,': WEFT KW-BG
+'meet.': PHAOET/TP-PL
+'East,': AO*EFT/KW-BG
+'west,': WEFT/KW-BG
 'home': HOEPL
 'is': S
-'best.': PWEFT TP-PL
+'best.': PWEFT/TP-PL
 'Easy': KPA/EZ
-'come,': KOPL KW-BG
+'come,': KOPL/KW-BG
 'easy': EZ
-'go.': TKPW TP-PL
+'go.': TKPW/TP-PL
 'Early': KPA/ERL
-'marriage,': PHAERPBLG KW-BG
+'marriage,': PHAERPBLG/KW-BG
 'earlier': RERL
-'pregnant.': PREGT TP-PL
+'pregnant.': PREGT/TP-PL
 'Eat': KPA/AOET
 'breakfast': PWR-FT
 'like': HRAOEUBG
 'a': AEU
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'lunch': HRUPBS
 'like': HRAOEUBG
 'a': AEU
@@ -57,34 +57,34 @@ Proverbial phrases starting with E
 'dinner': TKEURPB
 'like': HRAOEUBG
 'a': AEU
-'pauper.': PAU/PER TP-PL
-'Eat,': KPA/AOET KW-BG
+'pauper.': PAU/PER/TP-PL
+'Eat,': KPA/AOET/KW-BG
 'drink': TKREU
 'and': SKP
 'be': -B
-'merry,': PHER/REU KW-BG
+'merry,': PHER/REU/KW-BG
 'for': TPOR
 'tomorrow': TORPL
 'we': WE
-'die.': TKAOEU TP-PL
+'die.': TKAOEU/TP-PL
 'Empty': KPA/EPLT
 'vessels': SREFLS
 'make': PHAEUBG
 'the': -T
 'most': PHOFT
-'noise.': TPHOEUS TP-PL
+'noise.': TPHOEUS/TP-PL
 'Enough': KPA/TPHUF
 'is': S
 'as': AS
 'good': TKPWAOD
 'as': AS
 'a': AEU
-'feast.': TPAOEFT TP-PL
+'feast.': TPAOEFT/TP-PL
 'Even': KPA/AOEPB
 'a': AEU
 'worm': WORPL
 'will': HR
-'turn.': TURPB TP-PL
+'turn.': TURPB/TP-PL
 'Even': KPA/AOEPB
 'from': TPR
 'a': AEU
@@ -93,52 +93,52 @@ Proverbial phrases starting with E
 'man': PHAPB
 'may': PHAE
 'learn': HRERPB
-'wisdom.': WEUZ/TKOPL TP-PL
+'wisdom.': WEUZ/TKOPL/TP-PL
 'Every': KPA/EF
 'cloud': KHROUD
 'has': HAS
 'a': AEU
 'silver': SEUL/SRER
-'lining.': HRAOEUPBG TP-PL
+'lining.': HRAOEUPBG/TP-PL
 'Every': KPA/EF
 'dog': TKOG
 'has': HAS
 'his': HEUS
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'Every': KPA/EF
 'Jack': SKWRA*BG
 'has': HAS
 'his': HEUS
-'Jill.': SKWREUL TP-PL
+'Jill.': SKWREUL/TP-PL
 'Every': KPA/EF
 'little': HREUL
 'bit': PWEUT
-'helps.': HEPS TP-PL
+'helps.': HEPS/TP-PL
 'Every': KPA/EF
 'man': PHAPB
 'for': TPOR
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'the': -T
 'Devil': KPA/TKEFL
 'take': TAEUBG
 'the': -T
-'hindmost.': HAOEUPBD/PHO*ES TP-PL
+'hindmost.': HAOEUPBD/PHO*ES/TP-PL
 'Every': KPA/EF
 'man': PHAPB
 'has': HAS
 'his': HEUS
-'price.': PRAOEUS TP-PL
+'price.': PRAOEUS/TP-PL
 'Every': KPA/EF
 'picture': P*EUFP
 'tells': TELS
 'a': AEU
-'story.': STOER TP-PL
+'story.': STOER/TP-PL
 'Every': KPA/EF
 'stick': STEUBG
 'has': HAS
 'two': TWO
-'ends.': EPBDZ TP-PL
+'ends.': EPBDZ/TP-PL
 'Everybody': KPA/EFRB
 'wants': WAPBTS
 'to': TO
@@ -149,19 +149,19 @@ Proverbial phrases starting with E
 'nobody': TPHOEB
 'wants': WAPBTS
 'to': TO
-'die.': TKAOEU TP-PL
+'die.': TKAOEU/TP-PL
 'Everyone': KPA/EFRPB
 'has': HAS
 'their': THAEUR
-'price.': PRAOEUS TP-PL
+'price.': PRAOEUS/TP-PL
 'Everything': KPA/EFRG
 'comes': KOPLS
 'to': TO
 'those': THOZ
 'who': WHO
-'wait.': WAEUT TP-PL
+'wait.': WAEUT/TP-PL
 'Every': KPA/EF
 'tide': TAOEUD
 'has': HAS
 'its': EUTS
-'ebb.': EB TP-PL
+'ebb.': EB/TP-PL

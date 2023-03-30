@@ -7,12 +7,12 @@ The Swineherd
 'lived': HREUFD
 'a': AEU
 'poor': PAOR
-'prince;': PREUPBS STPH*FPLT
+'prince;': PREUPBS/STPH*FPLT
 'his': HEUS
 'kingdom': KEUPBG/TKOPL
 'was': WAS
 'very': SRE
-'small,': SPHAL KW-BG
+'small,': SPHAL/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
@@ -22,11 +22,11 @@ The Swineherd
 'enable': TPHAEUBL
 'him': HEUPL
 'to': TO
-'marry,': PHAER KW-BG
+'marry,': PHAER/KW-BG
 'and': SKP
 'marry': PHAER
 'he': HE
-'would.': WO TP-PL
+'would.': WO/TP-PL
 'It': KPA/T
 'was': WAS
 'rather': RAER
@@ -39,18 +39,18 @@ The Swineherd
 'and': SKP
 'asked': SK-D
 'the': -T
-'emperor's': EPL/ROR AES
-'daughter:': TKAUR STPH-FPLT
-'"Will': KR-GS W*EUL
+'emperor's': EPL/ROR/AES
+'daughter:': TKAUR/STPH-FPLT
+'"Will': KR-GS/W*EUL
 'you': U
 'marry': PHAER
-'me?"': PHE H-F KR-GS
+'me?"': PHE/H-F/KR-GS
 'but': PWUT
 'he': HE
 'ventured': SRERPBTD
 'to': TO
 'do': TKO
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'for': TPOR
 'his': HEUS
 'name': TPHAEUPL
@@ -58,7 +58,7 @@ The Swineherd
 'known': TPHOEPB
 'far': TPAR
 'and': SKP
-'wide,': WAOEUD KW-BG
+'wide,': WAOEUD/KW-BG
 'and': SKP
 'there': THR
 'were': WR
@@ -70,39 +70,39 @@ The Swineherd
 'have': SR
 'gladly': TKPWHRAD/HREU
 'accepted': SEPD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'would': WO
 'she': SHE
 'do': TKO
-'so?': SO H-F
+'so?': SO/H-F
 'Now': KPA/TPHOU
 'we': WE
 'shall': SHAL
-'see.': SAOE TP-PL
+'see.': SAOE/TP-PL
 'On': KPA/OPB
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
 'the': -T
-'prince's': PREUPBS AES
+'prince's': PREUPBS/AES
 'father': TPAER
 'grew': TKPWRAOU
 'a': AEU
-'rose-tree,': ROEZ H-PB TRAOE KW-BG
+'rose-tree,': ROEZ/H-PB/TRAOE/KW-BG
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
 'of': -F
 'its': EUTS
-'kind.': KEUPBD TP-PL
+'kind.': KEUPBD/TP-PL
 'It': KPA/T
 'bloomed': PWHRAOPL/-D
 'only': OEPBL
 'once': WUPBS
 'in': TPH
 'five': TPAOEUF
-'years,': KWRAOERS KW-BG
+'years,': KWRAOERS/KW-BG
 'and': SKP
 'then': THEPB
 'it': T
@@ -112,11 +112,11 @@ The Swineherd
 'single': SEUPBLG
 'rose': ROEZ
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'but': PWUT
 'what': WHA
 'a': AEU
-'rose!': ROEZ SKHRAPL
+'rose!': ROEZ/SKHRAPL
 'It': KPA/T
 'had': H
 'such': SUFP
@@ -134,12 +134,12 @@ The Swineherd
 'when': WHEPB
 'one': WUPB
 'smelt': SPHELT
-'it.': T TP-PL
+'it.': T/TP-PL
 'He': KPA/HE
 'had': H
 'also': HR-S
 'a': AEU
-'nightingale,': TPHAOEUT/-G/TKPWAEL KW-BG
+'nightingale,': TPHAOEUT/-G/TKPWAEL/KW-BG
 'which': WEU
 'could': KO
 'sing': SEUPBG
@@ -151,7 +151,7 @@ The Swineherd
 'was': WAS
 'in': TPH
 'its': EUTS
-'throat.': THROET TP-PL
+'throat.': THROET/TP-PL
 'This': KPA/TH
 'rose': ROEZ
 'and': SKP
@@ -163,7 +163,7 @@ The Swineherd
 'give': TKPWEUF
 'to': TO
 'the': -T
-'princess;': PREUPB/SES STPH*FPLT
+'princess;': PREUPB/SES/STPH*FPLT
 'and': SKP
 'therefore': TH-FR
 'both': PWO*T
@@ -176,7 +176,7 @@ The Swineherd
 'and': SKP
 'sent': SEPBT
 'to': TO
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'The': KPA/-T
 'emperor': EPL/ROR
 'ordered': ORD/-D
@@ -194,12 +194,12 @@ The Swineherd
 'was': WAS
 'just': SKWRUFT
 'playing': PHRAEUG
-'"Visitors': KR-GS KPA/SREUS/TORS
+'"Visitors': KR-GS/KPA/SREUS/TORS
 'are': R
-'coming"': KO*G KR-GS
+'coming"': KO*G/KR-GS
 'with': W
 'her': HER
-'ladies-in-waiting;': HRAEUDZ H-PB TPH H-PB WAEUGT STPH*FPLT
+'ladies-in-waiting;': HRAEUDZ/H-PB/TPH/H-PB/WAEUGT/STPH*FPLT
 'when': WHEPB
 'she': SHE
 'saw': SAU
@@ -209,53 +209,53 @@ The Swineherd
 'with': W
 'the': -T
 'presents': PREPBTS
-'therein,': THR-PB KW-BG
+'therein,': THR-PB/KW-BG
 'she': SHE
 'clapped': KHRAP/-D
 'her': HER
 'hands': HAPBDZ
 'for': TPOR
-'joy.': SKWROEU TP-PL
-'"I': KR-GS EU
+'joy.': SKWROEU/TP-PL
+'"I': KR-GS/EU
 'wish': WEURB
 'it': T
 'were': WR
 'a': AEU
 'little': HREUL
 'pussy': PUS/KWREU
-'cat,"': KAT KW-BG KR-GS
+'cat,"': KAT/KW-BG/KR-GS
 'she': SHE
-'said.': SED TP-PL
+'said.': SED/TP-PL
 'But': KPA/PWUT
 'then': THEPB
 'the': -T
-'rose-tree': ROEZ H-PB TRAOE
+'rose-tree': ROEZ/H-PB/TRAOE
 'with': W
 'the': -T
 'beautiful': PWAOUFL
 'rose': ROEZ
 'was': WAS
-'unpacked.': UPB/PABGD TP-PL
-'"Oh,': KR-GS KPA/O*ERBGS KW-BG
+'unpacked.': UPB/PABGD/TP-PL
+'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
 'how': HOU
 'nicely': TPHAOEULS
 'it': T
 'is': S
-'made,"': PHAED KW-BG KR-GS
+'made,"': PHAED/KW-BG/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
-'ladies.': HRAEUDZ TP-PL
-'"It': KR-GS KPA/T
+'ladies.': HRAEUDZ/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'more': PHOR
 'than': THAPB
-'nice,"': TPHAOEUS KW-BG KR-GS
+'nice,"': TPHAOEUS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'emperor,': EPL/ROR KW-BG
-'"it': KR-GS T
+'emperor,': EPL/ROR/KW-BG
+'"it': KR-GS/T
 'is': S
-'charming."': KHARPL/-G TP-PL KR-GS
+'charming."': KHARPL/-G/TP-PL/KR-GS
 'The': KPA/-T
 'princess': PREUPB/SES
 'touched': TUFPD
@@ -264,29 +264,29 @@ The Swineherd
 'nearly': TPHAOERL
 'began': TKPWAPB
 'to': TO
-'cry.': KRAOEU TP-PL
-'"For': KR-GS KPA/TPOR
-'shame,': SHAEUPL KW-BG
-'pa,"': HRO*ER/PA KW-BG KR-GS
+'cry.': KRAOEU/TP-PL
+'"For': KR-GS/KPA/TPOR
+'shame,': SHAEUPL/KW-BG
+'pa,"': HRO*ER/PA/KW-BG/KR-GS
 'she': SHE
-'said,': SED KW-BG
-'"it': KR-GS T
+'said,': SED/KW-BG
+'"it': KR-GS/T
 'is': S
 'not': TPHOT
-'artificial,': TPHR*EURBL KW-BG
+'artificial,': TPHR*EURBL/KW-BG
 'it': T
 'is': S
-'natural!"': TPHARL SKHRAPL KR-GS
-'"For': KR-GS KPA/TPOR
-'shame,': SHAEUPL KW-BG
+'natural!"': TPHARL/SKHRAPL/KR-GS
+'"For': KR-GS/KPA/TPOR
+'shame,': SHAEUPL/KW-BG
 'it': T
 'is': S
-'natural,"': TPHARL KW-BG KR-GS
+'natural,"': TPHARL/KW-BG/KR-GS
 'repeated': RE/PAOETD
 'all': AUL
 'her': HER
-'ladies.': HRAEUDZ TP-PL
-'"Let': KR-GS KPA/HRET
+'ladies.': HRAEUDZ/TP-PL
+'"Let': KR-GS/KPA/HRET
 'us': US
 'first': TPEUFRT
 'see': SAOE
@@ -298,16 +298,16 @@ The Swineherd
 'before': PW-FR
 'we': WE
 'are': R
-'angry,"': APBG/REU KW-BG KR-GS
+'angry,"': APBG/REU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'emperor;': EPL/ROR STPH*FPLT
+'emperor;': EPL/ROR/STPH*FPLT
 'then': THEPB
 'the': -T
 'nightingale': TPHAOEUT/-G/TKPWAEL
 'was': WAS
 'taken': TAEPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'it': T
 'sang': SAPBG
@@ -322,26 +322,26 @@ The Swineherd
 'anything': TPHEUG
 'unkind': UPB/KAOEUPBD
 'about': PW
-'it.': T TP-PL
-'"Superbe,': KR-GS xxx Superbe KW-BG
-'charmant,"': xxx charmant KW-BG KR-GS
+'it.': T/TP-PL
+'"Superbe,': KR-GS/xxx Superbe/KW-BG
+'charmant,"': xxx charmant/KW-BG/KR-GS
 'said': SED
 'the': -T
 'ladies': HRAEUDZ
 'of': -F
 'the': -T
-'court,': KORT KW-BG
+'court,': KORT/KW-BG
 'for': TPOR
 'they': THE
 'all': AUL
 'prattled': PRAT/-LD
-'French,': TPREFRPB KW-BG
+'French,': TPREFRPB/KW-BG
 'one': WUPB
 'worse': WORS
 'than': THAPB
 'the': -T
-'other.': OER TP-PL
-'"How': KR-GS KPA/HOU
+'other.': OER/TP-PL
+'"How': KR-GS/KPA/HOU
 'much': PHUFP
 'the': -T
 'bird': PWEURD
@@ -355,26 +355,26 @@ The Swineherd
 'the': -T
 'late': HRAEUT
 'lamented': HRAPLT/-D
-'empress,"': EPL/PRES KW-BG KR-GS
+'empress,"': EPL/PRES/KW-BG/KR-GS
 'said': SED
 'an': APB
 'old': OLD
-'courtier,': KORT/KWRA*U KW-BG
-'"it': KR-GS T
+'courtier,': KORT/KWRA*U/KW-BG
+'"it': KR-GS/T
 'has': HAS
 'exactly': ELG
 'the': -T
 'same': SAEUPL
-'tone,': TOEPB KW-BG
+'tone,': TOEPB/KW-BG
 'the': -T
 'same': SAEUPL
-'execution."': SKAOUGS TP-PL KR-GS
-'"You': KR-GS KPA/U
+'execution."': SKAOUGS/TP-PL/KR-GS
+'"You': KR-GS/KPA/U
 'are': R
-'right,"': RAOEUT KW-BG KR-GS
+'right,"': RAOEUT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'emperor,': EPL/ROR KW-BG
+'emperor,': EPL/ROR/KW-BG
 'and': SKP
 'began': TKPWAPB
 'to': TO
@@ -382,70 +382,70 @@ The Swineherd
 'like': HRAOEUBG
 'a': AEU
 'little': HREUL
-'child.': KHAOEULD TP-PL
-'"I': KR-GS EU
+'child.': KHAOEULD/TP-PL
+'"I': KR-GS/EU
 'hope': HOEP
 'it': T
 'is': S
 'not': TPHOT
-'natural,"': TPHARL KW-BG KR-GS
+'natural,"': TPHARL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'princess.': PREUPB/SES TP-PL
-'"Yes,': KR-GS KPA/KWRE KW-BG
+'princess.': PREUPB/SES/TP-PL
+'"Yes,': KR-GS/KPA/KWRE/KW-BG
 'certainly': SERPBL
 'it': T
 'is': S
-'natural,"': TPHARL KW-BG KR-GS
+'natural,"': TPHARL/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'those': THOZ
 'who': WHO
 'had': H
 'brought': PWRAUT
 'the': -T
-'presents.': PREPBTS TP-PL
-'"Then': KR-GS KPA/THEPB
+'presents.': PREPBTS/TP-PL
+'"Then': KR-GS/KPA/THEPB
 'let': HRET
 'it': T
-'fly,"': TPHRAOEU KW-BG KR-GS
+'fly,"': TPHRAOEU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'and': SKP
 'refused': RAO*UFD
 'to': TO
 'see': SAOE
 'the': -T
-'prince.': PREUPBS TP-PL
+'prince.': PREUPBS/TP-PL
 'But': KPA/PWUT
 'the': -T
 'prince': PREUPBS
 'was': WAS
 'not': TPHOT
-'discouraged.': TKEUS/KORPBLGD TP-PL
+'discouraged.': TKEUS/KORPBLGD/TP-PL
 'He': KPA/HE
 'painted': PAEUPBTD
 'his': HEUS
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'put': PUT
 'on': OPB
 'common': KPHOPB
-'clothes,': KHRO*ETS KW-BG
+'clothes,': KHRO*ETS/KW-BG
 'pulled': PULD
 'his': HEUS
 'cap': KAP
 'over': OEFR
 'his': HEUS
-'forehead,': TPOER/HED KW-BG
+'forehead,': TPOER/HED/KW-BG
 'and': SKP
 'came': KAEUPL
-'back.': PWABG TP-PL
-'"Good': KR-GS KPA/TKPWAOD
-'day,': TKAEU KW-BG
-'emperor,"': EPL/ROR KW-BG KR-GS
+'back.': PWABG/TP-PL
+'"Good': KR-GS/KPA/TKPWAOD
+'day,': TKAEU/KW-BG
+'emperor,"': EPL/ROR/KW-BG/KR-GS
 'he': HE
-'said,': SED KW-BG
-'"could': KR-GS KO
+'said,': SED/KW-BG
+'"could': KR-GS/KO
 'you': U
 'not': TPHOT
 'give': TKPWEUF
@@ -454,18 +454,18 @@ The Swineherd
 'employment': PHROEUPLT
 'at': AT
 'the': -T
-'court?"': KORT H-F KR-GS
-'"There': KR-GS KPA/THR
+'court?"': KORT/H-F/KR-GS
+'"There': KR-GS/KPA/THR
 'are': R
 'so': SO
-'many,"': PHAEPB KW-BG KR-GS
+'many,"': PHAEPB/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'emperor,': EPL/ROR KW-BG
-'"who': KR-GS WHO
+'emperor,': EPL/ROR/KW-BG
+'"who': KR-GS/WHO
 'apply': A/PHRAOEU
 'for': TPOR
-'places,': PHRAEUFS KW-BG
+'places,': PHRAEUFS/KW-BG
 'that': THA
 'for': TPOR
 'the': -T
@@ -473,22 +473,22 @@ The Swineherd
 'I': EU
 'have': SR
 'no': TPHO
-'vacancy,': SRAEUBG/SEU KW-BG
+'vacancy,': SRAEUBG/SEU/KW-BG
 'but': PWUT
 'I': EU
 'will': HR
 'remember': RER
-'you.': U TP-PL
+'you.': U/TP-PL
 'But': KPA/PWUT
 'wait': WAEUT
 'a': AEU
-'moment;': PHOEPLT STPH*FPLT
+'moment;': PHOEPLT/STPH*FPLT
 'it': T
 'just': SKWRUFT
 'comes': KOPLS
 'into': TPHAO
 'my': PHEU
-'mind,': PHAOEUPBD KW-BG
+'mind,': PHAOEUPBD/KW-BG
 'I': EU
 'require': RAOEUR
 'somebody': S-B
@@ -496,20 +496,20 @@ The Swineherd
 'look': HRAOBG
 'after': AF
 'my': PHEU
-'pigs,': PEUGZ KW-BG
+'pigs,': PEUGZ/KW-BG
 'for': TPOR
 'I': EU
 'have': SR
 'a': AEU
 'great': TKPWRAET
-'many."': PHAEPB TP-PL KR-GS
+'many."': PHAEPB/TP-PL/KR-GS
 'Thus': KPA/THUS
 'the': -T
 'prince': PREUPBS
 'was': WAS
 'appointed': POEUPBD
 'imperial': EUPL/PAOERL
-'swineherd,': SWAOEUPB/TK-LS/H*ERD KW-BG
+'swineherd,': SWAOEUPB/TK-LS/H*ERD/KW-BG
 'and': SKP
 'as': AS
 'such': SUFP
@@ -522,13 +522,13 @@ The Swineherd
 'room': RAOPL
 'near': TPHAOER
 'the': -T
-'pigsty;': PEUG/TK-LS/STAOEU STPH*FPLT
+'pigsty;': PEUG/TK-LS/STAOEU/STPH*FPLT
 'there': THR
 'he': HE
 'worked': WORBGD
 'all': AUL
 'day': TKAEU
-'long,': HROPBG KW-BG
+'long,': HROPBG/KW-BG
 'and': SKP
 'when': WHEPB
 'it': T
@@ -540,14 +540,14 @@ The Swineherd
 'a': AEU
 'pretty': PREUT
 'little': HREUL
-'pot.': POT TP-PL
+'pot.': POT/TP-PL
 'There': KPA/THR
 'were': WR
 'little': HREUL
 'bells': PWELS
 'round': ROUPBD
 'the': -T
-'rim,': REUPL KW-BG
+'rim,': REUPL/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -556,7 +556,7 @@ The Swineherd
 'to': TO
 'boil': PWOEUL
 'in': TPH
-'it,': T KW-BG
+'it,': T/KW-BG
 'the': -T
 'bells': PWELS
 'began': TKPWAPB
@@ -564,8 +564,8 @@ The Swineherd
 'play': PHRAEU
 'the': -T
 'old': OLD
-'tune:': TAOUPB STPH-FPLT
-'"A': KR-GS KPA/AEU
+'tune:': TAOUPB/STPH-FPLT
+'"A': KR-GS/KPA/AEU
 'jolly': SKWROL/HREU
 'old': OLD
 'sow': SOE
@@ -573,20 +573,20 @@ The Swineherd
 'lived': HREUFD
 'in': TPH
 'a': AEU
-'sty,': STAOEU KW-BG
+'sty,': STAOEU/KW-BG
 'Three': KPA/THRAOE
 'little': HREUL
 'piggies': PEUG/KWREU/-S
 'had': H
-'she,"': SHE KW-BG KR-GS
-'&c.': SP-PBD KR* TP-PL
+'she,"': SHE/KW-BG/KR-GS
+'&c.': SP-PBD/KR*/TP-PL
 'But': KPA/PWUT
 'what': WHA
 'was': WAS
 'more': PHOR
 'wonderful': WUFL
 'was': WAS
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'when': WHEPB
 'one': WUPB
 'put': PUT
@@ -598,7 +598,7 @@ The Swineherd
 'rising': RAOEUFG
 'from': TPR
 'the': -T
-'pot,': POT KW-BG
+'pot,': POT/KW-BG
 'one': WUPB
 'could': KO
 'at': AT
@@ -615,7 +615,7 @@ The Swineherd
 'in': TPH
 'the': -T
 'whole': WHOEL
-'town.': TOUPB TP-PL
+'town.': TOUPB/TP-PL
 'That': KPA/THA
 'was': WAS
 'indeed': TPHAOEPBD
@@ -624,7 +624,7 @@ The Swineherd
 'remarkable': RARBG/-BL
 'than': THAPB
 'the': -T
-'rose.': ROEZ TP-PL
+'rose.': ROEZ/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'princess': PREUPB/SES
@@ -636,20 +636,20 @@ The Swineherd
 'and': SKP
 'heard': HAERD
 'the': -T
-'tune,': TAOUPB KW-BG
+'tune,': TAOUPB/KW-BG
 'she': SHE
 'stopped': STOPD
 'and': SKP
 'looked': HRAOBGD
 'quite': KWAOEUT
-'pleased,': PHREFD KW-BG
+'pleased,': PHREFD/KW-BG
 'for': TPOR
 'she': SHE
 'also': HR-S
 'could': KO
 'play': PHRAEU
-'it—in': T EPL/TKA*RB TPH
-'fact,': TPABGT KW-BG
+'it—in': T/EPL/TKA*RB/TPH
+'fact,': TPABGT/KW-BG
 'it': T
 'was': WAS
 'the': -T
@@ -657,28 +657,28 @@ The Swineherd
 'tune': TAOUPB
 'she': SHE
 'could': KO
-'play,': PHRAEU KW-BG
+'play,': PHRAEU/KW-BG
 'and': SKP
 'she': SHE
 'played': PHRAEUD
 'it': T
 'with': W
 'one': WUPB
-'finger.': TPEURPBG TP-PL
-'"That': KR-GS KPA/THA
+'finger.': TPEURPBG/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'the': -T
 'tune': TAOUPB
 'I': EU
-'know,"': TPHOE KW-BG KR-GS
+'know,"': TPHOE/KW-BG/KR-GS
 'she': SHE
-'exclaimed.': SKHRAEUPLD TP-PL
-'"He': KR-GS KPA/HE
+'exclaimed.': SKHRAEUPLD/TP-PL
+'"He': KR-GS/KPA/HE
 'must': PHUFT
 'be': -B
 'a': AEU
-'well-educated': W*EL TAEUBGTD
-'swineherd.': SWAOEUPB/TK-LS/H*ERD TP-PL
+'well-educated': W*EL/TAEUBGTD
+'swineherd.': SWAOEUPB/TK-LS/H*ERD/TP-PL
 'Go': KPA/TKPW
 'and': SKP
 'ask': SK
@@ -687,7 +687,7 @@ The Swineherd
 'much': PHUFP
 'the': -T
 'instrument': STRUPLT
-'is."': S TP-PL KR-GS
+'is."': S/TP-PL/KR-GS
 'One': KPA/WUPB
 'of': -F
 'the': -T
@@ -696,80 +696,80 @@ The Swineherd
 'to': TO
 'go': TKPW
 'and': SKP
-'ask;': SK STPH*FPLT
+'ask;': SK/STPH*FPLT
 'but': PWUT
 'she': SHE
 'put': PUT
 'on': OPB
-'pattens.': PAT/TK-LS/TEPB/-S TP-PL
-'"What': KR-GS KPA/WHA
+'pattens.': PAT/TK-LS/TEPB/-S/TP-PL
+'"What': KR-GS/KPA/WHA
 'will': HR
 'you': U
 'take': TAEUBG
 'for': TPOR
 'your': KWROUR
-'pot?"': POT H-F KR-GS
+'pot?"': POT/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'lady.': HRA*ED TP-PL
-'"I': KR-GS EU
+'lady.': HRA*ED/TP-PL
+'"I': KR-GS/EU
 'will': HR
 'have': SR
 'ten': TEPB
 'kisses': KEUS/-S
 'from': TPR
 'the': -T
-'princess,"': PREUPB/SES KW-BG KR-GS
+'princess,"': PREUPB/SES/KW-BG/KR-GS
 'said': SED
 'the': -T
-'swineherd.': SWAOEUPB/TK-LS/H*ERD TP-PL
-'"God': KR-GS TKPWO*D
-'forbid,"': TPORBD KW-BG KR-GS
+'swineherd.': SWAOEUPB/TK-LS/H*ERD/TP-PL
+'"God': KR-GS/TKPWO*D
+'forbid,"': TPORBD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'lady.': HRA*ED TP-PL
-'"Well,': KR-GS KPA/WEL KW-BG
+'lady.': HRA*ED/TP-PL
+'"Well,': KR-GS/KPA/WEL/KW-BG
 'I': EU
 'cannot': SK-PBT
 'sell': SEL
 'it': T
 'for': TPOR
-'less,"': HRES KW-BG KR-GS
+'less,"': HRES/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'swineherd.': SWAOEUPB/TK-LS/H*ERD TP-PL
-'"What': KR-GS KPA/WHA
+'swineherd.': SWAOEUPB/TK-LS/H*ERD/TP-PL
+'"What': KR-GS/KPA/WHA
 'did': TK
 'he': HE
-'say?"': SAEU H-F KR-GS
+'say?"': SAEU/H-F/KR-GS
 'said': SED
 'the': -T
-'princess.': PREUPB/SES TP-PL
-'"I': KR-GS EU
+'princess.': PREUPB/SES/TP-PL
+'"I': KR-GS/EU
 'really': R-L
 'cannot': SK-PBT
 'tell': TEL
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
-'lady.': HRA*ED TP-PL
-'"You': KR-GS KPA/U
+'lady.': HRA*ED/TP-PL
+'"You': KR-GS/KPA/U
 'can': K
 'whisper': WEUS/PER
 'it': T
 'into': TPHAO
 'my': PHEU
-'ear."': AOER TP-PL KR-GS
-'"It': KR-GS KPA/T
+'ear."': AOER/TP-PL/KR-GS
+'"It': KR-GS/KPA/T
 'is': S
 'very': SRE
-'naughty,"': TPHAU/TEU KW-BG KR-GS
+'naughty,"': TPHAU/TEU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'and': SKP
 'walked': WAUBGD
-'off.': OF TP-PL
+'off.': OF/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'she': SHE
@@ -777,14 +777,14 @@ The Swineherd
 'gone': TKPWOPB
 'a': AEU
 'little': HREUL
-'distance,': STKAPBS KW-BG
+'distance,': STKAPBS/KW-BG
 'the': -T
 'bells': PWELS
 'rang': RAPBG
 'again': TKPWEPB
 'so': SO
-'sweetly:': SWAOET/HREU STPH-FPLT
-'"A': KR-GS KPA/AEU
+'sweetly:': SWAOET/HREU/STPH-FPLT
+'"A': KR-GS/KPA/AEU
 'jolly': SKWROL/HREU
 'old': OLD
 'sow': SOE
@@ -792,19 +792,19 @@ The Swineherd
 'lived': HREUFD
 'in': TPH
 'a': AEU
-'sty,': STAOEU KW-BG
+'sty,': STAOEU/KW-BG
 'Three': KPA/THRAOE
 'little': HREUL
 'piggies': PEUG/KWREU/-S
 'had': H
-'she,"': SHE KW-BG KR-GS
-'&c.': SP-PBD KR* TP-PL
-'"Ask': KR-GS KPA/SK
-'him,"': HEUPL KW-BG KR-GS
+'she,"': SHE/KW-BG/KR-GS
+'&c.': SP-PBD/KR*/TP-PL
+'"Ask': KR-GS/KPA/SK
+'him,"': HEUPL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'princess,': PREUPB/SES KW-BG
-'"if': KR-GS TP
+'princess,': PREUPB/SES/KW-BG
+'"if': KR-GS/TP
 'he': HE
 'will': HR
 'be': -B
@@ -816,41 +816,41 @@ The Swineherd
 'one': WUPB
 'of': -F
 'my': PHEU
-'ladies."': HRAEUDZ TP-PL KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
+'ladies."': HRAEUDZ/TP-PL/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
 'thank': THAPBG
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'said': SED
 'the': -T
-'swineherd:': SWAOEUPB/TK-LS/H*ERD STPH-FPLT
-'"ten': KR-GS TEPB
+'swineherd:': SWAOEUPB/TK-LS/H*ERD/STPH-FPLT
+'"ten': KR-GS/TEPB
 'kisses': KEUS/-S
 'from': TPR
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'or': OR
 'I': EU
 'keep': KAOEP
 'my': PHEU
-'pot."': POT TP-PL KR-GS
-'"That': KR-GS KPA/THA
+'pot."': POT/TP-PL/KR-GS
+'"That': KR-GS/KPA/THA
 'is': S
-'tiresome,"': TAOEUR/SO*PL KW-BG KR-GS
+'tiresome,"': TAOEUR/SO*PL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'princess.': PREUPB/SES TP-PL
-'"But': KR-GS KPA/PWUT
+'princess.': PREUPB/SES/TP-PL
+'"But': KR-GS/KPA/PWUT
 'you': U
 'must': PHUFT
 'stand': STAPBD
 'before': PW-FR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'so': SO
 'that': THA
 'nobody': TPHOEB
 'can': K
 'see': SAOE
-'it."': T TP-PL KR-GS
+'it."': T/TP-PL/KR-GS
 'The': KPA/-T
 'ladies': HRAEUDZ
 'placed': PHRAEUFD
@@ -863,7 +863,7 @@ The Swineherd
 'spread': SPRED
 'out': OUT
 'their': THAEUR
-'dresses,': TKRES/-S KW-BG
+'dresses,': TKRES/-S/KW-BG
 'and': SKP
 'she': SHE
 'gave': TKPWAEUF
@@ -874,11 +874,11 @@ The Swineherd
 'and': SKP
 'received': SAOEFD
 'the': -T
-'pot.': POT TP-PL
+'pot.': POT/TP-PL
 'That': KPA/THA
 'was': WAS
 'a': AEU
-'pleasure!': PHRERB SKHRAPL
+'pleasure!': PHRERB/SKHRAPL
 'Day': KPA/TKAEU
 'and': SKP
 'night': TPHAOEUT
@@ -888,7 +888,7 @@ The Swineherd
 'the': -T
 'pot': POT
 'was': WAS
-'boiling;': PWOEULG STPH*FPLT
+'boiling;': PWOEULG/STPH*FPLT
 'there': THR
 'was': WAS
 'not': TPHOT
@@ -909,14 +909,14 @@ The Swineherd
 'was': WAS
 'preparing': PRAOEPG
 'on': OPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'the': -T
-'chamberlain's': KHAEURPL/TK-LS/HRAEUPB AES
+'chamberlain's': KHAEURPL/TK-LS/HRAEUPB/AES
 'as': AS
 'well': WEL
 'as': AS
 'the': -T
-'shoemaker's.': SHAOU/PHA*EURBG AE S* TP-PL
+'shoemaker's.': SHAOU/PHA*EURBG/AE/S*/TP-PL
 'The': KPA/-T
 'ladies': HRAEUDZ
 'danced': TKAPBS/-D
@@ -925,15 +925,15 @@ The Swineherd
 'their': THAEUR
 'hands': HAPBDZ
 'for': TPOR
-'joy.': SKWROEU TP-PL
-'"We': KR-GS KPA/WE
+'joy.': SKWROEU/TP-PL
+'"We': KR-GS/KPA/WE
 'know': TPHOE
 'who': WHO
 'will': HR
 'eat': AOET
 'soup': SOUP
 'and': SKP
-'pancakes;': PAPB/KAEUBG/-S STPH*FPLT
+'pancakes;': PAPB/KAEUBG/-S/STPH*FPLT
 'we': WE
 'know': TPHOE
 'who': WHO
@@ -941,44 +941,44 @@ The Swineherd
 'eat': AOET
 'porridge': PORPBLG
 'and': SKP
-'cutlets;': KUT/HRET/-S STPH*FPLT
+'cutlets;': KUT/HRET/-S/STPH*FPLT
 'oh,': OERBGS
 'how': HOU
-'interesting!"': TR-G SKHRAPL KR-GS
-'"Very': KR-GS KPA/SRE
-'interesting,': TR-G KW-BG
-'indeed,"': TPHAOEPBD KW-BG KR-GS
+'interesting!"': TR-G/SKHRAPL/KR-GS
+'"Very': KR-GS/KPA/SRE
+'interesting,': TR-G/KW-BG
+'indeed,"': TPHAOEPBD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'mistress': PHEUS/TRES
 'of': -F
 'the': -T
-'household.': HOUS/HOLD TP-PL
-'"But': KR-GS KPA/PWUT
+'household.': HOUS/HOLD/TP-PL
+'"But': KR-GS/KPA/PWUT
 'you': U
 'must': PHUFT
 'not': TPHOT
 'betray': PWE/TRAEU
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'for': TPOR
 'I': EU
 'am': APL
 'the': -T
-'emperor's': EPL/ROR AES
-'daughter."': TKAUR TP-PL KR-GS
-'"Of': KR-GS KPA/-F
+'emperor's': EPL/ROR/AES
+'daughter."': TKAUR/TP-PL/KR-GS
+'"Of': KR-GS/KPA/-F
 'course': KORS
-'not,"': TPHOT KW-BG KR-GS
+'not,"': TPHOT/KW-BG/KR-GS
 'they': THE
 'all': AUL
-'said.': SED TP-PL
+'said.': SED/TP-PL
 'The': KPA/-T
-'swineherd—that': SWAOEUPB/TK-LS/H*ERD EPL/TKA*RB THA
+'swineherd—that': SWAOEUPB/TK-LS/H*ERD/EPL/TKA*RB/THA
 'is': S
 'to': TO
-'say,': SAEU KW-BG
+'say,': SAEU/KW-BG
 'the': -T
-'prince—but': PREUPBS EPL/TKA*RB PWUT
+'prince—but': PREUPBS/EPL/TKA*RB/PWUT
 'they': THE
 'did': TK
 'not': TPHOT
@@ -990,7 +990,7 @@ The Swineherd
 'was': WAS
 'a': AEU
 'real': RAEL
-'swineherd—did': SWAOEUPB/TK-LS/H*ERD EPL/TKA*RB TK
+'swineherd—did': SWAOEUPB/TK-LS/H*ERD/EPL/TKA*RB/TK
 'not': TPHOT
 'waste': WAEFT
 'a': AEU
@@ -998,21 +998,21 @@ The Swineherd
 'day': TKAEU
 'without': WOUT
 'doing': TK*G
-'something;': S-G STPH*FPLT
+'something;': S-G/STPH*FPLT
 'he': HE
 'made': PHAED
 'a': AEU
-'rattle,': RA*LT KW-BG
-'which,': WEU KW-BG
+'rattle,': RA*LT/KW-BG
+'which,': WEU/KW-BG
 'when': WHEPB
 'turned': TURPBD
 'quickly': KWEULG
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'played': PHRAEUD
 'all': AUL
 'the': -T
-'waltzes,': WAULGT/-S KW-BG
-'galops,': TKPWA*L/TK-LS/OP/-S KW-BG
+'waltzes,': WAULGT/-S/KW-BG
+'galops,': TKPWA*L/TK-LS/OP/-S/KW-BG
 'and': SKP
 'polkas': POE/KA/-S
 'known': TPHOEPB
@@ -1021,24 +1021,24 @@ The Swineherd
 'creation': KRAEGS
 'of': -F
 'the': -T
-'world.': WORLD TP-PL
-'"But': KR-GS KPA/PWUT
+'world.': WORLD/TP-PL
+'"But': KR-GS/KPA/PWUT
 'that': THA
 'is': S
-'superbe,"': xxx superbe KW-BG KR-GS
+'superbe,"': xxx superbe/KW-BG/KR-GS
 'said': SED
 'the': -T
 'princess': PREUPB/SES
 'passing': PAFG
-'by.': PWEU TP-PL
-'"I': KR-GS EU
+'by.': PWEU/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'never': TPHEFR
 'heard': HAERD
 'a': AEU
 'more': PHOR
 'beautiful': PWAOUFL
-'composition.': KPOGS TP-PL
+'composition.': KPOGS/TP-PL
 'Go': KPA/TKPW
 'down': TKOUPB
 'and': SKP
@@ -1047,15 +1047,15 @@ The Swineherd
 'what': WHA
 'the': -T
 'instrument': STRUPLT
-'costs;': KOFTS STPH*FPLT
+'costs;': KOFTS/STPH*FPLT
 'but': PWUT
 'I': EU
 'shall': SHAL
 'not': TPHOT
 'kiss': KEUS
 'him': HEUPL
-'again."': TKPWEPB TP-PL KR-GS
-'"He': KR-GS KPA/HE
+'again."': TKPWEPB/TP-PL/KR-GS
+'"He': KR-GS/KPA/HE
 'will': HR
 'have': SR
 'a': AEU
@@ -1063,43 +1063,43 @@ The Swineherd
 'kisses': KEUS/-S
 'from': TPR
 'the': -T
-'princess,"': PREUPB/SES KW-BG KR-GS
+'princess,"': PREUPB/SES/KW-BG/KR-GS
 'said': SED
 'the': -T
-'lady,': HRA*ED KW-BG
+'lady,': HRA*ED/KW-BG
 'who': WHO
 'had': H
 'gone': TKPWOPB
 'down': TKOUPB
 'to': TO
 'ask': SK
-'him.': HEUPL TP-PL
-'"I': KR-GS EU
+'him.': HEUPL/TP-PL
+'"I': KR-GS/EU
 'believe': PWHREF
 'he': HE
 'is': S
-'mad,"': PHAD KW-BG KR-GS
+'mad,"': PHAD/KW-BG/KR-GS
 'said': SED
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'and': SKP
 'walked': WAUBGD
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'but': PWUT
 'soon': SAOPB
 'she': SHE
-'stopped.': STOPD TP-PL
-'"One': KR-GS KPA/WUPB
+'stopped.': STOPD/TP-PL
+'"One': KR-GS/KPA/WUPB
 'must': PHUFT
 'encourage': EPB/KORPBLG
-'art,"': ART KW-BG KR-GS
+'art,"': ART/KW-BG/KR-GS
 'she': SHE
-'said.': SED TP-PL
-'"I': KR-GS EU
+'said.': SED/TP-PL
+'"I': KR-GS/EU
 'am': APL
 'the': -T
-'emperor's': EPL/ROR AES
-'daughter!': TKAUR SKHRAPL
+'emperor's': EPL/ROR/AES
+'daughter!': TKAUR/SKHRAPL
 'Tell': KPA/TEL
 'him': HEUPL
 'I': EU
@@ -1107,13 +1107,13 @@ The Swineherd
 'give': TKPWEUF
 'him': HEUPL
 'ten': TEPB
-'kisses,': KEUS/-S KW-BG
+'kisses,': KEUS/-S/KW-BG
 'as': AS
 'I': EU
 'did': TK
 'the': -T
 'other': OER
-'day;': TKAEU STPH*FPLT
+'day;': TKAEU/STPH*FPLT
 'the': -T
 'remainder': RAEURPBD
 'one': WUPB
@@ -1122,34 +1122,34 @@ The Swineherd
 'ladies': HRAEUDZ
 'can': K
 'give': TKPWEUF
-'him.': HEUPL TP-PL
-'"But': KR-GS KPA/PWUT
+'him.': HEUPL/TP-PL
+'"But': KR-GS/KPA/PWUT
 'we': WE
 'do': TKO
 'not': TPHOT
 'like': HRAOEUBG
 'to': TO
 'kiss': KEUS
-'him,"': HEUPL KW-BG KR-GS
+'him,"': HEUPL/KW-BG/KR-GS
 'said': SED
 'the': -T
-'ladies.': HRAEUDZ TP-PL
-'"That': KR-GS KPA/THA
+'ladies.': HRAEUDZ/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
-'nonsense,"': TPHOPB/SEPBS KW-BG KR-GS
+'nonsense,"': TPHOPB/SEPBS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'princess;': PREUPB/SES STPH*FPLT
-'"if': KR-GS TP
+'princess;': PREUPB/SES/STPH*FPLT
+'"if': KR-GS/TP
 'I': EU
 'can': K
 'kiss': KEUS
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'you': U
 'can': K
 'also': HR-S
 'do': TKO
-'it.': T TP-PL
+'it.': T/TP-PL
 'Remember': KPA/RER
 'that': THA
 'I': EU
@@ -1157,7 +1157,7 @@ The Swineherd
 'you': U
 'food': TPAOD
 'and': SKP
-'employment."': PHROEUPLT TP-PL KR-GS
+'employment."': PHROEUPLT/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'lady': HRA*ED
@@ -1166,41 +1166,41 @@ The Swineherd
 'go': TKPW
 'down': TKOUPB
 'once': WUPBS
-'more.': PHOR TP-PL
-'"A': KR-GS KPA/AEU
+'more.': PHOR/TP-PL
+'"A': KR-GS/KPA/AEU
 'hundred': HUPBD
 'kisses': KEUS/-S
 'from': TPR
 'the': -T
-'princess,"': PREUPB/SES KW-BG KR-GS
+'princess,"': PREUPB/SES/KW-BG/KR-GS
 'said': SED
 'the': -T
-'swineherd,': SWAOEUPB/TK-LS/H*ERD KW-BG
-'"or': KR-GS OR
+'swineherd,': SWAOEUPB/TK-LS/H*ERD/KW-BG
+'"or': KR-GS/OR
 'everybody': EFRB
 'keeps': KAOEPS
 'his': HEUS
-'own."': OEPB TP-PL KR-GS
-'"Place': KR-GS KPA/PHRAEUS
+'own."': OEPB/TP-PL/KR-GS
+'"Place': KR-GS/KPA/PHRAEUS
 'yourselves': KWRO*URSZ
 'before': PW-FR
-'me,"': PHE KW-BG KR-GS
+'me,"': PHE/KW-BG/KR-GS
 'said': SED
 'the': -T
 'princess': PREUPB/SES
-'then.': THEPB TP-PL
+'then.': THEPB/TP-PL
 'They': KPA/THE
 'did': TK
 'as': AS
 'they': THE
 'were': WR
-'bidden,': PWEUD/TK*EPB KW-BG
+'bidden,': PWEUD/TK*EPB/KW-BG
 'and': SKP
 'the': -T
 'princess': PREUPB/SES
 'kissed': K*EUFD
-'him.': HEUPL TP-PL
-'"I': KR-GS EU
+'him.': HEUPL/TP-PL
+'"I': KR-GS/EU
 'wonder': WOPBD
 'what': WHA
 'that': THA
@@ -1208,10 +1208,10 @@ The Swineherd
 'near': TPHAOER
 'the': -T
 'pigsty': PEUG/TK-LS/STAOEU
-'means!"': PHAOEPBS SKHRAPL KR-GS
+'means!"': PHAOEPBS/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'emperor,': EPL/ROR KW-BG
+'emperor,': EPL/ROR/KW-BG
 'who': WHO
 'had': H
 'just': SKWRUFT
@@ -1219,7 +1219,7 @@ The Swineherd
 'out': OUT
 'on': OPB
 'his': HEUS
-'balcony.': PWAL/KOEPB TP-PL
+'balcony.': PWAL/KOEPB/TP-PL
 'He': KPA/HE
 'rubbed': RUBD
 'his': HEUS
@@ -1228,8 +1228,8 @@ The Swineherd
 'put': PUT
 'his': HEUS
 'spectacles': SPEBGT/K-LS
-'on.': OPB TP-PL
-'"The': KR-GS KPA/-T
+'on.': OPB/TP-PL
+'"The': KR-GS/KPA/-T
 'ladies': HRAEUDZ
 'of': -F
 'the': -T
@@ -1238,9 +1238,9 @@ The Swineherd
 'up': UP
 'to': TO
 'some': SOPL
-'mischief,': PHEUS/KHEF KW-BG
+'mischief,': PHEUS/KHEF/KW-BG
 'I': EU
-'think.': THEU TP-PL
+'think.': THEU/TP-PL
 'I': EU
 'shall': SHAL
 'have': SR
@@ -1248,26 +1248,26 @@ The Swineherd
 'go': TKPW
 'down': TKOUPB
 'and': SKP
-'see."': SAOE TP-PL KR-GS
+'see."': SAOE/TP-PL/KR-GS
 'He': KPA/HE
 'pulled': PULD
 'up': UP
 'his': HEUS
-'shoes,': SHAOUS KW-BG
+'shoes,': SHAOUS/KW-BG
 'for': TPOR
 'they': THE
 'were': WR
 'down': TKOUPB
 'at': AT
 'the': -T
-'heels,': HAOELS KW-BG
+'heels,': HAOELS/KW-BG
 'and': SKP
 'he': HE
 'was': WAS
 'very': SRE
 'quick': KWEUBG
 'about': PW
-'it.': T TP-PL
+'it.': T/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'had': H
@@ -1279,7 +1279,7 @@ The Swineherd
 'he': HE
 'walked': WAUBGD
 'quite': KWAOEUT
-'softly,': SOFT/HREU KW-BG
+'softly,': SOFT/HREU/KW-BG
 'and': SKP
 'the': -T
 'ladies': HRAEUDZ
@@ -1290,30 +1290,30 @@ The Swineherd
 'in': TPH
 'counting': KOUPBGT
 'the': -T
-'kisses,': KEUS/-S KW-BG
+'kisses,': KEUS/-S/KW-BG
 'that': THA
 'all': AUL
 'should': SHO
 'be': -B
-'fair,': TPAEUR KW-BG
+'fair,': TPAEUR/KW-BG
 'that': THA
 'they': THE
 'did': TK
 'not': TPHOT
 'notice': TPH-TS
 'the': -T
-'emperor.': EPL/ROR TP-PL
+'emperor.': EPL/ROR/TP-PL
 'He': KPA/HE
 'raised': RA*EUFD
 'himself': HEUPLS
 'on': OPB
-'tiptoe.': TEUP/TOE TP-PL
-'"What': KR-GS KPA/WHA
+'tiptoe.': TEUP/TOE/TP-PL
+'"What': KR-GS/KPA/WHA
 'does': TKOS
 'this': TH
-'mean?"': PHAOEPB H-F KR-GS
+'mean?"': PHAOEPB/H-F/KR-GS
 'he': HE
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'when': WHEPB
 'he': HE
 'saw': SAU
@@ -1323,7 +1323,7 @@ The Swineherd
 'was': WAS
 'kissing': KEUFG
 'the': -T
-'swineherd,': SWAOEUPB/TK-LS/H*ERD KW-BG
+'swineherd,': SWAOEUPB/TK-LS/H*ERD/KW-BG
 'and': SKP
 'then': THEPB
 'hit': HEUT
@@ -1338,21 +1338,21 @@ The Swineherd
 'swineherd': SWAOEUPB/TK-LS/H*ERD
 'received': SAOEFD
 'the': -T
-'sixty-eighth': SEUBGT H-PB A*ET
-'kiss.': KEUS TP-PL
-'"Go': KR-GS KPA/TKPW
+'sixty-eighth': SEUBGT/H-PB/A*ET
+'kiss.': KEUS/TP-PL
+'"Go': KR-GS/KPA/TKPW
 'out': OUT
 'of': -F
 'my': PHEU
-'sight,"': SAOEUT KW-BG KR-GS
+'sight,"': SAOEUT/KW-BG/KR-GS
 'said': SED
 'the': -T
-'emperor,': EPL/ROR KW-BG
+'emperor,': EPL/ROR/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
 'very': SRE
-'angry;': APBG/REU STPH*FPLT
+'angry;': APBG/REU/STPH*FPLT
 'and': SKP
 'both': PWO*T
 'the': -T
@@ -1364,53 +1364,53 @@ The Swineherd
 'banished': PWAPB/EURBD
 'from': TPR
 'the': -T
-'empire.': EPL/PAOEUR TP-PL
+'empire.': EPL/PAOEUR/TP-PL
 'There': KPA/THR
 'she': SHE
 'stood': STAOD
 'and': SKP
-'cried,': KRAOEUD KW-BG
+'cried,': KRAOEUD/KW-BG
 'the': -T
 'swineherd': SWAOEUPB/TK-LS/H*ERD
 'scolded': SKOLD/-D
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'the': -T
 'rain': RAEUPB
 'came': KAEUPL
 'down': TKOUPB
 'in': TPH
-'torrents.': TORPBT/-S TP-PL
-'"Alas,': KR-GS KPA/A/HRAS KW-BG
+'torrents.': TORPBT/-S/TP-PL
+'"Alas,': KR-GS/KPA/A/HRAS/KW-BG
 'unfortunate': TPHORPBT
 'creature': KRAOEFP
 'that': THA
 'I': EU
-'am!"': APL SKHRAPL KR-GS
+'am!"': APL/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'princess,': PREUPB/SES KW-BG
-'"I': KR-GS EU
+'princess,': PREUPB/SES/KW-BG
+'"I': KR-GS/EU
 'wish': WEURB
 'I': EU
 'had': H
 'accepted': SEPD
 'the': -T
-'prince.': PREUPBS TP-PL
-'Oh,': KPA/O*ERBGS KW-BG
+'prince.': PREUPBS/TP-PL
+'Oh,': KPA/O*ERBGS/KW-BG
 'how': HOU
 'wretched': WREFPD
 'I': EU
-'am!"': APL SKHRAPL KR-GS
+'am!"': APL/SKHRAPL/KR-GS
 'The': KPA/-T
 'swineherd': SWAOEUPB/TK-LS/H*ERD
 'went': WEPBT
 'behind': HEUPBD
 'a': AEU
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'wiped': WAOEUPD
 'his': HEUS
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'threw': THRAOU
 'off': OF
 'his': HEUS
@@ -1422,7 +1422,7 @@ The Swineherd
 'in': TPH
 'his': HEUS
 'princely': PREUPBS/HREU
-'garments;': TKPWARPLTS STPH*FPLT
+'garments;': TKPWARPLTS/STPH*FPLT
 'he': HE
 'looked': HRAOBGD
 'so': SO
@@ -1435,21 +1435,21 @@ The Swineherd
 'help': HEP
 'bowing': PWOUG
 'to': TO
-'him.': HEUPL TP-PL
-'"I': KR-GS EU
+'him.': HEUPL/TP-PL
+'"I': KR-GS/EU
 'have': SR
 'now': TPHOU
 'learnt': HRERPBT
 'to': TO
 'despise': STKPAOEUZ
-'you,"': U KW-BG KR-GS
+'you,"': U/KW-BG/KR-GS
 'he': HE
-'said.': SED TP-PL
-'"You': KR-GS KPA/U
+'said.': SED/TP-PL
+'"You': KR-GS/KPA/U
 'refused': RAO*UFD
 'an': APB
 'honest': HOPBS
-'prince;': PREUPBS STPH*FPLT
+'prince;': PREUPBS/STPH*FPLT
 'you': U
 'did': TK
 'not': TPHOT
@@ -1458,7 +1458,7 @@ The Swineherd
 'rose': ROEZ
 'and': SKP
 'the': -T
-'nightingale;': TPHAOEUT/-G/TKPWAEL STPH*FPLT
+'nightingale;': TPHAOEUT/-G/TKPWAEL/STPH*FPLT
 'but': PWUT
 'you': U
 'did': TK
@@ -1469,7 +1469,7 @@ The Swineherd
 'swineherd': SWAOEUPB/TK-LS/H*ERD
 'for': TPOR
 'his': HEUS
-'toys;': TOEUS STPH*FPLT
+'toys;': TOEUS/STPH*FPLT
 'you': U
 'have': SR
 'no': TPHO
@@ -1477,7 +1477,7 @@ The Swineherd
 'but': PWUT
 'yourself': KWRO*URS
 'to': TO
-'blame!"': PWHRAEUPL SKHRAPL KR-GS
+'blame!"': PWHRAEUPL/SKHRAPL/KR-GS
 'And': AFPBD
 'then': THEPB
 'he': HE
@@ -1488,15 +1488,15 @@ The Swineherd
 'and': SKP
 'left': HREFT
 'her': HER
-'behind.': HEUPBD TP-PL
+'behind.': HEUPBD/TP-PL
 'She': KPA/SHE
 'could': KO
 'now': TPHOU
 'sing': SEUPBG
 'at': AT
 'her': HER
-'leisure:': HR*ERB STPH-FPLT
-'"A': KR-GS KPA/AEU
+'leisure:': HR*ERB/STPH-FPLT
+'"A': KR-GS/KPA/AEU
 'jolly': SKWROL/HREU
 'old': OLD
 'sow': SOE
@@ -1504,10 +1504,10 @@ The Swineherd
 'lived': HREUFD
 'in': TPH
 'a': AEU
-'sty,': STAOEU KW-BG
+'sty,': STAOEU/KW-BG
 'Three': KPA/THRAOE
 'little': HREUL
 'piggies': PEUG/KWREU/-S
 'has': HAS
-'she,"': SHE KW-BG KR-GS
-'&c.': SP-PBD KR* TP-PL
+'she,"': SHE/KW-BG/KR-GS
+'&c.': SP-PBD/KR*/TP-PL

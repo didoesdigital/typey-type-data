@@ -4,7 +4,7 @@ The Silver Shilling
 'was': WAS
 'once': WUPBS
 'a': AEU
-'shilling,': SHEULG KW-BG
+'shilling,': SHEULG/KW-BG
 'which': WEU
 'came': KAEUPL
 'forth': TPO*RT
@@ -13,8 +13,8 @@ The Silver Shilling
 'mint': PHEUPBT
 'springing': SPREUPBG/-G
 'and': SKP
-'shouting,': SHOUGT KW-BG
-'"Hurrah!': KR-GS KPA/HUR/RA SKHRAPL
+'shouting,': SHOUGT/KW-BG
+'"Hurrah!': KR-GS/KPA/HUR/RA/SKHRAPL
 'now': TPHOU
 'I': EU
 'am': APL
@@ -23,7 +23,7 @@ The Silver Shilling
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world."': WORLD TP-PL KR-GS
+'world."': WORLD/TP-PL/KR-GS
 'And': AFPBD
 'truly': TRAOUL
 'it': T
@@ -33,14 +33,14 @@ The Silver Shilling
 'into': TPHAO
 'the': -T
 'wide': WAOEUD
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'The': KPA/-T
 'children': KHEURPB
 'held': HELD
 'it': T
 'with': W
 'warm': WARPL
-'hands,': HAPBDZ KW-BG
+'hands,': HAPBDZ/KW-BG
 'the': -T
 'miser': PHAOEUS/*ER
 'with': W
@@ -48,19 +48,19 @@ The Silver Shilling
 'cold': KOELD
 'and': SKP
 'convulsive': KOPB/SRUL/S*EUF
-'grasp,': TKPWRAFP KW-BG
+'grasp,': TKPWRAFP/KW-BG
 'and': SKP
 'the': -T
 'old': OLD
 'people': PAOEPL
 'turned': TURPBD
 'it': T
-'about,': PW KW-BG
+'about,': PW/KW-BG
 'goodness': TKPWAOD/-PBS
 'knows': TPHOEZ
 'how': HOU
 'many': PHAEPB
-'times,': TAOEUPLS KW-BG
+'times,': TAOEUPLS/KW-BG
 'while': WHAOEUL
 'the': -T
 'young': KWRUPBG
@@ -72,18 +72,18 @@ The Silver Shilling
 'roll': ROL
 'away': WA*EU
 'from': TPR
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'The': KPA/-T
 'shilling': SHEULG
 'was': WAS
 'made': PHAED
 'of': -F
-'silver,': SEUL/SRER KW-BG
+'silver,': SEUL/SRER/KW-BG
 'it': T
 'contained': KAUPB/TAEUPBD
 'very': SRE
 'little': HREUL
-'copper,': KOP/ER KW-BG
+'copper,': KOP/ER/KW-BG
 'and': SKP
 'considered': KR-D
 'itself': T/SEFL
@@ -108,9 +108,9 @@ The Silver Shilling
 'it': T
 'had': H
 'been': PW-PB
-'coined.': KOEUPBD TP-PL
+'coined.': KOEUPBD/TP-PL
 'One': KPA/WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'it': T
 'really': R-L
 'did': TK
@@ -118,7 +118,7 @@ The Silver Shilling
 'out': OUT
 'into': TPHAO
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'for': TPOR
 'it': T
 'belonged': PWHROPBGD
@@ -132,7 +132,7 @@ The Silver Shilling
 'travel': TRAFL
 'in': TPH
 'foreign': TPOERPB
-'lands.': HRAPBDZ TP-PL
+'lands.': HRAPBDZ/TP-PL
 'This': KPA/TH
 'gentleman': SKWRA*PL
 'was': WAS
@@ -150,7 +150,7 @@ The Silver Shilling
 'purse': PURS
 'when': WHEPB
 'he': HE
-'started,': STARTD KW-BG
+'started,': STARTD/KW-BG
 'till': TEUL
 'he': HE
 'one': WUPB
@@ -159,17 +159,17 @@ The Silver Shilling
 'it': T
 'between': TWAOEPB
 'his': HEUS
-'fingers.': TPEURPBGS TP-PL
-'"Why,"': KR-GS KPA/KWR KW-BG KR-GS
+'fingers.': TPEURPBGS/TP-PL
+'"Why,"': KR-GS/KPA/KWR/KW-BG/KR-GS
 'cried': KRAOEUD
-'he,': HE KW-BG
-'"here': KR-GS HAOER
+'he,': HE/KW-BG
+'"here': KR-GS/HAOER
 'is': S
 'a': AEU
 'shilling': SHEULG
 'from': TPR
-'home;': HOEPL STPH*FPLT
-'well,': WEL KW-BG
+'home;': HOEPL/STPH*FPLT
+'well,': WEL/KW-BG
 'it': T
 'must': PHUFT
 'go': TKPW
@@ -178,7 +178,7 @@ The Silver Shilling
 'travels': TRAFLS
 'with': W
 'me': PHE
-'now!"': TPHOU SKHRAPL KR-GS
+'now!"': TPHOU/SKHRAPL/KR-GS
 'and': SKP
 'the': -T
 'shilling': SHEULG
@@ -186,7 +186,7 @@ The Silver Shilling
 'and': SKP
 'rattled': RA*LTD
 'for': TPOR
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'when': WHEPB
 'it': T
 'was': WAS
@@ -195,7 +195,7 @@ The Silver Shilling
 'again': TKPWEPB
 'into': TPHAO
 'the': -T
-'purse.': PURS TP-PL
+'purse.': PURS/TP-PL
 'Here': KPA/HAOER
 'it': T
 'lay': HRAEU
@@ -204,19 +204,19 @@ The Silver Shilling
 'number': TPHUPL
 'of': -F
 'foreign': TPOERPB
-'companions,': KPAPB/KWROPBS KW-BG
+'companions,': KPAPB/KWROPBS/KW-BG
 'who': WHO
 'were': WR
 'always': AULS
 'coming': KO*G
 'and': SKP
-'going,': TKPW-G KW-BG
+'going,': TKPW-G/KW-BG
 'one': WUPB
 'taking': TAEUG
 'the': -T
 'place': PHRAEUS
 'of': -F
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'but': PWUT
 'the': -T
 'shilling': SHEULG
@@ -225,24 +225,24 @@ The Silver Shilling
 'was': WAS
 'always': AULS
 'put': PUT
-'back,': PWABG KW-BG
+'back,': PWABG/KW-BG
 'and': SKP
 'had': H
 'to': TO
 'remain': RAEUPL
 'in': TPH
 'the': -T
-'purse,': PURS KW-BG
+'purse,': PURS/KW-BG
 'which': WEU
 'was': WAS
 'certainly': SERPBL
 'a': AEU
 'mark': PHARBG
 'of': -F
-'distinction.': STKEUPBGS TP-PL
+'distinction.': STKEUPBGS/TP-PL
 'Many': KPA/PHAEPB
 'weeks': WAOEBGS
-'passed,': PAFD KW-BG
+'passed,': PAFD/KW-BG
 'during': TKURG
 'which': WEU
 'the': -T
@@ -254,7 +254,7 @@ The Silver Shilling
 'distance': STKAPBS
 'in': TPH
 'the': -T
-'purse,': PURS KW-BG
+'purse,': PURS/KW-BG
 'without': WOUT
 'in': TPH
 'the': -T
@@ -262,7 +262,7 @@ The Silver Shilling
 'knowing': TPHOEG
 'where': W-R
 'he': HE
-'was.': WAS TP-PL
+'was.': WAS/TP-PL
 'He': KPA/HE
 'had': H
 'found': TPOUPBD
@@ -274,7 +274,7 @@ The Silver Shilling
 'were': WR
 'French': TPREFRPB
 'and': SKP
-'Italian;': TA*PBL STPH*FPLT
+'Italian;': TA*PBL/STPH*FPLT
 'and': SKP
 'one': WUPB
 'coin': KOEUPB
@@ -283,14 +283,14 @@ The Silver Shilling
 'were': WR
 'in': TPH
 'this': TH
-'town,': TOUPB KW-BG
+'town,': TOUPB/KW-BG
 'and': SKP
 'another': TPHOER
 'said': SED
 'they': THE
 'were': WR
 'in': TPH
-'that,': THA KW-BG
+'that,': THA/KW-BG
 'but': PWUT
 'the': -T
 'shilling': SHEULG
@@ -303,7 +303,7 @@ The Silver Shilling
 'imagine': PHAPBLG
 'what': WHA
 'they': THE
-'meant.': PHEPBT TP-PL
+'meant.': PHEPBT/TP-PL
 'A': KPA/AEU
 'man': PHAPB
 'certainly': SERPBL
@@ -320,24 +320,24 @@ The Silver Shilling
 'up': UP
 'in': TPH
 'a': AEU
-'bag,': PWAG KW-BG
+'bag,': PWAG/KW-BG
 'and': SKP
 'this': TH
 'was': WAS
 'really': R-L
 'the': -T
-'shilling's': SHEULG AES
-'fate.': TPAEUT TP-PL
+'shilling's': SHEULG/AES
+'fate.': TPAEUT/TP-PL
 'But': KPA/PWUT
 'one': WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'as': AS
 'he': HE
 'was': WAS
 'lying': HRAOEUG
 'in': TPH
 'the': -T
-'purse,': PURS KW-BG
+'purse,': PURS/KW-BG
 'he': HE
 'noticed': TPH-TS/-D
 'that': THA
@@ -345,7 +345,7 @@ The Silver Shilling
 'was': WAS
 'not': TPHOT
 'quite': KWAOEUT
-'closed,': KHROEFD KW-BG
+'closed,': KHROEFD/KW-BG
 'and': SKP
 'so': SO
 'he': HE
@@ -360,7 +360,7 @@ The Silver Shilling
 'little': HREUL
 'peep': PAOEP
 'into': TPHAO
-'society.': SOET TP-PL
+'society.': SOET/TP-PL
 'He': KPA/HE
 'certainly': SERPBL
 'had': H
@@ -371,21 +371,21 @@ The Silver Shilling
 'of': -F
 'what': WHA
 'would': WO
-'follow,': TPOL KW-BG
+'follow,': TPOL/KW-BG
 'but': PWUT
 'he': HE
 'was': WAS
-'curious,': KAOURS KW-BG
+'curious,': KAOURS/KW-BG
 'and': SKP
 'curiosity': KAOURS/TEU
 'often': OFPB
 'brings': PWREUS
 'its': EUTS
 'own': OEPB
-'punishment.': PUPLT TP-PL
+'punishment.': PUPLT/TP-PL
 'In': KPA/TPH
 'his': HEUS
-'eagerness,': AOEG/ERPBS KW-BG
+'eagerness,': AOEG/ERPBS/KW-BG
 'he': HE
 'came': KAEUPL
 'so': SO
@@ -404,17 +404,17 @@ The Silver Shilling
 'pocket': POBGT
 'of': -F
 'the': -T
-'trousers;': TROUZ/ERS STPH*FPLT
+'trousers;': TROUZ/ERS/STPH*FPLT
 'and': SKP
-'when,': WHEPB KW-BG
+'when,': WHEPB/KW-BG
 'in': TPH
 'the': -T
-'evening,': AOEPBG KW-BG
+'evening,': AOEPBG/KW-BG
 'the': -T
 'purse': PURS
 'was': WAS
 'taken': TAEPB
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'the': -T
 'shilling': SHEULG
 'was': WAS
@@ -427,7 +427,7 @@ The Silver Shilling
 'which': WEU
 'it': T
 'had': H
-'fallen.': TPAUL/-PB TP-PL
+'fallen.': TPAUL/-PB/TP-PL
 'As': KPA/AS
 'the': -T
 'clothes': KHRO*ETS
@@ -436,20 +436,20 @@ The Silver Shilling
 'carried': KAERD
 'into': TPHAO
 'the': -T
-'hall,': HAUL KW-BG
+'hall,': HAUL/KW-BG
 'the': -T
 'shilling': SHEULG
 'fell': TPEL
 'out': OUT
 'on': OPB
 'the': -T
-'floor,': TPHRAOR KW-BG
+'floor,': TPHRAOR/KW-BG
 'unheard': UPB/HERD
 'and': SKP
 'unnoticed': UPB/TPH-TS/-D
 'by': PWEU
 'any': TPHEU
-'one.': WUPB TP-PL
+'one.': WUPB/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'morning': PHORPBG
@@ -460,18 +460,18 @@ The Silver Shilling
 'back': PWABG
 'to': TO
 'the': -T
-'room,': RAOPL KW-BG
+'room,': RAOPL/KW-BG
 'the': -T
 'gentleman': SKWRA*PL
 'put': PUT
 'them': THEPL
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
 'started': STARTD
 'on': OPB
 'his': HEUS
 'journey': SKWRURPB
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'but': PWUT
 'the': -T
 'shilling': SHEULG
@@ -479,60 +479,60 @@ The Silver Shilling
 'behind': HEUPBD
 'on': OPB
 'the': -T
-'floor.': TPHRAOR TP-PL
+'floor.': TPHRAOR/TP-PL
 'After': KPA/AF
 'a': AEU
 'time': TAOEUPL
 'it': T
 'was': WAS
-'found,': TPOUPBD KW-BG
+'found,': TPOUPBD/KW-BG
 'and': SKP
 'being': -BG
 'considered': KR-D
 'a': AEU
 'good': TKPWAOD
-'coin,': KOEUPB KW-BG
+'coin,': KOEUPB/KW-BG
 'was': WAS
 'placed': PHRAEUFD
 'with': W
 'three': THRAOE
 'other': OER
-'coins.': KOEUPBS TP-PL
-'"Ah,"': KR-GS KPA/HA*E KW-BG KR-GS
+'coins.': KOEUPBS/TP-PL
+'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
-'shilling,': SHEULG KW-BG
-'"this': KR-GS TH
+'shilling,': SHEULG/KW-BG
+'"this': KR-GS/TH
 'is': S
-'pleasant;': PHREFPBT STPH*FPLT
+'pleasant;': PHREFPBT/STPH*FPLT
 'I': EU
 'shall': SHAL
 'now': TPHOU
 'see': SAOE
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'become': PW-BG
 'acquainted': A/KWAEUPBTD
 'with': W
 'other': OER
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'and': SKP
 'learn': HRERPB
 'other': OER
-'customs."': KUFPLS TP-PL KR-GS
-'"Do': KR-GS KPA/TKO
+'customs."': KUFPLS/TP-PL/KR-GS
+'"Do': KR-GS/KPA/TKO
 'you': U
 'call': KAUL
 'that': THA
 'a': AEU
-'shilling?"': SHEULG H-F KR-GS
+'shilling?"': SHEULG/H-F/KR-GS
 'said': SED
 'some': SOPL
 'one': WUPB
 'the': -T
 'next': TPHEGT
-'moment.': PHOEPLT TP-PL
-'"That': KR-GS KPA/THA
+'moment.': PHOEPLT/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'not': TPHOT
 'a': AEU
@@ -540,14 +540,14 @@ The Silver Shilling
 'coin': KOEUPB
 'of': -F
 'the': -T
-'country,—it': KREU KW-BG EPL/TKA*RB T
+'country,—it': KREU/KW-BG/EPL/TKA*RB/T
 'is': S
-'false;': TPALS STPH*FPLT
+'false;': TPALS/STPH*FPLT
 'it': T
 'is': S
 'good': TKPWAOD
 'for': TPOR
-'nothing."': TPHOG TP-PL KR-GS
+'nothing."': TPHOG/TP-PL/KR-GS
 'Now': KPA/TPHOU
 'begins': TKPWEUPBS
 'the': -T
@@ -560,13 +560,13 @@ The Silver Shilling
 'by': PWEU
 'the': -T
 'shilling': SHEULG
-'himself.': HEUPLS TP-PL
-'"'False!': KR-GS AE KPA/TPALS SKHRAPL
+'himself.': HEUPLS/TP-PL
+'"'False!': KR-GS/AE/KPA/TPALS/SKHRAPL
 'good': TKPWAOD
 'for': TPOR
-'nothing!'': TPHOG SKHRAPL AE
+'nothing!'': TPHOG/SKHRAPL/AE
 'said': SED
-'he.': HE TP-PL
+'he.': HE/TP-PL
 'That': KPA/THA
 'remark': RARBG
 'went': WEPBT
@@ -576,7 +576,7 @@ The Silver Shilling
 'me': PHE
 'like': HRAOEUBG
 'a': AEU
-'dagger.': TKAG/ER TP-PL
+'dagger.': TKAG/ER/TP-PL
 'I': EU
 'knew': TPHAOU
 'that': THA
@@ -584,14 +584,14 @@ The Silver Shilling
 'had': H
 'a': AEU
 'true': TRAOU
-'ring,': REUPBG KW-BG
+'ring,': REUPBG/KW-BG
 'and': SKP
 'that': THA
 'mine': PHAOEUPB
 'was': WAS
 'a': AEU
 'genuine': SKWREPB/WEUPB
-'stamp.': STAFRP TP-PL
+'stamp.': STAFRP/TP-PL
 'These': KPA/THEZ
 'people': PAOEPL
 'must': PHUFT
@@ -599,27 +599,27 @@ The Silver Shilling
 'all': AUL
 'events': AOEFPBTS
 'be': -B
-'wrong,': WROPBG KW-BG
+'wrong,': WROPBG/KW-BG
 'or': OR
 'they': THE
 'could': KO
 'not': TPHOT
 'mean': PHAOEPB
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'But': KPA/PWUT
-'yes,': KWRE KW-BG
+'yes,': KWRE/KW-BG
 'I': EU
 'was': WAS
 'the': -T
 'one': WUPB
 'they': THE
 'called': KAULD
-''false,': AE TPALS KW-BG
+''false,': AE/TPALS/KW-BG
 'and': SKP
 'good': TKPWAOD
 'for': TPOR
-'nothing.'': TPHOG TP-PL AE
-'"'Then': KR-GS AE KPA/THEPB
+'nothing.'': TPHOG/TP-PL/AE
+'"'Then': KR-GS/AE/KPA/THEPB
 'I': EU
 'must': PHUFT
 'pay': PAEU
@@ -627,14 +627,14 @@ The Silver Shilling
 'away': WA*EU
 'in': TPH
 'the': -T
-'dark,'': TKARBG KW-BG AE
+'dark,'': TKARBG/KW-BG/AE
 'said': SED
 'the': -T
 'man': PHAPB
 'who': WHO
 'had': H
 'received': SAOEFD
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'So': KPA/SO
 'I': EU
 'was': WAS
@@ -645,27 +645,27 @@ The Silver Shilling
 'of': -F
 'in': TPH
 'the': -T
-'darkness,': TKARBG/-PBS KW-BG
+'darkness,': TKARBG/-PBS/KW-BG
 'and': SKP
 'be': -B
 'again': TKPWEPB
 'insulted': EUPB/SULT/-D
 'in': TPH
 'broad': PWRAOD
-'daylight.': TKAEULT TP-PL
-'"'False!': KR-GS AE KPA/TPALS SKHRAPL
+'daylight.': TKAEULT/TP-PL
+'"'False!': KR-GS/AE/KPA/TPALS/SKHRAPL
 'good': TKPWAOD
 'for': TPOR
-'nothing!'': TPHOG SKHRAPL AE
-'Oh,': KPA/O*ERBGS KW-BG
+'nothing!'': TPHOG/SKHRAPL/AE
+'Oh,': KPA/O*ERBGS/KW-BG
 'I': EU
 'must': PHUFT
 'contrive': KAUPB/TRAOEUF
 'to': TO
 'get': TKPWET
-'lost,': HRO*S KW-BG
+'lost,': HRO*S/KW-BG
 'thought': THAUT
-'I.': EU TP-PL
+'I.': EU/TP-PL
 'And': AFPBD
 'I': EU
 'trembled': TREPL/-BLD
@@ -689,38 +689,38 @@ The Silver Shilling
 'coin': KOEUPB
 'of': -F
 'the': -T
-'country.': KREU TP-PL
-'Ah!': KPA/HA*E SKHRAPL
+'country.': KREU/TP-PL
+'Ah!': KPA/HA*E/SKHRAPL
 'unhappy': UPB/HAEP
 'shilling': SHEULG
 'that': THA
 'I': EU
-'was!': WAS SKHRAPL
+'was!': WAS/SKHRAPL
 'Of': KPA/-F
 'what': WHA
 'use': AOUS
 'were': WR
 'my': PHEU
-'silver,': SEUL/SRER KW-BG
+'silver,': SEUL/SRER/KW-BG
 'my': PHEU
-'stamp,': STAFRP KW-BG
+'stamp,': STAFRP/KW-BG
 'and': SKP
 'my': PHEU
 'real': RAEL
 'value': SRAOUL
-'here,': HAOER KW-BG
+'here,': HAOER/KW-BG
 'where': W-R
 'all': AUL
 'these': THEZ
 'qualities': KWALTS
 'were': WR
-'worthless.': WO*RT/-L TP-PL
+'worthless.': WO*RT/-L/TP-PL
 'In': KPA/TPH
 'the': -T
 'eyes': AO*EUS
 'of': -F
 'the': -T
-'world,': WORLD KW-BG
+'world,': WORLD/KW-BG
 'a': AEU
 'man': PHAPB
 'is': S
@@ -732,7 +732,7 @@ The Silver Shilling
 'opinion': P-PB
 'formed': TPORPLD
 'of': -F
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'It': KPA/T
 'must': PHUFT
 'be': -B
@@ -743,7 +743,7 @@ The Silver Shilling
 'have': SR
 'a': AEU
 'guilty': TKPW-LT
-'conscience,': KAUPBGS KW-BG
+'conscience,': KAUPBGS/KW-BG
 'and': SKP
 'to': TO
 'be': -B
@@ -753,14 +753,14 @@ The Silver Shilling
 'account': K-T
 'of': -F
 'wicked': WEUBGD
-'deeds.': TKAOEDZ TP-PL
+'deeds.': TKAOEDZ/TP-PL
 'As': KPA/AS
 'for': TPOR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'innocent': TPH-PBT
 'as': AS
 'I': EU
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'I': EU
 'could': KO
 'not': TPHOT
@@ -773,7 +773,7 @@ The Silver Shilling
 'they': THE
 'brought': PWRAUT
 'me': PHE
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'for': TPOR
 'I': EU
 'knew': TPHAOU
@@ -789,7 +789,7 @@ The Silver Shilling
 'as': AS
 'a': AEU
 'false': TPALS
-'pretender.': PRE/TEPBD/*ER TP-PL
+'pretender.': PRE/TEPBD/*ER/TP-PL
 'At': KPA/AT
 'length': HREPBG
 'I': EU
@@ -800,7 +800,7 @@ The Silver Shilling
 'a': AEU
 'poor': PAOR
 'old': OLD
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'who': WHO
 'received': SAOEFD
 'me': PHE
@@ -810,7 +810,7 @@ The Silver Shilling
 'a': AEU
 'hard': HARD
 'day's': TKAEU/AES
-'work.': WORBG TP-PL
+'work.': WORBG/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'could': KO
@@ -819,12 +819,12 @@ The Silver Shilling
 'get': TKPWET
 'rid': REUD
 'of': -F
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'no': TPHO
 'one': WUPB
 'would': WO
 'take': TAEUBG
-'me.': PHE TP-PL
+'me.': PHE/TP-PL
 'I': EU
 'was': WAS
 'to': TO
@@ -833,8 +833,8 @@ The Silver Shilling
 'a': AEU
 'most': PHOFT
 'unlucky': UPB/HRUBG/KWREU
-'shilling.': SHEULG TP-PL
-''I': AE EU
+'shilling.': SHEULG/TP-PL
+''I': AE/EU
 'am': APL
 'positively': P*EUFL
 'obliged': OE/PWHRAOEUPBLGD
@@ -843,26 +843,26 @@ The Silver Shilling
 'this': TH
 'shilling': SHEULG
 'to': TO
-'somebody,'': S-B KW-BG AE
+'somebody,'': S-B/KW-BG/AE
 'said': SED
-'she;': SHE STPH*FPLT
-''I': AE EU
-'cannot,': SK-PBT KW-BG
+'she;': SHE/STPH*FPLT
+''I': AE/EU
+'cannot,': SK-PBT/KW-BG
 'with': W
 'the': -T
 'best': PWEFT
-'intentions,': EUPB/TEPBGS/-S KW-BG
+'intentions,': EUPB/TEPBGS/-S/KW-BG
 'lay': HRAEU
 'by': PWEU
 'a': AEU
 'bad': PWAD
-'shilling.': SHEULG TP-PL
+'shilling.': SHEULG/TP-PL
 'The': KPA/-T
 'rich': REUFP
 'baker': PWAEURBG
 'shall': SHAL
 'have': SR
-'it,—he': T KW-BG EPL/TKA*RB HE
+'it,—he': T/KW-BG/EPL/TKA*RB/HE
 'can': K
 'bear': PWAER
 'the': -T
@@ -870,10 +870,10 @@ The Silver Shilling
 'better': PWOERT
 'than': THAPB
 'I': EU
-'can.': K TP-PL
-'But,': KPA/PWUT KW-BG
+'can.': K/TP-PL
+'But,': KPA/PWUT/KW-BG
 'after': AF
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'it': T
 'is': S
 'not': TPHOT
@@ -881,13 +881,13 @@ The Silver Shilling
 'right': RAOEUT
 'thing': THEUPBG
 'to': TO
-'do.'': TKO TP-PL AE
-'"'Ah!'': KR-GS AE KPA/HA*E SKHRAPL AE
+'do.'': TKO/TP-PL/AE
+'"'Ah!'': KR-GS/AE/KPA/HA*E/SKHRAPL/AE
 'sighed': SAOEU/-D
 'I': EU
 'to': TO
-'myself,': PHAO*EUS KW-BG
-''am': AE APL
+'myself,': PHAO*EUS/KW-BG
+''am': AE/APL
 'I': EU
 'also': HR-S
 'to': TO
@@ -900,7 +900,7 @@ The Silver Shilling
 'of': -F
 'this': TH
 'poor': PAOR
-'woman?': WOPL H-F
+'woman?': WOPL/H-F
 'Am': KPA/APL
 'I': EU
 'then': THEPB
@@ -910,7 +910,7 @@ The Silver Shilling
 'days': TKAEUS
 'so': SO
 'completely': KPHRAOELT
-'changed?'': KHAEUPBGD H-F AE
+'changed?'': KHAEUPBGD/H-F/AE
 'The': KPA/-T
 'woman': WOPL
 'offered': OFRD
@@ -918,7 +918,7 @@ The Silver Shilling
 'to': TO
 'the': -T
 'rich': REUFP
-'baker,': PWAEURBG KW-BG
+'baker,': PWAEURBG/KW-BG
 'but': PWUT
 'he': HE
 'knew': TPHAOU
@@ -926,7 +926,7 @@ The Silver Shilling
 'current': KURPBT
 'money': PHUPB
 'too': TAO
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'as': AS
 'soon': SAOPB
@@ -941,14 +941,14 @@ The Silver Shilling
 'in': TPH
 'the': -T
 'woman's': WOPL/AES
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'She': KPA/SHE
 'could': KO
 'get': TKPWET
 'no': TPHO
 'bread': PWRAED
 'for': TPOR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'I': EU
 'felt': TPELT
@@ -967,20 +967,20 @@ The Silver Shilling
 'much': PHUFP
 'trouble': TRUBL
 'to': TO
-'another,': TPHOER KW-BG
+'another,': TPHOER/KW-BG
 'and': SKP
 'be': -B
 'treated': TRAOETD
 'as': AS
 'a': AEU
-'cast-off': KAFT SKWRO*F
-'coin.': KOEUPB TP-PL
+'cast-off': KAFT/SKWRO*F
+'coin.': KOEUPB/TP-PL
 'I': EU
-'who,': WHO KW-BG
+'who,': WHO/KW-BG
 'in': TPH
 'my': PHEU
 'young': KWRUPBG
-'days,': TKAEUS KW-BG
+'days,': TKAEUS/KW-BG
 'felt': TPELT
 'so': SO
 'joyful': SKWROEUFL
@@ -990,7 +990,7 @@ The Silver Shilling
 'of': -F
 'my': PHEU
 'own': OEPB
-'value,': SRAOUL KW-BG
+'value,': SRAOUL/KW-BG
 'and': SKP
 'knew': TPHAOU
 'so': SO
@@ -1000,7 +1000,7 @@ The Silver Shilling
 'bore': PWOR
 'a': AEU
 'genuine': SKWREPB/WEUPB
-'stamp.': STAFRP TP-PL
+'stamp.': STAFRP/TP-PL
 'I': EU
 'was': WAS
 'as': AS
@@ -1016,7 +1016,7 @@ The Silver Shilling
 'nobody': TPHOEB
 'will': HR
 'have': SR
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'woman': WOPL
 'took': TAOBG
@@ -1024,16 +1024,16 @@ The Silver Shilling
 'home': HOEPL
 'again': TKPWEPB
 'with': W
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'and': SKP
 'looking': HRAOG
 'at': AT
 'me': PHE
 'very': SRE
-'earnestly,': ERPB/EFT/HREU KW-BG
+'earnestly,': ERPB/EFT/HREU/KW-BG
 'she': SHE
-'said,': SED KW-BG
-''No,': AE KPA/TPHO KW-BG
+'said,': SED/KW-BG
+''No,': AE/KPA/TPHO/KW-BG
 'I': EU
 'will': HR
 'not': TPHOT
@@ -1044,14 +1044,14 @@ The Silver Shilling
 'one': WUPB
 'with': W
 'thee': THAOE
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'I': EU
 'will': HR
 'bore': PWOR
 'a': AEU
 'hole': HOEL
 'through': THRU
-'thee,': THAOE KW-BG
+'thee,': THAOE/KW-BG
 'that': THA
 'everyone': EFRPB
 'may': PHAE
@@ -1063,21 +1063,21 @@ The Silver Shilling
 'false': TPALS
 'and': SKP
 'worthless': WO*RT/-L
-'thing;': THEUPBG STPH*FPLT
+'thing;': THEUPBG/STPH*FPLT
 'and': SKP
-'yet,': KWRET KW-BG
+'yet,': KWRET/KW-BG
 'why': KWR
 'should': SHO
 'I': EU
 'do': TKO
-'that?': THA H-F
+'that?': THA/H-F
 'Very': KPA/SRE
 'likely': HRAOEULG
 'thou': THO*U
 'art': ART
 'a': AEU
 'lucky': HROEUBG
-'shilling.': SHEULG TP-PL
+'shilling.': SHEULG/TP-PL
 'A': KPA/AEU
 'thought': THAUT
 'has': HAS
@@ -1087,12 +1087,12 @@ The Silver Shilling
 'that': THA
 'it': T
 'is': S
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'and': SKP
 'I': EU
 'believe': PWHREF
-'it.': T TP-PL
-'Yes,': KPA/KWRE KW-BG
+'it.': T/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'I': EU
 'will': HR
 'make': PHAEUBG
@@ -1100,41 +1100,41 @@ The Silver Shilling
 'hole': HOEL
 'in': TPH
 'the': -T
-'shilling,'': SHEULG KW-BG AE
+'shilling,'': SHEULG/KW-BG/AE
 'said': SED
-'she,': SHE KW-BG
-''and': AE SKP
+'she,': SHE/KW-BG
+''and': AE/SKP
 'run': RUPB
 'a': AEU
 'string': STREUPBG
 'through': THRU
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'then': THEPB
 'give': TKPWEUF
 'it': T
 'to': TO
 'my': PHEU
-'neighbor's': TPHAEUB AES
+'neighbor's': TPHAEUB/AES
 'little': HREUL
 'one': WUPB
 'to': TO
 'hang': HAPBG
 'round': ROUPBD
 'her': HER
-'neck,': TPHEBG KW-BG
+'neck,': TPHEBG/KW-BG
 'as': AS
 'a': AEU
 'lucky': HROEUBG
-'shilling.'': SHEULG TP-PL AE
+'shilling.'': SHEULG/TP-PL/AE
 'So': KPA/SO
 'she': SHE
 'drilled': TKREULD
 'a': AEU
 'hole': HOEL
 'through': THRU
-'me.': PHE TP-PL
-'"It': KR-GS KPA/T
+'me.': PHE/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'really': R-L
 'not': TPHOT
@@ -1147,7 +1147,7 @@ The Silver Shilling
 'hole': HOEL
 'bored': PWORD
 'through': THRU
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'but': PWUT
 'we': WE
 'can': K
@@ -1163,21 +1163,21 @@ The Silver Shilling
 'with': W
 'a': AEU
 'good': TKPWAOD
-'intention.': SPWEPBGS TP-PL
+'intention.': SPWEPBGS/TP-PL
 'A': KPA/AEU
 'string': STREUPBG
 'was': WAS
 'drawn': TKRAUPB
 'through': THRU
 'the': -T
-'hole,': HOEL KW-BG
+'hole,': HOEL/KW-BG
 'and': SKP
 'I': EU
 'became': PWAEUPL
 'a': AEU
 'kind': KEUPBD
 'of': -F
-'medal.': PH*ELD TP-PL
+'medal.': PH*ELD/TP-PL
 'They': KPA/THE
 'hung': HUPBG
 'me': PHE
@@ -1187,7 +1187,7 @@ The Silver Shilling
 'of': -F
 'a': AEU
 'little': HREUL
-'child,': KHAOEULD KW-BG
+'child,': KHAOEULD/KW-BG
 'and': SKP
 'the': -T
 'child': KHAOEULD
@@ -1196,7 +1196,7 @@ The Silver Shilling
 'me': PHE
 'and': SKP
 'kissed': K*EUFD
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'I': EU
 'rested': REFTD
@@ -1206,13 +1206,13 @@ The Silver Shilling
 'night': TPHAOEUT
 'on': OPB
 'the': -T
-'warm,': WARPL KW-BG
+'warm,': WARPL/KW-BG
 'innocent': TPH-PBT
 'breast': PWREFT
 'of': -F
 'a': AEU
-'child.': KHAOEULD TP-PL
-'"In': KR-GS KPA/TPH
+'child.': KHAOEULD/TP-PL
+'"In': KR-GS/KPA/TPH
 'the': -T
 'morning': PHORPBG
 'the': -T
@@ -1222,43 +1222,43 @@ The Silver Shilling
 'me': PHE
 'between': TWAOEPB
 'her': HER
-'fingers,': TPEURPBGS KW-BG
+'fingers,': TPEURPBGS/KW-BG
 'and': SKP
 'had': H
 'certain': SERPB
 'thoughts': THAUTS
 'about': PW
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'which': WEU
 'I': EU
 'very': SRE
 'soon': SAOPB
 'found': TPOUPBD
-'out.': OUT TP-PL
-'First,': KPA/TPEUFRT KW-BG
+'out.': OUT/TP-PL
+'First,': KPA/TPEUFRT/KW-BG
 'she': SHE
 'looked': HRAOBGD
 'for': TPOR
 'a': AEU
 'pair': PAEUR
 'of': -F
-'scissors,': SEUS/ORS KW-BG
+'scissors,': SEUS/ORS/KW-BG
 'and': SKP
 'cut': KUT
 'the': -T
-'string.': STREUPBG TP-PL
-'"'Lucky': KR-GS AE KPA/HROEUBG
-'shilling!'': SHEULG SKHRAPL AE
+'string.': STREUPBG/TP-PL
+'"'Lucky': KR-GS/AE/KPA/HROEUBG
+'shilling!'': SHEULG/SKHRAPL/AE
 'said': SED
-'she,': SHE KW-BG
-''certainly': AE SERPBL
+'she,': SHE/KW-BG
+''certainly': AE/SERPBL
 'this': TH
 'is': S
 'what': WHA
 'I': EU
 'mean': PHAOEPB
 'to': TO
-'try.'': TREU TP-PL AE
+'try.'': TREU/TP-PL/AE
 'Then': KPA/THEPB
 'she': SHE
 'laid': HRAEUD
@@ -1269,7 +1269,7 @@ The Silver Shilling
 'I': EU
 'became': PWAEUPL
 'quite': KWAOEUT
-'green,': TKPWRAOEPB KW-BG
+'green,': TKPWRAOEPB/KW-BG
 'and': SKP
 'after': AF
 'that': THA
@@ -1279,7 +1279,7 @@ The Silver Shilling
 'the': -T
 'hole': HOEL
 'with': W
-'cement,': SEPLT KW-BG
+'cement,': SEPLT/KW-BG
 'rubbed': RUBD
 'me': PHE
 'a': AEU
@@ -1287,7 +1287,7 @@ The Silver Shilling
 'to': TO
 'brighten': PWRAOEUT/*EPB
 'me': PHE
-'up,': UP KW-BG
+'up,': UP/KW-BG
 'and': SKP
 'went': WEPBT
 'out': OUT
@@ -1298,26 +1298,26 @@ The Silver Shilling
 'to': TO
 'the': -T
 'lottery': HROT/REU
-'collector,': KHREBG/TOR KW-BG
+'collector,': KHREBG/TOR/KW-BG
 'to': TO
 'buy': PWAOEU
 'herself': H*ERS
 'a': AEU
-'ticket,': TEUBGT KW-BG
+'ticket,': TEUBGT/KW-BG
 'with': W
 'a': AEU
 'shilling': SHEULG
 'that': THA
 'should': SHO
 'bring': PWREU
-'luck.': HRUBG TP-PL
+'luck.': HRUBG/TP-PL
 'How': KPA/HOU
 'everything': EFRG
 'seemed': SAOEPLD
 'to': TO
 'cause': KAUS
 'me': PHE
-'trouble.': TRUBL TP-PL
+'trouble.': TRUBL/TP-PL
 'The': KPA/-T
 'lottery': HROT/REU
 'collector': KHREBG/TOR
@@ -1330,19 +1330,19 @@ The Silver Shilling
 'thought': THAUT
 'I': EU
 'should': SHO
-'crack.': KRABG TP-PL
+'crack.': KRABG/TP-PL
 'I': EU
 'had': H
 'been': PW-PB
 'called': KAULD
-'false,': TPALS KW-BG
+'false,': TPALS/KW-BG
 'I': EU
 'had': H
 'been': PW-PB
 'thrown': THROEPB
-'away,—that': WA*EU KW-BG EPL/TKA*RB THA
+'away,—that': WA*EU/KW-BG/EPL/TKA*RB/THA
 'I': EU
-'knew;': TPHAOU STPH*FPLT
+'knew;': TPHAOU/STPH*FPLT
 'and': SKP
 'there': THR
 'were': WR
@@ -1358,21 +1358,21 @@ The Silver Shilling
 'all': AUL
 'kinds': KEUPBDZ
 'lying': HRAOEUG
-'about.': PW TP-PL
+'about.': PW/TP-PL
 'I': EU
 'well': WEL
 'knew': TPHAOU
 'how': HOU
 'proud': PROUD
 'they': THE
-'were,': WR KW-BG
+'were,': WR/KW-BG
 'so': SO
 'I': EU
 'avoided': A/SROEUD/-D
 'them': THEPL
 'from': TPR
 'very': SRE
-'shame.': SHAEUPL TP-PL
+'shame.': SHAEUPL/TP-PL
 'With': KPA/W
 'the': -T
 'collector': KHREBG/TOR
@@ -1394,42 +1394,42 @@ The Silver Shilling
 'unnoticed': UPB/TPH-TS/-D
 'into': TPHAO
 'a': AEU
-'chest,': KHEFT KW-BG
+'chest,': KHEFT/KW-BG
 'among': PHOPBG
 'several': SEFRL
 'other': OER
-'coins.': KOEUPBS TP-PL
-'"Whether': KR-GS KPA/WHR
+'coins.': KOEUPBS/TP-PL
+'"Whether': KR-GS/KPA/WHR
 'the': -T
 'lottery': HROT/REU
 'ticket': TEUBGT
 'gained': TKPWAEUPBD
 'a': AEU
-'prize,': PRAOEUZ KW-BG
+'prize,': PRAOEUZ/KW-BG
 'I': EU
 'know': TPHOE
-'not;': TPHOT STPH*FPLT
+'not;': TPHOT/STPH*FPLT
 'but': PWUT
 'this': TH
 'I': EU
-'know,': TPHOE KW-BG
+'know,': TPHOE/KW-BG
 'that': THA
 'in': TPH
 'a': AEU
 'very': SRE
 'few': TPAOU
 'days': TKAEUS
-'after,': AF KW-BG
+'after,': AF/KW-BG
 'I': EU
 'was': WAS
 'recognised': REFD/A*U
 'as': AS
 'a': AEU
 'bad': PWAD
-'shilling,': SHEULG KW-BG
+'shilling,': SHEULG/KW-BG
 'and': SKP
 'laid': HRAEUD
-'aside.': A/SAOEUD TP-PL
+'aside.': A/SAOEUD/TP-PL
 'Everything': KPA/EFRG
 'that': THA
 'happened': HAPD
@@ -1439,7 +1439,7 @@ The Silver Shilling
 'add': AD
 'to': TO
 'my': PHEU
-'sorrow.': SROE TP-PL
+'sorrow.': SROE/TP-PL
 'Even': KPA/AOEPB
 'if': TP
 'a': AEU
@@ -1447,7 +1447,7 @@ The Silver Shilling
 'has': HAS
 'a': AEU
 'good': TKPWAOD
-'character,': KRAR KW-BG
+'character,': KRAR/KW-BG
 'it': T
 'is': S
 'of': -F
@@ -1461,7 +1461,7 @@ The Silver Shilling
 'is': S
 'said': SED
 'of': -F
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'for': TPOR
 'he': HE
 'is': S
@@ -1471,10 +1471,10 @@ The Silver Shilling
 'impartial': EUPL/PARBL
 'judge': SKWRUPBLG
 'of': -F
-'himself.': HEUPLS TP-PL
-'"A': KR-GS KPA/AEU
+'himself.': HEUPLS/TP-PL
+'"A': KR-GS/KPA/AEU
 'year': KWRAOER
-'passed,': PAFD KW-BG
+'passed,': PAFD/KW-BG
 'and': SKP
 'in': TPH
 'this': TH
@@ -1486,39 +1486,39 @@ The Silver Shilling
 'from': TPR
 'hand': HAPBD
 'to': TO
-'hand;': HAPBD STPH*FPLT
+'hand;': HAPBD/STPH*FPLT
 'always': AULS
-'abused,': A/PWAOUFD KW-BG
+'abused,': A/PWAOUFD/KW-BG
 'always': AULS
 'looked': HRAOBGD
 'at': AT
 'with': W
-'displeasure,': TKEUS/PHRERB KW-BG
+'displeasure,': TKEUS/PHRERB/KW-BG
 'and': SKP
 'trusted': TRUFTD
 'by': PWEU
 'no': TPHO
-'one;': WUPB STPH*FPLT
+'one;': WUPB/STPH*FPLT
 'but': PWUT
 'I': EU
 'trusted': TRUFTD
 'in': TPH
-'myself,': PHAO*EUS KW-BG
+'myself,': PHAO*EUS/KW-BG
 'and': SKP
 'had': H
 'no': TPHO
 'confidence': K-F
 'in': TPH
 'the': -T
-'world.': WORLD TP-PL
-'Yes,': KPA/KWRE KW-BG
+'world.': WORLD/TP-PL
+'Yes,': KPA/KWRE/KW-BG
 'that': THA
 'was': WAS
 'a': AEU
 'very': SRE
 'dark': TKARBG
-'time.': TAOEUPL TP-PL
-'"At': KR-GS KPA/AT
+'time.': TAOEUPL/TP-PL
+'"At': KR-GS/KPA/AT
 'length': HREPBG
 'one': WUPB
 'day': TKAEU
@@ -1527,9 +1527,9 @@ The Silver Shilling
 'passed': PAFD
 'to': TO
 'a': AEU
-'traveller,': TRA*FL/HRER KW-BG
+'traveller,': TRA*FL/HRER/KW-BG
 'a': AEU
-'foreigner,': TPORPB/ER KW-BG
+'foreigner,': TPORPB/ER/KW-BG
 'the': -T
 'very': SRE
 'same': SAEUPL
@@ -1539,20 +1539,20 @@ The Silver Shilling
 'me': PHE
 'away': WA*EU
 'from': TPR
-'home;': HOEPL STPH*FPLT
+'home;': HOEPL/STPH*FPLT
 'and': SKP
 'he': HE
 'was': WAS
 'simple': S*EUPL
 'and': SKP
-'true-hearted': TRAOU H-PB HART/-D
+'true-hearted': TRAOU/H-PB/HART/-D
 'enough': TPHUF
 'to': TO
 'take': TAEUBG
 'me': PHE
 'for': TPOR
 'current': KURPBT
-'coin.': KOEUPB TP-PL
+'coin.': KOEUPB/TP-PL
 'But': KPA/PWUT
 'would': WO
 'he': HE
@@ -1560,7 +1560,7 @@ The Silver Shilling
 'attempt': A/TEPLT
 'to': TO
 'pass': PAS
-'me?': PHE H-F
+'me?': PHE/H-F
 'and': SKP
 'should': SHO
 'I': EU
@@ -1568,21 +1568,21 @@ The Silver Shilling
 'hear': HAER
 'the': -T
 'outcry,': AOUT/KRAOEU/KW-BG
-''False!': AE KPA/TPALS SKHRAPL
-'good-for-nothing!'': TKPWAOD H-PB TPOR H-PB TPHOG SKHRAPL AE
+''False!': AE/KPA/TPALS/SKHRAPL
+'good-for-nothing!'': TKPWAOD/H-PB/TPOR/H-PB/TPHOG/SKHRAPL/AE
 'The': KPA/-T
 'traveller': TRA*FL/HRER
 'examined': KP-D
 'me': PHE
-'attentively,': A/TEPBT/EUFL KW-BG
-''I': AE EU
+'attentively,': A/TEPBT/EUFL/KW-BG
+''I': AE/EU
 'took': TAOBG
 'thee': THAOE
 'for': TPOR
 'good': TKPWAOD
-'coin,'': KOEUPB KW-BG AE
+'coin,'': KOEUPB/KW-BG/AE
 'said': SED
-'he;': HE STPH*FPLT
+'he;': HE/STPH*FPLT
 'then': THEPB
 'suddenly': SULD
 'a': AEU
@@ -1591,7 +1591,7 @@ The Silver Shilling
 'all': AUL
 'over': OEFR
 'his': HEUS
-'face.': TPAEUS TP-PL
+'face.': TPAEUS/TP-PL
 'I': EU
 'have': SR
 'never': TPHEFR
@@ -1605,27 +1605,27 @@ The Silver Shilling
 'face': TPAEUS
 'as': AS
 'on': OPB
-'his.': HEUS TP-PL
-''Now': AE KPA/TPHOU
+'his.': HEUS/TP-PL
+''Now': AE/KPA/TPHOU
 'this': TH
 'is': S
-'singular,'': SEUPBG/HRAR KW-BG AE
+'singular,'': SEUPBG/HRAR/KW-BG/AE
 'said': SED
-'he,': HE KW-BG
-''it': AE T
+'he,': HE/KW-BG
+''it': AE/T
 'is': S
 'a': AEU
 'coin': KOEUPB
 'from': TPR
 'my': PHEU
 'own': OEPB
-'country;': KREU STPH*FPLT
+'country;': KREU/STPH*FPLT
 'a': AEU
-'good,': TKPWAOD KW-BG
-'true,': TRAOU KW-BG
+'good,': TKPWAOD/KW-BG
+'true,': TRAOU/KW-BG
 'shilling': SHEULG
 'from': TPR
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'Some': KPA/SOPL
 'one': WUPB
 'has': HAS
@@ -1633,7 +1633,7 @@ The Silver Shilling
 'a': AEU
 'hole': HOEL
 'through': THRU
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'people': PAOEPL
 'have': SR
@@ -1641,7 +1641,7 @@ The Silver Shilling
 'doubt': TKOUT
 'called': KAULD
 'it': T
-'false.': TPALS TP-PL
+'false.': TPALS/TP-PL
 'How': KPA/HOU
 'curious': KAOURS
 'that': THA
@@ -1650,7 +1650,7 @@ The Silver Shilling
 'come': KOPL
 'into': TPHAO
 'my': PHEU
-'hands.': HAPBDZ TP-PL
+'hands.': HAPBDZ/TP-PL
 'I': EU
 'will': HR
 'take': TAEUBG
@@ -1661,15 +1661,15 @@ The Silver Shilling
 'to': TO
 'my': PHEU
 'own': OEPB
-'house.'': HOUS TP-PL AE
-'"Joy': KR-GS KPA/SKWROEU
+'house.'': HOUS/TP-PL/AE
+'"Joy': KR-GS/KPA/SKWROEU
 'thrilled': THREULD
 'through': THRU
 'me': PHE
 'when': WHEPB
 'I': EU
 'heard': HAERD
-'this.': TH TP-PL
+'this.': TH/TP-PL
 'I': EU
 'had': H
 'been': PW-PB
@@ -1677,9 +1677,9 @@ The Silver Shilling
 'more': PHOR
 'called': KAULD
 'a': AEU
-'good,': TKPWAOD KW-BG
+'good,': TKPWAOD/KW-BG
 'honest': HOPBS
-'shilling,': SHEULG KW-BG
+'shilling,': SHEULG/KW-BG
 'and': SKP
 'I': EU
 'was': WAS
@@ -1689,14 +1689,14 @@ The Silver Shilling
 'to': TO
 'my': PHEU
 'own': OEPB
-'home,': HOEPL KW-BG
+'home,': HOEPL/KW-BG
 'where': W-R
 'each': AOEFP
 'and': SKP
 'all': AUL
 'would': WO
 'recognise': REZ/A*U
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'know': TPHOE
 'that': THA
@@ -1705,13 +1705,13 @@ The Silver Shilling
 'made': PHAED
 'of': -F
 'good': TKPWAOD
-'silver,': SEUL/SRER KW-BG
+'silver,': SEUL/SRER/KW-BG
 'and': SKP
 'bore': PWOR
 'a': AEU
-'true,': TRAOU KW-BG
+'true,': TRAOU/KW-BG
 'genuine': SKWREPB/WEUPB
-'stamp.': STAFRP TP-PL
+'stamp.': STAFRP/TP-PL
 'I': EU
 'should': SHO
 'have': SR
@@ -1725,7 +1725,7 @@ The Silver Shilling
 'out': OUT
 'sparks': SPARBGS
 'of': -F
-'fire,': TPAOEUR KW-BG
+'fire,': TPAOEUR/KW-BG
 'but': PWUT
 'it': T
 'has': HAS
@@ -1737,22 +1737,22 @@ The Silver Shilling
 'my': PHEU
 'nature': TPHAEURT
 'to': TO
-'sparkle.': SPAR/K-L TP-PL
+'sparkle.': SPAR/K-L/TP-PL
 'Steel': KPA/STAOEL
 'can': K
 'do': TKO
-'so,': SO KW-BG
+'so,': SO/KW-BG
 'but': PWUT
 'not': TPHOT
-'silver.': SEUL/SRER TP-PL
+'silver.': SEUL/SRER/TP-PL
 'I': EU
 'was': WAS
 'wrapped': WRAPD
 'up': UP
 'in': TPH
-'fine,': TPAOEUPB KW-BG
+'fine,': TPAOEUPB/KW-BG
 'white': WHAOEUT
-'paper,': PAEUP KW-BG
+'paper,': PAEUP/KW-BG
 'that': THA
 'I': EU
 'might': PHAOEUT
@@ -1764,11 +1764,11 @@ The Silver Shilling
 'coins': KOEUPBS
 'and': SKP
 'be': -B
-'lost;': HRO*S STPH*FPLT
+'lost;': HRO*S/STPH*FPLT
 'and': SKP
 'on': OPB
 'special': SPERBL
-'occasions,': KWAEUGS/-S KW-BG
+'occasions,': KWAEUGS/-S/KW-BG
 'when': WHEPB
 'people': PAOEPL
 'from': TPR
@@ -1778,7 +1778,7 @@ The Silver Shilling
 'happened': HAPD
 'to': TO
 'be': -B
-'present,': PREPBT KW-BG
+'present,': PREPBT/KW-BG
 'I': EU
 'was': WAS
 'brought': PWRAUT
@@ -1787,13 +1787,13 @@ The Silver Shilling
 'spoken': SPOEPB
 'of': -F
 'very': SRE
-'kindly.': KAOEUPBD/HREU TP-PL
+'kindly.': KAOEUPBD/HREU/TP-PL
 'They': KPA/THE
 'said': SED
 'I': EU
 'was': WAS
 'very': SRE
-'interesting,': TR-G KW-BG
+'interesting,': TR-G/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -1817,36 +1817,36 @@ The Silver Shilling
 'to': TO
 'say': SAEU
 'for': TPOR
-'themselves.': TH*EPLS TP-PL
-'"At': KR-GS KPA/AT
+'themselves.': TH*EPLS/TP-PL
+'"At': KR-GS/KPA/AT
 'length': HREPBG
 'I': EU
 'reached': RAOEFPD
-'home.': HOEPL TP-PL
+'home.': HOEPL/TP-PL
 'All': KPA/AUL
 'my': PHEU
 'cares': KAEURS
 'were': WR
 'at': AT
 'an': APB
-'end.': EPBD TP-PL
+'end.': EPBD/TP-PL
 'Joy': KPA/SKWROEU
 'again': TKPWEPB
 'overwhelmed': AUFR/WHEPLD
-'me;': PHE STPH*FPLT
+'me;': PHE/STPH*FPLT
 'for': TPOR
 'was': WAS
 'I': EU
 'not': TPHOT
 'good': TKPWAOD
-'silver,': SEUL/SRER KW-BG
+'silver,': SEUL/SRER/KW-BG
 'and': SKP
 'had': H
 'I': EU
 'not': TPHOT
 'a': AEU
 'genuine': SKWREPB/WEUPB
-'stamp?': STAFRP H-F
+'stamp?': STAFRP/H-F
 'I': EU
 'had': H
 'no': TPHO
@@ -1855,20 +1855,20 @@ The Silver Shilling
 'or': OR
 'disappointments': TKEUS/POEUPLTS
 'to': TO
-'endure;': EPB/TKAOUR STPH*FPLT
-'although,': HR*T KW-BG
-'indeed,': TPHAOEPBD KW-BG
+'endure;': EPB/TKAOUR/STPH*FPLT
+'although,': HR*T/KW-BG
+'indeed,': TPHAOEPBD/KW-BG
 'there': THR
 'was': WAS
 'a': AEU
 'hole': HOEL
 'through': THRU
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'as': AS
 'if': TP
 'I': EU
 'were': WR
-'false;': TPALS STPH*FPLT
+'false;': TPALS/STPH*FPLT
 'but': PWUT
 'suspicions': SUS/PEUGS/-S
 'are': R
@@ -1878,7 +1878,7 @@ The Silver Shilling
 'man': PHAPB
 'is': S
 'really': R-L
-'true,': TRAOU KW-BG
+'true,': TRAOU/KW-BG
 'and': SKP
 'every': EF
 'one': WUPB
@@ -1886,7 +1886,7 @@ The Silver Shilling
 'persevere': PER/SAOEFR
 'in': TPH
 'acting': A*G
-'honestly,': HOPB/EFT/HREU KW-BG
+'honestly,': HOPB/EFT/HREU/KW-BG
 'for': TPOR
 'an': APB
 'will': HR
@@ -1894,12 +1894,12 @@ The Silver Shilling
 'made': PHAED
 'right': RAOEUT
 'in': TPH
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'That': KPA/THA
 'is': S
 'my': PHEU
 'firm': TPEURPL
-'belief,"': PWHRAOEF KW-BG KR-GS
+'belief,"': PWHRAOEF/KW-BG/KR-GS
 'said': SED
 'the': -T
-'shilling.': SHEULG TP-PL
+'shilling.': SHEULG/TP-PL

@@ -13,7 +13,7 @@ The Bat, the Birds and the Beasts
 'Birds': KPA/PWEURDZ
 'and': SKP
 'the': -T
-'Beasts.': KPA/PWAOEFT/-S TP-PL
+'Beasts.': KPA/PWAOEFT/-S/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'two': TWO
@@ -26,26 +26,26 @@ The Bat, the Birds and the Beasts
 'hesitated': HES/TAEUT/-D
 'which': WEU
 'to': TO
-'join.': SKWROEUPB TP-PL
+'join.': SKWROEUPB/TP-PL
 'The': KPA/-T
 'Birds': KPA/PWEURDZ
 'that': THA
 'passed': PAFD
 'his': HEUS
 'perch': PEFRPB
-'said:': SED STPH-FPLT
-'"Come': KR-GS KPA/KOPL
+'said:': SED/STPH-FPLT
+'"Come': KR-GS/KPA/KOPL
 'with': W
-'us";': US KR-GS STPH*FPLT
+'us";': US/KR-GS/STPH*FPLT
 'but': PWUT
 'he': HE
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'am': APL
 'a': AEU
-'Beast."': KPA/PWAOEFT TP-PL KR-GS
+'Beast."': KPA/PWAOEFT/TP-PL/KR-GS
 'Later': KPA/HRAEURT
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'some': SOPL
 'Beasts': KPA/PWAOEFT/-S
 'who': WHO
@@ -56,17 +56,17 @@ The Bat, the Birds and the Beasts
 'looked': HRAOBGD
 'up': UP
 'and': SKP
-'said:': SED STPH-FPLT
-'"Come': KR-GS KPA/KOPL
+'said:': SED/STPH-FPLT
+'"Come': KR-GS/KPA/KOPL
 'with': W
-'us";': US KR-GS STPH*FPLT
+'us";': US/KR-GS/STPH*FPLT
 'but': PWUT
 'he': HE
-'said:': SED STPH-FPLT
-'"I': KR-GS EU
+'said:': SED/STPH-FPLT
+'"I': KR-GS/EU
 'am': APL
 'a': AEU
-'Bird."': KPA/PWEURD TP-PL KR-GS
+'Bird."': KPA/PWEURD/TP-PL/KR-GS
 'Luckily': KPA/HRULG
 'at': AT
 'the': -T
@@ -74,12 +74,12 @@ The Bat, the Birds and the Beasts
 'moment': PHOEPLT
 'peace': PAES
 'was': WAS
-'made,': PHAED KW-BG
+'made,': PHAED/KW-BG
 'and': SKP
 'no': TPHO
 'battle': PWA*LT
 'took': TAOBG
-'place,': PHRAEUS KW-BG
+'place,': PHRAEUS/KW-BG
 'so': SO
 'the': -T
 'Bat': KPA/PWAT
@@ -93,7 +93,7 @@ The Bat, the Birds and the Beasts
 'join': SKWROEUPB
 'in': TPH
 'the': -T
-'rejoicings,': RE/SKWROEUFG/-S KW-BG
+'rejoicings,': RE/SKWROEUFG/-S/KW-BG
 'but': PWUT
 'they': THE
 'all': AUL
@@ -105,20 +105,20 @@ The Bat, the Birds and the Beasts
 'had': H
 'to': TO
 'fly': TPHRAOEU
-'away.': WA*EU TP-PL
+'away.': WA*EU/TP-PL
 'He': KPA/HE
 'then': THEPB
 'went': WEPBT
 'to': TO
 'the': -T
-'Beasts,': KPA/PWAOEFT/-S KW-BG
+'Beasts,': KPA/PWAOEFT/-S/KW-BG
 'but': PWUT
 'soon': SAOPB
 'had': H
 'to': TO
 'beat': PWAET
 'a': AEU
-'retreat,': RE/TRAOET KW-BG
+'retreat,': RE/TRAOET/KW-BG
 'or': OR
 'else': ELS
 'they': THE
@@ -127,15 +127,15 @@ The Bat, the Birds and the Beasts
 'torn': TORPB
 'him': HEUPL
 'to': TO
-'pieces.': PAOEFS TP-PL
-'"Ah,"': KR-GS KPA/HA*E KW-BG KR-GS
+'pieces.': PAOEFS/TP-PL
+'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Bat,': KPA/PWAT KW-BG
-'"I': KR-GS EU
+'Bat,': KPA/PWAT/KW-BG
+'"I': KR-GS/EU
 'see': SAOE
-'now,': TPHOU KW-BG
-'"He': KR-GS KPA/HE
+'now,': TPHOU/KW-BG
+'"He': KR-GS/KPA/HE
 'that': THA
 'is': S
 'neither': TPHAOERT
@@ -146,4 +146,4 @@ The Bat, the Birds and the Beasts
 'other': OER
 'has': HAS
 'no': TPHO
-'friends."': TPREPBDZ TP-PL KR-GS
+'friends."': TPREPBDZ/TP-PL/KR-GS

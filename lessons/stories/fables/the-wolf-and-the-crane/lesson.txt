@@ -10,7 +10,7 @@ The Wolf and the Crane
 'animal': PHAPBL
 'he': HE
 'had': H
-'killed,': KEULD KW-BG
+'killed,': KEULD/KW-BG
 'when': WHEPB
 'suddenly': SULD
 'a': AEU
@@ -28,7 +28,7 @@ The Wolf and the Crane
 'could': KO
 'not': TPHOT
 'swallow': SWAL
-'it.': T TP-PL
+'it.': T/TP-PL
 'He': KPA/HE
 'soon': SAOPB
 'felt': TPELT
@@ -36,7 +36,7 @@ The Wolf and the Crane
 'pain': PAEUPB
 'in': TPH
 'his': HEUS
-'throat,': THROET KW-BG
+'throat,': THROET/KW-BG
 'and': SKP
 'ran': RAPB
 'up': UP
@@ -52,7 +52,7 @@ The Wolf and the Crane
 'to': TO
 'relieve': RE/HREF
 'the': -T
-'pain.': PAEUPB TP-PL
+'pain.': PAEUPB/TP-PL
 'He': KPA/HE
 'tried': TRAOEUD
 'to': TO
@@ -64,26 +64,26 @@ The Wolf and the Crane
 'to': TO
 'remove': RE/PHOF
 'the': -T
-'bone.': PWOEPB TP-PL
-'"I': KR-GS EU
+'bone.': PWOEPB/TP-PL
+'"I': KR-GS/EU
 'would': WO
 'give': TKPWEUF
-'anything,"': TPHEUG KW-BG KR-GS
+'anything,"': TPHEUG/KW-BG/KR-GS
 'said': SED
-'he,': HE KW-BG
-'"if': KR-GS TP
+'he,': HE/KW-BG
+'"if': KR-GS/TP
 'you': U
 'would': WO
 'take': TAEUBG
 'it': T
-'out."': OUT TP-PL KR-GS
+'out."': OUT/TP-PL/KR-GS
 'At': KPA/AT
 'last': HRAFT
 'the': -T
 'Crane': KRA*EUPB
 'agreed': TKPWRAED
 'to': TO
-'try,': TREU KW-BG
+'try,': TREU/KW-BG
 'and': SKP
 'told': TOLD
 'the': -T
@@ -101,7 +101,7 @@ The Wolf and the Crane
 'wide': WAOEUD
 'as': AS
 'he': HE
-'could.': KO TP-PL
+'could.': KO/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'Crane': KRA*EUPB
@@ -111,23 +111,23 @@ The Wolf and the Crane
 'neck': TPHEBG
 'down': TKOUPB
 'the': -T
-'Wolf's': KPA/WOFL AES
-'throat,': THROET KW-BG
+'Wolf's': KPA/WOFL/AES
+'throat,': THROET/KW-BG
 'and': SKP
 'with': W
 'its': EUTS
 'beak': PWAOEBG
 'loosened': HRAOS/-PBD
 'the': -T
-'bone,': PWOEPB KW-BG
+'bone,': PWOEPB/KW-BG
 'till': TEUL
 'at': AT
 'last': HRAFT
 'it': T
 'got': TKPWOT
 'it': T
-'out.': OUT TP-PL
-'"Will': KR-GS W*EUL
+'out.': OUT/TP-PL
+'"Will': KR-GS/W*EUL
 'you': U
 'kindly': KAOEUPBD/HREU
 'give': TKPWEUF
@@ -135,10 +135,10 @@ The Wolf and the Crane
 'the': -T
 'reward': RE/WARD
 'you': U
-'promised?"': PROPLS/-D H-F KR-GS
+'promised?"': PROPLS/-D/H-F/KR-GS
 'said': SED
 'the': -T
-'Crane.': KRA*EUPB TP-PL
+'Crane.': KRA*EUPB/TP-PL
 'The': KPA/-T
 'Wolf': KPA/WOFL
 'grinned': TKPWREUPB/-D
@@ -147,9 +147,9 @@ The Wolf and the Crane
 'his': HEUS
 'teeth': TAO*ET
 'and': SKP
-'said:': SED STPH-FPLT
-'"Be': KR-GS KPA/-B
-'content.': KAUPBT TP-PL
+'said:': SED/STPH-FPLT
+'"Be': KR-GS/KPA/-B
+'content.': KAUPBT/TP-PL
 'You': KPA/U
 'have': SR
 'put': PUT
@@ -157,7 +157,7 @@ The Wolf and the Crane
 'head': HED
 'inside': TPH-DZ
 'a': AEU
-'Wolf's': KPA/WOFL AES
+'Wolf's': KPA/WOFL/AES
 'mouth': PHO*UT
 'and': SKP
 'taken': TAEPB
@@ -165,7 +165,7 @@ The Wolf and the Crane
 'out': OUT
 'again': TKPWEPB
 'in': TPH
-'safety;': SAEFT STPH*FPLT
+'safety;': SAEFT/STPH*FPLT
 'that': THA
 'ought': OT
 'to': TO
@@ -173,10 +173,10 @@ The Wolf and the Crane
 'reward': RE/WARD
 'enough': TPHUF
 'for': TPOR
-'you."': U TP-PL KR-GS
+'you."': U/TP-PL/KR-GS
 'Gratitude': KPA/TKPWRAT/TAOUD
 'and': SKP
 'greed': TKPWRAOED
 'go': TKPW
 'not': TPHOT
-'together.': TOGT TP-PL
+'together.': TOGT/TP-PL

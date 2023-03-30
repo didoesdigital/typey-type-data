@@ -8,26 +8,26 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'named': TPHAEUPLD
-'Kronenburg,': xxx Kronenburg KW-BG
+'Kronenburg,': xxx Kronenburg/KW-BG
 'close': KHROES
 'by': PWEU
 'the': -T
 'Sound': KPA/SOUPBD
 'of': -F
-'Elsinore,': xxx Elsinore KW-BG
+'Elsinore,': xxx Elsinore/KW-BG
 'where': W-R
 'large': HRARPBLG
-'ships,': SHEUPS KW-BG
+'ships,': SHEUPS/KW-BG
 'both': PWO*T
-'English,': TKPWHREURB KW-BG
-'Russian,': R*UGS KW-BG
+'English,': TKPWHREURB/KW-BG
+'Russian,': R*UGS/KW-BG
 'and': SKP
-'Prussian,': PRUGS KW-BG
+'Prussian,': PRUGS/KW-BG
 'pass': PAS
 'by': PWEU
 'hundreds': HUPBS
 'every': EF
-'day.': TKAEU TP-PL
+'day.': TKAEU/TP-PL
 'And': AFPBD
 'they': THE
 'salute': SA/HRAOUT
@@ -35,16 +35,16 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'with': W
-'cannons,': KAPB/TPHOPB/-S KW-BG
-'"Boom,': KR-GS KPA/PWAOPL KW-BG
-'boom,"': PWAOPL KW-BG KR-GS
+'cannons,': KAPB/TPHOPB/-S/KW-BG
+'"Boom,': KR-GS/KPA/PWAOPL/KW-BG
+'boom,"': PWAOPL/KW-BG/KR-GS
 'which': WEU
 'is': S
 'as': AS
 'if': TP
 'they': THE
-'said,': SED KW-BG
-'"Good-day."': KR-GS KPA/TKPWAOD H-PB TKAEU TP-PL KR-GS
+'said,': SED/KW-BG
+'"Good-day."': KR-GS/KPA/TKPWAOD/H-PB/TKAEU/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'cannons': KAPB/TPHOPB/-S
@@ -53,17 +53,17 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'answer': AEPBS
-'"Boom,"': KR-GS KPA/PWAOPL KW-BG KR-GS
+'"Boom,"': KR-GS/KPA/PWAOPL/KW-BG/KR-GS
 'which': WEU
 'means': PHAOEPBS
-'"Many': KR-GS KPA/PHAEPB
-'thanks."': THAPBGS TP-PL KR-GS
+'"Many': KR-GS/KPA/PHAEPB
+'thanks."': THAPBGS/TP-PL/KR-GS
 'In': KPA/TPH
 'winter': WEURPBT
 'no': TPHO
 'ships': SHEUPS
 'sail': SAEUL
-'by,': PWEU KW-BG
+'by,': PWEU/KW-BG
 'for': TPOR
 'the': -T
 'whole': WHOEL
@@ -77,7 +77,7 @@ Holger Danske
 'as': AS
 'the': -T
 'Swedish': SWAOED/EURB
-'coast,': KOEFT KW-BG
+'coast,': KOEFT/KW-BG
 'and': SKP
 'has': HAS
 'quite': KWAOEUT
@@ -85,29 +85,29 @@ Holger Danske
 'appearance': PAOERPBS
 'of': -F
 'a': AEU
-'high-road.': HAOEU H-PB RAOD TP-PL
+'high-road.': HAOEU/H-PB/RAOD/TP-PL
 'The': KPA/-T
 'Danish': TKAEUPB/EURB
 'and': SKP
 'the': -T
 'Swedish': SWAOED/EURB
 'flags': TPHRAGS
-'wave,': WAF KW-BG
+'wave,': WAF/KW-BG
 'and': SKP
 'Danes': TKA*EUPB/-S
 'and': SKP
 'Swedes': SWAOED/-S
-'say,': SAEU KW-BG
-'"Good-day,"': KR-GS KPA/TKPWAOD H-PB TKAEU KW-BG KR-GS
+'say,': SAEU/KW-BG
+'"Good-day,"': KR-GS/KPA/TKPWAOD/H-PB/TKAEU/KW-BG/KR-GS
 'and': SKP
-'"Thank': KR-GS KPA/THAPBG
-'you"': U KR-GS
+'"Thank': KR-GS/KPA/THAPBG
+'you"': U/KR-GS
 'to': TO
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'not': TPHOT
 'with': W
-'cannons,': KAPB/TPHOPB/-S KW-BG
+'cannons,': KAPB/TPHOPB/-S/KW-BG
 'but': PWUT
 'with': W
 'a': AEU
@@ -115,7 +115,7 @@ Holger Danske
 'shake': SHAEUBG
 'of': -F
 'the': -T
-'hand;': HAPBD STPH*FPLT
+'hand;': HAPBD/STPH*FPLT
 'and': SKP
 'they': THE
 'exchange': KPAEUPBG
@@ -125,13 +125,13 @@ Holger Danske
 'biscuits': PWEUFBGT/-S
 'with': W
 'each': AOEFP
-'other,': OER KW-BG
+'other,': OER/KW-BG
 'because': PWAU
 'foreign': TPOERPB
 'articles': ARLS
 'taste': TAEUFT
 'the': -T
-'best.': PWEFT TP-PL
+'best.': PWEFT/TP-PL
 'But': KPA/PWUT
 'the': -T
 'most': PHOFT
@@ -144,28 +144,28 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'of': -F
-'Kronenburg,': xxx Kronenburg KW-BG
+'Kronenburg,': xxx Kronenburg/KW-BG
 'where': W-R
 'Holger': xxx Holger
 'Danske': xxx Danske
 'sits': SEUTS
 'in': TPH
 'the': -T
-'deep,': TKAOEP KW-BG
+'deep,': TKAOEP/KW-BG
 'dark': TKARBG
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'into': TPHAO
 'which': WEU
 'no': TPHO
 'one': WUPB
-'goes.': TKPW-S TP-PL
+'goes.': TKPW-S/TP-PL
 'He': KPA/HE
 'is': S
 'clad': KHRAD
 'in': TPH
 'iron': AOEURPB
 'and': SKP
-'steel,': STAOEL KW-BG
+'steel,': STAOEL/KW-BG
 'and': SKP
 'rests': REFTS
 'his': HEUS
@@ -173,7 +173,7 @@ Holger Danske
 'on': OPB
 'his': HEUS
 'strong': STROPBG
-'arm;': ARPL STPH*FPLT
+'arm;': ARPL/STPH*FPLT
 'his': HEUS
 'long': HROPBG
 'beard': PWAERD
@@ -182,18 +182,18 @@ Holger Danske
 'upon': POPB
 'the': -T
 'marble': PHAERBL
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'into': TPHAO
 'which': WEU
 'it': T
 'has': HAS
 'become': PW-BG
 'firmly': TPEURPL/HREU
-'rooted;': RAOT/-D STPH*FPLT
+'rooted;': RAOT/-D/STPH*FPLT
 'he': HE
 'sleeps': SHRAOEPS
 'and': SKP
-'dreams,': TKRAOEPLS KW-BG
+'dreams,': TKRAOEPLS/KW-BG
 'but': PWUT
 'in': TPH
 'his': HEUS
@@ -204,10 +204,10 @@ Holger Danske
 'that': THA
 'happens': HAPS
 'in': TPH
-'Denmark.': TKEPB/PHARBG TP-PL
+'Denmark.': TKEPB/PHARBG/TP-PL
 'On': KPA/OPB
 'each': AOEFP
-'Christmas-eve': KREUS/PHAS H-PB HRO*ER/AOEF
+'Christmas-eve': KREUS/PHAS/H-PB/HRO*ER/AOEF
 'an': APB
 'angel': APB/SKWREL
 'comes': KOPLS
@@ -222,7 +222,7 @@ Holger Danske
 'has': HAS
 'dreamed': TKREPLD
 'is': S
-'true,': TRAOU KW-BG
+'true,': TRAOU/KW-BG
 'and': SKP
 'that': THA
 'he': HE
@@ -232,7 +232,7 @@ Holger Danske
 'sleep': SHRAOEP
 'again': TKPWEPB
 'in': TPH
-'peace,': PAES KW-BG
+'peace,': PAES/KW-BG
 'as': AS
 'Denmark': TKEPB/PHARBG
 'is': S
@@ -241,18 +241,18 @@ Holger Danske
 'in': TPH
 'any': TPHEU
 'real': RAEL
-'danger;': TKAEUPBLG STPH*FPLT
+'danger;': TKAEUPBLG/STPH*FPLT
 'but': PWUT
 'should': SHO
 'danger': TKAEUPBLG
 'ever': -FR
-'come,': KOPL KW-BG
+'come,': KOPL/KW-BG
 'then': THEPB
 'Holger': xxx Holger
 'Danske': xxx Danske
 'will': HR
 'rouse': ROUZ
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'and': SKP
 'the': -T
 'table': TAEUBL
@@ -264,7 +264,7 @@ Holger Danske
 'draws': TKRAUS
 'out': OUT
 'his': HEUS
-'beard.': PWAERD TP-PL
+'beard.': PWAERD/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'will': HR
@@ -272,7 +272,7 @@ Holger Danske
 'forth': TPO*RT
 'in': TPH
 'his': HEUS
-'strength,': STREPBG KW-BG
+'strength,': STREPBG/KW-BG
 'and': SKP
 'strike': STRAOEUBG
 'a': AEU
@@ -286,7 +286,7 @@ Holger Danske
 'countries': KUPBTS
 'of': -F
 'the': -T
-'world.': WORLD TP-PL
+'world.': WORLD/TP-PL
 'An': KPA/APB
 'old': OLD
 'grandfather': TKPWR-F
@@ -300,7 +300,7 @@ Holger Danske
 'this': TH
 'about': PW
 'Holger': xxx Holger
-'Danske,': xxx Danske KW-BG
+'Danske,': xxx Danske/KW-BG
 'and': SKP
 'the': -T
 'boy': PWOEU
@@ -313,14 +313,14 @@ Holger Danske
 'him': HEUPL
 'must': PHUFT
 'be': -B
-'true.': TRAOU TP-PL
+'true.': TRAOU/TP-PL
 'As': KPA/AS
 'the': -T
 'old': OLD
 'man': PHAPB
 'related': RAELTD
 'this': TH
-'story,': STOER KW-BG
+'story,': STOER/KW-BG
 'he': HE
 'was': WAS
 'carving': KAFRBG
@@ -331,7 +331,7 @@ Holger Danske
 'to': TO
 'represent': REPT
 'Holger': xxx Holger
-'Danske,': xxx Danske KW-BG
+'Danske,': xxx Danske/KW-BG
 'to': TO
 'be': -B
 'fastened': TPAS/-PBD
@@ -340,7 +340,7 @@ Holger Danske
 'prow': PRO*U
 'of': -F
 'a': AEU
-'ship;': SHEUP STPH*FPLT
+'ship;': SHEUP/STPH*FPLT
 'for': TPOR
 'the': -T
 'old': OLD
@@ -349,7 +349,7 @@ Holger Danske
 'a': AEU
 'carver': KAFRB/ER
 'in': TPH
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'that': THA
 'is,': S-RBGS
 'one': WUPB
@@ -360,38 +360,38 @@ Holger Danske
 'the': -T
 'heads': HEDZ
 'of': -F
-'ships,': SHEUPS KW-BG
+'ships,': SHEUPS/KW-BG
 'according': KORG
 'to': TO
 'the': -T
 'names': TPHAEUPLS
 'given': TKPWEUFPB
 'to': TO
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'And': AFPBD
 'now': TPHOU
 'he': HE
 'had': H
 'carved': KAFRBD
 'Holger': xxx Holger
-'Danske,': xxx Danske KW-BG
+'Danske,': xxx Danske/KW-BG
 'who': WHO
 'stood': STAOD
 'there': THR
 'erect': ER/EBGT
 'and': SKP
-'proud,': PROUD KW-BG
+'proud,': PROUD/KW-BG
 'with': W
 'his': HEUS
 'long': HROPBG
-'beard,': PWAERD KW-BG
+'beard,': PWAERD/KW-BG
 'holding': HOELGD
 'in': TPH
 'one': WUPB
 'hand': HAPBD
 'his': HEUS
 'broad': PWRAOD
-'battle-axe,': PWA*LT H-PB ABGS KW-BG
+'battle-axe,': PWA*LT/H-PB/ABGS/KW-BG
 'while': WHAOEUL
 'with': W
 'the': -T
@@ -401,7 +401,7 @@ Holger Danske
 'on': OPB
 'the': -T
 'Danish': TKAEUPB/EURB
-'arms.': ARPLS TP-PL
+'arms.': ARPLS/TP-PL
 'The': KPA/-T
 'old': OLD
 'grandfather': TKPWR-F
@@ -423,7 +423,7 @@ Holger Danske
 'themselves': TH*EPLS
 'in': TPH
 'olden': OLD/*EPB
-'times,': TAOEUPLS KW-BG
+'times,': TAOEUPLS/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -436,13 +436,13 @@ Holger Danske
 'as': AS
 'Holger': xxx Holger
 'Danske': xxx Danske
-'himself,': HEUPLS KW-BG
-'who,': WHO KW-BG
+'himself,': HEUPLS/KW-BG
+'who,': WHO/KW-BG
 'after': AF
-'all,': AUL KW-BG
+'all,': AUL/KW-BG
 'could': KO
 'only': OEPBL
-'dream;': TKRAOEPL STPH*FPLT
+'dream;': TKRAOEPL/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -450,7 +450,7 @@ Holger Danske
 'fellow': TP*EL
 'went': WEPBT
 'to': TO
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'he': HE
 'thought': THAUT
 'so': SO
@@ -465,7 +465,7 @@ Holger Danske
 'chin': KHEUPB
 'against': TKPWEPBS
 'the': -T
-'counterpane,': xxx counterpane KW-BG
+'counterpane,': xxx counterpane/KW-BG
 'and': SKP
 'imagined': PHAPBLGD
 'that': THA
@@ -479,7 +479,7 @@ Holger Danske
 'become': PW-BG
 'rooted': RAOT/-D
 'to': TO
-'it.': T TP-PL
+'it.': T/TP-PL
 'But': KPA/PWUT
 'the': -T
 'old': OLD
@@ -497,12 +497,12 @@ Holger Danske
 'last': HRAFT
 'part': PART
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'which': WEU
 'was': WAS
 'the': -T
 'Danish': TKAEUPB/EURB
-'arms.': ARPLS TP-PL
+'arms.': ARPLS/TP-PL
 'And': AFPBD
 'when': WHEPB
 'he': HE
@@ -513,7 +513,7 @@ Holger Danske
 'at': AT
 'the': -T
 'whole': WHOEL
-'figure,': TPEUG KW-BG
+'figure,': TPEUG/KW-BG
 'and': SKP
 'thought': THAUT
 'of': -F
@@ -522,7 +522,7 @@ Holger Danske
 'had': H
 'heard': HAERD
 'and': SKP
-'read,': RAED KW-BG
+'read,': RAED/KW-BG
 'and': SKP
 'what': WHA
 'he': HE
@@ -533,23 +533,23 @@ Holger Danske
 'to': TO
 'his': HEUS
 'little': HREUL
-'grandson.': TKPWR-S TP-PL
+'grandson.': TKPWR-S/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'nodded': TPHOD/-D
 'his': HEUS
-'head,': HED KW-BG
+'head,': HED/KW-BG
 'wiped': WAOEUPD
 'his': HEUS
 'spectacles': SPEBGT/K-LS
 'and': SKP
 'put': PUT
 'them': THEPL
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'and': SKP
-'said,': SED KW-BG
-'"Ah,': KR-GS KPA/HA*E KW-BG
-'yes;': KWRE STPH*FPLT
+'said,': SED/KW-BG
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'yes;': KWRE/STPH*FPLT
 'Holger': xxx Holger
 'Danske': xxx Danske
 'will': HR
@@ -557,7 +557,7 @@ Holger Danske
 'appear': A/PAOER
 'in': TPH
 'my': PHEU
-'lifetime,': HRAOEUF/TAOEUPL KW-BG
+'lifetime,': HRAOEUF/TAOEUPL/KW-BG
 'but': PWUT
 'the': -T
 'boy': PWOEU
@@ -579,13 +579,13 @@ Holger Danske
 'really': R-L
 'comes': KOPLS
 'to': TO
-'pass."': PAS TP-PL KR-GS
+'pass."': PAS/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'old': OLD
 'grandfather': TKPWR-F
 'nodded': TPHOD/-D
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'and': SKP
 'the': -T
 'more': PHOR
@@ -593,7 +593,7 @@ Holger Danske
 'looked': HRAOBGD
 'at': AT
 'Holger': xxx Holger
-'Danske,': xxx Danske KW-BG
+'Danske,': xxx Danske/KW-BG
 'the': -T
 'more': PHOR
 'satisfied': SAED
@@ -607,7 +607,7 @@ Holger Danske
 'good': TKPWAOD
 'image': EUPBLG
 'of': -F
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'It': KPA/T
 'seemed': SAOEPLD
 'to': TO
@@ -616,14 +616,14 @@ Holger Danske
 'the': -T
 'color': KROR
 'of': -F
-'life;': HRAOEUF STPH*FPLT
+'life;': HRAOEUF/STPH*FPLT
 'the': -T
 'armor': AR/PHOR
 'glittered': TKPWHREUT/ERD
 'like': HRAOEUBG
 'iron': AOEURPB
 'and': SKP
-'steel.': STAOEL TP-PL
+'steel.': STAOEL/TP-PL
 'The': KPA/-T
 'hearts': HARTS
 'in': TPH
@@ -634,20 +634,20 @@ Holger Danske
 'more': PHOR
 'and': SKP
 'more': PHOR
-'red;': RED STPH*FPLT
+'red;': RED/STPH*FPLT
 'while': WHAOEUL
 'the': -T
-'lions,': HRAOEU/O*PBS KW-BG
+'lions,': HRAOEU/O*PBS/KW-BG
 'with': W
 'gold': TKPWOELD
 'crowns': KROUPBS
 'on': OPB
 'their': THAEUR
-'heads,': HEDZ KW-BG
+'heads,': HEDZ/KW-BG
 'were': WR
 'leaping': HRAOEPG
-'up.': UP TP-PL
-'"That': KR-GS KPA/THA
+'up.': UP/TP-PL
+'"That': KR-GS/KPA/THA
 'is': S
 'the': -T
 'most': PHOFT
@@ -657,21 +657,21 @@ Holger Danske
 'arms': ARPLS
 'in': TPH
 'the': -T
-'world,"': WORLD KW-BG KR-GS
+'world,"': WORLD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
-'man.': PHAPB TP-PL
-'"The': KR-GS KPA/-T
+'man.': PHAPB/TP-PL
+'"The': KR-GS/KPA/-T
 'lions': HRAOEU/O*PBS
 'represent': REPT
-'strength;': STREPBG STPH*FPLT
+'strength;': STREPBG/STPH*FPLT
 'and': SKP
 'the': -T
-'hearts,': HARTS KW-BG
+'hearts,': HARTS/KW-BG
 'gentleness': SKWR*EPBLT/-PBS
 'and': SKP
-'love."': HRUF TP-PL KR-GS
+'love."': HRUF/TP-PL/KR-GS
 'And': AFPBD
 'as': AS
 'he': HE
@@ -679,50 +679,50 @@ Holger Danske
 'on': OPB
 'the': -T
 'uppermost': UP/ER/PHOEFT
-'lion,': HRO*EUPB KW-BG
+'lion,': HRO*EUPB/KW-BG
 'he': HE
 'thought': THAUT
 'of': -F
 'King': KO*EUPBG
-'Canute,': xxx Canute KW-BG
+'Canute,': xxx Canute/KW-BG
 'who': WHO
 'chained': KHAEUPBD
 'great': TKPWRAET
 'England': TKPWHRAEPBD
 'to': TO
-'Denmark's': TKEPB/PHARBG AES
-'throne;': THRO*EPB STPH*FPLT
+'Denmark's': TKEPB/PHARBG/AES
+'throne;': THRO*EPB/STPH*FPLT
 'and': SKP
 'he': HE
 'looked': HRAOBGD
 'at': AT
 'the': -T
 'second': SEBGD
-'lion,': HRO*EUPB KW-BG
+'lion,': HRO*EUPB/KW-BG
 'and': SKP
 'thought': THAUT
 'of': -F
-'Waldemar,': xxx Waldemar KW-BG
+'Waldemar,': xxx Waldemar/KW-BG
 'who': WHO
 'untied': UPB/TAOEUD
 'Denmark': TKEPB/PHARBG
 'and': SKP
 'conquered': KAUPB/KERD
 'the': -T
-'Vandals.': KPA/SRAPBD/ALS TP-PL
+'Vandals.': KPA/SRAPBD/ALS/TP-PL
 'The': KPA/-T
 'third': THEURD
 'lion': HRO*EUPB
 'reminded': RE/PHAOEUPBD/T-D
 'him': HEUPL
 'of': -F
-'Margaret,': PHARG/RET KW-BG
+'Margaret,': PHARG/RET/KW-BG
 'who': WHO
 'united': AOUPBTD
-'Denmark,': TKEPB/PHARBG KW-BG
-'Sweden,': SWAOED/-PB KW-BG
+'Denmark,': TKEPB/PHARBG/KW-BG
+'Sweden,': SWAOED/-PB/KW-BG
 'and': SKP
-'Norway.': TPHOR/WAEU TP-PL
+'Norway.': TPHOR/WAEU/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -730,46 +730,46 @@ Holger Danske
 'at': AT
 'the': -T
 'red': RED
-'hearts,': HARTS KW-BG
+'hearts,': HARTS/KW-BG
 'their': THAEUR
 'colors': KHRORS
 'glowed': TKPWHROE/-D
 'more': PHOR
-'deeply,': TKAO*EPL KW-BG
+'deeply,': TKAO*EPL/KW-BG
 'even': AOEPB
 'as': AS
-'flames,': TPHRAEUPLS KW-BG
+'flames,': TPHRAEUPLS/KW-BG
 'and': SKP
 'his': HEUS
 'memory': PHOEURPL
 'followed': TPOLD
 'each': AOEFP
 'in': TPH
-'turn.': TURPB TP-PL
+'turn.': TURPB/TP-PL
 'The': KPA/-T
 'first': TPEUFRT
 'led': HRED
 'him': HEUPL
 'to': TO
 'a': AEU
-'dark,': TKARBG KW-BG
+'dark,': TKARBG/KW-BG
 'narrow': TPHO*EUR
-'prison,': PREUZ KW-BG
+'prison,': PREUZ/KW-BG
 'in': TPH
 'which': WEU
 'sat': SAT
 'a': AEU
-'prisoner,': PREURZ KW-BG
+'prisoner,': PREURZ/KW-BG
 'a': AEU
 'beautiful': PWAOUFL
-'woman,': WOPL KW-BG
+'woman,': WOPL/KW-BG
 'daughter': TKAUR
 'of': -F
 'Christian': KREUGS
 'the': -T
-'Fourth,': KPA/TPO*URT KW-BG
+'Fourth,': KPA/TPO*URT/KW-BG
 'Eleanor': EL/TPHOR
-'Ulfeld,': xxx Ulfeld KW-BG
+'Ulfeld,': xxx Ulfeld/KW-BG
 'and': SKP
 'the': -T
 'flame': TPHRAEUPL
@@ -778,7 +778,7 @@ Holger Danske
 'rose': ROEZ
 'on': OPB
 'her': HER
-'bosom,': PWUZ/OPL KW-BG
+'bosom,': PWUZ/OPL/KW-BG
 'and': SKP
 'its': EUTS
 'blossoms': PWHROS/SOPL/-S
@@ -797,9 +797,9 @@ Holger Danske
 'of': -F
 'all': AUL
 'Danish': TKAEUPB/EURB
-'women.': WEUPL TP-PL
-'"Ah,': KR-GS KPA/HA*E KW-BG
-'yes;': KWRE STPH*FPLT
+'women.': WEUPL/TP-PL
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'yes;': KWRE/STPH*FPLT
 'that': THA
 'is': S
 'indeed': TPHAOEPBD
@@ -809,23 +809,23 @@ Holger Danske
 'in': TPH
 'the': -T
 'Danish': TKAEUPB/EURB
-'arms,"': ARPLS KW-BG KR-GS
+'arms,"': ARPLS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'grandfather,': TKPWR-F KW-BG
+'grandfather,': TKPWR-F/KW-BG
 'and': SKP
 'his': HEUS
 'spirit': SPEURT
 'followed': TPOLD
 'the': -T
 'second': SEBGD
-'flame,': TPHRAEUPL KW-BG
+'flame,': TPHRAEUPL/KW-BG
 'which': WEU
 'carried': KAERD
 'him': HEUPL
 'out': OUT
 'to': TO
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'where': W-R
 'cannons': KAPB/TPHOPB/-S
 'roared': RAORD
@@ -835,7 +835,7 @@ Holger Danske
 'lay': HRAEU
 'shrouded': SHROUD/-D
 'in': TPH
-'smoke,': SPHOEBG KW-BG
+'smoke,': SPHOEBG/KW-BG
 'and': SKP
 'the': -T
 'flaming': TPHRAPLG
@@ -855,7 +855,7 @@ Holger Danske
 'ribbon': REUB/O*PB
 'of': -F
 'an': APB
-'order,': ORD KW-BG
+'order,': ORD/KW-BG
 'as': AS
 'he': HE
 'blew': PWHRAOU
@@ -871,7 +871,7 @@ Holger Danske
 'to': TO
 'save': SAF
 'the': -T
-'fleet.': TPHRAOET TP-PL
+'fleet.': TPHRAOET/TP-PL
 'And': AFPBD
 'the': -T
 'third': THEURD
@@ -879,14 +879,14 @@ Holger Danske
 'led': HRED
 'him': HEUPL
 'to': TO
-'Greenland's': TKPWRAOEPB/HRA*PBD AES
+'Greenland's': TKPWRAOEPB/HRA*PBD/AES
 'wretched': WREFPD
-'huts,': HUTS KW-BG
+'huts,': HUTS/KW-BG
 'where': W-R
 'the': -T
-'preacher,': PRAO*EFP KW-BG
+'preacher,': PRAO*EFP/KW-BG
 'Hans': HAPBS
-'Egede,': xxx Egede KW-BG
+'Egede,': xxx Egede/KW-BG
 'ruled': RAOULD
 'with': W
 'love': HRUF
@@ -894,7 +894,7 @@ Holger Danske
 'every': EF
 'word': WORD
 'and': SKP
-'action.': *BGS TP-PL
+'action.': *BGS/TP-PL
 'The': KPA/-T
 'flame': TPHRAEUPL
 'was': WAS
@@ -903,7 +903,7 @@ Holger Danske
 'star': STAR
 'on': OPB
 'his': HEUS
-'breast,': PWREFT KW-BG
+'breast,': PWREFT/KW-BG
 'and': SKP
 'added': AD/-D
 'another': TPHOER
@@ -911,25 +911,25 @@ Holger Danske
 'to': TO
 'the': -T
 'Danish': TKAEUPB/EURB
-'arms.': ARPLS TP-PL
+'arms.': ARPLS/TP-PL
 'And': AFPBD
 'as': AS
 'the': -T
 'old': OLD
-'grandfather's': TKPWR-F AES
+'grandfather's': TKPWR-F/AES
 'spirit': SPEURT
 'followed': TPOLD
 'the': -T
 'next': TPHEGT
 'hovering': HOFRG
-'flame,': TPHRAEUPL KW-BG
+'flame,': TPHRAEUPL/KW-BG
 'he': HE
 'knew': TPHAOU
 'whither': WHEU/THER
 'it': T
 'would': WO
 'lead': HRAED
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'In': KPA/TPH
 'a': AEU
 'peasant': PEFPBT
@@ -939,7 +939,7 @@ Holger Danske
 'stood': STAOD
 'Frederick': TPRED/REUBG
 'the': -T
-'Sixth,': KPA/S*BGS KW-BG
+'Sixth,': KPA/S*BGS/KW-BG
 'writing': WREUG
 'his': HEUS
 'name': TPHAEUPL
@@ -947,7 +947,7 @@ Holger Danske
 'chalk': KHAUBG
 'on': OPB
 'the': -T
-'beam.': PWAEPL TP-PL
+'beam.': PWAEPL/TP-PL
 'The': KPA/-T
 'flame': TPHRAEUPL
 'trembled': TREPL/-BLD
@@ -957,13 +957,13 @@ Holger Danske
 'and': SKP
 'in': TPH
 'his': HEUS
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'it': T
 'was': WAS
 'in': TPH
 'the': -T
-'peasant's': PEFPBT AES
+'peasant's': PEFPBT/AES
 'room': RAOPL
 'that': THA
 'his': HEUS
@@ -973,19 +973,19 @@ Holger Danske
 'for': TPOR
 'the': -T
 'Danish': TKAEUPB/EURB
-'arms.': ARPLS TP-PL
+'arms.': ARPLS/TP-PL
 'The': KPA/-T
 'old': OLD
 'grandfather': TKPWR-F
 'wiped': WAOEUPD
 'his': HEUS
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'for': TPOR
 'he': HE
 'had': H
 'known': TPHOEPB
 'King': KO*EUPBG
-'Frederick,': TPRED/REUBG KW-BG
+'Frederick,': TPRED/REUBG/KW-BG
 'with': W
 'his': HEUS
 'silvery': SEUL/SRER/KWREU
@@ -994,12 +994,12 @@ Holger Danske
 'his': HEUS
 'honest': HOPBS
 'blue': PWHRU
-'eyes,': AO*EUS KW-BG
+'eyes,': AO*EUS/KW-BG
 'and': SKP
 'had': H
 'lived': HREUFD
 'for': TPOR
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'he': HE
 'folded': TPOELD/-D
@@ -1010,7 +1010,7 @@ Holger Danske
 'for': TPOR
 'some': SOPL
 'time': TAOEUPL
-'silent.': SHREPBT TP-PL
+'silent.': SHREPBT/TP-PL
 'Then': KPA/THEPB
 'his': HEUS
 'daughter': TKAUR
@@ -1022,7 +1022,7 @@ Holger Danske
 'it': T
 'was': WAS
 'getting': TKPWEGT
-'late,': HRAEUT KW-BG
+'late,': HRAEUT/KW-BG
 'that': THA
 'he': HE
 'ought': OT
@@ -1030,7 +1030,7 @@ Holger Danske
 'rest': REFT
 'for': TPOR
 'a': AEU
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'and': SKP
 'that': THA
 'the': -T
@@ -1038,26 +1038,26 @@ Holger Danske
 'was': WAS
 'on': OPB
 'the': -T
-'table.': TAEUBL TP-PL
-'"What': KR-GS KPA/WHA
+'table.': TAEUBL/TP-PL
+'"What': KR-GS/KPA/WHA
 'you': U
 'have': SR
 'been': PW-PB
 'carving': KAFRBG
 'is': S
 'very': SRE
-'beautiful,': PWAOUFL KW-BG
-'grandfather,"': TKPWR-F KW-BG KR-GS
+'beautiful,': PWAOUFL/KW-BG
+'grandfather,"': TKPWR-F/KW-BG/KR-GS
 'said': SED
-'she.': SHE TP-PL
-'"Holger': KR-GS xxx Holger
+'she.': SHE/TP-PL
+'"Holger': KR-GS/xxx Holger
 'Danske': xxx Danske
 'and': SKP
 'the': -T
 'old': OLD
 'coat': KOET
 'of': -F
-'arms;': ARPLS STPH*FPLT
+'arms;': ARPLS/STPH*FPLT
 'it': T
 'seems': SAOEPLS
 'to': TO
@@ -1069,20 +1069,20 @@ Holger Danske
 'seen': SAOEPB
 'the': -T
 'face': TPAEUS
-'somewhere."': SWR TP-PL KR-GS
-'"No,': KR-GS KPA/TPHO KW-BG
+'somewhere."': SWR/TP-PL/KR-GS
+'"No,': KR-GS/KPA/TPHO/KW-BG
 'that': THA
 'is': S
-'impossible,"': EUPL/POB KW-BG KR-GS
+'impossible,"': EUPL/POB/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'old': OLD
-'grandfather;': TKPWR-F STPH*FPLT
-'"but': KR-GS PWUT
+'grandfather;': TKPWR-F/STPH*FPLT
+'"but': KR-GS/PWUT
 'I': EU
 'have': SR
 'seen': SAOEPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'I': EU
 'have': SR
@@ -1091,7 +1091,7 @@ Holger Danske
 'carve': KAFRB
 'it': T
 'in': TPH
-'wood,': WAOD KW-BG
+'wood,': WAOD/KW-BG
 'as': AS
 'I': EU
 'have': SR
@@ -1099,13 +1099,13 @@ Holger Danske
 'it': T
 'in': TPH
 'my': PHEU
-'memory.': PHOEURPL TP-PL
+'memory.': PHOEURPL/TP-PL
 'It': KPA/T
 'was': WAS
 'a': AEU
 'long': HROPBG
 'time': TAOEUPL
-'ago,': AG KW-BG
+'ago,': AG/KW-BG
 'while': WHAOEUL
 'the': -T
 'English': TKPWHREURB
@@ -1113,31 +1113,31 @@ Holger Danske
 'lay': HRAEU
 'in': TPH
 'the': -T
-'roads,': RAODZ KW-BG
+'roads,': RAODZ/KW-BG
 'on': OPB
 'the': -T
 'second': SEBGD
 'of': -F
-'April,': PREUL KW-BG
+'April,': PREUL/KW-BG
 'when': WHEPB
 'we': WE
 'showed': SHOED
 'that': THA
 'we': WE
 'were': WR
-'true,': TRAOU KW-BG
+'true,': TRAOU/KW-BG
 'ancient': AEURBT
-'Danes.': TKA*EUPB/-S TP-PL
+'Danes.': TKA*EUPB/-S/TP-PL
 'I': EU
 'was': WAS
 'on': OPB
 'board': PWAORD
 'the': -T
-'Denmark,': TKEPB/PHARBG KW-BG
+'Denmark,': TKEPB/PHARBG/KW-BG
 'in': TPH
 'Steene': xxx Steene
-'Bille's': xxx Bille AES
-'squadron;': SKWAD/ROPB STPH*FPLT
+'Bille's': xxx Bille/AES
+'squadron;': SKWAD/ROPB/STPH*FPLT
 'I': EU
 'had': H
 'a': AEU
@@ -1152,7 +1152,7 @@ Holger Danske
 'balls': PWAULS
 'seemed': SAOEPLD
 'to': TO
-'fear.': TPAOER TP-PL
+'fear.': TPAOER/TP-PL
 'He': KPA/HE
 'sung': SUPBG
 'old': OLD
@@ -1160,7 +1160,7 @@ Holger Danske
 'in': TPH
 'a': AEU
 'merry': PHER/REU
-'voice,': SROEUS KW-BG
+'voice,': SROEUS/KW-BG
 'and': SKP
 'fired': TPAOEURD
 'and': SKP
@@ -1173,27 +1173,27 @@ Holger Danske
 'more': PHOR
 'than': THAPB
 'a': AEU
-'man.': PHAPB TP-PL
+'man.': PHAPB/TP-PL
 'I': EU
 'still': STEUL
 'remember': RER
 'his': HEUS
-'face,': TPAEUS KW-BG
+'face,': TPAEUS/KW-BG
 'but': PWUT
 'from': TPR
 'whence': WHEPBS
 'he': HE
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'or': OR
 'whither': WHEU/THER
 'he': HE
-'went,': WEPBT KW-BG
+'went,': WEPBT/KW-BG
 'I': EU
 'know': TPHOE
-'not;': TPHOT STPH*FPLT
+'not;': TPHOT/STPH*FPLT
 'no': TPHO
 'one': WUPB
-'knows.': TPHOEZ TP-PL
+'knows.': TPHOEZ/TP-PL
 'I': EU
 'have': SR
 'often': OFPB
@@ -1204,7 +1204,7 @@ Holger Danske
 'been': PW-PB
 'Holger': xxx Holger
 'Danske': xxx Danske
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'who': WHO
 'had': H
 'swam': SWAPL
@@ -1220,16 +1220,16 @@ Holger Danske
 'the': -T
 'hour': HOUR
 'of': -F
-'danger.': TKAEUPBLG TP-PL
+'danger.': TKAEUPBLG/TP-PL
 'That': KPA/THA
 'was': WAS
 'my': PHEU
-'idea,': KWR-D KW-BG
+'idea,': KWR-D/KW-BG
 'and': SKP
 'there': THR
 'stands': STAPBDZ
 'his': HEUS
-'likeness."': HRAOEUBG/-PBS TP-PL KR-GS
+'likeness."': HRAOEUBG/-PBS/TP-PL/KR-GS
 'The': KPA/-T
 'wooden': WAOD/EPB
 'figure': TPEUG
@@ -1239,14 +1239,14 @@ Holger Danske
 'shadow': SHOEUD
 'on': OPB
 'the': -T
-'wall,': WAUL KW-BG
+'wall,': WAUL/KW-BG
 'and': SKP
 'even': AOEPB
 'on': OPB
 'part': PART
 'of': -F
 'the': -T
-'ceiling;': KAOELG STPH*FPLT
+'ceiling;': KAOELG/STPH*FPLT
 'it': T
 'seemed': SAOEPLD
 'as': AS
@@ -1257,11 +1257,11 @@ Holger Danske
 'Danske': xxx Danske
 'stood': STAOD
 'behind': HEUPBD
-'it,': T KW-BG
+'it,': T/KW-BG
 'for': TPOR
 'the': -T
 'shadow': SHOEUD
-'moved;': PHOFD STPH*FPLT
+'moved;': PHOFD/STPH*FPLT
 'but': PWUT
 'this': TH
 'was': WAS
@@ -1276,29 +1276,29 @@ Holger Danske
 'lamp': HRAFRP
 'not': TPHOT
 'burning': PWURPBG
-'steadily.': STED/HREU TP-PL
+'steadily.': STED/HREU/TP-PL
 'Then': KPA/THEPB
 'the': -T
 'daughter-in-law': TKAURPBL
 'kissed': K*EUFD
 'the': -T
 'old': OLD
-'grandfather,': TKPWR-F KW-BG
+'grandfather,': TKPWR-F/KW-BG
 'and': SKP
 'led': HRED
 'him': HEUPL
 'to': TO
 'a': AEU
 'large': HRARPBLG
-'arm-chair': ARPL H-PB KHAEUR
+'arm-chair': ARPL/H-PB/KHAEUR
 'by': PWEU
 'the': -T
-'table;': TAEUBL STPH*FPLT
+'table;': TAEUBL/STPH*FPLT
 'and': SKP
-'she,': SHE KW-BG
+'she,': SHE/KW-BG
 'and': SKP
 'her': HER
-'husband,': HUS KW-BG
+'husband,': HUS/KW-BG
 'who': WHO
 'was': WAS
 'the': -T
@@ -1317,13 +1317,13 @@ Holger Danske
 'who': WHO
 'lay': HRAEU
 'in': TPH
-'bed,': PWED KW-BG
+'bed,': PWED/KW-BG
 'sat': SAT
 'down': TKOUPB
 'to': TO
 'supper': SAOURP
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'And': AFPBD
 'the': -T
 'old': OLD
@@ -1336,12 +1336,12 @@ Holger Danske
 'and': SKP
 'the': -T
 'Danish': TKAEUPB/EURB
-'hearts,': HARTS KW-BG
+'hearts,': HARTS/KW-BG
 'emblems': EPL/PWHREPL/-S
 'of': -F
 'strength': STREPBG
 'and': SKP
-'gentleness,': SKWR*EPBLT/-PBS KW-BG
+'gentleness,': SKWR*EPBLT/-PBS/KW-BG
 'and': SKP
 'explained': SPHRAEUPBD
 'quite': KWAOEUT
@@ -1357,7 +1357,7 @@ Holger Danske
 'lies': HRAO*EUS
 'in': TPH
 'a': AEU
-'sword,': SOERD KW-BG
+'sword,': SOERD/KW-BG
 'and': SKP
 'he': HE
 'pointed': POEUPBTD
@@ -1370,15 +1370,15 @@ Holger Danske
 'number': TPHUPL
 'of': -F
 'old': OLD
-'books,': PWAOBGS KW-BG
+'books,': PWAOBGS/KW-BG
 'and': SKP
 'amongst': PHOPBGS
 'them': THEPL
 'a': AEU
 'collection': KHREBGS
 'of': -F
-'Holberg's': xxx Holberg AES
-'plays,': PHRAEUZ KW-BG
+'Holberg's': xxx Holberg/AES
+'plays,': PHRAEUZ/KW-BG
 'which': WEU
 'are': R
 'much': PHUFP
@@ -1402,23 +1402,23 @@ Holger Danske
 'people': PAOEPL
 'of': -F
 'those': THOZ
-'days,': TKAEUS KW-BG
+'days,': TKAEUS/KW-BG
 'who': WHO
 'are': R
 'described': KREUFD
 'in': TPH
-'them.': THEPL TP-PL
-'"He': KR-GS KPA/HE
+'them.': THEPL/TP-PL
+'"He': KR-GS/KPA/HE
 'knew': TPHAOU
 'how': HOU
 'to': TO
 'fight': TPAOEUT
-'also,"': HR-S KW-BG KR-GS
+'also,"': HR-S/KW-BG/KR-GS
 'said': SED
 'the': -T
 'old': OLD
-'man;': PHAPB STPH*FPLT
-'"for': KR-GS TPOR
+'man;': PHAPB/STPH*FPLT
+'"for': KR-GS/TPOR
 'he': HE
 'lashed': HRARBD
 'the': -T
@@ -1430,7 +1430,7 @@ Holger Danske
 'during': TKURG
 'his': HEUS
 'whole': WHOEL
-'life."': HRAOEUF TP-PL KR-GS
+'life."': HRAOEUF/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'grandfather': TKPWR-F
@@ -1440,11 +1440,11 @@ Holger Danske
 'place': PHRAEUS
 'above': PWOF
 'the': -T
-'looking-glass,': HRAOG H-PB TKPWHRAS KW-BG
+'looking-glass,': HRAOG/H-PB/TKPWHRAS/KW-BG
 'where': W-R
 'hung': HUPBG
 'an': APB
-'almanac,': AUPL/TPHABG KW-BG
+'almanac,': AUPL/TPHABG/KW-BG
 'with': W
 'a': AEU
 'representation': REPGS
@@ -1453,10 +1453,10 @@ Holger Danske
 'Round': KPA/ROUPBD
 'Tower': KPA/TOUR
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'said': SED
-'"Tycho': KR-GS xxx Tycho
+'"Tycho': KR-GS/xxx Tycho
 'Brahe': xxx Brahe
 'was': WAS
 'another': TPHOER
@@ -1465,7 +1465,7 @@ Holger Danske
 'who': WHO
 'used': AOUFD
 'a': AEU
-'sword,': SOERD KW-BG
+'sword,': SOERD/KW-BG
 'but': PWUT
 'not': TPHOT
 'one': WUPB
@@ -1475,7 +1475,7 @@ Holger Danske
 'the': -T
 'flesh': TPHRERB
 'and': SKP
-'bone,': PWOEPB KW-BG
+'bone,': PWOEPB/KW-BG
 'but': PWUT
 'to': TO
 'make': PHAEUBG
@@ -1486,12 +1486,12 @@ Holger Danske
 'stars': STARS
 'of': -F
 'heaven': HEFPB
-'clear,': KHRAOER KW-BG
+'clear,': KHRAOER/KW-BG
 'and': SKP
 'plain': PHRAEUPB
 'to': TO
 'be': -B
-'understood.': *URPBD TP-PL
+'understood.': *URPBD/TP-PL
 'And': AFPBD
 'then': THEPB
 'he': HE
@@ -1500,20 +1500,20 @@ Holger Danske
 'belonged': PWHROPBGD
 'to': TO
 'my': PHEU
-'calling,—yes,': KAULG KW-BG EPL/TKA*RB KWRE KW-BG
-'he,': HE KW-BG
+'calling,—yes,': KAULG/KW-BG/EPL/TKA*RB/KWRE/KW-BG
+'he,': HE/KW-BG
 'the': -T
 'son': SOPB
 'of': -F
 'the': -T
 'old': OLD
-'image-carver,': EUPBLG H-PB KAFRB/ER KW-BG
+'image-carver,': EUPBLG/H-PB/KAFRB/ER/KW-BG
 'he': HE
 'whom': WHOPL
 'we': WE
 'ourselves': O*URSZ
 'have': SR
-'seen,': SAOEPB KW-BG
+'seen,': SAOEPB/KW-BG
 'with': W
 'his': HEUS
 'silvery': SEUL/SRER/KWREU
@@ -1521,30 +1521,30 @@ Holger Danske
 'and': SKP
 'his': HEUS
 'broad': PWRAOD
-'shoulders,': SHOURLDZ KW-BG
+'shoulders,': SHOURLDZ/KW-BG
 'whose': WHOZ
 'name': TPHAEUPL
 'is': S
 'known': TPHOEPB
 'in': TPH
 'all': AUL
-'lands;—yes,': HRAPBDZ STPH*FPLT EPL/TKA*RB KWRE KW-BG
+'lands;—yes,': HRAPBDZ/STPH*FPLT/EPL/TKA*RB/KWRE/KW-BG
 'he': HE
 'was': WAS
 'a': AEU
-'sculptor,': SKAO*UFP KW-BG
+'sculptor,': SKAO*UFP/KW-BG
 'while': WHAOEUL
 'I': EU
 'am': APL
 'only': OEPBL
 'a': AEU
-'carver.': KAFRB/ER TP-PL
+'carver.': KAFRB/ER/TP-PL
 'Holger': xxx Holger
 'Danske': xxx Danske
 'can': K
 'appear': A/PAOER
 'in': TPH
-'marble,': PHAERBL KW-BG
+'marble,': PHAERBL/KW-BG
 'so': SO
 'that': THA
 'people': PAOEPL
@@ -1560,7 +1560,7 @@ Holger Danske
 'the': -T
 'strength': STREPBG
 'of': -F
-'Denmark.': TKEPB/PHARBG TP-PL
+'Denmark.': TKEPB/PHARBG/TP-PL
 'Now': KPA/TPHOU
 'let': HRET
 'us': US
@@ -1568,7 +1568,7 @@ Holger Danske
 'the': -T
 'health': H*ELT
 'of': -F
-'Bertel."': xxx Bertel TP-PL KR-GS
+'Bertel."': xxx Bertel/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'little': HREUL
@@ -1581,27 +1581,27 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'of': -F
-'Kronenburg,': xxx Kronenburg KW-BG
+'Kronenburg,': xxx Kronenburg/KW-BG
 'and': SKP
 'the': -T
 'Sound': KPA/SOUPBD
 'of': -F
-'Elsinore,': xxx Elsinore KW-BG
+'Elsinore,': xxx Elsinore/KW-BG
 'and': SKP
 'Holger': xxx Holger
-'Danske,': xxx Danske KW-BG
+'Danske,': xxx Danske/KW-BG
 'far': TPAR
 'down': TKOUPB
 'in': TPH
 'the': -T
-'cellar,': SEL/AR KW-BG
+'cellar,': SEL/AR/KW-BG
 'with': W
 'his': HEUS
 'beard': PWAERD
 'rooted': RAOT/-D
 'to': TO
 'the': -T
-'table,': TAEUBL KW-BG
+'table,': TAEUBL/KW-BG
 'and': SKP
 'dreaming': TKRAOEPLG
 'of': -F
@@ -1610,7 +1610,7 @@ Holger Danske
 'was': WAS
 'passing': PAFG
 'above': PWOF
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'And': AFPBD
 'Holger': xxx Holger
 'Danske': xxx Danske
@@ -1624,34 +1624,34 @@ Holger Danske
 'in': TPH
 'which': WEU
 'the': -T
-'image-carver': EUPBLG H-PB KAFRB/ER
-'sat;': SAT STPH*FPLT
+'image-carver': EUPBLG/H-PB/KAFRB/ER
+'sat;': SAT/STPH*FPLT
 'he': HE
 'heard': HAERD
 'all': AUL
 'that': THA
 'had': H
 'been': PW-PB
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'and': SKP
 'he': HE
 'nodded': TPHOD/-D
 'in': TPH
 'his': HEUS
-'dream,': TKRAOEPL KW-BG
-'saying,': SAEUG KW-BG
-'"Ah,': KR-GS KPA/HA*E KW-BG
-'yes,': KWRE KW-BG
+'dream,': TKRAOEPL/KW-BG
+'saying,': SAEUG/KW-BG
+'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'yes,': KWRE/KW-BG
 'remember': RER
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'you': U
 'Danish': TKAEUPB/EURB
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'keep': KAOEP
 'me': PHE
 'in': TPH
 'your': KWROUR
-'memory,': PHOEURPL KW-BG
+'memory,': PHOEURPL/KW-BG
 'I': EU
 'will': HR
 'come': KOPL
@@ -1661,14 +1661,14 @@ Holger Danske
 'the': -T
 'hour': HOUR
 'of': -F
-'need."': TPHAOED TP-PL KR-GS
+'need."': TPHAOED/TP-PL/KR-GS
 'The': KPA/-T
 'bright': PWRAOEUT
 'morning': PHORPBG
 'light': HRAOEUT
 'shone': SHO*EPB
 'over': OEFR
-'Kronenburg,': xxx Kronenburg KW-BG
+'Kronenburg,': xxx Kronenburg/KW-BG
 'and': SKP
 'the': -T
 'wind': WEUPBD
@@ -1677,12 +1677,12 @@ Holger Danske
 'sound': SOUPBD
 'of': -F
 'the': -T
-'hunting-horn': HUPBT/-G H-PB HORPB
+'hunting-horn': HUPBT/-G/H-PB/HORPB
 'across': KRAOS
 'from': TPR
 'the': -T
 'neighboring': TPHAEUB/-G
-'shores.': SHORS TP-PL
+'shores.': SHORS/TP-PL
 'The': KPA/-T
 'ships': SHEUPS
 'sailed': SAEULD
@@ -1696,14 +1696,14 @@ Holger Danske
 'boom': PWAOPL
 'of': -F
 'the': -T
-'cannon,': KAPB/TPHOPB KW-BG
+'cannon,': KAPB/TPHOPB/KW-BG
 'and': SKP
 'Kronenburg': xxx Kronenburg
 'returned': RURPBD
 'the': -T
-'salute,': SA/HRAOUT KW-BG
-'"Boom,': KR-GS KPA/PWAOPL KW-BG
-'boom."': PWAOPL TP-PL KR-GS
+'salute,': SA/HRAOUT/KW-BG
+'"Boom,': KR-GS/KPA/PWAOPL/KW-BG
+'boom."': PWAOPL/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'roaring': RAORG
@@ -1712,16 +1712,16 @@ Holger Danske
 'not': TPHOT
 'awake': A/WAEUBG
 'Holger': xxx Holger
-'Danske,': xxx Danske KW-BG
+'Danske,': xxx Danske/KW-BG
 'for': TPOR
 'they': THE
 'meant': PHEPBT
 'only': OEPBL
-'"Good': KR-GS KPA/TKPWAOD
-'morning,"': PHORPBG KW-BG KR-GS
+'"Good': KR-GS/KPA/TKPWAOD
+'morning,"': PHORPBG/KW-BG/KR-GS
 'and': SKP
-'"Thank': KR-GS KPA/THAPBG
-'you."': U TP-PL KR-GS
+'"Thank': KR-GS/KPA/THAPBG
+'you."': U/TP-PL/KR-GS
 'They': KPA/THE
 'must': PHUFT
 'fire': TPAOEUR
@@ -1730,11 +1730,11 @@ Holger Danske
 'fashion': TPAGS
 'before': PW-FR
 'he': HE
-'awakes;': A/WAEUBG/-S STPH*FPLT
+'awakes;': A/WAEUBG/-S/STPH*FPLT
 'but': PWUT
 'wake': WAEUBG
 'he': HE
-'will,': HR KW-BG
+'will,': HR/KW-BG
 'for': TPOR
 'there': THR
 'is': S
@@ -1742,4 +1742,4 @@ Holger Danske
 'yet': KWRET
 'in': TPH
 'Holger': xxx Holger
-'Danske.': xxx Danske TP-PL
+'Danske.': xxx Danske/TP-PL

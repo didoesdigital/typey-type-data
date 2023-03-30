@@ -14,8 +14,8 @@ The Bald Man and the Fly
 'on': OPB
 'a': AEU
 'hot': HOT
-'summer's': SAOURPL AES
-'day.': TKAEU TP-PL
+'summer's': SAOURPL/AES
+'day.': TKAEU/TP-PL
 'a': AEU
 'Fly': KPA/TPHRAOEU
 'came': KAEUPL
@@ -26,14 +26,14 @@ The Bald Man and the Fly
 'about': PW
 'his': HEUS
 'bald': PWAULD
-'pate,': PAEUT KW-BG
+'pate,': PAEUT/KW-BG
 'and': SKP
 'stinging': STEUPBG/-G
 'him': HEUPL
 'from': TPR
 'time': TAOEUPL
 'to': TO
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'The': KPA/-T
 'Man': KPA/PHAPB
 'aimed': AEUPLD
@@ -42,21 +42,21 @@ The Bald Man and the Fly
 'at': AT
 'his': HEUS
 'little': HREUL
-'enemy,': TPHAEPL KW-BG
+'enemy,': TPHAEPL/KW-BG
 'but': PWUT
-'—whack—': EPL/TKA*RB WHABG EPL/TKA*RB
+'—whack—': EPL/TKA*RB/WHABG/EPL/TKA*RB
 'his': HEUS
 'palm': PAPL
 'came': KAEUPL
 'on': OPB
 'his': HEUS
 'head': HED
-'instead;': STPHED STPH*FPLT
+'instead;': STPHED/STPH*FPLT
 'again': TKPWEPB
 'the': -T
 'Fly': KPA/TPHRAOEU
 'tormented': TORPLTD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'this': TH
 'time': TAOEUPL
@@ -65,8 +65,8 @@ The Bald Man and the Fly
 'was': WAS
 'wiser': WAOEUZ/ER
 'and': SKP
-'said:': SED STPH-FPLT
-'"You': KR-GS KPA/U
+'said:': SED/STPH-FPLT
+'"You': KR-GS/KPA/U
 'will': HR
 'only': OEPBL
 'injure': SKWR-R
@@ -77,4 +77,4 @@ The Bald Man and the Fly
 'notice': TPH-TS
 'of': -F
 'despicable': TKE/SPEUBG/-BL
-'enemies."': TPHAEPLS TP-PL KR-GS
+'enemies."': TPHAEPLS/TP-PL/KR-GS

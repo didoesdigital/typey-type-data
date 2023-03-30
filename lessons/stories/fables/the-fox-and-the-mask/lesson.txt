@@ -9,10 +9,10 @@ The Fox and the Mask
 'got': TKPWOT
 'into': TPHAO
 'the': -T
-'store-room': STOR H-PB RAOPL
+'store-room': STOR/H-PB/RAOPL
 'of': -F
 'a': AEU
-'theatre.': THAO*ERT TP-PL
+'theatre.': THAO*ERT/TP-PL
 'Suddenly': KPA/SULD
 'he': HE
 'observed': OEBD
@@ -27,7 +27,7 @@ The Fox and the Mask
 'to': TO
 'be': -B
 'very': SRE
-'frightened;': TPRAOEUFPBD STPH*FPLT
+'frightened;': TPRAOEUFPBD/STPH*FPLT
 'but': PWUT
 'looking': HRAOG
 'more': PHOR
@@ -47,15 +47,15 @@ The Fox and the Mask
 'put': PUT
 'over': OEFR
 'their': THAEUR
-'face.': TPAEUS TP-PL
-'"Ah,"': KR-GS KPA/HA*E KW-BG KR-GS
+'face.': TPAEUS/TP-PL
+'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Fox,': KPA/TPOBGS KW-BG
-'"you': KR-GS U
+'Fox,': KPA/TPOBGS/KW-BG
+'"you': KR-GS/U
 'look': HRAOBG
 'very': SRE
-'fine;': TPAOEUPB STPH*FPLT
+'fine;': TPAOEUPB/STPH*FPLT
 'it': T
 'is': S
 'a': AEU
@@ -65,7 +65,7 @@ The Fox and the Mask
 'not': TPHOT
 'got': TKPWOT
 'any': TPHEU
-'brains."': PWRAEUPBS TP-PL KR-GS
+'brains."': PWRAEUPBS/TP-PL/KR-GS
 'Outside': KPA/OUDZ
 'show': SHOE
 'is': S
@@ -74,4 +74,4 @@ The Fox and the Mask
 'substitute': STUT
 'for': TPOR
 'inner': EURPB
-'worth.': WO*RT TP-PL
+'worth.': WO*RT/TP-PL

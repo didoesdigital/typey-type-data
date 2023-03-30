@@ -9,8 +9,8 @@ The Fox, the Cock, and the Dog
 'prowling': PROULG
 'about': PW
 'a': AEU
-'farmer's': TPAR/PHER AES
-'hen-coop,': HEPB H-PB KAOP KW-BG
+'farmer's': TPAR/PHER/AES
+'hen-coop,': HEPB/H-PB/KAOP/KW-BG
 'and': SKP
 'saw': SAU
 'a': AEU
@@ -20,34 +20,34 @@ The Fox, the Cock, and the Dog
 'up': UP
 'beyond': KWROPBD
 'his': HEUS
-'reach.': RAOEFP TP-PL
-'"Good': KR-GS KPA/TKPWAOD
-'news,': TPHUS KW-BG
+'reach.': RAOEFP/TP-PL
+'"Good': KR-GS/KPA/TKPWAOD
+'news,': TPHUS/KW-BG
 'good': TKPWAOD
-'news!"': TPHUS SKHRAPL KR-GS
+'news!"': TPHUS/SKHRAPL/KR-GS
 'he': HE
-'cried.': KRAOEUD TP-PL
-'"Why,': KR-GS KPA/KWR KW-BG
+'cried.': KRAOEUD/TP-PL
+'"Why,': KR-GS/KPA/KWR/KW-BG
 'what': WHA
 'is': S
-'that?"': THA H-F KR-GS
+'that?"': THA/H-F/KR-GS
 'said': SED
 'the': -T
-'Cock.': KPA/KOBG TP-PL
-'"King': KR-GS KO*EUPBG
+'Cock.': KPA/KOBG/TP-PL
+'"King': KR-GS/KO*EUPBG
 'Lion': KPA/HRO*EUPB
 'has': HAS
 'declared': TKE/KHRAEURD
 'a': AEU
 'universal': AOUFRL
-'truce.': TRAOUS TP-PL
+'truce.': TRAOUS/TP-PL
 'No': KPA/TPHO
 'beast': PWAOEFT
 'may': PHAE
 'hurt': HURT
 'a': AEU
 'bird': PWEURD
-'henceforth,': HEPBS/TPO*RT KW-BG
+'henceforth,': HEPBS/TPO*RT/KW-BG
 'but': PWUT
 'all': AUL
 'shall': SHAL
@@ -55,22 +55,22 @@ The Fox, the Cock, and the Dog
 'together': TOGT
 'in': TPH
 'brotherly': PWROERL
-'friendship."': TPREP TP-PL KR-GS
-'"Why,': KR-GS KPA/KWR KW-BG
+'friendship."': TPREP/TP-PL/KR-GS
+'"Why,': KR-GS/KPA/KWR/KW-BG
 'that': THA
 'is': S
 'good': TKPWAOD
-'news,"': TPHUS KW-BG KR-GS
+'news,"': TPHUS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Cock;': KPA/KOBG STPH*FPLT
-'"and': KR-GS SKP
+'Cock;': KPA/KOBG/STPH*FPLT
+'"and': KR-GS/SKP
 'there': THR
 'I': EU
 'see': SAOE
 'some': SOPL
 'one': WUPB
-'coming,': KO*G KW-BG
+'coming,': KO*G/KW-BG
 'with': W
 'whom': WHOPL
 'we': WE
@@ -78,7 +78,7 @@ The Fox, the Cock, and the Dog
 'share': SHAEUR
 'the': -T
 'good': TKPWAOD
-'tidings."': TAOEUD/-G/-S TP-PL KR-GS
+'tidings."': TAOEUD/-G/-S/TP-PL/KR-GS
 'And': AFPBD
 'so': SO
 'saying': SAEUG
@@ -90,32 +90,32 @@ The Fox, the Cock, and the Dog
 'and': SKP
 'looked': HRAOBGD
 'afar': A/TPAR
-'off.': OF TP-PL
-'"What': KR-GS KPA/WHA
+'off.': OF/TP-PL
+'"What': KR-GS/KPA/WHA
 'is': S
 'it': T
 'you': U
-'see?"': SAOE H-F KR-GS
+'see?"': SAOE/H-F/KR-GS
 'said': SED
 'the': -T
-'Fox.': KPA/TPOBGS TP-PL
-'"It': KR-GS KPA/T
+'Fox.': KPA/TPOBGS/TP-PL
+'"It': KR-GS/KPA/T
 'is': S
 'only': OEPBL
 'my': PHEU
-'master's': PHAFRT AES
+'master's': PHAFRT/AES
 'Dog': KPA/TKOG
 'that': THA
 'is': S
 'coming': KO*G
 'towards': TORDZ
-'us.': US TP-PL
-'What,': KPA/WHA KW-BG
+'us.': US/TP-PL
+'What,': KPA/WHA/KW-BG
 'going': TKPW-G
 'so': SO
-'soon?"': SAOPB H-F KR-GS
+'soon?"': SAOPB/H-F/KR-GS
 'he': HE
-'continued,': T-PBD KW-BG
+'continued,': T-PBD/KW-BG
 'as': AS
 'the': -T
 'Fox': KPA/TPOBGS
@@ -130,8 +130,8 @@ The Fox, the Cock, and the Dog
 'had': H
 'heard': HAERD
 'the': -T
-'news.': TPHUS TP-PL
-'"Will': KR-GS W*EUL
+'news.': TPHUS/TP-PL
+'"Will': KR-GS/W*EUL
 'you': U
 'not': TPHOT
 'stop': STOP
@@ -144,16 +144,16 @@ The Fox, the Cock, and the Dog
 'reign': RAEPB
 'of': -F
 'universal': AOUFRL
-'peace?"': PAES H-F KR-GS
-'"I': KR-GS EU
+'peace?"': PAES/H-F/KR-GS
+'"I': KR-GS/EU
 'would': WO
 'gladly': TKPWHRAD/HREU
 'do': TKO
-'so,"': SO KW-BG KR-GS
+'so,"': SO/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Fox,': KPA/TPOBGS KW-BG
-'"but': KR-GS PWUT
+'Fox,': KPA/TPOBGS/KW-BG
+'"but': KR-GS/PWUT
 'I': EU
 'fear': TPAOER
 'he': HE
@@ -163,9 +163,9 @@ The Fox, the Cock, and the Dog
 'heard': HAERD
 'of': -F
 'King': KO*EUPBG
-'Lion's': KPA/HRO*EUPB AES
-'decree."': TKE/KRAOE TP-PL KR-GS
+'Lion's': KPA/HRO*EUPB/AES
+'decree."': TKE/KRAOE/TP-PL/KR-GS
 'Cunning': KPA/KUPBG
 'often': OFPB
 'outwits': AOUT/WEUT/-S
-'itself.': T/SEFL TP-PL
+'itself.': T/SEFL/TP-PL

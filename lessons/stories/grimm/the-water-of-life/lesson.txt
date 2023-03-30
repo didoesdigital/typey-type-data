@@ -6,35 +6,35 @@ The Water of Life
 'or': OR
 'I': EU
 'were': WR
-'born,': PWORPB KW-BG
+'born,': PWORPB/KW-BG
 'there': THR
-'reigned,': RAEPB/-D KW-BG
+'reigned,': RAEPB/-D/KW-BG
 'in': TPH
 'a': AEU
 'country': KREU
 'a': AEU
 'great': TKPWRAET
 'way': WAEU
-'off,': OF KW-BG
+'off,': OF/KW-BG
 'a': AEU
 'king': KEUPBG
 'who': WHO
 'had': H
 'three': THRAOE
-'sons.': SOPBS TP-PL
+'sons.': SOPBS/TP-PL
 'This': KPA/TH
 'king': KEUPBG
 'once': WUPBS
 'fell': TPEL
 'very': SRE
-'ill--so': EUL H-PB H-PB SO
+'ill--so': EUL/H-PB/H-PB/SO
 'ill': EUL
 'that': THA
 'nobody': TPHOEB
 'thought': THAUT
 'he': HE
 'could': KO
-'live.': HREUF TP-PL
+'live.': HREUF/TP-PL
 'His': KPA/HEUS
 'sons': SOPBS
 'were': WR
@@ -44,7 +44,7 @@ The Water of Life
 'at': AT
 'their': THAEUR
 'father's': TPAER/AES
-'sickness;': SEUBG/-PBS STPH*FPLT
+'sickness;': SEUBG/-PBS/STPH*FPLT
 'and': SKP
 'as': AS
 'they': THE
@@ -58,7 +58,7 @@ The Water of Life
 'garden': TKPWA*RPB
 'of': -F
 'the': -T
-'palace,': PAL/AS KW-BG
+'palace,': PAL/AS/KW-BG
 'a': AEU
 'little': HREUL
 'old': OLD
@@ -70,7 +70,7 @@ The Water of Life
 'what': WHA
 'was': WAS
 'the': -T
-'matter.': PHAERT TP-PL
+'matter.': PHAERT/TP-PL
 'They': KPA/THE
 'told': TOLD
 'him': HEUPL
@@ -79,7 +79,7 @@ The Water of Life
 'father': TPAER
 'was': WAS
 'very': SRE
-'ill,': EUL KW-BG
+'ill,': EUL/KW-BG
 'and': SKP
 'that': THA
 'they': THE
@@ -88,22 +88,22 @@ The Water of Life
 'nothing': TPHOG
 'could': KO
 'save': SAF
-'him.': HEUPL TP-PL
-''I': AE EU
+'him.': HEUPL/TP-PL
+''I': AE/EU
 'know': TPHOE
 'what': WHA
-'would,'': WO KW-BG AE
+'would,'': WO/KW-BG/AE
 'said': SED
 'the': -T
 'little': HREUL
 'old': OLD
-'man;': PHAPB STPH*FPLT
-''it': AE T
+'man;': PHAPB/STPH*FPLT
+''it': AE/T
 'is': S
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life.': KPA/HRAOEUF TP-PL
+'Life.': KPA/HRAOEUF/TP-PL
 'If': KPA/TP
 'he': HE
 'could': KO
@@ -116,31 +116,31 @@ The Water of Life
 'would': WO
 'be': -B
 'well': WEL
-'again;': TKPWEPB STPH*FPLT
+'again;': TKPWEPB/STPH*FPLT
 'but': PWUT
 'it': T
 'is': S
 'very': SRE
 'hard': HARD
 'to': TO
-'get.'': TKPWET TP-PL AE
+'get.'': TKPWET/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'eldest': ELD/EFT
 'son': SOPB
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'will': HR
 'soon': SAOPB
 'find': TPAOEUPBD
-'it':': T AE STPH-FPLT
+'it':': T/AE/STPH-FPLT
 'and': SKP
 'he': HE
 'went': WEPBT
 'to': TO
 'the': -T
 'sick': SEUBG
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'and': SKP
 'begged': PWEGD
 'that': THA
@@ -153,7 +153,7 @@ The Water of Life
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life,': KPA/HRAOEUF KW-BG
+'Life,': KPA/HRAOEUF/KW-BG
 'as': AS
 'it': T
 'was': WAS
@@ -163,12 +163,12 @@ The Water of Life
 'that': THA
 'could': KO
 'save': SAF
-'him.': HEUPL TP-PL
-''No,'': AE KPA/TPHO KW-BG AE
+'him.': HEUPL/TP-PL
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'said': SED
 'the': -T
-'king.': KEUPBG TP-PL
-''I': AE EU
+'king.': KEUPBG/TP-PL
+''I': AE/EU
 'had': H
 'rather': RAER
 'die': TKAOEU
@@ -186,7 +186,7 @@ The Water of Life
 'with': W
 'in': TPH
 'your': KWROUR
-'journey.'': SKWRURPB TP-PL AE
+'journey.'': SKWRURPB/TP-PL/AE
 'But': KPA/PWUT
 'he': HE
 'begged': PWEGD
@@ -197,20 +197,20 @@ The Water of Life
 'king': KEUPBG
 'let': HRET
 'him': HEUPL
-'go;': TKPW STPH*FPLT
+'go;': TKPW/STPH*FPLT
 'and': SKP
 'the': -T
 'prince': PREUPBS
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''If': AE KPA/TP
+'himself,': HEUPLS/KW-BG
+''If': AE/KPA/TP
 'I': EU
 'bring': PWREU
 'my': PHEU
 'father': TPAER
 'this': TH
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'he': HE
 'will': HR
 'make': PHAEUBG
@@ -219,11 +219,11 @@ The Water of Life
 'heir': A*EUR
 'to': TO
 'his': HEUS
-'kingdom.'': KEUPBG/TKOPL TP-PL AE
+'kingdom.'': KEUPBG/TKOPL/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'set': SET
-'out:': OUT STPH-FPLT
+'out:': OUT/STPH-FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -239,17 +239,17 @@ The Water of Life
 'to': TO
 'a': AEU
 'deep': TKAOEP
-'valley,': SRAL/KWREU KW-BG
+'valley,': SRAL/KWREU/KW-BG
 'overhung': AUFR/HUPBG
 'with': W
 'rocks': ROBGS
 'and': SKP
-'woods;': WAODZ STPH*FPLT
+'woods;': WAODZ/STPH*FPLT
 'and': SKP
 'as': AS
 'he': HE
 'looked': HRAOBGD
-'around,': ARPBD KW-BG
+'around,': ARPBD/KW-BG
 'he': HE
 'saw': SAU
 'standing': STAPBG
@@ -263,7 +263,7 @@ The Water of Life
 'a': AEU
 'little': HREUL
 'ugly': ULG
-'dwarf,': TKWAFR KW-BG
+'dwarf,': TKWAFR/KW-BG
 'with': W
 'a': AEU
 'sugarloaf': xxx sugarloaf
@@ -271,7 +271,7 @@ The Water of Life
 'and': SKP
 'a': AEU
 'scarlet': SKARLT
-'cloak;': KHROEBG STPH*FPLT
+'cloak;': KHROEBG/STPH*FPLT
 'and': SKP
 'the': -T
 'dwarf': TKWAFR
@@ -279,26 +279,26 @@ The Water of Life
 'to': TO
 'him': HEUPL
 'and': SKP
-'said,': SED KW-BG
-''Prince,': AE PR*EUPBS KW-BG
+'said,': SED/KW-BG
+''Prince,': AE/PR*EUPBS/KW-BG
 'whither': WHEU/THER
 'so': SO
-'fast?'': TPAFT H-F AE
-''What': AE KPA/WHA
+'fast?'': TPAFT/H-F/AE
+''What': AE/KPA/WHA
 'is': S
 'that': THA
 'to': TO
-'thee,': THAOE KW-BG
+'thee,': THAOE/KW-BG
 'you': U
 'ugly': ULG
-'imp?'': EUFRP H-F AE
+'imp?'': EUFRP/H-F/AE
 'said': SED
 'the': -T
 'prince': PREUPBS
-'haughtily,': HAUT/HREU KW-BG
+'haughtily,': HAUT/HREU/KW-BG
 'and': SKP
 'rode': ROED
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'dwarf': TKWAFR
@@ -306,16 +306,16 @@ The Water of Life
 'enraged': EPB/RAEUPBLGD
 'at': AT
 'his': HEUS
-'behaviour,': PWAEUFR/A*U KW-BG
+'behaviour,': PWAEUFR/A*U/KW-BG
 'and': SKP
 'laid': HRAEUD
 'a': AEU
 'fairy': TPAEUR/REU
 'spell': SPEL
 'of': -F
-'ill-luck': EUL H-PB HRUBG
+'ill-luck': EUL/H-PB/HRUBG
 'upon': POPB
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'so': SO
 'that': THA
 'as': AS
@@ -328,7 +328,7 @@ The Water of Life
 'became': PWAEUPL
 'narrower': TPHAR/OE/ER
 'and': SKP
-'narrower,': TPHAR/OE/ER KW-BG
+'narrower,': TPHAR/OE/ER/KW-BG
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -344,7 +344,7 @@ The Water of Life
 'go': TKPW
 'to': TO
 'step': STEP
-'forward:': TPAORD STPH-FPLT
+'forward:': TPAORD/STPH-FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -361,7 +361,7 @@ The Water of Life
 'the': -T
 'way': WAEU
 'he': HE
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'he': HE
 'heard': HAERD
 'a': AEU
@@ -369,7 +369,7 @@ The Water of Life
 'laugh': HRAF
 'ringing': REUPBG/-G
 'round': ROUPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'found': TPOUPBD
 'that': THA
@@ -378,7 +378,7 @@ The Water of Life
 'was': WAS
 'closed': KHROEFD
 'behind': HEUPBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -386,7 +386,7 @@ The Water of Life
 'shut': SHUT
 'in': TPH
 'all': AUL
-'round.': ROUPBD TP-PL
+'round.': ROUPBD/TP-PL
 'He': KPA/HE
 'next': TPHEGT
 'tried': TRAOEUD
@@ -400,7 +400,7 @@ The Water of Life
 'his': HEUS
 'way': WAEU
 'on': OPB
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'but': PWUT
 'again': TKPWEPB
 'the': -T
@@ -408,7 +408,7 @@ The Water of Life
 'rang': RAPBG
 'in': TPH
 'his': HEUS
-'ears,': AOERS KW-BG
+'ears,': AOERS/KW-BG
 'and': SKP
 'he': HE
 'found': TPOUPBD
@@ -417,7 +417,7 @@ The Water of Life
 'to': TO
 'move': PHOF
 'a': AEU
-'step,': STEP KW-BG
+'step,': STEP/KW-BG
 'and': SKP
 'thus': THUS
 'he': HE
@@ -425,7 +425,7 @@ The Water of Life
 'forced': TPOFRD
 'to': TO
 'abide': A/PWAOEUD
-'spellbound.': SPEL/PWOUPBD TP-PL
+'spellbound.': SPEL/PWOUPBD/TP-PL
 'Meantime': KPA/PHAOEPB/TAO*EUPL
 'the': -T
 'old': OLD
@@ -438,16 +438,16 @@ The Water of Life
 'hope': HOEP
 'of': -F
 'his': HEUS
-'son's': SOPB AES
-'return,': RURPB KW-BG
+'son's': SOPB/AES
+'return,': RURPB/KW-BG
 'till': TEUL
 'at': AT
 'last': HRAFT
 'the': -T
 'second': SEBGD
 'son': SOPB
-'said,': SED KW-BG
-''Father,': AE KPA/TPAER KW-BG
+'said,': SED/KW-BG
+''Father,': AE/KPA/TPAER/KW-BG
 'I': EU
 'will': HR
 'go': TKPW
@@ -457,17 +457,17 @@ The Water of Life
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life.'': KPA/HRAOEUF TP-PL AE
+'Life.'': KPA/HRAOEUF/TP-PL/AE
 'For': KPA/TPOR
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''My': AE KPA/PHEU
+'himself,': HEUPLS/KW-BG
+''My': AE/KPA/PHEU
 'brother': PWROER
 'is': S
 'surely': SHURL
-'dead,': TKED KW-BG
+'dead,': TKED/KW-BG
 'and': SKP
 'the': -T
 'kingdom': KEUPBG/TKOPL
@@ -479,7 +479,7 @@ The Water of Life
 'I': EU
 'find': TPAOEUPBD
 'the': -T
-'water.'': WAUR TP-PL AE
+'water.'': WAUR/TP-PL/AE
 'The': KPA/-T
 'king': KEUPBG
 'was': WAS
@@ -497,7 +497,7 @@ The Water of Life
 'yielded': KWRAOELD/-D
 'to': TO
 'his': HEUS
-'wish.': WEURB TP-PL
+'wish.': WEURB/TP-PL
 'So': KPA/SO
 'he': HE
 'set': SET
@@ -511,13 +511,13 @@ The Water of Life
 'his': HEUS
 'brother': PWROER
 'had': H
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'met': PHET
 'with': W
 'the': -T
 'same': SAEUPL
-'elf,': *EFL KW-BG
+'elf,': *EFL/KW-BG
 'who': WHO
 'stopped': STOPD
 'him': HEUPL
@@ -527,27 +527,27 @@ The Water of Life
 'spot': SPOT
 'in': TPH
 'the': -T
-'mountains,': PHOUPB/TAEUPBS KW-BG
-'saying,': SAEUG KW-BG
+'mountains,': PHOUPB/TAEUPBS/KW-BG
+'saying,': SAEUG/KW-BG
 'as': AS
-'before,': PW-FR KW-BG
-''Prince,': AE PR*EUPBS KW-BG
-'prince,': PREUPBS KW-BG
+'before,': PW-FR/KW-BG
+''Prince,': AE/PR*EUPBS/KW-BG
+'prince,': PREUPBS/KW-BG
 'whither': WHEU/THER
 'so': SO
-'fast?'': TPAFT H-F AE
-''Mind': AE KPA/PHAOEUPBD
+'fast?'': TPAFT/H-F/AE
+''Mind': AE/KPA/PHAOEUPBD
 'your': KWROUR
 'own': OEPB
-'affairs,': A/TPAEURS KW-BG
-'busybody!'': xxx busybody SKHRAPL AE
+'affairs,': A/TPAEURS/KW-BG
+'busybody!'': xxx busybody/SKHRAPL/AE
 'said': SED
 'the': -T
 'prince': PREUPBS
-'scornfully,': SKORPB/TPHREU KW-BG
+'scornfully,': SKORPB/TPHREU/KW-BG
 'and': SKP
 'rode': ROED
-'on.': OPB TP-PL
+'on.': OPB/TP-PL
 'But': KPA/PWUT
 'the': -T
 'dwarf': TKWAFR
@@ -563,10 +563,10 @@ The Water of Life
 'on': OPB
 'his': HEUS
 'elder': ELD/ER
-'brother,': PWROER KW-BG
+'brother,': PWROER/KW-BG
 'and': SKP
-'he,': HE KW-BG
-'too,': TAO KW-BG
+'he,': HE/KW-BG
+'too,': TAO/KW-BG
 'was': WAS
 'at': AT
 'last': HRAFT
@@ -581,20 +581,20 @@ The Water of Life
 'heart': HART
 'of': -F
 'the': -T
-'mountains.': PHOUPB/TAEUPBS TP-PL
+'mountains.': PHOUPB/TAEUPBS/TP-PL
 'Thus': KPA/THUS
 'it': T
 'is': S
 'with': W
 'proud': PROUD
 'silly': SHREU
-'people,': PAOEPL KW-BG
+'people,': PAOEPL/KW-BG
 'who': WHO
 'think': THEU
 'themselves': TH*EPLS
 'above': PWOF
 'everyone': EFRPB
-'else,': ELS KW-BG
+'else,': ELS/KW-BG
 'and': SKP
 'are': R
 'too': TAO
@@ -603,7 +603,7 @@ The Water of Life
 'ask': SK
 'or': OR
 'take': TAEUBG
-'advice.': SREUS TP-PL
+'advice.': SREUS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'second': SEBGD
@@ -614,7 +614,7 @@ The Water of Life
 'gone': TKPWOPB
 'a': AEU
 'long': HROPBG
-'time,': TAOEUPL KW-BG
+'time,': TAOEUPL/KW-BG
 'the': -T
 'youngest': KWRUPBG/EFT
 'son': SOPB
@@ -628,7 +628,7 @@ The Water of Life
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life,': KPA/HRAOEUF KW-BG
+'Life,': KPA/HRAOEUF/KW-BG
 'and': SKP
 'trusted': TRUFTD
 'he': HE
@@ -641,11 +641,11 @@ The Water of Life
 'his': HEUS
 'father': TPAER
 'well': WEL
-'again.': TKPWEPB TP-PL
+'again.': TKPWEPB/TP-PL
 'So': KPA/SO
 'he': HE
 'set': SET
-'out,': OUT KW-BG
+'out,': OUT/KW-BG
 'and': SKP
 'the': -T
 'dwarf': TKWAFR
@@ -658,21 +658,21 @@ The Water of Life
 'spot': SPOT
 'in': TPH
 'the': -T
-'valley,': SRAL/KWREU KW-BG
+'valley,': SRAL/KWREU/KW-BG
 'among': PHOPBG
 'the': -T
-'mountains,': PHOUPB/TAEUPBS KW-BG
+'mountains,': PHOUPB/TAEUPBS/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Prince,': AE PR*EUPBS KW-BG
+'said,': SED/KW-BG
+''Prince,': AE/PR*EUPBS/KW-BG
 'whither': WHEU/THER
 'so': SO
-'fast?'': TPAFT H-F AE
+'fast?'': TPAFT/H-F/AE
 'And': AFPBD
 'the': -T
 'prince': PREUPBS
-'said,': SED KW-BG
-''I': AE EU
+'said,': SED/KW-BG
+''I': AE/EU
 'am': APL
 'going': TKPW-G
 'in': TPH
@@ -681,30 +681,30 @@ The Water of Life
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life,': KPA/HRAOEUF KW-BG
+'Life,': KPA/HRAOEUF/KW-BG
 'because': PWAU
 'my': PHEU
 'father': TPAER
 'is': S
-'ill,': EUL KW-BG
+'ill,': EUL/KW-BG
 'and': SKP
 'like': HRAOEUBG
 'to': TO
-'die:': TKAOEU STPH-FPLT
+'die:': TKAOEU/STPH-FPLT
 'can': K
 'you': U
 'help': HEP
-'me?': PHE H-F
+'me?': PHE/H-F
 'Pray': KPA/PRAEU
 'be': -B
-'kind,': KEUPBD KW-BG
+'kind,': KEUPBD/KW-BG
 'and': SKP
 'aid': AEUD
 'me': PHE
 'if': TP
 'you': U
-'can!'': K SKHRAPL AE
-''Do': AE KPA/TKO
+'can!'': K/SKHRAPL/AE
+''Do': AE/KPA/TKO
 'you': U
 'know': TPHOE
 'where': W-R
@@ -712,31 +712,31 @@ The Water of Life
 'is': S
 'to': TO
 'be': -B
-'found?'': TPOUPBD H-F AE
+'found?'': TPOUPBD/H-F/AE
 'asked': SK-D
 'the': -T
-'dwarf.': TKWAFR TP-PL
-''No,'': AE KPA/TPHO KW-BG AE
+'dwarf.': TKWAFR/TP-PL
+''No,'': AE/KPA/TPHO/KW-BG/AE
 'said': SED
 'the': -T
-'prince,': PREUPBS KW-BG
-''I': AE EU
+'prince,': PREUPBS/KW-BG
+''I': AE/EU
 'do': TKO
-'not.': TPHOT TP-PL
+'not.': TPHOT/TP-PL
 'Pray': KPA/PRAEU
 'tell': TEL
 'me': PHE
 'if': TP
 'you': U
-'know.'': TPHOE TP-PL AE
-''Then': AE KPA/THEPB
+'know.'': TPHOE/TP-PL/AE
+''Then': AE/KPA/THEPB
 'as': AS
 'you': U
 'have': SR
 'spoken': SPOEPB
 'to': TO
 'me': PHE
-'kindly,': KAOEUPBD/HREU KW-BG
+'kindly,': KAOEUPBD/HREU/KW-BG
 'and': SKP
 'are': R
 'wise': WAOEUS
@@ -744,7 +744,7 @@ The Water of Life
 'to': TO
 'seek': SAOEBG
 'for': TPOR
-'advice,': SREUS KW-BG
+'advice,': SREUS/KW-BG
 'I': EU
 'will': HR
 'tell': TEL
@@ -753,7 +753,7 @@ The Water of Life
 'and': SKP
 'where': W-R
 'to': TO
-'go.': TKPW TP-PL
+'go.': TKPW/TP-PL
 'The': KPA/-T
 'water': WAUR
 'you': U
@@ -765,8 +765,8 @@ The Water of Life
 'in': TPH
 'an': APB
 'enchanted': EPB/KHAPBT/-D
-'castle;': KAFL STPH*FPLT
-'and,': SKP KW-BG
+'castle;': KAFL/STPH*FPLT
+'and,': SKP/KW-BG
 'that': THA
 'you': U
 'may': PHAE
@@ -776,7 +776,7 @@ The Water of Life
 'reach': RAOEFP
 'it': T
 'in': TPH
-'safety,': SAEFT KW-BG
+'safety,': SAEFT/KW-BG
 'I': EU
 'will': HR
 'give': TKPWEUF
@@ -789,7 +789,7 @@ The Water of Life
 'little': HREUL
 'loaves': HROEFS
 'of': -F
-'bread;': PWRAED STPH*FPLT
+'bread;': PWRAED/STPH*FPLT
 'strike': STRAOEUBG
 'the': -T
 'iron': AOEURPB
@@ -801,11 +801,11 @@ The Water of Life
 'times': TAOEUPLS
 'with': W
 'the': -T
-'wand,': WAPBD KW-BG
+'wand,': WAPBD/KW-BG
 'and': SKP
 'it': T
 'will': HR
-'open:': OEP STPH-FPLT
+'open:': OEP/STPH-FPLT
 'two': TWO
 'hungry': HUPBG/REU
 'lions': HRAOEU/O*PBS
@@ -817,7 +817,7 @@ The Water of Life
 'gaping': TKPWAEUP/-G
 'for': TPOR
 'their': THAEUR
-'prey,': PRA*EU KW-BG
+'prey,': PRA*EU/KW-BG
 'but': PWUT
 'if': TP
 'you': U
@@ -829,13 +829,13 @@ The Water of Life
 'will': HR
 'let': HRET
 'you': U
-'pass;': PAS STPH*FPLT
+'pass;': PAS/STPH*FPLT
 'then': THEPB
 'hasten': HAEUS/-PB
 'on': OPB
 'to': TO
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'and': SKP
 'take': TAEUBG
 'some': SOPL
@@ -848,7 +848,7 @@ The Water of Life
 'the': -T
 'clock': KHROBG
 'strikes': STRAOEUBGS
-'twelve;': TWEFL STPH*FPLT
+'twelve;': TWEFL/STPH*FPLT
 'for': TPOR
 'if': TP
 'you': U
@@ -861,7 +861,7 @@ The Water of Life
 'upon': POPB
 'you': U
 'for': TPOR
-'ever.'': -FR TP-PL AE
+'ever.'': -FR/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'prince': PREUPBS
@@ -876,32 +876,32 @@ The Water of Life
 'for': TPOR
 'his': HEUS
 'friendly': TPREPBLD
-'aid,': AEUD KW-BG
+'aid,': AEUD/KW-BG
 'and': SKP
 'took': TAOBG
 'the': -T
 'wand': WAPBD
 'and': SKP
 'the': -T
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'and': SKP
 'went': WEPBT
 'travelling': TRAFL/HREUPBG
 'on': OPB
 'and': SKP
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'over': OEFR
 'sea': SAE
 'and': SKP
 'over': OEFR
-'land,': HRAPBD KW-BG
+'land,': HRAPBD/KW-BG
 'till': TEUL
 'he': HE
 'came': KAEUPL
 'to': TO
 'his': HEUS
-'journey's': SKWRURPB AES
-'end,': EPBD KW-BG
+'journey's': SKWRURPB/AES
+'end,': EPBD/KW-BG
 'and': SKP
 'found': TPOUPBD
 'everything': EFRG
@@ -912,7 +912,7 @@ The Water of Life
 'dwarf': TKWAFR
 'had': H
 'told': TOLD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'The': KPA/-T
 'door': TKAOR
 'flew': TPHRAOU
@@ -923,7 +923,7 @@ The Water of Life
 'stroke': STROBG
 'of': -F
 'the': -T
-'wand,': WAPBD KW-BG
+'wand,': WAPBD/KW-BG
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -943,7 +943,7 @@ The Water of Life
 'to': TO
 'a': AEU
 'beautiful': PWAOUFL
-'hall.': HAUL TP-PL
+'hall.': HAUL/TP-PL
 'Around': KPA/ARPBD
 'it': T
 'he': HE
@@ -953,7 +953,7 @@ The Water of Life
 'sitting': SEUGT
 'in': TPH
 'a': AEU
-'trance;': T*/R*/A*/TPH*/KR*/*E STPH*FPLT
+'trance;': T*/R*/A*/TPH*/KR*/*E/STPH*FPLT
 'then': THEPB
 'he': HE
 'pulled': PULD
@@ -966,7 +966,7 @@ The Water of Life
 'on': OPB
 'his': HEUS
 'own': OEPB
-'fingers.': TPEURPBGS TP-PL
+'fingers.': TPEURPBGS/TP-PL
 'In': KPA/TPH
 'another': TPHOER
 'room': RAOPL
@@ -981,11 +981,11 @@ The Water of Life
 'a': AEU
 'loaf': HROEF
 'of': -F
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'which': WEU
 'he': HE
 'also': HR-S
-'took.': TAOBG TP-PL
+'took.': TAOBG/TP-PL
 'Further': KPA/TPURT
 'on': OPB
 'he': HE
@@ -1001,14 +1001,14 @@ The Water of Life
 'sat': SAT
 'upon': POPB
 'a': AEU
-'couch;': KOUFP STPH*FPLT
+'couch;': KOUFP/STPH*FPLT
 'and': SKP
 'she': SHE
 'welcomed': W-BGD
 'him': HEUPL
-'joyfully,': SKWROEUFL/HREU KW-BG
+'joyfully,': SKWROEUFL/HREU/KW-BG
 'and': SKP
-'said,': SED KW-BG
+'said,': SED/KW-BG
 'if': TP
 'he': HE
 'would': WO
@@ -1020,12 +1020,12 @@ The Water of Life
 'spell': SPEL
 'that': THA
 'bound': PWOUPBD
-'her,': HER KW-BG
+'her,': HER/KW-BG
 'the': -T
 'kingdom': KEUPBG/TKOPL
 'should': SHO
 'be': -B
-'his,': HEUS KW-BG
+'his,': HEUS/KW-BG
 'if': TP
 'he': HE
 'would': WO
@@ -1036,7 +1036,7 @@ The Water of Life
 'year': KWRAOER
 'and': SKP
 'marry': PHAER
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'Then': KPA/THEPB
 'she': SHE
 'told': TOLD
@@ -1054,12 +1054,12 @@ The Water of Life
 'in': TPH
 'the': -T
 'palace': PAL/AS
-'gardens;': TKPWARD/-PBS STPH*FPLT
+'gardens;': TKPWARD/-PBS/STPH*FPLT
 'and': SKP
 'bade': PWAEUD
 'him': HEUPL
 'make': PHAEUBG
-'haste,': HAEUFT KW-BG
+'haste,': HAEUFT/KW-BG
 'and': SKP
 'draw': TKRAU
 'what': WHA
@@ -1069,10 +1069,10 @@ The Water of Life
 'the': -T
 'clock': KHROBG
 'struck': STRUBG
-'twelve.': TWEFL TP-PL
+'twelve.': TWEFL/TP-PL
 'He': KPA/HE
 'walked': WAUBGD
-'on;': OPB STPH*FPLT
+'on;': OPB/STPH*FPLT
 'and': SKP
 'as': AS
 'he': HE
@@ -1091,16 +1091,16 @@ The Water of Life
 'which': WEU
 'stood': STAOD
 'a': AEU
-'couch;': KOUFP STPH*FPLT
+'couch;': KOUFP/STPH*FPLT
 'and': SKP
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
+'himself,': HEUPLS/KW-BG
 'as': AS
 'he': HE
 'felt': TPELT
-'tired,': TAOEURD KW-BG
+'tired,': TAOEURD/KW-BG
 'that': THA
 'he': HE
 'would': WO
@@ -1108,7 +1108,7 @@ The Water of Life
 'himself': HEUPLS
 'for': TPOR
 'a': AEU
-'while,': WHAOEUL KW-BG
+'while,': WHAOEUL/KW-BG
 'and': SKP
 'gaze': TKPWAEZ
 'on': OPB
@@ -1116,18 +1116,18 @@ The Water of Life
 'lovely': HROFL
 'scenes': SAOEPBS
 'around': ARPBD
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'So': KPA/SO
 'he': HE
 'laid': HRAEUD
 'himself': HEUPLS
-'down,': TKOUPB KW-BG
+'down,': TKOUPB/KW-BG
 'and': SKP
 'sleep': SHRAOEP
 'fell': TPEL
 'upon': POPB
 'him': HEUPL
-'unawares,': AUPB/WAOEUR/-S KW-BG
+'unawares,': AUPB/WAOEUR/-S/KW-BG
 'so': SO
 'that': THA
 'he': HE
@@ -1143,7 +1143,7 @@ The Water of Life
 'a': AEU
 'quarter': KWAR/TER
 'to': TO
-'twelve.': TWEFL TP-PL
+'twelve.': TWEFL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'sprang': SPRAPBG
@@ -1151,11 +1151,11 @@ The Water of Life
 'the': -T
 'couch': KOUFP
 'dreadfully': TKRED/TPHREU
-'frightened,': TPRAOEUFPBD KW-BG
+'frightened,': TPRAOEUFPBD/KW-BG
 'ran': RAPB
 'to': TO
 'the': -T
-'well,': WEL KW-BG
+'well,': WEL/KW-BG
 'filled': TPEULD
 'a': AEU
 'cup': KUP
@@ -1166,14 +1166,14 @@ The Water of Life
 'him': HEUPL
 'full': TPUL
 'of': -F
-'water,': WAUR KW-BG
+'water,': WAUR/KW-BG
 'and': SKP
 'hastened': HAEUS/-PBD
 'to': TO
 'get': TKPWET
 'away': WA*EU
 'in': TPH
-'time.': TAOEUPL TP-PL
+'time.': TAOEUPL/TP-PL
 'Just': KPA/SKWRUFT
 'as': AS
 'he': HE
@@ -1186,7 +1186,7 @@ The Water of Life
 'door': TKAOR
 'it': T
 'struck': STRUBG
-'twelve,': TWEFL KW-BG
+'twelve,': TWEFL/KW-BG
 'and': SKP
 'the': -T
 'door': TKAOR
@@ -1203,12 +1203,12 @@ The Water of Life
 'piece': PAOES
 'of': -F
 'his': HEUS
-'heel.': HAOEL TP-PL
+'heel.': HAOEL/TP-PL
 'When': KPA/WHEPB
 'he': HE
 'found': TPOUPBD
 'himself': HEUPLS
-'safe,': SAEUF KW-BG
+'safe,': SAEUF/KW-BG
 'he': HE
 'was': WAS
 'overjoyed': AUFR/SKWROEUD
@@ -1221,7 +1221,7 @@ The Water of Life
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life;': KPA/HRAOEUF STPH*FPLT
+'Life;': KPA/HRAOEUF/STPH*FPLT
 'and': SKP
 'as': AS
 'he': HE
@@ -1230,14 +1230,14 @@ The Water of Life
 'on': OPB
 'his': HEUS
 'way': WAEU
-'homewards,': HOEPL/WARDZ KW-BG
+'homewards,': HOEPL/WARDZ/KW-BG
 'he': HE
 'passed': PAFD
 'by': PWEU
 'the': -T
 'little': HREUL
-'dwarf,': TKWAFR KW-BG
-'who,': WHO KW-BG
+'dwarf,': TKWAFR/KW-BG
+'who,': WHO/KW-BG
 'when': WHEPB
 'he': HE
 'saw': SAU
@@ -1245,14 +1245,14 @@ The Water of Life
 'sword': SOERD
 'and': SKP
 'the': -T
-'loaf,': HROEF KW-BG
-'said,': SED KW-BG
-''You': AE KPA/U
+'loaf,': HROEF/KW-BG
+'said,': SED/KW-BG
+''You': AE/KPA/U
 'have': SR
 'made': PHAED
 'a': AEU
 'noble': TPHOEBL
-'prize;': PRAOEUZ STPH*FPLT
+'prize;': PRAOEUZ/STPH*FPLT
 'with': W
 'the': -T
 'sword': SOERD
@@ -1263,21 +1263,21 @@ The Water of Life
 'blow': PWHROE
 'slay': SHRAEU
 'whole': WHOEL
-'armies,': AR/PHAOES KW-BG
+'armies,': AR/PHAOES/KW-BG
 'and': SKP
 'the': -T
 'bread': PWRAED
 'will': HR
 'never': TPHEFR
 'fail': TPAEUL
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
 'prince': PREUPBS
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''I': AE EU
+'himself,': HEUPLS/KW-BG
+''I': AE/EU
 'cannot': SK-PBT
 'go': TKPW
 'home': HOEPL
@@ -1286,13 +1286,13 @@ The Water of Life
 'father': TPAER
 'without': WOUT
 'my': PHEU
-'brothers';': PWROERS AE STPH*FPLT
+'brothers';': PWROERS/AE/STPH*FPLT
 'so': SO
 'he': HE
-'said,': SED KW-BG
-''My': AE KPA/PHEU
+'said,': SED/KW-BG
+''My': AE/KPA/PHEU
 'dear': TKAER
-'friend,': TPREPBD KW-BG
+'friend,': TPREPBD/KW-BG
 'cannot': SK-PBT
 'you': U
 'tell': TEL
@@ -1301,7 +1301,7 @@ The Water of Life
 'my': PHEU
 'two': TWO
 'brothers': PWROERS
-'are,': R KW-BG
+'are,': R/KW-BG
 'who': WHO
 'set': SET
 'out': OUT
@@ -1313,12 +1313,12 @@ The Water of Life
 'of': -F
 'Life': KPA/HRAOEUF
 'before': PW-FR
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'and': SKP
 'never': TPHEFR
 'came': KAEUPL
-'back?'': PWABG H-F AE
-''I': AE EU
+'back?'': PWABG/H-F/AE
+''I': AE/EU
 'have': SR
 'shut': SHUT
 'them': THEPL
@@ -1328,21 +1328,21 @@ The Water of Life
 'charm': KHARPL
 'between': TWAOEPB
 'two': TWO
-'mountains,'': PHOUPB/TAEUPBS KW-BG AE
+'mountains,'': PHOUPB/TAEUPBS/KW-BG/AE
 'said': SED
 'the': -T
-'dwarf,': TKWAFR KW-BG
-''because': AE PWAU
+'dwarf,': TKWAFR/KW-BG
+''because': AE/PWAU
 'they': THE
 'were': WR
 'proud': PROUD
 'and': SKP
-'ill-behaved,': EUL H-PB PWHAEUFD KW-BG
+'ill-behaved,': EUL/H-PB/PWHAEUFD/KW-BG
 'and': SKP
 'scorned': SKORPBD
 'to': TO
 'ask': SK
-'advice.'': SREUS TP-PL AE
+'advice.'': SREUS/TP-PL/AE
 'The': KPA/-T
 'prince': PREUPBS
 'begged': PWEGD
@@ -1350,7 +1350,7 @@ The Water of Life
 'hard': HARD
 'for': TPOR
 'his': HEUS
-'brothers,': PWROERS KW-BG
+'brothers,': PWROERS/KW-BG
 'that': THA
 'the': -T
 'dwarf': TKWAFR
@@ -1358,27 +1358,27 @@ The Water of Life
 'last': HRAFT
 'set': SET
 'them': THEPL
-'free,': TPRAOE KW-BG
+'free,': TPRAOE/KW-BG
 'though': THOE
-'unwillingly,': TPH-LG/HREU KW-BG
-'saying,': SAEUG KW-BG
-''Beware': AE KPA/PWE/WAEUR
+'unwillingly,': TPH-LG/HREU/KW-BG
+'saying,': SAEUG/KW-BG
+''Beware': AE/KPA/PWE/WAEUR
 'of': -F
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'for': TPOR
 'they': THE
 'have': SR
 'bad': PWAD
-'hearts.'': HARTS TP-PL AE
+'hearts.'': HARTS/TP-PL/AE
 'Their': KPA/THAEUR
-'brother,': PWROER KW-BG
-'however,': HOUF KW-BG
+'brother,': PWROER/KW-BG
+'however,': HOUF/KW-BG
 'was': WAS
 'greatly': TKPWRAELT
 'rejoiced': RE/SKWROEUS/-D
 'to': TO
 'see': SAOE
-'them,': THEPL KW-BG
+'them,': THEPL/KW-BG
 'and': SKP
 'told': TOLD
 'them': THEPL
@@ -1387,7 +1387,7 @@ The Water of Life
 'had': H
 'happened': HAPD
 'to': TO
-'him;': HEUPL STPH*FPLT
+'him;': HEUPL/STPH*FPLT
 'how': HOU
 'he': HE
 'had': H
@@ -1395,7 +1395,7 @@ The Water of Life
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life,': KPA/HRAOEUF KW-BG
+'Life,': KPA/HRAOEUF/KW-BG
 'and': SKP
 'had': H
 'taken': TAEPB
@@ -1403,7 +1403,7 @@ The Water of Life
 'cup': KUP
 'full': TPUL
 'of': -F
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'how': HOU
 'he': HE
@@ -1418,7 +1418,7 @@ The Water of Life
 'spell': SPEL
 'that': THA
 'bound': PWOUPBD
-'her;': HER STPH*FPLT
+'her;': HER/STPH*FPLT
 'and': SKP
 'how': HOU
 'she': SHE
@@ -1428,25 +1428,25 @@ The Water of Life
 'wait': WAEUT
 'a': AEU
 'whole': WHOEL
-'year,': KWRAOER KW-BG
+'year,': KWRAOER/KW-BG
 'and': SKP
 'then': THEPB
 'to': TO
 'marry': PHAER
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'to': TO
 'give': TKPWEUF
 'him': HEUPL
 'the': -T
-'kingdom.': KEUPBG/TKOPL TP-PL
+'kingdom.': KEUPBG/TKOPL/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'all': AUL
 'three': THRAOE
 'rode': ROED
 'on': OPB
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'on': OPB
 'their': THAEUR
@@ -1465,7 +1465,7 @@ The Water of Life
 'and': SKP
 'a': AEU
 'dreadful': TKREFL
-'famine,': TPAPL/-PB KW-BG
+'famine,': TPAPL/-PB/KW-BG
 'so': SO
 'that': THA
 'it': T
@@ -1475,7 +1475,7 @@ The Water of Life
 'must': PHUFT
 'die': TKAOEU
 'for': TPOR
-'want.': WAPBT TP-PL
+'want.': WAPBT/TP-PL
 'But': KPA/PWUT
 'the': -T
 'prince': PREUPBS
@@ -1486,14 +1486,14 @@ The Water of Life
 'the': -T
 'land': HRAPBD
 'the': -T
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'and': SKP
 'all': AUL
 'his': HEUS
 'kingdom': KEUPBG/TKOPL
 'ate': AEUT
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'And': AFPBD
 'he': HE
 'lent': HREPBT
@@ -1501,7 +1501,7 @@ The Water of Life
 'king': KEUPBG
 'the': -T
 'wonderful': WUFL
-'sword,': SOERD KW-BG
+'sword,': SOERD/KW-BG
 'and': SKP
 'he': HE
 'slew': SHRAO*U
@@ -1509,7 +1509,7 @@ The Water of Life
 'enemy's': EPB/PHEU/AES
 'army': AERPL
 'with': W
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'thus': THUS
 'the': -T
@@ -1520,7 +1520,7 @@ The Water of Life
 'in': TPH
 'peace': PAES
 'and': SKP
-'plenty.': PHREPBT TP-PL
+'plenty.': PHREPBT/TP-PL
 'In': KPA/TPH
 'the': -T
 'same': SAEUPL
@@ -1536,13 +1536,13 @@ The Water of Life
 'passed': PAFD
 'on': OPB
 'their': THAEUR
-'way.': WAEU TP-PL
+'way.': WAEU/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'the': -T
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'they': THE
 'got': TKPWOT
 'into': TPHAO
@@ -1557,8 +1557,8 @@ The Water of Life
 'eldest': ELD/EFT
 'said': SED
 'to': TO
-'themselves,': TH*EPLS KW-BG
-''Our': AE KPA/OUR
+'themselves,': TH*EPLS/KW-BG
+''Our': AE/KPA/OUR
 'brother': PWROER
 'has': HAS
 'got': TKPWOT
@@ -1568,7 +1568,7 @@ The Water of Life
 'we': WE
 'could': KO
 'not': TPHOT
-'find,': TPAOEUPBD KW-BG
+'find,': TPAOEUPBD/KW-BG
 'therefore': TH-FR
 'our': OUR
 'father': TPAER
@@ -1579,11 +1579,11 @@ The Water of Life
 'give': TKPWEUF
 'him': HEUPL
 'the': -T
-'kingdom,': KEUPBG/TKOPL KW-BG
+'kingdom,': KEUPBG/TKOPL/KW-BG
 'which': WEU
 'is': S
 'our': OUR
-'right';': RAOEUT AE STPH*FPLT
+'right';': RAOEUT/AE/STPH*FPLT
 'so': SO
 'they': THE
 'were': WR
@@ -1591,7 +1591,7 @@ The Water of Life
 'of': -F
 'envy': EPB/SREU
 'and': SKP
-'revenge,': RE/SREPBG KW-BG
+'revenge,': RE/SREPBG/KW-BG
 'and': SKP
 'agreed': TKPWRAED
 'together': TOGT
@@ -1599,7 +1599,7 @@ The Water of Life
 'they': THE
 'could': KO
 'ruin': RAOUPB
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'waited': WAEUTD
@@ -1607,7 +1607,7 @@ The Water of Life
 'he': HE
 'was': WAS
 'fast': TPAFT
-'asleep,': A/SHRAOEP KW-BG
+'asleep,': A/SHRAOEP/KW-BG
 'and': SKP
 'poured': PORD
 'the': -T
@@ -1617,24 +1617,24 @@ The Water of Life
 'out': OUT
 'of': -F
 'the': -T
-'cup,': KUP KW-BG
+'cup,': KUP/KW-BG
 'and': SKP
 'took': TAOBG
 'it': T
 'for': TPOR
-'themselves,': TH*EPLS KW-BG
+'themselves,': TH*EPLS/KW-BG
 'giving': TKPWEUFG
 'him': HEUPL
 'bitter': PWEURT
-'sea-water': SAE H-PB WAUR
-'instead.': STPHED TP-PL
+'sea-water': SAE/H-PB/WAUR
+'instead.': STPHED/TP-PL
 'When': KPA/WHEPB
 'they': THE
 'came': KAEUPL
 'to': TO
 'their': THAEUR
-'journey's': SKWRURPB AES
-'end,': EPBD KW-BG
+'journey's': SKWRURPB/AES
+'end,': EPBD/KW-BG
 'the': -T
 'youngest': KWRUPBG/EFT
 'son': SOPB
@@ -1644,22 +1644,22 @@ The Water of Life
 'to': TO
 'the': -T
 'sick': SEUBG
-'king,': KEUPBG KW-BG
+'king,': KEUPBG/KW-BG
 'that': THA
 'he': HE
 'might': PHAOEUT
 'drink': TKREU
 'and': SKP
 'be': -B
-'healed.': HAELD TP-PL
-'Scarcely,': KPA/SKAEURS/HREU KW-BG
-'however,': HOUF KW-BG
+'healed.': HAELD/TP-PL
+'Scarcely,': KPA/SKAEURS/HREU/KW-BG
+'however,': HOUF/KW-BG
 'had': H
 'he': HE
 'tasted': TAEUFT/-D
 'the': -T
 'bitter': PWEURT
-'sea-water': SAE H-PB WAUR
+'sea-water': SAE/H-PB/WAUR
 'when': WHEPB
 'he': HE
 'became': PWAEUPL
@@ -1668,7 +1668,7 @@ The Water of Life
 'than': THAPB
 'he': HE
 'was': WAS
-'before;': PW-FR STPH*FPLT
+'before;': PW-FR/STPH*FPLT
 'and': SKP
 'then': THEPB
 'both': PWO*T
@@ -1676,7 +1676,7 @@ The Water of Life
 'elder': ELD/ER
 'sons': SOPBS
 'came': KAEUPL
-'in,': TPH KW-BG
+'in,': TPH/KW-BG
 'and': SKP
 'blamed': PWHRAEUPLD
 'the': -T
@@ -1685,7 +1685,7 @@ The Water of Life
 'what': WHA
 'they': THE
 'had': H
-'done;': TKOPB STPH*FPLT
+'done;': TKOPB/STPH*FPLT
 'and': SKP
 'said': SED
 'that': THA
@@ -1694,7 +1694,7 @@ The Water of Life
 'to': TO
 'poison': POEUGS
 'their': THAEUR
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'but': PWUT
 'that': THA
 'they': THE
@@ -1703,13 +1703,13 @@ The Water of Life
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life,': KPA/HRAOEUF KW-BG
+'Life,': KPA/HRAOEUF/KW-BG
 'and': SKP
 'had': H
 'brought': PWRAUT
 'it': T
 'with': W
-'them.': THEPL TP-PL
+'them.': THEPL/TP-PL
 'He': KPA/HE
 'no': TPHO
 'sooner': SAORPB
@@ -1720,14 +1720,14 @@ The Water of Life
 'what': WHA
 'they': THE
 'brought': PWRAUT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'than': THAPB
 'he': HE
 'felt': TPELT
 'his': HEUS
 'sickness': SEUBG/-PBS
 'leave': HREF
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'was': WAS
 'as': AS
@@ -1738,29 +1738,29 @@ The Water of Life
 'in': TPH
 'his': HEUS
 'younger': KWRURPBG
-'days.': TKAEUS TP-PL
+'days.': TKAEUS/TP-PL
 'Then': KPA/THEPB
 'they': THE
 'went': WEPBT
 'to': TO
 'their': THAEUR
-'brother,': PWROER KW-BG
+'brother,': PWROER/KW-BG
 'and': SKP
 'laughed': HRAFD
 'at': AT
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Well,': AE KPA/WEL KW-BG
-'brother,': PWROER KW-BG
+'said,': SED/KW-BG
+''Well,': AE/KPA/WEL/KW-BG
+'brother,': PWROER/KW-BG
 'you': U
 'found': TPOUPBD
 'the': -T
 'Water': KPA/WAUR
 'of': -F
-'Life,': KPA/HRAOEUF KW-BG
+'Life,': KPA/HRAOEUF/KW-BG
 'did': TK
-'you?': U H-F
+'you?': U/H-F
 'You': KPA/U
 'have': SR
 'had': H
@@ -1771,12 +1771,12 @@ The Water of Life
 'shall': SHAL
 'have': SR
 'the': -T
-'reward.': RE/WARD TP-PL
-'Pray,': KPA/PRAEU KW-BG
+'reward.': RE/WARD/TP-PL
+'Pray,': KPA/PRAEU/KW-BG
 'with': W
 'all': AUL
 'your': KWROUR
-'cleverness,': KHREFR/-PBS KW-BG
+'cleverness,': KHREFR/-PBS/KW-BG
 'why': KWR
 'did': TK
 'not': TPHOT
@@ -1786,7 +1786,7 @@ The Water of Life
 'keep': KAOEP
 'your': KWROUR
 'eyes': AO*EUS
-'open?': OEP H-F
+'open?': OEP/H-F
 'Next': KPA/TPHEGT
 'year': KWRAOER
 'one': WUPB
@@ -1797,13 +1797,13 @@ The Water of Life
 'away': WA*EU
 'your': KWROUR
 'beautiful': PWAOUFL
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'if': TP
 'you': U
 'do': TKO
 'not': TPHOT
 'take': TAEUBG
-'care.': KAEUR TP-PL
+'care.': KAEUR/TP-PL
 'You': KPA/U
 'had': H
 'better': PWOERT
@@ -1813,7 +1813,7 @@ The Water of Life
 'this': TH
 'to': TO
 'our': OUR
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'for': TPOR
 'he': HE
 'does': TKOS
@@ -1822,12 +1822,12 @@ The Water of Life
 'a': AEU
 'word': WORD
 'you': U
-'say;': SAEU STPH*FPLT
+'say;': SAEU/STPH*FPLT
 'and': SKP
 'if': TP
 'you': U
 'tell': TEL
-'tales,': TAELS KW-BG
+'tales,': TAELS/KW-BG
 'you': U
 'shall': SHAL
 'lose': HRUZ
@@ -1835,16 +1835,16 @@ The Water of Life
 'life': HRAOEUF
 'into': TPHAO
 'the': -T
-'bargain:': PWAR/TKPWAEUPB STPH-FPLT
+'bargain:': PWAR/TKPWAEUPB/STPH-FPLT
 'but': PWUT
 'be': -B
-'quiet,': KWAO*EUT KW-BG
+'quiet,': KWAO*EUT/KW-BG
 'and': SKP
 'we': WE
 'will': HR
 'let': HRET
 'you': U
-'off.'': OF TP-PL AE
+'off.'': OF/TP-PL/AE
 'The': KPA/-T
 'old': OLD
 'king': KEUPBG
@@ -1855,7 +1855,7 @@ The Water of Life
 'with': W
 'his': HEUS
 'youngest': KWRUPBG/EFT
-'son,': SOPB KW-BG
+'son,': SOPB/KW-BG
 'and': SKP
 'thought': THAUT
 'that': THA
@@ -1867,19 +1867,19 @@ The Water of Life
 'taken': TAEPB
 'away': WA*EU
 'his': HEUS
-'life;': HRAOEUF STPH*FPLT
+'life;': HRAOEUF/STPH*FPLT
 'so': SO
 'he': HE
 'called': KAULD
 'his': HEUS
 'court': KORT
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'and': SKP
 'asked': SK-D
 'what': WHA
 'should': SHO
 'be': -B
-'done,': TKOPB KW-BG
+'done,': TKOPB/KW-BG
 'and': SKP
 'all': AUL
 'agreed': TKPWRAED
@@ -1890,7 +1890,7 @@ The Water of Life
 'be': -B
 'put': PUT
 'to': TO
-'death.': TK*T TP-PL
+'death.': TK*T/TP-PL
 'The': KPA/-T
 'prince': PREUPBS
 'knew': TPHAOU
@@ -1899,19 +1899,19 @@ The Water of Life
 'what': WHA
 'was': WAS
 'going': TKPW-G
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'till': TEUL
 'one': WUPB
-'day,': TKAEU KW-BG
+'day,': TKAEU/KW-BG
 'when': WHEPB
 'the': -T
 'king's': KEUPBG/AES
 'chief': KHAOEF
 'huntsmen': HUPBTS/PH*EPB
 'went': WEPBT
-'a-hunting': AEU H-PB HUPBT/-G
+'a-hunting': AEU/H-PB/HUPBT/-G
 'with': W
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'they': THE
 'were': WR
@@ -1919,7 +1919,7 @@ The Water of Life
 'in': TPH
 'the': -T
 'wood': WAOD
-'together,': TOGT KW-BG
+'together,': TOGT/KW-BG
 'the': -T
 'huntsman': HUPBTS/PHA*PB
 'looked': HRAOBGD
@@ -1928,33 +1928,33 @@ The Water of Life
 'that': THA
 'the': -T
 'prince': PREUPBS
-'said,': SED KW-BG
-''My': AE KPA/PHEU
-'friend,': TPREPBD KW-BG
+'said,': SED/KW-BG
+''My': AE/KPA/PHEU
+'friend,': TPREPBD/KW-BG
 'what': WHA
 'is': S
 'the': -T
 'matter': PHAERT
 'with': W
-'you?'': U H-F AE
-''I': AE EU
+'you?'': U/H-F/AE
+''I': AE/EU
 'cannot': SK-PBT
 'and': SKP
 'dare': TKAEUR
 'not': TPHOT
 'tell': TEL
-'you,'': U KW-BG AE
+'you,'': U/KW-BG/AE
 'said': SED
-'he.': HE TP-PL
+'he.': HE/TP-PL
 'But': KPA/PWUT
 'the': -T
 'prince': PREUPBS
 'begged': PWEGD
 'very': SRE
-'hard,': HARD KW-BG
+'hard,': HARD/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Only': AE KPA/OEPBL
+'said,': SED/KW-BG
+''Only': AE/KPA/OEPBL
 'tell': TEL
 'me': PHE
 'what': WHA
@@ -1967,41 +1967,41 @@ The Water of Life
 'I': EU
 'shall': SHAL
 'be': -B
-'angry,': APBG/REU KW-BG
+'angry,': APBG/REU/KW-BG
 'for': TPOR
 'I': EU
 'will': HR
 'forgive': TPAURG
-'you.'': U TP-PL AE
-''Alas!'': AE KPA/A/HRAS SKHRAPL AE
+'you.'': U/TP-PL/AE
+''Alas!'': AE/KPA/A/HRAS/SKHRAPL/AE
 'said': SED
 'the': -T
-'huntsman;': HUPBTS/PHA*PB STPH*FPLT
-''the': AE -T
+'huntsman;': HUPBTS/PHA*PB/STPH*FPLT
+''the': AE/-T
 'king': KEUPBG
 'has': HAS
 'ordered': ORD/-D
 'me': PHE
 'to': TO
 'shoot': SHAOT
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'The': KPA/-T
 'prince': PREUPBS
 'started': STARTD
 'at': AT
-'this,': TH KW-BG
+'this,': TH/KW-BG
 'and': SKP
-'said,': SED KW-BG
-''Let': AE KPA/HRET
+'said,': SED/KW-BG
+''Let': AE/KPA/HRET
 'me': PHE
-'live,': HREUF KW-BG
+'live,': HREUF/KW-BG
 'and': SKP
 'I': EU
 'will': HR
 'change': KHAEUPBG
 'dresses': TKRES/-S
 'with': W
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'you': U
 'shall': SHAL
 'take': TAEUBG
@@ -2012,7 +2012,7 @@ The Water of Life
 'show': SHOE
 'to': TO
 'my': PHEU
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'and': SKP
 'do': TKO
 'you': U
@@ -2020,15 +2020,15 @@ The Water of Life
 'me': PHE
 'your': KWROUR
 'shabby': SHAB/KWREU
-'one.'': WUPB TP-PL AE
-''With': AE KPA/W
+'one.'': WUPB/TP-PL/AE
+''With': AE/KPA/W
 'all': AUL
 'my': PHEU
-'heart,'': HART KW-BG AE
+'heart,'': HART/KW-BG/AE
 'said': SED
 'the': -T
-'huntsman;': HUPBTS/PHA*PB STPH*FPLT
-''I': AE EU
+'huntsman;': HUPBTS/PHA*PB/STPH*FPLT
+''I': AE/EU
 'am': APL
 'sure': SHUR
 'I': EU
@@ -2037,35 +2037,35 @@ The Water of Life
 'glad': TKPWHRAD
 'to': TO
 'save': SAF
-'you,': U KW-BG
+'you,': U/KW-BG
 'for': TPOR
 'I': EU
 'could': KO
 'not': TPHOT
 'have': SR
 'shot': SHOT
-'you.'': U TP-PL AE
+'you.'': U/TP-PL/AE
 'Then': KPA/THEPB
 'he': HE
 'took': TAOBG
 'the': -T
-'prince's': PREUPBS AES
-'coat,': KOET KW-BG
+'prince's': PREUPBS/AES
+'coat,': KOET/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'him': HEUPL
 'the': -T
 'shabby': SHAB/KWREU
-'one,': WUPB KW-BG
+'one,': WUPB/KW-BG
 'and': SKP
 'went': WEPBT
 'away': WA*EU
 'through': THRU
 'the': -T
-'wood.': WAOD TP-PL
+'wood.': WAOD/TP-PL
 'Some': KPA/SOPL
 'time': TAOEUPL
-'after,': AF KW-BG
+'after,': AF/KW-BG
 'three': THRAOE
 'grand': TKPWRAPBD
 'embassies': EPL/PWAES/-S
@@ -2074,7 +2074,7 @@ The Water of Life
 'the': -T
 'old': OLD
 'king's': KEUPBG/AES
-'court,': KORT KW-BG
+'court,': KORT/KW-BG
 'with': W
 'rich': REUFP
 'gifts': TKPWEUFTS
@@ -2086,7 +2086,7 @@ The Water of Life
 'for': TPOR
 'his': HEUS
 'youngest': KWRUPBG/EFT
-'son;': SOPB STPH*FPLT
+'son;': SOPB/STPH*FPLT
 'now': TPHOU
 'all': AUL
 'these': THEZ
@@ -2106,7 +2106,7 @@ The Water of Life
 'and': SKP
 'loaf': HROEF
 'of': -F
-'bread,': PWRAED KW-BG
+'bread,': PWRAED/KW-BG
 'in': TPH
 'order': ORD
 'to': TO
@@ -2118,13 +2118,13 @@ The Water of Life
 'and': SKP
 'feed': TPAOED
 'their': THAEUR
-'people.': PAOEPL TP-PL
+'people.': PAOEPL/TP-PL
 'This': KPA/TH
 'touched': TUFPD
 'the': -T
 'old': OLD
 'king's': KEUPBG/AES
-'heart,': HART KW-BG
+'heart,': HART/KW-BG
 'and': SKP
 'he': HE
 'thought': THAUT
@@ -2133,19 +2133,19 @@ The Water of Life
 'might': PHAOEUT
 'still': STEUL
 'be': -B
-'guiltless,': xxx guiltless KW-BG
+'guiltless,': xxx guiltless/KW-BG
 'and': SKP
 'said': SED
 'to': TO
 'his': HEUS
-'court,': KORT KW-BG
-''O': AE O*P
+'court,': KORT/KW-BG
+''O': AE/O*P
 'that': THA
 'my': PHEU
 'son': SOPB
 'were': WR
 'still': STEUL
-'alive!': A/HRAOEUF SKHRAPL
+'alive!': A/HRAOEUF/SKHRAPL
 'how': HOU
 'it': T
 'grieves': TKPWREF/-S
@@ -2154,15 +2154,15 @@ The Water of Life
 'I': EU
 'had': H
 'him': HEUPL
-'killed!'': KEULD SKHRAPL AE
-''He': AE KPA/HE
+'killed!'': KEULD/SKHRAPL/AE
+''He': AE/KPA/HE
 'is': S
 'still': STEUL
-'alive,'': A/HRAOEUF KW-BG AE
+'alive,'': A/HRAOEUF/KW-BG/AE
 'said': SED
 'the': -T
-'huntsman;': HUPBTS/PHA*PB STPH*FPLT
-''and': AE SKP
+'huntsman;': HUPBTS/PHA*PB/STPH*FPLT
+''and': AE/SKP
 'I': EU
 'am': APL
 'glad': TKPWHRAD
@@ -2171,19 +2171,19 @@ The Water of Life
 'had': H
 'pity': PEUT/TEU
 'on': OPB
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'let': HRET
 'him': HEUPL
 'go': TKPW
 'in': TPH
-'peace,': PAES KW-BG
+'peace,': PAES/KW-BG
 'and': SKP
 'brought': PWRAUT
 'home': HOEPL
 'his': HEUS
 'royal': ROEUL
-'coat.'': KOET TP-PL AE
+'coat.'': KOET/TP-PL/AE
 'At': KPA/AT
 'this': TH
 'the': -T
@@ -2191,7 +2191,7 @@ The Water of Life
 'was': WAS
 'overwhelmed': AUFR/WHEPLD
 'with': W
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'and': SKP
 'made': PHAED
 'it': T
@@ -2199,7 +2199,7 @@ The Water of Life
 'throughout': THROUT
 'all': AUL
 'his': HEUS
-'kingdom,': KEUPBG/TKOPL KW-BG
+'kingdom,': KEUPBG/TKOPL/KW-BG
 'that': THA
 'if': TP
 'his': HEUS
@@ -2213,7 +2213,7 @@ The Water of Life
 'he': HE
 'would': WO
 'forgive': TPAURG
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Meanwhile': KPA/PHAOEPB/WHAOEUL
 'the': -T
 'princess': PREUPB/SES
@@ -2225,7 +2225,7 @@ The Water of Life
 'deliverer': TKHREUFR/*ER
 'should': SHO
 'come': KOPL
-'back;': PWABG STPH*FPLT
+'back;': PWABG/STPH*FPLT
 'and': SKP
 'had': H
 'a': AEU
@@ -2239,7 +2239,7 @@ The Water of Life
 'all': AUL
 'of': -F
 'shining': SHAOEUPBG
-'gold;': TKPWOELD STPH*FPLT
+'gold;': TKPWOELD/STPH*FPLT
 'and': SKP
 'told': TOLD
 'her': HER
@@ -2248,7 +2248,7 @@ The Water of Life
 'whoever': WHOFR
 'came': KAEUPL
 'on': OPB
-'horseback,': HORS/PWA*BG KW-BG
+'horseback,': HORS/PWA*BG/KW-BG
 'and': SKP
 'rode': ROED
 'straight': STRAEUT
@@ -2257,18 +2257,18 @@ The Water of Life
 'the': -T
 'gate': TKPWAET
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'was': WAS
 'her': HER
 'true': TRAOU
-'lover;': HRUFR STPH*FPLT
+'lover;': HRUFR/STPH*FPLT
 'and': SKP
 'that': THA
 'they': THE
 'must': PHUFT
 'let': HRET
 'him': HEUPL
-'in:': TPH STPH-FPLT
+'in:': TPH/STPH-FPLT
 'but': PWUT
 'whoever': WHOFR
 'rode': ROED
@@ -2276,7 +2276,7 @@ The Water of Life
 'one': WUPB
 'side': SAOEUD
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'they': THE
 'must': PHUFT
 'be': -B
@@ -2285,7 +2285,7 @@ The Water of Life
 'not': TPHOT
 'the': -T
 'right': RAOEUT
-'one;': WUPB STPH*FPLT
+'one;': WUPB/STPH*FPLT
 'and': SKP
 'that': THA
 'they': THE
@@ -2294,11 +2294,11 @@ The Water of Life
 'him': HEUPL
 'away': WA*EU
 'at': AT
-'once.': WUPBS TP-PL
+'once.': WUPBS/TP-PL
 'The': KPA/-T
 'time': TAOEUPL
 'soon': SAOPB
-'came,': KAEUPL KW-BG
+'came,': KAEUPL/KW-BG
 'when': WHEPB
 'the': -T
 'eldest': ELD/EFT
@@ -2313,7 +2313,7 @@ The Water of Life
 'go': TKPW
 'to': TO
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'and': SKP
 'say': SAEU
 'that': THA
@@ -2325,7 +2325,7 @@ The Water of Life
 'had': H
 'set': SET
 'her': HER
-'free,': TPRAOE KW-BG
+'free,': TPRAOE/KW-BG
 'and': SKP
 'that': THA
 'he': HE
@@ -2334,12 +2334,12 @@ The Water of Life
 'her': HER
 'for': TPOR
 'his': HEUS
-'wife,': WAOEUF KW-BG
+'wife,': WAOEUF/KW-BG
 'and': SKP
 'the': -T
 'kingdom': KEUPBG/TKOPL
 'with': W
-'her.': HER TP-PL
+'her.': HER/TP-PL
 'As': KPA/AS
 'he': HE
 'came': KAEUPL
@@ -2350,19 +2350,19 @@ The Water of Life
 'saw': SAU
 'the': -T
 'golden': TKPWOELD/*EPB
-'road,': RAOD KW-BG
+'road,': RAOD/KW-BG
 'he': HE
 'stopped': STOPD
 'to': TO
 'look': HRAOBG
 'at': AT
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'he': HE
 'thought': THAUT
 'to': TO
-'himself,': HEUPLS KW-BG
-''It': AE KPA/T
+'himself,': HEUPLS/KW-BG
+''It': AE/KPA/T
 'is': S
 'a': AEU
 'pity': PEUT/TEU
@@ -2371,7 +2371,7 @@ The Water of Life
 'upon': POPB
 'this': TH
 'beautiful': PWAOUFL
-'road';': RAOD AE STPH*FPLT
+'road';': RAOD/AE/STPH*FPLT
 'so': SO
 'he': HE
 'turned': TURPBD
@@ -2383,26 +2383,26 @@ The Water of Life
 'right-hand': R*PBD
 'side': SAOEUD
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
 'came': KAEUPL
 'to': TO
 'the': -T
-'gate,': TKPWAET KW-BG
+'gate,': TKPWAET/KW-BG
 'the': -T
-'guards,': TKPWARDZ KW-BG
+'guards,': TKPWARDZ/KW-BG
 'who': WHO
 'had': H
 'seen': SAOEPB
 'the': -T
 'road': RAOD
 'he': HE
-'took,': TAOBG KW-BG
+'took,': TAOBG/KW-BG
 'said': SED
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'he': HE
 'could': KO
 'not': TPHOT
@@ -2411,13 +2411,13 @@ The Water of Life
 'he': HE
 'said': SED
 'he': HE
-'was,': WAS KW-BG
+'was,': WAS/KW-BG
 'and': SKP
 'must': PHUFT
 'go': TKPW
 'about': PW
 'his': HEUS
-'business.': PWEUS TP-PL
+'business.': PWEUS/TP-PL
 'The': KPA/-T
 'second': SEBGD
 'prince': PREUPBS
@@ -2428,7 +2428,7 @@ The Water of Life
 'on': OPB
 'the': -T
 'same': SAEUPL
-'errand;': ER/APBD STPH*FPLT
+'errand;': ER/APBD/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -2436,7 +2436,7 @@ The Water of Life
 'to': TO
 'the': -T
 'golden': TKPWOELD/*EPB
-'road,': RAOD KW-BG
+'road,': RAOD/KW-BG
 'and': SKP
 'his': HEUS
 'horse': HORS
@@ -2445,23 +2445,23 @@ The Water of Life
 'one': WUPB
 'foot': TPAOT
 'upon': POPB
-'it,': T KW-BG
+'it,': T/KW-BG
 'he': HE
 'stopped': STOPD
 'to': TO
 'look': HRAOBG
 'at': AT
-'it,': T KW-BG
+'it,': T/KW-BG
 'and': SKP
 'thought': THAUT
 'it': T
 'very': SRE
-'beautiful,': PWAOUFL KW-BG
+'beautiful,': PWAOUFL/KW-BG
 'and': SKP
 'said': SED
 'to': TO
-'himself,': HEUPLS KW-BG
-''What': AE KPA/WHA
+'himself,': HEUPLS/KW-BG
+''What': AE/KPA/WHA
 'a': AEU
 'pity': PEUT/TEU
 'it': T
@@ -2470,7 +2470,7 @@ The Water of Life
 'anything': TPHEUG
 'should': SHO
 'tread': TRED
-'here!'': HAOER SKHRAPL AE
+'here!'': HAOER/SKHRAPL/AE
 'Then': KPA/THEPB
 'he': HE
 'too': TAO
@@ -2483,7 +2483,7 @@ The Water of Life
 'left': HREFT
 'side': SAOEUD
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'he': HE
@@ -2499,7 +2499,7 @@ The Water of Life
 'not': TPHOT
 'the': -T
 'true': TRAOU
-'prince,': PREUPBS KW-BG
+'prince,': PREUPBS/KW-BG
 'and': SKP
 'that': THA
 'he': HE
@@ -2509,11 +2509,11 @@ The Water of Life
 'away': WA*EU
 'about': PW
 'his': HEUS
-'business;': PWEUS STPH*FPLT
+'business;': PWEUS/STPH*FPLT
 'and': SKP
 'away': WA*EU
 'he': HE
-'went.': WEPBT TP-PL
+'went.': WEPBT/TP-PL
 'Now': KPA/TPHOU
 'when': WHEPB
 'the': -T
@@ -2521,7 +2521,7 @@ The Water of Life
 'year': KWRAOER
 'was': WAS
 'come': KOPL
-'round,': ROUPBD KW-BG
+'round,': ROUPBD/KW-BG
 'the': -T
 'third': THEURD
 'brother': PWROER
@@ -2539,7 +2539,7 @@ The Water of Life
 'of': -F
 'his': HEUS
 'father's': TPAER/AES
-'anger,': ARPBG KW-BG
+'anger,': ARPBG/KW-BG
 'and': SKP
 'set': SET
 'out': OUT
@@ -2548,17 +2548,17 @@ The Water of Life
 'of': -F
 'his': HEUS
 'betrothed': PWE/TRO*T/-D
-'bride.': PWRAOEUD TP-PL
+'bride.': PWRAOEUD/TP-PL
 'So': KPA/SO
 'he': HE
 'journeyed': SKWRURPB/EUD
-'on,': OPB KW-BG
+'on,': OPB/KW-BG
 'thinking': THEUG
 'of': -F
 'her': HER
 'all': AUL
 'the': -T
-'way,': WAEU KW-BG
+'way,': WAEU/KW-BG
 'and': SKP
 'rode': ROED
 'so': SO
@@ -2574,7 +2574,7 @@ The Water of Life
 'road': RAOD
 'was': WAS
 'made': PHAED
-'of,': -F KW-BG
+'of,': -F/KW-BG
 'but': PWUT
 'went': WEPBT
 'with': W
@@ -2582,7 +2582,7 @@ The Water of Life
 'horse': HORS
 'straight': STRAEUT
 'over': OEFR
-'it;': T STPH*FPLT
+'it;': T/STPH*FPLT
 'and': SKP
 'as': AS
 'he': HE
@@ -2592,20 +2592,20 @@ The Water of Life
 'gate': TKPWAET
 'it': T
 'flew': TPHRAOU
-'open,': OEP KW-BG
+'open,': OEP/KW-BG
 'and': SKP
 'the': -T
 'princess': PREUPB/SES
 'welcomed': W-BGD
 'him': HEUPL
 'with': W
-'joy,': SKWROEU KW-BG
+'joy,': SKWROEU/KW-BG
 'and': SKP
 'said': SED
 'he': HE
 'was': WAS
 'her': HER
-'deliverer,': TKHREUFR/*ER KW-BG
+'deliverer,': TKHREUFR/*ER/KW-BG
 'and': SKP
 'should': SHO
 'now': TPHOU
@@ -2616,7 +2616,7 @@ The Water of Life
 'lord': HRORD
 'of': -F
 'the': -T
-'kingdom.': KEUPBG/TKOPL TP-PL
+'kingdom.': KEUPBG/TKOPL/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'first': TPEUFRT
@@ -2625,7 +2625,7 @@ The Water of Life
 'their': THAEUR
 'meeting': PHAOEGT
 'was': WAS
-'over,': OEFR KW-BG
+'over,': OEFR/KW-BG
 'the': -T
 'princess': PREUPB/SES
 'told': TOLD
@@ -2638,7 +2638,7 @@ The Water of Life
 'father': TPAER
 'having': SR-G
 'forgiven': TPAURGD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'of': -F
 'his': HEUS
@@ -2647,29 +2647,29 @@ The Water of Life
 'have': SR
 'him': HEUPL
 'home': HOEPL
-'again:': TKPWEPB STPH-FPLT
-'so,': SO KW-BG
+'again:': TKPWEPB/STPH-FPLT
+'so,': SO/KW-BG
 'before': PW-FR
 'his': HEUS
 'wedding': WEGD
 'with': W
 'the': -T
-'princess,': PREUPB/SES KW-BG
+'princess,': PREUPB/SES/KW-BG
 'he': HE
 'went': WEPBT
 'to': TO
 'visit': SREUFT
 'his': HEUS
-'father,': TPAER KW-BG
+'father,': TPAER/KW-BG
 'taking': TAEUG
 'her': HER
 'with': W
-'him.': HEUPL TP-PL
+'him.': HEUPL/TP-PL
 'Then': KPA/THEPB
 'he': HE
 'told': TOLD
 'him': HEUPL
-'everything;': EFRG STPH*FPLT
+'everything;': EFRG/STPH*FPLT
 'how': HOU
 'his': HEUS
 'brothers': PWROERS
@@ -2677,7 +2677,7 @@ The Water of Life
 'cheated': KHAOETD
 'and': SKP
 'robbed': ROBD
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'yet': KWRET
 'that': THA
@@ -2692,26 +2692,26 @@ The Water of Life
 'love': HRUF
 'of': -F
 'his': HEUS
-'father.': TPAER TP-PL
+'father.': TPAER/TP-PL
 'And': AFPBD
 'the': -T
 'old': OLD
 'king': KEUPBG
 'was': WAS
 'very': SRE
-'angry,': APBG/REU KW-BG
+'angry,': APBG/REU/KW-BG
 'and': SKP
 'wanted': WAPBTD
 'to': TO
 'punish': P-RB
 'his': HEUS
 'wicked': WEUBGD
-'sons;': SOPBS STPH*FPLT
+'sons;': SOPBS/STPH*FPLT
 'but': PWUT
 'they': THE
 'made': PHAED
 'their': THAEUR
-'escape,': SKAEP KW-BG
+'escape,': SKAEP/KW-BG
 'and': SKP
 'got': TKPWOT
 'into': TPHAO
@@ -2723,7 +2723,7 @@ The Water of Life
 'over': OEFR
 'the': -T
 'wide': WAOEUD
-'sea,': SAE KW-BG
+'sea,': SAE/KW-BG
 'and': SKP
 'where': W-R
 'they': THE
@@ -2733,7 +2733,7 @@ The Water of Life
 'knew': TPHAOU
 'and': SKP
 'nobody': TPHOEB
-'cared.': KAEURD TP-PL
+'cared.': KAEURD/TP-PL
 'And': AFPBD
 'now': TPHOU
 'the': -T
@@ -2742,7 +2742,7 @@ The Water of Life
 'gathered': TKPWAERD
 'together': TOGT
 'his': HEUS
-'court,': KORT KW-BG
+'court,': KORT/KW-BG
 'and': SKP
 'asked': SK-D
 'all': AUL
@@ -2759,23 +2759,23 @@ The Water of Life
 'son': SOPB
 'and': SKP
 'the': -T
-'princess.': PREUPB/SES TP-PL
+'princess.': PREUPB/SES/TP-PL
 'And': AFPBD
 'young': KWRUPBG
 'and': SKP
-'old,': OLD KW-BG
+'old,': OLD/KW-BG
 'noble': TPHOEBL
 'and': SKP
-'squire,': SKWAOEUR KW-BG
+'squire,': SKWAOEUR/KW-BG
 'gentle': SKWR*EPBLT
 'and': SKP
-'simple,': S*EUPL KW-BG
+'simple,': S*EUPL/KW-BG
 'came': KAEUPL
 'at': AT
 'once': WUPBS
 'on': OPB
 'the': -T
-'summons;': SPHUPBS STPH*FPLT
+'summons;': SPHUPBS/STPH*FPLT
 'and': SKP
 'among': PHOPBG
 'the': -T
@@ -2783,26 +2783,26 @@ The Water of Life
 'came': KAEUPL
 'the': -T
 'friendly': TPREPBLD
-'dwarf,': TKWAFR KW-BG
+'dwarf,': TKWAFR/KW-BG
 'with': W
 'the': -T
 'sugarloaf': xxx sugarloaf
-'hat,': HAT KW-BG
+'hat,': HAT/KW-BG
 'and': SKP
 'a': AEU
 'new': TPHU
 'scarlet': SKARLT
-'cloak.': KHROEBG TP-PL
+'cloak.': KHROEBG/TP-PL
 'And': AFPBD
 'the': -T
 'wedding': WEGD
 'was': WAS
-'held,': HELD KW-BG
+'held,': HELD/KW-BG
 'and': SKP
 'the': -T
 'merry': PHER/REU
 'bells': PWELS
-'run.': RUPB TP-PL
+'run.': RUPB/TP-PL
 'And': AFPBD
 'all': AUL
 'the': -T
@@ -2812,13 +2812,13 @@ The Water of Life
 'danced': TKAPBS/-D
 'and': SKP
 'they': THE
-'sung,': SUPBG KW-BG
+'sung,': SUPBG/KW-BG
 'And': AFPBD
 'feasted': TPAOEFT/-D
 'and': SKP
-'frolick'd': xxx frolick AE TK*
+'frolick'd': xxx frolick/AE/TK*
 'I': EU
 'can't': K-PBT
 'tell': TEL
 'how': HOU
-'long.': HROPBG TP-PL
+'long.': HROPBG/TP-PL

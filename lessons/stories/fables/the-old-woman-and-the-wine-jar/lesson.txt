@@ -11,7 +11,7 @@ The Old Woman and the Wine-Jar
 'a': AEU
 'glass': TKPWHRAS
 'of': -F
-'wine.': WAOEUPB TP-PL
+'wine.': WAOEUPB/TP-PL
 'One': KPA/WUPB
 'of': -F
 'this': TH
@@ -19,11 +19,11 @@ The Old Woman and the Wine-Jar
 'once': WUPBS
 'found': TPOUPBD
 'a': AEU
-'Wine-jar': KPA/WAOEUPB H-PB SKWRAR
+'Wine-jar': KPA/WAOEUPB/H-PB/SKWRAR
 'lying': HRAOEUG
 'in': TPH
 'the': -T
-'road,': RAOD KW-BG
+'road,': RAOD/KW-BG
 'and': SKP
 'eagerly': AOERLG
 'went': WEPBT
@@ -34,7 +34,7 @@ The Old Woman and the Wine-Jar
 'to': TO
 'find': TPAOEUPBD
 'it': T
-'full.': TPUL TP-PL
+'full.': TPUL/TP-PL
 'But': KPA/PWUT
 'when': WHEPB
 'she': SHE
@@ -52,7 +52,7 @@ The Old Woman and the Wine-Jar
 'drunk': TKR*UPBG
 'out': OUT
 'of': -F
-'it.': T TP-PL
+'it.': T/TP-PL
 'Still': KPA/STEUL
 'she': SHE
 'took': TAOBG
@@ -64,11 +64,11 @@ The Old Woman and the Wine-Jar
 'mouth': PHO*UT
 'of': -F
 'the': -T
-'Jar.': KPA/SKWRAR TP-PL
-'"Ah,"': KR-GS KPA/HA*E KW-BG KR-GS
+'Jar.': KPA/SKWRAR/TP-PL
+'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
 'she': SHE
-'cried,': KRAOEUD KW-BG
-'"What': KR-GS KPA/WHA
+'cried,': KRAOEUD/KW-BG
+'"What': KR-GS/KPA/WHA
 'memories': PHOEURPLS
 'cling': KHREUPBG
 ''round': RO*UPBD
@@ -76,4 +76,4 @@ The Old Woman and the Wine-Jar
 'instruments': STRAOUPLTS
 'of': -F
 'our': OUR
-'pleasure."': PHRERB TP-PL KR-GS
+'pleasure."': PHRERB/TP-PL/KR-GS

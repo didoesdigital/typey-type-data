@@ -10,26 +10,26 @@ The Fox and the Cat
 'fox': TPOBGS
 'in': TPH
 'a': AEU
-'forest,': TPOEFRT KW-BG
+'forest,': TPOEFRT/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
 'thought': THAUT
 'to': TO
-'herself:': H*ERS STPH-FPLT
-''He': AE KPA/HE
+'herself:': H*ERS/STPH-FPLT
+''He': AE/KPA/HE
 'is': S
 'clever': KHREFR
 'and': SKP
 'full': TPUL
 'of': -F
-'experience,': SPAOERPBS KW-BG
+'experience,': SPAOERPBS/KW-BG
 'and': SKP
 'much': PHUFP
 'esteemed': ES/TAOEPLD
 'in': TPH
 'the': -T
-'world,'': WORLD KW-BG AE
+'world,'': WORLD/KW-BG/AE
 'she': SHE
 'spoke': SPOEBG
 'to': TO
@@ -37,20 +37,20 @@ The Fox and the Cat
 'in': TPH
 'a': AEU
 'friendly': TPREPBLD
-'way.': WAEU TP-PL
-''Good': AE KPA/TKPWAOD
-'day,': TKAEU KW-BG
+'way.': WAEU/TP-PL
+''Good': AE/KPA/TKPWAOD
+'day,': TKAEU/KW-BG
 'dear': TKAER
 'Mr': PH*P/R*
-'Fox,': KPA/TPOBGS KW-BG
+'Fox,': KPA/TPOBGS/KW-BG
 'how': HOU
 'are': R
-'you?': U H-F
+'you?': U/H-F
 'How': KPA/HOU
 'is': S
 'all': AUL
 'with': W
-'you?': U H-F
+'you?': U/H-F
 'How': KPA/HOU
 'are': R
 'you': U
@@ -59,15 +59,15 @@ The Fox and the Cat
 'in': TPH
 'these': THEZ
 'hard': HARD
-'times?'': TAOEUPLS H-F AE
+'times?'': TAOEUPLS/H-F/AE
 'The': KPA/-T
-'fox,': TPOBGS KW-BG
+'fox,': TPOBGS/KW-BG
 'full': TPUL
 'of': -F
 'all': AUL
 'kinds': KEUPBDZ
 'of': -F
-'arrogance,': AR/TKPWAPBS KW-BG
+'arrogance,': AR/TKPWAPBS/KW-BG
 'looked': HRAOBGD
 'at': AT
 'the': -T
@@ -75,7 +75,7 @@ The Fox and the Cat
 'from': TPR
 'head': HED
 'to': TO
-'foot,': TPAOT KW-BG
+'foot,': TPAOT/KW-BG
 'and': SKP
 'for': TPOR
 'a': AEU
@@ -91,27 +91,27 @@ The Fox and the Cat
 'any': TPHEU
 'answer': AEPBS
 'or': OR
-'not.': TPHOT TP-PL
+'not.': TPHOT/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE
-'said:': SED STPH-FPLT
-''Oh,': AE KPA/O*ERBGS KW-BG
+'said:': SED/STPH-FPLT
+''Oh,': AE/KPA/O*ERBGS/KW-BG
 'you': U
 'wretched': WREFPD
-'beard-cleaner,': PWAERD H-PB KHRAOERPB KW-BG
+'beard-cleaner,': PWAERD/H-PB/KHRAOERPB/KW-BG
 'you': U
 'piebald': PAOEU/PWAULD
-'fool,': TPAOL KW-BG
+'fool,': TPAOL/KW-BG
 'you': U
 'hungry': HUPBG/REU
-'mouse-hunter,': PHOUS H-PB HUPB/TER KW-BG
+'mouse-hunter,': PHOUS/H-PB/HUPB/TER/KW-BG
 'what': WHA
 'can': K
 'you': U
 'be': -B
 'thinking': THEUG
-'of?': -F H-F
+'of?': -F/H-F
 'Have': KPA/SR
 'you': U
 'the': -T
@@ -122,38 +122,38 @@ The Fox and the Cat
 'I': EU
 'am': APL
 'getting': TKPWEGT
-'on?': OPB H-F
+'on?': OPB/H-F
 'What': KPA/WHA
 'have': SR
 'you': U
-'learnt?': HRERPBT H-F
+'learnt?': HRERPBT/H-F
 'How': KPA/HOU
 'many': PHAEPB
 'arts': ARTS
 'do': TKO
 'you': U
-'understand?'': URPBD H-F AE
-''I': AE EU
+'understand?'': URPBD/H-F/AE
+''I': AE/EU
 'understand': URPBD
 'but': PWUT
-'one,'': WUPB KW-BG AE
+'one,'': WUPB/KW-BG/AE
 'replied': RE/PHRAOEUD
 'the': -T
-'cat,': KAT KW-BG
-'modestly.': PHOD/EFT/HREU TP-PL
-''What': AE KPA/WHA
+'cat,': KAT/KW-BG
+'modestly.': PHOD/EFT/HREU/TP-PL
+''What': AE/KPA/WHA
 'art': ART
 'is': S
-'that?'': THA H-F AE
+'that?'': THA/H-F/AE
 'asked': SK-D
 'the': -T
-'fox.': TPOBGS TP-PL
-''When': AE KPA/WHEPB
+'fox.': TPOBGS/TP-PL
+''When': AE/KPA/WHEPB
 'the': -T
 'hounds': HOUPBDZ
 'are': R
 'following': TPOLG
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'can': K
 'spring': SPREUPBG
@@ -162,20 +162,20 @@ The Fox and the Cat
 'tree': TRAOE
 'and': SKP
 'save': SAF
-'myself.'': PHAO*EUS TP-PL AE
-''Is': AE KPA/S
+'myself.'': PHAO*EUS/TP-PL/AE
+''Is': AE/KPA/S
 'that': THA
-'all?'': AUL H-F AE
+'all?'': AUL/H-F/AE
 'said': SED
 'the': -T
-'fox.': TPOBGS TP-PL
-''I': AE EU
+'fox.': TPOBGS/TP-PL
+''I': AE/EU
 'am': APL
 'master': PHAFRT
 'of': -F
 'a': AEU
 'hundred': HUPBD
-'arts,': ARTS KW-BG
+'arts,': ARTS/KW-BG
 'and': SKP
 'have': SR
 'into': TPHAO
@@ -184,16 +184,16 @@ The Fox and the Cat
 'a': AEU
 'sackful': SABG/-FL
 'of': -F
-'cunning.': KUPBG TP-PL
+'cunning.': KUPBG/TP-PL
 'You': KPA/U
 'make': PHAEUBG
 'me': PHE
 'sorry': SOER
 'for': TPOR
-'you;': U STPH*FPLT
+'you;': U/STPH*FPLT
 'come': KOPL
 'with': W
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'I': EU
 'will': HR
 'teach': TAOEFP
@@ -204,7 +204,7 @@ The Fox and the Cat
 'away': WA*EU
 'from': TPR
 'the': -T
-'hounds.'': HOUPBDZ TP-PL AE
+'hounds.'': HOUPBDZ/TP-PL/AE
 'Just': KPA/SKWRUFT
 'then': THEPB
 'came': KAEUPL
@@ -212,14 +212,14 @@ The Fox and the Cat
 'hunter': HUPB/TER
 'with': W
 'four': TPOUR
-'dogs.': TKOGS TP-PL
+'dogs.': TKOGS/TP-PL
 'The': KPA/-T
 'cat': KAT
 'sprang': SPRAPBG
 'nimbly': TPHEUPL/PWHREU
 'up': UP
 'a': AEU
-'tree,': TRAOE KW-BG
+'tree,': TRAOE/KW-BG
 'and': SKP
 'sat': SAT
 'down': TKOUPB
@@ -227,7 +227,7 @@ The Fox and the Cat
 'the': -T
 'top': TOP
 'of': -F
-'it,': T KW-BG
+'it,': T/KW-BG
 'where': W-R
 'the': -T
 'branches': PWRAFRPBS
@@ -235,39 +235,39 @@ The Fox and the Cat
 'foliage': TPOEL/APBLG
 'quite': KWAOEUT
 'concealed': KAUPB/SAOELD
-'her.': HER TP-PL
-''Open': AE KPA/OEP
+'her.': HER/TP-PL
+''Open': AE/KPA/OEP
 'your': KWROUR
-'sack,': SABG KW-BG
+'sack,': SABG/KW-BG
 'Mr': PH*P/R*
-'Fox,': KPA/TPOBGS KW-BG
+'Fox,': KPA/TPOBGS/KW-BG
 'open': OEP
 'your': KWROUR
-'sack,'': SABG KW-BG AE
+'sack,'': SABG/KW-BG/AE
 'cried': KRAOEUD
 'the': -T
 'cat': KAT
 'to': TO
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'but': PWUT
 'the': -T
 'dogs': TKOGS
 'had': H
 'already': HR-R
 'seized': SAOEZ/-D
-'him,': HEUPL KW-BG
+'him,': HEUPL/KW-BG
 'and': SKP
 'were': WR
 'holding': HOELGD
 'him': HEUPL
-'fast.': TPAFT TP-PL
-''Ah,': AE KPA/HA*E KW-BG
+'fast.': TPAFT/TP-PL
+''Ah,': AE/KPA/HA*E/KW-BG
 'Mr': PH*P/R*
-'Fox,'': KPA/TPOBGS KW-BG AE
+'Fox,'': KPA/TPOBGS/KW-BG/AE
 'cried': KRAOEUD
 'the': -T
-'cat.': KAT TP-PL
-''You': AE KPA/U
+'cat.': KAT/TP-PL
+''You': AE/KPA/U
 'with': W
 'your': KWROUR
 'hundred': HUPBD
@@ -276,7 +276,7 @@ The Fox and the Cat
 'left': HREFT
 'in': TPH
 'the': -T
-'lurch!': HRUFRPB SKHRAPL
+'lurch!': HRUFRPB/SKHRAPL
 'Had': KPA/H
 'you': U
 'been': PW-PB
@@ -284,11 +284,11 @@ The Fox and the Cat
 'to': TO
 'climb': KHRAOEUPL
 'like': HRAOEUBG
-'me,': PHE KW-BG
+'me,': PHE/KW-BG
 'you': U
 'would': WO
 'not': TPHOT
 'have': SR
 'lost': HRO*S
 'your': KWROUR
-'life.'': HRAOEUF TP-PL AE
+'life.'': HRAOEUF/TP-PL/AE
