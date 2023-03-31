@@ -84,7 +84,7 @@ The Shadow
 'during': TKURG
 'the': -T
 'whole': WHOEL
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'with': W
 'every': EF
 'window': WOEUPBD
@@ -459,7 +459,7 @@ The Shadow
 'yet': KWRET
 'somebody': S-B
 'dwelt': TKWELT
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'for': TPOR
 'flowers': TPHRO*URS
 'stood': STAOD
@@ -2499,7 +2499,7 @@ The Shadow
 'I': EU
 'have': SR
 'been': PW-PB
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'and': SKP
 'therefore': TH-FR
 'you': U
@@ -2519,7 +2519,7 @@ The Shadow
 'you': U
 'had': H
 'gone': TKPWOPB
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'you': U
 'would': WO
 'not': TPHOT
@@ -2720,7 +2720,7 @@ The Shadow
 'ran': RAPB
 'here': HAOER
 'and': SKP
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'looked': HRAOBGD
 'through': THRU
 'the': -T
@@ -3708,7 +3708,7 @@ The Shadow
 'matter,': PHAERT/KW-BG
 'and': SKP
 'one': WUPB
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'while': WHAOEUL
 'on': OPB
 'the': -T
@@ -3974,7 +3974,7 @@ The Shadow
 'and': SKP
 'had': H
 'been': PW-PB
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'but': PWUT
 'not': TPHOT
 'while': WHAOEUL
@@ -4707,7 +4707,7 @@ The Shadow
 'not': TPHOT
 'be': -B
 'ill': EUL
-'to-day,': TO/H-PB/TKAEU/KW-BG
+'to-day,': TO/H-PB/TKAEURBGS
 'for': TPOR
 'this': TH
 'evening': AOEPBG

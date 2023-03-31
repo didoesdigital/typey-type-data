@@ -45,7 +45,7 @@ Iron Hans
 'some': SOPL
 'accident': STKEPB
 'has': HAS
-'befallen': PWE/TPAUL/*EPB
+'befallen': PWE/TPAUPBL
 'him,'': HEUPL/KW-BG/AE
 'said': SED
 'the': -T
@@ -75,7 +75,7 @@ Iron Hans
 'on': OPB
 'the': -T
 'third': THEURD
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'he': HE
 'sent': SEPBT
 'for': TPOR
@@ -1105,7 +1105,7 @@ Iron Hans
 'On': KPA/OPB
 'the': -T
 'third': THEURD
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'the': -T
 'boy': PWOEU
 'sat': SAT
@@ -2237,7 +2237,7 @@ Iron Hans
 'men': PHEPB
 'had': H
 'already': HR-R
-'fallen,': TPAUL/-PB/KW-BG
+'fallen,': TPAUPBL/KW-BG
 'and': SKP
 'little': HREUL
 'was': WAS
@@ -2745,7 +2745,7 @@ Iron Hans
 'On': KPA/OPB
 'the': -T
 'third': THEURD
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'he': HE
 'received': SAOEFD
 'from': TPR

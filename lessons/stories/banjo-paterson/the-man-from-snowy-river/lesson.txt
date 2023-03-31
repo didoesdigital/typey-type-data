@@ -73,7 +73,7 @@ The Man from Snowy River
 'wild': WAOEULD
 'bush': PWURB
 'horses': HORSZ
-'are,': R/KW-BG
+'are,': R-RBGS
 'And': AFPBD
 'the': -T
 'stock-horse': STOBG/H-PB/HORS
@@ -167,7 +167,7 @@ The Man from Snowy River
 'And': AFPBD
 'one': WUPB
 'was': WAS
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'a': AEU
 'stripling': STREUP/*LG
 'on': OPB
@@ -568,7 +568,7 @@ The Man from Snowy River
 'mountain': PHOUPB/TAEUPB
 'full': TPUL
 'in': TPH
-'view,': SRAOU/KW-BG
+'view,': SRAOURBGS
 'And': AFPBD
 'they': THE
 'charged': KHARPBLGD
@@ -654,7 +654,7 @@ The Man from Snowy River
 'the': -T
 'mob': PHOB
 'good': TKPWAOD
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'NO': *URP/TPHO
 'man': PHAPB
 'can': K
@@ -762,7 +762,7 @@ The Man from Snowy River
 'He': KPA/HE
 'cleared': KHRAOERD
 'the': -T
-'fallen': TPAUL/-PB
+'fallen': TPAUPBL
 'timber': TEUPL/PWER
 'in': TPH
 'his': HEUS
@@ -1053,7 +1053,7 @@ The Man from Snowy River
 'a': AEU
 'household': HOUS/HOLD
 'word': WORD
-'to-day,': TO/H-PB/TKAEU/KW-BG
+'to-day,': TO/H-PB/TKAEURBGS
 'And': AFPBD
 'the': -T
 'stockmen': STOBG/PH*EPB

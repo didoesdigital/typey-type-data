@@ -120,7 +120,7 @@ The Last Dream of the Old Oak
 'for': TPOR
 'only': OEPBL
 'a': AEU
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'had': H
 'fluttered': TPHRUT/ERD
 'about': PW
@@ -206,7 +206,7 @@ The Last Dream of the Old Oak
 'only': OEPBL
 'for': TPOR
 'one': WUPB
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'and': SKP
 'then': THEPB
 'it': T
@@ -921,7 +921,7 @@ The Last Dream of the Old Oak
 'a': AEU
 'beautiful': PWAOUFL
 'summer's': SAOURPL/AES
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'mild': PHAOEULD
 'and': SKP
 'warm.': WARPL/TP-PL
@@ -1698,7 +1698,7 @@ The Last Dream of the Old Oak
 'him.': HEUPL/TP-PL
 '"Here': KR-GS/KPA/HAOER
 'we': WE
-'are,': R/KW-BG
+'are,': R-RBGS
 'we': WE
 'are': R
 'here,"': HAOER/KW-BG/KR-GS
@@ -2085,7 +2085,7 @@ The Last Dream of the Old Oak
 '"It': KR-GS/KPA/T
 'must': PHUFT
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUPBL
 'in': TPH
 'the': -T
 'storm': STORPL

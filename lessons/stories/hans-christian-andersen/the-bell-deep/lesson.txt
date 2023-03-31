@@ -64,7 +64,7 @@ The Bell-Deep
 'velvety': SREL/SRE/TEU
 'flag': TPHRAG
 'grows': TKPWRO*ES
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'high': HAOEU
 'and': SKP
 'thick;': THEUBG/STPH*FPLT
@@ -1135,7 +1135,7 @@ The Bell-Deep
 'that': THA
 'rung': RUPBG
 'down': TKOUPB
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'for': TPOR
 'that': THA
 'it': T

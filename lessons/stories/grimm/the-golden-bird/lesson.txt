@@ -366,7 +366,7 @@ The Golden Bird
 'when': WHEPB
 'you': U
 'get': TKPWET
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'you': U
 'will': HR
 'see': SAOE
@@ -390,7 +390,7 @@ The Golden Bird
 'go': TKPW
 'not': TPHOT
 'in': TPH
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'but': PWUT
 'rest': REFT
 'for': TPOR
@@ -2325,7 +2325,7 @@ The Golden Bird
 'evil': AOEFL
 'would': WO
 'have': SR
-'befallen': PWE/TPAUL/*EPB
+'befallen': PWE/TPAUPBL
 'him:': HEUPL/STPH-FPLT
 ''Yet,'': AE/KPA/KWRET/KW-BG/AE
 'said': SED

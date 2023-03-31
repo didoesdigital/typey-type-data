@@ -1029,7 +1029,7 @@ An Unwritten Novel
 'it;': T/STPH*FPLT
 'here': HAOER
 'you': U
-'are,': R/KW-BG
+'are,': R-RBGS
 'cabby—none': xxx cabby/EPL/TKA*RB/TPHOPB
 'of': -F
 'your': KWROUR
@@ -1516,7 +1516,7 @@ An Unwritten Novel
 'in': TPH
 'the': -T
 'opening': OEPG
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'when': WHEPB
 'Spring': KPA/SPREUPBG
 'comes,': KOPLS/KW-BG
@@ -1823,7 +1823,7 @@ An Unwritten Novel
 'she': SHE
 'kneels;': TPHAOEL/-S/STPH*FPLT
 'every': EF
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'winter,': WEURPBT/KW-BG
 'summer,': SAOURPL/KW-BG
 'dusk,': TKUFBG/KW-BG
@@ -2028,7 +2028,7 @@ An Unwritten Novel
 'of': -F
 'God?—just': TKPWO*D/H-F/EPL/TKA*RB/SKWRUFT
 'up': UP
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'over': OEFR
 'the': -T
 'pier,': PAO*ER/KW-BG
@@ -2331,7 +2331,7 @@ An Unwritten Novel
 'so': SO
 'still': STEUL
 'down': TKOUPB
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'all': AUL
 'so': SO
 'lovely.': HROFL/TP-PL
@@ -2582,7 +2582,7 @@ An Unwritten Novel
 'charge': KHARPBLG
 'and': SKP
 'disperse': TKEUS/PERS
-'are,': R/KW-BG
+'are,': R-RBGS
 'indubitably,': EUPB/TKAOUBT/PWHREU/KW-BG
 'the': -T
 'figures': TPEUGS
@@ -2811,7 +2811,7 @@ An Unwritten Novel
 'Thursdays,': THURDZ/KW-BG
 'his': HEUS
 'Eastbourne': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'takes': TAEUBGS
 'his': HEUS
 'meals': PHAOELS
@@ -3442,7 +3442,7 @@ An Unwritten Novel
 'green': TKPWRAOEPB
 'here,': HAOER/KW-BG
 'black': PWHRABG
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'striking': STRAOEUG
 'to': TO
 'the': -T

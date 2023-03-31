@@ -248,7 +248,7 @@ Snowdrop
 'bright': PWRAOEUT
 'as': AS
 'the': -T
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'and': SKP
 'fairer': TPAEUR/*ER
 'than': THAPB
@@ -874,7 +874,7 @@ Snowdrop
 'out': OUT
 'where': W-R
 'you': U
-'are,': R/KW-BG
+'are,': R-RBGS
 'so': SO
 'take': TAEUBG
 'care': KAEUR
@@ -1062,7 +1062,7 @@ Snowdrop
 'and': SKP
 'said,': SED/KW-BG
 ''Good': AE/KPA/TKPWAOD
-'day,': TKAEU/KW-BG
+'day,': TKAEURBGS
 'good': TKPWAOD
 'woman!': WOPL/SKHRAPL
 'what': WHA
@@ -2308,7 +2308,7 @@ Snowdrop
 'when': WHEPB
 'she': SHE
 'got': TKPWOT
-'there,': THR/KW-BG
+'there,': THR-RBGS
 'and': SKP
 'saw': SAU
 'that': THA
