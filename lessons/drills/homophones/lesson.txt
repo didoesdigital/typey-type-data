@@ -8,8 +8,8 @@ Homophones
 'ax': A/KP*
 'axe': ABGS
 'adds': ADZ
-'adz': xxx adz
-'adze': xxx adze
+'adz': A*/TK*/STKPW*
+'adze': A*/TK*/STKPW*/*E
 'adherence': AD/HERPBS
 'adherents': AD/HAOER/EPBTS
 'adolescence': AD/HRES/EPBS
@@ -203,7 +203,7 @@ Homophones
 'chews': KHAOU/-S
 'choose': KHAOS
 'chic': SHAEBG
-'sheik': xxx sheik
+'sheik': S*/H*/*E/*EU/K*
 'choir': KHOEUR
 'quire': KWAO*EUR
 'chord': KHORD
@@ -232,7 +232,7 @@ Homophones
 'cox': HRO*ER/KOBGS
 'complement': PHREPLT
 'compliment': KPHREUPLT
-'contingence': xxx contingence
+'contingence': KR*/O*/TPH*/T*/*EU/TPH*/TKPW*/*E/TPH*/KR*/*E
 'contingents': KEUGT/-S
 'coo': KAO*
 'coup': KOUP
@@ -360,12 +360,12 @@ Homophones
 'gait': TKPWAEUT
 'gate': TKPWAET
 'gel': SKWREL
-'jell': xxx jell
+'jell': SKWR*/*E/HR*/HR*
 'gene': SKWRAOEPB
 'jean': SKWRAEPB
 'gild': TKPW*EULD
 'guild': TKPWEULD
-'gneiss': xxx gneiss
+'gneiss': TKPW*/TPH*/*E/*EU/S*/S*
 'nice': TPHAOEUS
 'gored': TKPWOR/-D
 'gourd': TKPWORD
@@ -496,7 +496,7 @@ Homophones
 'lay': HRAEU
 'lei': HRA*EU
 'lays': HRAEUZ
-'laze': xxx laze
+'laze': HR*/A*/STKPW*/*E
 'leach': HRAEFP
 'leech': HRAOEFP
 'lead': HRAED
@@ -521,7 +521,7 @@ Homophones
 'lyre': HRAO*EUR
 'lichen': HREUFP/*EPB
 'liken': HRAOEUBG/*EPB
-'lickerish': xxx lickerish
+'lickerish': HR*/*EU/KR*/K*/*E/R*/*EU/S*/H*
 'licorice': HREUBG/REUS
 'lie': HRAOEU
 'lye': HRAO*EU
@@ -582,7 +582,7 @@ Homophones
 'missed': PHEUFD
 'mist': PHEUFT
 'moat': PHOET
-'mote': xxx mote
+'mote': PH*/O*/T*/*E
 'mood': PHAOD
 'mooed': PHAO/-D
 'moor': PHO*R
@@ -713,7 +713,7 @@ Homophones
 'wrap': WRAP
 'rapt': RAPT
 'wrapped': WRAPD
-'wrapt': xxx wrapt
+'wrapt': W*/R*/A*/P*/T*
 're-cover': R*E/KOFR
 'recover': ROFR
 're-lay': R*E/HRAEU
@@ -724,7 +724,7 @@ Homophones
 'reed': RAOED
 'real': RAEL
 'reel': RAOEL
-'riel': xxx riel
+'riel': R*/*EU/*E/HR*
 'recede': RE/SAOED
 'reseed': RE/SAO*ED
 'reek': RAOEBG
@@ -792,7 +792,7 @@ Homophones
 'so': SO
 'sow': SOE
 'shake': SHAEUBG
-'sheik': xxx sheik
+'sheik': S*/H*/*E/*EU/K*
 'shear': SHAER
 'sheer': SHAOER
 'shoe': SHAOU
@@ -834,7 +834,7 @@ Homophones
 'steal': STAEL
 'steel': STAOEL
 'step': STEP
-'steppe': xxx steppe
+'steppe': S*/T*/*E/P*/P*/*E
 'storey': STOER/A*U
 'story': STOER
 'straight': STRAEUT
@@ -850,7 +850,7 @@ Homophones
 'tail': TAEUL
 'tale': TAEL
 'taper': TAEURP
-'tapir': xxx tapir
+'tapir': T*/A*/P*/*EU/R*
 'tarry': TAEUR/REU
 'terry': HRO*ER/T*ER/REU
 'taught': TAUT
@@ -920,7 +920,7 @@ Homophones
 'wave': WAF
 'waiver': WAEUFR
 'waver': WAFR
-'wale': xxx wale
+'wale': W*/A*/HR*/*E
 'whale': WHAEUL
 'war': WAR
 'wore': WOR
@@ -945,7 +945,7 @@ Homophones
 'wheal': WHAEL
 'wheel': WHAOEL
 'we're': WAOER
-'weir': xxx weir
+'weir': W*/*E/*EU/R*
 'we're': WAOER
 'were': WR
 'whir': WHEUR
@@ -981,7 +981,7 @@ Homophones
 'whit': WHEUT
 'wit': WEUT
 'white': WHAOEUT
-'wight': xxx wight
+'wight': W*/*EU/TKPW*/H*/T*
 'whither': WHEU/THER
 'wither': W*EUT/*ER
 'who's': WHOES
@@ -990,7 +990,7 @@ Homophones
 'woe': WOE
 'wood': WAOD
 'would': WO
-'yack': xxx yack
+'yack': KWR*/A*/KR*/K*
 'yak': KWRABG
 'yoke': KWRO*EBG
 'yolk': KWROEBG
