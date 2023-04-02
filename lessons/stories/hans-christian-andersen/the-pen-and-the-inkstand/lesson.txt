@@ -226,7 +226,7 @@ The Pen and the Inkstand
 'all;': AUL/STPH*FPLT
 'if': TP
 'you': U
-'did,': TK/KW-BG
+'did,': TK-RBGS
 'you': U
 'would': WO
 'see': SAOE
@@ -299,7 +299,7 @@ The Pen and the Inkstand
 'in': TPH
 'service': S-FS
 'a': AEU
-'week,': WAOEBG/KW-BG
+'week,': WAOERBGS
 'and': SKP
 'are': R
 'already': HR-R

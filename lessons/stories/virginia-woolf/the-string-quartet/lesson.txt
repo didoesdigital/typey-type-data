@@ -84,7 +84,7 @@ The String Quartet
 'the': -T
 'time': TAOEUPL
 'of': -F
-'year,': KWRAOER/KW-BG
+'year,': KWRAOERBGS
 'and': SKP
 'even': AOEPB
 'at': AT
@@ -285,7 +285,7 @@ The String Quartet
 'difficult': TKEUFL
 'to': TO
 'say': SAEU
-'why,': KWR/KW-BG
+'why,': KWR-RBGS
 'in': TPH
 'spite': SPAOEUT
 'of': -F
@@ -525,7 +525,7 @@ The String Quartet
 'violin': SRO*EUPBL
 'counts': KOUPBTS
 'one,': WUPB/KW-BG
-'two,': TWO/KW-BG
+'two,': TWORBGS
 'three——': THRAOE/EPL/TKA*RB/EPL/TKA*RB
 'Flourish,': KPA/TPHRUR/EURB/KW-BG
 'spring,': SPREUPBG/KW-BG
@@ -616,7 +616,7 @@ The String Quartet
 'round': ROUPBD
 'and': SKP
 'round—free': ROUPBD/EPL/TKA*RB/TPRAOE
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'rushing': RURBG
 'downwards,': TKOUPB/WARDZ/KW-BG
 'or': OR
@@ -966,7 +966,7 @@ The String Quartet
 'way': WAEU
 'out—blinder': OUT/EPL/TKA*RB/PWHRAOEUPB/TKER
 'each': AOEFP
-'year,': KWRAOER/KW-BG
+'year,': KWRAOERBGS
 'poor': PAOR
 'woman—on': WOPL/EPL/TKA*RB/OPB
 'this': TH

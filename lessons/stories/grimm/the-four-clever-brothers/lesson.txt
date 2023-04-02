@@ -256,7 +256,7 @@ The Four Clever Brothers
 'or': OR
 'care': KAEUR
 'anything': TPHEUG
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'and': SKP
 'where': W-R
 'no': TPHO
@@ -384,7 +384,7 @@ The Four Clever Brothers
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'and': SKP
 'said,': SED/KW-BG
 ''With': AE/KPA/W
@@ -652,7 +652,7 @@ The Four Clever Brothers
 'craft.': KRAFT/TP-PL
 'Then,': KPA/THEPB/KW-BG
 'one': WUPB
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'as': AS
 'they': THE
 'were': WR
@@ -716,7 +716,7 @@ The Four Clever Brothers
 'star-gazer': STAR/H-PB/xxx gazer
 'took': TAOBG
 'his': HEUS
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'looked': HRAOBGD
 'up,': UP/KW-BG
 'and': SKP
@@ -866,7 +866,7 @@ The Four Clever Brothers
 'in': TPH
 'them': THEPL
 'together': TOGT
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'so': SO
 'neatly': TPHAO*ELT
 'that': THA

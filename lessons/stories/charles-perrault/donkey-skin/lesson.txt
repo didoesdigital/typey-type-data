@@ -1133,7 +1133,7 @@ Donkey-Skin
 'a': AEU
 'whim': WHEUPL
 'you': U
-'have,': SR/KW-BG
+'have,': SR-RBGS
 'he': HE
 'must': PHUFT
 'give': TKPWEUF
@@ -1241,7 +1241,7 @@ Donkey-Skin
 'on': OPB
 'the': -T
 'second': SEBGD
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'they': THE
 'brought': PWRAUT
 'the': -T
@@ -2355,7 +2355,7 @@ Donkey-Skin
 'and': SKP
 'with': W
 'good': TKPWAOD
-'reason,': R-PB/KW-BG
+'reason,': R-FPBLTS
 'admired': AD/PHAOEURD
 'her': HER
 'appearance': PAOERPBS
@@ -2582,7 +2582,7 @@ Donkey-Skin
 'him': HEUPL
 'force': TPORS
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'had': H
 'it': T
 'not': TPHOT
@@ -2742,7 +2742,7 @@ Donkey-Skin
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'promised': PROPLS/-D
 'himself': HEUPLS
@@ -2900,7 +2900,7 @@ Donkey-Skin
 'subjects': SUBTS
 'should,': SHO/KW-BG
 'with': W
-'reason,': R-PB/KW-BG
+'reason,': R-FPBLTS
 'complain,': KPHRAEUPB/KW-BG
 'all': AUL
 'should': SHO
@@ -4653,7 +4653,7 @@ Donkey-Skin
 'happily': HAP/HREU
 'recovered': ROFRD
 'his': HEUS
-'reason,': R-PB/KW-BG
+'reason,': R-FPBLTS
 'and': SKP
 'had': H
 'married': PHAERD
@@ -4763,7 +4763,7 @@ Donkey-Skin
 'crowned': KROUPBD
 'the': -T
 'same': SAEUPL
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'and': SKP
 'kissing': KEUFG
 'his': HEUS

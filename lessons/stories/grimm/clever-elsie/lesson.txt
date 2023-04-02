@@ -388,7 +388,7 @@ Clever Elsie
 'to': TO
 'draw': TKRAU
 'beer': PWAOER
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'the': -T
 'pick-axe': PEUBG/H-PB/ABGS
 'will': HR
@@ -510,7 +510,7 @@ Clever Elsie
 'to': TO
 'draw': TKRAU
 'beer': PWAOER
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'the': -T
 'pick-axe': PEUBG/H-PB/ABGS
 'will': HR
@@ -547,7 +547,7 @@ Clever Elsie
 'waited': WAEUTD
 'for': TPOR
 'the': -T
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'but': PWUT
 'as': AS
 'he': HE
@@ -693,7 +693,7 @@ Clever Elsie
 'he': HE
 'heard': HAERD
 'the': -T
-'reason,': R-PB/KW-BG
+'reason,': R-FPBLTS
 'and': SKP
 'that': THA
 'Elsie's': EL/SEU/AES
@@ -712,7 +712,7 @@ Clever Elsie
 'the': -T
 'world': WORLD
 'some': SOPL
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'and': SKP
 'that': THA
 'he': HE

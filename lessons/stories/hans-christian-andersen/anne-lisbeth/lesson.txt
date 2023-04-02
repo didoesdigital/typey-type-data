@@ -480,7 +480,7 @@ Anne Lisbeth
 'pushed': PURBD
 'and': SKP
 'knocked': TPHOBGD
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'for': TPOR
 'the': -T
 'men': PHEPB
@@ -512,7 +512,7 @@ Anne Lisbeth
 'treated': TRAOETD
 'Anne': A*EPB
 'Lisbeth's': xxx Lisbeth/AES
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'and': SKP
 'how': HOU
 'could': KO
@@ -648,7 +648,7 @@ Anne Lisbeth
 'of': -F
 'twilight': TWAOEULGT
 'all': AUL
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'and': SKP
 'it': T
 'soon': SAOPB
@@ -753,7 +753,7 @@ Anne Lisbeth
 'him': HEUPL
 'the': -T
 'field-laborer's': TPAOELD/H-PB/HRAEUB/*ER/AES
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'though': THOE
 'in': TPH
 'the': -T
@@ -1314,7 +1314,7 @@ Anne Lisbeth
 'and': SKP
 'her': HER
 'darling': TKARLG
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'too:': TAO/STPH-FPLT
 'how': HOU
 'she': SHE
@@ -1551,7 +1551,7 @@ Anne Lisbeth
 'stood': STAOD
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'the': -T
 'two': TWO
@@ -3918,7 +3918,7 @@ Anne Lisbeth
 'piece': PAOES
 'of': -F
 'broken': PWROEPB
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'whose': WHOZ
 'sharp': SHARP
 'stern': STERPB
@@ -4098,7 +4098,7 @@ Anne Lisbeth
 'night': TPHAOEUT
 'she': SHE
 'vanished': SRAPB/EURBD
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'was': WAS
 'not': TPHOT
@@ -4246,7 +4246,7 @@ Anne Lisbeth
 'she': SHE
 'was': WAS
 'happy': HAEP
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'for': TPOR
 'she': SHE
 'had': H
@@ -4282,13 +4282,13 @@ Anne Lisbeth
 'but': PWUT
 'thou': THO*U
 'hast': H*/A*/S*/T*
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'for': TPOR
 'a': AEU
 'year': KWRAOER
 'and': SKP
 'a': AEU
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'buried': PWUR/EUD
 'me': PHE
 'altogether': HR-GT

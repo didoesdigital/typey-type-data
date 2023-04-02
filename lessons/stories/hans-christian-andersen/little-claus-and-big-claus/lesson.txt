@@ -69,7 +69,7 @@ Little Claus and Big Claus
 'Through': KPA/THRU
 'the': -T
 'whole': WHOEL
-'week,': WAOEBG/KW-BG
+'week,': WAOERBGS
 'Little': KPA/HREUL
 'Claus': xxx Claus
 'was': WAS
@@ -88,7 +88,7 @@ Little Claus and Big Claus
 'and': SKP
 'once': WUPBS
 'a': AEU
-'week,': WAOEBG/KW-BG
+'week,': WAOERBGS
 'on': OPB
 'a': AEU
 'Sunday,': SUPBD/KW-BG
@@ -315,7 +315,7 @@ Little Claus and Big Claus
 'he': HE
 'cried': KRAOEUD
 'out': OUT
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 '"Gee-up,': KR-GS/KPA/SKWRAOE/H-PB/UP/KW-BG
 'all': AUL
 'my': PHEU
@@ -705,7 +705,7 @@ Little Claus and Big Claus
 'she': SHE
 'filled': TPEULD
 'his': HEUS
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'and': SKP
 'helped': HEPD
 'him': HEUPL
@@ -724,7 +724,7 @@ Little Claus and Big Claus
 'could': KO
 'only': OEPBL
 'get': TKPWET
-'some,': SOPL/KW-BG
+'some,': SORPBLGS
 'too,"': TAO/KW-BG/KR-GS
 'thought': THAUT
 'Little': KPA/HREUL
@@ -1126,7 +1126,7 @@ Little Claus and Big Claus
 'treading': TRAOED/-G
 'upon': POPB
 'it': T
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'till': TEUL
 'it': T
 'squeaked': SKWRAOEBGD
@@ -1332,7 +1332,7 @@ Little Claus and Big Claus
 'to': TO
 'see': SAOE
 'him': HEUPL
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'while': WHAOEUL
 'I': EU
 'am': APL
@@ -1587,7 +1587,7 @@ Little Claus and Big Claus
 'obliged': OE/PWHRAOEUPBLGD
 'to': TO
 'drink': TKREU
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'they': THE
 'sat': SAT
@@ -2024,7 +2024,7 @@ Little Claus and Big Claus
 'chest': KHEFT
 'into': TPHAO
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'went': WEPBT
 'to': TO
@@ -2315,7 +2315,7 @@ Little Claus and Big Claus
 'skins,"': SKEUPBS/KW-BG/KR-GS
 'he': HE
 'cried': KRAOEUD
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 '"who'll': KR-GS/WHO/AE/HR*/HR*
 'buy': PWAOEU
 'skins?"': SKEUPBS/H-F/KR-GS
@@ -2885,7 +2885,7 @@ Little Claus and Big Claus
 'out': OUT
 'of': -F
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'seizing': SAOEZ/-G
 'hold': HOLD
@@ -2993,7 +2993,7 @@ Little Claus and Big Claus
 'Claus': xxx Claus
 'reached': RAOEFPD
 'home': HOEPL
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'he': HE
 'immediately': PHAOELD
 'sent': SEPBT
@@ -3710,7 +3710,7 @@ Little Claus and Big Claus
 'drover': TKROEFR
 'into': TPHAO
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'believing': PWHREFG
 'it': T
 'to': TO
@@ -3818,7 +3818,7 @@ Little Claus and Big Claus
 'am': APL
 'above': PWOF
 'you': U
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'I': EU
 'am': APL
 'really': R-L
@@ -3829,7 +3829,7 @@ Little Claus and Big Claus
 'frightened,': TPRAOEUFPBD/KW-BG
 'to': TO
 'be': -B
-'sure,': SHUR/KW-BG
+'sure,': SHAOURBGS
 'while': WHAOEUL
 'I': EU
 'lay': HRAEU
@@ -4274,7 +4274,7 @@ Little Claus and Big Claus
 'good': TKPWAOD
 'thrashing."': THRARB/-G/TP-PL/KR-GS
 '"No,': KR-GS/KPA/TPHO/KW-BG
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'don't': TKOEPBT
 'be': -B
 'too': TAO

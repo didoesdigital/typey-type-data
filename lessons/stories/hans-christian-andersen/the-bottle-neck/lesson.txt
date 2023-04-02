@@ -343,7 +343,7 @@ The Bottle Neck
 'and': SKP
 'in': TPH
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'I': EU
 'have': SR
 'been': PW-PB
@@ -367,7 +367,7 @@ The Bottle Neck
 'I': EU
 'am': APL
 'swinging': SWEUPBG/-G
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'outside': OUDZ
 'a': AEU
 'bird-cage,': PWEURD/H-PB/KAEUPBLG/KW-BG
@@ -691,7 +691,7 @@ The Bottle Neck
 'light': HRAOEUT
 'of': -F
 'day': TKAEU
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'until': TPH-L
 'it': T
 'was': WAS
@@ -711,7 +711,7 @@ The Bottle Neck
 'time,': TAOEUPL/KW-BG
 'rinsed': REUPBS/-D
 'with': W
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'which': WEU
 'caused': KAUFD
 'some': SOPL
@@ -1364,7 +1364,7 @@ The Bottle Neck
 'never': TPHEFR
 'see': SAOE
 'it': T
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'but': PWUT
 'she': SHE
 'was': WAS
@@ -1623,7 +1623,7 @@ The Bottle Neck
 'complaints': KPHRAEUPBTS
 'of': -F
 'the': -T
-'stomach,': STUPL/KW-BG
+'stomach,': STOPL/ARBGS
 'especially': EPS
 'as': AS
 'it': T
@@ -1804,7 +1804,7 @@ The Bottle Neck
 'to': TO
 'cure': KAOUR
 'the': -T
-'stomach,': STUPL/KW-BG
+'stomach,': STOPL/ARBGS
 'and': SKP
 'he': HE
 'gave': TKPWAEUF
@@ -2111,7 +2111,7 @@ The Bottle Neck
 'more': PHOR
 'than': THAPB
 'a': AEU
-'year,': KWRAOER/KW-BG
+'year,': KWRAOERBGS
 'sometimes': STAOEUPLS
 'towards': TORDZ
 'the': -T
@@ -2294,7 +2294,7 @@ The Bottle Neck
 'out': OUT
 'of': -F
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'examined': KP-D
 'on': OPB
@@ -3020,7 +3020,7 @@ The Bottle Neck
 'it': T
 'was,': WAS/KW-BG
 'one': WUPB
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'to': TO
 'be': -B
 'only': OEPBL
@@ -3316,7 +3316,7 @@ The Bottle Neck
 'as': AS
 'did': TK
 'these': THEZ
-'two,': TWO/KW-BG
+'two,': TWORBGS
 'even': AOEPB
 'while': WHAOEUL
 'together': TOGT
@@ -3515,7 +3515,7 @@ The Bottle Neck
 'of': -F
 'sailing,': SAEULG/KW-BG
 'and': SKP
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'at': AT
 'least,': HRAOEFT/KW-BG
 'there': THR
@@ -3843,7 +3843,7 @@ The Bottle Neck
 'jumping': SKWRUFRPG
 'and': SKP
 'rolling': ROLG
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'till': TEUL
 'at': AT
 'last': HRAFT
@@ -4239,7 +4239,7 @@ The Bottle Neck
 'the': -T
 'earth;': *ERT/STPH*FPLT
 'and': SKP
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'as': AS
 'you': U
 'see,': SAOERBGS

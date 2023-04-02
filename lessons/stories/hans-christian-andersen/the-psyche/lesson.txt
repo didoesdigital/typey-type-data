@@ -224,7 +224,7 @@ The Psyche
 'homage': OPL/APBLG
 'to': TO
 'these': THEZ
-'two,': TWO/KW-BG
+'two,': TWORBGS
 'and': SKP
 'honored': HOPB/ORD
 'them': THEPL
@@ -936,7 +936,7 @@ The Psyche
 'courtyard.': KORT/KWRARD/TP-PL
 'Fragments': KPA/TPRAPLTS
 'of': -F
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'climbing': KHRAOEUPL/-G
 'weeds,': WAOEDZ/KW-BG
 'and': SKP
@@ -2109,7 +2109,7 @@ The Psyche
 'some': SOPL
 'fine': TPAOEUPB
 'sunshiny': SUPB/TK-LS/SHOEUPB
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'when': WHEPB
 'everything': EFRG
 'is': S
@@ -3186,7 +3186,7 @@ The Psyche
 'him': HEUPL
 'as': AS
 'if': TP
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'for': TPOR
 'the': -T
 'first': TPEUFRT
@@ -3514,7 +3514,7 @@ The Psyche
 'from': TPR
 'within.': W-PB/TP-PL
 'One': KPA/WUPB
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'after': AF
 'the': -T
 'lapse': HRAPS

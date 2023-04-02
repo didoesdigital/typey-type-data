@@ -35,7 +35,7 @@ The Adventures of Chanticleer and Partlet
 'many': PHAEPB
 'as': AS
 'we': WE
-'can,': K/KW-BG
+'can,': K-RBGS
 'before': PW-FR
 'the': -T
 'squirrel': SKWEURL
@@ -71,7 +71,7 @@ The Adventures of Chanticleer and Partlet
 'was': WAS
 'a': AEU
 'lovely': HROFL
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'they': THE
 'stayed': STAEUD
 'there': THR
@@ -858,7 +858,7 @@ The Adventures of Chanticleer and Partlet
 'MR': *URP/PH*P/R*
 'KORBES': xxx KORBES
 'Another': KPA/TPHOER
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'Chanticleer': xxx Chanticleer
 'and': SKP
 'Partlet': xxx Partlet
@@ -1073,7 +1073,7 @@ The Adventures of Chanticleer and Partlet
 'over': OEFR
 'the': -T
 'house': HOUS
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'the': -T
 'egg': EG
@@ -1197,7 +1197,7 @@ The Adventures of Chanticleer and Partlet
 'came': KAEUPL
 'to': TO
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'the': -T
 'millstone': PHEUL/STOEPB
 'fell': TPEL
@@ -1312,12 +1312,12 @@ The Adventures of Chanticleer and Partlet
 'fast': TPAFT
 'as': AS
 'you': U
-'can,': K/KW-BG
+'can,': K-RBGS
 'and': SKP
 'fetch': TPEFP
 'me': PHE
 'some': SOPL
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'or': OR
 'I': EU
 'shall': SHAL
@@ -1339,7 +1339,7 @@ The Adventures of Chanticleer and Partlet
 'give': TKPWEUF
 'me': PHE
 'some': SOPL
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'for': TPOR
 'Partlet': xxx Partlet
 'lies': HRAO*EUS
@@ -1396,7 +1396,7 @@ The Adventures of Chanticleer and Partlet
 'will': HR
 'give': TKPWEUF
 'me': PHE
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'the': -T
 'water': WAUR
@@ -1483,7 +1483,7 @@ The Adventures of Chanticleer and Partlet
 'river': REUFR
 'gave': TKPWAEUF
 'him': HEUPL
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'he': HE
 'carried': KAERD
@@ -1680,7 +1680,7 @@ The Adventures of Chanticleer and Partlet
 'fell': TPEL
 'into': TPHAO
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'the': -T
 'six': SEUBGS

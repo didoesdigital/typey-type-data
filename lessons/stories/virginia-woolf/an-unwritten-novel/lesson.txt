@@ -540,7 +540,7 @@ An Unwritten Novel
 'burst': PWUFRT
 'open': OEP
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'left': HREFT
 'us': US
@@ -569,12 +569,12 @@ An Unwritten Novel
 'the': -T
 'time': TAOEUPL
 'of': -F
-'year,': KWRAOER/KW-BG
+'year,': KWRAOERBGS
 'which': WEU
 'was,': WAS/KW-BG
 'I': EU
 'forget': TPORGT
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'early': ERL
 'or': OR
 'late.': HRAEUT/TP-PL
@@ -739,13 +739,13 @@ An Unwritten Novel
 'there': THR
 'were': WR
 'a': AEU
-'reason,': R-PB/KW-BG
+'reason,': R-FPBLTS
 'and': SKP
 'if': TP
 'I': EU
 'knew': TPHAOU
 'the': -T
-'reason,': R-PB/KW-BG
+'reason,': R-FPBLTS
 'the': -T
 'stigma': STEUG/PHA
 'was': WAS
@@ -1728,11 +1728,11 @@ An Unwritten Novel
 'did."': TK/TP-PL/KR-GS
 'Whether': KPA/WHR
 'you': U
-'did,': TK/KW-BG
+'did,': TK-RBGS
 'or': OR
 'what': WHA
 'you': U
-'did,': TK/KW-BG
+'did,': TK-RBGS
 'I': EU
 'don't': TKOEPBT
 'mind;': PHAOEUPBD/STPH*FPLT
@@ -1823,7 +1823,7 @@ An Unwritten Novel
 'she': SHE
 'kneels;': TPHAOEL/-S/STPH*FPLT
 'every': EF
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'winter,': WEURPBT/KW-BG
 'summer,': SAOURPL/KW-BG
 'dusk,': TKUFBG/KW-BG
@@ -1967,7 +1967,7 @@ An Unwritten Novel
 'altogether': HR-GT
 'hide': HAOEUD
 ''em—they': AE/*E/PH*/EPL/TKA*RB/THE
-'guess,': TKPWES/KW-BG
+'guess,': TKPWERBGS
 'too;': TAO/STPH*FPLT
 'so': SO
 'out': OUT
@@ -2531,7 +2531,7 @@ An Unwritten Novel
 'She': KPA/SHE
 'opened': OEPD
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and,': SKP/KW-BG
 'putting': PUGT
 'her': HER
@@ -2633,10 +2633,10 @@ An Unwritten Novel
 'along': HRAOPBG
 'with': W
 'it': T
-'two,': TWO/KW-BG
+'two,': TWORBGS
 'if': TP
 'not': TPHOT
-'three,': THRAOE/KW-BG
+'three,': THRAOERBGS
 'commercial': KPHERBL
 'travellers': TRA*FL/ERS/A*U
 'and': SKP
@@ -2726,7 +2726,7 @@ An Unwritten Novel
 'glacis': xxx glacis
 'of': -F
 'cut': KUT
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'a': AEU
 'desire': STKAOEUR
 'to': TO
@@ -2793,7 +2793,7 @@ An Unwritten Novel
 'dull': TKUL
 'gold;': TKPWOELD/STPH*FPLT
 'cairngorms': xxx cairngorms
-'some,': SOPL/KW-BG
+'some,': SORPBLGS
 'and': SKP
 'others': OERS
 'coral': KORL
@@ -2811,7 +2811,7 @@ An Unwritten Novel
 'Thursdays,': THURDZ/KW-BG
 'his': HEUS
 'Eastbourne': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'takes': TAEUBGS
 'his': HEUS
 'meals': PHAOELS
@@ -3111,7 +3111,7 @@ An Unwritten Novel
 'they': THE
 'see': SAOE
 'something:': S-G/STPH-FPLT
-'black,': PWHRABG/KW-BG
+'black,': PWHRARBGS
 'white,': WHAOEUT/KW-BG
 'dismal;': TKEUS/PHAL/STPH*FPLT
 'now': TPHOU
@@ -3126,7 +3126,7 @@ An Unwritten Novel
 'elderly': ERLD
 'woman;': WOPL/STPH*FPLT
 '"Marsh's': KR-GS/KPA/PHA*RB/AES
-'sister,': ST-R/KW-BG
+'sister,': ST-RBGS
 'Hilda's': HEUL/TKA/AES
 'more': PHOR
 'my': PHEU
@@ -3404,7 +3404,7 @@ An Unwritten Novel
 'Moggridge,': xxx Moggridge/KW-BG
 'farewell!': TPAER/WEL/SKHRAPL
 'Yes,': KPA/KWRE/KW-BG
-'yes,': KWRE/KW-BG
+'yes,': KWRERBGS
 'I'm': AOEUPL
 'coming.': KO*G/TP-PL
 'Right': KPA/RAOEUT
@@ -3440,7 +3440,7 @@ An Unwritten Novel
 'waving': WAFG
 'and': SKP
 'green': TKPWRAOEPB
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'black': PWHRABG
 'there,': THR-RBGS
 'striking': STRAOEUG
@@ -3498,7 +3498,7 @@ An Unwritten Novel
 'Moggridge': xxx Moggridge
 'is': S
 'dead': TKED
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'gone': TKPWOPB
 'for': TPOR
 'ever.': -FR/TP-PL
@@ -3848,7 +3848,7 @@ An Unwritten Novel
 'the': -T
 'thing': THEUPBG
 'you': U
-'did,': TK/KW-BG
+'did,': TK-RBGS
 'the': -T
 'plate': PHRAET
 'glass': TKPWHRAS

@@ -130,7 +130,7 @@ The Storks
 'commanded': KPHAPBD/-D
 'to': TO
 'stand': STAPBD
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'which': WEU
 'is': S
 'quite': KWAOEUT
@@ -445,7 +445,7 @@ The Storks
 'us': US
 'in': TPH
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'cry': KRAOEU
 ''Croak,': AE/KPA/KROEBG/KW-BG
@@ -640,7 +640,7 @@ The Storks
 'we': WE
 'can': K
 'walk': WAUBG
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'and': SKP
 'eat': AOET
 'frogs': TPROGS
@@ -813,7 +813,7 @@ The Storks
 'brought': PWRAUT
 'them,': THEPL/KW-BG
 'every': EF
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'beautiful': PWAOUFL
 'frogs,': TPROGS/KW-BG
 'little': HREUL
@@ -883,7 +883,7 @@ The Storks
 'the': -T
 'mother': PHOER
 'one': WUPB
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 '"Now': KR-GS/KPA/TPHOU
 'you': U
 'must': PHUFT
@@ -1176,7 +1176,7 @@ The Storks
 'the': -T
 'chimney.': KHEUPL/TPHEU/TP-PL
 'There': KPA/THR
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'that': THA
 'was': WAS
 'very': SRE
@@ -1395,7 +1395,7 @@ The Storks
 'mother.': PHOER/TP-PL
 'To': KPA/TO
 'be': -B
-'sure,': SHUR/KW-BG
+'sure,': SHAOURBGS
 'storks': STORBG/-S
 'cannot': SK-PBT
 'be': -B
@@ -1418,7 +1418,7 @@ The Storks
 'revenge': RE/SREPBG
 'on': OPB
 'this': TH
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'because': PWAU
 'he': HE
 'began': TKPWAPB
@@ -1534,7 +1534,7 @@ The Storks
 'so': SO
 'well': WEL
 'every': EF
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'that': THA
 'at': AT
 'last': HRAFT
@@ -1760,7 +1760,7 @@ The Storks
 '"But': KR-GS/KPA/PWUT
 'the': -T
 'naughty': TPHAU/TEU
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'who': WHO
 'began': TKPWAPB
 'the': -T
@@ -1801,7 +1801,7 @@ The Storks
 'to': TO
 'the': -T
 'naughty': TPHAU/TEU
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'and': SKP
 'he': HE
 'will': HR
@@ -1872,10 +1872,10 @@ The Storks
 'and': SKP
 'from': TPR
 'that': THA
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'even': AOEPB
 'till': TEUL
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'all': AUL
 'the': -T
 'storks': STORBG/-S

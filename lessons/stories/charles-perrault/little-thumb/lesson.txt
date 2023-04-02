@@ -208,7 +208,7 @@ Little Thumb
 'a': AEU
 'very': SRE
 'bad': PWAD
-'year,': KWRAOER/KW-BG
+'year,': KWRAOERBGS
 'and': SKP
 'the': -T
 'famine': TPAPL/-PB
@@ -446,7 +446,7 @@ Little Thumb
 'went': WEPBT
 'to': TO
 'bed': PWED
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'but': PWUT
 'did': TK
 'not': TPHOT
@@ -644,14 +644,14 @@ Little Thumb
 'have': SR
 'left': HREFT
 'us': US
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'but': PWUT
 'I': EU
 'will': HR
 'lead': HRAED
 'you': U
 'home': HOEPL
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'only': OEPBL
 'follow': TPOL
 'me."': PHE/TP-PL/KR-GS
@@ -685,7 +685,7 @@ Little Thumb
 'down': TKOUPB
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'listening': HR-PBG
 'to': TO
 'what': WHA
@@ -832,7 +832,7 @@ Little Thumb
 'God,': TKPWO*D/KW-BG
 'the': -T
 'wolves': WOFLS
-'have,': SR/KW-BG
+'have,': SR-RBGS
 'perhaps,': PRAPS/KW-BG
 'already': HR-R
 'eaten': AOET/EPB
@@ -971,7 +971,7 @@ Little Thumb
 'were': WR
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'began': TKPWAPB
 'to': TO
 'cry': KRAOEU
@@ -990,7 +990,7 @@ Little Thumb
 'to': TO
 'open': OEP
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'said,': SED/KW-BG
 'hugging': HUG/-G
@@ -1303,7 +1303,7 @@ Little Thumb
 'find': TPAOEUPBD
 'the': -T
 'way': WAEU
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'by': PWEU
 'means': PHAOEPBS
 'of': -F
@@ -1588,7 +1588,7 @@ Little Thumb
 'knocked': TPHOBGD
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'a': AEU
 'good': TKPWAOD
@@ -1686,7 +1686,7 @@ Little Thumb
 'do?': TKO/H-F
 'To': KPA/TO
 'be': -B
-'sure,': SHUR/KW-BG
+'sure,': SHAOURBGS
 'the': -T
 'wolves': WOFLS
 'of': -F

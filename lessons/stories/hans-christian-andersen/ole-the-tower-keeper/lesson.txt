@@ -376,13 +376,13 @@ Ole the Tower-Keeper
 'least': HRAOEFT
 'once': WUPBS
 'a': AEU
-'year,': KWRAOER/KW-BG
+'year,': KWRAOERBGS
 'generally': SKWRERPBL
 'directly': TKREL
 'after': AF
 'New': KPA/TPHU
 'Year's': KPA/KWRAOER/AES
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
@@ -606,7 +606,7 @@ Ole the Tower-Keeper
 'grope': TKPWROEP
 'and': SKP
 'ferret': TPERT
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'and': SKP
 'yet': KWRET
 'remain': RAEUPL
@@ -630,7 +630,7 @@ Ole the Tower-Keeper
 'which': WEU
 'we': WE
 'move': PHOF
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'holds,': HOLDZ/KW-BG
 'and': SKP
 'does': TKOS
@@ -1122,7 +1122,7 @@ Ole the Tower-Keeper
 'beadle': PWAED/*L
 'with': W
 'his': HEUS
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'and': SKP
 'the': -T
 'boy': PWOEU
@@ -1876,7 +1876,7 @@ Ole the Tower-Keeper
 'was': WAS
 'New': KPA/TPHU
 'Year's': KPA/KWRAOER/AES
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'and': SKP
 'I': EU
 'went': WEPBT
@@ -2031,7 +2031,7 @@ Ole the Tower-Keeper
 'dwell': TKWEL
 'in': TPH
 'the': -T
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'first,': TPEUFRT/KW-BG
 'health,': H*ELT/KW-BG
 'and': SKP
@@ -2076,7 +2076,7 @@ Ole the Tower-Keeper
 'see,': SAOERBGS
 'the': -T
 'first': TPEUFRT
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'that's': THATS
 'the': -T
 'glass': TKPWHRAS
@@ -2264,7 +2264,7 @@ Ole the Tower-Keeper
 'pause': PAUS
 'drawn': TKRAUPB
 'by': PWEU
-'reason,': R-PB/KW-BG
+'reason,': R-FPBLTS
 'and': SKP
 'one': WUPB
 'may': PHAE
@@ -2276,7 +2276,7 @@ Ole the Tower-Keeper
 '"Take': KR-GS/KPA/TAEUBG
 'the': -T
 'fifth': TP*EUT
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'and': SKP
 'you': U
 'will': HR
@@ -2489,7 +2489,7 @@ Ole the Tower-Keeper
 'is': S
 'the': -T
 'sixth': S*BGS
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'and': SKP
 'with': W
 'that': THA
@@ -3556,7 +3556,7 @@ Ole the Tower-Keeper
 'who': WHO
 'always': AULS
 'lounged': HROUPB/-PBLGD
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'and': SKP
 'drank': TKRA*PBG
 'the': -T
@@ -3574,7 +3574,7 @@ Ole the Tower-Keeper
 'he': HE
 'had': H
 'done': TKOPB
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'will': HR
 'have': SR
 'his': HEUS
@@ -3942,7 +3942,7 @@ Ole the Tower-Keeper
 'to': TO
 'them': THEPL
 'every': EF
-'week,': WAOEBG/KW-BG
+'week,': WAOERBGS
 'and': SKP
 'had': H
 'a': AEU
@@ -4116,11 +4116,11 @@ Ole the Tower-Keeper
 'of': -F
 'it.': T/TP-PL
 'Any': KPA/TPHEU
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'any': TPHEU
 'hour,': HOUR/KW-BG
 'any': TPHEU
-'minute,': PHEUPB/KW-BG
+'minute,': PHEURPBGS
 'the': -T
 'omnibus': OPL/TPHEU/PWUS
 'may': PHAE

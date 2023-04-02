@@ -130,7 +130,7 @@ The Beetle Who Went on His Travels
 'forth': TPO*RT
 'from': TPR
 'the': -T
-'stable,': STABL/KW-BG
+'stable,': STAEURBLGS
 'where': W-R
 'the': -T
 'farrier': xxx farrier
@@ -348,7 +348,7 @@ The Beetle Who Went on His Travels
 'wings,': WEUPBGS/KW-BG
 'were': WR
 'flying': TPHRAOEUG
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'and': SKP
 'one': WUPB
 'of': -F
@@ -472,7 +472,7 @@ The Beetle Who Went on His Travels
 'of': -F
 'the': -T
 'Emperor's': KPA/EPL/ROR/AES
-'stable,': STABL/KW-BG
+'stable,': STAEURBLGS
 'and': SKP
 'no': TPHO
 'one': WUPB
@@ -502,7 +502,7 @@ The Beetle Who Went on His Travels
 'wings': WEUPBGS
 'and': SKP
 'fly!': TPHRAOEU/SKHRAPL
-'why,': KWR/KW-BG
+'why,': KWR-RBGS
 'I': EU
 'can': K
 'do': TKO
@@ -713,7 +713,7 @@ The Beetle Who Went on His Travels
 'as': AS
 'the': -T
 'warm': WARPL
-'stable,': STABL/KW-BG
+'stable,': STAEURBLGS
 'but': PWUT
 'there': THR
 'was': WAS
@@ -1467,7 +1467,7 @@ The Beetle Who Went on His Travels
 'from': TPR
 'the': -T
 'emperor's': EPL/ROR/AES
-'stable,': STABL/KW-BG
+'stable,': STAEURBLGS
 'where': W-R
 'I': EU
 'was': WAS
@@ -1537,7 +1537,7 @@ The Beetle Who Went on His Travels
 'beetle': PWAO*ELT
 'maidens': PHAEUD/*EPB/-S
 'tittered': xxx tittered
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'this': TH
 'time': TAOEUPL
 'quite': KWAOEUT
@@ -1745,7 +1745,7 @@ The Beetle Who Went on His Travels
 'can': K
 'be': -B
 'unmarried': UPB/PHAEUR/EUD
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'remain': RAEUPL
 'here': HAOER
@@ -1908,7 +1908,7 @@ The Beetle Who Went on His Travels
 'wings': WEUPBGS
 'were': WR
 'dry': TKRAOEU
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'so': SO
 'they': THE
 'carried': KAERD
@@ -2358,7 +2358,7 @@ The Beetle Who Went on His Travels
 'went': WEPBT
 'merrily': PHER/HREU
 'out': OUT
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'the': -T
 'two': TWO
 'boys': PWOEUS
@@ -2958,7 +2958,7 @@ The Beetle Who Went on His Travels
 'streaming': STRAOEPL/-G
 'into': TPHAO
 'the': -T
-'stable,': STABL/KW-BG
+'stable,': STAEURBLGS
 'and': SKP
 'shone': SHO*EPB
 'upon': POPB

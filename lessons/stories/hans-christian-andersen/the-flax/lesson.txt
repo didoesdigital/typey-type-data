@@ -147,7 +147,7 @@ The Flax
 'I': EU
 'am."': APL/TP-PL/KR-GS
 '"Ah,': KR-GS/KPA/HA*E/KW-BG
-'yes,': KWRE/KW-BG
+'yes,': KWRERBGS
 'no': TPHO
 'doubt,"': TKOUT/KW-BG/KR-GS
 'said': SED
@@ -512,7 +512,7 @@ The Flax
 'unless': TPH-LS
 'it': T
 'rained;': RAEUPBD/STPH*FPLT
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'I': EU
 'am': APL
 'watched': WAFPD
@@ -621,7 +621,7 @@ The Flax
 'wear': WAER
 'one.': WUPB/TP-PL
 '"See,': KR-GS/KPA/SAOE/KW-BG
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'then,"': THEPB/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -759,7 +759,7 @@ The Flax
 'and': SKP
 'steeped': STAOEP/-D
 'in': TPH
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'made': PHAED
 'into': TPHAO
@@ -784,7 +784,7 @@ The Flax
 'white': WHAOEUT
 'paper.': PAEUP/TP-PL
 '"Well,': KR-GS/KPA/WEL/KW-BG
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'this': TH
 'is': S
 'a': AEU
@@ -1271,7 +1271,7 @@ The Flax
 'done': TKOPB
 'with': W
 'me': PHE
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'I': EU
 'wonder?': WOPBD/H-F
 'No': KPA/TPHO
@@ -1446,7 +1446,7 @@ The Flax
 'find': TPAOEUPBD
 'out': OUT
 'some': SOPL
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'but': PWUT
 'we': WE
 'don't': TKOEPBT

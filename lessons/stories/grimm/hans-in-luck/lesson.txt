@@ -36,7 +36,7 @@ Hans in Luck
 'which': WEU
 'way': WAEU
 'you': U
-'will,': HR/KW-BG
+'will,': HR-RBGS
 'they': THE
 'will': HR
 'always,': AULS/KW-BG
@@ -519,7 +519,7 @@ Hans in Luck
 'what': WHA
 'he': HE
 'was': WAS
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'he': HE
 'was': WAS
 'thrown': THROEPB
@@ -562,7 +562,7 @@ Hans in Luck
 'upon': POPB
 'his': HEUS
 'legs': HREGS
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'sadly': SAD/HREU
 'vexed,': SREBGS/-D/KW-BG
 'and': SKP
@@ -666,7 +666,7 @@ Hans in Luck
 'and': SKP
 'cheese,': KHAOES/KW-BG
 'every': EF
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'into': TPHAO
 'the': -T
 'bargain.': PWAR/TKPWAEUPB/TP-PL
@@ -791,7 +791,7 @@ Hans in Luck
 'get': TKPWET
 'that),': THA/PR*EPB/KW-BG
 'I': EU
-'can,': K/KW-BG
+'can,': K-RBGS
 'whenever': WHEFR
 'I': EU
 'like,': HRAOEUBG/KW-BG
@@ -855,7 +855,7 @@ Hans in Luck
 'he': HE
 'set': SET
 'off': OF
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'driving': TKRAOEUFG
 'his': HEUS
 'cow': KOU
@@ -1515,7 +1515,7 @@ Hans in Luck
 'pig.': PEUG/TP-PL
 'If': KPA/TP
 'you': U
-'have,': SR/KW-BG
+'have,': SR-RBGS
 'and': SKP
 'they': THE
 'catch': KAFP
@@ -2219,7 +2219,7 @@ Hans in Luck
 'a': AEU
 'drink': TKREU
 'of': -F
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'rest': REFT
 'a': AEU

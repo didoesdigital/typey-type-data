@@ -172,7 +172,7 @@ The Raven
 'some': SOPL
 'enchantment;': EPB/KHAPLT/STPH*FPLT
 'you': U
-'can,': K/KW-BG
+'can,': K-RBGS
 'however,': HOUF/KW-BG
 'set': SET
 'me': PHE
@@ -1089,7 +1089,7 @@ The Raven
 'and': SKP
 'driven': TKREUFPB
 'away': WA*EU
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'it': T
 'is': S
@@ -1225,7 +1225,7 @@ The Raven
 'thinking': THEUG
 'to': TO
 'rest': REFT
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'he': HE
 'lay': HRAEU
 'down': TKOUPB
@@ -1882,7 +1882,7 @@ The Raven
 'for': TPOR
 'a': AEU
 'whole': WHOEL
-'year,': KWRAOER/KW-BG
+'year,': KWRAOERBGS
 'and': SKP
 'every': EF
 'day': TKAEU
@@ -1957,14 +1957,14 @@ The Raven
 'you,'': U/KW-BG/AE
 'he': HE
 'cried': KRAOEUD
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'again': TKPWEPB
 'they': THE
 'paused': PAUFD
 'and': SKP
 'looked': HRAOBGD
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'but': PWUT
 'seeing': SAOEG
 'no': TPHO

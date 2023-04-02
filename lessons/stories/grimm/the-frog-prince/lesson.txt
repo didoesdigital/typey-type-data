@@ -33,7 +33,7 @@ The Frog-Prince
 'cool': KAOL
 'spring': SPREUPBG
 'of': -F
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'that': THA
 'rose': ROEZ
 'in': TPH
@@ -159,7 +159,7 @@ The Frog-Prince
 'get': TKPWET
 'my': PHEU
 'ball': PWAUL
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'I': EU
 'would': WO
 'give': TKPWEUF
@@ -189,7 +189,7 @@ The Frog-Prince
 'out': OUT
 'of': -F
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'said,': SED/KW-BG
 ''Princess,': AE/KPA/PREUPB/SES/KW-BG
@@ -349,7 +349,7 @@ The Frog-Prince
 'he': HE
 'came': KAEUPL
 'up': UP
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'with': W
 'the': -T
 'ball': PWAUL
@@ -391,7 +391,7 @@ The Frog-Prince
 'in': TPH
 'her': HER
 'hand': HAPBD
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'that': THA
 'she': SHE
 'never': TPHEFR
@@ -435,7 +435,7 @@ The Frog-Prince
 'word.': WORD/TP-PL
 'The': KPA/-T
 'next': TPHEGT
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'just': SKWRUFT
 'as': AS
 'the': -T
@@ -470,7 +470,7 @@ The Frog-Prince
 'knock': TPHOBG
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'a': AEU
 'little': HREUL
@@ -481,7 +481,7 @@ The Frog-Prince
 'said:': SED/STPH-FPLT
 ''Open': AE/KPA/OEP
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'my': PHEU
 'princess': PREUPB/SES
 'dear,': TKAER/KW-BG
@@ -577,7 +577,7 @@ The Frog-Prince
 'she,': SHE/KW-BG
 ''at': AE/AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'that': THA
 'lifted': HREUFTD
 'my': PHEU
@@ -599,7 +599,7 @@ The Frog-Prince
 'live': HREUF
 'with': W
 'me': PHE
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'thinking': THEUG
 'that': THA
 'he': HE
@@ -616,7 +616,7 @@ The Frog-Prince
 'is': S
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'he': HE
 'wants': WAPBTS
@@ -633,12 +633,12 @@ The Frog-Prince
 'again': TKPWEPB
 'at': AT
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'and': SKP
 'said:': SED/STPH-FPLT
 ''Open': AE/KPA/OEP
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'my': PHEU
 'princess': PREUPB/SES
 'dear,': TKAER/KW-BG
@@ -769,7 +769,7 @@ The Frog-Prince
 'it.'': T/TP-PL/AE
 'This': KPA/TH
 'she': SHE
-'did,': TK/KW-BG
+'did,': TK-RBGS
 'and': SKP
 'when': WHEPB
 'he': HE
@@ -886,7 +886,7 @@ The Frog-Prince
 'said:': SED/STPH-FPLT
 ''Open': AE/KPA/OEP
 'the': -T
-'door,': TKAOR/KW-BG
+'door,': TKAORBGS
 'my': PHEU
 'princess': PREUPB/SES
 'dear,': TKAER/KW-BG
@@ -1086,7 +1086,7 @@ The Frog-Prince
 'you': U
 'may': PHAE
 'be': -B
-'sure,': SHUR/KW-BG
+'sure,': SHAOURBGS
 'was': WAS
 'not': TPHOT
 'long': HROPBG

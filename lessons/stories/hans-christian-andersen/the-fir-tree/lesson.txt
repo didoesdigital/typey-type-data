@@ -1314,7 +1314,7 @@ The Fir Tree
 'I': EU
 'grow': TKPWROE
 'faster': TPA*FRT
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'and': SKP
 'keep': KAOEP
 'on': OPB
@@ -1673,7 +1673,7 @@ The Fir Tree
 'soon': SAOPB
 'got': TKPWOT
 'up': UP
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'at': AT
 'last': HRAFT
@@ -1746,7 +1746,7 @@ The Fir Tree
 'was': WAS
 'raised': RA*EUFD
 'up': UP
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'married': PHAERD
 'a': AEU
@@ -1810,7 +1810,7 @@ The Fir Tree
 'a': AEU
 'princess.': PREUPB/SES/TP-PL
 '"Ah!': KR-GS/KPA/HA*E/SKHRAPL
-'yes,': KWRE/KW-BG
+'yes,': KWRERBGS
 'so': SO
 'it': T
 'happens': HAPS
@@ -1893,7 +1893,7 @@ The Fir Tree
 'of': -F
 'Humpty': KPA/H*UPLT/KWREU
 'Dumpty': KPA/TK*UPLT/KWREU
-'again,': TKPWEPB/KW-BG
+'again,': STKPWERPBGS
 'and': SKP
 'perhaps': PRAPS
 'Ivede-Avede."': xxx Ivede/H-PB/xxx Avede/TP-PL/KR-GS
@@ -2058,7 +2058,7 @@ The Fir Tree
 'shall': SHAL
 'be': -B
 'sheltered': SHELT/ERD
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'I': EU
 'dare': TKAEUR
 'say,': SAEU/KW-BG
@@ -2116,7 +2116,7 @@ The Fir Tree
 'would': WO
 'run': RUPB
 'by,': PWEU/KW-BG
-'yes,': KWRE/KW-BG
+'yes,': KWRERBGS
 'and': SKP
 'jump': SKWRUFRP
 'over': OEFR
@@ -2177,7 +2177,7 @@ The Fir Tree
 'be': -B
 'so': SO
 'comfortable': K-BL
-'here,': HAOER/KW-BG
+'here,': HAOERBGS
 'shouldn't': SHOPBT
 'we,': WE/KW-BG
 'you': U
@@ -2818,7 +2818,7 @@ The Fir Tree
 'could': KO
 'only': OEPBL
 'look': HRAOBG
-'about,': PW/KW-BG
+'about,': PW-RBGS
 'there': THR
 'was': WAS
 'so': SO

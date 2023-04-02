@@ -5,7 +5,7 @@ The Child in the Grave
 'a': AEU
 'very': SRE
 'sad': SAD
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'and': SKP
 'every': EF
 'heart': HART
@@ -213,7 +213,7 @@ The Child in the Grave
 'to': TO
 'their': THAEUR
 'own': OEPB
-'will,': HR/KW-BG
+'will,': HR-RBGS
 'and': SKP
 'heed': HAO*ED
 'not': TPHOT
@@ -630,7 +630,7 @@ The Child in the Grave
 'as': AS
 'he': HE
 'often': OFPB
-'did,': TK/KW-BG
+'did,': TK-RBGS
 'to': TO
 'her': HER
 'breathing,': PWRAO*EGT/KW-BG
@@ -795,7 +795,7 @@ The Child in the Grave
 'covered': KOFRD
 'him—her': HEUPL/EPL/TKA*RB/HER
 'little': HREUL
-'boy,': PWOEU/KW-BG
+'boy,': PWOEURBGS
 'whose': WHOZ
 'smile': SPHAOEUL
 'was': WAS
@@ -1262,7 +1262,7 @@ The Child in the Grave
 '"I': KR-GS/EU
 'can': K
 'fly': TPHRAOEU
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'mother,"': PHOER/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -1296,7 +1296,7 @@ The Child in the Grave
 'you': U
 'are': R
 'weeping': WAOEP/-G
-'now,': TPHOU/KW-BG
+'now,': TPHOURBGS
 'you': U
 'may': PHAE
 'never': TPHEFR

@@ -60,7 +60,7 @@ The Seven Ravens
 'to': TO
 'get': TKPWET
 'some': SOPL
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'but': PWUT
 'the': -T
 'other': OER
@@ -76,7 +76,7 @@ The Seven Ravens
 'at': AT
 'drawing': TKRAUG
 'the': -T
-'water,': WAUR/KW-BG
+'water,': WAURBGS
 'and': SKP
 'so': SO
 'they': THE
@@ -381,7 +381,7 @@ The Seven Ravens
 'about': PW
 'it': T
 'every': EF
-'day,': TKAEURBGS
+'day,': TKAEU/KW-BG
 'and': SKP
 'thought': THAUT
 'herself': H*ERS
@@ -931,7 +931,7 @@ The Seven Ravens
 'bottom': PWOPLT
 'of': -F
 'his': HEUS
-'glass,': TKPWHRAS/KW-BG
+'glass,': TKPWHRARBGS
 'and': SKP
 'found': TPOUPBD
 'there': THR
