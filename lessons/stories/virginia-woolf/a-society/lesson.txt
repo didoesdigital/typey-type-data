@@ -661,7 +661,7 @@ A Society
 'to': TO
 'her': HER
 'senses.': SEPBS/-S/TP-PL
-'"It's': KW-GS/KPA*/T/AES
+'"It's': KW-GS/KPA*/T-S
 'all': AUL
 'our': OUR
 'fault,"': TPAULT/KW-BG/KR-GS
@@ -3813,7 +3813,7 @@ A Society
 'a': AEU
 'weekly': WAOELG
 'newspaper.': TPHAOUP/TP-PL
-'"It's': KW-GS/KPA*/T/AES
+'"It's': KW-GS/KPA*/T-S
 'now': TPHOU
 'well': WEL
 'known': TPHOEPB
@@ -5259,7 +5259,7 @@ A Society
 'must': PHUFT
 'go': TKPW
 'home."': HOEPL/TP-PL/KR-GS
-'"It's': KW-GS/KPA*/T/AES
+'"It's': KW-GS/KPA*/T-S
 'no': TPHO
 'good—not': TKPWAOD/EPL/TKA*RB/TPHOT
 'a': AEU

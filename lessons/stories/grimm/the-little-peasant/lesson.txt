@@ -570,7 +570,7 @@ The Little Peasant
 'the': -T
 'woman': WOPL
 'thought:': THAUT/STPH-FPLT
-''He': AE/KPA/HE
+''He': AE/KPA*/HE
 'is': S
 'tired': TAOEURD
 'and': SKP
@@ -1049,7 +1049,7 @@ The Little Peasant
 'on': OPB
 'the': -T
 'bed.'': PWED/TP-PL/AE
-''That': AE/KPA/THA
+''That': AE/KPA*/THA
 'would': WO
 'be': -B
 'a': AEU
@@ -1090,7 +1090,7 @@ The Little Peasant
 'under': TPH-PB
 'the': -T
 'bed.'': PWED/TP-PL/AE
-''That': AE/KPA/THA
+''That': AE/KPA*/THA
 'would': WO
 'be': -B
 'a': AEU
@@ -1213,7 +1213,7 @@ The Little Peasant
 'The': KPA/-T
 'peasant': PEFPBT
 'replied:': RE/PHRAOEUD/STPH-FPLT
-''He': AE/KPA/HE
+''He': AE/KPA*/HE
 'says': SEZ
 'that': THA
 'the': -T
@@ -1787,7 +1787,7 @@ The Little Peasant
 'this,': TH/KW-BG
 'and': SKP
 'answered:': AEPBS/-D/STPH-FPLT
-''That': AE/KPA/THA
+''That': AE/KPA*/THA
 'is': S
 'what': WHA
 'we': WE
@@ -1995,7 +1995,7 @@ The Little Peasant
 'the': -T
 'peasants': PEFPBT/-S
 'cried:': KRAOEUD/STPH-FPLT
-''We': AE/KPA/WE
+''We': AE/KPA*/WE
 'already': HR-R
 'see': SAOE
 'the': -T

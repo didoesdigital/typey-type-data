@@ -514,7 +514,7 @@ The Velveteen Rabbit
 'the': -T
 'Skin': KPA/SKEUPB
 'Horse.': KPA/HORS/TP-PL
-'"It's': KW-GS/KPA*/T/AES
+'"It's': KW-GS/KPA*/T-S
 'a': AEU
 'thing': THEUPBG
 'that': THA
@@ -1752,7 +1752,7 @@ The Velveteen Rabbit
 'the': -T
 'furry': TPUR/REU
 'rabbit.': RABT/TP-PL
-'"It's': KW-GS/KPA*/T/AES
+'"It's': KW-GS/KPA*/T-S
 'as': AS
 'easy': EZ
 'as': AS
