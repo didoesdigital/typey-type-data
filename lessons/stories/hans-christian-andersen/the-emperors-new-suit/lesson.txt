@@ -97,7 +97,7 @@ The Emperor's New Suit
 'say': SAEU
 'of': -F
 'him,': HEUPL/KW-BG
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'emperor': EPL/ROR
 'is': S
 'in': TPH
@@ -588,7 +588,7 @@ The Emperor's New Suit
 'be': -B
 'busily': PWEUZ/HREU
 'weaving.': WAOEFG/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'it': T
 'is': S
 'very': SRE
@@ -603,7 +603,7 @@ The Emperor's New Suit
 'through': THRU
 'his': HEUS
 'glasses.': TKPWHRAFS/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'beautiful': PWAOUFL
 'pattern,': PAERPB/KW-BG
@@ -930,7 +930,7 @@ The Emperor's New Suit
 'see': SAOE
 'the': -T
 'cloth.': KHRO*T/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'is': S
 'this?"': TH/H-F/KR-GS
 'thought': THAUT
@@ -1143,7 +1143,7 @@ The Emperor's New Suit
 'said': SED
 'at': AT
 'last:': HRAFT/STPH-FPLT
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'emperor's': EPL/ROR/AES
 'new': TPHU
 'suit': SAOUT
@@ -1186,7 +1186,7 @@ The Emperor's New Suit
 'the': -T
 'coat!"': KOET/SKHRAPL/KR-GS
 'and': SKP
-'"Here': KR-GS/KPA/HAOER
+'"Here': KW-GS/KPA*/HAOER
 'is': S
 'the': -T
 'cloak!"': KHROEBG/SKHRAPL/KR-GS
@@ -1309,7 +1309,7 @@ The Emperor's New Suit
 'fit!"': TPEUT/SKHRAPL/KR-GS
 'said': SED
 'all.': AUL/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'beautiful': PWAOUFL
 'pattern!': PAERPB/SKHRAPL
@@ -1558,7 +1558,7 @@ The Emperor's New Suit
 'thought': THAUT
 'to': TO
 'himself,': HEUPLS/KW-BG
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'I': EU
 'must': PHUFT
 'bear': PWAER

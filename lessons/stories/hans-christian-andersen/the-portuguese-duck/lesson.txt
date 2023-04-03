@@ -610,7 +610,7 @@ The Portuguese Duck
 'the': -T
 'little': HREUL
 'bird.': PWEURD/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'Portuguese': PORT/TKPWAOES
 'had': H
 'certainly': SERPBL
@@ -749,7 +749,7 @@ The Portuguese Duck
 'bath': PWA*T
 'for': TPOR
 'you?"': U/H-F/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'no!': TPHO/SKHRAPL
 'no!': TPHO/SKHRAPL
 'pray': PRAEU
@@ -760,7 +760,7 @@ The Portuguese Duck
 'the': -T
 'little': HREUL
 'bird.': PWEURD/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'water-cure': WAUR/H-PB/KAOUR
 'is': S
 'the': -T
@@ -953,7 +953,7 @@ The Portuguese Duck
 'yourself,"': KWRO*URS/KW-BG/KR-GS
 'they': THE
 'said.': SED/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'ducks,': TKUBGZ/KW-BG
 'even': AOEPB
 'the': -T
@@ -1463,7 +1463,7 @@ The Portuguese Duck
 'ducky,"': xxx ducky/KW-BG/KR-GS
 'they': THE
 'whispered.': WHEUS/PERD/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'that's': THATS
 'too': TAO
 ''witty!'"': AE/WEUT/TEU/SKHRAPL/AE/KR-GS
@@ -1669,7 +1669,7 @@ The Portuguese Duck
 'behind': HEUPBD
 'my': PHEU
 'wing."': WEUPBG/TP-PL/KR-GS
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'I': EU
 'want': WAPBT
 'rest': REFT
@@ -1911,7 +1911,7 @@ The Portuguese Duck
 'on': OPB
 'the': -T
 'ground.': TKPWROUPBD/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'whatever': WHAF
 'is': S
 'the': -T

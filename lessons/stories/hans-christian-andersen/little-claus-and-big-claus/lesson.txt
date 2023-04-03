@@ -223,7 +223,7 @@ Little Claus and Big Claus
 'my': PHEU
 'five': TPAOEUF
 'horses!"': HORSZ/SKHRAPL/KR-GS
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'I': EU
 'must': PHUFT
 'beg': PWEG
@@ -349,7 +349,7 @@ Little Claus and Big Claus
 'fell': TPEL
 'dead': TKED
 'instantly.': EUPB/STAPBT/HREU/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'now': TPHOU
 'I': EU
 'have': SR
@@ -922,7 +922,7 @@ Little Claus and Big Claus
 'brought': PWRAUT
 'out': OUT
 'for.': TPOR/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'dear,"': TKAER/KW-BG/KR-GS
 'sighed': SAOEU/-D
 'Little': KPA/HREUL
@@ -1144,7 +1144,7 @@ Little Claus and Big Claus
 'asked': SK-D
 'the': -T
 'farmer.': TPAR/PHER/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'it': T
 'is': S
 'a': AEU
@@ -1248,7 +1248,7 @@ Little Claus and Big Claus
 'squeaked': SKWRAOEBGD
 'as': AS
 'before.': PW-FR/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'does': TKOS
 'he': HE
 'say': SAEU
@@ -1338,7 +1338,7 @@ Little Claus and Big Claus
 'am': APL
 'so': SO
 'merry."': PHER/REU/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'yes!"': KWRE/SKHRAPL/KR-GS
 'replied': RE/PHRAOEUD
 'Little': KPA/HREUL
@@ -1384,7 +1384,7 @@ Little Claus and Big Claus
 'look': HRAOBG
 'at': AT
 'him."': HEUPL/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'I': EU
 'am': APL
 'not': TPHOT
@@ -1475,7 +1475,7 @@ Little Claus and Big Claus
 'down': TKOUPB
 'to': TO
 'listen.': HREUFPB/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'does': TKOS
 'he': HE
 'say?"': SAEU/H-F/KR-GS
@@ -1854,7 +1854,7 @@ Little Claus and Big Claus
 'by': PWEU
 'the': -T
 'sexton,': SEBGS/TO*PB/KW-BG
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'what': WHA
 'shall': SHAL
 'I': EU
@@ -1980,7 +1980,7 @@ Little Claus and Big Claus
 'may': PHAE
 'be': -B
 'drowned."': TKROUPBD/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'no;': TPHO/STPH*FPLT
 'oh,': OERBGS
 'no,"': TPHO/KW-BG/KR-GS
@@ -2134,7 +2134,7 @@ Little Claus and Big Claus
 'a': AEU
 'bushel': PWURB/-L
 'measure.': PH*ERB/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'can': K
 'he': HE
 'want': WAPBT
@@ -2183,7 +2183,7 @@ Little Claus and Big Claus
 'sticking': STEUG
 'to': TO
 'it.': T/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'does': TKOS
 'this': TH
 'mean?"': PHAOEPB/H-F/KR-GS
@@ -2207,7 +2207,7 @@ Little Claus and Big Claus
 'so': SO
 'much': PHUFP
 'money?"': PHUPB/H-F/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'for': TPOR
 'my': PHEU
 'horse's': HORS/AES
@@ -2782,7 +2782,7 @@ Little Claus and Big Claus
 'in': TPH
 'the': -T
 'cart.': KART/TP-PL
-'"Here': KR-GS/KPA/HAOER
+'"Here': KW-GS/KPA*/HAOER
 'is': S
 'a': AEU
 'glass': TKPWHRAS
@@ -2909,7 +2909,7 @@ Little Claus and Big Claus
 'in': TPH
 'her': HER
 'forehead."': TPOER/HED/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'how': HOU
 'unfortunate,"': TPHORPBT/KW-BG/KR-GS
 'said': SED
@@ -3354,7 +3354,7 @@ Little Claus and Big Claus
 'his': HEUS
 'shoulders,': SHOURLDZ/KW-BG
 'saying,': SAEUG/KW-BG
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'I'm': AOEUPL
 'going': TKPW-G
 'to': TO
@@ -3545,7 +3545,7 @@ Little Claus and Big Claus
 'going': TKPW-G
 'to': TO
 'heaven."': HEFPB/TP-PL/KR-GS
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'I,': EU/KW-BG
 'poor': PAOR
 'fellow,"': TP*EL/KW-BG/KR-GS
@@ -4177,7 +4177,7 @@ Little Claus and Big Claus
 'cattle': KA*LT
 'more': PHOR
 'quickly."': KWEULG/TP-PL/KR-GS
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'lucky': HROEUBG
 'fellow': TP*EL
@@ -4334,7 +4334,7 @@ Little Claus and Big Claus
 'said': SED
 'Great': KPA/TKPWRAET
 'Claus;': xxx Claus/STPH*FPLT
-'"or': KR-GS/OR
+'"or': KW-GS/OR
 'you'll': UL
 'get': TKPWET
 'beaten."': PWAET/*EPB/TP-PL/KR-GS
@@ -4364,12 +4364,12 @@ Little Claus and Big Claus
 'said': SED
 'Great': KPA/TKPWRAET
 'Claus,': xxx Claus/KW-BG
-'"or': KR-GS/OR
+'"or': KW-GS/OR
 'I': EU
 'may': PHAE
 'not': TPHOT
 'sink."': S*EUPBG/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'there's': THR-S
 'not': TPHOT
 'much': PHUFP

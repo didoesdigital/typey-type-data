@@ -65,7 +65,7 @@ The Bell
 'from': TPR
 'the': -T
 'town.': TOUPB/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'evening': AOEPBG
 'bell': PWEL
 'is': S
@@ -824,7 +824,7 @@ The Bell
 'stall,': STAUL/KW-BG
 'they': THE
 'said:': SED/STPH-FPLT
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'we': WE
 'are': R
 'out': OUT
@@ -1770,7 +1770,7 @@ The Bell
 'had': H
 'quite': KWAOEUT
 'set.': SET/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'what': WHA
 'a': AEU
 'splendour!"': SHREPBD/O*R/A*U/SKHRAPL/KR-GS

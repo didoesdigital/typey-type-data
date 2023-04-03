@@ -28,7 +28,7 @@ The Elfin Hill
 'the': -T
 'lizard': HREUZ/ARD
 'language.': HRAPBLG/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'buzzing': PWUZ/-G
 'and': SKP
@@ -768,7 +768,7 @@ The Elfin Hill
 'and': SKP
 'humming': HUPL/-G
 'everywhere.': WEFR/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'we': WE
 'must': PHUFT
 'fumigate': TPAOUPL/TKPWAEUT
@@ -988,7 +988,7 @@ The Elfin Hill
 'them': THEPL
 'good': TKPWAOD
 'manners."': PHAERPBS/TP-PL/KR-GS
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'when': WHEPB
 'are': R
 'they': THE
@@ -1215,7 +1215,7 @@ The Elfin Hill
 'the': -T
 'old': OLD
 'man,': PHAPB/KW-BG
-'"or': KR-GS/OR
+'"or': KW-GS/OR
 'people': PAOEPL
 'will': HR
 'think': THEU
@@ -1869,7 +1869,7 @@ The Elfin Hill
 'enough': TPHUF
 'of': -F
 'it.': T/TP-PL
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'what': WHA
 'can': K
 'the': -T
@@ -1972,7 +1972,7 @@ The Elfin Hill
 'and': SKP
 'last': HRAFT
 'do?"': TKO/H-F/KR-GS
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'sixth': S*BGS
 'comes': KOPLS
 'before': PW-FR
@@ -2047,7 +2047,7 @@ The Elfin Hill
 'on': OPB
 'any': TPHEU
 'subject.': SUBT/TP-PL
-'"Here': KR-GS/KPA/HAOER
+'"Here': KW-GS/KPA*/HAOER
 'are': R
 'my': PHEU
 'five': TPAOEUF
@@ -2311,7 +2311,7 @@ The Elfin Hill
 'brought': PWRAUT
 'their': THAEUR
 'torches.': TOR/-FPS/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'tricks': TREUBGS
 'have': SR
 'you': U
@@ -2421,7 +2421,7 @@ The Elfin Hill
 'than': THAPB
 'exchanging': KPAEUPBG/-G
 'rings.': REUPBGS/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'cock': KOBG
 'is': S
 'crowing,"': KROE/-G/KW-BG/KR-GS
@@ -2470,7 +2470,7 @@ The Elfin Hill
 'to': TO
 'the': -T
 'other,': OER/KW-BG
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'how': HOU
 'much': PHUFP
 'I': EU
@@ -2480,7 +2480,7 @@ The Elfin Hill
 'the': -T
 'old': OLD
 'goblin!"': TKPWOB/HREUPB/SKHRAPL/KR-GS
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'boys': PWOEUS
 'pleased': PHREFD
 'me': PHE

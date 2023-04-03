@@ -340,7 +340,7 @@ A Society
 'Milton': PHEULT/O*PB
 'and': SKP
 'Shelley.': SHEL/HREU/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'yes,"': KWRE/KW-BG/KR-GS
 'she': SHE
 'interrupted': EUPBT/RUPTD
@@ -390,7 +390,7 @@ A Society
 'a': AEU
 'Window"': KPA/WOEUPBD/KR-GS
 'or': OR
-'"In': KR-GS/KPA/TPH
+'"In': KW-GS/KPA*/TPH
 'a': AEU
 'Garden,"': KPA/TKPWA*RPB/KW-BG/KR-GS
 'or': OR
@@ -661,7 +661,7 @@ A Society
 'to': TO
 'her': HER
 'senses.': SEPBS/-S/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'all': AUL
 'our': OUR
 'fault,"': TPAULT/KW-BG/KR-GS
@@ -1108,7 +1108,7 @@ A Society
 'upon': POPB
 'the': -T
 'behind.': HEUPBD/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'honour': HO*RPB/A*U
 'of': -F
 'the': -T
@@ -1648,7 +1648,7 @@ A Society
 'like': HRAOEUBG
 'a': AEU
 'dog.': TKOG/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'I'll': AOEUL
 'roll': ROL
 'on': OPB
@@ -1690,7 +1690,7 @@ A Society
 'Castalia': xxx Castalia
 'stopped': STOPD
 'her.': HER/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'is': S
 'the': -T
 'average': AFRG
@@ -1700,7 +1700,7 @@ A Society
 'picture?"': P*EUFP/H-F/KR-GS
 'she': SHE
 'asked.': SK-D/TP-PL
-'"Perhaps': KR-GS/KPA/PRAPS
+'"Perhaps': KW-GS/KPA*/PRAPS
 'two': TWO
 'feet': TPAOET
 'by': PWEU
@@ -2173,7 +2173,7 @@ A Society
 '"Hum,"': KR-GS/KPA/HUPL/KW-BG/KR-GS
 'said': SED
 'Castalia.': xxx Castalia/TP-PL
-'"Perhaps': KR-GS/KPA/PRAPS
+'"Perhaps': KW-GS/KPA*/PRAPS
 'I'd': AOEUD
 'better': PWOERT
 'go': TKPW
@@ -2276,7 +2276,7 @@ A Society
 'about': PW
 'her': HER
 'figure.': TPEUG/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'the': -T
 'vow,"': SROU/KW-BG/KR-GS
 'she': SHE
@@ -2305,7 +2305,7 @@ A Society
 'beautiful,': PWAOUFL/KW-BG
 'how': HOU
 'satisfying—"': SAEG/EPL/TKA*RB/KR-GS
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'is?"': S/H-F/KR-GS
 'I': EU
 'asked.': SK-D/TP-PL
@@ -2424,7 +2424,7 @@ A Society
 'me': PHE
 'called': KAULD
 'Castalia."': xxx Castalia/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'Castalia,': xxx Castalia/KW-BG
 'your': KWROUR
 'mother—"': PHOER/EPL/TKA*RB/KR-GS
@@ -2766,7 +2766,7 @@ A Society
 'say': SAEU
 'to': TO
 'her:': HER/STPH-FPLT
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'is': S
 'chastity': KHAFT/TEU
 'then?': THEPB/H-F
@@ -2809,7 +2809,7 @@ A Society
 'least': HRAOEFT
 'ten': TEPB
 'minutes."': PHEUPBS/TP-PL/KR-GS
-'"In': KR-GS/KPA/TPH
+'"In': KW-GS/KPA*/TPH
 'my': PHEU
 'opinion,"': P-PB/KW-BG/KR-GS
 'said': SED
@@ -2930,7 +2930,7 @@ A Society
 'are': R
 'in': TPH
 'love."': HRUF/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'bother,"': PWOER/KW-BG/KR-GS
 'said': SED
 'Judith,': SKWRUD/*EUT/KW-BG
@@ -3020,7 +3020,7 @@ A Society
 'future': TPAOURT
 'Lord': HRO*RD
 'Chancellors': xxx Chancellors
-'"or': KR-GS/OR
+'"or': KW-GS/OR
 'poets': POETS
 'or': OR
 'painters': PA*EURPBTS
@@ -3791,7 +3791,7 @@ A Society
 'woman!"': WOPL/SKHRAPL/KR-GS
 'someone': SPH-PB
 'exclaimed.': SKHRAEUPLD/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'bore': PWOR
 'she': SHE
@@ -3813,7 +3813,7 @@ A Society
 'a': AEU
 'weekly': WAOELG
 'newspaper.': TPHAOUP/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'now': TPHOU
 'well': WEL
 'known': TPHOEPB
@@ -3854,7 +3854,7 @@ A Society
 'write,"': WREU/KW-BG/KR-GS
 'Eleanor': EL/TPHOR
 'continued.': T-PBD/TP-PL
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'yet,': KWRET/KW-BG
 'whenever': WHEFR
 'I': EU
@@ -4019,7 +4019,7 @@ A Society
 'in': TPH
 'their': THAEUR
 'hands.'"': HAPBDZ/TP-PL/AE/KR-GS
-'"Safe,': KR-GS/KPA/SAEUF/KW-BG
+'"Safe,': KW-GS/KPA*/SAEUF/KW-BG
 'quite': KWAOEUT
 'safe,"': SAEUF/KW-BG/KR-GS
 'she': SHE
@@ -4030,7 +4030,7 @@ A Society
 'foot': TPAOT
 'to': TO
 'foot.': TPAOT/TP-PL
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'I'm': AOEUPL
 'sure': SHUR
 'that': THA
@@ -4160,7 +4160,7 @@ A Society
 'we': WE
 'bade': PWAEUD
 'her.': HER/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'truth?': TRAO*UT/H-F
 'But': KPA/PWUT
 'isn't': S-PBT
@@ -4194,11 +4194,11 @@ A Society
 'sons': SOPBS
 'to': TO
 'Eton——"': AOET/O*PB/EPL/TKA*RB/EPL/TKA*RB/KR-GS
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'truth!"': TRAO*UT/SKHRAPL/KR-GS
 'we': WE
 'demanded.': TKPHAPBD/-D/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'the': -T
 'truth,"': TRAO*UT/KW-BG/KR-GS
 'she': SHE
@@ -4276,11 +4276,11 @@ A Society
 'other': OER
 'in': TPH
 'horror.': HOR/O*R/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'war?"': WAR/H-F/KR-GS
 'we': WE
 'cried.': KRAOEUD/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'war?"': WAR/H-F/KR-GS
 'We': KPA/WE
 'remembered,': RERD/KW-BG
@@ -4343,7 +4343,7 @@ A Society
 'she': SHE
 'replied': RE/PHRAOEUD
 'calmly.': KAUPL/HREU/TP-PL
-'"In': KR-GS/KPA/TPH
+'"In': KW-GS/KPA*/TPH
 '1760,': xxx 1760/KW-BG
 'for': TPOR
 'example——"': KP-PL/EPL/TKA*RB/EPL/TKA*RB/KR-GS
@@ -4353,7 +4353,7 @@ A Society
 'drowned': TKROUPBD
 'her': HER
 'words.': WORDZ/TP-PL
-'"Again': KR-GS/KPA/TKPWEPB
+'"Again': KW-GS/KPA*/TKPWEPB
 'in': TPH
 '1797—in': xxx 1797/EPL/TKA*RB/TPH
 '1804—It': xxx 1804/EPL/TKA*RB/KPA/T
@@ -4490,13 +4490,13 @@ A Society
 'passionate': PAGS/A*T
 'and': SKP
 'unworldly."': xxx unworldly/TP-PL/KR-GS
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'woman's': WOPL/AES
 'language!"': HRAPBLG/SKHRAPL/KR-GS
 'I': EU
 'observed.': OEBD/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'dear,"': TKAER/KW-BG/KR-GS
 'cried': KRAOEUD
 'Castalia,': xxx Castalia/KW-BG
@@ -4785,7 +4785,7 @@ A Society
 'and': SKP
 'burst': PWUFRT
 'out,': OUT/KW-BG
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'Cassandra,': KA/SAPBD/RA/KW-BG
 'why': KWR
 'do': TKO
@@ -5180,7 +5180,7 @@ A Society
 'that': THA
 'we': WE
 'have."': SR/TP-PL/KR-GS
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'then': THEPB
 'you': U
 'ask': SK
@@ -5259,7 +5259,7 @@ A Society
 'must': PHUFT
 'go': TKPW
 'home."': HOEPL/TP-PL/KR-GS
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'no': TPHO
 'good—not': TKPWAOD/EPL/TKA*RB/TPHOT
 'a': AEU

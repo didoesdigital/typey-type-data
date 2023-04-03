@@ -50,7 +50,7 @@ Little Tiny or Thumbelina
 'can': K
 'find': TPAOEUPBD
 'one?"': WUPB/H-F/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'that': THA
 'can': K
 'be': -B
@@ -59,7 +59,7 @@ Little Tiny or Thumbelina
 'said': SED
 'the': -T
 'fairy.': TPAEUR/REU/TP-PL
-'"Here': KR-GS/KPA/HAOER
+'"Here': KW-GS/KPA*/HAOER
 'is': S
 'a': AEU
 'barleycorn': PWAR/HREU/KORPB
@@ -372,7 +372,7 @@ Little Tiny or Thumbelina
 'her': HER
 'rose-leaf': ROEZ/H-PB/HRAOEF
 'quilt.': KWEULT/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'pretty': PREUT
 'little': HREUL
@@ -711,7 +711,7 @@ Little Tiny or Thumbelina
 'water,': WAURBGS
 'and': SKP
 'said,': SED/KW-BG
-'"Here': KR-GS/KPA/HAOER
+'"Here': KW-GS/KPA*/HAOER
 'is': S
 'my': PHEU
 'son,': SOPB/KW-BG
@@ -922,7 +922,7 @@ Little Tiny or Thumbelina
 'her,': HER/KW-BG
 'and': SKP
 'sang,': SAPBG/KW-BG
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'lovely': HROFL
 'little': HREUL
@@ -2219,7 +2219,7 @@ Little Tiny or Thumbelina
 'exclaimed': SKHRAEUPLD
 'the': -T
 'field-mouse,': TPAOELD/H-PB/PHOUS/KW-BG
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'is': S
 'the': -T
 'use': AOUS
@@ -2278,7 +2278,7 @@ Little Tiny or Thumbelina
 'the': -T
 'closed': KHROEFD
 'eyelids.': AOEULDZ/TP-PL
-'"Perhaps': KR-GS/KPA/PRAPS
+'"Perhaps': KW-GS/KPA*/PRAPS
 'this': TH
 'was': WAS
 'the': -T
@@ -3220,7 +3220,7 @@ Little Tiny or Thumbelina
 'said': SED
 'to': TO
 'her,': HER/KW-BG
-'"In': KR-GS/KPA/TPH
+'"In': KW-GS/KPA*/TPH
 'four': TPOUR
 'weeks': WAOEBGS
 'the': -T
@@ -3244,7 +3244,7 @@ Little Tiny or Thumbelina
 'replied': RE/PHRAOEUD
 'the': -T
 'field-mouse.': TPAOELD/H-PB/PHOUS/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'don't': TKOEPBT
 'be': -B
 'obstinate,': OBS/TPHAT/KW-BG
@@ -4006,7 +4006,7 @@ Little Tiny or Thumbelina
 'of': -F
 'them': THEPL
 'all.': AUL/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'how': HOU
 'beautiful': PWAOUFL
 'he': HE

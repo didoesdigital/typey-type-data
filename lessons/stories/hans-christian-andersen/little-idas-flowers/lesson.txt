@@ -109,7 +109,7 @@ Little Ida's Flowers
 'said': SED
 'the': -T
 'student.': STAUPB/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'flowers': TPHRO*URS
 'were': WR
 'at': AT
@@ -141,7 +141,7 @@ Little Ida's Flowers
 'replied': RE/PHRAOEUD
 'the': -T
 'student.': STAUPB/TP-PL
-'"When': KR-GS/KPA/WHEPB
+'"When': KW-GS/KPA*/WHEPB
 'it': T
 'grows': TKPWRO*ES
 'dark,': TKARBG/KW-BG
@@ -440,7 +440,7 @@ Little Ida's Flowers
 'said': SED
 'the': -T
 'student.': STAUPB/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'old': OLD
 'steward': STAOURD
 'of': -F
@@ -1552,7 +1552,7 @@ Little Ida's Flowers
 'before': PW-FR
 'heard': HAERD
 'it.': T/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'all': AUL
 'the': -T
 'flowers': TPHRO*URS

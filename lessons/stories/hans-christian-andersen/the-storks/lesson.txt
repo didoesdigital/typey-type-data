@@ -461,7 +461,7 @@ The Storks
 'will': HR
 'be': -B
 'fun."': TPUPB/TP-PL/KR-GS
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'what': WHA
 'next?"': TPHEGT/H-F/KR-GS
 'asked': SK-D
@@ -646,7 +646,7 @@ The Storks
 'frogs': TPROGS
 'in': TPH
 'abundance."': PWUPB/TKAPBS/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'o—h!"': O*/EPL/TKA*RB/H*/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
@@ -884,7 +884,7 @@ The Storks
 'mother': PHOER
 'one': WUPB
 'day,': TKAEU/KW-BG
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'you': U
 'must': PHUFT
 'learn': HRERPB
@@ -1038,7 +1038,7 @@ The Storks
 'said': SED
 'the': -T
 'mother,': PHOER/KW-BG
-'"or': KR-GS/OR
+'"or': KW-GS/OR
 'till': TEUL
 'the': -T
 'boys': PWOEUS
@@ -1642,7 +1642,7 @@ The Storks
 'very': SRE
 'quickly': KWEULG
 'did.': TK/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'let': HRET
 'us': US
 'have': SR

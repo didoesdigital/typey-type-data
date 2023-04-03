@@ -400,7 +400,7 @@ The Toad
 'jewel': SKWRAOUL
 'might': PHAOEUT
 'be.': -B/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'it': T
 'is': S
 'such': SUFP
@@ -417,7 +417,7 @@ The Toad
 'said': SED
 'the': -T
 'Mother-Toad.': KPA/PHOER/H-PB/KPA/TAOD/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'something': S-G
 'which': WEU
 'one': WUPB
@@ -778,7 +778,7 @@ The Toad
 'branches': PWRAFRPBS
 'and': SKP
 'leaves.': HREFS/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'much': PHUFP
 'nicer': TPHAOEURS
 'here': HAOER
@@ -883,7 +883,7 @@ The Toad
 'said': SED
 'the': -T
 'Toad.': KPA/TAOD/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'almost': HR-PL
 'too': TAO
 'much': PHUFP
@@ -1054,7 +1054,7 @@ The Toad
 'in': TPH
 'the': -T
 'neighborhood.': TPHAOD/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'a': AEU
 'glorious': TKPWHRORS
 'thing': THEUPBG
@@ -1203,7 +1203,7 @@ The Toad
 'pond': POPBD
 'was': WAS
 'free.': TPRAOE/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'I': EU
 'shall': SHAL
 'resume': RAOUPL
@@ -1250,7 +1250,7 @@ The Toad
 'higher': HAOEUR
 'and': SKP
 'higher.': HAOEUR/TP-PL
-'"Perhaps': KR-GS/KPA/PRAPS
+'"Perhaps': KW-GS/KPA*/PRAPS
 'after': AF
 'all,': AUL/KW-BG
 'I': EU
@@ -1446,7 +1446,7 @@ The Toad
 'a': AEU
 'kitchen': K-FP
 'garden.': TKPWA*RPB/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'number': TPHUPL
 'of': -F
@@ -1697,7 +1697,7 @@ The Toad
 'said': SED
 'the': -T
 'Caterpillar.': KA*T/*ER/PEUL/A*R/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'good': TKPWAOD
 'thing': THEUPBG
@@ -1751,7 +1751,7 @@ The Toad
 'frightened': TPRAOEUFPBD
 'the': -T
 'fowls.': TPO*UL/-S/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'do': TKO
 'you': U
 'mean': PHAOEPB
@@ -2189,7 +2189,7 @@ The Toad
 'Toad': KPA/TAOD
 'to': TO
 'herself.': H*ERS/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'good': TKPWAOD
 'thing': THEUPBG
@@ -2382,7 +2382,7 @@ The Toad
 'the': -T
 'little': HREUL
 'Toad.': KPA/TAOD/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'great': TKPWRAET
 'man': PHAPB

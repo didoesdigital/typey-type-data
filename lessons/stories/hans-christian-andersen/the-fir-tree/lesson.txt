@@ -293,7 +293,7 @@ The Fir Tree
 'and': SKP
 'would': WO
 'exclaim,': SKHRAEUPL/KW-BG
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'if': TP
 'I': EU
 'could': KO
@@ -485,7 +485,7 @@ The Fir Tree
 'stately,': STAEULT/KW-BG
 'very': SRE
 'stately."': STAEULT/TP-PL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'how': HOU
 'I': EU
 'wish': WEURB
@@ -501,7 +501,7 @@ The Fir Tree
 'said': SED
 'the': -T
 'fir-tree.': TPEUR/H-PB/TRAOE/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'is': S
 'the': -T
 'sea,': SAE/KW-BG
@@ -719,7 +719,7 @@ The Fir Tree
 'of': -F
 'wax': WABGS
 'tapers."': TAEURPS/TP-PL/KR-GS
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'then,"': THEPB/KW-BG/KR-GS
 'asked': SK-D
 'the': -T
@@ -913,7 +913,7 @@ The Fir Tree
 'by': PWEU
 'would': WO
 'say,': SAEU/KW-BG
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'beautiful': PWAOUFL
 'tree!"': TRAOE/SKHRAPL/KR-GS
@@ -1145,7 +1145,7 @@ The Fir Tree
 'the': -T
 'fir-tree': TPEUR/H-PB/TRAOE
 'trembled!': TREPL/-BLD/SKHRAPL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'was': WAS
 'going': TKPW-G
 'to': TO
@@ -1263,7 +1263,7 @@ The Fir Tree
 'it': T
 'will': HR
 'be!"': -B/SKHRAPL/KR-GS
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'that': THA
 'the': -T
 'evening': AOEPBG
@@ -1509,7 +1509,7 @@ The Fir Tree
 'taken': TAEPB
 'from': TPR
 'it.': T/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'are': R
 'they': THE
 'doing?': TK*G/H-F
@@ -1623,7 +1623,7 @@ The Fir Tree
 'towards': TORDZ
 'the': -T
 'tree.': TRAOE/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'we': WE
 'shall': SHAL
 'be': -B
@@ -1961,7 +1961,7 @@ The Fir Tree
 'they': THE
 'left': HREFT
 'him.': HEUPL/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'does': TKOS
 'this': TH
 'mean?"': PHAOEPB/H-F/KR-GS
@@ -2161,7 +2161,7 @@ The Fir Tree
 'between': TWAOEPB
 'the': -T
 'branches.': PWRAFRPBS/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'it': T
 'is': S
 'very': SRE
@@ -2170,7 +2170,7 @@ The Fir Tree
 'the': -T
 'little': HREUL
 'mouse,': PHOUS/KW-BG
-'"or': KR-GS/OR
+'"or': KW-GS/OR
 'else': ELS
 'we': WE
 'should': SHO
@@ -2324,7 +2324,7 @@ The Fir Tree
 'attentively,': A/TEPBT/EUFL/KW-BG
 'they': THE
 'said,': SED/KW-BG
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'a': AEU
 'number': TPHUPL
 'of': -F
@@ -2421,7 +2421,7 @@ The Fir Tree
 'in': TPH
 'my': PHEU
 'growth."': TKPWRO*ET/TP-PL/KR-GS
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'splendid': SPHREPB/TKEUD
 'stories': STOERS
 'you': U
@@ -2779,7 +2779,7 @@ The Fir Tree
 'the': -T
 'daylight': TKAEULT
 'shone.': SHO*EPB/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'life': HRAOEUF
 'is': S
 'beginning': TKPWEUPB/-G
@@ -2873,7 +2873,7 @@ The Fir Tree
 'fir-tree': TPEUR/H-PB/TRAOE
 'they': THE
 'meant.': PHEPBT/TP-PL
-'"Now': KR-GS/KPA/TPHOU
+'"Now': KW-GS/KPA*/TPHOU
 'I': EU
 'shall': SHAL
 'live,"': HREUF/KW-BG/KR-GS
@@ -3044,7 +3044,7 @@ The Fir Tree
 'the': -T
 'old': OLD
 'tree;': TRAOE/STPH*FPLT
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'had': H
 'I': EU
 'but': PWUT

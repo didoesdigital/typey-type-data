@@ -693,7 +693,7 @@ The Story of the Year
 'we': WE
 'shall': SHAL
 'stay."': STAEU/TP-PL/KR-GS
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'we': WE
 'will': HR
 'fly': TPHRAOEU
@@ -988,7 +988,7 @@ The Story of the Year
 'of': -F
 'the': -T
 'sparrows.': SPAEUR/ROE/-S/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'calendar': KAL/TKAR
 'is': S
 'only': OEPBL
@@ -2764,7 +2764,7 @@ The Story of the Year
 'for': TPOR
 'Christmas': KREUS/PHAS
 'time.': TAOEUPL/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'bells': PWELS
 'are': R
 'ringing': REUPBG/-G
@@ -2937,7 +2937,7 @@ The Story of the Year
 'when': WHEPB
 'Spring': KPA/SPREUPBG
 'appears."': A/PAOERS/TP-PL/KR-GS
-'"And': KR-GS/AFPBD
+'"And': KW-GS/AFPBD
 'when': WHEPB
 'will': HR
 'Spring': KPA/SPREUPBG
@@ -3109,7 +3109,7 @@ The Story of the Year
 'which': WEU
 'is': S
 'coming."': KO*G/TP-PL/KR-GS
-'"When': KR-GS/KPA/WHEPB
+'"When': KW-GS/KPA*/WHEPB
 'will': HR
 'Spring': KPA/SPREUPBG
 'come?"': KOPL/H-F/KR-GS
@@ -3206,7 +3206,7 @@ The Story of the Year
 'dream': TKRAOEPL
 'of': -F
 'Winter.': W*EUPBT/*ER/TP-PL
-'"When': KR-GS/KPA/WHEPB
+'"When': KW-GS/KPA*/WHEPB
 'will': HR
 'Spring': KPA/SPREUPBG
 'come?"': KOPL/H-F/KR-GS

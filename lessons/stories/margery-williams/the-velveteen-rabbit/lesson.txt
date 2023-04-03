@@ -465,7 +465,7 @@ The Velveteen Rabbit
 'all': AUL
 'about': PW
 'it.': T/TP-PL
-'"What': KR-GS/KPA/WHA
+'"What': KW-GS/KPA*/WHA
 'is': S
 'REAL?"': *URP/RAEL/H-F/KR-GS
 'asked': SK-D
@@ -514,7 +514,7 @@ The Velveteen Rabbit
 'the': -T
 'Skin': KPA/SKEUPB
 'Horse.': KPA/HORS/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'a': AEU
 'thing': THEUPBG
 'that': THA
@@ -560,7 +560,7 @@ The Velveteen Rabbit
 'was': WAS
 'always': AULS
 'truthful.': TRAO*UT/-FL/TP-PL
-'"When': KR-GS/KPA/WHEPB
+'"When': KW-GS/KPA*/WHEPB
 'you': U
 'are': R
 'Real': KPA/RAEL
@@ -581,7 +581,7 @@ The Velveteen Rabbit
 'up,"': UP/KW-BG/KR-GS
 'he': HE
 'asked,': SK-D/KW-BG
-'"or': KR-GS/OR
+'"or': KW-GS/OR
 'bit': PWEUT
 'by': PWEU
 'bit?"': PWEUT/H-F/KR-GS
@@ -708,7 +708,7 @@ The Velveteen Rabbit
 'Horse': KPA/HORS
 'only': OEPBL
 'smiled.': SPHAOEULD/TP-PL
-'"The': KR-GS/KPA/-T
+'"The': KW-GS/KPA*/-T
 'Boy's': KPA/PWOEU/AES
 'Uncle': *UPBG/-L
 'made': PHAED
@@ -925,7 +925,7 @@ The Velveteen Rabbit
 'made': PHAED
 'a': AEU
 'swoop.': SWAOP/TP-PL
-'"Here,"': KR-GS/KPA/HAOER/KW-BG/KR-GS
+'"Here,"': KW-GS/KPA*/HAOER/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
 '"take': KR-GS/TAEUBG
@@ -1752,7 +1752,7 @@ The Velveteen Rabbit
 'the': -T
 'furry': TPUR/REU
 'rabbit.': RABT/TP-PL
-'"It's': KR-GS/KPA/T/AES
+'"It's': KW-GS/KPA*/T/AES
 'as': AS
 'easy': EZ
 'as': AS
@@ -2110,7 +2110,7 @@ The Velveteen Rabbit
 'the': -T
 'little': HREUL
 'Rabbit.': KPA/RABT/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'do': TKO
 'come': KOPL
 'back!': PWABG/SKHRAPL
@@ -2149,7 +2149,7 @@ The Velveteen Rabbit
 'was': WAS
 'all': AUL
 'alone.': A/HROEPB/TP-PL
-'"Oh,': KR-GS/KPA/O*ERBGS/KW-BG
+'"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'dear!"': TKAER/SKHRAPL/KR-GS
 'he': HE
 'thought.': THAUT/TP-PL
