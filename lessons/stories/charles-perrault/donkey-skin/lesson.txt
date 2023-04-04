@@ -364,7 +364,7 @@ Donkey-Skin
 'dissolved': TKEUS/SOFLD
 'in': TPH
 'tears:': TAERS/STPH-FPLT
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'well': WEL
 'that': THA
@@ -419,7 +419,7 @@ Donkey-Skin
 'a': AEU
 'second': SEBGD
 'marriage.': PHAERPBLG/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'my': PHEU
 'dear': TKAER
 'spouse,"': SPOUS/KW-BG/KR-GS
@@ -453,7 +453,7 @@ Donkey-Skin
 'of': -F
 'the': -T
 'King,': KO*EUPBG/KW-BG
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'State': STA*ET
 'demands': TKPHAPBDZ
 'successors,': SUBG/SES/ORS/KW-BG
@@ -1104,7 +1104,7 @@ Donkey-Skin
 'said': SED
 'to': TO
 'her,': HER/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'would': WO
 'be': -B
 'a': AEU
@@ -1597,7 +1597,7 @@ Donkey-Skin
 'to': TO
 'the': -T
 'Princess,': KPA/PREUPB/SES/KW-BG
-'"we': KR-GS/WE
+'"we': KW-GS/WE
 'will': HR
 'put': PUT
 'the': -T
@@ -2949,7 +2949,7 @@ Donkey-Skin
 'very': SRE
 'feeble': TPAOEBL
 'voice,': SROEUS/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'not': TPHOT
 'so': SO
@@ -3032,7 +3032,7 @@ Donkey-Skin
 'replied': RE/PHRAOEUD
 'the': -T
 'Queen,': KWAO*EPB/KW-BG
-'"we': KR-GS/WE
+'"we': KW-GS/WE
 'will': HR
 'spare': SPAEUR
 'nothing': TPHOG
@@ -3067,7 +3067,7 @@ Donkey-Skin
 'shall': SHAL
 'have': SR
 'it."': T/TP-PL/KR-GS
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'Madam,"': PHAD/APL/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
@@ -3134,7 +3134,7 @@ Donkey-Skin
 'Donkey-skin': KPA/TKOPB/KEU/H-PB/SKEUPB
 'might': PHAOEUT
 'be.': -B/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is,': S-RBGS
 'Madam,"': PHAD/APL/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
@@ -3149,7 +3149,7 @@ Donkey-Skin
 'seen': SAOEPB
 'this': TH
 'girl,': TKPWEURL/KW-BG
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'the': -T
 'most': PHOFT
@@ -3170,7 +3170,7 @@ Donkey-Skin
 'minds': PHAOEUPBDZ
 'your': KWROUR
 'geese."': TKPWAOES/TP-PL/KR-GS
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'matters': PHAERTS
 'not,"': TPHOT/KW-BG/KR-GS
 'said': SED
@@ -3683,7 +3683,7 @@ Donkey-Skin
 'to': TO
 'their': THAEUR
 'son.': SOPB/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'son,': SOPB/KW-BG
 'my': PHEU
 'dear': TKAER
@@ -3742,7 +3742,7 @@ Donkey-Skin
 'said': SED
 'to': TO
 'them:': THEPL/STPH-FPLT
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'father': TPAER
 'and': SKP
 'my': PHEU
@@ -4004,7 +4004,7 @@ Donkey-Skin
 'as': AS
 'the': -T
 'nail.': TPHAEUL/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'not': TPHOT
 'brought': PWRAUT
@@ -4022,14 +4022,14 @@ Donkey-Skin
 'laughed': HRAFD
 'and': SKP
 'said,': SED/KW-BG
-'"No,"': KR-GS/KPA/TPHO/KW-BG/KR-GS
+'"No,"': KW-GS/KPA*/TPHO/KW-BG/KR-GS
 'so': SO
 'dirty': TKOEURT
 'and': SKP
 'unpleasant': UPB/PHR*EPBT
 'was': WAS
 'she.': SHE/TP-PL
-'"Let': KR-GS/KPA/HRET
+'"Let': KW-GS/KPA*/HRET
 'someone': SPH-PB
 'fetch': TPEFP
 'her': HER
@@ -4038,7 +4038,7 @@ Donkey-Skin
 'said': SED
 'the': -T
 'King;': KO*EUPBG/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'shall': SHAL
 'not': TPHOT
 'be': -B

@@ -196,7 +196,7 @@ An Unwritten Novel
 'say': SAEU
 'to': TO
 'me,': PHE/KW-BG
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'only': OEPBL
 'you': U
 'knew!"': TPHAOU/SKHRAPL/KR-GS
@@ -206,7 +206,7 @@ An Unwritten Novel
 'at': AT
 'life': HRAOEUF
 'again.': TKPWEPB/TP-PL
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'I': EU
 'do': TKO
 'know,"': TPHOE/KW-BG/KR-GS
@@ -220,7 +220,7 @@ An Unwritten Novel
 'for': TPOR
 'manners'': PHAERPBS/AE
 'sake.': SAEUBG/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'know': TPHOE
 'the': -T
 'whole': WHOEL
@@ -605,7 +605,7 @@ An Unwritten Novel
 'approached': A/PROEFPD
 'the': -T
 'catastrophe,': KATS/TROEF/KW-BG
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'sister-in-law"—the': ST-R/H-PB/TPH/H-PB/HRAU/KR-GS/EPL/TKA*RB/-T
 'bitterness': PWEURT/-PBS
 'of': -F
@@ -1626,7 +1626,7 @@ An Unwritten Novel
 'glass': TKPWHRAS
 'swing': SWEUPBG
 'door.': TKAOR/TP-PL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'sale-time.': SAEL/H-PB/TAOEUPL/TP-PL
 'Shallow': KPA/SHOEUL
 'trays': TRAEUZ
@@ -1658,7 +1658,7 @@ An Unwritten Novel
 'with': W
 'its': EUTS
 'surprises.': SPRAOEUFS/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'don't': TKOEPBT
 'shut': SHUT
 'till': TEUL
@@ -1695,7 +1695,7 @@ An Unwritten Novel
 'detail': TKE/TAEUL
 'matters': PHAERTS
 'nothing!': TPHOG/SKHRAPL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'what': WHA
 'she': SHE
 'carries': KAERS
@@ -1714,7 +1714,7 @@ An Unwritten Novel
 'between': TWAOEPB
 'her': HER
 'shoulders.': SHOURLDZ/TP-PL
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'she': SHE
 'seems': SAOEPLS
 'to': TO
@@ -1845,7 +1845,7 @@ An Unwritten Novel
 'spot': SPOT
 'receives': SAOEFS
 'them.': THEPL/TP-PL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'raised,': RA*EUFD/KW-BG
 'it's': T-S
 'red,': RED/KW-BG
@@ -1916,7 +1916,7 @@ An Unwritten Novel
 'him,': HEUPL/KW-BG
 'someone': SPH-PB
 'interrupts.': EUPBT/RUPTS/TP-PL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'Hilda': HEUL/TKA
 'now.': TPHOU/TP-PL
 'How': KPA/HOU
@@ -2940,7 +2940,7 @@ An Unwritten Novel
 'while': WHAOEUL
 'Moggridge': xxx Moggridge
 'lives.': HREUFS/TP-PL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'life's': HRAOEUF/AES
 'fault.': TPAULT/TP-PL
 'Here's': KPA/HAOER/AES
@@ -3598,7 +3598,7 @@ An Unwritten Novel
 'the': -T
 'dark': TKARBG
 'corridors.': KOR/TKORS/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'can': K
 'bear': PWAER
 'it': T
@@ -3607,7 +3607,7 @@ An Unwritten Novel
 'her': HER
 'spirit': SPEURT
 'says.': SEZ/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'man': PHAPB
 'at': AT
 'lunch—Hilda—the': HRUPBS/EPL/TKA*RB/HEUL/TKA/EPL/TKA*RB/-T
@@ -3616,7 +3616,7 @@ An Unwritten Novel
 'heavens,': HEFPBS/KW-BG
 'her': HER
 'sob!': SOB/SKHRAPL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'the': -T
 'spirit': SPEURT
 'wailing': WAEULG
@@ -3660,7 +3660,7 @@ An Unwritten Novel
 'me."': PHE/TP-PL/KR-GS
 'But': KPA/PWUT
 'then—the': THEPB/EPL/TKA*RB/-T
-'muffins,': PHUFPB/-S/KW-BG
+'muffins,': PHUF/*EUPBZ/KW-BG
 'the': -T
 'bald': PWAULD
 'elderly': ERLD

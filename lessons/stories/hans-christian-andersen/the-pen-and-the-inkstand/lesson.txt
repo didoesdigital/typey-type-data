@@ -16,7 +16,7 @@ The Pen and the Inkstand
 'was': WAS
 'once': WUPBS
 'made,': PHAED/KW-BG
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'wonderful': WUFL
 'what': WHA
@@ -72,7 +72,7 @@ The Pen and the Inkstand
 'out': OUT
 'of': -F
 'me.': PHE/TP-PL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'quite': KWAOEUT
 'incredible,': TPHEBL/KW-BG
 'and': SKP
@@ -218,7 +218,7 @@ The Pen and the Inkstand
 'said': SED
 'the': -T
 'pen,': PEPB/KW-BG
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'you': U
 'don't': TKOEPBT
 'think': THEU
@@ -283,7 +283,7 @@ The Pen and the Inkstand
 'an': APB
 'old': OLD
 'inkstand."': *EUPBG/STA*PBD/TP-PL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'had': H
 'very': SRE
@@ -292,7 +292,7 @@ The Pen and the Inkstand
 'replied': RE/PHRAOEUD
 'the': -T
 'inkstand.': *EUPBG/STA*PBD/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'hardly': HA*RLD
 'been': PW-PB
@@ -606,7 +606,7 @@ The Pen and the Inkstand
 'on': OPB
 'the': -T
 'subject.': SUBT/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'foolish': TPAOL/EURB
 'it': T
 'would': WO
@@ -700,7 +700,7 @@ The Pen and the Inkstand
 'and': SKP
 'the': -T
 'Instruments."': KPA/STRAOUPLTS/TP-PL/KR-GS
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'what': WHA
 'you': U
@@ -740,7 +740,7 @@ The Pen and the Inkstand
 'retorted': RE/TORT/-D
 'the': -T
 'inkstand.': *EUPBG/STA*PBD/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'was': WAS
 'a': AEU
 'cut': KUT

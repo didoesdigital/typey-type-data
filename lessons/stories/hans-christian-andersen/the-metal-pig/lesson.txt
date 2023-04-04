@@ -941,7 +941,7 @@ The Metal Pig
 'he': HE
 'were': WR
 'saying,': SAEUG/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'going': TKPW-G
 'to': TO
@@ -1020,7 +1020,7 @@ The Metal Pig
 'the': -T
 'open': OEP
 'vestibule.': SREFT/-BL/TP-PL
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you,': U/KW-BG
 'thank': THAPBG
 'you,': U/KW-BG
@@ -1049,7 +1049,7 @@ The Metal Pig
 'the': -T
 'Metal': KPA/PH*ELT
 'Pig;': KPA/PEUG/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'helped': HEPD
 'you': U
@@ -1148,7 +1148,7 @@ The Metal Pig
 'the': -T
 'Porta': KPA/PORT/KWRA
 'Rosa."': ROE/SA/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'stay': STAEU
 'with': W
@@ -1729,7 +1729,7 @@ The Metal Pig
 'angry,"': APBG/REU/KW-BG/KR-GS
 'he': HE
 'pleaded;': PHRAOED/-D/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'received': SAOEFD
 'nothing,': TPHOG/KW-BG
 'I': EU
@@ -1875,7 +1875,7 @@ The Metal Pig
 '"Felicita,"': KR-GS/xxx Felicita/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
-'"what': KR-GS/WHA
+'"what': KW-GS/WHA
 'are': R
 'you': U
 'doing': TK*G
@@ -1888,7 +1888,7 @@ The Metal Pig
 'mine,"': PHAOEUPB/KW-BG/KR-GS
 'she': SHE
 'answered;': AEPBS/-D/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'can': K
 'murder': PHURD
 'him': HEUPL
@@ -2370,7 +2370,7 @@ The Metal Pig
 'Then': KPA/THEPB
 'she': SHE
 'said,': SED/KW-BG
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'is': S
 'a': AEU
 'good': TKPWAOD
@@ -2564,7 +2564,7 @@ The Metal Pig
 'roll': ROL
 'of': -F
 'canvas.': KAPB/SRAS/TP-PL
-'"Help': KR-GS/KPA/HEP
+'"Help': KW-GS/KPA*/HEP
 'the': -T
 'gentleman': SKWRA*PL
 'to': TO
@@ -2681,7 +2681,7 @@ The Metal Pig
 'was': WAS
 'his': HEUS
 'heaven.': HEFPB/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'may': PHAE
 'go': TKPW
 'home': HOEPL
@@ -2721,7 +2721,7 @@ The Metal Pig
 'this': TH
 'white': WHAOEUT
 'canvas?"': KAPB/SRAS/H-F/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'not': TPHOT
 'going': TKPW-G
@@ -2873,12 +2873,12 @@ The Metal Pig
 'on': OPB
 'its': EUTS
 'back.': PWABG/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'happy': HAEP
 'creature,"': KRAOEFP/KW-BG/KR-GS
 'he': HE
 'said;': SED/STPH*FPLT
-'"how': KR-GS/HOU
+'"how': KW-GS/HOU
 'I': EU
 'have': SR
 'longed': HROPBG/-D
@@ -2981,7 +2981,7 @@ The Metal Pig
 'lady': HRA*ED
 'called': KAULD
 'it;': T/STPH*FPLT
-'"what': KR-GS/WHA
+'"what': KW-GS/WHA
 'would': WO
 'be': -B
 'the': -T
@@ -3164,7 +3164,7 @@ The Metal Pig
 'the': -T
 'boy,': PWOEURBGS
 'despairingly.': TKES/PAEURG/HREU/TP-PL
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'you': U
 'have': SR
 'not': TPHOT
@@ -3229,7 +3229,7 @@ The Metal Pig
 'him,': HEUPL/KW-BG
 'he': HE
 'thought.': THAUT/TP-PL
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'I': EU
 'would': WO
 'gladly': TKPWHRAD/HREU
@@ -3237,7 +3237,7 @@ The Metal Pig
 'killed,"': KEULD/KW-BG/KR-GS
 'he': HE
 'reasoned;': R-PBD/STPH*FPLT
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'then': THEPB
 'I': EU
 'shall': SHAL
@@ -3295,7 +3295,7 @@ The Metal Pig
 'somebody': S-B
 'from': TPR
 'within.': W-PB/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'I,"': EU/KW-BG/KR-GS
 'said': SED
@@ -3348,7 +3348,7 @@ The Metal Pig
 'watch-house!"': WAFP/H-PB/HOUS/SKHRAPL/KR-GS
 'she': SHE
 'cried.': KRAOEUD/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'bad': PWAD
 'boy!': PWOEU/SKHRAPL
 'how': HOU
@@ -3795,7 +3795,7 @@ The Metal Pig
 'still,"': STEUL/KW-BG/KR-GS
 'cried': KRAOEUD
 'he,': HE/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'I': EU
 'will': HR
 'draw': TKRAU
@@ -3851,7 +3851,7 @@ The Metal Pig
 'mistress': PHEUS/TRES
 'walked': WAUBGD
 'in.': TPH/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'wicked': WEUBGD
 'boy!': PWOEU/SKHRAPL
 'the': -T

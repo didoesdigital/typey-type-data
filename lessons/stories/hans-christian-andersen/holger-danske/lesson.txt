@@ -100,7 +100,7 @@ Holger Danske
 'say,': SAEU/KW-BG
 '"Good-day,"': KR-GS/KPA/TKPWAOD/H-PB/TKAEU/KW-BG/KR-GS
 'and': SKP
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you"': U/KR-GS
 'to': TO
 'each': AOEFP
@@ -548,7 +548,7 @@ Holger Danske
 'on,': OPB/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'yes;': KWRE/STPH*FPLT
 'Holger': xxx Holger
 'Danske': xxx Danske
@@ -647,7 +647,7 @@ Holger Danske
 'were': WR
 'leaping': HRAOEPG
 'up.': UP/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'the': -T
 'most': PHOFT
@@ -798,7 +798,7 @@ Holger Danske
 'all': AUL
 'Danish': TKAEUPB/EURB
 'women.': WEUPL/TP-PL
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'yes;': KWRE/STPH*FPLT
 'that': THA
 'is': S
@@ -1070,7 +1070,7 @@ Holger Danske
 'the': -T
 'face': TPAEUS
 'somewhere."': SWR/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'that': THA
 'is': S
 'impossible,"': EUPL/POB/KW-BG/KR-GS
@@ -1408,7 +1408,7 @@ Holger Danske
 'described': KREUFD
 'in': TPH
 'them.': THEPL/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'knew': TPHAOU
 'how': HOU
 'to': TO
@@ -1418,7 +1418,7 @@ Holger Danske
 'the': -T
 'old': OLD
 'man;': PHAPB/STPH*FPLT
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'he': HE
 'lashed': HRARBD
 'the': -T
@@ -1640,7 +1640,7 @@ Holger Danske
 'his': HEUS
 'dream,': TKRAOEPL/KW-BG
 'saying,': SAEUG/KW-BG
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'yes,': KWRERBGS
 'remember': RER
 'me,': PHE/KW-BG
@@ -1717,10 +1717,10 @@ Holger Danske
 'they': THE
 'meant': PHEPBT
 'only': OEPBL
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'morning,"': PHORPBG/KW-BG/KR-GS
 'and': SKP
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you."': U/TP-PL/KR-GS
 'They': KPA/THE
 'must': PHUFT

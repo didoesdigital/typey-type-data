@@ -72,7 +72,7 @@ The Town Mouse and the Country Mouse
 'fare,': TPA*ER/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'cannot': SK-PBT
 'understand,': URPBD/KW-BG
 'Cousin,': KPA/KUZ/KW-BG
@@ -153,7 +153,7 @@ The Town Mouse and the Country Mouse
 'late': HRAEUT
 'at': AT
 'night.': TPHAOEUT/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'will': HR
 'want': WAPBT
 'some': SOPL
@@ -213,7 +213,7 @@ The Town Mouse and the Country Mouse
 'the': -T
 'Country': KPA/KREU
 'Mouse.': KPA/PHOUS/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'only': OEPBL
 'the': -T
@@ -229,7 +229,7 @@ The Town Mouse and the Country Mouse
 'the': -T
 'Country': KPA/KREU
 'Mouse.': KPA/PHOUS/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'do': TKO
 'not': TPHOT
 'like': HRAOEUBG
@@ -275,7 +275,7 @@ The Town Mouse and the Country Mouse
 'said': SED
 'the': -T
 'other.': OER/TP-PL
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'he': HE
 'replied;': RE/PHRAOEUD/STPH*FPLT
 '"Better': KR-GS/KPA/PWOERT

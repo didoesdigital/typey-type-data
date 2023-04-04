@@ -112,7 +112,7 @@ Our Aunt
 'school,"': SKAOL/KW-BG/KR-GS
 'said': SED
 'she,': SHE/KW-BG
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'source': S-RS
 'of': -F
 'my': PHEU
@@ -378,7 +378,7 @@ Our Aunt
 'no': TPHO
 'opposite': OP/SEUT
 'neighbors.': TPHAEUBS/TP-PL
-'"At': KR-GS/KPA/AT
+'"At': KW-GS/KPA*/AT
 'home,"': HOEPL/KW-BG/KR-GS
 'said': SED
 'she,': SHE/KW-BG
@@ -1002,7 +1002,7 @@ Our Aunt
 'in': TPH
 'the': -T
 'flies.': TPHRAOEUS/TP-PL
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'I': EU
 'was': WAS
 'there': THR
@@ -1011,7 +1011,7 @@ Our Aunt
 'said': SED
 'our': OUR
 'aunt,': AUPBT/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'I': EU
 'shall': SHAL
 'always': AULS
@@ -1200,7 +1200,7 @@ Our Aunt
 'over,"': OEFR/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'all': AUL
 'the': -T
 'people': PAOEPL
@@ -1306,7 +1306,7 @@ Our Aunt
 'satire': SA/TAOEUR
 'in': TPH
 'it.': T/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'looked': HRAOBGD
 'dark': TKARBG
 'enough': TPHUF
@@ -2025,7 +2025,7 @@ Our Aunt
 'a': AEU
 'little': HREUL
 'child': KHAOEULD
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'the': -T
 'scraps;"': SKRAPS/STPH*FPLT/KR-GS
 'that': THA
@@ -2130,7 +2130,7 @@ Our Aunt
 'without': WOUT
 'fresh': TPRERB
 'air.': AEUR/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'was': WAS
 'all': AUL
 'very': SRE
@@ -2247,7 +2247,7 @@ Our Aunt
 'the': -T
 'Saturday': SATD
 'evening,': AOEPBG/KW-BG
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'on': OPB
 'that': THA
 'evening': AOEPBG

@@ -649,14 +649,14 @@ The Thorny Road of Honor
 'long': HROPBG
 'unkempt': UPB/KEPLT
 'beard.': PWAERD/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'made': PHAED
 'a': AEU
 'discovery,"': SKOEFR/KW-BG/KR-GS
 'he': HE
 'says,': SEZ/KW-BG
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'greatest': TKPWRAET/EFT
 'that': THA
 'has': HAS
@@ -681,7 +681,7 @@ The Thorny Road of Honor
 'is': S
 'the': -T
 'man?': PHAPB/H-F
-'"A': KR-GS/KPA/AEU
+'"A': KW-GS/KPA*/AEU
 'madman,"': PHAD/PHAPB/KW-BG/KR-GS
 'replies': RE/PHRAOEUS
 'the': -T
@@ -1192,7 +1192,7 @@ The Thorny Road of Honor
 'everywhere,"': WEFR/KW-BG/KR-GS
 'he': HE
 'says,': SEZ/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'what': WHA
 'do': TKO
 'I': EU
@@ -1334,7 +1334,7 @@ The Thorny Road of Honor
 'is': S
 'the': -T
 'cry.': KRAOEU/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'has': HAS
 'happened': HAPD
 'just': SKWRUFT

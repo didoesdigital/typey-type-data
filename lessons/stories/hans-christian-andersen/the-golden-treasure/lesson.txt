@@ -202,7 +202,7 @@ The Golden Treasure
 'was': WAS
 'upon': POPB
 'it.': T/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'golden': TKPWOELD/*EPB
 'treasure,': TRERB/KW-BG
 'my': PHEU
@@ -539,7 +539,7 @@ The Golden Treasure
 'yet': KWRET
 'no': TPHO
 'melody.': PHEL/TKEU/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'must': PHUFT
 'become': PW-BG
 'a': AEU
@@ -548,7 +548,7 @@ The Golden Treasure
 'said': SED
 'his': HEUS
 'mother.': PHOER/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'shall': SHAL
 'sing': SEUPBG
 'in': TPH
@@ -592,7 +592,7 @@ The Golden Treasure
 'the': -T
 'street': STRAOET
 'boys.': PWOEUS/TP-PL
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'you': U
 'sleep': SHRAOEP
 'in': TPH
@@ -778,7 +778,7 @@ The Golden Treasure
 'and': SKP
 'a': AEU
 'sword.': SOERD/TP-PL
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'you': U
 'learn': HRERPB
 'to': TO
@@ -823,7 +823,7 @@ The Golden Treasure
 'said': SED
 'his': HEUS
 'mother.': PHOER/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'have': SR
 'nothing': TPHOG
 'to': TO
@@ -838,7 +838,7 @@ The Golden Treasure
 'boy,"': PWOEU/KW-BG/KR-GS
 'she': SHE
 'retorted.': RE/TORT/-D/TP-PL
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'suppose': SPOS
 'he': HE
 'came': KAEUPL
@@ -855,7 +855,7 @@ The Golden Treasure
 'cried': KRAOEUD
 'the': -T
 'mother.': PHOER/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'I': EU
 'would': WO
 'rather': RAER
@@ -1307,7 +1307,7 @@ The Golden Treasure
 'had': H
 'to': TO
 'live.': HREUF/TP-PL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'no': TPHO
 'use': AOUS
 'thinking': THEUG
@@ -1495,7 +1495,7 @@ The Golden Treasure
 'at': AT
 'his': HEUS
 'mother.': PHOER/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'golden': TKPWOELD/*EPB
 'treasure!"': TRERB/SKHRAPL/KR-GS
 'she': SHE
@@ -1970,7 +1970,7 @@ The Golden Treasure
 'no': TPHO
 'denying': TKAOE/TPHAOEUG
 'that!': THA/SKHRAPL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'ought': OT
 'to': TO
 'have': SR
@@ -1981,7 +1981,7 @@ The Golden Treasure
 'the': -T
 'neighbor's': TPHAEUB/AES
 'wife.': WAOEUF/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'answered': AEPBS/-D
 'capitally': KPAL/HREU
 'with': W
@@ -1993,7 +1993,7 @@ The Golden Treasure
 'got': TKPWOT
 'a': AEU
 'husband."': HUS/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'her': HER
 'hair': HAEUR
 'turned': TURPBD
@@ -2019,7 +2019,7 @@ The Golden Treasure
 'said': SED
 'the': -T
 'neighbors,': TPHAEUBS/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'so': SO
 'can': K
 'Peter.': PAOERT/TP-PL
@@ -2312,7 +2312,7 @@ The Golden Treasure
 'went': WEPBT
 'to': TO
 'market.': PHARBGT/TP-PL
-'"Shall': KR-GS/KPA/SHAL
+'"Shall': KW-GS/KPA*/SHAL
 'I': EU
 'tell': TEL
 'you': U
@@ -2324,7 +2324,7 @@ The Golden Treasure
 'she': SHE
 'came': KAEUPL
 'home.': HOEPL/TP-PL
-'"A': KR-GS/KPA/AEU
+'"A': KW-GS/KPA*/AEU
 'capital': KPAL
 'piece': PAOES
 'of': -F
@@ -2390,7 +2390,7 @@ The Golden Treasure
 'sat': SAT
 'down': TKOUPB
 'again.': TKPWEPB/TP-PL
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'Heaven!': KPA/HEFPB/SKHRAPL
 'what's': WHATS
 'the': -T
@@ -2417,7 +2417,7 @@ The Golden Treasure
 'down': TKOUPB
 'his': HEUS
 'cheeks.': KHAOEBGS/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'sweet': SWAOET
 'child,': KHAOEULD/KW-BG
 'my': PHEU
@@ -2530,7 +2530,7 @@ The Golden Treasure
 'been': PW-PB
 'a': AEU
 'widow."': WO*EUD/TP-PL/KR-GS
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'plays': PHRAEUZ
 'before': PW-FR
 'emperors': EPL/ROR/-S
@@ -2540,7 +2540,7 @@ The Golden Treasure
 'the': -T
 'town': TOUPB
 'musician.': PHAOUGS/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'never': TPHEFR
 'had': H
 'that': THA
@@ -2659,7 +2659,7 @@ The Golden Treasure
 'dancers—was': TKAPBS/ERS/EPL/TKA*RB/WAS
 'become': PW-BG
 'famous!': TPAEUPLS/SKHRAPL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'played': PHRAEUD
 'at': AT
 'our': OUR
@@ -2676,7 +2676,7 @@ The Golden Treasure
 'the': -T
 'burgomaster's': xxx burgomaster/AES
 'wife.': WAOEUF/TP-PL
-'"At': KR-GS/KPA/AT
+'"At': KW-GS/KPA*/AT
 'that': THA
 'time': TAOEUPL
 'he': HE
@@ -3001,7 +3001,7 @@ The Golden Treasure
 'to': TO
 'his': HEUS
 'mother:': PHOER/STPH-FPLT
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'father': TPAER
 'would': WO
 'have': SR
@@ -3038,7 +3038,7 @@ The Golden Treasure
 'burst': PWUFRT
 'with': W
 'exultation.': KPUL/TAEUGS/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'has': HAS
 'a': AEU
 'splendid': SPHREPB/TKEUD

@@ -51,7 +51,7 @@ The Darning-Needle
 'so': SO
 'very': SRE
 'fine."': TPAOEUPB/TP-PL/KR-GS
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'your': KWROUR
 'opinion,': P-PB/KW-BG
@@ -124,7 +124,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle,': TKARPB/-G/H-PB/TPHAO*ELD/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'shall': SHAL
 'never': TPHEFR
 'get': TKPWET
@@ -147,7 +147,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle,': TKARPB/-G/H-PB/TPHAO*ELD/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'know': TPHOE
 'I': EU
 'am': APL
@@ -201,7 +201,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle;': TKARPB/-G/H-PB/TPHAO*ELD/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'knew': TPHAOU
 'very': SRE
 'well': WEL
@@ -349,7 +349,7 @@ The Darning-Needle
 'the': -T
 'dirty': TKOEURT
 'water,': WAURBGS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'do': TKO
 'hope': HOEP
 'I': EU
@@ -365,7 +365,7 @@ The Darning-Needle
 'in': TPH
 'a': AEU
 'gutter.': TKPWOURT/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'too': TAO
 'fine': TPAOEUPB
@@ -474,7 +474,7 @@ The Darning-Needle
 'and': SKP
 'twists': TWEUFTS
 'about!': PW/SKHRAPL
-'Don't': TKO*PB/AE/T*
+'Don't': KPA/TKOEPBT
 'be': -B
 'thinking': THEUG
 'too': TAO
@@ -569,7 +569,7 @@ The Darning-Needle
 'as': AS
 'a': AEU
 'breast-pin.': PWREFT/H-PB/PEUPB/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'suppose': SPOS
 'you': U
 'are': R
@@ -611,7 +611,7 @@ The Darning-Needle
 'people': PAOEPL
 'in': TPH
 'it.': T/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'been': PW-PB
 'in': TPH
@@ -621,7 +621,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle,': TKARPB/-G/H-PB/TPHAO*ELD/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'this': TH
 'lady': HRA*ED
 'was': WAS
@@ -1010,7 +1010,7 @@ The Darning-Needle
 'fellow': TP*EL
 'for': TPOR
 'you."': U/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'not': TPHOT
 'a': AEU
@@ -1082,7 +1082,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle,': TKARPB/-G/H-PB/TPHAO*ELD/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'looks': HRAOBGS
 'well;': WEL/STPH*FPLT
 'now': TPHOU
@@ -1112,7 +1112,7 @@ The Darning-Needle
 'did': TK
 'not': TPHOT
 'break.': PWRAEBG/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'a': AEU
 'good': TKPWAOD
@@ -1153,7 +1153,7 @@ The Darning-Needle
 'passed': PAFD
 'over': OEFR
 'it.': T/TP-PL
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'heavens,': HEFPBS/KW-BG
 'how': HOU
 'it': T
@@ -1161,7 +1161,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle.': TKARPB/-G/H-PB/TPHAO*ELD/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'shall': SHAL
 'be': -B
 'sick': SEUBG

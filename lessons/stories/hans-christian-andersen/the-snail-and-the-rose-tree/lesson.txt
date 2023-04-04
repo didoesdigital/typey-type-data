@@ -53,7 +53,7 @@ The Snail and the Rose-Tree
 'comes,"': KOPLS/KW-BG/KR-GS
 'he': HE
 'said;': SED/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'shall': SHAL
 'do': TKO
 'more': PHOR
@@ -73,7 +73,7 @@ The Snail and the Rose-Tree
 'and': SKP
 'the': -T
 'sheep."': SHAOEP/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'expect': KP-PT
 'a': AEU
 'great': TKPWRAET
@@ -90,7 +90,7 @@ The Snail and the Rose-Tree
 'it': T
 'will': HR
 'appear?"': A/PAOER/H-F/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'take': TAEUBG
 'my': PHEU
 'time,"': TAOEUPL/KW-BG/KR-GS
@@ -228,7 +228,7 @@ The Snail and the Rose-Tree
 'made': PHAED
 'his': HEUS
 'too.': TAO/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'an': APB
 'old': OLD
@@ -237,7 +237,7 @@ The Snail and the Rose-Tree
 'said': SED
 'the': -T
 'snail.': STPHAEUL/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'make': PHAEUBG
 'haste': HAEUFT
@@ -319,19 +319,19 @@ The Snail and the Rose-Tree
 'what': WHA
 'I': EU
 'say?"': SAEU/H-F/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'frighten': TPRAOEUFPB
 'me,"': PHE/KW-BG/KR-GS
 'said': SED
 'the': -T
 'rose—tree.': ROEZ/EPL/TKA*RB/TRAOE/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'never': TPHEFR
 'thought': THAUT
 'of': -F
 'that."': THA/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'you': U
 'have': SR
 'never': TPHEFR
@@ -366,11 +366,11 @@ The Snail and the Rose-Tree
 'in': TPH
 'no': TPHO
 'other?"': OER/H-F/KR-GS
-'"No,"': KR-GS/KPA/TPHO/KW-BG/KR-GS
+'"No,"': KW-GS/KPA*/TPHO/KW-BG/KR-GS
 'said': SED
 'the': -T
 'rose-tree.': ROEZ/H-PB/TRAOE/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'bloom': PWHRAOPL
 'in': TPH
 'gladness,': TKPWHRAD/-PBS/KW-BG
@@ -446,7 +446,7 @@ The Snail and the Rose-Tree
 'not': TPHOT
 'do': TKO
 'otherwise."': O*ERZ/TP-PL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'led': HRED
 'a': AEU
@@ -464,7 +464,7 @@ The Snail and the Rose-Tree
 'said': SED
 'the': -T
 'rose-tree.': ROEZ/H-PB/TRAOE/TP-PL
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'still': STEUL
 'more': PHOR
 'was': WAS
@@ -488,7 +488,7 @@ The Snail and the Rose-Tree
 'astonishes': AS/TOPB/EURBS
 'the': -T
 'world."': WORLD/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'not': TPHOT
 'the': -T
@@ -525,7 +525,7 @@ The Snail and the Rose-Tree
 'enough': TPHUF
 'in': TPH
 'myself."': PHAO*EUS/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'must': PHUFT
 'we': WE
 'not': TPHOT
@@ -669,7 +669,7 @@ The Snail and the Rose-Tree
 'the': -T
 'rose': ROEZ
 'tree.': TRAOE/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'cannot': SK-PBT
 'creep': KRAOEP
 'into': TPHAO

@@ -184,7 +184,7 @@ Little Claus and Big Claus
 'my': PHEU
 'five': TPAOEUF
 'horses."': HORSZ/TP-PL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'not': TPHOT
 'say': SAEU
@@ -192,7 +192,7 @@ Little Claus and Big Claus
 'said': SED
 'Big': KPA/PWEUG
 'Claus;': xxx Claus/STPH*FPLT
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'only': OEPBL
 'one': WUPB
 'of': -F
@@ -236,7 +236,7 @@ Little Claus and Big Claus
 'said': SED
 'Big': KPA/PWEUG
 'Claus;': xxx Claus/STPH*FPLT
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'if': TP
 'you': U
 'do,': TKORBGS
@@ -265,7 +265,7 @@ Little Claus and Big Claus
 'end': EPBD
 'of': -F
 'him."': HEUPL/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'promise': PROPLS
 'you': U
 'I': EU
@@ -291,7 +291,7 @@ Little Claus and Big Claus
 'and': SKP
 'wishing': WEURBG
 'him': HEUPL
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'day,"': TKAEU/KW-BG/KR-GS
 'he': HE
 'became': PWAEUPL
@@ -484,7 +484,7 @@ Little Claus and Big Claus
 'at': AT
 'the': -T
 'top.': TOP/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'might': PHAOEUT
 'get': TKPWET
 'permission': PERPLGS
@@ -581,7 +581,7 @@ Little Claus and Big Claus
 'a': AEU
 'thatched': THA*FP/-D
 'roof.': RAOF/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'can': K
 'lie': HRAOEU
 'up': UP
@@ -594,7 +594,7 @@ Little Claus and Big Claus
 'saw': SAU
 'the': -T
 'roof;': RAOF/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'will': HR
 'make': PHAEUBG
 'a': AEU
@@ -719,7 +719,7 @@ Little Claus and Big Claus
 'his': HEUS
 'favorite': TPAEUFRT
 'dish.': TKEURB/TP-PL
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'I': EU
 'could': KO
 'only': OEPBL
@@ -1152,7 +1152,7 @@ Little Claus and Big Claus
 'said': SED
 'Little': KPA/HREUL
 'Claus;': xxx Claus/STPH*FPLT
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'he': HE
 'says': SEZ
 'we': WE
@@ -1256,12 +1256,12 @@ Little Claus and Big Claus
 'asked': SK-D
 'the': -T
 'farmer.': TPAR/PHER/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'says,"': SEZ/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'Little': KPA/HREUL
 'Claus,': xxx Claus/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'there': THR
 'are': R
 'three': THRAOE
@@ -1326,7 +1326,7 @@ Little Claus and Big Claus
 'asked': SK-D
 'the': -T
 'farmer.': TPAR/PHER/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'should': SHO
 'like': HRAOEUBG
 'to': TO
@@ -1394,7 +1394,7 @@ Little Claus and Big Claus
 'he': HE
 'be': -B
 'like?"': HRAOEUBG/H-F/KR-GS
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'he': HE
 'is': S
 'very': SRE
@@ -1479,7 +1479,7 @@ Little Claus and Big Claus
 'does': TKOS
 'he': HE
 'say?"': SAEU/H-F/KR-GS
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'says': SEZ
 'that': THA
 'you': U
@@ -1565,7 +1565,7 @@ Little Claus and Big Claus
 'he,': HE/KW-BG
 'springing': SPREUPBG/-G
 'backwards,': PWABG/WARDZ/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'saw': SAU
 'him,': HEUPL/KW-BG
 'and': SKP
@@ -1598,7 +1598,7 @@ Little Claus and Big Claus
 'into': TPHAO
 'the': -T
 'night.': TPHAOEUT/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'sell': SEL
 'your': KWROUR
@@ -1629,7 +1629,7 @@ Little Claus and Big Claus
 'bushel': PWURB/-L
 'of': -F
 'gold."': TKPWOELD/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'indeed,': TPHAOEPBD/KW-BG
 'I': EU
 'cannot,"': SK-PBT/KW-BG/KR-GS
@@ -1648,7 +1648,7 @@ Little Claus and Big Claus
 'of': -F
 'this': TH
 'conjuror."': KAUPB/SKWROR/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'I': EU
 'should': SHO
 'like': HRAOEUBG
@@ -1662,7 +1662,7 @@ Little Claus and Big Claus
 'continuing': T-PBG
 'his': HEUS
 'entreaties.': EPB/TRAOET/KWREUS/TP-PL
-'"Well,"': KR-GS/KPA/WEL/KW-BG/KR-GS
+'"Well,"': KW-GS/KPA*/WEL/KW-BG/KR-GS
 'said': SED
 'Little': KPA/HREUL
 'Claus': xxx Claus
@@ -1938,7 +1938,7 @@ Little Claus and Big Claus
 'into': TPHAO
 'the': -T
 'water.': WAUR/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'leave': HREF
 'it': T
 'alone,"': A/HROEPB/KW-BG/KR-GS
@@ -1987,7 +1987,7 @@ Little Claus and Big Claus
 'cried': KRAOEUD
 'the': -T
 'sexton;': SEBGS/TO*PB/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'give': TKPWEUF
 'you': U
@@ -2003,7 +2003,7 @@ Little Claus and Big Claus
 'let': HRET
 'me': PHE
 'go.': TKPW/TP-PL
-'"Why,': KR-GS/KPA/KWR/KW-BG
+'"Why,': KW-GS/KPA*/KWR/KW-BG
 'that': THA
 'is': S
 'another': TPHOER
@@ -2059,7 +2059,7 @@ Little Claus and Big Claus
 'a': AEU
 'barrow': PWAEUR/ROE
 'full.': TPUL/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'been': PW-PB
 'well': WEL
@@ -2090,7 +2090,7 @@ Little Claus and Big Claus
 'on': OPB
 'the': -T
 'floor.': TPHRAOR/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'vexed': SREBGS/-D
 'Great': KPA/TKPWRAET
 'Claus': xxx Claus
@@ -2216,7 +2216,7 @@ Little Claus and Big Claus
 'sold': SOELD
 'it': T
 'yesterday."': KWRED/TP-PL/KR-GS
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'was': WAS
 'certainly': SERPBL
 'well': WEL
@@ -2285,7 +2285,7 @@ Little Claus and Big Claus
 'wanted': WAPBTD
 'for': TPOR
 'them.': THEPL/TP-PL
-'"A': KR-GS/KPA/AEU
+'"A': KW-GS/KPA*/AEU
 'bushel': PWURB/-L
 'of': -F
 'money,': PHUPB/KW-BG
@@ -2300,7 +2300,7 @@ Little Claus and Big Claus
 'they': THE
 'all': AUL
 'cried;': KRAOEUD/STPH*FPLT
-'"do': KR-GS/TKO
+'"do': KW-GS/TKO
 'you': U
 'think': THEU
 'we': WE
@@ -2333,7 +2333,7 @@ Little Claus and Big Claus
 'bushel': PWURB/-L
 'of': -F
 'money."': PHUPB/TP-PL/KR-GS
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'is': S
 'making': PHAEUG
 'fools': TPAOLS
@@ -2567,7 +2567,7 @@ Little Claus and Big Claus
 'he': HE
 'went': WEPBT
 'home.': HOEPL/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'a': AEU
 'very': SRE
@@ -2692,7 +2692,7 @@ Little Claus and Big Claus
 'pepper': PAOERP
 'and': SKP
 'snuff.': STPHUF/TP-PL
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'morning,"': PHORPBG/KW-BG/KR-GS
 'said': SED
 'he': HE
@@ -2704,11 +2704,11 @@ Little Claus and Big Claus
 'come': KOPL
 'betimes': PWE/TAOEUPLS
 'to-day."': TO/H-PB/TKAEU/TP-PL/KR-GS
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'said': SED
 'Little': KPA/HREUL
 'Claus;': xxx Claus/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'going': TKPW-G
 'to': TO
@@ -3010,13 +3010,13 @@ Little Claus and Big Claus
 'a': AEU
 'bushel': PWURB/-L
 'measure.': PH*ERB/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'is': S
 'this?"': TH/H-F/KR-GS
 'thought': THAUT
 'Great': KPA/TKPWRAET
 'Claus;': xxx Claus/STPH*FPLT
-'"did': KR-GS/TK
+'"did': KW-GS/TK
 'I': EU
 'not': TPHOT
 'kill': KEUL
@@ -3041,7 +3041,7 @@ Little Claus and Big Claus
 'measure': PH*ERB
 'with': W
 'him.': HEUPL/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'did': TK
 'you': U
 'get': TKPWET
@@ -3060,7 +3060,7 @@ Little Claus and Big Claus
 'his': HEUS
 'neighbor's': TPHAEUB/AES
 'treasures.': TR-RBS/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'killed': KEULD
 'my': PHEU
 'grandmother': TKPWR-PL
@@ -3080,7 +3080,7 @@ Little Claus and Big Claus
 'bushel': PWURB/-L
 'of': -F
 'money."': PHUPB/TP-PL/KR-GS
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'a': AEU
 'good': TKPWAOD
@@ -3143,13 +3143,13 @@ Little Claus and Big Claus
 'asked': SK-D
 'the': -T
 'apothecary.': A/PO*T/KAER/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'my': PHEU
 'grandmother,"': TKPWR-PL/KW-BG/KR-GS
 'he': HE
 'replied;': RE/PHRAOEUD/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'killed': KEULD
 'her': HER
 'with': W
@@ -3177,7 +3177,7 @@ Little Claus and Big Claus
 'of': -F
 'your': KWROUR
 'mind.': PHAOEUPBD/TP-PL
-'Don't': TKO*PB/AE/T*
+'Don't': KPA/TKOEPBT
 'say': SAEU
 'such': SUFP
 'things,': THEUPBGS/KW-BG
@@ -3253,7 +3253,7 @@ Little Claus and Big Claus
 'where': W-R
 'he': HE
 'liked.': HRAOEUBGD/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'shall': SHAL
 'pay': PAEU
 'for': TPOR
@@ -3269,7 +3269,7 @@ Little Claus and Big Claus
 'into': TPHAO
 'the': -T
 'highroad,': xxx highroad/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'you': U
 'shall,': SHAL/KW-BG
 'Little': KPA/HREUL
@@ -3295,7 +3295,7 @@ Little Claus and Big Claus
 'to': TO
 'Little': KPA/HREUL
 'Claus.': xxx Claus/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'played': PHRAEUD
 'me': PHE
@@ -3534,7 +3534,7 @@ Little Claus and Big Claus
 'sighed': SAOEU/-D
 'Little': KPA/HREUL
 'Claus,': xxx Claus/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'very': SRE
 'young,': KWRUPBG/KW-BG
@@ -3552,7 +3552,7 @@ Little Claus and Big Claus
 'said': SED
 'the': -T
 'drover,': TKROEFR/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'who': WHO
 'am': APL
 'so': SO
@@ -3579,7 +3579,7 @@ Little Claus and Big Claus
 'soon': SAOPB
 'be': -B
 'there."': THR/TP-PL/KR-GS
-'"With': KR-GS/KPA/W
+'"With': KW-GS/KPA*/W
 'all': AUL
 'my': PHEU
 'heart,"': HART/KW-BG/KR-GS
@@ -3615,7 +3615,7 @@ Little Claus and Big Claus
 'into': TPHAO
 'the': -T
 'bag.': PWAG/TP-PL
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'said': SED
 'Little': KPA/HREUL
 'Claus,': xxx Claus/KW-BG
@@ -3671,14 +3671,14 @@ Little Claus and Big Claus
 'as': AS
 'Little': KPA/HREUL
 'Claus.': xxx Claus/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'light': HRAOEUT
 'he': HE
 'seems': SAOEPLS
 'now,"': TPHOU/KW-BG/KR-GS
 'said': SED
 'he.': HE/TP-PL
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'it': T
 'is': S
 'because': PWAU
@@ -3755,7 +3755,7 @@ Little Claus and Big Claus
 'driving': TKRAOEUFG
 'the': -T
 'cattle.': KA*LT/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'is': S
 'this?"': TH/H-F/KR-GS
 'said': SED
@@ -3768,7 +3768,7 @@ Little Claus and Big Claus
 'you': U
 'just': SKWRUFT
 'now?"': TPHOU/H-F/KR-GS
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'said': SED
 'Little': KPA/HREUL
 'Claus;': xxx Claus/STPH*FPLT
@@ -3783,7 +3783,7 @@ Little Claus and Big Claus
 'an': APB
 'hour': HOUR
 'ago."': AG/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'wherever': W-FR
 'did': TK
 'you': U
@@ -4033,7 +4033,7 @@ Little Claus and Big Claus
 'in': TPH
 'the': -T
 'valleys!"': SRAELS/SKHRAPL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'why': KWR
 'did': TK
 'you': U
@@ -4043,7 +4043,7 @@ Little Claus and Big Claus
 'said': SED
 'Great': KPA/TKPWRAET
 'Claus,': xxx Claus/KW-BG
-'"if': KR-GS/TP
+'"if': KW-GS/TP
 'it': T
 'was': WAS
 'all': AUL
@@ -4057,11 +4057,11 @@ Little Claus and Big Claus
 'have': SR
 'done': TKOPB
 'so?"': SO/H-F/KR-GS
-'"Well,"': KR-GS/KPA/WEL/KW-BG/KR-GS
+'"Well,"': KW-GS/KPA*/WEL/KW-BG/KR-GS
 'said': SED
 'Little': KPA/HREUL
 'Claus,': xxx Claus/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'was': WAS
 'good': TKPWAOD
 'policy': POEULS
@@ -4246,7 +4246,7 @@ Little Claus and Big Claus
 'the': -T
 'greatest': TKPWRAET/EFT
 'pleasure."': PHRERB/TP-PL/KR-GS
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you,"': U/KW-BG/KR-GS
 'said': SED
 'Great': KPA/TKPWRAET
@@ -4273,7 +4273,7 @@ Little Claus and Big Claus
 'a': AEU
 'good': TKPWAOD
 'thrashing."': THRARB/-G/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'now,': TPHOURBGS
 'don't': TKOEPBT
 'be': -B
@@ -4411,7 +4411,7 @@ Little Claus and Big Claus
 'of': -F
 'the': -T
 'river.': REUFR/TP-PL
-'"I'm': KR-GS/EU/AE/PH*
+'"I'm': KW-GS/AOEUPL
 'afraid': A/TPRAEUD
 'he': HE
 'will': HR

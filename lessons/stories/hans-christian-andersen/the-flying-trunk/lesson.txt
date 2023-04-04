@@ -175,10 +175,10 @@ The Flying Trunk
 'message,': PHEPBLG/KW-BG
 '"Pack': KR-GS/KPA/PABG
 'up!"': UP/SKHRAPL/KR-GS
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'all': AUL
 'very': SRE
@@ -339,14 +339,14 @@ The Flying Trunk
 'a': AEU
 'little': HREUL
 'child.': KHAOEULD/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'say,': SAEU/KW-BG
 'you': U
 'Turkish': TUR/KEURB
 'nurse,"': TPHURS/KW-BG/KR-GS
 'cried': KRAOEUD
 'he,': HE/KW-BG
-'"what': KR-GS/WHA
+'"what': KW-GS/WHA
 'castle': KAFL
 'is': S
 'that': THA
@@ -366,7 +366,7 @@ The Flying Trunk
 'there,"': THR/KW-BG/KR-GS
 'she': SHE
 'replied;': RE/PHRAOEUD/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'has': HAS
 'been': PW-PB
 'prophesied': xxx prophesied
@@ -395,7 +395,7 @@ The Flying Trunk
 'queen': KWAOEPB
 'are': R
 'present."': PREPBT/TP-PL/KR-GS
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you,"': U/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -563,7 +563,7 @@ The Flying Trunk
 'she': SHE
 'consented': KEFPBT/-D
 'immediately.': PHAOELD/TP-PL
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'you': U
 'must': PHUFT
 'come': KOPL
@@ -571,7 +571,7 @@ The Flying Trunk
 'Saturday,"': SATD/KW-BG/KR-GS
 'she': SHE
 'said;': SED/STPH*FPLT
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'then': THEPB
 'the': -T
 'king': KEUPBG
@@ -644,7 +644,7 @@ The Flying Trunk
 'well,"': WEL/KW-BG/KR-GS
 'he': HE
 'replied;': RE/PHRAOEUD/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'shall': SHAL
 'bring': PWREU
 'you': U
@@ -1793,7 +1793,7 @@ The Flying Trunk
 'said': SED
 'the': -T
 'queen,': KWAOEPB/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'feel': TPAOEL
 'as': AS
 'if': TP
@@ -1882,7 +1882,7 @@ The Flying Trunk
 'very': SRE
 'splendid': SPHREPB/TKEUD
 'affair.': A/TPAEUR/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'give': TKPWEUF
 'them': THEPL
@@ -1994,7 +1994,7 @@ The Flying Trunk
 'fireworks,': TPAOEUR/WORBGS/KW-BG
 'he': HE
 'thought,': THAUT/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'go': TKPW
 'back': PWABG
@@ -2068,7 +2068,7 @@ The Flying Trunk
 'like': HRAOEUBG
 'foaming': TPOEPLG
 'water."': WAUR/TP-PL/KR-GS
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'flew': TPHRAOU
 'in': TPH
 'a': AEU
@@ -2077,7 +2077,7 @@ The Flying Trunk
 'fire,"': TPAOEUR/KW-BG/KR-GS
 'cried': KRAOEUD
 'another,': TPHOER/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'lovely': HROFL
 'little': HREUL
 'cherubs': KHERB/-S

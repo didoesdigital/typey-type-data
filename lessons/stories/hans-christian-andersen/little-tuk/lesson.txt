@@ -210,7 +210,7 @@ Little Tuk
 'of': -F
 'the': -T
 'window;': WOEUPBD/STPH*FPLT
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'poor': PAOR
 'woman': WOPL
 'can': K
@@ -404,7 +404,7 @@ Little Tuk
 'eyes': AO*EUS
 'and': SKP
 'said,': SED/KW-BG
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'would': WO
 'be': -B
 'a': AEU
@@ -462,7 +462,7 @@ Little Tuk
 'crept': KREPT
 'towards': TORDZ
 'him.': HEUPL/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'a': AEU
 'hen': HEPB
@@ -777,7 +777,7 @@ Little Tuk
 'was': WAS
 'not': TPHOT
 'one.': WUPB/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'bring': PWREU
 'you': U
 'many': PHAEPB
@@ -819,7 +819,7 @@ Little Tuk
 'sea-shore,"': SAE/H-PB/SHOR/KW-BG/KR-GS
 'said': SED
 'Corsor;': xxx Corsor/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'high-roads': HAOEU/H-PB/RAODZ
 'and': SKP
@@ -1154,7 +1154,7 @@ Little Tuk
 '"Croak,"': KR-GS/KPA/KROEBG/KW-BG/KR-GS
 'she': SHE
 'cried;': KRAOEUD/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'always': AULS
 'wet,': WET/KW-BG
@@ -1192,7 +1192,7 @@ Little Tuk
 'weather,"': WHR*/KW-BG/KR-GS
 'said': SED
 'she.': SHE/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'wet,': WET/KW-BG
 'and': SKP
@@ -1469,7 +1469,7 @@ Little Tuk
 'sleep': SHRAOEP
 'peacefully,': PAES/TPHREU/KW-BG
 'as—"': AS/EPL/TKA*RB/KR-GS
-'"As': KR-GS/KPA/AS
+'"As': KW-GS/KPA*/AS
 'if': TP
 'I': EU
 'lay': HRAEU

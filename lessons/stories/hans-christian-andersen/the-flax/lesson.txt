@@ -77,7 +77,7 @@ The Flax
 'said': SED
 'the': -T
 'flax,': TPHRA*BGS/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'that': THA
 'I': EU
 'am': APL
@@ -146,7 +146,7 @@ The Flax
 'than': THAPB
 'I': EU
 'am."': APL/TP-PL/KR-GS
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'yes,': KWRERBGS
 'no': TPHO
 'doubt,"': TKOUT/KW-BG/KR-GS
@@ -186,7 +186,7 @@ The Flax
 'song': SOPBG
 'is': S
 'ended."': EPBD/-D/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'it': T
 'is': S
 'not': TPHOT
@@ -278,7 +278,7 @@ The Flax
 'was': WAS
 'very': SRE
 'shocking.': SHOBG/-G/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'cannot': SK-PBT
 'expect': KP-PT
 'to': TO
@@ -352,7 +352,7 @@ The Flax
 'collect': KHREBGT
 'its': EUTS
 'thoughts.': THAUTS/TP-PL
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'I': EU
 'have': SR
 'been': PW-PB
@@ -366,7 +366,7 @@ The Flax
 'of': -F
 'his': HEUS
 'pain,': PAEUPB/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'must': PHUFT
 'be': -B
 'contented': KAUPBT/-D
@@ -407,7 +407,7 @@ The Flax
 'this': TH
 'one': WUPB
 'piece.': PAOES/TP-PL
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'this': TH
 'is': S
 'quite': KWAOEUT
@@ -626,7 +626,7 @@ The Flax
 'said': SED
 'the': -T
 'flax;': TPHRA*BGS/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'become': PW-BG
 'something': S-G
@@ -706,7 +706,7 @@ The Flax
 'scarcely': SKAEURS/HREU
 'hold': HOLD
 'together.': TOGT/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'must': PHUFT
 'end': EPBD
 'very': SRE
@@ -717,7 +717,7 @@ The Flax
 'to': TO
 'each': AOEFP
 'other;': OER/STPH*FPLT
-'"we': KR-GS/WE
+'"we': KW-GS/WE
 'would': WO
 'gladly': TKPWHRAD/HREU
 'have': SR
@@ -783,7 +783,7 @@ The Flax
 'beautiful': PWAOUFL
 'white': WHAOEUT
 'paper.': PAEUP/TP-PL
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'now,': TPHOURBGS
 'this': TH
 'is': S
@@ -796,7 +796,7 @@ The Flax
 'said': SED
 'the': -T
 'paper.': PAEUP/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'now': TPHOU
 'finer': TPAOEURPB
@@ -887,7 +887,7 @@ The Flax
 'on': OPB
 'this': TH
 'paper.': PAEUP/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'never': TPHEFR
 'imagined': PHAPBLGD
 'anything': TPHEUG
@@ -896,7 +896,7 @@ The Flax
 'said': SED
 'the': -T
 'paper,': PAEUP/KW-BG
-'"when': KR-GS/WHEPB
+'"when': KW-GS/WHEPB
 'I': EU
 'was': WAS
 'only': OEPBL
@@ -1132,7 +1132,7 @@ The Flax
 'the': -T
 'written': WREUPB
 'paper;': PAEUP/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'really': R-L
 'did': TK
 'not': TPHOT
@@ -1234,7 +1234,7 @@ The Flax
 'said': SED
 'the': -T
 'paper,': PAEUP/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'a': AEU
 'very': SRE
 'good': TKPWAOD

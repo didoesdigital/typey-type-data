@@ -89,12 +89,12 @@ The Snowdrop
 'said': SED
 'the': -T
 'flower.': TPHRO*UR/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'cannot,"': SK-PBT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Sunbeam.': KPA/SUPB/PWAOEPL/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'not': TPHOT
 'strong': STROPBG
@@ -176,7 +176,7 @@ The Snowdrop
 'said': SED
 'the': -T
 'Flower.': KPA/TPHRO*UR/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'feel': TPAOEL
 'a': AEU
 'stirring': STEURG
@@ -352,7 +352,7 @@ The Snowdrop
 'said': SED
 'the': -T
 'Sunbeams,': xxx Sunbeams/KW-BG
-'"how': KR-GS/HOU
+'"how': KW-GS/HOU
 'graceful': TKPWRAEUS/-FL
 'and': SKP
 'delicate': TKEL/KAT
@@ -506,7 +506,7 @@ The Snowdrop
 'winds': WEUPBDZ
 'were': WR
 'blowing.': PWHROEG/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'come': KOPL
 'too': TAO
@@ -515,7 +515,7 @@ The Snowdrop
 'Wind': KPA/WEUPBD
 'and': SKP
 'Weather.': KPA/WHR*/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'have': SR
 'still': STEUL
 'the': -T
@@ -662,7 +662,7 @@ The Snowdrop
 'break!"': PWRAEBG/SKHRAPL/KR-GS
 'they': THE
 'said,': SED/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'fade,': TPAEUD/KW-BG
 'and': SKP
 'fade!': TPAEUD/SKHRAPL
@@ -824,7 +824,7 @@ The Snowdrop
 'for': TPOR
 'an': APB
 'appointment.': POEUPLT/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'shall': SHAL
 'be': -B
 'my': PHEU
@@ -861,7 +861,7 @@ The Snowdrop
 'with': W
 'summer': SAOURPL
 'gauk.': xxx gauk/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'friend,': TPREPBD/KW-BG
 'be': -B
 'a': AEU
@@ -1295,7 +1295,7 @@ The Snowdrop
 'over': OEFR
 'a': AEU
 'page.': PAEUPBLG/TP-PL
-'"Why,': KR-GS/KPA/KWR/KW-BG
+'"Why,': KW-GS/KPA*/KWR/KW-BG
 'there's': THR-S
 'a': AEU
 'flower!"': TPHRO*UR/SKHRAPL/KR-GS

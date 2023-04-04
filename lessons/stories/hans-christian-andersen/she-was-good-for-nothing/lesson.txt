@@ -140,7 +140,7 @@ She Was Good for Nothing
 'the': -T
 'king': KEUPBG
 'himself.': HEUPLS/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'a': AEU
 'good': TKPWAOD
@@ -150,7 +150,7 @@ She Was Good for Nothing
 'said': SED
 'the': -T
 'mayor.': PHAEUR/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'suppose': SPOS
 'your': KWROUR
 'mother': PHOER
@@ -214,7 +214,7 @@ She Was Good for Nothing
 'this': TH
 'morning': PHORPBG
 'already?"': HR-R/H-F/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'it': T
 'was': WAS
 'yesterday,"': KWRED/KW-BG/KR-GS
@@ -252,7 +252,7 @@ She Was Good for Nothing
 'ashamed': A/SHAEUPLD
 'of': -F
 'herself.': H*ERS/TP-PL
-'Don't': TKO*PB/AE/T*
+'Don't': KPA/TKOEPBT
 'you': U
 'become': PW-BG
 'a': AEU
@@ -372,7 +372,7 @@ She Was Good for Nothing
 'keep': KAOEP
 'it': T
 'steady.': STAED/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'been': PW-PB
 'very': SRE
@@ -381,7 +381,7 @@ She Was Good for Nothing
 'away,"': WA*EU/KW-BG/KR-GS
 'she': SHE
 'said;': SED/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'a': AEU
 'good': TKPWAOD
@@ -436,7 +436,7 @@ She Was Good for Nothing
 'drank': TKRA*PBG
 'a': AEU
 'little.': HREUL/TP-PL
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'how': HOU
 'much': PHUFP
 'good': TKPWAOD
@@ -449,7 +449,7 @@ She Was Good for Nothing
 'me,"': PHE/KW-BG/KR-GS
 'she': SHE
 'said;': SED/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'as': AS
 'good': TKPWAOD
@@ -567,7 +567,7 @@ She Was Good for Nothing
 'from': TPR
 'her': HER
 'gown.': TKPWOUPB/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'work': WORBG
 'hard': HARD
 'and': SKP
@@ -687,7 +687,7 @@ She Was Good for Nothing
 'water!"': WAUR/SKHRAPL/KR-GS
 'she': SHE
 'exclaimed.': SKHRAEUPLD/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'really': R-L
 'do': TKO
 'need': TPHAOED
@@ -844,7 +844,7 @@ She Was Good for Nothing
 'as': AS
 'she': SHE
 'spoke.': SPOEBG/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'says': SEZ
 'you': U
 'have': SR
@@ -879,10 +879,10 @@ She Was Good for Nothing
 'from': TPR
 'that': THA
 'house!"': HOUS/SKHRAPL/KR-GS
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'said': SED
 'Martha;': PHAR/THA/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'remember': RER
 'you': U
 'were': WR
@@ -1095,11 +1095,11 @@ She Was Good for Nothing
 'lead': HRAED
 'you': U
 'home."': HOEPL/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'my': PHEU
 'washing': WARBG
 'yonder?"': KWROPBD/ER/H-F/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'take': TAEUBG
 'care': KAEUR
@@ -1145,7 +1145,7 @@ She Was Good for Nothing
 'and': SKP
 'she': SHE
 'said,': SED/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'stood': STAOD
 'too': TAO
@@ -2194,7 +2194,7 @@ She Was Good for Nothing
 'our': OUR
 'servant,': SEFRB/APBT/KW-BG
 'Martha."': PHAR/THA/TP-PL/KR-GS
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'yes,': KWRERBGS
 'and': SKP
 'you': U
@@ -2205,7 +2205,7 @@ She Was Good for Nothing
 'mistress,"': PHEUS/TRES/KW-BG/KR-GS
 'said': SED
 'Martha,': PHAR/THA/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'shall': SHAL
 'never': TPHEFR
 'forget': TPORGT
@@ -2352,14 +2352,14 @@ She Was Good for Nothing
 'fallen': TPAUPBL
 'upon': POPB
 'them.': THEPL/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'had': H
 'five': TPAOEUF
 'hundred': HUPBD
 'dollars,"': TKHRARS/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'there': THR
 'was': WAS
 'a': AEU
@@ -2794,7 +2794,7 @@ She Was Good for Nothing
 'said': SED
 'the': -T
 'mayor;': PHAEUR/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'a': AEU
 'good': TKPWAOD
@@ -2938,7 +2938,7 @@ She Was Good for Nothing
 'good': TKPWAOD
 'for': TPOR
 'nothing?"': TPHOG/H-F/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'indeed,': TPHAOEPBD/KW-BG
 'it': T
 'is': S

@@ -239,7 +239,7 @@ The Red Shoes
 'mirror': PHROR
 'told': TOLD
 'her,': HER/KW-BG
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'more': PHOR
 'than': THAPB
@@ -460,7 +460,7 @@ The Red Shoes
 'not': TPHOT
 'fitted': TPEUTD
 'her.': HER/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'suppose': SPOS
 'they': THE
 'are': R
@@ -471,7 +471,7 @@ The Red Shoes
 'the': -T
 'old': OLD
 'lady.': HRA*ED/TP-PL
-'"They': KR-GS/KPA/THE
+'"They': KW-GS/KPA*/THE
 'shine': SHAOEUPB
 'so."': SO/TP-PL/KR-GS
 '"Yes,': KR-GS/KPA/KWRE/KW-BG
@@ -1570,7 +1570,7 @@ The Red Shoes
 'the': -T
 'executioner': EBGS/KAOUGS/*ER
 'said:': SED/STPH-FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'don't': TKOEPBT
 'suppose': SPOS
 'you': U
@@ -1604,7 +1604,7 @@ The Red Shoes
 'head!"': HED/SKHRAPL/KR-GS
 'said': SED
 'Karen,': KAEURPB/KW-BG
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'then': THEPB
 'I': EU
 'could': KO
@@ -1704,7 +1704,7 @@ The Red Shoes
 'shoes,"': SHAOUS/KW-BG/KR-GS
 'she': SHE
 'said;': SED/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'go': TKPW
 'to': TO
@@ -2193,7 +2193,7 @@ The Red Shoes
 'nodded': TPHOD/-D
 'and': SKP
 'said,': SED/KW-BG
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'was': WAS
 'right': RAOEUT
 'of': -F
@@ -2201,7 +2201,7 @@ The Red Shoes
 'to': TO
 'come,': KOPL/KW-BG
 'Karen."': KAEURPB/TP-PL/KR-GS
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'was': WAS
 'mercy,"': PHER/SEU/KW-BG/KR-GS
 'said': SED

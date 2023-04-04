@@ -82,7 +82,7 @@ What One Can Invent
 'ago!"': AG/SKHRAPL/KR-GS
 'said': SED
 'he.': HE/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'was': WAS
 'an': APB
 'easy': EZ
@@ -201,7 +201,7 @@ What One Can Invent
 'for': TPOR
 'his': HEUS
 'rank.': RA*PBG/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'must': PHUFT
 'go': TKPW
 'to': TO
@@ -365,7 +365,7 @@ What One Can Invent
 'the': -T
 'old': OLD
 'time."': TAOEUPL/TP-PL/KR-GS
-'"No,"': KR-GS/KPA/TPHO/KW-BG/KR-GS
+'"No,"': KW-GS/KPA*/TPHO/KW-BG/KR-GS
 'said': SED
 'the': -T
 'woman.': WOPL/TP-PL
@@ -632,7 +632,7 @@ What One Can Invent
 'lump': HRUFRP
 'of': -F
 'gold.': TKPWOELD/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'were': WR
 'distributed,': TKR-BTD/KW-BG
 'by': PWEU
@@ -763,7 +763,7 @@ What One Can Invent
 'story': STOER
 'it': T
 'was!': WAS/SKHRAPL
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'and': SKP
 'that': THA
 'will': HR
@@ -777,7 +777,7 @@ What One Can Invent
 'the': -T
 'sloe': SHRO*E
 'bush."': PWURB/TP-PL/KR-GS
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'have': SR
 'also': HR-S
 'some': SOPL
@@ -855,7 +855,7 @@ What One Can Invent
 ''Groenland,'': AE/xxx Groenland/KW-BG/AE
 'or': OR
 ''Sloeland.'"': AE/xxx Sloeland/TP-PL/AE/KR-GS
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'quite': KWAOEUT
 'a': AEU
@@ -1043,7 +1043,7 @@ What One Can Invent
 'whirls': WHEURL/-S
 'and': SKP
 'whirls!': WHEURL/-S/SKHRAPL
-'It's': KPA/T/AES
+'It's': KPA/T-S
 'quite': KWAOEUT
 'a': AEU
 'confusion': KAUFGS
@@ -1057,7 +1057,7 @@ What One Can Invent
 'at': AT
 'the': -T
 'back."': PWABG/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'go': TKPW
 'straight': STRAEUT
 'forward,"': TPAORD/KW-BG/KR-GS
@@ -1130,14 +1130,14 @@ What One Can Invent
 'the': -T
 'young': KWRUPBG
 'man,': PHAPB/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'now': TPHOU
 'I': EU
 'don't': TKOEPBT
 'hear': HAER
 'anything': TPHEUG
 'more."': PHOR/TP-PL/KR-GS
-'"Why,': KR-GS/KPA/KWR/KW-BG
+'"Why,': KW-GS/KPA*/KWR/KW-BG
 'then,': THEPB/KW-BG
 'you': U
 'can't': K-PBT
@@ -1184,7 +1184,7 @@ What One Can Invent
 'bread': PWRAED
 'by': PWEU
 'poetry?"': POEURT/H-F/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'can': K
 'do': TKO
 'that': THA
@@ -1203,7 +1203,7 @@ What One Can Invent
 'will': HR
 'kill': KEUL
 'them.': THEPL/TP-PL
-'Don't': TKO*PB/AE/T*
+'Don't': KPA/TKOEPBT
 'be': -B
 'put': PUT
 'out': OUT

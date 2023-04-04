@@ -135,7 +135,7 @@ Two Maidens
 'the': -T
 'name': TPHAEUPL
 'of': -F
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'maiden."': PHAEUD/*EPB/TP-PL/KR-GS
 'Now,': KPA/TPHOU/KW-BG
 'there': THR
@@ -223,7 +223,7 @@ Two Maidens
 'things—that's': THEUPBGS/EPL/TKA*RB/THA/AES
 'insulting': EUPB/SULT/-G
 'us."': US/TP-PL/KR-GS
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'lover': HRUFR
 'would': WO
 'be': -B
@@ -274,7 +274,7 @@ Two Maidens
 'a': AEU
 'similar': SHRAR
 'way.': WAEU/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'wants': WAPBTS
 'to': TO
 'marry': PHAER
@@ -350,7 +350,7 @@ Two Maidens
 'upon': POPB
 'one': WUPB
 'wheel.': WHAOEL/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'must': PHUFT
 'submit': SPHEUT
 'to': TO
@@ -358,7 +358,7 @@ Two Maidens
 'notice,"': TPH-TS/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'the': -T
 'name': TPHAEUPL
 ''maiden'': AE/PHAEUD/*EPB/AE
@@ -422,19 +422,19 @@ Two Maidens
 'my': PHEU
 'maiden': PHAEUD/*EPB
 'name."': TPHAEUPL/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'certainly': SERPBL
 'not!"': TPHOT/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
 'elder.': ELD/ER/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'too': TAO
 'old': OLD
 'for': TPOR
 'that."': THA/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'presume': PRAOUPL
 'you': U
 'have': SR
@@ -503,7 +503,7 @@ Two Maidens
 'said': SED
 'the': -T
 'younger,': KWRURPBG/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'should': SHO
 'prefer': PREFR
 'to': TO
@@ -518,7 +518,7 @@ Two Maidens
 'little': HREUL
 'of': -F
 'maidens."': PHAEUD/*EPB/-S/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'I': EU
 'would': WO
 'rather': RAER

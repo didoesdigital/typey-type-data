@@ -408,7 +408,7 @@ The Nightingale
 'to': TO
 'the': -T
 'words,': WORDZ/KW-BG
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'nightingale': TPHAOEUT/-G/TKPWAEL
 'is': S
 'the': -T
@@ -522,7 +522,7 @@ The Nightingale
 'told': TOLD
 'of': -F
 'it?"': T/H-F/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'never': TPHEFR
 'heard': HAERD
@@ -538,7 +538,7 @@ The Nightingale
 'presented': PREPBTD
 'at': AT
 'court."': KORT/TP-PL/KR-GS
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'my': PHEU
 'pleasure': PHRERB
@@ -551,7 +551,7 @@ The Nightingale
 'said': SED
 'the': -T
 'emperor;': EPL/ROR/STPH*FPLT
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'whole': WHOEL
 'world': WORLD
 'knows': TPHOEZ
@@ -563,7 +563,7 @@ The Nightingale
 'I': EU
 'do': TKO
 'myself."': PHAO*EUS/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'never': TPHEFR
 'heard': HAERD
@@ -655,7 +655,7 @@ The Nightingale
 'the': -T
 'black': PWHRABG
 'art."': ART/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'the': -T
 'book': PWAOBG
 'in': TPH
@@ -872,7 +872,7 @@ The Nightingale
 'said': SED
 'the': -T
 'lord-in-waiting,': HRORD/H-PB/TPH/H-PB/WAEUGT/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'obtain': OB/TAEUPB
 'for': TPOR
@@ -958,7 +958,7 @@ The Nightingale
 'heard': HAERD
 'it': T
 'before."': PW-FR/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'that': THA
 'is': S
 'only': OEPBL
@@ -969,7 +969,7 @@ The Nightingale
 'the': -T
 'little': HREUL
 'girl;': TKPWEURL/STPH*FPLT
-'"we': KR-GS/WE
+'"we': KW-GS/WE
 'are': R
 'a': AEU
 'long': HROPBG
@@ -1002,7 +1002,7 @@ The Nightingale
 'little': HREUL
 'church': KHUFRPB
 'bells."': PWELS/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'those': THOZ
 'are': R
 'frogs,"': TPROGS/KW-BG/KR-GS
@@ -1034,7 +1034,7 @@ The Nightingale
 'said': SED
 'the': -T
 'girl,': TKPWEURL/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'there': THR
 'she': SHE
 'sits,"': SEUTS/KW-BG/KR-GS
@@ -1058,7 +1058,7 @@ The Nightingale
 'said': SED
 'the': -T
 'lord-in-waiting,': HRORD/H-PB/TPH/H-PB/WAEUGT/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'never': TPHEFR
 'imagined': PHAPBLGD
 'it': T
@@ -1102,7 +1102,7 @@ The Nightingale
 'sing': SEUPBG
 'before': PW-FR
 'him."': HEUPL/TP-PL/KR-GS
-'"With': KR-GS/KPA/W
+'"With': KW-GS/KPA*/W
 'the': -T
 'greatest': TKPWRAET/EFT
 'pleasure,"': PHRERB/KW-BG/KR-GS
@@ -1115,7 +1115,7 @@ The Nightingale
 'sing': SEUPBG
 'most': PHOFT
 'delightfully.': TKHRAOEUT/TPHREU/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'sounds': SOUPBDZ
 'like': HRAOEUBG
 'tiny': TOEUPB
@@ -1124,7 +1124,7 @@ The Nightingale
 'said': SED
 'the': -T
 'lord-in-waiting,': HRORD/H-PB/TPH/H-PB/WAEUGT/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'see': SAOE
 'how': HOU
 'her': HER
@@ -1149,7 +1149,7 @@ The Nightingale
 'success': SKES
 'at': AT
 'court."': KORT/TP-PL/KR-GS
-'"Shall': KR-GS/KPA/SHAL
+'"Shall': KW-GS/KPA*/SHAL
 'I': EU
 'sing': SEUPBG
 'once': WUPBS
@@ -1165,14 +1165,14 @@ The Nightingale
 'he': HE
 'was': WAS
 'present.': PREPBT/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'excellent': KPHREPBT
 'little': HREUL
 'nightingale,"': TPHAOEUT/-G/TKPWAEL/KW-BG/KR-GS
 'said': SED
 'the': -T
 'courtier,': KORT/KWRA*U/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'the': -T
 'great': TKPWRAET
@@ -1196,7 +1196,7 @@ The Nightingale
 'your': KWROUR
 'charming': KHARPL/-G
 'song."': SOPBG/TP-PL/KR-GS
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'song': SOPBG
 'sounds': SOUPBDZ
 'best': PWEFT
@@ -1408,7 +1408,7 @@ The Nightingale
 'sufficiently': SUFL
 'rewarded': RE/WARD/-D
 'already.': HR-R/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'seen': SAOEPB
 'tears': TAERS
@@ -1418,7 +1418,7 @@ The Nightingale
 'eyes,"': AO*EUS/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'is': S
 'my': PHEU
 'richest': REUFP/EFTS
@@ -1445,7 +1445,7 @@ The Nightingale
 'enchantingly': EPB/KHAPBT/-G/HREU
 'than': THAPB
 'ever.': -FR/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'singing': SEUPBG/-G
 'is': S
 'a': AEU
@@ -1777,7 +1777,7 @@ The Nightingale
 'said': SED
 'the': -T
 'court,': KORT/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'what': WHA
 'a': AEU
 'duet': TKAOU/ET
@@ -1808,7 +1808,7 @@ The Nightingale
 'sang': SAPBG
 'only': OEPBL
 'waltzes.': WAULGT/-S/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'not': TPHOT
 'a': AEU
@@ -1816,7 +1816,7 @@ The Nightingale
 'said': SED
 'the': -T
 'music-master,': PHAOUFBG/H-PB/PHAFRT/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'quite': KWAOEUT
 'perfect': P-F
@@ -1935,7 +1935,7 @@ The Nightingale
 'very': SRE
 'ungrateful': UPB/TKPWRA*EUFL
 'creature.': KRAOEFP/TP-PL
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'we': WE
 'have': SR
 'the': -T
@@ -2016,7 +2016,7 @@ The Nightingale
 'its': EUTS
 'musical': PHAO*UL
 'power.': POUR/TP-PL
-'"For': KR-GS/KPA/TPOR
+'"For': KW-GS/KPA*/TPOR
 'you': U
 'must': PHUFT
 'perceive,': SPAOEF/KW-BG
@@ -2154,7 +2154,7 @@ The Nightingale
 'real': RAEL
 'nightingale,': TPHAOEUT/-G/TKPWAEL/KW-BG
 'said,': SED/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'sounds': SOUPBDZ
 'prettily': PRET/HREU
 'enough,': TPHUF/KW-BG
@@ -2847,7 +2847,7 @@ The Nightingale
 'on': OPB
 'his': HEUS
 'brow.': PWROU/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'know': TPHOE
 'nothing': TPHOG
 'about': PW
@@ -2859,7 +2859,7 @@ The Nightingale
 'music!"': PHAOUFBG/SKHRAPL/KR-GS
 'he': HE
 'cried;': KRAOEUD/STPH*FPLT
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'large': HRARPBLG
 'Chinese': KHAOEUPBZ
 'drum!': TKRUPL/SKHRAPL
@@ -2891,7 +2891,7 @@ The Nightingale
 'shouted': SHOUT/-D
 'the': -T
 'emperor.': EPL/ROR/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'little': HREUL
 'precious': PRERBS
 'golden': TKPWOELD/*EPB
@@ -3178,7 +3178,7 @@ The Nightingale
 'I': EU
 'reward': RE/WARD
 'you?"': U/H-F/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'already': HR-R
 'rewarded': RE/WARD/-D
@@ -3186,7 +3186,7 @@ The Nightingale
 'said': SED
 'the': -T
 'nightingale.': TPHAOEUT/-G/TKPWAEL/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'shall': SHAL
 'never': TPHEFR
 'forget': TPORGT
@@ -3282,7 +3282,7 @@ The Nightingale
 'him,': HEUPL/KW-BG
 'and': SKP
 'sang.': SAPBG/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'always': AULS
 'remain': RAEUPL
@@ -3291,7 +3291,7 @@ The Nightingale
 'said': SED
 'the': -T
 'emperor.': EPL/ROR/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'shall': SHAL
 'sing': SEUPBG
 'only': OEPBL
@@ -3318,7 +3318,7 @@ The Nightingale
 'replied': RE/PHRAOEUD
 'the': -T
 'nightingale;': TPHAOEUT/-G/TKPWAEL/STPH*FPLT
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'bird': PWEURD
 'did': TK
 'very': SRE
@@ -3480,7 +3480,7 @@ The Nightingale
 'to': TO
 'his': HEUS
 'heart.': HART/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'only': OEPBL
 'ask': SK
 'one': WUPB
@@ -3535,5 +3535,5 @@ The Nightingale
 'their': THAEUR
 'astonishment,': AS/TOPB/SH-PLT/KW-BG
 'said,': SED/KW-BG
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'morning."': PHORPBG/TP-PL/KR-GS

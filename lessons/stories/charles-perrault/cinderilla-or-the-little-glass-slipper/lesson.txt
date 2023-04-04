@@ -369,13 +369,13 @@ Cinderilla or the Little Glass Slipper
 'should': SHO
 'be': -B
 'dressed.': TKREFD/TP-PL
-'"For': KR-GS/KPA/TPOR
+'"For': KW-GS/KPA*/TPOR
 'my': PHEU
 'part,"': PART/KW-BG/KR-GS
 'said': SED
 'the': -T
 'eldest,': ELD/EFT/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'wear': WAER
 'my': PHEU
@@ -550,7 +550,7 @@ Cinderilla or the Little Glass Slipper
 'it,"': T/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'they,': THE/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'would': WO
 'make': PHAEUBG
 'the': -T
@@ -673,7 +673,7 @@ Cinderilla or the Little Glass Slipper
 'was': WAS
 'the': -T
 'matter.': PHAERT/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'wish': WEURB
 'I': EU
 'could----,': KO/H-PB/H-PB/H-PB/H-PB/KW-BG
@@ -726,7 +726,7 @@ Cinderilla or the Little Glass Slipper
 'a': AEU
 'great': TKPWRAET
 'sigh.': SAOEU/TP-PL
-'"Well,"': KR-GS/KPA/WEL/KW-BG/KR-GS
+'"Well,"': KW-GS/KPA*/WEL/KW-BG/KR-GS
 'said': SED
 'her': HER
 'godmother,': TKPWOD/PHOER/KW-BG
@@ -903,14 +903,14 @@ Cinderilla or the Little Glass Slipper
 'for': TPOR
 'a': AEU
 'coachman,': KOEFP/PHAPB/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'go': TKPW
 'and': SKP
 'see,"': SAOE/KW-BG/KR-GS
 'says': SEZ
 'Cinderilla,': xxx Cinderilla/KW-BG
-'"if': KR-GS/TP
+'"if': KW-GS/TP
 'there': THR
 'be': -B
 'never': TPHEFR
@@ -1066,7 +1066,7 @@ Cinderilla or the Little Glass Slipper
 'said': SED
 'to': TO
 'Cinderilla:': xxx Cinderilla/STPH-FPLT
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'you': U
 'see': SAOE
 'here': HAOER
@@ -1440,7 +1440,7 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'Queen': KWAO*EPB
 'softly,': SOFT/HREU/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'it': T
 'was': WAS
 'a': AEU
@@ -1684,7 +1684,7 @@ Cinderilla or the Little Glass Slipper
 'ran': RAPB
 'and': SKP
 'opened.': OEPD/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'long': HROPBG
 'you': U
 'have': SR
@@ -1724,7 +1724,7 @@ Cinderilla or the Little Glass Slipper
 'went': WEPBT
 'from': TPR
 'home.': HOEPL/TP-PL
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'thou': THO*U
 'hadst': xxx hadst
 'been': PW-PB
@@ -2303,7 +2303,7 @@ Cinderilla or the Little Glass Slipper
 'to': TO
 'them': THEPL
 'laughing:': HRAFG/STPH-FPLT
-'"Let': KR-GS/KPA/HRET
+'"Let': KW-GS/KPA*/HRET
 'me': PHE
 'see': SAOE
 'if': TP

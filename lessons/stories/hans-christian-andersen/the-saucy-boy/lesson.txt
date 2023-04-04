@@ -330,7 +330,7 @@ The Saucy Boy
 'the': -T
 'old': OLD
 'man.': PHAPB/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'a': AEU
 'merry': PHER/REU
@@ -342,7 +342,7 @@ The Saucy Boy
 'is': S
 'your': KWROUR
 'name?"': TPHAEUPL/H-F/KR-GS
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'name': TPHAEUPL
 'is': S
 'Cupid,"': KPA/KAOUPD/KW-BG/KR-GS
@@ -372,7 +372,7 @@ The Saucy Boy
 'moon': PHAOPB
 'is': S
 'shining."': SHAOEUPBG/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'your': KWROUR
 'bow': PWOE
 'is': S
@@ -381,7 +381,7 @@ The Saucy Boy
 'the': -T
 'old': OLD
 'poet.': POET/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'would': WO
 'be': -B
 'unfortunate,"': TPHORPBT/KW-BG/KR-GS
@@ -504,7 +504,7 @@ The Saucy Boy
 '"Oh!"': KR-GS/KPA/O*ERBGS/SKHRAPL/KR-GS
 'he': HE
 'cried,': KRAOEUD/KW-BG
-'"what': KR-GS/WHA
+'"what': KW-GS/WHA
 'a': AEU
 'naughty': TPHAU/TEU
 'boy': PWOEU

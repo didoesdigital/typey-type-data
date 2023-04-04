@@ -237,14 +237,14 @@ The Daisy
 'not': TPHOT
 'feel': TPAOEL
 'envious.': EPB/SROUS/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'can': K
 'see': SAOE
 'and': SKP
 'hear,"': HAER/KW-BG/KR-GS
 'it': T
 'thought;': THAUT/STPH*FPLT
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'sun': SUPB
 'shines': SHAOEUPBS
 'upon': POPB
@@ -346,7 +346,7 @@ The Daisy
 'them': THEPL
 'and': SKP
 'thought,': THAUT/KW-BG
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'rich': REUFP
 'and': SKP
 'beautiful': PWAOUFL
@@ -429,7 +429,7 @@ The Daisy
 'it': T
 'and': SKP
 'sang,': SAPBG/KW-BG
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'beautifully': PWAOUFL/HREU
 'soft': SOFT
 'the': -T
@@ -640,7 +640,7 @@ The Daisy
 'sighed': SAOEU/-D
 'the': -T
 'daisy,': TKAEU/SEU/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'is': S
 'terrible;': TERBL/STPH*FPLT
 'now': TPHOU
@@ -991,7 +991,7 @@ The Daisy
 'the': -T
 'other': OER
 'boy,': PWOEURBGS
-'"it': KR-GS/T
+'"it': KW-GS/T
 'looks': HRAOBGS
 'so': SO
 'pretty."': PREUT/TP-PL/KR-GS
@@ -1046,7 +1046,7 @@ The Daisy
 'the': -T
 'forenoon': TPOER/TPHAOPB
 'passed.': PAFD/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'no': TPHO
 'water,"': WAUR/KW-BG/KR-GS
@@ -1145,7 +1145,7 @@ The Daisy
 'beak': PWAOEBG
 'and': SKP
 'said:': SED/STPH-FPLT
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'also': HR-S
 'fade': TPAEUD
@@ -1206,7 +1206,7 @@ The Daisy
 'I': EU
 'have': SR
 'lost."': HRO*S/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'wish': WEURB
 'I': EU
 'could': KO

@@ -829,7 +829,7 @@ The Bottle Neck
 'and': SKP
 'are': R
 'merry.': PHER/REU/TP-PL
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'how': HOU
 'beautiful': PWAOUFL
 'is': S
@@ -1393,7 +1393,7 @@ The Bottle Neck
 'lay': HRAEU
 'there': THR
 'unseen.': UPB/SAOEPB/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'gave': TKPWAEUF
 'them': THEPL
 'wine,': WAOEUPB/KW-BG
@@ -1793,7 +1793,7 @@ The Bottle Neck
 'the': -T
 'name': TPHAEUPL
 'of': -F
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'apothecary,"': A/PO*T/KAER/KW-BG/KR-GS
 'for': TPOR
 'it': T
@@ -1935,7 +1935,7 @@ The Bottle Neck
 'piece': PAOES
 'of': -F
 'paper,': PAEUP/KW-BG
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'are': R
 'going': TKPW-G
 'down:': TKOUPB/STPH-FPLT
@@ -2565,7 +2565,7 @@ The Bottle Neck
 'for': TPOR
 'twenty': TWEPBT
 'years.': KWRAOERS/TP-PL
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'I': EU
 'had': H
 'been': PW-PB
@@ -2577,7 +2577,7 @@ The Bottle Neck
 'thought': THAUT
 'the': -T
 'bottle,': PWO*LT/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'might': PHAOEUT
 'have': SR
 'learnt': HRERPBT
@@ -2725,7 +2725,7 @@ The Bottle Neck
 'yonder!"': KWROPBD/ER/SKHRAPL/KR-GS
 'said': SED
 'one,': WUPB/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'very': SRE
 'likely': HRAOEULG
 'it': T
@@ -2830,7 +2830,7 @@ The Bottle Neck
 'there': THR
 'and': SKP
 'forgotten.': TPAURGTD/TP-PL
-'"There's': KR-GS/KPA/THR/AES
+'"There's': KW-GS/KPA*/THR-S
 'no': TPHO
 'place': PHRAEUS
 'like': HRAOEUBG
@@ -3507,7 +3507,7 @@ The Bottle Neck
 'thought': THAUT
 'the': -T
 'bottle;': PWO*LT/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'a': AEU
 'new': TPHU
@@ -3885,7 +3885,7 @@ The Bottle Neck
 'with': W
 'a': AEU
 'diamond.': TKAOEUPLD/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'would': WO
 'make': PHAEUBG
 'a': AEU
@@ -4011,7 +4011,7 @@ The Bottle Neck
 'merrily': PHER/HREU
 'than': THAPB
 'ever.': -FR/TP-PL
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'you': U
 'have': SR
 'good': TKPWAOD
@@ -4102,7 +4102,7 @@ The Bottle Neck
 'in': TPH
 'the': -T
 'window.': WOEUPBD/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'you': U
 'must': PHUFT
 'not': TPHOT

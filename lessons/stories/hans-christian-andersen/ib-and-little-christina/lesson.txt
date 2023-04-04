@@ -1184,7 +1184,7 @@ Ib and Little Christina
 'and': SKP
 'Christina': KREUS/TEU/TPHA
 'said,': SED/KW-BG
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'shall': SHAL
 'get': TKPWET
 'into': TPHAO
@@ -1197,7 +1197,7 @@ Ib and Little Christina
 'mind,"': PHAOEUPBD/KW-BG/KR-GS
 'said': SED
 'Ib;': xxx Ib/STPH*FPLT
-'"we': KR-GS/WE
+'"we': KW-GS/WE
 'will': HR
 'go': TKPW
 'home': HOEPL
@@ -1721,7 +1721,7 @@ Ib and Little Christina
 'also,"': HR-S/KW-BG/KR-GS
 'said': SED
 'Christina;': KREUS/TEU/TPHA/STPH*FPLT
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'it': T
 'is': S
 'a': AEU
@@ -1743,14 +1743,14 @@ Ib and Little Christina
 'little': HREUL
 'black': PWHRABG
 'thing.': THEUPBG/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'may': PHAE
 'keep': KAOEP
 'that': THA
 'one,"': WUPB/KW-BG/KR-GS
 'said': SED
 'Christina;': KREUS/TEU/TPHA/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'quite': KWAOEUT
 'as': AS
@@ -2009,7 +2009,7 @@ Ib and Little Christina
 'rich': REUFP
 'black': PWHRABG
 'earth.': *ERT/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'just': SKWRUFT
 'what': WHA
@@ -2017,7 +2017,7 @@ Ib and Little Christina
 'expected!"': KP-PTD/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'Ib.': xxx Ib/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'should': SHO
 'there': THR
 'be': -B
@@ -2194,7 +2194,7 @@ Ib and Little Christina
 'already': HR-R
 'called': KAULD
 'them': THEPL
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'betrothed,"': PWE/TRO*T/-D/KW-BG/KR-GS
 'and': SKP
 'at': AT
@@ -2560,7 +2560,7 @@ Ib and Little Christina
 'said': SED
 'at': AT
 'last,': HRAFT/KW-BG
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'become': PW-BG
 'quite': KWAOEUT
@@ -2803,7 +2803,7 @@ Ib and Little Christina
 'yes,"': KWRE/KW-BG/KR-GS
 'she': SHE
 'replied;': RE/PHRAOEUD/STPH*FPLT
-'"Let': KR-GS/KPA/HRET
+'"Let': KW-GS/KPA*/HRET
 'us': US
 'wait': WAEUT
 'a': AEU
@@ -3771,7 +3771,7 @@ Ib and Little Christina
 'to': TO
 'the': -T
 'president.': PREZ/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'have': SR
 'found': TPOUPBD
 'in': TPH
@@ -3791,7 +3791,7 @@ Ib and Little Christina
 'thing,"': THEUPBG/KW-BG/KR-GS
 'thought': THAUT
 'Ib;': xxx Ib/STPH*FPLT
-'"the': KR-GS/-T
+'"the': KW-GS/-T
 'very': SRE
 'best': PWEFT
 'thing': THEUPBG
@@ -4426,7 +4426,7 @@ Ib and Little Christina
 'with': W
 'her': HER
 'mother.': PHOER/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'makes': PHAEUBGS
 'me': PHE
 'unhappy': UPB/HAEP

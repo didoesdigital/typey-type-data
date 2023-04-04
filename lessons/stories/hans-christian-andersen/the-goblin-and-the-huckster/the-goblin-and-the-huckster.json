@@ -123,7 +123,7 @@
 "SORT/KW-BG/KR-GS": "sort,\"",
 "SED": "said",
 "HUBG/STER/STPH-FPLT": "huckster:",
-"KR-GS/EU": "\"I",
+"KW-GS/EU": "\"I",
 "TKPWAEUF": "gave",
 "TPAOU": "few",
 "KOEF": "coffee",
@@ -245,10 +245,10 @@
 "R-L": "really",
 "TRAOU/KW-BG/KR-GS": "true,\"",
 "SK-D/KW-BG": "asked,",
-"KR-GS/THA": "\"that",
+"KW-GS/THA": "\"that",
 "TPHOE": "know",
 "S/H-F/KR-GS": "is?\"",
-"KR-GS/KPA/-F": "\"Of",
+"KW-GS/KPA*/-F": "\"Of",
 "KORS": "course",
 "TPHOE/KW-BG/KR-GS": "know,\"",
 "RE/PHRAOEUD": "replied",
@@ -486,7 +486,7 @@
 "PHREFPBT": "pleasant",
 "PHEUPBG/-LD": "mingled",
 "TAERS/TP-PL": "tears.",
-"KR-GS/KPA/HOU": "\"How",
+"KW-GS/KPA*/HOU": "\"How",
 "TPH-PB": "under",
 "TRAOE/STPH*FPLT/KR-GS": "tree;\"",
 "KWE/KW-BG": "question,",
@@ -627,5 +627,5 @@
 "TPHAEURT/TP-PL": "nature.",
 "KPA/WE": "We",
 "SREUFT": "visit",
-"KR-GS/PWAU": "\"because"
+"KW-GS/PWAU": "\"because"
 }

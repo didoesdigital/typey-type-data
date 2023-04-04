@@ -30,7 +30,7 @@ Little Tiny or Thumbelina
 'fairy,': TPAEUR/REU/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'should': SHO
 'so': SO
 'very': SRE
@@ -90,7 +90,7 @@ Little Tiny or Thumbelina
 'what': WHA
 'will': HR
 'happen."': HAP/TP-PL/KR-GS
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you,"': U/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -144,7 +144,7 @@ Little Tiny or Thumbelina
 'still': STEUL
 'a': AEU
 'bud.': PWUD/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'a': AEU
 'beautiful': PWAOUFL
@@ -462,7 +462,7 @@ Little Tiny or Thumbelina
 'said': SED
 'the': -T
 'toad,': TAOD/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'then': THEPB
 'she': SHE
 'might': PHAOEUT
@@ -854,7 +854,7 @@ Little Tiny or Thumbelina
 'the': -T
 'ugly': ULG
 'toads.': TOEDZ/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'it': T
 'must': PHUFT
 'never': TPHEFR
@@ -1665,7 +1665,7 @@ Little Tiny or Thumbelina
 'for': TPOR
 'two': TWO
 'days.': TKAEUS/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'poor': PAOR
 'little': HREUL
 'creature,"': KRAOEFP/KW-BG/KR-GS
@@ -1697,7 +1697,7 @@ Little Tiny or Thumbelina
 'so': SO
 'she': SHE
 'said,': SED/KW-BG
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'quite': KWAOEUT
 'welcome': WELG
@@ -1746,7 +1746,7 @@ Little Tiny or Thumbelina
 'herself': H*ERS
 'very': SRE
 'comfortable.': K-BL/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'shall': SHAL
 'have': SR
 'a': AEU
@@ -1843,7 +1843,7 @@ Little Tiny or Thumbelina
 'black': PWHRABG
 'velvet': SREL/SRET
 'coat.': KOET/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'is': S
 'very': SRE
 'rich': REUFP
@@ -2160,7 +2160,7 @@ Little Tiny or Thumbelina
 'legs,': HREGS/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'will': HR
 'sing': SEUPBG
 'no': TPHO
@@ -2294,7 +2294,7 @@ Little Tiny or Thumbelina
 'summer,"': SAOURPL/KW-BG/KR-GS
 'she': SHE
 'said;': SED/STPH*FPLT
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'how': HOU
 'much': PHUFP
 'pleasure': PHRERB
@@ -2626,7 +2626,7 @@ Little Tiny or Thumbelina
 'no': TPHO
 'other': OER
 'lantern.': HRAPB/TERPB/TP-PL
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you,': U/KW-BG
 'pretty': PREUT
 'little': HREUL
@@ -2635,7 +2635,7 @@ Little Tiny or Thumbelina
 'the': -T
 'sick': SEUBG
 'swallow;': SWAL/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'been': PW-PB
 'so': SO
@@ -2662,7 +2662,7 @@ Little Tiny or Thumbelina
 '"Oh,"': KR-GS/KPA/O*ERBGS/KW-BG/KR-GS
 'said': SED
 'she,': SHE/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'cold': KOELD
 'out': OUT
@@ -2879,7 +2879,7 @@ Little Tiny or Thumbelina
 'so': SO
 'she': SHE
 'said,': SED/KW-BG
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'I': EU
 'cannot."': SK-PBT/TP-PL/KR-GS
 '"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
@@ -2984,7 +2984,7 @@ Little Tiny or Thumbelina
 'inch': TPH-FP
 'in': TPH
 'height.': HAOEUT/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'going': TKPW-G
 'to': TO
@@ -2994,7 +2994,7 @@ Little Tiny or Thumbelina
 'said': SED
 'the': -T
 'field-mouse.': TPAOELD/H-PB/PHOUS/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'neighbor': TPHAEUB
 'has': HAS
 'asked': SK-D
@@ -3502,7 +3502,7 @@ Little Tiny or Thumbelina
 'said': SED
 'the': -T
 'swallow,': SWAL/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'I': EU
 'am': APL
 'going': TKPW-G
@@ -3872,7 +3872,7 @@ Little Tiny or Thumbelina
 'make': PHAEUBG
 'you': U
 'happy."': HAEP/TP-PL/KR-GS
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'will': HR
 'be': -B
 'delightful,"': TKHRAOEUT/-FL/KW-BG/KR-GS
@@ -4117,7 +4117,7 @@ Little Tiny or Thumbelina
 'so': SO
 'she': SHE
 'said,': SED/KW-BG
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'to': TO
 'the': -T
 'handsome': HAPBD/SO*PL
@@ -4247,7 +4247,7 @@ Little Tiny or Thumbelina
 'from': TPR
 'her': HER
 'again.': TKPWEPB/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'not': TPHOT
 'be': -B
@@ -4263,7 +4263,7 @@ Little Tiny or Thumbelina
 'flowers': TPHRO*URS
 'to': TO
 'her.': HER/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'an': APB
 'ugly': ULG

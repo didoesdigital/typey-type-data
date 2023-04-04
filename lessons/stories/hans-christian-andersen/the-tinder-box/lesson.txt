@@ -62,7 +62,7 @@ The Tinder-Box
 'stopped': STOPD
 'and': SKP
 'said,': SED/KW-BG
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'evening,': AOEPBG/KW-BG
 'soldier;': SHRERPBLG/STPH*FPLT
 'you': U
@@ -92,7 +92,7 @@ The Tinder-Box
 'ever': -FR
 'you': U
 'like."': HRAOEUBG/TP-PL/KR-GS
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you,': U/KW-BG
 'old': OLD
 'witch,"': WEUFP/KW-BG/KR-GS
@@ -116,7 +116,7 @@ The Tinder-Box
 'stood': STAOD
 'beside': PWE/SAOEUD
 'them.': THEPL/TP-PL
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'it': T
 'is': S
 'quite': KWAOEUT
@@ -171,7 +171,7 @@ The Tinder-Box
 'out': OUT
 'to': TO
 'me."': PHE/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'what': WHA
 'am': APL
 'I': EU
@@ -189,7 +189,7 @@ The Tinder-Box
 'money,"': PHUPB/KW-BG/KR-GS
 'she': SHE
 'replied;': RE/PHRAOEUD/STPH*FPLT
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'you': U
 'must': PHUFT
 'know': TPHOE
@@ -477,7 +477,7 @@ The Tinder-Box
 'this': TH
 'for': TPOR
 'nothing."': TPHOG/TP-PL/KR-GS
-'"No,"': KR-GS/KPA/TPHO/KW-BG/KR-GS
+'"No,"': KW-GS/KPA*/TPHO/KW-BG/KR-GS
 'said': SED
 'the': -T
 'witch;': WEUFP/STPH*FPLT
@@ -527,7 +527,7 @@ The Tinder-Box
 'replied': RE/PHRAOEUD
 'the': -T
 'witch;': WEUFP/STPH*FPLT
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'here': HAOER
 'is': S
 'my': PHEU
@@ -661,7 +661,7 @@ The Tinder-Box
 'big': PWEUG
 'as': AS
 'mill-wheels.': PHEUL/H-PB/WHAOELS/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'had': H
 'better': PWOERT
 'not': TPHOT
@@ -760,7 +760,7 @@ The Tinder-Box
 'head': HED
 'like': HRAOEUBG
 'wheels.': WHAOELS/TP-PL
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'morning,"': PHORPBG/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -984,7 +984,7 @@ The Tinder-Box
 'asked': SK-D
 'the': -T
 'soldier.': SHRERPBLG/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'nothing': TPHOG
 'to': TO
@@ -1001,14 +1001,14 @@ The Tinder-Box
 'me': PHE
 'the': -T
 'tinder-box."': TEUPBD/*ER/H-PB/PWOBGS/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'tell': TEL
 'you': U
 'what,"': WHA/KW-BG/KR-GS
 'said': SED
 'the': -T
 'soldier,': SHRERPBLG/KW-BG
-'"if': KR-GS/TP
+'"if': KW-GS/TP
 'you': U
 'don't': TKOEPBT
 'tell': TEL
@@ -1031,7 +1031,7 @@ The Tinder-Box
 'off': OF
 'your': KWROUR
 'head."': HED/TP-PL/KR-GS
-'"No,"': KR-GS/KPA/TPHO/KW-BG/KR-GS
+'"No,"': KW-GS/KPA*/TPHO/KW-BG/KR-GS
 'said': SED
 'the': -T
 'witch.': WEUFP/TP-PL
@@ -1259,7 +1259,7 @@ The Tinder-Box
 'such': SUFP
 'a': AEU
 'marriage."': PHAERPBLG/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'should': SHO
 'like': HRAOEUBG
 'very': SRE
@@ -1685,7 +1685,7 @@ The Tinder-Box
 'at': AT
 'the': -T
 'princess.': PREUPB/SES/TP-PL
-'"Every': KR-GS/KPA/EF
+'"Every': KW-GS/KPA*/EF
 'one': WUPB
 'says': SEZ
 'she': SHE
@@ -1753,7 +1753,7 @@ The Tinder-Box
 'stood': STAOD
 'before': PW-FR
 'him.': HEUPL/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'midnight,"': PHAOEUPBT/KW-BG/KR-GS
 'said': SED
@@ -1881,7 +1881,7 @@ The Tinder-Box
 'by': PWEU
 'the': -T
 'soldier.': SHRERPBLG/TP-PL
-'"That': KR-GS/KPA/THA
+'"That': KW-GS/KPA*/THA
 'is': S
 'a': AEU
 'very': SRE
@@ -2119,7 +2119,7 @@ The Tinder-Box
 'cross': KROS
 'on': OPB
 'it.': T/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'my': PHEU
 'dear': TKAER
 'husband,': HUS/KW-BG
@@ -2710,7 +2710,7 @@ The Tinder-Box
 'were': WR
 'like': HRAOEUBG
 'towers.': TOURS/TP-PL
-'"Help': KR-GS/KPA/HEP
+'"Help': KW-GS/KPA*/HEP
 'me': PHE
 'now,': TPHOURBGS
 'that': THA
@@ -2762,7 +2762,7 @@ The Tinder-Box
 'dashed': TKARBD
 'to': TO
 'pieces.': PAOEFS/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'not': TPHOT
 'be': -B
@@ -2798,7 +2798,7 @@ The Tinder-Box
 'afraid,': A/TPRAEUD/KW-BG
 'and': SKP
 'cried,': KRAOEUD/KW-BG
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'soldier,': SHRERPBLG/KW-BG
 'you': U
 'shall': SHAL

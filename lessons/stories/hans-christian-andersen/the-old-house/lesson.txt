@@ -163,7 +163,7 @@ The Old House
 'Perhaps': KPA/PRAPS
 'they': THE
 'thought,': THAUT/KW-BG
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'long': HROPBG
 'will': HR
 'that': THA
@@ -947,7 +947,7 @@ The Old House
 'old': OLD
 'man': PHAPB
 'sat.': SAT/TP-PL
-'"Thank': KR-GS/KPA/THAPBG
+'"Thank': KW-GS/KPA*/THAPBG
 'you': U
 'for': TPOR
 'the': -T
@@ -960,7 +960,7 @@ The Old House
 'the': -T
 'old': OLD
 'man,': PHAPB/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'thank': THAPBG
 'you': U
 'also': HR-S
@@ -1172,7 +1172,7 @@ The Old House
 'to': TO
 'notice': TPH-TS
 'it.': T/TP-PL
-'"They': KR-GS/KPA/THE
+'"They': KW-GS/KPA*/THE
 'say': SAEU
 'at': AT
 'home,"': HOEPL/KW-BG/KR-GS
@@ -1180,7 +1180,7 @@ The Old House
 'the': -T
 'little': HREUL
 'boy,': PWOEURBGS
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'you': U
 'are': R
 'very': SRE
@@ -1190,7 +1190,7 @@ The Old House
 'the': -T
 'old': OLD
 'man,': PHAPB/KW-BG
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'pleasant': PHREFPBT
 'thoughts': THAUTS
@@ -1327,7 +1327,7 @@ The Old House
 'that': THA
 'old': OLD
 'house.': HOUS/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'cannot': SK-PBT
 'endure': EPB/TKAOUR
 'it,"': T/KW-BG/KR-GS
@@ -1340,7 +1340,7 @@ The Old House
 'on': OPB
 'a': AEU
 'shelf,': SHEFL/KW-BG
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'so': SO
 'lonely': HROEPBL
@@ -1453,7 +1453,7 @@ The Old House
 'cannot': SK-PBT
 'bear': PWAER
 'it."': T/TP-PL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'not': TPHOT
 'look': HRAOBG
@@ -1466,7 +1466,7 @@ The Old House
 'the': -T
 'little': HREUL
 'boy;': PWOEU/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'think': THEU
 'everything': EFRG
 'in': TPH
@@ -1486,7 +1486,7 @@ The Old House
 'to': TO
 'pay': PAEU
 'visits."': SREUFTS/TP-PL/KR-GS
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'but': PWUT
 'I': EU
 'never': TPHEFR
@@ -1501,12 +1501,12 @@ The Old House
 'the': -T
 'tin': TEUPB
 'soldier,': SHRERPBLG/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'I': EU
 'cannot': SK-PBT
 'bear': PWAER
 'it."': T/TP-PL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'bear': PWAER
 'it,"': T/KW-BG/KR-GS
@@ -1654,7 +1654,7 @@ The Old House
 'just': SKWRUFT
 'like': HRAOEUBG
 'another.': TPHOER/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'cannot': SK-PBT
 'bear': PWAER
 'it': T
@@ -1664,7 +1664,7 @@ The Old House
 'the': -T
 'tin': TEUPB
 'soldier;': SHRERPBLG/STPH*FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'wept': WEPT
 'tears': TAERS
@@ -2002,7 +2002,7 @@ The Old House
 'endure': EPB/TKAOUR
 'this': TH
 'life."': HRAOEUF/TP-PL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'given': TKPWEUFPB
 'away,"': WA*EU/KW-BG/KR-GS
@@ -2013,7 +2013,7 @@ The Old House
 '"you': KR-GS/U
 'must': PHUFT
 'stay.': STAEU/TP-PL
-'Don't': TKO*PB/AE/T*
+'Don't': KPA/TKOEPBT
 'you': U
 'see': SAOE
 'that?"': THA/H-F/KR-GS
@@ -2111,13 +2111,13 @@ The Old House
 'it,': T/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"Ah,': KR-GS/KPA/HA*E/KW-BG
+'"Ah,': KW-GS/KPA*/AERBGS
 'she': SHE
 'could': KO
 'sing': SEUPBG
 'that': THA
 'tune."': TAOUPB/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'go': TKPW
 'to': TO
@@ -2168,7 +2168,7 @@ The Old House
 'not': TPHOT
 'be': -B
 'found.': TPOUPBD/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'shall': SHAL
 'find': TPAOEUPBD
 'him': HEUPL
@@ -2822,7 +2822,7 @@ The Old House
 'a': AEU
 'fainting': TPAEUPBT/-G
 'fit.': TPEUT/TP-PL
-'"Let': KR-GS/KPA/HRET
+'"Let': KW-GS/KPA*/HRET
 'me': PHE
 'see': SAOE
 'him,"': HEUPL/KW-BG/KR-GS
@@ -2840,7 +2840,7 @@ The Old House
 'head,': HED/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'can': K
 'scarcely': SKAEURS/HREU
 'be': -B
@@ -2923,7 +2923,7 @@ The Old House
 'the': -T
 'old': OLD
 'man.': PHAPB/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'very': SRE
 'likely': HRAOEULG
@@ -2936,7 +2936,7 @@ The Old House
 'soldier,"': SHRERPBLG/KW-BG/KR-GS
 'said': SED
 'she,': SHE/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'I': EU
 'will': HR
 'take': TAEUBG
@@ -2962,7 +2962,7 @@ The Old House
 'old': OLD
 'man's': PHAPB/AES
 'grave."': TKPWRAEUF/TP-PL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'don't': TKOEPBT
 'know': TPHOE
 'where': W-R

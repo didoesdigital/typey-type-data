@@ -122,7 +122,7 @@ The Mail-Coach Passengers
 'the': -T
 'new': TPHU
 'comer.': KOPL/ER/TP-PL
-'"A': KR-GS/KPA/AEU
+'"A': KW-GS/KPA*/AEU
 'happy': HAEP
 'New': KPA/TPHU
 'Year,"': KPA/KWRAOER/KW-BG/KR-GS
@@ -256,7 +256,7 @@ The Mail-Coach Passengers
 'passport,"': PAS/PORT/KW-BG/KR-GS
 'he': HE
 'replied.': RE/PHRAOEUD/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'myself;"': PHAO*EUS/STPH*FPLT/KR-GS
 'and': SKP
@@ -271,7 +271,7 @@ The Mail-Coach Passengers
 'and': SKP
 'fur': TPUR
 'boots.': PWAOTS/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'am': APL
 'the': -T
 'man': PHAPB
@@ -446,7 +446,7 @@ The Mail-Coach Passengers
 'about': PW
 'that.': THA/TP-PL
 'Hurrah!"': KPA/HUR/RA/SKHRAPL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'must': PHUFT
 'not': TPHOT
 'shout': SHOUT
@@ -461,7 +461,7 @@ The Mail-Coach Passengers
 'retorted': RE/TORT/-D
 'the': -T
 'man;': PHAPB/STPH*FPLT
-'"I'm': KR-GS/EU/AE/PH*
+'"I'm': KW-GS/AOEUPL
 'Prince': PR*EUPBS
 'Carnival,': KPA/KARPB/SRAL/KW-BG
 'travelling': TRAFL/HREUPBG
@@ -614,7 +614,7 @@ The Mail-Coach Passengers
 'the': -T
 'more': PHOR
 'holidays.': HOL/TKAEUS/TP-PL
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'the': -T
 'world': WORLD
 'were': WR
@@ -1010,7 +1010,7 @@ The Mail-Coach Passengers
 'bread,"': PWRAED/KW-BG/KR-GS
 'said': SED
 'she;': SHE/STPH*FPLT
-'"it': KR-GS/T
+'"it': KW-GS/T
 'is': S
 'written': WREUPB
 'in': TPH
@@ -1375,7 +1375,7 @@ The Mail-Coach Passengers
 'cherish,"': KHER/EURB/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'it': T
 'may': PHAE
 'grow': TKPWROE
@@ -1503,7 +1503,7 @@ The Mail-Coach Passengers
 ''Star': AE/KPA/STAR
 'of': -F
 'Bethlehem.'"': PW*ET/HREPL/TP-PL/AE/KR-GS
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'now': TPHOU
 'the': -T
 'coach': KOEFP
@@ -1513,7 +1513,7 @@ The Mail-Coach Passengers
 'said': SED
 'the': -T
 'sentry;': SEPBT/REU/STPH*FPLT
-'"we': KR-GS/WE
+'"we': KW-GS/WE
 'have': SR
 'the': -T
 'whole': WHOEL

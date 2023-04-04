@@ -95,14 +95,14 @@ The Storks
 'carved': KAFRBD
 'in': TPH
 'wood.': WAOD/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'must': PHUFT
 'look': HRAOBG
 'very': SRE
 'grand,"': TKPWRAPBD/KW-BG/KR-GS
 'thought': THAUT
 'he,': HE/KW-BG
-'"for': KR-GS/TPOR
+'"for': KW-GS/TPOR
 'my': PHEU
 'wife': WAOEUF
 'to': TO
@@ -277,7 +277,7 @@ The Storks
 'said': SED
 'the': -T
 'mother.': PHOER/TP-PL
-'"They': KR-GS/KPA/THE
+'"They': KW-GS/KPA*/THE
 'can': K
 'do': TKO
 'no': TPHO
@@ -341,7 +341,7 @@ The Storks
 '"See,"': KR-GS/KPA/SAOE/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'quiet': KWAO*EUT
 'your': KWROUR
 'father': TPAER
@@ -353,7 +353,7 @@ The Storks
 'on': OPB
 'one': WUPB
 'leg."': HREG/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'we': WE
 'are': R
 'very': SRE
@@ -390,14 +390,14 @@ The Storks
 'the': -T
 'song': SOPBG
 'again—': TKPWEPB/EPL/TKA*RB
-'"They': KR-GS/KPA/THE
+'"They': KW-GS/KPA*/THE
 'will': HR
 'hang': HAPBG
 'one,': WUPB/KW-BG
 'And': AFPBD
 'roast': ROEFT
 'another."': TPHOER/TP-PL/KR-GS
-'"Shall': KR-GS/KPA/SHAL
+'"Shall': KW-GS/KPA*/SHAL
 'we': WE
 'be': -B
 'hanged': HAPBG/-D
@@ -407,13 +407,13 @@ The Storks
 'the': -T
 'young': KWRUPBG
 'storks.': STORBG/-S/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'certainly': SERPBL
 'not,"': TPHOT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'mother.': PHOER/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'will': HR
 'teach': TAOEFP
 'you': U
@@ -739,7 +739,7 @@ The Storks
 'the': -T
 'young': KWRUPBG
 'storks.': STORBG/-S/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'they': THE
 'will': HR
 'not': TPHOT
@@ -999,7 +999,7 @@ The Storks
 'still': STEUL
 'too': TAO
 'heavy.': HOEUF/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'don't': TKOEPBT
 'want': WAPBT
 'to': TO
@@ -1015,7 +1015,7 @@ The Storks
 'into': TPHAO
 'the': -T
 'nest.': TPHEFT/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'don't': TKOEPBT
 'care': KAEUR
 'about': PW
@@ -1132,7 +1132,7 @@ The Storks
 'stork,': STORBG/KW-BG
 'fly': TPHRAOEU
 'away."': WA*EU/TP-PL/KR-GS
-'"Shall': KR-GS/KPA/SHAL
+'"Shall': KW-GS/KPA*/SHAL
 'we': WE
 'fly': TPHRAOEU
 'down,': TKOUPB/KW-BG
@@ -1252,7 +1252,7 @@ The Storks
 'make': PHAEUBG
 'you': U
 'respected."': R-PTD/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'may': PHAE
 'we': WE
 'not': TPHOT
@@ -1312,7 +1312,7 @@ The Storks
 'apple': A*EPL
 'to': TO
 'eat."': AOET/TP-PL/KR-GS
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'will': HR
 'revenge': RE/SREPBG
 'ourselves,"': O*URSZ/KW-BG/KR-GS
@@ -1466,7 +1466,7 @@ The Storks
 'of': -F
 'their': THAEUR
 'departure.': TKPART/AOUR/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'must': PHUFT
 'see': SAOE
 'first,': TPEUFRT/KW-BG
@@ -1480,7 +1480,7 @@ The Storks
 'review,"': RE/SRAOU/KW-BG/KR-GS
 'said': SED
 'she.': SHE/TP-PL
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'you': U
 'get': TKPWET
 'on': OPB
@@ -1516,7 +1516,7 @@ The Storks
 'wait': WAEUT
 'and': SKP
 'see."': SAOE/TP-PL/KR-GS
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'shall': SHAL
 'see,"': SAOE/KW-BG/KR-GS
 'said': SED
@@ -1656,7 +1656,7 @@ The Storks
 'the': -T
 'mother': PHOER
 'stork.': STORBG/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'thought': THAUT
 'upon': POPB
@@ -1757,7 +1757,7 @@ The Storks
 'of': -F
 'the': -T
 'storks."': STORBG/-S/TP-PL/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'the': -T
 'naughty': TPHAU/TEU
 'boy,': PWOEURBGS
@@ -1794,7 +1794,7 @@ The Storks
 'said': SED
 'the': -T
 'mother.': PHOER/TP-PL
-'"We': KR-GS/KPA/WE
+'"We': KW-GS/KPA*/WE
 'will': HR
 'take': TAEUBG
 'it': T

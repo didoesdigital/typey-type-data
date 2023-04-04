@@ -375,7 +375,7 @@ A Story
 'he': HE
 'asked': SK-D
 'her.': HER/TP-PL
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'the': -T
 'matter': PHAERT
 'with': W
@@ -383,7 +383,7 @@ A Story
 'is,"': S/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'I': EU
 'cannot': SK-PBT
 'collect': KHREBGT
@@ -694,7 +694,7 @@ A Story
 'if': TP
 'to': TO
 'say': SAEU
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'and': SKP
 'put': PUT
 'her': HER
@@ -713,7 +713,7 @@ A Story
 'grave': TKPWRAEUF
 'for': TPOR
 'you?"': U/H-F/KR-GS
-'"Yes,"': KR-GS/KPA/KWRE/KW-BG/KR-GS
+'"Yes,"': KW-GS/KPA*/KWRE/KW-BG/KR-GS
 'was': WAS
 'the': -T
 'answer.': AEPBS/TP-PL
@@ -774,7 +774,7 @@ A Story
 'the': -T
 'dead': TKED
 'woman.': WOPL/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'is': S
 'thus': THUS
 'granted': TKPWRAPBTD
@@ -882,7 +882,7 @@ A Story
 'said': SED
 'the': -T
 'pastor,': PAS/TOR/KW-BG
-'"are': KR-GS/R
+'"are': KW-GS/R
 'living': HREUFG
 'those': THOZ
 'who': WHO
@@ -985,7 +985,7 @@ A Story
 'the': -T
 'dead': TKED
 'woman;': WOPL/STPH*FPLT
-'"do': KR-GS/TKO
+'"do': KW-GS/TKO
 'you': U
 'see': SAOE
 'him?"': HEUPL/H-F/KR-GS
@@ -994,7 +994,7 @@ A Story
 'asked': SK-D
 'the': -T
 'pastor.': PAS/TOR/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'is': S
 'but': PWUT
 'a': AEU
@@ -1106,7 +1106,7 @@ A Story
 'clammy': KHRAPL/PH*EU
 'fingers': TPEURPBGS
 'trembled.': TREPL/-BLD/TP-PL
-'"He': KR-GS/KPA/HE
+'"He': KW-GS/KPA*/HE
 'is': S
 'ill!': EUL/SKHRAPL
 'That': KPA/THA
@@ -1187,7 +1187,7 @@ A Story
 'happens': HAPS
 'every': EF
 'night!"': TPHAOEUT/SKHRAPL/KR-GS
-'"Every': KR-GS/KPA/EF
+'"Every': KW-GS/KPA*/EF
 'night!"': TPHAOEUT/SKHRAPL/KR-GS
 'repeated': RE/PAOETD
 'the': -T
@@ -1478,7 +1478,7 @@ A Story
 'all': AUL
 'his': HEUS
 'pores.': PO*RS/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'are': R
 'killing': KEULG
 'the': -T
@@ -1638,7 +1638,7 @@ A Story
 'procure': PRO/KAOUR
 'for': TPOR
 'her!"': HER/SKHRAPL/KR-GS
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'it': T
 'now!"': TPHOU/SKHRAPL/KR-GS
@@ -1646,7 +1646,7 @@ A Story
 'the': -T
 'dead': TKED
 'woman.': WOPL/TP-PL
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'was': WAS
 'your': KWROUR
 'hard': HARD

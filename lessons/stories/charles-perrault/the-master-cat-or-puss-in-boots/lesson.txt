@@ -75,7 +75,7 @@ The Master Cat or Puss in Boots
 'poor': PAOR
 'a': AEU
 'lot.': HROT/TP-PL
-'"My': KR-GS/KPA/PHEU
+'"My': KW-GS/KPA*/PHEU
 'brothers,"': PWROERS/KW-BG/KR-GS
 'said': SED
 'he,': HE/KW-BG
@@ -417,7 +417,7 @@ The Master Cat or Puss in Boots
 'said': SED
 'to': TO
 'him:': HEUPL/STPH-FPLT
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'brought': PWRAUT
 'you,': U/KW-BG
@@ -464,7 +464,7 @@ The Master Cat or Puss in Boots
 'said': SED
 'the': -T
 'King,': KO*EUPBG/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'I': EU
 'thank': THAPBG
 'him,': HEUPL/KW-BG
@@ -613,7 +613,7 @@ The Master Cat or Puss in Boots
 'to': TO
 'his': HEUS
 'master:': PHAFRT/STPH-FPLT
-'"If': KR-GS/KPA/TP
+'"If': KW-GS/KPA*/TP
 'you': U
 'will': HR
 'follow': TPOL
@@ -938,7 +938,7 @@ The Master Cat or Puss in Boots
 'said': SED
 'to': TO
 'them:': THEPL/STPH-FPLT
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'people,': PAOEPL/KW-BG
 'you': U
 'who': WHO
@@ -1019,7 +1019,7 @@ The Master Cat or Puss in Boots
 'Marquis': PHAR/KWEUS
 'of': -F
 'Carabas.': KR*P/A*/R*/A*/PW*/A*/S*/TP-PL
-'"You': KR-GS/KPA/U
+'"You': KW-GS/KPA*/U
 'see,': SAOERBGS
 'sir,"': SEUR/KW-BG/KR-GS
 'said': SED
@@ -1055,7 +1055,7 @@ The Master Cat or Puss in Boots
 'said': SED
 'to': TO
 'them:': THEPL/STPH-FPLT
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'people,': PAOEPL/KW-BG
 'you': U
 'who': WHO
@@ -1249,14 +1249,14 @@ The Master Cat or Puss in Boots
 'him': HEUPL
 'sit': SEUT
 'down.': TKOUPB/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'been': PW-PB
 'assured,"': A/SHURD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Cat,': KPA/KAT/KW-BG
-'"that': KR-GS/THA
+'"that': KW-GS/THA
 'you': U
 'have': SR
 'the': -T
@@ -1299,7 +1299,7 @@ The Master Cat or Puss in Boots
 'Ogre': KPA/OERG
 'very': SRE
 'briskly,': PWREUS/KHREU/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'to': TO
 'convince': KWEUPBS
 'you,': U/KW-BG
@@ -1377,7 +1377,7 @@ The Master Cat or Puss in Boots
 'very': SRE
 'much': PHUFP
 'frightened.': TPRAOEUFPBD/TP-PL
-'"I': KR-GS/EU
+'"I': KW-GS/EU
 'have': SR
 'been': PW-PB
 'moreover': PHROEFR
@@ -1532,7 +1532,7 @@ The Master Cat or Puss in Boots
 'cried': KRAOEUD
 'the': -T
 'King,': KO*EUPBG/KW-BG
-'"and': KR-GS/SKP
+'"and': KW-GS/SKP
 'does': TKOS
 'this': TH
 'castle': KAFL
@@ -1662,7 +1662,7 @@ The Master Cat or Puss in Boots
 'or': OR
 'six': SEUBGS
 'glasses:': TKPWHRAFS/STPH-FPLT
-'"It': KR-GS/KPA/T
+'"It': KW-GS/KPA*/T
 'will': HR
 'be': -B
 'owing': OE/-G

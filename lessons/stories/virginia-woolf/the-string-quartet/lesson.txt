@@ -161,7 +161,7 @@ The String Quartet
 'you': U
 'living': HREUFG
 'now?"': TPHOU/H-F/KR-GS
-'"Well,': KR-GS/KPA/WEL/KW-BG
+'"Well,': KW-GS/KPA*/WEL/KW-BG
 'the': -T
 'late': HRAEUT
 'afternoon': AFPB
@@ -176,7 +176,7 @@ The String Quartet
 'asking': SK-G
 'too': TAO
 'much——"': PHUFP/EPL/TKA*RB/EPL/TKA*RB/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'I': EU
 'knew': TPHAOU
 'you': U
@@ -316,7 +316,7 @@ The String Quartet
 'King': KO*EUPBG
 'looked': HRAOBGD
 'cold."': KOELD/TP-PL/KR-GS
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'no,': TPHORBGS
 'no.': TPHO/TP-PL
 'But': KPA/PWUT
@@ -329,7 +329,7 @@ The String Quartet
 'house': HOUS
 'at': AT
 'Malmesbury."': xxx Malmesbury/TP-PL/KR-GS
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'lucky': HROEUBG
 'to': TO
 'find': TPAOEUPBD
@@ -688,7 +688,7 @@ The String Quartet
 'Mozart,': PHOZ/ART/KW-BG
 'of': -F
 'course——"': KORS/EPL/TKA*RB/EPL/TKA*RB/KR-GS
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'the': -T
 'tune,': TAOUPB/KW-BG
 'like': HRAOEUBG
@@ -938,7 +938,7 @@ The String Quartet
 'won't': WOEPBT
 'reach': RAOEFP
 'us.': US/TP-PL
-'"No,': KR-GS/KPA/TPHO/KW-BG
+'"No,': KW-GS/KPA*/TPHO/KW-BG
 'no.': TPHO/TP-PL
 'I': EU
 'noticed': TPH-TS/-D
@@ -957,7 +957,7 @@ The String Quartet
 'late,': HRAEUT/KW-BG
 'you': U
 'say?"': SAEU/H-F/KR-GS
-'"There's': KR-GS/KPA/THR/AES
+'"There's': KW-GS/KPA*/THR-S
 'old': OLD
 'Mrs.': PHR-S
 'Munro,': xxx Munro/KW-BG
@@ -989,7 +989,7 @@ The String Quartet
 'the': -T
 'red': RED
 'omnibus.': OPL/TPHEU/PWUS/TP-PL
-'"How': KR-GS/KPA/HOU
+'"How': KW-GS/KPA*/HOU
 'lovely!': HROFL/SKHRAPL
 'How': KPA/HOU
 'well': WEL
@@ -1104,7 +1104,7 @@ The String Quartet
 'into': TPHAO
 'mid': PHEUD/PHEUD
 'stream.': STRAOEPL/TP-PL
-'"But': KR-GS/KPA/PWUT
+'"But': KW-GS/KPA*/PWUT
 'to': TO
 'return.': RURPB/TP-PL
 'He': KPA/HE
@@ -1441,7 +1441,7 @@ The String Quartet
 'A': KPA/AEU
 'starry': STAR/REU
 'night.': TPHAOEUT/TP-PL
-'"Good': KR-GS/KPA/TKPWAOD
+'"Good': KW-GS/KPA*/TKPWAOD
 'night,': TPHAOEUT/KW-BG
 'good': TKPWAOD
 'night.': TPHAOEUT/TP-PL
