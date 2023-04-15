@@ -40,7 +40,7 @@ Clever Hans
 'that': THA
 'is': S
 'good?'': TKPWAOD/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'bring': PWREU
 'nothing,': TPHOG/KW-BG
 'I': EU
@@ -117,7 +117,7 @@ Clever Hans
 'in': TPH
 'the': -T
 'hay-cart.'': HA*EU/H-PB/KART/TP-PL/AE
-''That': AE/KPA*/THA
+''That': A*E/KPA*/THA
 'was': WAS
 'ill': EUL
 'done,': TKOPB/KW-BG
@@ -172,7 +172,7 @@ Clever Hans
 'that': THA
 'is': S
 'good?'': TKPWAOD/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'bring': PWREU
 'nothing.': TPHOG/TP-PL
 'I': EU
@@ -300,7 +300,7 @@ Clever Hans
 'do': TKO
 'you': U
 'bring?'': PWREU/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'bring': PWREU
 'nothing,': TPHOG/KW-BG
 'I': EU
@@ -382,7 +382,7 @@ Clever Hans
 'in': TPH
 'my': PHEU
 'pocket.'': POBGT/TP-PL/AE
-''That': AE/KPA*/THA
+''That': A*E/KPA*/THA
 'was': WAS
 'ill': EUL
 'done,': TKOPB/KW-BG
@@ -437,7 +437,7 @@ Clever Hans
 'do': TKO
 'you': U
 'bring?'': PWREU/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'bring': PWREU
 'nothing,': TPHOG/KW-BG
 'I': EU
@@ -517,7 +517,7 @@ Clever Hans
 'you': U
 'take': TAEUBG
 'her?'': HER/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'took': TAOBG
 'her': HER
 'nothing,': TPHOG/KW-BG
@@ -541,7 +541,7 @@ Clever Hans
 'the': -T
 'bacon,': PWAEU/KOPB/KW-BG
 'Hans?'': HAPBS/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'tied': TAO*EUD
 'it': T
 'to': TO
@@ -553,7 +553,7 @@ Clever Hans
 'dogs': TKOGS
 'took': TAOBG
 'it.'': T/TP-PL/AE
-''That': AE/KPA*/THA
+''That': A*E/KPA*/THA
 'was': WAS
 'ill': EUL
 'done,': TKOPB/KW-BG
@@ -606,7 +606,7 @@ Clever Hans
 'do': TKO
 'you': U
 'bring?'': PWREU/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'bring': PWREU
 'nothing,': TPHOG/KW-BG
 'but': PWUT
@@ -656,7 +656,7 @@ Clever Hans
 'you': U
 'take': TAEUBG
 'her?'': HER/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'took': TAOBG
 'nothing,': TPHOG/KW-BG
 'but': PWUT
@@ -677,7 +677,7 @@ Clever Hans
 'the': -T
 'calf,': KAF/KW-BG
 'Hans?'': HAPBS/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'set': SET
 'it': T
 'on': OPB
@@ -688,7 +688,7 @@ Clever Hans
 'kicked': KEUBGD
 'my': PHEU
 'face.'': TPAEUS/TP-PL/AE
-''That': AE/KPA*/THA
+''That': A*E/KPA*/THA
 'was': WAS
 'ill': EUL
 'done,': TKOPB/KW-BG
@@ -744,7 +744,7 @@ Clever Hans
 'do': TKO
 'you': U
 'bring?'': PWREU/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'bring': PWREU
 'nothing,': TPHOG/KW-BG
 'but': PWUT
@@ -756,7 +756,7 @@ Clever Hans
 'says': SEZ
 'to': TO
 'Hans:': HAPBS/STPH-FPLT
-''I': AE/EU
+''I': A*E/EU
 'will': HR
 'go': TKPW
 'with': W
@@ -801,7 +801,7 @@ Clever Hans
 'you': U
 'take': TAEUBG
 'her?'': HER/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'took': TAOBG
 'her': HER
 'nothing.'': TPHOG/TP-PL/AE
@@ -823,7 +823,7 @@ Clever Hans
 'you': U
 'left': HREFT
 'Gretel?'': TKPWRET/EL/H-F/AE
-''I': AE/EU
+''I': A*E/EU
 'led': HRED
 'her': HER
 'by': PWEU
@@ -840,7 +840,7 @@ Clever Hans
 'grass': TKPWRAS
 'for': TPOR
 'her.'': HER/TP-PL/AE
-''That': AE/KPA*/THA
+''That': A*E/KPA*/THA
 'was': WAS
 'ill': EUL
 'done,': TKOPB/KW-BG
