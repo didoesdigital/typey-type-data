@@ -489,7 +489,7 @@ The Nightingale
 'which': WEU
 'means': PHAOEPBS
 'nothing.': TPHOG/TP-PL
-'"There': KR-GS/KPA/THR
+'"There': KW-GS/KPA*/THR
 'is': S
 'a': AEU
 'very': SRE
@@ -632,7 +632,7 @@ The Nightingale
 'written': WREUPB
 'the': -T
 'book.': PWAOBG/TP-PL
-'"Your': KR-GS/KPA/KWROUR
+'"Your': KW-GS/KPA*/KWROUR
 'imperial': EUPL/PAOERL
 'majesty,"': PHAPBLG/STEU/KW-BG/KR-GS
 'said': SED
@@ -1052,7 +1052,7 @@ The Nightingale
 'on': OPB
 'a': AEU
 'bough.': PWO*U/TP-PL
-'"Is': KR-GS/KPA/S
+'"Is': KW-GS/KPA*/S
 'it': T
 'possible?"': POB/H-F/KR-GS
 'said': SED
@@ -1746,7 +1746,7 @@ The Nightingale
 'Emperor': KPA/EPL/ROR
 'of': -F
 'Japan's."': SKWRA/PAPB/AE/S*/TP-PL/KR-GS
-'"This': KR-GS/KPA/TH
+'"This': KW-GS/KPA*/TH
 'is': S
 'very': SRE
 'beautiful,"': PWAOUFL/KW-BG/KR-GS
@@ -2070,7 +2070,7 @@ The Nightingale
 'follows': TPOLS
 'upon': POPB
 'another."': TPHOER/TP-PL/KR-GS
-'"This': KR-GS/KPA/TH
+'"This': KW-GS/KPA*/TH
 'is': S
 'exactly': ELG
 'what': WHA
@@ -2820,11 +2820,11 @@ The Nightingale
 'at': AT
 'his': HEUS
 'heart.': HART/TP-PL
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'you': U
 'remember': RER
 'this?"': TH/H-F/KR-GS
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'you': U
 'recollect': REBGT
 'that?"': THA/H-F/KR-GS
@@ -3310,7 +3310,7 @@ The Nightingale
 'a': AEU
 'thousand': THOUD
 'pieces."': PAOEFS/TP-PL/KR-GS
-'"No;': KR-GS/KPA/TPHO/STPH*FPLT
+'"No;': KW-GS/KPA*/TPHO/STPH*FPLT
 'do': TKO
 'not': TPHOT
 'do': TKO

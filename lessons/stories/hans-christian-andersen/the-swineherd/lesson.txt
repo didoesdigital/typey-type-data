@@ -41,7 +41,7 @@ The Swineherd
 'the': -T
 'emperor's': EPL/ROR/AES
 'daughter:': TKAUR/STPH-FPLT
-'"Will': KR-GS/W*EUL
+'"Will': KW-GS/W*EUL
 'you': U
 'marry': PHAER
 'me?"': PHE/H-F/KR-GS
@@ -455,7 +455,7 @@ The Swineherd
 'at': AT
 'the': -T
 'court?"': KORT/H-F/KR-GS
-'"There': KR-GS/KPA/THR
+'"There': KW-GS/KPA*/THR
 'are': R
 'so': SO
 'many,"': PHAEPB/KW-BG/KR-GS
@@ -945,7 +945,7 @@ The Swineherd
 'oh,': OERBGS
 'how': HOU
 'interesting!"': TR-G/SKHRAPL/KR-GS
-'"Very': KR-GS/KPA/SRE
+'"Very': KW-GS/KPA*/SRE
 'interesting,': TR-G/KW-BG
 'indeed,"': TPHAOEPBD/KW-BG/KR-GS
 'said': SED
@@ -1089,7 +1089,7 @@ The Swineherd
 'soon': SAOPB
 'she': SHE
 'stopped.': STOPD/TP-PL
-'"One': KR-GS/KPA/WUPB
+'"One': KW-GS/KPA*/WUPB
 'must': PHUFT
 'encourage': EPB/KORPBLG
 'art,"': ART/KW-BG/KR-GS

@@ -387,7 +387,7 @@ The Neighbouring Families
 'their': THAEUR
 'own': OEPB
 'property.': PROT/TP-PL
-'"Are': KR-GS/KPA/R
+'"Are': KW-GS/KPA*/R
 'those': THOZ
 'the': -T
 'duck's': TKUBG/AES
@@ -848,7 +848,7 @@ The Neighbouring Families
 'nose.': TPHOES/TP-PL
 'Now': KPA/TPHOU
 'you': U
-'know."': TPHOE/TP-PL/KR-GS
+'know."': TPHOEFPLT/KR-GS
 'In': KPA/TPH
 'the': -T
 'evening,': AOEPBG/KW-BG
@@ -948,7 +948,7 @@ The Neighbouring Families
 'the': -T
 'young': KWRUPBG
 'sparrows.': SPAEUR/ROE/-S/TP-PL
-'"There': KR-GS/KPA/THR
+'"There': KW-GS/KPA*/THR
 'was': WAS
 'only': OEPBL
 'one': WUPB
@@ -1208,7 +1208,7 @@ The Neighbouring Families
 'and': SKP
 'upon': POPB
 'them.': THEPL/TP-PL
-'"This': KR-GS/KPA/TH
+'"This': KW-GS/KPA*/TH
 'sight': SAOEUT
 'is': S
 'really': R-L
@@ -2516,7 +2516,7 @@ The Neighbouring Families
 'views': SRAOUS
 'and': SKP
 'opinions.': P-PBS/TP-PL
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'you': U
 'see': SAOE
 'that': THA
@@ -2527,7 +2527,7 @@ The Neighbouring Families
 'to': TO
 'the': -T
 'other.': OER/TP-PL
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'you': U
 'see': SAOE
 'how': HOU
@@ -2706,7 +2706,7 @@ The Neighbouring Families
 'the': -T
 'room,': RAOPL/KW-BG
 'exclaiming,': SKHRAEUPL/-G/KW-BG
-'"All': KR-GS/KPA/AUL
+'"All': KW-GS/KPA*/AUL
 'or': OR
 'nothing!': TPHOG/SKHRAPL
 'It': KPA/T
@@ -2751,7 +2751,7 @@ The Neighbouring Families
 'the': -T
 'overhanging': AUFR/HAPBG/-G
 'chimney.': KHEUPL/TPHEU/TP-PL
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'tell': TEL
 'me': PHE
 'what': WHA
@@ -3250,7 +3250,7 @@ The Neighbouring Families
 'of': -F
 'the': -T
 'family.': TPAEPL/TP-PL
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'we': WE
 'meet': PHAOET
 'here?': HAOER/H-F
@@ -3496,7 +3496,7 @@ The Neighbouring Families
 'to': TO
 'distant': STKAPBT
 'lands.': HRAPBDZ/TP-PL
-'"Have': KR-GS/KPA/SR
+'"Have': KW-GS/KPA*/SR
 'you': U
 'obtained': OB/TAEUPBD
 'an': APB

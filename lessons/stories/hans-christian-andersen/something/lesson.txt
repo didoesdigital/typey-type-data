@@ -55,7 +55,7 @@ Something
 'really': R-L
 'doing': TK*G
 'something."': S-G/TP-PL/KR-GS
-'"Your': KR-GS/KPA/KWROUR
+'"Your': KW-GS/KPA*/KWROUR
 ''something'': AE/S-G/AE
 'is': S
 'not': TPHOT
@@ -556,7 +556,7 @@ Something
 'do': TKO
 'as': AS
 'you': U
-'like,': HRAOEUBG/KW-BG
+'like,': SKWRAURBGS/HRAO*EUBG
 'I': EU
 'shall': SHAL
 'not': TPHOT
@@ -620,7 +620,7 @@ Something
 'this': TH
 'fifth': TP*EUT
 'brother,': PWROER/KW-BG
-'"There': KR-GS/KPA/THR
+'"There': KW-GS/KPA*/THR
 'is': S
 'something': S-G
 'very': SRE
@@ -2604,7 +2604,7 @@ Something
 'him.': HEUPL/TP-PL
 'She': KPA/SHE
 'said,': SED/KW-BG
-'"His': KR-GS/KPA/HEUS
+'"His': KW-GS/KPA*/HEUS
 'brother': PWROER
 'made': PHAED
 'all': AUL

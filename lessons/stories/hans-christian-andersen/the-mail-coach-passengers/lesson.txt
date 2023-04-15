@@ -199,7 +199,7 @@ The Mail-Coach Passengers
 'in': TPH
 'the': -T
 'town.': TOUPB/TP-PL
-'"Who': KR-GS/KPA/WHO
+'"Who': KW-GS/KPA*/WHO
 'were': WR
 'they?': THE/H-F
 'what': WHA
@@ -232,7 +232,7 @@ The Mail-Coach Passengers
 'had': H
 'struck': STRUBG
 'twelve.': TWEFL/TP-PL
-'"Your': KR-GS/KPA/KWROUR
+'"Your': KW-GS/KPA*/KWROUR
 'name': TPHAEUPL
 'and': SKP
 'profession?"': PREFGS/H-F/KR-GS
@@ -248,7 +248,7 @@ The Mail-Coach Passengers
 'from': TPR
 'the': -T
 'carriage.': KAEURPBLG/TP-PL
-'"See': KR-GS/KPA/SAOE
+'"See': KW-GS/KPA*/SAOE
 'for': TPOR
 'yourself': KWRO*URS
 'in': TPH
@@ -750,7 +750,7 @@ The Mail-Coach Passengers
 'the': -T
 'sentry': SEPBT/REU
 'sneeze.': STPHAOEZ/TP-PL
-'"Your': KR-GS/KPA/KWROUR
+'"Your': KW-GS/KPA*/KWROUR
 'health,': H*ELT/KW-BG
 'and': SKP
 'God': TKPWO*D
@@ -1366,7 +1366,7 @@ The Mail-Coach Passengers
 'fir-tree': TPEUR/H-PB/TRAOE
 'was': WAS
 'growing.': TKPWROEG/TP-PL
-'"This': KR-GS/KPA/TH
+'"This': KW-GS/KPA*/TH
 'tree': TRAOE
 'I': EU
 'shall': SHAL

@@ -131,7 +131,7 @@
 "THEU": "think",
 "THEZ": "these",
 "THEUPBGS/TP-PL/KR-GS": "things.\"",
-"KR-GS/KPA/THR": "\"There",
+"KW-GS/KPA*/THR": "\"There",
 "RAOEUT/KW-BG/KR-GS": "right,\"",
 "KW-GS/TPOR": "\"for",
 "AT": "at",
@@ -413,6 +413,6 @@
 "PHAOEUPBD": "mind",
 "KPA/TKPWRAET": "Great",
 "PHAOEUPBDZ/TP-PL": "minds.",
-"KR-GS/KPA/TO": "\"To",
+"KW-GS/KPA*/TO": "\"To",
 "HO*RPB/TP-PL/KR-GS": "honor.\""
 }

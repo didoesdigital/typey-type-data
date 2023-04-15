@@ -528,7 +528,7 @@ The Old House
 'the': -T
 'old': OLD
 'man,': PHAPB/KW-BG
-'"Will': KR-GS/W*EUL
+'"Will': KW-GS/W*EUL
 'you': U
 'please': PHRES
 'give': TKPWEUF
@@ -1067,7 +1067,7 @@ The Old House
 'get': TKPWET
 'that': THA
 'picture?"': P*EUFP/H-F/KR-GS
-'"From': KR-GS/KPA/TPR
+'"From': KW-GS/KPA*/TPR
 'the': -T
 'shop': SHOP
 'opposite,"': OP/SEUT/KW-BG/KR-GS
@@ -1293,7 +1293,7 @@ The Old House
 'they': THE
 'can': K
 'say,': SAEU/KW-BG
-'"This': KR-GS/KPA/TH
+'"This': KW-GS/KPA*/TH
 'is': S
 'a': AEU
 'pair."': PAEUR/TP-PL/KR-GS

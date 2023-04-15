@@ -288,7 +288,7 @@ Two Hanged Women
 'came': KAEUPL
 'the': -T
 'question:': KWE/STPH-FPLT
-'"Was': KR-GS/KPA/WAS
+'"Was': KW-GS/KPA*/WAS
 'she': SHE
 'angry': APBG/REU
 'last': HRAFT
@@ -499,7 +499,7 @@ Two Hanged Women
 'him!"': HEUPL/SKHRAPL/KR-GS
 '"Fred?': KR-GS/TPRED/H-F
 'Rats!"': KPA/RATS/SKHRAPL/KR-GS
-'"No': KR-GS/KPA/TPHO
+'"No': KW-GS/KPA*/TPHO
 'it': T
 'isn't': S-PBT
 '. . .': HR-PZ
@@ -520,7 +520,7 @@ Two Hanged Women
 'know': TPHOE
 'what': WHA
 'I': EU
-'know."': TPHOE/TP-PL/KR-GS
+'know."': TPHOEFPLT/KR-GS
 '"Or': KW-GS/KPA*/OR
 'imagine': PHAPBLG
 'you': U
@@ -810,7 +810,7 @@ Two Hanged Women
 'you': U
 'really': R-L
 'feel."': TPAOEL/TP-PL/KR-GS
-'"She': KR-GS/KPA/SHE
+'"She': KW-GS/KPA*/SHE
 'hasn't!': HAEPBT/SKHRAPL
 'Mother's': KPA/PHOER/AES
 'never': TPHEFR
@@ -1438,7 +1438,7 @@ Two Hanged Women
 'do': TKO
 'as': AS
 'I': EU
-'like,': HRAOEUBG/KW-BG
+'like,': SKWRAURBGS/HRAO*EUBG
 'and': SKP
 'be': -B
 'left': HREFT

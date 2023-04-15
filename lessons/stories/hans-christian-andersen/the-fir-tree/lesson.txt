@@ -94,7 +94,7 @@ The Fir Tree
 'fir-tree,': TPEUR/H-PB/TRAOE/KW-BG
 'and': SKP
 'say,': SAEU/KW-BG
-'"Is': KR-GS/KPA/S
+'"Is': KW-GS/KPA*/S
 'it': T
 'not': TPHOT
 'a': AEU
@@ -417,7 +417,7 @@ The Fir Tree
 'came,': KAEUPL/KW-BG
 'it': T
 'asked,': SK-D/KW-BG
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'you': U
 'know': TPHOE
 'where': W-R
@@ -1253,7 +1253,7 @@ The Fir Tree
 'was': WAS
 'very': SRE
 'beautiful!': PWAOUFL/SKHRAPL
-'"This': KR-GS/KPA/TH
+'"This': KW-GS/KPA*/TH
 'evening,"': AOEPBG/KW-BG/KR-GS
 'they': THE
 'all': AUL
@@ -2217,7 +2217,7 @@ The Fir Tree
 'full': TPUL
 'of': -F
 'curiosity.': KAOURS/TEU/TP-PL
-'"Have': KR-GS/KPA/SR
+'"Have': KW-GS/KPA*/SR
 'you': U
 'seen': SAOEPB
 'the': -T
@@ -2512,7 +2512,7 @@ The Fir Tree
 'real': RAEL
 'beautiful': PWAOUFL
 'princess.': PREUPB/SES/TP-PL
-'"Who': KR-GS/KPA/WHO
+'"Who': KW-GS/KPA*/WHO
 'is': S
 'Humpty': KPA/H*UPLT/KWREU
 'Dumpty?"': KPA/TK*UPLT/KWREU/H-F/KR-GS
@@ -2601,7 +2601,7 @@ The Fir Tree
 'less': HRES
 'of': -F
 'it.': T/TP-PL
-'"Do': KR-GS/KPA/TKO
+'"Do': KW-GS/KPA*/TKO
 'you': U
 'know': TPHOE
 'only': OEPBL
@@ -2610,7 +2610,7 @@ The Fir Tree
 'asked': SK-D
 'the': -T
 'rats.': RATS/TP-PL
-'"Only': KR-GS/KPA/OEPBL
+'"Only': KW-GS/KPA*/OEPBL
 'one,"': WUPB/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
