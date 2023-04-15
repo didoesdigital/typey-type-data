@@ -60,7 +60,7 @@ Kew Gardens
 'dust': TKUFT
 'and': SKP
 'slightly': SHRAOEULT
-'clubbed': KHRUB/-D
+'clubbed': KR*/HR*/*U/PW*/PW*/-D
 'at': AT
 'the': -T
 'end.': EPBD/TP-PL
@@ -241,7 +241,7 @@ Kew Gardens
 'who': WHO
 'walk': WAUBG
 'in': TPH
-'Kew': xxx Kew
+'Kew': K*P/*E/W*
 'Gardens': KPA/TKPWARD/-PBS
 'in': TPH
 'July.': SKWRUL/TP-PL
@@ -341,7 +341,7 @@ Kew Gardens
 'with': W
 'his': HEUS
 'thoughts.': THAUTS/TP-PL
-'"Fifteen': KR-GS/KPA/TPEUF/TAOEPB
+'"Fifteen': KW-GS/KPA*/TPEUF/TAOEPB
 'years': KWRAOERS
 'ago': AG
 'I': EU
@@ -474,7 +474,7 @@ Kew Gardens
 'she': SHE
 'would': WO
 'say': SAEU
-'"Yes"': KR-GS/KPA/KWRE/KR-GS
+'"Yes"': KW-GS/KPA*/KWRE/KR-GS
 'at': AT
 'once.': WUPBS/TP-PL
 'But': KPA/PWUT
@@ -502,7 +502,7 @@ Kew Gardens
 'Eleanor': EL/TPHOR
 'and': SKP
 'the': -T
-'children—Tell': KHEURPB/EPL/TKA*RB/KPA/TEL
+'children—Tell': KHEURPB/EPL/TKA*RB/KPA*/TEL
 'me,': PHE/KW-BG
 'Eleanor.': EL/TPHOR/TP-PL
 'D'you': TK*P/AE/U
@@ -516,7 +516,7 @@ Kew Gardens
 'you': U
 'ask,': SK/KW-BG
 'Simon?"': SAOEUPL/O*PB/H-F/KR-GS
-'"Because': KR-GS/KPA/PWAU
+'"Because': KW-GS/KPA*/PWAU
 'I've': AOEUF
 'been': PW-PB
 'thinking': THEUG
@@ -589,7 +589,7 @@ Kew Gardens
 'under': TPH-PB
 'the': -T
 'trees,': TRAOES/KW-BG
-'...': TP-PL/TP-PL/TP-PL
+'...': HR-PS
 'one's': W*UPBS
 'happiness,': HAEP/-PBS/KW-BG
 'one's': W*UPBS
@@ -715,7 +715,7 @@ Kew Gardens
 'on': OPB
 'past': PAFT
 'the': -T
-'flower-bed,': TPHRO*UR/H-PB/PWED/KW-BG
+'flower-bed,': TPHRO*UR/PW*ED/KW-BG
 'now': TPHOU
 'walking': WAUG
 'four': TPOUR
@@ -840,7 +840,7 @@ Kew Gardens
 'second': SEBGD
 'with': W
 'its': EUTS
-'antennæ': xxx antennæ
+'antennæ': A*/TPH*/T*/*E/TPH*/TPH*/xxx
 'trembling': TREPL/-BLG
 'as': AS
 'if': TP
@@ -868,7 +868,7 @@ Kew Gardens
 'the': -T
 'hollows,': HOL/OE/-S/KW-BG
 'flat,': TPHRAT/KW-BG
-'blade-like': PWHRAEUD/SKWRAOEUBG
+'blade-like': PWHRAEUD/SKWRAO*EUBG
 'trees': TRAOES
 'that': THA
 'waved': WAFD
@@ -1095,14 +1095,14 @@ Kew Gardens
 'experiences': SPAOEFRPBS
 'in': TPH
 'Heaven.': KPA/HEFPB/TP-PL
-'"Heaven': KR-GS/KPA/HEFPB
+'"Heaven': KW-GS/KPA*/HEFPB
 'was': WAS
 'known': TPHOEPB
 'to': TO
 'the': -T
 'ancients': AEURBT/-S
 'as': AS
-'Thessaly,': xxx Thessaly/KW-BG
+'Thessaly,': T*P/H*/*ES/KWRA/HREU/KW-BG
 'William,': WOEUPL/KW-BG
 'and': SKP
 'now,': TPHOURBGS
@@ -1433,7 +1433,7 @@ Kew Gardens
 'especially': EPS
 'in': TPH
 'the': -T
-'well-to-do;': WEL/H-PB/TO/H-PB/TKO/STPH*FPLT
+'well-to-do;': W*EL/TO/H-PB/TKO/STPH*FPLT
 'but': PWUT
 'they': THE
 'were': WR
@@ -1483,10 +1483,10 @@ Kew Gardens
 'very': SRE
 'complicated': PHREUBGD
 'dialogue:': TKHROG/STPH-FPLT
-'"Nell,': KR-GS/xxx Nell/KW-BG
+'"Nell,': KW-GS/TPH*P/*E/HR*/HR*/KW-BG
 'Bert,': PWERT/KW-BG
 'Lot,': KPA/HROT/KW-BG
-'Cess,': xxx Cess/KW-BG
+'Cess,': KR*P/*ES/KW-BG
 'Phil,': TP*EUL/KW-BG
 'Pa,': PA/KW-BG
 'he': HE
@@ -1556,7 +1556,7 @@ Kew Gardens
 'sees': SAO*ES
 'a': AEU
 'brass': PWRAS
-'candlestick': xxx candlestick
+'candlestick': KR*/A*/TPH*/TK*/HR*/EFT/EUBG/*BG
 'reflecting': RAOE/TPHREBGT/-G
 'the': -T
 'light': HRAOEUT
@@ -1575,7 +1575,7 @@ Kew Gardens
 'seeing': SAOEG
 'the': -T
 'brass': PWRAS
-'candlestick': xxx candlestick
+'candlestick': KR*/A*/TPH*/TK*/HR*/EFT/EUBG/*BG
 'again,': STKPWERPBGS
 'finally': TPHRAOEUPBL
 'starts': STARTS
@@ -1585,7 +1585,7 @@ Kew Gardens
 'stares': STAERS
 'at': AT
 'the': -T
-'candlestick': xxx candlestick
+'candlestick': KR*/A*/TPH*/TK*/HR*/EFT/EUBG/*BG
 'with': W
 'all': AUL
 'his': HEUS
@@ -1836,13 +1836,13 @@ Kew Gardens
 'in': TPH
 'the': -T
 'sun.': SUPB/TP-PL
-'"Lucky': KR-GS/KPA/HROEUBG
+'"Lucky': KW-GS/KPA*/HROEUBG
 'it': T
 'isn't': S-PBT
 'Friday,"': TPREU/KW-BG/KR-GS
 'he': HE
 'observed.': OEBD/TP-PL
-'"Why?': KR-GS/KPA/KWR/H-F
+'"Why?': KW-GS/KPA*/KWR/H-F
 'D'you': TK*P/AE/U
 'believe': PWHREF
 'in': TPH
@@ -1862,13 +1862,13 @@ Kew Gardens
 'worth': WO*RT
 'sixpence?"': S*/*EU/KP*/P*/*E/TPH*/KR*/*E/H-F/KR-GS
 '"What's': KW-GS/KPA*/WHATS
-''it'—what': AE/T/AE/EPL/TKA*RB/WHA
+''it'—what': A*E/T/AE/EPL/TKA*RB/WHA
 'do': TKO
 'you': U
 'mean': PHAOEPB
 'by': PWEU
-''it'?"': AE/T/AE/H-F/KR-GS
-'"O,': KR-GS/O*P/KW-BG
+''it'?"': A*E/T/AE/H-F/KR-GS
+'"O,': KW-GS/O*P/KW-BG
 'anything—I': TPHEUG/EPL/TKA*RB/EU
 'mean—you': PHAOEPB/EPL/TKA*RB/U
 'know': TPHOE
@@ -1962,7 +1962,7 @@ Kew Gardens
 'far': TPAR
 'and': SKP
 'thus': THUS
-'alighting': A/HRAOEUT/-G
+'alighting': A/HRAOEUGT
 'awkwardly': AUBG/WARD/HREU
 'upon': POPB
 'the': -T
@@ -2034,7 +2034,7 @@ Kew Gardens
 'gave': TKPWAEUF
 'you': U
 'at': AT
-'Kew,': xxx Kew/KW-BG
+'Kew,': K*P/*E/W*/KW-BG
 'he': HE
 'felt': TPELT
 'that': THA
@@ -2165,16 +2165,16 @@ Kew Gardens
 'like': HRAOEUBG
 'other': OER
 'people.': PAOEPL/TP-PL
-'"Come': KR-GS/KPA/KOPL
+'"Come': KW-GS/KPA*/KOPL
 'along,': HRAOPBG/KW-BG
-'Trissie;': xxx Trissie/STPH*FPLT
+'Trissie;': T*P/R*/SKWREU/-S/-S/AO*E/STPH*FPLT
 'it's': T-S
 'time': TAOEUPL
 'we': WE
 'had': H
 'our': OUR
 'tea."': TAE/TP-PL/KR-GS
-'"Wherever': KR-GS/KPA/W-FR
+'"Wherever': KW-GS/KPA*/W-FR
 'does': TKOS
 'one': WUPB
 'have': SR
