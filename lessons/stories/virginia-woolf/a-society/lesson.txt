@@ -341,7 +341,7 @@ A Society
 'and': SKP
 'Shelley.': SHEL/HREU/TP-PL
 '"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
-'yes,"': KWRE/KW-BG/KR-GS
+'yes,"': KWRERBGS/KR-GS
 'she': SHE
 'interrupted': EUPBT/RUPTD
 'us.': US/TP-PL
@@ -477,7 +477,7 @@ A Society
 'was': WAS
 'written': WREUPB
 'was': WAS
-'execrable.': *E/KP*/*E/KR*/R*/A*/PW*/HR*/*E/TP-PL
+'execrable.': *E/KP*/*E/KR*/R*/A*/PW*/*L/TP-PL
 '"Poetry!': KW-GS/KPA*/POEURT/SKHRAPL
 'Poetry!"': KPA/POEURT/SKHRAPL/KR-GS
 'we': WE
@@ -580,7 +580,7 @@ A Society
 'of': -F
 'the': -T
 'Lord': HRO*RD
-'Chancellors.': KR*P/H*/A*/TPH*/KR*/*E/HR*/HR*/O*/R*/S*/TP-PL
+'Chancellors.': KPA/KHAPBS/HROR/-S/TP-PL
 'When': KPA/WHEPB
 'she': SHE
 'had': H
@@ -627,7 +627,7 @@ A Society
 'them': THEPL
 'into': TPHAO
 'the': -T
-'world?"': WORLD/H-F/KR-GS
+'world?"': STPWHORLD/KR-GS
 'We': KPA/WE
 'were': WR
 'all': AUL
@@ -652,7 +652,7 @@ A Society
 'me': PHE
 'to': TO
 'read?"': RAED/H-F/KR-GS
-'Clorinda': KR*P/HR*/O*/R*/*EU/TPH*/TK*/A*
+'Clorinda': KR*P/HR*/O*R/SKWREU/*PBD/KWRA
 'was': WAS
 'the': -T
 'first': TPEUFRT
@@ -1036,7 +1036,7 @@ A Society
 'herself': H*ERS
 'as': AS
 'an': APB
-'Æthiopian': xxx/T*/H*/*EU/O*/P*/*EU/A*/TPH*
+'Æthiopian': *URP/A*RB/*T/SKWREU/KWRO/*P/SKWREU/KWRA/*PB
 'Prince': PR*EUPBS
 'and': SKP
 'gone': TKPWOPB
@@ -1217,7 +1217,7 @@ A Society
 'sensibility.': SEPBS/-BLT/TP-PL
 '"Let': KW-GS/KPA*/HRET
 'me': PHE
-'see,"': SAOE/KW-BG/KR-GS
+'see,"': SAOERBGS/KR-GS
 'he': HE
 'cried': KRAOEUD
 'suddenly,': SULD/KW-BG
@@ -1687,7 +1687,7 @@ A Society
 'are': R
 'like': HRAOEUBG
 'when': WHEPB
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'stopped': STOPD
 'her.': HER/TP-PL
 '"What': KW-GS/KPA*/WHA
@@ -1710,7 +1710,7 @@ A Society
 'half,"': HAF/KW-BG/KR-GS
 'she': SHE
 'said.': SED/TP-PL
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'made': PHAED
 'notes': TPHOETS
 'while': WHAOEUL
@@ -1742,7 +1742,7 @@ A Society
 'last': HRAFT
 'week': WAOEBG
 'at': AT
-'Oxbridge,': O*P/KP*/PW*/R*/*EU/TK*/TKPW*/*E/KW-BG
+'Oxbridge,': O*P/KP*/PW*/R*/*EU/TK*/*PBLG/KW-BG
 'disguised': STKPWAOEUFD
 'as': AS
 'a': AEU
@@ -1842,7 +1842,7 @@ A Society
 'and': SKP
 'one': WUPB
 'aged': AEUGD
-'bullfinch—a': PW*/*U/HR*/HR*/TP*/*EU/TPH*/KR*/H*/EPL/TKA*RB/AEU
+'bullfinch—a': PWUL/TP*EUPB/*FP/EPL/TKA*RB/AEU
 'cock.': KOBG/TP-PL
 'I': EU
 'remember,"': RER/KW-BG/KR-GS
@@ -1856,7 +1856,7 @@ A Society
 'who': WHO
 'lived': HREUFD
 'at': AT
-'Dulwich': TK*P/*U/HR*/W*/*EU/KR*/H*
+'Dulwich': TK*P/*U/HR*/W*/SKWREU/*FP
 'and': SKP
 'kept': KEPT
 'cactuses.': KABG/TUS/ES/TP-PL
@@ -1919,7 +1919,7 @@ A Society
 'resumed,': RAOUPLD/KW-BG
 '"when': KW-GS/WHEPB
 'Professor': PRO*EFR
-'Hobkin': H*P/O*/PW*/K*/*EU/TPH*
+'Hobkin': H*P/O*/PW*/*BG/*EUPB
 'was': WAS
 'out,': OUT/KW-BG
 'I': EU
@@ -2000,7 +2000,7 @@ A Society
 'world': WORLD
 'like': HRAOEUBG
 'a': AEU
-'hairpin': H*/A*/*EU/R*/P*/*EU/TPH*
+'hairpin': HAEUR/*P/*EUPB
 'astounded': A/STOUPBD/-D
 'me;': PHE/STPH*FPLT
 'especially': EPS
@@ -2010,7 +2010,7 @@ A Society
 'opened': OEPD
 'and': SKP
 'Professor': PRO*EFR
-'Hobkin': H*P/O*/PW*/K*/*EU/TPH*
+'Hobkin': H*P/O*/PW*/*BG/*EUPB
 'himself': HEUPLS
 'appeared.': A/PAOERD/TP-PL
 'A': KPA/AEU
@@ -2030,7 +2030,7 @@ A Society
 'misunderstood': PHEUS/AOUDZ
 'her.': HER/TP-PL
 '"No,': KW-GS/KPA*/TPHO/KW-BG
-'no,"': TPHO/KW-BG/KR-GS
+'no,"': TPHORBGS/KR-GS
 'she': SHE
 'protested,': PROE/TEFT/-D/KW-BG
 '"he's': KW-GS/HAOES
@@ -2074,7 +2074,7 @@ A Society
 'the': -T
 'point,—did': POEUPBT/KW-BG/EPL/TKA*RB/TK
 'the': -T
-'Oxbridge': O*P/KP*/PW*/R*/*EU/TK*/TKPW*/*E
+'Oxbridge': O*P/KP*/PW*/R*/*EU/TK*/*PBLG
 'professors': PROEFRS
 'help': HEP
 'to': TO
@@ -2118,10 +2118,10 @@ A Society
 'mistake.': SPHAEUBG/TP-PL
 'Probably': KPA/PROBL
 'Professor': PRO*EFR
-'Hobkin': H*P/O*/PW*/K*/*EU/TPH*
+'Hobkin': H*P/O*/PW*/*BG/*EUPB
 'was': WAS
 'a': AEU
-'gynæcologist.': TKPW*/KWR*/TPH*/xxx/KR*/O*/HR*/O*/TKPW*/*EU/S*/T*/TP-PL
+'gynæcologist.': TKPW*/KWR*/TPH*/xxx/KR*/O*/HR*/O*/TKPW*/EUFT/TP-PL
 'A': KPA/AEU
 'scholar': SKHRAR
 'is': S
@@ -2172,7 +2172,7 @@ A Society
 'existed."': KPEUFTD/TP-PL/KR-GS
 '"Hum,"': KW-GS/KPA*/HUPL/KW-BG/KR-GS
 'said': SED
-'Castalia.': KR*P/A*/S*/T*/A*/HR*/*EU/A*/TP-PL
+'Castalia.': KPA/KAFT/A*L/SKWREU/KWRA/TP-PL
 '"Perhaps': KW-GS/KPA*/PRAPS
 'I'd': AOEUD
 'better': PWOERT
@@ -2193,7 +2193,7 @@ A Society
 'sitting': SEUGT
 'alone': A/HROEPB
 'when': WHEPB
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'entered.': SPWR-D/TP-PL
 'I': EU
 'don't': TKOEPBT
@@ -2253,7 +2253,7 @@ A Society
 '"I've': KR-GS/AOEUF
 'been': PW-PB
 'at': AT
-'Oxbridge,"': O*P/KP*/PW*/R*/*EU/TK*/TKPW*/*E/KW-BG/KR-GS
+'Oxbridge,"': O*P/KP*/PW*/R*/*EU/TK*/*PBLG/KW-BG/KR-GS
 'she': SHE
 'said.': SED/TP-PL
 '"Asking': KW-GS/KPA*/SK-G
@@ -2352,7 +2352,7 @@ A Society
 'half': HAF
 'whoop,': WHAOP/KW-BG
 'half': HAF
-'holloa—': H*/O*/HR*/HR*/O*/A*/EPL/TKA*RB
+'holloa—': H*/O*/HR*/HR*/KWRO/KWRA/EPL/TKA*RB
 '"Chastity!': KW-GS/KPA*/KHAFT/TEU/SKHRAPL
 'Chastity!': KPA/KHAFT/TEU/SKHRAPL
 'Where's': KPA/W-RS
@@ -2373,7 +2373,7 @@ A Society
 'room': RAOPL
 'but': PWUT
 'a': AEU
-'cruet': KR*/R*/*U/*E/T*
+'cruet': KR*/R*/SKWRU/ET
 'containing': KAUPB/TAEUPBG
 'mustard,': PHUFRD/KW-BG
 'which': WEU
@@ -2423,9 +2423,9 @@ A Society
 'had': H
 'me': PHE
 'called': KAULD
-'Castalia."': KR*P/A*/S*/T*/A*/HR*/*EU/A*/TP-PL/KR-GS
+'Castalia."': KPA/KAFT/A*L/SKWREU/KWRA/TP-PL/KR-GS
 '"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
-'Castalia,': KR*P/A*/S*/T*/A*/HR*/*EU/A*/KW-BG
+'Castalia,': KPA/KAFT/A*L/SKWREU/KWRA/KW-BG
 'your': KWROUR
 'mother—"': PHOER/EPL/TKA*RB/KR-GS
 'I': EU
@@ -2440,7 +2440,7 @@ A Society
 'pot.': POT/TP-PL
 '"No,': KW-GS/KPA*/TPHO/KW-BG
 'no,': TPHORBGS
-'no,"': TPHO/KW-BG/KR-GS
+'no,"': TPHORBGS/KR-GS
 'she': SHE
 'said,': SED/KW-BG
 'shaking': SHAEUG
@@ -2515,7 +2515,7 @@ A Society
 'I': EU
 'did': TK
 'about': PW
-'Castalia.': KR*P/A*/S*/T*/A*/HR*/*EU/A*/TP-PL
+'Castalia.': KPA/KAFT/A*L/SKWREU/KWRA/TP-PL
 'They': KPA/THE
 'kissed': K*EUFD
 'her': HER
@@ -2570,7 +2570,7 @@ A Society
 'to': TO
 'be': -B
 'inconclusive—here': EUPB/KAUPB/KHRAOUS/EUF/EPL/TKA*RB/HAOER
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'nudged': TPHUPBLG/-D
 'me': PHE
 'and': SKP
@@ -2672,7 +2672,7 @@ A Society
 'words': WORDZ
 '"impure,"': KW-GS/*EUPL/PAOUR/KW-BG/KR-GS
 '"baby,"': KW-GS/PWAEB/KW-BG/KR-GS
-'"Castalia,"': KW-GS/KR*P/A*/S*/T*/A*/HR*/*EU/A*/KW-BG/KR-GS
+'"Castalia,"': KW-GS/KPA/KAFT/A*L/SKWREU/KWRA/KW-BG/KR-GS
 'and': SKP
 'so': SO
 'on.': OPB/TP-PL
@@ -2714,7 +2714,7 @@ A Society
 'her': HER
 'stay!': STAEU/SKHRAPL
 'Impure?': KPA/*EUPL/PAOUR/H-F
-'Fiddlesticks!"': TP*P/*EU/TK*/TK*/HR*/*E/S*/T*/*EU/KR*/K*/S*/SKHRAPL/KR-GS
+'Fiddlesticks!"': TP*P/*EU/TK*/TK*/HR*/EFT/EUBG/*BG/-S/SKHRAPL/KR-GS
 'Yet': KPA/KWRET
 'I': EU
 'fancied': TPAPB/SEU/-D
@@ -2847,7 +2847,7 @@ A Society
 'I': EU
 'vote': SROET
 'that': THA
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'shall': SHAL
 'be': -B
 'our': OUR
@@ -2881,7 +2881,7 @@ A Society
 'I': EU
 'don't': TKOEPBT
 'believe': PWHREF
-'Cassy': KR*P/A*/S*/S*/KWR*
+'Cassy': KR*P/KWRA/-S/-S/KWREU
 'herself': H*ERS
 'maintains': PHAEUPB/TAEUPBS
 'that': THA
@@ -2904,7 +2904,7 @@ A Society
 'divinely': TKWAOEUPB/HREU
 'beautiful,"': PWAOUFL/KW-BG/KR-GS
 'said': SED
-'Cassy,': KR*P/A*/S*/S*/KWR*/KW-BG
+'Cassy,': KR*P/KWRA/-S/-S/KWREU/KW-BG
 'with': W
 'a': AEU
 'ravishing': RAF/EURB/-G
@@ -3019,7 +3019,7 @@ A Society
 'of': -F
 'future': TPAOURT
 'Lord': HRO*RD
-'Chancellors': KR*P/H*/A*/TPH*/KR*/*E/HR*/HR*/O*/R*/S*
+'Chancellors': KPA/KHAPBS/HROR/-S
 '"or': KW-GS/OR
 'poets': POETS
 'or': OR
@@ -3056,7 +3056,7 @@ A Society
 'bear': PWAER
 'children!"': KHEURPB/SKHRAPL/KR-GS
 'cried': KRAOEUD
-'Castalia,': KR*P/A*/S*/T*/A*/HR*/*EU/A*/KW-BG
+'Castalia,': KPA/KAFT/A*L/SKWREU/KWRA/KW-BG
 'impatiently.': EUPL/PAEURBT/HREU/TP-PL
 'Jane': SKWRAEUPB
 'rapped': RAP/P-D
@@ -3093,7 +3093,7 @@ A Society
 'the': -T
 'human': HAOUPL
 'race.': RAEUS/TP-PL
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'has': HAS
 'anticipated': SPAEUTD
 'our': OUR
@@ -3187,7 +3187,7 @@ A Society
 'cause': KAUS
 'as': AS
 'this!"': TH/SKHRAPL/KR-GS
-'Castalia,': KR*P/A*/S*/T*/A*/HR*/*EU/A*/KW-BG
+'Castalia,': KPA/KAFT/A*L/SKWREU/KWRA/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB
@@ -3211,7 +3211,7 @@ A Society
 'to': TO
 'learn,': HRERPB/KW-BG
 'and': SKP
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'begged': PWEGD
 'us': US
 'to': TO
@@ -3287,7 +3287,7 @@ A Society
 'shops,': SHOPS/KW-BG
 'slums,': SHRUPLS/KW-BG
 'and': SKP
-'dockyards.': TK*/O*/KR*/K*/KWR*/A*/R*/TK*/S*/TP-PL
+'dockyards.': TKOBG/TK-LS/KWRARDZ/TP-PL
 'Descriptions': KPA/SKREUFPGS
 'were': WR
 'given': TKPWEUFPB
@@ -3332,7 +3332,7 @@ A Society
 'was': WAS
 'sitting': SEUGT
 'by': PWEU
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'and': SKP
 'I': EU
 'noticed': TPH-TS/-D
@@ -3349,7 +3349,7 @@ A Society
 'all': AUL
 'at': AT
 'this': TH
-'rate,"': RAEUT/KW-BG/KR-GS
+'rate,"': RAEURBGTS/KR-GS
 'she': SHE
 'said.': SED/TP-PL
 '"As': KW-GS/KPA*/AS
@@ -3489,7 +3489,7 @@ A Society
 'the': -T
 'centre.': STR/A*U/TP-PL
 'Is': KPA/S
-'Kensington': K*P/*E/TPH*/S*/*EU/TPH*/TKPW*/T*/O*/TPH*
+'Kensington': K*P/*E/TPH*/S*/*EU/TPH*/TKPW*/T*/KWRO/*PB
 'a': AEU
 'nice': TPHAOEUS
 'place': PHRAEUS
@@ -3551,7 +3551,7 @@ A Society
 'peerage,"': PAOER/APBLG/KW-BG/KR-GS
 'said': SED
 'Lord': HRO*RD
-'Bunkum,': PW*P/*U/TPH*/K*/*U/PH*/KW-BG
+'Bunkum,': KPA/PW*UPBG/*UPL/KW-BG
 '"because': KW-GS/PWAU
 'my': PHEU
 'wife': WAOEUF
@@ -3574,7 +3574,7 @@ A Society
 'out': OUT
 'of': -F
 'the': -T
-'twenty-four,': TWEPBT/H-PB/TPOUR/KW-BG
+'twenty-four,': TWEPBT/TPOUR/KW-BG
 'as': AS
 'I': EU
 'do——"': TKO/EPL/TKA*RB/EPL/TKA*RB/KR-GS
@@ -3680,7 +3680,7 @@ A Society
 'the': -T
 'asker.': SK-R/TP-PL
 '"I'm': KW-GS/AOEUPL
-'sure,"': SHUR/KW-BG/KR-GS
+'sure,"': SHAOURBGS/KR-GS
 'said': SED
 'Jill,': SKWREUL/KW-BG
 '"that': KW-GS/THA
@@ -3774,7 +3774,7 @@ A Society
 'has': HAS
 'she,': SHE/KW-BG
 'Poll?"': KPA/POL/H-F/KR-GS
-'"Jane-Austen-Charlotte-Brontë-George-Eliot,"': KW-GS/SKWRAEUPB/H-PB/AUFT/*EPB/H-PB/KHARL/OT/H-PB/PW*P/R*/O*/TPH*/T*/xxx/H-PB/SKWRORPBLG/H-PB/*EP/HR*/*EU/O*/T*
+'"Jane-Austen-Charlotte-Brontë-George-Eliot,"': KW-GS/SKWRAEUPB/H-PB/AUFT/*EPB/H-PB/KHARL/OT/H-PB/PW*P/R*/O*/TPH*/T*/xxx/H-PB/SKWRORPBLG/H-PB/*EP/HR*/*EU/O*/T*/KW-BG/KR-GS
 'cried': KRAOEUD
 'Poll,': KPA/POL/KW-BG
 'like': HRAOEUBG
@@ -3826,7 +3826,7 @@ A Society
 'invention': EUPB/SREPBGS
 'of': -F
 'Professor': PRO*EFR
-'Hobkin,"': H*P/O*/PW*/K*/*EU/TPH*/KW-BG/KR-GS
+'Hobkin,"': H*P/O*/PW*/*BG/*EUPB/KW-BG/KR-GS
 'Ruth': RAO*UT
 'interrupted.': EUPBT/RUPTD/TP-PL
 '"Anyhow,': KW-GS/KPA*/TPHEU/HOU/KW-BG
@@ -3975,10 +3975,10 @@ A Society
 'Compton': KOFRP/TOPB
 'Mackenzie;': PHABG/KEPB/S*EU/STPH*FPLT
 'Mr.': PHR-FPLT
-'McKenna': PH*P/KR*/K*P/*E/TPH*/TPH*/A*
+'McKenna': PH-BG/KEPB/*PB/KWRA
 'and': SKP
 'Mr.': PHR-FPLT
-'Walpole': W*P/A*/HR*/P*/O*/HR*/*E
+'Walpole': W*P/A*L/*P/KWRO/*L
 'may': PHAE
 'be': -B
 'bracketed': PWRABGT/-D
@@ -4015,7 +4015,7 @@ A Society
 'yours?': KWROURS/H-F
 'Oh,': KPA/O*ERBGS/KW-BG
 'yes,': KWRERBGS
-''safe': AE/SAEUF
+''safe': A*E/SAEUF
 'in': TPH
 'their': THAEUR
 'hands.'"': HAPBDZ/TP-PL/AE/KR-GS
@@ -4128,7 +4128,7 @@ A Society
 'a': AEU
 'dripping': TKREUPG
 'Sunday': SUPBD
-'evening—wouldn't': AOEPBG/EPL/TKA*RB/WO/*PB/AE/T*
+'evening—wouldn't': AOEPBG/EPL/TKA*RB/WOPBT
 'it': T
 'be': -B
 'nice': TPHAOEUS
@@ -4168,7 +4168,7 @@ A Society
 'wonderful,"': WUFL/KW-BG/KR-GS
 'she': SHE
 'broke': PWROEBG
-'off—"Mr.': OF/EPL/TKA*RB/KR-GS/PH*P/R*/TP-PL
+'off—"Mr.': OF/EPL/TKA*RB/KR-GS/PHR-FPLT
 'Chitter': KPA/KHEUT/*ER
 'has': HAS
 'written': WREUPB
@@ -4388,7 +4388,7 @@ A Society
 'to': TO
 'war': WAR
 'for': TPOR
-'now,"': TPHOU/KW-BG/KR-GS
+'now,"': TPHOURBGS/KR-GS
 'she': SHE
 'admitted.': AD/PHEUTD/TP-PL
 '*': STA*R
@@ -4415,7 +4415,7 @@ A Society
 'found': TPOUPBD
 'myself': PHAO*EUS
 'with': W
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'in': TPH
 'the': -T
 'room': RAOPL
@@ -4453,7 +4453,7 @@ A Society
 '"We': KW-GS/KPA*/WE
 'are': R
 'agreed,"': TKPWRAED/KW-BG/KR-GS
-'Castalia': KR*P/A*/S*/T*/A*/HR*/*EU/A*
+'Castalia': KPA/KAFT/A*L/SKWREU/KWRA
 'quoted,': KWOETD/KW-BG
 'reading': RAEGD
 'over': OEFR
@@ -4499,7 +4499,7 @@ A Society
 '"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'dear,"': TKAER/KW-BG/KR-GS
 'cried': KRAOEUD
-'Castalia,': KR*P/A*/S*/T*/A*/HR*/*EU/A*/KW-BG
+'Castalia,': KPA/KAFT/A*L/SKWREU/KWRA/KW-BG
 'pushing': PURBG
 'the': -T
 'book': PWAOBG
@@ -4651,7 +4651,7 @@ A Society
 'if': TP
 'it': T
 'was': WAS
-''true.'': AE/TRAOU/TP-PL/AE
+''true.'': A*E/TRAOU/TP-PL/AE
 'Next': KPA/TPHEGT
 'she'll': SHAOEL
 'ask': SK
@@ -4713,7 +4713,7 @@ A Society
 'superior': SPOEUR
 'to': TO
 'a': AEU
-'woman's?"': WOPL/AE/S*/H-F/KR-GS
+'woman's?"': WOPL/AES/H-F/KR-GS
 'I': EU
 'suggested.': SUGD/TP-PL
 'She': KPA/SHE
@@ -4755,10 +4755,10 @@ A Society
 'never': TPHEFR
 'forget': TPORGT
 'old': OLD
-'Hobkin': H*P/O*/PW*/K*/*EU/TPH*
+'Hobkin': H*P/O*/PW*/*BG/*EUPB
 'and': SKP
 'the': -T
-'hairpin,"': H*/A*/*EU/R*/P*/*EU/TPH*/KW-BG/KR-GS
+'hairpin,"': HAEUR/*P/*EUPB/KW-BG/KR-GS
 'she': SHE
 'said,': SED/KW-BG
 'and': SKP
@@ -4814,7 +4814,7 @@ A Society
 '"Ask': KW-GS/KPA*/SK
 'any': TPHEU
 'journalist,': SKWRURPBL/EUFT/KW-BG
-'schoolmaster,': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*E/R*/KW-BG
+'schoolmaster,': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER/KW-BG
 'politician': PHREUGS
 'or': OR
 'public': PHREUBG
@@ -5244,7 +5244,7 @@ A Society
 'Evening': KPA/AOEPBG
 'News,"': TPH*US/KW-BG/KR-GS
 'said': SED
-'Castalia,': KR*P/A*/S*/T*/A*/HR*/*EU/A*/KW-BG
+'Castalia,': KPA/KAFT/A*L/SKWREU/KWRA/KW-BG
 '"and': KW-GS/SKP
 'Ann': AEPB
 'will': HR
@@ -5295,7 +5295,7 @@ A Society
 'a': AEU
 'change,"': KHAEUPBG/KW-BG/KR-GS
 'sighed': SAOEU/-D
-'Castalia.': KR*P/A*/S*/T*/A*/HR*/*EU/A*/TP-PL
+'Castalia.': KPA/KAFT/A*L/SKWREU/KWRA/TP-PL
 'So': KPA/SO
 'we': WE
 'swept': SWEPT

@@ -2685,7 +2685,7 @@ The Metal Pig
 'may': PHAE
 'go': TKPW
 'home': HOEPL
-'now,"': TPHOU/KW-BG/KR-GS
+'now,"': TPHOURBGS/KR-GS
 'said': SED
 'the': -T
 'painter,': PA*EURPBT/KW-BG
@@ -2772,7 +2772,7 @@ The Metal Pig
 'the': -T
 'colored': KHRORD
 'picture.': P*EUFP/TP-PL
-'"Why': KR-GS/KPA/KWR
+'"Why': KW-GS/KPA*/KWR
 'don't': TKOEPBT
 'you': U
 'go?"': TKPW/H-F/KR-GS

@@ -602,7 +602,7 @@ The Velveteen Rabbit
 'a': AEU
 'long': HROPBG
 'time.': TAOEUPL/TP-PL
-'That's': KPA/THA/AES
+'That's': KPA/THATS
 'why': KWR
 'it': T
 'doesn't': TKOPBT
@@ -1715,7 +1715,7 @@ The Velveteen Rabbit
 'their': THAEUR
 'noses': TPHO*EFS
 'twitched.': TWEUFP/-D/TP-PL
-'"Why': KR-GS/KPA/KWR
+'"Why': KW-GS/KPA*/KWR
 'don't': TKOEPBT
 'you': U
 'get': TKPWET
@@ -2153,7 +2153,7 @@ The Velveteen Rabbit
 'dear!"': TKAER/SKHRAPL/KR-GS
 'he': HE
 'thought.': THAUT/TP-PL
-'"Why': KR-GS/KPA/KWR
+'"Why': KW-GS/KPA*/KWR
 'did': TK
 'they': THE
 'run': RUPB

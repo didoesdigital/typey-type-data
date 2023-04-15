@@ -349,7 +349,7 @@
 "EPBD": "end",
 "WOUT": "without",
 "SEUPBLG": "single",
-"H*/A*/*EU/R*/P*/*EU/TPH*": "hairpin",
+"HAEUR/*P/*EUPB": "hairpin",
 "W*UPBS": "one's",
 "HAEUR/SKHRAPL": "hair!",
 "KPA/SHOT": "Shot",
@@ -1302,7 +1302,7 @@
 "KWR": "why",
 "STPHAEUL": "snail",
 "WAUL/TP-PL/KR-GS": "wall.\"",
-"KPA/HA*E/KW-BG": "Ah,",
+"KPA/AERBGS": "Ah,",
 "WAUL/SKHRAPL": "wall!",
 "STPHAEUL/TP-PL": "snail."
 }

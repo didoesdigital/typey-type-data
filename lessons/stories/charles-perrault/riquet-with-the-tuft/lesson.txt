@@ -1057,7 +1057,7 @@ Riquet With the Tuft
 'a': AEU
 'word.': WORD/TP-PL
 '"I': KW-GS/EU
-'see,"': SAOE/KW-BG/KR-GS
+'see,"': SAOERBGS/KR-GS
 'replied': RE/PHRAOEUD
 'Riquet': xxx Riquet
 'with': W
@@ -2145,7 +2145,7 @@ Riquet With the Tuft
 'humour,': HAOURPL/A*U/KW-BG
 'or': OR
 'manners?"': PHAERPBS/H-F/KR-GS
-'"Not': KR-GS/KPA/TPHOT
+'"Not': KW-GS/KPA*/TPHOT
 'at': AT
 'all,"': AUL/KW-BG/KR-GS
 'answered': AEPBS/-D

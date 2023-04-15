@@ -165,7 +165,7 @@ The Darning-Needle
 'useless': AOUFLS
 'for': TPOR
 'sewing': SWEG
-'now,"': TPHOU/KW-BG/KR-GS
+'now,"': TPHOURBGS/KR-GS
 'said': SED
 'the': -T
 'fingers;': TPEURPBGS/STPH*FPLT
@@ -192,7 +192,7 @@ The Darning-Needle
 'it': T
 'in': TPH
 'front.': TPROPBT/TP-PL
-'"So': KR-GS/KPA/SO
+'"So': KW-GS/KPA*/SO
 'now': TPHOU
 'I': EU
 'am': APL
@@ -462,7 +462,7 @@ The Darning-Needle
 'himself—only': HEUPLS/EPL/TKA*RB/OEPBL
 'a': AEU
 'chip.': KHEUP/TP-PL
-'There's': KPA/THR/AES
+'There's': KPA/THR-S
 'a': AEU
 'straw': STRAU
 'going': TKPW-G
@@ -578,7 +578,7 @@ The Darning-Needle
 'diamond?"': TKAOEUPLD/H-F/KR-GS
 'she': SHE
 'said.': SED/TP-PL
-'"Why': KR-GS/KPA/KWR
+'"Why': KW-GS/KPA*/KWR
 'yes,': KWRERBGS
 'something': S-G
 'of': -F
@@ -855,7 +855,7 @@ The Darning-Needle
 'was': WAS
 'carried': KAERD
 'away.': WA*EU/TP-PL
-'"So': KR-GS/KPA/SO
+'"So': KW-GS/KPA*/SO
 'he': HE
 'is': S
 'promoted,"': PROEPLTD/KW-BG/KR-GS

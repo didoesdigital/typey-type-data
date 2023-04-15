@@ -320,7 +320,7 @@ Little Claus and Big Claus
 'all': AUL
 'my': PHEU
 'horses!"': HORSZ/SKHRAPL/KR-GS
-'"I'll': KR-GS/EU/AE/HR*/HR*
+'"I'll': KW-GS/AOEUL
 'gee-up': SKWRAOE/SKWR*UP
 'your': KWROUR
 'horses': HORSZ
@@ -955,7 +955,7 @@ Little Claus and Big Claus
 'discovering': SKOFRG
 'Little': KPA/HREUL
 'Claus.': xxx Claus/TP-PL
-'"Why': KR-GS/KPA/KWR
+'"Why': KW-GS/KPA*/KWR
 'are': R
 'you': U
 'lying': HRAOEUG
@@ -1702,7 +1702,7 @@ Little Claus and Big Claus
 'quite': KWAOEUT
 'full': TPUL
 'measure."': PH*ERB/TP-PL/KR-GS
-'"So': KR-GS/KPA/SO
+'"So': KW-GS/KPA*/SO
 'you': U
 'shall,"': SHAL/KW-BG/KR-GS
 'said': SED
@@ -1957,7 +1957,7 @@ Little Claus and Big Claus
 'exclaimed': SKHRAEUPLD
 'Little': KPA/HREUL
 'Claus,': xxx Claus/KW-BG
-'pretending': PRE/TEPBD/-G
+'pretending': PRE/TEPBGD
 'to': TO
 'be': -B
 'frightened,': TPRAOEUFPBD/KW-BG
@@ -1983,7 +1983,7 @@ Little Claus and Big Claus
 '"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
 'no;': TPHO/STPH*FPLT
 'oh,': OERBGS
-'no,"': TPHO/KW-BG/KR-GS
+'no,"': TPHORBGS/KR-GS
 'cried': KRAOEUD
 'the': -T
 'sexton;': SEBGS/TO*PB/STPH*FPLT
@@ -3675,7 +3675,7 @@ Little Claus and Big Claus
 'light': HRAOEUT
 'he': HE
 'seems': SAOEPLS
-'now,"': TPHOU/KW-BG/KR-GS
+'now,"': TPHOURBGS/KR-GS
 'said': SED
 'he.': HE/TP-PL
 '"Ah,': KW-GS/KPA*/AERBGS
@@ -3802,7 +3802,7 @@ Little Claus and Big Claus
 'replied': RE/PHRAOEUD
 'Little': KPA/HREUL
 'Claus.': xxx Claus/TP-PL
-'"I'll': KR-GS/EU/AE/HR*/HR*
+'"I'll': KW-GS/AOEUL
 'tell': TEL
 'you': U
 'the': -T

@@ -193,7 +193,7 @@ Anne Lisbeth
 'hunger': HURPBG
 'nor': TPH-R
 'thirst.': THEUFRT/TP-PL
-'Ah,': KPA/HA*E/KW-BG
+'Ah,': KPA/AERBGS
 'yes;': KWRE/STPH*FPLT
 'sleep': SHRAOEP
 'is': S
@@ -1575,7 +1575,7 @@ Anne Lisbeth
 'well': WEL
 'off."': OF/TP-PL/KR-GS
 '"Oh': KR-GS/KPA/O*ERBGS
-'yes,"': KWRE/KW-BG/KR-GS
+'yes,"': KWRERBGS/KR-GS
 'answered': AEPBS/-D
 'Anne': A*EPB
 'Lisbeth.': xxx Lisbeth/TP-PL
@@ -1626,7 +1626,7 @@ Anne Lisbeth
 'more,': PHOR/KW-BG
 'Anne': A*EPB
 'Lisbeth."': xxx Lisbeth/TP-PL/KR-GS
-'"So': KR-GS/KPA/SO
+'"So': KW-GS/KPA*/SO
 'they': THE
 'were': WR
 'drowned,"': TKROUPBD/KW-BG/KR-GS
@@ -3534,7 +3534,7 @@ Anne Lisbeth
 'a': AEU
 'spectral': SPEBG/TRAL
 'apparition': AP/REUGS
-'flitted': TPHREUT/-D
+'flitted': TP*/HR*/*EU/T*/T*/-D
 'by': PWEU
 'her;': HER/STPH*FPLT
 'she': SHE
