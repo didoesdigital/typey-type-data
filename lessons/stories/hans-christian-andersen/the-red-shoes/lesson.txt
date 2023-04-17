@@ -171,7 +171,7 @@ The Red Shoes
 'to': TO
 'the': -T
 'clergyman,': KHRERPBLG/PHAPB/KW-BG
-'"Look': KR-GS/KPA/HRAOBG
+'"Look': KW-GS/KPA*/HRAOBG
 'here,': HAOERBGS
 'if': TP
 'you': U
@@ -474,7 +474,7 @@ The Red Shoes
 '"They': KW-GS/KPA*/THE
 'shine': SHAOEUPB
 'so."': SO/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'they': THE
 'do': TKO
 'shine,"': SHAOEUPB/KW-BG/KR-GS
@@ -776,7 +776,7 @@ The Red Shoes
 'little': HREUL
 'foot': TPAOT
 'too.': TAO/TP-PL
-'"Dear': KR-GS/KPA/TKAER
+'"Dear': KW-GS/KPA*/TKAER
 'me,': PHE/KW-BG
 'what': WHA
 'pretty': PREUT
@@ -784,7 +784,7 @@ The Red Shoes
 'said': SED
 'the': -T
 'soldier.': SHRERPBLG/TP-PL
-'"Sit': KR-GS/KPA/SEUT
+'"Sit': KW-GS/KPA*/SEUT
 'fast,': TPAFT/KW-BG
 'when': WHEPB
 'you': U
@@ -879,7 +879,7 @@ The Red Shoes
 'to': TO
 'say': SAEU
 'the': -T
-'"Lord's': KR-GS/HRO*RD/AES
+'"Lord's': KW-GS/HRO*RD/AES
 'Prayer."': KPA/PRAEUR/TP-PL/KR-GS
 'Now': KPA/TPHOU
 'every': EF
@@ -913,7 +913,7 @@ The Red Shoes
 'old': OLD
 'soldier': SHRERPBLG
 'said:': SED/STPH-FPLT
-'"Dear': KR-GS/KPA/TKAER
+'"Dear': KW-GS/KPA*/TKAER
 'me,': PHE/KW-BG
 'what': WHA
 'pretty': PREUT
@@ -1062,7 +1062,7 @@ The Red Shoes
 'duty': TKAOUT
 'more': PHOR
 'than': THAPB
-'Karen's.': KAEURPB/AE/S*/TP-PL
+'Karen's.': KAEURPB/AES/TP-PL
 'But': KPA/PWUT
 'there': THR
 'was': WAS
@@ -1212,7 +1212,7 @@ The Red Shoes
 'head': HED
 'and': SKP
 'said:': SED/STPH-FPLT
-'"Dear': KR-GS/KPA/TKAER
+'"Dear': KW-GS/KPA*/TKAER
 'me,': PHE/KW-BG
 'what': WHA
 'pretty': PREUT
@@ -1364,12 +1364,12 @@ The Red Shoes
 'broad': PWRAOD
 'shining': SHAOEUPBG
 'sword.': SOERD/TP-PL
-'"Dance': KR-GS/KPA/TKAPBS
+'"Dance': KW-GS/KPA*/TKAPBS
 'you': U
 'shall,"': SHAL/KW-BG/KR-GS
 'said': SED
 'he,': HE/KW-BG
-'"dance': KR-GS/TKAPBS
+'"dance': KW-GS/TKAPBS
 'in': TPH
 'your': KWROUR
 'red': RED
@@ -1420,7 +1420,7 @@ The Red Shoes
 'you': U
 'shall,': SHAL/KW-BG
 'dance—!"': TKAPBS/EPL/TKA*RB/SKHRAPL/KR-GS
-'"Mercy!"': KR-GS/KPA/PHER/SEU/SKHRAPL/KR-GS
+'"Mercy!"': KW-GS/KPA*/PHER/SEU/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'Karen.': KAEURPB/TP-PL
 'But': KPA/PWUT
@@ -1597,7 +1597,7 @@ The Red Shoes
 'to': TO
 'do': TKO
 'so."': SO/TP-PL/KR-GS
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'cut': KUT
 'off': OF
 'my': PHEU
@@ -2032,7 +2032,7 @@ The Red Shoes
 'face': TPAEUS
 'and': SKP
 'said:': SED/STPH-FPLT
-'"O': KR-GS/O*P
+'"O': KW-GS/O*P
 'God!': TKPWO*D/SKHRAPL
 'help': HEP
 'me!"': PHE/SKHRAPL/KR-GS

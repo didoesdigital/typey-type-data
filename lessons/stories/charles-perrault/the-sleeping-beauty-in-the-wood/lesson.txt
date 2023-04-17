@@ -175,7 +175,7 @@ The Sleeping Beauty in the Wood
 'with': W
 'diamonds': TKAOEUPLDZ
 'and': SKP
-'rubies.': RAOU/PWEU/KWREU/-S/TP-PL
+'rubies.': RUB/KWREU/-S/TP-PL
 'But': KPA/PWUT
 'as': AS
 'they': THE
@@ -699,11 +699,11 @@ The Sleeping Beauty in the Wood
 'who': WHO
 'she': SHE
 'was.': WAS/TP-PL
-'"Ha!"': KR-GS/KPA/HAE/SKHRAPL/KR-GS
+'"Ha!"': KW-GS/KPA*/HAE/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'Princess,': KPA/PREUPB/SES/KW-BG
-'"this': KR-GS/TH
+'"this': KW-GS/TH
 'is': S
 'very': SRE
 'pretty;': PREUT/STPH*FPLT
@@ -983,7 +983,7 @@ The Sleeping Beauty in the Wood
 'the': -T
 'kingdom': KEUPBG/TKOPL
 'of': -F
-'Matakin,': xxx Matakin/KW-BG
+'Matakin,': PH*P/A/TA/*BG/*EUPB/KW-BG
 'twelve': TWEFL
 'thousand': THOUD
 'leagues': HRAOEG/-S
@@ -1128,7 +1128,7 @@ The Sleeping Beauty in the Wood
 'stewards,': STAOURDZ/KW-BG
 'cooks,': KAOBGS/KW-BG
 'under-cooks,': TPH-PB/H-PB/KAOBGS/KW-BG
-'scullions,': xxx scullions/KW-BG
+'scullions,': S*/KR*/*U/HR*/HR*/SKWREU/KWRO/*PB/-S/KW-BG
 'guards,': TKPWARDZ/KW-BG
 'with': W
 'their': THAEUR
@@ -1161,7 +1161,7 @@ The Sleeping Beauty in the Wood
 'and': SKP
 'pretty': PREUT
 'little': HREUL
-'Mopsey': xxx Mopsey
+'Mopsey': KPA/PHOPS/KWRAOE
 'too,': TAO/KW-BG
 'the': -T
 'Princess's': KPA/PREUPB/SES/AES
@@ -1320,7 +1320,7 @@ The Sleeping Beauty in the Wood
 'beast': PWAOEFT
 'could': KO
 'pass': PAS
-'thro';': xxx thro/AE/STPH*FPLT
+'thro';': T*/H*/R*/KWRO/AE/STPH*FPLT
 'so': SO
 'that': THA
 'nothing': TPHOG
@@ -1674,7 +1674,7 @@ The Sleeping Beauty in the Wood
 'let': HRET
 'him': HEUPL
 'pass': PAS
-'thro';': xxx thro/AE/STPH*FPLT
+'thro';': T*/H*/R*/KWRO/AE/STPH*FPLT
 'he': HE
 'walked': WAUBGD
 'up': UP
@@ -1722,7 +1722,7 @@ The Sleeping Beauty in the Wood
 'as': AS
 'he': HE
 'had': H
-'pass'd': PAS/AE/TK*
+'pass'd': PAS/*D
 'thro'': T*/H*/R*/O*/-PBT
 'them.': THEPL/TP-PL
 'However,': KPA/HOUF/KW-BG
@@ -2002,9 +2002,9 @@ The Sleeping Beauty in the Wood
 'she': SHE
 'to': TO
 'him,': HEUPL/KW-BG
-'"you': KR-GS/U
+'"you': KW-GS/U
 'have': SR
-'tarried': xxx tarried
+'tarried': T*/A*/R*/R*/SKWREU/-D
 'long."': HROPBG/TP-PL/KR-GS
 'The': KPA/-T
 'Prince,': PR*EUPBS/KW-BG
@@ -2253,7 +2253,7 @@ The Sleeping Beauty in the Wood
 'looking-glasses,': HRAOG/H-PB/TKPWHRAFS/KW-BG
 'where': W-R
 'they': THE
-'supped,': SUP/-D/KW-BG
+'supped,': SUP/P-D/KW-BG
 'and': SKP
 'were': WR
 'served': SEFRBD
@@ -2264,7 +2264,7 @@ The Sleeping Beauty in the Wood
 'the': -T
 'violins': SRO*EUPBL/-S
 'and': SKP
-'hautboys': xxx hautboys
+'hautboys': H*/A*/*U/T*/PW*/KWRO/KWREU/-S
 'played': PHRAEUD
 'old': OLD
 'tunes,': TAOUPBS/KW-BG
@@ -2293,7 +2293,7 @@ The Sleeping Beauty in the Wood
 'time,': TAOEUPL/KW-BG
 'the': -T
 'lord': HRORD
-'almoner': xxx almoner
+'almoner': A*/HR*/PH*/KWRO/*PB/*ER
 'married': PHAERD
 'them': THEPL
 'in': TPH
@@ -2436,7 +2436,7 @@ The Sleeping Beauty in the Wood
 'had': H
 'some': SOPL
 'little': HREUL
-'amour,': xxx amour/KW-BG
+'amour,': APL/O*UR/KW-BG
 'for': TPOR
 'he': HE
 'lived': HREUFD
@@ -2565,7 +2565,7 @@ The Sleeping Beauty in the Wood
 'that': THA
 'she': SHE
 'had': H
-'Ogreish': xxx Ogreish
+'Ogreish': KPA/OERG/SKWREU/*RB
 'inclinations,': EUPBG/TPHAEUGS/-S/KW-BG
 'and': SKP
 'that,': THARBGS
@@ -2664,7 +2664,7 @@ The Sleeping Beauty in the Wood
 'with': W
 'the': -T
 'Emperor': KPA/EPL/ROR
-'Cantalabutte,': xxx Cantalabutte/KW-BG
+'Cantalabutte,': KR*P/A*/TPH*/T*/A*/HR*/A*/PW*/*U/T*/T*/SKWR*E/KW-BG
 'his': HEUS
 'neighbour.': TPHAEUB/A*U/TP-PL
 'He': KPA/HE
@@ -2759,7 +2759,7 @@ The Sleeping Beauty in the Wood
 'dinner': TKEURPB
 'to': TO
 'morrow."': HRO*ER/PHOR/ROE/TP-PL/KR-GS
-'"Ah!': KR-GS/KPA/HA*E/SKHRAPL
+'"Ah!': KW-GS/KPA*/HA*E/SKHRAPL
 'Madam,"': PHAD/APL/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
@@ -2888,7 +2888,7 @@ The Sleeping Beauty in the Wood
 'went': WEPBT
 'into': TPHAO
 'the': -T
-'back-yard,': PWABG/H-PB/KWRARD/KW-BG
+'back-yard,': PWABG/KWRA*RD/KW-BG
 'and': SKP
 'killed': KEULD
 'a': AEU
@@ -3243,7 +3243,7 @@ The Sleeping Beauty in the Wood
 'out': OUT
 'her': HER
 'neck,': TPHEBG/KW-BG
-'"execute': KR-GS/SKAOUT
+'"execute': KW-GS/SKAOUT
 'your': KWROUR
 'orders,': ORDZ/KW-BG
 'and': SKP
@@ -3294,7 +3294,7 @@ The Sleeping Beauty in the Wood
 'all': AUL
 'in': TPH
 'tears,': TAERS/KW-BG
-'"you': KR-GS/U
+'"you': KW-GS/U
 'shall': SHAL
 'not': TPHOT
 'die,': TKAOEU/KW-BG
@@ -3594,7 +3594,7 @@ The Sleeping Beauty in the Wood
 'accordingly,': A/KORD/TKPWHREU/KW-BG
 'and': SKP
 'the': -T
-'executioners': EBGS/KAOUGS/*ER/-S
+'executioners': SKAOUGS/*ERS
 'were': WR
 'just': SKWRUFT
 'going': TKPW-G

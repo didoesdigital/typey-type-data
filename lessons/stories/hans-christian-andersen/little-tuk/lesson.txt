@@ -451,7 +451,7 @@ Little Tuk
 'to': TO
 'move': PHOF
 'about.': PW/TP-PL
-'"Cluck,': KR-GS/KPA/KHRUBG/KW-BG
+'"Cluck,': KW-GS/KPA*/KHRUBG/KW-BG
 'cluck,': KHRUBG/KW-BG
 'cluck,"': KHRUBG/KW-BG/KR-GS
 'cried': KRAOEUD
@@ -467,7 +467,7 @@ Little Tuk
 'a': AEU
 'hen': HEPB
 'from': TPR
-'Kjoge,"': xxx Kjoge/KW-BG/KR-GS
+'Kjoge,"': K*P/SKWR*/KWRO/*PBLG/KW-BG/KR-GS
 'and': SKP
 'then': THEPB
 'she': SHE
@@ -495,7 +495,7 @@ Little Tuk
 'worth': WO*RT
 'speaking': SPAOEG
 'of.': -F/TP-PL
-'"Crack,': KR-GS/KPA/KRABG/KW-BG
+'"Crack,': KW-GS/KPA*/KRABG/KW-BG
 'crack,"': KRABG/KW-BG/KR-GS
 'down': TKOUPB
 'fell': TPEL
@@ -514,7 +514,7 @@ Little Tuk
 'a': AEU
 'target': TARGT
 'as': AS
-'Prastoe.': xxx Prastoe/TP-PL
+'Prastoe.': P*P/R*/A*/S*/T*/KWRO/SKWR*E/TP-PL
 'He': KPA/HE
 'said': SED
 'there': THR
@@ -538,7 +538,7 @@ Little Tuk
 'proud,': PROUD/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"Thorwalsden': KR-GS/xxx Thorwalsden
+'"Thorwalsden': KW-GS/T*P/H*/O*/R*/W*/A*/HR*/S*/TK*/*EPB
 'lived': HREUFD
 'close': KHROES
 'to': TO
@@ -602,7 +602,7 @@ Little Tuk
 'old': OLD
 'town': TOUPB
 'of': -F
-'Wordingburg,': xxx Wordingburg/KW-BG
+'Wordingburg,': KPA/WORGD/PW*URG/KW-BG
 'which': WEU
 'was': WAS
 'very': SRE
@@ -632,7 +632,7 @@ Little Tuk
 'and': SKP
 'dancing;': TKAPBS/-G/STPH*FPLT
 'King': KO*EUPBG
-'Waldemar': xxx Waldemar
+'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
 'and': SKP
 'the': -T
 'young': KWRUPBG
@@ -744,7 +744,7 @@ Little Tuk
 'stood': STAOD
 'by': PWEU
 'him.': HEUPL/TP-PL
-'"Tuk!': KR-GS/T*P/*U/*BG/SKHRAPL
+'"Tuk!': KW-GS/T*P/*U/*BG/SKHRAPL
 'little': HREUL
 'Tuk!"': T*P/*U/*BG/SKHRAPL/KR-GS
 'said': SED
@@ -783,7 +783,7 @@ Little Tuk
 'many': PHAEPB
 'greetings': TKPWRAOEGTS
 'from': TPR
-'Corsor.': xxx Corsor/TP-PL
+'Corsor.': KPA/KR*/O*/R*/-S/O*R/TP-PL
 'It': KPA/T
 'is': S
 'a': AEU
@@ -818,7 +818,7 @@ Little Tuk
 'the': -T
 'sea-shore,"': SAE/H-PB/SHOR/KW-BG/KR-GS
 'said': SED
-'Corsor;': xxx Corsor/STPH*FPLT
+'Corsor;': KPA/KR*/O*/R*/-S/O*R/STPH*FPLT
 '"I': KW-GS/EU
 'have': SR
 'high-roads': HAOEU/H-PB/RAODZ
@@ -943,7 +943,7 @@ Little Tuk
 'cliff': KHREUF
 'in': TPH
 'thick': THEUBG
-'waterspouts,': WAT/ER/SPOUT/-S/KW-BG
+'waterspouts,': WA*UR/SPOUTS/KW-BG
 'so': SO
 'that': THA
 'there': THR
@@ -968,7 +968,7 @@ Little Tuk
 'This': KPA/TH
 'was': WAS
 'King': KO*EUPBG
-'Hroar': xxx Hroar
+'Hroar': H*P/R*/KWRO/A*R
 'of': -F
 'the': -T
 'Springs': KPA/SPREUPBGS
@@ -980,7 +980,7 @@ Little Tuk
 'the': -T
 'town': TOUPB
 'of': -F
-'Roeskilde,': xxx Roeskilde/KW-BG
+'Roeskilde,': R*P/O*/*E/S*/K*/*EU/HR*/TK*/SKWR*E/KW-BG
 'as': AS
 'it': T
 'is': S
@@ -1029,7 +1029,7 @@ Little Tuk
 'heard': HAERD
 'it': T
 'all.': AUL/TP-PL
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'forget': TPORGT
 'the': -T
 'names': TPHAEUPLS
@@ -1038,7 +1038,7 @@ Little Tuk
 'towns,"': TOUPBS/KW-BG/KR-GS
 'said': SED
 'King': KO*EUPBG
-'Hroar.': xxx Hroar/TP-PL
+'Hroar.': H*P/R*/KWRO/A*R/TP-PL
 'All': KPA/AUL
 'at': AT
 'once': WUPBS
@@ -1072,7 +1072,7 @@ Little Tuk
 'had': H
 'come': KOPL
 'from': TPR
-'Soroe': xxx Soroe
+'Soroe': S*P/O*R/KWRO/SKWR*E
 'where': W-R
 'the': -T
 'grass': TKPWRAS
@@ -1104,7 +1104,7 @@ Little Tuk
 'been': PW-PB
 'raining': RAEUPB/-G
 'heavily.': HEFL/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'that': THA
 'it': T
 'has,"': HAS/KW-BG/KR-GS
@@ -1126,13 +1126,13 @@ Little Tuk
 'pretty': PREUT
 'stories': STOERS
 'from': TPR
-'Holberg's': xxx Holberg/AES
+'Holberg's': H*P/HRO*/PWERG/AES
 'comedies,': KOPL/TKEU/-S
 'and': SKP
 'about': PW
-'Waldemar': xxx Waldemar
+'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
 'and': SKP
-'Absalom,': xxx Absalom/KW-BG
+'Absalom,': A*P/PW*/S*/A*/HR*/O*/PH*/KW-BG
 'she': SHE
 'suddenly': SULD
 'shrunk': SHR*UPBG
@@ -1151,7 +1151,7 @@ Little Tuk
 'about': PW
 'to': TO
 'spring.': SPREUPBG/TP-PL
-'"Croak,"': KR-GS/KPA/KROEBG/KW-BG/KR-GS
+'"Croak,"': KW-GS/KPA*/KROEBG/KW-BG/KR-GS
 'she': SHE
 'cried;': KRAOEUD/STPH*FPLT
 '"it': KW-GS/T
@@ -1164,7 +1164,7 @@ Little Tuk
 'as': AS
 'death': TK*T
 'in': TPH
-'Soroe."': xxx Soroe/TP-PL/KR-GS
+'Soroe."': S*P/O*R/KWRO/SKWR*E/TP-PL/KR-GS
 'Then': KPA/THEPB
 'little': HREUL
 'Tuk': T*P/*U/*BG
@@ -1175,7 +1175,7 @@ Little Tuk
 'into': TPHAO
 'a': AEU
 'frog.': TPROG/TP-PL
-'"Croak,"': KR-GS/KPA/KROEBG/KW-BG/KR-GS
+'"Croak,"': KW-GS/KPA*/KROEBG/KW-BG/KR-GS
 'and': SKP
 'again': TKPWEPB
 'she': SHE
@@ -1246,7 +1246,7 @@ Little Tuk
 'Hebrew': HAOE/PWRAO
 'and': SKP
 'Greek."': TKPWRAOEBG/TP-PL/KR-GS
-'"Croak."': KR-GS/KPA/KROEBG/TP-PL/KR-GS
+'"Croak."': KW-GS/KPA*/KROEBG/TP-PL/KR-GS
 'How': KPA/HOU
 'it': T
 'sounded': SOUPBD/-D
@@ -1346,7 +1346,7 @@ Little Tuk
 'and': SKP
 'blue': PWHRU
 'lakes.': HRAEUBGS/TP-PL
-'"Hark,': KR-GS/KPA/HARBG/KW-BG
+'"Hark,': KW-GS/KPA*/HARBG/KW-BG
 'so': SO
 'you': U
 'hear': HAER
@@ -1355,14 +1355,14 @@ Little Tuk
 'crow,': KROE/KW-BG
 'little': HREUL
 'Tuk.': T*P/*U/*BG/TP-PL
-''Cock-a-doodle-doo.'': AE/KPA/KOBG/H-PB/AEU/H-PB/TKAOD/*L/H-PB/TKAO/TP-PL/AE
+''Cock-a-doodle-doo.'': A*E/KPA*/KOBG/H-PB/AEU/H-PB/TKAOD/*L/H-PB/TKAO/TP-PL/AE
 'The': KPA/-T
 'fowls': TPO*UL/-S
 'are': R
 'flying': TPHRAOEUG
 'out': OUT
 'of': -F
-'Kjoge.': xxx Kjoge/TP-PL
+'Kjoge.': K*P/SKWR*/KWRO/*PBLG/TP-PL
 'You': KPA/U
 'shall': SHAL
 'have': SR
@@ -1400,7 +1400,7 @@ Little Tuk
 'up': UP
 'like': HRAOEUBG
 'King': KO*EUPBG
-'Waldemar's': xxx Waldemar/AES
+'Waldemar's': W*P/A*/HR*/TK*/*E/PH*/A*R/AES
 'towers,': TOURS/KW-BG
 'and': SKP
 'shall': SHAL
@@ -1413,7 +1413,7 @@ Little Tuk
 'like': HRAOEUBG
 'those': THOZ
 'at': AT
-'Prastoe.': xxx Prastoe/TP-PL
+'Prastoe.': P*P/R*/A*/S*/T*/KWRO/SKWR*E/TP-PL
 'Understand': KPA/URPBD
 'me': PHE
 'well;': WEL/STPH*FPLT
@@ -1434,10 +1434,10 @@ Little Tuk
 'to': TO
 'sail': SAEUL
 'from': TPR
-'Corsor,': xxx Corsor/KW-BG
+'Corsor,': KPA/KR*/O*/R*/-S/O*R/KW-BG
 'and': SKP
 'at': AT
-'Roeskilde,—Don't': xxx Roeskilde/KW-BG/EPL/TKA*RB/TKO*PB/AE/T*
+'Roeskilde,—Don't': R*P/O*/*E/S*/K*/*EU/HR*/TK*/SKWR*E/KW-BG/EPL/TKA*RB/KPA*/TKOEPBT
 'forget': TPORGT
 'the': -T
 'names': TPHAEUPLS
@@ -1446,7 +1446,7 @@ Little Tuk
 'towns,': TOUPBS/KW-BG
 'as': AS
 'King': KO*EUPBG
-'Hroar': xxx Hroar
+'Hroar': H*P/R*/KWRO/A*R
 'said,—you': SED/KW-BG/EPL/TKA*RB/U
 'shall': SHAL
 'speak': SPAOEBG
@@ -1474,7 +1474,7 @@ Little Tuk
 'I': EU
 'lay': HRAEU
 'in': TPH
-'Soroe,"': xxx Soroe/KW-BG/KR-GS
+'Soroe,"': S*P/O*R/KWRO/SKWR*E/KW-BG/KR-GS
 'said': SED
 'little': HREUL
 'Tuk': T*P/*U/*BG
@@ -1550,7 +1550,7 @@ Little Tuk
 'kindly,': KAOEUPBD/HREU/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"Many': KR-GS/KPA/PHAEPB
+'"Many': KW-GS/KPA*/PHAEPB
 'thanks,': THAPBGS/KW-BG
 'you': U
 'good': TKPWAOD

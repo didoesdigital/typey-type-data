@@ -263,7 +263,7 @@ The Golden Treasure
 'in': TPH
 'the': -T
 'town:': TOUPB/STPH-FPLT
-'"Red': KR-GS/KPA/RED
+'"Red': KW-GS/KPA*/RED
 'hair!': HAEUR/SKHRAPL
 'the': -T
 'little': HREUL
@@ -363,7 +363,7 @@ The Golden Treasure
 'as': AS
 'a': AEU
 'remembrance.': RERPBS/TP-PL
-'"Celebrity': KR-GS/KPA/SHREBT
+'"Celebrity': KW-GS/KPA*/SHREBT
 'is': S
 'always': AULS
 'something!"': S-G/SKHRAPL/KR-GS
@@ -409,7 +409,7 @@ The Golden Treasure
 'the': -T
 'temples': TA*EPLS
 'in': TPH
-'Hindostan,': xxx Hindostan/KW-BG
+'Hindostan,': H*P/*EU/TPH*/TK*/O*/S*/T*/KWRA/*PB/KW-BG
 'mighty': PHAOEUT/KWREU
 'deeds': TKAOEDZ
 'of': -F
@@ -435,7 +435,7 @@ The Golden Treasure
 'clayey': KHRAEU/KWRAOE
 'bank': PWA*PBG
 'the': -T
-'martens': xxx martens
+'martens': PHART/*EPB/-S
 'built': PWEULT
 'their': THAEUR
 'nest.': TPHEFT/TP-PL
@@ -473,7 +473,7 @@ The Golden Treasure
 'his': HEUS
 'little': HREUL
 'son.': SOPB/TP-PL
-'"Peter's': KR-GS/PAOERT/AES
+'"Peter's': KW-GS/PAOERT/AES
 'name': TPHAEUPL
 'will': HR
 'last': HRAFT
@@ -487,7 +487,7 @@ The Golden Treasure
 'said': SED
 'the': -T
 'father.': TPAER/TP-PL
-'"Fool!"': KR-GS/KPA/TPAOL/SKHRAPL/KR-GS
+'"Fool!"': KW-GS/KPA*/TPAOL/SKHRAPL/KR-GS
 'thought': THAUT
 'the': -T
 'Fire-drum;': KPA/TPAOEUR/H-PB/TKRUPL/STPH*FPLT
@@ -495,7 +495,7 @@ The Golden Treasure
 'it': T
 'only': OEPBL
 'said,': SED/KW-BG
-'"Dub,': KR-GS/KPA/TKUB/KW-BG
+'"Dub,': KW-GS/KPA*/TKUB/KW-BG
 'dub,': TKUB/KW-BG
 'dub,': TKUB/KW-BG
 'rub-a-dub!"': RUB/H-PB/AEU/H-PB/TKUB/SKHRAPL/KR-GS
@@ -544,7 +544,7 @@ The Golden Treasure
 'become': PW-BG
 'a': AEU
 'chorister': KHOR/STER
-'boy,"': PWOEU/KW-BG/KR-GS
+'boy,"': PWOEURBGS/KR-GS
 'said': SED
 'his': HEUS
 'mother.': PHOER/TP-PL
@@ -565,7 +565,7 @@ The Golden Treasure
 'are': R
 'like': HRAOEUBG
 'him!"': HEUPL/SKHRAPL/KR-GS
-'"Fiery': KR-GS/KPA/TPAOEU/REU
+'"Fiery': KW-GS/KPA*/TPAOEU/REU
 'cat!"': KAT/SKHRAPL/KR-GS
 'said': SED
 'some': SOPL
@@ -584,7 +584,7 @@ The Golden Treasure
 'the': -T
 'neighbors'': TPHAEUBS/AE
 'wives.': WAOEUFS/TP-PL
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'go': TKPW
 'home,': HOEPL/KW-BG
 'Peter,"': PAOERT/KW-BG/KR-GS
@@ -613,7 +613,7 @@ The Golden Treasure
 'to': TO
 'be': -B
 'beaten."': PWAET/*EPB/TP-PL/KR-GS
-'"Look': KR-GS/KPA/HRAOBG
+'"Look': KW-GS/KPA*/HRAOBG
 'out': OUT
 'for': TPOR
 'the': -T
@@ -787,12 +787,12 @@ The Golden Treasure
 'the': -T
 'drum-skin,': TKRUPL/H-PB/SKEUPB/KW-BG
 'drum,': TKRUPL/KW-BG
-'dum,': xxx dum/KW-BG
-'dum!"': xxx dum/SKHRAPL/KR-GS
+'dum,': TK*/*UPL/KW-BG
+'dum!"': TK*/*UPL/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'Drum.': KPA/TKRUPL/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'if': TP
 'he': HE
 'could': KO
@@ -808,7 +808,7 @@ The Golden Treasure
 'observed': OEBD
 'his': HEUS
 'father;': TPAER/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'before': PW-FR
 'he': HE
 'can': K
@@ -831,11 +831,11 @@ The Golden Treasure
 'remarked': RARBGD
 'the': -T
 'father.': TPAER/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'we': WE
 'have': SR
 'my': PHEU
-'boy,"': PWOEU/KW-BG/KR-GS
+'boy,"': PWOEURBGS/KR-GS
 'she': SHE
 'retorted.': RE/TORT/-D/TP-PL
 '"But': KW-GS/KPA*/PWUT
@@ -848,7 +848,7 @@ The Golden Treasure
 'said': SED
 'the': -T
 'father.': TPAER/TP-PL
-'"Without': KR-GS/KPA/WOUT
+'"Without': KW-GS/KPA*/WOUT
 'arms': ARPLS
 'and': SKP
 'legs!"': HREGS/SKHRAPL/KR-GS
@@ -865,9 +865,9 @@ The Golden Treasure
 'treasure': TRERB
 'with': W
 'me."': PHE/TP-PL/KR-GS
-'"Drum,': KR-GS/KPA/TKRUPL/KW-BG
-'dum,': xxx dum/KW-BG
-'dum!"': xxx dum/SKHRAPL/KR-GS
+'"Drum,': KW-GS/KPA*/TKRUPL/KW-BG
+'dum,': TK*/*UPL/KW-BG
+'dum!"': TK*/*UPL/SKHRAPL/KR-GS
 'The': KPA/-T
 'Fire-drum': KPA/TPAOEUR/H-PB/TKRUPL
 'and': SKP
@@ -894,7 +894,7 @@ The Golden Treasure
 'drummer': TKRAOURPL
 'followed': TPOLD
 'them.': THEPL/TP-PL
-'"Red-head.': KR-GS/KPA/RED/H-PB/HED/TP-PL
+'"Red-head.': KW-GS/KPA*/RED/H-PB/HED/TP-PL
 'Golden': KPA/TKPWOELD/*EPB
 'treasure!"': TRERB/SKHRAPL/KR-GS
 'The': KPA/-T
@@ -906,7 +906,7 @@ The Golden Treasure
 'fancy': TPAEPBS
 'saw': SAU
 'him': HEUPL
-'"famous;"': KR-GS/TPAEUPLS/STPH*FPLT/KR-GS
+'"famous;"': KW-GS/TPAEUPLS/STPH*FPLT/KR-GS
 'the': -T
 'town': TOUPB
 'musician': PHAOUGS
@@ -929,7 +929,7 @@ The Golden Treasure
 'and': SKP
 'learn': HRERPB
 'music.': PHAOUFBG/TP-PL
-'"Red-head,"': KR-GS/KPA/RED/H-PB/HED/KW-BG/KR-GS
+'"Red-head,"': KW-GS/KPA/RED/H*ED/KW-BG/KR-GS
 'said': SED
 'the': -T
 'soldiers,': SHRERPBLGS/KW-BG
@@ -946,7 +946,7 @@ The Golden Treasure
 'said': SED
 'to': TO
 'another,': TPHOER/KW-BG
-'"Foxey,"': KR-GS/xxx Foxey/KW-BG/KR-GS
+'"Foxey,"': KW-GS/KPA/TPOBGS/KWRAOE/KW-BG/KR-GS
 'he': HE
 'would': WO
 'bite': PWAOEUT
@@ -1017,7 +1017,7 @@ The Golden Treasure
 'The': KPA/-T
 'drum-sticks': TKRUPL/H-PB/STEUBGS
 'sounded,': SOUPBD/-D/KW-BG
-'"Rub-a-dub,': KR-GS/KPA/RUB/H-PB/AEU/H-PB/TKUB/KW-BG
+'"Rub-a-dub,': KW-GS/KPA*/RUB/H-PB/AEU/H-PB/TKUB/KW-BG
 'all': AUL
 'up,': UP/KW-BG
 'all': AUL
@@ -1169,7 +1169,7 @@ The Golden Treasure
 'play': PHRAEU
 'with': W
 'them.': THEPL/TP-PL
-'"March!': KR-GS/PHA*R/SKHRAPL
+'"March!': KW-GS/PHA*R/SKHRAPL
 'Forward!': KPA/TPAORD/SKHRAPL
 'March!"': PHA*R/SKHRAPL/KR-GS
 'This,': KPA/TH/KW-BG
@@ -1213,7 +1213,7 @@ The Golden Treasure
 'last': HRAFT
 'the': -T
 'word': WORD
-'"Retire"': KR-GS/KPA/RAO*EUR/KR-GS
+'"Retire"': KW-GS/KPA*/RAO*EUR/KR-GS
 'was': WAS
 'given;': TKPWEUFPB/STPH*FPLT
 'but': PWUT
@@ -1221,7 +1221,7 @@ The Golden Treasure
 'little': HREUL
 'drummer': TKRAOURPL
 'beat': PWAET
-'"Forward!': KR-GS/KPA/TPAORD/SKHRAPL
+'"Forward!': KW-GS/KPA*/TPAORD/SKHRAPL
 'March!"': PHA*R/SKHRAPL/KR-GS
 'for': TPOR
 'he': HE
@@ -1268,7 +1268,7 @@ The Golden Treasure
 'in': TPH
 'the': -T
 'battle.': PWA*LT/TP-PL
-'Bombshells': xxx Bombshells
+'Bombshells': PW*P/O*/PH*/PW*/S*/H*/*E/HR*/HR*/-S
 'tore': TO*R
 'away': WA*EU
 'the': -T
@@ -1276,7 +1276,7 @@ The Golden Treasure
 'in': TPH
 'red': RED
 'strips;': STREUPS/STPH*FPLT
-'bombshells': xxx bombshells
+'bombshells': PW*/O*/PH*/PW*/S*/H*/*E/HR*/HR*/-S
 'lit': HREUT
 'up': UP
 'into': TPHAO
@@ -1284,7 +1284,7 @@ The Golden Treasure
 'terrible': TERBL
 'glow': TKPWHROE
 'the': -T
-'strawheaps': xxx strawheaps
+'strawheaps': S*/T*/R*/A*/W*/H*/SKWR*E/KWRA/*P/-S
 'to': TO
 'which': WEU
 'the': -T
@@ -1530,7 +1530,7 @@ The Golden Treasure
 'bed,': PWED/KW-BG
 'and': SKP
 'wept.': WEPT/TP-PL
-'"Where': KR-GS/KPA/W-R
+'"Where': KW-GS/KPA*/W-R
 'does': TKOS
 'he': HE
 'rest': REFT
@@ -1686,7 +1686,7 @@ The Golden Treasure
 'a': AEU
 'golden': TKPWOELD/*EPB
 'hair.': HAEUR/TP-PL
-'"Drum-ma-rum!': KR-GS/KPA/TKRUPL/H-PB/PHA/H-PB/RUPL/SKHRAPL
+'"Drum-ma-rum!': KW-GS/KPA*/TKRUPL/H-PB/PHA/H-PB/RUPL/SKHRAPL
 'drum-ma-rum!': TKRUPL/H-PB/PHA/H-PB/RUPL/SKHRAPL
 'there': THR
 'he': HE
@@ -1885,11 +1885,11 @@ The Golden Treasure
 'had': H
 'broken': PWROEPB
 'out': OUT
-'here,"': HAOER/KW-BG/KR-GS
+'here,"': HAOERBGS/KR-GS
 'said': SED
 'the': -T
 'Fire-drum.': KPA/TPAOEUR/H-PB/TKRUPL/TP-PL
-'"Bright': KR-GS/KPA/PWRAOEUT
+'"Bright': KW-GS/KPA*/PWRAOEUT
 'day!': TKAEU/SKHRAPL
 'fire': TPAOEUR
 'in': TPH
@@ -1897,25 +1897,25 @@ The Golden Treasure
 'heart!': HART/SKHRAPL
 'golden': TKPWOELD/*EPB
 'treasure!': TRERB/SKHRAPL
-'skrat!': xxx skrat/SKHRAPL
-'skr-r-at!': xxx skr/H-PB/R*/H-PB/AT/SKHRAPL
-'skr-r-r-r-at!"': xxx skr/H-PB/R*/H-PB/R*/H-PB/R*/H-PB/AT/SKHRAPL/KR-GS
+'skrat!': S*/K*/R*/A*/T*/SKHRAPL
+'skr-r-at!': S*/K*/R*/H-PB/R*/H-PB/AT/SKHRAPL
+'skr-r-r-r-at!"': S*/K*/R*/H-PB/R*/H-PB/R*/H-PB/R*/H-PB/AT/SKHRAPL/KR-GS
 'And': AFPBD
 'what': WHA
 'then?': THEPB/H-F
 'What': KPA/WHA
-'then!—Ask': THEPB/SKHRAPL/EPL/TKA*RB/KPA/SK
+'then!—Ask': THEPB/SKHRAPL/EPL/TKA*RB/KPA*/SK
 'the': -T
 'town': TOUPB
 'musician.': PHAOUGS/TP-PL
-'"Peter's': KR-GS/PAOERT/AES
+'"Peter's': KW-GS/PAOERT/AES
 'far': TPAR
 'outgrowing': AO*UT/TKPWROEG
 'the': -T
 'drum,"': TKRUPL/KW-BG/KR-GS
 'he': HE
 'said.': SED/TP-PL
-'"Peter': KR-GS/PAOERT
+'"Peter': KW-GS/PAOERT
 'will': HR
 'be': -B
 'greater': TKPWRAERT
@@ -2000,7 +2000,7 @@ The Golden Treasure
 'as': AS
 'green': TKPWRAOEPB
 'as': AS
-'duckweed,': xxx duckweed/KW-BG
+'duckweed,': TK*/*U/KR*/K*/W*/SKWR*E/-D/KW-BG
 'and': SKP
 'was': WAS
 'always': AULS
@@ -2033,7 +2033,7 @@ The Golden Treasure
 'even': AOEPB
 'to': TO
 'the': -T
-'burgomaster's': xxx burgomaster/AES
+'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
 'where': W-R
 'he': HE
 'gives': TKPWEUFS
@@ -2109,7 +2109,7 @@ The Golden Treasure
 'be': -B
 'famous!"': TPAEUPLS/SKHRAPL/KR-GS
 'And': AFPBD
-'burgomaster's': xxx burgomaster/AES
+'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
 'Charlotte': KHARL/OT
 'sat': SAT
 'at': AT
@@ -2281,13 +2281,13 @@ The Golden Treasure
 '"To': KW-GS/KPA*/TO
 'be': -B
 'famous!"': TPAEUPLS/SKHRAPL/KR-GS
-'"Tum-me-lum,': KR-GS/xxx Tum/H-PB/PHE/H-PB/xxx lum/KW-BG
-'tum-me-lum,': xxx tum/H-PB/PHE/H-PB/xxx lum/KW-BG
-'tum-me-lum!"': xxx tum/H-PB/PHE/H-PB/xxx lum/SKHRAPL/KR-GS
+'"Tum-me-lum,': KW-GS/T*P/*UPL/H-PB/PHE/H-PB/HR*/*UPL/KW-BG
+'tum-me-lum,': T*/SP-S/*UPL/H-PB/PHE/H-PB/HR*/*UPL/KW-BG
+'tum-me-lum!"': T*/SP-S/*UPL/H-PB/PHE/H-PB/HR*/*UPL/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'Fire-drum.': KPA/TPAOEUR/H-PB/TKRUPL/TP-PL
-'"Peter': KR-GS/PAOERT
+'"Peter': KW-GS/PAOERT
 'has': HAS
 'gone': TKPWOPB
 'clear': KHRAOER
@@ -2329,7 +2329,7 @@ The Golden Treasure
 'piece': PAOES
 'of': -F
 'news.': TPHUS/TP-PL
-'Burgomaster's': xxx Burgomaster/AES
+'Burgomaster's': PW*P/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
 'Charlotte': KHARL/OT
 'has': HAS
 'engaged': EPB/TKPWAEUPBLGD
@@ -2345,7 +2345,7 @@ The Golden Treasure
 'place': PHRAEUS
 'yesterday': KWRED
 'evening."': AOEPBG/TP-PL/KR-GS
-'"No!"': KR-GS/KPA/TPHO/SKHRAPL/KR-GS
+'"No!"': KW-GS/KPA*/TPHO/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'Peter,': PAOERT/KW-BG
 'and': SKP
@@ -2361,7 +2361,7 @@ The Golden Treasure
 'persisted': PER/SEUFTD
 'in': TPH
 'saying': SAEUG
-'"Yes."': KR-GS/KPA/KWRE/TP-PL/KR-GS
+'"Yes."': KW-GS/KPA*/KWR*EFPLT/KR-GS
 'She': KPA/SHE
 'had': H
 'heard': HAERD
@@ -2376,7 +2376,7 @@ The Golden Treasure
 'it': T
 'from': TPR
 'the': -T
-'burgomaster's': xxx burgomaster/AES
+'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
 'own': OEPB
 'mouth.': PHO*UT/TP-PL
 'And': AFPBD
@@ -2400,7 +2400,7 @@ The Golden Treasure
 'asked': SK-D
 'his': HEUS
 'mother.': PHOER/TP-PL
-'"Nothing,': KR-GS/KPA/TPHOG/KW-BG
+'"Nothing,': KW-GS/KPA*/TPHOG/KW-BG
 'nothing;': TPHOG/STPH*FPLT
 'only': OEPBL
 'leave': HREF
@@ -2438,7 +2438,7 @@ The Golden Treasure
 'loud,': HROUD/KW-BG
 'but': PWUT
 'inwardly.': EUPB/WARD/HREU/TP-PL
-'"Charlotte's': KR-GS/KHARL/OT/AES
+'"Charlotte's': KW-GS/KHARL/OT/AES
 'gone!': TKPWOPB/SKHRAPL
 'Charlotte's': KHARL/OT/AES
 'gone!': TKPWOPB/SKHRAPL
@@ -2611,7 +2611,7 @@ The Golden Treasure
 'to': TO
 'see': SAOE
 'it!"': T/SKHRAPL/KR-GS
-'"He's': KR-GS/KPA/HE/AES
+'"He's': KW-GS/KPA*/HAOES
 'grown': TKPWROEPB
 'famous!"': TPAEUPLS/SKHRAPL/KR-GS
 'said': SED
@@ -2674,7 +2674,7 @@ The Golden Treasure
 'kings,"': KEUPBGS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'burgomaster's': xxx burgomaster/AES
+'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
 'wife.': WAOEUF/TP-PL
 '"At': KW-GS/KPA*/AT
 'that': THA

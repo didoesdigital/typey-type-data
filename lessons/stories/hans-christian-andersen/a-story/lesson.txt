@@ -138,7 +138,7 @@ A Story
 'well': WEL
 'have': SR
 'said:': SED/STPH-FPLT
-'"God's': KR-GS/TKPWO*D/AES
+'"God's': KW-GS/TKPWO*D/AES
 'kindness': KEUPBD/-PBS
 'to': TO
 'us': US
@@ -329,7 +329,7 @@ A Story
 'little': HREUL
 'flower': TPHRO*UR
 'said:': SED/STPH-FPLT
-'"God,': KR-GS/TKPWO*D/KW-BG
+'"God,': KW-GS/TKPWO*D/KW-BG
 'Thy': KPA/THAO*EU
 'kindness': KEUPBD/-PBS
 'towards': TORDZ
@@ -380,7 +380,7 @@ A Story
 'matter': PHAERT
 'with': W
 'me': PHE
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'she': SHE
 'said,': SED/KW-BG
 '"that': KW-GS/THA
@@ -514,7 +514,7 @@ A Story
 'the': -T
 'pastor's': PAS/TOR/AES
 'wife.': WAOEUF/TP-PL
-'..."If': TP-PL/TP-PL/TP-PL/KR-GS/KPA/TP
+'..."If': HR-PS/KR-GS/KPA*/TP
 'any': TPHEU
 'one': WUPB
 'shall': SHAL
@@ -719,7 +719,7 @@ A Story
 'answer.': AEPBS/TP-PL
 '"And': KW-GS/AFPBD
 'how?"': HOU/H-F/KR-GS
-'"Give': KR-GS/KPA/TKPWEUF
+'"Give': KW-GS/KPA*/TKPWEUF
 'me': PHE
 'one': WUPB
 'hair—only': HAEUR/EPL/TKA*RB/OEPBL
@@ -751,7 +751,7 @@ A Story
 'punishment': PUPLT
 'in': TPH
 'hell."': HEL/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'one': WUPB
 'ought': OT
 'to': TO
@@ -768,7 +768,7 @@ A Story
 'woman,"': WOPL/KW-BG/KR-GS
 'he': HE
 'said.': SED/TP-PL
-'"Follow': KR-GS/KPA/TPOL
+'"Follow': KW-GS/KPA*/TPOL
 'me,"': PHE/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -870,7 +870,7 @@ A Story
 'bow': PWOE
 'of': -F
 'sin.': SEUPB/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'therein,': THR-PB/KW-BG
 'as': AS
 'I': EU
@@ -935,14 +935,14 @@ A Story
 'near': TPHAOER
 'the': -T
 'entrance.': SPWRAPBS/TP-PL
-'"Our': KR-GS/KPA/OUR
+'"Our': KW-GS/KPA*/OUR
 'ball': PWAUL
 'can': K
 'compare': KPAR
 'favourably': TPAEUF/PWHREU/A*U
 'with': W
 'the': -T
-'king's,"': KEUPBG/AE/S*/KW-BG/KR-GS
+'king's,"': KEUPBG/AES/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
 'and': SKP
@@ -967,7 +967,7 @@ A Story
 'features': TPAOEFPS
 'and': SKP
 'movements:': PHOFPLTS/STPH-FPLT
-'"Miserable': KR-GS/KPA/PHEUZ/-BL
+'"Miserable': KW-GS/KPA*/PHEUZ/-BL
 'beggars,': PWEG/A*RS/KW-BG
 'who': WHO
 'are': R
@@ -980,7 +980,7 @@ A Story
 'comparison': KPAEURPB
 'to': TO
 'me."': PHE/TP-PL/KR-GS
-'"Pride,"': KR-GS/KPA/PRAOEUD/KW-BG/KR-GS
+'"Pride,"': KW-GS/KPA*/PRAOEUD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'dead': TKED
@@ -1192,7 +1192,7 @@ A Story
 'repeated': RE/PAOETD
 'the': -T
 'other.': OER/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'every': EF
 'night': TPHAOEUT
 'he': HE
@@ -1302,7 +1302,7 @@ A Story
 'such': SUFP
 'as': AS
 'sometimes': STAOEUPLS
-'overcomes': AUFR/KOPL/-S
+'overcomes': AUFR/KOPLS
 'me.': PHE/TP-PL
 'I': EU
 'myself': PHAO*EUS
@@ -1428,8 +1428,8 @@ A Story
 'in': TPH
 'the': -T
 'face.': TPAEUS/TP-PL
-'"Wicked': KR-GS/KPA/WEUBGD
-'Matz': xxx Matz
+'"Wicked': KW-GS/KPA*/WEUBGD
+'Matz': PH*P/A*/T*/STKPW*
 'has': HAS
 'become': PW-BG
 'mad': PHAD
@@ -1620,7 +1620,7 @@ A Story
 'the': -T
 'cock': KOBG
 'crowed.': KROE/-D/TP-PL
-'"Father': KR-GS/KPA/TPAER
+'"Father': KW-GS/KPA*/TPAER
 'of': -F
 'all': AUL
 'mercy,': PHER/SEU/KW-BG

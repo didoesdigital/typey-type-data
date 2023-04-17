@@ -18,7 +18,7 @@ Haxe
 'super': SPER
 '();': PREPB/PR*EPB/STPH*FPLT
 'trace(': TRAEUS/PREPB
-'"Hello': KR-GS/KPA/H-L
+'"Hello': KW-GS/KPA*/H-L
 'World!"': KPA/WORLD/SKHRAPL/KR-GS
 ');': PR*EPB/STPH*FPLT
 '}': TPR*BGT

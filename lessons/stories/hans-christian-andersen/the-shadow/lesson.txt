@@ -390,7 +390,7 @@ The Shadow
 'on': OPB
 'the': -T
 'harness,': HARPBS/KW-BG
-'"tingle,': KR-GS/TEUPBG/*L/KW-BG
+'"tingle,': KW-GS/TEUPBG/*L/KW-BG
 'tingle,"': TEUPBG/*L/KW-BG/KR-GS
 'as': AS
 'they': THE
@@ -900,7 +900,7 @@ The Shadow
 'the': -T
 'learned': HRERPBD
 'man;': PHAPB/STPH*FPLT
-'"see': KR-GS/SAOE
+'"see': KW-GS/SAOE
 'how': HOU
 'pleasantly': PHRES/APBT/HREU
 'it': T
@@ -950,7 +950,7 @@ The Shadow
 'said': SED
 'he,': HE/KW-BG
 'jokingly;': SKWROEBG/-G/HREU/STPH*FPLT
-'"be': KR-GS/-B
+'"be': KW-GS/-B
 'so': SO
 'good': TKPWAOD
 'as': AS
@@ -1226,7 +1226,7 @@ The Shadow
 'came.': KAEUPL/TP-PL
 'He': KPA/HE
 'said,': SED/KW-BG
-'"Hem,': KR-GS/KPA/HEPL/KW-BG
+'"Hem,': KW-GS/KPA*/HEPL/KW-BG
 'a-hem;"': AEU/H-PB/HEPL/STPH*FPLT/KR-GS
 'but': PWUT
 'it': T
@@ -1558,13 +1558,13 @@ The Shadow
 'all': AUL
 'this': TH
 'mean?"': PHAOEPB/H-F/KR-GS
-'"Something': KR-GS/KPA/S-G
+'"Something': KW-GS/KPA*/S-G
 'rather': RAER
 'unusual,"': TPHAOURB/KW-BG/KR-GS
 'said': SED
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'you': U
 'are': R
 'yourself': KWRO*URS
@@ -1702,7 +1702,7 @@ The Shadow
 'a': AEU
 'human': HAOUPL
 'being."': -BG/TP-PL/KR-GS
-'"Just': KR-GS/KPA/SKWRUFT
+'"Just': KW-GS/KPA*/SKWRUFT
 'tell': TEL
 'me': PHE
 'what': WHA
@@ -1790,7 +1790,7 @@ The Shadow
 'those': THOZ
 'hot': HOT
 'climates."': KHRAOEUPLTS/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'I': EU
 'will': HR
 'tell': TEL
@@ -1803,7 +1803,7 @@ The Shadow
 'shadow,': SHOEUD/KW-BG
 'sitting': SEUGT
 'down;': TKOUPB/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'then': THEPB
 'you': U
 'must': PHUFT
@@ -1842,7 +1842,7 @@ The Shadow
 'support': SPOR
 'a': AEU
 'family."': TPAEPL/TP-PL/KR-GS
-'"Make': KR-GS/KPA/PHAEUBG
+'"Make': KW-GS/KPA*/PHAEUBG
 'yourself': KWRO*URS
 'quite': KWAOEUT
 'easy,"': EZ/KW-BG/KR-GS
@@ -1873,7 +1873,7 @@ The Shadow
 'man': PHAPB
 'and': SKP
 'man."': PHAPB/TP-PL/KR-GS
-'"Between': KR-GS/KPA/TWAOEPB
+'"Between': KW-GS/KPA*/TWAOEPB
 'man': PHAPB
 'and': SKP
 'a': AEU
@@ -2087,7 +2087,7 @@ The Shadow
 'creature': KRAOEFP
 'in': TPH
 'the': -T
-'world?': WORLD/H-F
+'world?': STPWHORLD
 'It': KPA/T
 'was': WAS
 'poetry.': POEURT/TP-PL
@@ -2129,12 +2129,12 @@ The Shadow
 'and': SKP
 'learnt': HRERPBT
 'everything."': EFRG/TP-PL/KR-GS
-'"Poetry!"': KR-GS/KPA/POEURT/SKHRAPL/KR-GS
+'"Poetry!"': KW-GS/KPA*/POEURT/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
 'learned': HRERPBD
 'man.': PHAPB/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'she': SHE
 'lives': HREUFS
 'as': AS
@@ -2368,7 +2368,7 @@ The Shadow
 'that': THA
 'you': U
 'saw."': SAU/TP-PL/KR-GS
-'"Everything,"': KR-GS/KPA/EFRG/KW-BG/KR-GS
+'"Everything,"': KW-GS/KPA*/EFRG/KW-BG/KR-GS
 'said': SED
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
@@ -2425,7 +2425,7 @@ The Shadow
 'said': SED
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'did': TK
 'not': TPHOT
@@ -2966,7 +2966,7 @@ The Shadow
 'now?"': TPHOU/H-F/KR-GS
 'he': HE
 'asked.': SK-D/TP-PL
-'"Ah!"': KR-GS/KPA/HA*E/SKHRAPL/KR-GS
+'"Ah!"': KW-GS/KPA*/HA*E/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'learned': HRERPBD
@@ -3009,7 +3009,7 @@ The Shadow
 'what': WHA
 'I': EU
 'never': TPHEFR
-'do,"': TKO/KW-BG/KR-GS
+'do,"': TKORBGS/KR-GS
 'said': SED
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
@@ -3685,7 +3685,7 @@ The Shadow
 'grow,"': TKPWROE/KW-BG/KR-GS
 'she': SHE
 'thought;': THAUT/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'know': TPHOE
 'the': -T
@@ -3866,7 +3866,7 @@ The Shadow
 'thought': THAUT
 'the': -T
 'princess;': PREUPB/SES/STPH*FPLT
-'"am': KR-GS/APL
+'"am': KW-GS/APL
 'I': EU
 'really': R-L
 'cured?': KAOURD/H-F
@@ -4164,7 +4164,7 @@ The Shadow
 '"You': KW-GS/KPA*/U
 'cannot': SK-PBT
 'answer': AEPBS
-'that,"': THA/KW-BG/KR-GS
+'that,"': THARBGS/KR-GS
 'said': SED
 'the': -T
 'princess.': PREUPB/SES/TP-PL
@@ -4199,7 +4199,7 @@ The Shadow
 'said': SED
 'the': -T
 'princess;': PREUPB/SES/STPH*FPLT
-'"indeed': KR-GS/TPHAOEPBD
+'"indeed': KW-GS/TPHAOEPBD
 'that': THA
 'would': WO
 'be': -B
@@ -4214,7 +4214,7 @@ The Shadow
 'observed': OEBD
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'am': APL
 'inclined': EUPB/KHRAOEUPBD
@@ -4417,7 +4417,7 @@ The Shadow
 'said': SED
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
-'"not': KR-GS/TPHOT
+'"not': KW-GS/TPHOT
 'even': AOEPB
 'my': PHEU
 'own': OEPB
@@ -4449,7 +4449,7 @@ The Shadow
 'shadow': SHOEUD
 'accompanied': A/K-PD
 'her.': HER/TP-PL
-'"Listen': KR-GS/KPA/HREUFPB
+'"Listen': KW-GS/KPA*/HREUFPB
 'my': PHEU
 'friend,"': TPREPBD/KW-BG/KR-GS
 'said': SED
@@ -4459,7 +4459,7 @@ The Shadow
 'the': -T
 'learned': HRERPBD
 'man;': PHAPB/STPH*FPLT
-'"now': KR-GS/TPHOU
+'"now': KW-GS/TPHOU
 'that': THA
 'I': EU
 'am': APL
@@ -4630,7 +4630,7 @@ The Shadow
 'said': SED
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
-'"be': KR-GS/-B
+'"be': KW-GS/-B
 'reasonable,': R-PBL/KW-BG
 'now,': TPHOURBGS
 'or': OR
@@ -4731,7 +4731,7 @@ The Shadow
 'said': SED
 'the': -T
 'shadow;': SHOEUD/STPH*FPLT
-'"only': KR-GS/OEPBL
+'"only': KW-GS/OEPBL
 'imagine,': PHAPBLG/KW-BG
 'my': PHEU
 'shadow': SHOEUD
@@ -4770,11 +4770,11 @@ The Shadow
 'cried': KRAOEUD
 'the': -T
 'princess;': PREUPB/SES/STPH*FPLT
-'"is': KR-GS/S
+'"is': KW-GS/S
 'he': HE
 'locked': HROBGD
 'up?"': UP/H-F/KR-GS
-'"Oh': KR-GS/KPA/O*ERBGS
+'"Oh': KW-GS/KPA*/O*ERBGS
 'yes,': KWRERBGS
 'certainly;': SERPBL/STPH*FPLT
 'for': TPOR
@@ -4863,7 +4863,7 @@ The Shadow
 'pretended': PRE/TEPBD/-D
 'to': TO
 'sigh.': SAOEU/TP-PL
-'"Yours': KR-GS/KPA/KWROURS
+'"Yours': KW-GS/KPA*/KWROURS
 'is': S
 'a': AEU
 'noble': TPHOEBL
@@ -4887,7 +4887,7 @@ The Shadow
 'and': SKP
 'cannons': KAPB/TPHOPB/-S
 'fired': TPAOEURD
-'"boom,"': KR-GS/PWAOPL/KW-BG/KR-GS
+'"boom,"': KW-GS/PWAOPL/KW-BG/KR-GS
 'and': SKP
 'the': -T
 'soldiers': SHRERPBLGS

@@ -140,14 +140,14 @@ The Blue Light
 'he': HE
 'to': TO
 'her,': HER/KW-BG
-''or': AE/OR
+''or': A*E/OR
 'I': EU
 'shall': SHAL
 'starve.'': STAFRB/TP-PL/AE
-''Oho!'': AE/xxx Oho/SKHRAPL/AE
+''Oho!'': A*E/KPA/O*ERBGS/KWRO/SKHRAPL/AE
 'she': SHE
 'answered,': AEPBS/-D/KW-BG
-''who': AE/WHO
+''who': A*E/WHO
 'gives': TKPWEUFS
 'anything': TPHEUG
 'to': TO
@@ -214,7 +214,7 @@ The Blue Light
 'said': SED
 'the': -T
 'witch,': WEUFP/KW-BG
-''that': AE/THA
+''that': A*E/THA
 'you': U
 'can': K
 'do': TKO
@@ -269,7 +269,7 @@ The Blue Light
 'one': WUPB
 'night': TPHAOEUT
 'more.': PHOR/TP-PL
-''Tomorrow,': AE/KPA/TORPL/KW-BG
+''Tomorrow,': A*E/KPA*/TORPL/KW-BG
 'you': U
 'shall': SHAL
 'only': OEPBL
@@ -369,7 +369,7 @@ The Blue Light
 'away': WA*EU
 'from': TPR
 'him.': HEUPL/TP-PL
-''No,'': AE/KPA/TPHO/KW-BG/AE
+''No,'': A*E/KPA*/TPHO/KW-BG/AE
 'said': SED
 'he,': HE/KW-BG
 'perceiving': PER/SAOEFG
@@ -468,7 +468,7 @@ The Blue Light
 'still': STEUL
 'half': HAF
 'full.': TPUL/TP-PL
-''This': AE/KPA/TH
+''This': A*E/KPA*/TH
 'shall': SHAL
 'be': -B
 'my': PHEU
@@ -507,7 +507,7 @@ The Blue Light
 'him,': HEUPL/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-''Lord,': AE/HRO*RD/KW-BG
+''Lord,': A*E/HRO*RD/KW-BG
 'what': WHA
 'are': R
 'your': KWROUR
@@ -532,11 +532,11 @@ The Blue Light
 'the': -T
 'little': HREUL
 'man.': PHAPB/TP-PL
-''Good,'': AE/KPA/TKPWAOD/KW-BG/AE
+''Good,'': A*E/KPA*/TKPWAOD/KW-BG/AE
 'said': SED
 'the': -T
 'soldier;': SHRERPBLG/STPH*FPLT
-''then': AE/THEPB
+''then': A*E/THEPB
 'in': TPH
 'the': -T
 'first': TPEUFRT
@@ -658,7 +658,7 @@ The Blue Light
 'done,'': TKOPB/KW-BG/AE
 'said': SED
 'he,': HE/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'the': -T
 'witch': WEUFP
 'is': S
@@ -676,14 +676,14 @@ The Blue Light
 'inquired': EUPB/KWAOEURD
 'the': -T
 'dwarf.': TKWAFR/TP-PL
-''At': AE/KPA/AT
+''At': A*E/KPA*/AT
 'this': TH
 'moment,': PHOEPLT/KW-BG
 'none,'': TPHOPB/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
 'soldier;': SHRERPBLG/STPH*FPLT
-''you': AE/U
+''you': A*E/U
 'can': K
 'return': RURPB
 'home,': HOEPL/KW-BG
@@ -696,7 +696,7 @@ The Blue Light
 'I': EU
 'summon': SPHOPB
 'you.'': U/TP-PL/AE
-''Nothing': AE/KPA/TPHOG
+''Nothing': A*E/KPA*/TPHOG
 'more': PHOR
 'is': S
 'needed': TPHAOETD
@@ -775,7 +775,7 @@ The Blue Light
 'the': -T
 'little': HREUL
 'black': PWHRABG
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'and': SKP
 'said:': SED/STPH-FPLT
 ''I': A*E/EU
@@ -811,7 +811,7 @@ The Blue Light
 'the': -T
 'little': HREUL
 'man.': PHAPB/TP-PL
-''Late': AE/KPA/HRAEUT
+''Late': A*E/KPA*/HRAEUT
 'at': AT
 'night,': TPHAOEUT/KW-BG
 'when': WHEPB
@@ -835,7 +835,7 @@ The Blue Light
 'for': TPOR
 'me.'': PHE/TP-PL/AE
 'The': KPA/-T
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'said:': SED/STPH-FPLT
 ''That': A*E/KPA*/THA
 'is': S
@@ -873,19 +873,19 @@ The Blue Light
 'open,': OEP/KW-BG
 'and': SKP
 'the': -T
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'carried': KAERD
 'in': TPH
 'the': -T
 'princess.': PREUPB/SES/TP-PL
-''Aha!': AE/xxx Aha/SKHRAPL
+''Aha!': A*E/KPA/HA*E/KWRA/SKHRAPL
 'are': R
 'you': U
 'there?'': THR/H-F/AE
 'cried': KRAOEUD
 'the': -T
 'soldier,': SHRERPBLG/KW-BG
-''get': AE/TKPWET
+''get': A*E/TKPWET
 'to': TO
 'your': KWROUR
 'work': WORBG
@@ -920,7 +920,7 @@ The Blue Light
 'feet': TPAOET
 'and': SKP
 'said:': SED/STPH-FPLT
-''Pull': AE/KPA/PUL
+''Pull': A*E/KPA*/PUL
 'off': OF
 'my': PHEU
 'boots,'': PWAOTS/KW-BG/AE
@@ -964,7 +964,7 @@ The Blue Light
 'cock': KOBG
 'crowed,': KROE/-D/KW-BG
 'the': -T
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'carried': KAERD
 'her': HER
 'back': PWABG
@@ -1013,7 +1013,7 @@ The Blue Light
 'lightning,'': HRAOEUT/TPHEUPBG/KW-BG/AE
 'said': SED
 'she,': SHE/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'taken': TAEPB
 'into': TPHAO
 'a': AEU
@@ -1061,7 +1061,7 @@ The Blue Light
 'had': H
 'done': TKOPB
 'everything.'': EFRG/TP-PL/AE
-''The': AE/KPA/-T
+''The': A*E/KPA*/-T
 'dream': TKRAOEPL
 'may': PHAE
 'have': SR
@@ -1117,7 +1117,7 @@ The Blue Light
 'the': -T
 'king,': KEUPBG/KW-BG
 'the': -T
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'was': WAS
 'standing': STAPBG
 'beside': PWE/SAOEUD
@@ -1158,7 +1158,7 @@ The Blue Light
 'for': TPOR
 'the': -T
 'crafty': KRAF/TEU
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'had': H
 'just': SKWRUFT
 'before': PW-FR
@@ -1228,7 +1228,7 @@ The Blue Light
 'said': SED
 'the': -T
 'king;': KEUPBG/STPH*FPLT
-''keep': AE/KAOEP
+''keep': A*E/KAOEP
 'your': KWROUR
 'shoes': SHAOUS
 'on': OPB
@@ -1263,7 +1263,7 @@ The Blue Light
 'it.'': T/TP-PL/AE
 'The': KPA/-T
 'black': PWHRABG
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'heard': HAERD
 'this': TH
 'plot,': PHROT/KW-BG
@@ -1366,7 +1366,7 @@ The Blue Light
 'found': TPOUPBD
 'at': AT
 'the': -T
-'soldier's,': SHRERPBLG/AE/S*/KW-BG
+'soldier's,': SHRERPBLG/AES/KW-BG
 'and': SKP
 'the': -T
 'soldier': SHRERPBLG
@@ -1459,7 +1459,7 @@ The Blue Light
 'said': SED
 'to': TO
 'him:': HEUPL/STPH-FPLT
-''Be': AE/KPA/-B
+''Be': A*E/KPA*/-B
 'so': SO
 'kind': KEUPBD
 'as': AS
@@ -1512,7 +1512,7 @@ The Blue Light
 'summoned': SPHUPBD
 'the': -T
 'black': PWHRABG
-'manikin.': xxx manikin/TP-PL
+'manikin.': PHAPB/SKWREU/*BG/*EUPB/TP-PL
 ''Have': A*E/KPA*/SR
 'no': TPHO
 'fear,'': TPAOER/KW-BG/AE
@@ -1522,8 +1522,8 @@ The Blue Light
 'to': TO
 'his': HEUS
 'master.': PHAFRT/TP-PL
-''Go': AE/KPA/TKPW
-'wheresoever': xxx wheresoever
+''Go': A*E/KPA*/TKPW
+'wheresoever': W*/H*/*E/R*/*E/S*/O*/*E/SR*/*ER
 'they': THE
 'take': TAEUBG
 'you,': U/KW-BG
@@ -1598,7 +1598,7 @@ The Blue Light
 'answered': AEPBS/-D
 'the': -T
 'king,': KEUPBG/KW-BG
-''but': AE/PWUT
+''but': A*E/PWUT
 'do': TKO
 'not': TPHOT
 'imagine': PHAPBLG
@@ -1634,13 +1634,13 @@ The Blue Light
 'had': H
 'ascended,': A/SEPBD/-D/KW-BG
 'the': -T
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'was': WAS
 'there': THR
 'with': W
 'a': AEU
 'small': SPHAL
-'cudgel': xxx cudgel
+'cudgel': KR*/*U/TK*/TKPW*/*E/HR*
 'in': TPH
 'his': HEUS
 'hand,': HAPBD/KW-BG
@@ -1651,7 +1651,7 @@ The Blue Light
 'my': PHEU
 'lord': HRORD
 'command?'': KPHAPBD/H-F/AE
-''Strike': AE/KPA/STRAOEUBG
+''Strike': A*E/KPA*/STRAOEUBG
 'down': TKOUPB
 'to': TO
 'earth': *ERT
@@ -1675,7 +1675,7 @@ The Blue Light
 'ill.'': EUL/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
-'manikin': xxx manikin
+'manikin': PHAPB/SKWREU/*BG/*EUPB
 'fell': TPEL
 'on': OPB
 'them': THEPL
@@ -1696,7 +1696,7 @@ The Blue Light
 'touched': TUFPD
 'by': PWEU
 'his': HEUS
-'cudgel': xxx cudgel
+'cudgel': KR*/*U/TK*/TKPW*/*E/HR*
 'fell': TPEL
 'to': TO
 'earth,': *ERT/KW-BG

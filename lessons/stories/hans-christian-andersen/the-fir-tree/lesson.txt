@@ -147,7 +147,7 @@ The Fir Tree
 'grew,': TKPWRAOU/KW-BG
 'it': T
 'complained,': KPHRAEUPBD/KW-BG
-'"Oh!': KR-GS/KPA/O*ERBGS/SKHRAPL
+'"Oh!': KW-GS/KPA*/O*ERBGS/SKHRAPL
 'how': HOU
 'I': EU
 'wish': WEURB
@@ -173,7 +173,7 @@ The Fir Tree
 'my': PHEU
 'top': TOP
 'would': WO
-'over-look': O*EFR/SKWRAOBG
+'over-look': OEFR/HRAO*BG
 'the': -T
 'wide': WAOEUD
 'world.': WORLD/TP-PL
@@ -358,7 +358,7 @@ The Fir Tree
 'the': -T
 'branches': PWRAFRPBS
 'were': WR
-'lopped': HROP/-D
+'lopped': HROP/P-D
 'off,': OF/KW-BG
 'the': -T
 'trunks': TRUPB/-BGS
@@ -387,7 +387,7 @@ The Fir Tree
 'of': -F
 'the': -T
 'forest.': TPOEFRT/TP-PL
-'"Where': KR-GS/KPA/W-R
+'"Where': KW-GS/KPA*/W-R
 'were': WR
 'they': THE
 'going?': TKPW-G/H-F
@@ -445,7 +445,7 @@ The Fir Tree
 'head,': HED/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'I': EU
 'think': THEU
 'I': EU
@@ -525,14 +525,14 @@ The Fir Tree
 'flying': TPHRAOEUG
 'quickly': KWEULG
 'away.': WA*EU/TP-PL
-'"Rejoice': KR-GS/KPA/RE/SKWROEUS
+'"Rejoice': KW-GS/KPA*/RE/SKWROEUS
 'in': TPH
 'thy': THAO*EU
 'youth,"': KWRAO*UT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'sunbeam;': SUPB/PWAOEPL/STPH*FPLT
-'"rejoice': KR-GS/RE/SKWROEUS
+'"rejoice': KW-GS/RE/SKWROEUS
 'in': TPH
 'thy': THAO*EU
 'fresh': TPRERB
@@ -621,7 +621,7 @@ The Fir Tree
 'of': -F
 'the': -T
 'forest.': TPOEFRT/TP-PL
-'"Where': KR-GS/KPA/W-R
+'"Where': KW-GS/KPA*/W-R
 'are': R
 'they': THE
 'going?"': TKPW-G/H-F/KR-GS
@@ -742,7 +742,7 @@ The Fir Tree
 'said': SED
 'the': -T
 'sparrows;': SPAEUR/ROE/-S/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'this': TH
 'was': WAS
 'enough': TPHUF
@@ -865,7 +865,7 @@ The Fir Tree
 'how': HOU
 'I': EU
 'feel."': TPAOEL/TP-PL/KR-GS
-'"Rejoice': KR-GS/KPA/RE/SKWROEUS
+'"Rejoice': KW-GS/KPA*/RE/SKWROEUS
 'with': W
 'us,"': US/KW-BG/KR-GS
 'said': SED
@@ -874,7 +874,7 @@ The Fir Tree
 'and': SKP
 'the': -T
 'sunlight.': SULGT/TP-PL
-'"Enjoy': KR-GS/KPA/TPHOEUPBLG
+'"Enjoy': KW-GS/KPA*/TPHOEUPBLG
 'thine': THAOEUPB
 'own': OEPB
 'bright': PWRAOEUT
@@ -1184,7 +1184,7 @@ The Fir Tree
 'was': WAS
 'filled': TPEULD
 'with': W
-'sweetmeats;': xxx sweetmeats/STPH*FPLT
+'sweetmeats;': S*/W*/*E/*E/T*/PH*/*E/A*/T*/-S/STPH*FPLT
 'from': TPR
 'other': OER
 'branches': PWRAFRPBS
@@ -1392,7 +1392,7 @@ The Fir Tree
 'some': SOPL
 'of': -F
 'them.': THEPL/TP-PL
-'"Help!': KR-GS/KPA/HEP/SKHRAPL
+'"Help!': KW-GS/KPA*/HEP/SKHRAPL
 'help!"': HEP/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
@@ -1661,7 +1661,7 @@ The Fir Tree
 'shall': SHAL
 'it': T
 'be?': -B/H-F
-'Ivede-Avede,': xxx Ivede/H-PB/xxx Avede/KW-BG
+'Ivede-Avede,': *EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/KW-BG
 'or': OR
 'Humpty': KPA/H*UPLT/KWREU
 'Dumpty,': KPA/TK*UPLT/KWREU/KW-BG
@@ -1680,10 +1680,10 @@ The Fir Tree
 'married': PHAERD
 'a': AEU
 'princess."': PREUPB/SES/TP-PL/KR-GS
-'"Ivede-Avede,"': KR-GS/xxx Ivede/H-PB/xxx Avede/KW-BG/KR-GS
+'"Ivede-Avede,"': KW-GS/*EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/KW-BG/KR-GS
 'cried': KRAOEUD
 'some.': SOPL/TP-PL
-'"Humpty': KR-GS/KPA/H*UPLT/KWREU
+'"Humpty': KW-GS/KPA*/H*UPLT/KWREU
 'Dumpty,"': KPA/TK*UPLT/KWREU/KW-BG/KR-GS
 'cried': KRAOEUD
 'others,': OERS/KW-BG
@@ -1759,7 +1759,7 @@ The Fir Tree
 'hands': HAPBDZ
 'and': SKP
 'cried,': KRAOEUD/KW-BG
-'"Tell': KR-GS/KPA/TEL
+'"Tell': KW-GS/KPA*/TEL
 'another,': TPHOER/KW-BG
 'tell': TEL
 'another,"': TPHOER/KW-BG/KR-GS
@@ -1771,12 +1771,12 @@ The Fir Tree
 'the': -T
 'story': STOER
 'of': -F
-'"Ivede-Avede;"': KR-GS/xxx Ivede/H-PB/xxx Avede/STPH*FPLT/KR-GS
+'"Ivede-Avede;"': KW-GS/*EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/STPH*FPLT/KR-GS
 'but': PWUT
 'they': THE
 'only': OEPBL
 'had': H
-'"Humpty': KR-GS/KPA/H*UPLT/KWREU
+'"Humpty': KW-GS/KPA*/H*UPLT/KWREU
 'Dumpty."': KPA/TK*UPLT/KWREU/TP-PL/KR-GS
 'After': KPA/AF
 'this': TH
@@ -1798,7 +1798,7 @@ The Fir Tree
 'such': SUFP
 'tales': TAELS
 'as': AS
-'"Humpty': KR-GS/KPA/H*UPLT/KWREU
+'"Humpty': KW-GS/KPA*/H*UPLT/KWREU
 'Dumpty,"': KPA/TK*UPLT/KWREU/KW-BG/KR-GS
 'who': WHO
 'fell': TPEL
@@ -1809,7 +1809,7 @@ The Fir Tree
 'married': PHAERD
 'a': AEU
 'princess.': PREUPB/SES/TP-PL
-'"Ah!': KR-GS/KPA/HA*E/SKHRAPL
+'"Ah!': KW-GS/KPA*/HA*E/SKHRAPL
 'yes,': KWRERBGS
 'so': SO
 'it': T
@@ -1833,11 +1833,11 @@ The Fir Tree
 'a': AEU
 'nice': TPHAOEUS
 'man.': PHAPB/TP-PL
-'"Ah!': KR-GS/KPA/HA*E/SKHRAPL
+'"Ah!': KW-GS/KPA*/HA*E/SKHRAPL
 'well,"': WEL/KW-BG/KR-GS
 'he': HE
 'thought,': THAUT/KW-BG
-'"who': KR-GS/WHO
+'"who': KW-GS/WHO
 'knows?': TPHOEZ/H-F
 'perhaps': PRAPS
 'I': EU
@@ -1871,7 +1871,7 @@ The Fir Tree
 'gold': TKPWOELD
 'and': SKP
 'fruit.': TPRAOUT/TP-PL
-'"To-morrow': KR-GS/KPA/TO/H-PB/HRO*ER/PHOR/ROE
+'"To-morrow': KW-GS/KPA*/TO/H-PB/HRO*ER/PHOR/ROE
 'I': EU
 'will': HR
 'not': TPHOT
@@ -1896,7 +1896,7 @@ The Fir Tree
 'again,': STKPWERPBGS
 'and': SKP
 'perhaps': PRAPS
-'Ivede-Avede."': xxx Ivede/H-PB/xxx Avede/TP-PL/KR-GS
+'Ivede-Avede."': *EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'tree': TRAOE
@@ -1916,11 +1916,11 @@ The Fir Tree
 'housemaid': H*/O*/*U/S*/*E/PH*/A*/*EU/TK*
 'came': KAEUPL
 'in.': TPH/TP-PL
-'"Now,"': KR-GS/KPA/TPHOU/KW-BG/KR-GS
+'"Now,"': KW-GS/KPA*/TPHOU/KW-BG/KR-GS
 'thought': THAUT
 'the': -T
 'fir,': TPEUR/KW-BG
-'"all': KR-GS/AUL
+'"all': KW-GS/AUL
 'my': PHEU
 'splendor': SPHREPBD/O*R
 'is': S
@@ -2135,7 +2135,7 @@ The Fir Tree
 'terrible': TERBL
 'lonely': HROEPBL
 'here."': HAOER/TP-PL/KR-GS
-'"Squeak,': KR-GS/KPA/SKWAOEBG/KW-BG
+'"Squeak,': KW-GS/KPA*/SKWAOEBG/KW-BG
 'squeak,"': SKWAOEBG/KW-BG/KR-GS
 'said': SED
 'a': AEU
@@ -2190,7 +2190,7 @@ The Fir Tree
 'said': SED
 'the': -T
 'fir-tree,': TPEUR/H-PB/TRAOE/KW-BG
-'"there': KR-GS/THR
+'"there': KW-GS/THR
 'are': R
 'many': PHAEPB
 'who': WHO
@@ -2199,7 +2199,7 @@ The Fir Tree
 'than': THAPB
 'I': EU
 'am."': APL/TP-PL/KR-GS
-'"Where': KR-GS/KPA/W-R
+'"Where': KW-GS/KPA*/W-R
 'do': TKO
 'you': U
 'come': KOPL
@@ -2279,7 +2279,7 @@ The Fir Tree
 'said': SED
 'the': -T
 'fir-tree,': TPEUR/H-PB/TRAOE/KW-BG
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'know': TPHOE
 'the': -T
@@ -2338,7 +2338,7 @@ The Fir Tree
 'been': PW-PB
 'very': SRE
 'happy."': HAEP/TP-PL/KR-GS
-'"Happy!"': KR-GS/KPA/HAEP/SKHRAPL/KR-GS
+'"Happy!"': KW-GS/KPA*/HAEP/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
 'fir-tree,': TPEUR/H-PB/TRAOE/KW-BG
@@ -2463,7 +2463,7 @@ The Fir Tree
 'thought': THAUT
 'to': TO
 'himself,': HEUPLS/KW-BG
-'"Those': KR-GS/KPA/THOZ
+'"Those': KW-GS/KPA*/THOZ
 'were': WR
 'happy': HAEP
 'days,': TKAEUS/KW-BG
@@ -2648,7 +2648,7 @@ The Fir Tree
 'said': SED
 'the': -T
 'rats.': RATS/TP-PL
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'you': U
 'know': TPHOE
 'any': TPHEU
@@ -2664,7 +2664,7 @@ The Fir Tree
 'replied': RE/PHRAOEUD
 'the': -T
 'tree.': TRAOE/TP-PL
-'"Many': KR-GS/KPA/PHAEPB
+'"Many': KW-GS/KPA*/PHAEPB
 'thanks': THAPBGS
 'to': TO
 'you': U
@@ -2783,7 +2783,7 @@ The Fir Tree
 'life': HRAOEUF
 'is': S
 'beginning': TKPWEUPB/-G
-'again,"': TKPWEPB/KW-BG/KR-GS
+'again,"': STKPWERPBGS/KR-GS
 'said': SED
 'the': -T
 'tree,': TRAOE/KW-BG
@@ -2847,7 +2847,7 @@ The Fir Tree
 'little': HREUL
 'palings.': P*/A*/HR*/*EU/TPH*/TKPW*/S*/TP-PL
 'The': KPA/-T
-'linden-trees': xxx linden/H-PB/TRAOES
+'linden-trees': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOES
 'were': WR
 'in': TPH
 'blossom;': PWHROFPL/STPH*FPLT
@@ -2859,7 +2859,7 @@ The Fir Tree
 'and': SKP
 'there,': THR-RBGS
 'crying,': KRAOEUG/KW-BG
-'"Twit,': KR-GS/KPA/TWEUT/KW-BG
+'"Twit,': KW-GS/KPA*/TWEUT/KW-BG
 'twit,': TWEUT/KW-BG
 'twit,': TWEUT/KW-BG
 'my': PHEU
@@ -2959,7 +2959,7 @@ The Fir Tree
 'off': OF
 'the': -T
 'tree.': TRAOE/TP-PL
-'"Look': KR-GS/KPA/HRAOBG
+'"Look': KW-GS/KPA*/HRAOBG
 'what': WHA
 'is': S
 'sticking': STEUG
@@ -3036,9 +3036,9 @@ The Fir Tree
 'the': -T
 'story': STOER
 'of': -F
-'"Humpty': KR-GS/KPA/H*UPLT/KWREU
+'"Humpty': KW-GS/KPA*/H*UPLT/KWREU
 'Dumpty."': KPA/TK*UPLT/KWREU/TP-PL/KR-GS
-'"Past!': KR-GS/KPA/PAFT/SKHRAPL
+'"Past!': KW-GS/KPA*/PAFT/SKHRAPL
 'past!"': PAFT/SKHRAPL/KR-GS
 'said': SED
 'the': -T
@@ -3135,12 +3135,12 @@ The Fir Tree
 'it': T
 'and': SKP
 'cried,': KRAOEUD/KW-BG
-'"Pop,': KR-GS/KPA/POP/KW-BG
+'"Pop,': KW-GS/KPA*/POP/KW-BG
 'pop."': POP/TP-PL/KR-GS
 'But': KPA/PWUT
 'at': AT
 'each': AOEFP
-'"pop,"': KR-GS/POP/KW-BG/KR-GS
+'"pop,"': KW-GS/POP/KW-BG/KR-GS
 'which': WEU
 'was': WAS
 'a': AEU
@@ -3163,7 +3163,7 @@ The Fir Tree
 'evening,': AOEPBG/KW-BG
 'and': SKP
 'of': -F
-'"Humpty': KR-GS/KPA/H*UPLT/KWREU
+'"Humpty': KW-GS/KPA*/H*UPLT/KWREU
 'Dumpty,"': KPA/TK*UPLT/KWREU/KW-BG/KR-GS
 'the': -T
 'only': OEPBL

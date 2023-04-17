@@ -35,7 +35,7 @@ The Pen and the Inkstand
 'is': S
 'indeed': TPHAOEPBD
 'wonderful."': WUFL/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'certainly,"': SERPBL/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -396,7 +396,7 @@ The Pen and the Inkstand
 'out': OUT
 'of': -F
 'me."': PHE/TP-PL/KR-GS
-'"Inkpot!"': KR-GS/xxx Inkpot/SKHRAPL/KR-GS
+'"Inkpot!"': KW-GS/*EUP/TPH*/K*/P*/O*/T*/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
 'pen': PEPB
@@ -730,7 +730,7 @@ The Pen and the Inkstand
 'had': H
 'written': WREUPB
 'down?"': TKOUPB/H-F/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'what': WHA
 'I': EU
 'gave': TKPWAEUF
@@ -777,11 +777,11 @@ The Pen and the Inkstand
 'my': PHEU
 'own': OEPB
 'satire."': SA/TAOEUR/TP-PL/KR-GS
-'"Ink-pitcher!"': KR-GS/KPA/*EUPBG/H-PB/PEUFRP/SKHRAPL/KR-GS
+'"Ink-pitcher!"': KW-GS/KPA*/*EUPBG/H-PB/PEUFRP/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
 'pen.': PEPB/TP-PL
-'"Writing-stick!"': KR-GS/KPA/WREUG/H-PB/STEUBG/SKHRAPL/KR-GS
+'"Writing-stick!"': KW-GS/KPA*/WREUG/H-PB/STEUBG/SKHRAPL/KR-GS
 'retorted': RE/TORT/-D
 'the': -T
 'inkstand.': *EUPBG/STA*PBD/TP-PL

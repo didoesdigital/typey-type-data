@@ -494,7 +494,7 @@ Blue Beard
 'for': TPOR
 'by': PWEU
 'the': -T
-'newmarried': xxx newmarried
+'newmarried': TPH*/*E/W*/PH*/A*/R*/R*/SKWREU/-D
 'lady,': HRA*ED/KW-BG
 'so': SO
 'great': TKPWRAET
@@ -1025,10 +1025,10 @@ Blue Beard
 'what': WHA
 'had': H
 'happened.': HAPD/TP-PL
-'"What,"': KR-GS/KPA/WHA/KW-BG/KR-GS
+'"What,"': KW-GS/KPA*/WHA/KW-BG/KR-GS
 'said': SED
 'he,': HE/KW-BG
-'"is': KR-GS/S
+'"is': KW-GS/S
 'not': TPHOT
 'the': -T
 'key': KAOE
@@ -1043,14 +1043,14 @@ Blue Beard
 'certainly,"': SERPBL/KW-BG/KR-GS
 'answered': AEPBS/-D
 'she,': SHE/KW-BG
-'"have': KR-GS/SR
+'"have': KW-GS/SR
 'left': HREFT
 'it': T
 'above': PWOF
 'upon': POPB
 'the': -T
 'table."': TAEUBL/TP-PL/KR-GS
-'"Fail': KR-GS/KPA/TPAEUL
+'"Fail': KW-GS/KPA*/TPAEUL
 'not,"': TPHOT/KW-BG/KR-GS
 'said': SED
 'Blue': KPA/PWHRU
@@ -1213,7 +1213,7 @@ Blue Beard
 'bathed': PWA*T/-D
 'in': TPH
 'tears,': TAERS/KW-BG
-'"give': KR-GS/TKPWEUF
+'"give': KW-GS/TKPWEUF
 'me': PHE
 'some': SOPL
 'little': HREUL
@@ -1228,7 +1228,7 @@ Blue Beard
 'replied': RE/PHRAOEUD
 'Blue': KPA/PWHRU
 'Beard,': KPA/PWAERD/KW-BG
-'"half': KR-GS/HAF
+'"half': KW-GS/HAF
 'a': AEU
 'quarter': KWAR/TER
 'of': -F
@@ -1258,14 +1258,14 @@ Blue Beard
 'said': SED
 'to': TO
 'her:': HER/STPH-FPLT
-'"Sister': KR-GS/KPA/ST-R
+'"Sister': KW-GS/KPA*/ST-R
 'Anne"': A*EPB/KR-GS
 '(for': PREPB/TPOR
 'that': THA
 'was': WAS
 'her': HER
 'name),': TPHAEUPL/PR*EPB/KW-BG
-'"go': KR-GS/TKPW
+'"go': KW-GS/TKPW
 'up': UP
 'I': EU
 'beg': PWEG
@@ -1326,7 +1326,7 @@ Blue Beard
 'time': TAOEUPL
 'to': TO
 'time,': TAOEUPL/KW-BG
-'"Anne,': KR-GS/A*EPB/KW-BG
+'"Anne,': KW-GS/A*EPB/KW-BG
 'sister': ST-R
 'Anne,': A*EPB/KW-BG
 'do': TKO
@@ -1363,7 +1363,7 @@ Blue Beard
 'holding': HOELGD
 'a': AEU
 'great': TKPWRAET
-'scimitar': xxx scimitar
+'scimitar': S*/KR*/*EU/PH*/*EU/T*/A*R
 'in': TPH
 'his': HEUS
 'hand,': HAPBD/KW-BG
@@ -1404,7 +1404,7 @@ Blue Beard
 'out': OUT
 'very': SRE
 'softly:': SOFT/HREU/STPH-FPLT
-'"Anne,': KR-GS/A*EPB/KW-BG
+'"Anne,': KW-GS/A*EPB/KW-BG
 'sister': ST-R
 'Anne,': A*EPB/KW-BG
 'dost': TK*/O*/S*/T*
@@ -1455,7 +1455,7 @@ Blue Beard
 'then': THEPB
 'she': SHE
 'cried:': KRAOEUD/STPH-FPLT
-'"Anne,': KR-GS/A*EPB/KW-BG
+'"Anne,': KW-GS/A*EPB/KW-BG
 'sister': ST-R
 'Anne,': A*EPB/KW-BG
 'dost': TK*/O*/S*/T*
@@ -1469,7 +1469,7 @@ Blue Beard
 'replied': RE/PHRAOEUD
 'sister': ST-R
 'Anne,': A*EPB/KW-BG
-'"a': KR-GS/AEU
+'"a': KW-GS/AEU
 'great': TKPWRAET
 'dust': TKUFT
 'that': THA
@@ -1480,7 +1480,7 @@ Blue Beard
 'they': THE
 'my': PHEU
 'brothers?"': PWROERS/H-F/KR-GS
-'"Alas!': KR-GS/KPA/A/HRAS/SKHRAPL
+'"Alas!': KW-GS/KPA*/A/HRAS/SKHRAPL
 'no,': TPHORBGS
 'my': PHEU
 'dear': TKAER
@@ -1510,7 +1510,7 @@ Blue Beard
 'she': SHE
 'cried': KRAOEUD
 'out:': OUT/STPH-FPLT
-'"Anne,': KR-GS/A*EPB/KW-BG
+'"Anne,': KW-GS/A*EPB/KW-BG
 'sister': ST-R
 'Anne,': A*EPB/KW-BG
 'dost': TK*/O*/S*/T*
@@ -1522,7 +1522,7 @@ Blue Beard
 'see,"': SAOERBGS/KR-GS
 'said': SED
 'she,': SHE/KW-BG
-'"two': KR-GS/TWO
+'"two': KW-GS/TWO
 'horsemen': HORS/PH*EPB
 'coming,': KO*G/KW-BG
 'but': PWUT
@@ -1533,13 +1533,13 @@ Blue Beard
 'great': TKPWRAET
 'way': WAEU
 'off."': OF/TP-PL/KR-GS
-'"God': KR-GS/TKPWO*D
+'"God': KW-GS/TKPWO*D
 'be': -B
 'praised,"': PRA*EUFD/KW-BG/KR-GS
 'she': SHE
 'cried': KRAOEUD
 'presently,': PREPBLT/KW-BG
-'"they': KR-GS/THE
+'"they': KW-GS/THE
 'are': R
 'my': PHEU
 'brothers;': PWROERS/STPH*FPLT
@@ -1592,13 +1592,13 @@ Blue Beard
 'about': PW
 'her': HER
 'shoulders.': SHOURLDZ/TP-PL
-'"Nought': KR-GS/KPA/TPHAUT/A*U
+'"Nought': KW-GS/KPA*/TPHAUT/A*U
 'will': HR
 'avail,"': A/SRAEUL/KW-BG/KR-GS
 'said': SED
 'Blue': KPA/PWHRU
 'Beard,': KPA/PWAERD/KW-BG
-'"you': KR-GS/U
+'"you': KW-GS/U
 'must': PHUFT
 'die";': TKAOEU/KR-GS/STPH*FPLT
 'then,': THEPB/KW-BG
@@ -1614,7 +1614,7 @@ Blue Beard
 'lifting': HREUFT/-G
 'up': UP
 'his': HEUS
-'scimitar': xxx scimitar
+'scimitar': S*/KR*/*EU/PH*/*EU/T*/A*R
 'with': W
 'the': -T
 'other,': OER/KW-BG
@@ -1655,7 +1655,7 @@ Blue Beard
 'no,"': TPHORBGS/KR-GS
 'said': SED
 'he,': HE/KW-BG
-'"recommend': KR-GS/REPL
+'"recommend': KW-GS/REPL
 'thyself': THAOEU/SEFL
 'to': TO
 'God,"': TKPWO*D/KW-BG/KR-GS
@@ -1713,11 +1713,11 @@ Blue Beard
 'brothers,': PWROERS/KW-BG
 'one': WUPB
 'a': AEU
-'dragoon,': xxx dragoon/KW-BG
+'dragoon,': TKRAG/SKWRAO/*PB/KW-BG
 'the': -T
 'other': OER
 'a': AEU
-'musqueteer;': xxx musqueteer/STPH*FPLT
+'musqueteer;': PH*/*U/S*/KW*/SKWRU/ET/SKWR*E/*ER/STPH*FPLT
 'so': SO
 'that': THA
 'he': HE

@@ -153,7 +153,7 @@ The Elf of the Rose
 'leaf': HRAOEF
 'of': -F
 'a': AEU
-'linden-tree.': xxx linden/H-PB/TRAOE/TP-PL
+'linden-tree.': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE/TP-PL
 'What': KPA/WHA
 'we': WE
 'call': KAUL
@@ -324,7 +324,7 @@ The Elf of the Rose
 'flew': TPHRAOU
 'thither;': TH*EURT/STPH*FPLT
 'but': PWUT
-'"hush!"': KR-GS/HURB/SKHRAPL/KR-GS
+'"hush!"': KW-GS/HURB/SKHRAPL/KR-GS
 'two': TWO
 'people': PAOEPL
 'were': WR
@@ -377,7 +377,7 @@ The Elf of the Rose
 'the': -T
 'young': KWRUPBG
 'man;': PHAPB/STPH*FPLT
-'"your': KR-GS/KWROUR
+'"your': KW-GS/KWROUR
 'brother': PWROER
 'does': TKOS
 'not': TPHOT
@@ -462,7 +462,7 @@ The Elf of the Rose
 'hear': HAER
 'them': THEPL
 'say,': SAEU/KW-BG
-'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'"Farewell,': KW-GS/KPA*/TPAER/WEL/KW-BG
 'farewell;"': TPAER/WEL/STPH*FPLT/KR-GS
 'and': SKP
 'he': HE
@@ -553,7 +553,7 @@ The Elf of the Rose
 'heat': HAOET
 'of': -F
 'the': -T
-'noonday': xxx noonday
+'noonday': TPHO/KWRO/*PBD/KWRA*E
 'sun.': SUPB/TP-PL
 'There': KPA/THR
 'came': KAEUPL
@@ -612,7 +612,7 @@ The Elf of the Rose
 'earth': *ERT
 'under': TPH-PB
 'the': -T
-'linden-tree.': xxx linden/H-PB/TRAOE/TP-PL
+'linden-tree.': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE/TP-PL
 '"Now': KW-GS/KPA*/TPHOU
 'he': HE
 'is': S
@@ -626,7 +626,7 @@ The Elf of the Rose
 'the': -T
 'wicked': WEUBGD
 'brother;': PWROER/STPH*FPLT
-'"he': KR-GS/HE
+'"he': KW-GS/HE
 'will': HR
 'never': TPHEFR
 'come': KOPL
@@ -716,7 +716,7 @@ The Elf of the Rose
 'a': AEU
 'dry': TKRAOEU
 'rolled-up': ROLD/SKWR*UP
-'linden-leaf,': xxx linden/H-PB/HRAOEF/KW-BG
+'linden-leaf,': HR*/SKWREU/*PBD/*EPB/H-PB/HRAOEF/KW-BG
 'which': WEU
 'had': H
 'fallen': TPAUPBL
@@ -732,7 +732,7 @@ The Elf of the Rose
 'as': AS
 'he': HE
 'was': WAS
-'digging': TKEUG/-G
+'digging': TK*/*EU/TKPW*/TKPW*/-G
 'the': -T
 'grave.': TKPWRAEUF/TP-PL
 'The': KPA/-T
@@ -833,7 +833,7 @@ The Elf of the Rose
 'hair': HAEUR
 'upon': POPB
 'the': -T
-'counterpane;': xxx counterpane/STPH*FPLT
+'counterpane;': KOUFRPBT/PAEPB/STPH*FPLT
 'but': PWUT
 'he': HE
 'did': TK
@@ -900,7 +900,7 @@ The Elf of the Rose
 'her': HER
 'of': -F
 'the': -T
-'linden-tree,': xxx linden/H-PB/TRAOE/KW-BG
+'linden-tree,': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE/KW-BG
 'in': TPH
 'full': TPUL
 'blossom,': PWHROFPL/KW-BG
@@ -925,7 +925,7 @@ The Elf of the Rose
 'you,"': U/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
-'"you': KR-GS/U
+'"you': KW-GS/U
 'will': HR
 'find': TPAOEUPBD
 'on': OPB
@@ -1071,7 +1071,7 @@ The Elf of the Rose
 'spot': SPOT
 'where': W-R
 'the': -T
-'linden-tree': xxx linden/H-PB/TRAOE
+'linden-tree': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE
 'stood;': STAOD/STPH*FPLT
 'and': SKP
 'after': AF
@@ -1231,7 +1231,7 @@ The Elf of the Rose
 'jasmine': SKWRAS/PHEUPB
 'in': TPH
 'it.': T/TP-PL
-'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'"Farewell,': KW-GS/KPA*/TPAER/WEL/KW-BG
 'farewell,"': TPAER/WEL/KW-BG/KR-GS
 'whispered': WHEUS/PERD
 'the': -T
@@ -1279,7 +1279,7 @@ The Elf of the Rose
 'hedge': HEPBLG
 'behind': HEUPBD
 'it.': T/TP-PL
-'"Alas!': KR-GS/KPA/A/HRAS/SKHRAPL
+'"Alas!': KW-GS/KPA*/A/HRAS/SKHRAPL
 'how': HOU
 'soon': SAOPB
 'all': AUL
@@ -1948,7 +1948,7 @@ The Elf of the Rose
 'the': -T
 'queen': KWAOEPB
 'bee': PWAOE
-'hummed': HUPL/-D
+'hummed': H*/*U/PH*/PH*/-D
 'in': TPH
 'the': -T
 'air,': AEUR/KW-BG

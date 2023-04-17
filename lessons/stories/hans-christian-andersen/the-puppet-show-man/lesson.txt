@@ -128,7 +128,7 @@ The Puppet-Show Man
 'representation,"': REPGS/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
-'"in': KR-GS/TPH
+'"in': KW-GS/TPH
 'the': -T
 'hall': HAUL
 'of': -F
@@ -139,7 +139,7 @@ The Puppet-Show Man
 'little': HREUL
 'town': TOUPB
 'of': -F
-'Slagelse;': xxx Slagelse/STPH*FPLT
+'Slagelse;': S*P/HR*/A*/TKPW*/*E/HR*/-S/SKWR*E/STPH*FPLT
 'there': THR
 'was': WAS
 'a': AEU
@@ -159,7 +159,7 @@ The Puppet-Show Man
 'in': TPH
 'black,': PWHRARBGS
 'of': -F
-'student-like': STAUPB/SKWRAOEUBG
+'student-like': STAUPB/SKWRAO*EUBG
 'appearance,': PAOERPBS/KW-BG
 'entered': SPWR-D
 'the': -T
@@ -598,7 +598,7 @@ The Puppet-Show Man
 'of': -F
 'the': -T
 'kind.': KEUPBD/TP-PL
-'"'The': KR-GS/AE/KPA/-T
+'"'The': KW-GS/AE/KPA*/-T
 'whole': WHOEL
 'world': WORLD
 'is': S
@@ -610,7 +610,7 @@ The Puppet-Show Man
 'said': SED
 'the': -T
 'lecturer,': HREBG/KHUR/ER/KW-BG
-''but': AE/PWUT
+''but': A*E/PWUT
 'we': WE
 'are': R
 'so': SO
@@ -682,7 +682,7 @@ The Puppet-Show Man
 'happiest': HAP/KWREFT
 'of': -F
 'men.': PHEPB/TP-PL
-'"'One': KR-GS/AE/KPA/WUPB
+'"'One': KW-GS/AE/KPA*/WUPB
 'of': -F
 'the': -T
 'happiest!'': HAP/KWREFT/SKHRAPL/AE
@@ -695,14 +695,14 @@ The Puppet-Show Man
 'idea': KWR-D
 'pleased': PHREFD
 'him;': HEUPL/STPH*FPLT
-''are': AE/R
+''are': A*E/R
 'you': U
 'really': R-L
 'happy?'': HAEP/H-F/AE
-'"'Yes,'': KR-GS/AE/KPA/KWRE/KW-BG/AE
+'"'Yes,'': KW-GS/AE/KPA*/KWRE/KW-BG/AE
 'I': EU
 'replied;': RE/PHRAOEUD/STPH*FPLT
-''for': AE/TPOR
+''for': A*E/TPOR
 'I': EU
 'am': APL
 'welcomed': W-BGD
@@ -755,11 +755,11 @@ The Puppet-Show Man
 'men': PHEPB
 'and': SKP
 'women.'': WEUPL/TP-PL/AE
-'"'I': KR-GS/AE/EU
+'"'I': KW-GS/AE/EU
 'understand,'': URPBD/KW-BG/AE
 'he': HE
 'said;': SED/STPH*FPLT
-''you': AE/U
+''you': A*E/U
 'would': WO
 'like': HRAOEUBG
 'to': TO
@@ -1210,7 +1210,7 @@ The Puppet-Show Man
 'the': -T
 'house.': HOUS/TP-PL
 'The': KPA/-T
-''prima': AE/PREU/PHA
+''prima': A*E/PREU/PHA
 'donna'': HRO*ER/TKO*PB/KWRA/AE
 'would': WO
 'only': OEPBL
@@ -1426,7 +1426,7 @@ The Puppet-Show Man
 'stay,'': STAEU/KW-BG/AE
 'said': SED
 'I,': EU/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'I': EU
 'shall': SHAL
 'be': -B

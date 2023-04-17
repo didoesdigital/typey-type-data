@@ -97,7 +97,7 @@ The Snail and the Rose-Tree
 'said': SED
 'the': -T
 'snail.': STPHAEUL/TP-PL
-'"You're': KR-GS/KPA/U/AE/R*/*E
+'"You're': KW-GS/KPA*/UR
 'always': AULS
 'in': TPH
 'such': SUFP
@@ -128,7 +128,7 @@ The Snail and the Rose-Tree
 'which': WEU
 'was': WAS
 'again': TKPWEPB
-'budding': PWUD/-G
+'budding': PW*/*U/TK*/TK*/-G
 'and': SKP
 'bearing': PWAERG
 'roses': ROES/-S
@@ -155,7 +155,7 @@ The Snail and the Rose-Tree
 'them': THEPL
 'in': TPH
 'again.': TKPWEPB/TP-PL
-'"Everything': KR-GS/KPA/EFRG
+'"Everything': KW-GS/KPA*/EFRG
 'is': S
 'just': SKWRUFT
 'as': AS
@@ -456,7 +456,7 @@ The Snail and the Rose-Tree
 'remarked': RARBGD
 'the': -T
 'snail.': STPHAEUL/TP-PL
-'"Certainly.': KR-GS/KPA/SERPBL/TP-PL
+'"Certainly.': KW-GS/KPA*/SERPBL/TP-PL
 'Everything': KPA/EFRG
 'was': WAS
 'given': TKPWEUFPB
@@ -513,7 +513,7 @@ The Snail and the Rose-Tree
 'do': TKO
 'with': W
 'the': -T
-'world?': WORLD/H-F
+'world?': STPWHORLD
 'I': EU
 'have': SR
 'enough': TPHUF
@@ -569,7 +569,7 @@ The Snail and the Rose-Tree
 'given': TKPWEUFPB
 'to': TO
 'the': -T
-'world?': WORLD/H-F
+'world?': STPWHORLD
 'What': KPA/WHA
 'will': HR
 'you': U

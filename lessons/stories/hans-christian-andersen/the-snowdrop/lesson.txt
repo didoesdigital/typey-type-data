@@ -300,7 +300,7 @@ The Snowdrop
 'strength': STREPBG
 'than': THAPB
 'before.': PW-FR/TP-PL
-'"Welcome,': KR-GS/KPA/WELG/KW-BG
+'"Welcome,': KW-GS/KPA*/WELG/KW-BG
 'welcome!"': WELG/SKHRAPL/KR-GS
 'sang': SAPBG
 'and': SKP
@@ -321,7 +321,7 @@ The Snowdrop
 'brighter': PWRAOEURT
 'world.': WORLD/TP-PL
 'The': KPA/-T
-'Sunbeams': xxx Sunbeams
+'Sunbeams': KPA/SUPB/PWAOEPL/-S
 'caressed': KA/RES/-D
 'and': SKP
 'kissed': K*EUFD
@@ -347,11 +347,11 @@ The Snowdrop
 'joy': SKWROEU
 'and': SKP
 'humility.': HAOUPL/EULT/TP-PL
-'"Beautiful': KR-GS/KPA/PWAOUFL
+'"Beautiful': KW-GS/KPA*/PWAOUFL
 'Flower!"': KPA/TPHRO*UR/SKHRAPL/KR-GS
 'said': SED
 'the': -T
-'Sunbeams,': xxx Sunbeams/KW-BG
+'Sunbeams,': KPA/SUPB/PWAOEPL/-S/KW-BG
 '"how': KW-GS/HOU
 'graceful': TKPWRAEUS/-FL
 'and': SKP
@@ -411,8 +411,8 @@ The Snowdrop
 'will': HR
 'have': SR
 'companions,': KPAPB/KWROPBS/KW-BG
-'syringas,': xxx syringas/KW-BG
-'laburnums,': xxx laburnums/KW-BG
+'syringas,': S*/KWR*/R*/-G/KWRA/-S/KW-BG
+'laburnums,': HR*/A*/PW*/*U/R*/*PB/*UPL/-S/KW-BG
 'and': SKP
 'roses;': ROES/-S/STPH*FPLT
 'but': PWUT
@@ -658,7 +658,7 @@ The Snowdrop
 'swept': SWEPT
 'over': OEFR
 'her.': HER/TP-PL
-'"You'll': KR-GS/KPA/U/AE/HR*/HR*
+'"You'll': KW-GS/KPA*/UL
 'break!"': PWRAEBG/SKHRAPL/KR-GS
 'they': THE
 'said,': SED/KW-BG
@@ -694,9 +694,9 @@ The Snowdrop
 'deserve,': TKEFRB/KW-BG
 'you': U
 'summer': SAOURPL
-'gauk."': xxx gauk/TP-PL/KR-GS
-'"Summer': KR-GS/KPA/SAOURPL
-'gauk!"': xxx gauk/SKHRAPL/KR-GS
+'gauk."': TKPWA/SKWRU/*BG/TP-PL/KR-GS
+'"Summer': KW-GS/KPA*/SAOURPL
+'gauk!"': TKPWA/SKWRU/*BG/SKHRAPL/KR-GS
 'she': SHE
 'repeated': RE/PAOETD
 'in': TPH
@@ -704,14 +704,14 @@ The Snowdrop
 'cold': KOELD
 'morning': PHORPBG
 'hour.': HOUR/TP-PL
-'"O': KR-GS/O*P
+'"O': KW-GS/O*P
 'summer': SAOURPL
-'gauk!"': xxx gauk/SKHRAPL/KR-GS
+'gauk!"': TKPWA/SKWRU/*BG/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'some': SOPL
 'children': KHEURPB
 'rejoicingly;': RE/SKWROEUFG/HREU/STPH*FPLT
-'"yonder': KR-GS/KWROPBD/ER
+'"yonder': KW-GS/KWROPBD/ER
 'stands': STAPBDZ
 'one—how': WUPB/EPL/TKA*RB/HOU
 'beautiful,': PWAOUFL/KW-BG
@@ -829,7 +829,7 @@ The Snowdrop
 'be': -B
 'my': PHEU
 'summer': SAOURPL
-'gauk,"': xxx gauk/KW-BG/KR-GS
+'gauk,"': TKPWA/SKWRU/*BG/KW-BG/KR-GS
 'she': SHE
 'said;': SED/STPH*FPLT
 'and': SKP
@@ -855,21 +855,21 @@ The Snowdrop
 'beginning': TKPWEUPB/-G
 'with': W
 'summer': SAOURPL
-'gauk': xxx gauk
+'gauk': TKPWA/SKWRU/*BG
 'and': SKP
 'ending': EPBGD
 'with': W
 'summer': SAOURPL
-'gauk.': xxx gauk/TP-PL
+'gauk.': TKPWA/SKWRU/*BG/TP-PL
 '"My': KW-GS/KPA*/PHEU
 'friend,': TPREPBD/KW-BG
 'be': -B
 'a': AEU
 'winter': WEURPBT
-'gauk."': xxx gauk/TP-PL/KR-GS
+'gauk."': TKPWA/SKWRU/*BG/TP-PL/KR-GS
 'She': KPA/SHE
 'had': H
-'twitted': TWEUT/-D
+'twitted': T*/W*/*EU/T*/T*/-D
 'him': HEUPL
 'with': W
 'the': -T
@@ -1002,7 +1002,7 @@ The Snowdrop
 'one,': WUPB/KW-BG
 'as': AS
 'the': -T
-'Sunbeams': xxx Sunbeams
+'Sunbeams': KPA/SUPB/PWAOEPL/-S
 'had': H
 'called': KAULD
 'her;': HER/STPH*FPLT
@@ -1129,7 +1129,7 @@ The Snowdrop
 'had': H
 'made': PHAED
 'a': AEU
-'gauk': xxx gauk
+'gauk': TKPWA/SKWRU/*BG
 'of': -F
 'him,': HEUPL/KW-BG
 'that': THA
@@ -1276,7 +1276,7 @@ The Snowdrop
 'old': OLD
 'Danish': TKAEUPB/EURB
 'poet,': POET/KW-BG
-'Ambrosius': xxx Ambrosius
+'Ambrosius': A*P/PH*/PW*/R*/KWRO/-S/SKWREU/SKWRU/-S
 'Stub,': KPA/STUB/KW-BG
 'which': WEU
 'are': R
@@ -1301,14 +1301,14 @@ The Snowdrop
 'flower!"': TPHRO*UR/SKHRAPL/KR-GS
 'he': HE
 'said;': SED/STPH*FPLT
-'"a': KR-GS/AEU
+'"a': KW-GS/AEU
 'snowdrop,': STPHOE/TK-LS/TKROP/KW-BG
 'a': AEU
 'summer': SAOURPL
-'gauk,': xxx gauk/KW-BG
+'gauk,': TKPWA/SKWRU/*BG/KW-BG
 'a': AEU
 'poet': POET
-'gauk!': xxx gauk/SKHRAPL
+'gauk!': TKPWA/SKWRU/*BG/SKHRAPL
 'That': KPA/THA
 'flower': TPHRO*UR
 'must': PHUFT
@@ -1321,7 +1321,7 @@ The Snowdrop
 'a': AEU
 'meaning!': PHAOEPBG/SKHRAPL
 'Poor': KPA/PAOR
-'Ambrosius': xxx Ambrosius
+'Ambrosius': A*P/PH*/PW*/R*/KWRO/-S/SKWREU/SKWRU/-S
 'Stub!': KPA/STUB/SKHRAPL
 'he': HE
 'was': WAS
@@ -1464,7 +1464,7 @@ The Snowdrop
 'been': PW-PB
 'a': AEU
 'summer': SAOURPL
-'gauk,': xxx gauk/KW-BG
+'gauk,': TKPWA/SKWRU/*BG/KW-BG
 'and': SKP
 'had': H
 'been': PW-PB

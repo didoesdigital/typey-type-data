@@ -51,7 +51,7 @@ The Loveliest Rose in the World
 'to': TO
 'the': -T
 'splendid': SPHREPB/TKEUD
-'Provence': xxx Provence
+'Provence': P*P/R*/O*/SR*/EPBS
 'rose.': ROEZ/TP-PL
 'They': KPA/THE
 'grew': TKPWRAOU
@@ -123,7 +123,7 @@ The Loveliest Rose in the World
 'wisest': WAOEUZ/*ES
 'among': PHOPBG
 'them.': THEPL/TP-PL
-'"Bring': KR-GS/KPA/PWREU
+'"Bring': KW-GS/KPA*/PWREU
 'her': HER
 'the': -T
 'loveliest': HROFL/KWREFT
@@ -286,7 +286,7 @@ The Loveliest Rose in the World
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Walburg,': xxx Walburg/KW-BG
+'Walburg,': W*P/A*L/PW*URG/KW-BG
 'though': THOE
 'these': THEZ
 'roses': ROES/-S
@@ -310,7 +310,7 @@ The Loveliest Rose in the World
 'blood-stained': PWHRAOD/H-PB/STAEUPBD
 'fame': TPAEUPL
 'of': -F
-'Winkelreid.': xxx Winkelreid/TP-PL
+'Winkelreid.': W*P/*EU/TPH*/K*/*E/HR*/R*/*E/*EU/TK*/TP-PL
 'The': KPA/-T
 'blood': PWHRAOD
 'which': WEU
@@ -454,14 +454,14 @@ The Loveliest Rose in the World
 'the': -T
 'wise': WAOEUS
 'man;': PHAPB/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'there': THR
 'is': S
 'one': WUPB
 'still': STEUL
 'more': PHOR
 'lovely."': HROFL/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'one': WUPB
 'far': TPAR
 'more': PHOR
@@ -546,7 +546,7 @@ The Loveliest Rose in the World
 'of': -F
 'her': HER
 'anguish."': APBG/WEURB/TP-PL/KR-GS
-'"Holy': KR-GS/KPA/HOEUL
+'"Holy': KW-GS/KPA*/HOEUL
 'and': SKP
 'wonderful': WUFL
 'in': TPH
@@ -659,7 +659,7 @@ The Loveliest Rose in the World
 'the': -T
 'wise': WAOEUS
 'man:': PHAPB/STPH-FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'no': TPHO
 'one': WUPB
 'has': HAS
@@ -706,12 +706,12 @@ The Loveliest Rose in the World
 'with': W
 'silver': SEUL/SRER
 'clasps.': KHRAS/-PS/TP-PL
-'"Mother,"': KR-GS/KPA/PHOER/KW-BG/KR-GS
+'"Mother,"': KW-GS/KPA*/PHOER/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
 'little': HREUL
 'boy;': PWOEU/STPH*FPLT
-'"only': KR-GS/OEPBL
+'"only': KW-GS/OEPBL
 'hear': HAER
 'what': WHA
 'I': EU
@@ -749,7 +749,7 @@ The Loveliest Rose in the World
 'unborn.': UPB/PWORPB/TP-PL
 'He': KPA/HE
 'read,': RAED/KW-BG
-'"Greater': KR-GS/KPA/TKPWRAERT
+'"Greater': KW-GS/KPA*/TKPWRAERT
 'love': HRUF
 'hath': HA*T
 'no': TPHO
@@ -810,7 +810,7 @@ The Loveliest Rose in the World
 'said.': SED/TP-PL
 '"He': KW-GS/KPA*/HE
 'who': WHO
-'beholds': PWE/HOLD/-S
+'beholds': PWE/HOLDZ
 'this,': TH/KW-BG
 'the': -T
 'loveliest': HROFL/KWREFT

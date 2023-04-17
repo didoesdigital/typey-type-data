@@ -103,7 +103,7 @@ The Toad
 'of': -F
 'the': -T
 'old': OLD
-'Mother-Toad,': KPA/PHOER/H-PB/KPA/TAOD/KW-BG
+'Mother-Toad,': KPA/PHOER/H-PB/KPA*/TAOD/KW-BG
 'who': WHO
 'was': WAS
 'still': STEUL
@@ -127,7 +127,7 @@ The Toad
 'water,': WAURBGS
 'called': KAULD
 'them': THEPL
-'"well-guests."': KR-GS/WEL/H-PB/TKPWEFTS/TP-PL/KR-GS
+'"well-guests."': KW-GS/W*EL/TKPWEFTS/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'new-comers': TPHU/H-PB/KOPL/ERS
@@ -145,7 +145,7 @@ The Toad
 'very': SRE
 'agreeable': TKPWRAOEBL
 'living': HREUFG
-'"in': KR-GS/TPH
+'"in': KW-GS/TPH
 'a': AEU
 'dry': TKRAOEU
 'place,"': PHRAEUS/KW-BG/KR-GS
@@ -156,7 +156,7 @@ The Toad
 'wet': WET
 'stones.': STOEPBS/TP-PL
 'The': KPA/-T
-'Mother-Frog': KPA/PHOER/H-PB/KPA/TPROG
+'Mother-Frog': KPA/PHOER/H-PB/KPA*/TPROG
 'had': H
 'once': WUPBS
 'been': PW-PB
@@ -251,7 +251,7 @@ The Toad
 'the': -T
 'world.': WORLD/TP-PL
 'The': KPA/-T
-'Mother-Toad': KPA/PHOER/H-PB/KPA/TAOD
+'Mother-Toad': KPA/PHOER/H-PB/KPA*/TAOD
 'might': PHAOEUT
 'have': SR
 'told': TOLD
@@ -304,8 +304,8 @@ The Toad
 'be,"': -B/KW-BG/KR-GS
 'retorted': RE/TORT/-D
 'the': -T
-'mother-Toad,': PHOER/H-PB/KPA/TAOD/KW-BG
-'"but': KR-GS/PWUT
+'mother-Toad,': PHOER/H-PB/KPA*/TAOD/KW-BG
+'"but': KW-GS/PWUT
 'one': WUPB
 'of': -F
 'them': THEPL
@@ -416,7 +416,7 @@ The Toad
 'it,"': T/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Mother-Toad.': KPA/PHOER/H-PB/KPA/TAOD/TP-PL
+'Mother-Toad.': KPA/PHOER/H-PB/KPA*/TAOD/TP-PL
 '"It's': KW-GS/KPA*/T-S
 'something': S-G
 'which': WEU
@@ -507,16 +507,16 @@ The Toad
 'beautiful': PWAOUFL
 'up': UP
 'there."': THR/TP-PL/KR-GS
-'"You'd': KR-GS/KPA/U/AE/TK*
+'"You'd': KW-GS/KPA*/UD
 'better': PWOERT
 'stay': STAEU
 'where': W-R
 'you': U
-'are,"': R/KW-BG/KR-GS
+'are,"': R-RBGS/KR-GS
 'said': SED
 'the': -T
 'old': OLD
-'Mother-Toad,': KPA/PHOER/H-PB/KPA/TAOD/KW-BG
+'Mother-Toad,': KPA/PHOER/H-PB/KPA*/TAOD/KW-BG
 '"for': KW-GS/TPOR
 'you': U
 'know': TPHOE
@@ -574,7 +574,7 @@ The Toad
 'and': SKP
 'whole': WHOEL
 'bones.': PWOEPBS/TP-PL
-'"Quack!"': KR-GS/KPA/KWA*BG/SKHRAPL/KR-GS
+'"Quack!"': KW-GS/KPA*/KWA*BG/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
@@ -590,7 +590,7 @@ The Toad
 'were': WR
 'to': TO
 'say,': SAEU/KW-BG
-'"Aha!"': KR-GS/xxx Aha/SKHRAPL/KR-GS
+'"Aha!"': KW-GS/KPA/HA*E/KWRA/SKHRAPL/KR-GS
 'She': KPA/SHE
 'had': H
 'an': APB
@@ -676,7 +676,7 @@ The Toad
 'and': SKP
 'emptied': EPL/TEUD
 'out.': OUT/TP-PL
-'"Ugh,': KR-GS/KPA/UG/KW-BG
+'"Ugh,': KW-GS/KPA*/UG/KW-BG
 'you': U
 'beast!"': PWAOEFT/SKHRAPL/KR-GS
 'said': SED
@@ -692,7 +692,7 @@ The Toad
 'saw': SAU
 'the': -T
 'toad.': TAOD/TP-PL
-'"You're': KR-GS/KPA/U/AE/R*/*E
+'"You're': KW-GS/KPA*/UR
 'the': -T
 'ugliest': ULG/KWREFT
 'thing': THEUPBG
@@ -918,7 +918,7 @@ The Toad
 'a': AEU
 'hedge': HEPBLG
 'of': -F
-'whitethorn,': xxx whitethorn/KW-BG
+'whitethorn,': WHEUT/*ET/O*R/*PB/KW-BG
 'and': SKP
 'elder': ELD/ER
 'bushes': PWURBS
@@ -926,7 +926,7 @@ The Toad
 'there,': THR-RBGS
 'too,': TAO/KW-BG
 'and': SKP
-'bindweed': xxx bindweed
+'bindweed': PW*EU/TPH*/TK*/W*/SKWR*E/-D
 'with': W
 'white': WHAOEUT
 'flowers.': TPHRO*URS/TP-PL
@@ -942,7 +942,7 @@ The Toad
 'butterfly,': PW*URT/TPHRAOEU/KW-BG
 'too,': TAO/KW-BG
 'was': WAS
-'flitting': TPHREUT/-G
+'flitting': TP*/HR*/*EU/T*/T*/-G
 'by.': PWEU/TP-PL
 'The': KPA/-T
 'Toad': KPA/TAOD
@@ -985,7 +985,7 @@ The Toad
 'said': SED
 'the': -T
 'Toad.': KPA/TAOD/TP-PL
-'"Croak!': KR-GS/KPA/KROEBG/SKHRAPL
+'"Croak!': KW-GS/KPA*/KROEBG/SKHRAPL
 'how': HOU
 'capital': KPAL
 'that': THA
@@ -1013,7 +1013,7 @@ The Toad
 'day': TKAEU
 'she': SHE
 'thought,': THAUT/KW-BG
-'"Forward!': KR-GS/KPA/TPAORD/SKHRAPL
+'"Forward!': KW-GS/KPA*/TPAORD/SKHRAPL
 'onward!"': AOPB/WA*RD/SKHRAPL/KR-GS
 'But': KPA/PWUT
 'what': WHA
@@ -1140,11 +1140,11 @@ The Toad
 'damp': TKAFRP
 'for': TPOR
 'you': U
-'here,"': HAOER/KW-BG/KR-GS
+'here,"': HAOERBGS/KR-GS
 'said': SED
 'the': -T
 'Frogs;': KPA/TPROGS/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'you': U
 'are': R
 'very': SRE
@@ -1188,7 +1188,7 @@ The Toad
 'of': -F
 'thing.': THEUPBG/TP-PL
 'No': KPA/TPHO
-'refreshments': RE/TPREPLT/-S
+'refreshments': RERB/-PLTS
 'were': WR
 'given,': TKPWEUFPB/KW-BG
 'only': OEPBL
@@ -1368,7 +1368,7 @@ The Toad
 'I': EU
 'cry': KRAOEU
 'about': PW
-'that—no,': THA/EPL/TKA*RB/TPHO/KW-BG
+'that—no,': THA/EPL/TKA*RB/TPHORBGS
 'I': EU
 'must': PHUFT
 'go': TKPW
@@ -1499,14 +1499,14 @@ The Toad
 'here!"': HAOER/SKHRAPL/KR-GS
 '"I': KW-GS/EU
 'know': TPHOE
-'that,"': THA/KW-BG/KR-GS
+'that,"': THARBGS/KR-GS
 'said': SED
 'the': -T
 'Caterpillar,': KA*T/*ER/PEUL/A*R/KW-BG
 'on': OPB
 'the': -T
 'leaf,': HRAOEF/KW-BG
-'"my': KR-GS/PHEU
+'"my': KW-GS/PHEU
 'leaf': HRAOEF
 'is': S
 'the': -T
@@ -1526,7 +1526,7 @@ The Toad
 'for': TPOR
 'the': -T
 'world."': WORLD/TP-PL/KR-GS
-'"Cluck,': KR-GS/KPA/KHRUBG/KW-BG
+'"Cluck,': KW-GS/KPA*/KHRUBG/KW-BG
 'cluck!"': KHRUBG/SKHRAPL/KR-GS
 'And': AFPBD
 'some': SOPL
@@ -1612,7 +1612,7 @@ The Toad
 'with': W
 'a': AEU
 'good': TKPWAOD
-'will,"': HR/KW-BG/KR-GS
+'will,"': HR-RBGS/KR-GS
 'thought': THAUT
 'the': -T
 'Fowl,': KPA/TPO*UL/KW-BG
@@ -1642,14 +1642,14 @@ The Toad
 'towards': TORDZ
 'the': -T
 'Fowl.': KPA/TPO*UL/TP-PL
-'"Aha,': KR-GS/xxx Aha/KW-BG
+'"Aha,': KW-GS/KPA/HA*E/KWRA/KW-BG
 'it': T
 'has': HAS
 'allies,"': AL/HRAOEUS/KW-BG/KR-GS
 'quoth': KW*/*U/O*/T*/H*
 'the': -T
 'Fowl.': KPA/TPO*UL/TP-PL
-'"Just': KR-GS/KPA/SKWRUFT
+'"Just': KW-GS/KPA*/SKWRUFT
 'look': HRAOBG
 'at': AT
 'the': -T
@@ -1806,14 +1806,14 @@ The Toad
 'go': TKPW
 'higher': HAOEUR
 'up."': UP/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'higher': HAOEUR
 'up,"': UP/KW-BG/KR-GS
 'said': SED
 'the': -T
 'little': HREUL
 'Toad;': KPA/TAOD/STPH*FPLT
-'"higher-up!': KR-GS/HAOEUR/H-PB/UP/SKHRAPL
+'"higher-up!': KW-GS/HAOEUR/H-PB/UP/SKHRAPL
 'She': KPA/SHE
 'feels': TPAOELS
 'just': SKWRUFT
@@ -2054,7 +2054,7 @@ The Toad
 'persisted': PER/SEUFTD
 'the': -T
 'first.': TPEUFRT/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'if': TP
 'we': WE
 'could': KO
@@ -2176,7 +2176,7 @@ The Toad
 'up': UP
 'in': TPH
 'spirits.': SPEURTS/TP-PL
-'"Those': KR-GS/KPA/THOZ
+'"Those': KW-GS/KPA*/THOZ
 'two': TWO
 'also': HR-S
 'were': WR
@@ -2212,14 +2212,14 @@ The Toad
 'there': THR
 'was': WAS
 'a': AEU
-'clapping': KHRAP/-G
+'clapping': KHRAP/*P/-G
 'on': OPB
 'the': -T
 'roof': RAOF
 'of': -F
 'the': -T
 'farm-house.': TPARPL/H-PB/HOUS/TP-PL
-'Father-Stork': KPA/TPAER/H-PB/KPA/STORBG
+'Father-Stork': KPA/TPAER/H-PB/KPA*/STORBG
 'was': WAS
 'making': PHAEUG
 'a': AEU
@@ -2242,7 +2242,7 @@ The Toad
 'the': -T
 'kitchen': K-FP
 'garden.': TKPWA*RPB/TP-PL
-'"Man': KR-GS/KPA/PHAPB
+'"Man': KW-GS/KPA*/PHAPB
 'is': S
 'the': -T
 'most': PHOFT
@@ -2251,7 +2251,7 @@ The Toad
 'said': SED
 'the': -T
 'Stork.': KPA/STORBG/TP-PL
-'"Listen': KR-GS/KPA/HREUFPB
+'"Listen': KW-GS/KPA*/HREUFPB
 'how': HOU
 'their': THAEUR
 'jaws': SKWRAUS
@@ -2330,7 +2330,7 @@ The Toad
 'invention': EUPB/SREPBGS
 'they': THE
 'call': KAUL
-''railway;'': AE/RAEUL/WAEU/STPH*FPLT/AE
+''railway;'': A*E/RAEUL/WAEU/STPH*FPLT/AE
 'but': PWUT
 'they': THE
 'often': OFPB
@@ -2423,7 +2423,7 @@ The Toad
 'pinions.': PEUPB/KWROPB/-S/TP-PL
 'And': AFPBD
 'the': -T
-'Mother-Stork': KPA/PHOER/H-PB/KPA/STORBG
+'Mother-Stork': KPA/PHOER/H-PB/KPA*/STORBG
 'began': TKPWAPB
 'talking': TAUG
 'in': TPH
@@ -2620,7 +2620,7 @@ The Toad
 'out': OUT
 'of': -F
 'them.': THEPL/TP-PL
-'"Quunk!—ah!"': KR-GS/xxx Quunk/SKHRAPL/EPL/TKA*RB/HA*E/SKHRAPL/KR-GS
+'"Quunk!—ah!"': KW-GS/KW*P/SKWRU/SKWRU/*PB/*BG/SKHRAPL/EPL/TKA*RB/HA*E/SKHRAPL/KR-GS
 'The': KPA/-T
 'body': PWO*ED
 'was': WAS

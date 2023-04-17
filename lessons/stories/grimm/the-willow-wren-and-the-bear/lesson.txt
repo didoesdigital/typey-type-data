@@ -25,7 +25,7 @@ The Willow-Wren and the Bear
 'that': THA
 'he': HE
 'said:': SED/STPH-FPLT
-''Brother': AE/KPA/PWROER
+''Brother': A*E/KPA*/PWROER
 'wolf,': WOFL/KW-BG
 'what': WHA
 'bird': PWEURD
@@ -44,7 +44,7 @@ The Willow-Wren and the Bear
 'said': SED
 'the': -T
 'wolf,': WOFL/KW-BG
-''before': AE/PW-FR
+''before': A*E/PW-FR
 'whom': WHOPL
 'we': WE
 'must': PHUFT
@@ -57,7 +57,7 @@ The Willow-Wren and the Bear
 'was': WAS
 'the': -T
 'willow-wren.': WEUL/HROE/H-PB/WREPB/TP-PL
-''IF': AE/*URP/TP
+''IF': A*E/*URP/TP
 'that's': THATS
 'the': -T
 'case,'': KAEUS/KW-BG/AE
@@ -91,7 +91,7 @@ The Willow-Wren and the Bear
 'said': SED
 'the': -T
 'wolf;': WOFL/STPH*FPLT
-''you': AE/U
+''you': A*E/U
 'must': PHUFT
 'wait': WAEUT
 'until': TPH-L
@@ -224,7 +224,7 @@ The Willow-Wren and the Bear
 'cried': KRAOEUD
 'the': -T
 'bear;': PWAER/STPH*FPLT
-''it': AE/T
+''it': A*E/T
 'is': S
 'a': AEU
 'wretched': WREFPD
@@ -345,7 +345,7 @@ The Willow-Wren and the Bear
 'old': OLD
 'King': KO*EUPBG
 'said:': SED/STPH-FPLT
-''Be': AE/KPA/-B
+''Be': A*E/KPA*/-B
 'easy,': EZ/KW-BG
 'he': HE
 'shall': SHAL
@@ -366,8 +366,8 @@ The Willow-Wren and the Bear
 'and': SKP
 'called': KAULD
 'in:': TPH/STPH-FPLT
-''Old': AE/KPA/OLD
-'Growler,': xxx Growler/KW-BG
+''Old': A*E/KPA*/OLD
+'Growler,': KPA/TKPWROUL/*ER/KW-BG
 'why': KWR
 'have': SR
 'you': U
@@ -507,7 +507,7 @@ The Willow-Wren and the Bear
 'him': HEUPL
 'and': SKP
 'said:': SED/STPH-FPLT
-''Fox,': AE/KPA/TPOBGS/KW-BG
+''Fox,': A*E/KPA*/TPOBGS/KW-BG
 'you': U
 'are': R
 'the': -T
@@ -523,11 +523,11 @@ The Willow-Wren and the Bear
 'and': SKP
 'lead': HRAED
 'us.'': US/TP-PL/AE
-''Good,'': AE/KPA/TKPWAOD/KW-BG/AE
+''Good,'': A*E/KPA*/TKPWAOD/KW-BG/AE
 'said': SED
 'the': -T
 'fox,': TPOBGS/KW-BG
-''but': AE/PWUT
+''but': A*E/PWUT
 'what': WHA
 'signal': STPHAL
 'shall': SHAL
@@ -649,7 +649,7 @@ The Willow-Wren and the Bear
 'a': AEU
 'humming,': HUPL/-G/KW-BG
 'and': SKP
-'whirring,': WHEUR/-G/KW-BG
+'whirring,': W*/H*/*EU/R*/R*/-G/KW-BG
 'and': SKP
 'swarming': SWARPL/-G
 'that': THA
@@ -787,7 +787,7 @@ The Willow-Wren and the Bear
 'children': KHEURPB
 'and': SKP
 'cried:': KRAOEUD/STPH-FPLT
-''Children,': AE/KPA/KHEURPB/KW-BG
+''Children,': A*E/KPA*/KHEURPB/KW-BG
 'rejoice,': RE/SKWROEUS/KW-BG
 'eat': AOET
 'and': SKP
@@ -844,7 +844,7 @@ The Willow-Wren and the Bear
 'hole': HOEL
 'and': SKP
 'cried:': KRAOEUD/STPH-FPLT
-''Growler,': AE/xxx Growler/KW-BG
+''Growler,': A*E/KPA/TKPWROUL/*ER/KW-BG
 'you': U
 'are': R
 'to': TO

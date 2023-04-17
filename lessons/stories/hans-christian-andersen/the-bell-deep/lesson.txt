@@ -1,16 +1,16 @@
 The Bell-Deep
 
-'"Ding-dong!': KR-GS/KPA/TKEUPBG/H-PB/TKOPBG/SKHRAPL
+'"Ding-dong!': KW-GS/KPA*/TKEUPBG/H-PB/TKOPBG/SKHRAPL
 'ding-dong!"': TKEUPBG/H-PB/TKOPBG/SKHRAPL/KR-GS
 'It': KPA/T
 'sounds': SOUPBDZ
 'up': UP
 'from': TPR
 'the': -T
-'"bell-deep"': KR-GS/PWEL/H-PB/TKAOEP/KR-GS
+'"bell-deep"': KW-GS/PWEL/H-PB/TKAOEP/KR-GS
 'in': TPH
 'the': -T
-'Odense-Au.': xxx Odense/H-PB/xxx Au/TP-PL
+'Odense-Au.': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/TP-PL
 'Every': KPA/EF
 'child': KHAOEULD
 'in': TPH
@@ -18,15 +18,15 @@ The Bell-Deep
 'old': OLD
 'town': TOUPB
 'of': -F
-'Odense,': xxx Odense/KW-BG
+'Odense,': KPA/O*/TK*/*EPB/-S/SKWR*E/KW-BG
 'on': OPB
 'the': -T
 'island': AOEULD
 'of': -F
-'Funen,': xxx Funen/KW-BG
+'Funen,': KPA/TPUPB/*EPB/KW-BG
 'knows': TPHOEZ
 'the': -T
-'Au,': xxx Au/KW-BG
+'Au,': KPA/AEU/SKWRU/KW-BG
 'which': WEU
 'washes': WARBS
 'the': -T
@@ -50,7 +50,7 @@ The Bell-Deep
 'water-mill.': WAUR/H-PB/PHEUL/TP-PL
 'In': KPA/TPH
 'the': -T
-'Au': xxx Au
+'Au': KPA/AEU/SKWRU
 'grow': TKPWROE
 'the': -T
 'yellow': KWREL/OE
@@ -74,7 +74,7 @@ The Bell-Deep
 'willows,': WEUL/HROE/-S/KW-BG
 'slanting': SHRAPBT/-G
 'and': SKP
-'tottering,': xxx tottering/KW-BG
+'tottering,': T*/O*/T*/T*/*ER/-G/KW-BG
 'hang': HAPBG
 'far': TPAR
 'out': OUT
@@ -165,7 +165,7 @@ The Bell-Deep
 'Opposite': KPA/OP/SEUT
 'the': -T
 'old': OLD
-'nunnery': xxx nunnery
+'nunnery': TPHUPB/*PB/*ER/KWREU
 'is': S
 'the': -T
 'deepest': TKAOEP/EFT
@@ -174,7 +174,7 @@ The Bell-Deep
 'is': S
 'called': KAULD
 'the': -T
-'"bell-deep,"': KR-GS/PWEL/H-PB/TKAOEP/KW-BG/KR-GS
+'"bell-deep,"': KW-GS/PWEL/H-PB/TKAOEP/KW-BG/KR-GS
 'and': SKP
 'there': THR
 'dwells': TKWEL/-S
@@ -183,7 +183,7 @@ The Bell-Deep
 'water': WAUR
 'spirit,': SPEURT/KW-BG
 'the': -T
-'"Au-mann."': KR-GS/xxx Au/H-PB/HRO*ER/PHAPB/PHAPB/TP-PL/KR-GS
+'"Au-mann."': KW-GS/KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB/TP-PL/KR-GS
 'This': KPA/TH
 'spirit': SPEURT
 'sleeps': SHRAOEPS
@@ -272,8 +272,8 @@ The Bell-Deep
 'was': WAS
 'called': KAULD
 'St.': S*T
-'Alban's.': xxx Alban/AE/S*/TP-PL
-'"Ding-dong!': KR-GS/KPA/TKEUPBG/H-PB/TKOPBG/SKHRAPL
+'Alban's.': A*L/PWA/*PB/AES/TP-PL
+'"Ding-dong!': KW-GS/KPA*/TKEUPBG/H-PB/TKOPBG/SKHRAPL
 'ding-dong!"': TKEUPBG/H-PB/TKOPBG/SKHRAPL/KR-GS
 'sounded': SOUPBD/-D
 'the': -T
@@ -317,7 +317,7 @@ The Bell-Deep
 'the': -T
 'ruddy': RUD/TKEU
 'beam.': PWAEPL/TP-PL
-'"Ding-dong!': KR-GS/KPA/TKEUPBG/H-PB/TKOPBG/SKHRAPL
+'"Ding-dong!': KW-GS/KPA*/TKEUPBG/H-PB/TKOPBG/SKHRAPL
 'ding-dong!': TKEUPBG/H-PB/TKOPBG/SKHRAPL
 'Now': KPA/TPHOU
 'I'll': AOEUL
@@ -332,7 +332,7 @@ The Bell-Deep
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'Odense-Au,': xxx Odense/H-PB/xxx Au/KW-BG
+'Odense-Au,': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/KW-BG
 'where': W-R
 'it': T
 'is': S
@@ -346,7 +346,7 @@ The Bell-Deep
 'is': S
 'called': KAULD
 'the': -T
-'"bell-deep."': KR-GS/PWEL/H-PB/TKAOEP/TP-PL/KR-GS
+'"bell-deep."': KW-GS/PWEL/H-PB/TKAOEP/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
 'Bell': PWEL/PWEL
@@ -358,7 +358,7 @@ The Bell-Deep
 'Down': KPA/TKOUPB
 'in': TPH
 'the': -T
-'Au-mann's': xxx Au/H-PB/HRO*ER/PHAPB/PHAPB/AES
+'Au-mann's': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB/AES
 'haunt': HAUPBT
 'it': T
 'sounds': SOUPBDZ
@@ -400,7 +400,7 @@ The Bell-Deep
 'talking': TAUG
 'with': W
 'the': -T
-'Au-mann,': xxx Au/H-PB/HRO*ER/PHAPB/PHAPB/KW-BG
+'Au-mann,': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB/KW-BG
 'who': WHO
 'is': S
 'now': TPHOU
@@ -443,7 +443,7 @@ The Bell-Deep
 'comparison': KPAEURPB
 'with': W
 'the': -T
-'Au-mann,': xxx Au/H-PB/HRO*ER/PHAPB/PHAPB/KW-BG
+'Au-mann,': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB/KW-BG
 'who': WHO
 'is': S
 'quite': KWAOEUT
@@ -538,7 +538,7 @@ The Bell-Deep
 'church': KHUFRPB
 'of': -F
 'St.': S*T
-'Alban,': xxx Alban/KW-BG
+'Alban,': A*L/PWA/*PB/KW-BG
 'the': -T
 'monk': PHO*PBG
 'had': H
@@ -563,7 +563,7 @@ The Bell-Deep
 'out': OUT
 'upon': POPB
 'the': -T
-'Odense-Au,': xxx Odense/H-PB/xxx Au/KW-BG
+'Odense-Au,': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/KW-BG
 'when': WHEPB
 'the': -T
 'bed': PWED
@@ -639,7 +639,7 @@ The Bell-Deep
 'the': -T
 'Bell': PWEL/PWEL
 'told.': TOLD/TP-PL
-'"Into': KR-GS/KPA/TPHAO
+'"Into': KW-GS/KPA*/TPHAO
 'the': -T
 'tower': TOUR
 'came': KAEUPL
@@ -775,7 +775,7 @@ The Bell-Deep
 'They': KPA/THE
 'called': KAULD
 'him': HEUPL
-'Canute.': xxx Canute/TP-PL
+'Canute.': KR*P/A*/TPH*/*U/T*/SKWR*E/TP-PL
 'He': KPA/HE
 'bowed': PWOE/-D
 'himself': HEUPLS
@@ -884,7 +884,7 @@ The Bell-Deep
 'saw': SAU
 'there.': THR/TP-PL
 'King': KO*EUPBG
-'Canute': xxx Canute
+'Canute': KR*P/A*/TPH*/*U/T*/SKWR*E
 'knelt': TPHELT
 'before': PW-FR
 'the': -T
@@ -972,7 +972,7 @@ The Bell-Deep
 'for': TPOR
 'I': EU
 'sang': SAPBG
-''Ding-dong!': AE/KPA/TKEUPBG/H-PB/TKOPBG/SKHRAPL
+''Ding-dong!': A*E/KPA*/TKEUPBG/H-PB/TKOPBG/SKHRAPL
 'ding-dong!'': TKEUPBG/H-PB/TKOPBG/SKHRAPL/AE
 '"The': KW-GS/KPA*/-T
 'church': KHUFRPB
@@ -1033,7 +1033,7 @@ The Bell-Deep
 'into': TPHAO
 'the': -T
 'world,': WORLD/KW-BG
-''Ding-dong!': AE/KPA/TKEUPBG/H-PB/TKOPBG/SKHRAPL
+''Ding-dong!': A*E/KPA*/TKEUPBG/H-PB/TKOPBG/SKHRAPL
 'ding-dong!'': TKEUPBG/H-PB/TKOPBG/SKHRAPL/AE
 '"But': KW-GS/KPA*/PWUT
 'it': T
@@ -1074,7 +1074,7 @@ The Bell-Deep
 'into': TPHAO
 'the': -T
 'gleaming': TKPWHRAOEPL/-G
-'Au,': xxx Au/KW-BG
+'Au,': KPA/AEU/SKWRU/KW-BG
 'where': W-R
 'the': -T
 'water': WAUR
@@ -1083,7 +1083,7 @@ The Bell-Deep
 'and': SKP
 'where': W-R
 'the': -T
-'Au-mann': xxx Au/H-PB/HRO*ER/PHAPB/PHAPB
+'Au-mann': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB
 'lives,': HREUFS/KW-BG
 'solitary': SOL/TAER
 'and': SKP
@@ -1115,7 +1115,7 @@ The Bell-Deep
 'bell-deep': PWEL/H-PB/TKAOEP
 'in': TPH
 'the': -T
-'Odense-Au.': xxx Odense/H-PB/xxx Au/TP-PL
+'Odense-Au.': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/TP-PL
 'That': KPA/THA
 'is': S
 'what': WHA
@@ -1124,7 +1124,7 @@ The Bell-Deep
 'us.': US/TP-PL
 'But': KPA/PWUT
 'the': -T
-'schoolmaster': xxx schoolmaster
+'schoolmaster': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER
 'says': SEZ
 'that': THA
 'there': THR
@@ -1146,14 +1146,14 @@ The Bell-Deep
 'and': SKP
 'that': THA
 'no': TPHO
-'Au-mann': xxx Au/H-PB/HRO*ER/PHAPB/PHAPB
+'Au-mann': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB
 'dwelt': TKWELT
 'yonder,': KWROPBD/ER/KW-BG
 'for': TPOR
 'there': THR
 'was': WAS
 'no': TPHO
-'Au-mann': xxx Au/H-PB/HRO*ER/PHAPB/PHAPB
+'Au-mann': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB
 'at': AT
 'all!': AUL/SKHRAPL
 'And': AFPBD
@@ -1270,10 +1270,10 @@ The Bell-Deep
 'depths': TK*EPTS
 'of': -F
 'the': -T
-'Odense-Au': xxx Odense/H-PB/xxx Au
+'Odense-Au': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU
 'where': W-R
 'the': -T
-'Au-mann': xxx Au/H-PB/HRO*ER/PHAPB/PHAPB
+'Au-mann': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB
 'dwells.': TKWEL/-S/TP-PL
 'It': KPA/T
 'rings': REUPBGS
@@ -1295,5 +1295,5 @@ The Bell-Deep
 'heaven': HEFPB
 'bells': PWELS
 'sound': SOUPBD
-'"Ding-dong!': KR-GS/KPA/TKEUPBG/H-PB/TKOPBG/SKHRAPL
+'"Ding-dong!': KW-GS/KPA*/TKEUPBG/H-PB/TKOPBG/SKHRAPL
 'ding-dong!"': TKEUPBG/H-PB/TKOPBG/SKHRAPL/KR-GS

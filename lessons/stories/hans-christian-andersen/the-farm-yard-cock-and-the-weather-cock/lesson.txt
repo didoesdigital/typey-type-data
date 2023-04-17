@@ -27,7 +27,7 @@ The Farm-Yard Cock and the Weather-Cock
 'Tell': KPA/TEL
 'us': US
 'your': KWROUR
-'opinion—we'll': P-PB/EPL/TKA*RB/WE/AE/HR*/HR*
+'opinion—we'll': P-PB/EPL/TKA*RB/WAOEL
 'keep': KAOEP
 'to': TO
 'ours': OURS
@@ -74,7 +74,7 @@ The Farm-Yard Cock and the Weather-Cock
 'is': S
 'born': PWORPB
 'to': TO
-'that,"': THA/KW-BG/KR-GS
+'that,"': THARBGS/KR-GS
 'said': SED
 'the': -T
 'cucumber': KAOUBG/PWER
@@ -325,7 +325,7 @@ The Farm-Yard Cock and the Weather-Cock
 'and': SKP
 'shining': SHAOEUPBG
 'like': HRAOEUBG
-'mother-o'-pearl,': PHOER/H-PB/O*/AE/H-PB/PERL/KW-BG
+'mother-o'-pearl,': PHOER/H-PB/O*/TK-LS/AE/H-PB/PERL/KW-BG
 'looked': HRAOBGD
 'like': HRAOEUBG
 'a': AEU
@@ -447,7 +447,7 @@ The Farm-Yard Cock and the Weather-Cock
 'good!"': TKPWAOD/SKHRAPL/KR-GS
 'he': HE
 'said.': SED/TP-PL
-'"Everything': KR-GS/KPA/EFRG
+'"Everything': KW-GS/KPA*/EFRG
 'in': TPH
 'it': T
 'is': S
@@ -541,12 +541,12 @@ The Farm-Yard Cock and the Weather-Cock
 'and': SKP
 'the': -T
 'cock': KOBG
-'strutted': STRUT/-D
+'strutted': S*/T*/R*/*U/T*/T*/-D
 'about': PW
 'like': HRAOEUBG
 'a': AEU
 'lord.': HRORD/TP-PL
-'"Garden': KR-GS/KPA/TKPWA*RPB
+'"Garden': KW-GS/KPA*/TKPWA*RPB
 'plant!"': PHRAPBT/SKHRAPL/KR-GS
 'he': HE
 'said': SED
@@ -611,7 +611,7 @@ The Farm-Yard Cock and the Weather-Cock
 'of': -F
 'their': THAEUR
 'kind.': KEUPBD/TP-PL
-'"Cock-a-doodle-doo!"': KR-GS/KPA/KOBG/H-PB/AEU/H-PB/TKAOD/*L/H-PB/TKAO/SKHRAPL/KR-GS
+'"Cock-a-doodle-doo!"': KW-GS/KPA*/KOBG/H-PB/AEU/H-PB/TKAOD/*L/H-PB/TKAO/SKHRAPL/KR-GS
 'he': HE
 'crowed,': KROE/-D/KW-BG
 '"the': KW-GS/-T
@@ -666,7 +666,7 @@ The Farm-Yard Cock and the Weather-Cock
 'that': THA
 'egg?': EG/H-F
 'A': KPA/AEU
-'basilisk.': xxx basilisk/TP-PL
+'basilisk.': PWAEUFL/EUS/*BG/TP-PL
 'No': KPA/TPHO
 'one': WUPB
 'can': K
@@ -758,7 +758,7 @@ The Farm-Yard Cock and the Weather-Cock
 'did': TK
 'not': TPHOT
 'stir.': STEUR/TP-PL
-'"Everything': KR-GS/KPA/EFRG
+'"Everything': KW-GS/KPA*/EFRG
 'is': S
 'very': SRE
 'stupid,"': STAOUPD/KW-BG/KR-GS
@@ -838,7 +838,7 @@ The Farm-Yard Cock and the Weather-Cock
 'is': S
 'the': -T
 'moral?': PHORL/H-F
-'"Better': KR-GS/KPA/PWOERT
+'"Better': KW-GS/KPA*/PWOERT
 'to': TO
 'crow': KROE
 'than': THAPB

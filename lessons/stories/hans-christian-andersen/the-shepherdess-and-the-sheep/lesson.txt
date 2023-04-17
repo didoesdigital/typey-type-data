@@ -41,7 +41,7 @@ The Shepherdess and the Sheep
 'legacy': HREG/SEU
 'by': PWEU
 'the': -T
-'great-grandmother.': TKPWRAET/H-PB/TKPWR-PL/TP-PL
+'great-grandmother.': TKPWRA*ET/TKPWR-PL/TP-PL
 'It': KPA/T
 'was': WAS
 'covered': KOFRD
@@ -92,7 +92,7 @@ The Shepherdess and the Sheep
 'look': HRAOBG
 'at.': AT/TP-PL
 'He': KPA/HE
-'grinned': TKPWREUPB/-D
+'grinned': TKPWREUPB/*PB/-D
 'at': AT
 'you,': U/KW-BG
 'for': TPOR
@@ -123,9 +123,9 @@ The Shepherdess and the Sheep
 'always': AULS
 'called': KAULD
 'him,': HEUPL/KW-BG
-'"Major': KR-GS/KPA/PHAEUPBLG
+'"Major': KW-GS/KPA*/PHAEUPBLG
 'general-field-sergeant-commander': SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
-'Billy-goat's-legs."': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/TP-PL/KR-GS
+'Billy-goat's-legs."': PWEUL/HREU/H-PB/TKPWO*ET/AES/H-PB/HREGS/TP-PL/KR-GS
 'It': KPA/T
 'was': WAS
 'certainly': SERPBL
@@ -286,7 +286,7 @@ The Shepherdess and the Sheep
 'rosy': ROEZ/SEU
 'as': AS
 'a': AEU
-'girl's;': TKPWEURL/AE/S*/STPH*FPLT
+'girl's;': TKPWEURL/AES/STPH*FPLT
 'indeed,': TPHAOEPBD/KW-BG
 'that': THA
 'was': WAS
@@ -398,8 +398,8 @@ The Shepherdess and the Sheep
 'and': SKP
 'therefore': TH-FR
 'when': WHEPB
-'"Major-general-field-sergeant-commander': KR-GS/KPA/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
-'Billy-goat's-legs"': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/KR-GS
+'"Major-general-field-sergeant-commander': KW-GS/KPA*/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
+'Billy-goat's-legs"': PWEUL/HREU/H-PB/TKPWO*ET/AES/H-PB/HREGS/KR-GS
 'asked': SK-D
 'for': TPOR
 'the': -T
@@ -429,7 +429,7 @@ The Shepherdess and the Sheep
 'Chinaman': KWHRAOEUPB/PHA*PB
 'to': TO
 'her,': HER/KW-BG
-'"who': KR-GS/WHO
+'"who': KW-GS/WHO
 'I': EU
 'really': R-L
 'believe': PWHREF
@@ -445,7 +445,7 @@ The Shepherdess and the Sheep
 'lady': HRA*ED
 'of': -F
 'Major-general-field-sergeant-commander': KPA/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
-'Billy-goat's-legs.': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/TP-PL
+'Billy-goat's-legs.': PWEUL/HREU/H-PB/TKPWO*ET/AES/H-PB/HREGS/TP-PL
 'He': KPA/HE
 'has': HAS
 'the': -T
@@ -495,7 +495,7 @@ The Shepherdess and the Sheep
 'the': -T
 'old': OLD
 'Chinaman.': KWHRAOEUPB/PHA*PB/TP-PL
-'"To-night': KR-GS/KPA/TO/H-PB/TPHAOEUT
+'"To-night': KW-GS/KPA*/TO/H-PB/TPHAOEUT
 'as': AS
 'soon': SAOPB
 'as': AS
@@ -570,7 +570,7 @@ The Shepherdess and the Sheep
 'the': -T
 'little': HREUL
 'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
-'"let': KR-GS/HRET
+'"let': KW-GS/HRET
 'us': US
 'go': TKPW
 'immediately:': PHAOELD/STPH-FPLT
@@ -857,7 +857,7 @@ The Shepherdess and the Sheep
 'on': OPB
 'the': -T
 'floor,': TPHRAOR/KW-BG
-'"plump."': KR-GS/PHRUFRP/TP-PL/KR-GS
+'"plump."': KW-GS/PHRUFRP/TP-PL/KR-GS
 '"The': KW-GS/KPA*/-T
 'old': OLD
 'Chinaman': KWHRAOEUPB/PHA*PB
@@ -885,13 +885,13 @@ The Shepherdess and the Sheep
 'said': SED
 'the': -T
 'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
-'"let': KR-GS/HRET
+'"let': KW-GS/HRET
 'us': US
 'get': TKPWET
 'into': TPHAO
 'the': -T
 'great': TKPWRAET
-'pot-pourri': POT/H-PB/xxx pourri
+'pot-pourri': POT/H-PB/P*/O*/*U/R*/R*/SKWREU
 'jar': SKWRAR
 'which': WEU
 'stands': STAPBDZ
@@ -921,7 +921,7 @@ The Shepherdess and the Sheep
 'that': THA
 'will': HR
 'never': TPHEFR
-'do,"': TKO/KW-BG/KR-GS
+'do,"': TKORBGS/KR-GS
 'said': SED
 'she,': SHE/KW-BG
 '"because': KW-GS/PWAU
@@ -932,7 +932,7 @@ The Shepherdess and the Sheep
 'Chinaman': KWHRAOEUPB/PHA*PB
 'and': SKP
 'the': -T
-'pot-pourri': POT/H-PB/xxx pourri
+'pot-pourri': POT/H-PB/P*/O*/*U/R*/R*/SKWREU
 'jar': SKWRAR
 'were': WR
 'lovers': HRUFRS
@@ -987,7 +987,7 @@ The Shepherdess and the Sheep
 'said': SED
 'the': -T
 'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
-'"have': KR-GS/SR
+'"have': KW-GS/SR
 'you': U
 'thought': THAUT
 'how': HOU
@@ -1003,9 +1003,9 @@ The Shepherdess and the Sheep
 'back': PWABG
 'here': HAOER
 'again?"': TKPWEPB/H-F/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'I': EU
-'have,"': SR/KW-BG/KR-GS
+'have,"': SR-RBGS/KR-GS
 'she': SHE
 'replied.': RE/PHRAOEUD/TP-PL
 'When': KPA/WHEPB
@@ -1537,7 +1537,7 @@ The Shepherdess and the Sheep
 'said': SED
 'the': -T
 'chimney-sweep;': KHEUPL/TPHEU/H-PB/SWAOEP/STPH*FPLT
-'"he': KR-GS/HE
+'"he': KW-GS/HE
 'can': K
 'be': -B
 'riveted.': R*EUFT/-D/TP-PL
@@ -1681,7 +1681,7 @@ The Shepherdess and the Sheep
 'pieces,"': PAOEFS/KW-BG/KR-GS
 'said': SED
 'Major-general-field-sergeant-commander': KPA/PHAEUPBLG/H-PB/SKWREPBL/H-PB/TPAOELD/H-PB/S-GT/H-PB/KPHAPBD/*ER
-'Billy-goat's-legs.': PWEUL/HREU/H-PB/TKPWO*ET/AE/S*/H-PB/HREGS/TP-PL
+'Billy-goat's-legs.': PWEUL/HREU/H-PB/TKPWO*ET/AES/H-PB/HREGS/TP-PL
 '"You': KW-GS/KPA*/U
 'have': SR
 'no': TPHO

@@ -218,7 +218,7 @@ The Snow Man
 'how': HOU
 'to': TO
 'run."': RUPB/TP-PL/KR-GS
-'"Away,': KR-GS/KPA/WA*EU/KW-BG
+'"Away,': KW-GS/KPA*/WA*EU/KW-BG
 'away,"': WA*EU/KW-BG/KR-GS
 'barked': PWARBGD
 'the': -T
@@ -232,7 +232,7 @@ The Snow Man
 'could': KO
 'not': TPHOT
 'pronounce': PROUPBS
-'"Bow': KR-GS/KPA/PWOE
+'"Bow': KW-GS/KPA*/PWOE
 'wow"': WO*U/KR-GS
 'properly.': PRORL/TP-PL
 'He': KPA/HE
@@ -330,7 +330,7 @@ The Snow Man
 'replied': RE/PHRAOEUD
 'the': -T
 'yard-dog;': KWRARD/H-PB/TKOG/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'then,': THEPB/KW-BG
 'you've': UF
 'only': OEPBL
@@ -412,7 +412,7 @@ The Snow Man
 'Man': KPA/PHAPB
 'to': TO
 'himself;': HEUPLS/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'have': SR
 'a': AEU
@@ -447,7 +447,7 @@ The Snow Man
 'feel': TPAOEL
 'that': THA
 'too."': TAO/TP-PL/KR-GS
-'"Away,': KR-GS/KPA/WA*EU/KW-BG
+'"Away,': KW-GS/KPA*/WA*EU/KW-BG
 'away,"': WA*EU/KW-BG/KR-GS
 'barked': PWARBGD
 'the': -T
@@ -650,7 +650,7 @@ The Snow Man
 'the': -T
 'glittering': TKPWHREUT/ERG
 'scene.': SAEPB/TP-PL
-'"Summer': KR-GS/KPA/SAOURPL
+'"Summer': KW-GS/KPA*/SAOURPL
 'cannot': SK-PBT
 'show': SHOE
 'a': AEU
@@ -685,7 +685,7 @@ The Snow Man
 'the': -T
 'Snow': KPA/STPHOE
 'Man;': KPA/PHAPB/STPH*FPLT
-'"he': KR-GS/HE
+'"he': KW-GS/HE
 'is': S
 'capital."': KPAL/TP-PL/KR-GS
 'The': KPA/-T
@@ -754,7 +754,7 @@ The Snow Man
 'replied': RE/PHRAOEUD
 'the': -T
 'yard-dog;': KWRARD/H-PB/TKOG/STPH*FPLT
-'"she': KR-GS/SHE
+'"she': KW-GS/SHE
 'has': HAS
 'stroked': STROEBGD
 'my': PHEU
@@ -788,7 +788,7 @@ The Snow Man
 'lovers,"': HRUFRS/KW-BG/KR-GS
 'he': HE
 'replied;': RE/PHRAOEUD/STPH*FPLT
-'"they': KR-GS/THE
+'"they': KW-GS/THE
 'will': HR
 'go': TKPW
 'and': SKP
@@ -831,7 +831,7 @@ The Snow Man
 'retorted': RE/TORT/-D
 'the': -T
 'yard-dog.': KWRARD/H-PB/TKOG/TP-PL
-'"Certainly': KR-GS/KPA/SERPBL
+'"Certainly': KW-GS/KPA*/SERPBL
 'people': PAOEPL
 'who': WHO
 'were': WR
@@ -892,7 +892,7 @@ The Snow Man
 'the': -T
 'Snow': KPA/STPHOE
 'Man;': KPA/PHAPB/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'do': TKO
 'tell': TEL
 'me': PHE
@@ -916,7 +916,7 @@ The Snow Man
 'you': U
 'do': TKO
 'that."': THA/TP-PL/KR-GS
-'"Away,': KR-GS/KPA/WA*EU/KW-BG
+'"Away,': KW-GS/KPA*/WA*EU/KW-BG
 'away!"': WA*EU/SKHRAPL/KR-GS
 'barked': PWARBGD
 'the': -T
@@ -971,11 +971,11 @@ The Snow Man
 'I': EU
 'was': WAS
 'called': KAULD
-''Ami,': AE/xxx Ami/KW-BG
+''Ami,': A*E/KPA/APL/SKWREU/KW-BG
 'dear': TKAER
-'Ami,': xxx Ami/KW-BG
+'Ami,': KPA/APL/SKWREU/KW-BG
 'sweet': SWAOET
-'Ami.'': xxx Ami/TP-PL/AE
+'Ami.'': KPA/APL/SKWREU/TP-PL/AE
 'But': KPA/PWUT
 'after': AF
 'a': AEU
@@ -1117,7 +1117,7 @@ The Snow Man
 'stove.': STOF/TP-PL
 'Away,': KPA/WA*EU/KW-BG
 'away!"': WA*EU/SKHRAPL/KR-GS
-'"Does': KR-GS/KPA/TKOS
+'"Does': KW-GS/KPA*/TKOS
 'a': AEU
 'stove': STOF
 'look': HRAOBG
@@ -1126,7 +1126,7 @@ The Snow Man
 'the': -T
 'Snow': KPA/STPHOE
 'Man,': KPA/PHAPB/KW-BG
-'"is': KR-GS/S
+'"is': KW-GS/S
 'it': T
 'at': AT
 'all': AUL
@@ -1258,7 +1258,7 @@ The Snow Man
 'what': WHA
 'it': T
 'is.': S/TP-PL
-'"'And': KR-GS/AE/AFPBD
+'"'And': KW-GS/AE/AFPBD
 'why': KWR
 'did': TK
 'you': U
@@ -1329,7 +1329,7 @@ The Snow Man
 'I': EU
 'was': WAS
 'gnawing.': TPHAU/-G/TP-PL
-''Bone': AE/KPA/PWOEPB
+''Bone': A*E/KPA*/PWOEPB
 'for': TPOR
 'bone,'': PWOEPB/KW-BG/AE
 'I': EU
@@ -1469,7 +1469,7 @@ The Snow Man
 'never': TPHEFR
 'go': TKPW
 'in': TPH
-'there,"': THR/KW-BG/KR-GS
+'there,"': THR-RBGS/KR-GS
 'said': SED
 'the': -T
 'yard-dog,': KWRARD/H-PB/TKOG/KW-BG
@@ -1487,7 +1487,7 @@ The Snow Man
 'might': PHAOEUT
 'as': AS
 'well': WEL
-'go,"': TKPW/KW-BG/KR-GS
+'go,"': TKPW-RBGS/KR-GS
 'said': SED
 'the': -T
 'Snow': KPA/STPHOE
@@ -1735,7 +1735,7 @@ The Snow Man
 'when': WHEPB
 'he': HE
 'was': WAS
-'"stove': KR-GS/STOF
+'"stove': KW-GS/STOF
 'sick?"': SEUBG/H-F/KR-GS
 '"That': KW-GS/KPA*/THA
 'is': S
@@ -1899,7 +1899,7 @@ The Snow Man
 'the': -T
 'winter': WEURPBT
 'passed.': PAFD/TP-PL
-'"Away,': KR-GS/KPA/WA*EU/KW-BG
+'"Away,': KW-GS/KPA*/WA*EU/KW-BG
 'away,"': WA*EU/KW-BG/KR-GS
 'barked': PWARBGD
 'the': -T
@@ -1930,7 +1930,7 @@ The Snow Man
 'bringing': PWREUG
 'the': -T
 'sweet': SWAOET
-'spring-time,': SPREUPBG/H-PB/TAOEUPL/KW-BG
+'spring-time,': SPREUPBG/TA*EPL/KW-BG
 'When': KPA/WHEPB
 'the': -T
 'lark': HRARBG

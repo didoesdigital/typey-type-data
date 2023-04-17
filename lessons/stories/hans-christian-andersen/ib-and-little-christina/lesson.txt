@@ -10,10 +10,10 @@ Ib and Little Christina
 'banks': PWA*PBGS
 'of': -F
 'the': -T
-'Gudenau,': xxx Gudenau/KW-BG
+'Gudenau,': TKPWU/TK*EPB/KWRA/SKWRU/KW-BG
 'in': TPH
 'North': TPHOERT
-'Jutland,': xxx Jutland/KW-BG
+'Jutland,': SKWR*P/*U/T*/HR*/KWRA/*PBD/KW-BG
 'a': AEU
 'long': HROPBG
 'way': WAEU
@@ -159,7 +159,7 @@ Ib and Little Christina
 'as': AS
 'he': HE
 'earns.': ERPBS/TP-PL
-'Jeppe': xxx Jeppe
+'Jeppe': SKWR*P/SKWR*E/*P/*P/SKWR*E
 'Jans': SKWRA*PB/-S
 'cultivated': KULT/SRAEUT/-D
 'his': HEUS
@@ -215,7 +215,7 @@ Ib and Little Christina
 'could': KO
 'justly': SKWRUFT/HREU
 'call': KAUL
-'Jeppe': xxx Jeppe
+'Jeppe': SKWR*P/SKWR*E/*P/*P/SKWR*E
 'Jans': SKWRA*PB/-S
 'and': SKP
 'his': HEUS
@@ -223,7 +223,7 @@ Ib and Little Christina
 'poor': PAOR
 'people.': PAOEPL/TP-PL
 'Little': KPA/HREUL
-'Ib,': xxx Ib/KW-BG
+'Ib,': *EUP/PW*/KW-BG
 'a': AEU
 'boy': PWOEU
 'of': -F
@@ -255,7 +255,7 @@ Ib and Little Christina
 'But': KPA/PWUT
 'one': WUPB
 'day': TKAEU
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'succeeded': SUBG/SAOED/-D
 'so': SO
 'well': WEL
@@ -357,7 +357,7 @@ Ib and Little Christina
 'the': -T
 'estate': ES/TAEUT
 'of': -F
-'Silkborg,': xxx Silkborg/KW-BG
+'Silkborg,': S*P/*EU/HR*/K*/PW*/O*/R*/TKPW*/KW-BG
 'and': SKP
 'sometimes': STAOEUPLS
 'even': AOEPB
@@ -366,7 +366,7 @@ Ib and Little Christina
 'distant': STKAPBT
 'town': TOUPB
 'of': -F
-'Randers.': xxx Randers/TP-PL
+'Randers.': RAPBD/*ERS/TP-PL
 'There': KPA/THR
 'was': WAS
 'no': TPHO
@@ -427,7 +427,7 @@ Ib and Little Christina
 'year': KWRAOER
 'younger': KWRURPBG
 'than': THAPB
-'Ib,': xxx Ib/KW-BG
+'Ib,': *EUP/PW*/KW-BG
 'across': KRAOS
 'the': -T
 'heath': HAO*ET
@@ -435,13 +435,13 @@ Ib and Little Christina
 'the': -T
 'cottage': KOT/APBLG
 'of': -F
-'Jeppe': xxx Jeppe
+'Jeppe': SKWR*P/SKWR*E/*P/*P/SKWR*E
 'Jans,': SKWRA*PB/-S/KW-BG
 'and': SKP
 'leave': HREF
 'her': HER
 'there.': THR/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'and': SKP
 'Christina': KREUS/TEU/TPHA
 'agreed': TKPWRAED
@@ -462,7 +462,7 @@ Ib and Little Christina
 'were': WR
 'partners': PAERPBTS
 'in': TPH
-'digging': TKEUG/-G
+'digging': TK*/*EU/TKPW*/TKPW*/-G
 'their': THAEUR
 'little': HREUL
 'gardens;': TKPWARD/-PBS/STPH*FPLT
@@ -508,7 +508,7 @@ Ib and Little Christina
 'a': AEU
 'great': TKPWRAET
 'event.': EFPBT/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'had': H
 'never': TPHEFR
 'been': PW-PB
@@ -799,7 +799,7 @@ Ib and Little Christina
 'active': TAEF
 'life': HRAOEUF
 'at': AT
-'Silkborg.': xxx Silkborg/TP-PL
+'Silkborg.': S*P/*EU/HR*/K*/PW*/O*/R*/TKPW*/TP-PL
 'After': KPA/AF
 'the': -T
 'firewood': TPAOEUR/WAOD
@@ -990,7 +990,7 @@ Ib and Little Christina
 'a': AEU
 'terrible': TERBL
 'disaster.': STKAS/TER/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'jumped': SKWR*UPLD
 'ashore,': A/SHOR/KW-BG
 'and': SKP
@@ -1049,13 +1049,13 @@ Ib and Little Christina
 'began': TKPWAPB
 'to': TO
 'cry.': KRAOEU/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'helped': HEPD
 'her': HER
 'up,': UP/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"Never': KR-GS/KPA/TPHEFR
+'"Never': KW-GS/KPA*/TPHEFR
 'mind;': PHAOEUPBD/STPH*FPLT
 'follow': TPOL
 'me.': PHE/TP-PL
@@ -1196,7 +1196,7 @@ Ib and Little Christina
 'never': TPHEFR
 'mind,"': PHAOEUPBD/KW-BG/KR-GS
 'said': SED
-'Ib;': xxx Ib/STPH*FPLT
+'Ib;': *EUP/PW*/STPH*FPLT
 '"we': KW-GS/WE
 'will': HR
 'go': TKPW
@@ -1281,7 +1281,7 @@ Ib and Little Christina
 'cry,': KRAOEU/KW-BG
 'and': SKP
 'then': THEPB
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'cried': KRAOEUD
 'too;': TAO/STPH*FPLT
 'and,': SKP/KW-BG
@@ -1345,7 +1345,7 @@ Ib and Little Christina
 'be': -B
 'warm,': WARPL/KW-BG
 'and': SKP
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'fancied': TPAPB/SEU/-D
 'he': HE
 'should': SHO
@@ -1501,7 +1501,7 @@ Ib and Little Christina
 'glittered': TKPWHREUT/ERD
 'like': HRAOEUBG
 'a': AEU
-'Moor's;': KPA/PHO*R/AE/S*/STPH*FPLT
+'Moor's;': KPA/PHO*R/AES/STPH*FPLT
 'on': OPB
 'her': HER
 'back': PWABG
@@ -1514,7 +1514,7 @@ Ib and Little Christina
 'her': HER
 'hand': HAPBD
 'a': AEU
-'knotted': TPHO*T/-D
+'knotted': K*/TPH*/O*/T*/T*/-D
 'stick.': STEUBG/TP-PL
 'She': KPA/SHE
 'was': WAS
@@ -1560,7 +1560,7 @@ Ib and Little Christina
 'were': WR
 'wishing': WEURBG
 'nuts.': TPHUTS/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'looked': HRAOBGD
 'at': AT
 'her,': HER/KW-BG
@@ -1604,7 +1604,7 @@ Ib and Little Christina
 'a': AEU
 'pocket': POBGT
 'full.': TPUL/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'and': SKP
 'Christina': KREUS/TEU/TPHA
 'looked': HRAOBGD
@@ -1629,8 +1629,8 @@ Ib and Little Christina
 'of': -F
 'horses?"': HORSZ/H-F/KR-GS
 'asked': SK-D
-'Ib.': xxx Ib/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'Ib.': *EUP/PW*/TP-PL
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'there': THR
 'is': S
 'a': AEU
@@ -1651,7 +1651,7 @@ Ib and Little Christina
 'said': SED
 'Christina;': KREUS/TEU/TPHA/STPH*FPLT
 'so': SO
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'gave': TKPWAEUF
 'it': T
 'to': TO
@@ -1669,7 +1669,7 @@ Ib and Little Christina
 'in': TPH
 'her': HER
 'handkerchief.': HAPB/KER/KHEF/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'held': HELD
 'up': UP
 'another': TPHOER
@@ -1682,7 +1682,7 @@ Ib and Little Christina
 'a': AEU
 'pretty': PREUT
 'little': HREUL
-'neckerchief': xxx neckerchief
+'neckerchief': TPH*/*E/KR*/K*/*E/R*/KR*/H*/*EU/*E/TP*
 'like': HRAOEUBG
 'the': -T
 'one': WUPB
@@ -1692,16 +1692,16 @@ Ib and Little Christina
 'her': HER
 'neck?"': TPHEBG/H-F/KR-GS
 'asked': SK-D
-'Ib.': xxx Ib/TP-PL
+'Ib.': *EUP/PW*/TP-PL
 '"There': KW-GS/KPA*/THR
 'are': R
 'ten': TEPB
-'neckerchiefs': xxx neckerchiefs
+'neckerchiefs': TPH*/*E/KR*/K*/*E/R*/KR*/H*/*EU/*E/TP*/-S
 'in': TPH
 'it,"': T/KW-BG/KR-GS
 'she': SHE
 'replied,': RE/PHRAOEUD/KW-BG
-'"as': KR-GS/AS
+'"as': KW-GS/AS
 'well': WEL
 'as': AS
 'beautiful': PWAOUFL
@@ -1730,7 +1730,7 @@ Ib and Little Christina
 'too."': TAO/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'gave': TKPWAEUF
 'her': HER
 'the': -T
@@ -1760,7 +1760,7 @@ Ib and Little Christina
 'in': TPH
 'it?"': T/H-F/KR-GS
 'asked': SK-D
-'Ib.': xxx Ib/TP-PL
+'Ib.': *EUP/PW*/TP-PL
 '"The': KW-GS/KPA*/-T
 'best': PWEFT
 'of': -F
@@ -1772,7 +1772,7 @@ Ib and Little Christina
 'the': -T
 'gypsy.': SKWREUP/SEU/TP-PL
 'So': KPA/SO
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'held': HELD
 'the': -T
 'nut': TPHUT
@@ -1841,12 +1841,12 @@ Ib and Little Christina
 'forester': TPOR/ES/TER
 'who': WHO
 'knew': TPHAOU
-'Ib,': xxx Ib/KW-BG
+'Ib,': *EUP/PW*/KW-BG
 'and,': SKP/KW-BG
 'by': PWEU
 'his': HEUS
 'help,': HEP/KW-BG
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'and': SKP
 'Christina': KREUS/TEU/TPHA
 'reached': RAOEFPD
@@ -1910,7 +1910,7 @@ Ib and Little Christina
 'the': -T
 'heath,': HAO*ET/KW-BG
 'and': SKP
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'remained': RE/PHAEUPBD
 'in': TPH
 'the': -T
@@ -1929,7 +1929,7 @@ Ib and Little Christina
 'The': KPA/-T
 'first': TPEUFRT
 'thing': THEUPBG
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'did': TK
 'that': THA
 'evening': AOEPBG
@@ -2016,7 +2016,7 @@ Ib and Little Christina
 'I': EU
 'expected!"': KP-PTD/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
-'Ib.': xxx Ib/TP-PL
+'Ib.': *EUP/PW*/TP-PL
 '"How': KW-GS/KPA*/HOU
 'should': SHO
 'there': THR
@@ -2068,7 +2068,7 @@ Ib and Little Christina
 'passed': PAFD
 'away;': WA*EU/STPH*FPLT
 'until': TPH-L
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'was': WAS
 'old': OLD
 'enough': TPHUF
@@ -2104,7 +2104,7 @@ Ib and Little Christina
 'a': AEU
 'visit': SREUFT
 'to': TO
-'Ib's': xxx Ib/AES
+'Ib's': *EUP/PW*/AES
 'parents,': PARPBTS/KW-BG
 'and': SKP
 'told': TOLD
@@ -2141,12 +2141,12 @@ Ib and Little Christina
 'to': TO
 'the': -T
 'rich': REUFP
-'innkeeper's,': *EUPB/KAOEP/ER/AE/S*/KW-BG
+'innkeeper's,': *EUPB/KAOEP/ER/AES/KW-BG
 'at': AT
 'the': -T
 'hotel': HOET/EL
 'in': TPH
-'Herning,': xxx Herning/KW-BG
+'Herning,': KPA/HER/*PB/-G/KW-BG
 'many': PHAEPB
 'miles': PHAOEULS
 'west': WEFT
@@ -2182,7 +2182,7 @@ Ib and Little Christina
 'own': OEPB
 'daughter."': TKAUR/TP-PL/KR-GS
 'So': KPA/SO
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'and': SKP
 'Christina': KREUS/TEU/TPHA
 'took': TAOBG
@@ -2202,7 +2202,7 @@ Ib and Little Christina
 'the': -T
 'girl': TKPWEURL
 'showed': SHOED
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'the': -T
 'two': TWO
 'nuts,': TPHUTS/KW-BG
@@ -2263,7 +2263,7 @@ Ib and Little Christina
 'they': THE
 'parted.': PARTD/TP-PL
 'After': KPA/AF
-'Ib's': xxx Ib/AES
+'Ib's': *EUP/PW*/AES
 'confirmation,': K-FRPLGS/KW-BG
 'he': HE
 'remained': RE/PHAEUPBD
@@ -2313,7 +2313,7 @@ Ib and Little Christina
 'Christina,': KREUS/TEU/TPHA/KW-BG
 'through': THRU
 'a': AEU
-'postillion': xxx postillion
+'postillion': P*/O*/S*/T*/*EU/HR*/HR*/SKWREU/KWRO/*PB
 'or': OR
 'eel-seller': AOEL/H-PB/SERL
 'who': WHO
@@ -2346,7 +2346,7 @@ Ib and Little Christina
 'kind': KEUPBD
 'message': PHEPBLG
 'to': TO
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'and': SKP
 'his': HEUS
 'mother.': PHOER/TP-PL
@@ -2397,7 +2397,7 @@ Ib and Little Christina
 'the': -T
 'house': HOUS
 'where': W-R
-'Ib's': xxx Ib/AES
+'Ib's': *EUP/PW*/AES
 'old': OLD
 'mother': PHOER
 'lived;': HREUFD/STPH*FPLT
@@ -2435,7 +2435,7 @@ Ib and Little Christina
 'come': KOPL
 'from': TPR
 'the': -T
-'Herning': xxx Herning
+'Herning': KPA/HER/*PB/-G
 'hotel': HOET/EL
 'to': TO
 'the': -T
@@ -2479,7 +2479,7 @@ Ib and Little Christina
 'full': TPUL
 'dress,': TKRES/KW-BG
 'while': WHAOEUL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'wore': WOR
 'only': OEPBL
 'his': HEUS
@@ -2549,7 +2549,7 @@ Ib and Little Christina
 'know': TPHOE
 'me': PHE
 'again,': STKPWERPBGS
-'Ib?"': xxx Ib/H-F/KR-GS
+'Ib?"': *EUP/PW*/H-F/KR-GS
 'he': HE
 'still': STEUL
 'stood': STAOD
@@ -2612,7 +2612,7 @@ Ib and Little Christina
 'the': -T
 'flowering': TPHROU/ERG
 'broom.': PWRAOPL/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'said': SED
 'nothing;': TPHOG/STPH*FPLT
 'but': PWUT
@@ -2706,8 +2706,8 @@ Ib and Little Christina
 'morning': PHORPBG
 'early': ERL
 'for': TPOR
-'Herning.': xxx Herning/TP-PL
-'Ib': xxx Ib
+'Herning.': KPA/HER/*PB/-G/TP-PL
+'Ib': *EUP/PW*
 'and': SKP
 'her': HER
 'father': TPAER
@@ -2726,7 +2726,7 @@ Ib and Little Christina
 'when': WHEPB
 'they': THE
 'arrived,': A/RAOEUFD/KW-BG
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'stood': STAOD
 'holding': HOELGD
 'Christina's': KREUS/TEU/TPHA/AES
@@ -2763,7 +2763,7 @@ Ib and Little Christina
 'of': -F
 'his': HEUS
 'heart:': HART/STPH-FPLT
-'"Christina,': KR-GS/KREUS/TEU/TPHA/KW-BG
+'"Christina,': KW-GS/KREUS/TEU/TPHA/KW-BG
 'if': TP
 'you': U
 'have': SR
@@ -2799,7 +2799,7 @@ Ib and Little Christina
 'for': TPOR
 'a': AEU
 'while."': WHAOEUL/TP-PL/KR-GS
-'"Oh': KR-GS/KPA/O*ERBGS
+'"Oh': KW-GS/KPA*/O*ERBGS
 'yes,"': KWRERBGS/KR-GS
 'she': SHE
 'replied;': RE/PHRAOEUD/STPH*FPLT
@@ -2809,7 +2809,7 @@ Ib and Little Christina
 'a': AEU
 'little': HREUL
 'longer,': HRORPBG/KW-BG
-'Ib.': xxx Ib/TP-PL
+'Ib.': *EUP/PW*/TP-PL
 'I': EU
 'can': K
 'trust': TRUFT
@@ -2841,7 +2841,7 @@ Ib and Little Christina
 'the': -T
 'way': WAEU
 'home,': HOEPL/KW-BG
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'told': TOLD
 'the': -T
 'boatman': PWOET/PHA*PB
@@ -2875,7 +2875,7 @@ Ib and Little Christina
 'went': WEPBT
 'home': HOEPL
 'with': W
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'that': THA
 'evening,': AOEPBG/KW-BG
 'and': SKP
@@ -2901,13 +2901,13 @@ Ib and Little Christina
 'letters': HRERTS
 'passed': PAFD
 'between': TWAOEPB
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'and': SKP
 'Christina.': KREUS/TEU/TPHA/TP-PL
 'They': KPA/THE
 'were': WR
 'signed,': SAOEUPBD/KW-BG
-'"Faithful': KR-GS/KPA/TPA*EUT/-FL
+'"Faithful': KW-GS/KPA*/TPA*EUT/-FL
 'till': TEUL
 'death;"': TK*T/STPH*FPLT/KR-GS
 'but': PWUT
@@ -2925,7 +2925,7 @@ Ib and Little Christina
 'over': OEFR
 'to': TO
 'see': SAOE
-'Ib,': xxx Ib/KW-BG
+'Ib,': *EUP/PW*/KW-BG
 'with': W
 'a': AEU
 'kind': KEUPBD
@@ -3032,7 +3032,7 @@ Ib and Little Christina
 'often': OFPB
 'thought': THAUT
 'of': -F
-'Ib,': xxx Ib/KW-BG
+'Ib,': *EUP/PW*/KW-BG
 'and': SKP
 'knew': TPHAOU
 'how': HOU
@@ -3055,7 +3055,7 @@ Ib and Little Christina
 'boatman.': PWOET/PHA*PB/TP-PL
 'At': KPA/AT
 'first': TPEUFRT
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'said': SED
 'not': TPHOT
 'a': AEU
@@ -3095,7 +3095,7 @@ Ib and Little Christina
 'said': SED
 'the': -T
 'boatman.': PWOET/PHA*PB/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'sat': SAT
 'down': TKOUPB
 'to': TO
@@ -3257,11 +3257,11 @@ Ib and Little Christina
 'the': -T
 'heart's': HART/AES
 'consolation."': KOPBS/HRAEUGS/TP-PL/KR-GS
-'"Ever': KR-GS/KPA/-FR
+'"Ever': KW-GS/KPA*/-FR
 'your': KWROUR
 'sincere': SEUPB/SAOER
 'friend,': TPREPBD/KW-BG
-'IB."': xxx IB/TP-PL/KR-GS
+'IB."': *EUP/PW*P/TP-PL/KR-GS
 'This': KPA/TH
 'letter': HRERT
 'was': WAS
@@ -3281,7 +3281,7 @@ Ib and Little Christina
 'following': TPOLG
 'November,': TPHOF/KW-BG
 'her': HER
-'banns': xxx banns
+'banns': PWAPB/*PB/-S
 'were': WR
 'published': PHR*EURBD
 'in': TPH
@@ -3309,7 +3309,7 @@ Ib and Little Christina
 'of': -F
 'her': HER
 'future': TPAOURT
-'mother-in-law,': PHOER/H-PB/TPH/H-PB/HRAU/KW-BG
+'mother-in-law,': PHOERPBL/KW-BG
 'because': PWAU
 'the': -T
 'bridegroom': PWRAOEUD/TKPWRAOPL
@@ -3327,7 +3327,7 @@ Ib and Little Christina
 'so': SO
 'far': TPAR
 'into': TPHAO
-'Jutland.': xxx Jutland/TP-PL
+'Jutland.': SKWR*P/*U/T*/HR*/KWRA/*PBD/TP-PL
 'On': KPA/OPB
 'the': -T
 'journey,': SKWRURPB/KW-BG
@@ -3359,7 +3359,7 @@ Ib and Little Christina
 'the': -T
 'matter': PHAERT
 'to': TO
-'Ib,': xxx Ib/KW-BG
+'Ib,': *EUP/PW*/KW-BG
 'and': SKP
 'he': HE
 'did': TK
@@ -3516,7 +3516,7 @@ Ib and Little Christina
 'long': HROPBG
 'years': KWRAOERS
 'to': TO
-'Ib.': xxx Ib/TP-PL
+'Ib.': *EUP/PW*/TP-PL
 'The': KPA/-T
 'old': OLD
 'innkeeper': *EUPB/KAOEP/ER
@@ -3645,7 +3645,7 @@ Ib and Little Christina
 'under': TPH-PB
 'which': WEU
 'stood': STAOD
-'Ib's': xxx Ib/AES
+'Ib's': *EUP/PW*/AES
 'sheltered': SHELT/ERD
 'home.': HOEPL/TP-PL
 'One': KPA/WUPB
@@ -3674,7 +3674,7 @@ Ib and Little Christina
 'fancied': TPAPB/SEU/-D
 'was': WAS
 'a': AEU
-'firestone,': xxx firestone/KW-BG
+'firestone,': TPAOEUR/STO*EPB/KW-BG
 'and': SKP
 'then': THEPB
 'he': HE
@@ -3722,7 +3722,7 @@ Ib and Little Christina
 'had': H
 'disturbed': STKURBD
 'a': AEU
-'Hun's': xxx Hun/AES
+'Hun's': H*P/SKWRU/*PB/AES
 'grave.': TKPWRAEUF/TP-PL
 'He': KPA/HE
 'searched': SEFRPBD
@@ -3733,7 +3733,7 @@ Ib and Little Christina
 'valuable': SRABL
 'treasures,': TR-RBS/KW-BG
 'which': WEU
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'showed': SHOED
 'to': TO
 'the': -T
@@ -3762,7 +3762,7 @@ Ib and Little Christina
 'discovery,': SKOEFR/KW-BG
 'and': SKP
 'advised': SRAOEUFD
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'to': TO
 'take': TAEUBG
 'the': -T
@@ -3790,7 +3790,7 @@ Ib and Little Christina
 'best': PWEFT
 'thing,"': THEUPBG/KW-BG/KR-GS
 'thought': THAUT
-'Ib;': xxx Ib/STPH*FPLT
+'Ib;': *EUP/PW*/STPH*FPLT
 '"the': KW-GS/-T
 'very': SRE
 'best': PWEFT
@@ -3817,13 +3817,13 @@ Ib and Little Christina
 'her': HER
 'prophecy."': PROF/KREU/TP-PL/KR-GS
 'So': KPA/SO
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'went': WEPBT
 'in': TPH
 'the': -T
 'ferry-boat': TPER/REU/H-PB/PWOET
 'from': TPR
-'Aarhus': xxx Aarhus
+'Aarhus': A*P/A*/R*/H*/SKWRU/-S
 'to': TO
 'Copenhagen.': KOEP/*EPB/HAG/TP-PL
 'To': KPA/TO
@@ -3877,7 +3877,7 @@ Ib and Little Christina
 'hundred': HUPBD
 'dollars.': TKHRARS/TP-PL
 'Then': KPA/THEPB
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'of': -F
 'the': -T
 'heath': HAO*ET
@@ -3907,7 +3907,7 @@ Ib and Little Christina
 'of': -F
 'the': -T
 'passage-boat,': PAFPBLG/H-PB/PWOET/KW-BG
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'lost': HRO*S
 'himself': HEUPLS
 'in': TPH
@@ -3964,7 +3964,7 @@ Ib and Little Christina
 'wretched-looking': WREFPD/SKWRAOG
 'houses,': HO*UFS/KW-BG
 'and': SKP
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'asked': SK-D
 'her': HER
 'to': TO
@@ -4031,7 +4031,7 @@ Ib and Little Christina
 'sensation': STPHAEUGS
 'came': KAEUPL
 'over': OEFR
-'Ib,': xxx Ib/KW-BG
+'Ib,': *EUP/PW*/KW-BG
 'as': AS
 'he': HE
 'caught': KAUT
@@ -4125,7 +4125,7 @@ Ib and Little Christina
 'of': -F
 'a': AEU
 'match,': PHAFP/KW-BG
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'struck': STRUBG
 'a': AEU
 'light,': HRAOEUT/KW-BG
@@ -4200,7 +4200,7 @@ Ib and Little Christina
 'her': HER
 'name': TPHAEUPL
 'to': TO
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'for': TPOR
 'years;': KWRAOERS/STPH*FPLT
 'it': T
@@ -4411,7 +4411,7 @@ Ib and Little Christina
 'Little': KPA/HREUL
 'Christina,': KREUS/TEU/TPHA/KW-BG
 'whom': WHOPL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'had': H
 'followed': TPOLD
 'to': TO
@@ -4455,7 +4455,7 @@ Ib and Little Christina
 'no': TPHO
 'more.': PHOR/TP-PL
 'Then': KPA/THEPB
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'brought': PWRAUT
 'out': OUT
 'another': TPHOER
@@ -4482,7 +4482,7 @@ Ib and Little Christina
 'the': -T
 'wretched': WREFPD
 'dwelling.': TKWELG/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'looked': HRAOBGD
 'at': AT
 'the': -T
@@ -4545,7 +4545,7 @@ Ib and Little Christina
 'by': PWEU
 'the': -T
 'river': REUFR
-'Gudenau,': xxx Gudenau/KW-BG
+'Gudenau,': TKPWU/TK*EPB/KWRA/SKWRU/KW-BG
 'not': TPHOT
 'far': TPAR
 'from': TPR
@@ -4654,9 +4654,9 @@ Ib and Little Christina
 'Christina': KREUS/TEU/TPHA
 'sat': SAT
 'on': OPB
-'Ib's': xxx Ib/AES
+'Ib's': *EUP/PW*/AES
 'knee.': TPHAOE/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'was': WAS
 'to': TO
 'her': HER
@@ -4681,7 +4681,7 @@ Ib and Little Christina
 'childhood': KHAOEULD/H*D
 'and': SKP
 'age.': AEUPBLG/TP-PL
-'Ib's': xxx Ib/AES
+'Ib's': *EUP/PW*/AES
 'house': HOUS
 'was': WAS
 'well': WEL
@@ -4714,7 +4714,7 @@ Ib and Little Christina
 'died': TKAOEUD
 'in': TPH
 'poverty.': POFRT/TP-PL
-'Ib': xxx Ib
+'Ib': *EUP/PW*
 'had': H
 'money': PHUPB
 'now—money': TPHOU/EPL/TKA*RB/PHUPB

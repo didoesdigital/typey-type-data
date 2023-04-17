@@ -23,7 +23,7 @@ The Windmill
 'all,"': AUL/KW-BG/KR-GS
 'it': T
 'said,': SED/KW-BG
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'am': APL
 'very': SRE
@@ -52,7 +52,7 @@ The Windmill
 'bargain': PWAR/TKPWAEUPB
 'I': EU
 'have': SR
-'stearine': xxx stearine
+'stearine': S*/T*/SKWR*E/A*R/AOEUPB
 'candles,': KAPBD/-LS/KW-BG
 'train': TRAEUPB
 'oil': OEUL
@@ -173,7 +173,7 @@ The Windmill
 'called': KAULD
 'by': PWEU
 'others': OERS
-''The': AE/KPA/-T
+''The': A*E/KPA*/-T
 'Man': KPA/PHAPB
 'in': TPH
 'the': -T
@@ -202,7 +202,7 @@ The Windmill
 'she': SHE
 'calls': KAULS
 'herself': H*ERS
-''Mother.'': AE/KPA/PHOER/TP-PL/AE
+''Mother.'': A*E/KPA*/PHOER/TP-PL/AE
 'She': KPA/SHE
 'is': S
 'the': -T
@@ -279,7 +279,7 @@ The Windmill
 'call': KAUL
 'the': -T
 'other': OER
-''My': AE/KPA/PHEU
+''My': A*E/KPA*/PHEU
 'half.'': HAF/TP-PL/AE
 'These': KPA/THEZ
 'two': TWO
@@ -326,7 +326,7 @@ The Windmill
 'was': WAS
 'going': TKPW-G
 'on': OPB
-'there,—for': THR/KW-BG/EPL/TKA*RB/TPOR
+'there,—for': THR-RBGS/EPL/TKA*RB/TPOR
 'something': S-G
 'in': TPH
 'me': PHE
@@ -427,7 +427,7 @@ The Windmill
 'called.': KAULD/TP-PL
 'It's': KPA/T-S
 'wonderful': WUFL
-'enough—yes,': TPHUF/EPL/TKA*RB/KWRE/KW-BG
+'enough—yes,': TPHUF/EPL/TKA*RB/KWRERBGS
 'there': THR
 'are': R
 'many': PHAEPB
@@ -467,7 +467,7 @@ The Windmill
 'a': AEU
 'more': PHOR
 'affectionate': A*FBGS/TPHAT
-'helpmate—so': xxx helpmate/EPL/TKA*RB/SO
+'helpmate—so': H*/*E/HR*/P*/PH*/A*T/EPL/TKA*RB/SO
 'young': KWRUPBG
 'and': SKP
 'good,': TKPWAOD/KW-BG
@@ -576,7 +576,7 @@ The Windmill
 'with': W
 'sun,': SUPB/KW-BG
 'moon,': PHAOPB/KW-BG
-'stearine,': xxx stearine/KW-BG
+'stearine,': S*/T*/SKWR*E/A*R/AOEUPB/KW-BG
 'train': TRAEUPB
 'oil,': OEUL/KW-BG
 'and': SKP
@@ -643,7 +643,7 @@ The Windmill
 'must': PHUFT
 'also': HR-S
 'remain': RAEUPL
-''myself,'': AE/PHAO*EUS/KW-BG/AE
+''myself,'': A*E/PHAO*EUS/KW-BG/AE
 'with': W
 'my': PHEU
 'throat': THROET
@@ -674,7 +674,7 @@ The Windmill
 'me,': PHE/KW-BG
 'and': SKP
 'say,': SAEU/KW-BG
-''There's': AE/KPA/THR/AES
+''There's': A*E/KPA*/THR/AES
 'the': -T
 'mill': PHEUL
 'on': OPB

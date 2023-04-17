@@ -1,7 +1,7 @@
 Anne Lisbeth
 
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'was': WAS
 'a': AEU
 'beautiful': PWAOUFL
@@ -205,7 +205,7 @@ Anne Lisbeth
 'went': WEPBT
 'on,': OPB/KW-BG
 'Anne': A*EPB
-'Lisbeth's': xxx Lisbeth/AES
+'Lisbeth's': HR*P/*EU/S*/PW*/*ET/AES
 'child': KHAOEULD
 'grew': TKPWRAOU
 'apace': A/PAEUS
@@ -388,7 +388,7 @@ Anne Lisbeth
 'and': SKP
 'dry.': TKRAOEU/TP-PL
 'Anne': A*EPB
-'Lisbeth's': xxx Lisbeth/AES
+'Lisbeth's': HR*P/*EU/S*/PW*/*ET/AES
 'boy': PWOEU
 'also': HR-S
 'sat': SAT
@@ -409,7 +409,7 @@ Anne Lisbeth
 'If': KPA/TP
 'it': T
 'was': WAS
-'spring-time,': SPREUPBG/H-PB/TAOEUPL/KW-BG
+'spring-time,': SPREUPBG/TA*EPL/KW-BG
 'he': HE
 'knew': TPHAOU
 'of': -F
@@ -511,7 +511,7 @@ Anne Lisbeth
 'world': WORLD
 'treated': TRAOETD
 'Anne': A*EPB
-'Lisbeth's': xxx Lisbeth/AES
+'Lisbeth's': HR*P/*EU/S*/PW*/*ET/AES
 'boy,': PWOEURBGS
 'and': SKP
 'how': HOU
@@ -764,7 +764,7 @@ Anne Lisbeth
 'entered': SPWR-D
 'as': AS
 'Anne': A*EPB
-'Lisbeth's': xxx Lisbeth/AES
+'Lisbeth's': HR*P/*EU/S*/PW*/*ET/AES
 'son.': SOPB/TP-PL
 'The': KPA/-T
 'wind': WEUPBD
@@ -1012,7 +1012,7 @@ Anne Lisbeth
 'loved,': HROFD/KW-BG
 'which': WEU
 'Anne': A*EPB
-'Lisbeth's': xxx Lisbeth/AES
+'Lisbeth's': HR*P/*EU/S*/PW*/*ET/AES
 'boy': PWOEU
 'had': H
 'not': TPHOT
@@ -1027,10 +1027,10 @@ Anne Lisbeth
 'able': ABL
 'to': TO
 'say,': SAEU/KW-BG
-'"Never': KR-GS/KPA/TPHEFR
+'"Never': KW-GS/KPA*/TPHEFR
 'loved."': HROFD/TP-PL/KR-GS
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'had': H
 'now': TPHOU
 'lived': HREUFD
@@ -1042,7 +1042,7 @@ Anne Lisbeth
 'she': SHE
 'was': WAS
 'called': KAULD
-'"Madame,"': KR-GS/PHA*/TKAPL/KW-BG/KR-GS
+'"Madame,"': KW-GS/PHA*/TKAPL/KW-BG/KR-GS
 'and': SKP
 'felt': TPELT
 'dignified': TKEUG/TPHEU/TPAOEUD
@@ -1161,10 +1161,10 @@ Anne Lisbeth
 'one': WUPB
 'effort': EFRT
 'to': TO
-'go,"': TKPW/KW-BG/KR-GS
+'go,"': TKPW-RBGS/KR-GS
 'said': SED
 'Anne': A*EPB
-'Lisbeth,': xxx Lisbeth/KW-BG
+'Lisbeth,': HR*P/*EU/S*/PW*/*ET/KW-BG
 '"to': KW-GS/TO
 'see': SAOE
 'my': PHEU
@@ -1214,7 +1214,7 @@ Anne Lisbeth
 'neck,': TPHEBG/KW-BG
 'and': SKP
 'lisp': HREUFP
-''Anne': AE/A*EPB
+''Anne': A*E/A*EPB
 'Liz.'': HREUZ/TP-PL/AE
 'It': KPA/T
 'was': WAS
@@ -1239,7 +1239,7 @@ Anne Lisbeth
 'country': KREU
 'in': TPH
 'a': AEU
-'grazier's': xxx grazier/AES
+'grazier's': TKPW*/R*/A*/STKPW*/SKWREU/*ER/AES
 'cart,': KART/KW-BG
 'and': SKP
 'then': THEPB
@@ -1289,7 +1289,7 @@ Anne Lisbeth
 'them': THEPL
 'knew': TPHAOU
 'Anne': A*EPB
-'Lisbeth,': xxx Lisbeth/KW-BG
+'Lisbeth,': HR*P/*EU/S*/PW*/*ET/KW-BG
 'nor': TPH-R
 'of': -F
 'what': WHA
@@ -1325,7 +1325,7 @@ Anne Lisbeth
 'Now': KPA/TPHOU
 'that': THA
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'was': WAS
 'at': AT
 'her': HER
@@ -1469,7 +1469,7 @@ Anne Lisbeth
 'earthly': *ERT/HREU
 'pride!': PRAOEUD/SKHRAPL
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'went': WEPBT
 'forth': TPO*RT
 'from': TPR
@@ -1530,7 +1530,7 @@ Anne Lisbeth
 'and': SKP
 'croaked': KROEBG/-D
 'dismally.': TKEUS/PHAL/HREU/TP-PL
-'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
+'"Ah,"': KW-GS/KPA*/AERBGS/KR-GS
 'said': SED
 'she,': SHE/KW-BG
 '"what': KW-GS/WHA
@@ -1566,7 +1566,7 @@ Anne Lisbeth
 'said': SED
 'the': -T
 'woman;': WOPL/STPH*FPLT
-'"you're': KR-GS/U/AE/R*/*E
+'"you're': KW-GS/UR
 'fat': TPAT
 'and': SKP
 'plump;': PHRUFRP/STPH*FPLT
@@ -1574,11 +1574,11 @@ Anne Lisbeth
 'are': R
 'well': WEL
 'off."': OF/TP-PL/KR-GS
-'"Oh': KR-GS/KPA/O*ERBGS
+'"Oh': KW-GS/KPA*/O*ERBGS
 'yes,"': KWRERBGS/KR-GS
 'answered': AEPBS/-D
 'Anne': A*EPB
-'Lisbeth.': xxx Lisbeth/TP-PL
+'Lisbeth.': HR*P/*EU/S*/PW*/*ET/TP-PL
 '"The': KW-GS/KPA*/-T
 'boat': PWOET
 'went': WEPBT
@@ -1588,7 +1588,7 @@ Anne Lisbeth
 'continued': T-PBD
 'the': -T
 'woman;': WOPL/STPH*FPLT
-'"Hans': KR-GS/HAPBS
+'"Hans': KW-GS/HAPBS
 'the': -T
 'skipper': SKEUP/ER
 'and': SKP
@@ -1618,21 +1618,21 @@ Anne Lisbeth
 'a': AEU
 'few': TPAOU
 'dollars.': TKHRARS/TP-PL
-'He'll': KPA/HE/AE/HR*/HR*
+'He'll': KPA/*EL
 'never': TPHEFR
 'cost': KOFT
 'you': U
 'anything': TPHEUG
 'more,': PHOR/KW-BG
 'Anne': A*EPB
-'Lisbeth."': xxx Lisbeth/TP-PL/KR-GS
+'Lisbeth."': HR*P/*EU/S*/PW*/*ET/TP-PL/KR-GS
 '"So': KW-GS/KPA*/SO
 'they': THE
 'were': WR
 'drowned,"': TKROUPBD/KW-BG/KR-GS
 'repeated': RE/PAOETD
 'Anne': A*EPB
-'Lisbeth;': xxx Lisbeth/STPH*FPLT
+'Lisbeth;': HR*P/*EU/S*/PW*/*ET/STPH*FPLT
 'but': PWUT
 'she': SHE
 'said': SED
@@ -1738,8 +1738,8 @@ Anne Lisbeth
 'wretch!"': WREFP/SKHRAPL/KR-GS
 'said': SED
 'Anne': A*EPB
-'Lisbeth,': xxx Lisbeth/KW-BG
-'"he': KR-GS/HE
+'Lisbeth,': HR*P/*EU/S*/PW*/*ET/KW-BG
+'"he': KW-GS/HE
 'will': HR
 'end': EPBD
 'by': PWEU
@@ -1795,7 +1795,7 @@ Anne Lisbeth
 'the': -T
 'meantime': PHAOEPB/TAO*EUPL
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'seated': SAOETD
 'her': HER
 'in': TPH
@@ -2050,7 +2050,7 @@ Anne Lisbeth
 'torn,': TORPB/KW-BG
 'and': SKP
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'fell': TPEL
 'down': TKOUPB
 'in': TPH
@@ -2110,7 +2110,7 @@ Anne Lisbeth
 'and': SKP
 'then': THEPB
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'went': WEPBT
 'away': WA*EU
 'towards': TORDZ
@@ -2300,7 +2300,7 @@ Anne Lisbeth
 'sea-shore.': SAE/H-PB/SHOR/TP-PL
 'As': KPA/AS
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'walked': WAUBGD
 'on': OPB
 'she': SHE
@@ -2345,7 +2345,7 @@ Anne Lisbeth
 'deep': TKAOEP
 'sea.': SAE/TP-PL
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'walked': WAUBGD
 'on,': OPB/KW-BG
 'thinking': THEUG
@@ -2465,7 +2465,7 @@ Anne Lisbeth
 'was': WAS
 'with': W
 'Anne': A*EPB
-'Lisbeth.': xxx Lisbeth/TP-PL
+'Lisbeth.': HR*P/*EU/S*/PW*/*ET/TP-PL
 'The': KPA/-T
 'germ': SKWRERPL
 'of': -F
@@ -2573,7 +2573,7 @@ Anne Lisbeth
 'are': R
 'there.': THR/TP-PL
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'walked': WAUBGD
 'on': OPB
 'thus': THUS
@@ -2591,7 +2591,7 @@ Anne Lisbeth
 'her.': HER/TP-PL
 'From': KPA/TPR
 'one': WUPB
-'Shrove': xxx Shrove
+'Shrove': S*P/H*/R*/O*/SR*/SKWR*E
 'Tuesday': TAOUZ
 'to': TO
 'another,': TPHOER/KW-BG
@@ -2640,7 +2640,7 @@ Anne Lisbeth
 'existence;': KPEUFS/STPH*FPLT
 'and': SKP
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'did': TK
 'not': TPHOT
 'think': THEU
@@ -2713,7 +2713,7 @@ Anne Lisbeth
 'at': AT
 'the': -T
 'hat;': HAT/STPH*FPLT
-'"Ha!': KR-GS/KPA/HAE/SKHRAPL
+'"Ha!': KW-GS/KPA*/HAE/SKHRAPL
 'what': WHA
 'was': WAS
 'lying': HRAOEUG
@@ -2834,7 +2834,7 @@ Anne Lisbeth
 'in': TPH
 'consecrated': KOPBS/KRAEUT/-D
 'ground.': TKPWROUPBD/TP-PL
-'"Hold': KR-GS/KPA/HOLD
+'"Hold': KW-GS/KPA*/HOLD
 'fast!': TPAFT/SKHRAPL
 'hold': HOLD
 'fast!"': TPAFT/SKHRAPL/KR-GS
@@ -2845,7 +2845,7 @@ Anne Lisbeth
 'and': SKP
 'as': AS
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'murmured': PHUR/PHUR/-D
 'these': THEZ
 'words': WORDZ
@@ -2932,7 +2932,7 @@ Anne Lisbeth
 'waters,': WAURS/KW-BG
 'and': SKP
 'cry,': KRAOEU/KW-BG
-'"Hold': KR-GS/KPA/HOLD
+'"Hold': KW-GS/KPA*/HOLD
 'fast;': TPAFT/STPH*FPLT
 'carry': KAER
 'me': PHE
@@ -3036,7 +3036,7 @@ Anne Lisbeth
 'upon': POPB
 'her': HER
 'limbs.': HREUPLS/TP-PL
-'"Hold,"': KR-GS/KPA/HOLD/KW-BG/KR-GS
+'"Hold,"': KW-GS/KPA*/HOLD/KW-BG/KR-GS
 'thought': THAUT
 'she;': SHE/STPH*FPLT
 'and': SKP
@@ -3070,7 +3070,7 @@ Anne Lisbeth
 'from': TPR
 'its': EUTS
 'shoulders.': SHOURLDZ/TP-PL
-'"Stop!': KR-GS/KPA/STOP/SKHRAPL
+'"Stop!': KW-GS/KPA*/STOP/SKHRAPL
 'carry': KAER
 'me': PHE
 'to': TO
@@ -3199,7 +3199,7 @@ Anne Lisbeth
 'way,': WAEU/KW-BG
 'it': T
 'returned.': RURPBD/TP-PL
-'"Stop!': KR-GS/KPA/STOP/SKHRAPL
+'"Stop!': KW-GS/KPA*/STOP/SKHRAPL
 'stop!"': STOP/SKHRAPL/KR-GS
 'and': SKP
 'the': -T
@@ -3425,7 +3425,7 @@ Anne Lisbeth
 'shallowest': SHOEUL/EFT
 'ground.': TKPWROUPBD/TP-PL
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'now': TPHOU
 'experienced': SPAOERPBD
 'in': TPH
@@ -3438,7 +3438,7 @@ Anne Lisbeth
 'words.': WORDZ/TP-PL
 'She': KPA/SHE
 'was': WAS
-'overpowered': AUFR/POUR/-D
+'overpowered': AUFR/POURD
 'by': PWEU
 'them,': THEPL/KW-BG
 'and': SKP
@@ -3589,12 +3589,12 @@ Anne Lisbeth
 'night,': TPHAOEUT/KW-BG
 'at': AT
 'twelve': TWEFL
-'o'clock,': O*/AE/KHROBG/KW-BG
+'o'clock,': KHRO*BG/KW-BG
 'he': HE
 'drove': TKROEF
 'into': TPHAO
 'his': HEUS
-'castleyard': xxx castleyard
+'castleyard': KAFL/KWREU/KWRA/R*D
 'and': SKP
 'out': OUT
 'again.': TKPWEPB/TP-PL
@@ -3618,10 +3618,10 @@ Anne Lisbeth
 'pointed': POEUPBTD
 'to': TO
 'Anne': A*EPB
-'Lisbeth,': xxx Lisbeth/KW-BG
+'Lisbeth,': HR*P/*EU/S*/PW*/*ET/KW-BG
 'crying': KRAOEUG
 'out,': OUT/KW-BG
-'"Hold': KR-GS/KPA/HOLD
+'"Hold': KW-GS/KPA*/HOLD
 'fast!': TPAFT/SKHRAPL
 'hold': HOLD
 'fast!': TPAFT/SKHRAPL
@@ -3701,7 +3701,7 @@ Anne Lisbeth
 'croaked,': KROEBG/-D/KW-BG
 'and': SKP
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'felt': TPELT
 'that': THA
 'the': -T
@@ -3858,9 +3858,9 @@ Anne Lisbeth
 'and,': SKP/KW-BG
 'exhausted': KPAUFTD
 'and': SKP
-'overpowered,': AUFR/POUR/-D/KW-BG
+'overpowered,': AUFR/POURD/KW-BG
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'sunk': S*UPBG
 'to': TO
 'the': -T
@@ -3932,7 +3932,7 @@ Anne Lisbeth
 'painted': PAEUPBTD
 'wood.': WAOD/TP-PL
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'was': WAS
 'in': TPH
 'a': AEU
@@ -4002,7 +4002,7 @@ Anne Lisbeth
 'deep': TKAOEP
 'water.': WAUR/TP-PL
 'Anne': A*EPB
-'Lisbeth': xxx Lisbeth
+'Lisbeth': HR*P/*EU/S*/PW*/*ET
 'returned': RURPBD
 'to': TO
 'her': HER
@@ -4138,7 +4138,7 @@ Anne Lisbeth
 'the': -T
 'altar': AL/TAR
 'Anne': A*EPB
-'Lisbeth,': xxx Lisbeth/KW-BG
+'Lisbeth,': HR*P/*EU/S*/PW*/*ET/KW-BG
 'who': WHO
 'had': H
 'spent': SPEPBT
@@ -4198,7 +4198,7 @@ Anne Lisbeth
 'the': -T
 'prophet': PRO*FT
 'Joel,': SKWROEL/KW-BG
-'"Rend': KR-GS/KPA/REPBD
+'"Rend': KW-GS/KPA*/REPBD
 'your': KWROUR
 'hearts': HARTS
 'and': SKP
@@ -4228,7 +4228,7 @@ Anne Lisbeth
 'face': TPAEUS
 'of': -F
 'Anne': A*EPB
-'Lisbeth,': xxx Lisbeth/KW-BG
+'Lisbeth,': HR*P/*EU/S*/PW*/*ET/KW-BG
 'lighted': HRAOEUTD
 'up': UP
 'by': PWEU
@@ -4271,7 +4271,7 @@ Anne Lisbeth
 'said': SED
 'to': TO
 'her,': HER/KW-BG
-'"Thou': KR-GS/KPA/THO*U
+'"Thou': KW-GS/KPA*/THO*U
 'hast': H*/A*/S*/T*
 'dug': TKUG
 'me': PHE
@@ -4343,7 +4343,7 @@ Anne Lisbeth
 'sun': SUPB
 'set,': SET/KW-BG
 'Anne': A*EPB
-'Lisbeth's': xxx Lisbeth/AES
+'Lisbeth's': HR*P/*EU/S*/PW*/*ET/AES
 'soul': SOUL
 'had': H
 'risen': REUFPB
@@ -4358,7 +4358,7 @@ Anne Lisbeth
 'pain;': PAEUPB/STPH*FPLT
 'and': SKP
 'Anne': A*EPB
-'Lisbeth's': xxx Lisbeth/AES
+'Lisbeth's': HR*P/*EU/S*/PW*/*ET/AES
 'troubles': TRUBLS
 'were': WR
 'at': AT

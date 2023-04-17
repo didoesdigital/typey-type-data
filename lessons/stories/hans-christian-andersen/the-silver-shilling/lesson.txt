@@ -14,7 +14,7 @@ The Silver Shilling
 'springing': SPREUPBG/-G
 'and': SKP
 'shouting,': SHOUGT/KW-BG
-'"Hurrah!': KR-GS/KPA/HUR/RA/SKHRAPL
+'"Hurrah!': KW-GS/KPA*/HUR/RA/SKHRAPL
 'now': TPHOU
 'I': EU
 'am': APL
@@ -163,7 +163,7 @@ The Silver Shilling
 '"Why,"': KW-GS/KPA*/KWR/KW-BG/KR-GS
 'cried': KRAOEUD
 'he,': HE/KW-BG
-'"here': KR-GS/HAOER
+'"here': KW-GS/HAOER
 'is': S
 'a': AEU
 'shilling': SHEULG
@@ -498,11 +498,11 @@ The Silver Shilling
 'three': THRAOE
 'other': OER
 'coins.': KOEUPBS/TP-PL
-'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
+'"Ah,"': KW-GS/KPA*/AERBGS/KR-GS
 'thought': THAUT
 'the': -T
 'shilling,': SHEULG/KW-BG
-'"this': KR-GS/TH
+'"this': KW-GS/TH
 'is': S
 'pleasant;': PHREFPBT/STPH*FPLT
 'I': EU
@@ -561,7 +561,7 @@ The Silver Shilling
 'the': -T
 'shilling': SHEULG
 'himself.': HEUPLS/TP-PL
-'"'False!': KR-GS/AE/KPA/TPALS/SKHRAPL
+'"'False!': KW-GS/AE/KPA*/TPALS/SKHRAPL
 'good': TKPWAOD
 'for': TPOR
 'nothing!'': TPHOG/SKHRAPL/AE
@@ -614,12 +614,12 @@ The Silver Shilling
 'one': WUPB
 'they': THE
 'called': KAULD
-''false,': AE/TPALS/KW-BG
+''false,': A*E/TPALS/KW-BG
 'and': SKP
 'good': TKPWAOD
 'for': TPOR
 'nothing.'': TPHOG/TP-PL/AE
-'"'Then': KR-GS/AE/KPA/THEPB
+'"'Then': KW-GS/AE/KPA*/THEPB
 'I': EU
 'must': PHUFT
 'pay': PAEU
@@ -653,7 +653,7 @@ The Silver Shilling
 'in': TPH
 'broad': PWRAOD
 'daylight.': TKAEULT/TP-PL
-'"'False!': KR-GS/AE/KPA/TPALS/SKHRAPL
+'"'False!': KW-GS/AE/KPA*/TPALS/SKHRAPL
 'good': TKPWAOD
 'for': TPOR
 'nothing!'': TPHOG/SKHRAPL/AE
@@ -882,12 +882,12 @@ The Silver Shilling
 'thing': THEUPBG
 'to': TO
 'do.'': TKO/TP-PL/AE
-'"'Ah!'': KR-GS/AE/KPA/HA*E/SKHRAPL/AE
+'"'Ah!'': KW-GS/AE/KPA*/HA*E/SKHRAPL/AE
 'sighed': SAOEU/-D
 'I': EU
 'to': TO
 'myself,': PHAO*EUS/KW-BG
-''am': AE/APL
+''am': A*E/APL
 'I': EU
 'also': HR-S
 'to': TO
@@ -973,7 +973,7 @@ The Silver Shilling
 'treated': TRAOETD
 'as': AS
 'a': AEU
-'cast-off': KAFT/SKWRO*F
+'cast-off': KAFT/O*F
 'coin.': KOEUPB/TP-PL
 'I': EU
 'who,': WHO/KW-BG
@@ -1103,7 +1103,7 @@ The Silver Shilling
 'shilling,'': SHEULG/KW-BG/AE
 'said': SED
 'she,': SHE/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'run': RUPB
 'a': AEU
 'string': STREUPBG
@@ -1247,11 +1247,11 @@ The Silver Shilling
 'cut': KUT
 'the': -T
 'string.': STREUPBG/TP-PL
-'"'Lucky': KR-GS/AE/KPA/HROEUBG
+'"'Lucky': KW-GS/AE/KPA*/HROEUBG
 'shilling!'': SHEULG/SKHRAPL/AE
 'said': SED
 'she,': SHE/KW-BG
-''certainly': AE/SERPBL
+''certainly': A*E/SERPBL
 'this': TH
 'is': S
 'what': WHA
@@ -1399,7 +1399,7 @@ The Silver Shilling
 'several': SEFRL
 'other': OER
 'coins.': KOEUPBS/TP-PL
-'"Whether': KR-GS/KPA/WHR
+'"Whether': KW-GS/KPA*/WHR
 'the': -T
 'lottery': HROT/REU
 'ticket': TEUBGT
@@ -1568,7 +1568,7 @@ The Silver Shilling
 'hear': HAER
 'the': -T
 'outcry,': AOUT/KRAOEU/KW-BG
-''False!': AE/KPA/TPALS/SKHRAPL
+''False!': A*E/KPA*/TPALS/SKHRAPL
 'good-for-nothing!'': TKPWAOD/H-PB/TPOR/H-PB/TPHOG/SKHRAPL/AE
 'The': KPA/-T
 'traveller': TRA*FL/HRER
@@ -1612,7 +1612,7 @@ The Silver Shilling
 'singular,'': SEUPBG/HRAR/KW-BG/AE
 'said': SED
 'he,': HE/KW-BG
-''it': AE/T
+''it': A*E/T
 'is': S
 'a': AEU
 'coin': KOEUPB
@@ -1662,7 +1662,7 @@ The Silver Shilling
 'my': PHEU
 'own': OEPB
 'house.'': HOUS/TP-PL/AE
-'"Joy': KR-GS/KPA/SKWROEU
+'"Joy': KW-GS/KPA*/SKWROEU
 'thrilled': THREULD
 'through': THRU
 'me': PHE

@@ -71,7 +71,7 @@ What One Can Invent
 'and': SKP
 'told': TOLD
 'about.': PW/TP-PL
-'"Happy': KR-GS/KPA/HAEP
+'"Happy': KW-GS/KPA*/HAEP
 'people': PAOEPL
 'who': WHO
 'were': WR
@@ -322,12 +322,12 @@ What One Can Invent
 'the': -T
 'wise': WAOEUS
 'woman.': WOPL/TP-PL
-'"Write': KR-GS/KPA/WREU
+'"Write': KW-GS/KPA*/WREU
 'that': THA
 'down!"': TKOUPB/SKHRAPL/KR-GS
 'said': SED
 'she.': SHE/TP-PL
-'"Even': KR-GS/KPA/AOEPB
+'"Even': KW-GS/KPA*/AOEPB
 'crumbs': KRUPLS
 'are': R
 'bread.': PWRAED/TP-PL
@@ -351,14 +351,14 @@ What One Can Invent
 'poet': POET
 'by': PWEU
 'Easter."': AOEFRT/TP-PL/KR-GS
-'"Everything': KR-GS/KPA/EFRG
+'"Everything': KW-GS/KPA*/EFRG
 'has': HAS
 'been': PW-PB
 'written': WREUPB
 'down,"': TKOUPB/KW-BG/KR-GS
 'said': SED
 'he.': HE/TP-PL
-'"Our': KR-GS/KPA/OUR
+'"Our': KW-GS/KPA*/OUR
 'time': TAOEUPL
 'is': S
 'not': TPHOT
@@ -767,7 +767,7 @@ What One Can Invent
 'and': SKP
 'that': THA
 'will': HR
-'do,"': TKO/KW-BG/KR-GS
+'do,"': TKORBGS/KR-GS
 'said': SED
 'the': -T
 'woman.': WOPL/TP-PL
@@ -799,10 +799,10 @@ What One Can Invent
 'grew,"': TKPWRAOU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Sloes.': xxx Sloes/TP-PL
+'Sloes.': KPA/SHRO*E/-S/TP-PL
 '"There': KW-GS/KPA*/THR
 'were': WR
-'Northmen,': xxx Northmen/KW-BG
+'Northmen,': TPHOERT/PH*EPB/KW-BG
 'from': TPR
 'Norway,': TPHOR/WAEU/KW-BG
 'who': WHO
@@ -849,12 +849,12 @@ What One Can Invent
 'called': KAULD
 'the': -T
 'land': HRAPBD
-''wine-land,'': AE/WAOEUPB/H-PB/HRAPBD/KW-BG/AE
+''wine-land,'': A*E/WAOEUPB/H-PB/HRAPBD/KW-BG/AE
 'that': THA
 'is,': S-RBGS
-''Groenland,'': AE/xxx Groenland/KW-BG/AE
+''Groenland,'': A*E/TKPW*P/R*/O*/*E/TPH*/HR*/KWRA/*PBD/KW-BG/AE
 'or': OR
-''Sloeland.'"': AE/xxx Sloeland/TP-PL/AE/KR-GS
+''Sloeland.'"': A*E/S*P/HR*/O*/*E/HR*/KWRA/*PBD/TP-PL/AE/KR-GS
 '"That': KW-GS/KPA*/THA
 'is': S
 'quite': KWAOEUT
@@ -865,7 +865,7 @@ What One Can Invent
 'the': -T
 'young': KWRUPBG
 'man.': PHAPB/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'certainly.': SERPBL/TP-PL
 'But': KPA/PWUT
 'now': TPHOU
@@ -914,7 +914,7 @@ What One Can Invent
 'through': THRU
 'the': -T
 'great': TKPWRAET
-'manufactory;': xxx manufactory/STPH*FPLT
+'manufactory;': PH*/A*/TPH*/*U/TP*/A*/KR*/T*/O*R/KWREU/STPH*FPLT
 'that': THA
 'was': WAS
 'their': THAEUR
@@ -1064,7 +1064,7 @@ What One Can Invent
 'said': SED
 'the': -T
 'woman.': WOPL/TP-PL
-'"Go': KR-GS/KPA/TKPW
+'"Go': KW-GS/KPA*/TKPW
 'straight': STRAEUT
 'into': TPHAO
 'the': -T
@@ -1160,12 +1160,12 @@ What One Can Invent
 'one?"': WUPB/H-F/KR-GS
 'asked': SK-D
 'he.': HE/TP-PL
-'"Neither': KR-GS/KPA/TPHAOERT
+'"Neither': KW-GS/KPA*/TPHAOERT
 'by': PWEU
 'Easter': AOEFRT
 'nor': TPH-R
 'by': PWEU
-'Whitsuntide!': xxx Whitsuntide/SKHRAPL
+'Whitsuntide!': W*P/H*/*EU/T*/S*/*U/TPH*/T*/*EU/TK*/SKWR*E/SKHRAPL
 'You': KPA/U
 'will': HR
 'not': TPHOT
@@ -1189,7 +1189,7 @@ What One Can Invent
 'do': TKO
 'that': THA
 'before': PW-FR
-'Shrove': xxx Shrove
+'Shrove': S*P/H*/R*/O*/SR*/SKWR*E
 'Tuesday.': TAOUZ/TP-PL
 'Hunt': H*UPBT
 'the': -T

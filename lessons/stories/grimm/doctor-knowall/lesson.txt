@@ -10,7 +10,7 @@ Doctor Knowall
 'poor': PAOR
 'peasant': PEFPBT
 'called': KAULD
-'Crabb,': xxx Crabb/KW-BG
+'Crabb,': KR*P/R*/A*/PW*/PW*/KW-BG
 'who': WHO
 'drove': TKROEF
 'with': W
@@ -31,7 +31,7 @@ Doctor Knowall
 'doctor': TKR
 'for': TPOR
 'two': TWO
-'talers.': xxx talers/TP-PL
+'talers.': HRO*ER/TAL/*ERS/TP-PL
 'When': KPA/WHEPB
 'the': -T
 'money': PHUPB
@@ -94,12 +94,12 @@ Doctor Knowall
 'be': -B
 'a': AEU
 'doctor.': TKR/TP-PL
-''Oh,': AE/KPA/O*ERBGS/KW-BG
+''Oh,': A*E/KPA*/O*ERBGS/KW-BG
 'yes,'': KWRE/KW-BG/AE
 'said': SED
 'the': -T
 'doctor,': TKR-RBGS
-''that': AE/THA
+''that': A*E/THA
 'is': S
 'soon': SAOPB
 'managed.'': PHAPBGD/TP-PL/AE
@@ -167,7 +167,7 @@ Doctor Knowall
 '"I': KW-GS/EU
 'am': APL
 'Doctor': TKR*
-'Knowall,"': xxx Knowall/KW-BG/KR-GS
+'Knowall,"': K*P/TPH*/O*/W*/A*/HR*/HR*/KW-BG/KR-GS
 'and': SKP
 'have': SR
 'that': THA
@@ -211,7 +211,7 @@ Doctor Knowall
 'told': TOLD
 'about': PW
 'Doctor': TKR*
-'Knowall': xxx Knowall
+'Knowall': K*P/TPH*/O*/W*/A*/HR*/HR*
 'who': WHO
 'lived': HREUFD
 'in': TPH
@@ -246,12 +246,12 @@ Doctor Knowall
 'village,': SREULG/KW-BG
 'and': SKP
 'asked': SK-D
-'Crabb': xxx Crabb
+'Crabb': KR*P/R*/A*/PW*/PW*
 'if': TP
 'he': HE
 'were': WR
 'Doctor': TKR*
-'Knowall.': xxx Knowall/TP-PL
+'Knowall.': K*P/TPH*/O*/W*/A*/HR*/HR*/TP-PL
 'Yes,': KPA/KWRE/KW-BG
 'he': HE
 'was,': WAS/KW-BG
@@ -270,10 +270,10 @@ Doctor Knowall
 'the': -T
 'stolen': STOEL/EPB
 'money.': PHUPB/TP-PL
-''Oh,': AE/KPA/O*ERBGS/KW-BG
+''Oh,': A*E/KPA*/O*ERBGS/KW-BG
 'yes,': KWRERBGS
 'but': PWUT
-'Grete,': xxx Grete/KW-BG
+'Grete,': TKPW*P/R*/ET/SKWR*E/KW-BG
 'my': PHEU
 'wife,': WAOEUF/KW-BG
 'must': PHUFT
@@ -312,7 +312,7 @@ Doctor Knowall
 'was': WAS
 'spread,': SPRED/KW-BG
 'and': SKP
-'Crabb': xxx Crabb
+'Crabb': KR*P/R*/A*/PW*/PW*
 'was': WAS
 'told': TOLD
 'to': TO
@@ -320,11 +320,11 @@ Doctor Knowall
 'down': TKOUPB
 'and': SKP
 'eat.': AOET/TP-PL
-''Yes,': AE/KPA/KWRE/KW-BG
+''Yes,': A*E/KPA*/KWRE/KW-BG
 'but': PWUT
 'my': PHEU
 'wife,': WAOEUF/KW-BG
-'Grete,': xxx Grete/KW-BG
+'Grete,': TKPW*P/R*/ET/SKWR*E/KW-BG
 'too,'': TAO/KW-BG/AE
 'said': SED
 'he,': HE/KW-BG
@@ -356,7 +356,7 @@ Doctor Knowall
 'wife,': WAOEUF/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-''Grete,': AE/xxx Grete/KW-BG
+''Grete,': A*E/TKPW*P/R*/ET/SKWR*E/KW-BG
 'that': THA
 'was': WAS
 'the': -T
@@ -401,7 +401,7 @@ Doctor Knowall
 'his': HEUS
 'comrade': KOPL/RAD
 'outside:': OUDZ/STPH-FPLT
-''The': AE/KPA/-T
+''The': A*E/KPA*/-T
 'doctor': TKR
 'knows': TPHOEZ
 'all:': AUL/STPH-FPLT
@@ -443,7 +443,7 @@ Doctor Knowall
 'wife,': WAOEUF/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-''Grete,': AE/xxx Grete/KW-BG
+''Grete,': A*E/TKPW*P/R*/ET/SKWR*E/KW-BG
 'that': THA
 'is': S
 'the': -T
@@ -472,7 +472,7 @@ Doctor Knowall
 'peasant': PEFPBT
 'again': TKPWEPB
 'said:': SED/STPH-FPLT
-''Grete,': AE/xxx Grete/KW-BG
+''Grete,': A*E/TKPW*P/R*/ET/SKWR*E/KW-BG
 'that': THA
 'is': S
 'the': -T
@@ -526,9 +526,9 @@ Doctor Knowall
 'say,': SAEU/KW-BG
 'and': SKP
 'cried:': KRAOEUD/STPH-FPLT
-''Ah,': AE/KPA/HA*E/KW-BG
+''Ah,': A*E/KPA*/HA*E/KW-BG
 'poor': PAOR
-'Crabb.'': xxx Crabb/TP-PL/AE
+'Crabb.'': KR*P/R*/A*/PW*/PW*/TP-PL/AE
 'When': KPA/WHEPB
 'the': -T
 'lord': HRORD
@@ -536,7 +536,7 @@ Doctor Knowall
 'that,': THARBGS
 'he': HE
 'cried:': KRAOEUD/STPH-FPLT
-''There!': AE/KPA/THR/SKHRAPL
+''There!': A*E/KPA*/THR/SKHRAPL
 'he': HE
 'knows': TPHOEZ
 'it;': T/STPH*FPLT
@@ -650,7 +650,7 @@ Doctor Knowall
 'table,': TAEUBL/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-''My': AE/KPA/PHEU
+''My': A*E/KPA*/PHEU
 'lord,': HRORD/KW-BG
 'now': TPHOU
 'will': HR
@@ -748,7 +748,7 @@ Doctor Knowall
 'everything!'': EFRG/SKHRAPL/AE
 'Then': KPA/THEPB
 'Doctor': TKR*
-'Knowall': xxx Knowall
+'Knowall': K*P/TPH*/O*/W*/A*/HR*/HR*
 'showed': SHOED
 'the': -T
 'lord': HRORD

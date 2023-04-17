@@ -216,7 +216,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'by,': PWEU/KW-BG
 'and': SKP
 'he': HE
-'longed—oh,': HROPBG/-D/EPL/TKA*RB/O*ERBGS/KW-BG
+'longed—oh,': HROPBG/-D/EPL/TKA*RB/OERBGS
 'so': SO
 'very': SRE
 'much!—for': PHUFP/SKHRAPL/EPL/TKA*RB/TPOR
@@ -512,7 +512,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'in': TPH
 'new': TPHU
 'splendor,': SPHREPBD/O*R/KW-BG
-'lovelier': xxx lovelier
+'lovelier': HR*/O*/SR*/*E/HR*/SKWREU/*ER
 'than': THAPB
 'ever.': -FR/TP-PL
 '"Who': KW-GS/KPA*/WHO
@@ -582,8 +582,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'he': HE
 'read': RAED
 'about': PW
-'Holger': xxx Holger
-'Danske;': xxx Danske/STPH*FPLT
+'Holger': H*P/O*/HR*/TKPW*/*ER
+'Danske;': TKAPB/-S/*BG/SKWR*E/STPH*FPLT
 'and': SKP
 'the': -T
 'man': PHAPB
@@ -607,7 +607,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'was': WAS
 'a': AEU
 'romance,': RO/PHAPBS/KW-BG
-'"translated': KR-GS/THRAEUTD
+'"translated': KW-GS/THRAEUTD
 'into': TPHAO
 'Danish': TKAEUPB/EURB
 'and': SKP
@@ -616,8 +616,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'that': THA
 'language;"': HRAPBLG/STPH*FPLT/KR-GS
 'that': THA
-'Holger': xxx Holger
-'Danske': xxx Danske
+'Holger': H*P/O*/HR*/TKPW*/*ER
+'Danske': TKAPB/-S/*BG/SKWR*E
 'had': H
 'never': TPHEFR
 'really': R-L
@@ -646,8 +646,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'treated': TRAOETD
 'just': SKWRUFT
 'like': HRAOEUBG
-'Holger': xxx Holger
-'Danske.': xxx Danske/TP-PL
+'Holger': H*P/O*/HR*/TKPW*/*ER
+'Danske.': TKAPB/-S/*BG/SKWR*E/TP-PL
 'These': KPA/THEZ
 'were': WR
 'all': AUL
@@ -753,7 +753,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'in': TPH
 'the': -T
 'dark': TKARBG
-'troublous': xxx troublous
+'troublous': T*/R*/O*/*U/PW*/HR*/KWRO/SKWRU/-S
 'time': TAOEUPL
 'had': H
 'been': PW-PB
@@ -992,7 +992,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'busy': PW-Z
 'in': TPH
 'the': -T
-'summer-time,': SAOURPL/H-PB/TAOEUPL/KW-BG
+'summer-time,': SAOURPL/TA*EPL/KW-BG
 'and': SKP
 'hover': HOFR
 'round': ROUPBD
@@ -1101,13 +1101,13 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'to': TO
 'him': HEUPL
 'of': -F
-'"Waldemar': KR-GS/xxx Waldemar
-'Daa': xxx Daa
+'"Waldemar': KW-GS/W*P/A*/HR*/TK*/*E/PH*/A*R
+'Daa': KPA/TKA/KWRA
 'and': SKP
 'his': HEUS
 'Daughters."': KPA/TKAURS/TP-PL/KR-GS
 'The': KPA/-T
-'Dryad': xxx Dryad
+'Dryad': TK*P/R*/KWR*/A*/TK*
 'in': TPH
 'the': -T
 'tree,': TRAOE/KW-BG
@@ -1121,7 +1121,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'told': TOLD
 'him': HEUPL
 'the': -T
-'"Dream': KR-GS/KPA/TKRAOEPL
+'"Dream': KW-GS/KPA*/TKRAOEPL
 'of': -F
 'the': -T
 'Old': KPA/OLD
@@ -1209,8 +1209,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'trees,': TRAOES/KW-BG
 'and': SKP
 'screamed,': SKRAOEPLD/KW-BG
-'"Krah!': KR-GS/xxx Krah/SKHRAPL
-'da!—Krah!': TKA/SKHRAPL/EPL/TKA*RB/xxx Krah/SKHRAPL
+'"Krah!': KW-GS/K*P/R*/A*/H*/SKHRAPL
+'da!—Krah!': TKA/SKHRAPL/EPL/TKA*RB/K*P/R*/A*/H*/SKHRAPL
 'da!"': TKA/SKHRAPL/KR-GS
 'And': AFPBD
 'he': HE
@@ -1492,7 +1492,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'in': TPH
 'his': HEUS
 'pocket.': POBGT/TP-PL
-'"Fortune': KR-GS/KPA/TP-RPB
+'"Fortune': KW-GS/KPA*/TP-RPB
 'is': S
 'as': AS
 'good': TKPWAOD
@@ -1612,8 +1612,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'William': WOEUPL
 'Tell': KPA/TEL
 'and': SKP
-'Holger': xxx Holger
-'Danske': xxx Danske
+'Holger': H*P/O*/HR*/TKPW*/*ER
+'Danske': TKAPB/-S/*BG/SKWR*E
 'never': TPHEFR
 'really': R-L
 'lived,': HREUFD/KW-BG
@@ -1634,8 +1634,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'such': SUFP
 'myths.': PH*EUT/-S/TP-PL
 'Yes,': KPA/KWRE/KW-BG
-'Holger': xxx Holger
-'Danske': xxx Danske
+'Holger': H*P/O*/HR*/TKPW*/*ER
+'Danske': TKAPB/-S/*BG/SKWR*E
 'will': HR
 'return': RURPB
 'again!': TKPWEPB/SKHRAPL
@@ -1693,7 +1693,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 '"Who': KW-GS/KPA*/WHO
 'are': R
 'you?': U/H-F
-'You're': KPA/U/AE/R*/*E
+'You're': KPA/UR
 'looking': HRAOG
 'in': TPH
 'at': AT
@@ -1717,7 +1717,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'pocket,"': POBGT/KW-BG/KR-GS
 'she': SHE
 'replied.': RE/PHRAOEUD/TP-PL
-'"Indeed,': KR-GS/KPA/TPHAOEPBD/KW-BG
+'"Indeed,': KW-GS/KPA*/TPHAOEPBD/KW-BG
 'you': U
 'have': SR
 'seven,': SEFPB/KW-BG
@@ -1795,7 +1795,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'good': TKPWAOD
 'to': TO
 'anybody."': TPHEUB/TP-PL/KR-GS
-'"Pray': KR-GS/KPA/PRAEU
+'"Pray': KW-GS/KPA*/PRAEU
 'tell': TEL
 'me': PHE
 'some': SOPL
@@ -1803,7 +1803,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'said': SED
 'the': -T
 'man.': PHAPB/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'wait': WAEUT
 'a': AEU
 'little,"': HREUL/KW-BG/KR-GS
@@ -1842,7 +1842,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'done,"': TKOPB/KW-BG/KR-GS
 'she': SHE
 'said;': SED/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'shall': SHAL
 'have': SR
@@ -1924,7 +1924,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'like': HRAOEUBG
 'a': AEU
 'ridiculous': REULGS
-'oaf,': xxx oaf/KW-BG
+'oaf,': O*/A*/TP*/KW-BG
 'for': TPOR
 'I': EU
 'must': PHUFT
@@ -1963,7 +1963,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'exclaimed': SKHRAEUPLD
 'the': -T
 'woman,': WOPL/KW-BG
-'"haven't': KR-GS/HAEUFPB/AE/T*
+'"haven't': KW-GS/SR-PB
 'you': U
 'got': TKPWOT
 'stories': STOERS
@@ -2051,7 +2051,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'know': TPHOE
 'of': -F
 'the': -T
-'world?': WORLD/H-F
+'world?': STPWHORLD
 'You': KPA/U
 'don't': TKOEPBT
 'see': SAOE
@@ -2059,20 +2059,20 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'but': PWUT
 'frogs': TPROGS
 'and': SKP
-'Will-o'-the-Wisps!"': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS/SKHRAPL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'Will-o'-the-Wisps!"': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS/SKHRAPL/KR-GS
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'beware': PWE/WAEUR
 'of': -F
 'the': -T
-'Will-o'-the-Wisps,"': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS/KW-BG/KR-GS
+'Will-o'-the-Wisps,"': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Moor-woman,': KPA/PHO*R/H-PB/WOPL/KW-BG
 '"for': KW-GS/TPOR
 'they're': THER
-'out—they're': OUT/EPL/TKA*RB/THE/AE/R*/*E
+'out—they're': OUT/EPL/TKA*RB/THER
 'let': HRET
-'loose—that's': HRAOS/EPL/TKA*RB/THA/AES
+'loose—that's': HRAOS/EPL/TKA*RB/THATS
 'what': WHA
 'we': WE
 'must': PHUFT
@@ -2177,7 +2177,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'said': SED
 'the': -T
 'Moor-woman.': KPA/PHO*R/H-PB/WOPL/TP-PL
-'"Witches': KR-GS/KPA/WEUFP/-S
+'"Witches': KW-GS/KPA*/WEUFP/-S
 'get': TKPWET
 'forward': TPAORD
 'faster': TPA*FRT
@@ -2235,14 +2235,14 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'resumed': RAOUPLD
 'the': -T
 'man.': PHAPB/TP-PL
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'get': TKPWET
 'on': OPB
 'your': KWROUR
 'stilts,"': STEULT/-S/KW-BG/KR-GS
 'said': SED
 'the': -T
-'crone,': xxx crone/KW-BG
+'crone,': KR*/R*/O*EPB/KW-BG
 '"and': KW-GS/SKP
 'I'll': AOEUL
 'answer': AEPBS
@@ -2381,7 +2381,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 '"You': KW-GS/KPA*/U
 'are': R
 'capitally': KPAL/HREU
-'well-informed,"': WEL/H-PB/TPH-FD/KW-BG/KR-GS
+'well-informed,"': W*EL/TPH-FD/KW-BG/KR-GS
 'said': SED
 'the': -T
 'man.': PHAPB/TP-PL
@@ -2398,9 +2398,9 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'answered': AEPBS/-D
 'the': -T
 'Moor-woman.': KPA/PHO*R/H-PB/WOPL/TP-PL
-'"Stories': KR-GS/KPA/STOERS
+'"Stories': KW-GS/KPA*/STOERS
 'and': SKP
-'poetry—yes,': POEURT/EPL/TKA*RB/KWRE/KW-BG
+'poetry—yes,': POEURT/EPL/TKA*RB/KWRERBGS
 'they're': THER
 'like': HRAOEUBG
 'two': TWO
@@ -2519,7 +2519,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'the': -T
 'history': HEUFRT
 'of': -F
-''the': AE/-T
+''the': A*E/-T
 'Girl': KPA/TKPWEURL
 'who': WHO
 'Trod': KPA/TROD
@@ -2549,7 +2549,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'said': SED
 'the': -T
 'man.': PHAPB/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'then': THEPB
 'you': U
 'must': PHUFT
@@ -2680,7 +2680,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'like': HRAOEUBG
 'a': AEU
 'great': TKPWRAET
-'knotted': TPHO*T/-D
+'knotted': K*/TPH*/O*/T*/T*/-D
 'block': PWHROBG
 'of': -F
 'alder,': AULD/*ER/KW-BG
@@ -2812,7 +2812,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'added': AD/-D
 'a': AEU
 'little': HREUL
-'devilry,': xxx devilry/KW-BG
+'devilry,': TKEFL/REU/KW-BG
 'and': SKP
 'then': THEPB
 'corked': KORBG/-D
@@ -2825,14 +2825,14 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'all': AUL
 'future': TPAOURT
 'times.': TAOEUPLS/TP-PL
-'"Pray': KR-GS/KPA/PRAEU
+'"Pray': KW-GS/KPA*/PRAEU
 'let': HRET
 'me': PHE
 'see,"': SAOERBGS/KR-GS
 'said': SED
 'the': -T
 'man.': PHAPB/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'but': PWUT
 'there': THR
 'are': R
@@ -2898,7 +2898,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'told': TOLD
 'you': U
 'the': -T
-''more': AE/PHOR
+''more': A*E/PHOR
 'important'': PORPB/AE
 'thing': THEUPBG
 'you': U
@@ -2906,7 +2906,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'to': TO
 'hear.': HAER/TP-PL
 'THE': *URP/-T
-'WILL-O'-THE-WISP'S': *URP/HR/H-PB/O*P/AE/H-PB/*URP/-T/H-PB/*URP/W*EUFP/AE/S*P
+'WILL-O'-THE-WISP'S': *URP/HR/H-PB/*URP/O*/TK-LS/AE/H-PB/*URP/-T/H-PB/*URP/W*EUFP/AE/S*P
 'IN': *URP/TPH
 'THE': *URP/-T
 'TOWN!': *URP/TOUPB/SKHRAPL
@@ -2971,7 +2971,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'cupboard,"': KUP/PWAORD/KW-BG/KR-GS
 'she': SHE
 'retorted,': RE/TORT/-D/KW-BG
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'take': TAEUBG
 'care': KAEUR
 'you': U
@@ -3057,7 +3057,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'feast!': TPAOEFT/SKHRAPL
 'A': KPA/AEU
 'little': HREUL
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'was': WAS
 'born': PWORPB
 'here—in': HAOER/EPL/TKA*RB/TPH
@@ -3111,7 +3111,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'accordingly': A/KORD/TKPWHREU
 'all': AUL
 'the': -T
-'Will-o'-the-Wisps,': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS/KW-BG
+'Will-o'-the-Wisps,': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS/KW-BG
 'male': PHAEL
 'and': SKP
 'female,': TPAEL/KW-BG
@@ -3151,7 +3151,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'twelve': TWEFL
 'little': HREUL
 'new-born': TPHU/H-PB/PWORPB
-'Will-o'-the-Wisps': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS
+'Will-o'-the-Wisps': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS
 'upon': POPB
 'my': PHEU
 'lap.': HRAP/TP-PL
@@ -3226,7 +3226,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'accorded': A/KORD/-D
 'to': TO
 'all': AUL
-'Will-o'-the-Wisps—that': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS/EPL/TKA*RB/THA
+'Will-o'-the-Wisps—that': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS/EPL/TKA*RB/THA
 'is,': S-RBGS
 'to': TO
 'all': AUL
@@ -3254,7 +3254,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'one': WUPB
 'year.': KWRAOER/TP-PL
 '"The': KW-GS/KPA*/-T
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'may': PHAE
 'run': RUPB
 'about': PW
@@ -3302,7 +3302,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'it': T
 'pleases.': PHRAOES/-S/TP-PL
 'The': KPA/-T
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'may': PHAE
 'take': TAEUBG
 'whatever': WHAF
@@ -3382,7 +3382,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'point.': POEUPBT/TP-PL
 'Such': KPA/SUFP
 'a': AEU
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'can': K
 'attain': A/TAEUPB
 'to': TO
@@ -3419,7 +3419,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'make': PHAEUBG
 'a': AEU
 'simple': S*EUPL
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'smack': SPHABG
 'his': HEUS
 'lips.': HREUPS/TP-PL
@@ -3437,7 +3437,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'work': WORBG
 'for': TPOR
 'a': AEU
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'who': WHO
 'aspires': AS/PAOEURS
 'to': TO
@@ -3488,7 +3488,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'is': S
 'up,': UP/KW-BG
 'the': -T
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'is': S
 'seized': SAOEZ/-D
 'with': W
@@ -3591,7 +3591,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'on': OPB
 'a': AEU
 'lively': HRAOEUFL
-'Will-o'-the-Wisp.': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP/TP-PL
+'Will-o'-the-Wisp.': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP/TP-PL
 '"Now,': KW-GS/KPA*/TPHOU/KW-BG
 'all': AUL
 'this': TH
@@ -3606,7 +3606,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'the': -T
 'twelve': TWEFL
 'little': HREUL
-'Will-o'-the-Wisps': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS
+'Will-o'-the-Wisps': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS
 'whom': WHOPL
 'I': EU
 'had': H
@@ -3664,7 +3664,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'from': TPR
 'their': THAEUR
 'throats.': THROETS/TP-PL
-'"'Stay': KR-GS/AE/KPA/STAEU
+'"'Stay': KW-GS/AE/KPA*/STAEU
 'with': W
 'us,'': US/KW-BG/AE
 'said': SED
@@ -3673,7 +3673,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'the': -T
 'older': OERLD
 'ones.': WUPBZ/TP-PL
-'"'Carry': KR-GS/AE/KPA/KAER
+'"'Carry': KW-GS/AE/KPA*/KAER
 'on': OPB
 'your': KWROUR
 'sport': SPORT
@@ -3682,7 +3682,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'said': SED
 'the': -T
 'others.': OERS/TP-PL
-'"'The': KR-GS/AE/KPA/-T
+'"'The': KW-GS/AE/KPA*/-T
 'mortals': PHOR/TAL/-S
 'are': R
 'drying': TKRAOEUG
@@ -3698,7 +3698,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'our': OUR
 'successors': SUBG/SES/ORS
 'do?'': TKO/H-F/AE
-'"'We': KR-GS/AE/KPA/WE
+'"'We': KW-GS/AE/KPA*/WE
 'want': WAPBT
 'to': TO
 'flame;': TPHRAEUPL/STPH*FPLT
@@ -3708,7 +3708,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'cried': KRAOEUD
 'the': -T
 'new-born': TPHU/H-PB/PWORPB
-'Will-o'the-Wisps.': W*EUL/H-PB/O*/AE/-T/H-PB/KPA/WEUS/-PS/TP-PL
+'Will-o'the-Wisps.': W*EUL/H-PB/O*/AE/-T/H-PB/KPA*/WEUS/-PS/TP-PL
 '"And': KW-GS/AFPBD
 'thus': THUS
 'the': -T
@@ -3784,11 +3784,11 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'of': -F
 'her': HER
 'veil.': SRAEUL/TP-PL
-'"'Take': KR-GS/AE/KPA/TAEUBG
+'"'Take': KW-GS/AE/KPA*/TAEUBG
 'that,'': THA/KW-BG/AE
 'they': THE
 'said,': SED/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'then': THEPB
 'you'll': UL
 'know': TPHOE
@@ -3810,7 +3810,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'find': TPAOEUPBD
 'them': THEPL
 'necessary.': TPHES/TP-PL
-'You'll': KPA/U/AE/HR*/HR*
+'You'll': KPA/UL
 'know': TPHOE
 'the': -T
 'proper': PROR
@@ -3835,10 +3835,10 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'of': -F
 'the': -T
 'young': KWRUPBG
-'Will-o'-the-Wisps': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS
+'Will-o'-the-Wisps': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS
 'to': TO
 'say,': SAEU/KW-BG
-''Goo-goo-good,'': AE/KPA/TKPWAO/H-PB/TKPWAO/H-PB/TKPWAOD/KW-BG/AE
+''Goo-goo-good,'': A*E/KPA*/TKPWAO/H-PB/TKPWAO/H-PB/TKPWAOD/KW-BG/AE
 'and': SKP
 'to': TO
 'say': SAEU
@@ -3875,8 +3875,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'won't': WOEPBT
 'mention': PHEPBGS
 'it.': T/TP-PL
-'"King': KR-GS/KO*EUPBG
-'Waldemar's': xxx Waldemar/AES
+'"King': KW-GS/KO*EUPBG
+'Waldemar's': W*P/A*/HR*/TK*/*E/PH*/A*R/AES
 'wild': WAOEULD
 'chase': KHAEUS
 'was': WAS
@@ -3910,7 +3910,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'hunt': HUPBT
 'on': OPB
 'the': -T
-'spoor': xxx spoor
+'spoor': S*/*P/KWRO/O*R
 'of': -F
 'the': -T
 'wind,': WEUPBD/KW-BG
@@ -3926,12 +3926,12 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'three': THRAOE
 'of': -F
 'the': -T
-'Will-o'-the-Wisps.': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS/TP-PL
+'Will-o'-the-Wisps.': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS/TP-PL
 'A': KPA/AEU
 'couple': KUPL
 'of': -F
 'old': OLD
-'Alpas,': xxx Alpas/KW-BG
+'Alpas,': AL/*P/KWRA/-S/KW-BG
 'spirits': SPEURTS
 'who': WHO
 'occupy': OBG/PAOEU
@@ -3948,7 +3948,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'these': THEZ
 'the': -T
 'young': KWRUPBG
-'Will-o'-the-Wisps': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS
+'Will-o'-the-Wisps': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS
 'learned': HRERPBD
 'the': -T
 'art': ART
@@ -3966,7 +3966,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'before': PW-FR
 'them.': THEPL/TP-PL
 'These': KPA/THEZ
-'Alpas': xxx Alpas
+'Alpas': AL/*P/KWRA/-S
 'offered': OFRD
 'to': TO
 'carry': KAER
@@ -4017,7 +4017,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'took': TAOBG
 'the': -T
 'young': KWRUPBG
-'Will-o'-the-Wisps': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS
+'Will-o'-the-Wisps': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS
 'in': TPH
 'their': THAEUR
 'laps,': HRAPZ/KW-BG
@@ -4047,7 +4047,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'night.': TPHAOEUT/TP-PL
 'To-day': KPA/TO/TKA*EU
 'the': -T
-'Will-o'-the-Wisps': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS
+'Will-o'-the-Wisps': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS
 'are': R
 'in': TPH
 'the': -T
@@ -4093,7 +4093,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'exclaimed': SKHRAEUPLD
 'the': -T
 'man.': PHAPB/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'but': PWUT
 'it': T
 'is': S
@@ -4109,7 +4109,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'me': PHE
 'how': HOU
 'the': -T
-'Will-o'-the-Wisps': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS
+'Will-o'-the-Wisps': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS
 'deport': TKPORT
 'themselves,': TH*EPLS/KW-BG
 'and': SKP
@@ -4144,7 +4144,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'romance': RO/PHAPBS
 'about': PW
 'the': -T
-'Will-o'-the-Wisps,': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/WEUS/-PS/KW-BG
+'Will-o'-the-Wisps,': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/WEUS/-PS/KW-BG
 'in': TPH
 'twelve': TWEFL
 'parts;': PARTS/STPH*FPLT
@@ -4163,16 +4163,16 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 '"You': KW-GS/KPA*/U
 'might': PHAOEUT
 'write': WREU
-'that,"': THA/KW-BG/KR-GS
+'that,"': THARBGS/KR-GS
 'said': SED
 'the': -T
 'woman,': WOPL/KW-BG
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'it's': T-S
 'best': PWEFT
 'let': HRET
 'alone."': A/HROEPB/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'that's': THATS
 'better': PWOERT
 'and': SKP
@@ -4204,7 +4204,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'as': AS
 'for': TPOR
 'a': AEU
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'to': TO
 'lie': HRAOEU
 'in': TPH
@@ -4280,7 +4280,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'seem': SAOEPL
 'to': TO
 'have': SR
-'blotted': PWHROT/-D
+'blotted': PW*/HR*/O*/T*/T*/-D
 'your': KWROUR
 'hands': HAPBDZ
 'sufficiently': SUFL
@@ -4326,7 +4326,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'going': TKPW-G
 'on?"': OPB/H-F/KR-GS
 '"The': KW-GS/KPA*/-T
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'is': S
 'in': TPH
 'town,"': TOUPB/KW-BG/KR-GS
@@ -4364,11 +4364,11 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'people': PAOEPL
 'and': SKP
 'say,': SAEU/KW-BG
-''Look,': AE/KPA/HRAOBG/KW-BG
+''Look,': A*E/KPA*/HRAOBG/KW-BG
 'yonder': KWROPBD/ER
 'goes': TKPW-S
 'a': AEU
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'in': TPH
 'his': HEUS
 'best': PWEFT
@@ -4382,7 +4382,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'the': -T
 'woman.': WOPL/TP-PL
 '"The': KW-GS/KPA*/-T
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'can': K
 'assume': SAOUPL
 'all': AUL
@@ -4435,7 +4435,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'only': OEPBL
 'for': TPOR
 'himself.': HEUPLS/TP-PL
-'He's': KPA/HE/AES
+'He's': KPA/HAOES
 'an': APB
 'artist': TR-FT
 'with': W
@@ -4572,8 +4572,8 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'if': TP
 'I': EU
 'say,': SAEU/KW-BG
-''The': AE/KPA/-T
-'Will-o'-the-Wisp': W*EUL/H-PB/O*/AE/H-PB/-T/H-PB/KPA/W*EUFP
+''The': A*E/KPA*/-T
+'Will-o'-the-Wisp': W*EUL/H-PB/O*/TK-LS/AE/H-PB/-T/H-PB/KPA*/W*EUFP
 'is': S
 'in': TPH
 'the': -T

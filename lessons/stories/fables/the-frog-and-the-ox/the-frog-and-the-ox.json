@@ -1,5 +1,5 @@
 {
-"KR-GS/KPA/O*ERBGS": "\"Oh",
+"KW-GS/KPA*/O*ERBGS": "\"Oh",
 "KPA/TPAER/KW-BG/KR-GS": "Father,\"",
 "SED": "said",
 "AEU": "a",
@@ -38,7 +38,7 @@
 "TKWAOEUTD": "divided",
 "TPH": "in",
 "TWO/TP-PL/KR-GS": "two.\"",
-"KR-GS/KPA/TURB/KW-BG": "\"Tush,",
+"KW-GS/KPA*/TURB/KW-BG": "\"Tush,",
 "KHAOEULD/KW-BG": "child,",
 "TURB/KW-BG/KR-GS": "tush,\"",
 "OLD": "old",
@@ -81,14 +81,14 @@
 "KW-GS/KPA*/O*ERBGS/KW-BG": "\"Oh,",
 "PHUFP": "much",
 "PWEURG": "bigger",
-"THA/KW-BG/KR-GS": "that,\"",
+"THARBGS/KR-GS": "that,\"",
 "KWRUPBG": "young",
 "KPA/TPROG/TP-PL": "Frog.",
 "KPA/TKPWEPB": "Again",
 "TP": "if",
 "KPA/O*BGS": "Ox",
 "THA/TP-PL": "that.",
-"KR-GS/KPA/PWEURG/KW-BG": "\"Bigger,",
+"KW-GS/KPA*/PWEURG/KW-BG": "\"Bigger,",
 "TPAER/KW-BG": "father,",
 "PWEURG/KW-BG/KR-GS": "bigger,\"",
 "RE/PHRAOEU/TP-PL": "reply.",
@@ -113,5 +113,5 @@
 "PWUFRT/TP-PL": "burst.",
 "KPA/S*EF/H-PB/KAUPB/SAOET": "Self-conceit",
 "HRAED": "lead",
-"S*EF/H-PB/STKRUBGS/TP-PL": "self-destruction."
+"SEF/STKRUBGS/TP-PL": "self-destruction."
 }

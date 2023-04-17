@@ -194,7 +194,7 @@ The Swineherd
 'was': WAS
 'just': SKWRUFT
 'playing': PHRAEUG
-'"Visitors': KR-GS/KPA/SREUS/TORS
+'"Visitors': KW-GS/KPA*/SREUS/TORS
 'are': R
 'coming"': KO*G/KR-GS
 'with': W
@@ -323,8 +323,8 @@ The Swineherd
 'unkind': UPB/KAOEUPBD
 'about': PW
 'it.': T/TP-PL
-'"Superbe,': KR-GS/xxx Superbe/KW-BG
-'charmant,"': xxx charmant/KW-BG/KR-GS
+'"Superbe,': KW-GS/KPA/SPERB/SKWR*E/KW-BG
+'charmant,"': KHARPL/APBT/KW-BG/KR-GS
 'said': SED
 'the': -T
 'ladies': HRAEUDZ
@@ -392,7 +392,7 @@ The Swineherd
 'said': SED
 'the': -T
 'princess.': PREUPB/SES/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'certainly': SERPBL
 'it': T
 'is': S
@@ -445,7 +445,7 @@ The Swineherd
 'emperor,"': EPL/ROR/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
-'"could': KR-GS/KO
+'"could': KW-GS/KO
 'you': U
 'not': TPHOT
 'give': TKPWEUF
@@ -462,7 +462,7 @@ The Swineherd
 'replied': RE/PHRAOEUD
 'the': -T
 'emperor,': EPL/ROR/KW-BG
-'"who': KR-GS/WHO
+'"who': KW-GS/WHO
 'apply': A/PHRAOEU
 'for': TPOR
 'places,': PHRAEUFS/KW-BG
@@ -723,7 +723,7 @@ The Swineherd
 'said': SED
 'the': -T
 'swineherd.': SWAOEUPB/TK-LS/H*ERD/TP-PL
-'"God': KR-GS/TKPWO*D
+'"God': KW-GS/TKPWO*D
 'forbid,"': TPORBD/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -823,7 +823,7 @@ The Swineherd
 'said': SED
 'the': -T
 'swineherd:': SWAOEUPB/TK-LS/H*ERD/STPH-FPLT
-'"ten': KR-GS/TEPB
+'"ten': KW-GS/TEPB
 'kisses': KEUS/-S
 'from': TPR
 'the': -T
@@ -916,7 +916,7 @@ The Swineherd
 'well': WEL
 'as': AS
 'the': -T
-'shoemaker's.': SHAOU/PHA*EURBG/AE/S*/TP-PL
+'shoemaker's.': SHAOU/PHA*EURBG/AES/TP-PL
 'The': KPA/-T
 'ladies': HRAEUDZ
 'danced': TKAPBS/-D
@@ -1025,7 +1025,7 @@ The Swineherd
 '"But': KW-GS/KPA*/PWUT
 'that': THA
 'is': S
-'superbe,"': xxx superbe/KW-BG/KR-GS
+'superbe,"': SAOUP/-B/KW-BG/KR-GS
 'said': SED
 'the': -T
 'princess': PREUPB/SES
@@ -1181,7 +1181,7 @@ The Swineherd
 'keeps': KAOEPS
 'his': HEUS
 'own."': OEPB/TP-PL/KR-GS
-'"Place': KR-GS/KPA/PHRAEUS
+'"Place': KW-GS/KPA*/PHRAEUS
 'yourselves': KWRO*URSZ
 'before': PW-FR
 'me,"': PHE/KW-BG/KR-GS
@@ -1340,7 +1340,7 @@ The Swineherd
 'the': -T
 'sixty-eighth': SEUBGT/H-PB/A*ET
 'kiss.': KEUS/TP-PL
-'"Go': KR-GS/KPA/TKPW
+'"Go': KW-GS/KPA*/TKPW
 'out': OUT
 'of': -F
 'my': PHEU
@@ -1380,8 +1380,8 @@ The Swineherd
 'came': KAEUPL
 'down': TKOUPB
 'in': TPH
-'torrents.': TORPBT/-S/TP-PL
-'"Alas,': KR-GS/KPA/A/HRAS/KW-BG
+'torrents.': TAUR/REPBTS/TP-PL
+'"Alas,': KW-GS/KPA*/A/HRAS/KW-BG
 'unfortunate': TPHORPBT
 'creature': KRAOEFP
 'that': THA

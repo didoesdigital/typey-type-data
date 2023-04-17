@@ -178,11 +178,11 @@ The Last Pearl
 'wish': WEURB
 'on': OPB
 'earth.': *ERT/TP-PL
-'"Everything': KR-GS/KPA/EFRG
+'"Everything': KW-GS/KPA*/EFRG
 'has': HAS
 'been': PW-PB
 'bestowed': PWE/STOEU/-D
-'here,"': HAOER/KW-BG/KR-GS
+'here,"': HAOERBGS/KR-GS
 'said': SED
 'the': -T
 'guardian': TKPWARD/KWRAPB
@@ -203,7 +203,7 @@ The Last Pearl
 'of': -F
 'the': -T
 'child;': KHAOEULD/STPH*FPLT
-'"one': KR-GS/WUPB
+'"one': KW-GS/WUPB
 'fairy': TPAEUR/REU
 'has': HAS
 'not': TPHOT
@@ -232,12 +232,12 @@ The Last Pearl
 'that': THA
 'is': S
 'wanting."': WAPBGT/TP-PL/KR-GS
-'"Wanting!"': KR-GS/KPA/WAPBGT/SKHRAPL/KR-GS
+'"Wanting!"': KW-GS/KPA*/WAPBGT/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
 'guardian': TKPWARD/KWRAPB
 'angel;': APB/SKWREL/STPH*FPLT
-'"nothing': KR-GS/TPHOG
+'"nothing': KW-GS/TPHOG
 'must': PHUFT
 'be': -B
 'wanting': WAPBGT
@@ -270,8 +270,8 @@ The Last Pearl
 'come': KOPL
 'some': SOPL
 'day': TKAEU
-'unsought!"': xxx unsought/SKHRAPL/KR-GS
-'"Her': KR-GS/KPA/HER
+'unsought!"': UPB/SAUT/SKHRAPL/KR-GS
+'"Her': KW-GS/KPA*/HER
 'pearl': PERL
 'must': PHUFT
 'not': TPHOT
@@ -303,7 +303,7 @@ The Last Pearl
 'the': -T
 'guardian': TKPWARD/KWRAPB
 'angel.': APB/SKWREL/TP-PL
-'"Tell': KR-GS/KPA/TEL
+'"Tell': KW-GS/KPA*/TEL
 'me,': PHE/KW-BG
 'and': SKP
 'I': EU
@@ -414,7 +414,7 @@ The Last Pearl
 'this': TH
 'wealth."': W*ELT/TP-PL/KR-GS
 'Then': KPA/THEPB
-'hand-in-hand': HAPBD/H-PB/TPH/H-PB/HAPBD
+'hand-in-hand': HA*EPBD/KWR*EUPB/HAPBD
 'they': THE
 'floated': TPHROET/-D
 'away': WA*EU
@@ -699,7 +699,7 @@ The Last Pearl
 'that': THA
 'were': WR
 'bleeding.': PWHRAOEGD/TP-PL
-'"Whither': KR-GS/KPA/WHEU/THER
+'"Whither': KW-GS/KPA*/WHEU/THER
 'art': ART
 'thou': THO*U
 'leading': HRAEGD
@@ -723,7 +723,7 @@ The Last Pearl
 'gifts': TKPWEUFTS
 'of': -F
 'life."': HRAOEUF/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'she': SHE
 'is': S
 'here;': HAOER/STPH*FPLT
@@ -743,10 +743,10 @@ The Last Pearl
 'the': -T
 'room;': RAOPL/STPH*FPLT
 'and': SKP
-'there,—where': THR/KW-BG/EPL/TKA*RB/W-R
+'there,—where': THR-RBGS/EPL/TKA*RB/W-R
 'in': TPH
 'her': HER
-'life-time,': HRAOEUF/H-PB/TAOEUPL/KW-BG
+'life-time,': HRAOEUF/TA*EPL/KW-BG
 'the': -T
 'mother': PHOER
 'had': H
@@ -792,7 +792,7 @@ The Last Pearl
 'heart': HART
 'of': -F
 'them': THEPL
-'all,—there,': AUL/KW-BG/EPL/TKA*RB/THR/KW-BG
+'all,—there,': AUL/KW-BG/EPL/TKA*RB/THR-RBGS
 'in': TPH
 'that': THA
 'very': SRE
@@ -824,7 +824,7 @@ The Last Pearl
 'her': HER
 'name': TPHAEUPL
 'was': WAS
-'"Sorrow."': KR-GS/KPA/SROE/TP-PL/KR-GS
+'"Sorrow."': KW-GS/KPA*/SROE/TP-PL/KR-GS
 'A': KPA/AEU
 'hot': HOT
 'tear': TAER

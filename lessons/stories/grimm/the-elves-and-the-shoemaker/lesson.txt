@@ -327,7 +327,7 @@ The Elves and the Shoemaker
 'One': KPA/WUPB
 'evening,': AOEPBG/KW-BG
 'about': PW
-'Christmas-time,': KREUS/PHAS/H-PB/TAOEUPL/KW-BG
+'Christmas-time,': KREUS/PHAS/TA*EPL/KW-BG
 'as': AS
 'he': HE
 'and': SKP
@@ -506,9 +506,9 @@ The Elves and the Shoemaker
 'to': TO
 'the': -T
 'shoemaker.': SHAOU/PHA*EURBG/TP-PL
-''These': AE/KPA/THEZ
+''These': A*E/KPA*/THEZ
 'little': HREUL
-'wights': xxx wights
+'wights': W*/*EU/TKPW*/H*/T*/-S
 'have': SR
 'made': PHAED
 'us': US
@@ -582,7 +582,7 @@ The Elves and the Shoemaker
 'a': AEU
 'pair': PAEUR
 'of': -F
-'pantaloons': xxx pantaloons
+'pantaloons': PAPBT/A*L/KWRO/KWRO/*PB/-S
 'into': TPHAO
 'the': -T
 'bargain;': PWAR/TKPWAEUPB/STPH*FPLT

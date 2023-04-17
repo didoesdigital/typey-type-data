@@ -334,7 +334,7 @@ The Saucy Boy
 'are': R
 'a': AEU
 'merry': PHER/REU
-'boy,"': PWOEU/KW-BG/KR-GS
+'boy,"': PWOEURBGS/KR-GS
 'said': SED
 'the': -T
 'latter.': HRART/TP-PL
@@ -348,7 +348,7 @@ The Saucy Boy
 'Cupid,"': KPA/KAOUPD/KW-BG/KR-GS
 'he': HE
 'answered.': AEPBS/-D/TP-PL
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'you': U
 'know': TPHOE
 'me?': PHE/H-F
@@ -501,7 +501,7 @@ The Saucy Boy
 'in': TPH
 'the': -T
 'heart.': HART/TP-PL
-'"Oh!"': KR-GS/KPA/O*ERBGS/SKHRAPL/KR-GS
+'"Oh!"': KW-GS/KPA*/O*ERBGS/SKHRAPL/KR-GS
 'he': HE
 'cried,': KRAOEUD/KW-BG
 '"what': KW-GS/WHA

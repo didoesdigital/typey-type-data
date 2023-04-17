@@ -525,11 +525,11 @@ The Emperor's New Suit
 'to': TO
 'be': -B
 'seen.': SAOEPB/TP-PL
-'"Oh': KR-GS/KPA/O*ERBGS
+'"Oh': KW-GS/KPA*/O*ERBGS
 'dear,"': TKAER/KW-BG/KR-GS
 'he': HE
 'thought,': THAUT/KW-BG
-'"can': KR-GS/K
+'"can': KW-GS/K
 'I': EU
 'be': -B
 'so': SO
@@ -627,7 +627,7 @@ The Emperor's New Suit
 'pleased': PHREFD
 'to': TO
 'hear': HAER
-'that,"': THA/KW-BG/KR-GS
+'that,"': THARBGS/KR-GS
 'said': SED
 'the': -T
 'two': TWO
@@ -968,14 +968,14 @@ The Emperor's New Suit
 'happen': HAP
 'to': TO
 'me."': PHE/TP-PL/KR-GS
-'"Really,"': KR-GS/KPA/R-L/KW-BG/KR-GS
+'"Really,"': KW-GS/KPA*/R-L/KW-BG/KR-GS
 'he': HE
 'said,': SED/KW-BG
 'turning': TURPBG
 'to': TO
 'the': -T
 'weavers,': WAOEFR/-S/KW-BG
-'"your': KR-GS/KWROUR
+'"your': KW-GS/KWROUR
 'cloth': KHRO*T
 'has': HAS
 'our': OUR
@@ -1073,7 +1073,7 @@ The Emperor's New Suit
 'the': -T
 'two': TWO
 'swindlers': SWEUPBD/HRERS
-'"Imperial': KR-GS/EUPL/PRAOERL
+'"Imperial': KW-GS/EUPL/PRAOERL
 'Court': KO*RT
 'weavers."': WAOEFR/-S/TP-PL/KR-GS
 'The': KPA/-T
@@ -1223,7 +1223,7 @@ The Emperor's New Suit
 'beauty': PWAOUT
 'of': -F
 'them."': THEPL/TP-PL/KR-GS
-'"Indeed!"': KR-GS/KPA/TPHAOEPBD/SKHRAPL/KR-GS
+'"Indeed!"': KW-GS/KPA*/TPHAOEPBD/SKHRAPL/KR-GS
 'said': SED
 'all': AUL
 'the': -T
@@ -1241,7 +1241,7 @@ The Emperor's New Suit
 'to': TO
 'be': -B
 'seen.': SAOEPB/TP-PL
-'"Does': KR-GS/KPA/TKOS
+'"Does': KW-GS/KPA*/TKOS
 'it': T
 'please': PHRES
 'your': KWROUR
@@ -1351,7 +1351,7 @@ The Emperor's New Suit
 'said': SED
 'the': -T
 'emperor.': EPL/ROR/TP-PL
-'"Does': KR-GS/KPA/TKOS
+'"Does': KW-GS/KPA*/TKOS
 'not': TPHOT
 'my': PHEU
 'suit': SAOUT
@@ -1440,7 +1440,7 @@ The Emperor's New Suit
 'the': -T
 'windows': WOEUPBDZ
 'exclaimed:': SKHRAEUPLD/STPH-FPLT
-'"Indeed,': KR-GS/KPA/TPHAOEPBD/KW-BG
+'"Indeed,': KW-GS/KPA*/TPHAOEPBD/KW-BG
 'the': -T
 'emperor's': EPL/ROR/AES
 'new': TPHU

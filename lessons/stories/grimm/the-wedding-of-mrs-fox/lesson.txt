@@ -95,7 +95,7 @@ The Wedding of Mrs Fox
 'standing': STAPBG
 'at': AT
 'the': -T
-'house-door,': HOUS/H-PB/TKAOR/KW-BG
+'house-door,': HOUS/TKAO*R/KW-BG
 'knocking.': TPHOBG/-G/TP-PL
 'She': KPA/SHE
 'went': WEPBT
@@ -161,7 +161,7 @@ The Wedding of Mrs Fox
 'said': SED
 'the': -T
 'fox,': TPOBGS/KW-BG
-''what': AE/WHA
+''what': A*E/WHA
 'is': S
 'Mrs': PH*P/R*/S*
 'Fox': KPA/TPOBGS
@@ -169,7 +169,7 @@ The Wedding of Mrs Fox
 'The': KPA/-T
 'maid': PHAEUD
 'replied:': RE/PHRAOEUD/STPH-FPLT
-''She': AE/KPA/SHE
+''She': A*E/KPA*/SHE
 'is': S
 'sitting': SEUGT
 'in': TPH
@@ -208,7 +208,7 @@ The Wedding of Mrs Fox
 'to': TO
 'woo': WAO
 'her.'': HER/TP-PL/AE
-''Certainly,': AE/KPA/SERPBL/KW-BG
+''Certainly,': A*E/KPA*/SERPBL/KW-BG
 'young': KWRUPBG
 'sir.'': SEUR/TP-PL/AE
 'The': KPA/-T
@@ -227,19 +227,19 @@ The Wedding of Mrs Fox
 'tap,': TAP/KW-BG
 'tap,': TAP/KW-BG
 'tap,': TAP/KW-BG
-''Mistress': AE/KPA/PHEUS/TRES
+''Mistress': A*E/KPA*/PHEUS/TRES
 'Fox,': KPA/TPOBGS/KW-BG
 'are': R
 'you': U
 'inside?'': TPH-DZ/H-F/AE
-''Oh,': AE/KPA/O*ERBGS/KW-BG
+''Oh,': A*E/KPA*/O*ERBGS/KW-BG
 'yes,': KWRERBGS
 'my': PHEU
 'little': HREUL
 'cat,'': KAT/KW-BG/AE
 'she': SHE
 'cried.': KRAOEUD/TP-PL
-''A': AE/KPA/AEU
+''A': A*E/KPA*/AEU
 'wooer': WAO/*ER
 'he': HE
 'stands': STAPBDZ
@@ -255,7 +255,7 @@ The Wedding of Mrs Fox
 'like,': SKWRAURBGS/HRAO*EUBG
 'my': PHEU
 'dear?'': TKAER/H-F/AE
-''Has': AE/KPA/HAS
+''Has': A*E/KPA*/HAS
 'he': HE
 'nine': TPHAOEUPB
 'as': AS
@@ -266,16 +266,16 @@ The Wedding of Mrs Fox
 'late': HRAEUT
 'Mr': PH*P/R*
 'Fox?'': KPA/TPOBGS/H-F/AE
-''Oh,': AE/KPA/O*ERBGS/KW-BG
+''Oh,': A*E/KPA*/O*ERBGS/KW-BG
 'no,'': TPHO/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
 'cat,': KAT/KW-BG
-''he': AE/HE
+''he': A*E/HE
 'has': HAS
 'only': OEPBL
 'one.'': WUPB/TP-PL/AE
-''Then': AE/KPA/THEPB
+''Then': A*E/KPA*/THEPB
 'I': EU
 'will': HR
 'not': TPHOT
@@ -397,7 +397,7 @@ The Wedding of Mrs Fox
 'the': -T
 'bench,': PWEFRPB/KW-BG
 'and': SKP
-'cudgelled': xxx cudgelled
+'cudgelled': KR*/*U/TK*/TKPW*/*E/HR*/HR*/-D
 'all': AUL
 'the': -T
 'rabble,': RABL/KW-BG
@@ -454,7 +454,7 @@ The Wedding of Mrs Fox
 'Mrs': PH*P/R*/S*
 'Cat': KPA/KAT
 'of': -F
-'Kehrewit,': xxx Kehrewit/KW-BG
+'Kehrewit,': K*P/*E/H*/R*/*E/W*/*EU/T*/KW-BG
 'How': KPA/HOU
 'comes': KOPLS
 'it': T
@@ -501,17 +501,17 @@ The Wedding of Mrs Fox
 'The': KPA/-T
 'cat': KAT
 'said:': SED/STPH-FPLT
-''She': AE/KPA/SHE
+''She': A*E/KPA*/SHE
 'sits': SEUTS
 'upstairs': AUP/STAEURS
 'in': TPH
 'her': HER
 'room,': RAOPL/KW-BG
-'Bewailing': xxx Bewailing
+'Bewailing': KPA/PWE/WAEUL/-G
 'her': HER
 'sorrowful': SOR/ROEFL
 'doom,': TKAOPL/KW-BG
-'Bewailing': xxx Bewailing
+'Bewailing': KPA/PWE/WAEUL/-G
 'her': HER
 'trouble': TRUBL
 'so': SO
@@ -526,7 +526,7 @@ The Wedding of Mrs Fox
 'The': KPA/-T
 'wolf': WOFL
 'answered:': AEPBS/-D/STPH-FPLT
-''If': AE/KPA/TP
+''If': A*E/KPA*/TP
 'she's': SHAOES
 'in': TPH
 'want': WAPBT
@@ -599,7 +599,7 @@ The Wedding of Mrs Fox
 'Mrs': PH*P/R*/S*
 'Fox': KPA/TPOBGS
 'asked:': SK-D/STPH-FPLT
-''Has': AE/KPA/HAS
+''Has': A*E/KPA*/HAS
 'the': -T
 'gentleman': SKWRA*PL
 'red': RED
@@ -611,11 +611,11 @@ The Wedding of Mrs Fox
 'a': AEU
 'pointed': POEUPBTD
 'mouth?'': PHO*UT/H-F/AE
-''No,'': AE/KPA/TPHO/KW-BG/AE
+''No,'': A*E/KPA*/TPHO/KW-BG/AE
 'answered': AEPBS/-D
 'the': -T
 'cat.': KAT/TP-PL
-''Then': AE/KPA/THEPB
+''Then': A*E/KPA*/THEPB
 'he': HE
 'won't': WOEPBT
 'do': TKO
@@ -683,7 +683,7 @@ The Wedding of Mrs Fox
 'Mrs': PH*P/R*/S*
 'Fox': KPA/TPOBGS
 'said:': SED/STPH-FPLT
-''Has': AE/KPA/HAS
+''Has': A*E/KPA*/HAS
 'the': -T
 'gentleman': SKWRA*PL
 'red': RED
@@ -695,13 +695,13 @@ The Wedding of Mrs Fox
 'little': HREUL
 'pointed': POEUPBTD
 'mouth?'': PHO*UT/H-F/AE
-''Yes,'': AE/KPA/KWRE/KW-BG/AE
+''Yes,'': A*E/KPA*/KWRE/KW-BG/AE
 'said': SED
 'the': -T
 'cat,': KAT/KW-BG
-''he': AE/HE
+''he': A*E/HE
 'has.'': HAS/TP-PL/AE
-''Then': AE/KPA/THEPB
+''Then': A*E/KPA*/THEPB
 'let': HRET
 'him': HEUPL
 'come': KOPL
@@ -718,7 +718,7 @@ The Wedding of Mrs Fox
 'the': -T
 'wedding': WEGD
 'feast.': TPAOEFT/TP-PL
-''Sweep': AE/KPA/SWAOEP
+''Sweep': A*E/KPA*/SWAOEP
 'me': PHE
 'the': -T
 'room': RAOPL

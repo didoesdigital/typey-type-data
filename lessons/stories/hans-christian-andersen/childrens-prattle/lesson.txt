@@ -223,7 +223,7 @@ Children's Prattle
 'that': THA
 'she': SHE
 'was': WAS
-'well-born,': WEL/H-PB/PWORPB/KW-BG
+'well-born,': W*EL/PWORPB/KW-BG
 'and': SKP
 'said': SED
 'that': THA
@@ -253,7 +253,7 @@ Children's Prattle
 'person': PERPB
 'was': WAS
 'not': TPHOT
-'well-born,': WEL/H-PB/PWORPB/KW-BG
+'well-born,': W*EL/PWORPB/KW-BG
 'he': HE
 'could': KO
 'never': TPHEFR
@@ -265,10 +265,10 @@ Children's Prattle
 'names': TPHAEUPLS
 'end': EPBD
 'with': W
-''sen,'"': AE/SEPB/KW-BG/AE/KR-GS
+''sen,'"': A*E/SEPB/KW-BG/AE/KR-GS
 'said': SED
 'she,': SHE/KW-BG
-'"can': KR-GS/K
+'"can': KW-GS/K
 'never': TPHEFR
 'be': -B
 'anything': TPHEUG
@@ -291,7 +291,7 @@ Children's Prattle
 'to': TO
 'keep': KAOEP
 'these': THEZ
-''sen'': AE/SEPB/AE
+''sen'': A*E/SEPB/AE
 'people': PAOEPL
 'at': AT
 'a': AEU
@@ -351,7 +351,7 @@ Children's Prattle
 'father's': TPAER/AES
 'name': TPHAEUPL
 'was': WAS
-'Petersen,': xxx Petersen/KW-BG
+'Petersen,': KPA/PAOET/ERS/*EPB/KW-BG
 'and': SKP
 'she': SHE
 'knew': TPHAOU
@@ -360,7 +360,7 @@ Children's Prattle
 'name': TPHAEUPL
 'ended': EPBD/-D
 'in': TPH
-'"sen,"': KR-GS/SEPB/KW-BG/KR-GS
+'"sen,"': KW-GS/SEPB/KW-BG/KR-GS
 'and': SKP
 'therefore': TH-FR
 'she': SHE
@@ -380,7 +380,7 @@ Children's Prattle
 'dollars'': TKHRARS/AE
 'worth': WO*RT
 'of': -F
-'bonbons,': xxx bonbons/KW-BG
+'bonbons,': PW*/O*/TPH*/PW*/KWRO/*PB/-S/KW-BG
 'and': SKP
 'give': TKPWEUF
 'them': THEPL
@@ -392,7 +392,7 @@ Children's Prattle
 'papa': HRO*ER/PA/PA
 'do': TKO
 'that?"': THA/H-F/KR-GS
-'"Yes;': KR-GS/KPA/KWRE/STPH*FPLT
+'"Yes;': KW-GS/KPA*/KWRE/STPH*FPLT
 'and': SKP
 'my': PHEU
 'papa,"': HRO*ER/PA/PA/KW-BG/KR-GS
@@ -406,7 +406,7 @@ Children's Prattle
 'of': -F
 'a': AEU
 'paper,': PAEUP/KW-BG
-'"my': KR-GS/PHEU
+'"my': KW-GS/PHEU
 'papa': HRO*ER/PA/PA
 'can': K
 'put': PUT
@@ -604,7 +604,7 @@ Children's Prattle
 'own,': OEPB/KW-BG
 'ended': EPBD/-D
 'in': TPH
-'"sen,"': KR-GS/SEPB/KW-BG/KR-GS
+'"sen,"': KW-GS/SEPB/KW-BG/KR-GS
 'and': SKP
 'therefore': TH-FR
 'he': HE
@@ -762,10 +762,10 @@ Children's Prattle
 'name': TPHAEUPL
 'ended': EPBD/-D
 'in': TPH
-'"sen,"—for': KR-GS/SEPB/KW-BG/KR-GS/EPL/TKA*RB/TPOR
+'"sen,"—for': KW-GS/SEPB/KW-BG/KR-GS/EPL/TKA*RB/TPOR
 'it': T
 'was': WAS
-'Thorwaldsen.': xxx Thorwaldsen/TP-PL
+'Thorwaldsen.': T*P/H*/O*/R*/W*/A*/HR*/TK*/-S/*EPB/TP-PL
 'And': AFPBD
 'the': -T
 'three': THRAOE
@@ -826,5 +826,5 @@ Children's Prattle
 'it': T
 'was': WAS
 'mere': PHAOER
-'"children's': KR-GS/KHEURPB/AES
+'"children's': KW-GS/KHEURPBS
 'prattle."': PRAT/*L/TP-PL/KR-GS

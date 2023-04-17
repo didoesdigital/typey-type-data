@@ -6,11 +6,11 @@ The Bishop of Borglum and His Warriors
 'laid': HRAEUD
 'in': TPH
 'Northern': TPHORPB
-'Jutland,': xxx Jutland/KW-BG
+'Jutland,': SKWR*P/*U/T*/HR*/KWRA/*PBD/KW-BG
 'in': TPH
 'the': -T
 'so-called': SOE/KAULD
-'"wild': KR-GS/WAOEULD
+'"wild': KW-GS/WAOEULD
 'moor."': PHO*R/TP-PL/KR-GS
 'We': KPA/WE
 'hear': HAER
@@ -18,7 +18,7 @@ The Bishop of Borglum and His Warriors
 'is': S
 'called': KAULD
 'the': -T
-'"Wester-wow-wow"—the': KR-GS/W*EFT/*ER/H-PB/WO*U/H-PB/WO*U/KR-GS/EPL/TKA*RB/-T
+'"Wester-wow-wow"—the': KW-GS/W*EFT/*ER/H-PB/WO*U/H-PB/WO*U/KR-GS/EPL/TKA*RB/-T
 'peculiar': PE/KAOUL/HRAR
 'roar': ROR
 'of': -F
@@ -33,7 +33,7 @@ The Bishop of Borglum and His Warriors
 'western': WES/TERPB
 'coast': KOEFT
 'of': -F
-'Jutland.': xxx Jutland/TP-PL
+'Jutland.': SKWR*P/*U/T*/HR*/KWRA/*PBD/TP-PL
 'It': KPA/T
 'rolls': ROLS
 'and': SKP
@@ -73,7 +73,7 @@ The Bishop of Borglum and His Warriors
 'which': WEU
 'we': WE
 'are': R
-'wending': xxx wending
+'wending': WE/*PBD/-G
 'our': OUR
 'way,': WAEU/KW-BG
 'driving': TKRAOEUFG
@@ -95,7 +95,7 @@ The Bishop of Borglum and His Warriors
 'building—the': PW-LG/EPL/TKA*RB/-T
 'convent': KOPB/SREPBT
 'of': -F
-'Borglum.': xxx Borglum/TP-PL
+'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 'In': KPA/TPH
 'one': WUPB
 'of': -F
@@ -148,7 +148,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'Bay': PWA*EU
 'of': -F
-'Aalborg,': xxx Aalborg/KW-BG
+'Aalborg,': A*P/A*/HR*/PW*/O*/R*/TKPW*/KW-BG
 'over': OEFR
 'heath': HAO*ET
 'and': SKP
@@ -252,7 +252,7 @@ The Bishop of Borglum and His Warriors
 'but': PWUT
 'the': -T
 'people': PAOEPL
-'say—yes,': SAEU/EPL/TKA*RB/KWRE/KW-BG
+'say—yes,': SAEU/EPL/TKA*RB/KWRERBGS
 'people': PAOEPL
 'say': SAEU
 'a': AEU
@@ -415,7 +415,7 @@ The Bishop of Borglum and His Warriors
 'The': KPA/-T
 'Bishop': KPA/PWEURB/OP
 'of': -F
-'Borglum': xxx Borglum
+'Borglum': PW*P/O*/R*/TKPW*/HR*/*UPL
 'is': S
 'a': AEU
 'mighty': PHAOEUT/KWREU
@@ -435,13 +435,13 @@ The Bishop of Borglum and His Warriors
 'before': PW-FR
 'the': -T
 'mighty': PHAOEUT/KWREU
-'Olaf': xxx Olaf
+'Olaf': O*P/HR*/A*/TP*
 'Glob.': KPA/TKPWHROB/TP-PL
 'His': KPA/HEUS
 'rich': REUFP
 'cousin': KUZ
 'at': AT
-'Thyland': xxx Thyland
+'Thyland': T*P/H*/KWR*/HR*/KWRA/*PBD
 'is': S
 'dead,': TKED/KW-BG
 'and': SKP
@@ -476,7 +476,7 @@ The Bishop of Borglum and His Warriors
 'had': H
 'possessed': POS/ES/-D
 'all': AUL
-'Thyland,': xxx Thyland/KW-BG
+'Thyland,': T*P/H*/KWR*/HR*/KWRA/*PBD/KW-BG
 'with': W
 'the': -T
 'exception': KPEPGS
@@ -586,9 +586,9 @@ The Bishop of Borglum and His Warriors
 'just': SKWRUFT
 'rights.': RAOEUTS/TP-PL
 'Bishop': KPA/PWEURB/OP
-'Olaf': xxx Olaf
+'Olaf': O*P/HR*/A*/TP*
 'of': -F
-'Borglum,': xxx Borglum/KW-BG
+'Borglum,': PW*P/O*/R*/TKPW*/HR*/*UPL/KW-BG
 'what': WHA
 'dost': TK*/O*/S*/T*
 'thou': THO*U
@@ -680,7 +680,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'pious': PAOEU/OUS
 'bishop.': PWEURB/OP/TP-PL
-'"Cursed': KR-GS/KPA/KURS/-D
+'"Cursed': KW-GS/KPA*/KURS/-D
 'be': -B
 'she': SHE
 'and': SKP
@@ -732,7 +732,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'Bishop': KPA/PWEURB/OP
 'of': -F
-'Borglum': xxx Borglum
+'Borglum': PW*P/O*/R*/TKPW*/HR*/*UPL
 'And': AFPBD
 'all': AUL
 'forsake': TPAUR/SAEUBG
@@ -787,7 +787,7 @@ The Bishop of Borglum and His Warriors
 'by': PWEU
 'the': -T
 'bishop.': PWEURB/OP/TP-PL
-'"Thou': KR-GS/KPA/THO*U
+'"Thou': KW-GS/KPA*/THO*U
 'child': KHAOEULD
 'of': -F
 'perdition,': PER/TKEUGS/KW-BG
@@ -802,7 +802,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'Bishop': KPA/PWEURB/OP
 'of': -F
-'Borglum.': xxx Borglum/TP-PL
+'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 '"Now': KW-GS/KPA*/TPHOU
 'will': HR
 'I': EU
@@ -921,7 +921,7 @@ The Bishop of Borglum and His Warriors
 'from': TPR
 'the': -T
 'armed': ARPLD
-'followers': TPOL/*ER/-S
+'followers': TPOL/*ERS
 'of': -F
 'the': -T
 'robber-knights.': ROB/ER/H-PB/TPHAO*EUT/-S/TP-PL
@@ -955,7 +955,7 @@ The Bishop of Borglum and His Warriors
 'they': THE
 'were': WR
 'in': TPH
-'Franconia.': xxx Franconia/TP-PL
+'Franconia.': TPRA*PBG/SKWRO/TPHAO*E/KWRA/TP-PL
 'And': AFPBD
 'there': THR
 'met': PHET
@@ -969,7 +969,7 @@ The Bishop of Borglum and His Warriors
 'of': -F
 'twelve': TWEFL
 'armed': ARPLD
-'followers.': TPOL/*ER/-S/TP-PL
+'followers.': TPOL/*ERS/TP-PL
 'He': KPA/HE
 'paused,': PAUFD/KW-BG
 'gazed': TKPWAEZ/-D
@@ -999,7 +999,7 @@ The Bishop of Borglum and His Warriors
 'of': -F
 'them': THEPL
 'mentioned': PHEPBGS/-D
-'Thyland': xxx Thyland
+'Thyland': T*P/H*/KWR*/HR*/KWRA/*PBD
 'in': TPH
 'Denmark,': TKEPB/PHARBG/KW-BG
 'and': SKP
@@ -1101,7 +1101,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'fire.': TPAOEUR/TP-PL
 'At': KPA/AT
-'Borglum': xxx Borglum
+'Borglum': PW*P/O*/R*/TKPW*/HR*/*UPL
 'it': T
 'was': WAS
 'warm': WARPL
@@ -1126,10 +1126,10 @@ The Bishop of Borglum and His Warriors
 'to': TO
 'the': -T
 'bishop.': PWEURB/OP/TP-PL
-'"Jens': KR-GS/SKWREPB/-S
+'"Jens': KW-GS/SKWREPB/-S
 'Glob,': KPA/TKPWHROB/KW-BG
 'of': -F
-'Thyland,': xxx Thyland/KW-BG
+'Thyland,': T*P/H*/KWR*/HR*/KWRA/*PBD/KW-BG
 'has': HAS
 'come': KOPL
 'back,': PWABG/KW-BG
@@ -1164,7 +1164,7 @@ The Bishop of Borglum and His Warriors
 'said': SED
 'the': -T
 'bishop.': PWEURB/OP/TP-PL
-'"Best': KR-GS/KPA/PWEFT
+'"Best': KW-GS/KPA*/PWEFT
 'leave': HREF
 'off': OF
 'thy': THAO*EU
@@ -1188,7 +1188,7 @@ The Bishop of Borglum and His Warriors
 'again,': STKPWERPBGS
 'and': SKP
 'the': -T
-'"white': KR-GS/WHAOEUT
+'"white': KW-GS/WHAOEUT
 'bees"': PWAOES/KR-GS
 'are': R
 'swarming,': SWARPL/-G/KW-BG
@@ -1200,7 +1200,7 @@ The Bishop of Borglum and His Warriors
 'till': TEUL
 'they': THE
 'melt.': PHELT/TP-PL
-'"Keen': KR-GS/KPA/KAOEPB
+'"Keen': KW-GS/KPA*/KAOEPB
 'weather': WHR*
 'to-day!"': TO/H-PB/TKAEU/SKHRAPL/KR-GS
 'say': SAEU
@@ -1227,8 +1227,8 @@ The Bishop of Borglum and His Warriors
 'his': HEUS
 'wide': WAOEUD
 'garment.': TKPWARPLT/TP-PL
-'"Thou': KR-GS/KPA/THO*U
-'Borglum': xxx Borglum
+'"Thou': KW-GS/KPA*/THO*U
+'Borglum': PW*P/O*/R*/TKPW*/HR*/*UPL
 'bishop,"': PWEURB/OP/KW-BG/KR-GS
 'he': HE
 'exclaims,': SKHRAEUPL/-S/KW-BG
@@ -1262,11 +1262,11 @@ The Bishop of Borglum and His Warriors
 'letter': HRERT
 'to': TO
 'his': HEUS
-'brother-in-law,': PWROER/H-PB/TPH/H-PB/HRAU/KW-BG
-'Olaf': xxx Olaf
-'Hase,': xxx Hase/KW-BG
+'brother-in-law,': PWROERPBL/KW-BG
+'Olaf': O*P/HR*/A*/TP*
+'Hase,': H*P/AEUZ/KW-BG
 'in': TPH
-'Sallingland,': xxx Sallingland/KW-BG
+'Sallingland,': S*P/A*/HR*/HR*/*EU/TPH*/TKPW*/HR*/KWRA/*PBD/KW-BG
 'and': SKP
 'prays': PRAEU/-S
 'that': THA
@@ -1283,7 +1283,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'church': KHUFRPB
 'at': AT
-'Widberg.': xxx Widberg/TP-PL
+'Widberg.': KPA/W*/*EU/TK*/PWERG/TP-PL
 'The': KPA/-T
 'bishop': PWEURB/OP
 'himself': HEUPLS
@@ -1297,9 +1297,9 @@ The Bishop of Borglum and His Warriors
 'will': HR
 'journey': SKWRURPB
 'from': TPR
-'Borglum': xxx Borglum
+'Borglum': PW*P/O*/R*/TKPW*/HR*/*UPL
 'to': TO
-'Thyland;': xxx Thyland/STPH*FPLT
+'Thyland;': T*P/H*/KWR*/HR*/KWRA/*PBD/STPH*FPLT
 'and': SKP
 'this': TH
 'is': S
@@ -1307,7 +1307,7 @@ The Bishop of Borglum and His Warriors
 'to': TO
 'Jens': SKWREPB/-S
 'Glob.': KPA/TKPWHROB/TP-PL
-'Moorland': xxx Moorland
+'Moorland': PH*P/O*/O*/R*/HR*/KWRA/*PBD
 'and': SKP
 'meadow': PHED/OE
 'are': R
@@ -1368,13 +1368,13 @@ The Bishop of Borglum and His Warriors
 'over': OEFR
 'heath': HAO*ET
 'and': SKP
-'moorland—over': xxx moorland/EPL/TKA*RB/OEFR
+'moorland—over': PHO*R/HRA*PBD/EPL/TKA*RB/OEFR
 'what': WHA
 'is': S
 'the': -T
 'garden': TKPWA*RPB
 'of': -F
-'Fata': xxx Fata
+'Fata': TP*P/A/TA
 'Morgana': PHORLG/A*PB/SKWRA
 'in': TPH
 'the': -T
@@ -1390,7 +1390,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'church': KHUFRPB
 'of': -F
-'Widberg.': xxx Widberg/TP-PL
+'Widberg.': KPA/W*/*EU/TK*/PWERG/TP-PL
 'The': KPA/-T
 'wind': WEUPBD
 'is': S
@@ -1438,19 +1438,19 @@ The Bishop of Borglum and His Warriors
 'over': OEFR
 'field': TPAOELD
 'and': SKP
-'moorland,': xxx moorland/KW-BG
+'moorland,': PHO*R/HRA*PBD/KW-BG
 'over': OEFR
 'land': HRAPBD
 'and': SKP
 'sea.': SAE/TP-PL
-'Borglum's': xxx Borglum/AES
+'Borglum's': PW*P/O*/R*/TKPW*/HR*/*UPL/AES
 'bishop': PWEURB/OP
 'reaches': RAOEFPS
 'the': -T
 'church;': KHUFRPB/STPH*FPLT
 'but': PWUT
-'Olaf': xxx Olaf
-'Hase': xxx Hase
+'Olaf': O*P/HR*/A*/TP*
+'Hase': H*P/AEUZ
 'will': HR
 'scarce': SKAEURS
 'do': TKO
@@ -1550,12 +1550,12 @@ The Bishop of Borglum and His Warriors
 'weather': WHR*
 'as': AS
 'this.': TH/TP-PL
-'Olaf': xxx Olaf
-'Hase': xxx Hase
+'Olaf': O*P/HR*/A*/TP*
+'Hase': H*P/AEUZ
 'makes': PHAEUBGS
 'halt': HALT
 'at': AT
-'Ottesworde.': xxx Ottesworde/TP-PL
+'Ottesworde.': O*P/T*/T*/*E/S*/W*/KWRO/R*D/SKWR*E/TP-PL
 'There': KPA/THR
 'he': HE
 'dismisses': TKEUS/PHEUS/-S
@@ -1614,7 +1614,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'church': KHUFRPB
 'at': AT
-'Widberg.': xxx Widberg/TP-PL
+'Widberg.': KPA/W*/*EU/TK*/PWERG/TP-PL
 'The': KPA/-T
 'faithful': TPA*EUT/-FL
 'warriors': WAR/KWRORS
@@ -1637,8 +1637,8 @@ The Bishop of Borglum and His Warriors
 'carried': KAERD
 'away;': WA*EU/STPH*FPLT
 'but': PWUT
-'Olaf': xxx Olaf
-'Hase': xxx Hase
+'Olaf': O*P/HR*/A*/TP*
+'Hase': H*P/AEUZ
 'and': SKP
 'two': TWO
 'of': -F
@@ -1666,7 +1666,7 @@ The Bishop of Borglum and His Warriors
 'The': KPA/-T
 'wind': WEUPBD
 'has': HAS
-'abated.': A/PWAEUT/-D/TP-PL
+'abated.': A*/PW*/A*T/-D/TP-PL
 'The': KPA/-T
 'church': KHUFRPB
 'is': S
@@ -1712,8 +1712,8 @@ The Bishop of Borglum and His Warriors
 'pavement.': PAEUFPLT/TP-PL
 'And': AFPBD
 'now': TPHOU
-'Olaf': xxx Olaf
-'Hase': xxx Hase
+'Olaf': O*P/HR*/A*/TP*
+'Hase': H*P/AEUZ
 'arrives.': A/RAOEUFS/TP-PL
 'In': KPA/TPH
 'the': -T
@@ -1734,12 +1734,12 @@ The Bishop of Borglum and His Warriors
 'with': W
 'the': -T
 'bishop."': PWEURB/OP/TP-PL/KR-GS
-'"Sayest': KR-GS/xxx Sayest
+'"Sayest': KW-GS/KPA/SAEU/EFT
 'thou': THO*U
 'so?"': SO/H-F/KR-GS
 'replied': RE/PHRAOEUD
-'Olaf': xxx Olaf
-'Hase.': xxx Hase/TP-PL
+'Olaf': O*P/HR*/A*/TP*
+'Hase.': H*P/AEUZ/TP-PL
 '"Then': KW-GS/KPA*/THEPB
 'neither': TPHAOERT
 'thou': THO*U
@@ -1757,10 +1757,10 @@ The Bishop of Borglum and His Warriors
 'leaps': HRAOEPS
 'from': TPR
 'the': -T
-'scabbard,': xxx scabbard/KW-BG
+'scabbard,': S*/KR*/A*/PW*/PW*/KWRA/R*D/KW-BG
 'and': SKP
-'Olaf': xxx Olaf
-'Hase': xxx Hase
+'Olaf': O*P/HR*/A*/TP*
+'Hase': H*P/AEUZ
 'deals': TKAOELS
 'a': AEU
 'blow': PWHROE
@@ -1782,7 +1782,7 @@ The Bishop of Borglum and His Warriors
 'fly': TPHRAOEU
 'in': TPH
 'fragments.': TPRAPLTS/TP-PL
-'"Hold,': KR-GS/KPA/HOLD/KW-BG
+'"Hold,': KW-GS/KPA*/HOLD/KW-BG
 'brother!': PWROER/SKHRAPL
 'First': KPA/TPEUFRT
 'hear': HAER
@@ -1881,7 +1881,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'convent': KOPB/SREPBT
 'of': -F
-'Borglum.': xxx Borglum/TP-PL
+'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 'The': KPA/-T
 'murdered': PHURD/-D
 'bishop': PWEURB/OP
@@ -1916,7 +1916,7 @@ The Bishop of Borglum and His Warriors
 'with': W
 'silver;': SEUL/SRER/STPH*FPLT
 'the': -T
-'crozier': xxx crozier
+'crozier': KR*/R*/O*/STKPW*/SKWREU/*ER
 'in': TPH
 'the': -T
 'powerless': POURLS
@@ -1993,7 +1993,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'Bishop': KPA/PWEURB/OP
 'of': -F
-'Borglum': xxx Borglum
+'Borglum': PW*P/O*/R*/TKPW*/HR*/*UPL
 'and': SKP
 'his': HEUS
 'hard': HARD
@@ -2008,7 +2008,7 @@ The Bishop of Borglum and His Warriors
 'by': PWEU
 'the': -T
 'frightened': TPRAOEUFPBD
-'husbandman,': xxx husbandman/KW-BG
+'husbandman,': HUS/PHA*PB/KW-BG
 'driving': TKRAOEUFG
 'by': PWEU
 'in': TPH
@@ -2020,7 +2020,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'convent': KOPB/SREPBT
 'of': -F
-'Borglum.': xxx Borglum/TP-PL
+'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 'It': KPA/T
 'is': S
 'heard': HAERD
@@ -2033,7 +2033,7 @@ The Bishop of Borglum and His Warriors
 'thickly-walled': THEUBG/HREU/H-PB/WAULD
 'rooms': RAOPLS
 'at': AT
-'Borglum.': xxx Borglum/TP-PL
+'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 'And': AFPBD
 'not': TPHOT
 'only': OEPBL
@@ -2117,7 +2117,7 @@ The Bishop of Borglum and His Warriors
 'mantle,': PHAPBT/*L/KW-BG
 'with': W
 'the': -T
-'crozier': xxx crozier
+'crozier': KR*/R*/O*/STKPW*/SKWREU/*ER
 'in': TPH
 'his': HEUS
 'powerless': POURLS
@@ -2259,7 +2259,7 @@ The Bishop of Borglum and His Warriors
 'down': TKOUPB
 'yonder': KWROPBD/ER
 'by': PWEU
-'Lokken,': xxx Lokken/KW-BG
+'Lokken,': KPA/HRO/*BG/*BG/*EPB/KW-BG
 'the': -T
 'little': HREUL
 'fishing': TPEURBG
@@ -2338,7 +2338,7 @@ The Bishop of Borglum and His Warriors
 'the': -T
 'convent': KOPB/SREPBT
 'of': -F
-'Borglum.': xxx Borglum/TP-PL
+'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 'In': KPA/TPH
 'comfortable': K-BL
 'rooms': RAOPLS
@@ -2391,7 +2391,7 @@ The Bishop of Borglum and His Warriors
 'land': HRAPBD
 'of': -F
 'the': -T
-'sufferers': SUF/RER/-S
+'sufferers': SUFR/*ERS
 'announces': A/TPHOUPBS/-S
 'that': THA
 'they': THE
@@ -2401,7 +2401,7 @@ The Bishop of Borglum and His Warriors
 'their': THAEUR
 'anxieties': APBG/AOEUTS
 'are': R
-'dispelled;': TKEUS/PEL/-D/STPH*FPLT
+'dispelled;': TKEUS/P*/*E/HR*/HR*/-D/STPH*FPLT
 'and': SKP
 'at': AT
 'even': AOEPB
@@ -2419,10 +2419,10 @@ The Bishop of Borglum and His Warriors
 'great': TKPWRAET
 'hall': HAUL
 'at': AT
-'Borglum.': xxx Borglum/TP-PL
+'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 'Waltzes': KPA/WAULGT/-S
 'and': SKP
-'Styrian': xxx Styrian
+'Styrian': S*P/T*/KWR*/R*/SKWREU/KWRA/*PB
 'dances': TKAPBS/-S
 'are': R
 'given,': TKPWEUFPB/KW-BG

@@ -56,7 +56,7 @@ Cat-Skin
 'her': HER
 'and': SKP
 'said,': SED/KW-BG
-''Promise': AE/KPA/PROPLS
+''Promise': A*E/KPA*/PROPLS
 'me': PHE
 'that': THA
 'you': U
@@ -127,7 +127,7 @@ Cat-Skin
 'wise': WAOEUS
 'men': PHEPB
 'said,': SED/KW-BG
-''this': AE/TH
+''this': A*E/TH
 'will': HR
 'not': TPHOT
 'do;': TKO/STPH*FPLT
@@ -247,7 +247,7 @@ Cat-Skin
 'to': TO
 'his': HEUS
 'courtiers,': KORT/KWRERS/KW-BG
-''May': AE/PHA*EU
+''May': A*E/PHA*EU
 'I': EU
 'not': TPHOT
 'marry': PHAER
@@ -294,7 +294,7 @@ Cat-Skin
 'shocked,': SHOBGD/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-''Heaven': AE/KPA/HEFPB
+''Heaven': A*E/KPA*/HEFPB
 'forbid': TPORBD
 'that': THA
 'a': AEU
@@ -334,7 +334,7 @@ Cat-Skin
 'said': SED
 'to': TO
 'him,': HEUPL/KW-BG
-''Before': AE/KPA/PW-FR
+''Before': A*E/KPA*/PW-FR
 'I': EU
 'marry': PHAER
 'anyone': TPHEUPB
@@ -524,7 +524,7 @@ Cat-Skin
 'moon,': PHAOPB/KW-BG
 'and': SKP
 'the': -T
-'stars--up': STARS/H-PB/H-PB/UP
+'stars--up': STARS/H-PB/SKWR*UP
 'in': TPH
 'a': AEU
 'nutshell,': TPHUT/SHEL/KW-BG
@@ -637,7 +637,7 @@ Cat-Skin
 'round,': ROUPBD/KW-BG
 'and': SKP
 'bark.': PWARBG/TP-PL
-''Look': AE/KPA/HRAOBG
+''Look': A*E/KPA*/HRAOBG
 'sharp!'': SHARP/SKHRAPL/AE
 'said': SED
 'the': -T
@@ -645,7 +645,7 @@ Cat-Skin
 'to': TO
 'the': -T
 'huntsmen,': HUPBTS/PH*EPB/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'see': SAOE
 'what': WHA
 'sort': SORT
@@ -701,11 +701,11 @@ Cat-Skin
 'lies': HRAO*EUS
 'fast': TPAFT
 'asleep.'': A/SHRAOEP/TP-PL/AE
-''See,'': AE/KPA/SAOE/KW-BG/AE
+''See,'': A*E/KPA*/SAOE/KW-BG/AE
 'said': SED
 'the': -T
 'king,': KEUPBG/KW-BG
-''if': AE/TP
+''if': A*E/TP
 'you': U
 'can': K
 'catch': KAFP
@@ -758,7 +758,7 @@ Cat-Skin
 'Then': KPA/THEPB
 'they': THE
 'said,': SED/KW-BG
-''Yes,': AE/KPA/KWRE/KW-BG
+''Yes,': A*E/KPA*/KWRE/KW-BG
 'Miss': PH*EUS/S-P
 'Cat-skin,': KPA/KAT/H-PB/SKEUPB/KW-BG
 'you': U
@@ -814,7 +814,7 @@ Cat-Skin
 'in,': TPH/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-''Cat-skin,': AE/KPA/KAT/H-PB/SKEUPB/KW-BG
+''Cat-skin,': A*E/KPA*/KAT/H-PB/SKEUPB/KW-BG
 'you': U
 'may': PHAE
 'lie': HRAOEU
@@ -863,12 +863,12 @@ Cat-Skin
 'time': TAOEUPL
 'very': SRE
 'sorrowfully.': SOR/ROEFL/HREU/TP-PL
-''Ah!': AE/KPA/HA*E/SKHRAPL
+''Ah!': A*E/KPA*/HA*E/SKHRAPL
 'pretty': PREUT
 'princess!'': PREUPB/SES/SKHRAPL/AE
 'thought': THAUT
 'she,': SHE/KW-BG
-''what': AE/WHA
+''what': A*E/WHA
 'will': HR
 'now': TPHOU
 'become': PW-BG
@@ -896,7 +896,7 @@ Cat-Skin
 'to': TO
 'the': -T
 'cook,': KAOBG/KW-BG
-''May': AE/PHA*EU
+''May': A*E/PHA*EU
 'I': EU
 'go': TKPW
 'up': UP
@@ -922,7 +922,7 @@ Cat-Skin
 'the': -T
 'cook': KAOBG
 'said,': SED/KW-BG
-''Yes,': AE/KPA/KWRE/KW-BG
+''Yes,': A*E/KPA*/KWRE/KW-BG
 'you': U
 'may': PHAE
 'go,': TKPW-RBGS
@@ -1062,7 +1062,7 @@ Cat-Skin
 'an': APB
 'end': EPBD
 'she': SHE
-'curtsied;': xxx curtsied/STPH*FPLT
+'curtsied;': KURT/-S/SKWREU/-D/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T
@@ -1142,7 +1142,7 @@ Cat-Skin
 'the': -T
 'cook': KAOBG
 'said,': SED/KW-BG
-''Let': AE/KPA/HRET
+''Let': A*E/KPA*/HRET
 'that': THA
 'alone': A/HROEPB
 'till': TEUL
@@ -1383,7 +1383,7 @@ Cat-Skin
 'but': PWUT
 'Cat-skin': KPA/KAT/H-PB/SKEUPB
 'did.'': TK/TP-PL/AE
-''Then': AE/KPA/THEPB
+''Then': A*E/KPA*/THEPB
 'let': HRET
 'Cat-skin': KPA/KAT/H-PB/SKEUPB
 'come': KOPL
@@ -1409,14 +1409,14 @@ Cat-Skin
 'child,'': KHAOEULD/KW-BG/AE
 'said': SED
 'she,': SHE/KW-BG
-''that': AE/THA
+''that': A*E/THA
 'has': HAS
 'lost': HRO*S
 'both': PWO*T
 'father': TPAER
 'and': SKP
 'mother.'': PHOER/TP-PL/AE
-''How': AE/KPA/HOU
+''How': A*E/KPA*/HOU
 'came': KAEUPL
 'you': U
 'in': TPH
@@ -1431,10 +1431,10 @@ Cat-Skin
 'nothing,'': TPHOG/KW-BG/AE
 'said': SED
 'she,': SHE/KW-BG
-''but': AE/PWUT
+''but': A*E/PWUT
 'to': TO
 'be': -B
-'scullion-girl,': xxx scullion/H-PB/TKPWEURL/KW-BG
+'scullion-girl,': S*/KR*/*U/HR*/HR*/SKWREU/KWRO/*PB/H-PB/TKPWEURL/KW-BG
 'and': SKP
 'to': TO
 'have': SR
@@ -1504,10 +1504,10 @@ Cat-Skin
 'it': T
 'as': AS
 'before.': PW-FR/TP-PL
-''Yes,'': AE/KPA/KWRE/KW-BG/AE
+''Yes,'': A*E/KPA*/KWRE/KW-BG/AE
 'said': SED
 'he,': HE/KW-BG
-''but': AE/PWUT
+''but': A*E/PWUT
 'come': KOPL
 'again': TKPWEPB
 'in': TPH
@@ -1738,7 +1738,7 @@ Cat-Skin
 'said': SED
 'the': -T
 'cook;': KAOBG/STPH*FPLT
-''for': AE/TPOR
+''for': A*E/TPOR
 'you': U
 'always': AULS
 'put': PUT

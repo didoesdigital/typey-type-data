@@ -22,7 +22,7 @@ In the Nursery
 'left': HREFT
 'at': AT
 'home.': HOEPL/TP-PL
-'"We'll': KR-GS/KPA/WE/AE/HR*/HR*
+'"We'll': KW-GS/KPA*/WAOEL
 'have': SR
 'a': AEU
 'play': PHRAEU
@@ -190,7 +190,7 @@ In the Nursery
 'capital!': KPAL/SKHRAPL
 'Here's': KPA/HAOERS
 'a': AEU
-'pipe-head,': PAOEUP/H-PB/HED/KW-BG
+'pipe-head,': PAOEUP/H*ED/KW-BG
 'and': SKP
 'yonder': KWROPBD/ER
 'an': APB
@@ -214,7 +214,7 @@ In the Nursery
 'said': SED
 'little': HREUL
 'Anna.': APB/TPHA/TP-PL
-'"Here's': KR-GS/KPA/HAOER/AES
+'"Here's': KW-GS/KPA*/HAOERS
 'my': PHEU
 'brother's': PWROER/AES
 'old': OLD
@@ -328,7 +328,7 @@ In the Nursery
 'hundred,"': HUPBD/KW-BG/KR-GS
 'said': SED
 'grandpapa.': TKPWRAPBD/TK-LS/HRO*ER/PA/PA/TP-PL
-'"Those': KR-GS/KPA/THOZ
+'"Those': KW-GS/KPA*/THOZ
 'that': THA
 'are': R
 'most': PHOFT
@@ -368,13 +368,13 @@ In the Nursery
 'shake': SHAEUBG
 'the': -T
 'pen!': PEPB/SKHRAPL
-'Cock-a-lorum!': KPA/KOBG/H-PB/AEU/H-PB/xxx lorum/SKHRAPL
+'Cock-a-lorum!': KPA/KOBG/H-PB/AEU/H-PB/HR*/O*R/*UPL/SKHRAPL
 'So': KPA/SO
 'now,': TPHOURBGS
 'here's': HAOERS
 'the': -T
 'play,': PHRAEU/KW-BG
-'brin-bran-span': xxx brin/H-PB/PWRAPB/H-PB/SPAPB
+'brin-bran-span': PW*/R*/*EUPB/H-PB/PWRAPB/H-PB/SPAPB
 'new!': TPHU/SKHRAPL
 'Now': KPA/TPHOU
 'listen': HREUFPB
@@ -408,11 +408,11 @@ In the Nursery
 'One': KPA/WUPB
 'Act': A*BGT
 'CHARACTERS': *URP/KRARS
-'MR.': *URP/PH*P/R*/TP-PL
+'MR.': *URP/PHR-FPLT
 'PIPE-HEAD,': *URP/PAOEUP/H-PB/*URP/HED/KW-BG
 'a': AEU
 'father.': TPAER/TP-PL
-'MR.': *URP/PH*P/R*/TP-PL
+'MR.': *URP/PHR-FPLT
 'WAISTCOAT,': *URP/WA*EUS/KOET/KW-BG
 'a': AEU
 'lover.': HRUFR/TP-PL
@@ -420,7 +420,7 @@ In the Nursery
 'GLOVE,': *URP/TKPWHROF/KW-BG
 'a': AEU
 'daughter.': TKAUR/TP-PL
-'MR.': *URP/PH*P/R*/TP-PL
+'MR.': *URP/PHR-FPLT
 'DE': *URP/TK*E
 'BOOTS,': *URP/PWAOTS/KW-BG
 'a': AEU
@@ -461,7 +461,7 @@ In the Nursery
 'as': AS
 'Papa': PA/PA
 'Pipe-head!': KPA/PAOEUP/H-PB/HED/SKHRAPL
-'He's': KPA/HE/AES
+'He's': KPA/HAOES
 'angry': APBG/REU
 'to-day.': TO/H-PB/TKAEU/TP-PL
 'One': KPA/WUPB
@@ -472,10 +472,10 @@ In the Nursery
 'a': AEU
 'colored': KHRORD
 'meerschaum.': PHAOER/SHAUPL/TP-PL
-'"'Snik,': KR-GS/AE/xxx Snik/KW-BG
-'snak,': xxx snak/KW-BG
-'snurre,': xxx snurre/KW-BG
-'bassellurre!': xxx bassellurre/SKHRAPL
+'"'Snik,': KW-GS/AE/S*P/TPH*/SKWREU/*BG/KW-BG
+'snak,': HRO*ER/S*P/TPH*/KWRA/*BG/KW-BG
+'snurre,': S*/TPH*/*U/R*/R*/SKWR*E/KW-BG
+'bassellurre!': PW*/A*/S*/S*/*E/HR*/HR*/*U/R*/R*/SKWR*E/SKHRAPL
 'I'm': AOEUPL
 'master': PHAFRT
 'of': -F
@@ -521,9 +521,9 @@ In the Nursery
 'into': TPHAO
 'the': -T
 'bargain.': PWAR/TKPWAEUPB/TP-PL
-'Snikke,': xxx Snikke/KW-BG
-'snakke,': xxx snakke/KW-BG
-'snak!': xxx snak/SKHRAPL
+'Snikke,': S*P/TPH*/SKWREU/*BG/*BG/SKWR*E/KW-BG
+'snakke,': HRO*ER/S*P/TPH*/KWRA/*BG/*BG/SKWR*E/KW-BG
+'snak!': HRO*ER/S*P/TPH*/KWRA/*BG/SKHRAPL
 'He': KPA/HE
 'shall': SHAL
 'have': SR
@@ -570,7 +570,7 @@ In the Nursery
 'what': WHA
 'he': HE
 'says:': SEZ/STPH-FPLT
-'"'I': KR-GS/AE/EU
+'"'I': KW-GS/AE/EU
 'haven't': SR-PB
 'a': AEU
 'spot': SPOT
@@ -593,7 +593,7 @@ In the Nursery
 'strings': STREUPBGS
 'to': TO
 'me.'': PHE/TP-PL/AE
-'"'—On': KR-GS/AE/EPL/TKA*RB/KPA/OPB
+'"'—On': KW-GS/AE/EPL/TKA*RB/KPA*/OPB
 'the': -T
 'wedding': WEGD
 'day,': TKAEU/KW-BG
@@ -615,7 +615,7 @@ In the Nursery
 'who': WHO
 'is': S
 'speaking.': SPAOEG/TP-PL
-''Mr.': AE/PH*P/R*/TP-PL
+''Mr.': A*E/PHR-FPLT
 'de': TK*E
 'Boots': KPA/PWAOTS
 'is': S
@@ -689,7 +689,7 @@ In the Nursery
 'pointing': POEUPBGT
 'her': HER
 'fingers!': TPEURPBGS/SKHRAPL
-'"'Could': KR-GS/AE/KPA/KO
+'"'Could': KW-GS/AE/KPA*/KO
 'I': EU
 'but': PWUT
 'have': SR
@@ -710,11 +710,11 @@ In the Nursery
 'part,': PART/KW-BG
 'I'm': AOEUPL
 'sure': SHUR
-''twill': AE/TWEUL
+''twill': A*E/TWEUL
 'break': PWRAEBG
 'my': PHEU
 'heart!'': HART/SKHRAPL/AE
-''Bah!'': AE/KPA/PWA*/SKHRAPL/AE
+''Bah!'': A*E/KPA*/PWA*/SKHRAPL/AE
 'The': KPA/-T
 'last': HRAFT
 'word': WORD
@@ -729,7 +729,7 @@ In the Nursery
 'Mr.': PHR-FPLT
 'Waistcoat's': KPA/WA*EUS/KOET/AES
 'turn:': TURPB/STPH-FPLT
-'"'O': KR-GS/AE/O*P
+'"'O': KW-GS/AE/O*P
 'Glove,': KPA/TKPWHROF/KW-BG
 'my': PHEU
 'own': OEPB
@@ -745,8 +745,8 @@ In the Nursery
 'be': -B
 'mine,': PHAOEUPB/KW-BG
 'For': KPA/TPOR
-'Holger': xxx Holger
-'Danske': xxx Danske
+'Holger': H*P/O*/HR*/TKPW*/*ER
+'Danske': TKAPB/-S/*BG/SKWR*E
 'has': HAS
 'sworn': SWORPB
 'it!'': T/SKHRAPL/AE
@@ -773,11 +773,11 @@ In the Nursery
 'cried': KRAOEUD
 'little': HREUL
 'Anna.': APB/TPHA/TP-PL
-'"Silence!': KR-GS/KPA/SHREPBS/SKHRAPL
+'"Silence!': KW-GS/KPA*/SHREPBS/SKHRAPL
 'silence!"': SHREPBS/SKHRAPL/KR-GS
 'said': SED
 'grandpapa.': TKPWRAPBD/TK-LS/HRO*ER/PA/PA/TP-PL
-'"Silent': KR-GS/KPA/SHREPBT
+'"Silent': KW-GS/KPA*/SHREPBT
 'approbation': ARP/PWAEUGS
 'will': HR
 'show': SHOE
@@ -800,15 +800,15 @@ In the Nursery
 'with': W
 'startling': START/*LG
 'effects:': TPEBGZ/STPH-FPLT
-'"'I': KR-GS/AE/EU
+'"'I': KW-GS/AE/EU
 'can't': K-PBT
 'see,': SAOERBGS
-'heigho!': xxx heigho/SKHRAPL
+'heigho!': H*/*E/*EU/TKPW*/H*/KWRO/SKHRAPL
 'And': AFPBD
 'therefore': TH-FR
 'I'll': AOEUL
 'crow!': KROE/SKHRAPL
-'Kikkeriki,': xxx Kikkeriki/KW-BG
+'Kikkeriki,': KPA/KAO*EU/*BG/*BG/*ER/SKWREU/*BG/SKWREU/KW-BG
 'in': TPH
 'the': -T
 'lofty': HROF/TEU
@@ -846,11 +846,11 @@ In the Nursery
 'but': PWUT
 'leave': HREF
 'it': T
-'alone,—that's': A/HROEPB/KW-BG/EPL/TKA*RB/THA/AES
+'alone,—that's': A/HROEPB/KW-BG/EPL/TKA*RB/THATS
 'considered': KR-D
 'more': PHOR
 'genteel.': SKWREPB/TAOEL/TP-PL
-'"'I': KR-GS/AE/EU
+'"'I': KW-GS/AE/EU
 'am': APL
 'driven': TKREUFPB
 'to': TO
@@ -866,7 +866,7 @@ In the Nursery
 'You': KPA/U
 'are': R
 'the': -T
-'Pipe-head,': KPA/PAOEUP/H-PB/HED/KW-BG
+'Pipe-head,': KPA/PAOEUP/H*ED/KW-BG
 'and': SKP
 'I': EU
 'am': APL
@@ -908,7 +908,7 @@ In the Nursery
 'the': -T
 'Waistcoat': KPA/WA*EUS/KOET
 'says:': SEZ/STPH-FPLT
-'"'You': KR-GS/AE/KPA/U
+'"'You': KW-GS/AE/KPA*/U
 'are': R
 'in': TPH
 'my': PHEU
@@ -948,7 +948,7 @@ In the Nursery
 'old': OLD
 'Pipe-head': KPA/PAOEUP/H*ED
 'replies:': RE/PHRAOEUS/STPH-FPLT
-'"'Though': KR-GS/AE/KPA/THOE
+'"'Though': KW-GS/AE/KPA*/THOE
 'I'm': AOEUPL
 'all': AUL
 'ear,': AOER/KW-BG
@@ -1030,17 +1030,17 @@ In the Nursery
 'of': -F
 'them': THEPL
 'sings:': SEUPBGS/STPH-FPLT
-'"'Father!'': KR-GS/AE/KPA/TPAER/SKHRAPL/AE
+'"'Father!'': KW-GS/AE/KPA*/TPAER/SKHRAPL/AE
 'and': SKP
 'the': -T
 'other,': OER/KW-BG
-''Come,': AE/KPA/KOPL/KW-BG
+''Come,': A*E/KPA*/KOPL/KW-BG
 'do': TKO
 'as': AS
 'you': U
 'ought': OT
 'to': TO
-'do,—': TKO/KW-BG/EPL/TKA*RB
+'do,—': TKORBGS/EPL/TKA*RB
 'Bless': KPA/PWHRES
 'your': KWROUR
 'son': SOPB
@@ -1064,7 +1064,7 @@ In the Nursery
 'sing': SEUPBG
 'in': TPH
 'chorus,': KHOURS/KW-BG
-'"'Klink!': KR-GS/AE/xxx Klink/SKHRAPL
+'"'Klink!': KW-GS/AE/K*P/HR*/*EUPB/*BG/SKHRAPL
 'clanks!': KHRA*PBG/-S/SKHRAPL
 'A': KPA/AEU
 'thousand': THOUD
@@ -1081,7 +1081,7 @@ In the Nursery
 'applaud,"': A/PHRAUD/KW-BG/KR-GS
 'said': SED
 'grandpapa.': TKPWRAPBD/TK-LS/HRO*ER/PA/PA/TP-PL
-'"We'll': KR-GS/KPA/WE/AE/HR*/HR*
+'"We'll': KW-GS/KPA*/WAOEL
 'call': KAUL
 'them': THEPL
 'all': AUL
@@ -1115,7 +1115,7 @@ In the Nursery
 'the': -T
 'real': RAEL
 'theatre?"': THAO*ERT/H-F/KR-GS
-'"Our': KR-GS/KPA/OUR
+'"Our': KW-GS/KPA*/OUR
 'play': PHRAEU
 'is': S
 'much': PHUFP
@@ -1126,7 +1126,7 @@ In the Nursery
 'is': S
 'shorter,': SHORT/*ER/KW-BG
 'the': -T
-'performers': PORPL/*ER/-S
+'performers': PORPL/*ERS
 'are': R
 'natural,': TPHARL/KW-BG
 'and': SKP

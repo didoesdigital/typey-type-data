@@ -128,7 +128,7 @@ The Drop of Water
 'the': -T
 'people': PAOEPL
 'called': KAULD
-'Kribble-Krabble,': xxx Kribble/H-PB/xxx Krabble/KW-BG
+'Kribble-Krabble,': K*P/R*/*EU/PW*/PW*/*L/H-PB/K*P/R*/A*/PW*/PW*/*L/KW-BG
 'for': TPOR
 'that': THA
 'was': WAS
@@ -187,9 +187,9 @@ The Drop of Water
 'But': KPA/PWUT
 'what': WHA
 'a': AEU
-'kribbling': xxx kribbling
+'kribbling': K*/R*/*EU/PW*/PW*/HR*/-G
 'and': SKP
-'krabbling': xxx krabbling
+'krabbling': K*/R*/A*/PW*/PW*/HR*/-G
 'was': WAS
 'there!': THR/SKHRAPL
 'All': KPA/AUL
@@ -216,7 +216,7 @@ The Drop of Water
 'horrible!"': HORBL/SKHRAPL/KR-GS
 'said': SED
 'old': OLD
-'Kribble-Krabble.': xxx Kribble/H-PB/xxx Krabble/TP-PL
+'Kribble-Krabble.': K*P/R*/*EU/PW*/PW*/*L/H-PB/K*P/R*/A*/PW*/PW*/*L/TP-PL
 '"Can': KW-GS/KPA*/K
 'one': WUPB
 'not': TPHOT
@@ -227,7 +227,7 @@ The Drop of Water
 'in': TPH
 'peace': PAES
 'and': SKP
-'quietness,': xxx quietness/KW-BG
+'quietness,': KWAO*EUT/-PBS/KW-BG
 'so': SO
 'that': THA
 'each': AOEFP
@@ -343,16 +343,16 @@ The Drop of Water
 'thing': THEUPBG
 'about': PW
 'him.': HEUPL/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'if': TP
 'you': U
 'can': K
 'guess': TKPWES
 'what': WHA
 'it': T
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'said': SED
-'Kribble-Krabble,': xxx Kribble/H-PB/xxx Krabble/KW-BG
+'Kribble-Krabble,': K*P/R*/*EU/PW*/PW*/*L/H-PB/K*P/R*/A*/PW*/PW*/*L/KW-BG
 '"I'll': KW-GS/AOEUL
 'make': PHAEUBG
 'you': U
@@ -447,7 +447,7 @@ The Drop of Water
 'were': WR
 'struggling': STRUG/-LG
 'upwards.': UP/WARDZ/TP-PL
-'"Look!': KR-GS/KPA/HRAOBG/SKHRAPL
+'"Look!': KW-GS/KPA*/HRAOBG/SKHRAPL
 'look!': HRAOBG/SKHRAPL
 'his': HEUS
 'leg': HREG
@@ -514,7 +514,7 @@ The Drop of Water
 'for': TPOR
 'peace': PAES
 'and': SKP
-'quietness.': xxx quietness/TP-PL
+'quietness.': KWAO*EUT/-PBS/TP-PL
 'But': KPA/PWUT
 'now': TPHOU
 'she': SHE
@@ -540,7 +540,7 @@ The Drop of Water
 'said': SED
 'the': -T
 'magician.': PHA/SKWREUGS/TP-PL
-'"Yes;': KR-GS/KPA/KWRE/STPH*FPLT
+'"Yes;': KW-GS/KPA*/KWRE/STPH*FPLT
 'but': PWUT
 'what': WHA
 'do': TKO
@@ -549,7 +549,7 @@ The Drop of Water
 'it': T
 'is?"': S/H-F/KR-GS
 'said': SED
-'Kribble-Krabble.': xxx Kribble/H-PB/xxx Krabble/TP-PL
+'Kribble-Krabble.': K*P/R*/*EU/PW*/PW*/*L/H-PB/K*P/R*/A*/PW*/PW*/*L/TP-PL
 '"Can': KW-GS/KPA*/K
 'you': U
 'find': TPAOEUPBD
@@ -587,4 +587,4 @@ The Drop of Water
 'puddle': P*ULD
 'water!"': WAUR/SKHRAPL/KR-GS
 'said': SED
-'Kribble-Krabble.': xxx Kribble/H-PB/xxx Krabble/TP-PL
+'Kribble-Krabble.': K*P/R*/*EU/PW*/PW*/*L/H-PB/K*P/R*/A*/PW*/PW*/*L/TP-PL

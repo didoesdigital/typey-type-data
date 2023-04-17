@@ -210,7 +210,7 @@ Little Tiny or Thumbelina
 'the': -T
 'name': TPHAEUPL
 'of': -F
-'"Thumbelina,"': KR-GS/xxx Thumbelina/KW-BG/KR-GS
+'"Thumbelina,"': KW-GS/T*P/H*/*U/PH*/PW*/*E/HR*/*EUPB/KWRA/KW-BG/KR-GS
 'or': OR
 'Tiny,': KPA/TOEUPB/KW-BG
 'because': PWAU
@@ -239,7 +239,7 @@ Little Tiny or Thumbelina
 'rose-leaf': ROEZ/H-PB/HRAOEF
 'for': TPOR
 'a': AEU
-'counterpane.': xxx counterpane/TP-PL
+'counterpane.': KOUFRPBT/PAEPB/TP-PL
 'Here': KPA/HAOER
 'she': SHE
 'slept': SHREPT
@@ -448,10 +448,10 @@ Little Tiny or Thumbelina
 'could': KO
 'only': OEPBL
 'cry,': KRAOEU/KW-BG
-'"Croak,': KR-GS/KPA/KROEBG/KW-BG
+'"Croak,': KW-GS/KPA*/KROEBG/KW-BG
 'croak,': KROEBG/KW-BG
 'croak."': KROEBG/TP-PL/KR-GS
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'speak': SPAOEBG
 'so': SO
 'loud,': HROUD/KW-BG
@@ -731,7 +731,7 @@ Little Tiny or Thumbelina
 'by': PWEU
 'the': -T
 'stream."': STRAOEPL/TP-PL/KR-GS
-'"Croak,': KR-GS/KPA/KROEBG/KW-BG
+'"Croak,': KW-GS/KPA*/KROEBG/KW-BG
 'croak,': KROEBG/KW-BG
 'croak,"': KROEBG/KW-BG/KR-GS
 'was': WAS
@@ -956,7 +956,7 @@ Little Tiny or Thumbelina
 'and': SKP
 'at': AT
 'last': HRAFT
-'alighted': A/HRAOEUT/-D
+'alighted': A/HRAOEUTD
 'on': OPB
 'the': -T
 'leaf.': HRAOEF/TP-PL
@@ -1045,7 +1045,7 @@ Little Tiny or Thumbelina
 'Presently': KPA/PREPBLT
 'a': AEU
 'large': HRARPBLG
-'cockchafer': xxx cockchafer
+'cockchafer': KAU/KR*/K*/KR*/H*/A*/TP*/*ER
 'flew': TPHRAOU
 'by;': PWEU/STPH*FPLT
 'the': -T
@@ -1105,7 +1105,7 @@ Little Tiny or Thumbelina
 'felt': TPELT
 'when': WHEPB
 'the': -T
-'cockchafer': xxx cockchafer
+'cockchafer': KAU/KR*/K*/KR*/H*/A*/TP*/*ER
 'flew': TPHRAOU
 'with': W
 'her': HER
@@ -1143,7 +1143,7 @@ Little Tiny or Thumbelina
 'hunger.': HURPBG/TP-PL
 'But': KPA/PWUT
 'the': -T
-'cockchafer': xxx cockchafer
+'cockchafer': KAU/KR*/K*/KR*/H*/A*/TP*/*ER
 'did': TK
 'not': TPHOT
 'trouble': TRUBL
@@ -1187,13 +1187,13 @@ Little Tiny or Thumbelina
 'least': HRAOEFT
 'like': HRAOEUBG
 'a': AEU
-'cockchafer.': xxx cockchafer/TP-PL
+'cockchafer.': KAU/KR*/K*/KR*/H*/A*/TP*/*ER/TP-PL
 'After': KPA/AF
 'a': AEU
 'time,': TAOEUPL/KW-BG
 'all': AUL
 'the': -T
-'cockchafers': xxx cockchafers
+'cockchafers': KAU/KR*/K*/KR*/H*/A*/TP*/*ERS
 'turned': TURPBD
 'up': UP
 'their': THAEUR
@@ -1215,7 +1215,7 @@ Little Tiny or Thumbelina
 'feelers,"': TPAOEL/ERS/KW-BG/KR-GS
 'said': SED
 'another.': TPHOER/TP-PL
-'"Her': KR-GS/KPA/HER
+'"Her': KW-GS/KPA*/HER
 'waist': WAEUFT
 'is': S
 'quite': KWAOEUT
@@ -1227,7 +1227,7 @@ Little Tiny or Thumbelina
 'a': AEU
 'human': HAOUPL
 'being."': -BG/TP-PL/KR-GS
-'"Oh!': KR-GS/KPA/O*ERBGS/SKHRAPL
+'"Oh!': KW-GS/KPA*/O*ERBGS/SKHRAPL
 'she': SHE
 'is': S
 'ugly,"': ULG/KW-BG/KR-GS
@@ -1235,7 +1235,7 @@ Little Tiny or Thumbelina
 'all': AUL
 'the': -T
 'lady': HRA*ED
-'cockchafers,': xxx cockchafers/KW-BG
+'cockchafers,': KAU/KR*/K*/KR*/H*/A*/TP*/*ERS/KW-BG
 'although': HR*T
 'Tiny': KPA/TOEUPB
 'was': WAS
@@ -1243,7 +1243,7 @@ Little Tiny or Thumbelina
 'pretty.': PREUT/TP-PL
 'Then': KPA/THEPB
 'the': -T
-'cockchafer': xxx cockchafer
+'cockchafer': KAU/KR*/K*/KR*/H*/A*/TP*/*ER
 'who': WHO
 'had': H
 'run': RUPB
@@ -1307,7 +1307,7 @@ Little Tiny or Thumbelina
 'that': THA
 'even': AOEPB
 'the': -T
-'cockchafers': xxx cockchafers
+'cockchafers': KAU/KR*/K*/KR*/H*/A*/TP*/*ERS
 'would': WO
 'have': SR
 'nothing': TPHOG
@@ -1679,7 +1679,7 @@ Little Tiny or Thumbelina
 'good': TKPWAOD
 'old': OLD
 'field-mouse,': TPAOELD/H-PB/PHOUS/KW-BG
-'"come': KR-GS/KOPL
+'"come': KW-GS/KOPL
 'into': TPHAO
 'my': PHEU
 'warm': WARPL
@@ -1757,7 +1757,7 @@ Little Tiny or Thumbelina
 'field-mouse': TPAOELD/H-PB/PHOUS
 'one': WUPB
 'day;': TKAEU/STPH*FPLT
-'"my': KR-GS/PHEU
+'"my': KW-GS/PHEU
 'neighbor': TPHAEUB
 'pays': PAEUZ
 'me': PHE
@@ -1893,7 +1893,7 @@ Little Tiny or Thumbelina
 'sing': SEUPBG
 'to': TO
 'him,': HEUPL/KW-BG
-'"Lady-bird,': KR-GS/KPA/HRA*ED/H-PB/PWEURD/KW-BG
+'"Lady-bird,': KW-GS/KPA*/HRA*ED/H-PB/PWEURD/KW-BG
 'lady-bird,': HRA*ED/H-PB/PWEURD/KW-BG
 'fly': TPHRAOEU
 'away': WA*EU
@@ -2196,7 +2196,7 @@ Little Tiny or Thumbelina
 'nothing': TPHOG
 'but': PWUT
 'cry,': KRAOEU/KW-BG
-''Tweet,': AE/KPA/TWAOET/KW-BG
+''Tweet,': A*E/KPA*/TWAOET/KW-BG
 'tweet,'': TWAOET/KW-BG/AE
 'and': SKP
 'always': AULS
@@ -2206,7 +2206,7 @@ Little Tiny or Thumbelina
 'in': TPH
 'the': -T
 'winter."': WEURPBT/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'you': U
 'may': PHAE
 'well': WEL
@@ -2400,14 +2400,14 @@ Little Tiny or Thumbelina
 'the': -T
 'cold': KOELD
 'earth.': *ERT/TP-PL
-'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'"Farewell,': KW-GS/KPA*/TPAER/WEL/KW-BG
 'you': U
 'pretty': PREUT
 'little': HREUL
 'bird,"': PWEURD/KW-BG/KR-GS
 'said': SED
 'she,': SHE/KW-BG
-'"farewell;': KR-GS/TPAER/WEL/STPH*FPLT
+'"farewell;': KW-GS/TPAER/WEL/STPH*FPLT
 'thank': THAPBG
 'you': U
 'for': TPOR
@@ -2454,7 +2454,7 @@ Little Tiny or Thumbelina
 'the': -T
 'bird': PWEURD
 'went': WEPBT
-'"thump,': KR-GS/THUFRP/KW-BG
+'"thump,': KW-GS/THUFRP/KW-BG
 'thump."': THUFRP/TP-PL/KR-GS
 'It': KPA/T
 'was': WAS
@@ -2568,7 +2568,7 @@ Little Tiny or Thumbelina
 'for': TPOR
 'her': HER
 'own': OEPB
-'counterpane,': xxx counterpane/KW-BG
+'counterpane,': KOUFRPBT/PAEPB/KW-BG
 'and': SKP
 'laid': HRAEUD
 'it': T
@@ -2659,7 +2659,7 @@ Little Tiny or Thumbelina
 'the': -T
 'warm': WARPL
 'sunshine."': SUPB/SHAO*EUPB/TP-PL/KR-GS
-'"Oh,"': KR-GS/KPA/O*ERBGS/KW-BG/KR-GS
+'"Oh,"': KW-GS/KPA*/O*ERBGS/KW-BG/KR-GS
 'said': SED
 'she,': SHE/KW-BG
 '"it': KW-GS/T
@@ -2882,7 +2882,7 @@ Little Tiny or Thumbelina
 '"No,': KW-GS/KPA*/TPHO/KW-BG
 'I': EU
 'cannot."': SK-PBT/TP-PL/KR-GS
-'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'"Farewell,': KW-GS/KPA*/TPAER/WEL/KW-BG
 'then,': THEPB/KW-BG
 'farewell,': TPAER/WEL/KW-BG
 'you': U
@@ -2919,7 +2919,7 @@ Little Tiny or Thumbelina
 'the': -T
 'poor': PAOR
 'swallow.': SWAL/TP-PL
-'"Tweet,': KR-GS/KPA/TWAOET/KW-BG
+'"Tweet,': KW-GS/KPA*/TWAOET/KW-BG
 'tweet,"': TWAOET/KW-BG/KR-GS
 'sang': SAPBG
 'the': -T
@@ -3240,7 +3240,7 @@ Little Tiny or Thumbelina
 'the': -T
 'disagreeable': TKEUS/TKPWRAOEBL
 'mole.': PHOEL/TP-PL
-'"Nonsense,"': KR-GS/KPA/TPHOPB/SEPBS/KW-BG/KR-GS
+'"Nonsense,"': KW-GS/KPA*/TPHOPB/SEPBS/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'field-mouse.': TPAOELD/H-PB/PHOUS/TP-PL
@@ -3364,7 +3364,7 @@ Little Tiny or Thumbelina
 'it': T
 'once': WUPBS
 'more.': PHOR/TP-PL
-'"Farewell': KR-GS/KPA/TPAER/WEL
+'"Farewell': KW-GS/KPA*/TPAER/WEL
 'bright': PWRAOEUT
 'sun,"': SUPB/KW-BG/KR-GS
 'she': SHE
@@ -3400,7 +3400,7 @@ Little Tiny or Thumbelina
 'in': TPH
 'the': -T
 'fields.': TPAOELDZ/TP-PL
-'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'"Farewell,': KW-GS/KPA*/TPAER/WEL/KW-BG
 'farewell,"': TPAER/WEL/KW-BG/KR-GS
 'she': SHE
 'repeated,': RE/PAOETD/KW-BG
@@ -3418,7 +3418,7 @@ Little Tiny or Thumbelina
 'by': PWEU
 'her': HER
 'side.': SAOEUD/TP-PL
-'"Greet': KR-GS/KPA/TKPWRAOET
+'"Greet': KW-GS/KPA*/TKPWRAOET
 'the': -T
 'little': HREUL
 'swallow': SWAL
@@ -3430,7 +3430,7 @@ Little Tiny or Thumbelina
 'see': SAOE
 'him': HEUPL
 'again."': TKPWEPB/TP-PL/KR-GS
-'"Tweet,': KR-GS/KPA/TWAOET/KW-BG
+'"Tweet,': KW-GS/KPA*/TWAOET/KW-BG
 'tweet,"': TWAOET/KW-BG/KR-GS
 'sounded': SOUPBD/-D
 'over': OEFR
@@ -3495,7 +3495,7 @@ Little Tiny or Thumbelina
 'him': HEUPL
 'she': SHE
 'wept.': WEPT/TP-PL
-'"Cold': KR-GS/KPA/KOELD
+'"Cold': KW-GS/KPA*/KOELD
 'winter': WEURPBT
 'is': S
 'coming,"': KO*G/KW-BG/KR-GS
@@ -3588,7 +3588,7 @@ Little Tiny or Thumbelina
 'that': THA
 'dark': TKARBG
 'passage."': PAFPBLG/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'I': EU
 'will': HR
 'go': TKPW
@@ -3826,7 +3826,7 @@ Little Tiny or Thumbelina
 'said': SED
 'the': -T
 'swallow;': SWAL/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'it': T
 'would': WO
 'not': TPHOT
@@ -4279,7 +4279,7 @@ Little Tiny or Thumbelina
 'call': KAUL
 'you': U
 'Maia."': PHAO*EU/KWRA/TP-PL/KR-GS
-'"Farewell,': KR-GS/KPA/TPAER/WEL/KW-BG
+'"Farewell,': KW-GS/KPA*/TPAER/WEL/KW-BG
 'farewell,"': TPAER/WEL/KW-BG/KR-GS
 'said': SED
 'the': -T
@@ -4321,7 +4321,7 @@ Little Tiny or Thumbelina
 'The': KPA/-T
 'swallow': SWAL
 'sang,': SAPBG/KW-BG
-'"Tweet,': KR-GS/KPA/TWAOET/KW-BG
+'"Tweet,': KW-GS/KPA*/TWAOET/KW-BG
 'tweet,"': TWAOET/KW-BG/KR-GS
 'and': SKP
 'from': TPR

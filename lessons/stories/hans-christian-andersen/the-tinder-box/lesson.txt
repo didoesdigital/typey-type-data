@@ -8,7 +8,7 @@ The Tinder-Box
 'the': -T
 'high': HAOEU
 'road:': RAOD/STPH-FPLT
-'"Left,': KR-GS/KPA/HREFT/KW-BG
+'"Left,': KW-GS/KPA*/HREFT/KW-BG
 'right—left,': RAOEUT/EPL/TKA*RB/HREFT/KW-BG
 'right."': RAOEUT/TP-PL/KR-GS
 'He': KPA/HE
@@ -453,7 +453,7 @@ The Tinder-Box
 'said': SED
 'the': -T
 'soldier;': SHRERPBLG/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'what': WHA
 'am': APL
 'I': EU
@@ -481,7 +481,7 @@ The Tinder-Box
 'said': SED
 'the': -T
 'witch;': WEUFP/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'do': TKO
 'not': TPHOT
@@ -523,7 +523,7 @@ The Tinder-Box
 'body."': PWO*ED/TP-PL/KR-GS
 '"Here': KW-GS/KPA*/HAOER
 'it': T
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'witch;': WEUFP/STPH*FPLT
@@ -585,7 +585,7 @@ The Tinder-Box
 'the': -T
 'first': TPEUFRT
 'door.': TKAOR/TP-PL
-'"Ah!"': KR-GS/KPA/HA*E/SKHRAPL/KR-GS
+'"Ah!"': KW-GS/KPA*/HA*E/SKHRAPL/KR-GS
 'there': THR
 'sat': SAT
 'the': -T
@@ -600,7 +600,7 @@ The Tinder-Box
 'staring': STAERG
 'at': AT
 'him.': HEUPL/TP-PL
-'"You're': KR-GS/KPA/U/AE/R*/*E
+'"You're': KW-GS/KPA*/UR
 'a': AEU
 'pretty': PREUT
 'fellow,"': TP*EL/KW-BG/KR-GS
@@ -674,7 +674,7 @@ The Tinder-Box
 'said': SED
 'the': -T
 'soldier;': SHRERPBLG/STPH*FPLT
-'"you': KR-GS/U
+'"you': KW-GS/U
 'will': HR
 'make': PHAEUBG
 'your': KWROUR
@@ -992,7 +992,7 @@ The Tinder-Box
 'replied': RE/PHRAOEUD
 'the': -T
 'witch;': WEUFP/STPH*FPLT
-'"you': KR-GS/U
+'"you': KW-GS/U
 'have': SR
 'the': -T
 'money,': PHUPB/KW-BG
@@ -1194,7 +1194,7 @@ The Tinder-Box
 'daughter,': TKAUR/KW-BG
 'the': -T
 'princess.': PREUPB/SES/TP-PL
-'"Where': KR-GS/KPA/W-R
+'"Where': KW-GS/KPA*/W-R
 'can': K
 'I': EU
 'see': SAOE
@@ -1212,7 +1212,7 @@ The Tinder-Box
 'all,"': AUL/KW-BG/KR-GS
 'they': THE
 'said;': SED/STPH*FPLT
-'"she': KR-GS/SHE
+'"she': KW-GS/SHE
 'lives': HREUFS
 'in': TPH
 'a': AEU
@@ -1528,11 +1528,11 @@ The Tinder-Box
 '"What': KW-GS/KPA*/WHA
 'orders,': ORDZ/KW-BG
 'master?"': PHAFRT/H-F/KR-GS
-'"Hallo,"': KR-GS/HA*L/KWRO/KW-BG/KR-GS
+'"Hallo,"': KW-GS/HA*L/KWRO/KW-BG/KR-GS
 'said': SED
 'the': -T
 'soldier;': SHRERPBLG/STPH*FPLT
-'"well': KR-GS/WEL
+'"well': KW-GS/WEL
 'this': TH
 'is': S
 'a': AEU
@@ -1546,7 +1546,7 @@ The Tinder-Box
 'I': EU
 'wish': WEURB
 'for."': TPOR/TP-PL/KR-GS
-'"Bring': KR-GS/KPA/PWREU
+'"Bring': KW-GS/KPA*/PWREU
 'me': PHE
 'some': SOPL
 'money,"': PHUPB/KW-BG/KR-GS
@@ -1696,7 +1696,7 @@ The Tinder-Box
 'he': HE
 'to': TO
 'himself;': HEUPLS/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'what': WHA
 'is': S
 'the': -T
@@ -1759,7 +1759,7 @@ The Tinder-Box
 'said': SED
 'the': -T
 'soldier,': SHRERPBLG/KW-BG
-'"yet': KR-GS/KWRET
+'"yet': KW-GS/KWRET
 'I': EU
 'should': SHO
 'very': SRE
@@ -2103,7 +2103,7 @@ The Tinder-Box
 'been.': PW-PB/TP-PL
 '"Here': KW-GS/KPA*/HAOER
 'it': T
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'said': SED
 'the': -T
 'king,': KEUPBG/KW-BG
@@ -2374,7 +2374,7 @@ The Tinder-Box
 'said': SED
 'to': TO
 'him,': HEUPL/KW-BG
-'"To-morrow': KR-GS/KPA/TO/H-PB/HRO*ER/PHOR/ROE
+'"To-morrow': KW-GS/KPA*/TO/H-PB/HRO*ER/PHOR/ROE
 'you': U
 'will': HR
 'be': -B
@@ -2476,7 +2476,7 @@ The Tinder-Box
 'the': -T
 'iron': AOEURPB
 'grating.': TKPWRAEUGT/TP-PL
-'"Hallo,': KR-GS/HA*L/KWRO/KW-BG
+'"Hallo,': KW-GS/HA*L/KWRO/KW-BG
 'you': U
 'shoemaker's': SHAOU/PHA*EURBG/AES
 'boy,': PWOEURBGS
@@ -2831,7 +2831,7 @@ The Tinder-Box
 'front': TPROPBT
 'and': SKP
 'cried': KRAOEUD
-'"Hurrah!"': KR-GS/KPA/HUR/RA/SKHRAPL/KR-GS
+'"Hurrah!"': KW-GS/KPA*/HUR/RA/SKHRAPL/KR-GS
 'and': SKP
 'the': -T
 'little': HREUL

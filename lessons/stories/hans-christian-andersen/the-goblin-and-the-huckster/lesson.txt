@@ -199,7 +199,7 @@ The Goblin and the Huckster
 'full': TPUL
 'of': -F
 'poetry.': POEURT/TP-PL
-'"Yonder': KR-GS/KPA/KWROPBD/ER
+'"Yonder': KW-GS/KPA*/KWROPBD/ER
 'lies': HRAO*EUS
 'some': SOPL
 'more': PHOR
@@ -231,13 +231,13 @@ The Goblin and the Huckster
 'if': TP
 'you': U
 'will."': HR/TP-PL/KR-GS
-'"Indeed': KR-GS/KPA/TPHAOEPBD
+'"Indeed': KW-GS/KPA*/TPHAOEPBD
 'I': EU
-'will,"': HR/KW-BG/KR-GS
+'will,"': HR-RBGS/KR-GS
 'said': SED
 'the': -T
 'student;': STAUPB/STPH*FPLT
-'"give': KR-GS/TKPWEUF
+'"give': KW-GS/TKPWEUF
 'me': PHE
 'the': -T
 'book': PWAOBG
@@ -477,7 +477,7 @@ The Goblin and the Huckster
 'replied': RE/PHRAOEUD
 'the': -T
 'cask:': KAFBG/STPH-FPLT
-'"poetry': KR-GS/POEURT
+'"poetry': KW-GS/POEURT
 'is': S
 'something': S-G
 'that': THA
@@ -521,7 +521,7 @@ The Goblin and the Huckster
 'tub': TUB
 'of': -F
 'the': -T
-'huckster's."': HUBG/STER/AE/S*/TP-PL/KR-GS
+'huckster's."': HUBG/STER/AES/TP-PL/KR-GS
 'Then': KPA/THEPB
 'the': -T
 'goblin': TKPWOB/HREUPB
@@ -830,7 +830,7 @@ The Goblin and the Huckster
 'last': HRAFT
 'he': HE
 'sighed,': SAOEU/-D/KW-BG
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'the': -T
 'student': STAUPB
 'has': HAS
@@ -1182,7 +1182,7 @@ The Goblin and the Huckster
 'where': W-R
 'it': T
 'felt': TPELT
-'home-like': HOEPL/SKWRAOEUBG
+'home-like': HOEPL/SKWRAO*EUBG
 'and': SKP
 'comfortable.': K-BL/TP-PL
 'And': AFPBD
@@ -1265,7 +1265,7 @@ The Goblin and the Huckster
 'house,': HOUS/KW-BG
 'or': OR
 'a': AEU
-'neighbor's?': TPHAEUB/AE/S*/H-F
+'neighbor's?': TPHAEUB/AES/H-F
 'No': KPA/TPHO
 'one': WUPB
 'could': KO

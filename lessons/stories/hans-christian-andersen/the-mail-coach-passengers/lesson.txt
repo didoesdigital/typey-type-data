@@ -14,7 +14,7 @@ The Mail-Coach Passengers
 'a': AEU
 'breeze': PWRAOEZ
 'stirred.': STEURD/TP-PL
-'"Bump"—an': KR-GS/KPA/PWUFRP/KR-GS/EPL/TKA*RB/APB
+'"Bump"—an': KW-GS/KPA*/PWUFRP/KR-GS/EPL/TKA*RB/APB
 'old': OLD
 'pot': POT
 'was': WAS
@@ -24,7 +24,7 @@ The Mail-Coach Passengers
 'neighbor's': TPHAEUB/AES
 'door;': TKAOR/STPH*FPLT
 'and': SKP
-'"bang,': KR-GS/PWAPBG/KW-BG
+'"bang,': KW-GS/PWAPBG/KW-BG
 'bang,"': PWAPBG/KW-BG/KR-GS
 'went': WEPBT
 'the': -T
@@ -48,7 +48,7 @@ The Mail-Coach Passengers
 'was': WAS
 'striking': STRAOEUG
 'twelve.': TWEFL/TP-PL
-'"Tan-ta-ra-ra,': KR-GS/KPA/TAPB/H-PB/TA/A*U/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/KW-BG
+'"Tan-ta-ra-ra,': KW-GS/KPA*/TAPB/H-PB/TA/A*U/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/KW-BG
 'tan-ta-ra-ra,"': TAPB/H-PB/TA/A*U/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/KW-BG/KR-GS
 'sounded': SOUPBD/-D
 'the': -T
@@ -83,7 +83,7 @@ The Mail-Coach Passengers
 'in': TPH
 'the': -T
 'coach.': KOEFP/TP-PL
-'"Hurrah!': KR-GS/KPA/HUR/RA/SKHRAPL
+'"Hurrah!': KW-GS/KPA*/HUR/RA/SKHRAPL
 'hurrah!"': HUR/RA/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
@@ -129,7 +129,7 @@ The Mail-Coach Passengers
 'was': WAS
 'the': -T
 'cry;': KRAOEU/STPH*FPLT
-'"a': KR-GS/AEU
+'"a': KW-GS/AEU
 'pretty': PREUT
 'wife,': WAOEUF/KW-BG
 'plenty': PHREPBT
@@ -213,7 +213,7 @@ The Mail-Coach Passengers
 'bring': PWREU
 'with': W
 'them?"': THEPL/H-F/KR-GS
-'"Good-morning,"': KR-GS/KPA/TKPWAOD/H-PB/PHORPBG/KW-BG/KR-GS
+'"Good-morning,"': KW-GS/KPA*/TKPWAOD/H-PB/PHORPBG/KW-BG/KR-GS
 'they': THE
 'cried': KRAOEUD
 'to': TO
@@ -222,7 +222,7 @@ The Mail-Coach Passengers
 'at': AT
 'the': -T
 'town-gate.': TOUPB/H-PB/TKPWAET/TP-PL
-'"Good-morning,"': KR-GS/KPA/TKPWAOD/H-PB/PHORPBG/KW-BG/KR-GS
+'"Good-morning,"': KW-GS/KPA*/TKPWAOD/H-PB/PHORPBG/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'sentry;': SEPBT/REU/STPH*FPLT
@@ -243,7 +243,7 @@ The Mail-Coach Passengers
 'the': -T
 'one': WUPB
 'who': WHO
-'alighted': A/HRAOEUT/-D
+'alighted': A/HRAOEUTD
 'first': TPEUFRT
 'from': TPR
 'the': -T
@@ -353,7 +353,7 @@ The Mail-Coach Passengers
 'Then': KPA/THEPB
 'the': -T
 'second': SEBGD
-'alighted.': A/HRAOEUT/-D/TP-PL
+'alighted.': A/HRAOEUTD/TP-PL
 'He': KPA/HE
 'seemed': SAOEPLD
 'a': AEU
@@ -388,7 +388,7 @@ The Mail-Coach Passengers
 'a': AEU
 'great': TKPWRAET
 'cask.': KAFBG/TP-PL
-'"We'll': KR-GS/KPA/WE/AE/HR*/HR*
+'"We'll': KW-GS/KPA*/WAOEL
 'dance': TKAPBS
 'the': -T
 'bung': PWUPBG
@@ -454,7 +454,7 @@ The Mail-Coach Passengers
 'said': SED
 'the': -T
 'sentry.': SEPBT/REU/TP-PL
-'"Certainly': KR-GS/KPA/SERPBL
+'"Certainly': KW-GS/KPA*/SERPBL
 'I': EU
 'may': PHAE
 'shout,"': SHOUT/KW-BG/KR-GS
@@ -494,7 +494,7 @@ The Mail-Coach Passengers
 'related': RAELTD
 'to': TO
 'the': -T
-'"forty': KR-GS/TPOURT
+'"forty': KW-GS/TPOURT
 '(k)nights,"': PREPB/K*/PR*EPB/TPHAOEUTS/KW-BG/KR-GS
 'and': SKP
 'was': WAS
@@ -529,7 +529,7 @@ The Mail-Coach Passengers
 'were': WR
 'very': SRE
 'small.': SPHAL/TP-PL
-'"MARCH,': KR-GS/*URP/PHAFRPB/KW-BG
+'"MARCH,': KW-GS/*URP/PHAFRPB/KW-BG
 'March,"': PHA*R/KW-BG/KR-GS
 'the': -T
 'fourth': TPO*URT
@@ -625,7 +625,7 @@ The Mail-Coach Passengers
 'settled,"': SELTD/KW-BG/KR-GS
 'said': SED
 'he:': HE/STPH-FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'sometimes': STAOEUPLS
 'I'm': AOEUPL
 'obliged': OE/PWHRAOEUPBLGD
@@ -1020,7 +1020,7 @@ The Mail-Coach Passengers
 'work,': WORBG/KW-BG
 'came': KAEUPL
 'the': -T
-'recreations,': RE/KRAEGS/-S/KW-BG
+'recreations,': RE/KRAOEGS/-S/KW-BG
 'dancing': TKAPBS/-G
 'and': SKP
 'playing': PHRAEUG
@@ -1029,7 +1029,7 @@ The Mail-Coach Passengers
 'greenwood,': TKPWRAOEPB/TK-LS/WAOD/KW-BG
 'and': SKP
 'the': -T
-'"harvest': KR-GS/HAR/SREFT
+'"harvest': KW-GS/HAR/SREFT
 'homes."': HOEPLS/TP-PL/KR-GS
 'She': KPA/SHE
 'was': WAS
@@ -1191,7 +1191,7 @@ The Mail-Coach Passengers
 'his': HEUS
 'game': TKPWAEUPL
 'bag.': PWAG/TP-PL
-'"Crack,': KR-GS/KPA/KRABG/KW-BG
+'"Crack,': KW-GS/KPA*/KRABG/KW-BG
 'crack."': KRABG/TP-PL/KR-GS
 'He': KPA/HE
 'had': H
@@ -1282,7 +1282,7 @@ The Mail-Coach Passengers
 'he': HE
 'went': WEPBT
 'out': OUT
-'woodcutting,': WAOD/K*UT/-G/KW-BG
+'woodcutting,': W*/O*/O*/TK*/KR*/*U/T*/T*/-G/KW-BG
 'for': TPOR
 'he': HE
 'was': WAS
@@ -1500,7 +1500,7 @@ The Mail-Coach Passengers
 'carol': KAR/OL
 'about': PW
 'the': -T
-''Star': AE/KPA/STAR
+''Star': A*E/KPA*/STAR
 'of': -F
 'Bethlehem.'"': PW*ET/HREPL/TP-PL/AE/KR-GS
 '"Well,': KW-GS/KPA*/WEL/KW-BG
@@ -1524,7 +1524,7 @@ The Mail-Coach Passengers
 'be': -B
 'put': PUT
 'up."': UP/TP-PL/KR-GS
-'"First,': KR-GS/KPA/TPEUFRT/KW-BG
+'"First,': KW-GS/KPA*/TPEUFRT/KW-BG
 'let': HRET
 'all': AUL
 'the': -T
@@ -1537,7 +1537,7 @@ The Mail-Coach Passengers
 'captain': KAPT
 'on': OPB
 'duty,': TKAOUT/KW-BG
-'"one': KR-GS/WUPB
+'"one': KW-GS/WUPB
 'after': AF
 'another.': TPHOER/TP-PL
 'The': KPA/-T

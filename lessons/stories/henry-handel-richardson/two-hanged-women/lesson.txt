@@ -68,7 +68,7 @@ Two Hanged Women
 'overhanging': AUFR/HAPBG/-G
 'sea-wall,': SAE/H-PB/WAUL/KW-BG
 'the': -T
-'outlines': AOUT/HRAOEUPB/-S
+'outlines': AOUT/HRAOEUPBS
 'of': -F
 'two': TWO
 'figures': TPEUGS
@@ -154,7 +154,7 @@ Two Hanged Women
 'the': -T
 'girls': TKPWEURLS
 'said:': SED/STPH-FPLT
-'"We'll': KR-GS/KPA/WE/AE/HR*/HR*
+'"We'll': KW-GS/KPA*/WAOEL
 'go': TKPW
 'out': OUT
 'on': OPB
@@ -497,7 +497,7 @@ Two Hanged Women
 'I': EU
 'LIKE': *URP/HRAOEUBG
 'him!"': HEUPL/SKHRAPL/KR-GS
-'"Fred?': KR-GS/TPRED/H-F
+'"Fred?': KW-GS/TPRED/H-F
 'Rats!"': KPA/RATS/SKHRAPL/KR-GS
 '"No': KW-GS/KPA*/TPHO
 'it': T
@@ -546,7 +546,7 @@ Two Hanged Women
 'heaps': HAOEP/-S
 'of': -F
 'ways.': WAEUS/TP-PL
-'He's': KPA/HE/AES
+'He's': KPA/HAOES
 'so': SO
 'big': PWEUG
 'and': SKP
@@ -738,7 +738,7 @@ Two Hanged Women
 'they': THE
 'never': TPHEFR
 'laugh.': HRAF/TP-PL
-'(Oh,': PREPB/KPA/O*ERBGS/KW-BG
+'(Oh,': PREPB/KPA*/O*ERBGS/KW-BG
 'I': EU
 'can't': K-PBT
 'STICK': *URP/STEUBG
@@ -764,10 +764,10 @@ Two Hanged Women
 'comfy': KOPL/TPEU
 'feeling.': TPAOELG/TP-PL
 'Oh,': KPA/O*ERBGS/KW-BG
-'WON'T': *URP/WOPB/AE/T*P
+'WON'T': *URP/WOEPBT
 'you': U
 'understand?"': URPBD/H-F/KR-GS
-'"Gawd!': KR-GS/KPA/TKPWAUD/SKHRAPL
+'"Gawd!': KW-GS/KPA*/TKPWAUD/SKHRAPL
 'why': KWR
 'not': TPHOT
 'make': PHAEUBG
@@ -820,7 +820,7 @@ Two Hanged Women
 '. . .': HR-PZ
 'about': PW
 'Fred."': TPRED/TP-PL/KR-GS
-'"Words?': KR-GS/KPA/WORDZ/H-F
+'"Words?': KW-GS/KPA*/WORDZ/H-F
 '--': TK-R
 'why': KWR
 'waste': WAEFT
@@ -871,7 +871,7 @@ Two Hanged Women
 'was': WAS
 'no': TPHO
 'reply.': RE/PHRAOEU/TP-PL
-'"WHY': KR-GS/*URP/KWR
+'"WHY': KW-GS/*URP/KWR
 'have': SR
 'you': U
 'such': SUFP
@@ -1391,7 +1391,7 @@ Two Hanged Women
 'never': TPHEFR
 'seen': SAOEPB
 'you!"': U/SKHRAPL/KR-GS
-'"Marry': KR-GS/KPA/PHAER
+'"Marry': KW-GS/KPA*/PHAER
 'your': KWROUR
 'Fred,': TPRED/KW-BG
 'and': SKP
@@ -1478,7 +1478,7 @@ Two Hanged Women
 'I': EU
 'mean': PHAOEPB
 'I'd': AOEUD
-'----': H-PB/H-PB/H-PB/H-PB
+'----': H*B/H-PB/H-PB/H-PB
 '"': KR-GS
 'But': KPA/PWUT
 'here': HAOER
@@ -1676,7 +1676,7 @@ Two Hanged Women
 'everything!': EFRG/SKHRAPL
 'No,': KPA/TPHO/KW-BG
 'I': EU
-'can't,': K/AE/T*/KW-BG
+'can't,': K-PBT/KW-BG
 'I': EU
 'can't': K-PBT
 '. . .': HR-PZ
@@ -1864,7 +1864,7 @@ Two Hanged Women
 'downy': KWROUPB/KWR*
 'as': AS
 'an': APB
-'infant's,': EUPB/TPAPBT/AE/S*/KW-BG
+'infant's,': EUPB/TPAPBT/AES/KW-BG
 'and': SKP
 'gazing': TKPWAEUFG
 'with': W

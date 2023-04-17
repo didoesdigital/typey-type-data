@@ -121,7 +121,7 @@ The Story of the Year
 'last': HRAFT
 'the': -T
 'storm': STORPL
-'abated,': A/PWAEUT/-D/KW-BG
+'abated,': A*/PW*/A*T/-D/KW-BG
 'and': SKP
 'a': AEU
 'narrow': TPHO*EUR
@@ -263,13 +263,13 @@ The Story of the Year
 'were': WR
 'terribly': TERBL/HREU
 'cold.': KOELD/TP-PL
-'"Tweet,': KR-GS/KPA/TWAOET/KW-BG
+'"Tweet,': KW-GS/KPA*/TWAOET/KW-BG
 'tweet,"': TWAOET/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'to': TO
 'another;': TPHOER/STPH*FPLT
-'"they': KR-GS/THE
+'"they': KW-GS/THE
 'call': KAUL
 'this': TH
 'a': AEU
@@ -305,7 +305,7 @@ The Story of the Year
 'to': TO
 'be': -B
 'so."': SO/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'you': U
 'have;': SR/STPH*FPLT
 'and': SKP
@@ -323,7 +323,7 @@ The Story of the Year
 'in': TPH
 'the': -T
 'new': TPHU
-'year,"': KWRAOER/KW-BG/KR-GS
+'year,"': KWRAOERBGS/KR-GS
 'said': SED
 'a': AEU
 'little': HREUL
@@ -385,7 +385,7 @@ The Story of the Year
 'time."': TAOEUPL/TP-PL/KR-GS
 '"That': KW-GS/KPA*/THA
 'they': THE
-'have,"': SR/KW-BG/KR-GS
+'have,"': SR-RBGS/KR-GS
 'said': SED
 'a': AEU
 'third,': THEURD/KW-BG
@@ -396,7 +396,7 @@ The Story of the Year
 'a': AEU
 'white': WHAOEUT
 'poll;': POL/STPH*FPLT
-'"they': KR-GS/THE
+'"they': KW-GS/THE
 'have': SR
 'something': S-G
 'they': THE
@@ -517,7 +517,7 @@ The Story of the Year
 'anything': TPHEUG
 'of': -F
 'consequence,': KWEPBS/KW-BG
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'have': SR
 'found': TPOUPBD
@@ -564,7 +564,7 @@ The Story of the Year
 'wall': WAUL
 'in': TPH
 'the': -T
-'court-yard,': KORT/H-PB/KWRARD/KW-BG
+'court-yard,': KORT/KWRA*RD/KW-BG
 'so': SO
 'that': THA
 'the': -T
@@ -783,7 +783,7 @@ The Story of the Year
 'and': SKP
 'shivered,': SH*EUFR/-D/KW-BG
 'crying,': KRAOEUG/KW-BG
-'"Tweet,': KR-GS/KPA/TWAOET/KW-BG
+'"Tweet,': KW-GS/KPA*/TWAOET/KW-BG
 'tweet;': TWAOET/STPH*FPLT
 'when': WHEPB
 'will': HR
@@ -878,7 +878,7 @@ The Story of the Year
 'know': TPHOE
 'who': WHO
 'he': HE
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'said': SED
 'an': APB
 'old': OLD
@@ -928,7 +928,7 @@ The Story of the Year
 'the': -T
 'old': OLD
 'man': PHAPB
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'he': HE
 'said.': SED/TP-PL
 '"It': KW-GS/KPA*/T
@@ -975,7 +975,7 @@ The Story of the Year
 'does': TKOS
 'it': T
 'not?"': TPHOT/H-F/KR-GS
-'"There!': KR-GS/KPA/THR/SKHRAPL
+'"There!': KW-GS/KPA*/THR/SKHRAPL
 'Did': KPA/TK
 'I': EU
 'not': TPHOT
@@ -1144,7 +1144,7 @@ The Story of the Year
 'covered': KOFRD
 'with': W
 'sparrows.': SPAEUR/ROE/-S/TP-PL
-'"Tee-wit,': KR-GS/KPA/TAOE/H-PB/WEUT/KW-BG
+'"Tee-wit,': KW-GS/KPA*/TAOE/H-PB/WEUT/KW-BG
 'tee-wit;': TAOE/H-PB/WEUT/STPH*FPLT
 'is': S
 'spring': SPREUPBG
@@ -1311,12 +1311,12 @@ The Story of the Year
 'really': R-L
 'a': AEU
 'new': TPHU
-'year,"': KWRAOER/KW-BG/KR-GS
+'year,"': KWRAOERBGS/KR-GS
 'cried': KRAOEUD
 'all': AUL
 'the': -T
 'sparrows,': SPAEUR/ROE/-S/KW-BG
-'"now': KR-GS/TPHOU
+'"now': KW-GS/TPHOU
 'we': WE
 'shall': SHAL
 'get': TKPWET
@@ -1453,7 +1453,7 @@ The Story of the Year
 'and': SKP
 'chirped,': KHEURP/-D/KW-BG
 'singing': SEUPBG/-G
-'"Spring': KR-GS/KPA/SPREUPBG
+'"Spring': KW-GS/KPA*/SPREUPBG
 'has': HAS
 'come!"': KOPL/SKHRAPL/KR-GS
 'How': KPA/HOU
@@ -1531,7 +1531,7 @@ The Story of the Year
 'in': TPH
 'fresh': TPRERB
 'fragrance.': TPRAEUG/RAPBS/TP-PL
-'Primroses': xxx Primroses
+'Primroses': KPA/PREUPL/ROES/-S
 'and': SKP
 'anemones': A/PHEPB/PHE/-S
 'sprung': SPRUPBG
@@ -1839,7 +1839,7 @@ The Story of the Year
 'which': WEU
 'in': TPH
 'wavy': WAF/KWREU
-'outlines': AOUT/HRAOEUPB/-S
+'outlines': AOUT/HRAOEUPBS
 'of': -F
 'black': PWHRABG
 'and': SKP
@@ -2274,12 +2274,12 @@ The Story of the Year
 'man': PHAPB
 'and': SKP
 'a': AEU
-'woman—Summer': WOPL/EPL/TKA*RB/KPA/SAOURPL
+'woman—Summer': WOPL/EPL/TKA*RB/KPA*/SAOURPL
 'and': SKP
 'his': HEUS
 'grave': TKPWRAEUF
 'consort.': KOPB/SORT/TP-PL
-'"See,"': KR-GS/KPA/SAOE/KW-BG/KR-GS
+'"See,"': KW-GS/KPA*/SAOE/KW-BG/KR-GS
 'she': SHE
 'exclaimed,': SKHRAEUPLD/KW-BG
 '"what': KW-GS/WHA
@@ -2290,7 +2290,7 @@ The Story of the Year
 'us.': US/TP-PL
 'Everything': KPA/EFRG
 'is': S
-'home-like': HOEPL/SKWRAOEUBG
+'home-like': HOEPL/SKWRAO*EUBG
 'and': SKP
 'good,': TKPWAOD/KW-BG
 'and': SKP
@@ -2421,7 +2421,7 @@ The Story of the Year
 'said': SED
 'the': -T
 'man,': PHAPB/KW-BG
-'"then': KR-GS/THEPB
+'"then': KW-GS/THEPB
 'rejoice,"': RE/SKWROEUS/KW-BG/KR-GS
 'and': SKP
 'he': HE
@@ -2581,7 +2581,7 @@ The Story of the Year
 'round': ROUPBD
 'them': THEPL
 'all.': AUL/TP-PL
-'"Tweet,': KR-GS/KPA/TWAOET/KW-BG
+'"Tweet,': KW-GS/KPA*/TWAOET/KW-BG
 'where': W-R
 'has': HAS
 'the': -T
@@ -2771,11 +2771,11 @@ The Story of the Year
 'for': TPOR
 'the': -T
 'new-born': TPHU/H-PB/PWORPB
-'year,"': KWRAOER/KW-BG/KR-GS
+'year,"': KWRAOERBGS/KR-GS
 'said': SED
 'the': -T
 'ruler,': RAO*URL/KW-BG
-'"soon': KR-GS/SAOPB
+'"soon': KW-GS/SAOPB
 'will': HR
 'a': AEU
 'new': TPHU
@@ -2926,7 +2926,7 @@ The Story of the Year
 'while': WHAOEUL
 'yet': KWRET
 'thou': THO*U
-'livest.': xxx livest/TP-PL
+'livest.': HR*/*EU/SR*/EFT/TP-PL
 'The': KPA/-T
 'hour': HOUR
 'of': -F
@@ -2961,7 +2961,7 @@ The Story of the Year
 'cold,': KOELD/KW-BG
 'bent,': PWEPBT/KW-BG
 'and': SKP
-'hoary,': xxx hoary/KW-BG
+'hoary,': HO*E/AER/KW-BG
 'but': PWUT
 'strong': STROPBG
 'as': AS
@@ -2978,7 +2978,7 @@ The Story of the Year
 'sat': SAT
 'on': OPB
 'the': -T
-'snowdrift-covered': xxx snowdrift/H-PB/KOFRD
+'snowdrift-covered': S*/TPH*/O*/W*/TK*/R*/*EU/TP*/T*/H-PB/KOFRD
 'hill,': HEUL/KW-BG
 'looking': HRAOG
 'towards': TORDZ
@@ -3213,7 +3213,7 @@ The Story of the Year
 'asked': SK-D
 'the': -T
 'sparrows.': SPAEUR/ROE/-S/TP-PL
-'"Spring!"': KR-GS/KPA/SPREUPBG/SKHRAPL/KR-GS
+'"Spring!"': KW-GS/KPA*/SPREUPBG/SKHRAPL/KR-GS
 'Again': KPA/TKPWEPB
 'the': -T
 'echo': EBG/OE
@@ -3237,7 +3237,7 @@ The Story of the Year
 'the': -T
 'birds': PWEURDZ
 'twittered,': HRO*ER/TWEUT/*ER/-D/KW-BG
-'"Spring': KR-GS/KPA/SPREUPBG
+'"Spring': KW-GS/KPA*/SPREUPBG
 'is': S
 'coming!"': KO*G/SKHRAPL/KR-GS
 'And': AFPBD

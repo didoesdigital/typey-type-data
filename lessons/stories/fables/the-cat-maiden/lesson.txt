@@ -23,7 +23,7 @@ The Cat-Maiden
 'but': PWUT
 'Venus': SRAO*EPBS
 'said': SED
-'"No."': KR-GS/KPA/TPHO/TP-PL/KR-GS
+'"No."': KW-GS/KPA*/TPHO/TP-PL/KR-GS
 'So,': KPA/SO/KW-BG
 'to': TO
 'try': TREU
@@ -60,7 +60,7 @@ The Cat-Maiden
 'to': TO
 'the': -T
 'wedding-feast.': WEGD/H-PB/TPAOEFT/TP-PL
-'"See,"': KR-GS/KPA/SAOE/KW-BG/KR-GS
+'"See,"': KW-GS/KPA*/SAOE/KW-BG/KR-GS
 'said': SED
 'Jupiter,': SKWRAOUP/TER/KW-BG
 'to': TO
@@ -84,9 +84,9 @@ The Cat-Maiden
 'nature': TPHAEURT
 'is': S
 'changed?"': KHAEUPBGD/H-F/KR-GS
-'"Wait': KR-GS/KPA/WAEUT
+'"Wait': KW-GS/KPA*/WAEUT
 'a': AEU
-'minute,"': PHEUPB/KW-BG/KR-GS
+'minute,"': PHEURPBGS/KR-GS
 'replied': RE/PHRAOEUD
 'Venus,': SRAO*EPBS/KW-BG
 'and': SKP
@@ -123,6 +123,6 @@ The Cat-Maiden
 'see,"': SAOERBGS/KR-GS
 'said': SED
 'Venus,': SRAO*EPBS/KW-BG
-'"Nature': KR-GS/KPA/TPHAEURT
+'"Nature': KW-GS/KPA*/TPHAEURT
 'will': HR
 'out."': OUT/TP-PL/KR-GS

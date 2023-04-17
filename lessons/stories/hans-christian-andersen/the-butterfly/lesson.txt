@@ -104,7 +104,7 @@ The Butterfly
 'call': KAUL
 'this': TH
 'flower': TPHRO*UR
-'"Marguerite,"': KR-GS/PHARG/REUT/KW-BG/KR-GS
+'"Marguerite,"': KW-GS/PHARG/REUT/KW-BG/KR-GS
 'and': SKP
 'they': THE
 'say': SAEU
@@ -133,13 +133,13 @@ The Butterfly
 'their': THAEUR
 'lovers;': HRUFRS/STPH*FPLT
 'thus:': THUS/STPH-FPLT
-'"Does': KR-GS/KPA/TKOS
+'"Does': KW-GS/KPA*/TKOS
 'he': HE
 'or': OR
 'she': SHE
 'love': HRUF
-'me?—Ardently?': PHE/H-F/EPL/TKA*RB/xxx Ardently/H-F
-'Distractedly?': xxx Distractedly/H-F
+'me?—Ardently?': PHE/H-F/EPL/TKA*RB/KPA/ARD/EPBT/HREU/H-F
+'Distractedly?': KPA/TKEUS/TRABGD/HREU/H-F
 'Very': KPA/SRE
 'much?': PHUFP/H-F
 'A': KPA/AEU
@@ -195,14 +195,14 @@ The Butterfly
 'done': TKOPB
 'by': PWEU
 'kindness.': KEUPBD/-PBS/TP-PL
-'"Darling': KR-GS/KPA/TKARLG
+'"Darling': KW-GS/KPA*/TKARLG
 'Marguerite': PHARG/REUT
 'daisy,"': TKAEU/SEU/KW-BG/KR-GS
 'he': HE
 'said': SED
 'to': TO
 'her,': HER/KW-BG
-'"you': KR-GS/U
+'"you': KW-GS/U
 'are': R
 'the': -T
 'wisest': WAOEUZ/*ES
@@ -325,7 +325,7 @@ The Butterfly
 'thought': THAUT
 'the': -T
 'butterfly;': PW*URT/TPHRAOEU/STPH*FPLT
-'"charming': KR-GS/KHARPL/-G
+'"charming': KW-GS/KHARPL/-G
 'little': HREUL
 'lasses;': HRAS/-S/STPH*FPLT
 'but': PWUT
@@ -484,7 +484,7 @@ The Butterfly
 '"That': KW-GS/KPA*/THA
 'is': S
 'my': PHEU
-'sister,"': ST-R/KW-BG/KR-GS
+'sister,"': ST-RBGS/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'pea-blossom.': PAE/H-PB/PWHROFPL/TP-PL
@@ -609,7 +609,7 @@ The Butterfly
 'found': TPOUPBD
 'in': TPH
 'the': -T
-'dahlias': xxx dahlias
+'dahlias': HRO*ER/TKAL/SKWREU/KWRA/-S
 'or': OR
 'the': -T
 'dry': TKRAOEU
@@ -681,7 +681,7 @@ The Butterfly
 'last': HRAFT
 'she': SHE
 'said,—': SED/KW-BG/EPL/TKA*RB
-'"Friendship,': KR-GS/KPA/TPREP/KW-BG
+'"Friendship,': KW-GS/KPA*/TPREP/KW-BG
 'if': TP
 'you': U
 'please;': PHRES/STPH*FPLT
@@ -944,11 +944,11 @@ The Butterfly
 'in': TPH
 'a': AEU
 'pot.': POT/TP-PL
-'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
+'"Ah,"': KW-GS/KPA*/AERBGS/KR-GS
 'thought': THAUT
 'the': -T
 'butterfly,': PW*URT/TPHRAOEU/KW-BG
-'"one': KR-GS/WUPB
+'"one': KW-GS/WUPB
 'can't': K-PBT
 'very': SRE
 'well': WEL

@@ -39,7 +39,7 @@ The Races
 'said': SED
 'the': -T
 'hare.': HA*ER/TP-PL
-'"Justice': KR-GS/KPA/SKWRUFS
+'"Justice': KW-GS/KPA*/SKWRUFS
 'must': PHUFT
 'still': STEUL
 'be': -B
@@ -88,7 +88,7 @@ The Races
 'distribution': TKR-BGS
 'of': -F
 'prizes;': PRAOEUZ/-Z/STPH*FPLT
-'"there': KR-GS/THR
+'"there': KW-GS/THR
 'should': SHO
 'be': -B
 'some': SOPL
@@ -206,7 +206,7 @@ The Races
 'far,': TPAR/KW-BG
 'far': TPAR
 'away."': WA*EU/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'that': THA
 'is': S
 'your': KWROUR
@@ -214,7 +214,7 @@ The Races
 'said': SED
 'the': -T
 'fence-rail;': TPEPBS/H-PB/RAEUL/STPH*FPLT
-'"you': KR-GS/U
+'"you': KW-GS/U
 'are': R
 'so': SO
 'fickle,': TPEUBG/*L/KW-BG
@@ -278,7 +278,7 @@ The Races
 'taken': TAEPB
 'into': TPHAO
 'account?"': K-T/H-F/KR-GS
-'"Bring': KR-GS/KPA/PWREU
+'"Bring': KW-GS/KPA*/PWREU
 'a': AEU
 'certificate': SER
 'from': TPR
@@ -756,11 +756,11 @@ The Races
 'for': TPOR
 'the': -T
 'hare."': HA*ER/TP-PL/KR-GS
-'"Buz,"': KR-GS/xxx Buz/KW-BG/KR-GS
+'"Buz,"': KW-GS/PW*P/*U/STKPW*/KW-BG/KR-GS
 'said': SED
 'the': -T
 'fly;': TPHRAOEU/STPH*FPLT
-'"there,': KR-GS/THR/KW-BG
+'"there,': KW-GS/THR-RBGS
 'I'm': AOEUPL
 'not': TPHOT
 'going': TKPW-G
@@ -968,7 +968,7 @@ The Races
 'that': THA
 'all': AUL
 'nature': TPHAEURT
-'awakes': A/WAEUBG/-S
+'awakes': A/WAEUBGS
 'to': TO
 'loveliness': HROFL/-PBS
 'and': SKP
@@ -1181,7 +1181,7 @@ The Races
 'men': PHEPB
 'call': KAUL
 'a': AEU
-''committee.'': AE/KPHAOE/TP-PL/AE
+''committee.'': A*E/KPHAOE/TP-PL/AE
 'I': EU
 'must': PHUFT
 'say': SAEU

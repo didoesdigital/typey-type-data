@@ -73,7 +73,7 @@ Two Maidens
 'shed': SHED
 'stood': STAOD
 'two': TWO
-'Maidens': xxx Maidens
+'Maidens': KPA/PHAEUD/*EPB/-S
 'of': -F
 'this': TH
 'kind.': KEUPBD/TP-PL
@@ -83,7 +83,7 @@ Two Maidens
 'place': PHRAEUS
 'among': PHOPBG
 'shovels,': SHOFLS/KW-BG
-'hand-carts,': HAPBD/H-PB/KARTS/KW-BG
+'hand-carts,': HA*EPBD/KARTS/KW-BG
 'wheelbarrows,': WHAOEL/PWAR/ROE/-S/KW-BG
 'and': SKP
 'measuring-tapes;': PH-RBG/H-PB/TAEUPS/STPH*FPLT
@@ -98,16 +98,16 @@ Two Maidens
 'come': KOPL
 'that': THA
 'the': -T
-'Maidens': xxx Maidens
+'Maidens': KPA/PHAEUD/*EPB/-S
 'were': WR
 'no': TPHO
 'longer': HRORPBG
 'to': TO
 'be': -B
 'called': KAULD
-'"maidens,"': KR-GS/PHAEUD/*EPB/-S/KW-BG/KR-GS
+'"maidens,"': KW-GS/PHAEUD/*EPB/-S/KW-BG/KR-GS
 'but': PWUT
-'"hand-rammers,"': KR-GS/HAPBD/H-PB/xxx rammers/KW-BG/KR-GS
+'"hand-rammers,"': KW-GS/HA*EPBD/RAPL/PHER/-S/KW-BG/KR-GS
 'which': WEU
 'word': WORD
 'was': WAS
@@ -150,7 +150,7 @@ Two Maidens
 'are': R
 'known': TPHOEPB
 'as': AS
-'"emancipated': KR-GS/AOE/PHAPBS/PAEUT/-D
+'"emancipated': KW-GS/AOE/PHAPBS/PAEUT/-D
 'women,"': WEUPL/KW-BG/KR-GS
 'as,': AS/KW-BG
 'for': TPOR
@@ -177,7 +177,7 @@ Two Maidens
 'women': WEUPL
 'the': -T
 'two': TWO
-'Maidens': xxx Maidens
+'Maidens': KPA/PHAEUD/*EPB/-S
 'in': TPH
 'the': -T
 'shed': SHED
@@ -185,7 +185,7 @@ Two Maidens
 'themselves.': TH*EPLS/TP-PL
 'They': KPA/THE
 'were': WR
-'"maidens"': KR-GS/PHAEUD/*EPB/-S/KR-GS
+'"maidens"': KW-GS/PHAEUD/*EPB/-S/KR-GS
 'among': PHOPBG
 'the': -T
 'paver': PAFR
@@ -204,14 +204,14 @@ Two Maidens
 'themselves': TH*EPLS
 'be': -B
 'miscalled': PHEUS/KAULD
-'"rammers.': KR-GS/xxx rammers/TP-PL
-'"Maiden': KR-GS/KPA/PHAEUD/*EPB
+'"rammers.': KW-GS/RAPL/PHER/-S/TP-PL
+'"Maiden': KW-GS/KPA*/PHAEUD/*EPB
 'is': S
 'a': AEU
 'human': HAOUPL
 'name,': TPHAEUPL/KW-BG
 'but': PWUT
-'hand-rammer': HA*EPBD/xxx rammer
+'hand-rammer': HA*EPBD/R*/A*/PH*/PH*/*ER
 'is': S
 'a': AEU
 'thing,': THEUPBG/KW-BG
@@ -220,7 +220,7 @@ Two Maidens
 'won't': WOEPBT
 'be': -B
 'called': KAULD
-'things—that's': THEUPBGS/EPL/TKA*RB/THA/AES
+'things—that's': THEUPBGS/EPL/TKA*RB/THATS
 'insulting': EUPB/SULT/-G
 'us."': US/TP-PL/KR-GS
 '"My': KW-GS/KPA*/PHEU
@@ -291,7 +291,7 @@ Two Maidens
 'were': WR
 'I': EU
 'a': AEU
-'hand-rammer': HA*EPBD/xxx rammer
+'hand-rammer': HA*EPBD/R*/A*/PH*/PH*/*ER
 'is': S
 'a': AEU
 'question,': KWE/KW-BG
@@ -308,7 +308,7 @@ Two Maidens
 'the': -T
 'elder': ELD/ER
 'one,': WUPB/KW-BG
-'"would': KR-GS/WO
+'"would': KW-GS/WO
 'rather': RAER
 'have': SR
 'both': PWO*T
@@ -361,7 +361,7 @@ Two Maidens
 '"that': KW-GS/THA
 'the': -T
 'name': TPHAEUPL
-''maiden'': AE/PHAEUD/*EPB/AE
+''maiden'': A*E/PHAEUD/*EPB/AE
 'is': S
 'common': KPHOPB
 'enough,': TPHUF/KW-BG
@@ -371,9 +371,9 @@ Two Maidens
 'so': SO
 'refined': RE/TPAOEUPBD
 'as': AS
-''hand-rammer,'': AE/HAPBD/H-PB/xxx rammer/KW-BG/AE
+''hand-rammer,'': A*E/HAPBD/H-PB/R*/A*/PH*/PH*/*ER/KW-BG/AE
 'or': OR
-''stamper,'': AE/STAPL/PER/KW-BG/AE
+''stamper,'': A*E/STAPL/PER/KW-BG/AE
 'which': WEU
 'latter': HRART
 'has': HAS
@@ -444,7 +444,7 @@ Two Maidens
 'what': WHA
 'is': S
 'called': KAULD
-''European': AE/UR/PAOEPB
+''European': A*E/UR/PAOEPB
 'necessity?'"': TPHES/TEU/H-F/AE/KR-GS
 'observed': OEBD
 'the': -T
@@ -471,18 +471,18 @@ Two Maidens
 'law': HRAU
 'that': THA
 'the': -T
-''maiden'': AE/PHAEUD/*EPB/AE
+''maiden'': A*E/PHAEUD/*EPB/AE
 'is': S
 'to': TO
 'be': -B
 'called': KAULD
-''hand-rammer,'': AE/HAPBD/H-PB/xxx rammer/KW-BG/AE
+''hand-rammer,'': A*E/HAPBD/H-PB/R*/A*/PH*/PH*/*ER/KW-BG/AE
 'why,': KWR-RBGS
 'she': SHE
 'must': PHUFT
 'be': -B
 'called': KAULD
-''hand-rammer,'': AE/HAPBD/H-PB/xxx rammer/KW-BG/AE
+''hand-rammer,'': A*E/HAPBD/H-PB/R*/A*/PH*/PH*/*ER/KW-BG/AE
 'and': SKP
 'no': TPHO
 'pouting': POUT/-G
@@ -509,7 +509,7 @@ Two Maidens
 'to': TO
 'be': -B
 'called': KAULD
-''Missy,'': AE/xxx Missy/KW-BG/AE
+''Missy,'': A*E/PH*EUS/S-P/KWREU/KW-BG/AE
 'for': TPOR
 'that': THA
 'reminds': RAO*EUPBDZ
@@ -537,7 +537,7 @@ Two Maidens
 'to': TO
 'work.': WORBG/TP-PL
 'The': KPA/-T
-'Maidens': xxx Maidens
+'Maidens': KPA/PHAEUD/*EPB/-S
 'rode—that': ROED/EPL/TKA*RB/THA
 'is,': S-RBGS
 'they': THE
@@ -556,8 +556,8 @@ Two Maidens
 'they': THE
 'were': WR
 'called': KAULD
-'"hand-rammers."': KR-GS/HAPBD/H-PB/xxx rammers/TP-PL/KR-GS
-'"Mai—!"': KR-GS/PH*P/A*/*EU/EPL/TKA*RB/SKHRAPL/KR-GS
+'"hand-rammers."': KW-GS/HA*EPBD/RAPL/PHER/-S/TP-PL/KR-GS
+'"Mai—!"': KW-GS/PH*P/A*/*EU/EPL/TKA*RB/SKHRAPL/KR-GS
 'they': THE
 'said,': SED/KW-BG
 'as': AS
@@ -567,7 +567,7 @@ Two Maidens
 'upon': POPB
 'the': -T
 'pavement.': PAEUFPLT/TP-PL
-'"Mai—!"': KR-GS/PH*P/A*/*EU/EPL/TKA*RB/SKHRAPL/KR-GS
+'"Mai—!"': KW-GS/PH*P/A*/*EU/EPL/TKA*RB/SKHRAPL/KR-GS
 'and': SKP
 'they': THE
 'were': WR
@@ -577,7 +577,7 @@ Two Maidens
 'the': -T
 'whole': WHOEL
 'word': WORD
-'"maiden;"': KR-GS/PHAEUD/*EPB/STPH*FPLT/KR-GS
+'"maiden;"': KW-GS/PHAEUD/*EPB/STPH*FPLT/KR-GS
 'but': PWUT
 'they': THE
 'broke': PWROEBG
@@ -606,7 +606,7 @@ Two Maidens
 'called': KAULD
 'each': AOEFP
 'other': OER
-'"maiden,"': KR-GS/PHAEUD/*EPB/KW-BG/KR-GS
+'"maiden,"': KW-GS/PHAEUD/*EPB/KW-BG/KR-GS
 'and': SKP
 'praised': PRA*EUFD
 'the': -T

@@ -22,7 +22,7 @@ Ole the Tower-Keeper
 'Ole': KPA/O/HRAEU
 'the': -T
 'tower-keeper.': TOUR/H-PB/KAOEP/*ER/TP-PL
-'"Most': KR-GS/KPA/PHOFT
+'"Most': KW-GS/KPA*/PHOFT
 'people': PAOEPL
 'have': SR
 'to': TO
@@ -455,7 +455,7 @@ Ole the Tower-Keeper
 'of': -F
 'the': -T
 'boulders.': PWOELD/ERS/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'they're': THER
 'rare': RAEUR
 'old': OLD
@@ -752,7 +752,7 @@ Ole the Tower-Keeper
 'beside': PWE/SAOEUD
 'these': THEZ
 'venerable': SREPB/-BL
-'million-year-old': PHOEUPB/H-PB/KWRAOER/H-PB/OLD
+'million-year-old': PHOEUPB/KWRAO*ER/O*ELD
 'boulders.': PWOELD/ERS/TP-PL
 'On': KPA/OPB
 'last': HRAFT
@@ -785,7 +785,7 @@ Ole the Tower-Keeper
 'wild': WAOEULD
 'hunt': HUPBT
 'to': TO
-'Amack.': xxx Amack/TP-PL
+'Amack.': A*P/PH*/A*/KR*/*BG/TP-PL
 'Ah,': KPA/AERBGS
 'you': U
 'don't': TKOEPBT
@@ -813,7 +813,7 @@ Ole the Tower-Keeper
 'eve,': HRO*ER/AOEF/KW-BG
 'to': TO
 'the': -T
-'Brocken;': xxx Brocken/STPH*FPLT
+'Brocken;': PWROBG/*EPB/STPH*FPLT
 'but': PWUT
 'we': WE
 'have': SR
@@ -832,7 +832,7 @@ Ole the Tower-Keeper
 'the': -T
 'journey': SKWRURPB
 'to': TO
-'Amack': xxx Amack
+'Amack': A*P/PH*/A*/KR*/*BG
 'on': OPB
 'the': -T
 'night': TPHAOEUT
@@ -850,7 +850,7 @@ Ole the Tower-Keeper
 'writers,': WREURS/KW-BG
 'and': SKP
 'artistic': TR*EUFBG
-'notabilities,—I': xxx notabilities/KW-BG/EPL/TKA*RB/EU
+'notabilities,—I': TPH*/O*/T*/A*/PW*/*EU/HR*/*EU/T*/AO*E/-S/KW-BG/EPL/TKA*RB/EU
 'mean': PHAOEPB
 'those': THOZ
 'who': WHO
@@ -866,7 +866,7 @@ Ole the Tower-Keeper
 'the': -T
 'air': AEUR
 'to': TO
-'Amack.': xxx Amack/TP-PL
+'Amack.': A*P/PH*/A*/KR*/*BG/TP-PL
 'They': KPA/THE
 'sit': SEUT
 'backwards': PWABG/WARDZ
@@ -882,7 +882,7 @@ Ole the Tower-Keeper
 'pens': PEPBS
 'won't': WOEPBT
 'bear': PWAER
-'them—they're': THEPL/EPL/TKA*RB/THE/AE/R*/*E
+'them—they're': THEPL/EPL/TKA*RB/THER
 'too': TAO
 'stiff.': STEUF/TP-PL
 'As': KPA/AS
@@ -928,7 +928,7 @@ Ole the Tower-Keeper
 'their': THAEUR
 'ride': RAOEUD
 'to': TO
-'Amack': xxx Amack
+'Amack': A*P/PH*/A*/KR*/*BG
 'on': OPB
 'quill': KWEUL
 'pens.': PEPBS/TP-PL
@@ -940,7 +940,7 @@ Ole the Tower-Keeper
 'who': WHO
 'is': S
 'a': AEU
-'fishwife,': xxx fishwife/KW-BG
+'fishwife,': TP*/*EU/S*/H*/W*/*EU/TP*/SKWR*E/KW-BG
 'and': SKP
 'who,': WHO/KW-BG
 'as': AS
@@ -957,7 +957,7 @@ Ole the Tower-Keeper
 'of': -F
 'abuse': PWAOUS
 'and': SKP
-'vituperation': xxx vituperation
+'vituperation': SR*/*EU/T*/*U/P*/*E/R*/A*/T*/SKWREU/KWRO/*PB
 'they': THE
 'use,': AOUS/KW-BG
 'and': SKP
@@ -966,7 +966,7 @@ Ole the Tower-Keeper
 'herself': H*ERS
 'been': PW-PB
 'at': AT
-'Amack': xxx Amack
+'Amack': A*P/PH*/A*/KR*/*BG
 'as': AS
 'an': APB
 'invited': EUPB/SRAOEUTD
@@ -1158,7 +1158,7 @@ Ole the Tower-Keeper
 'and': SKP
 'calls': KAULS
 'it': T
-''good,': AE/TKPWAOD/KW-BG
+''good,': A*E/TKPWAOD/KW-BG
 'very': SRE
 'good,': TKPWAOD/KW-BG
 'remarkably': RARBG/PWHREU
@@ -1189,7 +1189,7 @@ Ole the Tower-Keeper
 'great': TKPWRAET
 'dirt-heap': TKEURT/H-PB/HAOEP
 'at': AT
-'Amack': xxx Amack
+'Amack': A*P/PH*/A*/KR*/*BG
 'a': AEU
 'stem,': STEPL/KW-BG
 'a': AEU
@@ -1266,7 +1266,7 @@ Ole the Tower-Keeper
 'They': KPA/THE
 'played': PHRAEUD
 'at': AT
-''the': AE/-T
+''the': A*E/-T
 'stick': STEUBG
 'burns,'': PWURPBS/KW-BG/AE
 'and': SKP
@@ -1275,10 +1275,10 @@ Ole the Tower-Keeper
 'poets': POETS
 'played': PHRAEUD
 'at': AT
-''heart-burns,'': AE/HART/H-PB/PWURPBS/KW-BG/AE
+''heart-burns,'': A*E/HART/H-PB/PWURPBS/KW-BG/AE
 'and': SKP
 'the': -T
-'witlings': xxx witlings
+'witlings': WEUT/HREUPBG/-S
 'played': PHRAEUD
 'off': OF
 'their': THAEUR
@@ -1331,7 +1331,7 @@ Ole the Tower-Keeper
 'man': PHAPB
 'must': PHUFT
 'be': -B
-'good-natured,': TKPWAOD/H-PB/TPHAEURTD/KW-BG
+'good-natured,': TKPWAOD/TPHAEUT/AOUR/-D/KW-BG
 'and': SKP
 'not': TPHOT
 'a': AEU
@@ -1354,7 +1354,7 @@ Ole the Tower-Keeper
 'the': -T
 'journey': SKWRURPB
 'to': TO
-'Amack,': xxx Amack/KW-BG
+'Amack,': A*P/PH*/A*/KR*/*BG/KW-BG
 'as': AS
 'I': EU
 'know': TPHOE
@@ -1475,7 +1475,7 @@ Ole the Tower-Keeper
 'flood': TPHRAOD
 'and': SKP
 'said,': SED/KW-BG
-''This': AE/KPA/TH
+''This': A*E/KPA*/TH
 'shall': SHAL
 'be': -B
 'Zealand!'': KPA/STKPWAOEL/TK-LS/APBD/SKHRAPL/AE
@@ -1512,7 +1512,7 @@ Ole the Tower-Keeper
 'they': THE
 'cut': KUT
 'their': THAEUR
-'Runic': xxx Runic
+'Runic': KPA/RUPB/EUBG
 'signs': SAOEUPBS
 'into': TPHAO
 'a': AEU
@@ -1614,7 +1614,7 @@ Ole the Tower-Keeper
 'often': OFPB
 'are': R
 'silent': SHREPBT
-'thanksgivings': xxx thanksgivings
+'thanksgivings': HRO*ER/THAPBGS/TKPWEUFG/-S
 'offered': OFRD
 'up': UP
 'for': TPOR
@@ -1749,7 +1749,7 @@ Ole the Tower-Keeper
 'thanksgiving': HRO*ER/THAPBGS/TKPWEUFG
 'to': TO
 'many—many!': PHAEPB/EPL/TKA*RB/PHAEPB/SKHRAPL
-''For': AE/KPA/TPOR
+''For': A*E/KPA*/TPOR
 'whom': WHOPL
 'was': WAS
 'that': THA
@@ -1768,17 +1768,17 @@ Ole the Tower-Keeper
 'the': -T
 'Bay': PWA*EU
 'of': -F
-'Plensberg,': xxx Plensberg/KW-BG
+'Plensberg,': P*P/HR*/*EPB/-S/PWERG/KW-BG
 'where': W-R
 'the': -T
-'Danebrog': xxx Danebrog
+'Danebrog': TK*P/A*/TPH*/*E/PW*/R*/O*/TKPW*
 'waves': WAFS
 'over': OEFR
 'the': -T
 'graves': TKPWRAEUFS
 'of': -F
-'Schleppegrell,': xxx Schleppegrell/KW-BG
-'Lasloes,': xxx Lasloes/KW-BG
+'Schleppegrell,': S*P/KR*/H*/HR*/*E/P*/P*/*E/TKPW*/R*/*E/HR*/HR*/KW-BG
+'Lasloes,': HR*P/A*/S*/HR*/KWRO/SKWR*E/-S/KW-BG
 'and': SKP
 'their': THAEUR
 'comrades.': KOPL/RADZ/TP-PL
@@ -1794,14 +1794,14 @@ Ole the Tower-Keeper
 'land,': HRAPBD/KW-BG
 'fell': TPEL
 'upon': POPB
-'Soro,': xxx Soro/KW-BG
+'Soro,': S*P/O*R/KWRO/KW-BG
 'a': AEU
 'flower': TPHRO*UR
 'on': OPB
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Holberg,': xxx Holberg/KW-BG
+'Holberg,': H*P/HRO*/PWERG/KW-BG
 'the': -T
 'thanks': THAPBGS
 'of': -F
@@ -2146,7 +2146,7 @@ Ole the Tower-Keeper
 'perhaps': PRAPS
 'join': SKWROEUPB
 'in': TPH
-''Fair': AE/KPA/TPAEUR
+''Fair': A*E/KPA*/TPAEUR
 'is': S
 'life!': HRAOEUF/SKHRAPL
 'no': TPHO
@@ -2207,7 +2207,7 @@ Ole the Tower-Keeper
 'tricks': TREUBGS
 'upon': POPB
 'you.': U/TP-PL
-'He'll': KPA/HE/AE/HR*/HR*
+'He'll': KPA/*EL
 'sit': SEUT
 'at': AT
 'your': KWROUR
@@ -2316,7 +2316,7 @@ Ole the Tower-Keeper
 'and': SKP
 'extravagantly': EBGS/TRAFG/APBT/HREU
 'merry.': PHER/REU/TP-PL
-'He'll': KPA/HE/AE/HR*/HR*
+'He'll': KPA/*EL
 'draw': TKRAU
 'you': U
 'away': WA*EU
@@ -2585,7 +2585,7 @@ Ole the Tower-Keeper
 'chose': KHOES
 'the': -T
 'general': SKWREPBL
-'"moving-day"': KR-GS/PHOFG/H-PB/TKAEU/KR-GS
+'"moving-day"': KW-GS/PHOFG/TKA*EU/KR-GS
 'for': TPOR
 'my': PHEU
 'visit': SREUFT
@@ -2624,7 +2624,7 @@ Ole the Tower-Keeper
 'nothing': TPHOG
 'of': -F
 'the': -T
-'cast-off': KAFT/SKWRO*F
+'cast-off': KAFT/O*F
 'rubbish': RUB/EURB
 'in': TPH
 'which': WEU
@@ -2652,7 +2652,7 @@ Ole the Tower-Keeper
 'were': WR
 'playing': PHRAEUG
 'at': AT
-'"going': KR-GS/TKPW-G
+'"going': KW-GS/TKPW-G
 'to': TO
 'bed,"': PWED/KW-BG/KR-GS
 'for': TPOR
@@ -2716,7 +2716,7 @@ Ole the Tower-Keeper
 'day,"': TKAEU/KW-BG/KR-GS
 'he': HE
 'said;': SED/STPH*FPLT
-'"streets': KR-GS/STRAOETS
+'"streets': KW-GS/STRAOETS
 'and': SKP
 'houses': HO*UFS
 'are': R
@@ -2730,7 +2730,7 @@ Ole the Tower-Keeper
 'content': KAUPBT
 'with': W
 'a': AEU
-'cartload.': xxx cartload/TP-PL
+'cartload.': KR*/A*/R*/T*/HR*/O*/A*/TK*/TP-PL
 'I': EU
 'may': PHAE
 'get': TKPWET
@@ -2926,14 +2926,14 @@ Ole the Tower-Keeper
 'at': AT
 'the': -T
 'tree.': TRAOE/TP-PL
-''I'm': AE/EU/AE/PH*
+''I'm': A*E/EU/AE/PH*
 'sorry': SOER
 'for': TPOR
 'the': -T
 'tree,'': TRAOE/KW-BG/AE
 'it': T
 'thought;': THAUT/STPH*FPLT
-''and': AE/SKP
+''and': A*E/SKP
 'I': EU
 'was': WAS
 'also': HR-S
@@ -2987,7 +2987,7 @@ Ole the Tower-Keeper
 'might': PHAOEUT
 'have': SR
 'thought.': THAUT/TP-PL
-''That's': AE/KPA/THA/AES
+''That's': A*E/KPA*/THA/AES
 'a': AEU
 'stupid': STAOUPD
 'affair': A/TPAEUR
@@ -3005,7 +3005,7 @@ Ole the Tower-Keeper
 'everything': EFRG
 'is': S
 'stupid.': STAOUPD/TP-PL
-''When': AE/KPA/WHEPB
+''When': A*E/KPA*/WHEPB
 'one': WUPB
 'is': S
 'in': TPH
@@ -3013,7 +3013,7 @@ Ole the Tower-Keeper
 'dust-cart,'': TKUFT/H-PB/KART/KW-BG/AE
 'they': THE
 'said,': SED/KW-BG
-''one': AE/WUPB
+''one': A*E/WUPB
 'ought': OT
 'not': TPHOT
 'to': TO
@@ -3132,7 +3132,7 @@ Ole the Tower-Keeper
 'below,': PWHRO/KW-BG
 'playing': PHRAEUG
 'at': AT
-''changing': AE/KHAPBG/-G
+''changing': A*E/KHAPBG/-G
 'houses.'': HO*UFS/TP-PL/AE
 'They': KPA/THE
 'toil': TOEUL
@@ -3208,7 +3208,7 @@ Ole the Tower-Keeper
 'good': TKPWAOD
 'old': OLD
 'maxim:': PHABG/SEUPL/STPH-FPLT
-''Think': AE/KPA/THEU
+''Think': A*E/KPA*/THEU
 'on': OPB
 'the': -T
 'great': TKPWRAET
@@ -3411,7 +3411,7 @@ Ole the Tower-Keeper
 'of': -F
 'the': -T
 'poets.': POETS/TP-PL
-'"Just': KR-GS/KPA/SKWRUFT
+'"Just': KW-GS/KPA*/SKWRUFT
 'cast': KAFT
 'your': KWROUR
 'mind's': PHAOEUPBD/AES
@@ -3518,7 +3518,7 @@ Ole the Tower-Keeper
 'perhaps': PRAPS
 'have': SR
 'his': HEUS
-'worn-out': WORPB/SKWRO*UT
+'worn-out': WORPB/O*UT
 'stool': STOL
 'given': TKPWEUFPB
 'him': HEUPL
@@ -3657,11 +3657,11 @@ Ole the Tower-Keeper
 'there': THR
 'stood': STAOD
 'written': WREUPB
-''oblivion,'': AE/OE/PWHREUF/KWROPB/KW-BG/AE
+''oblivion,'': A*E/OE/PWHREUF/KWROPB/KW-BG/AE
 'on': OPB
 'the': -T
 'barrel': PWARL
-''remembrance'': AE/RERPBS/AE
+''remembrance'': A*E/RERPBS/AE
 'is': S
 'inscribed.': EUPB/SKRAOEUB/-D/TP-PL
 '"When': KW-GS/KPA*/WHEPB
@@ -3775,7 +3775,7 @@ Ole the Tower-Keeper
 'with': W
 'the': -T
 'inscription,': EUPB/SKREUPGS/KW-BG
-''Quicker': AE/KPA/KW*EURBG
+''Quicker': A*E/KPA*/KW*EURBG
 'than': THAPB
 'this': TH
 'melts': PHELTS
@@ -3912,7 +3912,7 @@ Ole the Tower-Keeper
 'sent': SEPBT
 'to': TO
 'the': -T
-'Bastille,': xxx Bastille/KW-BG
+'Bastille,': PW*P/A*/S*/T*/*EU/HR*/*L/KW-BG
 'and': SKP
 'shut': SHUT
 'up': UP
@@ -3968,7 +3968,7 @@ Ole the Tower-Keeper
 'the': -T
 'boys': PWOEUS
 'said,': SED/KW-BG
-''My': AE/KPA/PHEU
+''My': A*E/KPA*/PHEU
 'mother': PHOER
 'would': WO
 'die': TKAOEU
@@ -4089,7 +4089,7 @@ Ole the Tower-Keeper
 'innocent': TPH-PBT
 'children's': KHEURPBS
 'teeth.': TAO*ET/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'that's': THATS
 'a': AEU
 'serious': SAOERS

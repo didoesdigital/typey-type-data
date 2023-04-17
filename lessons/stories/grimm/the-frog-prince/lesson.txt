@@ -151,7 +151,7 @@ The Frog-Prince
 'loss,': HROS/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-''Alas!': AE/KPA/A/HRAS/SKHRAPL
+''Alas!': A*E/KPA*/A/HRAS/SKHRAPL
 'if': TP
 'I': EU
 'could': KO
@@ -192,17 +192,17 @@ The Frog-Prince
 'water,': WAURBGS
 'and': SKP
 'said,': SED/KW-BG
-''Princess,': AE/KPA/PREUPB/SES/KW-BG
+''Princess,': A*E/KPA*/PREUPB/SES/KW-BG
 'why': KWR
 'do': TKO
 'you': U
 'weep': WAOEP
 'so': SO
 'bitterly?'': PWEURLT/H-F/AE
-''Alas!'': AE/KPA/A/HRAS/SKHRAPL/AE
+''Alas!'': A*E/KPA*/A/HRAS/SKHRAPL/AE
 'said': SED
 'she,': SHE/KW-BG
-''what': AE/WHA
+''what': A*E/WHA
 'can': K
 'you': U
 'do': TKO
@@ -268,7 +268,7 @@ The Frog-Prince
 'thought': THAUT
 'the': -T
 'princess,': PREUPB/SES/KW-BG
-''this': AE/TH
+''this': A*E/TH
 'silly': SHREU
 'frog': TPROG
 'is': S
@@ -314,7 +314,7 @@ The Frog-Prince
 'to': TO
 'the': -T
 'frog,': TPROG/KW-BG
-''Well,': AE/KPA/WEL/KW-BG
+''Well,': A*E/KPA*/WEL/KW-BG
 'if': TP
 'you': U
 'will': HR
@@ -414,7 +414,7 @@ The Frog-Prince
 'called': KAULD
 'after': AF
 'her,': HER/KW-BG
-''Stay,': AE/KPA/STAEU/KW-BG
+''Stay,': A*E/KPA*/STAEU/KW-BG
 'princess,': PREUPB/SES/KW-BG
 'and': SKP
 'take': TAEUBG
@@ -450,8 +450,8 @@ The Frog-Prince
 'a': AEU
 'strange': STRAEUPBG
 'noise--tap,': TPHOEUS/H-PB/H-PB/TAP/KW-BG
-'tap--plash,': TAP/H-PB/H-PB/xxx plash/KW-BG
-'plash--as': xxx plash/H-PB/H-PB/AS
+'tap--plash,': TAP/H-PB/H-PB/PHRAS/H*/KW-BG
+'plash--as': PHRAS/H*/H-PB/H-PB/AS
 'if': TP
 'something': S-G
 'was': WAS
@@ -479,7 +479,7 @@ The Frog-Prince
 'out': OUT
 'and': SKP
 'said:': SED/STPH-FPLT
-''Open': AE/KPA/OEP
+''Open': A*E/KPA*/OEP
 'the': -T
 'door,': TKAORBGS
 'my': PHEU
@@ -575,7 +575,7 @@ The Frog-Prince
 'frog,'': TPROG/KW-BG/AE
 'said': SED
 'she,': SHE/KW-BG
-''at': AE/AT
+''at': A*E/AT
 'the': -T
 'door,': TKAORBGS
 'that': THA
@@ -636,7 +636,7 @@ The Frog-Prince
 'door,': TKAORBGS
 'and': SKP
 'said:': SED/STPH-FPLT
-''Open': AE/KPA/OEP
+''Open': A*E/KPA*/OEP
 'the': -T
 'door,': TKAORBGS
 'my': PHEU
@@ -675,7 +675,7 @@ The Frog-Prince
 'the': -T
 'young': KWRUPBG
 'princess,': PREUPB/SES/KW-BG
-''As': AE/KPA/AS
+''As': A*E/KPA*/AS
 'you': U
 'have': SR
 'given': TKPWEUFPB
@@ -704,9 +704,9 @@ The Frog-Prince
 'and': SKP
 'then': THEPB
 'straight': STRAEUT
-'on--tap,': OPB/H-PB/H-PB/TAP/KW-BG
-'tap--plash,': TAP/H-PB/H-PB/xxx plash/KW-BG
-'plash--from': xxx plash/H-PB/H-PB/TPR
+'on--tap,': KWRO*PB/H-PB/TAP/KW-BG
+'tap--plash,': TAP/H-PB/H-PB/PHRAS/H*/KW-BG
+'plash--from': PHRAS/H*/H-PB/H-PB/TPR
 'the': -T
 'bottom': PWOPLT
 'of': -F
@@ -727,7 +727,7 @@ The Frog-Prince
 'the': -T
 'princess': PREUPB/SES
 'sat.': SAT/TP-PL
-''Pray': AE/KPA/PRAEU
+''Pray': A*E/KPA*/PRAEU
 'lift': HREUFT
 'me': PHE
 'upon': POPB
@@ -737,7 +737,7 @@ The Frog-Prince
 'to': TO
 'the': -T
 'princess,': PREUPB/SES/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'let': HRET
 'me': PHE
 'sit': SEUT
@@ -754,7 +754,7 @@ The Frog-Prince
 'the': -T
 'frog': TPROG
 'said,': SED/KW-BG
-''Put': AE/KPA/PUT
+''Put': A*E/KPA*/PUT
 'your': KWROUR
 'plate': PHRAET
 'nearer': TPHAOER/*ER
@@ -845,7 +845,7 @@ The Frog-Prince
 'thought': THAUT
 'the': -T
 'princess,': PREUPB/SES/KW-BG
-''at': AE/AT
+''at': A*E/AT
 'last': HRAFT
 'he': HE
 'is': S
@@ -884,7 +884,7 @@ The Frog-Prince
 'more,': PHOR/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-''Open': AE/KPA/OEP
+''Open': A*E/KPA*/OEP
 'the': -T
 'door,': TKAORBGS
 'my': PHEU
@@ -1039,11 +1039,11 @@ The Frog-Prince
 'for': TPOR
 'three': THRAOE
 'nights.': TPHAOEUTS/TP-PL
-''You,'': AE/KPA/U/KW-BG/AE
+''You,'': A*E/KPA*/U/KW-BG/AE
 'said': SED
 'the': -T
 'prince,': PREUPBS/KW-BG
-''have': AE/SR
+''have': A*E/SR
 'broken': PWROEPB
 'his': HEUS
 'cruel': KRAOUL
@@ -1092,7 +1092,7 @@ The Frog-Prince
 'long': HROPBG
 'in': TPH
 'saying': SAEUG
-''Yes'': AE/KPA/KWRE/AE
+''Yes'': A*E/KPA*/KWRE/AE
 'to': TO
 'all': AUL
 'this;': TH/STPH*FPLT
@@ -1127,12 +1127,12 @@ The Frog-Prince
 'prince's': PREUPBS/AES
 'servant,': SEFRB/APBT/KW-BG
 'faithful': TPA*EUT/-FL
-'Heinrich,': xxx Heinrich/KW-BG
+'Heinrich,': H*P/*E/*EU/TPH*/R*/SKWREU/*FP/KW-BG
 'who': WHO
 'had': H
 'bewailed': PWE/WAEUL/-D
 'the': -T
-'misfortunes': PHEUZ/TP-RPB/-S
+'misfortunes': PHEUZ/TP-RPBS
 'of': -F
 'his': HEUS
 'dear': TKAER

@@ -19,7 +19,7 @@ The Darning-Needle
 'fit': TPEUT
 'for': TPOR
 'embroidery.': EPL/PWROEUD/REU/TP-PL
-'"Hold': KR-GS/KPA/HOLD
+'"Hold': KW-GS/KPA*/HOLD
 'me': PHE
 'tight,"': TAOEUT/KW-BG/KR-GS
 'she': SHE
@@ -271,7 +271,7 @@ The Darning-Needle
 'neighbor,': TPHAEUB/KW-BG
 'a': AEU
 'pin;': PEUPB/STPH*FPLT
-'"you': KR-GS/U
+'"you': KW-GS/U
 'have': SR
 'a': AEU
 'very': SRE
@@ -381,7 +381,7 @@ The Darning-Needle
 'in': TPH
 'the': -T
 'gutter;': TKPWOURT/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'know': TPHOE
 'who': WHO
@@ -431,7 +431,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle;': TKARPB/-G/H-PB/TPHAO*ELD/STPH*FPLT
-'"they': KR-GS/THE
+'"they': KW-GS/THE
 'do': TKO
 'not': TPHOT
 'know': TPHOE
@@ -669,11 +669,11 @@ The Darning-Needle
 'they': THE
 'not': TPHOT
 'high-born?"': HAOEU/H-PB/PWORPB/H-F/KR-GS
-'"High-born!"': KR-GS/KPA/HAOEU/H-PB/PWORPB/SKHRAPL/KR-GS
+'"High-born!"': KW-GS/KPA*/HAOEU/H-PB/PWORPB/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'darning-needle,': TKARPB/-G/H-PB/TPHAO*ELD/KW-BG
-'"no': KR-GS/TPHO
+'"no': KW-GS/TPHO
 'indeed,': TPHAOEPBD/KW-BG
 'but': PWUT
 'so': SO
@@ -772,7 +772,7 @@ The Darning-Needle
 'the': -T
 'fingers': TPEURPBGS
 'wrote.': WRO/TP-PL
-'Longman,': xxx Longman/KW-BG
+'Longman,': HR*P/O*/TPH*/TKPW*/PH*/KWRA/*PB/KW-BG
 'the': -T
 'middle': PH*EULD
 'finger,': TPEURPBG/KW-BG
@@ -797,7 +797,7 @@ The Darning-Needle
 'waist.': WAEUFT/TP-PL
 'And': AFPBD
 'little': HREUL
-'Playman': xxx Playman
+'Playman': P*P/HR*/A*/KWR*/PH*/KWRA/*PB
 'did': TK
 'nothing': TPHOG
 'at': AT
@@ -809,9 +809,9 @@ The Darning-Needle
 'it.': T/TP-PL
 'They': KPA/THE
 'were': WR
-'boasters,': PWOES/TER/-S/KW-BG
+'boasters,': PWOEFT/*ERS/KW-BG
 'and': SKP
-'boasters': PWOES/TER/-S
+'boasters': PWOEFT/*ERS
 'they': THE
 'will': HR
 'remain;': RAEUPL/STPH*FPLT
@@ -846,7 +846,7 @@ The Darning-Needle
 'so': SO
 'that': THA
 'it': T
-'overflowed,': AUFR/TPHROE/-D/KW-BG
+'overflowed,': AUFR/TPHROED/KW-BG
 'and': SKP
 'the': -T
 'piece': PAOES
@@ -862,7 +862,7 @@ The Darning-Needle
 'said': SED
 'the': -T
 'darning-needle,': TKARPB/-G/H-PB/TPHAO*ELD/KW-BG
-'"while': KR-GS/WHAOEUL
+'"while': KW-GS/WHAOEUL
 'I': EU
 'remain': RAEUPL
 'here;': HAOER/STPH*FPLT
@@ -995,7 +995,7 @@ The Darning-Needle
 'pleasure': PHRERB
 'in': TPH
 'it.': T/TP-PL
-'"Hallo!"': KR-GS/HA*L/KWRO/SKHRAPL/KR-GS
+'"Hallo!"': KW-GS/HA*L/KWRO/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'one,': WUPB/KW-BG
 'as': AS
@@ -1005,7 +1005,7 @@ The Darning-Needle
 'with': W
 'the': -T
 'darning-needle,': TKARPB/-G/H-PB/TPHAO*ELD/KW-BG
-'"here's': KR-GS/HAOER/AES
+'"here's': KW-GS/HAOERS
 'a': AEU
 'fellow': TP*EL
 'for': TPOR
@@ -1072,7 +1072,7 @@ The Darning-Needle
 'into': TPHAO
 'the': -T
 'egg-shell.': EG/H-PB/SHEL/TP-PL
-'"White': KR-GS/WHAO*EUT
+'"White': KW-GS/WHAO*EUT
 'walls,': WAULS/KW-BG
 'and': SKP
 'I': EU

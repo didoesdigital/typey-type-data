@@ -77,7 +77,7 @@ Little Thumb
 'their': THAEUR
 'seven': SEFPB
 'children': KHEURPB
-'incommoded': xxx incommoded
+'incommoded': EUPB/KPHOED/-D
 'them': THEPL
 'greatly,': TKPWRAELT/KW-BG
 'because': PWAU
@@ -257,7 +257,7 @@ Little Thumb
 'burst': PWUFRT
 'with': W
 'grief:': TKPWRAOEF/STPH-FPLT
-'"Thou': KR-GS/KPA/THO*U
+'"Thou': KW-GS/KPA*/THO*U
 'see'st': SAOE/AE/S*/T*
 'plainly': PHRAEUPBL
 'that': THA
@@ -318,7 +318,7 @@ Little Thumb
 'taking': TAEUG
 'any': TPHEU
 'notice."': TPH-TS/TP-PL/KR-GS
-'"Ah!"': KR-GS/KPA/HA*E/SKHRAPL/KR-GS
+'"Ah!"': KW-GS/KPA*/HA*E/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'out': OUT
 'his': HEUS
@@ -748,7 +748,7 @@ Little Thumb
 'immediately': PHAOELD
 'to': TO
 'the': -T
-'butcher's.': PWUFP/ER/AE/S*/TP-PL
+'butcher's.': PWUFP/ER/AES/TP-PL
 'As': KPA/AS
 'it': T
 'was': WAS
@@ -779,7 +779,7 @@ Little Thumb
 'the': -T
 'woman': WOPL
 'said:': SED/STPH-FPLT
-'"Alas!': KR-GS/KPA/A/HRAS/SKHRAPL
+'"Alas!': KW-GS/KPA*/A/HRAS/SKHRAPL
 'where': W-R
 'are': R
 'now': TPHOU
@@ -934,7 +934,7 @@ Little Thumb
 'think': THEU
 'those': THOZ
 'very': SRE
-'importunate': xxx importunate
+'importunate': *EUPL/PORT/SKWRU/*PB/A*T
 'who': WHO
 'are': R
 'always': AULS
@@ -949,7 +949,7 @@ Little Thumb
 'tears,': TAERS/KW-BG
 'crying': KRAOEUG
 'out:': OUT/STPH-FPLT
-'"Alas!': KR-GS/KPA/A/HRAS/SKHRAPL
+'"Alas!': KW-GS/KPA*/A/HRAS/SKHRAPL
 'where': W-R
 'are': R
 'now': TPHOU
@@ -1017,7 +1017,7 @@ Little Thumb
 'thou': THO*U
 'art': ART
 'horribly': HORBL/KWREU
-'bemired;': xxx bemired/STPH*FPLT
+'bemired;': PWE/PHAOEURD/STPH*FPLT
 'come': KOPL
 'in': TPH
 'and': SKP
@@ -1046,7 +1046,7 @@ Little Thumb
 'he': HE
 'was': WAS
 'somewhat': SWHA
-'carrotty,': xxx carrotty/KW-BG
+'carrotty,': KR*/A*/R*/R*/O*/T*/T*/KWREU/KW-BG
 'as': AS
 'she': SHE
 'herself': H*ERS
@@ -1398,7 +1398,7 @@ Little Thumb
 'of': -F
 'them': THEPL
 'the': -T
-'houling': xxx houling
+'houling': H*/O*/*U/HR*/-G
 'of': -F
 'wolves': WOFLS
 'coming': KO*G
@@ -1595,7 +1595,7 @@ Little Thumb
 'woman': WOPL
 'came': KAEUPL
 'and': SKP
-'open'd': OEP/AE/TK*
+'open'd': OEP/*D
 'it;': T/STPH*FPLT
 'she': SHE
 'asked': SK-D
@@ -1640,7 +1640,7 @@ Little Thumb
 'said': SED
 'to': TO
 'them:': THEPL/STPH-FPLT
-'"Alas!': KR-GS/KPA/A/HRAS/SKHRAPL
+'"Alas!': KW-GS/KPA*/A/HRAS/SKHRAPL
 'poor': PAOR
 'babies,': PWAEBS/KW-BG
 'whither': WHEU/THER
@@ -1663,7 +1663,7 @@ Little Thumb
 'up': UP
 'little': HREUL
 'children?"': KHEURPB/H-F/KR-GS
-'"Ah!': KR-GS/KPA/HA*E/SKHRAPL
+'"Ah!': KW-GS/KPA*/HA*E/SKHRAPL
 'dear': TKAER
 'Madam,"': PHAD/APL/KW-BG/KR-GS
 'answered': AEPBS/-D
@@ -1869,7 +1869,7 @@ Little Thumb
 'said': SED
 'his': HEUS
 'wife,': WAOEUF/KW-BG
-'"must': KR-GS/PHUFT
+'"must': KW-GS/PHUFT
 'be': -B
 'the': -T
 'calf': KAF
@@ -1925,7 +1925,7 @@ Little Thumb
 'to': TO
 'the': -T
 'bed.': PWED/TP-PL
-'"Ah!"': KR-GS/KPA/HA*E/SKHRAPL/KR-GS
+'"Ah!"': KW-GS/KPA*/HA*E/SKHRAPL/KR-GS
 'said': SED
 'he,': HE/KW-BG
 '"I': KW-GS/EU
@@ -1961,7 +1961,7 @@ Little Thumb
 'a': AEU
 'tough': TUF
 'old': OLD
-'carrion.': xxx carrion/TP-PL
+'carrion.': KA*R/KWROPB/TP-PL
 'Here': KPA/HAOER
 'is': S
 'good': TKPWAOD
@@ -2072,7 +2072,7 @@ Little Thumb
 'these': THEZ
 'poor': PAOR
 'children,': KHEURPB/KW-BG
-'whetted': WHET/-D
+'whetted': W*/H*/*E/T*/T*/-D
 'it': T
 'upon': POPB
 'a': AEU
@@ -2111,13 +2111,13 @@ Little Thumb
 'time': TAOEUPL
 'enough': TPHUF
 'to-morrow?"': TO/H-PB/HRO*ER/PHOR/ROE/H-F/KR-GS
-'"Hold': KR-GS/KPA/HOLD
+'"Hold': KW-GS/KPA*/HOLD
 'your': KWROUR
 'prattling,"': PRAT/-LG/KW-BG/KR-GS
 'said': SED
 'the': -T
 'Ogre,': KPA/OERG/KW-BG
-'"they': KR-GS/THE
+'"they': KW-GS/THE
 'will': HR
 'eat': AOET
 'the': -T
@@ -2132,7 +2132,7 @@ Little Thumb
 'replied': RE/PHRAOEUD
 'his': HEUS
 'wife,': WAOEUF/KW-BG
-'"you': KR-GS/U
+'"you': KW-GS/U
 'have': SR
 'no': TPHO
 'occasion.': KWAEUGS/TP-PL
@@ -2152,7 +2152,7 @@ Little Thumb
 'said': SED
 'the': -T
 'Ogre,': KPA/OERG/KW-BG
-'"give': KR-GS/TKPWEUF
+'"give': KW-GS/TKPWEUF
 'them': THEPL
 'their': THAEUR
 'belly-full,': PWEL/HREU/H-PB/TPUL/KW-BG
@@ -2345,7 +2345,7 @@ Little Thumb
 'of': -F
 'the': -T
 'like': HRAOEUBG
-'bigness,': xxx bigness/KW-BG
+'bigness,': PWEUG/-PBS/KW-BG
 'and': SKP
 'it': T
 'was': WAS
@@ -2616,10 +2616,10 @@ Little Thumb
 'boys'': PWOEUS/AE
 'little': HREUL
 'bonnets:': PWOPB/ET/-S/STPH-FPLT
-'"Hah!"': KR-GS/xxx Hah/SKHRAPL/KR-GS
+'"Hah!"': KW-GS/H*P/A*/H*/SKHRAPL/KR-GS
 'said': SED
 'he,': HE/KW-BG
-'"my': KR-GS/PHEU
+'"my': KW-GS/PHEU
 'merry': PHER/REU
 'lads,': HRADZ/KW-BG
 'are': R
@@ -2721,7 +2721,7 @@ Little Thumb
 'to': TO
 'his': HEUS
 'wife:': WAOEUF/STPH-FPLT
-'"Go': KR-GS/KPA/TKPW
+'"Go': KW-GS/KPA*/TKPW
 'up': UP
 'stairs': STAEURS
 'and': SKP
@@ -2770,7 +2770,7 @@ Little Thumb
 'put': PUT
 'on': OPB
 'their': THAEUR
-'cloaths,': xxx cloaths/KW-BG
+'cloaths,': KR*/HR*/KWRO/KWRA/*T/-S/KW-BG
 'went': WEPBT
 'up,': UP/KW-BG
 'and': SKP
@@ -2803,7 +2803,7 @@ Little Thumb
 'women': WEUPL
 'find': TPAOEUPBD
 'in': TPH
-'such-like': SUFP/SKWRAOEUBG
+'such-like': SUFP/SKWRAO*EUBG
 'cases.': KAEUSZ/TP-PL
 'The': KPA/-T
 'Ogre,': KPA/OERG/KW-BG
@@ -2838,7 +2838,7 @@ Little Thumb
 'this': TH
 'frightful': TPRAOEUT/-FL
 'spectacle.': SPEBGT/K-L/TP-PL
-'"Ah!': KR-GS/KPA/HA*E/SKHRAPL
+'"Ah!': KW-GS/KPA*/HA*E/SKHRAPL
 'what': WHA
 'have': SR
 'I': EU
@@ -2872,12 +2872,12 @@ Little Thumb
 'her': HER
 'to': TO
 'herself:': H*ERS/STPH-FPLT
-'"Give': KR-GS/KPA/TKPWEUF
+'"Give': KW-GS/KPA*/TKPWEUF
 'me': PHE
 'quickly,"': KWEULG/KW-BG/KR-GS
 'cried': KRAOEUD
 'he,': HE/KW-BG
-'"my': KR-GS/PHEU
+'"my': KW-GS/PHEU
 'boots': PWAOTS
 'of': -F
 'seven': SEFPB
@@ -3217,7 +3217,7 @@ Little Thumb
 'said': SED
 'Little': KPA/HREUL
 'Thumb,': KPA/THUPL/KW-BG
-'"is': KR-GS/S
+'"is': KW-GS/S
 'in': TPH
 'very': SRE
 'great': TKPWRAET
@@ -3699,7 +3699,7 @@ Little Thumb
 'whole': WHOEL
 'family': TPAEPL
 'very': SRE
-'well-to-do,': WEL/H-PB/TO/H-PB/TKO/KW-BG
+'well-to-do,': W*EL/TO*/TKO/KW-BG
 'bought': PWAUT
 'places': PHRAEUFS
 'for': TPOR

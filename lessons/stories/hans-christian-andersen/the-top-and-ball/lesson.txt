@@ -99,7 +99,7 @@ The Top and Ball
 'it': T
 'looked': HRAOBGD
 'splendid.': SPHREPB/TKEUD/TP-PL
-'"Look': KR-GS/KPA/HRAOBG
+'"Look': KW-GS/KPA*/HRAOBG
 'at': AT
 'me,"': PHE/KW-BG/KR-GS
 'said': SED
@@ -139,7 +139,7 @@ The Top and Ball
 'we': WE
 'should': SHO
 'be."': -B/TP-PL/KR-GS
-'"Indeed!': KR-GS/KPA/TPHAOEPBD/SKHRAPL
+'"Indeed!': KW-GS/KPA*/TPHAOEPBD/SKHRAPL
 'do': TKO
 'you': U
 'think': THEU
@@ -167,7 +167,7 @@ The Top and Ball
 'in': TPH
 'my': PHEU
 'body."': PWO*ED/TP-PL/KR-GS
-'"Yes;': KR-GS/KPA/KWRE/STPH*FPLT
+'"Yes;': KW-GS/KPA*/KWRE/STPH*FPLT
 'but': PWUT
 'I': EU
 'am': APL
@@ -210,7 +210,7 @@ The Top and Ball
 'never': TPHEFR
 'be': -B
 'whipped': WHEUPD
-'again,"': TKPWEPB/KW-BG/KR-GS
+'again,"': STKPWERPBGS/KR-GS
 'said': SED
 'the': -T
 'top,': TOP/KW-BG
@@ -235,7 +235,7 @@ The Top and Ball
 'said': SED
 'the': -T
 'ball;': PWAUL/STPH*FPLT
-'"but': KR-GS/PWUT
+'"but': KW-GS/PWUT
 'I': EU
 'cannot': SK-PBT
 'accept': SEP
@@ -272,7 +272,7 @@ The Top and Ball
 'I': EU
 'have': SR
 'said,': SED/KW-BG
-''Yes,'': AE/KPA/KWRE/KW-BG/AE
+''Yes,'': A*E/KPA*/KWRE/KW-BG/AE
 'to': TO
 'myself': PHAO*EUS
 'silently,': SHREPBLT/KW-BG
@@ -416,11 +416,11 @@ The Top and Ball
 'well': WEL
 'where': W-R
 'she': SHE
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'sighed': SAOEU/-D
 'the': -T
 'top;': TOP/STPH*FPLT
-'"she': KR-GS/SHE
+'"she': KW-GS/SHE
 'is': S
 'in': TPH
 'the': -T
@@ -477,7 +477,7 @@ The Top and Ball
 'twirled': TWEURL/-D
 'about': PW
 'and': SKP
-'hummed,': HUPL/-D/KW-BG
+'hummed,': H*/*U/PH*/PH*/-D/KW-BG
 'but': PWUT
 'he': HE
 'continued': T-PBD
@@ -549,7 +549,7 @@ The Top and Ball
 'about': PW
 'till': TEUL
 'he': HE
-'hummed': HUPL/-D
+'hummed': H*/*U/PH*/PH*/-D
 'quite': KWAOEUT
 'loud,': HROUD/KW-BG
 'and': SKP
@@ -625,7 +625,7 @@ The Top and Ball
 'place,"': PHRAEUS/KW-BG/KR-GS
 'said': SED
 'he;': HE/STPH*FPLT
-'"my': KR-GS/PHEU
+'"my': KW-GS/PHEU
 'gilding': TKPW*EULD/-G
 'will': HR
 'soon': SAOPB
@@ -825,10 +825,10 @@ The Top and Ball
 'out': OUT
 'the': -T
 'dust-bin.': TKUFT/H-PB/PWEUPB/TP-PL
-'"Ah,"': KR-GS/KPA/HA*E/KW-BG/KR-GS
+'"Ah,"': KW-GS/KPA*/AERBGS/KR-GS
 'she': SHE
 'exclaimed,': SKHRAEUPLD/KW-BG
-'"here': KR-GS/HAOER
+'"here': KW-GS/HAOER
 'is': S
 'a': AEU
 'gilt': TKPW*EULT

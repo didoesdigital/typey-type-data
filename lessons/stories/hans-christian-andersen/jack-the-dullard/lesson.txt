@@ -341,15 +341,15 @@ Jack the Dullard
 'generally': SKWRERPBL
 'known': TPHOEPB
 'as': AS
-'"Jack': KR-GS/SKWRA*BG
+'"Jack': KW-GS/SKWRA*BG
 'the': -T
 'Dullard."': KPA/TKUL/ARD/TP-PL/KR-GS
-'"Hallo!"': KR-GS/HA*L/KWRO/SKHRAPL/KR-GS
+'"Hallo!"': KW-GS/HA*L/KWRO/SKHRAPL/KR-GS
 'said': SED
 'Jack': SKWRA*BG
 'the': -T
 'Dullard,': KPA/TKUL/ARD/KW-BG
-'"where': KR-GS/W-R
+'"where': KW-GS/W-R
 'are': R
 'you': U
 'going?': TKPW-G/H-F
@@ -362,7 +362,7 @@ Jack the Dullard
 'your': KWROUR
 'Sunday': SUPBD
 'clothes!"': KHRO*ETS/SKHRAPL/KR-GS
-'"We're': KR-GS/KPA/WE/AE/R*/*E
+'"We're': KW-GS/KPA*/WAOER
 'going': TKPW-G
 'to': TO
 'the': -T
@@ -417,7 +417,7 @@ Jack the Dullard
 'and': SKP
 'rode': ROED
 'away.': WA*EU/TP-PL
-'"Father,': KR-GS/KPA/TPAER/KW-BG
+'"Father,': KW-GS/KPA*/TPAER/KW-BG
 'dear,"': TKAER/KW-BG/KR-GS
 'said': SED
 'Jack,': SKWRA*BG/KW-BG
@@ -456,7 +456,7 @@ Jack the Dullard
 'shall': SHAL
 'be': -B
 'mine!"': PHAOEUPB/SKHRAPL/KR-GS
-'"Don't': KR-GS/TKO*PB/AE/T*
+'"Don't': KPA/KW-GS/TKOEPBT
 'talk': TAUBG
 'nonsense,"': TPHOPB/SEPBS/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
@@ -538,8 +538,8 @@ Jack the Dullard
 'like': HRAOEUBG
 'a': AEU
 'hurricane.': HUR/KAEUPB/TP-PL
-'"Hei,': KR-GS/xxx Hei/KW-BG
-'houp!': xxx houp/SKHRAPL
+'"Hei,': KW-GS/KPA/HE/SKWREU/KW-BG
+'houp!': HO*E/SKWRUP/SKHRAPL
 'that': THA
 'was': WAS
 'a': AEU
@@ -599,7 +599,7 @@ Jack the Dullard
 'cleverly': KHREFRL
 'prepared': PRAOEPD
 'beforehand.': PW-FRPBD/TP-PL
-'"Hallo!"': KR-GS/HA*L/KWRO/SKHRAPL/KR-GS
+'"Hallo!"': KW-GS/HA*L/KWRO/SKHRAPL/KR-GS
 'shouted': SHOUT/-D
 'Jack': SKWRA*BG
 'the': -T
@@ -629,7 +629,7 @@ Jack the Dullard
 'a': AEU
 'dead': TKED
 'crow.': KROE/TP-PL
-'"Dullard!"': KR-GS/KPA/TKUL/ARD/SKHRAPL/KR-GS
+'"Dullard!"': KW-GS/KPA*/TKUL/ARD/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'the': -T
 'brothers,': PWROERS/KW-BG
@@ -654,7 +654,7 @@ Jack the Dullard
 'to': TO
 'the': -T
 'Princess."': KPA/PREUPB/SES/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'do': TKO
 'so,"': SO/KW-BG/KR-GS
 'said': SED
@@ -665,7 +665,7 @@ Jack the Dullard
 'and': SKP
 'rode': ROED
 'on.': OPB/TP-PL
-'"Hallo,': KR-GS/HA*L/KWRO/KW-BG
+'"Hallo,': KW-GS/HA*L/KWRO/KW-BG
 'here': HAOER
 'I': EU
 'am': APL
@@ -700,7 +700,7 @@ Jack the Dullard
 'have': SR
 'found': TPOUPBD
 'now.': TPHOU/TP-PL
-'"Dullard!"': KR-GS/KPA/TKUL/ARD/SKHRAPL/KR-GS
+'"Dullard!"': KW-GS/KPA*/TKUL/ARD/SKHRAPL/KR-GS
 'they': THE
 'cried,': KRAOEUD/KW-BG
 '"that': KW-GS/THA
@@ -729,7 +729,7 @@ Jack the Dullard
 'to': TO
 'the': -T
 'Princess?"': KPA/PREUPB/SES/H-F/KR-GS
-'"Most': KR-GS/KPA/PHOFT
+'"Most': KW-GS/KPA*/PHOFT
 'certainly': SERPBL
 'I': EU
 'shall,"': SHAL/KW-BG/KR-GS
@@ -755,7 +755,7 @@ Jack the Dullard
 'of': -F
 'him;': HEUPL/STPH*FPLT
 'but—': PWUT/EPL/TKA*RB
-'"Hallo—hop': KR-GS/HA*L/KWRO/EPL/TKA*RB/HOP
+'"Hallo—hop': KW-GS/HA*L/KWRO/EPL/TKA*RB/HOP
 'rara!"': RA/RA/SKHRAPL/KR-GS
 'and': SKP
 'there': THR
@@ -772,7 +772,7 @@ Jack the Dullard
 'better,"': PWOERT/KW-BG/KR-GS
 'he': HE
 'cried.': KRAOEUD/TP-PL
-'"Hurrah!': KR-GS/KPA/HUR/RA/SKHRAPL
+'"Hurrah!': KW-GS/KPA*/HUR/RA/SKHRAPL
 'it': T
 'is': S
 'quite': KWAOEUT
@@ -787,7 +787,7 @@ Jack the Dullard
 'inquired': EUPB/KWAOEURD
 'the': -T
 'brothers.': PWROERS/TP-PL
-'"Oh,"': KR-GS/KPA/O*ERBGS/KW-BG/KR-GS
+'"Oh,"': KW-GS/KPA*/O*ERBGS/KW-BG/KR-GS
 'said': SED
 'Jack': SKWRA*BG
 'the': -T
@@ -803,7 +803,7 @@ Jack the Dullard
 'Princess': KPA/PREUPB/SES
 'will': HR
 'be!"': -B/SKHRAPL/KR-GS
-'"Bah!"': KR-GS/KPA/PWA*/SKHRAPL/KR-GS
+'"Bah!"': KW-GS/KPA*/PWA*/SKHRAPL/KR-GS
 'said': SED
 'the': -T
 'brothers;': PWROERS/STPH*FPLT
@@ -816,10 +816,10 @@ Jack the Dullard
 'of': -F
 'the': -T
 'ditch."': TKEUFP/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'certainly': SERPBL
 'it': T
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'said': SED
 'Jack': SKWRA*BG
 'the': -T
@@ -1037,7 +1037,7 @@ Jack the Dullard
 'boards': PWORDZ
 'seemed': SAOEPLD
 'to': TO
-'re-echo': R*E/EBG/KWRO
+'re-echo': R*E/EBG/OE
 'with': W
 'his': HEUS
 'footsteps,': TPAOT/STEPS/KW-BG
@@ -1139,7 +1139,7 @@ Jack the Dullard
 'replied': RE/PHRAOEUD
 'the': -T
 'Princess,': KPA/PREUPB/SES/KW-BG
-'"my': KR-GS/PHEU
+'"my': KW-GS/PHEU
 'father': TPAER
 'is': S
 'going': TKPW-G
@@ -1148,13 +1148,13 @@ Jack the Dullard
 'young': KWRUPBG
 'pullets': PUL/ET/-S
 'today."': TOED/TP-PL/KR-GS
-'"Baa!"': KR-GS/xxx Baa/SKHRAPL/KR-GS
+'"Baa!"': KW-GS/KPA/PWA/KWRA/SKHRAPL/KR-GS
 'there': THR
 'he': HE
 'stood': STAOD
 'like': HRAOEUBG
 'a': AEU
-'baa-lamb.': xxx baa/H-PB/HRAPL/TP-PL
+'baa-lamb.': PWA/KWRA/H-PB/HRAPL/TP-PL
 'He': KPA/HE
 'had': H
 'not': TPHOT
@@ -1180,7 +1180,7 @@ Jack the Dullard
 'say': SAEU
 'something': S-G
 'witty.': WEUT/TEU/TP-PL
-'"Baa!"': KR-GS/xxx Baa/SKHRAPL/KR-GS
+'"Baa!"': KW-GS/KPA/PWA/KWRA/SKHRAPL/KR-GS
 '"He': KW-GS/KPA*/HE
 'is': S
 'of': -F
@@ -1189,7 +1189,7 @@ Jack the Dullard
 'said': SED
 'the': -T
 'Princess.': KPA/PREUPB/SES/TP-PL
-'"Away': KR-GS/KPA/WA*EU
+'"Away': KW-GS/KPA*/WA*EU
 'with': W
 'him!"': HEUPL/SKHRAPL/KR-GS
 'And': AFPBD
@@ -1213,15 +1213,15 @@ Jack the Dullard
 'here!"': HAOER/SKHRAPL/KR-GS
 'he': HE
 'observed.': OEBD/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'we're': WAOER
 'roasting': ROEFT/-G
 'pullets': PUL/ET/-S
-'to-day,"': TO/H-PB/TKAEU/KW-BG/KR-GS
+'to-day,"': TO/TKA*EU/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'Princess.': KPA/PREUPB/SES/TP-PL
-'"What—what': KR-GS/KPA/WHA/EPL/TKA*RB/WHA
+'"What—what': KW-GS/KPA*/WHA/EPL/TKA*RB/WHA
 'were': WR
 'you—were': U/EPL/TKA*RB/WR
 'you': U
@@ -1235,7 +1235,7 @@ Jack the Dullard
 'clerks': KHRERBGS
 'wrote': WRO
 'down,': TKOUPB/KW-BG
-'"pleased': KR-GS/PHREFD
+'"pleased': KW-GS/PHREFD
 'to': TO
 'ob-"': O*/PW*/H-PB/KR-GS
 '"He': KW-GS/KPA*/HE
@@ -1246,7 +1246,7 @@ Jack the Dullard
 'said': SED
 'the': -T
 'Princess.': KPA/PREUPB/SES/TP-PL
-'"Away': KR-GS/KPA/WA*EU
+'"Away': KW-GS/KPA*/WA*EU
 'with': W
 'him!"': HEUPL/SKHRAPL/KR-GS
 'Now': KPA/TPHOU
@@ -1271,7 +1271,7 @@ Jack the Dullard
 'abominably': A*/PW*/O*/PH*/*EU/TPH*/A*/PW*/HR*/KWR*
 'hot': HOT
 'here."': HAOER/TP-PL/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'because': PWAU
 'I'm': AOEUPL
 'roasting': ROEFT/-G
@@ -1323,12 +1323,12 @@ Jack the Dullard
 'pot': POT
 'nor': TPH-R
 'pan."': PAPB/TP-PL/KR-GS
-'"Certainly': KR-GS/KPA/SERPBL
+'"Certainly': KW-GS/KPA*/SERPBL
 'I': EU
 'have!"': SR/SKHRAPL/KR-GS
 'said': SED
 'Jack.': SKWRA*BG/TP-PL
-'"Here's': KR-GS/KPA/HAOER/AES
+'"Here's': KW-GS/KPA*/HAOERS
 'a': AEU
 'cooking': KAOG
 'utensil': AOU/TEPB/SEUL
@@ -1519,7 +1519,7 @@ Jack the Dullard
 'they?"': THE/H-F/KR-GS
 'said': SED
 'Jack;': SKWRA*BG/STPH*FPLT
-'"then': KR-GS/THEPB
+'"then': KW-GS/THEPB
 'I': EU
 'will': HR
 'give': TKPWEUF

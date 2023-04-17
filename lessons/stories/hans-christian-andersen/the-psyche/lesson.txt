@@ -66,14 +66,14 @@ The Psyche
 'time': TAOEUPL
 'ago"—the': AG/KR-GS/EPL/TKA*RB/-T
 'Star's': KPA/STAR/AES
-'"short': KR-GS/SHORT
+'"short': KW-GS/SHORT
 'time': TAOEUPL
 'ago"': AG/KR-GS
 'is': S
 'called': KAULD
 'among': PHOPBG
 'men': PHEPB
-'"centuries': KR-GS/KREPBT/REUS
+'"centuries': KW-GS/KREPBT/REUS
 'ago"—"my': AG/KR-GS/EPL/TKA*RB/KR-GS/PHEU
 'rays': RA*ES
 'followed': TPOLD
@@ -350,7 +350,7 @@ The Psyche
 'to': TO
 'bring': PWREU
 'money.': PHUPB/TP-PL
-'"'You': KR-GS/AE/KPA/U
+'"'You': KW-GS/AE/KPA*/U
 'are': R
 'a': AEU
 'dreamer,'': TKRAOEPL/*ER/KW-BG/AE
@@ -361,7 +361,7 @@ The Psyche
 'say': SAEU
 'to': TO
 'him,': HEUPL/KW-BG
-''and': AE/SKP
+''and': A*E/SKP
 'that's': THATS
 'your': KWROUR
 'misfortune.': PHEUZ/TP-RPB/TP-PL
@@ -425,14 +425,14 @@ The Psyche
 'the': -T
 'world': WORLD
 'admires.': AD/PHAOEURS/TP-PL
-'He's': KPA/HE/AES
+'He's': KPA/HAOES
 'no': TPHO
 'despiser': TKE/SPAOEUS/*ER
 'of': -F
 'wine': WAOEUPB
 'and': SKP
 'bread.'': PWRAED/TP-PL/AE
-'"'And': KR-GS/AE/AFPBD
+'"'And': KW-GS/AE/AFPBD
 'he': HE
 'even': AOEPB
 'appreciates': PRAOERBTS
@@ -441,7 +441,7 @@ The Psyche
 'daughter,': TKAUR/KW-BG
 'the': -T
 'pretty': PREUT
-'Fornarina,'': xxx Fornarina/KW-BG/AE
+'Fornarina,'': KPA/TPOR/*PB/A*R/*EUPB/KWRA/KW-BG/AE
 'added': AD/-D
 'Angelo,': APB/SKWRE/HROE/KW-BG
 'one': WUPB
@@ -452,7 +452,7 @@ The Psyche
 'the': -T
 'young': KWRUPBG
 'friends.': TPREPBDZ/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'they': THE
 'said': SED
 'a': AEU
@@ -528,7 +528,7 @@ The Psyche
 'what': WHA
 'they': THE
 'called': KAULD
-''Raphael's': AE/RAF/AEFL/AES
+''Raphael's': A*E/RAF/AEFL/AES
 'merry': PHER/REU
 'life'': HRAOEUF/AE
 'disappeared': TKEUS/PAOERD
@@ -948,7 +948,7 @@ The Psyche
 'about': PW
 'it': T
 'and': SKP
-'sullied': xxx sullied
+'sullied': S*/*U/HR*/HR*/SKWREU/-D
 'its': EUTS
 'purity;': PAOURT/STPH*FPLT
 'but': PWUT
@@ -1217,7 +1217,7 @@ The Psyche
 'know': TPHOE
 'what': WHA
 'life': HRAOEUF
-'is,"': S/KW-BG/KR-GS
+'is,"': S-RBGS/KR-GS
 'cried': KRAOEUD
 'the': -T
 'artist': TR-FT
@@ -1403,7 +1403,7 @@ The Psyche
 'soul': SOUL
 'from': TPR
 'above.': PWOF/TP-PL
-'"Thou': KR-GS/KPA/THO*U
+'"Thou': KW-GS/KPA*/THO*U
 'art': ART
 'a': AEU
 'master': PHAFRT
@@ -1418,7 +1418,7 @@ The Psyche
 'his': HEUS
 'delighted': TKHRAOEUTD
 'friends;': TPREPBDZ/STPH*FPLT
-'"soon': KR-GS/SAOPB
+'"soon': KW-GS/SAOPB
 'shall': SHAL
 'the': -T
 'whole': WHOEL
@@ -1430,7 +1430,7 @@ The Psyche
 'Psyche!"': KPA/SAOEUBG/SKHRAPL/KR-GS
 'he': HE
 'repeated.': RE/PAOETD/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'mine.': PHAOEUPB/TP-PL
 'She': KPA/SHE
 'must': PHUFT
@@ -1710,7 +1710,7 @@ The Psyche
 'step': STEP
 'into': TPHAO
 'the': -T
-'Signora's': xxx Signora/AES
+'Signora's': KPA/SAOEUPB/O*R/KWRA/AES
 'apartment,': ARPLT/KW-BG
 'for': TPOR
 'she,': SHE/KW-BG
@@ -1870,11 +1870,11 @@ The Psyche
 'blackness': PWHRABG/-PBS
 'of': -F
 'night.': TPHAOEUT/TP-PL
-'"Madman!"': KR-GS/KPA/PHAD/PHAPB/SKHRAPL/KR-GS
+'"Madman!"': KW-GS/KPA*/PHAD/PHAPB/SKHRAPL/KR-GS
 'she': SHE
 'cried,': KRAOEUD/KW-BG
-'"away!': KR-GS/WA*EU/SKHRAPL
-'begone!"': xxx begone/SKHRAPL/KR-GS
+'"away!': KW-GS/WA*EU/SKHRAPL
+'begone!"': PWE/TKPWOPB/SKHRAPL/KR-GS
 'And': AFPBD
 'she': SHE
 'turned': TURPBD
@@ -1896,7 +1896,7 @@ The Psyche
 'countenance': KOUPBT/TPHAPBS
 'with': W
 'the': -T
-'snaky': xxx snaky
+'snaky': HRO*ER/S*P/TPH*/KWRA/*BG/KWREU
 'locks.': HROBGZ/TP-PL
 'Like': KPA/HRAOEUBG
 'a': AEU
@@ -1904,7 +1904,7 @@ The Psyche
 'fainting': TPAEUPBT/-G
 'man,': PHAPB/KW-BG
 'he': HE
-'tottered': xxx tottered
+'tottered': T*/O*/T*/T*/*ER/-D
 'down': TKOUPB
 'the': -T
 'staircase': STAEUR/KAEUS
@@ -2015,7 +2015,7 @@ The Psyche
 'happened?"': HAPD/H-F/KR-GS
 'asked': SK-D
 'Angelo.': APB/SKWRE/HROE/TP-PL
-'"Command': KR-GS/KPA/KPHAPBD
+'"Command': KW-GS/KPA*/KPHAPBD
 'yourself.': KWRO*URS/TP-PL
 'Speak!"': KPA/SPAOEBG/SKHRAPL/KR-GS
 'But': KPA/PWUT
@@ -2336,7 +2336,7 @@ The Psyche
 'guitar;': TKPWEU/TAR/STPH*FPLT
 'presently': PREPBLT
 'the': -T
-'Salterello': xxx Salterello
+'Salterello': S*P/A*/HR*/T*/*E/R*/*E/HR*/HR*/KWRO
 'sounded,': SOUPBD/-D/KW-BG
 'and': SKP
 'the': -T
@@ -2365,12 +2365,12 @@ The Psyche
 'festivity.': TPEFT/EUFT/TP-PL
 'Two': KPA/TWO
 'charming': KHARPL/-G
-'Bacchantes': xxx Bacchantes
+'Bacchantes': PW*P/A*/KR*/*FP/APBT/SKWR*E/-S
 'were': WR
 'they;': THE/STPH*FPLT
 'certainly': SERPBL
 'not': TPHOT
-'Psyches—not': xxx Psyches/EPL/TKA*RB/TPHOT
+'Psyches—not': KPA/SAOEUBG/-S/EPL/TKA*RB/TPHOT
 'delicate,': TKEL/KAT/KW-BG
 'beautiful': PWAOUFL
 'roses,': ROES/-S/KW-BG
@@ -2441,7 +2441,7 @@ The Psyche
 'and': SKP
 'around': ARPBD
 'you."': U/TP-PL/KR-GS
-'"Never': KR-GS/KPA/TPHEFR
+'"Never': KW-GS/KPA*/TPHEFR
 'yet': KWRET
 'have': SR
 'I': EU
@@ -2544,7 +2544,7 @@ The Psyche
 'their': THAEUR
 'fresh,': TPRERB/KW-BG
 'hearty': HAR/TEU
-'comeliness,': xxx comeliness/KW-BG
+'comeliness,': KOPL/HR*EUPBS/KW-BG
 'but': PWUT
 'the': -T
 'two': TWO
@@ -2582,7 +2582,7 @@ The Psyche
 'it': T
 'were': WR
 'divine.': TKWAOEUPB/TP-PL
-'"Apollo!': KR-GS/A/POL/HRO/SKHRAPL
+'"Apollo!': KW-GS/A/POL/HRO/SKHRAPL
 'Jupiter!': SKWRAOUP/TER/SKHRAPL
 'I': EU
 'feel': TPAOEL
@@ -2663,7 +2663,7 @@ The Psyche
 'collected': KHREBGD
 'his': HEUS
 'thoughts.': THAUTS/TP-PL
-'"Fie': KR-GS/xxx Fie
+'"Fie': KW-GS/TP*P/AO*E
 'on': OPB
 'thee!"': THAOE/SKHRAPL/KR-GS
 'these': THEZ
@@ -2682,10 +2682,10 @@ The Psyche
 'of': -F
 'his': HEUS
 'heart.': HART/TP-PL
-'"Wretched': KR-GS/KPA/WREFPD
+'"Wretched': KW-GS/KPA*/WREFPD
 'man,': PHAPB/KW-BG
 'go,': TKPW-RBGS
-'begone!"': xxx begone/SKHRAPL/KR-GS
+'begone!"': PWE/TKPWOPB/SKHRAPL/KR-GS
 'And': AFPBD
 'a': AEU
 'deep': TKAOEP
@@ -2695,8 +2695,8 @@ The Psyche
 'from': TPR
 'his': HEUS
 'bosom.': PWUZ/OPL/TP-PL
-'"Away!': KR-GS/KPA/WA*EU/SKHRAPL
-'begone!"': xxx begone/SKHRAPL/KR-GS
+'"Away!': KW-GS/KPA*/WA*EU/SKHRAPL
+'begone!"': PWE/TKPWOPB/SKHRAPL/KR-GS
 'These,': KPA/THEZ/KW-BG
 'her': HER
 'words,': WORDZ/KW-BG
@@ -2979,8 +2979,8 @@ The Psyche
 'twigs': TWEUG/-S
 'and': SKP
 'nettles.': TPHET/-LS/TP-PL
-'"Away!': KR-GS/KPA/WA*EU/SKHRAPL
-'begone!"': xxx begone/SKHRAPL/KR-GS
+'"Away!': KW-GS/KPA*/WA*EU/SKHRAPL
+'begone!"': PWE/TKPWOPB/SKHRAPL/KR-GS
 'Such': KPA/SUFP
 'was': WAS
 'the': -T
@@ -3172,7 +3172,7 @@ The Psyche
 'repeating': RE/PAOEGT
 'within': W-PB
 'us,': US/KW-BG
-'"Eat,': KR-GS/KPA/AOET/KW-BG
+'"Eat,': KW-GS/KPA*/AOET/KW-BG
 'and': SKP
 'thou': THO*U
 'shalt': SHALT
@@ -3419,7 +3419,7 @@ The Psyche
 'air;': AEUR/STPH*FPLT
 'all': AUL
 'the': -T
-'outlines': AOUT/HRAOEUPB/-S
+'outlines': AOUT/HRAOEUPBS
 'melting': PHELT/-G
 'into': TPHAO
 'each': AOEFP
@@ -3527,10 +3527,10 @@ The Psyche
 'who': WHO
 'recognised': REFD/A*U
 'him.': HEUPL/TP-PL
-'"Man!"': KR-GS/KPA/PHAPB/SKHRAPL/KR-GS
+'"Man!"': KW-GS/KPA*/PHAPB/SKHRAPL/KR-GS
 'exclaimed': SKHRAEUPLD
 'Angelo.': APB/SKWRE/HROE/TP-PL
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'it': T
 'is': S
 'thou!': THO*U/SKHRAPL
@@ -3773,9 +3773,9 @@ The Psyche
 'away': WA*EU
 'with': W
 'it!': T/SKHRAPL
-'begone!"': xxx begone/SKHRAPL/KR-GS
+'begone!"': PWE/TKPWOPB/SKHRAPL/KR-GS
 'And': AFPBD
-'tearless,': xxx tearless/KW-BG
+'tearless,': TAER/-LS/KW-BG
 'but': PWUT
 'sunk': S*UPBG
 'in': TPH
@@ -3826,7 +3826,7 @@ The Psyche
 'the': -T
 'darkness': TKARBG/-PBS
 'seem.': SAOEPL/TP-PL
-'"Nothing': KR-GS/KPA/TPHOG
+'"Nothing': KW-GS/KPA*/TPHOG
 'within,': W-PB/KW-BG
 'nothing': TPHOG
 'without—this': WOUT/EPL/TKA*RB/TH
@@ -3893,7 +3893,7 @@ The Psyche
 'suffered': SUFRD
 'and': SKP
 'strove.': STROEF/TP-PL
-'"O': KR-GS/O*P
+'"O': KW-GS/O*P
 'Lord,': HRO*RD/KW-BG
 'my': PHEU
 'Lord!"': HRO*RD/SKHRAPL/KR-GS
@@ -3902,7 +3902,7 @@ The Psyche
 'in': TPH
 'his': HEUS
 'despair,': TKE/SPAEUR/KW-BG
-'"be': KR-GS/-B
+'"be': KW-GS/-B
 'merciful': PHERS/-FL
 'and': SKP
 'grant': TKPWRAPBT
@@ -3914,7 +3914,7 @@ The Psyche
 'the': -T
 'gift': TKPWEUFT
 'thou': THO*U
-'hadst': xxx hadst
+'hadst': H*/A*/TK*/S*/T*
 'vouchsafed': SROUFP/SAEUF/-D
 'to': TO
 'me,': PHE/KW-BG
@@ -4046,7 +4046,7 @@ The Psyche
 'incomprehensible.': EUPB/KPREPBS/-BL/TP-PL
 'Thou': KPA/THO*U
 'art': ART
-'unfathomable,': xxx unfathomable/KW-BG
+'unfathomable,': UPB/TPA/THOPL/-BL/KW-BG
 'O': O*P
 'Lord.': HRO*RD/TP-PL
 'Thy': KPA/THAO*EU
@@ -4166,7 +4166,7 @@ The Psyche
 'skeletons': SKEL/TOPB/-S
 'in': TPH
 'the': -T
-'cloisters': KHROEUFT/*ER/-S
+'cloisters': KHRO*EUS/*ERS
 'of': -F
 'the': -T
 'convent.': KOPB/SREPBT/TP-PL
@@ -4339,7 +4339,7 @@ The Psyche
 'bright': PWRAOEUT
 'Star': KPA/STAR
 'gleamed': TKPWHRAOEPL/-D
-'unaltered,': xxx unaltered/KW-BG
+'unaltered,': UPB/AURLTD/KW-BG
 'radiant': RAEUD/KWRAPBT
 'and': SKP
 'large,': HRARPBLG/KW-BG
@@ -4379,7 +4379,7 @@ The Psyche
 'the': -T
 'temple,': TEFRPL/KW-BG
 'a': AEU
-'nunnery': xxx nunnery
+'nunnery': TPHUPB/*PB/*ER/KWREU
 'was': WAS
 'now': TPHOU
 'built.': PWEULT/TP-PL

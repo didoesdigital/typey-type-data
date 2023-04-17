@@ -231,7 +231,7 @@ The Phoenix Bird
 'the': -T
 'plains': PHRAEUPBS
 'of': -F
-'Lapland,': xxx Lapland/KW-BG
+'Lapland,': HR*P/A*/P*/HR*/KWRA/*PBD/KW-BG
 'and': SKP
 'hops': HOPS
 'among': PHOPBG
@@ -248,7 +248,7 @@ The Phoenix Bird
 'copper': KOP/ER
 'mountains': PHOUPB/TAEUPBS
 'of': -F
-'Fablun,': xxx Fablun/KW-BG
+'Fablun,': TP*P/A*/PW*/HR*/SKWRU/*PB/KW-BG
 'and': SKP
 'England's': TKPWHRAEPBD/AES
 'coal': KOEL
@@ -292,13 +292,13 @@ The Phoenix Bird
 'eye': AOEU
 'of': -F
 'the': -T
-'Hindoo': xxx Hindoo
+'Hindoo': KPA/HAOEUPBD/KWRO/KWRO
 'maid': PHAEUD
 'gleams': TKPWHRAOEPL/-S
 'bright': PWRAOEUT
 'when': WHEPB
 'she': SHE
-'beholds': PWE/HOLD/-S
+'beholds': PWE/HOLDZ
 'him.': HEUPL/TP-PL
 'The': KPA/-T
 'Phoenix': TPAOEPBGS
@@ -321,7 +321,7 @@ The Phoenix Bird
 'the': -T
 'car': KAR
 'of': -F
-'Thespis': xxx Thespis
+'Thespis': KPA/-T/-S/*P/SKWREU/-S
 'he': HE
 'sat': SAT
 'in': TPH
@@ -354,7 +354,7 @@ The Phoenix Bird
 'red': RED
 'beak;': PWAOEBG/STPH*FPLT
 'on': OPB
-'Shakspeare's': xxx Shakspeare/AES
+'Shakspeare's': S*P/H*/A*/K*/-S/*P/SKWR*E/A*R/SKWR*E/AES
 'shoulder': SHOURLD
 'he': HE
 'sat': SAT
@@ -362,7 +362,7 @@ The Phoenix Bird
 'the': -T
 'guise': TKPWAOEUZ
 'of': -F
-'Odin's': xxx Odin/AES
+'Odin's': KPA/O*/TK*/*EUPB/AES
 'raven,': RAFPB/KW-BG
 'and': SKP
 'whispered': WHEUS/PERD
@@ -370,7 +370,7 @@ The Phoenix Bird
 'the': -T
 'poet's': POET/AES
 'ear': AOER
-'"Immortality!"': KR-GS/KPA/EUPL/POR/TALT/SKHRAPL/KR-GS
+'"Immortality!"': KW-GS/KPA*/EUPL/POR/TALT/SKHRAPL/KR-GS
 'and': SKP
 'at': AT
 'the': -T
@@ -383,7 +383,7 @@ The Phoenix Bird
 'halls': HAULS
 'of': -F
 'the': -T
-'Wartburg.': xxx Wartburg/TP-PL
+'Wartburg.': KPA/WART/PW*URG/TP-PL
 'The': KPA/-T
 'Phoenix': TPAOEPBGS
 'bird,': PWEURD/KW-BG
@@ -397,10 +397,10 @@ The Phoenix Bird
 'to': TO
 'thee': THAOE
 'the': -T
-'Marseillaise,': xxx Marseillaise/KW-BG
+'Marseillaise,': PH*P/A*/R*/S*/*E/*EU/HR*/HR*/KWRA/AOEUZ/A*U/KW-BG
 'and': SKP
 'thou': THO*U
-'kissedst': xxx kissedst
+'kissedst': K*/*EU/S*/S*/*E/TK*/S*/T*
 'the': -T
 'pen': PEPB
 'that': THA
@@ -467,7 +467,7 @@ The Phoenix Bird
 'and': SKP
 'disregarded,': TKEUS/RARD/-D/KW-BG
 'a': AEU
-'myth—"The': PH*EUT/EPL/TKA*RB/KR-GS/KPA/-T
+'myth—"The': PH*EUT/EPL/TKA*RB/KR-GS/KPA*/-T
 'Phoenix': TPAOEPBGS
 'of': -F
 'Arabia."': A/RAEUB/KWRA/TP-PL/KR-GS
@@ -487,7 +487,7 @@ The Phoenix Bird
 'of': -F
 'Knowledge,': KPA/TPHOPBLG/KW-BG
 'thou': THO*U
-'receivedst': xxx receivedst
+'receivedst': RE/KR*/*E/*EU/SR*/*E/TK*/S*/T*
 'a': AEU
 'kiss,': KEUS/KW-BG
 'and': SKP

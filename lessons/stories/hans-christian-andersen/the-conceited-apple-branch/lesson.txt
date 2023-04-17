@@ -23,7 +23,7 @@ The Conceited Apple-Branch
 'the': -T
 'welcome': WELG
 'sound,': SOUPBD/KW-BG
-'"Spring': KR-GS/KPA/SPREUPBG
+'"Spring': KW-GS/KPA*/SPREUPBG
 'is': S
 'come."': KOPL/TP-PL/KR-GS
 'Wild-flowers': KPA/WAOEULD/H-PB/TPHRO*URS
@@ -355,13 +355,13 @@ The Conceited Apple-Branch
 'and': SKP
 'humble': HUPL/-BL
 'indeed.': TPHAOEPBD/TP-PL
-'"Poor,': KR-GS/KPA/PAOR/KW-BG
+'"Poor,': KW-GS/KPA*/PAOR/KW-BG
 'despised': STKPAOEUDZ
 'herbs,"': HERBS/KW-BG/KR-GS
 'said': SED
 'the': -T
 'apple-branch;': A*EPL/H-PB/PWRAFRPB/STPH*FPLT
-'"there': KR-GS/THR
+'"there': KW-GS/THR
 'is': S
 'really': R-L
 'a': AEU
@@ -466,10 +466,10 @@ The Conceited Apple-Branch
 'ugly': ULG
 'name': TPHAEUPL
 'of': -F
-'"dog-flowers"': KR-GS/TKOG/H-PB/TPHRO*URS/KR-GS
+'"dog-flowers"': KW-GS/TKOG/H-PB/TPHRO*URS/KR-GS
 'or': OR
-'"dandelions."': KR-GS/TKAPBD/HRAOEUPB/-S/TP-PL/KR-GS
-'"Poor,': KR-GS/KPA/PAOR/KW-BG
+'"dandelions."': KW-GS/TKAPBD/HRAOEUPB/-S/TP-PL/KR-GS
+'"Poor,': KW-GS/KPA*/PAOR/KW-BG
 'despised': STKPAOEUDZ
 'plants,"': PHRAPBTS/KW-BG/KR-GS
 'said': SED
@@ -967,7 +967,7 @@ The Conceited Apple-Branch
 'of': -F
 'giving': TKPWEUFG
 'pleasure?"': PHRERB/H-F/KR-GS
-'"Yes,': KR-GS/KPA/KWRE/KW-BG
+'"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'to': TO
 'children,"': KHEURPB/KW-BG/KR-GS
 'said': SED
@@ -1043,7 +1043,7 @@ The Conceited Apple-Branch
 'the': -T
 'apple-tree': A*EPL/H-PB/TRAOE
 'branch;': PWRAFRPB/STPH*FPLT
-'"only': KR-GS/OEPBL
+'"only': KW-GS/OEPBL
 'the': -T
 'chosen': KHOEFPB
 'ones': WUPBZ
@@ -1235,7 +1235,7 @@ The Conceited Apple-Branch
 'of': -F
 'which': WEU
 'its': EUTS
-'mist-like': PHEUFT/SKWRAOEUBG
+'mist-like': PHEUFT/SKWRAO*EUBG
 'shape': SHAEUP
 'was': WAS
 'so': SO
@@ -1250,7 +1250,7 @@ The Conceited Apple-Branch
 'it': T
 'forth': TPO*RT
 'quite': KWAOEUT
-'uninjured,': xxx uninjured/KW-BG
+'uninjured,': UPB/SKWR-RD/KW-BG
 'and': SKP
 'wondered': WOPBD/-D
 'at': AT
@@ -1272,7 +1272,7 @@ The Conceited Apple-Branch
 'by': PWEU
 'the': -T
 'wind.': WEUPBD/TP-PL
-'"See,"': KR-GS/KPA/SAOE/KW-BG/KR-GS
+'"See,"': KW-GS/KPA*/SAOE/KW-BG/KR-GS
 'she': SHE
 'exclaimed,': SKHRAEUPLD/KW-BG
 '"how': KW-GS/HOU
