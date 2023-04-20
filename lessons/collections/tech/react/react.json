@@ -37,7 +37,7 @@
 "KEGT/KPA*/TAOEUP": "contextType",
 "KRAOET/K*EGT": "createContext",
 "ROEUR/PWOUPBD/AER": "ErrorBoundary",
-"R*EF": "ref",
+"REF": "ref",
 "KRAOET/REF": "createRef",
 "REF/P-P/K*URPBT": "ref.current",
 "TPAORD/REF": "forwardRef",
