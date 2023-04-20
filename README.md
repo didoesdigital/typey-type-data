@@ -6,9 +6,17 @@ This project contains data for [Typey Type](https://github.com/didoesdigital/typ
 
 You can support [Di’s efforts on Patreon](https://www.patreon.com/didoesdigital). A monthly donation helps Di build more lessons and features to help you fast-track your steno progress.
 
-## No code contributions at this time
+## Contributing lessons or dictionaries
 
-This project is the result of automated scripts that transform Typey Type’s [steno-dictionaries](https://github.com/didoesdigital/steno-dictionaries) and other data to produce the files in this repo. You can **create issues** for lesson ideas or inaccurate data. See the [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
+To contribute lessons or dictionaries, see the [Typey Type CLI](https://github.com/didoesdigital/typey-type-cli) repo instead.
+
+*This* repo contains the results of automated scripts from the CLI that transform Typey Type’s [steno-dictionaries](https://github.com/didoesdigital/steno-dictionaries) and other data to produce the files in this repo.
+
+You can **create issues** for lesson ideas or inaccurate data. See the [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
+
+## Steno dictionaries git submodule
+
+Historically this repo has contained the [steno-dictionaries](https://github.com/didoesdigital/steno-dictionaries) submodule but it is moving to [Typey Type CLI](https://github.com/didoesdigital/typey-type-cli). If you've been using the paths to these dictionaries in Plover, for example, you may need to update them to look in the CLI or somewhere standalone.
 
 ## Code of Conduct
 
@@ -25,6 +33,7 @@ This project is licensed under GPL-2.0, as shown in [LICENSE](./LICENSE). The fo
 ## Related repos
 
 - [Typey Type](https://github.com/didoesdigital/typey-type)
+- [Typey Type CLI](https://github.com/didoesdigital/typey-type-cli)
 - [Di's steno dictionaries](https://github.com/didoesdigital/steno-dictionaries)
 - [Stenoboard diagram SVG to React](https://github.com/didoesdigital/typey-type-stenoboard-diagram-svg-to-react)
 

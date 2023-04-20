@@ -2,9 +2,11 @@
 
 🎉 Thanks for taking the time to contribute! 🎉
 
-## No code contributions at this time
+## No code contributions here
 
-This project is the result of automated scripts that transform Typey Type’s [steno-dictionaries](https://github.com/didoesdigital/steno-dictionaries) and other data to produce the files in this repo. You can **create issues** for lesson ideas or inaccurate data.
+This project is the result of automated scripts that transform Typey Type’s [steno-dictionaries](https://github.com/didoesdigital/steno-dictionaries) and other data to produce the files in this repo.
+
+To contribute lessons or dictionaries, see the [Typey Type CLI](https://github.com/didoesdigital/typey-type-cli) repo instead.
 
 ## Issues
 
