@@ -16,7 +16,23 @@ You can **create issues** for lesson ideas or inaccurate data. See the [CONTRIBU
 
 ## Steno dictionaries git submodule
 
-Historically this repo has contained the [steno-dictionaries](https://github.com/didoesdigital/steno-dictionaries) submodule but it is moving to [Typey Type CLI](https://github.com/didoesdigital/typey-type-cli). If you've been using the paths to these dictionaries in Plover, for example, you may need to update them to look in the CLI or somewhere standalone.
+Historically this repo has contained the [steno-dictionaries](https://github.com/didoesdigital/steno-dictionaries) submodule but that has been moved to [Typey Type CLI](https://github.com/didoesdigital/typey-type-cli). If you've been using the paths to these dictionaries in Plover, for example, you may need to update them to look in the CLI's submodule or somewhere standalone. For example, if Plover was looking for:
+
+```
+~/projects/typey-type/typey-type-data/didoesdigital/dictionaries
+```
+
+… replace that with:
+
+```
+~/projects/typey-type-cli/didoesdigital/steno-dictionaries/dictionaries
+```
+
+… or a completely separate place like:
+
+```
+~/steno/didoesdigital/steno-dictionaries/dictionaries
+```
 
 ## Code of Conduct
 
