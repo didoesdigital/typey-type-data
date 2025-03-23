@@ -696,12 +696,12 @@ The Elfin Hill
 'brewery,': PWRAOU/REU/KW-BG
 'and': SKP
 'sparkling': SPAR/K-LG
-'salt-petre': SALT/H-PB/P*/*E/T*/R*/SKWR*E
+'salt-petre': SALT/H-PB/P*/*E/T*/R*/SKWRE
 'wine': WAOEUPB
 'from': TPR
 'the': -T
 'grave': TKPWRAEUF
-'cellars.': SEL/AR/-S/TP-PL
+'cellars.': KREL/A*RS/TP-PL
 'These': KPA/THEZ
 'were': WR
 'all': AUL
@@ -846,7 +846,7 @@ The Elfin Hill
 'in': TPH
 'the': -T
 'ancient': AEURBT
-'Dovre': TK*P/O*/SR*/R*/SKWR*E
+'Dovre': TK*P/O*/SR*/R*/SKWRE
 'mountains,': PHOUPB/TAEUPBS/KW-BG
 'and': SKP
 'who': WHO
@@ -857,7 +857,7 @@ The Elfin Hill
 'of': -F
 'rock': ROBG
 'and': SKP
-'freestone,': TPRAOE/*ES/O*EPB/KW-BG
+'freestone,': TPRAOE/STO*EPB/KW-BG
 'besides': PW-DZ
 'a': AEU
 'gold': TKPWOELD
@@ -892,7 +892,7 @@ The Elfin Hill
 'honest,': HOPBS/KW-BG
 'old': OLD
 'Norwegian': TPHOR/WAOEGS
-'graybeard;': TKPW*/R*/A*/KWR*/PW*/SKWR*E/KWRA/R*D/STPH*FPLT
+'graybeard;': TKPW*/R*/A*/KWR*/PW*/SKWRE/SKWRA/R*D/STPH*FPLT
 'cheerful': KHAOER/-FL
 'and': SKP
 'straightforward.': SRAOD/TP-PL
@@ -1111,7 +1111,7 @@ The Elfin Hill
 'goblin': TKPWOB/HREUPB
 'from': TPR
 'the': -T
-'Dovre': TK*P/O*/SR*/R*/SKWR*E
+'Dovre': TK*P/O*/SR*/R*/SKWRE
 'mountains,': PHOUPB/TAEUPBS/KW-BG
 'with': W
 'his': HEUS
@@ -2141,7 +2141,7 @@ The Elfin Hill
 'and': SKP
 'little': HREUL
 'Peter': PAOERT
-'Playman': P*P/HR*/A*/KWR*/PH*/KWRA/*PB
+'Playman': KPA/PHRAEU/PHA*PB
 'had': H
 'not': TPHOT
 'yet': KWRET
