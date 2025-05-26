@@ -432,7 +432,7 @@ The Psyche
 'wine': WAOEUPB
 'and': SKP
 'bread.'': PWRAED/TP-PL/AE
-'"'And': KW-GS/AE/AFPBD
+'"'And': KW-GS/A*E/AFPBD
 'he': HE
 'even': AOEPB
 'appreciates': PRAOERBTS
@@ -2557,7 +2557,7 @@ The Psyche
 'portraits.': POR/TRAT/-S/TP-PL
 'All': KPA/AUL
 'the': -T
-'burners': PWURPB/ERS
+'burners': PWURPB/*ERS
 'of': -F
 'the': -T
 'six-armed': SEUBGS/H-PB/ARPLD
@@ -3087,7 +3087,7 @@ The Psyche
 'fell': TPEL
 'like': HRAOEUBG
 'warm': WARPL
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'upon': POPB
 'a': AEU
 'teeming': TAO*EPL/-G
@@ -3914,7 +3914,7 @@ The Psyche
 'the': -T
 'gift': TKPWEUFT
 'thou': THO*U
-'hadst': H*/A*/TK*/S*/T*
+'hadst': H/*FT
 'vouchsafed': SROUFP/SAEUF/-D
 'to': TO
 'me,': PHE/KW-BG

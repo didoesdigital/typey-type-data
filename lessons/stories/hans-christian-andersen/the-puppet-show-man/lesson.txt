@@ -159,7 +159,7 @@ The Puppet-Show Man
 'in': TPH
 'black,': PWHRARBGS
 'of': -F
-'student-like': STAUPB/SKWRAO*EUBG
+'student-like': STAUPB/SKWRAOEUBG
 'appearance,': PAOERPBS/KW-BG
 'entered': SPWR-D
 'the': -T
@@ -755,7 +755,7 @@ The Puppet-Show Man
 'men': PHEPB
 'and': SKP
 'women.'': WEUPL/TP-PL/AE
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'understand,'': URPBD/KW-BG/AE
 'he': HE
 'said;': SED/STPH*FPLT
@@ -1211,7 +1211,7 @@ The Puppet-Show Man
 'house.': HOUS/TP-PL
 'The': KPA/-T
 ''prima': A*E/PREU/PHA
-'donna'': HRO*ER/TKO*PB/KWRA/AE
+'donna'': HRO*ER/TKOPB/TPHA/AE
 'would': WO
 'only': OEPBL
 'act': ABGT
@@ -1262,7 +1262,7 @@ The Puppet-Show Man
 'away,': WA*EU/KW-BG
 'my': PHEU
 'head': HED
-'whirled,': WHEURL/-D/KW-BG
+'whirled,': WHEUR/*LD/KW-BG
 'and': SKP
 'I': EU
 'was': WAS
@@ -1642,7 +1642,7 @@ The Puppet-Show Man
 'shorter,': SHORT/*ER/KW-BG
 'for': TPOR
 'the': -T
-'youngsters': KWR*UPBGS/ERS
+'youngsters': KWRUPBG/STERS
 'don't': TKOEPBT
 'like': HRAOEUBG
 'long': HROPBG

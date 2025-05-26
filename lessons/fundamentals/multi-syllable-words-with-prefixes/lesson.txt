@@ -146,7 +146,6 @@ Multi-syllable words with prefixes
 'defeat': TKE/TPAOET
 'indifferent': EUPB/TKEUFRPB
 'discourse': TKEUS/KORS
-'regions': RAOE/SKWROPBS
 'intervals': EUPBT/SRALS
 'revenge': RE/SREPBG
 'resources': RE/SORSZ
@@ -184,6 +183,7 @@ Multi-syllable words with prefixes
 'conceive': KAUPB/SAOEF
 'confessed': KAUPB/TPES/-D
 'repose': RE/POES
+'sunset': SAUPB/SET
 'abode': A/PWOED
 'appearing': A/PAOERG
 'assurance': A/SHURPBS
@@ -536,7 +536,6 @@ Multi-syllable words with prefixes
 'insulted': EUPB/SULT/-D
 'embarked': EPL/PWARBG/-D
 'enchanted': EPB/KHAPBT/-D
-'reflecting': RAOE/TPHREBGT/-G
 'irritation': EUR/TAEUGS
 'attire': A/TAOEUR
 'reluctantly': RE/HRUBGT/APBT/HREU
@@ -630,7 +629,6 @@ Multi-syllable words with prefixes
 'rebuke': RE/PWAOUBG
 'abolished': A/PWOL/EURBD
 'applying': A/PHRAOEUG
-'renowned': RAOE/TPHOEPBD
 'degraded': TKE/TKPWRAEUD/-D
 'avenge': A/SREPBG
 'aloof': A/HRAOF
@@ -703,7 +701,6 @@ Multi-syllable words with prefixes
 'revival': RE/SRAOEUFL
 'inexplicable': EUPB/SPHREUBG/-BL
 'deception': TKE/SEPGS
-'religions': RAOE/HREUPBLG/OPBS
 'prophetic': PRO/TPET/EUBG
 'undergo': UPBD/TKPW
 'beware': PWE/WAEUR
@@ -738,7 +735,6 @@ Multi-syllable words with prefixes
 'inflict': EUPB/TPHREUBGT
 'overtook': AUFR/TAOBG
 'implements': EUPL/PHREPLTS
-'recompense': RAOE/KPEPBS
 'befall': PWE/TPAUL
 'dissolution': TKEUS/SHRAOUGS
 'unlikely': UPB/HRAOEULG
@@ -753,7 +749,6 @@ Multi-syllable words with prefixes
 'averted': A/SRERT/-D
 'untouched': UPB/TUFPD
 'overtaken': AUFR/TAEPB
-'revealing': RAOE/SRAOELG
 'impenetrable': EUPL/PEPB/TRABL
 'impartial': EUPL/PARBL
 'disinterested': TKEUS/TR-D

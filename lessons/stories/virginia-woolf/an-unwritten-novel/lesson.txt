@@ -254,7 +254,7 @@ An Unwritten Novel
 'with': W
 'a': AEU
 'goods': TKPWAODZ
-'train....'': TRAEUPB/TP-PL/TP-PL/TP-PL/TP-PL/AE
+'train....'': TRAEUPB/TP-PL/HR-PS/AE
 'We': KPA/WE
 'all': AUL
 'know—the': TPHOE/EPL/TKA*RB/-T
@@ -564,7 +564,7 @@ An Unwritten Novel
 'of': -F
 'brothers': PWROERS
 'at': AT
-'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/KW-BG
+'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE/KW-BG
 'and': SKP
 'the': -T
 'time': TAOEUPL
@@ -1157,7 +1157,7 @@ An Unwritten Novel
 'the': -T
 'roofs': RAOFS
 'of': -F
-'Eastbourne—zigzagging': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/EPL/TKA*RB/S*EUG/SA*G/-G
+'Eastbourne—zigzagging': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE/EPL/TKA*RB/S*EUG/SA*G/-G
 'roofs': RAOFS
 'like': HRAOEUBG
 'the': -T
@@ -1206,7 +1206,7 @@ An Unwritten Novel
 'side': SAOEUD
 'furred': TPUR/-D
 'felt': TPELT
-'slippers.': SHREUP/ERS/TP-PL
+'slippers.': SHREUP/*ERS/TP-PL
 'The': KPA/-T
 'looking-glass—no,': HRAOG/H-PB/TKPWHRAS/EPL/TKA*RB/TPHORBGS
 'you': U
@@ -1338,7 +1338,7 @@ An Unwritten Novel
 'the': -T
 'roofs': RAOFS
 'of': -F
-'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/KW-BG
+'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE/KW-BG
 'Minnie': PHEUPB/AO*E
 'Marsh': KPA/PHA*RB
 'prays': PRAEU/-S
@@ -1380,7 +1380,7 @@ An Unwritten Novel
 'back': PWABG
 'streets': STRAOETS
 'of': -F
-'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/KW-BG
+'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE/KW-BG
 'the': -T
 'God': TKPWO*D
 'of': -F
@@ -1531,7 +1531,7 @@ An Unwritten Novel
 'Vows': KPA/SROUS
 'broken?': PWROEPB/H-F
 'Not': KPA/TPHOT
-'Minnie's!...': PHEUPB/AO*E/AES/SKHRAPL/TP-PL/TP-PL/TP-PL
+'Minnie's!...': PHEUPB/AO*E/AES/SKHRAPL/HR-PS
 'She': KPA/SHE
 'was': WAS
 'faithful.': TPA*EUT/-FL/TP-PL
@@ -1556,7 +1556,7 @@ An Unwritten Novel
 'the': -T
 'track.': TRABG/TP-PL
 'A': KPA/AEU
-'crime....': KRAOEUPL/TP-PL/TP-PL/TP-PL/TP-PL
+'crime....': KRAOEUPL/TP-PL/HR-PS
 'They': KPA/THE
 'would': WO
 'say': SAEU
@@ -2168,9 +2168,9 @@ An Unwritten Novel
 'the': -T
 'crimes,': KRAOEUPLS/KW-BG
 'sorrows,': SROE/-S/KW-BG
-'rhapsodies,': R*/H*/A*/P*/S*/O*/TK*/KWREU/-S/KW-BG
+'rhapsodies,': R*/H*/A*/P*/S*/O*/TK*/KWREUS/KW-BG
 'or': OR
-'insanities': EUPB/S*/A*/TPH*/*EU/T*/KWREU/-S
+'insanities': EUPB/S*/A*/TPH*/*EU/T*/KWREUS
 'for': TPOR
 'poor': PAOR
 'Minnie': PHEUPB/AO*E
@@ -2357,7 +2357,7 @@ An Unwritten Novel
 'the': -T
 'moon': PHAOPB
 'and': SKP
-'immortality....': EUPL/POR/TALT/TP-PL/TP-PL/TP-PL/TP-PL
+'immortality....': EUPL/POR/TALT/TP-PL/HR-PS
 'Oh,': KPA/O*ERBGS/KW-BG
 'but': PWUT
 'I': EU
@@ -2682,7 +2682,7 @@ An Unwritten Novel
 'but': PWUT
 'rhododendrons': ROED/TKEPBD/ROPB/-S
 'in': TPH
-'Eastbourne—in': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/EPL/TKA*RB/TPH
+'Eastbourne—in': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE/EPL/TKA*RB/TPH
 'December—on': TKAOES/EPL/TKA*RB/OPB
 'the': -T
 'Marshes'': KPA/PHAR/-RBS/AE
@@ -2810,7 +2810,7 @@ An Unwritten Novel
 'on': OPB
 'Thursdays,': THURDZ/KW-BG
 'his': HEUS
-'Eastbourne': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE
+'Eastbourne': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE
 'day,': TKAEU/KW-BG
 'takes': TAEUBGS
 'his': HEUS
@@ -3168,12 +3168,12 @@ An Unwritten Novel
 'Marsh;': KPA/PHA*RB/STPH*FPLT
 'wretched,': WREFPD/KW-BG
 'elderly': ERLD
-'female....': TPAEL/TP-PL/TP-PL/TP-PL/TP-PL
+'female....': TPAEL/TP-PL/HR-PS
 'You': KPA/U
 'should': SHO
 'feed': TPAOED
 'your': KWROUR
-'hens....': HEPBZ/TP-PL/TP-PL/TP-PL/TP-PL
+'hens....': HEPBZ/TP-PL/HR-PS
 'God's': TKPWO*D/AES
 'truth,': TRAO*UT/KW-BG
 'what's': WHATS
@@ -3334,7 +3334,7 @@ An Unwritten Novel
 'you': U
 'driving': TKRAOEUFG
 'through': THRU
-'Eastbourne': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE
+'Eastbourne': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE
 'this': TH
 'afternoon': AFPB
 'in': TPH
@@ -3524,7 +3524,7 @@ An Unwritten Novel
 'eggshell': EG/SHEL
 'into': TPHAO
 'deep': TKAOEP
-'declivities).': TKE/KR*/HR*/*EU/SR*/*EU/T*/KWREU/-S/PR*EPB/TP-PL
+'declivities).': TKE/KR*/HR*/*EU/SR*/*EU/T*/KWREUS/PR*EPB/TP-PL
 'She': KPA/SHE
 'said': SED
 'it': T
@@ -3649,7 +3649,7 @@ An Unwritten Novel
 'what': WHA
 'splendours': SHREPBD/O*R/A*U/-S
 'and': SKP
-'pageantries': P*/A*/TKPW*/*E/A*/TPH*/T*/R*/KWREU/-S
+'pageantries': P*/A*/TKPW*/*E/A*/TPH*/T*/R*/KWREUS
 'glimpsed': TKPWHREUPLS/-D
 'in': TPH
 'girlhood.': TKPWEURL/HAO*D/TP-PL
@@ -3690,7 +3690,7 @@ An Unwritten Novel
 'doctors': TKR-S
 'themselves': TH*EPLS
 'would': WO
-'exclaim....': SKHRAEUPL/TP-PL/TP-PL/TP-PL/TP-PL
+'exclaim....': SKHRAEUPL/TP-PL/HR-PS
 'There's': KPA/THR-S
 'the': -T
 'vista': SRAOES/TA
@@ -3830,7 +3830,7 @@ An Unwritten Novel
 'to': TO
 'the': -T
 'twig's': TWEUG/AES
-'elbow....': EL/PWOE/TP-PL/TP-PL/TP-PL/TP-PL
+'elbow....': EL/PWOE/TP-PL/HR-PS
 'Why': KPA/KWR
 'look': HRAOBG
 'up?': UP/H-F
@@ -3860,7 +3860,7 @@ An Unwritten Novel
 'Hilda': HEUL/TKA
 'will': HR
 'come.': KOPL/TP-PL
-'Ignominies,': *EUG/TPHOPL/*EUPB/KWREU/-S/KW-BG
+'Ignominies,': *EUG/TPHOPL/*EUPB/KWREUS/KW-BG
 'humiliations,': HAOU/PHEUL/KWRAEUGS/-S/KW-BG
 'oh!': O*ERBGS/SKHRAPL
 'Close': KPA/KHROES
@@ -3924,7 +3924,7 @@ An Unwritten Novel
 'mistaken,': SPHA*EUPB/KW-BG
 'the': -T
 'pulse's': PULS/AES
-'quickened,': KWEUBG/*EPB/-D/KW-BG
+'quickened,': KWEUBG/*EPBD/KW-BG
 'the': -T
 'moment's': PHOEPLT/AES
 'coming,': KO*G/KW-BG
@@ -3980,7 +3980,7 @@ An Unwritten Novel
 'Yes,': KPA/KWRE/KW-BG
 'this': TH
 'is': S
-'Eastbourne.': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/TP-PL
+'Eastbourne.': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE/TP-PL
 'I'll': AOEUL
 'reach': RAOEFP
 'it': T
@@ -4038,7 +4038,7 @@ An Unwritten Novel
 'far': TPAR
 'side': SAOEUD
 'of': -F
-'Eastbourne).': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/PR*EPB/TP-PL
+'Eastbourne).': *EP/A*/S*/T*/PW*/O*UR/A*U/*PB/SKWRE/PR*EPB/TP-PL
 '"I'll': KW-GS/AOEUL
 'wait': WAEUT
 'by': PWEU
@@ -4051,7 +4051,7 @@ An Unwritten Novel
 'said': SED
 'he'd': HAOED
 'meet': PHAOET
-'me....': PHE/TP-PL/TP-PL/TP-PL/TP-PL
+'me....': PHE/TP-PL/HR-PS
 'Oh,': KPA/O*ERBGS/KW-BG
 'there': THR
 'he': HE
@@ -4067,7 +4067,7 @@ An Unwritten Novel
 'Well,': KPA/WEL/KW-BG
 'but': PWUT
 'I'm': AOEUPL
-'confounded....': KOPB/TPOUPBD/-D/TP-PL/TP-PL/TP-PL/TP-PL
+'confounded....': KOPB/TPOUPBD/-D/TP-PL/HR-PS
 'Surely,': KPA/SHURL/KW-BG
 'Minnie,': PHEUPB/AO*E/KW-BG
 'you': U
@@ -4076,7 +4076,7 @@ An Unwritten Novel
 'A': KPA/AEU
 'strange': STRAEUPBG
 'young': KWRUPBG
-'man....': PHAPB/TP-PL/TP-PL/TP-PL/TP-PL
+'man....': PHAPB/TP-PL/HR-PS
 'Stop!': KPA/STOP/SKHRAPL
 'I'll': AOEUL
 'tell': TEL
@@ -4099,7 +4099,7 @@ An Unwritten Novel
 'it's': T-S
 'untrue,': UPB/TRAOU/KW-BG
 'it's': T-S
-'indecent....': EUPB/TKAOEPBT/TP-PL/TP-PL/TP-PL/TP-PL
+'indecent....': EUPB/TKAOEPBT/TP-PL/HR-PS
 'Look': KPA/HRAOBG
 'how': HOU
 'he': HE
@@ -4124,7 +4124,7 @@ An Unwritten Novel
 'road,': RAOD/KW-BG
 'side': SAOEUD
 'by': PWEU
-'side....': SAOEUD/TP-PL/TP-PL/TP-PL/TP-PL
+'side....': SAOEUD/TP-PL/HR-PS
 'Well,': KPA/WEL/KW-BG
 'my': PHEU
 'world's': WORLD/AES
@@ -4225,7 +4225,7 @@ An Unwritten Novel
 'The': KPA/-T
 'white': WHAOEUT
 'light': HRAOEUT
-'splutters': SPHRUT/ERS
+'splutters': SPHRUT/*ERS
 'and': SKP
 'pours.': PAOURS/TP-PL
 'Plate-glass': KPA/PHRAET/H-PB/TKPWHRAS
